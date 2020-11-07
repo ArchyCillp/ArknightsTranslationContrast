@@ -1,0 +1,288 @@
+[name="锡兰"]   ......可以陪我逛逛吗，博士。
+[name="セイロン"]   ……散歩に付き合っていただけますか、ドクター。
+[name="Ceylon"]   ...Would you be able to walk around a bit with me, Doctor?
+
+[Decision(options="我有些担心你。",values="1")]
+[Decision(options="君のことが心配だ。",values="1")]
+[Decision(options="I'm a little worried about you.",values="1")]
+
+[name="锡兰"]   博士，你知道吗，我小的时候，这片沙滩没有这么多人的。我很喜欢一个人在那里堆沙子城堡。
+[name="セイロン"]   ドクター、ご存知？　わたくしが幼い頃は、このビーチはあまり人気のないところでしたの。よく一人で、砂のお城を建てて遊んでいました。
+[name="Ceylon"]   Doctor, did you know? When I was a child, this beach wasn't this busy. I used to like making sand castles by myself.
+
+[name="锡兰"]   ......这座城市在我父亲的治理下，每一年都在变得更好。
+[name="セイロン"]   ……この都市はお父様が市長を務めるようになって、年々素晴らしい都市になっていきましたのよ。
+[name="Ceylon"]   ...This city is getting better and better every year, thanks to my father.
+
+[name="锡兰"]   我和我的父亲，该怎么说呢，话并不多。
+[name="セイロン"]   わたくしとお父様は、なんというか、普段からあまり会話があるほうではございませんでした。
+[name="Ceylon"]   My father and I, well, don't talk a lot.
+
+[name="锡兰"]   我一直在想，是不是比起跟我多说说话，城市和赚钱对他才更重要。
+[name="セイロン"]   ずっと考えていましたの、わたくしとお喋りするよりも、都市のことやお金儲けの方が大事なのではないかって。
+[name="Ceylon"]   I've always wondered... Which is more important, this city and the wealth it brings, or me?
+
+[name="锡兰"]   母亲在生我的时候就去世了，我有时候也会想是不是因为这样，他才不喜欢我。
+[name="セイロン"]   お母様は、わたくしを産む際に亡くなりました……。時折それが原因で、わたくしのことを嫌っているのではないかと考えることもございました。
+[name="Ceylon"]   My mother died when she gave birth to me. Sometimes I think about if that's the reason why he doesn't like me.
+
+[name="锡兰"]   仿佛也不在乎我喜不喜欢他，自我记事起，他就经常不在家里。与其说是父女，更像是住在同一座房子里的陌生人。
+[name="セイロン"]   お父様は、わたくしがどう思っているのかすら、気にしていない様子でした。物心ついた時から、家にいないことが多くて……親子というより、同じ家に住んでいる他人のようでしたわ。
+[name="Ceylon"]   And it feels like he doesn't care if I like him or not. Ever since I can remember, he has rarely been at home because of business. Rather than father and daughter, we're more like two strangers living under the same roof.
+
+[name="锡兰"]   黑，我要出门去观察海边的生态！
+[name="セイロン"]   シュヴァルツ、海辺の生態観察に行きたいわ。
+[name="Ceylon"]   Schwarz, I want to go observe the ecosystem of the beach!
+
+[name="黑"]   不行，小姐，老爷吩咐过，不能随便出门的。
+[name="シュヴァルツ"]   いけません、セイロン様。旦那様から好き勝手に外出しないように言われております。
+[name="Schwarz"]   You mustn't, milady. Master Doykos said you must not go outside without good reason.
+
+[name="锡兰"]   可家里的书我已经看腻了！黑你又一点也不好玩。
+[name="セイロン"]   でもお家の本はもう見飽きたわ！　シュヴァルツだって面白い話の一つもしてくれないじゃない。
+[name="Ceylon"]   But I'm tired of reading the same old books here! Schwarz, you're no fun at all!
+
+[name="黑"]   对不起，小姐。这也是为了您的安全着想，外面是很危险的。
+[name="シュヴァルツ"]   申し訳ございません、セイロン様。セイロン様の安全を思ってのことです。外は危険ですから……。
+[name="Schwarz"]   My apologies, milady. This is for your safety though; it's dangerous outside.
+
+[name="锡兰"]   不是有你在吗，难道你会让我身处危险吗？
+[name="セイロン"]   貴方がいるでしょう？　貴方がいれば、わたくしに危険なんて訪れるのかしら？
+[name="Ceylon"]   But won't you be with me? Are you going to put me in danger?
+
+[name="黑"]   ......那自然是肯定不会的。
+[name="シュヴァルツ"]   ……もちろん、それは絶対にございません。
+[name="Schwarz"]   ...Of course I wouldn't.
+
+[name="锡兰"]   那还有什么问题？我们走！
+[name="セイロン"]   じゃあ問題ないのではなくて？　行きましょう！
+[name="Ceylon"]   So, what's the problem then? Let's go!
+
+[name="黑"]   ......那么，请您绝对不要离开我的视线。
+[name="シュヴァルツ"]   ……では、絶対に私の目が届かない場所に行かないでください。
+[name="Schwarz"]   ...In that case, please do not stray from my sight.
+
+[name="锡兰"]   可以说，黑在我的身边这件事，对我来说，是我的生活中最理所当然不过的一部分了。
+[name="セイロン"]   シュヴァルツが側にいるということは、わたくしにとっては生活の一部、当たり前のことになっていました。
+[name="Ceylon"]   One could say that back then, having Schwarz at my side just felt like a simple fact of life.
+
+[name="男市民"]   快点，这批装饰是今晚的LIVE要用到的。
+[name="男性市民"]   早くしろよ、この飾りは今晩のライブで使うんだ。
+[name="Male Civilian"]   Hurry up, these ornaments are for tonight's concert.
+
+[name="男市民"]   要是赶不上了可就麻烦了！
+[name="男性市民"]   間に合わなかったらどやされるぞ！
+[name="Male Civilian"]   We'll be in trouble if we don't make it on time!
+
+[name="锡兰"]   啊，那个人......
+[name="セイロン"]   あ、あの方は……。
+[name="Ceylon"]   Oh, that's...
+
+[name="锡兰"]   没记错的话，是第二大道那家“知更鸟咖啡店”的店主爷爷的孙子。
+[name="セイロン"]   わたくしの記憶が確かなら……。セカンドアベニューの「カフェ・ロビン」のオーナーのおじ様のお孫さんでしたわね。
+[name="Ceylon"]   If I remember properly, he's the grandson of the owner of the Mockingbird Café on Second Avenue.
+
+[name="锡兰"]   那里是我以前常去的地方，店主爷爷很和蔼。店里装饰着他去世的妻子奇幻的花和盆栽，放着他们以前一起喜欢的音乐。
+[name="セイロン"]   あのお店、以前良く通っていましたわ。おじ様もすごく気さくな方でしたの。内装はお亡くなりになった奥様好みの花や鉢植えで飾られ、いつもご夫婦の好きだった音楽が流れていましたわ。
+[name="Ceylon"]   I used to go there a lot. The old storekeeper was a kind man. His wife had already passed away at that time, so he decorated the café with her favorite flowers and bonsai trees, and put on their favorite music.
+
+[name="锡兰"]   这么说来，他确实说过，身体不行了，要把店传给孙子了呢。
+[name="セイロン"]   そういえば、身体が悪くなってきたからお店は孫に継がせると仰ってましたわね。
+[name="Ceylon"]   But he did say that he was getting too old to run the shop, and would pass the business over to his grandson.
+
+[name="锡兰"]   时间过得真快。
+[name="セイロン"]   時間が経つのは早いものね。
+[name="Ceylon"]   Time sure flies.
+
+[name="锡兰"]   为什么？
+[name="セイロン"]   どうして？
+[name="Ceylon"]   Why's that?
+
+[name="黑"]   因为我得了矿石病，小姐。
+[name="シュヴァルツ"]   私が鉱石病になってしまったからです、セイロン様。
+[name="Schwarz"]   Because I have Oripathy, milady.
+
+[name="黑"]   靠近我对您的身体不好，您只要在需要的时候叫我就好。
+[name="シュヴァルツ"]   私の側にいるとお身体に毒となります。必要な際にだけ呼んでいただければと……。
+[name="Schwarz"]   It's bad for your health to come too close to me. Please call upon me only when it is necessary.
+
+[name="锡兰"]   那是什么，很痛吗？
+[name="セイロン"]   それは何？　痛いのかしら？
+[name="Ceylon"]   What's that? Does it hurt?
+
+[name="黑"]   ......不会很痛，但是，会死。
+[name="シュヴァルツ"]   ……痛みはありません。ですが、最後には命を落とします。
+[name="Schwarz"]   ...It doesn't hurt, but, I will die because of it.
+
+[name="黑"]   这种病是治不了的，小姐。
+[name="シュヴァルツ"]   不治の病とされています、セイロン様。
+[name="Schwarz"]   There is no cure for this disease, milady.
+
+[name="黑"]   而且......
+[name="シュヴァルツ"]   それに……。
+[name="Schwarz"]   And...
+
+[name="锡兰"]   我偏要把它治好！
+[name="セイロン"]   そんなもの、わたくしが治してみせるわ！
+[name="Ceylon"]   I just have to find the cure then!
+
+[name="锡兰"]   哼，你等着吧！将来有一天，我会把它给打败，然后把黑从它手里抢回来。
+[name="セイロン"]   フンッ、待っていなさい！　このわたくしが、きっといつか鉱石病なんて打ち負かして、シュヴァルツを取り戻してみせますわ！
+[name="Ceylon"]   Heh, just you wait! One day, I'll defeat that illness, and snatch you back from its jaws!
+
+[name="锡兰"]   我会想要研究源石，也是因为她是感染者，我想要把她治好。
+[name="セイロン"]   わたくしが源石の研究に取り組みたいと思ったのも、感染者になった彼女を治したいと思ったからなの。
+[name="Ceylon"]   The reason I became an Originium researcher was because of her. I wanted to cure her.
+
+[name="锡兰"]   这是一直以来支持我的动力啊，为了这个梦想，我可是去了维多利亚读书欸。
+[name="セイロン"]   これが長い間、わたくしを支えてきた原動力となりました。この夢のために、ヴィクトリアに留学することを決意しましたの。
+[name="Ceylon"]   That has always been the thing motivating me. I even went to Victoria to pursue this dream.
+
+[name="锡兰"]   晦涩难懂的源石研究，我一开始完全搞不懂，好几次都想放弃了，最后还是坚持了下来。
+[name="セイロン"]   難解な源石の研究は、初めは右も左もわかりませんでしたわ。何度諦めようと考えたかは覚えていませんが、それでも最後までやり抜きました。
+[name="Ceylon"]   However, Originium research is very difficult. At the beginning, I couldn't even grasp the basic concepts and felt like giving up. But I persevered.
+
+[name="锡兰"]   维多利亚也好远啊，本来我一开始还完全不习惯那里的。
+[name="セイロン"]   ヴィクトリアはシエスタとは違う異国の地。研究のことを抜きにしても慣れない生活でした。
+[name="Ceylon"]   Victoria is also very far away, and I couldn't get used to it at first.
+
+[name="锡兰"]   结果到了现在，我与其说是一个汐斯塔人，不如说是一个维多利亚人了。
+[name="セイロン"]   ですが今となっては、わたくしはシエスタ人というよりは、ヴィクトリア人と言ったほうがしっくりくるまでになりましたわ。
+[name="Ceylon"]   But now, I feel like I'm more of a Victorian than a Siestan.
+
+[name="锡兰"]   博士，难道说，我所拥有的一切，都是假的吗？
+[name="セイロン"]   ドクター、わたくしが手に入れたと思っていたものは、まさか全て嘘だったのですか？
+[name="Ceylon"]   Doctor, could it be said that everything I have is an illusion?
+
+[name="黑"]   为了守护这里，我可以付出很多东西。
+[name="シュヴァルツ"]   この場所を守るためなら、どんなことだってできますよ。
+[name="Schwarz"]   I'm willing to pay anything to protect this place.
+
+[Decision(options="我也不知道。;她说不定也有苦衷。",values="1;2")]
+[Decision(options="自分もわからない。;彼女も苦しい胸中にあるのかもしれない。",values="1;2")]
+[Decision(options="I don't know.;She might be struggling too.",values="1;2")]
+
+[name="锡兰"]   ......呼。是啊，博士又怎么会知道呢。
+[name="セイロン"]   ……ふぅ、そうですわね。確かにドクターには知る由もありませんものね。
+[name="Ceylon"]   Hmm... I suppose so. There's no way you'd be able to know.
+
+[name="锡兰"]   有什么苦衷，连我也不能告诉吗？
+[name="セイロン"]   わたくしにすら言うことのできない、胸中があるというのですか？
+[name="Ceylon"]   Then what is it? Something she can't even tell me about?
+
+[name="锡兰"]   而且，无论有什么样的苦衷，做了坏事就是做了坏事，这是无法回避的。
+[name="セイロン"]   それに、どんなに苦しい胸中があろうと、犯した悪事が消えるわけではない。それは避けようのない事実ですわ。
+[name="Ceylon"]   Besides, no matter what she's struggling with, that much is inevitable because of the sins she has committed.
+
+[name="锡兰"]   博士，你说，我应该放弃吗？
+[name="セイロン"]   ドクター、わたくしは諦めるべきなのかしら？
+[name="Ceylon"]   Doctor, do you think I should give up?
+
+[Decision(options="我很难就这件事给你答案......",values="3")]
+[Decision(options="その問いの答えを出すことは難しい……。",values="3")]
+[Decision(options="I can't answer that for you...",values="3")]
+
+[Decision(options="但是我知道的是，你也是研究源石的学者。",values="4")]
+[Decision(options="だが紛れもなく、セイロンは一人の立派な源石学者だ。",values="4")]
+[Decision(options="But you are a true Originium researcher.",values="4")]
+
+我们能战胜矿石病吗？
+わたくしたちは、鉱石病に勝てるの？
+Can we vanquish Oripathy?
+
+我们能拯救矿石病人吗？
+わたくしたちは、鉱石病患者を救えるの？
+Can we save the Infected?
+
+这灾难会有尽头吗？
+この災害に終わりはあるの？
+Will there be an end to these tribulations?
+
+我看不到尽头。我没有把握。我不知道答案。
+終わりは見えない。何の確証もない。答えもわからない。
+If there is, I can't see it. I'm not sure. I don't know how to answer.
+
+我可以放弃吗？可以。
+諦めてもいいのかしら？　ええ、きっといいのだと思う。
+Can I just give up? Yes.
+
+但我不愿意。
+だけど、諦めたくない。
+But I don't want to.
+
+[Decision(options="这片大地也许很糟......",values="5")]
+[Decision(options="この世界はやはり残酷かもしれない……。",values="5")]
+[Decision(options="Perhaps the land we've been born into is blighted...",values="5")]
+
+[Decision(options="但你做的一切，并不是徒劳的。",values="6")]
+[Decision(options="だけど君がやってきた全ては、徒労ではない。",values="6")]
+[Decision(options="But the things that you've done have not been in vain.",values="6")]
+
+[Decision(options="相信你自己的选择。",values="7")]
+[Decision(options="自分の選択を信じるべきだ。",values="7")]
+[Decision(options="Believe in the choices you've made.",values="7")]
+
+[name="锡兰"]   ......呼。你说得对，博士。
+[name="セイロン"]   ……ふぅ。あなたの言う通りですわ、ドクター。
+[name="Ceylon"]   Phew... You're right, Doctor.
+
+[name="锡兰"]   不愧是前辈，我在这方面看来要学习的还有许多呢。
+[name="セイロン"]   さすが「先輩」というところですわね。この方面でわたくしが学ばねばならないことは、まだまだあるようですわね。
+[name="Ceylon"]   Your experience really shows. Looks like I still have a lot to learn.
+
+[name="锡兰"]   看来我要做的，不是坐在这里胡思乱想，而是取证。
+[name="セイロン"]   ともかく、今のわたくしがやるべきは、ここであれこれ考えるのではなく、粛々と証拠を集めることですわね。
+[name="Ceylon"]   First, I need to stop being sentimental and start by finding the proof.
+
+[name="锡兰"]   如果他们真的是会放任市民们陷入危机的话，我一定会尽我的全力去阻止他们！
+[name="セイロン"]   もし彼らが本当に市民の安全を放棄して危険に陥れるつもりなら、何がなんでもわたくしがそれを阻止しますわ。
+[name="Ceylon"]   If they are really putting citizens in danger on purpose, I'll do everything in my power to stop them!
+
+[name="锡兰"]   而且既然我相信自己绝对是正确的，即使是只有我一个人，我也会为了拯救这个城市而努力的！
+[name="セイロン"]   それにわたくしは、自分が正しいと信じています。ですから、たとえ一人になったとしても、この都市を救うために最後までやり抜きますわ！
+[name="Ceylon"]   Because I believe in my own decisions, I'll fight to save this city, even if nobody else will!
+
+[name="赫拉格"]   说的不错。
+[name="へラグ"]   良い啖呵の切り方だ。
+[name="Hellagur"]   Well said.
+
+[name="锡兰"]   啊，赫拉格爷爷。
+[name="セイロン"]   あ、ヘラグおじ様。
+[name="Ceylon"]   Oh, Mister Hellagur!
+
+[name="赫拉格"]   看来，心情收拾得还不错。
+[name="へラグ"]   どうやら、心の整理はついたようだな。
+[name="Hellagur"]   By the looks of things, you've found your answer.
+
+[name="锡兰"]   嗯。赫拉格爷爷，博士，你们能听我说吗。
+[name="セイロン"]   はい。おじ様、ドクター、わたくしの話を聞いてくださるかしら。
+[name="Ceylon"]   Mhm. Mister Hellagur, Doctor, could you hear me out?
+
+[name="锡兰"]   不管怎么样，我也不希望让汐斯塔市的人们陷入危险。对我来说这个才是最为优先的。
+[name="セイロン"]   どんな状況であれ、シエスタの市民が危険に晒されるのだけは避けなければなりません。わたくしにとってはそれが最優先事項です。
+[name="Ceylon"]   No matter what, I don't want to see the citizens being put into danger. That's my number one priority. The largest broadcast tower here is located by the Garrison Amusement Park.
+
+[name="锡兰"]   在加里森游乐场的旁边有着全市最大的广播塔，全城市的广播系统都是在那里运行。
+[name="セイロン"]   ギャリソン遊園地の付近には、シエスタ市で最大の放送タワーがありますの。シエスタの放送システムは全てあそこで管理されておりますわ。
+[name="Ceylon"]   It controls this city's entire broadcast system.
+
+[name="赫拉格"]   广播塔？
+[name="へラグ"]   放送タワー？
+[name="Hellagur"]   The broadcast tower?
+
+[name="锡兰"]   但是，那里也是克洛宁管辖的区域。他也常常在面向全市的广播中露面。
+[name="セイロン"]   ええ。しかしあの一帯はクローニンさんの管轄区域でもあります。彼もよく市内全域へ向けた放送を行っていますわ。
+[name="Ceylon"]   However, it's controlled by Cronin's henchmen. He often appears there to speak to the citizens.
+
+[name="锡兰"]   趁着LIVE开始的时候，人群集中起来，克洛宁的人也难免应接不暇。
+[name="セイロン"]   ですがライブの開始間際で人が集まってきたタイミングであれば、クローニンさんの部下たちも仕事で忙殺されているはずです。
+[name="Ceylon"]   When the major concert begins, everyone's going to be gathered by the stage. Cronin's men are going to be have their hands full trying to keep things orderly.
+
+[name="锡兰"]   只要我们能在那个时候控制电台，就能向全城的人传递火山的情报。
+[name="セイロン"]   そのタイミングで放送局を乗っ取り、シエスタ全域へ向けて火山の警報を流しましょう。
+[name="Ceylon"]   As long as we control the tower at that time, we can spread the news throughout the whole city.
+
+[name="锡兰"]   所以拜托你们了，请助我一臂之力吧。
+[name="セイロン"]   ですからなんとか、皆様のお力添えを頂ければと思いますの。
+[name="Ceylon"]   So, I'm asking both of you, please lend me your aid!
+

@@ -1,0 +1,344 @@
+[name="阿米娅"]   {@nickname}博士......
+[name="アーミヤ"]   {@nickname}さん……。
+[name="Amiya"]   Dr {@nickname}...
+
+[name="阿米娅"]   我......我不是......我......
+[name="アーミヤ"]   …わ、わたし……私は……違っ……違うんです…。
+[name="Amiya"]   I... I didn't mean to... I...
+
+[name="星熊"]   雾散了。
+[name="ホシグマ"]   ……霧が晴れてゆく……。
+[name="Hoshiguma"]   The fog has dispersed.
+
+[name="星熊"]   近卫局发来通讯，他们发现了更多整合运动的踪迹。
+[name="ホシグマ"]   近衛局からの通信が入りました…。多数の敵兵力の痕跡を確認したとのことです。
+[name="Hoshiguma"]   We've received communications from the L.G.D. They found more Reunion movements.
+
+[name="星熊"]   说是在跟踪一个敌人，女性，白发——
+[name="ホシグマ"]   敵は、一人の白髪の女性を追跡して――
+[name="Hoshiguma"]   They're currently tracking down one enemy, described as female with white hair--
+
+[name="阿米娅"]   ......
+[name="アーミヤ"]   ……
+[name="Amiya"]   ...
+
+[name="星熊"]   阿米娅，老陈催促我，让你......
+[name="ホシグマ"]   アーミヤ代表、チェン隊長から伝言です。あなたに……。
+[name="Hoshiguma"]   Amiya, Ch'en told me that she wanted you to...
+
+[name="星熊"]   ......
+[name="ホシグマ"]   ……。
+[name="Hoshiguma"]   ...
+
+[name="星熊"]   ——你脸色不太好。
+[name="ホシグマ"]   ――お顔の色が優れないようですが……。
+[name="Hoshiguma"]   ...You don't look so good.
+
+[Decision(options="交给我吧", values="1")]
+[Decision(options="ここは自分に……。", values="1")]
+[Decision(options="Let me handle it.", values="1")]
+
+[name="星熊"]   那......
+[name="ホシグマ"]   では……。
+[name="Hoshiguma"]   Well...
+
+[name="星熊"]   那就交给你了，{@nickname}博士。
+[name="ホシグマ"]   …お願いします、ドクター{@nickname}。
+[name="Hoshiguma"]   I'll leave her to you, Dr {@nickname}.
+
+[name="星熊"]   最好能在五分钟内出发。
+[name="ホシグマ"]   できれば、5分後には出立したく思いますので…。
+[name="Hoshiguma"]   It'd be ideal to leave within 5 minutes.
+
+[name="阿米娅"]   ......
+[name="アーミヤ"]   ……。
+[name="Amiya"]   ...
+
+[name="阿米娅"]   ——{@nickname}博士——
+[name="アーミヤ"]   ――Dr.{@nickname}――
+[name="Amiya"]   Dr {@nickname}...
+
+[Decision(options="你是在害怕吗？;......难道说，你不喜欢这种力量？;阿米娅，没有必要后悔。", values="1;2;3")]
+[Decision(options="怖いのか…？;戸惑っているのか？　自分の力に。;アーミヤ、後悔しなくていい。", values="1;2;3")]
+[Decision(options="Are you scared?;...Do you not like this power you have?;Amiya, it's not your fault.", values="1;2;3")]
+
+[name="阿米娅"]   啊......？我......
+[name="アーミヤ"]   いえっ…私は………。
+[name="Amiya"]   Huh...? I...
+
+[name="阿米娅"]   博士......我没有在害怕什么......
+[name="アーミヤ"]   ……ドクター……私は何も怖く……怖くは……。
+[name="Amiya"]   Doctor... it's not like I'm afraid or anything...
+
+[name="阿米娅"]   当然，我害怕，害怕再一次失去......所以才......
+[name="アーミヤ"]   …ごめんなさい……そうです…。また失ってしまうのが…怖いんです……だから……だから私…。
+[name="Amiya"]   Of course, I'm afraid... of losing you again... That's why...
+
+[name="阿米娅"]   不，我只是不想的......
+[name="アーミヤ"]   …また…また失われると思うと…本当に怖いんです…。
+[name="Amiya"]   I just... didn't mean to...
+
+[name="阿米娅"]   我......我不知道......
+[name="アーミヤ"]   わ……わかりません……。
+[name="Amiya"]   I... I just don't know...
+
+[name="阿米娅"]   我不知道该不该这么说......但我......
+[name="アーミヤ"]   ごめんなさい…ごめんなさい…いまは……今はドクターに伝えたい言葉が見つからないんです……でも……でも。
+[name="Amiya"]   I don't know if I should be saying this, but...
+
+[name="阿米娅"]   它不应该光是......伤害别人。
+[name="アーミヤ"]   …これは人を……傷つけるだけじゃないんです。
+[name="Amiya"]   It shouldn't... only be hurting other people.
+
+[name="阿米娅"]   我不想让博士看到我，这么近的看到我......
+[name="アーミヤ"]   ……見られたくありませんでした……。ドクターにこんなにも近くで……わ、私が……。
+[name="Amiya"]   I don't want you to see me like this, up close...
+
+[name="阿米娅"]   ......夺走生命。
+[name="アーミヤ"]   ……誰かの命を奪うのを……。
+[name="Amiya"]   ...I took someone's life.
+
+[name="阿米娅"]   我没有后悔。
+[name="アーミヤ"]   はい……後悔はしていません…。
+[name="Amiya"]   I feel no regret.
+
+[name="阿米娅"]   不，我是说......
+[name="アーミヤ"]   いえ…それよりも……。
+[name="Amiya"]   No, what I mean is...
+
+[name="阿米娅"]   我就是会为了博士而使用力量，无论他背负着什么，我不后悔杀死他。
+[name="アーミヤ"]   ドクターのためであれば、どんな相手を殺めたとしても…私は…後悔はしません。
+[name="Amiya"]   I will always use my power for your sake. No matter what kind of burden he was carrying, I don't regret killing him.
+
+[name="阿米娅"]   但是，当然......原本，应该会有更好的办法吧。
+[name="アーミヤ"]   でも、もちろん……本当はもっと良いやり方もあったと思います。
+[name="Amiya"]   But... there should have been a better way.
+
+[name="阿米娅"]   因为没能找到那个办法，所以他死去了。
+[name="アーミヤ"]   私がそれを見つけられなかったから……結果として彼を殺めることになってしまった……。
+[name="Amiya"]   He died because... I wasn't able to find it.
+
+[name="阿米娅"]   这一点......我很后悔。
+[name="アーミヤ"]   それだけは……すごく悔しいです……。
+[name="Amiya"]   And that... is eating me up inside.
+
+[name="阿米娅"]   我不希望......
+[name="アーミヤ"]   私は……。
+[name="Amiya"]   I don't want...
+
+[name="阿米娅"]   不希望{@Nickname}你看到这样的我。
+[name="アーミヤ"]   私はDr.{@nickname}にだけは…こんな姿を見られたくありませんでした。
+[name="Amiya"]   I don't want you to see this side of me, {@nickname}.
+
+[name="阿米娅"]   明明说着让这片大地的感染者从痛苦中脱身......
+[name="アーミヤ"]   普段は、この世界の感染者を苦しみから救うなんて言っているのに……。
+[name="Amiya"]   Even though I've always talked about freeing the Infected from pain and suffering...
+
+[name="阿米娅"]   关键时刻，却还是要一次又一次的，说服自己，去剥夺感染者的生命。
+[name="アーミヤ"]   肝心なときに、いつもいつも自分を無理やり納得させて……最終的には感染者の生命を奪う選択をしてしまっている。
+[name="Amiya"]   But when matters the most, I have to persuade myself, again and again, that it's justified to take the life of another Infected.
+
+[name="阿米娅"]   我真是，太弱了。
+[name="アーミヤ"]   本当に…私は…無力ですね。
+[name="Amiya"]   I am truly pathetic.
+
+[Decision(options="阿米娅，至少你保护了我。", values="1")]
+[Decision(options="君は少なくとも自分を守ってくれた。", values="1")]
+[Decision(options="Amiya, at least you protected me.", values="1")]
+
+[name="阿米娅"]   ——————
+[name="アーミヤ"]   ――――――
+[name="Amiya"]   ...
+
+[name="阿米娅"]   ......这是我应该做的。
+[name="アーミヤ"]   ……はい…。それが私のやるべきことですから…。
+[name="Amiya"]   ...This was my duty.
+
+[name="阿米娅"]   我明白了。
+[name="アーミヤ"]   でも…なんとなく…わかった気がします…。
+[name="Amiya"]   I understand.
+
+[name="阿米娅"]   我从来都不认为，有什么事情真的命中注定。
+[name="アーミヤ"]   運命によって、はじめから決められていることなんて、本当はないんだ……と。
+[name="Amiya"]   I never believed that anything was already determined by fate.
+
+[name="阿米娅"]   只是，无论如何......无论我会走到哪一步......
+[name="アーミヤ"]   私…私、どんなことがあっても…例えこの身体がどうなったとしても……。
+[name="Amiya"]   But, no matter what happens... no matter what I become...
+
+[name="阿米娅"]   我都会保护你的，博士。
+[name="アーミヤ"]   私はドクターを守ります。
+[name="Amiya"]   I'll always protect you, Doctor.
+
+[name="阿米娅"]   我保证。
+[name="アーミヤ"]   約束ですから…。
+[name="Amiya"]   I promise.
+
+[name="整合运动成员"]   不行！
+[name="レユニオン構成員"]   クソッ、マズいぞ！
+[name="Reunion Member"]   No!
+
+[name="整合运动成员"]   你们先走！
+[name="レユニオン構成員"]   お前たちは先に行け！
+[name="Reunion Member"]   You all go first!
+
+[name="整合运动成员"]   我得去......得去把碎骨救回来！
+[name="レユニオン構成員"]   俺は……スカルシュレッダーを助けに行く！
+[name="Reunion Member"]   I need to... I need to bring Skullshatterer back!
+
+[name="整合运动成员"]   你疯了？
+[name="レユニオン構成員"]   お前、なに言ってんだ！？
+[name="Reunion Member"]   Are you insane?
+
+[name="整合运动成员"]   你这是自投罗网......要去，就大家一起去！
+[name="レユニオン構成員"]   お前だけで行くなんて自殺行為だ。俺も行くに決まってるだろ！
+[name="Reunion Member"]   That's suicide... If you're going, we're all going together!
+
+[name="整合运动成员"]   好！
+[name="レユニオン構成員"]   すまん！
+[name="Reunion Member"]   All right!
+
+[name="整合运动成员"]   我可不能，不能让他在这荒野中......
+[name="レユニオン構成員"]   あいつを…あいつを置いていくなんてできるかよ……。
+[name="Reunion Member"]   I can't leave him alone out there...
+
+[name="整合运动成员"]   那就上吧！
+[name="レユニオン構成員"]   行くぞ！
+[name="Reunion Member"]   Let's go then!
+
+[name="星熊"]   怎么会——
+[name="ホシグマ"]   何が起きた――
+[name="Hoshiguma"]   Why...
+
+[name="星熊"]   整合运动......折返了？
+[name="ホシグマ"]   レユニオンが……引き返して来るだと！？
+[name="Hoshiguma"]   Why is Reunion... turning back around?
+
+[name="星熊"]   他们要做什么——？！
+[name="ホシグマ"]   何をするつもりだ――！？
+[name="Hoshiguma"]   What are they doing...?!
+
+[name="阿米娅"]   星熊警官！快回撤！
+[name="アーミヤ"]   ホシグマさん！　早く引き上げてください！
+[name="Amiya"]   Madam Hoshiguma! Fall back!
+
+[name="星熊"]   近卫局，别懈怠！
+[name="ホシグマ"]   近衛局、総員いそげ！
+[name="Hoshiguma"]   L.G.D., don't panic!
+
+[name="星熊"]   准备好防御对方的攻击！
+[name="ホシグマ"]   敵の攻撃に備えろ！
+[name="Hoshiguma"]   Prepare for enemy attack!
+
+[name="整合运动成员"]   掩护！掩护我！
+[name="レユニオン構成員"]   援護を！　こっちだ！
+[name="Reunion Member"]   Cover! Cover me!
+
+[name="整合运动成员"]   那个女人......
+[name="レユニオン構成員"]   あの女……。
+[name="Reunion Member"]   That woman...
+
+[name="整合运动成员"]   不行，那个女人的盾，我们是越不过去的！
+[name="レユニオン構成員"]   ダメだ、あの女の盾、俺たちじゃどうにもできない！
+[name="Reunion Member"]   It's impossible... We can't get past her shield!
+
+[name="整合运动成员"]   快！迂回！趁他们还没反应过来......
+[name="レユニオン構成員"]   早く！　回り込め！　奴らに退路が塞がれる前に……。
+[name="Reunion Member"]   Quick! Wrap around, before they have a chance to react...
+
+[name="整合运动成员"]   先把碎骨，把碎骨——
+[name="レユニオン構成員"]   とにかくスカルシュレッダーを、スカルシュレッダーを――。
+[name="Reunion Member"]   We have to get to Skullshatterer... and bring him...
+
+[name="整合运动成员"]   把他抢回来！！
+[name="レユニオン構成員"]   あいつを取り戻すんだ！！
+[name="Reunion Member"]   And bring him home!!
+
+[name="星熊"]   罗德岛！他们在转移目标，你们要注意！
+[name="ホシグマ"]   ロドス各位へ！　敵の動きに変化があります。注意してください。
+[name="Hoshiguma"]   Rhodes Island! They're changing their target, watch out!
+
+[name="阿米娅"]   不好！
+[name="アーミヤ"]   ダメっ！
+[name="Amiya"]   Oh no!
+
+[name="阿米娅"]   星熊警官！小心你的右边！
+[name="アーミヤ"]   ホシグマさん！　右です！
+[name="Amiya"]   Madam Hoshiguma! Watch your right!
+
+[name="星熊"]   ——嗯——？
+[name="ホシグマ"]   ――なに――？
+[name="Hoshiguma"]   Huh...?
+
+[name="W"]   呼呼，用盾挡开了？有些意思——
+[name="W"]   フフッ、ちゃんと盾で受け止めたの？　面白いわね――
+[name="W"]   Hehe, you managed to block that? That's a bit interesting...
+
+[name="星熊"]   爆炸？整合运动的偷袭？！
+[name="ホシグマ"]   爆発？　どこからだ！？
+[name="Hoshiguma"]   An explosion? Another Reunion ambush?!
+
+[name="W"]   当然不止是偷袭哦~
+[name="W"]   ほらほら、私はここに居るわよ。
+[name="W"]   Not just that, of course~
+
+[name="W"]   就请你在这里乖乖呆着，别向后去了哦？
+[name="W"]   あなたにはここで大人しく私の相手をしてもらうわ。よそ見をしたらダメよ。
+[name="W"]   I'd like you to behave yourself and stay put right here. Don't think about turning back, all right?
+
+[name="星熊"]   啧——哪来的混蛋！
+[name="ホシグマ"]   クッ――どこから紛れ込んだ！
+[name="Hoshiguma"]   Tsk... Where the hell did you come from?!
+
+[name="星熊"]   又是爆炸！
+[name="ホシグマ"]   また爆弾が来るっ！
+[name="Hoshiguma"]   Again with those explosives...!
+
+[name="星熊"]   阿米娅！我遭到整合运动远程火力的压制！
+[name="ホシグマ"]   アーミヤ代表！　こちらは敵の遠距離射撃を受けて動けません！
+[name="Hoshiguma"]   Amiya! I'm getting bombarded by Reunion!
+
+[name="星熊"]   其余的整合运动，正朝你们的方向快速移动！
+[name="ホシグマ"]   残った敵がそちらに向けて高速で移動中です！
+[name="Hoshiguma"]   Their forces are currently headed your way!
+
+[name="W"]   唔，这面盾还挺厚实的。
+[name="W"]   ふーん、その盾、ホントに頑丈なのね。
+[name="W"]   Hmm, that shield of yours is pretty sturdy.
+
+[name="W"]   我似乎有点自找麻烦的意思呢......
+[name="W"]   うーん、自分から面倒事に飛び込んじゃったみたいね……。
+[name="W"]   Seems like I've gotten myself into a bit of trouble...
+
+[name="W"]   算了，就当我帮整合运动一点小忙吧。
+[name="W"]   まぁいいわ。たまにはレユニオンのお手伝いもしてあげないとね。
+[name="W"]   Whatever, I'll just treat it like I'm doing Reunion a little favor.
+
+[name="W"]   要让我看到有趣的事情哦。可别让我太失望了~
+[name="W"]   この私を楽しませてくださる？　くれぐれも失望させないでね。
+[name="W"]   Show me something entertaining. Make sure you don't let me down~
+
+[name="阿米娅"]   是切城的那个叫W的人！
+[name="アーミヤ"]   チェルノボーグで遭遇したWという人です！
+[name="Amiya"]   That's the "W" person who we saw at Chernobog!
+
+[name="阿米娅"]   难道说，陈长官他们被她甩掉了吗？！
+[name="アーミヤ"]   もしかして、チェンさんたちはあの人にやられて……！？
+[name="Amiya"]   Could she... have managed to shake off Madam Ch'en? !
+
+[name="阿米娅"]   小心敌人的突袭！迅速援护星熊警官！
+[name="アーミヤ"]   敵の襲撃に気をつけて！　急いでホシグマさんの援護を！
+[name="Amiya"]   Be careful of the enemy assault! We've got to help Madam Hoshiguma right away!
+
+[name="阿米娅"]   还有很多敌人埋伏在周围！
+[name="アーミヤ"]   まだたくさんの敵が周囲に潜んでいるはずです！
+[name="Amiya"]   There are many more enemies hiding nearby!
+
+[name="阿米娅"]   只有暴露他们的踪迹，我们才能取得优势！
+[name="アーミヤ"]   先手を打って彼らを見つけないと、こちらが不利になります。
+[name="Amiya"]   We won't be able to get the upper hand unless we reveal them!
+
+[name="阿米娅"]   博士！请指挥各小队应对敌人的袭击！
+[name="アーミヤ"]   ドクター！　各小隊の指揮をお願いします。敵の攻撃を受け流してください。
+[name="Amiya"]   Doctor! Please lead our squads and hold off the enemy assault!
+

@@ -1,0 +1,212 @@
+[name="凯尔希"]   知道了。
+[name="ケルシー"]   わかった。
+[name="Kal'tsit"]   I understand.
+
+[name="凯尔希"]   好的，保持联络。嗅到气味就立刻告诉我。
+[name="ケルシー"]   ああ、随時連絡を。怪しい気配を感じたらすぐに知らせてくれ。
+[name="Kal'tsit"]   All right, keep in touch. Let me know if catch wind of anything.
+
+[name="凯尔希"]   按第三个键就行。嗯。
+[name="ケルシー"]   3つ目のキーを押せばいい。ああ。
+[name="Kal'tsit"]   Just press the third button. Mhm.
+
+[name="凯尔希"]   ——嗯？Dr.{@nickname}？
+[name="ケルシー"]   ――うん？　Dr.{@nickname}？
+[name="Kal'tsit"]   ...Hmm? Dr {@nickname}?
+
+[name="凯尔希"]   阿米娅呢？
+[name="ケルシー"]   アーミヤはどうした？
+[name="Kal'tsit"]   Where's Amiya?
+
+[Decision(options="阿米娅前往贫民区了。", values="1")]
+[Decision(options="アーミヤは龍門のスラム街へ向かった。", values="1")]
+[Decision(options="She went to the slums.", values="1")]
+
+[name="凯尔希"]   ——你居然让她一个人去了。
+[name="ケルシー"]   ――やれやれアーミヤを一人で行かせるとはな…。
+[name="Kal'tsit"]   ...You actually let her go alone.
+
+[name="凯尔希"]   ......也罢，至少有人保护她。
+[name="ケルシー"]   ……まあいい、少なくとも彼女には護衛が一人ついている。
+[name="Kal'tsit"]   ...Whatever, at least someone is protecting her.
+
+[name="凯尔希"]   你跟着去了，大概率也只是个拖油瓶。这次就不怪罪你了。
+[name="ケルシー"]   君が一緒に行っても、単に足を引っ張るだけになる可能性が高いからな。今回はいいだろう。
+[name="Kal'tsit"]   I suppose you wouldn't be able to do anything even if you went with her. I'll let you off the hook this time.
+
+[name="凯尔希"]   你也是一个人回来的？
+[name="ケルシー"]   ところで君は一人で戻ってきたのか？
+[name="Kal'tsit"]   Did you also come back by yourself?
+
+[name="凯尔希"]   哦，企鹅物流。
+[name="ケルシー"]   なるほど、ペンギン急便が一緒だったか。
+[name="Kal'tsit"]   Oh, Penguin Logistics.
+
+[name="凯尔希"]   你也要更加关注自己的人身安全。我们不是每次都能雇佣到可靠的本地向导的。
+[name="ケルシー"]   君も自身の安全にはより留意するようにしてくれ。いつも頼りになる現地ガイドが雇えるわけではないからな。
+[name="Kal'tsit"]   You also need to take better precautions to stay safe. We won't always have the luxury of reliable local guides.
+
+[name="凯尔希"]   Dr.{@nickname}——
+[name="ケルシー"]   Dr.{@nickname}――
+[name="Kal'tsit"]   Dr {@nickname}...
+
+[name="凯尔希"]   阿米娅不会在龙门逗留太长时间，毕竟之后还有任务。
+[name="ケルシー"]   アーミヤは早めに帰ってくるはずだ。まだ他にもやるべき任務も多いからな。
+[name="Kal'tsit"]   Amiya will not be in Lungmen for a long time, since she has other missions to do.
+
+[name="凯尔希"]   你还会再一次面对他。
+[name="ケルシー"]   次の任務に出る前にはアーミヤにまた会えるだろう。
+[name="Kal'tsit"]   You'll have to face her again.
+
+[name="凯尔希"]   ——如果是我的话，会把当时没说出来的话，说出来。
+[name="ケルシー"]   ――どうする？　この前、君が不甲斐なく言えなかった言葉を彼女に伝えるか？
+[name="Kal'tsit"]   ...If I were you, I'd make sure to tell her the things that I couldn't say before.
+
+[name="阿米娅"]   啊，博士？
+[name="アーミヤ"]   あれ、ドクター？
+[name="Amiya"]   Ah, Doctor?
+
+[name="阿米娅"]   一直在等我吗......
+[name="アーミヤ"]   ずっと待っててくれたんですか……。
+[name="Amiya"]   Were you waiting for me this whole time...
+
+[name="阿米娅"]   对不起，让你久等了
+[name="アーミヤ"]   ごめんなさい…あの…結構待たせちゃいましたか？
+[name="Amiya"]   Sorry to have kept you waiting.
+
+[name="阿米娅"]   嗯？我的表情与离开时不太一样？
+[name="アーミヤ"]   えっ？　何かあったかって？　出発前より表情が良くなったように見えます？
+[name="Amiya"]   Hmm? My complexion looks different from when I left?
+
+[name="阿米娅"]   .....
+[name="アーミヤ"]   ……。
+[name="Amiya"]   ...
+
+[name="阿米娅"]   发生了些事情。
+[name="アーミヤ"]   …はい…。少しだけ…あったんです。
+[name="Amiya"]   Some things happened.
+
+[name="阿米娅"]   我觉得......
+[name="アーミヤ"]   私、思うんです。
+[name="Amiya"]   I feel like...
+
+[name="阿米娅"]   也许陈长官，她也有着自己的想法。
+[name="アーミヤ"]   チェンさんには、チェンさんなりの考えがあるんじゃないかって。
+[name="Amiya"]   Perhaps Madam Ch'en has her own way of looking at things.
+
+[name="阿米娅"]   即使她嘴巴很凶，即使她做了我难以接受的事情......
+[name="アーミヤ"]   チェンさんは、口では厳しいことを言いますし、彼女の行動は私なんかが推し量れるものじゃないです。
+[name="Amiya"]   Even though her words are harsh, and she has done things that I can't accept...
+
+[name="阿米娅"]   但也许......我们之间的隔阂也没有那么大。
+[name="アーミヤ"]   でも、もしかすると……私たちの距離は、それほど遠くないんじゃないかと思います。
+[name="Amiya"]   Maybe... the difference between us isn't that big.
+
+[name="阿米娅"]   她有她的责任。
+[name="アーミヤ"]   チェンさんにはチェンさんなりの責務がありますから…。
+[name="Amiya"]   She has her responsibilities.
+
+[name="阿米娅"]   ......啊......原来是这样。
+[name="アーミヤ"]   ……あ……きっとそういうことなんだと思います。
+[name="Amiya"]   Oh... I understand now...
+
+[name="阿米娅"]   她也承担了很多吧。
+[name="アーミヤ"]   チェンさん自身、たくさんのものを背負っていますから。
+[name="Amiya"]   She also has her share of burdens to bear.
+
+[name="阿米娅"]   也许我也......
+[name="アーミヤ"]   そういう意味では私も……。
+[name="Amiya"]   Perhaps I also...
+
+[Decision(options="阿米娅，你也承担了许多事情。;......", values="1;2")]
+[Decision(options="アーミヤ、君も多くのものを背負いすぎている。;……。", values="1;2")]
+[Decision(options="Amiya, you also have plenty of responsibilities yourself.;...", values="1;2")]
+
+[name="阿米娅"]   是吗......
+[name="アーミヤ"]   そうかもしれません……。
+[name="Amiya"]   Is that so...
+
+[name="阿米娅"]   我......只是没有其他的选择而已。
+[name="アーミヤ"]   でも私の場合は……他に選択肢がないだけです。
+[name="Amiya"]   I... just didn't have other choices.
+
+[Decision(options="至少阿米娅你坚持了自己的选择。;......", values="1;2")]
+[Decision(options="少なくともその選択を、自らが選び貫いている。;……。", values="1;2")]
+[Decision(options="At least you saw your choices through.;...", values="1;2")]
+
+[name="阿米娅"]   ......如果导致那样的结果，也算是坚持的话。
+[name="アーミヤ"]   ……あんな結果になっても、自信を持って選択を貫いたと言えるなら……。
+[name="Amiya"]   ...I suppose all these consequences were the results of my persistence.
+
+[name="阿米娅"]   博士没必要......这样安慰我的。
+[name="アーミヤ"]   ドクターは……こんな私でも慰めてくれるんですね…。
+[name="Amiya"]   Doctor, there's no need... to try to comfort me.
+
+[name="阿米娅"]   其实，我明白的。
+[name="アーミヤ"]   ありがとうございます……自分でもわかってますから……。
+[name="Amiya"]   Actually, I'm well aware of this.
+
+[name="阿米娅"]   我不知道......
+[name="アーミヤ"]   でも……。
+[name="Amiya"]   But what I don't know...
+
+[name="阿米娅"]   我不知道，我们走到哪一天，这片大地才会变得不同......
+[name="アーミヤ"]   一体いつになれば、この大地が変わる日が来るのでしょうか……？
+[name="Amiya"]   What I don't know, is how long we have to keep going before this world begins to change.
+
+[name="阿米娅"]   但，我明白。
+[name="アーミヤ"]   今の私にはわかりませんが……。
+[name="Amiya"]   But, what I do know for sure...
+
+[name="阿米娅"]   我不会放弃。
+[name="アーミヤ"]   けれど私は諦めません。
+[name="Amiya"]   Is that I won't give up.
+
+[name="阿米娅"]   我会承担任何后果，因为......这是我自己选的。
+[name="アーミヤ"]   どんな結果になってもこの責任を負う覚悟です……私が選んだ道ですから。
+[name="Amiya"]   I'll always bear the consequences of my actions, because... I chose this path.
+
+[name="阿米娅"]   博士......
+[name="アーミヤ"]   ドクター……。
+[name="Amiya"]   Doctor...
+
+[name="阿米娅"]   你会......陪在我身边吗？
+[name="アーミヤ"]   ドクターは……それでも私の側にいてくれますか？
+[name="Amiya"]   Will you... stay by my side?
+
+[name="阿米娅"]   尽管......这种愧疚，会一直存在......
+[name="アーミヤ"]   みなさんを繋ぎ止められなかった悔しさも、友人を救えなかった罪悪感も……。
+[name="Amiya"]   Even though... this guilt will always stay with me...
+
+[name="阿米娅"]   没能抓住大家的遗憾，没能救助朋友的遗憾......
+[name="アーミヤ"]   この後ろめたさが消えることは……もう永遠にないのかもしれません……。
+[name="Amiya"]   The regret of not being able to bring everyone with me. The regret of not being able to save my friends...
+
+[name="阿米娅"]   但我必须坦然面对。
+[name="アーミヤ"]   でも私は、常にそれと正面から向き合っていきます。
+[name="Amiya"]   But I must face reality.
+
+[name="阿米娅"]   和罗德岛的大家一起——
+[name="アーミヤ"]   ロドスのみなさんと一緒に――
+[name="Amiya"]   With everyone in Rhodes Island...
+
+[name="阿米娅"]   嗯？是凯尔希医生的通讯......
+[name="アーミヤ"]   あれ？　ケルシー先生からの通信です……
+[name="Amiya"]   Hmm? A message from Dr Kal'tsit...
+
+[name="阿米娅"]   凯尔希医生？请问有什么事？
+[name="アーミヤ"]   ケルシー先生？　どうしたんですか？
+[name="Amiya"]   Dr Kal'tsit? Did you need something?
+
+[name="凯尔希"]   阿米娅，有几支侦查小队发来了消息。
+[name="ケルシー"]   アーミヤ、複数の偵察チームから連絡があった。
+[name="Kal'tsit"]   Amiya, I've received communications from a few recon teams.
+
+[name="凯尔希"]   情况变得有些刻不容缓。
+[name="ケルシー"]   事態が急変したようだ。一刻の猶予もない。
+[name="Kal'tsit"]   The situation has changed for the worse.
+
+[name="阿米娅"]   好的，我马上就来。
+[name="アーミヤ"]   わかりました、すぐに戻ります。
+[name="Amiya"]   Okay, I'll be right there.
+

@@ -1,0 +1,1212 @@
+[Decision(options="醒醒！", values="1")]
+[Decision(options="目を覚ませ！", values="1")]
+[Decision(options="Wake up!", values="1")]
+
+[name="？？？"]  醒醒！！
+[name="？？？"]  目を覚ませ！！
+[name="???"]  Wake up!!!
+
+......？
+......？
+......？
+
+[name="？？？"]  醒醒......醒醒！
+[name="？？？"]  目を覚ませ……起きろ！
+[name="???"]  Wake up.... Wake up!
+
+[name="？？？"]  过来，亚当！拿温水过来！
+[name="？？？"]  こっちだアダム！　お湯を持ってきてくれ！
+[name="???"]  Come, Adam! Bring warm water!
+
+爸......
+お父さ……。
+Dad...
+
+[name="？？？"]  啊......
+[name="？？？"]  あっ……。
+[name="???"]  Ah...?
+
+[name="？？？"]  她活着！太好了，她还活着，她还活着，感谢先祖！
+[name="？？？"]  生きてる！　良かった、この子は生きてる、生きてるんだ、我が先祖に感謝を！
+[name="???"]  She's alive! Great, she's alive! Thank the ancestors!
+
+[name="？？？"]  亚当！动作快点！
+[name="？？？"]  アダム！　早くしろ！
+[name="???"]  Adam! Move it!
+
+爸......爸......？
+お父……さん……？
+Dad...? Dad...?
+
+[name="？？？"]  爸爸？
+[name="？？？"]  お父さん？
+[name="???"]  Dad?
+
+[name="？？？"]  ......我......是的！我是爸爸！
+[name="？？？"]  ……そ……そうだ！　私がお父さんさ！
+[name="???"]  ........I........ Yes! I'm Dad!
+
+[name="？？？"]  可以，可以！我是爸爸，没错！
+[name="？？？"]  よし、いいぞ！　私がお父さんだ、その通りだ！
+[name="???"]  Yes, yes! I'm Dad, certainly!
+
+[name="？？？"]  别睡，别睡！抓住爸爸的手，不要松手！
+[name="？？？"]  ダメだ、寝るんじゃない、頑張って目を開け！　お父さんの手を掴んで離すな！
+[name="???"]  Don't sleep. Don't sleep! Hold Daddy's hand and don't let go!
+
+爸爸......我好......冷......
+お父さん……わたし……さむい……。
+Dad.... I'm so........ Cold...?
+
+[name="？？？"]  不要睡，女儿，我的女儿！活下去！
+[name="？？？"]  寝てはいけない、娘よ、我が娘よ！　生きるんだ！
+[name="???"]  Don't sleep, my daughter! Stay with us!
+
+[name="？？？"]  她的体温还在变低！米什卡，想想办法！
+[name="？？？"]  体温がさらに下がっている！　ミシカ、どうにかしてくれ！
+[name="???"]  Her body temperature keeps dropping! Mishka, do something!
+
+[name="？？？"]  没办法倾斜流向？
+[name="？？？"]  なんとか体温低下を止めることはできないのか？
+[name="???"]  No way to tilt the flow?
+
+好冷......！爸爸！我好冷！
+さむい……！　お父さん！　さむいよ！
+It's cold...! Daddy! I'm cold!
+
+[name="？？？"]  ......女儿......我的女儿！坚持住！
+[name="？？？"]  ……娘よ……わが娘よ！　保ちこたえてくれ！
+[name="???"]  ...Daughter... My daughter! Hold on!
+
+爸爸，不要......不要再离开我了......
+お父さん、いやだ……もうどこへも行かないで……。
+Daddy, don't.... Don't ever leave me again....
+
+10:48 A.M.
+10:48 A.M.
+10:48 A.M.
+
+切尔诺伯格分城“14区”废墟
+チェルノボーグ移動都市「エリア14」跡地
+Ruins of Chernobog "District 14"
+
+地基层上部
+基礎フロア上部
+Upper superstructure levels
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[Decision(options="醒醒！;......;能不能麻烦你......", values="1;2;3")]
+[Decision(options="目を覚ませ！;……。;すまないが……。", values="1;2;3")]
+[Decision(options="Wake up!;........;Hate to be a bother......", values="1;2;3")]
+
+[name="霜星"]  我已经醒了。
+[name="フロストノヴァ"]  もう目は覚めている。
+[name="FrostNova"]  I'm awake.
+
+[name="霜星"]  你没有在我昏迷时杀掉我，是因为自信，还是因为别的什么？
+[name="フロストノヴァ"]  私が気を失っている間に殺さないとは、自信があるのか、それとも何か別の狙いがあるのか？
+[name="FrostNova"]  You didn't kill me while I was unconscious. Is that confidence or something else?
+
+[Decision(options="这种事似乎发生过......", values="1")]
+[Decision(options="過去にも同じことがあったような……。", values="1")]
+[Decision(options="This sort of thing has happened before....", values="1")]
+
+[Decision(options="我没得选。;......;我能那么做吗？", values="1;2;3")]
+[Decision(options="他に選択の余地はなかった。;……。;そんなことが許されるのか？", values="1;2;3")]
+[Decision(options="I didn't have a choice.;........;Can I do that?", values="1;2;3")]
+
+[name="霜星"]  不管怎么样，你没有那么做。
+[name="フロストノヴァ"]  何はどうあれ、お前はそうしなかった。
+[name="FrostNova"]  In any case, you didn't.
+
+[Decision(options="可能是因为你一直在说梦话。;......;可以咨询下你的身世吗？", values="1;2;3")]
+[Decision(options="君がずっと寝言を言っていたからかもな。;……。;君のことを聞いてもいいか？", values="1;2;3")]
+[Decision(options="Probably because you've been talking in your sleep.;........;Can I ask you about your life?", values="1;2;3")]
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[name="霜星"]  我就当你刚才已经手下留情过了。现在我不杀你，就当我还了你一命。
+[name="フロストノヴァ"]  情けをかけられた身だ、今お前を殺さないことで、その借りを返したことにしよう。
+[name="FrostNova"]  I'll take that as a sign that you've shown mercy. Now if I don't kill you, I'd call that returning the favor.
+
+[name="霜星"]  你那副复杂的表情是怎么回事？
+[name="フロストノヴァ"]  その複雑な表情はなんだ？
+[name="FrostNova"]  Why the consternation on your face?
+
+[name="霜星"]  是不是因为......我把梦里的事情全说出来了？
+[name="フロストノヴァ"]  まさか……夢の中のことを全て口にしてしまっていたか？
+[name="FrostNova"]  Is it because...? You heard everything I saw in my dream?
+
+[name="霜星"]  看来我真是在昏迷中透露了些实在不怎么愉快的事情。
+[name="フロストノヴァ"]  気を失っている間に、面白くない話を漏らしてしまったようだな。
+[name="FrostNova"]  It seems I really did reveal something very unpleasant in my stupor.
+
+[name="霜星"]  记忆这种东西还真是想丢也丢不掉。
+[name="フロストノヴァ"]  まったく記憶というのは、捨てたくても捨てられないものだ。
+[name="FrostNova"]  Memories are something you can't lose even if you want to.
+
+[name="霜星"]  你查看过周围没有？
+[name="フロストノヴァ"]  ところで、周囲は調べたのか？
+[name="FrostNova"]  Have you explored our surroundings?
+
+[name="霜星"]  没能找到出口，是吗。
+[name="フロストノヴァ"]  出口は見つからなかったということか。
+[name="FrostNova"]  Couldn't find a way out, could you?
+
+[name="霜星"]  看来一段时间里，我们是没法离开这个地方了。
+[name="フロストノヴァ"]  我々二人とも、しばらくこの場所を離れられそうにないな。
+[name="FrostNova"]  Looks like we won't be able to leave this place for a while.
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[name="霜星"]  我所称呼的父亲，名叫博卓卡斯替，曾经是乌萨斯的一位尉官。
+[name="フロストノヴァ"]  私が父と呼ぶのは、かつてウルサスの尉官だったボジョカスティという男だ。
+[name="FrostNova"]  My father, as I call him, is named Buldrokkas'tee and was once an officer in the Ursus military.
+
+[name="霜星"]  但我真正的父亲很早就死了。
+[name="フロストノヴァ"]  本当の父親はとうの昔に死んでいる。
+[name="FrostNova"]  But my real father died a long time ago.
+
+[name="霜星"]  小时候我依稀记得，有个男人挡住了弩箭，保护了一个女人；而女人把我抱在怀里，用脊背拦下了第二波弩箭。
+[name="フロストノヴァ"]  一人の男が矢を身体で受け止め、一人の女を守った。そしてその女は私を胸に抱き、背中で第二波の矢を受けた。幼い頃から頭にこびりついて離れない光景さ。
+[name="FrostNova"]  As a child I vaguely remember a man taking a crossbow bolt to protect a woman; and the woman took me in her arms and stopped the second volley of bolts with her spine.
+
+[Decision(options="你亲眼目睹了......", values="1")]
+[Decision(options="それをその眼で見たのか……。", values="1")]
+[Decision(options="You witnessed it with your own eyes....", values="1")]
+
+[name="霜星"]  那时的我根本没法理解眼前发生的事情，这段记忆也只是恰巧没被淡忘而已。
+[name="フロストノヴァ"]  ああ。もっとも当時の私は、その光景が意味することは全く理解できなかったがな。だがそれは、確かにずっと頭に残っていた。
+[name="FrostNova"]  I couldn't even comprehend what was happening at the time, and this memory just happened to never fade.
+
+[name="霜星"]  至于真正发生了什么事，都是我的祖母后来才告诉我的。
+[name="フロストノヴァ"]  その時、何が起きたのかは、後に祖母が教えてくれた。
+[name="FrostNova"]  As for what really happened, it was my grandmother who told me all about it later.
+
+[name="霜星"]  在我追问祖母那个景象的含义，而她再也没法搪塞过去的时候，祖母她告诉了我。
+[name="フロストノヴァ"]  記憶にこびりついたその光景について、私はしつこく祖母に尋ねたものだ。もう誤魔化してはおけないと悟ると、祖母はしぶしぶ教えてくれた。
+[name="FrostNova"]  When I pressed my grandmother for the meaning of that vision, and she had no more excuses, she told me.
+
+[name="霜星"]  “那是你的亲生父母......在死前保护了你。”
+[name="フロストノヴァ"]  「あれは君の実の両親だ……死と引き換えに君を守った」と。
+[name="FrostNova"]  "They were your real parents.... and they died protecting you."
+
+[name="霜星"]  可笑的是，我根本不认识他们。我脑海里除了这个景象以外，什么关于他们的记忆都没有。
+[name="フロストノヴァ"]  可笑しなものさ。私は二人のことを全く知らないというのにな。あの脳裏に焼き付いた光景以外に、二人に関する記憶は一つもないんだ。
+[name="FrostNova"]  The funny thing is, I don't know them at all. I don't have any memories of them in my mind other than that vision.
+
+[name="霜星"]  我的亲生父母就这样被我忘记了。我甚至很难说自己对他们有什么感情。
+[name="フロストノヴァ"]  血の繋がった実の両親だというのに、私はそうやって忘れてしまったんだ。自分が彼らにどんな感情を抱いているのかすら、うまく言葉にできない。
+[name="FrostNova"]  My own parents were just forgotten. It's hard for me to even say I have any feelings for them.
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[Decision(options="所以你的祖母养育了你。", values="1")]
+[Decision(options="つまり君は、祖母に育てられたのか？", values="1")]
+[Decision(options="So your grandmother raised you.", values="1")]
+
+[name="霜星"]  一半一半。另一半是乌萨斯感染者的血。
+[name="フロストノヴァ"]  半分はそうだ。残りの半分は、ウルサス感染者の血に育まれたと言えるだろう。
+[name="FrostNova"]  Half and half. The other half was the blood of the Ursus Infected.
+
+[Decision(options="......什么？", values="1")]
+[Decision(options="……どういうことだ？", values="1")]
+[Decision(options="...What?", values="1")]
+
+[name="霜星"]  呵......
+[name="フロストノヴァ"]  ふっ……。
+[name="FrostNova"]  Ugh....
+
+[name="霜星"]  我在西北冻原上的一座矿场出生。
+[name="フロストノヴァ"]  私は西北凍原の採掘場で生まれた。
+[name="FrostNova"]  I was born in a mine in the northwest tundra.
+
+[name="霜星"]  矿场位置偏远，规模不大，不属于任何城市，周边也没有聚落。一年四季除了雪，什么也看不见。
+[name="フロストノヴァ"]  へんぴな場所にある小さな採掘場で、どの都市にも属さず、周囲に集落もなかった。一年を通して、雪しか見えないところだった。
+[name="FrostNova"]  The mine was small and remote, not part of any city, and there are with no settlements around. There was nothing to see but snow all year round.
+
+[name="霜星"]  这座矿场等同于刑场，仅仅是为了宣扬死亡与奴役才建立起来。这样的矿场在雪原上数不胜数。
+[name="フロストノヴァ"]  あの採掘場は、ただ死と奴隷制を正当化するために建てられた流刑地だった。同じような採掘場が、雪原には無数に存在している。
+[name="FrostNova"]  This mine was hell, built only to spread death and slavery. There are countless such mines in the snowy plains.
+
+[name="霜星"]  我的亲生父母正是这座矿场的矿工。
+[name="フロストノヴァ"]  私の両親は、その採掘場の採掘工だったのだ。
+[name="FrostNova"]  My birth parents were miners in that hellish pit.
+
+[name="霜星"]  祖母陪我度过了学习说话的年纪，却从没告诉过我父母到底是犯下了什么罪，才被判在此服刑。
+[name="フロストノヴァ"]  祖母は私の幼少期にずっと面倒を見てくれたが、両親がどのような罪を犯し、あの地へ送られたかは、ついに話してくれなかった。
+[name="FrostNova"]  My grandmother stayed with me through my early years of learning to speak, but she never told me what crimes my parents committed to be sentenced to mine labor.
+
+[name="霜星"]  后来，我年纪稍长，在矿场里四处打听，才知道我的父母都曾反对过乌萨斯皇帝的战时策略。
+[name="フロストノヴァ"]  私はある程度の年齢になってから、採掘場の各所を尋ね歩いて、ようやく両親がかつてウルサス皇帝の戦時政策に反対していたということを教えてもらった。
+[name="FrostNova"]  Later, when I was a little older, I asked around in the mines and learned that both of my parents had opposed the Emperor's wartime plans.
+
+[name="霜星"]  他们的被捕也是个意外。逮捕名单最底下的两行是空白的，负责搜查的士官随手抄写了门牌上的名字。
+[name="フロストノヴァ"]  しかし彼らが捕えられたのは予想外のことだった。逮捕者リストの最後の空白の二枠を埋めるために、捜査を担当した士官が目に入った表札の名前をそこに書き込んだだけだったそうだ。
+[name="FrostNova"]  Their arrest was also an accident. The bottom two lines of the arrest warrant were blank, so the sergeant in charge of the search haphazardly copied the name on the door plate.
+
+[name="霜星"]  未经审判，我的父母失去了姓名，从温暖的小城迁来了寒冷的北地，服一场长达数百年的劳役。
+[name="フロストノヴァ"]  裁判などは行われず、私の両親は名を奪われ、温かい都市から凍える北地へ送られ、そして数百年の刑期に処された。
+[name="FrostNova"]  Without trial, my parents lost their names and moved from their warm little town to the cold Northlands to serve a centuries-long sentence.
+
+[name="霜星"]  当然，根本没人能活到那时候，更别说活着离开。
+[name="フロストノヴァ"]  勿論、数百年の刑期など生きてそれを全うできるはずはない。あの地を離れることなど夢のまた夢だっただろう。
+[name="FrostNova"]  Of course, no one would even live to see that, let alone ever leave alive.
+
+[name="霜星"]  而我的祖母作为“包庇者”，被一同判处矿役，迁来这座矿场。
+[name="フロストノヴァ"]  そして祖母は、「犯罪者を庇護した者」として同様の刑に処され、採掘場に送られたという。
+[name="FrostNova"]  My grandmother was sentenced to the mines together as a "harborer" of criminals, and moved with them.
+
+[name="霜星"]  事实上，矿场中的所有矿工，经历都十分类似。
+[name="フロストノヴァ"]  実際のところ、あの採掘場の全ての採掘工が、みな似通った経緯で採掘場に送られてきたそうだ。
+[name="FrostNova"]  In fact, all the miners there had very similar experiences.
+
+[name="霜星"]  不出所料，我的双亲在采矿过程中感染了矿石病。所有矿工都感染了矿石病。
+[name="フロストノヴァ"]  そして当然のことながら、私の両親は採掘の過程で鉱石病を患ってしまった。全ての採掘工がそうやって鉱石病になっていったんだ。
+[name="FrostNova"]  Naturally, both of my parents contracted Oripathy down there. All the miners did.
+
+[name="霜星"]  现在，即使你逃出这矿场，也没有人会相信你说的话了。你只是个感染者，最可怕、最恶毒也最偏激的矿石病患者。
+[name="フロストノヴァ"]  そうなれば、たとえ採掘場からなんとか逃げ出せたとしても、誰も彼らの言葉なぞ信じない。最も恐ろしく、悪辣で過激な感染者の言葉なのだから。
+[name="FrostNova"]  Now, even if you escaped this mine, no one would believe a word you said. You're just an Infected person, the most horrible, vicious and extreme of the Oripathy patients.
+
+[name="霜星"]  然而，矿场的监工——乌萨斯的某支驻军，认为感染者的自然死亡速度还是太慢了。
+[name="フロストノヴァ"]  だがそんな折、採掘場の監視官——ウルサスの某駐在軍は、感染者たちが自然に死んでいくのを待つのでは遅すぎる、と判断したようだった。
+[name="FrostNova"]  However, the overseer of the mine, a certain Ursus military garrison, believed that the natural death rate of the Infected was still too slow.
+
+[name="霜星"]  他们抽签决定矿石病患者的命运，他们杀人取乐。
+[name="フロストノヴァ"]  そこで奴らは、くじ引きで鉱石病患者の運命を決め、殺人に興じるようになった。
+[name="FrostNova"]  They drew straws to decide the fates of the Oripathy sufferers, killing them for fun and sport.
+
+[name="霜星"]  也许皑皑白雪没有逼疯矿工却逼疯了他们，也许感染者在他们眼里并不算人。
+[name="フロストノヴァ"]  真白な雪が採掘工ではなく、奴らの方を狂わせたのかもしれない。そもそも感染者なんて奴らにとっては、人ですらなかったのかもしれない。
+[name="FrostNova"]  Maybe it was the miners that drove them crazy, rather than the snow. And maybe the Infected didn't count as human in their eyes.
+
+[name="霜星"]  我五岁时，我的父母抽到了黑签。
+[name="フロストノヴァ"]  私が五歳の時、両親が黒いくじを引いた。
+[name="FrostNova"]  When I was five, my parents drew the black lot.
+
+[name="霜星"]  我十岁时，我的祖母抽到了黑签。
+[name="フロストノヴァ"]  私が十歳の時、祖母が黒いくじを引いた。
+[name="FrostNova"]  When I was ten, my grandmother drew the black lot.
+
+[name="霜星"]  十一岁时，我自己抽到了黑签，但这不重要，他们已经无所谓抽签一事。他们只想废弃整座矿场。
+[name="フロストノヴァ"]  そして十一歳の時、私自身も黒いくじを引いた。しかし、それはもう意味を成さなかった。奴らはくじ引きなどどうでも良くなっていた。既に採掘場全体を遺棄する計画が動いていたからな。
+[name="FrostNova"]  When I was eleven, I drew the black lot myself, but it didn't matter, they didn't care about the lottery anymore. They just want to abandon the whole mine.
+
+[name="霜星"]  那个时候，矿场里的所有成年患者已经死尽，皇帝的新型处理方式让矿场人丁匮乏。
+[name="フロストノヴァ"]  当時、採掘場の成人患者は既に全て死に絶えていた。皇帝の新しい施策は、採掘場を人手不足に陥らせたのだ。
+[name="FrostNova"]  By that time, all the adult Infected in the mines had died out, and the Emperor's new policies had left the mines starved of people.
+
+[name="霜星"]  根据命令，乌萨斯监工们准备动手处决最后一批感染者......一些感染者孩子。
+[name="フロストノヴァ"]  命令に従い、ウルサスの監視官たちは最後に残った感染者たちを始末することに決めた……感染者の子供たちを。
+[name="FrostNova"]  Under orders, the Ursus overseers prepared to go ahead and execute the last of the Infected.... A few sick children.
+
+[name="霜星"]  之后他们会将矿场炸毁，充当感染者的坟墓，用来掩饰他们的罪恶。
+[name="フロストノヴァ"]  そして最後には採掘場を爆破し、感染者の墓場に仕立てることで、自分たちの罪を闇に葬ろうとしていた。
+[name="FrostNova"]  Afterwards they would collapse the mines to serve as mass graves for the infected, to cover up their sins.
+
+[name="霜星"]  在后来的行军生涯中我了解到，他们一直是这样做的。
+[name="フロストノヴァ"]  後々知ったのだが、奴らはこれまでずっとそれを繰り返してきたそうだ。
+[name="FrostNova"]  I learned later, in my travels, that they do this all the time.
+
+[name="霜星"]  我感到不甘。我感到痛苦。
+[name="フロストノヴァ"]  奴らの魔の手が迫ると、私は悔しさのあまり胸が張り裂けそうに痛んだ。
+[name="FrostNova"]  I was sad. I was in pain.
+
+[name="霜星"]  我敲碎过许多矿石，我和矿场里其他孩子一起生活，我们情同手足，如今我们都会窝囊地死掉。
+[name="フロストノヴァ"]  これまでに山ほどの鉱石を採掘し、共に生活をしてきた兄弟姉妹同然の仲間たちが、無念にも死んでいかざるを得ないと。
+[name="FrostNova"]  I had broken a lot of ore. I lived with other kids in the mines, we loved each other, and we were all going to die for nothing.
+
+[name="霜星"]  更强烈的感情在我胸膛中孵化，我双亲与祖母的死历历在目。
+[name="フロストノヴァ"]  そしてそれ以上に強烈な感情が私の胸で弾けた。両親と祖母の死の光景が脳裏に鮮やかに蘇ったんだ。
+[name="FrostNova"]  Strong feelings hatched in my chest, the deaths of both my parents and my grandmother played vividly in my mind.
+
+[name="霜星"]  在他们行刑时，我的法术从我体内爆发出来，当场杀掉了行刑的四个士官。
+[name="フロストノヴァ"]  彼らが私に手を掛けたまさにそのとき、私のアーツが身体の中から爆発するように湧き上がった。私はその場で四人の士官を血祭りに上げてやった。
+[name="FrostNova"]  When the execution started, my Arts erupted from within me, killing the four soldiers carrying out the execution..
+
+[name="霜星"]  当然，我并没有扭转局势的能力。
+[name="フロストノヴァ"]  とはいえ、それだけのことでは状況を覆せなかった。
+[name="FrostNova"]  Of course, I didn't have the power to turn things around.
+
+[name="霜星"]  孩子们在监工眼中只是牲畜，他们作为军人手持利刃，身穿坚甲，我们像是小虫，仅仅用尾刺扎了他们一下。
+[name="フロストノヴァ"]  子供たちは監視官にとってはただの家畜に過ぎない。奴らを軍人たらしめる鋭い刃と堅固な装備を前にすれば、私たちは虫ケラのようなものだ。尻尾の棘で少し刺した程度だった。
+[name="FrostNova"]  The children were mere cattle to the overseers, who, as soldiers, carried sharp blades and wore solid armor, and we were like bugs who just managed to sting them.
+
+[name="霜星"]  就在他们把我击倒在地，最后一波屠戮即将开始，我兄弟姐妹们的哭叫声传入我的耳朵之时......
+[name="フロストノヴァ"]  程なくして私は地面に組み伏せられ、最後の殺戮を目前にした兄弟姉妹たちの泣き声が耳に届いたその時……。
+[name="FrostNova"]  The cries of my siblings reached my ears just as they knocked me to the ground and the final wave of slaughter was about to begin...
+
+[name="霜星"]  一支游击队来到了这里。
+[name="フロストノヴァ"]  突然、ある遊撃部隊が現れた。
+[name="FrostNova"]  A guerrilla band arrived.
+
+[name="霜星"]  那就是博卓卡斯替的队伍。
+[name="フロストノヴァ"]  それがボジョカスティの部隊だったのだ。
+[name="FrostNova"]  That was Buldrokkas'tee's team.
+
+[name="霜星"]  西北冻原上所有看守感染者的乌萨斯军人都会做梦，而这支队伍是他们最可怕的噩梦。
+[name="フロストノヴァ"]  西北凍原に駐留するウルサス軍のからすれば、あの部隊は最も恐ろしい悪夢のような存在だっただろうな。
+[name="FrostNova"]  All the Ursus soldiers guarding the Infected on the northern tundra have dreams, and this squad is their worst nightmare.
+
+[Decision(options="你似乎......为他们感到自豪。", values="1")]
+[Decision(options="なんだか……誇らしげだな。", values="1")]
+[Decision(options="You seem.... Proud of them.", values="1")]
+
+[name="霜星"]  如果我能的话，我会。
+[name="フロストノヴァ"]  ああ、誇って良いなら、そうさせてもらおう。
+[name="FrostNova"]  If I could be, I would be.
+
+[name="霜星"]  他们彻底地消灭了我们面前的刽子手，矿场中的感染者孩子们逃过了一劫。
+[name="フロストノヴァ"]  彼らは徹底的に処刑者たちの抹殺を行った。そして採掘場の感染者の子供たちは、なんとか生きながらえることができた。
+[name="FrostNova"]  They killed every last executioner right before us, and the Infected children in the mine escaped.
+
+[name="霜星"]  只是......
+[name="フロストノヴァ"]  ただ……。
+[name="FrostNova"]  It's just...
+
+[name="霜星"]  在那毫无人性的白色大地上，我那些不够幸运的同伴们，他们身体里的热血和乌萨斯军人体内的暗红流至一处，冻结成冰。
+[name="フロストノヴァ"]  あの温情の欠片もない白い大地の上で、一部の不運な仲間たちは、その身体に流れる熱い血と、ウルサス軍人の濁った血と共に、氷に成れ果ていってた。
+[name="FrostNova"]  The blood of my less fortunate companions and that of the dead soldiers flowed together and crystallized into ice on the inhumanly white ground.
+
+[name="霜星"]  我突然意识到一件事情......
+[name="フロストノヴァ"]  改めて思い返して、一つ気付いたことがある……。
+[name="FrostNova"]  And I realized something, in that moment...
+
+[name="霜星"]  这些乌萨斯士兵最开始只是在听从命令。他们流着和我们相同的血。
+[name="フロストノヴァ"]  あのウルサス兵たちは、初めはただ命令に従っているに過ぎなかっただろう。初めの頃の奴らの身体には、私たちと同じ血が流れていたように思う。
+[name="FrostNova"]  These Ursus soldiers were just following orders, at first. They shed the same blood as us.
+
+[name="霜星"]  铺天盖地的言论，添油加醋的事迹，刻意制造的敌意使得残忍和冷漠在他们身体里生根发芽。
+[name="フロストノヴァ"]  天地を覆い尽くさんばかりの多数の流言に尾ひれが付いていき、意図的に生み出された敵意が、残忍さと冷酷さという形になって奴らの身体の中で芽吹いたのだ。
+[name="FrostNova"]  Words and stories and fabricated animosity planted the root of cruelty and indifference in their bodies.
+
+[name="霜星"]  把他们变成这样的，是这个乌萨斯。
+[name="フロストノヴァ"]  奴らをあんなふうに変えたのは、他でもないウルサスだ。
+[name="FrostNova"]  It was Ursus that turned them into this.
+
+[name="霜星"]  嘶，唔......
+[name="フロストノヴァ"]  うっ、ぐっ……。
+[name="FrostNova"]  Hiss, hmm....
+
+[name="霜星"]  请你......帮我个忙。
+[name="フロストノヴァ"]  少し……手を貸してもらえるか。
+[name="FrostNova"]  Please.... Do me a favor.
+
+[name="霜星"]  我外套左边口袋，有几颗糖。拿一颗。
+[name="フロストノヴァ"]  私のコートの左ポケットに、キャンディが入っているはずだ。それを一つ取ってくれ。
+[name="FrostNova"]  In the left pocket of my jacket, there's are some candies. Take one.
+
+[name="霜星"]  ......你想尝尝的话，也可以为自己拿一颗。
+[name="フロストノヴァ"]  ……お前も食べたければ、自分の分も一つ取ればいい。
+[name="FrostNova"]  ...You can also take one for yourself if you want to try it.
+
+[Decision(options="拿一颗糖;拿两颗糖", values="1;2")]
+[Decision(options="キャンディを一つ取る;キャンディを二つ取る", values="1;2")]
+[Decision(options="Take a candy.;Take two candies.", values="1;2")]
+
+[name="霜星"]  ......害怕糖果有毒？
+[name="フロストノヴァ"]  ……毒でも警戒しているのか？
+[name="FrostNova"]  Afraid it's poisoned?
+
+[name="霜星"]  也许你不喜欢糖果，但你可以试试。这种糖在龙门是吃不到的。
+[name="フロストノヴァ"]  もしくはキャンディ自体が好きではないのかもしれないが、食べてみるといい。これは龍門では食べられないものだ。
+[name="FrostNova"]  Maybe you don't like candy, but you can try it. You can't get this kind of candy in Lungmen.
+
+[name="霜星"]  这是乌萨斯特有的糖，吃一颗，也少一颗。
+[name="フロストノヴァ"]  ウルサス特有のキャンディだ。一粒減ってしまうが、構わない。
+[name="FrostNova"]  It's an Ursus specialty. Eat one, and there's one less in the world.
+
+[name="霜星"]  就当作帮我拿糖的回礼吧，只是试试。
+[name="フロストノヴァ"]  キャンディを取ってくれた礼として、試してみてくれ。
+[name="FrostNova"]  Consider it payback for helping me with the candy. Try it.
+
+[name="霜星"]  哦？看来你也对点心感兴趣。
+[name="フロストノヴァ"]  ほう？　お前も菓子に興味があるようだな。
+[name="FrostNova"]  Oh? Looks like you've got a taste for snacks after all.
+
+[name="霜星"]  事先提醒，这糖可能和你以前吃过的糖完全不同。
+[name="フロストノヴァ"]  予め言っておくが、これはお前がこれまで食べてきたキャンディとは全く違うものかもしれない。
+[name="FrostNova"]  Just a warning, the sugar may be completely different from anything you've ever had before.
+
+[name="霜星"]  但是，人生很短，总该试试新鲜事物，不是吗？
+[name="フロストノヴァ"]  だが人生は短いものだ。新たな物事への挑戦は、多ければ多いほど良い、そうだろう？
+[name="FrostNova"]  But life is short. You should try something new, right?
+
+[Decision(options="然后呢？", values="1")]
+[Decision(options="君の分はどうすればいい？", values="1")]
+[Decision(options="Then what?", values="1")]
+
+[name="霜星"]  请把糖放进我的嘴里。小心，不要碰到皮肤。
+[name="フロストノヴァ"]  私の口に入れてくれないか。皮膚には触れないように気をつけろ。
+[name="FrostNova"]  Please put the candy in my mouth. Careful, not to touch my skin.
+
+[Decision(options="不合适吧？;......;这样好吗？", values="1;2;3")]
+[Decision(options="それはあまり良くないのでは？;……。;構わないのか？", values="1;2;3")]
+[Decision(options="It's not right, is it?;........;Like this?", values="1;2;3")]
+
+[name="霜星"]  从指尖到脖子，我的身体全都麻痹了。现在我也只有脖子以上能动。
+[name="フロストノヴァ"]  指先から首まで痺れてしまって動かせない。今は首から上しか動かないからな。
+[name="FrostNova"]  From my fingertips to my neck, I'm paralyzed. I can only move from the neck up.
+
+[name="霜星"]  但是，我只要稍稍动一下舌头，也依然能立刻冻死你。
+[name="フロストノヴァ"]  だが、少し舌を動かせば、いつでもお前を凍死させられる。
+[name="FrostNova"]  But I can still freeze you instantly with even the slightest movement of my tongue.
+
+[name="霜星"]  所以不用担心其他事情。如果你真的冒犯到我，你很快就会死。
+[name="フロストノヴァ"]  だから細かいことは心配しなくていい。もしお前が私に何かするつもりなら、すぐに命を落とすだけだ。
+[name="FrostNova"]  So don't worry. If you offend me, you'll be dead soon enough.
+
+[Decision(options="（给霜星糖）", values="1")]
+[Decision(options="（キャンディを口に入れる）", values="1")]
+[Decision(options="(Give FrostNova the candy)", values="1")]
+
+[name="霜星"]  谢谢。
+[name="フロストノヴァ"]  ありがとう。
+[name="FrostNova"]  Thank you.
+
+[Decision(options="（自己吃糖）;（自己吃糖）;（自己吃糖）", values="1;2;3")]
+[Decision(options="（自分も食べる）;（自分も食べる）;（自分も食べる）", values="1;2;3")]
+[Decision(options="(Eat the candy);(Eat the candy);(Eat the candy)", values="1;2;3")]
+
+你感觉很辣。
+辛い。
+It tastes very spicy.
+
+你感觉非常辣。
+とても辛い。
+It tastes extremely spicy.
+
+你感觉辣的可怕。
+恐ろしいほどの辛さだ。
+It tastes horrifically spicy.
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[Decision(options="......", values="1")]
+[Decision(options="……。", values="1")]
+[Decision(options="........", values="1")]
+
+[name="霜星"]  你的表情......
+[name="フロストノヴァ"]  その表情……。
+[name="FrostNova"]  The look on your face....
+
+[name="霜星"]  呵呵......
+[name="フロストノヴァ"]  フフ……。
+[name="FrostNova"]  Hehehe....
+
+[name="霜星"]  抱歉，忍不住想捉弄你一下。
+[name="フロストノヴァ"]  すまない、つい悪戯をしたくなってな。
+[name="FrostNova"]  Sorry, couldn't resist teasing you a bit.
+
+[name="霜星"]  这个玩笑我对身边人开过太多次，已经没人会中招了。
+[name="フロストノヴァ"]  仲の良い者たちには使い古した手だ、もう誰も引っかからなくなってしまった。
+[name="FrostNova"]  I've made that joke so many times that no one falls for it anymore.
+
+[name="霜星"]  现在总算又......找到次机会。不好意思，我实在是有些......忍不住。
+[name="フロストノヴァ"]  だが今……またとない機会が巡ってきたと思ってな。すまない、どうしても……我慢できなかった。
+[name="FrostNova"]  And now at last..... I saw a chance. Sorry, I just.... couldn't help myself.
+
+[Decision(options="为什么要吃这种糖？", values="1")]
+[Decision(options="どうしてこんなキャンディを食べるんだ？", values="1")]
+[Decision(options="Why do you eat this stuff?", values="1")]
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[name="霜星"]  因为我很冷。
+[name="フロストノヴァ"]  私の「冷たさ」が原因だ。
+[name="FrostNova"]  Because I'm cold.
+
+[name="霜星"]  刚才劝你小心，也是因为哪怕你仅仅只是接触到一丁点我的皮肤，你都会被严重冻伤。
+[name="フロストノヴァ"]  先程、私が気をつけろと言ったのは、お前が少しでも私の皮膚に触れれば、ひどい凍傷を負うことになるからだ。
+[name="FrostNova"]  I told you to be careful, because even if you touch just the tiniest bit of my skin, you'll get severe frostbite.
+
+[name="霜星"]  如果你之前触碰过我，我从你的反应上就能看出来。你没有，你并没有对我起杀意。
+[name="フロストノヴァ"]  カマをかけたという訳ではないが、もしお前が私に触れたことがあれば、そのときの反応で判断ができた。だが本当にお前は何もしなかったようだ。私に殺意を向けることはなかったのだな。
+[name="FrostNova"]  If you had touched me before, I would have been able to tell by your reaction. You didn't. You didn't try to kill me.
+
+[Decision(options="这现象超出了现存学术资料的记述。", values="1")]
+[Decision(options="学術資料の記述では説明できない現象だ。", values="1")]
+[Decision(options="This phenomenon is beyond the accounts of extant academic sources.", values="1")]
+
+[name="霜星"]  我的冷甚至超越了冬天本身。
+[name="フロストノヴァ"]  私の「冷たさ」は、冬そのものを超えている。
+[name="FrostNova"]  My cold goes even beyond winter itself.
+
+[name="霜星"]  外界的热量终归无法穿透这已经遍布我身躯的严寒。我喜欢热饮，因为热流从我的食道滑进胃里时，我能感受到饮料的温度......
+[name="フロストノヴァ"]  外部からの熱は、私の身体にまとわりついた厳寒を通り抜けることはできない。だから熱い飲み物を好んだ。熱流が食道から胃に流れ落ちる際に、その温度を感じ取れるからな。
+[name="FrostNova"]  The heat from the outside world cannot penetrate the bitter cold that surrounds my body. I love hot drinks because I can feel the warmth of the drink as the hot stream slides down my esophagus and into my stomach....
+
+[name="霜星"]  可悲的是，我的内脏会被热饮烫伤。
+[name="フロストノヴァ"]  だが残念ながら、私の内臓はその熱さには耐えられなかった。
+[name="FrostNova"]  Sadly, my insides get burned by hot drinks.
+
+[name="霜星"]  我的乐趣，只剩下这种混合了酒精与刺激性调料，加上少许糖分的混合体，勉强算是一种糖。
+[name="フロストノヴァ"]  そして私の楽しみは、このキャンディ——アルコールと刺激性の調味料に、少しの糖分を加えたものだけになった。
+[name="FrostNova"]  The only pleasure I have left is this mix of alcohol and stimulating spices, with a little candy, if you can call it that.
+
+[name="霜星"]  这种温暖的感受，即使只是短暂的假象，也能给我带来一丝惬意。
+[name="フロストノヴァ"]  こいつから得られる温もりは、ほんの一瞬だけのまやかしだが、それでも私にとっては少しばかりの満足感を与えてくれる。
+[name="FrostNova"]  This warm feeling, even if it's only a brief illusion, brings me a bit of comfort.
+
+[name="霜星"]  不好意思，刚才戏弄了你。
+[name="フロストノヴァ"]  すまなかったな、つまらない悪戯をして。
+[name="FrostNova"]  Sorry for teasing you earlier.
+
+[Decision(options="所以，你刚才说很冷，是因为......", values="1")]
+[Decision(options="つまり、君の「冷たさ」というのは……。", values="1")]
+[Decision(options="So, you just said it was cold because....", values="1")]
+
+[name="霜星"]  ......矿石病创造了我这副可怕的身躯。
+[name="フロストノヴァ"]  ……ああ、鉱石病がこの恐ろしい身体を作った。
+[name="FrostNova"]  Oripathy created this horrible body of mine.
+
+[name="霜星"]  然而，在那个时候，博卓卡斯替紧紧抱住了我这具冰冷、不知温暖为何物的身躯。
+[name="フロストノヴァ"]  だがあの時、ボジョカスティはこの冷たい身体を強く抱きしめてくれた。暖かさというものを知らないこの身体を。
+[name="FrostNova"]  At that moment, however, Buldrokkas'tee held my ice cold body that had never known warmth close to his chest.
+
+[name="霜星"]  丝毫不在意他两只脱下铠甲的胳膊被我冻得几乎完全坏死。
+[name="フロストノヴァ"]  鎧を脱いだ両腕が、私の冷気で壊死してしまうことすら全く厭わないようだった。
+[name="FrostNova"]  He didn't care at all that I'd frozen his unarmored arms to the point of partial necrosis.
+
+[name="霜星"]  我也不清楚，究竟是不是因为他当时的情感感染了我......我保持了清醒，最后活了下来。
+[name="フロストノヴァ"]  私にも分からんが、あの時の奴の感情が私を引き戻したのかもしれない……それから私はなんとか意識を保ち、生き延びたというわけだ。
+[name="FrostNova"]  I'm not sure if it was the emotions he was feeling at the time that infected me or not.... But I stayed awake and survived in the end.
+
+[Decision(options="所以博卓卡斯替......", values="1")]
+[Decision(options="つまりボジョカスティは……。", values="1")]
+[Decision(options="So Buldrokkas'tee became your father....", values="1")]
+
+[name="霜星"]  算是我的亲人。年幼的我曾把他当做至亲看待。
+[name="フロストノヴァ"]  私の家族みたいなものだな。幼き私は、奴をまるで父のように慕っていた。
+[name="FrostNova"]  He's my whole family. As a young child, he was all I had.
+
+[name="霜星"]  我也说了，我并不记得多少亲生父亲的事情......潜意识里，我应该确实是把这只巨大的野兽当做了亲人的。我说不清。
+[name="フロストノヴァ"]  血の繋がった父のことは覚えていないと言ったが……心の中では、あの巨大な獣のような男を代わりに父として見ていたのだろう。自分でもうまく説明できないが。
+[name="FrostNova"]  Like I said, I don't remember much about my birth father.... Subconsciously, I did indeed thought of the huge beast as my real family. Hard to say.
+
+[name="霜星"]  只是和外表不同，他多愁善感得很，偏偏又在某些地方顽固不化，这样的人以前曾经是乌萨斯的杀人机器，这难道不可笑吗？
+[name="フロストノヴァ"]  ただ見た目とは裏腹に、奴は感傷的な男だ。そしてこだわりがあることに関してはとんでもなく頑固で石頭なんだ。そんな男が、かつてはウルサスの殺人マシーンだったなんて、可笑しな話だろう？
+[name="FrostNova"]  It's just that, despite his appearance, he's sentimental and stubborn in places, and isn't it funny that such a man used to be a killing machine for Ursus?
+
+[name="霜星"]  笑不出来，对吧？我也笑不出。
+[name="フロストノヴァ"]  さすがに笑えないか？　ああ、私も笑えない。
+[name="FrostNova"]  It's not funny, is it? I can't laugh either.
+
+[name="霜星"]  他曾经是乌萨斯的战争英雄，年老后退守某座城邦。
+[name="フロストノヴァ"]  奴はかつてウルサスの英雄と呼ばれていた。老いた後は前線を退き某都市の守役に就いた。
+[name="FrostNova"]  He was once a war hero of Ursus, who retired to a certain city-state in his old age.
+
+[Decision(options="身为乌萨斯的士兵，却为了感染者而战？", values="1")]
+[Decision(options="ウルサスに属した兵が、今は感染者のために戦うのか？", values="1")]
+[Decision(options="As a soldier of Ursus, but fighting for the Infected?", values="1")]
+
+[name="霜星"]  如果你没有听信乌萨斯的一面之词，那么你会看到，其实这种人不在少数。虽然，被感染者称作“爱国者”的，也只有那么一个。
+[name="フロストノヴァ"]  ウルサスは頑なに認めようとしないが、そのような者は決して少なくない。とは言え、感染者たちに「愛国者」と呼ばれるのは、奴ただ一人だが。
+[name="FrostNova"]  If you don't take Ursus at their word, you'll see that he's in good company. Although, there is only one that the Infected call "Patriot".
+
+[name="霜星"]  他的妻子早逝，他和儿子相依为命。
+[name="フロストノヴァ"]  奴の妻は早くに亡くなり、息子と二人で暮らしていたそうだ。
+[name="FrostNova"]  His wife died young and he is survived by his son.
+
+[name="霜星"]  对了，他是个魔族人。在魔族里也最凶恶的那类。然而，他的儿子却成了学者，一个温迪戈学者......也许是乌萨斯史上头一个。
+[name="フロストノヴァ"]  そういえば、奴はサルカズでもある。最も凶悪とされる種のな。しかし奴の息子は、その身分でありながら学者になったのだ。ウェンディゴの学者は……おそらくウルサス史上初めてだっただろう。
+[name="FrostNova"]  By the way, he's a Sarkaz. From the most vicious Sarkaz clan at that. Still, his son became a scholar, a Wendigo scholar.... Perhaps the first in the history of Ursus.
+
+[name="霜星"]  博卓卡斯替在他最后参与的战役中感染了矿石病。
+[name="フロストノヴァ"]  ボジョカスティは最後に参加した作戦で鉱石病に感染したという。
+[name="FrostNova"]  Buldrokkas'tee contracted Oripathy during his last battle.
+
+[name="霜星"]  他的士兵们帮他隐瞒了病情，他也对自己的儿子隐瞒了一切。他不想拖累自己的儿子，只想拖着带病之身，死在哪个阴暗的角落。
+[name="フロストノヴァ"]  部下たちは奴のために病のことを隠蔽し、奴自身も息子に全てのことを黙っていた。息子に迷惑を掛けたくなかったのだろう、病身を引きずりながら、どこか目につかない死に場所を求めていた。
+[name="FrostNova"]  His men helped him hide his illness, and he had even hidden everything from his own son. He didn't want to drag his son down with him, only to die in some dark corner of the world with the disease.
+
+[name="霜星"]  然而，在“大叛乱”期间，他的儿子正为感染者的权益而四处奔走。父子不联系已久，儿子依然把父亲当做是乌萨斯的走卒。
+[name="フロストノヴァ"]  あの「大反乱」の頃、息子がまさに感染者の権利のために奔走していたことも知らずにな。二人は久しく連絡を取っていなかったし、息子の方も未だ奴をウルサスの手先だと考えていたようだ。
+[name="FrostNova"]  However, during the "Great Rebellion", his son was campaigning for the rights of the Infected. Long out of touch with his father, the son still sees him as an Ursus puppet.
+
+[name="霜星"]  他确实是。他接到命令，要自己的队伍不惜代价维持秩序。他允许士兵们动用武器，冲突爆发，飘雪中不断有人倒下。
+[name="フロストノヴァ"]  確かにその通りだ。奴が受けた命令は、自身の部隊を使いどんな犠牲を払ってでも秩序を守ることだった。奴は部下に武器の使用を認め、そしてそこで生まれた衝突が、舞い散る雪の中に無数の人を沈めた。
+[name="FrostNova"]  And he was. They commanded him to keep order in his own ranks at all costs. He allowed the soldiers to use their weapons, conflict erupted, and corpses piled in the snow drifts.
+
+[name="霜星"]  他曾经就是这样一个人。
+[name="フロストノヴァ"]  かつての奴は、確かにそんな男だった。
+[name="FrostNova"]  That's who he was.
+
+[name="霜星"]  然后，他在街头看见了自己的儿子，那时他的儿子已经没有了体温。
+[name="フロストノヴァ"]  その後、奴は道端で息子を見つけたという。既に体温を失った息子をな。
+[name="FrostNova"]  Then he saw his son on the street, his body by then completely cold.
+
+[name="霜星"]  不知道他搂着我的时候，有没有想到自己的儿子？
+[name="フロストノヴァ"]  奴が私を抱き上げた時、もしかするとその光景が奴の中で重なったのかもしれないな。
+[name="FrostNova"]  I wonder if he thought of his son when he hugged me?
+
+[name="霜星"]  他的儿子为他这样的感染者在自己的领域奋战，而他自认亲手杀死了儿子。
+[name="フロストノヴァ"]  息子は奴のような感染者の為に自身の専門分野で奮闘していた。そして奴は自分が息子を殺したと思い込んでいる。なんとも悲しい話だ。
+[name="FrostNova"]  His son fought for the Infected in his own way, and Buldrokkas'tee believed he had killed his own son.
+
+[name="霜星"]  他的队伍随他一同离开。从此以后，西北冻原上多了一支让虐待感染者的乌萨斯人闻风丧胆的游击队。
+[name="フロストノヴァ"]  その後、奴は部隊を連れてウルサスを離れた。ほどなくして西北凍原で、感染者を虐待するウルサス人を震え上がらせる、伝説の遊撃部隊が誕生したというわけさ。
+[name="FrostNova"]  His team left with him. Since then, the Northwest Tundra has had a guerrilla force that strikes fear into the hearts of Ursus who dare to abuse the Infected.
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[name="霜星"]  这些，这头年老的野兽，一个字都没有向我提过。
+[name="フロストノヴァ"]  この話、あの年老いた獣は、私には一言も語らなかった。
+[name="FrostNova"]  The old beast never said a word of any of this to me.
+
+[name="霜星"]  他也许真的把我当作他的女儿。可我也想他把这些事情，一字一顿与我说。
+[name="フロストノヴァ"]  あるいは、本当に私のことを娘だと考えていたのかもしれないな。だがこれらの過去は、私には一語一句伝えてほしかったものだ。
+[name="FrostNova"]  He probably does think of me as his daughter. But I also want him to tell me this stuff, in his own words, to me.
+
+[name="霜星"]  所有的一切，都是他的下属说给我听的。博卓卡斯替本人，不会向任何人透露哪怕一个字。
+[name="フロストノヴァ"]  そう、この話は全て奴の部下がしてくれたものだ。ボジョカスティ本人は、決して誰にもその過去を話さないのだ。
+[name="FrostNova"]  I learned it all from his men. But Buldrokkas'tee himself won't speak to anyone.
+
+[name="霜星"]  那个怪物一样的顽固老头，有着一颗脆弱又多孔的心。
+[name="フロストノヴァ"]  あの怪物の如き頑固者は、その内側に、か弱くて穴だらけの心を隠している。
+[name="FrostNova"]  That monster of a stubborn old man with a fragile and porous heart.
+
+[name="霜星"]  在救下我们这些感染者孩子之前，他的队伍已经横穿过了四座矿场。
+[name="フロストノヴァ"]  私とそこに一緒にいた感染者の子供たちを救出する前に、奴の部隊は既に四つの採掘場を訪れたという。
+[name="FrostNova"]  His team had passed through four mines before saving us children.
+
+[name="霜星"]  之前的感染者们没我们好命，他们的尸体被坍塌的矿山掩埋，行刑的乌萨斯连队已经不见踪影。
+[name="フロストノヴァ"]  だが私たちより前の採掘場にいた感染者たちは、我々ほど運が良くなかったようだ。彼らの死体は崩れた採掘場に埋まり、処刑を行ったウルサスの連中は既に跡形もなかったそうだ。
+[name="FrostNova"]  The kids in those four camps weren't as lucky as us. They found their bodies buried in the collapsed mines, and the company of soldiers that carried out the executions were nowhere to be found.
+
+[name="霜星"]  他在我身上找到了什么？亲情？救赎？还是一点点心理慰藉？我不清楚。
+[name="フロストノヴァ"]  奴は私に何を見たのだろうか？　家族愛？　贖罪？　それとも少しばかりの慰め？　私にはわからない。
+[name="FrostNova"]  What did he find in me? Affection? Redemption? Or a little psychological comfort? I'm not sure.
+
+[name="霜星"]  ......咳，咳。
+[name="フロストノヴァ"]  ……ゴホッ、ゴホッ。
+[name="FrostNova"]  ........*Cough*.
+
+[Decision(options="咳嗽和内出血也是你的......感染症状吗？", values="1")]
+[Decision(options="咳と内出血も君の……鉱石病の症状か？", values="1")]
+[Decision(options="Is coughing and internal bleeding also a symptom of your.... infection?", values="1")]
+
+[name="霜星"]  大概吧，没什么。也许只是过度使用法术的后遗症。
+[name="フロストノヴァ"]  恐らくな、だが、なんてことはない。もしかするとアーツを使いすぎた後遺症というだけかもしれん。
+[name="FrostNova"]  Probably, maybe. Probably just the result of me overusing my Arts.
+
+[name="霜星"]  今天这回比较猛烈。这种事情，过去也只发生过一次。
+[name="フロストノヴァ"]  たが今回は特に強烈なようだ。こんなことは、これまでに一度しかなかった。
+[name="FrostNova"]  It got pretty intense today. This sort of thing has only happened once before.
+
+[name="霜星"]  昏迷，全身瘫痪，意识清醒后也不能行动自如，都发生过。自己的情况，我自己也最清楚。
+[name="フロストノヴァ"]  気絶、全身麻痺、意識が戻った後も身体が動かない……どれも経験したことはある。自分の状況は自分が一番よくわかっている。
+[name="FrostNova"]  Unconsciousness, general paralysis, and the inability to move around even when conscious, have all happened. I know my own body.
+
+[Decision(options="你不能再使用源石技艺了。", values="1")]
+[Decision(options="二度とアーツを使わないほうが良い。", values="1")]
+[Decision(options="You can't use your Arts again.", values="1")]
+
+[name="霜星"]  我不用，难道让你去代我战斗？
+[name="フロストノヴァ"]  無理な話だ、まさか私の代わりにお前が戦ってくれるとでも？
+[name="FrostNova"]  Oh are you going to fight for me now?
+
+[name="霜星"]  罗德岛的......我该怎么叫你？
+[name="フロストノヴァ"]  ロドスの……何と呼べばいい？
+[name="FrostNova"]  Rhodes Islander.... What do I call you?
+
+[Decision(options="你可以像罗德岛干员们一样叫我。", values="1")]
+[Decision(options="オペレーターたちと同じように呼べばいい。", values="1")]
+[Decision(options="You can call me what the Rhodes Island operators do.", values="1")]
+
+[name="霜星"]  Dr.{@nickname}？
+[name="フロストノヴァ"]  Dr.{@nickname}？
+[name="FrostNova"]  Dr. {@nickname}?
+
+[name="霜星"]  Dr.{@nickname}。
+[name="フロストノヴァ"]  Dr.{@nickname}。
+[name="FrostNova"]  Dr. {@nickname}.
+
+[name="霜星"]  ......我承认你们罗德岛是不错的战士。但是我依然没法信任你们。更别提你们原本只是个医药公司了。
+[name="フロストノヴァ"]  ……お前たちロドスが良い戦士たちであることは認める。だがやはり信頼を置くことはできない。元はただの製薬会社という話も眉唾ものだ。
+[name="FrostNova"]  ...I admit that you Rhodes Islanders can fight. But I still don't trust you. Not to mention the fact that you're supposed to be a pharmaceutical company.
+
+[Decision(options="罗德岛需要做很多事。", values="1")]
+[Decision(options="ロドスは多くの事を成す必要がある。", values="1")]
+[Decision(options="Rhodes Island does a lot of things.", values="1")]
+
+[name="霜星"]  战斗之外的事情，与我无关。
+[name="フロストノヴァ"]  戦闘以外のことは、私とは関係ない。
+[name="FrostNova"]  What happens outside of combat is none of my business.
+
+[name="霜星"]  在切尔诺伯格，我观看了你们的战斗。你们有着坚定的立场，这件事我凭自己的双眼确认了，但我没法判断你们的善恶。
+[name="フロストノヴァ"]  チェルノボーグで、お前たちの戦いを観察させてもらった。お前たちが、確固たる信念を持って行動しているのは、私もこの目で確認できた。しかし、だからといってお前たちの善悪は判断できない。
+[name="FrostNova"]  I watched you fight in Chernobog. You have a strong stance, something I confirmed with my own eyes, but I couldn't judge your character.
+
+[name="霜星"]  ......我听说亚历克斯死在你们手上。这让我对你们产生了怀疑。
+[name="フロストノヴァ"]  ……アレックスがお前たちの手にかかり、命を落としたと聞いた。その報を受けて、お前たちを疑わざるを得なくなった。
+[name="FrostNova"]  ...I heard that Alex died at your hands. It makes me doubt your path.
+
+[name="霜星"]  现在，我不能放你们离开这座切尔诺伯格分城废墟，纵容你们伤害更多整合运动的感染者。
+[name="フロストノヴァ"]  お前たちをここから逃がしてやることはできない。お前たちがこれから更に多くのレユニオンの感染者を傷つけることを防ぐために。
+[name="FrostNova"]  Now, I can't let you leave Chernobog and cause more harm to Reunion's Infected.
+
+[name="霜星"]  但你肯听我这么多的废话......
+[name="フロストノヴァ"]  だがお前は私の無駄話を文句も言わず聞いてくれた……。
+[name="FrostNova"]  But you're willing to listen to so much of my crap....
+
+[name="霜星"]  我就当作你们不完全是其他感染者描述的那样。
+[name="フロストノヴァ"]  お前たちは恐ろしいものだと言われているが、その全てがそうとは限らないのかもしれない。
+[name="FrostNova"]  I'm going to assume you're not exactly as the other Infected describe.
+
+[Decision(options="那些感染者只是很害怕。", values="1")]
+[Decision(options="あの感染者たちは、ただ恐れているだけだ。", values="1")]
+[Decision(options="They're just scared.", values="1")]
+
+[name="霜星"]  谁不会对带来死亡的人感到恐惧？
+[name="フロストノヴァ"]  他人に死をもたらす相手を、恐れない者などいないだろう？
+[name="FrostNova"]  Who wouldn't be afraid of the one who brings death?
+
+[name="霜星"]  Dr.{@nickname}，现在的你，害怕吗？
+[name="フロストノヴァ"]  Dr.{@nickname}、今のお前は、恐れているか？
+[name="FrostNova"]  Dr. {@nickname}, are you scared, right now??
+
+[Decision(options="是。;我不清楚。;不。", values="1;2;3")]
+[Decision(options="そうだな。;わからない。;いいや。", values="1;2;3")]
+[Decision(options="Yes.;I'm not sure.;No.", values="1;2;3")]
+
+[name="霜星"]  感到恐惧是理所应当的。
+[name="フロストノヴァ"]  恐怖を感じるのは当然のことだ。
+[name="FrostNova"]  It's normal to feel fear.
+
+[name="霜星"]  这意味着你对这片大地还有留恋，你还有很多可以去做的事情。
+[name="フロストノヴァ"]  それがつまり、お前はまだこの大地に未練があるということだ。お前には、まだまだできることがある。
+[name="FrostNova"]  It means you still have attachment to the world, and you still have much to do.
+
+[name="霜星"]  你当真有恐惧这种感情？
+[name="フロストノヴァ"]  そもそも、お前には恐怖という感情はあるのか？
+[name="FrostNova"]  Do you really feel fear?
+
+[name="霜星"]  我对此感到怀疑。
+[name="フロストノヴァ"]  大いに疑問だ。
+[name="FrostNova"]  I doubt it.
+
+[name="霜星"]  如果死亡面前的人都像你这样平静，那我觉得也许你真的无欲无求。
+[name="フロストノヴァ"]  死に直面しているにも関わらず、それだけ落ち着いていられるというならば、お前には欲というものがないのかもしれないな。
+[name="FrostNova"]  If you look so peaceful in the face of death, then I think maybe you really have no attachments at all.
+
+[name="霜星"]  有意思。你不害怕吗？
+[name="フロストノヴァ"]  面白い。怖くないのか？
+[name="FrostNova"]  Interesting. You are not scared?
+
+[name="霜星"]  我想，不畏惧死亡的人，大概对这片大地也不剩下多少眷恋了吧。
+[name="フロストノヴァ"]  死を恐れないとするなら、お前はもうこの大地に未練はないのだろうな。
+[name="FrostNova"]  I guess those who do not fear death have little love left for the world.
+
+[name="霜星"]  我时时都在想一个问题......
+[name="フロストノヴァ"]  私も常に考え、自らに問いかけている……。
+[name="FrostNova"]  A question I think about all the time....
+
+[name="霜星"]  “我害怕死亡吗？”
+[name="フロストノヴァ"]  「死が怖いのか？」と。
+[name="FrostNova"]  "Am I afraid of death?"
+
+[name="霜星"]  我听说，乌萨斯驻防军把我说成是雪怪的公主，寒冬的死神......
+[name="フロストノヴァ"]  ウルサスの駐留軍が、私のことをスノーデビル部隊の姫君、厳冬の死神などと呼んでいると耳にしたが……。
+[name="FrostNova"]  I've heard that the Ursus garrisons call me the Yeti Princess, the Wintry Death....
+
+[name="霜星"]  事实上，我们只是几支破破烂烂的小队，在冻原上辗转，苟延残喘。
+[name="フロストノヴァ"]  実際のところは、私たちはボロボロの小隊の集まりに過ぎず、凍原をのたうち回り、なんとか生きながらえているだけなのだ。
+[name="FrostNova"]  The truth is, we were just a few ragtag squads wandering the tundra, barely scraping by.
+
+[name="霜星"]  我的法术是强大的，这点我在敌人和队友眼中都得到了验证。
+[name="フロストノヴァ"]  私のアーツは強力だ。それは敵や仲間の眼差しを見れば、否が応にでも分かることだ。
+[name="FrostNova"]  My Arts were powerful, I proved as much to my enemies and teammates alike.
+
+[name="霜星"]  当然，我的身体，就像你看到的那样，仅仅是一具矿石病患者应有的身体。
+[name="フロストノヴァ"]  とは言え、私の身体は見ての通り、一人の鉱石病に蝕まれた感染者の身体に過ぎない。
+[name="FrostNova"]  Of course, my body, as you can see, is only that of an Oripathy sufferer.
+
+[name="霜星"]  我感到了自己的特殊之处，不因为我的病痛，而是因为我的冰霜带来的那些感觉。
+[name="フロストノヴァ"]  それでも、私は自分が特別であると感じた。病の痛みによってではなく、私の冷たさがもたらすある種の感覚によってだ。
+[name="FrostNova"]  I felt special, not because of my illness, but because of the feelings my frost instilled in me.
+
+[name="霜星"]  我视自己的能力为一种祝福，博卓卡斯替这个老顽固，却当它是诅咒。
+[name="フロストノヴァ"]  私は自分の能力を祝福だと考えたが、ボジョカスティの石頭はそれを呪いだと言った。
+[name="FrostNova"]  I saw my ability as a blessing, but Buldrokkas'tee, that grumpy old fart, treated it like a curse.
+
+[name="霜星"]  我们穿越深泥沼泽，冰水浸过我的腿，我感不到冷。
+[name="フロストノヴァ"]  深い泥沼を渡り、脚が冷たい水に浸っても、私はそれを冷たいと感じない。
+[name="FrostNova"]  I couldn't feel the cold as we waded through the deep mud in the swamp, icy water soaking my legs.
+
+[name="霜星"]  老头依然不允许我们上战场，但他的士兵已经有了不少伤亡。
+[name="フロストノヴァ"]  あの石頭は、私たちが戦場に出ることを許さなかった。だが奴の部下たちの間では、かなりの死傷者が出ていたことを知っている。
+[name="FrostNova"]  The old man wouldn't let go into battle, even as his soldiers took heavy casualties.
+
+[name="霜星"]  他点了油灯，一个人在桌前静静地坐着。我想他是哭了，却没法证明，也不知道该不该安慰他。
+[name="フロストノヴァ"]  ある夜、奴がランプを灯し、一人テーブルに佇んでいるのを見た。確証はないが、泣いていたのかもしれん。私には慰めてやるべきかどうかもわからなかった。
+[name="FrostNova"]  He lit his oil lamp and sat quietly at the table by himself. I think he was crying, but I couldn't be sure, and I didn't know if I should comfort him.
+
+[name="霜星"]  第五年，我第一次在敌人面前唤出寒流。
+[name="フロストノヴァ"]  奴と出会ってから五年程経った頃、私は初めて敵の前で寒流を呼び出した。
+[name="FrostNova"]  In my fifth year, I summoned a cold stream for the first time in the face of the enemy.
+
+[name="霜星"]  一个士兵被冻成了冰块，另一个不小心摔倒在他冰块上，两人都碎成了冰渣。
+[name="フロストノヴァ"]  一人の兵士が氷の塊になり、もう一人がその氷の上に滑り転げ、最後に二人は粉々になった。
+[name="FrostNova"]  One soldier was frozen into a block of ice, another accidentally fell on the block and they both shattered into pieces.
+
+[name="霜星"]  我加入了战斗，士兵们看我的眼神充满敬畏，兄弟姐妹们为我感到自豪，和其他感染者说——
+[name="フロストノヴァ"]  それから私は戦闘に参加するようになり、兵士たちは畏敬の眼差しで私を見るようになった。兄弟姉妹たちはそれを誇りに思ってくれたのか、他の感染者たちにこう言った——
+[name="FrostNova"]  I joined the fight, the soldiers looked at me in awe, my brothers and sisters were proud of me, and other infected said——
+
+[name="霜星"]  “这是我们的大姊，她救了我们所有人的命。”
+[name="フロストノヴァ"]  「この人こそ俺たちの姐さんだ、俺たち全員の命を救ってくれた人なんだ」と。
+[name="FrostNova"]  "That's our big sister. She saved all our lives."
+
+[name="霜星"]  我的法术真有救了谁吗？
+[name="フロストノヴァ"]  だが、私のアーツは本当に誰かを救ったのか？
+[name="FrostNova"]  Did my Arts actually save anyone?
+
+[name="霜星"]  矿场出来的孩子们背上了我制造出的源石，我们成为了“雪怪小队”。
+[name="フロストノヴァ"]  あの採掘場出身の子供たちは、私が作り出した源石を背負い、私と共に「スノーデビル小隊」と呼ばれる存在になった。
+[name="FrostNova"]  The children from the mine carried the Originium crystals I had made, and we became the "Yeti Squad".
+
+[name="霜星"]  那些源石散发着我的寒冷，我们把霜冻和复仇带给了那些感染者的仇敌。
+[name="フロストノヴァ"]  あの源石は私の寒冷を撒き散らし、感染者の怨敵たちにその凍えんばかりの冷気と復讐をもたらした。
+[name="FrostNova"]  Those crystals radiate my cold, and we bring frost and vengeance to the enemies of the Infected.
+
+[name="霜星"]  但那终归......只是冷。只是不会诞生新生命的，冬天的寒冷。
+[name="フロストノヴァ"]  だがあれは……ただ「冷たい」だけだ。新しい命を生むこともできない、冬の冷たさに過ぎない。
+[name="FrostNova"]  But that's really... just cold. The cold of winter that won't birth new life.
+
+[name="霜星"]  即使如此，我也觉得自己很幸运。因为我的兄弟姐妹们能够活下去。
+[name="フロストノヴァ"]  それでも、私は自分が幸運だと思っている。兄弟姉妹たちが生き延びることができたのだから。
+[name="FrostNova"]  Even so, I feel very lucky. For my brothers and sisters could survive.
+
+[name="霜星"]  在这片大地上活下去。
+[name="フロストノヴァ"]  そう、この大地で生き延びたのだ。
+[name="FrostNova"]  We could live in this world.
+
+[Decision(options="你有没有想过和普通人共存？", values="1")]
+[Decision(options="普通の人たちとの共存は考えたか？", values="1")]
+[Decision(options="Have you ever wanted to coexist with ordinary people?", values="1")]
+
+[name="霜星"]  普通人......
+[name="フロストノヴァ"]  普通の人……
+[name="FrostNova"]  Ordinary people....
+
+[name="霜星"]  什么叫做普通人？
+[name="フロストノヴァ"]  普通の人とは、どんな人だ？
+[name="FrostNova"]  What do you mean by ordinary people?
+
+[name="霜星"]  是切尔诺伯格城里手无寸铁却冷眼看着感染者被处以极刑的市民，还是矿场里以射击感染者为乐的乌萨斯征召兵？
+[name="フロストノヴァ"]  チェルノボーグで感染者が処刑される様子を、ただ冷やかに見ていた市民か？　それとも採掘場で感染者を撃つことを快楽にしていたあのウルサスの兵たちか？
+[name="FrostNova"]  The unarmed but cold-eyed citizens of Chernobog who watch the infected being put to death? Or the Ursus conscripts in the mines who take pleasure in shooting us?
+
+[name="霜星"]  每次想到那些监工的嘴脸，我就咬牙切齿，恨不得割开他们的喉咙，喝他们的血......
+[name="フロストノヴァ"]  あの監視官たちの顔を思い浮かべる度に、私は悔しさで歯を噛みしめている。奴らの喉を切り裂き、その血を啜ってやれないことが恨めしい……。
+[name="FrostNova"]  Every time I think of the faces of those overseers, I grit my teeth and fantasize about slitting their throats and drinking their blood....
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[name="霜星"]  但我不恨乌萨斯人。
+[name="フロストノヴァ"]  だがウルサス人そのものを恨んでいるわけではない。
+[name="FrostNova"]  But I don't hate the Ursus.
+
+[name="霜星"]  当我们的游击队在雪地里跋涉时，从山谷里撤退时，甚至被乌萨斯的军队追赶时......
+[name="フロストノヴァ"]  我々の遊撃部隊が雪原を渡っていた時、谷底から撤退していた時、そしてウルサス軍に追われていた時……。
+[name="FrostNova"]  As our guerrillas trudged through the snow, retreated from the valley, and were even chased by the Ursus army....
+
+[name="霜星"]  会在窗边放上几杯面包酿的，也是乌萨斯人。
+[name="フロストノヴァ"]  窓際にクワスを置いてくれたのも、ウルサス人だった。
+[name="FrostNova"]  It was the Ursus who would put a few cups of breadbrew in their windows.
+
+[name="霜星"]  乌萨斯人从来都不是什么冷血生物。我的敌人只有将感染者逼入绝路的乌萨斯帝国而已。
+[name="フロストノヴァ"]  冷血なのはウルサス人そのものではない。私の敵は、感染者を死に追いやるウルサス帝国だけだ。
+[name="FrostNova"]  The Ursus have never been cold-blooded creatures. The only enemy I have is the Empire of Ursus that has tormented the Infected so.
+
+[name="霜星"]  我不会把普通人当做仇敌。被教导去仇恨感染者的乌萨斯人，在被仇恨蒙蔽之前，也只是普通人。
+[name="フロストノヴァ"]  洗脳されて感染者を恨むようになったウルサス人も、怨恨に目を曇らせる前は、ただの一人の人間だった。そんなただの人間は、私は怨敵とは見なさない。
+[name="FrostNova"]  I don't think of ordinary people as the enemy. Ursus who are taught to hate the Infected are just ordinary people until they are blinded by that hate.
+
+[name="霜星"]  只是，因为“是敌人就会互相残杀”，我们才争斗至此，仅此而已。
+[name="フロストノヴァ"]  ウルサス帝国とは、ただ「敵同士であれば殺し合う」という理由だけで、ここまで戦ってきた。それだけだ。
+[name="FrostNova"]  It's only because "enemies kill each other" that we've fought as we have. That's all.
+
+[name="霜星"]  我是个感染者，没错......但在这之前，我是个正常的人。
+[name="フロストノヴァ"]  私は感染者だ、それは間違いない……だが感染する前は、同じようにただの人間だった。
+[name="FrostNova"]  I'm an Infected person, yes.... But before that, I was a normal person.
+
+[Decision(options="整合运动现在的作为呢？", values="1")]
+[Decision(options="今のレユニオンは？", values="1")]
+[Decision(options="What about what Reunion is doing now?", values="1")]
+
+[name="霜星"]  ......我与博卓卡斯替最大的不和，源于他竭力维护感染者团体的行为。
+[name="フロストノヴァ"]  ……私とボジョカスティの一番の不和の原因は、奴があらゆる手を尽くして感染者団体を擁護する点にある。
+[name="FrostNova"]  ...My main conflict with Buldrokkas'tee is in his work to protect the Infected community.
+
+[name="霜星"]  “整合运动，感染者能听见的、可依靠的，首个名字。”
+[name="フロストノヴァ"]  「レユニオンは、感染者が知る中で、最も頼りになり、その名が一つ目に、挙がる、団体となる、べきだ。」
+[name="FrostNova"]  "Reunion, first name. That. Infected, can rely on."
+
+[name="霜星"]  “无论整合运动，去向如何，我们都不能，直接破坏它，整合运动的崩塌，让感染者失去信心，斗争的信心。”
+[name="フロストノヴァ"]  「レユニオンが、どのようになろうと、我々は、それを直接、葬るわけには、いかない。レユニオンの、崩壊は、感染者全ての、自信を奪う。明日を戦う、自信を。」
+[name="FrostNova"]  "No matter where, Reunion goes. No matter what, it does. We cannot, abandon it. To lose Reunion, is to lose, Infected conviction. Fight for: conviction."
+
+[name="霜星"]  ——这个老头就是这么说的，也对此深信不疑。
+[name="フロストノヴァ"]  ——あの老いぼれはそう言った。そしてそれを心から信じていた。
+[name="FrostNova"]  That's what the old man says. That's what the old man believes.
+
+[Decision(options="为什么要断断续续地说话？", values="1")]
+[Decision(options="どうしてとぎれとぎれに話す？", values="1")]
+[Decision(options="Why do you keep pausing like that?", values="1")]
+
+[name="霜星"]  因为他现在就是这么说话的。我只是，咳咳，复原了他的口气。
+[name="フロストノヴァ"]  ああ、それが今の奴の話し方さ。それの、ゴホゴホッ、真似をしてみただけさ。
+[name="FrostNova"]  Because that's how he talks now. I was just, *ahem*, preserving his cadence..
+
+[name="霜星"]  Dr.{@nickname}，你知道，罗德岛为什么是个不为人知的医药企业吗？
+[name="フロストノヴァ"]  Dr.{@nickname}、ロドスが何故、今に至るまでほとんど無名の医療機関でいられているかわかるか？
+[name="FrostNova"]  Dr. {@nickname}, do you know why Rhodes Island is a nameless pharmaceutical company?
+
+[name="霜星"]  因为你们不能站上台面。只要走到台前，你们就会变成整合运动现在这个样子。
+[name="フロストノヴァ"]  お前たちは表舞台に立たないからだ。表舞台に出てくれば、今のレユニオンと同じ道を辿るようになる。
+[name="FrostNova"]  Because you can't take a stand on the world stage. As soon as you take that step, you'll become what Reunion is now.
+
+[name="霜星"]  你们会走上这条道路。
+[name="フロストノヴァ"]  そう、お前たちも同じ道を歩むことになるのだ。
+[name="FrostNova"]  You will go down this road.
+
+[Decision(options="也许吧。;......;我们真的会吗？", values="1;2;3")]
+[Decision(options="そうかもな。;……。;本当にそうか？", values="1;2;3")]
+[Decision(options="Maybe.;........;Will we really?", values="1;2;3")]
+
+[name="霜星"]  哼。
+[name="フロストノヴァ"]  フンッ。
+[name="FrostNova"]  Hmm.
+
+[name="霜星"]  在冻原上辗转十数年后，一个感染者女人向我们伸出了手。她说，“和我一起来，让我们打碎所有枷锁。”
+[name="フロストノヴァ"]  凍原を転げ回って十数年経ったある日、一人の感染者の女が私たちに手を差し伸べた。「私と来い、全ての枷を打ち破る為に」と。
+[name="FrostNova"]  After a dozen years of rolling around on the tundra, an Infected woman reached out to us. She said, "Come with me, and let us break all chains."
+
+[name="霜星"]  想象一下，我们在一座成为战场的老旧城废墟里相遇。她孤身一人，除了身上的名册和号码簿，她什么都没带。
+[name="フロストノヴァ"]  彼女はたった一人で、手にした名簿と連絡帳以外に、何も持っていなかった。想像してみろ。私たちは戦場跡の古い廃都市で彼女と出会ったんだ。
+[name="FrostNova"]  Imagine it: we met in the ruins of an old city that had become a battlefield. She was alone, carrying nothing but her roster and a book of ledgers.
+
+[name="霜星"]  就连她说的那些话，我也觉得不切实际到了可笑的地步。
+[name="フロストノヴァ"]  彼女の言ったことも、笑えるほどに荒唐無稽だった。
+[name="FrostNova"]  Even the things she said I found impractical to the point of ridiculousness.
+
+[name="霜星"]  她却对我们说，“和我一起来”。
+[name="フロストノヴァ"]  それでも彼女は我々に「私と来い」と言った。
+[name="FrostNova"]  But she said to us, "Come with me."
+
+[name="霜星"]  她和我们一同战斗，她带着种种想法与力量，成为了我们的朋友。我们一同离开雪原，向着乌萨斯的城市走去。
+[name="フロストノヴァ"]  彼女は我々と共に戦い、その考え方や力量が認められ、我々の友人となった。その後、我々は共に雪原を離れ、あるウルサスの都市へと向かった。
+[name="FrostNova"]  She fought with us, and with her strength and ideals, she became our friend. Together we left the snowy plains and headed for the cities of Ursus.
+
+[name="霜星"]  无论是她沉思之后吐出的词句，还是与我切磋时大剑的挥舞，她背负的力量相当诚挚，也足够厚重。
+[name="フロストノヴァ"]  彼女が熟考しながら紡いだ言葉も、私との訓練に励む際に振るった大剣も、そう、彼女が背負っていた力は誠実で重いものだった。
+[name="FrostNova"]  Whether was the words she spat out after pausing to think, or the swing of her great sword as she slashed alongside me, her power was real, and plenty impressive.
+
+[name="霜星"]  救治受伤的战士时，她在。向感染者讲述策略和她那些学说时，她在。而和乌萨斯剿灭小队作战时，她也依然在。
+[name="フロストノヴァ"]  怪我をした戦士の治療をする時も、彼女はそこにいた。感染者たちに我らの策略と彼女の学説を説く時も、彼女はそこにいた。そしてウルサス殲滅隊と戦う時も、彼女はやはりそこにいたんだ。
+[name="FrostNova"]  When the wounded needed treatment, she was there. When discussing strategy and philosophy with the Infected, she was there. And when fighting against the Ursus death squads, she was also there.
+
+[name="霜星"]  ......我们甚至能和一些普通人一起进餐。她不在乎身份，她的眼神不会是假的。
+[name="フロストノヴァ"]  ……あの頃の我々は、時として非感染者たちと食事を共にすることもあった。彼女は身分など気にしてはいなかったのだ。彼女の眼差しは嘘を付かない。
+[name="FrostNova"]  ...We even get to dine with some regular people. She didn't care. There was nothing in her eyes but the purest authenticity.
+
+[name="霜星"]  我们的队伍在壮大，我们的友谊在增长。她联络的人，都是好手，也都是好人。
+[name="フロストノヴァ"]  我々の部隊は、日を追う毎に大きくなり、その連帯感も強固なものになっていった。彼女が連絡をとった仲間たちは、皆手練で、皆良い人だった。
+[name="FrostNova"]  Our team grew and so did our friendships. The people brought in were good at fighting, and they were good people.
+
+[name="霜星"]  那时，我把她当做自己的朋友。她默默地帮我做着这些糖，即使她手艺很差，做出来的品相也很烂。
+[name="フロストノヴァ"]  私は彼女のことを本当の友人だと思っていた。このキャンディは、彼女が何も言わず作ってくれたものだ。不器用で、見た目もひどいものだったがな。
+[name="FrostNova"]  At the time, I considered her my friend. She quietly helped me make these candies, even though she was terrible at it and they tasted worse.
+
+[name="霜星"]  她吃下去的时候，表情也很古怪。她努力给了我一个笑容。
+[name="フロストノヴァ"]  これを彼女が一つ食べた時の、何とも言えない表情は未だに覚えている。奇妙な味を我慢しながら、私に笑顔を見せてくれた。
+[name="FrostNova"]  She made a funny face as she ate them. Then she'd force a smile at me.
+
+[name="霜星"]  那个表情真的太奇怪了。她在强撑，我也知道，就连我也笑出了声。
+[name="フロストノヴァ"]  あの表情は本当に可笑しかった。彼女が無理をしているのは一目瞭然で、どうにも笑いを堪えられなかった。
+[name="FrostNova"]  It was really something. She worked so hard to put on a brave face. It made me laugh.
+
+[name="霜星"]  现在一切都变了。
+[name="フロストノヴァ"]  今となっては、全てが変わってしまったが……。
+[name="FrostNova"]  Everything's different now.
+
+[name="霜星"]  如你所见，切尔诺伯格毁在了天灾之中，多数普通人不是死了就是成了新的感染者。
+[name="フロストノヴァ"]  お前が目にした通り、チェルノボーグは天災に沈んだ。多くの一般市民は、死ぬか新たな感染者となった。
+[name="FrostNova"]  Chernobog was destroyed by a Catastrophe, as you can well see. All the normal people here died or became newly Infected.
+
+[name="霜星"]  在他们的眼睛里，我连一点活下去的欲望都看不见。
+[name="フロストノヴァ"]  彼らの目からは、生きたいという意志はもう微塵も感じられない。
+[name="FrostNova"]  Their eyes were dead. No desire to live anymore whatsoever.
+
+[name="霜星"]  要是这就是她想要的，那么从一开始我们就不会跟随她。
+[name="フロストノヴァ"]  これが彼女が求めていたものだと言うのなら、私たちは初めから彼女と共に行くことなどしなかった。
+[name="FrostNova"]  If this is what she wanted, then we never should have followed her.
+
+[name="霜星"]  如果你不知道的话，告诉你一个秘密......
+[name="フロストノヴァ"]  お前が知らない秘密を一つ教えてやろう……。
+[name="FrostNova"]  And in case you didn't know, here's a secret....
+
+[name="霜星"]  现在，她正筹备着夺取龙门。据说这回的结果会与切尔诺伯格有不同之处，感染者们将会得到自己的城市，而不是一座巨大的废墟。
+[name="フロストノヴァ"]  今、彼女は龍門を奪取しようと画策している。チェルノボーグの時と違うのは、それを瓦礫の山にするのではなく、そのまま感染者たちの都市に仕立て上げようとしていることだ。
+[name="FrostNova"]  She's planning to take over Lungmen. She says it won't be like Chernobog, and that the Infected will get their own city instead of a giant ruin like this place.
+
+[name="霜星"]  你会相信这样的人吗？
+[name="フロストノヴァ"]  そんなことをしようとする者を信じられるか？
+[name="FrostNova"]  Would you trust someone like that?
+
+[name="霜星"]  如果说这是一种演技，那这种演技会骗过这片大地上的任何一个人。
+[name="フロストノヴァ"]  もし昔の彼女の姿が一種の演技だったとすれば、彼女はこの大地の全ての者を欺けるだろう。
+[name="FrostNova"]  If she's acting, then she's the greatest actress the world has ever seen.
+
+[name="霜星"]  我有一个从来没离开过我脑海的想法。
+[name="フロストノヴァ"]  一つ、片時もこの頭を離れない考えがある。
+[name="FrostNova"]  But there's a thought stuck in my head.
+
+[name="霜星"]  “如果我与她正面对抗，我能有几分胜算？”
+[name="フロストノヴァ"]  「もし彼女と正面から衝突すれば、どれほどの勝算があるのか？」
+[name="FrostNova"]  "What are my chances of winning if I went up against her?"
+
+[name="霜星"]  一旦我们决裂，一旦我发现她欺骗了感染者们，或是在暗地里设计对感染者不利的阴谋......
+[name="フロストノヴァ"]  我々が袂を分かつことになるのなら——彼女が感染者たちを欺いているのなら、あるいは感染者の不利になる陰謀を画策しているというなら……。
+[name="FrostNova"]  Once we part ways, once I find out she's been lying to the Infected, or that she's been plotting against them...
+
+[name="霜星"]  我会与她战斗。她必须知道背叛的代价。
+[name="フロストノヴァ"]  私は彼女と戦うだろう。彼女には、裏切りの代価を払わせる必要がある。
+[name="FrostNova"]  I will fight her. She must know the price of betrayal.
+
+[name="霜星"]  无数次和乌萨斯的死战洗濯了我的思绪，磨炼了我的能力。
+[name="フロストノヴァ"]  幾度もくぐり抜けて来たウルサスとの死戦で、私の思考や能力は鍛えられてきた。
+[name="FrostNova"]  My countless deadly battles with Ursus have cleansed my mind and honed my skills.
+
+[name="霜星"]  我可以明确地说，即使我无法战胜她，也可以让死亡把她和我从大地上一并带走。
+[name="フロストノヴァ"]  はっきりと言えるのは、私がたとえ敗れたとしても、彼女を道連れにすることはできるということだ。
+[name="FrostNova"]  I say with the utmost conviction: even if I cannot defeat her, I can let death take her from the world along with me.
+
+[name="霜星"]  老顽固不会同意我的想法。他战斗了太久，他的垂老正驱使他走向一条只有牺牲的道路。
+[name="フロストノヴァ"]  だがあの石頭の老いぼれは、私の考えに賛同しないだろう。奴は長く戦いすぎた。老いそのものが、犠牲しか生まない道を奴に強要している。
+[name="FrostNova"]  The stubborn old man wouldn't agree with me. He's fought too long, and his old age is driving him down a path that leads only to sacrifice.
+
+[Decision(options="你不同意你父亲的做法。", values="1")]
+[Decision(options="君は父の考えに同意しないのか。", values="1")]
+[Decision(options="You don't agree with your father's ways.", values="1")]
+
+[name="霜星"]  他对敌人是坚强的，他对朋友是忠诚的。一旦他认为自己该去保护这些人，他就必须面对朋友身上的现实，这让他变得软弱。
+[name="フロストノヴァ"]  奴は敵に対しては意志が堅く、友人に対しては誠実な男だ。それらの友人を守ると決めたからには、嫌でも彼らが直面する現実に向き合うことになる。それが奴を弱くするのだ。
+[name="FrostNova"]  He is strong against his enemies and he is loyal to his friends. But when he needs to stand up for them, he will face the reality that his friends make him weak.
+
+[name="霜星"]  一生都相信着别人的老头......这个老顽固从来不去考虑被人背叛之后该去怎么做。
+[name="フロストノヴァ"]  生涯他人を信じ続けてきた老いぼれ……あの石頭は、信じる者に裏切られたらどうすればいいかなど、一度も考えたことはないのさ。
+[name="FrostNova"]  The old man who has believed in people all his life.... The old curmudgeon never thinks about what to do after being betrayed.
+
+[name="霜星"]  也许他是自己强撑着咽下了那些苦果。他一次次承担被背叛的痛苦，却什么也不说。
+[name="フロストノヴァ"]  あるいは、その苦しみを無理に飲み込んできたのかもしれない。裏切られたことの苦しみを一人で受け止め、誰にも何も語らずにな。
+[name="FrostNova"]  Maybe he's already taken that bitter pill. He bore the pain of betrayal over and over again his whole life, and he said nothing.
+
+[name="霜星"]  无论是听说了整合运动的事迹加入的感染者，还是觉得自己的一切行为都可以被纵容的感染者。
+[name="フロストノヴァ"]  レユニオンには、噂を聞いて加入してきた感染者もいれば、自身の行動の全てが許されると考えている感染者もいる。
+[name="FrostNova"]  Whether it's an Infected who heard about Reunion and decided to join up, or an Infected who feels they can get away with anything.
+
+[name="霜星"]  整合运动内部正在分化，而我们的领袖毫无作为，甚至默许这些行为的发生。
+[name="フロストノヴァ"]  レユニオンの内部派閥は細分化されつつある。だが我々のリーダーは何もしないままだ。それらの行為を黙認している節さえある。
+[name="FrostNova"]  Reunion is factionalizing and our leaders are doing nothing to stop it.
+
+[name="霜星"]  在龙门的事情结束以后，我一定会回切尔诺伯格。这一次，我必须面对她。
+[name="フロストノヴァ"]  龍門の件が落ち着いたら、私はチェルノボーグに戻るつもりだ。今回ばかりは、どうあっても彼女と向き合うことになるだろう。
+[name="FrostNova"]  I will definitely go back to Chernobog after the Lungmen business is over. This time, I must face her.
+
+[name="霜星"]  因为我剩下的时间......也不多了。
+[name="フロストノヴァ"]  私に残された時間は……もう多くないからな。
+[name="FrostNova"]  Because... I am not long for this world.
+
+[name="霜星"]  ......我答应兄弟们会给大家找一个家。在我倒下之前，我得兑现我的诺言。
+[name="フロストノヴァ"]  ……兄弟たちには居場所を、いつか帰れる家を見つけてやると約束してある。私が倒れる前に、その約束も果たさねばならないな。
+[name="FrostNova"]  ...I promised my brothers I'd find a home for everyone. Before I fall, I have to make good on my promise...
+
+[Decision(options="你为什么要把这些都告诉我？", values="1")]
+[Decision(options="どうしてそんな話を自分に？", values="1")]
+[Decision(options="Why are you telling me all this?", values="1")]
+
+[name="霜星"]  因为你的眼神告诉了我，你并不是另一个刽子手。
+[name="フロストノヴァ"]  お前のその眼差しが、お前は新たな殺戮者にはなり得ないと教えてくれたからだ。
+[name="FrostNova"]  Because the look in your eyes tells me that you're not just another executioner.
+
+[Decision(options="可能吧，又能怎么样呢？;......;我也不清楚自己是不是。", values="1;2;3")]
+[Decision(options="そうかもしれないが、それでどうなる？;……。;自分自身もはっきりとわからない。", values="1;2;3")]
+[Decision(options="Maybe. So what?;........;I'm not sure if I am.", values="1;2;3")]
+
+[name="霜星"]  怀疑自己是最好的。只有这样，你才不会因为笃信着什么东西而一意孤行下去。
+[name="フロストノヴァ"]  自らを疑うのは良いことだ。そうでなければ、何かを盲信してそれに入れ込んでしまうことは避けられない。
+[name="FrostNova"]  It's best to doubt yourself. It's the only way you won't go through life fanatically convinced of something.
+
+[name="霜星"]  ......你听到外面的声音了吗？
+[name="フロストノヴァ"]  ……いまの外の音が聞こえたか？
+[name="FrostNova"]  ...Do you hear voices outside?
+
+[name="霜星"]  他们似乎在挖掘上面的废墟。
+[name="フロストノヴァ"]  上の瓦礫を掘り起こしているようだ。
+[name="FrostNova"]  It sounds like they're digging above us.
+
+[name="霜星"]  我的身体也已经......
+[name="フロストノヴァ"]  私の身体ももう……。
+[name="FrostNova"]  And my body is....
+
+[name="霜星"]  好了......我的手指已经能动了。
+[name="フロストノヴァ"]  大丈夫だ……指が動かせるようになった。
+[name="FrostNova"]  Well.... I can move my fingers already.
+
+[name="霜星"]  谢谢你。
+[name="フロストノヴァ"]  ありがとう。
+[name="FrostNova"]  Thank you.
+
+[Decision(options="怎么？;......;我做了什么吗？", values="1;2;3")]
+[Decision(options="どうした？;……。;自分は感謝されるようなことをしたか？", values="1;2;3")]
+[Decision(options="For what?;.......;Did I do something?", values="1;2;3")]
+
+[name="霜星"]  谢谢你帮我消磨了这些时间。
+[name="フロストノヴァ"]  私の暇つぶしに付き合ってくれただろう。改めて感謝する。
+[name="FrostNova"]  Thanks for helping me pass the time.
+
+[name="霜星"]  Dr.{@nickname}，我想和你打一个赌。
+[name="フロストノヴァ"]  Dr.{@nickname}、一つ賭けをしないか。
+[name="FrostNova"]  Dr. {@nickname}, I'd like to make a bet with you.
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[name="霜星"]  如果是你的小队先挖开了这里——
+[name="フロストノヴァ"]  もしお前の仲間が先にここを掘り当てたら——
+[name="FrostNova"]  If your people dig us out first...
+
+[name="霜星"]  我会在一瞬间杀死你们所有人。
+[name="フロストノヴァ"]  私はお前とお前の仲間たち全員を一瞬で殺す。
+[name="FrostNova"]  I will kill all of you in the blink of an eye.
+
+[name="霜星"]  如果是我的兄弟姐妹们先挖开了，你的生命，就到此为止。
+[name="フロストノヴァ"]  逆にもし私の兄弟姉妹たちが先に掘り当てたら、お前の命はそこまでだ。
+[name="FrostNova"]  If my brothers and sisters break through first, your life ends here.
+
+[name="霜星"]  要赌吗？
+[name="フロストノヴァ"]  どうだ、賭けるか？
+[name="FrostNova"]  Wanna bet?
+

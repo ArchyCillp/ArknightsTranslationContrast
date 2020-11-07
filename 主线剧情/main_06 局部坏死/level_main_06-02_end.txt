@@ -1,0 +1,192 @@
+[name="整合运动成员"]  唔，唔......
+[name="レユニオン構成員"]  ぐっ、ぐうっ……。
+[name="Reunion Member"]  Nnnng...
+
+[name="煌"]  不好意思啊。
+[name="ブレイズ"]  ごめんね。
+[name="Blaze"]  I'm sorry.
+
+[name="煌"]  哦，我也不是打了你就不当你是同胞了。
+[name="ブレイズ"]  君を殴ったからって、君のことを同胞じゃないと思ってるわけじゃないよ。
+[name="Blaze"]  Now, me beating on you doesn't mean we aren't on the same side.
+
+[name="煌"]  ......算了，这话我自己说了都不信。
+[name="ブレイズ"]  ……まぁいいや。そんな言葉、自分でも信じられないから。
+[name="Blaze"]  Haha! Yeah, no, seriously. It does. We're not on the same side.
+
+[name="煌"]   煌，通报Blaze-4号小队，俘获十数个整合运动成员。
+[name="ブレイズ"]   こちらブレイズ。Blaze-4小隊全員に通達、十数人規模のレユニオン構成員を捕えた。
+[name="Blaze"]   This is Blaze. Come in, Team Blaze-4. Captured a dozen or so Reunion.
+
+[name="煌"]   有机会的话就来接收，没时间就交给龙门当局了。
+[name="ブレイズ"]   余裕があれば回収に来てほしいところだけど、時間がなければ龍門当局に引き渡すよ。
+[name="Blaze"]   Come recover them when you can. Otherwise just hand them over to Lungmen.
+
+[name="煌"]   那边的龙门人，把弩放下。没必要那么警戒。
+[name="ブレイズ"]   そこの龍門人、そのクロスボウを下ろして。そんなに警戒しなくてもいいから。
+[name="Blaze"]   Hey, Lungmenite, do me a favor and lower your crossbows. We're all friends here.
+
+[name="近卫局成员"]  ......
+[name="近衛局隊員"]  ……。
+[name="L. G. D. Officer"]  ......
+
+[name="煌"]  我是哪里还得不到你们的信任？我甚至救了你们一命。
+[name="ブレイズ"]  一体私のどこが信用できないのかな？　君たちの命だって救ってあげたじゃない。
+[name="Blaze"]  You still don't trust me? I saved your life.
+
+[name="近卫局成员"]  退后......！我知道，可、可你......感染者......！
+[name="近衛局隊員"]  下がれ……！　分かっている。だ、だがお前は……感染者だ……！
+[name="L. G. D. Officer"]  Get back...! I mean, y- you're... you're Infected...!
+
+[name="煌"]  哦，是啊。是啊。
+[name="ブレイズ"]  うん、そうだね。その通りだよ。
+[name="Blaze"]  Yeah. Yeah I am.
+
+[name="煌"]  嘁。
+[name="ブレイズ"]  チッ。
+[name="Blaze"]  Ugh.
+
+[name="煌"]  博士，走了。
+[name="ブレイズ"]  ドクター、行くよ。
+[name="Blaze"]  Come on, Doctor.
+
+[Decision(options="......", values="1")]
+[Decision(options="……。", values="1")]
+[Decision(options="......", values="1")]
+
+[name="煌"]  走了！
+[name="ブレイズ"]  行くよ！
+[name="Blaze"]  Move!
+
+[name="煌"]  哎，算了。Dr.{@nickname}，过来。别动，这样快点。
+[name="ブレイズ"]  ああもういい。Dr.{@nickname}、こっち来て。動かないでね、こっちの方が早いから。
+[name="Blaze"]  Sigh. All right, Dr. {@nickname}. Hop on. It's faster this way.
+
+[Decision(options="你还好吧。", values="1")]
+[Decision(options="大丈夫か？", values="1")]
+[Decision(options="Are you sure?", values="1")]
+
+[name="煌"]  哟，看来是习惯让我拎着你跑路了？
+[name="ブレイズ"]  へぇ、私に担がれながら移動するのにはもう慣れたの？
+[name="Blaze"]  Hah. You've gotten used to my piggyback rides?
+
+[name="煌"]  别用那种眼神看我，说了，我好着呢，这种事发生过不知道多少次了。
+[name="ブレイズ"]  そんな眼で私を見ないで、大丈夫だって。これまでに同じようなことが何度あったか、もう覚えてないくらいだから。
+[name="Blaze"]  Don't look at me like that. How many times have we been treated like this? It's no big deal.
+
+[name="煌"]  我们去十六区的横山广场吧。整合运动想要突破防线的话，那里是必经之道。
+[name="ブレイズ"]  エリア十六の横山広場に向かおう。レユニオンが防衛線を破るつもりなら、必ずあそこを通るはずだから。
+[name="Blaze"]  Let's head to Waang Saan Plaza in District 16. If Reunion wants to break through the line, that's where they'll have to do it.
+
+[name="煌"]  嗯......想要趁势一举歼灭整合运动的主要力量，就不能放跑任何一支控制区里的整合运动。
+[name="ブレイズ"]  うん……この機にレユニオンの主要戦力を壊滅させるなら、管制区画にいるレユニオンは一人も逃すわけにはいかないね。
+[name="Blaze"]  If we're going to wipe out Reunion's main force, we can't let any of them slip through our zone of control.
+
+[name="煌"]  按照阿米娅和那个老气横秋的陈警官的策略，大部分整合运动会被我们这样一点点消磨干净，最后只要打一场歼灭战就行了。
+[name="ブレイズ"]  アーミヤちゃんとあの石頭のチェン隊長の作戦によれば、大半のレユニオン部隊を私たちがこうやって少しずつ片付けていって、最後に殲滅戦を一回展開しておしまい。
+[name="Blaze"]  The way Amiya and the cranky old cop lady worked it out, we'll just be whittling them away little by little until we can finally wipe them all out in one swift stroke.
+
+[name="煌"]  先把横山大厦里的敌人逼出来，让他们逃进包围圈，再去和阿米娅他们会合，一路上顺手打打整合运动。简单明了吧？
+[name="ブレイズ"]  まずは横山ビルから敵を引きずり出して、包囲網の中に追い込んでからアーミヤちゃんたちと合流しようか。途中でレユニオンに遭遇したらついでに叩く。簡単でしょ？
+[name="Blaze"]  So we go chase the bad guys out of Waang Saan Tower, herd them into a pincer attack, then meet up with Amiya and crush Reunion once and for all. Piece of cake, right?
+
+[name="煌"]  ......别这种表情啊，我不是说我好得很吗？
+[name="ブレイズ"]  ……だからそんな顔しないでって。大丈夫だって言ったでしょ？
+[name="Blaze"]  ...You and your faces. I told you I'm fine.
+
+[name="煌"]  哎。你要是再这么盯着我看，我可要直接赖在马路当中不走了啊。
+[name="ブレイズ"]  あのさ。これ以上そんな目で私をじーっと見てると、道のど真ん中に放り出すからね。
+[name="Blaze"]  Fine. If you keep staring at me like that, I'm pulling this cat over.
+
+[name="煌"]  抓紧点。
+[name="ブレイズ"]  しっかり掴まって。
+[name="Blaze"]  Hold on tight.
+
+[name="煌"]  奇怪......你看那边？
+[name="ブレイズ"]  待って……あそこにいるのは？
+[name="Blaze"]  Huh... Look over there.
+
+[name="煌"]  那是梅菲斯特的牧群吗？怎么这也有，他们不应该是由梅菲斯特亲自带领吗？
+[name="ブレイズ"]  あれはメフィストの「家畜」かな？　何でこんなところにまで……メフィストが直接指揮してるはずじゃないの？
+[name="Blaze"]  Isn't that Mephisto's herd? But how. They need Mephisto around, don't they?
+
+[name="煌"]  等等。等等？他们......他们为什么在打自己人？
+[name="ブレイズ"]  いや、ちょっと待って？　あいつら……何で自分の仲間を攻撃してんのよ？
+[name="Blaze"]  Wait a minute. They're... they're killing their own?
+
+[name="陈"]  ......怎么回事。
+[name="チェン"]  ……どういうことだ。
+[name="Ch'en"]  ...What's going on?
+
+[name="陈"]  虽然一直能收到生理讯息，怎么一条定时通报都收不到？也没有紧急讯号的发送迹象。
+[name="チェン"]  ヘルスデータは一度も途絶えていないが、定期連絡が一つも届いていないのは何故だ？　緊急信号が発信された様子もない。
+[name="Ch'en"]  I'm getting vitals, but no reports? And no sign of any distress signals either.
+
+[name="陈"]  究竟出了什么事......
+[name="チェン"]  一体何があったんだ……。
+[name="Ch'en"]  Something's not right...
+
+[name="诗怀雅"]  不好好指挥战斗，站在那看什么呢？
+[name="スワイヤー"]  ちょっと、戦闘の指揮をおざなりにして、そんなところに突っ立ってなに見てんのよ？
+[name="Swire"]  Shouldn't you be, like, commanding? What are you standing here staring at?
+
+[name="陈"]  不关你事，“小姐”。
+[name="チェン"]  あなたには関係のないことです、「お嬢様」。
+[name="Ch'en"]  None of your business, "Little Miss."
+
+[name="诗怀雅"]  喂，也太小气了点吧？
+[name="スワイヤー"]  ちょっと、ツンケンしすぎじゃない？
+[name="Swire"]  Hey, shouldn't we be sharing intel?
+
+[name="陈"]  肯定不能给你看。
+[name="チェン"]  これはお前には見せられない。
+[name="Ch'en"]  Not this time.
+
+[name="诗怀雅"]  我猜你有线人断线了。
+[name="スワイヤー"]  まぁ、諜報員との連絡が取れなくなったってところかしら。
+[name="Swire"]  I'm thinking you lost contact with a spy.
+
+[name="陈"]  能不能别在这种事情上浪费你的直觉？
+[name="チェン"]  その勘の良さは、必要なときのために取っておくんだな。
+[name="Ch'en"]  Could you not waste your intuition on stuff like this?
+
+[name="诗怀雅"]  至少说中了你就会往下说嘛。感染者？
+[name="スワイヤー"]  当たったんなら続けなさいよ。感染者の諜報員？
+[name="Swire"]  At least you own up to it when I guess right. Infected?
+
+[name="陈"]  是。
+[name="チェン"]  そうだ。
+[name="Ch'en"]  Yep.
+
+[name="诗怀雅"]  ......你怀疑他叛逃？
+[name="スワイヤー"]  ……裏切った可能性は？
+[name="Swire"]  You think he turned?
+
+[name="陈"]  绝不可能。
+[name="チェン"]  それは絶対にあり得ない。
+[name="Ch'en"]  Impossible.
+
+[name="诗怀雅"]  那你怀疑的就是这个“绝对不可能”咯。
+[name="スワイヤー"]  じゃあアンタはその「絶対にあり得ない」ってやつを自分で言いながら疑ってる、そうでしょ。
+[name="Swire"]  You think the impossible happened?
+
+[name="陈"]  如果她真的叛逃了......那种后果，我连想都不敢想。
+[name="チェン"]  彼女が本当に裏切ったとしたら……その先に待つ恐ろしい結末は、考えたくもないな。
+[name="Ch'en"]  If she turned... Well, I don't even want to think about it.
+
+[name="陈"]  当然，如果她会背叛龙门，整个龙门就没有任何一个人是值得信赖的了。
+[name="チェン"]  もし彼女が龍門を裏切ったのなら、もう龍門には信頼できる者が誰一人残っていないということになる。
+[name="Ch'en"]  If she betrayed us, then there's absolutely no one left in Lungmen we can trust.
+
+[name="诗怀雅"]  我好像猜到是谁了欸。
+[name="スワイヤー"]  なるほどね。何となく誰だか分かったわ。
+[name="Swire"]  I think I know who it is.
+
+[name="诗怀雅"]  等等......她会愿意去做这个？
+[name="スワイヤー"]  でも待ってよ……あの人が諜報員なんて引き受けるの？
+[name="Swire"]  Wait... Would she really be willing to do this?
+
+[name="诗怀雅"]  她？干这个？！
+[name="スワイヤー"]  あの彼女が？　そんな事を！？
+[name="Swire"]  Her? Really?!
+

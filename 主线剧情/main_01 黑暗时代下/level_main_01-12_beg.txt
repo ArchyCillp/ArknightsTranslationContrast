@@ -1,0 +1,200 @@
+[name=""]   时间未知 \ 天气未知 \ 能见度 低
+[name=""]   時刻不明/天候不明/視界：低
+[name=""]   Time - Unknown \ Weather - Unknown \ Visibility - Poor
+
+[name=""]   切尔诺伯格 行动组E0所在地
+[name=""]   チェルノボーグ 行動隊E0 現在位置
+[name=""]   Chernobog - Operation Squad E0's Location
+
+[name=""]   Dr.{@nickname}营救行动 最终撤退阶段
+[name=""]   Dr.{@nickname}救出作戦 最終撤退段階
+[name=""]   Dr {@nickname} Rescue Operation - Final Retreat Phase
+
+[name="杜宾"]   可恶！
+[name="ドーベルマン"]   くそっ！
+[name="Dobermann"]   Damn it!
+
+[name="杜宾"]   明明已经在出口了！
+[name="ドーベルマン"]   せっかく出口まで来たというのに！
+[name="Dobermann"]   Even though we've already made it to the exit...!
+
+[name="？？？"]  这么轻松就想离开切尔诺伯格......
+[name="？？？"]  そんな簡単にチェルノボーグから脱出できるなんて……。
+[name="???"]  Did you really think we'd let you just stroll out of Chernobog?
+
+[name="？？？"]  你们的白日梦，总该有人来戳醒吧？
+[name="？？？"]  あなたたちの夢には、誰かが終止符を打たないといけないわね。
+[name="???"]  Don't you think it's about time for someone to wake you from your daydream?
+
+[name="杜宾"]   通讯设备已经恢复，我联系上了接应的行动预备组，他们正准备与我们汇合！
+[name="ドーベルマン"]   通信が回復して増援の行動予備隊に連絡がついた。我々との合流へ向かっている！
+[name="Dobermann"]   Our commmunications have been restored, and I've contact O.P.D. They'll be joining up with us shortly!
+
+[name="杜宾"]   可是，这个家伙......
+[name="ドーベルマン"]   だが、あいつは……何なんだ？
+[name="Dobermann"]   But, this blasted...
+
+[name="临光"]  小心她手中的爆破物！
+[name="ニアール"]  奴は何か爆発物を持っているぞ！　気をつけろ！
+[name="Nearl"]  Watch out, she's holding onto explosives!
+
+[name="杜宾"]   但是，我还是联系不上侦查小组！
+[name="ドーベルマン"]   クソッ、偵察部隊の方には連絡がつかないというのに！
+[name="Dobermann"]   I still can't get in touch with the recon team!
+
+[name="阿米娅"]  ——你究竟是谁？
+[name="アーミヤ"]  ――あなたは誰ですか？
+[name="Amiya"]  ... Who exactly are you?
+
+[name="？？？"]  你不认识我很正常——
+[name="？？？"]  あなたが私を知らないのは当然だけど――
+[name="???"]  I don't expect you to know who I am...
+
+[name="？？？"]  不过，我认识你身边那个人。
+[name="？？？"]  でも、私はあなたの隣のその人のことを知ってるわ。
+[name="???"]  But, I know that person next to you.
+
+[name="阿米娅"]  整合运动......还要，继续战斗吗？
+[name="アーミヤ"]  レユニオンですね…まだ戦うつもりですか？
+[name="Amiya"]  Is Reunion... going to continue fighting us?
+
+[name="？？？"]  唉唉，别这样。
+[name="？？？"]  ちょっと、そんなに凄まないでよ。
+[name="???"]  Hey, hey, don't be like that.
+
+[name="？？？"]  我和那个塔露拉龙女可合不来。毕竟我并不是专职守门的人啊。做完了自己的工作赶过来也是很累的！
+[name="？？？"]  あの龍女――タルラとは気が合わないし、それに私は防衛戦のプロでもないから、いまやり合うつもりはないわ。仕事を終えてここまで来るのだって大変だったんだから！
+[name="???"]  I have no love for that she-dragon, Talulah. I'm not even cut out for this goaltending business. It's a pain to have to rush over here after a long day of work.
+
+[name="？？？"]  为了搞好关系，我们互换姓名吧？
+[name="？？？"]  仲良くなるために、まずは自己紹介でもしましょうか。
+[name="???"]  So for the sake of future cooperation, why don't we exchange some pleasantries first?
+
+[name="？？？"]  你可以叫我——W。
+[name="？？？"]  私のことは「W」とでも呼んで。
+[name="???"]  You may simply call me... W.
+
+[name="W"]  为了见你身边那个人，我在这里可是等了好久呢。
+[name="W"]  あなたの隣に居るその人に会うために、ここでずっと待ってたんだから。
+[name="W"]  I've waited a long time to see that person next to you.
+
+[name="阿米娅"]  ——博士？
+[name="アーミヤ"]  ドクター？
+[name="Amiya"]  ...Doctor?
+
+[name="W"]  Dr.{@Nickname}......
+[name="W"]  Dr.{@nickname}……。
+[name="W"]  Dr {@Nickname}...
+
+[name="W"]  我有些问题想要问问{@Nickname}，能不能请各位把他......直接送给我呢？
+[name="W"]  いくつか聞きたいことがあるの。悪いけどその人、{@Nickname}を……私に渡してくれない？
+[name="W"]  I have a few little questions I'd like to ask {@Nickname}. Would you be so kind as to give us some... alone time?
+
+[name="临光"]  你在浪费你自己的时间。
+[name="ニアール"]  そんなもの論ずるに足りん。そんなお喋りはお前自身が時間を無駄にするだけだ。
+[name="Nearl"]  You're wasting your breath.
+
+[name="W"]  ——别急嘛。我也有些你们会感兴趣的情报哦。
+[name="W"]  まぁまぁ、慌てないで。あたしはあなたたちも興味があるはずの情報を持ってるわ。
+[name="W"]  --Don't be so hasty. I have some information you might be interested in.
+
+[name="W"]  其实，我们刚刚遇到了不少身手很利落的家伙......和你们的穿着打扮差不多。
+[name="W"]  実は、さっきそこで強そうな人達の集団を見つけたわ……あなたたちと同じような服を着たね。
+[name="W"]  Actually, we just met some rather slick fellows... Quite skilled, and dressed just like you guys.
+
+[name="W"]  虽然做过伪装，但也就是骗骗乌萨斯人的程度，这点小把戏，可是难不倒我的~
+[name="W"]  まぁ、偽装はしていたようだけど、ウルサス人をなんとか騙せる程度だったわ。その程度じゃ私の目は誤魔化せない。
+[name="W"]  Though their camouflage might have been enough to fool Ursus, I saw right through their little trick~
+
+[name="阿米娅"]  侦察小队的各位吗......？
+[name="アーミヤ"]  偵察チームの皆さんでしょうか……？
+[name="Amiya"]  Could they be from the recon team?
+
+[name="阿米娅"]  太好了......他们平安无——
+[name="アーミヤ"]  良かった……無事だったんですね――。
+[name="Amiya"]  I'm glad... that they're safe...
+
+[name="W"]  小兔子，你就是他们的组织者吧？
+[name="W"]  そこのウサギさん、あなたが彼らのボスよね？
+[name="W"]  Little bunny, are you their leader?
+
+[name="阿米娅"]  ？！
+[name="アーミヤ"]  ！？
+[name="Amiya"]  ? !
+
+[name="W"]  我很想知道，你究竟有什么魔力......能让他们都心甘情愿，毫无价值地为你送命？
+[name="W"]  私は知りたいの。あなたが一体どんな魔法を使って彼らを……あなたのためなら命だって喜んで投げ出す従順な下僕にしたのかを。
+[name="W"]  I'm quite curious, what charm do you hold over them... so that they'd give their lives so enthusiastically and unremorsefully for you?
+
+[name="阿米娅"]  什么......你想说什么？
+[name="アーミヤ"]  一体……何を…言ってるんですか……？
+[name="Amiya"]  What... are you saying...?
+
+[name="W"]  没错，他们——没有一个人能跟着你回去哦。
+[name="W"]  そう、彼らはもう一人も戻ってこないわよ。
+[name="W"]  You heard me. None of them... will be returning to you.
+
+[name="W"]  你呀......
+[name="W"]  あなたには……。
+[name="W"]  Hey, you...
+
+[name="W"]  你真的......配得上别人的牺牲吗？
+[name="W"]  あなたには本当に……彼らの犠牲の上に立つだけの資格があるのかしら？
+[name="W"]  Are you really... worth sacrificing their lives over?
+
+[name="阿米娅"]  ————
+[name="アーミヤ"]  ――――
+[name="Amiya"]  ...
+
+[Decision(options="别管她，出口就在前方！;阿米娅......;你的行为，有什么意义吗，W？", values="1;2;3")]
+[Decision(options="アーミヤ、奴の戯れ言に惑わされるな、出口は眼の前だ！;アーミヤ……。;W、お前は何が目的だ？　なぜアーミヤにそんな事を！", values="1;2;3")]
+[Decision(options="Don’t worry about her. The exit’s right there!;Amiya…;What’s the point of you doing this, W?", values="1;2;3")]
+
+[name="W"]  还没轮到你。
+[name="W"]  まだあなたが話す番じゃないわ。
+[name="W"]  I'm not done talking yet.
+
+[name="W"]  阿米娅......
+[name="W"]  ふふ、アーミヤというのね……。
+[name="W"]  Amiya...
+
+[name="W"]  ————你。生气了吗？
+[name="W"]  ――――あら。怒ったのかしら？
+[name="W"]  ... Did I make you mad?
+
+[name="阿米娅"]  ......你不该说这种话。
+[name="アーミヤ"]  …あなたは……何も分かっていない…。
+[name="Amiya"]  ... You've gone too far.
+
+[name="W"]  好啊，好啊......就该这样嘛。
+[name="W"]  わかった、わかった……こう言えばいいのね。
+[name="W"]  Good, good... Now that's more like it.
+
+[name="W"]  来吧。
+[name="W"]  さぁ、いらっしゃい。あなたの可愛い下僕たちを、私に差し向けるといいわ。
+[name="W"]  Come at me.
+
+[name="阿米娅"]  整合运动的W，你不该说这种话！
+[name="アーミヤ"]  W、ロドスの皆さんが私に命を預けてくれたのは、誰もが自ら考え選択した結果です。私の下僕になった人など居ません。
+[name="Amiya"]  W of the Reunion Movement, you've gone too far!
+
+[name="阿米娅"]  每个人的生命，都有价值......
+[name="アーミヤ"]  ロドスの皆さんの命は、全員かけがえのない価値と輝きを持っています。
+[name="Amiya"]  Every life is precious, each and every one...
+
+[name="阿米娅"]  这不是你能玷污的事！
+[name="アーミヤ"]  これ以上、あなたにその命を穢させはしません！
+[name="Amiya"]  This is something that you'll never tarnish!
+
+[name="阿米娅"]  博士！！
+[name="アーミヤ"]  ドクター！！
+[name="Amiya"]  Doctor!!
+
+[Decision(options="罗德岛，准备战斗！", values="1")]
+[Decision(options="ロドス総員、戦闘準備！", values="1")]
+[Decision(options="Rhodes Island, prepare for combat!", values="1")]
+
+[name="W"]  哼哼......
+[name="W"]  ふふ……。
+[name="W"]  Heheh...
+

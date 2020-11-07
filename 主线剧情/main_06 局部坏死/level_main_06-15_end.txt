@@ -1,0 +1,416 @@
+[name="霜星"]  碎了......吗。
+[name="フロストノヴァ"]  ……フッ……砕けた、か。
+[name="FrostNova"]  It... shattered?
+
+[name="霜星"]  老爷子从某个巫师那里求得这样东西......说是能维持住我的性命。
+[name="フロストノヴァ"]  あの石頭が……どこぞの巫にもらってきたものだ。……私の命を繋ぎ止めることができる、などと言ってたが。
+[name="FrostNova"]  The old man got this from some wizard.... Said it would keep me alive.
+
+[name="霜星"]  连一场战斗都没撑过去，呵呵，终归，还是假货。
+[name="フロストノヴァ"]  一度の戦闘すら持ちこたえられないとはな。フフ、やはり贋物か。
+[name="FrostNova"]  Didn't even make it through one fight, huh. I guess it was fake.
+
+[name="霜星"]  也许就像我们父女一样......？和现在的，荒诞的整合运动......也一样。
+[name="フロストノヴァ"]  私たちの「親子関係」も同じようなものかもしれんな……。そして今のデタラメなレユニオンも……同じようなものだ。
+[name="FrostNova"]  Just like I'm his fake daughter, maybe...? And now, like Reunion.... As well.
+
+[name="煌"]  唔！
+[name="ブレイズ"]  うっ！
+[name="Blaze"]  Mmm!
+
+[name="煌"]  呃......
+[name="ブレイズ"]  ぐっ……。
+[name="Blaze"]  Uh....
+
+[name="阿米娅"]  咳，咳......煌！
+[name="アーミヤ"]  ゴホゴホッ……ブレイズさん！
+[name="Amiya"]  *Cough* *cough*.... Blaze!
+
+[name="煌"]  寒流已经......消散了。
+[name="ブレイズ"]  寒流が……消えた。
+[name="Blaze"]  The cold's..... gone.
+
+[name="煌"]  我没事！阿米娅，快，去看看那只白兔子！
+[name="ブレイズ"]  私は大丈夫！　アーミヤちゃん、早く、あの白ウサギを！
+[name="Blaze"]  I'm fine! Amiya, hurry, go check on the white rabbit!
+
+[name="霜星"]  赢得漂亮，罗德岛。
+[name="フロストノヴァ"]  素晴らしい。お前たちの完勝だ、ロドス。
+[name="FrostNova"]  Nice win, Rhodes Island.
+
+[name="霜星"]  我的兄弟姐妹们......我让他们白白死去了。
+[name="フロストノヴァ"]  私の兄弟姉妹たちは……私がむざむざ死なせてしまった。
+[name="FrostNova"]  My brothers and sisters.... I let them die in vain.
+
+[name="霜星"]  我们什么都没做到。
+[name="フロストノヴァ"]  私たちには、何もできなかった。
+[name="FrostNova"]  We accomplished nothing.
+
+[name="霜星"]  我的生命......一点价值都没有。
+[name="フロストノヴァ"]  私の命には……何の価値もなかった。
+[name="FrostNova"]  My life.... wasn't worth anything at all.
+
+[Decision(options="他们是因为你的理念而追随你的。", values="1")]
+[Decision(options="違う。君の志は彼らに信念を与えた。", values="1")]
+[Decision(options="They followed you because of your ideas.", values="1")]
+
+[name="煌"]  ......
+[name="ブレイズ"]  ……。
+[name="Blaze"]  ........
+
+[name="霜星"]  我的死......不值得任何人久留。
+[name="フロストノヴァ"]  死にゆく私に、これ以上付き合う必要はない。
+[name="FrostNova"]  My death.... isn't worth anyone's time.
+
+[name="霜星"]  去救你们还能救的人吧。赶快。
+[name="フロストノヴァ"]  お前たちがまだ救える者たちを救うんだ。急げ。
+[name="FrostNova"]  Go save who you can. Hurry.
+
+[name="霜星"]  快去。
+[name="フロストノヴァ"]  早く行け。
+[name="FrostNova"]  Go.
+
+[name="霜星"]  无论是阻止那些穿雨衣的，还是去追杀梅菲斯特，还是收容那些无处可去的感染者......
+[name="フロストノヴァ"]  あの黒装束の者たちの阻止、メフィストへの追撃、帰る場所を失った感染者の収容……何でも良い。
+[name="FrostNova"]  Whether it's stopping the raincoats, going to kill Mephisto, or sheltering the Infected who have nowhere else to go....
+
+[name="霜星"]  去吧。去做有价值的事。
+[name="フロストノヴァ"]  往くんだ。そして価値のあることを成せ。
+[name="FrostNova"]  Go. Go do something worthwhile.
+
+[name="阿米娅"]  ......
+[name="アーミヤ"]  ……。
+[name="Amiya"]  ........
+
+[name="阿米娅"]  博士......
+[name="アーミヤ"]  ドクター……。
+[name="Amiya"]  Doctor...
+
+[Decision(options="我留下。;你去吧。", values="1;2")]
+[Decision(options="自分は残る。;先に行ってくれ。", values="1;2")]
+[Decision(options="I'll stay.;You go.", values="1;2")]
+
+[name="阿米娅"]  我知道了。
+[name="アーミヤ"]  分かりました。
+[name="Amiya"]  Okay.
+
+[name="阿米娅"]  博士，请告诉霜星小姐那句话。
+[name="アーミヤ"]  ドクター、フロストノヴァさんにあの言葉を伝えてください……。
+[name="Amiya"]  Doctor, please tell her.
+
+[name="阿米娅"]  ......拜托你。
+[name="アーミヤ"]  ……お願いします。
+[name="Amiya"]  Please.
+
+[name="霜星"]  真是只......天真的兔子。
+[name="フロストノヴァ"]  本当に……甘い子ウサギだ。
+[name="FrostNova"]  What a.... naive rabbit.
+
+[name="霜星"]  很像啊。和当时的塔露拉，很像。
+[name="フロストノヴァ"]  似ているな。あの頃のタルラにそっくりだ。
+[name="FrostNova"]  Just like Talulah back then. Very similar.
+
+[name="霜星"]  在死前能看到这样的人，这样坚定地去实现理想的人......
+[name="フロストノヴァ"]  死を前にしてそんな奴に会えるとはな。堅い意志で理想を成そうとしている者に……。
+[name="FrostNova"]  To be able to see someone like this before I die, someone so determined to realize their ideals....
+
+[Decision(options="说好的责任呢？！;......;不是答应说要加入罗德岛的吗？", values="1;2;3")]
+[Decision(options="君が言っていた責任はどうする！？;……。;ロドスに入ると言ったのは嘘だったのか？", values="1;2;3")]
+[Decision(options="What about the burden you bear?!;........;Didn't you promise to join Rhodes Island?", values="1;2;3")]
+
+[name="霜星"]  凭你的头脑，应该也考虑到这点了吧？
+[name="フロストノヴァ"]  お前のことだ。もう分かっているのだろう。
+[name="FrostNova"]  I guess that's been swirling around in your head, huh?
+
+[name="霜星"]  坏人也要有坏人该有的样子。我对自己应得的结局毫无怨言。
+[name="フロストノヴァ"]  悪人には悪人としてあるべき姿がある。この結末に、私は不満などない。自業自得さ。
+[name="FrostNova"]  Villains are what villains are. I have no complaints about the ending I deserve.
+
+[name="霜星"]  我伤害了你们，我和整合运动把目标对准了无辜的龙门人，一手促成了乌萨斯感染者的黑暗未来，这样的人根本没资格去罗德岛。
+[name="フロストノヴァ"]  お前たちを傷つけ、レユニオンと共に罪なき龍門人を標的にし、結果としてウルサスの感染者たちの暗い未来の訪れを早めた。そんな者には、ロドスに行く資格などありはしない。
+[name="FrostNova"]  I have hurt you. Reunion, and I, targeted innocent Lungmenites and single-handedly led the Ursus Infected into this nightmare. Such people have no business at Rhodes Island.
+
+[name="霜星"]  我的兄弟姐妹......这些傻子，一定是想着让我活着吧？
+[name="フロストノヴァ"]  私の兄弟姉妹は……あの馬鹿者たちは、私が生きることを望むだろうな。
+[name="FrostNova"]  My brothers and sisters.... Those fools must have tried to keep me alive, huh?
+
+[name="霜星"]  本以为哪怕这一次我死去了，这些傻子也能因此得到个允许他们活下去的地方。
+[name="フロストノヴァ"]  私が死んだとしても、あの馬鹿者たちには生きていくことのできる居場所が見つかるだろうと考えていた。
+[name="FrostNova"]  I thought that even if I died here, those idiots would get a place where they could live in peace.
+
+[name="霜星"]  没有，并没有。他们死了。为了保护我这个本来就没多少时间的人。
+[name="フロストノヴァ"]  だが、それは間違いだった。彼らは皆死んでしまった。この元から先の長くない私を守るために。
+[name="FrostNova"]  Wrong and wrong. They died. To protect me, a woman who didn't have much time left to begin with.
+
+[name="霜星"]  我不甘心。我们的性命全都被人利用了。
+[name="フロストノヴァ"]  無念だ。私たちの命は、全部いいように利用されてしまった。
+[name="FrostNova"]  I'm not happy. We were used and abused. Our lives thrown away.
+
+[name="霜星"]  我不甘心......这最后一刻的生命，这一点不属于我，这是他们所有人用血去换来的！
+[name="フロストノヴァ"]  そして私のこの最期の一時は、自身で勝ち得たものなどではない。これは彼らの血を代償に手に入れたものに過ぎないのだ！
+[name="FrostNova"]  I'm not happy.... This last moment of life, this does not belong to me. They bought this with their blood!
+
+[name="霜星"]  这一点点生命.......我必须交给值得信任的人。
+[name="フロストノヴァ"]  この残された僅かな命は……せめて信頼できる者のために使うとしよう。
+[name="FrostNova"]  This little bit of life..... I must give it to someone trustworthy.
+
+[name="霜星"]  谢谢你。
+[name="フロストノヴァ"]  ありがとう。
+[name="FrostNova"]  Thank you.
+
+[name="霜星"]  .......啊......即使活下来了，又有哪里可去呢？
+[name="フロストノヴァ"]  ……フッ……仮にもし我々が生き延びたとしても、どこに行けと言うのだ？
+[name="FrostNova"]  ...Ah... Even if we survived, where is there to go?
+
+[name="霜星"]  我们本就没有其它地方可去。我们熟悉的从来就只有那片雪原而已。
+[name="フロストノヴァ"]  我々には元より他に行ける場所などない。唯一知る土地といえば、あの凍原だけだ。
+[name="FrostNova"]  We had nowhere. The only thing we were ever knew was the snow.
+
+[name="霜星"]  龙门并不是乌萨斯。渴望着拯救同胞和感染者，想要去找一处又温暖，又有粮食，还有住处的地方......
+[name="フロストノヴァ"]  龍門はウルサスにはなり得ない。同胞と感染者たちを救い出し、暖かく、食べ物も住まいもある場所に連れて行くとしても……。
+[name="FrostNova"]  Lungmen is not Ursus. We came, desperate to save our people, and the Infected, looking for a warm place, with food, and shelter....
+
+[name="霜星"]  不该是龙门。自一开始，就不该是龙门。龙门的市民也在苦苦寻求自己的生活。
+[name="フロストノヴァ"]  その場所は龍門であるべきではない。初めから、龍門を目指すべきではなかった。龍門の市民とて同じように苦しい思いで日々の生活を生き長らえているのだから。
+[name="FrostNova"]  That's not Lungmen. From the beginning, it should not have been Lungmen. The people of Lungmen are also struggling to eke out a living.
+
+[name="霜星"]  我们唯一该回去的，就只有乌萨斯......我们的祖国......
+[name="フロストノヴァ"]  我々が帰るべきは、ウルサスだけだ……我らが祖国に……。
+[name="FrostNova"]  We should have gone back to Ursus.... Our homeland.....
+
+[name="霜星"]  雪......静静的河水......摇曳的松林......碧绿的苔衣......
+[name="フロストノヴァ"]  雪……静かに流れる河……風に揺れる松林……深緑の苔……。
+[name="FrostNova"]  Snow.... a peaceful river.... the pine forests gently swaying.... the turquoise moss....
+
+[name="霜星"]  这片大地，多么美好啊......
+[name="フロストノヴァ"]  この大地は、なんと美しいのだろう……。
+[name="FrostNova"]  This world, it's beautiful....
+
+[Decision(options="所以，你认为塔露拉是操纵了这一切的人。", values="1")]
+[Decision(options="全てを画策したのはタルラだというのか？", values="1")]
+[Decision(options="So, you think Talulah is the one who orchestrated it all.", values="1")]
+
+[name="霜星"]  ......如果我猜的没错......阴谋已经蓄势待发。
+[name="フロストノヴァ"]  ……そうだ。私の推測が確かならば……既に力を蓄えた陰謀が、虎視眈眈と機会をうかがっている。
+[name="FrostNova"]  ...If I'm right... The plot is ready to unfurl.
+
+[name="霜星"]  就算博卓卡斯替老爷子能拖上一时，塔露拉既然敢这样谋划，就一定有对付他的办法。
+[name="フロストノヴァ"]  ボジョカスティの老いぼれが、いくらか時間を稼いだとしても、あのタルラがこのような陰謀を画策したからには、必ず何か対策をしているだろう。
+[name="FrostNova"]  Even if old man Buldrokkas'tee could stall it for a while, Talulah would have a way to deal with him.
+
+[name="霜星"]  龙门没有出手的机会......而乌萨斯也会袖手旁观。
+[name="フロストノヴァ"]  龍門には、もう手出しをする機会はないだろう……ウルサスも成り行きを見守るだけだ。
+[name="FrostNova"]  Lungmen can't do anything.... And all Ursus can do is watch.
+
+[name="霜星"]  但你们还在，感染者还有机会。哪怕只有一点点——
+[name="フロストノヴァ"]  だがまだお前たちがいる。感染者には、まだ希望が残されている。たとえ一縷の望みであったとしても——
+[name="FrostNova"]  But you're still here, and the Infected still have a chance. Even if only a small one...
+
+[name="霜星"]  ——去毁掉现在的塔露拉。中止她的疯狂，不要让整合运动再吞噬更多感染者了。整合运动不需要塔露拉，任何一个塔露拉都不需要......
+[name="フロストノヴァ"]  ——タルラを打ち滅ぼせ。彼女の狂気を止めろ、レユニオンがさらに多くの感染者を飲み込まないために。レユニオンに、タルラはもう必要ない。いかなるタルラも必要ない……。
+[name="FrostNova"]  ——go put an end to Talulah. Stop her madness and don't let Reunion swallow up any more Infected. Reunion doesn't need Talulah, any Talulah....
+
+[name="霜星"]  或者......
+[name="フロストノヴァ"]  あるいは……。
+[name="FrostNova"]  Or.....
+
+[name="霜星"]  ......我的一点点私心。去拯救她。不。去帮助她。和我们那无数的感染者同胞一起......
+[name="フロストノヴァ"]  ……私個人としての願いだ、彼女を救ってやってくれ。いや、彼女の助けになってほしい。私たちのような数多の感染者の同胞たちと共に……。
+[name="FrostNova"]  I could make a selfish request. Go save her. No. Go help her. Along with our countless fellow Infected....
+
+[name="霜星"]  那个真正的......走在泥泞土地上的......塔露拉......
+[name="フロストノヴァ"]  あの本物の……泥に塗れながら進み続ける……タルラを……。
+[name="FrostNova"]  The real one.... Walking on muddy earth.... Talulah....
+
+[Decision(options="霜星小姐？", values="1")]
+[Decision(options="フロストノヴァ？", values="1")]
+[Decision(options="FrostNova?", values="1")]
+
+[name="霜星"]  你......说。
+[name="フロストノヴァ"]  なん……だ……。
+[name="FrostNova"]  Go... ahead.
+
+[Decision(options="我认为你父亲是真的爱你的。", values="1")]
+[Decision(options="君の父は、君を心から愛していたと思う。", values="1")]
+[Decision(options="I think your father really loves you.", values="1")]
+
+[Decision(options="就像你记得你的亲生父母为你而死。", values="1")]
+[Decision(options="君のために死んだ両親を、君が覚えていたように。", values="1")]
+[Decision(options="Just like you remember your birth parents dying for you.", values="1")]
+
+[Decision(options="你清楚地记着你父亲为你所做的一切。", values="1")]
+[Decision(options="父が君のためにやってきた全てを、君は覚えている。", values="1")]
+[Decision(options="You remember clearly all that your father did for you.", values="1")]
+
+[name="霜星"]  ......
+[name="フロストノヴァ"]  ……。
+[name="FrostNova"]  ........
+
+[name="霜星"]  我又怎么会不知道呢？只是，我要死在他之前了。
+[name="フロストノヴァ"]  そんなこと……もちろん知っているさ……。ただ……いま私は奴よりも先に、死のうとしているのだ……。
+[name="FrostNova"]  How could I not know? It's just, he's going to outlive me.
+
+[name="霜星"]  如果他从来没捡到我，那会有多好。那样，他就不会因我感到痛苦。
+[name="フロストノヴァ"]  もし……奴が私を拾わなければ……どんなに良かったか……。そうすれば……奴も私のために……苦しむことはなかった……。
+[name="FrostNova"]  How much better it would have been if he had never adopted me. That way, he wouldn't have to feel all the pain I've brought him.
+
+[name="霜星"]  他已经受了那么多的苦......
+[name="フロストノヴァ"]  元から……あれほど苦しい思いを……してきたというのに……。
+[name="FrostNova"]  He's suffered so much....
+
+[Decision(options="正因为他受过很多苦，所以他才珍惜你。", values="1")]
+[Decision(options="苦しい思いをしてきたからこそ、君を大切にしていた。", values="1")]
+[Decision(options="It is because he has suffered so much that he cherishes you.", values="1")]
+
+[name="霜星"]  呵呵......
+[name="フロストノヴァ"]  フフ……。
+[name="FrostNova"]  Hehehe....
+
+[name="霜星"]  ......博士。
+[name="フロストノヴァ"]  ……ドクター……。
+[name="FrostNova"]  ...Doctor.
+
+[name="霜星"]  我可以这么叫你吧？
+[name="フロストノヴァ"]  そう呼んでも……いいだろう……？
+[name="FrostNova"]  I can call you that, can't I?
+
+[name="霜星"]  罗德岛的博士。在这片大地上，选择也许没有意义。
+[name="フロストノヴァ"]  ドクター……この大地では……我々の選択など……意味を成さないのかもしれない……。
+[name="FrostNova"]  Doctor of Rhodes Island, choices just might be meaningless, in this world.
+
+[name="霜星"]  即使这样，即使结果没有区别......我也想自己去选。我做出选择了。
+[name="フロストノヴァ"]  だがそれでも……たとえ結果は変わらなくとも……私は自ら選びたいと願った……。そして……自ら選んだのだ……。
+[name="FrostNova"]  Even so, even if the outcome makes no difference.... I do want to choose for myself. I made my choice.
+
+[name="霜星"]  用我自己的手......去擦拭我结出的果。
+[name="フロストノヴァ"]  この手で拭ったのだ……己の行いが……実らせた果実を……。
+[name="FrostNova"]  With my own hands.... To take the fruit of the seeds I have sown.
+
+霜星的手指摸索着你的面庞。
+フロストノヴァの指があなたの頬をなぞる。
+FrostNova's fingers grope at your face .
+
+[Decision(options="......你的手指，是暖的？", values="1")]
+[Decision(options="……君の指が、温かい。", values="1")]
+[Decision(options="Your fingers... are warm?", values="1")]
+
+[name="霜星"]  奇怪。你的脸......很冰。
+[name="フロストノヴァ"]  変だな……。お前の顔が……冷たく……感じるなんて……。
+[name="FrostNova"]  Strange. Your face... is cold.
+
+[name="霜星"]  我的体温......没有那么低了？
+[name="フロストノヴァ"]  私の体温は……もうそれほど……低くないというのか……？
+[name="FrostNova"]  My body temperature.... Is not so low anymore?
+
+[Decision(options="是。你的病征消失了。;......;很温暖，霜星。", values="1;2;3")]
+[Decision(options="そうみたいだ。鉱石病の症状が消えている。;……。;温かい手だ、フロストノヴァ。", values="1;2;3")]
+[Decision(options="Yes. Your symptoms are gone.;........;You're warm, FrostNova", values="1;2;3")]
+
+[name="霜星"]  ......在死前......我终于又和人相碰了。
+[name="フロストノヴァ"]  ……死を前にして……ようやく……再び人と触れ合えるようになったか……。
+[name="FrostNova"]  I can finally touch someone... before I die.
+
+[Decision(options="霜星，阿米娅和我都希望你加入罗德岛。", values="1")]
+[Decision(options="アーミヤも自分も君がロドスに来ることを望んでいる。", values="1")]
+[Decision(options="FrostNova, Amiya and I want you to join Rhodes Island.", values="1")]
+
+[name="霜星"]  我真有这种资格？
+[name="フロストノヴァ"]  ……この私に……本当に……その資格が……あるのか……？
+[name="FrostNova"]  Do I really deserve that?
+
+[Decision(options="仅仅是普通地死去，就没有时间再去改正错误。", values="1")]
+[Decision(options="ただ死んでいけば、過ちを挽回することも叶わない。", values="1")]
+[Decision(options="If you just die, here and now, you won't have a chance to right your wrongs.", values="1")]
+
+[name="霜星"]  ......不给出答复是不礼貌的。
+[name="フロストノヴァ"]  ……それに……応えないのは……非礼というものか……。
+[name="FrostNova"]  ...It would be rude not to give a response.
+
+[name="霜星"]  告诉阿米娅，Dr.{@nickname}......
+[name="フロストノヴァ"]  どうか……アーミヤに伝えてくれ、Dr.{@nickname}………。
+[name="FrostNova"]  Tell Amiya, Dr. {@nickname}....
+
+[name="霜星"]  在这片大地上，仅凭一个人，是什么也做不到的。
+[name="フロストノヴァ"]  この大地では……人は一人の力だけでは……何も……成し遂げられない。
+[name="FrostNova"]  In this world, a single person is worthless.
+
+[name="霜星"]  但她绝对不是一个人。
+[name="フロストノヴァ"]  だが……お前は一人ではない……。
+[name="FrostNova"]  But she's absolutely not alone.
+
+[name="霜星"]  现在开始，我在你身边。我在你们身边。
+[name="フロストノヴァ"]  今この瞬間から……私がお前の側にいる……。私が……お前たちと共に歩む……。
+[name="FrostNova"]  From now on, I am at your side. Both of you.
+
+[name="霜星"]  我......愿意加入罗德岛。
+[name="フロストノヴァ"]  私も……ロドスの一員となろう……。
+[name="FrostNova"]  I......  would like to join Rhodes Island.
+
+[Decision(options="谢谢你。", values="1")]
+[Decision(options="ありがとう。", values="1")]
+[Decision(options="Thank you.", values="1")]
+
+[name="霜星"]  不。是我......谢谢你。
+[name="フロストノヴァ"]  いいや……。感謝したいのは……私の方だ……。
+[name="FrostNova"]  No... thank you.
+
+[name="霜星"]  你的眼神......和我一位旧识，很像。
+[name="フロストノヴァ"]  お前のその目は……私の古い知り合いに……よく似ている……。
+[name="FrostNova"]  Your eyes.... remind me of someone I used to know.
+
+[name="霜星"]  我遇见过一个男孩，他说他的哥哥宁愿上绞架也不愿改变观点去迎合敌人的宽恕......
+[name="フロストノヴァ"]  遠い昔に出会った男の子だ……。あの子の兄は……敵の許しを請うために……意思を曲げるくらいなら……吊るし上げられられたほうが……マシだと言ったそうだ……。
+[name="FrostNova"]  I met a boy who said his brother would rather go to the gallows than beg for his enemies' mercy....
+
+[name="霜星"]  所以他要走过雪原，他要踏遍乌萨斯.......所以他没有和我们一起走。
+[name="フロストノヴァ"]  その意志を継ぎ……あの子は……雪原を越え……ウルサスの地を踏破しようと……目標が異なる我々と別れたが……。
+[name="FrostNova"]  So he was going to walk across the snowy plains, he was going to walk all of Ursus.... And he didn't come with us.
+
+[name="霜星"]  我以为那已经是我见过最理想化的人了。
+[name="フロストノヴァ"]  あれは……私が今まで出会った中で……最も理想に生きた者だった……。少なくとも……今までは……そう考えていた……。
+[name="FrostNova"]  I thought he was the most idealistic person I'd ever met.
+
+[name="霜星"]  只是，你和阿米娅让我觉得……也许理想也可以成为一种信念。
+[name="フロストノヴァ"]  だが……お前とアーミヤを見て……理想すらも一つの信念に……なり得ると知った……。
+[name="FrostNova"]  But now, you and Amiya changed my mind... Maybe ideals can be a kind of faith.
+
+[Decision(options="罗德岛就是为了共同的信念而战的。", values="1")]
+[Decision(options="ロドスは一つの信念の元で戦っている。", values="1")]
+[Decision(options="Rhodes Island is all about fighting for shared beliefs.", values="1")]
+
+[name="霜星"]  原本整合运动......也是一样的。
+[name="フロストノヴァ"]  レユニオンも……最初は同じだったはずさ……。
+[name="FrostNova"]  The original Reunion.... was the same.
+
+[name="霜星"]  真像啊。
+[name="フロストノヴァ"]  本当に……よく似ている………。
+[name="FrostNova"]  Just the same.
+
+[name="霜星"]  你的眼神，和那个孩子，真的很像。
+[name="フロストノヴァ"]  お前の目は……あの子に……本当にそっくりだ……。
+[name="FrostNova"]  Your eyes, and that boy's, really do look the same.
+
+[name="霜星"]  只不过，你没他那么坚定，但却比他......温柔太多了。
+[name="フロストノヴァ"]  ただお前は……あの子のような……揺るぎなさの代わりに……優しさを持っている……。
+[name="FrostNova"]  Only, you're not as determined as he was. You're so much.... So much gentler.
+
+[name="霜星"]  放手吧。兄弟姐妹们在等我。
+[name="フロストノヴァ"]  ……もう放していい。兄弟姉妹たちが……私を待っている……。
+[name="FrostNova"]  Let me go. My brothers and sisters are waiting for me.
+
+[name="霜星"]  ......父亲......我真是个傻子。
+[name="フロストノヴァ"]  ……父さん……私は本当に……馬鹿な娘だったよ……。
+[name="FrostNova"]  ......Father...... I've been such a fool.
+
+[name="霜星"]  原谅我吧。
+[name="フロストノヴァ"]  ……でも……許して……。
+[name="FrostNova"]  Forgive me.
+
+她滑落下去。
+彼女は腕から滑り落ちた。
+She slips down.
+
+她的嘴角上扬，高傲得像是依然还活着一般。
+その口元に誇らしげな笑みを湛えたまま。
+The corners of her mouth turn up, haughty as she was when she lived.
+

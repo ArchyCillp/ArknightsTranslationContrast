@@ -1,0 +1,324 @@
+[name="整合运动成员"]  呃 ......
+[name="レユニオン構成員"]  グフッ……。
+[name="Reunion Member"]  Ugh...
+
+[name="整合运动成员"]  你们不是......乌萨斯......人......
+[name="レユニオン構成員"]  お前たちは……ウルサス……人じゃ……な……。
+[name="Reunion Member"]  You bunch... aren't from Ursus...
+
+[name="近卫干员"]   呼，呼......
+[name="前衛オペレーター"]   フゥ……ッ。
+[name="Guard"]   *gasp* *gasp*...
+
+[name="杜宾"]  看来，他们没来及联络同伙。
+[name="ドーベルマン"]  どうやら、仲間を呼ばれずに済んだな。
+[name="Dobermann"]  Looks like they didn't have time to notify the others.
+
+[name="杜宾"]  ......做的不错，Dr.{@nickname}。
+[name="ドーベルマン"]  悪くない戦果だ、Dr.{@nickname}。
+[name="Dobermann"]  ...Well done, Dr {@nickname}.
+
+[name="杜宾"]  是该客观评价你的能力了。
+[name="ドーベルマン"]  客観的に見ても、十分評価に値すると言えるだろう。
+[name="Dobermann"]  I really should review your capabilities more objectively.
+
+[name="医疗干员"]  咦，阿米娅......她去......
+[name="医療オペレーター"]  あれ、アーミヤさんは……どこへ……？
+[name="Medic"]  Huh? Amiya... she's heading over to them...
+
+[name="阿米娅"]   没事吧？
+[name="アーミヤ"]   あの…大丈夫ですか？
+[name="Amiya"]   Are you okay?
+
+[name="女性"]   啊？谢，谢......
+[name="女性"]   えっ？　　あ、はい。ありがとうございま……す！？
+[name="Female"]   Huh? Oh, thank you...
+
+[name="阿米娅"]   没事的，这是我们......
+[name="アーミヤ"]   これですか？　はい、これは私たちの……。
+[name="Amiya"]   No problem. It's our...
+
+[name="女性"]   ......你，你也是感染者？
+[name="女性"]   ……あ、あなたもまさか感染者なの？
+[name="Female"]   You... You're also an Infected?
+
+[name="女性"]   你们要做什么！我，我的孩子......别伤害我们，求你了，我......
+[name="女性"]   何するつもりよっ……！　　わ、私の子供は……この子はやめて……何もしないで……！
+[name="Female"]   What do you want?! Don't hurt my children... I'm begging you, please don't hurt us...
+
+[name="阿米娅"]   ......
+[name="アーミヤ"]   ………。
+[name="Amiya"]   ...
+
+[name="阿米娅"]   去找个安全的地方藏身。
+[name="アーミヤ"]   ……どうか……安全な場所を見つけて……この状況が終わるまで隠れていてください……。
+[name="Amiya"]   Find a safe place to hide.
+
+[name="女性"]   呜，呜......宽恕我们......饶了我......
+[name="女性"]   アァァァ……どうかお見逃しください……どうか……。
+[name="Female"]   *Crying* ... Please have mercy... Let us go...
+
+[name="医疗干员"]  ......
+[name="医療オペレーター"]  ………。
+[name="Medic"]  ...
+
+[name="阿米娅"]   各位休息好了吗？
+[name="アーミヤ"]   皆さん、傷の手当てはどうですか？
+[name="Amiya"]   Has everyone gotten enough rest?
+
+[name="医疗干员"]  啊，没事......
+[name="医療オペレーター"]  はい、大丈夫です……。
+[name="Medic"]  Ah, I'm fine...
+
+[Decision(options="她为什么害怕你？", values="1")]
+[Decision(options="なぜアーミヤが恐れられる？", values="1")]
+[Decision(options="Why is she afraid of you?", values="1")]
+
+[name="阿米娅"]   ......
+[name="アーミヤ"]   ……。
+[name="Amiya"]   ...
+
+[name="阿米娅"]   Dr.{@nickname}......
+[name="アーミヤ"]   Dr.{@nickname}……。
+[name="Amiya"]   Dr {@nickname}...
+
+[name="阿米娅"]   类似的问题，你以前也问过呢。
+[name="アーミヤ"]   ドクターは前にも同じ質問をなさいましたね。
+[name="Amiya"]   You've also asked a similar question before.
+
+[Decision(options="......", values="1")]
+[Decision(options="……。", values="1")]
+[Decision(options="...", values="1")]
+
+[name="阿米娅"]   因为我，得了病。
+[name="アーミヤ"]   私たちは病に冒されています。
+[name="Amiya"]   Because I... am an Infected.
+
+[name="阿米娅"]   我，还有杜宾，罗德岛的大多数人，都得了病。
+[name="アーミヤ"]   私もドーベルマンさんも、ロドスの他のみんなもほとんどが……同じ病気に感染しています。
+[name="Amiya"]   Dobermann and I, and most of the members of Rhodes Island, are as well.
+
+[name="阿米娅"]   就连刚才那些整合运动的成员也是......
+[name="アーミヤ"]   先程のレユニオンの構成員たちですらそうです……。
+[name="Amiya"]   Even those Reunion members who we just fought...
+
+[name="阿米娅"]   我们得了很重的病，让人害怕的病......
+[name="アーミヤ"]   伝染性の死に至る病、そして多くの人々の恐怖の対象……。
+[name="Amiya"]   We've contracted a terrible illness. Something that terrifies most people...
+
+[name="阿米娅"]   “矿石病”。
+[name="アーミヤ"]   「鉱石病（オリパシー）」。
+[name="Amiya"]   "Oripathy."
+
+[name="杜宾"]  ......得了矿石病的人，就是感染者。
+[name="ドーベルマン"]  ……鉱石病を患った者は、一般的に「感染者」と呼ばれる。
+[name="Dobermann"]  Those who have contracted Oripathy are called the "Infected."
+
+[name="阿米娅"]   杜宾......
+[name="アーミヤ"]   ドーベルマンさん……。
+[name="Amiya"]   Dobermann...
+
+[name="杜宾"]  乌萨斯向来对感染者十分严苛。
+[name="ドーベルマン"]  ウルサスは特に感染者に厳しい地域だ。
+[name="Dobermann"]  Ursus has always treated the Infected harshly.
+
+[name="杜宾"]  说起来，谁又不是呢。只是乌萨斯在这方面的举措，尤为冷酷罢了。
+[name="ドーベルマン"]  とは言っても、ウルサスに限らず、どこの地域でも感染者への考え方はみな同じだ。ウルサスはその中でも特に拒否反応が強い地域と言えるだろう。
+[name="Dobermann"]  I mean, who doesn't? Ursus just happens to be particularly cold-blooded about it.
+
+[name="杜宾"]  宣传上让民众恐惧感染者，到了抓捕感染者的时候，民众自然就习以为常，甚至拍手称快。
+[name="ドーベルマン"]  ウルサスの政府は、意図的に感染者に対する恐怖を煽るような報道を行っている。市民は感染者が排除されても当然のことだと考えるばかりか、迫害されても拍手を送るものまでいる始末だ。
+[name="Dobermann"]  Civilians are taught to fear the Infected through propaganda. Nobody even bats an eyelid when the Infected are hunted down, and some even cheer for it.
+
+[name="杜宾"]  所以，整合运动才选择了这里......
+[name="ドーベルマン"]  だからこそ、レユニオンはこの地を選んだのだろう……。
+[name="Dobermann"]  That's why Reunion chose this place...
+
+[name="阿米娅"]   只是......这次，似乎不再是简单的示威游行了。
+[name="アーミヤ"]   ただ……今回は単なる見せかけだけの、ただのデモンストレーションではありませんでした。
+[name="Amiya"]   However... this time, it's not just a simple protest anymore.
+
+[name="杜宾"]  这一次，他们开始大规模地使用暴力。
+[name="ドーベルマン"]  ああ、これだけの武力を用いた大規模な暴動は、これまでに類を見ないものだ。
+[name="Dobermann"]  They've begun to resort to large-scale violence.
+
+[name="杜宾"]  等到乌萨斯政府平息了事件，切尔诺伯格的感染者，只会遭到更残酷的对待。
+[name="ドーベルマン"]  例えウルサス政府が今回の事態を無事に収拾できたとしても、チェルノボーグの感染者たちは、さらにひどい扱いを受けることになるだろう。
+[name="Dobermann"]  When Ursus puts an end to the rioting, the Infected in Chernobog will only face more cruelty.
+
+[name="杜宾"]  ......与之相反，有了Dr.{@nickname}你，罗德岛的处境，也许能有所改善。
+[name="ドーベルマン"]  こう言うのなんだが……それとは逆にロドスがDr.{@nickname}を奪還したことで、感染者たちに希望をもたらすことができるかも知れない。
+[name="Dobermann"]  ...In contrast, with you here, Dr {@nickname}, perhaps Rhodes Island's situation will improve.
+
+[Decision(options="......这和我也有关系？;......;那我还挺重要的。", values="1;2;3")]
+[Decision(options="……自分にも関係が？;……。;自分はそれだけ重要な存在なのか。", values="1;2;3")]
+[Decision(options="...Is this also related to me?;...;I see, I must be pretty important.", values="1;2;3")]
+
+[name="杜宾"]  凯尔希和阿米娅都和我说过，你是最顶尖的矿石病研究学者。
+[name="ドーベルマン"]  ケルシーもアーミヤも、お前は最も優れた鉱石病の研究者だと言っていた。
+[name="Dobermann"]  Both Kal'tsit and Amiya have mentioned that you are a cutting-edge Oripathy researcher.
+
+[name="杜宾"]  ......现在，你陷入了记忆丧失的困境，我很怀疑，你还能不能再派上用场。
+[name="ドーベルマン"]  ……とはいえ、記憶喪失になってしまった今、過去に自分がやった研究成果を思い出せるかは怪しいところだが……。
+[name="Dobermann"]  ...But with your memory loss, I doubt whether you'll be of any use again.
+
+[name="阿米娅"]   唔唔，杜宾教官，这么说好过分！
+[name="アーミヤ"]   ド……ドーベルマンさん、そんな言い方はないですよ！
+[name="Amiya"]   Ugh... Instructor, that's way too harsh!
+
+[name="杜宾"]  ......也许就和指挥一样，等你稍作复习，说不定就能重新掌握那些理论？
+[name="ドーベルマン"]  ……まぁ、先程の見事な指揮と同じで、少しずつ記憶が回復していけば、鉱石病の研究に関しても、思い出してくるかも知れんな。
+[name="Dobermann"]  ...Perhaps you'll be able to master the theories again after some reviewing, just like how you relearned your commanding skills?
+
+[name="杜宾"]  毕竟你还是前线指挥官......
+[name="ドーベルマン"]  今は研究者というより、前線に立つ指揮官の姿の方が様になっていた……。
+[name="Dobermann"]  After all, you are our field commander...
+
+[name="杜宾"]  其实之前，我怎么也没法把神经学博士和战术家联系在一起......
+[name="ドーベルマン"]  正直いって、今まで神経学者と戦術指揮官の才能を両立できる人物がいるとは思ってもみなかったが……。
+[name="Dobermann"]  To be honest, I never thought a neurology doctor could also be a master tactician...
+
+[name="杜宾"]  看到你本人后，似乎好理解了一些。
+[name="ドーベルマン"]  本人が指揮をしている姿を見て、なんとなく理解はできた。
+[name="Dobermann"]  But after seeing you, I can somehow understand it.
+
+[name="杜宾"]  毕竟罗德岛本身就很像你的专业。
+[name="ドーベルマン"]  ロドスのなすべきこと、その全てがお前の専門分野なのだな。
+[name="Dobermann"]  I mean, Rhodes Island itself is very similar to your field of study.
+
+[name="医疗干员"]   喂！你！别跑！该注射药剂了！
+[name="医療オペレーター"]   あ、いけない！　そろそろ注射のお時間です！　逃げちゃダメですからね。
+[name="Medic"]   Hey! Damn you! Stop running! It's time for your injection!
+
+[name="近卫干员"]   啊？啊？我没事，我没事呀！我，我还不需要治疗！
+[name="前衛オペレーター"]   ええっ？　いやいや！　大丈夫、大丈夫だって！　俺にはまだ治療は必要ないから！
+[name="Guard"]   Huh? Huh? I told you, I'm fine! I, I don't need treatment yet!
+
+[name="医疗干员"]   是定量药剂，延缓感染症状的！
+[name="医療オペレーター"]   これは定期薬です！　症状を緩和するものですから！
+[name="Medic"]   You need to get your regular injection to slow your symptoms!
+
+[name="医疗干员"]   你刚才不是还说头晕吗！
+[name="医療オペレーター"]   頭がフラフラするって言ってましたよね？
+[name="Medic"]   Didn't you say you were feeling dizzy?
+
+[name="近卫干员"]   那不是同一种症状吧！
+[name="前衛オペレーター"]   それは病気と関係ないぞ！
+[name="Guard"]   That's not the same condition at all!
+
+[name="医疗干员"]   要是一会儿你的身体又出了问题，再碰上战斗怎么办？
+[name="医療オペレーター"]   もし身体の調子が悪くなったときに、また戦闘になったらどうするつもりですか？
+[name="Medic"]   What if you start having other issues when you're in battle?
+
+[name="医疗干员"]   为了大家的安全你也该好好注意！
+[name="医療オペレーター"]   みんなの安全のために、あなたも自分の健康に気を配って下さい。
+[name="Medic"]   For the sake of everyone's safety, you have to take care of yourself too!
+
+[name="近卫干员"]   ......
+[name="前衛オペレーター"]   ……。
+[name="Guard"]   ...
+
+[name="医疗干员"]   别动！我要扎了！
+[name="医療オペレーター"]   動かないでください！　それっ！
+[name="Medic"]   Stop right there! I'm giving you the shot!
+
+[name="近卫干员"]   啊！！
+[name="前衛オペレーター"]   ぎゃあっ！！
+[name="Guard"]   Aaah! !
+
+[name="杜宾"]  ......
+[name="ドーベルマン"]  ……。
+[name="Dobermann"]  ...
+
+[name="杜宾"]  ......罗德岛就是这样，既要找出治疗感染者的办法，又要减少感染者带来的问题。
+[name="ドーベルマン"]  ……ロドスとはこういうところだ。感染者を治療する方法を模索しつつ、感染者が起こす問題を解決する。
+[name="Dobermann"]  ...This is what Rhodes Island does. We're looking for a cure to the infection, as well as mitigating the problems associated with the Infected.
+
+[name="阿米娅"]   ——是的。光是研究治疗方法，或者仅仅去平息种种争端，都是不够的。
+[name="アーミヤ"]   ――そうです。“治療法の研究”か“争いを鎮める”か――どちらか一方だけではダメなんです。
+[name="Amiya"]   That's right. It is not enough to only conduct research, or only try to resolve conflicts.
+
+[name="阿米娅"]   我们必须直面感染者带来的所有问题。
+[name="アーミヤ"]   感染者による全ての問題を、私たちは解決していかなければならないんです。
+[name="Amiya"]   We must address all of the problems surrounded the Infected.
+
+[name="阿米娅"]   只有这样，罗德岛才能替感染者争取到一线生机......
+[name="アーミヤ"]   そうすることで初めてロドスは感染者たちの生命を繋ぎ止めておくことができるんです……。
+[name="Amiya"]   This is the only way for Rhodes Island to give all the Infected a chance at survival...
+
+[name="杜宾"]  作为感染者，我们也比普通人更能理解感染者。
+[name="ドーベルマン"]  私自身も感染者だからな。感染者のことは普通の人間よりも理解しているつもりだ。
+[name="Dobermann"]  We understand them better than most others because we, like them, are also Infected.
+
+[name="杜宾"]  无论是普通人还是感染者，无论是和平还是纷争，罗德岛想要解决问题，而不是任由仇恨和疾病蔓延肆虐。
+[name="ドーベルマン"]  感染者と健常者、戦争か平和か――そしてそれらの隔たりが引き起こす病と憎しみの連鎖を、ロドスは断ち切らなければならない。
+[name="Dobermann"]  No matter who is involved or what is required, Rhodes Island seeks to put an end to the spread of hatred and disease.
+
+[name="杜宾"]  Dr.{@nickname}，这可能也会是你职责的一部分。
+[name="ドーベルマン"]  Dr.{@nickname}、これはお前自身が、自らのなすべき事として自覚することになるだろう。
+[name="Dobermann"]  Dr {@nickname}, perhaps this will be your calling as well.
+
+[name="杜宾"]  ......至少，这是我粗浅的请求。
+[name="ドーベルマン"]  ……いや……ただそうあって欲しいという…これは私の浅はかな願いかもしれんな。
+[name="Dobermann"]  ...At least, this is my wish.
+
+[Decision(options="你在说什么？？;......;我需要更慎重地思索一下。", values="1;2;3")]
+[Decision(options="何を言っているんだ？？;……;慎重に考えてみたい。", values="1;2;3")]
+[Decision(options="What are you talking about...?;...;I need some more time to think about this.", values="1;2;3")]
+
+[name="杜宾"]  我们会留给你很多时间的，你可以慢慢理解。
+[name="ドーベルマン"]  時間はたっぷりある。ゆっくり考えて、理解していけばいい。
+[name="Dobermann"]  We will give you plenty of time to let all of this sink in.
+
+[name="杜宾"]  只不过，给我们的时间却不多了。
+[name="ドーベルマン"]  とはいえ、それは我々が無事に撤退できてからのことだがな。
+[name="Dobermann"]  However, the time given to us is scarce.
+
+[name="杜宾"]  整顿队伍，出发！
+[name="ドーベルマン"]  隊員整列、出発だ！
+[name="Dobermann"]  Gather up, everyone. We're leaving!
+
+[name="杜宾"]  前往汇合点的路上，还不知道有什么等着我们！
+[name="ドーベルマン"]  合流地点までは、まだ何があるかわからん！　警戒を怠るな！
+[name="Dobermann"]  Anything could happen on our way to the meeting point!
+
+[name="杜宾"]  （阿米娅......）
+[name="ドーベルマン"]  （アーミヤ……）
+[name="Dobermann"]  (Amiya...)
+
+[name="杜宾"]  （切尔诺伯格现在的情况非常复杂，我们不能给整支救援队伍带去心理压力。但是......）
+[name="ドーベルマン"]  （今のチェルノボーグは少し厄介な状況だ。いたずらに隊員たちを不安がらせるわけにはいかん…が、しかし……）
+[name="Dobermann"]  (The situation in Chernobog has become very complicated. We can't afford to create extra pressure for the rescue team. But...)
+
+[name="阿米娅"]  （我们......还有多长时间？）
+[name="アーミヤ"]  （タイムリミットは……あとどのくらいですか？）
+[name="Amiya"]  (How much time... do we have left?)
+
+[name="杜宾"]  （......三小时。）
+[name="ドーベルマン"]  （……三時間。）
+[name="Dobermann"]  (...Three hours.)
+
+[name="杜宾"]  （三小时之后，天灾将会吞没这个城市。）
+[name="ドーベルマン"]  （三時間後、天災がこの都市を飲み込む。）
+[name="Dobermann"]  (After three hours, this entire city will be consumed by the Catastrophe.)
+
+[name="杜宾"]  （等到天灾降临，一切就都完了。）
+[name="ドーベルマン"]  （そのとき、まだここから撤退できていなければ……我々は一巻の終わりだ。）
+[name="Dobermann"]  (After that, everything will be over then.)
+
+[name="？？？"]  ......
+[name="？？？"]  ……。
+[name="???"]  ...
+
+[name="？？？"]  不确定因素。
+[name="？？？"]  未確認の集団を発見。
+[name="???"]  We've found some unknown variables.
+
+[name="？？？"]  去，通知其他人。
+[name="？？？"]  報告してこい。
+[name="???"]  Notify the others, now.
+
+[name="？？？"]  我们追。
+[name="？？？"]  追うぞ。
+[name="???"]  We're going after them.
+

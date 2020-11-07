@@ -1,0 +1,144 @@
+[name="碎骨"]   唔......
+[name="スカルシュレッダー"]   ぐっ……クソッ……。
+[name="Skullshatterer"]   Nngh...
+
+[name="阿米娅"]   哈，哈......
+[name="アーミヤ"]   はぁ、はぁっ……。
+[name="Amiya"]   Ugh... Gahh...
+
+[name="整合运动成员"]   咿——！
+[name="レユニオン構成員"]   おい――！
+[name="Reunion Member"]   Aaah-!
+
+[name="整合运动成员"]   碎骨，没事吧！
+[name="レユニオン構成員"]   スカルシュレッダー、大丈夫か！
+[name="Reunion Member"]   Skullshatterer, are you okay?!
+
+[name="碎骨"]   嘁，这帮家伙确实很棘手！
+[name="スカルシュレッダー"]   くっ、こいつら確かに……強い！
+[name="Skullshatterer"]   Tch... What a troublesome bunch!
+
+[name="整合运动成员"]   碎骨，W在通讯里说，她那边已经结束了！
+[name="レユニオン構成員"]   スカルシュレッダー、Wから向こうは片付いたと通信が入った！
+[name="Reunion Member"]   Skullshatterer, W just said that she's all finished on her end!
+
+[name="整合运动成员"]   已经成功劫到了任务目标。
+[name="レユニオン構成員"]   任務目標の奪取に成功したとのことだ。
+[name="Reunion Member"]   She's successfully retrieved the target.
+
+[name="碎骨"]   ......W她，得手了？
+[name="スカルシュレッダー"]   ……Wが、成功？
+[name="Skullshatterer"]   W... she won?
+
+[name="整合运动成员"]   是的，她的袭击非常顺利！
+[name="レユニオン構成員"]   ああ、あちらの奇襲はうまくいったようだ。
+[name="Reunion Member"]   That's right, her assault went very smoothly!
+
+[name="整合运动成员"]   是不是，我们也该撤退了？
+[name="レユニオン構成員"]   となれば、我々も撤退すべきではないか？
+[name="Reunion Member"]   Should we also retreat?
+
+[name="碎骨"]   ......
+[name="スカルシュレッダー"]   ……。
+[name="Skullshatterer"]   ...
+
+[name="碎骨"]   给塔露拉发送信号。
+[name="スカルシュレッダー"]   タルラに信号を送れ。
+[name="Skullshatterer"]   Send a signal to Talulah.
+
+[name="整合运动成员"]   明白！
+[name="レユニオン構成員"]   了解！
+[name="Reunion Member"]   Roger!
+
+[name="碎骨"]   ......撤退。
+[name="スカルシュレッダー"]   ……撤退だ。
+[name="Skullshatterer"]   ...We're pulling back.
+
+[name="碎骨"]   哼，罗德岛的懦夫......
+[name="スカルシュレッダー"]   フンッ、ロドスの臆病者め……。
+[name="Skullshatterer"]   Hmph. Rhodes Island cowards...
+
+[name="碎骨"]   下次见面就是死期了。
+[name="スカルシュレッダー"]   次に会うときが貴様らの最期だ。
+[name="Skullshatterer"]   The next time we meet... will be at your execution.
+
+[name="阿米娅"]   ——整合运动——撤退了？
+[name="アーミヤ"]   ――レユニオンが――撤退していく？
+[name="Amiya"]   Reunion... is retreating?
+
+[name="芙兰卡"]   撤退非常迅速，应该是事先策划好的。
+[name="フランカ"]   動きが素早いわね。初めからこの流れは想定していたようね。
+[name="Franka"]   They're retreating very rapidly. Something must have changed with their plans.
+
+[name="芙兰卡"]   嘴上放狠话，跑得倒是很快啊。
+[name="フランカ"]   大口を叩いておいて、逃げ足だけは早いんだから。
+[name="Franka"]   Despite all that talk, they sure know how to run away.
+
+[name="阿米娅"]   ......
+[name="アーミヤ"]   ……。
+[name="Amiya"]   ...
+
+[name="阿米娅"]   情况有些......不对劲。
+[name="アーミヤ"]   何かが……変です。
+[name="Amiya"]   Something... doesn't feel right.
+
+[name="雷蛇"]   你是说——
+[name="リスカム"]   どういうことでしょうか――
+[name="Liskarm"]   Are you saying...
+
+[Decision(options="指出整合运动的目标可能不是罗德岛", values="1")]
+[Decision(options="レユニオンの目的はロドスではない。", values="1")]
+[Decision(options="We weren't their objective in the first place...", values="1")]
+
+[name="阿米娅"]   ——！
+[name="アーミヤ"]   ――！
+[name="Amiya"]   ...!
+
+[name="阿米娅"]   整合运动确实可能，只是在拖延我们的脚步......
+[name="アーミヤ"]   相手のリーダーがすぐに襲ってこなかったのは、時間を稼いで私たちを足止めしていただけ……。
+[name="Amiya"]   That they were only here to stall us...?
+
+[name="阿米娅"]   这样一来......
+[name="アーミヤ"]   ということは……。
+[name="Amiya"]   If that's the case...
+
+[name="阿米娅"]   糟了，近卫局有危险！
+[name="アーミヤ"]   まずいです、近衛局の護送隊が危ないかもしれません！
+[name="Amiya"]   Oh no, the L.G.D. is in trouble!
+
+[name="阿米娅"]   ......我们应该立刻去支援陈长官！
+[name="アーミヤ"]   ……すぐにチェンさんの支援に行かなくちゃ！
+[name="Amiya"]   ...We have to help Madam Ch'en right now!
+
+[name="阿米娅"]   芙兰卡，立刻召回侦察小队！
+[name="アーミヤ"]   フランカさん、周囲の偵察チームを招集してください！
+[name="Amiya"]   Franka, call the recon squad back immediately!
+
+[name="阿米娅"]   雷蛇，尝试联系陈长官！
+[name="アーミヤ"]   リスカムさん、チェンさんに連絡を！
+[name="Amiya"]   Liskarm, try to get in touch with Madam Ch'en!
+
+[name="陈"]   特别督察组的主力部队呢！怎么还没有增援我们！
+[name="チェン"]   特別督察隊の主力部隊はどうした！　なぜまだ援護が来ない！
+[name="Ch'en"]   Where's the Special Operations Division? Their reinforcements are supposed to be here by now!
+
+[name="近卫局队员"]   通讯说，他们被整合运动拖住了......！
+[name="近衛局隊員"]   今入った連絡では、レユニオンに足止めを食らっていると……！
+[name="L.G.D. Agent"]   We were just notified that they've been stalled by Reunion...!
+
+[name="陈"]   怎么可能，就凭整合运动那帮乌合之众！
+[name="チェン"]   ありえない。レユニオンのような烏合の衆にそんなことが出来るはずはない！
+[name="Ch'en"]   How's that possible? Reunion is nothing more than a gang of unruly thugs!
+
+[name="近卫局队员"]   ......而且对方只有......一个人......
+[name="近衛局隊員"]   ……しかも敵は……一人だけだと……。
+[name="L.G.D. Agent"]   ...And they were only facing... a single enemy...
+
+[name="陈"]   ......
+[name="チェン"]   ……。
+[name="Ch'en"]   ...
+
+[name="陈"]   除非......
+[name="チェン"]   まさか……。
+[name="Ch'en"]   Unless...
+

@@ -1,0 +1,1428 @@
+04:22 P.M.  天气/晴
+p.m. 04:22 天気/晴天
+04:22 PM \ Clear
+
+罗德岛舰船，第五舱室，训练场
+ロドス本艦 第五船室 訓練場
+Rhodes Island Landship, Compartment 5, Training Grounds
+
+[name="香草"]     喝！哈啊！
+[name="バニラ"]     フンッ！　ハアッ！
+[name="Vanilla"]     Hoo! Hah!
+
+[name="香草"]     劈砍！直刺！平挥！
+[name="バニラ"]     斬！　突！　払い！
+[name="Vanilla"]     Cleave! Thrust! Swing!
+
+[name="香草"]     呼......哈......
+[name="バニラ"]     ふぅ……はぁ……
+[name="Vanilla"]     Phew... Haah...
+
+[name="香草"]     今天的......体能训练......呼，呼，终于完成了。
+[name="バニラ"]     今日の……トレーニングが……はぁっ、はぁっ、やっと終わりました……
+[name="Vanilla"]     That... concludes... *Pant* *pant*... today's training.
+
+[Decision(options="注意极限，你对自己太严格了。;......;给，运动饮料。",values="1;2;3")]
+[Decision(options="自分に厳しくしすぎだ。;……;はい、スポーツドリンクだ。",values="1;2;3")]
+[Decision(options="Know your limits. You're pushing yourself too hard.;......;Here, have a sports drink.",values="1;2;3")]
+
+[name="香草"]     不，呼......不要紧！我没问题的，博士。
+[name="バニラ"]     ふぅ……アドバイス、ありがとうございます。でも大丈夫ですよ、ドクター。
+[name="Vanilla"]     No, phew.... Don't worry! I'm a-okay, Doctor.
+
+[name="香草"]     我很清楚自己的状况，现在这样的训练强度还在可以负担的范围之内。
+[name="バニラ"]     自分の身体の限界なら、私自身よくわかっています。この程度の訓練強度なら、まだ耐えられますから。
+[name="Vanilla"]     I know myself. And I'm well within my limits here.
+
+[name="香草"]     之前雷蛇前辈和杜宾教官一起帮我调整了训练表，请不要担心我！
+[name="バニラ"]     それにこれは、ドーベルマン教官とリスカム先輩が私に合うように調整してくださった訓練プログラムなんです。ですから、心配しないでくださいね。
+[name="Vanilla"]     Instructor Dobermann and Liskarm helped me work out a training schedule, so you don't have to worry!
+
+[name="香草"]     呼哈......呼哈......
+[name="バニラ"]     はぁ……はぁ……
+[name="Vanilla"]     *Pant*... *pant*...
+
+[name="香草"]     嗯？怎么了，博士，怎么满脸担忧的样子。
+[name="バニラ"]     あれ？　どうされましたか、ドクター。そんなに心配そうな顔をされて。
+[name="Vanilla"]     Huh? What's the matter, Doctor? Why do you look so worried?
+
+[name="香草"]     没关系，不用担心，虽然的确很累，不过我能撑住！
+[name="バニラ"]     ご心配無用ですよ。確かにキツイ訓練ですが、まだまだ耐えられますから！
+[name="Vanilla"]     Really, I'm fine! It's hard, but I can handle it!
+
+[name="香草"]     啊，呼哈......哈......谢谢......
+[name="バニラ"]     あっ、ふぅ……はぁ……ありがとうございます……
+[name="Vanilla"]     Phew... *pant*... thanks.
+
+[name="香草"]     哈啊......终于又活过来了。不过这个饮料，恶，还是老样子好难喝啊。
+[name="バニラ"]     ぷはぁ……生き返りました。でもこのドリンク、うえっ、相変わらず不味いですね。
+[name="Vanilla"]     Haah.... Okay, I'm good. But this drink, ugh, it really tastes terrible.
+
+[name="香草"]     杜宾教官强调过好几次，运动之后喝这个对身体比较好，芙兰卡前辈也这么说，但是真的味道好怪。
+[name="バニラ"]     ドーベルマン教官とフランカ先輩から、運動後にこのドリンクを飲むと身体に良いと何度も言われていますが、この味にはなかなか慣れません……
+[name="Vanilla"]     Dobermann made it very clear I'm supposed to drink this after exercise, and so has Franka, but it really tastes awful!
+
+[name="香草"]     来这里训练的干员们都好努力，我也要加油，不能拖大家的后腿。
+[name="バニラ"]     でも、ちゃんと飲みますよ。ここで訓練をしているオペレーターの皆さんみたいに、私もしっかり頑張らないと。足を引っ張るわけにはいきませんから。
+[name="Vanilla"]     The operators training here always work so hard. I have to go all out. I can't hold anyone back.
+
+[name="香草"]     啊对了博士，过两天我要和黑钢的前辈们一起出任务，暂时不会来训练场，这段时间非常感谢您的指导！
+[name="バニラ"]     あ、そうだドクター。私は数日後にBSWの先輩たちと任務に出ますので、しばらく訓練場には来られなくなります。ここ最近は手厚いご指導をいただき、ありがとうございました！
+[name="Vanilla"]     Oh, by the way, Doctor, I'm going on a mission with the other Blacksteel girls in a couple of days and won't be training here for a while. So thanks so much for everything you've done for me here!
+
+[name="香草"]     ......
+[name="バニラ"]     ……
+[name="Vanilla"]     ......
+
+[Decision(options="你看起来好像还有话想说。",values="1")]
+[Decision(options="まだ何か言いたそうだな。",values="1")]
+[Decision(options="You look like you have something to say.",values="1")]
+
+[name="香草"]     这、不愧是博士......我表现得很明显吗？
+[name="バニラ"]     そ、それは……流石ドクターです……
+[name="Vanilla"]     Hah, perceptive as always, Doctor... Am I so easy to read?
+
+[name="香草"]     这次，能和前辈们一起出任务，我当然很开心。只是......
+[name="バニラ"]     今回、先輩たちと一緒の任務に参加できてすごく嬉しいのですが……
+[name="Vanilla"]     Well, I'm really glad to go on a Blacksteel mission. It's just...
+
+[name="香草"]     我，呃，养了一些小动物，那个，平常都是我在照顾，但是要出任务的话，就只好拜托其他同伴暂时照看了。
+[name="バニラ"]     私、えっと、ペットを飼っていて……任務に出るとなると、他の同僚にお世話を頼まないといけなくて……
+[name="Vanilla"]     I, uh, I have a few pets, and, uh, I usually take care of them. But when I'm on a mission, I have to ask other people to do it.
+
+[name="香草"]     一般来说，我都是拜托黑钢的前辈们的。
+[name="バニラ"]     普段はBSWの先輩たちにお願いしているんです。
+[name="Vanilla"]     I usually ask the other Blacksteel girls.
+
+[name="香草"]     雷蛇前辈和芙兰卡前辈都经常帮忙，不过两位前辈总是一起出任务，休息时间也经常一起行动。
+[name="バニラ"]     リスカム先輩やフランカ先輩がよく手伝ってくださいます。でも先輩方はいつもお二人で任務に出られますし、休憩時間まで一緒にいますので……
+[name="Vanilla"]     Liskarm and Franka help most of the time, but they're always on missions together, and taking R&R together.
+
+[name="香草"]     如果找不到其中的一个人的话，另一个基本也就没指望了。
+[name="バニラ"]     もしどちらかに頼めなければ、基本的にはお二人とも諦めざるを得ません。
+[name="Vanilla"]     If one's gone, so is the other.
+
+[name="香草"]     别看芙兰卡前辈平时总是爱开玩笑，其实她相当可靠，圆圆、小尖、大黑还有坚强，大家都很喜欢芙兰卡前辈！
+[name="バニラ"]     フランカ先輩はいつも冗談を言っておられますが、すごく頼りになるんですよ。マルコやトゲオ、ドスグロちゃん、それにツヨシくんも、みんなフランカ先輩のことが大好きなんです！
+[name="Vanilla"]     Franka likes to joke around, but she's actually really reliable. Puffball, Tiny, Biggie, and Stout all really love Franka!
+
+[name="香草"]     偶尔找不到两位前辈的时候，杰西卡也会帮忙照顾，不过，呃，她之前差点被大黑吓哭。
+[name="バニラ"]     お二人がお忙しい時は、ジェシカ先輩にお手伝いいただくこともあります。ですが、えっと、前にドスグロちゃんに驚いて半泣きに……
+[name="Vanilla"]     Sometimes Jessica takes care of them, if I can't find those two. But, um, this one time, Biggie kind of startled her, and I think she was going to cry.
+
+[Decision(options="能问一下......",values="1")]
+[Decision(options="質問してもいいか……",values="1")]
+[Decision(options="Can I ask...?",values="1")]
+
+[Decision(options="你养的都是些什么‘小动物’吗？",values="1")]
+[Decision(options="いったいどんな「ペット」を飼っているんだ？",values="1")]
+[Decision(options="What exactly are these \"pets\"?",values="1")]
+
+[name="香草"]     咦。
+[name="バニラ"]     あれっ。
+[name="Vanilla"]     Huh.
+
+[name="香草"]     我没有带圆圆他们和博士打过招呼吗？
+[name="バニラ"]     マルコたちを連れて、ドクターにご挨拶したことはありませんでしたか？
+[name="Vanilla"]     Didn't I bring Puffball and the gang around to meet you, Doctor?
+
+[name="香草"]     圆圆小刺和大黑都是源石蜗牛，坚强是小型萨尔贡沙漠磐蟹，大家都是很可爱的！
+[name="バニラ"]     マルコとトゲオ、ドスグロちゃんはカタツムリ型のオリジムシ、ツヨシくんはサルゴン砂漠の小型ハガネガニです。みんなすっごく可愛いですよ！
+[name="Vanilla"]     Puffball, Tiny, and Biggie are all Originium snails. And Stout is a Sargon Desert Metal Crab, and every last one of them is cute as a button!
+
+[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
+[Decision(options=".......",values="1")]
+
+[name="香草"]     嗯？怎么了吗，博士？
+[name="バニラ"]     あれ？　ドクター、その目は、もしかして……
+[name="Vanilla"]     Hm? What's wrong, Doctor?
+
+[name="香草"]     不好......博士你的这个眼神，不、不行哦，不能吃，圆圆小刺大黑还有坚强都不能吃！我知道您有瞒着凯尔希医生吃一些奇怪的零食！
+[name="バニラ"]     ダ、ダメですよ。マルコもトゲオもドスグロちゃんもツヨシくんも食べちゃダメ、絶対ダメです！　私、ドクターがケルシー先生に隠れて変なおやつを食べてらっしゃること、知ってますからね！
+[name="Vanilla"]     Oh no... I know that look in your eyes, Doctor. No! No! No! No! You can't eat them! Not Puffball, not Tiny, not Biggie, not Stout! You can't eat any of them! I know you've been eating all kinds of weird stuff behind Dr. Kal'tsit's back!
+
+[name="香草"]     （本来还想拜托博士帮忙照顾的，这样看来，哎，还是算了吧。）
+[name="バニラ"]     （ドクターにお世話をお願いしようと思ってたけど……やっぱり止めておこう……）
+[name="Vanilla"]     (I was going to ask you to take care of them. But now? Hmph. No way.)
+
+[name="香草"]     伤脑筋了，这次大家一起出任务，圆圆他们该怎么办才好。
+[name="バニラ"]     ああ、困りました。皆さんも一緒に任務に行くとなれば、マルコたちはどうすれば……
+[name="Vanilla"]     What am I going to do? We're all going out together this time. What's going to happen to my babies?
+
+[name="香草"]     嗯......其他干员的话，大家好像都有各自的事情要做，贸然拜托是不是不太好？
+[name="バニラ"]     他の皆さんもそれぞれやることがあるでしょうし、軽々しくお願いするのはあまり良くないですよね？
+[name="Vanilla"]     Hmmm.... The other operators are all busy with their own things, so I can't just go up and ask them out of nowhere, can I?
+
+[Decision(options="试试看？",values="1")]
+[Decision(options="聞いてみれば？",values="1")]
+[Decision(options="Couldn't hurt to try?",values="1")]
+
+[Decision(options="比如说，拜托接下来路过的干员。",values="1")]
+[Decision(options="例えば、次に通りがかったオペレーターにとか。",values="1")]
+[Decision(options="Like, try asking the next one who walks by.",values="1")]
+
+[name="香草"]     咦？！这也太草率了吧！
+[name="バニラ"]     ええっ！？　それってあまりにも適当過ぎませんか！？
+[name="Vanilla"]     Huh? Take this seriously!
+
+[name="香草"]     博士，您是认真的吗？！
+[name="バニラ"]     ドクター、本気ですか！？　……ってその顔は本気ですね。
+[name="Vanilla"]     You're joking, right, Doctor?!
+
+[name="香草"]     会是谁，来的会是谁......呜呜，希望会是个靠谱的人......
+[name="バニラ"]     だっ、誰が来るんでしょうか……うう、頼れる人でありますように……
+[name="Vanilla"]     Who will it be...? Ooh, I hope it's someone reliable...
+
+[Decision(options="有人来了。",values="1")]
+[Decision(options="誰か来た。",values="1")]
+[Decision(options="Someone's coming.",values="1")]
+
+[name="香草"]     ！
+[name="バニラ"]     ！
+[name="Vanilla"]     !
+
+[name="香草"]     脚步声......好轻！这种步调的节奏，很稳，来的人一定是个优秀的战士！
+[name="バニラ"]     軽くてすごく落ち着いた足音……！　きっと優秀な戦士ですね！
+[name="Vanilla"]     Their footsteps... are very light! With a steady pace, very steady. It must be a great warrior!
+
+[name="香草"]     嗯？有香味？
+[name="バニラ"]     あれ？　この香りは……
+[name="Vanilla"]     Huh? What's that fragrance?
+
+[name="香草"]     我记得这个香味应该是......
+[name="バニラ"]     確か……
+[name="Vanilla"]     I remember this scent, it's...
+
+[name="香草"]     玫兰莎小姐！
+[name="バニラ"]     メランサさん！
+[name="Vanilla"]     Melantha!
+
+[name="玫兰莎"]     ？！
+[name="メランサ"]     ！？
+[name="Melantha"]     Ah?!
+
+[name="玫兰莎"]     是、是我。
+[name="メランサ"]     は、はい。
+[name="Melantha"]     Y-yes, it's me.
+
+[name="玫兰莎"]     博士，还有香草小姐，下午好。
+[name="メランサ"]     ドクター、バニラさん、こんにちは。
+[name="Melantha"]     Good afternoon, Doctor, Vanilla.
+
+[name="玫兰莎"]     那个，请问......两位找我有什么事吗？
+[name="メランサ"]     えっと、あの……私に何か用ですか？
+[name="Melantha"]     Erm, so... what can I do for you?
+
+[name="玫兰莎"]     不好意思，难得你拜托我，我却......
+[name="メランサ"]     ごめんなさい。せっかく頼ってくださったのに、私……
+[name="Melantha"]     Sorry, it's kind of unusual for you to ask me for something. I just...
+
+[name="香草"]     没这回事！玫兰莎小姐明明帮了大忙，太感谢了！
+[name="バニラ"]     いいえ！　メランサさんのおかげで助かりました、本当にありがとうございます！
+[name="Vanilla"]     Not at all! You're a big help, Melantha! Thank you so much!
+
+[name="玫兰莎"]     这没什么，我也只是转而拜托了史都华德而已。
+[name="メランサ"]     いえ……私はただ、スチュワードさんになすりつけただけですから……
+[name="Melantha"]     It's nothing. And actually I'm just going to ask Steward.
+
+[name="玫兰莎"]     而且，能帮上忙，我很开心。
+[name="メランサ"]     でもお力になれたのなら、嬉しいです。
+[name="Melantha"]     But really, I'm glad I could help.
+
+[name="香草"]     欸。
+[name="バニラ"]     あっ。
+[name="Vanilla"]     Oh.
+
+[name="香草"]    （脸红了！）
+[name="バニラ"]    （顔が赤くなってる！）
+[name="Vanilla"]    (She's blushing!)
+
+[name="史都华德"]     哈哈，玫兰莎小姐在战斗以外的场合还是那么容易害羞。
+[name="スチュワード"]     ハハッ、メランサは相変わらず戦闘中以外は恥ずかしがり屋だね。
+[name="Steward"]     Haha. Melantha is so timid off the battlefield.
+
+[name="史都华德"]     请两位放心，照顾香草小姐的小动物这件事就交给我吧。
+[name="スチュワード"]     二人とも安心して。バニラさんのペットのことは僕に任せてよ。
+[name="Steward"]     Don't worry, I'll take great care of Vanilla's pets.
+
+[name="香草"]     真是太麻烦您了，非常感谢！
+[name="バニラ"]     お手数おかけします、ありがとうございます！
+[name="Vanilla"]     Thank you so much for your trouble!
+
+[name="玫兰莎"]     谢谢，史都华德。
+[name="メランサ"]     ありがとうございます、スチュワードさん。
+[name="Melantha"]     Thanks, Steward.
+
+[name="史都华德"]     两人都太客气啦，特别是香草小姐，完全没必要用敬称。
+[name="スチュワード"]     もう、大げさだって。特にバニラさん、そんなにかしこまらなくてもいいよ。
+[name="Steward"]     Think nothing of it. I really won't have you standing on ceremony. We're friends.
+
+[name="香草"]     这、这怎么能行！两位都比如我要更早加入罗德岛，是我的前辈！
+[name="バニラ"]     そ、そんな！　ダメですよ！　お二人とも私より先にロドスに加入している先輩なんですから！
+[name="Vanilla"]     H- how could we be friends? You two have been with Rhodes Island for so long, you're far more senior than me!
+
+[name="玫兰莎"]     太夸张了......
+[name="メランサ"]     先輩だなんて……私、そんな立派なものじゃありません……
+[name="Melantha"]     Does company seniority matter so much...?
+
+[name="香草"]     对了，说起来，原来这次任务玫兰莎小姐也会一起去吗？
+[name="バニラ"]     そうだ、そういえば今回の任務は、メランサさんも参加されるんですか？
+[name="Vanilla"]     Oh, by the way, is Melantha also going on this mission?
+
+[name="香草"]     完全没听前辈们提起过啊......
+[name="バニラ"]     私、ほかの先輩たちから何も聞いてませんでした……
+[name="Vanilla"]     None of my superiors mentioned it...
+
+[name="玫兰莎"]     是、是的。
+[name="メランサ"]     は、はい。
+[name="Melantha"]     Yes, I am.
+
+[name="玫兰莎"]     这是临时决定的，我也刚被通知。
+[name="メランサ"]     急に決まったことで、私もさっき聞いたばかりなんです。
+[name="Melantha"]     It was decided kind of suddenly. They only just told me.
+
+[name="玫兰莎"]     是师傅，啊，就是芙兰卡小姐，说要检查一下我的剑术，正好有机会，就申请让我也加入小队了。
+[name="メランサ"]     師匠が……あっ、フランカさんが、私の剣術のチェックにちょうどいい機会だからって、私も参加するようにと。
+[name="Melantha"]     It was Master, err, Franka, who said she wanted to see how my swordsmanship was coming along. The timing was right, so she applied to have me join the team.
+
+[name="香草"]     欸，芙兰卡前辈？前辈指导玫兰莎小姐剑术吗？
+[name="バニラ"]     えっ、フランカ先輩？　先輩がメランサさんの剣術指導を？
+[name="Vanilla"]     Oh, Franka? She's been teaching you her sword techniques?
+
+[name="玫兰莎"]     是的。
+[name="メランサ"]     はい。
+[name="Melantha"]     Yes.
+
+[name="香草"]     前辈，真的有在好好指导吗......
+[name="バニラ"]     先輩、ちゃんと指導してますか……？
+[name="Vanilla"]     Is she actually a good teacher...?
+
+[name="香草"]     虽然那个人该认真的地方很可靠，但是，不会和认真的玫兰莎小姐灌输什么奇怪的东西吧？
+[name="バニラ"]     フランカ先輩ってちゃんとした場面では頼りになりますけど、普段がアレですから……。いつも真面目なメランサさんに、変なことを教えてませんよね？
+[name="Vanilla"]     I know she's really reliable, but I hope she isn't a bad influence on a good girl like Melantha.
+
+[name="香草"]     不行，不行，越想越觉得好担忧！
+[name="バニラ"]     ああ、考えれば考えるほど心配になってきました！
+[name="Vanilla"]     Oh no, the more I think about it, the more worried I get!
+
+[name="玫兰莎"]     不是的！不是这样！芙兰卡小姐虽然总是爱开玩笑，但是她在剑术上非常认真！
+[name="メランサ"]     大丈夫です！　フランカさんはいつも冗談ばかり仰ってますが、剣術に関してはすごく真面目ですから！
+[name="Melantha"]     Not at all! Franka likes to play around, but she's very serious when it comes to sword fighting.
+
+[name="玫兰莎"]     多亏了芙兰卡小姐，我才能像现在这样进步！而且，师傅并没有教我什么奇怪的东西！
+[name="メランサ"]     変なことなんて教わってませんし、師匠のおかげで、私はここまで上達できたんです！
+[name="Melantha"]     It's all thanks to Franka that I've come as far as I have. She's a great influence on me!
+
+[name="玫兰莎"]     啊......
+[name="メランサ"]     あっ……
+[name="Melantha"]     Oh....
+
+[name="玫兰莎"]     ......抱歉，我有点激动了。
+[name="メランサ"]     ……すみません、少し感情的になってしまいました。
+[name="Melantha"]     ...Sorry, I may have gone a bit overboard.
+
+[name="香草"]     看来玫兰莎小姐和芙兰卡前辈关系很好嘛。
+[name="バニラ"]     いえ！　メランサさんはフランカ先輩のこと、すごく尊敬されてるんですね。
+[name="Vanilla"]     You two are actually pretty close.
+
+[name="香草"]     嗯，看来前辈也有在好好教导剑术，那我就放心了。
+[name="バニラ"]     それに先輩もしっかり剣術の先生をされているようだし、安心しました。
+[name="Vanilla"]     But I'm glad to know that Franka is a good teacher anyway. I won't worry.
+
+[name="香草"]     芙兰卡前辈的剑术真的很厉害，在黑钢的时候，交流会上单比剑术我还没见前辈输过！
+[name="バニラ"]     フランカ先輩の剣術は本当にすごいですよね。BSWにいた頃、交流会で練習試合があったんですが、私、先輩の負けた姿なんて見たこともありませんから！
+[name="Vanilla"]     Franka is a great swordmaster. I've never seen her lose a sparring match to anyone in Blacksteel.
+
+[name="玫兰莎"]     师傅很厉害，我要学习的还有很多。
+[name="メランサ"]     はい、師匠はすごいです。私が学ぶべきことはまだまだたくさんあります。……あっ。
+[name="Melantha"]     Master is amazing. I have a lot more to learn.
+
+[name="玫兰莎"]     啊，那个，对不起，到时间了，我该走了。
+[name="メランサ"]     あの、ごめんなさい。時間なのでそろそろ行かないと……
+[name="Melantha"]     Oh, right. Sorry, but it's time for me to go.
+
+[name="玫兰莎"]     和安赛尔约好了，今天要做一个常规检查。
+[name="メランサ"]     アンセルさんに定期検査をしてもらう約束があるんです。
+[name="Melantha"]     I have an appointment with Ansel for a routine checkup today.
+
+[name="香草"]     常规检查？
+[name="バニラ"]     定期検査？
+[name="Vanilla"]     Routine checkup?
+
+[name="玫兰莎"]     嗯。是矿石病的检查......
+[name="メランサ"]     はい。鉱石病の検査です……
+[name="Melantha"]     Yes. For Oripathy...
+
+[name="香草"]     ......这样啊。
+[name="バニラ"]     ……そうなんですね。
+[name="Vanilla"]     ...Oh.
+
+[name="史都华德"]     咦，怎么这么频繁，我记得前两天不是刚检查过？
+[name="スチュワード"]     ええっ、また？　ちょっと頻繁過ぎじゃない？　ついこの前検査したばかりじゃなかったっけ？
+[name="Steward"]     What, again? Didn't you just get checked the day before yesterday?
+
+[name="史都华德"]     而且上次检查之后，医疗组那边给你换了新的药剂吧？
+[name="スチュワード"]     しかもその時、医療チームが新しい薬に変えてくれたんだよね？
+[name="Steward"]     And Medical gave you a new drug after the last checkup, right?
+
+[name="玫兰莎"]     嗯，换了新药，所以要去复查一下。
+[name="メランサ"]     はい、新しい薬に変えたので効果を調べるために、再検査が必要なんです。
+[name="Melantha"]     Yes. It's because they want to keep tabs on my new medication.
+
+[name="玫兰莎"]     不用担心，华法琳医生也说，目前病症已经被控制住了。
+[name="メランサ"]     大丈夫です。ワルファリン先生は病状のコントロールはできていると仰っていましたから。
+[name="Melantha"]     Nothing to worry about. Dr. Warfarin says my infection is under control.
+
+[name="史都华德"]     ......是吗，那就好。
+[name="スチュワード"]     ……そうか、それならいいけど。
+[name="Steward"]     ...I'm glad.
+
+[name="史都华德"]     接下来的事情就放心交给我，你快去吧。
+[name="スチュワード"]     じゃあ後は僕に任せて、いってらっしゃい。
+[name="Steward"]     You better get going for now.
+
+[name="香草"]     这次真的很感谢！等玫兰莎小姐的检查结束，如果不介意的话，我们一起去喝茶怎么样？
+[name="バニラ"]     改めてありがとうございました！　メランサさん、もしよければ、検査が終わったら一緒にお茶でもしませんか？
+[name="Vanilla"]     Thanks again! We could get tea when you're done with your checkup, if you have time?
+
+[name="玫兰莎"]     欸，喝茶？......嗯，嗯！好啊！
+[name="メランサ"]     えっ、お茶？　……は、はい！　わかりました！
+[name="Melantha"]     Oh, tea...? Erm, yeah! Sounds good!
+
+[name="玫兰莎"]     那就说好了！
+[name="メランサ"]     ではまた後で！
+[name="Melantha"]     It's a date!
+
+[name="玫兰莎"]     史都华德，接下来就拜托了。
+[name="メランサ"]     スチュワードさん、後のこと、よろしくお願いします。
+[name="Melantha"]     Thank you again for your help, Steward.
+
+[name="史都华德"]     ......
+[name="スチュワード"]     ……
+[name="Steward"]     .......
+
+[name="史都华德"]     谢谢你，香草小姐。
+[name="スチュワード"]     ありがとう、バニラさん。
+[name="Steward"]     And thank you, Vanilla.
+
+[name="香草"]     嗯？什么？
+[name="バニラ"]     えっ？　何がですか？
+[name="Vanilla"]     Me? Huh?
+
+[name="史都华德"]     没什么。不要在意。
+[name="スチュワード"]     いや、なんでもない。気にしないで。
+[name="Steward"]     Nothing. Never mind.
+
+[name="香草"]     嗯？
+[name="バニラ"]     あっ、はい……。あの……
+[name="Vanilla"]     Oh?
+
+[name="香草"]     总感觉......玫兰莎小姐好像改变了不少，变得爱笑了。
+[name="バニラ"]     なんだか……メランサさんは変わりましたね。前よりよく笑うようになったというか……
+[name="Vanilla"]     I feel like... Melantha changed a lot. She's in such a good mood now.
+
+[name="史都华德"]     香草小姐也这么觉得？比起我们刚组成小队的时候，玫兰莎小姐现在要自信得多了。
+[name="スチュワード"]     バニラさんもそう思う？　A4ができたばかりの頃と比べたら、メランサはとても自信が付いたよね。
+[name="Steward"]     You think so too? Melantha is much more confident now than when we first formed the squad.
+
+[name="香草"]     自信......吗？嗯，没错，就是自信。
+[name="バニラ"]     自信……ですか？　そっか、自信か……
+[name="Vanilla"]     Confident...? Oh, yes, it's confidence.
+
+[name="香草"]     一直觉得罗德岛的大家，和我曾经见过的感染者有哪里不太一样，大概就是因为大家都还在努力生活，并不看轻自己吧？
+[name="バニラ"]     ロドスの皆さんは、これまでに見てきた感染者たちと違うように感じていましたが、それは皆さんがいつでも努力し続けていて、自分のことを決して軽んじないからなんですよね。
+[name="Vanilla"]     I've always felt that Rhodes Islanders are different from the Infected I've met in the past. I think it's because you all... live. You keep pushing so hard to live your lives, if that makes sense?
+
+[name="香草"]     有的时候我甚至会忘记大家是感染者这件事。
+[name="バニラ"]     私時々、皆さんが感染者だってことを忘れてしまいます。
+[name="Vanilla"]     Sometimes I forget about the whole infection thing altogether.
+
+[name="香草"]     真不可思议。
+[name="バニラ"]     不思議ですね。
+[name="Vanilla"]     It's really incredible.
+
+[name="史都华德"]     哈哈，不可思议吗，我倒不这么觉得。
+[name="スチュワード"]     ハハッ、不思議かな。僕はそう思わないけど。
+[name="Steward"]     Hah. Incredible? No, I don't think so.
+
+[name="史都华德"]     罗德岛虽然也被迫卷进了不少事情里，但本质上还是医药公司，一直都是以药物的研发和对感染者的救治作为核心。
+[name="スチュワード"]     ロドスはいつも色んなことに巻き込まれるけど、基本はやっぱり製薬会社だし、薬の研究開発と感染者の治療が一番の中核にあるからね。
+[name="Steward"]     Rhodes Island has been forced to get involved in a lot of things, but it's still essentially a pharmaceutical company. It's always been mostly about developing medicine and the treatments for the Infected.
+
+[name="史都华德"]     会聚集到这里的感染者，本来也都是一些还不愿意放弃自己，还在寻求治疗的人，不是吗。
+[name="スチュワード"]     ここに集まった感染者は、元々諦めたりなんかせずに、治療の道を探していた人たちだよ。そう思わない？
+[name="Steward"]     An Infected person who would make the effort to come here for treatment, she's going to be the type who won't give up on life, right?
+
+[name="香草"]     这么说的话，倒的确是这样。
+[name="バニラ"]     言われてみれば、確かにその通りです。
+[name="Vanilla"]     It makes sense when you put it that way.
+
+[name="史都华德"]     所以很多时候，我们才会更加需要和各种组织合作，补充自身不足的地方......比如说，和黑钢的合作就是这样。
+[name="スチュワード"]     その前向きさがあるからこそ、ロドスは、多くの局面で色んな組織と協定を結んで、自分たちに足りないところを補い、可能性を見出していけるんだ。……BSWとの協定関係だってそうさ。
+[name="Steward"]     That's why we have to work with other organizations to make up for what we don't have.... Such is the case, for example, with Blacksteel.
+
+[name="史都华德"]     能够借助像香草小姐这样的专业人士的力量，我们这些干员的压力也减轻了许多，得要感谢大家才行。
+[name="スチュワード"]     バニラさんみたいなプロの力を借りられると、僕たちオペレーターの負担はとても軽くなる。BSWの皆さんには感謝しないとね。
+[name="Steward"]     Thanks to professionals like you, Vanilla, our operators are under less pressure.
+
+[name="香草"]     哪里，我还算不上是专业人士，现在还是个实习生，前辈们才是有经验的专业雇佣兵！
+[name="バニラ"]     プロだなんて……とんでもないです。私はまだ実習生ですから。プロと呼べるのは経験豊富な先輩たちだけです！
+[name="Vanilla"]     No, I'm not even a professional yet. I'm still in training. It's the senior operators who are professional mercenaries.
+
+[name="香草"]     和雷蛇前辈他们可能不太一样，我是参加了考核，才拿到的到罗德岛的交换名额。
+[name="バニラ"]     私はリスカム先輩たちとは違って、テストを受けてやっとロドスに来る資格を得ましたしね。
+[name="Vanilla"]     Liskarm and the others didn't have to take a test to come here, like I did.
+
+[name="史都华德"]     考核？
+[name="スチュワード"]     テスト？
+[name="Steward"]     A test?
+
+[name="香草"]     嗯，考核。实战和笔试都有。
+[name="バニラ"]     はい、実戦と筆記の試験を受けました。
+[name="Vanilla"]     Yes. Both practical and written exams.
+
+[name="香草"]     为了笔试能合格，我还在图书室通宵了整整一个礼拜！
+[name="バニラ"]     筆記試験の前は、図書室で一週間も寝ずに勉強したんですよ！
+[name="Vanilla"]     I spent a week in the library preparing for that written test. I didn't even sleep!
+
+[name="史都华德"]     ......哈哈哈，真是辛苦了。
+[name="スチュワード"]     ……ははは、それはご苦労さまでした。
+[name="Steward"]     ...Hah hah. You're a hard worker.
+
+[name="史都华德"]     不过有点意外啊，这样听起来，黑钢对合作好像比我想得要看重一些。
+[name="スチュワード"]     でもちょっと意外だな。話を聞いた感じ、BSWは協定関係のことを想像以上に重要視してるみたいだね。
+[name="Steward"]     That's a bit of a surprise though. Blacksteel is more serious about our cooperation agreement than I thought.
+
+[name="香草"]     怎么说呢......因为矿石病的爆发，所以黑钢内部其实也有不少佣兵被感染。
+[name="バニラ"]     重要視というか……どう説明したらいいでしょう……鉱石病が爆発的に広がったことで、BSWの中にもたくさんの感染者が出てきたんです。
+[name="Vanilla"]     Why would you say that...? Since the Oripathy Crisis began, a lot of Blacksteel mercenaries got Infected.
+
+[name="香草"]     组织里倒是还好，对于雇佣兵来说，矿石病大概也不怎么可怕，毕竟我们本身的工作在一般人看来就挺危险的。
+[name="バニラ"]     とはいえ、組織内ではどうと言うことはありません。傭兵という立場から見て、鉱石病はそこまで怖いものではないんですよ。私たちの仕事は元々、普通の人からすればとても危険なものですから。
+[name="Vanilla"]     We're okay, though. And Oripathy isn't that scary to us mercenaries. Our work is dangerous enough already.
+
+[name="史都华德"]     毕竟不管哪一种，都是会要命的。
+[name="スチュワード"]     どちらにせよ常に命を落とすリスクと向き合ってるってことだね。
+[name="Steward"]     You'll die in the end either way.
+
+[name="香草"]     是的。
+[name="バニラ"]     はい。
+[name="Vanilla"]     Right.
+
+[name="香草"]     可是，虽然我们不怎么在意，但委托方却大多不太愿意雇佣感染者。接到的委托变少，赚不到钱，估计让上头的人也很头痛。
+[name="バニラ"]     ですが、私たちが気にしなくても、感染者を雇うことに難色を示す依頼主は多かったようです。依頼は徐々に少なくなり、資金繰りの問題で上層部も頭を悩ませたのでしょう。
+[name="Vanilla"]     On the other hand, some clients don't want to hire Infected. So we're getting fewer contracts, making less money, and probably causing some headaches for the bosses.
+
+[name="香草"]     和罗德岛的合作，大概就是从那个时候开始的吧？我从芙兰卡前辈那里听过一点，具体的就不太清楚了。
+[name="バニラ"]     ロドスとの協定関係は、恐らくその頃から始まったはずです。フランカ先輩から少し伺ったことがあります……具体的なことはわかりませんが。
+[name="Vanilla"]     I think that's around the time we started cooperating with Rhodes Island? Franka told me about it, but I don't know the details.
+
+[name="史都华德"]     原来如此......
+[name="スチュワード"]     なるほどね……
+[name="Steward"]     I see...
+
+[name="香草"]     也幸好我有拿到名额，才能像现在这样，见到许多从没见过的东西，接触许多不同的人，每一天都非常充实！
+[name="バニラ"]     私は運よく選考に通ったおかげで、これまで見たことのない世界に飛び込めたんです。たくさんの人にも出会えましたし、ここでの毎日はとても充実しています！
+[name="Vanilla"]     And I'm very lucky I got to come here and see so many things and meet so many people I never would've encountered before. Every single day! It's really fulfilling.
+
+[name="香草"]     还有，食堂每周一次的免费甜点实在是太好吃了！交换来这里之后，我可能已经长胖了好多......
+[name="バニラ"]     それと、食堂で週一回出される無料スイーツが本当に美味しくて！　私、ロドスに来てから、かなり太ったかもしれません……
+[name="Vanilla"]     Not to mention free dessert in the cafeteria once a week! I've probably gained a lot of weight since coming here...
+
+[name="史都华德"]     没这回事。只要保持营养均衡，多吃一点也很好，不过不建议暴饮暴食哦，健康是最重要的。
+[name="スチュワード"]     そんなことないさ。栄養のバランスが取れてれば、ちょっとくらい多く食べても大丈夫だよ。でも暴飲暴食はダメだよ。身体によくないからね。
+[name="Steward"]     Probably not. As long as you keep your nutrition balanced, it's good to eat a little more. Take care not to overeat, but health is what matters.
+
+[name="香草"]     不不不，史都华德先生你不懂！
+[name="バニラ"]     いやいやいや、お気遣いはありがたいですが、スチュワードさんはわかってません！
+[name="Vanilla"]     No, no, no, Steward, you don't understand!
+
+[name="香草"]     和别人觉得行不行没关系，这是会影响自己心情的问题！
+[name="バニラ"]     それに問題は、他の人がどう思うかではないんです。私自身が太ってるって思ってしまったら、もうダメなんです！
+[name="Vanilla"]     It's not about what other people think, it's about how it affects your mood!
+
+[name="史都华德"]     这、这样啊？
+[name="スチュワード"]     そ、そうなの？
+[name="Steward"]     O- oh is that right?
+
+[name="？？？"]     对对，说得没错，小香草很懂嘛。
+[name="？？？"]     そうそう、その通りだよ。バニラはよく分かってるね。
+[name="???"]     Damn straight. Vanilla knows what she's talking about.
+
+[name="香草"]     啊，煌小姐！......咦。
+[name="バニラ"]     あ、ブレイズさん！　……あれっ。
+[name="Vanilla"]     Ah, Blaze...! Oh.
+
+[name="香草"]     煌小姐，这个孩子是......？
+[name="バニラ"]     あの、その子は……？
+[name="Vanilla"]     Blaze, who is this little girl...?
+
+[name="煌"]     你问这个小萝卜头？这姑娘叫朵拉，是我的一个小朋友。
+[name="ブレイズ"]     このガキンチョはドーラ、私の小さなお友達だよ。
+[name="Blaze"]     This little rascal? She's Dora, one of my adorable little friends.
+
+[name="煌"]     唉，怎么还叫小姐，都说了不用敬语了，你这家伙脑筋真硬。
+[name="ブレイズ"]     それより、まださん付けで呼ぶなんて。敬語はいらないって言ったでしょ、頭が固いんだから。
+[name="Blaze"]     And please, try to chill out, Vanilla. I don't want you trying to trade business cards with a child.
+
+[name="朵拉"]   ......哥哥姐姐好。
+[name="ドーラ"]   ……お兄ちゃん、お姉ちゃん、こんにちは。
+[name="Dora.."]   ...Nice to meet you.
+
+[name="香草"]     呃，你好。
+[name="バニラ"]     あっ、こんにちは。
+[name="Vanilla"]     Uh, hello.
+
+[name="史都华德"]     下午好，朵拉小姐，今天有乖乖吃药吗？
+[name="スチュワード"]     やあ、ドーラお嬢様。今日はお利口に薬を飲んだかな？
+[name="Steward"]     Good afternoon, Miss Dora. Did you take your medicine today?
+
+[name="朵拉"]     （点头）
+[name="ドーラ"]     （頷く）
+[name="Dora"]     (nodding)
+
+[name="煌"]     却以药太苦为借口，拉着我讲了半个小时故事书。
+[name="ブレイズ"]     薬が苦いって騒いで、飲む代わりに私に三十分も本の読み聞かせをさせたくせに。
+[name="Blaze"]     She pulled a half an hour of storybook time out of me on account of it tasted too bitter.
+
+[name="煌"]     小坏蛋，别以为我不知道，上次你说药苦，凯尔希医生之后就改良了药水的口味！
+[name="ブレイズ"]     ほんっとこずるいガキンチョなんだから。この前だって薬が苦くて飲めないとか言って、ケルシー先生に味を変えてもらった話、私は知ってるんだから！
+[name="Blaze"]     I'm onto you, little rascal. You said it was too bitter last time too, and Dr. Kal'tsit fixed up the taste!
+
+[name="朵拉"]     是、是很难喝嘛！煌姐姐不也说难喝！
+[name="ドーラ"]     ま、不味いものは不味いよ！　ブレイズお姉ちゃんだって不味いって言ってたでしょ！
+[name="Dora"]     B- but it is bad! You said so yourself!
+
+[name="煌"]     我喝的那种不一样，别想找借口。
+[name="ブレイズ"]     私が飲んでるのは別の薬だよ、言い訳はやめなさい。
+[name="Blaze"]     I don't take the same stuff as you. No excuses.
+
+[name="朵拉"]     呜。
+[name="ドーラ"]     うう。
+[name="Dora"]     Aww.
+
+[name="朵拉"]     啊，该回去了......
+[name="ドーラ"]     あ、お姉ちゃん、私もう戻らないと……
+[name="Dora"]     Um, I need to go...
+
+[name="煌"]     嗯？
+[name="ブレイズ"]     えっ？
+[name="Blaze"]     Huh?
+
+[name="煌"]     哦，到上课的时间了？
+[name="ブレイズ"]     ああ、授業の時間？
+[name="Blaze"]     Oh, it's time for class?
+
+[name="朵拉"]     嗯，医疗姐姐教我们做手工，今天学折纸花！
+[name="ドーラ"]     うん、医療部のお姉ちゃんが図工を教えてくれるの。今日は折り紙でお花を作るんだ！
+[name="Dora"]     Yes. The medic lady said she'd teach us how to make paper flowers today!
+
+[name="煌"]     那我用糖果来换，你学会了也帮我折一朵呗？
+[name="ブレイズ"]     じゃあできるようになったら、キャンディと交換で私にも一つ折ってくれる？
+[name="Blaze"]     Will you make one for me? I'll give you a candy.
+
+[name="朵拉"]     嘿嘿嘿，那我考虑一下哦。
+[name="ドーラ"]     へへへ、考えとく！
+[name="Dora"]     Hehehehe, I'll think about it.
+
+[name="朵拉"]     哥哥姐姐拜拜！
+[name="ドーラ"]     お兄ちゃん、お姉ちゃん、バイバイ！
+[name="Dora"]     Bye-bye, Mister, Miss!
+
+[name="史都华德"]     慢点，慢点，别跑太快，小心摔跤——
+[name="スチュワード"]     ゆっくり、ゆっくり！　そんなに走ると転ぶ――
+[name="Steward"]     No running in the halls! You'll fall and hurt your——
+
+[name="史都华德"]     啊......摔了。
+[name="スチュワード"]     あ……転んだ。
+[name="Steward"]     Oof... she fell.
+
+[name="煌"]     这小鬼......
+[name="ブレイズ"]     あのおバカ……
+[name="Blaze"]     This kid....
+
+[name="香草"]     哈哈，真有活力。
+[name="バニラ"]     ハハ、本当に元気ですね。
+[name="Vanilla"]     Haha, she's got a lot of energy.
+
+[name="煌"]     是吧，看起来文文静静的，其实放着不管就能上房揭瓦，只能拿华法琳来吓唬她乖乖听话......算了，不提这个。
+[name="ブレイズ"]     そうでしょ。見た目は大人しそうな子なのに、放っとくと暴れまわるんだ。ワルファリンの名前で脅して大人しくさせるしか……って話は置いといて――
+[name="Blaze"]     Yeah, she looks quiet, but she's a wrecking ball. Warfarin has to scare her into behaving... Doesn't matter. Anyway.
+
+[name="煌"]     你们两凑在一起挺少见啊，小香草，平时不都是跟黑钢那几个一起的？干嘛，阿米娅终于打算要搞我们和合作伙伴的联欢会了？
+[name="ブレイズ"]     君たち二人が一緒にいるのは珍しいね。バニラはいつもBSWの人たちといるのに何事？　あっ、もしかしてアーミヤちゃんがついに取引先とのコンパでも企画したとか？
+[name="Blaze"]     I've never seen you two hang out. Aren't you usually with the Blacksteel girls, Vanilla? Did Amiya organize a mixer?
+
+[name="香草"]     欸？这、不是......
+[name="バニラ"]     えっ？　違……
+[name="Vanilla"]     Huh? This... we're not...
+
+[name="史都华德"]     煌小姐，就别开这样的玩笑了！
+[name="スチュワード"]     ブレイズさん、急に変な冗談はやめてよ。
+[name="Steward"]     Blaze, don't joke!
+
+[name="煌"]     听起来像玩笑吗？可惜，其实我还真挺想开个联欢会，大家一起放松放松的。
+[name="ブレイズ"]     冗談に聞こえる？　残念だけど、私は本当にコンパでも開けばいいのにって思ってるよ。みんな一緒に普段の疲れを癒せるようなさ。
+[name="Blaze"]     Did that sound like a joke? Honestly, I think we should have a mixer where we all get together and relax.
+
+[name="史都华德"]     会有机会。而且，私下里不是已经办过好多场了吗？煌小姐都喝吐好几个合作方干员了。
+[name="スチュワード"]     まぁ……機会はあると思うよ。それにブレイズさんは何回もやってるでしょ？　それでどれだけ取引先の人を酔い潰したことか……飲ませすぎだよブレイズさん。
+[name="Steward"]     I'm sure we'll make time. And anyway, haven't we had a few private functions? I know I've seen Blaze drinking and puking with quite a few contract operators.
+
+[name="煌"]     那都是私下里，那不一样！
+[name="ブレイズ"]     それはプライベートのやつでしょ、正式な催事じゃないよ！
+[name="Blaze"]     Those don't count!
+
+[name="香草"]     原来上次雷蛇前辈说的，噩梦一样的联欢酒会，就是这么回事啊......
+[name="バニラ"]     前にリスカム先輩が言ってた悪夢のような飲み会って、そういうことだったんですね……
+[name="Vanilla"]     That must be the "boozy nightmare" Liskarm talks about sometimes...
+
+[name="香草"]     对了，刚刚那个女孩，也是罗德岛的人吗？
+[name="バニラ"]     そういえば、さっきの子もロドスの方ですか？
+[name="Vanilla"]     By the way, was that little girl a Rhodes Islander?
+
+[name="史都华德"]     朵拉吗？她是来这里治疗的，也算是编内人员吧？
+[name="スチュワード"]     ドーラのこと？　彼女は元々は治療に来た子だったけど、まぁロドス所属と言っても差し支えないよね？
+[name="Steward"]     Dora? She's here for treatment, so I think she counts?
+
+[name="煌"]     算。不过和你我的档案归类都不同，战斗人员在人事档案上都是做特殊处理的，另外后勤档案也是单独管理的......吧？
+[name="ブレイズ"]     そうだね。でも管轄は私たちと違うよ。戦闘員の人事記録は特殊な処理がされてるし、後方支援部の記録も単独で管理されてる……はずだよね？
+[name="Blaze"]     Yes. But we're classified differently. Combat personnel are different from logistics personnel, and there's a few others. It's all HR stuff... you know?
+
+[name="史都华德"]     怎么语气这么不确定......
+[name="スチュワード"]     そんな自信なさげに言われても……
+[name="Steward"]     You sound unsure...
+
+[name="煌"]     这方面我不熟嘛。
+[name="ブレイズ"]     だってそっち方面には明るくないから。
+[name="Blaze"]     It's not my wheelhouse.
+
+[name="煌"]     怎么，很在意朵拉？
+[name="ブレイズ"]     どうしたの、ドーラが気になる？
+[name="Blaze"]     Why are you so fixated on Dora?
+
+[name="香草"]     这个，的确有一点。我刚来的时候好像也见过她......
+[name="バニラ"]     はい、私がここに来たばかりの頃、あの子に会ったことがあるような気がして……
+[name="Vanilla"]     I don't know. I guess I'm just curious. I saw her when I first got here too...
+
+[name="煌"]     说说？
+[name="ブレイズ"]     詳しく言ってみて？
+[name="Blaze"]     Oh?
+
+[name="香草"]     那个时候，我来找博士递交我的档案资料，有个长得很可爱的感染者女孩和她的父母就在门外等候。
+[name="バニラ"]     はい。あれはドクターに、私の資料をお届けに上がった時でした。可愛らしい感染者の女の子と、彼女の両親が扉の外で待ってたんです。
+[name="Vanilla"]     I came to give the Doctor my paperwork and there was this cute Infected girl and her parents waiting outside the door. .
+
+[name="香草"]     那个女孩虽然还很小，但是很懂事，不吵也不闹，就一直抱着一个破破烂烂的玩偶。
+[name="バニラ"]     まだ小さい子でしたが、すごくお利口で落ち着いていました。そしてボロボロになったぬいぐるみをずっと抱きしめてました。
+[name="Vanilla"]     The girl, though still small, was very well-behaved. She just held onto her tattered doll. She didn't make a sound
+
+[name="香草"]     明明也没什么大不了的，但总觉得有点在意。
+[name="バニラ"]     なんてことない光景でしたが、何だか気になってしまって。
+[name="Vanilla"]     It was no big deal. But it made an impression.
+
+[name="煌"]     那就没错了，的确是朵拉，她那个玩偶破得不行了，我说要给她买个新的，她又不干，最后还是去拜托柏喙帮她缝补了一下。
+[name="ブレイズ"]     それは間違いなくドーラだね。あのぬいぐるみはひどい状態だったからさ、新しいのを買ってあげるって言ったんだけど、いらないって意地張っちゃってね。結局バイピークに直してもらったよ。
+[name="Blaze"]     That must have been Dora. That doll was a mess. I told her I'd buy her a new one, but she wouldn't have it. I ended up getting Bibeak to stitch it up for her.
+
+[name="香草"]     果然是......
+[name="バニラ"]     やっぱり……
+[name="Vanilla"]     So it was her....
+
+[name="史都华德"]     那孩子我记得......是维多利亚人吧。
+[name="スチュワード"]     彼女は確か……ヴィクトリア人だったよね。
+[name="Steward"]     I think I remember she's... Victorian, right?
+
+[name="煌"]     听说是？她病历上写的是被卷进了街头争斗，吸入了过量的源石粉末。
+[name="ブレイズ"]     そうだったと思う。カルテには街での小競り合いに巻き込まれて、大量の源石粉末を吸い込んだって書いてあった。
+[name="Blaze"]     I think so. Her medical records say she was involved in a street fight and inhaled a bunch of Originium dust.
+
+[name="煌"]     我之前帮芙蓉哄这小孩打针的时候看过一眼。
+[name="ブレイズ"]     ハイビスに頼まれて、注射をするように諭してる時にちらっと見たんだけどね。
+[name="Blaze"]     I took a look at it before, when I was helping Hibiscus give her some shots.
+
+[name="史都华德"]     那个病房的孩子，遭遇虽然各有不同，但现在的处境都很相似。
+[name="スチュワード"]     あの病室の子たちは、みんな元々の境遇は違うけど、今の状況はどれも似通ってる。
+[name="Steward"]     The children in that ward come from different backgrounds, but they are all in the same place now.
+
+[name="史都华德"]     卡缇经常去陪孩子们玩，安赛尔也总会在晚上发药之后留下来给他们说说故事什么的，大家都是很乐观的好孩子。
+[name="スチュワード"]     でも全員、明るくていい子たちさ。カーディはいつも一緒に遊んであげてるし、アンセルも夜に薬を飲ませる時に残って物語を聞かせてあげたりしてるよ。
+[name="Steward"]     Cardigan likes to play with them, and Ansel always stays late after medicating them to tell stories and such. They're all very happy kids.
+
+[name="煌"]     朵拉这丫头明显乐观过头了吧，还总说长大以后要加入我的行动小组，你说她怎么这么想不开？
+[name="ブレイズ"]     明るいのはとても良いことだけどさ、程度ってものがあるでしょ。しかもドーラは、大人になったら私の作戦小隊に入りたいなんて言い出したんだよ。なんであんなに分別がないんだろうね。
+[name="Blaze"]     Dora is especially optimistic. She always says she wants to join my squad when she grows up. Where do you think she gets it from?
+
+[name="史都华德"]     加入煌小姐的小组，那的确是想不开。
+[name="スチュワード"]     ブレイズさんの小隊に入りたいなんて、確かに分別がないね……
+[name="Steward"]     To want to join Blaze's team, she must be a little unhinged.
+
+[name="煌"]     喂。
+[name="ブレイズ"]     おい。
+[name="Blaze"]     Hey.
+
+[name="史都华德"]     这种故事在这里还算挺常见的。光是在医疗组的一个治疗区，估计就能找出好几个拥有类似经历的人。
+[name="スチュワード"]     でもさっきも言ったけど、あの子のような経歴を持つ子はここでは特段珍しいものじゃない。医療チームの医療エリア一つだけで、似た子は何人も見つかると思うよ。
+[name="Steward"]     It's a fairly common story around here. Just pick any of the medical compartments at random and you'll find a few people who've been through similar things.
+
+[name="煌"]     的确不新鲜，这世道真烂透了。
+[name="ブレイズ"]     だろうね。まったく、心底嫌な世の中だよ。
+[name="Blaze"]     Yeah, it's nothing new. The world sucks.
+
+[name="香草"]     ......
+[name="バニラ"]     ……
+[name="Vanilla"]     .......
+
+[name="香草"]     她......是不是病得很重？
+[name="バニラ"]     あの子の病状は……ひどいんですか？
+[name="Vanilla"]     Is she... very sick?
+
+[name="香草"]     而且那家人看起来也并不富裕......不像是能付得起诊金的样子，说实话，我有点没想到居然还能再次看到她。
+[name="バニラ"]     家族の方はあまり裕福そうに見えませんでした……治療費が払えるようにも……。なのに、あの子にまたここで会うなんて……
+[name="Vanilla"]     Her family didn't look rich.... I didn't think they'd be able to afford treatment. Honestly, I kind of didn't expect to see her again.
+
+[name="煌"]     正常来说，如果决策人没疯，的确是不会接受没钱还病得快死掉的病人的。
+[name="ブレイズ"]     まぁ普通に考えたらまともなお偉いさんは、お金もないもうすぐ死んじゃうような病人を受け入れたりはしないね。
+[name="Blaze"]     A normal place, where the bosses have their heads screwed on right, definitely wouldn't take a dying patient with no money.
+
+[name="史都华德"]     这样说真的好吗......哎。
+[name="スチュワード"]     そんな言い方していいのかな……はぁ。
+[name="Steward"]     There's a better way to phrase it.
+
+[name="史都华德"]     不过煌小姐说得对，目前还没有能够治愈矿石病的方法，就算有救治组织，资源也非常有限。
+[name="スチュワード"]     でもブレイズさんの言う通りだ。今のところ鉱石病を完全に治す術はない。もし手当のできる組織があったとしても、資源は限られてるからね。
+[name="Steward"]     But Blaze is right. There is no cure for Oripathy. And even an organization like ours has limited resources.
+
+[name="史都华德"]     ......所以感染者的处境，才会更加艰难。
+[name="スチュワード"]     ……だからこそ感染者の境遇は、ここまで厳しいものになってる。
+[name="Steward"]     ...That's why the Infected are in such a tough position.
+
+[name="香草"]     但是，罗德岛没有拒绝这些人吧！
+[name="バニラ"]     ……でもロドスは、そんな人たちを拒絶したりはしてませんよね！
+[name="Vanilla"]     But Rhodes Island didn't turn them away!
+
+[name="香草"]     罗德岛的规模不小，但要说和真正的大组织相比，却也没有什么可比性，相差太多了。
+[name="バニラ"]     ロドスの規模は決して小さくはないけれど……やっぱり本物の大組織とは比べ物にはなりません。
+[name="Vanilla"]     Rhodes Island isn't small. But I guess you can't say it's a really big organization either.
+
+[name="香草"]     来到罗德岛之后，我看到过很多人。很多感染的人，来到这里求医。
+[name="バニラ"]     ですが私はここに来てから、たくさんの感染者が、ロドスに治療を求めて来る様子を目にしました。
+[name="Vanilla"]     Since coming to Rhodes Island, I've seen a lot of people. A lot of Infected people who came here for medical attention.
+
+[name="香草"]     在这些病人之中，有人站出来，说愿意走上战场。
+[name="バニラ"]     しかもそんな病人の中には、率先して立ち上がり、戦場に出ることもいとわないと言う方もいるようです。
+[name="Vanilla"]     And some of them even came forward and said they were willing to fight.
+
+[name="史都华德"]     A4预备小队的大家都是这样。
+[name="スチュワード"]     そうだね、僕たちA4はそうやってできたんだ。
+[name="Steward"]     All of us in Op Reserve Team A4 did exactly that.
+
+[name="香草"]     史都华德先生也是？
+[name="バニラ"]     スチュワードさんもですか？
+[name="Vanilla"]     You too, Steward?
+
+[name="史都华德"]     当然。
+[name="スチュワード"]     うん。
+[name="Steward"]     Of course.
+
+[name="香草"]     ......
+[name="バニラ"]     ……そうなんですね。
+[name="Vanilla"]     .......
+
+[name="香草"]     在参加黑钢的合作项目之前，我甚至没有听说过这样一个组织。一个......救治感染者，甚至可以不收取任何报酬的组织。
+[name="バニラ"]     私、BSWの協定プロジェクトに参加するまでは、こんな組織があるなんて聞いたことはありませんでした。感染者を時には無償で治療することもある組織なんて。
+[name="Vanilla"]     I hadn't even heard of this place before the Blacksteel partnership. Who could imagine a company..... a company that saves the Infected and doesn't even get paid anything for it.
+
+[name="煌"]     这不对。
+[name="ブレイズ"]     それは違う。
+[name="Blaze"]     That's not quite right.
+
+[name="香草"]     咦？
+[name="バニラ"]     えっ？
+[name="Vanilla"]     Huh?
+
+[name="香草"]     什么，不对？
+[name="バニラ"]     何が違うんですか？
+[name="Vanilla"]     It- it's not?
+
+[name="煌"]     我们不是不收取任何报酬，而是可以‘不收取金钱报酬’。
+[name="ブレイズ"]     「無償」じゃなくて、「金銭以外の報酬で治療を提供することもできる」が正解。
+[name="Blaze"]     It's not that we don't get paid anything. We just get paid without money.
+
+[name="煌"]     单方面的付出那太沉重了，对双方都一样重，没法长久，就算是阿米娅她人再好，也不会去做这样的事。
+[name="ブレイズ"]     報酬を顧みない一方的な援助は重すぎるからね。どちらにとっても重い枷になって長続きしない。アーミヤちゃんは優しい子だけど、それをちゃんとわかってるんだよ。
+[name="Blaze"]     If one side has to pay too much, that's actually a big burden on both sides. An arrangement like that wouldn't last. No matter how sweet Amiya might be, she wouldn't do something like that.
+
+[name="煌"]     我们可以提供治疗，但绝不是免费。
+[name="ブレイズ"]     だから私たちは治療を提供するけど、絶対にタダではやらない。
+[name="Blaze"]     We do provide treatment. But it's definitely not free.
+
+[name="煌"]     看！一个好例子就站在这里！
+[name="ブレイズ"]     そのいい例が、ここに立ってるこいつ！
+[name="Blaze"]     Here, we've got a fine example standing right here!
+
+[name="史都华德"]     哎，煌小姐，再拍我的肩膀可能就要开裂了！
+[name="スチュワード"]     痛っ、ブレイズさん、これ以上叩くと肩が外れちゃうよ！
+[name="Steward"]     Oof, Blaze, you're going to break my shoulder if you keep patting me like that.
+
+[name="煌"]     你可以选择做一切对罗德岛有帮助的事，来换取罗德岛提供的治疗，当然，不仅仅是战斗，不如说战斗人员才是最稀少的那一小撮人。
+[name="ブレイズ"]     何でも良いからロドスに役立つことをしてもらって、その報酬として治療をしてあげるってわけ。もちろん、役に立つっていうのは戦うだけじゃないよ。っていうか、戦闘人員は少数派だしね。
+[name="Blaze"]     You can choose all kinds of different ways to contribute to Rhodes Island in exchange for the treatment we provide. Definitely not just fighting. Us combat operators are actually the rarest bunch.
+
+[name="煌"]     处理书面材料的后勤，维护罗德岛本体正常运作的工程人员，与各个分支点联系的外派员还有日常的采购和清洁人员......
+[name="ブレイズ"]     デスクワークをする後方支援部、ロドス艦船のメンテナンスをするエンジニア、各拠点と連絡を取る出向スタッフ、それに資材調達をする購買部、清掃員……
+[name="Blaze"]     We got logistics to handle the paperwork, engineerings to keep Rhodes Island itself trucking along, envoys to go talk to other organizations, not to mention procurement and cleaning staff...
+
+[name="煌"]     甚至你想去食堂洗碗，都没问题。只要你想，只要有益。
+[name="ブレイズ"]     食堂で皿洗いをしたっていい。君にできることで、ロドスにとって有益なことなら。
+[name="Blaze"]     Even if you want to wash dishes in the cafeteria, that's fine. As long as it helps, you can do it.
+
+[name="史都华德"]     再听一遍，还是觉得这真是理想化的想法。
+[name="スチュワード"]     改めて聞いても、理想論的な考え方だよね。
+[name="Steward"]     Hearing it again, it does sound pretty idealistic.
+
+[name="煌"]     讨厌吗？
+[name="ブレイズ"]     そういうの、嫌い？
+[name="Blaze"]     Is that bad?
+
+[name="史都华德"]     完全不。
+[name="スチュワード"]     いえ、全く。
+[name="Steward"]     Not at all.
+
+[name="煌"]     （吹口哨）
+[name="ブレイズ"]     （口笛）
+[name="Blaze"]     (whistling)
+
+[name="香草"]     可是，可是！像朵拉这样的小孩子，又能帮罗德岛什么呢？
+[name="バニラ"]     ですが、ですが！　ドーラさんのように小さな子が、ロドスのためにできることなんてあるんですか？
+[name="Vanilla"]     But, but! What can a little kid like Dora do to help Rhodes Island?
+
+[name="煌"]     你看，他们接下来要学习折纸花。
+[name="ブレイズ"]     さっき聞いたでしょ、これから折り紙を習うって。
+[name="Blaze"]     You saw, they're about to learn how to make origami flowers.
+
+[name="香草"]     啊？
+[name="バニラ"]     えっ？
+[name="Vanilla"]     Huh?
+
+[name="煌"]     他们折的纸花，接下来会用来装饰联欢会的会场，会发给每一个回到舰船上的干员。
+[name="ブレイズ"]     あの子たちが折った折り紙は、コンパ会場の飾り付けに使うし、外から戻ってきたオペレーターに渡して労ってあげることだってできる。
+[name="Blaze"]     The paper flowers they fold will be used to decorate the mixer. Then they'll be given to every operator as they come back to Rhodes Island.
+
+[name="史都华德"]     什么时候定的联欢会？
+[name="スチュワード"]     コンパなんていつ決まったの？
+[name="Steward"]     Since when is there a mixer?
+
+[name="煌"]     刚刚。我定的。
+[name="ブレイズ"]     今。私が決めた。
+[name="Blaze"]     Just now. I decided.
+
+[name="史都华德"]     ......
+[name="スチュワード"]     ……
+[name="Steward"]     ........
+
+[name="煌"]     这不重要，重要的是，劳有所得，这些小家伙干的活和我干的活看起来不同，但其实对罗德岛来说都很重要。
+[name="ブレイズ"]     まぁそれはいいとして、やっぱり働いた分の報酬があるってことが大事。あの子たちと私の仕事の内容は違って見えるけど、ロドスにとってはみんな重要なものだよ。
+[name="Blaze"]     Whatever. The point is there's work to be done. And the work those little guys do looks a little different from the work I do, but it's all important to Rhodes Island.
+
+[name="煌"]     说真的，我知道你们有人私下里说罗德岛是黑心企业是不？
+[name="ブレイズ"]     そう言えば、君たちの中でこっそり、ロドスがブラック企業だなんて言ってる人がいるでしょ。私は知ってるんだから。
+[name="Blaze"]     Now let's be real. I know you guys have been calling our company a sweatshop.
+
+[name="香草"]     那是开玩笑，开玩笑而已！
+[name="バニラ"]     あれは冗談です、冗談ですよ！
+[name="Vanilla"]     That was a joke. Just a joke!
+
+[name="煌"]     没事儿，我想逗逗博士的时候也是这么说的。
+[name="ブレイズ"]     いや別に良いって。小さな子にも仕事があるってだけ聞いたらそう思うのも当然だし、私もドクターをイジメる時にそうやって言ってるから。
+[name="Blaze"]     Yeah, sure. That's what I say when I tease the Doctor.
+
+[name="香草"]     煌小姐！认真一点啦......！
+[name="バニラ"]     ブレイズさん！　あまりからかわないでください……！
+[name="Vanilla"]     Blaze, please!
+
+[name="史都华德"]     嗯......我的想法可能和煌小姐不太一样。
+[name="スチュワード"]     うーん……僕の考え方はブレイズさんとはちょっと違うかな。
+[name="Steward"]     Hmmm.... My opinion is a bit different from that of Blaze.
+
+[name="史都华德"]     我们之中，有一些人用为罗德岛做事为条件，来换取治疗，而更多的人另有自己要做的事，只是恰巧和罗德岛的方向一致。
+[name="スチュワード"]     ロドスのために何かすることで治療を受けている人もいるけど、自分のやりたいことがあって、たまたまそれがロドスの向かっている方向と同じだからここにいるって人は、もっと多い。
+[name="Steward"]     There are some of us who trade our labor to Rhodes Island in exchange for treatment, and many more who coincidentally have interests aligned with the company.
+
+[name="史都华德"]     当然，也有许多真正相信阿米娅他们的理念，愿意为此献出一切的人在。
+[name="スチュワード"]     もちろん、アーミヤさんたちの理念を心から信じて、そのために尽力してるって人だってたくさんいる。
+[name="Steward"]     Of course, there are many who truly believe in Amiya and her philosophy and are willing to give everything to that end.
+
+[name="煌"]     （口哨）
+[name="ブレイズ"]     （口笛）
+[name="Blaze"]     (whistles)
+
+[name="史都华德"]     大家未必拥有相同的意志，只是恰巧在这条路上方向一致，才在这一刻并肩。
+[name="スチュワード"]     皆が皆全く同じ意思を持ってるってわけじゃないけど、目指す方向がちょうど同じだから、肩を並べて戦えるんだ。
+[name="Steward"]     But we don't necessarily all share those ideals. Sometimes, we just happen to be on the same path in the same direction, and end up side by side in this moment.
+
+[name="香草"]     我好像明白点了，但是......
+[name="バニラ"]     なんとなく分かりました、ですが……
+[name="Vanilla"]     I think I understand, but...
+
+[name="史都华德"]     没关系，不用想得太复杂也可以。
+[name="スチュワード"]     あまり複雑に考えないで、バニラさん。
+[name="Steward"]     It's all right. You don't have to think about it too much.
+
+[name="史都华德"]     在我看来，现在就很好了，大家都在一点点地变得更好，这种感觉真的很让人开心。
+[name="スチュワード"]     僕からすれば、今だって十分悪くない状態だよ。みんな少しずつより良い方向に変わりつつあるって感覚は、とても喜ばしいものさ。
+[name="Steward"]     The important thing is that we're all getting a little bit better. Things are good for now. People are happy.
+
+[name="史都华德"]     香草小姐也是，最近笑容变多了呢。
+[name="スチュワード"]     バニラさんだって、最近笑顔が増えたしね。
+[name="Steward"]     As are you, Vanilla. You've been smiling a lot lately.
+
+[name="香草"]     欸，欸，是这样吗？
+[name="バニラ"]     えっ、ええっ、そうですか？
+[name="Vanilla"]     O- oh, I have?
+
+[name="香草"]     可能就是因为在罗德岛很充实吧，虽然还是有很多不习惯的东西......
+[name="バニラ"]     ロドスでの生活が充実しているからかもしれません。まだ慣れないこともたくさんありますが……
+[name="Vanilla"]     It's probably just because I'm so fulfilled here at Rhodes Island. Although there's still a lot of things I'm not used to....
+
+[name="香草"]     比如说会突然自动打开的门之类的，还有，上次在走道里的时候，医疗车突然朝我搭话......我真的吓了一跳！
+[name="バニラ"]     例えば急に自動で開く扉とか……あと、廊下を歩いていると急に医療ロボットに話しかけられたりして……とても驚きました！
+[name="Vanilla"]     Like doors that suddenly open on their own. And the last time I was in the corridor, some medical device suddenly started talking to me... I jumped out of my skin!
+
+[name="史都华德"]     哈哈哈，看来香草小姐真的很不擅长应付这种类型的东西。
+[name="スチュワード"]     ハハハ、バニラさんはそういうものは本当に苦手みたいだね。
+[name="Steward"]     Hahaha. I suppose you aren't used to such things.
+
+[name="史都华德"]     安德切尔上次还和我说，他帮能天使小姐做的玩具橡皮筋铳，被香草小姐直接掰断了一把。
+[name="スチュワード"]     そういえばアドナキエルが言ってたな。エクシアさんに作ってあげた輪ゴム銃をバニラさんにへし折られたって。
+[name="Steward"]     Adnachiel was telling me about the rubber band launcher he helped Exusiai make. He said you snapped it in half.
+
+[name="香草"]     原来那个是他做的吗？！
+[name="バニラ"]     あれはアドナキエルさんが作ったものだったんですか！？
+[name="Vanilla"]     He made that?!
+
+[name="香草"]     对、对不起，因为被跳出来的皮筋吓了一跳，所以下意识就......
+[name="バニラ"]     ご、ごめんなさい。飛び出してきた輪ゴムに驚いてしまって反射的に……
+[name="Vanilla"]     S- sorry, the rubber band startled me so, I acted on instinct...
+
+[name="香草"]     真的很抱歉！！
+[name="バニラ"]     本当に申し訳ありません！
+[name="Vanilla"]     I'm really sorry!!!
+
+[name="史都华德"]     没关系的，安德切尔并没有生气，他这个人就是这样，话不多，但心地不坏。
+[name="スチュワード"]     大丈夫だって、アドナキエルは怒ってないよ。あいつはたくさん喋る方じゃないから何を考えてるか分かりづらいけど、悪いやつじゃないんだ。
+[name="Steward"]     That's okay, Adnachiel wasn't angry. He's a man of few words, but he's a gentle soul.
+
+[name="史都华德"]     这我可以作证。
+[name="スチュワード"]     それは僕が保証するよ。
+[name="Steward"]     I can testify to that.
+
+[name="史都华德"]     不过，嗯，如果他再拿着什么奇怪的机械去找你，给你造成困扰的话，可以来找我，或者玫兰莎小姐都可以。
+[name="スチュワード"]     だけど、そうだね、もしまたあいつが変な機械を持って来て君を困らせようとしたら、僕かメランサに言うといいよ。
+[name="Steward"]     But, um, if he ever comes to you with any more inventions that cause you trouble, do let me know. Or Melantha.
+
+[name="煌"]     欸，说到这里啊，我突然觉得，黑心组织这说法其实还挺有道理的不是吗？
+[name="ブレイズ"]     あのさ、こんな話をしてたら思ったんだけど「ブラック企業」って言い方、割と筋が通ってると思わない？
+[name="Blaze"]     Hey, I just had a thought. Maybe that whole sweatshop thing actually fits?
+
+[name="史都华德"]     ......这又是在说什么呢。
+[name="スチュワード"]     ……何を言ってるんだよ。
+[name="Steward"]     ...What's this again?
+
+[name="煌"]     我们对这些孩子，这叫什么，提前投资？
+[name="ブレイズ"]     だって私たちはあの子供たちに、なんて言うか、事前投資をしてるようなものでしょ？
+[name="Blaze"]     I mean those kids, what are they? Child labor? An early investment?
+
+[name="香草"]     提前......投资？
+[name="バニラ"]     事前……投資？
+[name="Vanilla"]     An early... investment?
+
+[name="煌"]     是啊，还挺值的吧？罗德岛会教这些孩子许多东西，小家伙们可能许多方面比你我还强点，至少我一看那些数字和符号就头疼。
+[name="ブレイズ"]     そう。だってあの子たちは、私が見たら頭が痛くなるような数字や記号の羅列を、平気で見てたりするんだよ。もしかしたら私たちよりも優れた能力を持ってたりして――
+[name="Blaze"]     Yeah, it'll pay off, won't it? Rhodes Island teaches these kids all kinds of things. The little punks are probably better than us at a bunch of stuff. Like, I get a headache looking at numbers. And then when they toss letters in with the numbers...
+
+[name="煌"]     他们没准以后都会变得很厉害，比我厉害得多，没准能做到许多我做不到的事。
+[name="ブレイズ"]     ロドスでいろいろ習うことで、あの子たちは本当にすごい大人に成長するかもしれない。私よりもずっとすごい、私にはできないことをたくさん成し遂げられる大人に。
+[name="Blaze"]     They're all probably going to be awesome. Way more awesome than me. They'll do all kinds of stuff I never could.
+
+[name="煌"]     这么一想，我们赚了。
+[name="ブレイズ"]     そう考えれば事前投資でしょ。私たちは儲けものってわけ。
+[name="Blaze"]     So, you know, it's a return on investment.
+
+[name="史都华德"]     赚什么啊？又不一定——
+[name="スチュワード"]     儲けるって何をだよ？　そんな必ずしも――
+[name="Steward"]     A return? Not necessarily——
+
+[name="煌"]     别说。嘘，让我做做梦，别说了啊。
+[name="ブレイズ"]     あーもう言わないで。シーッ、私にも夢を見させてよ。
+[name="Blaze"]     Shh, let me dream. Don't say it.
+
+[name="煌"]     哦，是阿米娅。
+[name="ブレイズ"]     あっ、アーミヤちゃんから連絡だ。
+[name="Blaze"]     Oh, it's Amiya.
+
+[name="煌"]     看样子又是任务，想翘班，干脆翘班吧。
+[name="ブレイズ"]     たぶんまた任務だね、あー面倒くさい、思い切ってサボっちゃおうかな……ってしないけど！
+[name="Blaze"]     Looks like another mission. I kinda wanna blow it off. I can just blow it off, right?
+
+[name="煌"]     那我先走了啊——香草，史都华德，等联欢会定下来了我们一起喝一杯！
+[name="ブレイズ"]     じゃあ私はもう行くよ――　バニラ、スチュワード、コンパが正式に決まったら一緒に一杯やろう！
+[name="Blaze"]     Well, I gotta go. Vanilla, Steward, let's get a drink at that mixer!
+
+[name="香草"]     虽然嘴上这么说，但是还是很有精神地走掉了呢......
+[name="バニラ"]     憎まれ口を叩きながら、元気そうに去っていきましたね……
+[name="Vanilla"]     She talks like that, but she still walks away with a smile on her face....
+
+[name="香草"]     真的要办联欢会吗？我、我不会喝酒怎么办。
+[name="バニラ"]     本当にコンパなんてやるんでしょうか？　わ、私お酒はあまり飲めないんですが……
+[name="Vanilla"]     Are we really going to have a mixer? Wh- what if I don't drink?
+
+[name="史都华德"]    唉。别在意，煌小姐一直是这样，不会真的强迫你的。
+[name="スチュワード"]    ああ、気にしなくていいよ。ブレイズさんはいつもあんな感じさ。それにあの人は無理強いしたりはしないから安心して。
+[name="Steward"]    Oh, don't mind Blaze. She's always like that. She won't force you.
+
+[name="香草"]     不会吗？那也有点让人失望......
+[name="バニラ"]     そうなんですか？　それはそれでちょっと残念……
+[name="Vanilla"]     No? That's kind of a disappointment...
+
+[name="史都华德"]     ？？
+[name="スチュワード"]     ？？
+[name="Steward"]     Huh?
+
+[name="香草"]     啊，到我的房间了。
+[name="バニラ"]     あ、ここが私の部屋です。
+[name="Vanilla"]     Okay, this is my place.
+
+[name="香草"]     请进，不用客气。
+[name="バニラ"]     どうぞお入りください。
+[name="Vanilla"]     Come on in.
+
+[name="史都华德"]     那就打扰了。
+[name="スチュワード"]     ではお邪魔するね。
+[name="Steward"]     All right.
+
+[name="史都华德"]     欸......这里就是香草小姐的房间啊。
+[name="スチュワード"]     わあ……ここがバニラさんの部屋か。
+[name="Steward"]     Ah... so this is where Vanilla lives.
+
+[name="香草"]     有点乱，让你见笑了。
+[name="バニラ"]     散らかっていてすみません。
+[name="Vanilla"]     Don't laugh. It's kind of a mess.
+
+[name="香草"]     啊，圆圆他们在这边。
+[name="バニラ"]     あ、マルコたちはあそこです。
+[name="Vanilla"]     Oh, here's Puffball and the gang.
+
+[name="史都华德"]     圆圆？真是个可爱d......
+[name="スチュワード"]     マルコって、可愛いなま……
+[name="Steward"]     Puffball? What a cute n...
+
+[name="史都华德"]     ......的名字。
+[name="スチュワード"]     ……名前だね。
+[name="Steward"]     ...name.
+
+[name="史都华德"]     ......
+[name="スチュワード"]     ……
+[name="Steward"]     ........
+
+[name="史都华德"]     香草小姐，你说的小动物就是，这里的，这些。
+[name="スチュワード"]     バニラさん、あの、君が言ってたペットっていうのは、そこの、それらのこと？
+[name="Steward"]     Vanilla, your pets, they're... are these... these are your pets?
+
+[name="香草"]     是呀。
+[name="バニラ"]     そうですよ。
+[name="Vanilla"]     Yes.
+
+[name="香草"]     大家都是在我家乡很常见的生物，很可爱吧！
+[name="バニラ"]     みんな私の故郷ではよく見る生き物なんです。可愛いですよね！
+[name="Vanilla"]     They're all cute little critters from my hometown!
+
+[name="史都华德"]     嗯，嗯......
+[name="スチュワード"]     う、うん……
+[name="Steward"]     Hmmm....
+
+[name="史都华德"]     （可爱这个词到底是什么意思来着......）
+[name="スチュワード"]     （可愛いってどういう意味だっけ……）
+[name="Steward"]     (I fear the word "cute" has lost all meaning...)
+
+[name="香草"]     啊，史都华德先生别担心，大黑虽然体型大，但是性格是最温顺的，一点都不危险！
+[name="バニラ"]     あ、スチュワードさん心配しないでください。ドスグロちゃんは身体は大きいですが一番大人しいですから、少しも危なくありませんよ！
+[name="Vanilla"]     Oh, don't worry, Steward. Biggie may be big, but he's really the gentlest of them all!
+
+[name="香草"]     唉......每次在战场上我都很难下得了手，杜宾教官总是会骂我，可是真的没办法啊！
+[name="バニラ"]     戦場で似た子たちに出会うとなかなかトドメをさせなくて……ドーベルマン教官にいつも怒られてしまいます。でも仕方ないんです！
+[name="Vanilla"]     *Sigh*.... It's so hard to fight them on the battlefield. And Instructor Dobermann always yells at me, but I really can't help it!
+
+[name="史都华德"]     能、能看得出来，香草小姐是真的很喜欢动物。
+[name="スチュワード"]     わ、わかるよ、バニラさんは本当に生き物が大好きなんだね。
+[name="Steward"]     I- I can tell you really like animals, Vanilla.
+
+[name="史都华德"]     而且......嗯，这些小动物，呃，都很有个性。
+[name="スチュワード"]     この子たちもみんな……えーっと、個性的だし。
+[name="Steward"]     And... Well, these pets, they... they certainly have character.
+
+[name="香草"]     嘿嘿，对吧对吧！
+[name="バニラ"]     フフ、そうですよね！
+[name="Vanilla"]     Hehe. They sure do!
+
+[name="香草"]     圆圆他们都很乖，一般不会捣乱，只要每天加一点水和食物就好！很好照顾！
+[name="バニラ"]     マルコたちはいい子ですから、暴れたりもしません。毎日少しだけ水と餌をやればいいんです！　すごく飼いやすいですよ！
+[name="Vanilla"]     They're very well behaved. They don't make a mess. Just give them a little food and water every day and they're good to go!
+
+[name="香草"]     啊，不过要小心，不能挤压到大黑壳上的这些尖角。否则......
+[name="バニラ"]     あ、ですが、ドスグロちゃんの殻にあるこの突起は押さないように気をつけてください。でないと……
+[name="Vanilla"]     Oh, but be careful not to press the spikes on their shells. Otherwise.....
+
+[name="史都华德"]     否则？
+[name="スチュワード"]     でないと？
+[name="Steward"]     Otherwise?
+
+[name="香草"]     会爆炸。
+[name="バニラ"]     爆発します。
+[name="Vanilla"]     They explode.
+
+[name="史都华德"]     爆
+[name="スチュワード"]     爆発……
+[name="Steward"]     Explode...?
+
+[name="史都华德"]     ......
+[name="スチュワード"]     ……
+[name="Steward"]     .......
+
+[name="史都华德"]     香草小姐，在房间里养这样的小动物真的没问题吗......
+[name="スチュワード"]     バニラさん、部屋の中でこんなのを飼ってて本当に大丈夫なの……
+[name="Steward"]     Vanilla, is it really okay to have a pet like this in your room....?
+
+[name="香草"]     嗯？没问题哦！阿米娅和凯尔希医生都给了许可！
+[name="バニラ"]     えっ？　大丈夫ですよ！　アーミヤさんもケルシー先生も許可をくださいました！
+[name="Vanilla"]     Huh? Of course! I got permission from Amiya and Dr. Kal'tsit!
+
+[name="香草"]     这个保温箱的材质比较特殊，可以隔绝源石的影响，非常安全！
+[name="バニラ"]     この保温箱は特殊な素材でできていて、源石の影響を遮ることができるんです。とっても安全なんですよ！
+[name="Vanilla"]     This terrarium is made of a special material that insulates the Originium. It's very safe!
+
+[name="香草"]     而且，食物我已经提前贮备好了......看，只要按下这边的按钮，像这样，就会自动喂食了。
+[name="バニラ"]     それに、餌はもう先に入れてありますから……ほら、このボタンを押すだけで、こんな風に自動的に餌やりをしてくれるんです。
+[name="Vanilla"]     Also, I prepared their food already.... See, just press the button on the side, like so, and it automatically feeds them.
+
+[name="香草"]     嘿嘿，很神奇吧！
+[name="バニラ"]     えへへ、不思議でしょう？
+[name="Vanilla"]     Hehe. Pretty crazy, huh?
+
+[name="史都华德"]     现在我觉得，还是会养源石虫的你比较神奇......
+[name="スチュワード"]     不思議というなら、オリジムシを飼う君の方が……
+[name="Steward"]     I actually think it's crazier that you're here keeping Originium slugs...
+
+[name="香草"]     嗯？什么？
+[name="バニラ"]     えっ？　なんですか？
+[name="Vanilla"]     Sorry, what?
+
+[name="史都华德"]     没有，没什么。
+[name="スチュワード"]     いや、なんでもないよ。
+[name="Steward"]     Nothing.
+
+[name="香草"]     ？？
+[name="バニラ"]     ？？
+[name="Vanilla"]     Hm?
+
+[name="香草"]     对了，喂水的话，隔一天给一点点就好，这样环境会比较干燥，更像我老家那边的自然环境。
+[name="バニラ"]     そうだ、お水は二日に一回少しだけで大丈夫です。そうすれば私の故郷に比較的近い乾燥した環境になります。
+[name="Vanilla"]     Oh, and for water, they really only need a little bit every other day. Keep the environment nice and dry, just like my hometown.
+
+[name="史都华德"]     明白了，我会注意的。
+[name="スチュワード"]     わかった、気をつける。
+[name="Steward"]     Understood, I'll make sure not to overwater them.
+
+[name="史都华德"]     这些源石蜗牛，还有磐蟹，长得比我见过的都要好看一些......香草小姐的故乡，我记得应该是萨尔贡吧？
+[name="スチュワード"]     このオリジムシたちも、ハガネガニも、僕が見たことあるやつより綺麗な見た目だけど……バニラさんの故郷は確かサルゴンだっけ？
+[name="Steward"]     These Originium snails, and that metal crab, they look nicer than any I've seen before.... Your hometown is in Sargon, correct?
+
+[name="香草"]     没错哦。是萨尔贡一个很偏僻的乡下地方。
+[name="バニラ"]     その通りです。サルゴンの辺境にある田舎です。
+[name="Vanilla"]     That's right. It's a very remote place in the Sargon countryside.
+
+[name="史都华德"]     那是个什么样的地方？
+[name="スチュワード"]     どんなところだったの？
+[name="Steward"]     What's it like?
+
+[name="香草"]     是个......嗯，非常贫穷的地方，资源也很匮乏。
+[name="バニラ"]     うーん、とても……貧しいところでした。資源も枯れていて。
+[name="Vanilla"]     It's a.... Well, a very poor place with very few resources.
+
+[name="香草"]     部落的四周都是黄沙，因为很难耕作，想要生存下去，就必须要外出狩猎，部族里的每一个孩子，都会被培养为优秀的猎手。
+[name="バニラ"]     集落の周りはずっと砂漠で、耕作も難しいところでしたから、生きるためには狩りに出るしかありませんでした。なので部族の子供たちはみんな優秀なハンターになるように育てられるんです。
+[name="Vanilla"]     You can't farm there, because there's nothing but sand. You have to hunt to survive. All the children in my tribe are raised to be great hunters.
+
+[name="史都华德"]     香草小姐也是？
+[name="スチュワード"]     バニラさんも？
+[name="Steward"]     You too?
+
+[name="香草"]     嗯，我也是。
+[name="バニラ"]     はい、私もそうやって育てられました。
+[name="Vanilla"]     Yes, me too.
+
+[name="史都华德"]     那为什么后来又加入黑钢......？
+[name="スチュワード"]     じゃあどうしてBSWに入ることになったの……？
+[name="Steward"]     Then why did you join Blacksteel...?
+
+[name="香草"]     说起来有点难为情......是因为缺钱。
+[name="バニラ"]     ちょっと恥ずかしいことなんですが……お金がなくて。
+[name="Vanilla"]     It's kind of embarrassing, but... for money.
+
+[name="史都华德"]     缺钱？
+[name="スチュワード"]     お金？
+[name="Steward"]     Money?
+
+[name="香草"]     是啊。黑钢，黑钢国际，简单来讲就是雇佣兵的组织。
+[name="バニラ"]     はい。BSW、つまりブラック・スチール・ワールドワイドは、簡単に説明すると傭兵組織です。
+[name="Vanilla"]     Yup. Blacksteel, Blacksteel Worldwide, is just a mercenary group.
+
+[name="香草"]     或许加入的大家目的各不相同，不过还是有不少人是因为缺钱才做佣兵的。
+[name="バニラ"]     いろいろな人がいますが、お金が目的で傭兵をやっている人は少なくありません。
+[name="Vanilla"]     Maybe everyone joins with a different goal, but a lot of mercenaries just need money.
+
+[name="香草"]     我当然也不例外。
+[name="バニラ"]     私もそうでした。
+[name="Vanilla"]     And that's me.
+
+[name="史都华德"]     是这样吗，但是，杰西卡小姐看起来不像是缺钱的样子啊？
+[name="スチュワード"]     そうだったんだ。でも、同じBSWのジェシカさんはお金目的には見えないけど？
+[name="Steward"]     Is that right? But it seems as though Jessica doesn't want for money?
+
+[name="香草"]     杰西卡前辈......好像有一些别的理由，前辈不太说这些事，我知道得也不多。
+[name="バニラ"]     ジェシカ先輩は……他の理由があるようですが、先輩はあまりそれに触れませんし、私もよく知りません。
+[name="Vanilla"]     Jessica...? She has some other motivation, I guess. She doesn't talk about these things much, so I don't really know.
+
+[name="香草"]     我的家乡，非常贫瘠......
+[name="バニラ"]     私の故郷は、本当に貧しくて……
+[name="Vanilla"]     But where I come from, everyone is very poor...
+
+[name="香草"]     萨尔贡的沙漠偶尔会下雨，当绿洲的水聚成小湖，就会有商队横穿整个沙漠，在路过我们的部落时也会稍作停留，拿出一些货物来交易。
+[name="バニラ"]     砂漠にはたまに雨が降るんですが、オアシスの水が集まって小さい湖になると、隊商がやってくるんです。彼らが私たちの集落を通りかかると、しばらく留まって取引をしてくれます。
+[name="Vanilla"]     It doesn't rain much in the Sargon deserts. When it does, the water accumulates in small oasis pools, and caravans cross the entire desert looking for them, stopping briefly as they pass by our tribe to take out some goods to trade.
+
+[name="香草"]     多数是以物易物，大家都没有什么钱，但可以交换的东西各家各户总还有一些。
+[name="バニラ"]     基本的には物々交換でした。集落のみんなはお金はあまり持っていませんでしたが、交換に使える物は少しはありましたから。
+[name="Vanilla"]     It's mostly barter. No one has much money. But every home has a little something to trade.
+
+[name="香草"]     商队一般只会停留一两天，晚上非常冷的时候，大家就不分彼此，都围着火堆坐在一起。
+[name="バニラ"]     隊商は長くても二日程度しか滞在しませんが、冷える夜にはみんな分け隔てなく焚き火の周りに集まるんです。
+[name="Vanilla"]     The caravans usually stays for just a day or two. And when it gets very cold at night, so everyone gathers around the fire.
+
+[name="香草"]     吃一点肉干，大人们喝两口酒驱寒，给孩子们一把沙枣，当做零嘴吃。
+[name="バニラ"]     干し肉を少しずつ分け合って、大人たちはお酒で暖をとって、子供たちにはグミの実をおやつ代わりに食べさせてあげてました。
+[name="Vanilla"]     We eat a little jerky. The adults drink a couple of sips of wine to ward off the cold, and the kids get a handful of dates to snack on.
+
+[name="香草"]     商人们总会给小孩子们说一些沙漠外面的事，一般都是些新鲜的，好玩的事情。
+[name="バニラ"]     そして商人たちは子供たちに砂漠の外のことを語ってくれました。どれも新鮮で、楽しい話でしたよ。
+[name="Vanilla"]     The traders tell the children about what's going on in the world outside the desert, usually something new and fun.
+
+[name="香草"]     比如在很远很远的东方，有遍地鲜花的香氛都市，还有流淌着财富与幸福的巨大都城......
+[name="バニラ"]     例えば遠い遠い東方に、街中お花で溢れた香水の街と、富と幸福があふれる巨大都市があるなんて話も……
+[name="Vanilla"]     Like how in the far, far east, there are fragrant cities with flowers everywhere, huge metropolises overflowing with wealth and happiness...
+
+[name="史都华德"]     听起来真不错。
+[name="スチュワード"]     面白そうだね。
+[name="Steward"]     I could go for some of that.
+
+[name="香草"]     是吧？不过，我出来之后，暂时还没找到什么机会去验证东方到底有没有那么好。
+[name="バニラ"]     そうですよね？　ですが、私が集落を離れてから、東方の良さを確かめに行く機会はまだ巡ってきていません。
+[name="Vanilla"]     Right? But since I've been out here, I haven't had a chance to check and see if the east is really so great.
+
+[name="香草"]     不管怎么说，听过这种故事，自然就会对外界产生好奇，也就挺难再继续呆在沙漠里，当一个普通猎人了。
+[name="バニラ"]     何はともあれ、そんな物語を聞いていると、自然と外の世界に興味を持つものです。そうなると、砂漠に残って普通のハンターになるのはなんだか味気なく感じてしまって。
+[name="Vanilla"]     Anyway, having heard stories like that, it's only natural I'd be curious about the outside world. There's no way I could stay in the desert and be a regular old hunter.
+
+[name="香草"]     所以我跟着商人走出来，到了沙漠边缘的小城。
+[name="バニラ"]     それで商人たちについて、砂漠の端にある小さな都市に行ってみたんです。
+[name="Vanilla"]     So I followed the merchants out to a small town on the edge of the desert.
+
+[name="史都华德"]     然后发现，外面并没有听起来的那么好？
+[name="スチュワード"]     それから、外の世界は話に聞いてたほどのものじゃないって気付いたのかな？
+[name="Steward"]     And you found out things weren't as good as you thought?
+
+[name="香草"]     是没那么好，不过也不算很差......嗯，至少吃的东西比我老家要好一些。
+[name="バニラ"]     確かに話ほどではありませんでしたが、そこまで悪いものでもありませんでした……少なくとも、故郷にいた時よりも良いものが食べられましたから。
+[name="Vanilla"]     They're not so good, but also not so bad... At least the food is better than back home.
+
+[name="香草"]     我身上没带多少钱，虽然那已经是我的全副身家，但是还是不够用，旅店也不敢住，因为太贵。
+[name="バニラ"]     全財産を持って故郷を飛び出したんですが、やっぱりお金はすぐに足りなくなりました。ホテルも高かったので泊まる勇気もなくて。
+[name="Vanilla"]     I didn't have much money on me. Everything my family had still wasn't enough. Even a hostel was too expensive to stay in.
+
+[name="香草"]     当佣兵是没得选，不过，我并不后悔。
+[name="バニラ"]     傭兵になったのはそれ以外の選択がなかったからです。でも後悔はしていませんよ。
+[name="Vanilla"]     It's not like I had a lot of options besides mercenary work. But I don't regret it.
+
+[name="香草"]     ......不说这个了。
+[name="バニラ"]     ……この話はこの辺にしておきましょう。
+[name="Vanilla"]     ...Anyway, that's enough of that.
+
+[name="香草"]     别光说我，史都华德先生的故乡是哪里？
+[name="バニラ"]     スチュワードさんの話も聞かせてください。スチュワードさんの故郷はどちらですか？
+[name="Vanilla"]     Where's your hometown, Steward?
+
+[name="史都华德"]     我吗？我是谢拉格人。
+[name="スチュワード"]     僕かい？　僕はイェラグ人さ。
+[name="Steward"]     I'm from Kjerag.
+
+[name="香草"]     哇！我有听说过，据说那里一年四季都会下雪，是不是？我还从来没有看过能堆积起来的雪......
+[name="バニラ"]     わぁ！　一年中雪が降っているところですよね？　聞いたことがあります。雪が積もる様子なんて、私はまだ一度も見たことがありません……
+[name="Vanilla"]     Wow! I heard it snows there all year round. Is that true? I've never seen snow...
+
+[name="史都华德"]     哈哈，在罗德岛的话，之后没准会有机会见到的。
+[name="スチュワード"]     ハハ、ロドスにいればいつか見られる機会があるかもしれないね。
+[name="Steward"]     Haha. And you never will, at Rhodes Island.
+
+[name="香草"]     真的吗！那我得赶紧存钱，听杰西卡说，新型的人体隔绝型保暖机还挺贵的！
+[name="バニラ"]     本当ですか！　では大急ぎで貯金しないと。ジェシカ先輩から新型の人体隔絶型防寒マシンはとても高いと聞いていますから！
+[name="Vanilla"]     Really! Well, I'll have to save up. Jessica says those new body insulation suits are really expensive!
+
+[name="史都华德"]     ......哈哈，我觉得保暖应该也不必做到这个地步吧......
+[name="スチュワード"]     ハハ……防寒って言ってもそこまでしなくていいと思うけど。
+[name="Steward"]     ...Haha, that might be a bit overkill...
+
+[name="史都华德"]     这次能被香草小姐拜托，玫兰莎小姐真的很开心。
+[name="スチュワード"]     ……今回バニラさんからペットのことをお願いされて、メランサはすごく嬉しそうだった。
+[name="Steward"]     Melantha was so happy you asked her to help.
+
+[name="史都华德"]     虽然她表现得可能不太明显，这既是她的优点，同时也是她的缺点。
+[name="スチュワード"]     そんな様子はあまり表に出してなかったけどね。常に落ち着いていて感情を見せないのは、彼女の長所であり、短所でもあるんだ。
+[name="Steward"]     Though she may not show it, which is both a strength and a weakness of hers.
+
+[name="香草"]     是这样吗......？不会麻烦到你们就好。
+[name="バニラ"]     そうなんですか……？　私、もしかしたら面倒なことを押し付けてしまったんじゃないかって思ってました……
+[name="Vanilla"]     Really...? I hope I'm not being a bother.
+
+[name="史都华德"]     不会哦。不管是我，还是玫兰莎小姐，我相信没有人会觉得麻烦的。
+[name="スチュワード"]     大丈夫さ。僕もメランサも、絶対に面倒だなんて思わないよ。
+[name="Steward"]     Certainly not. It's no bother to Melantha, or myself, for that matter.
+
+[name="史都华德"]     那么就请香草小姐安心去出任务吧，圆圆他们就请放心交给我。
+[name="スチュワード"]     マルコたちはしっかり僕が預かるからね。バニラさんは安心して任務に行ってきて。
+[name="Steward"]     Now, off on your mission, Vanilla. And rest assured I will take excellent care of Puffball and the others.
+
+[name="香草"]     啊，请等一等，史都华德先生！
+[name="バニラ"]     あ、待ってください、スチュワードさん！
+[name="Vanilla"]     Oh, just a minute, Steward!
+
+[name="史都华德"]     嗯？还有什么事情吗？
+[name="スチュワード"]     うん？　どうしたの？
+[name="Steward"]     Hm? Was there something else?
+
+[name="香草"]     那个......
+[name="バニラ"]     あの……
+[name="Vanilla"]     Um....
+
+[name="香草"]     虽然我还不能说完全理解了史都华德先生和煌小姐的想法，但是——
+[name="バニラ"]     私はまだ、スチュワードさんとブレイズさんの考え方を全部理解できたとは言えません、ですが――
+[name="Vanilla"]     Not that I totally understand everything you and Blaze were talking about, but...
+
+[name="香草"]     下次A4预备队的大家再去看望那些在接受治疗的孩子们的时候，也请叫上我一起吧！
+[name="バニラ"]     次にA4の皆さんが治療中の子供たちに会いに行く時は、私も連れて行ってもらえませんか？
+[name="Vanilla"]     Next time Op Reserve Team A4 visits the kids in the treatment wards, please bring me along!
+
+[name="香草"]     大家一起，为联欢会做准备，来学习折纸花吧？
+[name="バニラ"]     あの子たちと一緒に、折り紙をやってみたいんです。コンパの準備のために……できれば、皆さんと。
+[name="Vanilla"]     Let's learn how to make paper flowers, so we're ready for that mixer.
+

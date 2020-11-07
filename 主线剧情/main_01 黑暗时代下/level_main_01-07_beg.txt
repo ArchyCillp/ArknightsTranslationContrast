@@ -1,0 +1,312 @@
+[name="杜宾"]  抗冲击准备！！
+[name="ドーベルマン"]  衝撃に備えろ！！
+[name="Dobermann"]  Prepare for impact!!
+
+[name="杜宾"]  各自散开——！！！
+[name="ドーベルマン"]  総員散開――！！！
+[name="Dobermann"]  Spread out—!!!
+
+[name="杜宾"]  规模太大了......这样下去，整个街区的建筑都会被彻底摧毁！
+[name="ドーベルマン"]  規模が大きすぎる……このままでは建物と一緒に潰される！
+[name="Dobermann"]  There's too much coming... at this rate, every single building in this city is going to be destroyed!
+
+[name="杜宾"]  不行，糟了———！
+[name="ドーベルマン"]  まずい、クソっ――！
+[name="Dobermann"]  This is looking bad...!
+
+[name="Ace"]  ——！
+[name="Ace"]  ――！
+[name="Ace"]  ...!
+
+[name="Ace"] 快转移！
+[name="Ace"] 早く退避だ！
+[name="Ace"] We have to relocate!
+
+[name="医疗干员"]   ......！
+[name="医療オペレーター"]   ……！
+[name="Medic"]   ...!
+
+[name="Ace"]  坚持住！！
+[name="Ace"]  保ちこたえろ！
+[name="Ace"]  Hold on!!
+
+[name="整合运动成员"]     啊——！！掉，掉下来了！
+[name="レユニオン構成員"]     あ――！！　お、落ちてくるぞ！
+[name="Reunion Member"]     Aaaaagh!! It's falling... It's falling!
+
+[name="整合运动成员"]    天空掉下来了！
+[name="レユニオン構成員"]    空が……落ちてくる！
+[name="Reunion Member"]    The sky is crashing down!
+
+[name="整合运动成员"]    不，不，啊好疼......
+[name="レユニオン構成員"]    い、嫌だ……痛い……。
+[name="Reunion Member"]    Aghhhh! It hurtsss...!
+
+[name="整合运动成员"]    我的手，我的手！我的手哪里去了......
+[name="レユニオン構成員"]    手が、手がぁ！　俺の手はどこだ……。
+[name="Reunion Member"]    My hand... my hand! Where's my hand...
+
+[name="整合运动成员"]    怎，怎么会！！我不想死......！
+[name="レユニオン構成員"]    ど、どうして！！　死にたくない……！
+[name="Reunion Member"]    No, no way!! I don't want to die...!
+
+[name="整合运动成员"]    啊啊啊啊！！！
+[name="レユニオン構成員"]    ああああ！！！
+[name="Reunion Member"]    Aaaaaaaghh!!!
+
+[name="临光"]    重装干员！
+[name="ニアール"]    重装オペレーター！
+[name="Nearl"]    Defenders!
+
+[name="临光"]    保护我方术师！！
+[name="ニアール"]    味方の術師を守れ！！
+[name="Nearl"]    Protect our Casters! !
+
+[name="临光"]    ——！！
+[name="ニアール"]    ――！！
+[name="Nearl"]    …!!
+
+[name="临光"]    那是什么声音？！
+[name="ニアール"]    なんだこの音は！？
+[name="Nearl"]    What's that sound?!
+
+[name="Ace"]  巨大的坠岩击垮了临街的建筑！卧倒！！
+[name="Ace"]  巨大な隕石が通り沿いの建物に直撃した！　伏せろ！！
+[name="Ace"]  A massive cluster just toppled the building across the street from us! Get down! !
+
+[name="医疗干员"]  啊......！
+[name="医療オペレーター"]  あ……！
+[name="Medic"]  Eeek...!
+
+[name="阿米娅"]    ——那个位置——医生！危险！
+[name="アーミヤ"]    ――あの位置は――危ない！
+[name="Amiya"]    ... Don't stand there... Medic! Watch out!
+
+[name="近卫干员"]    糟糕，医生，快闪开！
+[name="前衛オペレーター"]    おい！　早く避けろ！
+[name="Guard"]    Oh no... Medic, get out of there!
+
+[Decision(options="......！", values="1")]
+[Decision(options="……！", values="1")]
+[Decision(options="...!", values="1")]
+
+[name="医疗干员"]  啊！
+[name="医療オペレーター"]  あっ！
+[name="Medic"]  Aaaahh!
+
+[name="医疗干员"]  ......唔，博，博士？
+[name="医療オペレーター"]  ……うう、ド、ドクター？
+[name="Medic"]  ...Huh, D-Doctor?
+
+[name="近卫干员"]    博士把医生推进了掩体？可这样......这样的话，博士——！
+[name="前衛オペレーター"]    ドクターがあの子を突き飛ばして……でもこのままだとドクターは――！
+[name="Guard"]    The Doctor pushed the medic out of the way? Wouldn't that mean... Doctor...?!
+
+[name="近卫干员"]    不，博士！！
+[name="前衛オペレーター"]    まずい、ドクター！！
+[name="Guard"]    No, Doctor!!
+
+[name="临光"]    Dr.{@nickname}！！
+[name="ニアール"]    Dr.{@nickname}！！
+[name="Nearl"]    Dr.{@nickname}!!
+
+[name="近卫干员"]    啊？
+[name="前衛オペレーター"]    えっ？
+[name="Guard"]    Huh?
+
+[name="近卫干员"]    临，临光她冲出去了！
+[name="前衛オペレーター"]    ニ、ニアールさん！　無茶だ。
+[name="Guard"]    N-Nearl's charging forward!
+
+[name="临光"]    博士，蹲下！
+[name="ニアール"]    ドクター、伏せろ！
+[name="Nearl"]    Get down, Doctor!
+
+[name="临光"]    咯......
+[name="ニアール"]    ふう……。
+[name="Nearl"]    Aagh...
+
+[name="临光"]    赶上了！
+[name="ニアール"]    間に合った！
+[name="Nearl"]    She made it in time!
+
+[name="近卫干员"]    她救下......她救下博士了！
+[name="前衛オペレーター"]    ドクター、生きてる！　さすがニアールさん！
+[name="Guard"]    She did it... She saved the Doctor!
+
+[name="临光"]    咳哈......！
+[name="ニアール"]    かはっ……！
+[name="Nearl"]    *cough*... Haah...
+
+[name="阿米娅"]    临光！博士！快回来！
+[name="アーミヤ"]    ニアールさん！　ドクター！　早くこちらへ！
+[name="Amiya"]    Nearl! Doctor! Hurry back over here!
+
+[name="临光"]    没问题的！
+[name="ニアール"]    問題ない！
+[name="Nearl"]    It's fine now!
+
+[name="临光"]    我的盾牌还撑得住——！
+[name="ニアール"]    私の盾はまだ保たせられる――！
+[name="Nearl"]    I can still hold my shield...!
+
+[name="临光"]    跳啊，博士！
+[name="ニアール"]    跳べ、ドクター！
+[name="Nearl"]    Jump, Doctor!
+
+[name="临光"]    跳！
+[name="ニアール"]    いいから跳ぶんだ！
+[name="Nearl"]    Jump!
+
+[name="阿米娅"]    博士，博士......
+[name="アーミヤ"]    ドクター、ドクター……。
+[name="Amiya"]    Doctor, Doctor...
+
+[name="阿米娅"]    你，你没事吧？
+[name="アーミヤ"]    だ、大丈夫ですか？
+[name="Amiya"]    You're, you're not hurt?
+
+[Decision(options="我没事，这算不了什么！;......;多亏临光小姐救下了我。", values="1;2;3")]
+[Decision(options="大丈夫だ。大したことはない！;……。;ニアール、ありがとう。", values="1;2;3")]
+[Decision(options="I’m fine… It’s no big deal.;…;Thanks for saving me, Nearl.", values="1;2;3")]
+
+[name="临光"]    一个人......处在那样的危险中！
+[name="ニアール"]    頼むから……一人であんな無茶をしないでくれ！
+[name="Nearl"]    How could you... put yourself in danger like that!
+
+[name="临光"]    至少拉上我一起，让我保护博士你！
+[name="ニアール"]    こういうときは、まず私に声を掛けるんだ。そうすれば守ることができる。
+[name="Nearl"]    At least take me with you, so I can protect you!
+
+[name="临光"]    无论怎样，我都不能允许你受伤——
+[name="ニアール"]    どんな状況だったとしても私はドクターが傷つくのを黙って見過ごすわけにはいかない。
+[name="Nearl"]    I can't allow you to be harmed...
+
+[name="临光"]    何况，是在我面前！
+[name="ニアール"]    それが私の目の前でとなればなおさらだ。
+[name="Nearl"]    Especially, right before my eyes!
+
+[name="阿米娅"]    大家都还安全，就非常好了......！
+[name="アーミヤ"]    みんな無事で、よかった……！
+[name="Amiya"]    We should count ourselves lucky that everyone is still safe...!
+
+[name="阿米娅"]    但我们......
+[name="アーミヤ"]    でも私たちは……
+[name="Amiya"]    But...
+
+[name="阿米娅"]    （还要坚持多久呢？）
+[name="アーミヤ"]    （あとどれくらい保つの？）
+[name="Amiya"]    (How much longer is this going to last?)
+
+[name="阿米娅"]    （我们真的能活下来吗？）
+[name="アーミヤ"]    （本当に生き延びられるの？）
+[name="Amiya"]    (How long are we going to be able to stay alive?)
+
+[name="阿米娅"]    ......唔......
+[name="アーミヤ"]    ……うう……。
+[name="Amiya"]    ... Hm...
+
+[name="阿米娅"]    坠石的数量减少了？
+[name="アーミヤ"]    隕石の数が……少なくなってきた？
+[name="Amiya"]    Are fewer rocks falling now?
+
+[name="阿米娅"]    我们撑过了第一波主灾害了吗......
+[name="アーミヤ"]    天災の第一波をなんとか乗り切ったということでしょうか……。
+[name="Amiya"]    So we managed to weather the first impact...
+
+[name="杜宾"]    还不能大意，谁知道这次的天灾会持续多久。
+[name="ドーベルマン"]    まだ安心はできない。今回の天災がどれだけ続くかまだ分からん。
+[name="Dobermann"]    But we have to be careful still. Nobody knows how long this Catastrophe will continue for.
+
+[name="杜宾"]    不过至少......我们不是身处天灾正中心的人。
+[name="ドーベルマン"]    しかし少なくとも……ここはもう隕石の落下地点の中心ではないようだ。
+[name="Dobermann"]    At least... we weren't caught dead in the middle of it.
+
+[name="杜宾"]    我们侥幸躲过去了。
+[name="ドーベルマン"]    幸いにも乗り切ることができたようだ。
+[name="Dobermann"]    We were lucky to slip through.
+
+[name="阿米娅"]    嗯......
+[name="アーミヤ"]    はい……。
+[name="Amiya"]    Mmhm...
+
+[name="阿米娅"]    大家怎么样了？
+[name="アーミヤ"]    皆さん、大丈夫ですか？
+[name="Amiya"]    How's everyone doing?
+
+[name="近卫干员"]    干员们基本都没事......！
+[name="前衛オペレーター"]    オペレーターは全員健在です……！
+[name="Guard"]    Looks like all of the Operators made it through just fine...!
+
+[name="近卫干员"]    有些干员受了轻伤，但状况都还算不错！
+[name="前衛オペレーター"]    一部怪我をした者もいますが、軽症です！
+[name="Guard"]    Some were lightly injured, but considering the circumstances, we were quite fortunate!
+
+[name="近卫干员"]    我们......活下来了！
+[name="前衛オペレーター"]    俺たち…生き延び……たんですね！
+[name="Guard"]    We... we made it!
+
+[name="整合运动成员"]    啊......
+[name="レユニオン構成員"]    ああ……ぁぁ。
+[name="Reunion Member"]    Ugh...
+
+[name="阿米娅"]    整合运动也有部分人员——
+[name="アーミヤ"]    レユニオンも何人か――。
+[name="Amiya"]    Some of the Reunion members have also...
+
+[name="整合运动成员"]    ......啊？
+[name="レユニオン構成員"]    ……あ？
+[name="Reunion Member"]    ...Huh?
+
+[name="整合运动成员"]    啊......啊！！罗德岛！
+[name="レユニオン構成員"]    あ……あぁぁ！！　ロドスめ！
+[name="Reunion Member"]    Huh... Ahh! ! Rhodes Island!
+
+[name="杜宾"]    ......什么？
+[name="ドーベルマン"]    ……なんだ？
+[name="Dobermann"]    ...What?
+
+[name="整合运动成员"]    啊......！！！
+[name="レユニオン構成員"]    ああ……ぁぁぁ！！！
+[name="Reunion Member"]    Arghh…!!
+
+[name="阿米娅"]    整合运动还要继续攻击我们吗？
+[name="アーミヤ"]    まだ攻撃してくるつもりでしょうか？
+[name="Amiya"]    They're still trying to attack us?!
+
+[name="整合运动成员"]    ......
+[name="レユニオン構成員"]    ……。
+[name="Reunion Member"]    ...
+
+[name="整合运动成员"]    罗德岛！
+[name="レユニオン構成員"]    ロドス！　ロドス！　ロドス！
+[name="Reunion Member"]    Rhodes Island!
+
+[name="杜宾"]    这些家伙！
+[name="ドーベルマン"]    こいつら！
+[name="Dobermann"]    What's wrong with you bunch!
+
+[name="整合运动成员"]    别跑......！
+[name="レユニオン構成員"]    逃がすな……！
+[name="Reunion Member"]    Come back here...!
+
+[name="杜宾"]    真的是疯了。
+[name="ドーベルマン"]    狂ってるな。
+[name="Dobermann"]    They've gone insane.
+
+[name="临光"]    这些人为什么就不能珍惜自己的生命？！
+[name="ニアール"]    命が惜しくないのか！？
+[name="Nearl"]    Do they not value their lives at all?!
+
+[name="阿米娅"]    杜宾......
+[name="アーミヤ"]    ドーベルマンさん……。
+[name="Amiya"]    Dobermann...
+
+[name="杜宾"]    没有办法......
+[name="ドーベルマン"]    仕方がない……。
+[name="Dobermann"]    We have no choice...
+
+[name="杜宾"]    彻底击溃他们，然后马上移动！
+[name="ドーベルマン"]    残らず殲滅して、すぐに移動だ！
+[name="Dobermann"]    We'll suppress them first, and then immediately relocate!
+

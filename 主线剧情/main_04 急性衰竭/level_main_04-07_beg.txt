@@ -1,0 +1,152 @@
+[name="阿米娅"]   这里......倒下的都是些整合运动。
+[name="アーミヤ"]   ここに……横たわっているのは、皆レユニオンのようです。
+[name="Amiya"]   This place... is filled with fallen Reunion.
+
+[name="阿米娅"]   ......这个，伤口流出的血液冻成了冰渣，其他部分却很完好。
+[name="アーミヤ"]   ……一見すると普通の死体に見えますが、傷口から流れた血液がみぞれ状に凍っています。
+[name="Amiya"]   ...The blood from his wounds had been frozen, but his other body parts remained intact.
+
+[name="阿米娅"]   确实是霜叶的技巧。
+[name="アーミヤ"]   これは間違いなくフロストリーフさんの攻撃によるものです。
+[name="Amiya"]   This is Frostleaf's technique.
+
+[name="阿米娅"]   ——那边的废墟，应该是爆炸导致的。
+[name="アーミヤ"]   ――あちらの廃墟には射撃された形跡が残っていますね。
+[name="Amiya"]   ...Those ruins over there look like they were caused by explosives.
+
+[name="阿米娅"]   应该是陨星炸出来的没错。
+[name="アーミヤ"]   きっとメテオリーテさんの攻撃によるものかと……。
+[name="Amiya"]   It's probably Meteorite's work.
+
+[name="阿米娅"]   （霜叶......杰西卡......陨星......她们，一定还......）
+[name="アーミヤ"]   （フロストリーフさん……ジェシカさん……メテオリーテさん……みんな、きっとまだ……）
+[name="Amiya"]   (Frostleaf... Jessica... Meteorite... I'm sure they're still alive...)
+
+[name="凯尔希"]   阿米娅，各救援小队都已抵达罗德岛、
+[name="ケルシー"]   アーミヤ、救援部隊は全員任務を果たしロドスに帰還した。
+[name="Kal'tsit"]   Amiya, all the rescue squads have reached Rhodes Island.
+
+[name="凯尔希"]   我们救出了除了陨星她们以外的所有侦查小队。
+[name="ケルシー"]   メテオリーテたち以外の偵察チームは全て救援できたようだ。
+[name="Kal'tsit"]   We've extracted all the recon squads except for Meteorite's.
+
+[name="凯尔希"]   没有干员在任务中牺牲。但相应的——
+[name="ケルシー"]   幸いにして犠牲になったオペレーターはいなかった。だがそれに反して――
+[name="Kal'tsit"]   No Operators were lost on this mission, but...
+
+[name="凯尔希"]   所有人都有不同程度的冻伤。
+[name="ケルシー"]   だが程度の差こそあれ、全員が凍傷を負っていた。
+[name="Kal'tsit"]   Everyone suffered frostbite with varying degrees of severity.
+
+[name="凯尔希"]   你要重视这点。
+[name="ケルシー"]   これは注目すべきポイントだ。
+[name="Kal'tsit"]   You must take note of this.
+
+[name="阿米娅"]   ......冻伤？
+[name="アーミヤ"]   ……凍傷？
+[name="Amiya"]   ...Frostbite?
+
+[name="凯尔希"]   所有侦查小队都指出，分城中徘徊着一些特殊的整合运动成员。
+[name="ケルシー"]   全偵察チームより、廃都市内に特殊な行動をするレユニオンが居たと報告を受けている。
+[name="Kal'tsit"]   All our recon squads observed a special group of Reunion troops wandering around the city.
+
+[name="凯尔希"]   他们有着特殊的作战方式，完全不像一般的整合运动成员那样盲目。
+[name="ケルシー"]   彼らは何か特別な目的を持って動いているようだ。どうやら盲目的に攻撃してくる普通のレユニオンの部隊とは違うらしい。
+[name="Kal'tsit"]   Unlike the reckless Reunion soldiers we're used to fighting, these members had a special way of fighting.
+
+[name="凯尔希"]   多加小心。
+[name="ケルシー"]   くれぐれも気をつけろ。
+[name="Kal'tsit"]   Be cautious.
+
+[name="阿米娅"]   我......我明白。
+[name="アーミヤ"]   わ……わかりました。
+[name="Amiya"]   I.... I understand.
+
+[name="凯尔希"]   Dr.{@nickname}，你也明白吧？
+[name="ケルシー"]   Dr.{@nickname}、君もわかったか？
+[name="Kal'tsit"]   Dr {@nickname}, am I clear?
+
+[Decision(options="明白", values="1")]
+[Decision(options="わかった。", values="1")]
+[Decision(options="I understand.", values="1")]
+
+[name="凯尔希"]   那就好。
+[name="ケルシー"]   頼むぞ。
+[name="Kal'tsit"]   Very well then.
+
+[name="凯尔希"]   我也要去做一些事情了。
+[name="ケルシー"]   私も少しやることができた。
+[name="Kal'tsit"]   I also have some things to do.
+
+[name="凯尔希"]   阿米娅，就算Dr.{@nickname}很有用，也别太过依靠一个人。
+[name="ケルシー"]   アーミヤ、Dr.{@nickname}が頼りになるとはいえ、過信はするなよ。
+[name="Kal'tsit"]   Amiya, even if Dr {@nickname} is very helpful, you can't rely too much on a single person.
+
+[name="阿米娅"]   ......
+[name="アーミヤ"]   ……。
+[name="Amiya"]   ...
+
+[name="凯尔希"]   还有，注意戒指。
+[name="ケルシー"]   それと、指輪には常に気を配るように。
+[name="Kal'tsit"]   Also, mind the rings.
+
+[name="阿米娅"]   我知道。
+[name="アーミヤ"]   わかっています。
+[name="Amiya"]   I know.
+
+[name="阿米娅"]   其实凯尔希医生也很担心你的。
+[name="アーミヤ"]   ケルシー先生もドクターのことを心配しているんですね。
+[name="Amiya"]   Dr Kal'tsit actually worries about you a lot.
+
+[name="阿米娅"]   不知不觉中——
+[name="アーミヤ"]   それにしても…気づかないうちに――
+[name="Amiya"]   Before we realized it...
+
+[name="阿米娅"]   危险的野兽露出他们的利爪了。
+[name="アーミヤ"]   こんな危険な獣のような敵が鋭利な爪を剥いていたなんて……。
+[name="Amiya"]   Dangerous beasts have bared their fangs.
+
+[Decision(options="整合运动在我们的背后。;我们的退路......被切断了。;这些感染者暴徒，似乎对我们有些想法呢。", values="1;2;3")]
+[Decision(options="レユニオンはすぐ近くまで迫ってきている。;今は進むしかない……。;彼らは何か我々に対する思惑があるようだ。", values="1;2;3")]
+[Decision(options="Reunion is bearing down upon us.;Our retreat has been cut off...;These thugs really have it out for us.", values="1;2;3")]
+
+[name="阿米娅"]   嗯......他们非常想要阻止我们撤退呢。
+[name="アーミヤ"]   はい……彼らは私たちを誘い込んでいるようにも思います……。
+[name="Amiya"]   Mm... They will do everything they can to keep us from getting away.
+
+[name="阿米娅"]   然而，我们来到这里的目的，从来都不是逃跑。
+[name="アーミヤ"]   ですが、今はその誘いに敢えて乗りましょう。
+[name="Amiya"]   But, we didn't come here to run away.
+
+[name="阿米娅"]   罗德岛，冲破他们的防线。
+[name="アーミヤ"]   ロドス各位へ、敵の防衛線を破ります。
+[name="Amiya"]   Rhodes Island will break through their ranks.
+
+[name="阿米娅"]   让我们把陨星她们救回来！
+[name="アーミヤ"]   メテオリーテさんたちを取り戻し、チェンさんと合流しましょう！
+[name="Amiya"]   We're going to rescue Meteorite's squad!
+
+[name="凯尔希"]   红，听得见吗？
+[name="ケルシー"]   レッド、聞こえるか？
+[name="Kal'tsit"]   Projekt Red, do you copy?
+
+[name="凯尔希"]   啊啊，对。
+[name="ケルシー"]   ああ、そうだ。
+[name="Kal'tsit"]   Ahh, yes.
+
+[name="凯尔希"]   没错。在贫民区东入口处会合。
+[name="ケルシー"]   そうだ。スラム街東の入口で合流だ。
+[name="Kal'tsit"]   That's right. I'll meet you at the slums' east entrance.
+
+[name="凯尔希"]   嗯。就我们两个。
+[name="ケルシー"]   ああ、我々二人だけだ。
+[name="Kal'tsit"]   Mhm. It'll just be the two of us.
+
+[name="凯尔希"]   没问题的。
+[name="ケルシー"]   問題ない。
+[name="Kal'tsit"]   We'll be fine.
+
+[name="凯尔希"]   对付整合运动，我们两个已经足够了。
+[name="ケルシー"]   レユニオンが相手なら、我々二人だけでも十分だ。
+[name="Kal'tsit"]   Just the two of us are more than enough to fight against Reunion.
+

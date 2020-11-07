@@ -1,0 +1,132 @@
+[name=""]   5:57 a.m. \ 多云 \ 能见度 17公里
+[name=""]   a.m.5:57 / 曇天 / 視界：17km
+[name=""]   5:57 AM \ Cloudy \ Visibility: 17 km
+
+[name=""]   龙门外环外4公里，荒漠
+[name=""]   龍門外環区画から外部へ4km地点 荒野地帯
+[name=""]   Desert; 4 km from the outskirts of Lungmen
+
+[name=""]   切尔诺伯格营救行动 结束后4天
+[name=""]   チェルノボーグ救援作戦　4日後
+[name=""]   4 days after the Chernobog rescue mission
+
+[name="PRTS"]   Dr.{@nickname}, 早上好。您已经休息了99999999————
+[name="PRTS"]   Dr.{@nickname}、おはようございます。今回の休憩時間は99999999――――
+[name="PRTS"]   Good morning, Dr {@nickname}. You have currently been sleeping for 99999----
+
+[name="PRTS"]   ————个小时。
+[name="PRTS"]   ――――時間です。
+[name="PRTS"]   ----9999 hours.
+
+[name="PRTS"]   虽然我知道您很不愿意起床，不过有人需要您立刻前往作战会议室。
+[name="PRTS"]   いま目覚めるのは非常に苦痛かと思いますが、すぐに作戦会議室に来るようにと指令が出ております。
+[name="PRTS"]   Although your reluctance to leave bed is not beyond reason, your presence is urgently needed at the operations command room.
+
+[name="PRTS"]   另外来自凯尔希医生的医学建议，希望您多开窗保持通风，并且进入甲板晒太阳以平衡维生素D。
+[name="PRTS"]   ドクター・ケルシーより「窓を開けて空気を入れ替え、適度にデッキに出て太陽の光に当たってビタミンDを不足させないように」と医学的見地からのアドバイスが入っております。
+[name="PRTS"]   Furthermore, here is some medical advice from Dr Kal'tsit: Please keep the windows open to maintain a source of fresh air, and spend some time on the deck to maintain healthy levels of Vitamin D.
+
+[name="阿米娅"]   啊，是博士！早啊。
+[name="アーミヤ"]   あ、ドクター！　おはようございます。
+[name="Amiya"]   Ah, Doctor! Good morning.
+
+[name="杜宾"]  {@nickname}博士，你来了。
+[name="ドーベルマン"]  Dr.{@nickname}、来たか。
+[name="Dobermann"]  So you made it, Dr {@nickname}.
+
+[name="阿米娅"]   博士身体好些了吗？
+[name="アーミヤ"]   身体の具合はどうですか？
+[name="Amiya"]   Doctor, are you feeling better now?
+
+[name="阿米娅"]   昨天看你好像还有些伤痛，行动不太方便。
+[name="アーミヤ"]   どこか痛いですか？　昨日はまだ動き辛そうでしたから…。
+[name="Amiya"]   You looked like you were still in pain and and couldn't move around well yesterday.
+
+[Decision(options="我已经完全恢复了。你呢？", values="1")]
+[Decision(options="もう大丈夫だ。アーミヤは？", values="1")]
+[Decision(options="I've made a complete recovery. How about you?", values="1")]
+
+[name="阿米娅"]   感觉今天活力满满的，已经没什么问题了！
+[name="アーミヤ"]   ええ、私もすっかり良くなりました。
+[name="Amiya"]   I'm perfectly fine and full of energy today!
+
+[name="阿米娅"]   毕竟接下来，我们还有别的任务......
+[name="アーミヤ"]   それにこれから、まだ別の任務もありますから……。
+[name="Amiya"]   After all, we still have other missions to take care of...
+
+[name="阿米娅"]   需要早点作好准备。博士也要把快速调整当成常态哦。
+[name="アーミヤ"]   一日も早く体調を回復させて準備をしないと…。もちろんドクターもですよ。
+[name="Amiya"]   So the sooner we can start preparing, the better. Doctor, you should get used to having to shift gears quickly here.
+
+[name="杜宾"]  博士。
+[name="ドーベルマン"]  ではドクター、現状を説明しよう。
+[name="Dobermann"]  Doctor,
+
+[name="杜宾"]  之前我们在切城的行动，虽然遭受了很大损失，但是获得了不少关于整合运动的情报，而且还救出了博士您。
+[name="ドーベルマン"]  今回のチェルノボーグの作戦では、損害こそ大きかったものの、ドクター、君の救出に成功し、レユニオンに関する情報も大量に手に入った。これは戦略的には作戦成功と言っていい。
+[name="Dobermann"]  Even though we sustained heavy losses in Chernobog, we gained a lot of information about Reunion and, more importantly, got you out alive.
+
+[name="杜宾"]  根据昨天会谈的结果，我们最近的移动城市————“龙门”，已向我们发送了一份合作框架协议，同意与我们交换情报。
+[name="ドーベルマン"]  そして次の我々の行動だが、現在のロドスから最も近い移動都市――――「龍門」と昨日交渉した結果、我々との情報交換に合意し、契約書を取り交わすことができた。
+[name="Dobermann"]  Based on the negotiations we had yesterday, the closest mobile city to us, Lungmen, has offered us a cooperation pact and agreed to exchange information with us.
+
+[name="杜宾"]  而有迹象显示“龙门”已经成为整合运动下一个行动目标。
+[name="ドーベルマン"]  そしてレユニオンのこれまでの動きから奴らの次の目標は「龍門」であることも判明した。
+[name="Dobermann"]  We have some evidence that Reunion might be targeting Lungmen next.
+
+[name="杜宾"]  关于其他的内容，还需经过尚在龙门城内的凯尔希医生同意后，才能定下来。
+[name="ドーベルマン"]  詳細な部分はケルシー医師が先行して龍門に入り、調整しているためその判断を待たないといけないが…。
+[name="Dobermann"]  We'll have to wait for Dr Kal'tsit's permission first before we can get the rest of the information. She's still stationed within Lungmen.
+
+[name="阿米娅"]   龙门暂时答应了我们停泊在城市附近的要求，然后他们愿意给予一部分我们在行动中损失的物资，以及消耗的补给。
+[name="アーミヤ"]   龍門は、私たちが一時的に都市付近に逗留することを許可し、消耗した物資の補給も行ってくれるそうです。
+[name="Amiya"]   Lungmen has granted us permission to temporary camp near the city. They've also agreed to compensate a portion of our losses and expenditures during the operation.
+
+[name="阿米娅"]   作为交换，罗德岛需要协助龙门，进行城市外环的一些临时性防卫工作。
+[name="アーミヤ"]   その代わりとして、ロドスは龍門外環の防衛任務を行うことになりました。
+[name="Amiya"]   In exchanges, Rhodes Island is expected to help defend the city's outskirts.
+
+[name="阿米娅"]   不过今天这么早是因为......
+[name="アーミヤ"]   でも、今日こんなに早く来ていただいたのは、これを説明するだけではなくて……。
+[name="Amiya"]   But the reason why I called for you so early is...
+
+[name="杜宾"]  我来说吧，阿米娅。
+[name="ドーベルマン"]  アーミヤ、私から説明しよう。
+[name="Dobermann"]  Let me explain it, Amiya.
+
+[name="杜宾"]  从昨天晚上开始，又有一波切尔诺伯格的幸存者在荒野中被发现，他们正在移动前往龙门，预计下午到达。
+[name="ドーベルマン"]  昨晩から今朝にかけて、チェルノボーグの生存者と見られる者たちが荒野で確認されている。奴らは龍門に向けて移動しており、午後には龍門に到達するとみられる。
+[name="Dobermann"]  Last night, we discovered another wave of Chernobog survivors making their way towards Lungmen. They're expected to get there in the afternoon.
+
+[name="杜宾"]  和之前几天一样，我们仍然需要对龙门5区的外围进行防卫工作，只不过这次，可能会混入更多的整合运动。
+[name="ドーベルマン"]  我々は龍門との合意に基づき龍門第5区外環の防衛任務を行う必要がある。ただし、今回はそれらの生存者の中に、更に多くのレユニオンが混ざっていると予測される。
+[name="Dobermann"]  We'll be expected to safeguard the outskirts of District 5 just like the last few days. Only this time, there might be more Reunion members mixed into the group.
+
+[name="杜宾"]  战况有所不同，我们在出发之前需要告诉您一种新的战术策略。
+[name="ドーベルマン"]  前回とは戦況も異なるため、出発前に新しい戦術を覚えてもらう必要がある。ということで、まず今日は演習から始めて貰おう。
+[name="Dobermann"]  Because the situation is a bit different, we'll need to discuss some new tactics with you before beginning the operation.
+
+[name="阿米娅"]  那么博士，今天还请多多指教......
+[name="アーミヤ"]  あの…ドクター、今日もよろしくおねがいしますね……。
+[name="Amiya"]  Anyway, Doctor, there's a lot to get through today, so...
+
+[name="阿米娅"]  加油！
+[name="アーミヤ"]  頑張ってください！
+[name="Amiya"]  Let's do our best!
+
+[name="杜宾"]  那么......
+[name="ドーベルマン"]  では、状況を開始する。
+[name="Dobermann"]  In any case...
+
+[name="杜宾"]  请你们各自完成出发前的准备。博士请把准备好的编队配置命令下达给其他干员，让他们做好准备。
+[name="ドーベルマン"]  各自出発の準備を行ってくれ。ドクターは各オペレーターへの配置指示を済ませ、彼らにも出発準備をさせておいてくれ。
+[name="Dobermann"]  Both of you, please complete your combat preparations. Doctor, once you've decided on your squad assignments, please let the operators know so that they also have time to prepare.
+
+[name="杜宾"]  完成演习后15分钟出发。
+[name="ドーベルマン"]  演習を終えたら、15分後には龍門へ向けて出発するぞ。
+[name="Dobermann"]  We'll set out 15 minutes after you finish your drills.
+
+[name="杜宾"]  这次，千万不要迟到。
+[name="ドーベルマン"]  くれぐれも遅刻しないようにな。
+[name="Dobermann"]  Oh, and make sure you're not late this time.
+
