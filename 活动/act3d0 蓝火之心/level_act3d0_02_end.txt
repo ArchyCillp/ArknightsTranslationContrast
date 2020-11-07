@@ -1,56 +1,70 @@
 [name="锡兰"]   快！博士！我们往沙滩那边走！
 [name="セイロン"]   早く！　ドクター！　ビーチの方へ逃げますわよ！
 [name="Ceylon"]   Quick! Doctor! Let's head towards the beach!
+[name="실론"]   서둘러요! 해변 쪽으로 도망치죠!
 
 [name="锡兰"]   沙滩上有大量游客聚集，混进人群里面他们就追不上我们了！
 [name="セイロン"]   ビーチには多くの観光客がいます。あの中へ紛れれば追いつけないはずですわ！
 [name="Ceylon"]   There are a ton of tourists gathered on the beach, so we'll be able to blend into the crowd and shrug them off!
+[name="실론"]   해변에는 관광객들이 몰려있으니 인파 속에 숨으면 쫓아올 수 없을 거예요!
 
 [name="保镖"]   站住！
 [name="護衛"]   止まれ！
 [name="Bodyguard"]   Stand still!
+[name="경호원"]   거기 서십시오!
 
 [name="锡兰"]   就凭你们！
 [name="セイロン"]   貴方たちだけなら――！
 [name="Ceylon"]   You wish!
+[name="실론"]   순순히 잡혀주진 않겠어요!
 
 [name="黑"]   ......
 [name="シュヴァルツ"]   ……。
 [name="Schwarz"]   ...
+[name="슈바르츠"]   ……
 
 [Decision(options="欸，你是——",values="1")]
 [Decision(options="あれ、君は――",values="1")]
 [Decision(options="Huh?  You’re…",values="1")]
+[Decision(options="어, 너는……",values="1")]
 
 [name="锡兰"]   黑！太好了你终于来了！
 [name="セイロン"]   シュヴァルツ！　良かった、やっと会えましたわ！
 [name="Ceylon"]   Schwarz! Great! You're finally here!
+[name="실론"]   슈바르츠! 다행이야. 와줬구나!
 
 [name="锡兰"]   还好有你在，克洛宁这是怎么了！？
 [name="セイロン"]   貴方がいればなんとかなるわね。クローニンさんはいったいどういうつもりなの！？
 [name="Ceylon"]   I'm so glad you're here. What's going on with Cronin?!
+[name="실론"]   네가 있어서 다행이야. 크로닌 씨는 대체 왜 저러는 거지!?
 
 [name="锡兰"]   博士，她就是我之前跟你说......
 [name="セイロン"]   ドクター、彼女が前にわたくしが言っていた……。
 [name="Ceylon"]   Doctor, she's the one I was telling you about...
+[name="실론"]   박사, 이쪽이 바로 제가 전에 말했던…
 
 [name="黑"]   小姐，老爷不在城里，你得听克洛宁的。
 [name="シュヴァルツ"]   お嬢様、旦那様が街にいない間は、クローニン様の言うことを聞いてください。
 [name="Schwarz"]   Milady, Master Doykos is currently out of town. You ought to listen to Cronin.
+[name="슈바르츠"]   아가씨, 주인님께서 여기 안 계신 동안은, 크로닌 님의 말을 들어야 합니다.
 
 [name="锡兰"]   黑？你在说什么？
 [name="セイロン"]   シュヴァルツ？　何を言っているの？
 [name="Ceylon"]   Schwarz? What are you saying...?
+[name="실론"]   슈바르츠, 무슨 소리야?
 
 [name="黑"]   快跟我回去找克洛宁，把这些人都交给他。
 [name="シュヴァルツ"]   クローニン様のもとへ戻りましょう。その人たちは彼に任せて。
 [name="Schwarz"]   Let's head back to Cronin now and hand these people over.
+[name="슈바르츠"]   저와 함께 크로닌 님께서 계신 곳으로 돌아가시죠. 저 사람들도 크로닌 님께 넘기시고요.
 
 [name="黑"]   我不想对小姐动手。
 [name="シュヴァルツ"]   お嬢様には手を上げたくありませんので。
 [name="Schwarz"]   I do not wish to resort to violence, milady.
+[name="슈바르츠"]   아가씨에게까지 손을 대고 싶진 않습니다.
 
 [name="锡兰"]   ......黑？
 [name="セイロン"]   ……シュヴァルツ？
 [name="Ceylon"]   ...Schwarz?
+[name="실론"]   ……슈바르츠?
 

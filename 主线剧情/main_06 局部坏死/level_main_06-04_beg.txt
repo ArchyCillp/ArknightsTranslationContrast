@@ -1,588 +1,735 @@
 [name="近卫局成员"]  快！快撤！那些感染者已经变成彻底的怪物了！
 [name="近衛局隊員"]  早く！　早く撤退だ！　あの感染者たちはもう完全に化け物になっている！
 [name="L. G. D. Officer"]  Hurry! Get back! The Infected have turned into monsters!
+[name="근위국 멤버"]  서둘러! 어서 퇴각해라! 저 감염자 녀석들, 이젠 완전히 괴물로 변해버렸어!
 
 [name="近卫局成员"]  啊！！我被咬住了，我被咬住了！！
 [name="近衛局隊員"]  うわあ！！　噛まれた、噛みつかれてる！！
 [name="L. G. D. Officer"]  Agh! I've been bit! I've been bit!
+[name="근위국 멤버"]  으아악!! 나 물렸어! 살려줘!!
 
 [name="牧群"] 啊。
 [name="家畜"] アアアア。
 [name="Herd"] Ung.
+[name="메피스토의 부대"] 아아……
 
 [name="牧群"] 啊，啊！！
 [name="家畜"] ア、アアアアアアア！！
 [name="Herd"] Aaaahh!
+[name="메피스토의 부대"] 아아…… 아!!
 
 [name="牧群"] （恐怖的尖叫）
 [name="家畜"] （恐ろしい叫び声）
 [name="Herd"] (Terrifying screaming).
+[name="메피스토의 부대"] 크어어어어어!!!!!
 
 [name="煌"]  ......
 [name="ブレイズ"]  ……。
 [name="Blaze"]  ......
+[name="블레이즈"]  ……
 
 [name="煌"]  ......怎么会这样......
 [name="ブレイズ"]  ……何でこんなことに……。
 [name="Blaze"]  How could this happen...?
+[name="블레이즈"]  ……어떻게 이럴 수가……
 
 [name="煌"]  混账白发小子！！他又干了什么！
 [name="ブレイズ"]  あの白髪のガキンチョだね！！　今度は何をしたっての！
 [name="Blaze"]  What has that nasty little boy done?!
+[name="블레이즈"]  그 망할 백발 꼬맹이 녀석… 또 무슨 짓을 저지른 거야!
 
 [name="煌"]  博士，动作快！我们快去预定地点和阿米娅汇合！
 [name="ブレイズ"]  ドクター、早く！　さっさと目標ポイントへ向かってアーミヤと合流するよ！
 [name="Blaze"]  Doctor, we need to move! We have to meet up with Amiya!
+[name="블레이즈"]  박사, 서둘러! 어서 예정된 지점으로 가서 아미야랑 합류해야 해!
 
 [name="煌"]  这个数量级的牧群，不成型的火力小队是对付不了的，我们只能酌情行事！
 [name="ブレイズ"]  これだけの化け物、少数でバラバラの火力小隊じゃどうにもならないから、臨機応変に動かないと！
 [name="Blaze"]  A small fire team can't handle a herd of this size. We have to tread carefully!
+[name="블레이즈"]  저렇게 많은 녀석들을 제대로 화력도 갖추지 못한 팀으로 상대할 순 없어, 이젠 상황에 따라 움직이는 수밖에!
 
 [name="煌"]  这时候可别想着帮助近卫局作战，我们的处境可比他们窘迫多了。
 [name="ブレイズ"]  こんな時に近衛局をサポートしようなんて考えちゃダメだよ、私たちの立場の方がよっぽど苦しいんだから。
 [name="Blaze"]  There's nothing we can do for the L. G. D. now. We're in a much worse position than them.
+[name="블레이즈"]  괜히 근위국 도와줄 생각은 하지 마. 지금은 우리 처지가 저놈들 보다 훨씬 안 좋으니까.
 
 [name="煌"]  先暂缓对近卫局的援助，我现在只敢保证你我的安全！
 [name="ブレイズ"]  ひとまず近衛局への援護は必要最低限に留めよう。今は私たちの安全しか保証できないから！
 [name="Blaze"]  Set them aside. My top priority is to guarantee your safety.
+[name="블레이즈"]  그러니까 일단 근위국을 지원하는 건 잠깐 멈추고, 이젠 우리 안전만 생각해야 돼!
 
 [name="近卫局成员"]  不行，这波我们实在扛不住了！
 [name="近衛局隊員"]  ダメだ、この攻撃は凌ぎきれそうにない！
 [name="L. G. D. Officer"]  We're being overrun!
+[name="근위국 멤버"]  틀렸어, 이번에는 못 막아낼 거야!
 
 [name="近卫局成员"]  必须撤离！再不撤的话，我们小队就完了！
 [name="近衛局隊員"]  撤退だ！　これ以上粘ったら、俺たちは全滅だ！
 [name="L. G. D. Officer"]  We're dead if we don't retreat!
+[name="근위국 멤버"]  후퇴해야 한다! 안 그럼 우리 소대는 전멸할 거다!
 
 [name="？？？"] 别慌张。
 [name="？？？"] 慌てなくていいですよ。
 [name="???"] Don't panic.
+[name="???"] 당황하지 마십시오.
 
 [name="近卫局成员"]  啊？！你是......
 [name="近衛局隊員"]  ああ！？　誰だ……。
 [name="L. G. D. Officer"]  Huh?! Who's...?
+[name="근위국 멤버"]  앗?! 당신은……
 
 [name="近卫局成员"]  这身装束......你......
 [name="近衛局隊員"]  その格好……まさかあなたは……。
 [name="L. G. D. Officer"]  That uniform... You're...
+[name="근위국 멤버"]  그 복장…… 당신은 설마……
 
 [name="？？？"]  援军马上就到了。再坚持一下。
 [name="？？？"]  援軍はもうすぐ駆けつけます。ここはもう少しだけ、持ち堪えてください。
 [name="???"]  The cavalry is here. Stand firm.
+[name="???"]  원군이 곧 도착할 겁니다. 조금만 더 버티세요.
 
 [name="？？？"]  分成两队吧。向他们两侧移动。
 [name="？？？"]  まずは二つに分隊し、彼らの両脇に移動してください。
 [name="???"]  Form two teams and move on their flanks.
+[name="???"]  부대를 둘로 나눠, 저들의 양 측면으로 이동하세요.
 
 [name="近卫局成员"]  可是，大人......
 [name="近衛局隊員"]  ですが、我々は……。
 [name="L. G. D. Officer"]  But, Master...
+[name="근위국 멤버"]  하지만, 저희는……
 
 [name="？？？"]  这次请相信我。虽然我不能出手，但这个办法会起效。
 [name="？？？"]  私を信じてもらえればと。直接手は出せませんが、これくらいならいいでしょう。
 [name="???"]  Trust me. While I cannot take action myself, this method will succeed.
+[name="???"]  이번에는 날 믿어주십시오. 비록 내가 직접 손을 쓸 수는 없지만, 분명 효과가 있을 테니.
 
 [name="？？？"]  夹击之后，从两侧把他们控制住；剩下的，就交给援军吧。
 [name="？？？"]  挟撃の後、両脇から敵を抑えてください。残りは援軍に任せておけば問題ありませんから。
 [name="???"]  Execute a pincer attack, hold the enemy in place, and leave the stragglers to your reinforcements.
+[name="???"]  협공을 한 후, 양 측면에서 적을 압박하십시오. 그리고 나머지는 원군에게 맡기면 됩니다.
 
 [name="牧群"]  呃，呃！！
 [name="家畜"]  ぐ、ぐあっ！！
 [name="Herd"]  Nnng... Ngaaaa!
+[name="메피스토의 가축"]  그, 그어어!!
 
 [name="近卫局成员"]  ......谢谢长官！
 [name="近衛局隊員"]  ……ありがとうございます、上官！
 [name="L. G. D. Officer"]  ...Thank you, sir!
+[name="근위국 멤버"]  ……감사합니다, 장관님!
 
 [name="近卫局成员"]  如果你没帮我们挡下那个......
 [name="近衛局隊員"]  もし、あの攻撃を受け止めていただけなければ……。
 [name="L. G. D. Officer"]  If you hadn't come to help...
+[name="근위국 멤버"]  장관님께서 도와주시지 않았다면 어떻게 되었을지……
 
 [name="？？？"]  ......
 [name="？？？"]  ……。
 [name="???"]  ......
+[name="???"]  ……
 
 [name="？？？"]  背后。
 [name="？？？"]  後ろだ。
 [name="???"]  Behind you.
+[name="???"]  뒤를 봐라.
 
 [name="近卫局成员"]  快，快回击！
 [name="近衛局隊員"]  は、反撃だ！
 [name="L. G. D. Officer"]  C- counterattack!
+[name="근위국 멤버"]  서, 서둘러 반격해라!
 
 [name="？？？"]  没用。
 [name="？？？"]  無駄だ。
 [name="???"]  It is no use.
+[name="???"]  소용없다.
 
 [name="？？？"]  你们聚拢。缩起来。
 [name="？？？"]  部隊を集合させ、防御を固めろ。
 [name="???"]  Form up. And fall back.
+[name="???"]  집결해라. 간격을 좁히도록.
 
 [name="近卫局成员"]  明白！
 [name="近衛局隊員"]  了解しました！
 [name="L. G. D. Officer"]  Yes, sir!
+[name="근위국 멤버"]  옛!
 
 [name="近卫局成员"]  不，可是那样......
 [name="近衛局隊員"]  いや、ですがそれでは……。
 [name="L. G. D. Officer"]  No, if we do that...
+[name="근위국 멤버"]  아니, 하지만 그랬다가는……
 
 [name="近卫局成员"]  不行。在这里，光防御并没有用。我们必须得主动寻找出路......
 [name="近衛局隊員"]  ダメです。この場所の状況では、防御に回っていてもどうにもなりません。どうにか活路を見出さなければ……。
 [name="L. G. D. Officer"]  We can't hold here. We have to find a way out...
+[name="근위국 멤버"]  무리입니다. 여기서 방어만 하는 건 아무 소용없습니다. 어떻게든 활로를 찾아야……
 
 [name="近卫局成员"]  对了，从高处！我们从楼梯走，反过来利用建筑里的走廊攻击它们！
 [name="近衛局隊員"]  そうだ、上です！　階段を上がって、建物の中の通路を利用して反撃に出るんです！
 [name="L. G. D. Officer"]  Of course! The high ground! We move up the stairs and attack down into the corridor!
+[name="근위국 멤버"]  그렇지! 위로 가면 됩니다! 계단을 올라가서 건물 안에 있는 복도를 이용하면 반격할 수 있을 겁니다!
 
 [name="近卫局成员"]  ......不成，好像还是只能防御。但至少不会再被这一大群疯子挤在角落了！
 [name="近衛局隊員"]  ……いや、それでもやはり防御に回るしかなさそうです。ですが上に行けば、少なくともこの化け物たちに袋小路に追い詰められることはなくなります！
 [name="L. G. D. Officer"]  ...No. All we can do is hold. But at least we won't get cornered by this crowd of lunatics!
+[name="근위국 멤버"]  ……아니, 지금은 방어할 수밖에 없어! 하지만 적어도 저 미친 녀석들에게 쫓겨 구석에 몰리는 상황만은 막아야 하니……
 
 [name="近卫局成员"]  对，先转移，然后通过各出入口聚拢，快速收缩队伍，进入防御姿态！快，动起来！
 [name="近衛局隊員"]  ええ、まずは上に移動して出入り口に集まって、それから部隊を集めて防御態勢を築くんです！　全員、早く行動に移るぞ！
 [name="L. G. D. Officer"]  Right. Come about, gather up at each doorway, pull back the teams, and take a defensive formation! Hurry! Move!
+[name="근위국 멤버"]  그래, 일단은 위로 이동해서, 출입구에서 집결하자. 그리고 서둘러 진형을 정비한 후 방어 태세를 취하는 거다! 서둘러, 어서 움직여!
 
 [name="？？？"]  很好。加分。
 [name="？？？"]  悪くない。評価点を追加だ。
 [name="???"]  Well done. I approve.
+[name="???"]  나쁘지 않군. 가산점을 주지.
 
 [name="近卫局成员"]  长官，请跟我们一起来！
 [name="近衛局隊員"]  上官、我々と共に上へ！
 [name="L. G. D. Officer"]  Sir, come with us!
+[name="근위국 멤버"]  장관님, 저희와 함께 위로 올라가시죠!
 
 [name="？？？"]  不用。
 [name="？？？"]  必要ない。
 [name="???"]  No need.
+[name="???"]  괜찮다.
 
 [name="近卫局成员"]  啊？
 [name="近衛局隊員"]  えっ？
 [name="L. G. D. Officer"]  What?
+[name="근위국 멤버"]  예?
 
 [name="？？？"]  你们去。
 [name="？？？"]  君たちだけで行け。
 [name="???"]  Go.
+[name="???"]  너희는 가라.
 
 [name="？？？"]  我从地上走过去。
 [name="？？？"]  私は地上から行く。
 [name="???"]  I will move on the ground.
+[name="???"]  나는 지상을 통해 가겠다.
 
 [name="？？？"]  ......
 [name="？？？"]  ……。
 [name="???"]  ......
+[name="???"]  ……
 
 [name="近卫局成员"]  攻势太猛烈了！！
 [name="近衛局隊員"]  なんて激しい攻撃だ！！
 [name="L. G. D. Officer"]  We can't hold them!
+[name="근위국 멤버"]  공격이 너무 거셉니다!
 
 [name="近卫局成员"]  我们装备的都是穿刺性武器，没法有效对抗他们！
 [name="近衛局隊員"]  ダメです。我々の装備はどれも刺突型の武器です、奴らにはほとんど効きません！
 [name="L. G. D. Officer"]  All we have is piercing weapons, and they're useless against these things!
+[name="근위국 멤버"]  저희 장비는 전부 관통형 무기라서, 놈들한텐 효과가 없습니다!
 
 [name="近卫局队长"]  不能退后！
 [name="近衛局隊長"]  下がるな！
 [name="L. G. D. Captain"]  Hold your ground!
+[name="근위국 대장"]  물러서지 마라!
 
 [name="近卫局队长"]  我们背后是安全区！要是让他们打进去了，里面的市民就完了！
 [name="近衛局隊長"]  我々の後ろは避難区画だ！　もし奴らの侵入を許せば、市民たちも一巻の終わりだ！
 [name="L. G. D. Captain"]  We're the last line of defense for the civilians behind us!
+[name="근위국 대장"]  우리의 뒤는 안전 구역이다! 우리가 무너지면 안쪽에 있는 시민들도 전부 끝나는 거야!
 
 [name="近卫局成员"]  那怎么办？！
 [name="近衛局隊員"]  ではどうすれば！？
 [name="L. G. D. Officer"]  Then what do we do?!
+[name="근위국 멤버"]  그러면 어떻게 해야 합니까?!
 
 [name="近卫局队长"]  要战便战！战到近卫局一个都不剩为止！
 [name="近衛局隊長"]  戦うだけだ！　近衛局の最後の一人が倒れるまでな！
 [name="L. G. D. Captain"]  We fight to the last man!
+[name="근위국 대장"]  마지막 한 명이 쓰러질 때까지 목숨 걸고 버텨야지!
 
 [name="近卫局队长"]  小心源石投掷物，除了会腐蚀装备以外，有些是会爆炸的！
 [name="近衛局隊長"]  敵が投げてくる源石には気をつけろ、装備を腐食させる以外に、爆発するものもある！
 [name="L. G. D. Captain"]  Watch the Originium they're throwing. It corrodes your equipment, and some of them explode!
+[name="근위국 대장"]  오리지늄 투척물을 조심해라, 장비만 부식시키는 게 아니야, 폭발할 수 있다!
 
 [name="近卫局成员"]  啊......！阿中受伤了！
 [name="近衛局隊員"]  あっ……！　ジョンが怪我を！
 [name="L. G. D. Officer"]  Ah...! They hit Ah Chung!
+[name="근위국 멤버"]  어엇……! 아중이 부상을 입었다!
 
 [name="近卫局队长"]  阿中，退下来！你，顶上去！别让它们穿过防线！
 [name="近衛局隊長"]  おい、ジョン、下がれ！　お前、受け止めろ！　奴らに防衛線を跨がせるな！
 [name="L. G. D. Captain"]  Ah Chung, get back! You, move up! Don't let them through!
+[name="근위국 대장"]  아중, 물러서! 너, 가서 막아라! 녀석들이 방어선을 뚫게 놔둬선 안 돼!
 
 [name="牧群"]  咕。
 [name="家畜"]  ぐう。
 [name="Herd"]  Guuhhh.
+[name="메피스토의 가축"]  그어어어……
 
 [name="近卫局成员"]  啊啊啊啊！它，它抓到我了，它在咬，不，唉啊啊！！！
 [name="近衛局隊員"]  うわああ！　つ、捕まった、噛み付か、いや、ぐわあああ！！！
 [name="L. G. D. Officer"]  Aaaaaagh! Th- they got me! They're eating me! Noo! Aaaaieeeee!!!
+[name="근위국 멤버"]  아아아악! 녀, 녀석이 날 할퀴었어, 물어 뜯긴다! 안 돼! 으아악!!!
 
 [name="近卫局队长"]  阿义！！！
 [name="近衛局隊長"]  おい！　イー、しっかりしろ！！！
 [name="L. G. D. Captain"]  Ah Yee!!!
+[name="근위국 대장"]  아의!!!
 
 [name="？？？"]  真丢人！
 [name="？？？"]  情けない！
 [name="???"]  How embarrassing!
+[name="???"]  정말 창피하구나!
 
 [name="？？？"]  纵贯白雷正法，去！
 [name="？？？"]  縦貫白雷正法（じゅうかんびゃくらいせいほう）、行け！
 [name="???"]  Zongguan Bailei Zhengfa, loose!
+[name="???"]  종관백뢰정법, 가라!
 
 [name="牧群"]  唔，唔！！
 [name="家畜"]  ぐっ、ぐぅ！！
 [name="Herd"]  Nnng...!!
+[name="메피스토의 가축"]  그으, 그으어어!!
 
 [name="近卫局队长"]  雷电法术？！
 [name="近衛局隊長"]  電撃系のアーツ！？
 [name="L. G. D. Captain"]  Lightning Arts?!
+[name="근위국 대장"]  번개 속성의 아츠?!
 
 [name="近卫局队长"]  什，什么......一瞬间就把这些躁狂患者都消灭了？
 [name="近衛局隊長"]  な、なんだと……一瞬であの凶暴な化け物たちを消し去った？
 [name="L. G. D. Captain"]  H- how... you wiped them all out in one bright flash?
+[name="근위국 대장"]  뭐, 뭐야… 눈 깜빡할 사이에 저 미친 녀석들을 전부 쓸어버리다니?
 
 [name="？？？"]  哈，哈......
 [name="？？？"]  はぁっ、はぁっ……。
 [name="???"]  *Pant...* *pant...*
+[name="???"]  하아, 하아……
 
 [name="？？？"]  刚才就说了不会出手不会出手，没想到，你们这些个样子怎么保护百姓？！
 [name="？？？"]  あなたがたがそんな様子で、どうやって市民を守るつもりですか？　私は手を出さないと言ったはずなのに……。
 [name="???"]  I just said I would not act. Little did I know how incapable you are of protecting the masses.
+[name="???"]  아깐 못 버티네 마네 그러더니만, 보십시오, 이런 꼴로 어찌 백성을 지킬 수 있겠습니까?!
 
 [name="？？？"]  到最后居然还是让我动手了，太丢脸了！
 [name="？？？"]  結局私に手を出させるなんて、情けないとはこのことです！
 [name="???"]  That I would be forced to take such action, it's humiliating!
+[name="???"]  결국 제가 나서게 만들다니, 실망스럽기 그지없군요!
 
 [name="近卫局队长"]  监察司长官......
 [name="近衛局隊長"]  監察官様……。
 [name="L. G. D. Captain"]  Madam Censor...
+[name="근위국 대장"]  감찰사님……
 
 [name="监察司"]  长官前长官后的，不是让你们当我不存在吗？
 [name="監察官"]  口を開けば監察官様ですか。私を存在しないものとして扱えと警告したはずです。
 [name="Censor"]  Madam nothing! Were you not told to ignore my presence?
+[name="감찰사"]  언제까지 장관만 찾고 있을 겁니까, 저는 없는 사람 취급하라고 말씀드렸을 텐데요?
 
 [name="近卫局队长"]  ......我们没想......
 [name="近衛局隊長"]  ……いえ、ですがあなたが……。
 [name="L. G. D. Captain"]  ...We never thought...
+[name="근위국 대장"]  ……저희는 그런 생각을 한 게……
 
 [name="监察司"]  本来想说精神可嘉，结果你们现在都活蹦乱跳的，还把事情丢给我解决，也不知道你们还能干些什么！
 [name="監察官"]  熱意のある方々だと評価していましたが、何もできずに混乱してドタバタするだけとは何事ですか！　そんな様子で他に一体何ができると言うのです！
 [name="Censor"]  I found your spirit laudable. How disappointing it was to see you hopping about aimlessly, leaving me to do your work. Honestly, what were you doing?
+[name="감찰사"]  원래 그 정신만은 칭찬해 주려 했건만, 우왕좌왕하다 결국에는 제가 직접 손을 쓰게 만들다니… 당신들은 스스로 뭘 할 수 있는지조차 모르고 있는 겁니까!
 
 [name="监察司"]  走！去下个地方！
 [name="監察官"]  行きますよ！　次の目的地に！
 [name="Censor"]  Now! To your place!
+[name="감찰사"]  가세요! 다음 지역으로!
 
 [name="近卫局队长"]  可是你刚才说......
 [name="近衛局隊長"]  ですがあなたは先程……。
 [name="L. G. D. Captain"]  But you just said...
+[name="근위국 대장"]  하지만 방금 전에는……
 
 [name="监察司"]  快指路！我都动手了，你们怎么就不知道动作快点！
 [name="監察官"]  早く道を教えなさい！　私が手伝ってあげているのです、何をダラダラしているんですか！
 [name="Censor"]  Chop chop! How have you not learned to move with haste even after witnessing me?
+[name="감찰사"]  어서 안내하십시오! 제가 이렇게 직접 나서기까지 했는데, 빨리 안 움직이고 뭐 하는 겁니까!
 
 [name="监察司"]  对了，刚刚我没出手过，一定给我记住了，明白吗？
 [name="監察官"]  それと、もう一つ。先程ですが、私は何もしていません。くれぐれも間違わないように。いいですね？
 [name="Censor"]  Oh, but of course. You did not witness me. I did nothing. Is that clear?
+[name="감찰사"]  그리고, 방금은 제가 손을 쓴 게 아닙니다. 그렇게 알아두세요, 아시겠습니까?
 
 [name="近卫局队长"]  明白！
 [name="近衛局隊長"]  承知いたしました！
 [name="L. G. D. Captain"]  Crystal!
+[name="근위국 대장"]  알겠습니다!
 
 [name="监察司"]  但百姓要是受到一分一毫的伤害，你们都该撤职，我也得辞职，全部失业！
 [name="監察官"]  ですがもし市民が少しでも損害を負うような事があれば、あなたがたの首は皆飛びますし、私も辞職せざるを得ません。ええ、全員失業ですからね！
 [name="Censor"]  But if a single hair on the head of a single commoner comes to harm, you are all terminated. Even I must resign. We are all unemployed.
+[name="감찰사"]  시민들이 조금이라도 피해를 입는다면, 당신들 전부 해고시키고! 저도 사표 쓰겠습니다! 전부 실업자 되는 꼴 보기 싫으면, 반드시 지켜내십시오! 아시겠습니까?
 
 [name="近卫局队长"]  明，明白......我们会尽力的。
 [name="近衛局隊長"]  わ、わかりました……尽力致します。
 [name="L. G. D. Captain"]  Y- yes, of course... We'll fight with all our strength.
+[name="근위국 대장"]  아, 알겠습니다… 최선을 다하겠습니다!
 
 [name="监察司"]  知道就好！还站在那干嘛？走呀！
 [name="監察官"]  わかればよろしい！　そこで突っ立って何をしているのですか？　行きますよ！
 [name="Censor"]  Very good. Now why are you just standing there? Move!
+[name="감찰사"]  알았으면 됐습니다! 뭐해요? 어서 안 가고!
 
 [name="监察司"]  ......对了，你们认识那些黑蓑吗？
 [name="監察官"]  ……そういえば、あの黒装束たちはお知り合いで？
 [name="Censor"]  By the way...? Do you know those Black Cloaks?
+[name="감찰사"]  ……아 참, 혹시 검은 삿갓을 쓴 자들에 대해 알고 있는 게 있나요?
 
 [name="近卫局队长"]  黑蓑？那是什么？
 [name="近衛局隊長"]  黒装束？　なんですかそれは？
 [name="L. G. D. Captain"]  Black Cloak? What's that?
+[name="근위국 대장"]  검은 삿갓이요? 그게 뭡니까?
 
 [name="监察司"]  眼力太差了吧！就是那些在楼顶上行动的，穿黑色蓑衣的人啊。
 [name="監察官"]  見ていないのですか！？　屋上にいた、あの黒い装束を着た人たちのことですよ。
 [name="Censor"]  Get your eyes checked! Those people on the rooftops, wearing the billowing black cloaks.
+[name="감찰사"]  관찰력이 부족하군요! 저기 옥상에서 움직이던 검은 삿갓을 쓴 자들 말입니다.
 
 [name="近卫局队长"]  ......抱歉长官，你说什么？
 [name="近衛局隊長"]  ……申し訳ありません監察官様、何のことを仰っているのですか？
 [name="L. G. D. Captain"]  Apologies, Madam. What are you talking about?
+[name="근위국 대장"]  ……죄송합니다 장관님, 대체 어디에 있단 겁니까?
 
 [name="诗怀雅"]  盾卫出列！
 [name="スワイヤー"]  防衛隊、前へ！
 [name="Swire"]  Defenders, fan out!
+[name="스와이어"]  방패병, 앞으로!
 
 [name="陈"]  侦察队，后撤！死守火力点！
 [name="チェン"]  偵察隊、下がれ！　火力点を死守せよ！
 [name="Ch'en"]  Recon team, fall back! Hold firing position!
+[name="첸"]  정찰대, 후퇴! 진형을 사수해라!
 
 [name="陈"]  这些突变感染者，居然还会扰乱电波？这样下去，侦察队也会有危险！
 [name="チェン"]  この突然変異した感染者、電波妨害までできるのか？　このままだと偵察隊も危険だ！
 [name="Ch'en"]  Are these Infected mutants messing with the radio waves? Our scouts could be in trouble.
+[name="첸"]  저 변이한 감염자는 전파도 교란할 수 있는 건가? 이대로 가다간 정찰대도 위험하다!
 
 [name="诗怀雅"]  ......没法停下来！止不住！你刚才一个人砍了多少这种东西？能不能再表演一遍？！
 [name="スワイヤー"]  ……クッ、止められない！　もう保たないわ！　アンタさっき一人であれだけ倒したでしょ？　もう一度実演してくれないかしら！？
 [name="Swire"]  We can't hold them...! There's so many! Didn't you cut through a whole wave of these things back there? Why haven't you done that already?!
+[name="스와이어"]  ……멈출 수 없어! 못 막겠다고! 아까 넌 혼자서 이런 걸 얼마나 쓰러뜨린 거야?  한 번 더 보여주면 안 될까?!
 
 [name="陈"]  不一样！
 [name="チェン"]  状況が違う！
 [name="Ch'en"]  This is different!
+[name="첸"]  아까랑은 상황이 달라!
 
 [name="诗怀雅"]  啊？个仆街龙关键时刻怎么这么没用！
 [name="スワイヤー"]  はぁ？　大事な時に使えないゴロツキ龍ね！
 [name="Swire"]  Hah. Leave it to this puk gaai Lung to be so useless right when we need her most!
+[name="스와이어"]  뭐어어? 이 빌어먹을 용, 꼭 좀 써먹을라 그러면 쓸모가 없다니까!
 
 [name="陈"]  那你先表演点作用给我看看！
 [name="チェン"]  だったら、まずはお前が実演して見せてみろ！
 [name="Ch'en"]  Then why don't you show us what you can do!
+[name="첸"]  그러면 네가 먼저 보여주던가!
 
 [name="诗怀雅"]  无人机！
 [name="スワイヤー"]  ドローン！
 [name="Swire"]  Drone!
+[name="스와이어"]  드론!
 
 [name="陈"]  啊。
 [name="チェン"]  なにっ。
 [name="Ch'en"]  Huh.
+[name="첸"]  뭐?
 
 [name="诗怀雅"]  陈警司说了！！！侦察队！！！后撤！！！死守火力点！！！
 [name="スワイヤー"]  チェン隊長が言ってるわ！！！　偵察隊！！！　下がれ！！！　火力点を死守せよ！！！
 [name="Swire"]  SUPERINTENDENT CH'EN SAYS: RECON TEAM! FALL BACK! HOLD FIRING POSITION!
+[name="스와이어"]  첸 팀장의 지시다!!! 정찰대!!! 후퇴!!! 진형을 사수해라!!!
 
 [name="诗怀雅"]  怎么样？
 [name="スワイヤー"]  どうよ？
 [name="Swire"]  How was that?
+[name="스와이어"]  어때?
 
 [name="陈"]  啊？
 [name="チェン"]  ああ？
 [name="Ch'en"]  Huh?
+[name="첸"]  뭐라고??
 
 [name="诗怀雅"]  我问你怎么样！火力小组，弩弹发射！
 [name="スワイヤー"]  どうだって聞いてんのよ！　火力小隊、一斉掃射！
 [name="Swire"]  I said how was that?! Fire team, loose explosive bolts!
+[name="스와이어"]  뭐 하잔 거냐고? 화력팀, 일제 사격 개시!
 
 [name="陈"]  你说什么？？
 [name="チェン"]  なんだって？？
 [name="Ch'en"]  What did you say?!
+[name="첸"]  방금 뭐라 그랬어??
 
 [name="诗怀雅"]  ......
 [name="スワイヤー"]  ……。
 [name="Swire"]  ......
+[name="스와이어"]  ……
 
 [name="陈"]  你把我弄耳鸣了！！
 [name="チェン"]  お前のバカデカイ声のせいで、耳鳴りがして聞こえないんだ！！
 [name="Ch'en"]  Am I deaf now thanks to you?!
+[name="첸"]  귀가 울려서 하나도 안 들린다고!!
 
 [name="陈"]  去，用你这本领通知带β号源石电台的通讯小组，让他通知其他各大队，牧群棘手，坚守位置，尽量减少伤亡，别省火力！
 [name="チェン"]  それより、お前のそのデカイ声でβ号源石発信機を所持している通信小隊に各部隊へ通達を出すように伝えろ。「敵は強大、戦線の維持を第一とし極力死傷者を減らせ。火力は惜しむな！」と。
 [name="Ch'en"]  Go. Use your talents to get the word out to the communications team at Originium Transciever Beta. Have them tell everyone: the herd is tough, hold your positions, minimize casualties, don't conserve firepower.
+[name="첸"]  가라! 재주껏 베타 오리지늄 통신기를 가진 통신팀을 찾아서 각 부대에 이렇게 알리도록! 메피스토의 부대는 상대하기 까다로우니, 위치를 지키고 최대한 피해를 줄이며 화력을 유지하라고!
 
 [name="诗怀雅"]  你可真是个*不雅用语*！
 [name="スワイヤー"]  あんたって、ほんっとーに*スラング*ね！
 [name="Swire"]  You really are a *Lungmen profanity*!
+[name="스와이어"]  저 *그다지 곱지 못한 말* 없는 *용문 욕설* 진짜…
 
 [name="陈"]  我看到你的嘴型了！
 [name="チェン"]  おい、今言った言葉、口が読めたぞ！
 [name="Ch'en"]  I can read your lips!
+[name="첸"]  입모양 다 보이거든!
 
 [name="诗怀雅"]  （“丢”音的嘴型）
 [name="スワイヤー"]  （*龍門スラング*の口パク）
 [name="Swire"]  (Mouthing the word "diu").
+[name="스와이어"]  (ㅣㅏㅕ……)
 
 [name="近卫局成员"]  陈sir！
 [name="近衛局隊員"]  チェン隊長！
 [name="L. G. D. Officer"]  Sir!
+[name="근위국 멤버"]  첸 팀장님!
 
 [name="陈"]  我听不清！
 [name="チェン"]  なんだ！　聞こえない！
 [name="Ch'en"]  I can't hear you!
+[name="첸"]  잘 들리지 않는다!
 
 [name="近卫局成员"]  陈sir！！
 [name="近衛局隊員"]  チェン隊長！！
 [name="L. G. D. Officer"]  SIR!
+[name="근위국 멤버"]  첸 팀장님!!
 
 [name="牧群"]  （此起彼伏的咆哮）
 [name="家畜"]  （ひっきりなしに響く咆哮）
 [name="Herd"]  (Din of roaring).
+[name="메피스토의 부대"]  (크아아아아악!!)
 
 [name="陈"]  声音再大点！！
 [name="チェン"]  もっと大きな声で言え！！
 [name="Ch'en"]  Speak up!
+[name="첸"]  더 크게 말해!!!
 
 [name="近卫局成员"]  陈sir！！！
 [name="近衛局隊員"]  チェン隊長！！！
 [name="L. G. D. Officer"]  SIR!!!
+[name="근위국 멤버"]  첸 팀장님!!!
 
 [name="近卫局盾卫"]  用破墙弹！快！破墙弹！
 [name="近衛局守衛"]  グレネードを使え！　早く！　グレネードを撃て！
 [name="L. G. D. Defender"]  Use the bunker-busters! Hurry!
+[name="근위국 방패병"]  충격탄! 임마! 충격탄을 쓰라고!
 
 [name="近卫局成员"]  ......
 [name="近衛局隊員"]  ……。
 [name="L. G. D. Officer"]  ......
+[name="근위국 멤버"]  ……
 
 [name="陈"]  ......
 [name="チェン"]  ……。
 [name="Ch'en"]  ......
+[name="첸"]  ……
 
 [name="陈"]  真安静啊。
 [name="チェン"]  静かになったな。
 [name="Ch'en"]  It's quiet.
+[name="첸"]  너무 조용한데.
 
 [name="近卫局成员"]  陈sir。
 [name="近衛局隊員"]  チェン隊長。
 [name="L. G. D. Officer"]  Sir.
+[name="근위국 멤버"]  첸 팀장님.
 
 [name="陈"]  嗯，我听得见。
 [name="チェン"]  ああ、今なら聞こえる。
 [name="Ch'en"]  Okay. I can hear you.
+[name="첸"]  그래, 이제 들린다.
 
 [name="近卫局成员"]  ......
 [name="近衛局隊員"]  ……。
 [name="L. G. D. Officer"]  ......
+[name="근위국 멤버"]  ……
 
 [name="陈"]  说。没关系。
 [name="チェン"]  どうした。
 [name="Ch'en"]  Go ahead. Speak.
+[name="첸"]  괜찮으니까 말해.
 
 [name="近卫局成员"]  我们有......客人。
 [name="近衛局隊員"]  客人が……いらっしゃっているようです。
 [name="L. G. D. Officer"]  We have... guests.
+[name="근위국 멤버"]  손님이…… 온 것 같습니다.
 
 [name="陈"]  已经来了吗？看来已经顺势混进我们的小队里了。
 [name="チェン"]  もう来たのか？　どうやらそのまま我々の小隊に混ざり込んだようだな。
 [name="Ch'en"]  Already? They took the chance to infiltrate our unit, huh.
+[name="첸"]  벌써 온 건가? 순조롭게 우리 팀에 잠입한 모양이군.
 
 [name="陈"]  也算是意料之中。他们不可能真放手让近卫局去做的。
 [name="チェン"]  まぁ想定通りだな。彼らが手放しに全てを近衛局にやらせるはずもないだろうしな。
 [name="Ch'en"]  I guess it's to be expected. They were never going to give us free rein.
+[name="첸"]  예상했던 일이다. 그 사람들도 근위국이 움직이는 모습을 손 놓고 바라만 볼 순 없었겠지.
 
 [name="陈"]  无所谓，不用改变任何计划。让他们看看龙门的实力。
 [name="チェン"]  問題ない、計画は一切変更なし。彼らに龍門の実力を見せてやれ。
 [name="Ch'en"]  Anyway, it doesn't change our plans. Let them see how strong Lungmen is.
+[name="첸"]  상관없다, 계획 변경은 없다. 그 사람들에게 우리 용문의 실력을 보여줘라.
 
 [name="近卫局成员"]  还有一个消息，我......不知道它的准确性怎么样。
 [name="近衛局隊員"]  更にもう一つ情報があります。とはいえ……その正確性は保証できませんが……。
 [name="L. G. D. Officer"]  One more thing. I... I'm not sure how accurate the reports are.
+[name="근위국 멤버"]  다른 소식도 있습니다, 그런데…… 얼마나 정확한지는 잘 모르겠습니다.
 
 [name="陈"]  你说。
 [name="チェン"]  言ってみろ。
 [name="Ch'en"]  Out with it.
+[name="첸"]  말해라.
 
 [name="近卫局成员"]  有队员目击到身穿黑色雨披的人。
 [name="近衛局隊員"]  全身に黒ずくめの装束をまとった不審な者たちを目撃した隊員がいます。
 [name="L. G. D. Officer"]  Some units have reported sightings of individuals wearing black raincoats.
+[name="근위국 멤버"]  몇몇 대원이 검은 삿갓을 쓴 자를 목격했다 합니다.
 
 [name="陈"]  整合运动？
 [name="チェン"]  レユニオンの増援か？
 [name="Ch'en"]  Reunion?
+[name="첸"]  리유니온인가?
 
 [name="近卫局成员"]  恰好相反，我们发现的都是整合运动与他们交战的痕迹。而且......
 [name="近衛局隊員"]  いえ、どちらかと言えばその逆です。レユニオンと彼らが交戦した痕跡が見つかっています。しかも……。
 [name="L. G. D. Officer"]  Thankfully no. We've seen evidence of them clashing with Reunion. And...
+[name="근위국 멤버"]  그 반대입니다. 리유니온과 그들이 교전한 흔적이 발견되었습니다. 게다가……
 
 [name="陈"]  而且什么？
 [name="チェン"]  しかも？
 [name="Ch'en"]  And what?
+[name="첸"]  게다가 뭐지?
 
 [name="近卫局成员"]  而且......那些整合运动的死状都很......
 [name="近衛局隊員"]  しかも……交戦したとみられるレユニオンたちは、どれも悲惨な死に方で……。
 [name="L. G. D. Officer"]  And... the Reunion they clashed with all seem to have died in, how can I describe it...?
+[name="근위국 멤버"]  게다가…… 그 리유니온이 죽은 모습은 정말……
 
 [name="陈"]  搞什么都市传说，大晴天的穿着黑色雨披在龙门里神出鬼没？真该去看精神科了......
 [name="チェン"]  一体何の都市伝説だ。こんな非常事態に黒装束を着て龍門を跋扈する者たちだと……？　それを目撃したと言っている者たちの精神状態を確かめねば……。
 [name="Ch'en"]  Sounds like an urban legend. You've got shadowy figures running around Lungmen in black raincoats on a bright, sunny day? Somebody needs help...
+[name="첸"]  대낮에 검은 삿갓을 쓰고 용문 안을 신출귀몰하게 돌아다닌다니, 무슨 도시 전설도 아니고…… 정신과 상담이라도 받아보는 게 좋겠군.
 
 [name="陈"]  ......
 [name="チェン"]  ……。
 [name="Ch'en"]  ......
+[name="첸"]  ……
 
 [name="陈"]  黑色雨披？
 [name="チェン"]  いや待て、黒装束……？
 [name="Ch'en"]  Black raincoats?
+[name="첸"]  검은 삿갓?
 
 [name="灰喉"]  ......
 [name="グレースロート"]  ……。
 [name="GreyThroat"]  ......
+[name="그레이스롯"]  ……
 
 [name="灰喉"]  这是......什么？
 [name="グレースロート"]  これは……何？
 [name="GreyThroat"]  What is... that?
+[name="그레이스롯"]  저건…… 뭐지?
 
 [name="？？？"]  ......
 [name="？？？"]  ……。
 [name="???"]  ......
+[name="???"]  ……
 
 [name="？？？"]  十二区已洁净。已抹除全部感染者。
 [name="？？？"]  第十二区クリア。感染者は全て抹殺した。
 [name="???"]  Sector 12 cleansed. Purged of Infected.
+[name="???"]  제12구역 올 클리어. 감염자들을 전부 말살했다.
 
 [name="？？？"]  三队、四队正在行动中。
 [name="？？？"]  第三隊、第四隊は引き続き行動中。
 [name="???"]  Teams 3 and 4 operating.
+[name="???"]  3팀 4팀은 현재 작전 진행 중.
 
 [name="？？？"]  前往下一区域。
 [name="？？？"]  次のエリアへ向かう。
 [name="???"]  Moving to next sector.
+[name="???"]  다음 구역으로 이동하겠다.
 
 [name="牧群"]  呃......呃......
 [name="家畜"]  ぐうっ……ぐうっ……。
 [name="Herd"]  Guh... Ugh...
+[name="메피스토의 가축"]  그으…… 그으윽……
 
 [name="牧群"]  （诡异的哭号）
 [name="家畜"]  （奇怪な鳴き声）
 [name="Herd"]  (Strange crying).
+[name="메피스토의 가축"]  크으어어어어!!!!!
 
 [name="整合运动成员"]  为、为什么！为什么要伤害同胞，醒醒啊！
 [name="レユニオン構成員"]  ど、どうして！　どうして同胞に攻撃するんだ、目を醒ませ！
 [name="Reunion Member"]  W- why! Why are you hurting your people? Snap out of it!
+[name="리유니온 멤버"]  어, 어째서! 왜 동포를 공격하는 거냐, 정신차려!
 
 [name="整合运动成员"]  不、不行！快逃，快逃啊！
 [name="レユニオン構成員"]  だ、ダメだ！　早く、早く逃げろ！
 [name="Reunion Member"]  N- no! Run! Hurry!
+[name="리유니온 멤버"]  트, 틀렸어! 빨리 도망가!
 
 [name="整合运动成员"]  你们快走，别被他们抓住！快走啊！
 [name="レユニオン構成員"]  お前たちは先に行け、こいつらに捕まるな！　早く！
 [name="Reunion Member"]  Get out of here! Don't let them get you! Run!
+[name="리유니온 멤버"]  어서 가, 잡히면 안 돼! 어서!
 
 [name="？？？"]  已发现额外目标。
 [name="？？？"]  想定外の目標を確認。
 [name="???"]  Additional target acquired.
+[name="???"]  추가 목표 확인.
 
 [name="？？？"]  感染者流窜群体，发现于十三区、六区交界。四十四人。
 [name="？？？"]  逃走中の感染者群、第十三区と第六区との境目エリアで発見。数は計四十四人。
 [name="???"]  Infected fugitive group on the border of Sectors 13 and 6. 44 individuals.
+[name="???"]  제13구역과 제6구역 경계 지역에서 감염자 무리 도주 중. 전부 44명이다.
 
 [name="？？？"]  预计完成时间小于五分钟。
 [name="？？？"]  完了所要時間、五分以内。
 [name="???"]  Completion estimate: within five minutes.
+[name="???"]  예상 시간 5분 이내.
 
 [name="？？？"]  行动开始。
 [name="？？？"]  行動開始。
 [name="???"]  Operation commencing.
+[name="???"]  작전 개시.
 
 [name="整合运动成员"]  啊，救、救救我们！
 [name="レユニオン構成員"]  あ……あ……た、助けてくれ！
 [name="Reunion Member"]  Agh! H- help!
+[name="리유니온 멤버"]  으아악! 사, 살려줘!
 
 [name="整合运动成员"]  我们投降！我们——
 [name="レユニオン構成員"]  待ってくれ！　投降する！　俺たちは投降——
 [name="Reunion Member"]  We surrender! We——
+[name="리유니온 멤버"]  항복하겠다! 항복……
 
 [name="灰喉"]  ......
 [name="グレースロート"]  ……。
 [name="GreyThroat"]  ......
+[name="그레이스롯"]  ……
 
 [name="灰喉"]  ..................
 [name="グレースロート"]  ………………。
 [name="GreyThroat"]  ............
+[name="그레이스롯"]  ………………
 
 [name="灰喉"]  呃，唔......不，不......
 [name="グレースロート"]  うう……ダメ、いや……。
 [name="GreyThroat"]  Um... N- no...
+[name="그레이스롯"]  큭…… 아, 안 돼……
 

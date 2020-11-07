@@ -1,688 +1,860 @@
 [name="整合运动术师"]     W，我们遇到了点麻烦。
 [name="レユニオン術師"]     W、面倒なことになったわ。
 [name="Reunion Caster"]     W, we're in trouble here.
+[name="리유니온 캐스터"]     W, 문제가 좀 생겼습니다.
 
 [name="W"]   嚯......值得你们用这个频道联系我，怎么？发现了什么有趣的事情？
 [name="W"]   へぇ～……あなた達がこのチャンネルで私に連絡してくる程のことなのね。どうしたの？　何か面白いものでも見つけた？
 [name="W"]   Ooh... Must be something fun for you to contact me on this channel. What's up?
+[name="W"]   흠…… 내게 연락할 가치가 있는 일이었으면 좋겠는데. 뭔데? 무슨 재미있는 일이라도 있었어?
 
 [name="整合运动术师"]     不太有趣，W，在你重整那些萨卡兹雇佣兵的时候，有一支队伍叛逃了。
 [name="レユニオン術師"]     面白くはないわ。あなたがあのサルカズの傭兵たちを立て直してる時に、そのうちの部隊の一つが裏切ったの。
 [name="Reunion Caster"]     Not that much fun, W. While you were sorting out that Sarkaz mercenary, one of our teams deserted.
+[name="리유니온 캐스터"]     재미는 없을 겁니다, W. 살카즈 용병들을 재정비하는 동안, 한 부대가 우리를 배신하고 도주했습니다.
 
 [name="整合运动术师"]     好像是支负责清扫战场的后勤队伍，所以我们直接发起了追击。
 [name="レユニオン術師"]     戦場の後処理をする支援部隊みたいだったから、特に脅威ではないと踏んで私たちはすぐに追撃に出た。
 [name="Reunion Caster"]     They looked like some kind of battlefield mop up logistics team, so we got after them right away.
+[name="리유니온 캐스터"]     전장 소탕을 맡은 지원부대인 듯하여 우린 바로 뒤를 쫓았고,
 
 [name="整合运动术师"]     意料之内的，他们变成了一盘散沙，一触即溃，开始向城外撤离。
 [name="レユニオン術師"]     しかも相手はちょっと攻撃したら散り散りになって都市外へ逃げ始めたわ。そこまでは予想通り。
 [name="Reunion Caster"]     They scattered as soon as we made contact, making for the city limits.
+[name="리유니온 캐스터"]     놈들은 뿔뿔이 흩어져 도시 밖으로 도망쳤습니다. 여기까진 예상대로입니다만…
 
 [name="W"]   可喜可贺。
 [name="W"]   そう、それは良かったわね。
 [name="W"]   Sounds like somebody earned a cookie.
+[name="W"]   잘 된 일이잖아 그럼.
 
 [name="整合运动术师"]     但，意料之外的情况是......我们派去追击的小队，和我们失去了联系。
 [name="レユニオン術師"]     でも程なくして、想定外の状況になった……追撃に送った部隊との連絡が急に途絶えたの。
 [name="Reunion Caster"]     There's more... The squad we sent after them fell off the grid too. We haven't been able to make contact.
+[name="리유니온 캐스터"]     근데 예상치 못한 점은…… 우리가 파견한 추격대와 연락이 끊겼다는 겁니다.
 
 [name="整合运动术师"]     作为佣兵们的新领头人，希望你能给出合理的解释。
 [name="レユニオン術師"]     傭兵たちの新たなリーダーとなったあなたから、納得のいく説明をもらえるかしら？
 [name="Reunion Caster"]     I thought maybe you'd know what happened, since you're leading the mercenaries now.
+[name="리유니온 캐스터"]     용병들의 새로운 리더인 당신이라면, 납득이 되는 설명을 해줄 수 있겠죠.
 
 [name="整合运动术师"]     我们的小队为什么人间蒸发了？
 [name="レユニオン術師"]     私たちの追撃部隊は、どうして突然消えることになったの？
 [name="Reunion Caster"]     How does a squad suddenly vanish?
+[name="리유니온 캐스터"]     우리 추격대가 왜 갑자기 사라진 겁니까?
 
 01:13 P.M.    天气/晴
 p.m. 01:13　天気/晴天
 01:13 P.M. - Clear Skies
+01:13 p.m.    날씨/맑음
 
 切尔诺伯格，郊外，荒野
 チェルノボーグ、郊外、荒野
 Chernobog - Outskirts - Wilderness
+체르노보그, 교외, 황야
 
 [name="W"]   这种描述可不利于我理解喔？
 [name="W"]   説明をしろと言われても無理ね。そもそもあなたの今の説明自体が私にとっては訳が分からないもの。
 [name="W"]   Am I supposed to understand this?
+[name="W"]   무슨 소리야? 좀 알아듣게 설명해줄래?
 
 [name="整合运动术师"]     事实如此。协同小队没发现埋伏和陷阱，只知道敌人是萨卡兹人。
 [name="レユニオン術師"]     でも言葉通り、追撃部隊は何の前触れもなく突然消えたの。調査に当たった部隊も待ち伏せやトラップは発見できていない。分かっているのは敵がサルカズということだけ。
 [name="Reunion Caster"]     It is what it is. Other teams report no sign of any enemy ambush or trap. We only know they were facing a Sarkaz.
+[name="리유니온 캐스터"]     설명하자면, 우리 소대는 어떠한 매복이나 함정도 발견하지 못했고, 배신자들이 살카즈라는 것밖에 모른다는 겁니다.
 
 [name="W"]   那自然是萨卡兹了，我的佣兵还能有什么其他种族呢？不过，挺有趣的。接着说。
 [name="W"]   そうね。サルカズなのは当たり前だわ。私の傭兵に他の種族がいると思ってるの？　でも、面白い話ね。続けて。
 [name="W"]   Of course they're Sarkaz. It's not like I've got any other mercs. But anyway, this is a good story. Keep going.
+[name="W"]   그야 당연하지, 내 용병대에 다른 종족이 또 있겠어? 듣다 보니 재밌네? 계속해봐.
 
 [name="整合运动术师"]     最先接触的时候，目标被成功压制，出于谨慎，追击小队也有所保留。对方并不是什么强敌。
 [name="レユニオン術師"]     最初の接触ですぐに目標は制圧できた。だけど、あくまで慎重に対応するために、しばらく泳がせてたの。とにかく相手は強敵なんかじゃなかった。
 [name="Reunion Caster"]     At first contact, we managed to suppress the target. Playing it safe, we held back our squads. The enemy did not appear particularly strong.
+[name="리유니온 캐스터"]     처음 접촉했을 때 이미 목표를 제압했고, 혹시 모를 일에 대비해 추격대도 남겨뒀습니다. 상대는 그리 강한 적이 아니었죠.
 
 [name="整合运动术师"]     然而某个时刻，通讯突然中断了。
 [name="レユニオン術師"]     その後しばらくして、急に通信が途絶したの。
 [name="Reunion Caster"]     Then, suddenly, all communications ceased.
+[name="리유니온 캐스터"]     그런데 어느 순간부터, 통신이 갑자기 끊긴 겁니다.
 
 [name="W"]   ......嗯，比起你们，真正的野兽更善于隐藏自己的尖牙利齿，你们这也太大意了吧。
 [name="W"]   ……ふーん。本物の野獣ってやつは、あなたたちなんかよりずっと牙を隠すのが得意なのよ。油断しすぎじゃない？
 [name="W"]   ...Yeah, you guys tip your hand pretty easily. A real predator knows not to bare his fangs too soon.
+[name="W"]   흐음~ 진정한 야수는 날카로운 이빨을 감추는 데 능한 법이라잖아. 너희가 너무 방심한 거 아냐?
 
 [name="整合运动术师"]     我们该怎么办？
 [name="レユニオン術師"]     じゃあ、どうしろというのよ？
 [name="Reunion Caster"]     What should we do?
+[name="리유니온 캐스터"]     그럼, 어떻게 하는 게 좋겠습니까?
 
 [name="W"]   那些萨卡兹人有什么特点？
 [name="W"]   そのサルカズの特徴は？
 [name="W"]   Well what's so special about those Sarkaz?
+[name="W"]   그 살카즈의 특징은?
 
 [name="整合运动术师"]    ......不清楚，目击者大都失去了联络。从远处看，只知道有一名近身陷阵的战士。
 [name="レユニオン術師"]    ……詳しくは分からない。目撃者はほとんど連絡が取れなくなっているの。遠くから見た限りだと、敵中への切り込みが得意な戦士のようだった。
 [name="Reunion Caster"]    ...I'm not sure. We lost contact with the eyewitnesses. But from a distance, all we know is they have a close quarters fighter who really likes to get up in there.
+[name="리유니온 캐스터"]    ……자세히는 모릅니다. 들은 얘기는 목격자 대부분이 연락이 끊겼고, 멀리서 봤을 때 적진에 전사 한 명이 있다는 것 정도밖에 없습니다.
 
 [name="W"]   那就不要和他们正面接触。拖住那个人，我们一会见。
 [name="W"]   それなら、まずは正面からその戦士に当たるのは避けるべきね。それと相手をできるだけ足止めしておいて。とりあえず、また後で会いましょう。
 [name="W"]   Then I need you to avoid direct contact with them. Stall that one, I'll be there in a bit.
+[name="W"]   그러면 정면충돌은 안 하는 게 좋겠네. 그 전사인지 뭔지는 꼭 붙잡아둬, 그럼 이따 보자고.
 
 [name="整合运动刀兵"]     出了什么事？
 [name="レユニオン刀兵"]     何があった？
 [name="Reunion Blademaster"]     Something the matter?
+[name="리유니온 검사"]     무슨 일이라도 생겼습니까?
 
 [name="W"]   没什么，只是有一支不够成熟的小队中了诱饵。
 [name="W"]   何にも。間抜けな小隊が罠にかかったってだけ。
 [name="W"]   Nothing. Just a little baby squad that made good bait.
+[name="W"]   별거 아냐. 덜떨어진 소대 하나가 함정에 빠져서.
 
 [name="整合运动刀兵"]     我们要去支援他们吗？
 [name="レユニオン刀兵"]     では我々も支援に向かうのか？
 [name="Reunion Blademaster"]     Should we move to support them?
+[name="리유니온 검사"]     저희가 지원하러 가야 할까요?
 
 [name="W"]   唉，明明大家都有自己的工作，为什么不能各自处理好分内的事情呢？
 [name="W"]   あらあら、みんな自分の仕事があるっていうのに。どうして自分の持ち場をきっちり守れないのかしらね？
 [name="W"]   C'mon, everyone's got a job to do. Why can't we just let everybody handle their own thing?
+[name="W"]   정말이지, 다들 자기가 맡은 일만 똑바로 하면 되는데, 왜 1인분도 못 하는 걸까?
 
 [name="W"]   嗯......不过这次就不深究了吧。毕竟我也非常在意我可怜的前领导带着哪些奇怪的萨卡兹人呢。
 [name="W"]   うーん……でもまぁ今回はいいわ。私もあの可哀想な元リーダーがどんなサルカズを連れていたか気になるしね。
 [name="W"]   Yeah... Let's not think too hard about this one. I do care so much about the Sarkaz weirdos my poor predecessor brought along.
+[name="W"]   음…… 하지만 이번엔 깊게 안 따질게. 어차피 나도 그 불쌍한 전 리더가 어떤 이상한 살카즈들을 데리고 있었는지 꽤 신경 쓰이니까.
 
 [name="整合运动刀兵"]     明白了。
 [name="レユニオン刀兵"]     了解。
 [name="Reunion Blademaster"]     Understood.
+[name="리유니온 검사"]     알겠습니다.
 
 [name="整合运动刀兵"]     通知全体小队，临战整备，转移到城郊。
 [name="レユニオン刀兵"]     全小隊に伝えろ、臨戦態勢、都市郊外へ向かえ。
 [name="Reunion Blademaster"]     Inform all squads: prepare for battle, move to the outskirts of the city.
+[name="리유니온 검사"]     전체 소대에 알린다. 전투를 준비하고 교외로 이동한다.
 
 [name="整合运动术师"]     呃，该死，这家伙的动作又变快了！他还在隐藏实力吗？
 [name="レユニオン術師"]     チッ、この……また速くなったわ！　まだ本気じゃないの？
 [name="Reunion Caster"]     Agh, damn it! This bastard's moving even faster! Is he still hiding his true power?!
+[name="리유니온 캐스터"]     윽, 젠장, 움직임이 더 빨라졌잖아! 아직도 실력을 숨기고 있었던 건가?
 
 [name="？？？"]   ......太弱小了，所谓的整合运动只有这种水平吗？
 [name="？？？"]   ……弱すぎる。レユニオンとはこの程度なのか？
 [name="???"]   ...Pathetic. Is this the best your Reunion Movement has to offer?
+[name="???"]   ……너무 약하군. 리유니온이라는 건 겨우 이 정도 수준인가?
 
 [name="整合运动术师"]     你这家伙！竟然小看我们——
 [name="レユニオン術師"]     このっ！　私たちを甘く見て――
 [name="Reunion Caster"]     This cocky...! He's making fun of us——
+[name="리유니온 캐스터"]     이 녀석! 감히 우리를 얕보다니……
 
 [name="W"]   呵......
 [name="W"]   フッ……。
 [name="W"]   Heh...
+[name="W"]   후후……
 
 [name="W"]   本来就预想到会遇上几个老熟人，可没想到会是你啊。
 [name="W"]   何人か昔馴染みがいるんじゃないかと思ってたけど、まさかあなたとはね。
 [name="W"]   I knew I'd run into some old friends here, but I never thought I'd see you.
+[name="W"]   오랜 지인을 만나지 않을까 생각은 했지만, 설마 너일 줄은 몰랐는걸.
 
 [name="整合运动术师"]     W，我们——
 [name="レユニオン術師"]     W、我々は――
 [name="Reunion Caster"]     W, we——
+[name="리유니온 캐스터"]     W, 저희는……
 
 [name="W"]   归队，除非你想送死。别摆出那副急着报仇的表情，他还没有使出全力。哦，想送死的话，我就不拦着你咯？
 [name="W"]   死にたくなければ撤退しなさい。あら、そんな恨みがましい顔をしないで。こいつはまだ全然本気じゃないわよ。あ、もちろん死にたいなら止めないけど？
 [name="W"]   Go home, before you get killed. Don't give me that look like you wanna get even. He's not even using a fraction of his full power. But hey, if you wanna die that bad, I guess I won't get in your way?
+[name="W"]   복귀해, 죽기 싫으면. 복수하고 싶은 건 알겠는데, 쟤는 아직 제대로 실력 발휘도 안 한 상태라고. 아, 죽고 싶은 거라면 말리진 않을게.
 
 [name="整合运动术师"]     ......收队。
 [name="レユニオン術師"]     ……撤退。
 [name="Reunion Caster"]     ...fall back.
+[name="리유니온 캐스터"]     ……철수한다.
 
 [name="W"]   很久不见了，佣兵刀术师。
 [name="W"]   久しぶりね、傭兵刀術師。
 [name="W"]   It's been a while, wandering swordmaster.
+[name="W"]   오랜만이네. 용병 소드캐스터.
 
 [name="炎客"]     你——
 [name="？？？"]     お前――
 [name="Flamebringer"]     You——
+[name="플레임브링어"]     넌……
 
 [name="W"]   现在，叫我W。
 [name="W"]   今はWと呼んで。
 [name="W"]   They call me W now.
+[name="W"]   지금은 W라고 불러줘.
 
 [name="W"]   你呢？
 [name="W"]   あなたのことはなんて呼べばいい？
 [name="W"]   How about you?
+[name="W"]   너는?
 
 [name="炎客"]     炎客。你应该明白，于我而言，互报姓名的意义。
 [name="エンカク"]     エンカクと呼べ。知らないとは言わせん、名乗り合いが俺にとってどんな意味を持つかを。
 [name="Flamebringer"]     Flamebringer. Surely you know what it means to exchange names with me.
+[name="플레임브링어"]     플레임브링어. 너라면 잘 알 텐데. 서로의 이름을 밝히는 게 내게 어떤 의미인지를.
 
 [name="W"]   哎呀，可怕可怕，过去你手刃那些家伙的时候，也会互报姓名吗？
 [name="W"]   あら～、怖い怖い。でもあいつらに刀を振るったときも、お互いに名前を名乗ったのかしら？
 [name="W"]   Oooh, spooky. So you traded business cards with all those dudes you sliced up before?
+[name="W"]   어머~ 무서워라~ 전에 네가 그 녀석들을 베어버릴 때도 통성명했었나 보지?
 
 [name="炎客"]     委托和厮杀是不一样的。
 [name="エンカク"]     依頼と果し合いは別だ。
 [name="Flamebringer"]     Commissions and combat are not the same.
+[name="플레임브링어"]     의뢰와 결투는 다르다.
 
 [name="W"]   作为一个经历过那场战争的萨卡兹人忽然销声匿迹，很令人担心啊。
 [name="W"]   あの戦争を経験したサルカズが急にいなくなったなんて聞いたら、心配するじゃない。
 [name="W"]   A Sarkaz like you, having been through a battle like that, suddenly up and vanishing, it makes a girl worry.
+[name="W"]   그때 그 전쟁을 경험한 살카즈가 갑자기 종적을 감춰버렸다 그래서 얼마나 걱정했는데.
 
 [name="W"]   佣兵嘛，只不过是换了个领头人就要跑路，让人很心慌喔？
 [name="W"]   傭兵……リーダーが変わったからすぐ抜けようなんて、寂しいじゃない？
 [name="W"]   And a mercenary running off just because he's got a new leader? That's a little wobbly, isn't it?
+[name="W"]   용병들이란 정말, 자기네 우두머리 하나 바뀌었다고 도망이나 치고. 어이없지 않아?
 
 [name="炎客"]     这无关紧要。
 [name="エンカク"]     それは全く関係ないことだ。
 [name="Flamebringer"]     That is utterly insignificant.
+[name="플레임브링어"]     그런 건 중요하지 않다.
 
 [name="炎客"]     不过没想到，你的部下连让我报上名字的价值都没有。
 [name="エンカク"]     だがお前の部下たちが、俺が名乗る価値すらない思えるほど、愚図だとは思わなかった。
 [name="Flamebringer"]     Though I never imagined your subordinates would be so unworthy, unfit to even hear my name.
+[name="플레임브링어"]     그런데 내 이름을 밝힐 가치도 없는 자가 네 부하라는 건 좀 의외였지.
 
 [name="W"]   那还真是荣幸......嗯，虽然他们成为我部下也没多长时间。啊，你是在邀请我杀了你？
 [name="W"]   それは光栄だ……まあ、彼らが私の部下になったのはつい最近のことだけどね。あ、それともなに、挑発？　私に殺してくれって言ってるの？
 [name="W"]   Then I guess I should be honored... Oh, but those men weren't under me very long. Ah, are you inviting me to kill you?
+[name="W"]   그거 참 영광이네…… 뭐, 걔네가 내 부하가 된 지는 얼마 안 됐지만 말이야. 아, 혹시 나보고 죽여달라 꼬시고 있는 건 아니지?
 
 [name="炎客"]     不，我对你仰仗外力的战斗方式毫无兴趣。
 [name="エンカク"]     いや、お前の物に頼る戦い方には少しも興味が湧かないのでな。
 [name="Flamebringer"]     No, I have no interest in your petty fighting style. It relies so much on outside forces.
+[name="플레임브링어"]     아니. 난 너처럼 도구에 의지하는 전투 방식엔 전혀 관심 없다.
 
 [name="炎客"]     但我得承认，战术也是一种技巧。如果你的战术比过去更加精湛，我愿意领教。
 [name="エンカク"]     とは言え戦術も一つの技巧だ。お前の戦術が以前よりも鋭さを増しているというのなら、一つご指導いただきたいものだな。
 [name="Flamebringer"]     But I have to admit, tactics are a kind of skill. Then if your tactics are more elegant than they used to be, I am willing to taste them.
+[name="플레임브링어"]     하지만 전술도 하나의 기술이지. 만약 네 그 전술이 전보다 발전했다면 한 수 배울 생각도 있는데.
 
 [name="W"]   ......奇怪，你过去不是那种“只要杀了目标怎么都好”的类型吗？
 [name="W"]   ……不思議なものね、昔のあなたは「ターゲットを殺せればあとは何でも良い」ってタイプじゃなかったかしら？
 [name="W"]   ...That's weird. Weren't you one of those "as long as the target dies, anything goes" types?
+[name="W"]   ……이상하네. 너 원래 목표만 죽일 수 있으면 딴 건 다 상관 안 하는 타입 아니었어?
 
 [name="整合运动刀兵"]     W，小队已经分散到了指定点，已经彻底切断了敌人的退路，他逃不掉的。
 [name="レユニオン刀兵"]     W、各小隊の指定ポイントへの布陣が完了した。敵の退路は全て断たれた、もう逃しはしない。
 [name="Reunion Blademaster"]     W, the squad has fallen back to the target location and successfully cut off the enemy retreat. They have nowhere to go.
+[name="리유니온 검사"]     W, 소대가 이미 지정된 위치로 흩어져 적의 퇴로를 완전히 차단했습니다. 이제 도망칠 수 없을 겁니다.
 
 [name="炎客"]     我也没想到你能成为这些家伙的领导者，大家都在改变。
 [name="エンカク"]     お前がまさかこんな奴らのリーダーになるとはな……。時間の流れとは、かくも残酷なものだな。
 [name="Flamebringer"]     And I never expected you would be leading this band of mooks. We've all changed a lot.
+[name="플레임브링어"]     나도 네가 이놈들의 리더가 될 줄은 몰랐다… 모두들 변하고 있군.
 
 [name="W"]   这些家伙？啊......你是说整合运动？
 [name="W"]   こんな奴ら？　えーっと、レユニオンのこと？
 [name="W"]   Mooks? Oh... you mean Reunion?
+[name="W"]   이 놈들? 아…… 리유니온 말하는 거야?
 
 [name="W"]   还是说......萨卡兹们？
 [name="W"]   それとも……サルカズたち？
 [name="W"]   Or do you mean... the Sarkaz?
+[name="W"]   아니면…… 살카즈들?
 
 [name="整合运动刀兵"]     喝——！
 [name="レユニオン刀兵"]     ハッ――！
 [name="Reunion Blademaster"]     Gah——!
+[name="리유니온 검사"]     하앗!
 
 [name="炎客"]     唔。
 [name="エンカク"]     ほう。
 [name="Flamebringer"]     Hmph.
+[name="플레임브링어"]     흠.
 
 [name="整合运动刀兵"]     我是不会轻敌的，萨卡兹人，我注意你很久了。
 [name="レユニオン刀兵"]     俺はお前を見くびりはしない、サルカズ人。お前のことはずっと気になって目をつけていた。
 [name="Reunion Blademaster"]     I won't underestimate you, Sarkaz, I've been watching you.
+[name="리유니온 검사"]     나는 적을 얕보지 않는다. 살카즈, 널 계속 주시해왔다.
 
 [name="整合运动刀兵"]     很可惜，你没有机会钻空子。
 [name="レユニオン刀兵"]     残念だが、お前につけいるスキはもうない。
 [name="Reunion Blademaster"]     Too bad. You're out of options.
+[name="리유니온 검사"]     아쉽겠지만, 네겐 기회조차 주어지지 않을 거다.
 
 [name="炎客"]     原来如此，你也是......
 [name="エンカク"]     そうか、お前も……。
 [name="Flamebringer"]     Is that how it is? I guess you are too.
+[name="플레임브링어"]     그랬군. 너도……
 
 [name="炎客"]     这不是有意思多了吗，你能作为砥石为我所用吗？我的刀有些钝了。
 [name="エンカク"]     なんか面白くなってきたじゃないか。ちょうどいい。お前を砥石代わりにしてやろう。　俺の刀も幾分か鈍ってきたのでな。
 [name="Flamebringer"]     Isn't this much more fun? Now you're my whetstone. And my blade is a bit dull.
+[name="플레임브링어"]     이러는 편이 더 재미있지 않나? 안 그래도 요즘 칼날이 무뎌졌는데, 네놈으로 칼갈이 좀 해야겠군.
 
 [name="整合运动刀兵"]     挑衅？你也就现在能嚣张两下了！
 [name="レユニオン刀兵"]     挑発か？　偉そうなことを言っていられるのも今のうちだ。
 [name="Reunion Blademaster"]     Really? You're still talking big?
+[name="리유니온 검사"]     도발인가? 건방지게 구는 것도 지금뿐이다!
 
 [name="炎客"]     嗯，来吧。
 [name="エンカク"]     ああ、来い。
 [name="Flamebringer"]     Right. Come on.
+[name="플레임브링어"]     그래, 덤벼봐.
 
 [name="整合运动刀兵"]     唔呃！该死！你是怎么——
 [name="レユニオン刀兵"]     ぐわっ！　くそっ！　お前はどうして――
 [name="Reunion Blademaster"]     Agh! Shit! How are you——
+[name="리유니온 검사"]     큭! 젠장! 어떻게……
 
 [name="整合运动刀兵"]     呃——！
 [name="レユニオン刀兵"]     ぐっ――！
 [name="Reunion Blademaster"]     Gaaaah——!
+[name="리유니온 검사"]     윽……!
 
 [name="炎客"]     你还有空说话吗？
 [name="エンカク"]     お喋りしている余裕があるのか？
 [name="Flamebringer"]     You're still talking?
+[name="플레임브링어"]     아직 말할 여유가 남아 있나?
 
 [name="W"]   ......意料之内，他变得更强了。
 [name="W"]   ……思った通り、強くなってるわね。
 [name="W"]   ...He's even stronger. Not that I'm surprised.
+[name="W"]   ……예상대로 더 강해졌네.
 
 [name="整合运动术师"]     W！我们为什么就站在这里看着！？只要你下令，他立刻就会灰飞烟灭了！
 [name="レユニオン術師"]     W！　どうして突っ立って見ているの！？　あなたが総攻撃の命令を下せば、あんなヤツ一瞬で灰にしてしまえるのに！
 [name="Reunion Caster"]     W! Why are we just standing here watching?! Just give the order and we'll turn him to dust!
+[name="리유니온 캐스터"]     W! 왜 우두커니 서 있기만 하는 겁니까?! 명령만 내려주면 지금 바로 가루로 만들어버릴 수 있잖습니까!
 
 [name="W"]   所以现在，我又能对你发号施令了？
 [name="W"]   つまり今は、私があなたにも命令を下せるってわけ？
 [name="W"]   So now I get to boss you around again?
+[name="W"]   그래서 지금은 또 너한테 명령을 내릴 수 있다 이거지?
 
 [name="整合运动术师"]     别在这种时候找茬！
 [name="レユニオン術師"]     こんな時に揚げ足取りはやめて！
 [name="Reunion Caster"]     Now's not the time for this!
+[name="리유니온 캐스터"]     이런 상황에 괜한 트집 잡지 마십시오!
 
 [name="W"]   但我确实不是你们的指挥官呀。
 [name="W"]   でも私があなたたちの指揮官じゃないのは事実でしょ。
 [name="W"]   But I'm really not your commander.
+[name="W"]   근데 난 진짜로 너네 지휘관이 아닌걸.
 
 [name="W"]   提个建议，收手吧，别刺激他了，自找麻烦最好换个时间。
 [name="W"]   じゃあアドバイスをしてあげるわ。いいから今すぐアイツから手を引きなさい。これ以上アイツを刺激しないほうが良いわ。どうしても面倒を起こしたいなら別の機会でやって欲しいの。
 [name="W"]   Here's an idea. Back up, don't provoke him, and pick another time to get yourself killed.
+[name="W"]   조언 하나 할게. 괜히 자극하지 말고 물러나. 굳이 그러고 싶으면 다른 기회에 해.
 
 [name="整合运动刀兵"]     ......该死。
 [name="レユニオン刀兵"]     ……クソッ。
 [name="Reunion Blademaster"]     ...Damn it.
+[name="리유니온 검사"]     ……젠장.
 
 [name="W"]   不是吧？你难道真的打算单打独斗就解决他？别在这里搞笑啊。
 [name="W"]   あらどういうつもり？　あなた一人でアイツをどうにかできるとでも言いたいの？　変な見栄は自分の首を締めるだけよ。
 [name="W"]   Right? You really thought you were gonna step up and pick a fight with him? Is this open mic night?
+[name="W"]   에이 설마? 정말 혼자 싸워 이길 수 있다고 생각하는 건 아니지? 여기서 괜히 오버하지 마.
 
 [name="整合运动刀兵"]     嘁。
 [name="レユニオン刀兵"]     チッ。
 [name="Reunion Blademaster"]     Tsk...
+[name="리유니온 검사"]     쳇.
 
 [name="炎客"]     下一个是谁？
 [name="エンカク"]     次はどいつだ？
 [name="Flamebringer"]     Who's next?
+[name="플레임브링어"]     다음은 누구지?
 
 [name="W"]   这么着急，是赶着去赴谁的约吗？
 [name="W"]   そんなに慌てて、デートの待ち合わせでもあるのかしら？
 [name="W"]   Where's the fire? You got somewhere to be?
+[name="W"]   뭘 그렇게 서둘러? 혹시 데이트 약속이라도 있는 건 아니지?
 
 [name="炎客"]     我不是第一次杀出重围了。
 [name="エンカク"]     包囲網を突破した経験は一度や二度じゃない。
 [name="Flamebringer"]     This isn't the first time I've been surrounded.
+[name="플레임브링어"]     나도 포위망은 처음 뚫어보는 게 아니다.
 
 [name="W"]   唔，嗯，原来如此。我想，你大概是在说内战时候的事吧？我有点兴趣，能说说吗？
 [name="W"]   あらそうなのね。きっと内戦の時の話でしょ？　興味あるわ、言ってみなさいよ。
 [name="W"]   Right right. Let's see, are you talking about that civil war? Sounds like a good story. Tell it for us?
+[name="W"]   그랬구나~ 그거, 내전 때 얘기지? 궁금한데, 그때 얘기 좀 해줄 수 있어?
 
 [name="炎客"]     没什么。被人埋伏，所有人死了而我还活着，就这么简单。
 [name="エンカク"]     別になんてことない話だ。待ち伏せを受け、包囲されて俺以外の者が死んだ。ただそれだけだ。
 [name="Flamebringer"]     What's to tell? They ambushed me. They're all dead. I'm still alive. That's the story.
+[name="플레임브링어"]     별거 없다. 매복에 당해 나 빼곤 전부 죽었다. 그게 다야.
 
 [name="炎客"]     怎么样？还要继续吗？
 [name="エンカク"]     どうする？　まだ続けるか？
 [name="Flamebringer"]     What do you think? Should I keep going?
+[name="플레임브링어"]     어때, 계속할 건가?
 
 [name="炎客"]     对我来说，刚才的战斗还远远不够。
 [name="エンカク"]     俺からすれば、さっきの戦闘じゃ、まだまだ物足りないのだがな。
 [name="Flamebringer"]     That fight just now was nothing for me. I need so much more.
+[name="플레임브링어"]     방금 전투는 내겐 몸풀기도 안 될 정도인데.
 
 [name="W"]   不......我在想，也许你应该加入我们。
 [name="W"]   いいえ……それより、私たちの仲間になるつもりはない？
 [name="W"]   No... I'm just thinking like, why don't you join us?
+[name="W"]   아니…… 그것보다, 우리 동료가 되는 건 어때?
 
 [name="整合运动术师"]     W！？他这个叛逃者，已经杀了那么多整合运动的——
 [name="レユニオン術師"]     W！？　こいつは裏切り者よ、こんなに沢山のレユニオンの仲間を殺して――
 [name="Reunion Caster"]     W?! He's a traitor. Look how many of us he's killed——
+[name="리유니온 캐스터"]     W! 그는 배신자입니다. 이미 수많은 리유니온을 죽였다고요……
 
 [name="W"]   是我的佣兵们决定要用他，整合运动需要他。有意见？
 [name="W"]   私の傭兵として彼を雇うと言ってるの。レユニオンに必要な力よ。それをあなたなんかが意見するつもり？
 [name="W"]   It was my mercenaries who decided to use him. He'd be good for Reunion. Got a problem?
+[name="W"]   저 남자를 쓰자고 한 건 내 용병들이고, 리유니온한텐 저 남자가 필요해. 불만 있어?
 
 [name="整合运动术师"]     你！
 [name="レユニオン術師"]     お前っ！
 [name="Reunion Caster"]     Yes!
+[name="리유니온 캐스터"]     W!
 
 [name="炎客"]     ......
 [name="エンカク"]     ……。
 [name="Flamebringer"]     ......
+[name="플레임브링어"]     ……
 
 [name="W"]   不管怎么想，都是我们这边更有趣吧？战争，流血，还有那么多萨卡兹同僚......
 [name="W"]   どう考えたって、私たちといる方が面白いでしょ？　戦争に流血、そしてサルカズの仲間たち……。
 [name="W"]   I mean, think about it. We have so much more fun over here! War, bloodshed, and all those Sarkaz buddies...
+[name="W"]   잘 생각해봐, 역시 우리 쪽이 더 재밌지 않겠어? 전쟁도 하고, 피도 맘껏 보고, 게다가 살카즈 동료도 이렇게 많잖아……
 
 [name="W"]   你追求的一切在这里都是打折大放送哦。
 [name="W"]   あなたが追い求めるものは、全部ここに揃っていて、しかも叩き売り状態ってわけ。
 [name="W"]   Everything you're looking for, we got here on a silver platter.
+[name="W"]   네가 원하는 모든 걸 할인 대방출! 좋잖아?
 
 [name="W"]   当然，这份邀请也出于我个人的好奇心，我们一定有很多共同话题。
 [name="W"]   こうやって勧誘しているのは、私個人の好奇心を満たすためでもあるけどね。私たちには、たーくさん共通の話題があるはずよ。
 [name="W"]   I'm speaking to you from the heart here. We have so much in common, you and I.
+[name="W"]   물론 이런 권유는 내 개인적인 호기심 때문에 하는 거야. 우리는 말이 꽤 잘 통할 것 같거든.
 
 [name="炎客"]     我不这么认为。
 [name="エンカク"]     俺はそうは思わない。
 [name="Flamebringer"]     I don't think so.
+[name="플레임브링어"]     난 그렇게 생각 안 하는데.
 
 [name="W"]   你也是感染者吧？加入整合运动又有什么不好呢？
 [name="W"]   あなたも感染者でしょ？　レユニオンに入って何か都合が悪いことでもあるの？
 [name="W"]   You're Infected, right? You'd fit right in with Reunion! What's the problem?
+[name="W"]   너도 감염자 아냐? 리유니온에 가입해서 안 좋을 게 뭔데?
 
 [name="炎客"]     无序的破坏，带着某种目的的集团暴行，我看不出能从这样的组织里得到什么。
 [name="エンカク"]     無秩序な破壊、私利私欲を満たすための集団暴行、そんな組織から何か得られるとは思えん。
 [name="Flamebringer"]     Wanton destruction, organized savagery, I fail to see what I could get from a group like this.
+[name="플레임브링어"]     무질서한 파괴, 목적을 가진 집단 폭행…… 이런 조직에서는 무언가 얻을 수 있을 것 같지 않다.
 
 [name="炎客"]     战争？现在的你们不过是摩擦迸发出的点点火种，你应该知道真正的战争是什么样的。
 [name="エンカク"]     もしかして戦争をしているとでも言いたいか？　今のお前たちは摩擦で生まれた小さな火種に過ぎん。お前なら本当の戦争がどんなものか知っているだろう。
 [name="Flamebringer"]     You call this war? This is just the strike of a match flaming out. You should know what a real war looks like.
+[name="플레임브링어"]     전쟁? 지금 너희들은 마찰이 만들어낸 작은 불씨일 뿐이다. 진짜 전쟁이 뭔지는, 너도 잘 알고 있겠지.
 
 [name="W"]   别这么说，我们也是有在努力工作的，何况整合运动之间也有区别嘛。
 [name="W"]   そんな風に言わないでよ、私たちだって頑張って働いてるの。それにレユニオンだからってみんな同じじゃないわ。
 [name="W"]   Don't talk like that. We've got serious, hardworking folks here too. Lots of diversity in Reunion.
+[name="W"]   그렇게 말하지 마, 우리도 나름 열심히 하고 있다고. 게다가 리유니온이라고 다 같은 것도 아니잖아.
 
 [name="W"]   虽然我的前任上司喜欢更纯粹些的东西，但我可是无论什么都乐在其中啊。
 [name="W"]   それに、私の前の上官はもっと純粋なものが好みだったみたいだけどね。まぁ何はどうあれ私は楽しめてたわ。
 [name="W"]   Like, my old boss was kind of a purist, but I'm the type who finds joy in everything.
+[name="W"]   내 전임 상사는 더 순수한 것들을 좋아하는 사람이었지만, 난 뭐든지 즐기는 편이라고.
 
 [name="炎客"]     如果非要说的话......是呢，我想领教一下塔露拉的剑术。
 [name="エンカク"]     どうしてもと言うのなら……そうだな、タルラの剣術をお目にかかりたいものだ。
 [name="Flamebringer"]     If I could make a request... Then I would like to taste Talulah's swordsmanship.
+[name="플레임브링어"]     굳이 말한다면…… 그래, 탈룰라와 검을 한 번 맞대보고 싶군.
 
 [name="W"]   那个龙女？虽然我不想称赞她，但你基本没有一丁点胜算喔。
 [name="W"]   あの龍女？　あいつを褒めるつもりはないけど、勝ち目は少しもないわよ。
 [name="W"]   The dragon lady? I mean, I don't wanna talk her up too much, but you don't have a snowball's chance in hell of beating her.
+[name="W"]   그 용뿔 달린 여자? 걔를 칭찬하고 싶은 건 아닌데, 넌 상대도 안 될걸.
 
 [name="W"]   而且她那个，能算剑术吗？你在靠近她之前就会变成一块炭吧？
 [name="W"]   しかも彼女のあれ、剣術って呼べるの？　近づく前に消し炭にされるわよ？
 [name="W"]   And like, could we even call her thing swordsmanship? You'd be a pile of dust before you even got close to her.
+[name="W"]   아니 그걸 검술이라고 할 수 있나? 넌 아마 가까이 가지도 못하고 숯덩어리가 될 거라니까?
 
 [name="炎客"]     我知道。
 [name="エンカク"]     分かっている。
 [name="Flamebringer"]     I know.
+[name="플레임브링어"]     알고 있다.
 
 [name="炎客"]     当然，我也知道，如果我拒绝你的条件，我突围的机会同样小之又小。
 [name="エンカク"]     そして、俺がお前の要求を断れば、包囲網を突破することも難しくなることも分かっている。
 [name="Flamebringer"]     Of course, I also know that if I refuse you, the odds of me escaping this city alive are just as small.
+[name="플레임브링어"]     그리고, 내가 네 조건을 거절한다면 이 포위망을 뚫는 것도 어려워질 거란 것도 잘 알고 있다.
 
 [name="炎客"]     可这又何妨？只有在令人窒息的枷锁中挣脱，我才有可能更进一步。
 [name="エンカク"]     だが、それがどうした？　窒息するほど締め付けられた枷を堂々と断ち切ってこそ、次の一歩を踏み出せるというものだ。
 [name="Flamebringer"]     So what have I got to lose? If I don't push myself to break the chains of complacency, how can I ever improve?
+[name="플레임브링어"]     하지만 상관없지 않나? 숨 막히는 족쇄에서 벗어나야만 한 걸음 더 앞으로 나아갈 수 있는 거니까.
 
 [name="W"]   你......什么时候变得这么有情调了？
 [name="W"]   あなた…いつの間にそんな風情のあることを言うようになったの？
 [name="W"]   Huh... when did you become so sentimental?
+[name="W"]   뭐야…… 언제부터 그렇게 감성적으로 변한 거야?
 
 [name="炎客"]     我只是在寻求自己活着的意义。
 [name="エンカク"]     俺は自分の生きる意味を探しているだけだ。
 [name="Flamebringer"]     I seek only the meaning of life.
+[name="플레임브링어"]     난 단지 내가 살아있는 의미를 찾고자 할 뿐이다.
 
 [name="W"]   好吧，随你怎么说。不要管那个龙女了，单纯加入佣兵队伍如何？
 [name="W"]   まあ、それは好きにすればいいわ。とりあえず、あの龍女の事は置いといて、単純に傭兵部隊に加入するってのはどうかしら？
 [name="W"]   Right. Whatever you say, buddy. Let's set the dragon lady aside for a second, what do you think of running with the mercenary team?
+[name="W"]   그래 뭐 알아서 생각해. 아무튼, 그 용뿔 달린 여자는 신경 쓰지 말고, 우리 용병 부대에 들어오는 건 어때?
 
 [name="W"]   老工作的话，你也能更加得心应手吧。再说了，你不喜欢的上司，已经死了哦。
 [name="W"]   いつもの仕事なら手慣れたものでしょ。それに、あなたの嫌いな上官はもう死んだわ。
 [name="W"]   You're used to the work. You get to do pretty much whatever you want. And the commander you hate is already dead.
+[name="W"]   오래 했던 일이니까 익숙할 거 아냐. 게다가 네가 싫어하던 그 상사는 이미 죽고 없다고.
 
 [name="炎客"]     你并不值得信任。你我都互相隐瞒了很多事情。
 [name="エンカク"]     お前は信ずるに値しないな。互いに隠し事が多すぎる。
 [name="Flamebringer"]     You can't be trusted. Both of us have so much to hide.
+[name="플레임브링어"]     아무리 생각해도 넌 믿음이 안 가. 너나 나나 숨기는 게 너무 많기도 하고.
 
 [name="炎客"]     ......呵，有一个很不错的地方，那里比整合运动更适合磨砺我的刀刃。
 [name="エンカク"]     ……フッ、だがレユニオンよりは刀を研ぐのに適した場所だ、とだけは言っておこう。
 [name="Flamebringer"]     ...Heh. I know a better place. One much more suited to sharpening my blade than Reunion.
+[name="플레임브링어"]     ……그러고 보니, 내 칼날을 갈기에 리유니온보다 더 괜찮아 보이는 곳이 하나 있더군.
 
 [name="炎客"]     我看到了。不久之前，我看到你和那个外来的萨卡兹人交易的场面。但除此之外，他们的战斗令我心动。
 [name="エンカク"]     先刻、お前とあの外から来たサルカズが取引しているのを見た。そしてその後の戦いぶりは、なかなか心躍るものだったな。
 [name="Flamebringer"]     I saw it. Not long ago. Where you and that Sarkaz had your little transaction. That battle got my blood pumping.
+[name="플레임브링어"]     얼마 전 네가 외부의 살카즈와 거래하는 모습을 봤다. 그것뿐만이 아니야, 놈들의 전투에 내 마음이 살짝 흔들려서 말이야.
 
 [name="W"]   还有这种事？！
 [name="W"]   へーえ、そんなことがあったの！？
 [name="W"]   There's always something.
+[name="W"]   헤에~ 그런 일이 있었던가?!
 
 [name="炎客"]     就算他最后被你除掉了，事实就是事实，依然在那里。遮掩是没用的。
 [name="エンカク"]     そして、その取引相手を最後にはお前が消していたな。だが取引は存在した。その秘密は未だあそこに眠っているのだろう。隠そうとしても無駄だ。
 [name="Flamebringer"]     You took him out in the end, but facts are facts. You can't cover this up.
+[name="플레임브링어"]     결론적으론 네게 제거됐지만, 사실은 변하지 않지. 숨겨봤자 소용없다.
 
 [name="W"]   唔。
 [name="W"]   ふーん。
 [name="W"]   Hmph.
+[name="W"]   쳇.
 
 [name="W"]   真是败给你啦！行啦行啦。我确实和他口头约定好，让他干掉我的上司，方便我去做事呢。
 [name="W"]   あーもう負け負け！　そうよ、たしかに彼とは取引をしたわ。その代わりとして、私の上官を殺して私が動きやすくなるようにしてってお願いしたわ。
 [name="W"]   Alright, alright! You win. We made a verbal contract, he'd get rid of the boss, grease the wheels a bit for me.
+[name="W"]   정말이지 졌다 졌어! 그래, 일하기 편하게 내 상사 좀 처리해 달라고 구두로 부탁하긴 했어.
 
 [name="W"]   毕竟大家也是老相识了嘛，面子也是要卖一个的。
 [name="W"]   みんな顔見知りだし、恩を売っておくのも大事でしょ。
 [name="W"]   We're all friends here. Let's not stand on ceremony.
+[name="W"]   어차피 다들 구면이잖아, 체면 좀 살려줘야지.
 
 [name="炎客"]     但你不可能放过他们。
 [name="エンカク"]     だがお前は奴らを見逃してやらなかった。
 [name="Flamebringer"]     But you won't let them go.
+[name="플레임브링어"]     하지만 네가 놈들을 가만히 둘 리 없지.
 
 [name="W"]   至少我放过了他想保护的人啊。
 [name="W"]   彼が守りたいって言ってた人は見逃してあげたわ。
 [name="W"]   I can at least leave the people they want to protect.
+[name="W"]   적어도 난 그 사람이 지키고 싶어 하는 사람은 안 건드렸다고.
 
 [name="W"]   我答应他，会给罗德岛的救援队提供帮助——这和我杀死他这件事，也没什么矛盾吧？
 [name="W"]   ロドスの救援部隊の手助けをする。それは承諾した――でも、それと彼を殺すことは、別に矛盾してないでしょ？
 [name="W"]   We agreed a Rhodes Island rescue team could come help. Me killing him didn't break that deal, did it?
+[name="W"]   로도스 아일랜드 구조팀을 지원해 주겠다고 그 사람이랑 약속했는걸…… 이 일이랑 내가 그 사람을 죽인 건 다른 일이잖아?
 
 [name="W"]   再说了，我也有自己的规划，钓线总要放长一些才行。但手上的猎物，也没理由让他跑了。
 [name="W"]   それに、私にだって自分のやり方ってものがあるの。釣り糸は長くして待つのが基本だけど、手の内にある獲物を逃す理由はない。
 [name="W"]   I've got my principles. I don't mind cutting some slack here and there. But when I got a toy right here in my hands? How am I not supposed to play with it?
+[name="W"]   그리고 나도 계획이 있다고. 낚싯줄은 좀 길게 잡는 게 좋지만, 그렇다고 수중에 들어온 사냥감을 도망치게 놔둘 이유도 없으니까.
 
 [name="炎客"]     就算这样，他也消灭了你好不容易弄到手的精英战士。
 [name="エンカク"]     だが何はどうあれ、奴はお前が苦心して手に入れた精鋭たちをことごとく射殺した。
 [name="Flamebringer"]     And you let him take down so many of your elite fighters. They're not easily replaced.
+[name="플레임브링어"]     어찌 됐든, 녀석은 네가 어렵게 손에 넣은 정예 전사를 다 없애버렸지 않나.
 
 [name="W"]   够了！这事，我可还是很生气的！
 [name="W"]   もういいわ！　思い出すだけでイライラする！
 [name="W"]   Yeah, yeah! I'm still pissed off about that!
+[name="W"]   그만 좀 해! 생각만 해도 짜증 나니까!
 
 [name="W"]   唉。难得遇到一位旧识，本来还以为能搞好关系，最后还是你死我活，我也很伤心的。
 [name="W"]   もう、せっかく昔なじみに会えて、少しは仲良くやれると思ったのに結局殺し合いなんてね、ああ悲しいわ。
 [name="W"]   Ugh. Here I thought I was gonna get back together with an old friend, catch up, make nice. But you're impossible! I'm positively heartbroken!
+[name="W"]   정말이지, 모처럼만에 옛 친구 좀 만나서 잘 해보려고 했더니, 결국 이렇게 너 죽고 나 살자야? 이거 너무 슬픈데.
 
 [name="整合运动刀兵"]     ......W，我们必须动手了。拖得太久会影响既定的计划。
 [name="レユニオン刀兵"]     ……W、次の行動まで時間がないぞ。長引けば作戦のスケジュールに影響が出る。
 [name="Reunion Blademaster"]     ...W, we need to get moving. Dragging this out too long will throw everything off schedule.
+[name="리유니온 검사"]     ……W, 이제 슬슬 움직여야 합니다. 오래 끌면 계획에도 차질이 생길 겁니다.
 
 [name="W"]   好啦，既然大家时间都很紧迫......你真的不打算改变你的看法？
 [name="W"]   そうね、時間がないのぐらい分かっているわ……。あなた、本当に考えを変えるつもりはないの？
 [name="W"]   Fine. Looks like we're out of time here... You're really not gonna change your mind?
+[name="W"]   알아 나도 시간 없는 거…… 어때, 마음을 바꿀 생각은 정말 없는 거야?
 
 [name="炎客"]     自然不会。
 [name="エンカク"]     無論だ。
 [name="Flamebringer"]     Of course not.
+[name="플레임브링어"]     당연히 없다.
 
 [name="W"]   最后一个问题，你现在的雇主是谁？啊，抱歉，反正你是不会说的吧。
 [name="W"]   最後に一つ聞かせて。あなたの今の雇い主は誰？　あら、ごめんなさい。どっちにしろあなたなら言わないわね。
 [name="W"]   Last question: who are you working for now? Oh, there's no way you're gonna answer that,  is there?
+[name="W"]   그럼 마지막으로 하나만 더. 고용주가 대체 누구야? 아~ 미안, 어차피 안 말해 주려나.
 
 [name="W"]   但我大致猜得到。
 [name="W"]   でも大体の予想はできるわ。
 [name="W"]   And I think I can guess anyway.
+[name="W"]   대충 짐작은 가지만.
 
 [name="炎客"]     是吗，我以为他们没有那么有名。
 [name="エンカク"]     そうか。奴らはそこまで有名でないと思っていたが。
 [name="Flamebringer"]     Really? Here I thought they weren't so famous.
+[name="플레임브링어"]     그런가? 놈들이 그렇게 유명한지는 몰랐는데.
 
 [name="W"]   我有不少旧识在那里。欸，虽然我的旧识到处都是啦，你也算是呢。
 [name="W"]   あそこには昔なじみがたくさんいるから。というより、私の昔なじみはそこら中にいるって言った方が良いかしら、あなたもその内の一人よ。
 [name="W"]   I've got a lot of friends in the neighborhood. You know, I've got friends just about everywhere. You're one of 'em.
+[name="W"]   거기엔 내 옛 친구들이 많거든. 물론, 내 옛 친구들은 어디든지 있지만 말이야. 너도 내 옛 친구잖아?
 
 [name="炎客"]     前言不搭后语。
 [name="エンカク"]     お前、一体何が言いたいんだ？
 [name="Flamebringer"]     That last bit disproves the first bit.
+[name="플레임브링어"]     앞뒤가 맞지 않는 말이군.
 
 [name="W"]   不，我要说的是，我也许清楚一些你以前的佣兵队伍被消灭的内幕。
 [name="W"]   いえ、私が言いたいのは、あなたの前任の傭兵部隊が消された件の黒幕を、私が知ってるかもしれないってこと。
 [name="W"]   Nah. What I'm saying is I might have an idea of how your old mercenary team got wiped out.
+[name="W"]   아니 내 말은, 네 예전 용병 부대가 없어진 내막을 내가 알지도 모른다는 거지.
 
 [name="W"]   尊敬的刀术师队长，策划了那次的阴谋，让你变成现在这样子的人，说不定就在你要去的地方哦？
 [name="W"]   刀術師隊長さん、あの時の陰謀を企て、あなたを今のようにした張本人が、あなたの行く先にいるかもしれないわよ？
 [name="W"]   The honored captain of your swordmasters behind the plot that turned you into the man you are today, may very well be in the place you intend to go?
+[name="W"]   그때 그 음모를 꾸미고 널 이 모양으로 만든 사람이, 네가 가려는 그곳에 있을지도 모른다 이 말이야. 아시겠어요? 우리 소드캐스터 대장 나리?
 
 [name="炎客"]     是吗？
 [name="エンカク"]     ほう、そうか？
 [name="Flamebringer"]     Is that right...?
+[name="플레임브링어"]     흐음, 그런가?
 
 [name="炎客"]     是吗......
 [name="エンカク"]     なるほど。そうか……。
 [name="Flamebringer"]     Is it...
+[name="플레임브링어"]     그렇단 말이지……
 
 [name="炎客"]     有趣。
 [name="エンカク"]     それは面白い。
 [name="Flamebringer"]     Fascinating.
+[name="플레임브링어"]     재미있군.
 
 [name="W"]   啊哈哈，原来你不知道！当然了，我也是刚刚才知道。
 [name="W"]   アハハ、あなたも知らなかったのね！　当然ね、私だってさっき初めて知ったんだから。
 [name="W"]   Ahahaha! So you didn't even know! I mean, I only just found out myself.
+[name="W"]   아하하, 너 몰랐구나! 하긴 당연하지, 나도 안 지 얼마 안 됐는걸.
 
 [name="W"]   很快你就会发现，事情肯定没你想的那么简单。
 [name="W"]   すぐに思い知るでしょうね。この事態はあなたが思うほど簡単じゃないってことをね。
 [name="W"]   You'll figure it out soon enough. Things aren't as simple as you think.
+[name="W"]   곧 알게 될 거야. 일이 네가 생각한 것만큼 단순하지 않다는 걸.
 
 [name="W"]   我很期待你会怎么做，呵呵，你总会做些什么的。
 [name="W"]   あなたがどう動くか楽しみだわ。フフッ、あなたが黙って見ているなんてあり得ないものね。
 [name="W"]   I'm really looking forward to seeing what you do. Hehe. What ever will you do?
+[name="W"]   네가 앞으로 어떻게 나올지 기대되네. 후후, 넌 분명히 뭔가 일을 터뜨릴 테니까.
 
 [name="整合运动术师"]     W！你还要等到什么时候！？
 [name="レユニオン術師"]     W！　いつまで待たせるんだ！？
 [name="Reunion Caster"]     W! What are you waiting for?!
+[name="리유니온 캐스터"]     W! 언제까지 기다려야 합니까?!
 
 [name="炎客"]     ......
 [name="エンカク"]     ……。
 [name="Flamebringer"]     ......
+[name="플레임브링어"]     ……
 
 [name="W"]   哎，说真的，我的萨卡兹们不会动手哦？要干活，你们自己去干。
 [name="W"]   ハァ……私のサルカズたちにやらせるつもりはないわ。そんなに急ぐのならあなたたちが自分でやりなさい。
 [name="W"]   Okay, listen, my Sarkaz aren't going to do anything? Whatever needs doing, you guys do it yourselves.
+[name="W"]   음… 솔직히, 내 살카즈들은 움직이지 않을걸? 하고 싶으면 너네가 직접 해.
 
 [name="W"]   刀术师——不，炎客，在之后的战斗里，你可能会死。
 [name="W"]   刀術師――いや、今はエンカクだったわね。ここから先の戦いで、あなたはきっと命を落とすわ。
 [name="W"]   Swordmaster——Er, Flamebringer, you might die in this battle we're about to have.
+[name="W"]   소드캐스터…… 아니, 플레임브링어. 앞으로의 전투에서 넌 아마 죽을 거야.
 
 [name="炎客"]     久违的死局。我很兴奋。
 [name="エンカク"]     ああ、久方ぶりの死線だ。俺も昂ぶっている。
 [name="Flamebringer"]     It's been a long time since I've been in a position like this. I'm excited.
+[name="플레임브링어"]     죽을 수밖에 없는 상황이라, 모처럼 흥분되는군.
 
 [name="W"]   久违的？这么说来，也许你佣兵队的全灭并没让你变得冷酷，反而让你变得快乐起来了？
 [name="W"]   久方ぶり？　そう言われてみれば、あなたの傭兵隊は全滅したっていうのに、まるでそれを楽しんでるように見えるわね。
 [name="W"]   Long time? Maybe getting your whole team wiped out didn't turn you as icy cold as they say. Looks like you're all cheered up?
+[name="W"]   모처럼이라고? 그럼 네 용병대가 전멸한 게 너를 냉혹하게 만든 게 아니라, 오히려 더 즐겁게 해줬단 말이야?
 
 [name="炎客"]     我和你没有相像之处，W，快乐不是值得追求的目标。
 [name="エンカク"]     俺はお前とは違う。W、単なる愉悦なんぞ追い求める価値はない。
 [name="Flamebringer"]     That's one way we're different, W. Happiness isn't a goal worth chasing.
+[name="플레임브링어"]     우린 닮은 점이 없군. W, 즐거움은 추구할만한 목표가 아니야.
 
 [name="炎客"]     “上一次”让我失去了很多东西，但我眼前的道路却变得明晰而清澈。
 [name="エンカク"]     「前回」俺は多くのものを失った。だがいま眼前に広がる道は、よりハッキリとこの目に映るようになった。
 [name="Flamebringer"]     I lost so much "last time," but now the path before me is crystal clear.
+[name="플레임브링어"]     …'지난번' 그 일로 난 많은 것을 잃었지만, 눈앞의 길은 오히려 더 명확해졌다.
 
 [name="炎客"]     这一次，希望你们不要让我失望。
 [name="エンカク"]     今回こそ俺を失望させてくれるなよ。
 [name="Flamebringer"]     This time, I hope you won't disappoint me.
+[name="플레임브링어"]     너희가 이번에는 나를 실망 시키지 않길 바라지.
 
 [name="W"]   你居然在笑哎。
 [name="W"]   あら、笑ってるの？
 [name="W"]   Look at that big smile.
+[name="W"]   어머, 웃음이 나와?
 
 [name="W"]   如果我说这次会饶你一命，你信吗？
 [name="W"]   もし今回はあなたを見逃すって言ったら、信じる？
 [name="W"]   If I said I'd let you live, would you believe me?
+[name="W"]   만약에 내가 이번엔 살려주겠다고 하면, 믿을 거야?
 
 [name="炎客"]     我，也想这么问。
 [name="エンカク"]     俺も、同じことを言おうと思っていたさ。
 [name="Flamebringer"]     Funny, I was going to ask you the same question.
+[name="플레임브링어"]     나도, 그렇게 묻고 싶었다.
 
 [name="杜宾"]     合同内容——似乎没有要求你在正式登舰前，就和整合运动正面冲突。
 [name="ドーベルマン"]     契約内容には、ロドスの到着前に、レユニオンと正面衝突しろとは書いてないが。
 [name="Dobermann"]     According to the contract, there is no requirement that you engage in open hostilities with Reunion prior to your onboarding.
+[name="도베르만"]     계약 내용에는…… 정식으로 입사하기 전까지 리유니온과 정면충돌하란 건 없었는데.
 
 [name="炎客"]     是我个人的原因。
 [name="エンカク"]     単なる一身上の都合だ。気にするな。
 [name="Flamebringer"]     At my request.
+[name="플레임브링어"]     개인적인 이유다.
 
 [name="杜宾"]     我们欢迎感染者和有志于解决感染者问题的各类人才，但绝不接纳违反规则和条例的人。
 [name="ドーベルマン"]     感染者と感染者問題を解決する志のある人材は歓迎するが、規則や秩序に違反する者を引き取るつもりはない。
 [name="Dobermann"]     We welcome Infected and those ambitious enough to pursue solutions to the Oripathy crisis, but we reject those who violate rules and regulations.
+[name="도베르만"]     우리는 감염자와 감염자 문제를 해결하고자 하는 다양한 인재를 모두 반기지만, 규칙과 규정을 위반하는 자는 절대 용납하지 않아.
 
 [name="杜宾"]     鉴于我们并不知道当时的具体情况，就不把这件事纳入考察了。
 [name="ドーベルマン"]     具体的な状況がわからない以上、今回の件は査定からは除くがな。
 [name="Dobermann"]     Considering our lack of information surrounding the specific circumstances of that incident, it has not factored into our decision.
+[name="도베르만"]     다만 우리가 당시의 구체적인 상황을 알지 못하므로, 이 일은 조사 대상에 넣지 않겠다.
 
 [name="杜宾"]     下不为例。
 [name="ドーベルマン"]     次はないと心得ておけ。
 [name="Dobermann"]     But this will not happen again.
+[name="도베르만"]     다음엔 그냥 넘어가지 않겠다.
 
 [name="炎客"]     如果有必要，就按你们的方式处理。
 [name="エンカク"]     今回の件はお前たちが好きなように解釈すればいい。
 [name="Flamebringer"]     Should anything happen, we can deal with it your way.
+[name="플레임브링어"]     필요하다면 너희 방식대로 처리해도 좋다.
 
 [name="杜宾"]     我们已经处理过了。你的动机和个人诉求，我们不会纳入考量——不如说。
 [name="ドーベルマン"]     すでにそうさせてもらっている。元より君の動機や個人的な事情は査定に含めていない――というよりも。
 [name="Dobermann"]     We have already dealt with it. Your goals and motivations have also not factored into our decision.
+[name="도베르만"]     이미 처리했다. 아니, 애초에 너의 동기나 개인 주장은 우리의 고려 대상에 들어가지 않는다…… 고 말하는 편이 낫겠지.
 
 [name="杜宾"]     如果判断你是罗德岛无法接纳的人，那么即使你既高尚又正直，我们也不能网开一面。
 [name="ドーベルマン"]     もしロドスに相応しくない者と判断されるなら、君がどれほど高尚で正直な者であっても、その加入を許すことはなかっただろう。
 [name="Dobermann"]     If we determine you are inadmissable into Rhodes Island, then no matter how upstanding you may be, we cannot make an exception.
+[name="도베르만"]     만약 로도스 아일랜드에서 받아줄 수 없다고 판단되면, 그땐 우리도 네가 아무리 고상하고 정직하다 한들 봐줄 수 없다.
 
 [name="炎客"]     是的，仅仅是我的个人诉求。
 [name="エンカク"]     そうだろうな。あくまで個人的な事情というやつだ。
 [name="Flamebringer"]     Right. It's just a personal request.
+[name="플레임브링어"]     그렇겠지. 어디까지나 내 개인 사정이니까.
 
 [name="杜宾"]     哼，不管这个，欢迎来到罗德岛。
 [name="ドーベルマン"]     フンッ、とにかく、ロドスは君を歓迎する。
 [name="Dobermann"]     Hmph. No matter. Welcome aboard.
+[name="도베르만"]     흥, 어쨌든, 로도스 아일랜드에 온 걸 환영한다.
 
 [name="杜宾"]     这么说吧，你的行为每时每刻，都会影响到身边干员，身边的干员也会针对你的行为作出决策。
 [name="ドーベルマン"]     一つ言っておこう。君の行動は常に周囲のオペレーターたちに影響を与える。そして周囲のオペレーターたちもそれに対応した行動を取ることになる。
 [name="Dobermann"]     Listen, your actions from here on reflect on the operators beside you, and they will be making decisions based on your actions.
+[name="도베르만"]     하나 말해두지. 네 행동은 언제나 주위의 오퍼레이터에게 영향을 줄 거다. 그리고 주위의 오퍼레이터들도 네 행동에 반응하겠지.
 
 [name="杜宾"]     只要你遵守规则，罗德岛会十分宽容地对待你，无论你的过去怎么样。
 [name="ドーベルマン"]     ともあれ君が規則に従ってさえいれば、我々は君に対して寛容だ。君の過去がどうあれな。
 [name="Dobermann"]     As long as you abide by our regulations, Rhodes Island welcomes you as one of our own, regardless of your past.
+[name="도베르만"]     네가 규칙만 준수한다면, 로도스 아일랜드는 너의 과거 따위 신경 쓰지 않고 너를 받아줄 거다.
 
 [name="杜宾"]     相反，听着，干员炎客，只要你做出哪怕一丁点出格的事情......
 [name="ドーベルマン"]     だが、覚えておけ。オペレーターエンカク、君が少しでも規則を破るというのなら……。
 [name="Dobermann"]     Conversely, Operator Flamebringer, should you step even one pinky toe out of line...
+[name="도베르만"]     하지만 반대로, 오퍼레이터 플레임브링어, 네가 조금이라도 규칙에 벗어난 일을 한다면……
 
 [name="炎客"]     唔。
 [name="エンカク"]     ああ。異存はない。
 [name="Flamebringer"]     Right.
+[name="플레임브링어"]     그래, 잘 알겠다.
 
 [name="杜宾"]      接下来，我领你去医疗部门吧，有个人想见见你。
 [name="ドーベルマン"]      では、まずは医療部門を案内しよう。君に会いたいと言っている者がいるからな。
 [name="Dobermann"]      Now then, let's go to Medical. There's someone who'd like to see you.
+[name="도베르만"]      그럼, 우선 의료부서로 안내하지. 널 만나고 싶어 하는 사람이 있다.
 
 [Decision(options="——你是？",values="1")]
 [Decision(options="――あなたは？",values="1")]
 [Decision(options="——And you are?",values="1")]
+[Decision(options="……너는?",values="1")]
 
 [name="炎客"]     ......
 [name="エンカク"]     ……。
 [name="Flamebringer"]     ......
+[name="플레임브링어"]     ……
 
 [name="炎客"]     你......
 [name="エンカク"]     お前……。
 [name="Flamebringer"]     You...
+[name="플레임브링어"]     너……
 
 [Decision(options="抱歉，借过。",values="1")]
 [Decision(options="すみません、通してください。",values="1")]
 [Decision(options="Excuse me.",values="1")]
+[Decision(options="미안하군. 지나가지.",values="1")]
 
 [name="炎客"]     ......呵。
 [name="エンカク"]     ……フッ。
 [name="Flamebringer"]     ...Heh.
+[name="플레임브링어"]     ……훗.
 
 [name="炎客"]     真是这样。
 [name="エンカク"]     なるほど。そういうことか。
 [name="Flamebringer"]     So that's how it is.
+[name="플레임브링어"]     정말이지, 그렇게 된 거였나.
 
 [name="炎客"]     W，你还真是诚实啊......
 [name="エンカク"]     W、お前も誠実なところがあるじゃないか……。
 [name="Flamebringer"]     I never should've doubted you, W...
+[name="플레임브링어"]     W, 너도 가만 보면 나름 정직하다니까……
 
 [name="炎客"]     看来活久一点，确实有些益处。
 [name="エンカク"]     長生きをすると、少しは得るものがあるということか。
 [name="Flamebringer"]     Turns out living a bit longer does have its perks.
+[name="플레임브링어"]     오래 살다 보니 좋은 점도 있군그래.
 

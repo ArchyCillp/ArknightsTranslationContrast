@@ -1,160 +1,200 @@
 [name="赫拉格"]   这个菲林族女性并非泛泛之辈。
 [name="へラグ"]   あのフェリーン族の女性、他の中身の無い輩たちとは一線を画した存在だった。
 [name="Hellagur"]   This Feline woman is not some no-name.
+[name="헬라그"]   그 필라인 여자, 다른 어중이떠중이들과는 확연히 다르더군.
 
 [Decision(options="这还是难不倒你的。;将军，没受伤吧？",values="1;2")]
 [Decision(options="それでもあなたの敵ではない。;将軍、怪我はないか？",values="1;2")]
 [Decision(options="But she still was no match for you.;General, are you hurt?",values="1;2")]
+[Decision(options="그래도 당신의 적은 아니었지.;장군, 다치지는 않았나?",values="1;2")]
 
 [name="赫拉格"]   不必担心。她的部下都只是些庸人。你们安全之后，撤退对我来说还算轻松。
 [name="へラグ"]   なに、心配はいらんよ。彼女の部下たちは、皆凡庸な連中だったからな。ドクターたちが無事に逃げられさえすれば、私が撤退するのは造作もないことだ。
 [name="Hellagur"]   Don't worry. Her henchmen were mediocre at best. After ensuring your safety, it was a fairly simple matter for me to retreat.
+[name="헬라그"]   걱정할 필욘 없네. 그 여자의 부하들은 별 볼 일 없으니 말일세. 자네들만 무사히 도망치면, 내가 철수하는 건 식은 죽 먹기지.
 
 [name="赫拉格"]   只不过，关于这个保镖的身份，我有些猜测。
 [name="へラグ"]   だが、あのシュヴァルツというボディーガードに関しては、少し心当たりがある。
 [name="Hellagur"]   However, I might know a thing or two about the identity of that bodyguard.
+[name="헬라그"]   다만, 아까 그 경호원의 정체에 관해서는, 짐작이 가는 게 있네만…
 
 [Decision(options="身份;难道说......",values="1;2")]
 [Decision(options="素性に心当たりが？;まさか……。",values="1;2")]
 [Decision(options="Her identity?;Do you mean…",values="1;2")]
+[Decision(options="정체?;설마……",values="1;2")]
 
 [name="赫拉格"]   哥伦比亚，菲林族，女性，银发、金瞳、黑弩。是杀手，也是佣兵。
 [name="へラグ"]   クルビア出身でフェリーン族、金色の瞳を持つ銀髪の女性、黒いクロスボウ。その素性は殺し屋であり、傭兵でもある。
 [name="Hellagur"]   Columbian, Feline, female, silver hair, amber eyes, and a black crossbow. She's both a mercenary and an assassin.
+[name="헬라그"]   컬럼비아 출신, 필라인 족, 여성, 은발, 금색 눈동자, 검은 크로스보우…… 킬러이자 용병이기도 하네.
 
 [name="赫拉格"]   杀手闻名于诸城是件可耻的事，但这些传闻实在是过于有名。
 [name="へラグ"]   殺し屋として街中に名が知れ渡ることは、恥ずべきことではあるとは言え、彼女の噂はあまりにも有名だ。
 [name="Hellagur"]   For a hitman, being famous is nothing to be proud of, but the truth is that her feats were simply too astonishing.
+[name="헬라그"]   킬러가 세간에 널리 이름이 알려진다는 것은 부끄러워해야 할 일이라곤 하나, 그 여자의 소문은 너무나도 유명해서 말이지.
 
 [name="赫拉格"]   譬如说，毁掉一整个哥伦比亚家族。一个强盛的家族，重要人物在数年内陆续暴毙，逐渐走向衰落，最终彻底被除名。
 [name="へラグ"]   クルビアのとある一家を消し去ったという話がある。隆盛な一族の重要人物が、数年のうちに次々と謎の死を遂げ、その結果一族は衰退の一途をたどり、そして誰もいなくなった。
 [name="Hellagur"]   For example, she once wiped out an entire clan in Columbia. It was a powerful clan as well. Gradually, over a few years, its important figures met violent ends one after another until the entire clan crumbled into nothingness.
+[name="헬라그"]   컬럼비아의 어떤 가문 전체를 없애버렸다는 일화도 있네. 강성한 어느 가문의 중요 인물들이 몇 년 동안 의문의 죽음을 맞고, 그렇게 점차 쇠락하다 결국엔 완전히 사라져버렸다고 하더군.
 
 [name="赫拉格"]   再如，猎杀一整支巡逻队。这支巡逻队在哥伦比亚边境烧杀抢掠，自诩野蛮人的征服者，不断地向异族施加暴行和惨剧。
 [name="へラグ"]   さらには、巡察部隊を一個中隊まるまる潰したという話もある。奴らはクルビアの辺境で、焼き討ちと略奪を繰り返した無法集団だった。「野蛮人の征服者」などと名乗り異族を迫害していたのだ。
 [name="Hellagur"]   Another example - she once hunted down an entire patrol group. This patrol was notorious for killing people at Columbia's border. Calling themselves "Conquerors of the Barbarians," their violence towards other races brought about many tragedies.
+[name="헬라그"]   이뿐만이 아닐세, 어느 순찰대를 궤멸시킨 일화도 있네. 이 순찰대의 탈을 쓰고 컬럼비아 변경에서 방화와 약탈을 일삼던 무법자들은, 스스로를 야만인의 정복자라 일컬으며 끊임없이 이민족에게 폭행은 물론, 입에 담기조차 어려운 심한 짓들을 하고 다녔었지.
 
 [name="赫拉格"]   之后的一个月内，他们在山间逃窜，不断死去，最后只剩下一个残废回到城市胡言乱语。
 [name="へラグ"]   しかし、その後の一ヶ月のうちに、奴らは山で逃げ惑いながら、一人また一人と狩られていった。最後に残った一人はボロボロになりながら街に下りてきたが、精神錯乱状態に陥っていたそうだ。
 [name="Hellagur"]   After a single month, they fled into the mountains but were slain left and right until only one member, disabled and incoherent, managed to make it back to the city.
+[name="헬라그"]   그 후 한 달 동안, 놈들은 한 사람 한 사람씩… 산속에서 도망만 치다 죽어나갔네. 결국 마지막으로 남은 순찰대원이 불구가 되어 도시에 돌아왔지만, 완전히 미쳐버렸다더군.
 
 [name="赫拉格"]   以及向我叙说故事的人的遭遇。
 [name="へラグ"]   そしてその話を私にしてくれた者も……。
 [name="Hellagur"]   The last example is the man who told me these stories.
+[name="헬라그"]   그리고 그 얘기를 내게 들려준 사람도……
 
 [Decision(options="又发生了什么？;请说吧，我不害怕。",values="1;2")]
 [Decision(options="それから、どうなった？;言ってくれ。怖くはない。",values="1;2")]
 [Decision(options="What happened to him?;Keep going. I’m not intimidated.",values="1;2")]
+[Decision(options="또 무슨 일이 있었습니까?;말씀해주시죠, 무섭지는 않습니다.",values="1;2")]
 
 [name="赫拉格"]   不必多说了。他的伤疤从左肩延伸到右脚后跟。
 [name="へラグ"]   多くを語る必要はないさ。……彼の傷跡は左肩から右足のかかとまで伸びていたそうだ。
 [name="Hellagur"]   I'll get to the point. He has a scar going from his left shoulder to his right heel.
+[name="헬라그"]   더 이상 말할 필요는 없겠지…… 왼쪽 어깨부터 오른 발뒤꿈치까지…… 그의 몸은 상처로 가득했었네.
 
 [name="赫拉格"]   杀人如麻的家伙比比皆是，我也如此。
 [name="へラグ"]   それだけ手に血が染み付いた者ということさ、私も人のことは言えんがね。
 [name="Hellagur"]   Cold-blooded killers are abound here, and I'm one of them.
+[name="헬라그"]   그 정도로 피바람을 몰고 다녔던 자란 말일세. 내가 할 말은 아니네만.
 
 [name="赫拉格"]   当然，这个杀手失踪已久。
 [name="へラグ"]   そして、その殺し屋は姿を消してしばらくになる。本人だという確証は無いが……。
 [name="Hellagur"]   Of course, this particular woman has been missing for some time.
+[name="헬라그"]   그리고, 이 킬러는 이미 꽤 오랫동안 실종 상태일세.
 
 [name="赫拉格"]   只是，如果她就是那个人，那么摆在我们面前的，自然是腥风血雨。
 [name="へラグ"]   ただ、もし彼女がその本人だった場合、我々の前に待ち受けるのは血なまぐさい結末しかないだろう。
 [name="Hellagur"]   But if my hunch is correct, and they're the same person, then things are about to get real ugly.
+[name="헬라그"]   만약 지금 얘기한 킬러가 그 여자라면, 우리에게도 분명 큰 위협이 되겠지.
 
 [Decision(options="水比想象中的深。;锡兰被蒙在鼓里？",values="1;2")]
 [Decision(options="想像よりも遥かに根が深い問題だ。;セイロンも欺かれ続けてきた？",values="1;2")]
 [Decision(options="The waters here are a lot murkier than I expected.;Is Ceylon being tricked?",values="1;2")]
+[Decision(options="생각보다 심각한 문제군요.;실론은 그 사실을 줄곧 모르고 있었고요?",values="1;2")]
 
 [name="赫拉格"]   也许市长并非不知情。
 [name="へラグ"]   市長は彼女の素性を知っているかもしれん。
 [name="Hellagur"]   The mayor might not be blind to all of this.
+[name="헬라그"]   거기까진 모르겠네만, 시에스타의 시장이라면 알고 있었을지도……
 
 [name="赫拉格"]   不如说，如果她是市长的杀手，我不会感到奇怪。
 [name="へラグ"]   いや、彼女がたとえ市長に仕える殺し屋であっても、私は不思議なことだとは思わん……と言うべきか。
 [name="Hellagur"]   As a matter of fact, I wouldn't even be surprised if the mayor was the one who hired her.
+[name="헬라그"]   아니, 어쩌면 그 여자가 시장의 킬러라고 해도 이상할 건 없을 것 같군.
 
 （玻璃杯粉碎）
 （コップの割れる音）
 (Glass shatters)
+(쨍그랑————)
 
 [Decision(options="锡兰？！;你从什么时候......",values="1;2")]
 [Decision(options="セイロン！？;いつからそこに……。",values="1;2")]
 [Decision(options="Ceylon?!;How long have you been here…",values="1;2")]
+[Decision(options="실론?!;언제부터 거기에……",values="1;2")]
 
 [name="赫拉格"]   锡兰小姐，你不用躲着偷听。
 [name="へラグ"]   セイロン殿、隠れて聞き耳を立てなくともよい。
 [name="Hellagur"]   Miss Ceylon, you don't have to eavesdrop.
+[name="헬라그"]   실론 아가씨, 숨어서 엿들을 필요는 없네.
 
 [name="锡兰"]   我，我想给你们倒杯水......
 [name="セイロン"]   わ、わたくしは、ただお水を皆様に……。
 [name="Ceylon"]   I... I just wanted to get some water for you...
+[name="실론"]   저, 저는 여러분께 물을 따라 드리려고……
 
 [name="锡兰"]   赫拉格爷爷，那个佣兵，是从什么时候开始活动，又是在什么时候失踪的？
 [name="セイロン"]   ヘラグおじ様、その傭兵はいつから活動を始め、そしていつ姿を消したのでしょうか？
 [name="Ceylon"]   Mister Hellagur, when did that mercenary begin her career, and when did she go missing?
+[name="실론"]   헬라그 할아버님, 그 용병은… 언제부터 활동을 시작해서, 언제 실종이 됐나요?
 
 [name="赫拉格"]   她的事迹开始闻名，甚至在我还未退伍之时。
 [name="へラグ"]   彼女の噂が流れ始めたのは、私が退役する前になるな。
 [name="Hellagur"]   She had made a name for herself even before I was discharged.
+[name="헬라그"]   그 여자에 대한 소문이 돌기 시작한 건, 내가 퇴역하기도 전의 일이었다네.
 
 [name="赫拉格"]   而她销声匿迹则是一年之前，随着那个家族的覆灭一起。
 [name="へラグ"]   そしてその噂が途切れたのは、およそ一年前だ。例の一家の事件と共にな。
 [name="Hellagur"]   As for when she disappeared, I'd say about a year ago, after that clan was annihilated.
+[name="헬라그"]   그리고 일 년 전, 그녀는 그 가문의 파멸과 함께 소리소문없이 사라졌지.
 
 [name="锡兰"]   ......直到六年前，黑都在维多利亚照顾我的生活。
 [name="セイロン"]   ……六年前まで、シュヴァルツはヴィクトリアでわたくしの世話をしてくれていましたわ。
 [name="Ceylon"]   ...Schwarz had been taking care of me, up until six years ago.
+[name="실론"]   ……6년 전까지, 슈바르츠는 빅토리아에서 유학을 하던 절 계속 보살펴줬어요.
 
 [name="锡兰"]   但是有一天，她忽然说爸爸需要她回去做事，就走了，只在每年圣诞节的时候来接我回家。
 [name="セイロン"]   ですがある日、突然お父様からの命令だと言っていなくなってしまいましたの。その後は、毎年クリスマスに迎えに来てくれたときに顔を合わせるだけになって……。
 [name="Ceylon"]   But one day, she suddenly told me my father needed her for something, and just left. After that, I only saw her when she'd pick me up over Christmas.
+[name="실론"]   그러던 어느 날, 슈바르츠는 아버지로부터의 명령이라며 떠나버렸어요. 그때부턴 매년 크리스마스 때만 절 마중 나왔었죠.
 
 [name="锡兰"]   但、但是，她刚才只是态度不好，而且听了别人的命令，黑她怎么可能是那种杀人如麻的杀手！
 [name="セイロン"]   で、ですが先ほどの彼女は、たまたま少し機嫌が悪かっただけですのよ。それにきっと誰かの命令に従っているだけ。何人も殺めた殺し屋だなんて……そんなこと……あるわけ……。
 [name="Ceylon"]   B-but, I'm sure she was just in a bad mood, plus she was just following orders. There's no way she's a cold-blooded killer!
+[name="실론"]   그, 그래도 아까는 명령 때문에 태도가 좋지 않았을 뿐이지, 슈바르츠가 사람을 죽이는 킬러일 리 없어요!
 
 [name="锡兰"]   而且，按照你们的说法，你们想说克洛宁的背后是我爸爸在授意吗？！
 [name="セイロン"]   しかも、貴方の言葉が本当なら、クローニンさんの後ろでお父様が糸を引いていると！？
 [name="Ceylon"]   Furthermore, are you implying that my father is somehow behind Cronin's actions?!
+[name="실론"]   그 말대로라면, 크로닌 씨의 배후에는 저희 아버지가 있단 얘긴가요?!
 
 [name="锡兰"]   我不信！
 [name="セイロン"]   そんなこと、信じられませんわ！
 [name="Ceylon"]   I don't believe it!
+[name="실론"]   그런 말, 저는 못 믿습니다!
 
 [name="赫拉格"]   我不作推测。但我也说过，即使是最信任的人，也未必对你毫无保留。
 [name="へラグ"]   邪推するつもりはない。だが君が最も信頼を置く者だとしても、相手が君に隠し立てしないとは限らないということだ。
 [name="Hellagur"]   I won't jump to conclusions. However, I must remind you that even the people you trust most cannot solely look out for your interests.
+[name="헬라그"]   섣불리 추측하진 않겠네. 다만 가장 믿을 수 있는 사람이라 할지라도, 아무것도 숨기는 게 없으리란 법은 없다는 걸 알아뒀으면 좋겠군.
 
 [name="赫拉格"]   信与不信，我不关心。只是，她身上的乌萨斯制式武器留下的伤痕，我绝不会看错。这支队伍被埋葬在大雪中。
 [name="へラグ"]   君が信じるか否かはどちらでもよい。ただ、彼女の身体に刻まれたウルサス式の武器による傷跡を私は見間違えはしない。あの部隊が……雪深くに葬られたのは間違いない。
 [name="Hellagur"]   Whether she trusts you or not is none of my concern. All I know is, I would never mistake those scars inflicted by Ursusian weapons. The squad that did that to her are now buried deep underneath the snow.
+[name="헬라그"]   믿을지 안 믿을지는 관심 없네만, 그 여자가 쓰는 우르수스 식 무기가 남긴 상처는 잘못 봤을 리 없네. 그 부대는…… 지금도 눈 속에 묻혀있지.
 
 [name="赫拉格"]   现状如你所见，博士。
 [name="へラグ"]   現在の状況は以上だ。ドクター。
 [name="Hellagur"]   The situation should be clear to you, Doctor.
+[name="헬라그"]   현 상황은 이렇다네, 박사.
 
 [name="赫拉格"]   如果火山的情报处理也有市政府参与，那么这件事我们未必应该插手。
 [name="へラグ"]   もし、火山情報の発表を市政府が隠蔽しているのであれば、今回の件は我々が関わるべきでないのかもしれない。
 [name="Hellagur"]   If the City Council also has a hand in circulating false information about the volcano, then we should stay out of this.
+[name="헬라그"]   만약 화산의 정보 처리가 시청도 관여한 거라면, 이 일은 우리가 반드시 개입해야 할 일은 아닐 걸세.
 
 [name="赫拉格"]   锡兰小姐，你也应该看清事实。
 [name="へラグ"]   セイロン殿も、事実と向き合うべきだろう。
 [name="Hellagur"]   Miss Ceylon, you should also try to see the truth.
+[name="헬라그"]   실론 아가씨도 그 사실을 받아들였으면 좋겠네만.
 
 [name="锡兰"]   我......我需要冷静一下。
 [name="セイロン"]   わたくしは……少し…時間を頂きたく思います。その……冷静になるまで……。
 [name="Ceylon"]   I... I need to calm down.
+[name="실론"]   저…… 저는 잠시 머리 좀 식히고 올게요.
 
 [name="赫拉格"]  博士，请。
 [name="へラグ"]  さてドクター、貴殿の出番だ。
 [name="Hellagur"]  Doctor, if you would.
+[name="헬라그"]  자, 이젠 박사가 나설 차례군.
 
 [Decision(options="啊？;我是该做些什么吧？",values="1;2")]
 [Decision(options="はい？;何かしないとな。",values="1;2")]
 [Decision(options="Huh?;Something that only I can do, huh?",values="1;2")]
+[Decision(options="음?;내가 나서다니?",values="1;2")]
 
 [name="赫拉格"]   自然。现在她需要一个能够理解她的人。
 [name="へラグ"]   当然、今の彼女には理解者が必要だ。
 [name="Hellagur"]   Naturally. She needs someone who can understand her.
+[name="헬라그"]   당연하지 않나. 지금 그녀에겐, 그녀를 이해해 줄 사람이 필요하네.
 

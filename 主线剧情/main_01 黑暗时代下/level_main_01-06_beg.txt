@@ -1,240 +1,300 @@
 [name="梅菲斯特"]  是的，他们不知道自己被浮士德跟踪。我从浮士德派回来的斥候那里了解到了一些情报。
 [name="メフィスト"]  そうさ。あいつらはファウストの追跡にまだ気づいてない。ファウストのところから戻ってきた伝令が色々教えてくれたよ。
 [name="Mephisto"]  Indeed. They don't know that Faust is following them. I received some information from one of his scouts.
+[name="메피스토"]  역시, 녀석들은 파우스트가 추적하고 있는지 모르나 보네. 파우스트가 보낸 전령이 이것저것 알려주더라고.
 
 [name="梅菲斯特"]  罗德岛确实被困在中城区的外围了。
 [name="メフィスト"]  ロドスの連中は今、ミッドタウンの外周で足踏みしている状態だ。
 [name="Mephisto"]  Rhodes Island is trapped around the perimeter of the city center.
+[name="메피스토"]  로도스 아일랜드는 이제 중심 구역 외곽 쪽에 갇힌 상황이야.
 
 [name="梅菲斯特"]  虽然是些虫子，但他们也可能趁着天灾带来混乱逃跑。
 [name="メフィスト"]  虫けらのくせに、天災の混乱に乗じて逃げ出そうってわけだね。
 [name="Mephisto"]  Insects as they might be, they still might take advantage of the confusion caused by the Catastrophe to make their escape.
+[name="메피스토"]  벌레 같은 놈들, 재앙의 혼란을 틈타 도망치려는 계획이었겠지.
 
 [name="梅菲斯特"]  以他们对切尔诺伯格现状的了解，说不定会干扰到我们的计划。
 [name="メフィスト"]  チェルノボーグの現状を知られてしまったからには、逃がせば僕たちの計画の邪魔になるかもしれない。
 [name="Mephisto"]  Given their understanding of the situation in Chernobog, they could potentially interfere with our plans.
+[name="메피스토"]  녀석들이 체르노보그의 상황을 알게 된 이상, 우리 계획에 방해가 될지도 몰라.
 
 [name="梅菲斯特"]  ——至少，把他们铲除掉没有任何坏处。
 [name="メフィスト"]  少なくとも、始末しても悪いことはないはずだ。
 [name="Mephisto"]  ... At least, getting rid of them won't do us any harm.
+[name="메피스토"]  이쯤에서 끝내버리는 것도 나쁘지 않겠지.
 
 [name="？？？"]   ————
 [name="？？？"]   ――――
 [name="???"]   ...
+[name="???"]   ……
 
 [name="整合运动成员"]  切尔诺伯格的混蛋，都是你们，都是你们，害的我们感染者变成这样！
 [name="レユニオン構成員"]  チェルノボーグのクズどもめ！　貴様らが俺たち感染者をこんなふうにしたんだ！
 [name="Reunion Member"]  Chernobog bastards! It's because of you, it's all your fault... that us Infected became like this!
+[name="리유니온 멤버"]  체르노보그의 쓰레기들! 너희들이, 너희들이! 우리 감염자들을 이렇게 만들었다고!
 
 [name="杜宾"]  闪开！
 [name="ドーベルマン"]  いいから、どけ！
 [name="Dobermann"]  Get lost!
+[name="도베르만"]  비켜!
 
 [name="整合运动成员"]  呜！
 [name="レユニオン構成員"]  ぐわっ！
 [name="Reunion Member"]  Ugh!
+[name="리유니온 멤버"]  으악!
 
 [name="杜宾"]  这些人，只不过是在前仆后继地送死！！
 [name="ドーベルマン"]  こいつら、次々と突っ込んで……怖いもの知らずか！！
 [name="Dobermann"]  These people, it's like they're just waiting to die! !
+[name="도베르만"]  이 녀석들, 무서운 줄 모르고 계속 달려드는데!
 
 [name="临光"]  整合运动怎么全都陷入了狂躁状态？
 [name="ニアール"]  この狂乱状態は一体なんなんだ……？
 [name="Nearl"]  Why is Reunion going completely berserk?
+[name="니어"]  리유니온은 대체 왜 이렇게 흥분해 있는 거지.
 
 [name="杜宾"]  为什么这个时候，这里会聚集着这么多整合运动？！
 [name="ドーベルマン"]  それになぜこんな時に、これだけ多くのレユニオン部隊がここにいるんだ！？
 [name="Dobermann"]  Why are they sending so many members out here now?!
+[name="도베르만"]  왜 이 타이밍에, 하필 이곳에 리유니온이 이렇게나 많이 있는 거냐?!
 
 [name="杜宾"]  不合常理！整合运动根本没有坚守这里的理由！
 [name="ドーベルマン"]  不合理だ！　こいつらがいまこの場所を守る理由などないはずだ！
 [name="Dobermann"]  This makes no sense! There's no reason for them to be defending this place so staunchly!
+[name="도베르만"]  앞뒤가 맞지 않아! 리유니온한텐 이곳을 지킬 이유가 없어!
 
 [name="临光"]  罗德岛干员们，不要退缩！击退整合运动，打开撤退路径！
 [name="ニアール"]  オペレーター各位、保ちこたえろ！　下がるな！　敵を殲滅し、撤退ルートを切り拓くぞ！
 [name="Nearl"]  Rhodes Island Operators, stand your ground! Push Reunion back and open up an escape route!
+[name="니어"]  오퍼레이터들에게 알린다! 각자 위치에서 물러나지 마라! 리유니온을 격퇴하고 퇴로를 확보해라!
 
 [name="？？？"]   ————
 [name="？？？"]   ――――
 [name="???"]   ...
+[name="???"]   ……
 
 [name="？？？"]   那些人就是情报中说的“罗德岛”？呵......很英勇。
 [name="？？？"]   あれが噂に聞く「ロドス」か？　フッ……勇敢なものだ。
 [name="???"]   So that's the "Rhodes Island" that I've been hearing so much about? Heh... How heroic.
+[name="???"]   저게 그 유명한 '로도스 아일랜드'인가? 훗… 용감한 녀석들이네.
 
 [name="弑君者"]   ......
 [name="クラウンスレイヤー"]   ……
 [name="Crownslayer"]   ...
+[name="크라운슬레이어"]   ……
 
 [name="医疗干员"]  ......啊？
 [name="医療オペレーター"]  ……えっ？
 [name="Medic"]  ...Huh?
+[name="메딕 오퍼레이터"]  …앗?
 
 [name="近卫干员"]  ......落石？这个时候？
 [name="前衛オペレーター"]  ……落石？　こんなときに！？
 [name="Guard"]  ... Falling rocks? At a time like this?
+[name="가드 오퍼레이터"]  …낙석? 갑자기 뭐지?!
 
 [name="杜宾"]  别停下！优先确保防线！
 [name="ドーベルマン"]  止まるな！　防衛線を維持しろ！
 [name="Dobermann"]  Don't stop moving! Maintain our defensive line!
+[name="도베르만"]  멈추지 마! 방어선을 확보하라!
 
 [name="近卫干员"]  不对......是砸在建筑物上迸出来的......
 [name="前衛オペレーター"]  いや……建物が崩れて破片が降ってきてるんだ……。
 [name="Guard"]  Something's not right... These rocks are coming from the buildings...
+[name="가드 오퍼레이터"]  아니…… 건물에서 나온 파편이겠지…
 
 [name="杜宾"]  你在说什么——
 [name="ドーベルマン"]  お前たち何を言って――。
 [name="Dobermann"]  What are you talking about...
+[name="도베르만"]  무슨 소릴 하는 거냐!
 
 [name="整合运动成员"]  来了！来了！
 [name="レユニオン構成員"]  来たぞ！　ついにこのときが来た！
 [name="Reunion Member"]  It's here! It's here!
+[name="리유니온 멤버"]  왔다! 드디어 왔다!
 
 [name="整合运动成员"]  哈哈......我们感染者的救赎！普通人的末日！
 [name="レユニオン構成員"]  ひひっ……感染者の救済の刻が来た。お前ら健常者はここで粛正されるんだ！
 [name="Reunion Member"]  Ahaha... salvation has come for us! Judgment day has come!
+[name="리유니온 멤버"]  하하… 우리 감염자들의 구세주가 오셨다! 비감염자 놈들, 이젠 끝이야!
 
 [name="整合运动成员"]  啊，啊啊——咕！
 [name="レユニオン構成員"]  あ、ああ……ぐっ！
 [name="Reunion Member"]  Ahhh, arghhhh--*CRASH!*
+[name="리유니온 멤버"]  아, 아아… 큭!
 
 [name="整合运动成员"]  啊，啊啊——咕！
 [name="レユニオン構成員"]  あ、ああ……ぐっ！
 [name="Reunion Member"]  Ahhh, arghhhh--*CRASH!*
+[name="리유니온 멤버"]  아, 아아…큭!
 
 [name="杜宾"]  ——
 [name="ドーベルマン"]  ――
 [name="Dobermann"]  ...
+[name="도베르만"]  ……
 
 [name="杜宾"]  他是被什么东西......击倒的？
 [name="ドーベルマン"]  おい！　奴らは何に……やられたんだ？
 [name="Dobermann"]  They were... crushed by something?
+[name="도베르만"]  저 녀석들이 왜 쓰러진 거지…?
 
 [name="杜宾"]  你们有谁......攻击了他？
 [name="ドーベルマン"]  お前たち……攻撃したか？
 [name="Dobermann"]  Was it one of you... who attacked them?
+[name="도베르만"]  누군가의… 공격을 받은 건가?
 
 [name="杜宾"]  还是说，他是被......
 [name="ドーベルマン"]  それとも、まさか……。
 [name="Dobermann"]  Or were they...
+[name="도베르만"]  아니면 설마…
 
 [name="阿米娅"]  杜宾！天空......！
 [name="アーミヤ"]  ドーベルマンさん！　空が……！
 [name="Amiya"]  Dobermann! Look, the sky...!
+[name="아미야"]  도베르만 씨! 하늘이…!
 
 [name="临光"]  ——
 [name="ニアール"]  ――
 [name="Nearl"]  ...
+[name="니어"]  ……
 
 [name="临光"]  天空陷入了血色——
 [name="ニアール"]  空が血の色に染まっている――
 [name="Nearl"]  The sky was dyed a bloody crimson...
+[name="니어"]  하늘이 핏빛으로 물들고 있다.
 
 [name="临光"]  “沸腾的乌云翻涌在火焰之中......”
 [name="ニアール"]  「たぎる雲が炎の中で渦巻き……」
 [name="Nearl"]  "Boiling dark clouds, tumbling in flames..."
+[name="니어"]  "솟구치는 구름이 화염 속에서 소용돌이치면…"
 
 [name="Ace"]  别惊慌！
 [name="Ace"]  慌てるな！
 [name="Ace"]  Don't panic!
+[name="에이스"]  허둥대지 마라!
 
 [name="临光"]  保护好自己！
 [name="ニアール"]  自分の身を守ることを優先しろ！
 [name="Nearl"]  Keep your senses about you!
+[name="니어"]  자기방어를 최우선으로 해라!
 
 [name="杜宾"]  ......我们还有机会，用行动去拯救自己的生命！
 [name="ドーベルマン"]  ……まだだ、まだ、なんとか生き残る術はあるはずだ！
 [name="Dobermann"]  ... We still can make it out of this alive if we act decisively!
+[name="도베르만"]  …아직, 살아남을 방법은 있을 거야!
 
 [name="？？？"]  “——大地陷入寂静，恐惧取走了他们的声音。”
 [name="？？？"]  「――恐怖がかの者たちの声を奪い、大地は静寂に包まれる」
 [name="???"]  "...As terror strips away their voices, the land falls into silence."
+[name="???"]  "…공포가 그들의 목소리를 앗아가고, 대지는 정적에 휩싸이니."
 
 [name="？？？"]  “巨大的源石垂下头颅——”
 [name="？？？"]  「巨大な源石が降り注ぎ――」
 [name="???"]  "The titanic Originium lowers its head..."
+[name="???"]  "거대한 오리지늄이 하늘에서…"
 
 [name="？？？"]  “——坠落，它坠落在死亡焦热的阴影。”
 [name="？？？"]  「――そは堕ちる、死に焦げた影の上に」
 [name="???"]  "...and falls upon the scorched shadow of death."
+[name="???"]  "…쏟아져 내리리라. 죽음이 각인된 그림자 위로."
 
 [name="弑君者"]  塔露拉。
 [name="クラウンスレイヤー"]  タルラ。
 [name="Crownslayer"]  Talulah.
+[name="크라운슬레이어"]  탈룰라.
 
 [name="塔露拉"]  ......
 [name="タルラ"]  ……
 [name="Talulah"]  ...
+[name="탈룰라"]  ……
 
 [name="弑君者"]  要怎么做？
 [name="クラウンスレイヤー"]  どうすればいい？
 [name="Crownslayer"]  What do we do next?
+[name="크라운슬레이어"]  어떻게 하는 게 좋을까?
 
 [name="塔露拉"]  ————也许他们能自天灾中幸存。
 [name="タルラ"]  ――――奴らは天災を生き延びるかもしれん。
 [name="Talulah"]  ... Perhaps they will be able to survive the Catastrophe.
+[name="탈룰라"]  …놈들은 재앙 속에서도 살아남을지 모른다.
 
 [name="塔露拉"]  漏网之人，你去处理。
 [name="タルラ"]  生き延びたものは、お前が始末しろ。
 [name="Talulah"]  Finish off the stragglers.
+[name="탈룰라"]  살아남은 녀석들은 네가 처리해.
 
 [name="弑君者"]  是。
 [name="クラウンスレイヤー"]  了解。
 [name="Crownslayer"]  Very well.
+[name="크라운슬레이어"]  알겠다.
 
 [name="杜宾"]  虽然已经想到，整合运动要利用天灾复仇......
 [name="ドーベルマン"]  レユニオンが天災を利用して復讐を果たそうとしているのはわかったが……。
 [name="Dobermann"]  Even though I figured that Reunion would be using the Catastrophe to take their revenge...
+[name="도베르만"]  리유니온 녀석들, 재앙을 이용해서 복수하려는 건 알겠지만…
 
 [name="杜宾"]  没想到，他们居然会选择让天灾彻底毁灭切尔诺伯格——
 [name="ドーベルマン"]  まさかチェルノボーグの都市ごと破壊することを選ぶとは――。
 [name="Dobermann"]  I didn't expect them to use it to completely destroy Chernobog...
+[name="도베르만"]  설마 체르노보그를 재앙으로 철저히 파괴해버릴 줄이야…
 
 [name="杜宾"]  比起报复，这更像是宣誓......
 [name="ドーベルマン"]  復讐というよりも、これは宣戦布告と言うべきか……。
 [name="Dobermann"]  Rather than vengeance, this seems more like a manifesto...
+[name="도베르만"]  복수라기보단, 선전포고라고 표현하는 게 맞겠군…
 
 [name="杜宾"]  感染者的时代......吗？
 [name="ドーベルマン"]  感染者の時代を作ろうというの……か？
 [name="Dobermann"]  Something about the Era of the Infected... or something like that?
+[name="도베르만"]  감염자의 시대가 왔다… 는 뜻인가.
 
 [name="医疗干员"]  啊......啊......
 [name="医療オペレーター"]  あぁぁ……あぁぁ……。
 [name="Medic"]  Aaaahh...
+[name="메딕 오퍼레이터"]  아… 아…
 
 [name="医疗干员"]  整个天空......都要掉下来了......
 [name="医療オペレーター"]  空が……空が落ちてくる……。
 [name="Medic"]  The entire sky... is crashing down...
+[name="메딕 오퍼레이터"]  하늘이… 무너지고 있어…
 
 [name="近卫干员"]  小心！！
 [name="前衛オペレーター"]  危ない！！
 [name="Guard"]  Watch out! !
+[name="가드 오퍼레이터"]  위험해!!
 
 [name="医疗干员"]  那是......
 [name="医療オペレーター"]  あれは……。
 [name="Medic"]  What's that...
+[name="메딕 오퍼레이터"]  저건…
 
 [name="阿米娅"]  清醒点！
 [name="アーミヤ"]  しっかりしなさい！
 [name="Amiya"]  Be more alert!
+[name="아미야"]  정신 차리세요!
 
 [name="医疗干员"]  ——啊！
 [name="医療オペレーター"]  ――あ！
 [name="Medic"]  -- Oh!
+[name="메딕 오퍼레이터"]  …앗!
 
 [name="阿米娅"]  保护医生，快带她去安全的地方！
 [name="アーミヤ"]  彼女を安全な場所へ！
 [name="Amiya"]  Protect the Medic - hurry and take her someplace safe!
+[name="아미야"]  이분을 안전지대로 데려가 주세요!
 
 [name="近卫干员"]  明白！
 [name="前衛オペレーター"]  了解！
 [name="Guard"]  Roger!
+[name="가드 오퍼레이터"]  알겠습니다!
 
 [name="Ace"]  干员们，各自寻找安全位置！
 [name="Ace"]  各自、それぞれ退避できる場所を探せ！
 [name="Ace"]  All operators, find cover!
+[name="에이스"]  각자 위치에서 안전지대를 찾아라!
 
 [name="阿米娅"]  各小队！准备好......应对天灾！
 [name="アーミヤ"]  各小隊！　天災に……備えてください！
 [name="Amiya"]  All teams, prepare to... weather the Catastrophe!
+[name="아미야"]  각 팀! 재앙에… 대비해주세요!
 

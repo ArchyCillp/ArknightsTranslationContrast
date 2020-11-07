@@ -1,104 +1,130 @@
 [name="保镖A"]   烫烫烫！焦了焦了！
 [name="護衛A"]   あああ熱い！　焦げちまう！
 [name="Bodyguard A"]   Hoooooooot! I'm burning! I'm burning!
+[name="경호원A"]   으아아아! 뜨거워!
 
 [name="保镖B"]   噫！我的头发！
 [name="護衛B"]   うわ！　俺の髪が！
 [name="Bodyguard B"]   Eeek! My hair!
+[name="경호원B"]   악! 내 머리카락이!
 
 [name="保镖A"]   啧，撤退，撤退！
 [name="護衛A"]   チッ、撤退、撤退だ！
 [name="Bodyguard A"]   Tsk... Fall back, fall back!
+[name="경호원A"]   쳇, 철수, 철수다!
 
 [name="伊芙利特"]   哈哈哈，果然还是打架有意思啊，博士！
 [name="イフリータ"]   ハハハ、やっぱり喧嘩はおもしれーな、ドクター！
 [name="Ifrit"]   Hahaha! See, nothing's more fun than a good scrap, Doc!
+[name="이프리트"]   하하하, 역시 싸움은 재밌다니까, 그치 박사!
 
 [name="伊芙利特"]   啊，对了，博士，我这是为了救你，而且也听你的话没有下重手了，你可不许告诉赫默我打架的事！
 [name="イフリータ"]   あ、そうだドクター、これはオマエを助けるためにやったことだからな。しかも言われた通りちゃんと手加減もしたんだぜ。だからサイレンスには絶対言うんじゃねーぞ！
 [name="Ifrit"]   Oh, that reminds me, Doc. Because I saved you, and didn't go overboard like you asked me to, you'd better not tell Silence about this!
+[name="이프리트"]   아, 맞다. 박사, 이번엔 널 구하려고 한 거고, 네 말대로 심하게 하지도 않았으니까! 사일런스한테 말하기 없기다!
 
 [name="伊芙利特"]   要是被她知道了我的作业肯定又要变多了！
 [name="イフリータ"]   もしバレたらまた山程宿題を出されちまう！
 [name="Ifrit"]   If she finds out about this, she's going to assign me more homework for sure!
+[name="이프리트"]   사일런스한테 걸리면, 분명 내 숙제가 또 산더미처럼 늘어날 거야!
 
 [Decision(options="没问题。;作业你要自己努力。",values="1;2")]
 [Decision(options="問題ない。;宿題は頑張れ。",values="1;2")]
 [Decision(options="No problem.;Good luck on the homework.",values="1;2")]
+[Decision(options="그래.;숙제는 내 알 바 아니지.",values="1;2")]
 
 [name="伊芙利特"]   嘿嘿，我就知道博士是个好人！
 [name="イフリータ"]   ヘヘ、やっぱドクターはいいヤツだな！
 [name="Ifrit"]   Hehe, I knew that you're a nice person, Doc!
+[name="이프리트"]   헤헤, 역시 박사는 사람이 좋다니까!
 
 [name="伊芙利特"]   哼，那我可不管！
 [name="イフリータ"]   フンッ、知らねぇよ！
 [name="Ifrit"]   Hmph, you're on your own then!
+[name="이프리트"]   흥! 그럼 이제 안 도와줄 거야!
 
 [name="锡兰"]   源石驱动的火焰喷射器......而且这个功率，好厉害的术师。
 [name="セイロン"]   源石を動力にした火炎放射……しかもこの出力、素晴らしい術師ですわね。
 [name="Ceylon"]   An Originium-powered flamethrower, with such power too... You must be a very skilled Caster.
+[name="실론"]   오리지늄을 동력으로 쓰는 화염방사기…… 게다가 이렇게나 출력이 강하다니, 대단한 캐스터네요.
 
 [name="伊芙利特"]   大姐，你的眼光不错欸，我超厉害的！
 [name="イフリータ"]   おお、姉ちゃん、見る目あるな。オレサマはすげーんだぜ！
 [name="Ifrit"]   You're right on the money, Missy! I'm super powerful!
+[name="이프리트"]   아가씨가 보는 눈이 좀 있나 보네, 내가 좀 굉장하거든!
 
 [name="锡兰"]   我叫锡兰。
 [name="セイロン"]   わたくしはセイロン。
 [name="Ceylon"]   My name is Ceylon.
+[name="실론"]   전 실론이라고 합니다.
 
 [name="锡兰"]   谢谢你救了我们。
 [name="セイロン"]   わたくしたちを救っていただき、感謝いたしますわ。
 [name="Ceylon"]   Thank you for saving us.
+[name="실론"]   저희를 구해주셔서 감사합니다.
 
 [name="伊芙利特"]   哦、哦......没关系。这，这是我该做的。
 [name="イフリータ"]   お、おう……別にいいぜ。こ、これはオレサマの仕事だしな。
 [name="Ifrit"]   Oh, um... it's my pleasure. I-I'm just doing the right thing.
+[name="이프리트"]   어, 어…… 괜찮아. 이, 이런 건 당연히 해 줘야지……
 
 [name="伊芙利特"]   喂，博士，这个姐姐好懂礼貌啊，这种时候我该怎么做来着？
 [name="イフリータ"]   おいドクター、この姉ちゃんって、アレだ。「レイギタダシイ」ってやつだよな。お、オレサマはどうすれば良いんだ？
 [name="Ifrit"]   Hey Doc, this lady is really polite. What should I be doing now?
+[name="이프리트"]   어이, 박사. 이 아가씨 너무 예의 바른데… 이, 이럴 땐 어떻게 해야 해?
 
 [Decision(options="微笑。;鞠躬。;跳舞。",values="1;2;3")]
 [Decision(options="微笑む。;お辞儀する。;踊る。",values="1;2;3")]
 [Decision(options="Just smile.;Take a bow.;Bust out some dance moves.",values="1;2;3")]
+[Decision(options="너도 미소 지어주면 돼.;너도 배꼽인사 해주면 돼.;춤을 춰 줘.",values="1;2;3")]
 
 [name="伊芙利特"]   噢，好吧，那我试......
 [name="イフリータ"]   そうか、じゃあやってみる……。
 [name="Ifrit"]   Oh, um, I'll try it then...
+[name="이프리트"]   그렇구나… 알았어. 해볼게…
 
 [name="伊芙利特"]   啊？我忘记我的烤肉还在架子上了！我不跟你们多说了！
 [name="イフリータ"]   あ！肉を焼いてる途中だった！　悪ぃがオレサマはもう行くぜ！
 [name="Ifrit"]   Ahh?! I forgot that I left meat on the grill! Gotta get going!
+[name="이프리트"]   아…… 내 정신 좀 봐! 고기 굽던 중이었는데! 그만 가 봐야겠어!
 
 [name="伊芙利特"]   博士，锡兰，你们之后要是想吃烧烤记得来找我啊！
 [name="イフリータ"]   ドクター、それにセイロン、バーベキューを喰いたくなったらオレサマのとこに来るんだぜ！
 [name="Ifrit"]   Doc, Ceylon, come find me afterwards if you want some barbecue!
+[name="이프리트"]   박사, 실론, 바비큐 먹고 싶으면 나한테 얘기해!
 
 [Decision(options="竟然直接就跑开了。",values="1")]
 [Decision(options="行ってしまった。",values="1")]
 [Decision(options="There she goes.",values="1")]
+[Decision(options="바로 도망칠 줄이야.",values="1")]
 
 [name="锡兰"]   博士，我们也赶紧回去吧。
 [name="セイロン"]   ドクター、わたくしたちも急ぎ戻りましょう。
 [name="Ceylon"]   Doctor, let's also hurry back.
+[name="실론"]   박사, 저희도 어서 돌아가죠.
 
 [name="？？？"]   博士，你们平安无事，很好。
 [name="？？？"]   ドクター、そしてそこのお嬢さんも無事なようで何よりだ。
 [name="???"]   Doctor, I'm glad you're fine.
+[name="???"]   박사, 그리고 아가씨까지, 다들 무사했군그래.
 
 [name="锡兰"]   十分感谢您的相助，请问......
 [name="セイロン"]   ご助力、感謝いたしますわ。あの、お名前をお聞かせいただいても……。
 [name="Ceylon"]   Thank you very much, Mister...
+[name="실론"]   도와주셔서 감사해요. 혹시 성함이……
 
 [name="赫拉格"]   你可以叫我赫拉格。
 [name="へラグ"]   ヘラグだ。
 [name="Hellagur"]   You can call me Hellagur.
+[name="헬라그"]   헬라그라고 부르게.
 
 [name="赫拉格"]   和博士一样，我也来自罗德岛。
 [name="へラグ"]   ドクターと同じロドスに所属している。
 [name="Hellagur"]   Just like the Doctor here, I'm also from Rhodes Island.
+[name="헬라그"]   박사처럼 로도스 아일랜드에서 왔지.
 
 [name="赫拉格"]   博士，你现在有时间吗，有些话我要单独告诉你。
 [name="へラグ"]   ドクター、時間がないところすまんが、貴殿に伝えておかなければならないことがある。
 [name="Hellagur"]   Doctor, do you have a minute? I need to have a few words with you, alone.
+[name="헬라그"]   박사, 지금 시간 괜찮나? 따로 자네에게 알려줄 게 있네.
 

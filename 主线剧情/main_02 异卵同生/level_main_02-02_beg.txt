@@ -1,224 +1,280 @@
 [name="陈"]   进来吧。
 [name="チェン"]   どうぞこちらへ。
 [name="Ch'en"]   Come in.
+[name="첸"]   들어와.
 
 [name="阿米娅"]   ......凯尔希医生！
 [name="アーミヤ"]   ……ケルシー先生！
 [name="Amiya"]   ... Dr Kal'tsit!
+[name="아미야"]   …켈시 선생님!
 
 [name="凯尔希"]   ——阿米娅......
 [name="ケルシー"]   ――アーミヤ……。
 [name="Kal'tsit"]   Amiya...
+[name="켈시"]   …아미야…
 
 [name="凯尔希"]   ......{@nickname}。
 [name="ケルシー"]   ……{@nickname}。
 [name="Kal'tsit"]   ... {@nickname}.
+[name="켈시"]   {@nickname}…
 
 [name="凯尔希"]   你来了。
 [name="ケルシー"]   なんだ君も来たのか。
 [name="Kal'tsit"]   So you've come.
+[name="켈시"]   너도 왔군.
 
 [Decision(options="......", values="1")]
 [Decision(options="……。", values="1")]
 [Decision(options="…", values="1")]
+[Decision(options="……", values="1")]
 
 [name="陈"]   咳咳。
 [name="チェン"]   さて……。
 [name="Ch'en"]   Ahem.
+[name="첸"]   어흠.
 
 [name="陈"]   魏长官，罗德岛的另外两位代表也到了。
 [name="チェン"]   ウェイ長官、ロドスの他の2名の代表も到着いたしました。
 [name="Ch'en"]   Chief Wei, the other two representatives of Rhodes Island have also arrived.
+[name="첸"]   웨이 옌우 장관님. 로도스 아일랜드의 다른 대표 두 명도 도착했습니다.
 
 [name="魏彦吾"]   哦，正好。
 [name="ウェイ"]   そうか、ご苦労。ちょうど良い。
 [name="Wei Yenwu"]   Ah, excellent.
+[name="웨이 옌우"]   그래, 마침 잘 되었네.
 
 [name="魏彦吾"]   请坐。凯尔希小姐正向我说明现在的局势呢。
 [name="ウェイ"]   まぁ、掛けてくれ。一緒にケルシー君の解説を聞こうじゃないか。
 [name="Wei Yenwu"]   Please take a seat. Miss Kal'tsit is currently explaining the situation to me.
+[name="웨이 옌우"]   앉게. 켈시가 현재 우리가 처한 상황에 관해 설명해주고 있었네.
 
 [name="凯尔希"]   那我就继续吧。关于现在的局势，我想魏先生也已经很清楚了。
 [name="ケルシー"]   では続けます。現状の局面は、ミスター・ウェイもよくご存じかと思います。
 [name="Kal'tsit"]   Allow me to continue then. Mister Wei, I trust that you have a good grasp of the situation already.
+[name="켈시"]   그럼 계속해서 말씀드리겠습니다. 웨이 옌우 씨도 지금의 상황을 잘 이해하고 계시리라 봅니다.
 
 [name="凯尔希"]   龙门的情报网每天都在搜集大量针对整合运动的信息，想必也对这件事情极为重视。
 [name="ケルシー"]   龍門は既に独自の情報網をお持ちだ。それを駆使してレユニオンに関する情報は毎日大量に収集されているかと思います。であれば今回の件も座視できぬものと推察します。
 [name="Kal'tsit"]   Currently, the Lungmen information network captures a lot of information regarding the Reunion Movement. It is good that you recognize the importance of this.
+[name="켈시"]   용문은 현재 정보망을 활용하여 매일 리유니온에 대한 정보를 대량으로 수집하고 있으니, 이번 건에 대해서도 중요하게 보고 있겠지요.
 
 [name="凯尔希"]   不过仅凭这样，龙门仍然还缺乏一些关键信息。
 [name="ケルシー"]   しかし情報を収集しているだけでは、表面上の事象をさらっているだけに過ぎません。
 [name="Kal'tsit"]   But this alone is not enough. Lungmen still lacks key information.
+[name="켈시"]   하지만 그 정도로는 중요한 정보를 놓치고 있다고 말씀드릴 수밖에 없습니다.
 
 [name="陈"]   ......
 [name="チェン"]   ……。
 [name="Ch'en"]   ...
+[name="첸"]   ……
 
 [name="凯尔希"]   简单的感染者检疫是不能对抗整合运动的，想必龙门近卫局再清楚不过。
 [name="ケルシー"]   また検疫所での簡単な検疫だけでは、レユニオンに対する根本的な対策になりません。それは龍門近衛局の皆さま自身が肌で感じているのではないでしょうか？
 [name="Kal'tsit"]   I believe the L.G.D. knows very well that this simple quarantine is not enough to hold back Reunion.
+[name="켈시"]   단순히 감염자를 검역하는 것만이 리유니온에 대한 좋은 대처방안이 될 수는 없습니다. 그건 용문근위국에서도 잘 알고 계실 겁니다.
 
 [name="凯尔希"]   整合运动不会乖乖过检，更不会等到当局反应过来才行动。所以————
 [name="ケルシー"]   行動を起こそうとするレユニオンならば、大人しく検疫になぞ協力はしないでしょうし、龍門当局の対応に合わせて行動を起こすということもありません。つまり――
 [name="Kal'tsit"]   Reunion will not obediently go through the inspections, nor will they wait for the authorities to take the initiative. That's why...
+[name="켈시"]   그들이 얌전히 검역에 응할 리도 없고, 당국의 대응을 기다린 후에 행동에 나설 거라고 보장할 수도 없을 테지요. 다시 말해…
 
 [name="凯尔希"]   如果没有罗德岛的协助，龙门依靠目前对待感染者的策略，抵挡接下来整合运动的攻击会面临巨大损失。
 [name="ケルシー"]   もし我々ロドスの協力なくして、龍門が現状の感染者対策のみを維持し続けるようであれば、これから起きるであろうレユニオンの攻撃により龍門は甚大な被害を被ることになります。
 [name="Kal'tsit"]   Without Rhodes Island's assistance, Lungmen will suffer heavy losses against Reunion should you decide to pursue the same strategies against the Infected.
+[name="켈시"]   만약, 용문이 로도스 아일랜드의 도움 없이 기존 방식대로만 감염자에게 대응한다면, 머지않아 있을 리유니온의 공격을 받아 막대한 피해를 보게 될 겁니다.
 
 [name="陈"]   抱歉，我需要插一句。
 [name="チェン"]   悪いが、一言いいか。
 [name="Ch'en"]   Pardon the interruption.
+[name="첸"]   미안하지만, 한마디 해도 되겠나.
 
 [name="陈"]   关于龙门的防卫情报，龙门近卫局方面比罗德岛更了解。对于整合运动的渗透，也已经做了相应准备。
 [name="チェン"]   こと龍門の防衛に関しては、当然ながら我々近衛局がロドスの何倍も理解している。想定されるレユニオンの侵攻に関しても我々は既に準備を終えている。
 [name="Ch'en"]   The L.G.D. understands Lungmen's defenses better than Rhodes Island does. We've already made preparations to deal with possible infiltration from Reunion.
+[name="첸"]   용문의 방위에 대해서는 당연히 우리 용문근위국이 로도스 아일랜드보다 몇 배는 더 잘 알고 있다. 리유니온의 침공에 대해서도 이미 준비를 마친 상태고.
 
 [name="陈"]   只是龙门目前没有将相关机密行动的方针通知罗德岛的义务。
 [name="チェン"]   ただ、そのプランは部外秘のものだ。そして君たちロドスに共有する義務もないからな。貴方の心配は無用のものだ。
 [name="Ch'en"]   We, however, are not obliged to provide you with confidential information regarding our operations.
+[name="첸"]   그러나 용문은 고도의 기밀을 필요로 하는 작전 방침을 굳이 로도스 아일랜드에 공유해줄 의무가 없을 뿐이다.
 
 [name="魏彦吾"]    ......
 [name="ウェイ"]    ……。
 [name="Wei Yenwu"]    ...
+[name="웨이 옌우"]    ……
 
 [name="魏彦吾"]    凯尔希小姐，请继续说。
 [name="ウェイ"]    構わない、ケルシー君、続けてくれ。
 [name="Wei Yenwu"]    Miss Kal'tsit, please continue.
+[name="웨이 옌우"]    켈시, 계속하게.
 
 [name="凯尔希"]   龙门的确有对付手无寸铁的感染者的经验，但恐怕龙门目前没有面对集团化感染者暴徒的经验，这可能会对龙门造成不必要的损失。
 [name="ケルシー"]   龍門は、今まで集団でしかも暴徒と化した感染者と対峙したことはあるのでしょうか？　彼らの破壊力が龍門にどれだけの被害をもたらすのか、想定できているのでしょうか？
 [name="Kal'tsit"]   While it is true that Lungmen has been successful in dealing with unarmed Infected so far, you have not dealt with this scale of organized rioting before. This may result in unnecessary losses.
+[name="켈시"]   용문이 무장하지 않은 감염자를 처리한 경험은 있을지 몰라도, 감염자가 일으킨 집단 폭동에 대응해본 경험은 없을 것입니다. 이는 분명 용문에게 불필요한 손실을 입히는 원인이 될 겁니다.
 
 [name="凯尔希"]   以罗德岛目前的经验来说————只有感染者，才能更好对抗感染者。
 [name="ケルシー"]   我々ロドスのこれまでの経験から言えば――感染者だけが、より効率的に感染者に対抗できる。
 [name="Kal'tsit"]   From our experience... Only the Infected are capable of countering the Infected.
+[name="켈시"]   로도스 아일랜드의 경험에서 미루어 보건대… 감염자에게 가장 효율적으로 대처할 수 있는 건 오직 같은 감염자들밖에 없습니다.
 
 [name="魏彦吾"]   那么，罗德岛是否已经从针对整合运动的行动中获得了有效的经验？
 [name="ウェイ"]   では、ロドスはレユニオンと対峙したことで、彼らに対する有効な対策と経験を手に入れたと？
 [name="Wei Yenwu"]   To my understand, Rhodes Island has some special expertise in countering Reunion?
+[name="웨이 옌우"]   그렇다면 로도스 아일랜드는 리유니온과의 대치 경험을 토대로, 리유니온을 상대할 때 유용한 대처 방안을 얻었다는 말인가?
 
 [name="凯尔希"]   仅仅是有而已，大概是不敢自称专家的。
 [name="ケルシー"]   まだその経験があるというだけです。残念ながら有効な対策を提示できるレベルには達しておりません。
 [name="Kal'tsit"]   We do have experience, but I wouldn't call it expertise.
+[name="켈시"]   그저 경험이 있다는 이야기일 뿐입니다. 전문가를 자처하기에는 아직 멀었지요.
 
 [name="魏彦吾"]   哦——？
 [name="ウェイ"]   ほう――？
 [name="Wei Yenwu"]   Oh...?
+[name="웨이 옌우"]   흐음…?
 
 [name="魏彦吾"]   我听说，罗德岛曾卷入过切尔诺伯格事件，并且从中也获得了不少其他整合运动的情报。
 [name="ウェイ"]   ロドスはチェルノボーグ事件に巻き込まれた際、数多くのレユニオンの情報を手に入れたと聞くが？
 [name="Wei Yenwu"]   I've been told that Rhodes Island was involved with the Chernobog incident, and managed to obtain a lot of intel about Reunion.
+[name="웨이 옌우"]   로도스 아일랜드는 체르노보그 사건에 휘말렸을 때, 리유니온에 대해 상당히 많은 정보를 얻었다고 들었네만.
 
 [name="凯尔希"]   无论魏先生是从哪里得到这条消息的——
 [name="ケルシー"]   ミスター・ウェイがどこでそれをお聞きになったかは知りませんが――
 [name="Kal'tsit"]   No matter where you heard that from...
+[name="켈시"]   웨이 옌우 씨가 어떻게 그런 정보를 얻으셨는지는 모르겠습니다만…
 
 [name="凯尔希"]   这都不是现阶段能与龙门交换的信息。这只是履历，只是站在这里与魏先生交谈的资格。
 [name="ケルシー"]   現時点で龍門と共有できる有効な対策に関する情報はありません。ただ、我々は経験則からの助言を行うためにこうしてミスター・ウェイとお会いしています。
 [name="Kal'tsit"]   At this stage, that information is not up for exchange. It is but a part of our resume, a qualification that allows us to speak to you, Mister Wei.
+[name="켈시"]   지금 시점에서 저희가 용문에 공유할 수 있는 정보는 없습니다. 그 정보들은 단순한 사건의 나열이며, 저희가 웨이 옌우 씨와 협상할 자격을 증명하는 것 외에 다른 가치는 없습니다.
 
 [name="魏彦吾"]   决定是否要和你们进行利益交换的是龙门。如果这种程度的信息罗德岛都无法提供的话——
 [name="ウェイ"]   君たちが我々の有益なパートナーとなるか否かを決めるのは我ら龍門だ。その程度の情報も我々に共有できないのであれば――
 [name="Wei Yenwu"]   It is Lungmen that will decide whether or not we will exchange information. If Rhodes Island cannot even provide us with this level of information...
+[name="웨이 옌우"]   자네들과 거래를 할지 말지 정하는 건 우리 용문일세. 그 정도의 정보도 우리에게 공유할 수 없다면야…
 
 [name="魏彦吾"]   呵。
 [name="ウェイ"]   フッ。
 [name="Wei Yenwu"]   Hah.
+[name="웨이 옌우"]   훗.
 
 [name="魏彦吾"]   龙门将无法信任你们的真实实力。
 [name="ウェイ"]   龍門は君たちロドスの実力を認めることはできん。
 [name="Wei Yenwu"]   In that case, we simply have no basis for trusting your capabilities.
+[name="웨이 옌우"]   용문에서 자네들의 실력을 인정하기는 어렵겠지.
 
 [name="凯尔希"]   魏先生，我的言辞可能不够清晰。
 [name="ケルシー"]   ミスター・ウェイ、これは誤解なきよう説明しておきますが――
 [name="Kal'tsit"]   Mister Wei, I apologise if my words were not clear enough.
+[name="켈시"]   웨이 옌우 씨, 제 말에 어폐가 있었나 보군요.
 
 [name="凯尔希"]   不过需要强调的是——罗德岛提供的信息，本身就是用实力换来的。
 [name="ケルシー"]   ――ロドスが得ることができた経験と情報は、我々の実力に因るものだということを。
 [name="Kal'tsit"]   What I must emphasize is... the only reason Rhodes Island has this information, is because we were strong enough to obtain it.
+[name="켈시"]   그저 제가 강조하고 싶은 것은… 로도스 아일랜드는 순수한 실력으로 리유니온에 대한 정보를 얻었다는 겁니다.
 
 [name="陈"]   但，无论怎样，龙门都无法信任同样是一群感染者的罗德岛。
 [name="チェン"]   しかし、レユニオンと同じ感染者による組織であるロドスを、安易に信用することなどできんな。
 [name="Ch'en"]   Whatever the case may be, Lungmen cannot simply trust another group of Infected.
+[name="첸"]   하지만 뭐라고 해도 리유니온과 마찬가지로 감염자들의 조직인 로도스 아일랜드를 쉽게 믿을 수는 없는 노릇이지.
 
 [name="凯尔希"]   如果陈小姐认为龙门的安危，尚不如对感染者进行盲目的惩罚来的重要————
 [name="ケルシー"]   もしミス・チェンが龍門の安寧よりも、感染者への盲目的な処罰の方が重要だと考えるのであれば――
 [name="Kal'tsit"]   Miss Ch'en, if you believe that doling out punishment to the Infected is more important than the actual security of Lungmen...
+[name="켈시"]   만약 첸 씨가 용문의 안위보다, 맹목적으로 감염자를 배척하는 걸 더 중요하게 여기는 분이시라면…
 
 [name="凯尔希"]   那我会立刻服从当地法令，任由陈小姐逮捕我。然后在监牢里看着龙门被整合运动焚烧殆尽，默默惋惜。
 [name="ケルシー"]   感染者である私は黙って貴方がたの法令に従い、捕縛されることにいたしましょう。そして牢獄の中から龍門がレユニオンの手により焼け落ちる様を見て、悲しみに暮れるといたします。
 [name="Kal'tsit"]   Then I will immediately surrender myself in accordance with your local laws. Then, I will sigh from my jail while watching Reunion burn down your city.
+[name="켈시"]   지금 당장 여기서 절 체포해도 상관없습니다. 그럼 전 감옥에서 용문이 리유니온에게 불타버리는 모습을 보며 한탄만 하겠죠.
 
 [name="凯尔希"]   这次，龙门别无选择。
 [name="ケルシー"]   もう龍門に他の選択肢は残されていません。
 [name="Kal'tsit"]   This time, Lungmen doesn't have a choice.
+[name="켈시"]   용문에 다른 선택을 할 여지는 없습니다.
 
 [name="陈"]   ——龙门既不是因为有人出言不逊就拒绝善意的城市——
 [name="チェン"]   ――龍門は不遜な態度をとる者だからといって、その善意を拒む都市ではないが――
 [name="Ch'en"]   Your good intentions are not lost upon us despite your rudeness.
+[name="첸"]   우리 용문은 태도가 불손하다는 이유만으로 사람의 선의를 무시하는 도시는 아니지만…
 
 [name="陈"]   却也不是收留无用说客的慈善机构。
 [name="チェン"]   無意味な助言を無条件に受け入れる慈善団体というわけでもない。
 [name="Ch'en"]   However, we also are not a charity for useless lobbyists.
+[name="첸"]   불필요한 조언을 하는 자들을 받아주는 자선 단체도 아니야.
 
 [name="魏彦吾"]   陈警官。
 [name="ウェイ"]   待てチェン――
 [name="Wei Yenwu"]   Madam Ch'en.
+[name="웨이 옌우"]   첸 팀장.
 
 [name="陈"]   魏长官，让外来的感染者参与龙门的机密事务，我认为并不妥当。
 [name="チェン"]   ウェイ長官、このような外部の感染者を龍門に引き入れ、機密性の高い任務を共にするのは不適切かと思われます。
 [name="Ch'en"]   Chief Wei, I believe it is inappropriate for these outsiders to get involved with Lungmen's confidential matters.
+[name="첸"]   웨이 장관님. 외부 감염자가 용문의 기밀 업무에 관여하는 것은 적절한 처사가 아니라 생각합니다만.
 
 [name="魏彦吾"]   冷静些，陈警官，他们是客人。
 [name="ウェイ"]   冷静になれ、チェン隊長。彼らはあくまで客人だ。
 [name="Wei Yenwu"]   Calm down, Madam Ch'en. They are still our guests.
+[name="웨이 옌우"]   냉정해지게, 첸 팀장. 저들은 손님일세.
 
 [name="魏彦吾"]   ——我的客人。
 [name="ウェイ"]   ――この私の客人として対応せよ。
 [name="Wei Yenwu"]   ... My guests.
+[name="웨이 옌우"]   ……내 손님이지.
 
 [name="陈"]   .....
 [name="チェン"]   ……
 [name="Ch'en"]   ...
+[name="첸"]   ……
 
 [name="陈"]   是。
 [name="チェン"]   ハッ、了解いたしました。
 [name="Ch'en"]   Very well.
+[name="첸"]   네.
 
 [name="陈"]   在他们违反龙门法律之前，我会容忍，长官。
 [name="チェン"]   彼らが龍門の法律に触れない限りは自重いたします。長官。
 [name="Ch'en"]   Unless they've violated our laws, I will tolerate them, Sir.
+[name="첸"]   용문 법률에 저촉되지 않는 선에서는 자중하겠습니다, 장관님.
 
 [name="魏彦吾"]   啊，不好意思。我想起来了，有这么一句——
 [name="ウェイ"]   客人がた、いや、すまないな…。そうだ思い出した、こういう言葉があってな――
 [name="Wei Yenwu"]   Ah, excuse me. I just remembered...
+[name="웨이 옌우"]   아니, 미안하네. 그러고 보니 이런 말이 있었지…
 
 [name="魏彦吾"]   ——没错，呣......
 [name="ウェイ"]   ――あぁ、そうだこう言うのだ……。
 [name="Wei Yenwu"]   That's right. Hmm...
+[name="웨이 옌우"]   그래, 흐음…
 
 [name="魏彦吾"]   我所看重的就只有一点。
 [name="ウェイ"]   「朋友となるべき者を選ぶとき、重んじるのはただ一点のみ――
 [name="Wei Yenwu"]   There is one thing that I care about.
+[name="웨이 옌우"]   "내가 중시하는 것은 단 하나…
 
 [name="魏彦吾"]   实力。
 [name="ウェイ"]   ――そは我と並び立つ実力なり」
 [name="Wei Yenwu"]   Your ability.
+[name="웨이 옌우"]   …오직 실력뿐이다."
 
 [name="魏彦吾"]   据我所知，罗德岛也参与清剿了附近的感染者吧？
 [name="ウェイ"]   聞くところによると、ロドスは龍門付近の感染者掃討任務に参加したそうだな？
 [name="Wei Yenwu"]   To my understanding, Rhodes Island is also assisting with suppressing the nearby Infected?
+[name="웨이 옌우"]   듣기로는 로도스 아일랜드가 용문 근처의 감염자 소탕 임무에 참여했다고 하더군.
 
 [name="魏彦吾"]   陈警官，以目前确切了解的情报，罗德岛在军事力量的实力如何？
 [name="ウェイ"]   チェン隊長、君の見立てだとロドスの軍事的な実力どのぐらいだと評価する？
 [name="Wei Yenwu"]   Madam Ch'en, based upon your best information, how would you assess Rhodes Island's combat abilities?
+[name="웨이 옌우"]   첸 팀장, 지금 얻을 수 있는 정보만 놓고 보았을 때, 로도스 아일랜드의 군사력은 어느 정도인가?
 
 [name="陈"]   ......请容我简要描述一下我所见的罗德岛的行动情况。
 [name="チェン"]   ……では、ロドスの現状について、私からの見解を簡単にご説明いたします。
 [name="Ch'en"]   ... Allow me to describe what I've witnessed from Rhodes Island's operations.
+[name="첸"]   …제가 확인한 범위 내에서, 로도스 아일랜드에 대해 간단히 설명드리겠습니다.
 
 [name="陈"]   ——详情如下——
 [name="チェン"]   ――まずは――
 [name="Ch'en"]   Here are the details...
+[name="첸"]   ……내용은 다음과 같습니다……
 

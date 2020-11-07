@@ -1,604 +1,755 @@
 [name="卡达"]  快点，这里！
 [name="カシャ"]  早く、ここだよ！
 [name="Click"]  C’mon, over here!
+[name="클릭"]  빨리, 여기야!
 
 [name="断崖"]  这附近的痕迹......更像是单纯的发泄。
 [name="エアースカーペ"]  このあたりの痕跡は……ただの八つ当たりに見えるな。
 [name="Ayerscarpe"]  The markings here... they look like they’re simply venting.
+[name="에이어스카르페"]  이 근처의 흔적…… 점점 더 단순한 화풀이로밖에 안 보이는군.
 
 [name="灰喉"]  ......塞弗林认为，这是一次有谋划，有规律的变节计划。但事实上呢？这的确就是一次单纯的暴力宣泄。
 [name="グレースロート"]  ……セベリンはこれを計画的な反乱だと考えている。だけど実際はどうかしら？　彼らは単純に、鬱憤を晴らすために暴力行為を働いているようにしか見えない。
 [name="GreyThroat"]  Severin thought this was some kind of calculated sabotage. But was it, actually? This really does look like senseless violence.
+[name="그레이스롯"]  ……세버린은 이게 철저히 계획된 누군가의 음모이자 반역이라 생각했어. 근데 실제론 아무리 봐도 그저 단순한 폭동이잖아.
 
 [name="灰喉"]  卡达，发现什么了？
 [name="グレースロート"]  カシャ、何か見つけたの？
 [name="GreyThroat"]  Click, did you find something?
+[name="그레이스롯"]  클릭, 뭐 좀 찾았어?
 
 [name="卡达"]  没错，但是、但是......
 [name="カシャ"]  うん、でも、でも……
 [name="Click"]  Sure did. But...
+[name="클릭"]  응. 어…… 근데……
 
 [name="卡达"]  灰喉姐你快过来吧，我......我也不知道该怎么说......
 [name="カシャ"]  グレースロート姉さん早く来て、あたし……あたしにはなんて説明したらいいか……
 [name="Click"]  Can you come here, GreyThroat? I... I don’t know how to say this...
+[name="클릭"]  그레이스롯 언니, 와서 봐봐. 이…… 이걸 뭐라고 말해야 할지……
 
 [name="灰喉"]  ......怎么了？
 [name="グレースロート"]  ……どうしたの？
 [name="GreyThroat"]  What is it?
+[name="그레이스롯"]  ……왜 그래?
 
 [name="卡达"]  房间里......
 [name="カシャ"]  部屋の中に……
 [name="Click"]  In that room...
+[name="클릭"]  방 안에……
 
 [name="灰喉"]  你的瞳孔......别怕，控制住自己，断崖，在外面陪着她，警戒周围的暴徒。
 [name="グレースロート"]  あなたの目、赤くなってる……大丈夫よ、怖がらないで、自分を抑えて。エアースカーペ、外でこの子についていてあげて。周囲の暴徒にも引き続き警戒を。
 [name="GreyThroat"]  Your pupils are red again. Control yourself. Don’t be afraid. Ayerscarpe, stay outside with her. Warn the mob.
+[name="그레이스롯"]  네 눈동자…… 겁먹지 마, 진정해. 에이어스카르페, 밖에서 클릭을 데리고 잠깐 대기해줘. 주변의 폭도들을 조심하고.
 
 [name="断崖"]  明白。
 [name="エアースカーペ"]  わかった。
 [name="Ayerscarpe"]  Roger.
+[name="에이어스카르페"]  알겠다.
 
 [name="灰喉"]  ......在这里面？
 [name="グレースロート"]  ……この中？
 [name="GreyThroat"]  In here?
+[name="그레이스롯"]  ……이 안에?
 
 [name="灰喉"]  （......一片狼藉，真是惨烈的混战......呃......这是......冻裂的肢体？）
 [name="グレースロート"]  （……ひどい有様ね、かなりの混戦だったみたい……うっ……これは……凍った死体？）
 [name="GreyThroat"]  (It’s a mess. Someone’s last desperate stand... Ugh... are these... frozen limbs?)
+[name="그레이스롯"]  (……난장판이군. 격렬한 싸움이라도 벌어진…… 윽…… 이건…… 얼어붙은 시체?)
 
 [name="灰喉"]  （等等，这个人是——？）
 [name="グレースロート"]  （いやそれよりも、この人は――？）
 [name="GreyThroat"]  (Wait, who is this?)
+[name="그레이스롯"]  (잠깐, 이 사람은……?)
 
 [name="武装的感染者"]  呃——！这个医生怎么！？
 [name="武装した感染者"]  ぐっ――！　医者が何のつもりだ！？
 [name="Armed Infected"]  Gah! She’s a doctor?!
+[name="무장 감염자"]  윽……! 이 의사는 대체 뭐야?!
 
 [name="武装的感染者"]  你要是坚持不让开，我连你一起杀！
 [name="武装した感染者"]  そのままどかなけりゃお前も殺すぞ！
 [name="Armed Infected"]  If you don’t leave, we’ll kill you too!
+[name="무장 감염자"]  계속 방해한다면, 네놈도 봐주지 않겠다!
 
 [name="亚叶"]  ......刚才撒在你们身上的药剂，具有挥发毒性。
 [name="フォリニック"]  ……さっきあなたにかけた薬液は、揮発性の毒薬よ。
 [name="Folinic"]  The solution I just sprayed on you is both volatile and toxic.
+[name="폴리닉"]  ……방금 당신 몸에 뿌려진 약은, 휘발성 독극물이에요.
 
 [name="武装的感染者"]  啊！？你、你对我们做了什么？
 [name="武装した感染者"]  ああ！？　お、お前……！
 [name="Armed Infected"]  Wha?! Wh-what did you do to us?
+[name="무장 감염자"]  뭐?! 우, 우리에게 무슨 짓을 한 거냐?
 
 [name="武装的感染者"]  赶快说！不然我就让你——让你......让你.......呃......
 [name="武装した感染者"]  毒薬ってなんだ！　早く言えよ！　じゃなきゃお前を――お前を……お前を……ぐぅ……
 [name="Armed Infected"]  Out with it! Or I’ll... I’ll... Ugh...
+[name="무장 감염자"]  어서 말해! 그러지 않으면 내가 널…… 네 녀석을…… 윽……
 
 [name="亚叶"]  难受吗？
 [name="フォリニック"]  苦しい？
 [name="Folinic"]  How do you feel?
+[name="폴리닉"]  고통스럽나요?
 
 [name="亚叶"]  告诉我毕德曼在哪里，我可以给你们解药，否则接下来的三个小时里，你们会在幻觉和呕吐之间度过。
 [name="フォリニック"]  ビーダーマンの居場所を教えて。そうすれば解毒薬をあげる。そのままだと、幻覚と嘔吐で三時間は苦しむことになるわ。
 [name="Folinic"]  Tell me where Biederman is and I’ll give you the antidote. Or you can enjoy spending the next few hours vomiting between hallucination episodes.
+[name="폴리닉"]  비더만이 어디 있는지 알려 주면 해독제를 드리죠. 말하지 않으면, 세 시간 동안 환각과 구토에 시달리게 될 거예요.
 
 [name="武装的感染者"]  你这个恶毒的......我......我不知道......什么毕德曼......我只是......贵族都得......死......唔......
 [name="武装した感染者"]  この悪魔め……俺は……俺は知らねぇ……ビーダーマンなんか……俺はただ……貴族を……皆……殺しに……うう……
 [name="Armed Infected"]  You’re sick... I... I don’t know... any Biederman. I just... have to kill all... the nobles... nng...
+[name="무장 감염자"]  이 악랄한…… 나…… 난 비더만인지 뭔지는…… 아무것도 몰라…… 난 그저…… 귀족들이 전부…… 쳐죽일 놈들이라는…… 윽……
 
 [name="亚叶"]  ......那很抱歉，你们都要去监狱里待着了。
 [name="フォリニック"]  ……残念ね。あなたたちはみんな刑務所行きよ。
 [name="Folinic"]  Then I’m afraid you’re all going to stay in jail.
+[name="폴리닉"]  ……그럼 미안하지만, 당신들 모두 감옥에서 기다려 줘야겠네요.
 
 [name="武装的感染者"]  唔......？蘑菇？好大的蘑菇......怎么回事，怎么在动，怎么在咬人——
 [name="武装した感染者"]  うう……？　きのこ？　でかいきのこだ……なんだよ、なんできのこが動いてんだ、かっ、噛み付くな――
 [name="Armed Infected"]  Huh? A mushroom? That’s a big mushroom... Why is it... moving? Why is it biting?!
+[name="무장 감염자"]  어……? 버섯? 엄청나게 큰 버섯이군…… 어어? 버섯이 움직이잖아? 버섯이 사람을 물다니……
 
 [name="塔佳娜"]  长官......很多人都受伤了......！他们已经占领了转角商业街和梅普乐广场......但是，更多的人都被困在了十二音街道.....
 [name="タチヤナ"]  憲兵長……負傷者がたくさんいます……！　角を曲がった先の商業街とマイバウム噴水広場は占拠されました……ですが、ドデカフォニー通りに集まっている人はそれ以上です……
 [name="Tatjana"]  Schultz! We have more wounded! A lot of them! The insurgents took over the market and Maibaumplatz. But many more people are still trapped in Zwölftontechnik Strasse.
+[name="타쟈나"]  장관님…… 부상자가 속출하고 있습니다……! 그자들이 이미 코너 쪽의 상가 거리와 마이바움 광장까지 점령한데다…… 더 많은 사람들이 츠벨프톤 거리에 갇혀 있어요……
 
 [name="塔佳娜"]  我们没法制止他们！
 [name="タチヤナ"]  止められません！
 [name="Tatjana"]  They’re unstoppable!
+[name="타쟈나"]  저희로선 그들을 제지할 방법이 없습니다!
 
 [name="塞弗林"]  ......从第一个人受伤开始，我们就无法阻止任何事情了。
 [name="セベリン"]  ……最初の負傷者が出たときから、我々に止められるものなど、もうなかったのかもしれんな。
 [name="Severin"]  Once the fighting started, we lost all hope of stopping anything.
+[name="세버린"]  ……첫 부상자가 나온 순간부터, 우린 이미 돌이킬 수 없는 강을 건넌 거다.
 
 [name="塞弗林"]  现在我们面对的结果有两种，一，投降。二，组织进攻。
 [name="セベリン"]  私たちが迎える結果は二つに一つだ。投降するか、それとも部隊を編成して反撃に出るか。
 [name="Severin"]  Now we face two possible outcomes: Surrender, or fight.
+[name="세버린"]  우리 앞에 놓인 선택지는 두 개뿐이다. 투항하거나, 공격하거나.
 
 [name="塔佳娜"]  我们该怎么做？
 [name="タチヤナ"]  ……どうされるおつもりですか？
 [name="Tatjana"]  What should we do?
+[name="타쟈나"]  어떻게 하죠?
 
 [name="塞弗林"]  投降，把控制权交给整合运动和叛乱分子，然后在冻土上饿死。
 [name="セベリン"]  投降し支配権をレユニオンと反乱者たちに明け渡せば、我々は凍土の上で餓死することになるだろう。
 [name="Severin"]  Surrender, hand over the city to Reunion and the insurgents, and go starve to death in the snow.
+[name="세버린"]  투항한다면, 통제권은 리유니온과 반란 분자에게 넘어가고, 우린 다 같이 얼어붙은 땅에서 굶어 죽게 되겠지.
 
 [name="塞弗林"]  带领民众发起进攻，两败俱伤，死伤惨重，苟且偷生的人在冻土上饿死。
 [name="セベリン"]  そして住民たちを率いて反撃に出れば、共倒れになり多くが死ぬ。幸運にも生き延びた者も、いずれは凍土で餓死することになる。
 [name="Severin"]  If we fight, both sides end up wounded or dead, and the survivors will starve to death in the snow.
+[name="세버린"]  하지만 주민들을 이끌고 공격한다 해도 양측 모두 막심한 피해만 입을 뿐이고, 어떻게든 살아남은 사람도 결국은 얼어붙은 땅에서 굶어 죽을 거다.
 
 [name="塞弗林"]  ......或者......
 [name="セベリン"]  ……あるいは……
 [name="Severin"]  Or...
+[name="세버린"]  ……아니면……
 
 [name="塞弗林"]  ......
 [name="セベリン"]  ……
 [name="Severin"]  ......
+[name="세버린"]  ……
 
 [name="塞弗林"]  如果伤亡不可避免，至少少死几个——咳咳，咳咳咳——
 [name="セベリン"]  もし死傷者を生むことが避けられないとしても、一人でも多く生存――ゴホッ、ゴホゴホッ――
 [name="Severin"]  If casualties are unavoidable, we want the fewest possible—*cough* *cough*, *hack*—
+[name="세버린"]  희생을 피할 수 없다면, 적어도 사망자라도 최소화해야…… 콜록, 콜록콜록……
 
 [name="塞弗林"]  呃......咳咳咳，咳咳咳——
 [name="セベリン"]  ぐっ……ゴホゴホッ、ゴホゴホゴホッ――
 [name="Severin"]  Ack... *cough* *cough* *cough*, *cough* *hack* *cough*—
+[name="세버린"]  으윽…… 콜록콜록, 커억……
 
 [name="塔佳娜"]  长官——伯父？伯父？
 [name="タチヤナ"]  憲兵長――伯父さん？　伯父さん！？
 [name="Tatjana"]  Schultz— Uncle? Uncle??
+[name="타쟈나"]  장관님…… 아버님? 아버님?
 
 [name="塔佳娜"]  ——！伯父，血，你的嘴角都是血......！
 [name="タチヤナ"]  ――！　伯父さん、口から血が……！
 [name="Tatjana"]  Hey! Uncle, that’s blood. You’re coughing up blood!
+[name="타쟈나"]  ……! 아버님, 피, 입가에 피가……!
 
 [name="铃兰"]  抱歉！让一下！塔佳娜小姐！
 [name="スズラン"]  すみません！　どいてください！　タチヤナさん！
 [name="Suzuran"]  Sorry! Just a second! Miss Tatjana!
+[name="스즈란"]  죄송해요! 실례합니다! 타쟈나 씨!
 
 [name="塔佳娜"]  伯父他，他说不出话来——
 [name="タチヤナ"]  伯父さん――
 [name="Tatjana"]  My uncle, he can’t speak and—
+[name="타쟈나"]  아버님께서, 말씀을 못하고 계세요……
 
 [name="铃兰"]  您还好吗？调整呼吸，肺部病变导致失声，这种时候......这种时候应该......
 [name="スズラン"]  落ち着いて、呼吸を整えてください。肺の病変によって声を出せないんです、こんなときは……こんなときには……
 [name="Suzuran"]  Are you okay? Abnormal breathing, lung lesions resulting in a loss of voice, this calls for... it calls for...
+[name="스즈란"]  괜찮으세요? 호흡을 가다듬으세요. 폐의 변이로 인해 목소리가 나오지 않는…… 이런 상황에는 분명……
 
 [name="亚叶"]  ——怎么了？
 [name="フォリニック"]  ――どうしたの？
 [name="Folinic"]  What happened?
+[name="폴리닉"]  ……무슨 일이야?
 
 [name="铃兰"]  塞弗林长官他、他其实——
 [name="スズラン"]  セベリン憲兵長は、実は――いいえ……お願いします、フォリニックお姉さん。
 [name="Suzuran"]  Mr. Severin, he’s actually—
+[name="스즈란"]  세버린 장관님이, 사실은……
 
 [name="亚叶"]  ......你应该听医生的，戒烟。你的肺部顽疾不需要检查就能看出来有多糟糕。
 [name="フォリニック"]  セベリンさん……そろそろ本当に、医者の言うことを聞いて禁煙すべきです。あなたの肺の病状は、検査なんてしなくてもわかるくらいにひどいんですから。
 [name="Folinic"]  You should listen to the doctor and quit smoking. We don’t need a test to see you have some serious persistent lung damage.
+[name="폴리닉"]  ……의사 말 좀 들으세요, 담배 끊으시라구요. 당신의 폐 질환이 얼마나 심각한지는 굳이 검사해 보지 않아도 잘 알 거 아니에요.
 
 [name="亚叶"]  让我检查一下......先把领口打开——
 [name="フォリニック"]  診察します……襟元を見せて――
 [name="Folinic"]  Let me see here... I need to take this off——
+[name="폴리닉"]  잠깐 보겠습니다…… 단추 풀게요……
 
 [name="亚叶"]  喂！别乱动！
 [name="フォリニック"]  ちょっと！　動かないで！
 [name="Folinic"]  Hey! Don’t move!
+[name="폴리닉"]  잠깐! 움직이지 마세요!
 
 [name="亚叶"]  ......
 [name="フォリニック"]  なっ……！
 [name="Folinic"]  ......
+[name="폴리닉"]  ……
 
 [name="亚叶"]  你......你是感染者？
 [name="フォリニック"]  あなたは……感染者だったんですか？
 [name="Folinic"]  You... you’re Infected?
+[name="폴리닉"]  당신…… 감염자였나요?
 
 [name="塔佳娜"]  欸！？
 [name="タチヤナ"]  えっ！？
 [name="Tatjana"]  Huh?!
+[name="타쟈나"]  네?!
 
 [name="亚叶"]  ......这是矿石病的症状，源石从他的肺部扩张到了咽喉......你喉下那些黑色的粉末状固体是......体表源石结晶。
 [name="フォリニック"]  ……これは鉱石病の症状です。源石結晶が肺から喉元に広がってる……喉の下の黒い粉末に見えるものは……体表に現れた源石結晶です。
 [name="Folinic"]  These are Oripathy symptoms. The Originium is pushing out from his lungs into his throat. This dark powdery substance below your throat... that’s Originium crystals surfacing through your skin.
+[name="폴리닉"]  ……이건 광석병 증상이에요. 오리지늄이 폐에서 인후부까지 전이됐어요…… 목구멍 쪽의 검은색 분말형 고체는…… 오리지늄 결정이 발현된 흔적이군요.
 
 [name="亚叶"]  啧，体细胞已经开始与源石融合，这就是你根本不在乎健康的理由吗！
 [name="フォリニック"]  体細胞が源石と融合し始めてる。だからあなたは健康に全く気を使わなかったんですか！？
 [name="Folinic"]  Your cells have begun fusing with the Originium. Is this why you don’t care about your health?!
+[name="폴리닉"]  좋지 않아… 체세포가 이미 오리지늄과 융합하기 시작했어요.이게 당신이 건강을 소홀히 했던 이유였나요!
 
 [name="塔佳娜"]  难道是在刚才的战斗中？
 [name="タチヤナ"]  まさかさっきの戦闘中に？
 [name="Tatjana"]  Did he get it from the battle just now?
+[name="타쟈나"]  설마 방금의 전투에서?
 
 [name="亚叶"]  这不是早期症状或是急性病变，他早就已经被感染了。
 [name="フォリニック"]  いえ、これは初期症状でも急性病変でもありません。かなり前から感染していたはずです。
 [name="Folinic"]  This isn’t an early symptom or an acute lesion. He’s been Infected for some time.
+[name="폴리닉"]  이건 초기 증상이나 급성은 아니에요. 감염된 지 꽤 됐을 겁니다.
 
 [name="亚叶"]  是天灾的时候......不对，那也太快了......感染时间还要更早......
 [name="フォリニック"]  天災のときに……いや、それにしては病変が早すぎる……それよりももっと前に……
 [name="Folinic"]  Probably from the Catastrophe... No, that’s too recent. It must have been even before that.
+[name="폴리닉"]  아마 재앙이 일어났을 때…… 아니, 그래도 너무 빨라요…… 감염은 아마 그보다도 훨씬 전에……
 
 [name="塞弗林"]  咳咳——咳咳咳——！
 [name="セベリン"]  ゴホッ――ゴホゴホッ――！
 [name="Severin"]  *Cough* *cough*——*cough* *cough* *cough*!
+[name="세버린"]  콜록…… 콜록콜록……!
 
 [name="亚叶"]  ......黑色的血块，铃兰，取样。
 [name="フォリニック"]  ……黒い血塊。スズラン、サンプルを採って。
 [name="Folinic"]  Black blood clots. Suzuran, take a sample.
+[name="폴리닉"]  검은색 핏덩어리…… 스즈란, 샘플을 채취해줘.
 
 [name="铃兰"]  好的——！抱歉，长官，忍耐一下。
 [name="スズラン"]  わかりました！　ごめんなさい、憲兵長。少し我慢してください。
 [name="Suzuran"]  Okay! Sorry, sir. I’ll be quick.
+[name="스즈란"]  네……! 실례합니다, 장관님. 조금만 참아주세요.
 
 [name="亚叶"]  现在的医院——肯定没在运作了，嘁，先把他抬回议事厅！
 [name="フォリニック"]  病院は――この状況じゃ機能してないわね。チッ、まずは議事堂に運びましょう！
 [name="Folinic"]  No way the hospital is functioning right now. Okay, take him into the town hall!
+[name="폴리닉"]  지금 병원은…… 제대로 돌아갈 리가 없겠지. 칫, 일단 장관님을 의사당으로 옮기죠!
 
 [name="塞弗林"]  ——沃伦姆德，不能，没有长官！
 [name="セベリン"]  ――まだ、まだだ……ウォルモンドは、支柱となる憲兵長を、失うわけにはいかんのだ！
 [name="Severin"]  Wolumonde... can’t be without... her Schultz!
+[name="세버린"]  ……월루몽드에, 장관이, 없어선 안 된다!
 
 [name="亚叶"]  你再强撑下去沃伦姆德就真的没有长官了——
 [name="フォリニック"]  今は大丈夫……でもこのまま無理を続ければ、本当にウォルモンドから憲兵長がいなくなりますよ――
 [name="Folinic"]  If you keep pushing yourself, she’s definitely going to lose him.
+[name="폴리닉"]  여기서 더 고집부리시다간, 월루몽드는 정말로 장관을 잃게 될걸요?
 
 [name="塞弗林"]  你——这种时候表现得，还真像个医生。
 [name="セベリン"]  君は――こんな状況では、医者らしく見えるな。
 [name="Severin"]  You... really look like a doctor right now.
+[name="세버린"]  당신…… 지금 보니, 영락없는 의사로군.
 
 [name="塞弗林"]  咳咳，咳咳咳——
 [name="セベリン"]  ゴホッ、ゴホゴホッ――
 [name="Severin"]  *Cough* cough*, *cough* *cough*—
+[name="세버린"]  커억, 콜록콜록……
 
 [name="塞弗林"]  唉，吐了口血好像就可以说话了，还挺方便的......
 [name="セベリン"]  ぐっ、血を吐いたら楽に話せるようになった。ああ、無理などしてはいな……
 [name="Severin"]  Phew, looks like I can talk for a minute after coughing up blood. Handy, that.
+[name="세버린"]  하아, 피를 토하니 말하기 훨씬 편하군, 한결 나아……
 
 [name="亚叶"]  嘴硬。
 [name="フォリニック"]  黙ってて。
 [name="Folinic"]  Tough guy.
+[name="폴리닉"]  입만 사셨네요.
 
 [name="塞弗林"]  亚叶小姐，我有一个请求。
 [name="セベリン"]  フォリニックさん、一つだけ願いを聞いてくれないか。
 [name="Severin"]  I have a favor to ask.
+[name="세버린"]  폴리닉 씨, 부탁이 있네.
 
 [name="亚叶"]  你说你的，但我还是会把你带回去，丽萨，扶着点他，塔佳娜，我们把他扛回去。
 [name="フォリニック"]  聞くだけなら。ですがあなたは絶対に議事堂まで連れて帰ります。スズラン、憲兵長を寝かせてあげて。タチヤナさん、私たちはセベリンさんを連れて帰ります。
 [name="Folinic"]  Say your piece, but I’m taking you in. Lisa, hold him. Tatjana, help me lift.
+[name="폴리닉"]  말씀하시는 건 좋지만, 전 일단 당신을 데려가야겠습니다. 리사, 세버린 씨를 부축해 줘. 타쟈나 씨, 장관님은 저희가 데려갈게요.
 
 [name="塔佳娜"]  好的！
 [name="タチヤナ"]  わかりました、お願いします！
 [name="Tatjana"]  Right!
+[name="타쟈나"]  네!
 
 [name="塞弗林"]  ......各位，请，咳咳，隐瞒我的感染者身份......
 [name="セベリン"]  ……皆さん、どうか、ゴホゴホッ、私が感染者であることは秘密にしておいてくれ……
 [name="Severin"]  Please, everyone, *cough* *cough*, don’t tell anyone I’m Infected...
+[name="세버린"]  ……모두, 콜록콜록, 내가 감염자라는 사실은 당분간 비밀로 해 주게……
 
 [name="塞弗林"]  然后，我会承认我是火灾的凶手，我是导致沃伦姆德行差踏错的元凶......
 [name="セベリン"]  それから、私があの火災の犯人だと、公表しよう。私がウォルモンドに道を踏み外させた元凶だと……
 [name="Severin"]  Then, I’ll admit that I was the murderer who set the fire. I was the cause of all Wolumonde’s problems...
+[name="세버린"]  그리고, 화재의 범인이 나이며, 월루몽드를 파멸 직전으로 몰아넣은 원흉이 나라고 시인하겠네……
 
 [name="亚叶"]  那真凶呢？
 [name="フォリニック"]  では、真犯人はどうなるんです？
 [name="Folinic"]  And what of the real killer?
+[name="폴리닉"]  그럼 진범은 어쩌고요?
 
 [name="塞弗林"]  ......顾不上了。
 [name="セベリン"]  ……構うものか。
 [name="Severin"]  I don’t care. I can’t.
+[name="세버린"]  ……거기까지 신경 쓸 겨를은 없네.
 
 [name="塞弗林"]  啊......至少，至少这样很多人就失去了厮杀下去的借口。
 [name="セベリン"]  ああ……そうすれば、そうすれば住民は、殺し合いの大義名分を失うだろう。
 [name="Severin"]  But at least... they’ll have their scapegoat, and no excuse to keep fighting.
+[name="세버린"]  하아…… 적어도, 이 많은 사람들이 서로 싸우고 죽일 구실은 없앨 수 있겠지.
 
 [name="塞弗林"]  但这样还不够......没有足以钳制他们的外力，他们依旧会前仆后继地互相报复下去。
 [name="セベリン"]  だが、それではまだ足りない……彼らを抑え込むだけの外力がなければ、彼らは次々に報復を繰り返すことだろう。
 [name="Severin"]  But it’s not enough... Without an external force strong enough to clamp down on them, they’ll continue their cycle of revenge.
+[name="세버린"]  하지만 이것만으론 부족해…… 외부 세력의 개입을 막을 수 없는 이상, 계속해서 서로에게 보복을 반복하겠지.
 
 [name="塞弗林"]  我请求......罗德岛的协助......即使我们现在，难以支付报酬。
 [name="セベリン"]  だからどうか……ロドスの力を貸してもらえないだろうか……今の私たちには、満足な報酬をお返しすることもできないが。
 [name="Severin"]  So I request... Rhodes Island’s assistance... Even though we can’t afford to pay for it now.
+[name="세버린"]  그러니 부탁하네…… 월루몽드에는 로도스 아일랜드의 도움이 필요해…… 지금의 우리로선, 당장 보수를 지불하긴 어렵겠지만……
 
 [name="塞弗林"]  如果沃伦姆德能挺过这次灾难......我们会报答你们的。
 [name="セベリン"]  ウォルモンドがこの危機を乗り越えられたなら……必ず恩義に報いよう。
 [name="Severin"]  But if Wolumonde survives this disaster... we will repay you.
+[name="세버린"]  월루몽드가 이 고난만 잘 넘겨낸다면…… 보답은 반드시 하겠네.
 
 [name="亚叶"]  ......我们不是慈善组织。
 [name="フォリニック"]  ……私たちは慈善団体ではありません。
 [name="Folinic"]  We aren’t a charity.
+[name="폴리닉"]  ……우린 자선 단체가 아닙니다.
 
 [name="塞弗林"]  请答应我！
 [name="セベリン"]  どうか！
 [name="Severin"]  I’m begging you!
+[name="세버린"]  부탁일세!
 
 [name="亚叶"]  我无权代表罗德岛向你做出承诺......拯救一个近万人口的城镇，这超过了我们任务的范畴，也超过了阿米娅委任我的权限。
 [name="フォリニック"]  万にも上る人口の街を救うなんて、私たちの任務の範疇も、アーミヤから与えられた権限も超えています。私にはロドスを代表して承諾する権限はありません。
 [name="Folinic"]  I don’t have the authority to make promises on behalf of Rhodes Island. Saving a town of ten thousand people is beyond the scope of our mission, and way beyond the authority Amiya invested in me.
+[name="폴리닉"]  제게 로도스 아일랜드를 대표할 권한 따윈 없어요…… 인구가 만 명에 다다르는 마을을 책임지라니, 그런 건 제 임무 범위 밖이기도 하고, 아미야에게 위임받은 권한마저 한참 넘어서는 일이에요.
 
 [name="亚叶"]  ......但是，为了安托，“我们”是不会抛弃沃伦姆德的。
 [name="フォリニック"]  ……ですが、アントのために……「私たち」はウォルモンドを見捨てはしません。
 [name="Folinic"]  But, for Atro, “we” won’t abandon Wolumonde.
+[name="폴리닉"]  ……하지만, 아트로를 위해서라도, '우리'는 월루몽드를 포기하지 않겠습니다.
 
 [name="塞弗林"]  ......谢谢。
 [name="セベリン"]  ……ありがとう。
 [name="Severin"]  Thank you.
+[name="세버린"]  ……고맙네.
 
 [name="亚叶"]  抱歉让一下，紧急伤员——
 [name="フォリニック"]  すみません通してください、急患です――
 [name="Folinic"]  Stand aside, we have a wounded—
+[name="폴리닉"]  비켜주세요 긴급 환자……
 
 [name="灰喉"]  ......
 [name="グレースロート"]  ……
 [name="GreyThroat"]  ......
+[name="그레이스롯"]  ……
 
 [name="亚叶"]  ......灰喉？你怎么一个人回来了？
 [name="フォリニック"]  ……グレースロート？　どうして一人で戻ってきたの？
 [name="Folinic"]  GreyThroat? Why are you alone?
+[name="폴리닉"]  ……그레이스롯? 어째서 혼자 돌아온 거야?
 
 [name="亚叶"]  铃兰，把塞弗林长官抬进楼上的客房里......不要让其他人发现。
 [name="フォリニック"]  スズラン、セベリン憲兵長を上の客間に運んで……他の人に見つからないように。
 [name="Folinic"]  Suzuran, take the Schultz to the upstairs parlor. And don’t let anyone see you.
+[name="폴리닉"]  스즈란, 세버린 씨를 위층 객실로 옮겨줘…… 다른 사람들 눈에 띄어선 안 돼.
 
 [name="亚叶"]  虽然很残酷，但等塞弗林长官稳定下来后，他必须再次出现在众人的视野中。
 [name="フォリニック"]  残酷かもしれないけど、容態が落ち着いたらまた公衆の面前に立ってもらわないといけないから。
 [name="Folinic"]  Brutal as it may be, once he settles down, Schultz Severin is going to have to stand up and lead again.
+[name="폴리닉"]  잔인하게 들릴지 몰라도, 세버린 씨는 병세가 진정되면 군중 앞에 다시 모습을 드러내야 하니까.
 
 [name="铃兰"]  啊，好的！交给我吧！
 [name="スズラン"]  あ、はい！　任せてください！
 [name="Suzuran"]  Roger that! I’ll take care of it!
+[name="스즈란"]  아, 네! 맡겨주세요!
 
 [name="亚叶"]  塔佳娜......你......
 [name="フォリニック"]  タチヤナさん……あなたは……
 [name="Folinic"]  Tatjana.
+[name="폴리닉"]  타쟈나…… 당신은……
 
 [name="塔佳娜"]  ......镇上的每个角落都在发生暴乱，哪怕此时此刻，也在出现伤亡......我，我不能坐在这里。
 [name="タチヤナ"]  ……街のあちこちで暴動が起きています。今この瞬間も死傷者が出ているはずです。こんなところで座っているわけにはいきません。
 [name="Tatjana"]  There are riots all over town. People are getting hurt or killed. I... I can’t just sit here.
+[name="타쟈나"]  ……도시 곳곳에서 폭동이 일어나고, 지금 이 순간에도 사상자가 속출하고 있어요…… 그런데 제가 여기에 가만히 앉아만 있을 수는 없겠죠.
 
 [name="塔佳娜"]  我会去组织没有参与暴乱的民兵，至少......至少缩小暴乱的规模。
 [name="タチヤナ"]  私は騒ぎに参加していない民兵を集めます。少なくとも……なんとかして暴動の規模を縮小しないと。
 [name="Tatjana"]  I’ll go organize the militia that didn’t get caught up in the riot. At least... at least I can do something.
+[name="타쟈나"]  전 폭동에 참여하지 않은 민병들을 모아볼게요. 적어도…… 이 폭동의 규모라도 줄일 수 있도록……
 
 [name="亚叶"]  嗯，加油。
 [name="フォリニック"]  わかりました、どうか気をつけて。
 [name="Folinic"]  Sure. Go ahead.
+[name="폴리닉"]  네, 조심하세요.
 
 [name="塔佳娜"]  ——谢谢！
 [name="タチヤナ"]  ――はい！
 [name="Tatjana"]  Thank you!
+[name="타쟈나"]  ……감사합니다!
 
 [name="亚叶"]  ......现在可以说了吧？
 [name="フォリニック"]  ……これで話せるようになった？　グレースロート。
 [name="Folinic"]  Can we talk?
+[name="폴리닉"]  ……이제 슬슬 말해주지그래?
 
 [name="灰喉"]  我们找到毕德曼了。
 [name="グレースロート"]  ええ、ビーダーマンを見つけた。
 [name="GreyThroat"]  We found Biederman.
+[name="그레이스롯"]  비더만을 찾았어.
 
 [name="亚叶"]  ——！
 [name="フォリニック"]  ――！
 [name="Folinic"]  What?!
+[name="폴리닉"]  ……!
 
 [name="亚叶"]  那我们立刻就去抓住他，结束这场暴乱，为安托报——
 [name="フォリニック"]  じゃあすぐにでも捕まえて、この暴動を鎮めて、それからアントの仇を――
 [name="Folinic"]  We need to capture him immediately and end the riots, we have to avenge Atro—
+[name="폴리닉"]  그럼 당장 잡으러 가자! 이 소란을 끝내고, 아트로의 복수를……
 
 [name="灰喉"]  ——不。
 [name="グレースロート"]  ――無理。
 [name="GreyThroat"]  No.
+[name="그레이스롯"]  ……아니.
 
 [name="灰喉"]  他已经死了。
 [name="グレースロート"]  彼は死んでる。
 [name="GreyThroat"]  He’s dead.
+[name="그레이스롯"]  그는 이미 죽었어.
 
 [name="亚叶"]  ......什么？
 [name="フォリニック"]  ……え？
 [name="Folinic"]  ...What?!
+[name="폴리닉"]  ……뭐?
 
 [name="灰喉"]  我们在B2坐标位置的“留声机”找到了他。
 [name="グレースロート"]  私たちは座標B2の位置にある「蓄音機」の側で彼を見つけた。
 [name="GreyThroat"]  We found him on the “Gramophone” at coordinate B2.
+[name="그레이스롯"]  B2 좌표의 '축음기' 근처에서 비더만을 찾아냈어.
 
 [name="灰喉"]  他的的后脑部有明显创口，皮肤表面有冰晶残留，有受到源石技艺袭击的痕迹。
 [name="グレースロート"]  彼の後頭部には明らかな外傷があり、周辺皮膚の表面には氷の結晶が残っていた。アーツで攻撃を受けた痕跡よ。
 [name="GreyThroat"]  There were visible wounds on the back of his head, and ice crystals remained on the surface of his skin. All signs indicated an Arts attack.
+[name="그레이스롯"]  후두부에 상흔이 발견됐고, 피부 표면엔 얼음 결정이 남아 있었어. 아츠로 습격당한 흔적이지.
 
 [name="灰喉"]  在场干员做不出准确判断，但其他尸体的伤口和血液表明，至少在数个小时前毕德曼就已经死于暴乱。
 [name="グレースロート"]  居合わせたオペレーターだけでは精確な判断はできなかったけど、他の死体の傷跡や血痕を見るに、少なくとも数時間前に、ビーダーマンは暴動で命を落としていた。
 [name="GreyThroat"]  The operator on scene could not make an accurate determination, but wounds on the surrounding cadavers indicated that Biederman had died in the riot at least a few hours prior.
+[name="그레이스롯"]  현장의 오퍼레이터도 정확한 판단을 내리긴 어렵지만, 다른 시체의 상흔이나 혈흔으로 봤을 때 적어도 몇 시간 전에 사망한 것으로 추정된다고 했고.
 
 [name="灰喉"]  毕德曼已经死了，但是暴乱并没有停止。这意味着什么，我们都明白。
 [name="グレースロート"]  元凶だとされていたビーダーマンが死んでも、暴動は止まらない。それが何を意味するか、わかるでしょう。
 [name="GreyThroat"]  Biederman is dead. But the riots continue. We all know what that means.
+[name="그레이스롯"]  비더만이 죽었는데도 폭동은 멈추지 않았다… 이게 뭘 의미하는지는 너도 알겠지.
 
 [name="灰喉"]  卡达和断崖正在搜寻他的住所，不出意外的话——
 [name="グレースロート"]  カシャとエアースカーペが彼の家を探ってる、予想通りなら――
 [name="GreyThroat"]  Click and Ayerscarpe are searching his residence. Unless they run into trouble—
+[name="그레이스롯"]  클릭과 에이어스카르페가 지금 그의 집을 수색 중이야. 이변이 없는 한……
 
 [name="亚叶"]  等等......！你说，你说他已经死了？
 [name="フォリニック"]  待って……！　本当に死んだの？
 [name="Folinic"]  Wait...! You said, you said he’s already dead?
+[name="폴리닉"]  잠깐만……! 그러니까, 비더만이 이미 죽었다고?
 
 [name="灰喉"]  ......如果你需要我重复一遍的话，对，他已经死了。
 [name="グレースロート"]  ……もう一度聞きたいの？　そう、彼は死んだ。
 [name="GreyThroat"]  If you really need me to repeat myself, yes, he is already dead.
+[name="그레이스롯"]  ……못 믿겠다면 다시 말해주지. 그래, 그는 이미 죽었어.
 
 [name="亚叶"]  ......
 [name="フォリニック"]  ……
 [name="Folinic"]  ......
+[name="폴리닉"]  ……
 
 [name="灰喉"]  ......
 [name="グレースロート"]  ……
 [name="GreyThroat"]  ......
+[name="그레이스롯"]  ……
 
 我看着亚叶脸上的笑容逐渐凝固——笑容，嗯。
 フォリニックの笑顔が――ゆっくり凍りついていく。
 I watched as the smile on Folinic's face froze— Yes, that smile.
+폴리닉의 미소가 점차 굳어갔다……
 
 因为安托干员的牺牲，她的情绪变得很不稳定，直到我们得知了毕德曼的情报。
 アントの犠牲によって不安定に彷徨っていた彼女の心は、ビーダーマンを捕らえるという目標を得、活力を取り戻したはずだった。
 The loss of Operator Atro left her emotionally unstable, until we learned about Biederman.
+오퍼레이터 아트로의 희생으로 불안정했던 그녀의 감정은, 비더만에 대한 정보를 접하며 어느 정도 진정됐다.
 
 不用被殖民问题，感染者问题和阶级问题困扰，她简单地快乐地找到了复仇的对象。
 煩雑な植民地問題や感染者問題、あるいは階級問題といった障害に躓くこともなく、いとも簡単に復讐すべき相手を知ったとき――
 No longer troubled with issues of colonialism, the Infected, or class, she simply, and happily, found her revenge.
+반란, 감염자, 계급 같은 문제로 골머리 썩힐 필요 없이, 복수할 대상을 간단히 찾아냈으니까.
 
 她短暂地感到安心了吗？因为明确的目的而释然吗？
 彼女は安堵していたのかもしれない。自らが目指すべき道が定まったことに。
 Does she feel some momentary relief? Relief at having realized her goal?
+그녀는 잠시라도 안심했을까? 목표가 명확해져 후련해졌을까?
 
 那接下来，我该怎么处理她现在的这幅......表情呢？
 でも今こんな状況の中で、再び凍りついた彼女のあの表情を……私はどうすればいいんだろう？
 What next? How am I to deal with this new... condition of hers?
+하지만 이제, 딱딱하게 굳어버린 그녀의 표정을…… 어떻게 하면 좋을까?
 
 [name="断崖"]  ......果然。
 [name="エアースカーペ"]  ……やはり。
 [name="Ayerscarpe"]  So it is.
+[name="에이어스카르페"]  ……역시.
 
 [name="卡达"]  这是？
 [name="カシャ"]  これは？
 [name="Click"]  What?
+[name="클릭"]  이건?
 
 [name="断崖"]  这是危机合约的行动协议......毕德曼是签订了危机合约的天灾信使。
 [name="エアースカーペ"]  危機契約の作戦協議書だ……ビーダーマンは危機契約を結んだ天災トランスポーターだったようだ。
 [name="Ayerscarpe"]  A Contingency Contract operation agreement. Signed by one Catastrophe Messenger Biederman.
+[name="에이어스카르페"]  이건 위기 협약의 작전 협의서…… 비더만은 위기 협약의 재앙정보전달자였군.
 
 [name="断崖"]  所以呢，难道这一切都在规划之中？包括你自己的死，毕德曼......？
 [name="エアースカーペ"]  つまり……まさか自分の死を含めて、全ては計画の内だったのか？　どうなんだ、ビーダーマン……？
 [name="Ayerscarpe"]  So then, was it all part of the plan? Including your own death, Biederman?
+[name="에이어스카르페"]  그럼, 이 모든 게 계획된 일이었단 말인가? 본인의 죽음까지 포함해서?
 
 [name="卡达"]  唔......但他这么做是为了什么？那个危什么的，会是幕后黑手吗？
 [name="カシャ"]  ……でも何のためにこんなことを？　その危機なんとかってやつが黒幕なの？
 [name="Click"]  Hm... but why? Could that Contingency thingamajig be the real mastermind?
+[name="클릭"]  음…… 근데 왜 이런 일을 벌인 거야? 저 위기 어쩌고가, 이 사건의 배후라는 거야?
 
 [name="断崖"]  让人们丧生在天灾中不符合他们的行事理念......危机合约也不至于干出这么丧心病狂的事......
 [name="エアースカーペ"]  天災で人々を死に至らしめるのは、彼らの行動理念に反する……危機契約機構がそんな馬鹿げたことをするはずはない……
 [name="Ayerscarpe"]  Letting people die in a Catastrophe is not really their modus operandi. They wouldn’t act in such a... brutal manner.
+[name="에이어스카르페"]  사람들을 사지로 몰아넣는 건 그들의 이념과 어긋나는 행동이야…… 위기 협약은 그렇게 잔인한 짓을 벌이는 조직은 아냐……
 
 [name="断崖"]  ......可如果......他打算帮助叛乱者以确保更多人生存下来？为什么？
 [name="エアースカーペ"]  ……だがもし……反乱者を支持することで、より多くの人を生存させることが狙いだとしたら？　でもなぜ……？
 [name="Ayerscarpe"]  But if he was helping the insurgents to try to save more lives...? Why?
+[name="에이어스카르페"]  ……하지만 만약…… 더 많은 주민들을 살리기 위해 폭도들을 도왔던 거라면? 왜지?
 
 [name="卡达"]  说到底这样真的能让更多人活下去吗？我可听灰喉姐说过，现在沃伦姆德的处境很糟糕喔。
 [name="カシャ"]  っていうか、それでホントにもっと多くの人を救えるの？　グレースロート姉さんから聞いた感じ、今のウォルモンドはかなりひどいことになってるみたいだけど。
 [name="Click"]  Is this really going to save lives, at the end of the day? GreyThroat says Wolumonde is in a real bad spot right now.
+[name="클릭"]  아니, 애초에 더 많은 사람을 살릴 수 있기는 해? 그레이스롯 언니가 그랬잖아, 지금 월루몽드의 상황은 완전 최악이라고.
 
 [name="断崖"]  不......危机合约只是一个平台。
 [name="エアースカーペ"]  ……危機契約自体は、ただのシステムに過ぎない。
 [name="Ayerscarpe"]  No. The Contingency Contract is just a platform.
+[name="에이어스카르페"]  아니… 위기 협약 자체는 그저 시스템에 지나지 않아.
 
 [name="断崖"]  利用危机合约的信使中的确有少部分道德和常理不起作用的家伙，他们只想“救下”尽可能多的人。
 [name="エアースカーペ"]  問題は、危機契約を結んだトランスポーターだ。彼らの中には一部だが、道徳と常識を欠いた奴もいる。そういう奴らはただ「より多くの人を救う」ことしか考えない。
 [name="Ayerscarpe"]  It is true that a small percentage of the Messengers using the Contingency Contract have a utilitarian obsession, leading them to “save” as many people as possible.
+[name="에이어스카르페"]  위기 협약을 이용하는 전달자들 중 일부는 확실히 도덕이나 상식 따위는 안중에 두지도 않는 놈들이다. 그놈들은 최대한 많은 사람을 '구하고자'만 하지.
 
 [name="断崖"]  ......当时沃伦姆德已经遭遇天灾，难道......为了让外界势力介入，他放了火......
 [name="エアースカーペ"]  ……ウォルモンドが天災に見舞われてしまった後、まさか……外部勢力の介入を目的に、火を放ったというのか……
 [name="Ayerscarpe"]  Wolumonde had already suffered a Catastrophe. Could he have... set the fire to draw in outside forces to intervene...?
+[name="에이어스카르페"]  ……당시의 월루몽드는 이미 재앙으로 피해를 입은 상태였다. 설마…… 외부 세력의 개입을 바라고 불을 지른 건가……
 
 [name="断崖"]  真庆幸莱恩哈特和罗德岛的其他天灾信使们并没有和他们牵扯过多......
 [name="エアースカーペ"]  レオンハルトやロドスの他の天災トランスポーターたちが深く関わらなかったのは幸いと言うべきか……
 [name="Ayerscarpe"]  I’m so glad Leonhardt and Rhodes Island’s other Catastrophe Messengers don’t get so mixed up with them.
+[name="에이어스카르페"]  레온하르트나 로도스 아일랜드의 다른 재앙정보전달자들이 연루되지 않아서 그나마 다행이군……
 
 [name="断崖"]  可......不对......有什么......
 [name="エアースカーペ"]  だが……いや……何かが……
 [name="Ayerscarpe"]  But... that can’t be right... What if..
+[name="에이어스카르페"]  하지만…… 아직 뭔가…… 부족한데……
 
 [name="卡达"]  断崖！！
 [name="カシャ"]  エアース！
 [name="Click"]  Ayerscarpe!
+[name="클릭"]  에이어스카르페!!
 
 [name="断崖"]  怎么了？
 [name="エアースカーペ"]  どうした？
 [name="Ayerscarpe"]  What is it?
+[name="에이어스카르페"]  무슨 일이지?
 
 [name="卡达"]  看那头！那家乐器店的那头！好像有什么奇怪的东西！
 [name="カシャ"]  あそこを見て！　あの楽器屋のところ！　なんか変なものがある！
 [name="Click"]  Look over there! By the music store! What’s that weird thing?!
+[name="클릭"]  저기! 저 악기점 쪽에! 뭔가 이상한 게 있어!
 
 [name="断崖"]  奇怪的东西？那是......山？
 [name="エアースカーペ"]  変なもの？　あれは……山？
 [name="Ayerscarpe"]  It’s a... mountain?
+[name="에이어스카르페"]  이상한 거? 저건…… 산?
 
 [name="断崖"]  不对，是移动的岩石巨像......？
 [name="エアースカーペ"]  違う、岩の巨像が動いているのか……？
 [name="Ayerscarpe"]  No. It’s a big moving boulder?
+[name="에이어스카르페"]  아니야, 움직이는 거대 석상……?
 
 [name="卡达"]  这个源石技艺，难道是那个家伙在操纵？
 [name="カシャ"]  あのアーツは、まさか、前に街の外で会ったあいつが操ってるの？
 [name="Click"]  Could it be that one guy’s Arts?
+[name="클릭"]  저 아츠, 설마 그 녀석이 조종하는 걸까?
 
 [name="断崖"]  那不是一个人的源石技艺能做到的——快，回去找亚叶她们！
 [name="エアースカーペ"]  あの大きさ、一人のアーツで操れるはずが――急げ、フォリニックたちと合流するぞ！
 [name="Ayerscarpe"]  That isn’t the kind of thing one man’s Arts can do. Let’s hurry back to the others!
+[name="에이어스카르페"]  저건 혼자 힘으로 시전할 만한 아츠가 아냐…… 어서, 폴리닉에게 돌아가야겠어!
 
 [name="断崖"]  普通的民兵不可能拦得住一支身经百战的作战小队——一支萨卡兹作战小队！
 [name="エアースカーペ"]  普通の民兵たちでは、百戦錬磨の作戦小隊――サルカズの小隊なんて止められない！
 [name="Ayerscarpe"]  There’s no way an ordinary town militia is going to stand against a battle-hardened combat squad, and a Sarkaz one at that!
+[name="에이어스카르페"]  평범한 민병들이 수많은 전투를 겪어본 전투 소대를 막을 수 있을 리 없어…… 살카즈 소대라면 더더욱!
 
 [name="镇民"]  怎么了？这个震动是什么？
 [name="住民"]  何？　この揺れは一体？
 [name="Townsfolk"]  What’s that? An earthquake?
+[name="마을 주민"]  뭐지? 이 진동은 뭐야?
 
 [name="镇民"]  喂！又是那个石头巨像！快！快启动“留声机”！
 [name="住民"]  ちょっと、またあの石像よ！　急いで！　さっさと「蓄音機」を起動させて！
 [name="Townsfolk"]  Ah! It’s that rock monster again! Quick! Start the “Gramophone!”
+[name="마을 주민"]  어이! 또 그 거대 석상이다! 빨리! 빨리 '축음기'를 가동시켜!
 
 [name="武装的感染者"]  整合运动来帮助我们了！他们来了！他们来解放我们了！
 [name="武装した感染者"]  レユニオンが助太刀に来たぞ！　やっとだ！　俺たちを解放するために！
 [name="Armed Infected"]  They came! Reunion is here to liberate us!
+[name="무장 감염자"]  리유니온이 우릴 도우러 왔다! 그들이 와줬어! 우릴 해방시켜주러 왔다!
 
 [name="武装的感染者A"]  整合运动万岁！进攻！把那些腐朽的贵族赶出去！进攻！
 [name="武装した感染者A"]  レユニオン万歳！　攻め込め！　あの腐った貴族たちを追い出してやるんだ！　進め！
 [name="Armed Infected A"]  Long live Reunion! Forward! Drive out the rotten nobles!
+[name="무장 감염자 A"]  리유니온 만세! 공격하자! 저 썩어빠진 귀족들을 몰아내자! 공격하자!
 
 [name="武装的感染者B"]  ——整合运动万岁！
 [name="武装した感染者B"]  ――レユニオン万歳！
 [name="Armed Infected B"]  Long live Reunion!
+[name="무장 감염자 B"]  리유니온 만세!
 
 [name="塔佳娜"]  ......掩护其他人撤退，回到城镇中心区域，激活“留声机”，注意防守！
 [name="タチヤナ"]  ……他の人たちの撤退をカバーしつつ街の中心エリアへ戻り、「蓄音機」を作動させてください。くれぐれも気をつけて！
 [name="Tatjana"]  Cover their retreat. Get back to the town center and activate the Gramophone. And stay safe!
+[name="타쟈나"]  ……사람들을 엄호하며 마을의 중심 구역까지 철수하겠습니다. '축음기'를 가동하시고, 방어에 집중하세요!
 
 [name="镇民"]  明白！
 [name="住民"]  わかった！
 [name="Townsfolk"]  Got it!
+[name="마을 주민"]  알겠습니다!
 
 [name="镇民"]  塔佳娜，街道尽头的那个......那个是？
 [name="住民"]  タチヤナ、通りの端の……あれは？
 [name="Townsfolk"]  Tatjana, that one at the end of the street... do you know him?
+[name="마을 주민"]  타쟈나 씨, 거리 끝에 있는 저거…… 저건 뭐죠?
 
 [name="泥岩"]  ......停，稍息。
 [name="マドロック"]  ……止まれ、全体休め。
 [name="Mudrock"]  Halt. At ease.
+[name="머드락"]  ……멈춰, 잠시 휴식한다.
 
 [name="萨卡兹战士"]  是......我们现在，仅一步之遥。
 [name="サルカズ戦士"]  ああ……もうあと一歩のところまで来ている。
 [name="Sarkaz Warrior"]  Yes. We are now just one step away.
+[name="살카즈 전사"]  그래…… 이제 한 발자국 남았군.
 
 [name="泥岩"]  ......一步之遥，就可以毁灭这座城镇。
 [name="マドロック"]  ……あと少しで、この街は破壊される。
 [name="Mudrock"]  One step away from destroying this town.
+[name="머드락"]  ……앞으로 한 발짝만 더 움직이면, 이 마을을 파괴할 수 있겠지.
 
 [name="泥岩"]  但我们的背后亦没有留下希望与存续，他们高呼解放，解放的只有怒火和仇恨。这只是常见的，龌龊的进军。
 [name="マドロック"]  そして、私たちの後ろには希望も命も残らない。感染者たちは声高らかに解放を求めているが、怒りと憎しみが解放されるだけだ。どこにでもある、汚れた進軍だ。
 [name="Mudrock"]  But there is no hope behind us. They cheer for liberation. But all we have freed is their anger and hatred. This is a typical, bloody invasion.
+[name="머드락"]  하지만 우리에게도 희망이나 존속 따위는 없을 거다. 그들은 해방을 부르짖었지만, 해방된 것은 그저 분노와 증오뿐…… 이건 그냥 어디서나 볼 수 있는,  명예롭지 못한 전투일 뿐이야.
 
 [name="萨卡兹战士"]  是吗？我其实没所谓的，事情到了这一步，已经不可能圆满收场了。
 [name="サルカズ戦士"]  俺は何でも構わない。ここまで来たなら、円満な結末なんて残されていないだろう。
 [name="Sarkaz Warrior"]  Is it? I don’t really care. At this point, a happy ending is out of the question.
+[name="살카즈 전사"]  그래? 나는 사실 상관없어. 일이 이 지경이 된 이상, 이제 원만히 해결하긴 글렀으니까.
 
 [name="泥岩"]  这是最后的机会......在我们踏出这最后一步前，给他们的机会。
 [name="マドロック"]  これは最後のチャンスだ……私たちが最後の一歩を踏み出す前に、彼らに残された……
 [name="Mudrock"]  This is the last chance... a chance to give them, before we take the last step.
+[name="머드락"]  이건 마지막 기회다…… 최후의 한 걸음을 내딛기 전, 저들에게 주는 마지막 기회.
 
 [name="萨卡兹战士"]  ......投降的机会？
 [name="サルカズ戦士"]  ……投降のチャンスか？
 [name="Sarkaz Warrior"]  A chance to surrender?
+[name="살카즈 전사"]  ……투항할 기회?
 
 [name="泥岩"]  不......反抗的机会。彰显信念的机会，让我们和他们来代替所有人......分出胜负。
 [name="マドロック"]  違う……抗い、信念を示すチャンスだ。私たちと彼らが、それ以外の者たちを代表して……勝敗を決する。
 [name="Mudrock"]  No... a chance to fight back. A chance to show conviction and let us stand in for the people... let us decide the winners and losers for ourselves.
+[name="머드락"]  아니…… 저항할 기회다, 그리고 신념을 드러낼 기회지. 우리와 저들이 모두를 대신해…… 승부를 낼 수 있도록.
 
 [name="萨卡兹战士"]  吃力不讨好，作为一个雇佣兵，你永远是最吃力不讨好的那个。
 [name="サルカズ戦士"]  骨折り損だと思うが。あんたはいつでも、一番損な役回りを買って出る……
 [name="Sarkaz Warrior"]  It’s tough, thankless work, being a mercenary. Always the toughest. Never appreciated.
+[name="살카즈 전사"]  넌 용병하면 죽도록 고생만 하고 좋은 소리는 못들을 팔자야.
 
 [name="萨卡兹战士"]  算了，还是听你的。
 [name="サルカズ戦士"]  まあ良い、あんたの言う通りにしよう。
 [name="Sarkaz Warrior"]  Whatever. It’s your call.
+[name="살카즈 전사"]  됐다, 네 말대로 하지.
 
 [name="泥岩"]  那么——
 [name="マドロック"]  では――
 [name="Mudrock"]  Then—
+[name="머드락"]  그럼……
 
 [name="泥岩"]  ——沃土磐石，站起来吧。
 [name="マドロック"]  ――沃土よ、巖よ、立ち上がれ。
 [name="Mudrock"]  —Arise, great boulder.
+[name="머드락"]  ……흙과 반석이여, 일어나라.
 

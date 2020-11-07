@@ -1,248 +1,310 @@
 [name=""]   时间未知 \ 天气未知 \ 能见度 低
 [name=""]   時刻不明/天候不明/視界：低
 [name=""]   Time - Unknown \ Weather - Unknown \ Visibility - Poor
+[name=""]   시간 미확인 / 날씨 미확인 / 가시도 낮음
 
 [name=""]   切尔诺伯格 行动组E0所在地
 [name=""]   チェルノボーグ 行動隊E0 現在位置
 [name=""]   Chernobog - Operation Squad E0's Location
+[name=""]   체르노보그 작전팀 E0 소재지
 
 [name=""]   Dr.{@nickname}营救行动 第三阶段
 [name=""]   Dr.{@nickname}救出作戦 第三段階
 [name=""]   Dr {@nickname} Rescue Operation, Phase 3
+[name=""]   {@nickname} 박사 구출 작전 제3단계
 
 [name="医疗干员"]  啊！
 [name="医療オペレーター"]  あっ！
 [name="Medic"]  Ah!
+[name="메딕 오퍼레이터"]  앗!
 
 [name="医疗干员"]  这个诊所......
 [name="医療オペレーター"]  この診療所は……。
 [name="Medic"]  This clinic...
+[name="메딕 오퍼레이터"]  이 진료소는……
 
 [name="医疗干员"]  阿米娅，是不是以前我们来过那个？
 [name="医療オペレーター"]  アーミヤさん、ここには来たことがありましたよね？
 [name="Medic"]  Amiya, haven't we been here before?
+[name="메딕 오퍼레이터"]  아미야 씨, 여기에 와 본 적이 있으시죠?
 
 [name="阿米娅"]  ......确实是......
 [name="アーミヤ"]  ……ええ……確かにあります……。
 [name="Amiya"]  You're right...
+[name="아미야"]  …네, 왔었죠…
 
 [name="阿米娅"]  只是怎么......已经变成了，这个样子？
 [name="アーミヤ"]  でもどうして……こんなことに？
 [name="Amiya"]  But why has it... become like this?
+[name="아미야"]  그런데, 왜… 이렇게 된 거죠?
 
 [name="医疗干员"]  已经人去楼空了......看来，是遭到了整合运动的袭击吧......
 [name="医療オペレーター"]  もう人影すら残っていません……レユニオンにやられたんでしょうか……。
 [name="Medic"]  It's been totally abandoned... It looks it was attacked by Reunion.
+[name="메딕 오퍼레이터"]  사람이 있었던 흔적조차 남아있지 않네요… 리유니온의 공격을 받은 걸까요…?
 
 [name="阿米娅"]  ......
 [name="アーミヤ"]  ……。
 [name="Amiya"]  ...
+[name="아미야"]  ……
 
 [name="近卫干员"]  这难道就是那个感染者诊所，阿撒兹勒？
 [name="前衛オペレーター"]  ここはまさか……例の感染者診療所、アザゼルですか？
 [name="Guard"]  Wasn't this Azazel, the clinic for the Infected?
+[name="가드 오퍼레이터"]  여기가 혹시… 그 감염자 진료소, 아자젤입니까?
 
 [name="阿米娅"]  ......是。
 [name="アーミヤ"]  ……はい。
 [name="Amiya"]  Yes...
+[name="아미야"]  …네.
 
 [name="近卫干员"]  明明掌握着整个切尔诺伯格的地下情报网，却不肯和我们合作......
 [name="前衛オペレーター"]  チェルノボーグの情報網に通じていながら、俺たちに手を貸そうとはしなかった……。
 [name="Guard"]  Even though they had access to Chernobog's entire underground intelligence network, they still refused to work with us...
+[name="가드 오퍼레이터"]  체르노보그의 네트워크망에 접속되어 있었는데도, 우리에게 도움을 요청하지 않을 줄은…
 
 [name="近卫干员"]  那时，他们和整合运动之间的关系也十分模棱两可......
 [name="前衛オペレーター"]  その時点では、彼らはレユニオンとも微妙に関係を維持していたようだった……。
 [name="Guard"]  Back then, it wasn't clear what kind of dealings that had with Reunion...
+[name="가드 오퍼레이터"]  그 무렵에 이들은 리유니온과도 미묘한 관계를 유지하고 있었던 것 같습니다만…
 
 [name="近卫干员"]  至少，如果他们当时肯向我们分享情报，或者仅仅是给个提示......
 [name="前衛オペレーター"]  少なくとも、彼らがあのとき我々に情報を共有してくれさえすれば……いや、多少でもヒントをくれれば……。
 [name="Guard"]  If only they had given us some information, or even just a hint...
+[name="가드 오퍼레이터"]  적어도 그때 우리에게 정보를 공유해 주기만 했더라도… 아니, 귀띔이라도 해 주었더라면…
 
 [name="近卫干员"]  我们也许就早点能离开这里了。
 [name="前衛オペレーター"]  もっと早くここを脱出できたというのに。
 [name="Guard"]  We could've been out of here by now.
+[name="가드 오퍼레이터"]  좀 더 빨리 이곳을 탈출할 수 있었을 겁니다.
 
 [name="近卫干员"]  这种下场，是他们自作自受！
 [name="前衛オペレーター"]  この結末は、自業自得としか言いようがないな。
 [name="Guard"]  They brought this outcome upon themselves!
+[name="가드 오퍼레이터"]  이렇게 된 건 자업자득이라고밖에 말할 수 없겠군요.
 
 [name="阿米娅"]  也不全是这样......
 [name="アーミヤ"]  いいえ……すべてが自業自得とは言えませんよ……。
 [name="Amiya"]  That's not the entire story...
+[name="아미야"]  꼭 그렇다고는 할 수 없어요.
 
 [name="近卫干员"]  阿米娅，当时和他们交涉时你也在场吧？
 [name="前衛オペレーター"]  アーミヤさんも、彼らとの交渉には参加してましたよね？
 [name="Guard"]  Amiya, you were there for the negotiations, weren't you?
+[name="가드 오퍼레이터"]  아미야 씨, 그들과 협상할 때 직접 보시지 않았습니까?
 
 [name="近卫干员"]  他们那傲慢冷漠的态度，我真是......
 [name="前衛オペレーター"]  彼らの傲慢で冷たい態度には自分は……。
 [name="Guard"]  That cold and arrogant attitude of theirs really ticked me off...
+[name="가드 오퍼레이터"]  그들의 오만하고 차가운 태도는 정말…
 
 [name="Ace"]  不能怪罪他们。
 [name="Ace"]  何もかも彼らのせいにはできんさ。
 [name="Ace"]  We can't blame them.
+[name="에이스"]  모든 게 다 그들 탓은 아니다.
 
 [name="近卫干员"]  头儿......
 [name="前衛オペレーター"]  隊長……。
 [name="Guard"]  Boss...
+[name="가드 오퍼레이터"]  보스…
 
 [name="Ace"]  感染者本就很难相信别人。
 [name="Ace"]  感染者たちは、なかなか他人を信じることができない。
 [name="Ace"]  It's hard for the Infected to trust anyone.
+[name="에이스"]  감염자들은 다른 사람들을 쉽게 믿지 못해.
 
 [name="Ace"]  经历过那么多苦难，当然会变得保守与顽固。
 [name="Ace"]  これだけの苦難を歩んでくれば、保守的で頑迷にもなるものさ。
 [name="Ace"]  After enduring so many hardships, who can blame them for becoming jaded and stubborn?
+[name="에이스"]  온갖 고생을 했으니 보수적이고 고집스러워질 수밖에 없겠지.
 
 [name="阿米娅"]  至少他们那样做......我能理解，也愿意原谅他们。不提防他人，就会被他人伤害。
 [name="アーミヤ"]  私には分かります。壁を作って自分を守らなければ傷つけられてしまう……。きっとそんな思いだったんです。そんな彼らを私は憎むことはできません……。
 [name="Amiya"]  I can understand why they did what they did... and I can forgive them. Those who don't protect themselves are easily hurt by others.
+[name="아미야"]  그들이 왜 그런 태도를 보였는지… 전 이해할 수 있어요. 용서할 수도 있고요. 타인을 경계하지 않으면, 반대로 자신이 상처를 입게 되니까요.
 
 [name="阿米娅"]  何况，就连感染者之间，也是没法轻易互相信任的。而且并不是每个人都愿意像我们一样冒险......
 [name="アーミヤ"]  たとえ感染者同士でも、簡単に信じ合うことはできない。それに少しでもリスクを冒すのを良しとしない方もたくさんいます……。
 [name="Amiya"]  Moreover, the Infected often can't even trust each other. Not everyone is able to stomach the kinds of risks that we take either...
+[name="아미야"]  설령 상대방이 감염자라고 해도… 쉽게 믿을 수는 없을 거예요. 하물며 우리처럼 위험을 감수하는 사람을 좋게 보지 않는 분들도 많이 계시니까요…
 
 [Decision(options="感染者诊所？", values="1")]
 [Decision(options="感染者診療所？", values="1")]
 [Decision(options="A clinic for the Infected?", values="1")]
+[Decision(options="감염자 진료소?", values="1")]
 
 [name="阿米娅"]  啊......他们是一家只医治感染者的黑市诊所。
 [name="アーミヤ"]  あ……ここは感染者を治療する、いわゆる闇診療所だったんです。
 [name="Amiya"]  Azazel... They were a black-market clinic that only provided services to the Infected.
+[name="아미야"]  아… 여긴 감염자들을 치료하기 위한 비밀 진료소였어요.
 
 [name="阿米娅"]  鉴于感染者的社会地位，大家是不可能在街道上抛头露面的。
 [name="アーミヤ"]  感染者が社会からどんな扱いをうけるのか…それを考えれば感染した事実を公にしたくはないものです。
 [name="Amiya"]  Given the social status of the Infected, they couldn't openly reveal themselves in public.
+[name="아미야"]  감염자의 사회적 지위를 생각하면… 본인들이 직접 감염자라고 말하고 다니긴 어렵거든요.
 
 [name="阿米娅"]  有些不愿被抛进隔离区的感染者，依然也会在城市里，小心翼翼地掩藏自己的身姿，苟活着......
 [name="アーミヤ"]  隔離区画に連行されるのを良しとしない感染者は、感染を隠して街で生活していました……。
 [name="Amiya"]  Some of the Infected, not wanting to be thrown into quarantine, are hiding throughout the city, just trying to survive.
+[name="아미야"]  그래서 격리 구역으로 추방당하는 것을 싫어하는 감염자들은 신분을 숨기고 도시에서 생활하고 있었어요…
 
 [name="阿米娅"]  阿撒兹勒，就是向这些感染者提供服务的。
 [name="アーミヤ"]  このアザゼルは、そんな感染者を影で治療していたんです…。
 [name="Amiya"]  Azazel was aimed at providing services to these people.
+[name="아미야"]  아자젤은 그런 감염자들에게 치료 서비스를 제공해 왔고요.
 
 [name="阿米娅"]  ......它们，一定是拒绝了整合运动的合作要求。
 [name="アーミヤ"]  …そして彼らは、レユニオンの何らかの要求を拒んだに違いありません。
 [name="Amiya"]  ...They must have rejected Reunion's proposals.
+[name="아미야"]  …그들은 분명 리유니온의 요구를 거부했을 거예요.
 
 [name="阿米娅"]  博士，我之前和你说过，我们得了病吧？
 [name="アーミヤ"]  ドクター、私たちは病気に冒されていると前に言いましたよね？
 [name="Amiya"]  Doctor, I previously mentioned that we're all sick, right?
+[name="아미야"]  박사님, 저희가 병에 걸렸다는 말씀은 이미 드렸죠?
 
 [name="阿米娅"]  ......这种病，不仅会杀死我们，也会让我们拥有不同于常人的力量。
 [name="アーミヤ"]  ……その病気は、最終的に生命を奪う代わりに、私たちに超常的な力を与えるんです。
 [name="Amiya"]  This disease will claim our lives, but it also grants us with extraordinary powers.
+[name="아미야"]  이 병은 언젠가 저희의 목숨을 앗아가겠지만… 그 대신 저희에게 초월적인 힘을 주고 있어요.
 
 [name="阿米娅"]  我不用法杖，就能释放源石技艺哦。
 [name="アーミヤ"]  例えば私は媒介となるアーツユニットを使わなくても、オリジニウムアーツが使えます。
 [name="Amiya"]  For example, I can use Originium Arts without the aid of a staff.
+[name="아미야"]  예를 들면 전, 지팡이가 없어도 오리지늄 아츠를 쓸 수 있죠.
 
 [name="阿米娅"]  然而，这种病，不止在生理上，会消磨我们的生命......
 [name="アーミヤ"]  でも、この病は身体の生理的な意味だけではなく、私たちの全てを削り取っていきます……。
 [name="Amiya"]  However, this disease does not only destroy our bodies...
+[name="아미야"]  하지만 이 질병은 저희 몸뿐만 아니라, 저희의 모든 것을 갉아먹고 있답니다…
 
 [name="阿米娅"]  它也会让我们再也不能像正常人一样生活。正常人的社会，会剥去你的一切。
 [name="アーミヤ"]  感染してしまうと、普通の人間として暮らすことは許されず、社会も私たちのすべてを奪っていきます。
 [name="Amiya"]  It also destroys any chance we have at living a normal life. Or rather, "civilized society" strips everything away from us.
+[name="아미야"]  평범한 사람으로 살 수 없게 되죠. 사회적으로도 모든 권리를 빼앗아 가거든요.
 
 [name="阿米娅"]  这座切尔诺伯格城，已经是所有规则的象征了。
 [name="アーミヤ"]  このチェルノボーグは、まさにその象徴でもあるんです。
 [name="Amiya"]  Chernobog has been the shining beacon of this "civility."
+[name="아미야"]  이곳 체르노보그는, 바로 그 상징이기도 해요.
 
 [name="阿米娅"]  驱逐感染者，消灭感染者，鄙夷感染者，恐惧感染者......
 [name="アーミヤ"]  感染者を恐れて差別し、そして駆逐し抹殺しようとする……。
 [name="Amiya"]  Fearing, hating, exiling, and purging the Infected...
+[name="아미야"]  감염자의 추방, 말살, 차별, 그리고 또…
 
 [name="临光"]  ......
 [name="ニアール"]  ……。
 [name="Nearl"]  ...
+[name="니어"]  ……
 
 [name="临光"]  最后，落到如此下场。
 [name="ニアール"]  だが最後には、このような結末が待っているというわけだ。
 [name="Nearl"]  And, this is how it ends.
+[name="니어"]  결국에는 이런 결말을 맞을 수밖에 없다는 이야기지.
 
 [name="阿米娅"]  可是，又有多少感染者，会有机会，选择整合运动，甚至是其他的感染者组织，或者罗德岛？
 [name="アーミヤ"]  でも、どれだけの感染者が、ロドスやレユニオンのような感染者たちの組織に入る機会があるんでしょうか？
 [name="Amiya"]  The only thing is, how many Infected were even given the option to choose between us, Reunion, or some other organization?
+[name="아미야"]  애초에 리유니온이나 로도스 아일랜드 같은 감염자 조직에 가입할 기회가 주어지는 감염자가 얼마나 될까요?
 
 [name="阿米娅"]  大多数感染者，不过是失去了所有。
 [name="アーミヤ"]  全てを失ってしまった感染者は、そんな機会にすらなかなか巡り会えません。
 [name="Amiya"]  Most of them simply lost everything.
+[name="아미야"]  대부분의 감염자는 이미 모든 걸 잃었을 거예요……
 
 [name="阿米娅"]  这个诊所，大概，也曾经是最后那么几个感染者，温暖的家吧......
 [name="アーミヤ"]  この診療所は、そんな感染者たちの最後の拠り所だったんでしょう……。
 [name="Amiya"]  Perhaps, this clinic was a warm place that some of them could call home...
+[name="아미야"]  이 진료소는 그런 감염자들을 위한, 마지막 보루 같은 역할을 했겠죠…
 
 [name="阿米娅"]  矿石病是无药可医的。至少此时此刻，感染者只能在绝望中......痛苦地失去生命。
 [name="アーミヤ"]  鉱石病は薬や一般的な治療で治すことができません。少なくとも今は絶望の中で……苦しみながら生命を落とす結末を迎えることしかできないんです。
 [name="Amiya"]  There is no cure for Oripathy. At least right now, the Infected can only die in despair.
+[name="아미야"]  광석병은 약이나 치료를 통해 나을 수 있는 병이 아니에요. 적어도 지금은, 감염자들은 절망 속에서… 고통을 받으며 목숨이 다하는 날을 기다릴 수밖에 없죠.
 
 [name="阿米娅"]  而后他们的遗体......也会成为新的传染源。
 [name="アーミヤ"]  そして彼らの遺体は……また新しい感染源となる。
 [name="Amiya"]  And their bodies... become new sources of infection.
+[name="아미야"]  그리고 그들의 시체는… 다시 새로운 감염원이 되고 맙니다.
 
 [name="阿米娅"]  不同于常人的特殊力量，染上之后就必然会死去的可怕传染病——
 [name="アーミヤ"]  尋常ならざる力を得る代わりに、最後には必ず死が待つ恐ろしい伝染病――。
 [name="Amiya"]  With their abnormal powers and fatally infectious disease...
+[name="아미야"]  강력한 힘을 얻는 대신, 그 끝에는 반드시 죽음이 기다리는 무서운 전염병…
 
 [name="阿米娅"]  感染者......被这片大地上的多数人所恐惧。
 [name="アーミヤ"]  この地の人たちがそんな病を恐れるのは仕方のないことです……。
 [name="Amiya"]  The Infected... are the most hated people on this planet.
+[name="아미야"]  그래서, 광석병의 감염자들은… 이 땅 대부분의 사람이 두려워하는 존재예요.
 
 [name="阿米娅"]  ——
 [name="アーミヤ"]  ――
 [name="Amiya"]  ...
+[name="아미야"]  ……
 
 [name="阿米娅"]  光是这么两三句话，博士大概也没法切身体会吧。
 [name="アーミヤ"]  これだけの説明で、ドクターに全てを分かっていただけたとは思いません。
 [name="Amiya"]  Doctor, you probably won't be able to understand everything just based upon my brief explanation.
+[name="아미야"]  이 정도 설명만 듣고 박사님이 모든 것을 이해하셨을 거라고는 생각하지 않아요.
 
 [name="阿米娅"]  但当你面对这些问题导致的后果时......你会明白的。
 [name="アーミヤ"]  でもいつかこれらの問題に直面したとき……理解していただけると思います。
 [name="Amiya"]  But when you see the consequences of these problems with your own eyes... you will understand.
+[name="아미야"]  하지만 언젠가 이런 문제를 직접 마주하셨을 때… 이해하실 수 있을 거예요.
 
 [name="阿米娅"]  你会明白，感染者的处境，究竟有多现实。
 [name="アーミヤ"]  感染者の境遇がより現実的なものとして感じられるでしょう。
 [name="Amiya"]  You'll see the harsh reality surrounding the Infected.
+[name="아미야"]  감염자의 처지에 대해서도 좀 더 체감하실 수 있을 거고요.
 
 [name="杜宾"]  像罗德岛这样不分彼此，或是整合运动那样狂热的排外拥内的感染者组织，都很少见。
 [name="ドーベルマン"]  ロドスのように感染者を差別しない組織や、レユニオンのように異常なまでに排他的な感染者組織はいずれも少ない。
 [name="Dobermann"]  Rhodes Island emphasizes equality for all, whereas Reunion is fanatically Infected-centric. However, organizations like ours are a rare sight.
+[name="도베르만"]  로도스 아일랜드처럼 감염자를 차별하지 않는 조직이 있는가 하면, 리유니온처럼 지극히 배타적인 감염자 조직도 있지. 어느 쪽도 흔한 편은 아니야.
 
 [name="杜宾"]  我能理解你的怒气，但我也能理解那个小诊所的苦衷。
 [name="ドーベルマン"]  お前の怒りも理解はできるが、この診療所の苦しみも理解できる。
 [name="Dobermann"]  I can understand why you're angry, but it's hard not to sympathize with this little clinic.
+[name="도베르만"]  네가 분노하는 이유는 잘 알겠지만, 동시에 이 진료소의 고충 또한 충분히 이해할 수 있다.
 
 [name="近卫干员"]  ......我明白了。
 [name="前衛オペレーター"]  ……了解……。
 [name="Guard"]  ...I see.
+[name="가드 오퍼레이터"]  …알겠습니다.
 
 [name="近卫干员"]  可能，他们是真的碰上了什么问题吧......
 [name="前衛オペレーター"]  そうですよね……この診療所だって本当は何かの事件に巻き込まれただけの可能性も……。
 [name="Guard"]  Perhaps they really ended up facing a bigger crisis than they could handle...
+[name="가드 오퍼레이터"]  다만, 그들에게 분명 뭔가 문제가 생긴 것은 틀림없습니다…
 
 [name="杜宾"]  至少现在，我们的怨气，都该和这个诊所的曾经一样，化作粉尘。
 [name="ドーベルマン"]  思うところもあるだろうが、今となってはもうこの診療所と同じで過去のものだ。
 [name="Dobermann"]  In any case, we should leave our anger behind, along with this clinic.
+[name="도베르만"]  적어도 지금 우리가 느끼는 비통함은, 이 진료소의 과거와 함께 잊어버리는 편이 나을 거다.
 
 [name="阿米娅"]  罗德岛的各位都是好人。也许会有很多人因畏惧与敌意，相互间产生了种种隔阂......
 [name="アーミヤ"]  ロドスの皆さんはいい人ばかりです。最初はお互いへの恐れや敵意から、隔たりが生まれることもあるかもしれませんが……。
 [name="Amiya"]  Rhodes Island is filled with good people. Though fear and hostility might create rifts between people...
+[name="아미야"]  로도스 아일랜드에 계신 분들은 모두 좋은 분들이에요. 두려움이나 적의 때문에 감정이 상하는 일도 있겠지만…
 
 [name="阿米娅"]  但只要在罗德岛，大家一定能解开误会。
 [name="アーミヤ"]  ロドスにいれば、そんな誤解も解けるはずです。
 [name="Amiya"]  I believe that all misunderstandings will be resolved, as long as we're a part of the same family.
+[name="아미야"]  로도스 아일랜드에 있으면 그런 오해도 모두 풀릴 거예요.
 
 [name="阿米娅"]  阿撒兹勒......罗德岛，又何尝不是一个阿撒兹勒呢？
 [name="アーミヤ"]  アザゼルだって……そう、アザゼルだってロドスと同じところだったのではないでしょうか？
 [name="Amiya"]  Perhaps... Rhodes Island is but another Azazel?
+[name="아미야"]  아자젤…… 그래요, 로도스 아일랜드 역시 아자젤과 마찬가지인지도 모르죠.
 
 [name="近卫干员"]  ......阿米娅......
 [name="前衛オペレーター"]  ……アーミヤさん……。
 [name="Guard"]  Amiya...
+[name="가드 오퍼레이터"]  …아미야 씨…
 
 [name="阿米娅"]  我们走吧，博士。
 [name="アーミヤ"]  行きましょう、ドクター。
 [name="Amiya"]  Let's go, Doctor.
+[name="아미야"]  가볼까요, 박사님.
 

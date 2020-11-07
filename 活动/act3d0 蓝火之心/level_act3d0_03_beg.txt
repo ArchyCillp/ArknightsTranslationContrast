@@ -1,124 +1,155 @@
 [name="黑"]   ......
 [name="シュヴァルツ"]   ……。
 [name="Schwarz"]   ...
+[name="슈바르츠"]   ……
 
 [name="锡兰"]   黑？！
 [name="セイロン"]   シュヴァルツ！？
 [name="Ceylon"]   Schwarz?!
+[name="실론"]   슈바르츠?!
 
 [name="黑"]   克洛宁的命令现在就是市长的命令，所有人，动手。
 [name="シュヴァルツ"]   今のクローニン様の命令は、市長閣下の命令と同じです。各員、行動開始。
 [name="Schwarz"]   Cronin's orders are now the Mayor's orders. Everyone, go.
+[name="슈바르츠"]   지금 크로닌 님의 명령은 주인님의 명령과도 같습니다. 모두, 움직여.
 
 [name="黑"]   把这些人都绑起来。注意不要伤到小姐了。
 [name="シュヴァルツ"]   全員捕らえろ。お嬢様は絶対に傷つけないように。
 [name="Schwarz"]   Tie these people up. Do not hurt Miss Ceylon.
+[name="슈바르츠"]   전부 붙잡아라. 아가씨는 절대로 다치게 하지 않도록.
 
 [name="锡兰"]   你说什么？！
 [name="セイロン"]   何を言っているの！？
 [name="Ceylon"]   What? Why?!
+[name="실론"]   무슨 소리 하는 거야 지금?!
 
 [name="锡兰"]   你也以为我是在闹着玩吗？！
 [name="セイロン"]   わたくしが、ただワガママを言っているだけだと思っているの！？
 [name="Ceylon"]   Do you also think I'm doing this for fun?!
+[name="실론"]   내가 지금 장난치는 줄 알아?!
 
 [Decision(options="走！;现在不是说话的时候！",values="1;2")]
 [Decision(options="逃げろ！;今そんな事を言っている暇はない！",values="1;2")]
 [Decision(options="Let’s go!;Now’s not the time to talk!",values="1;2")]
+[Decision(options="도망치자!;지금은 그런 말 할 때가 아니다!",values="1;2")]
 
 [name="保镖A"]   他们沿着这条路往沙滩跑了！
 [name="護衛A"]   道沿いにビーチの方向へ逃げたぞ！
 [name="Bodyguard A"]   They are currently fleeing towards the beach!
+[name="경호원A"]   놈들은 이 길을 따라 해변 방향으로 도망쳤다!
 
 [name="保镖B"]   啧，人太多了，不好追。联络沙滩的岗哨，围住他们！
 [name="護衛B"]   チッ、人が多すぎる、追いづらいな。ビーチの見張りに連絡しろ、奴らを挟み撃ちにする！
 [name="Bodyguard B"]   Damn, it's too crowded. We won't be able to give chase. Call the sentry at the beach. Surround them!
+[name="경호원B"]   쳇, 사람이 너무 많아 이대로라면 쫓기 어렵다. 해변에 있는 보초들한테 연락해, 놈들을 포위한다.
 
 [name="黑"]   别想走！
 [name="シュヴァルツ"]   逃さない！
 [name="Schwarz"]   Get back here!
+[name="슈바르츠"]   도망치지 마십시오!
 
 [name="黑"]   ！？
 [name="シュヴァルツ"]   ！？
 [name="Schwarz"]   ?!
+[name="슈바르츠"]   !?
 
 [Decision(options="欸？",values="1")]
 [Decision(options="なにっ？",values="1")]
 [Decision(options="Huh?",values="1")]
+[Decision(options="어?",values="1")]
 
 [name="？？？"]   博士，走，这里先交给我。
 [name="？？？"]   ドクター、ここは私に任せてもらおう。行くんだ。
 [name="???"]   Doctor, go. I'll handle things here.
+[name="???"]   박사, 먼저 가게나. 여기는 내가 맡도록 하지.
 
 [name="锡兰"]   欸？！你，你是......！
 [name="セイロン"]   えっ！？　あ、貴方は……！
 [name="Ceylon"]   Huh? You're...!
+[name="실론"]   어?! 다, 당신은…!
 
 [Decision(options="锡兰，我们先走！",values="1")]
 [Decision(options="セイロン、早く逃げるぞ！",values="1")]
 [Decision(options="Ceylon, let’s get out of here first.",values="1")]
+[Decision(options="실론, 서둘러!",values="1")]
 
 [name="锡兰"]   等一下，哈，哈......博士，我好累......
 [name="セイロン"]   待って、はぁ……はぁ……ドクター、もう足が……。
 [name="Ceylon"]   Wait... *gasp* *gasp*... Doctor, I'm tired...
+[name="실론"]   잠깐만요, 하…… 하…… 박사, 더는 못 뛰겠어요……
 
 [Decision(options="终于......到了沙滩......;我也......跑不动了......",values="1;2")]
 [Decision(options="やっと……ビーチに着いた……。;自分も……もう走れない……。",values="1;2")]
 [Decision(options="We finally… made it… to the beach…;I can’t… run any longer either…",values="1;2")]
+[Decision(options="드디어…… 해변에 도착했나……;나도…… 이젠 못 뛰겠어……",values="1;2")]
 
 [name="保镖"]   大小姐，请跟我们回去吧。
 [name="護衛"]   お嬢様、私たちと一緒に戻りましょう。
 [name="Bodyguard"]   Milady, please come back with us.
+[name="경호원"]   아가씨, 저와 함께 돌아가시죠.
 
 [name="锡兰"]   我不要！
 [name="セイロン"]   嫌です！
 [name="Ceylon"]   No!
+[name="실론"]   싫습니다!
 
 [name="保镖A"]   别伤着大小姐，那个什么博士随便你们处置。
 [name="護衛A"]   お嬢様に怪我をさせるなよ。あのドクターとかいう奴は好きにしていい。
 [name="Bodyguard A"]   Don't hurt Lady Ceylon. As for that "Doctor," do as you please.
+[name="경호원A"]   아가씨를 다치게 하지 마라. 저 박사라는 녀석은 알아서 처리해.
 
 [name="？？？"]   谁敢随便处置博士！！
 [name="？？？"]   あぁん？誰がドクターを好きにしていいって！！？
 [name="???"]   How dare you treat Doctor like that!!
+[name="???"]   누가 감히 박사를 처리한다는 거야?!!
 
 [name="保镖B"]   好烫好烫！
 [name="護衛B"]   あっ、熱いっ！
 [name="Bodyguard B"]   It burns! It burns!!
+[name="경호원B"]   앗 뜨거!
 
 [name="保镖C"]   哪儿来的臭小鬼！
 [name="護衛C"]   お前、どこのガキだ！
 [name="Bodyguard C"]   Where'd that imp come from?!
+[name="경호원C"]   웬 꼬맹이가!
 
 [name="保镖C"]   噫！我的屁股！我的屁股！
 [name="護衛C"]   うわっ！　ケツが燃えた！　ケツがああ！
 [name="Bodyguard C"]   Yowwwch! My butt! It's on fire!
+[name="경호원C"]   아아! 내 엉덩이가! 으아아아!
 
 [name="伊芙利特"]   喂，博士，你又惹上什么好玩的事情了，怎么不叫上我？
 [name="イフリータ"]   おいドクター、また面白いことやってんな。オレサマを呼ばねーなんてツレねーじゃんか。
 [name="Ifrit"]   Hey Doc, you're having fun again. Why didn't you call me?
+[name="이프리트"]   어이, 박사. 또 무슨 재밌는 일이 벌어진 거야? 재밌는 일이 있으면 나를 불러줘야지!
 
 [name="保镖A"]   啧，只是一个臭小鬼，给她点颜色瞧瞧！
 [name="護衛A"]   チッ、ガキ一人だ、目にもの見せてやれ！
 [name="Bodyguard A"]   Tsk... She's just a runt. Show her what we're made of!
+[name="경호원A"]   쳇, 상대는 꼬맹이 한 명뿐이다. 본때를 보여줘!
 
 [name="伊芙利特"]   我正愁无聊呢，嘿嘿......
 [name="イフリータ"]   フンッ、ちょうど退屈してたんだ、へへ……。
 [name="Ifrit"]   Perfect. I was starting to get bored, hehe...
+[name="이프리트"]   안 그래도 따분했는데, 헤헤……
 
 [name="锡兰"]   博士，你的脸色怎么变得比刚才还差？
 [name="セイロン"]   ドクター、急に顔色が悪くなっているような……どうなされたの？
 [name="Ceylon"]   Doctor, you look even paler than before. What's wrong?
+[name="실론"]   박사, 아까보다 안색이 더 안 좋아 보입니다만, 무슨 일이라도 생겼나요?
 
 [Decision(options="伊芙利特，下手别太重！！;把他们衣服烧光差不多了。",values="1;2")]
 [Decision(options="イフリータ、あまりやりすぎるな！！;服を燃やす程度で十分だ。",values="1;2")]
 [Decision(options="Ifrit, try not to go overboard!;Burn off all their clothes and call it a day.",values="1;2")]
+[Decision(options="이프리트, 너무 심하게는 하지 마!!;옷 태우는 정도로만 부탁할게.",values="1;2")]
 
 [name="伊芙利特"]   啧——
 [name="イフリータ"]   チェッ。
 [name="Ifrit"]   Fine…
+[name="이프리트"]   치……
 
 [name="伊芙利特"]   那就三成！
 [name="イフリータ"]   じゃあミディアム・レアぐらいにしとくぜェ！
 [name="Ifrit"]   All right, medium rare it is!
+[name="이프리트"]   그럼 미디엄 레어로 해둘게!
 

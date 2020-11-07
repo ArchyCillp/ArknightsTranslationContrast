@@ -1,452 +1,565 @@
 [name=""]   04:45 A.M.  天气/晴
 [name=""]   a.m.　04：45　天気/晴天
 [name=""]   4:45 AM \ Clear
+[name=""]   04:45 a.m.  날씨/맑음
 
 [name=""]   龙门上城区，近卫局大楼天台废墟
 [name=""]   龍門アップタウン、近衛局ビル展望デッキ跡
 [name=""]   L.G.D. Headquarters Rooftop Ruins, Upper Lungmen
+[name=""]   용문 북부, 근위국 건물 옥상 폐허
 
 [name="魏彦吾"]  陈警官，你身边的那位阿米娅小姐，能听到我的声音吗？
 [name="ウェイ"]  チェン君、アーミヤ君にこの声は聞こえているかな？
 [name="Wei Yenwu"]  Madam Ch'en, I believe Amiya is right next to you. Can you hear me?
+[name="웨이 옌우"]  첸, 그리고 옆에 아미야, 내 목소리 잘 들리나?
 
 [name="阿米娅"]  可以，魏长官。
 [name="アーミヤ"]  はい。ウェイさん。
 [name="Amiya"]  Yes, Chief Wei.
+[name="아미야"]  네. 웨이 옌우 씨.
 
 [name="魏彦吾"]  那就好。
 [name="ウェイ"]  そうか、では改めて。
 [name="Wei Yenwu"]  Very well then.
+[name="웨이 옌우"]  그럼 됐다.
 
 [name="魏彦吾"]  抱歉，罗德岛的领袖。我可以冒险让近卫局深入腹地，却不能冒险让更多的玩家参与进游戏。
 [name="ウェイ"]  すまなかった、アーミヤ君――いや、ロドスのリーダーよ。私は近衛局をある程度動かすことはできるが、さらに多くのプレイヤーをゲームに参加させるという冒険はできないのだ。
 [name="Wei Yenwu"]  I must apologize, leader of Rhodes Island. Though I can risk sending the L.G.D. deep into enemy territory, I can't risk bringing any more players into this game.
+[name="웨이 옌우"]  미안하군. 로도스 아일랜드 리더여. 근위국이 더 깊은 오지에 가도록 위험을 감수할 수는 있지만, 더 많은 플레이어를 게임에 들어오게 하는 위험을 감수할 수는 없네.
 
 [Decision(options="更多的玩家是指？;......什么意思？;场面已经够混乱了。", values="1;2;3")]
 [Decision(options="さらに多くのプレイヤーとは？;……どういう意味だ？;この混沌とした状況をどう説明する？", values="1;2;3")]
 [Decision(options="Bringing more players in?;...What do you mean by that?;The situation out there is already chaotic.", values="1;2;3")]
+[Decision(options="더 많은 플레이어라니?;……무슨 뜻이지? ;이 혼란스러운 상황을 어떻게 설명해야 할까…", values="1;2;3")]
 
 [name="魏彦吾"]  Dr.{@nickname}——
 [name="ウェイ"]  Dr.{@nickname}——
 [name="Wei Yenwu"]  Dr. {@nickname}...
+[name="웨이 옌우"]  {@nickname} 박사……
 
 [name="魏彦吾"]  有一张错综复杂的无形巨网，覆盖了整片大地。
 [name="ウェイ"]  複雑に張り巡らされた網が、この世界の全てを覆っている。
 [name="Wei Yenwu"]  Beneath this entire land lies an invisible, yet intricate net.
+[name="웨이 옌우"]  이 세상은 복잡하게 뒤엉킨 무형의 거대한 그물망으로 뒤덮여있네.
 
 [name="魏彦吾"]  没有任何一个城邦能和这片大地脱开干系、在阴谋诡局中独善其身，何况是夹在数个庞然巨物之间的这里。
 [name="ウェイ"]  どの都市も、この世界との関わりを断つことも、陰謀の中で一人突出することもできない。いくつもの巨大な事象から板挟みになっているこの場所、龍門であればなおさらだ。
 [name="Wei Yenwu"]  No single city can break free from this net of conspiracy and intrigue - and especially not Lungmen, as it is situated in the midsts of giants.
+[name="웨이 옌우"]  어떠한 도시도 이 세계와 관계를 끊을 수 없고, 음모 속에서 자기만 생각할 수도 없지. 여러 개의 거대한 것들 사이에 낀 이곳은 더더욱 그렇고.
 
 [name="魏彦吾"]  你也许意识到了，也许没有。但至少，我是必须要考虑这些问题的那个人。
 [name="ウェイ"]  君がどれだけ気づいているかは分からんが、少なくとも私はそれらの問題と向き合う必要がある。
 [name="Wei Yenwu"]  Perhaps you already know this, perhaps you don't. Nevertheless, I have to take all these factors into consideration.
+[name="웨이 옌우"]  아마 알아차렸을 수도, 어쩌면 모를지도 모르지만, 적어도 나는 이런 문제들을 고려해야 해야 하는 사람이네.
 
 [name="阿米娅"]  如果魏长官想要任务更顺利地执行，本就应该和我们分享信息。
 [name="アーミヤ"]  もしウェイさんが作戦をスムーズに進行したかったのなら、私たちに必要な情報を提供するべきだったのではないでしょうか。
 [name="Amiya"]  Chief Wei, you should have shared this information with us if you wanted our mission to progress more smoothly.
+[name="아미야"]  웨이 옌우 씨, 임무를 더 순조롭게 집행하려면 우리와 정보를 공유하셔야 합니다.
 
 [name="阿米娅"]  至少必要的那些，我该知道。
 [name="アーミヤ"]  少なくとも、必要な情報は全て。
 [name="Amiya"]  At least, you should have told me.
+[name="아미야"]  적어도 꼭 필요한 정보만이라도요.
 
 [name="魏彦吾"]  再次向你道歉，阿米娅小姐。我的位置迫使我不能把情报全盘披露。
 [name="ウェイ"]  改めて謝罪しよう、アーミヤ君。私の立場では、全ての情報を開示することが難しいのだ。
 [name="Wei Yenwu"]  I must apologize yet again, Miss Amiya. From my position, I simply cannot disclose all our intel.
+[name="웨이 옌우"]  다시 한번 사과하지. 아미야, 내 위치에선 모든 정보를 공개할 수는 없네.
 
 [name="魏彦吾"]  如果你处在我的位置上，你也会做出相同的选择。
 [name="ウェイ"]  君が私の立場でも、必ず同じ選択をするだろう。
 [name="Wei Yenwu"]  If you were standing in my shoes, you would have made the same decision.
+[name="웨이 옌우"]  만약 자네가 내 입장이었다면, 분명 나와 같은 선택을 했을걸세.
 
 [name="魏彦吾"]  切城废城的行动不甚圆满，但至少你们取得了相应的战果。
 [name="ウェイ"]  チェルノボーグ廃都市での作戦は、円満とは言えないまでも、君たちも相応の戦果を得られたのではないか？
 [name="Wei Yenwu"]  What happened in the Chernobog ruins was a pity, but at least you achieved something.
+[name="웨이 옌우"]  체르노보그의 버려진 도시에서의 작전은 원만했다고 할 수는 없지만, 적어도 자네들은 그에 상응하는 결과를 얻지 않았나.
 
 [name="煌"]  你让我们吸引整合运动的注意力。
 [name="ブレイズ"]  私たちを利用してレユニオンの注意を惹いただけでしょ。
 [name="Blaze"]  You used us to draw Reunion's attention.
+[name="블레이즈"]  우리가 리유니온의 주의를 끌게 한 거잖아.
 
 [name="魏彦吾"]  错了，龙门近卫局本也与你们一起。
 [name="ウェイ"]  違うな。近衛局も君たちと共にあったはずだ。
 [name="Wei Yenwu"]  No, the L.G.D. was right there with you.
+[name="웨이 옌우"]  아닐세. 용문근위국도 자네들과 함께 있었네.
 
 [Decision(options="你利用我们所有人做诱饵。", values="1")]
 [Decision(options="そう見せかけて我々全員を囮として使ったな。", values="1")]
 [Decision(options="You used all of us as bait.", values="1")]
+[Decision(options="당신은 우리 모두를 미끼로 삼았죠.", values="1")]
 
 [name="魏彦吾"]  哦？
 [name="ウェイ"]  ほう？
 [name="Wei Yenwu"]  Huh?
+[name="웨이 옌우"]  호오?
 
 [name="凯尔希"]  这一切他早就勾画好了。
 [name="ケルシー"]  全ては奴の思惑通りだ。
 [name="Kal'tsit"]  He planned for all this a long time ago.
+[name="켈시"]  이 모든 것은 저 사람이 처음부터 계획한 거였어.
 
 [name="凯尔希"]  时间越长，渗透越深，他要当机立断。
 [name="ケルシー"]  時間が経てば経つほどレユニオンは龍門に深く根を張る。それを阻止し、まとめて始末するために奴は決断を迫られているはずだ。
 [name="Kal'tsit"]  Reunion's infiltration only deepens as time passes, so he had to quickly make a decision.
+[name="켈시"]  시간이 지날수록 더 깊이 침투하니, 즉시 결단을 내려야 했겠지.
 
 [Decision(options="在最关键的时刻、在整合运动最躁动的时刻", values="1")]
 [Decision(options="最も重要な時に、レユニオンが最も浮足立つタイミングで。", values="1")]
 [Decision(options="At the most crucial moment, when Reunion was most vulnerable...", values="1")]
+[Decision(options="그래서 가장 중요한 순간, 리유니온의 폭동이 가장 고조되던 그때", values="1")]
 
 [Decision(options="让罗德岛去吸引他们。", values="1")]
 [Decision(options="ロドスに彼らの注意を引かせる。", values="1")]
 [Decision(options="Rhodes Island was made to draw their attention.", values="1")]
+[Decision(options="로도스 아일랜드가 리유니온을 유인하게 만든 거야.", values="1")]
 
 [name="凯尔希"]  顺便让整合运动觉得近卫局孤身在外——
 [name="ケルシー"]  ついでに近衛局が外で孤立した戦いを強いられていると錯覚させる――
 [name="Kal'tsit"]  He led Reunion to believe that the L.G.D. had been separated—
+[name="켈시"]  그렇게 리유니온이 근위국은 고립되어있다 생각하게 만들고……
 
 [Decision(options="——让他们的领袖觉得龙门内部空虚。", values="1")]
 [Decision(options="――奴らのリーダーに龍門内部は手薄だと錯覚させたんだ。", values="1")]
 [Decision(options="...and fooled them into thinking that Lungmen was undefended.", values="1")]
+[Decision(options="……리유니온의 리더는 용문 내부가 비어있다고 생각하게 만들었지.", values="1")]
 
 [name="煌"]  哈，说得好，Dr.{@nickname}！长官，你当然需要我们拖住整合运动，越多越好，对吗？
 [name="ブレイズ"]  なるほどね。さすがDr.{@nickname}！　ウェイさん、だから私たちにできるだけ多くのレユニオンの気を引かせておく必要があったってわけね。
 [name="Blaze"]  Hah, well said, Dr. {@nickname}! Chief, of course you'd need us to hold Reunion back. The more the better, right?
+[name="블레이즈"]  그런 거였군. 역시 {@nickname} 박사야! 웨이 씨, 그러니까 당신은 당연히 우리가 리유니온을 잡아두기를 원했겠네. 많을수록 좋고, 그렇지?
 
 [name="煌"]  看到龙门是这种情况，潜伏的整合运动肯定觉得自己有机会。
 [name="ブレイズ"]  龍門に潜伏して機会をうかがっていたレユニオンたちは、龍門が手薄になってチャンスだと勘違いして一斉に動き出した。
 [name="Blaze"]  When the lurking Reunion saw Lungmen in such a state, there's no way they wouldn't spring at the opportunity.
+[name="블레이즈"]  용문이 이런 상황이라는 것을 보면, 잠복한 리유니온은 분명 자기들한테 기회가 왔다고 생각했겠지.
 
 [name="煌"]  从藏身处倾巢而出的整合运动，等着他们的，啧啧，竟然是龙门不知道从哪里搬出来的精兵良将。
 [name="ブレイズ"]  そのレユニオンどもがアジトから這い出てくるのを待ってそれらを叩く……って龍門はどこからこれだけの兵力を準備したのかは知らないけど。
 [name="Blaze"]  And as soon as they began to emerge from their lairs, then BAM! Lungmen's elite forces would be waiting for them, seemingly out of nowhere.
+[name="블레이즈"]  그렇게 아지트에 숨어있던 병력을 전부 데리고 나온 리유니온을 기다리고 있던 건, 어디서 온 지 모를 용문의 정예 병력이였다... 이거고.
 
 [name="煌"]  你们龙门是从什么时候开始隐藏实力的？是不是切尔诺伯格事件发生的那一天，你就在准备这些了？
 [name="ブレイズ"]  あなたたち龍門は、チェルノボーグの事件が起きたあの日から、既にもう準備を始めてたってところなんじゃない？
 [name="Blaze"]  How long have you been concealing Lungmen's power? Did you already start preparing for this after the Chernobog incident?
+[name="블레이즈"]  당신들 용문은 언제부터 실력을 숨기기 시작한 거지? 체르노보그 사건이 발생한 그날부터 계속 준비했던 건가?
 
 [name="魏彦吾"]  龙门保证了你们的安全，也促使你们回到了你们足以发挥价值的位置。
 [name="ウェイ"]  あの廃都市に行ってもらうことで、龍門内部に潜伏していたレユニオンの大兵力から君らを遠ざけて安全を確保しつつ、君たちにその力を発揮する価値のある晴れ舞台に立ってもらったのだ。
 [name="Wei Yenwu"]  Lungmen kept you safe, and helped you return to a position that could maximize your value.
+[name="웨이 옌우"]  용문은 자네들의 안전을 보장했네. 그리고 자네들이 충분히 가치를 발휘할 수 있는 자리로 돌아갈 수 있게 해줬지.
 
 [name="煌"]  你把阿米娅丢在废城，让整合运动那么多人围攻我们罗德岛，也是你讲的这个什么位置？
 [name="ブレイズ"]  アーミヤちゃんを廃都市に放ったらかして、あんなに多くの敵に袋叩きにされたのが、その安全な晴れ舞台だったって言うつもり？
 [name="Blaze"]  You left Amiya to die back there in the middle of so many enemies. What kind of "position" are you talking about?
+[name="블레이즈"]  아미야를 그 버려진 도시에 버려두고, 그렇게 많은 리유니온이 우리 로도스 아일랜드를 포위 공격하게 한 것도 당신이 말한 그 자리를 만들기 위해서였다 이거야?
 
 [name="魏彦吾"]  我只是希望罗德岛能理解我们必须共同面对的艰难处境。
 [name="ウェイ"]  局地的な状況に目を向けても意味はない。私はただロドスに我々が立ち向かわねばならぬ厳しい境遇を理解して欲しいと言っている。
 [name="Wei Yenwu"]  I just hope that Rhodes Island can understand that we all have to face this difficult situation together.
+[name="웨이 옌우"]  나는 그저 로도스 아일랜드가 우리가 함께 직면해야 할 어려운 상황을 이해해 주길 바랐던 걸세.
 
 [name="阿米娅"]  煌小姐，Dr.{@nickname},不必了。
 [name="アーミヤ"]  ブレイズさん、Dr.{@nickname}、やめましょう。
 [name="Amiya"]  Miss Blaze, Dr. {@nickname}, it's fine.
+[name="아미야"]  블레이즈 씨, {@nickname} 박사님, 그만 하세요.
 
 [name="阿米娅"]  诗怀雅小姐和我们一起击退了整合运动的追兵，龙门没有放弃我们。
 [name="アーミヤ"]  スワイヤーさんも私たちと一緒にレユニオンを迎撃してくださいました。龍門は私たちを見放していません。
 [name="Amiya"]  Miss Swire helped us to defeat Reunion's forces, together. Lungmen did not abandon us.
+[name="아미야"]  스와이어 씨는 저희와 함께 리유니온의 추격병을 격퇴해주었어요. 용문은 우리들을 버리지 않았습니다.
 
 [name="阿米娅"]  （我们没有证据。）
 [name="アーミヤ"]  （今の私たちにはウェイさんを言い負かせるだけの材料がありませんから。）
 [name="Amiya"]  (We don't have any proof.)
+[name="아미야"]  (지금의 우리에겐 아직 증거가 부족하니까요.)
 
 [name="煌"]  嘁。
 [name="ブレイズ"]  フンッ。
 [name="Blaze"]  Tch...
+[name="블레이즈"]  흥.
 
 [name="魏彦吾"]  我们的合约依旧有效。无论中途发生了什么，只有结果才能让我满意。
 [name="ウェイ"]  我々の協定は依然として有効だ。事実こうしてお互いに満足できる結果に到達している。
 [name="Wei Yenwu"]  Our agreement is still valid. No matter what happened during the process, only the end result can satisfy me.
+[name="웨이 옌우"]  우리의 계약은 여전히 유효하네. 중간에 무슨 일이 있었든, 난 오직 결과가 만족스러운지만 볼 걸세.
 
 [name="魏彦吾"]  无论中途发生了什么。
 [name="ウェイ"]  その過程でどのようなことがあろうともな。
 [name="Wei Yenwu"]  No matter what happened.
+[name="웨이 옌우"]  중간에 무슨 일이 있었든지, 말이지.
 
 [name="魏彦吾"]  罗德岛的Dr.{@nickname}，上次我们见面时，我用同样的方式表达过同样的意思。
 [name="ウェイ"]  ロドスのDr.{@nickname}、前回顔を合わせた時も、同様の意向を伝えたはずだ。
 [name="Wei Yenwu"]  Dr. {@nickname} of Rhodes Island, I believe I made myself clear the last time we met.
+[name="웨이 옌우"]  로도스 아일랜드의 {@nickname} 박사, 지난번 우리가 만났을 때, 나는 같은 방식으로 같은 뜻을 전했었지.
 
 [name="魏彦吾"]  你的选择不多。但至少你可以选择消灭敌人的方式。
 [name="ウェイ"]  君の選択肢はさほど多くない。目の前の敵を倒していくという選択が最も賢明かと思うが。
 [name="Wei Yenwu"]  You do not have a choice in this matter. But at least you can choose how you eliminate your enemies.
+[name="웨이 옌우"]  당신의 선택지는 많지 않네만, 적어도 적을 제거하는 방법을 선택할 수는 있지 않겠나.
 
 [Decision(options="我不信你和你的鬼话。;......;没有人会在被愚弄了之后依然笑脸迎人的。", values="1;2;3")]
 [Decision(options="あなたとあなたのその言葉は信用できない。;……。;騙されたと感じている人間が笑顔でいられると思うか？", values="1;2;3")]
 [Decision(options="I don't believe you or the snake oil you peddle.;...;Nobody will happily smile and go on their way after being deceived.", values="1;2;3")]
+[Decision(options="나는 당신도 당신이 하는 헛소리도 믿지 않아.;……;속아 넘어갔는데도 웃으면서 대답하는 사람이 어디 있겠어.", values="1;2;3")]
 
 [name="魏彦吾"]  那当然好。
 [name="ウェイ"]  もちろんそれもいいだろう。
 [name="Wei Yenwu"]  Isn't that for the best?
+[name="웨이 옌우"]  물론 그렇지.
 
 [name="魏彦吾"]  我们都该保持警醒，大敌当前时不该有人松懈。
 [name="ウェイ"]  お互いに警戒態勢を保つ。敵の前では気を抜けないからな。
 [name="Wei Yenwu"]  We should all stay alert. Nobody should let their guard down when we are facing a common enemy.
+[name="웨이 옌우"]  늘 서로 경계해야 하지 않겠나. 큰 적을 앞두고 있을 때는 긴장을 풀면 안 되지.
 
 [name="魏彦吾"]  你的戒备心能促使你规避陷阱。
 [name="ウェイ"]  その警戒心があれば、つまらない罠にかかることもないだろう。
 [name="Wei Yenwu"]  Your vigilance can keep you from falling into a trap.
+[name="웨이 옌우"]  당신의 경계심이 함정을 피할 수 있도록 해줄 것이라 믿네.
 
 [name="魏彦吾"]  听我一言，Dr.{@nickname}——
 [name="ウェイ"]  だが一つだけ言っておく、Dr.{@nickname}――
 [name="Wei Yenwu"]  Listen, Dr. {@nickname}—
+[name="웨이 옌우"]  그래도 한 마디 해두자면, {@nickname} 박사……
 
 [name="魏彦吾"]  ——我们虽然还不是朋友，却至少还不是敌人。
 [name="ウェイ"]  ――我々はまだ友人ではないかもしれんが、少なくとも敵同士でもない。
 [name="Wei Yenwu"]  ...We may not be friends yet, but at least we are not enemies.
+[name="웨이 옌우"]  ……우리가 비록 친구는 아니지만, 적어도 아직 적은 아니지 않나.
 
 [name="魏彦吾"]  沉默以对吗。
 [name="ウェイ"]  なるほど。無言を貫くか。
 [name="Wei Yenwu"]  So, silence is your answer.
+[name="웨이 옌우"]  침묵은 긍정한단 뜻으로 봐도 되겠지?
 
 [name="魏彦吾"]  优秀的判断。你在掩藏你的缺点，也在发挥你的优势。
 [name="ウェイ"]  優秀な判断だ、欠点を覆い隠し、優位性を確保する。
 [name="Wei Yenwu"]  A fine display of judgment. You would hide your weaknesses while pressing your advantages.
+[name="웨이 옌우"]  좋은 판단이네. 당신의 약점을 숨기고, 당신의 이점을 활용할 수 있을 테니.
 
 [name="魏彦吾"]  罗德岛是强大的合作伙伴，我在这次事件中已经认可了这一点。
 [name="ウェイ"]  ロドスは強力なパートナーだ。今回の事件を通してそれは認めざるを得ない。
 [name="Wei Yenwu"]  Rhodes Island indeed is a powerful partner. You have earned my recognition from this incident.
+[name="웨이 옌우"]  로도스 아일랜드는 강력한 협력 파트너일세. 그 점은 이번 사건을 통해 확실히 알게 됐어.
 
 [name="魏彦吾"]  前提是，我们确实还是伙伴关系，而不是非法感染者与地方当局。
 [name="ウェイ"]  我々とロドスのパートナーシップは、非合法の感染者組織と地方自治体という枠を越えたものになるだろう。
 [name="Wei Yenwu"]  But, this comes on the condition that our relationship is still a partnership, not a statement of the status between illegal Infected and local authorities.
+[name="웨이 옌우"]  물론 불법 감염자와 지방당국의 관계가 아니라 파트너 관계일 때의 얘기지만 말이야.
 
 [name="魏彦吾"]  我无意愚弄任何人。
 [name="ウェイ"]  私は故意に誰かを愚弄することはない。
 [name="Wei Yenwu"]  I do not intend to fool anyone.
+[name="웨이 옌우"]  나는 그 누구도 우롱할 의도는 없었네.
 
 [name="魏彦吾"]  啊，客观结果上，我可能确实愚弄了整合运动。
 [name="ウェイ"]  いや、客観的に結果だけを見れば、今回の事件でレユニオンを愚弄したことにはなるか。
 [name="Wei Yenwu"]  Though, objectively speaking, I may well have fooled Reunion.
+[name="웨이 옌우"]  객관적인 결과를 보면, 리유니온을 우롱했다고는 할 수 있겠군.
 
 [name="魏彦吾"]  但这一切都是无法被证明的。整合运动可能同样也握住了我们的把柄。
 [name="ウェイ"]  しかし全ては証明できないことだ。レユニオンも既に我々の首に手をかけている可能性だってある。
 [name="Wei Yenwu"]  But none of that can be proven. Reunion may also have access to our secrets.
+[name="웨이 옌우"]  하지만 이 모든 것은 증명될 수 없네. 리유니온도 우리 약점을 파악했을지도 모르는 건 마찬가지 아닌가?
 
 [name="魏彦吾"]  我们只能在他们有足够能力认清我们的策略之前，掐灭他们。
 [name="ウェイ"]  いずれにしろ、敵の手が我々の首に伸びるより先に、奴らを殲滅しなければならない。
 [name="Wei Yenwu"]  We can only hope to destroy them before they come to grasp our strategies.
+[name="웨이 옌우"]  우리는 그들이 우리의 책략을 확실히 알아낼 능력을 손에 넣기 전에 먼저 그들을 섬멸해야 하네.
 
 [name="魏彦吾"]  这个目标是否能让你找到一点动力？
 [name="ウェイ"]  つまり……今やるべきことは分かるな？
 [name="Wei Yenwu"]  So, does this goal motivate you at all?
+[name="웨이 옌우"]  이 목표라면, 자네들에게 충분히 동기 부여가 될 수 있겠지?
 
 [name="魏彦吾"]  阿米娅小姐，{@nickname}博士，你们和龙门之间的合作并未结束。
 [name="ウェイ"]  今一度言おう、アーミヤ君、Dr.{@nickname}、君たちと龍門の協定は未だに健在だ。
 [name="Wei Yenwu"]  Miss Amiya, Dr. {@nickname}, the cooperation between us has not ended yet.
+[name="웨이 옌우"]  아미야, {@nickname} 박사, 당신들과 용문 사이의 협력은 아직 끝나지 않았네.
 
 [name="魏彦吾"]  反攻的号角已经吹响，整合运动将见识龙门的广大、善谋与团结。
 [name="ウェイ"]  今回の事件で反撃の狼煙が上がった。奴らに龍門の偉大さと知略、そして団結力を見せつけてやろう。
 [name="Wei Yenwu"]  A counterattack is imminent. We will demonstrate Lungmen's stature, wisdom, and unity to them.
+[name="웨이 옌우"]  반격은 시작됐어. 리유니온은 곧 용문의 방대함, 훌륭한 계책, 그리고 단결력을 뼈저리게 느끼게 될 것이야.
 
 [name="魏彦吾"]  如果可能的话，我也想看到罗德岛的专业、果敢与勇猛。
 [name="ウェイ"]  そして願わくば、ロドスにはこれからもプロフェッショナルとしての判断と、勇猛果敢な行動をお願いしたい。
 [name="Wei Yenwu"]  If possible, I would also like to witness Rhodes Island's professionalism, resolve, and bravery.
+[name="웨이 옌우"]  그러니 가능하다면, 나는 그때 로도스 아일랜드의 전문성, 과감함, 그리고 용맹함도 함께 보고 싶군.
 
 [name="魏彦吾"]  一刻钟之后，陈警官会继续协同你们作战。
 [name="ウェイ"]  15分後、チェンが引き続き君たちと作戦に当たる。
 [name="Wei Yenwu"]  In fifteen minutes, Madam Ch'en will return to fight at your side.
+[name="웨이 옌우"]  15분 후, 첸 팀장이 당신들과 협력해 작전에 임할 걸세.
 
 [name="阿米娅"]  魏先生，不要忘记自己说过的话。
 [name="アーミヤ"]  ウェイさん、ご自身がいま仰ったことは忘れないでくださいね。
 [name="Amiya"]  Mister Wei, I hope you don't forget what you just said.
+[name="아미야"]  웨이 옌우 씨, 자신이 한 말을 잊지 마세요.
 
 [name="阿米娅"]  罗德岛不会忘记。
 [name="アーミヤ"]  あなたの言葉、ロドスは胸に刻みましたから。
 [name="Amiya"]  Because Rhodes Island will not.
+[name="아미야"]  로도스 아일랜드는 잊지 않을 겁니다.
 
 [name="魏彦吾"]  自然。
 [name="ウェイ"]  もちろんだ。
 [name="Wei Yenwu"]  Naturally.
+[name="웨이 옌우"]  물론이다.
 
 [name="阿米娅"]  煌，Dr.{@nickname}，我们走。
 [name="アーミヤ"]  ブレイズさん、Dr.{@nickname}、行きましょう。
 [name="Amiya"]  Blaze, Dr. {@nickname}, let's go.
+[name="아미야"]  블레이즈 씨, 박사님, 가죠.
 
 [name="阿米娅"]  啊，对了陈长官，星熊警官呢？我为什么没在这看见她，她......没事吧？
 [name="アーミヤ"]  あ、そういえばチェンさん、ホシグマさんはどうされたんですか？先程から姿が見えませんが……何かあったんですか？
 [name="Amiya"]  Ah, by the way, Madam Ch'en, where's Inspector Hoshiguma? I don't see her around. Is she... all right?
+[name="아미야"]  아 참, 첸 팀장님, 호시구마 씨는요? 그러고 보니 모습이 보이지 않아서…… 별일 없는 거죠?
 
 [name="陈"]  星熊她受了点伤，但没什么大碍。
 [name="チェン"]  少し怪我をしてな、だが特に大きな問題はない。
 [name="Ch'en"]  She had some minor injuries, nothing serious.
+[name="첸"]  호시구마는 조금 다쳤지만, 큰 문제는 없다.
 
 [name="阿米娅"]  这样啊......我知道了。
 [name="アーミヤ"]  そうなんですね……わかりました。
 [name="Amiya"]  Oh, I see...
+[name="아미야"]  그렇군요…… 알겠습니다.
 
 [name="阿米娅"]  陈长官，罗德岛也可以帮你检查一下伤势，做一些应急处理。
 [name="アーミヤ"]  チェンさん、ロドスの医療チームにチェンさんの怪我も見せてください、応急処置くらいなら出来ますから。
 [name="Amiya"]  Madam Ch'en, Rhodes Island can also give you a checkup and provide some quick treatment if needed.
+[name="아미야"]  첸 팀장님, 로도스 아일랜드에서 검사 한번 받고 가시는 게 어떨까요, 응급처치 정도라면 바로 가능하니까요.
 
 [name="陈"]  不用了。
 [name="チェン"]  いや、いい。
 [name="Ch'en"]  No thanks.
+[name="첸"]  아냐, 됐어.
 
 [name="阿米娅"]  不用有什么顾忌，罗德岛的医疗检查是全程保密的。
 [name="アーミヤ"]  遠慮なさらなくても、プライバシーはきちんと守りますから。
 [name="Amiya"]  You don't have to worry about anything, our medical procedures are completely confidential.
+[name="아미야"]  사양하지 않으셔도 돼요. 로도스 아일랜드의 의료 검사는 모든 과정을 기밀 처리하고 있으니까요.
 
 [name="陈"]  我简单处理一下就行。
 [name="チェン"]  いや、この程度の怪我、処置は自分で簡単に済ませられる。
 [name="Ch'en"]  A little bit of elbow grease is good enough.
+[name="첸"]  이 정도는 내가 직접 처리하면 돼.
 
 [name="阿米娅"]  嗯......我就不勉强陈长官了，如果你这么坚持的话。
 [name="アーミヤ"]  はい……そこまで仰るなら無理にとは言いません。
 [name="Amiya"]  Mm... If you insist, then I won't force you.
+[name="아미야"]  으으…… 정 그러시다면, 무리하게 강요하진 않을게요.
 
 [name="阿米娅"]  那，陈长官，一会儿见。
 [name="アーミヤ"]  では、チェンさん、また後ほど。
 [name="Amiya"]  In that case, I'll see you later then, Madam Ch'en.
+[name="아미야"]  그럼, 좀 있다 뵙겠습니다.
 
 [name="陈"]  ......
 [name="チェン"]  ……。
 [name="Ch'en"]  ...
+[name="첸"]  ……
 
 [name=""]   05:00 A.M.   天气/晴
 [name=""]   a.m.　04：45　天気/晴天
 [name=""]   5:00 AM \ Clear
+[name=""]   05:00 a.m.   날씨/맑음
 
 [name=""]   龙门上城区，行政长官办事处
 [name=""]   龍門アップタウン、行政長官執務室
 [name=""]   Chief's Office, Upper Lungmen
+[name=""]   용문 북부, 행정 장관 사무소
 
 [name="诗怀雅"]  魏大人，你那里还顺利吗？
 [name="スワイヤー"]  ウェイ長官、そちらは順調ですか？
 [name="Swire"]  Chief Wei, how was everything on your end?
+[name="스와이어"]  웨이 장관님, 그쪽은 별문제 없으시죠?
 
 [name="魏彦吾"]  自然，否则我也没机会和各位在这里闲谈。
 [name="ウェイ"]  もちろん、そうでなければ君たちとこうして話している時間もないだろうな。
 [name="Wei Yenwu"]  Good, of course. Otherwise, I wouldn't have time to chat with you here.
+[name="웨이 옌우"]  당연하지. 아니면 자네들과 이곳에서 잡담할 기회도 없었지 않겠나.
 
 [name="诗怀雅"]  他们答应会暂缓行动的步调？
 [name="スワイヤー"]  彼らは作戦行動を一時的に休止することに同意を？
 [name="Swire"]  Did they agree to slow down the operation?
+[name="스와이어"]  그 사람들은 작전 진행을 잠시 늦추는 것에 동의하던가요?
 
 [name="魏彦吾"]  当然，但有时限。
 [name="ウェイ"]  ああ、だが時間には限りがある。
 [name="Wei Yenwu"]  Of course, but there is a time limit.
+[name="웨이 옌우"]  그래. 하지만 시간 제한이 있다.
 
 [name="魏彦吾"]  今天，明天。两天之后，如果整合运动还在龙门肆虐，你们知道会是什么后果。
 [name="ウェイ"]  今日と明日の二日後、レユニオンがまだ龍門で悪事を働いているようなら、どの様な結果が待っているか分かるな。
 [name="Wei Yenwu"]  Today, and tomorrow. If Reunion is still not contained after two days, you know what will happen.
+[name="웨이 옌우"]  오늘, 내일. 이틀 후에도 만약 리유니온이 여전히 용문에서 행패를 부린다면, 자네들도 어떻게 될진 알고 있겠지.
 
 [name="诗怀雅"]  只有两天时间？！太短了，我不可能——
 [name="スワイヤー"]  二日だけなんて！？　短すぎます、私は――
 [name="Swire"]  Only two days?! That's not enough time! I can’t—
+[name="스와이어"]  겨우 이틀이라뇨?! 너무 짧습니다. 그건 불가능……
 
 [name="魏彦吾"]  两次晨昏交替，已经算是宽限了。相较之下，我给各位的时间只有一天。
 [name="ウェイ"]  日の出二回分だ、これはすでに最大限の時間を確保したと言っていいだろう。さらに、君たちに与えられる時間は一日しかない。
 [name="Wei Yenwu"]  Two days and nights are already too generous. In comparison, I will only give you one day.
+[name="웨이 옌우"]  두 번의 아침과 저녁이 교차하는 시간이라면 이미 충분한 기한을 준 것이라 생각하네만. 그에 비해 내가 모두에게 주는 시간은 단 하루밖에 안 되네.
 
 [name="诗怀雅"]  一天？
 [name="スワイヤー"]  一日！？
 [name="Swire"]  One day?
+[name="스와이어"]  하루요?!
 
 [name="魏彦吾"]  我要各位在一天之内解决所有事情。
 [name="ウェイ"]  君たちには一日以内に全てを片付けてもらいたい。
 [name="Wei Yenwu"]  I want you to take care of everything within a day.
+[name="웨이 옌우"]  하루 안에 모든 일을 해결해줘야겠어.
 
 [name="诗怀雅"]  魏大人，如果有他们的帮助，我们不是可以在几小时里解决掉整合运动，彻底地减少损失吗？
 [name="スワイヤー"]  ウェイ長官、もし彼らの協力があれば、数時間でレユニオンを全て駆逐し、こちらの損失を最大限に減らせるのではありませんか？
 [name="Swire"]  Chief Wei, if they can help us, we can get rid of Reunion within hours. Wouldn't that minimize our losses?
+[name="스와이어"]  장관님, 그들의 도움을 받는다면, 우리는 몇 시간 내로 리유니온을 처리해, 손실을 철저히 줄일 수 있지 않습니까?
 
 [name="魏彦吾"]  那并不重要。龙门的问题，龙门自己理应能一劳永逸地解决，这才是我们的首要宗旨。
 [name="ウェイ"]  確かに実利に沿った提案ではあるが、近衛局という組織としてはそれに乗ることはできん。龍門自身の問題は、当然だが我々自身で徹底的にかたをつける必要がある。
 [name="Wei Yenwu"]  That's not important. Lungmen should be able to handle its own problems, once and for all. That is our first principle.
+[name="웨이 옌우"]  그건 중요하지 않네. 용문의 문제는 용문 스스로가 모든 것을 해결할 수 있어야지. 그게 바로 가장 중요한 걸세.
 
 [name="魏彦吾"]  这是我们应该让他们看见的。所以，各位，开始吧。
 [name="ウェイ"]  そしてそれこそが、我々が彼らに見せるべき本来の姿勢でもある。…では各位、始めてくれ。
 [name="Wei Yenwu"]  That is what we need to demonstrate to them. So, everyone, get moving.
+[name="웨이 옌우"]  이건 우리가 그들에게 마땅히 보여줘야 하는 것이네. 그러니… 다들 바로 시작해주게.
 
 [name="魏彦吾"]  去吧，陈警官，该让整合运动厘清龙门的待客之道了。
 [name="ウェイ"]  チェン君、レユニオンに龍門流の“おもてなし”というものを教えてやろうではないか。
 [name="Wei Yenwu"]  Go, Madam Ch'en. It is time to show Reunion some Lungmen hospitality.
+[name="웨이 옌우"]  첸 팀장, 리유니온에게 용문의 손님 대접이 어떤 것인지 똑똑히 알려주도록.
 
 [name="陈"]  明白。
 [name="チェン"]  了解しました。
 [name="Ch'en"]  Understood.
+[name="첸"]  알겠습니다.
 
 [name="陈"]  魏长官，我有一个问题。即使你现在无法给出回答，我也希望事情过去之后，你能给我一个合理的猜想。
 [name="チェン"]  ウェイ長官、一つだけ質問があります。今すぐでなくても構いませんが、長官のお考えをお聞かせいただければと思います。
 [name="Ch'en"]  Chief Wei, I do have one question. Even if you can't answer right now, I hope you can give me a reasonable guess after everything is over.
+[name="첸"]  장관님, 한 가지 질문이 있습니다. 지금 당장 답해주시지 않아도 좋으니, 일이 끝난 후에라도 제게 의견을 주셨으면 합니다.
 
 [name="魏彦吾"]  你可以问。
 [name="ウェイ"]  言ってみなさい。
 [name="Wei Yenwu"]  You may ask.
+[name="웨이 옌우"]  물어보도록.
 
 [name="陈"]  这明明是整合运动的总攻，那为什么它们的领袖塔露拉没有出现在龙门？
 [name="チェン"]  今回のレユニオンの行動ですが、明らかに総攻撃を仕掛けてきている様子でした。しかしどうして彼らのリーダーであるタルラは姿を見せなかったのでしょうか？
 [name="Ch'en"]  This is supposed to be Reunion's all-out attack. In that case, why has their leader, Talulah, not appeared in Lungmen?
+[name="첸"]  이건 리유니온 총공격이 분명한데, 왜 그들의 지도자인 탈룰라는 용문에 나타나지 않았던 걸까요?
 
 [name="魏彦吾"]  嗯......
 [name="ウェイ"]  ふむ……。
 [name="Wei Yenwu"]  Hmm...
+[name="웨이 옌우"]  음…
 
 [name="文月"]  事情不是进行得很顺利吗，你怎么在这愁眉苦脸的？
 [name="フミヅキ"]  うまく進んでいるのではないですか？　そんな苦い顔をしてどうされたの？
 [name="Fumizuki"]  I thought things were progressing smoothly. Why are you frowning, then?
+[name="후미즈키"]  일은 순조롭게 진행되고 있던 것 아니었나요? 왜 그렇게 심각한 표정을 하고 계신 건지?
 
 [name="魏彦吾"]  乌萨斯方面还是没有任何回应？
 [name="ウェイ"]  ウルサス側からの返事は？
 [name="Wei Yenwu"]  Have we received any response from Ursus?
+[name="웨이 옌우"]  우르수스 쪽은 여전히 아무런 답이 없나?
 
 [name="文月"]  依然没有。
 [name="フミヅキ"]  まだ何も。
 [name="Fumizuki"]  Still nothing.
+[name="후미즈키"]  아직 없었답니다.
 
 [name="魏彦吾"]  还是联系不上维特议长？
 [name="ウェイ"]  やはりヴィッテ議長には連絡がとれないか？
 [name="Wei Yenwu"]  And we still can't get in contact with Speaker Witte?
+[name="웨이 옌우"]  여전히 위트 의장과는 연락이 안 되고?
 
 [name="文月"]  很遗憾，信使至今都没能和他会面。
 [name="フミヅキ"]  残念ながら、トランスポーターも会えていないそうです。
 [name="Fumizuki"]  Unfortunately, our messenger hasn't even been able to meet him.
+[name="후미즈키"]  아쉽게도, 전달자도 아직 만나지도 못했다고 하더군요.
 
 [name="魏彦吾"]  看来整个乌萨斯帝国，也笼罩在一片疑云之中啊。
 [name="ウェイ"]  疑念の雲がウルサス全体を覆ってしまったか……。
 [name="Wei Yenwu"]  By the looks of things, the Ursus Empire is completely opaque.
+[name="웨이 옌우"]  아무래도 우르수스 제국 전체에 뭔가 수상한 기운이 감도는 것 같아……
 
 [name="魏彦吾"]  文月，我有种感觉。这一切可能只是个开始。
 [name="ウェイ"]  フミヅキ、私は思うんだ。これらは全て始まりでしかないと。
 [name="Wei Yenwu"]  Fumizuki, I have a premonition. That this whole thing is just the start of something much bigger.
+[name="웨이 옌우"]  후미즈키, 어쩌면 이 모든 건, 그저 하나의 시작일 뿐이라는 느낌이 든다.
 
 [name="文月"]  上次你这么说，已经是很多年前了。
 [name="フミヅキ"]  前に同じことを言って、もう何年にもなりますよ。
 [name="Fumizuki"]  The last time I heard you say that was many years ago.
+[name="후미즈키"]  지난번에도 그러시더니. 몇 년 전에도 그런 얘길 하셨지요.
 
 [name="魏彦吾"]  那是什么时候？我已经完全忘记了自己这么说的理由。
 [name="ウェイ"]  それはいつのことだったか？　どうしてそんなことを言ったのか、もう忘れてしまったよ。
 [name="Wei Yenwu"]  When did I say that? I've completely forgotten why I would say something like that.
+[name="웨이 옌우"]  그게 언제였지? 내가 왜 그런 얘길 했는지 까먹었어.
 
 [name="文月"]  那时我们可是刚见面没多久。难道你是想说，你已经把我们间的过往都忘了？
 [name="フミヅキ"]  あれは私たちが出会ったばかりの頃ですよ。私たちの思い出まで忘れてしまったのかしら。
 [name="Fumizuki"]  That was right after we first met. Are you saying that you've forgotten about everything that's ever happened between us?
+[name="후미즈키"]  우리가 만난지 얼마 되지 않았을 때였죠. 설마 우리 사이의 과거도 전부 잊은 건 아니겠죠?
 
 [name="魏彦吾"]  不，不会。我怎么敢。只是除了和你相遇以外的事情，我都记不太清了而已。
 [name="ウェイ"]  いや、そんなことはない。君との素敵な思い出以外なんぞ、忘れたところでどうということはないからな。
 [name="Wei Yenwu"]  N-no way! How could I! I just can't remember most things apart from our time together.
+[name="웨이 옌우"]  무, 물론 아니지. 내가 감히 그럴 리가 있나. 다만 당신과 만난 것 외에는 잘 기억이 안 나서 그래.
 
 [name="文月"]  瞧你这副伶牙俐齿。很可惜，这事你是忘不了的。
 [name="フミヅキ"]  口がお上手だこと。でも知ってますよ、どのみちあなたが忘れられるはずがありませんもの。
 [name="Fumizuki"]  Nice try, you sweet-talker. Unfortunately, this isn't something you'll be able to forget.
+[name="후미즈키"]  하여튼 말솜씨 하나만큼은 여전하시다니까. 아쉽지만 이 일은 당신이 잊을 리 없을 거예요.
 
 [name="文月"]  毕竟你亲口对我说过，如果二十年前我们输了，这座城市会改名换姓，成为乌萨斯征服史的另一条脚注。
 [name="フミヅキ"]  こうも仰ってましたよね。もし二十年前に我々が敗北していたら、この都市には全く別の名前が付けられ、ウルサスの征服史の一部になっていたと。
 [name="Fumizuki"]  You said this to my face twenty years ago... that if we lost, this city would be under a different name, and become just another stepping stone on the path to Ursus hegemony.
+[name="후미즈키"]  당신이 저한테 그랬었죠. 만약 20년 전에 우리가 졌다면, 이 도시는 이름을 바꾸고 우르수스 정복사의 또 다른 한 줄로 기록되었을 거라고.
 
 [name="文月"]  如果我们输了，坐在你现在的位置的不会是你，而是他。
 [name="フミヅキ"]  そして、もし我々が敗北していたら、あなたの位置に座っているのは彼だった。
 [name="Fumizuki"]  If we had lost, you wouldn't be the one sitting here. He would.
+[name="후미즈키"]  만약 우리가 졌다면, 지금 그 자리에 앉은 건 당신이 아니라 그 사람이었겠죠.
 
 [name="魏彦吾"]  ......
 [name="ウェイ"]  ……
 [name="Wei Yenwu"]  ...
+[name="웨이 옌우"]  ……
 
 [name="魏彦吾"]  科西切公爵。
 [name="ウェイ"]  コシチェイ公爵。
 [name="Wei Yenwu"]  Duke of Kashchey.
+[name="웨이 옌우"]  카셰이 공작.
 
 [name="文月"]  哎，可怜的小塔，你能说小塔身上没有他的影子吗？
 [name="フミヅキ"]  可哀想なタルちゃん、あの子に彼の姿が重なりますか？
 [name="Fumizuki"]  Alas, poor Tal. Don't you think she reminds us of him?
+[name="후미즈키"]  탈루 그 아이도 참 불쌍한 것 같아요… 그 아이에게선 왠지 그 사람의 모습이 느껴지지 않나요?
 
 [name="魏彦吾"]  但他已经死了。
 [name="ウェイ"]  だがもう死んだ。
 [name="Wei Yenwu"]  But he's already dead.
+[name="웨이 옌우"]  하지만 그는 이미 죽었다.
 
 [name="魏彦吾"]  被塔露拉亲手所杀。
 [name="ウェイ"]  タルラに殺されてな。
 [name="Wei Yenwu"]  Killed by Talulah herself.
+[name="웨이 옌우"]  탈룰라의 손에 살해당했지.
 

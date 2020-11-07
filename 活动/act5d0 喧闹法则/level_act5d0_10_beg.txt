@@ -1,524 +1,655 @@
 [name="小女孩"]  鼠爷爷~！
 [name="女の子"]  ネズミのおじいちゃん～！
 [name="Little Girl"]  Grandpa Rat~!
+[name="여자아이"]  쥐 할아버지~!
 
 [name="鼠王"]   怎么是你这小妮子，一个人跑来干嘛啦？灰头土脸的，又钻通风管了？
 [name="鼠王"]   おや、お主か。ここに何しに来たのかね？砂埃まみれの顔をして。通気口でも通って来たのかのう？
 [name="Rat King"]   Why are you out here all alone, little one? And your face is filthy. Were you crawling through air ducts again?
+[name="래트킹"]   어이구 우리 귀염둥이, 여긴 혼자 어째 혼자 왔는고? 얼굴은 먼지투성이가 되어선… 통풍구로 지나온 게냐?
 
 [name="小女孩"]  嘿嘿，鼠爷爷，这是大门口的何叔给我的！何叔说我个子小跑得快，一刻钟之内送到就请我吃酸奶！你要给我作证！
 [name="女の子"]  えへへ、これ正門の何おじさんからもらったの！何おじさんはね、わたしが小っちゃくて、駆けっこ早いから、これ十五分で渡せたらヨーグルトくれるんだって！　ちゃんと間に合ったよって言って！
 [name="Little Girl"]  Hehe, Uncle Ho gave this to me, Grandpa Rat! Uncle Ho said I'm small and I run fast, and if I got this to you quick enough he'd give me a yogurt. You have to tell him I did it!
+[name="여자아이"]  에헤헤~ 할아버지, 이거 정문의 '하씨 아저씨'가 줬어요! 제가 쪼끄매서 달리기가 빠르니까, 15분 내로 보내주면 요구르트 준댔어요! 하씨 아저씨한테 일찍 왔다고 얘기해주셔야 해요!
 
 [name="鼠王"]   好，爷爷给你作证。你先去吧。
 [name="鼠王"]   ああ、ちゃんと言っておくからのう。もう行きなさい。
 [name="Rat King"]   Don't worry, Grandpa will tell him. Now you run along.
+[name="래트킹"]   허허 알았다. 내 꼭 얘기해주마.
 
 [name="小女孩"]  谢谢爷爷！爷爷再见~！
 [name="女の子"]  ありがとうおじいちゃん！　バイバ～イ！
 [name="Little Girl"]  Thanks, Grandpa! Bye byee~!
+[name="여자아이"]  고마워요 할아버지! 안녕히 계세요~!
 
 [name="鼠王"]   ......
 [name="鼠王"]   ……。
 [name="Rat King"]   ......
+[name="래트킹"]   ……
 
 [name="看似普通的居民"]   老爷子。怎么了？
 [name="普通そうな住民"]   ご老人。どうしました？
 [name="Seemingly Ordinary Resident"]   Something wrong, Uncle?
+[name="평범해 보이는 주민"]   어르신, 왜 그러십니까?
 
 [name="鼠王"]   还记得来找过我们的那几个叙拉古人吗？他们的“家族”已经完全从叙拉古转移到了龙门。
 [name="鼠王"]   ワシらを探していた、あのシラクーザ人たちを覚えているか？　彼奴らの「ファミリー」は、完全にシラクーザから龍門へ移ってきたようじゃぞ。
 [name="Rat King"]   Do you recall those Siracusans who came looking for us some time ago? The rest of their "Family" has since come to Lungmen.
+[name="래트킹"]   우릴 찾았던 그 시라쿠사인을 아직 기억하느냐? 놈들 '패밀리'는 이미 완전히 용문으로 넘어온 것 같더구나.
 
 [name="看似普通的居民"]   需要联系线人吗？
 [name="普通そうな住民"]   連絡担当者に知らせましょうか？
 [name="Seemingly Ordinary Resident"]   Should I contact our spy?
+[name="평범해 보이는 주민"]   저희가 심어놓은 끄나풀한테 연락 한 번 해볼까요?
 
 [name="鼠王"]   没必要，按兵不动，他们会找上门来的。
 [name="鼠王"]   必要ない。こちらが動かなくても、彼奴らの方から訪ねてくるのだろう。
 [name="Rat King"]   No need for that. Let us bide our time. They will come to us on their own.
+[name="래트킹"]   필요 없다. 일단은 상황을 지켜보자꾸나, 놈들은 조만간 알아서 찾아올 게다.
 
 [name="看似普通的居民"]   为了什么？
 [name="普通そうな住民"]   何のためにです？
 [name="Seemingly Ordinary Resident"]   What for?
+[name="평범해 보이는 주민"]   대체 왜 그러는 걸까요?
 
 [name="鼠王"]   为了在这里生存下去。
 [name="鼠王"]   ここで生き抜くためにだ。
 [name="Rat King"]   To survive in Lungmen.
+[name="래트킹"]   여기서 살아남고자 하는 것이겠지.
 
 [name="看似普通的居民"]   这可不需要经过任何人的同意，那他们怎么不去和天灾聊聊？
 [name="普通そうな住民"]   それだけでしたら、別に誰かの同意が必要なわけではないと思いますが。もし誰かに伺うとしたら、それは「天災」ってやつですね。
 [name="Seemingly Ordinary Resident"]   But it's not like they need anyone's permission for that. They might as well take a meeting with a Catastrophe.
+[name="평범해 보이는 주민"]   딱히 여기서 살아가는 게 누군가의 동의가 필요한 건 아니지 않습니까. 그렇게 동의를 구하고 싶었다면 '재앙'에게나 허락을 구할 것이지 왜…
 
 [name="鼠王"]   天灾要是会说话，兴许就用不着人们窝里斗了。
 [name="鼠王"]   もし天災に口を利けるなら、殺し合いなぞせんでよいだろうよ。
 [name="Rat King"]   If Catastrophes could speak, maybe we wouldn't need to fight each other.
+[name="래트킹"]   혹시 '재앙'이 말을 할 수 있었다면, 사람들은 아마 이 좁은 땅에서 서로 으르렁거리지 않고 살 수 있었을지도 모르지.
 
 [name="卡彭"]   ——正如您所言，鼠王先生。
 [name="カポネ"]   ——アンタの言う通りですよ、鼠王さん。
 [name="Capone"]   ...it's just like you said, Mr. Rat King.
+[name="카포네"]   당신 말대로야, 래트킹 양반.
 
 [name="卡彭"]   龙门有自己的规则，魏彦吾在十几年前就默认了这个铁律，我们绝不敢轻易违反。
 [name="カポネ"]   龍門には龍門のルールがある。ウェイが十数年も前に黙認したこの掟を、我々は決して破ってはいけない。
 [name="Capone"]   It's Lungmen. Lungmen's got its own rules Wei Yenwu agreed to a decade ago. We ain't about to go breakin' 'em.
+[name="카포네"]   용문에는 용문의 룰이 있다. 웨이옌우가 십 여년 전에 이 묵인한 이 철칙을, 우린 절대 어겨선 안 되겠지.
 
 [name="卡彭"]   但您才是执行者，这也是我们今天冒昧来访的原因。
 [name="カポネ"]   しかしその執行者はアンタだ。これが俺らが今日訪ねてきた理由でもある。
 [name="Capone"]   But you're the executive. That's why we're here to pay our respects.
+[name="카포네"]   하지만 당신은 집행자야, 이게 우리가 오늘 굳이 여기까지 찾아온 이유기도 하지.
 
 [name="鼠王"]   ......你们想铲除企鹅物流，取而代之。
 [name="鼠王"]   ……お主らはペンギン急便を一掃し、取って代わりたいのだろう。
 [name="Rat King"]   ...You want to wipe out Penguin Logistics, and take their place.
+[name="래트킹"]   ……자네는 펭귄 로지스틱스를 없애버리고 그 자리를 대신 꿰차고 싶어하는 게로군.
 
 [name="卡彭"]   正是。
 [name="カポネ"]   その通りだ。
 [name="Capone"]   Exactly.
+[name="카포네"]   바로 그거지.
 
 [name="鼠王"]   你们对他们缺乏了解，西西里人。这笔生意你们得不到任何好处。
 [name="鼠王"]   お主らは彼らへの理解が足りないのう、シチリア人よ。こんな取引では、お主らは何の得も得られぬぞ。
 [name="Rat King"]   You don't know much about them, Sicilians. This deal would not be of benefit to you.
+[name="래트킹"]   시실리안이여, 자네는 그들을 제대로 모르고 있군. 이 거래는 자네에게 어떠한 득도 되지 않을 걸세.
 
 [name="甘比诺"]   啧。
 [name="ガンビーノ"]   チッ。
 [name="Gambino"]   Hmph.
+[name="감비노"]   쳇.
 
 [name="卡彭"]   （甘比诺！）
 [name="カポネ"]   （ガンビーノ！）
 [name="Capone"]   (Gambino!)
+[name="카포네"]   (감비노!)
 
 [name="甘比诺"]   你是在说我们赢不了吗？“鼠王”先生？
 [name="ガンビーノ"]   テメェは俺たちが勝てないとでも言いてぇのか？「鼠王」さんよ？
 [name="Gambino"]   Are you tryin' to tell us we can't win? Mr. "Rat King"?
+[name="감비노"]   네놈은 우리가 놈들한테 못 이긴다고 생각하는 건가? 래트킹 영감?
 
 [name="鼠王"]   “输赢”不是谈生意的时候应该出现的词，也难怪你逃离了叙拉古，你的确不是那个女人的对手。
 [name="鼠王"]   「勝ち負け」というのは、取引で口にする言葉ではないな。どおりでお主がシラクーザから追い出されるわけだ、確かにあの女の相手にはならん。
 [name="Rat King"]   Winning and losing are words that have no place in a business discussion. No wonder you had to flee Siracusa. You are no match for that woman.
+[name="래트킹"]     '승패'는 거래를 할 때 나와야 할 단어가 아니네. 시라쿠사에서 쫓겨난 것도 이해가 가는구먼. 자넨 절대 그 여자의 상대가 되지 못할 걸세.
 
 [name="甘比诺"]   你敢侮辱我的家族？
 [name="ガンビーノ"]   俺のファミリーを侮辱すんのか？
 [name="Gambino"]   You insult the Family?
+[name="감비노"]   우리 패밀리를 우습게 보는 거냐!
 
 [name="卡彭"]   你闭嘴，甘比诺！我们要的是针对企鹅物流的——
 [name="カポネ"]   おい黙れ、ガンビーノ！　俺たちに必要なのはペンギン急便に対しての——。
 [name="Capone"]   Quiet, Gambino! We're after Penguin Logistics here...
+[name="카포네"]   입 다물어 감비노! 우리한테 필요한 건 펭귄 로지스틱스의…
 
 [name="鼠王"]   只要遵循规则，我没有庇护企鹅物流的理由。
 [name="鼠王"]   ルールさえ守ってくれるのであれば、ワシにはペンギン急便をかばう理由はない。
 [name="Rat King"]   You need only follow the rules. I am not here to protect Penguin Logistics.
+[name="래트킹"]   규칙만 제대로 준수한다면, 내겐 펭귄 로지스틱스를 옹호할 이유는 없네.
 
 [name="卡彭"]   ——意思是？
 [name="カポネ"]   ——つまり何だ？
 [name="Capone"]   What do you mean?
+[name="카포네"]   …무슨 뜻이지?
 
 [name="鼠王"]   企鹅物流是明面上的合法公司，能庇护他们的只有龙门的钢铁律法。
 [name="鼠王"]   ペンギン急便は皆に知られている合法的な会社であり、彼らを庇護しておるのは、龍門の鉄の法律だからな。
 [name="Rat King"]   Penguin Logistics is on its face a legal entity. The only thing that can protect it is the ironclad law of Lungmen.
+[name="래트킹"]   펭귄 로지스틱스는 다들 알다시피 합법적인 회사이기 때문에, 그들을 지켜주는 건 오직 용문의 철의 법률 뿐…
 
 [name="鼠王"]   不过他们有时候的确触犯了各方面的问题，而且从来不以为然。
 [name="鼠王"]   だが彼らは、たびたび各方面で問題を起こす。しかも、やらかした事に対し、なんとも思っていない顔をしておる。
 [name="Rat King"]   But they do, from time to time, cause offense to various stakeholders. And they never take it appropriately seriously.
+[name="래트킹"]   …허나 그들은 갖은 방면에서 크고 작은 문제들을 일으켜왔지. 마치 잘못했다는 자각이 없는 것 마냥…
 
 [name="鼠王"]   但是切记，西西里人，切记不要越界。
 [name="鼠王"]   だがくれぐれも覚えておけ、シチリア人よ。くれぐれも、一線を越えてはならぬと。
 [name="Rat King"]   But bear in mind, Sicilians, you must never overstep your bounds.
+[name="래트킹"]   명심하게 시실리안들이여, 무슨 일이 있어도 선을 넘진 말게.
 
 [name="鼠王"]   另类的秩序不代表没有秩序，叙拉古应当最明白这个道理。可千万别再麻烦我这把老骨头动手了，答应我。
 [name="鼠王"]   ここの秩序は変わっておるが、決して無秩序ではない。シラクーザ人なら最も理解しているはず。この老いぼれの手を煩わせることはもう二度とないと、約束するんだな。
 [name="Rat King"]   An unconventional order is not the same as disorder. Siracusans should understand this more than anyone. But you must never again bring trouble to these old bones of mine. Promise me that.
+[name="래트킹"]   이곳의 질서는 좀 특이하다곤 하나, 질서가 없는 곳은 아니네. 시라쿠사 사람이라면 무슨 말인지 잘 알겠지, 절대 이 늙은이를 귀찮게 하지 말게나, 알겠는가?
 
 [name="卡彭"]   ——我明白。
 [name="カポネ"]   ——わかった。
 [name="Capone"]   ...I understand.
+[name="카포네"]   ……알았다.
 
 [name="鼠王"]   ......龙门这个季节的星星，比想象中的多。
 [name="鼠王"]   ……龍門のこの時期の星は、思っていたより多く出ているのう。
 [name="Rat King"]   There are so many more stars in Lungmen this time of year. So many more than you'd think.
+[name="래트킹"]   ……이맘때 용문 하늘에 뜨는 별은 생각보다 꽤 많다네.
 
 [name="鼠王"]   放在桌上的茶，也凉了吧。
 [name="鼠王"]   テーブルに置いてきた茶も、冷めてしまったのかのう。
 [name="Rat King"]   The tea on the table has gone cold, hasn't it?
+[name="래트킹"]   탁자 위에 둔 차도 아마 식어버렸겠지.
 
 [name="路人"]  这是老爷的......喂，上工了。
 [name="通りすがりの人"]  これは旦那の……おい、仕事だぞ。
 [name="Passerby"]  This is Uncle's... Hey, we're on the clock.
+[name="지나가던 사람"]  이건 할아버지의…… 어이, 일이다.
 
 [name="路人"]  我不聋，赶紧打，打完正好去喝早茶。
 [name="通りすがりの人"]  聞こえてるっての。さっさとやれ、終わるころにはヤムチャにちょうどいい時間だ。
 [name="Passerby"]  I'm not deaf. I'm on it. Once I'm done let's go get tea.
+[name="지나가던 사람"]  귓구멍이 막혔나, 빨리 움직여. 일 끝내고 차 한잔하면 딱이겠어.
 
 [name="黑帮"]   看来轮到我们了。
 [name="マフィア"]   俺たちの番が回ってきたようだな。
 [name="Mafioso"]   Looks like it's our turn.
+[name="마피아"]   우리 차례가 된 거 같군.
 
 [name="黑帮"]   反正之前也打过招呼了，把弩枪都放下，注意不要误伤到无关人士。
 [name="マフィア"]   挨拶も済んだし、やるか。クロスボウを下ろせ、間違えて無関係な人間を傷つけないように注意しろ。
 [name="Mafioso"]   We paid our respects, put down our crossbows, and made sure not to hurt any civilians.
+[name="마피아"]   어차피 전에 인사도 다 했으니. 석궁 다 내려놔라, 엄한 사람들 다치게 하지 않도록 조심하고.
 
 [name="黑帮"]   ......该适应新的规则了。
 [name="マフィア"]   ……新しいルールには慣れてかなきゃな。
 [name="Mafioso"]   ...all nice and proper-like under the new rules.
+[name="마피아"]   ……이젠 새 룰에 적응할 때가 됐다.
 
 [name="可颂"]   我们是不是被包了个圆？里三层外三层的那种？
 [name="クロワッサン"]   ウチら、なんやぐるっと囲まれてるやん。内側に三周、外側に三周みたいな？
 [name="Croissant"]   So we're surrounded? Six or so deep on all sides?
+[name="크루아상"]   우리, 우리 완전 땡그랗게 포위 당한 거 같지 않나? 안으로 세 겹, 바깥으로 세 겹, 뭐 이런 느낌으로?
 
 [name="能天使"]   啊，戚风蛋糕卷？
 [name="エクシア"]   あ、ロールケーキかな？
 [name="Exusiai"]   Oh, like a roll cake?
+[name="엑시아"]   아, 롤케이크처럼?
 
 [name="德克萨斯"]   鼠王是贫民窟的话事人，他的爪牙自然无处不在。
 [name="テキサス"]   鼠王はスラムの意思決定者だ。彼の爪牙が届かない場所はない。
 [name="Texas"]   The Rat King is the boss of the slums. Of course his claws and teeth are everywhere.
+[name="텍사스"]   래트킹은 슬럼가의 의사결정자다. 그의 손길이 닿지 않는 곳은 없어.
 
 [name="拜松"]   ......为什么不早说？
 [name="バイソン"]   ……どうしてそれを早く言ってくれないんですか？
 [name="Bison"]   Why didn't you say so earlier?
+[name="바이슨"]   ……어째서 그런 얘길 더 일찍 해주지 않았던 거죠?
 
 [name="德克萨斯"]   我以为那只是个都市传说，而且我也不知道他真的是只老鼠。谁会这么取外号？
 [name="テキサス"]   ただの都市伝説だと思っていた。それにまさか本当にネズミだったなんて。まったく誰がこんなあだ名を付けたのか。
 [name="Texas"]   I thought he was just an urban legend. And I never imagined he'd actually be a rat. Who would take a nickname like that?
+[name="텍사스"]   난 그냥 도시전설이라 생각했거든. 게다가 정말로 쥐가 맞는지도 확인이 안 됐었고. 정말이지, 대체 누가 그런 별명을 지은 거야?
 
 [name="可颂"]   说什么人流密集不好动手，这哪里有什么无辜民众，明明全是敌人嘛！
 [name="クロワッサン"]   こんだけぎょうさん人がおったら、手ぇ出すの無理とかいうて、どこに罪もない民衆ちゅうやつがおんねん！　全員敵やないか！
 [name="Croissant"]   With all them people around, it's too hard to tell who's after us and who's a passerby!
+[name="크루아상"]   사람이 너무 많아서 움직이기 어렵긴 개뿔, 일반 시민이 어디있노 적들이 천지빼까리에 널려있구만!
 
 [name="空"]   寸步难行呢。
 [name="ソラ"]   うーん。全然身動きが取れないよ。
 [name="Sora"]   We don't have a lot of room to act here.
+[name="소라"]   꿈쩍도 못 하겠어.
 
 [name="拜松"]   现在怎么办？
 [name="バイソン"]   どうしましょうか？
 [name="Bison"]   What do we do?
+[name="바이슨"]   어떡하죠?
 
 [name="德克萨斯"]   你一直在问怎么办，不如你自己想想？
 [name="テキサス"]   キミはいつも人に聞いてばかりだな。自分で考えてみたらどうだ？
 [name="Texas"]   You're always asking what to do. Don't you ever think for yourself?
+[name="텍사스"]   남들한테 묻기만 하지 말고, 가끔은 어떻게 할지 직접 생각해보는 게 어때?
 
 [name="拜松"]   ......
 [name="バイソン"]   ……。
 [name="Bison"]   ......
+[name="바이슨"]   ……
 
 [name="德克萨斯"]   要来了。
 [name="テキサス"]   来るぞ。
 [name="Texas"]   Here they come.
+[name="텍사스"]   온다.
 
 [name="鼠王"]   ......你来了。这里能清楚地看见下面的情况。
 [name="鼠王"]   ……来たか。ここは下の様子がよく見える。
 [name="Rat King"]   Here you are. I think you can make out the situation from up here.
+[name="래트킹"]   ……왔는가. 여기선 아래가 잘 보인다네.
 
 [name="鼠王"]   你的朋友们正陷入苦战，你不打算去帮个忙吗？
 [name="鼠王"]   お主のお友達はだいぶ苦戦しておるが、手助けに行かなくても良いのかのう？
 [name="Rat King"]   Your friends are locked in a life or death struggle. Aren't you going to help them?
+[name="래트킹"]   자네 친구들이 꽤 고전하고 있는 것 같네만, 도와주러 안 가봐도 되겠나?
 
 [name="莫斯提马"]   我可没听说你会下这么重的手。
 [name="モスティマ"]   貴方がこんなに厳しい仕打ちを下すなんて知らなかったよ。
 [name="Mostima"]   From what I've heard of you, I never thought you'd be so heavy handed.
+[name="모스티마"]   당신이 이렇게까지 할 거란 얘기는 못 들었었는데.
 
 [name="鼠王"]   我也不是所有事都会和年轻人推心置腹的。
 [name="鼠王"]   ワシとて何事も若者と誠実に語る、というわけではないのだよ。
 [name="Rat King"]   I don't share every last thought of mine with the young people.
+[name="래트킹"]   나도 모든 일을 젊은이들한테 속 시원히 털어놓는 성격은 아니라서 말이야.
 
 [name="莫斯提马"]   也是，我总是会忘记，你是个什么样的人物。
 [name="モスティマ"]   そうだね。私もすっかり忘れてたよ。貴方がそういう人物だと。
 [name="Mostima"]   Sure enough. I always forget what kind of person you are.
+[name="모스티마"]   그렇구나, 늘 까먹는다니깐. 당신은 그런 사람이란 걸.
 
 [name="鼠王"]   很多人会忘记这一点，他们都死无葬身之地。你已经属于特别优待了。
 [name="鼠王"]   多くの人は、この事を忘れ無様に死んでいくだろう。まぁお主は既に特別優待枠に入っているがのう。
 [name="Rat King"]   Many have forgotten as much. And they all ended up six feet deep in an unmarked grave. You're already among the luckiest.
+[name="래트킹"]   많은 이들이 늘 그 점을 까먹어서 비참하게 죽는단 말이지. 자네는 특별대우를 받고 있다 생각해주시게.
 
 [name="莫斯提马"]   你杀了老板，这件事不会这么简单地过去喔？
 [name="モスティマ"]   貴方がボスを殺したんだね。今回のこと、タダで済むと思う？
 [name="Mostima"]   You killed the boss. You think that'll just blow over?
+[name="모스티마"]   당신이 보스를 죽인 일은 그렇게 쉽게 넘어갈 수 없을 텐데?
 
 [name="鼠王"]   呵呵，我心里明白。
 [name="鼠王"]   フォッフォッフォ、無論わかっておるとも。
 [name="Rat King"]   Heh heh. It's all very clear to me.
+[name="래트킹"]   허허허, 물론 알고 있네.
 
 [name="鼠王"]   企鹅物流和他们的主人过于目中无人了，龙门在变化，不能总由着他们为所欲为。
 [name="鼠王"]   ペンギン急便と彼らの主人は、傍若無人に振る舞い過ぎたのだ。龍門は常に変化しておる。いつまでも彼らの好き放題にされては困るのでな。
 [name="Rat King"]   The owner of Penguin Logistics has always acted so prideful, as if above everyone else. But Lungmen is changing. She cannot allow this to continue.
+[name="래트킹"]   펭귄 로지스틱스와 그 주인은 너무 안하무인이란 말이지. 용문은 변하고 있네, 언제까지나 그들 멋대로 활개치게 놔둬서야 되겠는가.
 
 [name="鼠王"]   他们欠缺一个教训，稍微严厉一些的教训。
 [name="鼠王"]   彼らには罰が足りなかったのだ。少し厳しい罰がな。
 [name="Rat King"]   They needed to be taught a lesson. And a very harsh one at that.
+[name="래트킹"]   그들에겐 교훈을 줄 필요가 있네. 약간 엄하게 말이지.
 
 [name="莫斯提马"]   过河拆桥的事情做多了，会遭到报应的。
 [name="モスティマ"]   恩を仇で返すようなことをやりすぎるとバチが当たるよ。
 [name="Mostima"]   There's always a comeuppance when you bite the hand that feeds.
+[name="모스티마"]   토사구팽이라고 알지? 그러다 언제 진짜로 벌 받는다.
 
 [name="莫斯提马"]   你借企鹅物流的手做了那么多事......
 [name="モスティマ"]   貴方はペンギン急便の手を借りて色々してきたでしょう……。
 [name="Mostima"]   You've done so much with the help of Penguin Logistics...
+[name="모스티마"]   당신은 펭귄 로지스틱스의 손을 빌려서 그렇게나 많은 짓을 해놓곤……
 
 [name="莫斯提马"]   等等，你一开始就打算这么做？
 [name="モスティマ"]   待って、もしかして最初からこうするつもりだった？
 [name="Mostima"]   Wait, were you planning this from the very beginning?
+[name="모스티마"]   잠깐, 설마 처음부터 이럴 셈이었던 건가?
 
 [name="鼠王"]   谁知道呢。
 [name="鼠王"]   それはどうかの。
 [name="Rat King"]   Who knows?
+[name="래트킹"]   과연 어떨 것 같나?
 
 [name="莫斯提马"]   不可能的吧，你对自己应该扮演的角色拿捏得那么好。嗯，起码比我好。
 [name="モスティマ"]   ありえないよね、貴方は自分の役どころを把握してるはずだから。うん、少なくとも私よりはね。
 [name="Mostima"]   Couldn't be. Your whole act is way too good. Or, at least it's better than mine.
+[name="모스티마"]   그럴 리가 없겠지. 자기 역할을 그렇게나 잘 파악하다니. 으음, 적어도 나보단 잘 파악하는 거 같은데.
 
 [name="鼠王"]   呵呵......你真的很聪明。
 [name="鼠王"]   フォッフォッ……。お主は本当に賢いな。
 [name="Rat King"]   Heh heh... you really are impressively clever.
+[name="래트킹"]   허허…… 정말 똑똑하구먼그래.
 
 [name="鼠王"]   火焰在响应你的意志，你这是打算把我送进墓地里吗？
 [name="鼠王"]   その火炎がお主の意志に反応しているのは、ワシを墓地送りにしようとしているからかな？
 [name="Rat King"]   The flames react to your will. Will you put me in the ground tonight?
+[name="래트킹"]   그 화염이 자네의 의지에 반응하는 건, 자네가 나를 무덤으로 보내려 하고 있는 거라고 생각해도 되겠나?
 
 [name="莫斯提马"]   怎么会呢。
 [name="モスティマ"]   それはないよ。
 [name="Mostima"]   How could I?
+[name="모스티마"]   에이 설마.
 
 [name="莫斯提马"]   我可是非常尊老爱幼的。
 [name="モスティマ"]   私は老人を敬っているからね。
 [name="Mostima"]   I respect my elders, and care for the young.
+[name="모스티마"]   내가 노인 공경을 얼마나 잘하는데.
 
 [name="能天使"]   莫斯提马！
 [name="エクシア"]   モスティマ！
 [name="Exusiai"]   Mostima!
+[name="엑시아"]   모스티마!
 
 [name="德克萨斯"]   等等，能天使，被包围的是我们，不要打乱阵型。
 [name="テキサス"]   待て、エクシア。私たちはまだ囲まれているんだ。陣形を乱すな。
 [name="Texas"]   Woah, Exusiai! We're the ones who are surrounded. Don't break formation!
+[name="텍사스"]   엑시아, 기다려. 우린 아직 포위되어 있다. 진형을 흐트러뜨리지 마.
 
 [name="能天使"]   嘁——！稍等！我马上就过来！
 [name="エクシア"]   ちぇーっ！　ちょっと待ってて！　すぐ行くから！
 [name="Exusiai"]   Hold on! I'm coming!
+[name="엑시아"]   으으으…칫! 조금만 기다려! 금방 갈 테니까!
 
 [name="可颂"]   这些家伙混在普通市民之间，完全没法好好战斗啊！
 [name="クロワッサン"]   コイツら、一般市民の中に紛れるんがうますぎて、こんなんで戦うんは無理やで。
 [name="Croissant"]   They're all mixed in with the normal folk. This ain't no way to fight!
+[name="크루아상"]   점마들, 시민들 사이에 섞여 있어가 이대론 못 싸우겠다!
 
 [name="拜松"]   这都是什么和什么啊......
 [name="バイソン"]   もうなにがなんだか……。
 [name="Bison"]   What is going on...?
+[name="바이슨"]   대체 뭐가 어떻게 돌아가는 건지……
 
 [name="可颂"]   拜松，别发呆啊，你挡着我了！快闪开！
 [name="クロワッサン"]   バイソンはん、ボケっとしとらんと、ちょいとそこ邪魔やで！　退いてくれんか？
 [name="Croissant"]   Bison, don't just sit there like a bump on a log. Yer in my way! Move it!
+[name="크루아상"]   바이슨, 정신 똑바로 안 차리나! 내 길 막지 말고 좀 비키라!
 
 [name="拜松"]   每个人都是，各顾各的，就这样该怎么......
 [name="バイソン"]   誰もが自分のことばかり。こんなんじゃどうすれば……。
 [name="Bison"]   They're all... it's all... how can I...?
+[name="바이슨"]   다들 싸우느라 정신이 없는데, 대체 어떻게 하면 좋지……
 
 [name="拜松"]   ......算了。
 [name="バイソン"]   ……もういいや。
 [name="Bison"]   ...I can't.
+[name="바이슨"]   ……에라 모르겠다.
 
 [name="拜松"]   既然总是这样，那就，各按各的来吧。
 [name="バイソン"]   いつもこんなことになるなら、それで行こう。
 [name="Bison"]   All right. If that's how it has to be, we'll do it their way.
+[name="바이슨"]   기왕 이렇게 된 거, 이판사판이다!
 
 [name="拜松"]   听得见吗？
 [name="バイソン"]   ねぇ、聞こえてる？
 [name="Bison"]   Can you hear me?
+[name="바이슨"]   내 말 들려?
 
 [name="空"]   通讯？给谁的？
 [name="ソラ"]   通信？　誰に向かって？
 [name="Sora"]   A message? For who?
+[name="소라"]   통신? 누구한테 하는 통신이지?
 
 [name="德克萨斯"]   小心。
 [name="テキサス"]   気を付けろ。
 [name="Texas"]   Careful.
+[name="텍사스"]   조심해.
 
 [name="德克萨斯"]   专心点，空。
 [name="テキサス"]   集中しろ、ソラ。
 [name="Texas"]   Focus, Sora.
+[name="텍사스"]   집중해라, 소라.
 
 [name="空"]   好、好的！
 [name="ソラ"]   わ、わかりました！
 [name="Sora"]   O- okay!
+[name="소라"]   아, 알았어요!
 
 [name="拜松"]   你在的，对吧？一直都在。
 [name="バイソン"]   いるんでしょ？　ずっと。分かってるよ。
 [name="Bison"]   You're here, aren't you? You always have been.
+[name="바이슨"]   계속 있었던 거지? 알고 있었어.
 
 [name="管家"]   少爷......我......
 [name="執事"]   バイソン様……私は……。
 [name="Butler"]   Young Master... I...
+[name="집사"]   바이슨 도련님…… 저는……
 
 [name="拜松"]   我不怪你，多半是父亲多管闲事吧。但是现在，你得帮我一把。
 [name="バイソン"]   知ってるよ。責めたりなんかしない。どうせ父さんからの指示なんでしょ。だけど今は、ぼくの指示を聞いてもらうよ。
 [name="Bison"]   I don't blame you. I'm sure it was all my father's machinations. But right here, right now, I need you to help me.
+[name="바이슨"]   어차피 아버지 지시 때문에 그런 거 다 아니까 뭐라 하진 않을게. 하지만 지금은, 날 좀 도와줘.
 
 [name="管家"]   ......明白了，少爷请吩咐。
 [name="執事"]   ……承知いたしました。どうぞ何なりとお申し付けを。
 [name="Butler"]   ...Of course. Give me your instructions, Young Master.
+[name="집사"]   ……알겠습니다. 분부 내려주십시오.
 
 [name="拜松"]   眼前这仗势，还用吩咐什么？
 [name="バイソン"]   こんな状況なんだから、言うまでもないよ。
 [name="Bison"]   You really think this is a time for instructions?
+[name="바이슨"]   상황이 이 지경인데 분부는 무슨!
 
 [name="拜松"]   把他们打飞就完事了。
 [name="バイソン"]   奴ら全員ぶっ飛ばせばいいんだ！
 [name="Bison"]   Just send them flying.
+[name="바이슨"]   이놈들을 전부 쓸어버려!
 
 [name="管家"]   竟然会从少爷的嘴里听到这样的命令。
 [name="執事"]   まさかバイソン様の口からこのような命令をお聞かせ頂けるとは。
 [name="Butler"]   To hear such an order from the mouth of the Young Master...
+[name="집사"]   설마 도련님 입에서 그런 명령이 나올 줄이야…
 
 [name="管家"]   容我替老爷问一句，为什么？
 [name="執事"]   旦那様の代わりにお聞きしましょう。「理由は？」と。
 [name="Butler"]   Allow me to advocate for the Master of the House and ask: why?
+[name="집사"]   혹시 괜찮으시다면, 그 이유나 명분을 제가 여쭤보아도 괜찮겠습니까?
 
 [name="拜松"]   ......我哪管那么多为什么！可颂姐，让一下！
 [name="バイソン"]   ……理由なんかどうでもいいよ！　クロワッサンさん、ちょっとどいて！
 [name="Bison"]   Who gives a shit why? Out of my way, Croissant!
+[name="바이슨"]   ……이유고 명분이고 이젠 다 집어치우라고! 크루아상 누나, 잠깐 비켜주세요!
 
 [name="可颂"]   啊？
 [name="クロワッサン"]   なんや？
 [name="Croissant"]   Huh?
+[name="크루아상"]   뭐꼬?
 
 [name="可颂"]  噢噢——
 [name="クロワッサン"]  おっとっと——。
 [name="Croissant"]  Ooh...
+[name="크루아상"]  어어어어???
 
 [name="拜松"]   喝啊——
 [name="バイソン"]   はあ——っ！
 [name="Bison"]   Haaagh!
+[name="바이슨"]   하아아앗!!!!
 
 [name="可颂"]   撞、撞飞了！？这下不是和我的定位重合了嘛！
 [name="クロワッサン"]   おっ、敵をどつき飛ばしたんか！？　ええで、ウチの立ち位置奪ってみい！
 [name="Croissant"]   He- he knocked 'em into the air?!  That ain't how I do things!
+[name="크루아상"]   부, 부딪쳐서 날려버린 기가? 니 그라믄 내랑 포지션 겹친다 안 카나!
 
 [name="管家"]   嗯......就结果而言，老爷应该会满意的，但少爷继续这样......真的不会被企鹅物流带偏吗？
 [name="執事"]   フム……結果から言えば、旦那様は満足されるでしょう。ただ、バイソン様がこのままですと……ペンギン急便色に染まる可能性がありますな。
 [name="Butler"]   Hm... the Master of the House should be pleased with this result. But should the Young Master continue in this way... I worry he may find himself corrupted by Penguin Logistics.
+[name="집사"]   흠…… 일단 주인님께서도 만족하실 것 같긴 합니다만, 도련님께서 계속 이런 식으로 행동하신다면…… 너무 펭귄 로지스틱스에 물들어버리진 않을까 걱정이 되는군요.
 
 [name="管家"]   不......不能继续妨害少爷了，只要少爷觉得可以，那就可以，嗯。
 [name="執事"]   いえ……もうこれ以上、バイソン様の妨害をしてはなりません。バイソン様が良いと仰ればそれで良いのです。
 [name="Butler"]   No... I mustn't obstruct the Young Master any further. If this is the course he believes is correct, then so be it.
+[name="집사"]   그래도…… 이렇게 계속 도련님을 방해하면 안 되겠죠. 도련님께서 괜찮으시다면 그걸로 됐습니다.
 
 [name="黑帮"]   你这小子！乖乖躺下不好吗！一起上！
 [name="マフィア"]   このチビめ！　大人しくやらればいいものの！　野郎共、かかれ！
 [name="Mafioso"]   You little punk! I'll put you in the ground!
+[name="마피아"]   이 꼬맹이가! 얌전히 누워있는 편이 좋을 거다! 얘들아, 가서 조져버려!
 
 [name="拜松"]   ——
 [name="バイソン"]   ——！
 [name="Bison"]   ——
+[name="바이슨"]   ……!
 
 [name="黑帮A"]   被躲开了！？
 [name="マフィアA"]   かわされた！？
 [name="Mafioso A"]   He dodged?!
+[name="마피아A"]   공격이 막히다니?!
 
 [name="黑帮B"]   唔哦、痛！我的棍子被什么东西打飞了！
 [name="マフィアB"]   うわっ、いてぇ！　俺の棒が何かに弾き飛ばされた！
 [name="Mafioso B"]   Yowch! Something knocked my club away!
+[name="마피아B"]   으윽, 아파! 내 몽둥이가 날아갔다! 어디서 날라온 총알이지?
 
 [name="黑帮A"]   小心，有狙击手！
 [name="マフィアA"]   気をつけろ、スナイパーがいる！
 [name="Mafioso A"]   Careful, they got a sniper!
+[name="마피아A"]   조심해라, 저격수가 있다!
 
 [name="拜松"]   给我让开！
 [name="バイソン"]   そこを退いてもらうよ！
 [name="Bison"]   Outta my way!
+[name="바이슨"]   다 비켜!
 
 [name="莫斯提马"]   ......虽然是有在控制力度啦，但你一步都没动过，是不是太不讲理了点？
 [name="モスティマ"]   ……手加減してるとはいえ、貴方はここで微動だにしないなんて、さすがにちょっと理不尽じゃないかい？
 [name="Mostima"]   ...the intensity is under control, but you haven't moved a single step. Isn't that a little unreasonable?
+[name="모스티마"]   ……내가 적당히 봐주고 있어서라고는 해도, 미동조차 안 하는 건 좀 예의가 아니지 않아?
 
 [name="鼠王"]   站着不动，也不代表自己很轻松啊。
 [name="鼠王"]   なに、立ってるだけだといっても、楽だとは限らないのじゃよ。
 [name="Rat King"]   When one stands unmoving, that does not mean one is relaxed.
+[name="래트킹"]   서서 가만히 있는 게 꼭 편한 자세는 아니지.
 
 [name="莫斯提马"]   在龙门真的有什么可以打败你吗？
 [name="モスティマ"]   この龍門で貴方を打ち負かせるものなんて、本当にあるの？
 [name="Mostima"]   Is there anything in Lungmen that can defeat you?
+[name="모스티마"]   이 용문에 진짜로 당신을 쓰러뜨릴 수 있는 게 있기는 한 거야?
 
 [name="鼠王"]   有啊，“龙门”可以。
 [name="鼠王"]   無論だ。「龍門」なら。
 [name="Rat King"]   Yes. "Lungmen" can.
+[name="래트킹"]   물론이네, '용문'이라면 날 쓰러뜨릴 수 있겠지.
 
 [name="莫斯提马"]   啊，狡猾的回答。
 [name="モスティマ"]   あー、ずるいね。
 [name="Mostima"]   Ooh, what a crafty answer.
+[name="모스티마"]   아~ 능글맞은 대답이네 정말.
 
 [name="鼠王"]   我也是有坚持每天去公园晨练的，上了年纪，保持健康可是很重要的。
 [name="鼠王"]   ワシとて毎日公園で早朝トレーニングを続けておる。歳を取ったら健康維持は重要だからのう。
 [name="Rat King"]   I go to the park to exercise, every morning, without fail. It's important to stay active as I get older.
+[name="래트킹"]   나도 매일 아침 공원에서 훈련을 계속하고 있다네. 나이를 먹을수록 건강 유지를 잘 해줘야 하는 법이거든.
 
 [name="莫斯提马"]   晨练会有这种效果？
 [name="モスティマ"]   早朝トレーニングって、こんな効果があるの？
 [name="Mostima"]   And are these morning exercises effective?
+[name="모스티마"]   아침마다 훈련하는 게 그렇게 효과가 좋은가?
 
 [name="鼠王"]   还要加上一点点人生阅历。
 [name="鼠王"]   ちょっとした人生経験を足せばな。
 [name="Rat King"]   You have to add in a bit of life experience.
+[name="래트킹"]   거기다 인생 경험을 좀 더 더해줘야 효과가 있겠지만.
 
 [name="莫斯提马"]   那两个叙拉古人如何了？
 [name="モスティマ"]   あの二人のシラクーザ人はどうしたの？
 [name="Mostima"]   How are the two Siracusans?
+[name="모스티마"]   아까 그 시라쿠사인 둘은 어떻게 된 거야?
 
 [name="鼠王"]   如何了呢。
 [name="鼠王"]   どうしておるのじゃろう。
 [name="Rat King"]   How are they indeed.
+[name="래트킹"]   무슨 말이 하고 싶은 겐가?
 
 [name="莫斯提马"]   ......真想知道，每天有多少这样见不得光的事情被你悄悄解决了。
 [name="モスティマ"]   ……本当にね、毎日このように闇に葬られた事がいくらあるのか、知りたいものだね。
 [name="Mostima"]   ...I really wonder how many of these invisible problems you quietly solve each and every day.
+[name="모스티마"]   ……매일 얼마나 많은 일들이 어둠 속에서 당신한테 '처리'당하고 있는 건지, 그냥 좀 궁금해져서 말이야.
 
 [name="莫斯提马"]   或者说，你让那些企图染指龙门的人自相残杀了多少次？
 [name="モスティマ"]   それとも「龍門に手を出そうと画策した人同士が殺し合うように仕向けるのは、今回で何回目？」って聞いた方がいい？
 [name="Mostima"]   How many times have you tricked these people into massacring each other rather than let them dip their toes into Lungmen?
+[name="모스티마"]   아니, '용문에 손을 대려 했던 사람들끼리 서로 죽이도록 일을 꾸민 게' 이번으로 몇 번째냐고 물어봐 주는 편이 좋으려나?
 
 [name="鼠王"]   记不清了，孩子。我只记得为了活下去而前仆后继的家伙，远比下水道里的尸体要多，多得多。
 [name="鼠王"]   はっきりとは覚えとらんよ、お嬢ちゃん。ワシが知っているのは、生き抜くために努力を惜しまない奴が、下水道の死体より遙かに多いということだけさ。
 [name="Rat King"]   I don't recall. All I can tell you is that regardless of how many corpses piled up in the sewers, there are always far more people who strive to survive.
+[name="래트킹"]   잘 기억나진 않는군. 내가 기억하는 거라곤 살아남고자 남들을 희생시켜온 놈들이, 하수도에 널린 시체들보단 훨씬 많다는 것 정도라네.
 
 [name="拜松"]   莫斯提马小姐！我来帮——
 [name="バイソン"]   モスティマさん！　今助けに——
 [name="Bison"]   Mostima! I'm here to——
+[name="바이슨"]   모스티마 씨! 지금 도와주러……
 
 [name="看似普通的居民"]   不许再靠近了。你们几个，去帮老大。
 [name="普通そうな住民"]   それ以上近づくのは許さない。お前たち、ボスを助けに行け。
 [name="Seemingly Ordinary Resident"]   That's far enough. You guys, go help the Dai Lo.
+[name="평범해 보이는 주민"]   가까이 가게 놔두지 마라. 너희들, 가서 보스를 도와줘라!
 
 [name="黑帮&路人"]  是！
 [name="マフィア&通りすがりの人"]  はっ！
 [name="Mafioso & Passerby"]  Right!
+[name="마피아&지나가던 사람"]  넵!
 
 [name="拜松"]   怎么会让你得逞！
 [name="バイソン"]   させるか！
 [name="Bison"]   You won't get away with this.
+[name="바이슨"]   그렇게 놔둘까 보냐!
 
 [name="看似普通的居民"]   狙击？小少爷的保镖吗？
 [name="普通そうな住民"]   スナイパーだと？　この坊主のボディーガードか？
 [name="Seemingly Ordinary Resident"]   A sniper? The princeling's bodyguard?
+[name="평범해 보이는 주민"]   저격인가? 저 도련님의 보디가드가 하고 저격하고 있는 건가?
 
 [name="拜松"]   让开！
 [name="バイソン"]   どけ！
 [name="Bison"]   Outta my way!
+[name="바이슨"]   비켜!
 
 [name="看似普通的居民"]   你只是个普通的信使，你不该掺和进来。
 [name="普通そうな住民"]   お前はただのトランスポーターだろうが。余計なことに首を突っ込むな。
 [name="Seemingly Ordinary Resident"]   You're just a regular Messenger. You don't belong here.
+[name="평범해 보이는 주민"]   너 같은 그냥 평범한 전달자는 이 일에 관여하지 않는 편이 좋을 텐데.
 
 [name="拜松"]   信使？没错，我只是个信使。但是我们身后身前的那几位最闹腾的，好像都是信使。
 [name="バイソン"]   トランスポーター？　そう、ぼくはただのトランスポーターさ。だけどね、ぼくたちの周りにいるあの一番騒がしい人たちも、みんなトランスポーターみたいだよ。
 [name="Bison"]   Messenger? That's right, I'm a Messenger. But the ladies behind me and in front of me, making all that noise? They're Messengers too.
+[name="바이슨"]   전달자? 맞아, 난 전달자기는 한데, 내 주위에 있는 제일 시끄러운 이분들도 다 같은 업계 사람들이라서 말이야.
 
 [name="看似普通的居民"]   德克萨斯他们和你不一样，现在退出这场战斗，你还能保全自己。
 [name="普通そうな住民"]   テキサスたちとお前は違う。今この戦場から引けば、まだお前は無事で済むぞ。
 [name="Seemingly Ordinary Resident"]   You're not like Texas and the others. You should leave this battle. Get yourself home safe.
+[name="평범해 보이는 주민"]   저놈들과 넌 다르다. 지금 당장 여기서 빠져나가면, 네 목숨만은 살려주마.
 
 [name="拜松"]   ......你说了算？
 [name="バイソン"]   ……それはあなたが決めること？
 [name="Bison"]   ...you done?
+[name="바이슨"]   ……그걸 왜 네가 정하는데?
 
 [name="看似普通的居民"]   唔——！你还是有点本事的嘛！
 [name="普通そうな住民"]   うっ――！　お前、少しはやるようだな！
 [name="Seemingly Ordinary Resident"]   Nng——! You have some fight in you!
+[name="평범해 보이는 주민"]   크윽! 좀 하는구나!
 
 [name="莫斯提马"]   放手去做就对了！
 [name="モスティマ"]   思いきってやればいいよ！
 [name="Mostima"]   Just do it!
+[name="모스티마"]   바이슨, 마음 가는 대로 움직여, 생각하지 말고!
 
 [name="拜松"]   ——明白！
 [name="バイソン"]   ——はい！
 [name="Bison"]   Right!
+[name="바이슨"]   ……알았어요!
 

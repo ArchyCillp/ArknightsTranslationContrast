@@ -1,560 +1,700 @@
 [name="临光"]   阿米娅，带博士离开。
 [name="ニアール"]   アーミヤ、ドクターを連れて避難しろ。
 [name="Nearl"]   Amiya, take the Doctor with you.
+[name="니어"]   아미야, 박사를 데리고 도망쳐라.
 
 [name="临光"]   ......立刻！
 [name="ニアール"]   ……今すぐにだ！
 [name="Nearl"]   ...Go, now!
+[name="니어"]   …지금 당장!
 
 [name="阿米娅"]   不行！我不能......
 [name="アーミヤ"]   できません！　私は……。
 [name="Amiya"]   No! I won't leave you...
+[name="아미야"]   그럴 수 없어요! 저는…
 
 [name="临光"]   你也感觉到了！她......再这样下去，整个救援队都会葬送在这里！
 [name="ニアール"]   感じるだろう！　奴は……このままでは、我々全員がここで消し炭にされるぞ！
 [name="Nearl"]   Surely, you can feel it as well! She... If you don't leave, the entire rescue team will die here!
+[name="니어"]   너도 느꼈을 거다! 녀석은… 가만히 있으면 여기에서 구조대 전원을 잿더미로 만들어 버릴 거라고!
 
 [name="临光"]   那个塔露拉......
 [name="ニアール"]   あのタルラという奴は……。
 [name="Nearl"]   That Talulah...
+[name="니어"]   저 탈룰라라는 녀석은…
 
 [name="临光"]   她是活生生的怪物！阿米娅！
 [name="ニアール"]   奴は生ける怪物だ！　アーミヤ！
 [name="Nearl"]   She is a living monster! Amiya!
+[name="니어"]   살아있는 괴물이나 다름없어! 아미야!
 
 [name="阿米娅"]   我们一起战斗的话，不会有问题的！
 [name="アーミヤ"]   いえ、私たちも一緒に戦えば、きっと大丈夫です！
 [name="Amiya"]   We'll be fine, as long as we stand together!
+[name="아미야"]   다 함께 힘을 합치면 분명 괜찮을 거예요!
 
 [name="临光"]   那博士呢？你能保证博士的安全吗？
 [name="ニアール"]   ではドクターはどうする？　彼の命を守りきれるのか？
 [name="Nearl"]   What about the Doctor, then? Can you ensure the Doctor's safety?
+[name="니어"]   그럼 박사는 어떻게 할 거지? 박사의 안전을 보장할 수 있나?
 
 [name="阿米娅"]   ......唔......
 [name="アーミヤ"]   ……うう……。
 [name="Amiya"]   ... Hm...
+[name="아미야"]   ……으으……
 
 [name="临光"]   E4小队，我们留在这里断后！
 [name="ニアール"]   E4小隊、ここで敵の足止めを行う！
 [name="Nearl"]   Team E4, we will stay behind and hold the line!
+[name="니어"]   E4 팀은 여기서 적을 붙잡아둔다!
 
 [name="临光"]   一定要让阿米娅和Dr.{@nickname}，以及各个医疗小组安全撤离！
 [name="ニアール"]   アーミヤとDr.{@nickname}、そして医療班が撤退するまで時間を稼ぐぞ！
 [name="Nearl"]   We must ensure that Amiya, Dr {@nickname}, and the Medic teams escape safely!
+[name="니어"]   아미야와 {@nickname} 박사, 그리고 의료팀을 안전하게 퇴각시켜라!
 
 [name="Ace"]   不，交给我和我的小队吧。
 [name="Ace"]   いや、その役は私のチームに任せてくれ。
 [name="Ace"]   No, my squad will handle this.
+[name="에이스"]   아니, 여긴 우리 팀이 맡도록 하지.
 
 [name="临光"]   Ace！现在难道是说这种话的时候吗！
 [name="ニアール"]   Ace！　こんなときに冗談はよせ！
 [name="Nearl"]   Ace! Be rational, now's not the time to argue over this!
+[name="니어"]   에이스! 농담할 때가 아니잖아!
 
 [name="Ace"]   我很冷静。
 [name="Ace"]   こんなときに冗談なぞ飛ばすものか。
 [name="Ace"]   I am rational.
+[name="에이스"]   농담으로 하는 거 아니야.
 
 [name="临光"]   你难道没看到吗，她周围的东西，都在融化！
 [name="ニアール"]   見えないのか、奴の周囲が融解し始めている！
 [name="Nearl"]   Surely you can see it as well - everything around her is melting!
+[name="니어"]   안 보이는 거냐, 녀석의 주변에 있는 게 전부 녹아내리기 시작했다고!
 
 [name="阿米娅"]   我不会留下你们独自战斗的。
 [name="アーミヤ"]   皆さんを残して撤退なんてできません。
 [name="Amiya"]   I'm not going to leave you all here to fight alone.
+[name="아미야"]   여러분만 남겨두고 퇴각할 수는 없어요.
 
 [name="阿米娅"]   罗德岛......绝不会丢下你们的！
 [name="アーミヤ"]   ロドスは……ロドスは皆さんを見捨てることはしません。
 [name="Amiya"]   Rhodes Island... won't abandon you!
+[name="아미야"]   로도스 아일랜드는…… 절대 동료를 버리고 도망치지 않습니다.
 
 [name="杜宾"]   阿米娅，时间宝贵！你必须撤退！
 [name="ドーベルマン"]   アーミヤ、時間を無駄にするな！　撤退だ！
 [name="Dobermann"]   Amiya, time is of the essence! You have to escape!
+[name="도베르만"]   아미야, 이제 시간이 없어! 퇴각한다!
 
 [name="Ace"]   ——你应该信任我们。
 [name="Ace"]   ――私たちを信じてくれ。
 [name="Ace"]   ...You should trust me.
+[name="에이스"]   ……우리를 믿어줬으면 좋겠군.
 
 [name="阿米娅"]   我不能看着罗德岛的任何一个人牺牲！
 [name="アーミヤ"]   私は一人も犠牲にしたくないんです！
 [name="Amiya"]   I can't bear to see Rhodes Island sacrifice anyone!
+[name="아미야"]   단 한 사람도 희생시키고 싶지 않아요!
 
 [name="杜宾"]   想想任务目标，想想我们的目的！
 [name="ドーベルマン"]   作戦の目的を、我々の目的を考えろ！
 [name="Dobermann"]   Think about our goal! Think about what we came here for!
+[name="도베르만"]   왜 이번 임무를 시작했는지 생각해! 우리의 목적을 떠올리라고!
 
 [name="阿米娅"]   不是说这个的时候！
 [name="アーミヤ"]   いえ、これだけは私は受け入れたくありません！
 [name="Amiya"]   This isn't the time to talk about that still!
+[name="아미야"]   지금 그런 얘기를 할 때가 아니잖아요…!
 
 [name="塔露拉"]  ——
 [name="タルラ"]  ――
 [name="Talulah"]  ...
+[name="탈룰라"]  ……
 
 [name="临光"]   ——？热量......在......她手里......聚集？
 [name="ニアール"]   ――？　熱が……奴の手に……集まっていく？
 [name="Nearl"]   --? The heat... is concentrating in her hands?
+[name="니어"]   ……? 열기가…저 녀석의 손에…모이고 있어……
 
 [name="近卫干员"]   她周身的景象......扭曲了？
 [name="前衛オペレーター"]   奴の周りの空間が……歪んでいる？
 [name="Guard"]   Is she... distorting the space around her?
+[name="가드 오퍼레이터"]   녀석의 주변이…… 일그러져 보이는 것 같은데요?
 
 [name="临光"]   不，那是她......加热了周围的空气！
 [name="ニアール"]   いや、あれは周りの空気が……急激に加熱されて陽炎になっているんだ！
 [name="Nearl"]   No, that's... the superheated air around her!
+[name="니어"]   아니, 저건 녀석 주변의 공기가… 뜨거워져 아지랑이가 피어오른 거다!
 
 [name="阿米娅"]   小心，她将要使用的法术......
 [name="アーミヤ"]   気をつけてください！　あのアーツは……。
 [name="Amiya"]   Watch out! She's getting ready to use her Arts...
+[name="아미야"]   주의하세요. 아츠를 쓰려나 봅니다……
 
 [name="阿米娅"]   不对......不对！临光！！快回来！！
 [name="アーミヤ"]   ちが……違う！　ダメ！　ニアールさん！！　早く戻って！！
 [name="Amiya"]   No... You can't! Nearl!! Come back, now!!
+[name="아미야"]   앗… 안 돼! 니어 씨!! 어서 돌아오세요!!
 
 [name="阿米娅"]   那不是......那个法术会把你——
 [name="アーミヤ"]   あれはそんなのじゃない……あのアーツを受けたらあなたは――。
 [name="Amiya"]   That's not her... You'll be killed if you--
+[name="아미야"]   저건… 저 아츠는 당신을…
 
 [name="塔露拉"]  ——安静。
 [name="タルラ"]  ――黙れ。
 [name="Talulah"]  ... Silence.
+[name="탈룰라"]  ……조용히 해.
 
 [name="临光"]   呜呃......！
 [name="ニアール"]   うぐっ……！
 [name="Nearl"]   Uaaaaagh...!
+[name="니어"]   으윽…!
 
 [name="临光"]   哈，哈......
 [name="ニアール"]   がはっ、はぁ……はぁ……グフッ……。
 [name="Nearl"]   Ugh... Gahh...
+[name="니어"]   하아, 하아……
 
 [name="杜宾"]   临光！
 [name="ドーベルマン"]   ニアールさん！
 [name="Dobermann"]   Nearl!
+[name="도베르만"]   니어 씨!
 
 [name="临光"]   咳......退后！我不要紧......
 [name="ニアール"]   くっ……下がれ！　私は…まだ大丈夫…だ……。
 [name="Nearl"]   *cough*... Stay back! Don't worry about me...
+[name="니어"]   큭… 뒤로 물러나! 난 괜찮다…
 
 [name="临光"]   只不过是......有点烫而已......
 [name="ニアール"]   少し……火傷を……した…だけだッ。
 [name="Nearl"]   It's just... a little warm...
+[name="니어"]   조금… 데였을 뿐이다…
 
 [name="杜宾"]   说什么......不要紧？
 [name="ドーベルマン"]   大丈夫……だって？
 [name="Dobermann"]   What are you saying... don't worry?
+[name="도베르만"]   괜찮다고…?
 
 [name="杜宾"]   全身的铠甲没有一块是完好的，究竟哪里不要紧了？！
 [name="ドーベルマン"]   これだけ全身ズタボロにされて、何が大丈夫だ！？
 [name="Dobermann"]   You don't have a single intact piece of armor on you, and you're telling me not to worry? !
+[name="도베르만"]   온몸의 갑옷이 모두 너덜너덜한데 어디가 괜찮다는 거야?!
 
 [name="杜宾"]   你不能再与她战斗了！
 [name="ドーベルマン"]   もうこれ以上戦うな！
 [name="Dobermann"]   You mustn't fight her anymore!
+[name="도베르만"]   더 이상 싸우려하지 마라!
 
 [name="临光"]   我说了——退后！
 [name="ニアール"]   言ったはずだ――下がれ！
 [name="Nearl"]   I already said... Stay back!
+[name="니어"]   물러나라고 했을 텐데!
 
 [name="杜宾"]   临光！你这倔脾气......！
 [name="ドーベルマン"]   ニアール！　この頑固者め……！
 [name="Dobermann"]   Nearl! You stubborn son of a...!
+[name="도베르만"]   니어! 이 고집불통이…!
 
 [name="塔露拉"]   ——哦？
 [name="タルラ"]   ――ハッ。
 [name="Talulah"]   ... Hm?
+[name="탈룰라"]   ……음?
 
 [name="Ace"]   蹲下！
 [name="Ace"]   伏せろ！
 [name="Ace"]   Get down!
+[name="에이스"]   엎드려!
 
 [name="临光"]   咳，咳......又是什么把戏！
 [name="ニアール"]   ゴホッ、ゴホッ……どういうことだ！
 [name="Nearl"]   *cough* *cough*... What is it this time!
+[name="니어"]   콜록, 콜록… 무슨 일이지!
 
 [name="Ace"]   ......不可见的火扫过了我们的头顶。
 [name="Ace"]   ……まるで目に見えない火焔が我々の頭上に広がっていくようだ。
 [name="Ace"]   ... Invisible flames just swept over our head.
+[name="에이스"]   …눈에 보이지 않는 화염이 우리 머리 위에 넓게 퍼지고 있는 것 같다.
 
 [name="Ace"]   后撤。整个街区都在融化......
 [name="Ace"]   撤退するしかない。エリア内のもの全てが溶けていく……。
 [name="Ace"]   Fall back. This entire block is melting...
+[name="에이스"]   퇴각하는 수밖에 없겠군. 이 지역에 있는 모든 것들이 녹아내리고 있어……
 
 [name="Ace"]   别做无谓的牺牲！
 [name="Ace"]   無駄な犠牲を払うな！
 [name="Ace"]   Don't sacrifice yourself in vain!
+[name="에이스"]   무의미한 희생은 그만둬라!
 
 [name="临光"]   ......
 [name="ニアール"]   ……。
 [name="Nearl"]   ...
+[name="니어"]   ……
 
 [name="临光"]   我是在和什么东西战斗？
 [name="ニアール"]   我々は一体どんな怪物と戦っているんだ？
 [name="Nearl"]   Just what monstrosity am I fighting against?
+[name="니어"]   우리가 싸우고 있는 건 대체 어떻게 된 괴물이지?
 
 [name="Ace"]   必须干扰她施术的过程......
 [name="Ace"]   奴のアーツを止めなければ……。
 [name="Ace"]   We have to interrupt her casting somehow...
+[name="에이스"]   어떻게든 녀석이 아츠를 못 쓰게 해야 한다……
 
 [name="Ace"]   狙击干员！瞄准目标敌人！
 [name="Ace"]   狙撃オペレーター！　奴に照準を！
 [name="Ace"]   Snipers, take aim at the enemy!
+[name="에이스"]   스나이퍼! 적을 조준해라!
 
 [name="塔露拉"]   ——
 [name="タルラ"]   ――
 [name="Talulah"]   ...
+[name="탈룰라"]   ……
 
 [name="塔露拉"]   反抗会为大地带去希望。
 [name="タルラ"]   反抗は世界に希望を芽吹かせるが……。
 [name="Talulah"]   Resistance will usher hope into this land.
+[name="탈룰라"]   저항이 대지에 희망을 싹틔울 순 있겠지.
 
 [name="塔露拉"]   但反抗，改变不了你们的命运。
 [name="タルラ"]   しかしそれにお前たちの命運を変える力はない。
 [name="Talulah"]   But resistance... will not change your fate.
+[name="탈룰라"]   하지만 너희의 운명을 바꿀 수는 없어.
 
 [name="Ace"]   射击！！
 [name="Ace"]   撃て！！
 [name="Ace"]   Fire!!
+[name="에이스"]   쏴라!!
 
 [name="塔露拉"]   切尔诺伯格已得解放。
 [name="タルラ"]   チェルノボーグは解放された。
 [name="Talulah"]   Chernobog has already attained liberation.
+[name="탈룰라"]   체르노보그는 해방되었다.
 
 [name="塔露拉"]   我们的工作已经完成，而我对你们产生了些许兴趣。
 [name="タルラ"]   既に我々の目標は達成された………が、お前たちにも少し興味が湧いた。
 [name="Talulah"]   Our work here is done, and your group has proven to be quite interesting.
+[name="탈룰라"]   우리의 목표는 달성했지만, 너희에게 조금 흥미가 생겼어.
 
 [name="杜宾"]   什么——
 [name="ドーベルマン"]   なんだと――
 [name="Dobermann"]   What...
+[name="도베르만"]   뭐라고…?
 
 [name="塔露拉"]   不过，也就仅此而已。
 [name="タルラ"]   だが、それだけだ。
 [name="Talulah"]   However, that is all you are worth.
+[name="탈룰라"]   하지만 그것도 여기까지다.
 
 [name="塔露拉"]   你们做出了错误的选择。
 [name="タルラ"]   お前たちは過ちを犯した。
 [name="Talulah"]   You have chosen poorly.
+[name="탈룰라"]   너희들은 잘못을 범했다.
 
 [name="塔露拉"]   罗德岛，你们该真正站在感染者这边。
 [name="タルラ"]   ロドス、お前たちは真に感染者の側に立つべきだった。
 [name="Talulah"]   Rhodes Island, you should have stood firmly with the Infected.
+[name="탈룰라"]   로도스 아일랜드, 너희들은 진정한 감염자의 편에 서야 해.
 
 [name="医疗干员"]   怎么......回事？
 [name="医療オペレーター"]   どういう……ことですか？
 [name="Medic"]   What's... going on?
+[name="메딕 오퍼레이터"]   어떻게… 된 거죠?
 
 [name="医疗干员"]   为什么整个广场......都被烧焦了？
 [name="医療オペレーター"]   どうして広場全体が……焼け焦げて？
 [name="Medic"]   Why is the entire plaza... getting scorched?
+[name="메딕 오퍼레이터"]   어떻게 광장 전체가… 다 타버린 거죠?
 
 [name="医疗干员"]   刚刚......发生了......什么......？
 [name="医療オペレーター"]   なにが……起きたんですか……？
 [name="Medic"]   What... happened... just now...?
+[name="메딕 오퍼레이터"]   무슨 일이… 벌어진 건가요…?
 
 [name="医疗干员"]   呼......呼吸......好烫......我......
 [name="医療オペレーター"]   い……息をすると喉が焼けるようです……私……。
 [name="Medic"]   I... I can't breathe... it burns...
+[name="메딕 오퍼레이터"]   숨을… 쉬면… 목이 타버릴 것 같아요… 저…
 
 [name="近卫干员"]   石块，弩箭，弓矢......
 [name="前衛オペレーター"]   弓も矢も、石ですら…。
 [name="Guard"]   Rocks, bolts, arrows...
+[name="가드 오퍼레이터"]   돌도, 크로스보우도, 화살도…
 
 [name="近卫干员"]   都没了。
 [name="前衛オペレーター"]   全てが燃え尽きた。
 [name="Guard"]   They're all gone.
+[name="가드 오퍼레이터"]   모조리 타 버렸어.
 
 [name="近卫干员"]   一瞬间......她周围的所有事物，全都都被燃烧殆尽......
 [name="前衛オペレーター"]   一瞬で……奴の周り全てが、灰に……。
 [name="Guard"]   In a heartbeat... every object around her has been reduced to nothingness...
+[name="가드 오퍼레이터"]   순식간에… 저 녀석 주변에 있는 모든 게 다 타 버렸다……
 
 [name="塔露拉"]   你们具备解放者该有的韧性。
 [name="タルラ"]   お前たちは解放者が持つべき素質を持っている……。
 [name="Talulah"]   You have the resilience of liberators.
+[name="탈룰라"]   너흰 해방자가 지녀야 할 소질을 갖고는 있다.
 
 [name="近卫干员"]   ......连渣滓都没剩下。
 [name="前衛オペレーター"]   ……燃えカスすら残ってない。
 [name="Guard"]   ... Not even ashes remain...
+[name="가드 오퍼레이터"]   …재조차 남지 않았어.
 
 [name="临光"]   阿米娅。你很清楚。
 [name="ニアール"]   アーミヤ、わかるだろう。
 [name="Nearl"]   Amiya. You know what must be done.
+[name="니어"]   아미야, 알고 있겠지.
 
 [name="阿米娅"]   ——
 [name="アーミヤ"]   ――
 [name="Amiya"]   ...
+[name="아미야"]   ……
 
 [name="临光"]   必须有人，挡住她。
 [name="ニアール"]   誰かが、奴を止めなければ。
 [name="Nearl"]   Someone... has to stop her.
+[name="니어"]   누군가는, 저 녀석을 막아야 한다.
 
 [name="塔露拉"]   ——但我厌烦了。
 [name="タルラ"]   ――だが、もうここまでだ。
 [name="Talulah"]   ...But I grow tired of this.
+[name="탈룰라"]   …하지만, 마음에 들지 않아.
 
 [name="阿米娅"]   ......
 [name="アーミヤ"]   ……。
 [name="Amiya"]   ...
+[name="아미야"]   ……
 
 [name="临光"]   阿米娅！！
 [name="ニアール"]   アーミヤ！！
 [name="Nearl"]   Amiya!!
+[name="니어"]   아미야!!
 
 [name="塔露拉"]   你们总要为杀害同胞而付出代价。
 [name="タルラ"]   お前たちは同胞を殺めた報いを受けなければならない。
 [name="Talulah"]   This is the price you must pay for slaughtering your fellow Infected.
+[name="탈룰라"]   너희는 동포를 죽인 벌을 받아야 해.
 
 [name="塔露拉"]   我将赐予你们一个我十分喜爱的结局。
 [name="タルラ"]   私が好む結末を贈ってやろう。
 [name="Talulah"]   I shall grant you an ending that I am quite fond of.
+[name="탈룰라"]   너희에게 마지막을 선사하도록 하지, 내가 좋아하는 방법으로.
 
 [name="塔露拉"]   ——毁灭。
 [name="タルラ"]   ――滅せよ。
 [name="Talulah"]   ...Disappear.
+[name="탈룰라"]   ……파멸하라.
 
 [name="杜宾"]   糟了！！
 [name="ドーベルマン"]   まずい！！
 [name="Dobermann"]   Damn it!!
+[name="도베르만"]   위험해!!
 
 [name="杜宾"]   走，走......快走！！
 [name="ドーベルマン"]   行け、早く……行くんだ！！
 [name="Dobermann"]   Run... hurry!!
+[name="도베르만"]   도망쳐, 어서… 도망쳐라!!
 
 [name="杜宾"]   那种热量和规模......不行，不行！
 [name="ドーベルマン"]   あの熱量の大きさは……まずい、まずいぞ！
 [name="Dobermann"]   That amount of heat, at such a scale... No, no!
+[name="도베르만"]   이 엄청난 열기는…… 위험해, 너무 위험하다고!
 
 [name="杜宾"]   保护阿米娅和博士！快！！
 [name="ドーベルマン"]   アーミヤとドクターを守れ！　早く！！
 [name="Dobermann"]   Protect Amiya and the Doctor! Quick!!
+[name="도베르만"]   아미야와 박사를 보호하라! 어서!!
 
 [name="临光"]   来不及了——！
 [name="ニアール"]   間に合わない――！
 [name="Nearl"]   We won't make it...!
+[name="니어"]   늦겠어!
 
 [name="临光"]   让我挡住她！！！
 [name="ニアール"]   私が止める！！
 [name="Nearl"]   I'll block her!!!
+[name="니어"]   내가 막겠다!!
 
 [name="医疗干员"]   啊啊！！
 [name="医療オペレーター"]   ああッ！！
 [name="Medic"]   AAAAAGH!!
+[name="메딕 오퍼레이터"]   아아!!
 
 [name="医疗干员"]   ......
 [name="医療オペレーター"]   ……。
 [name="Medic"]   ...
+[name="메딕 오퍼레이터"]   ……
 
 [name="医疗干员"]   ......嗯？？？
 [name="医療オペレーター"]   ……えっ？？？
 [name="Medic"]   ...Huh???
+[name="메딕 오퍼레이터"]   …어?!
 
 [name="医疗干员"]   阿......阿米娅？
 [name="医療オペレーター"]   ア……アーミヤさん？
 [name="Medic"]   A-Amiya?
+[name="메딕 오퍼레이터"]   아……아미야 씨?!
 
 [name="阿米娅"]   不会让你伤害他们的。
 [name="アーミヤ"]   皆さんを傷つけさせはしません。
 [name="Amiya"]   You will not hurt them.
+[name="아미야"]   여러분을 다치게 할 수는 없어요.
 
 [name="塔露拉"]  ......
 [name="タルラ"]  ……
 [name="Talulah"]  ...
+[name="탈룰라"]  ……
 
 [name="阿米娅"]   我不会......允许你这么做的！
 [name="アーミヤ"]   そんなこと……私が許しません！
 [name="Amiya"]   I will never... allow you to do that!
+[name="아미야"]   그런 일은…… 용납할 수 없습니다!
 
 [name="塔露拉"]   ————哦？
 [name="タルラ"]   ――――ほう？
 [name="Talulah"]   -----Oh?
+[name="탈룰라"]   ……호오?
 
 [name="阿米娅"]   咕......
 [name="アーミヤ"]   ぐっ……。
 [name="Amiya"]   Ngh...
+[name="아미야"]   큭…!
 
 [name="阿米娅"]   必须......让大家......！
 [name="アーミヤ"]   私が……皆さんを……！
 [name="Amiya"]   I must... protect everyone...!
+[name="아미야"]   반드시… 모두를…!
 
 [name="杜宾"]   阿米娅她一个人......挡下了敌人的法术......？
 [name="ドーベルマン"]   アーミヤが一人で……敵のアーツを受け止めているだと……？
 [name="Dobermann"]   Amiya is holding back the enemy's Arts... all by herself...?
+[name="도베르만"]   아미야 혼자서… 적의 아츠를 막아내고 있다고…?
 
 [name="临光"]   不行......那力量太庞大了......！
 [name="ニアール"]   いや無理だ……あのエネルギーは受け止めるには大きすぎる……！
 [name="Nearl"]   It's no good... That power is too tremendous!
+[name="니어"]   안 돼… 저 에너지는 막아내기엔 너무 커…!
 
 [name="临光"]   哪怕是阿米娅......
 [name="ニアール"]   たとえアーミヤであっても……！
 [name="Nearl"]   Even Amiya won't be able to...
+[name="니어"]   아무리 아미야라도…!!
 
 [name="临光"]   哪怕是阿米娅也撑不了多久的！
 [name="ニアール"]   アーミヤであっても長くは保たない！
 [name="Nearl"]   She won't be able to hold out for long!
+[name="니어"]   아무리 아미야라도 오래 버티지는 못해!
 
 [name="医疗干员"]   阿米娅！
 [name="医療オペレーター"]   アーミヤさん！
 [name="Medic"]   Amiya!
+[name="메딕 오퍼레이터"]   아미야 씨!
 
 [name="阿米娅"]   没问题......我没问题......
 [name="アーミヤ"]   大丈夫……私は大丈夫……です。
 [name="Amiya"]   Don't worry... Don't worry about me...
+[name="아미야"]   괜찮아요… 저는 괜찮…
 
 [name="阿米娅"]   我没问题的——！
 [name="アーミヤ"]   大丈夫……ですから！
 [name="Amiya"]   I can handle this...!
+[name="아미야"]   괜찮…으니까요!
 
 [name="阿米娅"]   我要......我必须......保护你们！
 [name="アーミヤ"]   私が……みんなを……守らなきゃ！
 [name="Amiya"]   I want to... I must... protect you all!
+[name="아미야"]   제가… 여러분을… 지켜야 해요!
 
 [name="医疗干员"]   黑色......将敌人的法术封在了广场上......
 [name="医療オペレーター"]   黒い障壁が……敵のアーツを広場に押し留めている……。
 [name="Medic"]   Dark matter... is sealing the enemy's Arts within the plaza...
+[name="메딕 오퍼레이터"]   어두운 무언가가… 적의 아츠를 광장 밖으로 나가지 못하게 억누르고 있어…
 
 [name="阿米娅"]   唔......唔啊......呃......！
 [name="アーミヤ"]   う……うあぁ……ぐっ……！
 [name="Amiya"]   Ngh... Argh... Ughh!
+[name="아미야"]   으… 으아아… 크윽…!
 
 [name="近卫干员"]   阿米娅......她，她设下的屏障，在燃烧！
 [name="前衛オペレーター"]   アーミヤさんが……アーミヤさんの黒い障壁が、燃えている！
 [name="Guard"]   H-her barrier is catching on fire!
+[name="가드 오퍼레이터"]   아미야 씨가… 아미야 씨가 만든 방벽이 불타고 있어!
 
 [name="杜宾"]   阿米娅，不可以！！那样的话，你的戒指——！
 [name="ドーベルマン"]   アーミヤ、ダメだ！！　このままだと、お前の指輪が――！
 [name="Dobermann"]   Amiya, stop!! Your ring will--!
+[name="도베르만"]   아미야, 안 돼! 이대로 가다간 네 반지가…!
 
 [name="阿米娅"]   哪怕......虽然......
 [name="アーミヤ"]   たとえ……それでも……。
 [name="Amiya"]   I don't care... even if...
+[name="아미야"]   만약…… 그렇게 되더라도……
 
 [name="阿米娅"]   博士，对不起——
 [name="アーミヤ"]   ドクター、ごめんなさい――。
 [name="Amiya"]   Doctor, I'm sorry...
+[name="아미야"]   박사님, 죄송해요……
 
 [name="阿米娅"]   哪怕会带来灾难，哪怕我会......！
 [name="アーミヤ"]   たとえ厄災を招くことになっても！　たとえ私のこの身が……！
 [name="Amiya"]   Even if this brings disaster, even if I...!
+[name="아미야"]   만약, 제가 재난을 불러오게 되더라도… 그렇게 되더라도…!
 
 [name="阿米娅"]   我也不能......再看着重要的人......
 [name="アーミヤ"]   私はもう……大切な人を目の前で……。
 [name="Amiya"]   I don't want to lose... the person dearest to me... ever again...
+[name="아미야"]   이제 다시는… 소중한 사람을 눈앞에서…
 
 [name="塔露拉"]   呵————
 [name="タルラ"]   ふっ――――。
 [name="Talulah"]   Heh...
+[name="탈룰라"]   훗……
 
 [name="塔露拉"]   很好。
 [name="タルラ"]   素晴らしい。
 [name="Talulah"]   Very good.
+[name="탈룰라"]   멋지군.
 
 [name="阿米娅"]   啊......啊啊......！！
 [name="アーミヤ"]   あ……ああ……ぁぁぁ！！
 [name="Amiya"]   Aghh... Aaaaaahhh...!!
+[name="아미야"]   아… 아아…!
 
 [name="临光"]   阿米娅！
 [name="ニアール"]   アーミヤ！！
 [name="Nearl"]   Amiya!
+[name="니어"]   아미야!!
 
 [name="临光"]   可恶......再这样下去，阿米娅会......！
 [name="ニアール"]   くそっ……このままだと、アーミヤは……！
 [name="Nearl"]   Damn it... We're going to lose her...!
+[name="니어"]   젠장… 이대로 내버려 두면 아미야가…!
 
 [name="杜宾"]   你要干什么？
 [name="ドーベルマン"]   どうするつもりだ？
 [name="Dobermann"]   What are you doing?
+[name="도베르만"]   뭔가 계획이 있는 건가?
 
 [name="临光"]   去毁掉那个龙女的法术！
 [name="ニアール"]   あの厄介な龍女のアーツを止める！
 [name="Nearl"]   Destroying that she-dragon's Arts!
+[name="니어"]   저 용 뿔 달린 녀석이 아츠를 멈추게 하는 거다!
 
 [name="杜宾"]   你......
 [name="ドーベルマン"]   お前……まさか…。
 [name="Dobermann"]   You...
+[name="도베르만"]   너……
 
 [name="临光"]   ——“卡西米尔的光芒啊，耀骑士将为你奉献自身——”
 [name="ニアール"]   ――「カジミエーシュの光芒よ、耀騎士として我がこの身を捧げよう――」
 [name="Nearl"]   ... "O Light of Kazimierz, the Radiant Knight offers her body to thee..."
+[name="니어"]   "카시미어의 빛이여, 빛의 기사가 당신에게 이 몸을 바치겠나니……"
 
 [name="杜宾"]   博士！快走！我们会帮助阿米娅的，你必须......
 [name="ドーベルマン"]   ドクター！　早く行くんだ！　我々はアーミヤをサポートする。　ドクターは……！
 [name="Dobermann"]   Doctor! Just go! We'll help Amiya, but you have to...
+[name="도베르만"]   박사! 어서 가! 우린 아미야를 도울 테니, 박사는…!
 
 [name="塔露拉"]   ————！
 [name="タルラ"]   ――――！
 [name="Talulah"]   --!
+[name="탈룰라"]   ……!
 
 [name="阿米娅"]   啊啊啊啊啊！！
 [name="アーミヤ"]   あああああ！！
 [name="Amiya"]   Aaaaaaaaghhh!!
+[name="아미야"]   으아아아아!!!
 
 [name="阿米娅"]   唔————？
 [name="アーミヤ"]   うっっ――――？
 [name="Amiya"]   What...?
+[name="아미야"]   아니…?
 
 [name="Ace"]   可以了，阿米娅。
 [name="Ace"]   大丈夫だ、アーミヤ。
 [name="Ace"]   That's enough, Amiya.
+[name="에이스"]   괜찮다, 아미야.
 
 [name="阿米娅"]   ——？！
 [name="アーミヤ"]   ――？　！
 [name="Amiya"]   --?!
+[name="아미야"]   …?!
 
 [name="Ace"]   你已经很了不起了。
 [name="Ace"]   お前はもう、十分頑張った。
 [name="Ace"]   You've done well.
+[name="에이스"]   넌 이미 충분히 노력했어.
 
 [name="Ace"]   把你的重担，也分给我们一些吧。
 [name="Ace"]   お前の苦しみを、俺たちにも分けてくれ。
 [name="Ace"]   Let us share your burden.
+[name="에이스"]   네 고통을, 우리도 함께 짊어지게 해다오.
 
 [name="阿米娅"]   我———
 [name="アーミヤ"]   私は――。
 [name="Amiya"]   I...
+[name="아미야"]   저는……
 
 [name="杜宾"]   阿米娅！
 [name="ドーベルマン"]   アーミヤ！
 [name="Dobermann"]   Amiya!
+[name="도베르만"]   아미야!
 
 [name="Ace"]   杜宾，带他们先走，我一会儿就跟上。
 [name="Ace"]   ドーベルマン！　皆を連れて先に行け、なに安心しろ、すぐに追いつくさ。ニアール！　ここは私に任せて貰おう。
 [name="Ace"]   Dobermann, take her with you. I'll see you soon.
+[name="에이스"]   도베르만! 다들 데리고 먼저 떠나라, 곧 따라가마!
 
 [name="杜宾"]   ......Ace......
 [name="ドーベルマン"]   ……Ace……。
 [name="Dobermann"]   ...Ace...
+[name="도베르만"]   …에이스…
 
 [name="阿米娅"]   Ace......不......Ace......！
 [name="アーミヤ"]   Aceさん……イヤっ……Aceさん……！
 [name="Amiya"]   Ace... No... Ace...!
+[name="아미야"]   에이스 씨… 안 돼요… 에이스 씨…!
 
 [name="阿米娅"]   一定......要............
 [name="アーミヤ"]   絶対に……生きて……。
 [name="Amiya"]   Promise me... that you'll...
+[name="아미야"]   꼭… 살아서…
 
 [name="Ace"]   ——
 [name="Ace"]   ――
 [name="Ace"]   ...
+[name="에이스"]   ……
 
 [name="Ace"]   抱歉，Dr.{@nickname}，你可能不记得我了。
 [name="Ace"]   すまないな、Dr.{@nickname}。俺のことは覚えていないだろうが……。
 [name="Ace"]   I'm sorry, Dr {@nickname}. You might not remember me.
+[name="에이스"]   미안하군, {@nickname} 박사. 날 기억하지는 못하겠지만,
 
 [name="Ace"]   但我记得你，也知道你是怎样的人。
 [name="Ace"]   俺はお前を覚えている…。昔どんなヤツだったのかも。
 [name="Ace"]   But I remember you, and I know what kind of person you are.
+[name="에이스"]   난 널 기억하고 있다. 네가 어떤 사람이었는지도.
 
 [name="Ace"]   ......总有一天，你要和阿米娅一起共同面对这片残酷的大地。
 [name="Ace"]   ……いつか、君とアーミヤでこの残酷な世界と正面から向き合わなければならない日が来るだろう。
 [name="Ace"]   ... There will come a day when you and Amiya will face this cruel land together.
+[name="에이스"]   …언젠가 너와 아미야는 이 잔혹한 대지에 맞서야 할 때가 올 거야.
 
 [name="Ace"]   所以，保护好她，博士。
 [name="Ace"]   だから、彼女は任せたぞ、ドクター。
 [name="Ace"]   That is why... you must cherish her, Doctor.
+[name="에이스"]   그러니, 아미야를 잘 지켜줘, 박사.
 
 [name="Ace"]   走吧。
 [name="Ace"]   そして征け！
 [name="Ace"]   Let's go.
+[name="에이스"]   가라.
 
 [name="Ace"]   祝你们前路无阻。
 [name="Ace"]   君たちの幸運を祈る……。
 [name="Ace"]   Godspeed.
+[name="에이스"]   너희의 앞길이 순탄하길 바라마.
 

@@ -1,248 +1,310 @@
 [name="阿米娅"]   ——就是这样，陈长官。
 [name="アーミヤ"]   ――チェンさん、聞こえますか？　ミーシャさんを保護しましたが……。
 [name="Amiya"]   --That concludes the report, Madam Ch'en.
+[name="아미야"]   ……그렇게 된 거예요, 첸 팀장님.
 
 [name="陈"]   收到。
 [name="チェン"]   …了解した。
 [name="Ch'en"]   Copy.
+[name="첸"]   알겠다.
 
 [name="陈"]   近卫局会保证汇合地点的安全，等候你们护送目标抵达。
 [name="チェン"]   速やかに移送して欲しい。スラム街は危険だ。合流地点の安全は近衛局が保証する。それでは到着を待つ。
 [name="Ch'en"]   The L.G.D. will secure the meeting point and wait for you to escort the target.
+[name="첸"]   합류 지점의 안전은 근위국에서 책임지도록 하지. 도착하길 기다리고 있겠다.
 
 [name="阿米娅"]   明白。
 [name="アーミヤ"]   いえ、その前にミーシャさんを連れていく理由を……。
 [name="Amiya"]   Understood.
+[name="아미야"]   알겠습니다.
 
 [name="阿米娅"]   芙兰卡，把侦查小队绘制的地图给我——
 [name="アーミヤ"]   また切られました……。でも確かにこのままここに居るのは危険ですね。フランカさん、偵察チームが作ってくれた地図を――
 [name="Amiya"]   Franka, bring me the map drawn by the recon squad...
+[name="아미야"]   프란카 씨, 정찰팀이 만들어준 지도를 주시겠어요?
 
 [name="阿米娅"]   嗯，这样就行。
 [name="アーミヤ"]   スラム街を離れるルートはいくつかあるようですね…。
 [name="Amiya"]   Okay, this will do.
+[name="아미야"]   네, 이걸로 문제없을 것 같아요.
 
 [name="阿米娅"]   我们会沿最短路径离开贫民区。
 [name="アーミヤ"]   (どこに向かうかは、チェンさんの返答次第というところでしょうか…。)
 [name="Amiya"]   We will leave the slums using the shortest route.
+[name="아미야"]   제일 빠른 길로 슬럼가를 벗어나겠습니다.
 
 [name="阿米娅"]   （还有其他指示吗，陈长官？）
 [name="アーミヤ"]   チェンさん、もう一度応えてください。ミーシャさんを保護する理由を教えてください…。
 [name="Amiya"]   (Any other orders, Madam Ch'en?)
+[name="아미야"]   (그밖에 지시할 사항이 있으신가요, 첸 팀장님?)
 
 [name="陈"]   动作快点。时间不等人。通话结束。
 [name="チェン"]   今は議論しているより迅速な行動こそが必要だ。時間は待ってくれない。
 [name="Ch'en"]   Just hurry it up. We don't have much time. Over.
+[name="첸"]   신속히 행동해라, 시간은 기다려주지 않으니. 이상이다.
 
 [name="陈"]   ——收队！别磨蹭！！
 [name="チェン"]   ――急いで合流地点まで撤収してくれ！　以上だ。
 [name="Ch'en"]   Formations! Don't drag your feet!!
+[name="첸"]   …철수한다! 꾸물거리지 마라!
 
 [name="陈"]   ......
 [name="チェン"]   ……。
 [name="Ch'en"]   ...
+[name="첸"]   ……
 
 [name="阿米娅"]   ......
 [name="アーミヤ"]   ……。
 [name="Amiya"]   ...
+[name="아미야"]   ……
 
 [name="阿米娅"]   .......呼，挂断了......
 [name="アーミヤ"]   ……あくまで理由を言うつもりはないようです……。
 [name="Amiya"]   ...Phew, she hung up...
+[name="아미야"]   …후우, 끊어졌어요…
 
 [name="芙兰卡"]   也就是说，我们现在要给她跑腿？
 [name="フランカ"]   今のあたしたちは、あの人の使いっ走りってところね。
 [name="Franka"]   In other words, we have to run errands for her now?
+[name="프란카"]   지금 우리… 완전히 저 사람 심부름꾼이 된 느낌인데?
 
 [name="阿米娅"]   毕竟是我们找到了目标......
 [name="アーミヤ"]   よほど私たちに言いたくない事情があるようです……。
 [name="Amiya"]   We're the ones who found the target after all...
+[name="아미야"]   작전 목표인 미샤 씨를 발견했으니까요…
 
 [name="雷蛇"]   （龙门近卫局并没有向我们出示过任何目标的具体资料。）
 [name="リスカム"]   （確かに龍門近衛局は任務目標に対する具体的な資料を何も提示していない。）
 [name="Liskarm"]   (The L.G.D. never gave us any detailed information about the target.)
+[name="리스캄"]   (용문근위국은 작전 목표에 대한 구체적인 자료는 아무것도 주지 않은 상황이야)
 
 [name="雷蛇"]   明明是合作者，却突然向我们告知，被我们发现的感染者有重要作用。
 [name="リスカム"]   でもミーシャさんは近衛局にとって、かなりの重要な人物のようですね。チェン隊長も焦っているようでした。
 [name="Liskarm"]   We were supposed to be collaborating, but they suddenly told us that the individual we found had an important use to them.
+[name="리스캄"]   협력 관계인데, 확보한 감염자가 중요 인물이란 걸 이제 와서 갑자기 전해줄 줄이야.
 
 [name="雷蛇"]   我们缺少了许多关键信息。
 [name="リスカム"]   なのに私たちを駒のように動かすなんて…。
 [name="Liskarm"]   There's a ton of critical information that we haven't been given.
+[name="리스캄"]   중요한 정보들이 많이 빠져있단 얘기겠지.
 
 [name="阿米娅"]   （......近卫局不过多透露信息是理所当然的。）
 [name="アーミヤ"]   （……ウェイさんやチェンさんの態度からして、最初から私たちに機密情報を渡す気はないようですからね。）
 [name="Amiya"]   (...I'm not surprised that the L.G.D. is keeping secrets from us though.)
+[name="아미야"]   (…근위국이 많은 정보를 공개하지 않는 건 당연한 일이에요.)
 
 [name="雷蛇"]   为什么？
 [name="リスカム"]   一体なぜでしょうか？
 [name="Liskarm"]   Why's that?
+[name="리스캄"]   어째서지?
 
 [name="芙兰卡"]   你那聪明脑瓜现在转不过来了？知道太多对罗德岛有什么好处？
 [name="フランカ"]   あなたの素晴らしい脳みそは肝心なときに役に立たないのかしら？　情報を渡さずに命令だけする方が私たちを動かしやすいからよ。
 [name="Franka"]   Aren't you supposed to be smart? What good would come out of Rhodes Island knowing too much?
+[name="프란카"]   당신의 그 훌륭한 머리는 중요할 때 도움이 안 되는 건지~? 정보가 많아 봤자 로도스 아일랜드에 대체 무슨 도움이 된다는 건지~?
 
 [name="雷蛇"]   我只理解知道太少对任务有害。
 [name="リスカム"]   保護対象について何も知らない状態では緊急時に適切な判断ができない。それが重要人物でかつお互いの組織が協力関係にあるなら、こんなの非常識。だけど……。
 [name="Liskarm"]   All I know is that knowing too little is bad for the mission.
+[name="리스캄"]   아는 게 너무 없으면 임무에 지장이 간다는 건 알고 있다.
 
 [name="雷蛇"]   总之，我们得先把米莎护送到汇合地点。
 [name="リスカム"]   アーミヤさん、疑心はまだ残りますが、少なくとも合流地点は近衛局が確保している安全地帯です。ミーシャさんのためにも、まずはそこに向かってはどうでしょうか？
 [name="Liskarm"]   In any case, we'll have to escort Misha to the meeting point first.
+[name="리스캄"]   아무튼, 일단 미샤를 합류 지점까지 데려다줘야 해.
 
 [name="阿米娅"]   路线的选择，唔——
 [name="アーミヤ"]   ……そうですね。わかりました。ミーシャさんのことは気がかりですが、いま我々と龍門の協力関係を崩すわけにはいきません。チェンさんも話せばわかってくれるはずです……。
 [name="Amiya"]   Hmm, which route to take...
+[name="아미야"]   호송 경로는… 으음…
 
 [name="阿米娅"]   又得麻烦他们了。
 [name="アーミヤ"]   でも撤退ルートをどうするか……また彼女たちにお願いしないといけませんね。
 [name="Amiya"]   We'll have to ask another favor from them.
+[name="아미야"]   또 그분들께 도움을 청해야겠네요.
 
 [name="雷蛇"]   你是指？
 [name="リスカム"]   彼女たちというとまさか？
 [name="Liskarm"]   Who?
+[name="리스캄"]   그분들이라니?
 
 [name="阿米娅"]   企鹅物流。
 [name="アーミヤ"]   ペンギン急便です。
 [name="Amiya"]   Penguin Logistics.
+[name="아미야"]   펭귄 로지스틱스 말이에요.
 
 [name="能天使"]   哟，罗德岛的各位~
 [name="エクシア"]   ハロゥー、ロドスのみんな～！
 [name="Exusiai"]   Yo, Rhodes Island~
+[name="엑시아"]   안녕, 로도스 아일랜드 여러분~
 
 [name="能天使"]   任务是不是很快就完成了？“企鹅”的服务如何？
 [name="エクシア"]   もうすぐ任務完了ってところかな？　あたしたち「ペンギン急便」のナイスなサービスは役に立ったかな～？
 [name="Exusiai"]   Are you almost done with your mission? What'd you think about our services?
+[name="엑시아"]   이제 곧 임무 끝나지? '펭귄 로지스틱스'의 서비스는 어때?
 
 [name="芙兰卡"]   ——我就知道。
 [name="フランカ"]   ――やだ…噂をしたらもう来たわ…。
 [name="Franka"]   I knew it...
+[name="프란카"]   …그럴 줄 알았어.
 
 [name="芙兰卡"]   唉......
 [name="フランカ"]   やれやれ……。
 [name="Franka"]   *sigh*...
+[name="프란카"]   어휴…
 
 [name="能天使"]   别这么~垂头丧气的嘛。
 [name="エクシア"]   おんやぁ？　そんなに落ち込んで、どうしたの？
 [name="Exusiai"]   Hey, don't be like that~
+[name="엑시아"]   왜 그렇게 축 처졌어?
 
 [name="能天使"]   是发生什么不开心的事情了？还是说，遇到了什么不喜欢的人？
 [name="エクシア"]   何か嫌なことがあった？　それとも、嫌な人にでも会った？
 [name="Exusiai"]   Did something bad happen? Or, did you meet someone you don't like?
+[name="엑시아"]   무슨 안 좋은 일이라도 있었어? 아니면 싫어하는 사람이라도 만난 거야?
 
 [name="芙兰卡"]   你。
 [name="フランカ"]   ええ、目の前にいま現れたわ…。
 [name="Franka"]   Yeah, you.
+[name="프란카"]   그래, 너.
 
 [name="雷蛇"]   别这么说，没有企鹅物流的情报，罗德岛没法缩小搜索范围——
 [name="リスカム"]   それはさすがに酷いと思う。ペンギン急便の情報がなければ、捜索範囲を絞ることができなかった。
 [name="Liskarm"]   There's no need for that. Without Penguin Logistics' intel, we wouldn't have been able to narrow down our search...
+[name="리스캄"]   그런 말 하지 마라. 펭귄 로지스틱스에서 준 정보가 없었다면, 수색 범위를 좁힐 순 없었을 거야…
 
 [name="雷蛇"]   更不可能那么轻易地掌握有关龙门感染者的各种信息的。
 [name="リスカム"]   しかも、龍門に潜伏する感染者の情報もこれだけ簡単に手に入れるのも難しかったと思う。
 [name="Liskarm"]   Nor would we have been able to get information about Lungmen's Infected population so easily.
+[name="리스캄"]   게다가 용문의 감염자에 대한 정보도 쉽게 얻진 못했을 테고.
 
 [name="能天使"]   这位小姐，多谢夸奖！你还是很识货的！
 [name="エクシア"]   いやぁ～君いいね、ありがとう！　よくわかってるじゃない！
 [name="Exusiai"]   Why thank you for your praise, Miss! You clearly have a discerning taste.
+[name="엑시아"]   역시 이쪽 아가씨가 확실히 잘 아네! 고마워!
 
 [name="阿米娅"]   能天使，我们需要一条比较安全的路线。
 [name="アーミヤ"]   あの、エクシアさん、ここからスラム街を抜ける安全なルートはどれがいいんでしょうか？
 [name="Amiya"]   Exusiai, we'll need you to find a relatively safe route for us.
+[name="아미야"]   엑시아 씨, 안전한 호송 경로를 찾아주셨으면 하는데요.
 
 [name="能天使"]   那我就直接说结论好了。
 [name="エクシア"]   う～ん。じゃあ、結論から言っちゃおうかな。
 [name="Exusiai"]   In that case, I'll get straight to the point.
+[name="엑시아"]   그럼 곧바로 결론부터 말할게.
 
 [name="能天使"]   嗯......哪条都不好走。
 [name="エクシア"]   この地図に書かれたルートは……ぶっちゃけどれも危険かなー。
 [name="Exusiai"]   Hmm... None of these routes are particularly good.
+[name="엑시아"]   사실은… 어느 경로든 다 위험해.
 
 [name="能天使"]   这条，就这条，嗯，请看地图，就是从贫民区中心，向北移动三条街道，然后再向南一路向前，直到离开贫民区。
 [name="エクシア"]   だけど…そうだね。このルート、そう、これなら行ける！みんな地図を見て。スラム街の中心からこう進んで、こう行って、それからスラム街を抜けるまで一直線。
 [name="Exusiai"]   Ah, let's go with this one! Err, look at this map here. Starting from the center of the slums, head three blocks north, then follow this road back south until you reach the exit.
+[name="엑시아"]   이 경로. 그래, 이쪽 길 말이야. 지도 한번 봐. 슬럼가 중심에서 북쪽으로 길을 세 개 가로지르고, 남쪽으로 쭉 가면 슬럼가를 빠져나갈 수 있어.
 
 [name="能天使"]   这就算是，最安全的路线了吧。
 [name="エクシア"]   それが一番安全なルートなんじゃないかなぁ～。
 [name="Exusiai"]   This should probably be the safest route.
+[name="엑시아"]   이게 가장 안전한 경로라고 봐.
 
 [name="能天使"]   然而，就算是这条路上埋伏着的敌人，也够组好几个合唱团了呢。
 [name="エクシア"]   でもね～このルートにだって、いくつも合唱団が組めるくらいの敵が潜んでいるはずだよ。
 [name="Exusiai"]   Even then, there are probably enough enemies along the way to throw a few karaoke parties.
+[name="엑시아"]   다만, 이 길에도 적이 숨어있겠지. 합창단을 만들 수 있을 정도로 많을 거야.
 
 [name="阿米娅"]   敌人？
 [name="アーミヤ"]   …敵ですか？
 [name="Amiya"]   The enemy?
+[name="아미야"]   적이요?
 
 [name="雷蛇"]   看来整合运动确实已经渗透进了龙门。
 [name="リスカム"]   龍門の感染者への対応を見れば、スラム街の感染者の多くがレユニオンの思想に賛同していても不思議ではありません…。
 [name="Liskarm"]   It would appear that Reunion has already infiltrated Lungmen.
+[name="리스캄"]   아무래도, 리유니온이 용문에 잠복해있다는 게 사실인가 보군.
 
 [name="雷蛇"]   能天使小姐，我可不可以理解成，你已经摸清了敌人的分布？
 [name="リスカム"]   もしかしてエクシア、敵の分布を全部把握している？
 [name="Liskarm"]   Miss Exusiai, can I assume that you've already gotten a hold of the enemies' distribution?
+[name="리스캄"]   엑시아, 적이 어디에 배치되어 있는지는 전부 파악되었다고 보면 되나?
 
 [name="能天使"]   嗯嗯！
 [name="エクシア"]   やだなぁ～そんなの当ったり前じゃない！
 [name="Exusiai"]   Mmhm!
+[name="엑시아"]   응!
 
 [name="雷蛇"]   那，他们的行动趋势呢？
 [name="リスカム"]   じゃあ、敵の動きは？
 [name="Liskarm"]   Then, what are their movements like?
+[name="리스캄"]   그럼, 적의 이동 방향은?
 
 [name="能天使"]   正在朝你们靠拢！
 [name="エクシア"]   もっちろん、全周囲からこちらに向けて進軍中だよ。
 [name="Exusiai"]   They're coming right towards you!
+[name="엑시아"]   여기로 오는 중이야!
 
 [name="雷蛇"]   ......
 [name="リスカム"]   ……。
 [name="Liskarm"]   ...
+[name="리스캄"]   ……
 
 [name="芙兰卡"]   ......
 [name="フランカ"]   ……。
 [name="Franka"]   ...
+[name="프란카"]   ……
 
 [name="雷蛇"]   我们被围堵了。
 [name="リスカム"]   も、もう包囲されてるなんて…。
 [name="Liskarm"]   We've been surrounded.
+[name="리스캄"]   포위되었나 보군.
 
 [name="阿米娅"]   首要任务，是把米莎安全带出去。
 [name="アーミヤ"]   ともかく敵を突破して、ミーシャさんを安全にここから連れ出さないと……。
 [name="Amiya"]   Our top priority is to get Misha out safely.
+[name="아미야"]   우선 미샤 씨를 여기서 안전하게 데려가야겠어요.
 
 [name="阿米娅"]   芙兰卡，针对敌人的突袭，就交给你们了。
 [name="アーミヤ"]   フランカさん、敵への牽制をお任せしてもいいですか。
 [name="Amiya"]   Franka, I'm counting on you to stop the enemy ambush.
+[name="아미야"]   프란카 씨, 적을 견제해 주시겠어요?
 
 [name="芙兰卡"]   简单。
 [name="フランカ"]   もちろん。そんなの楽勝よ。
 [name="Franka"]   Easy.
+[name="프란카"]   간단하지.
 
 [name="阿米娅"]   雷蛇，重装小队负责两翼。米莎也交由你保护。
 [name="アーミヤ"]   リスカムさん、重装オペレーターの部隊は本隊の両翼に展開してください。ミーシャさんのこともお願いします。
 [name="Amiya"]   Liskarm, split the defender squad and cover both sides. You'll be in charge of protecting Misha.
+[name="아미야"]   리스캄 씨, 디펜더팀에게 양쪽 날개를 맡길게요. 미샤 씨도 잘 부탁드려요.
 
 [name="雷蛇"]   没问题。
 [name="リスカム"]   分かりました。お任せください。
 [name="Liskarm"]   No problem.
+[name="리스캄"]   문제없어.
 
 [name="能天使"]   对了对了，敌人似乎还带了些术师哦？
 [name="エクシア"]   あ、そうそう。敵さんの中にね、術師っぽいのを見かけたかな？
 [name="Exusiai"]   Oh right, did you know there are also some enemy casters?
+[name="엑시아"]   맞다 맞다, 적이 캐스터도 데려온 것 같던데?
 
 [name="阿米娅"]   ......唔。
 [name="アーミヤ"]   ……えっっ。まさか……。
 [name="Amiya"]   ...Nghh...
+[name="아미야"]   으윽…
 
 [name="阿米娅"]   博士，请牢牢跟在我身边。
 [name="アーミヤ"]   ドクター、私の側を離れないでください！
 [name="Amiya"]   Doctor, please stay close to me.
+[name="아미야"]   박사님, 제 곁에서 떨어지시면 안 돼요.
 
 [name="阿米娅"]   接下来也请你继续指挥小队作战，我会传达你的命令。
 [name="アーミヤ"]   引き続き部隊の指揮をお願いします。命令は私が伝達しますから。
 [name="Amiya"]   Please continue to command the squads. I will relay your orders.
+[name="아미야"]   계속해서 팀을 지휘해 주세요. 명령은 제가 전달할 테니까요.
 
 [name="阿米娅"]   ......我们就走这最安全的路线试试看。
 [name="アーミヤ"]   ……では、エクシアさんのルートに従って移動を開始します！
 [name="Amiya"]   ... Let's try following this safest route then.
+[name="아미야"]   …그럼, 제일 안전한 이 경로를 따라 이동하죠.
 

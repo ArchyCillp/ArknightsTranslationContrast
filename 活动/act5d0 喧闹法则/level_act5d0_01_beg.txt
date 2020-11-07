@@ -1,440 +1,550 @@
 6:44 P.M.    天气/晴
 p.m.6:44 天候/晴天
 6:44 PM \ Clear
+6:44 p.m.    날씨/맑음
 
 龙门绕城公路，车内
 龍門環状道路 車内
 Lungmen Ring Expressway, Car
+용문외곽순환고속도로, 차 안
 
 [name="管家"]   少爷？
 [name="執事"]   バイソン様？
 [name="Butler"]   Young Master?
+[name="집사"]   도련님?
 
 [name="管家"]   少爷，您睡着了？
 [name="執事"]   バイソン様、お休みでございますか？
 [name="Butler"]   Young Master, are you asleep?
+[name="집사"]   도련님, 주무십니까?
 
 [name="拜松"]   唔，抱歉......我们到哪儿了？
 [name="バイソン"]   うぅん……ごめん……。いまどの辺り？
 [name="Bison"]   Hm, oh... Where are we?
+[name="바이슨"]   음…… 미안…… 얼마나 왔어?
 
 [name="管家"]   就快到约定的碰头地点了，请打起精神来，少爷。企鹅物流的诸位已经在等着了。
 [name="執事"]   間もなくお約束の場所に到着いたします。バイソン様、どうかお気をしっかりお持ちください。ペンギン急便の皆様は既にご到着かと存じます。
 [name="Butler"]   We will soon arrive at the rendezvous point. Do clear your head, Young Master. Penguin Logistics is already there waiting for you.
+[name="집사"]   이제 곧 약속 장소에 도착합니다. 도련님, 정신 차리시지요. 펭귄 로지스틱스 분들께서 기다리고 계십니다.
 
 [name="拜松"]   嗯，我知道。
 [name="バイソン"]   うん、わかった。
 [name="Bison"]   Mm. Right.
+[name="바이슨"]   응, 알았어……
 
 [name="管家"]   您看上去很疲惫。
 [name="執事"]   私にはお疲れのように見えますが……。
 [name="Butler"]   You seem exhausted.
+[name="집사"]   많이 피곤하신 것 같습니다.
 
 [name="拜松"]   没有的事。
 [name="バイソン"]   そんなことないよ。
 [name="Bison"]   I'm fine.
+[name="바이슨"]   괜찮아.
 
 [name="管家"]   请原谅我多嘴，但老爷这次的决定实在是有些仓促，如果少爷有什么难处，请务必开口。
 [name="執事"]   差し出たこととは存じますが…。旦那様の今回の決定はあまりにも性急でございます。もし、御心に沿わぬということであれば、遠慮せずお声をあげられるべきかと思います。
 [name="Butler"]   Forgive my indiscretion, Sir, but you do seem to have made this decision in some haste. You know of course that you may at any time share any matters that trouble you.
+[name="집사"]   외람된 말씀이지만, 주인님의 이번 결정은 조금 급한 감이 없지 않군요. 만약 도련님께서 느끼시기에, 불편한 점이 있으시다면 꼭 말씀해 주십시오.
 
 [name="拜松"]   ......父亲，一定有他自己的想法。
 [name="バイソン"]   ……父さんには、父さんの考えがあるんだ。
 [name="Bison"]   ...My father... he definitely has his own ideas.
+[name="바이슨"]   ……아버지께서도 분명 뜻이 있으셔서 그러신 걸 거야.
 
 [name="拜松"]   而且，只要能在企鹅物流有所作为，父亲身边的那些人，说不定就不会再阻拦我了。
 [name="バイソン"]   それに、ペンギン急便さんのところで成果をあげさえすれば、父さんの周りの人たちだって、二度とぼくに口出しできなくなるかもしれない。
 [name="Bison"]   But all I have to do is get Penguin Logistics on board. Then those guys won't be able to get between me and my father ever again.
+[name="바이슨"]   그리고 펭귄 로지스틱스에서 뭔가 성과를 낼 수 있다면, 아버지 곁에 있는 그 사람들도 더는 나한테 뭐라 못 하겠지.
 
 [name="管家"]   少爷是家族有史以来最年轻的信使，您的工作能力无可挑剔，这就足够了。
 [name="執事"]   バイソン様は当家の中でも歴代最年少でトランスポーターになられた御方。十分な職務遂行能力を持つ優秀な人物であることは、この私が保証いたします。
 [name="Butler"]   You are the youngest Messenger in the history of your family, Young Master. You perform all of your duties impeccably. Surely that will be enough.
+[name="집사"]   도련님께서는 가문 역사상 가장 젊은 전달자이십니다. 이미 업무 능력은 흠잡을 데가 없으시니, 그걸로 충분합니다.
 
 [name="拜松"]   也许吧，但是，那些大人们未必会这么想。
 [name="バイソン"]   かもね。でも、あの大人たちは、まだそう思ってくれていないと思うよ。
 [name="Bison"]   Maybe. But who knows if they'll feel the same way.
+[name="바이슨"]   그럴지도 모르지. 하지만 그 어른들은 그렇게 생각하지 않잖아.
 
 [name="管家"]   少爷......
 [name="執事"]   バイソン様……。
 [name="Butler"]   Young Master...
+[name="집사"]   도련님……
 
 [name="拜松"]   看看窗外，现在龙门大半的民营信使业务已经落到了父亲的手里。
 [name="バイソン"]   外を見てよ。この龍門では、民間のトランスポート業務の大半が父さんの掌中にあるよね。
 [name="Bison"]   Looking out at the city, all I can think about is how almost all of Lungmen's Messenger firms belong to my father.
+[name="바이슨"]   밖에 좀 봐봐. 용문의 민영 전달자 사업 중 절반 이상이 이미 아버지의 손에 들어왔는데…
 
 [name="拜松"]   企鹅物流，他们是最后的，也是最独立的，奇怪传闻最多的公司。
 [name="バイソン"]   そして、最後に残ったのが、どこにも属さず、最も奇妙な噂が多い会社——ペンギン急便。
 [name="Bison"]   Penguin Logistics is the last. And the most independent. And the one with a ton of weird rumors swirling around it.
+[name="바이슨"]   가장 마지막까지 남은, 가장 독립적이고, 가장 수상한 소문이 많은 회사, 펭귄 로지스틱스……
 
 [name="拜松"]   虽然父亲和大帝先生的关系好像很好，可我们必须了解他们，至少我得这么做。
 [name="バイソン"]   父さんとエンペラーさんの関係は良好みたいだけど、ぼくたちはこれからだからね。これからペンギン急便さんを理解していかないといけない。
 [name="Bison"]   My father gets along pretty well with Mr. Emperor, but we have to do more to really get them. Or at least I do.
+[name="바이슨"]   아버지와 엠퍼러 씨의 관계는 좋은 거 같긴 하지만…… 그래도 펭귄 로지스틱스에 대해선 반드시 알아봐야 해. 최소한 나라도……
 
 [name="管家"]   所以我才会担心少爷，企鹅物流太过于特殊了，我很清楚。
 [name="執事"]   私としてはバイソン様の御身が心配でございます。ペンギン急便はあまりにも特殊なところだと聞き及んでおりますゆえ。
 [name="Butler"]   That is why I worry, Young Master. I am well aware Penguin Logistics is a most peculiar organization.
+[name="집사"]   그래서 제가 도련님을 걱정하는 것입니다. 펭귄 로지스틱스는 너무 특수합니다. 제가 잘 알아요.
 
 [name="拜松"]   你不用总摆出这么一副表情。我可以自己处理好。
 [name="バイソン"]   そんな顔をするのはやめてよ。このぐらい自分で何とか出来るさ。
 [name="Bison"]   Don't look at me like that. I got this.
+[name="바이슨"]   그런 표정 짓지 마. 혼자서도 할 수 있어.
 
 [name="管家"]   您也是，少爷。多像同龄人一样笑一笑吧。
 [name="執事"]   それは私からも申し上げたい事でございます。今のお顔を鏡でお見せしたいぐらいです。貴方様には、もっと同じ年頃の皆様と同じように笑って頂きたい。
 [name="Butler"]   You might change your expression as well, Young Master. Perhaps if you smiled more, like the boys your age.
+[name="집사"]   도련님이야 말로요. 또래들처럼 좀 웃어보세요.
 
 [name="管家"]   今晚是安魂夜，您本可以和朋友们一起去街上逛逛。
 [name="執事"]   今宵は安魂夜です。本来でしたら貴方様も、ご友人らと街に出ても良いかと存じます。
 [name="Butler"]   It's Sauin tonight. You could go out on the town with your friends.
+[name="집사"]   오늘 밤은 '서우인'이니, 친구들과 같이 거리를 거닐 수도 있으셨을 텐데요.
 
 [name="拜松"]   ......你是在嘲笑我没朋友吗？
 [name="バイソン"]   ……いま、ぼくに友達がいないってバカにした？
 [name="Bison"]   ...real funny. Me not having friends is a joke to you, huh?
+[name="바이슨"]   ……지금 나 친구 없다고 놀리는 거지?
 
 [name="管家"]   岂敢，岂敢，哈哈哈。
 [name="執事"]   フッ、お戯れを。まさか私がそのようなことを。
 [name="Butler"]   Heavens no! Perish the thought! Haha.
+[name="집사"]   그럴 리가요. 허허허.
 
 [name="管家"]   抱歉，少爷，您的盾还在手边吗？
 [name="執事"]   ところでバイソン様、お手元に盾はお持ちでしょうか？
 [name="Butler"]   Dreadfully sorry, Young Master. Do you have your shield with you?
+[name="집사"]   죄송합니다만, 도련님. 방패 아직 가지고 계십니까?
 
 [name="拜松"]   怎么？
 [name="バイソン"]   どうしたの？
 [name="Bison"]   What's up?
+[name="바이슨"]   왜?
 
 [name="管家"]   我们被盯上了。
 [name="執事"]   狙われております。
 [name="Butler"]   I'm afraid we're being watched.
+[name="집사"]   누군가 우리를 노리고 있습니다.
 
 [name="甘比诺"]   发现目标，准备好了吗？
 [name="ガンビーノ"]   ターゲット発見。おい、準備はいいか？
 [name="Gambino"]   Target sighted. You ready?
+[name="감비노"]   목표 발견. 준비는 됐나?
 
 [name="黑帮"]   呃，引爆组的导火索似乎有点短......
 [name="マフィア"]   おう、起爆装置の導火線が少し短いようだが……。
 [name="Mafioso"]   Gah, this fuse is still all...
+[name="마피아"]   어…… 폭파장치의 도화선이 조금 짧은 것 같습니다……
 
 [name="甘比诺"]   那不是问题，动手。
 [name="ガンビーノ"]   問題ねぇ。やれ！
 [name="Gambino"]   Just do it already.
+[name="감비노"]   상관없어. 실행 해.
 
 [name="拜松"]   唔——爆炸！？
 [name="バイソン"]   うっ――爆発！？
 [name="Bison"]   Nng... an explosion?!
+[name="바이슨"]   큭…… 폭발?!
 
 [name="管家"]   少爷，抓稳了——
 [name="執事"]   バイソン様、しっかりお掴まり下さい——。
 [name="Butler"]   Hold on, Young Master!
+[name="집사"]   도련님, 꽉 잡으십시오!
 
 [name="黑帮"]   发现目标，还活着。
 [name="マフィア"]   ターゲットを確認。まだ生きてるな。
 [name="Mafioso"]   Target sighted. He's still up.
+[name="마피아"]   목표 발견. 아직 살아있습니다.
 
 [name="甘比诺"]   把他带走，动作快。
 [name="ガンビーノ"]   奴を連れていくぞ、急げ。
 [name="Gambino"]   Bring him in. Quick.
+[name="감비노"]   놈을 데려간다. 서둘러.
 
 [name="拜松"]   （居然炸毁了公路.....？到底，是谁......）
 [name="バイソン"]   （まさかこんな公道を爆破するなんて……　いったい誰が……。）
 [name="Bison"]   (They bombed out the road...? But who...?)
+[name="바이슨"]   (고속도로를 폭파했다고…? 대체, 누가……)
 
 [name="拜松"]   （该死，视野......看不清......）
 [name="バイソン"]   （まずい、視界が……何も見えない……。）
 [name="Bison"]   (Shit... my vision's... all blurry...)
+[name="바이슨"]   (젠장, 앞이…… 안 보여……)
 
 [name="甘比诺"]   情况怎么样？
 [name="ガンビーノ"]   状況はどうだ？
 [name="Gambino"]   Report.
+[name="감비노"]   상황은?
 
 [name="黑帮"]   目击者很多，但没有看见其他目标人员。
 [name="マフィア"]   野次馬が多いな。だが他のターゲットが見当たらねぇ。
 [name="Mafioso"]   Lots of witnesses, but I don't see the other targets.
+[name="마피아"]   목격자는 많은데, 다른 타겟은 보이지 않습니다.
 
 [name="黑帮"]   等等，烟雾里还有其他人！
 [name="マフィア"]   待て、煙の中にまだ人がいる！
 [name="Mafioso"]   Hold up, there's somebody in the smoke there!
+[name="마피아"]   잠깐, 연기 속에 누군가 있습니다!
 
 [name="甘比诺"]   还有幸存者？那就一起——
 [name="ガンビーノ"]   まだ生きてる奴がいんのか？　なら一緒に——。
 [name="Gambino"]   Another survivor? You gotta-
+[name="감비노"]   아직 생존자가 남았나? 그럼 같이……
 
 [name="黑帮"]   唔呃——
 [name="マフィア"]   うぁッ——！
 [name="Mafioso"]   Nnng...
+[name="마피아"]   으윽……
 
 [name="甘比诺"]   喂？喂！
 [name="ガンビーノ"]   おい？　おいっ！　どうした？
 [name="Gambino"]   Hey? Hey!
+[name="감비노"]   뭐야? 무슨 일이야!
 
 [name="甘比诺"]   这么简单就被干掉了？
 [name="ガンビーノ"]   ケッ、こんなに簡単にやられんなよ。
 [name="Gambino"]   You got whacked that easy?
+[name="감비노"]   이렇게 쉽게 당해버리다니…
 
 [name="甘比诺"]   嘁，我可不喜欢这么老套的电影戏码。
 [name="ガンビーノ"]   こんな古くせぇ映画みたいな展開には虫唾が走るぜ。
 [name="Gambino"]   Talk about a hackneyed mob movie plot,
+[name="감비노"]   제길, 이렇게 뻔한 스토리는 별론데.
 
 [name="甘比诺"]   企鹅物流。
 [name="ガンビーノ"]   なあ、ペンギン急便さんよォ。
 [name="Gambino"]   Penguin Logistics.
+[name="감비노"]   펭귄 로지스틱스.
 
 [name="？？？"]   哟，看来你很清楚嘛。
 [name="？？？"]   ありゃ、バレちゃってたか。
 [name="???"]   Ooh, sounds like you passed Screenwriting 101.
+[name="???"]   헤에~! 잘 아네~!
 
 [name="能天使"]  不过在我看来，在边郊公路中央设置路障再埋下炸弹，这手法也是相当复古哦？
 [name="エクシア"]  いやでもさぁ、道路の真ん中にバリケードを置いてから爆弾付けるなんて、そっちのやり方もだいぶレトロな感じじゃない？
 [name="Exusiai"]  But like, throwing up a roadblock on a suburban highway and burying a bomb on the side there. Isn't that also really cliche?
+[name="엑시아"]  근데 말이야, 이런 변두리 도로의 중앙 바리케이드에 폭탄을 묻어놓는 건 너무 뻔하지 않아?
 
 [name="甘比诺"]   爆破只是个人爱好，环顾一下你的周围，事情没这么简单。
 [name="ガンビーノ"]   爆破はただの俺の趣味だ。それよりお前、周りを見てみな。それだけじゃねぇんだぜ。
 [name="Gambino"]   Demolition's just a hobby of mine. Take a look around and I think you'll find things ain't so simple.
+[name="감비노"]   폭파는 개인적인 취향일 뿐이야. 그것보다 주위를 좀 보는 게 어때, 쉽게 끝나진 않을 거다.
 
 [name="卡彭"]   该死，那个蠢货竟然用了这么多源石炸药，如果让鼠王知道了，我们吃不了兜着走。
 [name="カポネ"]   クソ、あのバカ、よりによって源石爆弾をこんなに使いやがって。もし鼠王にでも知られたら、俺たちもタダじゃ済まねぇってのに。
 [name="Capone"]   Damn. How much Originium did that mook use in his bomb? The Rat King'll have our balls for breakfast if he finds out.
+[name="카포네"]   젠장, 이 멍청이가! 오리지늄 폭탄을 이렇게 많이 쓰면 어쩌잔 거야. 래트킹이 알면 어쩔라 그래!
 
 [name="黑帮"]   发现企鹅物流的信使，是能天使。她把爆破组的人都给......
 [name="マフィア"]   ペンギン急便のトランスポーターを発見。あれはエクシアですね。奴が爆破チームを全員……。
 [name="Mafioso"]   We found a Penguin Logistics Messenger. It's Exusiai. Looks like she bumped off the wrecking crew...
+[name="마피아"]   펭귄 로지스틱스 전달자 발견. 엑시아입니다. 폭파팀은 전원 저 여자 손에……
 
 [name="卡彭"]   我不瞎，没所谓。那只叫德克萨斯的狼呢？
 [name="カポネ"]   俺だって馬鹿じゃねぇ。あいつらはもういい。あのテキサスとかいう狼は？
 [name="Capone"]   Do I look blind to you? Where's the wolf? Texas?
+[name="카포네"]   나도 봤다. 그 늑대 텍사스는?
 
 [name="黑帮"]   不，没有看见。
 [name="マフィア"]   いえ、確認できていません。
 [name="Mafioso"]   Dunno. Don't see her.
+[name="마피아"]   보이지 않습니다.
 
 [name="卡彭"]   哼。那就算了，包围他们，速战速决。
 [name="カポネ"]   フン。ならいい。奴らを包囲しろ。速攻で片づけるぞ。
 [name="Capone"]   Fuggedaboutit. Surround 'em. Let's get this done.
+[name="카포네"]   흥. 그럼 됐다. 포위해라. 속전속결이다.
 
 [name="能天使"]   果然还有埋伏，做得挺彻底嘛。
 [name="エクシア"]   やっぱりまだ伏兵がいるんだね。ずいぶん徹底してること。
 [name="Exusiai"]   An ambush, huh? They're nothing if not thorough.
+[name="엑시아"]   역시 매복이 있었네, 꽤 철저하잖아?
 
 [name="能天使"]   喂，你还能动吗？手脚都摇摇晃晃的哦。
 [name="エクシア"]   ねぇ、動けそう？　手足をガクガクさせてるみたいだけど。
 [name="Exusiai"]   Hey, can you move? Your limbs are all shaky.
+[name="엑시아"]   저기, 움직일 수 있어? 손발이 후들후들 거리는데.
 
 [name="拜松"]   ......勉强吧，你就是......能天使小姐？
 [name="バイソン"]   ……な、なんとか頑張りま…す…。あなたは……もしかして、エクシア……さん？
 [name="Bison"]   Yeah, kinda... You must be... Exusiai?
+[name="바이슨"]   움직일 순 있어요…… 당신이…… 엑시아 씨?
 
 [name="能天使"]   嗯！你是叫，呃，什么来着？
 [name="エクシア"]   ウン、そうだよ！　キミは、えっと、誰だっけ？
 [name="Exusiai"]   That's me! And you're... uh... Whatsisname!
+[name="엑시아"]   응! 너는…… 그러니까…… 누구였더라?
 
 [name="拜松"]   拜松。
 [name="バイソン"]   バイソンです。
 [name="Bison"]   Bison.
+[name="바이슨"]   바이슨이라고 합니다.
 
 [name="拜松"]   我们......我们得先离开这里。
 [name="バイソン"]   ここは危険です。まずは離れましょう。ただ……。
 [name="Bison"]   We... we should get out of here.
+[name="바이슨"]   일단은…… 여기를 벗어나야 해요……
 
 [name="能天使"]   不要绷着一张脸，那位老管家平安无事哦。
 [name="エクシア"]   そんな険しい顔しなくても大丈夫。あの執事さんなら無事だよ。
 [name="Exusiai"]   Before you get all mopey, that old butlery guy is a-okay.
+[name="엑시아"]   그런 표정 짓지 마. 그 집사 할아버지라면 무사하니까.
 
 [name="拜松"]   真的吗！？
 [name="バイソン"]   本当ですか！？
 [name="Bison"]   Really?!
+[name="바이슨"]   정말요?!
 
 [name="能天使"]   姑且有把他送到路边，不过看他的样子其实不太需要帮忙......但是算啦！
 [name="エクシア"]   とりあえず、道路脇までいったん退避してもらったよ。あの様子なら手助けは要らなそうだけどね……。ま、大丈夫っしょ！
 [name="Exusiai"]   I put him by the roadside for a minute, but he doesn't look like he needs much help... anyway!
+[name="엑시아"]   일단은 길가에 데려다 놨어. 별로 도움이 필요해 보이지는 않았지만…… 뭐 상관없겠지!
 
 [name="卡彭"]   企鹅物流的能天使，还有这位小少爷，投降吧，跟我们走。
 [name="カポネ"]   ペンギン急便のエクシア！　それからそこの小僧！　投降しろ。俺たちと一緒に来てもらうぞ。
 [name="Capone"]   Exusiai, Messenger of Penguin Logistics, and the little rich kid there, give it up. Come with us nice and easy-like.
+[name="카포네"]   펭귄 로지스틱스의 엑시아! 그리고 거기 도련님! 순순히 항복하고 따라오시지!
 
 [name="能天使"]   不少生面孔呢，都是你在叙拉古的亲戚？有没有提醒他们在龙门抢生意的注意事项？
 [name="エクシア"]   この辺じゃ見ない顔ばっかだね。みんなキミのシラクーザの親戚かなんか？　龍門でのシノギのルールって教わってないの？
 [name="Exusiai"]   All these fresh faces, must be your relatives from Siracusa? Didn't you teach them how things work in Lungmen?
+[name="엑시아"]   처음 보는 얼굴이 많네. 전부 시라쿠사에서 온 네 친척이야? 좀 가르쳐주지 그랬어, 용문에서 장사할 땐 주의사항이 있다고.
 
 [name="卡彭"]   这不关你事，这一次，我们会把你们彻底击溃。
 [name="カポネ"]   テメェにゃ関係ねぇ。今回こそお前らを徹底的に潰してやる！
 [name="Capone"]   None of your damned business. We're cleaning you out for good this time.
+[name="카포네"]   네가 알 바가 아니다. 이번에는 철저하게 짓밟아주마!
 
 [name="能天使"]   嗯......在龙门呆了这么多年，你们抢地盘的方式倒是最简单粗暴的。
 [name="エクシア"]   う～ん……龍門に来て長くなるけど、キミたちの縄張り争いって、いつまで経っても一番単純で荒っぽいことしかしないんだね。
 [name="Exusiai"]   Oh come on... You've been in Lungmen so long you turned basic. Grabbing territory like a common thug.
+[name="엑시아"]   음…… 용문에 그렇게나 오래 있었는데…… 너희는 가장 단순무식한 방법으로 영역을 빼앗는구나.
 
 [name="能天使"]   看来叙拉古的黑手党也不是只有在酒吧挨揍的份嘛。
 [name="エクシア"]   だけど、シラクーザのマフィアもただバーで喧嘩ごっこしてボコられるだけじゃないってことか～。
 [name="Exusiai"]   I guess at least some of the Siracusan Mafia can do more than just bar brawls.
+[name="엑시아"]   시라쿠사의 마피아들은 술집에서 얻어맞을 줄만 아는 게 아닌가 보네~
 
 [name="卡彭"]   啊啊......你会后悔小看西西里人的，*龙门粗口*，动手！
 [name="カポネ"]   あぁそうさ……シチリア人を甘く見たこと後悔するぜ、この*龍門スラング*野郎！　やれ！
 [name="Capone"]   Grr... I'll teach you to look down on a Sicilian. *Lungmen Swearing* Get 'em!
+[name="카포네"]   이 *용문 욕설*이…… 시실리안을 얕본 걸 후회하게 해주마. 해치워버려!
 
 [name="可颂"]   哎呀，我这算勉强赶上？
 [name="クロワッサン"]   ハイハ～イ。お待ちどおさ～ん。で、ウチ間におうた？
 [name="Croissant"]   Awright, looks like I'm right on time!
+[name="크루아상"]   아따 마, 아슬아슬하게 도착한 거 같은데, 내 안 늦었나?
 
 [name="能天使"]   时机完美，可颂！
 [name="エクシア"]   クロワッサン！　ナイス・タイミーング！
 [name="Exusiai"]   Croissant, you made it!
+[name="엑시아"]   나이스 타이밍~ 크루아상!
 
 [name="可颂"]   可他们好像不打算收手哎，接下来怎么办？
 [name="クロワッサン"]   なんや敵さんたち、攻撃やめるつもり無さそうやね。さて、どないしよか？
 [name="Croissant"]   But they're all so ornery. What're we gonna do?
+[name="크루아상"]   점마들 우리랑 한판 붙을라카는거 같은데, 이제 우짤끼고?
 
 [name="能天使"]   老规矩，你开路，我殿后，完事儿奖金对半分~
 [name="エクシア"]   決まってるでしょ。そっちが道を開く、あたしがシンガリ。ボーナスは山分けね！
 [name="Exusiai"]   The usual. You clear a path, I'll bring up the rear, we split the completion bonus.
+[name="엑시아"]   항상 하던 대로지 뭐. 네가 길을 뚫으면 내가 뒤를 맡을게. 일 끝나면 보너스는 반반 나누고~
 
 [name="可颂"]   那我就——不客气了啊啊啊啊——
 [name="クロワッサン"]   よっしゃ、ほな決まりやな。ハイハイ、ちょいとソコ通らせてもらうさかい、退いてもらうで——。
 [name="Croissant"]   Now that's all ya had to say! Yeeehawww!
+[name="크루아상"]   그라믄…… 빨리 끝내뿌자!!!!
 
 [name="黑帮"]   那，那个怪力疯子直接撞开了一条路！？
 [name="マフィア"]   な、なんだあの怪力イカレ女！　無理矢理周りを吹っ飛ばして道を作りやがった。
 [name="Mafioso"]   Th- that crazy broad charged right through!
+[name="마피아"]   힘이 뭐 저렇게 센 거야! 길이 뚫리고 있다! 저, 저 미친 여잘 막아!
 
 [name="卡彭"]   ......你们先追，不要跟太紧，等首领的支援。
 [name="カポネ"]   ……先に行け。深追いはしなくていい。ボスの支援を待て。
 [name="Capone"]   ...get after them. But not too close. Wait for backup.
+[name="카포네"]   ……쫓아가라. 너무 바짝 쫓지는 말고, 보스의 지원을 기다려라.
 
 [name="黑帮"]   是、是！
 [name="マフィア"]   は、はい！
 [name="Mafioso"]   Got it!
+[name="마피아"]   네, 네!
 
 [name="甘比诺"]   你把他们放跑了，废物。
 [name="ガンビーノ"]   テメェ、みすみす逃すつもりか、このクズ野郎が。
 [name="Gambino"]   You lost 'em, cazzo.
+[name="감비노"]   놓친 거냐, 쓸모없는 놈.
 
 [name="卡彭"]   嘁，绑票本来就不是我的长项。企鹅物流其他成员没有出现，部署完成之前，贸然进入龙门市区对我们不利。
 [name="カポネ"]   知るかボケ。そもそも誘拐なんざ得意じゃねぇ。それにペンギン急便のほかの連中の顔を見るまで、迂闊に市街地に入ったら不利になるのは俺たちなんだよ。
 [name="Capone"]   Look, I ain't a kidnapping expert. The rest of Penguin Logistics never showed and we weren't about to go traipsing into downtown Lungmen by ourselves.
+[name="카포네"]   뭘 모르네. 납치는 내 전문이 아니야. 펭귄 로지스틱스 놈들이 더 나타나서 시내로 도망쳐버리면, 불리한 건 우리라고.
 
 [name="甘比诺"]   随便你找借口，有一辆车向你那儿去了。开着敞篷，可都是熟到发焦的老熟人了。
 [name="ガンビーノ"]   いつもながら減らず口だけは達者だな。オープンカーが一台、そっちに向かった。嫌なほど見覚えがあるメンツだぜ。
 [name="Gambino"]   I don't wanna hear excuses. There's a car headed your way. Convertible. Old friends inside.
+[name="감비노"]   입만 살아서는…… 오픈카 한 대가 그쪽으로 가고 있다. 익숙하다 못해 지겨운 얼굴일 테니까, 보면 바로 알 거야.
 
 [name="卡彭"]   ......这么快？
 [name="カポネ"]   ……チッ、やけに早くねぇか？
 [name="Capone"]   ...already?
+[name="카포네"]   ……너무 빨리 오는 거 아니야?
 
 [name="能天使"]   啊，不好，这是第几个死胡同了？
 [name="エクシア"]   ええっ！　ここも行き止まりなんだ？　もう何回目？
 [name="Exusiai"]   Gah, damn it. Another dead end?
+[name="엑시아"]   아… 큰일이네. 벌써 막다른 골목이 몇 개 째야?
 
 [name="可颂"]   反正周围都是些几百年没人管的烂尾楼，不如直接在墙上开个洞呗。
 [name="クロワッサン"]   どうせ周りなんて全部、建設途中のまんま放置されとる廃墟やろ。壁にドッカーンと穴開けたらええんちゃう？
 [name="Croissant"]   It's a buncha old ruins nobody's touched fer ages. Lemme just make my own hole already.
+[name="크루아상"]   어차피 주위에 있는 것도 다 몇백 년은 된 폐건물 아이가. 고마 벽에다 구멍을 확 뚫어뿌지 왜…
 
 [name="拜松"]   等、等等，两位！我们到底要去哪里？
 [name="バイソン"]   ちょ、ちょっと待ってください、お二人とも！　ぼくたちはいったいどこに向かっているんですか？
 [name="Bison"]   H- hold up! Where are we going?
+[name="바이슨"]   자, 잠깐만요! 대체 어디로 가는 거죠?!
 
 [name="黑帮"]   他们在这儿！居然钻到死胡同里等死，包围他们！
 [name="マフィア"]   奴らがいたぞ！　まさかこんな袋小路に迷い込んでるとはな。奴らを囲め！
 [name="Mafioso"]   There they are! It's a dead end! We got 'em!
+[name="마피아"]   여기 있다! 막다른 골목으로 들어가다니 죽고 싶은가 보군. 잡아라!
 
 [name="拜松"]   我们这不是无路可退了！？
 [name="バイソン"]   こ、これじゃ逃げ道が断たれちゃうじゃないですか！？
 [name="Bison"]   It's game over, isn't it?
+[name="바이슨"]   이, 이제 도망칠 곳이 없지 않나요?!
 
 [name="能天使"]   对了！
 [name="エクシア"]   あっ、そうだ！
 [name="Exusiai"]   Oh yeah!
+[name="엑시아"]   맞다!
 
 [name="拜松"]   有什么对策！？
 [name="バイソン"]   何か打開策が！？
 [name="Bison"]   You have an idea?!
+[name="바이슨"]   무슨 대책이라도 있나요?!
 
 [name="能天使"]   我们还没正式打过招呼吧？
 [name="エクシア"]   あたしたち、まだちゃんと挨拶してなかったよね？
 [name="Exusiai"]   We haven't properly introduced ourselves, have we?
+[name="엑시아"]   우리 아직 정식으로 인사 안 했지?
 
 [name="黑帮"]   把他们全部干掉！
 [name="マフィア"]   奴ら全員やっちまえ！
 [name="Mafioso"]   Rub 'em out!
+[name="마피아"]   전부 해치워 버려!
 
 [name="拜松"]   现在不是说这个的时候吧！这很重要吗！？
 [name="バイソン"]   ええっ、そんなこと言ってる場合じゃないでしょう！　それいま重要なんですか！？
 [name="Bison"]   Now's not the time for this! We've got more important things to deal with!
+[name="바이슨"]   지금은 그런 얘기를 할 때가 아니잖아요! 그게 중요해요?
 
 [name="？？？"]   不。
 [name="？？？"]   いや。
 [name="???"]   Nah.
+[name="???"]   아니.
 
 [name="？？？"]   这很重要，非常重要，相当重要。
 [name="？？？"]   とても重要、非常に重要、か・な・り重要だ。
 [name="???"]   This is important. Real important.
+[name="???"]   많이 중요하지, 매우 중요해, 상당히 중요하고말고.
 
 [name="？？？"]   我们可是非常注重塑造企业文化的，而今天的文化关键词恰好是“仪式感”。
 [name="？？？"]   ウチの会社は「企業文化」ってやつを大切にしてるんだ。そして今日の標語は「人と接するときは礼儀正しく格式を持て」だ。
 [name="???"]   We got a serious emphasis on corporate culture. And today's culture buzzword is "courtesy."
+[name="???"]   우리 회사에선 매우 중요해 기업 문화. 얘들아, 오늘의 해시태그는 '#하는척이라도해라'.
 
 [name="大帝"]   虽然是刚刚决定的。
 [name="エンペラー"]   まぁ、いま適当に決めたことだけどよ。
 [name="Emperor"]   I just came up with it.
+[name="엠퍼러"]   물론 방금 정한 거지만.
 
 [name="黑帮"]   是、是大帝！快通知首领！
 [name="マフィア"]   エ、エンペラーだ！　早くボスに連絡を！
 [name="Mafioso"]   It's Emperor! Somebody call the boss!
+[name="마피아"]   에, 엠퍼러다! 어서 보스한테 알려!
 
 [name="黑帮"]   等等，后面还有一个！
 [name="マフィア"]   待て、後ろにもう一人いる！
 [name="Mafioso"]   There's someone else with him!
+[name="마피아"]   잠깐, 뒤에 하나 더 있다!
 
 [name="德克萨斯"]   饵撒空了，能天使。
 [name="テキサス"]   敵は餌を食わなかった、エクシア。
 [name="Texas"]   Came up empty, Exusiai.
+[name="텍사스"]   어떻게 된 거야 엑시아, 얘네들 안 걸려들었잖아.
 
 [name="能天使"]   叙拉古的家伙们也不全是傻瓜嘛，下次还有机会，别介意别介意。
 [name="エクシア"]   そっか、さすがのシラクーザの奴らだって、みんなバカって訳じゃないもんね。また次の機会があるっしょ。気にしない気にしない。
 [name="Exusiai"]   Not every Siracusan mook's a total moron. We'll get 'em next time, don't worry.
+[name="엑시아"]   시라쿠사 녀석들도 대놓고 바보는 아닌가 보네. 다음번에 또 기회가 있을 테니까 신경 쓰지 마.
 
 [name="能天使"]   比起这个，给你们介绍一下，这位就是咱们企鹅物流的临时成员，拜松。
 [name="エクシア"]   それよりも、みんなに紹介するよ。こちらが、我らペンギン急便の臨時メンバー、バイソンく～ん！
 [name="Exusiai"]   But first, I've got to introduce you to Penguin Logistics's newest temp worker: Bison.
+[name="엑시아"]   아참, 소개할게. 우리 펭귄 로지스틱스의 임시 직원, 바이슨이야~!
 
 [name="黑帮"]   那家伙堵住了退路，只、只能动手了！
 [name="マフィア"]   あの野郎退路をふさぎやがったな。や、やるしかねぇ！
 [name="Mafioso"]   They blocked the only way out. We- we have to fight through!
+[name="마피아"]   저 녀석이 퇴로를 막고 있다. 싸울 수밖에 없겠어!
 
 [name="德克萨斯"]   都躺下，轮不到你们送死。
 [name="テキサス"]   死に急ぐな。今はそこで大人しく寝ていろ。
 [name="Texas"]   Get down on the ground. You don't have to die.
+[name="텍사스"]   그냥 쓰러져 있어라, 진짜로 죽기 싫으면.
 
 [name="黑帮"]   嘁！不要慌，只要拖到首领的支援——！
 [name="マフィア"]   チッ！　慌てるな、ボスの支援が来るまで持ち堪えれば——！
 [name="Mafioso"]   Woah! Settle down, we just have to hold out until the boss...!
+[name="마피아"]   쳇! 당황하지 마라! 보스의 지원이 올 때까지 버티기만 하면……!
 
 [name="大帝"]   拖？
 [name="エンペラー"]   持ち堪えれば？
 [name="Emperor"]   Hold out?
+[name="엠퍼러"]   버틴다고?
 
 [name="大帝"]   开灯，啊哈！
 [name="エンペラー"]   ライト！　オン！
 [name="Emperor"]   Hit the lights.
+[name="엠퍼러"]   에이 요, 드뢉 더 스팟라이트!
 
 [name="黑帮"]   好、好闪！哪儿来的聚光灯！？
 [name="マフィア"]   まっ、眩しい！　何なんだこのスポットライトは！？
 [name="Mafioso"]   Agh! It's so bright! Where'd that spotlight come from?!
+[name="마피아"]   누, 눈부셔! 대체 어디서 비추는 거야?
 
 [name="大帝"]   欢迎来到企鹅物流，小猫小狗们。
 [name="エンペラー"]   ヘイ！　ようこそペンギン急便へ、子猫に子犬たち！
 [name="Emperor"]   Welcome to Penguin Logistics, little doggies.
+[name="엠퍼러"]   웰컴 투 펭귄 로지스틱스, 내 관광객들!
 
 [name="大帝"]   你们已经出现在我的视线之内，而我视线之内就是企鹅帝国的国土。
 [name="エンペラー"]   まず大切なコトを言っておくぜ。俺の視界ってやつこそが、俺たちペンギン帝国の領土なんだけどよ。お前ら、俺の視界にいるよな？
 [name="Emperor"]   Now I can see you. And that means you're on land that belongs to the Penguin Empire.
+[name="엠퍼러"]   너흰 이미 못 벗어나 내 포착망에서. 내 시야가 닿는 곳이 바로 펭귄 엠파이어.
 
 [name="大帝"]   不好意思，请问你们的过境签证有带在身上吗？
 [name="エンペラー"]   悪りぃけど、俺の帝国にいられるビザは持ってんの？
 [name="Emperor"]   Now I hate to bother you, but I'm gonna have to see your landing visa. You got it on you?
+[name="엠퍼러"]   익스큐즈 미, 너네 근데 받고 왔니 입국 비자?
 
 [name="大帝"]   没有？
 [name="エンペラー"]   まぁ、持ってねぇよな？
 [name="Emperor"]   No?
+[name="엠퍼러"]   없다고?
 
 [name="大帝"]   那你们得准备好滚回娘家哭鼻子了。
 [name="エンペラー"]   じゃあ仕方ねぇ、強制送還ってやつだな。ママのところに泣きながら逃げ帰る準備でもしてもらおうか。
 [name="Emperor"]   Then I think we gotta send you crying home to your mamas.
+[name="엠퍼러"]   불법 체류 걸렸다간 얄짤 없어 국외추방. 엄마한테 가서 일러 바쳐 때렸다고 내가.
 
