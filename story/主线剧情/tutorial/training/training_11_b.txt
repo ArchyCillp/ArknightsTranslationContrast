@@ -1,0 +1,35 @@
+[PopupDialog(dialogHead="$avatar_doberm")] 博士，请注意敌方的精英单位。
+[PopupDialog(dialogHead="$avatar_doberm")] ドクター、手強い敵が現れたぞ。
+[PopupDialog(dialogHead="$avatar_doberm")] Doctor, please watch out for the enemy's elite units.
+[PopupDialog(dialogHead="$avatar_doberm")] 박사, 적의 정예 유닛을 조심해라.
+
+敌方的重装防御者，拥有高攻击力和极高的防御力。一旦与其余敌方部队合流发起进攻，我方的阵线会瞬间崩溃。
+あの重装兵は高い攻撃力と防御力を備えている。他の敵と合流し一気に攻め立てられれば、我らの部隊はたちまち壊滅してしまうだろう。
+The Heavy Defender has high attack and extremely high defense. We won't be able to hold our defense once it merges with other enemy troops.
+적 중기갑병은 높은 공격력과 방어력을 갖추고 있다. 다른 적군과 합류하게 된다면 우리 진영이 무너지는 것도 순식간일 거다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 所幸敌方的精英单位数量并不多，我们可以在其到达主战场前对其进行大幅度削弱。
+[PopupDialog(dialogHead="$avatar_doberm")] だが幸い数は少ない。上部の部隊と合流される前に片付けることができるはずだ。
+[PopupDialog(dialogHead="$avatar_doberm")] Fortunately, there aren't many enemy elite units. We can significantly weaken them before they arrive at the main stage.
+[PopupDialog(dialogHead="$avatar_doberm")] 다행히도 적 정예 유닛의 수가 그다지 많아 보이지는 않는군. 녀석들이 주전장에 도달하기 전에 미리 약하게 만들어 놓을 수 있겠어.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 针对敌方的大型低速单位，最好的方法是配合使用<@tu.kw>减速辅助</>和<@tu.kw>单体术师</>干员。
+[PopupDialog(dialogHead="$avatar_doberm")] 強大だがスピードが遅いタイプの敵に対しては、<@tu.kw>速度低下タイプの補助</>オペレーターと<@tu.kw>単体攻撃タイプの術師</>オペレーターの組み合わせが有効だ。
+[PopupDialog(dialogHead="$avatar_doberm")] The best way to deal with a large and slow enemy unit is to use a <@tu.kw>Slowing Supporter</> and a <@tu.kw>Single-target Caster</> Operator in tandem.
+[PopupDialog(dialogHead="$avatar_doberm")] 덩치가 크고 이동 속도가 느린 적에게 가장 유효한 수단은 <@tu.kw>이동 속도 감속이 가능한 서포터</>와 <@tu.kw>단일 공격이 가능한 캐스터</> 오퍼레이터를 배치하는 것이다.
+
+作为减速辅助干员，<@tu.kw>梓兰</>可以大幅度<@tu.kw>降低敌人移动速度</>，延缓敌人的进攻。
+補助オペレーターの<@tu.kw>オーキッド</>は<@tu.kw>敵の進行速度を大幅に低下</>させ、敵の進攻を妨害することができる。
+As a Slowing Supporter, <@tu.kw>Orchid</> can greatly <@tu.kw>reduce enemy's move speed</>, thus slowing down its attack pace.
+서포터인 <@tu.kw>오키드</>를 배치하면 <@tu.kw>적의 이동 속도를 대폭 감소</>시켜, 적의 진군을 늦출 수 있다.
+
+而单体术师干员<@tu.kw>杜林</>，则可以在敌方被牵制时对其造成<@tu.kw>大量输出</>。
+そこに単体攻撃タイプの術師である<@tu.kw>ドゥリン</>の攻撃を加え、敵に<@tu.kw>大ダメージ</>を与えるという算段だ。
+While the enemy is controlled, Single-target Casters like <@tu.kw>Durin</> can deal <@tu.kw>lots of damage</> to it.
+그리고 그동안 단일 공격이 가능한 캐스터 <@tu.kw>두린</>을 배치하면 적의 발이 묶여있는 동안 큰 대미지를 줄 수 있지.
+
+部署她们到此处附近，阻止重装防御者与其他敌方单位合流。
+二人のオペレーターをこの付近に配置し、あの重装兵が上部の部隊と合流することを防ぐんだ。
+Deploy them here to prevent the Heavy Defender from joining with other enemy units.
+이 둘을 이곳 근처에 배치하면, 적의 합류를 저지할 수 있을 거다.
+

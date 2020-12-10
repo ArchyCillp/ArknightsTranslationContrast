@@ -1,0 +1,55 @@
+数天前......
+数日前……
+A few days ago...
+며칠 전……
+
+罗德岛 作战训练场
+ロドス 作戦訓練場
+Rhodes Island Combat Training Ground
+로도스 아일랜드 작전 훈련장
+
+[PopupDialog(dialogHead="$avatar_jesica")] 杜宾老师，对不起我......
+[PopupDialog(dialogHead="$avatar_jesica")] ドーベルマン教官、申し訳ございません、私……
+[PopupDialog(dialogHead="$avatar_jesica")] Instructor Dobermann, I'm sorry...
+[PopupDialog(dialogHead="$avatar_jesica")] 도베르만 교관님, 죄송해요, 저……
+
+[PopupDialog(dialogHead="$avatar_sys")] 干员杰西卡，根据日程安排，已迟到了3分14秒。
+[PopupDialog(dialogHead="$avatar_sys")] オペレータージェシカ、スケジュールから3分14秒の遅刻。
+[PopupDialog(dialogHead="$avatar_sys")] Operator Jessica. According to the schedule, you’re 3 minutes and 14 seconds late.
+[PopupDialog(dialogHead="$avatar_sys")] 오퍼레이터 제시카, 일정 시간으로부터 3분 14초 지각.
+
+[PopupDialog(dialogHead="$avatar_jesica")] 真的很抱歉！我准备武器的时间长了一些......我接下来需要做什么？
+[PopupDialog(dialogHead="$avatar_jesica")] 本当に申し訳ありません！武器の準備に時間がかかってしまって……早速演習に参加させてください。
+[PopupDialog(dialogHead="$avatar_jesica")] I'm so sorry! It took me some time to ready my equipment… What do I need to do next?
+[PopupDialog(dialogHead="$avatar_jesica")] 정말 죄송합니다! 무기 준비하는데 시간이 걸려서…… 제가 뭘 하면 되죠?
+
+[PopupDialog(dialogHead="$avatar_sys")] 干员杰西卡，新的任务目标：模拟Dr.{@nickname}的行为进行作战演习。
+[PopupDialog(dialogHead="$avatar_sys")] オペレータージェシカ、新しい任務目標：Dr.{@nickname}の行動パターンを想定し演習作戦を行う。
+[PopupDialog(dialogHead="$avatar_sys")] Operator Jessica, your new mission objective is to perform a combat drill simulating Dr. {@nickname}'s behaviors.
+[PopupDialog(dialogHead="$avatar_sys")] 오퍼레이터 제시카, 새로운 임무 목표: {@nickname} 박사님의 행동 패턴을 시뮬레이션하여 작전 연습을 진행하십시오.
+
+[PopupDialog(dialogHead="$avatar_jesica")] 诶？？我吗？
+[PopupDialog(dialogHead="$avatar_jesica")] えっ？？私がですか？
+[PopupDialog(dialogHead="$avatar_jesica")] Huh?? Me?
+[PopupDialog(dialogHead="$avatar_jesica")] 엣?? 제가요?
+
+[PopupDialog(dialogHead="$avatar_doberm")] 博士的救出计划将会在数日后进行，现在我们需要根据实际状况进行演习。
+[PopupDialog(dialogHead="$avatar_doberm")] ドクター救出作戦は数日後に迫っている。より実際の状況に則した形で演習を行う必要がある。
+[PopupDialog(dialogHead="$avatar_doberm")] The operation to rescue the doctor will be carried out in a few days. Now, we need a simulation based upon something representative of the actual situation.
+[PopupDialog(dialogHead="$avatar_doberm")] 박사의 구출 작전이 며칠 남지 않았어. 실전 상황에 맞춰 연습을 진행할 필요가 있다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 我会告诉你一些相对进阶的作战技巧，同时参与行动的人员也会更加熟悉这些作战技巧，以配合指挥。
+[PopupDialog(dialogHead="$avatar_doberm")] 少しだけ高度なテクニックも教える。演習に参加する他のオペレーターにも周知すれば、以降の作戦にも役立つはずだ。
+[PopupDialog(dialogHead="$avatar_doberm")] I will show you some more advanced combat techniques. Those who participate in the operation will also be more familiar with these techniques so they can assist better.
+[PopupDialog(dialogHead="$avatar_doberm")] 좀 더 심화된 전술 테크닉을 알려주지. 작전 연습에 참여하는 다른 인원들도 숙지해두면 많은 도움이 될 거다.
+
+[PopupDialog(dialogHead="$avatar_jesica")] 嗯......
+[PopupDialog(dialogHead="$avatar_jesica")] はい……
+[PopupDialog(dialogHead="$avatar_jesica")] I see...
+[PopupDialog(dialogHead="$avatar_jesica")] 네……
+
+[PopupDialog(dialogHead="$avatar_doberm")] 杰西卡，先部署<@tu.kw>夜刀</>和<@tu.kw>巡林者</>，迎击敌人。
+[PopupDialog(dialogHead="$avatar_doberm")] ジェシカ、まずは<@tu.kw>ヤトウ</>と<@tu.kw>レンジャー</>を配置して敵を迎撃するんだ。
+[PopupDialog(dialogHead="$avatar_doberm")] Jessica, deploy <@tu.kw>Yato</> and <@tu.kw>Rangers</> to engage the enemy.
+[PopupDialog(dialogHead="$avatar_doberm")] 제시카, 우선은 <@tu.kw>야토</>와 <@tu.kw>레인저</>를 배치해서 적을 공격해보도록.
+

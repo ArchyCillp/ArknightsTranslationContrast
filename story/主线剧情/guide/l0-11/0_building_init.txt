@@ -1,0 +1,105 @@
+[PopupDialog(dialogHead="$avatar_sys")] 博士，胜利总是会付出相应的代价。
+[PopupDialog(dialogHead="$avatar_sys")] ドクター、勝利にはそれ相応の対価を払う必要があります。
+[PopupDialog(dialogHead="$avatar_sys")] Doctor, victory always comes at a cost.
+[PopupDialog(dialogHead="$avatar_sys")] 박사님, 승리를 위해서는 그에 상응하는 대가를 치러야 합니다.
+
+请前往基建。在那里，有一个人在等你。
+次は基地へ向かってください。そこである人物があなたを待っています。
+Please proceed to the Headquarters. Someone is waiting for you.
+기반시설로 가 주십시오. 박사님을 기다리는 분이 계십니다.
+
+[name="？？？"]  博士，某种程度上......又见面了。
+[name="？？？"]  ドクター、ある意味……また会ったってことになるのかな。
+[name="???"]  Doctor, we meet again.
+[name="???"]  박사, 어떤 의미로는…… 또 만났다 해야 하나.
+
+[name="？？？"]  情况不容乐观，切尔诺伯格即将沦陷，而我在罗德岛能做的事情也比较有限。
+[name="？？？"]  厳しい状況だよ。チェルノボーグももう少しで落とされると思う。ロドスに出来ることだって限りがあるしね。
+[name="???"]  Things are not looking good. Chernobog is about to fall and there's a limit to what I can do from here.
+[name="???"]  상황이 좋지 않아. 체르노보그도 곧 함락될 것 같다고. 로도스 아일랜드가 할 수 있는 일에는 한계가 있고 말이야.
+
+[name="？？？"]  现在我们需要恢复基建的使用，这样就能为之后的行动提供更多支援。
+[name="？？？"]  ひとまずロドスの基地を修築しないとね。そうすればこれからの作戦の役に立つはずだから。
+[name="???"]  Right now, we need to restore our infrastructure so that we can provide more support for future operations.
+[name="???"]  지금 우리는 우선, 기반시설의 기능을 회복시키는 데 집중해야겠지. 그래야 앞으로 작전을 수행할 때 도움이 될 테니까.
+
+[name="？？？"]  啊对了，我一直都忘了你可能已经不记得我是谁了。
+[name="？？？"]  あ、そうだ。私のことも忘れちゃってるかな？
+[name="???"]  Ah, right, I keep forgetting that you might not remember who I am.
+[name="???"]  아, 맞다. 내가 누군지 까먹었지?
+
+[name="可露希尔"]  我是罗德岛舰船可靠性工程师————可露希尔。
+[name="クロージャ"]  私はロドスの信頼性エンジニア――――クロージャ。
+[name="Closure"]  I'm Closure, a Rhodes Island Reliability Engineer.
+[name="클로저"]  난 로도스 아일랜드의 시스템 엔지니어, 클로저야.
+
+[name="可露希尔"]  欢迎来到罗德岛基建群，以及————
+[name="クロージャ"]  ロドスの基地へようこそ、そして————
+[name="Closure"]  Welcome to the Rhodes Island Headquarters.
+[name="클로저"]  로도스 아일랜드의 기반시설에 온 걸 환영해. 그리고…
+
+[name="可露希尔"]  今后请多多指教，Dr.{@nickname}！
+[name="クロージャ"]  これからよろしくね、Dr.{@nickname}！
+[name="Closure"]  I hope that we’ll get along, {@nickname}.
+[name="클로저"]  앞으로 잘 지내보자, {@nickname} 박사!
+
+[PopupDialog(dialogHead="$avatar_closure")] 在基建中，博士你可以建造各种设施换取各种资源，也可以对干员们的生活进行管理。
+[PopupDialog(dialogHead="$avatar_closure")] 基地では、施設を建造して色んな資源を獲得できるのと、オペレーターたちの生活の管理もできるよ。
+[PopupDialog(dialogHead="$avatar_closure")] In the Base, you can build different facilities to earn resources and manage your Operators.
+[PopupDialog(dialogHead="$avatar_closure")] 기반시설에선 다양한 시설을 건축해서 여러 가지 자원을 획득하거나, 오퍼레이터들의 생활을 관리해줄 수가 있어.
+
+[PopupDialog(dialogHead="$avatar_closure")] 当然因为整套系统才被修复不久，大部分房间还需要清理后才能使用。
+[PopupDialog(dialogHead="$avatar_closure")] もちろん、システムが復旧したばかりだから、ほとんどの部屋は片付けてからじゃないと使えないけどね。
+[PopupDialog(dialogHead="$avatar_closure")] Since the system was just restored, most facilities will require cleaning before they can be used.
+[PopupDialog(dialogHead="$avatar_closure")] 물론 시스템이 이제 막 복구된 참이라, 거의 모든 방이 청소하지 않고선 사용할 수 없는 상황이긴 해.
+
+[PopupDialog(dialogHead="$avatar_closure")] 虽然我们损失了很多，不过，我们的征途才刚刚开始。而这里，将会是一直陪伴着我们征战远方的家。
+[PopupDialog(dialogHead="$avatar_closure")] 失ったものは多いが、でも私たちの旅路はここから始まるんだ。そしてこの場所は、戦場で戦う私たちに寄り添う家になってくれる。
+[PopupDialog(dialogHead="$avatar_closure")] Even though we’ve suffered many losses, our journey has only just begun, and we will rebuild. This place has always been our home through thick and thin.
+[PopupDialog(dialogHead="$avatar_closure")] 많은 것을 잃었지만, 우리의 여정은 이제 시작이잖아. 그리고 이 장소는, 전장에서 싸우는 우리 곁에 있어주는 집이 되어 줄 거야.
+
+[PopupDialog(dialogHead="$avatar_closure")] 在开始实际操作之前，先为你介绍下基本功能吧。
+[PopupDialog(dialogHead="$avatar_closure")] 実際に操作してみる前に、まずは基本的な機能を紹介するね。
+[PopupDialog(dialogHead="$avatar_closure")] Before we get started, let me introduce you to some basic functions.
+[PopupDialog(dialogHead="$avatar_closure")] 실제로 조작해 보기 전에 우선 기본적인 기능을 소개하도록 할게.
+
+这里标识了闲置的无人机数量。清理房间和建造等操作都会使用到无人机。无人机在使用后需要充电维护一定时间才能再次投入工作。
+ここには待機中のドローンの数が表示されてるよ。部屋の片付けや改造にはドローンを使う必要がある。一度使ったドローンは充電が完了するまで使えないよ。
+This number indicates the number of idle drones. Drones are used for tasks such as cleaning up and building rooms. After a drone is used, it will need to be charged and undergo maintenance for a period of time before it can be used again.
+이곳에는 대기 중인 드론의 수가 표시돼. 방을 청소하거나 건축을 하려면 드론이 필요하거든. 한 번 사용한 드론은 충전이 끝날 때까지 다시 사용할 수 없어.
+
+这里标识了罗德岛基建的电力供应状况。各项设施的正常运作都会需要电力。建造发电站可以提供更多的电力输出。
+ここにはロドスの電力供給の状況が表示されてるよ。それぞれの施設を動かすのには電力が必要になるんだけど、その電力は発電所を建造することで供給できるよ。
+This shows Rhodes Island's power supply. All facilities require electricity, so building and upgrading the power station can provide additional output.
+이곳에는 로도스 아일랜드의 전력 공급 상태가 표시돼. 각 시설을 작동시키기 위해서는 전력이 필요한데, 그 전력은 발전소를 건설하면 공급할 수 있어.
+
+这里标识了龙门币余额。毕竟，天上没有免费的馅饼，制造大部分材料都是要经费的。
+ここには所持の龍門幣の残高が表示されてるよ。ただより高いものはないなんて言うし、製造にはしっかり相応の経費を払ってもらうからね。
+This displays your currency, Lungmen Dollars (LMD). After all, money doesn’t grow on trees, and most of the materials we produce here are for funding.
+이곳에는 용문폐의 잔고가 표시돼. 세상에 공짜가 어디 있겠어? 제대로 된 시설을 지으려면 그에 상응하는 비용을 치러야만 한다구.
+
+[PopupDialog(dialogHead="$avatar_sys")] 希望你能记住它们的含义。毕竟，这里可能是你以后最常来的地方之一。
+[PopupDialog(dialogHead="$avatar_sys")] 表示されているものの意味をそれぞれしっかり覚えてください。こちらは今後ドクター様が最も多く訪れる場所になるのですから。
+[PopupDialog(dialogHead="$avatar_sys")] Hopefully you’ll be able to digest all this information. After all, this will be the place that you frequent the most.
+[PopupDialog(dialogHead="$avatar_sys")] 각 표시가 의미하는 바를 잘 기억해 주십시오. 기반시설은 앞으로 박사님께서 가장 많이 드나들 곳입니다.
+
+[PopupDialog(dialogHead="$avatar_closure")] 没关系，博士还需要一点时间去熟悉。这里可以慢慢调整成博士希望的样子。
+[PopupDialog(dialogHead="$avatar_closure")] 大丈夫大丈夫、少し時間が必要だと思うけど、ドクターの好きなようにゆっくり進めていけばいいから。
+[PopupDialog(dialogHead="$avatar_closure")] Don’t worry if this all seems a bit overwhelming at first. Take your time to get acquainted, and slowly help this place become more like the home you’d want.
+[PopupDialog(dialogHead="$avatar_closure")] 괜찮아~ 괜찮아~ 시간이 조금 필요하긴 하겠지만, 박사가 하고 싶은 대로 천천히 지어도 문제없다고.
+
+所以，清理房间是开始任何工作的第一步。我们先切换到<@tu.kw>建造模式</>。
+部屋の片付けが仕事の第一歩だよ。まずは<@tu.kw>改造モード</>に切り替えてみよう。
+That’s why cleaning up these rooms is the first step to starting any job. Let’s switch to <@tu.kw>Building mode</>.
+일을 하려면 일단 방 청소부터 해야겠지? 먼저 <@tu.kw>건설 모드</>로 전환해 보자.
+
+电梯间是连接各个区域的通道。点击电梯间进行清理。
+エレベーターホールが各エリアへの通路になるんだ。エレベーターホールをタップして整理をしてみて。
+The elevator shaft is the passage connecting these various rooms. Tap on the area between these shafts to clean it up.
+엘리베이터는 각 구역으로 가는 통로야. 엘리베이터를 한 번 청소해보자.
+
+选择进行清理。
+確認をタップして部屋を整理して。
+Tap here to begin cleaning.
+확인 버튼을 눌러서 방을 청소해줘.
+

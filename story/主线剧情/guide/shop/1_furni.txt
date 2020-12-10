@@ -1,0 +1,65 @@
+[PopupDialog(dialogHead="$avatar_closure")] Dr.{@nickname}对新的宿舍感觉如何？看上去好像还缺点什么......
+[PopupDialog(dialogHead="$avatar_closure")] Dr.{@nickname}！そういえば新しい宿舎の居心地はどう？まだ何か足りないって顔してるね……。
+[PopupDialog(dialogHead="$avatar_closure")] Dr. {@nickname}, how do you like the Dormitory? I feel like you’d be able to spruce the place up a bit more…
+[PopupDialog(dialogHead="$avatar_closure")] {@nickname} 박사! 새 숙소는 마음에 들어? 아직 뭔가 조금 부족하다는 표정이네…
+
+[PopupDialog(dialogHead="$avatar_closure")] 我向家乡的著名家具零售商要到了一批新品。
+[PopupDialog(dialogHead="$avatar_closure")] あたし、故郷の有名なインテリアバイヤーから新商品を買い付けてきたの。
+[PopupDialog(dialogHead="$avatar_closure")] I’ve requested for some new goods from one of the famous furniture outlets in my hometown.
+[PopupDialog(dialogHead="$avatar_closure")] 그래서~! 고향에 있는 유명한 인테리어 업자한테서 신상품을 매입해 왔지!
+
+快来看看<@tu.kw>家具商店</>吧，Dr.{@nickname}！
+早速<@tu.kw>インテリアショップ</>を見てみて！Dr.{@nickname}！
+Head over to the <@tu.kw>Furniture Store</> to take a look, Dr {@nickname}!
+어서 <@tu.kw>가구점</>을 봐줘, {@nickname} 박사!
+
+[PopupDialog(dialogHead="$avatar_closure")] 在这里你可以用家具币或至纯源石购买各式各样的家具。
+[PopupDialog(dialogHead="$avatar_closure")] ここでは家具パーツや源石（オリジニウム）を使って色んなインテリアが買えるよ。
+[PopupDialog(dialogHead="$avatar_closure")] Here you can use Furniture Tokens or Originite Prime to buy furniture.
+[PopupDialog(dialogHead="$avatar_closure")] 이곳에서는 가구 부품을 사용하거나 오리지늄으로 여러 가지 인테리어 용품을 살 수 있어.
+
+[PopupDialog(dialogHead="$avatar_closure")] 好多家具送过来的时候都是需要手动拼装的呢......不过干员们对这个好感兴趣，已经都事先拼好了。
+[PopupDialog(dialogHead="$avatar_closure")] インテリアの組み立てはちょっと手こずったけど……オペレーターたちが興味津々だったから、手伝ってもらって全部組み立てておいてあるよ。
+[PopupDialog(dialogHead="$avatar_closure")] Furniture usually requires assembly when it is delivered, but luckily, most Operators enjoy doing this, so your furniture will be ready to use right away.
+[PopupDialog(dialogHead="$avatar_closure")] 가구가 많이 들어올 때는 직접 조립해야 하거든… 주위에서 다들 너무 흥미진진하게 지켜보고 있는 것 같지만… 진작에 다 조립해놨지!
+
+[PopupDialog(dialogHead="$avatar_closure")] 所以博士只要在宿舍中，点击<@tu.kw>装扮模式</>的菜单————
+[PopupDialog(dialogHead="$avatar_closure")] だから宿舎でメニューの<@tu.kw>家具配置</>をタップして……
+[PopupDialog(dialogHead="$avatar_closure")] So, just head to the Dormitory and then tap <@tu.kw>Decoration Mode</>.
+[PopupDialog(dialogHead="$avatar_closure")] 그러니까 박사는 숙소에서 <@tu.kw>인테리어 모드</> 메뉴를 터치해서…
+
+[PopupDialog(dialogHead="$avatar_closure")] 或者进入<@tu.kw>主题</>页面选择<@tu.kw>快速布置</>就可以直接放上崭新的家具了。
+[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>テーマ</>画面で<@tu.kw>一括配置</>を選択すればすぐにオシャレな家具が置けちゃうよ！
+[PopupDialog(dialogHead="$avatar_closure")] You can also go to <@tu.kw>Themes</> and select <@tu.kw>Quick Setup</> to display your new furniture.
+[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>테마</> 화면에서 <@tu.kw>빠른 배치</>를 선택하기만 해도 눈 깜짝할 사이에 방에 예쁜 가구를 배치할 수 있다구!
+
+说到这里，就不得不介绍下我最喜欢的————【时装商店】部分了
+ここまで来たら、紹介しないわけにはいかないよね。あたしの大好きな……【ファッションショップ】を！
+And now my favorite part: the Boutique!
+여기까지 얘기했으면… 드디어 소개할 때가 된 것 같네. 내가 제일 좋아하는… '컬렉션 샵'이야!
+
+[PopupDialog(dialogHead="$avatar_closure")] 时装商店中可以购买到新款服饰，都是专业设计师老师们设计的款式！
+[PopupDialog(dialogHead="$avatar_closure")] ファッションショップではオペレーターの新しい服を買うことが出来るよ。全部プロのデザイナーにデザインしてもらってるんだ！
+[PopupDialog(dialogHead="$avatar_closure")] You can buy the latest outfits designed by professionals here.
+[PopupDialog(dialogHead="$avatar_closure")] 컬렉션 샵에서는 새로운 의상을 살 수 있어. 여기 옷들, 전부 프로 디자이너들이 디자인한 물건이라구!
+
+[PopupDialog(dialogHead="$avatar_closure")] 毕竟即便是在罗德岛，所有成员也需要注意日常打理，正所谓“人靠衣装”......
+[PopupDialog(dialogHead="$avatar_closure")] たとえロドスにいても、みんなも日頃から身だしなみに気を付けなきゃ。ほら、馬子にもなんとやらっていうでしょ？
+[PopupDialog(dialogHead="$avatar_closure")] Even though we're always at Rhodes Island, we still have to look nice.
+[PopupDialog(dialogHead="$avatar_closure")] 로도스 아일랜드 밖으로 나갈 일이 드물다고는 해도, 평소에 차림새에 신경을 좀 써야 하지 않겠어? 옷이 날개라는 말도 있잖아!
+
+[PopupDialog(dialogHead="$avatar_closure")] 因为经过细心调整，服装不会影响干员们的作战发挥，请Dr.{@nickname}放心购买。
+[PopupDialog(dialogHead="$avatar_closure")] 細かいところまでこだわってるから、戦闘に影響は出ないよ。だからDr.{@nickname}！安心してお買い上げくださいませっ！
+[PopupDialog(dialogHead="$avatar_closure")] These outfits do not interfere with battle, so you can rest easy and buy whatever you want for your Operators, Dr {@nickname}.
+[PopupDialog(dialogHead="$avatar_closure")] 디테일한 부분까지 꼼꼼하게 신경 써서 만든 옷이니까, 오퍼레이터들이 전투에 나갈 때도 방해되지는 않을 거야. 그러니까 마음 푹 놓고 많이 사줘, {@nickname} 박사!
+
+[PopupDialog(dialogHead="$avatar_closure")] 啊对了......因为服装会换季，也会下架，所以为了让Dr.{@nickname}不错过选购时机，已经帮您订阅了服装的最新消息推送！只要有新的时装，会通知到您的！
+[PopupDialog(dialogHead="$avatar_closure")] あっ、そうだ！衣替えの時期になるとラインナップが変わって販売終了する服もあるから、新しい服が販売されるときはお知らせするね！
+[PopupDialog(dialogHead="$avatar_closure")] And because these outfits come and go depending on season, we have signed you up for our push notification, Dr {@nickname}. You will be notified when new lines are debuted.
+[PopupDialog(dialogHead="$avatar_closure")] 아, 그렇지! {@nickname} 박사, 시즌마다 주요 상품들도 달라지니까 놓치지 말아 줘~ 신상 관련 소식도 이미 다 구독해뒀으니까, 신상이 도착하면 꼭 알려줄게!
+
+[PopupDialog(dialogHead="$avatar_closure")] 正好有适合芬的新时装！作为开业的礼物，免费给您了！博士记得要亲手送给芬她哦，她一定会很喜欢的！
+[PopupDialog(dialogHead="$avatar_closure")] 今だったらちょうどフェンにぴったりの新しい服があるよ！オープン記念にタダであげちゃう！ドクターからプレゼントしてあげてね。きっと喜ぶよ！
+[PopupDialog(dialogHead="$avatar_closure")] This looks like it would be perfect for Fang! And you can have it for free as the store's opening gift to you. She will love it!
+[PopupDialog(dialogHead="$avatar_closure")] 마침 팽에게 잘 어울리는 새 옷이 있는데, 이번엔 컬렉션 샵 오픈 선물인 셈 치고 무료로 서비스해줄 테니까 잊지 말고 꼭 팽에게 선물해줘! 분명 엄청 좋아할 거야!
+

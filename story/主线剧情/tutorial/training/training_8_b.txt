@@ -1,0 +1,60 @@
+[PopupDialog(focusX=362, focusY=-147, focusWidth=116, focusHeight=130, \
+[PopupDialog(focusX=362, focusY=-147, focusWidth=116, focusHeight=130, \
+[PopupDialog(focusX=362, focusY=-147, focusWidth=116, focusHeight=130, \
+[PopupDialog(focusX=362, focusY=-147, focusWidth=116, focusHeight=130, \
+
+敌人似乎已经发现了我方人手不足的弱点，准备兵分两路发动进攻。
+こちらの人員不足に感づかれたな。下方からも攻めてくるつもりのようだ。
+The enemy seems to have discovered that we are short-handed and are preparing to attack from two directions.
+적이 우리 쪽 병력이 부족하다는 걸 알게 된 모양이군. 적이 아래쪽에서도 올라오기 시작했다.
+
+[PopupDialog(focusX=-60, focusY=63, focusWidth=117, focusHeight=121, anchor="BottomRight", \
+[PopupDialog(focusX=-60, focusY=63, focusWidth=117, focusHeight=121, anchor="BottomRight", \
+[PopupDialog(focusX=-60, focusY=63, focusWidth=117, focusHeight=121, anchor="BottomRight", \
+[PopupDialog(focusX=-60, focusY=63, focusWidth=117, focusHeight=121, anchor="BottomRight", \
+
+所幸我们有一些可挪用的<@tu.kw>障碍物</>。已经将这些障碍物放置于你的操作面板上。
+幸いこの戦場には設置可能な<@tu.kw>障害物</>がいくつかある。操作パネルに追加しておいた。
+Luckily, there are some <@tu.kw>roadblocks</> that we can use. They have been placed on your operating panel now.
+다행히도 이 전장에는 설치 가능한 <@tu.kw>장애물</>이 몇 개 있지. 장애물은 조작 패널에 추가해두었다.
+
+[PopupDialog(dialogHead="$avatar_jesica")] \
+[PopupDialog(dialogHead="$avatar_jesica")] \
+[PopupDialog(dialogHead="$avatar_jesica")] \
+[PopupDialog(dialogHead="$avatar_jesica")] \
+
+啊对了！这些障碍物可以封锁敌人的前进道路，迫使他们<@tu.kw>改变行进路线</>。
+あ、そうですね！障害物で敵の<@tu.kw>進攻ルートを塞いでしまえば</>、無理やり敵の進路を変えることができそうです。
+Ah right! These roadblocks can block the enemy's movement and force them to <@tu.kw>change to a different path</>.
+아, 그럼! 장애물로 진로를 막아 적의 <@tu.kw>공격 루트를 바꾸는 게 가능</>해지겠네요.
+
+[PopupDialog(dialogHead="$avatar_doberm")] \
+[PopupDialog(dialogHead="$avatar_doberm")] \
+[PopupDialog(dialogHead="$avatar_doberm")] \
+[PopupDialog(dialogHead="$avatar_doberm")] \
+
+是的。将它们用在恰当的地方，集中我方的优势兵力，建立更加稳固的防线。
+そうだ。まずは障害物で敵の進攻ルートを限定し、そのルート上に戦力を集中させて強固な防衛体制を固めるんだ。
+Correct. Use them in appropriate locations, so you can concentrate your forces and establish a more solid defense.
+그래. 장애물을 적당한 곳에 두어 아군의 전력을 집중시키면, 방어선을 더 단단히 할 수 있을 거다.
+
+[PopupDialog(focusX=232, focusY=-63, focusWidth=129, focusHeight=121, \
+[PopupDialog(focusX=232, focusY=-63, focusWidth=129, focusHeight=121, \
+[PopupDialog(focusX=232, focusY=-63, focusWidth=129, focusHeight=121, \
+[PopupDialog(focusX=232, focusY=-63, focusWidth=129, focusHeight=121, \
+
+PRTS也会根据当前战场的地形为你推荐一些障碍物放置点。<@tu.kw>长按地形</>可以获得更详细的信息。
+PRTSも地形情報をもとに障害物の設置箇所を提案してくれる。さらに<@tu.kw>地形を長押し</>すると詳しい地形情報を閲覧することも可能だ。
+PRTS (Primitive Rhodes Island Terminal Service) will also recommend some locations for roadblocks based on the current battlefield landscape. <@tu.kw>Tap and hold at a location</> for more details.
+PRTS도 지형 정보를 기반으로 장애물의 설치 포인트를 추천해줄 거다. 이외에도 지형 정보를 자세히 알고 싶다면, <@tu.kw>지형을 길게 터치</>하여 확인할 수 있으니 참고하도록.
+
+[PopupDialog(dialogHead="$avatar_jesica")] \
+[PopupDialog(dialogHead="$avatar_jesica")] \
+[PopupDialog(dialogHead="$avatar_jesica")] \
+[PopupDialog(dialogHead="$avatar_jesica")] \
+
+怪不得不需要我上场了......唔。
+私が戦場に向かわなくてもなんとかなりそうですね……
+No wonder I'm not needed anymore... Hmm.
+그래서 제가 전장에 설 필요가 없었던 거군요… 흑…
+

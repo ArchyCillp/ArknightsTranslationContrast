@@ -1,0 +1,35 @@
+[PopupDialog(dialogHead="$avatar_jesica")] 原来如此，这个敌人身着护甲，也拥有较高防御，物理攻击对他就难以造成伤害。
+[PopupDialog(dialogHead="$avatar_jesica")] なるほど……なかなかダメージを与えられないと思ったら、あの硬そうな防具で防がれてるんですね。
+[PopupDialog(dialogHead="$avatar_jesica")] I see. This enemy is wearing heavy armor and has high defense, so physical attacks can't deal much damage to him.
+[PopupDialog(dialogHead="$avatar_jesica")] 아…… 갑옷을 입고 있는 상대는 방어력이 높다 보니 물리 공격으로 대미지를 주기가 어렵네요.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 原来你之前连这个都不知道吗。
+[PopupDialog(dialogHead="$avatar_doberm")] 今さら気付いたのか。
+[PopupDialog(dialogHead="$avatar_doberm")] Are you telling me you weren't even aware of that?
+[PopupDialog(dialogHead="$avatar_doberm")] 여태까지 그런 것도 몰랐던 건가.
+
+[PopupDialog(dialogHead="$avatar_jesica")] 不！不......我只是不清楚敌人的实际的属性，在黑钢当佣兵时也大部分时间都在进行武器测试......
+[PopupDialog(dialogHead="$avatar_jesica")] 違います！違い……私はただ敵のタイプがちゃんと判断できなかっただけで……BSWでは武器のテストが主な仕事でしたから……
+[PopupDialog(dialogHead="$avatar_jesica")] No! I... I just don't know the enemy's actual attributes. When I served at Blacksteel as a mercenary, I was conducting weapon tests most of the time...
+[PopupDialog(dialogHead="$avatar_jesica")] 아니에요! 그게 아니라… 그냥 적의 실제 스탯을 잘 몰라서 그랬던 거라구요! 블랙스틸에서 용병으로 있을 때는 무기 테스트를 주로 맡다 보니…
+
+[PopupDialog(dialogHead="$avatar_doberm")] 那么，来说一下，这种情况下黑钢给你培训时提供的对策。
+[PopupDialog(dialogHead="$avatar_doberm")] では言ってみろ。こんな時、BSWではどのような対策を講じるように教えられていた。
+[PopupDialog(dialogHead="$avatar_doberm")] Alright then, tell us some options that Blacksteel taught you when facing such a situation.
+[PopupDialog(dialogHead="$avatar_doberm")] 그럼 말해봐라. 블랙스틸에선 이럴 때 어떻게 대응해야 한다고 했었나.
+
+[PopupDialog(dialogHead="$avatar_jesica")] 好，嗯......一个常见的对策是，<@tu.kw>使用法术攻击</>去穿透敌人的护甲。
+[PopupDialog(dialogHead="$avatar_jesica")] はい、わかりました……一般的な対策としては<@tu.kw>術攻撃</>（アーツ）で敵の防御越しに攻撃する……です。
+[PopupDialog(dialogHead="$avatar_jesica")] Okay, hmm... A common solution is to <@tu.kw>use Arts attacks</> to penetrate the enemy's armor.
+[PopupDialog(dialogHead="$avatar_jesica")] 아, 네… 일반적인 대책으로는 <@tu.kw>마법 공격</>으로 적의 방어를 뚫는 공격을 한다… 는 게 있습니다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 可以，你说的很对。好，现在尝试一下吧。
+[PopupDialog(dialogHead="$avatar_doberm")] いいだろう、その通りだ。では実際にやってみるぞ。
+[PopupDialog(dialogHead="$avatar_doberm")] Good, you are correct. Now, try it out.
+[PopupDialog(dialogHead="$avatar_doberm")] 나쁘지 않군. 그래, 그럼 바로 응용해보도록 하지.
+
+[PopupDialog(dialogHead="$avatar_sys")] 术师干员<@tu.kw>杜林</>已待命，可随时部署至战场进行迎击。
+[PopupDialog(dialogHead="$avatar_sys")] 術師オペレーター<@tu.kw>ドゥリン</>が到着しました。いつでも戦場に配置できます。
+[PopupDialog(dialogHead="$avatar_sys")] A Caster Operator, <@tu.kw>Durin</>, is ready. You may deploy her any time.
+[PopupDialog(dialogHead="$avatar_sys")] 캐스터 오퍼레이터 <@tu.kw>두린</>이 현장에 대기 중입니다. 언제든지 전장에 배치하실 수 있습니다.
+

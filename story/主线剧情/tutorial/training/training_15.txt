@@ -1,0 +1,60 @@
+[PopupDialog(dialogHead="$avatar_jesica")] 今天好像有好多人......诶？啊，阿米娅你也来了！
+[PopupDialog(dialogHead="$avatar_jesica")] 今日はなんだか人が多いような？……あ、あれ？アーミヤさんもいらっしゃったんですね！
+[PopupDialog(dialogHead="$avatar_jesica")] Looks like we have many people here today... Huh? Oh, Amiya, you are here too!
+[PopupDialog(dialogHead="$avatar_jesica")] 오늘은 왠지 사람이 많은 것 같은… 어, 어라? 아미야 씨도 와줬네요!
+
+[PopupDialog(dialogHead="$avatar_amiya")] 嗯，杜宾教官来让我参与这次训练，据说今天是最后的训练演习了。
+[PopupDialog(dialogHead="$avatar_amiya")] はい。今回の訓練には出るようにってドーベルマン教官が。なんでも今日は最後の訓練なんだそうです。
+[PopupDialog(dialogHead="$avatar_amiya")] Yeah, Instructor Dobermann asked me to take part in this training too. I heard that today's session would be the last training.
+[PopupDialog(dialogHead="$avatar_amiya")] 네, 도베르만 교관님께서 이번 훈련에는 저도 같이 나와달라고 하셨거든요. 오늘이 마지막 훈련이라면서요.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 是的，在之前的训练中，博士已经基本回顾了所有的基础战斗策略。
+[PopupDialog(dialogHead="$avatar_doberm")] その通りだ。これまでの訓練では、ドクターには基本的な戦略を復習してもらった。
+[PopupDialog(dialogHead="$avatar_doberm")] Correct. Doctor has pretty much reviewed all basic combat strategies in previous trainings.
+[PopupDialog(dialogHead="$avatar_doberm")] 그래. 지금까지의 훈련을 통해 박사에겐 기본적인 전략을 다시 떠올릴 수 있게 해줬다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 接下来，我为了博士准备了最后一道难题：迎击一波敌人的精英部队。
+[PopupDialog(dialogHead="$avatar_doberm")] 今回はドクターに最後の試練として、敵の精鋭部隊を迎撃してもらう。
+[PopupDialog(dialogHead="$avatar_doberm")] Next, I’ve prepared a final challenge for the Doctor — defend against a wave of enemy elites.
+[PopupDialog(dialogHead="$avatar_doberm")] 그리고 이제, 내가 박사에게 줄 수 있는 마지막 과제는 적의 정예 부대를 쓰러뜨리는 것이다.
+
+博士，做好准备。在这次作战中，我严格限制了你的部署费用。
+ドクター、準備はできているか。言い忘れたが、今回の作戦では部隊のコストに制限を設けてある。
+Doctor, get ready. Your deployment points will be very limited in this operation.
+박사, 준비는 됐나? 이번 작전에선 배치 코스트를 제한하도록 하지.
+
+你需要判断时机，撤退暂时不需要的干员以换取更多的部署费用。
+状況に応じて、オペレーターを撤退させたり、交代したりすることでコストをうまくやりくりするんだ。
+You must use your discretion to withdraw temporarily unnecessary Operators for more DP.
+타이밍을 파악하여, 전략상 필요없는 오퍼레이터를 철수시켜 배치 코스트를 회수해야 할 거다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 记住，撤退普通干员时会返还一半的部署费用，撤退翎羽一类的先锋干员时还会<@tu.kw>返还全部部署费用</>。
+[PopupDialog(dialogHead="$avatar_doberm")] オペレーターを撤退させると通常は半分のコストが返還される。だがプリュムのような一部の先鋒オペレーターを撤退させた場合は<@tu.kw>全てのコスト</>が返還される。覚えておくと良い。
+[PopupDialog(dialogHead="$avatar_doberm")] Remember, half of DP cost will be refunded when withdrawing ordinary Operators. For some Vanguard Operators like Plume, <@tu.kw>all DP will be refunded</>.
+[PopupDialog(dialogHead="$avatar_doberm")] 기본적으로 오퍼레이터를 직접 철수시키면 절반의 배치 코스트를 돌려받을 수 있고, 플룸같은 일부 뱅가드 오퍼레이터는 <@tu.kw>배치 코스트를 전부</> 돌려받을 수 있으니, 이점 명심하도록.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 这次的战斗会相当困难，对你而言无疑是一个巨大的挑战。
+[PopupDialog(dialogHead="$avatar_doberm")] 今回の戦闘は相当厳しいものとなり、ドクターにとってもこれまでにない大きな試練になるだろう。
+[PopupDialog(dialogHead="$avatar_doberm")] This is going to be a very tough fight, and without a doubt, a great challenge for you.
+[PopupDialog(dialogHead="$avatar_doberm")] 이번 전투는 결코 쉽지 않을 거다, 박사에게 있어서도 상당한 도전이 될 거야.
+
+[PopupDialog(dialogHead="$avatar_amiya")] 加油，博士。还有杰西卡！
+[PopupDialog(dialogHead="$avatar_amiya")] ドクター、頑張ってください！ジェシカさんも！
+[PopupDialog(dialogHead="$avatar_amiya")] Good luck, Doctor. And you too, Jessica.
+[PopupDialog(dialogHead="$avatar_amiya")] 박사님 힘내세요! 제시카도!
+
+[PopupDialog(dialogHead="$avatar_jesica")] 我会努力的！我已经差不多熟悉状况了，博士，请放心指挥我们吧。
+[PopupDialog(dialogHead="$avatar_jesica")] 頑張ります！わたしも多くの訓練を積んできました。だからドクター、安心して指揮をとってください。
+[PopupDialog(dialogHead="$avatar_jesica")] I will do my best! I think I am very familiar with everything already. Doctor, rest assured that we are ready for your orders.
+[PopupDialog(dialogHead="$avatar_jesica")] 열심히 할게요! 저도 이젠 나름 익숙하다구요. 그러니까 박사님, 안심하고 지휘해주세요.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 是时候让我看看，Dr.{@nickname}，你到底能做到什么地步了。
+[PopupDialog(dialogHead="$avatar_doberm")] 時間だ、Dr.{@nickname}。一体どこまでできるようになったのか、その実力を見せてくれ。
+[PopupDialog(dialogHead="$avatar_doberm")] Dr. {@nickname}, time to show me what you are capable of.
+[PopupDialog(dialogHead="$avatar_doberm")] {@nickname} 박사, 이제 당신의 실력을 보여줄 때다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 为了我们所有人的未来......
+[PopupDialog(dialogHead="$avatar_doberm")] 私たち皆の未来のために……
+[PopupDialog(dialogHead="$avatar_doberm")] For the sake of all of our futures…
+[PopupDialog(dialogHead="$avatar_doberm")] 우리 모두의 미래를 위해……
+

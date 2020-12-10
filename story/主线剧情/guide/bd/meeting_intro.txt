@@ -1,0 +1,85 @@
+[PopupDialog(dialogHead="$avatar_closure")] 欢迎来到<@tu.kw>会客室</>！
+[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>応接室</>へようこそ！
+[PopupDialog(dialogHead="$avatar_closure")] Welcome to the <@tu.kw>Reception Room</>.
+[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>응접실</>에 어서 오세요~!
+
+[PopupDialog(dialogHead="$avatar_closure")] 会客室是你和好友相互交流的场所，下面我将为你做一个简单的介绍。
+[PopupDialog(dialogHead="$avatar_closure")] 応接室はドクターと戦友の交流の場所だよ。簡単に紹介するね。
+[PopupDialog(dialogHead="$avatar_closure")] This is where you can interact with your friends. Let me explain.
+[PopupDialog(dialogHead="$avatar_closure")] 응접실은 박사와 박사의 친구가 교류를 할 수 있는 곳이야. 간단하게 소개할게.
+
+点击打开线索界面
+タップして情報画面を開いて。
+Tap to open the Clues page.
+터치해서 정보 화면을 열어 봐.
+
+[PopupDialog(dialogHead="$avatar_sys")] 在线索界面你可以与好友互相交换线索，这些情报来自各个地方，并通过搜集线索获得<@tu.kw>信用点数</>。
+[PopupDialog(dialogHead="$avatar_sys")] 情報画面では戦友と手がかりの交換が出来ます。この手がかりは各地から届き、手がかり捜索を通して<@tu.kw>FP</>が獲得出来ます。
+[PopupDialog(dialogHead="$avatar_sys")] Here you can exchange Clues with your friends. Clues can be from anywhere. Collect Clues to earn <@tu.kw>Credits</>.
+[PopupDialog(dialogHead="$avatar_sys")] 정보 화면에서는 친구와 서로 단서를 주고받을 수 있습니다. 단서는 여러 곳에서 얻을 수 있고, 단서를 통해서 <@tu.kw>크레딧</> 포인트를 획득할 수도 있습니다.
+
+这里可以为会客室进驻角色。进驻的角色会为你自动搜集线索。
+ここで応接室にオペレーターを配属させられるよ。配属中のオペレーターは能動的に手がかり捜索をするんだ。
+You can assign characters here and they will automatically search for Clues.
+이곳 응접실에 배치된 오퍼레이터는 열심히 단서를 찾아다니게 돼.
+
+点击此处查看线索的生成情况
+ここをタップして進捗を確認してみよう。
+Tap here to see how Clues are discovered.
+이곳을 터치해서 얼마나 진행되었는지 확인해 보자.
+
+左边部分代表了进驻干员的线索搜集进度，在线索库存达到上限之前会一直进行。
+左側には配属中のオペレーターの手がかり捜索の進行度が表示されるよ。手がかり捜索は保管庫の手がかりが満タンになるまで継続されるよ。
+Operators’ Clue-searching progress is shown on the left. It will run until the Clues archive is full.
+왼쪽에는 배치된 오퍼레이터가 얼마나 단서 탐색을 진행했는지 보여주는 진행도가 나타나. 탐색은 보관 창고의 용량이 꽉 찰 때까지 계속 진행될 거야.
+
+右边部分是会客室自动的线索生成进度，领取后会在每天固定时刻刷新。
+右側は応接室が自動的に手がかりファイルを生成する進行度だよ。毎日決まった時間に更新されるから、定期的に受け取ってね。
+The Reception Room's Clue-searching progress is shown on the right. It will refresh daily at a fixed time after a Clue is collected.
+오른쪽에선 응접실이 자동으로 생성하는 단서에 대한 진행도를 보여줘. 한 번 받은 후에는 매일 정해진 시간에 새롭게 업데이트될 거야.
+
+点击退出线索生成页面
+タップして手がかり画面を閉じて。
+Tap to exit.
+터치해서 단서 화면을 닫아보자.
+
+[PopupDialog(dialogHead="$avatar_closure")] 除了能够自己搜集线索以外，还能够从好友处接受线索。
+[PopupDialog(dialogHead="$avatar_closure")] 自分たちで手がかり捜索をする以外に、戦友から手がかりが送られてくることもあるんだ。
+[PopupDialog(dialogHead="$avatar_closure")] You can also accept Clues from friends.
+[PopupDialog(dialogHead="$avatar_closure")] 우리가 오퍼레이터를 동원하거나 응접실을 통해 단서를 찾아내는 것 말고도, 응접실에선 박사가 친구에게 단서를 받을 수도 있어.
+
+[PopupDialog(dialogHead="$avatar_closure")] 不过从好友处获得的线索是有时间限制的，请在获取后尽快使用。
+[PopupDialog(dialogHead="$avatar_closure")] でも戦友から送られてきた手がかりにはタイムリミットがあるんだ。獲得したらすぐに使ってね。
+[PopupDialog(dialogHead="$avatar_closure")] But they have a time limit before expiring, so please use them as soon as possible.
+[PopupDialog(dialogHead="$avatar_closure")] 하지만 친구에게 받은 단서에는 제한 시간이 걸려 있으니까, 받게 되면 바로 사용해줘!
+
+从此处查看好友传递来的线索
+ここから戦友が送ってくれた手がかりの一覧を確認出来るよ。
+View Clues from friends
+여기서는 친구가 보내준 단서를 확인할 수 있어.
+
+[PopupDialog(dialogHead="$avatar_closure")] 你也可以把自己多余的线索传递给好友。这样不仅可以帮助好友搜集线索，也可以立即获得一定<@tu.kw>信用点数</>。
+[PopupDialog(dialogHead="$avatar_closure")] ドクターも余った手がかりは戦友に送ってあげられるからね。戦友の助けになるのはもちろんだけど、送った側は<@tu.kw>FP</>を獲得できるんだ！
+[PopupDialog(dialogHead="$avatar_closure")] You may also send your excess Clues to your friends to help them and earn <@tu.kw>Credits</>.
+[PopupDialog(dialogHead="$avatar_closure")] 박사도 남는 단서가 있으면 친구에게 보내줄 수가 있지. 단서를 주면 친구에게 도움도 되고, <@tu.kw>크레딧</>도 획득할 수 있으니 일석이조!
+
+从此处给好友传递线索
+ここから戦友に手がかりを提供できるよ。
+Tap to send a Clue to a friend
+여기서 친구에게 단서를 보내줄 수 있어.
+
+当你搜集到了所有七种线索以后，就可以将它们解锁。
+7種類の手がかりが全部集まったら、情報交流会が開けるんだ。
+When you have discovered all 7 Clues, you can unlock Clue Exchange.
+총 일곱 종류의 단서를 모두 획득하면 단서를 개방하여 '단서 공유'를 진행할 수 있어.
+
+线索被解锁以后会在一段时间后获得大量的信用点数，并且这段时间内访问你基建的好友可以额外获得<@tu.kw>信用点数</>。
+情報交流会を開けば大量のFPが獲得できるし、交流会の最中に基地訪問をしてくれた戦友も<@tu.kw>FP</>が獲得できるんだ！
+You will earn a large amount of Credits after unlocking all the Clues, and friends that visit your Base will earn additional <@tu.kw>Credits</>.
+단서 공유가 끝나면 크레딧을 대량으로 획득할 수 있고, 단서가 공유되는 동안 우리 응접실에 방문해준 친구는 보너스 <@tu.kw>크레딧</>을 얻을 수 있지!
+
+点击此处解锁所有线索
+手がかりを集めたら、ここをタップして情報交流会を開いてね。
+Tap to unlock all Clues.
+터치해서 단서 공유를 시작해볼까?
+

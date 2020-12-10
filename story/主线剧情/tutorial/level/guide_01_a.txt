@@ -1,0 +1,20 @@
+[PopupDialog(dialogHead="$avatar_amiya")] 博士，时间虽然很紧迫，不过不要担心，我会让你在离开这里前恢复基本的行动力……
+[PopupDialog(dialogHead="$avatar_amiya")] ドクター、時間は緊迫していますが、ここを離れる前に基本的な感覚を取り戻しましょう。
+[PopupDialog(dialogHead="$avatar_amiya")] Doctor, we don't have a lot of time. But don't worry, I will help you to regain basic movement capabilities...
+[PopupDialog(dialogHead="$avatar_amiya")] 박사님, 상황이 긴박하지만 걱정하실 필요는 없어요. 여길 떠나기 전에 기본적인 감각을 되찾도록 하죠.
+
+敌人<@tu.kw>会从这里出现</>。
+敵が<@tu.kw>この場所から現れます</>。
+The enemy <@tu.kw>will show up from here</>.
+적이 <@tu.kw>여기서 나타날 거예요</>.
+
+我们不能让他靠近你，因此<@tu.kw>不要让他们靠近这个位置</>。
+ドクターに攻撃されるわけにはいきませんから、<@tu.kw>敵をこの場所に近づけないようにしてください</>。
+We must not let them reach you, so make sure <@tu.kw>they do not get close to this location</>.
+적이 박사님께 다가가도록 놔둘 순 없으니, <@tu.kw>적이 여기까지 오지 않도록 해주세요</>.
+
+[PopupDialog(dialogHead="$avatar_amiya")] 他们接近了，准备好。
+[PopupDialog(dialogHead="$avatar_amiya")] 敵が接近してきました、準備はいいですか？
+[PopupDialog(dialogHead="$avatar_amiya")] They’re getting closer, so be prepared.
+[PopupDialog(dialogHead="$avatar_amiya")] 적이 가까이 왔네요, 준비해 주세요.
+

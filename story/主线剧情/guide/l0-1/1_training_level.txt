@@ -1,0 +1,50 @@
+[PopupDialog(dialogHead="$avatar_amiya")] 博士，罗德岛的档案库中存放着杜宾老师指导的<@tu.kw>作战演习</>。
+[PopupDialog(dialogHead="$avatar_amiya")] ドクター、ロドスの資料庫にドーベルマン教官が制作した<@tu.kw>演習作戦</>の資料が入っています。
+[PopupDialog(dialogHead="$avatar_amiya")] Doctor, the archives at Rhodes Island contain <@tu.kw>Combat Drill</> stages designed by Dobermann.
+[PopupDialog(dialogHead="$avatar_amiya")] 박사님. 로도스 아일랜드의 자료 보관소에 도베르만 교관님께서 만드신 <@tu.kw>튜토리얼</> 자료를 봐주시겠어요?
+
+[PopupDialog(dialogHead="$avatar_amiya")] 这些演习中包含了基础的作战技巧，相信掌握之后对博士一定大有帮助。
+[PopupDialog(dialogHead="$avatar_amiya")] これらの演習は作戦に役立つテクニックの基本を抑えたものになっています。全て覚えられればきっと指揮の大きな助けになるはずです。
+[PopupDialog(dialogHead="$avatar_amiya")] These exercises cover basic combat skills that will be of great benefit to you when mastered.
+[PopupDialog(dialogHead="$avatar_amiya")] 이 자료들은 작전에 도움이 되는 기본적인 테크닉을 모아 놓은 거니까, 익혀 두면 분명 큰 도움이 될 거예요.
+
+[PopupDialog(dialogHead="$avatar_amiya")] 因为杜宾正在参加营救，所以她不能同时在训练场进行指导。
+[PopupDialog(dialogHead="$avatar_amiya")] ドーベルマン教官はまだ救援作戦に参加中ですので、直接手ほどきをしていただくわけにはいきませんが、
+[PopupDialog(dialogHead="$avatar_amiya")] Dobermann is on a rescue mission, so she is currently unable to guide you.
+[PopupDialog(dialogHead="$avatar_amiya")] 도베르만 교관님께선 아직 구출 작전에 참여 중이시니, 직접 가르쳐주시기는 어려울 것 같네요.
+
+[PopupDialog(dialogHead="$avatar_amiya")] 这边会回放她之前和接受过黑钢训练的干员杰西卡先进行的模拟训练。
+[PopupDialog(dialogHead="$avatar_amiya")] BSWで訓練を受けたジェシカさんと行った模擬訓練の様子を見てみましょう。
+[PopupDialog(dialogHead="$avatar_amiya")] Now we will replay a simulation between her and Jessica, an Operator trained by Blacksteel.
+[PopupDialog(dialogHead="$avatar_amiya")] 예전에 블랙스틸에서 오퍼레이터로 일했던 제시카 씨와 진행한 모의 훈련을 보는 건 어떨까요?
+
+点击进入<@tu.kw>作战室</>
+こちらをタップして<@tu.kw>作戦室</>に移動してください。
+Tap to enter the <@tu.kw>Operation Room</>.
+여기를 터치하여 <@tu.kw>작전실</>로 이동해 주세요.
+
+进行<@tu.kw>作战演习</>的关卡并<@tu.kw>不会消耗理智</>，可以随时进行反复尝试。
+<@tu.kw>演習作戦</>は<@tu.kw>理性を消費しません</>し、何度でも繰り返し挑戦することができます。
+Practicing <@tu.kw>Combat Drills</> <@tu.kw>will not consume Sanity</>, so you can run them as many times as you want.
+<@tu.kw>튜토리얼</> 스테이지는 <@tu.kw>이성을 소비하지 않아서</>, 언제든지 몇 번이고 다시 도전하실 수 있어요.
+
+点击按钮进入战前编队页面。
+こちらをタップして作戦前の編成画面へ移動してください。
+Tap to enter the Squad screen.
+여기를 터치하여 작전 전의 편성 화면으로 이동해 주세요.
+
+[PopupDialog(focusX=-10, focusY=34, focusWidth=388, focusHeight=65, anchor="Bottom", \
+[PopupDialog(focusX=-10, focusY=34, focusWidth=388, focusHeight=65, anchor="Bottom", \
+[PopupDialog(focusX=-10, focusY=34, focusWidth=388, focusHeight=65, anchor="Bottom", \
+[PopupDialog(focusX=-10, focusY=34, focusWidth=388, focusHeight=65, anchor="Bottom", \
+
+博士，所有演习关卡的阵容都<@tu.kw>不可改变</>。如果遇到无法通过演习的情况，请多尝试不同的战术和部署位置。
+ドクター、演習作戦のチームは<@tu.kw>編成することができません</>。もし演習がクリアできない場合は、戦術を変えて繰り返し挑戦してみてください。
+All training stages have <@tu.kw>fixed</> squad compositions. If you cannot clear one, try using different strategies or formations.
+박사님, 튜토리얼 스테이지에서는 <@tu.kw>따로 팀을 편성할 수 없어서</>, 정해진 구성원으로만 클리어하셔야 해요. 만약 클리어하기 어려우시다면, 다른 방향으로 전술을 생각해주시는 게 좋을 것 같아요.
+
+点击按钮开始<@tu.kw>演习</>项目。
+開始ボタンをタップして<@tu.kw>演習</>を始めてください。
+Tap to start <@tu.kw>Drill</>.
+버튼을 터치하여 <@tu.kw>튜토리얼</>을 진행해볼까요?
+

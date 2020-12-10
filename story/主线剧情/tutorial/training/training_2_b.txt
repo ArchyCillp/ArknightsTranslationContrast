@@ -1,0 +1,45 @@
+杰西卡，注意到了么？<@tu.kw>巡林者</>并不会攻击身后范围外的敌人。
+ジェシカ、気付いたか？<@tu.kw>レンジャー</>は攻撃範囲外である後ろの敵は攻撃できない。
+Did you see that, Jessica? <@tu.kw>Rangers</> cannot attack enemies behind him, as they are outside his range.
+제시카, 눈치챘나? <@tu.kw>레인저</>는 '뒤에 있는' 공격 범위 바깥의 적은 공격할 수 없다.
+
+点击<@tu.kw>巡林者</>查看他的信息。
+<@tu.kw>レンジャー</>をタップして情報を見てみるんだ。
+Tap <@tu.kw>Rangers</> to check his information.
+<@tu.kw>레인저</>를 터치하여 정보를 확인해보도록.
+
+橘黄色的区域代表了巡林者的<@tu.kw>攻击范围</>，这个攻击范围会根据巡林者在部署时的朝向而<@tu.kw>固定</>。
+オレンジのエリアがレンジャーの<@tu.kw>攻撃範囲</>だ。この攻撃範囲はレンジャーを配置する際に設定した向きに従い<@tu.kw>固定</>される。
+The orange area represents Rangers' <@tu.kw>Attack Range</>, which <@tu.kw>is determined</> by the direction assigned to him when deployed.
+주황색으로 표시된 구역이 레인저의 <@tu.kw>공격 범위</>다. 이 공격 범위는 레인저를 배치할 때 지정한 방향에 따라 <@tu.kw>고정</>된다.
+
+除非<@tu.kw>撤退</>或<@tu.kw>倒下</>，干员的朝向和攻击范围在干员部署后就<@tu.kw>无法更改</>，所以在决定干员的朝向时一定要谨慎。
+<@tu.kw>撤退</>するか<@tu.kw>倒された後</>に再配置しない限り、配置済みのオペレーターの向きと攻撃範囲は<@tu.kw>変更することができない</>。オペレーターを設置する際の向きには常に気を払っておけ。
+Unless an Operator has <@tu.kw>retreated</> or <@tu.kw>fallen</>, his direction and attack range <@tu.kw>cannot be changed</> as long as he is deployed. Make sure you take this into consideration before deploying an Operator.
+직접 <@tu.kw>철수</>시키거나 <@tu.kw>적에게 쓰러져</> 강제 철수된 다음 재배치하지 않는 이상은, 배치가 완료된 오퍼레이터의 방향과 공격 범위는 <@tu.kw>변경할 수 없다</>. 그러니 오퍼레이터의 배치 방향을 지정할 땐 특히 더 조심하도록.
+
+现在的巡林者，无法攻击到身后穿过的源石虫。
+今レンジャーは、後ろを通り抜けようとしている敵には攻撃できない状態だ。
+At this stage, Rangers cannot attack the Originium Slugs crossing behind him.
+지금 레인저는 자신의 '뒤에 있는' 원석충을 공격할 수 없다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 不过没关系，我们还可以部署其他干员，来对这些区域进行防守。
+[PopupDialog(dialogHead="$avatar_doberm")] だが問題ない。他のオペレーターを配置して、そのエリアの守りを固めればいいだけだ。
+[PopupDialog(dialogHead="$avatar_doberm")] But don't worry, we can deploy other Operators to defend the area.
+[PopupDialog(dialogHead="$avatar_doberm")] 하지만 문제없어. 레인저의 사각지대는 다른 오퍼레이터를 배치해서 지키면 되니까.
+
+点击将视角调回战场。
+空いた場所をタップして戦場に戻れ。
+Tap to go back to the battlefield.
+비어있는 공간을 터치하여 전장 화면으로 돌아가 보도록 하지.
+
+将狙击干员<@tu.kw>安德切尔</>部署至此。
+狙撃オペレーター<@tu.kw>アドナキエル</>をこの場所に配置するんだ。
+Deploy Sniper Operator, <@tu.kw>Adnachiel</>, to this location.
+스나이퍼 오퍼레이터 <@tu.kw>아드나키엘</>을 이곳에 배치해라.
+
+向上拖动让他的朝向设置为上。决定好方向以后干员才会真正被部署至战场。
+上にスライドして上向きに配置しろ。オペレーターは向きを指定しないと戦場には配置できないからな。
+Set his direction to up by dragging upward. An Operator will only be deployed to battle after you have specified the direction.
+그리고 위쪽으로 드래그하여 아드나키엘이 위를 바라보도록 해라. 오퍼레이터의 방향까지 지정해줘야 배치가 완료되는 거다.
+

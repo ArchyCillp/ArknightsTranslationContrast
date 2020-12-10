@@ -1,0 +1,180 @@
+[name="杜宾"]   所有人都到了？
+[name="ドーベルマン"]   皆揃ったか？
+[name="Dobermann"]   Is everyone here?
+[name="도베르만"]   다 왔나?
+
+[name="阿米娅"]   嗯，各部门人员都到了，我们可以开始了。
+[name="アーミヤ"]   はい、各部署のメンバーの皆さんも集まりました。
+[name="Amiya"]   Mhm, all our Operators from the various departments are here. We're ready to begin.
+[name="아미야"]   네, 각 부서 인원 모두 도착했습니다. 시작하시죠.
+
+[name="杜宾"]   那么直接进入正题吧。普罗旺斯。
+[name="ドーベルマン"]   では本題に入ってくれ、プロヴァンス。
+[name="Dobermann"]   Let's get straight to the point then. Provence.
+[name="도베르만"]   그럼 본론으로 바로 들어가지, 프로방스.
+
+[name="普罗旺斯"]   好的，那么我就开始了。
+[name="プロヴァンス"]   分かりました。じゃあ始めるよ。
+[name="Provence"]   Sure, I'll start.
+[name="프로방스"]   알았어, 그럼 시작할게.
+
+[name="普罗旺斯"]   如大家所见，我们已经收到了来自危机合约的新联络。
+[name="プロヴァンス"]   見ての通り、危機契約機構から新しい連絡を受けたんだ。
+[name="Provence"]   As everyone can see, we've received new contacts from the Contingency Contract network.
+[name="프로방스"]   다들 알다시피, 위기 협약 기구에서 새로운 연락을 받았어.
+
+[name="普罗旺斯"]   罗德岛上次的合约完成情况远远超出了大家的意料，得到了危机合约机构的一致肯定。
+[name="プロヴァンス"]   ロドスは前回の危機契約で、予想よりもずっと良い結果を残せたみたい。それで彼らの全面的な肯定を得られたんだ。
+[name="Provence"]   Rhodes Island's performance in completing the last contract far exceeded everyone's expectations, and earned us the unanimous praise of the Contingency Contract agency.
+[name="프로방스"]   저번 위기 협약에서 예상보다 좋은 성과를 거둬서, 위기 협약 기구에서도 상당히 좋게 봤다나 봐.
+
+[name="普罗旺斯"]   博士精确地挑选了各项合约，在每一次战斗中完成多项指标，给危机合约机构留下深刻的印象。
+[name="プロヴァンス"]   ドクターが的確に契約内容を選んでくれたおかげだね。どの戦闘でもたくさんの契約を果たせたから、良い結果を出せたんだ。
+[name="Provence"]   The Doctor expertly selected multiple contracts and also completed extra objectives at each combat site, leaving a deep and favorable impression upon the agency.
+[name="프로방스"]   박사가 알맞은 계약 내용을 고르고, 전투에서 많은 목표를 완수한 게 깊은 인상을 남겨준 거겠지.
+
+[name="普罗旺斯"]   即使是我们也没想到，适宜地安排干员进行作战会让效率提高如此之多。
+[name="プロヴァンス"]   うまくオペレーターを手配できれば、あんなに効率がアップするんだね。僕、初めて知ったよ。
+[name="Provence"]   Even we did not anticipate that properly assigning our Operators would produce such a dramatic increase in efficiency.
+[name="프로방스"]   오퍼레이터를 제대로 배치하는 것만으로 그렇게나 효율이 올라갈 줄은 정말 몰랐어.
+
+[name="阿米娅"]   因为博士的出色工作，不仅罗德岛本身获取了大量物资帮助，也平复了诸多地区的动乱。
+[name="アーミヤ"]   前回の危機契約で、ロドスは大量の物資を得られただけでなく、多くのエリアの暴動を収めることができましたからね。あの時のドクターの活躍、本当にすごかったです。
+[name="Amiya"]   Due to the Doctor's superb work, not only did we receive a large amount of support in the form of resources, but we even quelled much of the turmoil across many areas.
+[name="아미야"]   박사님의 훌륭한 활약 덕분에, 로도스 아일랜드는 대량의 물자뿐만 아니라, 많은 구역의 폭동을 가라앉힐 수 있었어요.
+
+[Decision(options="我只是普通地完成工作而已。;啊，有吗？;因为阿米娅帮助了我很多。",values="1;2;3")]
+[Decision(options="ただ普通に仕事をこなしただけだ。;え、そんなに？;アーミヤが色々助けてくれたからだ。",values="1;2;3")]
+[Decision(options="I just did what was expected of me.;Oh, is that so?;I couldn't have done it without Amiya's help.",values="1;2;3")]
+[Decision(options="난 그저 평소처럼 업무를 수행했을 뿐이야.;아, 그래?;모두에게 도움이 되었다니 다행이군.",values="1;2;3")]
+
+[name="阿米娅"]   博士也太谦虚了，您的付出大家都看在眼里的！
+[name="アーミヤ"]   謙遜しすぎですよ、ドクター。皆さんがドクターの努力をちゃんと見てます！
+[name="Amiya"]   You don't need to be too humble, Doctor. Everyone knows how hard you've been working!
+[name="아미야"]   박사님은 너무 겸손하세요. 얼마나 힘써주셨는지 다들 알고 있다고요!
+
+[name="阿米娅"]   如果没有博士的指引的话，我们肯定没法完成那么多的合约需求。
+[name="アーミヤ"]   ドクターの引率がなければ、私たちは絶対に、あんなに多くの契約を成し遂げることはできませんでした。
+[name="Amiya"]   Without your guidance, there's no way we would have been able to fulfill many of the contract requirements.
+[name="아미야"]   박사님의 지도가 없었다면, 그렇게 많은 협약 요구를 달성하진 못했을 거예요.
+
+[name="普罗旺斯"]   博士竟然完全没有觉察到吗？
+[name="プロヴァンス"]   ドクター、まさか自分の力に気づいてないの？
+[name="Provence"]   Doctor, did you really not even notice?
+[name="프로방스"]   박사는 전혀 자각하지 못한 거야?
+
+[name="普罗旺斯"]   在合约中体现的决断力原来只是下意识的判断？
+[name="プロヴァンス"]   契約中に見せた決断は、全部無意識でやってたってこと？
+[name="Provence"]   The razor-sharp judgment exhibited during the completion of the previous contract was nothing more than subconscious instinct?
+[name="프로방스"]   그럼 협약에서 보여준 그 결단력은 그저 무의식적인 판단이었나?
+
+[name="普罗旺斯"]   不愧是博士！
+[name="プロヴァンス"]   さっすがドクター！
+[name="Provence"]   As one would expect of the Doctor!
+[name="프로방스"]   역시 박사네!
+
+[name="阿米娅"]   我也只是辅助而已，博士才是那个努力最多的人。
+[name="アーミヤ"]   私はちょっとサポートしただけです。ドクターが一番努力されてたことは、みんなが知っていますよ。
+[name="Amiya"]   I was just doing what I can to help out. You worked the hardest out of all of us, Doctor.
+[name="아미야"]   전 그저 옆에서 돕기만 했을 뿐, 사실 가장 많이 노력하신 건 박사님이거든요.
+
+[name="杜宾"]   ......吹捧的话差不多就行，普罗旺斯继续说这次危机合约。
+[name="ドーベルマン"]   ……褒めるのはそれぐらいにしておけ。プロヴァンス、引き続き説明を頼む。
+[name="Dobermann"]   ...Anyway, let's not toot our own horn excessively. I'll continue explaining the new contract we just got.
+[name="도베르만"]   ......치켜세워주는 건 여기까지만 하지. 프로방스, 이번 위기 협약에 대해 계속 얘기해 봐.
+
+[name="普罗旺斯"]   多亏了上次的成绩，罗德岛和危机合约机构总算是再次达成了稳定的协议关系。
+[name="プロヴァンス"]   はぁい。まぁとにかく、前回の成績のおかげでロドスは危機契約機構と、また安定した協定関係を結べることになったんだ。
+[name="Provence"]   Thanks to our performance last time, Rhodes Island has managed to once again reach a stable agreement with the Contingency Contract agency.
+[name="프로방스"]   저번 성적 덕분에, 로도스 아일랜드와 위기 협약 기구는 다시 한 번 안정적인 협력 관계를 맺게 되었어.
+
+[name="普罗旺斯"]   在今后的时间里，每隔一段时间罗德岛都能稳定地接收到来自危机合约的委托了。
+[name="プロヴァンス"]   だからロドスは今後一定期間ごとに、危機契約機構からの依頼を受けることになるよ。
+[name="Provence"]   In the future, we will be able to receive a more steady influx of requests from the Contingency Contract network.
+[name="프로방스"]   앞으로는 일정 기간마다 위기 협약의 의뢰를 받게 될 거야.
+
+[name="普罗旺斯"]   这次的合约也同样指向多个地区，已经在相关文件上为博士标注了出来。
+[name="プロヴァンス"]   今回の危機契約も、前回と同じで複数のエリアが対象だよ。ファイル上に印をつけてあるからチェックしてね。
+[name="Provence"]   Like the last one, this contract also has objectives distributed across multiple sites, and I've already marked the relevant documents for your convenience, Doctor.
+[name="프로방스"]   이번 위기 협약도, 저번처럼 다양한 구역에서 진행될 거야. 자세한 건 여기 파일에 표시해뒀으니까 나중에 확인해줘.
+
+[name="普罗旺斯"]   各个地区虽然遭到的问题不尽相同，但是都急切的需要帮助。
+[name="プロヴァンス"]   エリアごとに直面してる問題はそれぞれ違うけど、どれも急ぎの救援が必要なことは変わらないよ。
+[name="Provence"]   Although each region has its own set of crises, they all urgently need help.
+[name="프로방스"]   구역마다 상황은 다르지만, 전부 우리의 도움이 필요하단 것만은 확실해.
+
+[name="普罗旺斯"]   然后是各项合约细节内容，和以前一样，需要阿米娅和博士来进行确认和安排。
+[name="プロヴァンス"]   各契約の確認と割り振りは、前回と同じようにアーミヤとドクターに任せるね。
+[name="Provence"]   Then, there are the specifics within each contract. Like last time, you and Amiya will need to decide on how to best distribute our forces.
+[name="프로방스"]   계약 내용을 확인한 다음엔, 저번처럼 아미야와 박사가 알아서 진행해줘.
+
+[name="普罗旺斯"]   判断合约的难度并合理调度干员的工作，相信对你们来说一点都不陌生了。
+[name="プロヴァンス"]   契約の難易度を判断して、うまくオペレーターを割り当てる仕事はもうお手の物だと思うから。
+[name="Provence"]   I expect that by now, you are no stranger to the tasks of assessing the difficulty of the contract as well as making sure the right Operators are deployed to the right places.
+[name="프로방스"]   오퍼레이터를 편성할 땐, 계약의 난이도를 충분히 고려하는 점 잊지 말고!
+
+[name="普罗旺斯"]   随着合约内容危险性的提高，我们也采用了新的合约危险度检测机制。
+[name="プロヴァンス"]   あと、契約内容の危険度が上がった影響で、新しい契約危険度の測定システムが採用されたんだ。
+[name="Provence"]   With the increase in contract difficulty, we've adopted a new mechanism to assess the risk of a contract.
+[name="프로방스"]   그리고… 더 위험한 계약을 맺게 되었으니, 우리한테도 새로운 협약 위험도 검사 시스템이 필요할 거야.
+
+[name="普罗旺斯"]   通过专门的合约评估系统，我们会对每次作战的结果做出记录和数据收集。
+[name="プロヴァンス"]   専用の契約評価システムを通じて、作戦ごとに結果の記録とデータの収集が行われるよ。
+[name="Provence"]   Through a special contract evaluation system, we will record and analyze the data from each combat operation.
+[name="프로방스"]   전문적인 협약 평가 시스템을 통해, 모든 작전의 결과에 대한 기록과 데이터를 수집할 거야.
+
+[name="普罗旺斯"]   为了避免出现意外，只有在合约完成数目逐渐提高之后，后续危险度评级更高的委托才会逐渐解锁。
+[name="プロヴァンス"]   万が一のことがないように、危険度が高い依頼は、契約の履行完了数によって解放されていくからね。
+[name="Provence"]   In order to avoid unexpected incidents, we will gradually unlock higher-risk contracts only after increasing the number of contracts we've completed.
+[name="프로방스"]   만약의 사태가 벌어지지 않도록, 위험도가 높은 의뢰는 진행된 협약 개수에 따라 수락할 수 있게 되어 있어.
+
+[name="普罗旺斯"]   相信我们可以循序渐进地完成这次的危机合约任务。
+[name="プロヴァンス"]   これまでの経験があれば、順番にうまくこなしていけるはずだよ！
+[name="Provence"]   I trust that we will be able to complete this contract, one step at a time.
+[name="프로방스"]   지금까지의 경험을 살리면, 분명 순조롭게 해결해낼 수 있을 거라 믿어!
+
+[name="杜宾"]   想要获得更高回报，自然代表着更高风险。
+[name="ドーベルマン"]   より良い報酬を得るためには、当然リスクも高くなる。
+[name="Dobermann"]   If we want to obtain greater rewards, we will naturally also have to take on greater risk.
+[name="도베르만"]   더 나은 보수를 얻기 위해선, 더 큰 위험을 마주해야 한다.
+
+[name="杜宾"]   不管以前做的再好，现在也不能放松警惕。
+[name="ドーベルマン"]   前回の危機契約で良い成績を収めたとはいえ、油断は禁物だぞ。
+[name="Dobermann"]   No matter how good our past performances have been, we can't afford to get sloppy with our work.
+[name="도베르만"]   저번 위기 협약에서 좋은 성과를 거두었다고 너무 방심하지는 않는 편이 좋을 거다.
+
+[name="杜宾"]   与此相对，罗德岛内也设立了新的训练场地，专门为模拟各种合约条件进行作战演习。
+[name="ドーベルマン"]   また、危機契約の様々な契約内容に応じた演習を行うために、ロドス内部に新しい訓練場を設立した。
+[name="Dobermann"]   On this point, Rhodes Island has set up new training grounds specifically to conduct combat exercises that simulate the various conditions we'd encounter while carrying out our contracts.
+[name="도베르만"]   그리고, 로도스 아일랜드 내에 신규 훈련지를 설립했다. 다양한 협약 조건에 맞춰 작전 시뮬레이션을 진행할 수 있도록 설계됐지.
+
+[name="杜宾"]   如果博士有需要，也可以多加利用。
+[name="ドーベルマン"]   ぜひ有効に活用してくれ。
+[name="Dobermann"]   Feel free to make ample use of them if needed.
+[name="도베르만"]   박사도 필요하다면 얼마든지 이용해도 좋다.
+
+[name="杜宾"]   做好战前的准备永远都是胜利的第一步。
+[name="ドーベルマン"]   作戦前の周到な準備は、常に勝利への第一歩となる。
+[name="Dobermann"]   Preparation is always the first step of victory.
+[name="도베르만"]   철저한 사전 준비야말로 승리를 향한 첫걸음이니까.
+
+[name="普罗旺斯"]   那么，危机合约————代号荒芜行动，正式转交给博士。
+[name="プロヴァンス"]   じゃあ、危機契約————作戦コード「荒廃」に関して、正式にドクターに委任するよ。
+[name="Provence"]   Now then, I will be officially transferring this contingency contract to you, Doctor - Codename, Operation Barrenland.
+[name="프로방스"]   그럼 정식으로, 위기 협약, '황무지' 작전의 지휘권을 박사에게 위임할게.
+
+[name="普罗旺斯"]   PRTS会做好后续的相关资料整理工作，如果还有疑问博士可以在管理界面进行再确认。
+[name="プロヴァンス"]   ここからはPRTSが関連資料の整理をしてくれるよ。もし何か分からないことがあったら管理画面で確認してね。
+[name="Provence"]   Subsequently, PRTS will collate all the relevant materials, so please check the management interface if you are unsure about anything.
+[name="프로방스"]   이제부턴 PRTS가 관련 자료를 정리해줄 거야. 혹시 또 모르는 게 있으면 관리 화면을 확인해줘.
+
+[name="普罗旺斯"]   行动正式开始，祝大家一切顺利。
+[name="プロヴァンス"]   じゃあ始めよう。みんなどうか無事でね。
+[name="Provence"]   The operation has officially begun. I wish everyone the best of luck.
+[name="프로방스"]   그럼 시작해볼까. 박사와 함께라면 해낼 수 있을 것 같은 기분이 들어.
+
+[name="普罗旺斯"]   愿我们能为这片多灾的大地带去希望。
+[name="プロヴァンス"]   この多事多難な大地に、僕たちが希望をもたらしていこう。
+[name="Provence"]   May we bring hope to this Catastrophe-stricken land.
+[name="프로방스"]   우리와 위기 협약이, 다재다난한 이 땅에 한 줄기 희망을 내려줄 수 있기를.
+

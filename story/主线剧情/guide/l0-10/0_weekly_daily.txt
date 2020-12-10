@@ -1,0 +1,40 @@
+[PopupDialog(dialogHead="$avatar_sys")] \
+[PopupDialog(dialogHead="$avatar_sys")] \
+[PopupDialog(dialogHead="$avatar_sys")] \
+[PopupDialog(dialogHead="$avatar_sys")] \
+
+现在还需要你了解一下新开放的资源型作战。
+ドクターには物資調達作戦にも参加していただければと思います。
+Next, you will need to understand the new Resource Skirmishes.
+물자 비축을 위한 작전에도 박사님께서 참여하여 주시기를 권장 드립니다.
+
+点击进入<@tu.kw>作战室</>界面
+こちらをタップして<@tu.kw>作戦室</>画面へ移動してください。
+Tap to enter the <@tu.kw>Operation Room</>.
+여기를 터치하여 <@tu.kw>작전실</> 화면으로 이동해 주십시오.
+
+[PopupDialog(dialogHead="$avatar_amiya")] 为了弥补持续作战的消耗，大家的作战能力，保障罗德岛资源的补给线是日常活动中重要的一环。
+[PopupDialog(dialogHead="$avatar_amiya")] 日々の作戦で消費される物資を補給し、ロドスの活動力を維持することも日々の仕事の一つです。
+[PopupDialog(dialogHead="$avatar_amiya")] In order to recoup operational expenses and equipment upkeep, maintaining Rhodes Island’s supply line is one of the most important daily responsibilities.
+[PopupDialog(dialogHead="$avatar_amiya")] 계속되는 작전으로 소비되는 자원을 보충하고, 오퍼레이터분들의 작전 수행 능력을 유지하기 위해서도, 로도스 아일랜드의 자원 수집 경로를 유지하는 것은 매우 중요한 임무 중 하나에요.
+
+[PopupDialog(dialogHead="$avatar_sys")] 在资源型作战关卡中，需要通过接受特定的委托来补充特定的资源。
+[PopupDialog(dialogHead="$avatar_sys")] 参加する物資調達作戦の種類によって、それぞれ異なる資源を獲得することができます。
+[PopupDialog(dialogHead="$avatar_sys")] In Resource Skirmishes, you must complete special requests to replenish different resources.
+[PopupDialog(dialogHead="$avatar_sys")] 물자 비축 작전에서는 각기 다른 작전에 참여해 정해진 자원을 획득하실 수 있습니다.
+
+点击进入资源型作战关卡选择界面
+こちらをタップして物資調達作戦の選択画面へ移動してください。
+Tap to enter Resource Skirmish stage selection.
+여기를 터치하여 물자 비축 작전 선택 화면으로 이동해 주십시오.
+
+[PopupDialog(dialogHead="$avatar_sys")] 不同于正面战场的行动，各种资源型作战的开放时间会根据日期的不同有所限制。如果遇到当天没有开放的作战行动，请改日再来。
+[PopupDialog(dialogHead="$avatar_sys")] 物資調達作戦は通常の作戦とは異なり、日によって開放される作戦が異なります。そのため、開放されていない作戦に挑戦したい場合は日を改める必要があります。
+[PopupDialog(dialogHead="$avatar_sys")] Unlike the main campaign, Skirmishes for different resources are open at different times. Come back on another day if the resource you are trying to replenish is not available.
+[PopupDialog(dialogHead="$avatar_sys")] 각종 물자 비축 작전은, 일반 작전과는 달리 날마다 참여하실 수 있는 작전이 달라집니다. 그러니 만약 원하시는 작전이 개방되어 있지 않다면 다른 날에 다시 도전하셔야 합니다.
+
+[PopupDialog(dialogHead="$avatar_sys")] 资源型作战的补给奖励比一般作战更加丰厚，请务必合理安排作战的时机。
+[PopupDialog(dialogHead="$avatar_sys")] 物資調達作戦の報酬は、通常の作戦よりも豪華なものになっています。計画的に実施されることをおすすめいたします。
+[PopupDialog(dialogHead="$avatar_sys")] Resource Skirmishes provide better rewards than most standard operations, so please plan around them accordingly.
+[PopupDialog(dialogHead="$avatar_sys")] 물자 비축 작전의 보상은 일반 작전 보상보다 풍부한 편이니, 시간이 되실 때마다 주기적으로 진행하시는 것을 권장 드립니다.
+

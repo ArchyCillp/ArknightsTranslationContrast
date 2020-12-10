@@ -1,0 +1,530 @@
+[name="萨卡兹佣兵领袖"]  你......我对你有印象......同胞。我们在战场上见过面。
+[name="サルカズ傭兵のリーダー"]  お前のことは……覚えている……同胞よ。戦場で会ったことがあるだろう。
+[name="Sarkaz Mercenary Leader"]  You... I’ve seen you somewhere before... comrade. We’ve met on the battlefield before.
+[name="살카즈 용병 리더"]  너…… 어디서 본 것 같은데…… 동포여. 우리 전쟁터에서 만난 적이 있지 않나.
+
+[name="萨卡兹佣兵领袖"]  ......唉，唉。你不该来切尔诺伯格，罗德岛的信息已经分发给了全队。你和你的部下都会死。
+[name="サルカズ傭兵のリーダー"]  ……お前たちは、チェルノボーグに来るべきではなかった。ロドスの情報は既に全部隊に知れ渡っている。お前も、部下も、全員死ぬぞ。
+[name="Sarkaz Mercenary Leader"]  ...Hey, hey. You shouldn’t have come to Chernobog. Everybody here has the intel on Rhodes Island. You’re all going to die here.
+[name="살카즈 용병 리더"]  이런, 이런…… 넌 체르노보그에 와선 안 됐어. 로도스 아일랜드의 정보는 이미 모든 팀에게 전파했다. 너와 내 부하는 곧 죽은 목숨이나 다름없지.
+
+[name="萨卡兹佣兵领袖"]  不过，即使你们如此优秀，还是不应该如此轻易地穿过W负责的防线，除非......
+[name="サルカズ傭兵のリーダー"]  だが、お前たちがいくら優秀だとしても、Wが敷いた防衛線をここまで容易く越えられるとは……もしや……
+[name="Sarkaz Mercenary Leader"]  But no matter how good you are, you shouldn’t have been able to get through W’s defensive line. Not unless...
+[name="살카즈 용병 리더"]  하지만 너희가 아무리 우수하다고 해도, W의 방어선을 쉽게 뚫을 수는 없을 거다.
+
+[name="萨卡兹佣兵领袖"]  这么说来，她还是做出了这个选择。其实我们都有预料到。
+[name="サルカズ傭兵のリーダー"]  そうか、彼女はやはりそれを選んだのか。実のところ、予想はしていた。
+[name="Sarkaz Mercenary Leader"]  By the looks of things, she ended up making that choice after all. In fact, we all expected it.
+[name="살카즈 용병 리더"]  그런가, 그럼 그녀도 선택했다는 얘기겠군. 사실 우리도 모두 예상하고 있었다.
+
+[Decision(options="你们中有人曾和我们并肩作战。;这是我们还在战场上谈话的唯一理由。", values="1;2")]
+[Decision(options="あんたたちの中にはかつて共に戦った奴もいる。;それが今、俺がここで話をしている唯一の理由だ。", values="1;2")]
+[Decision(options="Some of you fought with us, side-by-side.;That’s the only reason we’re still exchanging words on the battlefield.", values="1;2")]
+[Decision(options="너희 중에 우리와 함께 작전을 펼친 자가 있었다.;이것이 우리가 전쟁터에서 대화를 나누는 유일한 이유다.", values="1;2")]
+
+[name="萨卡兹佣兵领袖"]  ......特蕾西娅是个卓越的领袖，她改变了很多人对这片大地的看法。
+[name="サルカズ傭兵のリーダー"]  ……テレジアは素晴らしい統率者だった。彼女に影響を受け、多くの者が――
+[name="Sarkaz Mercenary Leader"]  ...Theresa was an exceptional leader. She changed the way many people see this patch of dirt.
+[name="살카즈 용병 리더"]  ……테레시아는 좋은 리더였어. 그녀는 이 땅에 사는 많은 사람들의 생각을 바꿔주었지.
+
+[name="萨卡兹佣兵领袖"]  理想化的看法。
+[name="サルカズ傭兵のリーダー"]  この地に、理想を抱いた。
+[name="Sarkaz Mercenary Leader"]  But it was an idealized viewpoint.
+[name="살카즈 용병 리더"]  이 땅에, 이상이란 걸 품게 해 주었지.
+
+[name="萨卡兹佣兵领袖"]  不用急着反驳，我比你更清楚卡兹戴尔所面临的残酷，我并不想否定她，但比起一个伟大的过程，我只想要一个微不足道的结果。
+[name="サルカズ傭兵のリーダー"]  反論は急がなくていい。私はお前よりもカズデルが直面したことの残酷さを知っている。彼女を否定するつもりはないが、私からすれば、偉大な過程より小さな結果の方が重要だ。
+[name="Sarkaz Mercenary Leader"]  You don’t need to argue with me. I know better than you the cruelty that Kazdel has faced, nor do I want to deny her. But for such a tremendous effort, I just want to see some semblance of results.
+[name="살카즈 용병 리더"]  성급하게 반박하지 않아도 돼. 카즈델이 직면한 상황에 대해서는 내가 너보다 더 잘 알고 있으니까. 그녀를 부정할 생각은 없지만, 내가 알고 싶은 건 위대한 과정보다는, 단순한 결과거든.
+
+[name="萨卡兹佣兵领袖"]  只有如今摄政王的手腕能为萨卡兹带来新的未来，绝不是泛滥的善意。
+[name="サルカズ傭兵のリーダー"]  善意だけではどうにもならないこともある。今、サルカズに新たな未来を与えられるのは、摂政王だけだ。
+[name="Sarkaz Mercenary Leader"]  Only by the Regent’s hand can a new future come to Kazdel. There’s not enough goodwill to go around for everyone.
+[name="살카즈 용병 리더"]  지금 살카즈에 새로운 미래를 가져다줄 수 있는 것은 섭정왕의 능력이지, 선의 따위가 아니야.
+
+[Decision(options="我们本可以试着携手共进，至少不用同归于尽。", values="1")]
+[Decision(options="俺たちは協力することができると思っていた。", values="1")]
+[Decision(options="We could have tried to work together. Or at least so that we don’t have to die together.", values="1")]
+[Decision(options="우리는 함께 협력해볼 수 있었어, 적어도 같이 죽을 필요는 없으니까.", values="1")]
+
+[name="萨卡兹佣兵领袖"]  愚蠢的想法，萨卡兹绵长的愤懑如何安放？长久以来的倾斜如何扶正？
+[name="サルカズ傭兵のリーダー"]  それはあまりにも愚かな考えだ。サルカズの長きに渡る怒りにどう始末をつける？　時間と共に傾いた天秤はどう正す？
+[name="Sarkaz Mercenary Leader"]  A naive notion. How are we supposed to set aside our years of discontent as Sarkaz? How are we to right a long history of wrongs?
+[name="살카즈 용병 리더"]  멍청한 생각이군. 살카즈의 깊은 분노는 어떻게 가라앉힐 생각이지? 지금까지 이어져 온 불공평은 어떻게 바로 잡을 건데?
+
+[name="萨卡兹佣兵领袖"]  未感染者，乌萨斯。感染者，整合运动。萨卡兹，卡兹戴尔。
+[name="サルカズ傭兵のリーダー"]  非感染者とウルサス。感染者とレユニオン。サルカズとカズデル。
+[name="Sarkaz Mercenary Leader"]  Ursus and the uninfected. Reunion and the Infected. Kazdel and the Sarkaz.
+[name="살카즈 용병 리더"]  비감염자는 우르수스에, 감염자는 리유니온에, 살카즈는 카즈델에……
+
+[name="萨卡兹佣兵领袖"]  都是一回事，与整合运动合作的日子里我更加确信了这件事。
+[name="サルカズ傭兵のリーダー"]  結局は、どれも同じだった。レユニオンと共に戦ってきた日々で、私はそれを確信した。
+[name="Sarkaz Mercenary Leader"]  It’s all the same. I became more convinced of it during the time I spent working with Reunion.
+[name="살카즈 용병 리더"]  다 똑같아. 리유니온과 협력하면서 확신이 들더군.
+
+[name="萨卡兹佣兵领袖"]  摄政王殿下能为我们开拓一个新的家园，我只是选择追随这个可能性。
+[name="サルカズ傭兵のリーダー"]  摂政王殿下は、我々のために新しい居場所を切り開いてくださる。私はその可能性に賭けることを選んだんだ。
+[name="Sarkaz Mercenary Leader"]  His Royal Highness, the Regent, can open a new home for us, and I’ve chosen to chase this opportunity.
+[name="살카즈 용병 리더"]  섭정왕이야말로 우리에게 새로운 세상을 열어줄 수 있다. 그래서 나는 그 가능성을 선택한 것뿐이고.
+
+[name="萨卡兹佣兵领袖"]  一如当年，你们天真地追随特蕾西娅。
+[name="サルカズ傭兵のリーダー"]  お前たちが何の疑いもなく、テレジアに従っていたようにな。
+[name="Sarkaz Mercenary Leader"]  Just as in the past, you still naively cling to Theresa.
+[name="살카즈 용병 리더"]  너희가 아무것도 의심하지 않고, 테레시아를 쫓는 것처럼 말이야.
+
+[name="萨卡兹佣兵领袖"]  ......好了。
+[name="サルカズ傭兵のリーダー"]  ……ああ、余計な話はこの辺にしておこう。
+[name="Sarkaz Mercenary Leader"]  ...That’s enough.
+[name="살카즈 용병 리더"]  ……됐어.
+
+[name="萨卡兹佣兵领袖"]  既然W把你放了进来，你一定也付出了代价。
+[name="サルカズ傭兵のリーダー"]  お前がここまで来れたのは、Wの協力があったからだろう。彼女に何の対価を払った？
+[name="Sarkaz Mercenary Leader"]  Since W decided to let you through, you must’ve also paid the price.
+[name="살카즈 용병 리더"]  W가 너를 놓아준 것을 보니, 너도 대가를 치른 모양이군.
+
+[name="萨卡兹佣兵领袖"]  你付出了什么呢？为了拖延时间掩护你而丧命的部下？甚至是......你自己？
+[name="サルカズ傭兵のリーダー"]  時間稼ぎに使った部下の命か？　それとも……お前自身か？
+[name="Sarkaz Mercenary Leader"]  What did you give up? An underling who died to buy you time? Or... maybe your own soul?
+[name="살카즈 용병 리더"]  뭘 내놓았지? 너를 위해 시간을 끌던 부하들의 목숨인가? 아니면 혹시…… 너 자신까지?
+
+[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
+[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
+
+[name="萨卡兹佣兵领袖"]  告诉我你现在的名字吧。
+[name="サルカズ傭兵のリーダー"]  お前の今の名前を教えてくれ。
+[name="Sarkaz Mercenary Leader"]  Tell me the name you go by now.
+[name="살카즈 용병 리더"]  지금은 무슨 이름을 쓰고 있나?
+
+[Decision(options="——Scout。;雇佣兵不也都是用假名的吗，加尔森。", values="1;2")]
+[Decision(options="――Scout。;傭兵はみんな偽名を使うだろ。なぁガルシン。", values="1;2")]
+[Decision(options="—Scout.;Don’t mercenaries also use codenames, Garcin?", values="1;2")]
+[Decision(options="……스카우트.;용병들은 모두 가명을 쓰잖아, 가르상.", values="1;2")]
+
+[name="萨卡兹佣兵领袖"]  很耳熟的代号，为表尊重，我本来是想把你的本名刻在这把刀上。
+[name="サルカズ傭兵のリーダー"]  聞き慣れたコードネームだな。敬意を表して、お前の本名をこの刀に刻もうと思っていたのだが。
+[name="Sarkaz Mercenary Leader"]  It’s been a while since I heard that name. Originally, I wanted to carve your name onto this knife as a show of respect.
+[name="살카즈 용병 리더"]  익숙한 코드네임이군. 사실 네 이름을 칼에 새겨넣을 생각이었어. 존경의 의미로 말이야.
+
+[name="萨卡兹佣兵领袖"]  ......你说得也对。
+[name="サルカズ傭兵のリーダー"]  ……その通りだ。
+[name="Sarkaz Mercenary Leader"]  ...But you’re right.
+[name="살카즈 용병 리더"]  ……그렇긴 하지.
+
+[name="伊内丝"]  放弃抵抗吧。
+[name="イネス"]  抵抗はやめなさい。
+[name="Ines"]  Stop resisting.
+[name="이네스"]  저항은 포기해.
+
+[name="伊内丝"]  ......还有你的十二位队员，已经被确认全灭了。
+[name="イネス"]  ……あなたの十二人の部隊は、もう全滅したわ。
+[name="Ines"]  ...The twelve other members of your team have been eliminated.
+[name="이네스"]  ……네 팀원 12명 모두 죽은 것을 확인했어.
+
+[name="伊内丝"]  雷发，米米，图钉，死于整合运动术师的包围网正中，有一个是站着死的。
+[name="イネス"]  レイファ、ミミ、サムタックはレユニオンの術師の包囲網の中で死んだ。一人は立ったままね。
+[name="Ines"]  Leafa, Mimi, and Thumbtack died after being surrounded by Reunion casters. One died on her feet.
+[name="이네스"]  리파, 미미, 섬택은 리유니온 캐스터들에게 포위되서 죽었어. 그중 하나는 선 채로 죽었지.
+
+[name="伊内丝"]  小玛丽，长音，斯琳珂，长蝎占据了一处阵线，W亲自带队过去了。
+[name="イネス"]  マリー、ロングトーン、スリンカー、スコーピオンは戦線を維持してたけど、Wの部隊にやられたわ。
+[name="Ines"]  Mary, Macron, Slink, and Scorpion held a section that W broke with her own team.
+[name="이네스"]  메리, 마크롱, 슬링크, 스콜피온은 전선 하나를 차지하고 있던데, W가 직접 팀을 이끌고 거기로 가고 있고.
+
+[name="伊内丝"]  姆拉姆，酒莓软芯，淤兰，和我们的一支小队同归于尽，有人杀出了重围，然后被赫德雷的刀兵斩首。
+[name="イネス"]  ムラム、カクテル、ユランは私たちの分隊と相打ちになった。結構頑張っていたけど、最後はヘドリーの刀兵に首を落とされたわ。
+[name="Ines"]  Milim, Tipsy, and Mudflower took one of our teams down with them. One of them fought her way out of the trap, but Hoederer’s swordsmen got her head.
+[name="이네스"]  밀리므, 팁시, 머드플라워는 우리 팀 중 하나랑 같이 죽었어. 포위망을 뚫은 녀석도 있었지만, 외드레르의 칼에 쓰러졌지.
+
+[name="伊内丝"]  普特尔刚才死在那栋楼下，很意外，好像是为了救一个没来得及撤出的平民。
+[name="イネス"]  プータルはついさっき、あのビルの下敷きになったところよ。逃げ遅れた市民を助けるためにだったみたい。
+[name="Ines"]  Unexpectedly, Pter died downstairs over there not too long ago. Apparently tried to save some civilian who didn’t have time to evacuate.
+[name="이네스"]  프터는 조금 전에 그 건물 아래에서 죽었어. 웬 평민을 구하려다 죽은 모양인데, 별꼴이지 정말?
+
+[name="伊内丝"]  索拉娜还留着一口气，被带回去了，想必她会想方设法自尽的吧。
+[name="イネス"]  まだ息があったソラナは、連れ帰られたわ。でもきっと、拷問される前に自害するでしょうね。
+[name="Ines"]  Slanna’s still breathing and we took her in, but she’s probably looking for some way to kill herself.
+[name="이네스"]  슬라나는 아직 숨이 붙어있어서 데리고 갔어. 분명 모든 방법을 동원해서 자살하려고 하겠지.
+
+[name="伊内丝"]  ......还不吭声吗。
+[name="イネス"]  ……これでもまだ黙ってるの？
+[name="Ines"]  ....What, nothing to say?
+[name="이네스"]  ……이래도 계속 입 다물고 있을 거야?
+
+[name="伊内丝"]  别躲了，你听得见，影子一清二楚，你的气息混乱不堪，伤得不轻。
+[name="イネス"]  息が乱れてるわね……かなりの怪我なんでしょう？　隠れたって無駄よ。影を見れば全部わかるんだから。
+[name="Ines"]  Stop hiding. I know you can hear me. I can see your shadow, and I can tell from your ragged breathing that you’re badly wounded.
+[name="이네스"]  호흡이 불안정한 걸 보니까 상처도 꽤 깊은 모양인데, 숨지 말고 그냥 나오지그래, 내가 하는 말 다 듣고 있잖아? 그림자가 똑똑히 보인다고.
+
+[name="Scout"]  ......你为什么知道他们的名字？
+[name="Scout"]  ……どうして隊員たちの名前を知っている？
+[name="Scout"]  ...Why do you know their names?
+[name="스카우트"]  ……어떻게 그 이름들을 알고 있는 거지?
+
+[name="伊内丝"]  W特意嘱咐过，你们会把兵牌一类的东西挂在身上。
+[name="イネス"]  あなたたちはみんな、軍の認識票みたいなものを身に着けてるじゃない。Wが言ってたわ――
+[name="Ines"]  W told me specifically for the occasion. You guys keep some kind of dogtags on you.
+[name="이네스"]  너희가 군번줄 같은 걸 걸고 다닌다고, W가 특별히 이야기해 줬거든.
+
+[name="伊内丝"]  “至少杀了谁还是要弄明白的，这里毕竟不是卡兹戴尔，不留神杀错人可就不好办了”。
+[name="イネス"]  「誰を殺したのか、ちゃんと確認しないとね。ここはカズデルじゃないから、殺し間違えたら大変でしょ。」って。
+[name="Ines"]  “At least you have to know who you killed. This isn’t Kazdel anymore. It’d be bad if you killed the wrong person.”
+[name="이네스"]  적어도 누구를 죽였는지를 확실히 알아야 한다고, 여기는 카즈델이 아니라서 실수로 다른 사람을 죽이면 큰일이라 그러더라.
+
+[name="Scout"]  那不是兵牌，牺牲的那些干员们......也不全是士兵。
+[name="Scout"]  あれは軍のものとは違う。犠牲になった者たちは……皆が皆兵士というわけじゃないからな。
+[name="Scout"]  Those aren’t dogtags, and the operators we lost... weren’t all soldiers.
+[name="스카우트"]  그건 군번줄이 아니야. 희생된 오퍼레이터들은…… 병사가 아니다.
+
+[name="Scout"]  我以为会是W来亲自动手。
+[name="Scout"]  俺の始末をつけに来るのは、Wだと思ってた。
+[name="Scout"]  I thought W would finish me herself.
+[name="스카우트"]  W가 직접 올 줄 알았는데.
+
+[name="伊内丝"]  她......哼，我要是说她不忍心亲手解决你，你会信吗？
+[name="イネス"]  Wは……自分でやるのは辛いらしいわよ。そう言ったら信じる？
+[name="Ines"]  Hmph. She... Would you believe me if I told you that she doesn’t have the heart to do that?
+[name="이네스"]  흥…… W가 너를 직접 끝낼 수 없을 것 같다고 했다면, 믿을래?
+
+[name="伊内丝"]  摄政王派来的领袖已经被你杀了，想要接管的可不止她一个，她现在比较忙。
+[name="イネス"]  あなたは摂政王が派遣したリーダーを殺した。そしてその座を奪うために、Wは忙しくしてる――
+[name="Ines"]  You killed the leader that the Regent sent. She’s not the only one who wants to take over, so she has her hands full.
+[name="이네스"]  섭정왕이 보낸 리더는 이미 네 손에 죽었어. 여기에 끼고 싶어 하는 게 걔 하나만은 아니라서 말이야. 그리고, 걘 지금 좀 바쁘거든.
+
+[name="伊内丝"]  就像当时你和W说好的一样。
+[name="イネス"]  あなたとWが決めてた通りにね。
+[name="Ines"]  Like the agreement you had with W.
+[name="이네스"]  그때, 너와 W가 이야기했던 것처럼 말이야.
+
+[name="伊内丝"]  一旦你完成任务，我们就会“后知后觉”地全力歼灭你们。
+[name="イネス"]  あなたが任務を終えた後、「異変に気付いた」私たちがあなたたちを討つ。そういう流れなんでしょ。
+[name="Ines"]  As soon as you complete your mission, we’ll annihilate you with all our strength, in “hindsight.”
+[name="이네스"]  네가 임무를 마치면, 우리는 '그 뒤에' 전력으로 너희를 죽일 생각이야.
+
+[name="Scout"]  ......
+[name="Scout"]  ……
+[name="Scout"]  ...
+[name="스카우트"]  ……
+
+[name="伊内丝"]  ......你在巷战的过程中还抽空救了个人。但现在，那不是我们的管辖范围。
+[name="イネス"]  ……あなたは市街戦の中で人を救った。でもあそこは、私たちの管轄じゃないわ。
+[name="Ines"]  ...During the firefight, you even took the time to rescue someone. But, that’s not any of our business.
+[name="이네스"]  ……시가전을 치르는 중에도 틈틈이 사람들을 구했더라? 하지만 지금은, 우리 관할이 아니라서.
+
+[name="伊内丝"]  但是爱国者在那里，你不需要过问。
+[name="イネス"]  パトリオットがいたから、心配もいらなかったんだけどね。
+[name="Ines"]  Patriot is over there, so there’s no need to bother with that.
+[name="이네스"]  그쪽엔 지금 패트리어트가 가 있으니까, 걱정은 하지 말고.
+
+[name="Scout"]  ......这样，就好。
+[name="Scout"]  ……それで、いいさ。
+[name="Scout"]  ...Good.
+[name="스카우트"]  ……그런가. 다행이네.
+
+[name="Scout"]  你们......变了，过去的W不是个会刻意记住死者名讳的人。
+[name="Scout"]  あんたたちは……変わった。昔のWはわざわざ死者の名前を覚えておくような奴じゃなかった。
+[name="Scout"]  You’ve all... changed. W was not the kind of person to go out of her way to remember the names of the dead.
+[name="스카우트"]  너희는…… 변했구나. 예전의 W는 죽은 사람들 이름 따위는 기억하지 않았는데.
+
+[name="伊内丝"]  她确实变了，但更多时候是变得更像个疯子。
+[name="イネス"]  確かに変わったわね。でも相変わらず……ううん、前以上に狂ってるところもある。
+[name="Ines"]  Yeah, she did change. But she’s only become more of a lunatic.
+[name="이네스"]  그 녀석은 확실히 변했지. 하지만 전보다 더 미친 거 같더라.
+
+[name="伊内丝"]  你纯粹的战地经验就堪比浮士德的源石技艺，说不定只是为了让你动摇，好让我用法术捕捉你才故意记下名字的呢？
+[name="イネス"]  もしかしたらＷは、あなたを動揺させるためにわざわざ名前を覚えておいたのかもしれないわよ？　私のアーツであなたを捉えやすくなるようにね。
+[name="Ines"]  Your experience on the battlefield is pure, like Faust’s Arts. Who’s to say that this wasn’t just a ruse to trip you up? What if she only wrote down their names so I could toy with you with my Arts?
+[name="이네스"]  네 전쟁 경험은 파우스트의 오리지늄 아츠랑 견줄 정도로 위협적이니까 말이야. 단지 널 동요하게 만들어서 아츠로 널 더 쉽게 잡으려고 일부러 이름을 기억한 거란 생각은 안 해봤어?
+
+[name="Scout"]  ......老样子，总不放过任何取乐的机会。
+[name="Scout"]  ……暇さえあれば人をからかうところは、変わらないんだな。
+[name="Scout"]  ...That sounds like her. She would never miss an opportunity to have some fun.
+[name="스카우트"]  ……하여튼 틈만 나면 사람 놀리는 건 여전하구만.
+
+[name="伊内丝"]  彼此，你不是也接受了这种W才能想出来的疯狂交易。
+[name="イネス"]  お互い様でしょ。あなただって、Wにしか思いつかないような狂った取引に応じたんだから。
+[name="Ines"]  Same with you. Didn’t you also agree to this crazy deal that only W could come up with?
+[name="이네스"]  뭐, 너도 W가 생각해낸 미친 거래를 받아들였잖아?
+
+[name="Scout"]  用我的命换取一个机会，再让该把握住这个机会的人把握住它，这并不疯狂。
+[name="Scout"]  俺の命と引き換えに手に入れたチャンスを然るべき奴に託す。これは狂った取引なんかじゃない。
+[name="Scout"]  Trading my life for an opportunity, then letting those who should take that opportunity follow through? There’s nothing crazy about that.
+[name="스카우트"]  내 목숨으로 기회를 만들고, 그 기회로 또 다른 기회를 만들어낼 수 있다면, 꼭 미쳤다고 할 수는 없지.
+
+[name="Scout"]  还有我牺牲的队员们，也一样。他们为了自己的理念而死，没有他们，我无法成功。
+[name="Scout"]  犠牲になった俺の隊員たちも、同じ考えだろうよ。彼らは自分の理想のために死んだ。そして俺は、彼らなしではこの任務を成しえなかった。
+[name="Scout"]  Just like those who sacrificed their lives. They died for their own ideals. Without them, I cannot succeed.
+[name="스카우트"]  죽은 내 팀원들도 마찬가지야. 다 자신의 신념을 위해서 죽은 거다. 내 팀원들 없이 난 성공할 수 없었을 거다.
+
+[name="伊内丝"]  ......看来时过境迁，大家都有一些变化。
+[name="イネス"]  ……時間と共に、みんな少なからず変わったのね。
+[name="Ines"]  ...It seems like everyone’s changed with the passing of time.
+[name="이네스"]  아무래도 시간이 지나면서…… 다들 조금씩 변한 모양이네.
+
+[name="Scout"]  你也是，过去的你绝不会像现在这样，给敌人喘息的空间。
+[name="Scout"]  あんたもだ。昔のあんたは、こんな風に敵と話したりしなかった。
+[name="Scout"]  You too. You never would’ve given your enemy time to breathe, like you’re doing now.
+[name="스카우트"]  너도 마찬가지야. 예전의 너는, 절대로 적에게 숨 쉴 틈 같은 건 주지 않았거든.
+
+[name="Scout"]  赫德雷应该提醒过你。
+[name="Scout"]  ヘドリーも警告していたはずだ。
+[name="Scout"]  Hoederer should have warned you.
+[name="스카우트"]  외드레르가 알려준 적 있을 텐데.
+
+[name="伊内丝"]  ——
+[name="イネス"]  ――
+[name="Ines"]  What?!
+[name="이네스"]  ……
+
+[name="伊内丝"]  为什么还要抵抗？
+[name="イネス"]  どうしてまだ抵抗するの？　もう勝てないって――
+[name="Ines"]  Why are you still resisting?
+[name="이네스"]  왜 아직도 저항하는 거야?
+
+[name="伊内丝"]  ......啧，不见了......
+[name="イネス"]  ……チッ、消えた……
+[name="Ines"]  ...Tch... He’s gone...
+[name="이네스"]  ……쳇, 사라졌나……
+
+[name="伊内丝"]  ......
+[name="イネス"]  ……
+[name="Ines"]  ...
+[name="이네스"]  ……
+
+[name="伊内丝"]  但愿你能就这么逃掉......
+[name="イネス"]  逃げきってくれれば、いいんだけどね……
+[name="Ines"]  But don’t think you can get away so easily...
+[name="이네스"]  그냥 이렇게 도망쳐 줬으면 좋겠는데……
+
+[name="伊内丝"]  （这个方向吗？）
+[name="イネス"]  （この辺り……）
+[name="Ines"]  (This way?)
+[name="이네스"]  (이쪽 방향인가?)
+
+[name="伊内丝"]  （......）
+[name="イネス"]  （……）
+[name="Ines"]  (......)
+[name="이네스"]  (……)
+
+[name="伊内丝"]  （没错，这里。动作真快。）
+[name="イネス"]  （間違いない、こっちへ来てるわ。素早いわね。）
+[name="Ines"]  (No doubt, this is the way. He’s fast.)
+[name="이네스"]  (맞아, 여기야. 동작이 꽤 빠르네.)
+
+[name="伊内丝"]  （麻烦的家伙，如果他没有受伤，恐怕我连他人都见不着......）
+[name="イネス"]  （本当に面倒な奴……でも怪我をしててラッキーだったわ。もし無傷ならきっと、逃げた痕跡すら追えなかった……）
+[name="Ines"]  (Tricky bastard. If he wasn’t injured, I might not even be able to keep up...)
+[name="이네스"]  (귀찮은 녀석이네. 만약 다치지 않았다면 그림자조차도 볼 수 없었겠지……)
+
+[name="伊内丝"]  （等等。）
+[name="イネス"]  （……えっ？）
+[name="Ines"]  (Wait...)
+[name="이네스"]  (잠깐.)
+
+[name="伊内丝"]  （他......他在向核心城转移？）
+[name="イネス"]  （なんで……中枢エリアに向かってるの？）
+[name="Ines"]  (He... he’s heading towards the middle of the city?)
+[name="이네스"]  (저 녀석…… 도시 중앙으로 가고 있는 건가?)
+
+[name="伊内丝"]  （那里——啧！）
+[name="イネス"]  （あそこは――チッ！）
+[name="Ines"]  (That’s where... Tch!)
+[name="이네스"]  (저기는…… 쳇!)
+
+[name="伊内丝"]  ......该死！
+[name="イネス"]  ……クソッ！
+[name="Ines"]  ...Damn it!
+[name="이네스"]  ……젠장!
+
+[name="伊内丝"]  已经这么靠近核心城了，你到底想干什么？
+[name="イネス"]  こんなところまで来て、何をするつもり？
+[name="Ines"]  What are you after, so close to the core city?
+[name="이네스"]  이렇게 중앙까지 오다니, 대체 무슨 생각이지?
+
+[name="伊内丝"]  老老实实离开切尔诺伯格不行吗！？
+[name="イネス"]  黙って素直にチェルノボーグから出ていきなさいよ！？
+[name="Ines"]  Why can’t you just get out of Chernobog?!
+[name="이네스"]  그냥 얌전히 체르노보그를 떠나면 안 되는 거야?!
+
+[name="Scout"]  ......你有时候真不像是个萨卡兹，伊内丝。
+[name="Scout"]  ……あんたは時々、サルカズらしくないことを言うな。
+[name="Scout"]  ...You really don’t act like a Sarkaz at times, Ines.
+[name="스카우트"]  ……넌 가끔 살카즈 같지 않을 때가 있어, 이네스.
+
+[name="伊内丝"]  我本来就不是。
+[name="イネス"]  私は元々サルカズじゃないわ。
+[name="Ines"]  I never was one.
+[name="이네스"]  원래부터 아니었거든?
+
+[name="Scout"]  ——你该继续装下去的，你是个萨卡兹雇佣兵，而这里是战场。
+[name="Scout"]  ――そんなことを俺に話すべきじゃない。ここは戦場で、あんたはサルカズの傭兵だ。
+[name="Scout"]  —You should keep pretending that you are. You are a Sarkaz mercenary, and this is the battlefield.
+[name="스카우트"]  ……계속 그렇게 지내야지. 너는 살카즈 용병이고, 여기는 전쟁터니까.
+
+[name="伊内丝"]  现在你跑不动了，失血过多，头晕，四肢发冷，除了你的影子像是要烧起来一样，你不应该还能站着。
+[name="イネス"]  あなたの影、消えそうになってるわね。出血も多いし、立ってるのがやっとなんじゃない？
+[name="Ines"]  You can’t even run anymore. You’ve lost too much blood, your head is spinning, and your limbs are going numb. Your shadow’s the only thing still burning. You shouldn’t even be able to stand.
+[name="이네스"]  너 더는 못 움직여. 출혈이 심해서 어지러운 데다, 팔다리가 차가워지고 있을 텐데? 그림자는 아직도 활활 타오르는 것처럼 보이긴 하지만, 지금 서 있기도 힘든 상태 아니야?
+
+[name="Scout"]  我的伤，我自己有数，何况这里还有那么多的整合运动。
+[name="Scout"]  だから何だ。自分の身体のことは、自分が一番わかってる。こんな山程レユニオンがいるところで、生き長らえられるなんて思っちゃいないさ。
+[name="Scout"]  I’m well aware of my own injuries. Besides, this place is crawling with Reunion.
+[name="스카우트"]  내 상처는 내가 잘 알아. 게다가 여기에는 온통 리유니온 뿐이니.
+
+[name="Scout"]  而对你们......你，赫德雷，还有W......我有一个建议。
+[name="Scout"]  はぁ……あんたとヘドリー、あとはWに……一つアドバイスだ。
+[name="Scout"]  But for the lot of you... You, Hoederer, and also W... I have a suggestion.
+[name="스카우트"]  그리고 너희…… 너, 외드레르, 그리고 W…… 너희에게 제안할 게 있다.
+
+[name="伊内丝"]  ......念在殿下的份上。
+[name="イネス"]  ……何？　最後に聞いてあげるわ。
+[name="Ines"]  ...For Her Majesty’s sake.
+[name="이네스"]  폐하를 봐서라도…… 들어주지.
+
+[name="Scout"]  用你的眼睛看清真相，在那之前不要白白死去。
+[name="Scout"]  ……あんたの目で真実を見極めろ。その日が来るまでは、無駄死にするな。
+[name="Scout"]  Use those eyes of yours to see the truth, and don’t die in vain before that.
+[name="스카우트"]  네 눈으로 진상을 보기 전까지, 헛되게 죽지 마라.
+
+[name="Scout"]  我们......萨卡兹不该这样继续被人利用了。
+[name="Scout"]  俺たち……サルカズは、このまま利用され続けるべきじゃない。
+[name="Scout"]  We Sarkaz... should not allow others to continue to use us.
+[name="스카우트"]  우리 살카즈는…… 계속 이렇게 이용당해서는 안 돼.
+
+[name="伊内丝"]  你在说法术？这里能看到什——
+[name="イネス"]  それは……私のアーツのことを言ってるの？　ここで何が見え――
+[name="Ines"]  Are you talking about my Arts? What am I supposed to be seeing—
+[name="이네스"]  아츠를 말하는 거야? 여기서 대체 뭘 볼 수 있다는……
+
+[name="伊内丝"]  ——
+[name="イネス"]  ――
+[name="Ines"]  ——
+[name="이네스"]  ……
+
+[name="伊内丝"]  ————
+[name="イネス"]  ――――
+[name="Ines"]  ————
+[name="이네스"]  ……
+
+[name="伊内丝"]  ——这是......这......这是谁......这种......
+[name="イネス"]  ――これは……こ……これは誰……こんな……
+[name="Ines"]  ——What... this... Who is this... why...?
+[name="이네스"]  ……이…… 이건…… 대체 누구의…… 이런……
+
+[name="塔露拉？"]  ......
+[name="タルラ？"]  ……
+[name="Talulah?"]  ...
+[name="탈룰라?"]  ……
+
+[name="塔露拉？"]  ......萨卡兹？
+[name="タルラ？"]  ……サルカズか？
+[name="Talulah?"]  ...Sarkaz?
+[name="탈룰라?"]  ……살카즈?
+
+[name="伊内丝"]  ——！
+[name="イネス"]  ――！
+[name="Ines"]  ——!
+[name="이네스"]  ……!
+
+[name="伊内丝"]  不可能，被察觉到了——！？
+[name="イネス"]  気づかれたの――！？　あり得ないわ！
+[name="Ines"]  Impossible... She saw me?!
+[name="이네스"]  들켰나……?! 말도 안 돼!
+
+[name="Scout"]  （机会——！）
+[name="Scout"]  （チャンスだ――！）
+[name="Scout"]  (Now’s my chance—!)
+[name="스카우트"]  (기회다……!)
+
+[name="赫德雷"]  很久不见了。
+[name="ヘドリー"]  久しぶりだな。
+[name="Hoederer"]  Long time no see.
+[name="외드레르"]  오랜만이군.
+
+[name="Scout"]  唔......你？你原来......还活着。
+[name="Scout"]  くっ……あんたまだ……生きてたんだな。
+[name="Scout"]  Nngh... You? So... you’re alive...
+[name="스카우트"]  크윽…… 너…… 아직 살아있었냐……
+
+[name="赫德雷"]  嗯。
+[name="ヘドリー"]  ああ。
+[name="Hoederer"]  Mhm.
+[name="외드레르"]  그래.
+
+[name="赫德雷"]  我一直在跟着你，只靠伊内丝，很难对付你这样的高手。
+[name="ヘドリー"]  お前をつけていた。イネス一人でお前の相手をするのは、荷が重いと思ってな。
+[name="Hoederer"]  I’ve been following you this whole time. I figured Ines alone wouldn’t be enough to handle an elite like you.
+[name="외드레르"]  계속 따라다니고 있었다. 이네스 혼자서는 너 같은 고수를 상대하기 힘드니까.
+
+[name="赫德雷"]  虽然交易内容就是要付出性命，我们也没打算手下留情，但我还是希望你能......
+[name="ヘドリー"]  取引条件はお前の命だ。それに慈悲を示すつもりはなかったが、それでも俺はお前に生きて……いや――
+[name="Hoederer"]  The price to pay for this information is your life. And though we never planned to show any mercy, I did hope that you would...
+[name="외드레르"]  거래 내용은 목숨이었고, 우리도 봐줄 생각은 없지만 그래도 네가……
+
+[name="赫德雷"]  可现在我们已经不能给你更多机会了，这里太过靠近核心城了，W不希望任何人的注意力转移到这里。
+[name="ヘドリー"]  もうこれ以上チャンスを与えてやることはできない。ここは中枢に近すぎる。Wはこの場所に、誰も入れたくないんだ。
+[name="Hoederer"]  But now, we can’t give you any more chances. You’re too close to the core city. W doesn’t want anyone poking around over there.
+[name="외드레르"]  아니…… 우리도 너에게 더는 기회를 줄 수는 없다. 여긴 도시 중앙과 너무 가까워, W는 여기에 이목이 쏠리는 걸 원치 않을 거다.
+
+[name="Scout"]  呵......听上去......现在她才是队长了......
+[name="Scout"]  フッ……どうやら……今の隊長はＷみたいだな……
+[name="Scout"]  Heh... Sounds like... she’s the captain now...
+[name="스카우트"]  훗…… 지금은 W가 대장이라 이건가……
+
+[name="Scout"]  你......原来......
+[name="Scout"]  あんたは……最初から……
+[name="Scout"]  You... always...
+[name="스카우트"]  넌…… 원래……
+
+[name="赫德雷"]  ......抱歉。睡吧，老朋友。
+[name="ヘドリー"]  ……すまない。そろそろ休んでくれ、友よ。
+[name="Hoederer"]  ...I’m sorry. Sleep now, old friend.
+[name="외드레르"]  ……미안하다. 푹 쉬도록, 오랜 친구여.
+
+[name="Scout"]  你们......不该继续待在这里......
+[name="Scout"]  あんたたちは……ここにいるべきじゃない……
+[name="Scout"]  You... should not stay here...
+[name="스카우트"]  너희는…… 여기에 있으면 안 돼……
+
+[name="赫德雷"]  ......我知道的，老朋友。
+[name="ヘドリー"]  ……そんなこと、わかっている。
+[name="Hoederer"]  ...I know, old friend.
+[name="외드레르"]  ……알고 있다, 친구여.
+
+[name="赫德雷"]  我一直都知道的。
+[name="ヘドリー"]  最初からな。
+[name="Hoederer"]  I’ve known that all along.
+[name="외드레르"]  처음부터…… 잘 알고 있었다.
+
+[name="伊内丝"]  赫德雷！
+[name="イネス"]  ヘドリー！
+[name="Ines"]  Hoederer!
+[name="이네스"]  외드레르!
+
+[name="赫德雷"]  你刚才动摇了，为什么？
+[name="ヘドリー"]  イネス、さっきは何を驚いていたんだ？
+[name="Hoederer"]  You hesitated back there. Why?
+[name="외드레르"]  방금 왜 동요했던 거지?
+
+[name="伊内丝"]  ——快走！
+[name="イネス"]  ――早く！　行くわよ！
+[name="Ines"]  —Hurry!
+[name="이네스"]  ……어서 가!
+
+[name="伊内丝"]  我们必须马上通知W，必须——
+[name="イネス"]  すぐにWに知らせないと、何としてでも――
+[name="Ines"]  We need to let W know, immediately!
+[name="이네스"]  당장 W에게 알려야 해. 반드시……
+
+[name="伊内丝"]  啧！她靠近了！
+[name="イネス"]  チッ！　近づいてくる！
+[name="Ines"]  Tch! She’s coming!
+[name="이네스"]  쳇! 온다!
+
+[name="塔露拉"]  ......
+[name="タルラ"]  ……
+[name="Talulah"]  ...
+[name="탈룰라"]  ……
+

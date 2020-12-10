@@ -1,0 +1,35 @@
+[PopupDialog(dialogHead="$avatar_amiya")] 啊对了，博士你应该还有不少疑问。
+[PopupDialog(dialogHead="$avatar_amiya")] まだわからないことだらけだと思います。
+[PopupDialog(dialogHead="$avatar_amiya")] Oh right, Doctor. You probably still have a lot more questions.
+[PopupDialog(dialogHead="$avatar_amiya")] 아 참, 아직 궁금하신 게 분명 많으시겠죠.
+
+[PopupDialog(dialogHead="$avatar_amiya")] 这里还有一些最基本的界面信息。
+[PopupDialog(dialogHead="$avatar_amiya")] 続けていくつか基本的な画面情報を紹介しますね。
+[PopupDialog(dialogHead="$avatar_amiya")] Here is some basic information about the interface.
+[PopupDialog(dialogHead="$avatar_amiya")] 기본적인 화면 정보를 몇 가지 소개해 드릴게요.
+
+右上方是暂停按钮，点击可以<@tu.kw>暂停或继续</>。
+右上のこちらは一時停止ボタンです。タップすれば<@tu.kw>一時停止と再開</>を行うことができます。
+The pause button is located on the top right—hand corner. You can tap it to <@tu.kw>pause or resume the game</>.
+오른쪽 위에 보이는 건 '일시정지' 버튼이에요. 터치하면 작전 진행을 <@tu.kw>일시정지하거나 계속 진행</>할 수 있죠.
+
+暂停按钮左方是变速按钮，可以<@tu.kw>调整当前的速度</>。
+一時停止ボタンの左側にあるのは速度ボタンです。<@tu.kw>戦闘の進行速度を調整</>することができます。
+To the left of the pause button is the speed change button, which allows you to <@tu.kw>adjust the current game speed</>.
+일시정지 버튼 왼쪽에 있는 건 '속도 변경' 버튼이에요. 이 버튼을 눌러 <@tu.kw>작전의 진행 속도를 조절</>할 수 있습니다.
+
+屏幕上方是战斗基本信息，<@tu.kw>总生命值</>代表了蓝色目标点最多承受的敌人数量。
+上部のこちらが<@tu.kw>耐久値</>です。青色のエリアに侵入されても耐えられる敵の数を表しています。
+Basic battle information is located on the top. Your <@tu.kw>Total HP</> represents the maximum number of enemies that can go through the blue destination before you are defeated.
+위에 보이는 건 <@tu.kw>총 HP</>에요. 파란색 칸까지 적이 침입했을 때 견뎌낼 수 있는 적의 숫자를 표시해주죠.
+
+<@tu.kw>敌方信息</>代表敌人的总数和已击败的敌人数量。
+その隣が<@tu.kw>敵情報</>です。進攻してくる敵の総数と倒した敵の数を表しています。
+<@tu.kw>Enemy Stats</> represent the total number of enemies and the number of enemies defeated.
+그 옆에 있는 건 <@tu.kw>적 정보</>예요. 공격해오는 적의 총 숫자와 이미 쓰러뜨린 적의 숫자를 확인할 수 있어요.
+
+[PopupDialog(dialogHead="$avatar_amiya")] 了解清楚这些，应该能对博士更有帮助。
+[PopupDialog(dialogHead="$avatar_amiya")] こちらを一通り覚えておけば、基本的な指揮はもう問題ないと思います。
+[PopupDialog(dialogHead="$avatar_amiya")] Becoming familiar with these functions will benefit you greatly, Doctor.
+[PopupDialog(dialogHead="$avatar_amiya")] 이 정보들을 익혀두면, 분명 박사님의 지휘에 많은 도움이 될 거예요.
+

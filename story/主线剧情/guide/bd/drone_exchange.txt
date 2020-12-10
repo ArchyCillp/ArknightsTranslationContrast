@@ -1,0 +1,20 @@
+[PopupDialog(dialogHead="$avatar_sys")] 理智恢复无人机功能已解锁。
+[PopupDialog(dialogHead="$avatar_sys")] 理性によるドローンチャージ機能を開放しました。
+[PopupDialog(dialogHead="$avatar_sys")] Drones can now be recharged with Sanity.
+[PopupDialog(dialogHead="$avatar_sys")] 이성을 통한 드론 충전 기능을 이용할 수 있게 되었습니다.
+
+好，点击打开无人机功能面板吧
+よっし、ドローンのシステム画面を開いてみようか！
+Tap to open the Drones page.
+좋아, 드론 시스템 화면을 열어볼까!
+
+[PopupDialog(dialogHead="$avatar_closure", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+[PopupDialog(dialogHead="$avatar_closure", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+[PopupDialog(dialogHead="$avatar_closure", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+[PopupDialog(dialogHead="$avatar_closure", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+
+现在消耗理智可以立即使一部分无人机成为可以工作的状态。这一定能帮博士加速基建的发展。
+理性を消耗した分だけすぐにドローンを使用可能な状態に出来るよ。基地を大きくするには欠かせない機能だから、有効に活用してね！
+Spend Sanity to recharge some Drones immediately so they can start working. This will help speed up the development within the Base.
+소비한 이성의 양만큼 드론을 사용 가능 상태로 바꿀 수 있어. 분명 박사가 기반시설을 발전시켜 나가는 데 큰 도움이 될 거야!
+

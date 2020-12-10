@@ -1,0 +1,10 @@
+[PopupDialog(dialogHead="$avatar_amiya")] 博士，地面上有一些技术部门设置的<@tu.kw>医疗符文</>，将干员布置在这个位置，就可以恢复生命。
+[PopupDialog(dialogHead="$avatar_amiya")] ドクター、一部のエリアに技術部が設置した<@tu.kw>医療装置</>があります。その上にオペレーターを配置すると、少しずつHPが回復します。
+[PopupDialog(dialogHead="$avatar_amiya")] Doctor, our technical department has configured some <@tu.kw>Medical Runes</> on the ground. Operators deployed at these locations can recover their HP slowly.
+[PopupDialog(dialogHead="$avatar_amiya")] 박사님, 지면에 기술부가 설치한 <@tu.kw>치료 룬</>이 있습니다. 오퍼레이터를 이 위치에 배치하면 HP가 서서히 회복됩니다.
+
+[PopupDialog(dialogHead="$avatar_sys")] 长按这些地点可以获得更加详细的情报。
+[PopupDialog(dialogHead="$avatar_sys")] このエリアの更に詳しい情報はエリアを長押しして確認してください。
+[PopupDialog(dialogHead="$avatar_sys")] Tap and hold for more details.
+[PopupDialog(dialogHead="$avatar_sys")] 치료 룬을 길게 터치하시면 더 자세한 정보를 확인하실 수 있습니다.
+

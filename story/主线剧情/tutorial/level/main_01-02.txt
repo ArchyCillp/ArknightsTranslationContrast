@@ -1,0 +1,50 @@
+[name=""]   时间未知 \ 天气未知 \ 能见度 低
+[name=""]   時刻不明/天候不明/視認性 低
+[name=""]   Time - unknown \ Weather - unknown \ Visibility - low
+[name=""]   시간 미확인 / 날씨 미확인 / 가시도 낮음
+
+[name=""]   切尔诺伯格 行动预备组A2、A4所在地
+[name=""]   チェルノボーグ 行動予備隊A2、A4所在地
+[name=""]   Chernobog Location of Reserve Op Team A2 & A4
+[name=""]   체르노보그 예비작전팀 A2, A4 배치 구역
+
+[name=""]   Dr.{@nickname}营救行动 第三阶段
+[name=""]   Dr.{@nickname}救出作戦 第三段階
+[name=""]   Dr {@nickname} Rescue Operation  Phase III
+[name=""]   {@nickname} 박사 구출작전 제3단계
+
+[PopupDialog(dialogHead="$avatar_fang")] 啧，前面又出现了一波敌人！但是阿米娅她们还没到，我们还是需要继续守住这个集合点。
+[PopupDialog(dialogHead="$avatar_fang")] くっ、また敵が！でもアーミヤさんたちが到着するまでこの集合地点を守り抜かないと。
+[PopupDialog(dialogHead="$avatar_fang")] Tsk, another wave of enemies has showed up! Amiya and others are not here yet. We still need to defend this rendezvous point.
+[PopupDialog(dialogHead="$avatar_fang")] 칫, 또 적들이! 아미야 씨 쪽이 아직 도착하지 않았어. 어떻게든 이 집결 지점을 지켜내야 해.
+
+[PopupDialog(dialogHead="$avatar_jesica")] 唔......好担心他们。不知道杜宾教官她们是否还安全......现在完全无法联系上他们......
+[PopupDialog(dialogHead="$avatar_jesica")] うぅ……心配です。ドーベルマン教官、皆さん、ご無事でしょうか……連絡も取れなくなっちゃいましたし……
+[PopupDialog(dialogHead="$avatar_jesica")] Uh... I really worry about them. I wonder if Instructor Dobermann and others are safe... I just can't seem to contact them at all...
+[PopupDialog(dialogHead="$avatar_jesica")] 으으… 걱정돼요. 도베르만 교관님 쪽은 무사할까요… 지금 연락이 전혀 안 되고 있는데…
+
+[PopupDialog(dialogHead="$avatar_beagle")] 没事的，杰西卡！他们一定能救出Dr.{@nickname}的。
+[PopupDialog(dialogHead="$avatar_beagle")] 大丈夫だよ、ジェシカちゃん！皆さんならきっと無事にDr.{@nickname}を助け出せるって。
+[PopupDialog(dialogHead="$avatar_beagle")] Don't worry, Jessica! I'm sure they can rescue Dr {@nickname}.
+[PopupDialog(dialogHead="$avatar_beagle")] 괜찮아 제시카! 분명 {@nickname} 박사님을 구해올 거야!
+
+[PopupDialog(dialogHead="$avatar_fang", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+[PopupDialog(dialogHead="$avatar_fang", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+[PopupDialog(dialogHead="$avatar_fang", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+[PopupDialog(dialogHead="$avatar_fang", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+
+不过这里的地形不太好，敌人很容易从两个方向发起进攻。安德切尔，你在楼上能看清楚附近的状况吗？
+この地形は少しまずい。敵が二手に別れて攻めてくるかもしれない。アドナキエル、上方から付近の状況を確認できるか？
+The terrain here is not favorable for us. The Enemy can easily strike us from two directions. Adnachiel, do you have a clear visual on the nearby situation from upstairs?
+하지만 이 지형은 우리한테 불리한데…적이 양쪽에서 공격해오기 너무 쉬워… 아드나키엘, 위에서 주변 상황을 한 번 봐줄 수 있겠어?
+
+上方道路的路口比较狭窄，敌人也不多。也许我们可以守住这一波攻势！
+上の通路は比較的狭くて敵も少なそうかな。これならなんとかなると思う！
+The upper lane is quite narrow and I don't see many enemies coming. Perhaps we can defend this wave!
+위쪽은 길이 비교적 좁아서 적도 그렇게 많은 것 같지 않아요. 이 정도면 저희들로도 공세를 막아낼 수 있을 겁니다!
+
+太好了！如果能派遣少量干员去上方进行防守就好了。
+よし！では上方は少数名で対応、主要戦力は下方で守りを固めるんだ。
+Awesome! Just deploy a few Operators in the upper lane and we will be fine.
+좋아! 위쪽엔 오퍼레이터를 소수만 보내면 어떻게든 막아내 볼 수 있겠어.
+
