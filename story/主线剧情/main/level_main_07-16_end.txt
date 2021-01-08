@@ -1,1612 +1,2015 @@
 [name="凯尔希"]  Mon3tr，撑住！
 [name="ケルシー"]  Mon3tr、耐えろ！
+[name="Kal'tsit"]  Mon3tr, hold!
 [name="켈시"]  Mon3tr, 버텨라!
 
 [name="Mon3tr"]  （嘶叫）
 [name="Mon3tr"]  （いななく声）
+[name="Mon3tr"]  (Screech)
 [name="Mon3tr"]  크르르르르르!!!!!!!
 
 [name="凯尔希"]  狙击干员，继续轰炸他的躯干部分，他的铠甲已经严重破损。术师，牵制住其他游击队战士，别让他们有机会插手。
 [name="ケルシー"]  彼の鎧は既に破損している。狙撃オペレーター、彼の身体を撃て。術師は他の遊撃隊戦士を牽制して。彼らに手を出す隙を与えるな。
+[name="Kal'tsit"]  Sniper operators, keep up the fire on his torso. His armor is already severely damaged. Casters, keep the other guerrilla fighters under control. Don’t let them interfere.
 [name="켈시"]  스나이퍼, 계속해서 그의 몸통을 쏴라, 그의 갑옷은 이미 많이 손상되어 있다. 캐스터는 다른 유격대원들을 견제해서, 개입하지 못하게 만들어라.
 
 [name="Mon3tr"]  （哀鸣）
 [name="Mon3tr"]  （悲鳴）
+[name="Mon3tr"]  (Wails)
 [name="Mon3tr"]  크어어어어어!!!!!!!
 
 [name="凯尔希"]  后撤，Mon3tr，近身缠斗没有优势！你已经无法阻止他前进了！
 [name="ケルシー"]  Mon3tr、退がれ！　これ以上は止められない！
+[name="Kal'tsit"]  Pull back, Mon3tr. You don’t have advantage in close quarters! You can’t stop him now!
 [name="켈시"]  물러나, Mon3tr. 근접전은 불리하다! 너로서는 그를 막을 수 없어!
 
 [name="迷迭香"]  剑要脱手了！他......我连直接去抓他，都控制不了他，他感受起来，就像是山崩......
 [name="ロスモンティス"]  剣を落としそう！　直接あの人を掴んでも、行動を制御できない。彼はまるで……土石流のよう……
+[name="Rosmontis"]  The sword is slipping! Even if... I try to hold him, I can’t move him. He feels like a landslide...
 [name="로즈몬티스"]  검을 떨어뜨릴 것만 같아! 그를…… 직접 잡으려 해도 통제할 수가 없다니…… 이 느낌은 마치, 산사태 같아……
 
 [name="凯尔希"]  把能量聚集成束......收束。再收束，收束成线，照准他的心脏部位！
 [name="ケルシー"]  力を針金のように細く収束させるのだ……彼の心臓の位置を狙え！
+[name="Kal'tsit"]  Focus the energy into a beam... focus... keep focusing... then aim the beam at his heart!
 [name="켈시"]  에너지를 모아서…… 붙잡아라. 하나의 선이 될 때까지 모아서, 그의 심장을 노려!
 
 [name="Mon3tr"]  （尖啸）
 [name="Mon3tr"]  （鋭い叫び）
+[name="Mon3tr"]  Hissss...
 [name="Mon3tr"]  그어어어어어!!!!!!!
 
 [name="凯尔希"]  照射。现在！
 [name="ケルシー"]  今だ、一斉放射！
+[name="Kal'tsit"]  Fire! Now!
 [name="켈시"]  지금이다!
 
 [name="爱国者"]  ——
 [name="パトリオット"]  …………
+[name="Patriot"]  ......
 [name="패트리어트"]  ……
 
 [name="Mon3tr"]  （低吼）
 [name="Mon3tr"]  （唸り）
+[name="Mon3tr"]  Grrr...
 [name="Mon3tr"]  그허억……
 
 [name="凯尔希"]  这竟然也不足以破坏他的身体机能......
 [name="ケルシー"]  これでも彼の修復機能を凌駕できないのか……
+[name="Kal'tsit"]  Even that wasn’t enough to destroy him...
 [name="켈시"]  이래도 신체를 파괴할 수 없는 건가……
 
 [Decision(options="怎么会这么胶着......！", values="1")]
 [Decision(options="どうしてここまで耐えられるんだ……！？", values="1")]
+[Decision(options="How is he so persistent...?!", values="1")]
 [Decision(options="이렇게나 견고하다니……!", values="1")]
 
 [name="凯尔希"]  “每一次战斗都是死斗，每次战斗都豁出性命，因为生命会回归血脉，生命将在他人体内永生......”
 [name="ケルシー"]  「戦いは常に死の淵に在り、戦いに常に命を賭す。死せる命は血脈に還り、同胞の身体に永遠に生きる」……か。
+[name="Kal'tsit"]  “Ever fight is to the death. Life on the line in every fight, for life will return to the blood, and live forever in another body...”
 [name="켈시"]  "모든 싸움은 곧 사투… 늘 목숨을 걸고 싸워야 하느니… 생명은 핏줄로 돌아가… 타인의 안에서 영원히 살아가나니…"
 
 [name="凯尔希"]  近卫干员，不要怠慢......撤退。他的身躯也会释放“食人”仪式，他自身就是一个巨大的巫术装置......
 [name="ケルシー"]  前衛オペレーター、油断するな……後退だ。彼の身体も「人喰い」の儀式を放てるのだ。彼自身がそもそも巨大な巫術装置同然だ……
+[name="Kal'tsit"]  Vanguard operators, keep up the pressure... fall back. His own body will unleash the “cannibalism” ritual, as if he himself is a gigantic witchcraft device...
 [name="켈시"]  가드 오퍼레이터, 여유 부리지 말고…… 후퇴해라. 그의 몸에도 곧 '식인' 의식이 발현될 거다. 그 자신이 바로 하나의 거대한 의식 장치다!
 
 [name="凯尔希"]  博卓卡斯替，许多萨卡兹，并不希望你这样的温迪戈无谓地牺牲掉。
 [name="ケルシー"]  聞けボジョカスティ！　多くのサルカズは君のようなウェンディゴが無駄に犠牲を払うことを望んでいない。
+[name="Kal'tsit"]  Buldrokkas'tee, there are many Sarkaz who would not see a Wendigo like you sacrificed for nothing.
 [name="켈시"]  불드록카스티, 수많은 살카즈가, 너 같은 웬디고가 무의미하게 희생되지 않길 바란다.
 
 [name="爱国者"]  不。我怎么会，牺牲？
 [name="パトリオット"]  違う。私は、犠牲など、払わない。
+[name="Patriot"]  No. How can I, be sacrificed?
 [name="패트리어트"]  틀렸다. 내가, 희생된다고?
 
 [name="爱国者"]  我还能动。我还能，杀死你们。
 [name="パトリオット"]  まだ動ける。まだ、貴方たちを、殺せる。
+[name="Patriot"]  I can still, move. I can still, kill you.
 [name="패트리어트"]  난 아직, 움직일 수 있어. 아직, 당신들을 죽일 수 있다.
 
 [name="爱国者"]  我的身体，还能听从，我的指挥。
 [name="パトリオット"]  この身体は、まだ私の指示に、従う。
+[name="Patriot"]  My body, still hears, my commands.
 [name="패트리어트"]  나의 몸은, 아직 나의 지시를, 따르고 있다.
 
 [name="爱国者"]  我还没体会尽，痛苦......不甘与遗憾。
 [name="パトリオット"]  まだ、戦争の、苦しみを、悔しさを、嘆きを、味わい尽くして、いない。
+[name="Patriot"]  I have not yet felt, the pain... misery, and regret.
 [name="패트리어트"]  나는 아직, 극한의 고통과…… 분함과, 안타까움을, 느끼지 못했다.
 
 [name="爱国者"]  这就够了？这难道，就够了？
 [name="パトリオット"]  もういい、のか？　これで、もうお仕舞い、なのか？
+[name="Patriot"]  Is it enough? Could it be? Enough?
 [name="패트리어트"]  겨우 이거 인가? 설마 겨우, 이 정도인가?
 
 [name="阿米娅"]  博卓卡斯替先生......停下吧，请你......停下吧！更多的战斗只是折磨！
 [name="アーミヤ"]  パトリオットさん……もうやめてください……これ以上の戦闘は、ただの苦痛にしかなりません！
+[name="Amiya"]  Mr. Buldrokkas'tee... please, stop... stop this! Fighting more will only bring you more suffering!
 [name="아미야"]  불드록카스티 씨…… 멈춰주세요, 제발…… 이제 그만하세요! 더 이상의 싸움은 괴롭기만 할 뿐이에요!
 
 [name="爱国者"]  战士。
 [name="パトリオット"]  戦士。
+[name="Patriot"]  Warrior.
 [name="패트리어트"]  전사는……
 
 [name="爱国者"]  战士就是，要背负，所有死者。
 [name="パトリオット"]  戦士は、全ての、死者を、背負うもの、だ。
+[name="Patriot"]  A warrior, should carry, all of the dead.
 [name="패트리어트"]  전사는, 모든 죽은 자를, 짊어져야 하는 법.
 
 [name="爱国者"]  我背着，他们的痛，他们的恨，他们的沉默。
 [name="パトリオット"]  私は、彼らの痛みを、恨みを、悲しみを、背負って、いる。
+[name="Patriot"]  I carry, their pain, their hate, their silence.
 [name="패트리어트"]  나는, 그들의 고통, 그들의 증오, 그들의 침묵을, 짊어지고 있다.
 
 [name="爱国者"]  如果，我，驻足......
 [name="パトリオット"]  もし私が、止まれば……
+[name="Patriot"]  If I, stop...
 [name="패트리어트"]  만약에, 내가, 걸음을 멈추면……
 
 [name="爱国者"]  他们就是白死。
 [name="パトリオット"]  彼らの死が、無駄に、なる。
+[name="Patriot"]  They died for nothing.
 [name="패트리어트"]  그들의 죽음이, 헛되이 되고 만다.
 
 [name="爱国者"]  折磨？你们应该，感到折磨。
 [name="パトリオット"]  苦痛？　それは、諸君が、味わうべき、ものだ。
+[name="Patriot"]  Suffering? You should, suffer.
 [name="패트리어트"]  괴롭다고? 그건 너희의, 몫이다.
 
 [name="爱国者"]  你们，无法战胜我。
 [name="パトリオット"]  諸君に、私は、倒せない。
+[name="Patriot"]  You cannot, defeat me.
 [name="패트리어트"]  너희는, 날 이길 수 없다.
 
 [name="阿米娅"]  呜......
 [name="アーミヤ"]  ううっ……
+[name="Amiya"]  Hnng...
 [name="아미야"]  으윽……
 
 [name="妻子"]  亲爱的......别难过。
 [name="妻"]  あなた……どうか悲しまないで。
+[name="Wife"]  Don’t be sad, my love...
 [name="아내"]  여보…… 슬퍼하지 마세요.
 
 [name="妻子"]  您不会续弦？别这样，亲爱的......
 [name="妻"]  もう誰も娶らない？　そんなこと言わないで、あなた……
+[name="Wife"]  You won’t remarry? Don’t be like that, dear...
 [name="아내"]  새 부인을 들이진 않겠죠? 그러지는 마요, 당신……
 
 [name="妻子"]  唉，但您是不会认同我的这些絮叨的。您真是像石头一样顽固，我又有哪一次真说服过您呢？
 [name="妻"]  はぁ、あなたは私の小言なんか聞かないわよね。頑固なんだから。まるで石みたい……あなたには敵わないわ。
+[name="Wife"]  *Sigh*, but you won’t agree with my yapping. You’re stubborn as a stone. Have I ever convinced you of anything?
 [name="아내"]  휴우, 그래봤자 내 잔소리는 듣지 않겠죠. 당신은 정말 돌처럼 고집이 세다니까요, 언제 한 번이라도 내게 져준 적이나 있어요?
 
 [name="妻子"]  您还会继续打仗，对吗？
 [name="妻"]  これからも戦いを続けるんでしょう？
+[name="Wife"]  You’ll keep fighting, won’t  you?
 [name="아내"]  앞으로도 계속해서 싸우겠죠, 그렇죠?
 
 [name="妻子"]  答应我，博卓卡斯替，答应我。别死在战场。
 [name="妻"]  お願い、ボジョカスティ……約束して。戦場で死んではダメよ。
+[name="Wife"]  Promise me, Buldrokkas'tee, promise me you won’t die in battle.
 [name="아내"]  약속해요, 불드록카스티, 약속해 줘요. 전장에서 죽지 않겠다고.
 
 [name="妻子"]  我只希望您不要再受折磨。您想一想，我离去后，这里依然有我们的家人陪伴着您，你看，小格尔......
 [name="妻"]  あなたにはこれ以上苦しんで欲しくないの。私がいなくなっても、あなたのそばにはまだ家族がいるでしょ。ほら見て、あの子……
+[name="Wife"]  My only hope is that you don’t suffer any more. Just think, after I’m gone, you’ll still have our family. Look, our little Gro.
 [name="아내"]  당신이 더는 고통받지 않길 바랄 뿐이에요. 생각해봐요, 내가 떠나더라도, 여기에는 여전히 당신을 반겨줄 가족이 있어요. 봐요, 우리 가알……
 
 [name="妻子"]  他的睡脸，这是多么可爱的脸蛋啊。
 [name="妻"]  なんてかわいい寝顔。
+[name="Wife"]  He’s so cute when he’s sleeping.
 [name="아내"]  잠자는 얼굴이, 꼭 달걀 같아서 너무 귀엽죠.
 
 [name="妻子"]  他那两只还没长得很坚硬的，红彤彤的小角......
 [name="妻"]  まだ柔らかい、成長前の赤い角……
+[name="Wife"]  With his two little red horns, that still haven’t hardened...
 [name="아내"]  아직 다 자라지 않은, 말랑말랑하고 새빨간 작은 뿔……
 
 [name="妻子"]  这是生命。是我生命的延续。孩子，是大地上所有人生命的延续。
 [name="妻"]  これはバトンよ、私の命の……子供は、この大地全ての人の、命のバトンなのよ。
+[name="Wife"]  This is life. It’s the continuation of my life. A child is the continuation of all the life in our world.
 [name="아내"]  이게 생명이에요. 내 생명의 연장이죠. 아이들은, 곧 이 땅 위 모든 사람들의 생명의 연장이고요.
 
 [name="妻子"]  我知道您不会吃掉我。您非常讨厌温迪戈的传统。
 [name="妻"]  知ってるわ、あなたは私を食べないでしょ。あなたはウェンディゴの風習が嫌いだもの。
+[name="Wife"]  I know you won’t eat me. I know how much you hate Wendigo traditions.
 [name="아내"]  날 먹지 않을 거란 건 알아요. 당신은 웬디고의 전통을 혐오하니까.
 
 [name="妻子"]  但我多想永远在您的生命里流淌啊。
 [name="妻"]  でも私は、いつまでもあなたの命と共にありたいわ。
+[name="Wife"]  But I do so wish to flow through your life forever.
 [name="아내"]  그래도 나는 영원히 당신의 생명 안에서 흐르고 싶답니다.
 
 [name="妻子"]  不过，生命......本来就不朽。
 [name="妻"]  とは言え、もともと命は……不朽のもの。
+[name="Wife"]  And yet, life... is ever immortal.
 [name="아내"]  아니, 생명이란…… 원래부터 영원한 것이었죠.
 
 [name="妻子"]  您憔悴了。过度的伤感会摧毁您的，我们的孩子日后还需要您去照料，在这里徘徊，会毁了您的。
 [name="妻"]  落ち込んでるのね。でもあまり悲しみ過ぎると、倒れてしまうわ。これからは、あなたが子供の面倒を見なければならないんだから、ここで立ち止まってはダメよ。
+[name="Wife"]  You’re withering away. All that sadness is going to destroy you. Our son needs you to take care of him. Lingering here will be the death of you.
 [name="아내"]  수척해졌네요. 지나친 슬픔은 당신을 망쳐버릴 거예요. 우리 아이에겐 앞으로 당신의 보살핌이 필요할 텐데, 이렇게 헤매다간 당신이 망가져 버려요.
 
 [name="妻子"]  ......不，博卓卡斯替。您不是一个冷血的怪物。
 [name="妻"]  ……いいえ、違うわボジョカスティ。あなたは決して冷血な化け物なんかじゃない。
+[name="Wife"]  ...No, Buldrokkas'tee. You’re not a cold-blooded monster.
 [name="아내"]  ……아뇨, 불드록카스티. 당신은 피도 눈물도 없는 괴물이 아니에요.
 
 [name="妻子"]  您对我的爱是真切的。即使是我这样只善于厌恶他人的女人，也对您倾注了同等的感情。
 [name="妻"]  あなたの私への愛は本物だったわ。私のように、他人に嫌悪感しか持てない女でも、あなたにだけは愛情を寄せることができた。
+[name="Wife"]  Your love for me is true. Even a misanthropic woman like me, managed to return your love all the same.
 [name="아내"]  당신이 내게 준 사랑은 진심이었는걸요. 타인을 배척하기만 하는 나를, 당신은 변함없이 사랑해 주었잖아요.
 
 [name="妻子"]  您很惊讶......请不要惊讶。我是爱您的，就像您如此宽大又如此温热地爱着我一样。
 [name="妻"]  驚いてるの？　……本当よ。私はあなたを愛しているわ。あなたが広い心で、私を温かく愛してくれたように。
+[name="Wife"]  You look surprised... Don’t be. I love you, just as tenderly and generously as you loved me.
 [name="아내"]  놀라기나 하고…… 그렇게 놀라지 마세요. 나도 당신을 사랑해요. 당신이 그 넓고 따듯한 마음으로 나를 사랑해 주는 것만큼이나.
 
 [name="妻子"]  博卓卡斯替，我的挚爱......您未来的家人，都是我的家人。
 [name="妻"]  ボジョカスティ、私の愛する人……未来のあなたの家族は、みんな私の家族よ。
+[name="Wife"]  Buldrokkas'tee, my love... the family you’ll come to have, is also my family.
 [name="아내"]  내 사랑, 불드록카스티…… 미래의 당신의 가족 역시, 내 가족이에요.
 
 [name="妻子"]  我就是这样爱您。
 [name="妻"]  こんなにもあなたを愛しているんですもの——
+[name="Wife"]  That’s how I love you.
 [name="아내"]  이렇게나, 당신을 사랑해요.
 
 [name="爱国者"]  海伦。我不配得到你的爱。
 [name="パトリオット"]  ヘレン。私は、君に愛される、資格が、ない。
+[name="Patriot"]  Helen, I don’t deserve your love.
 [name="패트리어트"]  헬렌. 난 당신의 사랑에, 어울리지 않아.
 
 [name="爱国者"]  我没能守住你。我也没能，守住誓言。
 [name="パトリオット"]  君を、守れなかった。君への、誓いすらも、守れなかった。
+[name="Patriot"]  I couldn’t protect you. I couldn’t, keep my word.
 [name="패트리어트"]  난 너를 지키지 못했어. 약속도, 지키지 못했어.
 
 [name="爱国者"]  我的家人，我全都，没能保护。
 [name="パトリオット"]  私の、家族を、誰一人、守れなかった。
+[name="Patriot"]  My family, I couldn’t protect... any of them.
 [name="패트리어트"]  내 가족을, 모두를, 지키지 못했어.
 
 [name="爱国者"]  爱......我配不上。
 [name="パトリオット"]  愛される、資格など、ない……
+[name="Patriot"]  I don’t deserve... love.
 [name="패트리어트"]  난…… 사랑받을 자격이 없어.
 
 [name="爱国者"]  被信赖的人，背弃了诺言。
 [name="パトリオット"]  信頼する者が、約束を、破った。
+[name="Patriot"]  You trusted me. I broke my promise.
 [name="패트리어트"]  날 신뢰하던 사람의, 언약을 저버렸다.
 
 [name="爱国者"]  背弃诺言的人，依然活着。即使如此，诺言，依然还在。
 [name="パトリオット"]  約束を、反故にした者が、まだ生きて、いる。ならば、その約束もまた、生き続けて、いる。
+[name="Patriot"]  I broke my promise, but I live. And so the promise, still remains.
 [name="패트리어트"]  언약을 저버린 사람이, 아직도 살아 있다. 그럼에도 언약은, 여전히 남아 있다.
 
 [name="爱国者"]  因为诺言里，还有悔恨。
 [name="パトリオット"]  その約束に、悔いがある、からだ。
+[name="Patriot"]  Because the promise, bears hate, and regret.
 [name="패트리어트"]  언약에는, 후회도 있으니까.
 
 [name="迷迭香"]  ......
 [name="ロスモンティス"]  …………
+[name="Rosmontis"]  ......
 [name="로즈몬티스"]  ……
 
 [name="爱国者"]  不仅是，已死的人。菲林，你的悔恨，在哪里？
 [name="パトリオット"]  死んだ者だけ、ではない。フェリーンの、子供よ、君の悔いは、どこにある？
+[name="Patriot"]  Not only, the dead. Feline, where is it? Your hate? Your regret?
 [name="패트리어트"]  죽은 자뿐만이 아니다. 필라인, 너의 후회는, 어디 있지?
 
 [name="迷迭香"]  我......
 [name="ロスモンティス"]  私の……悔い……
+[name="Rosmontis"]  I...
 [name="로즈몬티스"]  나는……
 
 [name="爱国者"]  你要，背着，走下去。
 [name="パトリオット"]  それを背負って、生きるが、いい。
+[name="Patriot"]  You, carry it, as you go.
 [name="패트리어트"]  너는, 짊어지며, 나아가야 한다.
 
 [name="爱国者"]  这座城里的人。乌萨斯的感染者。大地上，失去父母的人。大地上，父母做下错事的人。
 [name="パトリオット"]  この都市に、いる者たち。ウルサスの、感染者たち。この大地で、過ちを犯した、者たち。家族を失った、者たち。それらの罪や、悲しみは——
+[name="Patriot"]  The people, of this city. The Ursus Infected. The world. Those who lost, their parents. The world. Those whose parents, did wrong.
 [name="패트리어트"]  이 도시의 사람들을. 우르수스의 감염자를. 이 땅에서, 부모를 잃은 아이들을. 이 땅에서, 잘못을 저지른, 부모의 자식들을.
 
 [name="爱国者"]  都会被人背负。
 [name="パトリオット"]  全て、誰かが、背負わなくては、ならない。
+[name="Patriot"]  They are all carried.
 [name="패트리어트"]  모두를, 짊어져야 하는 것이다.
 
 [name="儿子"]  父亲，我请求你！不要，不要再站在帝国那一边！
 [name="息子"]  父さん、お願いだ！　もうこれ以上、帝国の味方をしないでくれ！
+[name="Son"]  Father, I’m begging you! Don’t stand with the Empire!
 [name="아들"]  아버지, 제발! 제국의 편에 서지 마세요!
 
 [name="儿子"]  命令？帝国的命令就是笑话！
 [name="息子"]  命令？　帝国の命令なんてただの戯言だ！
+[name="Son"]  Orders? The Empire’s orders are ridiculous!
 [name="아들"]  명령이라고요? 제국의 명령 따위, 다 말도 안 되는 소리에요!
 
 [name="儿子"]  不，抱歉，父亲......我不是在嘲讽你。不。我不会。
 [name="息子"]  いや……ごめん、父さん。僕は父さんを嘲るつもりはない。
+[name="Son"]  No, I’m sorry, Father... I wasn’t mocking you. I would never.
 [name="아들"]  아뇨, 죄송해요, 아버지…… 아버지를 비꼬는 게 아니에요. 그럴 리가 없잖아요.
 
 [name="儿子"]  但帝国的法令，就是为我们所有人设下的残忍骗局。
 [name="息子"]  でも帝国の法律なんて、僕たち国民全てを欺くためのペテンだ。
+[name="Son"]  But the imperial decree is a cruel joke played on all of us.
 [name="아들"]  그렇지만 제국의 법령은, 우리 모두를 옥죄는 잔인한 속임수예요.
 
 [name="儿子"]  我的朋友叶克多，只因为被查出是矿石病人，就被笞杖活活打死在桥上！
 [name="息子"]  僕の友人のイエクトルは、鉱石病患者と知られただけで、鞭打ちの刑を受けて死んだんだ！
+[name="Son"]  My friend Hector was flogged alive on the bridge, just because they found out he had Oripathy!
 [name="아들"]  제 친구 에크토르프는 단지 광석병으로 진단받았다는 이유만으로, 다리 위에서 곤장에 맞아 죽었어요!
 
 [name="儿子"]  你不是也很喜欢他的诗吗？你不是也曾在夜晚大声朗诵，喜极而泣吗？
 [name="息子"]  父さんだって彼の詩が好きだっただろう？　いつだったか、彼の詩を詠んで、感極まって涙を流したことさえあったじゃないか！
+[name="Son"]  Didn’t you like his poetry too? Didn’t you read them aloud at night and shed tears of joy?
 [name="아들"]  아버지도 그 녀석의 시를 좋아했잖아요? 늦은 밤에 큰 소리로 낭독하며 감격스러운 눈물을 흘리기도 했잖아요?
 
 [name="儿子"]  他死了！他走上了昏暗的死路，永远离我们而去，再也不会回头了！
 [name="息子"]  彼は殺されたんだ！　永遠に僕たちの元から離れ、暗い黄泉の道を歩いて行き、二度と帰って来ない……
+[name="Son"]  He’s dead! He’s been sent down the dark path of death and left us forever, never to return!
 [name="아들"]  그 녀석이 죽었다고요! 칠흑 같은 죽음의 길에 올라, 다신 돌아올 수 없는 곳으로 떠났단 말이에요!
 
 [name="儿子"]  作为诗人，除了文学，任何人也没有让他死去的资格！
 [name="息子"]  詩人の彼を死に追いやる権利など、文学以外の何にもないはずだ！
+[name="Son"]  He was a poet. Only the written word had the right to send him to his death!
 [name="아들"]  그 녀석은 시인이에요. 문학 말고 아무것도 녀석을 죽게 만들 자격 따위는 없었잖아요!
 
 [name="儿子"]  帝国的所谓感染者法令，只是一个闯入我们心中的恶徒！
 [name="息子"]  帝国の感染者法は、僕たちの心に侵入しようとする悪魔だよ。
+[name="Son"]  The Empire’s so-called infected decree is just a wicked intrusion into our hearts!
 [name="아들"]  제국에서 내린 감염자 법령은, 우리 마음을 유린하는 악법이라고요!
 
 [name="儿子"]  那种死亡，看啊，感染者的死亡，也只是让夺走生命的人和失去生命的人都舍弃了尊严！
 [name="息子"]  あんな死は——あんな感染者の最期は、命を奪う側と失う側、双方の尊厳を捨てさせるものだ……
+[name="Son"]  That kind of death, the death of the Infected, is a disgrace to both those who take life and who lose it!
 [name="아들"]  그런 죽음은, 아무리 감염자의 죽음이라 해도, 목숨을 빼앗은 자와 빼앗긴 자, 모두의 존엄성을 잃게 하는 짓입니다!
 
 [name="儿子"]  帝国的士兵们，难道是为了这种没有尊严的事领受皇帝的恩惠吗？太荒谬了！
 [name="息子"]  帝国の兵士たちは、こんな恥ずべきことを行うために皇帝の恩恵を受けているのか？　そんなの馬鹿げてる！
+[name="Son"]  Did the soldiers of the Empire win the Emperor’s favor with this disgrace? It’s ridiculous!
 [name="아들"]  제국의 병사들은, 일말의 존엄성도 없는 일을 위해 황제의 은혜를 입었나요? 웃기지 말라고 해요!
 
 [name="儿子"]  出身卡兹戴尔的你，和你一起长大的那些感染的萨卡兹......你也一定能理解我们乌萨斯的感染者的！
 [name="息子"]  父さんはカズデルで生まれたんだろう？　一緒に育ったサルカズの感染者と同様に、ウルサスの感染者のことも理解できるはずだ！
+[name="Son"]  You were born in Kazdel, you grew up with Infected Sarkaz... I know you can understand the Ursus Infected too!
 [name="아들"]  카즈델 출신인 아버지, 그리고 아버지와 함께 지내온 그 감염된 살카즈들이라면…… 분명 우리 우르수스의 감염자를 이해하실 수 있을 거 아니에요!
 
 [name="儿子"]  ......你为什么那样无所谓？你的心肠难道也是是铁铸的吗？还是说，因为你作为萨卡兹却没有被感染，所以你心里连一点同情都没有？
 [name="息子"]  ……どうしてそんな無関心でいられるんだよ？　父さんの心も石でできてるの？　それとも自分はサルカズなのに感染してないから、同情心の欠片もないっていうのか？
+[name="Son"]  ...Why are you so indifferent? Is your heart made of iron too? Or is it because you, as a still uninfected Sarkaz, have no compassion in your heart?
 [name="아들"]  ……어쩜 그렇게 아랑곳하지도 않으세요? 아버지 심장은 강철로 만들어지기라도 했나요? 아니면, 같은 살카즈라도 아버지는 감염이 안 됐으니까, 일말의 동정조차 없는 건가요?
 
 [name="儿子"]  我们萨卡兹......有谁会比萨卡兹更容易感染矿石病呢？
 [name="息子"]  僕たちサルカズ以上に……鉱石病に感染しやすい者なんていない。
+[name="Son"]  We’re Sarkaz... who’s more susceptible to Oripathy than Sarkaz?
 [name="아들"]  우리 살카즈…… 살카즈보다 광석병에 감염되기 쉬운 종족이 있나요?
 
 [name="儿子"]  那么，当我们中有人感染矿石病的时候，你就会知道这种罪名是多么可笑了！
 [name="息子"]  僕たち家族の中に感染者が出た時になって初めて、父さんはそれがどんなに不条理な罪かを知るんだ！
+[name="Son"]  Maybe when one of us gets infected, you’ll know how absurd these crimes are!
 [name="아들"]  그렇다면, 우리 중 누군가 광석병에 감염되면, 아버지도 그제야 이 죄목이 얼마나 우스운지 깨닫게 되겠죠!
 
 [name="儿子"]  也许到那时候，你才能离开你现在行走的血路，走上宽敞仁慈的大道！
 [name="息子"]  そうなれば父さんは、ようやく今進んでいる血みどろの道を諦め、慈悲の道を歩めるのかもしれないね。
+[name="Son"]  Maybe then you’ll leave your path of bloodshed and take a walk down the boulevard of mercy!
 [name="아들"]  그때가 되어야 지금 걷고 있는 피투성이의 길에서 벗어나, 자비가 넘치는 길로 방향을 트실지도 모르겠네요!
 
 [name="儿子"]  父亲......罢了，罢了！你可是博卓卡斯替！矿石病不会纠缠你这样强悍的军人，那就只能让它爬上我的身躯！
 [name="息子"]  父さん……いや、違う、違う！　軍人ボジョカスティ！　鉱石病はあんたのように強靭な軍人にまとわりつくことはないんだろうね。だったら、そいつに僕の身体を差出そう！
+[name="Son"]  Fine, fine, Father...! You’re the one and only Buldrokkas'tee! If Oripathy won’t haunt a tough soldier like you, it’ll just have to creep up on me!
 [name="아들"]  아버지…… 됐어요, 이제 됐어! 당신은 잘난 불드록카스티지! 당신 같이 용맹한 군인이 광석병 따위에 걸릴 리가 없겠지, 내가 대신 걸리는 수밖에!
 
 [name="儿子"]  当它盘踞在我的遗体上对你哈哈大笑的时候，你才会意识到自己的错误！
 [name="息子"]  そいつが僕の体に巣喰い、あんたに向かって大笑いした時、あんたはようやく自分の過ちに気づくのさ！
+[name="Son"]  When it’s hovering over my corpse laughing at you, you’ll finally realize your mistake!
 [name="아들"]  그 병이 내 시체 위에서 당신을 내려다보며 비웃을 때에야, 아버지는 잘못을 깨닫게 되겠지!
 
 [name="儿子"]  不要让自己后悔，父亲！
 [name="息子"]  その時になって後悔しても遅いんだよ、父さん！
+[name="Son"]  Don’t let yourself regret it, Father!
 [name="아들"]  후회해도 그땐 늦을 겁니다, 아버지!
 
 [name="爱国者"]  ......格罗瓦兹尔，你是无辜的。你是无罪的。
 [name="パトリオット"]  ……グロワズル、お前は悪く、ない。
+[name="Patriot"]  ...Grrovae'zeeal, you were innocent. So innocent.
 [name="패트리어트"]  ……그로베지일, 너는 잘못한 게 없다. 네겐 죄가 없었다.
 
 [name="爱国者"]  感染的，是我。隐瞒的，也是我。
 [name="パトリオット"]  感染したのは、私だ。黙っていたのも、私だ。
+[name="Patriot"]  The Infected, was me. I hid it, from you.
 [name="패트리어트"]  감염된 건, 나였다. 숨긴 것도, 나였지.
 
 [name="爱国者"]  父亲终归，有眼却盲，父亲没能，走上正途。
 [name="パトリオット"]  父さんは、目があるのに、見えなかった。父さんは、正しい道を、歩けなかった。
+[name="Patriot"]  Father, to the end, had eyes, and was blind. Father couldn’t walk, the right path.
 [name="패트리어트"]  이 아비는, 눈뜬 장님인 체했다. 이 아비는, 옳은 길을 선택하지 못했다.
 
 [name="爱国者"]  我......很后悔。
 [name="パトリオット"]  私は……悔やんだ。
+[name="Patriot"]  I... regret.
 [name="패트리어트"]  나는…… 후회한다.
 
 [name="爱国者"]  我真的，很后悔。
 [name="パトリオット"]  心底、後悔した。
+[name="Patriot"]  I truly, regret.
 [name="패트리어트"]  뼈저리게, 후회한다.
 
 [name="爱国者"]  我儿......父亲杀了你，父亲还让你，白白死去。
 [name="パトリオット"]  我が息子、よ……私は、お前を殺し、お前の死をも、無駄にした。
+[name="Patriot"]  My son... Father killed you. Father let you, die for nothing.
 [name="패트리어트"]  아들아…… 이 아비가 널 죽였다. 내가 너를, 헛되이 죽게 만들었다.
 
 [name="爱国者"]  父亲......不配，做你的父亲。
 [name="パトリオット"]  私は……お前に、父さんと、呼ばれる、資格が、ない。
+[name="Patriot"]  Father... doesn’t deserve, to be your father.
 [name="패트리어트"]  나는…… 네 아비가 될, 자격조차 없구나.
 
 [name="爱国者"]  我停止战斗，就是背叛他们。
 [name="パトリオット"]  私が、戦いを、やめたら、彼らを、裏切ることに、なる。
+[name="Patriot"]  If I stop fighting, I betray them.
 [name="패트리어트"]  내가 싸움을 멈추면, 그들을 배신하는 게 된다.
 
 [name="阿米娅"]  越来越多......我看到......越来越多。
 [name="アーミヤ"]  ……たくさんの後悔が見えます……どんどん増えています！
+[name="Amiya"]  More... I see... more and more...
 [name="아미야"]  점점 많아져요…… 점점 더 많이…… 보여요.
 
 [name="阿米娅"]  爱国者先生......这么多，这么多的悔恨......从来都不说，你从来都不向任何人去倾诉吗？
 [name="アーミヤ"]  パトリオットさん！　こんなに——こんなにたくさんの後悔を……一人で、抱えていたんですか？
+[name="Amiya"]  Mr. Patriot... You have so much regret... You never said anything? You never confided in anyone?
 [name="아미야"]  패트리어트 씨…… 이렇게나, 이렇게나 많은 후회와 한을…… 단 한 번도, 그 누구에게도 털어놓지 않았던 건가요?
 
 [name="爱国者"]  ......
 [name="パトリオット"]  …………
+[name="Patriot"]  ......
 [name="패트리어트"]  ……
 
 [name="爱国者"]  我的悔恨，只有我能承受。
 [name="パトリオット"]  私の後悔は、私にしか、受け止められない。
+[name="Patriot"]  I can only bear, my regrets.
 [name="패트리어트"]  나의 후회는, 나만이 견딜 수 있다.
 
 [name="凯尔希"]  Mon3tr，别靠近他！
 [name="ケルシー"]  Mon3tr、彼に近づくな！
+[name="Kal'tsit"]  Mon3tr, get back from him!
 [name="켈시"]  Mon3tr, 그에게 다가가지 마!
 
 [name="爱国者"]  我会想，为什么，殿下那样的人，也会遭遇不测？
 [name="パトリオット"]  時々思うことが、ある。何故、殿下のような、方でも、命を失う？
+[name="Patriot"]  I would think, why did, the King, as she was, end like that?
 [name="패트리어트"]  늘, 생각한다. 어째서, 전하 같은 분도, 그런 결말을, 예측하지, 못하셨을까?
 
 [name="凯尔希"]  ——
 [name="ケルシー"]  …………
+[name="Kal'tsit"]  ......
 [name="켈시"]  ……
 
 [name="爱国者"]  你不会回答我。殿下的死，至今都，扑朔迷离。
 [name="パトリオット"]  誰も、答えては、くれない。殿下の死は、いまだに、謎だ。
+[name="Patriot"]  You won’t answer. Her Majesty’s death, to this day, is a mystery.
 [name="패트리어트"]  당신은, 대답하지 않았지. 전하의 죽음은, 지금까지도, 수수께끼로, 남아 있다.
 
 [name="爱国者"]  但我知道。她不曾逃避。她从头至尾，都只微笑面对。
 [name="パトリオット"]  だが私は、知っている。あの方は。運命から、逃げなかった。最初から、最後まで、笑って、立ち向かった。
+[name="Patriot"]  But I know, she never ran. Start to finish, she would only smile.
 [name="패트리어트"]  하지만, 난 알고 있다. 그분은 도망가는 사람이, 아니라는 것을. 그녀는, 처음부터 끝까지, 모든 것을, 미소로, 대하셨지.
 
 [name="爱国者"]  我停止战斗，所有的反抗，都失去意义。我停止战斗，就是逃避。
 [name="パトリオット"]  私が、戦いを、やめたら、全ての抗争が、意味を失くす。戦いを、やめること、それは逃げる、ことになる。
+[name="Patriot"]  If I stop fighting, all resistance, means nothing. If I stop fighting, I ran.
 [name="패트리어트"]  내가 싸움을 멈추면, 이 모든 저항이, 의미를 잃게 된다. 내게 싸움을 멈추는 것은, 곧 도피나 다름없어.
 
 [name="爱国者"]  我不可能停止。
 [name="パトリオット"]  やめるわけには、いかない。
+[name="Patriot"]  I cannot stop.
 [name="패트리어트"]  멈출 수는, 없다.
 
 [name="女儿"]  我们没有血缘关系吧？一直叫你爸爸，还挺奇怪的。
 [name="娘"]  ……私たち、血は繋がってないよね？　ずっと父さんって呼ぶのも変だよね。
+[name="Daughter"]  We’re not related, though? It’s kind of weird to call you dad.
 [name="딸"]  우리 사이에 혈연관계는 없잖아? 계속 아빠라고 부르려니까, 좀 이상하네.
 
 [name="女儿"]  ......你脸色有点不太好啊？
 [name="娘"]  ……なんか顔色が悪いよ？
+[name="Daughter"]  ...You don’t look so good?
 [name="딸"]  ……안색이 별로 안 좋은 거 같은데?
 
 [name="女儿"]  才没有！才不是因为......因为兄弟姐妹们害怕我呢！
 [name="娘"]  そうじゃないの！　父さんって呼ぶのが嫌なわけじゃなくって……兄弟姉妹たちが、父さんと一緒にいる私のことを怖がるから……
+[name="Daughter"]  No way! It’s not because... my brothers and sisters are scared of me!
 [name="딸"]  아니야! 절대…… 형제자매들이 날 무서워해서가 아니라니까!
 
 [name="女儿"]  哎哎，你有什么办法吗，让他们不因为你躲我躲得远远的办法？
 [name="娘"]  ねぇ、何かいい方法ないの？　父さんのせいで私が避けられるのを防ぐ方法。
+[name="Daughter"]  Hey, do you have any ideas? On how I can get them to stop hiding from me because of you?
 [name="딸"]  저기, 무슨 방법 없을까? 우리 때문에 그들이 도망가지 않게 하는 방법 말이야.
 
 [name="女儿"]  有的话，叫你爸爸也可以！
 [name="娘"]  あるなら、父さんって呼んであげてもいいよ！
+[name="Daughter"]  If you do, I’ll even call you daddy!
 [name="딸"]  있으면, 아빠라고 불러줄게!
 
 [name="女儿"]  啊？要挟？那个词儿是什么意思啊，你还没有教我呢。
 [name="娘"]  え？　脅しか……ってそれどういう意味？　教えてもらったっけ。
+[name="Daughter"]  Huh? Threat-en? I don’t know what that word means. You didn’t teach me yet.
 [name="딸"]  응? 협박? 그게 무슨 뜻이야? 나한테 가르쳐준 적 없는 단어잖아.
 
 [name="女儿"]  唉，你说哥哥学什么东西都很快，不像我这样只能按部就班地来......那哥哥现在在哪呢？
 [name="娘"]  兄さんみたいにはいかないかって言われても、私だってちゃんと勉強してるよ！　……そういえば、兄さんは今どこにいるの？
+[name="Daughter"]  *Sigh*, you told me my brother learned everything really fast. But I can only go step by step... Where’s my brother now?
 [name="딸"]  아, 오빠는 뭐든 빨리 배운다고 했지, 나처럼 차근차근 배울 필요 없이…… 그럼 그 오빠는 지금 어디에 있는데?
 
 [name="女儿"]  唉，唉？！为什么突然抱住我！你会冻伤的！
 [name="娘"]  えっ？　……急にどうしたの？　そんなに抱きしめたら、しもやけになっちゃうよ！？
+[name="Daughter"]  Huh?! Why are you hugging me all of a sudden? You’ll freeze!
 [name="딸"]  엣, 뭐야?! 왜 갑자기 껴안고 그래! 그러다 동상 걸려!
 
 [name="女儿"]  ......你在哭吗？好像有水掉在我肩上了......
 [name="娘"]  ……泣いてるの？　肩に何か垂れた気がするけど……
+[name="Daughter"]  ...Are you crying? I felt something drip on my shoulder...
 [name="딸"]  ……우는 거야? 어깨에 물방울이 떨어진 것 같은데……
 
 [name="女儿"]  没有？所有人都说爸爸无血无泪，那就是说爸爸不会哭吗？
 [name="娘"]  泣いてない？　みんなが父さんは血も涙もない人だって言うけど、それは父さんは泣かないって意味？
+[name="Daughter"]  No? Everyone says you don’t have blood or tears. Does that mean you don’t cry?
 [name="딸"]  아니야? 다들 아빠더러 피도 눈물도 없는 냉혈한이래. 그래서 아빠는 울지 않는 거야?
 
 [name="女儿"]  可是爸爸明明会哭啊......
 [name="娘"]  でも父さん、泣いてる……
+[name="Daughter"]  But you’re definitely crying, Daddy...
 [name="딸"]  하지만 아빠, 분명히 울고 있잖아……
 
 [name="女儿"]  ......我前面只是瞎说的，瞎说的！爸爸哭，是因为冻得太疼了吗？
 [name="娘"]  あの……さっきのは嘘だよ！　適当に言っただけだから！　父さんが泣いてるのは、私の体が冷た過ぎてしもやけになったから？
+[name="Daughter"]  ...I don’t know what I was saying! I’m sorry! Daddy, are you crying because you’re freezing and it hurts?
 [name="딸"]  ……방금 말한 건 다 장난이야, 장난! 아빠가 우는 건, 너무 차가워서 아프니까 눈물이 난 거지?
 
 [name="女儿"]  爸爸，爸爸！我不会再像刚才那么说了，而且，我长大以后，长大以后......长大以后一定给你做一种让你不会被冻坏的药！
 [name="娘"]  父さん、父さん！　もうあんなこと言わないから、ね？　それに、大きくなったら……大きくなったら、父さんにしもやけしない薬を作ってあげる！
+[name="Daughter"]  Daddy! Daddy! I won’t say things like that anymore! And, and when I grow up... I’ll make a medicine for you so you won’t get frozen!
 [name="딸"]  아빠, 아빠! 이제 그렇게 안 말할게, 그리고 어른이 되면…… 어른이 되면 아빠가 나한테 얼어서 다치지 않을 약을 만들어 줄게!
 
 [name="女儿"]  这样你就不会再被疼哭了，对吗？我一定会快快长大的！
 [name="娘"]  そしたらもう泣かなくていいよね？　私、早く大きくなるから！
+[name="Daughter"]  Then you won’t cry anymore, right? I’m gonna grow up really fast!
 [name="딸"]  그러면 아빠도 울지 않을 거야, 그렇지? 빨리 어른이 되고 말겠어!
 
 [name="女儿"]  家人？
 [name="娘"]  え？　……家族？
+[name="Daughter"]  Family?
 [name="딸"]  가족?
 
 [name="女儿"]  啊，是说，我的兄弟姐妹们，还有你我，都是家人？不在这里的哥哥也是？
 [name="娘"]  それは、私と父さん、それから兄弟姉妹たちもみんなってこと？　ここにいないお兄ちゃんも？
+[name="Daughter"]  Oh, you mean my brothers and sisters, and me, and you, we’re all a family? Even my brother who isn’t here?
 [name="딸"]  그러니까, 우리 형제자매들이랑, 아빠랑 나랑, 모두 가족이라는 거지? 여기 없는 오빠도?
 
 [name="女儿"]  嗯......这样的话，爸爸，就是大家的爸爸了！
 [name="娘"]  うーん……てことは、父さんはみんなの父さんだね！
+[name="Daughter"]  Um... then, Daddy, you’re everyone’s daddy!
 [name="딸"]  응…… 그러면 아빠는, 모두의 아빠네!
 
 [name="女儿"]  我也一定会学习爸爸，帮外婆报仇，杀掉那些欺负我们的人！
 [name="娘"]  私も父さんみたいに、私たちをいじめに来る悪いやつらを殺して、おばあちゃんの仇をとる！
+[name="Daughter"]  Then I’ll learn from you, and avenge grandma! I’ll kill all the bad people who bully us!
 [name="딸"]  나도 아빠를 따라 외할머니의 원수를 갚고, 우릴 괴롭히는 놈들을 다 죽여버릴 거야!
 
 [name="女儿"]  不准这么说？
 [name="娘"]  そんなことを言っちゃダメだって？
+[name="Daughter"]  I can’t say that?
 [name="딸"]  이런 말 하면 안 된다고?
 
 [name="女儿"]  为什么！明明爸爸每天都在杀那些坏人！
 [name="娘"]  何で？　父さんだって毎日、あの悪いやつらを殺してるでしょ！？
+[name="Daughter"]  Why?! You kill the bad guys every day, Daddy!
 [name="딸"]  왜? 아빠는 매일 나쁜 놈들을 죽이잖아!
 
 [name="女儿"]  ......什么叫不想我成为爸爸这样的人？爸爸难道不是好人吗？
 [name="娘"]  ……父さんのような人になって欲しくない？　どうして？　父さんはいい人じゃないの？
+[name="Daughter"]  ...What do you mean you don’t want me to become like you? Aren’t you a good guy?
 [name="딸"]  ……아빠 같은 사람이 되지 않길 바란다니, 그게 무슨 말이야? 아빠는 좋은 사람이잖아?
 
 [name="女儿"]  为什么爸爸也是坏人？！我不懂，你说明白！爸爸怎么会是坏人！
 [name="娘"]  父さんも悪い人なの？　ちゃんと言ってくれなきゃわからないよ！　そんな……父さんが悪い人だなんて！
+[name="Daughter"]  How can my daddy be a bad guy?! That doesn’t make any sense! Tell me! How are you a bad guy?!
 [name="딸"]  왜 아빠도 나쁜 사람이야?! 이해가 안 돼, 제대로 설명해 줘! 왜 아빠가 나쁜 사람이냐니까!
 
 [name="女儿"]  我讨厌爸爸。讨厌！
 [name="娘"]  父さんなんか嫌い。大嫌い！
+[name="Daughter"]  I hate you, Daddy!
 [name="딸"]  아빠 미워. 미워!
 
 [name="女儿"]  ......不学爸爸，就能到城里去？
 [name="娘"]  え？　……父さんみたいにならなかったら、街に行ける？
+[name="Daughter"]  If I can’t be like you, can I go to the city?
 [name="딸"]  아빠처럼 되지 않아야…… 성안에 들어갈 수 있다고?
 
 [name="女儿"]  爸爸......你说，我们真的能到城里去吗？
 [name="娘"]  父さん、それって本当？　本当に街に入れてもらえるの？
+[name="Daughter"]  Um... Daddy... Can we really go to the city?
 [name="딸"]  아빠…… 우리 정말 성안에 들어갈 수 있을까?
 
 [name="女儿"]  你说的什么手指糖.....真的好吃吗？
 [name="娘"]  父さんの言ってた指輪キャンディも……食べられるかな？
+[name="Daughter"]  The candy fingers you were talking about... are they really good?
 [name="딸"]  아빠가 전에 말했던 손가락 사탕…… 그게 정말 그렇게 맛있어?
 
 [name="女儿"]  如果要不当爸爸这样的人才能吃到的话......唔......！
 [name="娘"]  父さんみたいじゃない人にしか食べられないなら……うーん……
+[name="Daughter"]  So I can’t eat it if I’m like you...? Oh...!
 [name="딸"]  아빠처럼 되지 않아야 먹을 수 있다니…… 으으……!
 
 [name="女儿"]  我不懂。
 [name="娘"]  わからない。
+[name="Daughter"]  I don’t get it.
 [name="딸"]  모르겠어.
 
 [name="女儿"]  爸爸......
 [name="娘"]  父さん……
+[name="Daughter"]  Daddy...?
 [name="딸"]  아빠……
 
 [name="女儿"]  我想，不管怎么样，好人和坏人，我都可以当的。
 [name="娘"]  あのね、いい人でも悪い人でも、別に私はどっちでもいいの。
+[name="Daughter"]  I guess, it doesn’t matter, I could be a good guy or a bad guy.
 [name="딸"]  좋은 사람이든 나쁜 사람이든, 뭐든 될게.
 
 [name="女儿"]  只要永远和爸爸，还有兄弟姐妹们一起......一直在一起就好了。
 [name="娘"]  父さんや兄弟姉妹たちとずっと……ずっと一緒にいられたらそれでいいんだよ。
+[name="Daughter"]  As long as I can be with you, Daddy, and my brothers and sisters... forever.
 [name="딸"]  나는 아빠랑, 형제자매들이랑 영원히 함께…… 함께할 수만 있으면 돼.
 
 [name="女儿"]  爸爸是我的家人。我知道的，爸爸是我最好的家人了。
 [name="娘"]  父さんは私の家族だよ。うん、父さんは一番の家族なの。
+[name="Daughter"]  You’re my family, I know. My closest family.
 [name="딸"]  아빠는 내 가족이야. 난 알아, 아빠는 내게 최고의 가족이야.
 
 [name="女儿"]  当然啦，第二是......第三是......
 [name="娘"]  それでね、二番目は……三番目は……
+[name="Daughter"]  Obviously, the second is... the third is...
 [name="딸"]  당연히, 두 번째는…… 세 번째는……
 
 [name="爱国者"]  叶莲娜......叶莲娜......我的女儿。
 [name="パトリオット"]  エレーナ……エレーナ、我が娘よ。
+[name="Patriot"]  Yelena... Yelena... My daughter.
 [name="패트리어트"]  옐레나…… 옐레나…… 내 딸아.
 
 [name="爱国者"]  我的女儿......父亲，什么，都没能，为你做到。
 [name="パトリオット"]  娘よ……私は、お前のために、何も、できなかった。
+[name="Patriot"]  My daughter... Father, couldn’t, do anything, for you.
 [name="패트리어트"]  사랑스러운 내 딸…… 이 아비는, 널 위해, 아무것도, 해주지 못했구나.
 
 [name="爱国者"]  我什么，都没做到。
 [name="パトリオット"]  何も、できなかった。
+[name="Patriot"]  I couldn’t, do anything.
 [name="패트리어트"]  아무것도, 해주지 못했어.
 
 [name="爱国者"]  我亏欠你，太多。
 [name="パトリオット"]  親としての、責任、何一つ、果たせなかった。
+[name="Patriot"]  I owe you, too much.
 [name="패트리어트"]  네게 해주지 못한 게, 너무나 많구나.
 
 [name="爱国者"]  太多。
 [name="パトリオット"]  何一つ……
+[name="Patriot"]  Too much.
 [name="패트리어트"]  너무나도 많아.
 
 [name="阿米娅"]  ......
 [name="アーミヤ"]  …………
+[name="Amiya"]  ......
 [name="아미야"]  ……
 
 [name="阿米娅"]  太多了，太多了......
 [name="アーミヤ"]  もういいです……もうたくさんです……
+[name="Amiya"]  Too much, too much...
 [name="아미야"]  너무 많아, 너무……
 
 [name="爱国者"]  卡特斯女孩。你是，罗德岛的领袖。
 [name="パトリオット"]  コータスの娘。君が、ロドスの、統率者だと——
+[name="Patriot"]  Cautus girl. You are, Rhodes Island’s leader.
 [name="패트리어트"]  카우투스 소녀여. 네가, 로도스 아일랜드의 리더구나.
 
 [name="爱国者"]  你究竟，哪里出众？
 [name="パトリオット"]  諸君の、仲間の一人が、私に、君のことを、話してくれた、ことがある。
+[name="Patriot"]  What is special, about you?
 [name="패트리어트"]  너는 대체, 어디서 왔는가?
 
 [name="爱国者"]  你们有个成员，向我描述过你。
 [name="パトリオット"]  君の、一体どこが、特別なのか……
+[name="Patriot"]  One of your people, told me of you.
 [name="패트리어트"]  너희 중 누군가, 너에 대해, 말한 적이 있다.
 
 [name="爱国者"]  你们的战士，十分优秀。但仅仅优秀，还是会死。
 [name="パトリオット"]  ロドスの戦士は、優秀だ。だが、優秀さだけでは、生き残れない。
+[name="Patriot"]  Your warriors, are excellent. But only excellent, they still die.
 [name="패트리어트"]  너희 전사들은, 아주 우수하다지. 하지만 아무리 우수해도, 죽는 건 마찬가지.
 
 [name="爱国者"]  你还有哪里，能让我，看到价值？
 [name="パトリオット"]  どこに、それ以上の、価値を、見せてくれる？
+[name="Patriot"]  Where is it? Show me, your worth.
 [name="패트리어트"]  네게는, 아직 내게 보여줄, 다른 가치가 남았나?
 
 [name="爱国者"]  你想阻止，核心城，却无法，战胜我？
 [name="パトリオット"]  私すら、打ち破れずに、中枢区画を、止められる、とでも？
+[name="Patriot"]  You want to stop, the core city. But you can’t, defeat me?
 [name="패트리어트"]  너는 코어를, 저지하고 싶겠지만, 날 이기지는 못하잖나?
 
 [name="迷迭香"]  别想碰阿米娅！
 [name="ロスモンティス"]  アーミヤには触れさせない！
+[name="Rosmontis"]  Don’t touch Amiya!
 [name="로즈몬티스"]  아미야를 건드리지 마!
 
 [name="迷迭香"]  一把，两把，三把......第四把！
 [name="ロスモンティス"]  1本、2本、3本……4本！
+[name="Rosmontis"]  One, two, three... four!
 [name="로즈몬티스"]  하나, 둘, 셋…… 네 개!
 
 盾，碎了。
 盾は、砕けた。
+Shield, shattered.
 방패가 부서졌다.
 
 戟，断了。
 槍は、折れた。
+Spear, snapped.
 창이 부러졌다.
 
 巨大的怪物，没有停下脚步。
 だが巨大な怪物は、止まらなかった。
+The huge monster doesn’t even flinch. He keeps hulking forward.
 하지만 거대한 괴물은, 걸음을 멈추지 않았다.
 
 [name="爱国者"]  呵。
 [name="パトリオット"]  ふっ……
+[name="Patriot"]  Heh.
 [name="패트리어트"]  아.
 
 [name="爱国者"]  竟然能，钉穿铠甲。这副铠甲，终于到了极限。
 [name="パトリオット"]  まさか、鎧を穿つとは。この装備も、限界か。
+[name="Patriot"]  You can, pierce my armor. This suit, is finally, at its limit.
 [name="패트리어트"]  과연, 갑옷을 뚫다니. 드디어 이 갑옷도, 이제 한계인 건가.
 
 [name="迷迭香"]  ......你挣脱不了的......！
 [name="ロスモンティス"]  ……とどめを……刺す！
+[name="Rosmontis"]  ...You won’t get away...!
 [name="로즈몬티스"]  ……벗어날 수 없을걸……!
 
 [name="爱国者"]  菲林，你很强大。你对我是威胁。
 [name="パトリオット"]  フェリーンの娘。君は強い。凄まじい、脅威だ。
+[name="Patriot"]  Feline, you are strong. A threat, to me.
 [name="패트리어트"]  필라인이여, 넌 확실히 강하다. 내게 위협적인 존재지.
 
 [name="阿米娅"]  等等，爱国者先生。
 [name="アーミヤ"]  待ってください、パトリオットさん。
+[name="Amiya"]  Wait, Mr. Patriot.
 [name="아미야"]  기다리세요, 패트리어트 씨.
 
 [name="爱国者"]  我离你，只有十步。不用再等。
 [name="パトリオット"]  君のところ、まで、あと10歩、しかない。これ以上、待てない。
+[name="Patriot"]  Only ten, more steps. No need to wait.
 [name="패트리어트"]  너에게까지, 열 발자국 남았다. 기다릴 필요는 없겠지.
 
 [name="阿米娅"]  你已经到极限了，我知道。
 [name="アーミヤ"]  あなたはもう限界です。私にはわかります。
+[name="Amiya"]  You’re at your limit, I know.
 [name="아미야"]  당신은 이제 한계란 걸, 저는 알 수 있어요.
 
 [name="阿米娅"]  因为你毕竟不像霜星小姐，你并不是个术师......
 [name="アーミヤ"]  あなたはフロストノヴァさんと違って、術師じゃありません……
+[name="Amiya"]  Because you’re not a caster like Miss FrostNova...
 [name="아미야"]  게다가 당신은 프로스트노바 씨 같은, 캐스터도 아니니까요……
 
 [name="阿米娅"]  那这一下就已经足够了。
 [name="アーミヤ"]  なら、この一撃で十分です。
+[name="Amiya"]  This is enough already.
 [name="아미야"]  이제 충분하잖아요.
 
 [name="阿米娅"]  这个法术里有......我看到的所有事情。我在你身上看到的所有。
 [name="アーミヤ"]  このアーツに……私の見た、あなたの中に見えた全てが込められています。
+[name="Amiya"]  I’ve seen everything... in these Arts. Everything of you.
 [name="아미야"]  이 아츠에는…… 제가 보았던 모든 일이 들어 있어요. 제가 당신에게서 보았던 모든 일이요.
 
 [name="阿米娅"]  ......已经够了，爱国者先生。
 [name="アーミヤ"]  ……もう十分です、パトリオットさん。
+[name="Amiya"]  ...It’s enough, Mr. Patriot.
 [name="아미야"]  ……이제 됐어요, 패트리어트 씨.
 
 已经够了。
 ああ、もう十分だ。
+It’s enough.
 이제 됐어.
 
 [name="爱国者"]  居然......这是......什么？
 [name="パトリオット"]  なんと……これは……一体？
+[name="Patriot"]  What... is... this?
 [name="패트리어트"]  도대체…… 이건…… 뭐지?
 
 [name="爱国者"]  这一击，很精准。
 [name="パトリオット"]  なかなかに……鋭い一撃、だった。
+[name="Patriot"]  This strike, it’s precise.
 [name="패트리어트"]  방금의 일격은, 아주 정확했다.
 
 [name="爱国者"]  我已，不再能挪步。
 [name="パトリオット"]  これ以上は、もう動けぬ……か。
+[name="Patriot"]  I can’t, move, anymore.
 [name="패트리어트"]  더는, 움직일 수가 없군.
 
 [name="凯尔希"]  ......所有损伤，堆砌到了极限。
 [name="ケルシー"]  全戦力を投入してようやく、追い込むことができたか……
+[name="Kal'tsit"]  ...His wounds are finally catching up to him.
 [name="켈시"]  ……모든 손상이 누적되어, 이제 한계에 다다랐을 거다.
 
 [name="凯尔希"]  博卓卡斯替......
 [name="ケルシー"]  ボジョカスティ……
+[name="Kal'tsit"]  Buldrokkas'tee...
 [name="켈시"]  불드록카스티……
 
 [name="爱国者"]  （我本打算，击溃你们，之后让游击队，假借你们名义，杀死塔露拉。）
 [name="パトリオット"]  （本来なら、貴方たちを、敗った後、遊撃隊に、ロドスを、名乗らせて、タルラを、殺すつもり、だった。）
+[name="Patriot"]  (I planned, to destroy you, then the guerrillas, in your name, kill Talulah.
 [name="패트리어트"]  (너희를 쓰러뜨린 뒤, 유격대에게, 너희의 이름을 빌려, 탈룰라를 죽일 생각이었지만.)
 
 [name="爱国者"]  （现在，已经不必。你们胜了，你们名正言顺。去杀死，塔露拉。）
 [name="パトリオット"]  （だが、その必要は、もうない。貴方たちは、勝利した。自分たちの手で、タルラを、殺しに行くが、いい。）
+[name="Patriot"]  (No need, now. You won, the right, to kill, Talulah.)
 [name="패트리어트"]  (이제는, 필요 없겠지. 너희가 이겼다. 너희가 옳았음을 증명한 것이다. 가서 탈룰라를, 죽여라.)
 
 [name="阿米娅"]  （爱国者......先生？）
 [name="アーミヤ"]  （パトリオット……さん？）
+[name="Amiya"]  (Mr... Patriot?)
 [name="아미야"]  (패트리어트…… 씨?)
 
 [name="爱国者"]  （我怎么能允许，感染者，被奴役他人者，利用？）
 [name="パトリオット"]  （感染者が、他人に利用、されるのを、私は決して、許さない。）
+[name="Patriot"]  (How could I, let the Infected, be enslaved, exploited?)
 [name="패트리어트"]  (감염자가, 다른 놈들에게, 이용되는걸, 내가 어찌, 용납할 수 있겠는가?)
 
 [name="爱国者"]  （我的命，你们拿去用。这是胜者的，战利品。）
 [name="パトリオット"]  （この命、貰ってくれ。勝者の、戦利品だ。）
+[name="Patriot"]  (My life, take it. Use it. It’s your prize, as the victors.)
 [name="패트리어트"]  (내 목숨을, 받아 가라. 이는 승자의, 전리품이니.)
 
 [name="爱国者"]  你们，胜了。
 [name="パトリオット"]  諸君の、勝ちだ。
+[name="Patriot"]  You, won.
 [name="패트리어트"]  너희가, 이겼다.
 
 [name="爱国者"]  勋爵，这个，请拿好。
 [name="パトリオット"]  士爵、これを、受け取って、もらえるか。
+[name="Patriot"]  Dame. Please. Take this.
 [name="패트리어트"]  훈작, 이걸, 가져가겠나.
 
 [name="凯尔希"]  ——这是什么？
 [name="ケルシー"]  ――これは？
+[name="Kal'tsit"]  —What is it?
 [name="켈시"]  ……이건?
 
 [name="爱国者"]  停下切城的秘钥。
 [name="パトリオット"]  中枢区画を、止めるための、鍵だ。
+[name="Patriot"]  The key, to stop, Chernobog.
 [name="패트리어트"]  체르노보그를 멈출, 열쇠다.
 
 [name="爱国者"]  如果你们，去舰桥区......你们要带上它。
 [name="パトリオット"]  もし、ブリッジに、行くなら……これを持って、いけ。
+[name="Patriot"]  If you go, to the bridge... you need it.
 [name="패트리어트"]  함교 구역에 가려면…… 그게 필요할 거다.
 
 [name="阿米娅"]  爱国者先生，你......只为了......
 [name="アーミヤ"]  パトリオットさん……このために……
+[name="Amiya"]  Mr. Patriot, you... just to...
 [name="아미야"]  패트리어트 씨, 당신은…… 단지……
 
 [name="阿米娅"]  呜......
 [name="アーミヤ"]  うぅ……
+[name="Amiya"]  Oh...
 [name="아미야"]  으으으……
 
 [name="爱国者"]  不。
 [name="パトリオット"]  違う。
+[name="Patriot"]  No.
 [name="패트리어트"]  아니.
 
 [name="爱国者"]  我的确打算，杀了你们。
 [name="パトリオット"]  諸君を、殺そうとしたのは、事実だ。
+[name="Patriot"]  I did, intend, to kill you.
 [name="패트리어트"]  난 진심으로, 너흴 죽이려 했다.
 
 [name="爱国者"]  但现在，你们战胜了我。你们应得。
 [name="パトリオット"]  だが諸君は、勝利した。それを手にして、当然だ。
+[name="Patriot"]  But now, you defeated me. You earned it.
 [name="패트리어트"]  하지만 지금은, 너희가 이겼지. 마땅한 결과다.
 
 [Decision(options="为什么要做到这一步？", values="1")]
 [Decision(options="なぜそこまで戦いに拘る？", values="1")]
+[Decision(options="Why did you take it this far?", values="1")]
 [Decision(options="왜 이렇게까지 해야 했나?", values="1")]
 
 [name="爱国者"]  因为我不信你们。
 [name="パトリオット"]  諸君を、信用できない、からだ。
+[name="Patriot"]  Because I don’t trust you.
 [name="패트리어트"]  너희를 믿지 않았기 때문이다.
 
 [name="爱国者"]  我只相信，战争的结果。
 [name="パトリオット"]  諸君だけでは、ない。私は、戦いの結果しか、信用しない。
+[name="Patriot"]  I only trust, war.
 [name="패트리어트"]  나는 오직, 전쟁의 결과만을 믿는다.
 
 [name="爱国者"]  我女儿，只是天真，她会网开一面，也会假设结局。
 [name="パトリオット"]  私の娘は、世間知らず、だった。甘い結末を、夢見ていた。
+[name="Patriot"]  My daughter, was naive. She was soft, she assumed, an outcome.
 [name="패트리어트"]  내 딸은 단순해서, 사정을 봐주기도 하지만, 결과를 꾸며내기도 한다.
 
 [name="爱国者"]  我不会。我只等到结果。
 [name="パトリオット"]  私は夢など、見ない。結果を出す、のみだ。
+[name="Patriot"]  I don’t. I wait for results.
 [name="패트리어트"]  난 그러지 않아. 난 결과를 기다릴 뿐이다.
 
 [name="爱国者"]  而且，最好的结果......就是这样。
 [name="パトリオット"]  そして、これも……一つの結果だ。
+[name="Patriot"]  And this... is the best... result.
 [name="패트리어트"]  게다가, 최선의 결과가…… 이것이었다.
 
 [name="爱国者"]  我的士兵，因为惊讶，没能发挥全力。他们活着。
 [name="パトリオット"]  私の兵たちは、不測の事態に、全力を出せて、いない。そのおかげで彼らは、生き残れる。
+[name="Patriot"]  My men, surprised, did not use, their strength. They live.
 [name="패트리어트"]  나의 병사는, 놀란 나머지, 실력을 모두 발휘할 수 없었다. 그들은 살아있지.
 
 [name="爱国者"]  只有我一人......为之而死。我死得其所。
 [name="パトリオット"]  死ぬのは……私一人。これでいい。
+[name="Patriot"]  Only I, alone... will die. A worthy death.
 [name="패트리어트"]  나 하나만…… 죽으면 된다. 죽을 만한 곳을 찾았군.
 
 [name="罗德岛干员"]  ......怎么回事！
 [name="オペレーター"]  ……どういうことだ！？
+[name="Rhodes Island Operator"]  ...What happened?!
 [name="로도스 아일랜드 오퍼레이터"]  ……대체 무슨 일이지!
 
 [name="罗德岛干员"]  可露希尔，生物处理室13号舱，给我图表！
 [name="オペレーター"]  クロージャ、感染生物処理室13番ポッドのデータを見せてくれ！
+[name="Rhodes Island Operator"]  Closure, I need the schematics to Bioprocessing Unit Thirteen!
 [name="로도스 아일랜드 오퍼레이터"]  클로저, 어서 생체 처리실 13호실의 그래프를!
 
 [name="罗德岛干员"]  舱室的内部温度急剧升高！能量在外放！
 [name="オペレーター"]  内部温度が急激に上昇してる？　エネルギーが放出されてるんだ！
+[name="Rhodes Island Operator"]  Cabin temperature is increasing rapidly! It’s an energy leak!
 [name="로도스 아일랜드 오퍼레이터"]  선실 내부의 온도가 급격히 상승하고 있다! 에너지가 방출되고 있다고!
 
 [name="罗德岛干员"]  等等，它的形态在转化！经过十四小时的处理，为什么还会进入到这一阶段？
 [name="オペレーター"]  待て！　形態が変化してる！　14時間の処理を経てるのに、なぜこの段階に？
+[name="Rhodes Island Operator"]  Wait, it’s changing shape! Why is it progressing like this after fourteen hours?
 [name="로도스 아일랜드 오퍼레이터"]  잠깐, 형태가 변하고 있어! 처리 과정에 돌입한 지 14시간이나 지났는데, 어째서 다시 이 단계에 들어간 거지?
 
 [name="罗德岛干员"]  PRTS，刚才是谁使用了这个舱位？
 [name="オペレーター"]  PRTS、さっきここを使ったのは誰だ？
+[name="Rhodes Island Operator"]  PRTS, who was in this cabin last?
 [name="로도스 아일랜드 오퍼레이터"]  PRTS, 최근에 누가 이 자리를 사용했지?
 
 [name="罗德岛干员"]  Dr.{@nickname}？我们在龙门攻防战里有干员伤亡吗？这处理的是谁？
 [name="オペレーター"]  Dr.{@nickname}？　龍門の戦闘で死傷者は出てないはずだろう？　一体誰を処理したんだ？
+[name="Rhodes Island Operator"]  Dr. {@nickname}? Did we lose someone in the battle for Lungmen? Who’s being processed?
 [name="로도스 아일랜드 오퍼레이터"]  {@nickname} 박사? 용문에서의 전투 중 사망한 오퍼레이터라도 있었나? 안에 있는 건 누구지?
 
 [name="罗德岛干员"]  什么？
 [name="オペレーター"]  何？
+[name="Rhodes Island Operator"]  What?
 [name="로도스 아일랜드 오퍼레이터"]  뭐?
 
 [name="罗德岛干员"]  等等，你慢点说，你说Dr.{@nickname}在舱位里安置了谁？
 [name="オペレーター"]  ちょっと待て！　Dr.{@nickname}が、ここに誰を入れたって？
+[name="Rhodes Island Operator"]  Wait, slow down. Who did you say Dr. {@nickname} put in there?
 [name="로도스 아일랜드 오퍼레이터"]  잠깐, 다시 말해봐. {@nickname} 박사가 여기에 누굴 넣었다고?
 
 [name="爱国者"]  勋爵！
 [name="パトリオット"]  士爵！
+[name="Patriot"]  Dame!
 [name="패트리어트"]  켈시 훈작!
 
 [name="凯尔希"]  我在听，博卓卡斯替。
 [name="ケルシー"]  ああ、ボジョカスティ。
+[name="Kal'tsit"]  I’m listening, Buldrokkas'tee.
 [name="켈시"]  듣고 있다, 불드록카스티.
 
 [name="爱国者"]  我们温迪戈，自我流放，失去一切。
 [name="パトリオット"]  我々、ウェンディゴは、自身を追放し、全てを失った。
+[name="Patriot"]  The Wendigos, exiled ourselves, lost everything.
 [name="패트리어트"]  우리 웬디고는, 스스로 유랑에 빠져, 모든 걸 잃었다.
 
 [name="爱国者"]  但我们身负，萨卡兹的传统。
 [name="パトリオット"]  だが、この身は、サルカズの、血脈に、連なっている。
+[name="Patriot"]  But we carry, Sarkaz traditions.
 [name="패트리어트"]  하지만 우린 아직, 살카즈의 전통을, 짊어지고 있다.
 
 [name="爱国者"]  先祖，塑造我，培育我，注视我。所以，请替我见证。
 [name="パトリオット"]  先祖が、私を創造し、育成し、見守っている。だからここで、証人になって、ほしい。
+[name="Patriot"]  Ancestors, molded me, nurtured me, watched over me. Now, bear witness.
 [name="패트리어트"]  선조는 나를, 만들었고, 키웠고, 지켜봐 왔지. 그러니 나를 대신하여, 증명해 주겠나.
 
 [name="凯尔希"]  博卓卡斯替......
 [name="ケルシー"]  ボジョカスティ……
+[name="Kal'tsit"]  Buldrokkas'tee...
 [name="켈시"]  불드록카스티……
 
 [name="凯尔希"]  ......我不知道自己够不够格。
 [name="ケルシー"]  先祖たちの、列の末席に、並ぶ資格が、私にあるのか、どうか。
+[name="Kal'tsit"]  ...I don’t know if I’m qualified.
 [name="켈시"]  ……내게 자격이 있는지 모르겠군.
 
 [name="爱国者"]  我认为你是，最好人选。
 [name="パトリオット"]  貴方が、一番の、適任者だ。
+[name="Patriot"]  I think you, are the best, choice.
 [name="패트리어트"]  당신이야말로, 가장 적합하다고 생각한다.
 
 [name="凯尔希"]  ......
 [name="ケルシー"]  ……
+[name="Kal'tsit"]  ......
 [name="켈시"]  ……
 
 [name="凯尔希"]  “......我在此担当一位萨卡兹的见证者。博卓卡斯替，卡兹戴尔的温迪戈，一生从未背叛过血肉，也从未愧对亲族。”
 [name="ケルシー"]  「……私は今、一人のサルカズの見届人として、ここに証明する。ボジョカスティ、カズデルのウェンディゴ、その生涯において彼の血脈を裏切ることはなく、彼の一族に恥じることもない——」
+[name="Kal'tsit"]  “...I hereby witness a Sarkaz. Buldrokkas'tee, Wendigo of Kazdel, betrayed neither flesh nor blood, disgraced not his tribe.”
 [name="켈시"]  "……나는 한 명의 살카즈의 증인으로서 증언한다. 불드록카스티, 카즈델의 웬디고는, 평생 그의 혈육을 배반하지 않았으며, 친족의 자랑스러운 일원이었다."
 
 [name="凯尔希"]  “他将把一生留在光芒下的身体里......”
 [name="ケルシー"]  「彼は己の生涯の栄誉を、光照らされるその身体に残し——」
+[name="Kal'tsit"]  “He leaves his body, with his life, under the light...”
 [name="켈시"]  "그의 일생은 찬란한 빛이 내리쬐는 그 몸 안에 남겨둔 채……"
 
 [name="凯尔希"]  “......而他的精魂，则将回到温迪戈温热的血脉中去。”
 [name="ケルシー"]  「そして彼の精神と魂は、ウェンディゴの温かな血脈に還らん。」
+[name="Kal'tsit"]  “...And his soul returns to the warm blood of the Wendigos.”
 [name="켈시"]  "……그의 영혼은, 웬디고의 뜨거운 혈맥으로 돌아가리라."
 
 [name="凯尔希"]  这是个诅咒。
 [name="ケルシー"]  これは、一種の呪縛だ。
+[name="Kal'tsit"]  This is a curse.
 [name="켈시"]  이건 그냥 주문일 뿐이야.
 
 [name="爱国者"]  对我，并不是。
 [name="パトリオット"]  私にとっては、違う。
+[name="Patriot"]  It is not, to me.
 [name="패트리어트"]  내게는, 아니다.
 
 [name="爱国者"]  啊——我感到......我感到，我清晰的视野，开始模糊。
 [name="パトリオット"]  ああ――感じる……視界が薄れて、いく。
+[name="Patriot"]  Oh... I feel... I feel... My vision, begins to blur.
 [name="패트리어트"]  아…… 느껴지는군…… 뚜렷하던 시야가, 흐려지기 시작했어.
 
 [name="爱国者"]  谢谢你，勋爵。
 [name="パトリオット"]  感謝する、士爵。
+[name="Patriot"]  Thank you, Dame.
 [name="패트리어트"]  고맙다, 훈작.
 
 [name="凯尔希"]  我以为你讨厌这些。
 [name="ケルシー"]  君は、こういうものを嫌っているだろうと思っていた。
+[name="Kal'tsit"]  I thought you hated this stuff.
 [name="켈시"]  이런 건 싫어하는 사람이라고 생각했는데.
 
 [name="爱国者"]  可我，已经老了。
 [name="パトリオット"]  私も、もう老いたのだ。
+[name="Patriot"]  But I, am old.
 [name="패트리어트"]  나도, 이제 늙었으니까.
 
 [name="幻影弩手"]  不......
 [name="迷彩狙撃兵"]  待て……
+[name="Phantom Crossbowman"]  No...
 [name="환영 석궁병"]  잠깐……
 
 [name="幻影弩手"]  这里是哪里？
 [name="迷彩狙撃兵"]  なぜサルカズが……
+[name="Phantom Crossbowman"]  Where are we?
 [name="환영 석궁병"]  여긴 어디지?
 
 [name="萨卡兹战士"]  ......
 [name="サルカズ戦士"]  …………
+[name="Sarkaz Warrior"]  ......
 [name="살카즈 전사"]  ……
 
 [name="幻影弩手"]  哈，原来是这样。哈。
 [name="迷彩狙撃兵"]  はっ、なるほど。ははっ……
+[name="Phantom Crossbowman"]  Ha. So that’s how it is. Ha.
 [name="환영 석궁병"]  하, 이렇게 됐다 이건가. 이거 참……
 
 [name="幻影弩手"]  塔露拉真的背叛我们了。
 [name="迷彩狙撃兵"]  やはりタルラは俺たちを裏切ったのか。
+[name="Phantom Crossbowman"]  Talulah really did betray us.
 [name="환영 석궁병"]  탈룰라가 역시나 우리를 배신했어.
 
 [name="幻影弩手"]  你以为我们会坐以待毙吗？！
 [name="迷彩狙撃兵"]  このままおとなしくやられるとでも思ってるのか？
+[name="Phantom Crossbowman"]  You think we’re just going to stand here and let you kill us?!
 [name="환영 석궁병"]  우리가 가만히 앉아 죽기만 기다릴 줄 알고?!
 
 [name="萨卡兹战士"]  你们不是对手。
 [name="サルカズ戦士"]  お前らなんか、相手にもならんさ。
+[name="Sarkaz Warrior"]  You can’t fight.
 [name="살카즈 전사"]  너흰 우리의 상대가 되지 못해.
 
 [name="萨卡兹战士"]  有来世的话，向我报仇。
 [name="サルカズ戦士"]  来世があれば、復讐でもしに来るんだな。
+[name="Sarkaz Warrior"]  If there’s an afterlife, take your revenge there.
 [name="살카즈 전사"]  다음 생이 있다면, 그때 복수하러 와라.
 
 [name="幻影弩手"]  就因为知道会死，所以就要放弃了吗？
 [name="迷彩狙撃兵"]  死ぬのが確実だからって諦めるとでも？
+[name="Phantom Crossbowman"]  We’re supposed to give up, just because we know we’re going to die?
 [name="환영 석궁병"]  어차피 죽을 테니, 포기해라?
 
 [name="幻影弩手"]  就这样被你们无故杀了而——
 [name="迷彩狙撃兵"]  このまま無抵抗でお前らに殺されるような——
+[name="Phantom Crossbowman"]  We're going to be killed for no reason and—
 [name="환영 석궁병"]  이렇게 영문도 모르고 죽어줄 줄 알고……
 
 [name="梅菲斯特"]  别杀他们。
 [name="メフィスト"]  殺すな。
+[name="Mephisto"]  Don’t kill them.
 [name="메피스토"]  저들을 죽이지 마.
 
 [name="萨卡兹战士"]  ......？
 [name="サルカズ戦士"]  ……？
+[name="Sarkaz Warrior"]  ...?
 [name="살카즈 전사"]  ……?
 
 [name="梅菲斯特"]  让他们走。
 [name="メフィスト"]  逃がしてやって。
+[name="Mephisto"]  Let them go.
 [name="메피스토"]  저들을 보내줘.
 
 [name="萨卡兹战士"]  梅菲斯特......？
 [name="サルカズ戦士"]  メフィスト……？
+[name="Sarkaz Warrior"]  Mephisto...?
 [name="살카즈 전사"]  메피스토……?
 
 [name="梅菲斯特"]  魔族人，我会给你们不知疼痛的身躯。让他们走。
 [name="メフィスト"]  サルカズ、君たちには痛みを知らない身体をあげる。だから彼らを逃がしてやってよ。
+[name="Mephisto"]  Devils, I’ll give you bodies that know no pain. Let them go.
 [name="메피스토"]  마족, 너희에게 고통 없는 육체를 줄 테니, 저들을 그냥 보내.
 
 [name="萨卡兹战士"]  我们比你的牧群强大得多。
 [name="サルカズ戦士"]  俺たちはお前の家畜なんかよりずっと強いと思うがな。
+[name="Sarkaz Warrior"]  We’re a lot tougher than your herd.
 [name="살카즈 전사"]  우린 네 가축들보다 강하다.
 
 [name="梅菲斯特"]  我可以把我的生命拿出来和你们分享，你们能真正地永远战斗，不知疲倦地战斗。
 [name="メフィスト"]  僕の命を君たちに分け与える。そうすれば君たちは永遠に戦える。疲れを感じずに戦えるようになるんだ。
+[name="Mephisto"]  I’ll share my life with you. And you’ll really fight forever, a tireless fight.
 [name="메피스토"]  내 생명을 공유해 줄게. 그러면 너흰 지치지 않고, 진정으로 영원히 싸울 수 있는 거야.
 
 [name="萨卡兹战士"]  ......可以。
 [name="サルカズ戦士"]  ……いいだろう。
+[name="Sarkaz Warrior"]  ...Fine.
 [name="살카즈 전사"]  ……좋다.
 
 [name="萨卡兹战士"]  但他们要出去，也必须由我的同伴看着。现在还不能违背塔露拉的命令。
 [name="サルカズ戦士"]  だが、こいつらを逃がすとしても、ひとまず俺の仲間の監視をつけておく必要がある。今はまだ、タルラに背くような真似はしたくないんでな。
+[name="Sarkaz Warrior"]  But if we let them go, my people have to watch them. We’re not about to disobey Talulah now.
 [name="살카즈 전사"]  하지만 저 녀석들이 나갈 때까지 내 동료가 감시하겠다. 아직 탈룰라의 명령을 어길 수는 없으니까.
 
 [name="萨卡兹战士"]  你们，弩手。出去。
 [name="サルカズ戦士"]  お前たち、行け。
+[name="Sarkaz Warrior"]  You, crossbowmen. Go.
 [name="살카즈 전사"]  거기, 석궁병. 나가라.
 
 [name="幻影弩手"]  梅菲斯特？！
 [name="迷彩狙撃兵"]  メフィスト！？
+[name="Phantom Crossbowman"]  Mephisto?!
 [name="환영 석궁병"]  메피스토?!
 
 [name="幻影弩手"]  （为什么他会救我们......？难道塔露拉还有什么阴谋？）
 [name="迷彩狙撃兵"]  （なぜ俺たちを助けた……？　まさかこれもタルラの陰謀か？）
+[name="Phantom Crossbowman"]  (Why would he save us...? Is this part of Talulah’s plot?)
 [name="환영 석궁병"]  (어째서 우릴 돕는 거지……? 탈룰라가 아직 뭔가를 더 꾸미고 있나?)
 
 [name="萨卡兹战士"]  不过，你为什么特意要到这里来？
 [name="サルカズ戦士"]  しかし、なぜお前がわざわざこんなとこに？
+[name="Sarkaz Warrior"]  But why come here?
 [name="살카즈 전사"]  그런데, 어째서 네가 일부러 여기까지 왔지?
 
 [name="梅菲斯特"]  ......因为我想进去这里。我想知道这里有什么样的秘密。我想知道罗德岛究竟为什么会从这里带走一个人。
 [name="メフィスト"]  ……この中に、どんな秘密が隠されてるのかを知りたい。それと、ロドスがここからある人を連れ出した理由も知りたい。
+[name="Mephisto"]  ...Because I want to go in there. I want to know what secrets there are. I want to know why Rhodes Island would bring someone out of here.
 [name="메피스토"]  여기에 들어가고 싶으니까…… 이곳에 어떤 비밀이 있는지, 로도스 아일랜드가 왜 여기서 한 사람을 데리고 갔는지 궁금했어.
 
 [name="梅菲斯特"]  因为我从录像里看到那个人从这里出来。
 [name="メフィスト"]  録画された映像で、あいつがここから出てくるのを見たから。
+[name="Mephisto"]  Because I saw someone coming out of here on the logs.
 [name="메피스토"]  녹화 영상에서, 그 사람이 여기서 나오는 걸 봤거든.
 
 [name="幻影弩手"]  梅菲斯特......？为什么？
 [name="迷彩狙撃兵"]  メフィスト……？　なぜだ？
+[name="Phantom Crossbowman"]  Mephisto...? Why?
 [name="환영 석궁병"]  메피스토……? 어째서?
 
 [name="梅菲斯特"]  你们，想听歌吗？
 [name="メフィスト"]  君たち、歌を聞きたいかい？
+[name="Mephisto"]  Would you like to hear a song?
 [name="메피스토"]  노래, 듣고 싶지 않아?
 
 [name="幻影弩手"]  可是，浮士德队长他说，他说......
 [name="迷彩狙撃兵"]  歌？　でもファウストがたしか——
+[name="Phantom Crossbowman"]  But, Captain Faust said... He said...
 [name="환영 석궁병"]  하지만, 파우스트 대장이 넌 이제……
 
 [name="梅菲斯特"]  是啊，是的。我已经不会唱了。
 [name="メフィスト"]  ああ、そうだよ。僕はもう歌えないんだ。
+[name="Mephisto"]  Yes, yes. I can’t sing anymore.
 [name="메피스토"]  아, 맞아. 이제 못 부르지.
 
 [name="梅菲斯特"]  嗯，但我可以试试。
 [name="メフィスト"]  でも、試してみてもいいかなって気がしてね。
+[name="Mephisto"]  Oh, but I can try.
 [name="메피스토"]  응, 그래도 시도해볼 순 있잖아?
 
 [name="梅菲斯特"]  应该是首摇篮曲吧？不记得是有谁教过我这首曲子......我不记得了。
 [name="メフィスト"]  子守唄、だったっけ。誰に教わったかはもう忘れちゃったけど……
+[name="Mephisto"]  It ought to be a lullaby, yes? I don’t remember who taught it to me... I’ve forgotten.
 [name="메피스토"]  자장가였나? 누구에게 배웠는지는 까먹었어…… 기억이 안 나네.
 
 [name="梅菲斯特"]  只是有人在我的梦里，一直地哼。
 [name="メフィスト"]  ただ夢の中で、誰かがずっと歌ってた。
+[name="Mephisto"]  It’s just, someone in my dreams was humming it.
 [name="메피스토"]  그냥 누군가 내 꿈속에서, 계속 흥얼거리더라고.
 
 沉睡吧，沉睡吧♪
 眠れ、眠れ♪
+Go to sleep, go to sleep♪
 잘 자라, 잘 자라♪
 
 刺猬玩偶与小熊们......
 ハリネズミのぬいぐるみとクマちゃんたち……
+Hedgehog dolls and little bears...
 고슴도치 인형과 아기 곰들아……
 
 [name="爱国者"]  乌萨斯的，感染者，又要走去哪里？
 [name="パトリオット"]  ウルサスの、感染者たちは、どこに向かう、のだろう？
+[name="Patriot"]  The Ursus, Infected, where will, they go?
 [name="패트리어트"]  우르수스의, 감염자는, 또 어디로 가야 하는가?
 
 [name="爱国者"]  晦暗的夜晚，还会遮蔽......多少明星？
 [name="パトリオット"]  夜の闇は、どれほどの、星の光を……呑み込んで、いくのか？
+[name="Patriot"]  How many stars... does the dark night, hide?
 [name="패트리어트"]  어두운 밤은, 얼마나 많은 별을…… 가리려는가?
 
 [name="盾卫"]  ......大尉，大尉！
 [name="盾兵"]  ……大尉、大尉！
+[name="Shieldguard"]  ...Captain, Captain!
 [name="방패병"]  ……대위님, 대위님!
 
 [name="爱国者"]  最后的命令。
 [name="パトリオット"]  最後の、命令だ。
+[name="Patriot"]  Final order.
 [name="패트리어트"]  마지막 명령이다.
 
 [name="盾卫"]  大尉......
 [name="盾兵"]  大尉……
+[name="Shieldguard"]  Captain...
 [name="방패병"]  대위님……
 
 [name="爱国者"]  战斗下去。活下去。
 [name="パトリオット"]  戦え。生きて、歩き続けろ。
+[name="Patriot"]  Fight on. Live on.
 [name="패트리어트"]  계속 싸워라. 살아남아라.
 
 [name="爱国者"]  你们的路，只有你们......自己去走。
 [name="パトリオット"]  お前たちの、道は、お前たち自身で……創れ。
+[name="Patriot"]  Only you, walk... your own path.
 [name="패트리어트"]  너희의 길은, 오직…… 너희만이, 개척할 수 있다.
 
 [name="爱国者"]  走了，才有路。
 [name="パトリオット"]  歩くことで、しか、道はできない。
+[name="Patriot"]  To have a path, you must walk.
 [name="패트리어트"]  나아가지 않으면, 길은 생기지 않아.
 
 [name="爱国者"]  我必定要死。只是不知道，是否该是现在。
 [name="パトリオット"]  私は、死ぬ運命だ。それが、今であるべきかは、判らないが。
+[name="Patriot"]  I will die. But I do not know, if I should die, now.
 [name="패트리어트"]  난 분명 죽는다. 그게 지금 당장일지는, 모르겠지만.
 
 [name="爱国者"]  我们的死，究竟能，改变什么？
 [name="パトリオット"]  私の死が、一体何を、変えられる、のか？
+[name="Patriot"]  What is it, my death, can change?
 [name="패트리어트"]  나의 죽음으로, 대체 무엇을, 바꿀 수 있는가?
 
 [name="爱国者"]  也许这个问题，你们，才能回答。
 [name="パトリオット"]  その答えは、お前たちに、しか、解らないかも、しれない。
+[name="Patriot"]  Maybe you, can tell me, the answer.
 [name="패트리어트"]  아마 이 문제는, 너희만이, 답할 수 있겠지.
 
 沉进静静的黑色......
 静かな闇に呑まれてゆく……
+Sink into the still dark...
 고요한 어둠 속으로 가라앉네……
 
 哥哥，姐姐，妹妹，弟弟，梦乡啊梦乡，盖住了他们的身体......♪
 お兄ちゃん、お姉ちゃん、妹、弟、夢よ夢よ、みんなを包む……♪
+Brothers, sisters, young, and old. Dreams, oh dreams, envelop their bodies...♪
 형제도, 자매도, 꿈의 세계에, 가려지네……♪
 
 [name="星熊"]  “小姐”？怎么在这哭唧唧的......
 [name="ホシグマ"]  お嬢様……こんなところでめそめそしていて大丈夫ですか？
+[name="Hoshiguma"]  Missy? What are you bawling about...?
 [name="호시구마"]  '아가씨'? 왜 여기서 울고 있어……
 
 [name="诗怀雅"]  谁哭了！
 [name="スワイヤー"]  誰がめそめそしてるってのよ！
+[name="Swire"]  I’m not bawling!
 [name="스와이어"]  울긴 누가!
 
 [name="星熊"]  好，好。不过，这可是近卫局大楼门口啊。
 [name="ホシグマ"]  はいはい。でもここは近衛局ビルの前ですよ。
+[name="Hoshiguma"]  Fine, fine. But you’re right in front of the door to L.G.D. Headquarters.
 [name="호시구마"]  아, 알았어. 그래도, 여긴 근위국 정문이라고.
 
 [name="星熊"]  让别人看到你哭，真就好吗？
 [name="ホシグマ"]  みんなに見られても大丈夫なんですかね？
+[name="Hoshiguma"]  Probably don’t want other people seeing you cry, huh?
 [name="호시구마"]  우는 모습을 다른 사람이 봐도 정말 괜찮겠어?
 
 [name="诗怀雅"]  反正......反正也没有别人！
 [name="スワイヤー"]  どうせ……どうせ誰もいないわよ！
+[name="Swire"]  N... Nobody’s here anyway!
 [name="스와이어"]  어차피…… 어차피 여기 아무도 없는데 뭐!
 
 [name="星熊"]  这样好了，我坐你前面的台阶上吧。
 [name="ホシグマ"]  こうしましょう。小官が前の階段に座ります。
+[name="Hoshiguma"]  How about this? I’ll sit on the steps in front of you.
 [name="호시구마"]  그럼 이렇게 하지, 네가 앉은 계단 앞에 내가 앉으면,
 
 [name="星熊"]  我个子大，挡住你，就没人看得见了。
 [name="ホシグマ"]  小官の身体は大きいので、あなたをうまく隠せます。
+[name="Hoshiguma"]  I’m big enough. Nobody’ll see you cry if I’m in the way.
 [name="호시구마"]  내 덩치가 커서 네가 가려질 테니, 아무도 널 보지 못할 거야.
 
 [name="诗怀雅"]  你在做什么啊......
 [name="スワイヤー"]  何やってるのよ……
+[name="Swire"]  What are you doing...?
 [name="스와이어"]  뭐하는 거야……
 
 [name="星熊"]  啊。就是因为没做好，才觉得不太爽吧？
 [name="ホシグマ"]  そうですね……何もできなかったから、気持ちがすっきりしないんでしょうね。
+[name="Hoshiguma"]  Oh. Well, we screwed up, so we feel lousy, right?
 [name="호시구마"]  혹시 일을 망쳐서 속상한 거야?
 
 [name="星熊"]  Missy，我们两个算是都失败了吧。
 [name="ホシグマ"]  お嬢様、私たちは二人とも、失敗したんでしょうね。
+[name="Hoshiguma"]  I mean both of us, Missy. We both blew it, didn’t we?
 [name="호시구마"]  아가씨, 우리 둘 다 실패했는걸, 뭐.
 
 [name="诗怀雅"]  我才不管......不管她去哪！
 [name="スワイヤー"]  あいつが……あいつがどこに行こうが知ったことじゃないわ！
+[name="Swire"]  What do I care...? I don’t care where she went!
 [name="스와이어"]  나는…… 그 녀석이 어디로 가든 말든 상관없거든!
 
 [name="星熊"]  嗯，是。我知道啊。
 [name="ホシグマ"]  そうですね。わかってますよ、あなたが——
+[name="Hoshiguma"]  Um, right. I know.
 [name="호시구마"]  그래, 그러시겠지.
 
 [name="诗怀雅"]  ......
 [name="スワイヤー"]  ————！
+[name="Swire"]  ......
 [name="스와이어"]  ……
 
 [name="星熊"]  唉，不要打我。是不是我无论怎么回答都会被打啊。
 [name="ホシグマ"]  おっと、殴らないでくださいよ。まぁ、何を言おうが結局殴られるのかもしれませんが。
+[name="Hoshiguma"]  Hey, no hitting. You’re going to hit me no matter what I say, huh?
 [name="호시구마"]  아야, 때리지 마! 어떻게 대답했어도 때리려고 했었지!?
 
 [name="爱国者"]  终于......
 [name="パトリオット"]  ようやく……
+[name="Patriot"]  Finally...
 [name="패트리어트"]  드디어……
 
 [name="爱国者"]  我......这一生......得以结束。
 [name="パトリオット"]  私の人生が……終わる。
+[name="Patriot"]  My... life... can end.
 [name="패트리어트"]  나의…… 생에도…… 끝이 오는군.
 
 [name="爱国者"]  海伦......格罗瓦兹尔......叶莲娜......
 [name="パトリオット"]  ヘレン……グロワズル……エレーナ……
+[name="Patriot"]  Helen... Grrovae'zeeal... Yelena...
 [name="패트리어트"]  헬렌…… 그로페지일…… 옐레나……
 
 [name="爱国者"]  是你们......
 [name="パトリオット"]  ようやく……
+[name="Patriot"]  It’s you...
 [name="패트리어트"]  모두들……
 
 [name="爱国者"]  我终于......能够回家......
 [name="パトリオット"]  君たちの……ところに……
+[name="Patriot"]  I’m finally... going home...
 [name="패트리어트"]  겨우…… 집으로 돌아갈 수 있겠구나……
 
 不。
 違う。
+No.
 아니.
 
 ——不。
 ――違う。
+—No.
 ……아니다.
 
 [name="爱国者"]  ——
 [name="パトリオット"]  ————
+[name="Patriot"]  ......
 [name="패트리어트"]  ……
 
 [name="爱国者"]  不。
 [name="パトリオット"]  違う。
+[name="Patriot"]  No.
 [name="패트리어트"]  아니.
 
 [name="爱国者"]  幻觉。
 [name="パトリオット"]  これは、幻だ。
+[name="Patriot"]  Hallucination.
 [name="패트리어트"]  환각이다.
 
 [name="爱国者"]  怎么会......我，不要幻觉，不要慰藉！
 [name="パトリオット"]  何故……幻覚など、慰めなど、不要だ！
+[name="Patriot"]  How... I, don’t need visions, don’t need, consolation!
 [name="패트리어트"]  이럴 수가…… 난, 환각이나 위로 따위는 바라지 않아!
 
 [name="爱国者"]  是谁......
 [name="パトリオット"]  誰だ……？
+[name="Patriot"]  Who...?
 [name="패트리어트"]  누구냐……
 
 [name="爱国者"]  是谁引我看到......幻觉！
 [name="パトリオット"]  誰が私に、幻を……見せている？
+[name="Patriot"]  Who shows me... hallucinations?!
 [name="패트리어트"]  누가 내게…… 환각을 보게 했나!
 
 [name="阿米娅"]  啊......为什么......为什么爱国者先生会......挣脱？
 [name="アーミヤ"]  えっ……拒絶された？　どうして……？
+[name="Amiya"]  Oh... How...? How did Mr. Patriot... break free?
 [name="아미야"]  아…… 어째서…… 어째서 패트리어트 씨는…… 벗어난 거지?
 
 [name="爱国者"]  原来，如此。
 [name="パトリオット"]  なる、ほど。
+[name="Patriot"]  Now, I see.
 [name="패트리어트"]  과연, 그랬군.
 
 [name="爱国者"]  ——是你。卡特斯。是你。
 [name="パトリオット"]  ――君か。コータスの娘。
+[name="Patriot"]  —You. Cautus. It’s you.
 [name="패트리어트"]  너였나. 카우투스…… 너였어.
 
 [name="爱国者"]  原来，你就是......继承者。
 [name="パトリオット"]  君が……継承者、だったのか。
+[name="Patriot"]  You, are her... successor.
 [name="패트리어트"]  그래, 네가 바로…… 계승자였어.
 
 [name="爱国者"]  特雷西斯，说谎。殿下她......有继承人。
 [name="パトリオット"]  テレシスは、嘘をついた。殿下には……後継者が、いた。
+[name="Patriot"]  Theresis, lied. The King... had a... successor.
 [name="패트리어트"]  테레시스, 거짓말을 했군. 전하께는…… 계승자가 있었던 거다.
 
 [name="爱国者"]  你是魔王。
 [name="パトリオット"]  お前が、魔王だ。
+[name="Patriot"]  You are... the Lord of Fiends.
 [name="패트리어트"]  네가 마왕이었구나.
 
 [name="凯尔希"]  啊......！
 [name="ケルシー"]  え……？
+[name="Kal'tsit"]  Ah...!
 [name="켈시"]  아……!
 
 [name="爱国者"]  我死在......魔王的手上。
 [name="パトリオット"]  私は……魔王の手によって、死ぬ。
+[name="Patriot"]  To die, at the hands, of... the King of Sarkaz.
 [name="패트리어트"]  나는…… 마왕의 손에 죽는다.
 
 [name="爱国者"]  我......怎么会？
 [name="パトリオット"]  そんな……
+[name="Patriot"]  I... how?
 [name="패트리어트"]  내가…… 어째서?
 
 [name="爱国者"]  我终归，没逃过命运。
 [name="パトリオット"]  やはり、運命には、逆らえない、のか。
+[name="Patriot"]  In the end, I could not, escape fate.
 [name="패트리어트"]  나는 결국, 운명을 벗어나지, 못한단 말인가.
 
 [name="爱国者"]  不。不......
 [name="パトリオット"]  いや……
+[name="Patriot"]  No. No...
 [name="패트리어트"]  아니, 아니다……
 
 [name="爱国者"]  不。
 [name="パトリオット"]  認めない。
+[name="Patriot"]  No.
 [name="패트리어트"]  아니야.
 
 [name="凯尔希"]  阿米娅？！你不可以......？！
 [name="ケルシー"]  アーミヤ！？　ダメだ……！
+[name="Kal'tsit"]  Amiya?! You can’t...?!
 [name="켈시"]  아미야?! 안 돼……?!
 
 [name="阿米娅"]  对，对不起！但，但凯尔希医生......
 [name="アーミヤ"]  ご、ごめんなさい！　で、でも先生……
+[name="Amiya"]  S-Sorry! B-But Dr. Kal'tsit...
 [name="아미야"]  죄, 죄송해요! 하, 하지만 켈시 선생님……
 
 [name="爱国者"]  我听说，过去，萨卡兹的君主，将愿景与抚慰，作为赏赐。
 [name="パトリオット"]  聞いたことが、ある。かつて、サルカズの君主は、部下に対する、褒美として、望み通りの、光景を、幻として見せた、という。
+[name="Patriot"]  I heard, in the past, Lords of Sarkaz, gave visions of comfort, as favors.
 [name="패트리어트"]  과거에, 살카즈의 군주는, 희망과 위로를, 상으로 하사했다고 한다.
 
 [name="爱国者"]  他们的功臣，能见宏伟高墙，或是已逝挚爱——
 [name="パトリオット"]  彼らは、幻の中で、壮大な宮殿に、住まい、既に亡き、愛する者と会える……
+[name="Patriot"]  Their champions, could see great walls, or loves long passed—
 [name="패트리어트"]  그들의 공신들은, 우뚝 솟은 벽이나, 지나간 사랑을, 볼 수 있었지……
 
 [name="爱国者"]  无数战士，为此幻境，奋战不息。
 [name="パトリオット"]  数多の。戦士たちが、この一時の幻の、ため、奮戦していた。
+[name="Patriot"]  Countless soldiers, for these visions, fought ceaselessly.
 [name="패트리어트"]  무수히 많은 전사들이, 이 환상을 위해, 쉼 없이 싸웠다고 하더군.
 
 [name="阿米娅"]  我只是，我只是......爱国者先生，我不想......不想......
 [name="アーミヤ"]  私はただ……パトリオットさん、ただあなたの——
+[name="Amiya"]  I just, I only... Mr. Patriot, I didn’t mean to... I didn’t want...
 [name="아미야"]  저는, 저는 그저…… 패트리어트 씨, 저는…… 그저……
 
 [name="阿米娅"]  ......你生命的最后......明明不该这样凄惨！
 [name="アーミヤ"]  あなたの最期が……こんな悲惨なものであるべきじゃないって！
+[name="Amiya"]  ...The end of your life... it shouldn’t be so tragic!
 [name="아미야"]  ……당신의 마지막이….. 이렇게 처참해선 안 된다고 생각했어요!
 
 [name="阿米娅"]  我看到......我看到了，我看到你两百多年......
 [name="アーミヤ"]  私は見たんです……あなたが、200年以上も……
+[name="Amiya"]  I saw it... I saw your two hundred years of life...
 [name="아미야"]  저는 봤어요…… 모두 보였어요…… 당신이 200년 동안이나……
 
 [name="阿米娅"]  不断地战斗......不断地战斗，失去，失去......失去了一切......
 [name="アーミヤ"]  戦って……戦い続けて、失って……全てを失って……
+[name="Amiya"]  The constant fighting... and so much loss... you lost everything...
 [name="아미야"]  계속해서 싸우고…… 또 싸우고, 잃고, 또 잃고…… 잃어가는 모습을……
 
 [name="阿米娅"]  我不想......我不想这就是你的......结局！
 [name="アーミヤ"]  こんな最期を……あなたに……迎えてほしくないんです！
+[name="Amiya"]  I don’t... I don’t want that... to be your end!
 [name="아미야"]  저는…… 이런 당신의 결말이…… 이런 식으로 끝나지 않았으면 해요!
 
 [name="爱国者"]  我的，结局？
 [name="パトリオット"]  こんな、最期？
+[name="Patriot"]  My, end?
 [name="패트리어트"]  나의, 결말?
 
 [name="爱国者"]  ......不。
 [name="パトリオット"]  ……違う。
+[name="Patriot"]  ...No
 [name="패트리어트"]  ……아니.
 
 [name="阿米娅"]  我本想让你有个......更好的......
 [name="アーミヤ"]  あなたには……もっと安らかな——
+[name="Amiya"]  I wanted to give you... a better...
 [name="아미야"]  저는 그저 당신에게…… 조금이나마…… 더 나은…….
 
 [name="爱国者"]  不！
 [name="パトリオット"]  違う！
+[name="Patriot"]  No!
 [name="패트리어트"]  그만!
 
 [name="爱国者"]  我的结局，怎么能由，别人给予！
 [name="パトリオット"]  私の結末は、他人に、与えられるべき、ものではない！
+[name="Patriot"]  My end, is not, someone else’s, to give!
 [name="패트리어트"]  나의 결말을, 다른 누가 감히 내게, 부여할 수 있는가!
 
 [name="爱国者"]  幻觉？不！那不是结局！
 [name="パトリオット"]  安らかな、だと？　否！　そんなものは、最期では、ない！
+[name="Patriot"]  A vision? No! That is not my end!
 [name="패트리어트"]  환각? 아니! 그건 결말 따위가 아니다!
 
 [name="爱国者"]  如果悲惨，那就悲惨。如果愚蠢，那就愚蠢！
 [name="パトリオット"]  悲惨ならば、悲惨でいい。愚かという、ならば、愚かでいい！
+[name="Patriot"]  If it is tragic, then it is tragic. If foolish, then foolish!
 [name="패트리어트"]  비참하다면, 비참한 것으로 좋다. 어리석다면, 어리석은 것으로 좋다!
 
 [name="爱国者"]  这是，我的结局。是我......应得结局。
 [name="パトリオット"]  それが、私の結末だ。私に……相応しい、結末だ。
+[name="Patriot"]  This is, my end. The end... I deserve.
 [name="패트리어트"]  이건, 내 결말이다. 내가…… 받아 마땅한 결말.
 
 [name="爱国者"]  我活过，反抗过，失败过。
 [name="パトリオット"]  私は、生きて、抗って、敗れた。
+[name="Patriot"]  I lived. I fought. I failed.
 [name="패트리어트"]  내가 살아오고, 발버둥 치고, 실패해온 결과다.
 
 [name="爱国者"]  已经，够了。
 [name="パトリオット"]  それで、いいのだ。
+[name="Patriot"]  It’s, enough.
 [name="패트리어트"]  이제, 충분해.
 
 [name="阿米娅"]  为什么，为什么......为什么就够了？
 [name="アーミヤ"]  どうして、どうして……どうしてそれでいいなんてことが？
+[name="Amiya"]  Why? Why...? Why is it enough?
 [name="아미야"]  어째서, 어째서…… 어째서 충분하다고 생각하는 거예요?
 
 [name="阿米娅"]  没有人该这样失去一切！
 [name="アーミヤ"]  誰だろうと、そんなふうに全てを失うべきじゃないんです！
+[name="Amiya"]  No one should have to lose everything like this!
 [name="아미야"]  누구도 이렇게 모든 걸 잃어서는 안 돼요!
 
 [name="爱国者"]  ......你还是个，小孩子。
 [name="パトリオット"]  ……お前は、まだ子供だ。
+[name="Patriot"]  ...You are still, a child.
 [name="패트리어트"]  넌 아직…… 어리구나.
 
 [name="阿米娅"]  我不是什么孩子！我已经战斗了无数次！
 [name="アーミヤ"]  子供じゃありません！　私はもうたくさん戦ってきました！
+[name="Amiya"]  I’m not a child! I’ve been in more battles than I can count!
 [name="아미야"]  전 어린애가 아니에요! 저도 무수히 많은 전투를 겪어 왔어요!
 
 [name="爱国者"]  ......好结局，从不理所应当。孩子，才相信童谣。
 [name="パトリオット"]  ……幸福な結末は、必然では、ない。御伽話を、信じるのは、子供だけだ。
+[name="Patriot"]  ...A good ending, is never earned. Only children, believe in, happily ever after.
 [name="패트리어트"]  좋은 결말은…… 원한다고 얻어지는 것이, 아니다. 아이들만이, 동화를 믿지.
 
 [name="爱国者"]  你和我的女儿，都只是，相信童谣的孩子。
 [name="パトリオット"]  お前も、私の娘と同じ、御伽話を信じ続ける、子供だ。
+[name="Patriot"]  You, and my daughter, are only children, who believe in, fairy tales.
 [name="패트리어트"]  너도 내 딸도, 아직 동화를 믿는, 아이일 뿐이다.
 
 [name="爱国者"]  我说霜星那些，太重了......太重了。
 [name="パトリオット"]  私が娘に、言い聞かせた、言葉は……彼女には、重過ぎた。
+[name="Patriot"]  I told FrostNova, too heavy... too heavy.
 [name="패트리어트"]  프로스트노바에 대해 말하기엔, 그 짐이 너무도…… 무겁구나.
 
 [name="爱国者"]  我不同意，她的观点。她只是......年幼的孩子。只是，年幼的孩子。
 [name="パトリオット"]  彼女の考えを、認めなかった。彼女は、まだ幼い、子供だった……ただの、幼い、子供だったのに。
+[name="Patriot"]  I disagreed, with her. She was... a young girl. Only a child.
 [name="패트리어트"]  난 그녀의 생각에, 동의하지 않는다. 그녀는 아직…… 어린아이다. 아직, 어린아이일 뿐이다.
 
 [name="爱国者"]  矿石病，奴隶主，这片大地......竟容不得，一个孩子。
 [name="パトリオット"]  鉱石病、奴隷主、この大地——それらから、たった一人の、幼い子供すら、救えなかった、とは。
+[name="Patriot"]  Oripathy, slavers, our world... won’t even spare, a child.
 [name="패트리어트"]  광석병은, 노예의 주인은, 이 땅은…… 아이 하나도, 용납하지 않는구나.
 
 [name="爱国者"]  塔露拉送她，去死。
 [name="パトリオット"]  タルラが……彼女を、死なせた。
+[name="Patriot"]  Talulah, sent her, to die.
 [name="패트리어트"]  탈룰라는, 그녀를 죽음으로, 내몰았다.
 
 [name="阿米娅"]  那为什么我们不能一同去对抗塔露拉——
 [name="アーミヤ"]  だったら、どうして私たちと一緒にタルラを――
+[name="Amiya"]  Then why not join us and fight Talulah tog—
 [name="아미야"]  그렇다면 왜 우리와 함께 탈룰라에게 맞서지 않나요……
 
 [name="爱国者"]  你能，带给我什么？
 [name="パトリオット"]  お前は私に、何をもたらして、くれる？
+[name="Patriot"]  What can you, give me?
 [name="패트리어트"]  너는 내게, 무엇을 가져다줄 수 있나?
 
 [name="爱国者"]  塔露拉，曾经带给我的，你甚至还，做不到。
 [name="パトリオット"]  かつて、タルラが、私に、もたらしたもの……お前には、まだそれすらも、与えられは、しないだろう。
+[name="Patriot"]  You cannot, even give, what Talulah, once gave me.
 [name="패트리어트"]  탈룰라가 내게 준 것을, 너는 아직, 내게 줄 수 없다.
 
 [name="爱国者"]  之后，你又会，变成什么样子？
 [name="パトリオット"]  これから、お前は、どうなっていくと、いうのだ？
+[name="Patriot"]  Later, what will you, become?
 [name="패트리어트"]  이후에 너는 또, 어떻게 변하게 될까?
 
 [name="爱国者"]  这就是命运。我尝到，太多滋味。
 [name="パトリオット"]  これが運命だ。散々、味わってきた。
+[name="Patriot"]  This is fate. I tasted, too much.
 [name="패트리어트"]  이것이 운명이다. 난 이미 충분히, 맛보았지.
 
 [name="爱国者"]  我决不向命运，低头。
 [name="パトリオット"]  運命に、膝を屈する、つもりは、ない。
+[name="Patriot"]  I will never, bow to fate.
 [name="패트리어트"]  난 절대로, 운명에, 굴복하지 않는다.
 
 [name="爱国者"]  即使命运，每次都赐我，相同结局......
 [name="パトリオット"]  たとえそれが、いつも、同じ結末を、もたらすと、しても……
+[name="Patriot"]  Even if, every time, fate brings me, to the same... end...
 [name="패트리어트"]  비록 운명이, 내게 매번 똑같은, 결말을 부여한다 해도……
 
 [name="爱国者"]  我也宁可，每日与它缠斗，直至太阳，再次升起。
 [name="パトリオット"]  私はそれと、日夜戦って、きた。次の朝日が、昇るまで。何度も、何度も……
+[name="Patriot"]  I would rather, wrestle it, until again, the sun rises.
 [name="패트리어트"]  나는 기꺼이, 태양이 다시 떠오를 때까지, 운명에 맞서겠다.
 
 [name="爱国者"]  但是......你也许能改变。
 [name="パトリオット"]  だが、お前には、それを、変えられるかも、しれない。
+[name="Patriot"]  But... Maybe, you can change.
 [name="패트리어트"]  하지만…… 너라면, 바꿀 수 있을지도 모르지.
 
 [name="爱国者"]  我与命运抗争，无数年......终归，还是，没能胜过。
 [name="パトリオット"]  私は、長い歳月、運命に、抗ってきて……ついに、勝てなかった。
+[name="Patriot"]  I fought fate, so many years... in the end, I could not win.
 [name="패트리어트"]  나는 기나긴 시간 동안, 운명과 싸워왔지만…… 결국, 이기지 못했다.
 
 [name="爱国者"]  但你......你也许，不同......
 [name="パトリオット"]  しかし……お前は、違うかも、しれない……
+[name="Patriot"]  But you... Maybe you’re, different...
 [name="패트리어트"]  하지만 너라면…… 너라면, 다를지도……
 
 [name="爱国者"]  你真有资格，继承那位殿下？
 [name="パトリオット"]  お前は、本当に、殿下の、後継者となる、資格がある、のか？
+[name="Patriot"]  Do you have, what it takes, to succeed the King?
 [name="패트리어트"]  너는 정말, 그분을 계승할, 자격이 있는가?
 
 [name="阿米娅"]  啊......
 [name="アーミヤ"]  え……？
+[name="Amiya"]  Oh...
 [name="아미야"]  아……
 
 [name="爱国者"]  你真有能力，活着离开这里？
 [name="パトリオット"]  お前は、本当に、この局面を、切り抜けることが、できるのか？
+[name="Patriot"]  Do you have, the power, to leave, alive?
 [name="패트리어트"]  살아서 이곳을 벗어날 능력이, 네게는 있는가?
 
 [name="阿米娅"]  ......
 [name="アーミヤ"]  …………
+[name="Amiya"]  ......
 [name="아미야"]  ……
 
 [name="爱国者"]  你真有胆识，踏进无边荒原？
 [name="パトリオット"]  お前は、本当に、果てなき荒野に踏み入る、覚悟がある、のか？
+[name="Patriot"]  Do you have, the courage, and insight, to step into, the infinite, wilderness?
 [name="패트리어트"]  끝없는 황야에 들어갈 배짱이, 네게는 있는가?
 
 [name="阿米娅"]  我一个人是不可能的。
 [name="アーミヤ"]  ……私だけでは無理です。
+[name="Amiya"]  I can’t do it alone.
 [name="아미야"]  저 혼자서는 불가능하겠죠.
 
 [name="阿米娅"]  但是我不是一个人。
 [name="アーミヤ"]  でも私は、一人ではありませんから。
+[name="Amiya"]  But I’m not alone.
 [name="아미야"]  하지만, 전 혼자가 아닙니다.
 
 [name="爱国者"]  也许......
 [name="パトリオット"]  もしかしたら……
+[name="Patriot"]  Maybe...
 [name="패트리어트"]  어쩌면……
 
 [name="爱国者"]  这一切......都属于你们。只有你们......去做。
 [name="パトリオット"]  全ては……お前たちが、変えるのかも、しれない。お前たちに、しか……できない、ことなのかも……
+[name="Patriot"]  Everything... is yours. Only you... can do it.
 [name="패트리어트"]  이 모든 게…… 너희의 몫일지도. 너희만이…… 이룰 수 있을지도.
 
 [name="爱国者"]  那个......整合运动的，暴君，命运......你们自己......去推翻。
 [name="パトリオット"]  あの……レユニオンの、暴君を、運命を……お前たちが……覆せ。
+[name="Patriot"]  That... Reunion, tyrant, fate... You will... overthrow them.
 [name="패트리어트"]  그…… 리유니온의, 폭군, 운명을…… 너희 스스로…… 뒤집어라.
 
 等等。
 待て。
+Wait.
 기다려.
 
 不对。
 いや、これは……
+No.
 아니야.
 
 凯尔希抬眼望向阴沉的天空。
 ケルシーは暗い空を見上げる。
+Kal'tsit looks up at the darkened sky.
 켈시가 어두침침한 하늘을 올려다보았다.
 
 我在哪里见过这些？
 この光景……どこかで見たことが？
+Where have I seen this before?
 이 장면을…… 어디선가 본 적이 있던가?
 
 难道说......
 まさか……
+It couldn’t be...
 설마……
 
 [name="凯尔希"]  阿米娅......阿米娅......？
 [name="ケルシー"]  アーミヤ……アーミヤ……？
+[name="Kal'tsit"]  Amiya... Amiya...?
 [name="켈시"]  아미야…… 아미야……?
 
 [name="凯尔希"]  萨卡兹的预言来自种群记忆的全面融合。源石多生区域发生的源石能量爆发......核心城恰好遭遇了天灾。
 [name="ケルシー"]  サルカズの預言は、種族全ての記憶が融合したものだ。源石の多発地帯で起こったオリジニウムバースト……その直後、狙いすましたかのようなタイミングで、チェルノボーグを襲った天災……
+[name="Kal'tsit"]  The Sarkaz prophecy is born out of their collective racial memory. Originium energy bursts popping in areas with high concentrations... the core city is suffering a Catastrophe.
 [name="켈시"]  살카즈의 예언은 종족 전체의 기억이 융합되어 만들어진다. 오리지늄 다발 구역에 발생한 오리지늄 에너지의 폭발…… 때마침 재앙을 마주한 코어.
 
 [name="凯尔希"]  祭坛......阿米娅......温迪戈......魔王？！
 [name="ケルシー"]  祭壇……アーミヤ……ウェンディゴ……魔王！？
+[name="Kal'tsit"]  The altar... Amiya... Wendigo... The Lord of Fiends?!
 [name="켈시"]  제단…… 아미야…… 웬디고…… 마왕?!
 
 [name="凯尔希"]  等等，如果这能直接影响到......不可能！古老的温迪戈最后的血脉直接贯通了萨卡兹的整支族群吗？！
 [name="ケルシー"]  待て……もしこれが直接の影響だとするなら……有り得ない！　古のウェンディゴの最後の血脈が、サルカズの全支族の魂を繋いだとでもいうのか！？
+[name="Kal'tsit"]  Wait, if this has a direct affect... Impossible! The last of the ancient Wendigo bloodline is directly connected to the entire Sarkaz race?!
 [name="켈시"]  잠깐, 만약 이게 직접적인 영향을 준다면…… 말도 안 돼! 옛 웬디고의 마지막 핏줄이 살카즈의 모든 일족을 연결했단 말인가?!
 
 [name="凯尔希"]  这个预言......这个预言？！
 [name="ケルシー"]  あの預言……あの預言か！？
+[name="Kal'tsit"]  The prophecy... this prophecy?!
 [name="켈시"]  이 예언은…… 이 예언은?!
 
 [name="凯尔希"]  雪？“食人”的博卓卡斯替和所有祭坛发生了共鸣？！还有我刚才施加的......温迪戈的回魂......！
 [name="ケルシー"]  雪？　ボジョカスティと全ての祭壇の「人喰い」が共鳴した！？　それに加えて、さっき私がボジョカスティに施した、ウェンディゴの回魂儀式が補完作用を……しまった！
+[name="Kal'tsit"]  Snow? Buldrokkas'tee’s cannibalization resonated with all the altars?! And what I just added... the Wendigos’ ressurection...!
 [name="켈시"]  눈? '식인'의 불드록카스티와 모든 제단이 공명했다?! 그리고 방금 내가 한…… 웬디고의 의식도……!
 
 [name="凯尔希"]  各位干员！！
 [name="ケルシー"]  全オペレーターに告ぐ！！
+[name="Kal'tsit"]  All operators!
 [name="켈시"]  모든 오퍼레이터에게 알린다!!
 
 [name="凯尔希"]  无论他说什么......无论博卓卡斯替说了些什么！
 [name="ケルシー"]  奴が何を言おうと……ボジョカスティの口が何を発したとしても！
+[name="Kal'tsit"]  Anything he says... Anything Buldrokkas'tee says...!
 [name="켈시"]  그가 무슨 말을 하든…… 불드록카스티가 무슨 말을 하든!
 
 [name="凯尔希"]  【一个字也不要信！】
 [name="ケルシー"]  【一言たりとも信じるな！】
+[name="Kal'tsit"]  Do not believe a single word!
 [name="켈시"]  단 한 글자도 믿지 마라!!!!!!
 
 温迪戈忽然开口，沙哑的声音似乎传遍了整个中央区。
 ウェンディゴの口が唐突に開いた。かすれた声が、中枢区画全体に響き渡っていく。
+The Wendigo suddenly speaks, his hoarse voice seemingly echoing throughout the entire central district.
 웬디고는 홀연히 입을 열었고, 쉰 목소리가 중앙 구역 전체에 울려 퍼지는 듯했다.
 
 我见诸城，满目疮痍。
 我は見た　破壊し尽くされし数多の都市を
+I see cities, devastated.
 만신창이가 된, 성이 보인다.
 
 我见源石，遍布大地。
 我は見た　大地を埋め尽くさんとする源石の群れを
+I see Originium, blanketing the land.
 대지에 만연한, 원석이 보인다.
 
 我见你，头顶黑冠，将千万生灵，熬成回忆。
 我は見た　黒き冠を戴き、千万の魂を記憶と化す汝の姿を
+I see you, black crown on your head, melting millions of lives, into nothing but memories.
 검은 왕관을 쓴, 천만의 백성을 추억으로 만드는, 네가 보인다.
 
 我见魔王，将所有种群，尽数奴役。
 汝こそ魔王——この大地の遍く総てを隷属させる者なり
+I see the, King of Sarkaz, enslaving all peoples, everywhere.
 모든 종족을 노예로 부리는, 마왕이 보인다.
 
 [name="盾卫"]  啊......？！
 [name="盾兵"]  な……！？
+[name="Shieldguard"]  Huh...?!
 [name="방패병"]  뭐……?!
 
 [name="爱国者"]  ......什......么？
 [name="パトリオット"]  ……なん……だ？
+[name="Patriot"]  ...Wh... at?
 [name="패트리어트"]  ……뭐……지?
 
 [name="爱国者"]  不可能......不......
 [name="パトリオット"]  ありえない……いや……
+[name="Patriot"]  Impossible... No...
 [name="패트리어트"]  말도 안 돼…… 말도……
 
 [name="凯尔希"]  爱国者！预言是不可信的！那只是源石技艺的生理性残留！
 [name="ケルシー"]  ボジョカスティ！　耳を貸すな！　そいつはオリジニウムアーツの生理性残留物でしかない！
+[name="Kal'tsit"]  Patriot! Don’t believe the prophecy! It’s just a physiological side effect of the Originium Arts!
 [name="켈시"]  패트리어트! 예언은 엉터리다! 그건 오리지늄 아츠에 의한 생리적 잔류물에 불과해!
 
 [name="爱国者"]  但......但我知晓......所有预言......全都实现。
 [name="パトリオット"]  だ……だが私は、知っている……全ての預言は……現実となる。
+[name="Patriot"]  But... But I know... all the prophecies... come true.
 [name="패트리어트"]  하지만…… 하지만 나는…… 예언이 모두…… 실현될 것을…… 알아버렸다.
 
 [name="爱国者"]  我也正死在，魔王之手。
 [name="パトリオット"]  私も、死にゆく……魔王の手に、よって。
+[name="Patriot"]  And I died, at the hands of, the King of Sarkaz.
 [name="패트리어트"]  나 또한 지금, 마왕의 손에, 죽어가지 않는가.
 
 [name="爱国者"]  ......勋爵。不。勋爵。
 [name="パトリオット"]  士爵……ケルシー士爵よ。
+[name="Patriot"]  ...Dame. No. Dame.
 [name="패트리어트"]  ……켈시, 아니, 훈작.
 
 [name="凯尔希"]  博卓卡斯替！！你不是用一生反抗了命运吗！
 [name="ケルシー"]  ボジョカスティ！！　君は一生をかけて運命に抗って来たんじゃないのか！
+[name="Kal'tsit"]  Buldrokkas'tee! Did you not fight against fate your entire life?!
 [name="켈시"]  불드록카스티!! 네 일생 전부를 운명에 맞서기 위해 걸어오지 않았더냐?!
 
 [name="爱国者"]  年幼的，魔王......
 [name="パトリオット"]  幼き、魔王よ……
+[name="Patriot"]  The young, King of Sarkaz…
 [name="패트리어트"]  어린, 마왕이여……
 
 [name="爱国者"]  ......你，你......
 [name="パトリオット"]  ……お、お前は——
+[name="Patriot"]  ...You, you...
 [name="패트리어트"]  ……너는, 너는……
 
 会是大地上最可怖的灾难。
 この大地で最も恐ろしき厄災かもしれない。
+Will be the most horrific disaster to afflict our world.
 이 땅에서 가장 무서운 재앙일지도 모른다.
 
 她必须死！
 彼女は死ななければならない！
+She must die!
 그녀는 죽어야 한다!
 
 否则，这片大地就会死去！
 さもなくば、この大地が死に逝くだろう——
+Or else, the world will die!
 그렇지 않으면, 이 세상이 죽을 것이다!
 
 [name="爱国者"]  不能让你，活在世上。
 [name="パトリオット"]  お前を、生かしては、おけない。
+[name="Patriot"]  I cannot, let you live.
 [name="패트리어트"]  너를 살려둘, 수는 없다.
 
 [name="爱国者"]  你大可恨我。
 [name="パトリオット"]  私を恨むが、いい。
+[name="Patriot"]  You can hate me.
 [name="패트리어트"]  날 원망해도 좋다.
 
 铠甲的碰撞声传入你的耳中。
 鎧の歪んだパーツ同士が擦れ合う、不快な音が響く。
+The sound of clanking armor reaches your ears.
 갑옷이 부딪히는 소리가 당신의 귀에 울렸다.
 
 已经浑身碎裂的怪物，突然向阿米娅伸出了手。
 満身創痍の怪物は、無造作にアーミヤに向かって手を伸ばした。
+The ravaged monster suddenly reaches out to Amiya.
 만신창이의 괴물이, 갑자기 아미야를 향해 손을 뻗었다.
 
 [name="凯尔希"]  ——阿米娅！
 [name="ケルシー"]  ――アーミヤ！
+[name="Kal'tsit"]  —Amiya!
 [name="켈시"]  ……아미야!
 
 [name="迷迭香"]  小，小心！
 [name="ロスモンティス"]  あ、危ない！
+[name="Rosmontis"]  W-Watch out!
 [name="로즈몬티스"]  조, 조심해!
 
 [name="阿米娅"]  ......
 [name="アーミヤ"]  …………
+[name="Amiya"]  ......
 [name="아미야"]  ……
 
 卡特斯女孩没有闪躲。死亡的阴影袭上了她被硝烟染黑的面庞，她没有挪步，没有惊叫，仅仅是直视着爱国者的双眼。
 コータスの少女は避けなかった。死の影が硝煙で煤けた彼女の顔に迫り来るが、彼女は微動だにせず、叫びもせず、ただパトリオットの目をじっと見つめていた。
+The Cautus girl does not flinch. The shadow of death sweeps upon her smoke-blackened face. She does not move. She does not scream. She only stares directly into Patriot’s eyes.
 카우투스 소녀는 피하지 않았다. 죽음의 그림자가 연기로 검게 물든 그녀의 얼굴 위로 드리웠지만, 그녀는 물러서지도 비명 지르지도 않은 채, 단지 패트리어트의 두 눈을 직시할 뿐이었다.
 
 如同想要望进他的灵魂。
 まるで彼の魂を覗き込むように。
+As if staring directly into his soul.
 마치 그의 영혼을 들여다보는 듯이.
 
 于此同时，沉重的黑色利剑与闪烁着不详光芒的能量束，飞速地刺入了巨人那具不死之躯，却也依然没能撼动他分毫。
 同時に、重い漆黒の剣と不思議な光を放つエネルギーの束が、勢いよく巨人の不死の体躯を貫いた。しかしそれでもまだ、彼は倒れる様子はなかった。
+At the same time, heavy black blades and shimmering beams of ominous energy pierce swiftly into the giant’s immortal body. Still, he remains unshaken.
 이와 동시에, 무거운 흑색의 검과 빛나는 에너지의 다발이, 거인의 불사의 몸에 빠르게 박혔다. 하지만 그는 흔들리지 않았다.
 
 就在爱国者即将捏碎黑衣女孩的头颅时......
 パトリオットが少女の頭を握り潰すと思われたまさにその瞬間——
+Just as Patriot is about to crush the skull of the girl in black...
 패트리어트가 손을 뻗어 검은 옷의 소녀의 머리를 짓이기려는 순간……
 
 温迪戈的动作，戛然而止。
 最後のウェンディゴは、錆びた重い鉄扉が閉まるような音と共に、緩やかに動きを停めた。
+The Wendigo freezes in place.
 웬디고의 움직임이, 홀연히 멈췄다.
 
 似乎有什么从他头盔中悄然滴落。
 兜の隙間から、何かが一雫、ぽたりと滴り落ちたように見えた。
+Something appears to be dripping sorrowfully from his helmet.
 그의 투구에서 무엇인가 떨어진 것 같았다.
 
+......
 ......
 ......
 ......
 
 一分钟过去了。
 一分が経った。
+A minute passes.
 그리고 1분이 지났다.
 
 在这漫长的一分钟里，除了移动城市的隆隆声外，你什么也听不见。
 この永遠にも思える一分間、移動都市の動力機関が立てる、轟々という音以外は、何も聞こえなかった。
+During this eternity of a minute, there are no other sounds except for the low rumbling of the moving city.
 마치 영겁 같았던 1분 동안, 당신에겐 이동 도시의 윙윙거리는 소리 외엔, 아무것도 들리지 않았다.
 
 你意识到，面前的怪物已经死了。
 そしてその場の誰もが理解した、目の前の怪物は死んだのだと。
+Then, the realization dawns. The monster standing before us is dead.
 이내 당신은, 눈앞의 괴물이 이미 죽었음을 알아챘다.
 
 一步也不曾后退。一秒也没有放弃。即使如此，死亡还是停下了他一生的行军。
 結局彼は、最期まで一歩も退かず、一秒も諦めることはなかった。それでも死は、彼の人生の行軍を止めた。
+Having never taken a single step backward, unwavering for even a single second, in the end, death put a stop to the Patriot’s lifelong advance.
 단 한 걸음도 후퇴하지 않았다. 단 일 초도 포기하지 않았다. 그러나, 죽음은 결국 그가 지속해온 삶의 행군을 멈추었다.
 

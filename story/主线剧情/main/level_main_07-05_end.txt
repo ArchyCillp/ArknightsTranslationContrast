@@ -1,768 +1,960 @@
 流血。刺穿。撕裂。
 貫く。引き裂く。血が流れる……
+Bloodied. Torn. Pierced.
 피가 흐른다. 찌른다. 찢는다.
 
 [Decision(options="这不对。", values="1")]
 [Decision(options="——違う。", values="1")]
+[Decision(options="This isn’t right.", values="1")]
 [Decision(options="이건 아니야.", values="1")]
 
 我们。敌人。人。
 敵。味方。人間。
+Us. Enemies. People.
 아군… 적… 사람…
 
 哀嚎，惨叫，呻吟。
 叫び。嘆き。呻き。
+Wailing, screaming, groaning.
 울부짖고, 절규하며, 신음한다.
 
 [Decision(options="这不对！;......！;我不能接受。", values="1;2;3")]
 [Decision(options="————ダメだ！;……！;こんなことは許せない。", values="1;2;3")]
+[Decision(options="This isn’t right!;......!;I can’t take this anymore.", values="1;2;3")]
 [Decision(options="이건 아니야!;……!;이런 건 안 돼.", values="1;2;3")]
 
 [name="凯尔希"]  ......
 [name="ケルシー"]  …………
+[name="Kal'tsit"]  ......
 [name="켈시"]  ……
 
 [name="凯尔希"]  你想问问题。你可以问。
 [name="ケルシー"]  質問があるようだな。聞いてやろう。
+[name="Kal'tsit"]  You have a question. Ask.
 [name="켈시"]  궁금한 게 있다면 질문해도 좋아.
 
 [name="罗德岛干员"]  博士......是第一次看迷迭香战斗吗？
 [name="オペレーター"]  ドクター……もしかして、ロスモンティスの戦闘を見たのは初めてですか？
+[name="Rhodes Island Operator"]  Doctor... is this your first time seeing Rosmontis fight?
 [name="로도스 아일랜드 오퍼레이터"]  박사님…… 로즈몬티스 씨의 전투는 처음 보시는군요?
 
 [name="罗德岛干员"]  我知道你不好受，但——
 [name="オペレーター"]  見るに耐えないのはわかります……ですが――
+[name="Rhodes Island Operator"]  I know it’s hard to watch, but—
 [name="로도스 아일랜드 오퍼레이터"]  납득하기 어렵다는 건 압니다, 하지만……
 
 [name="凯尔希"]  交给我。去照看失去战斗能力的敌方伤员。以及，他们中有负责发布消息和接收命令的传令兵。
 [name="ケルシー"]  ここは私に任せておけ。君には戦闘能力を失った敵負傷者の確認を頼む。あの中には伝令兵もいるはずだ。
+[name="Kal'tsit"]  I’ll handle it. You go tend to the wounded enemies who can’t fight anymore. Also, among them are communications personnel relaying orders and intelligence.
 [name="켈시"]  박사는 내게 맡겨. 넌 가서 전투불능의 적군 부상자들을 체크해라. 정보와 명령을 전달하는 전령병이 있는지도.
 
 [name="凯尔希"]  他们的逃脱会对我们的行动造成巨大威胁。
 [name="ケルシー"]  もし彼らに逃げられたら、我々の作戦に支障が出る。
+[name="Kal'tsit"]  If they’re allowed to escape, it puts our whole operation at risk.
 [name="켈시"]  그 녀석들이 빠져나가면 우리의 작전에 큰 위협이 된다.
 
 [name="罗德岛干员"]  ......明白。
 [name="オペレーター"]  ……わかりました。
+[name="Rhodes Island Operator"]  ...Roger.
 [name="로도스 아일랜드 오퍼레이터"]  ……알겠습니다.
 
 [Decision(options="她多大年纪？ ", values="1")]
 [Decision(options="彼女はいくつなんだ？", values="1")]
+[Decision(options="How old is she? ", values="1")]
 [Decision(options="로즈몬티스는 몇 살이야?", values="1")]
 
 [name="凯尔希"]  14岁。
 [name="ケルシー"]  14歳だ。
+[name="Kal'tsit"]  Fourteen.
 [name="켈시"]  14살이다.
 
 [Decision(options="你允许她......？！", values="1")]
 [Decision(options="そんな幼い子供に——！？", values="1")]
+[Decision(options="And you’re letting her...?!", values="1")]
 [Decision(options="그런데 전투에 나가도록 허락했다고……?!", values="1")]
 
 [name="阿米娅"]  诸位干员......请让我过去！
 [name="アーミヤ"]  皆さん、通してください！
+[name="Amiya"]  People, please... let me through!
 [name="아미야"]  여러분…… 잠시만 지나갈게요!
 
 [name="阿米娅"]  ......这里发生什么事了？我才刚处理完现场......
 [name="アーミヤ"]  今、現場の処理が終わったところです……何かあったんですか？
+[name="Amiya"]  What happened here? I just finished handling the...
 [name="아미야"]  ……무슨 일 있었나요? 현장의 처리는 방금 끝났는데……
 
 [name="阿米娅"]  博士？
 [name="アーミヤ"]  ドクター？
+[name="Amiya"]  Doctor?
 [name="아미야"]  박사님?
 
 [name="迷迭香"]  ......怎么了？
 [name="ロスモンティス"]  ……どうしたの？
+[name="Rosmontis"]  ...What?
 [name="로즈몬티스"]  ……왜?
 
 [name="迷迭香"]  博士，你刚才是叫我了吗？
 [name="ロスモンティス"]  ドクター、さっき私を呼んだ？
+[name="Rosmontis"]  Doctor, did you just call me?
 [name="로즈몬티스"]  박사, 방금 나 불렀어?
 
 [Decision(options="是谁把你推上战场的？", values="1")]
 [Decision(options="ロスモンティス……君に戦場に出るように言ったのは誰だ？", values="1")]
+[Decision(options="Who sent you out to fight?", values="1")]
 [Decision(options="누가 널 전장으로 향하게 했지?", values="1")]
 
 [name="阿米娅"]  ......
 [name="アーミヤ"]  …………
+[name="Amiya"]  ......
 [name="아미야"]  ……
 
 [Decision(options="是谁把你推上战场的！", values="1")]
 [Decision(options="誰なんだ！？", values="1")]
+[Decision(options="Who sent you here?!", values="1")]
 [Decision(options="누가 널 전장으로 내몰았느냐고!", values="1")]
 
 [name="阿米娅"]  博士！
 [name="アーミヤ"]  ドクター！
+[name="Amiya"]  Doctor!
 [name="아미야"]  박사님!
 
 [Decision(options="这么残忍的事情！;......可怕......;这绝不是你该承受的。", values="1;2;3")]
 [Decision(options="こんな残酷なことを！;恐ろしい……;これが君が背負うべきことじゃない。", values="1;2;3")]
+[Decision(options="This is too cruel!;...This is terrible...;You should not have to suffer through this.", values="1;2;3")]
 [Decision(options="어떻게 이렇게 잔인한 짓을!;……무서워……;이건 절대 네가 짊어져야 할 일이 아냐.", values="1;2;3")]
 
 [Decision(options="......为什么要让你来做？", values="1")]
 [Decision(options="……なぜ君がこんなことを？", values="1")]
+[Decision(options="...Why would they let you do this?", values="1")]
 [Decision(options="……왜 네게 이런 일을?", values="1")]
 
 [Decision(options="凯尔希！;......！;不该这样。", values="1;2;3")]
 [Decision(options="ケルシー！;…………;君がすべきことじゃない。", values="1;2;3")]
+[Decision(options="Kal'tsit!;......!;This isn’t right.", values="1;2;3")]
 [Decision(options="켈시!;……!;이건 아니야.", values="1;2;3")]
 
 [name="迷迭香"]  是我自己。
 [name="ロスモンティス"]  私自身。
+[name="Rosmontis"]  I did.
 [name="로즈몬티스"]  내가 원했던 거였어.
 
 [Decision(options="你在说什么？！;......;你自己是什么意思......？", values="1;2;3")]
 [Decision(options="何を……言ってる！？;…………;君自身とはどういう意味だ……？", values="1;2;3")]
+[Decision(options="What are you talking about?;......;You did what...?", values="1;2;3")]
 [Decision(options="뭐라고?!;……;그게 무슨 뜻이야……?", values="1;2;3")]
 
 [name="迷迭香"]  我选择了战斗。我想要战斗。
 [name="ロスモンティス"]  自分で戦うことを選んだの。戦いたいから。
+[name="Rosmontis"]  I did. I chose to fight. I want to fight.
 [name="로즈몬티스"]  내가 싸우겠다고 선택한 거야. 내가 원했어.
 
 [name="迷迭香"]  有些感觉只有在战场上才能找到。
 [name="ロスモンティス"]  戦場でしか見つけられない感情がある。
+[name="Rosmontis"]  There are some feelings I can only experience on the battlefield.
 [name="로즈몬티스"]  전장에서만 느낄 수 있는 감정들이 있어.
 
 [name="迷迭香"]  保护了朋友和家人的时候才会感觉到满足。
 [name="ロスモンティス"]  友達や家族を守れた時に、満足感が得られるの。
+[name="Rosmontis"]  Protecting my friends and family is the only way I can feel complete.
 [name="로즈몬티스"]  친구들과 가족들을 지킨 후에야 비로소 만족감을 느낄 수 있어.
 
 [name="迷迭香"]  ......罗德岛需要我。
 [name="ロスモンティス"]  ……ロドスには私が必要だから。
+[name="Rosmontis"]  ...Rhodes Island needs me.
 [name="로즈몬티스"]  ……로도스 아일랜드는 날 필요로 해.
 
 [name="迷迭香"]  为了阻止更多我一样的人生出来，这片大地在叫我的名字。
 [name="ロスモンティス"]  私のような人を増やさないために、この大地が私の名前を呼ぶの。
+[name="Rosmontis"]  The world is calling my name, to prevent more people like me from coming into it.
 [name="로즈몬티스"]  나 같은 삶을 사는 사람이 더는 생기지 않도록, 이 세상이 내 이름을 부르는 거야.
 
 [Decision(options="即使如此，你也不......", values="1")]
 [Decision(options="でも、君は……", values="1")]
+[Decision(options="Still though, you can’t...", values="1")]
 [Decision(options="그래도, 너는 아직……", values="1")]
 
 [Decision(options="你不能——", values="1")]
 [Decision(options="君は――", values="1")]
+[Decision(options="You can’t—", values="1")]
 [Decision(options="이런 짓은……", values="1")]
 
 [name="迷迭香"]  ......死亡有把谁当作小孩吗？
 [name="ロスモンティス"]  ……死の前では、子供も大人も同じ。
+[name="Rosmontis"]  ...Does death care that I am a child?
 [name="로즈몬티스"]  ……어린애는 안 죽어?
 
 [name="迷迭香"]  战争和感染，会因为它们看见的是小孩，就让他们活着吗？
 [name="ロスモンティス"]  戦争や鉱石病は、相手が子供だからって、見逃してくれるなんてことあるの？
+[name="Rosmontis"]  Would war or disease spare someone because they are a child?
 [name="로즈몬티스"]  전쟁도 광석병도, 어린아이라 그러면 넘어가 줘?
 
 [name="迷迭香"]  我和阿米娅站在战场上......看到我们，谁的第一印象是“孩子”呢？
 [name="ロスモンティス"]  敵が私とアーミヤの戦いを見たとき、まず最初に「子供」だなんて思う人はいないよね？
+[name="Rosmontis"]  When Amiya or I stand on the battlefield... who looks at us and thinks “children?”
 [name="로즈몬티스"]  나랑 아미야가 전장에 있을 때…… 누가 우리를 '아이'로 봐줄까?
 
 [name="迷迭香"]  博士，我们是“怪物”吧？
 [name="ロスモンティス"]  ドクター、私たちは「怪物」でしょ？
+[name="Rosmontis"]  We’re “monsters,” aren’t we, Doctor?
 [name="로즈몬티스"]  박사, 우린 '괴물'이잖아.
 
 [Decision(options="不！！;......;这只是你自己的看法。", values="1;2;3")]
 [Decision(options="違う！！;…………;それは君の勘違いだ。", values="1;2;3")]
+[Decision(options="No!;......;That’s just how you see yourself.", values="1;2;3")]
 [Decision(options="아니야!!;……;그건 너만의 생각일 뿐이다.", values="1;2;3")]
 
 [name="迷迭香"]  博士，不。
 [name="ロスモンティス"]  違うの、ドクター。
+[name="Rosmontis"]  No, Doctor.
 [name="로즈몬티스"]  아니야, 박사.
 
 [name="迷迭香"]  Dr.{@nickname}，不。
 [name="ロスモンティス"]  Dr.{@nickname}、違うの。
+[name="Rosmontis"]  No, Dr. {@nickname}.
 [name="로즈몬티스"]  {@nickname} 박사, 그게 아니야.
 
 [name="迷迭香"]  我自己是什么，没什么关系。
 [name="ロスモンティス"]  自分が何者かは、別にどうでもいいの。
+[name="Rosmontis"]  It doesn’t matter what I am.
 [name="로즈몬티스"]  나 자신이 무엇인지는 아무래도 좋아.
 
 [name="迷迭香"]  我只想和我的家人一起做有意义的事。
 [name="ロスモンティス"]  私はただ家族と一緒に、意義のあることをしたいだけ。
+[name="Rosmontis"]  I just want to make a difference, with my family.
 [name="로즈몬티스"]  난 그저 가족들과 함께 의미 있는 일을 하고 싶을 뿐이야.
 
 [name="迷迭香"]  你知道Scout吗？
 [name="ロスモンティス"]  Scoutを知ってる？
+[name="Rosmontis"]  Do you know Scout?
 [name="로즈몬티스"]  박사, 스카우트를 알아?
 
 [Decision(options="那是......？", values="1")]
 [Decision(options="Scout……？", values="1")]
+[Decision(options="What...?", values="1")]
 [Decision(options="스카우트……?", values="1")]
 
 [name="迷迭香"]  ......你知道Ace吗？
 [name="ロスモンティス"]  ……じゃあ、Aceのことは？
+[name="Rosmontis"]  ...Do you know Ace?
 [name="로즈몬티스"]  ……에이스는?
 
 [Decision(options="我知道。", values="1")]
 [Decision(options="彼のことなら知ってる。", values="1")]
+[Decision(options="Yes.", values="1")]
 [Decision(options="알고 있다.", values="1")]
 
 [name="迷迭香"]  ......我已经有几天没有看他们的事情了。
 [name="ロスモンティス"]  ……彼らのことを何日も見てないの。
+[name="Rosmontis"]  ..It’s already been a few days since I watched any of their materials.
 [name="로즈몬티스"]  난…… 며칠 동안이나 그 사람들에 대한 걸 떠올리지 않았어.
 
 [name="迷迭香"]  我已经忘了许多。
 [name="ロスモンティス"]  私はたくさんのことを忘れちゃった。
+[name="Rosmontis"]  I’ve forgotten a lot.
 [name="로즈몬티스"]  많이 잊어버리기도 했어.
 
 [name="迷迭香"]  但是，我只是忘掉，我和无论什么全都丢掉的博士不一样。
 [name="ロスモンティス"]  でも、私は忘れただけ。何もかも捨てたドクターとは違うの。
+[name="Rosmontis"]  But I only forgot. I’m not like you, Doctor, who threw away everything.
 [name="로즈몬티스"]  하지만 난 단순히 깜빡했을 뿐, 모든 것을 잊어버린 박사랑은 달라.
 
 [name="阿米娅"]  迷迭香。
 [name="アーミヤ"]  ロスモンティスさん。
+[name="Amiya"]  Rosmontis.
 [name="아미야"]  로즈몬티스 씨.
 
 [name="迷迭香"]  ......不，不是这个意思。但你明白的，阿米娅。
 [name="ロスモンティス"]  ……違う、そういう意味じゃないの。わかるよね、アーミヤ。
+[name="Rosmontis"]  No, I didn’t mean that. But you get it, Amiya.
 [name="로즈몬티스"]  아니…… 그런 의미로 말한 건 아니야. 아미야도 무슨 뜻인지 알잖아.
 
 [name="阿米娅"]  ......我明白。但可以......别这么说。
 [name="アーミヤ"]  ……わかってます。でも……そんな言い方はして欲しくないです。
+[name="Amiya"]  ...I get it. But just... don’t say it like that.
 [name="아미야"]  알아요…… 하지만…… 그런 식으로 얘기하지 말아 주세요.
 
 [name="迷迭香"]  嗯嗯......好。
 [name="ロスモンティス"]  うん……わかった。
+[name="Rosmontis"]  Mm... Fine.
 [name="로즈몬티스"]  응…… 알았어.
 
 [name="迷迭香"]  我丢掉的只有零零散散的，许多看到的，许多句子。
 [name="ロスモンティス"]  私が失くしたのは、バラバラの記憶。どこかで見た光景や、何かに書き記した言葉……それらの抜け殻みたいなぼやけた輪郭は、それが確かに在ったということだけしか教えてはくれない。
+[name="Rosmontis"]  I’ve lost bits and pieces of things. Lots of pictures and words.
 [name="로즈몬티스"]  내가 잃어버린 것들은 다 자질구레한 것들이야. 볼 수 있는 것들 말이야.
 
 [name="迷迭香"]  那些感情，那些......我说不出来，只有阿米娅能懂的感情......
 [name="ロスモンティス"]  でもその時々の感情は……うまく言えないけど、アーミヤ以外の人にはわからない感情が……
+[name="Rosmontis"]  Those feelings... feelings I can’t say, only Amiya can understand...
 [name="로즈몬티스"]  그 감정은, 그…… 뭐라고 표현해야 할지 모르겠네. 아미야만 이해할 수 있는 그 감정은……
 
 [name="迷迭香"]  却从来没有离开过我。
 [name="ロスモンティス"]  ずっと頭から離れないでいる。
+[name="Rosmontis"]  But they never truly left me.
 [name="로즈몬티스"]  단 한 순간도 날 떠난 적이 없어.
 
 [Decision(options="......", values="1")]
 [Decision(options="…………", values="1")]
+[Decision(options="......", values="1")]
 [Decision(options="……", values="1")]
 
 [name="迷迭香"]  博士......我觉得你很复杂。
 [name="ロスモンティス"]  ドクターは……変わった人だと思う。
+[name="Rosmontis"]  Doctor... I feel like you’re complicated.
 [name="로즈몬티스"]  박사는…… 정말 복잡한 사람인 거 같아.
 
 [name="迷迭香"]  比他们说的都要复杂。
 [name="ロスモンティス"]  みんなが言うよりもずっと……
+[name="Rosmontis"]  Even more complicated than they say.
 [name="로즈몬티스"]  다른 사람들이 말하는 것 이상으로.
 
 [name="迷迭香"]  有人说我也很复杂。有人看见我就会害怕。有人说我不该这样。
 [name="ロスモンティス"]  私も変わった人と言われることがある。私を見て怯える人もいる。そうあるべきじゃないと言ってくる人もいる。
+[name="Rosmontis"]  They say I’m complicated too. Some of them are scared of me. Some of them say I shouldn’t be like this.
 [name="로즈몬티스"]  어떤 사람은 날 알 수 없다 말하고, 또 어떤 사람은 날 두려워해. 나한테 이러면 안 된다 얘기하는 사람도 있고.
 
 [name="迷迭香"]  但他们也不知道我为什么会这样，不知道我感受到了什么。
 [name="ロスモンティス"]  でも彼らは、どうして私がこんなふうになったかっていう理由や、私が経験したり感じてきたことを知らない。
+[name="Rosmontis"]  But they don’t know why I’m like this. They don’t know what I’ve been through.
 [name="로즈몬티스"]  하지만 다들 내가 왜 이러는지, 내가 무엇을 느끼는지는 몰라.
 
 [name="迷迭香"]  为什么在这时候突然心痛？为什么在这时候会想要哭呢？
 [name="ロスモンティス"]  どうしてこんな時に胸が痛くなるの？　どうして泣きたくなるの？
+[name="Rosmontis"]  Why does my heart suddenly ache? Why do I want to cry, now of all times?
 [name="로즈몬티스"]  왜 갑자기 마음이 아플까? 왜 갑자기 울고 싶어질까?
 
 [name="迷迭香"]  明明什么事情都不记得了......为什么眼睛还是很酸，嘴唇也会变干呢？
 [name="ロスモンティス"]  何が起こったのか思い出せないのに……どうして目が痛くて、唇が乾いてしまうの？
+[name="Rosmontis"]  Even though I can’t remember anything... why are my eyes still sore? Why are my lips dry?
 [name="로즈몬티스"]  분명 아무 일도 기억나지 않는데…… 왜 눈이 시큰거리고, 입술이 마르는 걸까?
 
 [name="迷迭香"]  走廊里那块污渍是谁留下的，为什么没被擦掉？为什么在打碎瓷瓶的时候既担心，却还有点开心？
 [name="ロスモンティス"]  廊下のあの汚れは誰が残したの？　どうして拭き取られてないの？　花瓶を割ってしまった時、どうして不安を感じながら、ちょっと嬉しさも感じるの？
+[name="Rosmontis"]  Who left a stain in the corridor, and why hasn’t it been cleaned? Why do I feel worried when I break a vase, but also strangely happy?
 [name="로즈몬티스"]  복도의 그 얼룩은 누가 남겼고, 왜 닦지 않았을까? 왜 꽃병을 깨뜨리면 걱정되면서도 조금은 즐거워지는 걸까?
 
 [name="迷迭香"]  看到花朵就感觉很讨厌，看到虫子反而很好奇，又是为什么？
 [name="ロスモンティス"]  花を見ると嫌な気分になって、虫を見ると興味が湧いてくるのは、どうして？
+[name="Rosmontis"]  Why do I feel disgust from looking at flowers, but wonder from looking at bugs?
 [name="로즈몬티스"]  꽃은 싫어하지만, 곤충을 보면 신기한 건 왜일까?
 
 [name="迷迭香"]  在我不记得的那些事情里，到底发生了什么？为什么这一种种感情都涌了上来？
 [name="ロスモンティス"]  私が失くした記憶の中で、一体何が起きたの？　どうしてこんなにたくさんの感情が湧き上がってくるの？
+[name="Rosmontis"]  What happened during all that time I can no longer remember? Why do these emotions keep welling up within me?
 [name="로즈몬티스"]  내가 기억하지 못하는 그때, 대체 무슨 일이 일어났던 걸까? 왜 이런 감정이 솟구치는 걸까?
 
 [name="迷迭香"]  我感觉到的干员们身上有着各种各样的不同。
 [name="ロスモンティス"]  これまで私が「感じ」たオペレーターたちは、みんないろんな特徴を持っていた。
+[name="Rosmontis"]  Every operator I feel has their own unique differences.
 [name="로즈몬티스"]  난 오퍼레이터들한테서 각양각색의 감각들을 느낄 수 있어.
 
 [name="迷迭香"]  到了失去大家的时候，那些感觉，当然全都消失了。
 [name="ロスモンティス"]  そしてみんなを失った時、その「感じ」も、一緒に消えちゃった。
+[name="Rosmontis"]  And when I lose them, those feelings also disappear.
 [name="로즈몬티스"]  그들을 잃으면, 그 감각도 모두 사라지게 돼.
 
 [name="迷迭香"]  可为什么......为什么，会有情感这种东西啊。
 [name="ロスモンティス"]  でもどうして……どうして感情だけは残っているの？
+[name="Rosmontis"]  But why...? Why do we even have emotions?
 [name="로즈몬티스"]  하지만 왜…… 대체 왜 감정이라는 게 존재하는 걸까.
 
 [name="迷迭香"]  为什么已经感受不到了，眼泪却一直在流、一直停不下来呢？
 [name="ロスモンティス"]  もう感じられないのに、どうして涙がずっと流れてるの？
+[name="Rosmontis"]  Why do my tears keep flowing even when I can’t even feel anymore?
 [name="로즈몬티스"]  이제는 더는 느낄 수도 없는데, 왜 눈물이 흐를까? 왜 눈물을 멈출 수가 없는 거지?
 
 [name="迷迭香"]  我不是都已经，忘记了吗？
 [name="ロスモンティス"]  もう全部、忘れたはずなのに……
+[name="Rosmontis"]  Didn’t I already forget everything?
 [name="로즈몬티스"]  이미 전부, 잊었을 텐데.
 
 [name="阿米娅"]  ......
 [name="アーミヤ"]  …………
+[name="Amiya"]  ......
 [name="아미야"]  ……
 
 [name="阿米娅"]  但是迷迭香从来不想我拿走这些感情。
 [name="アーミヤ"]  ロスモンティスさんは、それらの感情を取り除く処置をずっと拒んでいます。
+[name="Amiya"]  But Rosmontis never wanted me to take her feelings away.
 [name="아미야"]  로즈몬티스 씨는 제가 그 감정들을 가져가길 바라지 않았어요.
 
 [name="阿米娅"]  这些突然缠上来的情感，无论它是什么样子，它都属于迷迭香。
 [name="アーミヤ"]  その湧き上がる感情は、どんな形であれ、ロスモンティスさん自身のものですから。
+[name="Amiya"]  These sudden surges of emotion belong to her, no matter what they are.
 [name="아미야"]  이렇게 갑자기 터져 나오는 감정들은, 어떤 것이든, 전부 로즈몬티스 씨 거예요.
 
 [name="阿米娅"]  ......也只属于迷迭香。
 [name="アーミヤ"]  ……ロスモンティスさんだけのものですから。
+[name="Amiya"]  ...They belong only to Rosmontis.
 [name="아미야"]  ……오직 로즈몬티스 씨만 가질 수 있는 감정이죠.
 
 [name="阿米娅"]  我不能干涉它们。只要在迷迭香的脑海里还有美好的希望......我就不会这么做。
 [name="アーミヤ"]  私はそれに干渉しません。ロスモンティスさんの中に、まだ希望がある限り……私はそうしません。
+[name="Amiya"]  I can’t interfere with them. As long as Rosmontis still has hope somewhere inside her... I won’t do that.
 [name="아미야"]  전 간섭할 수 없어요. 로즈몬티스 씨의 기억 속에 아직 조금이라도 아름다운 희망이 남아있는 한…… 전 그러지 않을 거예요.
 
 [name="阿米娅"]  因为，要做什么，是迷迭香自己决定的，要忘记，也是迷迭香自己去忘记。
 [name="アーミヤ"]  どうするかはロスモンティスさん自身が決めることです。忘れるという選択は、彼女自身の意志で為されるべきです。
+[name="Amiya"]  Because it’s up to her to choose what to do. She can also choose to forget.
 [name="아미야"]  왜냐하면, 무엇을 할지는 로즈몬티스 씨 스스로 결정할 일이고, 무언가를 잊는 것 역시 로즈몬티스 씨의 일이니까요.
 
 [name="阿米娅"]  真正地忘记。
 [name="アーミヤ"]  本当に忘れられる時が来たら……
+[name="Amiya"]  To truly forget.
 [name="아미야"]  정말로 잊어버리는 것 말이에요.
 
 [Decision(options="迷迭香身上发生了什么？;......;我还没有那么了解她。", values="1;2;3")]
 [Decision(options="彼女の身に何が起きたんだ？;…………;自分はまだ彼女のことをわかっていない。", values="1;2;3")]
+[Decision(options="What happened to Rosmontis?;......;I don’t know that much about her.", values="1;2;3")]
 [Decision(options="로즈몬티스에게 무슨 일이 있었던 거지?;……;아직 로즈몬티스에 대해 잘 모르겠어.", values="1;2;3")]
 
 [name="阿米娅"]  Dr.{@nickname}......罗德岛会严格甄别每一个干员。
 [name="アーミヤ"]  Dr.{@nickname}……ロドスのオペレーター選抜は厳しいものです。
+[name="Amiya"]  Dr. {@nickname}... Rhodes Island has a strict screening process for our operators.
 [name="아미야"]  {@nickname} 박사님…… 로도스 아일랜드의 오퍼레이터는 모두 엄격한 기준으로 선별된 사람들이에요.
 
 [name="阿米娅"]  许多干员申请前往战场，都被我们拒绝了。罗德岛会从种种角度判断一个干员是否适合作战任务。
 [name="アーミヤ"]  戦闘への参加を申請してくるオペレーターはたくさんいますが、その多くを私たちは断っています。ロドスは様々な面から、その人の戦闘適性を判断しますので。
+[name="Amiya"]  Many of them apply for combat roles, and we reject most of those. We look at lots of different metrics to decide if an operator is fit for combat.
 [name="아미야"]  수많은 오퍼레이터들이 전장 파견을 신청하지만, 대부분 기각됩니다. 로도스 아일랜드는 여러 측면에서 이 오퍼레이터의 작전 수행 적합 여부를 판단하거든요.
 
 [name="阿米娅"]  作战能力，战术考虑，纪律和身体素质，都是考察的要素，但这都是浅层次的条件。
 [name="アーミヤ"]  作戦遂行能力、戦術立案能力、フィジカルにメンタル、全てが判断材料になります。でもこれは予備段階での選抜条件に過ぎません。難しいのは次の段階の、「自然かつ絶対的な信頼度」です。
+[name="Amiya"]  Combat ability, tactical aptitude, discipline, and physical fitness are all important parameters, but that barely scratches the surface.
 [name="아미야"]  전투 능력, 전술적 사고, 규율 준수와 신체 능력까지 모두 심사 요소에 포함됩니다만, 이것들은 그저 표면적인 조건에 불과해요.
 
 [name="阿米娅"]  在实际的任务中，许多人并不知道如何去信任彼此。
 [name="アーミヤ"]  実際の任務においては、どうやってお互いを信頼すべきかを心得ていない人がたくさんいます。
+[name="Amiya"]  People often have difficulty trusting one another when they’re on an actual mission.
 [name="아미야"]  막상 실제 임무에서는, 어떻게 서로를 어떻게 믿고 의지해야 하는지 모르는 오퍼레이터가 많죠.
 
 [name="阿米娅"]  迷迭香在这里，是因为她相信我们的指挥和目标，而我们相信她的能力和她的判断。
 [name="アーミヤ"]  ロスモンティスさんがここにいるのは、私たちの目的と采配を信じているからであり、そして同じように私たちが彼女の能力と判断を信じているからです。
+[name="Amiya"]  Rosmontis is here because she trusts in our orders and objectives, and we trust in her abilities and judgment.
 [name="아미야"]  로즈몬티스 씨가 여기에 있는 건, 그녀가 저희의 지휘와 목표를 신뢰하며, 저희 역시 로즈몬티스 씨의 능력과 판단을 신뢰하기 때문입니다.
 
 [name="阿米娅"]  请相信我，博士。不，请相信我们......
 [name="アーミヤ"]  だから私を……いえ、私たちを信じてください、ドクター。
+[name="Amiya"]  Please believe in me, Doctor. No, believe in us...
 [name="아미야"]  절 믿어 주세요, 박사님. 아니, 저희를 믿어 주세요……
 
 [name="阿米娅"]  你会慢慢看见她......感情的颜色。
 [name="アーミヤ"]  そうすればきっと彼女の……感情の色が見えてきますから。
+[name="Amiya"]  You’ll slowly begin to see... the colors of her emotions.
 [name="아미야"]  박사님도 조금씩…… 로즈몬티스 씨가 어떤 빛깔의 감정을 가진 사람인지 알게 되실 거예요.
 
 [name="迷迭香"]  ......
 [name="ロスモンティス"]  …………
+[name="Rosmontis"]  ......
 [name="로즈몬티스"]  ……
 
 [name="迷迭香"]  博士。谢谢你和煌一起战斗。
 [name="ロスモンティス"]  ドクター。ブレイズと一緒に戦ってくれてありがとう。
+[name="Rosmontis"]  Doctor. Thank you for fighting alongside Blaze.
 [name="로즈몬티스"]  박사. 블레이즈와 함께 싸워주셔서 고마워.
 
 [Decision(options="为什么？;......;没什么好谢的。", values="1;2;3")]
 [Decision(options="どうして？;…………;感謝されるようなことじゃない。", values="1;2;3")]
+[Decision(options="Why?;......;You don’t have to thank me.", values="1;2;3")]
 [Decision(options="어째서?;……;감사할 것까지야.", values="1;2;3")]
 
 [name="迷迭香"]  煌需要更多人和她一起战斗。我也想看她笑的样子。
 [name="ロスモンティス"]  ブレイズにはもっと一緒に戦う人が必要なんだよ。あの人の笑った顔を、私は見たいから。
+[name="Rosmontis"]  Blaze needs more people fighting alongside her. And I want to see her smile.
 [name="로즈몬티스"]  블레이즈에겐 함께 싸워줄 더 많은 사람들이 필요했거든. 나도 블레이즈의 웃는 모습을 보고 싶었고.
 
 [name="迷迭香"]  我也想看看你的样子。我想看看，Ace和Scout一直在说的你，到底是什么样子。
 [name="ロスモンティス"]  あなたのことも、見てみたかった。AceとScoutがずっと話してたドクターが、どんな人なのか見てみたかったの。
+[name="Rosmontis"]  I want to see you too. I want to see the one Ace and Scout always talked about.
 [name="로즈몬티스"]  그리고 박사도 실제로 만나보고 싶었어요. 에이스와 스카우트가 항상 박사에 관해 얘기해서, 정말 궁금했거든.
 
 [name="凯尔希"]  你在这。
 [name="ケルシー"]  ここにいたのか。ずいぶんと探したぞ。
+[name="Kal'tsit"]  Here you are.
 [name="켈시"]  여기에 있었나.
 
 [Decision(options="轮到你来找我了。", values="1")]
 [Decision(options="……これでおあいこだ。", values="1")]
+[Decision(options="You found me this time.", values="1")]
 [Decision(options="이번엔 네가 날 찾을 차례였군.", values="1")]
 
 [name="凯尔希"]  ......使用沉重的大型器械迅速而有力地摧毁敌人，同时兼具惊人的自制力和极强的应变能力。
 [name="ケルシー"]  ……高火力で迅速かつ効果的に敵を無力化することができ、優れた自制心と臨機応変さを併せ持つ。
+[name="Kal'tsit"]  ...She uses heavy machinery to quickly and effectively destroy the enemy, while at the same time exhibiting astonishing self-control and adaptiveness.
 [name="켈시"]  ……육중한 대형 장비로 신속하고 강력하게 적을 해치울 뿐만 아니라, 경이로운 자제력과 임기응변까지.
 
 [name="凯尔希"]  迷迭香是罗德岛最出类拔萃的歼灭战要员之一。
 [name="ケルシー"]  ロスモンティスは、ロドスで最も優秀な殲滅戦要員の一人だ。
+[name="Kal'tsit"]  Rosmontis is one of Rhodes Island’s greatest annihilation specialists.
 [name="켈시"]  로즈몬티스는 로도스 아일랜드에서 가장 뛰어난 섬멸전 요원 중 한 명이야.
 
 [name="凯尔希"]  相应的，她的待人方式和说话语气可能会让你感到担忧，她战斗的姿态，相较她的外表，也的确很残酷。
 [name="ケルシー"]  対人コミュニケーションにはやや難がある上、戦闘スタイルも外見に反して容赦無く見える。
+[name="Kal'tsit"]  As such, the way she treats people and the way she speaks may worry you. The way she fights and its contrast with her appearance, is indeed very cruel.
 [name="켈시"]  물론, 로즈몬티스의 사람을 대하는 방식이나 화법 때문에 염려가 되긴 하겠지. 그녀가 싸우는 방식은, 아무래도 그 외모에 비해서는 많이 잔인하기도 하고.
 
 [name="凯尔希"]  也许手持电锯四处大闹的煌还算能让人接受，迷迭香战斗时飞溅的碎片，则的确会让一些人感到不安。
 [name="ケルシー"]  彼女と比べれば、チェーンソーを振り回すブレイズの方がまだ受け入れやすいかもしれないな。ロスモンティスの戦闘中に飛び散る破片には確かに不安を覚えるが……
+[name="Kal'tsit"]  Blaze running around with her chainsaw may be easier to accept, but the destruction of when Rosmontis takes the field is much harder to stomach.
 [name="켈시"]  그런 면에서는 전기톱을 사방에 휘둘러대는 블레이즈가 차라리 나을지도 모르겠군, 로즈몬티스가 싸울 때 튕겨 나오는 파편들은 보는 사람을 더 불안하게 만드니까.
 
 [name="凯尔希"]  如果能使你稍微感到平静一些，我可以给你一点保证作慰藉。假使你确实能被说服的话。
 [name="ケルシー"]  私の保証で君の不安が少しでも和らぐのならそうしよう。君に私の言葉が信じられるのであれば、だが。
+[name="Kal'tsit"]  If it will help you sleep at night, I can make you a promise. If it will help at all.
 [name="켈시"]  만약 이걸로 널 조금이나마 안심시킬 수 있다면, 위안이 되는 이야기를 해주지. 네가 납득할 수만 있다면 말이야.
 
 [name="凯尔希"]  ——迷迭香很少击杀敌人。虽然看上去相当直接，但她的战术旨在解除敌人的战斗能力。
 [name="ケルシー"]  ――ロスモンティスが敵を殺してしまうことは実は少ない。戦い方は衝撃的に見えるが、彼女の目的は相手の戦闘能力を奪うことだ。
+[name="Kal'tsit"]  —Rosmontis almost never kills. Though her tactics seems to singularly aim for that outcome, she actually focuses on disabling the enemy’s combat abilities.
 [name="켈시"]  ……로즈몬티스가 직접 적을 죽이는 일은 거의 없어. 꽤나 직접적인 공격처럼 보이지만, 사실 그녀의 전투 능력은 주로 적군의 전투 능력을 상실시키는 데에 있거든.
 
 [name="凯尔希"]  譬如说，刚才的战斗中，所有敌人都被成功解除了武装，且并没有人因为迷迭香的攻击而死去。
 [name="ケルシー"]  その証拠に、先ほどの戦闘では、全ての敵の武装が解除されたが、誰一人死んではいない。
+[name="Kal'tsit"]  Take the last battle, for example, all the enemies were disarmed, and not a single one died to Rosmontis’s attacks.
 [name="켈시"]  아까의 전투에서도 로즈몬티스는 적 전원을 무장해제 시켰지만, 그 과정에서 로즈몬티스의 공격으로 죽은 적은 없었다.
 
 [name="凯尔希"]  她对武器的操控能力比起过去，已经进步了许多。
 [name="ケルシー"]  彼女の武器コントロール精度は、以前よりかなり向上している。
+[name="Kal'tsit"]  She also has much more control over her weapons than she once did.
 [name="켈시"]  무기를 다루는 능력도 이전보다 훨씬 성장했지.
 
 [name="凯尔希"]  当然，我们擒获的敌人是否能得救，取决于我们能否及时击溃整合运动的指挥核心。直到那时，我们才有可能派遣救援队进入核心城。
 [name="ケルシー"]  もちろん、敵の重症者が助かるかどうかは、中枢区画を完全制圧するまでの時間にかかっている。その時になって初めて、ここに医療班を送らせることが可能になるからな。
+[name="Kal'tsit"]  Of course, whether or not we can keep the prisoners alive depends entirely on our ability to destroy Reunion’s leadership. Only then will we be able to send rescue teams into the core city.
 [name="켈시"]  물론 붙잡아둔 적들이 목숨을 부지할 수 있는지는, 우리가 리유니온의 핵심 세력을 격퇴할 수 있느냐에 달려 있다. 그래야만 우리도 구조팀을 코어에 파견할 수 있을 테니까.
 
 [name="凯尔希"]  以及，当我们必须实施致死性打击以达成战术性目标的时候，伤亡不可避免。
 [name="ケルシー"]  だが当然、致命的なダメージを与えることが、目的を達成する条件になる時もある。その際に死傷者が出るのは避けられないことだと覚えておいてくれ。
+[name="Kal'tsit"]  But sometimes, we must use lethal force in order to accomplish our goals. Some loss of life is inevitable.
 [name="켈시"]  게다가, 전술 목표를 이루기 위해 목숨을 건 공격을 감행해야 할 때가 오면, 사상자의 발생은 불가피하다.
 
 [name="凯尔希"]  ......你还是皱着眉头。是不是还是觉得这些表面现象依然超过了你的想象？
 [name="ケルシー"]  ……まだ不満そうだ。目の当たりにした事実に耐えられないのか？
+[name="Kal'tsit"]  You still look disturbed. Is this all beyond your ability to accept?
 [name="켈시"]  ……아직도 미간을 찌푸리고 있군. 눈앞에 펼쳐진 장면이 여전히 네 상상 이상으로 참혹했나?
 
 [Decision(options="我不能接受。;......;我不能理解。", values="1;2;3")]
 [Decision(options="やはり許されることではない。;……;自分には理解できないことだ。", values="1;2;3")]
+[Decision(options="I can’t accept this.;......;It doesn’t make sense.", values="1;2;3")]
 [Decision(options="받아들이기 힘들군.;……;이해할 수 없군.", values="1;2;3")]
 
 [name="凯尔希"]  事实可能也超乎你的想象。
 [name="ケルシー"]  現実は君の想像をはるかに超えるものだろう。
+[name="Kal'tsit"]  You might not be able to accept the truth either.
 [name="켈시"]  현실은 상상을 초월하는 법이지.
 
 [name="凯尔希"]  令人胆寒的源石技艺和令人惊讶的感知能力，并不是迷迭香成为精英干员的理由。
 [name="ケルシー"]  恐ろしいほどのアーツの才能や精神感応能力を持っていたことが、彼女をエリートオペレーターに抜擢した理由ではない。
+[name="Kal'tsit"]  Her terrifying Originium Arts and incredible perception are not the only reasons why Rosmontis is an elite operator.
 [name="켈시"]  로즈몬티스는 소름 끼칠 정도의 아츠와 경이로운 감지 능력 덕분에 정예 오퍼레이터가 된 게 아니야.
 
 [name="凯尔希"]  ——迷迭香正是因为成为了精英干员，才表现出了这样的素质。
 [name="ケルシー"]  逆に、エリートオペレーターになったからこそ、このような素質を開花させたと言える。
+[name="Kal'tsit"]  —Rosmontis demonstrates these qualities because she became an elite operator.
 [name="켈시"]  ……오히려 정예 오퍼레이터가 됐기 때문에 이런 능력을 발현할 수 있었던 거지.
 
 [name="凯尔希"]  我们不是判断“我们应该把她送上战场”，而是判断“如果不让她成为这样的战士，后果将不堪设想。”
 [name="ケルシー"]  「実力を鑑みて彼女を戦場に送るべき」という理屈ではなく、「彼女を戦士にしなければ、恐ろしい結果が待っている」と我々は判断したのだ。
+[name="Kal'tsit"]  We made our judgment not on whether to send her to battle, but how disastrous the consequences might be if we didn’t let her become a fighter like this.
 [name="켈시"]  우린 '그녀를 전장에 보내기 위해' 오퍼레이터로 만든 게 아냐. '그녀를 전사로 만들지 못하면 끔찍한 결말만이 남을 것'이라고 판단한 거다.
 
 [Decision(options="什么样的后果？", values="1")]
 [Decision(options="どんな結果だ？", values="1")]
+[Decision(options="What kind of consequences?", values="1")]
 [Decision(options="어떤 결말?", values="1")]
 
 [name="凯尔希"]  说严重一点吧。她身体里渗透出的源石技艺可能会无意识或有意识地屠杀生命。
 [name="ケルシー"]  端的に言えば、彼女の身体からにじみ出るアーツは、放っておくと他人の命を奪ってしまう。彼女が望むと望まざるとに拘らず、な。
+[name="Kal'tsit"]  Worst case scenario, her Arts leak out from her body and push her to kill, subconsciously or otherwise.
 [name="켈시"]  진지하게 얘기하지. 로즈몬티스의 몸에서 흘러나오는 오리지늄 아츠는 의식적으로든 무의식적으로든 생명을 죽일 수 있어.
 
 [name="凯尔希"]  人类的互相毁灭已经成为了一种常态，即使现在这种事已经相当频繁地发生在这片大地上，大多数人却依然还是自己握着兵器和法杖的。
 [name="ケルシー"]  人間同士の殺し合いは普遍であり、この大地では途切れることなく発生しているが、多くの人は自らの意志で武器を振るっているはずだ。
+[name="Kal'tsit"]  Humans killing each other has become the normal state of things. Even so, most people still hold their weapons and staves themselves.
 [name="켈시"]  인간이 서로를 죽이는 일은 이미 일상이 됐지. 이 세상에서 이런 일이 이제 빈번하게 발생한다지만, 대부분의 사람은 여전히 스스로 병기와 아츠 스태프를 쥐고 있어.
 
 [name="凯尔希"]  失去自我意识的人，是否还算是人这一话题，我并不想讨论。但人类面临的正是这个问题的应用延伸。
 [name="ケルシー"]  自我を失った人が人と呼べるかという問題について議論するつもりはない。だが我々が向き合わなければならないのは、まさにこの問題の延長だ。
+[name="Kal'tsit"]  Whether or not someone who has lost her sense of self can still be called a person is another topic I’m not interested in discussing. But humanity grapples with the extent and manifestation of this problem.
 [name="켈시"]  자아를 잃은 사람도 여전히 사람인가에 대한 문제는 논하고 싶지 않지만, 현재 인류가 직면한 문제는 바로 이 문제의 연장선이라 할 수 있다.
 
 [name="凯尔希"]  “当剥夺了人类个体的自我意识时，剩下的是什么？诞生的又是什么？”
 [name="ケルシー"]  「人間から自我が奪われた後、そこに残った個体をいったいどう定義するのか？」
+[name="Kal'tsit"]  “When you deprive a human being of her sentience, what is left? What is created?”
 [name="켈시"]  "한 인간 개체에게서 자아를 빼앗으면 무엇이 남는가? 또 무엇이 탄생하는가?"
 
 [name="凯尔希"]  “当它剥夺我们的生命时，有罪的究竟是谁？”
 [name="ケルシー"]  「その個体が兵器となり、それによって他者の命が奪われた時、咎められるべきは誰なのか？」
+[name="Kal'tsit"]  “When that creation deprives us of our lives, who is at fault?”
 [name="켈시"]  "만약 그것이 살인을 저지르면, 그 죄는 과연 누구에게 있는가?"
 
 [name="凯尔希"]  是造出武器的人，是使用武器的人，还是被当作武器的人？
 [name="ケルシー"]  その兵器を生み出した者か、その兵器を利用した者か、それとも兵器にされた張本人か？
+[name="Kal'tsit"]  The one who created the weapon, the one who used the weapon, or the one we treat as a weapon?
 [name="켈시"]  무기를 만든 사람인가? 무기를 잡은 사람인가? 아니면 무기로 쓰여진 사람인가?
 
 [Decision(options="又要我猜谜？;......;我会自己查明的。", values="1;2;3")]
 [Decision(options="また謎解きか。;…………;自分なりの答えを見つけ出してみせる。", values="1;2;3")]
+[Decision(options="Another riddle?;......;I’ll figure it out myself.", values="1;2;3")]
 [Decision(options="또 수수께끼인가?;……;그 답은 스스로 찾아보지.", values="1;2;3")]
 
 [name="凯尔希"]  随着之后战斗的继续，我也许能为你更多地解释一些事情。
 [name="ケルシー"]  そのうち説明してやれる時間があるかもしれないが、今は少し自分の頭で考えてみてくれ。
+[name="Kal'tsit"]  As we move on to the next battle, I may be able to teach you more.
 [name="켈시"]  이후의 전투를 계속하다 보면, 나도 너에게 더 많은 얘기를 해줄 수 있게 되겠지.
 
 [name="凯尔希"]  顺便，年龄的问题。
 [name="ケルシー"]  ちなみにもう一つ……年齢のことだ。
+[name="Kal'tsit"]  By the way, on the issue of her age...
 [name="켈시"]  말 나온 김에 나이에 대해서도 말인데……
 
 [name="凯尔希"]  阿米娅的假装成熟也许让你产生了一种错觉。当然，也许有，也许没有。
 [name="ケルシー"]  アーミヤが背伸びをしている姿を見て、君が勘違いをしている……かどうかはわからないが——
+[name="Kal'tsit"]  Amiya puts on an air of maturity that may have you fooled. Maybe, maybe not.
 [name="켈시"]  아미야가 어른인 체 군다고 네가 뭔가 착각하고 있는 것 같아서 말이야. 물론, 아닐 수도 있겠지만.
 
 [name="凯尔希"]  被当作武器畏惧的幼小生命，并不会因为表现稚嫩，就可以被看作是普通孩童。
 [name="ケルシー"]  戦場で兵器として恐れられる子供は、たとえ外見が幼くても普通の子供として見られることはまずない。
+[name="Kal'tsit"]  A young creature known as a deadly weapon won’t be seen as an ordinary child just because she looks young.
 [name="켈시"]  두려운 무기로 취급되는 어린 생명이, 하는 짓이 어린아이 같다고 평범한 아이로 보일 수야 없겠지.
 
 [name="凯尔希"]  ——何况她们已经经历过太多了。
 [name="ケルシー"]  ――ましてや、多くのことを経験したあの二人なら尚のこと。
+[name="Kal'tsit"]  —Not to mention all that they’ve been through.
 [name="켈시"]  ……하물며 그녀들은 이미 너무 많은 일을 겪고 말았으니.
 
 [name="凯尔希"]  ......整理一下你的必备物品。我们差不多要向地面进发了。
 [name="ケルシー"]  少しお喋りが過ぎたな……さて、そろそろ地表に向けて出発する頃合だ。もう一度自分の装備をチェックしてくれ。
+[name="Kal'tsit"]  ...Take what you need. It’s time to head to the surface.
 [name="켈시"]  ……슬슬 짐 챙겨. 곧 지상으로 출발한다.
 
 [Decision(options="那阿米娅呢？她也是武器吗？", values="1")]
 [Decision(options="待て！　つまりアーミヤは……彼女も兵器だというのか？", values="1")]
+[Decision(options="What about Amiya? Is she a weapon too?", values="1")]
 [Decision(options="그럼 아미야는? 아미야도 무기란 말인가?", values="1")]
 
 [name="凯尔希"]  ......你可以自己去问她。
 [name="ケルシー"]  ……本人に訊けばいい。
+[name="Kal'tsit"]  You can ask her yourself.
 [name="켈시"]  ……그건 네가 직접 물어봐.
 
 [name="凯尔希"]  而且，这也该由她自己告诉你。
 [name="ケルシー"]  むしろ、それは本人の口から聞くべきことだ。
+[name="Kal'tsit"]  This is something you should hear from her.
 [name="켈시"]  아미야가 직접 답해야 할 질문이다.
 
 [name="华法琳"]  凯尔希！站住！
 [name="ワルファリン"]  ケルシー！　待つのだ！
+[name="Warfarin"]  Kal'tsit! Stop right there!
 [name="와파린"]  켈시! 기다려!
 
 [name="凯尔希"]  华法琳。我马上就要出发了，无论要说什么，你都可以直奔主题。
 [name="ケルシー"]  ワルファリンか。もうすぐ出発だ。言いたいことがあれば要点だけにしろ。
+[name="Kal'tsit"]  Warfarin, I was just leaving. Whatever it is, make it quick.
 [name="켈시"]  와파린인가. 이제 곧 출발해야 하니까 할 말 있으면 짧게 해줘.
 
 [name="华法琳"]  你知道那个预言吧？不对，没有什么是你不知道的，你肯定知道。
 [name="ワルファリン"]  あの預言は知っておるな？　いや、そなたが知らぬはずはない。
+[name="Warfarin"]  You know the prophecy, don’t you? Yes, there’s nothing you don’t know.
 [name="와파린"]  너도 그 예언에 대해 알고 있지? 아니, 네가 모르는 일 따위 없으니, 분명 알고 있겠지.
 
 [name="凯尔希"]  预言？
 [name="ケルシー"]  預言？
+[name="Kal'tsit"]  Prophecy?
 [name="켈시"]  예언?
 
 [name="华法琳"]  你是不是因为这个原因允许阿米娅去的？
 [name="ワルファリン"]  そうだ。あれのためにアーミヤを連れて行こうというのか？
+[name="Warfarin"]  Is that not why you allowed Amiya to go?
 [name="와파린"]  그 예언 때문에 아미야가 작전에 참여하는 걸 허락한 거 아니었나?
 
 [name="凯尔希"]  ......阿米娅才是这场行动的总指挥和发起人。
 [name="ケルシー"]  ……アーミヤこそがこの作戦の発起人であり、総指揮なのだが。
+[name="Kal'tsit"]  Amiya is the commander of this operation, as well as the one who suggested it.
 [name="켈시"]  ……아미야는 이번 작전의 제안자이자 총지휘자인데.
 
 [name="华法琳"]  可阿米娅只有一点点大，怎么能做总指挥——
 [name="ワルファリン"]  まだ幼子である彼女に総指揮など務まるはずが——
+[name="Warfarin"]  But as young as Amiya is, how can she command—
 [name="와파린"]  아미야는 아직 저렇게 어린데, 총지휘관이라니……
 
 [name="凯尔希"]  华法琳，我们离开卡兹戴尔多长时间了？
 [name="ケルシー"]  ワルファリン。私たちがカズデルを離れてから、どれほど経っていると思う？
+[name="Kal'tsit"]  Warfarin, how long has it been since we left Kazdel?
 [name="켈시"]  와파린, 우리가 카즈델을 떠난 지 얼마나 됐지?
 
 [name="华法琳"]  ......
 [name="ワルファリン"]  …………
+[name="Warfarin"]  ......
 [name="와파린"]  ……
 
 [name="凯尔希"]  给我个准确的回答，否则我走了。
 [name="ケルシー"]  話は終わりだな。それでは行くぞ。
+[name="Kal'tsit"]  Be precise, or I’m leaving.
 [name="켈시"]  대답 안 할 거면 간다.
 
 [name="华法琳"]  ......两个月？
 [name="ワルファリン"]  2ヶ月ほどか？
+[name="Warfarin"]  ...Two months?
 [name="와파린"]  ……두 달 정도?
 
 [name="凯尔希"]  华法琳......别开玩笑。
 [name="ケルシー"]  冗談に付き合ってる暇はない。
+[name="Kal'tsit"]  Warfarin... stop joking around.
 [name="켈시"]  와파린…… 농담하지 마.
 
 [name="华法琳"]  我知道你的意思。她长大了。
 [name="ワルファリン"]  わかっておる。あの子はもう成長したと言いたいのであろう。
+[name="Warfarin"]  I know what you mean. She’s grown up.
 [name="와파린"]  그래, 무슨 말 하려는지 안다. 아미야는 성장했지.
 
 [name="凯尔希"]  是的，华法琳。岁月如梭。
 [name="ケルシー"]  そうだ、ワルファリン。時が経つのは早い。
+[name="Kal'tsit"]  Yes, Warfarin. Time flies.
 [name="켈시"]  그래, 와파린. 세월 참 빠르지.
 
 [name="凯尔希"]  卡特斯人的生理变化和血魔生理变化有着难以估量的差别。到现在为止，我们已经离开卡兹戴尔三年了。
 [name="ケルシー"]  そもそもコータスとブラッドブルードとでは、成長速度に天地ほどの開きがある……私たちがカズデルを出てから今日までで既に3年が経過している。
+[name="Kal'tsit"]  Age progression in Cautuses and Vampires is radically different. It has been three years since we left Kazdel.
 [name="켈시"]  카우투스의 생리적 변화는 흡혈귀와는 차원이 달라. 우리가 카즈델을 떠난 지 벌써 삼 년이라고.
 
 [name="凯尔希"]  也许你的时间只过去了一点点，但阿米娅已经成长了许多。
 [name="ケルシー"]  君にとっては一瞬かもしれないが、アーミヤが成長するには十分な時間だ。
+[name="Kal'tsit"]  It may feel like a short time for you, but Amiya has matured a lot.
 [name="켈시"]  너의 시간은 조금밖에 흐르지 않았을지 몰라도, 아미야는 많이 성장했다.
 
 [name="华法琳"]  你还是先回答我的问题。预言。
 [name="ワルファリン"]  それについてはもういい……まずは妾の質問に答えろ。預言だ。
+[name="Warfarin"]  Answer my first question. The prophecy.
 [name="와파린"]  일단은 내 질문부터 대답해라. 예언 말이야.
 
 [name="凯尔希"]  ......“最后的温迪戈将会死在魔王手中？”
 [name="ケルシー"]  ……「最後のウェンディゴは魔王の手によって死ぬ」？
+[name="Kal'tsit"]  ...”The last Wendigo will die at the hands of the Lord of Fiends?”
 [name="켈시"]  ……"최후의 웬디고는 마왕의 손에 죽는다"?
 
 [name="华法琳"]  就是这个。我知道那个游击队，以及领袖。是他没错。
 [name="ワルファリン"]  それだ。妾はあの遊撃隊もそのリーダーのこともよく知っておる。預言が示しておるのは奴のことに違いない。
+[name="Warfarin"]  Correct. I’m familiar with that guerilla group, and their leader. I’m certain it’s him.
 [name="와파린"]  그래, 그거. 난 그 유격대, 리더가 누군지 안다. 분명히 그자야.
 
 [name="凯尔希"]  预言原本的句式是“胡尔提克茨之子，萨卡兹的背叛者和血脉末端的不荣誉者将遭萨卡兹的君主出手处决。”
 [name="ケルシー"]  預言の原文は「ホルテクツの仔、サルカズに背きし者、及び其の不義の血脈に連なる末裔は、サルカズ君主の手ずから断絶せらる」というものだ。
+[name="Kal'tsit"]  The original phrasing of the prophecy was “The son of Hor-Tekrz, traitor to Sarkaz and disreputable end of the bloodline, will be executed by the Lord of Sarkaz.”
 [name="켈시"]  예언의 원문은 "호르테크츠의 자식, 살카즈의 배반자와 마지막 핏줄의 불명예자는 살카즈의 군주에게 처형될 것이다"였어.
 
 [name="凯尔希"]  那甚至算不上个预言。无论他们所谓的“血脉”是否得到了延续，迄今为止，依然有许多温迪戈还在乌萨斯和哥伦比亚生活着。
 [name="ケルシー"]  あれは預言とは呼べない。彼らの純粋な——いわゆる「血脈」が生き延びていようがいまいが、今でもウルサスやクルビアには多くのウェンディゴが生存している。
+[name="Kal'tsit"]  Some prophecy. Whether or not there’s any extension of their “bloodline,” there are still many Wendigos living their lives in Columbia and Ursus.
 [name="켈시"]  이건 예언이라 할 수도 없어. 그들이 소위 말하는 '핏줄'이 지금까지 이어졌는지는 모르겠지만, 여전히 많은 웬디고가 우르수스와 컬럼비아에 살고 있는걸.
 
 [name="凯尔希"]  ......如果你允许我把几十个算作“许多”的话。
 [name="ケルシー"]  ……数十人を「多く」と言って差し支えないのであれば、な。
+[name="Kal'tsit"]  ...That is, if a few dozen can be called “many.”
 [name="켈시"]  ……몇십 명도 '많은 것'으로 쳐준다면 말이지만.
 
 [name="凯尔希"]  而且，结合当时的语境，你应该将它看作是一句威胁。很多人不希望温迪戈们离开卡兹戴尔。
 [name="ケルシー"]  それに、当時の状況を考えれば、あれは威嚇や牽制として見るのが妥当だろう。ウェンディゴがカズデルから離れることを望まない者は大勢いた。
+[name="Kal'tsit"]  And, considering the context of the time, you should view it as a threat. Many people did not want to see the Wendigos leave Kazdel.
 [name="켈시"]  게다가, 그 당시의 환경을 생각해보면 그 예언은 하나의 협박 정도로 간주해야지. 많은 사람들이 웬디고가 카즈델을 떠나지 않길 바랐잖아.
 
 [name="华法琳"]  最开始说出这句话的可不是你我，既然你也记着，就说明你也觉得很重要。对不？
 [name="ワルファリン"]  しかし、最初にこの預言を問題視し始めたのは妾たちではないぞ。そなたもなんだかんだと言いながらもしっかり記憶しておるのは、それが重要だと思ってるゆえではないのか？
+[name="Warfarin"]  It wasn’t either of us who said it. And since you still remember it, you must have found it important. No?
 [name="와파린"]  이 문장을 처음에 말한 사람이 너나 내가 아닌데도, 네가 아직 기억하고 있는 건 이걸 중요하게 인식하고 있다는 거다. 그렇지?
 
 [name="凯尔希"]  你是不是上年纪了，怎么会相信“预言”这种萨卡兹巫术般的说辞？
 [name="ケルシー"]  ……君も歳を取ったな。サルカズ巫術の「預言」などという戯言を信じるとは。
+[name="Kal'tsit"]  Are you getting old? Since when do you believe in “prophecies” and Sarkaz witchcraft?
 [name="켈시"]  네 나이가 몇인데 아직도 살카즈 주술 같은 '예언' 따위를 믿는 거지?
 
 [name="华法琳"]  ——年纪？你，你好意思说我？！
 [name="ワルファリン"]  歳？　そ、そなたに言われとうないわ！
+[name="Warfarin"]  —Old? M-Me?!
 [name="와파린"]  ……나이? 네, 네놈이 할 말이냐?!
 
 [name="凯尔希"]  我感染了矿石病，死亡永远立于我身侧，只等时机成熟。华法琳，我的生命一定比你想象的更短暂。
 [name="ケルシー"]  私は鉱石病に感染している。その時が来るまでは常に死と隣り合わせだ。ワルファリン、私の命はきっと君の想像よりも短いだろう。
+[name="Kal'tsit"]  I contracted Oripathy. Death is always here with me, waiting for the right time to strike. Warfarin, my life is no doubt much shorter than you think.
 [name="켈시"]  난 광석병에 감염됐다. 죽음이 항상 내 곁에서 때를 엿보는 중이지. 와파린, 내 목숨은 네 생각보다 훨씬 짧아.
 
 [name="华法琳"]  欸！
 [name="ワルファリン"]  なっ！？
+[name="Warfarin"]  Hey!
 [name="와파린"]  뭬야!
 
 [name="华法琳"]  我们一定要说得那么严肃吗？我不是那个小丫头可露希尔，有些事情我可没法让你轻描淡写过去的。
 [name="ワルファリン"]  狡いぞ！　そのような深刻めいた話にすり替えて誤魔化す気か！？　妾があのクロージャの小娘のように、軽く受け流すことなどできぬと知っておろうが！
+[name="Warfarin"]  Must we be so morbid? I’m not your little girl Closure. I won’t let you keep skirting the topic.
 [name="와파린"]  꼭 그렇게 진지하게 얘기해야겠어? 이 몸은 클로저 같은 계집애가 아니라서, 네 말을 가볍게 흘려넘길 수가 없단 말이다.
 
 [name="凯尔希"]  你提出的议题相当的严肃。
 [name="ケルシー"]  深刻な話を始めたのは君の方だろうに。
+[name="Kal'tsit"]  The issue you raised is quite morbid.
 [name="켈시"]  네가 먼저 진지하게 말을 꺼내니까 이런 거 아냐.
 
 [name="华法琳"]  ......不管了。
 [name="ワルファリン"]  ……まあよい。
+[name="Warfarin"]  ...Never mind.
 [name="와파린"]  ……어쨌든!
 
 [name="华法琳"]  凯尔希，听好了，其他人大概率不会和你说，但我会。
 [name="ワルファリン"]  ケルシー、よく聞け。他の者はそなたに遠慮して言えぬだろうが、妾は言うてやる。
+[name="Warfarin"]  Hear me, Kal'tsit, the others may not say as much to you, but I will.
 [name="와파린"]  켈시, 잘 들어라. 다른 사람들은 네게 솔직히 말해주지 않을지 몰라도, 나는 분명히 말하겠다.
 
 [name="华法琳"]  他是我们里最后的几个之一了。我不是慈善家，也没那么老好人，但......我们是萨卡兹人。
 [name="ワルファリン"]  あやつは妾たち同様、数少ない生き残りの一人だ。
+[name="Warfarin"]  He is one of the very few left among us. I am no bleeding heart, no goodly busybody, but... we are Sarkaz.
 [name="와파린"]  그는 우리 종족에서 마지막 남은 사람 중 하나다. 이 몸은 자선가도 아니고, 그다지 좋은 사람도 아니지만…… 그래도 같은 살카즈인이다.
 
 [name="华法琳"]  即使我是血魔，那个老头是温迪戈，也一样。
 [name="ワルファリン"]  妾がブラッドブルードで、あの老いぼれがウェンディゴでも、それは関係ない。
+[name="Warfarin"]  I am a Vampire, and the old man is a Wendigo, but we are the same.
 [name="와파린"]  나는 흡혈귀고, 그 늙은이는 웬디고라고 해도 말이야.
 
 [name="华法琳"]  ......萨卡兹人在这片大地上已经过得够难了。可能的话，我希望他能回到卡兹戴尔。来我们这里也行。
 [name="ワルファリン"]  ……この大地で、サルカズは不遇の日々を送っている。妾は慈善家でもお人好しでもないが、可能なら、あやつにはカズデルに戻ってほしいのだ。無論、我々ロドスに来てもよいが。
+[name="Warfarin"]  This world is a tough place for Sarkaz. I hope he can return to Kazdel, if possible. Or come with us.
 [name="와파린"]  ……살카즈는 이 세상에서 이미 충분히 힘겹게 살아왔어. 가능하다면, 그가 카즈델로 돌아갔으면 좋겠다. 우리 쪽으로 와도 좋고.
 
 [name="凯尔希"]  ——
 [name="ケルシー"]  …………
+[name="Kal'tsit"]  ——
 [name="켈시"]  ……
 
 [name="凯尔希"]  我不是。华法琳，我不是萨卡兹人。
 [name="ケルシー"]  私は違うのだ、ワルファリン。私はサルカズではない。
+[name="Kal'tsit"]  I’m not, Warfarin. I’m not Sarkaz.
 [name="켈시"]  나는 아니야, 와파린. 난 살카즈가 아니잖아.
 
 [name="华法琳"]  所以你不答应？
 [name="ワルファリン"]  ……つまり、妾の頼みは聞けぬということか？
+[name="Warfarin"]  So you refuse?
 [name="와파린"]  그래서 싫다는 뜻인가?
 
 [name="凯尔希"]  不......
 [name="ケルシー"]  いや……
+[name="Kal'tsit"]  No...
 [name="켈시"]  아니……
 
 [name="凯尔希"]  我尽力。
 [name="ケルシー"]  わかった、ベストを尽くそう。
+[name="Kal'tsit"]  I’ll do what I can.
 [name="켈시"]  최선은 다해보지.
 
 [name="凯尔希"]  ......我甚至记得他，华法琳。
 [name="ケルシー"]  ……ワルファリン、私も彼のことはよく覚えている。
+[name="Kal'tsit"]  ...Even I remember him, Warfarin.
 [name="켈시"]  나도 그를 기억하고 있어…… 와파린.
 
 [name="华法琳"]  有你的承诺比什么都强。
 [name="ワルファリン"]  そなたの約束があれば何よりも心強い。
+[name="Warfarin"]  Your promise is stronger than anything.
 [name="와파린"]  네가 그렇게 대답해 주니 그 무엇보다 든든하군.
 
 [name="凯尔希"]  别指望事情能有那么顺利。
 [name="ケルシー"]  そううまく行くとは思わないことだな。
+[name="Kal'tsit"]  Don’t get your hopes up that this will be easy.
 [name="켈시"]  순조롭게 풀릴 거라고는 기대하지 마.
 
 [name="华法琳"]  但这次是你试着去做。只要是Dr.凯尔希去做了，什么样的结果我都接受。
 [name="ワルファリン"]  だが今回はそなた自らが出動するのであろう？　それなら、どんな結果でも受け入れよう。
+[name="Warfarin"]  But this time, you’ll be there. As long as Dr. Kal'tsit makes her best effort, I’ll accept the outcome.
 [name="와파린"]  하지만 이번엔 직접 움직여주잖아. 닥터 켈시가 하는 일이라면, 어떤 결과든 받아들일 수 있어.
 
 [name="凯尔希"]  也许你还没得到消息，但是你的建议提出得太晚。有一些事情已经不幸地发生了。
 [name="ケルシー"]  ……君の忠告は遅過ぎた。君のところにはまだ伝わっていないかもしれないが、不吉なことが既に起きている。
+[name="Kal'tsit"]  Maybe you haven’t heard, but your proposal came too late. Some things have already unfolded, and rather unfortunately.
 [name="켈시"]  아직 소식 못 들었나 본데, 네 제안은 너무 늦었어. 불행한 일이 벌써 벌어지고 말았다.
 
 [name="凯尔希"]  前些时间切尔诺伯格的感染者诊所“阿撒兹勒”已经与我们交换了信息。我得知的不仅仅是他正服务于整合运动这件事。
 [name="ケルシー"]  先日、チェルノボーグの感染者診療所「アザゼル」より最新の情報が入った。判明したのは彼がレユニオンに協力しているということだけではない。
+[name="Kal'tsit"]  Some time ago, an Infected clinic in Chernobog called “Azazel” traded information with us. I learned some more information about the Wendigo in Reunion's service.
 [name="켈시"]  얼마 전 체르노보그의 감염자 진료소 '아자젤'과 정보를 교환했다. 내가 알아낸 건 그가 리유니온에 몸담고 있다는 사실만이 아니야.
 
 [name="凯尔希"]  此外，你该清楚，如果你与他交战，你甚至可以尝出乌萨斯最暴虐时的刀锋是沾着咸味还是锈味。
 [name="ケルシー"]  それから、彼と敵対するなら、ウルサスで最も凶悪な太刀筋を味わうことになると、君も知っているはずだ。
+[name="Kal'tsit"]  What’s more, and you should know this well, anyone who stands against the most brutal blade in Ursus will soon learn whether it tastes of salt or rust.
 [name="켈시"]  잘 알아둬, 그와 전투를 벌이게 되면, 우르수스의 가장 포악한 칼날에서 짠맛이 나는지, 쇠맛이 나는지까지 알게 될 거다.
 
 [name="凯尔希"]  没有人该有意识地置罗德岛干员于险境。
 [name="ケルシー"]  ロドスのオペレーターをそんな危険に晒すべきではない。
+[name="Kal'tsit"]  Nobody should knowingly place our operators in danger.
 [name="켈시"]  로도스 아일랜드의 일원을 일부러 그런 위험에 빠뜨릴 사람은 없지.
 
 [name="华法琳"]  有些患者的生命有限，但限度的高低取决于主治的医师。事在人为。
 [name="ワルファリン"]  患者の治療には限界があるが、その上限値は医者にかかっている。つまり事の成否は人の努力次第だ。
+[name="Warfarin"]  Some patients’ days are numbered, but that number depends on the doctor treating them. It’s all up to us.
 [name="와파린"]  몇몇 환자의 생명에는 한계는 있지만, 그 한계를 정하는 건 주치의다. 일의 성사 여부는 결국 사람에게 달려 있는 게야.
 
 [name="凯尔希"]  ......事在人为。
 [name="ケルシー"]  ……努力次第、か。
+[name="Kal'tsit"]  ...It’s all up to us.
 [name="켈시"]  사람에게 달려있다고……
 
 [name="凯尔希"]  以及我以前提醒过你......可能你又忘了。
 [name="ケルシー"]  もう一つ注意しておこう。前にも言ったことがある……君は忘れたかもしれないが。
+[name="Kal'tsit"]  And I told you before... You may have forgotten.
 [name="켈시"]  그리고 전에도 말했는데…… 또 까먹은 모양이네.
 
 [name="凯尔希"]  我不会因此惩罚你，却可能做些一劳永逸的事情来永绝后患。
 [name="ケルシー"]  今回、それを理由に君を咎めるようなことはしない。しかし万が一の時には、何か強制的な手段を取る用意はある。
+[name="Kal'tsit"]  I won’t discipline you for it, but I may do something to put an end to it once and for all.
 [name="켈시"]  이 일로 너를 질책 하지야 않겠지만, 뒤탈이 생길만한 일은 미리 없애야 하니까.
 
 [name="凯尔希"]  不要说我可怕，华法琳。我们说好的。
 [name="ケルシー"]  横暴だとは言わせない、ワルファリン。これは掟だ。
+[name="Kal'tsit"]  You are not to say I’m frightening, Warfarin. We’ve been over this.
 [name="켈시"]  너무하다곤 하지 마라, 와파린. 이미 약속했잖아.
 
 [name="凯尔希"]  “不许在任何场合——哪怕是罗德岛——再提起‘魔王’二字。”
 [name="ケルシー"]  「いかなる場合でも――たとえロドスの中にいても――『魔王』という言葉を口にすることは一切禁ずる。」
+[name="Kal'tsit"]  “Do not, under any circumstances, even at Rhodes Island, speak of ‘the Lord of Fiends.’”
 [name="켈시"]  "언제 어디서도, 비록 그곳이 로도스 아일랜드일지라도, '마왕'이란 두 글자를 언급하지 마라."
 
 [name="凯尔希"]  永远不许。
 [name="ケルシー"]  絶対にだ。
+[name="Kal'tsit"]  Ever.
 [name="켈시"]  절대로.
 
 [name="阿米娅"]  等等。
 [name="アーミヤ"]  ……これは。
+[name="Amiya"]  Wait.
 [name="아미야"]  잠시만요.
 
 [name="阿米娅"]  全员，稍息！
 [name="アーミヤ"]  総員、休め！
+[name="Amiya"]  All hands, at ease!
 [name="아미야"]  모두, 멈추세요!
 
 [name="阿米娅"]  迷迭香......是我的错觉吗？
 [name="アーミヤ"]  ロスモンティスさん……私の気のせいでしょうか？
+[name="Amiya"]  Rosmontis... am I getting this right?
 [name="아미야"]  로즈몬티스 씨…… 제 착각일까요?
 
 [name="迷迭香"]  嗯，不。我也感觉到了。
 [name="ロスモンティス"]  ううん。私も感じた。
+[name="Rosmontis"]  Hm. Yes. I felt it too.
 [name="로즈몬티스"]  음, 아뇨. 저도 느꼈어요.
 
 [name="阿米娅"]  Dr.{@nickname}，出现了意外状况。
 [name="アーミヤ"]  Dr.{@nickname}、想定外の状況が起きたかも知れません。
+[name="Amiya"]  Dr. {@nickname}, something unexpected here.
 [name="아미야"]  {@nickname} 박사님, 돌발 상황입니다.
 
 [Decision(options="发生了什么？", values="1")]
 [Decision(options="何があった？", values="1")]
+[Decision(options="What is it?", values="1")]
 [Decision(options="무슨 일이야?", values="1")]
 
 [name="阿米娅"]  我不是很确定，不过......
 [name="アーミヤ"]  まだ確信はできませんが……
+[name="Amiya"]  I’m not totally sure, but...
 [name="아미야"]  확실하진 않지만……
 
 [name="阿米娅"]  核心城好像......放慢了速度？
 [name="アーミヤ"]  この都市の移動速度が……落ちている？
+[name="Amiya"]  The core city might be... slowing down?
 [name="아미야"]  코어의 이동속도가…… 느려진 것 같아요.
 
