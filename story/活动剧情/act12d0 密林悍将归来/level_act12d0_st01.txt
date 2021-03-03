@@ -1,0 +1,770 @@
+[name="嘉维尔"]  嘶，啊......有点痛......
+[name="ガヴィル"]  つっ、あ……痛ぇなクソ……
+[name="Gavial"]  Oof... Ah.. That hurts a little...
+[name="가비알"]  쓰읍… 아야야… 좀 아픈데…
+
+[name="特米米"]  嘉维尔，你终于醒了！你没事吧！
+[name="トミミ"]  ガヴィルさん、やっと気がつきましたか！　大丈夫ですか！？
+[name="Tomimi"]  Gavial, you’re awake! Are you okay?!
+[name="토미미"]  가비알 씨, 드디어 깼군요! 괜찮으세요?!
+
+[name="嘉维尔"]  没事没事，一点小伤。
+[name="ガヴィル"]  平気平気、ただのかすり傷だ。
+[name="Gavial"]  I’m fine. Just a scratch.
+[name="가비알"]  괜찮아, 별 상처 아냐.
+
+[name="嘉维尔"]  比起这个，祖玛玛那个就是她一直以来在捣鼓的机器吗？
+[name="ガヴィル"]  それより、ズゥママがずっと弄ってた機械の正体は、あいつだったのか？
+[name="Gavial"]  More importantly, is that the machine Zumama’s been tinkering with all this time?
+[name="가비알"]  그보다, 저게 주마마가 계속 만지작거리던 그 기계야?
+
+[name="特米米"]  嗯，据说叫做“巨大的丑东西”。太可恶了，居然......
+[name="トミミ"]  はい、「ビッグ・アグリー」という名前だそうです。ズゥママ、よくも……
+[name="Tomimi"]  Yes. I heard them calling it "The Big, Ugly Thing".  So gross...
+[name="토미미"]  네, '거대하고 못생긴 것'이라고 부르더라고요. 정말 괘씸해요. 감히…
+
+[name="嘉维尔"]  也太酷了吧！
+[name="ガヴィル"]  イカすじゃねーか！
+[name="Gavial"]  It’s pretty badass!
+[name="가비알"]  완전 멋지잖아!
+
+[name="特米米"]  居然把......咦，诶？
+[name="トミミ"]  よくもガヴィルさんを……って、ええっ？
+[name="Tomimi"]  So... Err, huh?
+[name="토미미"]  감히 가비알 씨를…… 엣? 네?!
+
+[name="特米米"]  可是，可是那个大家伙明明把嘉维尔你打倒了......
+[name="トミミ"]  で、ですがあのデカブツ、ガヴィルさんまで倒しちゃって……
+[name="Tomimi"]  But the big thing definitely beat you down...
+[name="토미미"]  하지만 그 녀석이 가비알 씨를 공격했는데……
+
+[name="嘉维尔"]  但是它确实很厉害啊，虽然我只瞟到一眼就昏过去了。
+[name="ガヴィル"]  ああ、すごかったぜ！　一発で気絶したからあんまり見れなかったけどな。
+[name="Gavial"]  I can tell it’s really tough, even through it knocked my lights out before I got a good look at it.
+[name="가비알"]  어쨌든 대단하잖아. 물론 단번에 기절해버리긴 했지만.
+
+[name="特米米"]  唔唔，确实......
+[name="トミミ"]  うう、まあ、そうなんですけど……
+[name="Tomimi"]  Hmm, yes it is...
+[name="토미미"]  으으으…. 그렇긴 하지만……
+
+[name="嘉维尔"]  不过，还真是没想到她居然真的造出了这样的东西。
+[name="ガヴィル"]  ……ズゥママのヤツ、まさか本当にあんなすげーモンを作り出すとはな。
+[name="Gavial"]  But I never imagined she’d actually put together something like this.
+[name="가비알"]  그나저나 녀석이 정말 이런 걸 만들어낼 줄은 전혀 생각지도 못했는걸.
+
+[name="嘉维尔"]  虽然可露希尔也偶尔会造一些古怪的东西出来，不过祖玛玛这台恐怕可露希尔看到也会惊叹吧，哈哈。
+[name="ガヴィル"]  クロージャもたまに変なモンを作るが、ズゥママのあれを見たら、さすがにびっくりするだろうな。ハハ。
+[name="Gavial"]  Closure makes some weird gadgets every once in a while, yeah, but even she’d be impressed with Zumama’s machine here. Haha.
+[name="가비알"]  클로저도 가끔 괴상한 물건을 만들긴 하지만, 주마마가 만든 걸 보면 클로저도 아마 감탄할 거야. 하하…
+
+[name="特米米"]  诶，在罗德岛那样的东西有很多吗？
+[name="トミミ"]  ええっ？　ロドスにも同じようなものがあるんですか？
+[name="Tomimi"]  Wow, are there lots of things like that at Rhodes Island?
+[name="토미미"]  네? 로도스 아일랜드엔 그런 게 많나요?
+
+[Decision(options="有。;......;没有这么丑的。",values="1;2;3")]
+[Decision(options="ある。;……;あそこまで不恰好なものはない。",values="1;2;3")]
+[Decision(options="Yes.;......;Not that ugly.",values="1;2;3")]
+[Decision(options="응.;……;그렇게 못생긴 건 없지만.",values="1;2;3")]
+
+[name="特米米"]  哇哇哇，罗德岛好可怕......
+[name="トミミ"]  はわわ、ロドスは恐ろしいところです……
+[name="Tomimi"]  Waaaa! Rhodes Island sounds scary...
+[name="토미미"]  와아, 로도스 아일랜드… 진짜 무서운 곳이네요…
+
+[name="嘉维尔"]  哈哈，罗德岛可是超乎你这小脑瓜想象的地方。
+[name="ガヴィル"]  ハハ、ずっとここにいるお前じゃ想像できねぇだろうがな。
+[name="Gavial"]  Haha, Rhodes Island would blow your little mind.
+[name="가비알"]  하핫, 로도스 아일랜드는 네 작은 머리통으로는 상상도 하기 힘든 곳이라고.
+
+[name="嘉维尔"]  哈哈，这么一说倒是真的，那台机器要是可露希尔看到估计要疯了。
+[name="ガヴィル"]  ハハ、言われてみれば確かに。クロージャがあの機械を見たら、驚く前に発狂するな。
+[name="Gavial"]  Haha, now that you mention it, that thing would drive Closure up the wall as soon as she laid eyes on it.
+[name="가비알"]  후후… 진짜야. 클로저가 그 기계를 보면 아마 미치고 팔딱 뛸걸.
+
+[name="嘉维尔"]  嗯？神庙怎么倒了？
+[name="ガヴィル"]  ん？　つーかなんで霊殿が崩れてんだ？
+[name="Gavial"]  Hm? What happened to the Temple?
+[name="가비알"]  응? 근데 신전이 왜 이 모양이야?
+
+[name="特米米"]  被那台怪兽轰倒了。
+[name="トミミ"]  あのバケモノに壊されました。
+[name="Tomimi"]  That monster blew it up.
+[name="토미미"]  그 기계 짐승이 무너뜨렸어요.
+
+[name="嘉维尔"]  哦，那这么说，祭典已经散了吗？
+[name="ガヴィル"]  てことは、祭典はもうお開きか？
+[name="Gavial"]  Oh, so that means the ceremony’s over?
+[name="가비알"]  그럼 제전은 이미 끝났단 소리야?
+
+[name="特米米"]  嗯。
+[name="トミミ"]  はい。
+[name="Tomimi"]  Yes.
+[name="토미미"]  네.
+
+[name="嘉维尔"]  也就是说，祖玛玛成为了大酋长？
+[name="ガヴィル"]  つまり、大族長はズゥママで決まりか？
+[name="Gavial"]  And so Zumama’s the Great Chief now?
+[name="가비알"]  그러니까 주마마가 대족장이 됐다는 뜻?
+
+[name="特米米"]  嗯......
+[name="トミミ"]  はい……
+[name="Tomimi"]  Yes...
+[name="토미미"]  네……
+
+[name="特米米"]  虽然一开始所有人都吓了一跳，但是......
+[name="トミミ"]  最初はみんな、あまりの出来事に呆然としていましたが……
+[name="Tomimi"]  Everyone was pretty shocked at first, but...
+[name="토미미"]  처음엔 다들 놀랐지만……
+
+[name="森蚺"]  我毁掉神庙的原因，很简单。
+[name="ユーネクテス"]  この霊殿を壊した理由は、至って簡単だ。
+[name="Eunectes"]  Why did I destroy the Temple? It’s simple.
+[name="유넥티스"]  내가 신전을 파괴한 이유는 간단해.
+
+[name="森蚺"]  我想告诉大家，这种传统该结束了。
+[name="ユーネクテス"]  こんな伝統はそろそろ終わりにすべきだ。その想いをみんなに伝えたかった。
+[name="Eunectes"]  It’s my way of telling you all we’re ending this tradition.
+[name="유넥티스"]  이런 전통은 끝낼 때가 됐단 걸 알려주고 싶었달까.
+
+[name="森蚺"]  靠拳头可以打十个人，像嘉维尔那样的，或许可以打一百个，但是，再多呢？
+[name="ユーネクテス"]  腕の立つ者なら、拳一つで十人には勝てるだろう。ガヴィルだったら百人だって相手にできるかもしれない。しかし、それ以上の数ならどうだ？
+[name="Eunectes"]  With your fists, you can beat down ten men. If you’re Gavial, maybe you take a hundred. But more than that?
+[name="유넥티스"]  주먹질로 열 명은 쓰러뜨릴 수 있어. 가비알이라면 백 명 정도 가능할지도 모르지. 하지만 더 많다면?
+
+[name="森蚺"]  就算是嘉维尔也解决不了。
+[name="ユーネクテス"]  いつかは、ガヴィルでも敵わなくなる。
+[name="Eunectes"]  Even Gavial couldn’t manage.
+[name="유넥티스"]  가비알이라 해도 해결하지 못할걸.
+
+[name="森蚺"]  这就是只靠拳头的极限。
+[name="ユーネクテス"]  これが拳に頼る人の限界だ。
+[name="Eunectes"]  There’s a limit to what you can do with your fists.
+[name="유넥티스"]  그게 바로 주먹의 한계야.
+
+[name="森蚺"]  但是，工具不一样，我们部族制造出来的这台“巨大的丑东西”，可以轻易地打败嘉维尔，也可以轻易地让神庙塌掉。
+[name="ユーネクテス"]  だが道具にそんな限界はない。私の部族が作り上げた「ビッグ・アグリー」ならば、ガヴィルだって簡単に倒せるし、霊殿も打ち壊せる。
+[name="Eunectes"]  But with a tool? That’s different. My tribe created this "Big, Ugly Thing" that effortlessly took down Gavial and destroyed the Temple just as easily.
+[name="유넥티스"]  하지만 도구가 있으면 달라. 우리 부족이 만든 '거대 못난이'는 가비알도 신전도 쉽게 쓰러뜨릴 수 있다.
+
+[name="森蚺"]  这就是工具的力量。
+[name="ユーネクテス"]  これが、道具の力なんだ。
+[name="Eunectes"]  This is the power of a tool.
+[name="유넥티스"]  이게 바로, 도구의 힘이란 거다.
+
+[name="森蚺"]  而借助工具，你们也可以变得这么强！
+[name="ユーネクテス"]  道具の力を借りれば、お前たちだってあんなに強くなれる！
+[name="Eunectes"]  Tools can make you all even stronger!
+[name="유넥티스"]  도구의 힘을 빌리면 너희도 이렇게 강해질 수 있어!
+
+[name="森蚺"]  所以接下来，是机器的时代！
+[name="ユーネクテス"]  これからは、機械の時代だ！
+[name="Eunectes"]  And so I hereby proclaim the age of machines!
+[name="유넥티스"]  그러니까 이제는 기계의 시대가 될 거야!
+
+[name="特米米"]  大家都被她说服了，所以......
+[name="トミミ"]  みんな彼女に説得されて、それで……
+[name="Tomimi"]  Everyone bought into it, so...
+[name="토미미"]  다들 그 말에 설득당해서…
+
+[name="嘉维尔"]  所以她成为了大酋长吗，嗨呀，这下真是输了。
+[name="ガヴィル"]  大族長になったってわけか。はあ、こいつは参ったな。
+[name="Gavial"]  So she became the Great Chief. Hah, well, that’s an L for me, obviously.
+[name="가비알"]  그래서 주마마가 대족장이 됐구나? 휴, 이번엔 진짜 졌네.
+
+[Decision(options="不甘心吗？;......;可别不服输啊，嘉维尔。",values="1;2;3")]
+[Decision(options="悔しい？;……;負けは負けだ、ガヴィル。",values="1;2;3")]
+[Decision(options="Are you okay with that?;......;You’re right to accept it, Gavial.",values="1;2;3")]
+[Decision(options="분해?;……;패배를 인정해야지, 가비알.",values="1;2;3")]
+
+[name="嘉维尔"]  嗯？没有，输了就是输了。
+[name="ガヴィル"]  ん？　いや、負けは負けだ。
+[name="Gavial"]  Huh? Yep. A loss is a loss.
+[name="가비알"]  응? 아냐, 졌으면 진 거지.
+
+[name="嘉维尔"]  嘿，博士，不用想安慰我的话，我是真的不难过。
+[name="ガヴィル"]  へっ、ドクター、慰めの言葉でも考えてんのか？　いらねぇよ、アタシは落ち込んでないから。
+[name="Gavial"]  Hey, Doctor, I don’t need your comfort. I’m really fine.
+[name="가비알"]  헤헷, 박사. 뭐라고 위로해야 할지 고민하지 마. 난 진짜 괜찮으니까.
+
+[name="嘉维尔"]  哼，当然，我是谁？
+[name="ガヴィル"]  そんなことわかってるって。アタシを誰だと思ってんだよ？
+[name="Gavial"]  Hmph, duh. Do you know me?
+[name="가비알"]  흥, 당연하지. 내가 누군데?
+
+[name="嘉维尔"]  哦，不过，特米米，抱歉啊，我这么一搞，你都还没上场就结束了。
+[name="ガヴィル"]  あ、だけどトミミには謝んねぇと。アタシが出てったせいで、お前の出番もなくなっちまった。わりぃ。
+[name="Gavial"]  Oh, but I have to apologize to Tomimi. It’s my fault you never got a chance to fight.
+[name="가비알"]  아, 그나저나 미안해 토미미. 나 때문에 출전하기도 전에 끝나버렸네.
+
+[name="特米米"]  ......没事的，就算是我先上场，应该也是一样的结果吧。
+[name="トミミ"]  ……大丈夫です。私が先に出て行っても、きっと結果は同じだったでしょうから。
+[name="Tomimi"]  ...That’s okay. Even if I went up there, it wouldn’t have changed anything.
+[name="토미미"]  괜찮아요…… 제가 먼저 나갔어도 결과는 같았을 텐데요 뭘.
+
+[name="嘉维尔"]  好吧，这倒没错。
+[name="ガヴィル"]  まぁ、確かにな。
+[name="Gavial"]  Yeah, you’re right about that one.
+[name="가비알"]  하긴 그래.
+
+[name="嘉维尔"]  那么，博士，接下来怎么办？
+[name="ガヴィル"]  で、これからどうすんだ、ドクター？
+[name="Gavial"]  Hey, Doctor, what do we do now?
+[name="가비알"]  그럼, 박사, 이제 어떡하지?
+
+[Decision(options="找引擎和其他人。;......;观光？",values="1;2;3")]
+[Decision(options="エンジンと他の仲間を探す。;……;観光？",values="1;2;3")]
+[Decision(options="Find the engine and the others.;......;Sightseeing?",values="1;2;3")]
+[Decision(options="엔진하고 다른 사람들을 찾아야지.;……;관광?",values="1;2;3")]
+
+[name="嘉维尔"]  哦对，不管怎么说，引擎不找回来，我们可回不去了。
+[name="ガヴィル"]  だな。エンジンを取り戻さなきゃアタシたちは帰れねぇしな。
+[name="Gavial"]  Ah, right! We need the engine to get back.
+[name="가비알"]  아 맞다, 엔진 못 찾으면 우린 못 돌아가지.
+
+[name="嘉维尔"]  而且这么一说，祭典上还真是一个我们的人都没出现啊，他们该不会是迷路了吧。
+[name="ガヴィル"]  つーか、ロドスのヤツらは結局一人も祭典に来なかったな。迷子は勘弁してくれよ。
+[name="Gavial"]  And as for the others, if we didn’t see them at the ceremony, maybe they got lost?
+[name="가비알"]  그러고 보니 제전에 우리 쪽 사람은 하나도 안 나타났네. 설마 길을 잃은 건 아니겠지?
+
+[name="嘉维尔"]  博士也没想好吗，没事，慢慢想吧，距离假期结束还有时间呢。
+[name="ガヴィル"]  まぁゆっくり考えよーぜ。休暇はまだまだ長いんだから。
+[name="Gavial"]  Still thinking it over, Doctor? No rush. We’ve got some vacation time left.
+[name="가비알"]  박사도 결정 못 했어? 괜찮아, 천천히 생각해. 휴가는 아직 남았으니까.
+
+[name="嘉维尔"]  哈哈，我就喜欢博士你这种地方，那就一边找引擎和其他人，一边观光吧！
+[name="ガヴィル"]  ハハ、ドクターのそういうとこが気に入ってんだ。そーだな、エンジンと仲間を探すついでに、観光でもしようぜ！
+[name="Gavial"]  Haha, I love this Doctor! Then let’s get some sightseeing in while we look for the engine and the girls.
+[name="가비알"]  하하! 이래서 박사가 좋다니까? 그럼 엔진이랑 사람들을 찾으면서, 관광도 좀 해보자고!
+
+[name="特米米"]  那个，这个......
+[name="トミミ"]  えっと、その……
+[name="Tomimi"]  Erm, well...
+[name="토미미"]  그게, 저기……
+
+[name="嘉维尔"]  嗯？那边那两个人......
+[name="ガヴィル"]  ん？　あそこの二人は……
+[name="Gavial"]  Huh? Those two over there...
+[name="가비알"]  응? 저기 두 사람은…
+
+[name="阿达克利斯人A"]  喂，哥哥，你没事吧！
+[name="アダクリス人A"]  おい、兄貴、大丈夫か！
+[name="Archosauria A"]  Hey, Yota, are you okay?!
+[name="아다크리스A"]  형, 형, 괜찮은 거지!
+
+[name="阿达克利斯人B"]  我没事，我只是，有点......
+[name="アダクリス人B"]  へ、平気だ、だたちょっと……うぐっ……
+[name="Archosauria B"]  Yeah, it’s just, it kinda...
+[name="아다크리스B"]  괜찮아, 그냥 조금…
+
+[name="阿达克利斯人A"]  哥哥，哥哥！
+[name="アダクリス人A"]  兄貴、兄貴！
+[name="Archosauria A"]  Yota!
+[name="아다크리스A"]  형, 형!
+
+[name="阿达克利斯人A"]  巫医，这里有巫医吗！
+[name="アダクリス人A"]  呪術医、呪術医はいるか！
+[name="Archosauria A"]  I need a shaman!
+[name="아다크리스A"]  무당! 여기 무당 없어?
+
+[name="嘉维尔"]  喂，让我看看。
+[name="ガヴィル"]  おい、見せてみろ。
+[name="Gavial"]  Hey, let me take a look.
+[name="가비알"]  비켜봐, 내가 봐줄게.
+
+[name="阿达克利斯人A"]  嘉维尔？你没死吗？
+[name="アダクリス人A"]  ガヴィル！？　生きてたのか！
+[name="Archosauria A"]  Gavial? You’re alive?
+[name="아다크리스A"]  가비알? 안 죽었어?
+
+[name="嘉维尔"]  我才没那么容易死。
+[name="ガヴィル"]  ったりめーだ。あの程度で死んでたまるか。
+[name="Gavial"]  Takes more than that to kill me.
+[name="가비알"]  나 그렇게 쉽게 안 죽는다.
+
+[name="嘉维尔"]  少废话，把你哥哥放平在地上给我看看。
+[name="ガヴィル"]  話はいいから、お前の兄貴をそこに寝かせろ。アタシが診てやる。
+[name="Gavial"]  Shut up for now. Lay your brother out and I’ll look him over.
+[name="가비알"]  헛소리 그만하고, 일단 바닥에 눕혀봐.
+
+[name="嘉维尔"]  特米米，把我的医药箱给我拿过来。
+[name="ガヴィル"]  トミミ、アタシの救急箱を取ってくれ。
+[name="Gavial"]  Tomimi, get my medical bag.
+[name="가비알"]  토미미, 내 약상자 갖고 와.
+
+[name="特米米"]  哦，哦！
+[name="トミミ"]  は、はい！
+[name="Tomimi"]  Oh, okay!
+[name="토미미"]  네, 넵!
+
+[name="阿达克利斯人A"]  我哥哥没事吗！
+[name="アダクリス人A"]  兄貴は大丈夫なのか！？
+[name="Archosauria A"]  Is he gonna be alright?!
+[name="아다크리스A"]  우리 형 괜찮을까?
+
+[name="嘉维尔"]  没死，但是状况不太好。
+[name="ガヴィル"]  生きてはいる。ただちーとマズいな。
+[name="Gavial"]  He’s not dead. But he’s not looking good either.
+[name="가비알"]  아직 살아있어. 상태가 안 좋긴 하지만.
+
+[name="嘉维尔"]  呼吸短促，有血性泡沫痰......嗯？体表有源石结晶分布？！
+[name="ガヴィル"]  呼吸は浅いし、泡沫状血痰が出てる……ん、これは？　体表に源石結晶まで！？
+[name="Gavial"]  Shortness of breath, foamy, bloody spittle... Hm?  And Originium crystals on the body? !
+[name="가비알"]  호흡이 가쁘고, 피 섞인 가래도 보이고…… 이건?! 체표면에 오리지늄 결정이 있잖아?!
+
+[name="嘉维尔"]  ......博士，我初步判断这是矿石病感染造成的心力衰竭。
+[name="ガヴィル"]  ……ドクター、現段階では鉱石病による心不全の症状に見える。
+[name="Gavial"]  ...Doctor, my initial diagnosis is heart failure brought on by Oripathy.
+[name="가비알"]  박사…… 내 생각에 이건 광석병 감염으로 인한 심장 쇠약이야.
+
+[name="阿达克利斯人A"]  什么？
+[name="アダクリス人A"]  なんだそりゃ？
+[name="Archosauria A"]  What?
+[name="아다크리스A"]  뭐?
+
+[name="嘉维尔"]  这是石头病。症状还不算重，我的医药箱里有应急的药，不过需要马上接受治疗。
+[name="ガヴィル"]  あー、つまり石塊病だ。症状は比較的軽いし、応急処置用の薬もあるから大事には至らないが、すぐにでもちゃんとした治療を受ける必要がある。
+[name="Gavial"]  It’s Stone Disease. The symptoms aren’t too bad. I have some emergency medicine in my bag, but we need to treat him right away.
+[name="가비알"]  이건 돌멩이병이야. 증상이 심각하진 않아. 내 약상자에 응급약이 있긴 하지만 빨리 치료를 받아야겠는데.
+
+[name="嘉维尔"]  把他扶起来，不能躺着，我先来给他补充一些氧气。
+[name="ガヴィル"]  身体を起こしてやってくれ、まず酸素を吸わせてやる。
+[name="Gavial"]  Stand him up. He can’t lay down. I’ll give him some oxygen.
+[name="가비알"]  눕혀 놓으면 안 되니까 부축해서 일으켜 줘. 일단 내가 산소를 공급해줄게.
+
+[name="阿达克利斯人A"]  这也是石头病搞的鬼？啧，我就说过让哥哥不要勉强的。
+[name="アダクリス人A"]  これも石塊病のせいなのか？　クソッ、だから無茶をするなってあれほど……
+[name="Archosauria A"]  The Stone Disease did this? Ugh, I told him not to push it.
+[name="아다크리스A"]  이것도 돌멩이병 때문이라고? 그러게 형한테 무리하지 말라고 했는데…
+
+[name="嘉维尔"]  ......
+[name="ガヴィル"]  ……
+[name="Gavial"]  ......
+[name="가비알"]  ……
+
+[name="嘉维尔"]  喂，你叫什么？
+[name="ガヴィル"]  おい、お前名前は？
+[name="Gavial"]  Hey, what’s your name?
+[name="가비알"]  야, 너 이름이 뭐야?
+
+[name="阿达克利斯人A"]  我叫尤吉，这是我的哥哥，尤塔。
+[name="アダクリス人A"]  ヨギだ、兄貴はヨタってんだ。
+[name="Archosauria A"]  I’m Yogi. That’s my brother, Yota.
+[name="아다크리스A"]  난 요기라고 해, 이쪽은 우리 형, 요타.
+
+[name="嘉维尔"]  你是哪个部族的？
+[name="ガヴィル"]  どこの部族だ？
+[name="Gavial"]  Which tribe?
+[name="가비알"]  어느 부족?
+
+[name="尤吉"]  我是森蚺部族的。
+[name="ヨギ"]  ユーネクテス族だが。
+[name="Yogi"]  Eunectes.
+[name="요기"]  유넥티스 부족인데.
+
+[name="嘉维尔"]  ......
+[name="ガヴィル"]  ……
+[name="Gavial"]  ......
+[name="가비알"]  ……
+
+[name="特米米"]  嘉维尔，你怎么了，表情变得好可怕。
+[name="トミミ"]  ガヴィルさん、急に怖い顔して、どうしたんですか。
+[name="Tomimi"]  What’s wrong, Gavial? Your face is scaring me.
+[name="토미미"]  가비알 씨, 왜 그래요. 표정이 무서워졌어요.
+
+[name="嘉维尔"]  先别说话。
+[name="ガヴィル"]  ちょっと黙っててくれ。
+[name="Gavial"]  Not now.
+[name="가비알"]  가만있어 봐.
+
+[name="嘉维尔"]  我再问你，祖玛玛为了造她的钢铁怪兽，有没有让你们去矿区采矿？
+[name="ガヴィル"]  もう一つ聞くが、ズゥママはあの鋼鉄のバケモンを作るために、お前らに鉱石を採りに行かせたことはあるか？
+[name="Gavial"]  I’m asking again: Did Zumama send you into the mines to get ore for her big metal monster?
+[name="가비알"]  주마마가 아까 그 강철 짐승을 만든답시고 너희한테 광석 채굴을 시킨 거야?
+
+[name="尤吉"]  有啊，怎么了？
+[name="ヨギ"]  あるが、それがどうかしたのか？
+[name="Yogi"]  Yes. Why?
+[name="요기"]  그래, 근데 그게 왜?
+
+[name="嘉维尔"]  .......
+[name="ガヴィル"]  ……
+[name="Gavial"]  ......
+[name="가비알"]  ……
+
+[name="嘉维尔"]  抱歉啊，博士，看来无论如何，我必须去找祖玛玛一趟了。
+[name="ガヴィル"]  わりぃな、ドクター。どうやらどうしても、ズゥママともう一度会う必要があるらしい。
+[name="Gavial"]  I’m sorry, Doctor. No matter what, I have to pay Zumama a visit.
+[name="가비알"]  미안. 박사, 아무래도 나 주마마한테 한번 다녀와야겠어.
+
+[Decision(options="因为“石头病”？;......;看来观光要暂缓了。",values="1;2;3")]
+[Decision(options="「石塊病」のためだな？;……;観光は後回しか。",values="1;2;3")]
+[Decision(options="Because of the \"Stone Disease\"?;......;I guess sightseeing can wait.",values="1;2;3")]
+[Decision(options="……'돌멩이병' 때문에?;……;관광은 잠시 미뤄야겠군.",values="1;2;3")]
+
+[name="嘉维尔"]  不愧是博士，一下就想到了我在想的东西。
+[name="ガヴィル"]  さすがドクター、アタシの考えがよくわかってんじゃねぇか。
+[name="Gavial"]  Nothing gets past you, Doctor.
+[name="가비알"]  역시 박사야. 단번에 내 생각을 짐작해내다니.
+
+[name="嘉维尔"]  博士你这么聪明，应该已经察觉了吧。
+[name="ガヴィル"]  頭の良いドクターなら、もう察してるだろ。
+[name="Gavial"]  You’re the Doctor, you definitely know why.
+[name="가비알"]  박사는 똑똑하니까, 이미 알아차렸겠지.
+
+[name="嘉维尔"]  抱歉啊，博士，但是这件事我不做不行。
+[name="ガヴィル"]  ああわりぃな、でもやんなきゃなんねぇことなんだ。
+[name="Gavial"]  Sorry again, Doctor. But I have to do this.
+[name="가비알"]  미안, 박사. 하지만 이 일은 내 손으로 끝내야 해.
+
+[name="嘉维尔"]  博士，我们这里和外界几乎没有什么联系，对你和其他干员来说，一定是个很落后的地方吧。
+[name="ガヴィル"]  ここは外とはほとんど関わらない閉鎖的なとこだ。ドクターや他のオペレーターたちからすれば、すごく原始的に思えるだろうな。
+[name="Gavial"]  Our tribes don’t have much contact with the outside world. To you and the other operators, we’re a primitive backwater.
+[name="가비알"]  박사, 여긴 바깥세상과 거의 접촉이 없어. 박사랑 다른 오퍼레이터 눈에 여긴 분명 낙후된 곳이겠지.
+
+[name="嘉维尔"]  但这样的地方也有这样的地方的好处，那就是，你也听到了，在我们这里，矿石病只是一种被叫做“石头病”的普通疾病。
+[name="ガヴィル"]  だけど、だからこそ良いことだってあるんだ。聞いての通り、鉱石病はここじゃ「石塊病」って呼ばれる普通の病気に過ぎない。
+[name="Gavial"]  But there is one good thing about this place. You heard it, right? They call Oripathy  "Stone Disease" and treat it like an ordinary malady.
+[name="가비알"]  하지만 이곳만의 장점도 있어. 박사도 들었겠지만, 여기서 광석병은 '돌멩이병'이라고 불리는 평범한 질병 취급이야.
+
+[name="嘉维尔"]  偶尔会有人染上它，也会有人因为这种病死去。但是对我们来说，它没有什么特殊的，因为什么病都有人死。
+[name="ガヴィル"]  それで死ぬヤツはもちろんいる。だけどここじゃ「石塊病」だけが特別な病気じゃねぇんだ。どんな病気でも、死ぬ時は死ぬからな。
+[name="Gavial"]  Sometimes people catch it, sometimes they die of it. But nobody thinks it’s anything special, because people here die from lots of things.
+[name="가비알"]  가끔 감염되는 사람도 있고, 그 병으로 죽는 사람도 있지만, 우리한테 그 병이 특별하진 않아. 어떤 병이든 죽는 사람은 나오니까.
+
+[name="嘉维尔"]  大家会像照顾普通病人一样照顾得了矿石病的人，而大家对它唯一的了解，就是去矿场可能会得这种病。
+[name="ガヴィル"]  ここのヤツらには、「石塊病」は鉱石の採掘場で罹る病気って知識しかない。だからみんな普通の病人と同じように鉱石病患者の面倒を見るんだ。
+[name="Gavial"]  Everyone looks after Oripathy patients like they’re just regular sick people. All they know about the disease is you can catch it in the mines.
+[name="가비알"]  다들 일반 병자를 돌보듯 광석병 환자를 돌봐. 사람들이 아는 건 딱 하나, 광산에 가면 그 병에 걸릴 수도 있다는 정도야.
+
+[name="嘉维尔"]  所以在很久以前，就已经很少有人去矿场了。
+[name="ガヴィル"]  病気に罹りたいヤツなんていねぇし、昔から採掘場に行くヤツはほとんどいなかったはずなんだが……
+[name="Gavial"]  So very few people go into the mines. It’s been that way for a long time.
+[name="가비알"]  그래서 오래전부터 광산에 가는 사람이 거의 없었지.
+
+[Decision(options="你的矿石病......", values="1")]
+[Decision(options="ではガヴィルの鉱石病は……", values="1")]
+[Decision(options="Your Oripathy...", values="1")]
+[Decision(options="네 광석병은…", values="1")]
+
+[name="特米米"]  嘉维尔的病是为了救我才得的。
+[name="トミミ"]  私を助けるために罹ったんです。
+[name="Tomimi"]  Gavial caught it when she saved me.
+[name="토미미"]  가비알 씨는 절 구하려다 병에 걸린 거예요.
+
+[name="嘉维尔"]  嗯，当时特米米这孩子还小，有一次溜进矿场深处，我去救她，回来之后就得了病。
+[name="ガヴィル"]  当時、こんなちっこかったトミミが、採掘場の奥に迷い込んでさ。アタシが助けに行ったんだけど、帰ってきたら鉱石病になってたんだ。
+[name="Gavial"]  Yeah. When Tomimi was little, she snuck into the depths of the mines. I went to rescue her, and I got sick.
+[name="가비알"]  맞아. 그때 토미미가 아직 어려서 광산에 몰래 들어갔거든. 난 구하러 갔다가 걸린 거고.
+
+[name="嘉维尔"]  幸好她没有得。
+[name="ガヴィル"]  こいつが罹らなくて良かったけどよ。
+[name="Gavial"]  Lucky she didn’t.
+[name="가비알"]  다행히 토미미는 안 걸렸지만.
+
+[name="特米米"]  要是我替嘉维尔得就好了......
+[name="トミミ"]  ガヴィルさんの代わりに、私が鉱石病になれば良かったのに……
+[name="Tomimi"]  If only I got it instead...
+[name="토미미"]  가비알 씨 대신 제가 걸렸으면 좋았을 텐데…
+
+[name="嘉维尔"]  不许说这种话，谁得病都不好，得了病也只能说运气不好。
+[name="ガヴィル"]  そんなこと言うんじゃねぇよ。病気になっていいヤツなんかいねぇんだ。アタシもただ運が悪かっただけさ。
+[name="Gavial"]  Don’t you dare say that. Getting sick is a terrible thing. It’s just bad luck.
+[name="가비알"]  그런 소리 하지 마. 병에 걸려서 좋을 게 뭐 있다고. 걸렸다면… 그냥 운이 나빴다고 할 수밖에.
+
+[name="特米米"]  呜......
+[name="トミミ"]  うぅ……
+[name="Tomimi"]  (Whimper)
+[name="토미미"]  흐흑……
+
+[Decision(options="所以，你真的是被排挤才离开这里的？", values="1")]
+[Decision(options="鉱石病が普通の病気なら、何で「ハブられた」んだ？", values="1")]
+[Decision(options="So they really ostracized you out of here?", values="1")]
+[Decision(options="그래서 넌, 정말 배척당해 이곳을 떠난 거야?", values="1")]
+
+[name="嘉维尔"]  博士，你问这个问题好几次了吧。
+[name="ガヴィル"]  ドクター、何回聞くんだよ。
+[name="Gavial"]  You’ve asked that a couple of times, Doctor.
+[name="가비알"]  박사, 이 질문만 벌써 몇 번째네.
+
+[name="嘉维尔"]  自从我得了病后，其他族人什么事都不让我做，打猎不让我去，聚会不让我参加。
+[name="ガヴィル"]  アタシが病気になってからっつーもの、部族のみんなはアタシに何もやらせてくれなくなったんだ。猟にも、集会にも参加禁止なんて言いやがってさ。
+[name="Gavial"]  After I got sick, the other tribespeople wouldn’t let me do anything. I couldn’t hunt, I couldn’t even go to a gathering.
+[name="가비알"]  내가 병에 걸린 후부터 다들 나한테 아무것도 못 하게 했어. 사냥도 못 하게 하고 파티에도 못 가게 했지.
+
+[name="嘉维尔"]  尤其是特米米这丫头，干脆从别的部族跑过来，天天粘着我，什么都帮我做了，害我什么都做不了。
+[name="ガヴィル"]  特にトミミは、毎日わざわざ他の部族からやって来て、なんでも代わりにやってくれちゃってさ。おかげでアタシは、ほんとになんもできやしねぇ。
+[name="Gavial"]  And the little runt Tomimi here was the worst. She came over from her tribe and stuck to me like glue. She did everything for me, and I had nothing to do.
+[name="가비알"]  특히 요 토미미 녀석이 아예 우리 부족으로 와 매일 곁에 달라붙어서는 뭐든 날 대신 했어. 내가 아무것도 못 하게 될 정도로.
+
+[name="嘉维尔"]  最后，连祭典他们干脆都不想让我参加。
+[name="ガヴィル"]  挙句の果てに、祭典にも参加させてくれないときた。
+[name="Gavial"]  In the end, they wouldn’t even let me join the ceremony.
+[name="가비알"]  나중에는 사람들이 나한테 제전에도 참가하지 말라고 하더라고.
+
+[name="嘉维尔"]  渐渐的，所有人都用一种“嘉维尔你什么都不要做了，我们会帮你做好”的方式对待我......但这并不是我想要的。
+[name="ガヴィル"]  いつの間にか、「ガヴィルは何もしなくていい。代わりに全部やってやるから」みたいな扱いになっててさ……アタシはそんなの望んでないってのに。
+[name="Gavial"]  Day after day, time after time, it was "Oh no, Gavial, let me do that for you," you know what I mean...? That’s no life for me.
+[name="가비알"]  그렇게 사람들은 모두 "가비알 넌 아무것도 하지 마, 우리가 다 해줄게" 뭐 이런 식이 되었지…… 근데 난 그런 걸 원한 게 아니었거든.
+
+[name="特米米"]  嘉维尔从那个时候开始就不怎么笑了......
+[name="トミミ"]  あの頃から、ガヴィルさんはほとんど笑わなくなりました……
+[name="Tomimi"]  Gavial didn’t smile much after that...
+[name="토미미"]  가비알 씨는 그때부터 잘 웃지 않게 됐어요…
+
+[name="嘉维尔"]  所以我一怒之下，才在祭典途中一个人冲上去把所有人打了一顿。
+[name="ガヴィル"]  だからカッとなって、祭典に乱入して全員ボコったんだ。
+[name="Gavial"]  I was so pissed off, I went to the ceremony anyway, and beat the tar out of everyone I saw on the way.
+[name="가비알"]  난 화가 나서 제전에 뛰어들었고, 사람들을 모조리 때려눕혔어.
+
+[name="特米米"]  呜呜，都怪我当时太想照顾嘉维尔了......
+[name="トミミ"]  うう、私がガヴィルさんのお世話をし過ぎたせいで……
+[name="Tomimi"]  *Sob*, I shouldn’t have been so pushy, Gavial...
+[name="토미미"]  흐흑…… 다 제 탓이에요. 제가 너무 가비알 씨를 돌보고 싶어서…
+
+[Decision(options="......确实这也是一种排挤。;......;我也想体验这种排挤啊！",values="1;2;3")]
+[Decision(options="……確かにそれはある意味、「ハブられた」と言えるな。;……;そんな風に「ハブられて」みたい！",values="1;2;3")]
+[Decision(options="...That really is a kind of ostracization.;......;Sure wish someone would ostracize me like that!",values="1;2;3")]
+[Decision(options="……그것도 일종의 배척이지.;……;나도 그런 배척 당해보고 싶네!",values="1;2;3")]
+
+[name="嘉维尔"]  其实吧，在我们这里，不能打或者没有活力的人，那就是废人。
+[name="ガヴィル"]  ここじゃ戦えねぇヤツとイキイキしてねぇヤツは、みんな廃人と同じだ。
+[name="Gavial"]  The reality is, around here, if you can’t fight, you’re nothing. A waste of space.
+[name="가비알"]  사실, 여기선 싸울 수 없는 사람이나 기운 없는 사람이 폐인 취급을 받거든.
+
+[name="嘉维尔"]  我宁愿你让我做些危险的事，也不想被限制自由什么都做不了。
+[name="ガヴィル"]  不自由な思いをするくらいなら、危険なことをさせられるほうがマシさ。
+[name="Gavial"]  I’d rather you let me put myself in danger than take away my freedom to do anything.
+[name="가비알"]  내게 위험한 일을 시키는 건 환영이지만, 자유를 구속당하면서 아무것도 못 하게 되는 건 사양이라고.
+
+[name="嘉维尔"]  博士，你是不是觉得很可笑？
+[name="ガヴィル"]  鉱石病患者がそんな風に扱われるなんて、笑えてくるだろ？
+[name="Gavial"]  Doctor, don’t you think this is funny?
+[name="가비알"]  박사, 웃기지 않아?
+
+[name="嘉维尔"]  但其实我也觉得很可笑，我出来之后才知道，原来矿石病是那么被人厌恶的一种病。
+[name="ガヴィル"]  外じゃ鉱石病患者があれほど嫌われるって知った今となっては、アタシも笑えるよ。
+[name="Gavial"]  I think it’s funny. Only after I left the tribe did I realize what kind of hatred people have for Oripathy sufferers.
+[name="가비알"]  사실 내가 생각해도 웃겨. 난 부족을 떠나서야 알았어. 광석병이 그렇게 혐오스러운 병이란 걸.
+
+[name="嘉维尔"]  我花了很长时间才了解清楚所有的现实。
+[name="ガヴィル"]  それからアタシも時間をかけて、ゆっくり現実を受け入れてった。
+[name="Gavial"]  It took me a long time to figure that out.
+[name="가비알"]  긴 시간이 흘러서야 현실을 깨달았지.
+
+[name="嘉维尔"]  啧，博士，说话小心点，不然我揍你。
+[name="ガヴィル"]  おいドクター、言葉を選べよ。ぶん殴るぞ。
+[name="Gavial"]  Tch, watch that tongue of yours, Doctor, or I’ll rip it out.
+[name="가비알"]  말조심해. 그러다 나한테 진짜 맞는다.
+
+[name="嘉维尔"]  我知道你的意思，在外面，被人唾弃才是矿石病患者的常态。
+[name="ガヴィル"]  言わんとしてることはわかる。外じゃ忌み嫌われて差別されるのが普通だもんな。
+[name="Gavial"]  But I know what you mean. Out there, discrimination is what you get as an Oripathy patient.
+[name="가비알"]  무슨 말인지 알아. 바깥세상에서 광석병 환자는 미움받는 게 일상이라는 거.
+
+[name="嘉维尔"]  但对那时的我来说，这可是真正的煎熬。
+[name="ガヴィル"]  だけどあの頃のアタシにとっては、気遣いは差別と同じだった。
+[name="Gavial"]  What I went through back then, though, that was still torture for me.
+[name="가비알"]  하지만 그때 난 너무 괴로웠거든.
+
+[name="嘉维尔"]  不对，被你带歪了，我要说的不是这个。
+[name="ガヴィル"]  おっと、お前のせいで話がそれちまった。アタシが言いたいのはこんなことじゃねぇ。
+[name="Gavial"]  Hey, you got me off on a tangent there. This isn’t what I wanted to talk about.
+[name="가비알"]  이게 아니지, 너 때문에 엉뚱한 소릴 했잖아. 이 말 하려 했던 게 아닌데.
+
+[name="嘉维尔"]  嗯？我要说什么来着？
+[name="ガヴィル"]  えーっと、何だったか……
+[name="Gavial"]  Hmm... What was I saying?
+[name="가비알"]  어라? 아까 무슨 얘기 할라 그랬지?
+
+[Decision(options="钢铁怪兽。;......;欠我钱的事。",values="1;2;3")]
+[Decision(options="鋼鉄のバケモン。;……;やっと金を返す気になったか。",values="1;2;3")]
+[Decision(options="Big metal monster.;......;The cash you owe me.",values="1;2;3")]
+[Decision(options="강철 짐승.;……;나한테 돈 빌린 거.",values="1;2;3")]
+
+[name="嘉维尔"]  哦对。
+[name="ガヴィル"]  ああそうだそうだ。
+[name="Gavial"]  Oh, right.
+[name="가비알"]  아 맞다 맞다.
+
+[name="嘉维尔"]  博士你倒是也帮我想一想。
+[name="ガヴィル"]  なぁ、さっきは何の話をしてたっけ？
+[name="Gavial"]  Doctor, help me out here.
+[name="가비알"]  박사도 생각 좀 해 봐.
+
+[name="嘉维尔"]  哦，我想起来了。
+[name="ガヴィル"]  ……おっと、思い出した。
+[name="Gavial"]  Oh, I got it.
+[name="가비알"]  아, 생각났다.
+
+[name="嘉维尔"]  放屁。
+[name="ガヴィル"]  ほざけ。借りてねぇよ。
+[name="Gavial"]  Bullshit.
+[name="가비알"]  아 그래 돈 빌… 죽는다 진짜.
+
+[name="嘉维尔"]  哦，想起来了。
+[name="ガヴィル"]  おっと、思い出した。
+[name="Gavial"]  Oh, I got it.
+[name="가비알"]  아, 생각났다.
+
+[name="嘉维尔"]  我要说的是，之前看到的时候没细想，但是仔细想想，那台怪兽，明显用到了许多铁矿。
+[name="ガヴィル"]  アタシが言いたいのは、あのバケモンは鉄鉱石を大量に使って作ったに違いねぇってことだ。
+[name="Gavial"]  I was thinking about how that great big monster of a machine must’ve taken a ton of iron ore to build.
+[name="가비알"]  내가 하려던 말은, 전에 봤을 땐 별생각 안 했는데 곰곰이 생각해보니 그 짐승, 철광석을 무진장 쓴 게 분명해.
+
+[name="嘉维尔"]  再加上祖玛玛说的话。也就是说，祖玛玛那家伙，绝对让手下去开采铁矿了。
+[name="ガヴィル"]  つまりズゥママは、あいつを作るために、子分に鉄鉱石を採りに行かせてたかもしれねぇんだ。
+[name="Gavial"]  Put that together with what Zumama was saying,  and we know she definitely sent her people down into the mines to get that ore.
+[name="가비알"]  거기다 주마마의 말을 생각해 봐. 주마마 그 녀석은 분명 부하에게 철광석을 채굴시켰을 거야.
+
+[name="特米米"]  这么说起来，确实有听说过呢。
+[name="トミミ"]  そういえば、そんな話を聞いたことがあります。
+[name="Tomimi"]  Now that you mention it, I have heard something like that.
+[name="토미미"]  듣고 보니 그런 얘길 들은 적이 있긴 해요.
+
+[name="嘉维尔"]  本来这也就算了，只是在外围开采的话，不会有很大问题。
+[name="ガヴィル"]  外側で少し採掘してただけだったら、大した問題じゃなかった。
+[name="Gavial"]  Now I’ve got no problem with that, on its face. If she just had them digging around on the outside, no big deal.
+[name="가비알"]  원래는 무시하려고 했어. 외곽만 채굴했다면 큰 문제는 없을 테니까.
+
+[name="嘉维尔"]  但既然出现了得病的人，我不能坐视不理。
+[name="ガヴィル"]  だが患者まで出たってなると、話は変わってくる。
+[name="Gavial"]  But now people are getting sick, and I have to do something.
+[name="가비알"]  하지만 병에 걸린 사람이 나타난 이상, 가만히 있을 순 없지.
+
+[name="嘉维尔"]  她想要搞什么机械时代我不管，但她如果忽视其他人的生命，那我就必须给她来几拳。
+[name="ガヴィル"]  機械の時代を創りたいなら創ればいい。けど、他人の命を蔑ろにするような真似をするってんなら、何発かブン殴ってやらねぇと。
+[name="Gavial"]  I don’t care about her age of machines or whatever. If she’s throwing away lives, she’s earned a clobbering.
+[name="가비알"]  기계 시대니 뭐니 난 상관 안 해. 하지만 주마마가 사람 목숨을 가볍게 여긴다면, 꼭 몇 대 먹여주고 말겠어.
+
+[Decision(options="我支持你。;......;成为了好医生啊，嘉维尔。",values="1;2;3")]
+[Decision(options="応援する。;……;いい医者になったな、ガヴィル。",values="1;2;3")]
+[Decision(options="You have my full support.;......;You’re a good doctor, Gavial.",values="1;2;3")]
+[Decision(options="응원할게.;……;좋은 의사가 됐구나, 가비알.",values="1;2;3")]
+
+[name="嘉维尔"]  谢谢你，博士。
+[name="ガヴィル"]  サンキューな、ドクター。
+[name="Gavial"]  Thanks, Doctor.
+[name="가비알"]  고마워, 박사.
+
+[name="嘉维尔"]  哦哦，博士的眼神也变得尖锐起来了。
+[name="ガヴィル"]  おっ、ドクターも目つきが変わったぜ。
+[name="Gavial"]  Ooh, you’ve got that penetrating gaze, Doctor.
+[name="가비알"]  오오, 박사 눈빛도 날카로워졌는데.
+
+[name="嘉维尔"]  嘿，那当然。
+[name="ガヴィル"]  へっ、当然だ。
+[name="Gavial"]  Hah, but of course.
+[name="가비알"]  헤헷, 당연하지.
+
+[name="特米米"]  嘉维尔......
+[name="トミミ"]  ガヴィルさん……
+[name="Tomimi"]  Gavial...
+[name="토미미"]  가비알 씨…
+
+[name="特米米"]  ......
+[name="トミミ"]  ……
+[name="Tomimi"]  ......
+[name="토미미"]  ……
+
+[name="嘉维尔"]  特米米，祖玛玛的部族在哪儿？
+[name="ガヴィル"]  トミミ、ズゥママの部族の縄張りはどこだ？
+[name="Gavial"]  Tomimi, where is Zumama’s tribe?
+[name="가비알"]  토미미, 주마마의 부족은 어딨지?
+
+[name="特米米"]  诶，我也不知道。
+[name="トミミ"]  えっ、私も知りません……
+[name="Tomimi"]  Um, I don’t know.
+[name="토미미"]  아… 저도 잘 몰라요.
+
+[name="尤吉"]  喂，嘉维尔，我才不管你怎么想当医生的事，我哥哥到底怎么样了？
+[name="ヨギ"]  ガヴィル、機械だとか医者だとかはどうでもいい。兄貴の様子はどうなんだよ？
+[name="Yogi"]  Hey, Gavial, I’m really not interested in your hopes and dreams and ideals here. What’s up with my brother?
+[name="요기"]  가비알, 네가 어떤 의사가 되든 난 상관없어. 우리 형은 대체 어떻게 되는 거지?
+
+[name="嘉维尔"]  嗯？你听得懂我们说的萨尔贡语？
+[name="ガヴィル"]  ん？　お前、サルゴン語がわかるのか？
+[name="Gavial"]  Huh? You can understand our Sargonian?
+[name="가비알"]  응? 우리가 한 사르곤어를 알아들은 거야?
+
+[name="尤吉"]  听得懂啊，因为族长有在教我们。
+[name="ヨギ"]  ああ、族長に教わったんだ。
+[name="Yogi"]  Yes. The leader taught all of us.
+[name="요기"]  그래. 족장이 가르쳐줬거든.
+
+[name="嘉维尔"]  ......祖玛玛那家伙，究竟想干什么。
+[name="ガヴィル"]  ……ズゥママのヤツ、いったい何を考えてんだ。
+[name="Gavial"]  ...What is that Zumama up to?
+[name="가비알"]  주마마 그 녀석…… 대체 뭘 하려는 거야.
+
+[name="嘉维尔"]  啧，不管这个。总之，特米米，让你的人把这个人送回你的部族，让在那里的Lancet-2先对这个人进行一些治疗。
+[name="ガヴィル"]  チッ、まあいい。トミミ、子分たちに言ってこいつの兄貴をお前の部族のとこまで運んでやれ。まずはLancet-2に治療してもらおう。
+[name="Gavial"]  Whatever. Anyway, Tomimi, get your minions to carry this one back to your tribe. Have Lancet-2 start treating him.
+[name="가비알"]  쳇, 뭐 됐다… 아무튼 토미미, 우선 너희 쪽 사람한테 이 사람을 너희 부족으로 옮기게 하고, 거기 있는 Lancet-2한테 치료를 진행하라고 해줘.
+
+[name="尤吉"]  喂，你要干什么！
+[name="ヨギ"]  おい、なにする気だ！
+[name="Yogi"]  Hey, what are you doing?!
+[name="요기"]  어이, 어쩔 셈이야!
+
+[name="嘉维尔"]  不想让你哥哥死的话，就把他交给我，相信我。
+[name="ガヴィル"]  兄貴を死なせたくねぇなら、アタシの言うことを聞いとけ。
+[name="Gavial"]  If you want your brother to live, you’ll put your trust in me.
+[name="가비알"]  네 형 죽는 꼴 보기 싫으면, 나한테 맡기고 날 믿어.
+
+[name="特米米"]  ......这样的话，我也一起把他带回去吧。
+[name="トミミ"]  ……でしたら、私も運ぶのを手伝います。
+[name="Tomimi"]  ...Okay then, I’ll take him back with me.
+[name="토미미"]  ……그럼 저도 같이 옮길게요.
+
+[name="嘉维尔"]  嗯？你不跟我一起去吗？
+[name="ガヴィル"]  ん？　お前はアタシと来ねえのか？
+[name="Gavial"]  Oh? You’re not coming with me?
+[name="가비알"]  어? 나랑 같이 안 가?
+
+[name="特米米"]  啊，不、不是！我当然想和嘉维尔你一起去，只是我有些事情要准备，之后我会追上你们的！
+[name="トミミ"]  あ、い、いいえ！　もちろんガヴィルさんと一緒に行きたいんですけど、準備をしなくちゃいけないことがあるんです。後で追いつきますから！
+[name="Tomimi"]  Ah! N-No! Of course I want to go with you, Gavial. But I have a few things that need doing first. I’ll catch up with you later!
+[name="토미미"]  어, 아, 아뇨! 저야 당연히 가비알 씨와 가고 싶죠. 준비할 게 있어서 그래요, 준비 끝나면 뒤따라갈게요!
+
+[name="嘉维尔"]  什么事，要我帮忙吗？
+[name="ガヴィル"]  何の準備だ？　手伝ってやろうか？
+[name="Gavial"]  What things? Need my help?
+[name="가비알"]  뭔데? 도와줄까?
+
+[name="特米米"]  不、不用！我自己就可以解决的！
+[name="トミミ"]  だ、大丈夫です！　自分でできますから！
+[name="Tomimi"]  N-No! I can take care of it myself!
+[name="토미미"]  괘, 괜찮아요! 저 혼자서 할 수 있어요!
+
+[name="特米米"]  嘉维尔，你还记得大瀑布吗？我们就在那里汇合吧！
+[name="トミミ"]  ガヴィルさん、大滝の場所は覚えてますか？　あそこで待ち合わせるのはどうですか？
+[name="Tomimi"]  Gavial, do you remember the great waterfall? We’ll meet up there!
+[name="토미미"]  가비알 씨, 커다란 폭포 기억하죠? 우리 거기서 합류해요!
+
+[name="嘉维尔"]  行。
+[name="ガヴィル"]  覚えてる。じゃあそうしよう。
+[name="Gavial"]  Okay.
+[name="가비알"]  좋아.
+
+[name="尤吉"]  好吧，你是嘉维尔，我相信你，但我也要一起去！
+[name="ヨギ"]  わかった、ガヴィルが言うなら信じる。だけどオレも一緒に行く！
+[name="Yogi"]  Alright. You’re the one and only Gavial, I trust you. But I’m going with!
+[name="요기"]  좋아, 믿을게. 넌 가비알이니까. 대신 나도 같이 간다!
+
+[name="嘉维尔"]  不用，你去了也没用，而且我有事让你去做。
+[name="ガヴィル"]  いや、来るな。お前が来ても役に立たねぇ。それにお前にはやって欲しいことがあんだ。
+[name="Gavial"]  No, you won’t be any help. And there’s something I need you to do for me.
+[name="가비알"]  아니, 넌 가도 소용없어. 게다가 너한텐 시킬 일이 있거든.
+
+[name="尤吉"]  什么？
+[name="ヨギ"]  なんだ？
+[name="Yogi"]  What?
+[name="요기"]  뭐?
+
+[name="嘉维尔"]  你回去告诉祖玛玛，我有事要找她。
+[name="ガヴィル"]  部族んとこに戻って、ズゥママにアタシが探してたことを伝えといてくれ。
+[name="Gavial"]  Go tell Zumama we need to have a talk.
+[name="가비알"]  가서 주마마한테 전해. 볼일이 있으니 내가 찾아가겠다고.
+

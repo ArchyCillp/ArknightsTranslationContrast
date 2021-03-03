@@ -1,0 +1,365 @@
+[name="嘉维尔"]  博士，我稍微逛了一圈，没有看到其他人的样子。
+[name="ガヴィル"]  ドクター、少し回ってみたが、他のみんなはいなかったぞ。
+[name="Gavial"]  Doctor, I took a quick stroll around. Didn’t seem like there were any others.
+[name="가비알"]  박사, 방금 한 바퀴 돌아봤는데, 다른 사람들은 못 봤어.
+
+[name="嘉维尔"]  看来我们可能要在祭典结束后再去雨林里找她们了。
+[name="ガヴィル"]  祭典が終わったあと、ジャングルを探索しないとダメそうだな。
+[name="Gavial"]  Looks like we’re gonna have to head back into the rainforest to look for her bunch after this.
+[name="가비알"]  아무래도 제전이 끝난 다음에 열대우림으로 가서 다시 찾아봐야 할 것 같아.
+
+[name="佩塔"]  ——！（胜利的战吼）
+[name="ペータ"]  ――！（勝利の雄叫び）
+[name="Peta"]  ——! (Cry of victory)
+[name="페타"]  우오오오오오오!!!!!!
+
+[name="特米米"]  啊，是佩塔赢了。
+[name="トミミ"]  あっ、ペータが勝ちました。
+[name="Tomimi"]  Oh, Peta won.
+[name="토미미"]  아, 페타가 이겼네요.
+
+[name="嘉维尔"]  这个叫佩塔的家伙挺能干啊，我都想和他打一架了。
+[name="ガヴィル"]  あのペータってヤツは中々やるねぇ。一回やり合ってみてぇ。
+[name="Gavial"]  This Peta’s pretty good. Makes me wanna rumble with him, actually.
+[name="가비알"]  페타라는 녀석, 꽤 하는데? 나도 한번 붙어보고 싶네.
+
+[name="特米米"]  嗯，他是我的部族的勇士。
+[name="トミミ"]  ペータは私の部族の勇士です。
+[name="Tomimi"]  Mm-hm! He’s one of my tribe’s warriors.
+[name="토미미"]  네, 페타는 저희 부족의 용사예요.
+
+[name="特米米"]  但是，他肯定没有嘉维尔厉害。
+[name="トミミ"]  でも、きっとガヴィルさんには敵いませんね。
+[name="Tomimi"]  But he’s definitely not as good as you, Gavial.
+[name="토미미"]  하지만 가비알 씨보다 뛰어나진 않을 거예요.
+
+[name="嘉维尔"]  哈哈，那可说不好呢。
+[name="ガヴィル"]  ハハ、そいつはどうかな。
+[name="Gavial"]  Haha, easy enough to say.
+[name="가비알"]  하하, 그건 모르는 일이지.
+
+[name="特米米"]  嘉维尔可是在小时候就差点夺得了大酋长的位置呢！才不会输给佩塔！
+[name="トミミ"]  だってガヴィルさんはあんな小さい頃に、もう少しで大族長ってところまでいったじゃないですか！　ペータなんかに負けるはずがありません！
+[name="Tomimi"]  Come on, Gavial! You already came so close to becoming Great Chief over when we were little!  Like you could lose to Peta!
+[name="토미미"]  가비알 씨는 어렸을 때도 대족장의 자리를 차지할 뻔했잖아요! 페타에게 질 리 없어요!
+
+[Decision(options="小时候？",values="1")]
+[Decision(options="小さい頃？",values="1")]
+[Decision(options="When you were little?",values="1")]
+[Decision(options="어렸을 때?",values="1")]
+
+[name="嘉维尔"]  嗯？哦，是那一次啊。
+[name="ガヴィル"]  ん？　ああ、あのときか。
+[name="Gavial"]  Hmm? Oh, yeah, that one time.
+[name="가비알"]  어? 아, 그때 말이구나.
+
+[name="嘉维尔"]  在我很小的时候，因为很有趣，其实有参加过一次祭典。
+[name="ガヴィル"]  アタシがまだガキンチョの頃、面白そうだなーって思って、一回祭典に出たことがあるんだ。
+[name="Gavial"]  I was super young. Thought the idea was so cool, I actually went in for the ceremony once.
+[name="가비알"]  사실 아주 어렸을 때, 꽤 재미있어 보여서 제전에 참가한 적이 있었거든.
+
+[name="特米米"]  嗯，那个时候的嘉维尔就已经非常厉害了！
+[name="トミミ"]  ガヴィルさんは昔からすっごく強かったんですよ！
+[name="Tomimi"]  Yeah, and you were already so super strong by then!
+[name="토미미"]  네, 그때의 가비알 씨는 이미 엄청났었다구요!
+
+[name="阿达克利斯勇士"]  嘎哈......
+[name="アダクリスの勇士"]  ガハッ……
+[name="Archosauria Warrior"]  Gah...
+[name="아다크리스 용사"]  크헉…
+
+[name="阿达克利斯冠军"]  荒野意志部族最强的家伙也不过如此！
+[name="アダクリスチャンピオン"]  ワイルドウィル族最強と言っても、この程度か！
+[name="Archosauria Champion"]  So that’s all you Wilderness’s Wills amount to!
+[name="아다크리스 챔피온"]  황야의 의지 부족에서 가장 강한 녀석도 고작 이 정도인가!
+
+[name="特米米"]  好、好厉害......
+[name="トミミ"]  つ、強い……
+[name="Tomimi"]  S-Strong...
+[name="토미미"]  가, 강하다……
+
+[name="阿达克利斯人A"]  啧，我们部族的勇士竟然被那么轻易地打败了。
+[name="アダクリス人A"]  クソっ、オレたちの勇士をあんな簡単に打ちのめすなんて。
+[name="Archosauria A"]  Pfeh. All our warriors taken down like nothing.
+[name="아다크리스A"]  칫, 우리 부족의 용사가 이렇게 쉽게 패하다니.
+
+[name="阿达克利斯人B"]  我们一起上吧！
+[name="アダクリス人B"]  全員で囲んでやろうぜ！
+[name="Archosauria B"]  Let’s go in together!
+[name="아다크리스B"]  다같이 덤비자!
+
+[name="阿达克利斯人A"]  不行啊，比人数我们更加比不过......这一次只能放弃了吗......
+[name="アダクリス人A"]  ダメだ、人数じゃなおさら敵わねぇ……今回は諦めるしかねぇよ……
+[name="Archosauria A"]  We can’t. No number at once will be enough... Can we only give up...?
+[name="아다크리스A"]  안 돼, 인원수로 따지면 우리가 훨씬 밀린다고…… 이번엔 포기해야만 하는 건가……
+
+[name="阿达克利斯冠军"]  还有谁要来挑战！没有的话，就由我来挑战大酋长！
+[name="アダクリスチャンピオン"]  挑戦者はもういねぇのか！　いねぇなら俺が大族長に挑戦するぞ！
+[name="Archosauria Champion"]  Who else wants to challenge me?! If you’re all done, then it’s just me versus the Great Chief!
+[name="아다크리스 챔피온"]  누가 도전할 테냐! 없으면 내가 대족장에 도전하겠다!
+
+[name="嘉维尔"]  我来！
+[name="ガヴィル"]  アタシがやる！
+[name="Gavial"]  I do!
+[name="가비알"]  내가 상대해주지!
+
+[name="阿达克利斯冠军"]  你是......荒野意志部族的孤儿嘉维尔？
+[name="アダクリスチャンピオン"]  お前は……ワイルドウィルのみなしご、ガヴィルだな？
+[name="Archosauria Champion"]  And you’re... Wilderness’s Will’s orphan, Gavial?
+[name="아다크리스 챔피온"]  넌…… 황야의 의지 부족의 고아 가비알?
+
+[name="阿达克利斯冠军"]  我听说你在小辈里很能打，但是小鬼没有资格参加祭典，滚回家去再喝几年奶吧。
+[name="アダクリスチャンピオン"]  若ぇヤツらの中ではそこそこの腕っぷしらしいが、祭典にガキの出番はねぇ。帰ってミルクでも飲んでな。
+[name="Archosauria Champion"]  I hear you’re a terror among the kids, but kids don’t join the ceremony. Run back home and drink your milk. You’ve got a few more years.
+[name="아다크리스 챔피온"]  어린애들 중에선 그나마 네가 꽤 한다고 들었다만, 꼬맹이에겐 제전에 참가할 자격이 없다. 집으로 꺼져서 우유나 몇 년 더 먹고 와라.
+
+[name="嘉维尔"]  哼，等你赢了我再说吧！
+[name="ガヴィル"]  ハッ、そんなこたぁアタシに勝ってから言いな！
+[name="Gavial"]  Hmph! Let’s see who wins first!
+[name="가비알"]  흥, 날 이긴 다음에 다시 지껄이시지!
+
+[name="阿达克利斯冠军"]  哈！不愧是孤儿，不怕死的吗！
+[name="アダクリスチャンピオン"]  おもしれぇ！　さすがみなしご、死ぬのが怖くねぇのか！？
+[name="Archosauria Champion"]  Hah! You really are an orphan. You don’t fear death?!
+[name="아다크리스 챔피온"]  허! 역시 고아 아니랄까 봐, 죽는 게 두렵지도 않은가 보군!
+
+[name="嘉维尔"]  部族的人就是我的亲人！少说废话，打不打！
+[name="ガヴィル"]  アタシはみなしごじゃねぇ！　部族のみんながアタシの家族だ！　うだうだ言ってねーで答えろ！　やんのか？　やんねぇのか？
+[name="Gavial"]  My tribespeople are my family! Cut the crap! Do you wanna go or not?!
+[name="가비알"]  부족 사람들 모두가 다 내 가족이야! 헛소리 집어치우고, 싸울 거냐 말 거냐!
+
+[name="阿达克利斯冠军"]  哼，小鬼，找死！
+[name="アダクリスチャンピオン"]  フンッ、生意気なガキめ！　後悔すんなよ！
+[name="Archosauria Champion"]  Heh! It’s your funeral, brat!
+[name="아다크리스 챔피온"]  흥, 애송이가! 죽고 싶은가 보군!
+
+[name="阿达克利斯冠军"]  不、不可能......只是两拳就......
+[name="アダクリスチャンピオン"]  バ、バカな……たった二発で……
+[name="Archosauria Champion"]  Im... Impossible... Just two punches...
+[name="아다크리스 챔피온"]  이, 이럴 수가…… 주먹 두 방에……
+
+[name="特米米"]  嘉维尔，好厉害......
+[name="トミミ"]  ガヴィルさん、すごい……
+[name="Tomimi"]  Gavial’s... so strong...
+[name="토미미"]  가비알 씨, 정말 굉장해요……
+
+[name="嘉维尔"]  哼，也不过就这样嘛！
+[name="ガヴィル"]  フンッ、威勢がいいのは口だけかよ！
+[name="Gavial"]  Hmph! I guess that’s all, then!
+[name="가비알"]  흥, 별것도 아니었잖아!
+
+[name="嘉维尔"]  还有谁来挑战！
+[name="ガヴィル"]  他に挑戦者はいるか！
+[name="Gavial"]  Who else wants some?
+[name="가비알"]  도전할 사람 더 없어?!
+
+[Decision(options="嘉维尔是孤儿？",values="1")]
+[Decision(options="ガヴィルは孤児なのか？",values="1")]
+[Decision(options="Gavial was an orphan?",values="1")]
+[Decision(options="가비알이 고아였다고?",values="1")]
+
+[name="特米米"]  嘉维尔没有说过吗？
+[name="トミミ"]  あれガヴィルさん、言ってなかったんですか？
+[name="Tomimi"]  Didn’t she ever tell you?
+[name="토미미"]  가비알 씨가 얘기 안 했나요?
+
+[name="嘉维尔"]  我没说过吗？
+[name="ガヴィル"]  ああ、そういえば話してなかったっけ？
+[name="Gavial"]  Didn’t I?
+[name="가비알"]  내가 말 안 했나?
+
+[name="嘉维尔"]  哦，我好像真的没有说过，毕竟也不是什么特别重要的事。
+[name="ガヴィル"]  まあ、大したことでもないからな。別に隠してたわけじゃないぜ。
+[name="Gavial"]  Eh. I guess I didn’t, but it’s not like it was important enough to come up.
+[name="가비알"]  아… 진짜 얘기 안 해줬나 보네. 뭐 어차피 딱히 중요한 일도 아니고.
+
+[name="嘉维尔"]  我不知道我的父母是谁，不过这在这里不是什么很少见的事。
+[name="ガヴィル"]  確かにアタシは親ってやつを知らねぇけど、そんなのここじゃ珍しくも何ともないんだ。
+[name="Gavial"]  Dunno who my parents were, but that’s not all that rare in these parts.
+[name="가비알"]  난 부모님이 누군지 몰라. 그래도 이게 여기서 드문 일은 아니지.
+
+[name="嘉维尔"]  博士，虽然你可能无法想象，在这里，人要死是非常简单的事。
+[name="ガヴィル"]  ここでは、簡単に人が死んでいく。
+[name="Gavial"]  Doctor, it may not make sense to you, but death is pretty common out here.
+[name="가비알"]  박사, 넌 아마 상상도 못하겠지만, 여기선 사람 죽는 게 일상다반사야.
+
+[name="嘉维尔"]  甚至不用天灾——其实这里的人根本不知道天灾是什么——一场感冒，一次恶劣天气说不定就会死不少人。
+[name="ガヴィル"]  天災が出しゃばる必要すらありゃしねぇ。風邪が流行っただけ、天気が荒れただけで、人がバタバタ倒れてくんだ。
+[name="Gavial"]  It doesn’t even take a Catastrophe—honestly, nobody here knows what Catastrophes are—a single cold or a bout of bad weather can kill off folks who would’ve lived otherwise.
+[name="가비알"]  심지어 재앙도 필요 없지…… 사실 이곳 사람들은 재앙이 뭔지도 몰라. 감기 한 번에, 악천후 한 번에 많은 사람들이 죽을 수도 있으니까.
+
+[name="嘉维尔"]  我想我的父母大概也就是这么随便死掉的吧。
+[name="ガヴィル"]  アタシの両親も、そうやってあっさり死んじまったんだろうな。
+[name="Gavial"]  I’d guess my parents just went like that.
+[name="가비알"]  우리 부모님도 아마 그렇게 돌아가셨지 않을까 싶어.
+
+[name="嘉维尔"]  哎，不说这个，反正你只要知道，我从小就是被部族的人一起养大的。
+[name="ガヴィル"]  まぁそんなことはどうでもいいんだ。アタシは部族のヤツらに育てられてデカくなったって事実は変わらねぇ。
+[name="Gavial"]  Eugh. Let’s quit this talk. All you need to know is the tribe raised me.
+[name="가비알"]  에잇… 이 얘기는 그만하자. 어쨌든, 내가 어릴 때부터 부족 사람들 손에 길러졌다는 것만 알면 돼.
+
+[name="特米米"]  嘉维尔......
+[name="トミミ"]  ガヴィルさん……
+[name="Tomimi"]  Gavial...
+[name="토미미"]  가비알 씨……
+
+[Decision(options="辛苦你了。;......;至少你现在比谁都健康。",values="1;2;3")]
+[Decision(options="苦労したんだな。;……;誰よりも健やかに育ったな。",values="1;2;3")]
+[Decision(options="You’ve come a long way.;......;Well, at least you’re healthier than anyone now.",values="1;2;3")]
+[Decision(options="고생이 많았겠네.;……;그래도 지금의 넌 지금 누구보다도 건강하잖아.",values="1;2;3")]
+
+[name="嘉维尔"]  别这样，博士，搞得我好像很可怜一样。
+[name="ガヴィル"]  よせって、ドクター、アタシが可哀想なヤツみたいじゃねぇか。
+[name="Gavial"]  You can quit it, Doctor. I don’t really need the pity treatment.
+[name="가비알"]  그러지 마, 박사. 무슨 내가 엄청 불쌍한 사람이라도 된 것 마냥……
+
+[name="嘉维尔"]  孤儿也不只是我，在我们这里，几个家庭一起养大几个孤儿是很常见的事。
+[name="ガヴィル"]  別にアタシ一人だけが孤児ってわけじゃねぇよ。たくさんの家で協力して孤児たちの面倒を見てくれるし、ここじゃよくあることだ。
+[name="Gavial"]  I’m not the only orphan ever. Plenty of families around here that link up and raise a bunch of ‘em together. It happens all the time.
+[name="가비알"]  나만 그런 게 아니야. 여기선 여러 집에서 고아 몇 명을 함께 키우는 일이 흔해.
+
+[name="嘉维尔"]  博士，别想太多。
+[name="ガヴィル"]  考え込んだって何にもなんねぇよ。
+[name="Gavial"]  Doctor, don’t overthink it.
+[name="가비알"]  박사, 그렇게 신경 쓸 필요 없어.
+
+[name="嘉维尔"]  我也是离开之后才知道，这种情况是不正常的。
+[name="ガヴィル"]  アタシはここを離れて初めて、ここの暮らしが特別だったってことを知ったが――
+[name="Gavial"]  I didn’t even know it was unusual until I left.
+[name="가비알"]  나도 여길 떠나고 나서야 이런 상황이 정상이 아니란 걸 알았으니까.
+
+[name="嘉维尔"]  这反而坚定了我学医的想法。
+[name="ガヴィル"]  それは全然、悲しいことじゃなかった。むしろアタシはそのおかげで医者を志す決心をしたんだ。
+[name="Gavial"]  Actually, I guess you could say it’s what made me decide to do medicine.
+[name="가비알"]  덕분에 의학을 하겠다는 생각이 더욱 확고해졌지.
+
+[name="嘉维尔"]  哈哈，没错。
+[name="ガヴィル"]  ハハ、そうだな。
+[name="Gavial"]  Haha. Yeah.
+[name="가비알"]  하하, 맞아.
+
+[Decision(options="所以那一次祭典的结果呢？",values="1")]
+[Decision(options="それで、そのときの祭典は結局どうなった？",values="1")]
+[Decision(options="So how’d that ceremony back then turn out?",values="1")]
+[Decision(options="그래서 그때 제전의 결과는 어땠어?",values="1")]
+
+[name="嘉维尔"]  那一次啊......
+[name="ガヴィル"]  あんときはな……
+[name="Gavial"]  That one, uh...
+[name="가비알"]  그때 말이지……
+
+[name="？？？"]  找到你了，可恶的赏金猎人！
+[name="？？？"]  見つけたぞ！　賞金稼ぎの悪党め！
+[name="???"]  Found you, you goshdarned bounty hunter!
+[name="???"]  찾았다! 이 나쁜 바운티 헌터 녀석!
+
+[name="佩塔"]  什么人？！
+[name="ペータ"]  オマエ、何者？
+[name="Peta"]  Who’s that?!
+[name="페타"]  누구냐?!
+
+[name="嘉维尔"]  嗯？这个声音......
+[name="ガヴィル"]  ん？　あの声は……
+[name="Gavial"]  Huh? I know that voice...
+[name="가비알"]  음? 이 목소리는……
+
+[name="刻俄柏"]  把博士还回来！
+[name="ケオベ"]  ドクターを返せ！
+[name="Ceobe"]  Give the Doctor back!
+[name="케오베"]  박사를 돌려줘!
+
+[name="佩塔"]  你在说什么？
+[name="ペータ"]  何言ってる？
+[name="Peta"]  What the hell are you talking about?
+[name="페타"]  뭐라는 거야?
+
+[name="嘉维尔"]  小刻？！
+[name="ガヴィル"]  ケーちゃん！？
+[name="Gavial"]  Kay?!
+[name="가비알"]  케오?!
+
+[name="嘉维尔"]  特米米，不是让你手下绑回部族去了吗？
+[name="ガヴィル"]  トミミ、お前の子分たちが縛り上げて連れてったんじゃねぇのか？
+[name="Gavial"]  Tomimi, didn’t we tell your people to tie her up and take her back to the tribe?
+[name="가비알"]  토미미, 네 부하들이 묶어서 마을로 데려가게 한 거 아니었나?
+
+[name="特米米"]  诶，是啊？
+[name="トミミ"]  えっ、そのはずですよ！
+[name="Tomimi"]  Um, I thought we did?
+[name="토미미"]  어라, 그랬었는데…?!
+
+[name="嘉维尔"]  这孩子力气不小，估计是直接挣脱了......
+[name="ガヴィル"]  ああ見えて怪力だし、自分で縄を引きちぎったのかもな……
+[name="Gavial"]  She’s real strong. Kid must’ve just plowed past everyone...
+[name="가비알"]  이 녀석, 힘이 꽤 세거든. 직접 풀고 나온 거 같네……
+
+[name="刻俄柏"]  赏金猎人，把博士交出来！
+[name="ケオベ"]  賞金稼ぎ、ドクターを返せ！
+[name="Ceobe"]  Bounty hunter! Hand the Doctor over!
+[name="케오베"]  바운티 헌터! 박사를 내놔!
+
+[name="刻俄柏"]  不然即使是追到大地的尽头我绝对不会放过你的！
+[name="ケオベ"]  じゃないと地の果てまで追いかけてやる！　絶対逃がさないぞ！
+[name="Ceobe"]  Or else I’m gonna chase you to the end of the world, if I hafta!
+[name="케오베"]  안 그럼 땅끝까지라도 쫓아갈 거야! 가만 안 둬!
+
+[name="嘉维尔"]  啧，这傻孩子看样子还没清醒过来。
+[name="ガヴィル"]  チッ、まだ正気に戻ってないみたいだな。
+[name="Gavial"]  Tch. Smartest girl ever. Looks like she still hasn’t even sobered up.
+[name="가비알"]  쳇… 이 바보 녀석이, 아직도 정신을 못 차렸나 보네.
+
+[name="佩塔"]  咕哈！
+[name="ペータ"]  ぐはっ！
+[name="Peta"]  Gahhh!
+[name="페타"]  크아악!
+
+[name="特米米"]  佩塔被打飞了！
+[name="トミミ"]  ペータがぶっ飛ばされました！
+[name="Tomimi"]  She sent Peta flying!
+[name="토미미"]  페타를 날려버렸네요!
+
+[name="阿达克利斯人A"]  她把佩塔干掉了！
+[name="アダクリス人A"]  あいつ、ペータを倒しちまいやがった！
+[name="Archosauria A"]  She finished Peta off!
+[name="아다크리스A"]  저 녀석이 페타를 쓰러뜨렸어!
+
+[name="阿达克利斯人B"]  好像很厉害的样子......
+[name="アダクリス人B"]  強そうだな……
+[name="Archosauria B"]  She’s insanely strong...
+[name="아다크리스B"]  엄청 강해 보이는데……
+
+[name="阿达克利斯人C"]  哪里来的怪胎？！哪个部族来的？！
+[name="アダクリス人C"]  なんなんだあの変なヤツは！？　どこの部族だ！？
+[name="Archosauria C"]  Where’d that weirdo come from?! Which tribe is she?!
+[name="아다크리스C"]  어디서 온 괴물이지?! 어디 부족이래?!
+
+[name="阿达克利斯人A"]  不知道，根本听不懂她在说什么！
+[name="アダクリス人A"]  さあ、何言ってんのかもさっぱり分からねえ！
+[name="Archosauria A"]  No idea! I don’t even understand what she’s saying!
+[name="아다크리스A"]  몰라, 무슨 말을 하는지도 모르겠는걸!
+
+[name="阿达克利斯人B"]  不管了，反正只要把她打败就行了吧？
+[name="アダクリス人B"]  構うな！　倒しちまえば同じだ！
+[name="Archosauria B"]  Forget it! All we gotta do is beat her, right?
+[name="아다크리스B"]  뭔 상관이야! 아무튼 저 녀석한테 이기기만 하면 되는 거잖아?
+
+[name="嘉维尔"]  啧，这帮人把小刻当成新的挑战者了吗......
+[name="ガヴィル"]  チッ、あいつら、ケーちゃんが新たな挑戦者だって勘違いしてやがる……
+[name="Gavial"]  Oh, damn it. Now they think Kay’s the new challenger, don’t they?
+[name="가비알"]  맙소사… 사람들이 케오를 새로운 도전자로 생각하고 있나 보네……
+
+[name="特米米"]  嘉维尔，要去帮忙吗？
+[name="トミミ"]  ガヴィルさん、助けに行きますか？
+[name="Tomimi"]  Gavial, should we go in and help?
+[name="토미미"]  가비알 씨, 가서 도와줄 거예요?
+
+[name="嘉维尔"]  等一等，这傻孩子战斗能力还是很强的，这种场面她应付得来，现在上去只会被误伤。
+[name="ガヴィル"]  いや、少し様子を見た方がいいな。ありゃおバカちゃんだけど喧嘩させたら強ぇから、たぶんどうにかなるだろ。アタシらが加わってもとばっちりを食らうだけだ。
+[name="Gavial"]  No, wait. The dumb little kid is way tougher than you’d think. She can handle this. If we go in, we’re just gonna add to the body count.
+[name="가비알"]  일단 지켜보자고. 저 바보 녀석이 그래도 전투력은 강하니까 아마 잘 대처할 수 있을 거야. 지금 올라갔다가 괜히 맞을 수도 있어.
+
+[name="嘉维尔"]  不过，场面恐怕会变得混乱起来，博士，指挥一下特米米的手下把场面控制住吧。
+[name="ガヴィル"]  だけどこのままだと周りも混乱しそうだな。ドクター、トミミの子分に指示を出して、なんとか場を収めてくれねぇか。
+[name="Gavial"]  But something tells me this might get messy. Doctor, see if you can help Tomimi’s lackeys get this under control.
+[name="가비알"]  그래도 예기치 못한 사태가 발생할 수도 있으니까, 박사가 토미미의 부하들을 지휘해서 상황을 통제해줘.
+

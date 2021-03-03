@@ -1,0 +1,335 @@
+[name="阿达克利斯人A"]  这个怪胎好厉害！已经打退了好几个人了！
+[name="アダクリス人A"]  あの変なガキったらすげぇな！　もう何人も倒したぞ！
+[name="Archosauria A"]  This weirdo’s way too strong! She’s beaten back so many of us already!
+[name="아다크리스A"]  저 괴물 녀석! 엄청나잖아! 벌써 몇 명이나 쓰러뜨린 거야!
+
+[name="阿达克利斯人B"]  虽然听不懂她在说什么，但是好强啊！
+[name="アダクリス人B"]  わけわかんねぇこと言ってるが、大したヤツだ！
+[name="Archosauria B"]  I still don’t get what she’s saying, but she’s no joke!
+[name="아다크리스B"]  저 녀석이 뭐라고 하는지는 모르겠지만, 확실히 강해!
+
+[name="阿达克利斯人C"]  让她来做大酋长感觉好像也不坏！
+[name="アダクリス人C"]  あいつが大族長になるのも悪くねぇな！
+[name="Archosauria C"]  I reckon she’d make a fine Great Chief!
+[name="아다크리스C"]  저 녀석이 대족장이 되는 것도 나쁘지 않은 것 같아!
+
+[name="特米米"]  ......嘉维尔，你的同伴好厉害。
+[name="トミミ"]  ……ガヴィルさんの仲間、ほんとに強いですね。
+[name="Tomimi"]  ...Gavial, your friend’s really strong.
+[name="토미미"]  가비알 씨…… 동료 분, 정말 대단하네요.
+
+[name="嘉维尔"]  虽然这种时候只会让人伤脑筋就是了。
+[name="ガヴィル"]  ああ。戦闘では頼りになる。こういう時の悩みのタネでもあるんだけどな。
+[name="Gavial"]  She sure is a pain in the ass at times like this though.
+[name="가비알"]  이럴 땐 골치 아프게 만들지만 말이야.
+
+[name="嘉维尔"]  不过总算稍微消停了，我上去制住她......
+[name="ガヴィル"]  ようやく落ち着いてきたな、そろそろアタシがケーちゃんを黙らせるとしよう……
+[name="Gavial"]  I think we finally hit a lull. I’m gonna go up there and restrain her...
+[name="가비알"]  그래도 살짝 얌전해진 것 같네. 내가 가서 제압해야……
+
+[name="刻俄柏"]  什么，整合运动，你们又来了！
+[name="ケオベ"]  なんだ、レユニオンめ、また来たのか！
+[name="Ceobe"]  You, Reunion! You’re back!
+[name="케오베"]  뭐야, 리유니온, 너네 또 왔냐!
+
+[name="刻俄柏"]  原来是你们抢走了博士吗！
+[name="ケオベ"]  ドクターを攫ったのはお前たちだったんだな！
+[name="Ceobe"]  So you were the ones who took the Doctor!
+[name="케오베"]  알겠다! 너희가 박사를 데려간 거구나!
+
+[name="刻俄柏"]  别跑！
+[name="ケオベ"]  逃げるなー！
+[name="Ceobe"]  You won’t get away!
+[name="케오베"]  거기 서어어어!
+
+[name="嘉维尔"]  糟了，这傻孩子要跑了！
+[name="ガヴィル"]  おいちょっと待て！　どこ行くんだ！
+[name="Gavial"]  Oh, you dumb... She’s gonna escape again!
+[name="가비알"]  젠장, 저 바보 녀석이 뛰쳐나가려고 하잖아!
+
+[name="嘉维尔"]  我去追！特米米，你和博士不要乱动，我会回来找你们。
+[name="ガヴィル"]  アタシが追う！　トミミ、お前はドクターと一緒に待っててくれ！
+[name="Gavial"]  I’m going after her! Tomimi, you and the Doctor stay put! I’ll come back and find you!
+[name="가비알"]  내가 쫓아갈게! 토미미, 넌 박사랑 가만히 있어. 내가 찾으러 올 테니까.
+
+[name="特米米"]  诶，好的！
+[name="トミミ"]  あっ、はい！
+[name="Tomimi"]  Uh, okay!
+[name="토미미"]  네, 알겠어요!
+
+[name="特米米"]  ......
+[name="トミミ"]  ……
+[name="Tomimi"]  ......
+[name="토미미"]  ……
+
+[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
+[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
+
+[name="特米米"]  啊，上面又有新的人打起来了。
+[name="トミミ"]  あっ、また次の戦いが始まりましたね。
+[name="Tomimi"]  Oh, there’s another fight starting.
+[name="토미미"]  앗, 위쪽에서 또 새로운 사람들이 싸우기 시작했어요.
+
+[name="特米米"]  ......博士，可不可以告诉我，嘉维尔在外面是什么样的？
+[name="トミミ"]  ……ドクター、ガヴィルさんは外ではどんな感じなのか、教えていただけませんか？
+[name="Tomimi"]  ...Doctor, could you tell me what Gavial is like on the outside?
+[name="토미미"]  ……박사님, 바깥세상에서의 가비알 씨는 어떤지 알려주실 수 있나요?
+
+[Decision(options="告诉她嘉维尔在罗德岛的生活。;......;告诉她嘉维尔当医生的样子。",values="1;2;3")]
+[Decision(options="ガヴィルのロドスでの暮らしは――;……;ガヴィルは医者として――",values="1;2;3")]
+[Decision(options="(Tell her about Gavial’s life at Rhodes Island.);......;(Tell her about Gavial as a doctor.)",values="1;2;3")]
+[Decision(options="가비알의 로도스 아일랜드 생활을 알려준다.;……;의사가 된 가비알의 모습을 알려준다.",values="1;2;3")]
+
+[name="特米米"]  嘉维尔在外面生活得很好吗。
+[name="トミミ"]  ガヴィルさん、外でも元気に過ごしているんですね。
+[name="Tomimi"]  Is Gavial having a good life out there, then?
+[name="토미미"]  가비알 씨는 바깥세상에서 잘 지내고 계신 건가요?
+
+[name="特米米"]  ......
+[name="トミミ"]  ……
+[name="Tomimi"]  ......
+[name="토미미"]  ……
+
+[name="特米米"]  难道说你和嘉维尔也不是很熟吗？
+[name="トミミ"]  もしかしてドクターは、ガヴィルさんとはそんなに親しくないんですか？
+[name="Tomimi"]  Maybe you don’t know Gavial that well?
+[name="토미미"]  박사님은 가비알 씨와 그닥 친하지 않은 건가요?
+
+[name="特米米"]  太好了！......啊，不，我只是以为你和嘉维尔一起回来的，嘉维尔好像很喜欢你的样子，就以为你和嘉维尔关系很好。
+[name="トミミ"]  よかったー！　あっ、いえ、すみません。ドクターはガヴィルさんと一緒に来ましたし、ガヴィルさんもドクターのことを気に入ってるようだったので、てっきり仲良しかと……
+[name="Tomimi"]  That’s great! ...Um, no, I was just thinking since Gavial came back with you, and she seemed to really like you, and it looks like you get along really well.
+[name="토미미"]  정말 잘 됐네요! 아, 아니, 그러니까…… 전 박사님과 가비알 씨가 같이 돌아오셔서, 가비알 씨가 박사님을 아주 좋아하는 것 같기도 하고, 그래서 박사님과 가비알 씨가 무척 가까운 사이인 줄 알았어요.
+
+[name="特米米"]  没关系的，嘉维尔人很好的，你一定可以和她打好关系的！
+[name="トミミ"]  でも大丈夫です。ガヴィルさんは優しい人ですから、きっとすぐに仲良くなれますよ！
+[name="Tomimi"]  But that’s okay! Gavial’s a really nice person! I think you can definitely get along with her!
+[name="토미미"]  괜찮아요, 가비알 씨는 아주 좋은 사람이에요. 박사님도 분명 가비알 씨와 친해질 수 있을 거예요!
+
+[name="特米米"]  太好了，果然即使成为了医生，嘉维尔始终是嘉维尔呢！
+[name="トミミ"]  よかった、お医者さんになっても、やっぱりガヴィルさんはガヴィルさんなんですね！
+[name="Tomimi"]  That’s great! Even if she’s a doctor, Gavial’s still Gavial!
+[name="토미미"]  정말 잘 됐네요, 역시 의사가 되었어도 가비알 씨는 여전히 가비알 씨에요!
+
+[name="特米米"]  是这样啊，嘉维尔没有变呀，太好了......
+[name="トミミ"]  昔と全然変わってなくて……なんだか嬉しいな……
+[name="Tomimi"]  That’s good to know. Gavial hasn’t changed. What a relief...
+[name="토미미"]  그렇군요, 가비알 씨는 변하지 않았네요, 정말 잘 됐어요……
+
+[name="特米米"]  那如果嘉维尔要离开你的话，你会怎么想？
+[name="トミミ"]  あの、変なことを聞くんですが、もしガヴィルさんがドクターの下から離れると言いだしたら、どう思いますか？
+[name="Tomimi"]  So if Gavial decided to leave you one day, how would you feel?
+[name="토미미"]  그럼 만약 가비알 씨가 박사님을 떠난다면, 어떨 것 같나요?
+
+[Decision(options="会很难过吧。;......;祝贺她找到新的道路吧。",values="1;2;3")]
+[Decision(options="悲しいだろうな。;……;新しい道が見つかったことをお祝いするかな。",values="1;2;3")]
+[Decision(options="It’d be sad, for sure.;......;I’d be glad she found a new path in life.",values="1;2;3")]
+[Decision(options="많이 섭섭하겠지.;……;새로운 도전을 시작하는 걸 축하해 줘야겠지.",values="1;2;3")]
+
+[name="特米米"]  嗯，果然呢，我当时也哭的很伤心呢......
+[name="トミミ"]  やっぱりそうですよね。私もあのときはいっぱい泣きました……
+[name="Tomimi"]  Mmm. I cried a lot when it happened, too...
+[name="토미미"]  음…… 역시 그렇군요, 저도 그때 아주 슬프게 울었거든요…
+
+[name="特米米"]  你、你怎么可以这样！嘉维尔那么好，她要离开你你怎么可以觉得无所谓！
+[name="トミミ"]  ど、どうして黙るんですか！　ガヴィルさんみたいな素晴らしい方がいなくなる事を想像して、なんで落ち着いていられるんですか！
+[name="Tomimi"]  How... How could you be like that?! Gavial’s such a good person! How could you care so little if she left?!
+[name="토미미"]  어, 어떻게 그럴 수 있죠! 가비알 씨가 얼마나 좋은 사람인데, 떠난다는데도 어쩜 아무렇지도 않을 수 있어요?
+
+[name="特米米"]  你真厉害......我做不到。
+[name="トミミ"]  ドクターはすごいですね……私にはできません。
+[name="Tomimi"]  You’re incredible... I couldn’t do that.
+[name="토미미"]  정말 대단하세요…… 전 그렇게 못 하는데.
+
+[name="特米米"]  我一直希望嘉维尔能够回来。
+[name="トミミ"]  私は……ガヴィルさんに帰ってきてほしいって、ずっと願っているんです。
+[name="Tomimi"]  I always hoped Gavial would come back.
+[name="토미미"]  전 가비알 씨가 돌아오기를 내내 바랐거든요.
+
+[name="特米米"]  博士，那个，在嘉维尔的事情上，我、我是不会输给你的！
+[name="トミミ"]  ドクター、その、ガヴィルさんに関しては、わ、私、絶対に負けませんから！
+[name="Tomimi"]  Doctor, um, about Gavial...! I-I’m not gonna let you take her from me!
+[name="토미미"]  박사님, 전…… 가비알 씨와 관련된 일이라면! 저, 저는…… 박사님께 지지 않을 거예요!
+
+[Decision(options="加油。;（点头）;我也不会输给你的！",values="1;2;3")]
+[Decision(options="頑張れ。;（頷く）;こっちも負けないぞ！",values="1;2;3")]
+[Decision(options="Good luck.;(Nod.);And I won’t let you take her from me!",values="1;2;3")]
+[Decision(options="화이팅.;(고개를 끄덕인다.);나도 너에겐 지지 않을 거야!",values="1;2;3")]
+
+[Decision(options="所以那一次祭典的结果呢？",values="1")]
+[Decision(options="それで話の続きだけど、ガヴィルが戦った祭典の結末は？",values="1")]
+[Decision(options="So how DID that ceremony back then turn out?",values="1")]
+[Decision(options="그래서 그때 제전의 결과는 어떻게 됐지?",values="1")]
+
+[name="特米米"]  那一次......
+[name="トミミ"]  あのときは……
+[name="Tomimi"]  Um, that one...
+[name="토미미"]  그때 말이죠……
+
+[name="嘉维尔"]  什么嘛，你们这帮大人也不过如此嘛。
+[name="ガヴィル"]  なんだ、大人も案外大したことないんだな。
+[name="Gavial"]  Oh, what? You call me a kid, and this is all you’ve got?
+[name="가비알"]  뭐야, 너희 어른들도 고작 이 정도였네.
+
+[name="嘉维尔"]  还有谁要来挑战我！
+[name="ガヴィル"]  まだアタシに挑戦したいヤツはいるか！？
+[name="Gavial"]  Who else is gonna challenge me?!
+[name="가비알"]  또 도전할 사람 없는 거냐!
+
+[name="阿达克利斯人A"]  居然把这么多大人给打倒了......
+[name="アダクリス人A"]  大人をこんなにあっさり倒すとは……
+[name="Archosauria A"]  She beat a lot of fighters more experienced than her...
+[name="아다크리스A"]  이렇게나 많은 성인들을 때려눕히다니……
+
+[name="阿达克利斯人B"]  嘉维尔，了不起啊！
+[name="アダクリス人B"]  大したもんだな、ガヴィルは！
+[name="Archosauria B"]  Gavial, you rule!
+[name="아다크리스B"]  가비알, 대단하구나!
+
+[name="阿达克利斯人C"]  难道说嘉维尔真的能当上大酋长？
+[name="アダクリス人C"]  もしかしたら本当に大族長になっちまうんじゃねぇか？
+[name="Archosauria C"]  It’s wild to say, but could she be the next Great Chief?
+[name="아다크리스C"]  설마 가비알이 진짜로 대족장이 될 수 있다는 거야?
+
+[name="？？？"]  我来！
+[name="？？？"]  私がやる！
+[name="???"]  I’ll take you on!
+[name="???"]  내가 상대해주지!
+
+[name="嘉维尔"]  什么啊，怎么是你，祖玛玛。
+[name="ガヴィル"]  なんだ、お前かよ、ズゥママ。
+[name="Gavial"]  Oh, what the hell are you doing here, Zumama?
+[name="가비알"]  뭐야, 어째서 너지, 주마마.
+
+[name="嘉维尔"]  你不是在造你的机器去了吗？我去找你你都不理我。
+[name="ガヴィル"]  大好きな機械いじりはもういいのか？　ったく、アタシが訪ねてもいつも無視するくせによ。
+[name="Gavial"]  Weren’t you busy building your machines? Every time I went looking for you, you ignored me.
+[name="가비알"]  기계 만들러 갔던 거 아냐? 내가 찾아가도 상대도 안 해주더니.
+
+[name="祖玛玛"]  ......我想最后试一试。
+[name="ズゥママ"]  ……最後に、試したくなったんだ。
+[name="Zumama"]  ...I decided to come and see, in the end.
+[name="주마마"]  ……마지막으로 시험해보고 싶었어.
+
+[name="嘉维尔"]  试什么？
+[name="ガヴィル"]  試すってなにを？
+[name="Gavial"]  See what?
+[name="가비알"]  뭘?
+
+[name="祖玛玛"]  试试我的拳头能不能打败你。
+[name="ズゥママ"]  私の拳で、お前を倒せるかどうかを。
+[name="Zumama"]  See if my fists could beat you or not.
+[name="주마마"]  내 주먹이 널 쓰러뜨릴 수 있는지 없는지.
+
+[name="嘉维尔"]  你怎么说得好像要死了一样。
+[name="ガヴィル"]  なに遺言みたいなこと言ってんだよ。
+[name="Gavial"]  You say that like you wanna get killed dead.
+[name="가비알"]  뭔 말을 유언 남기듯이 하냐.
+
+[name="祖玛玛"]  少废话，今天我可不会输给你，嘉维尔。
+[name="ズゥママ"]  黙れ。今日は絶対負けないぞ、ガヴィル。
+[name="Zumama"]  Enough talk. I’m not losing to you today, Gavial.
+[name="주마마"]  쓸데없는 말은 그만해. 오늘 난 너한테 지지 않을 거니까, 가비알.
+
+[name="嘉维尔"]  嘿，那要打过才知道了！
+[name="ガヴィル"]  へっ、やってみりゃいいさ！
+[name="Gavial"]  Hey, you won’t know until you’ve tried!
+[name="가비알"]  후후, 그건 싸워봐야 아는 거지!
+
+[name="特米米"]  她们从中午一直打到了晚上都没有分出胜负。
+[name="トミミ"]  結局、昼から夜まで戦っても、勝負はつきませんでした。
+[name="Tomimi"]  They fought from noon until night without settling anything. No winner, no loser.
+[name="토미미"]  두 사람은 점심때부터 밤이 될 때까지 싸웠는데도 승부가 나지 않았어요.
+
+[name="特米米"]  到最后，她们两个人都没力气了，被其他人给丢了下去。
+[name="トミミ"]  最後には二人ともそのまま力尽きてしまって、他の人たちに祭典の舞台から放り出されました。
+[name="Tomimi"]  They went until they’d used all their strength, and afterwards, both of them got dragged off by the others.
+[name="토미미"]  결국 두 사람 모두 힘이 빠져서 다른 사람들에게 밖으로 내던져졌죠.
+
+[name="特米米"]  这就是嘉维尔第一次参加祭典的情况了。
+[name="トミミ"]  これがガヴィルさんが初めて参加した祭典での出来事です。
+[name="Tomimi"]  That’s the story of the first time Gavial joined the ceremony.
+[name="토미미"]  이게 바로 가비알 씨가 처음 제전에 참가했을 때의 상황이에요.
+
+[Decision(options="祖玛玛是个什么样的人？",values="1")]
+[Decision(options="ズゥママってどんな人？",values="1")]
+[Decision(options="What kind of person is Zumama?",values="1")]
+[Decision(options="주마마는 어떤 사람이야?",values="1")]
+
+[name="特米米"]  祖玛玛是当时离得比较近的另一个部族的人。
+[name="トミミ"]  ズゥママは、当時は近くに縄張りを持っていた部族の人です。
+[name="Tomimi"]  Zumama was someone from a different tribe, but she was fairly close.
+[name="토미미"]  주마마는 당시 근처에 있던 다른 부족 사람이었어요.
+
+[name="特米米"]  小时候，她和嘉维尔经常在一起打架，嘉维尔比她厉害，但祖玛玛也不是没有赢过。
+[name="トミミ"]  小さい頃、ズゥママは毎日のようにガヴィルさんと喧嘩をしていました。もちろんガヴィルさんのほうが強かったんですが、ズゥママも殴られっぱなしだったわけではありません。
+[name="Tomimi"]  Back when they were young, she and Gavial fought a lot. Gavial was stronger than her, but it wasn’t like Zumama never won.
+[name="토미미"]  어릴 때 주마마는 가비알 씨와 종종 싸우곤 했어요. 가비알 씨가 더 뛰어났지만, 주마마가 이긴 적이 없었던 건 아니었죠.
+
+[name="特米米"]  但是我听嘉维尔说，她有一天不知道怎么的，就不再喜欢打架了，开始喜欢研究机器。
+[name="トミミ"]  しかしある日を境に、彼女は喧嘩をきっぱりやめて、機械弄りに没頭し始めたそうです。ガヴィルさんがそう言ってました。
+[name="Tomimi"]  But then Gavial said Zumama just stopped caring about fighting for some reason. She started researching machines instead.
+[name="토미미"]  그런데 가비알 씨한테 듣기론, 어찌 된 영문인지 어느 날 갑자기 주마마가 싸움보단 기계 연구에 빠져들기 시작했다고 하더라고요.
+
+[name="特米米"]  我记得那天，是祖玛玛最后一次和嘉维尔打架。
+[name="トミミ"]  そして祭典のあの日が、ガヴィルさんとズゥママの最後の喧嘩になりました。
+[name="Tomimi"]  And I remember that day was the last time Zumama and Gavial ever fought.
+[name="토미미"]  제가 기억하기론, 그 날이 주마마가 마지막으로 가비알 씨와 싸운 날이었어요.
+
+[name="特米米"]  在那之后，祖玛玛就再也没和嘉维尔打过，甚至很少出现在大家面前，再之后，她的部族就搬走了，我就在也没见过她了。
+[name="トミミ"]  その後ズゥママは、みんなに顔を見せることすら稀になりました。それから彼女の部族は引っ越してしまって、以来、私は彼女を見ていません。
+[name="Tomimi"]  After that, Zumama barely even showed her face anywhere. Eventually, her tribe moved away, and I never saw her again.
+[name="토미미"]  그 날 이후로 주마마는 다시는 가비알 씨와 싸우지 않았어요. 심지어 사람들 앞에 모습을 드러내는 일도 거의 없었죠. 나중에 주마마의 부족은 터전을 옮겼고, 저도 주마마를 다시 보진 못했어요.
+
+[name="特米米"]  就连嘉维尔离开那次的大闹祭典都没有来。
+[name="トミミ"]  ガヴィルさんが出て行く前に乱入した祭典にも、ズゥママはやって来ませんでした。
+[name="Tomimi"]  Not even at that final mess of a ceremony before Gavial left. She never came.
+[name="토미미"]  가비알 씨가 제전에서 소란을 피우고 떠나던 그날에도 오지 않았거든요.
+
+[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
+[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
+
+[name="嘉维尔"]  我回来了。
+[name="ガヴィル"]  ただいま。
+[name="Gavial"]  I’m back.
+[name="가비알"]  나 왔어.
+
+[name="特米米"]  嘉维尔，你没事吧！
+[name="トミミ"]  ガヴィルさん！　おかえりなさい。大丈夫でしたか？
+[name="Tomimi"]  Gavial! You’re okay, right?
+[name="토미미"]  가비알 씨, 괜찮아요?
+
+[name="嘉维尔"]  我没事。啧，小刻这孩子真能跑，一下子就跑没影了。
+[name="ガヴィル"]  ああ。しかし足が速いなぁケーちゃんは。一瞬で消えちまった。
+[name="Gavial"]  I’m fine. Tch. Kay’s got a hell of a pair of legs. Just ran off and disappeared out of sight.
+[name="가비알"]  난 괜찮아. 쳇, 케오 이 녀석 달리기가 어찌나 빠른지… 순식간에 사라져버렸지 뭐야.
+
+[name="嘉维尔"]  不过以她的能力应该不用担心。特米米，祖玛玛来了吗？
+[name="ガヴィル"]  でもあれだけ強けりゃ、心配する必要もないだろ。トミミ、ズゥママは来たか？
+[name="Gavial"]  But knowing how well she can fend for herself, I’m not worried. Tomimi, did Zumama get here yet?
+[name="가비알"]  하지만 그 녀석 실력이라면 걱정할 필요 없을 거야. 토미미, 혹시 주마마 왔어?
+
+[name="特米米"]  还没有。
+[name="トミミ"]  まだです。
+[name="Tomimi"]  Not yet.
+[name="토미미"]  아직이요.
+
+[name="阿达克利斯人"]  还有谁要来挑战！
+[name="アダクリス人"]  他に挑戦者はいるか！
+[name="Archosauria"]  Who else will challenge me?!
+[name="아다크리스"]  나한테 덤빌 사람은 더 없는 거냐!
+
+[name="？？？"]  我来。
+[name="？？？"]  私が出よう。
+[name="???"]  I will.
+[name="???"]  내가 상대해주지.
+
+[name="嘉维尔"]  嗯？看来我回来的正是时候。
+[name="ガヴィル"]  おっ？　ちょうどいいとこに戻ってきたみたいだな。
+[name="Gavial"]  Hmm? Looks like I came back at just the right time.
+[name="가비알"]  오호라? 내가 딱 맞춰 돌아온 것 같네.
+

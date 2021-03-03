@@ -1,0 +1,1075 @@
+[name="嘉维尔"]  结束了，特米米。
+[name="ガヴィル"]  片付いたぜ、トミミ。
+[name="Gavial"]  It’s over, Tomimi.
+[name="가비알"]  끝났어, 토미미.
+
+[name="特米米"]  ......还、还没有！
+[name="トミミ"]  ……ま、まだです！
+[name="Tomimi"]  ...N-No it’s not!
+[name="토미미"]  ……아, 아직이에요!
+
+[name="特米米"]  努尔，佩塔！
+[name="トミミ"]  ヌール、ペータ！
+[name="Tomimi"]  Nurul, Peta!
+[name="토미미"]  누룰, 페타!
+
+[name="迪伦"]  博士！
+[name="ディラン"]  ドクター！
+[name="Dylan"]  Doctor!
+[name="딜런"]  박사!
+
+[name="Lancet-2"]  博士——！
+[name="Lancet-2"]  ドクター様！
+[name="Lancet-2"]  Doctor!
+[name="Lancet-2"]  박사님!
+
+[name="特米米"]  不想让你的同伴受到伤害的话......
+[name="トミミ"]  な、仲間を傷つけられたくなければ……
+[name="Tomimi"]  If you don’t want your friends getting hurt...
+[name="토미미"]  당신 동료가 다치는 걸 원치 않는다면……
+
+[name="嘉维尔"]  别逼我生气啊，特米米！
+[name="ガヴィル"]  アタシを怒らせるんじゃねぇぞ、トミミ！
+[name="Gavial"]  Don’t make me angry, Tomimi!
+[name="가비알"]  나를 화나게 하지 마, 토미미!
+
+[name="特米米"]  ......嘉维尔你不留下来的话，我是不会收手的！
+[name="トミミ"]  ……ガヴィルさんが残ってくれると言うまで、絶対にやめません！
+[name="Tomimi"]  ...I won’t stop until you promise you’ll stay, Gavial!
+[name="토미미"]  가비알 씨가 남지 않는다면…… 저는 멈추지 않을 거예요!
+
+[name="迪伦"]  救我啊，博士！
+[name="ディラン"]  助けてくれ、ドクター！
+[name="Dylan"]  Help me, Doctor!
+[name="딜런"]  살려줘!
+
+[name="Lancet-2"]  博士，我好怕呜呜呜......
+[name="Lancet-2"]  ドクター様、怖いですううぅ……
+[name="Lancet-2"]  Doctor, I’m scared... Waaahhh...
+[name="Lancet-2"]  박사님, 무서워요. 흐흑……
+
+[Decision(options="交给你的任务完成了？;......;不要怕！我这就来救你们！",values="1;2;3")]
+[Decision(options="任務は終わったのか？;……;安心しろ、今助ける！",values="1;2;3")]
+[Decision(options="Did you finish your task?;......;Don’t be scared! I’m going to save you!",values="1;2;3")]
+[Decision(options="내가 준 임무는 완수했나?;……;무서워하지 마! 지금 구하러 갈게!",values="1;2;3")]
+
+[name="迪伦"]  博士，别这么不上道嘛，小姑娘这么情真意切，配合一下又不会死。
+[name="ディラン"]  ちょっとドクター、空気を読んでくれよ。こんな健気なお嬢ちゃんなんだから、少しくらい乗ってやっても死にゃしねぇだろうよ。
+[name="Dylan"]  Doctor, please. The girl’s pouring her heart out here, it wouldn’t kill you to work with her.
+[name="딜런"]  박사, 너무 그러지 마, 어린 아가씨가 이렇게 간절하게 애원하는데 좀 협조해도 안 죽는다고.
+
+[name="Lancet-2"]  唉，这里的人这么淳朴，老实说，欺骗他们让我有些良心不安呢，虽然我没有心。
+[name="Lancet-2"]  はぁ、ここの人たちは本当に純粋ですから、正直彼らを騙すのは良心が痛みます。私に心はありませんが。
+[name="Lancet-2"]  The people here are simple. Honestly, it hurts my non-existent robot heart to cheat them so.
+[name="Lancet-2"]  여기 사람들은 정말 순박하군요. 솔직히 이분들을 속이는 게 양심에 찔리네요. 비록 저한테는 마음이 없기는 하지만요.
+
+[name="迪伦"]  哎呀，博士，你别用那种眼神看着我。
+[name="ディラン"]  おいおい、そんな目で見るなよ、ドクター。
+[name="Dylan"]  Hey now, Doctor, don’t look at me like that.
+[name="딜런"]  잠깐… 박사, 그런 눈빛으로 날 보지 말라고.
+
+[name="迪伦"]  安心，我怎么也是罗德岛的干员，这点小事都做不好怎么行。
+[name="ディラン"]  安心してくれ、こんなんでもロドスのオペレーターだからな。このくらい自分でどうにかできるぜ。
+[name="Dylan"]  Relax, I’m a Rhodes Island Operator too. Of course I can handle something like this.
+[name="딜런"]  걱정 마. 어쨌든 나도 로도스 아일랜드의 오퍼레이터잖아. 이깟 일도 못 해서야 되겠어?
+
+[name="Lancet-2"]  博士——！
+[name="Lancet-2"]  ドクター様あああ！
+[name="Lancet-2"]  Doctor!
+[name="Lancet-2"]  박사니이이이임!!!!
+
+[Decision(options="Lancet-2！", values="4")]
+[Decision(options="Lancet-2！", values="4")]
+[Decision(options="Lancet-2!", values="4")]
+[Decision(options="Lancet-2!", values="4")]
+
+[name="Lancet-2"]  博士——！
+[name="Lancet-2"]  ドクター様あああ！
+[name="Lancet-2"]  Doctor!
+[name="Lancet-2"]  박사니이임!!!!
+
+[name="迪伦"]  哇，你们两个演的比我还起劲啊。
+[name="ディラン"]  うわっ、二人とも俺よりノリノリで演技してんな。
+[name="Dylan"]  Wow, you two are really selling it.
+[name="딜런"]  우와… 저 둘이 나보다 더 열정적으로 연기하네.
+
+[name="特米米"]  诶？
+[name="トミミ"]  えっ？
+[name="Tomimi"]  What?
+[name="토미미"]  으엣?!
+
+[name="阿达克利斯人"]  什么时候挣脱的！
+[name="アダクリス人"]  いつの間に縄を！
+[name="Archosauria"]  When did you get free?!
+[name="아다크리스"]  언제 벗어났지!
+
+[name="迪伦"]  哈哈，抱歉啊，其实从一开始就没绑住。
+[name="ディラン"]  ははっ、わりぃな、最初から縛られてねぇんだ。
+[name="Dylan"]  Hah. Sorry, somebody needs to learn to tie a knot.
+[name="딜런"]  하하, 미안. 사실 처음부터 안 묶여있었어.
+
+[name="嘉维尔"]  博士，难道你早就料到了特米米会这么做？
+[name="ガヴィル"]  ドクター、まさか最初からトミミの企みを見抜いてたのか？
+[name="Gavial"]  Did you know Tomimi was going to do this, Doctor?
+[name="가비알"]  박사, 설마 토미미가 이렇게 할 거라는 걸 진작부터 알고 있었던 거야?
+
+[Decision(options="当然。;......;想不发现才难。",values="1;2;3")]
+[Decision(options="当たり前だ。;……;見抜けない方がおかしい。",values="1;2;3")]
+[Decision(options="Of course.;......;Well, duh.",values="1;2;3")]
+[Decision(options="물론.;……;모르는 게 더 어려울 것 같은데.",values="1;2;3")]
+
+[name="特米米"]  你你你、你是怎么发现的？！
+[name="トミミ"]  な、なんでわかったんですか！？
+[name="Tomimi"]  B-B-But how did you know?
+[name="토미미"]  어, 어떻게 안 거죠?!
+
+[Decision(options="首先，是你在第一次提到祖玛玛时出现的犹豫。", values="1")]
+[Decision(options="まず、君は最初にズゥママの名を出すときにためらった。", values="1")]
+[Decision(options="Well, first of all, there was the way you hesitated when Zumama came up.", values="1")]
+[Decision(options="우선, 넌 처음에 주마마를 언급할 때 망설였어.", values="1")]
+
+[name="嘉维尔"]  啊？犹豫？
+[name="ガヴィル"]  えっ？　そうだったっけ？
+[name="Gavial"]  Oh? Hesitated?
+[name="가비알"]  어? 망설였었나?
+
+[Decision(options="然后，是在祭典时，你对嘉维尔突然行动的惊慌。", values="1")]
+[Decision(options="そして、祭典では、ガヴィルの突然の行動に焦りを見せた。", values="1")]
+[Decision(options="And then when you panicked at Gavial during the ceremony.", values="1")]
+[Decision(options="그리고, 제전에서 가비알이 돌발 행동을 하자 너는 당황했지.", values="1")]
+
+[name="特米米"]  ......
+[name="トミミ"]  ……
+[name="Tomimi"]  ......
+[name="토미미"]  ……
+
+[Decision(options="最后，迪伦，东西呢？", values="1")]
+[Decision(options="そして最後に、ディラン、例の物は？", values="1")]
+[Decision(options="Finally, Dylan, the thing?", values="1")]
+[Decision(options="마지막으로 딜런, 물건은?", values="1")]
+
+[name="迪伦"]  哦，我放在Lancet-2身上了。
+[name="ディラン"]  おう、Lancet-2に積んであるぜ。
+[name="Dylan"]  Oh, I gave it to Lancet-2.
+[name="딜런"]  아, Lancet-2에게 넣어 뒀지.
+
+[name="Lancet-2"]  呜呜......要不是为了博士，我可不会轻易让人在我身体里放东西哦。
+[name="Lancet-2"]  うう……私の身体に物を入れさせるなんて、ドクター様の為でなければ絶対にしませんからね。本当ですよ。
+[name="Lancet-2"]  Wahhh... That was just for you, Doctor. I don’t normally let people put things inside me so easily.
+[name="Lancet-2"]  흑흑…… 박사님을 위한 게 아니었으면, 함부로 다른 사람이 제 몸속에 물건을 보관하도록 허락하지 않았을 거예요.
+
+[name="森蚺"]  ......
+[name="ユーネクテス"]  ……
+[name="Eunectes"]  ......
+[name="유넥티스"]  ……
+
+[name="嘉维尔"]  这是......火箭筒？
+[name="ガヴィル"]  これは……ロケットランチャーか？
+[name="Gavial"]  It’s... a rocket launcher?
+[name="가비알"]  이건…… 바주카포야?
+
+[name="迪伦"]  对，在特米米的部族里找到的。
+[name="ディラン"]  そうだ、トミミの部族で見つけたんだ。
+[name="Dylan"]  Yep. Found it with Tomimi’s tribe.
+[name="딜런"]  맞아. 토미미의 마을에서 찾은 거야.
+
+[name="嘉维尔"]  难道说......
+[name="ガヴィル"]  まさか……
+[name="Gavial"]  So that means...
+[name="가비알"]  설마……
+
+[name="迪伦"]  没错，把我们轰下来的罪魁祸首，就是这个小丫头啦。
+[name="ディラン"]  そのまさかだ。俺たちを撃ち墜としたのは、このお嬢ちゃんってわけさ。
+[name="Dylan"]  You got it. The one who shot us down was this little runt right here.
+[name="딜런"]  그래, 우리를 추락시킨 게 바로 이 녀석이야.
+
+[name="嘉维尔"]  特米米。
+[name="ガヴィル"]  トミミ。
+[name="Gavial"]  Tomimi.
+[name="가비알"]  토미미.
+
+[name="特米米"]  呜呜呜，我错了，嘉维尔。
+[name="トミミ"]  ううう、ごめんなさい、ガヴィルさん。
+[name="Tomimi"]  Ohhhhh, I’m sorry, Gavial.
+[name="토미미"]  흑흑흑, 제가 잘못했어요, 가비알 씨.
+
+[name="嘉维尔"]  过来。
+[name="ガヴィル"]  こっち来い。
+[name="Gavial"]  Come here.
+[name="가비알"]  이리 와.
+
+[name="特米米"]  呜呜呜......
+[name="トミミ"]  うううぅ……
+[name="Tomimi"]  (Whimper)
+[name="토미미"]  흐흑…… 우으으으……
+
+[name="嘉维尔"]  趴到我大腿上。
+[name="ガヴィル"]  アタシの脚の上に伏せろ。
+[name="Gavial"]  You’re going over my knee.
+[name="가비알"]  내 허벅지 위에 엎드려.
+
+[name="特米米"]  嘉维尔，你不要打我，我知道错了......
+[name="トミミ"]  ガヴィルさん、ぶたないでください。反省しますから……
+[name="Tomimi"]  Gavial, please don’t spank me, I know what I did was bad...
+[name="토미미"]  가비알 씨, 제가 잘못한 거 아니까 때리지 마세요……
+
+[name="嘉维尔"]  那可不行。
+[name="ガヴィル"]  ダメだ。
+[name="Gavial"]  Them’s the breaks.
+[name="가비알"]  안 돼.
+
+[name="嘉维尔"]  对付不听话的小鬼，当然要打尾巴！
+[name="ガヴィル"]  言うこと聞かない悪ガキは、お尻尾ペンペンだ！
+[name="Gavial"]  Naughty little whelps get tail spankings!
+[name="가비알"]  말 안 듣는 말썽꾸러기는 당연히 꼬리 맴매 맞아야지!
+
+[name="特米米"]  呜呜呜......
+[name="トミミ"]  ううう……
+[name="Tomimi"]  (Whimper)
+[name="토미미"]  흐에에에……
+
+[name="刻俄柏"]  打尾巴，好像很痛的样子......
+[name="ケオベ"]  お尻尾ペンペン、なんか痛そう……
+[name="Ceobe"]  Tail spanking, huh? Looks ouchie...
+[name="케오베"]  꼬리 때리면 엄청 아플 것 같은데……
+
+[name="嘉维尔"]  知道错了吗？
+[name="ガヴィル"]  これで懲りたか？
+[name="Gavial"]  Are you going to do it again?
+[name="가비알"]  잘못한 거 알겠어?
+
+[name="特米米"]  知道错了，呜呜呜......
+[name="トミミ"]  懲りました、ううう……
+[name="Tomimi"]  I won’t do it agaaain! Waaahhh...!
+[name="토미미"]  네, 흑흑흑……
+
+[name="嘉维尔"]  知道错了就好。
+[name="ガヴィル"]  それならよろしい。
+[name="Gavial"]  Good.
+[name="가비알"]  그럼 됐어.
+
+[name="嘉维尔"]  总之，这下应该算是没事了，博士。
+[name="ガヴィル"]  とりあえずこれで一件落着だ、ドクター。
+[name="Gavial"]  Anyway, I think we’re pretty much okay now, Doctor.
+[name="가비알"]  아무튼 이제 괜찮아졌네, 박사.
+
+[Decision(options="累了。;......;你刚才居然没有用那招什么大风车。",values="1;2;3")]
+[Decision(options="疲れた。;……;あの大風車を使うと思った。",values="1;2;3")]
+[Decision(options="Exhausting.;......;I’m surprised you didn’t give her the whatever whirlwind thing. ",values="1;2;3")]
+[Decision(options="피곤해.;……;방금은 왜 그 풍차돌리기인가 뭔가 하는 걸 안 쓴 거야.",values="1;2;3")]
+
+[name="嘉维尔"]  哈哈哈，确实这一连串发生的事还挺多的。
+[name="ガヴィル"]  ははは、確かに災難の連続だったな。
+[name="Gavial"]  Haha, well, it’s definitely been a lot.
+[name="가비알"]  하하하, 하긴 많은 일이 연달아 벌어지긴 했지.
+
+[name="嘉维尔"]  喂，博士，你该不会站着睡着了吧。
+[name="ガヴィル"]  おい、ドクター、立ったまま寝てんじゃねぇだろうな。
+[name="Gavial"]  Hey, Doctor, you’re not falling asleep on your feet there, are you?
+[name="가비알"]  어이, 박사. 설마 지금 서서 자는 건 아니지?
+
+[name="嘉维尔"]  我当然不伤到特米米这孩子啊。唉，我可是都有点累了。
+[name="ガヴィル"]  トミミをケガさせるわけにもいかねぇからな。しっかし、さすがのアタシも疲れたぜ。
+[name="Gavial"]  I wouldn’t want to hurt little Tomimi, after all. Phew, I’m a little tired myself.
+[name="가비알"]  난 토미미를 다치게 하지는 않아. 하아…… 좀 지치네.
+
+[name="Lancet-2"]  这个大家伙......乍一看虽然好像很丑，但是这个棱角，粗犷的设计感，杂乱却有效的线路连接，仔细看看有一种独特的美。
+[name="Lancet-2"]  この大きなロボット……一見不格好に見えますが、この角々しさや粗削りな造形、雑然としながらも理に適った配線など、よく見れば独特の美が感じ取れます。
+[name="Lancet-2"]  This big guy... does look a little ugly at first, but the angular, rugged design, this cluttered but effective wiring, it has a special beauty to it when you look close.
+[name="Lancet-2"]  이 큰 로봇…… 겉보기엔 못 생겼지만, 그래도 이 모서리와 투박한 디자인, 난잡하지만 효과적인 선은… 자세히 보면 특유의 아름다움이 있는 것 같아요.
+
+[name="Lancet-2"]  嗯，是适合结婚的类型呢。
+[name="Lancet-2"]  これは結婚向きのタイプですね。
+[name="Lancet-2"]  Real marriage material, I think.
+[name="Lancet-2"]  음, 결혼하기에 적당한 타입이군요.
+
+[name="嘉维尔"]  哦，Lancet-2，你快去看看引擎还有没有救。
+[name="ガヴィル"]  おい、Lancet-2、エンジンが使えるか見てやってくれ。
+[name="Gavial"]  Oh, Lancet-2, go see if we can still salvage the engine.
+[name="가비알"]  아, Lancet-2, 엔진은 괜찮은지 한 번 봐봐.
+
+[name="Lancet-2"]  诶？难道引擎在这个大家伙身上？！
+[name="Lancet-2"]  え？　まさかエンジンはこの巨人さんの中に！？
+[name="Lancet-2"]  What? Are you telling me the engine’s inside this big guy? !
+[name="Lancet-2"]  네? 설마 엔진이 아직 이 큰 로봇의 몸에 있는 건가요?
+
+[name="嘉维尔"]  对啊，被我们打爆了。
+[name="ガヴィル"]  ああそうさ。アタシらがボコボコにしてやったけどな。
+[name="Gavial"]  Sure is. And we blew it up.
+[name="가비알"]  응, 우리가 부쉈어.
+
+[name="Lancet-2"]  哇，可怜的引擎，可怜的大个子。
+[name="Lancet-2"]  ああ、可哀想なエンジンちゃん、可哀想な巨人さん。
+[name="Lancet-2"]  Oh, poor engine. Poor big guy.
+[name="Lancet-2"]  아… 불쌍한 엔진, 불쌍한 로봇……
+
+[name="Lancet-2"]  迪伦先生，可以过来帮我个忙吗？
+[name="Lancet-2"]  ディランさん、手伝っていただけませんか？
+[name="Lancet-2"]  Mr. Dylan, can you do me a favor?
+[name="Lancet-2"]  딜런 씨, 절 좀 도와주실 수 있을까요?
+
+[name="迪伦"]  好嘞。
+[name="ディラン"]  おうよ。
+[name="Dylan"]  Alright.
+[name="딜런"]  그래.
+
+[name="森蚺"]  ......
+[name="ユーネクテス"]  ……
+[name="Eunectes"]  ......
+[name="유넥티스"]  ……
+
+[name="嘉维尔"]  喂，祖玛玛，你怎么了，傻站在那儿。
+[name="ガヴィル"]  おい、ズゥママ、どうしたんだ、ボケーっとして。
+[name="Gavial"]  Hey, Zumama, why are you standing there drooling like that?
+[name="가비알"]  어이, 주마마. 왜 거기 멍하니 서 있어?
+
+[name="森蚺"]  嘉维尔，嘉维尔！
+[name="ユーネクテス"]  ガッ、ガヴィル！
+[name="Eunectes"]  Gavial!
+[name="유넥티스"]  가비알, 가비알!
+
+[name="嘉维尔"]  啊？干什么？
+[name="ガヴィル"]  あぁ？　なんだよ？
+[name="Gavial"]  Huh? What’s up?
+[name="가비알"]  응? 왜?
+
+[name="森蚺"]  那个，那个！
+[name="ユーネクテス"]  あれ、あれ！
+[name="Eunectes"]  That... that...
+[name="유넥티스"]  저거, 저거!
+
+[name="嘉维尔"]  哪个啊？
+[name="ガヴィル"]  どれだよ？
+[name="Gavial"]  What what?
+[name="가비알"]  뭐가?
+
+[name="森蚺"]  那个，那个会动会说话的机器是怎么回事！
+[name="ユーネクテス"]  あれ、あの自分で動いたり話したりする機械はなんだ！？
+[name="Eunectes"]  That... that moving, talking machine is incredible!
+[name="유넥티스"]  저, 저 움직이면서 말하는 기계는 뭐야!
+
+[name="嘉维尔"]  哦，你说Lancet-2啊，她是我们的同伴啊。
+[name="ガヴィル"]  ああ、Lancet-2のことだな。あいつもアタシらの仲間さ。
+[name="Gavial"]  Oh, you mean Lancet-2? She’s a friend of ours.
+[name="가비알"]  아, Lancet-2 말이구나. 우리 동료야.
+
+[name="森蚺"]  我、我可以和她说话吗？
+[name="ユーネクテス"]  は、話しかけてもいいか？
+[name="Eunectes"]  C-Can I talk to her?
+[name="유넥티스"]  나, 나도 말해봐도 돼?
+
+[name="嘉维尔"]  这有什么不行的？
+[name="ガヴィル"]  好きにしたらいいじゃねぇか。
+[name="Gavial"]  Knock yourself out.
+[name="가비알"]  안 될 게 뭐 있어?
+
+[name="森蚺"]  那个，你好。
+[name="ユーネクテス"]  や、やあ。
+[name="Eunectes"]  Erm... Hello.
+[name="유넥티스"]  저기… 안녕.
+
+[name="Lancet-2"]  你好？
+[name="Lancet-2"]  はい、こんにちは。
+[name="Lancet-2"]  Hi?
+[name="Lancet-2"]  안녕하세요.
+
+[name="森蚺"]  你是机器吗？
+[name="ユーネクテス"]  お前は機械なのか？
+[name="Eunectes"]  Are you... a machine?
+[name="유넥티스"]  넌 기계니?
+
+[name="Lancet-2"]  我的产品名称是雷神存在者S—Typer62六轮作业平台，隶属罗德岛，代号Lancet-2。
+[name="Lancet-2"]  私の製品名は「レイジアンイグジスターシリーズS-Typer62六輪作業プラットフォーム」です。ロドス所属で、コードネームはLancet-2です。
+[name="Lancet-2"]  My product designation is Raythean Exister-S62 Model six-wheeled operation platform. I belong to Rhodes Island, codename Lancet-2.
+[name="Lancet-2"]  제 모델명은 레이시언 익시스터 S Typer 62 6륜 작업 플랫폼입니다. 로도스 아일랜드 소속이고, 코드네임은 Lancet-2라고 해요.
+
+[name="森蚺"]  哦哦！
+[name="ユーネクテス"]  おお！　し、質問してもいいか？
+[name="Eunectes"]  Wow!
+[name="유넥티스"]  오오! 지, 질문해도 돼?
+
+[name="Lancet-2"]  是的，我拥有一定程度的智能，如果是不怎么困难的问题的话，我应该可以为你解答。
+[name="Lancet-2"]  私には一定の知能が備わっておりますので、そこまで難しくないご質問であれば、回答可能かと。
+[name="Lancet-2"]  Yes. I do have a certain level of intelligence. As long as your questions aren’t too hard, I should be able to answer them.
+[name="Lancet-2"]  네, 저는 어느 정도 지능을 갖고 있어요. 그리 어렵지 않은 문제라면 제가 대신 풀어 드릴 수도 있습니다.
+
+[name="Lancet-2"]  顺便一提，作为面向医疗的作业平台，我的知识储备偏向医疗方面，这点还请注意哦。
+[name="Lancet-2"]  ちなみに、私は医療用の作業プラットフォームのため、提供可能な知識は医療方面に偏ったものとなります。ご了承ください。
+[name="Lancet-2"]  Speaking of which, I am a medical operation platform, so my knowledge base is focused on medicine. Do keep that in mind.
+[name="Lancet-2"]  한 가지 더 말씀드리자면, 저는 의료 지향적인 작업 플랫폼이라 제 지식은 의료 분야에 치중되어 있사오니, 참고하여 주시기 바랍니다.
+
+[name="森蚺"]  ^%&$*#(#......！！！！！
+[name="ユーネクテス"]  ^%&$*#(#……！！！！！
+[name="Eunectes"]  ^%&$*#(#......! ! !
+[name="유넥티스"]  ^%&$*#(#……!!!!!
+
+[name="Lancet-2"]  有什么事吗？
+[name="Lancet-2"]  何でしょうか？
+[name="Lancet-2"]  Is something wrong?
+[name="Lancet-2"]  무슨 일 있으신가요?
+
+[name="森蚺"]  我可以抱抱你吗？
+[name="ユーネクテス"]  だ、抱っこしてもいいか？
+[name="Eunectes"]  Can I hug you?
+[name="유넥티스"]  하, 하, 한 번 안아봐도 돼?
+
+[name="Lancet-2"]  诶？
+[name="Lancet-2"]  はい？
+[name="Lancet-2"]  What?
+[name="Lancet-2"]  네?
+
+[name="嘉维尔"]  那家伙在干什么啊，脑子进水了吗？
+[name="ガヴィル"]  何やってんだあいつ、おかしくなったのか？
+[name="Gavial"]  What is she doing? Did a screw come loose?
+[name="가비알"]  저 녀석 뭐 하는 거지, 머리가 어떻게 된 건가?
+
+[name="大祭司"]  这不是很明显吗，她被那台机器震慑了。
+[name="大祭司"]  見ればわかるじゃろ。あの機械に衝撃を受けたんじゃよ。
+[name="High Priest"]  Isn’t it obvious? She’s in awe of that machine.
+[name="대제사장"]  뻔하지 않나, 저 기계를 보고 충격을 받은 게지.
+
+[name="嘉维尔"]  啊？
+[name="ガヴィル"]  あぁ？
+[name="Gavial"]  Oh?
+[name="가비알"]  네?
+
+[name="大祭司"]  就像她第一次见到移动城市时的震撼一样，一台能自己行动，还会自己说话的机器对她的冲击，比那还要大！
+[name="大祭司"]  自らの意思で動き、喋る機械から受けた衝撃は、初めて移動都市を目にしたとき以上のものじゃった。つまりそういうことじゃ！
+[name="High Priest"]  Shocked as she was when she first saw a moving city, a machine that moves and talks on its own is even more striking!
+[name="대제사장"]  이동도시를 처음 봤을 때 놀랐던 것처럼 스스로 움직이면서 말까지 하는 기계를 봤으니, 그때보다 더 충격적이겠지.
+
+[name="大祭司"]  别说她了，我也兴奋得不行好吗！
+[name="大祭司"]  わしも同じくらい、興奮しておるがな！
+[name="High Priest"]  And forget her, I’m just as excited!
+[name="대제사장"]  쟤뿐만 아니라 나도 흥분되는군그래!
+
+[name="大祭司"]  噢，这位美丽的小姐，我可以有幸邀请你进行一次约会吗！
+[name="大祭司"]  のう、美しいお嬢様、わしとのデートに付き合ってもらうことはできんかの？
+[name="High Priest"]  Oh, my beautiful young lady, might I have the honor of taking you on a date?
+[name="대제사장"]  오오… 아름다운 아가씨, 데이트 신청을 해도 될까?
+
+[name="大祭司"]  我知道这片雨林中景色最美的地方，让我们去那里度过一个美好的下午吧！
+[name="大祭司"]  このジャングル一番の景色を知っとるんじゃ。そこで素晴らしい午後のひとときを共に過ごすのはどうじゃ！？
+[name="High Priest"]  I know the most gorgeous spot in the rainforest. I’ll take you there for a lovely afternoon!
+[name="대제사장"]  여기 정글에서 가장 예쁜 곳을 알거든. 거기서 아름다운 오후를 보내는 게 어떻겠나!
+
+[name="Lancet-2"]  咦，我、我被邀请了吗？！
+[name="Lancet-2"]  ええ？　わ、私、誘われました！？
+[name="Lancet-2"]  Oh, y-you’re asking me out? !
+[name="Lancet-2"]  어머? 저, 지금 저 데이트 신청을 받은 건가요?
+
+[name="Lancet-2"]  怎么办，稍微有点开心......博士，我应该接受吗？
+[name="Lancet-2"]  どうしましょう、ちょっと嬉しいような……ドクター様、これは受けるべきでしょうか？
+[name="Lancet-2"]  I don’t know what to do here. I’m flattered... Doctor, should I accept?
+[name="Lancet-2"]  어떡하죠. 좀 기쁘네요…… 박사님, 저 수락해야 할까요?
+
+[Decision(options="接受吧。;......;不准抢走我的Lancet-2！",values="1;2;3")]
+[Decision(options="受けてやれ。;……;Lancet-2は誰にもやらん！",values="1;2;3")]
+[Decision(options="Yes.;......;I’ll never let you take my Lancet-2!",values="1;2;3")]
+[Decision(options="받아줘.;……;내 Lancet-2는 못 데려간다!",values="1;2;3")]
+
+[name="森蚺"]  大祭司，你不要抢，不然别怪我不顾我们这么多年的情谊。
+[name="ユーネクテス"]  じいやは引っ込んでいろ。でないと長年のよしみを捨てることになるぞ。
+[name="Eunectes"]  Don’t butt in, High Priest, or you can’t blame me for what happens to our friendship after all these years.
+[name="유넥티스"]  대제사장은 빠져 있어. 우리가 알고 지낸 지 오래라고 해도, 안 그랬다간 나도 안 봐줄 거야.
+
+[name="煌"]  老实说，我现在和博士心情相同。
+[name="ブレイズ"]  ……多分私もドクターと同じ気持ち。
+[name="Blaze"]  Honestly, I’m with the Doctor here.
+[name="블레이즈"]  솔직히 나는 박사랑 같은 마음이야.
+
+[name="煌"]  有点想笑。
+[name="ブレイズ"]  吹き出しそう。
+[name="Blaze"]  Kinda wanna laugh.
+[name="블레이즈"]  좀 웃기네.
+
+[name="Lancet-2"]  诶，博士，你忽然这样说，我还没有做好心理准备......
+[name="Lancet-2"]  えっ、そんなドクター様、急にそう言われましても、心の準備が……
+[name="Lancet-2"]  Oh, Doctor, to hear you suddenly come out and say that... My heart isn’t ready...
+[name="Lancet-2"]  어멋, 박사님, 갑자기 그런 말씀을 하시면, 전 아직 마음의 준비가……
+
+[name="森蚺"]  ......
+[name="ユーネクテス"]  ……
+[name="Eunectes"]  ......
+[name="유넥티스"]  ……
+
+[name="森蚺"]  嘉维尔，你们那里能造出这样的机器吗？
+[name="ユーネクテス"]  ガヴィル、お前たちが住んでいるところは、こういう機械も造れるのか？
+[name="Eunectes"]  So Gavial, your people you’re with now can create this type of machine?
+[name="유넥티스"]  가비알, 너넨 이런 기계를 만들 수 있는 거야?
+
+[name="嘉维尔"]  啊？呃，我觉得可露希尔应该可以吧。
+[name="ガヴィル"]  ん？　あー、まぁクロージャなら造れるかもな。
+[name="Gavial"]  Huh? Err, I’m pretty sure Closure can, yeah.
+[name="가비알"]  어? 아… 클로저는 아마 만들 수 있을 걸.
+
+[name="森蚺"]  好。我决定了，嘉维尔。
+[name="ユーネクテス"]  そうか……よし、決めたぞ、ガヴィル。
+[name="Eunectes"]  Okay. I’ve made a decision.
+[name="유넥티스"]  좋아. 결정했어, 가비알.
+
+[name="森蚺"]  你的那个叫罗德岛的地方还缺人吗，我也要加入你们。
+[name="ユーネクテス"]  そのロドスというところだが、人手は足りているか？　私も加入したい。
+[name="Eunectes"]  Does this Rhodes Island place need more hands? I want to join.
+[name="유넥티스"]  그 로도스 아일랜드라는 곳에 아직 사람 필요한가? 나도 거기 들어가고 싶어.
+
+[name="嘉维尔"]  啊？
+[name="ガヴィル"]  あぁ？
+[name="Gavial"]  Oh?
+[name="가비알"]  뭐?
+
+[name="森蚺"]  我要去你们那里学习机械技术。
+[name="ユーネクテス"]  そこで機械の技術を学びたいんだ。
+[name="Eunectes"]  I want to go with you, to learn about mechanical technology.
+[name="유넥티스"]  거기서 기계 기술을 배우고 싶어.
+
+[name="嘉维尔"]  哈？
+[name="ガヴィル"]  ハァ？
+[name="Gavial"]  Huh?
+[name="가비알"]  하아아아?
+
+[name="森蚺"]  我虽然也想过去外面学习，但因为部族的关系一直没有认真考虑这件事，现在我觉得这是个好机会。
+[name="ユーネクテス"]  実はこれまでも外に出て勉強したい気持ちはあったが、部族のこともあって真剣に考えていなかった。だが今はいい機会だと思っている。
+[name="Eunectes"]  I’ve thought about leaving to go study in the outside world before, but I never seriously considered it because of the tribe. I think this is a great opportunity.
+[name="유넥티스"]  밖에 나가서 공부할 생각도 했지만, 부족 때문에 줄곧 여기 있을 수밖에 없었거든. 지금이 좋은 기회인 것 같아.
+
+[name="特米米"]  那、那我也要去！
+[name="トミミ"]  じゃ、じゃあ私も行きます！
+[name="Tomimi"]  Th-Then I’m going too!
+[name="토미미"]  그, 그럼 저도 갈래요!
+
+[name="嘉维尔"]  什么？！
+[name="ガヴィル"]  なんだって！？
+[name="Gavial"]  What?!
+[name="가비알"]  뭐?!
+
+[name="特米米"]  既然这样的话，只能启用备用计划了.......我只要跟着嘉维尔就可以了！
+[name="トミミ"]  こうなったら予備プランを実行して……私がガヴィルさんについていけばいいんです！
+[name="Tomimi"]  If this is how it’s going to be, then it’s time for plan B... I’m going with Gavial!
+[name="토미미"]  이왕 이렇게 된 거 플랜 B를 쓸 수밖에요…… 저는 가비알 씨와 함께이기만 하면 돼요!
+
+[name="特米米"]  嘉维尔，我也有战斗的能力，一定能帮上嘉维尔的忙的！
+[name="トミミ"]  ガヴィルさん、私だって戦えます。きっとガヴィルさんの役に立ってみせます！
+[name="Tomimi"]  Gavial, I fight really hard. I can definitely help you, Gavial!
+[name="토미미"]  가비알 씨, 저도 전투 능력이 있으니 가비알 씨를 도울 수 있을 거예요!
+
+[name="嘉维尔"]  呃，博士，这怎么办？
+[name="ガヴィル"]  えーっと、ドクター、どうすりゃいいんだこれ？
+[name="Gavial"]  Err, Doctor, what should I do here?
+[name="가비알"]  으어어어…… 박사, 어떡하면 좋지?
+
+[Decision(options="可以来，但结果不保证。;......;你惹的，我不管。",values="1;2;3")]
+[Decision(options="来てもいいが、どうなるかは保証できない。;……;ガヴィルの責任だ。自分で考えろ。",values="1;2;3")]
+[Decision(options="They can come, but I don’t know what might happen.;......;You made your bed, now lie in it.",values="1;2;3")]
+[Decision(options="와도 되지만, 결과는 보장 못 해.;……;네가 자초한 거잖아. 난 상관없어.",values="1;2;3")]
+
+[name="嘉维尔"]  也是，干员测试反正都可以做。
+[name="ガヴィル"]  そうだな。オペレーター適性試験自体は誰でも受けれるしな。
+[name="Gavial"]  Yeah. Might as well give them the operator tests.
+[name="가비알"]  하긴, 어차피 오퍼레이터 시험은 누구나 볼 수 있으니까.
+
+[name="嘉维尔"]  诶，博士，你可别欺负她啊。
+[name="ガヴィル"]  おい、ドクター。あんまりいじめてやるなよ。
+[name="Gavial"]  C’mon, Doctor, be nice.
+[name="가비알"]  앗, 박사, 그렇다고 괴롭히면 안 돼.
+
+[name="嘉维尔"]  博——士——！
+[name="ガヴィル"]  ドーークーーターー！
+[name="Gavial"]  Doooctooor!
+[name="가비알"]  박~~사~~~!
+
+[name="嘉维尔"]  算了，反正你也先跟着博士学点本事好了。
+[name="ガヴィル"]  まあいいや。とりあえずドクターから色々勉強すりゃいい。
+[name="Gavial"]  Whatever. At least stick with the Doctor and try to learn something.
+[name="가비알"]  됐어, 아무튼 너도 우선 박사 따라다니면서 좀 배워.
+
+[name="特米米"]  嗯！
+[name="トミミ"]  はい！
+[name="Tomimi"]  Right!
+[name="토미미"]  네!
+
+[name="煌"]  喂，嘉维尔，来帮我翻译一下这家伙在说什么。
+[name="ブレイズ"]  それよりガヴィル、この子が言ってることも通訳してくれない？
+[name="Blaze"]  Hey, Gavial, do me a favor and tell me what this little squirt is saying.
+[name="블레이즈"]  어이, 가비알, 이 자식이 무슨 말을 하는지 와서 통역 좀 해 봐.
+
+[name="燧石"]  ......
+[name="フリント"]  ……
+[name="Flint"]  ......
+[name="플린트"]  ……
+
+[name="嘉维尔"]  啊？克玛尔？
+[name="ガヴィル"]  あぁ？　クマールか。
+[name="Gavial"]  Huh? Kemar?
+[name="가비알"]  어? 크마르?
+
+[name="燧石"]  我要跟随她。
+[name="フリント"]  この人についていきたい。
+[name="Flint"]  I have to go with her.
+[name="플린트"]  따라가고 싶어.
+
+[name="嘉维尔"]  她说她要跟你走。
+[name="ガヴィル"]  お前についていきたいってさ。
+[name="Gavial"]  She says she’s going with you.
+[name="가비알"]  따라가고 싶대.
+
+[name="煌"]  哦，行啊。她还挺能打的，当干员应该没啥问题。
+[name="ブレイズ"]  ふーん、いいよ。腕も立つし、きっとオペレーターとして認められるはず。
+[name="Blaze"]  Oh. Cool. She packs a punch. I bet she’ll make a fine operator.
+[name="블레이즈"]  흐음… 그래. 싸움 잘하니까 오퍼레이터가 되는 건 문제 없겠다.
+
+[name="嘉维尔"]  她说行。
+[name="ガヴィル"]  いいってよ。
+[name="Gavial"]  She said okay.
+[name="가비알"]  그러래.
+
+[name="燧石"]  好。
+[name="フリント"]  よし。
+[name="Flint"]  Good.
+[name="플린트"]  좋아.
+
+[name="嘉维尔"]  嗯？等等，那祖玛玛要走，特米米要走，克玛尔也要走，部族们怎么办？
+[name="ガヴィル"]  ……いやちょっと待て。ズゥママがいなくなって、トミミもクマールもいなくなっちまったら、ここの部族のヤツらはどうすんだよ？
+[name="Gavial"]  Hm? Wait a second. So Zumama’s going, Tomimi’s going, and Kemar’s going, what about the tribes?
+[name="가비알"]  음? 잠깐, 그 주마마도 가고, 토미미도 가고, 크마르도 가면, 부족 사람들은 어떻게 해?
+
+[Decision(options="你之前走的时候怎么不想想。",values="1")]
+[Decision(options="ガヴィルは出て行くときにそんなことを考えていたのか？",values="1")]
+[Decision(options="You weren’t worried about that when you left the first time.",values="1")]
+[Decision(options="네가 전에 떠날 땐 왜 그런 생각을 안 했는데?",values="1")]
+
+[name="嘉维尔"]  啊哈哈，我那时候正在气头上嘛！
+[name="ガヴィル"]  アハハ、あのときはカッとなってたからノーカウントだ！
+[name="Gavial"]  Ahahaha, I was seeing red back then! Couldn’t think at all.
+[name="가비알"]  아하하, 그때 난 화나서 폭발할 지경이었잖아!
+
+[name="森蚺"]  确实......我不能放下我的部族不管。
+[name="ユーネクテス"]  確かに……部族を放っておくわけにはいかないか。
+[name="Eunectes"]  You’re right, though... I can’t just abandon my tribe.
+[name="유넥티스"]  확실히…… 난 우리 부족을 이렇게 버려두고 갈 순 없어.
+
+[name="大祭司"]  噢，关于这个，我想你们不用很担心！
+[name="大祭司"]  うむ、それに関しては心配無用じゃろう。
+[name="High Priest"]  Oh, I think you’ve got nothing to worry about in that department.
+[name="대제사장"]  엣헴, 그건 걱정 안 해도 된다!
+
+[name="阿达克利斯人A"]  虽然不如嘉维尔，不过大丑果然还是很强啊。
+[name="アダクリス人A"]  ガヴィルにゃ負けるが、やっぱビッグ・アグリーもつえーな。
+[name="Archosauria A"]  It’s no Gavial, but the Big Ugly is still pretty strong.
+[name="아다크리스A"]  가비알 만큼은 아니지만, 거대하고 못생긴 것도 꽤 세잖아.
+
+[name="阿达克利斯人B"]  没错没错，我也想造一个玩。
+[name="アダクリス人B"]  そうだそうだ、オレもああいうのを造ってみてぇな。
+[name="Archosauria B"]  That’s for sure. I want to make one too.
+[name="아다크리스B"]  맞아, 맞아. 나도 하나 만들어서 놀고 싶어.
+
+[name="阿达克利斯人C"]  反正神庙也毁了，干脆来比造机器好了，谁造的厉害谁当大酋长怎么样？
+[name="アダクリス人C"]  どうせ霊殿は壊されちまったんだし、いっそ機械造りで勝負して、すげぇモンを造ったヤツが大族長になるってのはどうだ？
+[name="Archosauria C"]  With the Temple destroyed, let’s build machines instead. Whoever makes the most awesome one gets to be Great Chief?
+[name="아다크리스C"]  신전도 무너졌으니, 아예 기계 만들기 시합을 할까? 제일 멋진 걸 만드는 사람이 대족장 하는 건 어때?
+
+[name="阿达克利斯人D"]  喂，还是打架爽啊！
+[name="アダクリス人D"]  いやいや、やっぱり喧嘩の方が気持ちいいぜ！
+[name="Archosauria D"]  Hey, no! Fighting is way better!
+[name="아다크리스D"]  그래도 싸우는 게 더 낫지!
+
+[name="阿达克利斯人C"]  诶，也对啊，打架也难以放弃，这可怎么办。
+[name="アダクリス人C"]  うーん、一理ある、喧嘩も捨てがたいな。どうすりゃいいんだ……
+[name="Archosauria C"]  Oh, good point. I don’t want to give up fighting. What should we do?
+[name="아다크리스C"]  싸우는 건 포기 못 하는데……
+
+[name="阿达克利斯人A"]  哎呀，你们傻啊，一边打架一边比机器不就好了！
+[name="アダクリス人A"]  ったく、アホかお前らは。喧嘩しながら機械造りの勝負もやる。それでいいだろ！
+[name="Archosauria A"]  All right, morons. Why not just fight and also build machines?!
+[name="아다크리스A"]  야 이 바보들아! 싸우면서 기계를 만들면 되잖아!
+
+[name="阿达克利斯人们"]  这个好！
+[name="アダクリス人たち"]  それだ！
+[name="Group of Archosauria"]  Yeah!
+[name="아다크리스들"]  그러네!
+
+[name="大祭司"]  你看，事实上，你们完全没必要担心。
+[name="大祭司"]  ほれ、心配するだけ時間の無駄じゃて。
+[name="High Priest"]  See? Nothing to worry about at all.
+[name="대제사장"]  봐봐, 걱정하지 않아도 된다니까.
+
+[name="大祭司"]  根据我的观察，领导者在为未来焦头烂额的时候，其实普通人反而是适应得最快的。
+[name="大祭司"]  わしの経験則じゃが、人々は想像を超える早さで環境に適応していくものじゃ。統率者が未来のことで頭を悩ませていようがお構いなしでの。
+[name="High Priest"]  From what I’ve seen, the common folk are usually quick to adapt, even as the leaders hem and haw about the future.
+[name="대제사장"]  내 경험상, 리더가 미래를 위해 골머리를 앓을 때, 사람들은 대부분 도리어 금방 적응을 하더군.
+
+[name="大祭司"]  要是我告诉你们，第一任大酋长其实是两百年前一个提亚卡乌勇士自封的，在那之前，根本没有选大酋长的习惯，你们会怎么想？
+[name="大祭司"]  例えばじゃ、二百年前にとあるティアカウが勝手に初代大族長を名乗り始めて、それから自然と大族長選挙の習慣が生まれた……とわしが言ったら、お前さんたちはどう思う？
+[name="High Priest"]  What if I told you the first Great Chief was actually a Tiacauh Brave who gave himself the title, prior to whom there was no custom to choose a Great Chief at all?
+[name="대제사장"]  하나 말해주자면, 1대 대족장은 사실 2백 년 전에 한 티아카우 용사가 스스로를 대족장이라 칭한 거였어. 그 전에는 대족장을 뽑는 습관 자체가 없었지. 어떻게 생각하나?
+
+[name="森蚺"]  ......大祭司，你怎么从来没有告诉过我这件事。
+[name="ユーネクテス"]  そうなのか！？　じいや、なぜ今まで教えてくれなかったんだ？
+[name="Eunectes"]  ...High Priest, why did you never tell me that before?
+[name="유넥티스"]  ……대제사장, 왜 그동안은 그런 얘길 안 해준 거지?!
+
+[name="大祭司"]  噢，我认为这并不重要，不是吗？我只是想告诉你，人们很顽强，他们是不会因为一个传统忽然消失就活不下去的。
+[name="大祭司"]  そんなこと、今のお前さんたちにとっては重要じゃないからじゃ。人は想像以上に逞しい。急に伝統が一つ途絶えたからといって、死ぬことはない。
+[name="High Priest"]  Oh, I never thought it was important. Is it? My point is that people are resilient, they’ll go on living even if one of their traditions disappears.
+[name="대제사장"]  그다지 중요하지 않다고 생각했으니까, 안 그런가? 내가 하고 싶은 말은, 사람들은 강하다는 거야. 전통 하나가 갑자기 사라진다고 해서 사람들의 삶이 무너지거나 하진 않는다네.
+
+[name="大祭司"]  倒不如说我一直很奇怪，传统只是将人们聚集到一起的仪式。
+[name="大祭司"]  伝統など、元々は人々の団結力を高めるための決めごとに過ぎん。
+[name="High Priest"]  I’ve always thought of traditions as rituals that bring people together.
+[name="대제사장"]  오히려 난 늘 이상하다고 생각해왔지. 전통은 그저 사람들을 한데 모으는 의식일 뿐이니까.
+
+[name="大祭司"]  但是当一个传统延续了几十年，你们就会莫名其妙认为它是不可侵犯的，不可打破的。
+[name="大祭司"]  じゃがその決めごとが数十年も続けば、なぜかそれは「伝統」に変わり、不可侵なもの、破ってはいかんものになる。全くもって理解に苦しむわい。
+[name="High Priest"]  But when that tradition carries on for a few decades, they start to think it’s inviolable, it’s unbreakable, it has to go on forever.
+[name="대제사장"]  그런데 한 전통이 수십 년간 지속되면서, 너희들은 왠지 모르게 그건 침해당하거나, 깨어져서는 안 된다고 생각하게 되더군.
+
+[name="大祭司"]  实际上完全不会有这样的事！
+[name="大祭司"]  実際そんなことは毛頭ないんじゃよ！
+[name="High Priest"]  But that’s nonsense!
+[name="대제사장"]  사실 전혀 그렇지 않은데 말이야!
+
+[name="大祭司"]  所以当你说出要轰掉神庙时我是举双手双脚还有尾巴赞成的！
+[name="大祭司"]  じゃからこそ、お前さんが霊殿をぶっ壊すと言ったとき、わしは両手を挙げて……いや、両手両足と尻尾を挙げて賛成したのじゃ！
+[name="High Priest"]  So you tell me you want to blow up the Temple and I’m all in, both hands, both feet, and my tail too!
+[name="대제사장"]  자네가 신전을 날려버리자고 했을 때, 내가 두 손 두 발에 꼬리까지 들어서 찬성한 건 바로 그래서였네!
+
+[name="大祭司"]  噢，不对，举双手双脚我就不能举尾巴了......嗯？或许我可以趴着？让我来试试！
+[name="大祭司"]  むむ、両手両足を挙げたら尻尾を挙げられんか……うーむ？　うつ伏せになればできるかの？　試してみるぞい！
+[name="High Priest"]  Oh, no, if my hands and feet are in, my tail has to stay out... right? What if I’m laying down?  Let’s see!
+[name="대제사장"]  아, 아니지. 두 손 두 발을 들면 꼬리를 들 수 없구나…… 응? 엎드리면 되려나? 잠깐 직접 해봐야겠어!
+
+[name="森蚺"]  ......我明白了。
+[name="ユーネクテス"]  ……そうか、わかった。
+[name="Eunectes"]  ...I get it.
+[name="유넥티스"]  그런가…… 알겠어.
+
+[name="嘉维尔"]  你到底有几岁啊。
+[name="ガヴィル"]  二百年前がどうとかって、お前は一体何歳なんだ？
+[name="Gavial"]  Just how old are you?
+[name="가비알"]  이백 년 전이라면 대체 몇 살인 거야?
+
+[name="大祭司"]  年龄？忘了。
+[name="大祭司"]  ハハッ、さあのぅ。
+[name="High Priest"]  How old? I forget.
+[name="대제사장"]  나이? 몰라.
+
+[name="大祭司"]  而且这是你们用来记录时间的方式，与我无关！虽然我只是已经忘了我是什么时候诞生的！
+[name="大祭司"]  歳なんて、お前さんたちが時間を記録するために作った概念じゃ。わしには関係ない！　まぁいつ生まれたか忘れただけなんじゃが！
+[name="High Priest"]  And honestly, these methods you have for keeping track of time mean nothing to me! Whether or not I happen to have forgotten when I was born!
+[name="대제사장"]  그리고 이건 자네들이 시간을 기록하는 방법이라, 나와는 상관이 없네! 내가 언제 태어났는지 잊어버리긴 했지만!
+
+[name="嘉维尔"]  好吧......不过，不管怎么说，还是得有一个人来做大酋长啊。
+[name="ガヴィル"]  そうかよ……でもいずれにしても、やっぱ誰かに大族長になってもらわねぇとな。
+[name="Gavial"]  O...kay. But we still need someone to be the Great Chief.
+[name="가비알"]  그렇구나…… 그래도 어찌 되었든, 누군가는 대족장을 맡아야 해.
+
+[name="依娜姆"]  喂，我听说嘉维尔要和祖玛玛再打一场，打完了？
+[name="イナム"]  ねぇ、ガヴィルとズゥママがもうひと試合やるって話を聞いたんだけど、それはどうなったの？
+[name="Inam"]  Hey, I heard Gavial and Zumama were fighting again. Is it already over?
+[name="이남"]  어이, 가비알이 주마마와 또 싸운다며? 설마 벌써 끝난 거야?
+
+[name="嘉维尔"]  嗯？
+[name="ガヴィル"]  おっ？
+[name="Gavial"]  Hmm...
+[name="가비알"]  음?
+
+[name="依娜姆"]  嘉维尔，你看我干什么？
+[name="イナム"]  何見つめてんのよ、気持ち悪い。
+[name="Inam"]  Why are you looking at me like that, Gavial?
+[name="이남"]  가비알, 뭘 그렇게 봐?
+
+[name="嘉维尔"]  依娜姆，你对当大酋长有没有兴趣？
+[name="ガヴィル"]  イナム、お前大族長になる気はねぇか？
+[name="Gavial"]  Say, Inam, are you interested in being Great Chief at all?
+[name="가비알"]  이남, 혹시 대족장 자리에 관심 있어?
+
+[name="依娜姆"]  啊？
+[name="イナム"]  はい？
+[name="Inam"]  What?
+[name="이남"]  뭐?
+
+[name="凯尔希"]  也就是说，经历了一系列事件后，你们总算是将引擎夺回，并且经过应急处理后，勉强踏上了返程的道路。
+[name="ケルシー"]  つまり、一連の事件を経て、エンジンを取り戻した後に、緊急処置を施してなんとか帰途についたと。
+[name="Kal'tsit"]  So after going through all that, you got the engine back, performed your emergency repairs, and got on the road back home?
+[name="켈시"]  그러니까 정리하자면, 우여곡절을 겪은 다음 너희는 결국 엔진을 찾았고, 긴급 수리를 한 후에 겨우 돌아왔다 이거로군.
+
+[name="煌"]  是、是的！
+[name="ブレイズ"]  そ、そういうこと！
+[name="Blaze"]  Y-Yeah!
+[name="블레이즈"]  어… 어어어, 그렇지!
+
+[name="凯尔希"]  博士，我记得我对你说过，飞行器是非常珍贵的交通工具。
+[name="ケルシー"]  ドクター、確か私は君に、飛行装置は貴重な乗り物だと言ったはずだが。
+[name="Kal'tsit"]  Doctor, I do believe I told you what a precious piece of equipment that aircraft was before you left.
+[name="켈시"]  박사, 내가 말했던 것 같은데. 비행체는 굉장히 귀한 교통수단이다.
+
+[Decision(options="情况特殊。;......;不能怪我。",values="1;2;3")]
+[Decision(options="状況が状況だった。;……;仕方がなかったんだ。",values="1;2;3")]
+[Decision(options="There were extenuating circumstances. ;......;Wasn’t my fault.",values="1;2;3")]
+[Decision(options="특수 상황이었어.;……;이걸 내 탓을 한다고?",values="1;2;3")]
+
+[name="凯尔希"]  既然飞行器处于能够维修的范围内，我不会过多责怪你，不过，维修的费用会算在你和煌的工资中。
+[name="ケルシー"]  飛行装置の被害が修理可能な範疇に収まってる以上、私もとやかく言うつもりはない。ただし修理の費用は君とブレイズの給料から差し引かせてもらう。
+[name="Kal'tsit"]  Seeing as the aircraft is still in reparable condition, I won’t be too hard on you. But the maintenance costs are coming out of your pay, and Blaze’s.
+[name="켈시"]  그나마 비행체가 수리 가능한 상태였으니 나도 너를 더 탓하지는 않겠지만, 수리 비용은 너와 블레이즈의 월급에서 깔 거다.
+
+[name="煌"]  诶，我也要吗......
+[name="ブレイズ"]  えっ、私も？
+[name="Blaze"]  Aww, and mine...?
+[name="블레이즈"]  으엑, 나도……?
+
+[name="凯尔希"]  精英干员应当承担更多的责任。
+[name="ケルシー"]  エリートオペレーターは多くの責任を担うものだ。
+[name="Kal'tsit"]  An elite operator takes elite responsibility.
+[name="켈시"]  정예 오퍼레이터라면 더 큰 책임을 져야지.
+
+[name="煌"]  呃，好吧。
+[name="ブレイズ"]  はぁ、わかったよ。
+[name="Blaze"]  Agh, fine.
+[name="블레이즈"]  하아… 알았어.
+
+[name="凯尔希"]  至于你们带回来的三个人，既然你们认为有成为干员的素质，由博士安排就好。
+[name="ケルシー"]  連れてきたあの三人については、オペレーターになる素質があると君たちが判断したのであれば、ドクターに任せておけばいい。
+[name="Kal'tsit"]  As for the three individuals you brought back, since you seem to think they have what it takes to be operators, I’ll leave them to the Doctor.
+[name="켈시"]  너희가 데려온 세 명은, 너희가 오퍼레이터가 될 자격이 있다고 여겼으니, 박사가 알아서 배치해줘.
+
+[name="凯尔希"]  嘉维尔，这次返乡令你感到满意吗？
+[name="ケルシー"]  ガヴィル、今回の里帰りは満足のいくものだったか？
+[name="Kal'tsit"]  Gavial, were you satisfied with your trip back home?
+[name="켈시"]  가비알, 이번에 고향에 가니 만족스러웠나?
+
+[name="嘉维尔"]  嗯？满意啊，连我也没想到会发生这样的事，很有趣。
+[name="ガヴィル"]  そりゃあ満足さ。アタシの予想を上回る出来事の連続で、楽しかったよ。
+[name="Gavial"]  Huh? Sure. But even I didn’t think it’d go down like that. It was fun.
+[name="가비알"]  그럼, 좋았지. 나도 이런 일이 생길 줄은 몰랐지만, 재밌었어.
+
+[name="凯尔希"]  事实上我做过博士没有把你带回来的预案。
+[name="ケルシー"]  ドクターが君を置いてきた場合のことも考えていたのだがな。
+[name="Kal'tsit"]  Honestly, I had a contingency plan in case the Doctor didn’t bring you back.
+[name="켈시"]  사실 박사가 너를 데리고 오지 않는 상황에 대한 대책도 세웠었다.
+
+[name="嘉维尔"]  为什么？
+[name="ガヴィル"]  どういうことだ？
+[name="Gavial"]  Why?
+[name="가비알"]  왜?
+
+[name="凯尔希"]  因为我认为你有留在家乡的可能性。
+[name="ケルシー"]  君が故郷に残る可能性も考えていたということだ。
+[name="Kal'tsit"]  Because I figured there was a possibility you’d want to stay there.
+[name="켈시"]  네가 고향에 남을 가능성이 있다고 생각했으니까.
+
+[name="嘉维尔"]  啊？凯尔希，你这也太见外了吧。
+[name="ガヴィル"]  あぁ？　水くせぇこと言わないでくれよケルシー先生。
+[name="Gavial"]  Huh? Kal'tsit, I thought you knew me better than that.
+[name="가비알"]  뭐? 무슨 말을 그렇게 하고 그래.
+
+[name="凯尔希"]  但你从未适应过外界的生活，你至今都在以你的方式和这片大地上每天都在发生的事激烈碰撞。
+[name="ケルシー"]  君がまだ外の生活に馴染んでいないことは明白だ。君は相変わらず自分のやり方で、毎日この大地に起きる出来事と激しい衝突を繰り返しているからな。
+[name="Kal'tsit"]  You’ve never really adapted to life outside your tribe. Every day, you come into conflict with the world, in your own ferocious way.
+[name="켈시"]  그런데 넌 아직 바깥 생활에 익숙하지 않잖아. 넌 지금도 네 방법대로, 이 세상에서 매일 일어나는 일을 과격하게 처리하고 있지.
+
+[name="凯尔希"]  应该这么说，如果有一天你提出要休息或者离开，我不会意外。
+[name="ケルシー"]  言い方を変えれば、君がある日突然、休職や脱退の申請を出しても私は驚かないということだ。
+[name="Kal'tsit"]  I’ll put it this way: if someday you asked for a leave of absence, or if you just left, I wouldn’t be surprised.
+[name="켈시"]  뭐랄까, 언젠가 네가 갑자기 휴가를 내거나 여길 떠나도 전혀 놀랍지 않을 것 같다 생각했어.
+
+[name="嘉维尔"]  喂，博士，我不太懂，但是凯尔希这应该是在关心我吧？
+[name="ガヴィル"]  なあドクター、よくわかんねぇけど、ケルシー先生はアタシのことを気にかけてくれてんのか？
+[name="Gavial"]  Hey, Doctor, maybe I’m not getting this right. Is Kal'tsit saying she cares about me?
+[name="가비알"]  어이, 박사, 이해가 잘 안 가는데. 켈시가 나한테 관심을 가져주고 있단 거겠지?
+
+[Decision(options="是。;......;也许吧。",values="1;2;3")]
+[Decision(options="そうだな。;……;かもな。",values="1;2;3")]
+[Decision(options="Yes.;......;Maybe.",values="1;2;3")]
+[Decision(options="그렇지.;……;아마도.",values="1;2;3")]
+
+[name="凯尔希"]  Dr.{@nickname}，你如果没有别的事，可以先离开。
+[name="ケルシー"]  Dr.{@nickname}、ほかに用がなければ、もう退出して構わない。
+[name="Kal'tsit"]  If there’s nothing else, Dr. {@nickname}, you can go.
+[name="켈시"]  {@nickname} 박사, 다른 일 없으면 먼저 가도 돼.
+
+[name="嘉维尔"]  啧，博士就喜欢这种时候装死。
+[name="ガヴィル"]  チッ。お前はこういうとき黙ってばっかだな。
+[name="Gavial"]  Tch, yeah, this is one of those times the Doctor likes to play dead.
+[name="가비알"]  쳇, 박사는 이럴 때 꼭 죽은 척한다니까.
+
+[name="嘉维尔"]  那我就当你是在关心我了。
+[name="ガヴィル"]  まぁ、ケルシー先生の言葉は良心的に解釈しとくぜ。
+[name="Gavial"]  Then I’m gonna go ahead and say you care about me.
+[name="가비알"]  그럼 나는 켈시가 날 신경 쓰고 있는 거라고 생각할게.
+
+[name="嘉维尔"]  不愧是凯尔希，连博士都被绕晕了。
+[name="ガヴィル"]  ドクターでもよくわからないのか。さすがケルシー先生。
+[name="Gavial"]  That’s our Kal'tsit, even confusing the Doctor.
+[name="가비알"]  역시 켈시야. 박사까지 혼란스럽게 만들다니.
+
+[name="嘉维尔"]  凯尔希，我不会走的。
+[name="ガヴィル"]  ケルシー先生、アタシはここを出ていくつもりはないぜ。
+[name="Gavial"]  Kal'tsit, I’m not going anywhere.
+[name="가비알"]  난 여기 안 떠나.
+
+[name="嘉维尔"]  我当时决定离开也有一个原因，那就是我确实想当医生。
+[name="ガヴィル"]  あのとき故郷を離れたのは、医者になりたいって思ったからだ。
+[name="Gavial"]  I had a reason to leave my tribe. I really did want to practice medicine.
+[name="가비알"]  그때 내가 떠나겠다 결심한 건, 의사가 되고 싶다는, 이 한 가지 이유 때문이었어.
+
+[name="嘉维尔"]  当然了，当时的我肯定没想到我真的能成为医生，但我现在庆幸自己当时的决定。
+[name="ガヴィル"]  まぁ当時のアタシは、本当に医者になれるとまでは思ってなかったがな。だけど今となっては、あのときの自分の決定に感謝してる。
+[name="Gavial"]  Now that’s not to say I really thought I could become a doctor, but I’m very happy I made that decision.
+[name="가비알"]  물론 그때의 난 내가 정말 의사가 될 수 있을 거라고는 생각하지 못했지만… 지금의 난 그때 그런 결정을 내렸던 걸 다행스럽게 생각해.
+
+[name="嘉维尔"]  用现代医学的角度来看，我们那里和没有医生也差不多，得了病就是自生自灭，最多对某些很好治疗的疾病有一些土方。
+[name="ガヴィル"]  現代医学の見地に立ってみれば、アタシの故郷は医者がいないのと同じだ。何かを治療するにしても、簡単な民間療法くらいしか打つ手はない。病気になったら命を天に任せるしかねぇんだ。
+[name="Gavial"]  From a modern medical standpoint, we pretty much have no doctors back home. If you get sick, you just let it run its course. Maybe try a few traditional remedies.
+[name="가비알"]  현대 의학의 관점에서 보면 거긴 의사가 없는 것이나 다름없지. 병에 걸리면 그냥 내버려 뒀고, 기껏해야 치료하기 쉬운 병에 민간요법을 쓰는 정도니까.
+
+[name="嘉维尔"]  如果我没有走出那里的话，我不会知道这片大地是这样子的。
+[name="ガヴィル"]  あそこを出なかったら、アタシは、この大地がどんなもんかだって知ることはできなかった。
+[name="Gavial"]  If I never left, I wouldn’t know what the world is really like.
+[name="가비알"]  만약 그때 내가 거기서 나오지 않았다면, 지금 이 세상이 이런 모습인 줄도 아마 몰랐겠지.
+
+[name="嘉维尔"]  我不会知道原来很多病根本不用死，我不会知道矿石病原来是遭人唾弃的，我不会知道救人和打人一样让我快乐。
+[name="ガヴィル"]  多くの病人は救えるってことも、鉱石病がこれほど忌み嫌われる病気だってことも知り得なかった。……人を救うのは、殴るのと同じくらい楽しいってこともな。
+[name="Gavial"]  I wouldn’t know how many diseases are preventable or curable, I wouldn’t know how people look down on Oripathy. I wouldn’t know that saving lives makes me as happy as taking them.
+[name="가비알"]  원래는 죽음에 이르지 않아도 되는 병들이 그렇게 많은지도 몰랐을 거고, 광석병이 그렇게 배척당하고 있었단 사실도 몰랐을 거야. 사람을 치료하는 게 사람을 때리는 것만큼 즐거운 일이라는 것도 몰랐겠지.
+
+[name="嘉维尔"]  虽然外面确实很复杂，我经常搞不懂一些人的目的，也搞不懂为什么要打起来。
+[name="ガヴィル"]  外は確かに複雑なところだ。目的のわかんねぇヤツらも多いし、なんで戦ってんのかわかんねぇこともある。
+[name="Gavial"]  The world is definitely complicated, and I don’t always know what motivates people, or why they fight.
+[name="가비알"]  바깥세상은 정말 복잡해서 종종 목적을 이해할 수 없는 사람도 있고, 왜 싸워야 하는 건지 모를 때도 많아.
+
+[name="嘉维尔"]  但我现在是医生，我的理想是治疗矿石病。
+[name="ガヴィル"]  だが今のアタシは医者だ。どんなヤツが現れようが、理解できないことがあろうが、全員の鉱石病を治してやるってのがアタシの理想さ。
+[name="Gavial"]  But I’m a doctor now. And my dream is to treat Oripathy.
+[name="가비알"]  하지만 난 이제 의사야. 그리고 지금의 내 꿈은 광석병을 치료하는 거고.
+
+[name="嘉维尔"]  这片大地上还有更适合我学习当医生的地方吗？
+[name="ガヴィル"]  アタシが医学に励むなら、ロドス以上にふさわしい場所はあると思うか？
+[name="Gavial"]  Is there a better place in this wide world for me to study and practice medicine?
+[name="가비알"]  이 땅 위에서 의학 공부를 하기에 여기보다 더 좋은 데가 어디 있겠어?
+
+[name="凯尔希"]  我想恐怕是没有的。
+[name="ケルシー"]  おそらくないだろう。
+[name="Kal'tsit"]  I’m afraid not.
+[name="켈시"]  아마 없겠지.
+
+[name="嘉维尔"]  那不就是了。而且你们一个个的天天比我还累，还要来关心我算什么事。
+[name="ガヴィル"]  だからアタシはここにいる。つーかケルシー先生たちの方が、毎日アタシの何倍も疲れてんだろ。アタシのことなんか気にかけなくていいよ。
+[name="Gavial"]  Well how about that. And by the way, you all work a lot harder than I do. What’s with you here worrying about me?
+[name="가비알"]  그러니까 말이야. 게다가 다들 매일 나보다 더 피곤할 텐데, 내 신경까지 쓸 필요 없잖아.
+
+[name="嘉维尔"]  要我说，凯尔希，我来关心你还差不多。
+[name="ガヴィル"]  むしろこっちがケルシー先生のことを気にかけといてやりたいくらいさ。
+[name="Gavial"]  Honestly, I think I should be worrying about you, Kal'tsit.
+[name="가비알"]  오히려 내가 더 신경을 써줘야지.
+
+[name="嘉维尔"]  我不在的时候你没有擅自把我的工作揽过去勉强自己吧？
+[name="ガヴィル"]  アタシがいない間、無理してアタシの仕事まで引き受けたりしてないよな？
+[name="Gavial"]  You didn’t pick up my slack while I was away now, did you?
+[name="가비알"]  나 없을 때 내 업무를 혼자 도맡아서 처리한 건 아니겠지?
+
+[name="凯尔希"]  并没有。
+[name="ケルシー"]  していないさ。
+[name="Kal'tsit"]  No.
+[name="켈시"]  응.
+
+[name="嘉维尔"]  那就好，我要去给祖玛玛检查矿石病了，你们慢慢聊。
+[name="ガヴィル"]  それならよし。じゃあアタシはズゥママたちの鉱石病検査に行ってくるぜ。
+[name="Gavial"]  Good. I’m gonna give Zumama an Oripathy checkup. You have a nice chat now.
+[name="가비알"]  그럼 됐고. 난 광석병 검사하러 주마마한테 가야겠어.
+
+[name="煌"]  啊，那我也去看看克玛尔，哦，现在应该叫燧石了，我去看看她，语言不通，她怕是又要和别人打起来......
+[name="ブレイズ"]  じゃあ私もクマールの様子を見に行こうっと。あ、今はフリントって名前だっけ。あの子言葉が通じないから、また誰かと喧嘩になってるかも……
+[name="Blaze"]  Oh, I’ll see what Kemar’s up to. Err, I guess I’m calling her Flint now. I’m worried she’ll get into a fight, with the language barrier and all...
+[name="블레이즈"]  아, 그럼 나도 크마르한테 가볼게. 아, 이제는 플린트라고 해야 하나. 말이 안 통해서 다른 사람들이랑 싸우고 있지는 않은지 가봐야겠어……
+
+[name="嘉维尔"]  博士，特米米应该在常识课那边，你结束了记得去看一眼。
+[name="ガヴィル"]  ドクター、トミミは一般常識の授業を受けてるはずだ。もうすぐ終わると思うから、様子を見に行ってやってくれ。
+[name="Gavial"]  Doctor, Tomimi should be in her general studies class now. You check on her when you’re done.
+[name="가비알"]  박사, 토미미는 일반 상식 교육을 받고 있을 거야. 끝나면 한번 가 봐.
+
+[name="凯尔希"]  嘉维尔。
+[name="ケルシー"]  ガヴィル。
+[name="Kal'tsit"]  Gavial.
+[name="켈시"]  가비알.
+
+[name="嘉维尔"]  嗯？
+[name="ガヴィル"]  ん、なんだ？
+[name="Gavial"]  Hm?
+[name="가비알"]  응?
+
+[name="凯尔希"]  欢迎回来。
+[name="ケルシー"]  おかえり。
+[name="Kal'tsit"]  Welcome back.
+[name="켈시"]  돌아온 걸 환영해.
+
+[name="嘉维尔"]  哈哈。
+[name="ガヴィル"]  ハハッ。
+[name="Gavial"]  Haha.
+[name="가비알"]  하하.
+
+[name="煌"]  咦，我呢？！
+[name="ブレイズ"]  あれ、私には！？
+[name="Blaze"]  Hey! What about me? !
+[name="블레이즈"]  어? 나는!?
+
+[name="凯尔希"]  你的下一个任务在上个星期就准备好了，理论上来说你已经拖延了很久。
+[name="ケルシー"]  君の次の任務は先週から決まっている。本当は、もうかなり遅延しているんだ。
+[name="Kal'tsit"]  You had another mission ready to go last week. You’re technically very late.
+[name="켈시"]  네 다음 임무는 지난주에 이미 준비해 뒀어. 이미 놀만큼 놀았잖아?
+
+[name="煌"]  哦......
+[name="ブレイズ"]  ええ……
+[name="Blaze"]  Oh...
+[name="블레이즈"]  아아……
+
+[name="凯尔希"]  ......
+[name="ケルシー"]  ……
+[name="Kal'tsit"]  ......
+[name="켈시"]  ……
+
+[name="凯尔希"]  这对你来说应当是一次有些脱离常识的旅行。
+[name="ケルシー"]  君にとって、今回はいささか常識外れな旅だっただろう。
+[name="Kal'tsit"]  In your eyes, you just went on a nonsensical journey.
+[name="켈시"]  네겐 아마 상식을 벗어나는 여행이었겠지.
+
+[name="凯尔希"]  但是，如同嘉维尔的性格一样，这也是这片大地充满生机的证明。
+[name="ケルシー"]  だが今回の出来事は、この大地が活力に満ちている証明でもある。ガヴィルの性格と同じようにな。
+[name="Kal'tsit"]  But, just like our Gavial, it was a showcase of the lively and diverse world we inhabit.
+[name="켈시"]  하지만 가비알의 성격처럼, 이것도 이 땅에 생기가 넘친다는 증거일 거다.
+
+[name="凯尔希"]  漫长的时间中，许多事物已经被磨灭了它原有的色彩，过去的理所当然变成了如今的难能可贵。
+[name="ケルシー"]  長い年月の中で、多くの物事は摩耗し本来の色を失っていく。かつての当たり前は、今となっては得難いものになっている。
+[name="Kal'tsit"]  We lose so much to the endless march of time. That which was once a fact of life in the past is now precious to us.
+[name="켈시"]  기나긴 시간 동안 원래의 색채를 잃어버린 것들이 많아. 예전에는 당연했던 것들이 지금은 몹시 귀해졌지.
+
+[name="凯尔希"]  我们不得不去寻找人群的细缝间所漏出的光明，并把这种行为视作常态。
+[name="ケルシー"]  我々は、人混みの隙間から漏れ出す光を探りながら、それを常日頃から意識しておかねばならない。
+[name="Kal'tsit"]  We search for the light that slips through the breaks in the crowd and begin to see that as the norm.
+[name="켈시"]  우린 사람들 사이에서 새어 나오는 희망의 빛을 찾아야 한다. 이걸 습관처럼 늘 의식해야 해.
+
+[name="凯尔希"]  希望这次旅行能让你和同行的干员明白，有些东西并非遥不可及。
+[name="ケルシー"]  手が届かないと思っているものも、目を凝らせば、案外近くにあるものだ。そのことに、君や、今回の旅に同行したオペレーターたちが気付いてくれれば、と思う。
+[name="Kal'tsit"]  I hope you and your fellow operators learned a lesson from this trip: some things are not too far out of reach.
+[name="켈시"]  이번 여행으로 너와 네 동료 오퍼레이터들이 알았으면 한다. 어떤 것들은 그리 멀리 있지 않다는 걸 말이야.
+
+[name="可露希尔"]  凯尔希，该开会了！
+[name="クロージャ"]  ケルシー、会議の時間だよー！
+[name="Closure"]  Kal'tsit, meeting time!
+[name="클로저"]  켈시, 회의할 시간이야!
+
+[name="凯尔希"]  我知道。
+[name="ケルシー"]  ああ。
+[name="Kal'tsit"]  I know.
+[name="켈시"]  금방 갈게.
+
+[name="凯尔希"]  那么，Dr.{@nickname}，还有许多工作在等着你。
+[name="ケルシー"]  Dr.{@nickname}、君にはまだ多くの仕事が残っている。
+[name="Kal'tsit"]  Now then, Dr. {@nickname}, you have a lot of work waiting for you.
+[name="켈시"]  그럼… {@nickname} 박사, 처리해야 할 업무들이 아직 산더미다.
+
+[name="凯尔希"]  希望你在这次休假中获得了足够的休息。
+[name="ケルシー"]  今回の休暇で十分癒されただろう君が、今まで以上に尽力してくれることを期待している。
+[name="Kal'tsit"]  I hope you got enough rest on your vacation.
+[name="켈시"]  이번 휴가에서 충분한 휴식을 취했기를 바라지.
+

@@ -1,0 +1,490 @@
+[name="阿达克利斯人A"]  噫，这、这招死亡大风车......还有这个发夹......你、你难道是嘉维尔！
+[name="アダクリス人A"]  ヒィィ、こ、この必殺の大風車……それとそのヘアピン……お、お前もしかして、ガヴィルか？
+[name="Archosauria A"]  Gyuh! That... That reaper’s whirlwind... And that hairclip... Y-you’re Gavial!
+[name="아다크리스A"]  크윽… 이, 이 죽음의 풍차돌리기…… 그리고 그 머리핀…… 너…… 설마 가비알이냐!
+
+[name="嘉维尔"]  正是我！
+[name="ガヴィル"]  いかにもアタシだ！
+[name="Gavial"]  The one and only!
+[name="가비알"]  그래, 나다!
+
+[name="阿达克利斯人A"]  可恶，遇到你算我们倒霉。
+[name="アダクリス人A"]  くそ、ガヴィルに出くわすとはついてねぇ！
+[name="Archosauria A"]  Damn it. Just our luck, running into you.
+[name="아다크리스A"]  젠장, 널 만난 우리가 재수 옴 붙은 놈들이지.
+
+[name="阿达克利斯人A"]  但是，就算你是嘉维尔，也别想动摇我们对粗尾巴的信仰！
+[name="アダクリス人A"]  だが、たとえお前が出てきても、オレらの太い尻尾への信仰心は揺るがねぇぞ！
+[name="Archosauria A"]  But don’t get ahead of yourself, Gavial! Not even you could shake our faith in thick tails!
+[name="아다크리스A"]  그래도! 설령 네가 가비알이라 해도! 굵은 꼬리에 대한 우리의 신앙을 흔들 생각은 하지 마라!
+
+[name="嘉维尔"]  既然这么嚣张就别逃啊！
+[name="ガヴィル"]  威張り散らすなら逃げんじゃねぇ！
+[name="Gavial"]  Yeah, you’re such hot shit! Keep running!
+[name="가비알"]  그렇게 떵떵거리더니 어딜 도망가!
+
+[name="嘉维尔"]  博士，我们走吧，下次碰到了再收拾他们。
+[name="ガヴィル"]  チッ、行こうぜドクター。あいつらは次会った時にシメてやる。
+[name="Gavial"]  Doctor, let’s move. I can sort them out the next time I see them.
+[name="가비알"]  박사, 우리도 가자. 다음에 다시 만나면 본때를 보여주겠어.
+
+[name="特米米"]  嘉维尔，你怎么放过他们了。
+[name="トミミ"]  ガヴィルさん、どうして見逃してあげたんですか？
+[name="Tomimi"]  Gavial, how come you let them go?
+[name="토미미"]  가비알 씨, 왜 그냥 놓아준 거예요?
+
+[name="特米米"]  以前的你，遇到这种事肯定会把他们全追上打晕才解气的。
+[name="トミミ"]  昔のガヴィルさんなら、全員気を失うまでボコボコにしてたはずなのに。
+[name="Tomimi"]  You used to chase down every last person in a fight and beat them until they saw stars.
+[name="토미미"]  예전의 가비알 씨였으면, 분명 끝까지 쫓아가서 흠씬 두들겨패줘야 직성이 풀렸을 텐데……
+
+[name="嘉维尔"]  是啊，以前的我会这样。
+[name="ガヴィル"]  ああ、昔のアタシならな。
+[name="Gavial"]  Yeah. I used to do that.
+[name="가비알"]  그래, 예전의 나였으면 그랬겠지.
+
+[name="嘉维尔"]  不过，我现在觉得他们还挺可爱的，对吧，博士。
+[name="ガヴィル"]  だけど今は、あいつらにもどっか可愛げがあるように見えてな……そうだろ、ドクター。
+[name="Gavial"]  But nah, now I just think they’re kind of cute. Right, Doctor?
+[name="가비알"]  그렇지만 지금의 난 저 녀석이 귀엽게 느껴져. 박사, 무슨 말인지 알지?
+
+[Decision(options="虽然听不懂，不过确实。;......;暴揍他们的你比较不可爱。",values="1;2;3")]
+[Decision(options="よく理解できないが、そうだな。;……;じゃあ殴らなくても良かったんじゃ……",values="1;2;3")]
+[Decision(options="No idea what you’re saying, but I agree.;......;Cuter than you breaking them in half.",values="1;2;3")]
+[Decision(options="무슨 말인지는 모르겠지만, 확실히 그렇긴 하지.;……;저들을 패는 넌 그닥 귀엽지 않아.",values="1;2;3")]
+
+[name="嘉维尔"]  虽然由我来说可能比较奇怪，不过这里都是些头脑简单的家伙。
+[name="ガヴィル"]  アタシが言うのもなんだけど、みんな単純なヤツばかりでさぁ。
+[name="Gavial"]  Might sound strange coming from me, but this place is full of nothing but boneheads.
+[name="가비알"]  내가 이런 말 하는 게 좀 이상하긴 한데, 여기 있는 녀석들은 다들 머리가 단순하거든.
+
+[name="嘉维尔"]  哎，在外面动不动就要费脑子，有时候我也会怀念这里。
+[name="ガヴィル"]  外じゃ頭を使うことも多いし、たまにここが恋しくなるんだ。
+[name="Gavial"]  Ah, whatever. Have to think all the goddamn time outside. I almost miss it here.
+[name="가비알"]  휴…… 근데 바깥에선 수시로 머리를 써야 하니까, 가끔은 여기가 그립기도 해.
+
+[name="嘉维尔"]  喂，博士，你该不会也觉得粗尾巴比较好吧？
+[name="ガヴィル"]  おい、まさかドクタ－も、太い尻尾の方がいいなんて思ってねぇだろうな？
+[name="Gavial"]  Hey, Doctor, don’t tell me you’re a thick tail lover?
+[name="가비알"]  어이, 박사. 설마 너도 굵은 꼬리가 좋다고 생각하는 건 아니지?
+
+[name="嘉维尔"]  我可不同意啊！
+[name="ガヴィル"]  そんなこと言ったらただじゃ置かねぇからな！
+[name="Gavial"]  ‘Cause we’re not gonna see eye-to-eye on that!
+[name="가비알"]  난 절대 동의 못 하니까!
+
+[name="嘉维尔"]  哈！虽然我觉得他们可爱，但并不妨碍我揍他们啊。
+[name="ガヴィル"]  甘ぇ！　可愛いとは思っても、殴らないとは言ってねぇよ。
+[name="Gavial"]  Hah! Well, thinking they’re cute won’t stop me beating the tar outta them.
+[name="가비알"]  하! 저 자식들이 귀엽긴 하지만, 그래도 내가 두들겨 패는 걸 막을 정돈 아니지.
+
+[name="嘉维尔"]  这叫怎么说来着，对了，一码归一码！
+[name="ガヴィル"]  つまりアレだ……これはこれ、それはそれってやつだな！
+[name="Gavial"]  They’re not... uh... what’s the word...? Mutually exclusive!
+[name="가비알"]  이런 걸 뭐라고 하더라…… 그래, 이건 이거고 그건 그거라고!
+
+[name="特米米"]  嘉维尔......真的和以前不一样了呢。
+[name="トミミ"]  ガヴィルさん……やっぱり変わってしまいました。
+[name="Tomimi"]  Gavial... you really have changed.
+[name="토미미"]  가비알 씨…… 정말 예전과 달라졌군요.
+
+[name="嘉维尔"]  嗯？等等，特米米，你这丫头。
+[name="ガヴィル"]  あれ？　おいトミミ、なんだそれ！　このガキンチョが！
+[name="Gavial"]  Mm? Hold on, Tomimi, you little brat.
+[name="가비알"]  음? 잠깐, 토미미, 너 이 녀석.
+
+[name="特米米"]  诶？
+[name="トミミ"]  え？
+[name="Tomimi"]  Eh?
+[name="토미미"]  네?
+
+[name="嘉维尔"]  几年不见，你的尾巴又变粗了啊。
+[name="ガヴィル"]  お前、また尻尾が太くなってるじゃねぇか！
+[name="Gavial"]  I go away for a couple years and I come back to find your tail’s even fatter.
+[name="가비알"]  몇 년 못 봤더니, 그새 꼬리가 더 굵어졌잖아.
+
+[name="特米米"]  诶诶诶！
+[name="トミミ"]  ほえええ！
+[name="Tomimi"]  Wh-wh-whuh?!
+[name="토미미"]  으에에에엣!
+
+[name="嘉维尔"]  你该不会也是粗尾巴那一边的吧？
+[name="ガヴィル"]  もしかしてお前も太い尻尾の味方なのか？
+[name="Gavial"]  Gonna try and tell me you’re with thick tails, too?
+[name="가비알"]  설마 너도 굵은 꼬리 쪽에 붙은 건 아니겠지?
+
+[name="特米米"]  没有没有，我也不是自己想它才变这么粗的呀！
+[name="トミミ"]  違います違います、好きでこんな太くなったわけじゃありません！
+[name="Tomimi"]  No no no no! It’s not like I wanted it to grow so thick!
+[name="토미미"]  아니요, 아니요! 이건 제가 원해서 이렇게 굵어진 게 아니에요!
+
+[name="特米米"]  呜呜，我也想要嘉维尔一样的细尾巴......
+[name="トミミ"]  うぅ、私もガヴィルさんみたいな細い尻尾がよかったです……
+[name="Tomimi"]  *Whimper* I want a nice, thin tail just like Gavial’s...
+[name="토미미"]  흐흑…… 저도 가비알 씨처럼 가는 꼬리가 갖고 싶다고요……
+
+[name="嘉维尔"]  这样啊，啧啧，真是个可怜的孩子。
+[name="ガヴィル"]  そうだったか。ったく、可哀想なヤツだな。
+[name="Gavial"]  Well, shucks. *Clicks tongue* What a poor kid you are.
+[name="가비알"]  그렇구나…… 쯧쯧…… 가만 보면 너도 참 딱해.
+
+[name="嘉维尔"]  不过，刚才战斗的时候看了看，你的源石技艺变得挺厉害了啊。
+[name="ガヴィル"]  つーかさっきの喧嘩で見せてもらったけど、ずいぶんとアーツも成長したじゃねぇか。
+[name="Gavial"]  Though watching you fight back there, your Arts are pretty strong now, huh?
+[name="가비알"]  그런데 방금 싸울 때 보니까, 네 오리지늄 아츠 장난 아니던데?
+
+[name="特米米"]  真、真的吗？！
+[name="トミミ"]  ほ、本当ですか！？
+[name="Tomimi"]  R... Really? !
+[name="토미미"]  지, 진짜요?!
+
+[name="嘉维尔"]  是啊，来我们罗德岛做个干员应该都没问题了。
+[name="ガヴィル"]  ああ、ロドスのオペレーターにだってなれるレベルだ。
+[name="Gavial"]  Yeah. Come over to Rhodes Island and be an operator. Should be no problem for you.
+[name="가비알"]  그럼! 우리 로도스 아일랜드에서 오퍼레이터로 활약해도 손색이 없겠는걸.
+
+[name="特米米"]  干......员？
+[name="トミミ"]  おぺ……れーたー？
+[name="Tomimi"]  Ope... rator?
+[name="토미미"]  오퍼…… 레이터?
+
+[name="嘉维尔"]  干员就是呃，反正就是干活的，比如我就是医疗干员。
+[name="ガヴィル"]  あー、オペレーターってのはえーっと、要は働いてる人のことだ。例えばアタシは医療オペレーターをやってる。
+[name="Gavial"]  Operators are, uh... Well, I guess it’s a job. Like me, I’m a Medic Operator.
+[name="가비알"]  오퍼레이터는 말이야, 아 뭐라 그러냐… 아무튼 일하는 거야. 예를 들어 나는 메딕 오퍼레이터로 일하고 있지.
+
+[name="嘉维尔"]  我记得我走的时候你还在巫医那里学习吧。
+[name="ガヴィル"]  アタシが出て行ったときも、お前は呪術医のところに勉強しに行ってたんだっけ。
+[name="Gavial"]  I remember you were still learning from the shamans when I left, right?
+[name="가비알"]  내가 떠날 때만 해도 넌 무당 밑에서 배우고 있지 않았었나?
+
+[name="特米米"]  嗯！为了嘉维尔能够回来，我每天都在磨练自己！
+[name="トミミ"]  はい！　それからも、ガヴィルさんに帰ってきてもらうために毎日自分を鍛えてきました！
+[name="Tomimi"]  Yep! I’ve been disciplining myself every day for you, Gavial, so one day you’d come back!
+[name="토미미"]  네! 가비알 씨가 돌아올 수 있도록, 매일 열심히 훈련했어요!
+
+[name="嘉维尔"]  为了我？
+[name="ガヴィル"]  アタシの……ために？
+[name="Gavial"]  For me?
+[name="가비알"]  날…… 위해서?
+
+[name="特米米"]  啊......唔，我是说，为了嘉维尔回来的时候能够帮上忙！就像刚才那样！
+[name="トミミ"]  あっ……えっと、つまり、ガヴィルさんが帰って来たら役に立てるように、です！　さっきみたいに！
+[name="Tomimi"]  Oh... um, by that, I mean, for when you come back so I could help you out! Like I did just now!
+[name="토미미"]  아…… 어…… 그러니까, 가비알 씨가 돌아왔을 때 도와드릴 수 있게요! 방금처럼요!
+
+[name="嘉维尔"]  好吧，那你确实帮上了忙。
+[name="ガヴィル"]  そうか、それなら十分役に立ったぞ。
+[name="Gavial"]  Well, damn. You really did help out, then. Well done.
+[name="가비알"]  그래, 확실히 도움이 되더라.
+
+[name="特米米"]  诶嘿嘿......被嘉维尔夸奖了。
+[name="トミミ"]  えへへ……ガヴィルさんに褒められました。
+[name="Tomimi"]  Eheheh... I love when you compliment me.
+[name="토미미"]  에헤헤…… 가비알 씨에게 칭찬받았네요.
+
+[name="嘉维尔"]  好了，总而言之，继续前进吧，我记得神庙就在前面不远了吧？
+[name="ガヴィル"]  よし、お喋りはこの辺にしてとにかく先に進むぞ。霊殿はもうすぐそこだよな？
+[name="Gavial"]  Cool. Let’s keep moving then. Do I remember the Temple’s just ahead?
+[name="가비알"]  자자, 어쨌든 계속 움직이자. 신전은 이 근처였던 거 같은데……
+
+[name="特米米"]  嗯。
+[name="トミミ"]  はい。
+[name="Tomimi"]  Mm-hm.
+[name="토미미"]  네. 멀지 않은 곳에 있어요.
+
+[name="阿达克利斯人A"]  森蚺绝对是大酋长啊，他们部族这么厉害。
+[name="アダクリス人A"]  ユーネクテスが大族長で決まりだろ。あんなに強ぇ部族のトップなんだし。
+[name="Archosauria A"]  Eunectes has to be the Great Chief, c’mon. Look at how strong the whole tribe is.
+[name="아다크리스A"]  틀림없이 유넥티스가 대족장이라니까, 그 부족 완전 세잖아.
+
+[name="阿达克利斯人B"]  是啊，而且她自己也很强，以前不都说除了嘉维尔，就是森蚺了，现在嘉维尔不在......
+[name="アダクリス人B"]  間違いねぇ、部族以上に本人も強ぇからな。ガヴィルがいなきゃあいつが一番だってみんな昔から言ってたしな。
+[name="Archosauria B"]  Yeah, and she’s top of the pile. Everyone said if not Gavial, then Eunectes, and now Gavial’s gone...
+[name="아다크리스B"]  그렇지, 게다가 족장도 엄청 세다고. 전에는 다들 가비알 다음이 바로 그 녀석이라 했는데, 지금 가비알이 없으니까……
+
+[name="阿达克利斯人C"]  喂，看那边！
+[name="アダクリス人C"]  ねぇ、アレを見て！
+[name="Archosauria C"]  Hey, over there!
+[name="아다크리스C"]  야, 저기 좀 봐!
+
+[name="阿达克利斯人B"]  那个难道是，嘉维尔？
+[name="アダクリス人B"]  あれ、もしかして、ガヴィルか？
+[name="Archosauria B"]  No way... Gavial?
+[name="아다크리스B"]  저건 설마…… 가비알?!
+
+[name="阿达克利斯人A"]  喂，嘉维尔，你终于回来了啊！
+[name="アダクリス人A"]  おいガヴィル、ようやく帰って来たのか！
+[name="Archosauria A"]  Hey, Gavial! You’re finally back!
+[name="아다크리스A"]  어이, 가비알! 돌아왔구나!
+
+[name="嘉维尔"]  噢，好久不见啊！
+[name="ガヴィル"]  おう、久しぶりだな！
+[name="Gavial"]  Whoa! Long time no see, huh!
+[name="가비알"]  여어! 오랜만!
+
+[name="阿达克利斯人A"]  喂，你腰上这根羽毛这么好看，哪里来的？
+[name="アダクリス人A"]  おい、そのイカす腰の羽飾り、どこで手に入れたんだ？
+[name="Archosauria A"]  Hey, that feather on your waist is nice! Where’d it come from?
+[name="아다크리스A"]  뭐야 허리에 그 깃털, 멋 좀 부렸나 보네? 어디서 난 거야?
+
+[name="阿达克利斯人B"]  我用武器去跟依娜姆大姐换的。
+[name="アダクリス人B"]  イナムの姉さんのところで武器と交換してもらったんだ。
+[name="Archosauria B"]  Traded one of my weapons to Inam for it.
+[name="아다크리스B"]  이남 누님한테 가서 무기랑 바꿔온 거야.
+
+[name="阿达克利斯人C"]  唉，你们部族真好，依娜姆大姐什么都搞得到，我也想去你们部族啊。
+[name="アダクリス人C"]  あーあ、あんたたちの部族はいいわね。イナムの姉さんに頼めば何でも手に入るみたいだし、あたしも入れてほしいくらい。
+[name="Archosauria C"]  Man, your tribe really has it good. Inam can get her hands on anything. I wish I could be with you guys too.
+[name="아다크리스C"]  아아~ 너희 부족은 좋겠다. 이남 누님한테서 뭐든 얻을 수 있잖아. 나도 너희 부족 가고 싶다.
+
+[name="阿达克利斯人B"]  不行，依娜姆大姐最讨厌人多了，不过你们要是有什么想要的，可以问我！
+[name="アダクリス人B"]  ダメだ！　イナムの姉さんは大所帯が嫌いなんだ。なんか欲しいもんがあるんだったら、オレに言えばいいさ！
+[name="Archosauria B"]  Too bad. Inam hates crowds. But if there’s anything you guys want, you can go through me!
+[name="아다크리스B"]  안 돼, 이남 누님은 사람 많은 건 딱 질색이시거든. 대신 필요한 거 있으면 나한테 말해도 돼!
+
+[name="阿达克利斯人A"]  好啊！......喂，看那边。
+[name="アダクリス人A"]  よしわかった！　……おい、あっちを見てみろ。
+[name="Archosauria A"]  Deal! ...Hey. Look over there.
+[name="아다크리스A"]  잘 됐다! 그럼…… 헉…… 야, 저기 좀 봐.
+
+[name="阿达克利斯人C"]  那个，难道是嘉维尔！
+[name="アダクリス人C"]  あれは、もしかしてガヴィル！？
+[name="Archosauria C"]  Is that... wait, it’s Gavial!
+[name="아다크리스C"]  저건…… 설마 가비알?
+
+[name="阿达克利斯人B"]  她居然回来了？！
+[name="アダクリス人B"]  ガヴィルが戻って来ただと！？
+[name="Archosauria B"]  She’s actually back? !
+[name="아다크리스B"]  가비알이 돌아왔다고?!
+
+[name="阿达克利斯人C"]  嘉维尔，你原来没死啊！
+[name="アダクリス人C"]  ガヴィル、あんたまだ生きてたの！？
+[name="Archosauria C"]  Gavial! So you weren’t dead!
+[name="아다크리스C"]  가비알, 너 살아있었구나!
+
+[name="嘉维尔"]  我活得好好的！
+[name="ガヴィル"]  ピンピンしてるさ！
+[name="Gavial"]  Alive and well, baby!
+[name="가비알"]  난 아주 잘 살아있지!
+
+[name="阿达克利斯人A"]  哥哥，别逞强了，你都得了石头病了，还是在家好好躺着吧。
+[name="アダクリス人A"]  兄貴は石塊病なんだから、無理しないで家で寝てろって。
+[name="Archosauria A"]  Brother, come on. Stop trying to make a show. You’ve got the Stone Disease and all. Just go back home and lie down, okay?
+[name="아다크리스A"]  형, 무리하지 마. 돌멩이병 걸렸잖아, 그냥 집에 얌전히 누워있어.
+
+[name="阿达克利斯人B"]  别说了，一点小病比起祭典算什么！
+[name="アダクリス人B"]  うるせぇ、こんな病気、祭典の前じゃ屁でもねぇよ！
+[name="Archosauria B"]  Who cares! What’s a little disease in the face of the ceremony?!
+[name="아다크리스B"]  시끄러, 이깟 병 따위, 제전에 비하면 아무것도 아냐!
+
+[name="阿达克利斯人A"]  虽然是小病，但也是病啊！而且要是让别人看到我哥哥尾巴上长出石头，那多丢人！
+[name="アダクリス人A"]  だけど、病気は病気だろ！　それに兄貴の尻尾から石が生えてんのを誰かに見られたら、恥ずかしいったらねぇよ！
+[name="Archosauria A"]  A little disease is still disease! And think about how bad it’d be for us if you went out there and showed everyone the rocks growing on your tail!
+[name="아다크리스A"]  별거 아닌 병도 병이잖아! 게다가 형 꼬리에 돌멩이가 자라난 걸 남들이 보기라도 하면 얼마나 쪽팔리겠어!
+
+[name="阿达克利斯人A"]  而且嘉维尔不在，大酋长肯定是祖玛玛！
+[name="アダクリス人A"]  だいたいガヴィルがいねぇんだから、どうせ大族長はズゥママで決まりだって！
+[name="Archosauria A"]  Look, Gavial might be gone, but now Zumama’s sure to be the next Great Chief!
+[name="아다크리스A"]  게다가 가비알이 없으니, 대족장은 틀림없이 주마마일 거야!
+
+[name="阿达克利斯人B"]  我就是要见证祖玛玛当上酋长的那一刻啊！
+[name="アダクリス人B"]  そのズゥママが大族長になる瞬間が見てぇんだ！
+[name="Archosauria B"]  That’s the part I care about! I need to witness the moment Zumama becomes Chief!
+[name="아다크리스B"]  주마마가 대족장이 되는 바로 그 순간을 내 눈으로 봐야 한다고!
+
+[name="阿达克利斯人B"]  可恶，我不该不听祖玛玛的话......嗯？弟弟，看那边！
+[name="アダクリス人B"]  くそ、最初からズゥママの話を聞いときゃな……ん？　おい、あっちを見てみろ！
+[name="Archosauria B"]  Damnit, I should have listened to Zumama... huh?  Brother, look over there!
+[name="아다크리스B"]  젠장, 주마마의 말을 들었어야 했는데…… 음? 동생아, 저기!
+
+[name="阿达克利斯人A"]  不是吧，那个人是......嘉维尔？！
+[name="アダクリス人A"]  嘘だろ、あれは……ガヴィル！？
+[name="Archosauria A"]  It couldn’t be. Is that... Gavial? !
+[name="아다크리스A"]  말도 안 돼, 저 사람은…… 가비알?!
+
+[name="阿达克利斯人A"]  她难道回来争大酋长了？
+[name="アダクリス人A"]  大族長の座を奪いに帰ってきたのか？
+[name="Archosauria A"]  Has she come back to become Great Chief?
+[name="아다크리스A"]  설마 대족장 자리를 차지하려고 돌아온 건가?
+
+[name="阿达克利斯人B"]  ......弟弟，抱歉，这下看来我必须去看祭典了。
+[name="アダクリス人B"]  ……弟よ、悪いが、オレはどうしても祭典に行かなきゃならねぇ。
+[name="Archosauria B"]  ...I’m sorry, but now I HAVE to see the ceremony.
+[name="아다크리스B"]  동생아…… 미안하다. 이번엔 꼭 제전 보러 가야겠다.
+
+[name="阿达克利斯人A"]  嗯，哥哥，这下确实不看不行了呢。
+[name="アダクリス人A"]  ああ、兄貴よ、こりゃ行くっきゃねぇな。
+[name="Archosauria A"]  Yeah. I don’t think anyone can miss this now.
+[name="아다크리스A"]  어어…… 이번엔 절대 놓치면 안 될 거 같아.
+
+[name="特米米"]  咦，那两个人，好像是森蚺部族的......
+[name="トミミ"]  あれ、あの二人は、確かユーネクテス族の……
+[name="Tomimi"]  Huh? Those two look like they’re from the Eunectes tribe...
+[name="토미미"]  어라, 저 두 사람은 유넥티스 부족의……
+
+[name="阿达克利斯人B"]  真的是嘉维尔！你终于回来了！
+[name="アダクリス人B"]  本当にガヴィルだ！　戻って来たんだな！
+[name="Archosauria B"]  It really is Gavial! You’re finally back!
+[name="아다크리스B"]  진짜 가비알이네! 결국 돌아왔구나!
+
+[name="阿达克利斯人A"]  嘉维尔，我一直相信你的啊！
+[name="アダクリス人A"]  ガヴィル、信じてたぜ！
+[name="Archosauria A"]  I always believed in you, Gavial!
+[name="아다크리스A"]  가비알! 믿고 있었다!
+
+[name="阿达克利斯人C"]  喂，大伙，快看，是嘉维尔！
+[name="アダクリス人C"]  おい、みんなあっちを見ろ、ガヴィルだ！
+[name="Archosauria C"]  Hey, everyone, look! It’s Gavial!
+[name="아다크리스C"]  동네 사람들~ 어서 봐봐, 가비알이야!
+
+[name="阿达克利斯人们"]  嘉维尔，嘉维尔，嘉维尔！
+[name="アダクリス人たち"]  ガヴィル！　ガヴィル！　ガヴィル！
+[name="Archosauria"]  Gavial! Gavial! Gavial!
+[name="아다크리스들"]  가비알! 가비알!! 가비알!!!
+
+[name="嘉维尔"]  真是群热闹的家伙......我们还是走快点吧。
+[name="ガヴィル"]  騒がしい連中だ……さっさと行こうぜ。
+[name="Gavial"]  Whew, what a rowdy bunch... Looks like we oughta pick up the pace.
+[name="가비알"]  정말 시끄러운 녀석들이군…… 빨리 지나가자.
+
+[name="特米米"]  嗯，毕竟大家都很喜欢祭典呢，也都很喜欢嘉维尔呢！
+[name="トミミ"]  そんなふうに言わないでください。みんな祭典が楽しみで、ガヴィルさんのことも大好きなんですから！
+[name="Tomimi"]  Mm-hm! Everyone loves the ceremony, after all. And everyone loves Gavial too!
+[name="토미미"]  네, 모두들 제전을 아주 좋아하니까요, 가비알 씨도 아주 좋아하고요!
+
+[name="特米米"]  啊，嘉维尔，看前面那块板子。
+[name="トミミ"]  あ、ガヴィルさん。あの看板を見てください。
+[name="Tomimi"]  Oh. Gavial, look at that sign there.
+[name="토미미"]  아, 가비알 씨, 앞에 저 판자 좀 보세요.
+
+[name="嘉维尔"]  我看看，啧，写的什么破字......哦，就是写的“玛维索提亚”。
+[name="ガヴィル"]  えーっと、ったく、きったねー字だな……「マヒゾッティア」。ってことは……
+[name="Gavial"]  Lemme see. Tch, goddamned scratchy handwriting... Oh, look at that. It says “Mahuizzotia.”
+[name="가비알"]  어디 보자… 쳇, 무슨 글씨가 이래…… 아, '마후이쪼티아'라고 쓰여 있네.
+
+[name="特米米"]  我们到了。
+[name="トミミ"]  はい、到着です！
+[name="Tomimi"]  We’re here.
+[name="토미미"]  네, 도착했네요!
+
+[name="嘉维尔"]  咦，这里怎么会有音乐？
+[name="ガヴィル"]  ん？　なんで音楽なんか流れてんだ？
+[name="Gavial"]  Wait. What gives with the music?
+[name="가비알"]  엥, 어째서 음악 소리가 들리는 거지?
+
+[name="嘉维尔"]  而且这音乐怎么有些耳熟......
+[name="ガヴィル"]  それにどっかで聴いたことあるような……
+[name="Gavial"]  And for that matter, why do I recognize it...
+[name="가비알"]  어디서 들어 본 노랜데…
+
+[name="嘉维尔"]  喂，博士，这不是AUS的歌吗！
+[name="ガヴィル"]  おい、ドクター、これはAUSの歌じゃねぇか！？
+[name="Gavial"]  Wait! Doctor, this is an AUS song, isn’t it?!
+[name="가비알"]  박사, 이거 AUS 노래 아냐?!
+
+[Decision(options="确实。;......;是吗？", values="1;2;3")]
+[Decision(options="確かに。;……;そうだっけ？", values="1;2;3")]
+[Decision(options="Definitely.;......;Is it?", values="1;2;3")]
+[Decision(options="그러네.;……;그랬나?", values="1;2;3")]
+
+[name="嘉维尔"]  是吧。
+[name="ガヴィル"]  だよな！
+[name="Gavial"]  Well, damn.
+[name="가비알"]  맞지?!
+
+[name="嘉维尔"]  虽然我不太懂，但是听其他人偶尔放也有印象。
+[name="ガヴィル"]  アタシも詳しいわけじゃねぇけど、他のヤツが流してたのを聴いたことがあんだ。
+[name="Gavial"]  I’m not totally sure myself, but I’ve definitely heard people playing this before.
+[name="가비알"]  나도 잘은 모르는데, 누가 가끔 틀어놓았던 걸 들었던 기억이 나.
+
+[name="嘉维尔"]  博士，别陶醉进去听啊！
+[name="ガヴィル"]  ドクター、なに聴き入ってんだよ！
+[name="Gavial"]  Snap out of it, Doctor! Don’t just walk in!
+[name="가비알"]  박사, 음악에 심취하지 말라고!
+
+[name="嘉维尔"]  罗德岛上也有不少这支乐队的粉丝，应该没错。
+[name="ガヴィル"]  ロドスにもあいつらのファンはたくさんいるし、間違いねぇよ。
+[name="Gavial"]  Lots of AUS fans at Rhodes Island. That’s gotta be it.
+[name="가비알"]  로도스 아일랜드에도 이 밴드의 팬이 꽤 많으니까, 아마 맞을 거야.
+
+[name="特米米"]  啊，确实是AUS的歌呢。
+[name="トミミ"]  あ、確かにAUSの歌ですね。
+[name="Tomimi"]  Ah. Yep, this is an AUS song.
+[name="토미미"]  아, AUS의 노래가 확실히 맞네요.
+
+[name="嘉维尔"]  你怎么也知道AUS？！
+[name="ガヴィル"]  お前も知ってるのか！？
+[name="Gavial"]  How do you know what AUS is? !
+[name="가비알"]  네가 어떻게 AUS를 알아?!
+
+[name="特米米"]  大约去年的时候，有一群自称AUS的奇怪外乡人来过这里。
+[name="トミミ"]  はい。たしか去年のことです、「AUS」を自称する風変わりな来訪者がここに来たんですよ。
+[name="Tomimi"]  Around this time last year, a bunch of strange people calling themselves AUS came here from the outside.
+[name="토미미"]  아마 작년이었나, 자칭 AUS라는 이상한 외부인들이 여기에 왔었어요.
+
+[name="特米米"]  她们先是在依娜姆的部族那里进行了一次演唱会，这场演唱会过后，很多提亚卡乌都把她们当成“玛维索提亚”的使者来对待了。
+[name="トミミ"]  彼女たちはイナムの部族でライブをしたんですが、それが受けて、多くのティアカウが彼女たちのことを「マヒゾッティア」の使者と呼ぶようになったんです。
+[name="Tomimi"]  They held a concert at Inam’s tribe first. After that, a whole lot of Tiacauh started treating them like heralds of the Mahuizzotia.
+[name="토미미"]  그 사람들은 먼저 이남 부족으로 가서 라이브 공연을 했는데, 공연이 끝나자 티아카우의 많은 사람들은 그 사람들을 '마후이쪼티아'의 사자로 대접하게 됐어요.
+
+[name="嘉维尔"]  哈？
+[name="ガヴィル"]  は？
+[name="Gavial"]  Huh?
+[name="가비알"]  하아?
+
+[name="特米米"]  然后她们就被请求留在这里进行了相当长一段时间的演出，而且演出的地点基本都是在神庙那里。
+[name="トミミ"]  それから、ティアカウたちの熱い歓迎と誘いを受けて、彼女たちはかなりの間滞在してくれたんです。霊殿はいつもライブで賑わっていました。
+[name="Tomimi"]  Later on, they were asked to stay for a long performance in the Temple surroundings.
+[name="토미미"]  그 사람들은 이곳에 남아달라는 부탁을 받고 꽤 오랫동안 여기서 공연을 했어요. 공연은 대부분 신전에서 열렸고요.
+
+[name="特米米"]  我也有听过一次，确实是很厉害很好听的音乐呢......而且能感觉到很厉害的法术技巧。
+[name="トミミ"]  私も聴きに行きましたが、本当にいい音楽でした……それにアーツの技量もかなりのものに見えました。
+[name="Tomimi"]  I got to hear them once. Their music really was powerful, and beautiful... you could feel their awesome Arts, too.
+[name="토미미"]  저도 가서 들어본 적 있어요. 확실히 굉장히… 엄청나고 듣기 좋은 음악이었어요… 게다가 엄청난 아츠의 기교도 느낄 수 있었고요.
+
+[name="特米米"]  在那之后，许多提亚卡乌就爱上了这种音乐。
+[name="トミミ"]  それで、それからというもの、かなり多くのティアカウたちがあの音楽にハマってしまったんです。
+[name="Tomimi"]  Ever since, lots of Tiacauh fell in love with this kind of music.
+[name="토미미"]  그 후로 많은 티아카우들이 이런 음악에 푹 빠져들었죠.
+
+[name="特米米"]  然后有一天，她们就又忽然消失了，大家都说她们是回到先祖的怀抱去了。
+[name="トミミ"]  でもある日、彼女たちはこつ然と姿を消しました。みんなは先祖の懐に帰ったんだって言ってますが……
+[name="Tomimi"]  And then suddenly one day, they disappeared. Everyone said they’d gone back to their ancestors’ embrace.
+[name="토미미"]  그러던 어느 날 AUS는 홀연히 자취를 감췄는데, 그땐 다들 선조의 품으로 돌아간 거라고 했어요……
+
+[name="特米米"]  不过我知道她们只是和嘉维尔你一样离开了。
+[name="トミミ"]  彼女たちはただ出て行っただけなんだと思います。ガヴィルさんと同じように。
+[name="Tomimi"]  But I knew they’d only left, same as Gavial had.
+[name="토미미"]  하지만 전 그 사람들도 단지 가비알 씨처럼 떠난 거라는 걸 알았죠.
+
+[name="特米米"]  这里播放的音乐应该是有人把她们离开时留下的叫做“音响”的东西搬过来了，她们离开前，好像还留下了许多她们的唱片。
+[name="トミミ"]  今聴こえてくる音楽は、彼女たちが去り際に残した「すぴーかー」というもので流してるんだと思います。彼女たちは「すぴーかー」だけじゃなく、「あるばむ」もたくさん残していきましたから。
+[name="Tomimi"]  The music playing right now should be coming from those “speaker” things they left here. I think they also left behind some of their albums?
+[name="토미미"]  지금 흘러나오는 음악은 분명 누군가 그 사람들이 남긴 '스테레오'라는 음향 장비를 가져온 걸 거예요. 게다가 떠나기 전에 본인들의 음반도 꽤 남겨둔 것 같더라고요.
+
+[name="嘉维尔"]  音响？
+[name="ガヴィル"]  スピーカー？
+[name="Gavial"]  Speakers?
+[name="가비알"]  음향 장비?
+
+[name="特米米"]  嗯，因为是需要法术技巧才能使用的东西，所以只有祭祀和巫医们能够使用它们，平时应该都是放在依娜姆的部族里的。
+[name="トミミ"]  はい、アーツでしか起動しないものなので、司祭と呪術医たちしか使えませんが。普段はイナムの部族が保管してるはずです。
+[name="Tomimi"]  Yep. They need Arts to function, so only priests and shamans can actually use them, and most of them are in Inam’s tribe.
+[name="토미미"]  네, 아츠를 다룰 수 있는 능력이 있어야만 사용할 수 있는 물건이죠. 그래서 제사장과 무당들만 사용할 수 있는데, 평소엔 이남 부족에서 보관하고 있을 거예요.
+
+[name="嘉维尔"]  哈哈哈，这支乐队还真是自由。
+[name="ガヴィル"]  ハハハ、来るも去るも気分次第ってか。フリーダムなバンドだな。
+[name="Gavial"]  Hahaha! Now that’s a band of freewheelers.
+[name="가비알"]  하하하, 정말 자유로운 밴드네.
+
+[name="嘉维尔"]  而且她们的音乐确实很刺激，我还没进去就已经有些热血沸腾起来了，我开始喜欢上她们了！
+[name="ガヴィル"]  確かに刺激的な音楽だな。まだ霊殿に入ってないのに血が滾ってきたぜ。アタシもファンになりそうだ！
+[name="Gavial"]  Can’t deny, their songs really get up in there. I haven’t even stepped in and they’ve got my blood running hot. I think I’m beginning to like them!
+[name="가비알"]  게다가 음악도 무척 자극적이야. 듣기만 했는데도 벌써 뜨거운 피가 끓어오르는 느낌인걸. 나, 이 밴드가 좋아지기 시작했어!
+
+[name="嘉维尔"]  走吧，博士，我们进去一边听音乐，一边享受祭典！
+[name="ガヴィル"]  行こうぜ、ドクター。中で曲を聴きながら、祭典を楽しもうぜ！
+[name="Gavial"]  Let’s go, Doctor! We’re gonna hear some music and enjoy a hell of a show!
+[name="가비알"]  가자, 박사. 안에서 음악도 들으면서, 제전을 즐겨보자고!
+
