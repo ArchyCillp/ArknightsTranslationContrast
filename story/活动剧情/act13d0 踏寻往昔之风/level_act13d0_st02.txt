@@ -1,0 +1,1615 @@
+[name="芳汀"]  武器可靠性证明？
+[name="アレーン"]  武器の信頼性証明？
+[name="Arene"]  Weapon reliability certification?
+[name="아렌"]  무기 신뢰성 증명?
+
+[name="芳汀"]  那是什么？
+[name="アレーン"]  何それ？
+[name="Arene"]  What’s that about?
+[name="아렌"]  뭐야 그건?
+
+[name="芳汀"]  需要我本人带着武器，去工坊接受检查，然后拿工匠的签名回来？
+[name="アレーン"]  武器を工房に持って行って、検査を受けて、それから職人のサインをもらって戻ってこいっていうの？
+[name="Arene"]  You need me to take my weapon down to the workshop for inspection, and have the people there sign off on it?
+[name="아렌"]  무기를 공방에 갖고 가서, 검사를 받고, 그 다음엔 기능공의 서명을 받아 오라고?
+
+[name="芳汀"]  使用自带武器，竟然还要走这种流程啊......啧，听起来就好麻烦。
+[name="アレーン"]  自分の武器を使うのにも、そんなプロセスが要るなんて……はぁ、面倒くさそう。
+[name="Arene"]  Do we really have to go through all that just because I brought my own weapon...?
+[name="아렌"]  남의 무기도 아니고 자기 무기를 쓴다는데 그런 과정이 필요하다니…… 하아, 귀찮게 정말.
+
+[name="芳汀"]  老师就不能通融一下，直接帮我签掉不就好了。
+[name="アレーン"]  融通が利かないな。センセーがサインしてくれればいいのに。
+[name="Arene"]  Can’t you bend the rules a little bit, Professor? Just sign off for me.
+[name="아렌"]  하여간 융통성이 없다니까. 선생님이 바로 서명해줘야 할 텐데…
+
+[name="芳汀"]  不可以？这是罗德岛的规矩？
+[name="アレーン"]  ダメ？　ロドスの規則？
+[name="Arene"]  You can’t? We have procedures?
+[name="아렌"]  안 된다고? 로도스 아일랜드의 규칙인가?
+
+[name="芳汀"]  真没意思。好吧，好吧，如果您坚持的话，我就自己去一趟吧。
+[name="アレーン"]  つまんないなぁ。はいはい、センセーがそこまで言うなら行ってくるよ。
+[name="Arene"]  That’s lame. Okay, okay. I’ll head over there if you insist.
+[name="아렌"]  정말 별의 별… 그래, 선생님이 그렇게까지 나온다면, 한번 다녀오지 뭐.
+
+[name="芳汀"]  初来乍到，我也不想这么快就惹那位凯尔希医生生气。
+[name="アレーン"]  僕だって、来て早々あのケルシー先生を怒らせたくないしね。
+[name="Arene"]  I only just got here. I don’t want to get on Dr. Kal’tsit’s bad side.
+[name="아렌"]  나도 로도스 아일랜드에 오자마자 켈시 선생님을 화나게 하고 싶진 않으니까.
+
+[name="芳汀"]  那就一会见了，老师。
+[name="アレーン"]  じゃあまたね、センセー。
+[name="Arene"]  I’ll see you later, Professor.
+[name="아렌"]  그럼 또 보자고, 선생님.
+
+罗德岛舰船，第三维修工坊，早晨
+ロドス艦船 第三修理工房 早朝
+Rhodes Island Landship, Workshop No. 3, Morning
+로도스 아일랜드 함선, 제3수리공방, 아침
+
+[name="芳汀"]  有没有人在？
+[name="アレーン"]  誰かいないの？
+[name="Arene"]  Anybody home?
+[name="아렌"]  아무도 없나?
+
+[name="？？？"]  您好，现在工坊不营业，五位工匠都去参加维修竞技比赛了。
+[name="？？？"]  やぁ、こんにちは。工房は休業中ですよ。職人が五人ともメンテナンスコンペに参加中なんです。
+[name="??? "]  Hello there. The workshop isn’t open right now. All five of our craftsmen are involved in a weapon repair contest.
+[name="???"]  안녕하세요. 공방은 지금 안 하는데… 기능공들 다섯 분 모두 수리보수 콘테스트에 참가 중이라서요.
+
+[name="？？？"]  有需要的话请下午三点再来。
+[name="？？？"]  何か用なら、午後三時にまた来てください。
+[name="??? "]  If you need anything, please come back after 3 o’clock.
+[name="???"]  용무가 있으신 거라면, 오후 세 시에 다시 와주시겠어요?
+
+[name="芳汀"]  维修竞技？那是什么怪比赛。
+[name="アレーン"]  メンテナンスコンペ？　何それ。
+[name="Arene"]  A weapon repair contest? They really have contests for everything, don’t they?
+[name="아렌"]  수리보수 콘테스트? 뭐야 그건.
+
+[name="芳汀"]  要先把武器弄坏再比怎么维修吗，还是看看谁把刀柄擦得更亮？
+[name="アレーン"]  武器を壊してからどうメンテナンスするか競うわけ？　それとも誰が剣の柄を一番ピカピカに磨けるかとか？
+[name="Arene"]  How does it work? Do you break the weapons first and then repair them? Or is it about who polishes a shinier blade?
+[name="아렌"]  무기를 부숴놓곤 다시 수리하는 걸 경쟁하는 거야? 아니면 누가 칼자루를 제일 광이 나게 다듬나 경쟁하는 건가?
+
+[name="？？？"]  很遗憾，只是普通的针对战场上半损毁武器的修缮和改良比赛。
+[name="？？？"]  残念ですが、違います。戦場で半壊した武器のメンテナンスや改良の腕を競うありきたりな競技ですよ。
+[name="??? "]  Sorry to disappoint, but it’s just a contest where you repair weapons damaged out in the field.
+[name="???"]  아쉽지만 아니에요. 전장에서 파손된 무기의 보수나 개량 실력을 겨루는 흔한 경기랍니다.
+
+[name="？？？"]  但如果真的能将武器擦到足够亮，让这变成一种攻击手段，或许也不是不能取得优胜。
+[name="？？？"]  ですが、武器をすっごくピカピカにして、目くらませとか新たな攻撃手段を生み出せたら、優勝する可能性もありますね。
+[name="??? "]  But if you manage to make a weapon shiny enough to give it a deadly glint, I suppose you’d have a fair chance of winning.
+[name="???"]  듣다 보니까, 무기를 굉장히 빛이 나게 갈아 시야를 혼란스럽게 만들 수 있다면, 그것도 새로운 공격수단이 될 수 있겠네요…… 흠… 그 정도면 우승도 노려볼 만 할지도……
+
+[name="？？？"]  ......嗯？好像是个不错的主意。下次我试试。
+[name="？？？"]  ……あれ？　考えてみればなかなかいいアイディアですね？　今度試してみよう。
+[name="??? "]  ...Hm? That doesn’t sound like a bad idea. I’ll give it a try next time.
+[name="???"]  …어? 생각해보니까 해볼만 하겠는데? 다음에 해봐야겠다……
+
+[name="芳汀"]  哈，怪人。随便吧。
+[name="アレーン"]  はぁ、変な奴。どうぞご勝手に。
+[name="Arene"]  Ha, you weirdo. Well, have fun with that.
+[name="아렌"]  하아… 이상한 녀석이군. 마음대로 해라.
+
+[name="芳汀"]  我可不想为了这么点事还要再跑一趟，没有工匠在，但这里不是还有你吗。
+[name="アレーン"]  けど出直すなんて面倒くさいなぁ。職人はいなくても、あんたがいるでしょ。
+[name="Arene"]  I don’t want to have to come all the way down here again. The craftsmen may not be around, but you’re here.
+[name="아렌"]  그래도 겨우 이런 걸로 다시 왔다갔다 하긴 싫어. 기능공은 없어도, 네가 어떻게 처리해줄 수 있지 않나?
+
+[name="芳汀"]  反正也只是例行公事的检查，别那么较真。怎么样，这位朋友，帮我简单看一下，然后填个证明就行。
+[name="アレーン"]  どうせ形だけの検査なら、そんなに真面目にやることないでしょ。ねえ、ちょっと見て証明書にサインしてくれない？
+[name="Arene"]  It’s just some routine inspection anyway. No need to take it so seriously. How about it, friend? Give it a quick look-over and sign right here?
+[name="아렌"]  어차피 형식 뿐인 검사라면 그렇게 꼼꼼하게 할 것도 없잖아. 여기 증명서에 서명 좀 해줄 수 있을까?
+
+[name="？？？"]  武器可靠性证明？
+[name="？？？"]  武器の信頼性証明ですか？
+[name="??? "]  Weapon reliability certification?
+[name="???"]  무기의 신뢰성 증명… 말이죠?
+
+[name="芳汀"]  没错。
+[name="アレーン"]  そう。
+[name="Arene"]  That’s right.
+[name="아렌"]  그래.
+
+[name="？？？"]  武器可靠性证明需要两位工匠同时进行检查后签字确认。
+[name="？？？"]  武器の信頼性証明は、二人の職人が同時に検査してサインしないといけないんです。
+[name="??? "]  Your weapon needs to be inspected by two craftsmen before it can be approved.
+[name="???"]  무기의 신뢰성 증명이라면, 기능공 두 분이 동시에 검사하고 서명해야 해요.
+
+[name="？？？"]  我算是还在实习的助手，就算签上自己的名字也不管用，帮不了你这个忙。
+[name="？？？"]  それに、オレの名前をサインしても無駄ですよ、まだ見習い中の助手ですから。すみません、お役に立てなくて。
+[name="??? "]  And I’m technically still an intern assistant. I’m afraid signing my name there isn’t going to do you much help.
+[name="???"]  그리고, 애초에 아직 견습생 신분인 내 이름으로 서명해도 소용 없다고요. 도움이 안 되서 죄송하네요.
+
+[name="芳汀"]  需要两个人签字，这里有你我两个人，这不是正好吗。
+[name="アレーン"]  サインが二人分いるなら、僕とあんたで二人いるし丁度いいんじゃない？
+[name="Arene"]  So it needs to be signed off by two people. Perfect. We’ve got two people right here, you and me.
+[name="아렌"]  두 명의 서명이 필요하다면, 지금 여기 마침 우리가 두 명이니, 괜찮지 않나?
+
+[name="芳汀"]  我自己的法杖，自己最清楚，不会有什么问题的。只要不出事，就没人会知道，没人知道，就是没有问题，不是吗。
+[name="アレーン"]  僕のアーツユニットのことは僕が一番よくわかってる。不具合は何もないよ。事故が起きなきゃバレないし、バレなきゃ問題ナシ、そうでしょ？
+[name="Arene"]  I know my staff better than anyone else, and I know for certain there is nothing wrong with it. If nothing happens, no one is going to find out, and if no one finds out, then we don’t have a problem. Am I right?
+[name="아렌"]  내 아츠 유닛에 대해선 내가 제일 잘 알아. 아무런 문제도 없어. 사고가 안 나면 걸릴 일도 없고, 안 걸리면 그만이잖아, 안 그래?
+
+[name="？？？"]  啊这个想法有意思。
+[name="？？？"]  面白い考えですね。
+[name="??? "]  Oh, that’s an interesting way to think about it.
+[name="???"]  재미있는 생각이군요.
+
+[name="？？？"]  但还是别小看这里的其他人会比较好哦，特别是比较严肃的那几位。
+[name="？？？"]  でも、ここの人を甘く見ないほうがいいですよ。特にいつも目を光らせてるあの人たちのことは。
+[name="??? "]  I don’t recommend underestimating the people here, though. Definitely not the strict ones.
+[name="???"]  그래도, 여기 분들을 그렇게 얕보지 않는 편이 좋을 거예요. 유독 엄격한 분들도 몇 분 계시니…
+
+[name="？？？"]  万一出了事，就是重大事故了，别说我们，连不在场的工匠都要一起受罚。
+[name="？？？"]  万が一問題があって大事故にでもなったら、オレたちはもちろん、いま不在の職人まで処罰されちゃうんですよ。
+[name="??? "]  If something does happen, there’s going to be quite a ruckus. Even though they aren’t here right now, all the craftsmen will face punishment. It’ll be even worse for the two of us.
+[name="???"]  만의 하나 문제가 생겨서 큰 사고라도 나게 된다면, 우리는 물론, 지금 자리에 안 계신 기능공들까지 처벌받게 될 테니까요.
+
+[name="芳汀"]  啧，死板，麻烦。
+[name="アレーン"]  チッ、融通きかないんだね。面倒くさ。
+[name="Arene"]  Tsk, so inflexible.
+[name="아렌"]  쳇, 융통성이라곤 하나도 없군, 귀찮게.
+
+[name="？？？"]  但是有效。有些人就是想不起来维护武器。
+[name="？？？"]  でも必要な決まりですよ。こういう決まりがないと、武器のメンテナンスすら疎かにする人もいますからね。
+[name="??? "]  It may be inflexible, but it’s effective. There are people who don’t maintain their weapons well.
+[name="???"]  그래도 같이 점검 받는 게 좋을 수도 있다고요. 무기 점검 같은 거, 평소에 생각도 안 하는 오퍼레이터도 있으니까…
+
+[name="？？？"]  总比在战场上换弦要来得轻松。
+[name="？？？"]  戦場で慌てて弓弦を交換することになるよりは、工房で武器の信頼性証明やメンテにやきもきしてる方がずっと楽です。
+[name="??? "]  Trust me. This is much easier than having to fix things on the fly out in the field.
+[name="???"]  전장에서 활시위를 교체하는 것 보단 이쪽이 더 낫지 않을까요?
+
+[name="芳汀"]  哪会有那种傻子？
+[name="アレーン"]  戦場で弓弦を交換なんて、そんなバカどこにいるの？
+[name="Arene"]  What kind of moron doesn’t take care of his weapons?
+[name="아렌"]  그런 바보가 대체 어디 있다고…
+
+[name="芳汀"]  算了。既然如此，那就——
+[name="アレーン"]  まあいいや。そういうことなら、せっかくだし――
+[name="Arene"]  Fine. In that case...
+[name="아렌"]  뭐 됐다. 그런 거라면 모처럼 여기까지 왔으니…
+
+[name="芳汀"]  只请你帮忙看下武器。
+[name="アレーン"]  武器を見てもらおうかな。
+[name="Arene"]  Take a look at my weapon.
+[name="아렌"]  무기 점검을 받아보도록 할까.
+
+[name="芳汀"]  这还是可以的吧。总不能真的白跑一趟，那也有点让人不爽。
+[name="アレーン"]  それくらいなら見習いさんでもできるでしょ？　こっちもただの無駄足なんて嫌だし。
+[name="Arene"]  You can at least do that for me, right? It’d really piss me off if I had to come all the way here for nothing.
+[name="아렌"]  이러면 되지? 나도 헛걸음 하기는 싫으니까.
+
+[name="？？？"]  啊......也好。稍等。
+[name="？？？"]  まあ……いいですよ。ちょっと待っててくださいね。
+[name="??? "]  Oh... sure. Just a moment.
+[name="???"]  뭐… 나쁘진 않겠죠. 잠시만 기다려주세요.
+
+[name="？？？"]  等我拧好这最后一颗螺丝——好了。
+[name="？？？"]  最後のネジをしめてからと――よし。
+[name="??? "]  Let me tighten this last screw... okay.
+[name="???"]  마지막 나사도 다 조였고…… 좋아.
+
+[name="？？？"]  久等了。
+[name="？？？"]  お待たせしました。
+[name="??? "]  Sorry to keep you waiting.
+[name="???"]  오래 기다리셨습니다.
+
+[name="？？？"]  ......嗯，看你的表情，看来你还是在盘算什么，并没有打算彻底放弃呢。
+[name="？？？"]  ……おや、その顔はまだ何か企んでいそうですね。信頼性証明の方は諦めたんじゃなかったんですか？
+[name="??? "]  Hm... That look on your face tells me you are still planning something. It doesn’t seem like you’ve quite given up yet.
+[name="???"]  ……어라, 표정을 보니 뭔가 생각이 있는 거 같네요. 신뢰성 증명 건이라면 이제 그만 포기하는 게 좋지 않을까요?
+
+[name="芳汀"]  这是说什么，我可听不明白。
+[name="アレーン"]  なに？　何のことかわからないなぁ。
+[name="Arene"]  I’m not sure I understand.
+[name="아렌"]  뭐라는 거야?
+
+[name="芳汀"]  来，给你。我的法杖。
+[name="アレーン"]  はい、これ。僕のアーツユニット。
+[name="Arene"]  Here you go. This is my staff.
+[name="아렌"]  자, 여기. 내 아츠 유닛이다.
+
+[name="？？？"]  哎.....算了。
+[name="？？？"]  うーん……まあいいか。
+[name="??? "]  Eh... Oh well.
+[name="???"]  흐음…… 뭐, 상관없나.
+
+[name="？？？"]  好吧，那我来检查一下。
+[name="？？？"]  分かりました。オレが検査しますよ。
+[name="??? "]  Okay, I’ll inspect it for you.
+[name="???"]  알았어요, 제가 검사해보도록 하죠.
+
+[name="？？？"]  （小声）只要小心一些，别出事故，应该就没关系了吧......
+[name="？？？"]  （小声）事故が起きないよう気をつければ問題ないはず……
+[name="??? "]  (Quietly) Just be careful with it, don’t cause any accidents, and it should be fine, right...?
+[name="???"]  (작은 소리로) 사고만 안 나게 조심하면 별 일 없을 거야……
+
+[name="芳汀"]  就拜托你啦。
+[name="アレーン"]  じゃあ、お願いね。
+[name="Arene"]  I’m counting on you.
+[name="아렌"]  그럼 부탁할게.
+
+[name="？？？"]  武器的检查会需要一些时间，要麻烦你在这里稍微等一下。
+[name="？？？"]  武器の検査には時間がかかるので、しばらくそこで待っていてくださいね。
+[name="??? "]  The inspection is going to take some time. Could you please wait here while I work on it?
+[name="???"]  무기 검사엔 시간이 좀 걸리니까요, 거기서 잠깐 기다려주세요.
+
+[name="？？？"]  参观的话可以随意，但工坊里的东西最好还是不要随便碰，总有些工匠师傅喜欢做些比较危险的东西......
+[name="？？？"]  見学するならご自由にどうぞ。でも工房内のものには触らないでくださいね。危険なものを作るのが好きな職人もいますから……
+[name="??? "]  You are free to look around, but try not to touch anything in the workshop. Some of the craftsmen here like to work on dangerous things...
+[name="???"]  구경하고 싶으시면 구경하셔도 좋고요. 그래도 공방 안에 있는 물건은 만지지 말아주세요. 위험한 물건을 만들기 좋아하는 기능공도 있다보니……
+
+[name="？？？"]  你明白吧？那种做到一半的半成品只会更危险。
+[name="？？？"]  分かりますよね？　未完成品が一番危ないんです。
+[name="??? "]  You know what I mean, right? The ones they haven’t finished yet are even more dangerous.
+[name="???"]  아시죠? 원래 덜 만든 물건이 제일 위험하단 거.
+
+[name="？？？"]  而且，这里还有不少混杂着源石成分的矿石......就算你是感染者，也最好小心一些。
+[name="？？？"]  それに、ここには源石成分の混じっている鉱石も多い……感染者だとしても気をつけた方がいいですよ。
+[name="??? "]  On top of that, we have a lot of ores here with Originium in them... You may be Infected, but you should still be careful.
+[name="???"]  게다가, 여기엔 오리지늄 성분이 섞인 광석도 많다보니…… 감염자라고 해도 조심하는 게 좋을 거예요.
+
+[name="芳汀"]  不劳担心。我还没有那么莽撞。
+[name="アレーン"]  心配ご無用。僕はそんなうっかり屋さんじゃないよ。
+[name="Arene"]  No need to worry about me. I’m not that adventurous.
+[name="아렌"]  걱정할 거 없어. 그 정도로 경솔하진 않으니까.
+
+[name="芳汀"]  ......等等。
+[name="アレーン"]  ……待って。
+[name="Arene"]  ...Wait a second.
+[name="아렌"]  ……잠깐.
+
+[name="芳汀"]  怪了，我有提过自己是感染者这件事吗？
+[name="アレーン"]  おかしいな、僕が感染者だってことは言ってないよね？
+[name="Arene"]  Now that’s weird. Did I ever tell you I’m Infected?
+[name="아렌"]  이상한데. 내가 감염자란 얘길 했던가?
+
+[name="？？？"]  没有。但要看出来不难。
+[name="？？？"]  はい。でも見れば大方予想はつきます。
+[name="??? "]  No, you didn’t. But it isn’t hard to tell.
+[name="???"]  아뇨. 그래도 대충 보면 예상이 되잖아요.
+
+[name="芳汀"]  说说，怎么看出来的？很明显吗？
+[name="アレーン"]  どうやって見抜いたの？　そんなに分かりやすい？
+[name="Arene"]  Explain. Is it obvious?
+[name="아렌"]  어떻게 알았지? 그렇게 티가 나나?
+
+[name="？？？"]  嗯......解释起来有点难，我也说不清。
+[name="？？？"]  う～ん……説明するのはちょっと難しいですねえ。
+[name="??? "]  Hmm... How can I put it?
+[name="???"]  음… 설명하자면 좀 어려운데… 저도 잘 모르겠어요.
+
+[name="？？？"]  就靠多多观察吧，从大家的神情、动作，还有行为逻辑上，都可以看出很多东西。
+[name="？？？"]  強いて言えば、よく観察することですかね。表情や立ち振る舞い、行動ロジックから、いろんなことが見えてくるんです。
+[name="??? "]  I guess it’s just by observation. There is quite a lot you can learn from someone’s expressions, actions, and the logic in his behavior.
+[name="???"]  굳이 말하자면, 잘 관찰하는 거라 할 수 있겠네요. 표정이나 몸짓, 행동거지 같은 걸로요. 이런 걸 관찰하면 많은 걸 알 수 있으니까요.
+
+[name="芳汀"]  听起来像是在糊弄人。
+[name="アレーン"]  何それ、ウソっぽいなぁ。
+[name="Arene"]  It sounds kinda like you’re pulling my leg.
+[name="아렌"]  뭐야 그건? 그냥 지어낸 말 같은데.
+
+[name="？？？"]  是真的啦。
+[name="？？？"]  本当ですよ。
+[name="??? "]  I’m telling the truth.
+[name="???"]  진짜라고요.
+
+[name="？？？"]  只有这根法杖要检查吗？如果还有其他的，我也可以帮你看一下。
+[name="？？？"]  それで、検査が必要なのはこのアーツユニットだけですか？　ほかにもあるなら一緒に見ますよ。
+[name="??? "]  Is this staff the only thing you need me to inspect? If there is anything else, I can take a look at those as well.
+[name="???"]  검사가 필요한 건 아츠 유닛 밖에 없나요? 다른 것도 있으면 같이 봐줄게요.
+
+[name="芳汀"]  没有了。
+[name="アレーン"]  いや、それだけ。
+[name="Arene"]  Nope, that’s it.
+[name="아렌"]  아니, 그거 하나야.
+
+[name="芳汀"]  很遗憾，我没有守护铳需要检查。
+[name="アレーン"]  残念ながら、検査が必要な守護銃だって持ってないし。
+[name="Arene"]  I don’t have a gun, unfortunately.
+[name="아렌"]  미안하지만, 검사가 필요한 수호총 같은 건 안 갖고 있거든.
+
+[name="？？？"]  真巧，我也没有。
+[name="？？？"]  奇遇ですね、オレも持ってないんです。
+[name="??? "]  What a coincidence. Me neither.
+[name="???"]  우연이네요. 나도 없는데.
+
+[name="芳汀"]  ......
+[name="アレーン"]  ……
+[name="Arene"]  ......
+[name="아렌"]  ……
+
+[name="芳汀"]  你这人真奇怪，有点意思。
+[name="アレーン"]  あんた、ホントに変わってるけど面白いね。
+[name="Arene"]  You’re kind of weird. Intriguing.
+[name="아렌"]  너, 꽤 특이하구나? 재미있어.
+
+[name="？？？"]  嗯......谢谢夸奖？
+[name="？？？"]  えーっと……ありがとう、でいいんですよね？
+[name="??? "]  Hm... thanks?
+[name="???"]  어… 음… 감사합니다, 라고 말해야 하는 상황이죠 지금?
+
+[name="芳汀"]  没夸你。
+[name="アレーン"]  褒めてないけど。
+[name="Arene"]  That’s not a compliment.
+[name="아렌"]  칭찬한 거 아닌데.
+
+[name="芳汀"]  这根法杖没有使用上的问题。随便看看就行了。
+[name="アレーン"]  これ、使ってて特に問題もないし、適当に見てくれればいいよ。
+[name="Arene"]  There aren't any problems with the staff. Just a quick glance should be enough.
+[name="아렌"]  이 아츠 유닛, 쓰는데 문제는 없으니까 대충 봐도 돼.
+
+[name="？？？"]  还是要仔细点的。
+[name="？？？"]  でも、ちゃんと検査しないと。
+[name="??? "]  I have to look it over thoroughly.
+[name="???"]  그래도 검사는 해놔야죠.
+
+[name="？？？"]  嗯......材质很高端呢。
+[name="？？？"]  なるほど……高級な材質を使っていますね。
+[name="??? "]  Hmm... the materials that went into this staff are top grade.
+[name="???"]  이렇게 되어 있구나…… 되게 좋은 재질로 만들어져 있네요.
+
+[name="？？？"]  法杖上悬挂着的东西也是施法源吗？
+[name="？？？"]  ぶら下がっているのもアーツ源ですか？
+[name="??? "]  Is the thing hanging from your staff a Caster Source as well?
+[name="???"]  여기 달려 있는 것도 아츠의 에너지원인가요?
+
+[name="芳汀"]  是。不过更多是个人兴趣，能打人。
+[name="アレーン"]  うん。でもどっちかっていうと個人的な趣味かな。振り回せば打撃武器にもなるんだ。
+[name="Arene"]  Yes. But more importantly, and this is what I like about it, I can beat people up with it.
+[name="아렌"]  응. 그래도 굳이 말하자면 개인적인 취미라고나 할까, 그걸로 사람 패고 다닐 수도 있어.
+
+[name="？？？"]  那也挺好的，近身战会很有利。
+[name="？？？"]  いいじゃないですか。接近戦には役立ちそうですね。
+[name="??? "]  Good thinking. It must come in handy in close quarters combat.
+[name="???"]  나쁘지 않은데요? 근접전에서도 쓸만하겠어요.
+
+[name="芳汀"]  工匠，怎么称呼？
+[name="アレーン"]  ねえ職人さん、なんて呼べばいい？
+[name="Arene"]  What’s your name, craftsman?
+[name="아렌"]  어이 기능공 씨, 뭐라 부르면 돼?
+
+[name="安德切尔"]  我可还算不上工匠啊。
+[name="アドナキエル"]  オレはまだまだ職人とは呼べませんよ。
+[name="Adnachiel"]  Well, I'm not exactly a craftsman.
+[name="아드나키엘"]  전 아직 기능공까진 아니에요.
+
+[name="安德切尔"]  预备行动组A4小队的成员，安德切尔，顺带在这里兼职当学徒。
+[name="アドナキエル"]  行動予備隊A4所属のアドナキエルです。バイトのついでにここで実習してるんです。
+[name="Adnachiel"]  I’m Adnachiel, Reserve Op Team A4. I’m also an intern in this repair workshop.
+[name="아드나키엘"]  예비작전팀 A4 멤버, 아드나키엘이라고 해요. 여기선 아르바이트도 할 겸 견습생으로 일하고 있고요.
+
+[name="安德切尔"] 你怎么称呼？
+[name="アドナキエル"] 君のことは何と呼べばいいですか？
+[name="Adnachiel"] What about you?
+[name="아드나키엘"] 당신은 뭐라고 부르면 될까요?
+
+[name="芳汀"]  芳汀。
+[name="アレーン"]  アレーン。
+[name="Arene"]  Arene.
+[name="아렌"]  아렌.
+
+[name="安德切尔"]  听上去很适合你呢。
+[name="アドナキエル"]  君にピッタリの名前ですね。
+[name="Adnachiel"]  Your name really fits you.
+[name="아드나키엘"]  뭔가 잘 어울리는 이름이네요.
+
+[name="安德切尔"]  嗯......主要施术单元没有损伤，下面悬挂的施术源表面也没有明显的裂痕或破碎痕迹。
+[name="アドナキエル"]  んー、アーツユニット自体に損傷はないですね。このぶら下がっているアーツ源の表面にも目立つキズや欠けはありません。
+[name="Adnachiel"]  Hm... the main Arts Unit doesn’t look like it has any damage to it, and the Caster Source hanging there doesn’t have any apparent damage or cracks, either.
+[name="아드나키엘"]  음… 아츠 유닛 자체에는 손상이 없네요. 이 밑에 달린 아츠 에너지원 표면에도 눈에 띄는 상처나 결함은 없어 보이고요.
+
+[name="安德切尔"]  看起来状态不错。
+[name="アドナキエル"]  状態は良さそうです。
+[name="Adnachiel"]  It looks like it's in pretty good shape.
+[name="아드나키엘"]  상태는 괜찮은 거 같아요.
+
+[name="芳汀"]  嗯哼，我说过了，不会有什么问题。
+[name="アレーン"]  そうさ、言ったでしょ。何も問題ないって。
+[name="Arene"]  Hehe, what did I tell you?
+[name="아렌"]  그래, 말했잖아. 아무런 문제 없다고.
+
+[name="安德切尔"]  那接下来，能请你用法杖驱动一下自己的源石技艺吗？这样我可以从运行反馈里确认法杖的运行状态。
+[name="アドナキエル"]  じゃあ次は、このアーツユニットで実際にアーツを使ってもらえますか？　動作フィードバックから駆動状態を確認しますから。
+[name="Adnachiel"]  Okay, moving on, could you activate your Originium Arts with your staff? I need to check its feedback during use and verify its performance.
+[name="아드나키엘"]  그럼, 이 아츠 유닛을 한 번 작동시켜봐 주실 수 있을까요? 작동 상태도 확인해보고 싶어서요.
+
+[name="芳汀"]  就这么施术？我的源石技艺不怎么平和哦。
+[name="アレーン"]  え、ここで使っちゃって大丈夫？　僕のアーツはそこそこ物騒なタイプなんだけど。
+[name="Arene"]  Just use my Arts here? My Arts are kind of wild.
+[name="아렌"]  아츠를 쓰면 되나? 내 오리지늄 아츠를 보려면 마음의 준비를 해놓는 게 좋을 텐데.
+
+[name="安德切尔"]  哦，能简单描述下类型吗？
+[name="アドナキエル"]  なるほど。アーツのタイプを簡単に説明してもらえますか？
+[name="Adnachiel"]  Oh, could you describe what it’s like?
+[name="아드나키엘"]  그렇군요, 그럼 아츠가 어떤 유형인지 간단히 설명해주실 수 있을까요?
+
+[name="芳汀"]  分解、毒素。
+[name="アレーン"]  分解と毒素。
+[name="Arene"]  Disintegrative and toxic.
+[name="아렌"]  분해와 독소다.
+
+[name="安德切尔"]  呜哇，听起来确实挺危险的。
+[name="アドナキエル"]  うわっ、それは確かに危なそうですね。
+[name="Adnachiel"]  Wow, that does sound fairly dangerous.
+[name="아드나키엘"]  우와, 확실히 위험해보이네요.
+
+[name="安德切尔"]  那就把法杖放在旁边的透明柜子里，然后把手从柜子旁的入口伸进去，使用一下能力就好。
+[name="アドナキエル"]  ではアーツユニットをそこの透明なボックスに入れて、横の差込口から手を入れてやってみてください。
+[name="Adnachiel"]  In that case, why don’t you put your staff in that transparent cabinet there? Then just put your hand in from the opening on the side and use your Arts.
+[name="아드나키엘"]  그럼 아츠 유닛을 이 투명 박스 안에 넣고, 옆에 있는 구멍에 손을 넣어서 작동시켜 주실 수 있을까요?
+
+[name="安德切尔"]  这样就算你的能力有强挥发性，也完全不用担心。
+[name="アドナキエル"]  それならどれだけ揮発性が強くても、全く心配いりません。
+[name="Adnachiel"]  That way, even if your Arts are as volatile as you said, we shouldn’t have anything to worry about.
+[name="아드나키엘"]  이러면 아무리 위험한 아츠라 해도 문제 없을 테니까요.
+
+[name="安德切尔"]  是不是很方便？
+[name="アドナキエル"]  便利でしょう？
+[name="Adnachiel"]  Sounds like a pan.
+[name="아드나키엘"]  편리하죠?
+
+[name="芳汀"]  好烦......
+[name="アレーン"]  面倒くさっ……
+[name="Arene"]  Do I have to...?
+[name="아렌"]  귀찮게 정말……
+
+[name="芳汀"]  行，好，就这样吧。
+[name="アレーン"]  はぁ、いいよ。やってあげる。
+[name="Arene"]  Okay, fine.
+[name="아렌"]  하아, 알았어.
+
+[name="芳汀"]  可以了？
+[name="アレーン"]  これでいい？
+[name="Arene"]  Will this do it?
+[name="아렌"]  됐나?
+
+[name="安德切尔"]  可以了，我操作下机器。
+[name="アドナキエル"]  はい。では機械を操作しますね。
+[name="Adnachiel"]  Okay, that’s good. I’ll activate the machine.
+[name="아드나키엘"]  네, 그럼 기계 작동시킬게요.
+
+[name="安德切尔"]  如果感到腕部受到压迫，请不要在意，那是正常现象。
+[name="アドナキエル"]  腕に圧迫感があってもびっくりしないでくださいね。正常な現象ですから。
+[name="Adnachiel"]  Don’t worry if you feel pressure in your arm. That’s normal.
+[name="아드나키엘"]  팔에 압박감이 느껴질 수도 있는데, 다 정상이란 뜻이니까 놀라지 마세요.
+
+[name="安德切尔"]  好了！
+[name="アドナキエル"]  準備完了です！
+[name="Adnachiel"]  Okay, we’re ready!
+[name="아드나키엘"]  준비 다 됐습니다!
+
+[name="安德切尔"]  现在可以使用你的源石技艺啦，不用担心会伤到我。
+[name="アドナキエル"]  ではアーツを使ってみてください。オレのことならご心配なく。
+[name="Adnachiel"]  You can use your Originium Arts now. No need to worry about hurting me.
+[name="아드나키엘"]  이제 아츠를 써주세요. 전 걱정 안 하셔도 되니까요.
+
+[name="芳汀"]  谁担心了？
+[name="アレーン"]  誰が心配なんか。
+[name="Arene"]  I won’t.
+[name="아렌"]  걱정하긴 누가 걱정했다고 그래.
+
+[name="芳汀"]  （使用源石技艺）
+[name="アレーン"]  ……！
+[name="Arene"]  (Uses Originium Arts)
+[name="아렌"]  (오리지늄 아츠를 사용한다)
+
+[name="安德切尔"]  好了，完成了！
+[name="アドナキエル"]  よし、OKです！
+[name="Adnachiel"]  Alright, we’re done here!
+[name="아드나키엘"]  네, 다 됐습니다!
+
+[name="安德切尔"]  接下来就全是我的工作了，请把法杖交给我，然后到旁边去休息一下。
+[name="アドナキエル"]  ここからはオレの仕事です。まずアーツユニットを預かりますね。ひとまずそこで休んでいてください。
+[name="Adnachiel"]  I’ll take care of the rest. Just leave me your staff and take a break over there.
+[name="아드나키엘"]  이제 옆에서 쉬셔도 될 거 같아요. 여기서부턴 제가 할 테니, 아츠 유닛을 넘겨주시겠어요?
+
+[name="芳汀"]  哦。
+[name="アレーン"]  うん。
+[name="Arene"]  Sure.
+[name="아렌"]  그래.
+
+[name="芳汀"]  我还以为萨科塔人都只对铳和弩感兴趣呢，看你好像对法杖也很熟悉，域外的萨科塔都是这样吗？
+[name="アレーン"]  サンクタ人は銃とクロスボウにしか興味ないと思ってたけど、あんたはアーツユニットにも詳しいんだね。ラテラーノの外にいるサンクタ人はみんなそうなの？
+[name="Arene"]  Most Sankta are care about guns and crossbows. You look like you’re pretty familiar with staves too. Are all Sankta outside Laterano like this?
+[name="아렌"]  산크타는 총과 크로스보우에만 흥미가 있는 줄 알았는데, 넌 아츠 유닛에 대해서도 꽤 알고 있는 거 같네. 라테라노 밖에 있는 산크타는 다 이런가?
+
+[name="安德切尔"]  只是带我的铁锤师傅擅长维护锻造法杖，小队里也有朋友的武器需要保养。
+[name="アドナキエル"]  オレが師事しているアイアンハンマー師匠が、アーツユニットのメンテナンスと鍛造が得意なだけです。それに小隊の仲間たちの武器にもメンテナンスが要りますしね。
+[name="Adnachiel"]  It’s just the master craftsman I work with, Iron Hammer, is an expert in maintaining and forging staves. I also have some friends on my team who need their weapons looked after.
+[name="아드나키엘"]  그냥 아이언해머 사부님이 아츠 유닛의 점검이나 단조를 잘 하셔서 그런 거예요. 게다가 평소엔 팀 동료들 무기도 점검해야 하다 보니…
+
+[name="芳汀"]  擅长做法杖，代号却叫铁锤？
+[name="アレーン"]  アーツユニットを作るのが得意なのに、コードネームがアイアンハンマー？
+[name="Arene"]  He’s an expert in staves, but his codename is Iron Hammer?
+[name="아렌"]  아츠 유닛을 만드는 게 특기인데, 코드네임은 '아이언해머'라고?
+
+[name="安德切尔"]  是这样的。
+[name="アドナキエル"]  はい、そうなんです。
+[name="Adnachiel"]  That’s right.
+[name="아드나키엘"]  네, 그러게요.
+
+[name="安德切尔"]  师傅们起名随意的很，我第一次来实习的时候也愣了半天。
+[name="アドナキエル"]  師匠たちはみんな勝手気ままにコードネームを付けてるんです。オレも初めて実習に来たときはすごく驚きました。
+[name="Adnachiel"]  The craftsmen here are all pretty laid-back with their names. It left me dumbfounded for the better part of the day when I first got here.
+[name="아드나키엘"]  사부님들은 다들 멋대로 코드네임을 짓는 경우가 많다보니… 저도 처음 들었을 땐 깜짝 놀랐다니까요?
+
+[name="安德切尔"]  喏，师傅们的工位牌都挂那里。
+[name="アドナキエル"]  ほら、そこに掛かってるのが師匠たちの名札です。
+[name="Adnachiel"]  Look, their badges are all there.
+[name="아드나키엘"]  저기 보시면 사부님들 명찰이 걸려있으니까요,
+
+[name="安德切尔"]  你要是感兴趣可以随便看。
+[name="アドナキエル"]  良かったら見てみてください。
+[name="Adnachiel"]  You can take a look if you’re interested.
+[name="아드나키엘"]  궁금하시면 한번 보고 오세요.
+
+[name="芳汀"]  ......
+[name="アレーン"]  ……
+[name="Arene"]  ......
+[name="아렌"]  ……
+
+[name="芳汀"]  那我就不客气了。
+[name="アレーン"]  じゃあ遠慮なく。
+[name="Arene"]  Don’t mind if I do.
+[name="아렌"]  그럼 잠깐 보고 올게.
+
+[name="芳汀"] （第三维修工坊工匠名单）
+[name="アレーン"] （第三修理工房職人名簿）
+[name="Arene"] (Repair Workshop No. 3 - List of Personnel)
+[name="아렌"] (제3수리공방 기능공 리스트)
+
+[name="芳汀"] （铁锤、锡罐、石头、毁盾、弃械）
+[name="アレーン"] （ティンカン、ロック、ガンジェクト、レックシールド、アイアンハンマー）
+[name="Arene"] (Iron Hammer, Tincan, Rock, Wreck Shield, and Gunject...)
+[name="아렌"] (아이언해머, 틴캔, 락, 렉실드, 건젝트)
+
+[name="芳汀"] （这也太随意了......）
+[name="アレーン"] （確かに勝手気ままだな……）
+[name="Arene"] (That’s more than being just laid-back...)
+[name="아렌"] (진짜 막 지었구나……)
+
+[name="芳汀"] （不过，这或许会是一个好机会......）
+[name="アレーン"] （だけど、チャンスかも……）
+[name="Arene"] (This might be a good opportunity, though...)
+[name="아렌"] (그래도, 어쩌면 이건 좋은 기회일지도……)
+
+[name="芳汀"]  工匠们都要把自己的签名铸在工牌上吗？
+[name="アレーン"]  職人たちの名札は、みんな自分のサインを彫るものなの？
+[name="Arene"]  Do they have to stencil their signatures on their badges?
+[name="아렌"]  기능공들 명찰엔 다 본인 사인을 남겨야 하는거야?
+
+[name="安德切尔"]  怎么会。
+[name="アドナキエル"]  まさか。
+[name="Adnachiel"]  Of course not.
+[name="아드나키엘"]  그럴 리가요.
+
+[name="安德切尔"]  那只是师傅们一时赌气的产物。
+[name="アドナキエル"]  それは元々、師匠たちがカッとなって作ったものなんです。
+[name="Adnachiel"]  That’s just something they all did one time out of spite.
+[name="아드나키엘"]  저건 단지 사부님들이 욱해서 만든 거예요.
+
+[name="安德切尔"]  有一天他们在工艺上出了点争执，然后所有人都用自己熟悉的工艺给打了块工牌和别人比试。
+[name="アドナキエル"]  前に技術に関することで言い争いになったことがあるんですが、その時にみんながそれぞれ得意な方法で名札を作って腕を競ったんです。
+[name="Adnachiel"]  There was this one day they had an argument over craftsmanship, so they all competed against each other making their own badges using their respective trades.
+[name="아드나키엘"]  전에 기술에 관해 논쟁이 벌어졌었는데, 그때 다들 각자 잘 하는 방법으로 명찰 만드는 경쟁을 했거든요.
+
+[name="安德切尔"]  消了气之后，大家都觉得这还挺好玩，所以就约定在工坊里用自己做的工牌，外出的时候用公司配发的统一工牌。
+[name="アドナキエル"]  怒りが収まった後にみんな面白がって、工房ではその自作の名札を使うことにしたってわけです。もちろん、外出時にはロドスで支給される正式なものを使っていますよ。
+[name="Adnachiel"]  After they cooled their heads, they all thought it was pretty fun, and agreed to wear the badges they made themselves in the workshop, and only use the standard issue ones outside.
+[name="아드나키엘"]  순간적으로 올라왔던 화가 다시 사그러들고나서 다시 해보니까 의외로 다들 재미있어 해서, 공방에선 각자 본인이 만든 명찰을 쓰게 되었어요. 물론, 외출할 땐 로도스 아일랜드에서 지급하는 정식 명찰을 쓰긴 하지만요.
+
+[name="安德切尔"]  有意思吧。
+[name="アドナキエル"]  面白いでしょう？
+[name="Adnachiel"]  Interesting, isn’t it?
+[name="아드나키엘"]  재밌지 않아요?
+
+[name="芳汀"] 很有......意思。
+[name="アレーン"] 面白い……かな。
+[name="Arene"] Yeah... That’s... very interesting.
+[name="아렌"] 재미… 있네.
+
+[name="芳汀"] （每个人的签名都在上面。）
+[name="アレーン"] （全員のサインが揃ってる）
+[name="Arene"] (Their signatures are all here. )
+[name="아렌"] (모두의 서명이 위에 적혀 있다.)
+
+[name="芳汀"] （全是手写。）
+[name="アレーン"] （どれも手書きだ）
+[name="Arene"] (It’s all handwritten, too. )
+[name="아렌"] (그것도 전부 손으로 직접 적은 사인.)
+
+[name="芳汀"]（不错。能省我不少事情，只要随便挑两个弄到手......）
+[name="アレーン"]（よし、手間が省けた。二つほど拝借しよう……）
+[name="Arene"](Perfect. This will save me a lot of work. I just need to get my hands on two of these...)
+[name="아렌"](좋아, 수고를 덜겠네, 여기서 두 개만 골라갈까……)
+
+[name="芳汀"]（偷瞄）
+[name="アレーン"]（タイミングを見計らって……）
+[name="Arene"]*Glances*
+[name="아렌"](타이밍을 잘 노려서……)
+
+[name="芳汀"]（哈，时机正好。）
+[name="アレーン"]（よし、今だ！）
+[name="Arene"](Ha, perfect timing. )
+[name="아렌"](좋아, 지금이다!)
+
+[name="芳汀"]（拓印......)
+[name="アレーン"]（トレースして……）
+[name="Arene"](Stamp this here...)
+[name="아렌"](베껴써서……)
+
+[name="芳汀"](成了。源石技艺还真便利。）
+[name="アレーン"]（できた。アーツってホント便利だね）
+[name="Arene"](Done. These Originium Arts really come in handy. )
+[name="아렌"](됐다. 이럴 땐 아츠가 참 편하단 말이야.)
+
+[name="芳汀"]（嗯？这个签名，还是拉特兰语的。）
+[name="アレーン"]（あれ？　このサイン、ラテラーノ語だ）
+[name="Arene"](Hm? This signature is in Lateran. )
+[name="아렌"](음? 이 사인, 라테라노어로 적혀있다.)
+
+[name="芳汀"]  安德切尔，这个工匠是？
+[name="アレーン"]  アドナキエル、この職人さんは？
+[name="Arene"]  Hey, Adnachiel. Who’s this guy?
+[name="아렌"]  아드나키엘，이 기능공은 누구지?
+
+[name="安德切尔"]  嗯？
+[name="アドナキエル"]  ん？
+[name="Adnachiel"]  Hm?
+[name="아드나키엘"]  네?
+
+[name="安德切尔"]  哦，那是弃械师傅。
+[name="アドナキエル"]  ああ、それはガンジェクト師匠です。
+[name="Adnachiel"]  Oh, that’s Gunject.
+[name="아드나키엘"]  아, 그분이 건젝트 사부님이에요.
+
+[name="安德切尔"]  从拉特兰来，和我们一样。
+[name="アドナキエル"]  オレたちと同じで、ラテラーノ出身ですよ。
+[name="Adnachiel"]  He’s from Laterano, just like us.
+[name="아드나키엘"]  우리처럼 라테라노에서 오셨죠.
+
+[name="安德切尔"]  但师傅从不做铳械相关的东西，只喜欢打剑。
+[name="アドナキエル"]  でも師匠は銃器は作りません。剣を作るのが好きなんです。
+[name="Adnachiel"]  He doesn’t like to make anything gun-related, just swords.
+[name="아드나키엘"]  그런데 사부님은 총기는 안 만드세요. 검 만드는 것만 좋아하시죠.
+
+[name="芳汀"]  怎么，难道他也没有守护铳？
+[name="アレーン"]  まさか、この人も守護銃を持ってないの？
+[name="Arene"]  So he doesn’t have a gun?
+[name="아렌"]  설마, 그 사람도 수호총이 없는 건가?
+
+[name="安德切尔"]  守护铳师傅还是有的啦，师傅只是不喜欢铳。
+[name="アドナキエル"]  ただ銃を嫌っているだけで、一応守護銃はあるようです。
+[name="Adnachiel"]  Oh, he has one, but he doesn’t like guns, as a thing.
+[name="아드나키엘"]  그냥 총이 싫을 뿐이래요, 일단 수호총은 갖고 계시지만…
+
+[name="安德切尔"]  听说他把铳留在了拉特兰的家中，再也没有回去过。
+[name="アドナキエル"]  師匠はラテラーノに銃を置いてきて、それから一度も戻ったことないらしいです。
+[name="Adnachiel"]  I heard he left his at home in Laterano, and he hasn’t been back since.
+[name="아드나키엘"]  사부님은 라테라노에 총을 놔두고 온 뒤로, 단 한 번도 돌아간 적이 없다 하시더라고요.
+
+[name="安德切尔"]  “那个到处都是弹壳的地方，我见了就头疼。”
+[name="アドナキエル"]  ……「あの薬莢だらけの場所を見ると頭が痛くなる。」
+[name="Adnachiel"]  “There’s nothing but bullet casings in that place. Just the sight of it gives me a headache. ”
+[name="아드나키엘"]  난 바닥에 탄피 떨어진 것만 보면 아주 그냥 짜증이 확 나.
+
+[name="安德切尔"]  师傅是这么说的。
+[name="アドナキエル"]  そう言ってました。
+[name="Adnachiel"]  That’s what he said.
+[name="아드나키엘"]  이러시더라고요.
+
+[name="芳汀"]  说的不错。
+[name="アレーン"]  確かに。
+[name="Arene"]  I agree with him.
+[name="아렌"]  하긴.
+
+[name="芳汀"]  我有预感，我会和这个人合得来。
+[name="アレーン"]  この人とは気が合いそう。
+[name="Arene"]  I have a feeling I’ll get along with him pretty well.
+[name="아렌"]  그 사람이랑은 왠지 잘 맞을 거 같은 느낌이 드네.
+
+[name="安德切尔"]  唉，可惜师傅因为这事和家里人闹掰了，拉特兰都不方便回去。
+[name="アドナキエル"]  その一件で師匠はご家族と仲が悪くなったみたいで、ラテラーノにも帰りづらいようですよ。
+[name="Adnachiel"]  Well, unfortunately, he got into a fight with his family over that. He can’t even go home anymore.
+[name="아드나키엘"]  그거 때문에 사부님은 가족들이랑도 소원해져서, 라테라노로 돌아가기도 좀 그렇다고 하시더라고요.
+
+[name="芳汀"]  如果那位师傅真的像你说的那样讨厌铳，在拉特兰生活，估计不会有太多美好回忆吧。
+[name="アレーン"]  もし本当に銃が嫌いだったんなら、ラテラーノでの暮らしにはあまりいい思い出はなかっただろうね。
+[name="Arene"]  If he really hates guns so much, I can’t imagine him having many fond memories of Laterano.
+[name="아렌"]  만약 정말로 총이 싫은 거라면, 라테라노에서 사는 게 썩 좋지만은 않았겠네.
+
+[name="芳汀"]  即便如此，也还是会想回去吗？
+[name="アレーン"]  それでもやっぱ帰りたいものなのかな？
+[name="Arene"]  Does he still want to go back in spite of it all?
+[name="아렌"]  그 정도라면 집에 돌아가고 싶어하진 않을 거 같은데.
+
+[name="芳汀"]  拉特兰真的有这么值得怀念？
+[name="アレーン"]  ラテラーノにそんな執心する価値なんてある？
+[name="Arene"]  Is Laterano such a great place that it takes everyone down memory lane?
+[name="아렌"]  라테라노가 정말 그렇게 그리워할 만한 가치가 있는 곳인가?
+
+[name="安德切尔"]  这么一说，这个问题我好像没想过。
+[name="アドナキエル"]  言われてみると、そんなことは考えたこともないですね。
+[name="Adnachiel"]  Now that you mention it, I never thought about it.
+[name="아드나키엘"]  듣고 보니, 그런 생각은 해본 적이 없네요.
+
+[name="芳汀"]  那么。
+[name="アレーン"]  じゃあ今考えて。
+[name="Arene"]  So...?
+[name="아렌"]  그럼 지금 한번 생각해봐.
+
+[name="芳汀"]  你呢，你怀念拉特兰吗？
+[name="アレーン"]  あんたは今でも、ラテラーノを懐かしむことはある？
+[name="Arene"]  What about you? Do you miss Laterano?
+[name="아렌"]  넌 라테라노가 그립나?
+
+[name="安德切尔"]  嗯......很难说。
+[name="アドナキエル"]  う～ん……どうでしょうね。
+[name="Adnachiel"]  Hm... Hard to say.
+[name="아드나키엘"]  흠… 글쎄요…
+
+[name="安德切尔"]  ......
+[name="アドナキエル"]  ……
+[name="Adnachiel"]  ......
+[name="아드나키엘"]  ……
+
+[name="安德切尔"]  我很久以前就不在拉特兰生活了。
+[name="アドナキエル"]  ラテラーノから離れて、もうずいぶん経ちましたから。
+[name="Adnachiel"]  I haven’t lived there for a long time.
+[name="아드나키엘"]  전 라테라노를 떠난지 너무 오래 되어서요.
+
+[name="安德切尔"]  因为光环的原因。
+[name="アドナキエル"]  ラテラーノを離れたのは、このズレた光輪のせいだったんですが――
+[name="Adnachiel"]  Because of my halo, you see.
+[name="아드나키엘"]  제 머리 위에 광륜 때문에요.
+
+[name="安德切尔"]  而在之后又得了矿石病，就更加没法回去了。
+[name="アドナキエル"]  それから鉱石病にもかかって、どうやっても帰れなくなりました。
+[name="Adnachiel"]  After that, I contracted Oripathy, which means I really don’t have a way to go back.
+[name="아드나키엘"]  그런데다 광석병까지 걸리니까, 돌아갈 수가 없겠더라고요.
+
+[name="芳汀"]  所以，你的光环位置......不是因为矿石病？
+[name="アレーン"]  ってことは、その輪の位置は……鉱石病のせいじゃないの？
+[name="Arene"]  Wait, so your halo doesn’t float like that because of Oripathy?
+[name="아렌"]  그 얘기는, 네 광륜의 위치가 그런 건 광석병 때문이 아니라 이거네?
+
+[name="安德切尔"]  是啊，我天生就和别人不一样。
+[name="アドナキエル"]  はい。オレは生まれつきこうだったんです。
+[name="Adnachiel"]  Nope, I was born differently.
+[name="아드나키엘"]  네. 태어날 때부터 이랬어요.
+
+[name="芳汀"]  那可......真惨。
+[name="アレーン"]  それは……大変だったね。
+[name="Arene"]  That’s... kind of sad.
+[name="아렌"]  그건… 고생이 많았겠네.
+
+[name="安德切尔"]  因为小时候爸妈总是笑着这样说，总是夸奖我，所以我到现在都觉得这确实是件幸运的事。
+[name="アドナキエル"]  「生まれつきみんなと違うって、カッコいいだろう？」
+[name="Adnachiel"]  When I was a kid, my parents always praised me and said that with a smile, so I’ve always thought of myself as pretty lucky.
+[name="아드나키엘"]  어렸을 때 부모님은 늘 저를 웃으면서 대해주시고 칭찬해주셨어요. 지금 생각해보면 정말 행운이었던 거 같아요.
+
+[name="安德切尔"]  天生就与众不同，听起来就很帅气吧？
+[name="アドナキエル"]  子供の頃、両親はいつも笑顔でそう言って褒めてくれました。オレは今でも、ほかの人と違ったことを幸運だったと思ってます。
+[name="Adnachiel"]  I was born different than others. Doesn’t that sound cool?
+[name="아드나키엘"]  태어날 때부터 남들과는 달랐다, 이렇게 말하니까 뭔가 멋있는 거 같지 않아요?
+
+[name="安德切尔"]  啊当然，这只是玩笑话。
+[name="アドナキエル"]  って、もちろん冗談ですけどね。
+[name="Adnachiel"]  Oh, of course, it’s just a joke.
+[name="아드나키엘"]  방금 말은 물론 농담입니다만.
+
+[name="芳汀"]  不必谦虚。你确实是个与众不同的怪人。
+[name="アレーン"]  別に謙遜しなくたっていいんじゃない？　確かにみんなと違って変人だもん。
+[name="Arene"]  Don’t be modest. You are very different from the other weirdos here. In a bad way.
+[name="아렌"]  겸손할 필요 없어, 넌 확실히 남들과는 많이 달라.
+
+[name="安德切尔"]  是吗？其实我觉得自己还蛮普通的啊......
+[name="アドナキエル"]  え、そうですか？　いたって普通だと思うんですが……
+[name="Adnachiel"]  Really? And here I thought I was pretty normal...
+[name="아드나키엘"]  그런가요? 전 그래도 제가 꽤 평범한 편이라고 생각했는데……
+
+[name="安德切尔"]  和其他萨科塔人都差不多，共通点很多。
+[name="アドナキエル"]  他のサンクタ人と大して変わらないですよ。共通点だってたくさんあります。
+[name="Adnachiel"]  I’m not that different from other Sankta. In fact, I have a lot in common with them.
+[name="아드나키엘"]  다른 산크타랑 비슷하지 않나요? 공통점도 많고.
+
+[name="芳汀"]  比如说？什么共通点？
+[name="アレーン"]  共通点？　例えばどんな？
+[name="Arene"]  Such as? What do you have in common with them?
+[name="아렌"]  공통점? 예를 들면?
+
+[name="安德切尔"]  比如......嗯，比如我也戴不上套头帽。
+[name="アドナキエル"]  えーっと……例えば帽子が被れないとか。
+[name="Adnachiel"]  Such as... let’s see, like how I can’t wear a hat?
+[name="아드나키엘"]  예를 들자면… 모자를 못 쓴다던지?
+
+[name="芳汀"]  ......
+[name="アレーン"]  ……
+[name="Arene"]  ......
+[name="아렌"]  ……
+
+[name="芳汀"]  哈哈哈哈哈哈哈！
+[name="アレーン"]  アハハハハハハ！
+[name="Arene"]  Hahahahahahaha!
+[name="아렌"]  하하하하하하하!
+
+[name="芳汀"]  咳咳 ，嗯，是，确实。
+[name="アレーン"]  ハハハ……ケホケホッ、うん、確かに。
+[name="Arene"]  Ahem, yeah, you’re right. That’s true.
+[name="아렌"]  하하하… 크큭… 그래, 그렇긴 하네.
+
+[name="芳汀"]  那东西戴上就像是把人裹在没缝的蛋里一样，恶心。
+[name="アレーン"]  帽子なんて被ったら輪っかが中で閉じ込められて気持ち悪いよね。
+[name="Arene"]  Wearing a hat is like getting stuffed into an egg with no cracks. It’s gross.
+[name="아렌"]  모자 같은 걸 쓰면 무슨 안 깨진 계란 속에 갇힌 것 마냥 메스꺼워 지잖아.
+
+[name="芳汀"]  除了那些专业训练过的家伙，比如公证所还有教宗骑士那群人，还有一些战斗狂之外，没多少萨科塔人能忍受那个吧。
+[name="アレーン"]  あれを我慢できるサンクタ人は、公証人役場とか教皇騎士の連中みたいにそれなりの訓練を受けた奴らか、あとは戦いしか頭にない戦闘狂くらいだろうね。
+[name="Arene"]  Other than the Notarial Hall people or the Apostolic Knights, with all their training, I don’t think there are many Sankta who could stand to wear a hat. Maybe some weirdos who love to fight.
+[name="아렌"]  공증소 녀석들이나 교황의 기사 같이 전문적으로 훈련 받은 녀석들이나 전투에 미친 녀석들 말곤, 산크타 중에 참을 수 있는 녀석은 없을 거야.
+
+[name="安德切尔"]  是这样没错。
+[name="アドナキエル"]  そうなんですよ。
+[name="Adnachiel"]  True.
+[name="아드나키엘"]  그러게 말이에요.
+
+[name="安德切尔"]  总之，大概是因为光环的原因吧，我没能通过持铳的资格审查，在那之后没多久我们一家就离开拉特兰了。
+[name="アドナキエル"]  まあ、とにかく、オレが銃の所持資格審査に落ちたのは、たぶんこの輪のズレが原因です。それからしばらくして、家族みんなでラテラーノを離れました。
+[name="Adnachiel"]  In any case, maybe it’s because of my halo, but I couldn’t get my firearm qualifications, and my family moved out of Laterano shortly after that.
+[name="아드나키엘"]  아무튼, 이 광륜 탓인지 전 총기 소지 자격 심사에 떨어졌어요. 그러고 나서 얼마 안 있다가 우리 가족들이랑 다 같이 라테라노를 떠났죠.
+
+[name="安德切尔"]  矿石病也是在之后才染上的。
+[name="アドナキエル"]  鉱石病にはその後感染したんです。
+[name="Adnachiel"]  And I was Infected not long after.
+[name="아드나키엘"]  광석병도 라테라노를 떠나고 나서 걸린 거고요.
+
+[name="安德切尔"]  拉特兰的土地不接纳感染者，你在感染后，也没再回去过吧？
+[name="アドナキエル"]  君も感染してからは帰ってないんでしょう？　ラテラーノは感染者を受け入れませんし。
+[name="Adnachiel"]  Laterano doesn’t permit Infected in its borders. I’m sure you haven’t been back since your infection, am I correct?
+[name="아드나키엘"]  라테라노에선 감염자를 안 받아주잖아요. 당신도 감염되고 나서 못 돌아가게 됐지 않나요?
+
+[name="芳汀"]  ......是。
+[name="アレーン"]  ……うん。
+[name="Arene"]  ...Yeah.
+[name="아렌"]  ……그래.
+
+[name="安德切尔"]  所以，我对拉特兰......并不是很怀念。
+[name="アドナキエル"]  だから、ラテラーノを懐かしむことは……そんなにない、かな。
+[name="Adnachiel"]  That’s why... I don’t feel particularly nostalgic about Laterano.
+[name="아드나키엘"]  그래서 난 라테라노가… 딱히 그립진 않아요.
+
+[name="安德切尔"]  小时候发生的许多事情我都不太记得了。
+[name="アドナキエル"]  子供の頃のことは、あんまり憶えてないですし。
+[name="Adnachiel"]  I don’t remember a lot about my childhood there, either.
+[name="아드나키엘"]  어렸을 때 있었던 일들은 거의 다 까먹었어요.
+
+[name="安德切尔"]  ......
+[name="アドナキエル"]  ……
+[name="Adnachiel"]  ......
+[name="아드나키엘"]  ……
+
+[name="安德切尔"]  啊，不过我还记得街角的若望师傅！
+[name="アドナキエル"]  あ、でも通りにお店を出していたヨハネ師匠のことははっきりと憶えてます！
+[name="Adnachiel"]  Oh, but I still remember the baker down the street, John!
+[name="아드나키엘"]  아, 그래도 거리에 가게를 냈었던 존 사부님은 기억나요!
+
+[name="安德切尔"]  他教会了我做甜点，在我走的时候还把店里所有甜点的制作方式印成图册送给我了！
+[name="アドナキエル"]  あの人がオレにスイーツの作り方を教えてくれたんですよ。オレが街を離れる時には、店内にあるスイーツのレシピを全部本にしてプレゼントしてくれたんです！
+[name="Adnachiel"]  He taught me how to make desserts, and he even put all his recipes in a book for me when I moved away!
+[name="아드나키엘"]  그 분이 저한테 디저트 만드는 법을 알려주셨거든요. 제가 떠날 땐 가게에 있는 디저트 레시피를 전부 다 그림책으로 만들어서 저한테 보내주셨죠!
+
+[name="芳汀"]  （啧......来了，萨科塔们逃不过的甜食。）
+[name="アレーン"]  （あーあ……出た出た。サンクタとは切っても切れないスイーツの話題だ）
+[name="Arene"]  (Tsk... Here we go. The Sankta and their sweet tooth. )
+[name="아렌"]  (쳇…… 이 얘기가 왜 안 나오나 했네. 산크타라면 뗄레야 뗄 수 없는 디저트 이야기인가.)
+
+[name="安德切尔"]  如果我没在搬家的时候丢失那本图册的话，唉。
+[name="アドナキエル"]  引っ越す時にあのレシピ本を失くしてなければなぁ。はぁ……
+[name="Adnachiel"]  I really wish I didn’t lose that book in the move... *Sigh*
+[name="아드나키엘"]  이사할 때 그 레시피북을 잃어버리는 게 아니었는데, 하아……
+
+[name="芳汀"]  （每年父母都会给我准备一个大蛋糕，他们知道我吃不下，却还是把我一个人留在家里，对付那个，甜到发腻的糖块。）
+[name="アレーン"]  （僕が食べきれないって知ってて、毎年でっかいケーキを用意する親のことを思い出しちゃったじゃないか。僕を一人で留守番させておいてさ、甘くてギトギトのケーキを全部処理させるんだ）
+[name="Arene"]  (My parents got me a huge cake every year. They knew I couldn’t finish it all, but they still left me home alone to deal with that block of sugary mess by myself.)
+[name="아렌"]  (매년 부모님은 내게 큰 케이크를 준비해줬었지. 두 분 다 내가 그 케이크를 다 못 먹는다는 걸 알았지만, 그래도 날 집에 혼자 남겨두는 바람에 난 질리도록 그 케이크를 먹어야만 했다…)
+
+[name="安德切尔"]  但至少，我可以把弹头麦芬做得和若望师傅的麦芬一丝不差。
+[name="アドナキエル"]  でも、バレットマフィンだけなら、ヨハネ師匠と同じように作れますよ。
+[name="Adnachiel"]  At the very least, my Warhead muffins are no less decadent than the muffins John used to make.
+[name="아드나키엘"]  그래도 불렛 머핀정도라면 존 사부님처럼 만들 수 있어요.
+
+[name="安德切尔"]  我到现在还记得甜点店里的麦香味。
+[name="アドナキエル"]  あの店に漂っていた小麦の香りは、今でも覚えています。
+[name="Adnachiel"]  I can still remember the aroma of his dessert shop.
+[name="아드나키엘"]  가끔 그 디저트 가게의 달콤한 향기가 아직도 생각난다니까요.
+
+[name="芳汀"]  （我也记得很清楚，香味，每次闻到就觉得喉咙不舒服。）
+[name="アレーン"]  （僕だってそうさ。あの匂いを嗅ぐたびに喉がイガイガするんだ）
+[name="Arene"]  (I remember that smell too. Every time I smell it, my throat starts to ache.)
+[name="아렌"]  (나도 똑똑히 기억한다. 그 향기를 맡을 때마다 구역질이 나.)
+
+[name="安德切尔"]  ......
+[name="アドナキエル"]  ……
+[name="Adnachiel"]  ......
+[name="아드나키엘"]  ……
+
+[name="安德切尔"]  咦，原来你不喜欢甜点啊。
+[name="アドナキエル"]  おや、スイーツが嫌いでしたか？
+[name="Adnachiel"]  Oh, I see you don’t like desserts.
+[name="아드나키엘"]  어라, 디저트 별로 안 좋아하시나봐요?
+
+[name="安德切尔"]  这还是挺少见的，我头一次见到不喜欢甜点的拉特兰人。
+[name="アドナキエル"]  珍しいですね。スイーツの嫌いなラテラーノ人は初めてです。
+[name="Adnachiel"]  I think you’re the first Laterano I’ve met who doesn’t.
+[name="아드나키엘"]  드문 일이네요, 단 걸 싫어하는 라테라노인이라니.
+
+[name="芳汀"]  ......又是你看出来的？
+[name="アレーン"]  ……また見抜かれたの？
+[name="Arene"]  ...You can tell?
+[name="아렌"]  ……또 티 났나?
+
+[name="安德切尔"]  嗯。
+[name="アドナキエル"]  ええ。
+[name="Adnachiel"]  Yep.
+[name="아드나키엘"]  네.
+
+[name="安德切尔"]  一般我不太会这样直接说出来，因为有很多人会不太开心，有时我就干脆不说话了。
+[name="アドナキエル"]  普段は分かっても言わないんですけどね。気にする人も結構いますから、黙ってることも多いんです。
+[name="Adnachiel"]  I don’t normally tell people I can see through them, since they don’t like it much. Most times I just keep my mouth shut.
+[name="아드나키엘"]  평소엔 저도 알아채도 잘 얘기 안하는 편이에요. 신경 쓰시는 분들도 꽤 있다 보니…
+
+[name="安德切尔"]  不过，我觉得你看起来不像是很在意这些。
+[name="アドナキエル"]  でも、君はそういうのは気にしなそうだったので。
+[name="Adnachiel"]  It doesn’t seem like you mind, though.
+[name="아드나키엘"]  그래도 당신은 그런 거 별로 신경 안 쓰는 편이죠?
+
+[name="芳汀"]  行吧，确实。
+[name="アレーン"]  うん。だね。
+[name="Arene"]  Yeah, it’s fine.
+[name="아렌"]  그런 편이지.
+
+[name="芳汀"]  我不在意哦。怪人总比普通人有意思。
+[name="アレーン"]  気にしないよ。普通の人より変人の方が面白いし。
+[name="Arene"]  I don’t mind. Weirdos like you are more interesting than normal people.
+[name="아렌"]  신경 안 써. 너 같이 이상한 녀석이 평범한 녀석보단 재미있지.
+
+[name="安德切尔"]  不喜欢甜点的话，那你可比我要怪多了。
+[name="アドナキエル"]  スイーツ嫌いって、オレよりずっと変ですけどね。
+[name="Adnachiel"]  I think you’re much more of a weirdo for not liking desserts.
+[name="아드나키엘"]  이상한 걸로 따지자면 디저트를 싫어하는 당신이 나보다 이상하지 않나요?
+
+[name="安德切尔"]  下次我可以尝试做点不太甜的点心，到时候再喊你来尝尝。
+[name="アドナキエル"]  今度、甘過ぎないスイーツを作りますから、その時はぜひ味見してください。
+[name="Adnachiel"]  I’ll try to make some that aren’t as sweet. You’ll have to give them a try.
+[name="아드나키엘"]  다음엔 별로 달지 않은 디저트를 만들어 볼 테니까, 그때 한번 맛 좀 봐주세요.
+
+[name="安德切尔"]  也不知道老师傅现在还好吗......
+[name="アドナキエル"]  ヨハネ師匠は今も元気かな……
+[name="Adnachiel"]  I wonder if the old baker is doing well...
+[name="아드나키엘"]  그러고 보니 존 사부님, 잘 계시려나……
+
+[name="安德切尔"]  一会或许可以请后勤的信使们帮个忙。
+[name="アドナキエル"]  あとで後方支援部のトランスポーターに訊いてみよう。
+[name="Adnachiel"]  Maybe I should ask the Messengers at Logistics to help me out.
+[name="아드나키엘"]  이따가 후방 지원부의 전달자 분한테 부탁해봐야겠다.
+
+[name="芳汀"]  ......
+[name="アレーン"]  ……
+[name="Arene"]  ......
+[name="아렌"]  ……
+
+[name="芳汀"]  我明白了一件事。
+[name="アレーン"]  一つわかったことがある。
+[name="Arene"]  I’ve come to understand one thing.
+[name="아렌"]  하나는 알겠네.
+
+[name="安德切尔"]  啊？
+[name="アドナキエル"]  え？
+[name="Adnachiel"]  Hm?
+[name="아드나키엘"]  네?
+
+[name="芳汀"]  你是个地地道道的拉特兰萨科塔。
+[name="アレーン"]  やっぱりあんたは生粋のラテラーノサンクタみたいだ。
+[name="Arene"]  You’re a Laterano Sankta through and through.
+[name="아렌"]  넌 확실히 라테라노의 산크타구나.
+
+[name="芳汀"]  虽然持不了铳，光环也不正。
+[name="アレーン"]  銃は持ってないし、光輪もズレちゃってるけどさ。
+[name="Arene"]  Even though you don’t have a gun, and your halo’s tilted.
+[name="아렌"]  총도 못 들고 광륜도 휘었지만.
+
+[name="安德切尔"]  嗯......
+[name="アドナキエル"]  うーん……
+[name="Adnachiel"]  Hmm...
+[name="아드나키엘"]  으음……
+
+[name="安德切尔"]  你说得没错。
+[name="アドナキエル"]  そうなのかもしれませんね。
+[name="Adnachiel"]  You’re right.
+[name="아드나키엘"]  그럴 지도 모르겠네요.
+
+[name="安德切尔"]  我在那里存有回忆，不能回去的只是城市，不是家。故乡是不论何时都可以触碰的东西。
+[name="アドナキエル"]  帰れなくなったのはあくまでただの一都市であって、故郷は思い出の中にずっとあります。
+[name="Adnachiel"]  I still have memories of that place, and it’s just the city that I can’t go back to, not my home. Your hometown is something you can always reach out for, no matter when or where.
+[name="아드나키엘"]  그곳에 추억이 있긴 하지만, 돌아가지 못하게 된 건 라테라노의 도시이지, 집이 아니에요. 고향에는 언제든지 돌아갈 수 있죠.
+
+[name="安德切尔"]  城际间的来回、书信、传讯、照片。
+[name="アドナキエル"]  都市間の往来、手紙や他の通信手段、それに写真だってあるので、触れようと思えばいつだって故郷に触れられます。
+[name="Adnachiel"]  There’s travel, mail, messages, and photos that can move between the cities.
+[name="아드나키엘"]  도시와 도시를 왔다갔다 할 수 있고, 편지나 사진도 보낼 수 있고, 통신 수단도 쓸 수 있고요.
+
+[name="安德切尔"]  如果真的想怀念，不是很方便吗。
+[name="アドナキエル"]  懐かしむなら、やり方なんていくらでもあるんです。
+[name="Adnachiel"]  If we really want to reminisce about our home countries, there are a lot of convenient ways for us to do that.
+[name="아드나키엘"]  고향이 진짜 그리울 땐, 얼마든지 방법이 있어요.
+
+[name="？？？"]  这话说得还有点道理。
+[name="？？？"]  まぁ言ってることはわかるけどさー。
+[name="??? "]  You know, I get what you’re saying.
+[name="???"]  뭐~ 틀린 말은 아닌데 말이야~
+
+[name="？？？"]  但有人就是喜欢闻闻气味，摸摸土墙，来个故地重游，不然就要得上思乡症咯。
+[name="？？？"]  けど、匂ってみたり、壁をなでてみたり、前に住んでた場所にもう一回行ってみたいってやつもいるっしょー。そういうやつがホームシックになんだよ。
+[name="??? "]  But there’s also people who like to revisit a place, to smell and touch it in person. Otherwise, they get homesick.
+[name="???"]  근데 냄새를 맡거나, 흙벽을 만지거나, 전에 살던 동네 가서 한바퀴 돌고 오고 싶어질 때도 있잖아? 그런 거 제때 못 해주면 향수병 걸린다고.
+
+[name="？？？"]  虽然我都无所谓就是了。
+[name="？？？"]  まあ、どうでもいいけどねー。
+[name="??? "]  Well, not that I care.
+[name="???"]  뭐~ 난 아무래도 상관없긴 하지만.
+
+[name="？？？"]  只要你们分享甜点的时候带上我就行，不太甜的我也吃。
+[name="？？？"]  てかさ、スイーツ食べるんならあたしも呼んでよね。あんま甘くないのも食べるからさー。
+[name="??? "]  Just remember to gimme some of those desserts.
+[name="???"]  나중에 디저트 먹을 거면 나도 불러. 별로 안 달아도 다 잘 먹으니까~
+
+[name="安德切尔"]  你好，安比尔。
+[name="アドナキエル"]  やぁ、アンブリエル。
+[name="Adnachiel"]  Hello, Ambriel.
+[name="아드나키엘"]  엠브리엘이군요.
+
+[name="安比尔"]  好啊。
+[name="アンブリエル"]  うぃーっす。
+[name="Ambriel"]  Hiyas.
+[name="엠브리엘"]  여어~
+
+[name="安比尔"]  喔，你也好，新来的。
+[name="アンブリエル"]  あれ、よっ！　新入り。
+[name="Ambriel"]  Oh, heyas, new meat.
+[name="엠브리엘"]  오! 신입이네?
+
+[name="安比尔"]  我该叫你什么，小帅哥？
+[name="アンブリエル"]  イケメン君、なんて呼べばいい？
+[name="Ambriel"]  So what’s your name, cutie?
+[name="엠브리엘"]  거기 잘생긴 오빤 뭐라 부르면 돼?
+
+[name="芳汀"]  芳汀。
+[name="アレーン"]  アレーン。
+[name="Arene"]  Arene.
+[name="아렌"]  아렌.
+
+[name="安比尔"]  你好芳汀。
+[name="アンブリエル"]  よっ、アレーン。
+[name="Ambriel"]  Hi there, Arene.
+[name="엠브리엘"]  요, 아렌.
+
+[name="安比尔"]  安德切尔，还是老样子，枪就拜托你啦。
+[name="アンブリエル"]  アドナキエル、いつも通り銃よろしく～。
+[name="Ambriel"]  Adnachiel, you know the drill. Take care of my gun, okay?
+[name="엠브리엘"]  아드나키엘, 늘 하던걸로 부탁해~
+
+[name="安德切尔"]  你放那儿就好，我还在处理芳汀的武器。
+[name="アドナキエル"]  そこに置いといてください。今アレーンの武器を見ていますから。
+[name="Adnachiel"]  You can just leave it over there. I’m still working on Arene’s weapon.
+[name="아드나키엘"]  총은 거기 놔두세요. 지금은 아렌의 무기를 보고 있으니까요.
+
+[name="安比尔"]  好——
+[name="アンブリエル"]  あーい。
+[name="Ambriel"]  Sure—
+[name="엠브리엘"]  응~
+
+[name="安比尔"]  唔，什么味道，香香的，好像不是市面上有得卖的种类......
+[name="アンブリエル"]  あれっ、なにこのいい香り。その辺で売ってるやつっぽくないけど……
+[name="Ambriel"]  Hm? What’s that smell? It smells so good! It’s unlike anything on the market...
+[name="엠브리엘"]  뭐야 이거? 시중에서 흔히 구할 수 있는 향기가 아닌데……
+
+[name="安比尔"]  有人涂香水了吗？
+[name="アンブリエル"]  誰か香水つけてる？
+[name="Ambriel"]  Is one of you guys wearing perfume?
+[name="엠브리엘"]  누가 향수 뿌렸나?
+
+[name="芳汀"]  如果你喜欢，可以来我这里多吸几口。
+[name="アレーン"]  気に入ったなら、近寄って嗅いでもいいよ。
+[name="Arene"]  If you like how I smell, come get all the sniffs you want.
+[name="아렌"]  마음에 든다면 마음껏 맡아도 된다.
+
+[name="安比尔"]  嗯......那还是算了。
+[name="アンブリエル"]  ん～……やめとくー。
+[name="Ambriel"]  Hmm... think I’m gonna pass.
+[name="엠브리엘"]  흐음~ 됐어.
+
+[name="安比尔"]  总觉得没什么好事。
+[name="アンブリエル"]  なんかろくなことなさそうだし。
+[name="Ambriel"]  Something tells me that’s not a good idea.
+[name="엠브리엘"]  별로 좋을 것도 없어 보이는데 뭐.
+
+[name="安比尔"]  不过啊，如果你的香气能让我昏睡一天的话，我倒是可以考虑一下。
+[name="アンブリエル"]  けど、その香りを嗅いだら一発でコロッと一日気絶できるんなら考えてもいいかなー。
+[name="Ambriel"]  But if that smell can knock me out for the whole day, I’ll think about it.
+[name="엠브리엘"]  만약 그 향이 날 하루 종일 기절시킬 수 있으면 그땐 한 번 생각해볼게.
+
+[name="安比尔"]  那个成天板着脸的家伙又要来找我“履行义务”了。
+[name="アンブリエル"]  あの一日じゅう怖い顔してるヤツいるっしょ、あいつがまた「義務を果たせ」とか言ってきててさー。
+[name="Ambriel"]  You know that guy with the poker face? He’s trying to get me to “fulfill my obligations” again.
+[name="엠브리엘"]  왜… 그 하루 종일 무서운 얼굴하고 있는 녀석 있잖아? 그 녀석이 맨날 나더러 "의무를 이행해라" 막 이래서 정신이 나갈 지경이거든?
+
+[name="安比尔"]  与其想办法逃跑，还是昏迷一天比较实际。
+[name="アンブリエル"]  逃げ回るより、一日気絶してる方が楽にかわせるっしょ。
+[name="Ambriel"]  Instead of running away all the time, I’m thinking it makes hella more sense if I just pass out for the day.
+[name="엠브리엘"]  차라리 이럴바엔 도망치기보다 진짜로 정신이 나가는 게 더 낫겠다 싶더라고.
+
+[name="安比尔"]  不过就他们的死脑筋程度，昏迷一天可能还不够。
+[name="アンブリエル"]  けどあいつらしつこいから、一日寝てるぐらいじゃ足んないかも。
+[name="Ambriel"]  Actually, those guys are so braindead, just a day probably isn’t gonna be enough.
+[name="엠브리엘"]  아… 근데 그 녀석도 꽤 집요한 구석이 있으니까, 하루 뻗어있는 걸론 모자라려나.
+
+[name="安比尔"]  好烦。
+[name="アンブリエル"]  マジうざっ。
+[name="Ambriel"]  Argh, what a pain in the butt.
+[name="엠브리엘"]  겁나 짜증나.
+
+[name="芳汀"]  板着脸的家伙，你是说公证所的人？
+[name="アレーン"]  怖い顔の人って、公証人役場の人のこと？
+[name="Arene"]  The guy with the poker face... You mean the one from the Notarial Hall?
+[name="아렌"]  무서운 얼굴을 한 녀석이라면, 공증소의 그 사람 얘긴가?
+
+[name="安比尔"]  还能有谁啊。
+[name="アンブリエル"]  ほかに誰がいんのよ。
+[name="Ambriel"]  Who else?
+[name="엠브리엘"]  그럼 또 누가 있는데?
+
+[name="安比尔"]  你就不会被他们找吗？说是要监督履行公民责任与义务什么的。
+[name="アンブリエル"]  あんたはあいつらにちょっかい出されてないの？　公民の責任や義務をちゃんと果たしているか監督するとか言ってさ。
+[name="Ambriel"]  They haven’t come for you yet? Like, to oversee your fulfillment of your obligations as a citizen and all that?
+[name="엠브리엘"]  넌 걔네들이 안 찾아? 공민의 책임과 의무를 이행하라면서 뭐라 안 그래?
+
+[name="芳汀"]  也会。
+[name="アレーン"]  ああ、それは僕も言われてる。
+[name="Arene"]  They have.
+[name="아렌"]  그거라면 내 쪽도 똑같아.
+
+[name="芳汀"]  不过上一个在我午睡的时候突然砸我的门的家伙，现在还在为了替我解决一些事情而四处奔走呢。
+[name="アレーン"]  でも、こないだ昼寝中に叩き起こしてきた奴なんかは、今、僕のために色々奔走してくれてるんだ。
+[name="Arene"]  But the last guy who kicked my door down while I was taking a nap is still running around, taking care of some business for me.
+[name="아렌"]  그래도, 저번엔 낮잠 자고 있을 때 문을 부수고 들어왔던 녀석은 지금도 내 귀찮은 일들을 해결해주느라 바쁘게 돌아다니고 있어.
+
+[name="芳汀"]  虽然他们很麻烦，但他们也很擅长处理麻烦。
+[name="アレーン"]  鬱陶しいけど、面倒事を片付けるには役立つよ。
+[name="Arene"]  They may be trouble, but they also know how to take care of troubles.
+[name="아렌"]  귀찮은 녀석들이긴 하지만, 귀찮은 일들을 해결할 땐 나름 또 쓸만해.
+
+[name="芳汀"]  只要用人用得好，那点麻烦不算什么。
+[name="アレーン"]  上手く使えば、あの程度の鬱陶しさは何でもないさ。
+[name="Arene"]  If you figure out how to use them, they aren’t so bad.
+[name="아렌"]  사람을 잘 다룰 수만 있다면, 이정도 귀찮음 정도야 별 거 아니지.
+
+[name="安比尔"]  哇哦，你说话像个反派。挺不错的嘛。
+[name="アンブリエル"]  ワオ、その言い方、悪役みたい。いいじゃん！
+[name="Ambriel"]  Whoa, you sound like such a baddie. Nice.
+[name="엠브리엘"]  와우~ 그런 말투, 되게 악역 같다. 괜찮은데?!
+
+[name="芳汀"]  我该说谢谢夸奖吗？
+[name="アレーン"]  褒められたのかな。お礼を言うべき？
+[name="Arene"]  Should I say thanks?
+[name="아렌"]  칭찬해줘서 고맙다고 해야 하나?
+
+[name="安比尔"]  倒也不用。
+[name="アンブリエル"]  いらなーい。
+[name="Ambriel"]  No thanks.
+[name="엠브리엘"]  고마워 할 필욘 없고.
+
+[name="安德切尔"]  芳汀，你的法杖已经检查完毕了！
+[name="アドナキエル"]  アレーン、君のアーツユニットの検査、終わりましたよ！
+[name="Adnachiel"]  Arene, I’m finished inspecting your staff!
+[name="아드나키엘"]  아렌, 아츠 유닛 검사 다 끝내놨어요!
+
+[name="安德切尔"]  除了施术回路有些腐蚀，其他的地方都没问题。
+[name="アドナキエル"]  駆動回路がちょっと腐食している以外は、特に問題ナシです。
+[name="Adnachiel"]  The casting circuits have corroded a little, but everything else is fine.
+[name="아드나키엘"]  작동 회로가 살짝 부식된 거 빼고 다른 문제는 없네요.
+
+[name="安德切尔"]  轻微的腐蚀不会影响到施术，但如果你要做养护，我现在也可以帮你处理一下。
+[name="アドナキエル"]  腐食も少しだけなので駆動に影響はありませんが、ケアが必要なら今オレがやっちゃいますよ。
+[name="Adnachiel"]  The tiny bit of corrosion isn’t going to affect your Arts, but if you want me to do some maintenance work on it, I can take care of that right now.
+[name="아드나키엘"]  부식도 경미한 정도라서 작동에 영향은 없겠지만 그래도 관리는 하는 편이 좋으니까요, 지금 내가 해줄게요.
+
+[name="安德切尔"]  下午等工匠们回来，你就可以找他们签可靠性证明了。
+[name="アドナキエル"]  あとで職人たちが戻ってきたら、信頼性証明にサインしてもらうといいですよ。
+[name="Adnachiel"]  When the craftsmen are here in the afternoon, you can come back and have them sign the certification.
+[name="아드나키엘"]  좀 이따가 기능공 분들이 돌아오면 신뢰성 증명서에 서명 받아놓으시고요.
+
+[name="安德切尔"]  （小声）虽然你可能已经不需要了吧。
+[name="アドナキエル"]  （小声）もう必要ないかもしれませんが。
+[name="Adnachiel"]  (Quietly) Even if it looks like you don’t need them to.
+[name="아드나키엘"]  (작은 소리로) 이미 필요없을 지도 모르지만.
+
+[name="安德切尔"]  来，拿好。
+[name="アドナキエル"]  はい、お返しします。
+[name="Adnachiel"]  Here you go.
+[name="아드나키엘"]  자, 가져가세요.
+
+[name="芳汀"]  谢谢。
+[name="アレーン"]  どーも。
+[name="Arene"]  Thanks.
+[name="아렌"]  고마워.
+
+[name="安德切尔"]  接下来是安比尔的长铳——嘿。
+[name="アドナキエル"]  次はアンブリエルの長銃ですね――よっと。
+[name="Adnachiel"]  Now let’s take a look at Ambriel’s rifle... Hmm.
+[name="아드나키엘"]  다음은 엠브리엘의 라이플이네요, 어디보자……
+
+[name="安比尔"]  拜托啦。
+[name="アンブリエル"]  よろ～。
+[name="Ambriel"]  It’s all yours.
+[name="엠브리엘"]  잘 부탁해~
+
+[name="芳汀"]  你......不自己调试铳吗？
+[name="アレーン"]  自分で銃の整備しないの？
+[name="Arene"]  You don’t work on the gun yourself?
+[name="아렌"]  직접 총을 정비하지 않는 건가?
+
+[name="安比尔"]  调呀。
+[name="アンブリエル"]  するよー。
+[name="Ambriel"]  I do.
+[name="엠브리엘"]  하지, 물론.
+
+[name="安比尔"]  但有时候就是懒得调，怎么办呢。
+[name="アンブリエル"]  でもさー、めんどいときってあるっしょ。
+[name="Ambriel"]  But that’s such a pain sometimes. This is easier.
+[name="엠브리엘"]  근데 가끔 귀찮을 때도 있잖아.
+
+[name="芳汀"]  那就等着它坏掉。
+[name="アレーン"]  そしたら壊れるまで使えばいいんじゃない？
+[name="Arene"]  Just wait for it to break.
+[name="아렌"]  그럼 망가질 때까지 기다리는 것도 좋지 않아?
+
+[name="安比尔"]  这个嘛......还是不行的。
+[name="アンブリエル"]  それはダメっしょ。
+[name="Ambriel"]  Well... I can’t have that.
+[name="엠브리엘"]  아…… 그건 쫌……
+
+[name="安比尔"]  没了它就领不了工资。
+[name="アンブリエル"]  銃がなきゃ給料もらえねーし。
+[name="Ambriel"]  If I lose my gun, I lose my pay.
+[name="엠브리엘"]  총이 없으면 월급을 못 받을 거 아냐.
+
+[name="安比尔"]  没了工资就连偷懒的机会都不会有。
+[name="アンブリエル"]  給料もらえなきゃサボれねーし。
+[name="Ambriel"]  And if I lose my pay, I lose any chance to slack off.
+[name="엠브리엘"]  월급이 없으면 놀고 먹지를 못할 테고.
+
+[name="安比尔"]  我才不会做这种傻事。
+[name="アンブリエル"]  あたしもそんなバカなことはしないよー。
+[name="Ambriel"]  I’m not that stupid.
+[name="엠브리엘"]  내가 그 정도로 바본줄 알아?
+
+[name="芳汀"]  哼......你还挺正经的。
+[name="アレーン"]  ふーん、真面目なんだね。
+[name="Arene"]  Hmm... You’re more serious than I thought.
+[name="아렌"]  흠… 의외로 진지한 구석도 있네.
+
+[name="安比尔"]  如果生活里真的可以用不上铳枪，把它放在角落里堆灰也不是不能接受啦。
+[name="アンブリエル"]  銃を使う機会がないならさ、別に隅っこで埃かぶっちゃっててもいいけどさー。
+[name="Ambriel"]  If I didn’t need my gun to get by, I wouldn’t mind letting it gather dust in my closet.
+[name="엠브리엘"]  총을 쓸 기회가 없다 해도 방 한구석에서 먼지 쌓이게 놔두는 건 가만히 못 넘어가겠더라고.
+
+[name="安比尔"]  哦，在拉特兰可能是有机会的，但要是真积灰，第二天就会被不知哪里冒出来的亲戚朋友怒目瞪视，很烦。
+[name="アンブリエル"]  まぁラテラーノじゃそういうこともあるかもしんないけど、本当に埃まみれにしたら、次の日には親戚とか友達にとやかく言われて、面倒くさいしさ。
+[name="Ambriel"]  Oh, I guess I could probably do that in Laterano, but if I actually left it to gather dust, I’d have some relative on my case the very next day.
+[name="엠브리엘"]  뭐… 라테라노에서야 기회가 있었을 지도 모르지만, 만약에 진짜로 먼지가 쌓인다면, 다음 날에 친척들이나 친구들이 또 뭐라 할 거 아냐, 그런 걸로 한 소리 들으면 괜히 짜증나거든.
+
+[name="安比尔"]  所以，我放弃了。
+[name="アンブリエル"]  だから、ちゃんとしとかないとねー。
+[name="Ambriel"]  That’s why I gave up on that idea.
+[name="엠브리엘"]  그래서 그냥 잘 관리하기로 했어~
+
+[name="安德切尔"]  安比尔，铳没有问题。
+[name="アドナキエル"]  アンブリエル、銃に問題はなさそうです。
+[name="Adnachiel"]  Ambriel, your rifle’s fine.
+[name="아드나키엘"]  엠브리엘, 총엔 문제가 없는 거 같네요.
+
+[name="安比尔"]  本来就没问题，上周刚校过。
+[name="アンブリエル"]  そりゃそうっしょ、先週整備したばっかだし。
+[name="Ambriel"]  It didn’t have any problems to begin with. I calibrated it just last week.
+[name="엠브리엘"]  당연하지, 저번주에 정비했으니까.
+
+[name="安比尔"]  帮我擦一下上油就可以啦。
+[name="アンブリエル"]  オイルで手入れしてくれればそれでおっけ～。
+[name="Ambriel"]  You just gotta put some oil on it and we should be good.
+[name="엠브리엘"]  오일 묻은 것만 좀 닦아줘~
+
+[name="安德切尔"]  好吧......
+[name="アドナキエル"]  はいはい……
+[name="Adnachiel"]  Alright...
+[name="아드나키엘"]  네……
+
+[name="芳汀"]  这时候你是不是觉得铳带在身边很累赘？
+[name="アレーン"]  今どき銃を持ち歩くのは面倒じゃない？
+[name="Arene"]  Do you think keeping a gun around is a hassle at times like these?
+[name="아렌"]  총을 들고 다니는 게 귀찮진 않나?
+
+[name="安比尔"]  还好。
+[name="アンブリエル"]  別に。
+[name="Ambriel"]  It’s not bad.
+[name="엠브리엘"]  뭐 그럭저럭.
+
+[name="安比尔"]  办法总会有的。
+[name="アンブリエル"]  何とでもなるっつーか。
+[name="Ambriel"]  I get by somehow.
+[name="엠브리엘"]  방법이야 늘 있으니까.
+
+[name="芳汀"]  就像你离开拉特兰，跑来这里那样？
+[name="アレーン"]  ラテラーノを出て、ここに来たみたいに？
+[name="Arene"]  Just like when you ran all the way here from Laterano?
+[name="아렌"]  라테라노를 떠나 여기로 온 것 처럼 말이지?
+
+[name="安比尔"]  嗯？
+[name="アンブリエル"]  へぇ。
+[name="Ambriel"]  Hm?
+[name="엠브리엘"]  헤에~
+
+[name="安比尔"]  你真的很不客气，对刚见面的女孩子说话这么直白，会不受欢迎的哦？
+[name="アンブリエル"]  ほんと遠慮ないよねー。出会ったばかりの女子にそんなズケズケ質問すると嫌われちゃうよ？
+[name="Ambriel"]  You don’t hold back, do you? You’ll never be popular with girls if you’re that blunt up front, you know?
+[name="엠브리엘"]  말 막하네? 방금 만난 여자한테 그렇게 돌직구 때리고 그러면 여자들이 안 좋아할걸?
+
+[name="芳汀"]  那真是不好意思，你感到被冒犯了吗？
+[name="アレーン"]  ごめん。嫌だった？
+[name="Arene"]  My apologies, then. Were you offended?
+[name="아렌"]  그런 뜻은 아니었는데, 혹시 기분 나빴나?
+
+[name="安比尔"]  倒是还好。
+[name="アンブリエル"]  別にいいけど。
+[name="Ambriel"]  Not really.
+[name="엠브리엘"]  딱히?
+
+[name="安比尔"]  差不多，就算是那样吧。我的确不太适合那里。
+[name="アンブリエル"]  まあほんとに何とでもなるって思ってるから。ラテラーノってとこはマジであたしに合わなかったし。
+[name="Ambriel"]  You’re right. It’s more or less like that. I’m not very a good fit for that place.
+[name="엠브리엘"]  완전히 틀린 말은 아니니까. 원래부터 거기가 잘 안 맞기도 했고.
+
+[name="安比尔"]  比起当个守城小工，天天被人唠叨荣耀荣耀的，我还是更愿意让自己的钱包鼓一点。
+[name="アンブリエル"]  守衛隊のとこで毎日栄光とか誇りのためになんてくだらない話聞かされるより、自分の財布を膨らませてた方がいいっしょ。
+[name="Ambriel"]  Rather than having to defend the city and get yelled at about glory and honor all day, I’d rather make myself some money.
+[name="엠브리엘"]  수비대로 일하면서 맨날 명예가 어쩌네 잔소리 듣는 거 보단, 난 내 지갑이 더 두꺼워지는 게 좋아.
+
+[name="安比尔"]  过得自在一点，舒服一点。
+[name="アンブリエル"]  自由気ままにお気楽に～。
+[name="Ambriel"]  There’s less to worry about, and life’s a lot more comfortable.
+[name="엠브리엘"]  자유롭고 편하게 사는 거,
+
+[name="安比尔"]  挺好。
+[name="アンブリエル"]  最高っしょ。
+[name="Ambriel"]  What’s not to like?
+[name="엠브리엘"]  그런 게 더 좋잖아?
+
+[name="芳汀"]  看来你对拉特兰没什么留念。
+[name="アレーン"]  ラテラーノに未練はなさそうだね。
+[name="Arene"]  It sounds like you don’t have many fond memories of Laterano.
+[name="아렌"]  라테라노에 별로 미련은 없는 거 같네.
+
+[name="安比尔"]  只要过得好，哪里都行吧。
+[name="アンブリエル"]  フツーに暮らせんなら、どこだっていいっつーか。
+[name="Ambriel"]  If life’s not bad, anywhere’s fine.
+[name="엠브리엘"]  잘 지내기만 하면 어디든 다 상관없지 않아?
+
+[name="安比尔"]  再说，也没人规定萨科塔要一辈子呆在拉特兰啦。
+[name="アンブリエル"]  それに、サンクタ人が一生ラテラーノにいなきゃいけないって決まりはないわけだしさ。
+[name="Ambriel"]  It’s not like there’s a rule that Sankta have to live out their lives in Laterano anyway.
+[name="엠브리엘"]  게다가, 산크타가 평생 라테라노에 살아야 한단 법이 어딨어?
+
+[name="安比尔"]  大地那么广，多看看嘛。
+[name="アンブリエル"]  この大地は広いんだから、あちこち見ないともったいないじゃん。
+[name="Ambriel"]  The world’s a big place. Gotta see more of it.
+[name="엠브리엘"]  세상이 이렇게 넓은데, 여기 저기 둘러보면 좋잖아?
+
+[name="安德切尔"]  枪好了安比尔！
+[name="アドナキエル"]  お手入れが終わりましたよ、アンブリエル！
+[name="Adnachiel"]  Your rifle’s ready, Ambriel!
+[name="아드나키엘"]  다 끝났어요, 여기 총 받아가세요!
+
+[name="安比尔"]  谢啦。
+[name="アンブリエル"]  あざーっす。
+[name="Ambriel"]  Thanks!
+[name="엠브리엘"]  감사함다~
+
+[name="安比尔"]  唔，比我擦得亮多了。
+[name="アンブリエル"]  お～、自分で磨くよりピカピカになってんねー。
+[name="Ambriel"]  Yep, I couldn’t make it prettier if I tried!
+[name="엠브리엘"]  오~ 내가 닦은 거 보다 더 반짝반짝하네.
+
+[name="安比尔"]  那你们慢慢聊，我先回去休息了，再见。
+[name="アンブリエル"]  じゃああんたらはどうぞごゆっくり～。あたしは帰って寝っから。またねー。
+[name="Ambriel"]  You two keep talking. I’ll head back and chill. Laters.
+[name="엠브리엘"]  그럼 난 먼저 가서 쉴게~
+
+[name="安德切尔"]  再见！
+[name="アドナキエル"]  ではまた！
+[name="Adnachiel"]  See ya!
+[name="아드나키엘"]  또 봐요!
+
+[name="芳汀"]  ......
+[name="アレーン"]  ……
+[name="Arene"]  ......
+[name="아렌"]  ……
+
+[name="安德切尔"]  快到饭点了，芳汀你还有什么需要我帮忙的吗？
+[name="アドナキエル"]  そろそろ食事の時間ですね。アレーン、まだ何か手伝うことはありますか？
+[name="Adnachiel"]  It’s almost time for lunch. Is there anything else you need me to look at?
+[name="아드나키엘"]  슬슬 식사할 시간이네요. 아렌, 더 도와드릴 일이 있을까요?
+
+[name="安德切尔"]  没有的话我要锁工坊的门去吃饭了。
+[name="アドナキエル"]  なければ工房を閉めてランチに行こうと思いますが。
+[name="Adnachiel"]  If not, I’ll lock up and head out to eat.
+[name="아드나키엘"]  더 없으면 공방 문을 닫고 식사하러 갈까 하는데.
+
+[name="芳汀"]  ？
+[name="アレーン"]  ？
+[name="Arene"]  ?
+[name="아렌"]  ?
+
+[name="芳汀"]  好。
+[name="アレーン"]  ああ、行っていいよ。
+[name="Arene"]  Alright.
+[name="아렌"]  그래.
+
+[name="安德切尔"]  要不要一起来？
+[name="アドナキエル"]  一緒にどうです？
+[name="Adnachiel"]  Do you want to get lunch together?
+[name="아드나키엘"]  같이 가실래요?
+
+[name="芳汀"]  不了，我和那位叫送葬人的公证所干员有约，他好像有点事要通知我。
+[name="アレーン"]  いや、イグゼキュターとかいう公証人役場のオペレーターと約束があるんだ。僕に知らせがあるみたいでさ。
+[name="Arene"]  No, I already have plans with Executor. You know, from the Notarial Hall. It seems like he has something important to tell me.
+[name="아렌"]  됐어, 이그제큐터인가 하는 그 공증소 사람이랑 약속이 있거든. 나한테 알려줄 일이 있다나 뭐라나.
+
+[name="芳汀"]  你说顺带把安比尔出没的情报带给他，他会不会卖我个人情？
+[name="アレーン"]  ついでにアンブリエルの出没情報を教えたら、恩を売れるかな？
+[name="Arene"]  Do you think he’d owe me one if I told him Ambriel stopped by here?
+[name="아렌"]  이따 만나서 엠브리엘의 출몰 정보를 알려주면, 나중에 내 부탁 좀 들어주지 않을까?
+
+[name="安德切尔"]  呃？说笑？
+[name="アドナキエル"]  え？　冗談ですよね？
+[name="Adnachiel"]  Uh? That’s a joke, isn’t it?
+[name="아드나키엘"]  네? 농담이시죠?
+
+[name="芳汀"]  是哦。
+[name="アレーン"]  まあね。
+[name="Arene"]  It is.
+[name="아렌"]  농담이야.
+
+[name="安德切尔"]  你太爱开玩笑啦......
+[name="アドナキエル"]  ジョークも程々にしてくださいね……
+[name="Adnachiel"]  You really joke around quite a lot.
+[name="아드나키엘"]  농담을 참 좋아하시네요……
+
+[name="安德切尔"]  虽然我可以看得出，但是其他人或许会产生误会，还是稍微注意一点比较好哦。
+[name="アドナキエル"]  オレは見抜けるからいいですが、ほかの人だったら誤解されちゃいますし、気をつけたほうがいいと思いますよ。
+[name="Adnachiel"]  I can tell you’re kidding, but others might not be able to tell, so I suggest you be a little more careful with that.
+[name="아드나키엘"]  저야 농담인 줄 알아챘지만, 다른 분들이라면 오해할 수도 있으니까요, 그런 농담은 조심해주시는 게 좋을 거 같아요.
+
+[name="芳汀"]  不劳担心。
+[name="アレーン"]  ご心配なく。
+[name="Arene"]  No need to worry about me.
+[name="아렌"]  걱정할 거 없어.
+
+[name="芳汀"]  对了，下午你还在这里吗？
+[name="アレーン"]  そうだ、午後もここにいる？
+[name="Arene"]  Oh yeah, are you going to be around this afternoon?
+[name="아렌"]  그러고 보니, 이따 오후에 계속 여기 있나?
+
+[name="安德切尔"]  嗯？我会在啊。吃完午饭我就会回来。
+[name="アドナキエル"]  えっ？　いますよ。ランチを食べたらすぐに戻ります。師匠たち以外誰も来ないとしても、工房は基本的には開けておかないといけませんし。
+[name="Adnachiel"]  Hm? Yeah.  I will be back here after lunch.
+[name="아드나키엘"]  네, 점심 먹고 다시 돌아올 건데요.
+
+[name="芳汀"]  好。
+[name="アレーン"]  わかった。
+[name="Arene"]  Alright.
+[name="아렌"]  알았어.
+
+[name="芳汀"]  你知道吗，虽然你的观察力确实不一般，但你还是看错了一件事。
+[name="アレーン"]  うーんと、あんたの観察力は確かにスゴいけど、一つ勘違いしてそうだから言っておくよ。
+[name="Arene"]  You know, your observation is on another level, but there’s one thing you got wrong.
+[name="아렌"]  넌 확실히 관찰력이 뛰어난 편이야. 근데 하나 놓친 게 있는 거 같네.
+
+[name="芳汀"]  下午我还会来的。
+[name="アレーン"]  僕、午後にまた来るから。
+[name="Arene"]  I’ll be back this afternoon.
+[name="아렌"]  난 이따 점심 시간이 끝나고 다시 올 거야.
+
+[name="芳汀"]  那位弃械师傅的故事听起来很有意思，如果是为了见他一面，再跑一趟也不是不行。
+[name="アレーン"]  例のガンジェクト師匠の話に興味が湧いてさ。会ってみたいし、それならもう一回来てもいいかなって。
+[name="Arene"]  It sounds like this Gunject is a pretty interesting person. I wouldn’t mind stopping by again just to meet him.
+[name="아렌"]  그 건젝트 사부란 사람 이야기에 흥미가 생겼거든. 그래서 이따 그 사람이 여기로 온다면, 그때 다시 와볼까 해.
+
+[name="芳汀"]  那就下午再见了。
+[name="アレーン"]  じゃあ、またあとで。
+[name="Arene"]  I’ll see you again in the afternoon.
+[name="아렌"]  그럼, 이따 보자.
+
+[name="芳汀"]  我回来了，老师。
+[name="アレーン"]  ただいま、センセー。
+[name="Arene"]  I’m back, Professor.
+[name="아렌"]  돌아왔어, 선생님.
+
+[name="芳汀"]  当然，我当然已经去过工坊了。
+[name="アレーン"]  うん、もちろん工房に行ってきたよ。
+[name="Arene"]  Of course. I went to the workshop.
+[name="아렌"]  당연하지, 공방에는 이미 갔다 왔어.
+
+[name="芳汀"]  啊......但是这个不可以交给您。
+[name="アレーン"]  あ……でもこれは渡せないな。
+[name="Arene"]  Oh... I can’t give you this, though.
+[name="아렌"]  아… 그래도 이건 안 줄 거야.
+
+[name="芳汀"]  您看出来了？工坊不巧没有人在，这上面的签名是拓印的，不是工匠本人的签名。
+[name="アレーン"]  バレてる？　そうだよ。工房に職人がいなかったから、このサインはコピーで、職人本人のものじゃないんだ。
+[name="Arene"]  You can tell? There’s no one at the workshop, unfortunately. I copied their signatures. They didn’t sign off on it.
+[name="아렌"]  그럴 줄 알았다고? 맞아, 공방엔 기능공이 없었어. 여기 적힌 서명은 그 사람들 게 아니라 내가 베껴 적은 거야.
+
+[name="芳汀"]  唉，看来就算原本想拿这个交差，也还是会被识破啊。罗德岛的博士果然很敏锐，安德切尔那家伙倒是没说错。
+[name="アレーン"]  はあ、やっぱり見破られるのか。「ロドスのドクター」は伊達じゃないね。アドナキエルの言ってた通りだ。
+[name="Arene"]  *Sigh*... i thought I would turn this in and get it over with, but you saw right through it. Adnachiel was right. The Doctor is sharp.
+[name="아렌"]  하아, 박사는 정말 예리하네. 아드나키엘이 말한 대로야.
+
+[name="芳汀"]  放心，下午我还会再去一趟的。再给我一份证明书吧，等工匠们参加完比赛，我就可以问他们要真正的签名了。
+[name="アレーン"]  安心して、午後にまた行ってくるからさ。証明書をもう一部ちょうだい。職人たちが帰ってきたら、ちゃんとサインをもらうから。
+[name="Arene"]  Don’t worry. I’ll go there again in the afternoon. Give me another certification form. I’ll get their real signatures after they finish with their competition.
+[name="아렌"]  안심해, 오후에 또 다녀올 거니까. 증명서 한 장 더 줄래? 기능공들이 돌아오면 제대로 사인 받으러 갈 거야.
+
+[name="芳汀"]  嗯？我突然变老实了？
+[name="アレーン"]  何？　僕が急に真面目になったって？
+[name="Arene"]  Hm? I got more honest all of a sudden?
+[name="아렌"]  뭐? 내가 갑자기 성실해졌다고?
+
+[name="芳汀"]  哈哈，别这么说嘛，我一直都很听老师的话，不是吗。
+[name="アレーン"]  ハハッ、ヤだなー。僕はこれまでだってずっとセンセーの言うことを聞いてたでしょ？
+[name="Arene"]  Haha, don’t say that, Professor. Haven’t I always followed your instructions?
+[name="아렌"]  하하, 그렇게 말할 것 까지야. 난 원래 선생님 말씀을 잘 듣잖아, 안 그래?
+
+[name="芳汀"]  哎，老师，您那是什么表情啊。
+[name="アレーン"]  ちょっとセンセー、なんだよその顔。
+[name="Arene"]  Eh, come on, don’t give me that look.
+[name="아렌"]  뭐야, 어이 선생님, 표정이 왜 그래?
+
+[name="芳汀"]  转变心意的理由？
+[name="アレーン"]  気が変わった理由？
+[name="Arene"]  Why did I change my mind?
+[name="아렌"]  태도가 바뀐 이유?
+
+[name="芳汀"]  嗯......
+[name="アレーン"]  う～ん……
+[name="Arene"]  Hmm...
+[name="아렌"]  으음……
+
+[name="芳汀"]  发现了不少有意思的人，为此花费一些时间也不错。
+[name="アレーン"]  面白い人たちを見つけてさ。それに時間を割くのも悪くないかなって思って。
+[name="Arene"]  I met a lot of interesting people, and it’s not a bad idea to spend a little more time because of that.
+[name="아렌"]  재미있는 사람들을 찾았거든. 그래서 시간을 좀 써도 나쁘진 않겠다 싶더라고.
+
+[name="芳汀"]  怎么样。
+[name="アレーン"]  どう？
+[name="Arene"]  How’s that?
+[name="아렌"]  어때?
+
+[name="芳汀"]  这听起来算不算是一个好理由？
+[name="アレーン"]  悪くない理由でしょ？
+[name="Arene"]  Is that a good reason?
+[name="아렌"]  괜찮은 이유지?
+
