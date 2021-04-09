@@ -1,0 +1,20 @@
+[PopupDialog(dialogHead="$avatar_mm")] 欸？教官，那个充满了可疑气息的桩子是怎么回事？
+[PopupDialog(dialogHead="$avatar_mm")] あれれ？　教官、あの怪しいニオイをぷんぷん放っている柱のようなものは何なのだ？
+[PopupDialog(dialogHead="$avatar_mm")] Eh? Instructor, what’s that weird thing with the suspicious aura?
+[PopupDialog(dialogHead="$avatar_mm")] 어라라? 교관, 저 말뚝같이 생긴 수상한 건 무엇인 것이냐?
+
+这是梅什科线圈。<@tu.kw>单个线圈并不会有效果</>。在生效范围内有其他线圈时，相连的线圈之间会<@tu.kw>激活</>。并在线圈之间产生电流攻击敌人。
+あれはミェシェココイル。<@tu.kw>単体では効果を発揮しない</>けど、有効範囲内にもう一つ他のコイルがあると<@tu.kw>起動</>して、コイル間に電流を発生させ、敵を攻撃するのよ。
+That is a Mieszko Coil. <@tu.kw>It doesn’t have any effect by itself</>. When there are other Coils in range, connected Coils become <@tu.kw>Activated</>. Activated Coils generate electric currents between them to attack enemies.
+저건 미에슈코 코일이야. <@tu.kw>이 코일은, 낱개로는 효과가 없어.</> 유효 범위 내에 다른 코일이 있어야만 서로 연결된 코일이 <@tu.kw>활성화</>돼서, 코일 사이에 발생하는 전류로 적을 공격할 수 있지.
+
+尝试部署新的梅什科线圈来扩大地形优势，这也是战术的意义。
+新しいミェシェココイルを配置して、地の利を作るのよ。これも重要な戦術よ。
+Try deploying new Mieszko Coils to expand your terrain advantage. That’s called tactics.
+새로운 미에슈코 코일을 배치해서 지형적 우세를 선점하는 것도 분명 효과적인 전술이 될 거야.
+
+[PopupDialog(dialogHead="$avatar_scave")] 那，博士，就靠你了。
+[PopupDialog(dialogHead="$avatar_scave")] じゃあドクター、あとは任せたぞ。
+[PopupDialog(dialogHead="$avatar_scave")] It’s up to you now, Doctor.
+[PopupDialog(dialogHead="$avatar_scave")] 그럼, 나머진 박사에게 맡기도록 하지.
+
