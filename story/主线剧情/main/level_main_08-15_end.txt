@@ -1,60 +1,100 @@
 [name="乌萨斯农民"] 啊啊啊啊啊啊啊！！！
 [name="ウルサス農民"] うわあああああああ！！！
+[name="Ursus Farmer"] ...Aaaaaaaaghhh!!!
+[name="우르수스 농민"] 으아아아아아악!!!
 
 [name="乌萨斯农民"] 火！火！烫啊啊啊！！！
 [name="ウルサス農民"] 火！？　火だ！！　うわああああ熱い！　熱い！！
+[name="Ursus Farmer"] Fire! Fire! It burns!!!
+[name="우르수스 농민"] 부, 불이야! 불이다! 으아악, 뜨거워!!!
 
 [name="乌萨斯农民"] 救命！！！！！
 [name="ウルサス農民"] 助けてくれ！！！！！
+[name="Ursus Farmer"] Help!!!!!
+[name="우르수스 농민"] 사람 살려!!!!!
 
 [name="孩子"] 爸爸！！
 [name="子供"] パパ！！
+[name="Child"] Dad!!
+[name="아이"] 아빠!!
 
 [name="哨兵"] 怎么回事！快走，快跑啊！
 [name="歩哨"] なんてことだ！　早く、早く消せ！
+[name="Sentinel"] What's going on?! Quick! Get out of here!
+[name="보초병"] 대체 어떻게 된 거지? 모두 피해, 어서!
 
 [name="老人"] 儿子，我的儿子！你这畜生......感染的牲口！！
 [name="老人"] せがれが、わしのせがれが！　畜生……この感染した畜生め！！
+[name="Old Man"] My son! My son! You... Infected lowlife!!
+[name="노인"] 흐흑, 짐승만도 못한 감염자가 내 귀한 자식을!!
 
 [name="老人"] 啊！！火太大了，火太大了！咳，咳，唔......
 [name="老人"] ひいぃ！　火、火が大きすぎる！　ゴホッゴホッゴホッ……
+[name="Old Man"] Ahhh!! The fire! It's too strong! *Cough* *cough*... *cough*...
+[name="노인"] 아악, 뜨거워! 사, 사람 살려! 쿨럭, 쿨럭……
 
 [name="老人"] 混蛋！！！我死也不会......我诅咒你！！我诅咒你！！！皇帝在上，惩罚这些该死的感染者吧！！
 [name="老人"] この畜生め！　死んでもお前を呪ってやる……呪ってやるぞ！！　ああ、皇帝陛下！　この忌々しい感染者どもに罰を！！
+[name="Old Man"] You wretch!!! If I die here... Curse you!!! Curse you!!! My Emperor, I beseech you, lay down your divine punishment on these wretched Infected!!
+[name="노인"] 이 망할 것!!! 내 죽어서도…… 널 저주할 것이다!! 널 저주할 것이야!!! 황제 폐하, 이 죽일 놈의 감염자들을 벌하옵소서!!
 
 [name="塔露拉"] ......
 [name="タルラ"] ……
+[name="Talulah"] ......
+[name="탈룰라"] ……
 
 [name="塔露拉"] 啊......啊......
 [name="タルラ"] あ……あぁ……
+[name="Talulah"] Ah... ah...
+[name="탈룰라"] 아…… 아아……
 
 已经不能再回头了。
 もう後戻りはできない。
+There is no turning back anymore.
+이젠 돌이킬 수 없게 되었다.
 
 至此，这里发生的事，除了塔露拉外，无人知晓。
 ここで起きたことは、タルラ以外に知る者はいない。
+Besides Talulah, no one else knows of the events that transpired here.
+이곳에서 벌어진 일은, 탈룰라를 제외하고는 아무도 알지 못했지만,
 
 之后的事情，众所皆知。
 そしてこれ以降のことは、多くの者がよく知っている。
+And everything that occurred after that is as good as public knowledge.
+그 후에 벌어진 일들은, 모두가 알게 되었다.
 
 [Subtitle(text="你一旦认同我，一旦你理解了我，一旦你明白你处在怎样一片大地上......", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 [Subtitle(text="お前が私を理解し、肯定し、自分がどのような大地に生きているかに気づいた時……", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
+[Subtitle(text="But should you recognize me, should you have understood me, should you realize just the sort of world you’re stood in...", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
+[Subtitle(text="날 인정하고, 이해하고, 그리고 자신이 어떤 땅 위에 서 있는지 분명히 알게 되는 날……", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 
 [Subtitle(text="乌萨斯的未来将自此握在你手中。", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 [Subtitle(text="ウルサスの未来はお前の手中に収まるだろう。", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
+[Subtitle(text="Ursus's future will from then on be in your hands.", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
+[Subtitle(text="우르수스의 미래는 네 손에 쥐어지게 될 거다.", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 
 阿米娅睁开眼睛。
 アーミヤは目を開いた。
+Amiya opens her eyes.
+아미야가 눈을 떴다.
 
 她的眼泪还没干。但她已经看过了一切。
 彼女の涙はまだ乾いていない。だが、すでに彼女は全てを見た。
+Though her tears are welling up in her eyes, she has already seen it all.
+눈가는 여전히 젖어있었지만, 그녀는 모든 것을 보고 말았다.
 
 [name="塔露拉"] ——
 [name="タルラ"] ――！？
+[name="Talulah"] ——
+[name="탈룰라"] ……
 
 [name="塔露拉"] 怎么这里会有只卡特斯？
 [name="タルラ"] どうしてここにコータスがいる？
+[name="Talulah"] What's a Cautus doing here?
+[name="탈룰라"] 카우투스가 왜 여기에 있는 거지?
 
 [name="陈"] 阿米娅！！当心！！
 [name="チェン"] アーミヤ！　気をつけろ！！
+[name="Ch’en"] Amiya!! Watch out!!
+[name="첸"] 아미야!! 조심해!!
 

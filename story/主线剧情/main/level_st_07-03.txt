@@ -236,7 +236,7 @@
 [name="诗怀雅"]  怎么会......下雪了？
 [name="スワイヤー"]  え……雪？
 [name="Swire"]  Why... is it snowing?
-[name="스와이어"]  어떻게….. 눈이 내리지?
+[name="스와이어"]  어떻게…… 눈이 내리지?
 
 沉睡吧，沉睡吧♪
 眠れ、眠れ♪
@@ -326,7 +326,7 @@ All dreams sink to the bottom of the lake~♪
 [name="凯尔希"]  他的意识已经逸散......然而，金铁般的意志却继续贯彻了下去，传递给了身躯。
 [name="ケルシー"]  その意識はすでに霧散している……だが、鋼鉄のごとき意志は貫き通され、身体が崩れ落ちることを拒否している。
 [name="Kal'tsit"]  His consciousness has already dissipated... However, his iron will continues to ripple from his body.
-[name="켈시"]  그의 의식은 이미 사라졌는데…… 그런데도, 강철같은 의지는 아직도 그의 육체에 남아있어.
+[name="켈시"]  의식은 이미 사라졌는데…… 그런데도, 강철같은 의지는 아직도 저 육체에 남아있는 것만 같군.
 
 [name="凯尔希"]  ......博卓卡斯替。
 [name="ケルシー"]  ……ボジョカスティ。
@@ -401,17 +401,17 @@ All dreams sink to the bottom of the lake~♪
 [name="迷迭香"]  你们想让他的死毫无价值？
 [name="ロスモンティス"]  彼の死を無意味なものにしたいの？
 [name="Rosmontis"]  Do you want him to die for nothing?
-[name="로즈몬티스"]  그의 죽음을 헛되게 만들고 싶은 거야?
+[name="로즈몬티스"]  저 사람의 죽음을 헛되게 만들고 싶은 거야?
 
 [name="迷迭香"]  他一点都不想你们死，他是要你们自己去发掘道路。
 [name="ロスモンティス"]  彼は、あなたたちに死んで欲しくない。自分の道を選び、進むことを望んでいたはずでしょ？
 [name="Rosmontis"]  He didn’t want any of you to die. He wanted all of you to find another path.
-[name="로즈몬티스"]  그는 당신들이 죽길 바라지 않아. 그는 당신들 스스로 길을 개척해가길 바랐다고.
+[name="로즈몬티스"]  저 사람은 너희가 죽길 바라지 않아. 너희 스스로 길을 개척해가길 바랐다고.
 
 [name="迷迭香"]  他为了让你们活下去，选择孤独地死......！
 [name="ロスモンティス"]  あなたたちを生かすために、孤独な死を選んだの。
 [name="Rosmontis"]  He chose to die alone so that all of you could live...!
-[name="로즈몬티스"]  그는 당신들을 살리기 위해, 고독한 죽음을 선택했는데…!
+[name="로즈몬티스"]  저 사람은 너희를 살리겠다고 고독한 죽음을 선택했는데…!
 
 [name="盾卫"]  谁说死的会是我们？
 [name="盾兵"]  誰が死ぬのは俺たちだと言った？
@@ -451,7 +451,7 @@ All dreams sink to the bottom of the lake~♪
 [Decision(options="他当然不能直接相信霜星的评判！", values="1")]
 [Decision(options="そう、フロストノヴァの判断を彼は鵜呑みにしなかった！", values="1")]
 [Decision(options="Of course he wouldn’t just buy into FrostNova’s assessment!", values="1")]
-[Decision(options="물론 그는 프로스트노바의 결정을 그대로 받아들일 수 없었겠지!", values="1")]
+[Decision(options="물론 패트리어트는 프로스트노바의 결정을 그대로 받아들일 수 없었겠지!", values="1")]
 
 [Decision(options="只有他忽视自己女儿的评价......", values="1")]
 [Decision(options="彼だけが、娘の遺志に左右されなかった……", values="1")]
@@ -461,12 +461,12 @@ All dreams sink to the bottom of the lake~♪
 [Decision(options="他才不是盲目的！", values="1")]
 [Decision(options="盲目じゃなく、冷静だったんだ！", values="1")]
 [Decision(options="He didn’t go into any of this on blind faith.", values="1")]
-[Decision(options="그가 맹목적인 사람이 아니기 때문이다!", values="1")]
+[Decision(options="패트리어트가 맹목적인 사람이 아니기 때문이다!", values="1")]
 
 [Decision(options="他做出的判断......才是公正的！", values="1")]
 [Decision(options="彼の判断は……極めて公正なものだった！", values="1")]
 [Decision(options="The decision he made... is truly just!", values="1")]
-[Decision(options="그의 판단이야말로…… 공정했단 말이다!", values="1")]
+[Decision(options="패트리어트의 판단이야말로…… 공정했단 말이다!", values="1")]
 
 [Decision(options="而你们却选择相信一个预言？", values="1")]
 [Decision(options="なのにお前たちはたかが預言を信じるのか？", values="1")]
@@ -546,7 +546,7 @@ All dreams sink to the bottom of the lake~♪
 [name="盾卫"]  大尉反抗的所有人......所有奴役者，所有恶王，所有压迫他人者，所有造成灾难者，都逃不过。
 [name="盾兵"]  大尉が反抗した全ての敵……圧政者、暴君、独裁者どもは、誰一人として逃さない。
 [name="Shieldguard"]  The Captain fought against all those people... against slavers, oppressors, corrupt rulers, and those who brought ruin. None could escape.
-[name="방패병"]  대위님이 대항해온 이들….. 노예를 부리는 자, 타락한 왕, 타인을 억압하는 자, 재앙을 일으키는 자, 모두를 절대 가만두지 않을 것이다.
+[name="방패병"]  대위님이 대항해온 이들…… 노예를 부리는 자, 타락한 왕, 타인을 억압하는 자, 재앙을 일으키는 자, 모두를 절대 가만두지 않을 것이다.
 
 [name="盾卫"]  大尉想过。大尉知道天灾杀死的切尔诺伯格人，大尉知道枉死的感染者战士，大尉知道不明就里牺牲的整合运动。
 [name="盾兵"]  大尉は知っていた。天災で死んだチェルノボーグ人を。志半ばで命を落とした感染者の戦士を。訳も分からず犠牲となったレユニオンのメンバーを……
@@ -656,27 +656,27 @@ All dreams sink to the bottom of the lake~♪
 [name="阿米娅"]  他本可以杀我。
 [name="アーミヤ"]  彼はあの時、私を殺すこともできたはずです。
 [name="Amiya"]  He could have killed me.
-[name="아미야"]  그는 절 죽일 수 있었어요.
+[name="아미야"]  불드록카스티 씨는 절 죽일 수 있었어요.
 
 [name="阿米娅"]  但他想起......他想起......
 [name="アーミヤ"]  ですが、彼は思い出しました……思い出したのです……
 [name="Amiya"]  But... he thought...
-[name="아미야"]  하지만 그는…… 생각해 냈어요……
+[name="아미야"]  하지만 불드록카스티 씨는…… 생각해 냈어요……
 
 [name="爱国者"]  那我现在就杀了她。
 [name="パトリオット"]  今ここで彼女を殺す。
 [name="Patriot"]  I’ll kill her now.
-[name="패트리어트"]  그럼 지금 당장 그녀를 죽이겠다.
+[name="패트리어트"]  그럼 지금 당장 그 여자를 죽이겠다.
 
 [name="霜星"]  不，你怎么能认定她就是坏人？
 [name="フロストノヴァ"]  だめだ、なぜ彼女が悪だと断言できる？
 [name="FrostNova"]  Stop. How are you so sure that she’s our enemy?
-[name="프로스트노바"]  안돼, 어떻게 그녀가 나쁜 사람이라고 확신하는 거야?
+[name="프로스트노바"]  안돼, 어떻게 그 여자가 나쁜 사람이라고 확신하는 거야?
 
 [name="爱国者"]  她是科西切传承！她必将如那条老黑蛇般，毒杀我们所有人！
 [name="パトリオット"]  彼女はコシチェイを継ぐ者だ！　かの老いた毒蛇のように、我々に必ず毒を盛るだろう。
 [name="Patriot"]  She is Kashchey’s heir! She’ll poison us all, just like that old serpent!
-[name="패트리어트"]  그녀는 카셰이의 계승자다! 그녀는 분명 그 늙고 검은 뱀처럼 우리 모두를 독살할 것이다!
+[name="패트리어트"]  그 여자는 카셰이의 계승자다! 그 여자는 분명 그 늙고 검은 뱀처럼 우리 모두를 독살할 것이다!
 
 [name="霜星"]  不对，你这老顽固......才不。
 [name="フロストノヴァ"]  違う！ この石頭……そんなはずがないだろう！
@@ -686,7 +686,7 @@ All dreams sink to the bottom of the lake~♪
 [name="霜星"]  即使她最后一定会变成那样，我们也不可能杀了现在的她。
 [name="フロストノヴァ"]  いや、たとえ未来の彼女がそうなる定めだとしても、今の彼女を殺すべきではない。
 [name="FrostNova"]  Even if she’s bound to turn out like that in the end, we can’t kill her now.
-[name="프로스트노바"]  설사 그녀가 훗날 정말 그렇게 변한다 해도, 우리에게 지금의 그녀를 죽일 권리는 없어.
+[name="프로스트노바"]  그 여자가 훗날 정말 그렇게 변한다 해도, 우리에게 지금의 탈룰라를 죽일 권리는 없어.
 
 [name="爱国者"]  ......
 [name="パトリオット"]  …………
@@ -696,7 +696,7 @@ All dreams sink to the bottom of the lake~♪
 [name="霜星"]  因为现在的她不是什么科西切什么，哎，我听不懂你说这些。那是谁啊？她只是塔露拉。
 [name="フロストノヴァ"]  彼女はそのコシチェイとやらではない。いや、そもそも何を言っている？　コシチェイとは誰のことだ？　彼女はタルラだ、それ以外の何者でもない。
 [name="FrostNova"]  Because she’s not Kashchey right now. Eh, who even is that? I can’t understand you. All I know is, she’s just Talulah.
-[name="프로스트노바"]  지금의 그녀는 카셰이인지 뭔지가 아니니까. 아, 아버지 말은 도무지 이해할 수가 없다니까. 저 여자는 그냥 탈룰라일 뿐이라고.
+[name="프로스트노바"]  지금의 그 여자는 카셰이인지 뭔지가 아니니까. 아, 아버지 말은 도무지 이해할 수가 없다니까. 그 여자는 그냥 탈룰라일 뿐이라고.
 
 [name="爱国者"]  ......你从哪里学来这些？你的斗争心会因此变得杂乱。
 [name="パトリオット"]  ……そういう理屈をどこで習った？　そんなものはお前の闘争心を乱してしまうだけだ。
@@ -706,7 +706,7 @@ All dreams sink to the bottom of the lake~♪
 [name="霜星"]  什么杂乱......啥呀，老顽固，纯粹斗争心什么的，你要真是，我没可能遇上你。
 [name="フロストノヴァ"]  闘争心を乱す……何を言っている、この頑固おやじ。純粋な闘争心だか何だか知らないが、父さんにそんなものがあったら、私は父さんと出会ってなかった。そうだろう？
 [name="FrostNova"]  Twist? ...As if, old man. This whole idea of a pure warrior’s spirit? If you really had that, I never would’ve met you.
-[name="프로스트노바"]  뭐가 복잡해진다는 건지…… 이 고집불통. 순수한 투쟁심 같은 거, 진심이라면, 난 아버지를 만날 수도 없었을 거야.
+[name="프로스트노바"]  뭐가 복잡해진다는 건지…… 이 고집불통. 순수한 투쟁심이네 뭐네, 진짜 그랬으면 난 아버지를 만날 수도 없었을 거야.
 
 [name="霜星"]  那样，我们也没办法像现在这样坐在火边喝汤了。
 [name="フロストノヴァ"]  そうしたら、今のように焚火のそばに並んで座って、スープを一緒に飲むこともなかった。
@@ -751,7 +751,7 @@ All dreams sink to the bottom of the lake~♪
 [name="霜星"]  因为，如果塔露拉出了事情，那是她和她身边人的问题。
 [name="フロストノヴァ"]  今後もしタルラがおかしくなったとしても、それはその時に、タルラ自身と、その周りの者たちが向き合うべき問題だ。
 [name="FrostNova"]  Because if something happens to Talulah, that’s between her and her people.
-[name="프로스트노바"]  왜냐면, 탈룰라에게 무슨 일이 발생하더라도, 그건 그녀와 그녀 주변 사람의 문제니까.
+[name="프로스트노바"]  왜냐면, 탈룰라에게 무슨 일이 생기더라도, 그건 그 여자와 주변 사람의 문제니까.
 
 [name="霜星"]  但现在才是真实的。对不对，父亲？
 [name="フロストノヴァ"]  私たちにとっては、彼女の今の姿だけが真実なんだ。そうだろう、父さん？
@@ -771,7 +771,7 @@ All dreams sink to the bottom of the lake~♪
 [name="霜星"]  我们和她一起走走看吧，就试试。
 [name="フロストノヴァ"]  彼女と共に歩んでみよう、騙されたと思って。
 [name="FrostNova"]  Let’s try walking her path and see what happens.
-[name="프로스트노바"]  그녀와 함께 해보자고, 시도 정도는 해보잔 거지.
+[name="프로스트노바"]  그 여자랑 함께 해보자고, 시도 정도는 해보자 이거야.
 
 [name="爱国者"]  ......你以后会是个伟大的领袖。
 [name="パトリオット"]  ……お前は優秀なリーダーになるだろうな。
@@ -806,7 +806,7 @@ All dreams sink to the bottom of the lake~♪
 [name="阿米娅"]  ......他可以杀我。博卓卡斯替先生......可以杀我。
 [name="アーミヤ"]  パトリオットさんは……私を殺せるはずでした。
 [name="Amiya"]  ...He could’ve killed me... Mr. Buldrokkas'tee... could have killed me.
-[name="아미야"]  ……그는 절 죽일 수 있었어요. 불드록카스티 씨는…… 충분히 절 죽일 수 있었어요.
+[name="아미야"]  불드록카스티 씨는…… 충분히 절 죽일 수 있었어요.
 
 [name="阿米娅"]  但我看见......我看见他脑中所想。
 [name="アーミヤ"]  でも、見えたんです……あの人の考えが、私には見えました。
@@ -816,7 +816,7 @@ All dreams sink to the bottom of the lake~♪
 [name="阿米娅"]  是他没有动手。是他最后停下。
 [name="アーミヤ"]  彼は、手を下さなかったんです。彼は止まってくれたんです。
 [name="Amiya"]  He didn’t do it. He stopped himself, at the end.
-[name="아미야"]  그가 손을 멈췄어요. 마지막에, 그가 스스로 손을 멈췄어요.
+[name="아미야"]  하지만 마지막에, 불드록카스티 씨가 스스로 손을 멈췄어요.
 
 [name="阿米娅"]  我还听见......听见......
 [name="アーミヤ"]  そして、聞こえました……私には、聞こえて……
@@ -831,7 +831,7 @@ All dreams sink to the bottom of the lake~♪
 [name="凯尔希"]  告诉我最重要的那句。他最后说了什么？
 [name="ケルシー"]  肝心なことを教えてほしい。彼は何と言ったんだ？
 [name="Kal'tsit"]  Tell me the most important thing. What was the last thing he said?
-[name="켈시"]  가장 중요한 말을 알려줘. 그는 마지막에 무슨 말을 했나?
+[name="켈시"]  가장 중요한 말이겠군. 마지막에 한 말은 뭐였지?
 
 [name="阿米娅"]  ......
 [name="アーミヤ"]  …………
@@ -871,12 +871,12 @@ All dreams sink to the bottom of the lake~♪
 [name="阿米娅"]  他说......他问......
 [name="アーミヤ"]  彼は……あの人は問いかけました。
 [name="Amiya"]  He said... He asked...
-[name="아미야"]  그는…… 그 사람은 물어보았고……
+[name="아미야"]  불드록카스티 씨는 질문을 했고……
 
 他感叹......
 溜息混じりに——
 He sighed...
-그 사람은 감탄을 했어요……
+탄식을 했어요……
 
 “我王......你往何处去？”
 「我が王よ……貴方はどこへ向かう？」
@@ -896,7 +896,7 @@ He sighed...
 [name="阿米娅"]  我读了他的一生。
 [name="アーミヤ"]  彼の一生を読み取ったんです。
 [name="Amiya"]  I read his entire life.
-[name="아미야"]  그의 일생을, 보게 되었어요.
+[name="아미야"]  불드록카스티 씨의 일생을 보게 되었어요.
 
 [name="凯尔希"]  阿米娅......
 [name="ケルシー"]  アーミヤ……
@@ -926,7 +926,7 @@ He sighed...
 [name="凯尔希"]  他死了，他的背叛行径结束了。
 [name="ケルシー"]  彼は死んだのだ。その裏切りもこれで最後だ。
 [name="Kal'tsit"]  With his death ends his last act of betrayal.
-[name="켈시"]  그는 죽었고, 그의 배반도 끝이 났다.
+[name="켈시"]  불드록카스티는 죽었고, 배반도 끝이 났다.
 
 [name="凯尔希"]  但是——
 [name="ケルシー"]  しかし――
@@ -936,7 +936,7 @@ He sighed...
 [name="阿米娅"]  他是因为一直高举着自己的信念，才会去背叛他重视的一切。
 [name="アーミヤ"]  彼は「感染者を守る」という確固たる信念を掲げていたからこそ、大切に思ってきた全てを裏切ったのですね……
 [name="Amiya"]  He betrayed everything he cared about, because he has always stood up for his beliefs.
-[name="아미야"]  그는 언제나 자신의 신념을 지켜나간 나머지, 자신의 소중한 것을 저버리고 말았어요.
+[name="아미야"]  불드록카스티 씨는 언제나 자신의 신념을 지켜나간 나머지, 자신의 소중한 것을 저버리고 말았어요.
 
 [name="迷迭香"]  但这不是，对的吗？
 [name="ロスモンティス"]  でも、それこそが正しいこと、なんでしょ？
@@ -971,42 +971,42 @@ He sighed...
 [name="阿米娅"]  即使他远在这里，他一直在回望卡兹戴尔......他不是不想回去，而是不能再回去，他要为第一次背叛......付出代价。
 [name="アーミヤ"]  遠く離れた地にいても、カズデルの方角に目を向けていました……帰りたくないわけではなく、帰れなかったのです。最初の裏切りの代償として……
 [name="Amiya"]  Even though he’s come so far, he’s always wanted to go back to Kazdel... It’s not that he didn’t want to go back home, but that he couldn’t. He had to pay the price first... for his betrayal.
-[name="아미야"]  멀리 떠나 있어도, 그는 언제나 카즈델을 그리워하고 있었어요…… 그는 돌아가기 싫었던 게 아니라, 돌아갈 수 없었던 거예요. 첫 번째 배신에 대한…… 대가로써.
+[name="아미야"]  멀리 떠나 있어도, 불드록카스티 씨는 언제나 카즈델을 그리워하고 있었어요…… 그분은 돌아가기 싫었던 게 아니라, 돌아갈 수 없었던 거예요. 첫 번째 배신에 대한…… 대가로써.
 
 [name="阿米娅"]  乌萨斯是他的祖国。他为乌萨斯征战一生......也把儿子的死归咎为自己。
 [name="アーミヤ"]  ウルサスは彼の第二の祖国です。彼は生涯をかけてウルサスのために戦い続けてきました。そして、息子さんの死は自分のせいだと、自らを責めていました。
 [name="Amiya"]  Ursus is his motherland. He fought for Ursus all his life... and blamed himself for the death of his son.
-[name="아미야"]  우르수스는 그의 조국이에요. 그는 우르수스를 위해 평생을 싸워왔고…… 아들의 죽음도 자기 탓으로 돌렸죠.
+[name="아미야"]  우르수스는 불드록카스티 씨의 조국이에요. 불드록카스티 씨는 우르수스를 위해 평생을 싸워왔고…… 아들의 죽음도 자기 탓으로 돌렸죠.
 
 [name="阿米娅"]  他认定乌萨斯的邪恶，却又为这片土地，战斗到最后......献出生命。第二次背叛，他也付出了代价。
 [name="アーミヤ"]  ウルサスは悪であると認識しながらも、この大地のために最後まで戦い抜いて……命まで捧げました。二度目の裏切りに対しての代償を支払ったのです。
 [name="Amiya"]  He believed that Ursus was evil, but for the sake of this land, he gave his life... fighting until the very end. He also paid the price for his second betrayal.
-[name="아미야"]  그는 우르수스의 사악함을 인정하면서도, 이 땅을 위해 끝까지 싸우고…… 목숨을 바쳤어요. 두 번째 배신에 한 대가도, 그는 충분히 치렀습니다.
+[name="아미야"]  우르수스의 사악함을 인정하면서도, 이 땅을 위해 끝까지 싸우고…… 목숨을 바쳤어요. 두 번째 배신에 한 대가도 충분히 치렀습니다.
 
 [name="阿米娅"]  这一次......他必须反对塔露拉。但是，他预见了他曾经保护的人里，会有人因他的举动而死。
 [name="アーミヤ"]  最後は……タルラに反旗を翻さねばなりませんでした。しかし、彼は予見しました。これまで守ってきた人たちの中には、そんな彼の行動で命を落としてしまう人もいるであろうことを……
 [name="Amiya"]  This time... he had to stand up against Talulah. But he foresaw that some of the people he strove to protect would die because of his actions.
-[name="아미야"]  그리고 이번엔…… 그는 탈룰라를 배신해야 했지만, 그 행동으로 자신이 지켜왔던 자들의 일부가 죽게 될 거라고 예견했어요.
+[name="아미야"]  그리고 이번엔…… 탈룰라를 배신해야 했지만, 그 행동으로 자신이 지켜왔던 자들의 일부가 죽게 될 거라고 예견했어요.
 
 [name="阿米娅"]  即使他所做的决定维护了感染者的未来，他却......却只为了将死的人......感到痛苦。
 [name="アーミヤ"]  たとえ彼の決断が感染者の未来を守るものだとしても、彼はただ、死にゆく者たちのために……心を痛めていました。
 [name="Amiya"]  Even though the decision he made preserved a future for the Infected, he... only felt pain... for the deceased.
-[name="아미야"]  그가 내린 결정은 감염자의 미래를 지켰지만, 반면 그는…… 그는 죽게 될 사람들 때문에…… 고통스러울 뿐이었어요.
+[name="아미야"]  불드록카스티 씨가 내린 결정은 감염자의 미래를 지켰지만…… 정작 본인은 죽게 될 사람들 때문에…… 고통스러울 뿐이었죠.
 
 [name="阿米娅"]  这是他第三次背叛，也是为什么他下定决心要为之赎罪。这场战斗从头到尾，都是为了弥补这次背叛可能带来的后果。
 [name="アーミヤ"]  三度目の裏切りにして、なぜ贖罪を決断したのか……この戦いは最初から最後まで、彼の裏切りがもたらしうる結末を補うためのものでした。
 [name="Amiya"]  This is his third act of betrayal, and the reason he was so determined to atone for it. From beginning to end, this battle was to make up for the consequences of his betrayal.
-[name="아미야"]  이것이 바로 그의 세 번째 배신이자, 속죄를 결심한 이유기도 해요. 이번 싸움은, 처음부터 끝까지 그 대가를 치르기 위한 것이었어요.
+[name="아미야"]  이것이 바로 불드록카스티 씨의 세 번째 배신이자, 속죄를 결심한 이유기도 해요. 이번 싸움은, 처음부터 끝까지 그 대가를 치르기 위한 것이었던 거예요.
 
 [name="阿米娅"]  这三次，命运其实都推着他走向更远的地方，但他只想回望。痛恨命运的残酷和捉弄，不愿随波逐流的他硬是背起了所有后果。
 [name="アーミヤ"]  三回とも運命は彼をより遠くへ追いやりました。彼の振り返りたいという望みに反して。運命の悪戯と残酷さを憎みながらも、それに流されることを拒んだ彼は、全ての結果を一身に背負いました。
 [name="Amiya"]  Through these three times, fate ended up pushing him further and further when he just wanted to turn back. He hated the cruelty and mockery of fate. He never wanted to follow it, but he bore the consequences for it all the same.
-[name="아미야"]  이 세 번으로, 운명은 사실 그를 먼 곳으로 밀어내려 했지만, 그는 계속 돌아왔어요. 운명의 잔혹한 장난을 증오하면서도, 그는 모든 결과를 짊어졌어요.
+[name="아미야"]  이 세 번으로, 운명은 사실 불드록카스티 씨를 먼 곳으로 밀어내려 했지만, 불드록카스티 씨는 계속 돌아왔어요. 운명의 잔혹한 장난을 증오하면서도, 모든 결과를 짊어졌죠.
 
 [name="阿米娅"]  十年，二十年......我还能理解。可是......太长时间了。他对抗那些阴差阳错的后悔莫及，是在太长时间了。
 [name="アーミヤ"]  十年、二十年ならばまだ理解はできたかも知れません。ですが……長過ぎました。彼が抗い続けた運命が、その代償としてもたらした後悔は、あまりにも永きにわたるものでした。
 [name="Amiya"]  Ten years, twenty years... I’d be able to understand. But... too much time had passed. After facing all those regrets for so many years, too much time had passed.
-[name="아미야"]  십 년, 이십 년 정도였다면…… 이해할 수 있어요. 하지만…… 너무 긴 시간이었어요. 그가 범한 잘못의 대가나 후회로는, 너무나 긴 시간이었어요.
+[name="아미야"]  십 년, 이십 년 정도였다면 이해할 수 있겠지만…… 너무 긴 시간이었어요. 자신이 범한 잘못의 대가나 후회로는, 너무나 긴 시간이었어요.
 
 [name="阿米娅"]  最后的最后，就连我也不能明白。
 [name="アーミヤ"]  最後の最後は、私にも理解し得ないほどに……
@@ -1016,32 +1016,32 @@ He sighed...
 [name="阿米娅"]  他明明可以杀我，却又在最后停止了。
 [name="アーミヤ"]  私の息の根を止めることもできたなずのに、最終的に彼は、なぜか踏みとどまることを選びました。
 [name="Amiya"]  He could’ve taken my life, but he stopped at the end.
-[name="아미야"]  그는 분명 절 죽일 수 있었는데, 마지막에 결국 멈췄어요.
+[name="아미야"]  불드록카스티 씨는 분명 절 죽일 수 있었는데, 마지막에 결국 멈췄어요.
 
 [name="凯尔希"]  ......他战胜了他个人的痛苦，他数百年的信条，和他对整片大地的热爱。
 [name="ケルシー"]  勝ったのだ。彼だけを苛む個人的な苦痛……数百年の永きにわたり不変とした信条と、この大地全てに対する無償の「愛」。その鎖、その呪縛に、彼は勝利したのだ。
 [name="Kal'tsit"]  ...He defeated his lifetime of suffering, his centuries-old ideology, and his love for this entire world.
-[name="켈시"]  ……그는 자신의 고통, 수백 년 동안 지켜온 신념, 그리고 이 세상을 향한 사랑을 모두 이겨냈다.
+[name="켈시"]  ……불드록카스티는 자신의 고통, 수백 년 동안 지켜온 신념, 그리고 이 세상을 향한 사랑을 모두 이겨냈다.
 
 [name="凯尔希"]  他没有再遵循他恪守无数岁月的准则。他......向命运屈服了。
 [name="ケルシー"]  だが、数え切れぬ歳月の中で自らに課してきた規則を反故にした。その意味で彼は……運命に屈したと言える。
 [name="Kal'tsit"]  He no longer followed the principles he had adhered to for countless years. He... succumbed to fate.
-[name="켈시"]  그는 결국 자신이 긴 세월 동안 지켜온 규칙을 저버렸다. 그는…… 운명에 굴복한 거야.
+[name="켈시"]  하지만 결국 자신이 긴 세월 동안 지켜온 규칙을 저버렸다. 불드록카스티는…… 운명에 굴복한 거야.
 
 [name="凯尔希"]  不，这样说玷污了他。应该说，他选择无视了他一直在反抗的东西，他跨过了自己的心结。
 [name="ケルシー"]  いや、その表現は彼への侮辱になるな。アーミヤの言う通り、彼は選んだのだ。ずっと抗ってきた運命を無視すること選択した結果、心のわだかまりを乗り越えることができたのだ。
 [name="Kal'tsit"]  No, saying that would defile his memory. Rather, he chose to ignore everything he had been resisting, and overcame the final obstacle within his own heart.
-[name="켈시"]  아니, 이렇게 말하면 그를 욕보이는 거겠지. 그는 지금까지 맞서온 것들을 무시하기로 결정했고, 자신의 마음속 벽을 뛰어넘은 거다.
+[name="켈시"]  아니, 이렇게 말하면 불드록카스티를 욕보이는 셈이 되겠지. 불드록카스티는 지금까지 맞서온 것들을 무시하기로 결정했고, 자신의 마음속 벽을 뛰어넘은 거다.
 
 [name="凯尔希"]  他把未来交托给了你。这一次，他爽快地选择了他认为正确的事情，而不再是为了维持某种理念而受尽折磨。
 [name="ケルシー"]  彼は未来を君に託した。今度こそ、彼は躊躇なく自らが正しいと思うものを選ぶことができた。一つの理念を維持するために、苦難を受け入れるのではなく……
 [name="Kal'tsit"]  He entrusted the future to you. This time, he gladly chose to do what he thought was right, rather than torture himself to maintain a certain ideal.
-[name="켈시"]  그는 네게 미래를 맡겼어. 스스로 옳다고 생각하는 일을 선택했고, 더는 어떤 이념 따위로 자신을 갉아먹지 않겠다고 선택한 거야.
+[name="켈시"]  불드록카스티는 네게 미래를 맡겼어. 스스로 옳다고 생각하는 일을 선택했고, 더는 어떤 이념 따위로 자신을 갉아먹지 않겠다고 선택한 거야.
 
 [name="凯尔希"]  当然，在他内心深处，这个部分，就像你描述的......
 [name="ケルシー"]  そして当然ながら、彼の心の奥深くには、彼女の居場所があった。
 [name="Kal'tsit"]  Of course, deep in his heart, this part is as you described...
-[name="켈시"]  물론, 그의 마음은, 네 말처럼……
+[name="켈시"]  물론, 불드록카스티의 마음은, 네 말처럼……
 
 [name="凯尔希"]  原本属于塔露拉，现在属于你，但它一直属于霜星。
 [name="ケルシー"]  以前まではそこにタルラが居たが、今はアーミヤが成り代わった。だが、それもひっくるめてその場所全ては、最初から最後まで彼女の……フロストノヴァの居場所だったのだ。
@@ -1131,7 +1131,7 @@ Core City Warehouse District
 [name="萨卡兹雇佣兵"]  这次，可以。下次劝你不要多管闲事。
 [name="サルカズ傭兵"]  今回は見逃してやる。次から余計な真似はしない方がいいぞ。
 [name="Sarkaz Mercenary"]  I’ll let it slide this time. A little warning, don’t stick your nose where it doesn’t belong next time.
-[name="살카즈 용병"]  이번엔, 넘어가 주마. 다음엔 쓸데없는 짓 말라고.
+[name="살카즈 용병"]  이번엔 그냥 넘어가 주마. 다음엔 얄짤없을 줄 알아.
 
 [name="游击队战士"]  我刚刚接到通知。
 [name="遊撃隊戦士"]  先ほど知らせを受けた。
@@ -1156,7 +1156,7 @@ Core City Warehouse District
 [name="萨卡兹雇佣兵"]  还真是个大消息。
 [name="サルカズ傭兵"]  それは一大ニュースだな。
 [name="Sarkaz Mercenary"]  That’s some big news.
-[name="살카즈 용병"]  그것참 놀라운 소식이군.
+[name="살카즈 용병"]  그것 참 놀라운 소식이군.
 
 [name="游击队战士"]  所以，现在......我们也没有再维持以前那种状态的理由了。
 [name="遊撃隊戦士"]  だからもう、このクソみたいな現状を維持する理由はなくなった。
@@ -1166,7 +1166,7 @@ Core City Warehouse District
 [name="游击队战士"]  你们这帮魔族佬，比我们的萨卡兹要恶臭上好几倍。
 [name="遊撃隊戦士"]  貴様ら魔族どもは、我々のところのサルカズより何倍もクズだ。
 [name="Guerrilla Fighter"]  Your band of devils smells far worse than any of our Sarkaz.
-[name="유격대 전사"]  너희 마족 놈들은, 우리 살카즈보다 몇 배는 더 추악한 냄새를 풍기는군.
+[name="유격대 전사"]  너희 마족 놈들은, 우리쪽의 살카즈보다 몇 배는 더 추악한 냄새를 풍기는군.
 
 [name="罗德岛近卫干员？"]  爱国者去世了是怎么回事？！
 [name="ロドス前衛オペレーター？"]  おい！　パトリオットが死んだってどういうことだ！？
@@ -1246,12 +1246,12 @@ Core City Warehouse District
 [name="罗德岛近卫干员？"]  真正为了整合运动着想，为了我们战斗的爱国者，已经死了！
 [name="ロドス前衛オペレーター？"]  本当にレユニオンのことを思い、我々のために戦ったパトリオットが死んでしまったんだ！
 [name="Rhodes Island Guard?"]  The one who was truly looking out for Reunion! The one who fought for all of us! Patriot is dead!
-[name="로도스 아일랜드 가드 오퍼레이터?"]  진정 리유니온을 위하고, 우릴 위해 싸워온 패트리어트가, 죽었단 말이다!
+[name="로도스 아일랜드 가드 오퍼레이터?"]  진짜로 리유니온을 위하고, 우릴 위해 싸워온 패트리어트가 죽었단 말이다!
 
 [name="游击队战士"]  塔露拉主导了针对爱国者的阴谋......塔露拉是乌萨斯的间谍！
 [name="遊撃隊戦士"]  タルラが裏切った……タルラはウルサスのスパイだったんだよ！
 [name="Guerrilla Fighter"]  Talulah orchestrated this conspiracy against Patriot! ...She’s an agent of Ursus!
-[name="유격대 전사"]  탈룰라가 패트리어트를 겨냥해 음모를 꾸몄다….. 탈룰라는 우르수스의 스파이다!
+[name="유격대 전사"]  탈룰라가 패트리어트를 겨냥해 음모를 꾸몄다… 탈룰라는 우르수스의 스파이다!
 
 [name="整合运动成员"]  谁会信你的鬼话！
 [name="レユニオン構成員"]  誰がそんな話を信じるか！
@@ -1271,7 +1271,7 @@ Core City Warehouse District
 [name="整合运动成员"]  我证明......我知道雇佣兵打算伏击游击队！我看到他们的计划......他们已经疯了！
 [name="レユニオン構成員"]  俺は信じるぞ……傭兵どもが遊撃隊を待ち伏せしようとしていた。奴らの計画をこの目で見たんだ……完全に狂ってる！
 [name="Reunion Member"]  It proves... that the mercenaries are going to ambush the guerrillas! I see their plan... those lunatics!
-[name="리유니온 멤버"]  난 알고 있어…… 용병들은 유격대를 기습할 계획이었다고! 나는 그들의 계획을 봤어….. 그놈들은 제정신이 아냐!
+[name="리유니온 멤버"]  난 알고 있어…… 용병들은 유격대를 기습할 계획이었다고! 나는 그들의 계획을 봤어… 그놈들은 제정신이 아냐!
 
 [name="萨卡兹雇佣兵"]  你——
 [name="サルカズ傭兵"]  貴様――
@@ -1281,7 +1281,7 @@ Core City Warehouse District
 [name="游击队战士"]  住手！想保命，就别和我们敌对。或者，我们会把你们碾碎！
 [name="遊撃隊戦士"]  動くな傭兵！　命が惜しければ大人しくしているんだ。さもなくば粉微塵に押しつぶしてくれよう！
 [name="Guerrilla Fighter"]  Stop! Don’t fight us, if you value your lives. Otherwise, we’ll destroy you!
-[name="유격대 전사"]  움직이지 마! 목숨을 부지하고 싶다면, 우리에게 맞서지 마라. 그렇지 않으면, 박살을 내줄 테니!
+[name="유격대 전사"]  움직이지 마! 목숨을 부지하고 싶다면 우리에게 맞서지 마라. 그렇지 않으면 박살을 내주마!
 
 [name="游击队战士"]  我们盾......会为了感染者，和所有敌人战斗到最后！即使敌人是塔露拉也无所谓！
 [name="遊撃隊戦士"]  我々は「盾」だ！　感染者のためなら、全ての敵を相手に最後まで戦い抜く！　たとえその相手がタルラだとしてもだ！
@@ -1486,7 +1486,7 @@ Patriot plotted with the Ursus Army to try to kill the Leader! Open your eyes an
 [name="阿米娅"]  Dr.{@nickname}。 之后我们就要兵分两路了。
 [name="アーミヤ"]  Dr.{@nickname}。ここから先は二手に分かれることになります。
 [name="Amiya"]  Dr. {@nickname}. We’ll split up for the next part.
-[name="아미야"]  {@nickname} 박사님. 여기부턴 두 길로 나누어져야 할 것 같네요.
+[name="아미야"]  {@nickname} 박사님. 여기부턴 두 길로 나뉘어 져야 할 것 같네요.
 
 [name="阿米娅"]  我和迷迭香会前往指挥塔。另一方面，凯尔希医生会带你前往核心城指挥塔地下的能源区。
 [name="アーミヤ"]  私とロスモンティスさんは司令塔に向かいます。そしてドクターはケルシー先生と共に、司令塔の地下にある動力制御エリアへお願いします。
@@ -1536,7 +1536,7 @@ Patriot plotted with the Ursus Army to try to kill the Leader! Open your eyes an
 [name="阿米娅"]  陈长官可能已经在指挥塔附近了。她的脚程一直比我们快，我们也得加快速度了。
 [name="アーミヤ"]  チェンさんは、おそらくもうブリッジ付近に到着してるはずです。私たちより先に行動開始していますから。私たちも急がないと。
 [name="Amiya"]  Madame Ch’en may already be near the command tower. She’s always been quick, so we’ll have to pick up our pace.
-[name="아미야"]  첸 씨가 사령탑 부근에 이미 도착했을지도 몰라요. 우리보다 한발 앞서가고 있으니까요. 우리도 서두르죠.
+[name="아미야"]  첸 씨가 사령탑 부근에 이미 도착했을지도 몰라요. 우리보다 한발 앞서 가고 있으니까요. 우리도 서두르죠.
 
 [name="阿米娅"]  博士......千万要注意安全。
 [name="アーミヤ"]  ドクター……これだけは忘れないでくださいね。
@@ -1741,7 +1741,7 @@ Chernobog Core City, Power Supply Sector
 [name="W"]  凯尔希？解释一下。
 [name="W"]  ケルシー、何か弁解を頂戴。
 [name="W"]  Kal'tsit, story time.
-[name="W"]  켈시? 설명해 줘.
+[name="W"]  켈시? 설명해줘.
 
 [name="凯尔希"]  有什么是我需要解释的？
 [name="ケルシー"]  私に何の弁解が必要だと？
@@ -1766,7 +1766,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="W"]  凯尔希，你和Dr.{@nickname}一起行动？
 [name="W"]  ケルシー、あんたDr.{@nickname}と行動してるの？
 [name="W"]  Kal’tsit, you’re working with Dr. {@nickname}?
-[name="W"]  켈시, 너 {@nickname} 박사랑같이 움직이는 거야?
+[name="W"]  켈시, 너 {@nickname} 박사랑 같이 움직이는 거야?
 
 [name="W"]  你？和Dr.{@nickname}？一起行动？！
 [name="W"]  あんたが？　Dr.{@nickname}と一緒に！？
@@ -1846,7 +1846,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="W"]  或者，你的确是疯了，那另当别论。
 [name="W"]  ……まぁ、あんたがマジで狂っちゃったってんなら、話は別よね。
 [name="W"]  Or, you’ve just gone mad. That’s a whole different matter.
-[name="W"]  혹시, 네가 정말로 미쳐버렸다면 얘기는 달라지겠지.
+[name="W"]  뭐 그래도, 네가 정말로 미쳐버렸다면 얘기는 달라지겠지만.
 
 [Decision(options="你究竟知道些什么？", values="1")]
 [Decision(options="お前は何を知ってるんだ？", values="1")]
@@ -1856,7 +1856,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="W"]  这里没有你插嘴的地方，朋友。等我解决她的问题，才轮到我们两个来好好谈谈的时候。
 [name="W"]  うるさい。今はあんたが口を挟む余地はないの。いい子にしてて。先にこっちの問題を解決してから、二人でしっかりお話しましょ。
 [name="W"]  There’s no place for you to cut in here, friend. When I finish with her, it’ll be time for the two of us to have a nice, long chat.
-[name="W"]  여기에 네가 끼어들 틈은 없어, 친구. 켈시의 문제를 우선 해결하고 나서, 깊은 대화를 나눠보자고.
+[name="W"]  우리 친구~ 끼어드시게요? 너랑 난 일단 켈시 문제부터 해결하고 나서 찐~한 대화를 나눠보자고.
 
 [name="W"]  对你发火其实也没什么用。因为你可能是失忆了，又或者是明明没失忆但装作失忆......
 [name="W"]  今のあんたに何を言ったってどうしようもないし。だってあんたは記憶喪失で……まぁ本当は違くてフリをしてるのかもだけど——
@@ -1876,7 +1876,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="W"]  当时走进议长室、又知道特蕾西娅身在何处的，就只有这一个人。凯尔希，你难道不知道这是什么意思吗？
 [name="W"]  あの時、議長室に入った上で、テレジアの居場所を知り得たのは、コイツただ一人なのよ。その意味が分からないの？
 [name="W"]  Back then, there was only one person who entered the Speaker’s Office and knew Theresa’s whereabouts. Kal'tsit, you know what that means, don’t you?
-[name="W"]  당시에 의장실에 들어갔으면서, 테레시아가 어디 있는지도 아는 사람은 단 한 명뿐이었어. 켈시, 이게 무슨 뜻인지 모르는 건 아니겠지?
+[name="W"]  그때 의장실에 들어갔으면서, 테레시아가 어디 있는지도 아는 사람은 단 한 명뿐이었어. 켈시, 이게 무슨 뜻인지 모르는 건 아니겠지?
 
 [name="凯尔希"]  的确。我比你更清楚这意味着什么。
 [name="ケルシー"]  そうだな。お前よりその意味を分かっているつもりだ。
@@ -1896,7 +1896,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="W"]  哦，我知道，你又在做权衡了，这一边，和那一边。
 [name="W"]  ああ、わかったわ、また損得勘定しているのね、あっちとこっちを天秤にかけて……
 [name="W"]  Oh, I get it. You’re trying to make another exchange. Tit-for-tat.
-[name="W"]  아, 알겠다. 또 저울질이라도 하고 있나 보구나. 또 이쪽저쪽 왔다 갔다 하면서.
+[name="W"]  아, 알겠다. 또 저울질이라도 하고 있나 보구나. 또 이쪽저쪽 왔다갔다하면서.
 
 [name="W"]  可另一边是特蕾西娅！
 [name="W"]  でもその片方はテレジアなのよ！
@@ -1906,7 +1906,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="凯尔希"]  在知道真相前人不该被推论影响情绪，W。
 [name="ケルシー"]  真実を知る前に推測を先走らせ、無闇に己の感情を揺らすべきではないと思うがな、W。
 [name="Kal'tsit"]  Those who don’t know the truth shouldn’t let conjecture affect their emotions, W.
-[name="켈시"]  확인되지 않은 사실에 네 감정이 휘둘리게 놔둬선 안 되지, W.
+[name="켈시"]  확인되지 않은 사실에 감정이 휘둘리면 쓰나.
 
 [name="W"]  我的推论只有一个：你根本不是人。我刚刚已经说了，能把特蕾西娅的死和凶手放在一起权衡的你，只是个怪物。
 [name="W"]  あたしの推測はただ一つ。あんたが人でなしっていうことだけよ。テレジアの死と、その犯人とを並べて勘定できるあんたは、ただのバケモノよ。ケルシー……
@@ -1921,7 +1921,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="W"]  我要知道真相。在我知道真相前，它就是凶手；我对凶手也从来是毫不手软。
 [name="W"]  真実は当然知るつもりよ。それまでは、手を下した犯人はコイツのままだし、私は人殺しの罪人にかける情けは持ち合わせてないわ。
 [name="W"]  I need to know the truth. And before I do, that thing next to you is a murderer; and I’ll never show mercy to a murderer.
-[name="W"]  진상을 알고 싶어. 진상을 알기 전까진, 저 녀석이 살인범이야. 난 살인범 따위에게 적당히 해줄 생각 없어.
+[name="W"]  난 진상이 알고 싶어. 그러니까 진상을 알기 전까진 저 녀석이 살인범이야. 난 살인범 따위에게 적당히 해줄 생각 없다고.
 
 [name="W"]  哦，我知道了。
 [name="W"]  ああ……なるほど、わかった。
@@ -1951,7 +1951,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="W"]  不知道你是从哪里听来的，真的，我希望你当作没听过。你和我根本不算一种生物。
 [name="W"]  何でそう思ったのかはわからないけど、マジで、聞かなかったことにしてくれないかしら。あんたとあたしは、そもそも同じ生き物とさえ言えないわ。
 [name="W"]  I don’t know where you heard that before, you should pretend you never did. You and I are not the same type of creature at all.
-[name="W"]  어디서 들었는지는 모르겠지만, 정말이지, 못 들은 일로 해줬으면 좋겠어. 너와 난 근본부터 다른 생물이야.
+[name="W"]  어디서 들었는지는 모르겠지만, 정말이지… 그냥 못 들은 셈 쳐주면 안 될까? 너랑 난 근본부터 다른 생물이야.
 
 [name="凯尔希"]  不，W。 某种程度上，我和你是一种人，没错。
 [name="ケルシー"]  いいや、W。ある意味私とお前は同類だ。間違ってはいない。
@@ -2081,7 +2081,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="凯尔希"]  Mon3tr，把通风管壁、隔离墙、中基保护层和外墙连同她一起，全都炸开。
 [name="ケルシー"]  Mon3tr、エアダクトとその隔壁、中基材保護層から外壁までの全部を、彼女ごと爆破しろ。
 [name="Kal'tsit"]  Mon3tr, blast through the ventilation pipes, the walls, and the base’s outer and middle protective layers along with her.
-[name="켈시"]  Mon3tr, 풍관벽, 격리벽, 기초 보호층, 외벽까지. 그녀와 같이 날려버려.
+[name="켈시"]  Mon3tr, 풍관벽, 격리벽, 기초 보호층, 외벽까지. W와 같이 날려버려.
 
 [name="W"]  老女人！下下下下次我一定教你死得难————
 [name="W"]  こっのクソババア！　こっ、こっ、今度会ったら絶対に楽な死に方はさせな――――
@@ -2096,7 +2096,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [Decision(options="我还以为你不会让她把话说完。", values="1")]
 [Decision(options="……あんなに喋らせて良かったのか？", values="1")]
 [Decision(options="I’m surprised you let her finish her first sentence.", values="1")]
-[Decision(options="그녀의 말을 끝까지 들어주리라곤 상상도 못 했는데.", values="1")]
+[Decision(options="저 여자 말을 끝까지 들어주리라곤 상상도 못 했는데.", values="1")]
 
 [name="凯尔希"]  说那么多你也听不懂。
 [name="ケルシー"]  あれだけでは意味も分からんだろう？
@@ -2106,7 +2106,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [Decision(options="那为什么不向我解释一下？", values="1")]
 [Decision(options="じゃあなんで説明してくれないんだ？", values="1")]
 [Decision(options="Why don’t you explain it to me then?", values="1")]
-[Decision(options="그럼 왜 설명해 주지 않는 거지?", values="1")]
+[Decision(options="그럼 왜 설명해주지 않는 거지?", values="1")]
 
 [name="凯尔希"]  只是还不到时候。
 [name="ケルシー"]  まだその時ではない。
@@ -2141,7 +2141,7 @@ Though she directs her words at Dr. Kal’tsit, her eyes are fixed on me.
 [name="梅菲斯特"]  你会修补我身上的漏洞吗，还是弥补我的伤疤？
 [name="メフィスト"]  もしかして、僕の欠けたところを補ってくれるの？　それとも傷痕を癒やしてくれるの？
 [name="Mephisto"]  Will you fill the holes in my body, or mend my scars?
-[name="메피스토"]  내 몸에 난 구멍을 막아주려고? 아니면 상처를 치료해 주려고?
+[name="메피스토"]  내 몸에 난 구멍을 막아주려고? 아니면 상처를 치료해주려고?
 
 [name="梅菲斯特"]  你会让我，像那个人一样，忘记一切吗？
 [name="メフィスト"]  それとも、あいつみたいに、全てを忘れさせるの？
@@ -2186,7 +2186,7 @@ Core City
 [name="陈"]  不过也替我遮掩了阳光。接下来的行动理应会方便些。
 [name="チェン"]  だが太陽の光も隠してくれた。これからの行動がしやすくなる。
 [name="Ch’en"]  But, it’s also covered the sun for me. This’ll make my next step a lot easier.
-[name="첸"]  하지만 이것으로 햇빛이 가려졌으니, 움직임이 한층 수월해지겠군.
+[name="첸"]  하지만 이것으로 햇빛이 가려졌으니, 움직이기 한층 수월해지겠군.
 
 [name="陈"]  呃......我不能再受伤了。
 [name="チェン"]  うっ……これ以上、傷を負うわけにはいかないな。
@@ -2256,7 +2256,7 @@ Core City
 [name="诗怀雅"]  但你知道的。
 [name="スワイヤー"]  でも、知ってるでしょう。
 [name="Swire"]  But you already know.
-[name="스와이어"]  하지만 넌 알고 있잖아.
+[name="스와이어"]  근데 너 알고 있지 않아?
 
 [name="林雨霞"]  我知道一件事，和你对我说，是两回事。
 [name="ユーシャ"]  知ってるのと、話してもらうのとでは、意味が全然違うのよ。
@@ -2266,7 +2266,7 @@ Core City
 [name="星熊"]  林大小姐，还是不要为难我们近卫局的missy了吧。
 [name="ホシグマ"]  リンお嬢さん、近衛局（うち）のお嬢様を虐めないでくださいよ。
 [name="Hoshiguma"]  Princess, let’s not embarrass Missy over here.
-[name="호시구마"]  린 아가씨, 우리 근위국의 아가씨를 곤란하게 하지 말자고.
+[name="호시구마"]  린 아가씨, 우리 근위국의 아가씨 너무 괴롭히지 마.
 
 [name="林雨霞"]  ——鬼姐。
 [name="ユーシャ"]  ――「鬼の姉御」さま。
@@ -2316,7 +2316,7 @@ Core City
 [name="星熊"]  哎，没办法，Missy一直就这样。
 [name="ホシグマ"]  はぁ……仕方ありません、彼女はいつもこうですから。
 [name="Hoshiguma"]  Ah, what are you gonna do? Missy has always been like that.
-[name="호시구마"]  아, 어쩔 수 없어, 아가씨는 계속 이런 상태였거든.
+[name="호시구마"]  하아… 정말이지, 아까부터 계속 이 상태라니까.
 
 [name="星熊"]  没事的，Missy，别哭。
 [name="ホシグマ"]  大丈夫ですよ、お嬢様、泣かないでください。いい子いい子。
@@ -2336,7 +2336,7 @@ Core City
 [name="诗怀雅"]  可......这就是我们最后一次见面。我没准备好，我还没准备好......就再也见不到这条臭龙了。
 [name="スワイヤー"]  でも……今日が私たちが顔を合わせる最後の機会だったのよ。準備なんて……心の準備なんてできないまま……もうあのバカ龍に会えなくなっちゃった……
 [name="Swire"]  But... this is the last time we’ll see each other. I’m not ready yet... What if... I never see that smelly dragon again?
-[name="스와이어"]  하지만…… 이게 우리의 마지막이라니. 난 아직 준비가, 준비가 아직 안 됐는데…… 이 빌어먹을 용을 다시는 볼 수 없다니……
+[name="스와이어"]  하지만…… 이게 우리의 마지막이라니. 난 아직 준비가, 준비가 아직 안 됐는데…… 그 빌어먹을 용을 다시는 볼 수 없다니……
 
 [name="星熊"]  Missy，不会的。
 [name="ホシグマ"]  そんなことはありませんよ。
@@ -2346,7 +2346,7 @@ Core City
 [name="星熊"]  我很喜欢一句话，叫......嗯。人生何处不相逢。
 [name="ホシグマ"]  小官の好きな言葉にこういうのがあります。ええと……何だっけ、ああ、「生きていればいつかまた会える」です。
 [name="Hoshiguma"]  There’s this phrase that I really like. Mm, it goes like this: “We’ll meet again someday, somewhere.”
-[name="호시구마"]  내가 좋아하는 말이 있어, 뭐냐면…… 음…… 살아 있다면 언제가 꼭 다시 만나게 된다.
+[name="호시구마"]  내가 좋아하는 말이 있거든? 뭐냐면…… 음…… 살아만 있다면 언젠가는 꼭 다시 만나게 된다.
 
 [name="林雨霞"]  ......是。人生何处不相逢。
 [name="ユーシャ"]  ……ええ。生きていればいつかまた会えるわよね。
@@ -2446,7 +2446,7 @@ But I shall wait for you at that end.                      But I shal
 [name="鼠王"]  我恰好知道。多亏你那个傻侄女，和你是一个模子里造出来的。
 [name="鼠王"]  偶然にもな。お主の馬鹿な姪御が、お主に瓜二つだったお陰じゃ。
 [name="Rat King"]  I do happen to know. All thanks to that niece of yours, of course. You two are both cut from the same cloth of stupidity.
-[name="래트킹"]  막 알게 된 참이네. 다 자네의 그 멍청한 조카딸 덕분이지, 자네을 아주 똑 닮았더군.
+[name="래트킹"]  막 알게 된 참이네. 다 자네의 그 멍청한 조카딸 덕분이지, 자네를 아주 똑 닮았더군.
 
 [name="魏彦吾"]  ——
 [name="ウェイ"]  …………
@@ -2456,12 +2456,12 @@ But I shall wait for you at that end.                      But I shal
 [name="魏彦吾"]  舸瑞，你不是来这里散步的。即使是，你也不该浪费我的时间。
 [name="ウェイ"]  グレイ、お前こそ、ただ散歩に来たというわけではあるまい。仮にそうだとしても、私の時間を無駄にしないでほしい。
 [name="Wei Yenwu"]  Kojui, you’re not out here on a stroll. Even if you were, you shouldn’t waste my time.
-[name="웨이 옌우"]  거뤠이, 그냥 산책만 하려고 나온 건 아니겠죠, 아무리 당신이라도 내 시간을 낭비할 순 없어서 말입니다.
+[name="웨이 옌우"]  거뤠이, 그냥 산책만 하려고 나온 건 아니겠죠, 아무리 당신이라도 내 시간을 낭비하게 둘 순 없어서 말입니다.
 
 [name="鼠王"]  和老朋友叙叙旧，也算浪费时间？
 [name="鼠王"]  はて、旧友との思い出話が時間の無駄だと？　寂しいことを言う。
 [name="Rat King"]  Is it ever a waste of time to talk to an old friend?
-[name="래트킹"]  오랜 친구와 옛이야기를 나누는 것도, 자네에겐 시간 낭비인가?
+[name="래트킹"]  오랜 친구와 옛이야기를 나누는 것도, 자네에겐 시간 낭비란 말인가?
 
 [name="鼠王"]  你真的还当我是朋友吗，魏彦吾老友？
 [name="鼠王"]  まだ儂を友人と思ってくれておるのかの？　ウェイ・イェンウよ。
@@ -2476,7 +2476,7 @@ But I shall wait for you at that end.                      But I shal
 [name="魏彦吾"]  不可能。我不会答应你任何事。
 [name="ウェイ"]  不可能だ。お前のいかなる要望にも了承しかねる。
 [name="Wei Yenwu"]  I can’t. I won’t promise you anything.
-[name="웨이 옌우"]  무리입니다. 난 그 어떤 요구도 들어줄 수 없어요.
+[name="웨이 옌우"]  무리입니다. 난 아무것도 안 해줄 겁니다.
 
 [name="鼠王"]  那就动手。你今天哪也去不了。
 [name="鼠王"]  では、おっ始めるとしよう。今日この後の予定はすべてキャンセルした方が良いぞ。
@@ -2531,7 +2531,7 @@ Ah, you’ve really outdone yourself. You should give yourself a pat on the back
 流泪嘛，也是因为连他都死了。啊，唉，可怜的爱国者！
 泣けるポイントは……はぁ、アイツまで死んじゃったら……ああ、哀れなパトリオット！
 Why do we cry? Because even he is dead. Ahh, alas, poor Patriot!
-눈물을 흘린다면, 역시가 그가 죽었기 때문이겠지. 아, 가엾은 패트리어트!
+눈물을 흘린다면, 그건 아마 그가 죽었기 때문이겠지. 아, 가엾은 패트리어트!
 
 他死的时候是在想什么，又是什么样子呢？是躺着，还是站着？就连他都死了，还有谁会不死呢？
 死に際どんな姿で何を考えていたのかしら？　立ったままで死んだとか、ありそうな話じゃない？　でもアイツが死んじゃうんだったら、死なないヤツなんてもうこの大地にはいないでしょ。
@@ -2581,7 +2581,7 @@ I just can’t.
 而且，死亡对他来说，也算是种解脱吧？
 それにアイツにとって、死はある種の解放でしょ？
 Besides, death was... kind of a release for him, right?
-게다가, 그에게 있어 죽음은 해방과도 같잖아?
+게다가, 그 사람한테 죽음은 해방이나 다름 없잖아?
 
 对你来说却不是，W。死亡是你生命的游戏。
 確かに、あんたにとっては違うわよね、W。死はあんたにとって、命のゲーム。
@@ -2606,7 +2606,7 @@ The closer you get to death... the closer you also get to madness.
 [name="W"]  没有你我还不知道怎么从那一大坨垃圾里爬出来呢。
 [name="W"]  あんたがいなきゃ、あのゴミ山から這い上がって来るのに難儀していたところよ。
 [name="W"]  I dunno how I would’ve gotten out of that trash heap without you.
-[name="W"]  네가 아니었으면, 난 저 쓰레기 더미에서 어떻게 빠져나와야 할지 몰랐을 거야.
+[name="W"]  네가 아니었으면, 난 저 쓰레기더미에서 어떻게 빠져나와야 할지 몰랐을 거야.
 
 [name="W"]  还有，塔露拉......
 [name="W"]  そして、タルラ……

@@ -1,180 +1,300 @@
 [name="罗德岛干员"]  牧群的强度非常高。
 [name="ロドスオペレーター"]  特殊感染者たちは高度に強化されています。
+[name="Rhodes Island Operator"]  This herd is incredibly tough.
+[name="로도스 아일랜드 오퍼레이터"]  무리들의 힘이 상당히 강해졌군요.
 
 [name="罗德岛干员"]  萨卡兹的变异感染者拥有比普通牧群宿主更强大的恢复能力，他们的智力也更高。
 [name="ロドスオペレーター"]  サルカズの特殊感染者は、通常のものより回復力や知力が高い傾向にあります。
+[name="Rhodes Island Operator"]  Not only do these mutated Sarkaz Infected have much better healing capabilities than normal possessed Infected, they are much more intelligent, too.
+[name="로도스 아일랜드 오퍼레이터"]  살카즈 변이 감염자는 일반 무리의 숙주보다 더 강한 회복 능력을 지니고 있고, 지능도 더 높습니다.
 
 [name="罗德岛干员"]  但我们没有任何和他们交流的办法，他们好像......很怪，他们像是活在另一个地方。
 [name="ロドスオペレーター"]  しかし、我々には彼らとコミュニケーションを交わす方法がない。彼らは、なんというか……とても奇妙だ。まるで別の世界に生きているようです。
+[name="Rhodes Island Operator"]  But that still doesn't give us a way to actually talk to them. They all seem so... strange. Like they're all in some place else.
+[name="로도스 아일랜드 오퍼레이터"]  하지만 우리에게는 저들과 교류할 수 있는 방법이 없습니다. 저 녀석들은 마치…… 너무 이상해요. 다른 곳에 살고 있는 느낌입니다.
 
 [name="罗德岛干员"]  另外，这种变异迟早会出事。结晶增长率太高了。
 [name="ロドスオペレーター"]  それと、この変異現象は遅かれ早かれ重篤な事態を引き起こすはずです。結晶の成長速度が速すぎる……
+[name="Rhodes Island Operator"]  Not only that, this type of mutation is an accident waiting to happen. The crystals form way too fast.
+[name="로도스 아일랜드 오퍼레이터"]  게다가, 이런 변이는 조만간 문제가 생길 수 있습니다. 결정 증가율이 너무 높아요.
 
 [name="凯尔希"]  空气中结晶粉尘的密度在这里达到了最大。
 [name="ケルシー"]  空気中の結晶粉末濃度も既に最大まで達している。
+[name="Kal'tsit"]  The concentration of crystal dust in the air is the highest right here.
+[name="켈시"]  공기 중 결정 분진 밀도도 여기에서는 최대로 나오는군.
 
 [name="凯尔希"]  也就是说，也许牧群的操控者已经占据了切尔诺伯格核心城的石棺。
 [name="ケルシー"]  つまり、特殊感染者を操っている者は、すでにチェルノボーグ中枢区画の石棺を占拠した可能性が高いということだ。
+[name="Kal'tsit"]  That probably means that whoever is controlling the Herd here has most likely taken over the sarcophagus of the Chernobog core city already.
+[name="켈시"]  가축 떼들의 조종자가 체르노보그 코어의 석관을 이미 점령했을지도 모른다는 이야기지.
 
 [name="凯尔希"]  在我们看不见的地方，一切都在发生。
 [name="ケルシー"]  私たちの見えないところで、何かが起こっている。
+[name="Kal'tsit"]  Things are always happening in places we don't have our eyes on.
+[name="켈시"]  모든 일들은 이미 계속 벌어지고 있었던 거야. 우리가 볼 수 없는 곳에서.
 
 [name="罗德岛干员"]  我没办法想象我们后边会遇到什么了。
 [name="ロドスオペレーター"]  正直、これから何に出くわすか想像もつきません。
+[name="Rhodes Island Operator"]  I really can't even begin to imagine what we'll be facing from here on out.
+[name="로도스 아일랜드 오퍼레이터"]  앞으로 또 무엇과 마주하게 될지…… 이젠 감도 안 잡히는군요.
 
 [name="罗德岛干员"]  ......被骂也没关系，医生，我还是要说，这事太难了。
 [name="ロドスオペレーター"]  怒られるのを覚悟で言わせてもらいますが……ケルシー先生、これはあまりにも無謀すぎます。
+[name="Rhodes Island Operator"]  ...I don't mind getting an earful for this, Doctor, but I have to say this. This is way too difficult.
+[name="로도스 아일랜드 오퍼레이터"]  켈시 선생님…… 욕하셔도 상관없습니다만, 그래도 한 마디 해야겠습니다. 이건 너무 무모합니다.
 
 [name="罗德岛干员"]  我们可能在自杀。最关键的是，我真不觉得我们有本事救下这个城市和龙门什么的。
 [name="ロドスオペレーター"]  今やっていることは自殺行為に等しい。何より、このやり方で我々がこの都市と龍門を救えるとは思えません。
+[name="Rhodes Island Operator"]  What we are doing might just be suicide. And, most importantly, I really don't think we have what it takes to save this city and Lungmen.
+[name="로도스 아일랜드 오퍼레이터"]  이건 자살행위일지도 모릅니다. 무엇보다도 이 도시와 용문을 구할 능력이 우리에겐 없다고 생각합니다.
 
 [Decision(options="你这不是自降士气吗？;......;但我们有事要做。", values="1;2;3")]
 [Decision(options="自ら士気を落としてどうする？;……;だが、我々には使命がある。", values="1;2;3")]
+[Decision(options="Let's not demoralize ourselves.;......;There are still things we need to do.", values="1;2;3")]
+[Decision(options="우리 스스로 사기를 떨어뜨리면 안 되지 않나?;……;하지만 우리에겐 해야 할 일이 있어.", values="1;2;3")]
 
 [name="凯尔希"]  查德，我记得你有家室。
 [name="ケルシー"]  チャード、君には確か家族がいたな。
+[name="Kal'tsit"]  Chard, if memory serves, you have a family, don't you?
+[name="켈시"]  차드, 가정이 있던 걸로 기억하는데.
 
 [name="查德"]  医生你还记得挺牢，但你记错了，老婆女儿都不要我了。我没有家。
 [name="チャード"]  覚えてくれてたんですね、先生……でも、その情報は古いですよ。妻も娘も私を捨てました。なので家族はもういません。
+[name="Chard"]  I'm surprised you remember, Doctor. You got one detail wrong, though. My wife and my daughter don't care about me anymore, so I don't really have one.
+[name="차드"]  기억하고 계셨군요. 그렇지만 틀렸습니다, 와이프랑 딸이 제가 싫다더군요. 그래서 지금은 가정이 없습니다.
 
 [name="凯尔希"]  查德，你想过和她们再见面，和她们再一起生活下去吗？
 [name="ケルシー"]  チャード。二人と再会して、もう一度やり直したいと考えたことはあるか？
+[name="Kal'tsit"]  Chard, have you ever thought about seeing them, and start living with them once again?
+[name="켈시"]  차드, 아내와 딸을 다시 만나서 함께 살고 싶다는 생각 해본 적 없나?
 
 [name="查德"]  做梦倒是有做过。
 [name="チャード"]  夢でなら。
+[name="Chard"]  I dreamed about it.
+[name="차드"]  꿈속에서라면 있습니다만.
 
 [name="凯尔希"]  把梦实现的第一步，就是让我们有做梦的机会。
 [name="ケルシー"]  夢を実現させる第一歩が、夢を見る機会を得ることだ。
+[name="Kal'tsit"]  The first step to turning your dreams into reality is to give yourself the chance to dream.
+[name="켈시"]  꿈을 현실로 이루는 첫걸음은, 우리에게 꿈꿀 기회를 주는 거다.
 
 [name="凯尔希"]  我们停下切尔诺伯格，感染者就不会因此过得更坏。
 [name="ケルシー"]  チェルノボーグを止めることができれば、少なくとも感染者がこれ以上苦しむことはなくなる。
+[name="Kal'tsit"]  Stopping Chernobog isn't going to make life any harder for the Infected.
+[name="켈시"]  우리가 체르노보그를 멈추면, 감염자들이 그로 인해 더 힘들어지지는 않겠지.
 
 [name="凯尔希"]  给你的女儿一个机会，查德。让她有机会再见见她的父亲。
 [name="ケルシー"]  いいか？　君の娘にチャンスを与えるんだ、チャード。父親にもう一度会えるチャンスを。
+[name="Kal'tsit"]  Give your daughter a chance, Chard. Give her the chance to see her father again.
+[name="켈시"]  딸에게 기회를 줘, 차드. 아버지를 다시 만날 수 있는 기회를 말이야.
 
 [name="查德"]  ......
 [name="チャード"]  ……
+[name="Chard"]  ......
+[name="차드"]  ……
 
 [name="查德"]  都听你的，医生。
 [name="チャード"]  先生がそう仰るのなら。
+[name="Chard"]  I'll do as you say, Doctor.
+[name="차드"]  선생님 말씀대로 하겠습니다.
 
 [Decision(options="你只是在哄骗他。", values="1")]
 [Decision(options="彼を口車に乗せたのか。", values="1")]
+[Decision(options="You're just taking him for a ride.", values="1")]
+[Decision(options="저 사람을 기만하는 것 아닌가.", values="1")]
 
 [name="凯尔希"]  我说的可能是假话，我不觉得这片大地会轻易变好，感染者们重回他们曾经生活的概率微乎其微。
 [name="ケルシー"]  確かに嘘になる可能性はある。この大地がそうやすやすと改善するとは思えないし、感染者たちが過去の暮らしに戻れる確率などゼロに等しい。
+[name="Kal'tsit"]  What I said may have been a lie. I don't think the world is going to become a better place overnight, and there's basically no way the Infected will get to go back to their previous lives.
+[name="켈시"]  거짓말이 될지도 모르겠지만, 이 세상이 쉽게 좋아질 거라고 생각하지 않아. 감염자들이 원래의 삶으로 돌아갈 확률은 극히 희박해.
 
 [name="凯尔希"]  但是我说的也可能是真话。
 [name="ケルシー"]  だが、実現する可能性も同じように残されている。
+[name="Kal'tsit"]  But what I said could also be the truth.
+[name="켈시"]  하지만 진실이 될 수도 있어.
 
 [name="凯尔希"]  假设我们现在离开了，他就不会再有机会见到他的女儿，无论他的家人和他本人会不会在接下来的其他什么事故里丧生。
 [name="ケルシー"]  もし私たちが今ここを離れれば、彼は二度と娘には会えなくなる。たとえ彼や彼の家族が運よく生き延びたとしてもだ。
+[name="Kal'tsit"]  Suppose we leave this place right now. He will never have the chance to see his daughter again, regardless of whether his family or he himself die of other causes in the events that will transpire.
+[name="켈시"]  우리가 지금 떠난다면 차드는 다시는 딸을 만날 수 없겠지. 그와 그의 가족이 앞으로 닥칠 불의의 사고로 목숨을 잃든 아니든 말이야.
 
 [name="凯尔希"]  假使我们无力解决我们现下遭遇的事件，更宽泛的学术研究就只会停留在理论层面。
 [name="ケルシー"]  今現在直面している事件を解決する力が我々にないと仮定してしまえば、更に広範な学術研究は単なる理論で終わってしまう。
+[name="Kal'tsit"]  And suppose we aren't able to solve the problem we are facing right now. Most broader academic research will forever remain theories and nothing more.
+[name="켈시"]  우리가 직면한 사건조차 해결하지 못한다면, 아무리 광범위한 학술 연구가 진행된다 해도 이론에 그치고 말겠지.
 
 [name="凯尔希"]  实施者成功的实践为我们提供了继续实践的资格。
 [name="ケルシー"]  実践者の成功経験こそが、我々に実践を続ける資格をもたらす。
+[name="Kal'tsit"]  The successes of those who put in the work is what gives us the right to continue.
+[name="켈시"]  실천하는 사람들이 실천에 성공한 덕분에, 우리는 계속 실천할 수 있는 자격을 얻게 됐지.
 
 [name="凯尔希"]  再多的感染者制度改革家，只需一次失败，这种资格将永久性地失效，我们也不会再有取回它的机会。
 [name="ケルシー"]  感染者制度の改革を謳う者がいくら出揃ったところで、たった一度の失敗が露見すればその資格は永久に剥奪され、取り戻す機会さえ与えられない。
+[name="Kal'tsit"]  There are countless people trying to revolutionize the system for the Infected, but all it takes is one failure, and not only will they forever lose the right to try that, we will never again have that opportunity again.
+[name="켈시"]  감염자 제도를 개혁하려는 자들이 아무리 많아진다 한들, 단 한 번이라도 실패하게 된다면 그 자격은 영원히 박탈당해 되찾을 수도 없게 될 거야.
 
 [name="凯尔希"]  如果需要一个恰当的喻体，我会使用“生命”这个概念。
 [name="ケルシー"]  それを何かに例えるなら、「命」という概念がふさわしいだろう。
+[name="Kal'tsit"]  If you need a more suitable metaphor, consider the concept, "life".
+[name="켈시"]  적절한 비유 대상이 필요하다면, '생명'이라는 개념을 사용하는 게 좋겠지.
 
 [name="凯尔希"]  ......每一次重大行动的成功都如同我们生命的延续，而失败则意味着死亡。
 [name="ケルシー"]  ……我々は、重大な任務を遂行することで生き延びてきた。そして失敗は、死を意味する。
+[name="Kal'tsit"]  ...Each time a major operation ends in success, we live to see another day. On the other hand, failure means death.
+[name="켈시"]  ……우린 중요한 임무에 성공할 때마다 생명이 늘어났어. 그런데 비해, 실패는 곧 죽음을 의미하지.
 
 [name="凯尔希"]  科学里没有起死回生这个概念。
 [name="ケルシー"]  科学に復活という概念はない。
+[name="Kal'tsit"]  There is no such thing as coming back from the dead in science.
+[name="켈시"]  과학에는 기사회생이라는 개념이 존재하지 않아.
 
 [name="凯尔希"]  我们只有一次机会去挽救自己的生命。我们会遭遇许多灾厄，每一次意外都会毁了自身，对于我们个人如此，对于罗德岛也如此。
 [name="ケルシー"]  己の命を救う機会は、いつだって一度きりだ。我々は数多くの災難に遭遇するだろうし、その度に破滅の危機に直面することになる。それは個人に限った話でなく、組織――ロドスにとってもそうだ。
+[name="Kal'tsit"]  We only have one chance to save our lives. We will come to face many disasters, and it will be the end of us each time an accident happens. That's both ourselves individually or Rhodes Island as a whole.
+[name="켈시"]  자신의 목숨을 구할 기회는 단 한 번뿐이야. 우린 많은 위기에 직면하게 될 거야, 뜻밖의 상황에서 자신이 다치게 되겠지. 우리뿐만 아니라 로도스 아일랜드에게도 마찬가지야.
 
 [name="凯尔希"]  像切尔诺伯格事件这样的灾难，我们还会遇到许多次。但只要我们有一次没能解决这个问题，我们就会死。
 [name="ケルシー"]  チェルノボーグのような災難も、今後は少なくないだろう。そして一度でも対処に失敗すれば、私たちは間違いなく死ぬ。
+[name="Kal'tsit"]  Disasters like Chernobog are bound to happen again and again. If we fail to solve a problem like that even once, we will die.
+[name="켈시"]  앞으로도 체르노보그 사태와 같은 재앙과 여러 번 마주하게 될 거야. 이런 문제를 해결할 수 없게 될 때, 우리는 죽게 되겠지.
 
 [name="凯尔希"]  一方面，我们要在疾病追上我们大多数人前，阻止疾病；另一方面，我们要在风暴里拯救自己。
 [name="ケルシー"]  疫病が大地に蔓延する前に我々はそれを阻止しなくてはならない。それと同時に、災禍の最前線で自分自身を守らなければならない。
+[name="Kal'tsit"]  On one hand, we have to stop the disease before it catches up and overwhelms all of us. On the other hand, we need to save ourselves from within this storm.
+[name="켈시"]  병이 퍼지기 전에 막으면서, 수많은 위기 속에서 자신을 구해야 해.
 
 [name="凯尔希"]  我不会过分标榜罗德岛的作用。只是，现在，这里，只有我们能处理这个问题。
 [name="ケルシー"]  ロドスの存在意義を必要以上に謳うつもりはない。しかし今、この場所で問題を解決できるのは、私たち以外にいない。
+[name="Kal'tsit"]  I'm not singing Rhodes Island's praises. Not too much, at least. It's just, right here, right now, this is a problem that only we can handle.
+[name="켈시"]  로도스 아일랜드의 역할을 강조할 생각 따윈 없어. 하지만 지금, 여기에서 이 문제를 해결할 수 있는 사람은 우리뿐이야.
 
 [name="凯尔希"]  绝大多数人都只有一次生命。一旦失去了，就是永远的失去。
 [name="ケルシー"]  人の命は大抵一つ限りだ。一度失えば、永遠に戻ることはない。
+[name="Kal'tsit"]  Most of us only get to live once. Once our lives are lost, it's gone forever.
+[name="켈시"]  대부분의 사람에게 목숨은 단 하나뿐이지. 한 번 잃으면 영원히 잃게 돼.
 
 [Decision(options="还有人有许多次生命？", values="1")]
 [Decision(options="一つ以上の命を持っている者もいると？", values="1")]
+[Decision(options="You mean there are people who gets to live several lives?", values="1")]
+[Decision(options="목숨이 여러 개인 사람도 있나?", values="1")]
 
 [name="凯尔希"]  啊，我不是这个意思。我的意思是，有的人甚至从来没拥有过自己的生命。
 [name="ケルシー"]  ああ、いや……そういう意味ではない。私が言いたいのは、一度も己の命を手にしたことがない者もいるということだ。
+[name="Kal'tsit"]  Uh, that's not really what I'm trying to say. What I mean is that there are people who haven't ever treasured their own lives.
+[name="켈시"]  그런 뜻이 아니라, 처음부터 자신의 생명을 가져보지 못한 사람도 있다는 말이다.
 
 [name="凯尔希"]  很多人从出生开始就没有沾染过正常的事物，扭曲的土地只有扭曲的收成。
 [name="ケルシー"]  生まれた時から正常な物事に触れることが許されない者も多い。その結果は目に見て明らかだ……異常な土地で収穫できるのは、異常な作物しかない。
+[name="Kal'tsit"]  There are a lot of people who have never been around anything normal ever since they were born. Twisted places will only bear twisted fruits.
+[name="켈시"]  태어날 때부터 정상적인 것을 갖지 못한 사람이 수두룩해. 왜곡된 땅에는 왜곡된 수확만 존재할 뿐이니까.
 
 [name="凯尔希"]  恶意汇聚在切尔诺伯格，正是因为有的恶意从未被遏止。
 [name="ケルシー"]  そして、これまでに一度も阻まれることなく膨れ上がった悪意が、このチェルノボーグに集まった。
+[name="Kal'tsit"]  The reason there is so much malice in Chernobog is precisely because there has always been malice not kept in check there.
+[name="켈시"]  악의적인 생각들이 체르노보그에 모여든 건, 누구도 막지 못한 어떤 악의 때문이야.
 
 [name="凯尔希"]  恶意，事实上，恶意的链条不会自行消失。
 [name="ケルシー"]  悪意……実際問題、悪意の連鎖が自然消滅することはない。
+[name="Kal'tsit"]  Malice, or more precisely, all those chains of malice aren't going to disappear on their own.
+[name="켈시"]  악의적인 생각의 사슬은 저절로 사라지지 않아.
 
 [name="凯尔希"]  一次破坏，一次谋杀，起因可能只是出自一丝渴望，在法律触及不到的土地上，野蛮自我生长，形成了独有的规律。
 [name="ケルシー"]  破壊や殺戮の発端は、どれもが一縷の望みだったのかもしれない。法律の手が届かない大地では、蛮行が蔓延し、次第に独自のルールを形成する。
+[name="Kal'tsit"]  Each destruction, each killing might only have been caused by a modicum of desire. In a lawless land, barbarism is simply left to breed rampantly on its own, and that is how it becomes the law of the land.
+[name="켈시"]  파괴와 죽음, 그 원인은 작은 갈망에서 비롯된 걸지도 몰라. 법률이 닿지 않는 토양에서 마구 자라며 저만의 법칙을 만들어내는 거지.
 
 [name="凯尔希"]  而这种规律比城邦的法律强上万分，因为它无法被毁灭。
 [name="ケルシー"]  そしてそのルールは国家の法律などより何万倍も強い効力を持つ。なぜなら、それらを壊すことは不可能だからだ。
+[name="Kal'tsit"]  And this kind of law is much stronger than the law you'd find in the cities. It's simply indestructible.
+[name="켈시"]  그 법칙이라는 건 국가의 법보다도 강해. 왜냐면 그건 파괴될 수 없거든.
 
 [name="凯尔希"]  它就是暴力。我们血管中流淌的暴力，来自我们的生命中未遭文明驯化的部分。
 [name="ケルシー"]  それが「暴力」だ。私たちの血に流れている暴力は、生命において未だ文明に飼い馴らされていない、野性に根差した本能の一部だ。
+[name="Kal'tsit"]  That's violence. The violence that flows in our blood veins comes from the parts of us left untamed by civilization.
+[name="켈시"]  그게 바로 폭력이야. 우리의 혈관에 흐르는 폭력은, 길들여지지 않은 우리의 본능에서 비롯되지.
 
 [name="凯尔希"]  听。
 [name="ケルシー"]  待て。
+[name="Kal'tsit"]  Listen.
+[name="켈시"]  잠깐.
 
 [name="凯尔希"]  你听见那......
 [name="ケルシー"]  聞こえたか？　今のは……
+[name="Kal'tsit"]  Did you hear that...?
+[name="켈시"]  방금 들었나? 저 소리는……
 
 [name="凯尔希"]  ......歌声......？
 [name="ケルシー"]  ……歌声？
+[name="Kal'tsit"]  ...Singing...?
+[name="켈시"]  ……노랫소리……?
 
 [name="凯尔希"]  奇怪，我理应不会被源石技艺带来的任何错觉干扰。
 [name="ケルシー"]  おかしい。私の五感はアーツによるかく乱の影響を受けないはず。
+[name="Kal'tsit"]  How peculiar. Originium Arts don't usually interfere with my senses at all.
+[name="켈시"]  이상하군. 오리지늄 아츠가 만들어내는 착각이 내게는 영향을 줄 수 없을 텐데.
 
 [name="凯尔希"]  干员们，加装防护设备！
 [name="ケルシー"]  オペレーター各位、防衛装備を装着せよ！
+[name="Kal'tsit"]  All operators, put on your protective equipment!
+[name="켈시"]  오퍼레이터, 보호 설비를 더 설치해라!
 
 [name="凯尔希"]  Dr.{@nickname} ,可能有一些不好的事情正在发生。
 [name="ケルシー"]  Dr.{@nickname} 、何かよからぬことが起きているかもしれない。
+[name="Kal'tsit"]  Dr. {@nickname}, something terrible might be happening.
+[name="켈시"]  {@nickname} 박사, 뭔가 안 좋은 일이 벌어지고 있는 것 같다.
 
 [name="凯尔希"]  虽然我们已经能从一路上的乱象得出同样的结论，但我们要面对的事情可能会比我们预想的更糟。
 [name="ケルシー"]  ここへたどり着くまでに見てきた状況からも同じことが言えるが、今から直面する事態は思った以上に厄介かもしれない。
+[name="Kal'tsit"]  Based on the chaos we've seen along the way, we probably would've reached this conclusion all the same, but I'm afraid what we are about to face might be far worse than what we could ever have imagined.
+[name="켈시"]  우리는 혼란의 길을 걸으며 똑같은 결론을 내렸지만, 어쩌면 우리가 예상한 것보다 더 심각한 상황을 마주해야 할지 몰라.
 
 [Decision(options="一直如此。", values="1")]
 [Decision(options="今までもそうだったろう。", values="1")]
+[Decision(options="Has it ever gone any other way?", values="1")]
+[Decision(options="항상 그래왔지.", values="1")]
 
 [name="凯尔希"]  也不至于理所当然。
 [name="ケルシー"]  本来、それを当然のものと考えるべきでもないのだがな。
+[name="Kal'tsit"]  I wouldn't say it's always a foregone conclusion.
+[name="켈시"]  그게 당연한 건 아니지만.
 
 [name="凯尔希"]  也许我们和这座城市都被诅咒了。但只要是诅咒，就能被解开。
 [name="ケルシー"]  これは、私たちとこの都市にかかった呪いなのかもしれないな。だが呪いであるならば、解く方法は必ずあるはずだ。
+[name="Kal'tsit"]  Perhaps someone has placed a curse on either us or this city. That being said, curses can be broken.
+[name="켈시"]  어쩌면 우리와 이 도시는 모두 저주받은 걸지도 몰라. 하지만 단순히 저주일 뿐이라면, 풀 수도 있겠지.
 
 [name="凯尔希"]  种下恶的种子就会开出恶的花朵，结下恶的苦果。如果我们用善意浇灌一片土地，那这片土地，哪怕不会好到哪里去......不管怎样，也不会沦落至斯，被这种惨状所淹没。
 [name="ケルシー"]  悪の種を撒けば悪の花が咲き、悪の実がなる。しかし私たちが善意の水を撒けば、たとえ美しく実らなくとも、このような窮地に追い込まれ、惨状に見舞われることはないだろう。
+[name="Kal'tsit"]  If you plant the seeds of evil, the flowers of evil will blossom, bearing fruits of evil. If we water the earth with goodwill, then even if this parcel of land doesn't get any better... at least it wouldn't meet such a dreadful fate and be buried by a tragedy like this.
+[name="켈시"]  악의 씨앗을 심으면 악의 꽃이 피고 악의 열매가 맺힐 거야. 우리가 그 땅에 선의라는 물을 뿌리면 나아지지는 않아도…… 이렇게 비참하게 추락하는 상황은 피했을지도 몰라.
 
 [name="凯尔希"]  可惜......
 [name="ケルシー"]  ただ、残念なことに……
+[name="Kal'tsit"]  It's a shame...
+[name="켈시"]  안타깝게도……
 
 [name="凯尔希"]  ......
 [name="ケルシー"]  ……
+[name="Kal'tsit"]  ......
+[name="켈시"]  ……
 
 你顺着凯尔希的视线望去。
 あなたはケルシーの視線の先へと目を向けた。
+You look in the same direction as Kal'tsit.
+당신은 켈시의 시선이 향하는 곳을 바라보았다.
 
 [name="？？？"]  ......
 [name="？？？"]  ……
+[name="??? "]  ......
+[name="???"]  ……
 
 [name="凯尔希"]  可惜，据我所知，邪恶往往会诞生更大的恶，而善良的人大多没能善终。
 [name="ケルシー"]  残念なことに、私の知る限りでは、邪念は更なる悪を生み落とし、善良な者は大抵ろくな最期を迎えられていない。だが――
+[name="Kal'tsit"]  It's a shame that, as far as I know, evil is a vicious cycle that will only breed even worse malice, and fate is rarely kind to those who are kind at heart.
+[name="켈시"]  안타깝게도, 악은 더 큰 악을 잉태할 뿐이지. 착한 사람들은 대부분 좋지 않은 결말을 맞이하고.
 
 [name="凯尔希"]  我不能让你再去推动另一场噩梦，感染者。
 [name="ケルシー"]  感染者よ、さらなる悪夢を広めることなど、私は決して許さない。
+[name="Kal'tsit"]  I can't allow you to bring about yet another nightmare, Infected.
+[name="켈시"]  또 다른 악몽과 감염자가 퍼지도록 난 가만히 놔둘 수 없어.
 

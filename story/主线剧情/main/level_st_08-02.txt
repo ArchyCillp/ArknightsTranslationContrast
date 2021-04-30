@@ -1,450 +1,750 @@
 中央区
 中央エリア
+Central District
+중앙 구역
 
 一段时间之前
 少し前
+A short while before
+얼마 전
 
 [Decision(options="为什么你认定阿米娅她们在指挥塔前......", values="1")]
 [Decision(options="なぜアーミヤたちが司令塔にたどり着く前に――", values="1")]
+[Decision(options="How are you certain Amiya's group will reach the command tower...", values="1")]
+[Decision(options="아미야 일행이 사령탑 앞에 있을 거라고 확신하는 근거가 뭐지?", values="1")]
 
 [Decision(options="不会遭遇塔露拉的精锐部队？", values="1")]
 [Decision(options="タルラの精鋭部隊に遭遇しないと言い切れる？", values="1")]
+[Decision(options="...without crossing one of Talulah's elite squads?", values="1")]
+[Decision(options="탈룰라의 정예 부대와 마주치지 않을까?", values="1")]
 
 [name="凯尔希"] 这正是阴谋家的难处。
 [name="ケルシー"] そこがまさに陰謀家の習性が顕れる部分だ。
+[name="Kal'tsit"] This is the problem with conspirators.
+[name="켈시"] 이게 바로 음모술수를 부리는 자들의 고충이지.
 
 [name="凯尔希"] 一个军阀，或者一个暴虐且狡诈的君王，他们的要塞向来易守难攻。
 [name="ケルシー"] 軍閥であれ、狡猾な暴君であれ、彼らの居城は決まって難攻不落であるものだ。
+[name="Kal'tsit"] Take a warlord, or a tyrant of a devious king. Their strongholds are always easy to defend, hard to attack.
+[name="켈시"] 군벌 또는 포악하고 교활한 군왕으로서 놈들의 요새는 그야말로 난공불락이었다.
 
 [name="凯尔希"] 他们知道自己的所作所为一定会遭到疯狂的报复，他们会用优势的兵力和先进的武器，布置坚实的防守。
 [name="ケルシー"] 彼らは常に、自らの悪行に対する復讐を念頭に置いている。だから自らの居城には、屈強な兵士や最新鋭の兵器を配備し、鉄壁の防衛線を敷く。
+[name="Kal'tsit"] They know their own deeds will invite furious retribution without fail. They'll use superior strength and advanced armaments to deploy unyielding defense.
+[name="켈시"] 자신들의 행동이 핏빛 복수를 일으킬 거라는 걸 그들도 잘 알고 있다. 그래서 막강한 병력과 최첨단 무기를 앞세워 견고한 방어선을 세우려 하겠지.
 
 [name="凯尔希"] 可是，既然塔露拉的暴君行径已经被证实是种表演，那么，她不会这么做。
 [name="ケルシー"] だが、タルラの暴君のような振る舞いは、単なる演技にすぎない。だから、彼女はそのようなことはしない。
+[name="Kal'tsit"] Yet, seeing as Talulah's despotic behavior is confirmed to be some kind of act, she would not do things this way.
+[name="켈시"] 하지만 탈룰라의 행동이 관객을 의식한 쇼였다는 게 밝혀진 이상, 상황은 달라질 거다.
 
 [Decision(options="你哪来的自信？;......;我想听听理由。", values="1;2;3")]
 [Decision(options="その自信はどこから？;……;理由を聞かせてもらおう。", values="1;2;3")]
+[Decision(options="What makes you so confident?;......;I wanna hear your reasoning.", values="1;2;3")]
+[Decision(options="대체 어디서 오는 자신감이지?;……;이유를 듣고 싶군.", values="1;2;3")]
 
 [name="凯尔希"] 经验，理论，现象。
 [name="ケルシー"] これは経験、理論、そして現象に基づくものだ。
+[name="Kal'tsit"] Experience, theory, phenomena.
+[name="켈시"] 경험, 이론, 그리고 현재 상황.
 
 [name="凯尔希"] 我没有自信，我只是能推演出事实。
 [name="ケルシー"] だが、自信があるわけではない。推測により確度の高い結論を導き出しているだけだ。
+[name="Kal'tsit"] I have no confidence. I can only derive the facts.
+[name="켈시"] 자신감 같은 건 없다, 사실을 추론할 뿐이지.
 
 [name="凯尔希"] ......我其实也期待你能给出自己的意见。
 [name="ケルシー"] ……君自身の意見も聞けると期待していたのだがな。
+[name="Kal'tsit"] ...Truthfully, I'm hoping to see you ever offer your own opinion.
+[name="켈시"] ……솔직히 말해서 네 의견을 듣고 싶다.
 
 [name="凯尔希"] 或者，你觉得沉默就已经是种意见了？
 [name="ケルシー"] それとも、沈黙が君の答えなのかな？
+[name="Kal'tsit"] Or maybe you're already content with silence as a brand of opinion?
+[name="켈시"] 아니면 침묵도 하나의 의견이라고 생각하는 건가?
 
 [name="凯尔希"] 那谢谢你的理解。
 [name="ケルシー"] それならば、君の理解に感謝する。
+[name="Kal'tsit"] Then I thank you for your understanding.
+[name="켈시"] 이해해 줘서 고맙군.
 
 [name="凯尔希"] 如果我的想法能够赢得你的认同......
 [name="ケルシー"] もし私の考えが君の賛同を得られたならば……
+[name="Kal'tsit"] If my thought process was one that won your approval...
+[name="켈시"] 내 생각에 동의해 준다면……
 
 [name="凯尔希"] 你会不会觉得，我会因此而感到欣喜？
 [name="ケルシー"] 私が喜びを感じるとでも思っているのか？
+[name="Kal'tsit"] Did you think that I would thus feel some kind of happy?
+[name="켈시"] 내가 기뻐할 거라고 생각한 건가?
 
 [name="凯尔希"] 尊重是双向的。如果你重视我的观点，并且得出有益的结论，那么我也会将你的观点纳入考量。
 [name="ケルシー"] 尊重は双方向のものだ。もし君が私の観点を尊重し、それが有益であるという結論を出したのなら、私も君の観点を尊重し考慮する。ただそれだけだ。
+[name="Kal'tsit"] Respect is a two-way street. If you value my point of view, and arrive at any useful conclusions, then I in turn will give your point of view serious consideration.
+[name="켈시"] 존중은 일방통행이 아니다. 내 관점을 존중하고 유익한 결론을 내려준다면, 나도 네 관점을 고려해 보지.
 
 [name="凯尔希"] 塔露拉在维护自己的形象。她需要让普通的感染者尊重她，让萨卡兹雇佣兵服从她，让游击队信任她，让狂热者崇拜她......
 [name="ケルシー"] タルラは自分のイメージを大事にしている。一般の感染者の尊敬、サルカズ傭兵の服従、遊撃隊の信頼、熱狂的な信者からの崇拝……それら全てを一身に集める必要があるからな。
+[name="Kal'tsit"] Talulah is maintaining her own image. She needs to have the normal Infected respect her, have the Sarkaz mercenaries obey her, have the guerrillas trust her, have the zealots worship her...
+[name="켈시"] 탈룰라는 이미지를 관리하는 중이다. 평범한 감염자들이 자신을 존중해 주고, 살카즈 용병들이 자신에게 복종하기를 바라지. 또 유격대가 자신을 신뢰하고, 광신도들이 자신을 숭배하기를……
 
 [name="凯尔希"] 她就必须让自己和他们之间的距离清晰可见，让这些人能够相互审视。
 [name="ケルシー"] 彼女は、自分と彼らとの距離を明確にし、これらの人々を互いに監視させなければならない。
+[name="Kal'tsit"] She needs to have the distance between her and them clearly visible, and have these people able to examine each other.
+[name="켈시"] 탈룰라는 그들과 분명한 거리를 유지해야 해, 서로를 살필 수 있을 만큼 충분한 거리를……
 
 [name="凯尔希"] 根据整合运动的一系列表现，我们可以很清楚地知道，整合运动的其他领袖对塔露拉的行为并没有太多认识。
 [name="ケルシー"] レユニオンの一連の状況から、はっきりと言えることが一つある。それはレユニオンの他のリーダーは、タルラの行動について多くを把握していないということだ。
+[name="Kal'tsit"] According to a series of behavior exhibited by Reunion so far, we can very clearly realize that Reunion's other leaders do not particularly recognize Talulah's conduct at all.
+[name="켈시"] 리유니온의 행동을 보면 탈룰라에 대해 리유니온의 다른 지휘관들도 잘 모른다는 걸 확실히 알 수 있지.
 
 [name="凯尔希"] 即使是已经窥见她阴谋的爱国者，也没有能力在急剧变化中力挽狂澜。假使他能杀了塔露拉，也一样改变不了整合运动倾颓的趋势。
 [name="ケルシー"] 彼女の陰謀に気付いたパトリオットでさえも、急激な変化の荒波に抗うすべはなかった。もし彼がタルラを殺せたとしても、滅亡に向かうレユニオンを止めることはできなかっただろう。
+[name="Kal'tsit"] Even Patriot, seeing through to her scheme, had no power to reverse the tide in the middle of its change. If he could have killed Talulah, all the same, he still would have been unable to alter Reunion tending towards collapse.
+[name="켈시"] 탈룰라의 음모를 꿰뚫어 본 패트리어트도 급변하는 상황에서 흐름을 되돌릴 순 없었다. 그가 탈룰라를 죽였다고 해도 리유니온의 붕괴를 막진 못했겠지.
 
 [name="凯尔希"] 何况，塔露拉在脑海中勾勒这个利用感染者的阴谋......她需要的时间，可能比现在整合运动存在的时间更长。
 [name="ケルシー"] タルラが思い描いた感染者を利用するという緻密な陰謀は……現在までのレユニオンの活動期間よりも長い時間をかけて画策されたものなのかもしれない。
+[name="Kal'tsit"] To say nothing of the plot to exploit the Infected that Talulah has drawn up inside her own head... The time she would need likely far exceed the time Reunion has existed so far.
+[name="켈시"] 감염자를 이용하려던 탈룰라의 음모는 더더욱…… 탈룰라에겐 시간이 필요할 거다, 지금의 리유니온이 존재했던 것보다 더 긴 시간이……
 
 [name="凯尔希"] 我猜想，整合运动迄今为止的所有行动，都是以一个前提去设计的......
 [name="ケルシー"] そして私は、レユニオンのこれまでの活動は全て、ある条件を前提に計画されたものだと考えている。
+[name="Kal'tsit"] I conjecture that all of Reunion's actions up to now have been premised on a plan. Namely...
+[name="켈시"] 지금까지 리유니온의 모든 행동은 하나의 전제로 설계되었을 거라 추측한다……
 
 [name="凯尔希"] “整合运动将在事件结束后毁灭。”
 [name="ケルシー"] 「レユニオンは事態の収拾後に消滅する」という……な。
+[name="Kal'tsit"] "Reunion will perish after all this is over.”
+[name="켈시"] 리유니온은, 일이 끝나면 소멸될 것이라고.
 
 [name="凯尔希"] 塔露拉会将尖锐而隐秘的力量分散在疆土各处，在需要的时候召集他们，让他们在合适的时机出现。
 [name="ケルシー"] タルラは、必要な時に招集可能な精鋭揃いの隠密部隊を各地に配備した上で、絶好のタイミングで出動させるつもりだろう。
+[name="Kal'tsit"] Talulah will scatter keen, hidden forces across every part of her territory. When she needs them, she'll assemble them, and have them make their appearance at the right moment.
+[name="켈시"] 탈룰라는 날카롭고 은밀한 힘을 대륙 곳곳에 분산 시켜 놨다가 필요할 때, 그것도 가장 적절한 순간에 소집할 거다.
 
 [name="凯尔希"] 博士，我想，乌萨斯帝国的第三集团军其实是不会允许任何感染者自由行动的。
 [name="ケルシー"] ドクター、私が思うに、ウルサス帝国の第三師兵団は、実は感染者の自由な行動を許してはいない可能性がある。
+[name="Kal'tsit"] Doctor, I believe the Empire of Ursus's Third Army would not permit any Infected to act freely whatsoever.
+[name="켈시"] 박사, 우르수스 제국의 제3군단이 감염자가 자유롭게 행동하도록 내버려 둘 리 없다고 생각해.
 
 [name="凯尔希"] 只不过，整合运动现在的所有作为，都在他们的容忍范围之内。这种表面上的暴力、缺乏纪律与散漫，是第三集团军所乐见的。
 [name="ケルシー"] つまり、単に現時点におけるレユニオンのあらゆる活動が、彼らの許容範囲にあるというだけだ。表面上だけの暴動や、風紀・規律の乱れは、第三師兵団にとってはむしろ好都合なのかもしれない。
+[name="Kal'tsit"] However, Reunion's current conduct is all within the bounds of their tolerance. Superficial violence, lacking discipline and organization. The Third Army must be happy to see it.
+[name="켈시"] 리유니온의 행동은 그저 그들의 허용 범위에 있었던 것뿐이야. 겉으로 드러나는 폭력, 기강이 무너진 무질서는 제3군단으로서는 환영일 테니까.
 
 [name="凯尔希"] 仔细想想，他们会仅仅只是旁观吗？他们如此冒险，就真的甘愿只是让塔露拉一人操纵一城甚至一国的局势吗？
 [name="ケルシー"] だが、奴らは最後まで傍観に徹するだろうか？　リスクを承知で、一つの都市、一つの国の情勢をタルラ一人に好きに操らせておくだろうか？
+[name="Kal'tsit"] Think about it carefully. Would they limit themselves to being onlookers? Thus, would they risk truly, willingly letting Talulah control a whole city—even a whole country's state of affairs?
+[name="켈시"] 자세히 생각해 봐. 그들이 그저 지켜만 볼까? 그들이 위험을 감수하는 건, 탈룰라가 도시, 나아가 나라 전체를 지배하기를 바라는 마음 때문인 걸까?
 
 [name="凯尔希"] 还是说，这甚至也是塔露拉的砝码，用来骗取乌萨斯军队的力量......让他们蛰伏在某处，只等着事态变化到即将超脱她掌控的地步。
 [name="ケルシー"] あるいは、これもタルラの計略の内であって、ウルサス軍を騙して利用し、彼女の手に余るような状況に備えて、身を潜めさせているだけなのかもしれない。
+[name="Kal'tsit"] Or perhaps, even this is one of the weights on Talulah's scales, used to swindle the Ursus military out of their power... having them hibernate somewhere, waiting until the situation is just about to move on from her control.
+[name="켈시"] 그것도 아니면 이 역시 탈룰라의 계략일까? 우르수스군을 속이기 위한 힘으로…… 그들을 어딘가에 잠복시킨 채 상황이 자신의 손아귀를 벗어날 정도로 악화되기를 기다리는 걸까?
 
 [name="凯尔希"] 那时，她就可以名正言顺地......动用她根本无法触及的力量。如她所愿。
 [name="ケルシー"] そして時期が来れば、タルラは大義名分を掲げ……そもそも触れる事すらできなかったはずの力を行使できる。彼女の思い通りにな。
+[name="Kal'tsit"] And then, in the truest sense, she'll be able to use... the power she could never even touch. Just as she wishes.
+[name="켈시"] 그때가 되면 탈룰라는…… 자신이 올려다 볼 수도 없던 힘을 정정당당히 쥘 수 있을 거다. 바라던 그대로.
 
 [name="凯尔希"] 但这需要时间。
 [name="ケルシー"] ただし、そのためにはやはり時間が必要だ。
+[name="Kal'tsit"] But that needs time.
+[name="켈시"] 하지만 그러려면 시간이 필요해.
 
 [Decision(options="你都这么说了，她为什么还不是一个暴君？", values="1")]
 [Decision(options="仮にそうだとして、なぜタルラが暴君でないと言える？", values="1")]
+[Decision(options="Now that you say all that, how is she not a tyrant?", values="1")]
+[Decision(options="그렇게까지 말하면서 아직도 탈룰라가 폭군이 아니라는 건가?", values="1")]
 
 [name="凯尔希"] 因为现在的整合运动想要一个这样的领袖，却不真的需要这样一个领袖。
 [name="ケルシー"] 現在のレユニオンは一見、暴君のようなリーダーを求めているように見えるが、実際はそうではないからだ。
+[name="Kal'tsit"] Because while current Reunion wants that in a leader, it doesn't truly need that in a leader.
+[name="켈시"] 지금의 리유니온에는 이런 리더가 필요하겠지만, 이런 리더를 진심으로 원하는 건 아니거든.
 
 [name="凯尔希"] 暴君珍惜自己的羽翼，即使他们往往因为短视或狂躁而肆意地摧毁了它们，而后又真情实感地痛哭流涕。
 [name="ケルシー"] 暴君は自分の手となり足となるものを惜しむ。時に判断ミスや一時の感情で配下を容易く処分する一方、命を落とした彼らのために涙を流す……ある意味、彼らに寄り添い、同じ地点に立っている。
+[name="Kal'tsit"] A tyrant treasures one's own enablers, even if a tyrant more often than not recklessly destroys them for lack of foresight or composure, and weeps truest, deepest tears for it.
+[name="켈시"] 폭군은 자신의 날개를 소중히 여기지. 얄팍한 안목과 제멋대로 구는 성격 탓에 날개를 부러뜨리곤, 진심으로 슬퍼하며 뜨거운 눈물을 흘리기도 해.
 
 [name="凯尔希"] 阴谋家不会。暴君有棋子，阴谋家也有；但暴君自己同在棋盘，阴谋家却坐在棋盘之外。
 [name="ケルシー"] だが陰謀家は違う。ゲームの駒に喩えるならば、暴君が配下の駒と同様、常に盤上にいるのに対し、陰謀家は基本的に盤の外にいる。
+[name="Kal'tsit"] A conspirator does not. The tyrant has chess pieces, and the conspirator does too; but the tyrant is with them on the chessboard, while the conspirator sits outside of it.
+[name="켈시"] 하지만 권모술수를 부리는 자들은 그렇지 않아. 체스말은 이들 모두에게 쥐어져 있지만 한 가지는 달라. 폭군이 체스말을 쥔 채 체스판 안에 서 있다면 권모술수를 부리는 자들은 그 밖에서 구경하지.
 
 [name="凯尔希"] 假设她有人性，她就可能犯错。但是对一个合格的阴谋家来说，当阴谋行驶在轨道上时，即使自身死了，她的阴谋一样会继续自然发展。
 [name="ケルシー"] タルラも人間である以上、過ちを犯す可能性はある。だが、優れた陰謀家ならば、陰謀がレールを走り出した後は、たとえ自らの死後でもその陰謀が継続するように図るものだ。
+[name="Kal'tsit"] We can suppose she has humanity, and thus might make mistakes. But if we're talking about a qualified conspirator with a scheme on the tracks, then even if she herself died, her scheme would continue as a matter of course.
+[name="켈시"] 탈룰라에게 인간다움이 남았다면 분명 실수를 저지르겠지. 하지만 권모술수를 제대로 부릴 줄 안다면, 자신이 죽더라도 한 번 궤도에 오른 음모는 멈추지 않을 거다.
 
 [Decision(options="我们的行动没有用吗？", values="1")]
 [Decision(options="つまり我々の行動には意味がないと？", values="1")]
+[Decision(options="Is our operation useless, then?", values="1")]
+[Decision(options="우리가 쓸데없는 짓을 한 건가?", values="1")]
 
 [name="凯尔希"] 如果是那样，我们根本就不会带着罗德岛的雇员们出生入死。
 [name="ケルシー"] いいや。もしそうなら、私もわざわざロドスの仲間と共に、命の危険を冒したりはしない。
+[name="Kal'tsit"] If they were, we'd hardly be taking Rhodes Island's operators to hell and back.
+[name="켈시"] 아마 그랬다면 로도스 아일랜드의 용병들을 데리고 사지에 뛰어들진 않았을 거다.
 
 [name="凯尔希"] 仅仅是杀了她自然是没有用的。所以，我们要在各个部分各个地方，分解她的阴谋，对抗她的指令，令她的阴谋失效。
 [name="ケルシー"] 私が言いたいのは、タルラだけを殺したところで意味はないということだ。それなら、要所要所で彼女の計画に対抗措置を取り、その陰謀を失敗に追い込む方が賢明だろう。
+[name="Kal'tsit"] The only thing naturally useless is killing her. So, in every part and every place, we must break down her plot, antagonize her instructions, and lead her scheme to failure.
+[name="켈시"] 그저 해치우는 것만으로는 부족해. 여러 상황, 여러 곳에서 탈룰라의 음모를 와해하고, 탈룰라의 명령에 맞서 그 음모를 무력화시켜야 해.
 
 [name="凯尔希"] 如果我们不能停止一艘舰船继续向前，那么我们就把它拆成碎片，让它在到达目的地时只剩下无害的空壳。
 [name="ケルシー"] 前進する戦艦を止められないのならば、構成部品を細かく分解し、目的地に着くまでに無害な抜け殻のみにすればいい。
+[name="Kal'tsit"] If we cannot halt a landship's forward march, then we will tear it to pieces, and make it arrive at its destination no more than an empty carapace.
+[name="켈시"] 앞으로 나아가는 함선을 멈춰 세울 수 없다면 목적지에 도착했을 때 빈 껍데기만 남도록 산산이 조각내야 해.
 
 [name="凯尔希"] ......啊，也许我的说法会让你误会。我们还是得停下切尔诺伯格这座核心城的。
 [name="ケルシー"] ……ふむ、今のは少し誤解を与える言い方だったかもしれないな。このチェルノボーグを――中枢区画を止めなければならないことに変わりはない。
+[name="Kal'tsit"] ...Ah, maybe I shouldn't have put it to you like that. Don't get me wrong, we still need to stop this Chernobog core city.
+[name="켈시"] 아…… 이렇게 말하면 오해할 수도 있겠군. 우린 체르노보그 코어를 멈춰야 해.
 
 [name="凯尔希"] 博士，你担忧过阿米娅他们是否可能会遭遇突发事态......
 [name="ケルシー"] ドクター、君はアーミヤたちが予想外の事態に遭遇する可能性について心配しているようだが――
+[name="Kal'tsit"] Doctor, you've worried about whether or not Amiya's group will run into any incidents...
+[name="켈시"] 박사, 아미야 일행이 돌발사태에 휘말릴까 걱정했었지……
 
 [name="凯尔希"] 我认为，摆在我们面前的，这才是真正的突发事态。
 [name="ケルシー"] 今、我々の眼前の状況こそが、予想外の事態であると私は思う。
+[name="Kal'tsit"] I think what's on show before us is the real incident, here.
+[name="켈시"] 지금 우리 앞에 놓인 상황이야말로 진짜 돌발사태라고 생각한다.
 
 [name="牧群化萨卡兹战士"] W，W。W在哪？W更强。
 [name="家畜化のサルカズ戦士"] W……W。Wはどこだ？　Wはもっと強い。
+[name="Herdified Sarkaz Warrior"] W, W. Where W? W stronger.
+[name="가축화 된 살카즈 전사"] W, W. W는 어디 있지? W가 더 강해.
 
 [name="牧群化萨卡兹战士"] 不要，不要进入......
 [name="家畜化のサルカズ戦士"] やめろ、入るな……
+[name="Herdified Sarkaz Warrior"] Don't, don't enter...
+[name="가축화 된 살카즈 전사"] 들어, 가지 마……
 
 [Decision(options="能和他们交流吗？", values="1")]
 [Decision(options="彼らと話せそうか？", values="1")]
+[Decision(options="Can you communicate with them?", values="1")]
+[Decision(options="저들과 교류할 수 있겠나?", values="1")]
 
 [name="凯尔希"] （萨卡兹某部族语言）
 [name="ケルシー"] （サルカズ某部族の言語）
+[name="Kal'tsit"] (A certain Sarkaz tribe's language)
+[name="켈시"] (살카즈 어느 부족의 언어)
 
 [name="牧群化萨卡兹战士"] 地下充斥黑暗。黑暗滋生邪恶。邪恶带来痛苦。
 [name="家畜化のサルカズ戦士"] 地下は闇で溢れている。闇は悪を生み出し、悪は苦痛を与える。
+[name="Herdified Sarkaz Warrior"] Underground full of darkness. Darkness create evil. Evil bring pain.
+[name="가축화 된 살카즈 전사"] 땅밑에 어둠이 가득하니, 어둠은 악을 불러오고, 악은 고통을 가져온다.
 
 [name="牧群化萨卡兹战士"] 太多的，痛苦。
 [name="家畜化のサルカズ戦士"] 多くの、苦痛を。
+[name="Herdified Sarkaz Warrior"] Too much, pain.
+[name="가축화 된 살카즈 전사"] 고통…… 너무 고통스럽다.
 
 [name="凯尔希"] （萨卡兹某部族语言）
 [name="ケルシー"] （サルカズ某部族の言語）
+[name="Kal'tsit"] (A certain Sarkaz tribe's language)
+[name="켈시"] (살카즈 어느 부족의 언어)
 
 [name="牧群化萨卡兹战士"] 你们，分享我们的痛苦？
 [name="家畜化のサルカズ戦士"] お前たちは、我らと苦痛を分かち合えるか？
+[name="Herdified Sarkaz Warrior"] Will you, share our pain?
+[name="가축화 된 살카즈 전사"] 우리의 고통을 함께 나눠줄 텐가?
 
 [name="凯尔希"] 不行。即使他们不是卡兹戴尔出身，也应该对母语类的暗示有所反应。他们的主动思维能力已经损坏了。
 [name="ケルシー"] ダメだな。カズデル出身でなかったとしても、母語に近い言葉には反応するはずだが……どうやら既に、自発的な思考能力が破壊されているようだ。
+[name="Kal'tsit"] No luck. Even if they weren't born in Kazdel, they should still have some kind of reaction to a hint of their native language. Their ability to actively think has been damaged.
+[name="켈시"] 소용없어. 카즈델 출신이 아니라고 해도 모국어나 비슷한 말에는 반응해야 하는데, 사고 능력이 망가진 모양이야.
 
 [Decision(options="你说的那些词句能影响他们？", values="1")]
 [Decision(options="今話した言葉に反応するはずなのか？", values="1")]
+[Decision(options="Could those words you were saying have any effect on them?", values="1")]
+[Decision(options="네 말이 영향을 줄 수 있을까?", values="1")]
 
 [name="凯尔希"] 原本是应该能的。
 [name="ケルシー"] 本来ならば、な。
+[name="Kal'tsit"] They were meant to in the first place.
+[name="켈시"] 원래대로라면 그랬겠지.
 
 [name="凯尔希"] 等等......这不是常理性的手段。不要好奇。
 [name="ケルシー"] いや……そもそもこれは一般的な方法ではないから、君は知らなくていい。
+[name="Kal'tsit"] No, wait... this wasn't a common-sense idea. Don't get excited.
+[name="켈시"] 잠깐…… 이건 일반적인 방법이 아니니까 궁금해할 것 없어.
 
 [name="凯尔希"] 但如果我用这种手段都不能唤醒他们的意识，那他们确实已经失去了思考能力而不是单纯的表达能力。
 [name="ケルシー"] だがこの方法でも意識を呼び覚ませないとなると、単純な対話能力だけではなく、思考能力そのものが失われているのは確実だろう。
+[name="Kal'tsit"] But if not even this lets me rouse their conscious, then they've already lost all capacity for thought, beyond simply their ability to express.
+[name="켈시"] 이 방법으로도 그들의 의식을 깨울 수 없다면 그들은 단순히 표현력을 잃은 게 아니라 사고할 능력 자체를 잃어버린 걸 거다.
 
 [name="凯尔希"] 是他们的脑活动被封锁了，还是他们的神经系统被感染器官扰乱了......我们剩下的时间尚不够我们探明问题的答案。
 [name="ケルシー"] 脳の活動が抑制されているか、感覚器官の感染によって、神経系が混乱しているか……いずれにしろ、原因特定には時間が足りない。
+[name="Kal'tsit"] It means their brain's activity has been sealed off, or that their nervous system has been perturbed by the infected organs... either way, we don't have enough time left to ascertain the true answer.
+[name="켈시"] 놈들의 뇌 활동이 멈춰버린 걸까, 아니면 신경계가 감염 기관 때문에 교란을 일으킨 걸까?…… 그 답을 알아내기엔 우리에게 남은 시간이 많지 않아.
 
 [name="凯尔希"] 只是依据事实判断，我想可能凶多吉少。
 [name="ケルシー"] 表面的事実から判断すると、恐らく状況は芳しくない。
+[name="Kal'tsit"] Just based on what facts we have, it's not looking good.
+[name="켈시"] 사실에 근거해 판단한 것뿐이다, 십중팔구 좋을 것 같지는 않지만.
 
 [Decision(options="他们似乎不会攻击我们。", values="1")]
 [Decision(options="こちらを攻撃する気はないようだが。", values="1")]
+[Decision(options="They don't seem like they'll attack us.", values="1")]
+[Decision(options="우리를 공격하려는 것 같진 않은데……", values="1")]
 
 [name="凯尔希"] 他们在阻止我们深入。深度感染的萨卡兹雇佣兵，在这个区域的，大概有六个左右，大多数时间里只是进行着看似无意识的漫游。
 [name="ケルシー"] だが我々の進行を拒んでいる。感染の進んだサルカズ傭兵は、この一帯で六人前後。大半の時間を無意識のまま徘徊しているようだ。
+[name="Kal'tsit"] They're preventing us from entering. Deeply infected Sarkaz mercenaries in this area number around six, and seem to spend most of their time set to an unconscious roam.
+[name="켈시"] 놈들은 우리의 진입을 막고 있어. 이 구역에서 고도로 감염된 살카즈 용병들은 대략 여섯 명인데 무의식적으로 돌아다니는 데 대부분의 시간을 쓰고 있지.
 
 [name="凯尔希"] 他们的活动范围不会延伸到这个通道之外，而现在这些深度感染者是在意识到我们的行为后才聚集在这里的。
 [name="ケルシー"] 行動範囲はこの通路より内側だが、今、目前にいる感染者たちは、私たちの行動に気付いて集まってきた。
+[name="Kal'tsit"] Their range of movement doesn't extend outside this passage. These severely Infected collected here only after they picked up on our activity.
+[name="켈시"] 놈들의 활동 반경은 여기까지야. 지금 여기에 몰려든 건 우리의 행동을 의식한 거겠지.
 
 [name="凯尔希"] 并且，只要我们不跨过界线，他们就不会采取进一步的行动。
 [name="ケルシー"] そして、私たちが境界線さえ越えなければ、彼らはそれ以上の敵対行動を起こさない。
+[name="Kal'tsit"] Moreover, as long as we don't cross some boundary, they don't do anything further.
+[name="켈시"] 그리고, 우리가 경계선만 넘지 않는다면 녀석들도 더 이상 행동하지 않을 거다.
 
 [name="凯尔希"] 侦查干员，能检测出我们与石棺之间线性距离吗？根据我提供的波形来判定位置。
 [name="ケルシー"] 偵察オペレーター、ここから石棺までの直線距離を計算できるか？　私の送る波形から位置を判定してくれ。
+[name="Kal'tsit"] Reconnaissance operator. Can you detect our straight-line distance to the Sarcophagus? Determine position via the waveform I provided.
+[name="켈시"] 정찰 오퍼레이터, 우리와 석관 사이의 선형 거리를 측정할 수 있겠나? 내가 보낸 파형으로 위치를 판단해봐.
 
 [name="凯尔希"] ......1.4公里。准确数字？
 [name="ケルシー"] ……1.4キロメートルか。精確な数値は出せるか？
+[name="Kal'tsit"] ...1.4km. Precise figure?
+[name="켈시"] ……1.4킬로미터. 정확한 숫자는?
 
 [name="凯尔希"] 1453米。
 [name="ケルシー"] 1,453メートルだな。
+[name="Kal'tsit"] 1453m.
+[name="켈시"] 1453미터.
 
 [name="凯尔希"] ......如果我没算错，那么，之前整合运动与萨卡兹特殊感染者发生冲突的位置，距离市政厅的距离也恰巧是1.4公里左右。
 [name="ケルシー"] ……私の計算ミスでなければ、レユニオンの部隊とサルカズの特殊感染者が衝突した位置が、シティホールからちょうど1.4キロ前後の地点だったはずだ。
+[name="Kal'tsit"] ...If my calculations aren't wrong, then the breakout of conflict between Reunion and Sarkaz special Infected happened to be roughly at distance 1.4km from the City Hall too.
+[name="켈시"] ……내 계산이 맞다면 리유니온과 살카즈 특수 감염자가 충돌한 위치에서 시청까지의 거리도 마침 1.4킬로미터였어.
 
 [name="凯尔希"] 我们原本打算从市政厅下方的避难通道进入石棺区，现在，那个出口可能已经被这些萨卡兹特殊感染者占据了。
 [name="ケルシー"] 本来なら、シティホール地下の避難通路から石棺エリアに侵入する予定だったが、そこも今ごろは、サルカズの特殊感染者たちに占拠されているだろう。
+[name="Kal'tsit"] We initially planned to enter the Sarcophagus holding from the City Hall basement shelter passage, but as things are, that exit's likely been occupied by Sarkaz special Infected of the same kind.
+[name="켈시"] 시청 아래 피난 통로에서 석관 구역으로 진입할 계획이었지만, 지금 그 출구는 살카즈 특수 감염자에게 점거되었을 거다.
 
 [name="凯尔希"] 我有一个未经证实的猜想，博士......
 [name="ケルシー"] あくまで仮説なのだが、ドクター……
+[name="Kal'tsit"] I have an unconfirmed conjecture, Doctor...
+[name="켈시"] 박사, 내게 검증되지 않은 가설이 있는데……
 
 [Decision(options="什么样的猜想？", values="1")]
 [Decision(options="どんな仮説だ？", values="1")]
+[Decision(options="What kind of conjecture?", values="1")]
+[Decision(options="자세히 말해 봐.", values="1")]
 
 [name="凯尔希"] 虽然不知道目的是什么，但这些萨卡兹特殊感染者可能是在阻止其他人进入石棺区，而这个控制区域的大小，也恰好是1.4公里。
 [name="ケルシー"] ここにいるサルカズの特殊感染者は、石棺エリアに入ろうとする者を妨害するよう命令されている。そしてその制御範囲は1.4キロメートルだ。
+[name="Kal'tsit"] We don't know what their goal is, but these Sarkaz special Infected are likely preventing anyone else from entering the sarcophagus holding, and by happy coincidence, this district they've controlled measures 1.4km out.
+[name="켈시"] 이유는 모르겠지만 살카즈 특수 감염자들은 다른 사람이 석관 구역에 들어가지 못하게 막고 있어. 통제 구역의 크기 역시 1.4킬로미터이기도 하고.
 
 [Decision(options="你说的也许是对的，但是目的呢？", values="1")]
 [Decision(options="だとしたら目的は何だ？", values="1")]
+[Decision(options="You might be right, but what about their goal, then?", values="1")]
+[Decision(options="일리가 있는 지적이야. 하지만 목적은?", values="1")]
 
 [name="凯尔希"] （摇头）
 [name="ケルシー"] （首を横に振る）
+[name="Kal'tsit"] (Shakes her head)
+[name="켈시"] (고개를 젓는다)
 
 [name="凯尔希"] 至少不再是这些萨卡兹原本的目的了。
 [name="ケルシー"] 少なくとも、このサルカズ人たちが望んでやるようなことではないのだろう。
+[name="Kal'tsit"] At the very least, it's not the same goal these Sarkaz originally had.
+[name="켈시"] 적어도 살카즈들의 본래 목적은 아닐거다.
 
 [name="凯尔希"] ......
 [name="ケルシー"] ……
+[name="Kal'tsit"] ......
+[name="켈시"] ……
 
 [name="凯尔希"] 源自卡兹戴尔，可悲的萨卡兹人，无论在哪里都会成为工具。
 [name="ケルシー"] カズデルに生を受けた、悲劇の種族サルカズ……どこにいても道具として利用される運命なのか。
+[name="Kal'tsit"] Poor Sarkaz, hailing from Kazdel. No matter where, they still become tools.
+[name="켈시"] 카즈델 출신의 가엾은 살카즈인들은 어디서든 도구 취급을 받게 될 거다.
 
 [name="凯尔希"] 我认为，感染者现在的处境也与萨卡兹相似，现在的这些萨卡兹只能在充满仇恨和失去一切间选择。
 [name="ケルシー"] あらゆる選択肢を奪われ、憎しみに身を委ねるか、あるいは全てを失うかの二者択一を迫られる……そう考えると、感染者の現在の状況もサルカズとよく似ているな。
+[name="Kal'tsit"] I believe there are similarities between the Infected and the Sarkaz's current situations. These Sarkaz here with us could only choose to well with hate, or to lose it all.
+[name="켈시"] 지금 감염자들의 처지도 살카즈와 크게 다르지 않다고 생각한다. 살카즈들은 증오에 잠식된 삶과 모든 것을 잃게 되는 삶 둘 중 하나를 선택할 수밖에 없어.
 
 [name="凯尔希"] ......本来，事情该有所改变。我们是能够改变的。
 [name="ケルシー"] ……本来なら、事態を変えられるはずだった。私たちには、その力があったはずだ。
+[name="Kal'tsit"] ...Things were meant to have changed. We have that power.
+[name="켈시"] 원래대로라면 상황이 바뀌었어야 했는데…… 우린 바꿀 수 있을 거야.
 
 [name="凯尔希"] 失去了家乡的提卡兹，变成了无根之人萨卡兹。
 [name="ケルシー"] しかし、故郷を失ったティカズ人は、今では根無し草のサルカズ人となっている。
+[name="Kal'tsit"] Those Teekaz who lost their homeland—have become Sarkaz, rootless as people.
+[name="켈시"] 터전을 잃은 티카즈는 뿌리가 없는 살카즈로 변해 버렸지.
 
 [name="凯尔希"] 现在，我们面前的这些萨卡兹，则连人都算不上了。
 [name="ケルシー"] そして、今目の前にいるサルカズ人たちは、もはや人とすら呼べぬものになってしまったようだ。
+[name="Kal'tsit"] And now, the Sarkaz before us can barely even be called people.
+[name="켈시"] 이제 우리 앞에 있는 살카즈들은 인간이라고 할 수도 없게 되었어.
 
 [Decision(options="你要怎么做？", values="1")]
 [Decision(options="これからどうするつもりだ？", values="1")]
+[Decision(options="How do you want to do things?", values="1")]
+[Decision(options="그래서…… 이제 어쩔 셈이지?", values="1")]
 
 [name="凯尔希"] 诸位干员，检查你们的防化装备。
 [name="ケルシー"] オペレーター各位、防護装備を確認しろ。
+[name="Kal'tsit"] All operators, inspect your hazmat equipment.
+[name="켈시"] 오퍼레이터들은 자신의 방화 장비를 점검해라.
 
 [name="凯尔希"] 我们面对的也许是二级紧急感染事态。
 [name="ケルシー"] 第二級の緊急感染事態が発生している可能性がある。
+[name="Kal'tsit"] What we're facing may be a Class II Emergency Infective situation.
+[name="켈시"] 우린 지금 2급 긴급 감염 사태에 직면했을지도 모른다.
 
 [name="凯尔希"] 博士，我们要在尽可能减少损耗的情况下，尽可能多地停止特殊感染者的运作。
 [name="ケルシー"] ドクター、できる限り部隊の損耗を抑えつつ、多くの特殊感染者を行動不能にしたい。
+[name="Kal'tsit"] Doctor, in minimizing wear and tear to the utmost, we must halt the special Infected's activity to the utmost.
+[name="켈시"] 박사, 손실을 최대한 줄이면서 특수 감염자의 움직임을 최대한 막아야 해.
 
 [name="凯尔希"] ......我们有段时间没有出面解决紧急感染事态了，这身行头，简直就像是乌萨斯的感染者纠察队。
 [name="ケルシー"] ……我々は正体を明かさずに緊急感染事態の対処を行っていた時期もある。この装備はやはり、まるでウルサスの感染者監視隊そのものだな。
+[name="Kal'tsit"] ...We haven't stepped in to resolve an Emergency Infective state for a while. This outfit looks entirely like Ursus's Infected Patrol Unit.
+[name="켈시"] 긴급 감염 사태를 해결하는 데 투입된 것도 무척 오랜만이로군…… 이러니까 꼭 우르수스의 감염자 감시팀 같네.
 
 [Decision(options="感染者纠察队？", values="1")]
 [Decision(options="感染者監視隊？", values="1")]
+[Decision(options="Infected Patrol Unit?", values="1")]
+[Decision(options="감염자 감시팀?", values="1")]
 
 [name="凯尔希"] 我无法否认的一点是，我们配备的防化设备与乌萨斯对感染者的残暴统治象征......分享着同一个原型设计。
 [name="ケルシー"] ウルサスの感染者に対する暴力的な統治の象徴である防護装備……それと私たちの防護装備は、同じデザインを基にしている。これは否定できない事実だ。
+[name="Kal'tsit"] There's something I can't deny—the hazmat equipment we've been provided with is emblematic of Ursus's cruel rule over the Infected... it shares the same prototypical design.
+[name="켈시"] 우리가 장착한 방화 장비와 감염자에 대한 우르수스의 잔혹한 통치를 상징하는 게…… 하나의 뿌리에서 비롯됐다는 사실은 나도 부정할 수 없어.
 
 [name="凯尔希"] 虽然，我们在行为上和感染者纠察队有着本质的不同，但我也只能希望我们真能继续保持这种本质差异，不因种种外力所迫变得面目全非。
 [name="ケルシー"] もちろん実際の活動内容は、感染者監視隊とは根本的に異なるし、外部の様々な圧力に屈することなく、今後もその違いを明確に維持していくつもりだが。
+[name="Kal'tsit"] Though our approach is intrinsically distinct from the Infected Patrol Unit, I can only hope we're able to continue preserving that intrinsic difference—that outside forces don't force us to change beyond recognition.
+[name="켈시"] 우리의 행동은 감염자 감시팀과는 본질적으로 다르지만 그런 차이를 계속해서 유지하기를 진심으로 바란다. 이런저런 외력에 의해 알아볼 수도 없을 만큼 바뀌는 게 아니라……
 
 [name="凯尔希"] 这也是我们对很多事情的期望。和我一段时间前对你说的那样。希望你也如此。
 [name="ケルシー"] 他の物事に対しても同様だ。以前話したが、君にもそうであってほしい。
+[name="Kal'tsit"] The same hope we hold for so many things. Just like I told you about some time before. I hope you'll hope so too.
+[name="켈시"] 많은 일에 대한 우리의 기대 또한 이러하다. 얼마 전에 네게 이야기한 것처럼…… 너도 그러길 바란다.
 
 [name="阿米娅"]   ——————————！
 [name="アーミヤ"]   ――――――――――！
+[name="Amiya"]   ——————————!
+[name="아미야"]   …………!
 
 [name="阿米娅"]   ————这是，陈长官的？
 [name="アーミヤ"]   ――――これは、チェンさんの？
+[name="Amiya"]   ————Was—Madame Ch'en here?
+[name="아미야"]   ……이건, 첸 팀장님?
 
 [name="魏彦吾"]  他向哪个方向去了？
 [name="ウェイ"]  どの方角に向かった？
+[name="Wei Yenwu"]  Which way was he headed?
+[name="웨이 옌우"]  어느 방향으로 갔지?
 
 [name="影卫"]  西方。很快就能到达辉蹄城的禁区。
 [name="影衛"]  西です。間もなく輝蹄の封鎖区域に着くかと。
+[name="Shadow Guard"]  West. Stone's throw from the exclusion zone of Glowing Hoof.
+[name="그림자 부대"]  서쪽입니다, 글로잉훕 시티의 봉쇄 구역에 곧 도착합니다.
 
 [name="魏彦吾"]  ......这一切是他谋划好的。为了确认协议签署区的安保情况，莱塔尼亚外扩了冲突禁区，和我们的禁区重叠。
 [name="ウェイ"]  ……全ては奴の策略通りだろう。協定締結エリアの安全を確認するため、リターニアは緩衝地帯を拡大し、こちらの封鎖区域と重なるようにしたのだ。
+[name="Wei Yenwu"]  ...He plotted all of this. It was to ensure the area where we signed the pact was secure. Leithania expanded their contended exclusion zone, overlapping our own.
+[name="웨이 옌우"]  ……모든 게 놈의 계획대로군. 협약 체결 구역의 보안 상황을 확인하기 위해 라이타니아는 우리의 봉쇄 구역과 겹치게 충돌 금지 구역을 확장한 거다.
 
 [name="影卫"]  我们能够潜入进去，杀死科西切，夺回小姐。
 [name="影衛"]  我々がコシチェイを暗殺し、お嬢様を奪還することも可能かと。
+[name="Shadow Guard"]  We can infiltrate, kill Kashchey and bring back the Miss.
+[name="그림자 부대"]  저희라면 은밀히 잠입해서 카셰이를 죽이고 아가씨를 구해올 수 있습니다.
 
 [name="魏彦吾"]  不。他做好了准备。
 [name="ウェイ"]  いや。相手も既に準備を整えているだろう。
+[name="Wei Yenwu"]  No. He's already prepared.
+[name="웨이 옌우"]  아니, 놈은 미리 대비했을 거다.
 
 [name="魏彦吾"]  ......这次会面，孪生女皇直接派遣了女皇之声，随行的武装力量不在少数。
 [name="ウェイ"]  今回の会談のために、双子の女帝は「女帝の声」を派遣している。同行する護衛の数も少なくない。
+[name="Wei Yenwu"]  ...In this meeting, the Twin Empresses directly dispatched the Empresses' Voice, and they weren't short of armed forces.
+[name="웨이 옌우"]  ……이번 만남엔 쌍둥이 여황이 '여황의 목소리'를 직접 보냈다. 수행하는 무장 세력도 적지 않았고.
 
 [name="魏彦吾"]  女皇们刚登基不久，一旦科西切有意引爆外交冲突，我们一切的逾矩行为都可能成为女皇们彰示威权的借口。
 [name="ウェイ"]  彼女たちは女帝に即位してまだ日が浅い……コシチェイが外交問題を起こせば、私たちのこれまでの規律違反行為が、女帝の権威づけに利用される可能性もある。
+[name="Wei Yenwu"]  The Empresses are fresh upon the throne. If Kashchey intends to blow our diplomacy apart, all our transgressive conduct may very well be the Empresses' excuse to flaunt their power.
+[name="웨이 옌우"]  여황은 즉위한 지 얼마 되지 않았다. 카셰이가 의도적으로 외교 갈등을 일으킨다면, 우리가 저지른 모든 불법 행위는 여황이 권위를 과시할 좋은 핑계가 될 뿐이다.
 
 [name="魏彦吾"]  不能给科西切更多伤害龙门乃至大炎的机会。
 [name="ウェイ"]  龍門、ひいては炎国を糾弾するチャンスをコシチェイに与えてはならない。
+[name="Wei Yenwu"]  We can't give Kashchey more opportunities to harm Lungmen, or even Yen.
+[name="웨이 옌우"]  카셰이가 용문에, 아니… 더 나아가 염국에까지 더 큰 피해를 입힐 기회를 줘서는 안 돼.
 
 [name="陈晖洁"]  舅舅！
 [name="チェン・フェイゼ"]  伯父さん！
+[name="Ch'en Hui-chieh"]  Uncle!
+[name="첸 훼이지에"]  외삼촌!
 
 [name="魏彦吾"]  ......
 [name="ウェイ"]  ……
+[name="Wei Yenwu"]  ......
+[name="웨이 옌우"]  ……
 
 [name="魏彦吾"]  晖洁......
 [name="ウェイ"]  フェイゼ……
+[name="Wei Yenwu"]  Hui-chieh...
+[name="웨이 옌우"]  훼이지에……
 
 [name="陈晖洁"]  舅舅......不要怪小塔！
 [name="チェン・フェイゼ"]  伯父さん……タルちゃんを責めないであげて！
+[name="Ch'en Hui-chieh"]  Uncle... it's not Tal's fault!
+[name="첸 훼이지에"]  외삼촌…… 탈루 탓이 아니야!
 
 [name="魏彦吾"]  我没有责怪她。
 [name="ウェイ"]  別に責めてるわけじゃない。
+[name="Wei Yenwu"]  I'm not blaming her.
+[name="웨이 옌우"]  그렇게 말한 적은 없는 것 같은데.
 
 [name="陈晖洁"]  ......那你骂我吧。
 [name="チェン・フェイゼ"]  ……なら、わたしを叱って。
+[name="Ch'en Hui-chieh"]  ...Then you should get mad at me.
+[name="첸 훼이지에"]  ……그럼 날 혼내줘.
 
 [name="魏彦吾"]  你没有做错什么。
 [name="ウェイ"]  君を叱る理由などない。
+[name="Wei Yenwu"]  You haven't done anything wrong.
+[name="웨이 옌우"]  잘못한 것도 없이 말이냐?
 
 [name="陈晖洁"]  我答应她要和她一起走的。可是我害怕了......我......我松开手了。我没和她一起......
 [name="チェン・フェイゼ"]  でも一緒に行くって言ったのに……わたし怖くなって……タルちゃんの手を放しちゃった。一緒に行けなかった……
+[name="Ch'en Hui-chieh"]  I told her I was gonna go with her. But then I got scared... I... let go of her hand. I didn't go with her...
+[name="첸 훼이지에"]  같이 가기로 탈루랑 약속했는데 너무 무서워서…… 내가…… 내가 손을 놔버렸어. 그래서 같이 가지 못한 건데……
 
 [name="陈晖洁"]  她的眼神，很害怕。我很害怕，她也很害怕。我......我一定做错了。
 [name="チェン・フェイゼ"]  タルちゃんの目が、すごく怖かったの。タルちゃんもきっと怖かったのに、わたし怖くなって……わたし、叱られて当然だよ。
+[name="Ch'en Hui-chieh"]  She looked... really scared. I was really scared, and she was too. I... I did something wrong.
+[name="첸 훼이지에"]  탈루는 무서운 눈을 하고 있었어. 나도 무서웠고, 탈루도 무서웠던 거야. 다…… 내 잘못이야.
 
 [name="魏彦吾"]  ......晖洁，这是她的错，不是你的。
 [name="ウェイ"]  ……フェイゼ。これはタルラの過ちだ。君は間違っていない。
+[name="Wei Yenwu"]  ...Hui-chieh, she made the mistake, not you.
+[name="웨이 옌우"]  ……훼이지에, 이건 탈룰라의 잘못이지 네 잘못이 아니다.
 
 [name="陈晖洁"]  啊？可，可舅舅你说不会怪她的！
 [name="チェン・フェイゼ"]  え？　でも伯父さん、タルちゃんを責めないって言ったじゃない！
+[name="Ch'en Hui-chieh"]  Huh? B-but you said you wouldn't blame her, Uncle!
+[name="첸 훼이지에"]  어? 그, 그치만 외삼촌은 탈루 탓 안 하겠다 했잖아!
 
 [name="魏彦吾"]  是的，不会。
 [name="ウェイ"]  あぁ、そうだ。
+[name="Wei Yenwu"]  No, I won’t.
+[name="웨이 옌우"]  그래, 탓하지 않을 거다.
 
 [name="陈晖洁"]  但她......但她不是做错了吗？做错了也......不会被骂吗？
 [name="チェン・フェイゼ"]  でも……伯父さんはタルちゃんの過ちって言ったじゃない。それでも叱られなくて済むの？
+[name="Ch'en Hui-chieh"]  But didn't... didn't she do something wrong? If she does something wrong, you're... not gonna get mad at her?
+[name="첸 훼이지에"]  하지만 탈루…… 탈루는 잘못을 저질렀잖아? 잘못했는데…… 혼나지 않아도 되는 걸까?
 
 [name="魏彦吾"]  ——
 [name="ウェイ"]  ……
+[name="Wei Yenwu"]  ——
+[name="웨이 옌우"]  ……
 
 [name="魏彦吾"]  她不知道真相。这个真相不该被任何人知道，所以她肯定会犯错，哪怕不是现在，将来也会。
 [name="ウェイ"]  あの子は真相を知らない。それは誰にも知られてはいけないもの。だから仕方なく過ちを犯してしまう。今すぐでなくても、将来的には必ず。
+[name="Wei Yenwu"]  She doesn't know the truth. It's not a truth anyone should be privy to, so of course she'd make a mistake. If not now, she would in the future.
+[name="웨이 옌우"]  탈룰라는 진실을 모른다. 그 진실은 누구도 알아서 안 돼, 그러니까 저지를 게 분명해. 지금은 아니더라도 나중에는 분명……
 
 [name="魏彦吾"]  ......很多情况下，犯错是不该被责罚的。我们不仅会犯错，还会犯很多错。有些错，我们一定会犯，躲不开，避不过。
 [name="ウェイ"]  ……ほとんどの過ちは責められるべきものではない。私たちは一つどころか、多くの過ちを犯す。そして、逃げたり、避けたりすることのできない必然の過ちもある。
+[name="Wei Yenwu"]  ...In so many cases, the wrong thing shouldn't be punished. Not only do we make mistakes, we'll make so many of them. If there's some mistake, we will make it. We can't dodge that, nor escape it.
+[name="웨이 옌우"]  ……잘못을 저질러도 혼나지 않는 경우도 많지. 우리는 잘못, 그것도 많은 잘못을 저지르곤 하는데 어떤 잘못은 숨길 수도, 피할 수도 없어.
 
 [name="魏彦吾"]  塔露拉只是犯了那个她一定会犯的错。
 [name="ウェイ"]  タルラは彼女自身にとって必然的な過ちを犯しただけだ。
+[name="Wei Yenwu"]  Talulah simply made the mistake she was bound to.
+[name="웨이 옌우"]  탈룰라는 자신이 저지를 수밖에 없는 잘못을 저지른 것뿐이야.
 
 [name="陈晖洁"]  那样的话还叫犯错吗？
 [name="チェン・フェイゼ"]  それって過ちって言えるの？
+[name="Ch'en Hui-chieh"]  Is that still doing something wrong, then?
+[name="첸 훼이지에"]  그런 것도 잘못이라고 하는 거야?
 
 [name="魏彦吾"]  是的，依然还是。这片土地不因一件事一定发生就宽容待它。
 [name="ウェイ"]  あぁ、もちろん。必然的な出来事だからといって、それを許すような寛容さはこの大地にはない。
+[name="Wei Yenwu"]  Yes, of course it is. This world of ours wouldn't forgive something just because it was bound to happen.
+[name="웨이 옌우"]  그래, 그것도 잘못이지. 이 세상은 무슨 일이 발생한다고 해서 그걸 너그럽게 받아들이지 않거든.
 
 [name="魏彦吾"]  严苛的土地，严苛的人民，严苛的统治。除了对错，它们什么都不在乎，好像对错才是它们的生命，而不是呼吸和吞咽......！
 [name="ウェイ"]  過酷な土地、過酷な生活、過酷な統治。それらは正否以外何も気にしない。呼吸や食事ではなく、まるで物事の善し悪しを決めることこそが生きる原動力であるかのようにね……
+[name="Wei Yenwu"]  The world is harsh, the people are harsh, the regimes are harsh. Apart from right and wrong, they don't care a damn. As if it's right and wrong keeping them alive, and not what they breathe and swallow...!
+[name="웨이 옌우"]  무자비한 땅, 무자비한 사람들과 무자비한 통치…… 그들이 신경 쓰는 건 옳고 그름뿐이야. 숨 쉬고 삼키는 게 생명이 아니라 옳고 그름이 생명이라도 되는 것처럼.
 
 [name="陈晖洁"] ......
 [name="チェン・フェイゼ"] ……
+[name="Ch'en Hui-chieh"] ......
+[name="첸 훼이지에"] ……
 
 [name="陈晖洁"]  你说的这些我不懂，舅舅。
 [name="チェン・フェイゼ"]  よくわからないよ、伯父さん。
+[name="Ch'en Hui-chieh"]  I don't get what you're saying, Uncle.
+[name="첸 훼이지에"]  뭔 소린지 잘 모르겠어, 외삼촌.
 
 [name="陈晖洁"]  所以......小塔她还会回来吗？
 [name="チェン・フェイゼ"]  つまり……タルちゃんは帰ってくるってこと？
+[name="Ch'en Hui-chieh"]  Does... does it mean Tal can still come back?
+[name="첸 훼이지에"]  그래서…… 탈루는 다시 돌아올 수 있어?
 
 [name="魏彦吾"]  ——我不知道，晖洁。我不知道。
 [name="ウェイ"]  ――それはわからない、フェイゼ。私にもわからないんだ。
+[name="Wei Yenwu"]  —I don't know, Hui-chieh. I don't know.
+[name="웨이 옌우"]  글쎄다…… 훼이지에, 나도 잘 모르겠구나.
 
 [name="陈晖洁"]  ......呜......那小塔她因为我......不会回来了吗？都怪我......都怪我......小塔......
 [name="チェン・フェイゼ"]  ……そんな……じゃあタルちゃんは、帰ってこないの？　全部……私のせいなんだ……タルちゃん……
+[name="Ch'en Hui-chieh"]  ...*sob*... Is it because of me... Tal won't come back? It's my fault... it's my fault... Tal...
+[name="첸 훼이지에"]  ……흐흑…… 그럼 탈루는 나 때문에…… 못 돌아오는 거야? 내 탓이야…… 나 때문에…… 탈루가……
 
 [name="魏彦吾"]  晖洁！
 [name="ウェイ"]  フェイゼ！
+[name="Wei Yenwu"]  Hui-chieh!
+[name="웨이 옌우"]  훼이지에!
 
 [name="陈晖洁"]  呜......！
 [name="チェン・フェイゼ"]  うぅ……！
+[name="Ch'en Hui-chieh"]  *whimper*...!
+[name="첸 훼이지에"]  흐윽……!
 
 [name="魏彦吾"]  把你的眼泪擦掉。
 [name="ウェイ"]  涙を拭きなさい。
+[name="Wei Yenwu"]  Wipe your tears away.
+[name="웨이 옌우"]  눈물을 닦아라.
 
 [name="陈晖洁"]  呜，我......
 [name="チェン・フェイゼ"]  う、うぅ、わたし……
+[name="Ch'en Hui-chieh"]  *sob*... I...
+[name="첸 훼이지에"]  흐흑, 하지만……
 
 [name="魏彦吾"]  或者，哭吧。给你五分钟，哭完之后，如果你不再流眼泪了，我就告诉你该怎么办。
 [name="ウェイ"]  ならば、泣きなさい。五分だ。涙が涸れるまで泣いたら、どうすればいいか教えてあげよう。
+[name="Wei Yenwu"]  Or cry, then. I'll give you five minutes. After you're done crying, if there's not still tears in your eyes, I'll tell you what you should do.
+[name="웨이 옌우"]  아니면, 울어라. 5분 주마. 다 울어서 더는 눈물이 흐르지 않으면, 그때 네가 어떻게 해야 하는지 알려주마.
 
 [name="陈晖洁"]  唔......！
 [name="チェン・フェイゼ"]  ううっ、ヒック……！
+[name="Ch'en Hui-chieh"]  Mm...!
+[name="첸 훼이지에"]  흐흑……
 
 [name="陈晖洁"] ......哇......！小塔......！
 [name="チェン・フェイゼ"] うぅ……うわぁーん……！　タルちゃん……！
+[name="Ch'en Hui-chieh"] ...Waaah...! Tal...!
+[name="첸 훼이지에"] ……으아아앙……! 탈루……!
 
 魏彦吾望向天空。他本想弓下身子安慰矮小的女孩，踌躇之后，他觉得自己不配。
 ウェイは空を見上げた。今すぐにでもこの少女を抱きしめ、慰めてやりたかった。しかし、しばらく逡巡した後、自分にはその資格はないと思い直した。
+Wei Yenwu gazes towards the sky. He considers bending down to comfort the tiny girl, but after hesitating, feels as if he isn’t suited to the task.
+웨이 옌우는 하늘을 올려다보곤, 다시 몸을 숙여 왜소한 여자아이를 위로할까 하다가 잠시 머뭇거렸다. 그는 그런 행동이 자신에게 어울리지 않는다고 생각했다.
 
 [name="魏彦吾"]  你不哭了。
 [name="ウェイ"]  ――泣きやんだかい？
+[name="Wei Yenwu"]  You're done crying, then.
+[name="웨이 옌우"]  이제 울지 않는구나.
 
 [name="陈晖洁"] ......嗯。我想小塔回来。我该怎么办？
 [name="チェン・フェイゼ"] うん……タルちゃんに帰ってきてもらうには、どうしたらいいの？
+[name="Ch'en Hui-chieh"] ...Mm-hm. I want Tal back. What should I do?
+[name="첸 훼이지에"] 응…… 난 탈루가 돌아왔으면 좋겠어. 어떻게 해야 돼?
 
 [name="魏彦吾"]  我会教你很多事，教你怎么管理城市，怎么对抗恶棍，怎么对待朋友。
 [name="ウェイ"]  これから私が色んなことを君に教えてあげよう。都市の管理方法、悪い奴への対処方法、友人との接し方なんかもね。
+[name="Wei Yenwu"]  I'll teach you a world of things. I'll teach you how to supervise a city, how to fend off villains, how to treat your friends.
+[name="웨이 옌우"]  내가 가르쳐주마. 도시를 어떻게 경영하고 악당에게는 어떻게 맞서야 하는지, 그리고 친구를 어떻게 대하는지도 모두 알려주마.
 
 [name="魏彦吾"]  照我说的做，塔露拉就有可能回来。
 [name="ウェイ"]  私の言う通りにすれば、タルラは帰ってくるかもしれない。
+[name="Wei Yenwu"]  Do as I say, and Talulah will have a chance of coming back.
+[name="웨이 옌우"]  내 말대로 하면, 탈룰라가 돌아올지도 모른다.
 
 [name="陈晖洁"] 要，要怎么做？小塔真的可能回来吗？舅舅会不会骗我？
 [name="チェン・フェイゼ"] ど……どうすればいいの？　本当にタルちゃんは帰ってくるの？　伯父さん、わたしをダマしてない？
+[name="Ch'en Hui-chieh"] Wh-what do I do? Will Tal be able to come back, really? Are you tricking me, Uncle?
+[name="첸 훼이지에"] 어, 어떻게 해야 하는데? 탈루 정말 돌아와? 외삼촌 거짓말 아니지?
 
 [name="陈晖洁"] ......妈妈......妈妈说，说你只会骗人，我......我真可以信你吗？
 [name="チェン・フェイゼ"] ……ママが……ママがね、伯父さんのこと嘘つきだって言うの……本当に……信じてもいいの？
+[name="Ch'en Hui-chieh"] ...Mama... Mama said, you only know howta trick people. Can... can I really believe you?
+[name="첸 훼이지에"] ……엄마…… 엄마가, 외삼촌은 거짓말만 한다고 했는걸. 나…… 정말 믿어도 돼?
 
 [name="魏彦吾"]  也许吧。
 [name="ウェイ"]  多分ね。
+[name="Wei Yenwu"]  Perhaps.
+[name="웨이 옌우"]  아마도.
 
 [name="魏彦吾"]  我也犯下了一个巨大的错误，导致你的母亲终一生都恨我入骨，至死都没能放开。她这么说情有可原。
 [name="ウェイ"]  私も大きな過ちを犯し、君のママから一生消えない恨みを買った。死んでも許してもらえないような恨みをね。だから彼女がそう言うのも無理はない……
+[name="Wei Yenwu"]  I've made a massive mistake of my own, and it led to your mother despising me for her whole life. Even on her deathbed, she couldn't have let go. What she told you is understandable.
+[name="웨이 옌우"]  나도 큰 실수를 저질렀지. 그 때문에 죽을 때까지 날 원망한 만큼 네 엄마는 날 미워했단다. 그럴 만도 해.
 
 [name="魏彦吾"]  但错误是可以被弥补的。
 [name="ウェイ"]  だが、過ちは償うことができる。
+[name="Wei Yenwu"]  But mistakes can be made right.
+[name="웨이 옌우"]  하지만 잘못은 되돌릴 수 있어.
 
 [name="魏彦吾"]  晖洁，听好。正确行事值得你努力一生，纠正错误，却值得人押上性命。
 [name="ウェイ"]  フェイゼ、よく聞きなさい。正しく生きることには、一生をかけるだけの価値がある。そして、過ちを正すことも命をかけるだけの価値がある。
+[name="Wei Yenwu"]  Hui-chieh, listen carefully. Proper conduct is worth striving your whole life for. Correcting a mistake is worth putting life itself at stake for.
+[name="웨이 옌우"]  잘 들어라, 훼이지에. 올바르게 행동하는 건 네가 평생 노력할 만한 일이지, 그리고 잘못을 바로잡는 건 네 목숨을 걸 만한 일이란다.
 
 [name="魏彦吾"]  塔露拉的离去是一桩错误。这桩错误带来的所有后果，我都会承担。
 [name="ウェイ"]  タルラが出て行ったことは確かに過ちだ。だがその過ちがもたらす結果は、すべて私が受け止めよう。
+[name="Wei Yenwu"]  Talulah's departure was a mistake. Every consequence it brings, I will bear.
+[name="웨이 옌우"]  탈룰라가 떠난 건 잘못이다. 잘못이 가져올 모든 결과는 내가 책임지마.
 
 [name="魏彦吾"]  而你，晖洁。快快长大吧。
 [name="ウェイ"]  フェイゼ、君は早く大きくなりなさい。
+[name="Wei Yenwu"]  And you, Hui-chieh. You'd better grow up fast.
+[name="웨이 옌우"]  그러니 훼이지에…… 어서 크거라.
 
 [name="陈晖洁"] 长大以后会怎么样？
 [name="チェン・フェイゼ"] 大きくなってどうするの？
+[name="Ch'en Hui-chieh"] What'll it be like when I grow up?
+[name="첸 훼이지에"] 다 크면 어떻게 되는데?
 
 [name="魏彦吾"]  你的话，长大的你......就能改变一切。
 [name="ウェイ"]  君なら、大きくなった君なら……全てを変えられる。タルラだって連れ戻せる。
+[name="Wei Yenwu"]  Hmm. When you grow up... you'll be able to change everything.
+[name="웨이 옌우"]  너라면, 다 큰 너라면…… 모든 것을 바꿀 수 있을 거다.
 
 [name="陈晖洁"] 真的吗？！
 [name="チェン・フェイゼ"] 本当に！？
+[name="Ch'en Hui-chieh"] Really?!
+[name="첸 훼이지에"] 정말?!
 
 [name="魏彦吾"]  也许。或者说，只要你相信，它就是真的。
 [name="ウェイ"]  多分ね。いや、君が信じれば、きっとそうなる。
+[name="Wei Yenwu"]  Perhaps. Or let's put it this way: so long as you believe, it will be real.
+[name="웨이 옌우"]  아마도. 아니…… 네가 믿는 한은 정말로 그렇게 될 거다.
 
 [name="魏彦吾"]  我会教你剑术，晖洁。
 [name="ウェイ"]  剣術を教えてあげよう、フェイゼ。
+[name="Wei Yenwu"]  I'll teach you to wield a sword, Hui-chieh.
+[name="웨이 옌우"]  내가 검술을 가르쳐주마, 훼이지에.
 
 [name="魏彦吾"]  赤霄的剑术。
 [name="ウェイ"]  赤霄の剣術を。
+[name="Wei Yenwu"]  To wield Chi Xiao.
+[name="웨이 옌우"]  적소의 검술을.
 
 “拔刀之招，当破即破。”
 「抜刀の技、破るに当たりて即ち破る。」
+“Unsheathing strike, eradicate without delay.”
+"발도의 기술, 부숴야 할 땐 부숴야 하느니."
 

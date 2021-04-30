@@ -1,384 +1,640 @@
 [name="盾卫"]  这些尸体......已经开始腐败了。
 [name="盾兵"]  この死体……もう腐敗が始まっているな。
+[name="Shieldguard"]  All these corpses... have started to rot.
+[name="방패병"]  시체들이…… 부패하기 시작했다.
 
 [name="盾卫"]  W的人。魔族佬雇佣兵。
 [name="盾兵"]  Wの部隊にいた魔族の傭兵か。
+[name="Shieldguard"]  They're W's men. A bunch of mercenary devils.
+[name="방패병"]  W의 부하로 있는 마족 용병인가.
 
 [name="盾卫"]  奇怪，我们没对他们动手。这是私刑，明摆着的暗地处决。
 [name="盾兵"]  妙だな、こちらは手を出してないのに。ということはリンチか……ひそかに処刑されたのは明らかだな。
+[name="Shieldguard"]  This makes no sense. We haven't done anything to these guys. They were lynched, and clearly they were killed off in secret.
+[name="방패병"]  이상해, 우린 손도 대지 않았는데. 이건 린치가 분명해, 은밀히 처형된 거로군.
 
 [name="罗德岛近卫干员？"] 从很早以前就开始了吗，内部清洗？
 [name="ロドス前衛オペレーター？"] 内部粛清とやらか。だいぶ前から始まってたのか？
+[name="Rhodes Island Guard?"] When did all this internal cleanup begin anyway?
+[name="로도스 아일랜드 가드 오퍼레이터?"] 내부 숙청이 이미 시작됐다는 건가? 그것도 오래전부터?
 
 [name="盾卫"]  不清楚。可能就是这几天的事。
 [name="盾兵"]  わからん。ここ数日のことかもしれん。
+[name="Shieldguard"]  No idea. My guess is it happened within the last few days.
+[name="방패병"]  글쎄, 아마도 최근의 일 같은데.
 
 [name="盾卫"]  但是，很明显的，塔露拉筹谋很久了。可恨，为什么就连我们也没能早点认出她的真面目？她这么会演戏吗，这个魔头！
 [name="盾兵"]  だが、タルラの策が付け焼き刃ではないのは確かだ……クソが！　なぜもっと早く彼女の正体に気付けなかった？　これほど芝居が上手いとは夢にも思わなかったぞ、あの悪魔め！
+[name="Shieldguard"]  One thing is clear, though. Talulah's been planning this for a long time. Damn it. I can't believe we didn’t even see through her facade until it was too late. She really strung us along, that monster!
+[name="방패병"]  하지만 분명한 건, 탈룰라가 아주 오랫동안 계획했다는 거야. 젠장, 우리도 진작 눈치채지 못했다니…… 연기 실력 한번 대단하군.
 
 [name="罗德岛近卫干员？"] 现在，塔露拉指挥着这些萨卡兹雇佣兵对付我们，不管他们是不是心甘情愿的。那还有杀死雇佣兵的必要吗？这是不是杀一儆百？
 [name="ロドス前衛オペレーター？"] タルラは今、サルカズの傭兵たちを指揮して俺たちに対抗してる。連中が望んでやってるかどうかは知らんがな。そんなタイミングで傭兵を殺す必要がどこにある？　何かの見せしめか？
+[name="Rhodes Island Guard?"] Regardless of whether they willingly obeyed her or not, it was Talulah who ordered the Sarkaz mercenaries to fight us. So is there a point to killing them off? What is she even trying to accomplish? Setting an example?
+[name="로도스 아일랜드 가드 오퍼레이터?"] 지금, 탈룰라는 살카즈 용병들을 지휘해 우리에게 맞서고 있어. 그것이 그들의 의지인지는 알 수 없는데, 용병을 과연 죽여야 하는 걸까? 일벌백계라도 하겠다 이거야?
 
 [name="罗德岛近卫干员？"] 不对，不可能......没人能威胁一个萨卡兹，更别说一群萨卡兹了。
 [name="ロドス前衛オペレーター？"] いや、違うな。あり得ない……見せしめのために同族を殺しても、それで言うことを聞くサルカズなんていないだろう。サルカズの一群ともなれば、なおのことだ。
+[name="Rhodes Island Guard?"] No, I doubt it... No one can threaten even a lone Sarkaz, let alone a whole group of them.
+[name="로도스 아일랜드 가드 오퍼레이터?"] 아니, 그럴리가…… 살카즈 하나를 위협할 수 있는 사람도 없는데, 살카즈 무리는 말할 것도 없겠지.
 
 [name="盾卫"]  呵，没错，“谁要是威胁魔族佬，魔族佬就会杀了谁”，你要问我们游击队这哥几个也是一样的。
 [name="盾兵"]  確かに。「魔族に牙を剥けば、魔族に殺される」だ。ほかの遊撃隊員に聞いても同じことを言うだろうな。
+[name="Shieldguard"]  Yeah, that's right. They do say that the devils will kill whoever that dares threaten them, and if you ask me, the ones we have in the guerrillas are living proof of that.
+[name="방패병"]  허, 그 말이 맞다, "마족을 위협하는 자는 마족이 죽인다." 이건 우리 다른 유격대원에게 물어봐도 똑같을 거다.
 
 [name="罗德岛近卫干员？"] 奇怪，他们要是因为追随W所以被杀了，那W究竟站在哪一边？
 [name="ロドス前衛オペレーター？"] おかしいな……彼らがＷに従っていたから殺されたんだとしたら、Ｗは一体どっち側なんだ？
+[name="Rhodes Island Guard?"] That makes no sense, then. If these guys were killed because they stuck with W, then whose side is W on?
+[name="로도스 아일랜드 가드 오퍼레이터?"] 이상해, 그들이 W를 쫓다가 죽임을 당한 것이라면, W는 도대체 누구 편인 거지?
 
 [name="？？？"]  那你猜猜看我站哪边？答对有奖哦。
 [name="？？？"]  どっち側だと思う？　正解したら、ご褒美をあげちゃおうかしら。
+[name="??? "]  Well, maybe you’d like to take a little guess? I just might give you a little something if you get it right.
+[name="???"]  그럼 내가 어느 편인지 맞혀볼래? 맞히면 상 줄게.
 
 [name="盾卫"]  站住！举起手来！
 [name="盾兵"]  止まれ！　手を上げろ！
+[name="Shieldguard"]  Stop where you are! Put your hands up!
+[name="방패병"]  멈춰! 손들어!
 
 [name="迷迭香"]  ——！
 [name="ロスモンティス"]  ――！
+[name="Rosmontis"]  —!
+[name="로즈몬티스"]  ……!
 
 [name="？？？"]  喔，喔，别动手。哇。好大的剑。罗德岛的新打手？
 [name="？？？"]  ちょっ！　ちょっと待ってよ。うわっ！　でっかい剣ね……誰？　ロドスの新しい用心棒？
+[name="??? "]  Now, now. Let’s not be hasty. Keep your weapons to yourselves. Wow. That's a big sword. New blood from Rhodes Island, I presume?
+[name="???"]  워~ 워~ 진정 좀 해. 와~ 검 한 번 정말 크네. 넌 누구야? 로도스 아일랜드의 새로운 졸개인가?
 
 [name="罗德岛近卫干员？"] ......W......！
 [name="ロドス前衛オペレーター？"] ……Ｗ！
+[name="Rhodes Island Guard?"] ...W...!
+[name="로도스 아일랜드 가드 오퍼레이터?"] ……W……!
 
 [name="罗德岛近卫干员？"] 就是你......就是你杀了Scout！
 [name="ロドス前衛オペレーター？"] お前か……お前がScoutさんを殺ったんだろ！
+[name="Rhodes Island Guard?"] It was you... You are the one who killed Scout!
+[name="로도스 아일랜드 가드 오퍼레이터?"] 바로 너…… 네가 스카우트 씨를 죽인 거지!
 
 [name="迷迭香"]  就是她？
 [name="ロスモンティス"]  この人がそうなの？
+[name="Rosmontis"]  Is that her?
+[name="로즈몬티스"]  저 여자가?
 
 [name="迷迭香"]  那Scout先生的仇就让我来报。
 [name="ロスモンティス"]  じゃあ、Scoutの仇は私が取る。
+[name="Rosmontis"]  Then I'll avenge Mr. Scout!
+[name="로즈몬티스"]  그럼 스카우트 씨의 복수는 내가 해줄게.
 
 [name="W"]  你在说什么？
 [name="W"]  何の話？
+[name="W"]  What are you talking about?
+[name="W"]  무슨 말을 하는 거야?
 
 [name="W"]  等等。小白猫，杀我可以，但我做的事我会认，不是我做的事我可不会认。
 [name="W"]  待って白猫ちゃん、あたしを殺そうとするのは別に構わないけど、自分がやってもいないことで責められるのは納得いかないわ。
+[name="W"]  Hold on, time out. White kitty, you can kill me all you want, and I'll admit to anything I've done, but I'm not gonna take the fall for something I didn’t do.
+[name="W"]  잠깐 거기 흰 고양이, 날 죽이는 건 딱히 상관 없는데, 내가 한 일은 내가 인정하겠지만, 내가 안 한 일까지 인정할 순 없지.
 
 [name="W"]  我得提醒那边那个穿成整合运动样子的罗德岛小哥。
 [name="W"]  そこのレユニオンの格好をしてるロドスのお兄さんにも、説明してあげなくちゃね。
+[name="W"]  And I gotta remind the Rhodes Island boy in Reunion cosplay over there...
+[name="W"]  일단 저기 리유니온 차림을 한 로도스 아일랜드 오빠한테도 말해줘야겠어.
 
 [name="W"]  我认得出你也记得你，是我放跑了你，你想一想，我完全不用把你让给老爷子的。
 [name="W"]  あんたのことはちゃんと覚えてるわ。あんたを逃がしてやったのはあたしだもの。考えてもみなさい、あんたをジジイに渡すメリットなんて、あたしには全くないでしょ？
+[name="W"]  Yeah, I can tell it's you. I remember you. Let me make this clear: I let you get away. Think about it, what good would it even do for me, turning you in to the old man?
+[name="W"]  누군지 기억나, 내가 널 풀어줬었지. 생각해 봐, 널 그 늙은이에게 넘길 필요가 내겐 전혀 없었다니까?
 
 [name="W"]  Scout是为你们罗德岛而死的。我是被迫取走了他的命。
 [name="W"]  Scoutはあんたたちロドスのために死んだのよ。あたしはそれに協力してあげただけ。
+[name="W"]  Scout died for Rhodes Island. I took his life only because I didn't have a choice.
+[name="W"]  스카우트는 너희 로도스 아일랜드를 위해 죽은 거야. 나도 어쩔 수 없었어.
 
 [name="W"]  听好，他完全可以一个人逃掉。他为了保住你和你们其他人的命，和我演了一出戏给整合运动看。
 [name="W"]  いい？　あいつは一人で逃げられた。けど、あんたやほかの連中の命を守るため、レユニオンに向けてあたしと一芝居打って見せたのよ。
+[name="W"]  Listen up. He could easily have gotten out of that without so much as a scratch. He just decided to put on a show with me for the Reunion folks to keep you and the others alive.
+[name="W"]  알겠어? 그 사람은 혼자 도망칠 수 있었어. 그런데도 너와 다른 녀석들의 목숨을 구하겠다고, 나랑 짜고 리유니온을 속인 거야.
 
 [name="W"]  你以为我愿意杀他？我愿意杀一个萨卡兹，一个萨卡兹里现在都没剩下几个的匿形大师，真正的神射手，下一个卡兹戴尔英雄胚子？
 [name="W"]  あたしが望んであいつを殺したと思ってんの？　サルカズの同胞を……サルカズでも有数の潜入スペシャリストを、真の狙撃手を、カズデルの英雄の卵を、あたしが喜んで殺したと思ってんの？
+[name="W"]  You think I wanted to kill him? Forget the fact he's a Sarkaz, you really think I would kill one of the last Sarkaz stealth masters left, one of the best elite marksmen out there, and, above all, the guy who could've been the next Kazdel hero?
+[name="W"]  너는 내가 그 사람을 죽이고 싶어한 줄 아는 거야? 한 명의 살카즈이자, 살카즈 중에서도 몇 남지 않은 은신 마스터이자, 진정한 사격의 명수이자, 차기 카즈델의 영웅이었던 그 사람을?
 
 [name="罗德岛近卫干员？"] 说谎！
 [name="ロドス前衛オペレーター？"] 嘘だ！
+[name="Rhodes Island Guard?"] Liar!
+[name="로도스 아일랜드 가드 오퍼레이터?"] 거짓말하지 마!
 
 [name="W"]  你冲我发脾气？！
 [name="W"]  あんた、あたしに八つ当たりする気！？
+[name="W"]  What are you going off on me for?!
+[name="W"]  어이가 없네, 지금 나한테 화내는 거야?!
 
 [name="W"]  你这家伙，也敢冲我发脾气？！
 [name="W"]  よくもまあ、そんな度胸があるわね！？
+[name="W"]  You little shit, how dare you go off on me?!
+[name="W"]  야, 지금 나한테 화 냈냐고!!!
 
 [name="W"]  我才要冲你发脾气！如果你本事大点，如果你们当场干死那条龙女，怎么还会死那么多人？
 [name="W"]  こっちこそあんたにはアタマ来てんのよ！　ちょっとでもあんたの腕が立ってたら、あんたたちがあの場で龍女を殺してたら、あんなに大勢の人が死ぬことはなかったのよ？
+[name="W"]  You know what, now I'll really go off on you. If you were actually as good as you say, you could've killed the dragon lady right there, and we'd be dealing with a lot less dead people!
+[name="W"]  화는 내가 너한테 내야지! 네가 뛰어났다면, 너희가 그 자리에서 탈룰라를 죽였다면 많은 사람을 살릴 수 있었을 거 아니야.
 
 [name="W"]  怎么还要我去杀Scout，去杀我看得起的人？
 [name="W"]  そのうえScoutを……あたしもそれなりに認めてたあいつを、あたし自身に殺させるなんて！
+[name="W"]  Why else would I even kill Scout, someone I really respected?!
+[name="W"]  내가 왜 스카우트를 죽이고, 왜 존경하는 사람을 죽여야 하는데!?
 
 [name="W"]  你是不是以为我是战争贩子？我告诉你，我是。是，没错，但和你们不一样，人的价值在我这里是有分级的。
 [name="W"]  あたしのことを戦争屋かなんかだと思ってるんでしょ？　そうよ、その通りよ。でも、あんたらとは違う。あたしの中じゃ、人はその価値によってランク分けされてんの。
+[name="W"]  You think I'm some kind of a sellsword, don't you? Sure, I'll tell you. Yes. Yes, I am. It's true, but unlike you guys, I rank people by their worth.
+[name="W"]  내가 전쟁 상인인 줄 알지? 그래, 맞아. 난 전쟁 상인이야. 하지만 난 너희랑 달라, 내겐 사람의 가치가 등급으로 나뉘어 있어.
 
 [name="W"]  Scout......你们给我听着！就算在巴别塔，Scout也是我觉得最有价值的战士。
 [name="W"]  Scoutは……あんたら、耳の穴をよーくかっぽじって聞きなさいよ！　たとえあのバケモノ揃いのバベルの中でも、Scoutは最上ランクの戦士だったわ！
+[name="W"]  Scout was... And listen up! To me, he was worth more than anyone else, even back in Babel.
+[name="W"]  스카우트는…… 잘 들어, 너희들! 스카우트는 바벨에서도 내가 가장 높은 가치를 매긴 전사였어.
 
 [name="W"]  他比我贵。
 [name="W"]  あいつは、あたしなんかよりもずっと価値がある。
+[name="W"]  I’d even say he’s worth more than me.
+[name="W"]  나보다도 가치가 높았지.
 
 [name="W"]  ......我再问一遍，你们究竟有什么价值让他为你们死掉？啊？
 [name="W"]  ……そんなあいつが犠牲になってでも守る価値が、一体あんたらのどこにあるっていうのよ、ええ！？
+[name="W"]  ...So let me ask you again: what is it about you that's actually worthy of his sacrifice? Huh?!
+[name="W"]  자…… 그럼 이제 다시 물어보자, 너희한텐 도대체 무슨 가치가 있었길래 스카우트가 너희를 위해 죽게 내버려둔 거야? 어?
 
 [name="罗德岛近卫干员？"] 你......
 [name="ロドス前衛オペレーター？"] お前……
+[name="Rhodes Island Guard?"] You...
+[name="로도스 아일랜드 가드 오퍼레이터?"] 어, 어떻게……
 
 [name="W"]  呃，咳，呸......
 [name="W"]  ……あー、コホン……えっと――
+[name="W"]  Ugh, ahem, pfft...
+[name="W"]  에잇, 기분 드럽게 진짜……
 
 [name="迷迭香"]  举起手。放下武器。我不相信你。
 [name="ロスモンティス"]  武器を下ろして、両手を上げて。あなたのことは信用しない。
+[name="Rosmontis"]  Put your hands up, and put your weapon down. I don't believe you.
+[name="로즈몬티스"]  손들어. 무기 내려놔. 난 널 믿지 않아.
 
+[name="W"]  ......
+[name="W"]  ……
 [name="W"]  ......
 [name="W"]  ……
 
 [name="W"]  我没被塔露拉烧个稀碎，没被凯尔希的怪物丢在墙上撞死已经很幸运了。
 [name="W"]  タルラに燃えカスになるまで燃やされなかったのも、ケルシーの化け物に叩き潰されなかったのも、最高にラッキーって感じであたしは上機嫌なの。
+[name="W"]  Look, I count myself plenty lucky that I wasn't burned to a crisp by Talulah or pinned against a wall and crushed to death by that monster Kal'tsit carries around.
+[name="W"]  난 내가 탈룰라한테 타 죽지 않고, 켈시의 그 괴물한테 벽에 던져져 죽지 않은 것만으로도 진짜 행운이라 생각하거든?
 
 [name="W"]  那现在，能不能别再烦我些有的没的......？不是手上的家伙大说话就更有道理的，否则炸死那么多人的我岂不是正确到爆开？
 [name="W"]  だからさ、今さらつまんないことで騒ぐのはやめてくんない？　武器がデカいからって、言ってることが正しいわけじゃないのよ。その理屈なら山ほど爆殺したあたしはとっくに正論の神よ。
+[name="W"]  So, I seriously mean it, can't you just leave me alone? Having the bigger gun doesn't make what you say more righteous. Otherwise, I'd be the just about most righteous person here, what with how many people I've blown up.
+[name="W"]  그러니까 이제 제발, 내 성질 좀 그만 긁어줄래? 손에 큰 검을 들고 있다고 네 말이 더 일리가 있는 건 아니잖아, 그렇게 따지면 그 많은 사람들을 죽인 내가 가장 맞는 말을 하는 사람이게?
 
 [name="W"]  顺便，凯尔希也说了，现在我和你们是站一边的。
 [name="W"]  それに、ケルシーも言ってたわね。今のあたしは、あんたらと同じ側だって。
+[name="W"]  While we're at it, Kal'tsit said so herself. We're on the same side right now.
+[name="W"]  게다가 켈시도 그렇게 말했는걸, 지금 나는 너희와 같은 편이라고.
 
 [name="W"]  我站你们这边。
 [name="W"]  つまり……あんたたちの、味方ってことよ。
+[name="W"]  I'm on your side.
+[name="W"]  나랑 너희는 같은 편이야.
 
 [name="W"]  要不要听录音？
 [name="W"]  録音でも聞く？
+[name="W"]  I even have a recording right here. Wanna take a listen?
+[name="W"]  녹음한 거 들려줘?
 
 [name="迷迭香"]  ......
 [name="ロスモンティス"]  ……
+[name="Rosmontis"]  ......
+[name="로즈몬티스"]  ……
 
 [name="迷迭香"]  你为什么那么急躁？
 [name="ロスモンティス"]  どうしてそんなに焦ってるの？
+[name="Rosmontis"]  Why are you in such a rush?
+[name="로즈몬티스"]  뭐가 그렇게 초조한 거지?
 
 [name="W"]  啊？你这小鬼也能读心吗还是怎么的？那你还不信我？
 [name="W"]  はぁ？　……何よこのガキ、心でも読めるの？　だったらなおさら信じなさいよ。
+[name="W"]  Huh? What, kid, do you read minds or something? Then how come you still don't believe me?
+[name="W"]  흐응? 뭐야 이 꼬맹인? 너 무슨 독심술 같은 거 쓰니? 그런데도 날 아직 못 믿어?
 
 [name="W"]  我当然急。再不干掉塔露拉，我的人就要都给她弄死了。
 [name="W"]  ええ、焦ってるわ。今すぐにでもタルラを片づけないと、あたしの部下がどんどんあいつのせいで死んじゃうのよ。
+[name="W"]  Of course I'm in a rush! If I don't kill Talulah soon, everyone I care about is gonna die!
+[name="W"]  나야 당연히 급하지. 빨리 탈룰라를 처리하지 않으면, 내 부하들이 다 죽게 생겼으니까.
 
 [name="W"]  萨卡兹雇佣兵有个缺点，在杀人之外的时候他们是不会审时度势的。
 [name="W"]  サルカズの傭兵はね、人を殺す時以外は状況を判断しないの。
+[name="W"]  The Sarkaz mercenaries have a fatal flaw. They don't ever give the situation any thought unless they’re out to kill someone.
+[name="W"]  살카즈 용병은 다 좋은데, 사람 죽일 때 빼곤 상황 파악을 잘 못 한다는 게 흠이라서 말이야.
 
 [name="W"]  你跟他们说什么，他们就会去做什么，原因无他，他们根本不在乎自己，不重视生命，自己的别人的，都无所谓。
 [name="W"]  あいつらは、何かを命令されれば言われた通りに実行するだけ……他人どころか、自分の命すらどうでもいいって思ってるような奴らなのよ。
+[name="W"]  Tell them to do something, and they'll do it, no questions asked. They don't care about themselves, and they don't care about other people's lives at all, let alone their own.
+[name="W"]  걔네들은 명령이라면 내용이 뭐든 무조건 다 할 거야. 왜 그렇게 까지 하냐고? 걔들은 애초부터 자기 자신을 신경 쓰지 않고, 목숨을 우습게 보거든. 남의 목숨이든 자기 목숨이든.
 
 [name="W"]  如果我再不去把他们重新搞回来，他们可就都要死了。
 [name="W"]  なんとかして連れ戻さないと、あいつらは確実に命を落とすわ。
+[name="W"]  My point is, if I don't go fetch them soon, they'll all be dead.
+[name="W"]  그러니까 내가 가서 걔들을 데려오지 않으면, 모두 죽고 말 거야.
 
 [name="盾卫"]  你能说服他们？
 [name="盾兵"]  説得でもして連れ戻すのか？
+[name="Shieldguard"]  You can convince them?
+[name="방패병"]  그들을 설득할 수 있다는 건가?
 
 [name="W"]  在杀了塔露拉之后吧。
 [name="W"]  まずはタルラを殺してからよ。
+[name="W"]  Let's save that till Talulah's dead.
+[name="W"]  그러려면 일단 탈룰라를 죽여야겠지만.
 
 [name="W"]  行了，浪费更多时间了，能给我让个路吗？
 [name="W"]  もういいでしょ？　これ以上は時間がもったいないわ。道を開けてくれない？
+[name="W"]  Alright, you've wasted enough of my time already. Move aside, will you?
+[name="W"]  됐어, 시간만 버렸네. 이제 길 좀 비켜줄래?
 
 [name="罗德岛近卫干员？"] ......
 [name="ロドス前衛オペレーター？"] ……
+[name="Rhodes Island Guard?"] ......
+[name="로도스 아일랜드 가드 오퍼레이터?"] ……
 
 [name="W"]  小哥，我就一句话。
 [name="W"]  お兄さん、一つだけ言っとくわ。
+[name="W"]  You, let me say just one thing.
+[name="W"]  거기 오빠, 한 마디만 할게.
 
 [name="W"]  别让他白死。
 [name="W"]  あいつの死を無駄にしないで。
+[name="W"]  Make his death mean something.
+[name="W"]  그 사람의 죽음을 헛되게 하지 마.
 
 [name="罗德岛近卫干员？"] ——
 [name="ロドス前衛オペレーター？"] ……
+[name="Rhodes Island Guard?"] ——
+[name="로도스 아일랜드 가드 오퍼레이터?"] ……
 
 [name="罗德岛近卫干员？"] 我真的有这个权力吗？
 [name="ロドス前衛オペレーター？"] 俺にその権利があるのか？
+[name="Rhodes Island Guard?"] Do I really have that right?
+[name="로도스 아일랜드 가드 오퍼레이터?"] 그 권리가 정말 내게 있을까?
 
 [name="迷迭香"]  你有。
 [name="ロスモンティス"]  あるよ。
+[name="Rosmontis"]  You do.
+[name="로즈몬티스"]  있어.
 
 [name="W"]  你有的。你的命是我的老同事们堆出来的。
 [name="W"]  もちろん。あんたはあたしの古い同僚たちが生かしたんだから。
+[name="W"]  Yeah, you do. You’re still around because of everything my old pals did.
+[name="W"]  있다니까. 네 목숨은 내 동료들이 쌓아 올린 거니까.
 
 [name="罗德岛近卫干员？"] ......啊......！
 [name="ロドス前衛オペレーター？"] ……チッ……！
+[name="Rhodes Island Guard?"] ...Ah...!
+[name="로도스 아일랜드 가드 오퍼레이터?"] 크읏……!
 
 [name="罗德岛近卫干员？"] 够了，够了！迷迭香，让她走吧！
 [name="ロドス前衛オペレーター？"] ロスモンティスさん、そいつを通してやってください……
+[name="Rhodes Island Guard?"] Fine, enough! Rosmontis, let her go!
+[name="로도스 아일랜드 가드 오퍼레이터?"] 됐어, 그만해! 로즈몬티스, 저 여자를 보내줘!
 
 [name="迷迭香"]  所以她说的是真的？她保护了阿米娅她们？
 [name="ロスモンティス"]  それじゃあ、この人が言ったのは本当のこと？　この人がアーミヤたちを守ったの？
+[name="Rosmontis"]  You mean she's telling the truth? She protected Amiya and everyone else?
+[name="로즈몬티스"]  저 여자 말이 진짜야? 저 여자가 아미야를 지켜줬어?
 
 [name="罗德岛近卫干员？"] 就相信我，也相信她这么一回。就这么一回。
 [name="ロドス前衛オペレーター？"] そいつを……俺に免じてそいつを信じてください。今回限りでいいですから。
+[name="Rhodes Island Guard?"] Trust me, and trust her this once. Just this once.
+[name="로도스 아일랜드 가드 오퍼레이터?"] 날 믿고, 저 여잘 한 번만 믿어보자. 이번 한 번만.
 
 [name="迷迭香"]  那好。
 [name="ロスモンティス"]  ……わかった。
+[name="Rosmontis"]  Okay.
+[name="로즈몬티스"]  알겠어.
 
 [name="W"]  所以我可以走了？
 [name="W"]  つまり、もう行っていいってこと？
+[name="W"]  So I'm good to go?
+[name="W"]  그럼 나 이제 가도 되지?
 
 [name="罗德岛近卫干员？"] ......走！
 [name="ロドス前衛オペレーター？"] ……行け！
+[name="Rhodes Island Guard?"] ...Scram!
+[name="로도스 아일랜드 가드 오퍼레이터?"] ……가!
 
 [name="罗德岛近卫干员？"] 别再让我看见你。
 [name="ロドス前衛オペレーター？"] 二度とその顔を見せるな。
+[name="Rhodes Island Guard?"] Don't ever let me see you again.
+[name="로도스 아일랜드 가드 오퍼레이터?"] 다시는 내 앞에 나타나지 마.
 
 [name="罗德岛近卫干员？"] ——别再让我看见你！
 [name="ロドス前衛オペレーター？"] ――二度と、だ！
+[name="Rhodes Island Guard?"] —Don't ever let me see you again!
+[name="로도스 아일랜드 가드 오퍼레이터?"] ……두 번 다시는!
 
 [name="W"]  那谢谢。放心吧，如果这回没杀掉这个龙女，我们肯定就没机会再见了。
 [name="W"]  ありがと。安心していいわ、またあの龍女を殺し損ねたら、あたしたちが再会することはもうないだろうから。
+[name="W"]  Well, thanks, and don't worry. If I screw this up, you sure as hell won't ever see me again.
+[name="W"]  고마워. 안심해, 만약 이번에 탈룰라를 죽인다면, 우리가 다시 만날 일은 없을 테니.
 
 [name="W"]  他们已经行了，现在，游击队兄弟们，你们呢？
 [name="W"]  みんなはこう言ってるんだけど、遊撃隊の諸君はどうかしら？
+[name="W"]  So, looks like they're fine with it. What do you say, guerrillas?
+[name="W"]  여긴 됐고, 이제 유격대 형제님들은?
 
 [name="盾卫"]  ......
 [name="盾兵"]  ……
+[name="Shieldguard"]  ......
+[name="방패병"]  ……
 
 [name="盾卫"]  大尉说过你不值得依赖。
 [name="盾兵"]  大尉はお前を信用するなと言っていた。
+[name="Shieldguard"]  The Captain told us you can't be trusted.
+[name="방패병"]  대위님께서 너는 믿을 만한 상대가 아니라고 하셨다.
 
 [name="W"]  我觉得那个老头说得一点都没错。我说的真真假假的东西太多，要从中发掘点有意义的东西还挺难。
 [name="W"]  あぁ、パトリオットのジジイね……まあ、ごもっともだと思うわ。あたしってほら、平気で嘘をつくでしょ？　そんなあたしから有意義なものを見出そうなんて、どう考えても無駄だもの。
+[name="W"]  I think the old boy's right. I've told way too many lies. Truths, too. It's definitely not easy to pick anything meaningful out of my words.
+[name="W"]  그 영감 말이 맞긴 하지. 내 말에는 거짓과 진실이 마구 섞여 있어서 그 속에서 의미 있는 걸 찾아내는 건 쉽지 않지.
 
 [name="W"]  我是没办法让你们正眼看我的，是不是？
 [name="W"]  あんたたちの信用はどうやっても得られない、そうでしょ？
+[name="W"]  I can't do anything about the way you guys see me, right?
+[name="W"]  나에 대한 편견을 없앨 방법은 없어 보이네, 그렇지?
 
 [name="W"]  但只有把塔露拉炸成灰这件事，我比谁都想干。
 [name="W"]  でもね……タルラを灰にするっていう執念についてなら、あたしは誰よりも深い自信があるわ。
+[name="W"]  But no one wants to blow her up more than I do, I can promise you that.
+[name="W"]  하지만 탈룰라를 재로 만드는 일만큼은 누구보다도 하고 싶어.
 
 [name="W"]  顺便，我可要说一句，你们，别老盯着别人的后背看。你根本不懂，你们不懂魔族身上发生了些什么。
 [name="W"]  それと、これは余計なお世話だろうけど、あんたらは他人の背中を見過ぎよ。魔族の身に何が起きたか、あんたらはちっともわかっていない。
+[name="W"]  I'll also say this: you should stop staring at other people's backs so much. You don't get it. You have no idea just what went down with the devils.
+[name="W"]  말 나온 김에 한마디 하자. 너희 말이야, 그렇게 다른 사람의 등만 쳐다보고 살지 좀 마. 너흰 전혀 몰라, 마족들한테 어떤 일이 일어났는지 전혀 모른다고.
 
 [name="W"]  你们不知道我这几个死了的雇佣兵是为什么而死的。别用那种眼神看我。
 [name="W"]  あたしの傭兵たちが何のために死んでったかだって知らないでしょうし。……ちょっと、なんて目であたしを見てんのよ。
+[name="W"]  You have no idea what my mercenaries died for. So, don't you dare look at me like that.
+[name="W"]  우리가 무엇 때문에 죽었는지 너희는 모르겠지. 그러니 제발 그런 눈으로 날 쳐다보지 좀 마.
 
 [name="W"]  哈。你们是不是就是用这种眼神看那个龙女的？
 [name="W"]  はぁ……あんたたち、まさかそんな目であの龍女を見てきたの？
+[name="W"]  Ha. Did you people give the dragon lady that look too?
+[name="W"]  정말이지… 너희, 혹시 탈룰라도 그런 눈빛으로 쳐다보니?
 
 [name="盾卫"]  ——
 [name="盾兵"]  ……
+[name="Shieldguard"]  ——
+[name="방패병"]  ……
 
 [name="盾卫"]  看你的伤，你已经和塔露拉交过手了。
 [name="盾兵"]  その傷、もうタルラと戦ったのか。
+[name="Shieldguard"]  Going by your wounds, I can see you've already fought Talulah.
+[name="방패병"]  상처를 보니, 이미 탈룰라와 맞붙은 적이 있나보군.
 
 [name="W"]  哈哈，那你眼神可真好，我站在你面前才十多分钟你就发现了。
 [name="W"]  ハハッ、会ってたったの十数分で気付くなんて、察しがいいのね！
+[name="W"]  Haha. Well, look at the eyes on this guy! Only took you about ten minutes.
+[name="W"]  하하, 눈썰미 좋네, 네 앞에 선지 십 분밖에 안 됐는데 그걸 알아채다니.
 
 [name="W"]  对，我和她干了一架。而且我还输了。
 [name="W"]  そうよ。盛大にやり合って、負けてきたわ。
+[name="W"]  That's right. I fought her. And I lost.
+[name="W"]  맞아, 탈룰라와 한판 붙었지. 그리고 내가 졌어.
 
 [name="盾卫"]  你伤得不轻，又打不赢，你想怎样？
 [name="盾兵"]  その傷……軽くはないな。どうせ勝ち目もないのに、どうするつもりだ？
+[name="Shieldguard"]  You're pretty heavily injured, you had your ass handed to you. What are you even hoping to accomplish?
+[name="방패병"]  패한 데다 중상까지 입은 몸으로 어쩔 셈이냐?
 
 [name="W"]  我还活着，已经够了。如果那个罗德岛的兔子做不到，那我就要再炸塔露拉一回。
 [name="W"]  死ななかっただけで十分よ。もしも、あのロドスの子ウサギちゃんがしくじったら、あたしがタルラをもう一回爆破すればいいだけ。
+[name="W"]  I'm alive. That's good enough. If the Rhodes Island bunny can't deal with her, then I'll give it another go and blow Talulah up again.
+[name="W"]  살아남은 것만으로도 난 충분해. 그 로도스 아일랜드의 토끼가 실패한다면, 내가 다시 탈룰라를 박살 내줄 거야.
 
 [name="盾卫"]  你不是她的对手。
 [name="盾兵"]  お前じゃあタルラの相手にもならんだろう。
+[name="Shieldguard"]  You don't stand a chance against her.
+[name="방패병"]  넌 탈룰라의 상대가 안 된다.
 
 [name="盾卫"]  你要去送死，我们不拦你。
 [name="盾兵"]  死にに行くというのなら、俺たちは止めないが。
+[name="Shieldguard"]  If you want to die, suit yourself. We won't get in the way.
+[name="방패병"]  죽음을 자초한다면 막지는 않으마.
 
 [name="W"]  我是可以绕道走的，朋友。我完全能。
 [name="W"]  言っておくけど、あたしはやろうと思えばあんたたちに会わないように回り道だってできたのよ。
+[name="W"]  Buddy, I know how to take detours. You know I do.
+[name="W"]  잔머리 하나는 내가 또 기가 막히거든.
 
 [name="W"]  我没想到你们会和罗德岛在一起，但我，我是来见你们一面的，我是特意来的。为了救你们一命。
 [name="W"]  つまりね、あたしはわざわざ会いに来たのよ。あんたたちを助けるためにね。まぁロドスと一緒にいるとは思わなかったけど。
+[name="W"]  I certainly didn't expect to see you guys running around with Rhodes Island, but I actually went out of my way to come meet you here. I'm here to save your lives.
+[name="W"]  그나저나 너희가 로도스 아일랜드에 붙은 줄은 정말 몰랐는데? 안 그래도 너희를 만나러 왔는데, 너희를 특별히 구해주려고 말이야.
 
 [name="W"]  看到我那些可怜兄弟的尸体了没？你们都该看看。
 [name="W"]  あたしの哀れな兄弟たちの死体はもう見たのかしら？　あれは見ておくべきよ。
+[name="W"]  Have you seen the bodies of my poor brothers strewn all around the ground here? Take a good look.
+[name="W"]  불쌍한 내 형제들 시신 본 적 없지? 그걸 봤어야 했는데.
 
 [name="W"]  各位兄弟，在这座城市里可不止剩下平民和整合运动啊。
 [name="W"]  この都市に残ってるのは、レユニオンと民間人だけじゃない。
+[name="W"]  My brothers, there's more than just civilians and Reunion folks left in the city.
+[name="W"]  이 도시에 남아 있는 건 평민과 리유니온 뿐만이 아니야.
 
 [name="W"]  乌萨斯的士兵穿着我们的衣服。
 [name="W"]  ウルサスの兵士があたしたちの服を着て紛れ込んでる。
+[name="W"]  The Ursus soldiers are wearing our clothes.
+[name="W"]  우르수스의 병사들이 지금 우리의 옷을 걸치고 있어.
 
 [name="盾卫"]  我们已经遇到过他们了。我们也已经做好了——
 [name="盾兵"]  奴らとならもう何度かやり合った。俺たちならとっくに――
+[name="Shieldguard"]  We've come across them already, and we are more than rea—
+[name="방패병"]  우리도 그들과 마주쳤다. 그리고 그에 대한 준비는……
 
 [name="W"]  做好了准备？你是不是想说你做好了准备？
 [name="W"]  「準備はできてる」……そう言いたいんでしょ？
+[name="W"]  More than ready? Seriously?
+[name="W"]  "준비는 다 됐다"…… 이렇게 말하고 싶은 거지?
 
 [name="盾卫"]  长舌。
 [name="盾兵"]  ペラペラとうるさい奴だ。
+[name="Shieldguard"]  Go climb a tree.
+[name="방패병"]  말이 많군.
 
 [name="W"]  我是说实话，我很少说实话。可别是做好了送死的准备。
 [name="W"]  たまにしか言わない本音なんだから、ちゃんと聞きなさい。死ぬ準備はできてるなんて考えるのはやめなさい。
+[name="W"]  I'm just trying to tell you the truth, and you know I don't do that often. You better not be ready to die.
+[name="W"]  난 사실대로 말하는 거야, 나는 바른 소리 잘 안 하는 편이라고. 그래도 너희가 죽을 준비를 사서 하진 않았으면 해서.
 
 [name="W"]  塔露拉既然敢搞这一套，说明她根本不在乎整合运动。她想整合运动死在这。
 [name="W"]  タルラにここまで仕組む度胸があるのはね、レユニオンなんて眼中にないからよ。あいつはレユニオンをここで消滅させるつもりよ。
+[name="W"]  If Talulah's doing all this, she clearly doesn't give a damn about Reunion at all. She wants Reunion to die right here.
+[name="W"]  탈룰라가 이렇게까지 한다는 건, 리유니온을 전혀 신경 쓰지 않는다는 뜻이야. 리유니온을 여기에서 죽일 생각인 거겠지.
 
 [name="W"]  再见，各位。只要运气好，我们就都能活下去。
 [name="W"]  それじゃあね。運が良ければ、あたしたちは全員生き残れるわ。
+[name="W"]  Anyway, this is where we say our goodbyes. If luck's on our side, maybe all of us will still be alive when this is over.
+[name="W"]  그럼 잘 있으라고. 운이 좋으면 우리 모두 살아남을 수 있겠지.
 
 [name="W"]  你们如果不信我，就试着去相信自己的运气吧。
 [name="W"]  あたしが信用できないなら、せいぜい運を味方につけるのね。
+[name="W"]  And if you don't believe me, then believe in your own luck, by all means.
+[name="W"]  날 못 믿겠다면 자신의 운을 믿어 봐.
 
 [name="W"]  祝各位好运。
 [name="W"]  好運を祈ってるわ。バァイ。
+[name="W"]  So let’s all hope it’s good.
+[name="W"]  그럼, 잘 해보라고, 바이~
 
 [name="凯尔希"] 我们已经十分接近石棺的核心了。
 [name="ケルシー"] 私たちはもうかなり、石棺の中心に近づいている。
+[name="Kal'tsit"] We're almost to the sarcophagus core.
+[name="켈시"] 석관의 중심에 가까이 접근했어.
 
 [name="凯尔希"] ......
 [name="ケルシー"] ……
+[name="Kal'tsit"] ......
+[name="켈시"] ……
 
 [Decision(options="你在担心什么？", values="1")]
 [Decision(options="何を心配している？", values="1")]
+[Decision(options="Are you worried about something?", values="1")]
+[Decision(options="뭘 걱정하는 거지?", values="1")]
 
 [name="凯尔希"] 我担心自己会保护不好你。
 [name="ケルシー"] 君を上手く守ってやれるかわからないということだ。
+[name="Kal'tsit"] I'm worried I won't be able to protect you.
+[name="켈시"] 널 제대로 지키지 못할까봐 걱정이다.
 
 [name="凯尔希"] 不，Dr.{@nickname}，总有一天我会保护不了你。
 [name="ケルシー"] いや、Dr.{@nickname}。私が君を守れなくなる日は、いつか必ず訪れる。
+[name="Kal'tsit"] Actually, Dr. {@nickname}, there will come a day I won't be able to protect you.
+[name="켈시"] 아니, {@nickname} 박사. 언젠가 널 지키지 못할 날이 올 거야.
 
 [name="凯尔希"] 首先，太多超出我们预想的力量在这大地上相互博弈，他们天灾般的暴力行径，既会带来无法预知的问题，也会带来出乎预料的死亡。
 [name="ケルシー"] この大地のいたるところで、私たちの予想を遥かに超える沢山の力がぶつかり合っている……天災にも匹敵する彼らの暴力的行為は、予期せぬ問題や死をもたらすかもしれない。
+[name="Kal'tsit"] First, there's simply far more factions than anticipated fighting against each other. Their penchant for violence is no less destructive than the Catastrophes, and not only will that present unexpected problems, it will also bring with it deaths that we simply could not have anticipated.
+[name="켈시"] 이 세상엔 우리의 예상을 뛰어넘는 수많은 힘이 서로 싸우고 있어. 천재지변과 같은 폭력은 예상 밖의 문제를 일으키기도 하고, 뜻밖의 죽음을 불러오기도 하지.
 
 [name="凯尔希"] 即使知道一切，也未必能改变一切，这是众多悲剧的根源，也是许多旅程的开始。
 [name="ケルシー"] すべて予め知っていたとしても、それを変えられるとは限らない。これは数多の悲劇の根源であり、数多の旅の始まりでもある。
+[name="Kal'tsit"] Even if we knew everything, it doesn't necessarily mean we would be able to change everything. It's precisely this that gave rise to so many tragedies, and it's also the beginning of many journeys.
+[name="켈시"] 모든 걸 알고 있다고 해도 그걸 바꿀 순 없어. 그게 바로 수많은 비극의 원인이자, 수많은 여정의 시작이기도 하다.
 
 [name="凯尔希"] 其次，Dr.{@nickname}......
 [name="ケルシー"] そして、Dr.{@nickname}……
+[name="Kal'tsit"] Secondly, Dr. {@nickname}...
+[name="켈시"] {@nickname} 박사……
 
 [name="凯尔希"] 你是否的确是一个值得我去保护的人？
 [name="ケルシー"] 君は本当に守る価値のある人なのだろうか？
+[name="Kal'tsit"] Are you really worthy of my protection?
+[name="켈시"] 너는 내가 지켜야 할 가치가 있는 사람이 확실한가?
 
 [Decision(options="还猜谜？！;......;我难道不值得你这么做吗，凯尔希医生？", values="1;2;3")]
 [Decision(options="ここでクイズか？;……;自分は守るに値しないのか？　ケルシー先生。", values="1;2;3")]
+[Decision(options="Another one of your riddles?! ;......;You don't think I'm worth protecting, Dr. Kal'tsit?", values="1;2;3")]
+[Decision(options="지금 이 상황에 퀴즈를 내는 건가?;……;내게 그럴 가치가 없다는 것인가, 닥터 켈시?", values="1;2;3")]
 
 [name="凯尔希"] 这只是利用信息不对等对你施加压力。
 [name="ケルシー"] 今のはただ、情報の非対称性を利用して君に圧をかけただけだ。
+[name="Kal'tsit"] I'm just putting on some pressure with information asymmetry.
+[name="켈시"] 난 단지 불평등한 정보를 이용해 널 궁지에 모는 것뿐이야.
 
 [name="凯尔希"] 当然，逼急了就算是卡特斯也会咬人。
 [name="ケルシー"] 当然、追い詰められれば温厚なコータスでさえ牙をむく。
+[name="Kal'tsit"] Of course, Cautuses will bite if it comes down to it.
+[name="켈시"] 물론, 궁지에 몰리면 카우투스도 사람을 무는 법이지.
 
 [name="凯尔希"] 但把答案直接告诉你，只是让你更加怀疑事实。你应当自己争取真相，或者等待它直接向你打开。
 [name="ケルシー"] ただ答えを直接伝えても、君は今まで以上に真実を疑うだけだ。ならば、自分から真相を掴みに行くか、それが開示されるのを待つ方がいい。
+[name="Kal'tsit"] But if I just handed you the answer, it'd only make you be even more suspicious of the truth. You have to either fight for the truth yourself or wait for the answer to reveal itself.
+[name="켈시"] 답을 알려주면 너는 진실을 더욱 의심하게 되겠지. 그러니 네가 직접 진실을 밝히거나, 진실의 문이 열릴 때까지 기다리도록 해.
 
 [name="凯尔希"] 你不会回答我的。
 [name="ケルシー"] 君は、答えてはくれないだろうな。
+[name="Kal'tsit"] You won't answer me.
+[name="켈시"] 너는 내게 답해 주지 않겠지.
 
 [name="凯尔希"] 我很清楚......因为你以前就是这样一个人。
 [name="ケルシー"] 私にはわかる……君は昔から、そういう人だった。
+[name="Kal'tsit"] I can tell... After all, this is the person you used to be.
+[name="켈시"] 잘 알고 있어…… 너는 예전에도 이랬거든.
 
 [name="凯尔希"] 只是你不是那个人。Dr.{@nickname}，答应我，你和过去的不是同一个人。
 [name="ケルシー"] だが、今の君は違う。Dr.{@nickname}、約束してくれ。君は過去の君とは違うということを。
+[name="Kal'tsit"] But you aren't the same. Dr. {@nickname}, promise me you aren't the person you once were.
+[name="켈시"] 하지만 넌 그 사람이 아니잖아. {@nickname} 박사, 대답해. 넌 과거와는 다르다고.
 
 [name="凯尔希"] 啊。
 [name="ケルシー"] フゥ……
+[name="Kal'tsit"] Well.
+[name="켈시"] 하아……
 
 [name="凯尔希"] 我有对你下过咒吗，Dr.{@nickname}？这个咒语解开了，然后反扑在我身上？
 [name="ケルシー"] 私は君を呪ったことがあっただろうか、Dr.{@nickname}？　今その呪文が解け、私の身に返ってきたのか？
+[name="Kal'tsit"] Have I ever placed a curse on you, Dr. {@nickname}? You broke the curse, and now you're using it on me?
+[name="켈시"] 내가 너에게 저주를 내린 적이라도 있나, {@nickname} 박사? 그 저주가 풀려서 이제 내게 뒤집어씌우는 거야?
 
 [name="凯尔希"] 值得与否不是我来判断的。
 [name="ケルシー"] 価値があるかどうか――それは、私が判断することじゃない。
+[name="Kal'tsit"] Whether you are worthy or not is not for me to decide.
+[name="켈시"] 가치가 있는지 없는지는 내가 판단할 일이 아니야.
 
 [name="凯尔希"] 即使是不值得，我也会这么做，理由的话，一会儿我也许有机会说给你听。
 [name="ケルシー"] たとえ価値がなくとも、私は同じことをするだろうな。理由は……機会があれば教えよう。
+[name="Kal'tsit"] Even if you aren't worthy, I will still do it. As for why, I suppose I will just have to tell you later on.
+[name="켈시"] 설령 가치가 없다 해도 나는 그렇게 할 거다. 그 이유라면, 조금 이따 너에게 설명할 기회가 있을 거야.
 
 [name="凯尔希"] ——牧群！
 [name="ケルシー"] ――サルカズの特殊感染者か！？
+[name="Kal'tsit"] —The Herd!
+[name="켈시"] ……살카즈의 가축 떼다!
 
 [name="萨卡兹牧群"] 你们到哪去？
 [name="サルカズの群れ"] どこへ行く？
+[name="Sarkaz Herd"] Where you two going?
+[name="살카즈 가축 떼"] 어디 가는 거냐?
 
 [name="萨卡兹牧群"] 回家吗？回回回回家吗？
 [name="サルカズの群れ"] 帰るのか？　かかかか帰るのか？
+[name="Sarkaz Herd"] Home? H-Ho-Home?
+[name="살카즈 가축 떼"] 집에 가? 지지지지지집에 가?
 
 [name="凯尔希"] ......
 [name="ケルシー"] ……
+[name="Kal'tsit"] ......
+[name="켈시"] ……
 
 [name="凯尔希"] 可以断定，整个核心区的萨卡兹雇佣兵都已经遭到了转化。
 [name="ケルシー"] 中枢エリアのサルカズ傭兵たちは、全員が転化してしまっていると断定していいだろう。
+[name="Kal'tsit"] One thing is clear. All the Sarkaz mercenaries in the core have turned.
+[name="켈시"] 코어 구역의 살카즈 용병들은 전부 변했다고 봐야겠군.
 
 [name="凯尔希"] 各位干员，打开自净开关。
 [name="ケルシー"] オペレーター各位、浄化モードをオンにしろ。
+[name="Kal'tsit"] All operators, switch your self-cleansing devices on.
+[name="켈시"] 각 오퍼레이터들은, 정화 스위치를 켜라.
 
 [name="凯尔希"] 在拯救他人的生命之前，先保护好自己的。
 [name="ケルシー"] 他人の命を救う前に、まずは自分を守るんだ。
+[name="Kal'tsit"] Protect yourselves before you try to protect anyone else.
+[name="켈시"] 다른 사람의 목숨을 구하기 전에 자신부터 지켜야 한다.
 
 [name="凯尔希"] 阿米娅......你真的要承载起这样不幸的种族的命运吗？
 [name="ケルシー"] アーミヤ……君はこの不幸な種族の運命を、本気で背負うつもりなのか？
+[name="Kal'tsit"] Amiya... Are you really going to carry the burden of this unfortunate race's fate?
+[name="켈시"] 아미야…… 넌 정말 이 불행한 종족의 운명을 짊어지려는 거냐?
 
