@@ -1,0 +1,530 @@
+[name="嘉维尔"]  博士，我们已经来到雨林深处了。
+[name="ガヴィル"]  ドクター、もうかなりジャングルの奥に来てるぜ。
+[name="Gavial"]  Doctor, we’re pretty deep in the rainforest now.
+[name="가비알"]  박사, 정글 깊숙한 곳까지 왔어.
+
+[name="嘉维尔"]  这里比之前还要潮湿，树木也要更加茂密。
+[name="ガヴィル"]  転ばないように気をつけろよ。
+[name="Gavial"]  It’s a lot more humid here, and the trees get way denser too.
+[name="가비알"]  이제부턴 더 습해질 거야, 나무도 더욱 무성할 거고.
+
+[name="嘉维尔"]  注意你的脚下，小心别被绊倒了。
+[name="ガヴィル"]  ここいらは足元がぬかるんでるし、木が覆い茂ってて根っこだらけだからな。
+[name="Gavial"]  Watch your footing. Don’t trip.
+[name="가비알"]  걸려 넘어지지 않게 발 밑 조심해.
+
+[name="嘉维尔"]  前面有一个部族，我们可以过去看看。
+[name="ガヴィル"]  お、ありゃどこの部族だ？　行ってみようぜ。
+[name="Gavial"]  There’s a tribe up ahead. Let’s go take a look.
+[name="가비알"]  앞쪽에 부락이 있는 거 같은데, 잠깐 가보자.
+
+[name="依娜姆"]  呼啊，好无聊，睡个午觉好了......
+[name="イナム"]  ふあ～暇ねぇ、ちょっと昼寝しよっと……
+[name="Inam"]  *Yawn*... It’s so boring here... I’m gonna take a nap...
+[name="이남"]  후아암~ 심심한데 낮잠이나 때려볼까……
+
+[name="嘉维尔"]  依娜姆！
+[name="ガヴィル"]  イナム！
+[name="Gavial"]  Inam!
+[name="가비알"]  이남!
+
+[name="依娜姆"]  嘉维尔？我听说你在祭典上被祖玛玛打败了，怎么到我这来了？
+[name="イナム"]  ガヴィル？　どうして私のところに？　祭典じゃズゥママに負けたらしいわね。
+[name="Inam"]  Gavial? I heard you fought Zumama at the festival and got your ass handed to you. What are you doing here?
+[name="이남"]  가비알? 너 제전에서 주마마한테 졌다면서, 여긴 왜 온 거야?
+
+[name="嘉维尔"]  消息真灵通啊，依娜姆。
+[name="ガヴィル"]  耳が早いじゃねぇか、イナム。
+[name="Gavial"]  Well, news sure gets to you fast, Inam.
+[name="가비알"]  소식이 정말 빠르구나, 이남.
+
+[name="嘉维尔"]  不过，听特米米提到的时候我还不信，没想到你这家伙还真当上部族的头领了。
+[name="ガヴィル"]  しっかし、トミミから話を聞いたときは正直信じられなかったが……まさかお前が本当に、部族の族長になっちまうとはな。
+[name="Gavial"]  I gotta say, I thought Tomimi was pulling my leg when she said you’re a tribal leader now, but here you are.
+[name="가비알"]  토미미한테 들었을 땐 솔직히 안 믿었는데, 네가 진짜 족장이 될 줄이야.
+
+[name="依娜姆"]  我也不想的啊，这帮人擅自要跟着我，我有什么办法。
+[name="イナム"]  好きでやってるわけじゃないわよ。でもこの人たちが勝手についてくるんだもの、仕方ないでしょ。
+[name="Inam"]  It wasn’t my decision. What can I do if they all want to follow me?
+[name="이남"]  나도 싫거든? 근데 별수 없잖아. 이 사람들이 제멋대로 날 따른다고.
+
+[name="嘉维尔"]  你怎么没有来祭典？
+[name="ガヴィル"]  それより、なんで祭典に来なかったんだ？
+[name="Gavial"]  So why didn’t you come to the ceremony?
+[name="가비알"]  제전에는 왜 안 온 거야?
+
+[name="嘉维尔"]  博士，这就是特米米介绍过的依娜姆了。
+[name="ガヴィル"]  あ、ドクター。こいつがトミミが言ってたイナムだ。
+[name="Gavial"]  Doctor, this is Inam, the girl Tomimi mentioned before.
+[name="가비알"]  박사, 이 녀석이 바로 토미미가 소개했던 이남이야.
+
+[Decision(options="你好。;......;嗨！",values="1;2;3")]
+[Decision(options="はじめまして。;……;やあ！",values="1;2;3")]
+[Decision(options="Hello.;......;Wassup?",values="1;2;3")]
+[Decision(options="안녕하세요.;……;여!",values="1;2;3")]
+
+[name="依娜姆"]  哇，是活的外地人。
+[name="イナム"]  わあ、外の生きた人じゃない。
+[name="Inam"]  Whoa, a real, live outsider.
+[name="이남"]  와… 살아있는 외지인이네.
+
+[name="依娜姆"]  嘉维尔，这是你在外面带回来的朋友？怎么这么害羞。
+[name="イナム"]  外のお友達？　シャイな人ね。
+[name="Inam"]  Is this one of your friends from out there? Kinda shy, huh?
+[name="이남"]  가비알, 네가 바깥에서 데려온 친구야? 왜 이렇게 부끄러워해.
+
+[name="嘉维尔"]  博士只是不怎么喜欢说话而已。
+[name="ガヴィル"]  ドクターは無口なだけだ。
+[name="Gavial"]  The Doctor just doesn’t talk much.
+[name="가비알"]  박사는 원래 말이 별로 없어.
+
+[name="依娜姆"]  哟！嘉维尔，你这个朋友和你一样开朗啊。
+[name="イナム"]  はあい！　ガヴィル、この人あんたみたいに明るいのね。
+[name="Inam"]  Yo! Gavial, you’ve got a pretty cheerful friend there. Just like you.
+[name="이남"]  여어! 가비알, 네 친구도 너처럼 사람이 밝네.
+
+[name="嘉维尔"]  嗯？依娜姆，怎么你也会萨尔贡语？
+[name="ガヴィル"]  あれ？　イナム、なんでお前までサルゴン語がわかんだよ？
+[name="Gavial"]  Hm? Inam, how come you know Sargonian too?
+[name="가비알"]  어? 이남, 너도 사르곤어를 할 줄 아는 거야?
+
+[name="依娜姆"]  我的官方身份是这一带的信使啊。
+[name="イナム"]  これでも正式にはこの辺り一帯のトランスポーターだもの。
+[name="Inam"]  Well, officially, I’m the Messenger for these parts here.
+[name="이남"]  내 공식적인 신분은 이 일대의 전달자니까.
+
+[name="嘉维尔"]  信使？哈？
+[name="ガヴィル"]  トランスポーター？　お前が？
+[name="Gavial"]  Messenger? Huh?
+[name="가비알"]  전달자? 니가?
+
+[name="依娜姆"]  你......唉，算了，你这个反应，好歹看得出你已经知道信使是什么了。
+[name="イナム"]  なによその反応……。でもトランスポーターが何なのかは知ってるのね。
+[name="Inam"]  You... whatever. I can tell you at least know what a Messenger is.
+[name="이남"]  반응이 왜 그래…… 에휴, 됐다. 네 반응을 보니까 너도 전달자가 뭔지 아는 모양이네.
+
+[name="依娜姆"]  不像别的家伙，我就算跟他们说信使，他们也不知道是什么东西。
+[name="イナム"]  他の人たちに言ってみても、なにそれって顔をされるだけなのに。
+[name="Inam"]  Not like the boneheads here. Even if I told them, they wouldn’t have any idea what it actually means.
+[name="이남"]  다른 녀석들은 내가 전달자라고 말해줘도 그게 뭔지 모르더라고.
+
+[name="嘉维尔"]  等等，你什么时候变成信使的？
+[name="ガヴィル"]  ちょっと待て、お前いつトランスポーターになったんだ？
+[name="Gavial"]  Wait up. When did you become a Messenger?
+[name="가비알"]  잠깐, 언제부터 전달자가 된 거야?
+
+[name="依娜姆"]  我从一开始就是信使......
+[name="イナム"]  いつって、最初からずっとトランスポーターだけど……
+[name="Inam"]  I’ve always been a Messenger...
+[name="이남"]  언제부터는 무슨, 처음부터 전달자였는데……
+
+[name="依娜姆"]  这里好歹也是萨尔贡境内诶，你该不会觉得萨尔贡对这一片区域真的一无所知吧。
+[name="イナム"]  ここだって一応サルゴン領内よ。……まさかあんた、サルゴン政府はここのことを何にも知らないなんて思ってないでしょうね？
+[name="Inam"]  We're still technically within Sargon territory. You can't possibly think they know absolutely nothing about this whole area?
+[name="이남"]  여긴 어찌 됐든 사르곤의 영토잖아. 사르곤이 이쪽에 대해 진짜로 아무것도 모른다고 생각하는 건 아니겠지?
+
+[name="嘉维尔"]  啥，不是吗？
+[name="ガヴィル"]  え、違うのか？
+[name="Gavial"]  Huh? They don’t though?
+[name="가비알"]  어? 그런 거 아니었어?
+
+[name="依娜姆"]  当然不是，据我所知，这里几百年前，其实是萨尔贡某聚落的一个矿场。
+[name="イナム"]  もちろん違うわよ。私の知る限り、ここは数百年前まで、サルゴンのとある集落の採掘場だったのよ。
+[name="Inam"]  Of course not! As far as I know, a couple centuries ago, this actually used to be a Sargon mining colony.
+[name="이남"]  당연히 아니지. 내가 알기론, 사실 이곳은 몇백 년 전 사르곤의 어떤 부락 소유의 광산이었어.
+
+[name="依娜姆"]  但是当时因为天灾的原因，那座移动城市离开了，这片矿场也就废弃了。
+[name="イナム"]  でも天災で移動都市が離れてから、採掘場は廃れてしまったの。
+[name="Inam"]  When the Catastrophe happened, the whole nomadic city moved away, and they ended up abandoning the mine.
+[name="이남"]  하지만 재앙 때문에 이동도시는 다른 지역으로 떠났고, 광산도 폐기되고 말았지.
+
+[name="依娜姆"]  当时留下的人以及后来回来的人基本形成了现在的人口。
+[name="イナム"]  今ここにいる人たちは、その時に残った人と、その後戻ってきた人たちの末裔ってわけ。
+[name="Inam"]  The people who got left behind and the ones who came back later are our ancestors here.
+[name="이남"]  그때 남았던 사람들과 나중에 돌아온 사람들이 이곳의 거주민이 된 거고.
+
+[name="依娜姆"]  原本官方好像也是想过把最近的移动城市开过来重新利用一下的想法。
+[name="イナム"]  サルゴン政府は元々、天災が落ち着いたら一番近くにいる移動都市を呼んで、採掘場を再利用するつもりだったみたいけどね。
+[name="Inam"]  And I guess the higher-ups out there are thinking about repositioning those newer cities here to start putting the mine to use again.
+[name="이남"]  원래는 정부도 가장 가까운 이동도시를 옮겨와서 광산을 다시 쓰려고 했다나 봐.
+
+[name="依娜姆"]  就十几年前，你也知道的那次。
+[name="イナム"]  ほら、十何年前に来たあれよ。あんたも覚えてるでしょ。
+[name="Inam"]  Like that time some ten years ago. You know the one.
+[name="이남"]  바로 십여 년 전, 너도 아는 그때 말이야.
+
+[name="嘉维尔"]  哦，那一次啊，我和祖玛玛都看到过，那家伙从那天起就变得怪怪的。
+[name="ガヴィル"]  ああ、あれか。ズゥママも知ってるはずだ、あいつはあの日からおかしくなっちまったんだ。
+[name="Gavial"]  Oh, you mean that one time? Both Zumama and I saw it. That’s also the day she started acting really strange.
+[name="가비알"]  아, 그때인가. 나랑 주마마 모두 봤었지. 그 녀석은 그날부터 이상하게 변했고.
+
+[name="依娜姆"]  是吗？哎，不过最后我也不知道是因为什么放弃了，大概是勘测了一下发现这片矿区没有那么有价值吧。
+[name="イナム"]  そうなの？　でも、あの都市は結局行ってしまった。きっと調査してみたら、この鉱脈には大した価値がないってわかったんでしょうね。
+[name="Inam"]  Oh yeah? Well, I don’t really know why they gave up on the idea. They probably had someone survey the area and realized the mine didn’t have much value at all.
+[name="이남"]  그래? 휴… 결국 왜 폐기되었는진 모르겠지만, 아마도 탐사 결과 이 광산에 그럴 만한 가치가 없다고 판단했겠지.
+
+[name="依娜姆"]  毕竟如果要把城市停在这片区域，和别的城市的距离就太远了。
+[name="イナム"]  ま、ここに都市を泊めたら、他の都市から離れすぎちゃうしね。
+[name="Inam"]  If they did park a city here, it’s gonna end up pretty far away from all the other ones.
+[name="이남"]  어쨌든 도시를 이 구역에 정박시키게 되면, 다른 도시랑은 거리가 너무 멀어지니까.
+
+[name="依娜姆"]  听说很久以前这片无人区好像还是挺繁荣的，也不知道是多久以前了。
+[name="イナム"]  昔はこの無人地帯も結構栄えてたらしいけど……どれほど昔のことなんだか。
+[name="Inam"]  I heard this stretch of no man’s land used to be a pretty prosperous place. No idea how long ago, though.
+[name="이남"]  이 황량한 땅도 예전엔 꽤 번영했었대. 얼마나 오래전 얘긴지는 모르겠지만.
+
+[name="依娜姆"]  算了，不说这个，反正我大概嗯？是几岁来着？算了，反正成为信使后就被派到这里来了。
+[name="イナム"]  まあそれはともかく、私がまだ、えーっと、何歳だったかしら？　とにかく小さい頃にトランスポーターになって、それからここに派遣されたの。
+[name="Inam"]  Well, whatever. Let’s talk about something else. I mean, I was like, uh...? How old was I again? Whatever, they sent me here after I became a Messenger.
+[name="이남"]  됐다, 이 얘기는 그만하자. 어쨌든 난 얼추…… 음? 몇 살 때였더라? 아무튼 난 전달자가 되고 나서 여기로 파견됐어.
+
+[name="嘉维尔"]  哦。
+[name="ガヴィル"]  へぇ。
+[name="Gavial"]  Oh.
+[name="가비알"]  어.
+
+[name="依娜姆"]  唉，我难得找到人说这些话题，你就不能假装听得津津有味一点。
+[name="イナム"]  はぁ、やっとこの話ができる人に会えたと思ったのに……せめて興味があるふりくらいしてよ。
+[name="Inam"]  Sheesh, I don’t get to talk about this very often. Can’t you at least pretend to be a little interested?
+[name="이남"]  진짜! 모처럼 이런 얘기를 꺼낼 만한 사람을 만났는데, 좀 흥미로운 척이라도 해주면 덧나냐.
+
+[name="嘉维尔"]  麻烦。不过，既然你是信使，为什么我感觉以前从没见你离开过这里？
+[name="ガヴィル"]  めんどくせぇヤツだな。つーかトランスポーターだったら、頻繁に外と行き来するんじゃねぇのか？　アタシはお前がここから出ていくのを見たことないんだが。
+[name="Gavial"]  Nope, sounds like a pain. But if you’re the Messenger here, how come I haven’t ever seen you leave this place?
+[name="가비알"]  아 몰라 귀찮아. 그런데 난 왜 전달자인 네가 여길 떠나있는 걸 한 번도 본 적이 없는 것 같지?
+
+[name="依娜姆"]  那当然是因为，这里这么封闭，我除了想去城里买点东西，根本没有信要寄啊！
+[name="イナム"]  そりゃそうよ。外に出たって、街で買い物するくらいしかすることないわ。こんな閉鎖的なところから、外に手紙を出そうとする人なんていないもの。
+[name="Inam"]  Of course you haven’t. You know how shut off we are? I’ve been outside to shop, but no one’s ever had anything for me to mail!
+[name="이남"]  그건 당연히 여기가 폐쇄적이니까 그렇지. 밖으로 편지 한 통 안 보내는 게 여기 사람들이잖아. 밖에 나갈 일이 도시로 나가서 물건 살 때 말곤 없는걸.
+
+[name="依娜姆"]  从我开始当信使到今天，真正出去了还和这里有联系的人，只有你一个！
+[name="イナム"]  どういうことかわかる？　ここを出て行った後も連絡がつく人は、私がトランスポーターになってから今までで、あんた一人だけなのよ！
+[name="Inam"]  From the day I became a Messenger to this very day, you’re the only person who’s still had contact with this place after you left!
+[name="이남"]  내가 전달자가 되고 지금까지, 바깥으로 나간 뒤에도 이곳과 연락을 주고받은 사람은 너 하나밖에 없었다고!
+
+[name="依娜姆"]  因为实在没事做，我干脆就没事去最近的城市买点东西回来和大家做做生意。
+[name="イナム"]  はぁ……まぁそれで、あまりにもやることがないから、一番近い街から商品を仕入れて商売をするようになったの。
+[name="Inam"]  And since I’ve got absolutely nothing to do, I’ve been trading things I buy from nearby cities to make a quick buck.
+[name="이남"]  근처 도시에서 물건 떼어 와서 여기서 장사 시작한 것도, 다 할 일이 너~무 없어서 그랬던 거야.
+
+[name="依娜姆"]  久而久之，就变成大家口中做生意的依娜姆了。
+[name="イナム"]  そしていつの間にか、「商売人イナム」って呼ばれるようになってたわ。
+[name="Inam"]  And before you know it, I’m everybody’s favorite shopkeeper, Inam.
+[name="이남"]  이러다보니 다들 '장사꾼 이남'이라 부르게 된 거지.
+
+[name="嘉维尔"]  原来如此，我以前都没发现。
+[name="ガヴィル"]  なるほどな、まったく気づかなかった。
+[name="Gavial"]  How about that. I never knew.
+[name="가비알"]  그랬구나… 전엔 전혀 몰랐어.
+
+[name="依娜姆"]  就你以前那样能发现才怪了......
+[name="イナム"]  昔のあんたじゃそうでしょうね……
+[name="Inam"]  With how you used to be, I’d be more surprised if you did...
+[name="이남"]  하긴, 예전의 네가 안다는 게 더 이상하겠지……
+
+[name="依娜姆"]  不过，虽然我算是在城市里长大，现在我也更喜欢在这边的生活就是了。
+[name="イナム"]  私は都会育ちだけど、今はこっちの生活の方が気に入ってるわ。
+[name="Inam"]  But well, even though I grew up in the city, I definitely prefer living here.
+[name="이남"]  그래도 뭐, 내가 도시에서 자라긴 했어도, 지금 난 이곳 생활이 더 좋아.
+
+[name="依娜姆"]  简简单单，没什么不好的。
+[name="イナム"]  何もかもシンプルで純粋で、悪いところなんて一つもないもの。
+[name="Inam"]  It’s simple and laidback. What’s not to like?
+[name="이남"]  아주 단순하잖아. 나쁜 게 없어.
+
+[name="嘉维尔"]  我也一直都觉得你和雨林里其他黎博利没啥区别。
+[name="ガヴィル"]  アタシはお前のことも他のリーベリと同じように純粋なヤツだとしか思ってなかったぜ。
+[name="Gavial"]  You don’t really seem all that different from the other Liberi here, either.
+[name="가비알"]  나도 줄곧 네가 정글의 다른 리베리들이랑 별 차이 없다고 생각했어.
+
+[name="依娜姆"]  我就当你是在夸我了，所以你找我有什么事？
+[name="イナム"]  誉め言葉として受け取るわ。それで、私に何の用かしら？
+[name="Inam"]  I’ll take that as a compliment. Anyway, what are you doing here?
+[name="이남"]  칭찬으로 들을게. 그래서, 왜 날 찾아온 거야?
+
+[name="嘉维尔"]  我先问一问，AUS是怎么回事？不会是你找来的吧？
+[name="ガヴィル"]  じゃあまず一個質問だけど、前にAUSが来たってのはどういう経緯だ？　お前が呼んだのか？
+[name="Gavial"]  Let me ask you this first. What was AUS doing here? You didn’t bring them here, did you?
+[name="가비알"]  먼저 하나 물어보자. AUS는 어떻게 된 거야? 네가 초청한 건 아니겠지?
+
+[name="依娜姆"]  AUS？怎么可能，她们可是就算是我这样没什么见识的人都听过名字的乐队，我哪里请得来。
+[name="イナム"]  AUS？　まさか！　世間に疎い私でも知ってる有名バンドよ。私が呼んだところで来てくれる相手じゃないでしょ。
+[name="Inam"]  AUS? Of course not. Even someone like me who hardly follows that kinda stuff knows about them. I don’t have that kind of pull.
+[name="이남"]  AUS? 그럴 리가. 나 같은 문외한도 들어봤을 정도로 유명한 밴드잖아. 그런 사람들을 내가 어떻게 초청해.
+
+[name="依娜姆"]  倒不如说，我看到她们的时候才是最吃惊的那一个好不好。
+[name="イナム"]  むしろ、彼女たちがやって来て一番驚いたのが私なんだから。
+[name="Inam"]  In fact, I was probably more surprised than anybody else when I saw them.
+[name="이남"]  오히려 그 밴드를 보고 가장 놀랐던 사람이 바로 나라고.
+
+[name="依娜姆"]  她们真的只是路过而已，那段时间还是我给她们做的翻译呢。
+[name="イナム"]  ここに来たのは、ただあの人たちの通り道だっただけよ。通訳を務めた私が言うんだから間違いないわ。
+[name="Inam"]  They really were just passing by, and I was their interpreter while they were here.
+[name="이남"]  AUS는 진짜, 정말로, 지나가던 길이었을 뿐이야. 한동안 내가 통역까지 해줬다니까?
+
+[name="依娜姆"]  哎呀，说到这个我就来劲了，你来得正好，不懂的人我都不知道该怎么向他吹嘘这件事。
+[name="イナム"]  ああ、この話になると興奮しちゃうわ。あんたが来てよかった。他の人に自慢してもすごさが伝わらないんだもの。
+[name="Inam"]  Oh, I could talk about them all day. You came at just the right time. I wasn’t even sure how to brag about this when nobody here knows who they are.
+[name="이남"]  와… 이 얘기 하니까 갑자기 신이 나네. 마침 잘 왔다, 여기 사람들한텐 자랑하려 해도 다들 몰라서 할 수가 없었는데.
+
+[name="依娜姆"]  我还有她们的亲笔签名唱片呢，你要不要看看？
+[name="イナム"]  直筆サイン入りのアルバムも持ってるわよ、見る？
+[name="Inam"]  Check this out! I got this autographed album!
+[name="이남"]  나 친필 사인받은 음반도 있는데, 보여줄까?
+
+[name="嘉维尔"]  算了，我又不是她们的粉丝，只是觉得有点不可思议而已。
+[name="ガヴィル"]  いやいい。アタシも別にファンじゃねぇし。ただ不思議に思っただけだ。
+[name="Gavial"]  Eh, I’ll pass. I’m not a fan anyway. I just thought it was weird.
+[name="가비알"]  됐어, 딱히 팬은 아니라서. 그냥 좀 신기해서 물어본 거야.
+
+[name="依娜姆"]  哎，看起来你在外面这么久，品味没有见长啊，嘉维尔。
+[name="イナム"]  はぁ。長く外にいたくせに、センスは全く磨かれないのね。
+[name="Inam"]  Ugh, Gavial, you’ve been out there so long, but your taste is just as terrible as ever.
+[name="이남"]  넌 어쩜… 바깥에서 그렇게 오래 있었으면서 아직도 그렇게 폼을 잡고 사니?
+
+[name="嘉维尔"]  小心我揍你啊？比起这个，我和博士正要去找祖玛玛，路过你这里，就想在你这里补给一下。
+[name="ガヴィル"]  ぶん殴るぞ？　それより、ここで物資を分けてもらえねぇか？　これからズゥママのとこに行くんだ。
+[name="Gavial"]  You wanna get your ass whooped? Whatever. The Doctor and I are on our way to Zumama’s, and we figured we’d stop by and resupply here.
+[name="가비알"]  맞고 싶냐?그건 됐고, 지금 나랑 박사는 주마마를 만나러 가는 길이거든? 가는 길에 너한테 보급을 좀 받으려고 들렀어.
+
+[name="依娜姆"]  好啊。虽然老规矩是以物易物，不过既然你已经知道外面什么样了，你也可以用流通货币跟我交易。
+[name="イナム"]  いいわよ。物々交換がルールだけど、あんたなら通貨とトレードでもいいわ。
+[name="Inam"]  Alright. We could just barter like everyone here does, but since you know how things work on the outside, you can pay me with cold, hard cash.
+[name="이남"]  좋아, 여기는 물물교환이 원칙이지만, 넌 이미 바깥세상이 어떤지 알고 있으니까, 유통되는 화폐로 나랑 거래해도 돼.
+
+[name="依娜姆"]  ......哦，等等，被你一串问题给问懵了，差点忘了我其实也有事找你。
+[name="イナム"]  ……あ、ちょっと待って、質問攻めされて忘れてたけど、私もあんたに用があるんだった。
+[name="Inam"]  ...Oh, wait up, I almost forgot since you were bombarding me with all these questions. I was actually looking for you for something too.
+[name="이남"]  그러고 보니…… 잠깐, 네가 계속 물어보는 바람에 깜빡했네. 사실 나도 너한테 볼일이 있는데.
+
+[name="嘉维尔"]  啊？
+[name="ガヴィル"]  あ？
+[name="Gavial"]  Huh?
+[name="가비알"]  응?
+
+[name="依娜姆"]  你有没有一个叫可颂的朋友？
+[name="イナム"]  「クロワッサン」って人は知り合い？
+[name="Inam"]  Do you have a friend called Croissant?
+[name="이남"]  혹시 네 친구 중에 '크루아상'이라고 있어?
+
+[name="嘉维尔"]  可颂？她和我们一起的，我们正在找她呢，你见到她了？
+[name="ガヴィル"]  クロワッサン？　ああ、アタシの連れだ。アタシらも探してるとこなんだが、どっかで会ったか？
+[name="Gavial"]  Croissant? Yeah, she’s with us. We’ve been trying to find her. Have you seen her?
+[name="가비알"]  크루아상? 이번에 우리랑 같이 왔어. 안 그래도 흩어져서 찾고 있었는데, 혹시 만났어?
+
+[name="依娜姆"]  你可以去集市那边看看。
+[name="イナム"]  ええ。たぶん市場の方にいるわ。
+[name="Inam"]  You should take a look over at the market.
+[name="이남"]  시장 쪽으로 가봐.
+
+[name="阿达克利斯人A"]  走过路过不要错过！新鲜出炉的原木雕刻！
+[name="アダクリス人A"]  さぁ、寄ってらっしゃい見てらっしゃい！　彫りたてホヤホヤの木彫刻だよ！
+[name="Archosauria A"]  Come one, come all! Freshly carved wood sculptures right here!
+[name="아다크리스A"]  골라 골라 아저씨도 골라 아가씨도 골라! 갓 나온 신상 원목 조각상입니다!
+
+[name="阿达克利斯人B"]  看看瞧瞧，从我阿爷那一代传下来的矿石！用它打造武器，保证锋利！
+[name="アダクリス人B"]  さあさあ、お立ち会い、爺ちゃんの代から伝わる鉱石だぜ！　こいつで武器を作りゃ、何でもバッサバッサと切り倒せること間違いなし！
+[name="Archosauria B"]  Check out these ores passed down from my grandfather! Forge weapons sharper than anything you’ve ever seen!
+[name="아다크리스B"]  자자 구경 한 번 하고 가세요! 이것으로 말씀드릴 것 같으면은! 우리 할아버지 때부터 대대~로 전해진 광석이다~ 이 말씀이야! 이걸로 무기를 만들면 쉭 쉭! 이것은 입에서 나는 소리가 아니여! 예리함이 아주 그냥~!
+
+[Decision(options="居然有像样的集市。;......;真热闹。",values="1;2;3")]
+[Decision(options="こんなにちゃんとした市場があるなんて。;……;賑やかだな。",values="1;2;3")]
+[Decision(options="The market’s not half bad.;......;What a lively place.",values="1;2;3")]
+[Decision(options="그럴싸한 시장도 있네.;……;정말 떠들썩하군.",values="1;2;3")]
+
+[name="依娜姆"]  哈哈，这些吆喝都是我教给他们的，挺像那么回事吧？
+[name="イナム"]  驚いた？　あの客寄せ文句だって私が教えたの。様になってると思わない？
+[name="Inam"]  Haha, I was the one who taught them to peddle like that. It’s something, isn’t it?
+[name="이남"]  하하, 이런 호객 멘트는 내가 다 가르쳐준 거야. 꽤 그럴듯하지?
+
+[name="依娜姆"]  喏，可颂就在那里。
+[name="イナム"]  ほら、クロワッサンはあそこよ。
+[name="Inam"]  Look, there’s Croissant.
+[name="이남"]  아, 크루아상은 저기 있어.
+
+集市的一角，可颂正在与一个阿达克利斯人对峙。
+市場の一角で、クロワッサンがアダクリス人と交渉している。
+In the corner of the market, Croissant is in a fierce standoff against a lone Archosauria.
+시장의 한쪽 구석에는, 크루아상과 한 아다크리스가 대치 중이었다.
+
+可颂指了指对方手里的矿石，再指了指自己手里的贝壳，对方摇了摇头。
+彼女が、相手の手にある鉱石と自身が持っている貝殻を交互に指さすと、相手は首を横に振った。
+Croissant gestures toward the ore her opponent is holding, and then points to the seashell in her hand. He shakes his head.
+크루아상은 상대방이 손에 든 광석을 가리켰다가 다시 자신이 들고 있는 조개껍데기를 가리켰고, 상대방은 고개를 저었다.
+
+可颂皱了皱眉头，一挥手，一副忍痛割爱的样子。
+クロワッサンは、残念そうに眉をひそめて、サッと手を振った。
+She frowns and waves her hand with a reluctant look.
+크루아상은 얼굴을 찌푸리더니, 손을 휘두르며 가슴 아픈 표정을 지었다.
+
+她从随身的口袋中掏出一块石头，再指了指贝壳，然后指了指对方手里的矿石，对方想了想，这一次点了点头。
+彼女はポケットから石を一つ取り出し、貝殻、そして相手の鉱石を順番に指さした。相手は少し考えたあと、ようやく頷いた。
+She takes a rock out of her pocket and points at her seashell again. Then, she points at the ore in his hand once more. He ponders for a moment and nods.
+그녀는 주머니에서 돌멩이 하나를 꺼내더니, 다시 조개껍데기를 가리켰다가 상대방의 손에 들린 광석을 가리켰다. 잠시 생각에 빠진 상대방은, 이윽고 고개를 끄덕였다.
+
+交易过程中，可颂依然维持着苦瓜脸，但是在对方转身后，她的脸上立刻浮现出了笑容。
+交渉では厳しい表情を見せていたクロワッサンだったが、相手が身を翻した瞬間、満面の笑みを浮かべた。
+Throughout the entire transaction, Croissant maintains a bitter expression, but the moment her trade partner turns around, her face immediately lights up with a bright smile.
+거래하는 내내 크루아상은 계속 우거지상을 하고 있었지만, 상대방이 몸을 돌려 안 보이게 되자 그녀는 언제 그랬냐는 듯 함박웃음을 지었다.
+
+[name="可颂"]  这块矿石真好看诶，嗯嗯，这下赚到了~
+[name="クロワッサン"]  良さげな鉱石やなぁ、うんうん、今回は儲けもんや。
+[name="Croissant"]  Hooowee, that’s a hell of an ore! What a prize!
+[name="크루아상"]  요 광석 완전 끝내주는데, 흠흠~ 돈 벌었네~
+
+[name="嘉维尔"]  可颂，你怎么在这里做起生意来了。
+[name="ガヴィル"]  クロワッサン、なんでこんなところで商売してんだ？
+[name="Gavial"]  Croissant, what are you even doing, bartering here?
+[name="가비알"]  크루아상, 네가 왜 여기서 장사를 하고 있는 거지?
+
+[name="可颂"]  嘉维尔，博士！哎呀，我可算找到你们啦！
+[name="クロワッサン"]  ガヴィルはん、旦那さん！　いやぁ、やっと会えたわ！
+[name="Croissant"]  Gavial, Baws! Finally! Took me ages to find y’all!
+[name="크루아상"]  가비알, 박사! 아이고, 드디어 찾았네!
+
+[Decision(options="没出事吧？;......;你能和这里的人交流？",values="1;2;3")]
+[Decision(options="大丈夫だったか？;……;ここの人たちと話せるのか？",values="1;2;3")]
+[Decision(options="You doing okay?;......;You can talk to the people here?",values="1;2;3")]
+[Decision(options="별 일… 없었지?;……;이곳 사람들과 대화가 가능한 거야?",values="1;2;3")]
+
+[name="可颂"]  没事没事，我好着呢~
+[name="クロワッサン"]  平気平気、ピンピンしとるわ。
+[name="Croissant"]  Never been better!
+[name="크루아상"]  괜찮다 괜찮다, 내는 별일 없다~
+
+[name="可颂"]  啊哈哈，博士，不要露出那副表情嘛。
+[name="クロワッサン"]  アハハ、旦那さん、そないな表情せんといてぇな。
+[name="Croissant"]  Ahaha. C’mon, Baws, why the face?
+[name="크루아상"]  아하하~ 박사, 그런 표정 짓지 마라.
+
+[name="可颂"]  我正打算让依娜姆带我去神庙找你们呢。
+[name="クロワッサン"]  ウチもちょうどイナムはんに霊殿まで連れてってもろて、旦那さんたちを探そうとしてたところやねん。
+[name="Croissant"]  I was fixin’ to have Inam here take me to that Temple to look fer y’all!
+[name="크루아상"]  내 마침 너희들 찾을라고 이남한테 신전으로 델꼬가 달라고 부탁할 참이었는데.
+
+[name="可颂"]  不能诶，但是做生意这种事，即使语言不通也没关系的！
+[name="クロワッサン"]  でけへんよ。でも商売っちゅーもんは、言葉が通じんでも問題あらへんで！
+[name="Croissant"]  Sure can’t, but it ain’t like you need talkin’ to do business!
+[name="크루아상"]  아이고~ 어림도 없더라고. 그래도 장사라는 게, 언어가 안 통해도 괜찮다 아이가!
+
+[name="依娜姆"]  我前天在路上恰好捡到她，看她好像是外地人的样子就把她带到了这里来。
+[name="イナム"]  おととい、偶然道端で彼女を拾ってね。外の人みたいだったからここに連れてきてあげたの。
+[name="Inam"]  I came across her a couple days ago. I could tell she’s not from around here, so I brought her with me.
+[name="이남"]  엊그제 길에서 데려왔어. 보아하니 바깥세상 사람 같길래 데려왔지.
+
+[name="依娜姆"]  这个女孩子做生意很厉害啊，虽然语言不通，但用商人的语言和我的手下找到了交流的方法，很快就融入了这里。
+[name="イナム"]  それにしてもこの子、すごい商売上手ね。言葉は通じないけど、私の子分となんとか交渉するやり方を考え出して、あっという間にここに溶け込んだわ。
+[name="Inam"]  This girl really knows how to do business! She doesn’t speak their language, but she really knows how to speak the language of trade with my men here.
+[name="이남"]  이 여자, 장사 수완이 아주 좋아. 말은 안 통해도, 상인들의 언어나 내 부하들을 통해 소통하는 법을 익히더니, 아주 빠르게 적응해 버리더라고.
+
+[name="嘉维尔"]  看得出来。可颂，你有遇到其他人吗？
+[name="ガヴィル"]  確かにそうらしいな。クロワッサン、他の仲間には会ったか？
+[name="Gavial"]  I can see that. Croissant, have you come across anyone else?
+[name="가비알"]  그래 보이네. 크루아상, 다른 사람은 못 봤어?
+
+[name="可颂"]  没有，我也有问依娜姆这件事，不过她也没听说类似的消息。
+[name="クロワッサン"]  会ってへんなあ。イナムはんにも聞いたんやけど、それらしい情報はないって。
+[name="Croissant"]  Naw, and I asked Inam, too, but she says she ain’t heard nothin’ about that either.
+[name="크루아상"]  아니, 내도 이남한테 물어는 봤는데, 소식은 못 들어봤다 카네.
+
+[name="嘉维尔"]  好吧，至少你没事，剩下的还有宴和煌。煌那家伙，第一个主动跳下去的，我倒是不怎么担心，至于宴......
+[name="ガヴィル"]  そうか。少なくともお前が無事で良かった。あとはウタゲとブレイズだな。ブレイズのヤツは真っ先に飛び降りたからあんまり心配していないが、問題はウタゲだな……
+[name="Gavial"]  Alright, at least you’re alive and well. Now we just gotta find Utage and Blaze. I’m not too worried about Blaze. She jumped out the aircraft first, didn’t even think twice. As for Utage...
+[name="가비알"]  그래, 적어도 넌 무사하네. 이제 남은 건 우타게랑 블레이즈군. 블레이즈 녀석은 가장 먼저 나서서 뛰어내렸으니 딱히 걱정은 안 드는데, 우타게는……
+
+[name="阿达克利斯人"]  依娜姆，不好了，有一群阿达克利斯向我们部族杀过来了！
+[name="アダクリス人"]  イナム、大変よ！　アダクリスの集団が攻めてきたわ！
+[name="Archosauria"]  Inam, bad news. There’s a group of Archosauria charging towards us!
+[name="아다크리스"]  이남, 큰일이야! 아다크리스 무리가 우리 부족으로 쳐들어오고 있어!
+
+[name="依娜姆"]  什么？是哪家部族这么不长眼？
+[name="イナム"]  なんですって？　どこの部族の馬鹿共よ？
+[name="Inam"]  What? Which tribe is it? Are they out of their minds?
+[name="이남"]  뭐? 어떤 정신 나간 놈들이…! 어디 부족 놈들이야?
+
+[name="阿达克利斯人"]  好像是巨木部族的！但是领头的是个拿着刀的怪胎！
+[name="アダクリス人"]  ジャイアントウッド族みたい！　でも率いてるのは刀を持った変なヤツなのよ！
+[name="Archosauria"]  Looks like the Great Wood Tribe! But they’re being led by some freak with a sword!
+[name="아다크리스"]  거대한 나무 부족인 것 같아! 그런데 우두머리는 칼을 든 괴물이었어!
+
+[name="依娜姆"]  哈？怪胎？
+[name="イナム"]  変なヤツ？
+[name="Inam"]  Huh? A freak?
+[name="이남"]  뭐? 괴물?
+
+[Decision(options="怎么了？", values="1")]
+[Decision(options="何があった？", values="1")]
+[Decision(options="What’s that about?", values="1")]
+[Decision(options="왜 그래?", values="1")]
+
+[name="依娜姆"]  我手下说有个拿着刀的怪胎带着一群阿达克利斯杀过来了，拿着刀的怪胎是什么东西啊？！
+[name="イナム"]  刀を持った変なヤツがアダクリスたちを率いて攻めてきたって、子分が言っているの。でも刀を使う変なヤツなんてここには……
+[name="Inam"]  My man says a freak with a blade is charging toward us with a horde of Archosauria. What gives? !
+[name="이남"]  내 부하가 칼을 든 괴물이 아다크리스 무리를 이끌고 쳐들어오고 있다는데, 칼을 든 괴물은 대체 뭐지?!
+
+[name="可颂"]  等等，拿着刀，怪胎......难道说，是宴？！
+[name="クロワッサン"]  待った、刀を持った変なヤツって……それウタゲはんちゃう！？
+[name="Croissant"]  Hold up, a freak carryin’ a blade... Damn dagnabbit, it’s gotta be Utage!
+[name="크루아상"]  잠깐, 칼을 들고 있는 괴물이라면…… 설마 우타게?!
+
+[name="依娜姆"]  是你们的同伴？啧，总之不管怎么样，他们好像已经杀进来了，嘉维尔，还有那边那个带兜帽的，你们也来帮忙！
+[name="イナム"]  あんたたちの仲間なの？　いや、それより攻め込んで来てるのならまずは止めないと！　ガヴィル、それとフードのあんた、手伝ってちょうだい！
+[name="Inam"]  Is she with you guys?  Tsk... In any case, it looks like they’re here already. Gavial, and you, with the hood, come help us!
+[name="이남"]  너희 동료야? 칫, 아무튼 벌써 쳐들어오는 중인 것 같아. 가비알, 그리고 거기 그 후드 쓴 녀석, 너희도 와서 도와줘!
+
+[name="可颂"]  啊，我也来！
+[name="クロワッサン"]  あ、ウチも行く！
+[name="Croissant"]  Oh, I’m comin’ with y’all!
+[name="크루아상"]  아, 내도 간데이!
+
+[name="宴"]  小的们，上啊！
+[name="ウタゲ"]  野郎ども、行け！　なーんてね。
+[name="Utage"]  C’mon, dudes, let’s go!
+[name="우타게"]  얘들아, 돌격!
+
+[name="宴"]  诶，虽然你们听不懂我在说什么，但是加油哦~
+[name="ウタゲ"]  あたしの言葉なんてわかんないと思うけど、まぁ頑張ってね～
+[name="Utage"]  I mean, it’s not like any of you know what I’m saying, but show ‘em what you got~!
+[name="우타게"]  어휴… 내가 무슨 말을 하는지 너흰 못 알아듣겠지만, 아무튼 힘 내~
+
+[name="宴"]  啊哈，虽然一开始有些讨厌，不过带着这群家伙到处打架好像也挺有乐趣的嘛。
+[name="ウタゲ"]  アハッ、最初はアホくさかったけど、こいつらを連れて片っ端から喧嘩をふっかけるのも、なかなか楽しいじゃん。
+[name="Utage"]  Aha! I wasn’t sure about this at first, but it’s kinda fun taking these guys around to fight.
+[name="우타게"]  아하하, 처음엔 좀 싫었지만, 이 녀석들 데리고 다니면서 싸우는 것도 꽤 재미 지단 말이지.
+
+[name="嘉维尔"]  喂，宴，你这家伙在干什么啊！
+[name="ガヴィル"]  おい、ウタゲこの野郎！　なにやってんだ！
+[name="Gavial"]  Hey, Utage, are you out of your mind? What are you even doing?!
+[name="가비알"]  어이, 우타게! 너 이 녀석! 지금 뭐 하는 거야!
+
+[name="宴"]  咦，嘉维尔，可颂，还有博士，嗨！
+[name="ウタゲ"]  あれぇ、ガヴィルとクロワッサン、それにドクターも。やっほ～！
+[name="Utage"]  Oh, it’s Gavial. Croissant and Doctor too! Heyas!
+[name="우타게"]  어라? 가비알, 크루아상, 그리고 박사잖아! 하이~
+
+[name="嘉维尔"]  谁跟你嗨了！你怎么带人来袭击村庄了！
+[name="ガヴィル"]  やっほ～じゃねぇ！　なんであいつらを連れて村を襲ってんだ！
+[name="Gavial"]  Who’s heying ya?! Why are you attacking the village, and where’d you get these guys?!
+[name="가비알"]  하이는 무슨 얼어죽을 하이야! 왜 습격하고 난리야!
+
+[name="宴"]  咦，这里是嘉维尔你家吗？那我不抢了。
+[name="ウタゲ"]  あれぇ、ここってガヴィルの家だったの？　じゃああたしは手を出さないようにするね。
+[name="Utage"]  Huh? Is this your hometown? Alright, I’ll knock it off.
+[name="우타게"]  어머, 여기 가비알네 집이었어? 그럼 안 할게.
+
+[name="可颂"]  让其他人也停下来啦！
+[name="クロワッサン"]  他の人らも止めぇや！
+[name="Croissant"]  Get these fellers to knock it off too!
+[name="크루아상"]  다른 사람들도 멈추라고 해!
+
+[name="宴"]  呃，可是，那个，他们听不懂我说的话诶。
+[name="ウタゲ"]  えーっと、あのー、悪いんだけどさ、あいつらにあたしの言葉は通じないんだよね。
+[name="Utage"]  Uh, but, you know, they don’t understand a word I say.
+[name="우타게"]  어… 근데, 그게… 쟤네들이 내 말을 못 알아들어서…
+
+[name="嘉维尔"]  啧，没办法，把这群傻子全部放倒吧。
+[name="ガヴィル"]  チッ、しょうがねぇ。片っ端からぶん殴って止めるぞ。
+[name="Gavial"]  Tch... Looks like we’re out of options. Let’s take these idiots down.
+[name="가비알"]  쳇, 어쩔 수 없네. 저 바보들을 모조리 쓰러뜨릴 수밖에.
+

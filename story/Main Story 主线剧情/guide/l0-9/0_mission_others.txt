@@ -1,0 +1,10 @@
+[PopupDialog(dialogHead="$avatar_amiya")] 除了主线任务以外，执行各种其他日常的支线任务的奖励也是罗德岛重要的收入来源之一。
+
+[PopupDialog(dialogHead="$avatar_amiya")] 博士，接下来我将为你介绍其余的几种任务类型。
+
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 整理在这里的任务与其他的委托稍有不同。这是专门为你设计的一系列“复健”手续。
+
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 当然，完成它们可以为你带来一些额外的好处，这包括其他委托里很难得到的补给。
+
+[PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 博士，我建议可以先优先完成这些任务，来迅速回忆起你曾经掌握的“知识”。
+

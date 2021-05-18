@@ -1,0 +1,60 @@
+[PopupDialog(dialogHead="$avatar_doberm")] 今天的训练内容，是在冲突区域内对平民进行疏散。平民很容易成为血腥袭击的目标。看清场地！睁大你们的眼睛！
+[PopupDialog(dialogHead="$avatar_doberm")] 本日の訓練は、衝突エリア内における一般市民の誘導だ。彼らは攻撃ターゲットにされやすい。目を見開いて、しっかりと周囲を見渡すんだ！
+[PopupDialog(dialogHead="$avatar_doberm")] Today's training is focused on evacuating civilians from a combat zone. Civilians are easy targets for collateral damage. Survey the field! Keep your eyes open!
+[PopupDialog(dialogHead="$avatar_doberm")] 오늘 할 훈련은 충돌 구역 내의 민간인 유도 훈련이다. 민간인은 공격 목표가 되기 쉬우니, 두 눈 크게 뜨고 주변을 유심히 살펴야 한다!
+
+[PopupDialog(dialogHead="$avatar_beagle")] 明，明白！
+[PopupDialog(dialogHead="$avatar_beagle")] は、はい！
+[PopupDialog(dialogHead="$avatar_beagle")] G-Got it!
+[PopupDialog(dialogHead="$avatar_beagle")] 아, 네!
+
+接下来我们会模拟某地区居民被武装力量袭击的过程。
+これから、とある地区の住民が武装勢力に襲撃されたと仮定したシミュレーションを行う。
+Next, we'll simulate an attack on the residents here by armed enemy forces.
+그럼 지금부터, 특정 지역의 민간인이 무장 세력에게 습격당하는 과정을 시뮬레이션해보겠다.
+
+[PopupDialog(dialogHead="$avatar_sys")] 救...救命！（过于逼真的录音）
+[PopupDialog(dialogHead="$avatar_sys")] た……助けて！（リアルすぎる録音音声）
+[PopupDialog(dialogHead="$avatar_sys")] H—Help me! (Overly realistic recording)
+[PopupDialog(dialogHead="$avatar_sys")] 사, 살려주세요! (현실감이 너무 넘치는 음성 녹음이 재생된다)
+
+[PopupDialog(dialogHead="$avatar_doberm")] 呃。
+[PopupDialog(dialogHead="$avatar_doberm")] ……
+[PopupDialog(dialogHead="$avatar_doberm")] Erm.
+[PopupDialog(dialogHead="$avatar_doberm")] 윽…… (뭐야 저 목소리……)
+
+[PopupDialog(dialogHead="$avatar_jesica")] 那这时候我们...是不是不会像黑钢教的那样做？
+[PopupDialog(dialogHead="$avatar_jesica")] こういう時は……BSW式のやり方だとダメですよね？
+[PopupDialog(dialogHead="$avatar_jesica")] So now we should... Should we do like Blacksteel taught us?
+[PopupDialog(dialogHead="$avatar_jesica")] 이럴 때는…… 블랙스틸에서 배운 대로 하면 안 되겠죠?
+
+[PopupDialog(dialogHead="$avatar_doberm")] 我不清楚黑钢是怎么培训你的。
+[PopupDialog(dialogHead="$avatar_doberm")] BSWがどのような訓練を施してきたのか、私は知らないが……
+[PopupDialog(dialogHead="$avatar_doberm")] I'm not sure what Blacksteel training is like.
+[PopupDialog(dialogHead="$avatar_doberm")] 블랙스틸에서 어떤 훈련을 받았는지는 모르겠지만……
+
+对于罗德岛而言，保护平民让他们<@tu.kw>撤回保护目标</>，在敌人伤害平民前阻拦敌人、消灭敌人，都是可行的选择。
+ロドスにとっては、一般市民を守り<@tu.kw>防衛ラインに撤退</>させること、敵が市民を傷つける前に敵を阻止すること、そして敵を撃退すること、これら全てが選択肢となる。
+But for Rhodes Island, protecting the civilians and letting them <@tu.kw>retreat to the Protection Objective</>, as well as eliminating the enemy before they can harm the civilians are both viable options.
+로도스 아일랜드에선 민간인을 보호해 그들을 <@tu.kw>보호 목표로 철수</>시키거나, 적이 민간인을 해치기 전에 차단 혹은 소탕하는 선택지가 주어진다.
+
+不过，注意！这次安排的敌人，他们所有的<@tu.imp>远程攻击</>都会优先指向平民。
+だが、気をつけろ！　今回のシミュレーションにおける敵の<@tu.imp>遠距離攻撃</>は、全て市民を優先的に狙うように設定されている。
+But be careful! The enemy has deployed so all their <@tu.imp>ranged attacks</> prioritize the civilians.
+주의할 점은! 이번에 투입된 적들이 지닌 <@tu.imp>원거리 공격</> 무기는 민간인을 우선 타겟으로 삼는다는 점이다.
+
+一旦平民牺牲，我们的战术规划就会受挫，这通常表现为<@tu.kw>关卡生命值的损失</>。
+一般市民が犠牲になれば、我々の作戦は頓挫し、<@tu.kw>耐久値が失われる</>こととなる。
+The loss of a civilian is a blow to our tactical planning, which normally results in <@tu.kw>Map HP Seal loss</>.
+민간인이 희생되면 우리의 전술 계획에도 큰 차질이 발생하게 되어, <@tu.kw>스테이지 HP 손실</>로 이어지게 될 거다.
+
+[PopupDialog(dialogHead="$avatar_ansel")] 那这样，米格鲁！你挡住敌人的时候，我会治疗你的！
+[PopupDialog(dialogHead="$avatar_ansel")] それなら、ビーグルさん！　あなたが敵を抑えている時の治療は任せてください！
+[PopupDialog(dialogHead="$avatar_ansel")] Alright, Beagle! You block those enemies and I'll heal you!
+[PopupDialog(dialogHead="$avatar_ansel")] 그럼 이렇게 하죠, 비글 씨! 당신이 적을 막는 동안 저는 치료를 해 드릴게요!
+
+[PopupDialog(dialogHead="$avatar_jesica")] 那模拟敌人就让我来处理！
+[PopupDialog(dialogHead="$avatar_jesica")] では、仮想エネミーはわたしが相手をします！
+[PopupDialog(dialogHead="$avatar_jesica")] Then let me handle the simulated enemy!
+[PopupDialog(dialogHead="$avatar_jesica")] 그럼, 저 가상의 적군들은 제가 처리할게요!
+

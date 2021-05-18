@@ -1,0 +1,55 @@
+平民被敌人设置的<@tu.kw>道路障碍物</>阻挡住了去路。注意！在这种情况下，敌人很快就会追上他！
+敵の設置した<@tu.kw>障害物</>に一般市民が行く手を阻まれている。いいか！　こういう状況になるとすぐに敵に追いつかれてしまう！
+The enemy set up these <@tu.kw>Static Roadblocks</> to stop the civilians. Look out! The enemy will catch them quick like this!
+적이 설치한 <@tu.kw>도로 장애물</>이 길목을 막고 있다. 정신 바짝 차려라, 이런 상황에서는 적에게 쉽게 따라 잡힐 테니까!
+
+[PopupDialog(dialogHead="$avatar_doberm")] 杰西卡！这时候你应该怎么办？
+[PopupDialog(dialogHead="$avatar_doberm")] ジェシカ！　こうなってしまった場合はどうする？
+[PopupDialog(dialogHead="$avatar_doberm")] Jessica! What should you do at a time like this?
+[PopupDialog(dialogHead="$avatar_doberm")] 제시카! 이런 경우엔 어떻게 하는 게 좋겠나?
+
+唉！？我应该……摧毁路障，打开通道？
+えっ！？　えっと……障害物を壊し、道を切り開く？
+Oh?! I should... destroy the obstacle and clear a path?
+으엣!? 저, 저라면, 흐으으…… 장애물을 무너뜨리고 통로를 확보할까요?
+
+[PopupDialog(dialogHead="$avatar_doberm")] 没错！
+[PopupDialog(dialogHead="$avatar_doberm")] その通りだ！
+[PopupDialog(dialogHead="$avatar_doberm")] That's right!
+[PopupDialog(dialogHead="$avatar_doberm")] 바로 그거다!
+
+[PopupDialog(dialogHead="$avatar_jesica")] 可是，要重新部署的话，时间就来不及了……
+[PopupDialog(dialogHead="$avatar_jesica")] ですが、撤退して再度位置につくとなると時間が……
+[PopupDialog(dialogHead="$avatar_jesica")] But there's not enough time to redeploy...
+[PopupDialog(dialogHead="$avatar_jesica")] 하지만 다시 배치하기엔 시간이 부족한데……
+
+[PopupDialog(dialogHead="$avatar_sys")] 这时候，锵锵，咚（重物落地的声音）
+[PopupDialog(dialogHead="$avatar_sys")] こういうときは、ガガー、ドンッ（何か重いものが落ちる音）
+[PopupDialog(dialogHead="$avatar_sys")] So then, *clank clank* (sound of a heavy object hitting the ground)
+[PopupDialog(dialogHead="$avatar_sys")] 피유우우우~! 콰아아앙!! (이때, 무거운 무언가가 지면으로 낙하하는 사운드 녹음이 재생된다)
+
+[PopupDialog(dialogHead="$avatar_huang2")] 这里就交给煌来处理！（PRTS拙劣的声音模仿）
+[PopupDialog(dialogHead="$avatar_huang2")] ここはこのブレイズに任せて！（PRTSによるお粗末な声真似）
+[PopupDialog(dialogHead="$avatar_huang2")] Let's leave it to Blaze! (Clumsy imitation of PRTS voice)
+[PopupDialog(dialogHead="$avatar_huang2")] 여긴 이 블레이즈 님께 맡겨 달라고! (PRTS가 어설픈 성대모사를 한다)
+
+[PopupDialog(dialogHead="$avatar_doberm")] ……什么东……
+[PopupDialog(dialogHead="$avatar_doberm")] ……なんだっ……
+[PopupDialog(dialogHead="$avatar_doberm")] ...What...
+[PopupDialog(dialogHead="$avatar_doberm")] ……이건 또 뭔……
+
+[PopupDialog(dialogHead="$avatar_jesica")] 啊，没错，有煌来处理其他战线的话，就行得通！
+[PopupDialog(dialogHead="$avatar_jesica")] あっ、そうですね！　ブレイズさんが他の戦線を処理してくれるなら、いけると思います！
+[PopupDialog(dialogHead="$avatar_jesica")] Oh, right, it'll work if we have Blaze covering the other lane!
+[PopupDialog(dialogHead="$avatar_jesica")] 앗, 그렇네요! 블레이즈 씨가 다른 전선을 맡으면 분명 문제 없을 거예요!
+
+[PopupDialog(dialogHead="$avatar_huang2")] 没问题，就让我来打破路障吧！（PRTS拙劣的声音模仿）
+[PopupDialog(dialogHead="$avatar_huang2")] 問題ないよ。障害物は私に任せて！（PRTSによるお粗末な声真似）
+[PopupDialog(dialogHead="$avatar_huang2")] No problem, let me clear out that roadblock! (Clumsy imitation of PRTS voice)
+[PopupDialog(dialogHead="$avatar_huang2")] 이 정도는 껌이지, 장애물은 내게 맡겨! (PRTS가 어설픈 성대모사를 한다)
+
+[PopupDialog(dialogHead="$avatar_doberm")] 总之……大致就是这样。不要放松警惕！
+[PopupDialog(dialogHead="$avatar_doberm")] まぁとにかく……大体その通りだ。警戒を怠るな！
+[PopupDialog(dialogHead="$avatar_doberm")] Anyway... that's pretty much how it goes. Don’t let your guard down!
+[PopupDialog(dialogHead="$avatar_doberm")] 어…… 뭐, 그래…… 이 정도면 되겠지…… 어쨌든! 다들 경계를 늦추지 마라!
+

@@ -1,0 +1,30 @@
+[PopupDialog(dialogHead="$avatar_doberm")] 来了！新的敌人是游击队的传令兵，他会通过加密语言和其他部队沟通！
+[PopupDialog(dialogHead="$avatar_doberm")] 新手が来るぞ！　あれは遊撃部隊の伝令兵だ。暗号化された言語で他の隊員と通信を行う伝達役を担っている！
+[PopupDialog(dialogHead="$avatar_doberm")] Incoming! That new enemy is a Guerrilla Herald, and he uses an encrypted language to relay messages to the other troops!
+[PopupDialog(dialogHead="$avatar_doberm")] 온다! 이번에 새로 출몰하는 적은 유격대의 전령병이다. 전령병은 암호화된 신호로 부대에 통신을 보낸다!
+
+[PopupDialog(dialogHead="$avatar_beagle")] 唔！为，为什么我感觉敌人的攻势变强了！
+[PopupDialog(dialogHead="$avatar_beagle")] ううっ！　……て、敵が強くなったような気がします！
+[PopupDialog(dialogHead="$avatar_beagle")] Woah! Wh-why does it feel like the enemies are coming at us way harder now?!
+[PopupDialog(dialogHead="$avatar_beagle")] 윽! 왠지 적의 공세가 더 강해진 것 같아요!
+
+[PopupDialog(dialogHead="$avatar_jesica")] 米格鲁，坚持一下...我去对付那个新敌人！
+[PopupDialog(dialogHead="$avatar_jesica")] ビーグルさん、なんとか耐えてください……私があの伝令兵の対処をします！
+[PopupDialog(dialogHead="$avatar_jesica")] Hold on a bit longer, Beagle! …I'll go take care of that new enemy!
+[PopupDialog(dialogHead="$avatar_jesica")] 비글 씨, 조금만 버텨주세요… 제가 새로 나타난 적을 상대할게요!
+
+传令兵在场时，会不断向他的部队传达战术命令，所有敌人的<@tu.kw>攻击力</>与<@tu.kw>防御力</>都会提升！
+伝令兵は戦場にいる限り他の隊員に戦術命令を発信し続ける。それにより敵全員の<@tu.kw>攻撃力</>と<@tu.kw>防御力</>が上昇するぞ！
+While on the battlefield, Heralds will continuously issue tactical commands to their squad members, increasing the <@tu.kw>ATK</> and <@tu.kw>DEF</> of all enemies!
+전령병이 전장에 있을 때, 통신병은 계속해서 부대에 전술 명령을 전달해, 모든 적의 <@tu.kw>공격력</>과 <@tu.kw>방어력</>을 상승시킨다!
+
+得到命令后，某些敌人甚至会使用<@tu.kw>特殊能力</>！这名游击队的狙击手正在同时狙击<@tu.kw>两名</>我方干员。
+また、命令を受けると<@tu.kw>特殊能力</>を使用してくる敵もいる！　例えばあの狙撃手は<@tu.kw>2名</>のオペレーターを同時に攻撃してくるぞ。
+After receiving these commands, some enemies will even use <@tu.kw>special abilities</>! Look, this Guerrilla Sniper is shooting <@tu.kw>two</> of our Operators at the same time.
+또한, 일부 적은 심지어 명령을 받은 후 <@tu.kw>특수 능력</>을 사용할 수도 있게 된다! 이 유격대 저격수는 이제 동시에 <@tu.kw>2명</>의 아군 오퍼레이터를 공격할 수 있게 되지.
+
+只是，记住，传令兵既是敌人游击战的核心，也是我们的突破口！他们强调机动性的轻型装备，使他们成了游击队中<@tu.kw>防御最薄弱</>的一环！
+だが忘れるな。伝令兵は遊撃戦の要であると同時に、我々の突破口にもなり得る！　伝令兵は機動性重視の軽装により、遊撃部隊で<@tu.kw>最も脆い</>敵でもある！
+However, remember that even if these Heralds are the heart of the enemy's guerrilla warfare tactics, they're also a weak point we can exploit. Their lightweight equipment that emphasizes mobility also make them the <@tu.kw>least protected</> of all the guerrilla forces!
+하지만 전령병은 적 유격대의 핵심이자, 우리의 돌파구이기도 하단 것을 잊지 말도록! 저들은 기동성이 높은 경량 장비를 사용하므로, 유격대에서 <@tu.kw>방어력이 가장 낮다</>!
+

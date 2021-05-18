@@ -1,0 +1,10 @@
+[PopupDialog(dialogHead="$avatar_amiya")] 博士，罗德岛的档案库中存放着杜宾老师指导的<@tu.kw>作战演习</>。
+
+[PopupDialog(dialogHead="$avatar_amiya")] 这些演习中包含了基础的作战技巧，相信掌握之后对博士一定大有帮助。
+
+[PopupDialog(dialogHead="$avatar_amiya")] 因为杜宾正在参加营救，所以她不能同时在训练场进行指导。
+
+[PopupDialog(dialogHead="$avatar_amiya")] 这边会回放她之前和接受过黑钢训练的干员杰西卡先进行的模拟训练。
+
+[PopupDialog(focusX=-10, focusY=34, focusWidth=388, focusHeight=65, anchor="Bottom",              animStyle="Highlight", focusStyle="HighlightRect", black="$f_tut_black",             dialogHead="$avatar_amiya")] 博士，所有演习关卡的阵容都<@tu.kw>不可改变</>。如果遇到无法通过演习的情况，请多尝试不同的战术和部署位置。
+
