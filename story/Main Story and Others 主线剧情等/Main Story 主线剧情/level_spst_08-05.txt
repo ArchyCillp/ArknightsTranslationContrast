@@ -1,0 +1,415 @@
+[name="？？？"] 啊。
+[name="？？？"] あぁ。
+[name="??? "] Ah.
+[name="???"] 아.
+
+[name="？？？"] 恕我冒昧，阁下就是博士吧？
+[name="？？？"] 失礼ですが、貴方がドクター殿ですね？
+[name="??? "] Forgive my presumption. Might you be the Doctor?
+[name="???"] 실례합니다만, 혹시 박사님이십니까?
+
+[Decision(options="你是......12F？;你是......？", values="1;2")]
+[Decision(options="……12F？;君は……？", values="1;2")]
+[Decision(options="You’re... 12F?;And you are...?", values="1;2")]
+[Decision(options="넌…… 12F?;넌……?", values="1;2")]
+
+[name="12F"] 没想到您还记得我。
+[name="12F"] まさか私のことを覚えておられるとは。
+[name="12F"] I never thought you’d remember me.
+[name="12F"] 저를 아직 기억하고 계실 줄은 몰랐군요.
+
+[name="12F"] 您在哪里见过我吗？还是说，您看过我的档案了？
+[name="12F"] どこかで私を見かけたことが？　それとも、私の資料をご覧になられたのでしょうか？
+[name="12F"] Have we met somewhere before? Or, perhaps, you've previously read my files?
+[name="12F"] 저를 어디에서 만난 적 있으신가요? 아니면, 제 파일을 이미 보신 겁니까?
+
+[name="？？？"] 啊，抱歉，这是不是我们第一次见面？我还没做自我介绍。
+[name="？？？"] あぁ、申し訳ございません。直接お会いするのは初めてでしたね。自己紹介をさせてください。
+[name="??? "] Ah, my apologies. Could this be the first time we've met? I still haven't introduced myself.
+[name="???"] 아, 죄송합니다. 처음 뵙는 건데 아직 제 소개도 하지 않았군요.
+
+[name="？？？"] 博士，您好。就叫我12F吧。因为我只是个普通的行动组干员，所以也还没太多与您见面的机会。
+[name="？？？"] お初にお目に掛かりますドクター殿、私は12Fと申します。ごく普通のオペレーターですので、お会いする機会にはあまり恵まれませんでした。
+[name="??? "] Hello, Doctor. Call me 12F, let's say. Since I'm no more than an ordinary Detachment Operator, I've had relatively few chances to have met with you face-to-face.
+[name="???"] 안녕하세요, 박사님. 12F라고 불러 주십시오. 전 일반 작전팀의 오퍼레이터라 박사님을 뵐 기회가 그리 많지 않은 편이었죠.
+
+[Decision(options="别那么客气！;......;不用那么拘谨。", values="1;2;3")]
+[Decision(options="そんなにかしこまらなくていい！;……;そんなに堅苦しくなる必要はない。", values="1;2;3")]
+[Decision(options="Don't be so polite!;......;You don't need to be so reserved.", values="1;2;3")]
+[Decision(options="그렇게까지 예의 차릴 필요 없어!;……;그렇게 딱딱하게 굴 필요는 없어.", values="1;2;3")]
+
+[name="12F"] 哪里。和我熟了以后，您说不定会讨厌我。
+[name="12F"] いえいえ。私を知っていくうちに、私に嫌気が差すかもしれませんから。
+[name="12F"] Nay. Once you're familiar with me, you may well come to hate me.
+[name="12F"] 아뇨, 저랑 친해졌다가 사이가 틀어질지도 모르죠.
+
+[name="12F"] 客气一些，两边就都留着点余地。前进一步或退后一点的余地。
+[name="12F"] 少しくらいかしこまっていた方が、どちらにとっても良いのです。さらに近づくか、一歩引くか、その余地が生まれますからね。
+[name="12F"] With some politeness, both sides are left a little leeway. Leeway to advance a step, or to withdraw something.
+[name="12F"] 그럴 때를 대비해 예의를 차리는 편이 낫죠, 적당한 거리를 유지한다고나 할까요?
+
+[name="12F"] 听说博士是个沉默寡言的人，我就不邀请您再说些什么了。
+[name="12F"] ドクター殿は寡黙な方だと伺っておりますので、無理にお話いただくつもりはございません。
+[name="12F"] I'd heard the Doctor was a reticent one. I won't be asking you to say anything further.
+[name="12F"] 말수가 적은 분이라고 들었습니다, 그러니 대답하지 않으셔도 됩니다.
+
+[name="12F"] 您和我的经历可能完全不同，我们两人的性格差异肯定很大。
+[name="12F"] 私たちが歩んできた道はあまりにも違います。性格も大きく異なるでしょう。
+[name="12F"] Your experiences and mine are probably nothing alike, and our dispositions are assuredly a gulf apart.
+[name="12F"] 박사님과는 전혀 다른 경험을 지녔으니 틀림없이 성격도 많이 다르겠죠.
+
+[name="12F"] 出门在外我一般都会礼貌一些。习惯这种说话方式后不太好改。
+[name="12F"] 対外的な場面では、礼儀正しく振る舞うのが習慣なんです。習慣化した話し方を変えるのは容易ではありません。
+[name="12F"] When going outside, I do tend to be somewhat polite. Once used to speaking like this, it's hard to change.
+[name="12F"] 밖에서는 예의 바르게 행동하는 편입니다. 지금 말투에도 익숙해지니 바꾸기 쉽지 않더군요.
+
+[name="12F"] 因为出言不逊导致的大打出手，我见过不少。大多时候我们对粗俗的人避而远之，没什么别的原因，只是多一事可能不如少一事。
+[name="12F"] 礼を欠いた言葉遣いが原因で、暴力沙汰になるような場面も、度々目にしてきました……我々が粗暴なものを避ける理由は、単に無益なことを防ぎたいからというだけなのです。
+[name="12F"] I've seen no shortage of rude remarks come to a fight, after all. By and large, we keep at a distance from vulgar people, without any another reason—only that one thing less, perhaps, beats one thing more.
+[name="12F"] 말실수 때문에 주먹다짐까지 벌어진 경우를 많이 봐왔습니다. 저속한 사람들은 멀리하는 편입니다. 다른 게 아니라, 시끄러운 걸 좋아하는 편이 아니거든요.
+
+[name="12F"] 真是一场艰难的战役......您居然坚持下来了。
+[name="12F"] 今回は非常に厳しい戦いでしたが……ドクター殿は本当に最後までやり抜いたのですね。
+[name="12F"] It's truly been a long campaign... and you've endured to the bitter end.
+[name="12F"] 쉽지 않은 싸움이었는데…… 박사님은 잘 버텨내셨군요.
+
+[name="12F"] 这样的战斗只让人觉得害怕。博士会有这种感觉吗？
+[name="12F"] しかし、このような戦いはただ人々を恐怖させるだけにすぎない、そうは思いませんか？
+[name="12F"] Battles like these are only cause to feel fear. Might you feel that way, Doctor?
+[name="12F"] 이런 전투는 사람들을 두렵게 하죠, 박사님도 그러신가요?
+
+[Decision(options="（反问他是否感到害怕）;（习惯性沉默）;（向他表述自己已经对此感到习惯这一事实）", values="1;2;3")]
+[Decision(options="（逆に、12Fは恐怖を感じるか尋ねる）;（いつものように沈黙する）;（そんなことには慣れてしまったと伝える）", values="1;2;3")]
+[Decision(options="(In turn, ask him whether he's afraid.);(As ever, be silent.);(Painstakingly, explain to him how you're already used to this.)", values="1;2;3")]
+[Decision(options="(그는 두렵지 않았는지 되묻는다);(습관적인 침묵을 유지한다);(그에게 자신은 이미 이런 사실에 익숙해졌음을 말한다)", values="1;2;3")]
+
+[name="12F"] 如果您这么问......
+[name="12F"] そうお尋ねになるのなら……
+[name="12F"] If you were to ask...
+[name="12F"] 그렇게 물으신다면……
+
+[name="12F"] 我不撒谎，是的，就算我已经跟着小队到了这里了，我还是挺害怕的。
+[name="12F"] 正直にお答え致しましょう……はい、確かに小隊についてここまで来ましたが、恐ろしく感じています。
+[name="12F"] I don't tell lies. I am. Granted, I've already come all this way with the team, but I'm still quite afraid.
+[name="12F"] 솔직히 말씀드리죠. 맞습니다. 팀을 따라 일단 오긴 했지만 여전히 겁이 납니다.
+
+[name="12F"] 在荒野上，死亡是不值一提的小事。这已经成了几乎所有人的共识了。
+[name="12F"] 荒野において、死など取るに足らないもの。これはほぼ全ての人の共通の認識となっています。
+[name="12F"] In the wilderness, dying is not much worth mentioning, a trivial thing. This has become a consensus across near to all people.
+[name="12F"] 황야에서는 죽음이 대수롭지 않은 일이죠, 그곳 사람들에게는 지극히 일상적인 현실입니다.
+
+[name="12F"] 我想，我们就是这么建立了移动城市。我们想要活下去，不想再被荒野杀掉。
+[name="12F"] 生き残りたい。荒野で命を落としたくない。そう思ったからこそ、私たちは移動都市を作り上げたのだと思います。
+[name="12F"] I believe that was why we set up nomadic cities. We wished to live on, to not be killed by the wilderness again.
+[name="12F"] 이런 이유 때문에 이동도시를 짓게 된 거라 생각합니다. 살면 살았지 황야에서 죽고 싶은 사람은 없을 테니까요.
+
+[name="12F"] 但发生在这些城市间的灾难向我们一再证明，每每我们自以为非常幸运地从什么地方逃开了的时候，就会自己作弄出些新的不幸。
+[name="12F"] しかし、そんな移動都市群を繰り返し襲う災難が証明しています。何かの脅威から、幸運にも逃げ延びられたと思ったその瞬間に、私たちは自ら、次の脅威を作り出しているのだと……
+[name="12F"] But the disasters occurring among these cities were a repeated reminder to us that often, when we think we've had the great fortune to escape from somewhere, we'll play new misfortunes upon ourselves.
+[name="12F"] 하지만 이곳 도시 사이에서 일어난 여러 재앙은 운 좋게도 우리가 어딘가에서 도망쳤다고 생각할 때마다 스스로 또 다른 불행을 불러일으키고 있다는 것을 거듭 증명하고 있습니다……
+
+[name="12F"] 切尔诺伯格的民众能想到，自己会遭遇这些吗？应该没有吧。战战兢兢地过日子不是个好事情。
+[name="12F"] チェルノボーグの民はこのような事態を想像できたでしょうか？　いいえ、思いも寄らなかったはずです。怯えながらの暮らしなど、決して良いものではありません。
+[name="12F"] Did the people of Chernobog ever imagine they'd go through this? I imagine they didn't. It's no good thing, passing your days trembling in fear.
+[name="12F"] 체르노보그 사람들은 이런 일을 겪게 될 거라고 생각했었을까요? 절대 그런 적 없을 겁니다, 전전긍긍하며 사는 삶이 결코 행복할 리 없으니까요.
+
+[name="12F"] 这样的结果太黑暗了，我无法想象自己顶着这种预见生活下去的样子。
+[name="12F"] こんな結果はあまりにも酷すぎます。自分がこのような未来を予見しながら日々を過ごすなど、想像もできません。
+[name="12F"] Outcomes such as this are too dark. I can't imagine what I'd be like, stuck to this vision and living on.
+[name="12F"] 그 결과 또한 암담하기 짝이 없습니다, 그렇게 살아가야 하는 걸 뻔히 알면서도 견뎌야 하는 제 자신을 도저히 상상할 수 없네요.
+
+[name="12F"] 但是这一切就在不知不觉中掉在了他们头上。我们停下了核心城，那现在的切尔诺伯格里又在发生些什么呢？
+[name="12F"] しかし、気づかぬうちにこれらの全てが彼らに降り注いだのです。私たちが中枢区画を止めた今、チェルノボーグでは何が起きているのでしょう？
+[name="12F"] But all of this has dropped, unwittingly, right on their heads. We've stopped the Core City. What if something broke out once again within Chernobog?
+[name="12F"] 그런데 그 모든 게 자신도 모르는 사이에 그들에게 닥쳐왔죠. 우리가 코어를 멈춘 지금, 체르노보그에서는 또 어떤 일이 일어났을까요?
+
+[name="12F"] 之后我们可能会遭遇的一切，都只让我感到害怕。
+[name="12F"] 今後私たちを待ち受けるであろう全てが、恐ろしくてなりません。
+[name="12F"] When I consider all we might encounter in future, it leaves me feeling only afraid.
+[name="12F"] 앞으로 우리가 마주할 모든 것들이 전 두렵기만 합니다.
+
+[name="12F"] 博士既然不愿多说，我也就不多问了。
+[name="12F"] 多くは語らないおつもりのようですので、これ以上問うような真似も控えさせていただきます。
+[name="12F"] Given you're unwilling to say much, Doctor, I won't ask much more.
+[name="12F"] 박사님께선 말을 꺼리시는 것 같으니, 저도 더는 묻지 않겠습니다.
+
+[name="12F"] 您习惯于什么了？
+[name="12F"] 何に慣れてしまわれたのですか？
+[name="12F"] What is it you're used to?
+[name="12F"] 박사님은 무엇에 익숙하신가요?
+
+[name="12F"] 是习惯于害怕，还是......习惯于战斗？
+[name="12F"] 恐怖にですか、それとも……戦いにですか？
+[name="12F"] Are you used to fear, or... used to fighting?
+[name="12F"] 두려움? 아니면…… 전투?
+
+[name="12F"] 我有些难过。
+[name="12F"] いずれにせよ、やりきれませんね。
+[name="12F"] I'm somewhat saddened.
+[name="12F"] 전 왠지 좀 슬프군요.
+
+[name="12F"] 请放心，我不是对您有偏见......
+[name="12F"] ご安心を。ドクター殿に偏見を持っているわけではありません……
+[name="12F"] Please, be reassured, I'm not prejudiced against you...
+[name="12F"] 안심하십시오, 박사님께 편견을 갖고 있는 건 아니니까요……
+
+[name="12F"] 您指的应该还是后者吧。
+[name="12F"] ドクター殿が指しておられるのは、やはり後者の方でしょう。
+[name="12F"] I suppose you should mean the latter.
+[name="12F"] 박사님께서 말씀하신 건 아무래도 후자겠죠.
+
+[name="12F"] 习惯于战斗......有许多战士说过类似的话。
+[name="12F"] 戦いに慣れた……そんな類いの言葉を残す戦士は数多くいます。
+[name="12F"] To be used to fighting... many soldiers have said similar things.
+[name="12F"] 전투에 익숙하다…… 많은 전사가 비슷한 말을 했습니다.
+
+[name="12F"] 您不是个战士，却已经习惯了与战士一同出生入死。您应当是对战斗有所追求吧？
+[name="12F"] ドクター殿は、戦士ではありませんが、戦士たちと生死を共にする日常に慣れてしまったのでしょう。そして、戦いに何かしらの理想を抱いているのではありませんか？
+[name="12F"] You aren't a soldier, yet you're used to risking life and limb alongside them. You ought to have something you pursue in battle, then?
+[name="12F"] 박사님은 전사가 아니지만 그들과 함께 생사의 갈림길을 오가는 데 익숙하시겠죠. 그렇다는 건 전투에서 남달리 추구하는 바가 있다는 뜻이겠군요?
+
+[name="12F"] 还是说，这些冲突在您看来，只是您达到目标的手段......又或者每一场战斗中那些血腥和荣誉的部分令你感到......兴奋？
+[name="12F"] あるいは、そのような衝突など、ドクター殿にとっては目的を果たすための手段にすぎないのでしょうか……もしくは、戦いの血なまぐささや栄光に……興奮するのでしょうか？
+[name="12F"] Or alternatively, in your eyes, this conflict is only a means to an end... or perhaps, the blood and glory in every battle makes you feel... excitement?
+[name="12F"] 아니면, 이런 충돌이 박사님에겐 그저 목표 달성을 위한 수단일 뿐입니까?…… 그것도 아니면 전투의 피비린내, 명예 같은 것들이 박사님을…… 흥분시키나요?
+
+[name="12F"] 对不起，博士，对不起。我说的似乎有些过了。
+[name="12F"] 申し訳ありません、ドクター殿。少し、過ぎた言葉でした。
+[name="12F"] I'm sorry, Doctor, I'm sorry. I seem to have gone somewhat too far.
+[name="12F"] 죄송합니다, 박사님…… 말이 지나쳤군요.
+
+[name="12F"] 只是我个人更希望博士您能够从战场上离开。作为战地指挥官的您也许很有实力，甚至能和凯尔希医生不相上下——
+[name="12F"] ただ、私の個人的な願いとしては、ドクター殿には戦場から距離を置いてほしいのです。たしかに戦地の指揮官としては、ケルシー先生にも引けをとらぬほどの実力をお持ちですが――
+[name="12F"] Only, I myself hope greatly that you're able to leave the theater of war, Doctor. Perhaps you, in your capacity as a battlefield commander, can stand level against even Dr. Kal'tsit—
+[name="12F"] 다만 개인적으론 박사님께서 전장을 떠나시길 바랐습니다. 전장 지휘관으로서 박사님은 켈시 선생님과 막상막하라고 생각하거든요.
+
+[name="12F"] 但就像凯尔希医生一样，我相信您如果在您原本的专业、原本的生活中投入更多精力，会给人们带来更多好处。
+[name="12F"] ですが、まさにケルシー先生のように、ドクター殿が本業と本来の暮らしに今以上のエネルギーを注げば、人々に更なる利益をもたらすことが出来るはずです。
+[name="12F"] But just like Dr. Kal'tsit, I believe if you threw even greater energy into your original field of study, your original life, you would bring about even more benefit to others.
+[name="12F"] 하지만 박사님께서 켈시 선생님처럼 원래 자신의 전공과 삶에 더 집중한다면 사람들에게 더 큰 힘이 되어줄 거라고 믿습니다.
+
+[name="12F"] 只不过事与愿违吧。天真的孩子拿起武器，充满活力的人失去性命，生活美好的人家庭破碎。我们阻止不了。
+[name="12F"] とはいえ、物事は思い通りにはいかないものです。美しい家庭が壊され、活力に満ちた者が命を失い、純粋だったはずの子供が武器を取る……そのような事態を、私たちは止めることはできません。
+[name="12F"] But things often turn out contrary to how you wish. Innocent children pick up weapons, people who brimmed with vigor lose their lives, and families who live life happily shatter apart. We cannot prevent it.
+[name="12F"] 문제는 현실은 우리의 바람과 항상 반대라는 거죠. 천진난만한 아이들이 장난감 대신 무기를 들고, 희망에 가득 찬 사람들이 목숨을 잃습니다. 행복한 가정이 무너져 내리기도 하지만 저흰 막지 못했습니다.
+
+[name="12F"] 至于习惯于害怕这件事，我想，这更多说的还是我这种人。
+[name="12F"] 恐怖に慣れるというのは、おそらく今の私のような状態を指すのではないでしょうか。
+[name="12F"] As for being used to being afraid, I believe that refers much more to people like me.
+[name="12F"] 이런 일에 두려움을 느끼는 데 익숙한 사람이라면 아마도 저와 같은 부류일 겁니다.
+
+[name="12F"] 我很难觉得您和我是同一类型，博士。从您出现以来，您参加的这些战斗在我看来基本都是赢了的。
+[name="12F"] 私とドクター殿が、同じ種類の人間だとはどうしても思えません。ドクター殿が現れて以降、貴方が参加した戦いは私の知る限り、基本的に全て勝利を収めています。
+[name="12F"] I'm hard-pressed to feel that you and I are the same type, Doctor. Ever since you arose, all these battles you've taken part in, I consider you to have fundamentally won.
+[name="12F"] 그런 점에서 박사님이 저와 같은 부류라고는 생각하지 않습니다. 박사님이 나타나신 뒤로, 거의 대부분의 전투에서 승리를 거두셨더군요.
+
+[name="12F"] 您会害怕赢吗？或者是您会害怕没能胜利所以失去些什么呢？
+[name="12F"] ですが、負けて何かを失うことが恐くはありませんか？　逆に勝利し続けることに恐怖を覚えることはないですか？
+[name="12F"] Are you possibly afraid of winning? Or are you possibly afraid that if you were unable to achieve victory, you'd lose something?
+[name="12F"] 이기는 게 두려우십니까, 아니면 패배했을 때 무언가를 잃게 되는 것이 두려우신 겁니까?
+
+[name="12F"] 但我根本不喜欢战斗。如果可以，我想逃得远远的。
+[name="12F"] 私は、そもそも戦いが嫌いなのです。できることなら、どこまでも避け続けたいと思っています。
+[name="12F"] But I'm not fond of battles at all. If I were allowed, I'd run far, far away.
+[name="12F"] 전 애당초 싸우는 걸 좋아하지 않습니다. 가능하다면 멀리 도망치고 싶거든요.
+
+[name="12F"] 我也许是与您截然相反的人也说不定。因为我可能连胜利都害怕。
+[name="12F"] もしかしたら私は、ドクター殿とは真逆なのかもしれませんね……私は、勝利にすら恐怖するのですから。
+[name="12F"] Perhaps, just maybe, I'm the complete contrary to you. Because I might even be afraid of victory.
+[name="12F"] 어쩌면 전 박사님과는 정반대의 부류일지도 모릅니다. 전 승리조차 두렵거든요.
+
+[Decision(options="（保持沉默）;（咨询他这么问有何用意）", values="1;2")]
+[Decision(options="（沈黙を保つ）;（どういう意図で、そんなことを聞くのか尋ねる）", values="1;2")]
+[Decision(options="(Maintain silence.);(Inquire what his purpose for asking is.)", values="1;2")]
+[Decision(options="(침묵을 유지한다);(그에게 어떤 의도인지 묻는다)", values="1;2")]
+
+[name="12F"] ——
+[name="12F"] ……
+[name="12F"] ——
+[name="12F"] ……
+
+[name="12F"] 时候不早了。我们小队也应该准备撤退了。
+[name="12F"] もうこんな時間ですね。私たちの小隊も撤退する準備をしなければなりません。
+[name="12F"] It's getting late. My team should be prepared to retreat by now.
+[name="12F"] 벌써 시간이 이렇게 됐군요, 저희 팀도 슬슬 철수해야 할 것 같네요.
+
+[name="12F"] 请注意安全。祝您这一天过得愉快。
+[name="12F"] どうか安全に気を配ってください。今日という日が素晴らしい一日でありますように。
+[name="12F"] Please take care of yourself. I wish you a pleasant day.
+[name="12F"] 부디 조심하십시오, 기분 좋은 하루 되시길.
+
+[name="12F"] 因为我想了解您的为人。不过，能在这里看到您，我差不多就能自己得出答案了。
+[name="12F"] ドクター殿……私は、貴方という人をもっと知りたかったのです。ですが、ここでお会いできて、どうにかその答えが出せそうです。
+[name="12F"] Because I wanted to understand your character. Though, given I could find you here, I can more or less arrive at my own answer.
+[name="12F"] 박사님이 어떤 분인지 궁금했거든요. 그래도 여기서 뵙게 되어 어느 정도 궁금증이 해소됐답니다.
+
+[name="12F"] 除去曾经熟识您的那些人不说，像我这样加入罗德岛的时间不长还对您感到有些好奇的人，也挺多的。
+[name="12F"] かねてよりドクター殿と親しかった者を除けば、私のようにロドスに加入してから日が浅い者の中にも、貴方に興味を抱いている人間は多いのですよ。
+[name="12F"] Disregarding the people who already knew you well, there are plenty like myself who didn't join Rhodes Island too long ago, who feel some sense of curiosity about you.
+[name="12F"] 박사님에 대해 잘 아는 사람들이 아닌 이상, 로도스 아일랜드에 이제 막 합류한 사람들 중에선 저처럼 박사님을 궁금해하는 사람들이 적지 않답니다.
+
+[name="12F"] 对阿米娅，我们都有个差不多的印象，谁都知道在她那副小小的身子底下是坚韧的意志支撑着她......
+[name="12F"] アーミヤ殿についての認識は、誰もが似たり寄ったりのはずです。あの小さな身体の底に潜む強固な意志が、彼女を支えているのだと皆が知っています……
+[name="12F"] Of Amiya, we all have the same general impression. Everyone knows that beneath her miniscule stature lies a tenacious will, holding her up...
+[name="12F"] 아미야 님에 대한 인상은 모두가 비슷하죠, 그녀의 그 작은 몸 안에 있는 그 강인한 의지가 그녀를 지탱하고 있다는 건 모두가 잘 알고 있을 겁니다……
+
+[name="12F"] 有关凯尔希医生的看法各不相同，我倒是很能理解她，不管凯尔希医生做什么，她都有她的道理，她绝不冲动，从不感情用事。
+[name="12F"] ケルシー先生に対するイメージは、それぞれ違います。ですが私には彼女が理解できます。彼女の行動には、全て道理があるのです。衝動的な行動や、私情を挟むことはありません。
+[name="12F"] Opinions on Dr. Kal'tsit all vary, while I can very much understand her. No matter what Dr. Kal'tsit does, she always has a basis. She's in no way impetuous, and never acts on an impulse.
+[name="12F"] 켈시 선생님에 대한 의견이 분분하지만 전 그분을 이해할 수 있답니다. 켈시 선생님은 뭘 하시든 자신만의 원칙이 있죠. 충동적이거나 감정에 휘둘리는 일은 결코 없답니다.
+
+[name="12F"] 这已经不是常人能做到的事情了。
+[name="12F"] これは常人にはなかなかできないことでしょう。
+[name="12F"] That's simply not something the average person can achieve.
+[name="12F"] 이런 건 누구나 할 수 있는 게 아니랍니다.
+
+[name="12F"] 可是您......
+[name="12F"] ですが貴方は……
+[name="12F"] Whereas you...
+[name="12F"] 그런데……
+
+[name="12F"] 您呢？
+[name="12F"] 貴方はどうでしょう？
+[name="12F"] What about you?
+[name="12F"] 박사님은 어떠신가요?
+
+[name="12F"] 您回到罗德岛还没有太长时间，您的名字在您回来之前就传开了。
+[name="12F"] ロドスに戻ってそれほど時間も経っていないのに……いえ、むしろ戻る前からその名はロドス中に広まっていたのです。
+[name="12F"] It's not been too long since you came back to Rhodes Island, and before you'd returned, your name had spread fast.
+[name="12F"] 로도스 아일랜드에 돌아오신 지 얼마 되지 않았지만 모두들 그 전부터 박사님의 이름을 알고 있었답니다.
+
+[name="12F"] 但我们不知道您是谁。您是怎样一个人？会为我们带来些什么？
+[name="12F"] ですが、私たち新参者はドクター殿のことを知りませんでした……一体どんな人なのだろう？　何をもたらしてくれるのだろうか？　そんなふうに思っていました。
+[name="12F"] But we didn't know who you were. What kind of person were you? What would you bring for us?
+[name="12F"] 하지만 저흰 박사님이 누군지 전혀 알지 못합니다. 박사님은 어떤 분인가요? 저희에게 무엇을 가져다주실 수 있나요?
+
+[name="12F"] 凯尔希医生在您来之前就向每一台个人终端推送过消息，向我们告知，您是日后罗德岛指挥部门中重要的一员。
+[name="12F"] ドクター殿が到着する前、ケルシー先生が全員の個人端末に通知を送りました。貴方が今後、ロドス司令部の重要な一員になると……
+[name="12F"] Before you came, Dr. Kal'tsit pushed the notification to each individual's terminal, letting us all know that you'd be an important member of the Rhodes Island Command Department someday.
+[name="12F"] 박사님께서 돌아오시기 전에 켈시 선생님께서 저희에게 메시지를 보내셨습니다, 박사님이 앞으로 로도스 아일랜드 지휘부의 중요 일원이 될 거라고요.
+
+[name="12F"] 即使类似的人事消息很多，但我还是能注意到隐藏在这小段文字里包含的信息——
+[name="12F"] 同じような人事通達は少なくありませんが、それでも私はその短い文章に含まれた意図を読み取りました――
+[name="12F"] Though plenty of notifications from HR are similar, I was still able to pick up on the information concealed within that short paragraph of text—
+[name="12F"] 인사와 관련된 비슷한 메시지를 여럿 받아보긴 했지만 그 짧은 문장 속에 담긴 메시지에 눈길이 가더군요.
+
+[name="12F"] ——您对于我们某些人来说是完全陌生的。反正在那时候一定是这样。
+[name="12F"] ――一部の者にとって、貴方は全く見知らぬ存在。少なくともあの時はそうでした。
+[name="12F"] —You were, to some of us, completely unfamiliar. At the time, at least, that was how it was.
+[name="12F"] ……저희 중 어떤 사람들에게 박사님은 낯선 사람이었습니다, 어쨌든 그때는 분명 그랬죠.
+
+[name="12F"] ......我们不仅不知道您有着怎样的过去。我们甚至不清楚您会有怎样的未来。
+[name="12F"] ……貴方にどんな過去があるのか、そして貴方がどんな未来を作るのか、私たちには知る由もありませんでした。
+[name="12F"] ...It's not just that we don't know what sort of past you had. We weren't even sure of what kind of future you had.
+[name="12F"] ……박사님에게 어떤 과거가 있는지 저흰 모릅니다. 어떤 미래가 있을지는 더더욱 알 수 없죠.
+
+[name="12F"] 罗德岛会将我们领向何方？在旅途中，您一定会在扮演重要的角色。我知道，很多人这么觉得的。
+[name="12F"] ロドスは私たちをどこへ導いてくれるのでしょうか？　この旅路において、きっと貴方は重要な役割を担うはずです。多くの者がそう思っています。
+[name="12F"] Where would Rhodes Island lead us? Along the way, you'd be sure to play an important role. I know that was how a lot of people felt.
+[name="12F"] 로도스 아일랜드는 우리를 어디로 이끌까요? 그 여정에서 박사님께선 분명 중요한 역할을 맡게 될 겁니다. 전 알아요, 많은 사람이 이렇게 느낄 거란 걸요.
+
+[name="12F"] 但对您自己而言呢？您会觉得这一切......不属于您吗？毕竟您丧失了记忆，这片大地也对您隐瞒了许多事实。
+[name="12F"] ですが、貴方自身にとってはどうでしょう？　あなたは、これらの全てが……自分とは無関係だと感じますか？　貴方は記憶を失っています。この大地も貴方に多くの事実を隠しているのです。
+[name="12F"] But what about you yourself? Might you feel like all of that... is not part of you? You've lost your memories, after all, and this world hides a great many facts from you.
+[name="12F"] 하지만 박사님 자신은 어떤가요? 이 모든 게…… 남의 이야기처럼 들리시나요? 기억을 잃으신 데다, 이 세상 역시 박사님께 많은 사실을 숨기고 있죠.
+
+[name="12F"] 博士，我有一些个人的经验，能听我说说吗？您就听听，也不用当回事。
+[name="12F"] ドクター殿、私の個人的な経験談に耳をお貸しいただけますか？　真に受けなくとも、ただ聴いてくれるだけでいいのです。
+[name="12F"] Doctor, I have some personal experience. Can you hear it out? You may as well, really; you don't have to take it seriously.
+[name="12F"] 박사님께 제 이야기를 들려드려도 될까요? 대답하시지 않아도 되니 들어만 주십시오.
+
+[name="12F"] 您也许觉得，自己在醒来之后没什么选择的权利，一路都只是被人推着走。
+[name="12F"] 「目を覚ましてからというもの、自分には選択する権利などない。誰かの敷いたレールをただ歩いてきた」――貴方はそう感じているのかもしれません。
+[name="12F"] You might feel like, ever since you've woken, you haven't had much right to choose anything, that the road has been paved out entirely by others.
+[name="12F"] 어쩌면, 박사님께선 깨어난 뒤로 자신에게 선택할 권리가 없었다고 느끼실 지도 모릅니다, 줄곧 다른 사람에게 떠밀려왔으니까요.
+
+[name="12F"] 我呢，我的经验是，从出生开始到现在，从被抛到这片大地上以后，我一直都是这种感觉。我选不了。我只能生活在这片大地上。
+[name="12F"] 私の経験から言わせていただけるなら、この大地に投げ込まれたその時から、私はずっとそう感じていました。私に選択肢はなく、この大地で生きていくしかないのだと。
+[name="12F"] Personally, in my experience, from the moment I was born up 'til now, ever since I was tossed into this land, I've always had that sort of a feeling. That I can't choose. I can only live upon this great land.
+[name="12F"] 음, 제 경험상 태어난 순간부터 지금껏, 그리고 이 세상에 던져진 뒤로 자신의 의지와 상관없이 이 세상에서 살아갈 수밖에 없다고 생각해 왔습니다.
+
+[name="12F"] 除了那些觉得自己可以改变命运的伟人之外，我们这些平常人......就请允许我这么说吧！我们这些平常人，总是被推着走的。
+[name="12F"] 運命を己の力で変えられると考えている偉人を除き、私たちのような凡人は――このように表現することをお許しください。私たちのような凡人は常に誰かの敷いたレールの上を歩んでいるのだと。
+[name="12F"] Putting those great figures who've felt they could change their own fate aside, we ordinary people... please, just allow me to say this! We ordinary people are always pushed along.
+[name="12F"] 운명을 바꿀 수 있다고 믿는 위인이 아닌 이상 저희처럼 평범한 사람들은…… 이 말에 기분이 나쁘셨다면 사과드립니다. 하지만 저희처럼 평범한 사람들은 언제나 떠밀려 살기 마련이니까요.
+
+[name="12F"] 但我们是真的没得选了吗？
+[name="12F"] ですが、本当に私たちには選択の余地がないのでしょうか？
+[name="12F"] But are we truly allowed no choice?
+[name="12F"] 그런데 저흰 정말 선택권이 없는 걸까요?
+
+[name="12F"] 这个切尔诺伯格核心城的任务，我报了名。
+[name="12F"] 私は自ら志願して、このチェルノボーグ中枢区画の任務に参加しました。
+[name="12F"] To this Chernobog core city mission, I signed up.
+[name="12F"] 사실 이번 체르노보그 코어 임무에 자원했습니다.
+
+[name="12F"] 我知道这很危险，也知道这和我自身的信条不符......比起做些什么惊天动地的大事我更想活下来。
+[name="12F"] 危険であることはわかっていました。自分の信条に合わないということも……大地を揺るがすような大それたことをするより、私はただ静かに生きていたいだけですから。
+[name="12F"] I knew this was highly dangerous, and I knew it went against what I believed... more than doing anything to shake the world, what I want is to live on.
+[name="12F"] 위험하단 것도, 제 신념에 어긋난다는 것도 알지만…… 온 세상이 깜짝 놀랄 만한 일을 하기보단 살고 싶습니다.
+
+[name="12F"] 我还很清楚自己帮不上什么忙，比起其他更专业的干员，我只是能勉强不拖后腿。
+[name="12F"] 自分が何の役にも立てないと言うのも理解していました。腕の立つオペレーターに比べたら、私など足を引っ張らないようにするので精一杯です。
+[name="12F"] And I was very well aware I couldn't help with much myself. Compared to other, far more specialized Operators, it was all I could do not to get in the way.
+[name="12F"] 제가 별 도움이 안 된다는 것도 알고 있습니다. 전문 오퍼레이터에 비하면 간신히 폐만 안 끼치는 정도랄까요?
+
+[name="12F"] 但我还是这样做了。不需要向其他人解释什么原因，也不需要在这件事之后再去纠结什么。
+[name="12F"] それでも私は志願しました。後になって悩んだり、他人にその理由を説明したりする必要は微塵もありませんでした。
+[name="12F"] But I still chose to do things in this manner. I didn't need to explain to anyone else my reasons, nor did I need to tangle myself in anything after this.
+[name="12F"] 그래도 그러기로 결심했습니다. 누군가에게 이유를 설명하거나, 이 일이 끝난 후의 상황에 대해 고민할 필요 없이요.
+
+[name="12F"] 在做出决定以前，我们就思考过为什么要这么做。然后我们就是这么做了。
+[name="12F"] 人間は、行動をする前になぜそうするのか考え抜いてから決断し、実行する生き物なのです。
+[name="12F"] Before we made our decisions, we wondered why we had to do things this way. And after that, so we did them.
+[name="12F"] 결정을 내릴 때는 그렇게 해야 하는 이유를 신중히 고민한 뒤에 행동해야 하는 법이죠.
+
+[name="12F"] 所以，博士，您其实是已经有所选择，不是吗？
+[name="12F"] ですから、ドクター殿……貴方も実はすでに選択をなさっている。そうではないでしょうか？
+[name="12F"] So, Doctor, you actually had some sort of choice, didn't you?
+[name="12F"] 그런 점에서 박사님도 이미 선택하신 거 아닌가요?
+
+[name="12F"] 您已经和我们一起走到了这里。
+[name="12F"] 貴方は私たちと共にここまで歩んでこられた。
+[name="12F"] You came with us all the way here.
+[name="12F"] 박사님은 이미 저희와 함께 이곳에 오셨으니까요.
+
+[name="12F"] 您在这里。
+[name="12F"] そして今、貴方はここにいる。
+[name="12F"] You're here.
+[name="12F"] 박사님은 여기에 계시죠.
+
+[name="12F"] ......这就是我的结论。
+[name="12F"] ……これが私の結論です。
+[name="12F"] ...That's my verdict, then.
+[name="12F"] 그게…… 제 결론입니다.
+
+[name="12F"] 谢谢您的时间，博士。抱歉，我自说自话这么久，但比起以前，我确实更了解博士您一些了。
+[name="12F"] 貴重なお時間をありがとうございました、ドクター殿。こんな長話をしてしまい申し訳ありません。ですが以前より確実にドクター殿のことを知ることができました。
+[name="12F"] Thank you for your time, Doctor. I apologize for talking to myself for so long. But I do understand you a little more now.
+[name="12F"] 시간 내주셔서 감사합니다, 박사님. 그리고 죄송합니다, 너무 오랫동안 제 이야기만 했군요, 하지만 이전보다 확실히 박사님에 대해 더 알게 된 것 같습니다.
+
+[name="12F"] ——时候不早了，整备工作应该差不多了。我也确认了博士您的安全，接下来，我们的小队该撤退了。
+[name="12F"] ――もうすでにこんな時間です。おそらく準備も整ったでしょう。貴方の安否も確認できましたし、あとは小隊を撤退させるだけ……
+[name="12F"] —It's getting late. Preparations for work should be more or less there by now. I've confirmed your safety as well. Following that, our team should be retreating.
+[name="12F"] 시간이 벌써 이렇게…… 준비가 거의 끝났겠군요. 박사님이 안전하신 걸 확인했으니 이제 저희 팀도 철수해야겠군요.
+
+[name="12F"] 那么罗德岛见，博士。
+[name="12F"] ではまた、ロドスで会いましょう、ドクター殿。
+[name="12F"] So I'll see you at Rhodes, Doctor.
+[name="12F"] 그럼 로도스 아일랜드에서 뵙겠습니다, 박사님.
+
+[name="12F"] 对了，博士......
+[name="12F"] あぁ、最後に……
+[name="12F"] Oh, right, Doctor...
+[name="12F"] 아, 참……
+
+[name="12F"] 哪怕只是当时只是些微小的差别，未来也一定会随着时间流逝，根据您选择的不同，展露出不同的面貌。
+[name="12F"] 微々たる差だったとしても、未来というものは時の流れと共に過去となり、貴方の選択によって異なる一面を見せてくれるでしょう。
+[name="12F"] No matter if it's just in the moment, or just the slightest variance. The future will surely follow with each difference in your choices, and expose a different appearance as time goes by.
+[name="12F"] 과거에는 큰 차이가 없었지만 앞으로는 시간이 흐를수록 박사님의 선택 결과에 따라 전혀 다른 상황이 펼쳐질 겁니다.
+
+[name="12F"] 我相信您一直有的选。
+[name="12F"] 選択肢は常に貴方の手にあるのですよ。
+[name="12F"] I trust you will always have a choice.
+[name="12F"] 전 박사님의 선택을 늘 믿습니다.
+
