@@ -1,4 +1,4 @@
-# ArknightsStoryTranslationContrast
+# Arknights Translation Contrast/明日方舟翻译对照
 
 明日方舟——各服务器翻译对照（中 英 日 韩），包含活动剧情，干员信息、语音
 
