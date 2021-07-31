@@ -145,7 +145,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 
 [Decision(options="你养的都是些什么‘小动物’吗？",values="1")]
 [Decision(options="いったいどんな「ペット」を飼っているんだ？",values="1")]
-[Decision(options="What exactly are these \"pets\"?",values="1")]
+[Decision(options="What exactly are these 'pets'?",values="1")]
 [Decision(options="어떤 '동물'을 키우고 있길래 그러는 거야?",values="1")]
 
 [name="香草"]     咦。
@@ -456,7 +456,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 [name="史都华德"]     而且上次检查之后，医疗组那边给你换了新的药剂吧？
 [name="スチュワード"]     しかもその時、医療チームが新しい薬に変えてくれたんだよね？
 [name="Steward"]     And Medical gave you a new drug after the last checkup, right?
-[name="스튜어드"]     게다가 저번에 검사받고, 의료팀에서 약 새로 줬잖아?
+[name="스튜어드"]     게다가 저번에 검사받고, 의료부에서 약 새로 줬잖아?
 
 [name="玫兰莎"]     嗯，换了新药，所以要去复查一下。
 [name="メランサ"]     はい、新しい薬に変えたので効果を調べるために、再検査が必要なんです。
@@ -845,7 +845,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 
 [name="香草"]     原来上次雷蛇前辈说的，噩梦一样的联欢酒会，就是这么回事啊......
 [name="バニラ"]     前にリスカム先輩が言ってた悪夢のような飲み会って、そういうことだったんですね……
-[name="Vanilla"]     That must be the "boozy nightmare" Liskarm talks about sometimes...
+[name="Vanilla"]     That must be the 'boozy nightmare' Liskarm talks about sometimes...
 [name="바닐라"]     저번에 리스캄 선배가 말한, 악몽 같은 술자리가 바로 이거였군요……
 
 [name="香草"]     对了，刚刚那个女孩，也是罗德岛的人吗？
@@ -956,7 +956,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 [name="史都华德"]     这种故事在这里还算挺常见的。光是在医疗组的一个治疗区，估计就能找出好几个拥有类似经历的人。
 [name="スチュワード"]     でもさっきも言ったけど、あの子のような経歴を持つ子はここでは特段珍しいものじゃない。医療チームの医療エリア一つだけで、似た子は何人も見つかると思うよ。
 [name="Steward"]     It's a fairly common story around here. Just pick any of the medical compartments at random and you'll find a few people who've been through similar things.
-[name="스튜어드"]     사실 이런 일은 널리고 널렸어. 의료팀의 치료 구역에서도 도라 같은 경우는 쉽게 찾아볼 수 있지.
+[name="스튜어드"]     사실 이런 일은 널리고 널렸어. 의료부의 치료 구역에서도 도라 같은 경우는 쉽게 찾아볼 수 있지.
 
 [name="煌"]     的确不新鲜，这世道真烂透了。
 [name="ブレイズ"]     だろうね。まったく、心底嫌な世の中だよ。
@@ -1430,7 +1430,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 
 [name="史都华德"]     （可爱这个词到底是什么意思来着......）
 [name="スチュワード"]     （可愛いってどういう意味だっけ……）
-[name="Steward"]     (I fear the word "cute" has lost all meaning...)
+[name="Steward"]     (I fear the word 'cute' has lost all meaning...)
 [name="스튜어드"]     (혹시 귀엽다는 단어의 기준이 나랑 다른 건가……)
 
 [name="香草"]     啊，史都华德先生别担心，大黑虽然体型大，但是性格是最温顺的，一点都不危险！

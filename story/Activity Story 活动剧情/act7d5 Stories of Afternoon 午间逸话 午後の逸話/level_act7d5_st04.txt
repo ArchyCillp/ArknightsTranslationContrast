@@ -15,7 +15,7 @@ Medical Examination Room 6
 
 [name="芙蓉"]     啊~~
 [name="ハイビスカス"]     あーん。
-[name="Hibiscus"]     Say "aahh."
+[name="Hibiscus"]     Say 'aahh.'
 [name="히비스커스"]     아~
 
 [name="？？？"]     ......
@@ -25,7 +25,7 @@ Medical Examination Room 6
 
 [name="芙蓉"]     啊~~
 [name="ハイビスカス"]     あーん。
-[name="Hibiscus"]     Say "aahh."
+[name="Hibiscus"]     Say 'aahh.'
 [name="히비스커스"]     아~
 
 [name="？？？"]     哼。
@@ -205,17 +205,17 @@ Medical Examination Room 6
 
 [name="芙蓉"]     “还好是你们发现并且制服了她，要是被莱塔尼亚警察或者赏金猎人抓到，她就没有希望了。”
 [name="ハイビスカス"]     「彼女を見つけてくれたのが、君たちでよかった。リターニア警察や賞金稼ぎに捕まっていれば、彼女に救いはなかっただろう。」
-[name="Hibiscus"]     "It's a good thing you subdued her. There would have been no hope for her if the police or bounty hunters found her first."
+[name="Hibiscus"]     'It's a good thing you subdued her. There would have been no hope for her if the police or bounty hunters found her first.'
 [name="히비스커스"]     "여러분이 이 여자를 발견한 뒤 제압해서 다행입니다. 라이타니아 경찰이나 바운티 헌터에게 잡혔다면, 희망이 없었을 테니까요."
 
 [name="芙蓉"]     “像她这种感染级别的感染者，按照最近莱塔尼亚对感染者的政策变化，有很大可能会被人道处理。”
 [name="ハイビスカス"]     「最近のリターニアの感染者に対する政策から鑑みると、この感染状況では、殺処分されてしまう可能性が高いからな。」
-[name="Hibiscus"]     "An Infected person as far gone as her, with the way the laws in Leithanien have changed, almost certainly would have been euthanized."
+[name="Hibiscus"]     'An Infected person as far gone as her, with the way the laws in Leithanien have changed, almost certainly would have been euthanized.'
 [name="히비스커스"]     "이 정도로 감염이 된 감염자라면, 최근 개정된 라이타니아 감염자 정책에 따라 '인도적인' 처리를 당했겠죠."
 
 [name="芙蓉"]     “如果可以的话，请至少把她带离莱塔尼亚境内，多谢各位了。”
 [name="ハイビスカス"]     「彼女が生きるために……もしできることなら、リターニア領外まで連れて行ってやってほしい。どうかよろしく頼む。」って。
-[name="Hibiscus"]     "If it's at all possible, please at least get her out of Leithanien territory. Thank you."
+[name="Hibiscus"]     'If it's at all possible, please at least get her out of Leithanien territory. Thank you.'
 [name="히비스커스"]     "가능하다면 라이타니아에서 데려가 주시기 바랍니다……" 라고 했었는걸.
 
 [name="炎熔"]     就算不是感染者，像她那样无规律袭击行人也一定会被抓好吧。
@@ -1050,7 +1050,7 @@ Vulcan's Workshop
 
 [name="火神"]     “刻俄柏”。
 [name="ヴァルカン"]     「ケオベ」。
-[name="Vulcan"]     "Ceobe."
+[name="Vulcan"]     'Ceobe.'
 [name="벌컨"]      '케오베.'
 
 [name="火神"]     应该是这样读没错。
@@ -1125,7 +1125,7 @@ Vulcan's Workshop
 
 [name="刻俄柏"]     好像是，“小炎熔”这样的。
 [name="ケオベ"]     確か、「ラヴァちゃん」って。
-[name="Ceobe"]     She's "Little Lava," or something.
+[name="Ceobe"]     She's 'Little Lava,' or something.
 [name="케오베"]     히비스커스인데 히비스라고……
 
 [name="刻俄柏"]     我也想要一个。
@@ -1200,7 +1200,7 @@ Vulcan's Workshop
 
 [name="火神"]     （之前她是不是说过，“小炎熔”？）
 [name="ヴァルカン"]     （この子は「ラヴァちゃん」を例に出していたな？）
-[name="Vulcan"]     (She mentioned "Little Lava" before, didn't she?)
+[name="Vulcan"]     (She mentioned 'Little Lava' before, didn't she?)
 [name="벌컨"]     (히비스커스를 히비스라고 했지?)
 
 [name="火神"]     ......
@@ -1220,7 +1220,7 @@ Vulcan's Workshop
 
 [name="火神"]     就叫“小刻”吧。
 [name="ヴァルカン"]     「ケーちゃん」はどうだ。
-[name="Vulcan"]     We'll call you "Kay."
+[name="Vulcan"]     We'll call you 'Kay.'
 [name="벌컨"]     케오라고 하자.
 
 [name="刻俄柏"]     小刻？
@@ -1985,7 +1985,7 @@ Vulcan's Workshop
 
 [name="芙蓉"]     根据我的经验呢，小炎熔你的“不祥预感”一般都是好事。
 [name="ハイビスカス"]     なら安心だね。私の経験によると、ラヴァちゃんが「悪い予感」って言う時はだいたい良い事が起きるから。
-[name="Hibiscus"]     In my experience, your "bad feelings" usually signal good things.
+[name="Hibiscus"]     In my experience, your 'bad feelings' usually signal good things.
 [name="히비스커스"]     내 경험으로는, 라바의 '안 좋은 예감'은 보통 좋은 일이더라고.
 
 [name="炎熔"]     但愿吧......哦，到了。
@@ -2420,7 +2420,7 @@ Logistics Department, Small Conference Room
 
 [name="人事专员"]     别谢啦，下次一起喝点的时候记得在我当班的时候来，我新研发了一种调法，名字我都想好了，就叫“卡西米尔狂风”，有机会来尝尝？
 [name="人事主任"]     感謝もいりません。あ、今度飲まれる時は私が当番の日にいらしてください。「カジミエーシュ・ストーム」という新しいカクテルを考えたんです。是非召し上がってみてください。
-[name="HR Director"]     Don't thank me either. Next time you're up for a drink, come by while I'm on. I've got a new mix, I'm calling it "Kazimierz Fury." Give it a try sometime?
+[name="HR Director"]     Don't thank me either. Next time you're up for a drink, come by while I'm on. I've got a new mix, I'm calling it 'Kazimierz Fury.' Give it a try sometime?
 [name="인사 담당자"]     고마우면 다음번 당직 때 같이 한잔해주시죠. 칵테일을 새로 하나 고안해 봤거든요, '카시미어의 광풍'이라고 이름도 지어놨답니다. 다음에 시간 괜찮으시죠?
 
 [name="火神"]     哼哼，一定来。

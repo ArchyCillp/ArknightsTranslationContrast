@@ -1,364 +1,910 @@
 [Subtitle(text="自古以来，道高一尺，魔高一丈，天灾人祸，苦尽苍生。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="「光あるところに闇あり」――その言葉が示すとおり、古来より正義の力が強まれば悪も力を増し、それは天災や人災の形で、常に全ての生命を苦しめてきました。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="Since ancient times, where virtue has taken its steps, vice has leapt a mile. Nature's catastrophes and humanity's calamities pain the common people to their ends.", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="자고로, 강한 빛에는 짙은 그림자가 생기는 법, 재앙은 늘 백성들을 도탄에 빠뜨렸다.", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="但，正所谓人定胜天，邪不干正。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="しかし、人の力は必ずそれらに打ち勝つことができるのです。邪道は正道に勝てないのですから。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="But, as the sayings go, humanity's will conquers fate, and evil can never triumph over good.", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="하지만 사람의 노력은 하늘을 이기고, 어둠은 빛을 이길 수 없는 법.", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="豪侠义士，行走四方，路见不平，拔刀相助，试看书林隐处，几多俊逸儒流。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="勇敢な義侠の士は、各地を放浪する中で人が危険に晒されていればこれを助けます。書林を見れば、幾人もの抜きん出た儒学者たちが世を想っております。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="You gallant saviors walk the cardinal winds; where found, you draw your arms to combat terrors on the weak. In all the writings new and old, how living still are such bright, flowing scholars?", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="협객들은 사방을 떠돌아다니며 의롭지 못한 일을 보면 도움을 주었다. 이러한 빼어난 협객들의 일화는 고금의 책에도 많이 기록되어있다.", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="呵！正所谓“美食美酒美景，美人美善美谈”，望自古英雄豪杰，皆一身浩然正气。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="ああ！　まさに「美食美酒美景、美人美徳美談」かな！　古来より英雄たちは皆、公明正大な義の心を宿しているのです。", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="Ah! As they say, 'fair the food, the wine, and the scenery, fair the people, their virtue, and their company,' we see those heroes looming out of time immemorial, each one a vast paragon of right.", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="아! '미식, 미주, 미경, 미인, 미선, 미담'이라고 했던가! 영웅호걸은 척 봐도 그 호연정기가 느껴지는 법이다.", x=250, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [name="？？？"]嗯，看二位恩人根骨精奇，一身正气，又有一颗行侠仗义的难得心肠，必定是哪处的隐士高人吧？
+[name="？？？"]いやまったく、恩人であるお二方は天賦の才と正しい気風に溢れ、その上稀有な義侠心までをも持っておられる。もしやどこぞの崇高な隠者でありましょうか？
+[name="???"]Yes, I see you two benefactors are wonders to your cores, paragons of right, and blessed with a seldom-seen heart of chivalry; surely you must be the hermits of a realm's highest honor?
+[name="???"]음, 근골이 정교하고 정직하고 올곧으며, 또 의협심을 발휘하는 보기 드문 마음씨가 있는 걸 보아하니, 두 분께선 필시 모처에 은둔하고 계신 이름 높으신 분이겠지요?
 
 [name="？？？"]呜呜呜，一定是苍天怜我，命不该绝......一想到那些凶恶畜生，我就气不打一处来！不过是误打误撞冲闯了它们的巢穴，何至于此！
+[name="？？？"]ううっ……天が私を哀れみ、死するには早いと命を助けたに違いない……あの凶悪な畜生どもを思い出すと、怒りでどうにかなりそうだ。偶然、巣穴に迷い込んだだけなのに、なにゆえこんな目に！
+[name="???"]Ohh, ohh, surely the firmaments took pity on me, spoke that my life shouldn't end here... When those fiendish brutes enter my mind, my rage at once just swells in crescendo! Yet while out of my senses, I charged headlong into their lair. I lament it came to that!
+[name="???"]크흡, 하늘이 저를 불쌍히 여기어 살려주신 거군요…… 그런 흉악한 짐승들을 생각하니 화가 치밀어 오르는군요! 실수로 그들의 소굴에 들어간 것뿐인데, 어쩌다가 일이 이렇게 된 건지 원!
 
 [name="？？？"]幸好有二位贵人相救，我才得以顺利脱身。俗话说得好，大恩不言谢，不如让我为二位恩人算上一卦......聊表敬意，您看如何？
+[name="？？？"]お二方のおかげで無事、難を逃れました。曰く、「感謝の気持ちは行動で示すべし」。よろしければ恩返しに一つ占わせて頂きたいのですが、いかがでしょう？
+[name="???"]It's a blessing that you two luminaries rescued me, and only then I could escape intact. As the proverb goes, mere thanks pale before a mighty grace; the least I can offer to you benefactors is a divination... what do you think of that, as a mark of tribute?
+[name="???"]두 분께서 구해주신 덕분에 전 무사히 그곳에서 벗어날 수 있었습니다. 옛말에 그런 말이 있죠, 크나큰 은혜에는 예사 인사치레를 하지 않는다. 제가 두 분을 위해 점괘를 봐 드릴까 하는데…… 경의의 표시로요, 어떠신지요?
 
 [name="炎熔"]......唉。
+[name="ラヴァ"]……はぁ。
+[name="Lava"]...Uh.
+[name="라바"]하아……
 
 [name="炎熔"]要不你直接把那本占卜杂志借我看看，正好打发时间......
+[name="ラヴァ"]直接その占い雑誌を見せてくれりゃいい。暇つぶしにはなるだろうから……
+[name="Lava"]I guess if you could lemme read that divining magazine you have. Trying to pass the time right now...
+[name="라바"]그냥 그 운세 잡지를 내게 빌려주는 게 어때, 시간 보내기에 딱 좋을 것 같은데……
 
 [name="？？？"]咳哼！啊哈哈，炎熔小姐，这就是您的不对了啊，所谓揭人不揭短，打人不打脸——
+[name="？？？"]ゴホン！　あはは、ラヴァ嬢も人が悪いですな。人を叩けど顔は潰さず、相手の面子を立てるべしと言うでは――
+[name="???"]*cough*! Ahahah, Ms. Lava, that would be your misconception. As they say, bare a person not by their faults, and strike them not to their looks—
+[name="???"]크흠! 아하하, 라바 은인님, 그건 아니지요. 남을 탓해도 단점은 들추지 않고, 때려도 뺨은 때리지 않는다지 않습니까……
 
 [name="炎熔"]有话直说。
+[name="ラヴァ"]単刀直入に言ってくれ。
+[name="Lava"]Get to the point.
+[name="라바"]할 말 있음 솔직히 말해.
 
 [name="？？？"]欸，还是炎熔小姐您慧眼如炬啊！这不是俗话说撑船撑到岸，帮人帮到底嘛。虽然您二位帮我赶走了那些玩意，但不瞒二位说......
+[name="？？？"]ははぁ。さすがはラヴァ嬢、素晴らしい慧眼をお持ちで！　つまり俗に言う乗りかかった船と言うやつでして、この哀れな私めに引き続きご助力いただきたく……
+[name="???"]Ah, truly your insight is like a torch to the dark, Ms. Lava! It's just like the proverb goes; aid must be seen to the end, like boats are to shore. Though the two of you helped me fend off those things, I cannot hide it from you...
+[name="???"]헤, 역시 라바 은인님은 예리하시군요! 속담에 배를 저어 기슭까지 가서 끝까지 도와준다는 말이 있지 않습니까. 두 분께서 절 도와 그 녀석들을 쫓아내 주셨지만, 두 분께 솔직히 말씀드리자면……
 
 [name="？？？"]其实我的行李全丢了。嗯，不光是干粮和盘缠，地图啊、帐篷啊、证件啊、换洗衣服和我心爱的小茶壶......嗯，全丢了。
+[name="？？？"]実は荷物をすべてなくしてしまったんです。携行食や路銀だけではなく、地図やテント、証明書、着替えの他にお気に入りの急須まで……はい。ものの見事に全部をです。
+[name="???"]Truthfully, I've lost all my luggage. Mm, not just my rations and travel money, but my maps, tent, papers, changes of clothes and my beloved little teapot... yes, all lost.
+[name="???"]사실 제 짐을 모두 잃어버렸답니다. 네, 식량과 여비, 지도, 천막, 증서, 그리고 갈아입을 옷과 내가 좋아하는 찻주전자까지…… 모두 잃어버리고 말았죠.
 
 [name="？？？"]毕竟我的车都沉进湖里了嘛，啊哈哈哈。
+[name="？？？"]だって車ごと湖に沈んじゃったんですからね！　あははは！
+[name="???"]After all, my whole carriage sank into the lake. Ahahahah.
+[name="???"]하긴 제 차가 호수에 가라앉아버렸으니…… 아하하하……
 
 [name="炎熔"]......你这钓竿扇子不是还在吗，你真的是信使？
+[name="ラヴァ"]釣竿と扇子はあるじゃないか。で……オマエがトランスポーターという話は本当なのか？
+[name="Lava"]...You still have your fishing rod and fan, though? Are you really a Messenger?
+[name="라바"]……낚싯대와 부채는 아직 있잖아, 너 정말 전달자 맞아?
 
 [name="？？？"]哈哈，哈，诶，其实其中有些隐情啦......反正骗不过您，那麻烦您就当我是吧。
+[name="？？？"]ははは、はぁ……実はそれに関してはやんごとなき事情があるのですが、誤魔化すこともできなさそうですし、どうかひとまずはそう思っていただければと。
+[name="???"]Hahah. Hah. Er, truthfully, there's some things I'd like to keep to myself... I could never get a lie past you, so I'll just have to ask you treat me like I am.
+[name="???"]하하, 하, 사실 사정이 좀 있어요…… 어차피 은인님을 속일 수 없을 테니 그냥 제가 전달자라고 생각해 주세요.
 
 [name="炎熔"]所以你是希望和我们一起走？
+[name="ラヴァ"]ふーん……で、アタシたちと一緒に来たいってか？
+[name="Lava"]So you're looking to go with us?
+[name="라바"]그래서 넌 우리와 함께 가고 싶은 거야?
 
 [name="？？？"]没错！
+[name="？？？"]その通りです！
+[name="???"]Indubitably!
+[name="???"]그렇습니다!
 
 [name="炎熔"]唔......
+[name="ラヴァ"]はぁ……
+[name="Lava"]Uh-huh...
+[name="라바"]흠……
 
 [name="？？？"]呜呜呜，我哪会不知二位有私事在身呢，我也实在是不好意思继续给恩人添麻烦......
+[name="？？？"]ううう、ご迷惑をおかけして非常に申し訳ないとは思っています。お二方に所用がお有りだということも重々承知しておりますが――
+[name="???"]Ohh, ohh, how could I be so blithe about your personal business? Really, I'm loath to continue inconveniencing my benefactors...
+[name="???"]크흐흡…… 두 분께도 일이 있단 걸 제가 어찌 모르겠습니까, 저도 은인님께 계속 폐를 끼치는 게 정말 송구스러울 따름입니다……
 
 [name="？？？"]只是前路三百里有处村庄，名叫泥翁镇，盛产美玉。那儿有一处驿站，只要坐上那糙椅，喝碗粗茶，打点一番，我就能重整旗鼓，再不麻烦别人！
+[name="？？？"]あと三百里先に泥翁町（でいおうちょう）という町があります。美しい玉石の産出地です。そこの宿場で茶でも飲んで一息つけば、私も態勢を立て直せます。そしたらもうご迷惑はかけませんから！
+[name="???"]Only, three hundred li ahead is a village by the name of Ni-weng, rich in fine jade. There's a stage station there, and as long I have a simple chair to rest on, a bowl of loose tea and the chance to get my things sorted, I'll be back in the saddle, no more troubling anyone else!
+[name="???"]다만 앞길 300리에 아름다운 옥을 많이 생산하는 니옹 마을이라고 있습니다. 그곳에 객점이 하나 있는데, 의자에 앉아 차 한 잔 마시며 한숨 돌리면 저도 다시 정리를 하고 폐를 끼치지 않겠습니다!
 
 [name="炎熔"]一起走段路倒是没什么啦......不过现在那些钳兽受了不小的刺激，攻击性很强，真要一起走，也得等到它们安静下来再说。
+[name="ラヴァ"]しばらく付いてくるだけなら別に構わないが……今はあの鉗獣たちも気が立ってて、凶暴になってる。一緒に行くにしても、アイツらが落ち着いてからだ。
+[name="Lava"]I mean, going with us is fine, but... all the gloompincers are pretty aggroed right now. Really strong attacks, too. If you wanna go with us, we're gonna need to wait until they settle down first.
+[name="라바"]같이 가도 상관은 없는데…… 지금 글룸핀서들은 자극을 받아서 공격성이 매우 강하니까, 정말 함께 가고 싶으면, 그 녀석들이 진정할 때까지 기다려야 해.
 
 [name="？？？"]哎呀哎呀，给各位添了麻烦，实在不好意思。
+[name="？？？"]ああ！　ありがとうございます！
+[name="???"]Oh my, oh my, I'm being such a bother to you all. I really am so sorry.
+[name="???"]아이고, 여러분께 폐를 끼쳐 정말 죄송합니다.
 
 [name="？？？"]不过那位叫克洛丝的恩人怎么还没回来？那些野兽数量不少，真不需要咱俩搭把手？
+[name="？？？"]それにしても、もう一人の恩人、クルース嬢のお戻りが遅いようですね……周りには結構な数の野獣がおりましたゆえ、私めが彼女の元に馳せ参じましょうか？
+[name="???"]That said, why isn't our benefactor Kroos back yet? There's no shortage of those beasts. Are you sure she won't need our help?
+[name="???"]그런데 그 크루스라는 은인님은 왜 아직 안 돌아오시는 거죠? 그 야수들의 수가 적지 않은데, 정말 돕지 않아도 될까요?
 
 [name="炎熔"]你要是真能帮上忙，之前为什么被钳兽撵着跑了这么远？老老实实等着吧。
+[name="ラヴァ"]オマエに人を助けられる実力があれば、そもそも鉗獣に追われてないだろ。大人しくここで待ってろ。
+[name="Lava"]If you could help, why'd you get chased this far out by the gloompincers? Just hold tight and wait.
+[name="라바"]네가 정말 도움이 된다면, 글룸핀서에게 쫓겨 이 먼 곳까지 오지 않겠지. 그냥 얌전히 기다리고 있어.
 
 [name="？？？"]可二位救我于水火已是大恩难报，再任由那位恩人独身犯险，我实在于心不忍。
+[name="？？？"]しかし、お二方には危機から救って頂いたという大恩があります。その恩人の一人が危険に晒されているなんて、耐えられませぬ。
+[name="???"]Yet your great grace saving me demands recompense, stuff a pole apart. To stand by as my other benefactor braves further danger alone—I really find it hard to bear.
+[name="???"]두 분께서 절 구해주신 것만으로도 크나큰 은혜라 보답하기 어려운데, 은인을 홀로 위험에 빠뜨리는 건 차마 못 하겠습니다.
 
 [name="？？？"]不如这样！我这里还有一本健身......不，是独门秘籍，价值不菲，可有效改善身材，就当是给二位的报答！
+[name="？？？"]そうだ！　ここに取り出したるは一冊のボディービル……いや、武の真髄を記した秘伝書なり。読めばたちまち強靭な肉体が手に入るとされ、その価値は計り知れず。これを御礼に差し上げましょう！
+[name="???"]What about this! I have here a copy of a workout b... nay, a secret tome, its worth formidable, that improves your figure with striking efficacy! This shall be my repayment to the two of you!
+[name="???"]이건 어떨까요! 여기 피트니스…… 아니, 비결책이 하나 있는데, 값진 물건이죠. 몸매 관리에 효과적이니 두 분께 보답하는 의미로 드리는 건 어떨까요!
 
 [name="炎熔"]能消停会不？
+[name="ラヴァ"]いいから。少し落ち着いたらどうだ？
+[name="Lava"]Can you stop? Chill?
+[name="라바"]좀 조용히 있을 수 없어?
 
 [name="？？？"]得嘞。
+[name="？？？"]御意にございます。
+[name="???"]Most certainly.
+[name="???"]알겠습니다.
 
 [name="？？？"]......
+[name="？？？"]…………
+[name="???"]......
+[name="???"]……
 
 [name="炎熔"]......
+[name="ラヴァ"]…………
+[name="Lava"]......
+[name="라바"]……
 
 [name="？？？"]......
+[name="？？？"]…………
+[name="???"]......
+[name="???"]……
 
 [name="炎熔"]......算了，别这样打量我，你还是想问就问吧。
+[name="ラヴァ"]……ああ、もう！　そんな品定めするような目でアタシを見るな。聞きたいことがあるならはっきり聞いてくれ。
+[name="Lava"]Fine. Stop sizing me up like that. Just ask what you wanna ask, I guess.
+[name="라바"]됐다…… 날 그렇게 뚫어져라 보지 말고, 물어볼 게 있으면 물어봐.
 
 [name="？？？"]哎，二位恩人，看打扮，不像是附近村里的人吧？
+[name="？？？"]は、はい！　あの……お二方は見たところ、このあたりの住民ではなさそうですが？
+[name="???"]Ah. By your dress, you two benefactors wouldn't happen to be people of any nearby village, would you?
+[name="???"]두 분은, 차림새를 보니 근처 마을 분은 아닌 것 같습니다만?
 
 [name="炎熔"]不是。
+[name="ラヴァ"]ああ。
+[name="Lava"]We're not.
+[name="라바"]맞아.
 
 [name="？？？"]干脆不是炎国人？
+[name="？？？"]炎国の方ですらないのでは？
+[name="???"]To be forward, you're not people of Yen?
+[name="???"]염국 분이 아니신 거죠?
 
 [name="炎熔"]嗯。
+[name="ラヴァ"]そうだ。
+[name="Lava"]Nope.
+[name="라바"]어.
 
 [name="？？？"]那是来自哪里？东国？乌萨斯？莫不是更远些的，游历四方的骑士？我听说异邦人总有这种奇怪的传统，真的假的？
+[name="？？？"]どちらからいらっしゃったんです？　極東？　ウルサス？　まさかさらに遠方から来た、大地を旅する騎士様では？　異邦人にはそのような奇っ怪な伝統があるとか。それは本当ですか？
+[name="???"]Then from where do you hail? Higashi? Ursus? Possibly somewhere even farther, like knights journeying the compass? I've heard people of foreign lands always tend to have strange traditions like that. Is it true? False?
+[name="???"]그럼 어디에서 오셨나요? 극동? 우르수스? 설마 더 먼 곳은 아니겠죠, 사방을 떠도는 기사? 이방인에게는 이런 이상한 전통이 있다고 하던데, 정말인가요?
 
 [name="炎熔"]我不是......我......唉。
+[name="ラヴァ"]違う。アタシは……はぁ。
+[name="Lava"]I'm not... I... ugh.
+[name="라바"]난 아니야…… 난…… 휴.
 
 [name="炎熔"]非要说的话，我是维多利亚人。
+[name="ラヴァ"]強いて言うなら、アタシはヴィクトリア人だ。
+[name="Lava"]If I gotta say it, I'm a Victorian.
+[name="라바"]굳이 말하자면, 난 빅토리아 사람이야.
 
 [name="？？？"]哦......维多利亚呀，嗨，那儿啊，我熟。
+[name="？？？"]ほう……ヴィクトリアとな……えー、ふむ、なるほど！　あのヴィクトリアですね、え、ええ、よく知っていますとも。
+[name="???"]Uh... Victoria's, yeah, I hm, uh, know it well.
+[name="???"]아…… 빅토리아 분이시군요. 아, 거기요, 잘 알죠.
 
 [name="炎熔"]你压根不知道维多利亚在哪儿吧。
+[name="ラヴァ"]どう見ても知らない奴の反応なんだが。
+[name="Lava"]You have literally no idea where Victoria is, do you.
+[name="라바"]넌 빅토리아가 어디에 있는지 전혀 모르잖아.
 
 [name="？？？"]啊哈哈，异国异事，也只有城里的老爷们才会上心嘛，我们这种乡野村夫，想那么多作甚。
+[name="？？？"]あははは……異国のことに興味があるのは、都会のお偉方くらいのものです。私たちのような田舎者には、関わりのないことですからね。
+[name="???"]Ahahah. Foreign lands have foreign plans; only our masters in the cities would be so mindful of them. What use would we plain country folk have for ruminating?
+[name="???"]아하하, 다른 나라 일을 신경 쓰는 건 성안의 나리들 정도죠. 우리 같은 시골뜨기가 뭘 그리 많이 생각하겠습니까.
 
 [name="？？？"]只是难得看见异乡来客，恩人您一口炎国话说得又挺像那么回事，我这才好奇嘛。
+[name="？？？"]ただ、遠路はるばるいらっしゃったにしては、流暢に炎国の言葉を話されるので、不思議に思ったんです。
+[name="???"]It's just rare to see guests from afar. The way you speak the Yen tongue was decently suggestive of it, hence my curiosity.
+[name="???"]모처럼 타향에서 온 손님들을 보았는데, 은인님께서 염국말을 그럴듯하게 하셔서 궁금했을 따름입니다.
 
 [name="炎熔"]（其实大炎话是临阵磨枪的......算了。）
+[name="ラヴァ"]（炎国の言葉は付け焼き刃なんだが……まぁいいか。）
+[name="Lava"](I kinda only looked into Yenese right before we left for... whatever.)
+[name="라바"](사실 염국말은 벼락치기로 배운 건데…… 됐다.)
 
 [name="炎熔"]唔，克洛丝回来了。
+[name="ラヴァ"]お、クルースが戻って来たぞ。
+[name="Lava"]Oh, Kroos is back.
+[name="라바"]오, 크루스가 돌아왔네.
 
 [name="？？？"]哎哟，克洛丝小姐，克洛丝阁下，辛苦，辛苦了啊，伤着了没？要不要给您揉揉肩？敲敲腿？
+[name="？？？"]おおっ！　クルース嬢――いやクルース殿！　よくぞご無事で！　お疲れでございましょう。おケガはございませんか？　肩をお揉みしましょうか？　それともおみ足を？
+[name="???"]My, now, Ms. Kroos, Ms. Honorable Kroos, thank you, thank you dearly, are you hurt? Ought I give you a shoulder rub? A leg massage?
+[name="???"]아이고, 크루스 은인님, 크루스 각하, 수고하셨습니다, 수고하셨어요. 어디 다친 데는 없으신지요? 제가 어깨 좀 주물러 드릴까요? 다리도 좀 두드려 드릴까 합니다만?
 
 [name="？？？"]我这里还有一瓶包治百病的祖传灵药，本来价格不菲，不过念在二位恩人的面子上，我就咬咬牙，白送了吧。
+[name="？？？"]ここに万病に効くと言われる、先祖代々の霊薬があります。本当は非常に高価な品ですが、恩人様のために思い切って差し上げましょう。
+[name="???"]I have here a bottle of elixir, a panacea passed down for generations. Its price is, well, considerable, but in the face of you two benefactors, I'll bite my tongue. You can have it free of charge.
+[name="???"]제게 만병통치약이 하나 있는데, 매우 비싼 물건이랍니다. 그런데 두 은인님을 봐서 제가, 이를 악물고 공짜로 드리겠습니다.
 
 [name="炎熔"]......行李不是全丢了吗？
+[name="ラヴァ"]……荷物は全て無くなったんじゃなかったのか？
+[name="Lava"]...I thought you lost all your luggage?
+[name="라바"]……짐 다 잃어버린 것 아니었어?
 
 [name="？？？"]这不是还留了点行走江湖的必备良品在备用口袋里嘛。欸，咱们老江湖都这样。
+[name="？？？"]ああ、これは世間を渡り歩くには欠かせぬ良薬ですから、内ポケットに入れて身につけているんです。私たちのように旅慣れた人間はみんなそうしてますよ。
+[name="???"]I still have some fine goods on me; backup is what the wanderer's living demands. Ah, such is our way of life.
+[name="???"]강호를 떠돌아다닐 때 꼭 필요한 것이라 비상 주머니에 넣어뒀죠. 아, 우리 떠돌이들은 다 이렇답니다.
 
 [name="炎熔"]好，好，随你便吧。那前面的情况如何？
+[name="ラヴァ"]分かった分かった、何でもいいよ。クルース、状況はどうだ？
+[name="Lava"]Fine, fine, just do you. Hey, how were things up ahead?
+[name="라바"]알았어, 네 맘대로 해. 앞의 상황은 좀 어때?
 
 [name="克洛丝"]只是一些可怜的小家伙，帮它们找了个新家，就安静下来啦。
+[name="クルース"]あの鉗獣たち、みんなただの可哀想な子たちだったよぉ。新しいお家を見つけてあげたら、みんな大人しくなったからねぇ。
+[name="Kroos"]Just a few poor li'l guys I helped find a new home. They settled right down after that.
+[name="크루스"]불쌍한 애들이야, 새집을 찾아주니 조용해졌어.
 
 [name="克洛丝"]这下我们可以继续前进了，对吧？穿过那片芦苇荡，沿河而下，就能看见那座山了吧？
+[name="クルース"]これでもう進んで大丈夫だよねぇ？　あの茂みを抜けて、川沿いに下れば目的の山が見えてくるはずだよ～。
+[name="Kroos"]This way we can head on, right? We pass through that reed marsh, follow downstream, and then we've found the mountain?
+[name="크루스"]이제 우리 계속 전진할 수 있겠네, 그치이~? 저 갈대밭을 지나 강을 따라 내려가면 그 산이 보이겠지?
 
 [name="？？？"]呃，帮钳兽找新家？
+[name="？？？"]な、なぜあんな鉗獣のために新しい家など？
+[name="???"]Er, you helped rehome the gloompincers?
+[name="???"]에? 글룸핀서를 도와 새집을 찾아 줬다고요?
 
 [name="炎熔"]......反正，解决就好，早点赶路吧。
+[name="ラヴァ"]……とにかく解決したんならそれでいいだろ。先を急ごう。
+[name="Lava"]...Either way, it's sorted now. We'd better get moving, chop-chop.
+[name="라바"]어쨌든…… 해결되면 좋은 거니까. 서두르자.
 
 [name="炎熔"]克洛丝，这个可怜的信使说要和我们一起走一段路，到泥翁镇去，没问题吧？
+[name="ラヴァ"]クルース、この可哀想な自称トランスポーターが、泥翁町ってとこまで一緒に行きたいそうだ。問題ないだろ？
+[name="Lava"]Kroos, this sad Messenger guy said he wants to go with us up to Ni-weng. No problems with that?
+[name="라바"]크루스, 이 불쌍한 전달자가 우리와 함께 가겠다는데 어떻게 할래? 니옹 마을까지 간다는데, 괜찮지?
 
 [name="克洛丝"]没问题呀，这次小炎熔是队长，小炎熔说了算呀。
+[name="クルース"]いいよぉ。今回はラヴァちゃんが隊長だからねぇ。全部ラヴァちゃんが決めていいんだよぉ。
+[name="Kroos"]No problemo. You're the captain this time, Lava, mate. What you say goes.
+[name="크루스"]상관없어, 이번엔 라바가 대장이니까, 라바 마음대로 정하면 돼~
 
 [name="？？？"]原来是队长！失敬失敬！
+[name="？？？"]いやはやお見それしました、隊長さんでしたか！　失敬失敬！
+[name="???"]So you're the captain! My apologies, my apologies!
+[name="???"]대장이셨군요! 제가 실례했습니다!
 
 [name="克洛丝"]失敬失敬~
+[name="クルース"]失敬失敬～。
+[name="Kroos"]My apologies, my apologies~
+[name="크루스"]실례했습니다아~
 
 [name="炎熔"]你别跟着他起哄啊......
+[name="ラヴァ"]一緒になって茶化すな……
+[name="Lava"]Don't make his racket worse...
+[name="라바"]너까지 시끄럽게 굴지 마……
 
 [name="炎熔"]说起来刚才一直没问你，该怎么称呼？
+[name="ラヴァ"]そういえばオマエの名前を聞いてなかったな。
+[name="Lava"]Now that I mention it, I still haven't asked. What should I call you?
+[name="라바"]아까부터 묻는 걸 깜빡했는데, 뭐라고 불러야 하지?
 
 [name="？？？"]我？我一个小小信使，哪有自报家门的必要呢？您说是吧，啊哈哈——
+[name="？？？"]私ですか？　一介のトランスポーターに名など必要ないでしょう。あはは――
+[name="???"]Me? I'm just a lilliputian Messenger; what necessity is my introduction to the stage? I'm sure you agree, ahahah—
+[name="???"]저요? 저 같은 보잘것없는 전달자가 무슨 자기소개를 하겠습니까? 안 그런가요, 아하하……
 
 [name="炎熔"]哼？
+[name="ラヴァ"]あぁ？
+[name="Lava"]Huh?
+[name="라바"]흐음?
 
 [name="？？？"]——不过一直瞒着二位恩人倒也不合礼数，成何体统！嗯......就叫我......乌有吧。
+[name="？？？"]――ですが、恩人様方をはぐらかし続けるのも礼儀にもとるというもの。ふむ……私のことは……そうですねぇ、「ウユウ」と呼んでください。
+[name="???"]—But keeping the two of you forever in the dark would be quite unbecoming. Whatever next, ho! Mm... just call me... Mr.Nothing, then.
+[name="???"]……하지만 계속 두 분을 속이는 것도 도리에 맞지 않는 거겠죠! 흠…… 그냥…… '우요우'라고 부르시면 됩니다.
 
 [name="炎熔"]你绝对是刚想的吧！？
+[name="ラヴァ"]おい！　今考えた名前だろ！？
+[name="Lava"]You just came up with that, didn't you!?
+[name="라바"]방금 생각해낸 거지?!
 
 [name="乌有"]没有没有！哪能呢！
+[name="ウユウ"]いえいえ！　どうしてそんな不躾なことできましょうか！
+[name="Mr.Nothing"]Not at all, not at all! How could I!
+[name="우요우"]아닙니다, 아니에요! 그럴 리가요!
 
 [name="克洛丝"]嗯......那个泥翁镇，是不是在灰齐山的山脚？
+[name="クルース"]うーん……泥翁町って、灰斉山（かいせいざん）の麓のだよねぇ？
+[name="Kroos"]Hmm... that Ni-weng place. Isn't it at the foot of Mount Hui-ch'i?
+[name="크루스"]흠…… 그 니옹 마을은 회제산의 산기슭에 있는 거 아니야?
 
 [name="乌有"]正是正是，恩人果然博闻多识！那么小个城镇都有所耳闻！
+[name="ウユウ"]いかにもいかにも、さすが恩人様は博識でいらっしゃる！　あんな小さな町のことまでお聞き及びとは！
+[name="Mr.Nothing"]That it is, that it is! Dear benefactor, you're quite well-versed indeed to have heard word of a town so small!
+[name="우요우"]맞아요, 맞아, 은인님께서는 역시 박학다식하시네요! 그런 작은 마을도 알고 계시다니!
 
 [name="克洛丝"]那不是正好顺路嘛！
+[name="クルース"]じゃあ私たちの行き先と、同じ方角だよ～！
+[name="Kroos"]Then it's right on the way, isn't it!
+[name="크루스"]거긴 지나가는 길이잖아~!
 
 [name="克洛丝"]这样吧，乌有先生，我们保护您过去，不过到了目的地，您也得帮我们一个忙。
+[name="クルース"]そしたらウユウさん、町まで私たちが守ってあげたら、そのあと私たちのお手伝いもしてくれる～？
+[name="Kroos"]How about this, Mister Mr.Nothing? We'll escort you there, but once we've reached where we're aiming for, you'll need to help us out a little too.
+[name="크루스"]이렇게 하자고, 우요우. 우리가 목적지에 도착할 때까지 당신을 보호해 줄 테니, 당신도 우릴 도와야 해.
 
 [name="乌有"]没问题！没问题！反正车都在湖底了，等着救援队帮我捞出来之前，我也没啥事儿做。
+[name="ウユウ"]ええ！　お手伝い致しますとも！　湖に沈んでしまった車を救援隊に引き上げてもらうまで、特にやることもありませんから。
+[name="Mr.Nothing"]Not a problem! Not a problem! With my carriage in the lakebed and me waiting for a rescue team to fish it out, my plate is completely empty in the meanwhile.
+[name="우요우"]그 정도야 간단하죠! 어차피 차가 호수 바닥에 있어서 구조대가 꺼내 주기 전까진 할 일도 없는걸요.
 
 [name="乌有"]呜呜呜......俗话说得好，滴水之恩，涌泉相报！这么快就有机会报答二位救命之恩，着实是老天开眼，老天开眼啊！
+[name="ウユウ"]曰く、「受けた恩は全身全霊をもって返すべし」！　こんなにも早く恩人様方へ恩返しができる機会が来ようとは……これは神の思し召しに違いない！
+[name="Mr.Nothing"]Ohh, ohh... Just as the proverb goes, a drop of kindness warrants a fountain of redress! That I should have the chance so soon to repay your graces in saving my life! Surely, the heavens have smiled upon me! They have smiled upon me!
+[name="우요우"]크흐읍…… 은혜를 입으면 갑절로 갚아야 한다더니, 옛말이 틀린 게 하나도 없군요! 이렇게 빨리 두 분께 생명의 은혜를 보답할 기회가 오다니! 하늘이 도와주시는 겁니다!
 
 [name="克洛丝"]这副声泪俱下的真诚模样让我想起了某些隔三差五被扣工资的人呢。
+[name="クルース"]その泣き芸とわざとらしい演技、まるで減給処分になった人みたいに必死だねぇ～。
+[name="Kroos"]Ya know, that genuine manner with the teary voice reminds me of a certain someone who gets a chunk knocked out of her wages every couple of days.
+[name="크루스"]그렇게 눈물을 흘리는 솔직한 모습을 보니까, 하루가 멀다 하고 급여가 삭감되는 사람들이 떠오르네……
 
 [name="克洛丝"]好啦，队长，你决定吧？
+[name="クルース"]よぉし、隊長さん〜どうするか決めたぁ？
+[name="Kroos"]Alrighty. Cap'n, you decided?
+[name="크루스"]좋아, 대장, 이제 결정하는 게 어때~?
 
 [name="炎熔"]这种时候甩给我？
+[name="ラヴァ"]結局アタシ任せかよ！
+[name="Lava"]You pick this moment to dump him on me?
+[name="라바"]이런 상황엔 꼭 나한테 넘기더라?
 
 [name="乌有"]恩人！恩人呐！请一定要给我这个机会！
+[name="ウユウ"]恩人様！　恩人様よ！　どうか私にチャンスを！
+[name="Mr.Nothing"]Benefactor! Oh, benefactor! I plead that you must give me this chance!
+[name="우요우"]은인님! 은인님! 부디 제게 기회를!
 
 [name="炎熔"]唔......有一个本地人的确方便些，年那个家伙给的信息本来就模棱两可的......炎国的地理环境我也不熟，找一个人确实有点困难......
+[name="ラヴァ"]うーん……まぁ、確かに地元の人間がいれば便利っちゃ便利だな。アタシも炎国の地理には疎いし、ニェンの奴が寄越した情報も曖昧だから……人探しには苦労しそうだしな……
+[name="Lava"]Uh... I've gotta admit having a local would be pretty handy. And Nian's info was ambiguous anyway, that son of a... I'm not familiar with Yen's geography or environment, and finding someone's actually been a bit of a challenge...
+[name="라바"]흠…… 현지인이 한 명 있으면 편하긴 하지, 니엔이 내게 준 정보도 불확실하고…… 염국 지리는 나도 잘 몰라서 사람을 찾으려면 힘들 테니……
 
 [name="炎熔"]唉，可露希尔为什么要答应她做这么麻烦的事情。
+[name="ラヴァ"]はぁ……クロージャはなんでまた、ニェンの奴が持ち込んだこんな面倒事にゴーサインを出したんだ？
+[name="Lava"]Ugh, why did Closure give her permission to do something this annoying?
+[name="라바"]휴, 클로저는 왜 이런 귀찮은 일을 하겠다고 승낙한 거야 정말.
 
 [name="克洛丝"]因为她最近意外的有干劲嘛。
+[name="クルース"]あの人、最近珍しくやる気だからねぇ。
+[name="Kroos"]Because she's had a surprisingly productive mood recently.
+[name="크루스"]요즘 유독 의욕이 넘치더라고~
 
 [name="炎熔"]除了打麻将吃火锅以外，她还做了什么？
+[name="ラヴァ"]アイツは麻雀と火鍋を食う以外なにもやってないだろ。
+[name="Lava"]Apart from playing mahjong and eating hotpot, what else has she done?
+[name="라바"]마작하고 훠궈 먹는 것 말고 뭘 했는데?
 
 [name="克洛丝"]别这么说嘛，年小姐要是知道你这么看待她，她会很难过的吧。
+[name="クルース"]まぁまぁそう言わないで〜。ラヴァちゃんがそんな風に思ってるだなんて知ったら、ニェンさんが悲しんじゃうよぉ。
+[name="Kroos"]Don't do her like that. If Nian knew that was how you saw her, she'd take it hard.
+[name="크루스"]그렇게 말하지 마, 네가 니엔을 그렇게 생각한단 걸 알면, 니엔은 무지 괴로워할 거라구~
 
 [name="炎熔"]她习惯了。我也习惯了她习惯了。我只是抱怨一下她给我们找这么多麻烦。
+[name="ラヴァ"]アイツもこういう扱いには慣れっこだ。いつも迷惑かけられっぱなしだから、こっちも言ってやらないと。
+[name="Lava"]She's used to it. I'm used to her being used to it. I'm just complaining a bit about how she's giving us so much pain.
+[name="라바"]걘 익숙해. 나도 걔가 익숙한 것에 익숙하고. 난 그냥 걔가 우리에게 이런 번거로움을 줘서 불만일 뿐이야.
 
 [name="乌有"]......
+[name="ウユウ"]…………
+[name="Mr.Nothing"]......
+[name="우요우"]……
 
 [name="炎熔"]呃......抱歉，应该先和你分享一下情报了，乌有先生。
+[name="ラヴァ"]ああ……悪い。先に情報共有をしておくべきだったな、えーと……ウユウだったな。
+[name="Lava"]Uh... sorry. I should let you in the loop first, Mr.Nothing.
+[name="라바"]아…… 미안, 먼저 네게 정보부터 공유했어야 하는데, 우요우.
 
 [name="乌有"]好嘞，恩人说的话，我保证都给刻在心头肉上，每天睡前念三遍，醒来念三遍——
+[name="ウユウ"]いえいえ、恩人様のお話は、必ず全て心に刻み、毎日朝と夜に三回唱えて――
+[name="Mr.Nothing"]Very well. Everything you say, rest assured I'll engrave into my flesh and soul. Three recitations before bed, three when I wake—
+[name="우요우"]알겠습니다, 은인이 하신 말씀, 모두 가슴속 깊이 새기고 매일 잠자기 전 세 번, 잠에서 깨어나 세 번 생각하겠습니다……
 
 [name="炎熔"]不、不用那么夸张......
+[name="ラヴァ"]そ、そこまでしなくていい……
+[name="Lava"]It's—it's not that big a deal...
+[name="라바"]그, 그렇게까지 할 건 없잖아……
 
 [name="炎熔"]我们的任务很简单，只是找一个人。
+[name="ラヴァ"]アタシたちの任務は単純だ。とある人物を探している――
+[name="Lava"]Our mission's really simple. We're finding a single person.
+[name="라바"]우리 임무는 아주 간단해, 한 사람만 찾으면 돼.
 
 一个月前
+――1ヶ月前
+One month before
+한 달 전.
 
 罗德岛本舰
+ロドス本艦
+Rhodes Island Landship
+로도스 아일랜드 본함
 
 [name="年"]欸，嗯，综上所述，麻烦你们帮我把妹妹带回来啦。
+[name="ニェン"]つーことで……お前らに妹を連れて来てもらいてぇんだ。
+[name="Nian"]Yeah, um, long story short, I want you to bring my little sister back here for me.
+[name="니엔"]어, 앞에 말한 내용을 종합하면, 수고스럽겠지만 내 여동생을 데려와 주길 바라.
 
 [name="炎熔"]综上所述个头啊！你什么都没说啊！
+[name="ラヴァ"]何が「つーことで」だよ！　まだ何も聞いてないぞ！
+[name="Lava"]Long story short my ass! You said basically nothing!
+[name="라바"]뭐가 앞에 말한 내용을 종합한단 거야! 너 아무 말도 안 했잖아!
 
 [name="年"]什么话，我不是说明过了吗？
+[name="ニェン"]何言ってんだ。もう説明しただろ？
+[name="Nian"]C'mon, I've explained it, haven't I?
+[name="니엔"]무슨 말이야, 내가 설명 안 했어?
 
 [name="炎熔"]“每逢佳节倍思亲”也算说明？！
+[name="ラヴァ"]「佳節（かせつ）に逢う毎に倍親を思う」って、何の説明にもなってないだろ！
+[name="Lava"]'I miss my family all the more on every festive day' counts as an explanation?!
+[name="라바"]“명절 때만 되면 가족에 대한 그리움이 더해진다”고 하는 게 무슨 설명이야!!
 
 [name="年"]当姐姐的自然会想念妹妹啊，这理由还不够充分？平时你姐姐是怎么揪着你的，你自己不清楚？
+[name="ニェン"]それ以上の理由が必要か？　姉が妹を恋しく思うのは当然だろ？　その気持ちがわからねぇってんなら、お前の姉ちゃんにでも聞いてみるか？
+[name="Nian"]Big sisters miss their li'l sisters as a matter of course. Isn't that ample reason? Your big sister yanks you around all the time, yeah? Don't you get it?
+[name="니엔"]언닌데 동생이 그리운 게 당연하지, 그 이유면 충분하지 않아? 평소에 네 언니가 네게 어떻게 물고 늘어지는지는 너도 잘 알잖아?
 
 [name="炎熔"]先不说你这个例子让人更不想帮忙——
+[name="ラヴァ"]余計にやる気がなくなるからやめろ。
+[name="Lava"]Drop that subject before you make me even less willing to help—
+[name="라바"]그 예시를 들으니 더 돕기 싫어지는데……
 
 [name="炎熔"]——好，就算我当你家里情况特殊，但从罗德岛现在的位置深入大炎腹地，要的人力物力可是非常庞大的。
+[name="ラヴァ"]――まあ、話は分かった。だけどな……オマエの家族にどんな事情があろうと、ロドスの現在地から炎国中心部に向かうとなると、相当な人員と物資が必要になる。
+[name="Lava"]—Alright, even if your family's got special circumstances going on, we'd need a stupid huge amount of personnel and resources to get Rhodes Island deep into the heart of Yen.
+[name="라바"]좋아…… 너희 집 상황이 특별하다고 치자, 하지만 로도스 아일랜드의 현재 위치에서 염국의 오지까지 깊이 들어가려면 분명 막대한 인력과 물자가 필요할 거야.
 
 [name="炎熔"]可露希尔不会轻易答应这种个人要求——
+[name="ラヴァ"]そんな私的な頼み事に、クロージャは軽々しく同意しないだろ？
+[name="Lava"]There's no way Closure would just roll over and let this request through—
+[name="라바"]클로저는 이런 개인적인 요구를 쉽게 들어주지 않을 거야……
 
 [name="年"]啊，她答应了哦。
+[name="ニェン"]ああ、あいつならいいってよ。
+[name="Nian"]Yeah, she let it through.
+[name="니엔"]아, 클로저라면 벌써 승낙했어.
 
 [name="炎熔"]......
+[name="ラヴァ"]…………
+[name="Lava"]......
+[name="라바"]……
 
 [name="年"]不仅答应了，还答应让克洛丝陪你一起去。
+[name="ニェン"]しかもクルースをお前に同行させてやるとさ。本人も承諾してるって話だ。
+[name="Nian"]She didn't just let it through, she got Kroos to go with you too.
+[name="니엔"]그 뿐만 아니라 크루스도 함께 보내주겠다 약속했는걸.
 
 [name="年"]哎呀，克洛丝大概是想去看看大炎山水吧，的确不错，这段时间她没少往那些乌烟瘴气的地方跑，是该休个假了啊。
+[name="ニェン"]クルースもきっと炎国の大自然を楽しみにしてるぜ。最近あいつも薄汚くていやーな場所での任務ばかりだったし、たまにゃ休みも必要だろ？
+[name="Nian"]Look, c'mere, I'm betting Kroos wants to tour around Yen a bit. It's not half bad, and she's been scampering through one smoky hellscape after another. It's about time she took a vacation.
+[name="니엔"]아니, 크루스는 아마 염국의 경치를 보러 가고 싶었나 보지. 확실히 좋긴 해. 요즘 크루스도 그런 난장판인 곳을 많이 돌아다녔으니, 휴가를 좀 가야 하지 않겠어?
 
 [name="炎熔"]你、你是怎么让可露希尔答应的——？
+[name="ラヴァ"]い、一体どうやってクロージャを説得したんだ……？
+[name="Lava"]H—How did you get Closure to agree—?
+[name="라바"]너, 클로저를 어떻게 구워삶은 거야……?
 
 [name="年"]啊哈，别用那种看诈骗犯的眼神看我嘛，我这次可是真的为罗德岛倾心倾力了一回。
+[name="ニェン"]おいおい、詐欺師を見るような目で見んなよ。今回はマジでロドスのために全力を尽くしてやったから、その見返りだよ。
+[name="Nian"]Ah-hah. Don't look at me like I'm caught in the act. I really am doing it all for Rhodes Island this time.
+[name="니엔"]하핫, 무슨 사람을 사기꾼 보듯이 보고 그래? 난 이번에 정말 로도스 아일랜드에 모든 힘을 쏟아부었다고.
 
 [name="炎熔"]哈......又给工程部添麻烦了？
+[name="ラヴァ"]はぁ……またエンジニア部に余計な手出しをしたのか？
+[name="Lava"]*Sigh*... Did you mess with the Engineering Department again?
+[name="라바"]하아…… 또 엔지니어링부를 귀찮게 한 거야?
 
 [name="年"]如果给了他们价值千万的实验材料也算麻烦的话，那......确实呢。
+[name="ニェン"]もし奴らに貴重な実験材料をやったことが余計だって言うんなら、その通りだけどな。
+[name="Nian"]If giving them experimental materials worth millions counts as messing with them, then... guilty as charged.
+[name="니엔"]액수로 따졌을 때 가치가 천만은 되는 실험자료를 준다고 해도 귀찮은 일이라면, 그럼……
 
 [name="年"]人类很难获得这种东西吧，顺利的话，罗德岛从此以后可能会拥有比肩国家顶级精锐的制式装备哦......顺利的话。
+[name="ニェン"]ああいうの、お前ら人類の間じゃ貴重なんだろ？　うまく行きゃ、今後ロドスは国一番の精鋭部隊が使うような制式装備を手に入れることができるぜ。うまく行きゃだがな……
+[name="Nian"]Humanity seldom gets their hands on stuff like this. If everything goes smoothly, Rhodes Island from here on out will have first-rate, elite regular equipment to stand shoulder to shoulder with nations... if everything goes smoothly.
+[name="니엔"]인간은 이런 걸 얻기 힘들지 않나? 잘 되면 로도스 아일랜드는 앞으로 국가 정상급에 버금가는 정예 제식 장비를 보유하게 될 거야…… 잘 되면 말이야.
 
 [name="炎熔"]你又做了什么玩意出来......？
+[name="ラヴァ"]オマエ、今度は何を生み出したんだよ……？
+[name="Lava"]What the hell did you pull this time...?
+[name="라바"]너 또 뭘 만들어 낸 거야……?
 
 [name="年"]别问，一时兴起。
+[name="ニェン"]まぁ単なる思いつきだ。細かいことは聞くな。
+[name="Nian"]Don't ask. Time will soon tell.
+[name="니엔"]묻지 마, 즉흥적으로 그런 거니까.
 
 [name="年"]我多年未见的好妹妹，夕。知道这个名字就行，到时候一眼就能看出来的，那就拜托你了。
+[name="ニェン"]そんなことより、何年も会ってない可愛い妹の名前は「シー」だ。字で書くなら夕暮れの「夕」の字な。会えば一目で分かるから、名前だけ知ってりゃ十分だ。じゃ、よろしくな。
+[name="Nian"]I've gone years without seeing my precious sister, Dusk. All you need to know is that name. Trust me, you'll know her when you see her, and I'll be counting on you.
+[name="니엔"]내가 여러 해 동안 만나지 못한 여동생, '시'. 그 이름만 알면 돼, 때가 되면 한눈에 알아볼 수 있을 거야, 그럼 부탁할게.
 
 [name="炎熔"]为什么你不自己去？
+[name="ラヴァ"]なんで自分で行かないんだよ？
+[name="Lava"]Why don't you go yourself?
+[name="라바"]왜 네가 직접 가지 않고?
 
 [name="年"]她躲我那么多年了，何必自找没趣？
+[name="ニェン"]こんなに長年避けられてんだ。わざわざ恥をかきに行く必要もないだろ？
+[name="Nian"]She's been hiding from me for years. Why would I need to do that to myself?
+[name="니엔"]걔가 그렇게 오랫동안 나를 피했는데, 내가 스스로 화를 자초할 필요가 있겠어?
 
 [name="炎熔"]......好吧，虽然看上去你没出多少力......
+[name="ラヴァ"]アタシにはオマエが楽しようとしてるだけに見えるんだが……
+[name="Lava"]Fine. Even though it looks like you haven't been trying that hard...
+[name="라바"]……좋아, 보아하니 넌 별로 힘을 안 들이는 것 같지만……
 
 [name="年"]喂。
+[name="ニェン"]おいおい。
+[name="Nian"]Hey.
+[name="니엔"]어이.
 
 [name="炎熔"]但既然可露希尔都答应了......唔......事后记得好好谢谢我。
+[name="ラヴァ"]クロージャも同意したんなら……わかったよ……終わったらアタシへの礼を忘れるなよ。
+[name="Lava"]Since Closure gave it the go-ahead and all... uh... you remember to properly thank me afterwards.
+[name="라바"]그래도 클로저가 승낙한 이상…… 음…… 나중에 나한테 감사 인사하는 거, 잊지 마라 꼭.
 
 [name="年"]哎，这才是我的好炎熔嘛......不枉我费事给你的这身戏服改造了一番。
+[name="ニェン"]ふ、それでこそ私の可愛いラヴァだ……わざわざお前の衣装を改造してやった甲斐があったってもんだ。
+[name="Nian"]Hey, now that's my li'l Lava... I didn't give your costume an upgrade for nothing.
+[name="니엔"]옳지~ 이래야 착한 내 라바지…… 내가 번거로운데도 무대 의상을 고쳐준 보람이 있네.
 
 [name="炎熔"]够了......别说了。
+[name="ラヴァ"]もういい……その話はやめろ。
+[name="Lava"]Enough... just stop talking.
+[name="라바"]됐어…… 그만 말해.
 
 [name="年"]给你的小礼物哦。
+[name="ニェン"]なんでだよ？　喜んでたじゃねえか。
+[name="Nian"]It's a little present for you.
+[name="니엔"]왜? 네게 주는 작은 선물인데.
 
 [name="年"]《洪炉示岁》里用上的那身戏服，你其实很喜欢吧？
+[name="ニェン"]まさかお前が、『洪炉示歳（エンシェント・フォージ）』の舞台衣装なんかを気に入るなんてなぁ。
+[name="Nian"]Your costume for Ancient Forge. Didn't you actually love it?
+[name="니엔"]《에인션트 포지》에서 사용한 그 무대 의상, 너 사실 좋아했지?
 
 [name="炎熔"]瞎、瞎说——
+[name="ラヴァ"]ば、馬鹿言うな――
+[name="Lava"]Y—You're joking—
+[name="라바"]무, 무슨 헛소리를……
 
 [name="年"]可当时我明明看着你对着镜子摆了半天造型？
+[name="ニェン"]お前があの服を着て、鏡の前で一日中色んなポーズをキメてたのを見たんだけどな？
+[name="Nian"]But you know I pretty clearly saw you spending half the day posing in front of the mirror?
+[name="니엔"]근데 그때 난 분명히 네가 거울 보고 한참 동안 포즈 취하는 걸 봤는데?
 
 [name="炎熔"]啧......再不经同意进我宿舍，我真的会把你轰出去的。
+[name="ラヴァ"]に……二度と勝手に宿舎に入るな。次は本当につまみ出すぞ！
+[name="Lava"]Tch... go in my room without consent again, and I WILL send you out with a bang for real.
+[name="라바"]쳇…… 앞으로 또 동의 없이 내 숙소에 들어오면, 그땐 정말 쫓아낼 거야.
 
 [name="年"]好啦，好啦，你穿着这身作战服也有段时日了。虽然你还不能用匕首划破空间呢......
+[name="ニェン"]分かった、分かった。だけど長いこと戦闘服として着てんのは事実だろ。まだ空間を切り裂くアーツは使えねーみたいだけどな。
+[name="Nian"]Alright, alright. You've been wearing that combat outfit for a while anyway. Even if you still can't cut open space with your daggers...
+[name="니엔"]알았어, 알았어. 네가 이 전투복을 입은 지도 이미 꽤 되지 않았나? 아직 넌 비수로 공간을 가르지는 못하지만……
 
 [name="炎熔"]那、那是你瞎改剧本才加上去的后期设定！
+[name="ラヴァ"]そ、それはオマエがシナリオを書き換えて後付けした設定だろ！
+[name="Lava"]Th—That was a stupid edit you decided to make to the script afterwards!
+[name="라바"]그, 그건 네가 각본을 제멋대로 고쳐서 추가한 후반부 설정이잖아!
 
 [name="年"]是吗？可从我来到罗德岛到现在，你已经成长很多了吧？而且最近在教你源石技艺的可不是什么普通人。
+[name="ニェン"]そうだっけ？　まぁでも、私がロドスに来てから、お前も随分成長したろ？　しかも最近お前にアーツを教えてんのは、普通の奴じゃねーしな。
+[name="Nian"]Was it? But from when I came to Rhodes Island up till now, haven't you matured a heck of a lot? And you've been learning Arts from some real serious characters.
+[name="니엔"]그래? 그래도 내가 로도스에 와서 지금까지 많이 성장하지 않았나? 그리고 요즘 너에게 오리지늄 아츠를 가르치는 건 보통 사람이 아니라고.
 
 [name="年"]总而言之，事情就拜托你和克洛丝了。
+[name="ニェン"]とにかく、後のことはお前とクルースに任せたからな。
+[name="Nian"]So in short, I leave it up to Kroos and you.
+[name="니엔"]아무튼, 이번 일은 너와 크루스에게 맡길게.
 
 [name="年"]以防万一还是提醒你们一下，她......夕可不是什么省油的灯。非常夸张的麻烦，你就多担待担待，以后我保证你打麻将只赢不输。
+[name="ニェン"]それと一応言っとくけど、あいつは……シーは相当気難しい奴で、めちゃくちゃ面倒くせーんだ。一つ寛大な心で接してやってくれ。その代わり、今後麻雀では必ずお前が勝つようにしてやるから。
+[name="Nian"]I'd better warn you just in case. She's... Dusk's no pushover. She can be a ridiculous pest. Just be prepared to deal with her, and I guarantee you'll go undefeated at mahjong afterwards.
+[name="니엔"]혹시 몰라서 미리 말해두는데, 걔…… '시'는 만만치 않아. 아주 많이 번거로운 애니까 이해해줘. 이번 일만 잘되면, 앞으로 마작에서 매번 이기게 해주지, 약속할게.
 
 [name="炎熔"]唉......
+[name="ラヴァ"]はぁ……
+[name="Lava"]*Sigh*...
+[name="라바"]하아……
 
 [name="炎熔"]......年。
+[name="ラヴァ"]……ニェン。
+[name="Lava"]...Nian.
+[name="라바"]니엔……
 
 [name="炎熔"]你一直有事瞒着我们，对吧？
+[name="ラヴァ"]オマエ、何か隠してるな？
+[name="Lava"]You've been hiding something from me, right?
+[name="라바"]우리에게 줄곧 뭔가 속이고 있구나, 맞지?
 
 [name="年"]哦......你都这么想了，那又何必问我呢？
+[name="ニェン"]へぇ……だけど隠してるとしたら、聞かれて答えると思うか？
+[name="Nian"]Oh... if you think so, then what's the point in asking me?
+[name="니엔"]욱…… 어차피 그렇게 생각하면서 나한테 뭘 물어봐?
 
 [name="炎熔"]少来。不过我也不会刨根问底的，你和我们都不一样，这点我还是能感觉到的。
+[name="ラヴァ"]ふざけやがって……だがアタシも根掘り葉掘り聞くつもりはない。オマエがアタシたちとは違うってことは、よく分かってるからな。
+[name="Lava"]Save it. I'm not gonna dig any deeper, anyway. You aren't like us, I can still tell that much.
+[name="라바"]적당히 해. 난 꼬치꼬치 캐묻지 않을 거야. 너와 우린 달라, 난 느낄 수 있어.
 
 [name="年"]那当然，你还能在哪儿找到我这么厉害的人？所以呢？
+[name="ニェン"]当たり前だろ。アタシの他にこんなすげー奴がどこにいるんだ？　……そんで？
+[name="Nian"]Well, duh, where else could you find someone as terrifying as me? So?
+[name="니엔"]그야 당연하지, 네가 또 어디에서 나처럼 이렇게 대단한 사람을 만날 수 있겠어? 그래서 어쩔 건데?
 
 [name="炎熔"]就告诉你一声，告诉你我是知道这事儿有多麻烦还愿意帮你的。
+[name="ラヴァ"]つまりだ、アタシはこれが面倒な案件だと分かった上で、あえてオマエを手伝ってやるんだ。
+[name="Lava"]Let me just tell you this. I'm willing to help you even though I know how much of a pain this is going to be.
+[name="라바"]내가 이 일이 얼마나 번거로운지 알면서도 흔쾌히 널 돕는다는 거, 알아뒀으면 해.
 
 [name="炎熔"]免得到时候，你的“报答”偷工减料。
+[name="ラヴァ"]この「恩義」は、手抜きのもので返してもらっちゃ困る。
+[name="Lava"]So when it comes down to it, you're not going to cut corners on 'repaying' me.
+[name="라바"]그때 가서 '보답'을 대충 할까 봐 미리 말해두는 거야.
 
 [name="年"]嚯嚯，小炎熔也知道讨价还价了啊，不简单，不简单......好吧！我决定了！
+[name="ニェン"]あっはっは！　ラヴァが交渉事を持ち掛けるとは驚いた！　いやいや大したもんだ……よし！　いいだろう！
+[name="Nian"]Ho-ho, li'l Lava knows the art of haggling too. Tricky, tricky... alright! I've decided!
+[name="니엔"]오호, 라바가 흥정도 할 줄 알다니, 대단해, 대단해…… 좋아! 결정했어!
 
 [name="炎熔"]......？
+[name="ラヴァ"]……？
+[name="Lava"]...?
+[name="라바"]……?
 
 [name="年"]你把夕拖回来，我可以答应你一个要求。什么都可以。比如......锻一把神兵？
+[name="ニェン"]もしシーを連れて帰って来たら、お前の望みを一つ叶えてやるよ。何でもいいぞ。たとえば……とんでもねー兵器を鍛造するとかな。
+[name="Nian"]You drag Dusk back, and I'll grant any one request of yours. Anything goes. Such as... forging a divine weapon?
+[name="니엔"]네가 시를 끌고 오면, 내가 네 요구를 하나 들어줄게. 뭐든지 다! 예를 들면…… 신병을 단조해 준다던지?
 
 [name="年"]我现在有六种武器的想法，还差一个点子凑够七种，随便一把都够你青史留名。
+[name="ニェン"]今、武器のアイディアが六つあってな。あと一つ浮かべば七つになんだよ。どれを使っても間違いなく史書に名を残すことになるぜ。
+[name="Nian"]I've got six weapon concepts right now. I'm one short of seven. Any old one of them would be enough for you to leave your name in history.
+[name="니엔"]나에겐 여섯 가지 무기 아이디어가 있는데, 하나만 더 생각하면 일곱 가지가 된단 말이지. 죄다 역사에 길이 이름 남길만할 정도로 대단하다고.
 
 [name="炎熔"]那、那是啥......
+[name="ラヴァ"]そんな大げさな……
+[name="Lava"]Wh—What are they...?
+[name="라바"]그, 그게 뭐야……
 
 [name="年"]厉害的东西。
+[name="ニェン"]実物を見たらはったりじゃねーってわかるぜ。
+[name="Nian"]They're badass.
+[name="니엔"]아무튼 엄청난 물건이다, 이 말이야.
 
 [name="年"]或者说，你想要知道一些古老的故事......我也可以考虑告诉你们。虽然按理说不该让太多人知道这件事，但要是——
+[name="ニェン"]もしくは、お前が昔の物語を知りたきゃ、話してやってもいいぞ。本当はあまり人間に教えるべきじゃないが、もし――
+[name="Nian"]Or maybe you'd wanna know some ancient stuff from ancient times... I could consider telling you guys. Not too many people should reasonably know about it, I guess, but if you—
+[name="니엔"]혹시 오래된 이야기를 알고 싶다면…… 알려주는 것도 생각해 보지. 원칙적으로는 너무 많은 사람들이 알면 안 되지만, 만약……
 
 [name="炎熔"]免了。
+[name="ラヴァ"]いや、いい。
+[name="Lava"]Pass.
+[name="라바"]아냐, 됐어.
 
 [name="年"]诶——别这么绝情嘛。你最近是不是对我有点不耐烦？不合适吧？
+[name="ニェン"]はぁ――最近ノリ悪いよなぁ。もう私にはうんざりってか？　よくないぞ、そういうのは。
+[name="Nian"]Hey—don't be so heartless. Haven't you been kinda impatient with me lately? Doesn't suit you, does it?
+[name="니엔"]거 참…… 애가 왜 이렇게 쌀쌀맞아? 너 요즘 나 맘에 안 들지? 뭐, 삐진 거라도 있니?
 
 [name="年"]对了对了，这个你带着。
+[name="ニェン"]そうだ、これを持ってけ。
+[name="Nian"]Oh, right, right, take this with you.
+[name="니엔"]맞다, 이거 가져가.
 
 [name="炎熔"]这是？
+[name="ラヴァ"]何だこれは？
+[name="Lava"]And this is?
+[name="라바"]이건?
 
 [name="年"]你就当是......护身符一类的东西。毕竟我那妹妹嘛......
+[name="ニェン"]護符みたいなもんだと思っときゃいい。相手はあのシーだからな……
+[name="Nian"]Just treat it like... a sort of protective charm. After all, my sister's, well...
+[name="니엔"]이건…… 부적의 일종이라 생각하면 돼. 어쨌든 내 동생이잖아……
 
 [name="乌有"]呜呜呜......原来是帮同事寻找失散多年的亲妹妹，这才行了万万里路来到咱们这地儿，二位恩人，果真侠肝义胆！
+[name="ウユウ"]おお！　なんと長年離れ離れになっているお仲間の妹君を探しに、遠路はるばるこちらまで来られたのですね。さすがは義侠心に篤い恩人様方！
+[name="Mr.Nothing"]Ohh, ohh... helping find your colleague's precious little sister, estranged for years, you traveled myriads far to this place of ours. Benefactors, surely enough, you are made of heroic stuff!
+[name="우요우"]크흡 크흐흡…… 동료를 도와 오랜 세월 헤어져 있던 동생을 찾으러 만 리 길을 지나 우리 마을에 오신 거군요, 두 분은 정말 의리가 대단하시네요!
 
 [name="乌有"]佩服！实在是佩服啊！
+[name="ウユウ"]感服です！　まことに感服致しました！
+[name="Mr.Nothing"]I admire you! I cannot help but admire you!
+[name="우요우"]감탄했어요! 정말 감탄했습니다!
 
 [name="克洛丝"]嗯......有那么远嘛？
+[name="クルース"]う～ん……もうだいぶ歩いたけど、まだ着かないのぉ？
+[name="Kroos"]Uh... did we go that far?
+[name="크루스"]흠…… 그렇게 멀었었나?
 
 [name="炎熔"]没有。前面已经能看到灰齐山了......但是天色也不早，怎么办？
+[name="ラヴァ"]いや、もう灰斉山は見えてるが……そろそろ日も暮れてきた。どうしたもんか。
+[name="Lava"]No. We can already see Mount Hui-ch'i ahead... but it seems like it's getting late. What do we do?
+[name="라바"]아니. 회제산이 보이기는 하는데…… 시간이 늦은 것 같은데 어쩌지?
 
 [name="乌有"]我不急的，不急的，都看恩人方便。
+[name="ウユウ"]私は急ぎません、急いでおりませんゆえ。恩人様にお任せします。
+[name="Mr.Nothing"]I'm in no rush, no rush at all. Benefactors, do as you do.
+[name="우요우"]전 괜찮습니다. 전 급하지 않으니 은인님들 편하신 대로 하십시오.
 
 [name="炎熔"]年给的地址，只说了在“勾吴城外，灰齐山附近”，这附近还有别的聚落吗？
+[name="ラヴァ"]ニェンは、「あいつは勾呉城外の、灰斉山付近にいる」としか言わなかったんだが……おい、この近くに他の集落はあるか？
+[name="Lava"]The address Nian gave me just says 'Outside Kou-wu City, near Mount Hui-ch'i.' Are there any other settlements around here?
+[name="라바"]니엔이 준 주소에는 '구오성 밖, 회제산 부근'이라고만 쓰여 있어. 이 근처에 다른 마을이 또 있나?
 
 [name="乌有"]没有！方圆千里，就那泥翁镇一个地方。
+[name="ウユウ"]いいえ！　周囲千里を見渡しても、あるのは泥翁町だけです。
+[name="Mr.Nothing"]None! None for a thousand li around. Just Ni-weng Village all alone.
+[name="우요우"]아니요! 사방 천 리에 니옹 마을 하나밖에 없습니다만.
 
 [name="克洛丝"]会不会住在山里呢......毕竟是年的妹妹，感觉有可能吧。
+[name="クルース"]山の中で、働きもせず引きこもってるのかもねぇ……あのニェンさんの妹だからね～。
+[name="Kroos"]Maybe she's living in the mountains... after all, she's the sister of Nian. I get the feeling she might.
+[name="크루스"]산에 사는 거 아닐까나…… 니엔 씨 동생이라면 가능할 것 같은데에……
 
 [name="炎熔"]......你对她到底怎么想的，我怎么感觉你也一点都不客气？
+[name="ラヴァ"]オマエはニェンをどう思ってるんだ……辛辣なことを言うじゃないか……
+[name="Lava"]...What is it you think of her? Why do I get the feeling you're not being one bit polite to her?
+[name="라바"]……걔를 도대체 어떻게 생각하는 거야? 가만히 보면 너도 막 대하는 것 같다?
 
 [name="炎熔"]既然没有更多线索，那就轮到你出场了。
+[name="ラヴァ"]しかし、これ以上手がかりはない……オマエの出番だ。
+[name="Lava"]Seeing as we don't have any further clues, it's your time to shine now.
+[name="라바"]아무튼 더 이상 단서가 없으니, 이제부턴 네가 나설 차례야.
 
 [name="乌有"]好嘞！这地儿我熟......别那么看我啊，我真熟！小时候有事儿没事儿总往这地方跑！
+[name="ウユウ"]任せてください！　ここは私の庭ですから……あれ？　そんな目で見ないでくださいよ。本当に詳しいんですって！　小さい頃は用があろうとなかろうと、いつもこの辺りを駆け回っていましたから！
+[name="Mr.Nothing"]Verily! I know this area well... Don't gaze at me like that, I really do know it! When I was young, I'd frolic about this place come rain or shine!
+[name="우요우"]알겠습니다! 이 지역은 제가 잘 알고 있죠…… 너무 그렇게 보지 마셔요, 정말 잘 안다고요! 어렸을 때 항상 이곳에 와서 뛰어놀았는걸요!
 
 [name="炎熔"]你有什么办法？
+[name="ラヴァ"]何かあてでもあるのか？
+[name="Lava"]Do you have any ideas?
+[name="라바"]생각나는 방법이라도 있어?
 
 [name="乌有"]欸，这我可要给二位恩人好好说道说道，这勾吴城周遭的村镇，想找什么人，去茶馆吼两嗓子，认识的不认识的就都凑过来了。
+[name="ウユウ"]ふむ、勾呉周辺の町で人を探したければ、茶館へ行って叫べばいいんですよ。さすれば、何か知ってる人も知らない人もみんな寄ってきますから。
+[name="Mr.Nothing"]Ah, this I must proclaim clear to you two benefactors. If you wish to find someone in the villages surrounding Kou-wu City, you need only visit a teahouse, call out loud, and your friends and strangers alike will come rushing over.
+[name="우요우"]이거, 제가 두 분께 하나 알려드리죠. 이 구오성 주변 마을에서 사람을 찾으려면, 찻집에 가서 큰소리로 외치면 된답니다. 그러면 아는 사람도 모르는 사람도 죄다 모이게 되죠.
 
 [name="乌有"]给我半个时辰，妥妥地给您找着那位——对了，恩人要找的那个人，有没有什么特征？叫啥名？是啥身份？
+[name="ウユウ"]半刻ほどお時間を頂けますでしょうか？　さすれば、きっちりと探し出して差し上げます――ああ、お探しの方の特徴は？　なんという名前で、何をされている方なのでしょう？
+[name="Mr.Nothing"]Give me one scant hour, and I'll be sure to find your—That's right, does the person you're looking for have any particular features? What's their name? What status do they hold?
+[name="우요우"]제게 한 시간만 주시면, 그분을 찾아다 드리겠습니다…… 아 참, 은인님이 찾으시는 그 사람의 특징을 여쭤봐도 되겠습니까? 이름은요? 신분은요?
 
 [name="炎熔"].......她叫夕。
+[name="ラヴァ"]……名前はシーだ。
+[name="Lava"]...She's called Dusk.
+[name="라바"]……이름은 '시'.
 
 [name="炎熔"]是个画家。
+[name="ラヴァ"]画家をやってる。
+[name="Lava"]She's a painter.
+[name="라바"]화가야.
 
 [name="乌有"]恩人，恩人，看见啦！
+[name="ウユウ"]恩人様、恩人様、あれです！
+[name="Mr.Nothing"]Benefactors, benefactors, I see it!
+[name="우요우"]은인님, 은인님, 보입니다!
 
 [name="炎熔"]居、居然真的在山里......好累......这座山，怎么感觉比看上去要高得多？
+[name="ラヴァ"]はぁ疲れた……この山、外から見るより随分と高いな……しかし、まさか本当に山にいるとは……
+[name="Lava"]S—So it really was in the mountains... I'm beat... why do I feel like this mountain's a lot taller than it first looked?
+[name="라바"]지, 진짜 산속에 있다니…… 너무 힘들어…… 그리고 이 산, 왠지 보기보다 더 높은 것 같지 않아?
 
 [name="克洛丝"]意料之中啦。
+[name="クルース"]予想的中～。
+[name="Kroos"]I'm not surprised.
+[name="크루스"]예상했던 대로~
 
 [name="乌有"]唔，这深山老林之间，没水没电的，自个儿建一间茅屋？恩人呐，你那朋友的妹妹，当真好雅兴呀。
+[name="ウユウ"]うーん。このような水道も電気も無い山深き場所にお住まいを？　恩人様、ご友人の妹君はなかなか風雅であられるな。
+[name="Mr.Nothing"]Well! So deep within the forests and hills, without water or electricity, she built herself a thatched cottage? Benefactors, your friend's sister truly has a mind for aesthetics.
+[name="우요우"]아, 이 깊은 산골로 가는 숲 사이에, 물도 없고 전기도 없는데, 혼자서 초가집을 지었다고요? 은인님, 그 친구분의 여동생, 매우 고상한 취미를 갖고 계시나 보군요.
 
 [name="炎熔"]......不瞒你们说，我已经开始有不好的预感了。
+[name="ラヴァ"]……正直言って、嫌な予感がし始めている。
+[name="Lava"]...I won't hide it, I'm starting to get a bad feeling about this already.
+[name="라바"]솔직히…… 벌써부터 느낌이 뭔가 쎄한데.
 
 [name="克洛丝"]可是这里风景真的不错啊。如果是画家的话，倒也不是不能想象啦。
+[name="クルース"]でもここの景色はほんと最高だよぉ。もし画家なら、こんなとこに住んでても不思議じゃないよぉ〜。
+[name="Kroos"]But the scenery here's quality, I've gotta say. If she's a painter, I can imagine her here.
+[name="크루스"]근데 여기 경치 정말 좋다. 화가라면 상상 못 할 일은 아니겠는걸~
 
 [name="克洛丝"]唔......？小炎熔？你在找什么？
+[name="クルース"]あれぇ……？　ラヴァちゃん、何探してるのぉ？
+[name="Kroos"]Eh...? Lava? What'cha looking for?
+[name="크루스"]어라……? 라바, 너 뭘 찾고 있는 거야?
 
 [name="炎熔"]年给的“护身符”。我现在才意识到也许她给我这东西是别有用意的，而且多半不会是什么好事。
+[name="ラヴァ"]ニェンにもらった「護符」だ。今思ったんだが、あいつは何か狙いがあってアレを渡したのかもしれない。まあ十中八九、ろくな狙いじゃないだろうけど。
+[name="Lava"]The 'protective charm' from Nian. I only just realized she might've had another reason for giving it to me, and more than likely, it's not anything good.
+[name="라바"]니엔이 준 '부적'. 이제야 왜 걔가 이걸 줬는지 알 것 같네. 아마 좋은 일은 아니겠지.
 
 [name="克洛丝"]那......丢了呗？
+[name="クルース"]じゃあそんなの……さっさと捨てちゃえばぁ？
+[name="Kroos"]Could just... toss it, you know?
+[name="크루스"]그렇다면…… 버리면 그만 아니야?
 
 [name="炎熔"]克洛丝，你才是对她意见最大的那个人吧？
+[name="ラヴァ"]クルース、本当はオマエが一番アイツに不満が溜まってるんじゃないのか？
+[name="Lava"]Kroos, you really are the one with the biggest complaints about her, aren't you?
+[name="라바"]크루스, 니엔한테 불만이 가장 많은 건 사실 너 아니야?
 
 [name="乌有"]恩人，不如我先去问问门道，看看屋里有人否，会不会找错了人？
+[name="ウユウ"]恩人様！　先に私が中に入り、ご在宅か否か、そして人違いじゃないかを確認してきましょうか？
+[name="Mr.Nothing"]Benefactors, what if I go first and ask at the door? See if anyone's in? Perhaps we've been looking in error?
+[name="우요우"]은인님, 제가 먼저 안에 사람이 있는지, 사람을 잘못 찾은 건 아닌지 물어볼까요?
 
 [name="炎熔"]这倒不用，只是觉得见她妹妹不能莽撞，得有个心理准备。
+[name="ラヴァ"]いや、大丈夫だ。別に尻込みしてたわけじゃない。アイツの妹に会うなら慎重に準備をすべきだろうと思っただけだ。
+[name="Lava"]You don't need to do that. I just feel like we can't be reckless if we're meeting her sister. We need to prepare ourselves.
+[name="라바"]그럴 필욘 없는데, 그래도 니엔의 여동생을 만났을 때 거칠게 굴면 안 되니까 마음의 준비는 해 둬야겠지.
 
 [name="炎熔"]走吧。
+[name="ラヴァ"]行こう。
+[name="Lava"]Let's go.
+[name="라바"]가자.
 
 [name="炎熔"]您好，有人在吗？
+[name="ラヴァ"]ごめんください。誰かいますか？
+[name="Lava"]Hello, is anyone there?
+[name="라바"]실례합니다, 계신가요?
 
 [name="克洛丝"]......
+[name="クルース"]…………
+[name="Kroos"]......
+[name="크루스"]……
 
 [name="炎熔"]您好？
+[name="ラヴァ"]ごめんください！
+[name="Lava"]Hello?
+[name="라바"]아무도 안 계세요?
 
 [name="乌有"]该不是散步去了吧？
+[name="ウユウ"]散歩に行ったとか？
+[name="Mr.Nothing"]I presume she's out on a walk?
+[name="우요우"]산책하러 간 건 아니겠죠?
 
 [name="克洛丝"]在山里？
+[name="クルース"]山にぃ？
+[name="Kroos"]In the mountains?
+[name="크루스"]산속으로?
 
 [name="乌有"]可您看这门上水渍斑驳，落叶成堆，感觉不像是有人居住的样子呀......敲门试试？
+[name="ウユウ"]だけど見てください。門は雨水で汚れて、落ち葉は積もりっぱなしです。人が住んでいる様子はありませんよ……もう一度扉を叩いてみます？
+[name="Mr.Nothing"]Yet you can see the water mottling this door, and the leaves have piled up dead. It doesn't give the air that anyone lives here... Should we try and knock?
+[name="우요우"]그런데 이 문은 얼룩덜룩 지저분하고 낙엽이 쌓여 있는 걸 보면, 사람이 사는 것 같지 않군요…… 노크해 볼까요?
 
 [name="炎熔"]唔......您好？有人在吗？
+[name="ラヴァ"]ああ……すみません。誰かいませんか？
+[name="Lava"]Mm... Hello? Is anyone there?
+[name="라바"]아…… 실례합니다? 안에 계신가요?
 

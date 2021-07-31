@@ -1,6 +1,15 @@
 就像这样，部署在<@tu.kw>【明之印】</>上的米格鲁，也获得了<@tu.kw>【明】</>属性。
+こうやって<@tu.kw>【明の印】</>の上にビーグルを配置してやれば、<@tu.kw>【明】</>の属性を獲得する。
+Works just like that. Beagle deployed onto this <@tu.kw>'Mark of Ming,'</> and gained the <@tu.kw>'Ming'</> attribute.
+이러면, <@tu.kw>【명 인장】</>에 배치된 비글은 <@tu.kw>【명】</> 속성을 얻게 되는 거야.
 
 [PopupDialog(dialogHead="$avatar_lava2")] 呃，我是不是在做梦......
+[PopupDialog(dialogHead="$avatar_lava2")] なんだ、アタシは夢でも見てるのか……？
+[PopupDialog(dialogHead="$avatar_lava2")] Ugh, maybe I'm dreaming right now...
+[PopupDialog(dialogHead="$avatar_lava2")] 하아, 내가 지금 꿈을 꾸고 있는 건가……
 
 [PopupDialog(dialogHead="$avatar_nian")] 相由心生，梦不梦，不关键，记住我说的话。你看，因为<@tu.kw>【属性相同】</>，敌人对米格鲁的<@tu.kw>【攻击降低】</>。
+[PopupDialog(dialogHead="$avatar_nian")] 物の見方は心の在り様で変わるもんだ。夢かどうかなんてのは重要じゃねぇ。私の言うことをよく覚えておくんだな。見ろよ。<@tu.kw>【同じ属性】</>の場合、ビーグルに対する敵の攻撃の<@tu.kw>【ダメージが減少】</>するんだ。
+[PopupDialog(dialogHead="$avatar_nian")] The heart shapes perception. Dreaming or not, the main point is you remember what I say. See, because <@tu.kw>their attributes are identical</>, the enemies have <@tu.kw>reduced ATK</> against Beagle.
+[PopupDialog(dialogHead="$avatar_nian")] 마음에 따라 사물을 보는 방법도 달라지는 법 아니겠어? 꿈이냐 아니냐는 중요하지 않아. 내 말을 잘 기억해. 저 <@tu.kw>【같은 속성】</>의 적들을 봐봐, 비글에게 주는 <@tu.kw>【공격력이 감소】</>됐잖아.
 

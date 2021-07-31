@@ -1,8 +1,20 @@
 [PopupDialog(dialogHead="$avatar_lava2")] 呃？那是玫兰莎？玫兰莎为什么在这里？她抵挡不住这么多敌人！
+[PopupDialog(dialogHead="$avatar_lava2")] ん？　あれはメランサ！　なんでメランサがここに？　アイツ一人じゃあんなにたくさんの敵を止められないぞ！
+[PopupDialog(dialogHead="$avatar_lava2")] Huh? Is that Melantha? Why is Melantha here? She can't withstand that many enemies!
+[PopupDialog(dialogHead="$avatar_lava2")] 어? 저건 멜란사? 멜란사가 왜 여기에 있지? 멜란사는 이렇게 많은 적을 막아낼 수 없을 텐데!
 
 冷静，冷静...你看那些敌人，着了<@tu.kw>黑白</>二色，那便是<@tu.kw>【晦】【明】</>之分。
+落ち着いて敵を見てみろ。<@tu.kw>黒と白</>の色が付いてるだろ？　あれは敵の<@tu.kw>【晦（カイ）】と【明（メイ）】</>属性を表してる。
+Chill out, chill... look at those enemies. See their <@tu.kw>black and white</> coloring? That's how you tell if they're <@tu.kw>'Hui' or 'Ming'</>.
+진정해 진정…… 적들을 봐. <@ttu.kw>흑과 백</>, 두 가지 색이지? 저건 <@tu.kw>【명】과 【암】</>, 두 속성으로 나뉘어 있다는 거야.
 
 [PopupDialog(dialogHead="$avatar_lava2")] 年！？你怎么在这里？
+[PopupDialog(dialogHead="$avatar_lava2")] ニェン！？　どうしてここに？
+[PopupDialog(dialogHead="$avatar_lava2")] Nian?! What are you doing here?
+[PopupDialog(dialogHead="$avatar_lava2")] 니엔?! 네가 어떻게 여기에?
 
 再注意看这个地块，称作<@tu.kw>【晦明之印】</>，<@tu.kw>【部署】</>在其中的干员也会获得<@tu.kw>【与其相同】</>的【明】或是【晦】属性
+それからあの地面をよく見てみろ。あれは<@tu.kw>【晦明の印】</>だ。オペレーターを<@tu.kw>【配置】</>すると、<@tu.kw>【地面と同じ】</>【晦】または【明】の属性を獲得できる。
+Now pay attention to this tile. It's called a <@tu.kw>'Mark of Hui and Ming,'</> and Operators <@tu.kw>deployed</> on it will gain an <@tu.kw>identical</> 'Ming' or 'Hui' attribute.
+지면을 잘 살펴보면 바닥이 <@tu.kw>【명암 인장】</>으로 돼 있어. 거기에 <@tu.kw>【배치】</>된 오퍼레이터는 <@tu.kw>【바닥과 같은】</> 【명】 또는 【암】 속성을 얻게 되지.
 

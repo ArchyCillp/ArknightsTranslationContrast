@@ -1,8 +1,20 @@
 [PopupDialog(dialogHead="$avatar_sys")] 在一些地区，我们与敌对势力发生了大规模的交战，称之为<@tu.kw>剿灭作战</>。
+[PopupDialog(dialogHead="$avatar_sys")] 一部エリアでは、敵部隊と大規模な交戦が行われることもあり、ロドスではそれを<@tu.kw>殲滅作戦</>と呼んでいます。
+[PopupDialog(dialogHead="$avatar_sys")] Some regions have seen large-scale engagements with hostile forces called <@tu.kw>Annihilation Operations</>.
+[PopupDialog(dialogHead="$avatar_sys")] 이 구역에서는 저희와 적의 세력이 대규모 전투를 벌이고 있습니다. 작전명은 <@tu.kw>섬멸 작전</>이라고 합니다.
 
 [PopupDialog(dialogHead="$avatar_amiya")] 嗯，是的。如果能够在这些战场上取得优势，就可以大幅度削减敌人的实力。
+[PopupDialog(dialogHead="$avatar_amiya")] はい。これらのエリアで優位を取れれば、敵の戦力を大幅に削ぐことができます。
+[PopupDialog(dialogHead="$avatar_amiya")] Yes, that’s right. If you’re able to perform well in these battles, you’ll be able to greatly reduce the enemy’s operational strength.
+[PopupDialog(dialogHead="$avatar_amiya")] 네, 맞아요. 혹시 여기서 우세를 점할 수 있다면, 적의 전투력을 크게 저하시킬 수 있을 거예요.
 
 [PopupDialog(dialogHead="$avatar_sys")] 现在，需要你亲自指挥这些重要的战斗。
+[PopupDialog(dialogHead="$avatar_sys")] ぜひドクターにこの重要な作戦の指揮をとってもらえればと思います。
+[PopupDialog(dialogHead="$avatar_sys")] Right now, we need you to personally command these important battles.
+[PopupDialog(dialogHead="$avatar_sys")] 이런 중요한 전투는 반드시 박사님께서 직접 지휘해 주셔야 합니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 完成剿灭作战后，会根据本次作战击败的敌人数量得到相对应的奖励。
+[PopupDialog(dialogHead="$avatar_sys")] 殲滅作戦を終えると、撃破した敵の数に応じて報酬を受け取ることが出来ます。
+[PopupDialog(dialogHead="$avatar_sys")] After an Annihilation Operation, rewards will be given based upon the number of enemies defeated.
+[PopupDialog(dialogHead="$avatar_sys")] 섬멸 작전이 끝나면 쓰러뜨린 적의 수에 따라 보상을 받으실 수 있습니다.
 

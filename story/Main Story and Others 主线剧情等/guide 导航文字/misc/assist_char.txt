@@ -1,10 +1,25 @@
 [PopupDialog(dialogHead="$avatar_sys")] 或许你已经注意到了，罗德岛的支援系统允许你在作战前请求一些“外部”的增援。
+[PopupDialog(dialogHead="$avatar_sys")] 既にお気づきかもしれませんが、ロドスの支援システムを通じて「外部」に応援の要請を行うこともできます。
+[PopupDialog(dialogHead="$avatar_sys")] You might’ve noticed already, but the Backup support system at Rhodes Island allows you to request external aid before a battle begins.
+[PopupDialog(dialogHead="$avatar_sys")] 이미 알고 계실지도 모르지만, 로도스 아일랜드의 지원 시스템을 통해 '외부'에 증원을 요청하실 수 있습니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 如果你已经与其他的组织签订了合作契约，你应该可以在这个界面看到一些他们准备的外援。
+[PopupDialog(dialogHead="$avatar_sys")] もし他の組織と共同作戦契約を結んでいれば、こちらに先方の提供可能なオペレーターの情報が表示されます。
+[PopupDialog(dialogHead="$avatar_sys")] If you have already signed contracts with other organizations, this is where you can see what kind of help they might be able to offer.
+[PopupDialog(dialogHead="$avatar_sys")] 만약 다른 조직과 공동 작전 협정을 맺으셨다면, 여기에 그들이 지원해줄 수 있는 오퍼레이터의 정보가 표시됩니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 根据我方现在实力和与其关系的不同，外援的强度也会有所变化。
+[PopupDialog(dialogHead="$avatar_sys")] また、こちらの実力や相手との関係により、提供されるオペレーターの強さも変化します。
+[PopupDialog(dialogHead="$avatar_sys")] Depending on how powerful we are and our relationships with these organizations, the help they can provide will also be different.
+[PopupDialog(dialogHead="$avatar_sys")] 또한, 우리의 실력이나 상대방과의 관계에 따라 제공되는 오퍼레이터의 능력 또한 달라집니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 虽然不是在任何行动中都可以使用外援，但合理利用它们应该可以为你减轻正面战场的压力。
+[PopupDialog(dialogHead="$avatar_sys")] 全ての作戦で応援の要請が行えるというわけではありませんが、こちらを活用することで戦場での負担が軽減できるかと思います。
+[PopupDialog(dialogHead="$avatar_sys")] They will not support all of our operations, but using them wisely will take the stress off of you a little bit.
+[PopupDialog(dialogHead="$avatar_sys")] 모든 작전에서 지원을 요청할 수 있는 것은 아니지만, 잘만 활용하면 전장에서 감당해야 할 리스크를 줄일 수 있을 겁니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 请尽可能多地与其他组织建立良好关系，以扩展可使用外援数量。
+[PopupDialog(dialogHead="$avatar_sys")] 積極的に外部組織と友好な関係を築き、応援申請を行えるオペレーターの選択肢を増やしていくことをおすすめいたします。
+[PopupDialog(dialogHead="$avatar_sys")] Please connect with other organizations as much as you can to expand the help available to us.
+[PopupDialog(dialogHead="$avatar_sys")] 외부 조직과 되도록 좋은 관계를 유지하여 로도스 아일랜드를 지원해줄 오퍼레이터의 수가 늘어나도록 해주십시오.
 

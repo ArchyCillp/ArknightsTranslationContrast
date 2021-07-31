@@ -1,248 +1,620 @@
 [name="说书人"]原来如此，是替朋友寻找亲人，为此不远万里来到大炎，实在令人钦佩。
+[name="講談師"]そうでしたか。友人のご家族を探していらっしゃると。そのために遠路はるばる炎国まで……実に感服致しました。
+[name="Storyteller"]I see. You sought your friend's family for her, and so came from shy a myriad li away to Yen. Admirable indeed.
+[name="이야기꾼"]그랬군요, 친구를 대신해 가족을 찾으러 온 것이었군요. 먼 길도 마다하지 않고 염국에 오다니, 정말 감탄스럽습니다.
 
 [name="说书人"]不过，灰齐山，勾吴城？我可从来没有听说过附近有这样的城市......不过这里离天岳倒是不远。兴许是某座不知名的小山头，也有可能。
+[name="講談師"]ですが、灰斉山に勾呉城？　この辺りでそういう地名は聞いた事がありません……もしかしたら、ここから近い天岳の支尾根のうち、あまり人に知られていない峰やもしれませんな。
+[name="Storyteller"]However, Mount Hui-ch'i? And Kou-wu City? I've never heard of any cities like it in the vicinity... But this place isn't far from Mount Sky. Perhaps it's a small peak I know not the name of. The possibility is there.
+[name="이야기꾼"]다만, 회제산, 구오성? 난 부근에 이런 도시가 있단 걸 들어본 적이 없습니다…… 하지만 이곳은 천악에서 멀지 않죠. 천악은 이름이 알려진 적이 없는 작은 산의 이름입니다만, 아마 거기라면……
 
 [name="乌有"]呃？天岳......？
+[name="ウユウ"]む？　天岳とな……？
+[name="Mr.Nothing"]Eh? Mount Sky...?
+[name="우요우"]어? 천악이요……?
 
 [name="克洛丝"]麻烦了呀。
+[name="クルース"]厄介だねぇ。
+[name="Kroos"]Well, this is annoying.
+[name="크루스"]귀찮아졌네~
 
 [name="炎熔"]......抱歉，请问我们现在在大炎的哪里？
+[name="ラヴァ"]……すみません、私たちは今炎国のどのあたりにいるのでしょう？
+[name="Lava"]Sorry, could I ask which part of Yen we're in right now?
+[name="라바"]혹시…… 지금 저희가 염국 어디에 있는 거죠?
 
 [name="说书人"]此地在婆山地界，名为婆山镇。
+[name="講談師"]ここは婆山（ばさん）の境で、婆山町といいます。
+[name="Storyteller"]This place is at the edge of Mount P'o, its name is P'o-shan Village.
+[name="이야기꾼"]이곳은 파산의 경계 지역이고, 이름은 파산 마을입니다.
 
 [name="炎熔"]......？
+[name="ラヴァ"]婆山……？
+[name="Lava"]...?
+[name="라바"]……?
 
 [name="乌有"]（没听过，绝对没听过！）
+[name="ウユウ"]（そんなところ、聞いたことすらありませんよ！）
+[name="Mr.Nothing"](I've never heard of it, absolutely never heard of it!)
+[name="우요우"](들어본 적 없어요, 한 번도 못 들어본 곳이라고요!)
 
 [name="炎熔"]那、那今年的年份是......？
+[name="ラヴァ"]で、では今年は何年ですか……？
+[name="Lava"]O—okay, then, what's the current year...?
+[name="라바"]그, 그럼 혹시 올해 연도가……?
 
 [name="说书人"]今年是景祚七年，如今已过立春，恰逢除夕。
+[name="講談師"]今年は景祚（けいそ）七年ですね。すでに立春は迎えまして、今日はちょうど大晦日に当たります。
+[name="Storyteller"]The year is Ching-tso 7, currently the Beginning of Spring, with the Dusk Ridding just passed.
+[name="이야기꾼"]금년은 징줘 7년, 이제 입춘이 지났고, 때마침 섣달그믐날입니다.
 
 [name="乌有"]......啊？
+[name="ウユウ"]……え？
+[name="Mr.Nothing"]Huh?
+[name="우요우"]잠깐 지금 뭐라고……
 
 [name="炎熔"]（小声）景祚？
+[name="ラヴァ"]（小声）けいそ？
+[name="Lava"](Quietly) Ching-tso?
+[name="라바"](작은 목소리로) 징줘?
 
 [name="乌有"]（小声）恩人呐，不瞒你说，我历史学得不好，但景祚......起码近几百年，都未曾听过这么个年号啊......
+[name="ウユウ"]（小声）恩人様、私もはっきり言って歴史は得意ではありませんが……少なくともここ数百年の間に、そのような年号はありません。
+[name="Mr.Nothing"](Quietly) Benefactor, I won't mince words: my history is quite poor, but Ching-tso... has to be centuries ago at least. I've never heard of an era by that name...
+[name="우요우"](작은 목소리로) 은인님, 솔직히 말해서 제가 역사 공부를 열심히 한 편은 아니지만, 징줘는…… 적어도 최근 수백 년 동안 이런 연호가 있었다는 얘기는 들어본 적이 없습니다……
 
 [name="炎熔"]......
+[name="ラヴァ"]…………
+[name="Lava"]......
+[name="라바"]……
 
 [name="乌有"]（小声）咋、咋回事儿啊恩人？难不成咱们这是一推门回到一千年前了？
+[name="ウユウ"]（小声）ど、どういうことでしょう恩人様？　もしかしてあの扉を開けたことで千年前に戻ったとか？
+[name="Mr.Nothing"](Quietly) Wh... what's going on, benefactor? Could we have tumbled a thousand years back when we opened that door?
+[name="우요우"](작은 목소리로) 어, 어찌 된 일일까요, 은인님? 설마 문을 열고 나왔더니 천 년 전으로 돌아갔다거나…… 뭐 그런 건 아니겠죠?
 
 [name="克洛丝"]（小声）一千年前会有这种园林建筑吗？
+[name="クルース"]（小声）千年前にこんな庭園式建築があったのかなぁ？
+[name="Kroos"](Quietly) Did they have gardens and buildings like this a thousand years ago?
+[name="크루스"](작은 목소리로) 천 년 전에 이런 정원이 있었을까?
 
 [name="乌有"]（小声）那显然不能！莫非是这位煮伞居士信口开河？可我看他文质彬彬的，不至于吧？
+[name="ウユウ"]（小声）いやいやありえません！　もしかしてこの煮傘居士が口から出任せを？　ですが彼は上品で礼儀正しい方ですし、そんなことをするようには見えませんよね？
+[name="Mr.Nothing"](Quietly) Of course they couldn't! Perhaps this Umbrella-Boiling Hermit blurted out pure nonsense? But I can't imagine he'd do that, noting how refined his manner is.
+[name="우요우"](작은 목소리로) 그건 분명히 불가능해요! 설마 자산거사가 입에서 나오는 대로 지껄이고 있는 건 아니겠죠? 그래도 점잖아 보이는 사람인데 설마……
 
 [name="说书人"]三位英雄，你们帮了忙，就是我的贵客，有什么问题直问便是，大可不用客气。
+[name="講談師"]英雄の方々よ、あなた方は私たちを助けてくださった……つまり私の大切なお客人です。もし疑問がお有りなら遠慮なさらず、何なりとお尋ねください。
+[name="Storyteller"]Heroes three, you've come to our aid. You are my honored guests. If you have any questions, ask them forthright; you needn't refrain.
+[name="이야기꾼"]세 분의 영웅님들은 절 도와주신 귀빈이십니다. 질문이 있으시면 사양하지 말고 물어보십시오.
 
 [name="炎熔"]......能劳烦您给我们讲述一下这里的风土人情吗？实不相瞒，这里并不是我们一开始的目的地，看来是迷了路，有些茫然。
+[name="ラヴァ"]……では、この地の風土や暮らしについて教えて頂けませんか？　実は、ここは私たちが目指していた場所ではないんです。どうやら道に迷ってしまったようで、混乱しているんです。
+[name="Lava"]Could we trouble you to tell us about the culture and customs here? To be honest, this place isn't where we thought we were going. It seems we went astray, and we're sort of at a loss.
+[name="라바"]……이곳의 풍토와 생활에 대해 말씀해 주시겠어요? 사실 이곳은 저희가 처음 계획한 목적지가 아닙니다. 길을 잃은 것 같은데, 좀 막막하네요.
 
 [name="炎熔"]比如......比如就说说这座城镇？
+[name="ラヴァ"]たとえば……まずこの町について話してもらえませんか？
+[name="Lava"]For... for example, tell us about this village?
+[name="라바"]예를 들면…… 이 마을에 대해서요.
 
 [name="说书人"]啊......婆山镇的来历可就大有说法了。相传七十年前，某个富商家起了一场大火，殃及无数。
+[name="講談師"]ふむ……婆山町の成り立ちの言い伝えは、大いに話しがいがありますね。――時は七十年ほど前に遡ります、とある豪商の家が大火に見舞われ、無数の人が犠牲になりました。
+[name="Storyteller"]Ah... there is much to tell of the origins of P'o-shan Village. Story has it that seventy years ago, a great fire started on a rich merchant's property, bringing untold calamity.
+[name="이야기꾼"]아…… 파산 마을에 생긴 유래에 대해서는 널리 전해지는 이야기가 하나 있지요. 70년 전, 어느 거상의 집에 큰 화재가 일어나 막대한 피해가 발생했습니다.
 
 [name="说书人"]富商受了惊，打算离开那里，另寻一块风水宝地作为自己颐养天年的地方。
+[name="講談師"]豪商は打ちのめされました。そして、その地を離れ、風水的に良い場所を探し、終の棲家にしようと考えておりました。
+[name="Storyteller"]The rich merchant was frightened, and planned to leave, to find a place where nature blessed treasured lands, so he could live out the rest of his days.
+[name="이야기꾼"]마음고생을 하던 거상은, 그곳을 떠나 몸과 마음을 정양하며 여생을 보낼 명당 하나를 찾았더랬지요.
 
 [name="说书人"]在那之后，同镇的人们却在满地灰烬中，找到了一幅古怪的画。
+[name="講談師"]その一方で、灰燼に帰した町に残った人々は、焼け跡から一幅の奇妙な絵を見つけたそうです。
+[name="Storyteller"]Subsequently, in the midst of all the ashes, the people of his village found a peculiar painting on the ground...
+[name="이야기꾼"]그 후, 같은 마을의 사람들은 잿더미 속에서 이상한 그림 하나를 발견했다고 합니다.
 
 [name="炎熔"]......画？
+[name="ラヴァ"]……絵？
+[name="Lava"]Painting?
+[name="라바"]……그림이요?
 
 [name="说书人"]没错。房屋都烧得一干二净，那幅画却安然无恙，掸去灰烬后，完好如初。
+[name="講談師"]ええ。家屋は跡形もなく焼け落ちてしまったのに、その絵は全くの無傷で、灰を振り払うと、火災前と同じ状態でした。
+[name="Storyteller"]Correct. The house had burned to the ground, yet that painting scroll remained unharmed, and after brushing off the ash, it was as good as new.
+[name="이야기꾼"]예, 집이 다 타버렸는데도 그 그림은 성한 구석이 하나도 없었고, 먼지를 털어내니 새 그림처럼 멀쩡했다더군요.
 
 [name="说书人"]富商听说了这幅画的事，掏了大价钱重新买了回来，图个辟火消灾的吉利。
+[name="講談師"]豪商はその絵の噂を聞きつけると、大枚を叩いて買い戻し、火除けの御守りにしました。
+[name="Storyteller"]The merchant heard of the painting, dove deep into his pockets to buy it back once again, seeking good luck to ward against fires.
+[name="이야기꾼"]거상은 그 그림에 대한 이야기를 듣고, 비싼 값을 치르고 그림을 다시 사 왔다고 합니다. 복을 구하고 화를 피하기 위해서 말이죠.
 
 [name="说书人"]富商在新居里，越看这画中风水，越觉得中意。便发动上百家仆，去寻找这画卷中描绘的山水宝地——
+[name="講談師"]豪商は新居に飾った絵を眺めるうちに、そこに描かれた庭園こそが理想の風水を体現したものであると考えるようになりました。そこで百人以上の使用人を動員し、その神聖なる場所を探させました。
+[name="Storyteller"]In his new residence, the more the merchant gazed into the scenery in the painting, the more he took an interest. He sent out hundreds of servants in search of the marvelous feng shui this scroll had portrayed—
+[name="이야기꾼"]그렇게 새집에 그 그림을 놔뒀는데, 그 그림의 풍수가 실로 빼어나 보면 볼수록 마음에 들었다고 합니다. 그래서 거상은 백여 명의 하인을 시켜 그림에 그려진 산수 명당을 찾아 나서게 되었고……
 
 [name="说书人"]——于是就到了这里，有了这座镇，有了这园林。
+[name="講談師"]――そしてここに辿り着き、この町を、この庭園を作ったのです。
+[name="Storyteller"]—and so came here, and so this village, and this garden came to be.
+[name="이야기꾼"]……그렇게 이곳까지 오게 되어, 이 마을을, 이 정원을 만든 것입니다.
 
 [name="炎熔"]......是您的祖辈？
+[name="ラヴァ"]……それがあなたのご先祖様ですか？
+[name="Lava"]Was that your ancestor?
+[name="라바"]그 거상이…… 당신의 선조이신가요?
 
 [name="说书人"]非也非也，世事无常。几十年前，富商死后，几个儿子都不学无术，散尽家财。
+[name="講談師"]いやいや、盛者必衰ですよ。豪商は数十年前に亡くなりましたが、跡取りは皆勉強嫌いで武にも秀でず、家の財産を食い潰してしまったそうです。
+[name="Storyteller"]Not so, not so. The world's affairs are never constant. Decades in the past, after the merchant's death, his few sons in their incompetence frittered away the household's wealth.
+[name="이야기꾼"]아니요, 모든 것은 변하기 마련. 십 년 전 거상이 죽은 뒤, 배운 것도 없고 재주도 없는 그의 아들들은 가산을 모두 탕진하고 말았습니다.
 
 [name="说书人"]正巧我爹因为某些机缘巧合，有一笔闲钱，这才买下了这座园子，定居于此。
+[name="講談師"]ちょうどその頃、とある縁が重なり、私の父の懐にまとまった金が舞い込んできたものですから、この庭園を買い取って定住することにしたのです。
+[name="Storyteller"]By chance, my father had some spare money from a string of opportune coincidences, and so bought the gardens and settled down here.
+[name="이야기꾼"]때마침 선친께서 운이 좋게 여윳돈이 생겨 이 정원을 사들이면서, 이곳에 정착하게 되었죠.
 
 [name="说书人"]之后，因为这附近少有天灾，山川秀美，吸引了不少风流雅士，久而久之，婆山镇就有了今天这般规模。
+[name="講談師"]その後、この辺は天災も少なく自然が美しいので、多くの風流人の心を掴みましてね。だんだんと現在の規模にまで拡大したのです。
+[name="Storyteller"]Afterwards, as nearby Catastrophes were infrequent and the mountains and rivers gorgeous, many talented scholars were drawn here, and over time, P'o-shan Village became as it is today.
+[name="이야기꾼"]이 부근은 재앙이 드물고 산천이 아름다워 풍류객들을 끌어들였고, 오랜 시간이 지나며 이 파산 마을은 오늘날의 규모만큼 커진 것입니다.
 
 [name="克洛丝"]（听上去真奇妙呢。）
+[name="クルース"]（不思議な話だねぇ。）
+[name="Kroos"](I mean, it sounds wonderful.)
+[name="크루스"](참 신기하네~)
 
 [name="炎熔"]（好像没有什么问题......）
+[name="ラヴァ"]（だが特におかしいところはなさそうだ……）
+[name="Lava"](No issues with it yet, I think...)
+[name="라바"](별문제가 없어 보이는데……)
 
 [name="炎熔"]那，这天色......？
+[name="ラヴァ"]では、この空は……？
+[name="Lava"]So, the color of the sky...?
+[name="라바"]그럼, 저 하늘색은……?
 
 [name="说书人"]天色？
+[name="講談師"]空？
+[name="Storyteller"]The what?
+[name="이야기꾼"]하늘색이요?
 
 [name="炎熔"]呃，就是，白天和黑夜好像混在一起了......
+[name="ラヴァ"]えーと、つまり……昼と夜が同時に存在しているようですが……
+[name="Lava"]Uh, I mean, daytime and nighttime seem to be mixed together...
+[name="라바"]어, 그러니까, 낮과 밤이 섞여 있는 것 같아서요……
 
 [name="说书人"]我们素来日出而作，日落而息，几位有何疑虑？
+[name="講談師"]私たちは日の下で働き、月の下で眠りますが、それが何か？
+[name="Storyteller"]We've always worked as the sun rose, and rested as it set. What doubts might you have?
+[name="이야기꾼"]저희는 본래부터 해가 뜨면 일을 하고, 해가 지면 쉽니다만, 무슨 문제라도 있으신가요?
 
 [name="炎熔"]从钟声响起到现在，两个小时......差不多有一个时辰了。太阳的位置从来没有变化过，这是什么原因？
+[name="ラヴァ"]鐘が鳴ってから今まで、体感で二時間……約一刻経ちました。それなのに太陽の位置に全く変化がないのはどうしてですか？
+[name="Lava"]It's been two hours since the bell sounded... with the twelve-branch double-hour system, it'd be one of those. The sun's hasn't moved at all. What's causing that?
+[name="라바"]종소리가 울리고 지금까지 거의 두 시간이 지났어요…… 그런데 태양의 위치가 조금도 바뀌지 않은 건, 어떤 이유 때문이죠?
 
 [name="说书人"]太阳？变化？
+[name="講談師"]太陽の位置？　変化？
+[name="Storyteller"]The sun? Move?
+[name="이야기꾼"]태양이? 바뀐다니요?
 
 [name="说书人"]日月悬空，日在东，月在西，千古不易，变换什么位置？
+[name="講談師"]日は東に、月は西に浮かび続けております。古来より動かぬものですが、どう変化するというのです？
+[name="Storyteller"]The sun and moon sit in the sky, sun in the east, moon in the west, eternally unchanging. What other position would they assume?
+[name="이야기꾼"]해와 달 모두 하늘에 걸려 있지요. 해는 동쪽에, 달은 서쪽에, 영원불변한데 어떤 위치가 바뀐단 말씀이십니까?
 
 [name="说书人"]嗯？各位怎么露出这副脸色？我说了什么不妥当的话吗？
+[name="講談師"]ふむ……皆様難しい顔をなさっておられますが、私は何か間違ったことを申しましたか？
+[name="Storyteller"]Hm? You all have a peculiar look on your faces. Have I said something improper?
+[name="이야기꾼"]으음? 여러분, 왜들 그런 표정을 지으시는 건지…… 제가 뭘 잘못 말하기라도 했나요?
 
 [name="乌有"]欸，恩人，打断一下，打断一下啊。
+[name="ウユウ"]あの、恩人様。ちょっと失礼、私に質問させてください。
+[name="Mr.Nothing"]Er, benefactors, if I could interrupt, just very quickly.
+[name="우요우"]아, 은인님, 여기까지만 하시지요. 그러시는 게 좋을 것 같습니다.
 
 [name="乌有"]敢问先生明天是不是也会在这里说书？
+[name="ウユウ"]あなたは明日もここで講談をされるのですか？
+[name="Mr.Nothing"]May I dare ask, will you again be telling stories here the next day?
+[name="우요우"]선생님, 내일도 이곳에서 이야기를 해주시는지요?
 
 [name="说书人"]那自然。
+[name="講談師"]ええ、もちろんです。
+[name="Storyteller"]Naturally.
+[name="이야기꾼"]물론입니다.
 
 [name="乌有"]既然明天如此，那想必昨天也是这一把折扇，一块醒木？
+[name="ウユウ"]ということは、昨日もここで扇子と木拍子を打っておられたと？
+[name="Mr.Nothing"]As that is the case tomorrow, I presume yesterday you also took up your hand fan and gavel block?
+[name="우요우"]내일이 그렇다면, 어제도 이 접는 부채 하나와 딱따기 하나를 사용하셨겠군요?
 
 [name="说书人"]赋闲在家，只有收集怪书这一个癖好，只靠说书打发时间。故而每日申时，雷打不动。
+[name="講談師"]ええ。家でやることもなく、奇妙な書物を収集するのが唯一の趣味なものですから、講談以外の暇つぶしはありません。ですので毎日申の刻にて必ず講談をしています。
+[name="Storyteller"]I lay at home, with the collection of strange tales as my one and only hobby, naught but the art of storytelling to pass the time. Thus, every day, in the two afternoon hours of the Monkey, changing for nothing.
+[name="이야기꾼"]관직을 그만두고 한가롭게 지내다 보니 취미도 괴서를 수집하는 취미 하나밖에 없고, 대개 이야기 하는 것으로 시간을 보낸답니다. 그래서 어떤 일이 있어도 매일 신시에는 꼭 나와 이야기를 들려주고 있지요.
 
 [name="乌有"]欸，那这日月恒定不落，“今天明天昨天”，这“一天”，要怎么定义？
+[name="ウユウ"]ほうほう。それなら太陽と月が動かないのに「今日、明日、昨日」という「一日」をどのように定義するんです？
+[name="Mr.Nothing"]Err. Then with the sun and moon constant above, and 'today, the next day, and yesterday,' how should you define what one 'day' is?
+[name="우요우"]그럼 해와 달이 영원히 지지 않는다면, '오늘과 내일, 어제', 그리고 이 '하루'를 어떻게 정의하죠?
 
 [name="说书人"]乌兄真有意思，十二个时辰为一天，这还用问吗？
+[name="講談師"]ウユウさんは実に妙なことをおっしゃる……子の刻から亥の刻までの十二刻で一日ですよ。当然でしょう？
+[name="Storyteller"]You're quite the jokester, Brother No. Twelve earthly branches make up one day. Need you ask?
+[name="이야기꾼"]우요우 씨, 정말 재미있으시군요. 하루는 12시진인데, 더 물어볼 필요가 있을까요?
 
 [name="乌有"]呃......十二时辰，二十四小时，指的不是一昼夜的时间吗？
+[name="ウユウ"]ならば……その十二刻、つまり二十四時間とは、一昼夜で一巡するものとして定められたものではないのですか？
+[name="Mr.Nothing"]Erm... do the twelve branches and the twenty-four hours not track the time over one day and night?
+[name="우요우"]아…… 12시진, 24시간은 하루 밤낮의 시간을 가리키지 않나요?
 
 [name="说书人"]噫，奇了怪哉，几位究竟是从何处而来的？十二时辰，指的是从极东日出之地，到极西月出之山之间所需的时间呀？
+[name="講談師"]おお、奇なるかな。皆様は一体どちらからいらっしゃったので？　十二刻とは東から日が出ずる地から、西から月が出づる山間までの所要時間ですよ？
+[name="Storyteller"]Hmm? How mystifying. I wonder just where you all came from? The twelve branches indicate the necessary periods between the sun rising above the earth in the far east, and the moon above the mountains in the far west, don't they?
+[name="이야기꾼"]허, 참 기묘하군요. 세 분은 도대체 어디에서 오셨는지요? 12시진이라 함은 해가 떠오르는 극동부터 달이 떠오르는 극서까지 필요한 시간을 가리키지 않습니까?
 
 [name="说书人"]当然，也指这段路途的路段划分，婆山镇自东到西，便是由巳到亥。
+[name="講談師"]もちろん、その道のりの区分のことでもあります。婆山町の東から西までは、巳の刻から亥の刻に位置します。
+[name="Storyteller"]Of course, they also indicate how this road is partitioned. East to west, P'o-shan Village lies from the late-morn sixth to the late-eve twelfth.
+[name="이야기꾼"]그야 물론 이 길의 구획을 가리키기도 합니다. 파산 마을은 동쪽으로부터 서쪽까지가 사시부터 해시를 가리키지요.
 
 [name="说书人"]我听说山外有山，难道鸿洞山外，东升河下，其他的地方不是如此？
+[name="講談師"]しかし大地は広いと言いますし、もしや鴻洞山（こうどうざん）の外や、東昇河（とうしょうこう）の下流など、他の場所はそうではないのですか？
+[name="Storyteller"]I've heard tell of mountains beyond mountains. Could it be that beyond Mount Hung-tung and downstream of the Tung-shêng River, other places are not so?
+[name="이야기꾼"]산 밖에 산이 있다고는 들었습니다만. 홍동산 밖, 동승하 아래, 설마 다른 지역은 이렇지 않단 말인가요?
 
 [name="乌有"]这......光是一个婆山镇就占了这么大地盘，其他地方要是有镇子，不得永无天日啊？
+[name="ウユウ"]……婆山町だけで六刻分もの土地を独占しているとなれば、他の場所に町があった場合、そこでは永遠に日が差さないことになりません？
+[name="Mr.Nothing"]Then... suppose P'o-shan Village alone occupies such a vast domain; if there are villages elsewhere, mightn't they be forever without daylight?
+[name="우요우"]이 파산 마을 하나가 그 정도로 크다니…… 다른 지역도 이런 식이라면, 그 마을에는 영원히 밝은 날이 없을 것 같은데요?
 
 [name="克洛丝"]或者永远是白天，睡觉都睡不好呢，真糟糕。
+[name="クルース"]逆にずーっと昼間で、寝たくても寝られなくなっちゃう場所もあるかもねぇ～。そんなの可哀想だよぉ。
+[name="Kroos"]Or they'd be stuck in the day, and they'd never even sleep properly. Sucks to be them.
+[name="크루스"]아니면 영원히 낮이거나. 그럼 잠도 제대로 잘 수 없고, 큰일이겠는데~?
 
 [name="说书人"]这......这我还真不清楚。
+[name="講談師"]そ……それはよく分かりません。
+[name="Storyteller"]This... this, I am truly unclear on.
+[name="이야기꾼"]그…… 그건 저도 잘 모르겠습니다.
 
 [name="炎熔"]你从没有离开过镇子吗？这里没有其他游客？
+[name="ラヴァ"]あなたは一度もこの地を離れたことがないんですか？　ここに他に旅人は？
+[name="Lava"]Have you never left this village before? Aren't there any other travelers here?
+[name="라바"]여태껏 마을을 떠난 적이 없으신가요? 이곳엔 저희 말고 다른 여행객은 없었나요?
 
 [name="说书人"]从来没有。很少有人来这里，而离开这里的年轻人，也很少回来。
+[name="講談師"]一度もありません。誰かが来ることもほとんどありません。それにこの地を離れた若者も、ほとんど帰ってきませんね。
+[name="Storyteller"]I never have. Very few people have ever come here, and of the youth that leave, very few ever return.
+[name="이야기꾼"]한 번도 없었습니다. 이곳을 찾는 사람도 적고, 이곳을 떠났다가 다시 돌아오는 젊은이도 매우 적지요.
 
 [name="说书人"]不瞒几位，我们如今所知道的“大炎”，也不过是从富商留下的一些藏书中获悉的罢了。
+[name="講談師"]正直に言えば、私どもが知っている「炎国」も、豪商が残した蔵書から知り得た知識に過ぎません。
+[name="Storyteller"]I must confess, the 'Yen' we presently know is from the library the rich merchant left behind, and nothing more.
+[name="이야기꾼"]여러분께 솔직히 말하자면, 지금 우리가 알고 있는 '염국'도 거상이 남긴 서적을 통해 알게 된 것뿐입니다.
 
 [name="炎熔"]......这里没有遭遇过天灾？
+[name="ラヴァ"]……ここは天災がないんですか？
+[name="Lava"]Has a Catastrophe never struck this place before?
+[name="라바"]……여기엔 재앙이 닥쳐온 적이 없나요?
 
 [name="说书人"]同样极少。除了典籍记载，至少我们这三代人，从未见过。
+[name="講談師"]極めて少ないです。書物に記載されているのみでして、少なくともここ三世代は一度も遭遇したことがありません。
+[name="Storyteller"]They're just as rare. At least apart from the ancient records, our three generations have never seen one before.
+[name="이야기꾼"]아주 적은 편입니다. 고서 기록을 제외하곤, 적어도 저희는 삼대째 한 번도 겪은 적이 없습니다.
 
 [name="说书人"]正因此，我们从不轻易离开婆山镇地界。也正如你所见，来此地的游客都寥寥无几，更别提官差和信使一类的人物。
+[name="講談師"]だからこそ、私たちは軽々しくこの町を離れたりはしないのです。そしてご覧のとおり、ここへ来る旅人もほとんどおらず、雲上人や使節の類に至っては言うまでもありません。
+[name="Storyteller"]And so, we hardly leave the bounds of P'o-shan Village. And just as you see, scarcely any travelers come here, let alone any officials or Messengers or other such persons.
+[name="이야기꾼"]그렇기 때문에 우린 파산 마을을 좀처럼 벗어나지 않는답니다. 보다시피 이곳을 찾는 관광객조차 아주 드무니, 관청 관리나 전달자 같은 인물은 말할 것도 없지요.
 
 [name="说书人"]说如今的婆山镇与世隔绝，丝毫不为过。只不过，也唯有不问世事，方能惬意。
+[name="講談師"]今の婆山町は世と隔絶されていると言っても過言ではありません。外界に興味を持たないからこそ、満足できているのかもしれませんね。
+[name="Storyteller"]To say P'o-shan Village is presently cut off from the outside world would be no exaggeration at all. That said, only when you disregard the affairs of the world can you be content.
+[name="이야기꾼"]지금의 파산 마을은 세상과 단절되어 있다고 해도 과언이 아닙니다만, 세상사에 관심을 두지 않아야만 만족할 수 있겠지요.
 
 [name="乌有"]......
+[name="ウユウ"]…………
+[name="Mr.Nothing"]......
+[name="우요우"]……
 
 [name="炎熔"]那些怪物？
+[name="ラヴァ"]あの化け物は？
+[name="Lava"]And the monsters?
+[name="라바"]그 괴물은요?
 
 [name="说书人"]唉......不知从何时开始，每逢除夕前后，鸿洞山里时常会有些妖物来骚扰城镇，大概三五天时间，这么多年了，一直如此。
+[name="講談師"]はぁ……あれはいつからでしょう。毎年大晦日の前後、鴻洞山に頻繁に妖怪が現れて、町を騒がすようになりました。期間にして大体三日から五日間ほどです。もう何年もずっとこの調子です。
+[name="Storyteller"]Ah... I know not when it began. Come every Dusk Ridding, Mount Hung-tung often bears monsters that come to disturb the village, over perhaps three to five days. For so many unbroken years, it has been this way.
+[name="이야기꾼"]아…… 언제부턴가 섣달그믐날쯤이면 홍동산에 괴물이 나타나 대략 삼십오일 동안 마을에서 소란을 일으키더군요. 이미 몇 년째 계속되고 있습니다.
 
 [name="说书人"]这些年，我翻遍典籍，问遍了那少之又少的外乡人，从未找到解决之法......
+[name="講談師"]ここ数年、私は書物を漁り、もの珍しい来訪者にも何度も訊ねておりますが、解決方法は見つかっていません……
+[name="Storyteller"]In these years, I've turned every record over, asked the very few strangers whenever I could, and I've never found any way to address it...
+[name="이야기꾼"]지난 몇 년간, 전 고서를 뒤지고 적지 않은 타지인에게도 물어봤지만, 해결 방법을 찾지 못했습니다……
 
 [name="说书人"]不过只要躲到有太阳的地方，那些妖物就不敢靠近。
+[name="講談師"]しかし日が照らす場所に居りさえすれば、化け物たちは近づいてきません。
+[name="Storyteller"]But as long as you hide somewhere the sun is, those monsters won't come near.
+[name="이야기꾼"]다만 태양이 있는 곳으로 숨기만 하면, 그 괴물들은 감히 접근하지 못하더군요.
 
 [name="说书人"]与其冒着风险去和那些怪物拼个你死我活，不如求个平平安安，躲在太阳底下，不过一夜不眠而已......
+[name="講談師"]危険を冒して、あの化け物たちと存亡をかけた戦いをするよりは、平穏を求めて太陽の下で縮こまっているほうがましです。一晩眠れないだけですから……
+[name="Storyteller"]Versus braving the dangers and battling them 'til one side is dead, much better is finding peace and safety, hiding under the sun, passing not a night and staying vigil throughout...
+[name="이야기꾼"]위험을 무릅쓰고 그 괴물들과 목숨을 걸고 싸우기보다, 하룻밤 잠을 못 자더라도 태양 아래 숨어 평온함을 구하는 것이 낫지 않겠습니까?
 
 [name="说书人"]久而久之，就成了我们这里的习惯。
+[name="講談師"]いつの間にか、それが私たちの習慣となっておりました。
+[name="Storyteller"]Over time, it's become a usual practice of ours here.
+[name="이야기꾼"]그런 상황을 오래 지속하다 보니, 이러는 것도 이미 우리 마을의 관례가 되었지요.
 
 [name="乌有"]唉！我还以为这里当真是世外桃源，居然还会有这种麻烦事......那些怪物，太过恐怖，不主动靠近，是明智之举啊！
+[name="ウユウ"]うーむ！　この地こそが桃源郷かと思いきや、まさかそんな面倒事に苛まれているとは……あの化け物たちは恐ろしすぎます。不用意に近づかないのは賢い選択ですね！
+[name="Mr.Nothing"]Dear me! And I thought this place was a true peach-blossom utopia! I hadn't imagined such troubles here... Those monsters are much too frightening. To give them a wide berth is the sensible thing!
+[name="우요우"]이런! 전 이곳이 무릉도원인 줄 알았는데, 그런 골치 아픈 일이 있었군요…… 그 괴물들은 너무 무서운 놈들이니 먼저 다가가지 않는 게 좋을 겁니다!
 
 [name="乌有"]（小声）恩人呐，这听着也太邪门了......
+[name="ウユウ"]（小声）恩人様、ここは本当に奇妙すぎますよ……
+[name="Mr.Nothing"](Quietly) Benefactors, their ways are plainly much too strange...
+[name="우요우"](작은 목소리로) 은인님, 정말 기묘한 이야기지 않습니까……
 
 [name="炎熔"]......先生，这是最后一个请求。
+[name="ラヴァ"]……最後にもう一つ質問させてください。
+[name="Lava"]Sir, one last question.
+[name="라바"]……선생님, 마지막 질문입니다.
 
 [name="炎熔"]您也知道我们来这里，是来找人的。我这里有一件，呃，信物，您见过吗？
+[name="ラヴァ"]ご存知の通り、私たちはここへ人を探しに来ました。ここにその、ええと……手がかりがあるんですが、何か心当たりはありますか？
+[name="Lava"]You know that we came here to look for someone. I have a, uh, token. Could you take a look?
+[name="라바"]저희가 사람을 찾으러 이곳에 왔단 건 선생님께서도 아실 것입니다. 제게 증표가 하나 있는데, 혹시 보신 적 있으신가요?
 
 [name="说书人"]这......？
+[name="講談師"]これは……？
+[name="Storyteller"]This is...?
+[name="이야기꾼"]이건……?
 
 [name="说书人"]唔......
+[name="講談師"]おお……
+[name="Storyteller"]Hoh...
+[name="이야기꾼"]흠……
 
 [name="说书人"]......巧夺天工啊。
+[name="講談師"]……なんと精巧な。
+[name="Storyteller"]Craft to surpass Nature.
+[name="이야기꾼"]……기술이 훌륭하군요.
 
 [name="说书人"]但是......很遗憾，如此非凡的物件，我若是见过，一定——
+[name="講談師"]しかし、残念ながら……もしこのような非凡なものを見たことがあれば、絶対に忘れませんから――
+[name="Storyteller"]However... most regretfully, if I'd ever seen such an unusual item as this before, I'd certainly—
+[name="이야기꾼"]하지만…… 정말 아쉽습니다. 이렇게 비범한 물건을 제가 본 적이 있다면, 그건 분명……
 
 [name="村民"]先生，宴席已经备好了。
+[name="町民"]先生、宴席の準備が整いました。
+[name="Villager"]Sir, the feast is prepared.
+[name="마을 사람"]선생님, 연회석 준비를 마쳤습니다.
 
 [name="说书人"]好，好，请问几位在镇上可有住处？
+[name="講談師"]ああ、分かった……皆さん、こちらでのお宿はお決まりですか？
+[name="Storyteller"]Good, good. May I ask you all if you've found anywhere to stay in the village?
+[name="이야기꾼"]아, 알겠네. 세 분께서는 마을에 거처하실만한 곳이 있으신지요?
 
 [name="炎熔"]暂时没有......
+[name="ラヴァ"]いえ、まだ……
+[name="Lava"]Not for the time being...
+[name="라바"]아뇨, 아직은……
 
 [name="说书人"]来者是客，不如就在这里歇息一段时日，等除夕过了，再赶路不迟！
+[name="講談師"]せっかく来られたのです、こちらで少し休んで行かれませんか？　大晦日を過ごしてから出発しても遅くはありませんよ！
+[name="Storyteller"]You've arrived as guests. It'd be best if you rested here for some days, and once the Dusk Ridding has passed, you hurry on your way again!
+[name="이야기꾼"]우리 마을을 찾아온 사람은 모두 손님이니, 조금 쉬었다 가시는 것이 어떠신지요? 섣달그믐날이 지나 다시 길을 재촉해도 늦지 않을 것입니다.
 
 [name="乌有"]（小声）恩人，您看？
+[name="ウユウ"]（小声）恩人様、どうします？
+[name="Mr.Nothing"](Quietly) Benefactor, your verdict?
+[name="우요우"](작은 목소리로) 은인님 생각은요?
 
 [name="炎熔"]（小声）反正也没地方去......不如留在镇子上收集情报。
+[name="ラヴァ"]（小声）どのみち他に行く当てもない……この町で少し情報収集をしよう。
+[name="Lava"](Quietly) It's not like we've got anywhere to go... We may as well stay in the village for now and gather intel.
+[name="라바"](작은 목소리로) 어차피 갈 데도 없으니…… 차라리 이 마을에 남아서 정보나 수집하자.
 
 [name="炎熔"]（小声）这里显然和我们知道的“大炎”有很多不同的地方，以及，我们是怎么到这里来的，还是没有头绪......
+[name="ラヴァ"]（小声）ここは明らかにアタシたちの知ってる「炎国」とは違う点が多い。それにどうやってここへ来たか……その手がかりも掴めてないからな。
+[name="Lava"](Quietly) This place obviously doesn't match up with the 'Yen' we know. Not to mention, we still have no indication of how we got here...
+[name="라바"](작은 목소리로) 여긴 우리가 아는 '염국'과는 분명히 다른 게 많은 곳 같아. 게다가 우리가 어떻게 이곳에 오게 된 것인지 아직도 갈피를 잡을 수 없으니……
 
 [name="乌有"]好！
+[name="ウユウ"]わかりました！
+[name="Mr.Nothing"]Right!
+[name="우요우"]좋습니다!
 
 [name="乌有"]那咱们就，恭敬不如从命啦。
+[name="ウユウ"]ではお言葉に甘えさせて頂きましょう。
+[name="Mr.Nothing"]In that case, we'd be best to accept.
+[name="우요우"]그럼, 염치 불구하고 기꺼이 호의를 받아들이지요.
 
 [name="克洛丝"]到头来还是没有任何线索......不过这里的茶闻着好香，这是大炎的绿茶吗？
+[name="クルース"]結局、何の手がかりもなかったねぇ……だけど、ここのお茶は良い香り〜。これは炎国の緑茶なのかなぁ？
+[name="Kroos"]So in the end, we still don't have a literal clue... Eh, but the tea here smells great. Is this how the green tea is in Yen?
+[name="크루스"]결국 아무런 단서도 찾지 못했네…… 그런데 여기, 차향이 되게 향기로워. 염국의 녹차인가?
 
 [name="炎熔"]......克洛丝！
+[name="ラヴァ"]……クルース！
+[name="Lava"]Kroos!
+[name="라바"]……크루스!
 
 [name="克洛丝"]没关系啦，我有分寸。
+[name="クルース"]うんうん、分かってるってぇ。
+[name="Kroos"]Don't worry, I've got my manners.
+[name="크루스"]아이 참~ 나도 안다구~
 
 [name="克洛丝"]——
+[name="クルース"]…………
+[name="Kroos"]—
+[name="크루스"]……
 
 [name="克洛丝"]能喝。
+[name="クルース"]大丈夫、飲めるよぉ。
+[name="Kroos"]I could drink this.
+[name="크루스"]괜찮아, 마실 수 있어.
 
 [name="炎熔"]放在这儿的水果......
+[name="ラヴァ"]ここに置いてある果物は――
+[name="Lava"]They've put out fruits here...
+[name="라바"]여기 놓인 과일은……
 
 [name="乌有"]啊，恩人是要试毒？早说啊，我来我来！
+[name="ウユウ"]あ！　毒味をされるおつもりですか！？　そういうことは早く言ってくださいよ。私がやりますから！
+[name="Mr.Nothing"]Ah, are you testing for poison, benefactors? You should've said sooner; let me come to your aid!
+[name="우요우"]아, 은인님들, 독극물 테스트 중이시군요? 진즉에 말씀하시지, 제가 하겠습니다, 제가!
 
 [name="炎熔"]喂......！
+[name="ラヴァ"]おい……！
+[name="Lava"]Hey...!
+[name="라바"]이봐……!
 
 [name="乌有"]呜唔！
+[name="ウユウ"]ん……？　んんん！？
+[name="Mr.Nothing"]Mmph!
+[name="우요우"]오오? 오오오오!
 
 [name="乌有"]嗯，恩人呐，这水果可水灵了，还怪甜的。
+[name="ウユウ"]お、恩人様！　なんとも瑞々しい果物で、恐ろしく甘いです！
+[name="Mr.Nothing"]Mm, dear benefactor, this fruit is quite fresh! And peculiarly sweet.
+[name="우요우"]흠, 은인님, 이 과일 정말 싱싱하네요. 게다가 달기까지 한데요.
 
 [name="炎熔"]我不是那个意思......
+[name="ラヴァ"]毒味をしろなんて言ってないだろ……
+[name="Lava"]I didn't mean...
+[name="라바"]난 그런 뜻이 아니라……
 
 [name="乌有"]没有的事！俗话说得好，防人之心不可无嘛。
+[name="ウユウ"]何をおっしゃいます！　曰く、「石橋は叩いて渡るべし」ですよ！
+[name="Mr.Nothing"]Mind it not! As the proverb goes, one cannot lack the heart to protect, no?
+[name="우요우"]괜찮습니다! 돌다리도 두들겨 보고 건너라고 하지 않습니까.
 
 [name="炎熔"]倒不是担心他们下毒......只是逐步确认......我们四周的一切。
+[name="ラヴァ"]別に毒を盛られる心配なんてしてない。ただ、より慎重にチェックすべきってことだ……アタシたちの周り全てをな。
+[name="Lava"]I wasn't worried if they poisoned anything... I was just checking through... everything in our perimeter.
+[name="라바"]저 사람들이 독을 탔을까 봐 걱정하는 게 아니라…… 그냥 우리 주변의 모든 것들을…… 조금씩 확인하려는 것뿐이야.
 
 [name="克洛丝"]其实你还挺烦躁的，对吧？没关系，大家都一样，一头雾水。
+[name="クルース"]ラヴァちゃん、イライラしてるんじゃない～？　大丈夫、それはみんな同じだよぉ。だってなぁんにもわからないんだもん～。
+[name="Kroos"]You're pretty fidgety right now, aren't you? No problem, we're all the same. Lost in the fog.
+[name="크루스"]사실 초조한 거지? 괜찮아~ 얼떨떨한 건 모두 마찬가지니까~
 
 [name="克洛丝"]就像是重新确认自己是不是还活着似的。
+[name="クルース"]なんだか、自分がまだ生きてるかどうかを再確認してるみたい～。
+[name="Kroos"]It's like we're checking if we're even still alive.
+[name="크루스"]마치 자신이 아직 살아있는지 다시 확인하는~ 뭐 그런 거 아냐?
 
 [name="炎熔"]......重新确认吗。
+[name="ラヴァ"]……再確認か。
+[name="Lava"]Checking again, huh?
+[name="라바"]다시 확인한다…… 라……
 
 [name="炎熔"]你们在这里休息吧，我还是要去外面看看。
+[name="ラヴァ"]二人はここで休んでろ。アタシはちょっと外を見てくる。
+[name="Lava"]You chill here. I still need to take another look outside.
+[name="라바"]여기에서 쉬고 있어 봐. 난 밖에 좀 나가 봐야겠어.
 
 [name="乌有"]怎么能让恩人独自劳累呢！我毕竟陪您一起去！
+[name="ウユウ"]どうして恩人様お一人に仕事をさせられましょうか！　私もお供いたしますよ！
+[name="Mr.Nothing"]How could I leave my benefactor to toil alone! I must accompany you!
+[name="우요우"]어찌 은인님 혼자 고생하게 놔두겠습니까! 제가 함께 가지요!
 
 [name="克洛丝"]那我们就分头行动吧，现在这个情况，谁都坐不住呀。
+[name="クルース"]じゃあ手分けして情報収集しようよぉ。今のこの状況じゃ、落ち着いて休んでられないよぉ～。
+[name="Kroos"]Then let's split up and move. The way things are, none of us is gonna sit still.
+[name="크루스"]그럼 우리 따로따로 움직이자. 지금 이 상황에서는 누구도 가만히 앉아 있기 힘들 거야.
 
 [name="乌有"]好嘞，那咱们......一个时辰后见？
+[name="ウユウ"]分かりました！　では……一刻後に再び集まりましょうか？
+[name="Mr.Nothing"]Alright. Then shall we meet in... two hours?
+[name="우요우"]좋습니다, 그럼 우리…… 두 시간 뒤에 만날까요?
 
 [name="炎熔"]好。
+[name="ラヴァ"]ああ。
+[name="Lava"]Good.
+[name="라바"]좋아.
 
 [name="炎熔"]......
+[name="ラヴァ"]…………
+[name="Lava"]......
+[name="라바"]……
 
 [name="炎熔"]你觉得他可信吗？
+[name="ラヴァ"]アイツを信じていいと思うか？
+[name="Lava"]Do you think we can trust him?
+[name="라바"]넌 저 사람 믿을만한 것 같아?
 
 [name="克洛丝"]......虽然在荒野上遇见落难者也不是什么稀罕事，不过巧合这种东西，是最不值得相信的啦。
+[name="クルース"]……荒野で遭難者に出会うのはよくあるけどぉ、偶然巣穴に迷い込んで襲われたなんてねぇ。「偶然」なんて言う人が、一番当てにならないよねぇ。
+[name="Kroos"]Even if it's not rare to see poor bastards in a tight spot on the wastes, coincidences like his are the last thing you can trust.
+[name="크루스"]……황야에서 조난자를 만난 것도 그리 드문 일은 아니긴 한데~ 이런 게 또 제일 믿어서는 안 되는 부분이기도 하고~
 
 [name="炎熔"]我想也是，而且他欺骗我们也是事实。
+[name="ラヴァ"]同意見だ。アイツがアタシたちを騙したのも事実だし。
+[name="Lava"]I think so too. And it's a fact that he's been deceiving us.
+[name="라바"]나도 그렇게 생각해. 게다가 우요우가 우릴 속인 것도 사실이고.
 
 [name="炎熔"]离巢的钳兽是极具攻击性的。虽然我们找到他的时候，他趴在树枝上一副悲惨样......但是那里离车祸地点有足足八百米。
+[name="ラヴァ"]巣を離れた鉗獣たちは極めて攻撃的だった。アタシがアイツを見つけた時、アイツは木の上で惨憺たる状態だったが……あそこは車の事故現場から、ゆうに八百メートルはあったぞ。
+[name="Lava"]Gloompincers that leave their nests are highly aggressive. And when we found him, he was up in a tree looking all sad... but he was about 800 whole meters away from the car crash.
+[name="라바"]둥지에서 벗어난 글룸핀서는 매우 공격적이야. 우리가 우요우를 찾았을 때, 우요우는 나뭇가지에 엎드려 비참한 모습을 하고 있었지만…… 그곳은 사고 지점에서 무려 팔백 미터나 떨어져 있었어.
 
 [name="炎熔"]而且看他的动作......
+[name="ラヴァ"]しかもアイツの身のこなし――
+[name="Lava"]And just seeing his actions...
+[name="라바"]게다가 그 녀석의 행동은……
 
 [name="克洛丝"]就算没有恶意，总是要互相保留一些的嘛。
+[name="クルース"]悪意はないとしても、手の内を見せてない感じがするねぇ。
+[name="Kroos"]Even if he's got no ill will, we've still gotta be wary of each other.
+[name="크루스"]설령 악의가 없다 해도, 어쨌든 서로 거리는 두어야 하는 거니까.
 
 [name="克洛丝"]......我会稍微留意点的。
+[name="クルース"]まぁ……少し気に留めておくねぇ。
+[name="Kroos"]I'll keep an eye on him.
+[name="크루스"]뭐…… 내가 조금 더 주의할게.
 
 [name="乌有"]......唉。
+[name="ウユウ"]……はぁ。
+[name="Mr.Nothing"]*Sigh*.
+[name="우요우"]하아……
 
 [name="乌有"]（虽说突然被卷入了莫名怪事......但也算是因祸得福......）
+[name="ウユウ"]（突然摩訶不思議な事態に巻き込まれたとはいえ……これも怪我の功名か……）
+[name="Mr.Nothing"](I may have been drawn into something indescribably bizarre... But I suppose that has had a silver lining...)
+[name="우요우"](갑자기 알 수 없는 기괴한 일에 말려들었지만…… 전화위복이 된 셈이네……)
 
 [name="乌有"]（话说回来，这可真——不是闹着玩的啊......要是找不到回去的办法，可咋整......）
+[name="ウユウ"]（とはいえ、これは本当に――笑い事じゃないぞ……もし本当に戻る方法が見つからなければ、一体どうすれば……）
+[name="Mr.Nothing"](Speaking of which, this truly isn't—any joking matter... If I can't find a way to return, then what do I even do...)
+[name="우요우"](그나저나 이건 정말…… 장난이 아닌데…… 돌아갈 방법을 찾지 못하면 어떻게 하지……)
 
 [name="乌有"]（唔......但炎熔和克洛丝确实有恩于我，这事儿也不能赖她们......唉！走一步看一步吧——）
+[name="ウユウ"]（うむ……しかしラヴァとクルースには恩がある。この件を二人のせいにもできないし……ああもう！　こりゃ動きながら考えるしかないか――）
+[name="Mr.Nothing"](Oh... but Lava and Kroos have been quite the saviors to me. I can't fault them for this... *sigh*! I'll just have to see as I go—)
+[name="우요우"](흠…… 하지만 라바와 크루스는 날 구해준 은인이야, 이번 일까지 그 여자들에게 의지해선 안 돼…… 에휴…… 이건 나중에 상황 봐가면서 결정해야겠다…… )
 
 [name="乌有"]哦哦，抱歉抱歉，实在抱歉，看我一直想事情，一时间都没注意前面——
+[name="ウユウ"]あっ！　すみません、誠に申し訳ない。考えごとをしていたので、前を見ておりませんでした――
+[name="Mr.Nothing"]Ohh, my apologies there, I'm truly sorry. I was lost in thought and clearly wasn't watching my way—
+[name="우요우"]오오, 죄송합니다. 제가 뭐 좀 생각하느라 앞쪽을 신경 쓰지 못했……
 
 [name="嵯峨"]......啊！
+[name="サガ"]……あ！
+[name="Saga"]...Ah!
+[name="사가"]……아!
 
 [name="嵯峨"]你看着面生，想必是外边来的吧？小僧已经很久没见过外来客啦！
+[name="サガ"]初めて見る顔だ……つまり外から来たのであろう？　客人とはまことに久しぶりでござる！
+[name="Saga"]By your appearance, surely you are from outside, are you not? It has been so long since I saw a visitor!
+[name="사가"]낯선 얼굴이구려. 외부인이오? 소승, 외부인을 정말 오랜만에 보오!
 
 [name="嵯峨"]小僧名叫嵯峨，是来自东国的云游僧！敢问施主从何处来？
+[name="サガ"]拙僧の名は嵯峨（サガ）と申す。極東の客僧にござる！　そなたはどこから参られたのだ？
+[name="Saga"]I am Saga, humble servant of the Buddha, a wandering monk from Higashi! May I ask from whence thou comest?
+[name="사가"]소승, 사가라고 하오. 극동에서 온 객승이지요! 시주께서는 어디에서 오시는 길이오?
 

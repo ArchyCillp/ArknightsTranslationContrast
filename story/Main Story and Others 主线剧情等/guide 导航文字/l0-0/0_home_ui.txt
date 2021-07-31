@@ -1,4 +1,10 @@
 [PopupDialog(dialogHead="$avatar_sys", protectTime=1)] 虽然你的身体还留在切尔诺伯格，但还是————欢迎回到罗德岛。
+[PopupDialog(dialogHead="$avatar_sys", protectTime=1)] まだあなたの身体はチェルノボーグにありますが————こちらがロドスです。おかえりなさいませ。
+[PopupDialog(dialogHead="$avatar_sys", protectTime=1)] Even though your body is still back in Chernobog, I must say… welcome home to Rhodes Island.
+[PopupDialog(dialogHead="$avatar_sys", protectTime=1)] 박사님의 몸은 아직 체르노보그에 있지만…… 로도스 아일랜드에 돌아오신 것을 환영합니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 暂时你还没有熟悉罗德岛的全部功能，看来这也是需要复习的部分了。虽然部分功能区域还在修复中，不过至少核心功能已经可以使用了。
+[PopupDialog(dialogHead="$avatar_sys")] ロドスの機能を一通り復習していきましょう。まだ復旧中のエリアもございますが、少なくとも基本的な設備すべて利用可能です。
+[PopupDialog(dialogHead="$avatar_sys")] You probably are not familiar with all of the Island’s features, so we’ll have to go over that.Some facilities are still undergoing repair, but the core features should be functional.
+[PopupDialog(dialogHead="$avatar_sys")] 아직 로도스 아일랜드의 모든 기능을 통제하실 수 있는 상태는 아닌 듯하군요. 복습이 필요할 것으로 판단됩니다.구역 중에는 아직 복구가 끝나지 않은 곳도 있습니다만, 기본적인 기능은 모두 사용하실 수 있습니다.
 

@@ -45,7 +45,7 @@
 
 [Decision(options="罗德岛居然只派遣了五支小队？ ", values="1")]
 [Decision(options="五つの小隊しか出していないのか？", values="1")]
-[Decision(options="We only sent five teams? ", values="1")]
+[Decision(options="We only sent five teams? ", values="1")]
 [Decision(options="로도스 아일랜드에서 겨우 다섯 개 팀만 파견한다고?", values="1")]
 
 [name="凯尔希"]  我们没有急着想让乌萨斯的地方将领捏到我们把柄的意思。
@@ -105,7 +105,7 @@
 
 [Decision(options="那为什么我们要参与？ ", values="1")]
 [Decision(options="だったらなぜ今回の行動を？", values="1")]
-[Decision(options="So why do they need us? ", values="1")]
+[Decision(options="So why do they need us? ", values="1")]
 [Decision(options="그럼 왜 우리가 나서야 하지?", values="1")]
 
 [name="凯尔希"]  因为这个阴谋已经卷入了感染者。
@@ -835,7 +835,7 @@ Kal'tsit grabbed by the waist with one arm and pulled you onto the zipline with 
 
 风沙很大，那只“手”很坚硬，你有点不确定它是否属于凯尔希。
 激しい砂嵐の中、意外と硬い感触がするその「手」が、果たしてケルシーのものなのかどうか、あなたは確信が持てなくなっていた。
-The sandstorm was ferocious, and the “arm” holding you was very hard. You couldn’t be certain it belonged to Kal'tsit.
+The sandstorm was ferocious, and the 'arm' holding you was very hard. You couldn’t be certain it belonged to Kal'tsit.
 모래바람이 거세, 그 딱딱한 '손'이 정말 켈시의 손이 맞는지는 확신할 수 없었다.
 
 [name="阿米娅"]  各个小队，请各就各位！

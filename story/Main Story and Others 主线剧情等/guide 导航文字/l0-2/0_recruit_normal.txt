@@ -1,4 +1,10 @@
 [PopupDialog(dialogHead="$avatar_amiya")] 博士，为了对抗将来更大的威胁，我们需要有更多的同伴参与行动。
+[PopupDialog(dialogHead="$avatar_amiya")] ドクター、さらに大きな脅威に立ち向かうには、より多くの仲間が必要です。
+[PopupDialog(dialogHead="$avatar_amiya")] Doctor, in order to counter future threats, we need to recruit even more peers to aid in our operations.
+[PopupDialog(dialogHead="$avatar_amiya")] 박사님, 앞으로 닥칠 더 큰 위협에 맞서기 위해서는 지금보다 훨씬 많은 동료가 필요해요.
 
 [PopupDialog(dialogHead="$avatar_sys")] 虽然能够像上次一样通过猎头进行干员寻访，但是根据计算，有限的资源不会给我们太多这样做的机会。使用<@tu.kw>公开招募</>可能是另一个选择。
+[PopupDialog(dialogHead="$avatar_sys")] 前回の様に人材発掘で仲間を増やすのも一つの方法ですが、試算したところ、限りある資源ではいつでも気軽にスカウトできるというわけではなさそうです。そこで<@tu.kw>公開求人</>を出してみるのはいかがでしょうか。
+[PopupDialog(dialogHead="$avatar_sys")] We can, of course, perform Headhunting like we did before. However, resources are limited, and this is not always feasible. <@tu.kw>Recruitment</> is another excellent solution.
+[PopupDialog(dialogHead="$avatar_sys")] 저번처럼 헤드헌팅으로 동료를 모집하는 것도 좋은 방법이지만, 자원이 한정되어있는 이상 매번 헤드헌팅으로만 채용을 진행하긴 어렵습니다. 이럴 때 <@tu.kw>공개모집</>은 또 하나의 선택지가 될 것입니다.
 

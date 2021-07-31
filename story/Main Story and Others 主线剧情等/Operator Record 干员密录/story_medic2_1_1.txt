@@ -1,380 +1,950 @@
 05:30 A.M. 天气/阴
+a.m. 05:30 天気/曇天
+05:30 A.M. \ Overcast
+05:30 A.M. 날씨/흐림
 
 [name="Lancet-2"]  晚上好啊，博士。
+[name="Lancet-2"]  こんばんは、ドクター様。
+[name="Lancet-2"]  Good evening, Doctor.
+[name="Lancet-2"]  좋은 밤입니다, 박사님.
 
 [name="Lancet-2"]  当然更严格地说，现在已经不是晚上了。
+[name="Lancet-2"]  もちろん厳密に言えば、今はもう夜ではありませんが。
+[name="Lancet-2"]  Of course, by the strictest definition, it's not evening anymore.
+[name="Lancet-2"]  엄밀히 말하자면 이미 밤은 아니지만요.
 
 [name="Lancet-2"]  你看起来真的很累，检测结果显示你至少有二十多个小时没有进入过深度睡眠——偶尔的打盹可不能算数哦。
+[name="Lancet-2"]  お疲れのご様子ですね。モニタリングしたデータによりますと、ドクター様が前回のノンレム睡眠を終えてから20時間以上が経過しています。当然、居眠りは計算に含まれておりません。
+[name="Lancet-2"]  You appear exhausted. My sensors indicate that you have not entered a state of deep sleep for at least twenty hours—and occasionally dozing off certainly cannot be counted.
+[name="Lancet-2"]  너무 피곤해 보이세요. 검사 결과, 최소 20시간 이상 깊은 숙면을 취하지 않으셨습니다. 가끔 조는 건 계산에 넣지 않은 결과입니다.
 
 [Decision(options="没办法，要处理的文件太多了。;......困。;谁让我是罗德岛的博士啊！", values="1;2;3")]
+[Decision(options="仕方ない、処理しなければならない書類がたくさんあるんだ。;……眠い。;ロドスのドクターだから……！", values="1;2;3")]
+[Decision(options="No way about it. Too many files.;...Tired.;Who made me the Doctor of Rhodes Island, huh?!", values="1;2;3")]
+[Decision(options="어쩔 수 없어. 처리해야 할 문서가 너무 많다고.;……졸려.;별 수 있나, 난 로도스 아일랜드의 박사인걸!", values="1;2;3")]
 
 [name="Lancet-2"]  博士的工作非常重要，不过还是那句话，必要的休息也是持续工作的保障呢。
+[name="Lancet-2"]  ドクター様のお仕事は非常に重要です。しかしながら、いつもの言葉を繰り返させていただきます。仕事で最大のパフォーマンスを発揮するには、適度な休息も必要ですよ。
+[name="Lancet-2"]  Your work is exceptionally important, Doctor, but it's as they say. Proper rest guarantees sustainable work.
+[name="Lancet-2"]  박사님의 일은 아주 중요하죠. 하지만 일을 계속하려면 휴식도 보장되어야 합니다.
 
 [name="Lancet-2"]  医疗部门的各位也有同样的观点，所以才会经常让我跟着博士。
+[name="Lancet-2"]  医療部の皆様も同様の見解をお持ちです。だからこそ、いつも私にドクター様のアテンドをさせているのです。それに……
+[name="Lancet-2"]  All members of the Medical Department see the same way on this. That is why they frequently send me to accompany you, Doctor.
+[name="Lancet-2"]  의료부도 같은 생각이에요. 그래서 제가 박사님을 따라다니라고 하는 겁니다.
 
 [name="Lancet-2"]  唔......毕竟除了日常监测博士的生理状态，我也做不了更多了。
+[name="Lancet-2"]  うう……実際のところ、ドクター様の健康状態をモニタリングする以外、私にできることもほとんどありませんしね。
+[name="Lancet-2"]  Um... although, aside from daily monitoring of your physiological state, there's not much more I can do.
+[name="Lancet-2"]  음…… 어차피 저는 박사님의 일상적인 생체 상태를 모니터링하는 것 외에는 할 수 있는 일이 없지만요.
 
 [Decision(options="我身体挺好的。;......;......麻烦你了。", values="1;2;3")]
+[Decision(options="自分は健康だ。;…………;……お疲れ様。", values="1;2;3")]
+[Decision(options="I'm in pretty good health.;......;...Sorry for the hassle.", values="1;2;3")]
+[Decision(options="난 아주 건강해.;……;번거롭게 해서 미안해.", values="1;2;3")]
 
 [name="Lancet-2"]  博士，我看到了哦......你左手边的杯子。
+[name="Lancet-2"]  ところでドクター様。見えていますからね……机の奥の方に置いてあるカップ。
+[name="Lancet-2"]  Doctor, I noticed... the mug by your right hand.
+[name="Lancet-2"]  박사님, 저 봤어요…… 왼쪽에 있는 컵이요.
 
 [name="Lancet-2"]  试图用更多文件遮掩是无意义的行为。可露希尔小姐没有为我添加嗅觉模块，可我的图像解析极少出错。
+[name="Lancet-2"]  書類で隠そうとしても無駄です。確かにクロージャ様は、私に嗅覚モジュールを搭載しませんでした。けれど、私が画像解析を誤ることは滅多にありません。
+[name="Lancet-2"]  Your attempts to hide it behind the files are meaningless. Ms. Closure did not add an olfactory module to me, but my image analysis very rarely makes mistakes.
+[name="Lancet-2"]  서류로 가려봤자 소용없습니다. 클로저 언니께선 저에게 후각 모듈을 추가하지 않았지만, 제 영상 분석에는 오류가 거의 없죠.
 
 [name="Lancet-2"]  还是热气腾腾的......博士，你在刚才又偷偷给自己倒了一杯。
+[name="Lancet-2"]  まだカップから湯気が出ているということは……ドクター様、また隠れておかわりをしましたね？
+[name="Lancet-2"]  It's still piping hot... Doctor, you poured yourself that mug in secret just now.
+[name="Lancet-2"]  아직도 열기가 가득하네요…… 박사님, 방금 또 몰래 한잔 따르셨죠.
 
 [name="Lancet-2"]  十五分钟前，就已经是第四杯了吧？
+[name="Lancet-2"]  15分前の時点で、すでに4杯目でしたよね？
+[name="Lancet-2"]  Fifteen minutes ago, you were already on your fourth mug, weren't you?
+[name="Lancet-2"]  15분 전이니까, 벌써 네 잔째인가요?
 
 [name="Lancet-2"]  偶尔摄入中枢神经兴奋剂是有益处的，但考虑到现在已是凌晨，我建议你......喝咖啡。
+[name="Lancet-2"]  適量のカフェインを、適時に摂取することはメリットがあります。しかし現在が早朝であることを考慮しますと——なるべくコーヒーを飲むの……
+[name="Lancet-2"]  Occasional intake of stimulants to the central nervous system can be beneficial, but considering that it is almost morning, I suggest you... drink coffee.
+[name="Lancet-2"]  가끔씩 중추신경 흥분제를 섭취하는 건 유익해요. 하지만 지금이 새벽인 걸 고려하면, 커피는 드시면…… 됩니다.
 
 [Decision(options="嗯？", values="1")]
+[Decision(options="……ん？", values="1")]
+[Decision(options="Hm?", values="1")]
+[Decision(options="응?", values="1")]
 
 [name="Lancet-2"]  刚刚的扫描结果显示，你的心跳速率比正常值偏高，肾上腺素水平也是。
+[name="Lancet-2"]  最新のスキャン結果では、ドクター様の心拍数および血中のアドレナリン濃度のいずれも、正常値より高い数値が出ています。
+[name="Lancet-2"]  My sensors indicated just now that your heartrate is rather higher than average, as are your adrenaline levels.
+[name="Lancet-2"]  방금 스캔한 결과에 따르면, 박사님의 심박 수는 정상 수치보다 높은 편이에요. 아드레날린 수준도 마찬가지고요.
 
 [name="Lancet-2"]  所以......再喝咖啡啦。
+[name="Lancet-2"]  ですので……これ以上コーヒーを飲むの……
+[name="Lancet-2"]  Therefore... drink more coffee.
+[name="Lancet-2"]  그러니까 커피는 더 이상 드시면…… 돼요.
 
 [name="Lancet-2"]  咦？我刚刚是怎么了......这就是大家平常说的口误吗？原来机器人也会有口误啊......
+[name="Lancet-2"]  あれ？　私はどうしたのでしょうか……これが普段、皆様が仰っている「噛む」というものでしょうか？　ロボットも噛むのですね……
+[name="Lancet-2"]  Um? What happened to me just now... Is this a slip of the tongue everyone normally makes? So robots can also have tongue slips...
+[name="Lancet-2"]  어? 제가 방금 어떻게 된 거죠…… 이게 바로 인간들이 말하는 말실수라는 건가요? 기계도 말실수를 하는군요……
 
 [name="Lancet-2"]  总之，博士请多注意休息，要不然又会被医疗部干员说教的。咖啡就......喝了。
+[name="Lancet-2"]  ……とにかく、ドクター様はもっと健康に注意を払ってください。でないとまた医療部の皆様にお説教されてしまいますよ。ですからコーヒーはもう……飲むの……
+[name="Lancet-2"]  In short, Doctor, please pay more mind to your rest, or else a Medical Department operator will lecture you again. As for your coffee... drink it.
+[name="Lancet-2"]  어쨌든 박사님, 충분한 휴식을 취하세요. 그렇지 않으면 의료부 오퍼레이터가 또 설교를 할 거예요. 아무튼 커피는 드시면…… 됩니다.
 
 [name="Lancet-2"]  ......
+[name="Lancet-2"]  …………
+[name="Lancet-2"]  ......
+[name="Lancet-2"]  ……
 
 [name="Lancet-2"]  ......！啊啊！............！！......喝咖啡！
+[name="Lancet-2"]  飲むの……！　ああ！　飲んで……！！　飲むの……！
+[name="Lancet-2"]  ...! Aaah! ......!! ...drink coffee!
+[name="Lancet-2"]  ……! 아아! ……!! 커피를 마시면…… 돼요!
 
 [name="Lancet-2"]  呜......
+[name="Lancet-2"]  ううっ……
+[name="Lancet-2"]  Ohh...
+[name="Lancet-2"]  흐흑……
 
 [name="Lancet-2"]  完了，怎么会变成这样，博士你......喝咖啡。
+[name="Lancet-2"]  どうしましょう、なぜこんなことに？　ドクター様……コーヒーを飲むの……
+[name="Lancet-2"]  This is terrible. How could this happen to me? Doctor, can I ask that you... drink coffee?
+[name="Lancet-2"]  전 망했어요, 왜 이러는 걸까요? 박사님, 커피를 드시면…… 돼요.
 
 [Decision(options="好的，我正打算喝呢。;......;听起来好像逻辑不太对？", values="1;2;3")]
+[Decision(options="わかった。ちょうど飲むつもりだった。;…………;論理が破綻してないか？", values="1;2;3")]
+[Decision(options="Alright. I was planning to do just that.;......;Sounds like your logic's gone kinda wrong?", values="1;2;3")]
+[Decision(options="알았어, 안 그래도 마시려고 했어.;……;지금 말하는 논리가 조금 이상하지 않아?", values="1;2;3")]
 
 [name="Lancet-2"]  到底是哪里出了问题......我本来打算劝阻博士的啊......
+[name="Lancet-2"]  一体どこに問題が生じているのでしょう……？　ドクター様を諌めるつもりだったのですが……思った通りに話すことができません。
+[name="Lancet-2"]  Just where is this issue occurring...? My intent was to dissuade you, Doctor...
+[name="Lancet-2"]  도대체 뭐가 문제일까요…… 저는 박사님을 말리려고 했는데……
 
 [name="Lancet-2"]  是逻辑模块？还是语言......
+[name="Lancet-2"]  論理的思考モジュールの不具合？　それとも言語プログラムモジュールが……？
+[name="Lancet-2"]  Is it my logic module? Or language...
+[name="Lancet-2"]  로직 모듈? 아니면 언어……
 
 [name="Lancet-2"]  呜......我不正常了......连这点小事都做不好......
+[name="Lancet-2"]  ううっ……私は壊れてしまったみたいです……ドクター様のアテンドすらできなくなったポンコツです……
+[name="Lancet-2"]  Ohh... I've gone pathological... I can't even get something as minor as this right...
+[name="Lancet-2"]  흑흑…… 저는 정상이 아닌가 보네요…… 이런 작은 일도 할 수 없다니……
 
 [name="工程干员"]  嗨，是博士啊，你起得可真早。
+[name="エンジニア"]  おう、ドクターか、早いな。
+[name="Engineering Operator"]  Hey. Doctor, huh? You're up real early.
+[name="엔지니어링 오퍼레이터"]  아, 박사님이시군요. 정말 일찍 일어나셨네요.
 
 [name="工程干员"]  我本来还在哀叹这周第三个早班......看到博士你这么精神，自己也没那么困了呢。
+[name="エンジニア"]  今週三度目になる早番を嘆いてたところだったが……ドクターが元気なところを見て、俺も眠気が吹き飛んだよ。
+[name="Engineering Operator"]  And here I was moping about my third morning shift this week... seeing you so active, I feel a little more awake.
+[name="엔지니어링 오퍼레이터"]  이번 주에만 세 번째 오전 근무라고 한탄하고 있었는데…… 박사님이 이렇게 멀쩡하신 걸 보니 저도 힘이 나네요.
 
 [name="工程干员"]  有什么我帮得上忙的吗？
+[name="エンジニア"]  何か俺に手伝えることはないか？
+[name="Engineering Operator"]  Anything I can help with?
+[name="엔지니어링 오퍼레이터"]  도와드릴 일이 있을까요?
 
 [Decision(options="Lancet-2好像出问题了。", values="1")]
+[Decision(options="Lancet-2に問題が生じたみたいだ。", values="1")]
+[Decision(options="Lancet-2 seems to be having issues.", values="1")]
+[Decision(options="아무래도 Lancet-2에 문제가 생긴 것 같아.", values="1")]
 
 [name="工程干员"]  嗯？
+[name="エンジニア"]  ん？
+[name="Engineering Operator"]  Hm?
+[name="엔지니어링 오퍼레이터"]  음?
 
 [name="Lancet-2"]  呜......我的语言模块坏了。
+[name="Lancet-2"]  うう……私の言語モジュールが故障してしまいました。
+[name="Lancet-2"]  Ohh... my language module's broken.
+[name="Lancet-2"]  흐흑…… 제 언어 모듈이 고장 났어요.
 
 [name="工程干员"]  诶，这样吗？这可不太常见。
+[name="エンジニア"]  ええっ、マジか？　そりゃ珍しいな。
+[name="Engineering Operator"]  Jeez, is that right? Well, you don't see that every day.
+[name="엔지니어링 오퍼레이터"]  아, 그래? 흔한 일이 아닌데.
 
 [name="工程干员"]  Lancet-2每周都会来工程部门进行一次系统检测，上一次不就是在昨天？还是前天？
+[name="エンジニア"]  昨日だったか？　一昨日だっけ？　週一の定期メンテナンスに来てたろ。
+[name="Engineering Operator"]  Don't you get system checkups every week with Engineering? Last one was yesterday, wasn't it? Or was it the day before?
+[name="엔지니어링 오퍼레이터"]  Lancet-2는 매주 한 번씩 엔지니어링부에서 시스템 점검을 할 텐데. 최근에 한 점검이 어제였나? 아니면 그저께?
 
 [name="工程干员"]  当时还好好的啊。这还都是可露希尔老大亲自负责的。
+[name="エンジニア"]  あの時は正常だったじゃないか。しかもよ、お前に関しては、一から十までクロージャさんが手を掛けてるだろ。
+[name="Engineering Operator"]  You were all fine then. Closure made sure of it herself. She's the boss.
+[name="엔지니어링 오퍼레이터"]  그땐 정상이었잖아. 클로저 씨가 직접 담당했는데.
 
 [name="工程干员"]  为什么会突然出问题呢？
+[name="エンジニア"]  どうして急に問題が発生したんだ？
+[name="Engineering Operator"]  What would cause a random malfunction?
+[name="엔지니어링 오퍼레이터"]  왜 갑자기 문제가 생겼을까?
 
 [name="Lancet-2"]  我也不知道啊......听说我这个型号的机器人通常使用年限可以达到十年以上。
+[name="Lancet-2"]  私にもわかりません……私と同じタイプのプラットフォームは、通常ならば10年以上は問題なく運用できると聞いています。
+[name="Lancet-2"]  I do not know either... I have heard the model of robot I am typically has a ten year service lifespan.
+[name="Lancet-2"]  저도 모르겠어요…… 제 모델 번호의 로봇은 통상적으로 10년 이상 사용할 수 있다고 들었어요.
 
 [name="Lancet-2"]  现在明明才两年三个月零五天而已啊。
+[name="Lancet-2"]  私はまだ2年3ヶ月と05日しか経っていません。それなのにもう不具合が起きるなんて。うう……
+[name="Lancet-2"]  Currently, I'm only two years, three months and five days.
+[name="Lancet-2"]  지금은 2년 3개월 5일밖에 안 됐는데……
 
 [name="工程干员"]  呃......也不必太紧张？
+[name="エンジニア"]  うーん……そんなに心配しなくていいんじゃないか？
+[name="Engineering Operator"]  Uh... no need to be so nervous?
+[name="엔지니어링 오퍼레이터"]  음…… 너무 긴장할 필요는 없잖아?
 
 [name="工程干员"]  实话说，哪怕我们都因为过劳而早早退休了，你应该还能保有青春活力。
+[name="エンジニア"]  実際よ、俺たちが過労で引退するようなことがあったとしても、お前さんは元気いっぱいに動き続けられるはずだろうしな。
+[name="Engineering Operator"]  To tell the truth, even when we're all retired early from overwork, you should still be as youthful as ever.
+[name="엔지니어링 오퍼레이터"]  솔직히, 우리는 과로로 일찍 은퇴해도, 넌 아마 젊음을 유지할 수 있을 테니.
 
 [name="Lancet-2"]  多谢安慰，虽然我知道你只是出于好心。
+[name="Lancet-2"]  慰めてくれてありがとうございます、親切心で言ってくれているのはわかりますが……
+[name="Lancet-2"]  Thank you for the consolation, even if I know it's only out of kindness.
+[name="Lancet-2"]  단순한 호의인 건 알지만, 위로해주셔서 고마워요.
 
 [Decision(options="......还是尽快检查看看吧？", values="1")]
+[Decision(options="……やっぱり早く診てもらった方がいいんじゃないか？", values="1")]
+[Decision(options="...An inspection ASAP, then?", values="1")]
+[Decision(options="……그래도 빨리 검사하는 게 낫지 않을까?", values="1")]
 
 [name="工程干员"]  我的水平肯定比老大差远了......
+[name="エンジニア"]  俺の腕じゃ、クロージャさんには全然及ばないが見るだけみてみるか……。
+[name="Engineering Operator"]  I'm nowhere near my boss's level, for sure...
+[name="엔지니어링 오퍼레이터"]  제 수준은 클로저 씨보다 훨씬 못할 텐데요…….
 
 [name="工程干员"]  不过这问题也太简单了吧？！只是一块临时消音组件而已。而且就这么草草地贴在背后，甚至角度都是歪着的。
+[name="エンジニア"]  ……ってこれ、めっちゃ単純じゃねぇか！　ミュートモジュールが背中に付けられてるだけだぞ？　それもこんなに雑に……角度もひん曲がってるし。
+[name="Engineering Operator"]  But this one's a little too simple, isn't it?! It's just an ad-hoc silencer module. And someone did a real sloppy job of sticking it on your back. The angle's crooked, even.
+[name="엔지니어링 오퍼레이터"]  근데 이거, 아주 간단한 문제 같은데요?! 단순한 임시 음소거 모듈이네요. 게다가 이렇게 대충 등에 붙어있고, 심지어 각도도 다 삐뚤어져 있네요.
 
 [name="Lancet-2"]  消音组件？我没有听说过类似的东西。
+[name="Lancet-2"]  ミュートモジュール？　そのようなパーツは初めて聞きました。
+[name="Lancet-2"]  A silencer module? I have never heard of such a module.
+[name="Lancet-2"]  음소거 모듈? 그런 건 처음 들어봐요.
 
 [name="工程干员"]  哦，这事只有工程部的老干员才知道。最早可露希尔老大在改制你们这批作业平台的时候，那个，语言库出了一些问题。
+[name="エンジニア"]  あぁ、存在を知ってるのはエンジニア部の古株だけだよ。大昔のことだからな。クロージャさんが、お前たちをカスタマイズした時に……あー、言語モジュールのデータベースに問題が生じたんだ。
+[name="Engineering Operator"]  Oh, only the old operators at Engineering would know about this. Way back when Closure was overhauling your operation platforms, your, uh, language libraries had some issues.
+[name="엔지니어링 오퍼레이터"]  아, 이건 엔지니어링부의 정예 오퍼레이터만 아는 일이야. 처음 클로저 씨가 너희 작업 플랫폼을 개조할 때, 음성 베이스에 문제가 좀 생겼었거든.
 
 [Decision(options="什么问题？", values="1")]
+[Decision(options="どんな問題が？", values="1")]
+[Decision(options="What issues?", values="1")]
+[Decision(options="어떤 문제?", values="1")]
 
 [name="工程干员"]  咳咳，有人不小心把一批泰拉各地粗口集锦录入给了Castle-3。
+[name="エンジニア"]  ゴホン……実は誰かがうっかり、テラ各地のスラングのデータをCastle-3の言語モジュールに追加しちまったんだよ。
+[name="Engineering Operator"]  Ahem. Somebody carelessly input a collection of top swears from all over Terra into Castle-3.
+[name="엔지니어링 오퍼레이터"]  콜록, 전에 누가 실수로 테라 각지의 욕설 모음을 Castle-3에 넣었더라고.
 
 [Decision(options="这场面有点难以想象。;......;真的是不小心吗？", values="1;2;3")]
+[Decision(options="Castle-3がスラングを言うなんて想像しがたいな。;…………。;本当にうっかりなのか？", values="1;2;3")]
+[Decision(options="It's kind of hard to picture that.;......;You sure that was carelessness?", values="1;2;3")]
+[Decision(options="그건 상상이 잘 안 되는데.;……;정말 실수일까?", values="1;2;3")]
 
 [name="工程干员"]  内容有点多，又经过了语言处理模块的重新组合，彻底删除需要花时间。
+[name="エンジニア"]  これまた量が多くてよ。しかも言語データを追加すると、言語処理モジュールが自動的に既存データとくっつけて応用データベースを作っちまうから、完全に削除するにはスゲー時間が掛かるんだよ。
+[name="Engineering Operator"]  They were a little too comprehensive. We reassembled the expletive content in the processing module, and a complete deletion requires some time.
+[name="엔지니어링 오퍼레이터"]  내용이 많기도 하고, 언어 처리 모듈의 재조합까지 거쳐 있어서 완전히 삭제하려면 시간이 좀 걸려요.
 
 [name="工程干员"]  所以我们才临时做了这样一个小模块，使用起来非常简便，只要像这样，打开，靠近，电流产生作用——
+[name="エンジニア"]  だから俺たちは、臨時でこういう小さなモジュールを作ったのさ。これが結構使い勝手が良くってな……こうやってスイッチを入れて近づけるだけで、電流が流れて動作する――
+[name="Engineering Operator"]  So in the interim, we came up with these little modules. Using 'em's a cinch. Just turn it on like this, get up close, get the current flowing—
+[name="엔지니어링 오퍼레이터"]  그래서 저희는 이렇게 임시로 사용하기 쉬운 작은 모듈을 만들었어요. 이렇게 열고 가까이 가면 전류가 작용해서……
 
 [name="工程干员"]  不想让人听见的词语就会被干扰成无法被听到的频率。
+[name="エンジニア"]  人に聞かれたくない言葉は変換されて聞き取れない周波数になる。
+[name="Engineering Operator"]  And any words you don't want people hearing get jammed into inaudible frequencies.
+[name="엔지니어링 오퍼레이터"]  듣고 싶지 않은 단어는 들리지 않는 주파수로 방해를 받게 되죠.
 
 [name="工程干员"]  这样的话，虽然可能暂时影响表达效果，但起码可以避免某些其他部门的干员对Castle-3产生不必要的意见。
+[name="エンジニア"]  そうすれば、しばらく言語表現に影響は出るだろうが、少なくともCastle-3が他のオペレーターたちからクレームを受けることは減るだろ。
+[name="Engineering Operator"]  That way, effectiveness of expression might've suffered for the time being, but at least we could avoid Castle-3 generating unnecessary complaints from certain other departments.
+[name="엔지니어링 오퍼레이터"]  그렇게 되면 일시적으로 표현에 영향을 받겠지만, 적어도 일부 다른 부서의 오퍼레이터가 Castle-3에 대해 불필요한 의견을 내는 건 피할 수 있게 되죠.
 
 [name="工程干员"]  毕竟怎么说，打从那会儿起，罗德岛的小孩子就不少了哈哈。
+[name="エンジニア"]  それになんつーかさ、あの当時からロドスには子供がたくさんいたからな。所構わずにスラングを吐き散らされちゃあ、教育に悪いだろ？　ハハハ。
+[name="Engineering Operator"]  Put it this way: ever since then, Rhodes Island has had a lot of little kiddos aboard, haha.
+[name="엔지니어링 오퍼레이터"]  뭐랄까, 그날 이후로 로도스 아일랜드에 애들이 많아졌다고나 할까. 하하하.
 
 [name="Lancet-2"]  啊......可是......为什么这个组件会到我身上呢？
+[name="Lancet-2"]  ……しかし……なぜそのモジュールが私の体に？
+[name="Lancet-2"]  Ah... Though, well... why did this module end up on me?
+[name="Lancet-2"]  아…… 하지만…… 왜 그 모듈이 저한테 있는 거죠?
 
 [name="Lancet-2"]  我可以保证自己的语言库里并没有不该存在的词句，三十秒前我刚自我检测了一遍。
+[name="Lancet-2"]  30秒前にセルフチェックしましたが、私の言語データベース内に不適切な言葉は存在しません。
+[name="Lancet-2"]  I am able to guarantee that there are no words which should not exist within my language library. I ran a self-test on myself just thirty seconds ago.
+[name="Lancet-2"]  저는 제 언어 베이스에 존재하면 안 되는 단어는 없다고 보증할 수 있습니다. 30초 전에도 자체 검사를 한 번 해봤고요.
 
 [name="工程干员"]  因为现在设置的消音对象也不是什么粗口。
+[name="エンジニア"]  どうも設定がいじられてるみたいだ。Castle-3に付けてた頃とは中身が変わってる。ミュート対象がスラングじゃねぇし、数も少ないな。えーと、否定と禁止の言語データ領域のうち……
+[name="Engineering Operator"]  Because your silencer isn't targeting any kind of swears.
+[name="엔지니어링 오퍼레이터"]  왜냐하면 지금 설정한 음소거 대상도 욕설 같은 게 아니니까.
 
 [name="工程干员"]  嗯......好像有人把“不要”两个字改成了最新的消音词。这和博士刚才描述的情况是一致的吧？
+[name="エンジニア"]  ……うわ、すげぇ切り方してるな。ミュート対象は「は控えてください」、「しないでください」、「はやめてください」、「はいけません」だってよ。これで言語異常の説明はつくか？　ドクター。
+[name="Engineering Operator"]  Hm... seems someone entered the phrase 'do not' to the list. That checks out with what you just described, Doctor, right?
+[name="엔지니어링 오퍼레이터"]  음…… 누군가 뭔가를 하면 안 된다는 말을 새 음소거 대상으로 바꾼 것 같아. 박사님, 방금 설명한 상황과 일치하죠?
 
 [Decision(options="Lancet-2肯定是想对我说“不要喝咖啡”。", values="1")]
+[Decision(options="そうだな……Lancet-2はきっと「コーヒーを飲むのは控えてください」と言いたかったんだと思う。", values="1")]
+[Decision(options="Lancet-2 definitely wanted to tell me 'do not drink coffee.'", values="1")]
+[Decision(options="Lancet-2는 분명 나한테 “커피를 마시면 안 돼요.”라고 하고 싶었던 것 같아.", values="1")]
 
 [name="工程干员"]  咦等等，在组件背后我发现了什么......一块口香糖？
+[name="エンジニア"]  待て、モジュールの裏に何かくっついてるぞ。これは……ガム？
+[name="Engineering Operator"]  Yeah, hold up, I just noticed something on the back of the module... a piece of chewing gum?
+[name="엔지니어링 오퍼레이터"]  어, 잠시만요. 모듈 뒤에 뭐가 있네요…… 껌?
 
 [name="工程干员"]  有人把组件从我们这里偷偷拿了出去，重新设置了目标词语，然后用口香糖黏在Lancet-2身上？
+[name="エンジニア"]  誰かが俺たちに隠れてモジュールを持ち出し、ミュート対象を書き換えて、それをLancet-2の背中にガムで貼り付けた？
+[name="Engineering Operator"]  Someone sneaked a module out of our place, set up new target vocab, then used gum to stick it to Lancet-2?
+[name="엔지니어링 오퍼레이터"]  누군가 우리 몰래 모듈을 가져가서 목표 언어를 다시 설정한 다음 껌을 Lancet-2에게 붙인 건가?
 
 [name="工程干员"]  非常聪明、非常便利的改装，也确实会生效。问题是，谁会这么做呢？
+[name="エンジニア"]  は、ガムか。スマートなやり口じゃねぇか。簡単でしかも有効だ。だけどよ問題は……誰がこんなことを？
+[name="Engineering Operator"]  Real smart. Real easy mod, and one that'd sure as hell kick in. Question is, who'd do this?
+[name="엔지니어링 오퍼레이터"]  아주 똑똑하고 아주 편리한 개조라서 효과도 확실하네요. 문제는, 누가 이렇게 한 걸까요?
 
 [name="Lancet-2"]  博士，有一句话我一直没说。
+[name="Lancet-2"]  ドクター様、実はずっとお伝えしていないことがあるのです。
+[name="Lancet-2"]  Doctor, there's something I've been declining to mention.
+[name="Lancet-2"]  박사님, 계속 말을 못 했는데요.
 
 [name="Lancet-2"]  刚才在工程部我就有感觉到第三个人的存在。
+[name="Lancet-2"]  少し前から私は、このエリアに三人目の存在を検知していました。
+[name="Lancet-2"]  In the Engineering Department just earlier, I sensed the presence of a third person.
+[name="Lancet-2"]  방금 엔지니어링부에서 제3자의 존재를 감지했어요.
 
 [Decision(options="我们不就是三个人？", values="1")]
+[Decision(options="ここに三人いるだろう？", values="1")]
+[Decision(options="Aren't we three people?", values="1")]
+[Decision(options="우리 셋밖에 없지 않나 지금?", values="1")]
 
 [name="Lancet-2"]  博士，很高兴你把我也计算在内，可惜我说的是第三位人类。
+[name="Lancet-2"]  ドクター様……私を人数に入れてくれるのはありがたいのですが、私が言っているのは三人目の人間と言う意味です。
+[name="Lancet-2"]  Doctor, I'm very happy that you count me along with you, but I unfortunately mean a third human.
+[name="Lancet-2"]  박사님, 저까지 포함해 주셔서 너무 기뻐요. 아쉽지만 세 번째 인간을 말한 거였어요.
 
 [name="酸糖"]  ......
+[name="アシッドドロップ"]  …………。
+[name="Aciddrop"]  ......
+[name="애시드드롭"]  ……
 
 [name="酸糖"]  嗨呀，被发现了啊。
+[name="アシッドドロップ"]  あちゃー、見つかったか。
+[name="Aciddrop"]  Hah, yeah, I'm busted.
+[name="애시드드롭"]  앗, 들켰네.
 
 [name="Lancet-2"]  你好啊，酸糖干员。
+[name="Lancet-2"]  こんにちは、アシッドドロップさん。
+[name="Lancet-2"]  Greetings, Operator Aciddrop.
+[name="Lancet-2"]  안녕하세요. 오퍼레이터 애시드드롭.
 
 [name="Lancet-2"]  但是，刚刚我检测到的似乎不是......唔，算啦，没关系。
+[name="Lancet-2"]  しかし、先ほど私が検知したのは違う人だったような……ううっ、いえ、なんでもありません。
+[name="Lancet-2"]  Though what I detected earlier didn't seem to be... oh, never mind. It doesn't matter.
+[name="Lancet-2"]  하지만 제가 방금 감지한 것은 아니었…… 음, 아니에요, 괜찮아요.
 
 [name="Lancet-2"]  对了，今天份的检查还没有做。请稍等一下，等我再确认一次博士的数据，我就帮你扫描。
+[name="Lancet-2"]  そういえば、本日のメディカルチェックがまだでしたね。しばらくお待ちを。もう一度ドクター様のデータを確認した後で、スキャンいたします。
+[name="Lancet-2"]  Oh, right, your checkup today is still pending. Please wait a moment. Once I have reconfirmed the Doctor's data, I will perform your scan for you.
+[name="Lancet-2"]  맞다. 오늘 아직 검사를 안 했네요. 잠시 기다리세요. 제가 박사님의 데이터를 다시 확인하고 스캔할게요.
 
 [name="Lancet-2"]  还有哦，请不要在生活区使用滑板。时间还早，容易打扰到别的干员。
+[name="Lancet-2"]  それと、生活エリアでスケートボードは使用しないでくださいね。まだ早い時間ですから、他のオペレーターに迷惑がかかる可能性が高いです。
+[name="Lancet-2"]  Additionally, please do not utilize your skateboard within living areas. It's still early, and you will be liable to disturb other operators.
+[name="Lancet-2"]  그리고, 생활 구역에선 스케이트보드를 타면 안 됩니다. 이른 시간이라 다른 오퍼레이터들에게 방해가 될 수 있어요.
 
 [name="Lancet-2"]  万一发生碰撞，还会造成不必要的身体伤害。
+[name="Lancet-2"]  万一ぶつかってしまうと、不必要なケガを招いてしまいます。
+[name="Lancet-2"]  On the off-chance that a collision occurs, you may bring about further unnecessary bodily harm.
+[name="Lancet-2"]  만약 부딪히기라도 한다면 불필요한 신체 손상을 입잖아요.
 
 [name="酸糖"]  ......看来你已经恢复了。
+[name="アシッドドロップ"]  ……もう元に戻っちゃったみたいだね。
+[name="Aciddrop"]  ...Guess you're running regular again.
+[name="애시드드롭"]  ……정상으로 돌아왔나 보네.
 
 [name="Lancet-2"]  嗯？
+[name="Lancet-2"]  え？
+[name="Lancet-2"]  Hm?
+[name="Lancet-2"]  응?
 
 [name="Lancet-2"]  博士，我不确定是不是我的理解出了问题，酸糖干员的意思好像是......
+[name="Lancet-2"]  ドクター様、私の理解が正しいかどうか、少々判断致しかねますが、アシッドドロップさんの言った言葉の意味からすると——
+[name="Lancet-2"]  Doctor, I'm not sure whether my understanding is faulty, but Operator Aciddrop seems to be implying that...
+[name="Lancet-2"]  박사님, 제 이해에 문제가 생겼는지 잘 모르겠는데, 오퍼레이터 애시드드롭의 말 뜻은……
 
 [Decision(options="她应该就是那个人。", values="1")]
+[Decision(options="彼女が犯人なんだと思うよ。", values="1")]
+[Decision(options="She's probably the one.", values="1")]
+[Decision(options="애시드드롭이 바로 그 사람일 거야.", values="1")]
 
 [name="Lancet-2"]  酸糖干员，是你给我贴上了消音组件么？
+[name="Lancet-2"]  アシッドドロップさん、あなたがミュートモジュールを私に貼ったのですか？
+[name="Lancet-2"]  Operator Aciddrop, was it you that adhered a silencer module to me?
+[name="Lancet-2"]  오퍼레이터 애시드드롭, 저한테 음소거 모듈을 붙인 건 당신인가요?
 
 [name="酸糖"]  ......
+[name="アシッドドロップ"]  …………
+[name="Aciddrop"]  ......
+[name="애시드드롭"]  ……
 
 [name="酸糖"]  唔，算是吧。
+[name="アシッドドロップ"]  うん、まあ……ね。
+[name="Aciddrop"]  Yeah, I guess it was.
+[name="애시드드롭"]  뭐, 그럴 지도……
 
 [name="酸糖"]  就是我干的。
+[name="アシッドドロップ"]  そう、ボクがやったんだ。
+[name="Aciddrop"]  I did the deed.
+[name="애시드드롭"]  그래, 내가 그랬어.
 
 [name="Lancet-2"]  从你设置的消音对象来看，你不希望我对你说出“不要”这个词语吗？
+[name="Lancet-2"]  あなたが設定したミュート対象と、直近の私たちの会話から判断すると……私に生活態度の指導をされたくないのですか？
+[name="Lancet-2"]  Judging from your configuration of the silencer's targeting, do you not wish for me to direct the words 'do not' at you?
+[name="Lancet-2"]  당신이 설정한 음소거 대상으로 볼 때, 당신은 안 된다는 표현을 듣고 싶지 않았던 거군요?
 
 [name="酸糖"]  怎么说呢......
+[name="アシッドドロップ"]  うーん、どう言えばいいかな……。
+[name="Aciddrop"]  How do I lay it out...?
+[name="애시드드롭"]  뭐랄까……
 
 [name="酸糖"]  我这人平常自由惯了，也没什么人会管着我，Lancet-2你这样......嗯，会有点麻烦。
+[name="アシッドドロップ"]  ボクは自由が好きで、ボクに構う人もいないんだ。だからLancet-2のそういう言葉は……何ていうか、ちょっとウザいんだ。
+[name="Aciddrop"]  I'm used to living free, see, nobody on my back. So types like you... uh, kinda jam me up a little.
+[name="애시드드롭"]  난 평소에 자유로운 게 익숙해서, 누구도 나에게 간섭한 적이 없었거든. Lancet-2 넌 좀…… 그래, 좀 귀찮아.
 
 [name="Lancet-2"]  啊？是嫌麻烦吗？抱歉，我并不希望给你带来这种负面情绪。
+[name="Lancet-2"]  えっ？　ウザい……ですか？　大変申し訳ありません、そういったネガティブな感情を抱いてほしくはありません。
+[name="Lancet-2"]  Oh, am I being bothersome? I'm sorry, it's never my intent to rouse such negative emotions.
+[name="Lancet-2"]  네? 귀찮다고요? 미안해요. 당신에게 부정적인 감정을 주고 싶지 않았습니다.
 
 [name="Lancet-2"]  酸糖干员来到罗德岛以后，病情正在逐渐稳定。
+[name="Lancet-2"]  ロドスに加入して以来、アシッドドロップさんの病状は段々と落ち着いてきています。
+[name="Lancet-2"]  Operator Aciddrop, ever since your arrival at Rhodes Island, your condition has been gradually stabilizing.
+[name="Lancet-2"]  오퍼레이터 애시드드롭은 로도스 아일랜드에 온 뒤로 병세가 점점 안정되고 있어요.
 
 [name="Lancet-2"]  我会向凯尔希医生报备一下，尽量减少检查次数。
+[name="Lancet-2"]  ですので検査回数をできるだけ減らすよう、ケルシー先生に報告しておきます。
+[name="Lancet-2"]  I'll report to Dr. Kal'tsit that we can reduce your checkup frequency.
+[name="Lancet-2"]  켈시 선생님께 검사 횟수를 최대한 줄여달라고 보고하겠습니다.
 
 [name="酸糖"]  ......不是这个意思。
+[name="アシッドドロップ"]  ……そういうことじゃないんだ。
+[name="Aciddrop"]  ...Not really what I meant.
+[name="애시드드롭"]  그런 뜻이 아니라……
 
 [name="Lancet-2"]  好的，我明白了。
+[name="Lancet-2"]  ……なるほど、わかりました。
+[name="Lancet-2"]  Alright, I understand.
+[name="Lancet-2"]  네, 이해했어요.
 
 [name="Lancet-2"]  酸糖干员并不是觉得检查很麻烦，而是认为我很麻烦吧？
+[name="Lancet-2"]  アシッドドロップさんがウザいと感じているのは、検査ではなく、私ですね？
+[name="Lancet-2"]  Operator Aciddrop, it's not checkups that you feel are bothersome, but rather myself, correct?
+[name="Lancet-2"]  애시드드롭 오퍼레이터는 검사가 너무 귀찮다는 게 아니라, 제가 귀찮다는 거잖아요?
 
 [name="Lancet-2"]  这也不是什么很难解决的问题。
+[name="Lancet-2"]  でしたら、その問題の解決はそれほど難しいことではありません。
+[name="Lancet-2"]  This isn't a difficult problem to address.
+[name="Lancet-2"]  이것도 해결하기 어려운 문제는 아니에요.
 
 [name="Lancet-2"]  虽然医疗部门的大家都很忙，但大家都很关心干员尤其是刚来罗德岛的年轻干员们的身体健康。我拜托他们换人来检查就可以啦。
+[name="Lancet-2"]  医療部の方たちは皆様お忙しいですが、どなたもオペレーターを、特にロドスにやってきたばかりの若いオペレーターの健康状態は、常に気に掛けています。彼らに検査を代わってもらいますね。
+[name="Lancet-2"]  Medical Department staff may all be very busy, but they care very much about the health and vitality of our operators, especially those of younger age who have just recently arrived. I can simply request them to assign someone else to your checkups.
+[name="Lancet-2"]  의료부는 다들 너무 바쁘지만 오퍼레이터, 특히 갓 로도스 아일랜드에 온 젊은 오퍼레이터들의 신체 건강에 관심이 많죠. 제가 그들에게 사람이 검사하는 걸로 프로세스를 바꿔달라 하면 됩니다.
 
 [Decision(options="Lancet-2听起来有点伤心。", values="1")]
+[Decision(options="Lancet-2、傷ついちゃったかな？", values="1")]
+[Decision(options="You sound a little hurt, Lancet-2.", values="1")]
+[Decision(options="Lancet-2, 살짝 삐진 거 같은데.", values="1")]
 
 [name="Lancet-2"]  没有啊博士，请不要误导新干员哦，我毕竟只是个机器，并不会有什么伤心的情绪。
+[name="Lancet-2"]  そんなことはありませんドクター様。私はただの機械ですから、傷つくという感情は持ち合わせていません。新しく加入したオペレーターに誤解を与えるような発言はしないでください。
+[name="Lancet-2"]  Not at all, Doctor. Please do not mislead our new operators. I'm only a robot, after all, and would never feel any sort of grievance.
+[name="Lancet-2"]  아닙니다. 박사님. 새로운 오퍼레이터를 오해하면 안 됩니다. 저는 기계일 뿐, 슬픔이라는 감정이 존재하지 않죠.
 
 [name="Lancet-2"]  呜，这么看的话，我确实挺喜欢说不要的......
+[name="Lancet-2"]  ……ううっ、こうしてみると、たしかに私は先ほどミュートされた単語を使う頻度が高いようです……
+[name="Lancet-2"]  Ohh, now that I look at it, I really do tend to tell people not to do things...
+[name="Lancet-2"]  으으으…… 그러고 보니 전, 하면 안 된다는 표현을 많이 쓰네요.
 
 [name="酸糖"]  请不要这么说。
+[name="アシッドドロップ"]  そんなこと言うなよ。
+[name="Aciddrop"]  Don't say that.
+[name="애시드드롭"]  그렇게 말하지 마.
 
 [name="Lancet-2"]  啊？
+[name="Lancet-2"]  えっ？
+[name="Lancet-2"]  Oh?
+[name="Lancet-2"]  네?
 
 [name="酸糖"]  我没有希望换人。
+[name="アシッドドロップ"]  ボクは担当を変えたいなんて思ってないからな。
+[name="Aciddrop"]  I don't wanna get someone different.
+[name="애시드드롭"]  사람으로 바꾸는 건 원하지 않아.
 
 [name="酸糖"]  你挺好的。机器人有什么不好，很酷啊不是嘛。
+[name="アシッドドロップ"]  Lancet-2がいいんだ。ロボットの何が悪いんだよ？　クールだろ、違うか？
+[name="Aciddrop"]  You're good. What's wrong with robots? Robots are rad as hell, right.
+[name="애시드드롭"]  네가 아주 좋아. 로봇이 뭐가 나빠, 아주 멋있잖아. 안 그래?
 
 [name="Lancet-2"]  ......谢谢。
+[name="Lancet-2"]  ……ありがとうございます。
+[name="Lancet-2"]  ...Thank you.
+[name="Lancet-2"]  ……고맙습니다.
 
 [name="酸糖"]  唉，那个，怎么说......
+[name="アシッドドロップ"]  えっと、その、なんて言うか……
+[name="Aciddrop"]  Uh, it's like, how do I put it...?
+[name="애시드드롭"]  음, 저기, 그러니까……
 
 [name="酸糖"]  倒不是说嫌你麻烦，虽然总有个人在耳边念确实，呃，有那么一点受不了，但你那不是关心我么？这我还是分得清的。
+[name="アシッドドロップ"]  あんたがウザいわけじゃない。たしかにそばでグチグチ言われるのは嫌だけど、それはあんたがボクを気にしてくれてるからだろ？　それはボクもわかってる。
+[name="Aciddrop"]  It's not like I'm saying you're annoying, even though having someone constantly up in your grill is, uh, kinda annoying, but that's 'cause you, like, care about me, right? I do get that, yeah.
+[name="애시드드롭"]  네가 귀찮다는 게 아니야. 물론 계속 누가 옆에서 말하면, 음…… 확실히 좀 참을 수가 없는데…… 넌 나를 신경 써주는 거잖아? 그 정도는 구분할 수 있어.
 
 [name="Lancet-2"]  那，酸糖干员说的麻烦是指......？
+[name="Lancet-2"]  では、アシッドドロップさんがおっしゃっていた「ウザい」というのは……？
+[name="Lancet-2"]  In that case, Operator Aciddrop, what bother do you mean...?
+[name="Lancet-2"]  그럼, 애시드드롭 오퍼레이터가 말하는 귀찮다는 건……?
 
 [name="酸糖"]  非要说的话，是我心里变得很乱......我会有一点，呃，想家？也不是说真想那个地方......反正很麻烦，真的很麻烦啊！
+[name="アシッドドロップ"]  あえて言うならむしゃくしゃするんだ……ちょっとだけ。うーん、家が恋しいのかな？　別にあの場所が恋しいわけじゃないけど……とにかくウザいんだ、本当にウザいんだよ！
+[name="Aciddrop"]  If I have to put it some way, man, I feel like a total mess... like I kinda, uh, miss home? It's not like I MISS that whole place, but... ugh, it's a mess, yeah? It's just a freaking mess!
+[name="애시드드롭"]  굳이 말해야 한다면, 마음이 아주 혼란스러워져서 조금…… 집 생각이 나는? 그렇다고 진짜 거기가 보고 싶다는 건 아니고…… 어쨌든 아주 귀찮아. 진짜 귀찮아!
 
 [name="酸糖"]  我招了！这一点都不酷吧，我也知道这不酷，你随便说没关系！
+[name="アシッドドロップ"]  もう認める！ホームシックなんだよ。……これっぽっちもクールじゃないだろ。わかってるんだ……何とでも言えよ！
+[name="Aciddrop"]  I admit it! It's not even cool, is it? I know it's not cool! Say whatever you want, I don't care!
+[name="애시드드롭"]  귀찮아! 하나도 안 쿨해. 나도 이게 쿨하지 못하다는 건 잘 알아. 그러니까 네 마음대로 말해. 상관없으니까!
 
 [name="Lancet-2"]  ......
+[name="Lancet-2"]  …………
+[name="Lancet-2"]  ......
+[name="Lancet-2"]  ……
 
 [name="酸糖"]  唉，现在你怎么又不说话了。
+[name="アシッドドロップ"]  おい、今度はどうして何も言わなくなったんだ？
+[name="Aciddrop"]  C'mon, why aren't you saying anything?
+[name="애시드드롭"]  아, 지금은 왜 또 말 안 해?
 
 [name="酸糖"]  每次你说，不要这样，不要那样，就总让我想起一个人......也不知道那个老家伙现在过得咋样。
+[name="アシッドドロップ"]  あんたがいっつもボクに、あれはダメこれはダメって言うだろ？　そのせいで誰かさんの事を思い出すんだよ……あの老いぼれは今、何してるんだろうな——って。
+[name="Aciddrop"]  Every time you're like 'do not' this, 'do not' that, you make me think of someone... dunno how the hell that old geezer's doing now.
+[name="애시드드롭"]  매번 네가 이거 하지 마라, 저거 하지 마라 할 때마다 생각나는 사람이 있거든…… 그 늙은이, 잘 살고 있는지 모르겠네.
 
 [name="Lancet-2"]  博士，我听起来有很老吗？
+[name="Lancet-2"]  ドクター様、私の声は老けているように聴こえますか？
+[name="Lancet-2"]  Doctor, do I sound very old?
+[name="Lancet-2"]  박사님, 제 목소리가 너무 늙어 보이나요?
 
 [name="Lancet-2"]  我的实际年龄只有两岁，而从某些年轻干员的反馈来看，可露希尔为我选择的声音听起来也该处在一个和他们年龄接近的范围内？
+[name="Lancet-2"]  私の実年齢はまだたったの2歳です。若いオペレーターたちの反応からしても、クロージャお姉様がお選びくださった私の声は彼らの年齢と近いはずですが？
+[name="Lancet-2"]  I only have two years of factual age, and per certain young operators' feedback, Closure selected a voice for me that should sound proximal to their ages. Does it not?
+[name="Lancet-2"]  제 실제 나이는 두 살입니다만, 일부 젊은 오퍼레이터의 피드백을 보면, 클로저 언니께서 절 위해 선택한 목소리가 그들 나이와 비슷한 범위인가 보군요?
 
 [name="酸糖"]  哈哈，我不是说你老啦。
+[name="アシッドドロップ"]  ハハッ、あんたが老けてるって意味じゃないよ。
+[name="Aciddrop"]  Haha, I'm not saying you're old.
+[name="애시드드롭"]  하하, 네가 늙었다는 말이 아니야.
 
 [name="酸糖"]  是有时候说话的语气。
+[name="アシッドドロップ"]  時々そういう話し方になるってこと。
+[name="Aciddrop"]  It's just how you say things sometimes.
+[name="애시드드롭"]  가끔 말투가 그렇다고.
 
 [name="酸糖"]  那个老头子过去也喜欢念叨我，什么不要去危险的地方滑滑板啦，不要时间太晚还在街上晃来晃去，不要离某些地方太近......
+[name="アシッドドロップ"]  あの老いぼれもボクにグチグチ言ってばっかりでさ、危ない場所でスケボーするなとか、遅くまで街をほっつき歩くんじゃないとか、怪しいところに近づきすぎるなとか……
+[name="Aciddrop"]  The old man used to really like harping on at me. Man, don't go skating there, it's dangerous. Don't be running around the block too late. Don't get too close to this or that...
+[name="애시드드롭"]  그 녀석도 옛날에 나한테 잔소리하는 걸 좋아했거든. 위험한 곳에서 스케이트보드 타면 안 된다, 밤늦게 돌아다니면 안 된다, 어디에 가까이 가면 안 된다……
 
 [name="酸糖"]  ......听得耳朵都快掉毛了。
+[name="アシッドドロップ"]  ……あんまりうるさくて、耳の毛が抜けちゃうかと思ったよ。
+[name="Aciddrop"]  ...Made me feel like my ears were gonna start shedding.
+[name="애시드드롭"]  ……귀가 빠질 정도로 들었어.
 
 [name="Lancet-2"]  哦，我大概明白了。
+[name="Lancet-2"]  あっ、おおよそ理解しました。
+[name="Lancet-2"]  Ah, I more or less see the picture now.
+[name="Lancet-2"]  아, 대충 이해했어요.
 
 [name="Lancet-2"]  酸糖干员是觉得我总是在唠叨。
+[name="Lancet-2"]  アシッドドロップさんは、私がいつもグチグチと注意をするのが、うるさいと感じていらっしゃるのですね。
+[name="Lancet-2"]  Operator Aciddrop, you feel that I'm constantly nagging.
+[name="Lancet-2"]  오퍼레이터 애시드드롭은 늘 제가 잔소리한다고 생각하는군요.
 
 [name="Lancet-2"]  呜......这确实并不是一个很讨人喜欢的行为......可是当我看到酸糖干员在走廊里使用滑板的时候，总是会无法控制地分析起受伤的可能性。
+[name="Lancet-2"]  ううっ……たしかに、人に好かれる行為ではありませんね……しかしアシッドドロップさんが廊下でスケートボードをなさるのを見ると、どうしてもケガをする可能性を計算してしまうのです。
+[name="Lancet-2"]  Ohh... It really isn't a charming mannerism at all... but whenever I see you utilizing your skateboard in the corridors, I just can't help but analyze the possibility of injury.
+[name="Lancet-2"]  음…… 확실히 사람들이 좋아할 만한 행동은 아니죠…… 하지만 오퍼레이터 애시드드롭이 복도에서 스케이트보드 타는 걸 보면 늘 다칠 가능성을 분석하게 됩니다.
 
 [name="Lancet-2"]  还有在病情还未得到较好控制的阶段，过度运动也会有导致部分指标上升的风险......
+[name="Lancet-2"]  そのうえ、病状をまだちゃんとコントロールできていない段階での過度な運動は、一部の病状悪化の可能性を上昇させるが危険性があります……
+[name="Lancet-2"]  And within a period where your condition has not been better stabilized, excessive exercise can lead to the elevation of certain risk indicators...
+[name="Lancet-2"]  그리고 아직 병세 통제가 어려운 단계에서는 과도한 운동도 일부 지표가 상승할 위험이 있어요……
 
 [name="酸糖"]  我知道啊，我知道。都是为了我们好嘛。
+[name="アシッドドロップ"]  わかってる、わかってるよ。全部ボクたちのためを思ってやってることなんだろ？
+[name="Aciddrop"]  I dig, I dig. You're looking out for us, yeah.
+[name="애시드드롭"]  알아, 알고 있어. 다 우릴 위해서 그런 거잖아.
 
 [name="酸糖"]  说实话，这种感觉还挺奇妙的。现在想想，那时候我也会觉得烦，现在倒是听不到了。
+[name="アシッドドロップ"]  正直、そういうことをされると何だかとても変な感じがするんだ。あの頃はウザいって感じてた言葉を聞くことができなくなった今、あんたの言葉がそれを思い出させるんだよ……
+[name="Aciddrop"]  Honestly, it's kind of a weird feeling. Thinking about it now, like, back then it'd tick me off, and now I don't even get to hear it.
+[name="애시드드롭"]  솔직히 말하자면, 아주 묘한 느낌이야. 나도 그땐 귀찮다고 생각했는데, 지금은 들을 수가 없어.
 
 [name="Lancet-2"]  酸糖干员是在怀念过去吗？
+[name="Lancet-2"]  アシッドドロップさんは昔が懐かしいのですか？
+[name="Lancet-2"]  Operator Aciddrop, are you reminiscing about the past?
+[name="Lancet-2"]  오퍼레이터 애시드드롭은 과거를 그리워하는 건가요?
 
 [name="酸糖"]  怀念吗......也不好说是怀念吧，总是想着过去什么的未免太不酷了。
+[name="アシッドドロップ"]  懐かしいのかな……そうじゃないと思う。昔を懐かしんでるだなんて全然クールじゃないしな。
+[name="Aciddrop"]  Reminiscing, huh... Kinda tough to say I am, I guess. It ends up kinda lame, y'know, always thinking about the past and whatever.
+[name="애시드드롭"]  그리움? 그리움이라고는 말할 수 없지. 너무 과거만 생각하는 건 멋이 없거든.
 
 [name="酸糖"]  嗨，罗德岛是个不错的地方，还有你这样酷酷的机器人，哈哈。
+[name="アシッドドロップ"]  まぁでも、ロドスは良い場所だと思うよ。あんたみたいなクールなロボットもいるし、ハハッ。
+[name="Aciddrop"]  Hey. Rhodes Island's a pretty solid place. It's got radical robots like you, too. Haha.
+[name="애시드드롭"]  아, 로도스 아일랜드는 괜찮은 곳이야. 너처럼 멋진 로봇도 있고. 하하하.
 
 [name="酸糖"]  唉。
+[name="アシッドドロップ"]  はぁ。
+[name="Aciddrop"]  *Sigh*.
+[name="애시드드롭"]  아.
 
 [name="酸糖"]  ......对不起啦。
+[name="アシッドドロップ"]  ……悪かったよ。
+[name="Aciddrop"]  I'm sorry.
+[name="애시드드롭"]  ……미안.
 
 [name="Lancet-2"]  咦，酸糖干员对我道歉？
+[name="Lancet-2"]  えっ、なぜ私に謝るのですか？
+[name="Lancet-2"]  Um, are you apologizing to me, Operator Aciddrop?
+[name="Lancet-2"]  어, 오퍼레이터 애시드드롭이 저한테 사과하는 건가요?
 
 [name="酸糖"]  我会尽量不在某些区域玩滑板。这是你希望的吧？
+[name="アシッドドロップ"]  特定のエリアでは、スケボーに乗らないようにするよ……あんたはそうしてほしいんだろ？
+[name="Aciddrop"]  I'll try to stop skating in some places. That's what you want, right?
+[name="애시드드롭"]  스케이트보드 타지 말란 구역에서는 최대한 자제할게. 그게 네가 바라는 거지?
 
 [name="酸糖"]  昨天是我先随口抱怨了下，伊......唔，说有个很好玩的东西可以试试。
+[name="アシッドドロップ"]  昨日なんとなくグチってたらさ、イー……ゴホン！　誰かに面白いものがあるって噂を聞いたんだ。
+[name="Aciddrop"]  I was just kinda talking crap yesterday, and E... uh, said there was something real fun I could try playing with.
+[name="애시드드롭"]  어제는 내가 아무 생각 없이 불평만 했는데, 음…… 아, 재미있는 게 있다 그래서 한번 해본 거야.
 
 [name="酸糖"]  开始的时候完全没想过真的会生效，后来听到你用平时的语气让我晚点睡觉的时候，心里......有点别扭，非常别扭。
+[name="アシッドドロップ"]  初めは本当に効果があるなんて思わなかった。でもその夜あんたにいつもの口調で「夜更かしをしてください」って言われた時、急に心がモヤモヤしちゃってさ……マジですごくモヤモヤしたんだ。
+[name="Aciddrop"]  At first I didn't actually think it'd work, and then when I heard you telling me in your normal voice to go to bed too late, it felt... a little awkward, deep down. Super awkward.
+[name="애시드드롭"]  처음에는 진짜 효과가 있을 거라 생각 못 했는데, 나중에 네가 평소 말투로 나한테 늦게 자라고 했을 때, 속으로…… 뭔가 찜찜했어, 굉장히.
 
 [name="酸糖"]  挺奇怪的，自由是自由了......并没有觉得轻松。心里反而变得更乱了。
+[name="アシッドドロップ"]  変だよな？　自由になったはずなのに……全然落ち着けないんだ。むしろ何だかむしゃくしゃしてた。
+[name="Aciddrop"]  It was pretty wack. I mean, freedom is freedom... but I didn't feel any more relaxed. Actually just felt even more messed up.
+[name="애시드드롭"]  아주 이상하지. 자유는 자유인데…… 편한 느낌이 아니었어. 마음이 더 혼란스러웠어.
 
 [name="酸糖"]  总之，这事做得不对。
+[name="アシッドドロップ"]  とにかく、ボクは間違ったことをしたんだ。
+[name="Aciddrop"]  Basically, I was wrong to do this.
+[name="애시드드롭"]  어쨌든, 이번 일은 잘 못했어.
 
 [name="酸糖"]  现在被你们逮到了。说吧，怎么罚我？关禁闭吗？
+[name="アシッドドロップ"]  間違ったことをしたボクはあんたたちに捕まった……言えよ、どんな罰になるんだ？　部屋に閉じ込められるのか？
+[name="Aciddrop"]  And now you've busted me. What's my sentence? Do I get detention?
+[name="애시드드롭"]  그래서, 난 지금 너희한테 잡혔는데, 어떤 벌을 내릴 거야? 감금할 거야?
 
 [name="Lancet-2"]  啊，罗德岛并没有动不动关干员禁闭的习惯，何况这也不是什么大事吧？
+[name="Lancet-2"]  えっと、ロドスには安易にオペレーターを閉じ込めたりする習慣はありません。それにこれは別に大したことではありませんよ？
+[name="Lancet-2"]  Oh, Rhodes Island has no custom of arbitrary detention. Besides, this isn't that big of a problem, is it?
+[name="Lancet-2"]  아, 로도스 아일랜드는 오퍼레이터를 함부로 감금하는 일이 없어요. 그리고 이건 큰일도 아니잖아요?
 
 [name="Lancet-2"]  在酸糖干员的家乡，随手改造使用得并不顺手的机械，还挺常见的对不对？
+[name="Lancet-2"]  アシッドドロップさんの故郷では、使い勝手が悪い機械をすぐ改造するのはよくあること……そうですよね？
+[name="Lancet-2"]  Operator Aciddrop, in your hometown, convenient modification of otherwise inconvenient machines was quite a common sight, wasn't it?
+[name="Lancet-2"]  오퍼레이터 애시드드롭의 고향에서는 불편한 기계를 마음대로 개조해서 사용하는 게 아주 흔한 일이잖아요?
 
 [name="Lancet-2"]  我从档案里看到过哦，酸糖干员对自己的手弩和滑板都有过一定程度的改造呢。
+[name="Lancet-2"]  資料の中で拝見しました。アシッドドロップさんはご自身のハンドボウガンとスケートボードに、ある程度の改造を施してらっしゃるようですし——
+[name="Lancet-2"]  I've seen it in your files. Both your hand crossbow and your skateboard have been through a certain degree of modification.
+[name="Lancet-2"]  파일에서 봤어요. 오퍼레이터 애시드드롭은 자신의 활과 스케이트보드도 어느 정도 개조한 적이 있다고요.
 
 [name="酸糖"]  不，这不对。
+[name="アシッドドロップ"]  いや、それは違う。
+[name="Aciddrop"]  No, that's twisted.
+[name="애시드드롭"]  아니, 아니야.
 
 [name="酸糖"]  你不是那种机械。
+[name="アシッドドロップ"]  あんたはそういう機械とは違うんだ。
+[name="Aciddrop"]  You're not that kinda machine.
+[name="애시드드롭"]  넌 그런 기계가 아니야.
 
 [name="Lancet-2"]  咦？
+[name="Lancet-2"]  え？　それはどういう意味ですか？
+[name="Lancet-2"]  Hm?
+[name="Lancet-2"]  네?
 
 [Decision(options="是说Lancet-2不止是普通机械吧。;大概是把Lancet-2看作朋友了？", values="1;2")]
+[Decision(options="Lancet-2はただの機械じゃないって言ってるんだと思う。;Lancet-2を友達として見てるんじゃないか？", values="1;2")]
+[Decision(options="As in, you're more than an ordinary machine.;I'm guessing she sees Lancet-2 as a friend?", values="1;2")]
+[Decision(options="Lancet-2는 평범한 기계가 아니라는 말이야.;다들 Lancet-2를 친구로 여기잖아.", values="1;2")]
 
 [name="Lancet-2"]  那就更没什么大不了的了，我想，这只是一个小小的玩笑。
+[name="Lancet-2"]  ならなおさら今回の件は大したことではありません。私が思うに、これはただの冗談ですから。
+[name="Lancet-2"]  Then that's all the less to worry about. As I view it, it's only a tiny, harmless prank.
+[name="Lancet-2"]  그럼 더더욱 별일 아니네요. 그냥 소소한 농담이라고 생각해요.
 
 [name="酸糖"]  ......算玩笑嘛？
+[name="アシッドドロップ"]  ……冗談で済むの？
+[name="Aciddrop"]  Does it count as a prank?
+[name="애시드드롭"]  ……농담이라고 생각하는 거야?
 
 [name="Lancet-2"]  朋友与朋友之间，一次有默契的恶作剧。这是我依据玩笑的定义做出的判断。当然，机器人并不能真正理解什么好笑。
+[name="Lancet-2"]  今回の件は友人間の悪ふざけですね。これは、私に搭載されている会話モジュール内の、冗談の定義に基づいて出された判断です。もちろん、ロボットの私は冗談に対する主観的な感想は持ちません。
+[name="Lancet-2"]  A practical joke between friends conducted with mutual understanding. In my judgment, this meets the definition of a prank. Of course, robots cannot actually understand any sort of comedy.
+[name="Lancet-2"]  친구 사이에는 말하지 않아도 통하는 장난이 있어요. 제가 농담의 정의로 내린 판단입니다. 물론 로봇이 농담을 완전히 이해할 수는 없지만요.
 
 [name="Lancet-2"]  博士你觉得呢？
+[name="Lancet-2"]  ドクター様はどう思われますか？
+[name="Lancet-2"]  Doctor, what do you think?
+[name="Lancet-2"]  박사님은 어떻게 생각하세요?
 
 [Decision(options="哈哈。", values="1")]
+[Decision(options="ハハッ。", values="1")]
+[Decision(options="Haha.", values="1")]
+[Decision(options="하하.", values="1")]
 
 [name="Lancet-2"]  你看，博士都笑了，这就说明确实是个玩笑吧？
+[name="Lancet-2"]  ご覧ください、ドクター様も笑っています。つまりこれは冗談ということですよね？
+[name="Lancet-2"]  As you see, even the Doctor laughed. This proves that it truly is a prank, correct?
+[name="Lancet-2"]  보세요, 박사님도 웃었잖아요. 그러니까 농담 맞죠?
 
 [name="Lancet-2"]  既然是玩笑，我想凯尔希医生和阿米娅都不需要知道这件事。我现在已经恢复了正常，工程部也不会为这点小事留下存档。
+[name="Lancet-2"]  冗談なのですから、ケルシー先生やアーミヤさんが今回の件を知る必要はありません。私はすでに正常に機能回復しておりますので、エンジニア部もこのような些事を記録に残さなくていいでしょう。
+[name="Lancet-2"]  As it is a prank, I believe Dr. Kal'tsit and Amiya won't need to know about this. As of now, I have already resumed normal operation, and the Engineering Department will not save any files or data on an issue as minor as this.
+[name="Lancet-2"]  농담이니까 켈시 선생님과 아미야 씨까지 이 일을 알 필요는 없다고 생각해요. 지금은 정상 복구됐고, 엔지니어링부도 이런 사소한 일을 파일로 남겨두진 않을 겁니다.
 
 [name="酸糖"]  嗯，谢谢。
+[name="アシッドドロップ"]  うん……サンキュ。
+[name="Aciddrop"]  Huh. Thanks.
+[name="애시드드롭"]  응. 고마워.
 
 [name="酸糖"]  你确实是个——非常酷的——朋友。
+[name="アシッドドロップ"]  あんたは確かに――すっげークールな――友達だ。
+[name="Aciddrop"]  You really are a—super-rad—friend.
+[name="애시드드롭"]  넌 정말 아주 멋진 친구야.
 
 [name="酸糖"]  那，再会啦。
+[name="アシッドドロップ"]  じゃあまたな。
+[name="Aciddrop"]  'Kay. See ya 'round.
+[name="애시드드롭"]  그럼, 또 보자.
 
 [name="Lancet-2"]  唉，请不要在走廊使用滑板啊——
+[name="Lancet-2"]  あっ、廊下ではスケートボードを使用しないでください――
+[name="Lancet-2"]  Er, please don't utilize your skateboard in the corridors—
+[name="Lancet-2"]  앗, 복도에서 스케이트보드 타시면 안 돼요……
 
 [name="Lancet-2"]  博士，我有一个问题。
+[name="Lancet-2"]  ……ドクター様、一つお伺いしたいことがあります。
+[name="Lancet-2"]  Doctor, I have a question.
+[name="Lancet-2"]  박사님, 질문 있어요.
 
 [name="Lancet-2"]  你也嫌我唠叨吗？
+[name="Lancet-2"]  ドクター様も私がグチグチうるさいと思われますか？
+[name="Lancet-2"]  Do you also believe me to be a nag?
+[name="Lancet-2"]  박사님도 제 잔소리가 싫으신가요?
 
 [Decision(options="没有，你说的都是对的。;是有那么一点。", values="1;2")]
+[Decision(options="そんなことはない、Lancet-2の言うことは正しい。;少しだけ。", values="1;2")]
+[Decision(options="Not at all. You're right to say what you do.;Just the tiniest little bit.", values="1;2")]
+[Decision(options="아니, 다 맞는 말인걸.;조금 그렇긴 해.", values="1;2")]
 
 [name="Lancet-2"]  当你特别想喝咖啡的时候，我总是劝阻你不要继续喝咖啡，这确实听多了会烦吧？
+[name="Lancet-2"]  ドクター様がコーヒーをお飲みになられる時、私はいつも「あまり飲まないでください」と注意します。しかし何度も言われているとウザいと感じますよね？
+[name="Lancet-2"]  Whenever you particularly want to drink coffee, I always advise against your continued consumption of it. Hearing it constantly does tend to be a bother, doesn't it?
+[name="Lancet-2"]  박사님이 진짜 커피를 드시고 싶을 때, 제가 계속 마시지 말라고 하면, 귀찮겠죠?
 
 [name="Lancet-2"]  比起总是听“不要”，你肯定也希望自己想喝咖啡的时候，身边的机器人主动为你端上咖啡——这才是听话的机器啊。
+[name="Lancet-2"]  口うるさく注意する機械よりも、コーヒーが飲みたくなった時に、気を利かせて運んできてくれるロボットの方がいいとは思われるのではないですか？　従順なロボットとはそういうものです。
+[name="Lancet-2"]  Compared to one that always says 'do not,' I'm sure you'd much prefer a robot at your side that automatically serves you coffee when you want it—that would be far more obedient of a machine.
+[name="Lancet-2"]  항상 안 된다는 말을 듣는 것보단, 커피 마시고 싶을 때는 옆에 있는 로봇이 알아서 커피를 갖다 주는 걸 더 바라겠죠. 그래야 말을 잘 듣는 기계잖아요.
 
 [name="Lancet-2"]  那么，我是不是应该去找可露希尔降低下说“不要”的频率呢？
+[name="Lancet-2"]  ならば私は、否定や禁止の使用頻度を下げてもらうようクロージャお姉様にお願いすべきでしょうか？
+[name="Lancet-2"]  In that case, I ought to seek out Closure to decrease the frequency at which I say 'do not,' shouldn't I?
+[name="Lancet-2"]  그럼 클로저 언니에게 가서 “안 돼요” 라고 말하는 빈도를 낮춰달라고 할까요?
 
 [name="Lancet-2"]  ......但这和我被设计出来的目的是相悖的啊。
+[name="Lancet-2"]  ……しかしそれは私が作り出された目的と相反しています。
+[name="Lancet-2"]  But that would be mutually incompatible with my intended purpose.
+[name="Lancet-2"]  …… 하지만 그건 제가 기획된 의도에 어긋나는 거예요.
 
 [name="Lancet-2"]  我是一个医疗机器人，我存在的意义就是尽一切努力让罗德岛的大家都健健康康。
+[name="Lancet-2"]  私は医療ロボットです。私の存在意義はロドスの皆様が健康であるよう精いっぱい尽くすことです。
+[name="Lancet-2"]  I am a medical robot. My purpose lies in ensuring the robust health of everyone at Rhodes Island.
+[name="Lancet-2"]  저는 메딕 로봇이에요. 제 존재의 의미는 로도스 아일랜드의 사람들이 모두 건강하도록 최선을 다하는 거예요.
 
 [name="Lancet-2"]  确实我说出来的话，你们并不总能听得进去。包括可露希尔也是，和博士你一样，总是超时工作，不健康饮食。
+[name="Lancet-2"]  たしかに、私の言葉を皆様がいつも聞いてくれるとは限りません。クロージャお姉様にしても、ドクター様と同様にいつも時間外労働を重ねて、不摂生な食事をしています。
+[name="Lancet-2"]  And what I speak, you don't always listen to. It goes for Closure, too. She's just like you, Doctor. Constant overtime work, and an unhealthy diet.
+[name="Lancet-2"]  확실히 제가 하는 말을 여러분이 항상 듣지는 않아요. 클로저 언니나 박사님도 마찬가지예요. 항상 초과 근무를 하고 건강하지 않은 식사를 하죠.
 
 [name="Lancet-2"]  如果不希望我总在唠叨的话，为什么还要设计这部分功能呢？
+[name="Lancet-2"]  もしうるさく言われるのが嫌であるならば、どうしてこんな機能を付けたのでしょう？
+[name="Lancet-2"]  If my nagging was undesirable, I wouldn't have been designed with this function, would I?
+[name="Lancet-2"]  제가 잔소리하는 게 싫으면, 왜 이런 기능을 설계했을까요?
 
 [name="Lancet-2"]  呜呜......我不明白......这里面有逻辑矛盾。
+[name="Lancet-2"]  ううっ……わかりません……論理が矛盾しています。
+[name="Lancet-2"]  Ohhh... I don't understand... There's a contradiction in logic here.
+[name="Lancet-2"]  흑흑…… 모르겠어요…… 논리적으로 모순되네요.
 
 [Decision(options="不矛盾。;......;因为这就是Lancet-2啊。", values="1;2;3")]
+[Decision(options="矛盾してない。;…………;それがLancet-2だからだよ。", values="1;2;3")]
+[Decision(options="It's not a contradiction.;......;It's because that's who you are, Lancet-2.", values="1;2;3")]
+[Decision(options="모순이 아니야.;……;이게 바로 Lancet-2니까.", values="1;2;3")]
 
 [name="Lancet-2"]  不矛盾吗？这就是我吗？唠叨的我？
+[name="Lancet-2"]  矛盾していない？　これが私？　うるさいのが私？
+[name="Lancet-2"]  Is it not contradictory? This is just me? My nagging self?
+[name="Lancet-2"]  모순이 아니라고요? 이게 저라고요? 잔소리하는 제가요?
 
 [name="Lancet-2"]  如果你们不喜欢的话，随时都可以改掉我的这些行为习惯。
+[name="Lancet-2"]  もし皆様のお気に召さないようなら、いつでも私のこのプログラムを書き換えてください。
+[name="Lancet-2"]  If any of you don't like it, you can always change these behavioral habits of mine.
+[name="Lancet-2"]  만약 여러분이 좋아하지 않는다면 언제든지 제 이런 행동 습관을 고칠 수 있답니다.
 
 [Decision(options="我不想改。;可露希尔不想改。;酸糖都不想改。", values="1;2;3")]
+[Decision(options="私は変えたくない。;クロージャは変えたくないと思う。;アシッドドロップだって変えたくはないと思う。", values="1;2;3")]
+[Decision(options="I don't want you to change.;Closure doesn't want you to change.;Not even Aciddrop wants you to change.", values="1;2;3")]
+[Decision(options="난 고치고 싶지 않아.;클로저는 고치고 싶어 하지 않을 거야.;애시드드롭은 고치고 싶어 하지 않을 거야.", values="1;2;3")]
 
 [name="Lancet-2"]  好吧，或许我并没有很好地理解博士你的意思。不过你应该是在安慰我，谢谢啦。
+[name="Lancet-2"]  そうですか。もしかしたら私はドクター様の意図をよく理解できていないかもしれません……でもきっと、私を慰めてくださっているのですよね？　ありがとうございます。
+[name="Lancet-2"]  Alright. Maybe I don't understand your meaning at all, Doctor. But it's likely you're comforting me, so thank you.
+[name="Lancet-2"]  알겠어요. 박사님의 뜻을 완전히 이해하지 못했을 수도 있어요. 하지만 저를 위로하고 있는 것 같네요, 고마워요.
 
 [name="Lancet-2"]  嗨，博士，又见面了。
+[name="Lancet-2"]  あっ、ドクター様、またお会いしましたね。
+[name="Lancet-2"]  Hi, Doctor. Nice to see you again.
+[name="Lancet-2"]  아, 박사님, 또 만났네요.
 
 [Decision(options="早上好，Lancet-2。", values="1")]
+[Decision(options="おはよう、Lancet-2。", values="1")]
+[Decision(options="Good morning, Lancet-2.", values="1")]
+[Decision(options="좋은 아침이야, Lancet-2.", values="1")]
 
 [name="Lancet-2"]  早上好。
+[name="Lancet-2"]  おはようございます。
+[name="Lancet-2"]  Good morning.
+[name="Lancet-2"]  좋은 아침이에요.
 
 [name="Lancet-2"]  看来你昨天晚上按时休息了，这真是可喜可贺。
+[name="Lancet-2"]  どうやら昨晩は早めにお休みになったようですね、これは喜ばしいことです。
+[name="Lancet-2"]  I see you rested at the appropriate time last night, and that is truly wonderful.
+[name="Lancet-2"]  어젯밤에는 제때 쉬셨나 봐요. 정말 기쁜 일이네요.
 
 [name="Lancet-2"]  博士也是来看酸糖干员训练的吗？这是她第一次参加晨训。哦，一块受训的还有伊桑干员和红豆干员。
+[name="Lancet-2"]  ドクター様もアシッドドロップさんの訓練を見学にいらっしゃったのですか？　彼女にとって初めての早朝訓練ですよ。あ、一緒に訓練なさってるのは、イーサンさんとヴィグナさんです。
+[name="Lancet-2"]  Doctor, are you here to observe Operator Aciddrop's training too? This is the first time she's taken part in morning drills. Oh, and Operators Ethan and Vigna are also training alongside her.
+[name="Lancet-2"]  박사님도 오퍼레이터 애시드드롭의 훈련을 보러 오셨나요? 그녀가 처음으로 참여하는 아침 훈련이에요. 오퍼레이터 에단과 비그나도 같이 훈련을 받고요.
 
 [name="Lancet-2"]  不知道为什么，我感觉今天的教官们格外严厉。我的消毒水消耗速度都变快了好多。
+[name="Lancet-2"]  なぜかはわかりませんが、今日の教官たちは特に厳しいようです。私の消毒液の消耗速度がいつもよりかなり早いです。
+[name="Lancet-2"]  Not that I know why, but I feel today's instructors are especially strict. The rate at which I consume disinfectant fluid has risen dramatically.
+[name="Lancet-2"]  이유는 모르겠지만, 오늘따라 교관님들이 더 엄격한 것 같네요. 제 소독액 소모 속도가 훨씬 빨라졌어요.
 
 [name="伊桑"]  呼......呼......
+[name="イーサン"]  フゥ……フゥ……
+[name="Ethan"]  Huff... pff...
+[name="에단"]  후우…… 후우……
 
 [name="伊桑"]  是魔鬼吗！居然看得到我在这里！
+[name="イーサン"]  化け物め！　俺がいるとこがわかるってのかよ！
+[name="Ethan"]  You all monsters or something?! How the hell do you see me here?!
+[name="에단"]  말도 안 돼! 내가 여기 있는지 어떻게 안 거야!
 
 [name="酸糖"]  这就是罗德岛的训练强度吗......
+[name="アシッドドロップ"]  これがロドスの訓練か……すごいな。
+[name="Aciddrop"]  Rhodes Island training is this tough, huh...
+[name="애시드드롭"]  이게 바로 로도스 아일랜드의 훈련 강도인가……
 
 [name="红豆"]  连我也......
+[name="ヴィグナ"]  何であたしまでこんなシゴキを……？
+[name="Vigna"]  Even I'm...
+[name="비그나"]  왜 나까지……
 
 [name="红豆"]  我说，是不是你俩干了什么坏事被发现了啊！
+[name="ヴィグナ"]  あなたたち二人、何か悪い事して見つかったんでしょ！？　とんだとばっちりだわ！
+[name="Vigna"]  I'm serious, did either of you do something wild and get caught?!
+[name="비그나"]  너희 둘, 무슨 나쁜 짓 하다 걸린 거지?
 
 [name="Lancet-2"]  真有活力啊。
+[name="Lancet-2"]  皆様、本当に活力に満ちていますね。
+[name="Lancet-2"]  So full of energy.
+[name="Lancet-2"]  정말 활기차네요.
 
 [name="Lancet-2"]  看来平时的过度活跃对他们来说也是好事......或许我真的可以降低说“不要”的频率了。
+[name="Lancet-2"]  どうやら、普段から激しく動き回ることも、彼らにとっては悪い事ではないようです……ひょっとすると、本当に否定や禁止の使用頻度を下げてもいいのかもしれません。
+[name="Lancet-2"]  It seems as if their excess activity actually works to their benefit... Perhaps I really am able to lower my frequency of 'do not' now.
+[name="Lancet-2"]  평소의 과도한 활약도 그들에게는 좋은 일 같아요…… 어쩌면 정말, “안 돼요”라고 말하는 빈도를 낮출 수 있을 것 같습니다.
 
 [name="玫兰莎"]  Lancet-2，你背后有东西。
+[name="メランサ"]  Lancet-2、背中に何か付いてますよ？
+[name="Melantha"]  Lancet-2, something's on your back.
+[name="멜란사"]  Lancet-2, 당신 뒤에 뭔가 있어요.
 
 [name="Lancet-2"]  咦......咦？！
+[name="Lancet-2"]  え……え！？
+[name="Lancet-2"]  Um... um?!
+[name="Lancet-2"]  어……엇?!
 
 [name="玫兰莎"]  绿绿的，很漂亮的颜色。唔，好像是个涂鸦呢。
+[name="メランサ"]  きれいな緑色の……うーん、これは落書きみたいですね。
+[name="Melantha"]  It's bright green, a very pretty color. Um, I think it's graffiti.
+[name="멜란사"]  아주 예쁜 녹색이네요. 음, 낙서 같아요.
 
 [name="Lancet-2"]  是涂鸦啊......幸亏不是什么别的东西。真担心我又出什么问题。
+[name="Lancet-2"]  落書きでしたか……外装の問題でよかったです。また何かエラーが生じたのではないかと一瞬焦ってしまいました。
+[name="Lancet-2"]  Graffiti, is it...? How fortunate it's not anything else. I do worry about having issues crop up again.
+[name="Lancet-2"]  낙서였군요…… 별거 아니어서 다행이네요. 또 무슨 문제가 생긴 줄 알고 걱정했어요.
 
 [name="Lancet-2"]  说起来这是什么意思......扫描看看吧。
+[name="Lancet-2"]  ところで、この落書きはどういう意味でしょうか……スキャンしてみましょう。
+[name="Lancet-2"]  Come to mention it, I wonder what this means... let's scan and see.
+[name="Lancet-2"]  이게 무슨 뜻인지…… 스캔해 봐야겠습니다.
 
 [name="Lancet-2"]  嗯？是哥伦比亚俚语？语言库里并没有完全能对得上的字样。
+[name="Lancet-2"]  うん？　クルビアのスラングか何かでしょうか？　言語データベースには完全に一致する項目がありません。
+[name="Lancet-2"]  Hm? It's Columbian slang? My language library has no phrases that match it.
+[name="Lancet-2"]  응? 컬럼비아 비속어인가요? 언어 베이스에 완벽하게 맞는 글자가 없어요.
 
 [Decision(options="是赞美的话吧。;......;是个朋友之间的玩笑吧。", values="1;2;3")]
+[Decision(options="褒め言葉じゃないか？;…………;また友達の冗談だろう。", values="1;2;3")]
+[Decision(options="You might call them words of praise.;......;A prank between friends, you could say.", values="1;2;3")]
+[Decision(options="칭찬이겠지.;……;친구 사이의 농담이겠지.", values="1;2;3")]
 
 [name="Lancet-2"]  真的是好话吗？我不太确定......
+[name="Lancet-2"]  良い言葉なのでしょうか？　私にはわかりませんが……
+[name="Lancet-2"]  Are they really kind words? I'm not too certain...
+[name="Lancet-2"]  정말 좋은 말인가요? 전 잘 모르겠어요……
 
 [name="Lancet-2"]  不管怎么说，挺漂亮的吧？玫兰莎小姐都这么说。
+[name="Lancet-2"]  何はともあれ、きれいなんですよね？　メランサさんがそう仰っていましたし。
+[name="Lancet-2"]  But in any case, they're quite pretty, aren't they? And Miss Melantha said so too.
+[name="Lancet-2"]  어쨌든 정말 예쁘죠? 멜란사도 그렇게 말했어요.
 
 [name="Lancet-2"]  那我就暂时收下啦。
+[name="Lancet-2"]  それではひとまず、そのままにしておくとしましょう。
+[name="Lancet-2"]  So, for the time being, I'll accept them.
+[name="Lancet-2"]  그럼 당분간은 놔둬야겠네요.
 

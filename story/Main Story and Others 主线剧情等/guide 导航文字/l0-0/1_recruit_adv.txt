@@ -1,12 +1,30 @@
 [PopupDialog(dialogHead="$avatar_sys")] 未被损坏的记忆部分可能比想象的少。
+[PopupDialog(dialogHead="$avatar_sys")] それにしても、失われた記憶は想像よりも多いようですね。
+[PopupDialog(dialogHead="$avatar_sys")] It seems that a greater portion of your memory was damaged than expected.
+[PopupDialog(dialogHead="$avatar_sys")] 기억 상실의 영향이 예상보다 큰 것 같습니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 不过你已经懂得了基本的生存技巧，没有白费阿米娅对你的一片期待，以及她为了救你而准备的这些干员。
+[PopupDialog(dialogHead="$avatar_sys")] ですが、基本的な生存方法はもう理解できたかと思います。アーミヤ様のあなたへの期待も、そのために努力したオペレーターたちも報われるというものです。
+[PopupDialog(dialogHead="$avatar_sys")] However, the fact that you’ve retained your basic survival instincts means that you won’t be a waste of the effort that Amiya and the other Operators put in to save you.
+[PopupDialog(dialogHead="$avatar_sys")] 하지만 이곳에서의 기본적인 행동 양식은 전부 파악하신 것 같습니다. 박사님을 구출하기 위해 노력한 아미야 님과 다른 오퍼레이터들도 기뻐하겠군요.
 
 [PopupDialog(dialogHead="$avatar_amiya")] 无论如何，整合运动造成的影响和破坏都超过了预期。博士，我们需要坚持下去。
+[PopupDialog(dialogHead="$avatar_amiya")] レユニオンの破壊活動とそれによる私たちへの影響はどちらも想像以上のものです。ドクター、ここからが大変ですよ。
+[PopupDialog(dialogHead="$avatar_amiya")] In any case, the scale and impact of the destruction caused by Reunion has also surpassed our expectations. We will need to press onward, Doctor.
+[PopupDialog(dialogHead="$avatar_amiya")] 무엇보다 리유니온이 벌이는 파괴 활동이나, 그들이 우리에게 미치는 영향력은… 저희의 상상을 훨씬 뛰어넘고 있어요. 박사님, 이제부터 잘 헤쳐나가셔야 해요.
 
 [PopupDialog(dialogHead="$avatar_sys")] 如果想要生存下去的话，需要扩充下罗德岛的成员配置。
+[PopupDialog(dialogHead="$avatar_sys")] 生き延びるためには、ロドスの規模も拡大していく必要があります。
+[PopupDialog(dialogHead="$avatar_sys")] If you want to survive, you must first increase Rhodes Island’s roster.
+[PopupDialog(dialogHead="$avatar_sys")] 살아남기 위해서는 로도스 아일랜드의 규모를 확대해 나가야만 합니다.
 
 [PopupDialog(dialogHead="$avatar_amiya")] 博士，堆积着的档案已经很多了，当中一定有能够成为我们新的伙伴的人，从中招募些有可能加入我们的人吧。
+[PopupDialog(dialogHead="$avatar_amiya")] ドクター、オペレーター候補生の資料がたくさん届いています。この中に新しい仲間として迎えられる方もきっといるはずです。見てみましょう。
+[PopupDialog(dialogHead="$avatar_amiya")] There are quite a few files here, and I'm certain some of those are capable of becoming our new partners. Go through the files and select someone you’d like to recruit.
+[PopupDialog(dialogHead="$avatar_amiya")] 박사님, 오퍼레이터 후보의 프로필이 꽤 많이 도착했어요. 이 중에서 새로운 동료로 포섭할 수 있는 분도 분명 있을 거예요. 함께 찾아보도록 하죠.
 
 [PopupDialog(dialogHead="$avatar_sys")] 在这里你可以使用<@tu.kw>合成玉</>进行<@tu.kw>干员寻访</>。
+[PopupDialog(dialogHead="$avatar_sys")] こちらでは<@tu.kw>合成玉</>（オランダム）を使用することでオペレーターの<@tu.kw>スカウト</>を行えます。
+[PopupDialog(dialogHead="$avatar_sys")] You can perform <@tu.kw>Headhunting</> with <@tu.kw>Orundums</>.
+[PopupDialog(dialogHead="$avatar_sys")] 여기에선 <@tu.kw>합성옥</>을 사용하여 오퍼레이터 <@tu.kw>헤드헌팅</>을 진행하실 수 있습니다.
 

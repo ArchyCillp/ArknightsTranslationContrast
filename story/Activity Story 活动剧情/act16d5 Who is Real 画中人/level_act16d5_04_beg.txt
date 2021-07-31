@@ -1,258 +1,645 @@
 [name="村民"]还有人没离开这儿吗！赶紧去先生那儿躲着！
+[name="町民"]残っているやつはいないか？　早く先生のところまで逃げるんだ！
+[name="Villager"]Is there anyone still left here? Hurry over to the storyteller's and hide!
+[name="마을 사람"]남은 사람 있어?! 어서 선생님 계신 곳으로 가서 숨어!
 
 [name="村民"]往东边走，快！
+[name="町民"]東へ向かえ、急げ！
+[name="Villager"]To the east, hurry!
+[name="마을 사람"]동쪽으로, 어서!
 
 [name="炎熔"]......自从留意到天色之后就意识到，这里真的是越往西边走越靠近黑夜呢......
+[name="ラヴァ"]……空に意識を向けるようになって改めて実感したんだが、ここでは本当に西へ行くほど夜に近づいていくんだな……
+[name="Lava"]Ever since we noticed the sky, I've been conscious of how the further west you go, the more nighttime it actually gets...
+[name="라바"]……하늘색을 유심히 보다 알게 됐어, 여긴 정말 서쪽으로 갈수록 밤에 가까워진단 걸 말이야……
 
 [name="乌有"]这么说的话，我们现在是“从正午走向黄昏”？还挺有诗意诶。
+[name="ウユウ"]つまり、私たちは今「正午から黄昏へ向かっている」のですね？　なんとも風情があるなぁ。
+[name="Mr.Nothing"]If so, are we currently heading 'from the noon to the twilight?' Quite a poetic ring, actually.
+[name="우요우"]그렇다면, 우린 지금 '정오에서 황혼을 향해 가는 중'인가요? 꽤 시적이네요.
 
 [name="炎熔"]......还是不对，这“白天到黑夜”的距离也太短了，我们才走了几步路？
+[name="ラヴァ"]……だがやっぱりおかしい。「昼」から「夜」までの距離が短すぎるぞ。まだほとんど進んでないだろ？
+[name="Lava"]It's not right. The distance 'from daytime to nighttime' is just too short. We've only gone how far?
+[name="라바"]아니야…… 이 '낮부터 밤까지'의 거리가 너무 짧아. 우리 이제 고작 몇 걸음 걸었지?
 
 [name="嵯峨"]画卷长短时有变化，各处景象光怪陆离，画中人为自己的天地寻了一份规矩，但说到底，也是假的。这也是在所难免的事情嘛。
+[name="サガ"]絵巻の長さは一定ではないし、景色も奇怪なものばかりである。絵の中の住人がその中で規則性を見出したとしても、突き詰めれば虚構のものに過ぎぬゆえ、考えてもどうしようもないでござるよ。
+[name="Saga"]The length of the painting's scroll does vary, and its every sight is a strange, wonderful turn. The people in the picture have all set customs for their world, but in the end, it is still artificial. That much is unavoidable.
+[name="사가"]그림의 길이는 때때로 바뀌고, 곳곳의 경치는 괴상해진다오. 그림 속 사람은 자신의 세상에서 규칙을 하나 찾았으나, 결국 거짓이었소. 이것 역시 어쩔 수 없는 일이라오.
 
 [name="炎熔"]所以我说——等等，什么？
+[name="ラヴァ"]いや、でも――おい待て、今何て言った？
+[name="Lava"]And I'm saying—wait, what?
+[name="라바"]그래서 내 말이…… 잠깐, 뭐라고?
 
 [name="嵯峨"]呃？
+[name="サガ"]へっ？
+[name="Saga"]What?
+[name="사가"]네?
 
 [name="炎熔"]你刚才说——
+[name="ラヴァ"]今、絵がどうとかって――
+[name="Lava"]What did you just s—
+[name="라바"]방금 뭐라……
 
 [name="？？？"]唔啊啊啊——！
+[name="？？？"]うわあああ――！
+[name="???"]Gyaaaaghh—!
+[name="???"]으아아악……!
 
 [name="炎熔"]——！还有人没离开这儿吗！？
+[name="ラヴァ"]――！？　逃げ遅れた町民がいたのか！
+[name="Lava"]—! Someone's still here?!
+[name="라바"]……! 아직 여길 못 빠져나간 사람이 있었어?!
 
 [name="嵯峨"]在这里！
+[name="サガ"]ここだ！
+[name="Saga"]This way!
+[name="사가"]이쪽이오!
 
 [name="村民"]救、救命！
+[name="町民"]た、助けて！
+[name="Villager"]S—Save me!
+[name="마을 사람"]살, 살려줘!
 
 [name="嵯峨"]莫怕，小僧来也！
+[name="サガ"]お任せあれ、拙僧が相手つかまつる！
+[name="Saga"]Fear not, I am here!
+[name="사가"]걱정 마오. 소승이 가겠소!
 
 [name="墨魉"]嘎——
+[name="墨魎"]グオォ――！
+[name="Ink Spirit"]Gkhaa—
+[name="묵량"]크어어……
 
 [name="嵯峨"]唔，果不其然，被斩之后便化作墨渍，怪哉怪哉。
+[name="サガ"]む……いつもながら、斬られた後で墨になるとは、奇怪千万。
+[name="Saga"]Ho, just as expected. Once cut down, it becomes an ink stain. Most strange, most strange.
+[name="사가"]흠, 역시, 칼로 베면 먹물 흔적이 된단 말이지. 참 괴상하오.
 
 [name="乌有"]大师，好身手哇！
+[name="ウユウ"]お坊様、なんとも素晴らしいお手並みで！
+[name="Mr.Nothing"]Master, I commend your talent!
+[name="우요우"]스님, 대단한데!
 
 [name="嵯峨"]莫要掉以轻心，姑娘，你赶紧往东边去！
+[name="サガ"]ご油断召さるな、お嬢さん。早く東へ逃げるのだ！
+[name="Saga"]Lower not your guard, good girl, and make haste for the east!
+[name="사가"]방심해서는 아니 되오. 낭자, 어서 동쪽으로 가시오!
 
 [name="村民"]好，好！你们也要小心啊！
+[name="町民"]は、はい！　あなた方もお気を付けて！
+[name="Villager"]Got it! You all be careful too!
+[name="마을 사람"]아, 네! 여러분도 조심하세요!
 
 [name="炎熔"]......似乎还有不少来不及逃走的村民。
+[name="ラヴァ"]……どうやらかなりの数の町民が逃げ遅れてるようだな。
+[name="Lava"]It looks like quite a few villagers didn't run in time.
+[name="라바"]……아직 도주하지 못한 마을 사람들이 꽤 있는 것 같아.
 
 [name="嵯峨"]可能是太过突然，反应不及——
+[name="サガ"]おそらくあまりにも急な襲撃であったがゆえ、間に合わなかったのであろう――
+[name="Saga"]It was likely too sudden, no chance to—
+[name="사가"]너무 갑작스러워서 대응이 늦었을 수도 있소……
 
 [name="小女孩"]爸爸？妈妈？
+[name="女の子"]お父さん？　お母さん？
+[name="Little Girl"]Papa? Mama?
+[name="여자아이"]아빠? 엄마?
 
 [name="乌有"]那、那边有个孩子！
+[name="ウユウ"]あ、あそこに子供が！
+[name="Mr.Nothing"]Th—There's a child there!
+[name="우요우"]저, 저쪽에 아이가!
 
 [name="嵯峨"]不好——快趴下！
+[name="サガ"]まずい――早くこちらへ！
+[name="Saga"]Oh no—get down, now!
+[name="사가"]이런…… 어서 엎드리시오!
 
 [name="乌有"]来不及了！
+[name="ウユウ"]間に合わない！
+[name="Mr.Nothing"]She won't make it!
+[name="우요우"]너무 늦었어!
 
 [name="小女孩"]呜呜......呜啊啊......
+[name="女の子"]うぅ……うわあぁん……！
+[name="Little Girl"]Uwaahhh... waaaaaahh...
+[name="여자아이"]엉엉…… 으아앙……
 
 [name="小女孩"]啊！
+[name="女の子"]あっ！？
+[name="Little Girl"]Ahh!
+[name="여자아이"]아!
 
 [name="乌有"]唔哦，千钧一发！
+[name="ウユウ"]うおっと、危機一髪！
+[name="Mr.Nothing"]Whoa, there, too close for comfort!
+[name="우요우"]이거 이거, 하마터면 큰일 날 뻔했네!
 
 [name="乌有"]没受伤吧？
+[name="ウユウ"]ケガはないね？
+[name="Mr.Nothing"]Are you okay?
+[name="우요우"]다치지는 않았니?
 
 [name="小女孩"]呜呜呜......没......呜呜呜......
+[name="女の子"]ううっ……ないけど……ううぅ……
+[name="Little Girl"]Uwaaahhh... yeah... uwahhh...
+[name="여자아이"]흐아아앙…… 응…… 흐흑……
 
 [name="乌有"]刚才......刚才是不是有什么东西刺穿了那玩意的喉咙......？
+[name="ウユウ"]さきほど……奴の喉を貫いたのは一体……？
+[name="Mr.Nothing"]Just... just now, did something stab that creature in the throat...?
+[name="우요우"]방금…… 무언가가 저 녀석을 뚫고 지나가지 않았습니까……?
 
 [name="炎熔"]是克洛丝，真是刁钻的角度。
+[name="ラヴァ"]クルースだ。さすが抜け目ないな。
+[name="Lava"]That would be Kroos. What a tricky angle.
+[name="라바"]까다로운 각도였는데 저걸 맞추다니, 역시 크루스야.
 
 [name="乌有"]她，她在哪儿？
+[name="ウユウ"]か、彼女は今どこに？
+[name="Mr.Nothing"]Where—Where is she?
+[name="우요우"]지, 지금 어디에 있나요?
 
 [name="炎熔"]别找了，找不到的，只要知道她在就足够了，得优先保证所有村民都离开这片黑夜。
+[name="ラヴァ"]どうせ見つからないから探しても無駄だ。あいつがどこかで目を光らせてるってことだけ知ってればいいさ。まずは、町民が全員この夜の地から逃げ出せたかどうかを確認しよう。
+[name="Lava"]Don't look, you won't find her. As long as we know she's here, that's good enough. Gotta prioritize ensuring every villager makes it out of the night.
+[name="라바"]찾지 마. 못 찾을 거야. 크루스가 주변에 있단 것만 알면 돼. 우선 마을 사람 모두가 이 어둠에서 벗어나도록 해야 해.
 
 [name="嵯峨"]嚯，当真好默契，真让小僧大开眼界。
+[name="サガ"]ほう、以心伝心とはよく言ったものだ。勉強になったぞ。
+[name="Saga"]Ho, quite the profound rapport. My horizons do broaden.
+[name="사가"]허, 호흡이 이렇게 척척 맞다니. 정말 소승의 견문을 크게 넓혀주시는구려.
 
 [name="小女孩"]呜呜......呜呜呜......
+[name="女の子"]うう……ぐすっ……
+[name="Little Girl"]Wahhh... uwh-uwaah...
+[name="여자아이"]흐흑…… 흐흑……
 
 [name="乌有"]但、但我们要带着这个小姑娘一起走？
+[name="ウユウ"]こ、この子はどうするんですか？
+[name="Mr.Nothing"]B—But how do we bring this young girl with us?
+[name="우요우"]그, 그런데 우리 이 여자아이를 데리고 갈 건가요?
 
 [name="炎熔"]......你先带她离开这里，送去安全的地方，没问题吧？
+[name="ラヴァ"]……その子を連れてここを離れろ。安全な場所へ送り届けてくれ、できるか？
+[name="Lava"]You take her out of here, and to somewhere safe. Okay?
+[name="라바"]……먼저 이 아이를 여기서 데리고 나가 안전한 곳으로 데려다줘. 할 수 있지?
 
 [name="乌有"]没问题！哪儿能呢！
+[name="ウユウ"]もちろん！　できますとも！
+[name="Mr.Nothing"]Verily! As if I couldn't!
+[name="우요우"]물론이죠! 당연한 말씀을!
 
 [name="乌有"]但是——我实在不忍抛下恩人，独自避难呀！不能陪着恩人抛头颅洒热血，多可惜——
+[name="ウユウ"]ですが……恩人様を置いて離れるなど実に忍びない！　あなた方と共に正義のため命を投げ出すことが叶わぬとは、どんなに口惜しいことで――
+[name="Mr.Nothing"]However—I really cannot bear to cast off my benefactors and take refuge alone! The fact I cannot accompany my benefactors in lopping off heads and spilling fresh blood is a true shame—
+[name="우요우"]하지만…… 전 도저히 은인님을 두고 혼자 도망치진 못하겠습니다! 은인님 곁에서 함께 정의를 위해 목숨을 바칠 수 없다니, 정말 아쉽군요……
 
 [name="炎熔"]你可以先把孩子送去煮伞先生那里，然后再回来找我们。
+[name="ラヴァ"]その子を煮傘さんのところへ届けて、もっかい戻ってくればいいだろうが。
+[name="Lava"]You can take the child to Mr. Umbrella's place first and then come back to us.
+[name="라바"]그럼 이 아이를 자산 선생에게 데려다준 다음에 다시 우릴 찾아오면 되잖아.
 
 [name="乌有"]啊哈哈......欸......好的，我会的，会的。
+[name="ウユウ"]あはは……はぁ……分かりました。そうします、しましょうとも！
+[name="Mr.Nothing"]Ahahah... ah... alright, very well now. Very well.
+[name="우요우"]아하하…… 아…… 듣고 보니 확실히…… 알겠습니다, 그렇게 하지요.
 
 [name="乌有"]小妹妹，跟哥哥走好不好呀？
+[name="ウユウ"]お嬢ちゃん、お兄ちゃんと一緒に走れるかな？
+[name="Mr.Nothing"]Young miss, would you care to come with me?
+[name="우요우"]꼬마 아가씨, 오빠랑 같이 갈까?
 
 [name="小女孩"]呜......呜呜......叔叔，你看见我妈妈了吗......呜呜......
+[name="女の子"]う……うぅ……おじさん、お母さんがいないの……
+[name="Little Girl"]*Sob*... *whimper*... mister, have you seen my mama...? *whimper*...
+[name="여자아이"]흐흑…… 흐아아앙…… 아저씨, 우리 엄마 못 봤어?…… 흐흑……
 
 [name="乌有"]哥哥带你去找妈妈好不好？
+[name="ウユウ"]よし、じゃあお兄ちゃんが君のお母さんを探しに連れていってあげよう。
+[name="Mr.Nothing"]I'll take you to find her, okay?
+[name="우요우"]오빠가 네 엄마 찾아 줄게, 어때?
 
 [name="小女孩"]呜......嗯......谢谢叔叔......
+[name="女の子"]う……うん……ありがとうおじさん……
+[name="Little Girl"]Hic... mm-hm... thank you, mister...
+[name="여자아이"]흑…… 응…… 고마워, 아저씨……
 
 [name="乌有"]......咳。恩人呐，那我，先走一步？
+[name="ウユウ"]……ゴホン。恩人様、では行ってまいります。
+[name="Mr.Nothing"]Ahem. Benefactor, shall I depart for now then?
+[name="우요우"]크흠…… 은인님, 그럼 전 먼저 가보겠습니다.
 
 [name="炎熔"]嗯。
+[name="ラヴァ"]ああ。
+[name="Lava"]Yes.
+[name="라바"]어.
 
 [name="说书人"]......
+[name="講談師"]…………
+[name="Storyteller"]......
+[name="이야기꾼"]……
 
 [name="村民"]先生，只靠嵯峨和那三位英雄，打不打紧啊？
+[name="町民"]先生、サガと三人の英雄だけで、あれらに太刀打ちできるんでしょうか？
+[name="Villager"]Sir, will we be safe, relying on just Saga and the three heroes?
+[name="마을 사람"]선생님, 사가와 그 영웅 세 분만으로도 싸움이 될까요?
 
 [name="说书人"]......
+[name="講談師"]…………
+[name="Storyteller"]......
+[name="이야기꾼"]……
 
 [name="村民"]先生？
+[name="町民"]先生？
+[name="Villager"]Sir...?
+[name="마을 사람"]선생님?
 
 [name="说书人"]......无妨。
+[name="講談師"]……問題なかろう。
+[name="Storyteller"]No matter.
+[name="이야기꾼"]……괜찮을 걸세.
 
 [name="村民甲"]咋回事儿啊？先生今儿是不是心情不好？昨天忘了睡觉啦？
+[name="町民A"]先生はどうしたんだ？　機嫌でも悪いのか？　昨日寝てないとか？
+[name="Villager A"]What's wrong with him? Is he in a bad mood today? Did he forget to sleep last night?
+[name="마을 사람 갑"]어찌 된 일이지? 선생님께서 오늘 기분이 안 좋으신 것 같은데? 어제 못 주무셨나?
 
 [name="村民乙"]先生温文尔雅，不像是个喜怒无常的人呀。
+[name="町民B"]先生は優雅で温厚な方よ。そんな気分屋には見えないけど……
+[name="Villager B"]Sir has culture and grace. He's not the temperamental kind.
+[name="마을 사람 을"]선생님께선 온화하고 점잖은 분이셔. 변덕스러운 사람과는 달라.
 
 [name="村民甲"]一定是先生为我们劳神操心，累了吧，我们应当多为他着想点，让他睡着吧。
+[name="町民A"]うーむ、きっと私たちの事を心配して疲れてしまったんだろう。少し眠った方がいいと勧めてみよう。
+[name="Villager A"]I bet he's tired, worrying all about us. We should give him some space, let him sleep.
+[name="마을 사람 갑"]분명히 선생님께선 우릴 걱정하느라 피곤하신 걸 거야. 선생님께서 좀 더 주무실 수 있게 해드려야겠어.
 
 [name="嵯峨"]六根清净！
+[name="サガ"]六根清浄！
+[name="Saga"]Cleanse the six senses!
+[name="사가"]육근청정!
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガァッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="嵯峨"]斩却烦恼！
+[name="サガ"]煩悩を斬り捨てん！
+[name="Saga"]Sever all desires!
+[name="사가"]번뇌를 베어버리겠다!
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガァッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="嵯峨"]油炸豆腐！
+[name="サガ"]油揚げ！
+[name="Saga"]Aburaage!
+[name="사가"]유부튀김!
 
 [name="墨魉"]嘎，嘎啊？
+[name="墨魎"]ガ、ガァッ？
+[name="Ink Spirit"]Gkh... gkhaa?
+[name="묵량"]크, 크엉?
 
 [name="炎熔"]......你还挺厉害的。
+[name="ラヴァ"]……やるじゃないか。
+[name="Lava"]You're pretty strong yourself.
+[name="라바"]꽤…… 꽤 대단한데.
 
 [name="嵯峨"]小僧自幼在寺庙长大，耳濡目染，稍微学了些刀法罢了。
+[name="サガ"]少々薙刀の心得があるゆえ……幼少より寺で育ち、知らず知らずに身に付いたのだ。
+[name="Saga"]I grew from childhood in the monastery. It influenced me, and I learned a few ways of the sword. That is all.
+[name="사가"]소승은 어려서부터 절에서 자라면서, 어깨너머로 조금 배웠을 뿐이오.
 
 [name="炎熔"]你这叫稍微？
+[name="ラヴァ"]その腕前で「少々」か……
+[name="Lava"]You call that a few?
+[name="라바"]이게 조금이라고?
 
 [name="嵯峨"]莫要在意，待小僧为炎熔施主开出一条道来！
+[name="サガ"]お気になさるな。拙僧がラヴァ殿の為に道を切り開こう！
+[name="Saga"]Mind not. Stay while I open a path for thee, Lava!
+[name="사가"]신경 쓰지 마시오. 소승이 라바 시주를 위해 길을 열어 드릴 터이니!
 
 [name="墨魉"]嘎......嘎啊！
+[name="墨魎"]ガ……ガァッ！
+[name="Ink Spirit"]Gkh... gkhaa!
+[name="묵량"]크…… 크아!
 
 [name="炎熔"]那些怪物已经开始怕你了......说起来，墨魉是有智慧的吗？
+[name="ラヴァ"]化け物どもがオマエにビビってるぞ……というか、墨魎には知能があるのか？
+[name="Lava"]Those monsters are starting to fear you... now that I mention it, do Ink Spirits even have intelligence?
+[name="라바"]저 괴물이 널 무서워하기 시작했어…… 그 말은 곧, 묵량도 지능이 있단 말인가?
 
 [name="墨魉"]嘎！嘎啊！嘎啊嘎啊！
+[name="墨魎"]ガッ！　ガァ！　グァグァ！
+[name="Ink Spirit"]Gkh! Gkhaa! Gkhaakh ghkaa!
+[name="묵량"]크! 크아! 크아크아!
 
 [name="嵯峨"]唔？
+[name="サガ"]ほう？
+[name="Saga"]Ho?
+[name="사가"]오?
 
 [name="炎熔"]怎么停手了？
+[name="ラヴァ"]どうして手を止める？
+[name="Lava"]Why'd you stop?
+[name="라바"]왜 멈춘 거야?
 
 [name="墨魉"]嘎，嘎嘎啊，嘎啊嘎啊......
+[name="墨魎"]ガッ！　ガガァ！　グァグァ……
+[name="Ink Spirit"]Gkh, gkh-gkhaa, gkhaahgkhaa...
+[name="묵량"]크, 크아아, 크아크아……
 
 [name="嵯峨"]嗯，嗯嗯，嗯......
+[name="サガ"]ほう、ふむふむ、うん……
+[name="Saga"]Hm, hm-hm, hm...
+[name="사가"]어, 그래, 그래……
 
 [name="炎熔"]喂！？你还能听懂这玩意说话的！？
+[name="ラヴァ"]おい！　奴らの言葉が分かるのか！？
+[name="Lava"]Wait?! You can understand what it's saying?!
+[name="라바"]어?! 너, 저 녀석의 말을 알아듣는구나?!
 
 [name="嵯峨"]略通一二。施主你看，这一只墨魉也没犯什么过错，若是真心悔过，不再侵扰镇上邻里，放了就放了罢。
+[name="サガ"]少しばかりな……ご覧あれ、この墨魎にはもはや敵意はござらぬ。もし心から悔い改め、二度と町に侵入して騒がぬというのならば、放してやろうではないか。
+[name="Saga"]A bare perception. If thou wouldst observe, this Ink Spirit has not committed any wrongdoing, as if it sincerely regrets, and it will no longer torment the village. We shall let it go, then.
+[name="사가"]조금은 알아듣소. 저 묵량은 잘못한 게 없고, 진심으로 뉘우치고 있다 하오. 다시는 마을에 침입하지 않겠다고 하니, 이만 놔줘도 될 것 같소.
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガァッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="炎熔"]......这样好吗？
+[name="ラヴァ"]……大丈夫なのか？
+[name="Lava"]Is that okay?
+[name="라바"]……그래도 될까?
 
 [name="嵯峨"]没关系，小僧自有分寸。
+[name="サガ"]問題ない。拙僧の目に狂いはござらん。
+[name="Saga"]It is alright. I know it to be proper.
+[name="사가"]문제없소. 소승이 잘 처리할 것이오.
 
 [name="墨魉"]嘎......
+[name="墨魎"]ガ……
+[name="Ink Spirit"]Gkh...
+[name="묵량"]크……
 
 [name="炎熔"]这附近安静些了......应该没有其他村民留在这里，现在我们可以谈谈了吗？
+[name="ラヴァ"]あたりが静かになったな……もう他に町民も残っていないだろう。さて、話を聞かせてもらおう。
+[name="Lava"]It's fallen quiet now... There shouldn't be any other villagers remaining. Can we have a chat for a moment?
+[name="라바"]이제 좀 조용해진 것 같군…… 여긴 남아 있는 마을 사람이 없을 거야. 이제 우리 이야기 좀 해볼까?
 
 [name="嵯峨"]炎熔施主好生严肃，莫非小僧做错了什么吗？
+[name="サガ"]話を聞かせてもらおうとな……ラヴァ殿、深刻な様子だが、拙僧は間違ったことをしでかしたのであろうか？
+[name="Saga"]Lava, thou art indeed solemn. Perhaps I have done wrong in some way?
+[name="사가"]시주께선 매우 심각해 보이시구려. 소승이 무슨 잘못이라도 했소?
 
 [name="炎熔"]这倒没有，只是你刚才说了......画卷？你似乎对这里很了解。
+[name="ラヴァ"]いや、そういうことじゃない。だけどさっき言ってた……絵巻？　その話を聞きたい。オマエはどうやら、ここについてかなり詳しいようだが。
+[name="Lava"]No, you're fine, it's just what you said before... a painting scroll? It seems like you understand this place.
+[name="라바"]그건 아냐. 다만 방금 네가 말한…… 그림? 그것에 대해 잘 알고 있는 것 같아서.
 
 [name="嵯峨"]那可不，小僧在此地云游，也有段时间了。
+[name="サガ"]うむ。拙僧はこの地を行脚して、ずいぶん経つゆえ。
+[name="Saga"]Indeed. I am a wanderer, and have been so for some time.
+[name="사가"]그야 물론이오. 소승이 이곳을 떠돈지도 시간이 꽤나 흘렀으니.
 
 [name="炎熔"]这地方看上去可不值得“云游”。
+[name="ラヴァ"]この辺りに「行脚」するほどの場所なんてなさそうだけどな。
+[name="Lava"]This place doesn't seem to deserve the word 'wandering.'
+[name="라바"]이곳은 떠돌만한 곳이 없어 보이는데.
 
 [name="嵯峨"]一幅画卷，能有多大？
+[name="サガ"]ううむ。一幅の絵巻の大きさに限りがあるのは、仕方のないことでござるよ。
+[name="Saga"]How large can a single scroll be?
+[name="사가"]한 장의 그림이 크면 얼마나 크겠소?
 
 [name="炎熔"]什么意思......我们在画里？
+[name="ラヴァ"]何の話だ……アタシたちは絵の中にいるとでも言うつもりか？
+[name="Lava"]What do you mean... are we in a picture?
+[name="라바"]무슨 뜻이야…… 우리가 그림 안에 있단 거야?
 
 [name="嵯峨"]正是如此。
+[name="サガ"]いかにも。
+[name="Saga"]That is so.
+[name="사가"]그렇다오.
 
 [name="炎熔"]......到底什么意思？
+[name="ラヴァ"]……どういう意味だ？
+[name="Lava"]What exactly do you mean?
+[name="라바"]……도대체 무슨 소리야?
 
 [name="嵯峨"]啊，小僧明白了，几位施主和小僧一样，也是误入此中山河——
+[name="サガ"]ああ、拙僧ようやく得心し申した……そなたたちも拙僧と同じく、この山河へ誤って踏み入ってしまったのだな――？
+[name="Saga"]Ah, I understand now. Your party is akin to me, having erred and fallen into these mountains and rivers—
+[name="사가"]아, 알겠소. 시주께서도 소승처럼 이 중산하에 잘못 들어오셨구려……
 
 [name="炎熔"]呃？
+[name="ラヴァ"]はっ？
+[name="Lava"]Huh?
+[name="라바"]네?
 
 [name="嵯峨"]想当初，小僧只是途经大炎勾吴地界，突发奇想，想去拜访一下那位大家后人。
+[name="サガ"]当初、拙僧はただ勾呉の境界を通り抜けようとしたのだが、ふとした思いつきで、ある大家の子孫を訪ねてみることにしたのだ。
+[name="Saga"]At the outset, I was only passing through the Kou-wu boundary in Yen. Suddenly, I had the thought that I wanted to visit the posterity of the great artist.
+[name="사가"]당시 소승은 염국 구오의 경계를 지나치던 도중 기발한 생각이 머리를 스쳐 지나가, 대가의 후손을 찾아갔다오.
 
 [name="嵯峨"]见灰齐山飞瀑之下美不胜收，就在一处山中茅屋露宿一宿，没想到眼睛一闭一睁，就到这里来啦。
+[name="サガ"]通りかかった灰斉山の滝の麓は美しく、ほど近い場所に古ぼけた家があったので、そこで宿を拝借したのだ。そして眠りについて次に目を開けると、なんとここへ来ておったというわけだ。
+[name="Saga"]The sight under the waterfalls of Mount Hui-ch'i is beautiful beyond comprehension, and I slept one night in a thatched cottage in the mountains. I had never thought that next I opened my eyes, I would be here.
+[name="사가"]그러다 회제산 폭포 아래에서 더할 나위 없는 절경을 발견하곤 산속의 초가집에서 하룻밤을 묵기로 했다오. 하지만 눈을 떠보니 이미 이곳에 와 있는 게 아니겠소.
 
 [name="炎熔"]等、等等，什么意思，你也是来找“夕”的？
+[name="ラヴァ"]ちょ、ちょっと待ってくれ。どういうことだ？　オマエも「シー」を探しに来たのか？
+[name="Lava"]Hold on, wait. Wait. What do you mean? You were looking for 'Dusk' too?
+[name="라바"]자, 잠깐, 무슨 말이야, 너도 그 '시'를 찾아온 것이야?
 
 [name="嵯峨"]夕？小僧倒未曾听说过这个名讳......
+[name="サガ"]シー？　そのような名は、初耳であるが……
+[name="Saga"]Dusk? I have never heard tell of this name before...
+[name="사가"]……'시'? 소승은 그런 이름은 들어보지 못했다오……
 
 [name="嵯峨"]小僧寻的，是那位“一笔拙山起，何处话风流”的炎国画家。
+[name="サガ"]拙僧が探しておったのは、「一筆にて拙山起こさば、何処にて風流を語らん」との評判で有名な、炎国の画家だ。
+[name="Saga"]The one I sought was the Yen painter for whom 'one stroke crude mounts rose, whence the words, winds, flow.'
+[name="사가"]소승이 찾는 건, '한 획으로 보잘것없는 산을 살리고, 작품 곳곳에 풍류가 넘치는' 염국의 화가라오.
 
 [name="嵯峨"]不过算算时日，怕那画家已经不在人世了，故而想去探访其故居，如此而已。
+[name="サガ"]しかし、長い年月が経っておるゆえ、すでにその画家はこの世におらぬかもしれぬ。それゆえ旧居を訪ねてみたいと思ったのだ。
+[name="Saga"]But working out the days, I feared that painter had already left our world of mortals, and thus thought to call upon their former residence. That is all.
+[name="사가"]하지만 시간을 계산해 보면, 그 화가는 이미 세상을 떠났을 것 같으니 생가라도 찾아가 보려 한 것이오.
 
 [name="炎熔"]反正你也是先去的大炎勾吴灰齐山，然后莫名其妙就到了这里的，对吧！？
+[name="ラヴァ"]つまり、オマエも勾呉の灰斉山へ行き、なぜかここへたどり着いた――そういうことなのか！？
+[name="Lava"]In any case, first you went to Mount Hui-ch'i in Kou-wu in Yen, and then you inexplicably ended up here, right?!
+[name="라바"]어쨌든 너도 염국 구오의 회제산을 갔다가 영문도 모르고 여기까지 오게 되었다, 이거지?!
 
 [name="嵯峨"]唔，确是如此不假，但施主为何如此激动？
+[name="サガ"]左様。たしかに相違ござらぬ。しかしそなたはどうしてそのように興奮しておるのだ？
+[name="Saga"]Ho, that is not false, but why does it agitate thee so?
+[name="사가"]아, 그렇긴 하오만, 시주께서는 어찌 그리 흥분하시오?
 
 [name="炎熔"]然后你说这里是画卷——
+[name="ラヴァ"]オマエは、ここが絵巻の中だと言ったが――
+[name="Lava"]And then you said this place is a painting scroll—
+[name="라바"]그리고 여긴 그림 속이라는 거고……
 
 [name="嵯峨"]天地人皆不合情理，炎熔施主，就没意识到吗？
+[name="サガ"]天地も人も皆、道理から外れておるゆえ……ラヴァ殿は気付いておらぬのか？
+[name="Saga"]Nothing of this world conforms to reason. Lava, didst thou never realize?
+[name="사가"]세상사 모두 이치에 맞지 않는단 걸, 라바 시주께서는 아직 깨닫지 못하셨소?
 
 [name="炎熔"]这我也知道，可为什么是画......？
+[name="ラヴァ"]それは分かっていた。だが、どうして絵なんだ……？
+[name="Lava"]No, I know that. But why a painting...?
+[name="라바"]그건 나도 알아. 하지만 어떻게 그림 속에……?
 
 [name="嵯峨"]小僧也难说明白，不过这婆山镇，已经是小僧游历的......大概百余幅画卷啦！至少自己身在何处，还是心知肚明的。
+[name="サガ"]拙僧もはっきりとは説明ができぬが、この婆山町は、拙僧が今まで巡り歩いてきた……百余の絵巻の中の一つだ。少なくとも己自身がどこにいるかは、分かっておるつもりだ。
+[name="Saga"]It is difficult to explain, but I have traveled this P'o-shan Village across... about a hundred or more scrolls now! At least, I am well aware of where I myself am.
+[name="사가"]소승도 뭐라고 말하기는 어렵다오. 다만, 이 파산 마을을 소승이 두루 돌아다녀 보니…… 크기가 대략 백여 폭 정도 되었소! 그래서 적어도 소승이 어디에 있는지는 잘 알고 있다오.
 
 [name="炎熔"]可......那些人，是活生生的人，茶水有滋味，水果也能吃......
+[name="ラヴァ"]だが……ここの住民たちは、本当に生きてるみたいだろ。それに茶はうまいし、果物も食べられる……
+[name="Lava"]Guh... those people are real, living people, the tea has flavor, the fruit is edible...
+[name="라바"]하지만…… 그 사람들은 멀쩡히 살아 있었어. 차에서도 향이 났고, 과일도 먹을 수 있었고……
 
 [name="炎熔"]只是某种法术的结果吗？可如果这是法术的结果......这是什么样的......
+[name="ラヴァ"]これは何かのアーツの効果なのか？　だがもしこれがアーツだとしたら……一体どんな……？
+[name="Lava"]Is this all just some sort of Arts? But if it was... then what kind of...
+[name="라바"]단순한 아츠의 결과물일까? 하지만 이것이 아츠의 결과물이라면…… 이건 도대체 어떤……
 
 [name="嵯峨"]这小僧可就毫无头绪了。要不是曾有幸一瞥这天地真实，小僧怕也意识不到自己身在何处吧。
+[name="サガ"]それについては拙僧も、全く手がかりが掴めておらぬ。もし偶然、天地の真実を垣間見ることがなければ、拙僧も己がどこにおるのかに気づけなかっただろうな。
+[name="Saga"]It is completely beyond my reckoning. Had I not the fortune to glimpse the truth of this world, I fear that I too would be unable to realize where I am.
+[name="사가"]소승 역시 갈피를 못 잡겠소. 운 좋게 이 세상의 진실을 얼핏 볼 기회가 없었더라면, 소승 역시 자신이 어디에 있는지 알지 못했을 것이오.
 
 [name="嵯峨"]此处没有天灾所扰，各界生灵，都遵循着自己的规矩，自成方圆，妙不可言。小僧留在这里，未尝没有图个安心的意思。
+[name="サガ"]ここでは天災に悩まされることもなく、皆自分なりの規則に従い、それぞれの仕組みを作り暮らしておる。なんとも至妙なり……拙僧がここに留まっているのは、心の安らぎのためでもあるのだ。
+[name="Saga"]No Catastrophe disturbs here, and all living beings follow their own customs, creating their own enclosure, too wondrous for words. Staying here, I have never wanted for ease.
+[name="사가"]이곳은 재앙도 없고, 모든 생명체가 자신만의 규율을 따르고 있어 일정한 규칙을 이루고 있는 모습이 이루 말할 수 없이 훌륭하다오. 그런 연유로 소승은 이곳에 남아 편안히 지내고 싶은 마음을 먹은 적도 있었소.
 
 [name="炎熔"]这......
+[name="ラヴァ"]な……
+[name="Lava"]That's...
+[name="라바"]그건……
 
 [name="嵯峨"]哈哈，看施主一脸困惑，也在所难免，小僧初见夕娥的时候，也是施主这般模样......
+[name="サガ"]はは、混乱しておるようだな。まあ無理もなかろう。拙僧が初めて夕娥（シーウ）に会うた時も、そなたと同じような状況であった……
+[name="Saga"]Hah-hah, the look on thine face is all too unavoidable. When I first met that dusken Hsi-o, she took the same look as thee...
+[name="사가"]하하, 시주께서 곤혹스러운 표정을 지으시는 건 당연한 것이오. 소승이 '시어'를 처음 봤을 때도 시주님 같은 표정이었으니 말이오……
 
 [name="炎熔"]慢着......你说见谁！？
+[name="ラヴァ"]待て……今誰に会ったと言った！？
+[name="Lava"]Slow down... who did you say you met?!
+[name="라바"]잠깐…… 누굴 만났다고?!
 
 [name="嵯峨"]小僧见了——等等，那处灯火，莫非是掌柜的当铺？她竟然没去避难，这可不成！
+[name="サガ"]拙僧が会うたのは――待て、あそこに灯火が……もしかして質屋の女将殿？　まだ避難していなかったのか、まずいぞ！
+[name="Saga"]I met a—wait now. Those lights, could they be the merchant's shop? So she never took refuge! We must act!
+[name="사가"]소승이 만난 건…… 잠깐, 저 등불. 저건 설마 주인장의 전당포 아니던가? 아직 도망치지 않았다니!
 
 [name="炎熔"]等等我！
+[name="ラヴァ"]おい待て！
+[name="Lava"]Wait for me!
+[name="라바"]기다려!
 
 [name="掌柜"]......
+[name="女将"]…………
+[name="Shopkeeper"]......
+[name="상점 주인"]……
 
 [name="墨魉"]嘎唔......
+[name="墨魎"]ガウ……！
+[name="Ink Spirit"]Gkhaa...
+[name="묵량"]크오……
 
 [name="掌柜"]......好了好了，别这么激动。
+[name="女将"]……分かった分かった。そう興奮しないの。
+[name="Shopkeeper"]Alright, alright. Don't get so excited.
+[name="상점 주인"]……알았어, 알겠으니까 그렇게 흥분하지 말라고.
 
 [name="掌柜"]为什么要来吓唬人？她是怎么说的？
+[name="女将"]どうして町を脅かしに来たの？　彼女はなんて言ってた？
+[name="Shopkeeper"]Why did you come scare the people? What did she tell you?
+[name="상점 주인"]그러게 왜 사람들을 놀라게 했어? 그 여자가 뭐라고 말했기에?
 
 [name="掌柜"]啊......是这样......她还是老样子。
+[name="女将"]ああ……そう……やっぱりいつも通りなのね。
+[name="Shopkeeper"]Ah... I see... she's still the same as ever.
+[name="상점 주인"]아…… 그런 거였나…… 여전하네.
 
 [name="嵯峨"]掌柜的！
+[name="サガ"]女将殿！
+[name="Saga"]Shopkeep!
+[name="사가"]주인장!
 
 [name="掌柜"]......去吧。
+[name="女将"]……行って。
+[name="Shopkeeper"]...Go.
+[name="상점 주인"]……가.
 
 [name="墨魉"]嘎......
+[name="墨魎"]ガ……
+[name="Ink Spirit"]Gkh...
+[name="묵량"]크……
 
 [name="嵯峨"]掌柜的，你没事？
+[name="サガ"]女将殿、無事か？
+[name="Saga"]Shopkeep, be thou well?
+[name="사가"]주인장, 괜찮소?
 
 [name="掌柜"]我没事的......这位就是？
+[name="女将"]私は大丈夫よ……そちらの方は？
+[name="Shopkeeper"]I'm fine... And who is this?
+[name="상점 주인"]난 괜찮아…… 이분이 그?
 
 [name="嵯峨"]哦，这位施主就是炎熔，是之前传得沸沸扬扬的外来者。
+[name="サガ"]おお、こちらはラヴァ殿。噂の、外より参られた客人だ。
+[name="Saga"]Oh, this good person is Lava, one of the outsiders who were all the hubbub earlier.
+[name="사가"]맞소, 이분이 바로 라바, 일전에 떠들썩하게 했던 외지인이오.
 
 [name="掌柜"]幸会。
+[name="女将"]これは、お目にかかれて光栄です。
+[name="Shopkeeper"]Nice to meet you.
+[name="상점 주인"]만나서 반갑습니다.
 
 [name="嵯峨"]这位是这间当铺的老板娘，单名一个“黎”字，黎明的黎。
+[name="サガ"]この方は質屋の女将で、「レイ」殿だ。黎明の「黎」と書く。
+[name="Saga"]This is the proprietor of this shop. Her sole name is 'Dawn,' as of the daybreak.
+[name="사가"]이쪽은 이 전당포의 주인장이오. 이름은 '라이', 여명 할 때 '여'자를 쓴다오.
 
 [name="炎熔"]......你没有被奇怪的东西袭击吗？
+[name="ラヴァ"]……奇妙な化け物たちに襲われてないのか？
+[name="Lava"]You didn't get attacked by any weird things?
+[name="라바"]……혹시 이상한 물건에 습격을 받지 않았나?
 
 [name="黎"]不曾见过。
+[name="レイ"]いいえ、特に見ていません。
+[name="Dawn"]I'm not aware of any such things.
+[name="라이"]아뇨, 본 적 없어요.
 
 [name="炎熔"]......
+[name="ラヴァ"]…………
+[name="Lava"]......
+[name="라바"]……
 
 [name="嵯峨"]黎姑娘，不知那些墨魉是不是还会回来，可否让我们躲藏在此处，观察一二？
+[name="サガ"]レイ殿、墨魎どもがまた戻ってくるやもしれぬ。こちらに隠れて、見張っていても良いだろうか？
+[name="Saga"]Young Dawn, I do not know if those Ink Spirits may return again. Wouldst thou permit us to lie in hiding here, to observe for a bare while?
+[name="사가"]묵량들이 다시 돌아올지 모르니, 저희가 이곳에 숨어 좀 지켜봐도 되겠소?
 
 [name="黎"]......嗯，好。
+[name="レイ"]……ええ、構わないわ。
+[name="Dawn"]Mm-hm. Alright.
+[name="라이"]……그래, 좋아.
 

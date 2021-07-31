@@ -1,4 +1,10 @@
 [PopupDialog(dialogHead="$avatar_closure")] 第一批房间已经全部清理完毕。现在可以开始建造相应设施。
+[PopupDialog(dialogHead="$avatar_closure")] ひとまず一通り片付けが終わったね。じゃあ早速施設を建造しよう。
+[PopupDialog(dialogHead="$avatar_closure")] We've cleaned enough rooms to build facilities now.
+[PopupDialog(dialogHead="$avatar_closure")] 이제 어느 정도 정리가 끝났네. 그럼 바로 시설을 건설해 볼까?
 
 [PopupDialog(dialogHead="$avatar_closure")] 所有的设施都会消耗电力。我们第一个需要建造的是<@tu.kw>发电站</>发电站。
+[PopupDialog(dialogHead="$avatar_closure")] どの施設も電力が必要になるから、まずは<@tu.kw>発電所</>を建造しよう。
+[PopupDialog(dialogHead="$avatar_closure")] All facilities require power, so the first thing to build is a <@tu.kw>Power Plant</>.
+[PopupDialog(dialogHead="$avatar_closure")] 모든 시설에는 전기가 필요하니까, 먼저 <@tu.kw>발전소</>를 짓자.
 

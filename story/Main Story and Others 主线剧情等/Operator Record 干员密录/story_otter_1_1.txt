@@ -1,620 +1,1550 @@
 罗德岛本舰
+ロドス本艦
+Rhodes Island Landship
+로도스 아일랜드 본함
 
 “鲁特拉工作室”
+「ラボ・ルトラ」
+'Lutra Workshop'
+작업실, '랩 루트라'
 
 [name="梅尔"]  哦，时间差不多了嘛，该开始干活了。
+[name="メイヤー"]  おっと、もうこんな時間か、仕事始めなきゃ。
+[name="Mayer"]  Ooh, looks like it's about time. Gotta get to work now.
+[name="메이어"]  오, 시간이 다 됐으니 일 시작해야겠네.
 
 [name="梅尔"]  让我看看今天的日程表。
+[name="メイヤー"]  今日の予定は……っと。
+[name="Mayer"]  Lemme see the schedule for today.
+[name="메이어"]  오늘의 일정표를 좀 볼까.
 
 [name="梅尔"]  嗯......
+[name="メイヤー"]  うーん……
+[name="Mayer"]  Mmm...
+[name="메이어"]  음……
 
 [name="梅尔"]  嗯，还行。
+[name="メイヤー"]  うん、OK。
+[name="Mayer"]  Mmyeah, works for me.
+[name="메이어"]  음, 좋아.
 
 [name="梅尔"]  答应麦麦的“龙腾无人机操作改进方案”今天截稿，一会收个尾，然后等她来就行。
+[name="メイヤー"]  まずは――マゼランちゃんに頼まれてる「ドローン・DDF操作改善プラン」だね。締切は今日だけど、後は仕上げだけだから余裕余裕。マゼランちゃんはいつ取りに来るかなー。
+[name="Mayer"]  Let's get around to Maggy's 'Improvement proposals for Drone Dragonfly operation' and polish off my submissions for today. Get around to the rest later. Then I just gotta wait for her.
+[name="메이어"]  마젤란한테 약속한 '드래곤플라이 드론 조작 개선 방안'은 오늘 마감이네. 이따가 마무리해서 마젤란이 올 때까지 기다리면 되겠다.
 
 [name="梅尔"]  塞雷娅的防护服检修委托？主要是刷新涂料吧......糟了，我是不是没订涂料？！
+[name="メイヤー"]  それと――サリアの防護服のメンテ依頼？　えーっと、たしか主に外装の塗り直しだったよね……やばっ、私もしかして塗料の注文忘れてる！？
+[name="Mayer"]  Doing maintenance on Saria's armor? Main thing should be giving it a new coat of paint... crap, did I not order paint?!
+[name="메이어"]  사리아의 방호복 점검 의뢰? 새로 페인팅하는 거였지…… 이런, 내가 페인트 주문을 안 했나?!
 
 [name="梅尔"]  啊——还好还好，上次的没用完。
+[name="メイヤー"]  あー、良かった。前のがまだ残ってた。
+[name="Mayer"]  Arghh—we're good, we're good. Didn't use it up last time.
+[name="메이어"]  아, 다행이다. 저번 걸 다 쓰진 않았네.
 
 [name="梅尔"]  今天主要就做这个。
+[name="メイヤー"]  今日はこれにかかりっきりになりそう。
+[name="Mayer"]  Main focus for today'll be that.
+[name="메이어"]  오늘의 주요 일정은 이거네.
 
 [name="梅尔"]  如果还有空闲，就发几份新零件的订单出去，然后给服役的咪波们好好维护一下。
+[name="メイヤー"]  もし時間が余ったら、新しい部品をいくつか発注して……それから稼働中のミーボたちをメンテナンスしてあげよーっと。
+[name="Mayer"]  If I get the time, I'll send some orders for a couple new parts. Then I can give all my frontline Meeboos some real maintenance.
+[name="메이어"]  시간이 되면 새 부품을 주문하고 일하는 미보들 좀 점검해야지.
 
 [name="梅尔"]  嗯，今天就做这些。
+[name="メイヤー"]  よし、そんなところかな。
+[name="Mayer"]  Mm-hm. Today's lineup, sorted.
+[name="메이어"]  아, 오늘은 이만큼만 해야겠다.
 
 [name="梅尔"]  开工啦！
+[name="メイヤー"]  お仕事開始！
+[name="Mayer"]  Let’s kick it off!
+[name="메이어"]  업무 시작!
 
 [name="？？？"]  梅尔！
+[name="？？？"]  メイヤー！
+[name="???"]  Mayer!
+[name="???"]  메이어!
 
 [name="？？？"]  梅尔快开门啊！
+[name="？？？"]  メイヤー早く開けてー！
+[name="???"]  Mayer, open the door!
+[name="???"]  메이어, 빨리 문 열어!
 
 [name="？？？"]  有急事！
+[name="？？？"]  急ぎの用なんだってば！
+[name="???"]  It's urgent!
+[name="???"]  급한 일이야!
 
 [name="梅尔"]  塞雷娅这件衣服不太对劲啊......
+[name="メイヤー"]  うーん、サリアの防護服、今回はどうしたんだろ……
+[name="Mayer"]  Not too happy about Saria's suit here...
+[name="메이어"]  사리아 옷이 너무 이상한데……
 
 [name="梅尔"]  充能率怎么都上不去。
+[name="メイヤー"]  チャージ率がどうやっても上がらない。
+[name="Mayer"]  Wonder why it can't charge up properly.
+[name="메이어"]  충전율이 왜 안 올라가지.
 
 [name="梅尔"]  奇怪，到底是哪里出问题了？
+[name="メイヤー"]  変だなぁ、一体どこに問題があるんだろう？
+[name="Mayer"]  Weird. C'mon, where's the problem, officer?
+[name="메이어"]  이상하네. 도대체 뭐가 문제지?
 
 [name="？？？"]  梅尔，我知道你在里面！
+[name="？？？"]  メイヤー、中にいるんでしょ！
+[name="???"]  Mayer! I know you're in there!
+[name="???"]  메이어, 안에 있는 거 알아!
 
 [name="？？？"]  我都听见你声音了！
+[name="？？？"]  声が聞こえるよ！
+[name="???"]  I hear you talking!
+[name="???"]  네 목소리 다 들리거든!
 
 [name="梅尔"]  是这里吗？
+[name="メイヤー"]  ここかな？
+[name="Mayer"]  Rooound here?
+[name="메이어"]  여기인가?
 
 [name="梅尔"]  啊哈~果然。
+[name="メイヤー"]  あは～、やっぱり～。
+[name="Mayer"]  Ah-hah~ Gotcha.
+[name="메이어"]  아하~ 역시~
 
 [name="梅尔"]  找到症结问题就好处理了。
+[name="メイヤー"]  根本的な原因さえ見つかればあとは楽勝だね。
+[name="Mayer"]  Prime suspect found. We're on Easy Street now.
+[name="메이어"]  문제점을 찾으면 처리하기 쉽다 이 말씀~
 
 [name="？？？"]  是你逼我的啊！
+[name="？？？"]  居留守を使うなら、こっちにも考えがあるよ！
+[name="???"]  Don't make me do it!
+[name="???"]  네 탓이잖아!
 
 [name="梅尔"]  只要修复失效节点，整件衣服应该就能重新工作了。
+[name="メイヤー"]  故障したコネクタを直せば、全体の機能が回復するはず。
+[name="Mayer"]  Just need to restore a failed node, and the whole suit should be back up and working again.
+[name="메이어"]  실패 노드만 복구하면 옷은 다시 작동할 거야.
 
 [name="梅尔"]  嗯哼，先优化充能路线，然后上涂料，马上就能恢复到正常运作状态。
+[name="メイヤー"]  うんうん、まずはチャージ経路を最適化してから塗装をすれば、すぐ正常な状態に戻るはず。
+[name="Mayer"]  Uh-huh. Optimize charge circuits first. Paint over next. You'll be back to regular service in no time.
+[name="메이어"]  흠, 일단 충전 노선부터 최적화하고 페인트를 바르면 바로 정상 작동할 거야.
 
 [name="梅尔"]  要不要再顺带加点额外功能呢？
+[name="メイヤー"]  ついでにほかの機能も付けちゃおっかな？
+[name="Mayer"]  D'you want some extra features while I'm at it? Hmm.
+[name="메이어"]  하는 김에 기능을 추가해 볼까?
 
 [name="？？？"]  唉，不知道乱用权限会不会被凯尔希骂......
+[name="？？？"]  はぁ、権限乱用でケルシーに怒られちゃうかも……
+[name="???"]  Ugh. I don't know if Kal'tsit's gonna chew me out for abusing privileges...
+[name="???"]  아, 권한 남용으로 켈시한테 혼날지도 모르는데……
 
 [name="？？？"]  不管了，要怪就怪梅尔装聋。
+[name="？？？"]  でも知らない。メイヤーが聞こえないふりするのが悪いんだから！
+[name="???"]  Who cares. Your fault for acting deaf, Mayer.
+[name="???"]  몰라. 못 들은 체한 메이어가 나쁜 거니깐.
 
 [name="？？？"]  梅尔！
+[name="？？？"]  メイヤー！
+[name="???"]  Mayer!
+[name="???"]  메이어!
 
 [name="梅尔"]  搞定。
+[name="メイヤー"]  これでよしっと。
+[name="Mayer"]  Settled.
+[name="메이어"]  끝났다.
 
 [name="梅尔"]  节点位置再检查一遍吧，一会上涂料渗进去就麻烦了。
+[name="メイヤー"]  コネクタの位置をもっかいチェックしとこっと……塗料が染み込んだりしちゃ面倒だもんね。
+[name="Mayer"]  Check over your nodes one more time. Gonna be a pain once the paint gets all in you.
+[name="메이어"]  노드 위치를 다시 확인해야겠어. 나중에 페인트가 스며들면 곤란하잖아.
 
 [name="？？？"]  干活戴耳机，就不怕被人吓到吗？
+[name="？？？"]  まったく……イヤホンをつけたまま仕事して、誰かにおどかされる可能性とか考えてないのかな？
+[name="???"]  Working with earphones in? Aren't you worried someone's gonna spook you?
+[name="???"]  일하면서 이어폰을 쓰고 있으면 누군가한테 놀라지 않을까?
 
 [name="？？？"]  嗯......
+[name="？？？"]  よーし……
+[name="???"]  Mmm...
+[name="???"]  음……
 
 [name="？？？"]  哼哼——
+[name="？？？"]  フフフフ――
+[name="???"]  Hm-hmm—
+[name="???"]  흠흠……
 
 [name="？？？"]  （拍梅尔肩膀）
+[name="？？？"]  （メイヤーの肩を叩く）
+[name="???"]  (Claps Mayer's shoulder)
+[name="???"]  (메이어의 어깨를 툭툭하고 두드린다)
 
 [name="梅尔"]  （张嘴咬人）
+[name="メイヤー"]  （噛みつく）
+[name="Mayer"]  (Opens mouth and bites)
+[name="메이어"]  (깨문다)
 
 [name="？？？"]  呜啊啊啊啊！！！
+[name="？？？"]  ぎゃあぁぁぁ！！！
+[name="???"]  Waaagghahagh!!!
+[name="???"]  으아아악!!!
 
 [name="？？？"]  好疼好疼！
+[name="？？？"]  痛い痛い！
+[name="???"]  Ow, ow!
+[name="???"]  아파, 아파!
 
 [name="？？？"]  松口，快松口啊！！
+[name="？？？"]  放して、早く放してよ！！
+[name="???"]  Let go of me, damnit, let go of me!!
+[name="???"]  놔! 빨리 놓으라고!
 
 [name="？？？"]  我不好吃啊！
+[name="？？？"]  あたし美味しくなんかないって！
+[name="???"]  I'm a BAD meal!
+[name="???"]  난 맛없다고!
 
 [name="？？？"]  好过分喔梅尔，难得有好事情找你，不帮我开门就算了，还咬我......
+[name="？？？"]  ひどいよメイヤー！　せっかく面白い話を持ってきてあげたのに、居留守どころか、噛みつくなんて……
+[name="???"]  You really blew it, Mayer. I had something good for you, and you wouldn't even open the door for me. Plus, you bit me...
+[name="???"]  메이어, 너무하네. 오랜만에 좋은 일이 있어서 왔는데, 문도 안 열어주고 물기만 하고……
 
 [name="梅尔"]  抱歉啦可露希尔，你又不是不知道我工作的时候被打扰会咬人。
+[name="メイヤー"]  ごめんごめん。でも私の仕事の邪魔すると、噛みつかれることくらい知ってたでしょ？
+[name="Mayer"]  Sorry, Closure. But, like, you know I bite when someone interrupts my work.
+[name="메이어"]  미안해 클로저. 난 일할 때 방해받으면 무는 거 너도 알잖아.
 
 [name="可露希尔"]  呜呜呜呜。
+[name="クロージャ"]  うううう……
+[name="Closure"]  Owwieeee.
+[name="클로저"]  흐흑 흐흑……
 
 [name="梅尔"]  那我也给你咬一下，好不好？
+[name="メイヤー"]  じゃあ、クロージャにも一回噛みつかせてあげるから、それで許してよ。
+[name="Mayer"]  Fine, I'll let you bite me too, then. Fair's fair?
+[name="메이어"]  그럼 너도 나 물게 해줄게. 어때?
 
 [name="可露希尔"]  你现在是不是在给衣服上抗源石涂料？
+[name="クロージャ"]  今、抗源石塗料を塗ってたでしょ？
+[name="Closure"]  You're applying anti-Originium paint to a suit right now, I see?
+[name="클로저"]  너 지금 옷에 항오리지늄 페인트칠한 거야?
 
 [name="梅尔"]  是啊。
+[name="メイヤー"]  そうだよ。
+[name="Mayer"]  Sure am.
+[name="메이어"]  응.
 
 [name="可露希尔"]  那还是算了，现在咬你一口，下一秒就得进医疗部，不划算。
+[name="クロージャ"]  じゃあ遠慮しとくよ。今君に噛みついたら医療部送りになっちゃうから。
+[name="Closure"]  Pass, then. I bite you here and one moment later I'll be in Medical. Not worth it.
+[name="클로저"]  그럼 됐어. 지금 널 물면 바로 의료부로 가야 하잖아. 내가 손해지.
 
 [name="梅尔"]  啊，好像是这样。
+[name="メイヤー"]  あ、確かにそうかもね。
+[name="Mayer"]  Eh, I guess you're not wrong.
+[name="메이어"]  아, 그런 것 같네.
 
 [name="梅尔"]  嗯......
+[name="メイヤー"]  あれ……？
+[name="Mayer"]  Mmm...
+[name="메이어"]  음……
 
 [name="梅尔"]  可露希尔？
+[name="メイヤー"]  クロージャ。
+[name="Mayer"]  Closure?
+[name="메이어"]  클로저?
 
 [name="可露希尔"]  怎么了？
+[name="クロージャ"]  なに？
+[name="Closure"]  What's up?
+[name="클로저"]  왜?
 
 [name="梅尔"]  门怎么关不上了。
+[name="メイヤー"]  どうしてドアが開いてるの？
+[name="Mayer"]  The door's stuck open.
+[name="메이어"]  문이 왜 안 닫혀 있지?
 
 [name="梅尔"]  我记得特意设置过自动开关，刚刚还调成请勿打扰来着。
+[name="メイヤー"]  わざわざ電子ロックを設置して、「取り込み中」モードにセットしたはずなんだけどな……
+[name="Mayer"]  I specifically remember setting it up to automatically open and close. Pretty sure I also set it a moment ago to 'do not disturb.'
+[name="메이어"]  일부러 오토 스위치로 설정했다가 방금 방해 금지로 바꿨던 거로 기억하는데.
 
 [name="梅尔"]  是不是你把门禁给骇了？
+[name="メイヤー"]  もしかしてドアをハッキングした？
+[name="Mayer"]  Did you just hack my door?
+[name="메이어"]  네가 문을 해킹한 거 아냐?
 
 [name="可露希尔"]  啊——
+[name="クロージャ"]  あ――
+[name="Closure"]  Uhh—
+[name="클로저"]  아……
 
 [name="可露希尔"]  怎么会~~我就这样走进来的。
+[name="クロージャ"]  ま、まさか〜。ドアは普通に開いたけどなぁ。
+[name="Closure"]  No way~~ It was like that when I walked in.
+[name="클로저"]  그럴 리가~~ 난 그냥 이렇게 들어온 건데?
 
 [name="可露希尔"]  是你门没锁啦。
+[name="クロージャ"]  君がドアをロックし忘れたんじゃない？
+[name="Closure"]  Your door just wasn't locked.
+[name="클로저"]  문을 안 잠근 거겠지~
 
 [name="梅尔"]  我没锁吗？
+[name="メイヤー"]  ロックし忘れた？
+[name="Mayer"]  Didn't I lock it?
+[name="메이어"]  내가 안 잠갔다고?
 
 [name="梅尔"]  ......奇怪。
+[name="メイヤー"]  ……おかしいなぁ。
+[name="Mayer"]  ...Weird.
+[name="메이어"]  ……이상하네.
 
 [name="梅尔"]  你等一下，我看看监控录像。
+[name="メイヤー"]  ちょっと待ってて、監視カメラの映像を見てみるから。
+[name="Mayer"]  Can you gimme a moment? I'll check the tapes.
+[name="메이어"]  잠깐만 기다려, CCTV 좀 봐야겠어.
 
 [name="可露希尔"]  ！
+[name="クロージャ"]  ！！
+[name="Closure"]  !
+[name="클로저"]  !
 
 [name="可露希尔"]  梅尔你装监控的吗？！
+[name="クロージャ"]  監視カメラまで設置してるの！？
+[name="Closure"]  You put a camera up?!
+[name="클로저"]  메이어, CCTV까지 설치한 거야?!
 
 [name="梅尔"]  我这里很多东西都是莱茵内部资料啊，万一丢了什么东西对大家都不好。
+[name="メイヤー"]  うん。この部屋にはライン生命の内部資料もたくさんあるからね。万が一なくしちゃったら会社間の問題になって色々面倒でしょ？
+[name="Mayer"]  I got a lotta sensitive Rhine material in here, y'know? It'd be bad news for all of us if I lost something.
+[name="메이어"]  여기에는 라인 내부 자료가 아주 많은 곳이야. 만약 뭐라도 없어지면 다 큰일 나는 거라고.
 
 [name="梅尔"]  基本保险措施还是需要的。
+[name="メイヤー"]  防犯対策はやっぱり必要だよ。
+[name="Mayer"]  Gotta take basic security measures.
+[name="메이어"]  기본적인 보험 조치는 필요하지.
 
 [name="可露希尔"]  现在还是先工作吧......
+[name="クロージャ"]  えーっと……それより先に仕事した方がいいんじゃない？
+[name="Closure"]  Nah, you should get back to work for now...
+[name="클로저"]  지금은 일단 일부터 하는 게……
 
 [name="可露希尔"]  注意，注意安全操作规程啊。这个涂料，挺危险的吧，你这样三心二意，会出事的！
+[name="クロージャ"]  あ、安全マニュアルを守らないと！　この塗料、結構危険でしょ。作業途中で他のことに気を取られると、事故が起きちゃうかも！
+[name="Closure"]  R—Remember your health and safety regs. This paint's, uh, pretty dangerous, yeah? Things could go wrong with you trying to multitask!
+[name="클로저"]  조심해, 안전 조작 규정에 주의하고. 이 페인트 아주 위험하잖아. 이렇게 한눈팔다가는 사고 난다?!
 
 [name="梅尔"]  没事，我用机械臂呢。
+[name="メイヤー"]  大丈夫だよ、ロボットアームを使ってるから。
+[name="Mayer"]  It's fine, I've got mechanical arms on it.
+[name="메이어"]  괜찮아. 난 기계 팔을 쓰거든.
 
 [name="梅尔"]  嗯，是哪个程序来着？
+[name="メイヤー"]  うーんと、どのプログラムだったっけな……
+[name="Mayer"]  Hmm, which program was it again?
+[name="메이어"]  음, 무슨 프로그램이었더라?
 
 [name="可露希尔"]  额，梅尔，涂料的性质是不是要变化了？
+[name="クロージャ"]  あ、あの……メイヤー！　塗料の性質が変化しちゃわない？
+[name="Closure"]  Er, Mayer, don't you think this paint's gonna go volatile soon?
+[name="클로저"]  앗, 메이어, 페인트 성질 바꿔야 하지 않아?
 
 [name="梅尔"]  ？
+[name="メイヤー"]  え？
+[name="Mayer"]  ?
+[name="메이어"]  ?
 
 [name="梅尔"]  你是说这个？还好啦，这是惰性涂料。
+[name="メイヤー"]  これのこと？　大丈夫だよ、これ不活性塗料だから。
+[name="Mayer"]  That paint? It's fine, sheesh. It's inert.
+[name="메이어"]  이거 말이야? 괜찮아, 이건 불활성 페인트야.
 
 [name="梅尔"]  就算浸水烧开电离三小时再冻住，只要一解冻，马上就能用。
+[name="メイヤー"]  たとえ沸騰したお湯に浸けて、三時間ほど電離させた後に凍らせたとしても、解凍すればすぐに使えるようになる代物だよ。
+[name="Mayer"]  You could dump it in boiling water and ionize it for three hours, freeze it, and it'd still be good to go the moment it thaws.
+[name="메이어"]  물에 담가서 세 시간을 끓였다 얼려도, 해동만 하면 바로 쓸 수 있어.
 
 [name="梅尔"]  是这个文件夹吗？
+[name="メイヤー"]  このフォルダに入れてたっけ？
+[name="Mayer"]  Is this the folder?
+[name="메이어"]  이 폴더인가?
 
 [name="梅尔"]  ok，监控程序打开。
+[name="メイヤー"]  あったあった、監視プログラムを開いて……と。
+[name="Mayer"]  OK, monitor program, on.
+[name="메이어"]  오케이, CCTV 프로그램을 열어서……
 
 [name="可露希尔"]  ！
+[name="クロージャ"]  ！
+[name="Closure"]  !
+[name="클로저"]  !
 
 [name="梅尔"]  把时间拖到——
+[name="メイヤー"]  えーっと、時間はだいたい――
+[name="Mayer"]  Time seek to—
+[name="메이어"]  시간을 이쯤으로……
 
 [name="可露希尔"]  梅尔！
+[name="クロージャ"]  メイヤー！
+[name="Closure"]  Mayer!
+[name="클로저"]  메이어!
 
 [name="可露希尔"]  不和我一起做智能机器人吗！
+[name="クロージャ"]  あ、あたしと一緒にAIロボットのカスタムしない！？
+[name="Closure"]  Let's make smart robots together!
+[name="클로저"]  나랑 같이 스마트 로봇 만들지 않을래?
 
 [name="梅尔"]  ——
+[name="メイヤー"]  ――
+[name="Mayer"]  ——
+[name="메이어"]  ……
 
 [name="可露希尔"]  梅尔？
+[name="クロージャ"]  メイヤー？
+[name="Closure"]  Mayer?
+[name="클로저"]  메이어?
 
 [name="梅尔"]  ——！
+[name="メイヤー"]  ――！
+[name="Mayer"]  ——!
+[name="메이어"]  ……!
 
 [name="可露希尔"]  梅，梅尔？
+[name="クロージャ"]  メ、メイヤー？
+[name="Closure"]  M—Mayer?
+[name="클로저"]  메, 메이어?
 
 [name="梅尔"]  你刚刚说什么？
+[name="メイヤー"]  あ、ごめん。聞いてなかった。
+[name="Mayer"]  What did you just say?
+[name="메이어"]  방금 뭐라고 했어?
 
 [name="梅尔"]  再，再说一遍？
+[name="メイヤー"]  もっかい言って。
+[name="Mayer"]  Could—Could you repeat that?
+[name="메이어"]  다시, 다시 말해봐.
 
 [name="可露希尔"]  和我一起做智能机器人好不好？
+[name="クロージャ"]  あたしと一緒に、AIロボットの……カスタムしないかって――
+[name="Closure"]  Make some smart robots with me?
+[name="클로저"]  나랑 같이 스마트 로봇 만들지 않을래?
 
 [name="梅尔"]  好啊！
+[name="メイヤー"]  いいねそれ！
+[name="Mayer"]  Sure!
+[name="메이어"]  좋아!
 
 [name="可露希尔"]  那详情我们——
+[name="クロージャ"]  良かった！　じゃあ詳しい話を――
+[name="Closure"]  Then let's work specifics somewh—
+[name="클로저"]  그럼 자세한 건 우리……
 
 [name="梅尔"]  （摁下开关播放监控视频）
+[name="メイヤー"]  （監視映像を再生する）
+[name="Mayer"]  (Presses monitor feed transmission toggle)
+[name="메이어"]  (스위치를 눌러 CCTV 영상을 재생한다)
 
 滋——
+ジジッ――
+Bzzzz—
+츠……
 
 [name="监控视频"]  （开门的音效）
+[name="監視映像"]  （ガチャ）
+[name="Monitor Feed"]  (Sound of door opening)
+[name="CCTV 영상"]  (문이 열리는 소리)
 
 [name="监控视频"]  唉，不知道乱用权限会不会被凯尔希骂......
+[name="監視映像"]  はぁ、権限乱用でケルシーに怒られちゃうかも……
+[name="Monitor Feed"]  Ugh. I don't know if Kal'tsit's gonna chew me out for abusing privileges...
+[name="CCTV 영상"]  아, 권한 남용으로 켈시한테 혼날지도 모르는데……
 
 [name="监控视频"]  不管了，要怪就怪梅尔装聋。
+[name="監視映像"]  でも知らない。メイヤーが聞こえないふりするのが悪いんだから！
+[name="Monitor Feed"]  Who cares. Your fault for acting deaf, Mayer.
+[name="CCTV 영상"]  몰라. 못 들은 체한 메이어가 나쁜 거니깐.
 
 [name="梅尔"]  ......
+[name="メイヤー"]  ……
+[name="Mayer"]  ......
+[name="메이어"]  ……
 
 [name="可露希尔"]  ......
+[name="クロージャ"]  ……
+[name="Closure"]  ......
+[name="클로저"]  ……
 
 [name="梅尔"]  咪波。
+[name="メイヤー"]  ミーボ。
+[name="Mayer"]  Meeboos.
+[name="메이어"]  미보.
 
 [name="梅尔"]  咬她。
+[name="メイヤー"]  噛みつけ。
+[name="Mayer"]  Get her ass.
+[name="메이어"]  물어.
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="可露希尔"]  啊啊啊我错了别用咪波啊好疼好疼哇啊啊！！！
+[name="クロージャ"]  あああ！　ごめん、ミーボはやめてぇ！　うわぁ痛い痛いよ！！！
+[name="Closure"]  AaaaghhI'msorryit'smyfault don't sic the Meeboos on me ow ow ow ow waaaghhhhh!!!
+[name="클로저"]  아아아! 내가 잘못했어! 미보는 쓰지 마. 아파, 아파아아!!!
 
 [name="梅尔"]  说吧，大概需要我做什么。
+[name="メイヤー"]  それで……何の用で来たの？
+[name="Mayer"]  Yeah, go on. What was it you wanted me for?
+[name="메이어"]  그래서, 무슨 일인데?
 
 [name="可露希尔"]  呜呜呜呜......
+[name="クロージャ"]  うううう……
+[name="Closure"]  Uwaaahh...
+[name="클로저"]  흑흑흑……
 
 [name="可露希尔"]  我想要你帮我搞一下爆炸方面的东西......
+[name="クロージャ"]  起爆装置に関する問題で力を貸してほしかったんだよぉ……
+[name="Closure"]  I wanted you to help me with an explosive-type thingy...
+[name="클로저"]  폭발과 관련해서 도움을 받고 싶어.
 
 [name="可露希尔"]  基座机器是雷神挑衅者熔岩猫魔鬼高性能版作业平台......
+[name="クロージャ"]  ベースになるロボは、レイジアン社製のプロバカートルシリーズでラヴァキャット・デビルパフォーマンスモデルなんだけど……
+[name="Closure"]  Underlying machine's a Raythean Challenger Hellcat high-performance operation platform...
+[name="클로저"]  베이스 모델은 레이시언 프로보카퇴르 라바캣 데빌 퍼포먼스 모델 작업 플랫폼이야.
 
 [name="可露希尔"]  上面已经有一个定制的全量热力法术冲击发生器了......
+[name="クロージャ"]  そこにカスタムした全量エネルギーアーツショック発生器を載せたんだよ……
+[name="Closure"]  Topside already has a custom-ordered full-thermal Arts impact generator...
+[name="클로저"]  위에는 주문 제작한 전량 에너지 아츠 쇼크 발생기가 있어.
 
 [name="可露希尔"]  但那个效果不太理想，所以需要你帮帮忙......
+[name="クロージャ"]  だけど期待した効果が得られないから手伝ってほしいなって……
+[name="Closure"]  But it's not working a hundred percent perfect, so I need your help...
+[name="클로저"]  하지만 효과가 생각보다 별로라서, 네 도움이 필요해서 그만……
 
 [name="可露希尔"]  呜呜呜呜......
+[name="クロージャ"]  うううう……
+[name="Closure"]  Uwaaahh...
+[name="클로저"]  흐흑 흐흑……
 
 [name="梅尔"]  哦好吧。
+[name="メイヤー"]  わかったよ。
+[name="Mayer"]  Yeah, okay.
+[name="메이어"]  아. 알았어.
 
 [name="梅尔"]  你先闻一下这个。
+[name="メイヤー"]  とりあえずホラ、これを嗅いで。
+[name="Mayer"]  Just take a sniff of this first.
+[name="메이어"]  일단 이 냄새를 맡아봐.
 
 [name="可露希尔"]  好的呜呜呜......
+[name="クロージャ"]  うん……うううっ……
+[name="Closure"]  Okaaaayhhh...
+[name="클로저"]  응. 훌쩍 훌쩍……
 
 [name="可露希尔"]  （吸气）
+[name="クロージャ"]  （息を吸う）
+[name="Closure"]  (Inhale)
+[name="클로저"]  스으으읍……
 
 [name="可露希尔"]  ！
+[name="クロージャ"]  ！
+[name="Closure"]  !
+[name="클로저"]  !
 
 [name="可露希尔"]  这是！
+[name="クロージャ"]  これは！
+[name="Closure"]  I know this!
+[name="클로저"]  이건!
 
 [name="可露希尔"]  （深吸一口气）
+[name="クロージャ"]  （深く吸う）
+[name="Closure"]  (Takes a deep breath)
+[name="클로저"]  스으으으읍……
 
 [name="梅尔"]  好了没有？
+[name="メイヤー"]  落ち着いた？
+[name="Mayer"]  You better now?
+[name="메이어"]  다 됐어?
 
 [name="可露希尔"]  哈啊~~~~
+[name="クロージャ"]  はぁ～～～～。
+[name="Closure"]  Hahhhh~~~~
+[name="클로저"]  하아~~~
 
 [name="可露希尔"]  好了！
+[name="クロージャ"]  落ち着いたよ！
+[name="Closure"]  Better!
+[name="클로저"]  됐다!
 
 [name="可露希尔"]  欸嘿嘿嘿，谢谢梅尔。
+[name="クロージャ"]  えへへ、ありがとメイヤー。
+[name="Closure"]  Eheheheh. Thanks, Mayer.
+[name="클로저"]  에헤헤헤, 고마워, 메이어.
 
 [name="梅尔"]  你再这样哭下去没法谈生意啊。
+[name="メイヤー"]  あんなにずっと泣かれてちゃ、仕事の話ができないからね。
+[name="Mayer"]  We're not gonna get any business done with you bawling your eyes out.
+[name="메이어"]  계속 이렇게 울면 비즈니스 얘기를 할 수가 없잖아.
 
 [name="可露希尔"]  也是也是，嘿嘿。
+[name="クロージャ"]  うん、そうだよね……えへへ。
+[name="Closure"]  True that, heheh.
+[name="클로저"]  그건 그래. 헤헤.
 
 [name="梅尔"]  也不知道你为什么那么喜欢闻我这儿的精炼润滑油......
+[name="メイヤー"]  なんでそんなにこの精錬グリースを嗅ぐのが好きなの……
+[name="Mayer"]  Still dunno why you love sniffing the refined lubricant I have in here...
+[name="메이어"]  대체 왜 여기 정제 윤활유 냄새를 그렇게 좋아하는지, 도통 모르겠다니깐.
 
 [name="可露希尔"]  那当然是因为好闻啦。
+[name="クロージャ"]  もちろんイイ匂いだからに決まってるじゃない。
+[name="Closure"]  Well, 'cause it smells good, duh.
+[name="클로저"]  그거야 당연히 냄새가 좋으니까 그렇지.
 
 [name="梅尔"]  看来华法琳说的没错，你血管里没有血，只有机油。
+[name="メイヤー"]  ワルファリンが言ってた通り、君の血管に流れてるのは血じゃなくてオイルなんだろうね。
+[name="Mayer"]  Guess Warfarin wasn't wrong. There's no blood in your veins, just machine oil.
+[name="메이어"]  와파린 말이 맞았네. 네 혈관에는 피가 아닌 기계 오일만 흐르는 거 같아.
 
 [name="梅尔"]  不说了，谈正事。
+[name="メイヤー"]  まぁそんなのはいっか……仕事の話をしよう。
+[name="Mayer"]  Enough of that. Let's get real.
+[name="메이어"]  그 얘긴 그만하고, 본론으로 들어가자.
 
 [name="可露希尔"]  好叻。
+[name="クロージャ"]  オッケー。
+[name="Closure"]  Aye-aye.
+[name="클로저"]  그래.
 
 [name="梅尔"]  是需要我给雷神挑衅者做改装，提高攻击能力对吧。
+[name="メイヤー"]  プロバカートルを改造してほしいんだよね。攻撃力を上げたい、そうでしょ？
+[name="Mayer"]  You need me to refit the Raythean Challenger. Raise its attack power. Right?
+[name="메이어"]  내가 레이시언 프로보카퇴르를 개조해서 공격력을 높여야 한다는 거잖아.
 
 [name="可露希尔"]  还有自我防卫、受击抗性和战场脱离方案的设计，毕竟是要植入智能的好小伙，可不能用一次就坏了。
+[name="クロージャ"]  あと自己防衛ルーチンとダメージ耐性、戦場離脱プログラムの設計もお願い。AIを搭載する子だからさ、簡単に壊れてもらっちゃ困るんだよね。
+[name="Closure"]  Also, self-defense, damage resist, and evac plans. After all, we're gonna put a smart little guy in there. Can't have it breaking after one use.
+[name="클로저"]  그리고 자기방어, 피해 저항, 전장 탈출 방안 설계도 있어. 지능도 있는 좋은 녀석인데 한 번 쓰고 고장 내면 안 되지.
 
 [name="梅尔"]  那你是找对人了。
+[name="メイヤー"]  そりゃ確かに私にピッタリの案件だね。
+[name="Mayer"]  Then you came to the right person.
+[name="메이어"]  그럼 제대로 찾아왔네.
 
 [name="梅尔"]  那么，报酬呢。
+[name="メイヤー"]  で、報酬は？
+[name="Mayer"]  Now. My reward?
+[name="메이어"]  자~ 그래서, 보수는?
 
 [name="可露希尔"]  你记不记得机库那里有一间小储物间啊，只要你——
+[name="クロージャ"]  格納庫に小さな物置があるの覚えてるかな、あそこを――
+[name="Closure"]  Remember how there was a little hoard in the hangar? As long as you—
+[name="클로저"]  격납고에 있는 작은 창고 기억해? 네가……
 
 [name="梅尔"]  这活我接了！
+[name="メイヤー"]  引き受けた！
+[name="Mayer"]  I'll take the job!
+[name="메이어"]  할게!
 
 [name="可露希尔"]  嘿嘿，合作愉快。
+[name="クロージャ"]  へへ、それじゃよろしくね～。
+[name="Closure"]  Heheh. Let's get along, partner.
+[name="클로저"]  헤헤, 호흡이 잘 맞네.
 
 [name="梅尔"]  愉快愉快~
+[name="メイヤー"]  アイアイサ～――
+[name="Mayer"]  Gettin' along, gettin' along~
+[name="메이어"]  잘 부탁합니다~
 
 [name="梅尔"]  但是呢。
+[name="メイヤー"]  と言いたいとこだけど……
+[name="Mayer"]  But, uh.
+[name="메이어"]  그런데 말이야.
 
 [name="可露希尔"]  啊？
+[name="クロージャ"]  えっ？
+[name="Closure"]  What?
+[name="클로저"]  응?
 
 [name="梅尔"]  你看到那边的黑板了么。
+[name="メイヤー"]  あそこの黒板を見て。
+[name="Mayer"]  See the blackboard over there?
+[name="메이어"]  저기 칠판 좀 봐봐.
 
 [name="可露希尔"]  贴满纸的那块？
+[name="クロージャ"]  紙がいっぱい貼ってあるやつ？
+[name="Closure"]  Covered in sticky notes?
+[name="클로저"]  종이가 잔뜩 붙어있는 저거?
 
 [name="梅尔"]  是。
+[name="メイヤー"]  そうそう。
+[name="Mayer"]  Yeah.
+[name="메이어"]  응.
 
 [name="梅尔"]  那是我的排期表。
+[name="メイヤー"]  あれは私のスケジュール表なんだけど。
+[name="Mayer"]  That's my schedule.
+[name="메이어"]  저게 내 일정표야.
 
 [name="梅尔"]  就算加急，你的需求也在最后一张纸的右下角。
+[name="メイヤー"]  急ぎの案件だとしても、一番右下で順番待ちすることになっちゃうんだよね。
+[name="Mayer"]  Even if as a rush job, your commission still lands bottom-right of the very last note.
+[name="메이어"]  아무리 급해도 네 부탁은 마지막 종이 맨 아래 우측 하단에 붙게 될 거야.
 
 [name="可露希尔"]  啊——
+[name="クロージャ"]  あー……
+[name="Closure"]  Uhh—
+[name="클로저"]  아……
 
 [name="可露希尔"]  能再插个队吗？
+[name="クロージャ"]  もうちょっと優先的にスケジュール調整できないの？
+[name="Closure"]  Any way I can jump the queue?
+[name="클로저"]  새치기 좀 하면 안 될까?
 
 [name="梅尔"]  不行。
+[name="メイヤー"]  できないんだなー。
+[name="Mayer"]  No, sirree.
+[name="메이어"]  안 돼.
 
 [name="可露希尔"]  也就是说，两个月之后。
+[name="クロージャ"]  つまり、二ヶ月後ってことだね。
+[name="Closure"]  So in other words, two months.
+[name="클로저"]  지금 저 정도 순서면, 두 달 뒤란 얘기잖아.
 
 [name="梅尔"]  快的话五十天。
+[name="メイヤー"]  まぁ、早ければ五十日かな。
+[name="Mayer"]  Work fast, it'll be fifty days.
+[name="메이어"]  빠르면 50일.
 
 [name="可露希尔"]  嗯？
+[name="クロージャ"]  ん？
+[name="Closure"]  Huh?
+[name="클로저"]  응?
 
 [name="可露希尔"]  你工作速度那么快的吗？！
+[name="クロージャ"]  あんなたくさんの仕事をたった五十日で！？
+[name="Closure"]  Do you really work that fast?!
+[name="클로저"]  일하는 속도가 그렇게 빠르다고?!
 
 [name="梅尔"]  还好吧，有时候灵感一来活就做完了。
+[name="メイヤー"]  まぁね。インスピレーションさえ降りてくれば、すぐに終わらせられることもあるから。
+[name="Mayer"]  Decently. Sometimes inspiration hits and the work's done.
+[name="메이어"]  그럭저럭. 아이디어가 떠올라서 일을 바로 끝낼 때도 있으니까.
 
 [name="可露希尔"]  呃......那我不打扰你了......
+[name="クロージャ"]  うう……じゃあとにかくお願い……あたしはそろそろ帰るね……
+[name="Closure"]  Er... I'll leave you to it, then...
+[name="클로저"]  아…… 그럼 방해 안 할게……
 
 [name="可露希尔"]  加油工作哦！
+[name="クロージャ"]  お仕事頑張ってね！
+[name="Closure"]  Good luck with work!
+[name="클로저"]  화이팅!
 
 [name="梅尔"]  等等！
+[name="メイヤー"]  ちょっと待って！
+[name="Mayer"]  Hold it!
+[name="메이어"]  잠깐!
 
 [name="可露希尔"]  嗯？
+[name="クロージャ"]  なに？
+[name="Closure"]  Huh?
+[name="클로저"]  응?
 
 [name="梅尔"]  你先帮我把门格式化，我要重新调整。
+[name="メイヤー"]  帰る前にドアをフォーマットしてってよ、設定し直すから。
+[name="Mayer"]  You format the door for me first. I need to do its settings over.
+[name="메이어"]  일단 문 좀 포맷해 줘. 다시 조정해야 하니까.
 
 [name="梅尔"]  还有，把你的最高权限去掉。
+[name="メイヤー"]  あと、君の管理者権限も消しといて。
+[name="Mayer"]  Also, strip your sys-op authority off it.
+[name="메이어"]  그리고 네 최고 권한도 삭제하고.
 
 [name="梅尔"]  现在、立刻、马上。
+[name="メイヤー"]  今すぐ。この場で。
+[name="Mayer"]  Right now. Straight away. Giddy up.
+[name="메이어"]  지금, 바로, 당장.
 
 [name="可露希尔"]  啊——
+[name="クロージャ"]  えぇ――
+[name="Closure"]  Uhh—
+[name="클로저"]  에에……
 
 [name="可露希尔"]  好......
+[name="クロージャ"]  わかったよぉ……
+[name="Closure"]  Awright...
+[name="클로저"]  알았어, 하면 되잖아……
 
 两小时后
+2時間後
+Two hours later...
+2시간 후
 
 [name="梅尔"]  还有最后一小块——
+[name="メイヤー"]  あとは最後の仕上げっと――
+[name="Mayer"]  Just the laaast bit—
+[name="메이어"]  그리고 마지막 하나……
 
 叮咚
+（ドアをノックする音）
+Ding dong!
+딩동
 
 [name="麦哲伦"]  梅尔，是我。
+[name="マゼラン"]  メイヤーちゃーん、いないのー？
+[name="Magallan"]  Mayer, it's me.
+[name="마젤란"]  메이어, 나야~
 
 [name="麦哲伦"]  唔......
+[name="マゼラン"]  うーん……
+[name="Magallan"]  Um...
+[name="마젤란"]  음……
 
 [name="麦哲伦"]  你换密码了吗，门怎么开不了？
+[name="マゼラン"]  なんでドアが開かないんだろう……パスワード変わった？
+[name="Magallan"]  Did you change the password? Is that why the door's not opening?
+[name="마젤란"]  비밀번호 바꿨나? 문이 왜 안 열리지?
 
 [name="梅尔"]  这下应该差不多了。
+[name="メイヤー"]  これで大体オッケーっと。
+[name="Mayer"]  And that should be about done.
+[name="메이어"]  이제 거의 다 됐다.
 
 [name="梅尔"]  啊？门口有谁在吗？
+[name="メイヤー"]  あれ？　そこに誰かいるの？
+[name="Mayer"]  Huh? Someone at the door again?
+[name="메이어"]  어? 입구에 누가 있나?
 
 [name="麦哲伦"]  是我！
+[name="マゼラン"]  あたしだよ！
+[name="Magallan"]  It's me!
+[name="마젤란"]  나야!
 
 [name="梅尔"]  麦麦！门坏了！摁门旁按钮进来吧！
+[name="メイヤー"]  マゼランちゃん？　あ、今ドアが壊れてるから、横にあるボタンを押して入ってきて！
+[name="Mayer"]  Maggy! The door's broken! Push the button on the side and come in!
+[name="메이어"]  마젤란! 문 고장 났어! 문 옆에 버튼 있으니까, 그거 누르고 들어와!
 
 [name="麦哲伦"]  你好呀。
+[name="マゼラン"]  やっほー。
+[name="Magallan"]  Hi, you.
+[name="마젤란"]  안녕~
 
 [name="梅尔"]  好啊。
+[name="メイヤー"]  どーもー。
+[name="Mayer"]  Heyo.
+[name="메이어"]  어 왔어?
 
 [name="梅尔"]  我这边还在忙塞雷娅的东西，就不招待你了。
+[name="メイヤー"]  ごめんね。今サリアの件で忙しくて、おもてなしできないんだよ。
+[name="Mayer"]  I'm still busy with something for Saria here. Can't lay out the carpet for you.
+[name="메이어"]  지금 사리아 물건 때문에 바쁘니까 대접은 안 할게.
 
 [name="梅尔"]  那么，找我有事？
+[name="メイヤー"]  ところで、何か用？
+[name="Mayer"]  So, you need something from me?
+[name="메이어"]  근데 무슨 일로?
 
 [name="麦哲伦"]  我可是有预约的。
+[name="マゼラン"]  予約してあるんだけどな……
+[name="Magallan"]  I made a reservation.
+[name="마젤란"]  무슨 일이냐니, 이래 봬도 예약하고 온 건데.
 
 [name="麦哲伦"]  无人机方案，做得怎么样啦。
+[name="マゼラン"]  ドローンのプラン、どんな感じ？
+[name="Magallan"]  Drone plans. Wondering how they're doing?
+[name="마젤란"]  드론 방안은 어떻게 됐어?
 
 [name="梅尔"]  啊......哦！
+[name="メイヤー"]  あっ……そうだった！
+[name="Mayer"]  Huh... oh!
+[name="메이어"]  아…… 아!
 
 [name="梅尔"]  那个，已经做完了。
+[name="メイヤー"]  それならもうできてるよ。
+[name="Mayer"]  That. Already done.
+[name="메이어"]  그건 이미 다 끝냈어.
 
 [name="梅尔"]  列举了一点技术要点、改进方案和材料需求，全都在桌上的那个文件袋里了，你先看看，没有问题就可以约新时间帮你做些配件了。
+[name="メイヤー"]  技術的要件と改善プラン、あと必要材料を一通りリストアップしてあるよ。全部テーブルの上のファイルケースに入ってるから、確認してみて。
+[name="Mayer"]  Listed out some technical essentials, improvement proposals and required materials. Everything's in that file on the table there. You look through, and if it's all good, we can set up a new time to help you make some fitting parts.
+[name="메이어"]  몇 가지 기술 요점, 개선 방안과 필요 재료를 정리해뒀어. 테이블 위에 있는 봉투에 다 있으니까 한 번 봐봐. 문제없으면 새로 약속 잡고 부품을 만들어 줄게.
 
 [name="梅尔"]  要是有问题的话我们找个时间聊聊细节。
+[name="メイヤー"]  問題なければ改善プランに沿ってパーツ製作するから、改めて依頼を出してね。要望とか質問があれば時間を作って話そう。
+[name="Mayer"]  If you've got issues with it, we'll have a meeting about it.
+[name="메이어"]  혹시 문제 있으면, 나중에 시간 내서 자세히 얘기하자.
 
 [name="麦哲伦"]  好呀，谢谢梅尔。
+[name="マゼラン"]  オッケー、ありがとうメイヤーちゃん。
+[name="Magallan"]  Rightie. Thanks, Mayer.
+[name="마젤란"]  그래. 고마워, 메이어.
 
 [name="麦哲伦"]  那是哪张桌子的哪个文件袋呢？
+[name="マゼラン"]  えーっと、テーブルってどのテーブル？
+[name="Magallan"]  Which file on which table is it?
+[name="마젤란"]  그런데 어느 테이블의 어느 봉투야?
 
 [name="梅尔"]  那个那个。
+[name="メイヤー"]  あれだよあれ。ロボットアームが指してるあれ。
+[name="Mayer"]  That one, that one.
+[name="메이어"]  저거, 저거.
 
 [name="麦哲伦"]  你机械臂指的位置至少有四张桌子，我怎么知道是哪个嘛。
+[name="マゼラン"]  そっちにはテーブルが四つもあるし、どれかわからないよ。
+[name="Magallan"]  Your mechanical arms are pointing at at least four different tables. How should I know which one?
+[name="마젤란"]  네 로봇 손가락이 가리키는 곳에 테이블만 최소 4개야. 뭐가 뭔지 내가 어떻게 알아.
 
 [name="麦哲伦"]  梅尔——
+[name="マゼラン"]  ちょっとメイヤーちゃん――
+[name="Magallan"]  Mayeeer—
+[name="마젤란"]  메이어~~
 
 [name="梅尔"]  啊别拉，我还在弄涂料！
+[name="メイヤー"]  あっ、引っ張らないで、まだ塗装中なんだから！
+[name="Mayer"]  Ahhh don't pull me! I'm still painting here!
+[name="메이어"]  당기지 마, 페인팅 중이잖아!
 
 [name="麦哲伦"]  涂料过一会也可以涂的，先帮我找找文件袋好不好？
+[name="マゼラン"]  塗装はあとでもいいでしょ、先にどのファイルか教えてよー。
+[name="Magallan"]  You can leave paint and keep painting later. Help me find the files first, okay?
+[name="마젤란"]  페인팅은 나중에 해도 되잖아. 일단 봉투부터 찾아주면 안 될까?
 
 [name="麦哲伦"]  梅尔~~
+[name="マゼラン"]  メイヤーちゃ～～ん。
+[name="Magallan"]  Mayeeeer~~
+[name="마젤란"]  메이어~어~
 
 [name="梅尔"]  我知道啦。
+[name="メイヤー"]  わかったよもう。
+[name="Mayer"]  I get it.
+[name="메이어"]  알았어 쫌!
 
 [name="麦哲伦"]  嗯，谢谢~
+[name="マゼラン"]  ありがとう〜。
+[name="Magallan"]  Mm-hm. Thankies~
+[name="마젤란"]  응, 고마워~
 
 [name="梅尔"]  嗯——是这个。
+[name="メイヤー"]  うーんとね……これ。
+[name="Mayer"]  Mmn—it's this one.
+[name="메이어"]  ……이거야.
 
 [name="麦哲伦"]  哦......
+[name="マゼラン"]  ん……？
+[name="Magallan"]  Oh...
+[name="마젤란"]  아……
 
 [name="麦哲伦"]  这个是你上个月的报销清单哦。
+[name="マゼラン"]  これは先月の君のオーダーリストだよ。
+[name="Magallan"]  These are your expensed items for last month.
+[name="마젤란"]  이건 지난달 결산 명세서잖아.
 
 [name="梅尔"]  啊抱歉，其实是这个。
+[name="メイヤー"]  あっ！　ごめんごめん、こっちだった。
+[name="Mayer"]  Oh, sorry. I meant this one.
+[name="메이어"]  아, 미안. 사실은 이거야.
 
 [name="麦哲伦"]  嗯......
+[name="マゼラン"]  うーんと……
+[name="Magallan"]  Mmm...
+[name="마젤란"]  음……
 
 [name="麦哲伦"]  对了！
+[name="マゼラン"]  うん！
+[name="Magallan"]  Yep, that's it!
+[name="마젤란"]  맞아!
 
 [name="麦哲伦"]  谢谢你梅尔！
+[name="マゼラン"]  ありがとうメイヤーちゃん！
+[name="Magallan"]  Thank you, Mayer!
+[name="마젤란"]  고마워, 메이어!
 
 [name="梅尔"]  没什么啦，应该的。
+[name="メイヤー"]  いやいや大したことないよ、当然のことだって。
+[name="Mayer"]  Ain't no thang. Just what I oughta do.
+[name="메이어"]  아니야. 당연한 건데 뭘.
 
 [name="麦哲伦"]  那我先走了，拜拜。
+[name="マゼラン"]  忙しいとこ邪魔しちゃったね、それじゃバイバーイ。
+[name="Magallan"]  Then I'll be heading out now. Bye-bye.
+[name="마젤란"]  그럼 나 먼저 갈게. 바이 바이~
 
 [name="麦哲伦"]  啊。
+[name="マゼラン"]  ……あっ！
+[name="Magallan"]  Ah.
+[name="마젤란"]  아.
 
 [name="麦哲伦"]  最重要的事差点忘记了！
+[name="マゼラン"]  一番大事なことを忘れるとこだった！
+[name="Magallan"]  I almost forgot the most important part!
+[name="마젤란"]  제일 중요한 걸 깜빡할 뻔했네!
 
 [name="麦哲伦"]  我问你，现在几点了？
+[name="マゼラン"]  ねぇねぇ、今って何時だと思う？
+[name="Magallan"]  Can I ask you what the time is right now?
+[name="마젤란"]  지금 몇 시야?
 
 [name="梅尔"]  中午吧。
+[name="メイヤー"]  お昼前くらいかな。
+[name="Mayer"]  Noon, right?
+[name="메이어"]  정오 아냐?
 
 [name="麦哲伦"]  是下午！
+[name="マゼラン"]  とっくに午後だよ！
+[name="Magallan"]  Afternoon already!
+[name="마젤란"]  벌써 오후라고!
 
 [name="麦哲伦"]  梅尔，你吃饭了吗？
+[name="マゼラン"]  メイヤーちゃん、ご飯食べた？
+[name="Magallan"]  Mayer, have you eaten yet?
+[name="마젤란"]  메이어, 밥은 먹었어?
 
 [name="梅尔"]  啊？我嘛？我吃根能量棒就好。
+[name="メイヤー"]  え、私？　私はエナジーバーを食べるから大丈夫。
+[name="Mayer"]  Huh? You mean me? I eat an energy bar and I'm fine.
+[name="메이어"]  어? 나? 난 에너지바 하나만 먹으면 돼.
 
 [name="麦哲伦"]  那怎么行！
+[name="マゼラン"]  大丈夫じゃないよ！
+[name="Magallan"]  That's no good!
+[name="마젤란"]  어떻게 그래!
 
 [name="麦哲伦"]  给，拿着！
+[name="マゼラン"]  はい、これ！
+[name="Magallan"]  Here, take this!
+[name="마젤란"]  자, 받아!
 
 [name="梅尔"]  这是？
+[name="メイヤー"]  何これ？
+[name="Mayer"]  This is?
+[name="메이어"]  이건?
 
 [name="麦哲伦"]  食堂买的，今天有你喜欢吃的河鲜。
+[name="マゼラン"]  食堂で買ってきたの。今日は川の幸の盛り合わせがあったからさ。大好物でしょ？
+[name="Magallan"]  I bought it at the cafeteria. They had the freshwater stuff you love today.
+[name="마젤란"]  식당에서 샀어. 오늘은 네가 좋아하는 민물 생선이 있더라고.
 
 [name="麦哲伦"]  本来想请你一起吃的，结果我自己也把时间忙忘了......
+[name="マゼラン"]  本当は一緒に食べたかったんだけど、あたしも忙しくてつい誘うの忘れちゃってたんだよね……
+[name="Magallan"]  I wanted you to come eat with me, but then I lost track of time myself...
+[name="마젤란"]  원래는 너랑 같이 먹고 싶었는데, 나도 바빠서 깜빡했지 뭐야.
 
 [name="麦哲伦"]  所以吃完以后打包了一份过来。
+[name="マゼラン"]  食べ終わってからそれに気付いて、テイクアウトしてきたんだよ。
+[name="Magallan"]  So after I finished eating, I got a portion bagged up to bring over.
+[name="마젤란"]  그래서 다 먹고 1인분 포장해온 거야.
 
 [name="梅尔"]  唔唔，谢谢。
+[name="メイヤー"]  わあ、ありがとう。
+[name="Mayer"]  Ooh, thanks.
+[name="메이어"]  오~ 고마워.
 
 [name="麦哲伦"]  一定要吃啊。
+[name="マゼラン"]  ちゃんと食べてね。
+[name="Magallan"]  Make sure you eat it.
+[name="마젤란"]  꼭 먹어야 된다?
 
 [name="梅尔"]  嗯，我会的。
+[name="メイヤー"]  うん、わかった。
+[name="Mayer"]  Mm-hm, I will.
+[name="메이어"]  응, 그럴게.
 
 [name="麦哲伦"]  ......
+[name="マゼラン"]  ……
+[name="Magallan"]  ......
+[name="마젤란"]  ……
 
 [name="梅尔"]  还有什么事吗？
+[name="メイヤー"]  まだ何かあるの？
+[name="Mayer"]  Anything else?
+[name="메이어"]  또 무슨 일 있어?
 
 [name="麦哲伦"]  这是塞雷娅的充能护服？
+[name="マゼラン"]  それってサリアのチャージ防護服？
+[name="Magallan"]  Is this Saria's Charged Suit?
+[name="마젤란"]  이거 사리아의 충전 방호복 아니야?
 
 [name="梅尔"]  是啊。
+[name="メイヤー"]  そうだよ。
+[name="Mayer"]  That it is.
+[name="메이어"]  맞아.
 
 [name="麦哲伦"]  你大概还要做多久？
+[name="マゼラン"]  あとどれくらいかかるの？
+[name="Magallan"]  How much longer will you be working?
+[name="마젤란"]  대충 얼마나 걸릴까?
 
 [name="梅尔"]  一两个小时吧。
+[name="メイヤー"]  一、二時間くらいかな。
+[name="Mayer"]  An hour or two-ish.
+[name="메이어"]  한두 시간 정도.
 
 [name="麦哲伦"]  那可不行，我帮你一起弄。
+[name="マゼラン"]  そんなの餓死しちゃうよ！　あたしも手伝うよ。
+[name="Magallan"]  Well, that's no good. Let me help you out there.
+[name="마젤란"]  그럼 안 되지. 내가 도와줄게.
 
 [name="梅尔"]  没事，我可以的。
+[name="メイヤー"]  大丈夫だって、私は平気だから。
+[name="Mayer"]  It's fine, I can do it.
+[name="메이어"]  괜찮아, 내가 할 수 있어.
 
 [name="麦哲伦"]  要么让我帮你一起弄，要么我喂你吃饭，选吧。
+[name="マゼラン"]  あたしに手伝わせるか、あたしに食べさせられながら作業するか、選んで。
+[name="Magallan"]  Either you let me help you, or I feed you your meal. Pick one.
+[name="마젤란"]  내가 같이 도와줄까? 아니면 내가 밥을 먹여줄까? 선택해.
 
 [name="梅尔"]  呃......
+[name="メイヤー"]  ええ……
+[name="Mayer"]  Ugh...
+[name="메이어"]  윽……
 
 [name="梅尔"]  好了我知道了拜托你了！
+[name="メイヤー"]  わかったよ、じゃあ手伝ってくれる？
+[name="Mayer"]  Alright fine I get it! Give me a hand.
+[name="메이어"]  알았어. 그럼 부탁할게.
 
 [name="麦哲伦"]  嘻嘻~
+[name="マゼラン"]  えへへ～、いいよ。
+[name="Magallan"]  Hehe~
+[name="마젤란"]  히히~
 
 [name="麦哲伦"]  那我们就开工吧~
+[name="マゼラン"]  さっそく始めよっか。
+[name="Magallan"]  Then let's get to work~
+[name="마젤란"]  그럼 시작하자~
 
 [name="梅尔"]  呼，完工。
+[name="メイヤー"]  ふぅ、終わったー！
+[name="Mayer"]  Phew. We're done.
+[name="메이어"]  후, 끝났다.
 
 [name="麦哲伦"]  辛苦啦。
+[name="マゼラン"]  お疲れ様〜！
+[name="Magallan"]  Good work.
+[name="마젤란"]  수고했어.
 
 [name="梅尔"]  过来洗手。
+[name="メイヤー"]  よし、手を洗っちゃおう。
+[name="Mayer"]  C'mere and wash your hands.
+[name="메이어"]  와서 손 씻어.
 
 [name="麦哲伦"]  好——
+[name="マゼラン"]  うん――
+[name="Magallan"]  Alright—
+[name="마젤란"]  그래.
 
 [name="梅尔"]  哈......也就只有这个时候，才会怀念莱茵的全自动清洁设备。
+[name="メイヤー"]  こういう時だけは、ライン生命の全自動洗浄装置を恋しく思うよ。
+[name="Mayer"]  *Sigh*... It's only times like these I miss all of Rhine's self-cleaning facilities.
+[name="메이어"]  하…… 이럴 때는 라인 랩의 전자동 청결 설비가 그립더라.
 
 [name="麦哲伦"]  那为什么不回去呢？
+[name="マゼラン"]  どうして戻らないの？
+[name="Magallan"]  So why don't you go back?
+[name="마젤란"]  근데 왜 안 돌아가?
 
 [name="梅尔"]  回去了就要被安排一大堆麻烦的工作，都没时间改进咪波。
+[name="メイヤー"]  戻ったら面倒くさい仕事をたくさん押し付けられるからね。ミーボを改造する時間がなくなっちゃう。
+[name="Mayer"]  If I went back, they'd set me up with a mountain of annoying work, and I'd have no time to improve my Meeboos.
+[name="메이어"]  돌아가면 성가신 일들이 잔뜩 있어서 미보를 보완할 시간이 없거든.
 
 [name="梅尔"]  而且，在那边还要处理人际关系。
+[name="メイヤー"]  それに、あっちだと人間関係も面倒だしね。
+[name="Mayer"]  And, like, I had to deal with interpersonal stuff there too.
+[name="메이어"]  게다가 거기에선 인맥도 신경 써야 한다고.
 
 [name="麦哲伦"]  这里也需要啊。
+[name="マゼラン"]  それはロドスにもあるでしょ。
+[name="Magallan"]  Like you don't have to here?
+[name="마젤란"]  그건 여기도 마찬가지잖아.
 
 [name="梅尔"]  你出外勤比较多，对部门间的争斗不熟悉。
+[name="メイヤー"]  君は外勤が多いから、部署間の対立の闇を知らないんだよ。
+[name="Mayer"]  You're always out on fieldwork. You don't know all the politics and warring between sections.
+[name="메이어"]  넌 외근이 많아서 부서 간 다툼이 낯설 거야.
 
 [name="梅尔"]  在那里啊，今天认识个新朋友，回头就会有人和你说：“这个人是某某部门的关系，你离他远点比较好。”
+[name="メイヤー"]  あそこはね、新しく誰かと知り合ったら、別の人に「あの人はどこそこの部署と関係があるから、距離を置いた方がいい」って言われるような場所なんだ。
+[name="Mayer"]  Over there, right? You'd make a new friend one day, turn around, and bam, someone tells you 'they're from the blah-blah section, best you stay away from them.'
+[name="메이어"]  거기에서는 오늘 새로운 친구를 사귀면, 나중에 누군가 너한테 “그 사람은 어떤 부서의 인맥이니까, 멀리하는 게 좋아.”…… 이런 소리를 해.
 
 [name="梅尔"]  更可怕的是，就算同一个部门，有时候也要因为上司间的竞争关系尔虞我诈。
+[name="メイヤー"]  それにもっと恐ろしいのは、たとえ同じ部署内の同僚だとしても、上司間の争いのせいで騙し合いになることだってあるんだ。
+[name="Mayer"]  And what's worse is even if you're in the same section, sometimes your bosses are competing and you're all trying to drag each other down.
+[name="메이어"]  더 무서운 건 같은 부서라도 상사 간의 경쟁 관계 때문에 서로 속고 속일 때가 있다는 거야.
 
 [name="梅尔"]  我是真的不擅长应付这些事。
+[name="メイヤー"]  私そういうのほんと苦手なんだよねー。
+[name="Mayer"]  That's stuff I'm, like, just not good at dealing with.
+[name="메이어"]  난 정말 그런 일에 서투르거든.
 
 [name="梅尔"]  所以就溜到这里来了。
+[name="メイヤー"]  だからここに逃げてきちゃったってわけ。
+[name="Mayer"]  So I ended up scarpering here.
+[name="메이어"]  그래서 여기로 도망친 거야.
 
 [name="麦哲伦"]  是这样啊......
+[name="マゼラン"]  そうだったんだ……
+[name="Magallan"]  I see...
+[name="마젤란"]  그렇구나……
 
 [name="麦哲伦"]  对不起，我不该问这些的......
+[name="マゼラン"]  ごめん、こんなこと聞くべきじゃなかったね……
+[name="Magallan"]  Sorry, I shouldn't have asked you about...
+[name="마젤란"]  미안. 괜한 걸 물어봤네……
 
 [name="梅尔"]  没事......
+[name="メイヤー"]  ううん、大丈夫だよ……
+[name="Mayer"]  It's okay...
+[name="메이어"]  아니야……
 
 [name="梅尔"]  好，吃饭。
+[name="メイヤー"]  よし、じゃあご飯をいただこっかな。
+[name="Mayer"]  Alright, let's eat.
+[name="메이어"]  그래, 밥 먹자.
 
 [name="麦哲伦"]  那我也该离开了。
+[name="マゼラン"]  じゃあ、あたしはもう行くね。
+[name="Magallan"]  Then I should be on my way.
+[name="마젤란"]  그럼 나도 가봐야겠다.
 
 [name="麦哲伦"]  咪波，麻烦你监督她一下，不然我一走她又要直接开始干活了。
+[name="マゼラン"]  あ……ミーボ、メイヤーちゃんがしっかり規則正しい食事をするように見張ってて。あたしが出て行ったらすぐに仕事を始めちゃうかもしれないからね。わかった？　おーい？
+[name="Magallan"]  Meeboos, can I ask you to keep an eye on her? Otherwise she'll go straight back to work the moment I'm gone.
+[name="마젤란"]  미보, 귀찮겠지만 감시 좀 해줘. 안 그러면 내가 가자마자 바로 일을 시작할 거야.
 
 [name="梅尔"]  咪波没装语音模块，不会回应你的。
+[name="メイヤー"]  返事はしないって。発声モジュールは付けてないんだから。
+[name="Mayer"]  My Meeboos don't have voice modules. They won't answer you.
+[name="메이어"]  미보는 음성 모듈이 없어서 대답하지 않을 거야.
 
 [name="麦哲伦"]  那也得叮嘱一下。
+[name="マゼラン"]  じゃあわかったってことで。後はよろしくね！！
+[name="Magallan"]  I still have to nag you.
+[name="마젤란"]  그래도 얘기는 해 놔야지.
 
 [name="麦哲伦"]  那么，这次是真的要走了，拜拜。
+[name="マゼラン"]  それじゃ、ほんとに行くね、バイバイ。
+[name="Magallan"]  Okay then. This time I'm really off. Bye-bye.
+[name="마젤란"]  이제 진짜 갈게, 바이 바이~
 
 [name="梅尔"]  拜拜。
+[name="メイヤー"]  バイバーイ。
+[name="Mayer"]  Bye bye.
+[name="메이어"]  어~ 바이 바이~
 
 [name="梅尔"]  嗯，要不先订好零件再吃——
+[name="メイヤー"]  よし。食べるのは部品を発注してからでいいや――
+[name="Mayer"]  Hmm, maybe I should put those part orders through before I eat—
+[name="메이어"]  음, 부품부터 주문하고 먹어야겠다.
 
 [name="梅尔"]  呜哇，咪波你要干什么！
+[name="メイヤー"]  うわぁ！　ミーボ、何するの！？
+[name="Mayer"]  Whuah! What the hell are you doing, Meeboos?!
+[name="메이어"]  으아, 미보 뭐 하는 거야?
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="梅尔"]  只是先干一会活，不会忘记吃饭的。
+[name="メイヤー"]  ちょ、ちょっと発注するだけだよ。ご飯はちゃんと食べるから。
+[name="Mayer"]  It's just a little bit of work. I'm not gonna forget to eat.
+[name="메이어"]  이것만 하고 밥 꼭 먹을게.
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="梅尔"]  呃......
+[name="メイヤー"]  うぅっ……
+[name="Mayer"]  Ugh...
+[name="메이어"]  윽……
 
 [name="梅尔"]  好我知道了，我吃，现在就吃！
+[name="メイヤー"]  わかったよ、食べる、今すぐ食べるから！
+[name="Mayer"]  Fine, I get it, I'm eating, I'm eating now!
+[name="메이어"]  그래, 알았어. 먹을게, 지금 먹을게!
 
 [name="梅尔"]  呼，饱了。好，干活！
+[name="メイヤー"]  ふぅ……お腹いっぱい。よし、仕事仕事！
+[name="Mayer"]  Phew, I'm stuffed. Alright, work!
+[name="메이어"]  후, 배부르다. 자, 일하자!
 
 [name="梅尔"]  嗯，先订材料还是先修咪波？
+[name="メイヤー"]  うーん、先に部品の発注を済ませるか、それともミーボのメンテを始めるか……
+[name="Mayer"]  Mmm, order parts first or fix some Meeboos first?
+[name="메이어"]  음, 재료를 먼저 주문할까, 미보 수리를 먼저 할까?
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="梅尔"]  还是先咪波好了，咪波比较重要。
+[name="メイヤー"]  やっぱりミーボにしよう。ミーボの方が大切だもんね。
+[name="Mayer"]  Meeboos win out, yeah. Meeboos are more important.
+[name="메이어"]  미보부터 봐야겠다. 미보가 더 중요하지.
 
 [name="梅尔"]  过来。
+[name="メイヤー"]  おいで。
+[name="Mayer"]  C'mere.
+[name="메이어"]  이리 온.
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="梅尔"]  我看看——
+[name="メイヤー"]  どれどれ――
+[name="Mayer"]  Lemme see—
+[name="메이어"]  어디 보자……
 
 [name="梅尔"]  补漆、检查布线、数据更新、补充能源。
+[name="メイヤー"]  塗装に配線チェック、データアップデートにエネルギーチャージっと……
+[name="Mayer"]  Touch up paint, inspect wiring, update data, replenish energy.
+[name="메이어"]  페인트칠, 배선 검사, 데이터 업데이트, 에너지 보충.
 
 [name="梅尔"]  维护一只大概需要做这些......
+[name="メイヤー"]  一体メンテするだけでもやること多いなぁー。
+[name="Mayer"]  That's what Meeboo maintenance is made of...
+[name="메이어"]  한 마리 점검하는 데 이 정도면 될 것 같은데……
 
 [name="梅尔"]  ......
+[name="メイヤー"]  ……
+[name="Mayer"]  ......
+[name="메이어"]  ……
 
 [name="梅尔"]  好了！
+[name="メイヤー"]  よし！
+[name="Mayer"]  Better!
+[name="메이어"]  됐다!
 
 [name="梅尔"]  出任务的还有4只，备用的5只也要维护。
+[name="メイヤー"]  任務用のはあと四体か……予備の五体もメンテしちゃおう。
+[name="Mayer"]  Still four more on mission duty, and my five reserve ones need servicing too.
+[name="메이어"]  임무 중인 건 네 마리 더 있고, 예비용 다섯 마리도 점검해야 하네.
 
 [name="梅尔"]  现在几点来着？
+[name="メイヤー"]  今、何時だっけ？
+[name="Mayer"]  What time is it, again?
+[name="메이어"]  지금 몇 시지?
 
 [name="梅尔"]  看来今天能搞定。
+[name="メイヤー"]  まあ、今日中には終わりそうだね。
+[name="Mayer"]  Looks like I can get 'em done today.
+[name="메이어"]  오늘 안에 끝낼 수 있겠다.
 
 [name="梅尔"]  嗯......
+[name="メイヤー"]  うーん……
+[name="Mayer"]  Mmm...
+[name="메이어"]  음……
 
 [name="梅尔"]  应该能搞定。
+[name="メイヤー"]  きっと終わるはず。
+[name="Mayer"]  Probably. Probably can.
+[name="메이어"]  끝낼 수 있을 거야.
 
 [name="梅尔"]  只要别再有人——
+[name="メイヤー"]  これ以上、誰の邪魔も入らなけれ――
+[name="Mayer"]  As long as nobody else—
+[name="메이어"]  또 누가 방해하지만 않는다면……
 
 [name="？？？"]  梅尔！开门！！有活找你！
+[name="？？？"]  メイヤー！　開けてくれ！！　頼みたいことがあるんだ！
+[name="???"]  Mayer! Open up!! Work needs you!
+[name="???"]  메이어! 문 열어! 부탁할 게 있어!
 
 [name="梅尔"]  ——————
+[name="メイヤー"]  ……
+[name="Mayer"]  ——————
+[name="메이어"]  ……!
 
 [name="梅尔"]  怎么又~！@~#！@
+[name="メイヤー"]  なんでまた！@~#！@
+[name="Mayer"]  Oh, c'mon, for fffff~!@~#!@...
+[name="메이어"]  아~ 왜 또~! ㅈ@ㅉ~ㅉ#ㅈ%ㄴ^ㄱ@ㅎㄴ!
 
 [name="梅尔"]  呼，呼。
+[name="メイヤー"]  フゥ、フゥ……
+[name="Mayer"]  *Huff*, *huff*.
+[name="메이어"]  후우, 후우……
 
 [name="梅尔"]  冷静。
+[name="メイヤー"]  落ち着け。落ち着くんだ。
+[name="Mayer"]  Stay cool.
+[name="메이어"]  진정하자.
 
 [name="梅尔"]  吸气——呼气，吸气——呼气。
+[name="メイヤー"]  （深呼吸）スー……ハー……スー……ハー……
+[name="Mayer"]  In—out, in—out.
+[name="메이어"]  심호흡하자…… 스으읍…… 하아…… 스으읍…… 하아……
 
 [name="梅尔"]  微笑~
+[name="メイヤー"]  笑顔、笑顔っと。
+[name="Mayer"]  Smile~
+[name="메이어"]  스마일~
 
 [name="梅尔"]  好了。
+[name="メイヤー"]  よし！
+[name="Mayer"]  Alright.
+[name="메이어"]  됐어.
 
 [name="？？？"]  呦，你在啊梅尔。
+[name="？？？"]  うわっ！　なんだ、やっぱりいたんじゃないかメイヤー！
+[name="???"]  Whoa, so you're in.
+[name="???"]  아, 있었구나. 메이어.
 
 [name="？？？"]  遇上什么好事了笑那么开心？
+[name="？？？"]  なにを楽しそうに笑ってんだ？
+[name="???"]  What's got you all smiles and rainbows?
+[name="???"]  무슨 좋은 일이라도 있어? 즐겁게 웃네?
 
 [name="梅尔"]  你过来，我告诉你。
+[name="メイヤー"]  入って、教えてあげる。
+[name="Mayer"]  You come here. I'll tell you.
+[name="메이어"]  이리 와, 알려줄게.
 
 [name="？？？"]  好啊——
+[name="？？？"]  おう――
+[name="???"]  Sure—
+[name="???"]  그래~
 
 [name="梅尔"]  你看，这是咪波。
+[name="メイヤー"]  ほら、これがミーボだよ。
+[name="Mayer"]  See? This is a Meeboo.
+[name="메이어"]  봐봐, 이건 미보야.
 
 [name="？？？"]  我知道。
+[name="？？？"]  それは知ってるけど……
+[name="???"]  I know.
+[name="???"]  나도 알아.
 
 [name="梅尔"]  把手伸过来，有好东西给你。
+[name="メイヤー"]  手を出して、いいものあげるから。
+[name="Mayer"]  Stick your hand out. It's got something good for you.
+[name="메이어"]  손을 내밀면 너한테 좋은 걸 줄 거야.
 
 [name="？？？"]  唉，真是稀奇，是什么好东西？
+[name="？？？"]  おっ、そりゃあ珍しい。どれどれ？
+[name="???"]  Huh, don't hear that every day. Wonder what it is?
+[name="???"]  어, 희한하네. 좋은 게 뭘까?
 
 [name="梅尔"]  咪波，咬他。
+[name="メイヤー"]  ミーボ、噛みつけ。
+[name="Mayer"]  Meeboo, get his ass.
+[name="메이어"]  미보, 물어.
 
 [name="咪波"]  ——！
+[name="ミーボ"]  ――！
+[name="Meeboos"]  ——!
+[name="미보"]  ……!
 
 [name="？？？"]  啊啊啊别咬我疼疼疼疼疼！！！
+[name="？？？"]  うわああっ！！　なんで噛むんだ！？　あ痛たたたた！！！
+[name="???"]  Aaaaarggh-don't-bite-me-ow-ow-ow-ow-ow!!!
+[name="???"]  으아악, 물지 마. 아파아파아파아아아아!
 
 深夜
+深夜
+Late night
+깊은 밤
 
 [name="梅尔"]  啊——终于。
+[name="メイヤー"]  あーーついに……
+[name="Mayer"]  Ahhh—finally.
+[name="메이어"]  아. 드디어!
 
 [name="梅尔"]  完成了！
+[name="メイヤー"]  終わった〜〜！！
+[name="Mayer"]  All done!
+[name="메이어"]  끝냈다!
 
 [name="梅尔"]  今天早上的计划全部完成！
+[name="メイヤー"]  今朝立てた予定がやっと全部終わったぞー！
+[name="Mayer"]  Everything I planned this morning is all done!
+[name="메이어"]  오늘 아침에 세운 계획을 전부 끝냈어!
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="梅尔"]  啊——那个不算，我刚刚决定把订零件的工作移到明天了。
+[name="メイヤー"]  あ、それはいいよ。部品発注は明日にするってさっき決めたから。
+[name="Mayer"]  Ahh—that doesn't count. I made the executive decision just now to move ordering parts to tomorrow.
+[name="메이어"]  아, 그건 괜찮아. 부품 주문은 내일 하기로 했어.
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="梅尔"]  让我来看看明天要做些什么。
+[name="メイヤー"]  えーと、明日の予定は――
+[name="Mayer"]  Lemme see what I gotta do tomorrow.
+[name="메이어"]  내일 해야 할 일 좀 볼까.
 
 [name="梅尔"]  去采购部订些零件。
+[name="メイヤー"]  まず購買部に行って部品の発注。
+[name="Mayer"]  Go to the Procurement Department and order parts.
+[name="메이어"]  구매부에 가서 부품 주문하기.
 
 [name="梅尔"]  要给医疗部安装实验装置。
+[name="メイヤー"]  医療部の実験装置取り付け。
+[name="Mayer"]  Need to install test equipment for Medical.
+[name="메이어"]  의료부에 실험 장치 설치하기.
 
 [name="梅尔"]  哦，工作台也要重新调试一下。
+[name="メイヤー"]  おっと、作業台も整備し直さないといけないんだった。
+[name="Mayer"]  Oh, gotta debug my workbench again.
+[name="메이어"]  아, 작업대도 다시 테스트해야겠네.
 
 [name="梅尔"]  明天就做这些吧。
+[name="メイヤー"]  明日はこんな感じかな。
+[name="Mayer"]  That should settle tomorrow's lineup.
+[name="메이어"]  내일은 이 정도만 하자.
 
 [name="梅尔"]  现在是......11点36分。
+[name="メイヤー"]  今は……11時36分か。
+[name="Mayer"]  Time is... 11:36.
+[name="메이어"]  지금이…… 11시 36분.
 
 [name="梅尔"]  嗯，是该休息了。
+[name="メイヤー"]  うん、そろそろ休もうかな。
+[name="Mayer"]  Mm, yeah, I should crash.
+[name="메이어"]  음, 쉬어야겠어.
 
 [name="梅尔"]  吃碗泡面就睡觉。
+[name="メイヤー"]  適当にカップラーメンでも食べてから寝よ。
+[name="Mayer"]  Eat a bowl of instant noodles and then sleep.
+[name="메이어"]  컵라면만 먹고 자야지.
 
 [name="梅尔"]  明天见，咪波。
+[name="メイヤー"]  ミーボ、また明日ね。
+[name="Mayer"]  See you tomorrow, Meeboos.
+[name="메이어"]  내일 보자, 미보.
 
 [name="咪波"]  ——
+[name="ミーボ"]  ――！
+[name="Meeboos"]  ——
+[name="미보"]  ……
 
 [name="梅尔"]  啊好疼！
+[name="メイヤー"]  うぎゃーーー！
+[name="Mayer"]  Agh—ow, ow!
+[name="메이어"]  아얏! 아파!
 

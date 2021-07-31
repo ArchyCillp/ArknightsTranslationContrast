@@ -1,292 +1,730 @@
 [Subtitle(text="书接上回，说那跛脚书生败兴而归，自此之后，郁郁不得志。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="――では前回の続きからです。その足の悪い書生は打ちのめされて帰郷し、それ以来、志も果たせず鬱々としていました。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Let us continue where we left off. We tell of the lame scholar's disappointment and return, and henceforth, his melancholy of lost hope.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="저번 이야기를 이어나가지. 절름발이 서생은 실망하여 돌아가고, 좌절로 낙심하게 되는데……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="哪件事？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「志とはなんだ？」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="From whence does his story come?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="어떤 일 때문에 그리되었느냐고?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="自然是画。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「絵を描くことです。」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Naturally, a painting.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그야 당연히 그림 때문 아니겠는가.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="什么画？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「絵だって？」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="What painting?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="무슨 그림이냐고?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="是那书生痛失故友，心如死灰，一蹶不振十数载后，再一次地灵犀一动——他打定心思，殚心竭虑，发誓要完成那幅毕生力作。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="書生が旧友を亡くし、意気消沈して筆を置き十余年、再び彼の心が動きました。そして書生は、全身全霊を尽くして悩み抜いた末、一生ものの力作を完成させようと腹を決めたのです。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The scholar's loss of an old friend, his heart like unto ashes, and his decade of footing astray, before their minds once again moved in concert—he made his resolve, and devoted his mind in full, vowing to finish that lifetime's work.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="친구를 잃고 몹시 절망한 그 서생은, 그렇게 십수 년 동안 일어나지 못하다가 다시 마음을 다잡아, 모든 걸 쏟아부어 필생의 역작을 완성할 것을 맹세하였지.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="要画什么？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「何を描く？」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="To paint what?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="뭘 그렸느냐고?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="要画未见之物。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「まだ誰も見たことのないものを。」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="To paint that never before seen.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="보지 못했던 것을 그리려는 게지.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="要如何画？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「如何にして描く？」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="How would he paint it?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="어떻게 그리려는 거냐고?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="得作未想之想。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「まだ誰も思いついたことのない方法で。」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="He would think thoughts never before thought.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그야, 생각지도 못한 생각을 해야겠지.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="诶，话说到这儿，就有点儿意思了。各位都知道，人所想象之极限，一定是所见所知的经验。要靠想象勾勒出未曾知晓的事物，骗别人简单，骗自己，难如登天。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="さて、面白いことになって参りました。皆さんもご存じでしょう、人間の想像力は自らの経験に囚われています。誰も知らない事物を描くとなると、他人を騙すのは簡単だが、自分を騙すのは難しい。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Ah, now that we're here, this has gotten quite interesting. As you all know, the limits of one's imagination are set at what one has seen, known, experienced. Relying on imagination to trick those, outlining that which is yet unknown, is simple enough. But to do so and trick yourself, that is hard as scaling the heavens.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="여기까지만 이야기해도 벌써 재미있지 않은가. 다들 알다시피 사람의 상상의 한계는 결국 보았거나 알고 있는 것들에 의해서 결정되지. 그러니 상상만으로 알지 못하는 사물을 그려낸다는 건, 자신마저 속여야 하니 하늘의 별 따기만큼이나 어려울 수밖에.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="毕竟这天底下，哪有能想出自己没见过的东西的能人呢？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="この大地のどこに、自分が見たこともないものを思いつく、そんな能力を持った人物がおりましょうか？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="After all, under our heavens, where can you find one capable of thinking something as yet unseen?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="헌데 이 세상에, 자신이 보지 못한 것을 생각해낼 수 있는 사람이 어디 있겠나?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="那书生对着白纸苦思十来天，瘦了足足三十多斤。本就跛脚，形貌越发恐怖。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="書生は、白紙を前にして十日あまり悩み抜き、その間にげっそりと痩せこけてしまいました。元々足を引きずっていたのに加え、その風貌も恐ろしいものになっていきました。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The scholar faced the blank paper and strained his mind for about ten days, losing more than thirty jin of weight. He had already been lame, and his appearance grew ever more fearful.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="백지를 마주하고 십수 일을 더 고심한 서생은, 피골이 상접하는 지경까지 야위어 가뜩이나 절름발이인 그 꼴이 더 흉측하기 그지없었더랬지.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="时入深冬，书生家早已断粮。邻里害怕他那副模样，皆不敢近。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="寒い冬が訪れて、書生の家の食糧はとうとう尽きてしまいました。しかし隣近所も彼の見た目を怖がり、誰も近づこうとしません。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Come the deep winter, the scholar's house had long run out of food. His neighbors feared him, and none dared to approach him.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="때는 한겨울이라 식량은 진작에 떨어졌고, 이웃마저도 그 흉측한 몰골 때문에 가까이할 엄두조차 못 낼 정도였으니.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="直到某天，跛脚书生几度朦胧醒来，四肢无力，却头脑清明。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ある日、書生は何度か意識の混濁を繰り返し、目覚めました。すると手足に力が入らない。ところが頭は非常にはっきりしていることに気づきます。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Until one day, the lame scholar again woke in a haze, his limbs powerless, yet his mind clear.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그러던 어느 날, 절름발이 서생은 몇 번이나 몽롱한 상태에 빠졌다가 깨어났다네. 팔다리는 나른했지만 머리는 오히려 맑았지.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="他深知自己大限将至。环顾四周，家徒四壁，恍惚间，只感觉四下无物，真真正正变成了孑然一身。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼は悟ります。「もはやこれまで」と。そして辺りを見回します。赤貧を洗うがごとき家の中をぼんやり見ていると、周りに何もなく本当に天涯孤独になってしまったと感じるのであります。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="He knew well his limits were soon coming. He looked around him, his home a bare four walls and a dim room, and felt only that all around him was void, that he truly had become alone in the world.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="서생은 자신의 죽음이 머지않았다는 걸 잘 알고 있었지. 허나 주변을 아무리 둘러봐도 너무 가난하여 가진 게 아무것도 없는 것 아니겠나. 정신이 혼미해지는 순간, 사방이 텅 빈 것을 보며 정말 외톨이가 된 것 같았다고 하더군.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="书生逐渐看不见眼前被大雪打湿又冻上的地面，再听不见门窗漏出的风雪动静。睁眼眨眼，落入混沌，感到墙壁正在远游离去，书案消散，笔墨纸砚皆如过眼云烟。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="そして次第に目が見えなくなり、耳も聞こえなくなりました。見えない目を瞬かせながら、彼は混沌に沈みます。絵の案も霧散し、筆も墨も紙も硯も、全部あっという間に煙と消えました。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The scholar gradually became unable to see the floor before him wet and frozen by the snowstorm, unable to hear the biting wind coming through his door and window. He opened his eyes and blinked, fallen into primal chaos, and felt that the walls were wandering far away, his desk dissipating, his brush, paper, ink and stone all ephemeral as smoke.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="눈이 쌓여 얼어붙은 땅바닥이 점점 가물가물해져갔고, 문틈 사이로 새어 나오는 눈보라 소리도 점점 희미해져 갔지. 눈을 깜빡거렸더니 혼란스러워지면서, 벽은 점점 멀어져 가는 것처럼 느껴졌고, 책상은 온데간데없이 사라지고, 붓과 종이와 벼루는 연기처럼 보이는 게 아니겠나.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="某个时刻，他忽然得知了窗外鹅毛大雪的具体数目，得知了月光的角度与云层的真理。他伸手摸索夜幕，又不小心摔倒在地，地面却不再是双脚的阻碍，他坠向地底，而又飞向深空。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="しばらくして、彼は唐突に外の牡丹雪の数を知り、月の角度と雲の真理を知りました。彼は暗闇を手で探ると、足を滑らせます。しかしその先に地面はなく、地に落ちながら、空に飛んでゆきました。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="At a certain moment, he suddenly came to know the exact number of snowflakes in the flurry outside his window, came to know the angle of the moonlight and the truth of the clouds. He reached out fumbling for the curtain of night, and crashed to the floor in carelessness, but the floor was no longer a hindrance to his legs. He fell underground, and then flew into the empty depths.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="어느 순간, 그는 창밖의 함박눈이 몇 개인지를 전부 헤아릴 수 있게 되고, 달빛의 각도와 구름의 진리를 알게 되었네. 서생은 손을 뻗어 밤의 장막을 더듬다 실수로 고꾸라졌지만, 땅은 더 이상 그의 발에 장애가 되지 않았지. 서생은 땅 밑으로 떨어지다가, 또 먼 하늘로 날아가기도 했다네.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="他睁眼却不能看，凝神却不能听，周遭黑暗一片——他却反而忽地狂喜起来，好像只有在这绝无外物干扰的境地，他才能寻到真正的创作，而非对其他已有事物的临摹与亵渎。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="何も見えず、何も聞こえない――そんな暗闇の中で、彼は突然狂喜しました。この外界から一切の干渉を受けない境地で、既存の物の模倣や冒涜ではない、真の創作を捜し当てたようでした。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="He could not see with his open eyes, could not hear with his rapt attention, the darkness surrounding him whole—he suddenly went into an ecstasy, as if only in this boundary where naught existed to disturb him, he could seek his true work, rather than copy or desecrate that which already existed.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="서생은 눈을 떴지만 볼 수 없었고, 들으려 해도 들을 수 없었다네. 주변은 온통 어둠에 잠겨 있을 뿐…… 그런데 그는 오히려 미친 듯이 기뻐하는 게 아니겠나. 다른 방해가 전혀 없는 이 상황에서만, 이 서생은 이미 존재하는 것에 대한 모사와 모독이 아니라, 진정한 창작을 해낼 수 있으리라 생각했던 게지.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="他继续等，等到寂灭一片，连自己干枯的肉身也感受不到，他才开始思考——只有在这万事万物都不复存在，唯有他的意识独自清明时，他短暂地成为了他精神的主宰。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="書生は時を待ち、枯れ果てた肉体の感覚すら無くなったとき、ようやく思考を始めました――万物が存在せず、自身の意識のみが明瞭なその場所で、彼は短いながらも自身の精神の主となったのです。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="He continued to wait, wait until all had faded to null, until he could not feel even his own withered flesh, before he began to think—only when all creation and all beings had ceased to exist, and his consciousness was alone in clarity, had he briefly become master of his soul.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="서생은 어둠이 사라질 때까지 계속 기다렸고, 마침내 자신의 마른 육체마저 느낄 수 없게 되자 생각하기 시작했지…… 만물이 더는 존재하지 않고, 의식만이 깨어 있을 때, 그는 비로소 잠깐이라도 자신의 정신을 지배할 수 있었네.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="他的想象再也不受拘束，创造着存在也不存在的事物——在他思维的疆土上，各种怪诞平地而起，盖过了现实。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="書生の想像力は何にも囚われなくなり、存在していない事物を創造しました――彼の思考の辺境で、様々な奇怪な事物がそそり立ち、現実を覆い尽くしました。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="His imagination would never again be restricted, creating works of that which simultaneously existed and did not exist—on his territory of thought, all strangeness arose equal, and enveloped reality.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="서생의 상상은 더는 구속받지 않게 되어, 존재하지만 존재하지 않는 것을 창조해냈다네…… 서생의 머릿속엔 별의별 괴상한 일들이 일어나 현실을 덮어버렸지.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="那天深夜，隔壁起夜的老夫子，看见跛脚书生的茅屋里流光溢彩，光怪陆离，发出各种平生未闻的声响，难以名状。老夫子起胆，就隔着墙偷瞄了一眼。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="その日の深夜、厠へ起きた老父は、隣のぼろ家から光が溢れ出すのを見ました。風変わりで色とりどりの光が、奇妙な音を上げている名状しがたい光景に、老父は意を決し、壁の隙間から覗き見ます。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="It was deep in the night, and as a teacher awoke next door, he saw the lame scholar's thatched cottage overflowing in brilliant light, spectral and dazzling, letting out all manner of sounds never before heard in life, defying description. The teacher summoned his courage, and stole a look through the wall.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그날 늦은 밤, 옆집에서 밤을 지새우던 노인은 절름발이 서생의 초가집에서 새어 나오는 현란한 불빛을 보았네. 형상이 기이하고 색채가 다양한 데다 생전 처음 듣는 각종 소리를 내는 것이 형언하기 어려울 정도였지. 노인은 용기를 내어 담 너머로 그 초가집을 훔쳐보았지.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="只那一眼，便再不敢深究。他匆匆忙忙回到屋里，久久不得入眠。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="しかし老父はわずかに中を見やったのみで、直視することはできませんでした。それから老父はそそくさと部屋へ戻りましたが、やはり気になって長い間、寝付けなかったそうであります。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="With just that one glimpse, he dared not investigate further. He hurried himself back indoors, and for a very long time could not fall asleep.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="허나 살짝 훔쳐보기만 했을 뿐, 더 자세히 못 보고 급히 집으로 돌아온 노인은, 그날 오랫동안 잠자리에 들 수가 없었다고 하네.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="隔天，邻里纷纷来到茅屋前，夺门而入，发现了书生的遗体，再无别物。大家都以为他是冻死的，村长上前一看，书生面前摊着一张白纸，落满了霜，啥也没画。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="翌朝、老父から話を聞いた近隣住民たちが、ぼろ家に訪れますと、書生はすでに死んでいました。遺体の前には、霜をかぶった白紙が広げられていましたが、そこには何も描かれていませんでした。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The next day, neighbors thronged before the thatched cottage. They forced the door and entered, discovering the scholar's remains, and naught else inside. All thought he had died of cold, and as the village headman stepped forth to look, he saw sprawled before the scholar a blank scroll of paper, covered full in frost, and nothing drawn on it.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="다음 날, 초가집 앞으로 몰려온 이웃들이 문을 박차고 들어갔을 때는, 서생의 유해 말고는 아무것도 찾지 못했다네. 모두 그가 얼어 죽었다고 생각했지. 촌장이 다가가 보니, 서생 앞에 펼쳐져 있는 백지에는 서리만 잔뜩 끼어 있고, 아무것도 그려져 있지 않았다네.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="事后，人们便感慨书生走不出过往，痴死在画卷前。也有说是书生早就染了怪病，控制不住自己的法术，才整出这些怪事。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="皆は思いました。書生は過去に囚われて、紙の前で狂死したのだ。またこんな噂もたちました。書生は随分前から奇病に罹っており、自身の術を制御できずに、このような奇行に及んだのだと。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Afterwards, the people lamented that the scholar could not leave his past, dying obsessed in front of his scroll. Others said the scholar had long since contracted some strange disease, could not control his own Arts, and only thus did this strange case unfold.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그 일 이후, 사람들은 서생이 과거를 놓지 못해 그림 앞에서 죽었다고 여겼지. 서생이 일찌감치 괴질에 걸려, 자신의 아츠를 제어하지 못해 이런 괴이한 일들을 해냈다는 설도 있었고.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="唯一窥见真相的老夫子，却从不对别人说起这件事。只是在他临终前，他对自己的儿子说，那被人唾弃，连名字都被忘记的跛脚书生，是真正的千古大家。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="唯一真相を覗き見た老父は、それを生涯他人に言いませんでした。ですが死の直前、自分の息子に「あの足の悪い、名すら忘れられた書生こそ、真の歴史的大家であった」と告げたそうでございます。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The teacher, who alone had glimpsed the truth, never talked of the matter with anyone else. It was only in his final moments he told his son; that the disdained lame scholar, even his name forgotten, was a true master of all eternity.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="유일하게 진상을 목격했던 그 이웃 노인은 줄곧 이 일에 대해 말을 아끼다가, 임종 직전에야 자기 아들에게 “사람들에게 버림받고 이름조차 잊힌 그 절름발이 서생은 진정한 천고의 대가”라고만 말했다더군.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="村民"]为啥子？
+[name="町民"]そりゃどうしてだ？
+[name="Villager"]Why?
+[name="마을 사람"]그건 왜 그런 거요?
 
 [name="说书人"]因为那个跛脚书生在那晚切实完成了诺言，切实画出了“世间从未有过之物”。
+[name="講談師"]それは書生があの晩、志を果たし、「誰も見たことのないもの」を描き切ったからです。
+[name="Storyteller"]Because that night, the lame scholar had in reality fulfilled his promise. He had, in reality, painted 'that which had never before been in this world.'
+[name="이야기꾼"]왜냐하면 그 절름발이 서생이 그날 밤 약속을 지켜, '세상에 있지 않았던 것'을 확실히 그려냈기 때문이지.
 
 [name="村民"]咋感觉和书上写的内容不大一样？
+[name="町民"]なんだか本の内容とは違う気がするんだが？
+[name="Villager"]Why do I feel like the books told it pretty differently?
+[name="마을 사람"]왠지 책에 쓰인 내용과 좀 다른 것 같지 않소?
 
 [name="说书人"]老夫子来不及说出为什么，或者压根就说不出为什么就咽了气。
+[name="講談師"]実際は、老父はそれを言う暇も無かったか、どう説明すればいいか分からないまま息を引き取ったのでしょう。
+[name="Storyteller"]The teacher had not the time to explain, or perhaps he simply swallowed the words he did not have.
+[name="이야기꾼"]노인은 이유가 무엇인지 말할 겨를이 없었거나, 어떻게 말해야 할지 모른 채 숨을 거둔 거겠지.
 
 [name="说书人"]于是坊间流传的说辞，就只有跛脚书生从春风得意到失魂落魄的这么一段。
+[name="講談師"]だから巷の噂は、書生が順風満帆の人生を歩んでいるところから、失意の底に沈んだところまでしかないのです。
+[name="Storyteller"]Thus in the narrative heard on the streets, there is only the lame scholar's sails billowing with success, up to the fall of his senses.
+[name="이야기꾼"]그래서 항간에 떠도는 이야기로는, 의기양양해 하던 그 절름발이 서생이 넋이 나갔다는 부분까지 밖에 전해지지 않지.
 
 [name="说书人"]至于真相如何，恐怕无人知道了。
+[name="講談師"]真相を知るものは、どこにもいないのかもしれません。
+[name="Storyteller"]As for the truth of things, I fear not a single soul now knows.
+[name="이야기꾼"]진실이 어떠한지에 대해서는 아마 아무도 모를 걸세.
 
 [name="村民"]可是画没见过的东西，那有啥难的嘛，我回去乱涂一幅，你们不也没见过。
+[name="町民"]でもよ、見たことないモンを描くってのは、別に難しくないだろ。今から俺が家に戻ってよ、めちゃくちゃに筆を走らせてやりゃあ、あんたらが見たことない絵ができるぜ。
+[name="Villager"]See, though, what's so hard about drawing something you've never seen before? I could head back, smear up a scroll, and none of you would've ever seen that.
+[name="마을 사람"]그런데 세상에 없는 것 그리기가 뭐 그리 어려운가? 가서 대충 아무 그림이나 한 장 그리면, 아무도 본 적이 없는 것 아뇨?
 
 [name="说书人"]欸，话不能这么说。你从没见过大湖，但见过雨后积水，我便告诉你，湖是很多的积水。说到底，你还是见过的。
+[name="講談師"]はぁ……そういう事じゃあないんですよ。あなたが湖を見たことがなくても、雨上がりの水溜りは見たことがあるでしょう？　湖とは大きな水溜りです。つまり、あなたは湖を見たことがあるんです。
+[name="Storyteller"]Ah, you can't put it like that. You've never seen a vast lake before, but you've seen the ponded waters after the rains. Let me tell you, lakes are ponded waters made vast. In the end, you've seen them before.
+[name="이야기꾼"]허허…… 그렇게 말하면 아니 되네. 자네가 지금까지 큰 호수를 본 적은 없어도, 비 온 후에 고인 물은 본 적이 있지 않나. 호수는 고인 물이 아주 많이 모여서 생긴 것이니, 결국 자네는 호수를 본 적이 있는 게 되는 셈이 되지.
 
 [name="说书人"]这跛脚书生，厉害就厉害在这儿了。
+[name="講談師"]この書生のすごいところは、まさにそこなんですよ。
+[name="Storyteller"]If the lame scholar had strength, then this is where it lay.
+[name="이야기꾼"]이 절름발이 서생의 대단함이 바로 여기에 있다네.
 
 [name="村民"]那照你这么说，他到底画了啥？
+[name="町民"]じゃああんたの言うとおりだったとして、彼は何を描いたんだ？
+[name="Villager"]Well if all that's true, then what in the world did he paint?
+[name="마을 사람"]당신 말대로라면, 그는 도대체 뭘 그린 거요?
 
 [name="说书人"]谁知道呢。
+[name="講談師"]それは分かりません。
+[name="Storyteller"]Who knows.
+[name="이야기꾼"]누가 알겠나.
 
 [name="村民"]嗨，能不能别老讲这么复杂的，咱不爱听啊，啥时候讲讲其他的？
+[name="町民"]なぁ、いい加減そんなややこしい話は止めてくれ。面白くねえよ。いつ他の話をやってくれるんだ？
+[name="Villager"]Look, could you give the contrived stories a rest? They're not exactly the most fun. Are you gonna tell any others?
+[name="마을 사람"]이런 복잡한 얘긴 그만하십시다, 별로 듣고 싶지도 않은데…… 다른 이야기는 도대체 언제 하는 거요?
 
 [name="孩子"]我要听上次那“形单影只向天去，雌雄双剑分天下”的大结局！
+[name="子供"]私は、前回の『一つの影が天へ向かい、双つの剣が天を分かつ』の結末が聞きたいな！
+[name="Child"]I want to hear the ending to the one with 'a lone soul ventures forth to Heaven, twin blade lovers that split the lands!'
+[name="아이"]저는 지난번의 '홀로 고독히 하늘로 향해, 한 쌍의 검으로 천하를 가르는 이야기'의 결말을 듣고 싶어요!
 
 [name="说书人"]会讲的，都会讲的。天下讲不完的事，我用寥寥百年的阳寿去讲，要是还奢求面面俱到，就有点贪得无厌了。
+[name="講談師"]ええ、話しますとも。この世には語り尽くせないほど物語があり、私にはたった百年にも満たない寿命しかありません。もしもすべての物語を求めるなら、それは強欲というものです。
+[name="Storyteller"]I'll tell in due time, all of it. It is not possible to tell all under heaven in totality, and I use my scarce predestined hundred or so years of life to tell what I might. If I yet pursued thoroughness on top of it, that would be quite greedy.
+[name="이야기꾼"]그래그래, 아무렴. 세간의 이야기는 끝이 없단다. 내게 백 년도 안되는 수명으로 모든 이야기를 자세히 들려달라는 건 욕심이 과한 게 아니겠느냐.
 
 [name="说书人"]既然你们想听，那下一回，咱们就讲点别的。
+[name="講談師"]あなたたちが望むのであれば、次は違う話を致しましょう。
+[name="Storyteller"]As you'd like to hear it, then next time, we'll tell of something else.
+[name="이야기꾼"]다들 듣고 싶어 하는 것 같으니, 내 다음엔 다른 이야기를 들려줌세.
 
 [name="孩子"]好诶！
+[name="子供"]やったぁ！
+[name="Child"]Alright!
+[name="아이"]좋아요!
 
 [name="说书人"]老规矩，我这张嘴，不值钱。但是诸位的茶钱，得看着给。
+[name="講談師"]いつも通り、私の話にお代はいりません。しかし皆様方のお茶代はいただきますよ。
+[name="Storyteller"]By custom, my mouth is worth no money. But when you've paid your tea, see what you might have for an old man's story.
+[name="이야기꾼"]관례대로 내 이야기는 공짜라네. 아, 물론 찻값 정도는 내줄 수 있겠지?
 
 [name="说书人"]今儿似乎有几位新面孔，不知三位客人对我这些奇闻怪谈，可还满意？
+[name="講談師"]本日はどうやらご新規さんたちがいるようです。御三方、私の講談はお楽しみ頂けましたでしょうか？
+[name="Storyteller"]It seems we've got a few new faces today. Three mysterious visitors; I hope these strange tales of mine were to your satisfaction?
+[name="이야기꾼"]오늘은 새로운 얼굴이 몇 명 보이는 것 같군그래. 어때, 여기 계신 손님 세 분께선 이 진기한 이야기에 만족하셨는지?
 
 [name="炎熔"]......
+[name="ラヴァ"]…………
+[name="Lava"]......
+[name="라바"]……
 
 [name="克洛丝"]......
+[name="クルース"]…………
+[name="Kroos"]......
+[name="크루스"]……
 
 [name="乌有"]......这是真事儿？
+[name="ウユウ"]……今のは実話ですか？
+[name="Mr.Nothing"]Was that fiction?
+[name="우요우"]……실제 이야기입니까?
 
 [name="说书人"]若是说有个书生染了矿石病，遂愿之前便郁郁而终，我倒确信是件真事。
+[name="講談師"]とある書生が実は鉱石病に感染していて、志を果たせずに塞ぎ込んで死んでしまった。そういう物語ならば、間違いなく実際どこかで起きていたことでしょう。
+[name="Storyteller"]If someone told me a scholar caught Oripathy, and met his end in melancholy before his wishes were complete, then I'd certainly believe it was true.
+[name="이야기꾼"]어떤 서생이 광석병에 걸려, 소원을 이루기 전에 우울하게 죽었다…… 전 실화라고 확신하지요.
 
 [name="说书人"]添油加醋，方有滋味啊。
+[name="講談師"]そういった話に尾ひれを付けて、より面白い話として広められたのでしょうね。
+[name="Storyteller"]Add some spice and flourish, and the story tastes all the better.
+[name="이야기꾼"]자고로 이야기엔 조미료를 가미해야 제맛 아니겠습니까.
 
 [name="乌有"]在理！
+[name="ウユウ"]なるほど、説得力のあるお言葉です！
+[name="Mr.Nothing"]Quite sensible!
+[name="우요우"]일리가 있군요!
 
 [name="说书人"]多谢。
+[name="講談師"]ありがとうございます。
+[name="Storyteller"]My thanks.
+[name="이야기꾼"]감사합니다.
 
 [name="说书人"]只不过，我也不知道这些奇闻野史，到底有几分是真的......只是有这方面的兴趣，仅此而已。
+[name="講談師"]しかし、これらの奇譚の何割が真実なのかは私にも分かりません。ただ私はこの類いの話に興味がある、それだけなんです。
+[name="Storyteller"]However, I'm not sure myself how many really are true, out of all these anecdotal legends... I just have some interest in the field, nothing more.
+[name="이야기꾼"]허나 이런 기이한 이야기는, 어디까지가 진짜인지 저도 잘 모릅니다…… 그저 이런 방면에 흥미가 있을 뿐……
 
 [name="说书人"]话说回来，我虽然不是什么正儿八经的说书人，也在镇上以此打发了许久光阴，不过愿意来听我胡说八道的，其实就那么几位。
+[name="講談師"]私は決して真っ当な講談師ではありませんが、この町で長い間、講談活動をしてきました。しかし私の「口から出まかせ」を聞きたがる人は、数えるほどです。
+[name="Storyteller"]That said, while I might not be any kind of formal storyteller, I've spent a long time in the village doing it, though only the few you saw are actually willing to hear me spout my nonsense.
+[name="이야기꾼"]전 정식 이야기꾼이 아니지만, 그래도 이 마을에서 이야기를 하며 오랜 시간을 보냈습니다. 사실 제 헛소리를 듣길 원하는 사람도 여기 몇 사람이 전부지요.
 
 [name="说书人"]这看着三位面生，不知？
+[name="講談師"]――ですが御三方にはお初にお目にかかります。なんとお呼びすればよろしいでしょうか？
+[name="Storyteller"]I see three unfamiliar faces. What brings you here?
+[name="이야기꾼"]세 분은 처음 뵙는 것 같은데, 그렇지 않나요?
 
 [name="炎熔"]咳——（使眼色）
+[name="ラヴァ"]ゴホン――（目配せ）
+[name="Lava"]Ahem— (Gives a meaningful look)
+[name="라바"]크흠…… (눈짓을 보낸다)
 
 [name="乌有"]啊——是了是了，我这两位朋友，远道而来，要找个人。
+[name="ウユウ"]ああ、そうだそうだ、ご紹介が遅れましたね。実はこちらのお二人は遠方から来た友人なんです。人捜しをしているんですよ。
+[name="Mr.Nothing"]Ah—right, right, these two friends of mine came from far away, in search of someone.
+[name="우요우"]아…… 네, 그렇습니다. 여기 두 친구는 먼 곳에서 왔습니다. 사람을 찾으러요.
 
 [name="乌有"]不过这二位在咱们大炎这儿人生地不熟的，所以我就略帮小忙，代为引路，不知先生怎么称呼？
+[name="ウユウ"]ですがお二方は炎国に詳しくないので、私が友人のよしみで道案内をしているんです。――ええと、こちらこそなんとお呼びすれば良いでしょうか？
+[name="Mr.Nothing"]But neither of them are quite as aware of Yen as those of us born here, so I'm giving them some small assistance, acting as their guide. How should I address you, sir?
+[name="우요우"]그런데 이 두 친구가 염국이 익숙지 않다고 하여, 제가 길 안내를 도와드리고 있었습니다. 선생님은 저희가 어떻게 불러드려야……
 
 [name="说书人"]我离家多年，早就弃了旧名不用。早年舞文弄墨，自号“煮伞居士”，虽有些恬不知耻，但也沿用至今。
+[name="講談師"]私は家を出て長く、旧名はとっくに捨てました。若い頃は物書きをしており「煮傘居士（しゃさんこじ）」などと自称していました。今思えば赤面の至りですが、未だその名にしがみついております。
+[name="Storyteller"]It's been many years since I left home; I long since abandoned my old name to disuse. I fancied myself literary in younger years, calling myself the 'Umbrella-Boiling Hermit,' and though it's somewhat shameless of a title, I still use it to this day.
+[name="이야기꾼"]저는 집을 떠난 지 여러 해가 되어 옛 이름을 버린 지 오래되었습니다. 왕년에 글재주가 좋아 자호를 '자산거사'라 하였고, 염치없지만 지금까지도 이 호를 계속 사용하고 있지요.
 
 [name="乌有"]好意境！好意境啊！这不巧了，小弟也是被迫无奈，背井离乡，如今也只好借“乌有”二字暂代姓名，不如你就喊我乌老弟呗？
+[name="ウユウ"]なんともゆかしい！　いやぁ偶然ですね。私も必要に迫られて故郷を離れ、すべてが烏有（うゆう）に帰した身。そのままウユウと名乗っておりまする。
+[name="Mr.Nothing"]How artistic! How artistic indeed! By damned luck, I too was given no option but to leave home, and nowadays go by 'No' and 'thing' in lieu of names sur and given. You can call me Brother No, how about that?
+[name="우요우"]대단한 경지에 오르셨군요! 공교롭게도 저 역시 어쩔 수 없이 고향을 떠나게 되었답니다. 지금도 '우요우'이란 이름을 빌려 쓸 수밖에 없는 처지지요. 절 그냥 '우' 동생이라고 불러 주시겠습니까?
 
 [name="炎熔"]（我就说他这名字是编的吧——！？）
+[name="ラヴァ"]（だから言ったろ？　あいつの名前は偽名だって――！）
+[name="Lava"](I told you that was a made-up name, didn't I—?!)
+[name="라바"](지어낸 이름이었던 거야!?)
 
 [name="克洛丝"]（嘘......）
+[name="クルース"]（しーっ……）
+[name="Kroos"](Shh...)
+[name="크루스"](쉿……)
 
 [name="炎熔"]（克洛丝？你发现什么了？）
+[name="ラヴァ"]（クルース？　何かに気付いたのか？）
+[name="Lava"](Kroos? You catch something?)
+[name="라바"](크루스? 뭔가 발견한 거야?)
 
 [name="克洛丝"]（嗯？啊，没有啦，我只是觉得看他每次都要生编硬套很好玩嘛。）
+[name="クルース"]（ん～？　いや別に何もぉ……ただあの人が毎回、無理矢理こじつけたがるのが面白いなあって思って～。）
+[name="Kroos"](Eh? Uh, nothing, I just reckon it's really fun to watch how he lies himself a new layer every time.)
+[name="크루스"](어? 아~ 아니. 난 그냥 저 사람이 매번 억지로 둘러대는 게 너무 재밌어서~)
 
 [name="炎熔"]（......）
+[name="ラヴァ"]（…………）
+[name="Lava"](......)
+[name="라바"](……)
 
 [name="说书人"]原来同是天涯沦落人，那不知道三位要找的人，是谁？
+[name="講談師"]では私たちは遠い異郷を流浪する者同士ですね。ちなみにお三方が探しているのは、どなたです？
+[name="Storyteller"]So we are both men fallen to the other side of the world. Then who's the person you three mysteries are searching for?
+[name="이야기꾼"]이거 이거, 우리 모두 세상의 떠돌이였군요. 헌데, 세 분이 찾으려는 사람은 누구신지……
 
 [name="乌有"]嗨，俗话说得好，相逢即是缘，真是巧得不能再巧了。我们要找的人，也是个画家。
+[name="ウユウ"]曰く、「つまづく石も縁の端」……本当に偶然なのですが、私たちが探しているのも先の講談と同じく、画家なんですよ。
+[name="Mr.Nothing"]Hah, just as the proverb goes, chance meetings are predestiny; it truly couldn't be more opportune if we tried. The one we're searching for is also a painter, like in the story we just heard.
+[name="우요우"]옛말에 옷깃만 스쳐도 인연이라더니, 정말 공교롭게도, 저희가 찾고 있는 사람 역시 화가랍니다.
 
 [name="说书人"]......画家？这小镇不大，可从未听说过有什么画家。是个什么样的人？
+[name="講談師"]画家？　この小さな町に、画家が住んでいるなどとは初耳です。どんな人なんでしょうか？
+[name="Storyteller"]...A painter? This village is modestly sized, and I've never heard of any painter here. What manner of man is this?
+[name="이야기꾼"]……화가? 이 크지 않은 마을에 화가가 있단 이야긴 들어본 적이 없습니다. 어떤 사람인가요?
 
 [name="乌有"]呃......恩人？您给说说？
+[name="ウユウ"]それは……恩人様、あなたから話されては？
+[name="Mr.Nothing"]Er... benefactor? May you describe?
+[name="우요우"]어…… 은인님? 말씀 좀 해주시겠어요?
 
 [name="炎熔"]是一位女性。呃，头上应该长着奇特的角。还会一些奇特的法术。然后......然后......是个画家。
+[name="ラヴァ"]女性です。あー、たぶん頭には変わった角が生えてて、奇妙なアーツを使う可能性もあって……それから、えーと……とにかく画家です。
+[name="Lava"]A woman. Uh, she should have big, weird horns on her head. And she can use some weird Arts. Also... also... she's a painter.
+[name="라바"]여성이요. 어, 머리에 특이한 뿔이 나 있고, 기이한 아츠도 쓸 줄 알고…… 그리고…… 화가예요.
 
 [name="说书人"]就这样？
+[name="講談師"]情報はそれだけですか？
+[name="Storyteller"]And that's it?
+[name="이야기꾼"]그게 다인가요?
 
 [name="炎熔"]......就这样。
+[name="ラヴァ"]……それだけです。
+[name="Lava"]That's it.
+[name="라바"]……그게 다예요.
 
 [name="说书人"]你这么一说，就更没印象了。
+[name="講談師"]そうですか……まるで思い当たりませんね。
+[name="Storyteller"]I admit, with that, I have even less of an idea.
+[name="이야기꾼"]그렇게 말씀하시니, 전혀 짐작이 가지 않는군요.
 
 [name="乌有"]唔，这就奇了怪了......莫非二位恩人要找的人，已经离开了这里？
+[name="ウユウ"]うーん、おかしいなぁ……もしかして恩人様方の探している方は、もうここを離れてしまったとか？
+[name="Mr.Nothing"]Oh, this is a strange turn indeed... could it be that the one you benefactors seek left this place before we came?
+[name="우요우"]흠, 이상하네요…… 설마 두 분이 찾는 사람이 여길 떠난 걸까요?
 
 [name="说书人"]这小镇极少有来客，要是如各位所说，那位奇人当给我们留下印象才是。我可以托人帮你问问。
+[name="講談師"]この町にはほとんど客人など来ませんよ。もし皆様がおっしゃるように変わった方であれば、印象に残っているはずなんですが……町の人に頼んで聞き込みをしてもらいましょう。
+[name="Storyteller"]This village entertains very few guests. If it's as you all say, that strange person would have to have left an impression on us. I can get someone to help you ask around.
+[name="이야기꾼"]이 마을은 방문객이 아주 적다 보니, 만약 그 말 대로라면 그 기인을 우리가 기억하지 못할 리가 없을 텐데…… 다른 사람에게 물어봐 드리도록 하겠습니다.
 
 [name="乌有"]好，好，那就不叨扰先生了，我们这就——
+[name="ウユウ"]いやぁ、それは助かります。お忙しいところ大変お邪魔しました。では私たちはこれで――
+[name="Mr.Nothing"]Good, good, then we'll leave you to it, sir, and for the time being—
+[name="우요우"]네, 그럼, 더는 폐를 끼치지 않도록, 저희는 이만……
 
 [name="乌有"]这就......？
+[name="ウユウ"]これで……あれ？
+[name="Mr.Nothing"]We'll...?
+[name="우요우"]이만……?
 
 [name="说书人"]乌有先生？
+[name="講談師"]ウユウさん？
+[name="Storyteller"]Mr.Nothing?
+[name="이야기꾼"]우요우 씨?
 
 [name="炎熔"]喂，你怎么了？
+[name="ラヴァ"]おい、どうした？
+[name="Lava"]Hey, what's up with you?
+[name="라바"]이봐, 왜 그래?
 
 [name="乌有"]啊，嘿嘿，我们......我们是从哪儿进来的？
+[name="ウユウ"]あ、えへへ。私たちは……どこから入ってきたんでしたっけ？
+[name="Mr.Nothing"]Ah, heheh, where... where did we come in from?
+[name="우요우"]아, 헤헤, 우리…… 어느 쪽에서 들어왔죠?
 
 [name="炎熔"]你在说什么，我们不是——
+[name="ラヴァ"]何言ってるんだ。アタシたちは――
+[name="Lava"]What are you talking about? Didn't we—
+[name="라바"]그게 무슨 소리야, 우린……
 
 [name="说书人"]——沿着这条小道，便可离开园林。
+[name="講談師"]――この小道に沿って行けば、庭園から出られますよ。
+[name="Storyteller"]—Follow this pathway, and you can leave the landscape garden.
+[name="이야기꾼"]……이 오솔길을 따라가면, 정원에서 나갈 수 있습니다.
 
 [name="说书人"]想必几位是跟着人群来这里，迷了路吧？哈哈，我这园子不大不小，实在认不得路，问个佣人便是。
+[name="講談師"]きっとここへ来る途中、人混みに紛れて迷ったのでしょう。はは、この庭園はそこそこの広さですし、もし道に迷ったなら、使用人に声をかけてみてください。
+[name="Storyteller"]Presumably you arrived following a crowd, and erred here? Haha, my garden isn't that big or small, but it's tough to find your way through it. Ask a servant for help.
+[name="이야기꾼"]아마 세 분은 사람들을 따라 이곳에 오다가 길을 헤맸을 겁니다. 하하, 이 정원은 크지도 작지도 않지만, 길이 많이 복잡하니, 하인에게 물어보시면 될 겁니다.
 
 [name="乌有"]嘿......你瞧我这糊涂的，怎么就记不住了呢。
+[name="ウユウ"]へへ……いやぁお恥ずかしい。どうして覚えてないんでしょうね。
+[name="Mr.Nothing"]Heh... Look at me, all befuddled. How is it I can't remember, now?
+[name="우요우"]하…… 이렇게 멍청할 수가, 왜 기억이 안 나지.
 
 [name="说书人"]若是关于那位画家，找到了什么线索需要帮忙，尽管问我。
+[name="講談師"]もしその画家について、何か手がかりを見つけたり、手伝いが必要になったりしたときは、また私をお訪ねください。
+[name="Storyteller"]If you find any trace of that painter, and you need the help, don't hesitate to ask me.
+[name="이야기꾼"]만약 그 화가에 대해 단서를 찾는 데 도움이 필요하면, 얼마든지 물어보셔도 됩니다.
 
 [name="说书人"]我还有点事情，诸位，不送。
+[name="講談師"]では私も用事がありますので、この辺で。
+[name="Storyteller"]I have some business for now, so, everyone, farewell.
+[name="이야기꾼"]전 이만 일이 있어서, 송구하오나 따로 배웅은 하지 않겠습니다.
 
 [name="乌有"]诶，多谢多谢，不用送，不用送。二位恩人，我们先走吧？
+[name="ウユウ"]ええ、どうもありがとうございました。恩人様方、とりあえず我々は失礼しましょうか。
+[name="Mr.Nothing"]Here, thank you, thank you, farewell now, farewell. Benefactors, shall we go?
+[name="우요우"]아, 대단히 감사합니다. 배웅은 괜찮습니다. 은인 두 분, 우리도 이만 갈까요?
 
 [name="炎熔"]等等——
+[name="ラヴァ"]おい待て――
+[name="Lava"]Wait—
+[name="라바"]잠깐……
 
 [name="乌有"]接下来，咱们去哪儿瞧瞧？这茶馆，驿站，园子都去过了，还有啥地儿可能有线索的？
+[name="ウユウ"]さて、次はどこを見に行きましょうか？　茶館、宿場、庭園は全て回りました。どこに行けば手がかりがありそうですかねぇ？
+[name="Mr.Nothing"]And that said, where should we take a look at? We've visited the teahouse, the stage station and the gardens. Where else could there be any clues?
+[name="우요우"]이제 우리 어디를 가볼까요? 이 찻집과 객점, 정원까지 다 가봤는데, 어디에서 또 단서를 찾을 수 있을까요?
 
 [name="炎熔"]......我们到这里多久了？
+[name="ラヴァ"]……アタシたちがここに来てどのくらい経った？
+[name="Lava"]How long has it been since we got here?
+[name="라바"]……우리 이곳에 온 지 얼마나 됐지?
 
 [name="乌有"]唔，怎么突然问这个？大概......三两天时日？
+[name="ウユウ"]え、突然どうしたんです？　大体……二、三日ですかね？
+[name="Mr.Nothing"]Oh, why do you ask? I'd say about... two or three days?
+[name="우요우"]음, 그건 갑자기 왜 물어보시는 거죠? 대략…… 이삼일 정도?
 
 [name="炎熔"]你确定？
+[name="ラヴァ"]曖昧だな。
+[name="Lava"]Are you sure?
+[name="라바"]확실해?
 
 [name="乌有"]啊哈哈，嗨，多半是昨天晚上没睡好，我有点犯迷糊嘞。
+[name="ウユウ"]あはは、昨晩よく眠れなかったのか、頭がぼんやりしてしまって。
+[name="Mr.Nothing"]Ahahah, heh, most likely I slept awful last night. I'm a little out of kilter.
+[name="우요우"]아하하, 아마 어젯밤에 잠을 잘 못 자서 그런지, 조금 헷갈리네요.
 
 [name="克洛丝"]小炎熔。
+[name="クルース"]ラヴァちゃん。
+[name="Kroos"]Lavaaa.
+[name="크루스"]라바~
 
 [name="炎熔"]嗯......我感觉到了......但是很模糊的......好像......
+[name="ラヴァ"]ああ……この感じは……でもはっきりしない……まるで――
+[name="Lava"]Nnng... I can sense it now... but it's so indistinct... it's like...
+[name="라바"]응…… 느낌이 오긴 하는데…… 근데 좀 애매해…… 마치……
 
 [name="克洛丝"]这种时候还是要跟着直觉走。
+[name="クルース"]こういうときはやっぱり直感で進むに限るよぉ。
+[name="Kroos"]Times like these, you've gotta go with your intuition.
+[name="크루스"]이럴 땐 직감을 따라가야지~
 
 [name="炎熔"]直觉告诉我，现在情况很麻烦。
+[name="ラヴァ"]でもアタシの直感は、面倒な状況だって告げてる。
+[name="Lava"]My intuition's telling me that right now, the situation's extremely messed up.
+[name="라바"]안 그래도 지금 내 직감이 말해주고 있어. 지금은 매우 성가신 상황이라고.
 
 [name="克洛丝"]是某种精神层面的源石技艺......？
+[name="クルース"]うーん、何かの精神系アーツかなぁ……？
+[name="Kroos"]Is it some kind of mind-level Originium Arts...?
+[name="크루스"]무슨 정신적인 오리지늄 아츠인 건가?
 
 [name="炎熔"]嗯......法术的话......
+[name="ラヴァ"]ああ……これがアーツなら……
+[name="Lava"]Nngh... if it's Arts...
+[name="라바"]흠…… 아츠라면……
 
 [name="乌有"]二位恩人，还嘀咕啥呢？再不走快点，天就要黑啦。
+[name="ウユウ"]恩人様方、何をずっとブツブツ言っているんですか？　早く行かないと、日が暮れちゃいますよ。
+[name="Mr.Nothing"]Benefactors, why the muttering? If we don't hurry up soon, it'll get dark on us.
+[name="우요우"]은인님들? 뭘 그리 속닥거리십니까? 더 지체하다간 곧 어두워질 겁니다.
 
 [name="炎熔"]说什么呢，天色还——
+[name="ラヴァ"]何を言ってるんだ。空はまだ――
+[name="Lava"]What are you talking about? It's still so light—
+[name="라바"]무슨 소리야, 하늘은 아직……
 
 [name="炎熔"]——
+[name="ラヴァ"]…………？
+[name="Lava"]——
+[name="라바"]……
 
 [name="炎熔"]——天......色？
+[name="ラヴァ"]――空は……
+[name="Lava"]—The sky... the color?
+[name="라바"]……하늘…… 이?
 
 [name="克洛丝"]我们竟然从来没有看过天空......？明明只要一抬头就能发现的......真奇怪。
+[name="クルース"]私たち、なんで今まで空を見なかったのかなぁ？　顔を上げればすぐに気づいたはずなのに……おかしいなぁ。
+[name="Kroos"]Did we never look at the sky before...? We should've noticed any moment we lifted our heads... now that's odd.
+[name="크루스"]우리가 하늘을 한 번도 본 적이 없다고……? 분명 고개만 들어도 알 수 있을 텐데…… 정말 이상한데.
 
 [name="乌有"]恩、恩人，这是啥情况？你看那边儿，好像......好像都出月亮了呀！？
+[name="ウユウ"]お、恩人様。これはどういう状況でしょう？　あそこを見てください……月が出ていますよ！？
+[name="Mr.Nothing"]B... benefactors, what's going on? Look over there, is that... is that a moon, now?!
+[name="우요우"]은, 은인님, 이게 무슨 일이죠? 저쪽 좀 보세요. 마치…… 달이 뜬 것 같은데요!?
 
 [name="乌有"]可现在不是大白天吗，桥那头怎么都点灯笼了？
+[name="ウユウ"]ですが今は真っ昼間のはずですよね？　なんで橋の方には灯りまで点いているんでしょう？
+[name="Mr.Nothing"]And it's broad daylight right now, isn't it? Why have they lit lanterns on the other end of the bridge?
+[name="우요우"]지금은 아직 대낮인데, 저쪽 다리에는 왜 등불을 켜놓은 거죠?
 
 [name="炎熔"]看身后......
+[name="ラヴァ"]後ろを見てみろ……
+[name="Lava"]Look behind you...
+[name="라바"]뒤를 봐……
 
 [name="乌有"]耶？
+[name="ウユウ"]えっ？
+[name="Mr.Nothing"]Er?
+[name="우요우"]에?
 
 [name="炎熔"]......另一个方向的天边，那是......是太阳？
+[name="ラヴァ"]……反対方向の地平線だ。あれは……太陽じゃないか？
+[name="Lava"]The horizon on the other side. Is that... is that the sun?
+[name="라바"]저쪽 하늘 말이야…… 저건…… 태양이야?
 
 [name="克洛丝"]啊，是不是从那头到这头走个来回，就相当于"走过了"一天一夜？
+[name="クルース"]あ、そしたら、あっちの端からこっちの端まで一往復したら、一昼夜を「駆け抜け」られるのかなぁ？
+[name="Kroos"]Hey. You think us coming back from there to here counted as 'going' one full day and night?
+[name="크루스"]아~ 저쪽에서 이쪽으로 오면 하루가 '지나게' 되는 셈이 되는 건가~?
 
 [name="炎熔"]这还真......新奇。总是听年说大炎地大物博无奇不有......还有这种景观？
+[name="ラヴァ"]本当に……奇妙だな。ニェンから、この広大な炎国の地ではどんな珍しいことでもあり得るとは聞いていたが……こんな現象まで見られるなんて――
+[name="Lava"]This is really... new to me. Nian always told me that Yen was full of weird, unseen wonders... and landscapes like this too?
+[name="라바"]이건 정말…… 신기하네. 항상 니엔이 염국은 땅이 넓고 자원이 풍부하다고 그랬지만…… 이런 경관까지 있을 줄은……
 
 [name="炎熔"]唔，等等，我口袋里好像有什么东西......
+[name="ラヴァ"]ん？　待て、ポケットの中に何かある……
+[name="Lava"]Uh, hold on, I think there's something in my pocket...
+[name="라바"]어, 잠깐만, 내 주머니에 뭔가 있는 것 같아……
 
 [name="炎熔"]这是，年给我的护身符......？
+[name="ラヴァ"]これは、ニェンがくれた護符……？
+[name="Lava"]Is this—the charm Nian gave me...?
+[name="라바"]이건 니엔이 내게 준 부적이잖아……?
 
 [name="炎熔"]慢着......慢着！不对，不对！
+[name="ラヴァ"]いや……待て！　おかしい、おかしいぞ！
+[name="Lava"]Wait a minute... hold on! No, that's not right!
+[name="라바"]잠깐…… 잠깐! 아니, 틀렸어!
 
 [name="炎熔"]什么叫“这种景观”啊，我刚才在想什么......！
+[name="ラヴァ"]何が「こんな現象」だ。さっきアタシは何を考えていた……？
+[name="Lava"]What the hell do I mean 'landscapes like this?' What was I just thinking?!
+[name="라바"]'이런 경관'이라니, 내가 방금 무슨 생각을 한 거야……!
 
 [name="克洛丝"]啊......
+[name="クルース"]あ……
+[name="Kroos"]Ah...
+[name="크루스"]아……
 
 [name="炎熔"]乌有！
+[name="ラヴァ"]ウユウ！
+[name="Lava"]Mr.Nothing!
+[name="라바"]우요우!
 
 [name="乌有"]诶——？我在，我在！
+[name="ウユウ"]え？　はいはい、何でしょう？
+[name="Mr.Nothing"]Er—? I'm here, I'm here!
+[name="우요우"]에……? 전 여기입니다, 여기요!
 
 [name="炎熔"]这里到底是不是泥翁镇！？
+[name="ラヴァ"]ここは本当に泥翁町なのか！？
+[name="Lava"]Is this Ni-weng Village or not!?
+[name="라바"]여기, 진짜 니옹 마을이 맞아!?
 
 [name="乌有"]这......这还用说......呃......
+[name="ウユウ"]そ……それはもちろ……ん……？
+[name="Mr.Nothing"]Does... does it need to be said... er...
+[name="우요우"]그…… 그거야…… 어……
 
 [name="乌有"]这，这仔细看看似乎是有点不对，可这附近也没有别的镇子了呀！
+[name="ウユウ"]よ、よく見てみたら何だか少し違うような……けれどこの付近には他の町はありませんよ！
+[name="Mr.Nothing"]P—paying close attention, it seems a little off! But there isn't another village anywhere around!
+[name="우요우"]자, 자세히 보니 뭔가 좀 잘못된 것 같은데요. 이 근처에 다른 마을은 없어요!
 
 [name="炎熔"]......还是不对，不对。
+[name="ラヴァ"]……やっぱりおかしい、何か変だ。
+[name="Lava"]This isn't right. It's not right.
+[name="라바"]역시 아니야…… 틀렸어.
 
 [name="炎熔"]克洛丝，我们从罗德岛出发，先抵达了勾吴城，补给之后，翌日上午出城。
+[name="ラヴァ"]クルース……アタシたちはロドスを出て、まず勾呉に到着した。そこで物資を補給した後、翌日の午前中に街を出た――そうだな？
+[name="Lava"]Kroos, we left Rhodes Island, reached Kou-wu City first, stocked up, and then left the next morning.
+[name="라바"]크루스, 우린 로도스 아일랜드에서 출발해 우선 구오성에 도착했고, 보급 후 다음 날 오전에 성을 떠났어.
 
 [name="克洛丝"]然后我们在前往灰齐山的荒原上看见了一辆撞毁的车——
+[name="クルース"]うん。それから灰斉山に行く途中の荒原で、一台の車がスクラップになっててぇ――
+[name="Kroos"]We were heading across the wastes for Mount Hui-ch'i, and we saw a crashed car—
+[name="크루스"]그런 다음 우린 회제산의 황야에서 부서진 차 한 대를 보았지……
 
 [name="乌有"]——然后二位恩人从那些畜生手里救下了我？
+[name="ウユウ"]――そして恩人様方が、あの畜生どもの手にかかろうとしていた私を救ってくださった……ですよね？
+[name="Mr.Nothing"]—and then you two benefactors dealt with the beasts and saved me?
+[name="우요우"]……그런 다음 두 분이 저를 그 짐승들에게서 구해주신 거군요?
 
 [name="克洛丝"]只是把它们带到了适合筑巢的新窝而已啦。它们也挺不容易的。
+[name="クルース"]私はただ、あの子たちを新しくお家が作れそうな場所に連れてってあげただけだよぉ。あの子たちも一生懸命生きてるんだからぁ。
+[name="Kroos"]Just took 'em to a nice new pit to build their nest in, that's all.
+[name="크루스"]그냥 그것들을 둥지를 틀기 좋은 새 보금자리로 옮겼을 뿐이라구~ 다들 먹고 살기 힘들 테니까~
 
 [name="炎熔"]然后呢？
+[name="ラヴァ"]それから？
+[name="Lava"]And then?
+[name="라바"]그런 다음엔?
 
 [name="乌有"]然后我们......？
+[name="ウユウ"]それから私たちは……
+[name="Mr.Nothing"]And then, we...?
+[name="우요우"]그런 다음 우린……?
 
 [name="克洛丝"]嗯嗯，然后我们直接登上了灰齐山，找到了一间破茅屋。
+[name="クルース"]うんうん、それから灰斉山に登ってぇ……一軒の古ぼけたお家を見つけたのぉ。
+[name="Kroos"]Hmmmgh. Then we went straight up Mount Hui-ch'i, and found a thatched cottage.
+[name="크루스"]응응, 그런 다음 우린 바로 회제산에 올라가 초가집 하나를 찾았잖아~
 
 [name="炎熔"]我推开了那儿的......
+[name="ラヴァ"]そしてアタシがあの……
+[name="Lava"]I pushed open its...
+[name="라바"]내가 열었어, 그곳의……
 
 [name="炎熔"]......门？
+[name="ラヴァ"]……門を開けた？
+[name="Lava"]...door?
+[name="라바"]문을……?
 
 [name="炎熔"]钟声？哪里的钟声？
+[name="ラヴァ"]鐘の音？　どこからだ？
+[name="Lava"]Bells? Where are they coming from?
+[name="라바"]종소리? 어디에서 나는 종소리지?
 
 [name="村民"]敲钟了？敲钟了！喂，快去把家里人都喊起来！动作快！
+[name="町民"]鐘？　鐘が鳴ったぞ！　おい、早く家族みんなに知らせるんだ！　急げぇ！
+[name="Villager"]The bells are sounding? The bells are sounding! Hey, everyone call your families out! Move quickly!
+[name="마을 사람"]종이 울렸어? 종이 울렸다! 이봐, 빨리 가서 가족들을 모두 불러 내! 어서!
 
 [name="村民"]怎么回事！都这么长时间了！为什么会是今天！
+[name="町民"]どういうことだ！　長いこと鳴ってなかったってのに……どうして今日に限って！？
+[name="Villager"]What's happening!? It's been so long! Why is it happening today?!
+[name="마을 사람"]무슨 일이야! 이미 이렇게 오래되었는데! 왜 하필 오늘!
 
 [name="炎熔"]那个......！请问发生什么了！？
+[name="ラヴァ"]おいっ……！　何が起こったんだ！？
+[name="Lava"]Excuse me! Can I ask what's happening?
+[name="라바"]잠시……! 무슨 일이야?
 
 [name="村民"]你们，你们是外人？敲钟就说明西边的山里来怪物啦！
+[name="町民"]あ、あんたらは外の人間か？　あの鐘の音はな、西の山から化け物が来る合図だ！
+[name="Villager"]Are you—are you outsiders? The bells mean monsters are coming from the west mountains!
+[name="마을 사람"]당, 당신들은 외부인인가? 종을 친다는 건 서쪽 산에서 괴물이 온다는 소리야!
 
 [name="村民"]那些怪物见不得光，只要跑到有太阳的地方，就安全了！
+[name="町民"]化け物は光に近づけない。太陽の出てる場所にいれば助かる！
+[name="Villager"]Those monsters can't stand light! Just run to where the sun is and you'll be safe!
+[name="마을 사람"]그 괴물들은 빛을 볼 수 없기 때문에, 햇빛이 있는 곳으로 피하면 안전할 거야!
 
 [name="乌有"]怪，怪物？什么怪物？
+[name="ウユウ"]ば、化け物？　どんな化け物なんだい？
+[name="Mr.Nothing"]M—Monsters? What monsters?
+[name="우요우"]괴, 괴물!? 무슨 괴물이……
 
 [name="村民"]哎呀，没空和你瞎唠叨啦！别挡着我，我得把老婆带到这儿来呀！
+[name="町民"]ああもう、あんたらと喋ってる暇はねぇよ！　邪魔しないでくれ、妻も連れてこなきゃならないんだ！
+[name="Villager"]Look, I've got no time to chat with you! Get out of my way, I need to bring my wife over here!
+[name="마을 사람"]아이고, 당신들이랑 쓸데없는 소리 할 시간 없어! 비켜, 난 아내를 이곳까지 데려와야 한다고!
 
 [name="孩子"]妈妈！妈妈！
+[name="子供"]お母さん！　お母さん！
+[name="Child"]Mama! Mama!
+[name="아이"]엄마! 엄마!
 
 [name="村民"]都在这儿了吗？还少谁！快去找找！
+[name="町民"]皆いるか？　来ていない者はいないか！　早く確認しろ！
+[name="Villager"]Is everyone here? We're still missing someone! Start looking, fast!
+[name="마을 사람"]다 왔나? 안 온 사람 없나?! 빨리 확인해!
 
 [name="乌有"]恩人，恩人，咱们也赶紧去避难吧！
+[name="ウユウ"]恩人様、恩人様、私たちも早く避難しましょう！
+[name="Mr.Nothing"]Benefactors, benefactors, let us hurry and take shelter!
+[name="우요우"]은인님, 은인님, 우리도 빨리 가서 숨어요!
 
 [name="乌有"]说是只要跑到有太阳的地方就没事儿了？那咱们赶紧——恩人？
+[name="ウユウ"]太陽の出てるところに行けば安全だそうですよ！　なら私たちも早く――恩人様？
+[name="Mr.Nothing"]They said we'll be fine if we run somewhere where the sun is? Then let us hurry—benefactors?
+[name="우요우"]햇빛이 있는 곳으로 도망가면 괜찮다고 그랬죠? 그럼 우리 어서…… 은인님?
 
 [name="炎熔"]......克洛丝。
+[name="ラヴァ"]……クルース。
+[name="Lava"]...Kroos.
+[name="라바"]……크루스.
 
 [name="克洛丝"]准备好啦。
+[name="クルース"]準備できたよぉ。
+[name="Kroos"]Ready.
+[name="크루스"]준비됐어~
 
 [name="炎熔"]好。
+[name="ラヴァ"]よし。
+[name="Lava"]Good.
+[name="라바"]좋아.
 
 [name="乌有"]——恩人！？别闹啦，我们自个儿都是一团浆糊，还是先躲躲再说吧！
+[name="ウユウ"]――恩人様！？　無茶は止めましょうよ。未だに状況がはっきりしないんですから、まずは身を隠して――
+[name="Mr.Nothing"]—Benefactors!? This is no time for jokes, we're no better than paste on our own! Let's hide before we do anything else!
+[name="우요우"]……은인님!? 하지 마세요. 우리 모두 정신이 없는 상태이니, 일단 피하고 다시 이야기하시죠!
 
 [name="乌有"]诶！诶诶！这怎么就冲过去了！唉！我的好恩人呐，你们——等我，等我一下啊！
+[name="ウユウ"]え！　ちょっと、どうして突っ込んで行くんです！？　ああもう、恩人様方ときたら……待ってください、私も行きます！
+[name="Mr.Nothing"]Here! Here, here! Why are you charging them! Alas! My good benefactors, you—wait for me, wait for me a moment!
+[name="우요우"]어! 어어! 왜 바로 공격하는 겁니까! 아이고! 은인님들…… 잠깐만요, 좀 기다려 주세요!
 

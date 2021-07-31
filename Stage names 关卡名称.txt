@@ -248,7 +248,7 @@ tr_12
 施术单元
 分散配置
 Casters
-캐스터 유닛
+아츠 유닛
 
 main_02-04
 企鹅物流
@@ -643,7 +643,7 @@ Bells of Liberation
 main_06-10
 “这种事”
 「こんな事」
-"Times Like These"
+'Times Like These'
  '이런' 일
 
 main_06-11
@@ -924,7 +924,7 @@ Malediction, Bound for Retribution
 
 main_08-13
 落雪，浸黑国土
-国土覆う「深雪」
+国土覆う「黒雪」
 Snowfall, Blackening the Earth
 눈꽃, 까맣게 영토를 물들인
 
@@ -960,7 +960,7 @@ An Epilogue, or a Beginning
 
 spst_08-01
 燃烧的片段3
-燃焼の断章1
+燃焼の断章3
 Burnt Fragment 3
 불타버린 조각3
 
@@ -972,7 +972,7 @@ Burnt Fragment 2
 
 spst_08-03
 燃烧的片段1
-燃焼の断章3
+燃焼の断章1
 Burnt Fragment 1
 불타버린 조각1
 
@@ -1432,6 +1432,54 @@ pro_d_2
 Assault
 맹공
 
+act8mini_01
+侧面作战
+
+act8mini_02
+从天而降
+
+act8mini_03
+亲子聚会
+
+act8mini_04
+整装列队
+
+act8mini_05
+倒带
+
+act8mini_06
+昨日
+
+act8mini_07
+分解和弦
+
+act1lock_a-01
+拂晓之处-认识
+
+act1lock_a-02
+拂晓之处-理想
+
+act1lock_a-03
+拂晓之处-感官
+
+act1lock_a-04
+拂晓之处-物性
+
+act1lock_b-01
+白昼之地-处世
+
+act1lock_b-02
+白昼之地-幻象
+
+act1lock_b-03
+白昼之地-沉思
+
+act1lock_b-04
+白昼之地-坚守
+
+act1lock_c-01
+黄昏秘境
+
 act7mini_01
 深入敌阵
 
@@ -1629,93 +1677,183 @@ act17d0_ex08
 
 act16d5_st01
 一钳之恩
+恩義
+A Pincer's Grace
+작은 은혜
 
 act16d5_01
 初醒
+目覚め
+First Waking
+깨어남
 
 act16d5_tr01
 呓语
+寝言
+Sleep Talking
+잠꼬대
 
 act16d5_02
 墨魉
+墨魎
+Ink Spirits
+묵량
 
 act16d5_03
 向阳
+陽を目指す
+Facing the Sun
+해를 향해
 
 act16d5_04
 掌柜
+女将
+Shopkeeper
+상점 주인
 
 act16d5_05
 拙山
+拙山
+Crude Mounts
+우둔한 산
 
 act16d5_st02
 一日之祸
+一日の災い
+A Day's Calamity
+하루의 재난
 
 act16d5_06
 画中
+画中
+Away in the Painting
+그림 속
 
 act16d5_07
 好坏
+善悪
+Good and Bad
+좋고 나쁨
 
 act16d5_08
 大梦
+夢幻
+A Dream
+큰 꿈
 
 act16d5_09
 观花
+花見
+Seeing the Flowers
+꽃구경
 
 act16d5_10
  夕
+夕
+ Dusk
+시
 
 act16d5_st03
 一问之答
+答え
+A Question's Answer
+일문지답
 
 act16d5_ex01
 调和
+調和
+Harmonious
+조화
 
 act16d5_ex02
  妒恨
+怨嗟
+ Envious Hate
+질투
 
 act16d5_ex03
 阵法
+布陣
+The Art of Formation
+진법
 
 act16d5_ex04
  美感
+美感
+ Aesthetics
+미적 감각
 
 act16d5_ex05
 栈道
+桟道
+Cliff Walkway
+잔도
 
 act16d5_ex06
 当关
+死守
+Holding the Pass
+문지기
 
 act16d5_ex07
 迷途
+迷路
+Lost and Straying
+길을 헤매다
 
 act16d5_ex08
 规矩
+摂理
+Rule
+규율
 
 act15d5_01
 异常集聚
+異常集結
+Abnormal Gathering
+이상한 모임
 
 act15d5_02
 强风
+強風
+Strong Winds
+강풍
 
 act15d5_03
 致命失误
+致命的誤り
+Fatal Mistake
+치명적 실수
 
 act15d5_04
 战术配合
+連携戦術
+Tactical Coordination
+전술 조합
 
 act15d5_05
 齐唱
+斉唱
+Voices in Unison
+제창
 
 act15d5_06
 光荣援助
+栄光ある助力
+Glorious Aid
+영광스러운 지원
 
 act15d5_07
 坚守阵地
+陣地堅守
+Stand Your Ground
+진지 사수
 
 act15d5_08
 堵不如疏
+自然のままに
+Be Like Water
+소통은 원활하게
 
 act15d0_01
 密会
@@ -2873,11 +3011,14 @@ camp_r_02
 北原冰封废城
 北原氷結廃城
 Frozen Abandoned City
-북툰드라 얼어붙은 유령도시
+북툰드라 얼어붙은 유령 도시
 
 camp_r_03
 废弃矿区
 
 camp_r_04
 潮没海滨
+
+camp_r_05
+积水潮窟
 

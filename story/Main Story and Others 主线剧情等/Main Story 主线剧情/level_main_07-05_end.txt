@@ -60,7 +60,7 @@ Wailing, screaming, groaning.
 
 [Decision(options="她多大年纪？ ", values="1")]
 [Decision(options="彼女はいくつなんだ？", values="1")]
-[Decision(options="How old is she? ", values="1")]
+[Decision(options="How old is she? ", values="1")]
 [Decision(options="로즈몬티스는 몇 살이야?", values="1")]
 
 [name="凯尔希"]  14岁。
@@ -190,12 +190,12 @@ Wailing, screaming, groaning.
 
 [name="迷迭香"]  我和阿米娅站在战场上......看到我们，谁的第一印象是“孩子”呢？
 [name="ロスモンティス"]  敵が私とアーミヤの戦いを見たとき、まず最初に「子供」だなんて思う人はいないよね？
-[name="Rosmontis"]  When Amiya or I stand on the battlefield... who looks at us and thinks “children?”
+[name="Rosmontis"]  When Amiya or I stand on the battlefield... who looks at us and thinks 'children?'
 [name="로즈몬티스"]  나랑 아미야가 전장에 있을 때…… 누가 우리를 '아이'로 봐줄까?
 
 [name="迷迭香"]  博士，我们是“怪物”吧？
 [name="ロスモンティス"]  ドクター、私たちは「怪物」でしょ？
-[name="Rosmontis"]  We’re “monsters,” aren’t we, Doctor?
+[name="Rosmontis"]  We’re 'monsters,' aren’t we, Doctor?
 [name="로즈몬티스"]  박사, 우린 '괴물'이잖아.
 
 [Decision(options="不！！;......;这只是你自己的看法。", values="1;2;3")]
@@ -580,12 +580,12 @@ Wailing, screaming, groaning.
 
 [name="凯尔希"]  “当剥夺了人类个体的自我意识时，剩下的是什么？诞生的又是什么？”
 [name="ケルシー"]  「人間から自我が奪われた後、そこに残った個体をいったいどう定義するのか？」
-[name="Kal'tsit"]  “When you deprive a human being of her sentience, what is left? What is created?”
+[name="Kal'tsit"]  'When you deprive a human being of her sentience, what is left? What is created?'
 [name="켈시"]  "한 인간 개체에게서 자아를 빼앗으면 무엇이 남는가? 또 무엇이 탄생하는가?"
 
 [name="凯尔希"]  “当它剥夺我们的生命时，有罪的究竟是谁？”
 [name="ケルシー"]  「その個体が兵器となり、それによって他者の命が奪われた時、咎められるべきは誰なのか？」
-[name="Kal'tsit"]  “When that creation deprives us of our lives, who is at fault?”
+[name="Kal'tsit"]  'When that creation deprives us of our lives, who is at fault?'
 [name="켈시"]  "만약 그것이 살인을 저지르면, 그 죄는 과연 누구에게 있는가?"
 
 [name="凯尔希"]  是造出武器的人，是使用武器的人，还是被当作武器的人？
@@ -716,7 +716,7 @@ Wailing, screaming, groaning.
 [name="凯尔希"]  卡特斯人的生理变化和血魔生理变化有着难以估量的差别。到现在为止，我们已经离开卡兹戴尔三年了。
 [name="ケルシー"]  そもそもコータスとブラッドブルードとでは、成長速度に天地ほどの開きがある……私たちがカズデルを出てから今日までで既に3年が経過している。
 [name="Kal'tsit"]  Age progression in Cautuses and Vampires is radically different. It has been three years since we left Kazdel.
-[name="켈시"]  카우투스의 생리적 변화는 흡혈귀와는 차원이 달라. 우리가 카즈델을 떠난 지 벌써 삼 년이라고.
+[name="켈시"]  카우투스의 생리적 변화는 뱀파이어와는 차원이 달라. 우리가 카즈델을 떠난 지 벌써 삼 년이라고.
 
 [name="凯尔希"]  也许你的时间只过去了一点点，但阿米娅已经成长了许多。
 [name="ケルシー"]  君にとっては一瞬かもしれないが、アーミヤが成長するには十分な時間だ。
@@ -730,7 +730,7 @@ Wailing, screaming, groaning.
 
 [name="凯尔希"]  ......“最后的温迪戈将会死在魔王手中？”
 [name="ケルシー"]  ……「最後のウェンディゴは魔王の手によって死ぬ」？
-[name="Kal'tsit"]  ...”The last Wendigo will die at the hands of the Lord of Fiends?”
+[name="Kal'tsit"]  ...'The last Wendigo will die at the hands of the Lord of Fiends?'
 [name="켈시"]  ……"최후의 웬디고는 마왕의 손에 죽는다"?
 
 [name="华法琳"]  就是这个。我知道那个游击队，以及领袖。是他没错。
@@ -740,17 +740,17 @@ Wailing, screaming, groaning.
 
 [name="凯尔希"]  预言原本的句式是“胡尔提克茨之子，萨卡兹的背叛者和血脉末端的不荣誉者将遭萨卡兹的君主出手处决。”
 [name="ケルシー"]  預言の原文は「ホルテクツの仔、サルカズに背きし者、及び其の不義の血脈に連なる末裔は、サルカズ君主の手ずから断絶せらる」というものだ。
-[name="Kal'tsit"]  The original phrasing of the prophecy was “The son of Hor-Tekrz, traitor to Sarkaz and disreputable end of the bloodline, will be executed by the Lord of Sarkaz.”
+[name="Kal'tsit"]  The original phrasing of the prophecy was 'The son of Hor-Tekrz, traitor to Sarkaz and disreputable end of the bloodline, will be executed by the Lord of Sarkaz.'
 [name="켈시"]  예언의 원문은 "호르테크츠의 자식, 살카즈의 배반자와 마지막 핏줄의 불명예자는 살카즈의 군주에게 처형될 것이다"였어.
 
 [name="凯尔希"]  那甚至算不上个预言。无论他们所谓的“血脉”是否得到了延续，迄今为止，依然有许多温迪戈还在乌萨斯和哥伦比亚生活着。
 [name="ケルシー"]  あれは預言とは呼べない。彼らの純粋な——いわゆる「血脈」が生き延びていようがいまいが、今でもウルサスやクルビアには多くのウェンディゴが生存している。
-[name="Kal'tsit"]  Some prophecy. Whether or not there’s any extension of their “bloodline,” there are still many Wendigos living their lives in Columbia and Ursus.
+[name="Kal'tsit"]  Some prophecy. Whether or not there’s any extension of their 'bloodline,' there are still many Wendigos living their lives in Columbia and Ursus.
 [name="켈시"]  이건 예언이라 할 수도 없어. 그들이 소위 말하는 '핏줄'이 지금까지 이어졌는지는 모르겠지만, 여전히 많은 웬디고가 우르수스와 컬럼비아에 살고 있는걸.
 
 [name="凯尔希"]  ......如果你允许我把几十个算作“许多”的话。
 [name="ケルシー"]  ……数十人を「多く」と言って差し支えないのであれば、な。
-[name="Kal'tsit"]  ...That is, if a few dozen can be called “many.”
+[name="Kal'tsit"]  ...That is, if a few dozen can be called 'many.'
 [name="켈시"]  ……몇십 명도 '많은 것'으로 쳐준다면 말이지만.
 
 [name="凯尔希"]  而且，结合当时的语境，你应该将它看作是一句威胁。很多人不希望温迪戈们离开卡兹戴尔。
@@ -765,7 +765,7 @@ Wailing, screaming, groaning.
 
 [name="凯尔希"]  你是不是上年纪了，怎么会相信“预言”这种萨卡兹巫术般的说辞？
 [name="ケルシー"]  ……君も歳を取ったな。サルカズ巫術の「預言」などという戯言を信じるとは。
-[name="Kal'tsit"]  Are you getting old? Since when do you believe in “prophecies” and Sarkaz witchcraft?
+[name="Kal'tsit"]  Are you getting old? Since when do you believe in 'prophecies' and Sarkaz witchcraft?
 [name="켈시"]  네 나이가 몇인데 아직도 살카즈 주술 같은 '예언' 따위를 믿는 거지?
 
 [name="华法琳"]  ——年纪？你，你好意思说我？！
@@ -811,7 +811,7 @@ Wailing, screaming, groaning.
 [name="华法琳"]  即使我是血魔，那个老头是温迪戈，也一样。
 [name="ワルファリン"]  妾がブラッドブルードで、あの老いぼれがウェンディゴでも、それは関係ない。
 [name="Warfarin"]  I am a Vampire, and the old man is a Wendigo, but we are the same.
-[name="와파린"]  나는 흡혈귀고, 그 늙은이는 웬디고라고 해도 말이야.
+[name="와파린"]  나는 뱀파이어고, 그 늙은이는 웬디고라고 해도 말이야.
 
 [name="华法琳"]  ......萨卡兹人在这片大地上已经过得够难了。可能的话，我希望他能回到卡兹戴尔。来我们这里也行。
 [name="ワルファリン"]  ……この大地で、サルカズは不遇の日々を送っている。妾は慈善家でもお人好しでもないが、可能なら、あやつにはカズデルに戻ってほしいのだ。無論、我々ロドスに来てもよいが。
@@ -870,7 +870,7 @@ Wailing, screaming, groaning.
 
 [name="凯尔希"]  前些时间切尔诺伯格的感染者诊所“阿撒兹勒”已经与我们交换了信息。我得知的不仅仅是他正服务于整合运动这件事。
 [name="ケルシー"]  先日、チェルノボーグの感染者診療所「アザゼル」より最新の情報が入った。判明したのは彼がレユニオンに協力しているということだけではない。
-[name="Kal'tsit"]  Some time ago, an Infected clinic in Chernobog called “Azazel” traded information with us. I learned some more information about the Wendigo in Reunion's service.
+[name="Kal'tsit"]  Some time ago, an Infected clinic in Chernobog called 'Azazel' traded information with us. I learned some more information about the Wendigo in Reunion's service.
 [name="켈시"]  얼마 전 체르노보그의 감염자 진료소 '아자젤'과 정보를 교환했다. 내가 알아낸 건 그가 리유니온에 몸담고 있다는 사실만이 아니야.
 
 [name="凯尔希"]  此外，你该清楚，如果你与他交战，你甚至可以尝出乌萨斯最暴虐时的刀锋是沾着咸味还是锈味。
@@ -910,7 +910,7 @@ Wailing, screaming, groaning.
 
 [name="凯尔希"]  “不许在任何场合——哪怕是罗德岛——再提起‘魔王’二字。”
 [name="ケルシー"]  「いかなる場合でも――たとえロドスの中にいても――『魔王』という言葉を口にすることは一切禁ずる。」
-[name="Kal'tsit"]  “Do not, under any circumstances, even at Rhodes Island, speak of ‘the Lord of Fiends.’”
+[name="Kal'tsit"]  'Do not, under any circumstances, even at Rhodes Island, speak of ‘the Lord of Fiends.’'
 [name="켈시"]  "언제 어디서도, 비록 그곳이 로도스 아일랜드일지라도, '마왕'이란 두 글자를 언급하지 마라."
 
 [name="凯尔希"]  永远不许。

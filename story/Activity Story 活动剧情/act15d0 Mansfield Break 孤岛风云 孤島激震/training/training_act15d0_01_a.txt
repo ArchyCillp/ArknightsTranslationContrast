@@ -10,6 +10,6 @@
 
 [PopupDialog(dialogHead="$avatar_silent")]敌人在“禁锢”状态下<@tu.kw>攻击</>时，会消耗终端的能量。
 [PopupDialog(dialogHead="$avatar_silent")]敵が「禁固」状態で<@tu.kw>攻撃</>すると、端末のエネルギーが減少する。
-[PopupDialog(dialogHead="$avatar_silent")]When the enemy <@tu.kw>attacks</> during the “Imprisoned” state, the it consumes the power of the shackles.
+[PopupDialog(dialogHead="$avatar_silent")]When the enemy <@tu.kw>attacks</> during the 'Imprisoned' state, the it consumes the power of the shackles.
 [PopupDialog(dialogHead="$avatar_silent")]적이 '구속' 상태에서 <@tu.kw>공격</>하면 단말기의 에너지가 소모된다.
 

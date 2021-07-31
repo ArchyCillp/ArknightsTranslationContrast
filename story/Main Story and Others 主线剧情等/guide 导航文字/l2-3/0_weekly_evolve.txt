@@ -1,8 +1,20 @@
 [PopupDialog(dialogHead="$avatar_sys")] 与你奋战至此的干员们已经积累了不少的经验，是时候为他们的晋升做准备了。
+[PopupDialog(dialogHead="$avatar_sys")] ドクター様と共に奮闘してこられたオペレーターの皆様は、すでにかなりの経験を積んだと言って差し支えないでしょう。今こそ昇進のときです。
+[PopupDialog(dialogHead="$avatar_sys")] Your Operators have been through enough battles to be Promoted.
+[PopupDialog(dialogHead="$avatar_sys")] 지금까지 함께 싸워온 오퍼레이터들이 충분한 경험을 쌓은 관계로, 박사님께선 이들의 승진 준비를 해주셔야 합니다.
 
 [PopupDialog(dialogHead="$avatar_amiya")] 啊，PRTS，等等！博士，为了晋升你的干员，还需要一些专门的材料。
+[PopupDialog(dialogHead="$avatar_amiya")] あっ、PRTS、少し待ってください！　ドクター、オペレーターを昇進させるためには各種専用アイテムが必要なんです。
+[PopupDialog(dialogHead="$avatar_amiya")] Wait, PRTS, hold on! Doctor, you’ll need some special materials before you can promote your Operators!
+[PopupDialog(dialogHead="$avatar_amiya")] 앗, PRTS! 잠시만 기다려주세요! 박사님, 오퍼레이터 승진을 통해 정예화를 시키려면, 특수 아이템이 필요해요.
 
 [PopupDialog(dialogHead="$avatar_amiya")] 晋升材料关卡和资源型作战关卡一样，开放时间会根据日期的不同有所限制。如果遇到当天没有开放的作战行动，博士需要改日再来。
+[PopupDialog(dialogHead="$avatar_amiya")] 昇進用アイテムを獲得できる作戦は、物資調達作戦と同様に曜日ごとに開放される種類が異なります。希望の作戦が開放されていない場合は、日を改めてください。
+[PopupDialog(dialogHead="$avatar_amiya")] Material Skirmishes are just like Resource Skirmishes. Come back on another day if the materials you are trying to get are not available.
+[PopupDialog(dialogHead="$avatar_amiya")] 정예화 아이템을 획득할 수 있는 작전은 물자 비축 작전과 마찬가지로 날마다 개방되는 스테이지가 달라요. 만약 박사님께서 진행하고 싶으신 작전이 잠금 상태라면, 다른 날에 와 주셔야 해요.
 
 [PopupDialog(dialogHead="$avatar_sys")] 各个职业所需要的晋升材料也不相同，请安排材料的获取顺序，晋升干员，让他们早日成为你更强大的助力。
+[PopupDialog(dialogHead="$avatar_sys")] ジョブごとに昇進に必要なアイテムは異なります。計画的にアイテムを集め、オペレーターたちをいち早く成長させていってください。
+[PopupDialog(dialogHead="$avatar_sys")] Each class also requires different materials for Promotion, so plan your Skirmishes accordingly. Remember, promoting your Operators will really help you in the long run.
+[PopupDialog(dialogHead="$avatar_sys")] 오퍼레이터의 클래스에 따라 필요한 아이템이 달라지니, 효율적으로 재료를 획득하여 하루라도 더 빨리 승진시켜줄 수 있도록 하여 주십시오.
 

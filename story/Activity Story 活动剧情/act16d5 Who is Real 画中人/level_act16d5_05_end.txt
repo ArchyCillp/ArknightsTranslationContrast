@@ -1,214 +1,535 @@
 [Subtitle(text="烟雾是城市的血。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="煙霧は都市の血である。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="The haze is the blood of a city.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="연기는 도시가 흘리는 피다.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
 
 [Subtitle(text="我曾见过月面的轮廓模糊不见，只留下宛如雕刻似的斑迹工整地留在天上，月色顺着被刺破的边界流入天空，晕染一片。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="私はかつて輪郭のない月を見た。それは彫刻のようなまだら模様を天上に残し、破れた境界線から天空へと色が流れ出て滲んでいた。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="I once saw the silhouette of the moon made indistinct, leaving only a round mark as if carefully carved high above, the moonlight along its pierced boundaries flowing into the sky, smearing whole.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="난 윤곽이 희미하게 사라져 조각 같은 얼룩만을 깔끔하게 하늘에 남긴 달과, 찢긴 경계를 따라 흘러들어 하늘을 온통 물들인 달빛을 본 적이 있다.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="我曾见我热爱的家园陷于火海。我被迫翻山越岭，从这头走到那头。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="私はかつて、愛する故郷が火の海に呑まれるのを見た。私はやむなく野を越え山を越え、こちら側からあちら側へ向かった。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="I once saw the home I loved taken by a sea of flames. I was forced across the hard mountains, from one peak to another.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="난 내가 사랑하는 고향이 화마에 삼켜지던 것을 본 적이 있다. 난 산을 넘고 강을 건너야 했으며, 세상의 이쪽 끝에서 저쪽 끝까지 걸어야만 했다.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="我见过饥饿的灾民互相蚕食。当鲜血淋漓的厮杀发生时，就在擦肩而过的距离，人可以像无事发生过那样，看着前方，行走。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="私は飢えた被災者が互いに略奪し合うのを見た。肩が擦れるほどの距離で鮮血の飛び散る殺戮が起こっても、人々は何事もなかったかのように前だけを見て歩くようになっていた。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="I've seen the victims of famine gnawing away at each other. In times of fighting drenched in blood, taking place within a hair's distance, people can seem like nothing ever happened, look ahead of them, and walk on.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="난 굶주린 이재민들이 서로를 잡아먹는 걸 본 적이 있다. 선혈이 낭자한 살육이 벌어지고 있어도, 손만 뻗어도 닿을 수 있는 거리에서조차, 사람들은 마치 아무 일도 없는 것처럼 앞만 보고, 지나쳐 갔다.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="我见过那条漫漫长路，我曾疑惑为何所有人都会选择同一条道路，死亡是注定的，我们只是在麻木中殊途同归。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="私はあの長い長い道を見た。かつては、なぜ全ての人間が同じ道を選んでしまうのかと疑問に思っていた。だが死とは定めだ。私たちはただ、麻痺した心と共に、同じ結末をたどる。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="I've seen that long, long road. I used to puzzle over why everyone would choose the same path, why death is predestined, why we are only numbly walking down ways that will meet again.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="난 그 기나긴 길을 본 적이 있다. 난 왜 모든 사람이 같은 길을 선택하는지 궁금했던 적이 있었다. 방법은 달라도 어차피 우린 무감각 속에서 이미 정해져 있는 죽음이라는 목적지를 향해 갈 뿐인 것을.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="我见过荒漠与青山绿水，见过因一个踉跄就再也没有爬起来过的朋友，见过父母那只是短短一瞬的想要抛下自己的眼神。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="私は荒廃した砂漠と青々と連なる森を見た。よろよろと倒れ、二度と立ち上がらなかった友人を見た。両親の目がほんの一瞬、私を捨てたいと語ったのを見た。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="I've seen the barrens and the verdant mountain waters. Seen friends who stumbled down once and so never climbed up again. Seen the looks in parents' eyes in that brief, brief moment they wanted to abandon their own.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="난 황량한 사막과 아름다운 산천도, 비틀거림 끝에 결국 다시 일어나지 못한 친구도, 그리고 비록 순간이었지만 자신을 포기하려고 하던 부모님의 눈빛을 본 적도 있다.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="——我见过你。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="――あなたを見たことがある。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="—I've seen you.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="……난 당신을 본 적이 있다.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="我认得你。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="あなたのことを知っている。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="I recognize you.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="난 당신을 알고 있다.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="你的眼睛。你高高在上的，冰冷的，孤独的眼睛。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="あなたの目は、高みから見下ろすようで、氷のように冷たく孤独を宿している。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="The look in your eyes. The lofty, ice-cold, solitary look in your eyes.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="당신의 눈. 아득한 위를 바라보며 얼음처럼 차갑고 고독을 품은 당신의 그 눈.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="比遭遇天灾袭击，被父母遗弃，在饥饿与垂死边缘挣扎的我还要悲哀，莫大的悲哀。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="天災の被害を受けるよりも、父母に捨てられ飢えと死の境界線でもがき苦しんだ私よりも、ずっと悲しい目をしていた。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="More than a Catastrophe's onslaught, than your mother and father abandoning you, than struggling in starvation on the brink of death, it puts sorrow for you in me. The greatest of all sorrows.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="재앙보다 부모의 버림과 기아와 죽음에 허덕이는 내가 더 안쓰럽다. 더할 수 없는 안쓰러움이다.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="你在看我，还是在看你自己？", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="今でも覚えている。私はこうあなたに問うたことを。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="Are you looking at me, or are you looking at yourself?", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="당신은 나를 바라보는 것인가? 아니면, 당신 자신을 보는 것인가?", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [Subtitle(text="我记得，我这么问过你。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="「私を見ているの？　それとも自分自身を見ているの？」", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="I remember—how I once asked you this.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="나는 당신에게 이런 질문을 했었지.", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 
 [name="村民"]别过来！别过来！
+[name="町民"]来るな！　来るなぁ！！
+[name="Villager"]Stay away! Get back!
+[name="마을 사람"]오지 마! 다가오지 마!
 
 [name="村民"]它、它吃掉了我的手，哈、哈哈，我怎么一点感觉不到疼，我——
+[name="町民"]ててて、手がっ、俺の手がぁ！　……は、はは、どうして全く痛くないんだ？　俺は――
+[name="Villager"]It—it bit off my hand—ha, haha—why can't I feel any pain at all, why—
+[name="마을 사람"]저, 저 녀석이 내 손을 뜯어먹었어. 하, 하하, 그런데 왜 조금도 아프지가 않지, 난……
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガアッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="村民"]噫——别过来！
+[name="町民"]ひいっ――来ないでっ！
+[name="Villager"]Eek—stay away!
+[name="마을 사람"]으윽…… 저리 가!
 
 [name="炎熔"]你没事吧！
+[name="ラヴァ"]大丈夫か！
+[name="Lava"]Are you okay?!
+[name="라바"]괜찮은 거야?
 
 [name="村民"]你为什么才来！！为什么没有人敲钟！那个守岁的僧人去哪儿了！？
+[name="町民"]遅いじゃない！！　どうして誰も鐘を叩かなかったの？　除夜の鐘を打つ僧侶はどこに行ったの！？
+[name="Villager"]Why did you only just come?! Why did nobody sound the bell?! Where'd the vigilant monk go?!
+[name="마을 사람"]왜 이렇게 늦게 온 거야!! 왜 아무도 종을 치지 않았지?! 그 종치기 스님은 어디 간 거야!?
 
 [name="村民"]明明是信任你们，才按你们说的去做的，为什么！为什么我丈夫会死！你们要怎么赔，要怎么赔！！
+[name="町民"]あなたたちを信じて言う通りにしたのに、どうして！？　どうして私の夫は死んじゃったの！？　一体どうやって……どうやって償うつもりよ！
+[name="Villager"]You know we trusted you, so we did what you said! Why! Why did my husband have to die?! How can you make up for that?! How?!
+[name="마을 사람"]당신들을 믿고 시키는 대로 다 했는데, 왜! 왜 내 남편이 죽은 거야! 어떻게 책임질 거야, 어떻게 책임질 거냐고!!
 
 [name="炎熔"]......先离开这里再说。
+[name="ラヴァ"]……まずはここを離れるのが先決だ。
+[name="Lava"]We'll talk when we're safe.
+[name="라바"]……일단 여기부터 벗어난 뒤 다시 이야기하지.
 
 [name="小女孩"]唔啊啊——妈妈，妈妈，你还我妈妈！
+[name="女の子"]うわあぁ――お母さん、お母さん、お母さんを返してよぉ！
+[name="Little Girl"]Waaahhh—mama, mama! Give my mama back!
+[name="여자아이"]우아앙…… 엄마, 엄마, 엄마를 돌려줘!
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガアッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="乌有"]唔哦！这次也是千钧一发啊！
+[name="ウユウ"]うおっ！　今回も危機一髪だったね！
+[name="Mr.Nothing"]Whoa, there! Even less close for comfort!
+[name="우요우"]어이쿠! 이번에도 하마터면 큰일 날 뻔했네!
 
 [name="小女孩"]叔、叔叔，妈妈，妈妈——
+[name="女の子"]お、おじさん、お母さん、お母さんが――
+[name="Little Girl"]M-Mister, mama, mama—
+[name="여자아이"]아, 아저씨, 엄마, 엄마……
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガアッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="乌有"]先不论这个小家伙，外面好像有些不得了的大玩意啊，小姑娘，抓好了，咱们要开溜了！
+[name="ウユウ"]小さいのを倒すだけならまだしも、外のデカいやつには歯が立たなさそうだ。お嬢ちゃん、しっかり捕まってろよ。ズラかるぞ！
+[name="Mr.Nothing"]Let's ignore this fellow for now! There seems be something disastrous afoot outside! Young lady, hold on tight, we're going to slip out of here!
+[name="우요우"]바깥에 꽤 큰 놈이 있는 것 같으니 이 작은 놈은 일단 신경 쓰지 말고, 꼬마 아가씨, 잘 잡아. 우린 도망갈 거니까!
 
 [name="墨魉"]嘎啊——！嘎啊！
+[name="墨魎"]ガァ――！　グァッ！
+[name="Ink Spirit"]Gkhaa—! Gkhaa!
+[name="묵량"]크아……! 크아!
 
 [name="乌有"]又来一只！？
+[name="ウユウ"]うわっ、もう一匹来た！？
+[name="Mr.Nothing"]Another one?!
+[name="우요우"]또 있어?!
 
 [name="炎熔"]根本、根本解决不完！
+[name="ラヴァ"]き、キリがないな！
+[name="Lava"]I can't—I can't deal with this!
+[name="라바"]도, 도무지 끝이 나질 않는군!
 
 [name="墨魉"]嘎啊——！
+[name="墨魎"]ガア――ッ！
+[name="Ink Spirit"]Gkhaa—!
+[name="묵량"]크아……!
 
 [name="墨魉"]嘎！！
+[name="墨魎"]グガッ！
+[name="Ink Spirit"]Gkh!
+[name="묵량"]크!
 
 [name="炎熔"]它们到底是从哪里冒出来的......！
+[name="ラヴァ"]一体どっから湧き出てやがんだ……！？
+[name="Lava"]Where the hell did they all come from?!
+[name="라바"]도대체 어디에서 튀어나오는 거야……!
 
 [name="炎熔"]不行，这个数量，根本不可能全部拦得住——
+[name="ラヴァ"]ダメだ。この数じゃ、全部は食い止めきれない――
+[name="Lava"]Damnit, there's no way I can hold back this many—
+[name="라바"]안 되겠어, 도저히 막아낼 수 없는 수야……
 
 [name="墨魉"]嘎......？
+[name="墨魎"]ガッ……？
+[name="Ink Spirit"]Gkh...?
+[name="묵량"]크……?
 
 [name="嵯峨"]虽是画中物，倒也不必如此赶尽杀绝......此般景象，看得直教人捶胸顿足。
+[name="サガ"]絵の中の人々とはいえ、これほどにひどい仕打ちを受けるなど……このような光景は、見ていて苦しくなる。
+[name="Saga"]Though they may figures in a painting, there is no need to slaughter them all... observing such a scene only serves to inspire outbursts of sorrow.
+[name="사가"]그림 속 동물이라도 모조리 없애 버릴 필요는 없잖소…… 이런 광경은, 보고만 있어도 괴로운 법이오.
 
 [name="嵯峨"]炎熔施主，这里有小僧看着，快去带他人避难。
+[name="サガ"]ラヴァ殿、ここは拙僧にお任せを。早く他の者を避難させるのだ。
+[name="Saga"]Lava, I am here to watch this place. Thou would best hurry to take others to refuge.
+[name="사가"]여긴 소승이 보고 있을 테니, 라바 시주께선 어서 다른 사람을 대피시키시오.
 
 [name="炎熔"]你......
+[name="ラヴァ"]サガ……
+[name="Lava"]You...
+[name="라바"]너……
 
 [name="嵯峨"]无需担心小僧，小僧在此地游历数载，虽对未来之事有了种种念想，忧虑不定——
+[name="サガ"]心配はご無用。拙僧はこの地を遊歴すること数年、未来への憂いや迷いも多いが――
+[name="Saga"]Worry not for me. I have traveled many times here. I have had all manner of thought on the future, anxieties indeterminate—
+[name="사가"]소승은 걱정하지 마시오, 소승은 몇 년 동안 이곳을 돌아다녔잖소. 비록 미래의 일에 대해 생각은 많지만, 걱정만 할 수는 없지 않소이까……
 
 [name="嵯峨"]——但小僧未有一刻，对身前之事有分毫惘然。
+[name="サガ"]――目の前の危機を見過ごした事は一度もござらん！
+[name="Saga"]—but for that in front of me, I have never been one moment nor fraction irresolute.
+[name="사가"]……소승은 단 한순간도, 눈 앞에 펼쳐진 일 때문에 낙담한 적이 없소.
 
 [name="嵯峨"]此地，交给小僧罢。
+[name="サガ"]ここは、拙僧が守り抜く。
+[name="Saga"]Leave this to me.
+[name="사가"]여긴, 소승에게 맡겨 주시오.
 
 [name="炎熔"]......嗯。继续往东边走，你结束了找我们汇合。
+[name="ラヴァ"]……わかった。終わったら東に向かってくれ。そこでアタシたちと合流しよう。
+[name="Lava"]Alright. Keep going east. When you're done, find me and we'll converge.
+[name="라바"]……응. 계속 동쪽으로 갈 테니까, 끝나면 우릴 찾아와 합류해.
 
 [name="嵯峨"]明白！
+[name="サガ"]承知つかまつった！
+[name="Saga"]Understood!
+[name="사가"]알겠소!
 
 [name="墨魉"]嘎啊！！
+[name="墨魎"]ガアッ！
+[name="Ink Spirit"]Gkhaa!!
+[name="묵량"]크아!!
 
 [name="嵯峨"]小僧在此，莫要向前一步！
+[name="サガ"]拙僧ここにあり！　前に進むでない！
+[name="Saga"]I am here! None shall come forward!
+[name="사가"]소승이 여기 있는 한, 한 걸음도 앞으로 갈 수 없소이다!
 
 [name="墨魉"]！？
+[name="墨魎"]！？
+[name="Ink Spirit"]?!
+[name="묵량"]!?
 
 [name="嵯峨"]过此界者，当斩。
+[name="サガ"]この境界線を越えた者は――斬る。
+[name="Saga"]Those who pass this line—shall be cut down.
+[name="사가"]이 경계를 넘는 자는, 참형에 처하겠소.
 
 [name="小女孩"]唔啊啊——
+[name="女の子"]うあああーーん！
+[name="Little Girl"]Waaahhh—
+[name="여자아이"]으아악……
 
 [name="乌有"]哎哟！我的小姑奶奶！能不能别揪我的头发了！
+[name="ウユウ"]お、お、お嬢ちゃん！　髪を引っ張るのはやめてくれないか？
+[name="Mr.Nothing"]Ow, ow! My dear young lady! Might you be able to stop pulling on my hair!
+[name="우요우"]아야! 꼬마 아가씨! 내 머리 좀 그만 잡아당겨!
 
 [name="小女孩"]妈妈——妈妈——
+[name="女の子"]お母さん――お母さん――
+[name="Little Girl"]Mamaaa—mamaaaa—
+[name="여자아이"]엄마…… 엄마……
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガアッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="乌有"]这玩意就会嘎嘎嘎地叫，这么能追你怎么不吐几句人话呢！？
+[name="ウユウ"]ガァガァガァガァうるさいなぁ。こんなにしつこく追いかけ回す頭があるならば、人の言葉くらい話してみたまえ！
+[name="Mr.Nothing"]These cretins only keep gkh-gkh-gkhing! How can things so bent on chasing you not spit out a human word or two?!
+[name="우요우"]이 녀석은 크아 밖에 할 줄 모르나. 이렇게 쫓아다니기는 잘하면서, 사람 말은 할 줄 모르는 거냐?!
 
 [name="墨魉"]嘎......
+[name="墨魎"]ガ……
+[name="Ink Spirit"]Gkh...
+[name="묵량"]크……
 
 [name="墨魉"]......别......跑......
+[name="墨魎"]……ニゲ……ルナ……
+[name="Ink Spirit"]...DON'T... RUN...
+[name="묵량"]……도망…… 치지 마……
 
 [name="乌有"]哎呀妈呀，我就说着玩的，不必如此，大可不必如此呀——！
+[name="ウユウ"]うおぉ、今のは冗談だって！　なっ、なんでも真に受けないでよ！
+[name="Mr.Nothing"]Good heavens, I was only joking! You need not! You absolutely need not—!
+[name="우요우"]으악 깜짝이야! 농담이야. 그러지 마, 그럴 필욘 없어……!
 
 [name="小女孩"]呜呜呜，叔叔，前、前面！
+[name="女の子"]ううぅ、おじさん、前、前！
+[name="Little Girl"]*whimper* Mister, l—look in front!
+[name="여자아이"]흐흑…… 아저씨! 아, 앞에!
 
 [name="乌有"]呃？
+[name="ウユウ"]へっ？
+[name="Mr.Nothing"]Eh?
+[name="우요우"]네?
 
 [name="村民"]咿呀！
+[name="町民"]いやぁっ！
+[name="Villager"]Yaaagh!
+[name="마을 사람"]꺄아!
 
 [name="村民"]你、你是那个算命的......？其他两位英雄在哪儿呢？
+[name="町民"]あ、あなたは占い師さん？　他の二人の英雄はどうしたんです？
+[name="Villager"]A—Are you that fortune-teller...? Where are the other two heroes?
+[name="마을 사람"]다, 당신은 그 점쟁이……? 다른 두 영웅은 어디 있죠?
 
 [name="村民"]你身后，身后！
+[name="町民"]危ない、後ろ！
+[name="Villager"]Behind you, behind you!
+[name="마을 사람"]당신 뒤, 뒤에!
 
 [name="墨魉"]嘎啊！
+[name="墨魎"]ガアッ！
+[name="Ink Spirit"]Gkhaa!
+[name="묵량"]크아!
 
 [name="村民"]你怎么把它们引来了！你快想想办法——想想办法啊！
+[name="町民"]どうして化け物を連れてきたんです？　早く何とかしてください！
+[name="Villager"]Why did you bring it over here!? Think of something—think of something!
+[name="마을 사람"]왜 저놈들을 끌어들인 거예요! 어서 방법을 생각해 봐요…… 어서요!
 
 [name="乌有"]我能想什么办法！？
+[name="ウユウ"]ええ？　私が！？
+[name="Mr.Nothing"]What can I possibly think of?!
+[name="우요우"]에에?! 내가?!!
 
 [name="村民"]你把它们引开，引开啊！
+[name="町民"]化け物を引き離してください、早く！
+[name="Villager"]Lead them away from here, away!
+[name="마을 사람"]당신이 저놈들의 주의를, 주의를 좀 끌어봐요!
 
 [name="乌有"]我......我也......
+[name="ウユウ"]い……いや私だってね――
+[name="Mr.Nothing"]I... I'm...
+[name="우요우"]아니…… 나도……
 
 [name="小女孩"]呜呜呜，呜啊啊啊，妈妈，妈妈——
+[name="女の子"]ううぅ、うわあぁ、お母さん、お母さん――
+[name="Little Girl"]*whimper* Waaahhhh, mama, mama—
+[name="여자아이"]흐아아앙…… 으아앙…… 엄마, 엄마……
 
 [name="乌有"]......
+[name="ウユウ"]…………
+[name="Mr.Nothing"]......
+[name="우요우"]……
 
 [name="村民"]哎哟，快别哭了！别哭！丫头，别哭了！
+[name="町民"]ああ、もう泣かないの！　ね？　泣かないでってば！
+[name="Villager"]Oh, just stop crying! Stop! Stop crying, girl!
+[name="마을 사람"]아이고, 그만! 그만 좀 울라고! 이 꼬마야! 그만 울어!
 
 [name="村民"]啊！那些东西看过来了！你快去啊，你快去——
+[name="町民"]あっ！　化け物がこっちを見てる！　早く、早くどうにか――
+[name="Villager"]Agh! Those things are looking at us! Get out of here, get out of—
+[name="마을 사람"]앗! 저 녀석들이 이쪽을 봤어! 어서 가, 어서 도망가……
 
 [name="墨魉"]嘎啊啊啊！
+[name="墨魎"]ガアアアッ！
+[name="Ink Spirit"]Gkhaaaaaagh!
+[name="묵량"]크아아아!
 
 [name="村民"]欸......？
+[name="町民"]え……？
+[name="Villager"]Huh...?
+[name="마을 사람"]어……?
 
 [name="村民"]用、用扇子？
+[name="町民"]せ、扇子で？
+[name="Villager"]Y-You used your fan?
+[name="마을 사람"]부, 부채로?
 
 [name="乌有"]......你们躲远点。
+[name="ウユウ"]……ちょっと離れていてくれるかな。
+[name="Mr.Nothing"]Hide yourselves further away.
+[name="우요우"]……멀리 떨어져 숨어 있어.
 
 [name="墨魉"]嘎嗷？嘎啊——
+[name="墨魎"]ガアッ？　ガアッ――
+[name="Ink Spirit"]Gkhao? Gkhaa—
+[name="묵량"]크오? 크아……
 
 [name="村民"]一招就......！？
+[name="町民"]一発で……！？
+[name="Villager"]In one move...?!
+[name="마을 사람"]한 방에……?!
 
 [name="墨魉"]嗷！？
+[name="墨魎"]ガオッ！？
+[name="Ink Spirit"]Ao!?
+[name="묵량"]크엉?!
 
 [name="村民"]厉、厉害......
+[name="町民"]す、すごい……
+[name="Villager"]A-Amazing...
+[name="마을 사람"]대, 대단해……
 
 [name="乌有"]......
+[name="ウユウ"]…………
+[name="Mr.Nothing"]......
+[name="우요우"]……
 
 [name="乌有"]哎哟哟，疼死我了疼死我了，这些玩意到底是什么，怎么看着软绵绵的，打上去这么厚实呢？
+[name="ウユウ"]のおおっ！　痛ててて、手が痺れた！　こいつら一体何なんだ？　見た目はフニャフニャなのに、叩くと結構カタいじゃないか！
+[name="Mr.Nothing"]Ow-Owie, it hurts so much, it hurts so much—just what are these things, and how can they look so soft, yet be so hard when striking them?
+[name="우요우"]아야야…… 아파 죽겠네…… 이 녀석들은 도대체 뭐야, 보기엔 말랑말랑한데, 때려보니 왜 이렇게 단단한 거지?
 
 [name="乌有"]欸，别看我啦，俗话说得好，驮兽急了也咬人，咱们还是赶紧跑路吧！
+[name="ウユウ"]はぁ……そんな目で見ないでくれたまえ。曰く、「駄獣窮して人を噛む」とな。それより早く逃げよう！
+[name="Mr.Nothing"]Oh, stop goggling at me. The proverb puts it well; even a cornered burdenbeast will bite. Here, we'd best just hurry on our way!
+[name="우요우"]어허…… 그렇게 보지 마. 지렁이도 밟으면 꿈틀한다는 속담도 있잖아? 우린 그냥 빨리 도망치는 게 좋겠어!
 
 [name="墨魉"]嘎嗷......
+[name="墨魎"]ガアッ……
+[name="Ink Spirit"]Gkhao...
+[name="묵량"]크엇……
 
 [name="乌有"]！？
+[name="ウユウ"]！？
+[name="Mr.Nothing"]?!
+[name="우요우"]!?
 
 [name="克洛丝"]哎呀，虽然拳脚功夫不错，但小乌有你从来没有在这种情况下救人的经验吧？
+[name="クルース"]うーん。腕前はなかなかだけどぉ、ウユウくんはこういう状況で人助けをしたことがないんだねぇ？
+[name="Kroos"]Man alive, Nothing, your kickboxing work's not bad, but you've never done a rescue business like this, eh?
+[name="크루스"]흐음~ 방금 공격은 괜찮았는데, 우요우 너~ 이런 상황에서 사람 구해본 적 없지?
 
 [name="克洛丝"]只解决眼前的敌人而不注意全方位的动静，迟早会吃亏的哦。
+[name="クルース"]目の前の敵だけ倒して、周りに気を配らなかったらぁ、いつか痛い目を見ちゃうかもよぉ？
+[name="Kroos"]Deal with the enemies in front of you without checking movement on your whole perimeter, and sooner or later you'll give yourself grief.
+[name="크루스"]눈앞의 적만 해결하고 다각도로 상황을 신경 쓰지 않으면, 언젠간 손해를 보게 될 거야~
 
 [name="乌有"]啊、啊哈哈......刚才可真险呐！多亏了恩人，我才能安然无恙呀。
+[name="ウユウ"]あ、あはは……。恩人様のおかげで助かりましたよ。いや本当に危ないところでした。
+[name="Mr.Nothing"]Ah, ahahah... that was quite dangerous just now! My apologies for the grief I gave you, benefactor. Only thanks to you am I safe and sound.
+[name="우요우"]아, 아하하…… 좀 전엔 정말 위험했습니다! 은인님 덕분에 무사할 수 있었네요.
 
 [name="克洛丝"]......好啦，赶紧带着剩下的人避难去吧。
+[name="クルース"]……はいは〜い。早く残りの人を連れて避難してねぇ。
+[name="Kroos"]Alright, quick, go and get everyone left into shelter.
+[name="크루스"]……됐으니까 어서 남은 사람들 데리고 피해~
 
 [name="乌有"]呃，恩人您？
+[name="ウユウ"]え、恩人様は？
+[name="Mr.Nothing"]Er, what about you, benefactor?
+[name="우요우"]은, 은인님은요?
 
 [name="克洛丝"]我？没关系，我脚步很轻，它们发现不了我的啦。
+[name="クルース"]私ぃ？　大丈夫だよぉ。私は足取りが軽いから、見つかりっこないと思うよぉ。
+[name="Kroos"]Me? Don't you mind, I walk light as a feather. They won't ever notice me.
+[name="크루스"]나? 난 괜찮아~ 난 발걸음이 가벼워서 저 녀석들이 날 찾아내지 못할걸?
 
 [name="乌有"]（就这身手，脚步轻就能解释得了吗！？）
+[name="ウユウ"]（足取りが軽いとかそんなレベルの隠れ身じゃないだろ！？）
+[name="Mr.Nothing"](Can the single skill of light-footedness really explain that?!)
+[name="우요우"](그 실력은, 발걸음이 가볍다는 거만으로는 설명되지 않는데!?)
 
 [name="克洛丝"]之后......该怎么迅速削减这些墨魉的数量呢......
+[name="クルース"]さてとぉ……一気に敵の数を減らすにはぁ――
+[name="Kroos"]And then... how do we cut down these Ink Spirit numbers fast...?
+[name="크루스"]이제…… 어떻게 해야 이 묵량들의 수를 빠르게 줄일 수 있으려나……
 
 [name="村民"]咿呀！园、园子里的火光是什么？
+[name="町民"]いやぁ！　あ、あの庭園の火はなに？
+[name="Villager"]Eyaah! Wh—what's that fire in the garden?
+[name="마을 사람"]어어?! 저, 정원의 불빛은 대체 뭐지?
 
 [name="嵯峨"]唔哦！火光冲天，蔚为壮观！
+[name="サガ"]おう！　火の柱が天に向かって伸びておる、なんと壮観な眺めか！
+[name="Saga"]Hoo! This blaze soaring skyward makes quite a spectacle!
+[name="사가"]오오! 하늘로 치솟는 불길이라니, 정말 장관이오!
 
 [name="嵯峨"]唔？莫非“炎熔”二字，便取此中意？
+[name="サガ"]む？　そうか。たしか「ラヴァ」というのは、異国の言葉で――
+[name="Saga"]Ho? Could it be that the name 'Lava' held this exact meaning?
+[name="사가"]음? 설마 '라바'라는 이름이 여기에서 비롯된 건가?
 
 [name="炎熔"]......
+[name="ラヴァ"]…………
+[name="Lava"]......
+[name="라바"]……
 
 [name="克洛丝"]小炎熔。
+[name="クルース"]ラヴァちゃ〜ん。
+[name="Kroos"]Lavaaa.
+[name="크루스"]라바~
 
 [name="炎熔"]......帮我确定附近所有敌人的分布范围。
+[name="ラヴァ"]……クルース、付近の敵の分布範囲を確認してくれ。
+[name="Lava"]Confirm the extent of all enemy scatter in the vicinity for me.
+[name="라바"]……근처에 있는 모든 적의 분포 범위 좀 확인해 줘.
 
 [name="克洛丝"]这么大阵仗？
+[name="クルース"]そんな大掛かりなのをやるつもりなのぉ？
+[name="Kroos"]This big of an arena?
+[name="크루스"]이렇게 큰 전장에서?
 
 [name="炎熔"]本来担心波及到周遭的建筑，一直不怎么敢随便用法术......
+[name="ラヴァ"]ああ。周りの建物が心配で、みだりに派手なアーツは使わなかったんだが……
+[name="Lava"]I'm worried about the surrounding buildings getting caught up, so I've been sort of keeping my Arts tied down...
+[name="라바"]여태껏 주변 건물에까지 미칠 여파 때문에 아츠를 쓰지 못했는데……
 
 [name="炎熔"]......但敌人太多了，这样慢吞吞对付下去，受害者数量恐怕难以估量。
+[name="ラヴァ"]敵が多すぎる。ちまちま対処してたら、計り知れない数の被害者が出るだろうから。
+[name="Lava"]...but there's just too many enemies. If we keep dragging this out, I'm concerned casualties are going to end up tough to estimate.
+[name="라바"]……적이 너무 많아서 이렇게 어정쩡하게 대처하다간, 피해가 걷잡을 수 없이 커질지도 몰라.
 
 [name="克洛丝"]明白，特殊时期特殊手段嘛。
+[name="クルース"]そうだねぇ。緊急事態には、緊急手段を――だよねぇ。
+[name="Kroos"]Roger. Special times, special methods, right.
+[name="크루스"]알았어. 특수한 상황엔 특수한 수단을 써야지~
 
 [name="克洛丝"]我去找个高处，你就安心施法吧。
+[name="クルース"]私は高いところに行くから、安心してやっていいよぉ。
+[name="Kroos"]I'll find a high vantage point. You focus on casting.
+[name="크루스"]네가 안심하고 아츠를 쓸 수 있도록, 내가 높은 곳을 찾아볼게.
 
 [name="克洛丝"]所有超出法术范围的敌人我都会帮忙解决的，保证一个不落。
+[name="クルース"]アーツの範囲外にいる敵は私に任せてねぇ。一匹も取りこぼさないからぁ～。
+[name="Kroos"]I'll help you sort all the ones outside your Arts range. I guarantee I'm not gonna miss a single one.
+[name="크루스"]아츠 범위를 벗어난 적은 내가 처리할게. 한 놈도 빠져나가지 못하게~
 
 [name="炎熔"]好。
+[name="ラヴァ"]ああ。
+[name="Lava"]Good.
+[name="라바"]좋아.
 
 [name="炎熔"]之后的任务报告我来提交......毕竟罗德岛该帮助的，不止是感染者。
+[name="ラヴァ"]任務報告はアタシが出そう……元々ロドスが助けるべき対象は、感染者だけにとどまらない。
+[name="Lava"]I'll submit the mission report afterwards... after all, it's not just the Infected that Rhodes Island helps.
+[name="라바"]일이 끝나면 임무 보고서는 내가 제출할게…… 로도스 아일랜드가 도울 일은 감염자만 있는 게 아니니까.
 
 [name="克洛丝"]感染者......？
+[name="クルース"]感染者……？
+[name="Kroos"]Infected...?
+[name="크루스"]감염자……?
 
 [name="炎熔"]怎么了吗？
+[name="ラヴァ"]どうした？
+[name="Lava"]What's up?
+[name="라바"]왜 그래?
 
 [name="克洛丝"]嗯......没什么，在此之前，小炎熔。
+[name="クルース"]ううん……なんでもないよぉ。あ、その前にねぇ、ラヴァちゃん。
+[name="Kroos"]Huh... nothing, actually. By the way, Lava.
+[name="크루스"]응…… 아무것도 아냐. 그전에, 라바.
 
 [name="克洛丝"]你有看到煮伞先生吗？
+[name="クルース"]煮傘さんは見かけたぁ？
+[name="Kroos"]You seen Mr. Umbrella-Boiler anywhere?
+[name="크루스"]혹시 자산 선생 봤어~?
 

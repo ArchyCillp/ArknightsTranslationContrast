@@ -1,10 +1,25 @@
 [PopupDialog(dialogHead="$avatar_amiya")] 其实，罗德岛除了有一些日常的内部维护工作，还会收到来自外部的各种委托请求。
+[PopupDialog(dialogHead="$avatar_amiya")] ドクター、ロドスは内部の仕事をこなしているだけではなく、外部からの依頼を受けることもあるんです。
+[PopupDialog(dialogHead="$avatar_amiya")] At Rhodes Island, we actually will receive occasional requests from outside parties in addition to our routine internal and maintenance work.
+[PopupDialog(dialogHead="$avatar_amiya")] 사실, 로도스 아일랜드는 정규적인 사내 업무뿐만 아니라, 외부에서 업무 의뢰를 받는 경우도 있어요.
 
 [PopupDialog(dialogHead="$avatar_sys")] 为了能更有序地管理这些事宜，你需要学习如何处理现在手中的<@tu.kw>任务</>。
+[PopupDialog(dialogHead="$avatar_sys")] それらを順序よくこなすために、<@tu.kw>任務</>の管理方法を学ぶ必要があります。
+[PopupDialog(dialogHead="$avatar_sys")] To manage these requests more efficiently, you need to look at your <@tu.kw>Missions</>.
+[PopupDialog(dialogHead="$avatar_sys")] 효율적으로 업무를 처리하기 위해서는, 어떻게 <@tu.kw>임무</>를 관리해야 하는지 배우셔야 합니다.
 
 [PopupDialog(dialogHead="$avatar_amiya")] 这个界面会罗列出所有您需要处理的<@tu.kw>任务</>。
+[PopupDialog(dialogHead="$avatar_amiya")] こちらに表示されているのは、対応する必要がある<@tu.kw>任務</>一覧です。
+[PopupDialog(dialogHead="$avatar_amiya")] This page lists all the current <@tu.kw>Missions</> that you have been assigned.
+[PopupDialog(dialogHead="$avatar_amiya")] 이곳에선 앞으로 해야 하는 <@tu.kw>임무</> 목록을 볼 수 있어요.
 
 [PopupDialog(dialogHead="$avatar_sys")] 稍后你可以回到这里继续整理手上的任务。
+[PopupDialog(dialogHead="$avatar_sys")] 後ほど他の任務も確認してしてみてください。
+[PopupDialog(dialogHead="$avatar_sys")] You can come back to this page later to handle the other missions.
+[PopupDialog(dialogHead="$avatar_sys")] 다른 임무는 언제든지 본 화면으로 돌아와 확인하실 수 있습니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 现在，你需要了解另外一件重要事项。
+[PopupDialog(dialogHead="$avatar_sys")] それよりも、今やるべきことはこちらです。
+[PopupDialog(dialogHead="$avatar_sys")] Now, there's something important that you need to know.
+[PopupDialog(dialogHead="$avatar_sys")] 지금은, 짚고 넘어가셔야 할 중요 사항이 하나 더 있습니다.
 

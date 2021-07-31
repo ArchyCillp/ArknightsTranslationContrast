@@ -1,320 +1,800 @@
 [name="嵯峨"]......
+[name="サガ"]……
+[name="Saga"]......
+[name="사가"]……
 
 [name="嵯峨"]...........
+[name="サガ"]……
+[name="Saga"]............
+[name="사가"]……
 
 [name="嵯峨"]................
+[name="サガ"]…………
+[name="Saga"]................
+[name="사가"]……
 
 [Subtitle(text="心如止水。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="明鏡止水。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A mind as still as water.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="마음이 고요한 호수처럼 평온하네.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="以你的年纪而言，很少见。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="その齢でそれに至るか。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'Tis a rare trait for someone of thy age.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="네 나이에서는 매우 보기 드문 모습이야.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="白光湮没，心思寂灭。万事万物正远离你的躯体。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="白光は煙と消え、心思は寂滅する。あらゆるものが、その身体から遠ざかる。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Thou hast extinguished all light and purged all emotions from thy mind, and thus are all creations of nature leaving thy body.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="흰빛이 사라지면 생각도 사라지고, 만사 만물이 네 육체에서 멀어지지.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="最后，平稳的心湖开始重新泛起情感——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="最後に、平穏な心の泉に感情が再び浮かび上がる――", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="At long last, the still waters in thy mind give rise to new emotions—", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="마지막에는 평온했던 마음의 호수에서 다시 감정이 솟아오르기 시작할 거야……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="——你感到悲哀？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="――それは悲哀か？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="—Dost thou feel sorrow?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……슬픈가?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="嵯峨"]先生！莫怪小僧叨扰！
+[name="サガ"]先生！　お邪魔致す！
+[name="Saga"]Master storyteller! Pray forgive my interruption!
+[name="사가"]시주, 소승이 폐를 끼쳤소이다!
 
 [name="说书人"]大梦终醒......过了多久？
+[name="講談師"]夢から醒めたか……どれほどの時を過ごした？
+[name="Storyteller"]Awake from your dream at long last... How long has it been?
+[name="이야기꾼"]오랜 꿈에서 결국 깨어났구나…… 얼마나 지났지?
 
 [name="嵯峨"]小僧只见得梅花开了十回，又谢过十次。
+[name="サガ"]拙僧、梅の花が咲き散りゆくのを十度、見申した。
+[name="Saga"]I have seen the plums blossom and wither ten times.
+[name="사가"]매화가 열 번 피었다가 열 번 지는 걸 보았소.
 
 [name="说书人"]我若不去提笔，画中天地，亘古不变，何时有花开花谢了？
+[name="講談師"]私が筆を持たず、絵の世に変化が訪れなければ、花の咲き散る様子など見られぬはずだが。
+[name="Storyteller"]As long as my ink brush remain untouched, the scenery in the painting would never change.
+[name="이야기꾼"]내가 만약 붓을 들지 않았다면, 그림 속 천지가 예나 지금이나 변하지 아니하니, 어찌 꽃이 피고 지겠는가?
 
 [name="嵯峨"]实不相瞒，小僧从进入那天岳画卷之后，就始终心算时日，大抵真有这么个岁月。
+[name="サガ"]実を言うと、拙僧はあの天岳の絵巻に入ってから、日にちを指折り数えておりましたゆえ。おおよそそれくらいの歳月でありました。
+[name="Saga"]To tell the truth, I had been counting ever since the moment I entered the painting scroll of Mount Sky. 'Twas indeed that long.
+[name="사가"]솔직히 소승이 천악산 그림에 들어간 후부터 계속하여 시일을 따져보니, 대략 이 정도 세월이었소.
 
 [name="说书人"]......十年？
+[name="講談師"]……となると、十年？
+[name="Storyteller"]...Ten years?
+[name="이야기꾼"]십 년이라……
 
 [name="说书人"]你在我的画里，待了十年？
+[name="講談師"]私の絵の中に、十年もいたと？
+[name="Storyteller"]You stayed in the painting for ten years?
+[name="이야기꾼"]내 그림에서 십 년을 머문 것인가?
 
 [name="嵯峨"]差不离。
+[name="サガ"]大きくは違わぬはずです。
+[name="Saga"]More or less.
+[name="사가"]어슷비슷하오.
 
 [name="说书人"]你一介云游僧，在我这里浪费十年光阴，求个什么，何苦来哉？
+[name="講談師"]一介の客僧が、私の下で十年もの歳月を無駄にしたというのか？　何故そのような苦行を？
+[name="Storyteller"]You, a mere wandering monk, fiddled away ten full years here. What drove you to partake in such meaningless tribulations?
+[name="이야기꾼"]일개 객승이 이곳에서 십 년의 세월을 허비하다니. 무엇 때문에 그리 고생하는 것인가?
 
 [name="嵯峨"]哎呀呀，大梦一场，有吃有喝，还不用为凡俗所扰，更不用躲避天灾，惧怕感染，小僧其实觉得颇为惬意呀。
+[name="サガ"]ああ、壮大な夢でした。食には困らず、凡俗に乱されることなく、天災に逃げ惑う必要も、感染を恐れる必要もない……実のところ、拙僧はとても良い心地でした。
+[name="Saga"]Well, I could enjoy a good sleep, partake in all manner of indulgences, and I need not be disturbed by the world, to say nothing of the Catastrophes and infections. I thought it a rather pleasant experience.
+[name="사가"]아이고, 오랜 꿈이었지만, 먹고 마실 것도 있고, 세속에 시달릴 것도 없고, 피할 재앙도 없고, 감염도 두려워할 거 없으니 소승은 꽤 만족스러웠소이다.
 
 [name="说书人"]......就算如此，你也一梦......十年。
+[name="講談師"]……そうだとしても……十年もの夢を見たのだ。
+[name="Storyteller"]Be that as it may, you dreamt... for ten full years.
+[name="이야기꾼"]……그렇다고 해도, 한 꿈을 십 년씩이나……
 
 [name="说书人"]很少有人能在这么漫长的日子里保持初心。有些人，就干脆忘记了自己是谁，永远留在那画卷之上。
+[name="講談師"]それほど長い間、初心を保ち続けられる人間は少ない。自分が何者かすらも綺麗さっぱり忘れて、永遠に絵巻の中に留まる者も多い。
+[name="Storyteller"]Few are capable of remembering who they truly are after such a long time. Some would forget who they once were and choose to forever remain inside the painting.
+[name="이야기꾼"]긴 세월 동안 초심을 유지할 수 있는 사람은 매우 드물지. 어떤 사람은 자기가 누군지 잊고 그 그림 속에 영원히 남기도 하고 말이야.
 
 [name="嵯峨"]唔哦，当真可怕。
+[name="サガ"]むう、それは恐ろしき事。
+[name="Saga"]My, how frightening.
+[name="사가"]허, 그런 건 상상만 해도 정말 끔찍하구려.
 
 [name="说书人"]可你倒是一点也不害怕。
+[name="講談師"]お前の目には恐れが見えぬが。
+[name="Storyteller"]Yet you are not afraid at all.
+[name="이야기꾼"]그런데 자네는 조금도 두려워하지 않는 것 같군.
 
 [name="嵯峨"]先生是个好心肠，一定会在那些人意识弥留之际，点醒他们的吧。
+[name="サガ"]先生は心優しき御方。そういった者たちの意識が消滅しかかれば、彼らを起こすのでございましょう？
+[name="Saga"]You are a kind man. I verily believe you would wake them before they cross that point of no return.
+[name="사가"]시주는 좋은 분이셔서, 그 사람들의 의식이 사라질 때쯤이면 분명 깨우쳐 주실 거잖소.
 
 [name="说书人"]哦？何出此言？
+[name="講談師"]なに？　何故そう思う？
+[name="Storyteller"]Oh? What makes you say that?
+[name="이야기꾼"]오? 왜 그렇게 생각하지?
 
 [name="嵯峨"]天岳山巅钓鱼翁，不归河畔织布妪，无界原上持戟将，龙门客栈老板娘......再到婆山镇中说书人，先生已经提醒小僧多次了。
+[name="サガ"]天岳山頂で釣りをする老爺、不帰（かえらず）湖の湖畔で機織りをする老婆、無界原で矛を掲げる将官、龍門旅館の女店主……それと婆山町の講談師――先生は、幾度も拙僧に忠告をしてくださった。
+[name="Saga"]The old fisher at the summit of Mount Sky, the weaver by the banks of the Pu-kuei River, the halberd wielder of the Wu-chieh Plains, the lady innkeeper of the Lungmen Inn... and now the storyteller of the P'o-shan Village... Thou hast reminded me countless of times.
+[name="사가"]천악산 정상의 낚시꾼, 강가로 돌아가지 않은 베 짜는 노부인, 무계원의 병사, 용문 객잔의 주인…… 그리고 파산 마을의 이야기꾼까지, 시주께서는 이미 여러 번 소승을 깨우쳐 주셨소.
 
 [name="嵯峨"]是小僧流连忘返，几次将醒未醒，都将就着蒙混了过去。如此说来，小僧该道歉才是，在画中多养一个活人，想必要耗费不少精力吧？
+[name="サガ"]それは拙僧が、あたかも時を忘れ、幾度起こされても気付かぬふりをしていたからであろう。拙僧は謝らねばならぬ。生きた人間を一人、絵の中で世話するのは、大変なお手間であったでしょう？
+[name="Saga"]Yet I chose to deceive myself and continued to indulge in my pleasures, never to wake from my dream. I suppose I must apologize. It must have been tedious to keep me alive in the painting.
+[name="사가"]소승이 미련을 버리지 못한 것이오. 몇 번이나 깨어날 듯 깨지 않고 얼렁뚱땅 넘어갔구려. 이렇게 보면, 소승이 사과를 해야 마땅하오. 그림에서 산 사람을 한 명 더 키우려면 적지 않은 힘이 드는 것 아니오?
 
 [name="说书人"]放心，你入山时秋风萧瑟，如今不过入冬而已。发梦一场，片刻罢了。
+[name="講談師"]心配せずともよい。お前が山に入った時は秋風が吹く頃だったが、今はまだ立冬を迎えたばかりだ。夢は長いようで、一瞬だ。
+[name="Storyteller"]Pray be at ease. You came to the mountain when the autumn winds were yet blowing. 'Tis merely the beginning of winter now. It was but a brief dream.
+[name="이야기꾼"]안심하게. 자네가 산에 들어갔을 때는 가을바람이 불었는데, 지금은 겨우 겨울로 접어들었을 뿐이니. 꿈은 잠시였을 뿐이네.
 
 [name="嵯峨"]哦哦！本来小僧确实担心，会不会在这里懈怠久了挨故人责骂，原来这现世不过短暂时光，心里踏实了许多啊。
+[name="サガ"]おお！　拙僧はここで長く怠けていたことで責められはしないかと密かに心配しておったのです。現世ではほんの少しの時間しか過ぎておらぬとは……安心し申した。
+[name="Saga"]Hoh! I was worried I would be reprimanded for my sluggish behavior. Little did I know it was but a brief period of time. That certainly puts me at ease.
+[name="사가"]오오! 사실 소승은 이곳에서 오랫동안 게으름을 피우다가 옛 친구들에게 꾸지람을 듣지는 않을까 하고 걱정했소만, 짧은 시간이었다니 마음이 많이 놓이는구려.
 
 [name="说书人"]你在天岳时就意识到了自身处境，明知一切皆为画像，又何必浪费时间？
+[name="講談師"]お前は天岳で自身の置かれている状況を悟ったな？　全ては絵だと分かっていて、どうして無為に時を過ごしたのだ？
+[name="Storyteller"]You already knew of your predicament when you reached Mount Sky, that it was merely a painting. Why waste your time?
+[name="이야기꾼"]천악에서 이미 자신의 처지를 알았고, 모든 것이 그림인 줄 뻔히 알면서, 어째서 이렇게 시간을 낭비한 것인가?
 
 [name="嵯峨"]因为小僧见夕娥奔月之真相，久久不能释怀......真有狂人靠一己之力，想从天空那里夺回挚爱，如此痴癫，却反倒不让人惋惜......
+[name="サガ"]拙僧は夕娥が月に昇った真相が、ずっと腑に落ちませんでした……狂人が自分の力だけで天空より愛を奪い返そうと考えた。そのように愚かな話であれば、彼女を惜しむ人など誰もおりませぬ。
+[name="Saga"]For I saw the truth of Dusk Beauty Flying to the Moon, and I could not well cease thinking about it... A madwoman took matters into her hands and sought to reclaim her true love from the heavens. 'Tis an act of pure lunacy, yet it overwhelms me with a sense of regret...
+[name="사가"]시어가 달로 날아간 진실을 알고는 오랫동안 마음을 놓을 수 없었소…… 정말 혼자 힘으로 하늘로부터 사랑을 되찾으려는 미치광이가 있다니. 제정신이 아닌 것이 오히려 안타깝지도 않았소……
 
 [name="说书人"]嚯......若是我说，就算夕娥那份神意，也是我刻意而为画上的——也是假的呢？
+[name="講談師"]ほう……ならば、夕娥の運命ですら、私があえてそう描いたからというだけのもの――つまりは「偽」のものであると言ったら？
+[name="Storyteller"]Hmm... What if I tell you Dusk Beauty's willpower was an addition I made to the painting—that it is of my own making?
+[name="이야기꾼"]호오…… 시어의 그 마음도, 내가 일부러 그린 것이니…… 역시나 거짓이네만?
 
 [name="嵯峨"]各国传说、名著、典籍、神话，有多少是假，多少是与朴素生活无缘之物，那难道我们就要因为一个“假”字，否了它们的意义？
+[name="サガ"]各国の伝説、名著、典籍、神話には、「偽」のものや、質素な生活と無縁のものはいくらでもありましょう。その「偽」の一字のみを取り上げて、それらの意義を否定する必要はあるのでしょうか？
+[name="Saga"]All the nations of this world possess a great many legends, classics, literature, and myths, many of which can be called fabricated. The common folk are not likely to ever experience the machinations written therein. Should we disregard their lessons because they are mere fiction?
+[name="사가"]각국의 전설, 명작, 고서, 신화 중 얼마나 많은 것이 거짓이고, 얼마나 많은 것이 소박한 생활과는 인연이 있겠소. 전부 '거짓'이라는 이유로 그것의 의미를 부정해야만 하는 것이오?
 
 [name="嵯峨"]小僧以为，如此谬矣。
+[name="サガ"]拙僧は、それは違うと思いまする。
+[name="Saga"]I think 'tis absurd to do so.
+[name="사가"]그것은 아니라고 생각하오.
 
 [name="说书人"]真是怪人。
+[name="講談師"]お前はまことの奇人だな。
+[name="Storyteller"]You are a strange one.
+[name="이야기꾼"]정말 이상한 사람이군.
 
 [name="嵯峨"]妙人怪人，一线之差，先生过奖。
+[name="サガ"]奇人という言葉には、変わり者という以外に奇才という意味もございまする。先生、それは褒めすぎでござりましょう。
+[name="Saga"]There is but a fine line between great and strange. I appreciate your compliment.
+[name="사가"]신묘한 사람과 이상한 사람은 한 끗 차이가 아니겠소. 과찬이오.
 
 [name="说书人"]......呵。
+[name="講談師"]……ふ。
+[name="Storyteller"]...Hah.
+[name="이야기꾼"]훗……
 
 [name="说书人"]和你师傅一个模样，年纪不大，倒是一片赤子之心，心思澄澈。
+[name="講談師"]あの頃のお前の師匠とそっくりだ。年は若く活力に溢れ、赤子のごとき、澄み切った心を持っている。
+[name="Storyteller"]You are just like your master. He's old, yet he has the heart of a child, a clear mind.
+[name="이야기꾼"]자네 스승님과 마찬가지로군. 나이는 많지 않지만 마음이 순결하고 맑은 사람이로군.
 
 [name="说书人"]既陪我打发了些许光阴......念在你那师傅的面子上，也好，便允你见我一面吧。
+[name="講談師"]いいだろう、お前の師匠に免じ……加えて私の暇つぶしに、ほんの少しの歳月付き合ってもらった礼だ。私に会うことを許そう。
+[name="Storyteller"]You've helped me pass the time... Out of respect for your master, very well, I shall grant you an audience with me.
+[name="이야기꾼"]나와 함께 꽤나 시간을 보냈으니, 자네의 스승님 체면을 봐서라도…… 좋아. 날 만날 수 있게 허락해 드리지.
 
 [name="嵯峨"]呃，见面？
+[name="サガ"]ん、会うとは？
+[name="Saga"]Um, an audience?
+[name="사가"]음? 만나다니?
 
 [name="说书人"]哈哈，你真以为自己推门而入，便是醒来？
+[name="講談師"]はは。本当に自力で扉を開けて、目覚めたと思っていたのか？
+[name="Storyteller"]Haha, you cannot possibly believe you've awakened by waltzing in here?
+[name="이야기꾼"]하하, 정말 혼자 문을 열고 들어오면 꿈에서 깬 것이라고 생각한 건 아니겠지?
 
 [name="嵯峨"]......！莫非小僧此刻仍在画中？
+[name="サガ"]……！　もしや拙僧は今もなお絵の中に？
+[name="Saga"]*gasp*...! Am I yet within the painting?
+[name="사가"]설마……! 아직 그림 속인 것이오?
 
 [name="说书人"]无须惭愧，本该如此。
+[name="講談師"]気を落とすことはない、何ら不思議ではなかろう。
+[name="Storyteller"]No need to feel ashamed. This is merely how it's meant to be.
+[name="이야기꾼"]너무 낙담하지 말게. 당연한 일이니.
 
 [name="说书人"]要是真被你随随便便闯破了去，倒是有些不给我面子了。
+[name="講談師"]もしも本当に容易く破られてしまったなら、私の面子が立たないではないか。
+[name="Storyteller"]If I let you break out merely because you wished so, it would blemish my image.
+[name="이야기꾼"]설마 정말로 그렇게 쉽게 깨어난다면, 내 체면이 뭐가 되겠나?
 
 [name="说书人"]好了。
+[name="講談師"]よし。
+[name="Storyteller"]Well, now.
+[name="이야기꾼"]이제 됐네.
 
 [name="说书人"]醒去——
+[name="講談師"]目覚めなさい――
+[name="Storyteller"]Wake up—
+[name="이야기꾼"]깨어나게나……
 
 [Subtitle(text="星藏点雪。月隐晦明。", x=500, y=370, alignment="center", size=24, delay=0.1, width=400)]
+[Subtitle(text="星は点雪に覆われ、月は晦明に隠る。", x=500, y=370, alignment="center", size=24, delay=0.1, width=400)]
+[Subtitle(text="Starshrouded snow. Hidden moon.", x=500, y=370, alignment="center", size=24, delay=0.1, width=400)]
+[Subtitle(text="별은 눈을 숨기고, 달은 낮과 밤을 감추네.", x=500, y=370, alignment="center", size=24, delay=0.1, width=400)]
 
 [name="夕"]醒了？
+[name="シー"]……目が覚めた？
+[name="Dusk"]Finally awake?
+[name="시"]깼어?
 
 [name="嵯峨"]啊......
+[name="サガ"]あ……
+[name="Saga"]Ah...
+[name="사가"]아……
 
 [name="夕"]起来吧，躺在地上，不像个样子。
+[name="シー"]起きなさい。床に大の字になって、見苦しいわよ。
+[name="Dusk"]Get up now. It's terrible manners to sleep on the ground.
+[name="시"]일어나. 바닥에 누워 있는 건 꼴불견이야.
 
 [name="嵯峨"]啊......！小僧得令......
+[name="サガ"]あっ……！　承知いたした……
+[name="Saga"]Oh...! You are right...
+[name="사가"]아……! 소승은 대체……
 
 [name="嵯峨"]......
+[name="サガ"]…………
+[name="Saga"]......
+[name="사가"]……
 
 [name="夕"]怎么了？
+[name="シー"]どうしたの？
+[name="Dusk"]What's wrong?
+[name="시"]왜 그래?
 
 [name="嵯峨"]不......小僧......从未想过，原来先生本尊，竟是如此模样......
+[name="サガ"]いえ……拙僧は……先生の正体が、このようなお姿だとは思ってもみなかったゆえ……
+[name="Saga"]Well... 'Tis merely that I never imagined you... to look like this.
+[name="사가"]아니오…… 소승은…… 상상도 못 했소. 시주의 본래 모습이 이럴 줄은……
 
 [name="夕"]呵。
+[name="シー"]ふっ。
+[name="Dusk"]Heh.
+[name="시"]흠.
 
 [name="夕"]问吧。
+[name="シー"]さあ、聞きたいことを聞くといいわ。
+[name="Dusk"]Well, ask away.
+[name="시"]물어봐.
 
 [name="嵯峨"]小僧......小僧......
+[name="サガ"]拙僧は……拙僧は……
+[name="Saga"]I... I...
+[name="사가"]소승…… 소승은……
 
 [name="嵯峨"]小僧本以为走过百余幅画卷，至少得见先生大半阅历，未曾想......不过是先生画海之一隅，不值一提......
+[name="サガ"]拙僧は百余の絵巻を旅し、先生の人生の半分は拝見したであろうと考えていましたが、それがまさか……先生が描いた絵のほんの一部でしかなく、まだまだ語るに足らないものであるとは……
+[name="Saga"]I thought that by surveying the sceneries of these hundred-and-some scrolls, I, too, could walk the journey that thou once walked. Yet... 'Twas but an insignificant fraction of the landscapes thou hast sketched...
+[name="사가"]소승은 본래 백여 폭의 그림을 건너면 적어도 시주의 경험을 반이라도 따라갈 줄 알았소만…… 겨우 시주의 수많은 그림 중 한 자락에 불과할 뿐이었다니, 언급할 가치조차 없구려……
 
 [name="夕"]不是没有痴人执迷不悟，最终心甘情愿，死在这里。
+[name="シー"]誤った考えに固執し、最後には自ら望んで絵の中で死を選ぶ愚か者もいなくはないわ。
+[name="Dusk"]Know that there are those who never accept their mistakes and find themselves content with dying here.
+[name="시"]잘못을 고집하고 깨닫지 못하는 사람은, 결국 이곳에서 죽고 말지.
 
 [name="嵯峨"]倒是可以理解......
+[name="サガ"]分かる気がします……
+[name="Saga"]That I can understand...
+[name="사가"]이해할 수 있소……
 
 [name="夕"]你想问的不是这个。
+[name="シー"]だけど、そういうことが聞きたいわけじゃないでしょう？
+[name="Dusk"]That's not what you wanted to ask.
+[name="시"]네가 묻고 싶은 건 그게 아닐 텐데?
 
 [name="嵯峨"]哦，对，小僧一时震惊，把这事儿忘了，见谅见谅。
+[name="サガ"]あ、はい。驚きのあまり大事なことを聞きそびれるところでした。申し訳ござりません。
+[name="Saga"]Oh, right, I was startled into forgetfulness. My apologies.
+[name="사가"]오, 맞소. 소승이 너무 놀라서 깜빡했소. 이해해주시오.
 
 [name="嵯峨"]先生，小僧曾在住持爷爷的阁楼，见过那副《拙山尽起图》，当时只觉得此中有真意，却答不上个所以然。
+[name="サガ"]先生、拙僧は住職様の部屋の屋根裏で『拙山尽起図』を見たことがございまする。当時、その中に真意があることは分かりましたが、それが何かは理解できませんでした。
+[name="Saga"]Master, I have once laid my eyes upon the 'Scene of Crude Mounts Utmost Risen' at my head priest's garret. Though at the time I thought there was meaning hidden therein, I could not quite put my finger on it.
+[name="사가"]시주, 소승은 주지 스님의 다락방에서 그 《졸산진기도》를 본 적이 있는데, 그 속에 진의가 있다고 생각했지만, 딱히 답을 할 수가 없었소.
 
 [name="嵯峨"]问及住持爷爷，师傅他老人家也只让小僧自己下山去找答案。小僧下了山，云游四方，有了些想法，却又因这世道更加迷茫。
+[name="サガ"]住職様にも尋ねましたが、山を下りて答えを探すよう言われただけでした。拙僧は俗世に下って、各地を放浪し、少々考えが浮かんだものの、まさにこの俗世によって、迷いは強くなるばかりでした。
+[name="Saga"]I asked the head priest, and he had me leave the monastery to seek out the answer. I have since traveled all over the lands, and though I have since found parts of the answer myself, the ways of the world has me yet confused.
+[name="사가"]주지 스님께 여쭸더니 주지 스님께선 소승에게 하산하여 스스로 답을 찾으라고 하시더이다. 소승은 산에서 내려와 정처 없이 떠돌아다녔고, 무언가 깨우쳤나 싶었소만 오히려 이 세상 때문에 더 막막해졌소이다.
 
 [name="嵯峨"]既然有幸能见到先生本尊，小僧便想——
+[name="サガ"]ですが幸いにも先生にお会いできました。なにとぞ拙僧に――
+[name="Saga"]Since I am blessed with the fortune to meet thee in thy flesh, I thought I would—
+[name="사가"]이렇게 운이 좋아 시주 본인을 만나니, 소승……
 
 [name="夕"]你有了些想法，何必再问？
+[name="シー"]多少なりとも考えが浮かんだのなら、どうしてまだ問う必要があるのかしら？
+[name="Dusk"]If you've had your ideas, why ask me?
+[name="시"]이미 깨달음을 얻었는데 구태여 더 물을 필요가 있어?
 
 [name="嵯峨"]取长补短，查漏补缺......说实话，小僧还是不解那画中真意，为何点到末尾瀑布时，一笔飞去，留下数寸空白？
+[name="サガ"]長短を補い合い、漏れがあれば繕うため、とでも申せば良いでしょうか。拙僧はやはりあの絵の真意が理解できません。なぜ滝を一筆で跳ね上げて完成とし、数寸の余白を残したのですか？
+[name="Saga"]I wish merely to learn from thy explanation for my own betterment and to fill in the blanks... To tell the truth, the painting's true meaning eludes me still. Pray tell, wherefore was the end of the waterfall just one swift stroke, leaving naught but a swath of emptiness?
+[name="사가"]장점을 취하여 단점을 보완하고, 부족한 부분을 보충하려는 것이오…… 솔직히 소승은 그 그림 속 진의를 이해하지 못했소. 왜 폭포의 끝에서 획을 그어 몇 치의 여백을 남겼소?
 
 [name="夕"]你以为？
+[name="シー"]あなたはどう考えてるの？
+[name="Dusk"]What do you think?
+[name="시"]네 생각은?
 
 [name="嵯峨"]——拙山尽起，便是卷中天地，无限延展之意。末尾一笔飞瀑，直冲天际，只余留白，是以此来描摹那画卷描摹不下的大好河山......
+[name="サガ"]――拙山尽起とは、絵巻の天地が無限に広がるといった意味と考えました。滝の最後の一筆を天まで届かせ、余白を残したのは、それにより絵巻に収まり切らぬ山河を表しているのではないかと……
+[name="Saga"]—Crude mounts utmost risen. The scenery within the scroll extends endlessly. The waterfall soars into the skies, leaving naught but white. 'Tis a way to depict the great mountains and rivers undepictable within the scroll...
+[name="사가"]……졸산진기는 그림 속의 하늘과 땅이 무한하다는 의미요. 폭포 끝이 하늘로 치솟아 여백을 남겼으니, 이로 그림으로 담을 수 없는 아름다운 강산을 모사한 게 아닌가 싶소만……
 
 [name="夕"]......
+[name="シー"]…………
+[name="Dusk"]......
+[name="시"]……
 
 [name="嵯峨"]呃，小僧只是自己瞎琢磨的，先生就别卖关子啦，搞得小僧怪不好意思的。
+[name="サガ"]ですが、あくまでこれは拙僧の勝手な憶測に過ぎませぬ。先生、勿体ぶらずに教えてくだされ。拙僧、恥じ入るばかりでござる。
+[name="Saga"]Hrm... This is merely conjecture. I am hoping you could do away with the secrecy and reveal the truth. 'Tis making me blush.
+[name="사가"]어, 소승은 그저 멋대로 이야기한 것이니, 시주께서도 뜸 그만 들이시오. 소승 민망해지려고 하오.
 
 [name="夕"]如何理解，是看客自己的意思。
+[name="シー"]どういう意味かは、見る人自身の解釈に拠るのよ。
+[name="Dusk"]Beauty, especially that of an art piece, is in the eye of the beholder. It falls on you to find your own interpretation.
+[name="시"]어떻게 이해하느냐는 보는 사람에게 달렸겠지.
 
 [name="夕"]不过，只为了这件事......你就费尽如此心思？
+[name="シー"]だけど、たったこれだけのために……あなたはそこまで考え抜いてきたの？
+[name="Dusk"]Nonetheless... You racked your brains so for only that?
+[name="시"]그런데, 고작 그 일 때문에…… 그렇게 애를 썼단 말이야?
 
 [name="嵯峨"]人生路上，不过求解再求解。
+[name="サガ"]人生とは、何かの答えを求め続ける旅にありまする。
+[name="Saga"]Much of what we do in life is seeking answers.
+[name="사가"]인생이란 해답을 구하고 또 구하는 것에 불과하오.
 
 [name="嵯峨"]也亏得这个小小心结，小僧才有幸在先生的画卷江山中大开眼界，不是好事？
+[name="サガ"]しかし、この小さな心のわだかまりのおかげで、拙僧は運良く先生の山水絵巻の中で視野を広げることができたのですから、良いことではござりませぬか？
+[name="Saga"]If not for this matter gnawing at my mind, I would not have had the fortune to feast my eyes upon thy landscapes within the scrolls.
+[name="사가"]이렇게 작은 고민으로, 소승은 운 좋게 시주의 그림에서 견문을 크게 넓혔으니, 좋은 일이 아니겠소?
 
 [name="夕"]也是。
+[name="シー"]……それもそうね。
+[name="Dusk"]I suppose so.
+[name="시"]그것도 그렇네.
 
 [name="夕"]不过，你问的那一笔，只不过是兴起而起，败兴而停，仅此而已。
+[name="シー"]だけど、あなたが疑問を抱いたあの絵は、ただ気分で描き始めて、気分で描き終わりを決めただけ。最後の一筆があれで終わってるのは、それだけの理由よ。
+[name="Dusk"]Alas, the stroke you are asking was one that I began at whim and also one that I ended at whim. That's all.
+[name="시"]하지만 네가 물은 그 획은, 단지 흥에서 시작되고 흥이 깨져 멈췄을 뿐이야.
 
 [name="嵯峨"]呃？
+[name="サガ"]へっ？
+[name="Saga"]Huh?
+[name="사가"]네?
 
 [name="夕"]当年画到那飞瀑时，突然不想动笔了，就搁置在那儿。之后再看，觉得无心插柳，颇有情趣，随意取了个名，丢给你那糊涂师傅罢了。
+[name="シー"]当時、あそこまで描いて筆が止まり、そのまま放っておいた。後で見ると、そのあるがままの様子にとても味わいがあると思ったの。それで適当な名前を付けて、あのとぼけた修行僧にあげたのよ。
+[name="Dusk"]By the time I got to the waterfall, I no longer wanted to continue, and so I stopped there. I took a look afterwards and thought it was rather picturesque, so I gave it a name and sent it your master's way.
+[name="시"]그때 폭포까지 그리고는, 갑자기 흥이 깨졌어. 이후에 다시 보니, 무심하게 그린 것이 오히려 더 정취가 있어, 대충 이름을 지어 네 아둔한 스승에게 준 거지.
 
 [name="嵯峨"]想——
+[name="サガ"]お――
+[name="Saga"]I—
+[name="사가"]서……
 
 [name="嵯峨"]——想不到，竟是如此！
+[name="サガ"]――思い至りませんでした、まさかそういうことだったとは！
+[name="Saga"]—I could never have imagined!
+[name="사가"]……설마 그런 것일 줄은 생각도 못 했소!
 
 [name="夕"]失望了？
+[name="シー"]がっかりした？
+[name="Dusk"]Disappointed?
+[name="시"]실망했나?
 
 [name="夕"]在画中虚度光阴，得来的答案如此无趣——
+[name="シー"]絵の中で無駄な歳月を重ねて、得られたものがこんなにも味気ない答えだなんて――
+[name="Dusk"]Having spent such a long time in the painting, and you ended up with quite possibly the most boring answer—
+[name="시"]그림 속에서 허송세월하다 얻은 대답이 이렇게 재미가 없어서 말이야……
 
 [name="嵯峨"]这倒没有，且不说画卷历程小僧受益匪浅，先生的回答，也有趣得很呀！
+[name="サガ"]そんなことはござらん！　絵巻の中における遊歴で、拙僧は多くの学びを得ました。先生の回答も、非常に興味深いものでござった！
+[name="Saga"]Not at all. Leaving aside all that I have learned inside the scroll, thy answer is most interesting!
+[name="사가"]그럴 리가 있겠소. 그림 속의 여정에서 소승이 얻은 바도 꽤 많은데, 시주의 대답 역시 정말 재미있소!
 
 [name="嵯峨"]兴起挥笔，败兴停笔......小僧本以为，所有事物都当有其意，久而久之，反而深陷其中，不能自拔。
+[name="サガ"]興起ちて筆を振るい、興収まりて筆を止める……拙僧は全ての物事には当然意味があると思っていました。そして時が過ぎ行くと共に一層深みにはまり、その考えから抜け出せなくなっておりました。
+[name="Saga"]Drawn on a whim, and stopped on a whim... I once thought that there is meaning to all things upon this world. As time passed, I became far too entrenched in my search, unable to pluck myself out.
+[name="사가"]흥이 나서 붓을 들었는데, 흥이 깨져 붓을 멈춘다라…… 소승은 본래 모든 것에는 각각의 뜻이 있다고 여겼소. 그런데 오래되다 보니 오히려 그 속에 빠져 헤어나지 못한 것이오.
 
 [name="嵯峨"]是了，是了，何必非要纠结此中真意......若是只有那一个答，百思其解，还有什么意义？
+[name="サガ"]そうだ、その通りだ。どうしてその真意に悩む必要があろうか……もしたった一つの答えしかないのならば、あれこれと色んな答えを考えて何の意味がある？
+[name="Saga"]Right, right. We need not be so focused on the meaning behind everything... If there is but one answer, to repeatedly scrutinize would merely be a futile exercise.
+[name="사가"]맞구려, 맞아! 구태여 그 진의를 따질 필요가 없는 것이었소…… 답이 그 하나라면, 백번 생각한들 무슨 의미가 있겠소?
 
 [name="嵯峨"]小僧从师傅那听来的那句“本来无一物，何处惹尘埃”，是否也是差不多的念想？
+[name="サガ"]住職様から教わった、「本来無一物、何れの処にか塵埃を惹かん」という言葉――何も無いところに埃など寄り付かぬという考えに近いのではなかろうか？
+[name="Saga"]I had heard from my master an aphorism: 'Where there was naught at first, from whence could dust have emerged.' Mayhaps it means the same thing?
+[name="사가"]소승이 스승님께 들은 “본디 맑고 깨끗한데, 어디에 티끌이 있으리오”라는 말도 비슷한 의미인 것이오?
 
 [name="夕"]......呵。
+[name="シー"]……ふっ。
+[name="Dusk"]...Hah.
+[name="시"]훗……
 
 [name="夕"]人都有自己的那份意思，明白这点，再得意忘形，也不是什么坏事。
+[name="シー"]人には皆、それぞれ別の考えや解釈がある……それを理解した上で自己満足するのは、何も悪いことではないわ。
+[name="Dusk"]Everyone has their own interpretations. As long as you understand that, it's not necessarily a bad thing to be cocky.
+[name="시"]사람마다 자신의 신념이 있어. 그것을 이해한다면 자만한다고 꼭 나쁜 것만은 아니지.
 
 [name="嵯峨"]啊，先生教诲，小僧谨记。
+[name="サガ"]ああ……先生のお教え、拙僧は心に刻みまする。
+[name="Saga"]Oh, I shall keep that in mind. Many thanks.
+[name="사가"]아, 시주의 가르침을 잘 새겨두겠소.
 
 [name="夕"]何况，当日赠予你那糊涂师傅的时候，我明明白白说了“拙山尽”三个字，这个“起”字......就是你师傅的意思了。
+[name="シー"]あの日あなたのとぼけた師匠に絵をあげた時、絵の意図を訊かれて私は『拙山尽』とだけ伝えた。それからあれを『拙山尽起図』という名前にしたのは、あなたの師匠なの。
+[name="Dusk"]When I gave your master this piece, I told him merely three words, 'Crude Mounts Utmost.' The 'Risen' in its name... is his interpretation.
+[name="시"]그날 네 그 아둔한 스승에게 그림을 선물할 때, 난 분명 '졸산진'이라고 얘기해줬어. 그 다음에 붙은 '기' 자는…… 바로 네 스승의 뜻이야.
 
 [name="嵯峨"]“起”？
+[name="サガ"]『拙山尽』とは、「古拙な山が尽き途絶える」といった意味でありましょうか？　となれば「起」とはつまり……？
+[name="Saga"]'Risen?'
+[name="사가"]보잘것없는 산의 끝이라는 '졸산진'에서, 시작을 뜻하는 '기'라는 글자를?
 
 [name="夕"]知道你师傅当时看到了什么吗？
+[name="シー"]あなたの師匠が当時、何を見たか知ってる？
+[name="Dusk"]Do you know what your master saw in it?
+[name="시"]그때 네 스승이 뭘 봤는지 알아?
 
 [name="嵯峨"]不是与先生一并，见过大好山河？
+[name="サガ"]先生と一緒に、美しい山河を見たのでは？
+[name="Saga"]He gazed not upon its landscapes with thee?
+[name="사가"]시주와 함께 아름다운 산천을 보시지 않으셨소?
 
 [name="夕"]错了。
+[name="シー"]違うわ。
+[name="Dusk"]He didn't.
+[name="시"]틀렸어.
 
 [name="嵯峨"]唔哦！？
+[name="サガ"]うおっ！？
+[name="Saga"]Hoh?!
+[name="사가"]으엇?!
 
 [name="嵯峨"]小僧，小僧这是回到了画中......？
+[name="サガ"]せ、拙僧はまた絵の中に……？
+[name="Saga"]A-Am I returning to the painting...?
+[name="사가"]다시 그림 속으로 돌아온 건가……?
 
 [name="嵯峨"]啊，莫非这就是住持爷爷当年看到的——
+[name="サガ"]あ、よもやこれは住職様が当時見た――
+[name="Saga"]Oh, this must be what the head priest saw—
+[name="사가"]아, 저게 혹시 주지 스님께서 보셨던 것인가……
 
 [name="嵯峨"]——
+[name="サガ"]――――
+[name="Saga"]—
+[name="사가"]……
 
 [name="嵯峨"]那是......住持爷爷？
+[name="サガ"]あれは……住職様？
+[name="Saga"]Is that... my head priest?
+[name="사가"]저건…… 주지 스님?
 
 [name="夕"]是了。
+[name="シー"]そうよ。
+[name="Dusk"]That's right.
+[name="시"]맞아.
 
 [name="夕"]他磨破了脚，饿晕了头，从这饿殍满地的荒地间走过，花了三天三夜。
+[name="シー"]彼は擦り切れた両足を引きずって、飢えによる目眩と戦いながら、餓死者で溢れる荒れ地を三日三晩歩いた……
+[name="Dusk"]He had scraped the soles of his feet, he was starving, and he walked three full days and nights of hunger.
+[name="시"]네 스승은 발이 까지고 배가 고픈 상태로 이 굶어 죽은 사람으로 가득한 황무지 사이를 사흘 밤낮 동안 걸어갔지.
 
 [name="夕"]他诚心祈祷了两千又二十四次，倒是未曾对自己的生死做过考虑，他只感到悲伤与不解。
+[name="シー"]そして、二千二十四回もの心からの祈りを捧げたのよ。自分の生死など考えもしなかった。只々、悲しみとやりきれない気持ちで一杯だった。
+[name="Dusk"]He prayed many times, as many as two thousand and a score, and yet he never thought a thing about his life and death. He merely felt sadness and lamented his inability to understand.
+[name="시"]네 스승은 성심껏 이천 하고도 스물네 번의 기도를 했어. 자신의 생사에 대해선 생각도 해보지 않고 말이야. 단지 슬픔과 의혹만을 느끼고 있었지.
 
 [name="嵯峨"]先生您......救了住持爷爷？
+[name="サガ"]先生は……ここで再び住職様をお救いになったのですか？
+[name="Saga"]Did you save... my head priest?
+[name="사가"]시주께서…… 주지 스님을 구해 주셨소?
 
 [name="夕"]苦潭江上，我已救过他一次。这次，我没有帮他。
+[name="シー"]苦潭江で一度救ったきりよ。この時は手助けしていないわ。
+[name="Dusk"]I had already saved him once at the K'u-t'an River. I didn't help him this time.
+[name="시"]고담강에서 난 이미 그를 한 번 구한 적이 있지만, 이번에는 그를 돕지 않았지.
 
 [name="夕"]倒是你该想想。
+[name="シー"]想像してご覧なさい。
+[name="Dusk"]Think about it. At his young age, he had already been through such hardships.
+[name="시"]생각해봐.
 
 [name="夕"]一个在他那个年纪就见过如此惨剧的小沙弥，是如何能成为你印象里那个和蔼慈祥的住持爷爷。
+[name="シー"]この若さでこんなにも悲惨な光景を見た修行僧が、どうやってあなたの記憶の中の穏やかで慈悲深い住職様になったのか。
+[name="Dusk"]Think about how he went from that to the warm, caring head priest that you know.
+[name="시"]그 나이에 이런 참사를 목격한 사미승이 어떻게 네 기억 속의 상냥하고 자상한 주지 스님이 될 수 있었는지.
 
 [name="夕"]又如何能在那幅画上，加一个“起”字的。
+[name="シー"]そして、なぜあの絵に「起」という字を付け足したのか。
+[name="Dusk"]And how he added the word 'risen' to the painting's title.
+[name="시"]또 어떻게 그 그림에 '기' 자를 추가했을까.
 
 [name="嵯峨"]住持爷爷......
+[name="サガ"]住職様……
+[name="Saga"]Head Priest...
+[name="사가"]주지 스님……
 
 [Subtitle(text="......哀鸿遍野。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="……いたるところが難民で溢れかえっていた。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="The lands he walked were filled with starvation.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="……슬픈 기러기의 울음소리가 황야에서 울려 퍼진다.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
 
 [Subtitle(text="所见，所闻，所语，皆是惨剧。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="見、聞き、語られることの全てが、惨劇だった。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="All that he could see, hear, and tell were nothing but tragedy.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="보고 듣고 말하는 모든 것이 비극이다.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
 
 [Subtitle(text="昔日年轻的东国僧人，一步一停，念念有词。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="昔日の若き極東の僧侶は、一歩歩いては足を止め、念仏を唱えた。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="With each step, the young Higashi monk paused to recite the sutras.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="과거의 젊은 극동 승려가 한 걸음 한 걸음 멈추면서 주문을 왼다.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
 
 [Subtitle(text="光阴如水，也在此刻凝滞。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="ここでの時間は、水溜まりの如く淀んでいた。", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="Time passes like a flowing river, and this moment is everlasting.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
+[Subtitle(text="물처럼 흐르는 시간도, 지금 이 순간에 멈춰 있다.", x=200, y=370, alignment="center", size=24, delay=0.1, width=900)]
 
 [name="嵯峨"]嵯峨这个名字，是小僧下山前住持爷爷给小僧的。
+[name="サガ"]サガという名前は、拙僧が山を下りることになった際に、住職様がくださったのです。
+[name="Saga"]On the day I left the monastery, my head priest bestowed upon me my name, Saga.
+[name="사가"]사가라는 이름은 소승이 산을 내려오기 전 주지 스님께서 소승에게 주신 것이오.
 
 [name="夕"]......是了。
+[name="シー"]……そう。
+[name="Dusk"]That's right.
+[name="시"]……그래.
 
 [name="夕"]见遍人间冷暖而心不坠，天岳崩于前而色不变。
+[name="シー"]あの経験あってか、彼は人の世の過酷さを見ても心を折らず、天岳の崩壊を前にしても顔色を変えなかった。
+[name="Dusk"]He had seen the coldness of mankind, yet he was never disheartened. Even the collapse of Mount Sky did not sway him.
+[name="시"]인간사 가혹함을 보고도 마음이 흔들리지 않았고, 천악이 무너져도 기색이 변하지 않았지.
 
 [name="夕"]那个小沙弥......回到东国之后，收养了一群无处可去的孩子，在山野间建了寺庙，就变成了你口中的住持爷爷。
+[name="シー"]それから極東に戻って、身寄りのない子供たちを引き取り、山中に寺を建て、あなたの知る住職様になったのよ。
+[name="Dusk"]After the young wandering monk made his way back to Higashi, he decided to take in a group of children with nowhere to turn to. He built a monastery in the mountains, and that's how he became the head priest you often speak of.
+[name="시"]그 사미승은…… 극동으로 돌아와 갈 곳 없는 아이들을 거두어 보살피고 초야에 절을 지어 주지 스님이 되었어.
 
 [name="夕"]不常见的。
+[name="シー"]なかなかできることじゃないわ。
+[name="Dusk"]It's not that uncommon of a story.
+[name="시"]매우 드문 행보였지.
 
 [name="嵯峨"]那幅画......江山未尽之意，原来是住持爷爷加上去的呀。
+[name="サガ"]あの絵に、「山河は未だ尽きず」という意味を付けたのは、住職様であったとは……
+[name="Saga"]The crude mounts had not fallen... That was the meaning the head priest sought to give the painting.
+[name="사가"]그 그림…… 그래서 주지 스님께선 '졸산진'에 '기'자를 붙여, 졸산이 아직 끝나지 않았단 의미를 더하고자 했던 거였구려.
 
 [name="嵯峨"]......如此更好！就让小僧来替住持爷爷，再看一遍这大地风光！
+[name="サガ"]……うむ、その方が断然良い！　拙僧、住職様に替わってもう一度この大地の風景を見て回ろうと思いまする！
+[name="Saga"]Very well! Then, in his stead, I shall see all the sights there are to see in this vast world!
+[name="사가"]……잘 됐구려! 소승, 주지 스님을 대신해 그 풍경을 다시 한 번 보겠소!
 
 [name="夕"]呵，随你便吧。
+[name="シー"]ふっ、好きにしてちょうだい。
+[name="Dusk"]Well, as you please.
+[name="시"]아, 네 맘대로 해.
 
 [name="夕"]既然你了却心结，那便就此离去吧。
+[name="シー"]あなたの心のわだかまりが解決したのなら、ここを離れなさい。
+[name="Dusk"]Now that you got that weight off your shoulders, it's time for you to leave.
+[name="시"]이제 가슴에 뭉친 응어리가 풀렸을 테니, 지금 바로 떠나.
 
 [name="嵯峨"]等、等等，先生！
+[name="サガ"]お、お待ちくだされ、先生！
+[name="Saga"]W-Wait, master!
+[name="사가"]자, 잠깐만, 시주!
 
 [name="嵯峨"]这不过是小僧本来的疑惑，小僧神游画卷十载，一腔胸臆，不吐不快！
+[name="サガ"]それは拙僧が元々抱いていた疑問に過ぎませぬ。絵巻の中を放浪して十年……溜めてきた思いを問いかけねば、すっきり致しません！
+[name="Saga"]This is merely the original source of my perplexity. Having traveled the scrolls some ten years, I am afraid there are certain things I must ascertain for my worries to dissipate.
+[name="사가"]이것은 소승 본래의 의혹일 뿐이었소. 소승 그림에서 머문 시간이 십 년, 그 속에 쌓아둔 생각을 내뱉지 않고는 마음이 편하지 않소!
 
 [name="夕"]......问。
+[name="シー"]……いいわ。
+[name="Dusk"]Ask away.
+[name="시"]……물어봐.
 
 [name="夕"]但这是你最后一个机会了。我不喜欢太啰嗦。
+[name="シー"]だけどあと一つで最後にして。くどいのは好きじゃないの。
+[name="Dusk"]But know that this is the last chance I'm giving you. I'm not fond of blabbering people.
+[name="시"]하지만 마지막 기회야. 난 너무 수다스러운 건 질색이니까.
 
 [name="嵯峨"]画中人，到底是真是假？
+[name="サガ"]絵の中の人――画中人は、はたして「真」か「偽」か……一体どちらでござりましょうか？
+[name="Saga"]The inhabitants of the paintings. Are they real or not?
+[name="사가"]그림 속의 사람은, 참이오, 거짓이오?
 
 [name="夕"]你这问题真有意思。明知是画中人，何须问真假？
+[name="シー"]……面白い質問ね。絵の中の人間だと知りながら、わざわざ真偽を問う必要があるのかしら？
+[name="Dusk"]That's an interesting question. You know they are from the painting. Why ask if they are real or not?
+[name="시"]정말 재미있는 질문이네. 그림 속의 사람인 줄 뻔히 알면서 왜 진위를 묻는 거지?
 
 [name="嵯峨"]小僧虽听那些枯涩经文就会打瞌睡，但也懵懵懂懂记下了“求真”二字......可小僧在先生画中云游数年，却愈发迷茫。
+[name="サガ"]拙僧はつまらぬ経文を聞くと居眠りをするような人間ですが、それでもぼんやりと、「真を求める」という言葉は覚えております……しかし、絵巻の中を数年彷徨ってもなお、分からないのです。
+[name="Saga"]Oft did I nod off when we studied our scriptures, yet in my languidness I was able to constant seek out truth... For ten years have I walked the landscapes in thy painting, though I yet remain befuddled.
+[name="사가"]소승, 비록 무미건조한 경문을 들으면 바로 잠이 오지만, '진실을 추구하다'란 말은 얼떨결에 적어 두었소…… 그런데 소승이 시주의 그림을 몇 년 동안 돌아다니다 보니, 오히려 더 막막해졌소.
 
 [name="嵯峨"]敢问先生，何为真？
+[name="サガ"]お教えください先生。真とは何でござりましょう？
+[name="Saga"]Pray tell, what is real?
+[name="사가"]시주께 여쭙겠소. 참이란 무엇이오?
 
 [name="夕"]......真。
+[name="シー"]真、ね……
+[name="Dusk"]...Real.
+[name="시"]……참이라.
 
 [name="夕"]你看画中人，自以为是“真人”看“假人”，那些假的生老病死，皆可一笑而过。
+[name="シー"]あなたが絵の中の人間を見るとき、自分自身は「真」の人で、彼らを「偽」の人として見ているから、その「偽」の彼らが歩む人生を楽観的に見ていられる。
+[name="Dusk"]When we look at those who are unreal in the painting, as those who are real, we are able to laugh off all the fake lives and deaths depicted therein.
+[name="시"]너는 스스로 '참'된 사람이 '거짓'된 사람을 보는 것으로 생각했겠지. '거짓'에도 생로병사가 있다는 것을 웃어넘기면서.
 
 [name="夕"]那如果我们也不过是画中人，随便哪天便烟消云散，你还能如此泰然处之？
+[name="シー"]じゃあ私たちも絵の中の人間に過ぎず、ある日突然、雲散霧消してしまう存在だったとしたら、あなたは平然としていられるかしら？
+[name="Dusk"]But if we are yet inhabitants of a painting, and we will one day vanish into the thin air, would you still be able to remain so calm?
+[name="시"]만약 우리도 그림 속의 사람일 뿐이고, 어느 날 갑자기 연기처럼 사라져 버린다면, 너도 이렇게 태연하게 있을 수 있을까?
 
 [name="嵯峨"]人终有一死，又何须为此苦扰？只作当下想，小僧发乎本心，理所当然，自由自在，自然不会有半点惶恐。
+[name="サガ"]人は皆、いつかは死にます。どうしてそのために思い悩まなければならないのでしょう？　今現在の拙僧の本心を語れば、死とは当然のもので、自由自在で、いささかの恐れもござりませぬ。
+[name="Saga"]All men will one day cease to be. There is little reason to be tormented by that which is inevitable. By approaching all things from the heart and living my life naturally and freely, there is naught to fear.
+[name="사가"]사람은 결국 죽게 되는데, 구태여 이 때문에 고심할 필요가 있겠소? 지금으로선 소승이 본심을 따른 것이니 당연한 것이고, 자유로운 것이니, 조금도 두렵지 않소.
 
 [name="夕"]人未必自由。我所画之真真假假，皆是对自我的诘问。
+[name="シー"]人は自由であるとは限らないわ。私が描いてきた真偽は、すべて自分に対する問いなの。
+[name="Dusk"]Man is not necessarily free. Everything that I've drawn, be it real or otherwise, is merely my way of interrogating myself.
+[name="시"]사람이라고 꼭 자유롭지만은 않지. 내가 그린 참이나 거짓은, 모두 내 자아에 대한 질문이야.
 
 [name="嵯峨"]人生当自由。
+[name="サガ"]いえ、人は生まれながらに自由であるべきです。
+[name="Saga"]Man is naturally free.
+[name="사가"]인생은 마땅히 자유로워야 하는 법이요.
 
 [name="夕"]错，你我皆是画中人。
+[name="シー"]違うわ。あなたも私も皆、画中人なのよ。
+[name="Dusk"]Wrong. Both you and I are habitants of a painting.
+[name="시"]아니, 너와 나, 모두가 화중인, 그림 속 사람이야.
 
 [name="嵯峨"]......
+[name="サガ"]…………
+[name="Saga"]......
+[name="사가"]……
 
 [name="夕"]只自了，不自知，何真之有？
+[name="シー"]自分のことをわかったつもりになっていて、その実自分が何者かは理解していない。だとしたら、その自分は真と言えるの？
+[name="Dusk"]You seek to solve this problem by yourself, yet you know not a thing about yourself. How do you mean to seek truth?
+[name="시"]스스로 만족하나 자신을 알지 못한다면, 그것이 '참'이라 할 수 있을까?
 
 [name="夕"]到头来，何为真？何为假？你当真分得明白？
+[name="シー"]翻って、何が真で何が偽か……あなたは本当に線引きができるの？
+[name="Dusk"]In the end, what is real, and what is false? Are you sure you can truly tell them apart?
+[name="시"]과연 무엇이 '참'이고, 무엇이 '거짓'인지, 넌 정말 확실하게 구분할 수 있을까?
 
 [name="夕"]那又何必较真？
+[name="シー"]できないなら、それを真面目に考える必要がある？
+[name="Dusk"]And why take it so seriously?
+[name="시"]구태여 그 진위까지 따질 필요가 있을까?
 
 [name="嵯峨"]先生莫非是说......此时此刻，小僧仍在画中？
+[name="サガ"]先生はまさか……今もまだ、拙僧が絵の中にいるとおっしゃりたいのですか？
+[name="Saga"]So thou meanst... I am yet within the painting right this moment?
+[name="사가"]설마…… 지금 이 순간에도 소승이 여전히 그림 속에 있단 말씀이오?
 
 [name="夕"]......你确确实实离开了我的画卷，此事不假。
+[name="シー"]……あなたが私の絵巻から抜け出したのは事実よ。これは嘘じゃないわ。
+[name="Dusk"]...You've truly left my scrolls, that I can assure you.
+[name="시"]……넌 확실히 내 그림을 떠났어. 이건 거짓이 아니야.
 
 [name="夕"]只是你如何证明当下这片大地，不是另一幅更无趣的画卷，仅此而已呢？
+[name="シー"]だけどあなたは、どうやってこの大地が、もっとつまらない別の絵巻の中じゃないってことを証明するの？
+[name="Dusk"]I'm only asking, how do you prove that these landscapes before your eyes are not yet another boring painting scroll?
+[name="시"]다만 지금 이 땅이 또 다른 재미없는 그림 속이 아니란 걸 넌 또 어떻게 증명할 수 있을까?
 
 [name="嵯峨"]......
+[name="サガ"]…………
+[name="Saga"]......
+[name="사가"]……
 
 [name="夕"]你行过的路，见过的人，生老病死，多舛命途，兴许都是某些个执笔人的一时兴起，无甚意思。
+[name="シー"]あなたが歩いた道、出会った人、老いや病、生と死、運命の悪戯。それら全ては、もしかしたら誰かが筆を執って、ひとときの興味で描いただけで、何の意味もないことかもしれないの。
+[name="Dusk"]The roads you've trodden, the people you've met, their births and deaths, and their setbacks in life. All of these things might merely be events drawn at the whim of an artist without any particular meaning assigned.
+[name="시"]네가 지나온 길, 만나본 사람, 생로병사, 기구한 운명, 어쩌면 모두 누군가의 갑작스러운 흥일 뿐, 아무런 뜻이 없을지도 몰라.
 
 [name="夕"]你们穷其一生求个所谓的“真”，也不过是那个似我非我的魔怔。
+[name="シー"]あなたたちが生涯をかけて求めている「真」というもの自体、真か否かのジレンマに取り憑かれてるの。
+[name="Dusk"]The so-called reality that you people spend an entire lifetime looking for is yet another fantasy.
+[name="시"]너희들이 평생을 바쳐 추구하는 '진실'도, 사실은 나인 듯 내가 아닌 집념에 불과하지.
 
 [name="夕"]我们在这片画卷里弯弯绕绕，看客看过了也就看过了，喝彩两声，啐口唾沫，如此罢了。
+[name="シー"]私たちがこの絵巻の中であれこれやっても、絵巻を見ている人は、ただ一幅の絵巻に向けて喝采したり、唾を飛ばしたりするだけ。
+[name="Dusk"]We are merely characters in a scroll. The viewers see the events that transpire in the painting and either applaud or criticize its contents.
+[name="시"]우리가 이 그림 속을 거닐고 있을 때, 구경꾼들은 구경을 하고 그냥 지나쳤지. 갈채를 두어 번 보냈거나 침을 뱉었을 수도 있고. 그저 그랬을 거야.
 
 [name="夕"]生皆梦幻，如露似电，无踪泡影。
+[name="シー"]生とはみな夢幻の泡影……露のようにはかなく、電光のように一瞬で過ぎていくものよ。
+[name="Dusk"]Our lives are but a fantasy, like a dewdrop or lightning, leaving not a trace in the end.
+[name="시"]삶이란 몽환적인 것이고, 이슬처럼, 번개처럼 종적도 없이 거품처럼 사라져.
 
 [name="嵯峨"]......
+[name="サガ"]…………
+[name="Saga"]......
+[name="사가"]……
 
 [name="夕"]......话说得够多了，你在这儿虚度光阴，兜兜绕绕，烦人得紧。
+[name="シー"]……少し話しすぎたわ。こんな所でくどくど油を売ってしまって、全く煩わしいったら……
+[name="Dusk"]Let's stop here. You're wasting both your time and mine, and it's getting on my nerves.
+[name="시"]충분히 이야기한 것 같네…… 네가 이곳에서 허송세월 보내는 거, 되게 거슬린다고.
 
 [name="夕"]其他人我会找机会撵出去的，你先走吧。
+[name="シー"]他の人間も私が機会を見て絵巻から追い出すわ。あなたは先に行きなさい。
+[name="Dusk"]I will find a chance to pluck the other ones out. You should get going.
+[name="시"]다른 사람은 내가 기회를 봐서 쫓아낼 테니, 넌 먼저 나가 봐.
 
 [name="嵯峨"]炎熔施主不远万里，只为见先生一面......先生如此不留情面？
+[name="サガ"]ラヴァ殿は先生に会うため、遠路はるばるいらしたというのに……どうしてそんなに冷たくあしらうのです？
+[name="Saga"]Lava came a long way solely for the chance to meet thee... yet thou wouldst not grant her an audience?
+[name="사가"]라바 시주님께서는 선생님을 만나기 위해 만 리 길도 마다치 않고 오셨는데…… 선생님께서는 왜 이렇게 체면을 봐주지 않는 것이오?
 
 [name="夕"]与你无关。
+[name="シー"]あなたには関係ないわ。
+[name="Dusk"]That's none of your business.
+[name="시"]너랑 상관없어.
 
 [name="夕"]你根本不知道她们为何而来，就莫要掺和了。
+[name="シー"]彼女たちがどうして来たかも知らないのに、首を突っ込まないで。
+[name="Dusk"]You don't know why they came, so stay out of it.
+[name="시"]넌 그 녀석들이 무엇 때문에 왔는지 전혀 모르니, 참견하지 마.
 
 [name="嵯峨"]可是——
+[name="サガ"]ですが――
+[name="Saga"]But—
+[name="사가"]허나……
 
 [name="夕"]——事不过三，嵯峨。
+[name="シー"]――三度目はないわよ、サガ。
+[name="Dusk"]—Don't push your luck, Saga.
+[name="시"]……세 번은 없어, 사가.
 
 [name="夕"]再多说一句，就准备好面壁思过吧。
+[name="シー"]それ以上質問するつもりなら、相応の罰を受けてもらうわよ。
+[name="Dusk"]One more word, and I'll have you truly regret it.
+[name="시"]여기에서 한마디만 더 한다면, 잘못을 반성해야 할 거야.
 
 [name="嵯峨"]可小僧答应过炎熔施主，至少，要将此物交给先生。
+[name="サガ"]ですが拙僧はラヴァ殿に約束しました。少なくとも、これを先生に渡さなくてはなりません。
+[name="Saga"]But I promised Lava to present this to thee, at the very least.
+[name="사가"]하지만 소승은 라바 시주께 약속했으니, 적어도 이 물건은 시주께 전달해 드려야 하오.
 
 [name="夕"]你——这是......！？
+[name="シー"]あなた――これは……！？
+[name="Dusk"]You—This...?!
+[name="시"]너…… 이건……?!
 
 [name="年"]......找到啦。
+[name="ニェン"]……見つけたぞ。
+[name="Nian"]Found you...!
+[name="니엔"]……찾았다.
 

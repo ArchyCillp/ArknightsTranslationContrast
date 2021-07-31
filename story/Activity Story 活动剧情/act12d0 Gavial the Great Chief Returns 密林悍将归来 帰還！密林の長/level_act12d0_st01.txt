@@ -20,7 +20,7 @@
 
 [name="特米米"]  嗯，据说叫做“巨大的丑东西”。太可恶了，居然......
 [name="トミミ"]  はい、「ビッグ・アグリー」という名前だそうです。ズゥママ、よくも……
-[name="Tomimi"]  Yes. I heard them calling it "The Big, Ugly Thing".  So gross...
+[name="Tomimi"]  Yes. I heard them calling it 'The Big, Ugly Thing'.  So gross...
 [name="토미미"]  네, '거대하고 못생긴 것'이라고 부르더라고요. 정말 괘씸해요. 감히…
 
 [name="嘉维尔"]  也太酷了吧！
@@ -145,7 +145,7 @@
 
 [name="森蚺"]  但是，工具不一样，我们部族制造出来的这台“巨大的丑东西”，可以轻易地打败嘉维尔，也可以轻易地让神庙塌掉。
 [name="ユーネクテス"]  だが道具にそんな限界はない。私の部族が作り上げた「ビッグ・アグリー」ならば、ガヴィルだって簡単に倒せるし、霊殿も打ち壊せる。
-[name="Eunectes"]  But with a tool? That’s different. My tribe created this "Big, Ugly Thing" that effortlessly took down Gavial and destroyed the Temple just as easily.
+[name="Eunectes"]  But with a tool? That’s different. My tribe created this 'Big, Ugly Thing' that effortlessly took down Gavial and destroyed the Temple just as easily.
 [name="유넥티스"]  하지만 도구가 있으면 달라. 우리 부족이 만든 '거대 못난이'는 가비알도 신전도 쉽게 쓰러뜨릴 수 있다.
 
 [name="森蚺"]  这就是工具的力量。
@@ -400,7 +400,7 @@
 
 [Decision(options="因为“石头病”？;......;看来观光要暂缓了。",values="1;2;3")]
 [Decision(options="「石塊病」のためだな？;……;観光は後回しか。",values="1;2;3")]
-[Decision(options="Because of the \"Stone Disease\"?;......;I guess sightseeing can wait.",values="1;2;3")]
+[Decision(options="Because of the 'Stone Disease'?;......;I guess sightseeing can wait.",values="1;2;3")]
 [Decision(options="……'돌멩이병' 때문에?;……;관광은 잠시 미뤄야겠군.",values="1;2;3")]
 
 [name="嘉维尔"]  不愧是博士，一下就想到了我在想的东西。
@@ -425,7 +425,7 @@
 
 [name="嘉维尔"]  但这样的地方也有这样的地方的好处，那就是，你也听到了，在我们这里，矿石病只是一种被叫做“石头病”的普通疾病。
 [name="ガヴィル"]  だけど、だからこそ良いことだってあるんだ。聞いての通り、鉱石病はここじゃ「石塊病」って呼ばれる普通の病気に過ぎない。
-[name="Gavial"]  But there is one good thing about this place. You heard it, right? They call Oripathy  "Stone Disease" and treat it like an ordinary malady.
+[name="Gavial"]  But there is one good thing about this place. You heard it, right? They call Oripathy  'Stone Disease' and treat it like an ordinary malady.
 [name="가비알"]  하지만 이곳만의 장점도 있어. 박사도 들었겠지만, 여기서 광석병은 '돌멩이병'이라고 불리는 평범한 질병 취급이야.
 
 [name="嘉维尔"]  偶尔会有人染上它，也会有人因为这种病死去。但是对我们来说，它没有什么特殊的，因为什么病都有人死。
@@ -505,7 +505,7 @@
 
 [name="嘉维尔"]  渐渐的，所有人都用一种“嘉维尔你什么都不要做了，我们会帮你做好”的方式对待我......但这并不是我想要的。
 [name="ガヴィル"]  いつの間にか、「ガヴィルは何もしなくていい。代わりに全部やってやるから」みたいな扱いになっててさ……アタシはそんなの望んでないってのに。
-[name="Gavial"]  Day after day, time after time, it was "Oh no, Gavial, let me do that for you," you know what I mean...? That’s no life for me.
+[name="Gavial"]  Day after day, time after time, it was 'Oh no, Gavial, let me do that for you,' you know what I mean...? That’s no life for me.
 [name="가비알"]  그렇게 사람들은 모두 "가비알 넌 아무것도 하지 마, 우리가 다 해줄게" 뭐 이런 식이 되었지…… 근데 난 그런 걸 원한 게 아니었거든.
 
 [name="特米米"]  嘉维尔从那个时候开始就不怎么笑了......

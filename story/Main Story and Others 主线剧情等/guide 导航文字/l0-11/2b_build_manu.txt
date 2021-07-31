@@ -1,6 +1,15 @@
 [PopupDialog(dialogHead="$avatar_closure")] 现在我们需要建造<@tu.kw>制造站</>。
+[PopupDialog(dialogHead="$avatar_closure")] じゃあ続けて<@tu.kw>製造所</>を建造しよう。
+[PopupDialog(dialogHead="$avatar_closure")] Now we need to build a <@tu.kw>Factory</>.
+[PopupDialog(dialogHead="$avatar_closure")] 그럼 계속해서 <@tu.kw>제조소</>를 지어 보자.
 
 [PopupDialog(dialogHead="$avatar_closure")] 制造站可以制造材料与一些资源。前期可以生产赤金用于贩卖换取<@tu.kw>龙门币</>，也可以生产升级干员用的<@tu.kw>作战记录</>。
+[PopupDialog(dialogHead="$avatar_closure")] 製造所では素材や資源の製造ができるんだ。最初は貿易所で売って<@tu.kw>龍門幣</>にできる純金や、オペレーターを強化する<@tu.kw>作戦記録</>なんかが製造できるよ。
+[PopupDialog(dialogHead="$avatar_closure")] The Factory will produce materials and some resources. In the beginning you should produce Pure Gold and sell them for <@tu.kw>LMD</>, or <@tu.kw>Combat Records</> for your Operators.
+[PopupDialog(dialogHead="$avatar_closure")] 제조소에선 재료나 자원을 제조할 수 있어. 처음에는 <@tu.kw>용문폐</>와 교환할 수 있는 순금이나 오퍼레이터 강화에 쓰이는 <@tu.kw>작전 기록</> 같은 걸 얻을 수 있지.
 
 [PopupDialog(dialogHead="$avatar_closure")] 在后期可以制造<@tu.kw>源石碎片</>换取<@tu.kw>合成玉</>。
+[PopupDialog(dialogHead="$avatar_closure")] 施設のランクが上がれば、<@tu.kw>源石の欠片</>を製造して<@tu.kw>合成玉</>と交換できるようになったりもするよ。
+[PopupDialog(dialogHead="$avatar_closure")] Later on you can produce <@tu.kw>Originium Shards</> and exchange them for <@tu.kw>Orundums</>.
+[PopupDialog(dialogHead="$avatar_closure")] 시설의 랭크가 올라가면 <@tu.kw>오리지늄 조각</>을 만들어 <@tu.kw>합성옥</>과 교환할 수도 있어.
 

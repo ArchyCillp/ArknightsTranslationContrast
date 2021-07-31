@@ -1,6 +1,15 @@
 [PopupDialog(dialogHead="$avatar_closure")] 加工站主要用于材料的<@tu.kw>合成</>和<@tu.kw>分解</>。
+[PopupDialog(dialogHead="$avatar_closure")] 加工所では材料の<@tu.kw>合成</>と<@tu.kw>分解</>を行うことができるよ。
+[PopupDialog(dialogHead="$avatar_closure")] The Workshop is where materials are <@tu.kw>crafted</> and <@tu.kw>decomposed</>.
+[PopupDialog(dialogHead="$avatar_closure")] 가공소는 주로 재료의 <@tu.kw>합성</>과 <@tu.kw>분해</>를 하는 곳이야.
 
 [PopupDialog(dialogHead="$avatar_closure")] 由于技术的改进，材料的合成和分解几乎可以在短时间内由机器自动完成，节约了宝贵的时间。
+[PopupDialog(dialogHead="$avatar_closure")] 材料の合成と分解はなんと全自動！機械が一瞬で終わらせてくれるんだ。技術の進歩だねぇ。
+[PopupDialog(dialogHead="$avatar_closure")] Thanks to technological advances, crafting and decomposing can be done automatically and instantly by machines to save time.
+[PopupDialog(dialogHead="$avatar_closure")] 재료의 합성과 분해는 대부분 기계를 이용해서 짧은 시간에 자동으로 끝낼 수 있어. 귀중한 시간을 절약해줄 수도 있고, 기술의 힘이란 대단해!
 
 [PopupDialog(dialogHead="$avatar_closure")] 最后来尝试进行一次加工吧。
+[PopupDialog(dialogHead="$avatar_closure")] 最後に1回加工を試してみようよ！
+[PopupDialog(dialogHead="$avatar_closure")] Now let's try to process some materials.
+[PopupDialog(dialogHead="$avatar_closure")] 마지막으로 한 번, 직접 가공해보자구!
 
