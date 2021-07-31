@@ -1,0 +1,219 @@
+ID:
+	char_106_franka
+
+干员代号\Name:
+	芙兰卡
+	フランカ
+	Franka
+	프란카
+
+招聘合同\Character Usage:
+	黑钢防化小队近卫干员芙兰卡，正在等待你的部署。
+	BSW化学防護隊前衛オペレーターフランカ、配置待機中。
+	Franka, Guard Operator of B.P.R.S. of Blacksteel, is waiting for your orders.
+	블랙스틸 생화학방호대응팀 가드 오퍼레이터 프란카는 당신의 명령을 기다리고 있습니다.
+
+合同描述\Character Description:
+	炽热的铝热剑穿透一切防御。
+	熱いテルミット剣を防ぐ盾なんてない。
+	This scorching thermite blade shall penetrate all defenses.
+	이글거리는 테르밋 블레이드가 뚫을 수 없는 방어는 존재하지 않는다.
+
+信物\Potential Item:
+	一张旅行计划书。因为规划的目的地太多而导致相当难以实现。
+	旅行の計画書。計画している目的地が多すぎて、実現は相当難しそう。
+	An itinerary. There are too many destinations on it so it's hard to stick to it.
+	여행 계획서. 가고 싶은 곳이 너무 많아서 실행하기는 대단히 어려울 것 같다.
+
+天赋\Talents:
+	铝热剑
+	テルミットレイピア
+	Thermite Blade
+	테르밋 블레이드
+
+技能\Skills:
+	迅捷打击·γ型
+	迅速攻撃γ
+	Swift Strike γ
+	신속공격γ
+
+	极致锋度
+	利剣の極致
+	Vorpal Edge
+	예리함의 극치
+
+语音\Voices:
+	现在是换班时间，博士，不必在意我，请继续工作吧。
+	交代の時間だけど、そのまま仕事してて、ドクター。あたしのことは気にしなくていいから。
+	We're changing shifts right now, Doctor. Just ignore me and get on with your work.
+	교대 시간이긴 한데, 하던 일 계속해, 박사. 난 신경 쓰지 말고.
+
+	在BSW我被任命为生化防护响应专员——通称“BPRS”。是的，就是大家都熟悉的那种形象，穿着像桶一样的全套防化服......
+	BSWでは生体防護処置班員——通称「BPRS」というポジションを任されてたの。そう、みんなにもおなじみの、バケツみたいな防護服を着てね……。
+	Back in BSW, I was appointed as a BPRS... you know, Biochemical Protection Response Staff. You can probably imagine what it was like... bulky hazmat suit and all that...
+	블랙스틸에선 생화학방호대응 담당, 통칭 'BPRS'라는 포지션을 담당하고 있었어. 그래, 다들 잘 아는 양동이처럼 생긴 방호복을 입고서 말이야… 
+
+	什么？我有洁癖？呵呵，博士出乎意料地很敢说话呢，有胆量哦。
+	んー？あたしが潔癖症？ふふ、ドクターって意外と遠慮ない時あるよね、いい度胸してるわ。
+	Hmm? You think I'm a clean freak? Well, Doctor, I see you're unexpectedly direct! I admire your courage.
+	응? 내가 결벽증이 있다고? 후후, 박사는 의외로 직설적일 때가 있네. 좋은 배짱이야.
+
+	我认为部分干员的房间最好被净化下，比如那位高高在上的优等生小姐的，您觉得怎么样？
+	一部のメンバーの部屋は浄化処理したほうがいいと思うな。あのお高く止まった優等生サマの部屋とかさ、どう？
+	Some of the Operators' rooms are in dire need of cleaning. For example, the one belonging to that high-and-mighty teacher's pet. What do you think?
+	일부 멤버의 방은 정화 처리를 하는 게 좋을 것 같아. 예를 들면 그 거만한 우등생님의 방이라든가. 어때?
+
+	想欣赏下我这把剑的精致花纹吗？那么，请好好地拿着，绝对不要松手，接下来它会在三秒钟内加热到2500度......呵呵，开玩笑的啦。
+	この剣の文様、見てみたい？はい、しっかり持って、絶対に離しちゃダメだよ。この剣、三秒もあれば2500度の熱さに……ふふ、冗談冗談、そう怯えないで。
+	You want to see the intricate pattern on my sword up close? Sure, hold it tight, then. Don't let go—it'll heat up to 2,500 degrees Celcius in 3 seconds! Haha, just kidding! Don't be scared!
+	이 검의 문양을 보고 싶어? 자, 꽉 잡아. 절대 놓치면 안 돼. 이 검은 3초 만에 2,500도까지 달아오른다고… 후후, 농담이야. 그렇게 겁먹지 마.
+
+	请注意那些布满化学烟雾、有毒物质和有害辐射的房间......对，我确实在说凯尔希医生的实验室。
+	化学ガスとか有毒物質とか放射線とかばっかりの部屋には気をつけて……そう、ケルシー先生のラボとかね。
+	Stay clear of that room full of chemical haze, toxins and harmful radiation... that's right, I mean Dr. Kal'tsit's lab.
+	화학 가스나 유독 물질, 방사선이 가득한 방은 조심해… 그래, 켈시 선생님의 연구실 같은 곳 말이야.
+
+	生化防护的相关心得？这个嘛，比如说饭后一定要刷牙？
+	生体防護の心がけ？そうね……食後の歯磨きは欠かさないとか？
+	You're asking me for advice regarding the prevention of biochemical contamination? Well, for example... always brush your teeth after eating?
+	생화학 방호 업무의 마음가짐? 글쎄… "식후에는 반드시 양치질할 것" 같은 거?
+
+	雷蛇晋升后的姿态真是惹眼啊。「我这么好看！打这儿，打这儿！」，她一定是想这么说的吧？
+	リスカムの昇進後の姿はいいよねー。「ワタシを狙って」って言ってるようなもんでしょ？
+	Liskarm's been looking so flashy since she got her promotion. It's like she's saying 'Shoot me here!'
+	승진한 리스캄의 모습은 참 좋네~ "저를 노려 주세요"라고 말하는 것 같지 않아?
+
+	啊啊，如果罗德岛这么自由的话，干脆就从黑钢辞职好了~不过这样雷蛇会很伤心呢~
+	あーあ。ここがこんなに自由ならBSWを辞めてもいいかな～でもリスカムは悲しむよね～。
+	Good golly, if this is how free life is at Rhodes Island then I might just quit my job at BSW. Liskarm would be upset, though.
+	아~ 여기가 이렇게 자유롭다면 블랙스틸 관둬도 되겠는데~? 하지만 그러면 리스캄이 슬퍼하겠지~
+
+	你手腕上停了只蚊子，博士。
+	手首に蚊が止まってるよ、ドクター。
+	There's a mosquito on your arm, Doctor.
+	손목에 모기가 앉았어, 박사.
+
+	防化干员芙兰卡，为了最大限度抑制矿石带来的污染，就让我贡献一份力量吧。
+	生体防護オペレーターのフランカよ。源石汚染を最大限に抑えられるように、力を貸してあげるわね。
+	I'm chemical specialist operator, Franka, here to do my bit to help minimize the pollution wrought by Originium.
+	생화학 방호 오퍼레이터 프란카야. 오리지늄 오염을 가능한 한 억제할 수 있도록 힘을 빌려줄게.
+
+	这样的技巧，无论什么样的场合里我都能灵活运用哦。
+	こういうテクニックなら、いろんな場面で活かせると思うよ。
+	Techniques like these could be used in all kinds of situations!
+	이런 테크닉은 다양한 상황에서 활용할 수 있겠네.
+
+	哦，晋升？比起黑钢，这里要有趣多了。
+	へー、昇進させてくれるの？BSWにいた時より、ずっと面白いわね。
+	Wooow, you're giving me a promotion? I'm having a lot more fun here than at BSW.
+	오, 승진시켜 주는 거야? 블랙스틸에 있던 때보다 훨씬 재미있는걸.
+
+	哼哼，你想见识下这把剑最闪耀的样子吗？遗憾，现在的博士还没有那个资格。再努力点，也许那一天会到来的哦。
+	ふふ、この剣が最も輝いてる姿が見たい？残念だけど、ドクターにはまだその資格がないわね。もっと頑張ってくれれば、いつかその日が来るかもしれないけどね。
+	*Giggle*, you want to see my sword at its most glorious? Too bad, Doctor—you're not qualified yet! If you work at it, maybe one day you'll gain the privilege!
+	후후, 이 검이 가장 빛나는 모습을 보고 싶어? 아쉽지만 박사에겐 아직 그럴 자격이 없어. 좀 더 노력하면 언젠가 그날이 올지도 모르지만.
+
+	好，准备完毕。
+	よーし、準備できたわ。
+	All right, I'm ready.
+	좋아, 준비됐어.
+
+	培养优秀部下的好处，就是能把麻烦事统统推给他们。
+	いい部下を育てるメリットは、面倒事を押し付けられることなのよね。
+	The best thing about training capable subordinates is that I get to let them handle all the annoying stuff for me.
+	좋은 부하를 키워내는 메리트는, 귀찮은 일을 떠넘길 수 있다는 점이지.
+
+	那么，我们出发。
+	じゃあ、行きましょう。
+	Well, let's go, then.
+	자, 가자.
+
+	很遗憾，这些人已经被污染了，那样的话......
+	残念ながら、連中は汚染されてるみたいね。それなら……。
+	Too bad... these people have already been contaminated. In that case...
+	안타깝게도, 얘네들은 오염된 것 같네. 그러면…… 
+
+	时间有限。
+	時間がない。
+	We have to hurry!
+	시간이 없어.
+
+	没时间犹豫了。
+	迷ってる暇はないわ。
+	No time to hesitate.
+	망설일 틈은 없다고.
+
+	我对进攻不怎么在行~
+	攻撃は専門外なんだけどなー。
+	Offense isn't what I trained for, but hey...
+	공격은 내 전문 분야가 아닌데.
+
+	重装甲好可怕......骗你的~
+	重装甲とか超こわーい……なんてね。
+	Heavily armored enemies are SO scary...! Hah, just kidding!
+	중기갑이라니 너무 무섭다~ … 장난이야.
+
+	发现你的弱点了～
+	弱点、みーっけ。
+	Found your weak spot!
+	약점 발견~
+
+	烧起来吧。
+	燃えなさい。
+	Burn it up!
+	불타버려.
+
+	停止呼吸咯～
+	息の根を止める。
+	Hold your breath now!
+	숨통을 끊어 줄게.
+
+	骗~你的。
+	なーんてね～。
+	Juuuuust kidding!
+	그냥 해본 소리야~
+
+	沉溺于力量，是最愚蠢的。
+	力に溺れるなんて……愚かなやつらね。
+	Obsession with power is a fool's game.
+	힘에 취하다니… 어리석은 녀석들이네.
+
+	真是一次完美的行动，做的很好哦。
+	非の打ち所がない戦いだったわね。よくできました、っと。
+	That was perfect from start to finish. Well done.
+	흠잡을 데 없는 전투였어. 참 잘했어요~!
+
+	理所当然的结果。
+	当然の結果ね。
+	Just as expected.
+	당연한 결과지.
+
+	在这种地方沮丧又有什么用？立刻撤退。
+	こんなところで落ち込んでてもしょうがないでしょ？さっさと撤退するわよ。
+	What's the point of staying here and being all upset? Fall back now.
+	이런 데서 낙담해 봤자 무슨 소용이야? 빨리 퇴각하자고.
+
+	没有红茶吗？
+	ねえ、紅茶ない？
+	Say, do you have any tea?
+	저기, 홍차 없어?
+
+	有事？
+	何か用？
+	Is there something you need?
+	무슨 일이야?
+
+	我们在黑钢时的事，想了解了解吗？
+	BSWにいた時のこと、知りたい？
+	Want to hear about my time at BSW?
+	블랙스틸 시절 이야기를 듣고 싶어?
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	博士，早安。
+	ドクター、おはよう～。
+	Gooood morning, Doctor!
+	박사, 좋은 아침~

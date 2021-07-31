@@ -1,0 +1,224 @@
+ID:
+	char_180_amgoat
+
+干员代号\Name:
+	艾雅法拉
+	エイヤフィヤトラ
+	Eyjafjalla
+	에이야퍄들라
+
+招聘合同\Character Usage:
+	罗德岛术师干员艾雅法拉，一直想要倾尽全力为你做些什么。
+	ロドス術師オペレーターエイヤフィヤトラ、あなたのために精一杯力を尽す。
+	Eyjafjalla, Caster Operator of Rhodes Island, has wanted to devote herself to doing something for you.
+	로도스 아일랜드 캐스터 오퍼레이터 에이야퍄들라는 늘 온 힘을 다해 당신에게 무언가를 해주고자 합니다.
+
+合同描述\Character Description:
+	总是很努力，总是很认真。
+	几帳面な頑張り屋。
+	Hardworking and earnest all the time.
+	언제나 노력하고, 언제나 진지하다.
+
+信物\Potential Item:
+	小巧的理发剪。柄的位置细心地缠绕着隔热的布料。
+	小さく精巧な散髪ハサミ。柄の部分には細心の注意を払って断熱性のある布地がまかれている。
+	A small pair of scissors. The handle is carefully wrapped in heat-resistant cloth.
+	작고 정교한 이발용 가위. 손잡이 부분에는 단열이 되는 천을 세심하게 둘렀다.
+
+天赋\Talents:
+	炎息
+	フレイムブレス
+	Pyrobreath
+	플레임 브레스
+
+技能\Skills:
+	二重咏唱
+	二重詠唱
+	Duetto
+	듀엣 아리아
+
+	点燃
+	イグニッション
+	Ignition
+	이그니션
+
+	火山
+	イラプション
+	Volcano
+	볼케이노
+
+语音\Voices:
+	前辈，您借我的天灾研究笔记我都读完了，还有其他的吗？
+	先輩、この前お借りした天災研究ノート、全部読んじゃいましたぁ！同じようなもの、ほかにまだありますか……？
+	Professor, I already finished all the Catastrophe studies notes. Do you have any more?
+	선배, 저번에 빌렸던 재앙 연구 노트, 전부 읽었어요! 비슷한 거 또 있나요…?
+
+	您说什么？为什么？为什么要叫您前辈？啊，因为您是天灾研究的专家呀，按照规矩一定要叫前辈的~
+	えっなにか？……あっ、どうして先輩って呼んでいるかですか？それは、先輩が天災研究の専門家なので、研究者として私の先輩にあたる方だからですよ～。
+	Huh? What? Why do I call you 'Professor', you mean? Well, you're an expert in disaster studies, so you're like my teacher, right? Aren't we supposed to call our teachers 'Professor'?
+	어? 무슨 일이세요? … 아, 왜 선배라고 부르냐고요? 그건, 선배가 재앙 연구의 전문가니까, 연구자로서는 제 선배라고 할 수 있는 분이라서 그래요~
+
+	那个，原——什么？啊，是问我听力恶化的原因？其实，是我以前在火山地带做考察的时候，不小心感染了矿石病的缘故......
+	えっと、げん……何ですか？ああ、私の聴力悪化の「原因」ですか？実は、火山の近くで研究していたときに、鉱石病に感染してしまって……。
+	What? Say that again? Oh, you're wondering why I'm hard of hearing? Well, it was because I got infected with oripathy back when I was doing research near a volcano...
+	그러니까, 원… 뭐라고요? 아아, 제 청력이 나빠진 원인 말씀이신가요? 실은 화산 근처에서 연구를 하다가 광석병에 감염되어버려서… 
+
+	除了完成前辈您安排的工作，我还要抽空去凯尔希医生那里做检查。医生说，我的病症似乎是比较严重的那种......
+	先輩からいただいた仕事の合間に、ケルシー先生の検査も受けないと…。私の病状は結構深刻な状態らしいんです……。
+	Besides completing the tasks you give me, I have to go to Dr. Kal'tsit regularly for checkups. The doctor said my symptoms are pretty serious...
+	선배한테 받은 업무를 보면서 켈시 선생님의 검사도 받아야 하고… 제 증상은 꽤 심각한 상태라네요… 
+
+	为了完成父母的研究，我还得更努力才行。如果我能证明他们的研究是有意义的，说不定，将会有一个影响世界的大发现呢。
+	両親から引き継いだ研究を形にするには、もっと頑張らないと――。もしこの研究の有用性を証明できたら、世界が驚く、とんでもない発見になるかも……。
+	I have to work hard to finish the research my parents had started! I want to prove that their work was meaningful and maybe even change the world!
+	부모님께 물려받은 연구를 마치려면, 더 열심히 해야겠죠. 이 연구의 유용성을 증명하게 되면, 전 세계가 놀랄 엄청난 발견이 될지도 몰라요… 
+
+	我的父母......已经去世了，他们在火山周边进行观测时遭遇了火山碎屑流......我必须继承父母的遗志，完成他们的学说，无论如何都要......
+	私の両親は…もう亡くなりました。火山周辺で観測を行っていたときに火砕流に遭って……私、何があっても、両親の遺志を受け継ぐつもりです。
+	My parents... They've passed on. A pyroclastic flow hit them when they were conducting studies near a volcano... I have to pick up where they left off and finish their research, no matter what!
+	제 부모님은… 이미 돌아가셨어요. 화산 근처에서 관측을 하시다가 화산쇄설류에 휘말리셔서 그만… 전 무슨 일이 있더라도, 부모님의 의지를 이어받을 생각이에요.
+
+	玩伴吗？我和慕斯她们关系很好，所以一点也不寂寞~如果可以的话，我想和大家一起办读书会！嗯，就在前辈您的办公室，可以吗？
+	遊び相手？ムース達が仲良くしてくれるので寂しくはないですよ～。できたら今度みんなで読書会をしたいと思っているんです！えと……場所は先輩の執務室でもいいですか？
+	My playmates? I'm pretty friendly with Mousse and some others, so I'm not lonely at all! If possible, I'd love to start a book club with them too. Can we hold meetings in your office, Professor?
+	같이 놀 상대요? 무스나 다른 애들이 친하게 지내줘서 외롭지는 않답니다~ 그러니까 다음에 같이 독서회라도 해볼까 생각하고 있어요! 음… 장소는 선배 집무실로 얘기해도 될까요?
+
+	我从凯尔希医生那里听到了，不只是听力，我的视力也在慢慢丧失......矿石病，究竟会把我变成什么样子呢？
+	聴力だけでなく視力も悪化してきていると、ケルシー先生から聞きました……鉱石病は私をどこまで連れて行く気なんでしょうね？
+	Dr. Kal'tsit told me... I'm not only losing my hearing but also my vision. Oripathy is really relentless, huh?
+	청력뿐만 아니라 시력도 나빠지고 있다고, 켈시 선생님께서 그러셨어요… 광석병은 절 어디까지 데려갈 셈인 걸까요?
+
+	为什么能察觉到前辈站在我身后？那是因为我感受到了前辈的温度~虽然我的视力听力都变差了，但其他感官还很敏锐哦~即使变成现在这个样子，我呀，可没那么容易被打倒的~
+	どうして後ろにいるのがわかるのか、ですか？それは先輩の体温を感じたからです。耳も目も悪くなりましたが、その分ほかの感覚が鋭敏になっているというか……こう見えても私、なかなかしぶといんですよ～。
+	How could I tell you were behind me, you ask? I could feel your warmth, of course! My eyesight and hearing might not be what they used to be, but my other senses are still very sharp. Can't bring me down this easily, you know!
+	왜 뒤에 있는지 아냐고요? 그건 선배의 체온을 느껴서 그래요. 귀도 눈도 나빠졌지만, 그만큼 다른 감각이 예민해졌다고 할까요… 이래 보여도 저, 꽤 끈질기답니다~
+
+	前辈，睡着了呀......
+	……先輩、眠っておられるんですね……。
+	Professor! Oh... you're asleep...?
+	…… 선배, 주무시고 계시군요… 
+
+	我是艾雅法拉，加入罗德岛前一直在研究火山地质。因为矿石病的影响，我的听力不太好，也许，以后要多多麻烦您了，前辈~
+	初めまして。私はエイヤフィヤトラです。ここに来る前は火山の研究をしていました。鉱石病の影響で耳が悪いので、ご迷惑をかけるかもしれませんが、よろしくお願いします。先輩～。
+	I'm Eyjafjalla, whose main career before joining Rhodes Island was volcanology. I'm a bit hard of hearing due to oripathy. I hope I won't be much trouble to you, Professor.
+	에이야퍄들라라고 해요. 에피라고 불러주세요. 여기 오기 전에는 화산 연구를 했었어요. 광석병의 영향으로 귀가 나빠서 민폐를 끼칠지도 모르지만… 잘 부탁드려요, 선배~
+
+	请您给予我更多的指导，前辈~
+	もっとご指導をお願いします、先輩～。
+	Please teach me more, Professor.
+	더 많은 지도 부탁드려요, 선배~
+
+	晋升？是真的吗？能被前辈夸奖，真的好高兴！
+	昇進？本当ですか？先輩に褒めていただけるなんて、すごく嬉しいです！
+	Promotion? Really? I'm so happy to have your approval, Professor!
+	승진? 정말인가요? 선배한테 칭찬받다니, 정말 기뻐요!
+
+	这些小羊是妈妈留给我的，前辈也觉得它们很可爱吧？欸？热——很烫？啊请等等，不戴隔热手套的话会被它们烫伤的！
+	この黒い羊達はお母さんが遺したの唯一の形見なんです。先輩も可愛いと思いますよねぇ？えっ？あつ、熱い？あ、待って！断熱手袋をつけないとやけどしちゃいますよ！
+	Mother gave me these little lambs. They're cute, yeah? Huh? They're scorching hot? Of course they are! Be careful! You have to put on oven mittens before touching them!
+	이 검은 양들은 어머니가 남긴 유일한 유품이에요. 선배도 귀엽다고 생각하시죠? 엣? 뜨, 뜨겁다고요? 아 잠깐만요! 단열장갑을 안 끼면 데일 거예요!
+
+	我知道了，前辈。
+	わかりました、先輩。
+	Understood, Professor.
+	알았어요, 선배.
+
+	除了武器，您也别忘记准备防灾用具哦~
+	武器はもちろん、防災用具も忘れちゃダメですよ～。
+	Don't forget to prepare emergency supplies as well as weapons!
+	무기는 물론, 방재도구도 잊지 마세요~
+
+	前辈，我们能照顾好自己，您专注指挥就好。
+	先輩、私達のことは気にせず、全体の指揮に専念してください。
+	We can take care of ourselves, Professor. You can just focus on giving orders.
+	선배, 저희는 신경 쓰지 마시고, 전체를 지휘하는데 전념해주세요.
+
+	请大家一定要注意安全。
+	みなさん、安全確保が第一です。
+	Stay safe, everyone.
+	여러분, 안전 확보가 제일이에요!
+
+	前辈？
+	先輩？
+	Professor?
+	선배?
+
+	前辈，请您吩咐。
+	先輩、ご命令を。
+	Please give your orders, Professor.
+	선배, 명령을!
+
+	我会小心行动的。
+	気を付けて行動しますね。
+	I'll be careful.
+	조심해서 행동할게요.
+
+	加油！
+	頑張ります！
+	All the best!
+	열심히 할게요!
+
+	温度稳定。
+	温度、安定しています。
+	Temperature is stable.
+	온도는 안정적이에요.
+
+	可能有点热哦？
+	少し熱いかもしれませんよ～？
+	Might be a bit hot...?
+	조금 뜨거울지도 몰라요~
+
+	请小心火灾。
+	火事には気をつけてください。
+	Watch out for fires.
+	화재에 주의해주세요.
+
+	这招怎么样！
+	これでどうです！
+	How's that?
+	이건 어때요!
+
+	前辈平安无事吗？太好了......
+	先輩、大丈夫そうですか？よかった……。
+	I'm so glad you're safe, Professor...
+	선배, 괜찮으세요? 다행이다… 
+
+	为什么要这样彼此争斗不休呢......
+	どうして争いは終わらないんでしょう……。
+	Why does there have to be conflict in this world?
+	왜 싸움은 끝나지 않는 걸까요… 
+
+	大家都没事吧？有什么我能做的吗？
+	みなさんご無事ですか？私にできることはありますか？
+	Is everyone okay? Anything I can do?
+	여러분 무사하신가요? 제가 할 수 있는 일은 없나요?
+
+	呜......没、没事的......
+	う……だ、大丈夫です……。
+	Ow... it's... it's okay... I'm okay...
+	으…… 괘, 괜찮아요…… 
+
+	这个房间让我很安心~
+	この部屋はすごく安心できますね。
+	This room makes me feel safe.
+	이 방은 무척 마음이 놓이네요.
+
+	呀！别、别吓我，前辈！
+	ヒャッ！お、驚かさないでくださいよ、先輩！
+	Eek! Hey, you surprised me, Professor!
+	꺄악! 노, 놀래키지 마세요, 선배!
+
+	谢谢前辈不断地指引我的成长~
+	私をこんなに成長させてくれて、ありがとうございます、先輩。
+	Thank you, Professor, for guiding me to grow stronger.
+	절 이렇게 성장시켜주셔서 고마워요, 선배.
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	前辈，早上好~
+	先輩～おはようございます～
+	Good morning, Professor!
+	선배~ 안녕하세요~

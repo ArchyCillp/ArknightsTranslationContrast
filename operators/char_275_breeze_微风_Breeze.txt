@@ -1,0 +1,214 @@
+ID:
+	char_275_breeze
+
+干员代号\Name:
+	微风
+	ブリーズ
+	Breeze
+	브리즈
+
+招聘合同\Character Usage:
+	罗德岛医疗干员微风，捉弄与治疗是并存的。
+	ロドス医療オペレーターブリーズ、いたずらと治療は紙一重。
+	Breeze, Medic Operator of Rhodes Island, will prove that teasing and treatment go hand in hand.
+	로도스 아일랜드 메딕 오퍼레이터 브리즈. 그녀에게 장난과 치료는 종이 한 장 차이에 불과합니다.
+
+合同描述\Character Description:
+	切记，良药苦口。
+	ゆめゆめ忘るべからず。良薬は口に苦し。
+	Remember, bitter herbs make the best medicine.
+	기억해두자, 몸에 좋은 약은 입에 쓰다는 걸.
+
+信物\Potential Item:
+	反复擦拭以至于磨损了图案的家族徽章，依旧闪亮如初。
+	繰り返し磨いたため摩耗してしまった、一族の紋様の徽章。その輝きは新品さながら。
+	A family seal that has been wiped down so many times that its pattern is fading, still polished and shining impeccably.
+	도안이 잘 보이지 않을 정도로 여러 번 닦여진 가문의 휘장. 지금도 새것처럼 빛나고 있다.
+
+天赋\Talents:
+	医疗班保护
+	医療班保護
+	Medic Squad Protection
+	치료소대 보호
+
+技能\Skills:
+	集束疗法
+	集中療法
+	Cluster Therapy
+	집중식 치료
+
+	扩散疗法
+	拡散療法
+	Widespread Therapy
+	확산식 치료
+
+语音\Voices:
+	要我帮忙是没问题啦，之后可得好好回报我哦。
+	わたくしに手伝ってほしい？構わないけど、後でしっかり見返りをいただくわよ。
+	If you need help, I will gladly help out. Just remember to return the favor some time.
+	내가 도와줬으면 좋겠어? 상관은 없지만, 나중에 제대로 받아낼 거야.
+
+	维娜......不，推进之王小姐她总给我一种说不出的感觉，是为什么呢......？
+	ヴィーナ……いえ、シージさんからはいつも言葉にできない不思議な印象を受けるわ。なぜかしら……。
+	Verna... Err, I mean, Miss Siege, always gives me a feeling that I can't describe. Why is that...?
+	비나…… 아니, 시즈 씨한테는 늘 말로 할 수 없는 신기한 인상을 받아. 왜일까……
+
+	我的老爹？哎呀，明知道我是离家出走来到这里的，却还要这么问吗？莫非博士你其实很不擅长聊天？
+	お父様は元気かですって？ちょっと、普通家出中の人にわざわざそんなこと聞くかしら？もしかしてドクターさんって会話が苦手なの？
+	My dad? Oh my, you're asking me that even though you know I ran away from home? Doctor, are you perhaps socially awkward?
+	아버님은 잘 계시느냐고? 잠깐, 보통 가출 중인 사람한테 일부러 그런 걸 물어보나? 혹시 박사는 대화하는 게 서투른 거야?
+
+	{@nickname}，请务必品尝一下我的料理......有草药的味道？哎、哎呀，我怎么会用博士您做实验呢？哈哈......
+	ドクターさん、わたくしの手料理をどうぞ召し上がれ……薬草の味がする、ですって？い、いやね、ドクターさんを実験台になんかするわけないでしょう、おほほ……。
+	{@nickname}, be sure to try my dishes...did you taste the herbs? Oh my, why would I ever use the Doctor as my taste tester? Heehee...
+	박사, 내가 직접 만든 요리인데 먹어 봐…… 약초 맛이 난다고? 어, 어머~ 내가 박사를 실험 대상으로 삼을 리 없잖아, 오호호……
+
+	我曾觉得老爹他们麻木、迂腐，所以独自离开那里，寻找新的生活，走了很远，经历了很多，却反而理解了老爹他们。欸哈哈，搞什么嘛。
+	昔、お父様たちの考えは古臭くて役立たずだと思ったから家を出ることにしたの。故郷を離れて、新しい生活を求めて、たくさん歩いて、たくさん経験して、ふと気づくと、お父様たちの考えもわかるようになっていた。ふふ、おかしな話でしょう。
+	I used to think that my parents were numb and stuffy so I ran away from home to look for a new life. After going far and wide and experiencing a lot, I think I'm beginning to understand how they felt. Haha, what do you think you're doing~
+	예전에, 어른들의 사고방식은 고리타분하고 도움이 안 된다고 생각해서 집을 나왔어. 고향을 떠나 새로운 생활을 찾아 많이 걷고, 많이 경험하다 보니 문득 어른들의 사고방식도 이해가 되더라. 후후, 이상한 이야기지.
+
+	{@nickname}，你看见那朵离散的云了吗？那是我家乡的方向。
+	あの離れていく雲が見えるかしら？あの方向のずっと先に、わたくしの故郷があるのよ。
+	{@nickname}, do you see those scattered clouds over there? That's the direction of my hometown.
+	저기 멀어져 가는 구름이 보여? 저 방향 훨씬 너머에, 내 고향이 있어.
+
+	“信仰”是一个有趣的话题，我没有机会前往拉特兰，却没想到能在罗德岛听到拉特兰的种种事迹，不过是位过于......呃、活泼的姐姐呢，拉特兰原来是这样的地方吗？
+	「信仰」についての話題には興味が尽きないわね。ラテラーノに行く機会はないけど、まさかロドスでラテラーノについてこんなにたくさん知れるなんて。それにしても、話をしてくれるあの女性……本当に元気な方ね。ラテラーノってああいう人たちが集まってる場所なのかしら？
+	'Faith' is an interesting topic. Although I didn't have the chance to go to Laterano, I didn't expect to hear all about Laterano's deeds on Rhodes Island. Always thought it was too… Hey, that energetic girl over there... was Laterano always such a lively place?
+	 '신앙'에 대한 화제에는 흥미가 끊이질 않아. 라테라노에 갈 기회는 없지만, 설마 로도스 아일랜드에서 라테라노에 대해 이렇게 많이 알게 될 줄이야. 그건 그렇고, 이야기를 해 주는 저 사람…… 정말 활기찬 분이네. 라테라노는 저런 사람들이 모여있는 곳일까?
+
+	多伦郡的航船需要灯塔才能回到港湾，罗德岛将是我最后旅程的避风港。至于{@nickname}你嘛，勉强凑合着吧......所以请一定要做到，我没有做到的事。
+	ドルンの船は灯台の光がなければ帰港できないように、わたくしは最後の避難港にこのロドスを選んだというだけよ。つまりあなたは、おまけみたいなものね……ふふっ。まあせいぜい、わたくしにできないことを、しっかりやってちょうだい。
+	The boats in Toron need the lighthouse to make their way back to port, and Rhodes Island is the safe haven at the end of my last journey. So, {@nickname}, it's up to you… you have to be able to do what I can't.
+	토룬의 배는 등대의 빛이 없으면 귀항할 수 없는 것처럼, 나는 최후의 피난항으로 이 로도스 아일랜드를 선택한 것뿐이야. 다시 말해 당신은 덤 같은 거지… 후후. 그러니까… 최대한 내가 할 수 없는 일을 제대로 해줘.
+
+	此时此地，便是格蕾丝·亚利桑那的信仰所在，{@nickname}博士，我将对您的希望虔诚，生死不渝。
+	グレース・アリゾナの信仰が、今ここに。ドクター様、あなたへの希望と信心は、永遠に潰えることはありません。
+	Right here, right now, is where Grace Arizona places her faith. Dr. {@nickname}, you hold my hopes in your hands, forever more.
+	그레이스 애리조나의 신앙이 지금 여기에. 박사님, 당신을 향한 희망과 믿음은 영원히 사그러들지 않을 것입니다.
+
+	......是在梦中彷徨的表情呢。感到不安吗，博士。
+	……夢の中でさまよっているような寝顔ね。ドクターさん、不安を感じているのかしら？
+	...You made a strange expression in your dream. Are you feeling uneasy, Doctor?
+	……꿈속에서 헤매고 있는 것 같은 얼굴로 자네. 박사, 불안을 느끼고 있는 걸까?
+
+	微风，来自多伦郡的游学者，很荣幸见到您，博士。正式的礼仪太麻烦了，所以就免了吧。
+	ブリーズと申します。ドルンから遊学にやってきました。お会いできて光栄です、ドクター様。はぁ……堅苦しい礼儀作法なんて肩がこるし、もういいかしら？
+	Breeze, a traveling scholar from Toron County. It is a pleasure to meet you, Doctor. I've had enough of formal etiquette, so this will be the last of it.
+	브리즈라고 합니다. 토룬에서 유학 왔습니다. 만나 뵙게 되어 영광입니다, 박사님. 하아…… 이렇게 딱딱하게 예의 차리는 건 정말 피곤해, 이제 됐지?
+
+	......令人惊叹的医疗技艺，不愧是罗德岛。
+	……素晴らしいヒーリングアーツの運用ね。さすがロドスだわ。
+	...Stunning medical skills, thats Rhodes Island for you.
+	……엄청난 치유 아츠 운용이네. 역시 로도스 아일랜드야.
+
+	为您的恩赐献上由衷的祝福，博士。唔？真是失礼的反应，这可是正经的吻手礼，动作快点啦！
+	ドクター様、あなたの施しに心よりの祝福を。……あら？失礼な反応ね。手の甲への口づけは正式な儀式の一つじゃない、早くしなさい！
+	I shall bestow this blessing upon you for your gift, Doctor. Hmm? Your reaction was such a downer. This calls for a serious hand-kiss, you know. Hurry up and get to it!
+	박사님, 당신의 은혜에 진심으로 축복을. ……어머? 무례한 반응이네. 손등 키스는 정식적인 의식 중 하나잖아, 어서 하라고!
+
+	哎呀，这次可不会像上次那么正式咯，难道你在期待着吗？我会将我的一切奉献给罗德岛，这是超过形式的觉悟哦。
+	何よその顔、今回は別に儀式的なことはいいでしょう？それとも、もしかして期待してたのかしら？とにかく、わたくしの全てをロドスに捧げる覚悟よ。この覚悟は儀式なんかで表せるものじゃないんだから。
+	Well, this time won't be as formal as the last. Are you looking forward to it? I will dedicate everything to Rhodes Island, a pledge that transcends my consciousness.
+	뭐야, 그 얼굴은. 이번엔 딱히 의식적인 건 됐잖아? 아니면 혹시 기대한 거야? 어쨌든, 내 모든 것을 로도스 아일랜드에 바치기로 각오했어. 이 각오는 의식 같은 걸로 나타낼 수 있는 게 아니니까.
+
+	医护工作就交给我吧。
+	治療なら任せなさい。
+	Leave the medical work to me.
+	치료라면 맡겨줘.
+
+	感谢您的信任，我会以干员们的安全为第一优先考虑。
+	ドクターさんの信頼に応えられるように、皆さんの安全確保を最優先に行動するわ。
+	Thank you for your trust. I will make sure to prioritize the safety of the Operators.
+	박사의 신뢰에 보답할 수 있도록, 모두의 안전 확보를 최우선으로 행동할게.
+
+	起风了......
+	風が吹いてるわ……。
+	It's getting windy...
+	바람이 불고 있어……
+
+	伤害别人的恶党，没有祈求饶恕的权利。
+	他人を傷つける悪党に、許しを乞う権利なんてないわ。
+	Those who seek to inflict harm on others have no right to ask for forgiveness.
+	타인에게 상처를 주는 악당에게 용서를 구걸할 권리 따윈 없어.
+
+	在。
+	はい。
+	Here.
+	응.
+
+	请指示。
+	指示をちょうだい。
+	Your orders?
+	지시를 내려줘.
+
+	速战速决。
+	すぐに片付けるわよ。
+	Let's do this quickly.
+	바로 정리할게.
+
+	注意保护自己。
+	身の安全に気をつけて。
+	Make sure to look after yourself.
+	안전에 주의해.
+
+	悼词回响！
+	ユーロジーよ、響け！
+	Eulogy echoes!
+	율로지여, 울려라!
+
+	风唱挽歌......
+	風よ、かの者にエレジーを捧げなさい。
+	The wind sings an elegy...
+	바람이여, 저자에게 엘러지를 바쳐라.
+
+	意志！
+	ヴォリション！
+	Willpower!
+	볼리션!
+
+	诸位，胜利属于我们。
+	皆さん、勝利はわたくしたちのものよ。
+	Everyone, victory is ours.
+	다들, 승리는 우리 거야.
+
+	每一次胜利都将成为火种，生生不息。
+	勝利もいずれは新しい火種となる、生々流転の理ね。
+	Every victory creates a kindling that will flourish into an everlasting fire.
+	승리도 언젠간 새로운 불씨가 될 거야. 모든 것은 끊임없이 흘러가고 변하기 마련이니까.
+
+	请不要麻痹大意，风向显露着不安。
+	油断したらダメ。不穏な風向きよ。
+	Keep your senses alert, for danger lurks ahead.
+	방심하면 안 돼. 심상치 않은 풍향이야.
+
+	为什么总是执着于伤害他人......
+	どうしてそこまでして人を傷つけようとするの……。
+	Why are you always fixated on hurting others...
+	왜 그렇게까지 해서 남에게 상처를 주려는 거야……
+
+	真是别具一格的设施呢。
+	とてもユニークな場所ね。
+	What a unique facility. 
+	굉장히 독특한 장소네.
+
+	等，等下！
+	ちょ、ちょっと待って！
+	Wait, wait! 
+	자, 잠깐만!
+
+	博士，想听听我家乡的故事吗？
+	ごきげんよう、ドクターさん。わたくしの故郷のお話、聞きたいかしら？
+	Doctor, would you like to hear the story of my hometown?
+	안녕, 박사. 내 고향 이야기, 듣고 싶어?
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	您好，博士。
+	ごきげんよう、ドクターさん。
+	Good day, Doctor.
+	안녕, 박사.

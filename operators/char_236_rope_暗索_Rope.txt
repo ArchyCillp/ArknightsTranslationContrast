@@ -1,0 +1,219 @@
+ID:
+	char_236_rope
+
+干员代号\Name:
+	暗索
+	ロープ
+	Rope
+	로프
+
+招聘合同\Character Usage:
+	罗德岛特种干员暗索，将凭借钩索技术为小队提供便利。
+	ロドス特殊オペレータ・ーロープ、鉤縄技術を使いチームの役に立つ。
+	Rope, Specialist Operator of Rhodes Island, will provide assistance for the squad with her grappling hook.
+	로도스 아일랜드 스페셜리스트 오퍼레이터 로프. 갈고리를 사용하여 팀에 전술적 편의를 제공합니다.
+
+合同描述\Character Description:
+	一钩，一拉，成了！
+	引っかけて、そして引っ張って……いけた！
+	Snag ‘em and grab ‘em! Who’s next?
+	걸고, 당기고… 좋았어!
+
+信物\Potential Item:
+	一件连价格标识都没撕掉的昂贵装饰品。真的可以收下吗......
+	値札すら剥がされていない、目が飛び出るほど高いアクセサリー。本当にもらっちゃっていいのかな……
+	An expensive ornament whose price tag is still on it. Is it really okay to take it...?
+	눈이 뒤집힐 정도로 비싼 액세서리. 아직 가격표를 떼지도 않은 상태다. 정말 받아도 되는 걸까….
+
+天赋\Talents:
+	听觉训练
+	聴覚訓練
+	Auditory Training
+	청각 훈련
+
+技能\Skills:
+	勾爪发射
+	鉤縄投擲
+	Hook Shot
+	갈고리 발사
+
+	复式勾爪
+	鉤縄二本流
+	Double Hook
+	다중 갈고리 발사
+
+语音\Voices:
+	博士，你没忘记带什么东西吧~
+	ドクター？忘れ物、してないよね～？
+	Doc~tor~, you didn't forget anything, did you?
+	박사? 잊어버린 거 없지~?
+
+	从别人口袋里拿东西来填饱肚子？有什么办法，我就是这样长大的，不然我早就饿死了。
+	人のポケットからくすねたもので食いつなげてる？しょうがないじゃん、こうやって生きてきたんだから。じゃなきゃとっくに飢え死にしてるよ。
+	Picking pockets to feed myself? Yeah, that was how I grew up. I didn't exactly have a choice... I'd have died otherwise.
+	사람들 주머니에서 훔친 걸로 먹고산다고? 어쩔 수 없잖아, 이렇게 살아왔는걸. 이렇게라도 안 했으면 진작에 굶어 죽었을 거라고.
+
+	钩索想要耐用，绳子才是关键。嗯？你问我为什么喜欢用钩索？你去徒手爬爬楼不就知道了？
+	丈夫で長く使える鉤縄って、結局縄が肝心なんだよね。ん？なんでそんなに鉤縄が好きなのかって？素手でビルでも登ってみればわかると思うよ。
+	For a grappling hook to be sturdy, choosing a good rope is the key. Hm? Why do I like my grappling hook so much, you ask? Well, duh... try scaling a building with your bare hands and you'll see.
+	튼튼하고 오래 쓸 수 있는 갈고리는 결국 줄이 생명이란 말이지. 응? 왜 그렇게 갈고리를 좋아하냐고? 맨손으로 빌딩 같은 거 한 번 타보면 알게 될 거야.
+
+	是的是的，我会好好听从博士教导的，我能回宿舍了吗，一会还有事呢。好啦好啦！别说了！救命！
+	はいはい、ドクターの言うことはちゃんと聞くから、もう寮に戻っていい？このあとは用事があるんだから。え、まだあるの？もう勘弁してよ！お願いだから！
+	Fine, fine, I'll listen to everything you say from now on, Doctor! Can I go back to my room now? I'm really busy! All right, all right, just stop nagging, ugh...
+	네 네~ 박사가 하는 말 잘 들을 테니까, 이제 숙소로 돌아가도 돼? 이따가 볼일 있으니까. 어? 또 있다고? 이제 제발 그만해줘! 부탁이니까!
+
+	如果不是你们罗德岛，我可能还在蹲号子。你们是怎么知道我的？唔？从哪里听说了我的身手吗？
+	ドクターたちがいなかったら、まだシャバの空気を吸えてなかったかもしれないよね。それより、なんでぼくのこと知ってたの？ん？ぼくの腕を風の噂で聞いて？そっか。
+	If it weren't for you and your people, Doctor, I'd probably still be locked up. Say, how did you find me anyway? You heard people talking about how talented I am? Huh.
+	박사 일행이 없었다면, 난 아직도 콩밥 먹고 있었을지도 몰라. 아니 근데, 어떻게 날 알고 있었어? 응? 내 실력을 풍문으로 들었다고? 그렇구나.
+
+	其实在贫民窟活下来有很多方式，只不过——活不下来的更多。说实在的，我可没得选，希望你能明白这点。
+	スラムで生き延びる手段ならいろいろあるよ。ただ――それをできずに死んでいくやつはもっと多い。ぼくには他に生きる道がなかったんだよ。ドクターもそれをわかってくれるといいな。
+	There are actually lots of ways to survive in the slums... it's just that... there are also lots of people who don't survive. I never really had a choice. I hope you understand, Doctor.
+	슬럼에서 살아남는 수단은 여러 가지가 있지. 다만… 그걸 못하고 죽는 녀석들이 훨씬 많아. 나한테는 달리 살 길이 없었다고. 박사도 그걸 이해해줬으면 좋겠네.
+
+	父母把我赶出家门，让我流落街头自生自灭。比起那样的地方，当然是在罗德岛更加快活些。
+	親から家を追い出されて、一人で路頭に迷って必死に生き延びる。そんな生き方より、ロドスにいるほうが楽に決まってるでしょ。
+	My parents kicked me out and I had to fend for myself on the streets. I'm way better off at Rhodes Island than back in the gutter, huh?
+	부모한테 집에서 쫓겨나서, 혼자 거리를 헤매면서 살아남으려고 발버둥 치는 거. 그렇게 사는 것보단 당연히 로도스 아일랜드에 있는 게 편하잖아?
+
+	有许多人生了这种病，我也觉得自己要没救了，还好你们找到我......说实在的，博士，你会帮我治好的吧？不能？嘛，也没差。
+	この病気にかかって死んでいくやつをいっぱい見てきたから、ぼくも同じようになるんだって諦めてたところで、ロドスに拾われたんだ……。正直に言ってほしい、ドクター、ぼくを治せるよね？治せないかも？まっ、それはそれでいいか。
+	A lot of people died from this same disease. I kinda gave up, and thought the same thing would happen to me until I ended up at Rhodes Island... Thank goodness you people found me. But be honest, Doctor, you'll cure me, right? If you can't... I guess that's fine too.
+	이 병에 걸려 죽어가는 녀석들을 잔뜩 봤으니까, 나도 그렇게 되겠거니 하고 포기하려 할 때, 로도스 아일랜드가 날 받아준 거야…… 솔직히 말해줘 박사. 내 병 고칠 수 있지? 못 고칠 수도 있다고? 뭐, 그것도 나름 괜찮겠지.
+
+	以前吃饭上顿不接下顿，现在能天天吃到舒服，不得不说，罗德岛还是不错的。哼......你想听我谢谢你吗？算了吧。哎呀你已经听过了！
+	昔は明日のご飯があるかどうかさえわからなかったのに、今はいつでもお腹いっぱい食べられる。ロドスのこういうところは褒めざるを得ないよね。ふん……ぼくにありがとうって言ってほしい？諦めたほうがいいよ。…あっ、もう言っちゃってた！
+	I used to go days without eating sometimes. Now, I get regular meals, so Rhodes Island is alright in my book. Hm? You want me to thank you? Come on, haven't I thanked you enough already?
+	옛날엔 내일 먹을 밥이 있을지 없을지도 몰랐는데, 지금은 언제나 배불리 먹을 수 있어. 로도스 아일랜드의 이런 점은 칭찬할 수밖에 없겠네. 흠…… 나한테 고맙다는 소리를 듣고 싶다고? 포기하는 게 좋을걸… 아, 이미 말해버렸잖아!
+
+	啊这椅子，可恶！有，有点舒服！
+	この椅子、ああ……くそっ、き、きもちいい！
+	Ugh, this chair... damn it... it's... kinda comfy...
+	이 의자, 아아… 젠장, 너, 너무 기분 좋잖아!
+
+	我叫暗索，很高兴认识你。啊对了，你的饭卡还在这里，别忘记拿了。唔？为什么在我这儿？这是秘·密·哦。
+	初めまして、ロープって呼んで。あ、これ、君のIDカードだよ。ん？どうしてぼくが持ってるのかって？それは、ヒ・ミ・ツ、だよ♪
+	The name's Rope, nice to meet ya. Oh, here's your ID card, don't forget it. Huh? Why do I have it? That's a se-cret!
+	만나서 반가워, 로프라고 불러줘. 아, 이거, 네 ID 카드야. 응? 어째서 내가 갖고 있냐고? 그건, 비·밀·이·야♪
+
+	看这东西真的管用么？
+	こんなもの見て、本当に役に立つの？
+	Would something like this actually work?
+	이런 거 봐서, 진짜 도움이 돼?
+
+	工钱啦，工钱。比起这个，还是工钱更实在。
+	それよりも給料、給料あげて！昇進なんかより給料の方がありがたみがあるって。
+	Let's talk cash! Dough! Who cares about a promotion? I need that paper!
+	그런 것보다 월급, 월급 올려줘! 승진 같은 거보다 월급 올려주는 게 더 감사하다고.
+
+	好啦，收了你那么多钱，我也该认真干活咯！
+	よーし、給料もたくさんもらったし、真面目に働くか！
+	Yeah! Now that I got paid, I guess I can work hard.
+	좋아, 월급도 왕창 받았으니, 제대로 일해볼까!
+
+	好、好，来了~
+	はいはい、きたよ～。
+	All right, coming!
+	네 네 갑니다~
+
+	当队长？以前可是要拿额外工钱的，看在你的面子上就不强求啦。
+	隊長になれって？普段ならボーナスをもらうところだけど、ドクターの顔に免じて通常料金でやってあげるよ。
+	I'm gonna be captain? I'd have asked for a hardship bonus, but I'll let it slide this time since it's you.
+	팀장을 하라고? 평소라면 보너스를 받아야겠지만, 박사 얼굴을 봐서 일반 요금으로 해줄게.
+
+	要提前勘察好地图和路线哦，这可是经验之谈。
+	地形やルートは事前に把握しておいて損はないよ。先輩としてのアドバイスだよ～なんてね。
+	Look at the map and figure out your route before we get in there. This is experience talking.
+	지형이나 루트는 사전에 파악해둬서 손해 볼 거 없어. 선배로서의 어드바이스야~
+
+	那么，敌人身上会有什么好东西呢？
+	さて、今日の敵さんたちは何かいいもの持ってるかな～？
+	Hey, do you think they're hauling some good loot?
+	자, 오늘의 적들은 뭔가 좋은 거라도 갖고 있으려나~?
+
+	正面对决可不适合我啊。
+	真っ向勝負は柄じゃないんだよね。
+	I don't really do straight-up fights.
+	정면승부는 내 스타일이 아니거든.
+
+	运用好我的长处，拜托了~
+	ぼくの特技、ちゃ～んと生かしてよね、お・ね・が・い♪
+	Put me to good use, o-k-a-y?
+	내 특기, 제~대로 살려줘, 잘·부·탁·해♪
+
+	偷偷摸摸~
+	こっそりこそこそ～。
+	Sneaky sneaky...
+	살금살금~
+
+	这是个好位置吗？
+	場所はここがいいかな？
+	Is this a good spot?
+	장소는 여기가 좋을까나?
+
+	啊哈！
+	あっはー！
+	Aha!
+	하하~!
+
+	来来来~
+	いいぞ～もっと来いよ！
+	Good, good, a little closer!
+	좋아~ 더 오라고!
+
+	嘿——！
+	はーーっ！
+	Hah!
+	하앗!
+
+	被这钩子勾中可就跑不了了！
+	この鉤縄に一度捕まったら、もう逃げられないよ！
+	Once I hook you, you're not getting away.
+	이 갈고리에 한 번 걸리면, 도망치지 못한다고!
+
+	这一场可比平时刺激多了，当然，收入也......哼哼~
+	いつもよりずーっと刺激的な戦いだったよ。もちろん、報酬も……ふっふ～。
+	That one was more exciting than usual. More profitable too.
+	평소보다 훨씬 자극적인 전투였어. 물론, 보수도… 후후~
+
+	有些好东西，留在敌人身上也是种浪费~你说呢？
+	いいものは、敵に持たせたままにしておくのはもったいないよ～そう思わない？
+	It'd be a waste to leave all that good stuff here. The dead guys don't need 'em, right?
+	좋은 물건은, 적이 갖고 있게 내버려 두기 아까워~ 안 그래?
+
+	跑了几个人？那就别追了吧，说不定能改过自新呢？
+	何人かに逃げられた？そのくらいなら放っておこう。改心するかもしれないでしょ？
+	Some of 'em got away? Yeah sure. They might turn over a new leaf, who knows.
+	몇 명 도망쳤다고? 그 정도라면 내버려 두자고. 마음을 고쳐먹을지도 모르잖아?
+
+	......喂喂，还是和我一起先溜吧？保命要紧啊！
+	……ちょ、ちょっと、やっぱりぼくと一緒に逃げよう？命は大事だよ！
+	...Erm, I'm gonna bug out now. You coming? Life is precious!
+	……자, 잠깐, 역시 나도 같이 도망치자! 목숨은 중요하다고!
+
+	这个房间有没有通风管道？没什么，就问下。
+	この部屋に通気口はついてる？いやいや、聞いてみただけだよ。
+	Is there an air vent in this room? Nothing, just curious.
+	이 방에 통풍구는 달려있어? 아니아니, 그냥 물어본 거야.
+
+	呃，有谁来抓我了吗！
+	うぎゃー、ぼくを捕まえにきたの！？
+	Aaaagh! Am I under arrest?!
+	으악! 날 잡으러 온 거야?!
+
+	其实我也想学一学如何做个普通的女孩子的。可是吧，唉，那样是不是不太适合我呢？
+	ぼくだって普通の女の子になる方法を勉強したいけど……でもさ、ほら、ぼくにはちょっと合わないかな？
+	I'd like to learn what it's like to be a normal girl sometime. But... maybe I just can't?
+	나도 평범한 여자아이가 되는 방법을 공부해보고 싶지만… 그래도 말이야, 봐봐, 나한테는 별로 안 어울리지 않을까?
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	嗨，博士。
+	はーい、ドクター。
+	Hi, Doctor!
+	하~이, 박사.

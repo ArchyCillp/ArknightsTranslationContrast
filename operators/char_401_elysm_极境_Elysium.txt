@@ -1,0 +1,219 @@
+ID:
+	char_401_elysm
+
+干员代号\Name:
+	极境
+	エリジウム
+	Elysium
+	엘리시움
+
+招聘合同\Character Usage:
+	先锋干员极境，提供安心安全的稳定战场通讯。
+	先鋒オペレーター・エリジウム。安心安全で安定した戦場通信を約束する。
+	Elysium, Vanguard Operator, ensures that operations proceed smoothly by providing stable battlefield communications.
+	뱅가드 오퍼레이터 엘리시움은 전장에서 안전하고 안정적인 통신을 제공하여 줄 것입니다.
+
+合同描述\Character Description:
+	旗子并非武器，砸坏了要赔很多钱。
+	旗は武器ではないが、壊したら多額の賠償金を支払わなければならない。
+	The flag isn't a weapon. It'll cost a lot to replace if it gets broken.
+	깃발은 무기가 아니다. 망가뜨리면 비싼 돈을 물어야 한다.
+
+信物\Potential Item:
+	一张复杂详尽的手绘地形线路图。如果看不懂，极境本人也很乐意亲自领路。
+	複雑かつ詳細に描かれた手書きの地形・路線図。もし読み解けなくても、エリジウム本人も喜んで自ら道を案内する。
+	A complex and hand-drawn topographic map. If you can't make any sense of it, perhaps Elysium would be glad to lead the way.
+	복잡하게도 그려진 등고선지도. 만약 잘 알아보지 못한다면, 엘리시움 본인이 직접 길을 알려줄 것이다.
+
+天赋\Talents:
+	狙击支援
+	狙撃支援
+	Sniper Support
+	저격 지원
+
+技能\Skills:
+	支援号令·γ型
+	支援指令γ
+	Support γ
+	지원지령γ
+
+	聆听
+	集音
+	Monitor
+	경청
+
+语音\Voices:
+	有什么工作尽管吩咐，做副手我还是很有经验的。
+	仕事があれば何でも言ってね。こう見えて助手の経験は豊富でさ。
+	Please feel free to assign any work to me. I have a lot of experience as a second-in-command.
+	일이 있으면 뭐든 말해. 이래 봬도 조수 경험은 풍부하거든.
+
+	这杆发信器能将信号传递到相当远的地方，也是小队之间进行沟通的有力手段。而且啊，我的法术能让信号变得很强，让小队之间的交流畅通无阻，战地通讯，简直就是为我设计的工作嘛。
+	この発信器があれば信号を相当な距離まで飛ばせるから、小隊間で連絡を取り合う有力な手段になるんだ。さらに僕のアーツで信号を強めれば、もう誰にも止められない。戦場通信、まさに僕のために用意された役割だよね。
+	This communicator can transmit signals over considerable distances and is a powerful means of communicating between teams. And, yes, my Arts can amplify the signal and ensure that communication between teams goes unimpeded. Battlefield communication, simply put, is a job that was practically made for me.
+	이 발신기가 있으면 신호를 상당한 거리까지 날릴 수 있어서 팀 간에 연락할 수 있는 유력한 수단이 되지. 게다가 내 아츠로 신호를 증폭시키면 더는 아무도 막을 수 없게 돼. 전장 통신, 그야말로 날 위해 준비된 역할이지?
+
+	找不到路？没问题，交给我。要去这里的话，先从左边的楼梯上到四层，然后右转，走过第三个岔口后左转，再下一层，继续向左，可露希尔小姐的三号工程室对面就是。怎么样，是不是简洁易懂？
+	迷子？大丈夫、僕に任せて。この場所へ行くには、まず左の階段で四階に上がり、右に直進して、三つ目の分かれ道を過ぎたら左に曲がり、一つ下の階に降りて、左に直進したところのクロージャさんの第三エンジニアルームの向かい側がそうだ。どう、わかりやすいでしょ？
+	Lost? No worries, let me take a look. To get there, first go up the stairs on the left and head up to the fourth floor. Then turn right, and after passing the third fork, make a left. Go down a floor, then proceed to your left. It’s directly across from Miss Closure’s #3 Engineering Room. How’s that? Were my instructions clear enough?
+	길을 못 찾겠다고? 괜찮아, 나한테 맡겨. 여기로 가려면 우선 왼쪽 계단으로 4층으로 올라가서, 오른쪽으로 직진한 후에 세 번째 갈림길을 지나서 왼쪽으로 꺾은 다음, 한층 내려가서 왼쪽으로 직진하면 나오는 클로저 씨의 제3 엔지니어실의 맞은편으로 가면 돼. 어때, 알기 쉽지?
+
+	我和棘刺约好，下次双方都不再留手，一定要分出个胜负。这次我一定将他杀得片甲不留......什么？罗德岛禁止私斗？别误会，我是在说下棋，你觉得输了的人就剃光头，这个赌注怎么样？
+	ソーンズと話したよ、次はお互い情けはかけず、必ず決着をつける、とね。今度こそ彼を跡形もなく……え？ロドスで私闘は禁止？いやいや誤解しないで、今のはチェスの話だよ。ね、負けた方は坊主頭にするなんて賭けはどう？
+	Thorns and I have reached an agreement- next time, neither of us will hold back, and a victor will be crowned. This time, I’ll make sure to end his existence... Huh? Rhodes Island has an explicit ban on personal fights? You must be mistaken, I’m simply talking about chess. Loser has to shave his head, what say you to this bet?
+	쏜즈랑 이야기했어. 다음엔 서로 봐주는 것 없이 반드시 결판을 내겠다고. 이번에야말로 그를 흔적도 없이…… 뭐? 로도스 아일랜드에서 사적인 결투는 금지? 아냐, 아냐. 오해하지 마. 방금 그건 체스 이야기야. 있잖아, 진 쪽이 삭발하기 같은 내기는 어때?
+
+	我当然也不习惯当别人的副手，但是我的队长只有靠我才能传达命令，我也就只能留在队伍里照顾她啦。等等，这些话你知我知，为了我们两个人的前途着想，千万别让她知道，行吗？
+	僕だって人の助手をするのは慣れないけど、うちの隊長は僕の力がないと命令を皆に伝えられないから、僕は隊に残って彼女の面倒を見てあげるしかないんだ。あ、ここだけの話にしてね。僕たちの将来のためにも、絶対彼女に知られちゃだめだよ。いいね？
+	Of course I’m also not used to being someone else’s assistant, since my squad captain relies on me to deliver her orders, and I have to stay on the squad to support her. Wait, these words are just between the two of us. For both of our sakes, don’t ever let her know about what I just told you, okay?
+	나도 남의 조수를 하는 건 서툴지만, 우리 대장은 내 능력이 없으면 명령을 모두에게 전달할 수 없는 사람이다 보니 난 부대에 남아서 그녀를 돌봐줄 수밖에 없어. 아, 이건 우리끼리만 하는 이야기로 해줘. 우리의 미래를 위해서라도 절대 그녀한테 말하면 안 돼. 알았지?
+
+	战场上通讯的重要性不用多说，会率先受到攻击，也是当然的。放心吧，只要有我在，就一定让博士你的指令顺利传达到每一个作战人员。
+	戦場通信の重要性は語るまでもないな。敵に狙われやすいのも当然でしょ。けどまぁ安心して。僕がいれば、ドクターの指令を無事仲間たち全員に届けてみせるさ。
+	There is no overstating the importance of communication on the battlefield, and of course whoever facilitates that will be the first to get targeted. But don’t worry, as long as I’m here, I’ll make sure your orders are smoothly transmitted to every combat personnel.
+	전장 통신의 중요성은 말할 것도 없지. 적의 표적이 되기 쉬운 것도 당연해. 하지만 뭐, 안심해. 내가 있으면, 박사의 지령을 무사히 동료들 모두에게 전달해 보일 테니까.
+
+	博士，你来得正好。其实，我正在烦恼，为什么大家宁愿看地图，也不找我问路呢？队长她之前说我油腔滑调惹人烦，怎么会这样，明明我对大家都很温柔啊。
+	ドクター、ちょうどいいところに。実はちょっと悩んでて……みんな僕に道を聞くより、地図に頼ろうとするのは何でだと思う？前に隊長は僕がぺらぺらと上調子で喋るのが気に食わないと言ってたし、どうしてそんな風に思われるんだろう。みんなには優しくしてるはずなのになぁ。
+	Doctor, you came right on time. Actually, there’s something bothering me. Why does everyone prefer looking at a map over asking me for directions? The captain said that my glib tone really gets on peoples’ nerves, but there’s no way that’s true, right? I’m clearly nothing but compassionate towards everyone!
+	박사, 마침 잘 왔어. 실은 좀 고민 중이거든…… 다들 나한테 길을 물어보는 것보다 지도에 의지하려 하는 건 왜일까? 전에 대장이 내가 주절주절 신나서 떠드는 게 마음에 안 든다고도 했었고, 다들 왜 그렇게 생각하는 걸까? 모두한테 친절하게 대하고 있는데 말이야…
+
+	在战场上，士气是很重要的，看到这面旗帜了吗，作为先锋，我举起它就是为了给大家带来勇气——等等，博士，你不会相信了吧？开玩笑啦，这个真的只是发信装置而已。
+	戦場での士気はとても大切なんだ。この旗を見て、先鋒として掲げることでみんなに勇気を――待ってドクター、まさか信じてくれた？冗談だよ、これはただの発信装置なんだから。
+	On the battlefield, few things are more important than morale. Do you see this banner? As a vanguard, just lifting it is enough to imbue everyone with courage— Wait, Doctor, you didn’t seriously believe that, did you? I was just joking, this thing’s actually a communication device.
+	전장에서의 사기는 굉장히 중요하지. 이 깃발을 보고, 선봉에서 이걸 올리면 모두에게 용기를…… 잠깐만, 박사. 설마 믿은 거야? 농담이야. 이건 평범한 발신 장치라고.
+
+	博士你值得我信任。别谦虚，我对自己的眼光有信心。用战友来称呼你，怎么样？队长和我本来也水火不容，但我相信战友你和她一样，最后都会被我的真诚感动。不会？队长也寄信投诉我？呃？
+	ドクターは信頼していいと決めたんだ。お世辞じゃないよ、僕は人を見る目には自信があるから。君のことを「戦友」と呼ぶってのはどう？隊長も僕と最初は水と油の仲だったけど、彼女と同じように、戦友も僕の誠実さに心動かされると思うよ。そんなことない？隊長は今でも僕についてクレームをよこしてる？ええ？
+	Doctor, you’ve earned my trust. There’s no need to be so humble. I have confidence in my perception of others. How about I call you my comrade-in-arms from now on? My captain and I are like oil and water, but I believe that, much like her, you will eventually be moved by my sincerity. No? The captain sent you a letter complaining about me? Ehh?
+	박사는 신뢰해도 된다고 결정했어. 예의상 하는 말이 아니야. 난 내 눈에 자신이 있거든. 널 '전우'라고 부르는 건 어때? 팀장도 나랑 처음에는 물과 기름 같은 사이였지만, 그 여자처럼 전우도 내 성실함에 마음이 움직일 거라고 봐. 그렇지도 않다고? 팀장은 지금도 나에 대해 클레임을 걸고 있다고? 엥?
+
+	博士，这边的文件......嗯？居然睡着了吗。唉，就算是因为有我在，也不能这么没戒心啊。
+	ドクター、このファイルなんだけど……あれ？眠ってしまったのか。はぁ、僕がいるからって、そんな無防備だと困るな。
+	Doctor, the files over here are... Hm? Already asleep, huh? Well, even if it’s just me, you really shouldn’t let your guard down like that.
+	박사, 이 파일 말인데…… 어라? 잠들었네. 하아, 내가 있다고 해서 그렇게 무방비하면 곤란한데.
+
+	三号作战小队，先锋通讯员极境，前来报到。这应该还是头一次不是机械通讯，而是直接与你对话吧，博士？
+	第三作戦小隊所属、先鋒通信員のエリジウム、ただいま着任したよ。通信機越しじゃなくて、直接話せたのは初めてだよね、ドクター。
+	3rd Combat Squad, Vanguard and communications specialist, Elysium, reporting in. I do believe that this is our first time speaking face-to-face rather than through electronic means, Doctor?
+	제3 작전팀 소속 선봉 통신원 엘리시움, 지금 막 착임했어. 통신기 너머가 아니라 직접 이야기하는 건 처음이지? 박사.
+
+	很多内部的作战记录里都能看到我自己，这种感觉有点奇怪。
+	内部の作戦記録で自分の戦う様子を目にするなんて、なんか不思議だよね。
+	I can see myself in a lot of these combat records. Talk about weird.
+	내부 작전 기록으로 내 전투 모습을 보다니, 뭔가 신기하네.
+
+	非常感谢。不过再晋升的话，我的职位该不会就要超过队长了吧？
+	感謝するよ。けどさ、もう一度昇進したら、もしかして僕の役職は隊長を超えてしまう感じ？
+	Thank you very much. I won’t end up with a higher rank than my captain if I get promoted again, will I?
+	고마워. 그런데 말이야, 한 번 더 승진하면 혹시 내 계급이 팀장을 뛰어넘어버리는 건가?
+
+	我一向相信自己的判断，博士。如果下命令的那个人是你，我不会有所质疑，所谓战友，不就是这样吗。
+	僕は自分の判断にいつも自信を持ってるよ、ドクター。君の命令だというなら、僕はそれを疑ったりしない。戦友とは、そういうものでしょう？
+	I’ve always trusted my own judgment, Doctor. But if you’re the one giving me orders, I would not question it whatsoever. After all, is that not what it means to be a comrade-in-arms?
+	난 내 판단에 항상 자신이 있어, 박사. 네 명령이라면 난 그걸 의심하거나 하지 않아. 전우라는 건 그런 거잖아?
+
+	当然，我很乐意。
+	もちろん喜んで。
+	Of course, I’d love to.
+	물론, 기꺼이.
+
+	放心，只是暂时代理。毕竟队长现在不在嘛。
+	安心して、あくまで一時的な代役だから。隊長がいない間だけのね。
+	Don’t worry, I’m just a stand-in. The captain’s not here right now after all.
+	안심해. 어디까지나 일시적인 대역이니까. 팀장이 없는 동안만인 거지.
+
+	那么就出发吧，大家跟随我的路线行动。
+	それじゃ出発しようか。みんな、僕のルートに沿って行動してね。
+	In that case, let’s go. Everyone, follow the route I drafted.
+	그럼 출발할까. 다들 내 루트에 따라 행동해줘.
+
+	耳麦都检查好了吗？
+	ヘッドセットのチェックは済んだ？
+	Have you finished checking the headsets?
+	헤드셋 체크는 끝났어?
+
+	没问题。
+	問題ないよん。
+	No problem.
+	문제없어~
+
+	信号稳定，随时可以行动。
+	信号は安定。いつでも行けるよ。
+	The signal is stable. Ready to go at any time.
+	신호는 안정적이야. 언제든 움직일 수 있어.
+
+	对面的目标是谁呢。
+	相手のターゲットは誰かな。
+	I wonder who our target will be.
+	상대의 타겟은 누굴까.
+
+	以主之名，聚集于此旗之下——嗯，我一直都想尝试说一次这种台词。
+	主の名を掲げ、この旗の下へ集え――ふむ、こんなセリフを一度言ってみたかったんだ。
+	Gather under this banner in the name of the Lord— Hah, I’ve always wanted to try saying that.
+	주님의 이름을 걸고, 이 깃발 아래 모여라…… 응, 이런 대사, 한번 해보고 싶었어.
+
+	不，对不起，我并不信教。
+	いや、悪いね、僕は別に信徒じゃないよ。
+	S-sorry, I’m really not religious.
+	아냐, 미안해. 난 딱히 신자는 아니야.
+
+	谁会！在战场上！拿旗子当武器啊！
+	誰がっ！戦場でっ！旗を武器にするんだよっ！
+	Who would! Use a flag! As a weapon! On the battlefield!
+	누가! 전장에서! 깃발을 무기로 쓰냐고!
+
+	看清了吗！
+	これで分かったでしょう！
+	See that?
+	이걸로 알았지?!
+
+	速战速决！
+	速戦即決！
+	Let’s end this quickly!
+	속전속결!
+
+	再次确认，我们果然很适合搭档。
+	僕たちがいいパートナーになるって、改めて証明されたね。
+	This just confirms it. We really do make the best partners.
+	우리가 좋은 파트너라는 게 다시 한번 증명되었네.
+
+	不错的配合，来击个掌吧。
+	いい連携だったね、ハイタッチしようか。
+	Our teamwork’s pretty good. High five!
+	좋은 연계였어. 하이파이브할까?
+
+	丧失斗志的已经不算是敌人了，到此为止吧。
+	戦意を失った者はもう敵じゃない、ここまでにしよう。
+	Those who’ve lost their fighting spirit are no longer our enemies. Let’s stop here.
+	전의를 잃은 자는 더 이상 적이 아니야. 여기까지 하자.
+
+	太危险了，最后的防线由我来守，博士，请立即指挥撤退！
+	このままじゃ危険だ、最後の防衛線は僕が守るから、ドクターは早く撤退命令を！
+	It’s too dangerous. I’ll make sure our last line of defense holds. Doctor, please give the order to retreat!
+	이대로는 위험해. 마지막 방위선은 내가 지킬 테니까 박사는 빨리 철수 명령을!
+
+	嗯？这个房间是不是翻新过？
+	へぇ？この部屋はリフォームでもしたのかな？
+	Hm? Has this room been renovated?
+	헤에? 이 방, 리모델링이라도 한 건가?
+
+	什么事？
+	なになに？
+	What’s up?
+	뭐야, 뭐야?
+
+	听说我头上的这撮红发，掉光就不会再长了。问题很严峻，博士。
+	僕の髪のこの赤いところ、全て抜けてしまえばもう生えてこないんだって。由々しき問題だよ、ドクター。
+	I heard that if this tuft of red hair on my head falls out, it won’t ever grow back. This is a very serious problem Doctor.
+	내 머리의 이 빨간 부분, 전부 빠져버리면 그 뒤론 안 자란다더라. 그냥 넘어갈 수 없는 문제라고, 박사.
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	今天有什么任务吗？
+	今日は何か任務ある？
+	Got any missions for me today?
+	오늘은 뭐, 임무 없어?

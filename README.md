@@ -1,8 +1,8 @@
 # ArknightsStoryTranslationContrast
 
-明日方舟剧情文本翻译对照（中 英 日 韩）
+明日方舟——各服务器翻译对照（中 英 日 韩），包含活动剧情，干员信息、语音
 
-Arknights story translation contrast (Chinese, English, Japanese, Korean)
+Arknights translation contrast (Chinese, English, Japanese, Korean), including activity stories, operator informations and voices.
 
 Example:
 

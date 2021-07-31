@@ -1,0 +1,214 @@
+ID:
+	char_348_ceylon
+
+干员代号\Name:
+	锡兰
+	セイロン
+	Ceylon
+	실론
+
+招聘合同\Character Usage:
+	罗德岛研究员锡兰，在研究的空余时间，将会为你提供有关源石的知识和技术支持。
+	ロドス研究員セイロン。自らの研究の傍ら、源石に関する知識と技術を提供している。
+	Ceylon, researcher of Rhodes Island, will provide you with knowledge and technical support on Originium in her spare time.
+	로도스 아일랜드의 연구원 실론은 여가 시간을 할애해가며 당신에게 오리지늄에 관련된 지식과 기술을 제공하여 줄 것입니다.
+
+合同描述\Character Description:
+	她有可能忘记自己在战场。
+	彼女、多分自分が戦場にいるってこと忘れてるな。
+	She might have forgotten that she is on the battlefield.
+	자신이 전장에 있다는 걸 잊고 있는 게 아닌가?
+
+信物\Potential Item:
+	一本已经没有地方下笔的笔记本。上面记载着目前为止，有关源石研究的一切相关知识点。内容详细到可以重新排版后出一本书，叫做《源石研究，从入门到精通》。
+	余白まで文字で埋め尽くされたノート。これまで行われた源石研究の全てに関し、要点が纏められている。その内容は編纂され、『源石研究・入門から発展まで』というタイトルで出版されている。
+	A notebook with no more space to write. Here one finds all extant knowledge on Originium research. It's so detailed that it could be published as a book titled Originium Research: From Basics to Mastery.
+	더 이상 글 쓸 자리가 없는 노트. 현재까지 정리된 오리지늄 연구에 관한 모든 지식이 들어있다. 이 정도로 상세하다면 책으로 내도 무방할 것 같다. 제목은 <오리지늄 연구, 입문부터 마스터까지>로 하면 되려나.
+
+天赋\Talents:
+	湖畔漫步者
+	湖畔の散策者
+	Lake Walker
+	물위를 걷는 자
+
+技能\Skills:
+	集中式水疗
+	ハイドロセラピー
+	Concentrated Hydrotherapy
+	집중식 수치료
+
+	水灵庇护
+	水霊の加護
+	Water Blessing
+	물의 정령의 가호
+
+语音\Voices:
+	博士，我会在旁边写报告或者读书，需要的时候随时可以叫我。
+	ドクター、隣でレポートを書いているから、何かあればいつでも声をかけてちょうだい。
+	I'll be writing reports or reading nearby, just call when you need me.
+	박사, 옆에서 보고서를 쓰고 있을 테니, 무슨 일이 있으면 언제든지 말을 걸어주세요.
+
+	努力就会有回报，我一直这么认为，也一直是这么做的。
+	努力は必ず報われる。そう信じてきましたし、実際そうやって生きてきましたわ。
+	I believe you reap what you sow, and have always followed that principle.
+	노력은 반드시 보상받는다. 그렇게 믿어왔고, 실제로 그렇게 살아왔답니다.
+
+	......咦，矿石病居然还有这种特性吗！这可要立刻做个实验验证一下，博士，我先离开一会儿......嗯，不知道基地里有没有正好合适的观察对象呢......
+	……待って、鉱石病にこんな特性がありましたの？！早く実験で確かめないと！ドクター、ちょっと失礼するわ……えーと、ロドスにいい観察対象はいないかしら……。
+	…Wait, I didn’t know Oripathy could take on this characteristic! This needs to be investigated immediately! Doctor, if you’d excuse me… Hmm, I wonder if there are any suitable subjects in Rhodes Islands…
+	……잠깐, 광석병에 이런 특성이 있었다니?! 빨리 실험으로 확인해야겠어! 박사, 잠시 실례하죠…… 어디 보자, 로도스 아일랜드에 좋은 관찰 대상이 없을까……
+
+	没有红茶的一天，可不是完整的一天。博士，你也要来一杯吗？我这里有全维多利亚最好的茶叶。
+	紅茶のない日常は日常とは呼べないわ。ドクターも一杯いかがかしら？ヴィクトリア一の茶葉で淹れたものよ。
+	The day is not complete without tea. Would you like a cup too, Doctor? I have the best tea leaves in all Victoria.
+	홍차가 없는 일상은 일상이라고 할 수 없어요. 박사도 한 잔 어떠신지? 빅토리아의 홍차로 끓인 거랍니다.
+
+	我从小就和黑在一起，有关她的事，我全都知道，包括她来到我身边之前的经历。啊，不过这个可不能轻易告诉你。
+	シュヴァルツとは幼い頃からずっと一緒だったから、彼女のことならなんでも知ってますの。ええ、わたくしのボディーガードになる前のこともね。あ、でもドクターに教えるにはまだ早いわ。
+	I've been with Schwarz since childhood. I know everything about her, including her past before we met. But I'm not giving that up so easily.
+	슈바르츠와는 어렸을 때부터 계속 함께였으니까, 그녀에 대한 거라면 뭐든지 알고 있답니다. 네, 제 보디가드가 되기 전의 일도 말이죠. 아, 하지만 박사에게 알려주기에는 아직 이르네요.
+
+	如果我能找到治疗黑的办法，不就意味着我也能治好其他感染者吗？放心吧，博士，我没有那么自私。但也请你明白，我不会掩饰，黑在我的心中是最重要的这件事。
+	シュヴァルツを治す方法が見つかれば、ほかの感染者も治せるってことでしょう？もちろん、シュヴァルツさえ治せればいいなんて勝手なことは思っていないから安心なさい。でもドクター、シュヴァルツはわたくしにとって何より大事なのよ。それだけはわかってちょうだい。
+	If I could find a cure for Schwarz, wouldn't that mean I could cure other infected too? Worry not, Doctor, I'm not that selfish. But please also know that Schwarz is dearest to my heart.
+	슈바르츠를 치료할 방법을 찾으면 다른 감염자들도 치료할 수 있다는 거잖아요? 물론 슈바르츠만 치료되면 된다는 이기적인 생각은 하고 있지 않으니까 안심하세요. 하지만 박사, 슈바르츠는 제게 있어 무엇보다 소중해요. 그것만은 알아주세요.
+
+	研究源石的道路十分广阔，博士。不过，对我来说，我只想找到能治疗黑的方法，所以，当我听说了罗德岛的一些事情后，我一直对这里心怀憧憬。
+	ドクター、源石の研究にはいろんなアプローチがあるの。だけど、わたくしにとってシュヴァルツを治すことが最優先事項。だからロドスのことを聞いてからずっと、ここに来られればって思ってましたの。
+	Originium research is still a vastly unexplored territory, Doctor. But I just want to find a cure, which is why I longed for Rhodes Island ever since I heard about it.
+	박사, 오리지늄 연구에는 여러 접근 방법이 있답니다. 하지만 제게 있어선 슈바르츠를 치료하는 것이 최우선 사항… 그래서 로도스 아일랜드에 대해 들은 후부턴 계속, 이곳에 오고 싶다고 생각했었죠.
+
+	你知道吗，博士，我最讨厌因为黑的感染者身份而排斥她的人。而在这里没有人会排斥她，我也能学到更多的医学知识......来罗德岛真是一个正确的决定。
+	ドクター、わたくしはね、感染者だからってシュヴァルツを差別するような人が大嫌いなの。でもロドスにそんな人はいません。それに、医学の知識もたくさん学べる……ここに来て本当によかったですわ。
+	Doctor, did you know, I hate those who would discriminate against Schwarz because of her infection. But, there are no people like that here at Rhodes Island. No-one here will reject her, and I can further my medical knowledge… I’m really glad that I came here.
+	박사. 저는 말이죠, 감염자라고 슈바르츠를 차별하는 사람이 제일 싫어요. 하지만 로도스 아일랜드에는 그런 사람이 없어요. 게다가 의학 지식도 많이 배울 수 있고…… 이곳에 오길 정말 잘했어요.
+
+	无论多么优秀的领导者，也有可能因为一念之差而被利益冲昏头脑，你要当心，博士。不过，哼哼，你也不用太担心，有我在，如果有一天你行差踏错，我会纠正你的。
+	どんなに立派な指導者でも、目先の利益にとらわれて判断を誤ることはありますの。ドクターもお気をつけて。でもまぁ、そんなに心配しなくても、わたくしがいれば、ドクターが道を踏み外したとき、すぐに正してあげられますわね。
+	Regardless of how good a leader is, there's still a chance she could be blinded by selfish interest, so you must watch out for that, Doctor. But as long as I'm around, I'll put you back on the right path anytime you stray.
+	아무리 훌륭한 지도자라 해도 눈앞의 이익에 정신이 팔려 판단을 그르치는 일은 있기 마련. 박사도 주의하세요. 하지만 뭐… 그렇게 걱정하지 않아도 제가 있으면, 박사가 궤도를 벗어났을 때 바로 바로잡아줄 수 있겠네요.
+
+	博士，坐着睡觉可不是好习惯......好吧，至少给你加条毛毯。
+	ドクター、座ったまま寝るのはさすがにお行儀が……まぁいいでしょう、毛布くらいはかけてあげますわ。
+	Doctor, it’s not good to sleep while sitting up… Mm, I guess it’s fine. Let me at least get a blanket for you.
+	박사. 앉은 채로 주무시는 건 역시 예의가…… 뭐, 괜찮겠죠. 담요 정도는 덮어 줄게요.
+
+	你好，我是锡兰，维多利亚国立大学毕业，专攻方向是源石研究，经过凯尔希医生批准，从今天起在罗德岛实习，请多关照，博士。
+	ごきげんよう。わたくしはセイロン、ヴィクトリア国立大学出身で専攻は源石。ケルシー先生の紹介で本日よりこちらで実習させていただきます。よろしくお願いします、ドクター。
+	Hello, I'm Ceylon, graduate of the Victoria National University with a major in Originium research. I start my internship on Rhodes Island today with Dr. Kal'tsit's approval. Nice to meet you, Doctor.
+	안녕하세요. 저는 실론. 빅토리아 국립대학 출신이고, 전공은 오리지늄이에요. 켈시 선생님의 소개로 오늘부터 여기에서 실습하게 되었어요. 잘 부탁해요, 박사.
+
+	不愧是罗德岛，在源石技艺的运用方面真是厉害呢。
+	さすがはロドス、アーツの運用が素晴らしいわ。
+	An excellent application of Originium. Rhodes Island sure lives up to its reputation!
+	역시 로도스 아일랜드네요, 아츠의 운용이 훌륭해요.
+
+	这样我就是正式得到罗德岛承认了吗？谢谢，博士，我会更加努力的！
+	これでわたくしもロドスの一員として認められたということかしら？ありがとうドクター、これからはもっと努力しますわ。
+	So I'm officially recognized by Rhodes Island? Thank you, Doctor, I'll work even harder!
+	이제 저도 로도스 아일랜드의 일원으로 인정받은 건가요? 고마워요, 박사. 앞으로 더 노력할게요.
+
+	罗德岛对矿石病的研究果然名不虚传，在这里学习下去的话，总有一天我一定能把黑的病治好！博士，也请你助我一臂之力吧！
+	ロドスの鉱石病研究、さすがですわ。ここで勉強を続ければ、いつかきっとシュヴァルツをも治せるようになるに違いありません。ドクターも当然協力してくれますわよね？
+	Rhodes Island does boast amazing Originium research! I will cure Schwarz one day if I keep working here! Please help me too, Doctor!
+	로도스 아일랜드의 광석병 연구, 역시 대단하네요. 여기서 계속 공부하면 언젠간 반드시, 슈바르츠도 완치할 수 있을 거예요. 박사도 당연히 협력해 주실 거죠?
+
+	任务吗？正好，我可以试验一下新的源石运用技巧。
+	任務の時間？ちょうどいいわ、新しいアーツを試してみたいところだったから。
+	A mission? Perfect time to try out my new Originium ability.
+	임무 시간? 마침 잘 됐군요. 새 아츠를 시험해 보고 싶던 참이었거든요.
+
+	放心吧，我还挺擅长指挥的。
+	安心して、指揮をとるのは得意な方よ。
+	Relax, I'm a pretty good commander.
+	안심해요, 지휘하는 건 잘하는 편이니까.
+
+	沿途不知道会不会有些稀有的材料呢？
+	どこかにレアな素材が落ちてたりしないかしら。
+	I wonder if we'll find rare materials along the way?
+	어딘가에 희귀한 소재가 떨어져 있거나 하지 않을까요.
+
+	不要慌张，冷静应对。
+	慌てず、冷静に対処しなさい。
+	Don't panic, handle it with composure.
+	당황하지 말고 냉정하게 대처하세요.
+
+	伤员在哪里？
+	負傷者はどこかしら？
+	Where's the wounded?
+	부상자는 어딨죠?
+
+	嗯？
+	ん？
+	Hmm?
+	음?
+
+	辅助就交给我吧。
+	サポートはわたくしに任せなさい。
+	Leave the support work to me.
+	서포트는 저한테 맡기세요.
+
+	伤员不要剧烈活动。
+	怪我人は大人しくしていなさい。
+	The wounded shouldn't move around.
+	부상자는 얌전히 있으세요.
+
+	安心战斗吧，各位。
+	みなさま、安心して戦うのですわ！
+	Battle in peace, everyone.
+	여러분, 안심하고 싸우세요!
+
+	集中精神面对眼前的敌人！
+	目の前の敵に集中しなさいな！
+	Concentrate on the enemy ahead!
+	눈앞의 적에 집중하세요!
+
+	这招应该更符合现在的状况。
+	今の状況にはこれがよいかしら。
+	This move should be better for the present situation.
+	지금 상황에는 이게 좋을까.
+
+	呼......呵呵，感觉就像是完成了一场困难的实验，虽然很累，不过也很充实。
+	ふぅ……ふふ、なんだか難しい実験を終えた気分ね。疲れたけど、充実した時間を過ごせたわ。
+	Phew… Hehe, it feels like I just finished a difficult experiment. I might be tired, but I feel a sense of accomplishment.
+	후우…… 후후, 뭔가 어려운 실험을 끝낸 기분이군요. 피곤하지만 충실한 시간을 보냈어요.
+
+	应该没有敌人了吧？那我去周围稍微逛逛。
+	敵はもういないかしら？では少し、この辺りを散歩してきますわ。
+	The enemy should be gone now, so I'm going to look around the perimeter.
+	이제 적은 없나요? 그럼 잠시 이 근처를 산책하고 올게요.
+
+	要是我能像黑一样，肯定不会让他们跑了......
+	シュヴァルツみたいに戦えれば、一人も逃さなかったはずですわ……。
+	They wouldn't have gotten away if I were Schwarz...
+	슈바르츠처럼 싸울 수 있다면, 한 명도 놓치지 않았을 거예요……
+
+	博士，别愣着，来帮忙抬伤员！
+	ドクター、ボーッとしてないで負傷者の搬送を手伝いなさい！
+	Don't just stand there, Doctor, give me a hand with the wounded!
+	박사, 멍하니 있지 말고 부상자 수송을 도와주세요!
+
+	和基地里其他的医生们交流一下好了。
+	ここにいるほかの医者たちとも、話をしてみようかしら。
+	Maybe talk to the other doctors on base.
+	여기에 있는 다른 의사들과도 이야기해볼까요.
+
+	等等，我头发都要乱了！
+	ちょっと、髪が乱れるじゃない！
+	Wait, my hair is getting messed up!
+	잠깐, 머리가 헝클어지잖아요!
+
+	博士该不会又在座位上睡着了吧？
+	ドクター、また椅子で眠ったりしてないでしょうね？
+	Don't tell me the Doctor dozed off in the chair again...
+	박사, 또 의자에서 잠든 건 아니겠죠?
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	你好，博士，来和我一起喝杯红茶吗？
+	ごきげんよう、ドクター。一緒に紅茶でもいかが？
+	How are you, Doctor? Care for some tea with me?
+	안녕하세요, 박사. 같이 홍차라도 어떠세요?

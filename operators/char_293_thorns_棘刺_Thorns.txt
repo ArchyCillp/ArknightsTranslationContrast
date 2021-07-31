@@ -1,0 +1,224 @@
+ID:
+	char_293_thorns
+
+干员代号\Name:
+	棘刺
+	ソーンズ
+	Thorns
+	쏜즈
+
+招聘合同\Character Usage:
+	罗德岛近卫干员棘刺，从不浪费力气，每一次攻击都经过精密计算。
+	ロドス前衛オペレーター・ソーンズ。力の浪費は一切せず、毎回の攻撃は全て緻密に計算されたものだ。
+	Thorns, Guard Operator of Rhodes Island, wastes not an ounce of energy, calculating each strike meticulously.
+	로도스 아일랜드 가드 오퍼레이터 쏜즈는 늘 정밀한 계산을 통해 공격하여, 힘을 허투루 쓰는 법이 없습니다.
+
+合同描述\Character Description:
+	他往往会以自己的理解来配合指挥。
+	彼はいつも指揮に自分の理解をすり合わせる。
+	He'll cooperate according to his own interpretation of the commands.
+	그는 종종 자신만의 견해로 지휘에 협조한다.
+
+信物\Potential Item:
+	装有药液的小瓶子。初学时的纪念作，危险，谨慎使用。
+	薬液が入った小瓶。学び始めた頃初めて作ったものを記念に取っておいていた。危険なので使用の際はくれぐれも慎重に。
+	A small vial of medicinal fluid, a reminder of some of his earliest work; Danger, use with caution.
+	약물이 들어있는 작은 병. 중학교 때의 기념작으로써, 매우 위험하니 사용 시엔 각별히 주의하도록 하자.
+
+天赋\Talents:
+	神经腐蚀
+	神経猛毒
+	Nerve Corrosion
+	신경 부식
+
+技能\Skills:
+	攻击力强化·γ型
+	攻撃力強化γ
+	ATK Up γ
+	공격 강화γ
+
+	护身尖刺
+	迎撃針棘
+	Protective Spikes
+	호신용 가시
+
+	至高之术
+	デストレッツァ
+	Destreza
+	데스트레자
+
+语音\Voices:
+	开始工作前，先喝了这个。好，这样一来，在接下来的药效时间内，博士你就不会偷懒了，是不是？
+	仕事の前にこれを飲むといい。よし。これで薬効時間中はドクターもサボることはないだろ？
+	Before you start working, take some of this. Good. Now, for the duration of this drug, you won’t be slacking off, right?
+	일하기 전에 이걸 마시도록 해라. 좋아. 이걸로 약효가 도는 동안 박사가 게으름 피우는 일은 없겠지?
+
+	提取液的分离和解析已经差不多了，下一步就是提纯，实际效果还有必要再实验一下......嗯？为什么盯着我的头发看，博士。头发......爆炸了？不要在意，实验失败已经不是一次两次了。
+	抽出液の分離と解析はほとんど済んだ。次は純化作業だが、実際の効果についてはまだ実験が必要だ……なんだ？ドクター、俺の髪がどうかしたか？髪が……爆発しているだと？気にするな、実験の失敗は一度や二度のことじゃない。
+	Separation and analysis of the extract are almost complete, next step is purification. Actual effect needs further testing... Huh? Why are you staring at my hair, Doctor? My hair... is a total mess? Don’t worry about it. Wouldn’t be the first time my experiment has failed, or the second.
+	추출액의 분리와 해석은 거의 끝났다. 다음은 순화 작업인데, 실제 효과에 대해서는 아직 실험이 필요하다…… 뭐지? 박사, 내 머리카락이 어떻게 됐다고? 머리카락이…… 폭발하고 있다고? 신경 쓰지 마라, 실험 실패는 한두 번 있는 일이 아니니.
+
+	我随身带着的这种药剂？不致命，但小心不要碰到比较好。
+	俺が持ち歩いているこの薬剤か？致命性はないが、うかつに触らないほうがいい。
+	The drugs I carry on me? They’re not fatal, but it’d be best not to touch them.
+	내가 들고 다니는 이 약제 말인가? 치명적이지는 않지만 함부로 만지지 않는 게 좋아.
+
+	时刻保持头脑运转，放弃思考就等于把要害递到对方手上，我曾经被人这么教导过，也恰好一直记着。
+	常に頭は動かし続けろ。思考を放棄してしまえば、自身の急所を相手に委ねるようなものだ。俺はかつてそのように教わった。たまたま今も記憶に残っているだけだけどな。
+	Always keep your mind running. Giving up on thought is tantamount on handing your keys to your enemies. I’ve been taught this many times, and always think back to it.
+	언제나 머리를 계속 굴려라. 생각하길 포기하는 건 자신의 급소를 상대방에게 맡기는 거나 다름없다. 나는 전에 그렇게 배웠다. 어쩌다 보니 지금도 기억에 남아있을 뿐이지만 말이야.
+
+	我的种群原本有着与现在截然不同的样貌，我们的皮肤坚硬如甲壳，头发却柔顺如流水，但灼热的日光和干燥的空气最终把我们变成了现在的样子。你相信了？对不起，刚才我是在胡说。
+	俺の種族は、本来今とは全く異なる容姿をしていたんだ。俺たちの皮膚は甲羅のように硬く、髪は流水のように滑らかだった。しかし灼熱の日光と乾燥した空気にあてられ、最後には今の通りに変化したというわけだ。信じたか？悪いな、今のは冗談さ。
+	My people originally had a completely different appearance. Our skin was as hard as a carapace, and our hair was as smooth as flowing water. However, the scorching sun and dry air have turned us into what we are today. You believed that? Sorry, I was just speaking gibberish just now.
+	내 종족은 원래 지금과는 전혀 다른 외모를 가지고 있었어. 우리의 피부는 등딱지처럼 단단했고, 머리카락은 흐르는 물처럼 매끄러웠지. 하지만 작열하는 햇빛과 건조한 공기에 노출되어 마지막엔 지금처럼 변화하게 되었다 이거다. 믿었나? 미안하군, 방금 건 농담이다.
+
+	如果你不是拉特兰宗教的信徒，就最好别去伊比利亚。他们所谓的‘最纯正的信仰’就根植在那片土地上，那里的人虔诚得恐怕就连拉特兰人也得自愧弗如。我？这些都同我没有什么关系。
+	ラテラーノ宗教の信徒でないなら、イベリアへは行かないほうがいい。彼らの言う「最も純粋な信仰」はあの土地に根付くものだ。現地の人々の敬虔さには、もしかしたらラテラーノ人ですら引け目を感じるほどだ。俺？俺はこの話とは関係ないさ。
+	If you are not a follower of the Laterano religion, it is best not to go to Iberia. Their so-called 'purest faith' is rooted in that land, and the people there are so pious that even the Laterano people are ashamed of it. As for me? None of that concerns me in the slightest.
+	라테라노 종교의 신도가 아니라면 이베리아에는 가지 않는 게 좋아. 그들이 말하는 '가장 순수한 신앙'은 그 땅에 깊게 뿌리 내렸으니. 현지 사람들의 경건함은 아마 라테라노 사람들조차 열등감을 느낄 정도다. 나? 나는 이 이야기와 관계없다.
+
+	博士，你知晓伊比利亚惩戒军过去的历史吗？只要你曾听过任何一点相关的只言片语，就应该会知道，那片土地上的居住者，远比他们冷厉素朴的灰白建筑要疯狂得多。
+	ドクター、イベリア懲罰軍の歴史を知っているか？少しでも噂を耳にしたことがあるなら知っているだろう。あの土地に住む者たちには、その冷たく厳かな灰白の建造物からは想像もできないほどの狂気を孕んでいることを。
+	Doctor, have you heard anything about the past history of the Iberian Correctional Army? If you’ve heard even anything remotely relevant, you should know that the inhabitants of that chunk of land are far crazier than their cold, plain gray buildings suggest.
+	박사, 이베리아 징벌군의 역사에 대해 알고 있나? 조금이라도 소문을 들어본 적이 있다면 알겠지. 그 땅에 사는 자들은 그 차갑고 엄숙한 회백색 건축물보다 상상도 할 수 없을 만큼 광기를 품고 있다는 것을.
+
+	攻击的角度、闪避的线路、防御的姿势，每一个动作都经过计算，没有任何无用的浪费，这才是他们所说的至高之术。有没有觉得，这和你的指挥风格很相似，博士？
+	攻撃の角度、回避の軌道、防御の姿勢、すべての動作は計算ずくで、無駄は一つもない。これこそが「至高の術（デストレッツァ）」というものだ。お前の指揮スタイルと似ていると思わないか、ドクター？
+	The angle of attack, the vector of evasion, the posture of defense. Every action is calculated, and there are no wasteful movements. This is what they call the 'Destreza.' Don’t you think this is similar to your commanding style, Doctor?
+	공격 각도, 회피 궤도, 방어 자세, 모든 동작은 계산되어 있고 불필요한 요소는 하나도 없어. 이게 바로 '데스트레자'라고 하는 거다. 너의 지휘 스타일과 비슷하다고 생각하지 않나, 박사?
+
+	休息的时候就放松一点，什么都不去想，单纯吹吹风，或者晒晒太阳？......好吧，偶尔尝试一下或许也不错。上来，到这里来，这里的风，会让我想起故乡......
+	休憩中はリラックスして、何も考えずに風や日に当たってみろ、だと？……いいだろう、たまに試してみるのも悪くないかもしれない。さあ、こっちに上がってきて。ここに吹く風は、故郷を思い出させてくれるな……。
+	I need to unwind a bit more when I’m resting? Not thinking about anything and just bask in the sun or let my hair blow in the wind? ...Well, it might be nice to give it a try every now and then. Come up, over here. The breeze up here reminds me of my hometown...
+	휴식 중에는 긴장을 풀고, 아무것도 생각 말고 바람과 햇빛을 쐬어 보라고? ……좋아, 가끔 시험해 보는 것도 나쁘진 않겠지. 자, 이쪽으로 올라와라. 여기에 부는 바람은 고향을 떠올리게 하는군…….
+
+	呼......呼......。嗯？......怎么回事，我竟然也跟着睡着了吗。
+	ZZZ……ZZZ……。ん…？……まさかな、俺もつられて寝てしまったのか。
+	Zzz... zzz... Huh? ...What happened? Did I fall asleep too?
+	쿠울…… 쿨…… 음? 설마…… 나도 덩달아 잠들어 버린 건가.
+
+	你就是博士吗，自我介绍一下，代号棘刺，今天起就任——嗯？我的裤脚卷起来了？......不要在意，这是常有的事。
+	お前がドクターか。自己紹介をしよう、コードネームはソーンズ、本日よりロド――ん？ズボンの裾がまくれている？……気にするな、いつものことだ。
+	So you’re the Doctor? I’ll give a brief introduction then. Code name, Thorns. Starting today, I’ll be taking my post— Huh? One trouser leg is rolled up? ...Don’t worry about it, this happens a lot.
+	네가 박사인가. 자기소개를 하지. 코드네임은 쏜즈. 오늘부터 로도…… 음? 바짓단이 말려 올라갔다고? 신경 쓰지 마라, 늘 있는 일이니까.
+
+	嗯......这些资料确实有可取之处。
+	ああ……この資料、確かに役に立つところもある。
+	Hmm... This information does have some merit.
+	그렇군…… 이 자료, 확실히 도움이 되는 점도 있군.
+
+	晋升？这种事情你来决定就好。我可以离开了吗？
+	昇進？そんなことはお前が勝手に決めればいい。もう戻ってもいいか？
+	A promotion? You should decide on things like that. Can I go now?
+	승진? 그런 건 네가 알아서 정하면 된다. 이제 돌아가도 되겠나?
+
+	快速高效地削减敌对者的行动力，以最小的代价获得胜利——我自认完全理解了你的指挥。所以我使用这种麻痹型的神经毒素来配合攻击，这有什么问题吗？
+	素早く効率的に敵の行動力を削ぎ、最小の被害で勝利をもぎ取る――お前の指揮については完全に理解しているつもりだ。だから攻撃に合わせてこの麻痺性の神経毒を使っているんだが、何か問題でも？
+	Quickly and efficiently seal the opponent’s ability to act, and attain victory at the lowest cost — I think I fully understand your orders. In that case, I’ll use this paralytic neurotoxin in tandem with my attacks. I take it that you have no issue with this?
+	신속하고 효율적으로 적의 행동력을 약화시키고, 최소의 피해로 승리를 쟁취한다…… 너의 지휘에 대해선 완벽히 이해하고 있다고 본다. 그러니 공격에 맞춰 이 마비성 신경독을 사용하고 있는데, 무슨 문제라도 있나?
+
+	让我见识一下罗德岛的战斗。
+	ロドスの戦いとやらを見せてもらおう。
+	Let me see how Rhodes Island fights.
+	로도스 아일랜드의 전투라는 것을 보도록 할까.
+
+	队长？最好还是不要期待，我不太擅长指挥。
+	隊長？期待はしないほうがいい、指揮は得意じゃないのでな。
+	Team leader? It’d be best not to have any expectations. I’m not very good at leading.
+	팀장? 기대는 하지 않는 편이 좋아. 지휘는 잘 못하거든.
+
+	速战速决，我的时间很宝贵。
+	速戦即決しよう。俺の貴重な時間を無駄にしないためにもな。
+	Let’s make this quick. My time is valuable.
+	속전속결로 끝내자. 내 귀중한 시간을 허비하지 않기 위해서라도 말이야.
+
+	小心一些，不要大意了。
+	油断しないように気をつけろ。
+	Be careful. Don’t get overconfident.
+	방심하지 않도록 조심해라.
+
+	明白。
+	分かった。
+	Understood.
+	알겠다.
+
+	给我指令。
+	命令を。
+	Give me your orders.
+	명령해라.
+
+	不会花费太长时间的。
+	時間をかけるつもりはない。
+	This won’t take long.
+	시간을 들일 생각은 없어.
+
+	让他们都失去行动力，就可以了吧。
+	全員の行動力を奪う、それでいいだろう。
+	Let’s just incapacitate them and move on.
+	모두의 행동력을 빼앗는다, 그거면 되겠지.
+
+	别乱动，让我们都省些功夫。
+	動き回るな、そうすればお互い手間が省けるだろ。
+	Stop moving around. It’ll spare all of us the effort.
+	돌아다니지 마라. 그러면 서로 수고를 덜 하게 될 테니.
+
+	你的攻击都在推算范围内。
+	お前の攻撃は想定の通りだ。
+	Your attacks are all within my calculations.
+	네 공격은 예상한 대로다.
+
+	没用的。
+	無駄だ。
+	Futile.
+	소용없다.
+
+	看仔细，这才是伊比利亚的至高之术！
+	目を凝らせ、これこそがイベリアの至高の術（デストレッツァ）！
+	Watch carefully, this is the Destreza of Iberia!
+	똑똑히 봐라, 이게 바로 이베리아의 '데스트레자'다!
+
+	完美的结果。难道这也都在你的计算之中？
+	完璧な結果だ。まさかこれもお前の計算のうちか？
+	A pristine outcome. Was this also a part of your calculations?
+	완벽한 결과다. 설마 이것도 네가 예상한 대로인가?
+
+	任务完成。非常精准有效率的指挥，博士。
+	任務完了。正確かつ効率のいい指揮だったな、ドクター。
+	Mission complete. Very precise and efficient command, Doctor.
+	임무 완료. 정확하고 효율적인 지휘였다, 박사.
+
+	你的指挥有疏漏，而我的执行不当放大了这个疏漏。回去之后我们可以一起反省。
+	お前の指揮ミスを、俺の不手際でさらに大きくしてしまったようだ。戻ってから共に反省会だな。
+	There was an omission in your command, and my improper execution amplified this omission. We should both reflect upon this after we return.
+	너의 지휘 실수를 내 서투름으로 더 크게 만든 것 같군. 돌아가면 함께 반성하는 시간을 가져야겠어.
+
+	考虑到小队的损耗，除了立刻撤退，没有其他更好的选择。
+	チームの消耗を考慮すれば、即時撤退以外に選択の余地はない。
+	Considering the losses of our squad, there is no better option than to retreat immediately.
+	팀의 소모를 고려하면, 바로 철수하는 것 말곤 선택의 여지가 없어.
+
+	这里的防护措施怎么样？
+	ここの防護措置はどうなっている？
+	How are the protective measures here?
+	이곳의 방어 조치는 어떻게 되어 있지?
+
+	不好，药剂洒出来了。
+	まずい、薬剤が漏れてきた。
+	Shoot, the potion’s going to spill.
+	이런, 약제가 새어 나왔어.
+
+	头发？啊......我才刚梳过，怎么又乱了。
+	髪？ああ……整えたばかりのはずなのに、また乱れているとは。
+	My hair? Gah... I just combed it, why’s it messed up again?
+	머리카락? 아아…… 막 정리한 참인데 또 흐트러져 있다니.
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	你看起来似乎很疲倦，要不要我来帮你清醒一下，博士。
+	疲れが溜まっているようだな。俺が目を覚ましてやろうか、ドクター。
+	You seem tired. Should I help wake you up, Doctor?
+	피로가 쌓인 모양이군. 내가 눈을 뜨게 해줄까, 박사.

@@ -1,0 +1,224 @@
+ID:
+	char_400_weedy
+
+干员代号\Name:
+	温蒂
+	ウィーディ
+	Weedy
+	위디
+
+招聘合同\Character Usage:
+	罗德岛生物工程研究员温蒂，研究之余踏上战场。
+	ロドス生物工学研究員・ウィーディ。研究の合間を縫って戦場に立つ。
+	Weedy, a researcher in Rhodes Island's Bioengineering Department, has set foot on the battlefield after completing her studies.
+	로도스 아일랜드 생물 엔지니어링 연구원 위디는 연구 이외의 시간을 전장에서 보냅니다.
+
+合同描述\Character Description:
+	在她面前要注意仪表仪态！
+	彼女の前では身だしなみや立ち振る舞いに気を付けて！
+	Be mindful of your appearance when you're in front of her!
+	그녀 앞에선 몸가짐과 태도에 주의하도록!
+
+信物\Potential Item:
+	一摞仿生海龙设计图。上面有大量她本人做的一些注释，上面写着“即使猴子也可以照着做一只新的”，大概吧。
+	生物工学に基づいたシードラゴンの設計図の束。彼女自身がまとめた大量の注釈付き。「サルでもわかる作り方」と書いてある。多分。
+	A stack of Bionic Seadragon designs, including a lot of hand-written notes she made herself. 'Even a monkey could produce a new one,' or something like that.
+	잔뜩 쌓인 해마 리프의 설계도. 그녀 본인이 쓴 주석이 빼곡히 적혀있다. 위에는 "이대로 하면 원숭이라도 만들어 낼 수 있을 거야" 라고 적혀있다. 과연 그럴까.
+
+天赋\Talents:
+	工程蓄水炮
+	工事用蓄水砲
+	Industrial Water Cannon
+	공학용 저수포
+
+技能\Skills:
+	炮管敲击
+	砲身強打
+	Barrel Burst
+	포관 타격
+
+	水炮模式
+	ハイドロキャノン
+	Hydraulics Mode
+	물대포 모드
+
+	液氮大炮
+	LN2キャノン
+	Liquid Nitrogen Cannon
+	액체 질소 대포
+
+语音\Voices:
+	博士的房间还是挺整洁的嘛，还不赖。
+	ドクターの部屋って意外ときれいだね。いいんじゃない。
+	Doctor, you’ve managed to keep your room clean. Not bad.
+	박사의 방은 의외로 깨끗하네. 좋은데.
+
+	水是大家生活的核心，我已经跟可露希尔小姐交流过改善罗德岛净水系统的事情了，希望我的研究成果能给帮上忙......这样我也不用担心用水不干净了。
+	水は生活の中心。クロージャとも浄水システムの改善について話したけど、私の研究が役に立てばいいなと思ってる……そうすれば私も水道水の汚れを心配しなくて済むから。
+	Water is the core ingredient of life. I’ve talked to Miss Closure about improving Rhodes Island’s water purification system. I hope that my research can be of help... so I don’t have to worry about the water being dirty anymore.
+	물은 생활의 중심이야. 클로저와도 정수 시스템 개선에 관해 이야기했지만, 내 연구가 도움이 되면 좋겠어…… 그렇게 하면 나도 수돗물의 오염을 걱정하지 않아도 되니까.
+
+	这只仿生海龙小叶是我以家族流传的图案为原型制作出来的，除了辅助作战，在日常生活中也可以帮我不少忙，比如倒个水拎些重物之类的。
+	このシードラゴンのリーフ、一族に代々伝わるモチーフを原型に作ったの。戦闘のサポート以外に、普段の手伝いもよくしてくれる。水を注いだり、重いものを持ってもらったりとか。
+	This is Leaf, a Bionic Seadragon that I produced from a prototype design passed across my family. In addition to auxiliary combat functions, he helps out a lot in my daily life, such as pouring water, lifting heavy things, and so on.
+	이 씨드래곤 '리프'는 일족에 대대로 전해 내려오는 모티브를 바탕으로 만든 거야. 전투 서포트 말고도 평소에 많이 도와줘. 물을 주거나, 무거운 것을 들어 주거나.
+
+	和格劳克斯约好的自动化工程实验时间差不多快到了，博士有兴趣一起去看看吗？
+	そろそろグラウコスと約束した自動化エンジニアリングの実験の時間だけど、ドクターも興味あれば来る？
+	Glaucus and I agreed that we’d conduct our automation engineering experiment at about this time. Doctor, if you’re interested, want to come take a look?
+	슬슬 글라우쿠스랑 약속한 자동화 엔지니어링 실험을 할 시간인데, 박사도 흥미가 있으면 올래?
+
+	这些蓄水炮本来都是为了工程才制造的，除了高压水以外，还可以释放出高温蒸汽束。所以请不要随便触碰，他们可不是可露希尔的小车。
+	この蓄水砲は元々工事のために作られたもので、高圧放水以外に、高温スチームも放射できる。だからむやみに触らないで、クロージャの支援ロボットとは違うから。
+	These reserve water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. Please don’t touch them haphazardly; they’re not like Closure’s little buggies.
+	이 축수포는 원래 공사를 위해 만든 거라서, 고압 방수 말고도 고온 스팀도 방사할 수 있어. 그러니까 함부로 만지지 마. 클로저의 지원 로봇과는 다르니까.
+
+	这些高阶的作战资料是我自己根据作战情况总结的。为了之后的战斗，就麻烦博士仔细阅读一下。然后之后还有好几个我想完善的作战实验也麻烦博士帮我一起，博士肯定不会拒绝我的吧。
+	この高等作戦資料は作戦状況に基づいてまとめたもの。今後のためにも、ちゃんと目を通しておいて。それから完成させたい作戦実験もいくつかあるから、それも付き合って。ドクターなら断ったりしないでしょ。
+	These high-level combat data materials are based upon my own summaries of the combat situation. Doctor, please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I’d like to perfect that I will need your help on. I trust that you won’t turn me down?
+	이 고등 작전 자료는 작전 상황에 기반해서 정리한 거야. 앞으로를 위해서도 제대로 훑어봐 둬. 그리고 완성하고 싶은 작전 실험도 몇 가지 있으니까 그것도 함께해 줘. 박사라면 거절하진 않을 거잖아?
+
+	平时我也偶尔会去一趟调香师小姐的庭院休息休息。那里的气味就能让人能彻底放松下来，对于缓解研究的疲劳实在是再有效不过了，下次博士要一起去试试吗？
+	たまには息抜きにパフューマーさんの庭に行くこともあるよ。あそこの香りは人を心の底からリラックスさせるし、研究の疲れを和らげるには最適だから。今度ドクターも一緒に行く？
+	I occasionally go to Perfumer’s Convalescence Garden to relax. The aroma there can really wash all your stress away, and it’s a very effective way of relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?
+	가끔 한숨 돌리려 퍼퓨머 씨네 정원에 갈 때도 있어. 그곳의 향기는 사람을 마음속 깊이 편안하게 해주고, 연구의 피로를 푸는 데에는 딱 좋거든. 다음에 박사도 같이 갈래?
+
+	我才不会一个人的时候跟仿生海龙聊天！给他起名字是为了做区分！
+	一人でシードラゴンと喋ってなんかいないから！名前付けてるのは他の子と区別するためってだけだし！
+	I definitely do not talk to my Bionic Seadragons when I’m alone! I only gave him a name to help distinguish him more easily!
+	혼자서 씨드래곤이랑 말하고 그러진 않는다고! 이름을 붙인 건 다른 애들이랑 구별하기 위한 것뿐이거든!
+
+	受了不少博士的关照，最近我也越来越习惯待在有博士在的环境里了。除了格劳克斯和研究的同事，明明还挺少见的。
+	こうやってお世話になってるうちに、ドクターのいる生活にも慣れてきた。グラウコスや研究者仲間の他に、こんな人ほとんどいないよ。
+	Thanks to your compassion, I’ve recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can’t say that about many people.
+	이렇게 신세를 지고 있는 동안 박사가 있는 생활에도 익숙해졌어. 글라우쿠스나 연구자 동료들 외에 이런 사람은 거의 없어.
+
+	安静的环境真好。
+	やはり静かな環境が一番。
+	Peace and quiet is best.
+	역시 조용한 환경이 제일이야.
+
+	你好，我是罗德岛工程部的温蒂，很早以前就听说过博士的大名了，希望之后能多多指教。啊，握手的话请用这边带着手套的右手。
+	はじめまして、私はロドスのエンジニア部門所属のウィーディ。ドクターのことは前からよく聞いてるの、これからよろしくね。あ、握手なら手袋をしてるこの右手でお願い。
+	Hello, I’m Weedy from Rhodes Island’s Engineering Department. I’ve heard of your name a long time ago, so I hope we’ll have a productive relationship from now on. Ah, if you want to shake hands, please use your gloved right hand.
+	반가워. 나는 로도스 아일랜드 엔지니어링부 소속의 위디라고 해. 박사에 대해선 전부터 자주 들었어. 앞으로 잘 부탁해. 아, 악수라면 장갑을 낀 이 오른손으로 부탁해.
+
+	嗯，没想到这些还挺有帮助的。
+	うん、こんなのが役に立つとは思わなかった。
+	Hmm, I didn’t expect these to be this helpful.
+	응, 이런 게 도움이 될 줄은 몰랐어.
+
+	晋升之后，我的个人房间可以再升级一次吗？
+	昇進したら、私の部屋ももう一回グレードアップしてもらえる？
+	After my promotion, can I get another upgrade to my personal room?
+	승진하면 내 방도 한 번 더 업그레이드 받을 수 있을까?
+
+	感谢博士愿意给体弱的我这样的肯定。之后也让我为了罗德岛继续努力吧。
+	身体が弱い私でも、こうやって認めてくれてありがとう、ドクター。これからもロドスのために頑張るよ。
+	Thank you for acknowledging someone as frail as I am, Doctor. I’ll continue to work hard for the sake of Rhodes Island.
+	몸이 약한 나를 이렇게 인정해 줘서 고마워, 박사. 앞으로도 로도스 아일랜드를 위해 열심히 할게.
+
+	我也要一起吗？
+	私も一緒に行くの？
+	Do I have to go?
+	나도 같이 가는 거야?
+
+	大家听我指挥！
+	皆、私の指示を聞いて！
+	Please listen to my instructions!
+	다들, 내 지시를 들어줘!
+
+	出击！
+	出撃！
+	Attack!
+	출격!
+
+	一切都跟战前预想的一样，开始作战！
+	全て予想通り。作戦開始！
+	Everything is as we planned. To battle!
+	모두 예상 대로야. 작전 개시!
+
+	我在这里。
+	ここにいるよ。
+	I'm right here.
+	여기 있어.
+
+	器械准备完备。
+	機材の準備は万全。
+	My equipment is ready.
+	기재 준비는 다 해놨어.
+
+	交给我吧！
+	任せて。
+	Leave it to me!
+	맡겨줘.
+
+	小叶，我们加油！
+	リーフ、頑張ろうね。
+	Leaf, let’s do our best!
+	리프, 열심히 하자.
+
+	发射！
+	発射！
+	Fire!
+	발사!
+
+	锁定敌人！攻击！
+	敵影ロックオン！攻撃！
+	Lock down the enemy! Attack!
+	적을 록 온! 공격!
+
+	全都让开！
+	みんなあっちいって！
+	Out of my way!
+	모두 저리 가!
+
+	哈！
+	はっ！
+	Haah!
+	하앗!
+
+	只要战术正确了，根本就是小菜一碟。
+	戦術さえ正しければ、こんなのなんてことない。
+	Everything’s a piece of cake, as long as we employ the proper tactics.
+	전술만 옳게 짠다면, 이런 건 아무것도 아니야.
+
+	工程学的作用不可小觑！
+	工学の力を甘く見ないで！
+	Don’t underestimate the importance of engineering!
+	공학의 힘을 우습게 보지 말라고!
+
+	......等我回去调整一下设备的参数，不会有下次了。
+	……戻ったらちょっと機材の設定を見直す。次は繰り返さない。
+	...After I head back and adjust the parameters of this device, this won’t happen again.
+	……돌아가면 살짝 기재 설정을 다시 해야겠어. 다음엔 안 이럴 거야.
+
+	小叶， 掩护我们离开这里！
+	リーフ、ここを離脱するから援護して！
+	Leaf, cover our escape!
+	리프, 여기를 이탈할 거니까 엄호해줘!
+
+	这里有打扫过吗？
+	ここ、掃除してあるんでしょうね？
+	Has this place been cleaned before?
+	여기, 청소한 거지?
+
+	等，等一下！
+	ま、待ってよ！
+	H-hey!
+	자, 잠깐만!
+
+	博士，让我也来帮忙做点什么吧。
+	ドクター、私にも何かお手伝いさせてちょうだい。
+	Doctor, is there anything I can help you with?
+	박사, 나도 뭔가 돕게 해줘.
+
+	明日方舟。
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	博士，你好。
+	ああ、ドクター。
+	How do you do, Doctor.
+	안녕, 박사.
