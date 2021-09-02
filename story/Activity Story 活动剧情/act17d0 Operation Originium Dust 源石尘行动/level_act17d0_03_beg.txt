@@ -1,504 +1,1260 @@
 [name="德鲁奇"]铳？雇佣兵？
+[name="ドラッジ"]銃？　傭兵？
+[name="Drudge"]Guns? Mercenaries?
+[name="드러지"]총? 용병?
 
 [name="德鲁奇"]你在说什么瞎话。
+[name="ドラッジ"]何をバカなことを。
+[name="Drudge"]What are you babbling about?
+[name="드러지"]대체 무슨 소리를 하는 거냐?
 
 [name="雇佣兵"]我说的全是真的，老大！他们拿着大型铳，贾曼被他们干掉了！
+[name="傭兵"]ボス、全部本当です！　大型の銃器を持ってる奴が向こうに交じってて、ジャーマはそいつらにやられたんです！
+[name="Mercenary"]I'm telling the truth, Boss! They've got huge guns! They killed Jarman!
+[name="용병"]정말입니다, 보스! 놈들은 커다란 총을 갖고 있었습니다! 자르만을 죽였다고요!
 
 [name="德鲁奇"]拿着大型铳的雇佣兵？萨科塔人？
+[name="ドラッジ"]大型の銃を持った兵だと？　サンクタ人か？
+[name="Drudge"]Mercenaries with big guns? Are they Sankta?
+[name="드러지"]커다란 총을 든 용병? 산크타인가?
 
 [name="德鲁奇"]你是想告诉我，你们任务失败，是因为四个萨科塔人？
+[name="ドラッジ"]つまりお前は、任務に失敗したのは、その四人のサンクタ人がいたせいだと言いたいわけだな？
+[name="Drudge"]Are you telling me you blew your mission over four Sankta?
+[name="드러지"]지금 고작 산크타 네 명 때문에 임무를 실패했다고 하는 거냐?
 
 [name="雇佣兵"]......呃......
+[name="傭兵"]……えっと……
+[name="Mercenary"]...Erm...
+[name="용병"]……어……
 
 [name="雇佣兵"]他们应该不是萨科塔人......大概？
+[name="傭兵"]奴らはサンクタ人ではありません……恐らくですが。
+[name="Mercenary"]I don't think they're Sankta... probably...?
+[name="용병"]놈들은 산크타가 아닌 것…… 같았습니다……
 
 [name="德鲁奇"]不是萨科塔人但是拿着大型铳的佣兵？
+[name="ドラッジ"]サンクタ人でもないのに大型の銃を持っている奴がいるだと？
+[name="Drudge"]They're not Sankta but they're mercs carrying around big guns?
+[name="드러지"]산크타가 아닌데 용병이고, 커다란 총기를 들었는데도 아무렇지도 않게 걸어 다닌다?
 
 [name="德鲁奇"]如果你要撒谎，你可以把故事杜撰得真实一点。
+[name="ドラッジ"]嘘をつくなら、もっともらしくでっち上げろ。
+[name="Drudge"]If you're gonna lie to me, at least make it believable.
+[name="드러지"]거짓말을 하려거든 더 그럴듯하게 해라.
 
 [name="萨卡兹雇佣兵"]他说的是真的。
+[name="サルカズ傭兵"]そいつが言っていることは本当だ。
+[name="Sarkaz Mercenary"]He's telling the truth.
+[name="살카즈 용병"]사실입니다.
 
 [name="德鲁奇"]什么意思？
+[name="ドラッジ"]あ？　どういう意味だ？
+[name="Drudge"]What do you mean he's telling the truth?
+[name="드러지"]뭐가 '사실'이라는 거지?
 
 [name="萨卡兹雇佣兵"]他说的是真的，那几个武装人员确实不是萨科塔人。
+[name="サルカズ傭兵"]そいつが言ったことは本当だ。あの武装した奴らは確かにサンクタ人ではない。
+[name="Sarkaz Mercenary"]He's telling the truth. They were heavily armed, but they really weren't Sankta.
+[name="살카즈 용병"]이 녀석은 사실대로 말하고 있습니다. 놈들은 중무장 상태였지만 산크타는 아니었습니다.
 
 [name="萨卡兹雇佣兵"]贾曼被打烂了脑袋，但是我没看到箭矢与弩弹，萨卡兹人可没有那么脆弱。
+[name="サルカズ傭兵"]ジャーマンは脳天をぶち抜かれたが、弓やボウガンの矢の類は見えなかった。それにサルカズ人ならそこまで貧弱でもない。
+[name="Sarkaz Mercenary"]Jarman took one in the brain, but I didn't see an arrow or a bolt. Sarkaz aren't that weak.
+[name="살카즈 용병"]자르만은 놈들의 무기에 후두부가 완전히 박살 났습니다만, 그런 파괴력을 지닌 화살은 본 적도, 들어본 적도 없습니다. 살카즈는 평범한 무기에 그렇게 될 정도로 나약하지 않고요.
 
 [name="萨卡兹雇佣兵"]这些人不在你的计划范围内。
+[name="サルカズ傭兵"]こいつらはあんたの計画にはなかった、不確定要素だ。
+[name="Sarkaz Mercenary"]These ones weren't part of your plan.
+[name="살카즈 용병"]그 이방인들은 예상 밖의 존재들입니다.
 
 [name="萨卡兹雇佣兵"]之前合同里可没提到我们还得对付一群全副武装拿着铳器的佣兵，老板，得加钱。
+[name="サルカズ傭兵"]契約には全身武装した銃器を扱う相手とやり合う条項など含まれていない。ボス、報酬の追加を頼む。
+[name="Sarkaz Mercenary"]Having to deal with a bunch of fully armed mercenaries was not in the contract, boss, we need a raise.
+[name="살카즈 용병"]전에 썼던 계약서엔 총기로 완전 무장한 용병을 상대해야 한단 내용은 없었습니다. 이건 돈을 추가로 주셔야 할 것 같군요.
 
 [name="德鲁奇"]那些佣兵现在在哪？
+[name="ドラッジ"]そいつらは今どこにいる？
+[name="Drudge"]And where are they now?
+[name="드러지"]놈들은 지금 어디 있지?
 
 [name="萨卡兹雇佣兵"]他们不在感染者社区了，我们的人在排查，没见到太大动静，应该还没离开镇子周边。
+[name="サルカズ傭兵"]今、探させている。感染者地区にはもういないようだが、大きな動きもなかった。恐らく町からはそれほど離れてないだろう。
+[name="Sarkaz Mercenary"]They're not in the Infected quarter anymore. Our men are looking for them, but we haven't seen any major movements. They should still be in the area.
+[name="살카즈 용병"]감염자 구역에는 없었습니다. 우리 쪽 병사가 일대를 샅샅이 뒤지고 있습니다만, 아직 별다른 보고가 없는 걸로 보아 이 지역 내 어딘가에 숨어있는 게 분명합니다.
 
 [name="德鲁奇"]......
+[name="ドラッジ"]……
+[name="Drudge"]......
+[name="드러지"]……
 
 [name="德鲁奇"]老混蛋那边的状况怎么样？
+[name="ドラッジ"]クソ親父の方はどうだ。
+[name="Drudge"]How's the old bastard doing?
+[name="드러지"]그 양반은 뭘 하고 있지? 그 빌어먹을 늙은이 말이다.
 
 [name="萨卡兹雇佣兵"]你父亲的手下都很厉害，尤其是你的妹妹。
+[name="サルカズ傭兵"]あんたの親父の手下はかなり手強い。特にあんたの姉が問題だ。
+[name="Sarkaz Mercenary"]Your father's people are tough. Especially that little sister of yours.
+[name="살카즈 용병"]당신의 부친께서 데리고 있는 부하들의 저항이 만만치 않습니다. 특히 여동생 쪽이 말이죠.
 
 [name="萨卡兹雇佣兵"]我们干掉了几个卫兵，但没能突破宅邸的防线。
+[name="サルカズ傭兵"]何人かの衛兵は殺ったが、屋敷の防衛線は突破できていない。
+[name="Sarkaz Mercenary"]We bumped off some of their fighters, but we haven't been able to breach the manor perimeter.
+[name="살카즈 용병"]위병들 일부를 쓰러뜨리긴 했지만, 저택 주변 일대는 아직 놈들이 철통같이 지키고 있습니다.
 
 [name="萨卡兹雇佣兵"]你那科学家的怪物干得不错，但是你找来的术师们就是废物，很多怪物折损得毫无意义。
+[name="サルカズ傭兵"]あの科学者が作ったモンスターはよくやってくれてるよ。だが、あんたが連れてきた術師たちがゴミだ。かなりのモンスターが無駄に傷ついた。
+[name="Sarkaz Mercenary"]Your scientist's monsters are doing good work out there, but your casters suck. We lost a lot of them already, without getting much for them.
+[name="살카즈 용병"]박사가 만든 괴물들이 큰 활약을 하고 있습니다만, 그 녀석들을 통솔하는 캐스터가 문제입니다. 무능한 자가 명령을 내려대는 바람에, 수많은 괴물들을 헛되이 잃었죠.
 
 [name="德鲁奇"]他们已经是我能雇到的术师里最靠谱的了。
+[name="ドラッジ"]チッ、この辺で一番高い術師を雇ったんだぞ。
+[name="Drudge"]Those are already the best money can buy.
+[name="드러지"]그 캐스터들은 돈으로 살 수 있는 놈들 중에서는 가장 뛰어난 놈들이다.
 
 [name="德鲁奇"]除非你们的老板愿意指派术师过来，不然抱怨也没用。
+[name="ドラッジ"]お前らのボスが術師を派遣してくれるなら話は別だが、そうでないなら俺に文句を言っても始まらん。
+[name="Drudge"]Until your boss is willing to send us a caster, you're in no position to complain.
+[name="드러지"]네놈 보스가 캐스터를 손수 보내주지 않는 한, 네게 불평할 권리는 없어.
 
 [name="萨卡兹雇佣兵"]那就让你的科学家多造点怪物。
+[name="サルカズ傭兵"]なら科学者にモンスターをもっと作らせろ。
+[name="Sarkaz Mercenary"]Then get your scientist to cook up some more monsters.
+[name="살카즈 용병"]그럼 그 박사에게 괴물을 더 만들어내라고 하십시오.
 
 [name="萨卡兹雇佣兵"]或者换个战术，强行攻打大宅行不通。你家的大宅就是个要塞，你妹妹也不是省油的灯。
+[name="サルカズ傭兵"]或いは、戦術を変えろ。あんたの実家はまるで要塞だ、力押しじゃ全く歯が立たない。
+[name="Sarkaz Mercenary"]Or change tactics. That mansion is a fortress, and a direct attack isn't going to work. And it's not like your sister is an easy target either.
+[name="살카즈 용병"]아니면 전략을 바꾸던지요. 그 저택은 요새나 마찬가지라 정면 돌파는 불가능합니다. 게다가 당신의 여동생도 결코 만만한 상대가 아니고요.
 
 [name="德鲁奇"]老混蛋呢？他还是躲在屋子里？
+[name="ドラッジ"]クソ親父は相変わらず部屋に閉じこもってるのか？
+[name="Drudge"]What about the old bastard himself? Is he still holed up in the house?
+[name="드러지"]빌어먹을…… 그 늙은이는? 여전히 집 안에 숨어 있나?
 
 [name="萨卡兹雇佣兵"]我根本就没看到你的父亲，自始至终他都没有露面。
+[name="サルカズ傭兵"]一度も姿を見ていない。これだけ派手な音を立てているのにな。
+[name="Sarkaz Mercenary"]I haven't seen your father yet. No sign of him at all since we showed up.
+[name="살카즈 용병"]아직 발견하지 못했습니다. 우리가 나타난 뒤로 단 한 번도 모습을 보이지 않았습니다.
 
 [name="德鲁奇"]哈哈哈......我就知道。
+[name="ドラッジ"]ハハハッ……だろうな。
+[name="Drudge"]Hahaha... I knew it.
+[name="드러지"]하하하…… 내 그럴 줄 알았지.
 
 [name="德鲁奇"]我就知道他出事了！
+[name="ドラッジ"]あいつにも何かあったんだろうさ。何かまでは知らんがな！
+[name="Drudge"]I knew something happened to him!
+[name="드러지"]무슨 일이 생겼을 줄 알았다니까!
 
 [name="德鲁奇"]继续盯着大宅，有情况立刻告诉我。
+[name="ドラッジ"]引き続き屋敷を見張れ。状況が変わればすぐに知らせろ。
+[name="Drudge"]Keep watching the manor. Tell me as soon as you've got news.
+[name="드러지"]계속해서 저택을 주시해라. 무슨 일이 생기면 바로 보고하도록.
 
 [name="萨卡兹雇佣兵"]关于我刚才提到的“换个战术”的部分，你的动作得快一点。
+[name="サルカズ傭兵"]「戦術を変えてくれ」というこっちの要望については、早急に対応を頼みたい。
+[name="Sarkaz Mercenary"]What about the 'change our tactics' part? You're getting ahead of yourself.
+[name="살카즈 용병"]전략을 바꿔야 한다는 부분 말입니다만, 서두르시는 게 좋을 것입니다.
 
 [name="萨卡兹雇佣兵"]这是萨卡兹佣兵的直觉。事情拖得越久，破绽就越多。
+[name="サルカズ傭兵"]これはサルカズ傭兵としての直感と経験からだが、先延ばしにするほど、ほころびも多くなる。今回は特にまずそうだ。
+[name="Sarkaz Mercenary"]Call it a Sarkaz mercenary's intuition. The longer you drag things out, the more chances they have to go wrong.
+[name="살카즈 용병"]살카즈 용병의 감으로 들어주십시오. 이런 일은 지체할수록 잘못될 가능성이 점점 커집니다.
 
 [name="德鲁奇"]我确实有备用计划，不过我需要时间来安排。
+[name="ドラッジ"]予備のプランは確かにある、だがそれにはもう少し時間が必要だ。
+[name="Drudge"]I have a contingency plan. I just need time to put it together.
+[name="드러지"]내게 대비책이 있다. 하지만 제대로 준비할 시간이 필요해.
 
 [name="列维"]虽然我对自己的实验成果非常自信，但是从表情来看，你似乎没有类似的体验。
+[name="レヴィ"]私は自分の実験結果には非常に自信を持っているが、君の表情を見るに、君はそうは思ってないようだな。
+[name="Levi"]Confident as I am in the results of my experiments, the look on your face tells me you don't share my assessment.
+[name="리바이"]난 내 실험 결과에 꽤 만족한다만, 그쪽 표정을 보아하니 나와는 생각이 다른가 보군.
 
 [name="列维"]来吧，说说看，又是哪个环节出岔子了。
+[name="レヴィ"]さぁ、言うがいい。今度は何があったんだ？
+[name="Levi"]Come, tell me, where have things gone wrong this time?
+[name="리바이"]말해 봐라, 이번엔 또 계획이 어떻게 틀어졌지?
 
 [name="德鲁奇"]你需要加快一点进度。
+[name="ドラッジ"]もっとペースを上げろ。
+[name="Drudge"]I need progress from you.
+[name="드러지"]생산 속도를 올려라.
 
 [name="列维"]除了毫无意义的催促，你还能讲点更有建设性的意见吗？
+[name="レヴィ"]無意味なスピードアップの要求以外に、もう少し建設的且つ具体的な意見は述べられないのかね？
+[name="Levi"]Would you like to offer something a little more constructive? Or is your pointless needling all you have?
+[name="리바이"]좀 더 건설적인 제안은 할 생각이 없나? 계속해서 의미 없는 요구만 할 셈인가?
 
 [name="德鲁奇"]我带给你的尸体够多了，我还需要至少二十只这种怪物。
+[name="ドラッジ"]差し出した死体はもう十分のはずだ。少なくともすぐに20体程度はモンスターが必要だ。
+[name="Drudge"]I gave you enough corpses. I need at least twenty monsters.
+[name="드러지"]네놈에게 시체는 충분히 전달해 줬을 텐데. 괴물이 최소 20마리 더 필요하다.
 
 [name="列维"]畸变体。
+[name="レヴィ"]ニュータント。
+[name="Levi"]Originiutants.
+[name="리바이"]오리지뉴턴트.
 
 [name="德鲁奇"]什么？
+[name="ドラッジ"]あ？
+[name="Drudge"]What?
+[name="드러지"]뭐라고?
 
 [name="列维"]“这种怪物”叫源石畸变体，它是有名字的。
+[name="レヴィ"]「こういったモンスター」の名前だ。オリジニュータント、だ。
+[name="Levi"]These 'monsters' are Originiutants. They have a name.
+[name="리바이"]그 '괴물'은 오리지뉴턴트다. 이름이 있어.
 
 [name="德鲁奇"]突变体、畸变体，我才不在乎这东西叫什么。
+[name="ドラッジ"]ミュータントだろうと、ニュータントだろうと呼び方などどうでもいい。
+[name="Drudge"]Mutants, Originiutants, why should I care what they're called?
+[name="드러지"]괴물이든 오리지뉴턴트든, 내가 왜 그놈들의 이름을 신경 써야 하지?
 
 [name="德鲁奇"]我需要更多的怪物。
+[name="ドラッジ"]もっと多くのモンスターが必要だ。
+[name="Drudge"]Give me more monsters.
+[name="드러지"]괴물을 더 내놓기나 해라.
 
 [name="列维"]我之前已经给你不少了，这么快就死光了？
+[name="レヴィ"]すでにそれなりの数を渡しているはずだと思うが、もう全部死なせてしまったわけか？
+[name="Levi"]I gave you so many already. Did you get them all killed so quickly?
+[name="리바이"]이미 많이 내주었을 텐데. 이렇게나 빨리 모두 잃었나?
 
 [name="列维"]我很好奇......你的手下是怎么操纵畸变体的？依靠你们的“源石技艺”？
+[name="レヴィ"]実に興味深いな……君の手下はどうやってニュータントを操っているんだね？　君たちのいう「アーツ」とやらに頼っているのか？
+[name="Levi"]I'm curious... How are your minions using the Originiutants? Do they rely on your 'Originium Arts'?
+[name="리바이"]궁금하군…… 네 수하들은 오리지뉴턴트를 어떻게 사용하지? '오리지늄 아츠'를 이용하나?
 
 [name="列维"]这算是什么？超能力？神秘学？法术？原理是什么？
+[name="レヴィ"]「アーツ」とはなんだというんだ？　超能力か？　神秘学か？　魔法か？　原理は何だ？
+[name="Levi"]What is it exactly? Super powers? Occult mysticism? Magic? Where does it come from?
+[name="리바이"]그 '오리지늄 아츠'란 대체 뭐지? 초능력? 초자연 현상? 마법? 어디서 나타난 거지?
 
 [name="列维"]来吧，满足我的好奇心，我想和你手下的那些“术师”聊一聊。
+[name="レヴィ"]ほら、私の好奇心を刺激してくれ。君の手下の「術師」とやらとも是非とも話をしてみたいものだ。
+[name="Levi"]Come, satisfy my curiosity. I must speak with your 'casters'.
+[name="리바이"]자아, 내 호기심을 충족시켜주게. 네가 데리고 있는 그 '캐스터'를 만나게 해줘.
 
 [name="德鲁奇"]干好你的本职工作，学者。
+[name="ドラッジ"]自分の仕事をやれ、科学者。
+[name="Drudge"]Just do your job, egghead.
+[name="드러지"]쓸데없는 생각 말고 네 일이나 해라, 박사.
 
 [name="德鲁奇"]源石技艺不是你现在需要操心的事情。
+[name="ドラッジ"]今、お前が気にすべきことは「アーツ」を学ぶことではない。
+[name="Drudge"]You don't need to be thinking about Originium Arts right now.
+[name="드러지"]지금 네가 집중해야 하는 건 오리지늄 아츠가 아니야.
 
 [name="德鲁奇"]等事成之后，你有的是时间做你的研究。
+[name="ドラッジ"]事が終われば、やりたい研究をする時間は山ほどできるはずだ。
+[name="Drudge"]Once we're done here, you'll have plenty of time for your own research.
+[name="드러지"]이 일이 마무리되면, 네놈이 하고 싶은 연구를 할 시간이 넘쳐날 거다.
 
 [name="列维"]（俄语）我对你的事业还真没什么信心。
+[name="レヴィ"]（ロシア語）君の事業が成功するとは全く思えないがね。
+[name="Levi"](Russian) I have very little confidence in your project.
+[name="리바이"](러시아어) 네놈의 그 같잖은 계획이 성공할 거라고는 생각지 않는다만.
 
 [name="列维"]不过说到时间，我有没有提醒过你？其实你的时间也不多。
+[name="レヴィ"]時間といえば、君に残された時間はそれほど多くない。
+[name="Levi"]But speaking of time, did I not tell you? Yours is, in fact, limited.
+[name="리바이"]시간 이야기가 나와서 말인데, 내가 말하지 않았던가? 네게 주어진 시간은 그리 길지 않다고 말이야.
 
 [name="德鲁奇"]你什么意思？
+[name="ドラッジ"]どういう意味だ？
+[name="Drudge"]What are you talking about?
+[name="드러지"]무슨 뜻이지?
 
 [name="列维"]这些源石畸变体的寿命不会超过一周，无论你想要做什么，动作都得快一点。
+[name="レヴィ"]このオリジニュータントたちの寿命は長くて一週間ほどだ。何をするにしても、早めに行動した方がいい。
+[name="Levi"]The lifespan of these Originiutants won't exceed one week. Whatever it is you have to do, you'll have to do it quickly.
+[name="리바이"]오리지뉴턴트의 수명은 1주일을 넘기지 못해. 무슨 일을 하려는 건지 몰라도 서둘러야 할 거야.
 
 [name="德鲁奇"]你又在搞什么鬼！
+[name="ドラッジ"]どういうことだ！
+[name="Drudge"]What are you trying to pull?!
+[name="드러지"]이번엔 또 무슨 수작을 부리려는 거냐?!
 
 [name="列维"]这是代价，是你毫无耐心的代价。
+[name="レヴィ"]これは代償だ、せっかちな君が払うべきね。
+[name="Levi"]This is the price for your lack of patience.
+[name="리바이"]이건 다 네 인내심이 부족해서 벌어진 일이다.
 
 [name="列维"]你想要高速制造这些畸变体，又想要它们孔武有力，你还希望它们没有任何缺点？
+[name="レヴィ"]君はニュータントたちを早く作れと言い、そのうえニュータントたちに強大な力を要求した。長寿命というさらなる美点までを望むというのか？
+[name="Levi"]You want the Originiutants produced quickly, you want them tremendously powerful, and at the same time you want them to have no weaknesses?
+[name="리바이"]오리지뉴턴트를 한시라도 빨리 만들어내기를 원했고, 동시에 매우 강력하길 바랐으면서 약점마저 없길 기대했다니.
 
 [name="列维"]你当真觉得天底下有这样的好事情？
+[name="レヴィ"]こんな短期間でメリットばかりを求められても困る。君の望みを叶えるのには何らかのトレードオフが必要だったのだよ。世界のどこに、すべてがうまくいく都合良い話があると思っていたのかね？
+[name="Levi"]Do you truly believe such a thing is possible?
+[name="리바이"]그런 게 정말 가능할 거라 생각했나?
 
 [name="德鲁奇"]......
+[name="ドラッジ"]……
+[name="Drudge"]......
+[name="드러지"]……
 
 [name="德鲁奇"]我说过，不要和我耍花招，学者。
+[name="ドラッジ"]俺に小細工はするなと言ったはずだ、科学者。
+[name="Drudge"]I told you. No tricks, egghead.
+[name="드러지"]말했을 텐데. 수작 부리지 마라, 박사.
 
 [name="列维"]我很忙，没时间和你开玩笑。
+[name="レヴィ"]私は忙しい。君と冗談を言い合っている時間はないのだ。
+[name="Levi"]I'm busy. I have no time to joke with you.
+[name="리바이"]난 바쁜 몸이다. 너와 장난칠 시간 따위는 없다.
 
 [name="列维"]既然你这么不满意，我建议你自己来，动用你的聪明才智，搞定我这个专业人士短时间无法解决的基因工程问题。
+[name="レヴィ"]それほど不満なら、自分でやればいいだろう。君の聡明な頭を働かせて、私のような専門家が短時間で解決できなかった遺伝子工学の問題をそれこそ一瞬で解決すればいい。
+[name="Levi"]If you are so dissatisfied with my work, I suggest you take matters into your own hands. Use your own ingenuity to solve these genetic engineering complications that I, as a professional, can't solve in so little time.
+[name="리바이"]혹시 내 결과물이 마음에 들지 않는다면 네가 직접 해보든지. 어디 그 독창성을 발휘해서 이토록 한정된 시간에서는 이 분야 전문가인 나조차도 해결할 수 없는 문제를, 유전 공학이 낳은 합병증을 치료해 보라고.
 
 [name="列维"]当然，你也可以给我带来更多的材料，给我更多的时间，来为你无趣的“家庭伦理剧”添砖加瓦。
+[name="レヴィ"]もちろん、私にもっと多くの材料と時間を与えてくれてもいい。そうすれば君が演出する、くだらない「ホームドラマ」に微力ながらもう少しだけ力を貸すことができるだろう。
+[name="Levi"]Of course, you could bring me more materials, give me more time, and make your own contributions to this vapid family drama you're putting on.
+[name="리바이"]아니면 내게 충분한 자원과 시간을 주고, 너는 네 나름대로 그 시시한 가족 문제에나 집중하든지.
 
 [name="列维"]科学是公平的，你总是有得选。
+[name="レヴィ"]科学は公平だ。常に選択肢を与えてくれる。
+[name="Levi"]Science is fair. You always have a choice.
+[name="리바이"]과학은 공정한 법이다. 늘 선택해야만 하지.
 
 [name="德鲁奇"]不要和我油嘴滑舌。
+[name="ドラッジ"]俺に口先ばかりの御託を並べるな。
+[name="Drudge"]That's enough of your slippery talking.
+[name="드러지"]언제나 그 혓바닥 하나는 잘 놀리는군.
 
 [name="德鲁奇"]继续你的工作，学者。如果你失败了，我不会饶了你。
+[name="ドラッジ"]ごちゃごちゃ言わずに、言われた仕事をしろ！　次も失敗したら、もうそこまでだ。
+[name="Drudge"]Get back to work, egghead. Don't expect any mercy out of me if you fail.
+[name="드러지"]연구에나 집중해라 박사. 만약 실패한다면 자비 따윈 꿈도 꾸지 말고.
 
 [name="德鲁奇"]失败的代价就是惨死，很惨。我说到做到。
+[name="ドラッジ"]この手でむごたらしい死をくれてやる！
+[name="Drudge"]The price of failure is a slow and miserable death. I'm a man of my word.
+[name="드러지"]그렇게 된다면 내가 직접 길고 고통스러운 죽음을 선사해 주마. 난 내뱉은 말은 반드시 지키는 몸이니까.
 
 [name="列维"]哈哈哈，你把话说成这样，那我还能怎么接呢？
+[name="レヴィ"]ハハハッ、そこまで言うのなら、もう私は何も言うまい。
+[name="Levi"]Hah hah hah. When you put it like that, what else can I say?
+[name="리바이"]하하하. 또 그렇게 나온다면야, 더는 뭐라 할 말이 없군그래.
 
 [name="列维"]祝你好运，我的朋友。
+[name="レヴィ"]君の幸運を祈ろう、友よ。
+[name="Levi"]Good luck, my friend.
+[name="리바이"]그럼 행운을 빌지, 친구.
 
 [name="雷蛇"]浓烟四起，满地狼藉，不用靠近就能掌握大致状况了。
+[name="リスカム"]立ち昇る煙、ここからでも見える程の荒れよう。近付かなくてもおおよその状況は把握できます。
+[name="Liskarm"]There's so much smoke and chaos. Don't even need to get close to know what's going on.
+[name="리스캄"]연기도 자욱하고 혼돈 그 자체야. 굳이 가까이 가서 알아볼 필요도 없을 정도로.
 
 [name="芙兰卡"]没想到是这种规模的本地骚乱......
+[name="フランカ"]まさかこれほどの規模だったなんてね……
+[name="Franka"]Never expected a riot of this scale here...
+[name="프란카"]이 정도 규모의 난동이 일어났을 거라고는 예상 못 했는데……
 
 [name="雷蛇"]贸然介入一定会出问题。
+[name="リスカム"]不用意に介入すれば間違いなく厄介なことになります。
+[name="Liskarm"]Butting our horns in is sure to cause problems.
+[name="리스캄"]직접 개입하면 분명 문제가 더 커질 거야.
 
 [name="黑"]......我回来了。
+[name="シュヴァルツ"]……ただいま戻りました。
+[name="Schwarz"]...I'm back.
+[name="슈바르츠"]……복귀했습니다.
 
 [name="巡林者"]啊，情况怎么样？
+[name="レンジャー"]おう、どんな状況じゃった？
+[name="Rangers"]Oh? What's the situation?
+[name="레인저"]그래, 상황은 어떤가?
 
 [name="黑"]......一片混乱，镇子北边的大宅附近一直有人在打斗，其中一方像是雇佣兵。
+[name="シュヴァルツ"]……ひどいの一言です。町の北側の屋敷付近では戦闘状態が続いていて、片方の勢力は傭兵のように見受けられました。
+[name="Schwarz"]...It's out of control. There's constant fighting around a mansion on the north side of town. Looks like mercenaries on one side.
+[name="슈바르츠"]……아수라장입니다. 마을 북쪽에 위치한 저택 주변에서 계속 전투가 벌어지고 있습니다. 최소한 어느 한쪽에 용병이 개입하고 있는 게 분명합니다.
 
 [name="黑"]其他地方更糟，四下都是血迹和半塌的房屋。
+[name="シュヴァルツ"]他の場所の状況はそれ以上です。辺り一面が、半壊した建物の瓦礫だらけになっていました。
+[name="Schwarz"]Things are even worse outside the manor. Bloodstains and collapsing houses everywhere.
+[name="슈바르츠"]저택 바깥은 더 심각합니다. 길거리는 피바다가 되었고, 길 양옆의 집들은 이미 붕괴했거나 곧 붕괴될 정도로 크게 파손되었습니다.
 
 [name="黑"]......感染的沙地兽在巷子里窜行，数量不少。
+[name="シュヴァルツ"]……さらには感染したサンドビーストが、町中に溢れていました。
+[name="Schwarz"]There's infected sand beasts scurrying through the alleyways, and there's a lot of them.
+[name="슈바르츠"]우리가 전에 마주쳤던 감염되고 변이된 샌드비스트도 있습니다. 골목길을 따라 질주하고 있는데, 그 수가 상당합니다.
 
 [name="雷蛇"]局势已经这样了，萨尔贡的官方武装力量呢？王酋的军队呢？
+[name="リスカム"]こんな状況だというのに、サルゴンの政府の武力組織は何をしているのでしょう？　首長の軍隊が現れてもおかしくない状況なのに……
+[name="Liskarm"]If it's gotten that bad, where's the Sargon military? The Lord Ameer's forces?
+[name="리스캄"]상황이 그렇게 심각한데 사르곤 군대는 어디 있지? 아미르의 병력은?
 
 [name="黑"]北边的大宅里有一些装备统一的卫兵，但是没看到其他萨尔贡士兵。
+[name="シュヴァルツ"]北側の屋敷内には制式装備の衛兵たちがいましたが、サルゴンの兵士は見当たりませんでした。
+[name="Schwarz"]There are some armed guards in that manor on the north side, but I didn't see any other Sargon soldiers.
+[name="슈바르츠"]저택을 지키는 무장한 위병을 확인했지만, 그 외 사르곤 병사들은 발견하지 못했습니다.
 
 [name="芙兰卡"]如果这种程度的骚乱持续了两天，那安全屋的那位干员......
+[name="フランカ"]もしこの規模の騒ぎが二日も続いているとなると、セーフハウスのオペレーターは……
+[name="Franka"]So it's been like this for two days? Then I wonder if the watchman at the safehouse is okay...
+[name="프란카"]이 상태로 이틀이나 지났다는 거야? 안전가옥에 있는 경비원이 무사하면 좋겠는데……
 
 [name="雷蛇"]凶多吉少。
+[name="リスカム"]絶望的かもしれない。
+[name="Liskarm"]It doesn't look good.
+[name="리스캄"]어쩌면 이미 죽었는지도 모르지.
 
 [name="巡林者"]先不要下结论。
+[name="レンジャー"]そう結論を急ぐでない。
+[name="Rangers"]Let's not jump to conclusions.
+[name="레인저"]섣불리 판단하지 말도록 하세.
 
 [name="黑"]......另一个消息是，我找到安全屋了。
+[name="シュヴァルツ"]……もう一つ報告があります。セーフハウスを見つけました。
+[name="Schwarz"]...In other news, I found the safehouse.
+[name="슈바르츠"]……소식이 하나 더 있습니다. 안전가옥을 찾았습니다.
 
 [name="黑"]有人驻守在安全屋那边，但不是罗德岛的人员。
+[name="シュヴァルツ"]そして、何者かがセーフハウスを守っていました。見たところロドスの人員には見えませんでしたが。
+[name="Schwarz"]Some people have taken up guarding it, but they're not Rhodes Island personnel.
+[name="슈바르츠"]무장한 이들이 안전가옥을 지키고 있었습니다만, 로도스 아일랜드 소속은 아니었습니다.
 
 [name="巡林者"]安全屋已经被雇佣兵占领了？
+[name="レンジャー"]傭兵たちに占領されてしまったのかのう？
+[name="Rangers"]It's been occupied by the mercenaries?
+[name="레인저"]용병이 점거했나?
 
 [name="黑"]不......不一样，不太像是普通的雇佣兵。
+[name="シュヴァルツ"]いえ……恐らくは違うと思います。武力を有しているのは明らかでしたが、普通の傭兵には見えませんでした。
+[name="Schwarz"]No... not exactly. They don't look like typical mercs.
+[name="슈바르츠"]아뇨…… 그건 아닙니다. 그들은 평범한 용병처럼 보이지 않았습니다.
 
 [name="黑"]他们的防御阵地非常专业，伏击火力点、陷阱、诱饵一应俱全。
+[name="シュヴァルツ"]彼らの布陣は明らかに手慣れた防衛態勢で、待ち伏せのポイント、トラップ、おびき出すための餌、全てが周到でした。
+[name="Schwarz"]Their defensive positioning is extremely specialized. They have ambush killzones, traps, and decoys all set up.
+[name="슈바르츠"]방어 태세를 갖춘 모양새가 전문 훈련이라도 받은 것 같았습니다. 사방에 각종 함정과 미끼를 두었고 살상 구역도 구축해 놓았습니다.
 
 [name="黑"]最重要的是，安全屋里有很多镇民。
+[name="シュヴァルツ"]そして何よりも、セーフハウス内には非武装の町民たちが多数いました。
+[name="Schwarz"]Most importantly, they've got a lot of townsfolk in that safehouse.
+[name="슈바르츠"]무엇보다 주목해야 하는 건, 수많은 마을 주민들이 그 안전가옥에 있다는 점입니다.
 
 [name="雷蛇"]镇民？驻守阵地的是什么样的人？
+[name="リスカム"]町民ですか？　セーフハウスに陣を構えていたのは、どんな人たちでしたか？
+[name="Liskarm"]Townsfolk? Just what kind of people do they have guarding the safehouse?
+[name="리스캄"]마을 주민들? 무장한 자들은 어떻게 생겼지?
 
 [name="黑"]看起来像是你们的同行，他们有铳器。
+[name="シュヴァルツ"]見た目からは、あなたたちの同業者かと……銃器を持っていましたので。
+[name="Schwarz"]They look pretty much like you. They've got guns.
+[name="슈바르츠"]당신과 비슷했습니다. 손에는 총을 들고 있습니다.
 
 [name="雷蛇"]铳器？黑钢的佣兵？
+[name="リスカム"]銃器？　BSWの傭兵でしょうか……
+[name="Liskarm"]Guns? Blacksteel mercenaries?
+[name="리스캄"]총? 블랙스틸 용병들인가?
 
 [name="黑"]他们身上没有明显的标志，不一定是黑钢佣兵。
+[name="シュヴァルツ"]いえ、識別可能な所属マークは見当たりませんでしたので、BSWと限定することはできないかと。
+[name="Schwarz"]They don't have any obvious markings on them. I can't say for sure they're Blacksteel.
+[name="슈바르츠"]그자들에겐 명확한 표식이 없었습니다. 블랙스틸인지 아닌지 확실하지 않습니다.
 
 [name="芙兰卡"]抹去了身份标识的专业武装人员......还带着铳。
+[name="フランカ"]所属を隠したプロの武装戦闘員……しかも銃まで持ってる。
+[name="Franka"]Armed professionals stripped of any identifying markings... with guns.
+[name="프란카"]무장한 프로페셔널, 식별 표식은 없고…… 총을 들고 있다.
 
 [name="芙兰卡"]啊......头疼。
+[name="フランカ"]うーん……判断に困るわね。
+[name="Franka"]Oof... my head hurts.
+[name="프란카"]으…… 골치 아프게 됐네.
 
 [name="巡林者"]镇子里有很多不同的势力。
+[name="レンジャー"]町には様々な勢力がおるからのう。
+[name="Rangers"]There are a lot of forces at work in this town.
+[name="레인저"]현재 이 마을에는 둘 이상의 세력이 뒤엉켜 있다는 거군.
 
 [name="巡林者"]可以排除是匪帮劫掠。
+[name="レンジャー"]ひとまず、盗賊の類いである可能性は排除していいじゃろう。
+[name="Rangers"]We can rule out a bandit raid.
+[name="레인저"]적어도 단순한 도적 습격이 아닌 건 분명하구먼.
 
 [name="巡林者"]没看到王酋的军队，也不像是战争行为。
+[name="レンジャー"]そして首長の軍隊が見受けられぬうえ、戦争にも見えない。
+[name="Rangers"]And if the Lord Ameer's forces are missing, it's not an act of war.
+[name="레인저"]게다가 아미르의 병력이 없다는 건, 전쟁은 또 아니라는 말이고.
 
 [name="巡林者"]这里的情况远比老夫预想的......要复杂很多。
+[name="レンジャー"]状況は儂が想像していたよりも、随分と複雑そうじゃのう。
+[name="Rangers"]And if the Lord Ameer's forces are missing, it's not an act of war.
+[name="레인저"]상황이…… 예상보다 훨씬 복잡한 것 같군.
 
 [name="雷蛇"]愿意在骚乱中保护镇民的人应该不是什么穷凶极恶的歹徒。
+[name="リスカム"]少なくとも、混乱の中町民を保護する人たちですし、残虐な暴徒の類ではないと思いますが。
+[name="Liskarm"]If they're willing to protect civilians in the middle of a riot, they can't exactly be evil.
+[name="리스캄"]난동이 일어나는 와중에 주민을 지키고 있다면, 나쁜 의도가 있어 보이진 않아요.
 
 [name="芙兰卡"]说不定可以尝试交涉一下？
+[name="フランカ"]交渉してみる？
+[name="Franka"]Maybe we should try to make contact?
+[name="프란카"]한번 그들과 접촉해볼까요?
 
 [name="巡林者"]谨慎一点，即便只从他们保护镇民的行为来判断，也有很多不同的可能性。
+[name="レンジャー"]慎重にならねばのう。町民を保護していると言うても、理由は色々と考えられるからのう。
+[name="Rangers"]Let's be careful. There are a lot of possibilities here, even if we just look at them protecting the townsfolk.
+[name="레인저"]그래도 신중하게 움직이세. 저들의 진짜 의중이 무엇인지 지금으로서는 알 수 없으니.
 
 [name="巡林者"]老夫只期望对方是可以沟通的那种人。
+[name="レンジャー"]相手が話の通じる相手ならいいんじゃがの。
+[name="Rangers"]I just hope they're the type you can reason with.
+[name="레인저"]부디 협상할 수 있는 상대면 좋겠구먼.
 
 [name="霜华"]怎么样了？
+[name="Frost"]どう？
+[name="Frost"]What's the situation?
+[name="Frost"]어때?
 
 [name="战车"]不行，完全搞不懂。
+[name="Tachanka"]ダメだ……全くわからない。
+[name="Tachanka"]No good. I can't make sense of it.
+[name="Tachanka"]좋지 않아. 이 구조는 내 이해 범주 밖이야.
 
 [name="战车"]这东西，看起来像是电路板，但是和我了解的电路差太多了。
+[name="Tachanka"]電子回路のように見えるが、俺が知っている回路とは違い過ぎる。
+[name="Tachanka"]This thing looks like a circuit board, but it's totally different from any circuit I've ever seen.
+[name="Tachanka"]얼핏 봤을 땐 회로판인 줄 알았더니, 지금까지 봤던 회로판과 전혀 달라.
 
 [name="战车"]如果给我一个月时间，外带一本技术手册，我说不定能研究明白。
+[name="Tachanka"]一ヶ月の時間をくれて、さらにマニュアルもあるなら、理解できるかもしれないが……
+[name="Tachanka"]If you gave me a month and a technical manual, I'm still not sure I could figure it out.
+[name="Tachanka"]기술 설명서랑 한 달 정도 시간을 주면 뭔지 알아낼 수 있을지도 모르겠다만.
 
 [name="战车"]算了，我还是去楼上站岗吧，蹲得我腰都酸了。
+[name="Tachanka"]やめだ……上で見張りをしてくる。しゃがみ続けで腰が痛い。
+[name="Tachanka"]Screw it. I'm going to stand guard upstairs. I've been squatting so long my back is sore.
+[name="Tachanka"]난 포기하지. 위층으로 올라가서 보초나 서겠어. 하도 쭈그리고 있었더니 허리가 뻐근하군.
 
 [name="霜华"]辛苦了，Lord。
+[name="Frost"]LORD、おつかれ。
+[name="Frost"]Good hustle, Lord.
+[name="Frost"]위에서는 이것보다 할 만할 거야, 군주님.
 
 [name="灰烬"]没搞定？
+[name="Ash"]失敗か？
+[name="Ash"]No good?
+[name="Ash"]아직 알아낸 거 없어?
 
 [name="霜华"]这个通讯器的内部结构全都是我们没接触过的技术。
+[name="Frost"]私たちの使っている通信機と構造以前に、概念レベルから異なる技術なの。
+[name="Frost"]None of us have ever seen anything like the tech inside this comms equipment.
+[name="Frost"]우리 모두 이런 건 생전 처음 봐. 이 무선 통신기 내부 구조는 우리의 지식 밖이야.
 
 [name="霜华"]我觉得可以放弃维修了。
+[name="Frost"]修理は諦めた方がいいと思う。
+[name="Frost"]I don't think we're going to be able to get it working.
+[name="Frost"]아무래도 '고치겠다'는 생각은 이제 버려야 할 것 같아.
 
 [name="灰烬"]从外观上完全看不出来，感觉就只是一台发报机。
+[name="Ash"]外見からは普通の通信機にしか見えないのに……
+[name="Ash"]You wouldn't know it from the outside. It looks like your typical transmitter.
+[name="Ash"]겉만 보면 평범한 통신 장비 같아 보이는데.
 
 [name="霜华"]和之前那辆厢型车一样，这个世界的能源基础很特殊，所有技术的基础全部都来自这种叫源石的东西。
+[name="Frost"]前の車と同様、この世界のエネルギー源はとても特殊なのよ。すべての技術の根底に源石と呼ばれるものがある。
+[name="Frost"]Just like with the van back there, the energy they use in this world is unique. All their technology is based on this stuff called Originium.
+[name="Frost"]전에 가져왔던 그 자동차처럼, 이 세계에서 쓰는 동력은 꽤 특이해. 모든 기술이 오리지늄에 기반을 두고 있어. 여태까지 계속 들어는 왔는데 도통 모르겠는 바로 그 오리지늄 말이야.
 
 [name="奥克芬"]你们还在研究那台通讯器啊。
+[name="オクフェン"]まだその通信機をいじってたんですか。
+[name="Occphen"]You're still studying that communicator, huh?
+[name="오크픈"]아직도 그 통신기를 살펴보고 있는 겁니까?
 
 [name="奥克芬"]源石通讯设备使用了很复杂的技术，以往都是需要罗德岛外派工程术师来维护的，修不好很正常。
+[name="オクフェン"]源石通信装置は複雑な技術の集合体ですからね。これまでもずっとロドスから派遣された専門術師によってメンテナンスされてきたものですし、直せなくて当然です。
+[name="Occphen"]Originium comms equipment uses some really complicated tech. Rhodes Island always had to send engineering casters out to maintain it. I'm not surprised you can't fix it.
+[name="오크픈"]오리지늄 기반 통신 장비는 고도의 기술로 만들어집니다. 로도스 아일랜드에서도 그 장비를 보수하려고 늘 정비 캐스터를 보내고는 했죠. 여러분이 못 고치는 것도 무리는 아닙니다.
 
 [name="灰烬"]你之前说用这台机器联系到了救援？
+[name="Ash"]前にこの機械で救援メッセージを送ったって言ってなかった？
+[name="Ash"]You said before you used this device to send out a distress signal?
+[name="Ash"]이걸로 구조 요청을 보냈다고 하지 않았어?
 
 [name="奥克芬"]唉......我不确定是不是真的联系到了。
+[name="オクフェン"]ええ、ですが……本当に届いたかはわからないんです。
+[name="Occphen"]Oh... I'm not sure if the signal actually got through.
+[name="오크픈"]아…… 신호가 제대로 갔는지는 잘 모르겠습니다.
 
 [name="奥克芬"]那些暴徒攻击安全屋的时候，我手忙脚乱地启动了通讯器，但是还没来得及说几句就被他们闯进来了。
+[name="オクフェン"]暴徒たちにここが襲われた時、大慌てで通信機を起動したんです。何か言おうとした矢先、暴徒がこの部屋まで入り込んでしまって……
+[name="Occphen"]When the rioters attacked the safehouse, I hit the communicator as quick as I could. But they broke in before I got to talk to anyone.
+[name="오크픈"]습격자들이 들이닥쳤을 때 이 통신기로 가장 먼저 손을 뻗었습니다만, 답신을 받기도 전에 놈들이 부숴버렸습니다.
 
 [name="奥克芬"]当时情况太紧急了，我也口齿不清的......说不定收到求援的罗德岛干员根本就没听清我说了什么。
+[name="オクフェン"]かなりせっぱ詰まっていたのでちゃんと伝えられなくて……ロドスのオペレーターが救援信号を受け取っていたとしても、何が起こっていたのか、わからないと思います。
+[name="Occphen"]Everything happened so fast, I could barely speak... It could be the Rhodes Island operator who took the call couldn't even hear me.
+[name="오크픈"]모든 게 너무 순식간에 일어나서 거의 말을 못 했고요…… 통신이 연결됐다고 해도 그 로도스 아일랜드 오퍼레이터가 제대로 알아들었을지 의문입니다.
 
 [name="灰烬"]所以没有援军了。
+[name="Ash"]つまり、援軍はなしと考えておいた方がよさそうね。
+[name="Ash"]So the cavalry isn't coming.
+[name="Ash"]그럼 지원은 없다는 거군.
 
 [name="闪击"]一开始我就没期待过援军。
+[name="Blitz"]はなから期待してないけどな。
+[name="Blitz"]I was never waiting for the cavalry.
+[name="Blitz"]그런 건 애초에 기대도 안 했어.
 
 [name="奥克芬"]你们看起来一点都不紧张。
+[name="オクフェン"]皆さんはずいぶん余裕があるんですね。
+[name="Occphen"]You don't look worried at all.
+[name="오크픈"]전혀 걱정되지 않는다는 말투군요.
 
 [name="灰烬"]不如说，没有支援的作战，我们已经习惯了。
+[name="Ash"]というより、支援のない作戦に慣れてしまったと言った方がいいかもしれないわ。
+[name="Ash"]You could say we're pretty used to fighting without backup.
+[name="Ash"]지원 병력 없는 전투라면 꽤 익숙하거든.
 
 [name="奥克芬"]唉，现在想想，你们当时再来晚一点啊，我这下半辈子就得在轮椅上度过了。
+[name="オクフェン"]あの時、皆さんが来てくれるのがほんの少しでも遅ければ、私は今頃まともに話すことすらできなくなっていたでしょうね。
+[name="Occphen"]Wow. I'm thinking if you had shown up just a little later, I'd be spending the rest of my life in a wheelchair.
+[name="오크픈"]와…… 여러분이 조금만 더 늦게 오셨으면, 전 남은 생을 휠체어 타면서 보냈겠어요.
 
 [name="奥克芬"]也有可能直接躺在棺材里，连轮椅都不需要了。
+[name="オクフェン"]いや、そのまま棺桶に直行していたか……
+[name="Occphen"]Or maybe a coffin.
+[name="오크픈"]아니면 관짝에 들어갔거나……
 
 [name="奥克芬"]还是得谢谢你们。
+[name="オクフェン"]遅くなりましたが、その節は本当にありがとうございました。
+[name="Occphen"]All I can say is thanks.
+[name="오크픈"]아무튼, 정말 고맙습니다.
 
 [name="灰烬"]不用客气，你也帮了那些镇民。
+[name="Ash"]気にしなくていい、あんたも町民たちを助けてくれたから。
+[name="Ash"]Not necessary. You've done a lot to help the civilians yourself.
+[name="Ash"]인사는 됐어. 그쪽도 민간인을 돕기 위해 최선을 다해줬잖아.
 
 [name="奥克芬"]哎呀，也不能这么说，毕竟救治感染者也是罗德岛的本业嘛，哈哈哈......
+[name="オクフェン"]まあ、感染者を治療して救うのもロドスの本業ですからね。中に入れたこと、許してくれないかなあ……
+[name="Occphen"]Well, I wouldn't make a big deal out of that. Treating the Infected is kind of Rhodes Island's business. Hahaha...
+[name="오크픈"]음, 그렇게 대단한 건 아닙니다. 감염자를 치료하고 보호하는 건 로도스 아일랜드의 주요 사업이거든요. 하하하……
 
 [name="奥克芬"]......虽然我只是个看门的后勤预备干员就是了。
+[name="オクフェン"]……私は見張り役の後方勤務の予備オペレーターにすぎないので、権限なんて無いに等しいんです。
+[name="Occphen"]...Even if I'm just a reserve Logistics Operator serving as a doorman.
+[name="오크픈"]……비록 전 그냥 문지기일 뿐인, 후방 지원 쪽 예비 오퍼레이터에 불과하지만요.
 
 [name="灰烬"]救治......所以这里才准备了医疗物资？
+[name="Ash"]治療して救う……そのためだから、ここには医療物資が準備されているのね？
+[name="Ash"]Treating...? Does that mean there's medical supplies here?
+[name="Ash"]치료……? 그럼 여기에 의약품이 있단 말이야?
 
 [name="灰烬"]但是这些武器是做什么的？
+[name="Ash"]でも、武器は何に使うの？
+[name="Ash"]But what are these weapons for?
+[name="Ash"]그럼 무기는 뭐에 쓰는 건데?
 
 [name="奥克芬"]啊，这个嘛......
+[name="オクフェン"]えっと、それは……
+[name="Occphen"]Oh, well...
+[name="오크픈"]아, 그게……
 
 [name="奥克芬"]虽然罗德岛的本业是制药，但是安全屋其实并不提供医疗救助。
+[name="オクフェン"]ロドスの本業は薬の製造ですが、セーフハウスを所有するのは、実は医療による救助が主目的ではないんです。
+[name="Occphen"]Rhodes Island is mainly a pharmaceutical company, but this safehouse doesn't actually offer any treatment services.
+[name="오크픈"]로도스 아일랜드는 제약회사지만, 이런 안전가옥에서는 치료 서비스를 제공하진 않습니다.
 
 [name="奥克芬"]安全屋主要负责为外勤战斗人员提供物资补给，备用武器什么的。
+[name="オクフェン"]セーフハウスの主な役割は、外勤オペレーターに物資の補給や予備の武器などを提供することなんです。
+[name="Occphen"]Safehouses are mostly to provide combat operators with supplies, equipment, weapons and stuff when they're out on missions.
+[name="오크픈"]안전가옥은 보통 각 작전 지역에 나가 있는 전투 오퍼레이터에게 각종 보급품과 장비, 무기 등을 보급하는 곳이죠.
 
 [name="霜华"]嗯......
+[name="Frost"]うん……？
+[name="Frost"]Right......
+[name="Frost"]흐음……
 
 [name="霜华"]等等？这是什么？
+[name="Frost"]ちょっと待って？　これは何？
+[name="Frost"]Hold on. What's this?
+[name="Frost"]잠깐. 이건 뭐지?
 
 [name="闪击"]这是榴弹发射器？
+[name="Blitz"]グレネードランチャーか？
+[name="Blitz"]Is this a grenade launcher?
+[name="Blitz"]유탄발사기 아냐?
 
 [name="灰烬"]榴弹？
+[name="Ash"]グレネード？
+[name="Ash"]Grenade?
+[name="Ash"]유탄이라고?
 
 [name="灰烬"]给我看看。
+[name="Ash"]見せて。
+[name="Ash"]Let me see.
+[name="Ash"]어디 봐.
 
 [name="闪击"]好家伙，这个是地雷？
+[name="Blitz"]おいおい、こいつは……地雷か？
+[name="Blitz"]Oh, my. Is this a landmine?
+[name="Blitz"]대박인데, 이건 지뢰인가?
 
 [name="闪击"]种类还挺多啊。
+[name="Blitz"]しかも、結構な種類があるぞ。
+[name="Blitz"]And you've got all kinds.
+[name="Blitz"]온갖 폭발물이 다 있네.
 
 [name="灰烬"]......我一开始还以为这里的人都不使用热兵器。
+[name="Ash"]……この世界の人は火器を使わないと思っていたけど。
+[name="Ash"]...I thought the people here didn't use thermal weapons.
+[name="Ash"]……이 세계에서 이런 무기는 안 쓰는 줄 알았는데.
 
 [name="灰烬"]这个榴弹发射器的结构有点奇怪。
+[name="Ash"]たしかに、このグレネードランチャーの構造は少しおかしい。
+[name="Ash"]The structure of this grenade launcher is a little strange.
+[name="Ash"]이 유탄발사기는 설계가 꽤 독특한걸.
 
 [name="闪击"]没有发射药的榴弹，难道要靠压缩气体打出去？
+[name="Blitz"]発射薬のないグレネードなんて……まさか圧縮ガスで撃ち出すってのか？
+[name="Blitz"]There's no propellant charge for the grenades. Does it use compressed gas?
+[name="Blitz"]대충 봤는데, 추진 장치가 없는 거 같아. 압축가스로 발사하는 뭐 그런 원리인가?
 
 [name="灰烬"]你看这个，还有用液压弹簧的型号。
+[name="Ash"]これを見て？　油圧スプリングを使うタイプもある。
+[name="Ash"]Look, here's a model using hydraulic springs.
+[name="Ash"]봐, 이쪽은 유압식 스프링을 사용하는 무기야.
 
 [name="奥克芬"]小心！那箱子里面是源石爆炸物，很危险！
+[name="オクフェン"]気を付けてください！　その箱の中は源石爆発物なんです！　とても危険ですよ。
+[name="Occphen"]Be careful! That box is full of Originium explosives! It's dangerous.
+[name="오크픈"]조심하세요! 그 상자에는 오리지늄 폭발물이 가득 들어 있어서 위험합니다!
 
 [name="灰烬"]奥克芬先生，这里有枪械弹药吗？
+[name="Ash"]オクフェンさん、ここに火器と弾薬はないのかしら？
+[name="Ash"]Mr. Occphen, do you have ammunition for small arms here?
+[name="Ash"]오크픈, 혹시 소형 화기에 쓰는 탄약도 있나?
 
 [name="奥克芬"]枪械......你是说铳器？啊，你在问蚀刻弹药？
+[name="オクフェン"]火器……銃器のことですよね？　エッチング弾薬のことですか？
+[name="Occphen"]Small arms...? Do you mean guns? Oh, are you asking about etched ammo?
+[name="오크픈"]……소형 화기? 그 말씀은, 총 말씀 하시는 건가요? 아, 혹시 식각 탄환을 말하는 겁니까?
 
 [name="奥克芬"]那种昂贵的东西，安全屋一般不会准备，罗德岛的战斗人员里很少有人用铳。
+[name="オクフェン"]そんな高価なものは普通はセーフハウスに置けませんよ。ロドスのオペレーターでもやはり銃を使う人は少ないですから。
+[name="Occphen"]We wouldn't usually have anything that valuable in a safehouse like this. Rhodes Island combat personnel rarely use guns.
+[name="오크픈"]이렇게 외각에 마련된 안전가옥에는 그런 귀한 품목까지 구비해두지 않습니다. 로도스 아일랜드 전투 오퍼레이터는 총기를 거의 사용하지 않기도 하고요.
 
 [name="灰烬"]这些爆炸物，我们能用吗？
+[name="Ash"]これらの爆発物は、あたしたちでも使える？
+[name="Ash"]Can we use these explosives?
+[name="Ash"]그럼 이 폭발물 좀 써도 될까?
 
 [name="奥克芬"]......唉......
+[name="オクフェン"]はぁ……多分ですが。
+[name="Occphen"]...*Sigh*...
+[name="오크픈"]하아……
 
 [name="奥克芬"]你们得小心点，源石爆炸物都很危险。
+[name="オクフェン"]気を付けてください。源石爆発物はどれもとても危険ですから。
+[name="Occphen"]Just be careful. Originium explosives are very dangerous.
+[name="오크픈"]조심히 다뤄주세요. 오리지늄 폭발물은 굉장히 위험합니다.
 
 [name="奥克芬"]放在以往，这些东西只有专职战斗的干员才能调用。
+[name="オクフェン"]普段でしたら、これらは戦闘専門のオペレーターにしか提供しないものですが――
+[name="Occphen"]They used to only be for combat operators.
+[name="오크픈"]여기 물건들은 전부 전투 전문 오퍼레이터들이나 다룰 수 있는 거니까요.
 
 [name="奥克芬"]不过你们看起来都是个中好手，我也不好说什么。
+[name="オクフェン"]皆さんはその道に精通してそうですし、状況が状況ですから使ってください。
+[name="Occphen"]But you look like you know what you're doing. I won't stop you.
+[name="오크픈"]하지만 여러분은 이런 물건들을 다루는 데 능숙해 보이니, 막진 않겠습니다.
 
 [name="灰烬"]非常感谢。
+[name="Ash"]感謝する。
+[name="Ash"]Thank you very much.
+[name="Ash"]정말 고마워.
 
 [name="闪击"]这些呢？这些稀奇古怪的零件是什么？
+[name="Blitz"]こいつらは？　この得体の知れない部品たちは何だ？
+[name="Blitz"]What about these? What are these wild looking parts for?
+[name="Blitz"]이건 뭐야? 엄청 멋진 부품들이 있네?
 
 [name="奥克芬"]那些是施术单元备用装置，小心别弄坏了。
+[name="オクフェン"]それらはアーツユニットに使われる、スペアの部品です。大事な物なので壊さないでくださいね。
+[name="Occphen"]Backup casting units. Don't break them.
+[name="오크픈"]아츠 유닛 비품입니다. 조심히 다루고, 망가트리지만 말아 주세요.
 
 [name="灰烬"]施术单元......
+[name="Ash"]アーツユニット……
+[name="Ash"]Casting units...?
+[name="Ash"]……아츠 유닛?
 
 [name="闪击"]应该是那个叫“源石技艺”的东西吧。
+[name="Blitz"]あの「アーツ」とかいうやつか。
+[name="Blitz"]Must be for that 'Originium Arts' stuff.
+[name="Blitz"]그 '오리지늄 아츠'와 관련된 거겠네.
 
 [name="灰烬"]源石技艺，就是那些丢火球的技术？
+[name="Ash"]アーツって、あの火の玉を飛ばす技とかの？
+[name="Ash"]Originium Arts is the technique that lets them throw those fireballs?
+[name="Ash"]오리지늄 아츠, 그 불덩이를 날리던 마법 같은 거 말이야?
 
 [name="奥克芬"]这个讲起来就复杂了，我也不是术师。
+[name="オクフェン"]アーツを説明しようとするととんでもなく複雑なんです。私も術師ではありませんし。
+[name="Occphen"]We're getting into the weeds here. I'm no caster.
+[name="오크픈"]워낙에 복잡하기도 하고, 전 캐스터가 아니라서 자세한 건 잘 모릅니다.
 
 [name="奥克芬"]而且源石技艺的种类五花八门，术师们擅长的方向都不一样。
+[name="オクフェン"]ただ簡単に言えば、アーツの種類は多種多様で、術師たちの得意とする分野もみな異なります。
+[name="Occphen"]But Originium Arts comes in all kinds of flavors. Every caster has his own specialty.
+[name="오크픈"]하지만 오리지늄 아츠는 종류가 아주 다양합니다. 캐스터마다 그 형태도 천차만별이고요.
 
 [name="灰烬"]那刚才提到的工程术师也是其中一种？
+[name="Ash"]さっき言っていた専門術師もその中の一つってことね？
+[name="Ash"]Would the engineering casters you mentioned before be one of those?
+[name="Ash"]그럼 아까 말한 정비 캐스터도 오리지늄 아츠 사용자라는 말이군?
 
 [name="奥克芬"]怎么？你们以前没接触过源石技艺？
+[name="オクフェン"]ん？　皆さんはこれまでにアーツに触れたことがないんですか？
+[name="Occphen"]Huh? Have you never seen Arts before?
+[name="오크픈"]어? 아츠를 본 적 없습니까?
 
 [name="霜华"]这个嘛......我们见识得比较少。
+[name="Frost"]それが……あまりよくわかってないの。
+[name="Frost"]Well... we haven't seen much.
+[name="Frost"]음…… 거의 못 봤지.
 
 [name="奥克芬"]这怎么可能呢？你们都拿着铳，你们不是术师吗？
+[name="オクフェン"]そんなことありえますか？　銃を持っているのに、術師じゃないなんて。
+[name="Occphen"]But how? You've got guns. Aren't you casters?
+[name="오크픈"]어떻게 그럴 수가? 여러분은 총을 사용하잖습니까. 그런데도 캐스터가 아니라고요?
 
 [name="奥克芬"]不会使用源石技艺的铳械使用者？嘿，这可稀奇了。
+[name="オクフェン"]アーツを使えない銃の使用者ってことですか？　これは珍しい。
+[name="Occphen"]A gun user who can't use Originium Arts? Now that's rare.
+[name="오크픈"]오리지늄 아츠를 쓸 줄 모르는 총기 사용자라고요? 흠, 신기하군요.
 
 [name="米亚罗"]啊，奥克芬先生，你的脚还没有好，不建议你下地走路。
+[name="ミアロ"]あっ、オクフェンさん。まだ足が治ってないんですから、歩かない方がいいですよ。
+[name="Miarow"]Oh, Mr. Occphen, your leg hasn't healed yet. I don't want you walking around.
+[name="미아로우"]앗, 오크픈 씨. 아직 다리가 다 낫지도 않았는데 돌아다니시면 안 돼요.
 
 [name="奥克芬"]没事没事，有拐杖，勉强能走两步。
+[name="オクフェン"]大丈夫です。杖がありますし、私も少しくらい、なんとか貢献しないと……必要なら歩きます。
+[name="Occphen"]I'm fine, I've got my crutches. I can walk a few steps.
+[name="오크픈"]괜찮습니다. 목발도 있으니 이 정도는 걸을만합니다.
 
 [name="灰烬"]医生，下面的病人们怎么样了？
+[name="Ash"]先生、下の病人たちの様子はどう？
+[name="Ash"]Doctor, how are the patients doing down there?
+[name="Ash"]미아로우, 환자들은 어때?
 
 [name="米亚罗"]大部分人的伤势都稳定下来了，多亏这里的医疗设备。
+[name="ミアロ"]ケガの具合は皆さん、落ち着いてきていますね。ここの医療設備のおかげです。
+[name="Miarow"]I've got most of the wounded stabilized, thanks to the medical supplies here.
+[name="미아로우"]부상자 대부분 안정을 찾았어요. 여기 있는 의약품 덕분입니다.
 
 [name="灰烬"]你的脸色很不好，没问题吧？
+[name="Ash"]顔色が悪いんだけど、大丈夫？
+[name="Ash"]You don't look so hot. Are you okay?
+[name="Ash"]안색이 안 좋아 보이는데？
 
 [name="米亚罗"]只是一晚上没睡，没有关系。
+[name="ミアロ"]一晩寝てないだけですので、大丈夫です。
+[name="Miarow"]I just haven't slept at all. I'll be fine.
+[name="미아로우"]괜찮아요. 어제 잠을 못 자서 그런 거니까요.
 
 [name="灰烬"]你需要多休息，如果我们中唯一的医生累倒了，就本末倒置了。
+[name="Ash"]先生もゆっくり休んでちょうだい。もし唯一のお医者さんが倒れでもしたら、元も子もないでしょ。
+[name="Ash"]You need rest. We'll be in big trouble if we lose our only doctor.
+[name="Ash"]좀 쉬어. 피로 때문에 우리 중 유일한 의사를 잃으면 큰일이니까.
 
 [name="米亚罗"]放心吧，我会注意的。
+[name="ミアロ"]お気遣いありがとうございます。気を付けますので。
+[name="Miarow"]Don't worry, I'll be careful.
+[name="미아로우"]걱정하지 마세요. 저도 나름대로 조심하고 있어요.
 
 [name="闪击"]说起来源石技艺。
+[name="Blitz"]ところで、アーツの話だが。
+[name="Blitz"]Speaking of Originium Arts.
+[name="Blitz"]오리지늄 아츠 이야기가 나와서 말인데.
 
 [name="闪击"]有没有那种，念一段咒语，然后一阵闪光之后病就好了的法术？
+[name="Blitz"]なんて言うかな……こう呪文を唱えると、ピカーって光って、病気が治るやつとかはないのか？
+[name="Blitz"]Don't they have some kind of magic where you say a spooky incantation and there's a big flash of light and... PRESTO! You're all healed up?
+[name="Blitz"]체력을 회복하는 아츠는 없어? 주문을 외우면 막 빛이 나오면서 모든 상처를 회복하는 그런 마법 같은 거.
 
 [name="米亚罗"]噗......
+[name="ミアロ"]プッ！
+[name="Miarow"]Erm...
+[name="미아로우"]푸핫.
 
 [name="米亚罗"]你在说什么啊，哈哈哈......
+[name="ミアロ"]何言ってるんですか、ハハハッ……
+[name="Miarow"]What are you talking about? Hahaha...
+[name="미아로우"]농담도 참, 아하하하……
 
 [name="闪击"]没有吗？那喝下去就能愈合伤口的治疗药水呢？也没有？
+[name="Blitz"]ないのか？　なら飲んだら傷口が塞がるポーションは？　そういうのもないのか？
+[name="Blitz"]No, then? What about like a healing potion that you drink it and all your wounds close right up? None of that either?
+[name="Blitz"]없어? 그럼 회복 포션은? 모든 상처를 단번에 치료하는 약…… 그런 것도 없어?
 
 [name="奥克芬"]那种东西只有科幻小说里才有。
+[name="オクフェン"]そんなのはSF小説でしかありませんよ。
+[name="Occphen"]That's the stuff of sci-fi novels.
+[name="오크픈"]그건 SF 소설에나 나오는 이야기죠.
 
 [name="米亚罗"]能够治愈伤痛的源石技艺确实存在，不过这一类源石技艺都是极难掌握的类型。
+[name="ミアロ"]ケガを治療するアーツは確かに存在しますが、そうしたアーツは習得できる人も限られるし、習得するのに時間もかかるので、実際に使える人は非常に珍しいんです。
+[name="Miarow"]There are Arts that can heal wounds, but they're a very difficult type of Arts to master.
+[name="미아로우"]상처를 치료하는 회복 아츠가 있긴 하지만, 숙달하기가 굉장히 어려워요.
 
 [name="米亚罗"]想要掌握这种源石技艺，施术者首先需要掌握全面的医学知识，了解不同种族的身体结构等等......
+[name="ミアロ"]そういったアーツをマスターするために、術者はまず全体的な医学知識を身につけ、様々な種族の身体構造を理解することなどが必要ですからね。
+[name="Miarow"]Before you can master healing Arts, you first have to have a complete understanding of medical science, you have to know the anatomical structures of all the different races, things like that...
+[name="미아로우"]거기다 회복 아츠를 배우려면 의료 지식부터 갖춰야 해요. 완벽히 숙달하려면 그만큼 더 많이 알아야 하고요. 예를 들면, 종족별 해부학 같은 것까지도요.
 
 [name="米亚罗"]不过，大部分医疗源石技艺的使用者也只能做到止血或是加速伤口愈合。
+[name="ミアロ"]医療アーツ使用者の大半は、止血や傷の回復を早める程度しかできません。
+[name="Miarow"]Also, most healing Arts users can only stop bleeding or speed up wound recovery. These Arts are very useful on the operating table, but in my experience they're no substitute for real medical skill.
+[name="미아로우"]하지만, 대부분의 의료 아츠 사용자들도 지혈이나 상처의 치유를 촉진하는 정도밖에는 할 수 없어요.
 
 [name="米亚罗"]这类源石技艺在手术台上非常重要，但在我的经验里，它们不能替代真正的医治。
+[name="ミアロ"]確かに手術台の上では非常に重要ですが、僕の経験上、本当の治療に取って代わることはできません。
+[name="Miarow"]Also, most healing Arts users can only stop bleeding or speed up wound recovery. These Arts are very useful on the operating table, but in my experience they're no substitute for real medical skill.
+[name="미아로우"]물론 수술대에선 굉장히 중요하겠지만, 제 경험상 그런 아츠는 진짜 치료를 대체할 순 없다고 봐요.
 
 [name="奥克芬"]医生，你会使用源石技艺吗？
+[name="オクフェン"]先生はアーツを使えるんですか？
+[name="Occphen"]Doctor, can you use Arts?
+[name="오크픈"]선생님은 아츠를 사용할 줄 아십니까?
 
 [name="米亚罗"]略懂一点......虽然没什么大用。
+[name="ミアロ"]少しだけ……ですが、役に立たないアーツです。
+[name="Miarow"]I have a little knowledge... not very useful though.
+[name="미아로우"]조금은요…… 별로 쓸만한 것도 아니지만요.
 
 [name="闪击"]这也太现实了......唉。
+[name="Blitz"]現実的すぎるだろうがよ……はぁ。
+[name="Blitz"]That's boringly realistic... *sigh*.
+[name="Blitz"]참 뻔하리만큼 현실적이네…… 하아……
 
 [name="闪击"]有魔法的世界也这么不方便。
+[name="Blitz"]魔法のある世界でもこんなに不便なんだな。
+[name="Blitz"]To think a world with magic could be so inconvenient.
+[name="Blitz"]마법이 있는 세계가 이렇게 불편할 줄이야.
 
 [name="闪击"]稍等，你刚才说了科幻小说？
+[name="Blitz"]……ん？　待て、さっきSF小説って言ったか？
+[name="Blitz"]Hold up, did you just say 'sci-fi novels'?
+[name="Blitz"]잠깐, 방금 SF 소설이라고 했지?
 
 [name="闪击"]我还真有点好奇你们世界的科幻小说是什么样的。
+[name="Blitz"]この世界のSF小説ってどんな内容なんだ？
+[name="Blitz"]Now I'm extra curious what your world's sci-fi novels talk about.
+[name="Blitz"]이런 세계에 있는 SF 소설은 대체 무슨 내용일지 엄청 궁금해지는데.
 
 [name="闪击"]在大一点的城市能找到书店吗？历史书籍呢？卖得贵吗？
+[name="Blitz"]もっと大きい街へ行けば、本屋があるってことなのか？　歴史に関する書籍は？　高いか？
+[name="Blitz"]Would we find a bookstore in a bigger city? Maybe some history books too? Are books expensive?
+[name="Blitz"]대도시에는 서점이 있겠지? 역사 책도 있을 거고? 그런 책은 보통 가격이 얼마나 해?
 
 [name="闪击"]我确实越来越感兴趣了。
+[name="Blitz"]なんか、だんだん興味が湧いてきたぜ。
+[name="Blitz"]I've gotten myself all worked up now.
+[name="Blitz"]생각만 해도 벌써부터 신이 나는데.
 
 [name="奥克芬"]你们几个还真是奇怪。
+[name="オクフェン"]皆さんは本当に変わってますね。
+[name="Occphen"]You're a weird bunch.
+[name="오크픈"]참 이상한 분들이군요.
 
 [name="奥克芬"]你们是从哪儿来的？哥伦比亚？维多利亚？
+[name="オクフェン"]一体どこから来たんです？　クルビアですか？　それともヴィクトリア？
+[name="Occphen"]Where are you from anyway? Columbia? Victoria?
+[name="오크픈"]다들 대체 어디서 오신 거죠? 컬럼비아? 빅토리아?
 
 [name="奥克芬"]你们说话的口音听起来像是好几十年前的维多利亚人......
+[name="オクフェン"]皆さんの言葉は何十年も前のヴィクトリア人のようですが……
+[name="Occphen"]You talk like you're Victorians, but like from a couple decades ago...
+[name="오크픈"]사용하는 말은 빅토리아어 같은데, 억양은 수십 년 전 억양이고……
 
 [name="闪击"]这个......我还真不知道怎么回答你。
+[name="Blitz"]それは……なんて答えればいいか、本当によくわかってないんだ。
+[name="Blitz"]Well... I'm not really sure how to answer that one.
+[name="Blitz"]음…… 이걸 뭐라고 해야 하나……
 
 [name="米亚罗"]科恩小姐他们来自一个很遥远的地方，那里甚至连矿石病都没有。
+[name="ミアロ"]コーエンさんたちはとても遠くからやってきたそうなんです。なんでも、鉱石病の患者すらいないらしいんですよ。
+[name="Miarow"]Miss Cohen and her friends came from very far away. From a place where Oripathy doesn't even exist.
+[name="미아로우"]코언 씨와 그 동료분들은 아주 멀리서 왔어요. 광석병조차 없는 먼 곳에서요.
 
 [name="奥克芬"]什么？？
+[name="オクフェン"]えっ？？
+[name="Occphen"]What? ?
+[name="오크픈"]뭐라고요??
 
 [name="灰烬"]......是这样。
+[name="Ash"]……そういうこと。
+[name="Ash"]...Yeah, that.
+[name="Ash"]……그래, 맞아.
 
 [name="奥克芬"]没有矿石病的国度，真的假的？
+[name="オクフェン"]鉱石病のない国？　本当ですか？
+[name="Occphen"]A country with no Oripathy? Really?
+[name="오크픈"]광석병이 없는 나라라고요? 정말입니까?
 
 [name="奥克芬"]没有矿石病，没有感染者，那岂不是也没有对感染者的歧视，大地上所有人都是平等的，多少仇恨打一开始就不存在？
+[name="オクフェン"]鉱石病がない…つまり感染者がいない。それって感染者に対する差別もないってことですよね？　大地に住むあらゆる人が皆平等で、憎しみなんて最初から存在していない？
+[name="Occphen"]No Oripathy, no Infected, that means no discrimination? A place with no hatred, where everyone's equal?
+[name="오크픈"]광석병도 없고 감염자도 없다는 건, 사람들 사이에 차별이나 혐오가 없다는 뜻이잖습니까. 모두가 동등하고 각자의 행동으로만 평가받는 세상이라니……
 
 [name="奥克芬"]我的妈啊，那得是什么样的好地方？
+[name="オクフェン"]なんてことだ！　そんな素晴らしい場所があるなんて！
+[name="Occphen"]Lordy loo. What kind of paradise is that?
+[name="오크픈"]맙소사, 거긴 대체 어떤 곳입니까?
 
 [name="闪击"]......
+[name="Blitz"]素晴らしい、ねぇ……
+[name="Blitz"]......
+[name="Blitz"]……
 
 [name="霜华"]......
+[name="Frost"]……
+[name="Frost"]......
+[name="Frost"]……
 
 [name="灰烬"]唉......
+[name="Ash"]はぁ……
+[name="Ash"]*Sigh*...
+[name="Ash"]하아……
 
 [name="奥克芬"]......好吧，看你们表情也知道了，就当我没问吧......
+[name="オクフェン"]……皆さんの表情を見て理解しました。聞かなかったことにしてください……
+[name="Occphen"]...Alright then. Your faces say it all. Just pretend I never asked...
+[name="오크픈"]……표정을 보니 대충 알 것 같군요. 방금 건 못 들은 걸로 해주시죠……
 
 [name="灰烬"]！
+[name="Ash"]！
+[name="Ash"]!
+[name="Ash"]!
 
 [name="霜华"]敌袭！
+[name="Frost"]敵襲！
+[name="Frost"]We're under attack!
+[name="Frost"]적 발견!
 
 [name="灰烬"]报告情况！
+[name="Ash"]情況報告を！
+[name="Ash"]Sitrep!
+[name="Ash"]상황 보고해!
 
 [name="战车"]这只是第一波，他们围上来了。
+[name="Tachanka"]囲まれてるぞ。今のは第一波にすぎない。
+[name="Tachanka"]This is just the first wave. They have us surrounded.
+[name="Tachanka"]방금은 첫 번째 공세였을 뿐이야. 완전히 포위당했어.
 
 [name="战车"]之前只是试探性的进攻。
+[name="Tachanka"]その前のはただの探りだったってわけだ。
+[name="Tachanka"]They were probing us with those earlier strikes.
+[name="Tachanka"]이전까지는 탐색전이었던 게 분명해.
 
 [name="霜华"]更多人正在靠近！
+[name="Frost"]さらに大勢が近付いて来てる！
+[name="Frost"]We've got more incoming!
+[name="Frost"]적이 더 온다!
 
 [name="灰烬"]陷阱呢？
+[name="Ash"]罠は？
+[name="Ash"]Your traps?
+[name="Ash"]네 전술 함정은?
 
 [name="霜华"]没有问题！
+[name="Frost"]問題ない！
+[name="Frost"]All good!
+[name="Frost"]문제없어!
 
 [name="灰烬"]注意补充一下爆炸物。
+[name="Ash"]爆発物の補給を気にしておいて。
+[name="Ash"]Watch your explosives.
+[name="Ash"]각자 가진 폭탄은 주의해서 다뤄.
 
 [name="灰烬"]闪击，注意左翼，不要让他们绕过来。
+[name="Ash"]Blitz、左翼に注意を！　相手が直進するように誘導して！
+[name="Ash"]Blitz, keep an eye on the left flank. Don't let them get the drop on us.
+[name="Ash"]Blitz, 왼쪽 측면 잘 감시해. 놈들이 틈을 노리고 들어오지 못하게 막아.
 
 [name="闪击"]明白。
+[name="Blitz"]了解。
+[name="Blitz"]Understood.
+[name="Blitz"]알겠습니다.
 
 [name="灰烬"]Lord，节约弹药！
+[name="Ash"]タチャンカ！　弾薬は節約して！
+[name="Ash"]Lord, conserve your ammo!
+[name="Ash"]군주님, 탄약은 아껴서 써줘!
 
 [name="战车"]没事，让他们来。
+[name="Tachanka"]ああ、わかってる。
+[name="Tachanka"]No problem. Let them come.
+[name="Tachanka"]알았다. 덤비라고 해.
 
 [name="灰烬"]眼观四路，谨防偷袭！
+[name="Ash"]視野を広げて、奇襲に警戒！
+[name="Ash"]Watch for surprise attacks!
+[name="Ash"]각자 단단히 준비하고!
 
 [name="灰烬"]让我看看他们有什么本事。
+[name="Ash"]相手がどれほどの実力か見てあげましょう。
+[name="Ash"]Let's see what they've got.
+[name="Ash"]어디 실력 좀 볼까.
 
 [name="战车"]他们来了！
+[name="Tachanka"]来るぞ！
+[name="Tachanka"]Here they come!
+[name="Tachanka"]놈들이 온다!
 
 [name="灰烬"]先别开枪......等他们再靠近一点。
+[name="Ash"]まだよ……もう少し引き付けて。
+[name="Ash"]Hold your fire... let them get a little closer.
+[name="Ash"]아직 쏘지 마…… 더 가까이 오게 해.
 
 [name="霜华"]九点钟方向！
+[name="Frost"]9時！
+[name="Frost"]Nine o'clock!
+[name="Frost"]9시 방향!
 
 [name="霜华"]Lord，正前方，敌人又站起来了！
+[name="Frost"]タチャンカ！　正面、敵がまた立ち上がった！
+[name="Frost"]Lord, the enemy's up, dead ahead!
+[name="Frost"]군주님, 전방 지근거리에 적 확인!
 
 [name="灰烬"]敌人倒下！
+[name="Ash"]敵！
+[name="Ash"]Enemy down!
+[name="Ash"]적 처치!
 
 [name="灰烬"]这些长角的大个子不好对付，瞄准头！
+[name="Ash"]角の生えたデカい奴は手強い！　頭を狙え！
+[name="Ash"]These big guys with the horns are tough. Go for headshots!
+[name="Ash"]뿔 달린 덩치들은 강해. 머리를 노려!
 
 [name="霜华"]灰烬！看那边！
+[name="Frost"]Ash！　あれ！
+[name="Frost"]Ash! Over there!
+[name="Frost"]Ash! 저기를 봐!
 
 [name="灰烬"]？！
+[name="Ash"]！？
+[name="Ash"]? !
+[name="Ash"]?!
 
 [name="灰烬"]那是什么！
+[name="Ash"]あれは……何だ！？
+[name="Ash"]What is that?!
+[name="Ash"]저건 대체?!
 
 [name="灰烬"]Lord！小心！
+[name="Ash"]タチャンカ！　危ない！
+[name="Ash"]Lord! Be careful!
+[name="Ash"]군주님! 조심해!
 
 [name="战车"]*俄语粗口*！
+[name="Tachanka"]*ロシア語スラング*！
+[name="Tachanka"](Russian profanity)!
+[name="Tachanka"]이 *러시아어 욕설*들이!
 
 [name="灰烬"]亚历山大！！
+[name="Ash"]アレクサンドル！！
+[name="Ash"]Alexsandr! !
+[name="Ash"]알렉산드르!!
 
 [name="战车"]我没事！
+[name="Tachanka"]心配するな。
+[name="Tachanka"]I'm okay!
+[name="Tachanka"]난 괜찮아!
 
 [name="战车"]先别管我！坚守防线！
+[name="Tachanka"]俺に構うな！　防衛線を守れ！
+[name="Tachanka"]Don't worry about me! Hold the line!
+[name="Tachanka"]괜찮으니 각자 자리를 지켜!
 
 [name="灰烬"]这是什么鬼东西......
+[name="Ash"]これは一体……何なの？
+[name="Ash"]What on earth is this!
+[name="Ash"]이것들은 대체……?
 
 [name="灰烬"]注意那些畸形的人形生物！不要躲在轻掩体后面！！
+[name="Ash"]人型の生物に注意して！　脆い遮蔽物に隠れてはダメ！！
+[name="Ash"]Watch out for those mutants! Light cover's no good! !
+[name="Ash"]저 돌연변이들 조심해! 이 정도 화력으로는 저놈들을 막지 못해!
 
 [name="巡林者"]专业的阵地构建，这四个人可不是等闲之辈。
+[name="レンジャー"]専門的且つ適切な布陣じゃな。あの四人、ずいぶん手慣れておる。
+[name="Rangers"]That's a proper formation. Those four know what they're doing.
+[name="레인저"]제대로 대형을 갖춰 교전 중이군. 저 넷은 실로 수준급이구먼.
 
 [name="巡林者"]铳器的声音......不......这种激烈的爆响，是速射型号的大型铳器。
+[name="レンジャー"]銃声……これほど強烈な爆音となれば、速射型の大型銃器じゃな。
+[name="Rangers"]Sounds like gunfire... No... Those are more intense shots. That's a big, rapid-fire gun.
+[name="레인저"]그리고 이 발포음은 총기의…… 아니…… 더 격렬해. 총이라 해도 매우 크고, 탄속이 빠른 총이야.
 
 [name="黑"]......他们被包围了。
+[name="シュヴァルツ"]……囲まれていますね。
+[name="Schwarz"]They're surrounded.
+[name="슈바르츠"]포위당했군요.
 
 [name="黑"]袭击者和攻击大宅的佣兵是同一拨人，不会错。
+[name="シュヴァルツ"]屋敷を襲撃した傭兵と同じ者たちです。間違いありません。
+[name="Schwarz"]It's the same mercenaries who were attacking the manor.
+[name="슈바르츠"]공격하는 이들은 저택을 습격한 용병과 동일한 자들입니다.
 
 [name="雷蛇"]......这些怪物，让我想起在龙门的经历。
+[name="リスカム"]……あのモンスターたち、龍門のことを思い出す。
+[name="Liskarm"]Those monsters remind me of what we saw in Lungmen.
+[name="리스캄"]저 괴물들은 우리가 용문에서 봤던 놈들과 비슷하고.
 
 [name="芙兰卡"]“宿主”和“牧群”。
+[name="フランカ"]「寄生」と「家畜」ね。
+[name="Franka"]The 'Host' and the 'Herd.'
+[name="프란카"]집주인과 밀려드는 방문객들이라……
 
 [name="芙兰卡"]但是不太一样。
+[name="フランカ"]でもちょっと違うみたい。
+[name="Franka"]But they're not really the same.
+[name="프란카"]비슷하긴 한데…… 똑같지는 않아.
 
 [name="巡林者"]手持大型铳器的佣兵和驱使神秘怪物战斗的佣兵......
+[name="レンジャー"]大型銃器を持つ傭兵と、正体不明のモンスターを駆使する傭兵たち……
+[name="Rangers"]Mercenaries carrying big guns and mercenaries commanding mysterious monsters...
+[name="레인저"]커다란 총기를 든 용병과 수수께끼의 괴물을 조종하는 용병……
 
 [name="巡林者"]局势在变化，平衡马上就要被打破。
+[name="レンジャー"]戦況は刻々と変化している、すぐにでも均衡は崩れるじゃろう。
+[name="Rangers"]The situation is changing. And the balance is about to break.
+[name="레인저"]상황이 변하고 있군. 균형이 깨지기 직전이야.
 
 [name="黑"]......怎么办？
+[name="シュヴァルツ"]……どうしますか？
+[name="Schwarz"]...What do we do?
+[name="슈바르츠"]……어떻게 할까요?
 
 [name="巡林者"]毋需犹豫，准备作战。
+[name="レンジャー"]悩むまでもなかろう……戦闘準備じゃ。
+[name="Rangers"]Don't hestiate. Prepare for battle.
+[name="레인저"]망설일 때가 아니네. 전투 준비를 하지.
 
 [name="巡林者"]操纵这种怪物作战的人绝非善类，不需要对他们手下留情。
+[name="レンジャー"]モンスターを操って戦う連中に、まっとうなやからはおらぬ。容赦はいらぬ。
+[name="Rangers"]Those vile beings who drivie this kind of monsters into battles deserve not a single bit of mercy.
+[name="레인저"]괴물을 부리는 자들이 선할 리 없으니, 봐주지 말게.
 
 [name="黑"]......明白。
+[name="シュヴァルツ"]……わかりました。
+[name="Schwarz"]Roger.
+[name="슈바르츠"]……알겠습니다.
 

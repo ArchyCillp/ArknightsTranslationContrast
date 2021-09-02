@@ -1432,6 +1432,90 @@ pro_d_2
 Assault
 맹공
 
+act12side_st01
+不期而遇
+
+act12side_tr01
+初来乍到
+
+act12side_01
+意外入选
+
+act12side_02
+首轮竞赛
+
+act12side_03
+拔铳相助
+
+act12side_st02
+中场休息
+
+act12side_04
+铁人三项
+
+act12side_05
+曲径求胜
+
+act12side_tr02
+插翅难飞
+
+act12side_06
+紧追猛赶
+
+act12side_st03
+请君入瓮
+
+act12side_07
+沙滩阻击
+
+act12side_08
+抢滩登陆
+
+act12side_09
+鼠胆龙威
+
+act12side_st04
+海浪照常拍岸
+
+act12side_ex01
+8号商业街
+
+act12side_ex02
+阳光沙滩
+
+act12side_ex03
+捉迷藏
+
+act12side_ex04
+入海口
+
+act12side_ex05
+海滨瞭望点
+
+act12side_ex06
+沙滩聚会
+
+act12side_ex07
+造浪池
+
+act12side_ex08
+欲擒故纵
+
+act12side_s01
+鬼使神差
+
+act12side_s02
+龙争鼠斗
+
+act12side_s03
+故友重逢
+
+act12side_s04
+最终调查
+
+act12side_mo01
+多索雷斯北郊
+
 act8mini_01
 侧面作战
 
@@ -1617,63 +1701,123 @@ Extraordinary rap battle!
 
 act17d0_st01
 拉马克行动
+コード「ラマルク」
+Operation Lamarck
+라마르크 작전
 
 act17d0_tr01
 萨尔贡岩漠
+サルゴン岩石荒野
+Sargon Desert
+사르곤 암석 사막
 
 act17d0_01
 外勤记录
+外勤記録
+Field Records
+외근 기록
 
 act17d0_02
 扩大防守范围
+防衛範囲拡大
+Defensive Range Expansion
+수비 범위 확대
 
 act17d0_03
 安全屋攻防战
+セーフハウス攻防戦
+Safehouse Battle
+안전가옥 공방전
 
 act17d0_04
 场地清理
+陣地掃討戦
+Sector Sweep
+현장 정리
 
 act17d0_05
 物资回收计划
+物資回収計画
+Supply Recovery Plan
+물자 회수 계획
 
 act17d0_06
 领主宅邸攻防战
+領主邸攻防戦
+Battle of the Lord's Manor
+아미르 저택 공방전
 
 act17d0_st02
 一场葬礼
+とある葬式
+A Funeral
+장례식
 
 act17d0_07
 地堡防线
+最終防衛線
+Bunker Defense Line
+벙커 방어선
 
 act17d0_08
 渗透作战
+浸透作戦
+Infiltration Battle
+침투 작전
 
 act17d0_st03
 行走于大地之上
+大地を行く
+Trekking Upon Terra
+대지 위를 걷다
 
 act17d0_ex01
 集群
+集団
+Gathering
+무리
 
 act17d0_ex02
 战场压力
+戦場の重圧
+Battlefield Pressure
+전장의 압력
 
 act17d0_ex03
 伏击战
+待ち伏せ
+Ambush
+매복전
 
 act17d0_ex04
 爆破战术
+爆破戦術
+Explosion Tactics
+폭파 전술
 
 act17d0_ex05
 场地优势
+地の利
+Battlefield Advantage
+지형의 우세
 
 act17d0_ex06
 反伏击
+待ち伏せ対策
+Counter-Ambush
+반매복
 
 act17d0_ex07
 要塞
+要塞
+Fortification
+요새
 
 act17d0_ex08
 另一种可能
+もう一つの可能性
+Another Possibility
+또 하나의 가능성
 
 act16d5_st01
 一钳之恩
@@ -3015,10 +3159,16 @@ Frozen Abandoned City
 
 camp_r_03
 废弃矿区
+廃棄鉱区
+Abandoned Mine
+버려진 광산 구역
 
 camp_r_04
 潮没海滨
 
 camp_r_05
 积水潮窟
+
+camp_r_06
+长泉镇郊野
 

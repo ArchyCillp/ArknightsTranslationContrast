@@ -1,456 +1,1140 @@
 [name="德鲁奇"]我们有多久没见面了，我亲爱的妹妹？
+[name="ドラッジ"]久しいな、愛する姉上。
+[name="Drudge"]How long has it been, dear sister?
+[name="드러지"]오 사랑스러운 내 동생아. 우리가 마지막으로 만난 게 언제였지?
 
 [name="德鲁奇"]半年，一年，还是更久？
+[name="ドラッジ"]半年、いや一年？　それ以上か？
+[name="Drudge"]Six months? A year? Longer?
+[name="드러지"]반년 전? 일 년 전? 아니, 훨씬 전이던가?
 
 [name="皮加尔"]德鲁奇，你袭击领主卫队，攻占领主府邸，这是在谋反！
+[name="ピカール"]ドラッジ！　貴様は領主たる父上の衛兵隊を襲撃し、その屋敷に攻め入った。これは謀反だぞ！
+[name="Picale"]Drudge, you attacked the Lord's men and stormed his manor. This is treason!
+[name="피케일"]드러지, 아미르의 병사를 공격하고 그것도 모자라 저택을 공격하다니…… 이건 반역이다!
 
 [name="德鲁奇"]谋反，哼，呵呵。
+[name="ドラッジ"]謀反だと？　フンッ、フフフッ。
+[name="Drudge"]Treason? Hah. Heh heh.
+[name="드러지"]반역? 흥, 하하하……
 
 [name="德鲁奇"]你应该知道，皮加尔。
+[name="ドラッジ"]ピカール、お前もわかっているはずだ。お前は相応しくないと。
+[name="Drudge"]You have to know, Picale.
+[name="드러지"]너도 알고 있었을 텐데, 피케일.
 
 [name="德鲁奇"]如果不是老头子那腐朽的脑袋里还想着保护他那些感染的......啊，劣质资产。
+[name="ドラッジ"]あの老いぼれの腐った脳みそに、あの感染した……粗悪品どもを守るなどという考えがなければ……
+[name="Drudge"]If it weren't for that rotting old man's obsession with protecting his infected... oh, distressed assets.
+[name="드러지"]그 썩어빠진 늙은이가 감염자를…… 아니, 열등한 자산을 보호하려고 집착하지만 않았어도……
 
 [name="德鲁奇"]这位子根本轮不到你坐。
+[name="ドラッジ"]お前がその地位を継ぐことはなかっただろう。
+[name="Drudge"]This wouldn't even be your place.
+[name="드러지"]너도 그런 자리까지 오르지 못했을 거란 걸.
 
 [name="德鲁奇"]冷静点，妹妹。
+[name="ドラッジ"]いいか？
+[name="Drudge"]Relax, girl.
+[name="드러지"]진정해라 동생아.
 
 [name="德鲁奇"]看看这个，这些玩具来自一位哥伦比亚的热心赞助商。
+[name="ドラッジ"]これを見ろ。こいつは熱烈なスポンサーがクルビアから送ってきたものだ。
+[name="Drudge"]Check out these toys from an enthusiastic Columbian donor.
+[name="드러지"]열성적인 컬럼비아 기증자가 보낸 이 장난감부터 한번 봐보는 게 어떻겠느냐.
 
 [Subtitle(text="狡猾的瑞柏巴敲了敲自己身后的设备。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="狡猾なレプロバは、自らの後ろにある機械をコツコツと叩いてみせる。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The cunning Reproba slaps the device behind him.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="교활한 리프로바가 자신의 뒤에 있는 장치를 툭 하고 건드렸다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="德鲁奇"]TSW-2号超声波冲击装置，高精尖工业产品，尚未投入实战的实验武器，唯一的缺点是尺寸太大。
+[name="ドラッジ"]TSW-2超音波衝撃装置。最新鋭の工業製品だ。まだ実戦には投入されていない実験機で、唯一の欠点はデカすぎるところだ。
+[name="Drudge"]The TSW-2 Ultrasonic Impact Unit, a product of advanced technology. It's experimental, never used in the field before. The only downside is the size.
+[name="드러지"]TSW-2호 초음파 충격 장치. 아직 실전에 투입된 적은 없는 실험용 무기지만, 첨단 기술로 무장한 공업 제품이지. 크기가 너무 크다는 게 흠이긴 하지만.
 
 [name="德鲁奇"]我把它藏在镇子里，可是花了不少时间。
+[name="ドラッジ"]こいつを町に隠すのに、かなりの時間を費やしたよ。
+[name="Drudge"]It was real tough to hide in town. Took a while.
+[name="드러지"]이 녀석을 이 마을에 묻는데 시간이 꽤 걸렸지.
 
 [name="德鲁奇"]把你从大宅里骗出来，也花了我不少时间。
+[name="ドラッジ"]お前を屋敷からおびき出すのにも、相当な時間を費やしたがな。
+[name="Drudge"]Took me a while to get you out of the mansion too.
+[name="드러지"]널 저택에서 끌어내는 것도 그렇고.
 
 [name="德鲁奇"]所以我亲爱的妹妹，你那强大的武技起到什么作用了？你坚强的意志又起到什么作用了？
+[name="ドラッジ"]ピカールよ……。お前のその強大な鍛え上げられた武術が何の役に立つ？　お前のその強い意志が何の役に立つ？
+[name="Drudge"]So tell me, my dearest little sister, what good are your sick moves now? What good is that iron will of yours?
+[name="드러지"]그러니 말해봐라, 내 친애하는 동생아. 네 무술 실력이 얼마나 도움이 됐지? 네 강철 같은 의지는 또 어떻고?
 
 [name="皮加尔"]......
+[name="ピカール"]……
+[name="Picale"]......
+[name="피케일"]……
 
 [name="德鲁奇"]你再看看这些朋友，这些萨卡兹朋友。
+[name="ドラッジ"]このサルカズたちを見てみろ。
+[name="Drudge"]And check out my friends here. Sarkaz friends.
+[name="드러지"]그럼 이제 내 친구들도 한 번 둘러보는 게 어떻겠느냐. 살카즈 친구들이다.
 
 [name="德鲁奇"]他们可不是那些死脑筋的魔族佬，他们同样来自哥伦比亚，他们为钱办事。
+[name="ドラッジ"]こいつらは脳筋の魔族たちとは違うぞ。彼らもクルビアからやってきた。金のためなら何でもやってくれる。
+[name="Drudge"]They're not your run-of-the-mill braindead devils. They're from Columbia too. They get the job done.
+[name="드러지"]이 녀석들은 평범한 전투광이 아니야. 이놈들도 컬럼비아 출신이지. 돈을 받고 일하며, 맡은 일은 반드시 완수한다.
 
 [name="德鲁奇"]你知道这代表着什么吗？
+[name="ドラッジ"]これが何を意味するか、わかるか？
+[name="Drudge"]You know what that means?
+[name="드러지"]그게 무슨 뜻인지 알겠느냐?
 
 [name="德鲁奇"]他们代表着更先进的东西，是你和老头子永远都不会明白的东西。
+[name="ドラッジ"]彼らはより現実的なんだよ。お前やクソ親父には永遠に理解できないだろうがな。
+[name="Drudge"]It means they're here for progress. Progress you and the old man could never understand.
+[name="드러지"]놈들은 더욱 진보된 사상을 갖고 있다는 거다. 너와 그 늙은이의 이해 범주를 아득히 뛰어넘는 사상을.
 
 [name="德鲁奇"]只要利润够高，金钱能汇聚的力量远超你的想象。
+[name="ドラッジ"]十分な利益を与えてさえやれば、姉上の想像をはるかに超える力が行使できるというわけだ。
+[name="Drudge"]Get your margins high enough and money's more powerful than you can possibly imagine.
+[name="드러지"]이윤이 크면 클수록 돈은 상상 이상의 강력한 힘을 발휘한다.
 
 [name="德鲁奇"]老头子坚持的那些狗屁不通的道理，现在又到哪儿去了？
+[name="ドラッジ"]クソ親父は手前勝手な理屈をこねていたが、今は何をしている？
+[name="Drudge"]Whatever happened to the old man's worthless logic?
+[name="드러지"]망할 영감은 자신만의 그 잘난 원칙과 도덕 규범을 더 믿었지. 그랬던 그 영감이 지금은 어디로 갔느냐? 응?
 
 [name="雇佣兵"]老大，我们在一间大房子里找到了这个。
+[name="傭兵"]ボス！　デカい部屋でこれを見つけましたぜ。
+[name="Mercenary"]Boss, we found this in a big house.
+[name="용병"]보스, 저택에서 이걸 찾았습니다.
 
 [name="德鲁奇"]给我。
+[name="ドラッジ"]見せろ。
+[name="Drudge"]Give it to me.
+[name="드러지"]이리 내.
 
 [name="德鲁奇"]哦，巴耶勒王酋的领主委任书。
+[name="ドラッジ"]ほう……バイエル首長の領主委任状か。
+[name="Drudge"]Oh, an appointment letter from the Lord Ameer of Bayalir.
+[name="드러지"]오, 바얄리르의 아미르가 주는 임명장이로군.
 
 [name="德鲁奇"]细纹草纸，绣边签名，砖块一样的巴耶勒文，还有这黝黑盖章。
+[name="ドラッジ"]きめ細やかな紙。豪華な縁取りのされたサイン、格式ばったバイエル公文書、それとしっかりと施されていた印。
+[name="Drudge"]Fine grain papyrus, embossed signature, blocky Bayalir writing, and this black seal.
+[name="드러지"]고운 파피루스에 수놓은 서명, 투박한 바얄리르 글씨체, 그리고 이 위엄 있는 검은 직인까지.
 
 [name="德鲁奇"]哼。
+[name="ドラッジ"]フンッ。
+[name="Drudge"]Hmph.
+[name="드러지"]하!
 
 [name="德鲁奇"]老头子呢？
+[name="ドラッジ"]クソ親父は……あの老いぼれはどうしてる？
+[name="Drudge"]Where's the old man?
+[name="드러지"]늙은이는?
 
 [name="雇佣兵"]没有，我们找遍了所有房间，大宅里只有一大群镇民，没看到你说的老头子。
+[name="傭兵"]見つけられませんでした。すべての部屋を探しましたが、屋敷にはたくさんの町民たちがいるだけで、それらしき者は見当たりませんでした。
+[name="Mercenary"]He wasn't there. We searched every room and found plenty of townsfolk, but not the old man you're talking about.
+[name="용병"]저택에 없었습니다. 모든 방을 수색했지만 마을 주민만 다수 발견했을 뿐, 보스가 말한 늙은이는 어디에도 없었습니다.
 
 [name="皮加尔"]父亲已经过世了，现在我就是长泉镇的领主。
+[name="ピカール"]父上はもうすでにこの世を去っている。今は私がロングスプリングの領主だ。
+[name="Picale"]Father is dead. I am the Lord of Long Spring now.
+[name="피케일"]아버지는 돌아가셨다. 이젠 내가 롱스프링의 아미르다.
 
 [name="皮加尔"]你违抗领主，就是违抗王酋，你已经死罪难逃了！
+[name="ピカール"]領主に逆らうということは、首長に逆らうということだ。お前はもう死罪の運命からは逃れられない！
+[name="Picale"]You have disobeyed your Lord, and in so doing disobeyed the Lord Ameer, and for that your punishment is death!
+[name="피케일"]넌 아미르를 배신했고, 이는 아미르의 명에 불복했다는 의미다. 이에 대한 처벌은 사형이란 걸 모르진 않겠지!
 
 [name="德鲁奇"]这就是你和那个老东西想出来的计谋？
+[name="ドラッジ"]それはお前とあの老いぼれで考え出した策略か？
+[name="Drudge"]That's the plan you and the old man came up with?
+[name="드러지"]이게 너와 그 늙은이가 생각해 낸 작전이냐?
 
 [name="德鲁奇"]哈哈哈......
+[name="ドラッジ"]ハハハッ……
+[name="Drudge"]Hahaha...
+[name="드러지"]하하하……
 
 [name="德鲁奇"]哈哈哈哈哈......
+[name="ドラッジ"]ハハハハハッ……
+[name="Drudge"]Hahahahaha...
+[name="드러지"]하하하하하……
 
 [name="皮加尔"]唔呃！
+[name="ピカール"]……！
+[name="Picale"]Grrgh!
+[name="피케일"]으윽!
 
 [name="德鲁奇"]老东西真的是越来越蠢了。你们居然觉得依靠王酋就能将我一军，你真的是天真得可笑。
+[name="ドラッジ"]愚か者どもが……まさかお前たち、首長の名を出せば俺が負けを認めるでも思っていたか？　笑わせてくれる。
+[name="Drudge"]This is getting stupid. You really think you can use the Lord Ameer to outmaneuver me? Don't make me laugh.
+[name="드러지"]어리석긴. 아미르라는 직함을 들이밀면 날 이길 수 있으리라 생각했나? 순진하다 못해 어처구니가 없을 지경이군.
 
 [name="德鲁奇"]死罪？
+[name="ドラッジ"]死罪だと？
+[name="Drudge"]You're gonna execute me?
+[name="드러지"]날 처형하겠다고?
 
 [name="德鲁奇"]老头子引以为豪的瑞柏巴卫队现在就躺在巷子里身首异处。
+[name="ドラッジ"]じじいが誇りに思っていたレプロバの衛兵隊は、今頃、道端に惨めな姿をさらしているだろうよ。
+[name="Drudge"]The old man's proud Reproba guards are lying headless in an alley somewhere right now.
+[name="드러지"]늙은이가 그토록 자랑스럽게 여기던 리프로바 병사들도 골목 어딘가에서 목을 잃은 시체로 나뒹굴고 있는 와중에 무슨! 지금 날 막을 자가 있긴 한가? 응?
 
 [name="德鲁奇"]最棘手的领主卫队已经没了，你觉得这里还有谁能管我？
+[name="ドラッジ"]最も手を焼くはずの領主の衛兵隊はもういない。ここに俺に逆らうだけの力を持った奴がまだいるとでも？
+[name="Drudge"]Those tough guards are gone now, and who's left to stop me?
+[name="드러지"]가장 성가신 아미르의 위병들이 이젠 없어졌는데, 날 막을 자가 있긴 하냐고!
 
 [name="皮加尔"]你这个丧心病狂的废物！他们从小看着你长大！你竟然......
+[name="ピカール"]狂人が！　衛兵隊の人たちには、貴様も小さい頃から世話になっているだろうに！
+[name="Picale"]You're a psychotic piece of shit! You grew up with them! They treated you like their own son! I didn't think you were this far gone...
+[name="피케일"]이 뻔뻔한 사이코패스 미치광이가! 넌 그 병사들과 함께 자랐잖아! 그들은 널 아들처럼 여겨줬는데! 어떻게 이렇게까지……
 
 [name="德鲁奇"]他们不该挡我的道。
+[name="ドラッジ"]だが、俺の行く手を阻むべきではなかったな。
+[name="Drudge"]They shouldn't have gotten in my way.
+[name="드러지"]그러니 애초에 날 방해하지 말았어야지.
 
 [name="德鲁奇"]你也不该。
+[name="ドラッジ"]お前も、俺のために道を開けるべきだった。
+[name="Drudge"]And neither should you.
+[name="드러지"]너도 그렇고.
 
 [name="德鲁奇"]看在我们血脉相连的份上，我就讲得再直白一点，便于你理解吧，妹妹。
+[name="ドラッジ"]我らの血縁に免じて、お前でも理解できるように教えてやろう。
+[name="Drudge"]We're blood, so let me make it a little clearer for you, sis. I wanna be sure you understand.
+[name="드러지"]그래도 같은 핏줄을 타고난 정도 있으니, 네 그 작디작은 뇌도 받아들일 수 있도록 친절하게 설명해 주마, 동생아.
 
 [name="德鲁奇"]是，你现在是萨尔贡的领主，没错。
+[name="ドラッジ"]お前は今やサルゴンの領主。たしかにその通りだ。
+[name="Drudge"]Yes, you're a Lord of Sargon now. Sure.
+[name="드러지"]그래, 넌 지금 사르곤의 아미르다. 그 점은 확실하지.
 
 [name="德鲁奇"]而我呢？我只是一个被家族放逐的流浪汉。
+[name="ドラッジ"]そして俺は、家族に追い出されたただの流れ者だ。
+[name="Drudge"]But me? I'm a bum, abandoned by my family.
+[name="드러지"]반면에 난 부랑자일 뿐이다. 그것도 가족에게 추방당한……
 
 [name="德鲁奇"]但过个几年，等到你不幸亡故，再由我亲自去一趟巴耶勒王廷。
+[name="ドラッジ"]しかし数年後、お前が「不幸にも」息を引き取った時、俺は血統を明かしバイエル王廷へ出向き、鉱産物や財を手土産に首長に頭を垂れてみせるさ。
+[name="Drudge"]And in a few years, when you meet an unfortunate end, I'll go to the Court of Bayalir.
+[name="드러지"]요 몇 년 동안 줄곧, 네가 죽고 내가 직접 바얄리르 왕정으로 갈 날만을 기다렸다.
 
 [name="德鲁奇"]我既有血统，又带着矿产和大笔财富向王酋表忠心，你觉得他会不会把长泉镇重新分封给我？
+[name="ドラッジ"]そうすれば誰がこの土地の領主になるのか、もう明白だろ？
+[name="Drudge"]With my pedigree, plus the resources and wealth to prove my loyalty to the Lord Ameer, do you think he might just hand Long Spring back to me?
+[name="드러지"]아미르의 핏줄을 타고난 내가 막대한 광산물과 돈으로 아미르에게 충성심을 보인다 한들, 그 늙은이가 롱스프링을 나한테 넘겨줬을 것 같아?
 
 [name="皮加尔"]你！
+[name="ピカール"]……貴様！
+[name="Picale"]No!
+[name="피케일"]이게 진짜!
 
 [name="德鲁奇"]我再好心地做一个假设，如果你上任没多久就在一场血战中丧生。
+[name="ドラッジ"]別の道もあるぞ。仮にお前は就任してすぐに争いの中不幸にも命を落とす。
+[name="Drudge"]Why don't I give you another scenario: let's say you die in battle just a short while after taking charge.
+[name="드러지"]좀 더 선의를 베풀어 시나리오를 하나 더 짜보자고. 네가 아미르가 되고 얼마 지나지 않아 전투 중에 죽었다 치자.
 
 [name="德鲁奇"]我把你的遗体献给王酋，假若你有幸成为长生军的一员，我会不会因此获得更多好处？
+[name="ドラッジ"]その死体を首長に捧げ、お前も不死軍の一員となることができれば、俺もさらなるご褒美を手に入れる。いいことずくめだと思わないか？
+[name="Drudge"]Then I hand your corpse over to the Lord Ameer, and get to join the Zhayedan, would that work out better for me?
+[name="드러지"]그래서 내가 네 시체를 선대 아미르에게 바쳐 네가 다행히도 자예단이 된다면, 나한텐 그게 더 이익이지 않겠어?
 
 [name="皮加尔"]德鲁奇，你这个卑鄙无耻的败类！
+[name="ピカール"]ドラッジ！　この卑劣で恥知らずな愚図め！　貴様が弟だなど、吐き気がする！
+[name="Picale"]Drudge, you're a disgusting, horrific, disaster of a person!
+[name="피케일"]드러지, 네놈은 정말 뻔뻔하기 그지없구나!
 
 [name="德鲁奇"]别这么激动，妹妹。
+[name="ドラッジ"]そう感情的になるな、姉上よ。
+[name="Drudge"]You're getting excited, sis.
+[name="드러지"]너무 흥분하지 말라고, 내 사랑스러운 동생아.
 
 [name="德鲁奇"]当然，前述内容都只是我的假设，假设不会成真，这只是兄妹谈心。
+[name="ドラッジ"]もちろん、今の話はただの仮定だ。実現するなど俺は一言も言っていない。ただの姉弟での雑談だ。
+[name="Drudge"]All that's just hypothetical. It's not real. We're having a brother-sister talk here.
+[name="드러지"]내가 방금 말한 건…… 그냥 다 비현실적이고 시나리오일 뿐이잖아? 그저 남매간의 대화를 좀 흥미진진하게 만든 정도지.
 
 [name="德鲁奇"]因为我早就想好了更适合你的去处。
+[name="ドラッジ"]なぜなら俺は、お前にとってそれ以上に相応しい行き場を用意してあるからな。
+[name="Drudge"]Because I know a much better place for you.
+[name="드러지"]그럼 이제 현실적인 이야기를 해주마. 그것보다 훨씬 좋고 네게 어울리는 결말을 내 친히 준비해왔거든.
 
 [name="德鲁奇"]看到这些身上带石块的东西吗？
+[name="ドラッジ"]体に石を付けた連中が見えるか？
+[name="Drudge"]See these things with the rocks on them?
+[name="드러지"]몸에 '바위'가 들러붙은 저 불쌍한 괴물이 보이나?
 
 [name="德鲁奇"]既然你那么愿意保护感染者，不妨就加入他们吧。
+[name="ドラッジ"]連中を守りたいのなら、仲間に加わればいいのさ。
+[name="Drudge"]If you're so eager to protect the Infected, why not join 'em?
+[name="드러지"]감염자를 그렇게 지켜주고 싶다면 너도 감염자가 되는 게 어떻겠느냐? 응?
 
 [name="皮加尔"]德鲁奇！
+[name="ピカール"]ドラッジ！　貴様！！
+[name="Picale"]Drudge!
+[name="피케일"]드러지!
 
 [name="德鲁奇"]等你因此而亡的时候，我会找个山洞把你填进去。
+[name="ドラッジ"]お前が死んだ暁には、山の洞窟にお前を入れてやろう。
+[name="Drudge"]Once you die from it, I'll find a nice cave to bury you in.
+[name="드러지"]변이가 끝나고 나면 널 집어넣을 동굴도 찾아주마.
 
 [name="德鲁奇"]这样，你和老头就能看着我是怎么把矿洞底下深藏的源石挖出来，让长泉镇变成整个巴耶勒的矿产中心。
+[name="ドラッジ"]そうすれば、坑道の奥底に眠る源石を俺がどうやって掘り出すかを……そしてロングスプリングがバイエルの鉱産業の中心になっていく様を、じじいと一緒に見られるだろう。
+[name="Drudge"]Then you and the old man can watch me dig out the Originium buried under the mines and turn Long Spring into the mineral heart of Bayalir.
+[name="드러지"]그럼 너와 늙은이 둘이서, 내가 광산에 묻힌 오리지늄을 전부 파내고 이 롱스프링을 바얄리르의 광산 중심지로 바꾸는 모습을 함께 지켜볼 수 있을 거다.
 
 [name="德鲁奇"]怎么，不说话了？
+[name="ドラッジ"]どうした？　言葉が出ないか？
+[name="Drudge"]So, what do you think?
+[name="드러지"]왜 그러지? 너무 감격스러워서 말을 잃었나?
 
 [name="皮加尔"]......你在出卖你的家族，出卖这片土地！我诅咒你，德鲁奇，你不得好死！
+[name="ピカール"]貴様は家族を裏切り、この土地までをも裏切った！　呪ってやる！　ドラッジ！！　ろくな死に方をできると思うな！
+[name="Picale"]...You sold out your family, and sold out our land! I curse you, Drudge. May you die a horrible death!
+[name="피케일"]……넌 네 혈족과 우리의 영토를 팔았어! 죽어라, 드러지. 그냥 죽어버려!
 
 [name="德鲁奇"]随你开心，我亲爱的妹妹，你想咒多久就咒多久，趁你还有本事说话。
+[name="ドラッジ"]勝手にするがいいさ、愛しい姉よ。好きなだけ呪えばいい。まだ口がきけるうちにな。
+[name="Drudge"]Whatever makes you happy, sis. Curse away. Use that voice while you've still got it.
+[name="드러지"]그런 말을 해서 기분이 나아진다면야 어디 마음껏 외쳐라. 있는 힘껏 저주를 퍼부어. 아직 말할 목소리가 남아있을 때 말이지.
 
 [name="德鲁奇"]那就这样吧。
+[name="ドラッジ"]じゃあな。
+[name="Drudge"]I guess we're done here.
+[name="드러지"]이제 더 이상 네게 볼 일은 없다.
 
 [name="德鲁奇"]（哥伦比亚语）你，过来。
+[name="ドラッジ"]（クルビア語）お前、来い。
+[name="Drudge"](Columbian) You, come here.
+[name="드러지"](컬럼비아어) 너, 이리 와라.
 
 [name="萨卡兹雇佣兵"]（哥伦比亚语）老板，你说。
+[name="サルカズ傭兵"]（クルビア語）ああ。
+[name="Sarkaz Mercenary"](Columbian) What is it, Boss?
+[name="살카즈 용병"](컬럼비아어) 무슨 일이십니까, 보스?
 
 [name="德鲁奇"]（哥伦比亚语）把那些感染者带到学者那边去。
+[name="ドラッジ"]（クルビア語）あの感染者たちを科学者の所へ連れて行け。
+[name="Drudge"](Columbian) Bring the Infected to the egghead.
+[name="드러지"](컬럼비아어) 감염자들을 그 박사에게 데려가라.
 
 [name="米亚罗"]咳咳......咳......
+[name="ミアロ"]ゴホッゴホッ……ゴホッ……
+[name="Miarow"]*cough* *cough*...
+[name="미아로우"]콜록콜록…… 콜록……
 
 [name="萨卡兹雇佣兵"]（哥伦比亚语）好的，我把他们带给科学家。
+[name="サルカズ傭兵"]（クルビア語）わかった。
+[name="Sarkaz Mercenary"](Columbian) Right. I'm on it.
+[name="살카즈 용병"](컬럼비아어) 알겠습니다.
 
 [name="萨卡兹雇佣兵"]（哥伦比亚语）这个年轻人呢？看起来快不行了。
+[name="サルカズ傭兵"]（クルビア語）この若いのは？　もうダメそうだが。
+[name="Sarkaz Mercenary"](Columbian) What about this kid? Looks like he's on his way out.
+[name="살카즈 용병"](컬럼비아어) 이 꼬맹이는 어찌할까요? 금방이라도 죽을 것 같습니다만.
 
 [name="德鲁奇"]（哥伦比亚语）是死是活都带过去。
+[name="ドラッジ"]（クルビア語）生きてても死んでても同じようなもんだ。全部連れて行け。
+[name="Drudge"](Columbian) Bring him, dead or alive.
+[name="드러지"](컬럼비아어) 데려가. 그놈이 감염자라면 살았건 죽었건 데려오라고 했으니.
 
 [name="德鲁奇"]（哥伦比亚语）至于我妹妹。
+[name="ドラッジ"]（クルビア語）俺の姉に関しては……
+[name="Drudge"](Columbian) As for my sister...
+[name="드러지"](컬럼비아어) 그리고 내 동생은……
 
 [name="德鲁奇"]（哥伦比亚语）把她变成感染者，你们萨卡兹人肯定知道怎么弄。
+[name="ドラッジ"]（クルビア語）あの女を感染させろ。お前らサルカズ人なら、その方法はよくわかっているはずだ。
+[name="Drudge"](Columbian) Turn her Infected. You Sarkaz must know how to do it.
+[name="드러지"](컬럼비아어) 감염자로 만들어라. 너희 살카즈라면 방법을 알고 있겠지.
 
 [name="萨卡兹雇佣兵"]（哥伦比亚语）明白。
+[name="サルカズ傭兵"]（クルビア語）了解。
+[name="Sarkaz Mercenary"](Columbian) Roger.
+[name="살카즈 용병"](컬럼비아어) 물론입니다.
 
 [name="萨卡兹雇佣兵"]（哥伦比亚语）不过这可不是合同规定的工作内容，得加钱。
+[name="サルカズ傭兵"]（クルビア語）だがそれは契約には含まれていない。報酬の追加を頼む。
+[name="Sarkaz Mercenary"](Columbian) But that isn't in our contract. There'll be an extra fee.
+[name="살카즈 용병"](컬럼비아어) 다만, 이건 계약에 없던 내용입니다. 나중에 추가 요금을 지급하셔야 할 겁니다.
 
 [name="德鲁奇"]（哥伦比亚语）别那么多废话。往长远看，等我们的事成了，矿山运作起来，有的是钱可分。
+[name="ドラッジ"]（クルビア語）長い目で商売を考えろ。全てうまく行って、鉱山が稼働し始めれば、金など湯水のように湧いてくる。
+[name="Drudge"](Columbian) Save it. You know there'll be plenty of money to go around once our work here is done and the mine is up and running.
+[name="드러지"](컬럼비아어) 그만. 이번 일이 끝나고 광산을 다시 열면 네놈들에게 돌아갈 돈은 차고 넘칠 테니, 당장은 군말 말고 시키는 대로 해라.
 
 [name="萨卡兹雇佣兵"]你可真是有个好哥哥。
+[name="サルカズ傭兵"]いい弟を持ったな。
+[name="Sarkaz Mercenary"]What a nice brother you have there.
+[name="살카즈 용병"]참 좋은 오빠를 뒀군그래.
 
 [name="皮加尔"]（闭上了眼睛）
+[name="ピカール"]（目をつむる）
+[name="Picale"](Closes eyes)
+[name="피케일"](눈을 감는다)
 
 [name="萨卡兹雇佣兵"]（举起武器）
+[name="サルカズ傭兵"]（武器を振りかぶる）
+[name="Sarkaz Mercenary"](Raises weapon)
+[name="살카즈 용병"](무기를 든다)
 
 [name="萨卡兹雇佣兵"]呃......
+[name="サルカズ傭兵"]うぅ……
+[name="Sarkaz Mercenary"]Erm...
+[name="살카즈 용병"]으윽……
 
 [name="雇佣兵"]还有敌人！架盾，保护头儿！
+[name="傭兵"]敵がいる！　盾を構えろ！！　ボスを守れ！
+[name="Mercenary"]We're under attack! Get a shield up, protect the boss!
+[name="용병"]적이다! 방패 들어, 보스를 지켜라!
 
 [name="雇佣兵"]啊！
+[name="傭兵"]あっ！
+[name="Mercenary"]Wha?!
+[name="용병"]뭐?!
 
 [name="德鲁奇"]怎么回事！
+[name="ドラッジ"]どうした！
+[name="Drudge"]What's happening?!
+[name="드러지"]무슨 일이냐!
 
 [name="雇佣兵"]头儿，还有敌人！
+[name="傭兵"]ボス、敵が紛れ込んでいます！
+[name="Mercenary"]Boss, we've got company!
+[name="용병"]보스, 적입니다!
 
 [name="德鲁奇"]领主卫队的人不是都被干掉了吗！
+[name="ドラッジ"]領主の衛兵隊は全員片付けたんじゃねぇのか！
+[name="Drudge"]I thought you took care of all the guardsmen!
+[name="드러지"]아미르의 위병들은 전부 처치했다면서!
 
 [name="雇佣兵"]我看见了！我看见了！那是个......
+[name="傭兵"]見ました！　俺は……俺は見ました！　あれは……
+[name="Mercenary"]I saw! I saw! It's...
+[name="용병"]보입니다! 저 앞에! 적이……
 
 [name="雇佣兵"]呃啊！
+[name="傭兵"]グハッ！
+[name="Mercenary"]Aagh!
+[name="용병"]아악!
 
 [name="德鲁奇"]术师，快让怪物动起来！
+[name="ドラッジ"]術師！　早くモンスターを動かせ！
+[name="Drudge"]Caster, get the monsters moving!
+[name="드러지"]캐스터, 괴물을 움직여라!
 
 [name="术师雇佣兵"]稍等......我看看......这个要......
+[name="術師傭兵"]待て……今やる。これには……
+[name="Mercenary Caster"]Wait... I see... It's...
+[name="캐스터 용병"]기다려 주십시오…… 지금 하고 있습니다……
 
 [name="雇佣兵"]动作搞快一点！
+[name="傭兵"]早くしろ！
+[name="Mercenary"]Hurry!
+[name="용병"]빨리!
 
 [name="雇佣兵"]啊啊啊！我的肩膀！我的肩膀！
+[name="傭兵"]……うあああ！　肩！　俺の肩が！
+[name="Mercenary"]Ahhhh! My shoulder! My shoulder!
+[name="용병"]아아아악! 어깨! 어깨가!
 
 [name="萨卡兹雇佣兵"]不要慌乱，敌人在哪？
+[name="サルカズ傭兵"]落ち着け！　敵はどこだ？
+[name="Sarkaz Mercenary"]Don't panic! Where's the enemy?
+[name="살카즈 용병"]팔이 날아간 게 아니라면 그 주둥이 좀 다물지그래. 적은 어디 있지?
 
 [name="雇佣兵"]没......没看到！
+[name="傭兵"]わ……わからない！
+[name="Mercenary"]I... I don't see them!
+[name="용병"]아…… 안 보여!
 
 [name="萨卡兹雇佣兵"]先撤退，敌人有弓弩，别待在空旷地！
+[name="サルカズ傭兵"]まずは撤退だ！　敵にクロスボウ使いがいる！　開けた場所にとどまるな！
+[name="Sarkaz Mercenary"]Fall back. They've got crossbows. Get to cover!
+[name="살카즈 용병"]물러나. 놈들은 크로스보우를 사용한다. 시야에서 벗어나 엄폐하라!
 
 [name="萨卡兹雇佣兵"]掩护德鲁奇老板，他可不能出事！
+[name="サルカズ傭兵"]ボスを守れ！　指一本触れさせるな！
+[name="Sarkaz Mercenary"]Cover Drudge! We can't let anything happen to him!
+[name="살카즈 용병"]드러지 님을 엄호해! 무슨 일이 있어도 보스를 지켜!
 
 [name="雇佣兵"]我看到了！是个菲林！
+[name="傭兵"]見つけた！　フェリーンだ！
+[name="Mercenary"]I saw! It's a Feline!
+[name="용병"]놈이 보인다! 필라인이야!
 
 [name="雇佣兵"]小心！撤退！撤退！
+[name="傭兵"]気を付けろ！　撤退だ！　撤退！
+[name="Mercenary"]Look out! Retreat! Retreat!
+[name="용병"]퇴각! 퇴각해라! 이곳에서 벗어나라!
 
 [name="黑"]......
+[name="シュヴァルツ"]……
+[name="Schwarz"]......
+[name="슈바르츠"]……
 
 [name="皮加尔"]是你......你是罗德岛的......
+[name="ピカール"]お前……お前はロドスの……
+[name="Picale"]You... You're with Rhodes Island...
+[name="피케일"]너…… 넌 로도스 아일랜드의……
 
 [name="黑"]你还能动吗，瑞柏巴？
+[name="シュヴァルツ"]まだ動けますか？　レプロバさん。
+[name="Schwarz"]Can you move, Reproba?
+[name="슈바르츠"]움직일 수 있으십니까, 리프로바?
 
 [name="皮加尔"]谢谢......
+[name="ピカール"]ああ……かたじけない。
+[name="Picale"]Thanks...
+[name="피케일"]고맙다……
 
 [name="源石畸变体"]嘎......
+[name="オリジニュータント"]グオォ……
+[name="Originiutant"]Gaa...
+[name="오리지뉴턴트"]크르르르르……
 
 [name="术师雇佣兵"]好，动起来了。
+[name="術師傭兵"]よし、動き出した。
+[name="Mercenary Caster"]Okay, it's working.
+[name="캐스터 용병"]가동 완료. 이제 움직입니다.
 
 [name="术师雇佣兵"]她们没有胜算的，哈哈哈。
+[name="術師傭兵"]これで奴らに勝ち目はない……ハハハッ。
+[name="Mercenary Caster"]This isn't over yet. Hahaha.
+[name="캐스터 용병"]놈들은 이제 끝입니다. 하핫.
 
 [name="德鲁奇"]哼，那老家伙做的玩具也就这时候还有点用处。
+[name="ドラッジ"]フンッ、あの老いぼれが作ったおもちゃも少しは役に立つか。
+[name="Drudge"]Hmph, the old man's toys can only be useful at a time like this.
+[name="드러지"]흥, 늙은이의 장난감도 이럴 때는 꽤 쓸만하군.
 
 [name="德鲁奇"]其他人和怪物一起上，把她们解决掉。
+[name="ドラッジ"]他の奴もモンスターと一緒に行け！　奴らを片付けろ。
+[name="Drudge"]You, take the monsters and finish them off.
+[name="드러지"]너, 괴물들을 데려가 놈들을 끝장내라.
 
 [name="萨卡兹雇佣兵"]明白。
+[name="サルカズ傭兵"]了解。
+[name="Sarkaz Mercenary"]Roger.
+[name="살카즈 용병"]알겠습니다.
 
 [name="黑"]这里敌人太多，我没法保证能让你平安离开。
+[name="シュヴァルツ"]敵が多すぎます。無事に撤退できる保証はできません。
+[name="Schwarz"]There's too many. I can't guarantee your safe escape.
+[name="슈바르츠"]적이 너무 많습니다. 안전한 퇴로를 확보해 드리긴 어려울 것 같습니다.
 
 [name="皮加尔"]这就够了。
+[name="ピカール"]いや、これで十分。
+[name="Picale"]This will do.
+[name="피케일"]상관없다.
 
 [name="皮加尔"]我的武器在哪？
+[name="ピカール"]私の武器は？
+[name="Picale"]Where are my weapons?
+[name="피케일"]내 무기는 어디 있지?
 
 [name="黑"]你要做什么？
+[name="シュヴァルツ"]何をする気ですか？
+[name="Schwarz"]What for?
+[name="슈바르츠"]그게 왜 필요하지?
 
 [name="皮加尔"]德鲁奇能做到这一步都是我的疏忽。
+[name="ピカール"]ドラッジがここまでに至ったのは、すべて私の不注意。
+[name="Picale"]It's my fault Drudge turned out like this.
+[name="피케일"]이 지경이 되도록 드러지의 속셈을 눈치채지도, 막지도 못한 건 다 내 탓이다.
 
 [name="皮加尔"]我没有脸面去见长眠的父亲......
+[name="ピカール"]眠りについた父上に合わせる顔がない……
+[name="Picale"]I can't face my late father...
+[name="피케일"]이대로라면 아버지를 뵐 낯이 없어……
 
 [name="皮加尔"]但就算死，我也要把这叛徒的心挖出来给长泉陪葬！
+[name="ピカール"]たとえこの身に代えても、裏切り者の心臓をくり抜いてロングスプリングのために葬らねば！
+[name="Picale"]But I will carve out that traitor's heart and bury it in Long Spring if it's the last thing I do!
+[name="피케일"]적어도 이 목숨 다 바쳐 그 배신자의 심장을 도려내 롱스프링에 묻어버리겠다!
 
 [name="黑"]别冲动，敌人太多，这样行动必死无疑，你需要为这座城镇活下来。
+[name="シュヴァルツ"]落ち着いてください。今はこの場から生きて抜け出すことが最優先です。あなたにはこの町のためにも生き延びてもらわなければなりません。
+[name="Schwarz"]Don't be hasty, there's too many of them. Getting yourself killed won't help the town survive.
+[name="슈바르츠"]진정하십시오. 적이 너무 많습니다. 피케일 님이 여기서 쓰러진다면 마을은 살아남지 못합니다. 피케일 님이 살아야 마을도 삽니다.
 
 [name="黑"]我已经给其他人发了信号，他们很快就到。
+[name="シュヴァルツ"]すでに仲間に信号を送っています、すぐに到着するはずです。
+[name="Schwarz"]I've sent out the signal. They should be here in a minute.
+[name="슈바르츠"]이미 다른 사람들에게 신호를 보내 놓았으니, 금방 도착할 겁니다.
 
 [name="萨卡兹雇佣兵"]老板，那些佣兵和罗德岛的人正在攻击我们。
+[name="サルカズ傭兵"]ボス、領主の傭兵たちとロドスの奴らが攻撃して来てる。
+[name="Sarkaz Mercenary"]Boss! Those mercenaries and Rhodes Island are assaulting us.
+[name="살카즈 용병"]그 용병들과 로도스 아일랜드 놈들이 우릴 공격하고 있습니다.
 
 [name="德鲁奇"]怕什么，这宅邸固若金汤，就凭几个佣兵又能怎么样。
+[name="ドラッジ"]何をビビってやがる！　この屋敷は鉄壁の守りを誇る。傭兵が数人来たところで何ほどのこともない。
+[name="Drudge"]What are you afraid of? With this mansion tough as iron, I don't believe those mercenaries can cause us any harm.
+[name="드러지"]뭘 무서워하는 거냐, 이 저택은 난공불락의 요새 같은 곳이다. 몇 안 되는 놈들이 뭘 어떻게 할 순 없을 거다.
 
 [name="德鲁奇"]让术师操纵怪物干掉那个菲林。其他人守住入口。
+[name="ドラッジ"]フェリーンを片付けるよう、術師に命令させろ。他の奴は入り口を守れ。
+[name="Drudge"]Tell those casters to finish that Feline with monsters. Others go defend the entrance.
+[name="드러지"]캐스터에게 괴물을 조종시켜 그 필라인을 없애도록 해라. 나머진 입구를 막고.
 
 [name="萨卡兹雇佣兵"]明白。
+[name="サルカズ傭兵"]了解。
+[name="Sarkaz Mercenary"]Roger.
+[name="살카즈 용병"]알겠습니다.
 
 [name="灰烬"]报告目标情况。
+[name="Ash"]状況報告を。
+[name="Ash"]Report?
+[name="Ash"]목표 상황을 보고해라.
 
 [name="闪击"]他们利用院墙建立了防线，有狙击手，墙后面应该有不少大块头佣兵。
+[name="Blitz"]屋敷周囲の壁を利用して防衛線を敷いている。狙撃手もいて、壁の向こうにはデカい図体の傭兵が出番を待っているはずだ。
+[name="Blitz"]They have formed a defensive line with the courtyard walls. I suppose there are snipers and hulky mercenaries hiding behind.
+[name="Blitz"]놈들이 담벼락을 이용해 방어선을 구축했고, 저격수도 확인된다. 담벼락 뒤엔 덩치 큰 용병들이 많이 있겠지.
 
 [name="闪击"]老样子？
+[name="Blitz"]いつも通りの手でいくか？
+[name="Blitz"]The same way as usual?
+[name="Blitz"]어떻게, 늘 하던 대로 할래?
 
 [name="灰烬"]这种墙壁，也太小看我了。
+[name="Ash"]この程度の壁って、あたしたちをなめてるわね？
+[name="Ash"]A wall like this doesn't even bother me.
+[name="Ash"]이런 벽 따위, 날 너무 얕보는 거 같군.
 
 [name="灰烬"]是时候给他们点颜色看看了。
+[name="Ash"]いいわ。思い知らせてあげましょう。
+[name="Ash"]Let's show them who's the real boss here.
+[name="Ash"]놈들에게 실력을 좀 보여줘야겠어.
 
 [name="芙兰卡"]墙上被炸了一个大洞？原来还有这样的技术。
+[name="フランカ"]壁をぶち抜いたの？　あなたたち、そんなこともできるのね。
+[name="Franka"]Now that's a big hole in the wall. I didn't expect a technology like this.
+[name="프란카"]벽에 집채만 한 구멍을 내놓았네? 저런 기술도 있었구나.
 
 [name="灰烬"]火力压制！准备突入！
+[name="Ash"]制圧射撃開始！　突入準備！
+[name="Ash"]Cover fire! Breaching!
+[name="Ash"]제압 완료! 돌입 준비!
 
 [name="战车"]明白！
+[name="Tachanka"]了解！
+[name="Tachanka"]Roger!
+[name="Tachanka"]알았다!
 
 [name="萨卡兹雇佣兵"]不要让他们进来，上！
+[name="サルカズ傭兵"]奴らを中に入れさせるな！　行け！
+[name="Sarkaz Mercenary"]Stop them. Now!
+[name="살카즈 용병"]놈들이 못 들어오게 막아라!
 
 [name="雷蛇"]别碍事！
+[name="リスカム"]邪魔しないで！
+[name="Liskarm"]Out of my way!
+[name="리스캄"]얌전히 있어!
 
 [name="闪击"]还没完！
+[name="Blitz"]まだまだ！
+[name="Blitz"]Not over yet!
+[name="Blitz"]아직 안 끝났다고!
 
 [name="萨卡兹雇佣兵"]混账东西！狙击手呢！狙击手在干什么！
+[name="サルカズ傭兵"]バカが！　狙撃手はどこだ！　狙撃手は何をしてやがる！
+[name="Sarkaz Mercenary"]Bastards! Where the hell are the snipers?
+[name="살카즈 용병"]빌어먹을 놈들! 저격수는! 저격수는 뭐 하고 있어!
 
 [name="巡林者"]已经没有什么狙击手了。
+[name="レンジャー"]残念じゃが、狙撃手はもうおらぬよ。
+[name="Rangers"]Snipers? There's no more snipers I'm afraid.
+[name="레인저"]저격수 같은 건 이미 남아있지 않네만.
 
 [name="萨卡兹雇佣兵"]你，你是从哪儿......
+[name="サルカズ傭兵"]お、お前……どこから……
+[name="Sarkaz Mercenary"]Where did you...
+[name="살카즈 용병"]이 녀석, 대체 어디서……
 
 [name="萨卡兹雇佣兵"]呃......
+[name="サルカズ傭兵"]ううっ……
+[name="Sarkaz Mercenary"]Ugh...
+[name="살카즈 용병"]으윽……
 
 [name="灰烬"]外墙已突破！干得漂亮，老爷子。
+[name="Ash"]外壁突破！　お見事、ご老人。
+[name="Ash"]We've breached the out wall. Nicely done, old man.
+[name="Ash"]외벽 쪽 제압 완료! 멋진 솜씨군요, 어르신.
 
 [name="巡林者"]不要放松警惕，还有很多人。
+[name="レンジャー"]警戒を怠るでない。まだまだたくさんおるぞ。
+[name="Rangers"]Don't let your guard down. There's still many of them.
+[name="레인저"]경계를 늦추지 말게, 적은 아직 많이 남아 있으니.
 
 [name="霜华"]等等，他们推了一台什么东西出来?
+[name="Frost"]待って？　敵が何か運んできた。
+[name="Frost"]Wait... what's that thing they just pushed out?
+[name="Frost"]잠깐, 저 녀석들…… 뭘 끌고 오는 거지?
 
 [name="芙兰卡"]那是......
+[name="フランカ"]あれは……
+[name="Franka"]That's...
+[name="프란카"]저건……
 
 [name="雷蛇"]卧倒！
+[name="リスカム"]伏せて！
+[name="Liskarm"]Get down!
+[name="리스캄"]엎드려!
 
 [Subtitle(text="无情的试验性兵器发出剧烈的冲击波，巨大的轰鸣响彻云霄，破碎的建筑物残骸飞溅得到处都是。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="運び出されてきた実験機は、無情にも強烈な衝撃波を放ち、轟音を大空に響き渡らせる。粉々になった建物の残骸が辺り一面に飛び散る。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The ruthless experimental weapon produced a powerful shock wave with a loud bang resounding throughout the sky. The debris of broken buildings splashed everywhere.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="자비라곤 찾아볼 수 없는 실험 단계의 병기가 격렬한 충격파를 내뿜자, 구름을 가르는 커다란 굉음과 함께 저택 일대가 무너진 건축물의 잔해로 뒤덮였다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="芙兰卡"]咳咳......我的耳朵。
+[name="フランカ"]ゴホゴホッ……み、耳が。
+[name="Franka"]*cough*... Bless my ears...
+[name="프란카"]콜록…… 내 귀가……
 
 [name="雷蛇"]你没事吧。
+[name="リスカム"]大丈夫？
+[name="Liskarm"]Are you okay?
+[name="리스캄"]괜찮아?
 
 [name="芙兰卡"]我没事。
+[name="フランカ"]なんとかね。
+[name="Franka"]Yeah, I'm fine.
+[name="프란카"]난 괜찮아.
 
 [name="雷蛇"]其他人呢......
+[name="リスカム"]他の人は……？
+[name="Liskarm"]What about the others?
+[name="리스캄"]다른 사람들은……
 
 [name="霜华"]都还好，但是我现在觉得五脏六腑都在疼......
+[name="Frost"]みんな大丈夫。でも内臓が悲鳴を上げてる……
+[name="Frost"]All fine. but now I feel everywhere hurts...
+[name="Frost"]괜찮긴 한데, 몸속에 있는 오장육부가 다 아픈 것 같은 느낌이야……
 
 [name="灰烬"]......这是什么武器？
+[name="Ash"]……あれは……どういう兵器だ。
+[name="Ash"]What is this weapon?
+[name="Ash"]……대체 무슨 무기였지?
 
 [name="芙兰卡"]他们怎么连这种东西都拉出来了。
+[name="フランカ"]なんであんなモノまで使ってくるのよ。
+[name="Franka"]How come they even have stuff like this?
+[name="프란카"]저 녀석들, 저런 무기는 대체 또 어디서 구한 거야.
 
 [name="雷蛇"]沃尔沃特科钦斯基的实验性武器......真是没想到。
+[name="リスカム"]ヴォルヴォート・コシンスキーの実験兵器……
+[name="Liskarm"]An experimental weapon of Volvort Kochinski... How unexpected.
+[name="리스캄"]볼보트 코친스키의 실험용 무기인가…… 상상도 못 했어.
 
 [name="巡林者"]这可麻烦了。
+[name="レンジャー"]面倒なことになったのう。
+[name="Rangers"]Now we're in trouble.
+[name="레인저"]흠, 큰일이네.
 
 [name="灰烬"]又来了！找掩体！
+[name="Ash"]また来る！　隠れて！
+[name="Ash"]It's about to fire again. Find cover!
+[name="Ash"]또 온다! 엄폐물을 찾아!
 
 [name="闪击"]被这个东西打到绝对没命了。
+[name="Blitz"]あんなの直撃したら一発でアウトだな。
+[name="Blitz"]If it hits you, you'll be doomed for sure.
+[name="Blitz"]저런 거에 맞으면 목숨이 남아나지 않겠지.
 
 [name="雇佣兵"]头儿，他、他们攻破外墙了。
+[name="傭兵"]や、奴らに外壁を破られました。
+[name="Mercenary"]Boss! They've breached the out wall!
+[name="용병"]보스. 노, 놈들이 외벽을 돌파했습니다.
 
 [name="德鲁奇"]你没看到他们都被压制了么，你在怕什么？
+[name="ドラッジ"]お前、奴らを制圧している今の状況が見えなかいか？　何をビビッてやがる。
+[name="Drudge"]Don't you see they are being suppressed? What are you worried about?
+[name="드러지"]다 제압당했는데 뭘 무서워하는 거냐?
 
 [name="德鲁奇"]先搞定我的妹妹和那个菲林，然后我们再来解决其他人。
+[name="ドラッジ"]まず姉とあのフェリーンを始末しろ！　それから他を片付ける。
+[name="Drudge"]Take care of my sister and that Feline first. Then we'll deal with the rest.
+[name="드러지"]내 여동생과 그 필라인부터 먼저 처리해라. 나머지는 그다음에 처리하고.
 
 [name="德鲁奇"]优势在我这边，无非只是再多杀几个人而已。
+[name="ドラッジ"]俺たちの方が優勢だ、あと数人殺せばそれで終わる。
+[name="Drudge"]I'm having the edge. Now it's just a matter of killing a few more.
+[name="드러지"]놈들은 몇 명밖에 되지 않아, 우리가 더 우세하다.
 
 [name="皮加尔"]五个！这就是你的怪物吗？德鲁奇！滚出来面对我！
+[name="ピカール"]5体目！　これが貴様のモンスターか？　ドラッジ！　私の前に姿を現せ！
+[name="Picale"]Five! These are your monsters, huh? Drudge! Get out and face me!
+[name="피케일"]다섯! 이게 네 괴물이냐? 드러지! 어서 나와 날 상대해라!
 
 [name="皮加尔"]六个！你们这些丑陋肮脏的怪物，来啊！我要把你们全都砸成碎片。
+[name="ピカール"]6体目！　この醜悪で汚れたモンスターどもめ！　来い！　全て土に返してやる。
+[name="Picale"]Six! C'mon, You ugly and filthy monsters! I'm gonna smash you all into shreds!
+[name="피케일"]여섯! 이 더러운 괴물 놈들아, 와라! 내가 산산조각 내주마.
 
 [name="黑"]冷静一点，皮加尔小姐，节省体力。
+[name="シュヴァルツ"]冷静に……ピカールさん、体力を温存してください。
+[name="Schwarz"]Calm down, Lady Picale. Save your strength.
+[name="슈바르츠"]냉정하십시오, 체력을 아껴야 합니다.
 
 [name="黑"]它们......数量太多了。
+[name="シュヴァルツ"]相手の数が多すぎます。
+[name="Schwarz"]There's... too many of them.
+[name="슈바르츠"]놈들의 수가…… 너무 많습니다.
 
 [name="米亚罗"]不......咳咳......
+[name="ミアロ"]無茶はダメです……ゴホゴホッ……
+[name="Miarow"]No... *cough*... *cough*...
+[name="미아로우"]안돼요…… 콜록…… 콜록……
 
 [name="米亚罗"]皮加尔大人......黑小姐......
+[name="ミアロ"]ピカール様……シュヴァルツさん……
+[name="Miarow"]Lady Picale... Miss Schwarz...
+[name="미아로우"]피케일 님…… 슈바르츠 씨……
 
 [name="黑"]医生！
+[name="シュヴァルツ"]先生！
+[name="Schwarz"]Doctor!
+[name="슈바르츠"]의사!
 
 [name="米亚罗"]你们......咳，咳......快跑！
+[name="ミアロ"]二人とも……ゴホッ、ゴホッ……早く逃げてください！
+[name="Miarow"]You... *cough* *cough*... have to get out of here!
+[name="미아로우"]여기서…… 콜록콜록…… 어서 여기서 벗어나세요!
 
 [name="米亚罗"]来吧，怪物......
+[name="ミアロ"]来い！　モンスター……
+[name="Miarow"]Come, monster...
+[name="미아로우"]덤벼라, 괴물아……
 
 [name="黑"]......你要做什么？
+[name="シュヴァルツ"]……何をする気ですか？
+[name="Schwarz"]What are you doing?
+[name="슈바르츠"]뭘 하려는 겁니까?
 
 [Subtitle(text="感染者的每个清晨，太阳伴随着死亡一起从地平线上升起。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="感染者の朝は、太陽が死と共に地平線から昇る。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="When you're Infected, every sunrise comes with the specter of death.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="감염자에게는 죽음의 그림자가 항상 드리워져 있기 마련이다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="米亚罗从未忘记过这句话。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ミアロはこの言葉を忘れたことがない。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Miarow remembers these words by heart.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="미아로우가 늘 이 말을 되새겨 왔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="米亚罗"]（痛......好痛。）
+[name="ミアロ"]（い……痛い）
+[name="Miarow"](It hurts... so bad.)
+[name="미아로우"](너무…… 아파……)
 
 [Subtitle(text="浑身都在痛。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="体中が痛む。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="My whole body aches.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="온몸이 아파.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="米亚罗"]（我在哪儿......我晕倒了？）
+[name="ミアロ"]（ここはどこ……僕は気を失っていたのか？）
+[name="Miarow"](Where am I...? Did I pass out?)
+[name="미아로우"](여기는……? 난 기절했던 건가?)
 
 [name="米亚罗"]（这是......）
+[name="ミアロ"]（これは……）
+[name="Miarow"](What is this...?)
+[name="미아로우"](뭐지……?)
 
 [name="皮加尔"]......你在出卖你的家族，出卖这片土地！我诅咒你，德鲁奇，你不得好死！
+[name="ピカール"]貴様は家族を裏切り、この土地までをも裏切った！　呪ってやる！　ドラッジ！！　ろくな死に方をできると思うな！！
+[name="Picale"]...You sold out your family, and sold out our land! I curse you, Drudge. May you die a horrible death!
+[name="피케일"]……넌 네 혈족과 우리의 영토를 팔았어! 죽어라, 드러지. 그냥 죽어버려!
 
 [name="米亚罗"]（皮加尔大人！跪在地上？）
+[name="ミアロ"]（ピカール様が地面にひざまずいている？）
+[name="Miarow"](Lady Picale! She's on the ground?)
+[name="미아로우"](피케일 님! ………쓰러져 계시는 건가?)
 
 [name="米亚罗"]（出什么事了？）
+[name="ミアロ"]（何があった？）
+[name="Miarow"](What happened?)
+[name="미아로우"](어떻게 된 거지?)
 
 [name="米亚罗"]（啊......痛......）
+[name="ミアロ"]（くっ……痛い……）
+[name="Miarow"](Oof... ouch...)
+[name="미아로우"](윽…… 아야……)
 
 [name="米亚罗"]咳咳......咳......
+[name="ミアロ"]ゴホッゴホッ……ゴホッ……
+[name="Miarow"]*cough* *cough*...
+[name="미아로우"]콜록콜록…… 콜록……
 
 [Subtitle(text="浑身都在痛。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="体中が痛む。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="My whole body aches.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="온몸이 아파.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="是矿石病发作了么......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="鉱石病の発作？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Is my Oripathy flaring up?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="광석병이 심해졌나?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="米亚罗"]（这是......血？）
+[name="ミアロ"]（これは……血？）
+[name="Miarow"](That's... blood?)
+[name="미아로우"](이건…… 피?)
 
 [name="米亚罗"]（啊......）
+[name="ミアロ"]（あぁ……）
+[name="Miarow"](Oh...)
+[name="미아로우"](아……)
 
 [Subtitle(text="原来我快要死了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="そうか……僕は、もうすぐ死ぬのか。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="So I'm about to die.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="난 곧 죽는구나.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="米亚罗"]（痛......好冷。）
+[name="ミアロ"]（痛い……寒い）
+[name="Miarow"](Ow... so cold.)
+[name="미아로우"](아파…… 추워……)
 
 [name="德鲁奇"]（哥伦比亚语）把那些感染者带到学者那边去。
+[name="ドラッジ"]（クルビア語）あの感染者たちを科学者の所へ連れて行け。
+[name="Drudge"](Columbian) Bring the Infected to the egghead.
+[name="드러지"](컬럼비아어) 감염자들을 그 박사에게 데려가라.
 
 [name="萨卡兹雇佣兵"]（哥伦比亚语）好的，我把他们带给科学家。
+[name="サルカズ傭兵"]（クルビア語）わかった。
+[name="Sarkaz Mercenary"](Columbian) Right. I'm on it.
+[name="살카즈 용병"](컬럼비아어) 알겠습니다.
 
 [name="萨卡兹雇佣兵"]（哥伦比亚语）这个年轻人呢？看起来快不行了。
+[name="サルカズ傭兵"]（クルビア語）この若いのは？　もうダメそうだが。
+[name="Sarkaz Mercenary"](Columbian) What about this kid? Looks like he's on his way out.
+[name="살카즈 용병"](컬럼비아어) 이 꼬맹이는 어찌할까요? 금방이라도 죽을 것 같습니다만.
 
 [name="德鲁奇"]（哥伦比亚语）是死是活都带过去。
+[name="ドラッジ"]（クルビア語）生きてても死んでても同じようなもんだ。全部連れて行け。
+[name="Drudge"](Columbian) Bring him, dead or alive.
+[name="드러지"](컬럼비아어) 데려가. 그놈이 감염자라면 살았건 죽었건 데려오라고 했으니.
 
 [name="德鲁奇"]（哥伦比亚语）至于我妹妹。
+[name="ドラッジ"]（クルビア語）俺の姉に関しては……
+[name="Drudge"](Columbian) As for my sister...
+[name="드러지"](컬럼비아어) 그리고 내 동생은……
 
 [name="德鲁奇"]（哥伦比亚语）把她变成感染者，你们萨卡兹人肯定知道怎么弄。
+[name="ドラッジ"]（クルビア語）あの女を感染させろ。お前らサルカズ人なら、その方法はよくわかっているはずだ。
+[name="Drudge"](Columbian) Turn her Infected. You Sarkaz must know how to do it.
+[name="드러지"](컬럼비아어) 감염자로 만들어라. 너희 살카즈라면 방법을 알고 있겠지.
 
 [name="米亚罗"]（他......他要对感染者做什么？）
+[name="ミアロ"]（か……感染者に何を……？　それに……感染させろ？）
+[name="Miarow"](He... What is he doing to the Infected?)
+[name="미아로우"](저 사람…… 감염자를 데리고 뭘 하려는 거지?)
 
 [name="米亚罗"]（站不起来......）
+[name="ミアロ"]（立てない……）
+[name="Miarow"](I can't stand up...)
+[name="미아로우"](일어날 수가 없어……)
 
 [name="米亚罗"]（那是谁......）
+[name="ミアロ"]（あれは誰……）
+[name="Miarow"](Who is that...?)
+[name="미아로우"](저건 누구지……?)
 
 [Subtitle(text="在宅邸院墙的阴影下，一杆长弩正在瞄准这边。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="屋敷を囲む壁の陰から、一丁のクロスボウがこちらに狙いを定めている。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="In the shadow of the mansion's courtyard wall, a long crossbow takes aim.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="저택 정원 벽 짙은 그림자 속에서, 크로스보우가 이쪽을 향해 조준했다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="米亚罗"]（是黑小姐......）
+[name="ミアロ"]（シュヴァルツさん……）
+[name="Miarow"](It's Miss Schwarz...)
+[name="미아로우"](슈바르츠 씨다……)
 
 [name="米亚罗"]（只有一个人......）
+[name="ミアロ"]（一人で……）
+[name="Miarow"](Alone...)
+[name="미아로우"](혼자야……)
 
 [name="米亚罗"]（得帮帮她......）
+[name="ミアロ"]（助けないと……）
+[name="Miarow"](I have to help her...)
+[name="미아로우"](도와야 해……)
 
 [name="米亚罗"]（哈......最终还是要用这种方法。）
+[name="ミアロ"]（はぁ……最後はやっぱりこれを使うしかないのか……）
+[name="Miarow"](Hah... It all comes down to this, in the end.)
+[name="미아로우"](하…… 결국 이렇게 되는구나.)
 
 [name="米亚罗"]你们......快逃......
+[name="ミアロ"]二人とも……早く逃げて……
+[name="Miarow"]You... run...
+[name="미아로우"]도망…… 쳐요……
 
 [name="黑"]你要做什么！
+[name="シュヴァルツ"]何をする気ですか！
+[name="Schwarz"]What are you doing?!
+[name="슈바르츠"]뭘 하려는 겁니까?!
 
 [name="米亚罗"]别管我！快跑！
+[name="ミアロ"]僕に構わないで！　早く逃げてください！
+[name="Miarow"]Leave me alone! Get out of here!
+[name="미아로우"]난 두고 가요! 뛰어요! 어서 도망쳐요!
 
 [name="黑"]那是精炼源石锭？
+[name="シュヴァルツ"]精錬源石錐……？
+[name="Schwarz"]Is that a refined Originium Ingot?
+[name="슈바르츠"]그건 정제된 오리지늄 주괴?
 
 [name="黑"]你这是要......
+[name="シュヴァルツ"]それをどうするつもり――
+[name="Schwarz"]Why do you...?
+[name="슈바르츠"]왜 그걸……?
 
 [name="黑"]！！
+[name="シュヴァルツ"]！！
+[name="Schwarz"]! !
+[name="슈바르츠"]!!
 
 [name="米亚罗"]源石技艺......很久没有用过了。
+[name="ミアロ"]アーツなんて……いつぶりだろう。
+[name="Miarow"]I haven't used... Arts... in so long.
+[name="미아로우"]아츠를 사용하는 건…… 정말 오랜만이네……
 
 [Subtitle(text="“让源石制品爆炸的源石技艺？还真是少见。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「源石製品を爆発させるアーツ？　珍しいな」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'Arts that make Originium products explode? That's rare.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“오리지늄으로 만든 물건을 폭파하는 아츠? 그런 건 흔치 않은데.”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“这种源石技艺，去当兵不是更好？为什么要当医生？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「こんなアーツなら、兵士になった方がいいんじゃないのか？　どうして医者に？」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'With Arts like these, aren't you a better fit for being a soldier? Why do you want to be a doctor?'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“그런 아츠를 쓸 수 있으면 군인이 되는 게 더 좋지 않아? 왜 굳이 의사가 되려는 거야?”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“唉......随你吧，我只是觉得有点可惜。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「はぁ……好きにしろ。だが、もったいないなぁ」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'*Sigh*... Okay, whatever. I just think it's kind of a waste though.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“후…… 알았어. 마음대로 해. 아무리 생각해도 네 아츠가 아까운 거 같긴 하지만.”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="米亚罗"]（还有很多想做的事情。）
+[name="ミアロ"]（まだまだやりたいことはたくさんあるけど……）
+[name="Miarow"](There's so much I still want to do.)
+[name="미아로우"](하고 싶은 게 너무 많아.)
 
 [name="米亚罗"]（还不想死......）
+[name="ミアロ"]（まだ死にたくなんかないけど……）
+[name="Miarow"](I don't want to die yet...)
+[name="미아로우"](아직 죽고 싶지 않아……)
 
 [name="米亚罗"]（医生的天职就是拯救生命，我在......拯救......）
+[name="ミアロ"]（医者の本分は命を救うこと。僕は……救うんだ……）
+[name="Miarow"](A doctor should be saving lives. I have to... save...)
+[name="미아로우"](그렇지만 의사라면 사람을 구해야 해. 더 많은…… 사람들을……!)
 
 [Subtitle(text="感染者少年冲了出去。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="感染者の少年が突っ込んでいく。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The young Infected charges out.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="어린 감염자는 땅을 박차고 달려 나아갔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="术师雇佣兵"]我的眼睛！我的眼睛！啊啊啊！！
+[name="術師傭兵"]目！　俺の目が！　うあああ！！
+[name="Mercenary Caster"]My eyes! My eyes! Ahhhh!!
+[name="캐스터 용병"]눈! 내 눈! 아아아악!!
 
 [name="萨卡兹雇佣兵"]站起来！保持阵型！
+[name="サルカズ傭兵"]立て！　陣形を保て！
+[name="Sarkaz Mercenary"]Get up! Hold the line!
+[name="살카즈 용병"]일어나! 각자 자리를 지켜!
 
 [name="德鲁奇"]咳咳......咳。
+[name="ドラッジ"]ゴホッゴホッ……ゴホッ。
+[name="Drudge"]*cough* *cough*... *cough*.
+[name="드러지"]콜록콜록…… 콜록……
 
 [name="德鲁奇"]怎么回事......那是什么啊！
+[name="ドラッジ"]どうした？　……あれは何だ。
+[name="Drudge"]What happened... what was that?
+[name="드러지"]대체 무슨…… 무슨 일이지?
 
 [name="雇佣兵"]畸变体，畸变体不受控制了！
+[name="傭兵"]ニュータント？　ニュータントが制御不能に！
+[name="Mercenary"]The Originiutants! They're out of control!
+[name="용병"]오리지뉴턴트가 통제를 벗어나 날뛰고 있습니다!
 
 [name="德鲁奇"]为什么？
+[name="ドラッジ"]どういうことだ？
+[name="Drudge"]How?
+[name="드러지"]뭐?
 
 [name="德鲁奇"]超声波发生器呢？
+[name="ドラッジ"]超音波発生器は？
+[name="Drudge"]Where's the Ultrasonic Emitter?
+[name="드러지"]초음파 방출기는?
 
 [name="雇佣兵"]被那个混小子炸坏了！
+[name="傭兵"]あのクソガキに爆破されました！
+[name="Mercenary"]The little twerp fried it!
+[name="용병"]그 빌어먹을 꼬맹이가 터트렸습니다!
 
 [name="雇佣兵"]全都失控了！怎么办？！
+[name="傭兵"]すべて制御不能です！　どうしますか！？
+[name="Mercenary"]We've completely lost control! What do we do?!
+[name="용병"]더 이상 못 버팁니다! 대체 어떻게 해야……
 
 [name="雇佣兵"]咕哇！
+[name="傭兵"]グハッ！
+[name="Mercenary"]Gaaaagh!
+[name="용병"]크아아악!
 
 [name="萨卡兹雇佣兵"]菲林又开始攻击了。
+[name="サルカズ傭兵"]フェリーンがまた攻撃を始めた！
+[name="Sarkaz Mercenary"]The Feline's back.
+[name="살카즈 용병"]필라인이 돌아왔다.
 
 [name="萨卡兹雇佣兵"]架盾，保护老板！
+[name="サルカズ傭兵"]盾を構えろ！　ボスを守れ！
+[name="Sarkaz Mercenary"]Get a shield up, protect the boss!
+[name="살카즈 용병"]방패 들고 보스를 지켜!
 
 [name="皮加尔"]德鲁奇！
+[name="ピカール"]ドラッジ！
+[name="Picale"]Drudge!
+[name="피케일"]드러지!
 
 [name="皮加尔"]我要你偿命！
+[name="ピカール"]貴様の命をもって償え！
+[name="Picale"]Your life is forfeit!
+[name="피케일"]네 죄는 그 목숨으로 갚아라!
 
 [name="德鲁奇"]你们到底在磨蹭什么！
+[name="ドラッジ"]お前たち、何をグズグズしてやがる！
+[name="Drudge"]Again with the nagging!
+[name="드러지"]뭘 멍청하게 보고만 있는 거냐?!
 
 [name="德鲁奇"]我现在就要这群家伙人头落地！
+[name="ドラッジ"]こいつらをさっさと殺せ！
+[name="Drudge"]I want their heads on a platter now!
+[name="드러지"]한 놈도 빠짐없이 모두 죽여!
 
 [name="德鲁奇"]又怎么了？！
+[name="ドラッジ"]今度は何だ！？
+[name="Drudge"]What is it this time?!
+[name="드러지"]이번엔 또 뭐야?!
 
 [name="雷蛇"]找到了，他们都在这里。
+[name="リスカム"]発見しました、みんなここにいます！
+[name="Liskarm"]Target located. At my position.
+[name="리스캄"]목표 발견. 다 여기 있다.
 
 [name="灰烬"]救人要紧，开火！
+[name="Ash"]救出を優先！　撃て！
+[name="Ash"]We're getting them out of there. Open fire!
+[name="Ash"]포로 구출을 최우선으로! 사격 개시!
 

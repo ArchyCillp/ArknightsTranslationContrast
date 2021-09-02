@@ -1,460 +1,1150 @@
 [name="芙兰卡"]  苹果派对......吗？
+[name="フランカ"]  リンゴ……パーティー？
+[name="Franka"]  An apple party...?
+[name="프란카"]  사과…… 파티?
 
 [name="桃金娘"]  正是！根据宴、卡达和我检索的结果，这附近就有一块正值果实成熟期的野生苹果树林。那可是丰富到三天三夜都吃不完的程度！
+[name="テンニンカ"]  そう！　ウタゲとカシャとあたしの調べによると、この近くに野生のリンゴの林があって、ちょうど食べ頃なの。三日三晩食べ続けてもなくならないくらい、たーっくさん実がなってるんだよ！
+[name="Myrtle"]  Exactly! I looked it up with Utage and Click. There's a wild apple forest not too far away from here right in season. There's so many apples there, we'd have enough to keep the party going for three whole days!
+[name="머틀"]  응! 우타게랑 클릭이랑 내가 검색해 봤는데 이 근처에 과실이 딱 먹기 좋게 익은 야생 사과나무숲이 있대. 사흘 내내 먹고도 남을 정도로 사과가 한가득!
 
 [name="卡达"]  而且全部免费呢。
+[name="カシャ"]  しかも野生だから、全部タダだよ。
+[name="Click"]  And it'll cost us nothing!
+[name="클릭"]  야생이니까 몽땅 공짜라고.
 
 [name="芙兰卡"]  听起来很美味，记得到时候要分我一份哦。
+[name="フランカ"]  リンゴすごく美味しそうじゃない、採りに行くならあたしの分もお願いね。
+[name="Franka"]  That sounds great. Be sure to invite me.
+[name="프란카"]  꽤 먹음직스러울 것 같은데, 나중에 내 몫도 좀 챙겨 줘.
 
 [name="桃金娘"]  啊，等，等等！
+[name="テンニンカ"]  あっ！　ちょ……ちょっと待って？
+[name="Myrtle"]  Oh! W-Wait up!
+[name="머틀"]  앗! 자, 잠깐!
 
 [name="芙兰卡"]  还有什么事吗？
+[name="フランカ"]  どうかした？
+[name="Franka"]  What?
+[name="프란카"]  볼 일이 아직도 남은 거야?
 
 [name="卡达"]  实际上，虽然我们已经百分百确信下次任务会“碰巧”路过那片苹果林，但是这次的队长......
+[name="カシャ"]  実は次の任務で「偶然」にも、そのリンゴの林を通ることは百パー確実なんだけど、でもこの任務の隊長がさ……
+[name="Click"]  Well, we're 100% certain we'll, ahem, just happen to walk by that apple forest on our next mission. There's one little problem though... The mission's captain...
+[name="클릭"]  사실 우린 다음 임무 때 그 사과나무숲을 '우연히' 지나게 될 거라고 100% 확신하는데, 이번 임무의 팀장이……
 
 [name="宴"]  是“那位”小姐。
+[name="ウタゲ"]  よりにもよって「あの人」なんだよね。
+[name="Utage"]  It's *her*.
+[name="우타게"]  '그 사람'이야.
 
 [name="芙兰卡"]  对哦，是“那位”的话，的确会遇到不懂变通的情况呢。
+[name="フランカ"]  そうだったわねぇ。「あの子」だと、確かにそういう融通は利かなそうよね。
+[name="Franka"]  Oh, I see. If she's in charge, then I guess she's going to do everything by the book.
+[name="프란카"]  맞아, '그 사람'이라면 융통성이라는 게 전혀 먹히지 않을지도 모르겠네.
 
 [name="桃金娘"]  所以，我们只能求助于您。我们想知道怎么才能和“那位”小姐也达成良好的关系......
+[name="テンニンカ"]  だから、あたしたちとしてはフランカさんに助けを求めるしかないんだよね。どうやったら「あの人」と仲良くなれるの？
+[name="Myrtle"]  That's why we came to you for help. We're not sure how to break the ice with her...
+[name="머틀"]  그러니까 부탁할게. 어떻게 해야 '그 사람'이랑 좋은 관계를 맺을 수 있는지를 알고 싶어……
 
 [name="芙兰卡"]  把苹果分给她不就好了嘛？不过，她的确不是会放任小组成员自由行动的性格。
+[name="フランカ"]  リンゴを分けてあげればいいんじゃないかしら。ただ、あの子は小隊メンバーの自由行動を放っておく性格じゃないよね。
+[name="Franka"]  How about you give her some of those apples? But, well, it's true she's not the type of leader to just let her team members wander off.
+[name="프란카"]  사과를 나눠 주면 괜찮지 않을까? 하긴, 팀원들이 자유롭게 행동하도록 내버려 둘 성격은 아니니까.
 
 [name="芙兰卡"]  虽然罗德岛现在的行动路线处在安全地带，但也有不少潜在的隐患。
+[name="フランカ"]  いくらロドスの今の進行ルートが安全地帯の中だっていっても、潜在的なリスクが少なくないのも確かだもの。
+[name="Franka"]  Rhodes Island is heading through a pretty safe area right now, but there are still many hidden dangers out there.
+[name="프란카"]  현재 로도스 아일랜드에서의 행동 노선이 안전지대에 속해 있기는 하지만 보이지 않는 위험이 항상 도사리고 있으니까.
 
 [name="卡达"]  所以，您觉得我们这次的计划......
+[name="カシャ"]  じゃあ、あたしたちの今回の計画は……
+[name="Click"]  So... What do you think of our plan?
+[name="클릭"]  그러니까 네 생각에는 우리 계획이……
 
 [name="芙兰卡"]  虽然有些困难，不过......这样很不错哟！通过这次机会和她关系变好，岂不是一举两得嘛。
+[name="フランカ"]  難しいとは思うけど、でも……悪くはないわよ！　この機会にあの子と良い関係を築ければ、一石二鳥じゃない。
+[name="Franka"]  It sounds a little difficult to pull off, but... I think it's good! And if the apple party gives you a chance to hit it off with her, that's two beasts with one stroke.
+[name="프란카"]  쉽진 않겠지만…… 오히려 괜찮을지도! 이번 기회로 친해진다면 그야말로 일석이조잖아.
 
 [name="芙兰卡"]  在这里就给大家一点建议吧，嗯，比如说......
+[name="フランカ"]  あたしから、あなたたちにアドバイスをすると、うーん、そうね……
+[name="Franka"]  Let me give you a few suggestions. Hmm... For example...
+[name="프란카"]  한 마디 해주자면…… 음, 그래……
 
 [name="芙兰卡"]  其实，“那位”小姐特别喜欢别人对她无理取闹的样子。
+[name="フランカ"]  まず一つ目、あの子は他の人が自分にいちゃもんつけてきたり、意味もなく絡んでくるのが実はとても好きなの。
+[name="Franka"]  Here's a hot tip I'll let you in on. She actually really likes it when people kick up a fuss about her.
+[name="프란카"]  사실 '그 사람'은 자신한테 무턱대고 들이대는 걸 아주 좋아하는 편이야.
 
 [name="宴"]  嗯？怎么觉得可信度不太高......
+[name="ウタゲ"]  ん？　なにそれ、あんま信じられないんだけど……
+[name="Utage"]  Hm? That sounds so sketchy...
+[name="우타게"]  어? 어째 믿음이 안 가는데……
 
 [name="芙兰卡"]  千真万确。第二点是，千万不要读完她的任务指导手册。
+[name="フランカ"]  嘘じゃないわよ。二つ目は……あの子が作った任務マニュアルは絶対に読んじゃだめ。
+[name="Franka"]  It's 100% real, you have my word. Secondly, do not finish reading her mission handbook.
+[name="프란카"]  내 눈은 정확해. 그리고 한 마디 더 해주자면, 임무 안내 가이드를 절대로 다 읽지 마!
 
 [name="卡达"]  这一点也......
+[name="カシャ"]  それもなんか……
+[name="Click"]  That's also kinda...
+[name="클릭"]  어째 그것도 좀……
 
 [name="芙兰卡"]  第三点——
+[name="フランカ"]  三つ目が――
+[name="Franka"]  And thirdly—
+[name="프란카"]  마지막으로 한 마디 더……
 
 [name="芙兰卡"]  哎呀，第三点是什么来着......哦，对。
+[name="フランカ"]  三つ目……三つ目はなにかあったかしら……あっ、そうだ。
+[name="Franka"]  Uh, what was the third one... Oh, right.
+[name="프란카"]  마지막이 뭐였더라…… 앗, 맞아!
 
 [name="芙兰卡"]  只要她没有“噼里啪啦”地放出电流，尽情欺负她就好啦！
+[name="フランカ"]  彼女が「バチバチ」電気を放ってなければ、思う存分いじり倒しても平気。むしろいじり倒すべきね！
+[name="Franka"]  As long you don't hear any sparky sounds around her, just pick on her as much as you want!
+[name="프란카"]  “치직” 하고 전류를 내보내기 전까진 마음껏 괴롭혀도 괜찮아!
 
 [name="卡达"]  不，等一下，这对我们来说......
+[name="カシャ"]  いや、ちょっと待ってよ。それ、あたしたちにとってはハードルが……
+[name="Click"]  Um, hold on, that's probably a little too gutsy, even for us...
+[name="클릭"]  아니, 잠깐. 우리가 그렇게 하는 건……
 
 [name="芙兰卡"]  什么嘛，你们不相信如此善良好心的我吗？
+[name="フランカ"]  なあに、せっかくアドバイスをしたってのに、こんな優しいあたしを信じられないの？
+[name="Franka"]  Jeez, why would I lie to you? And here I was trying to help you guys out.
+[name="프란카"]  뭐야? 지금 세상에서 제일 착하고 정직한 내가 하는 말을 못 믿겠다 이거야?
 
 [name="宴"]  哈哈......不论怎样，至少是“不能全信”的建议。
+[name="ウタゲ"]  アハハ……だってそれ、信じ切るのが難しいアドバイスじゃん……
+[name="Utage"]  Haha... I trust you. I just don't know if we're ballsy enough to buy into that whole idea.
+[name="우타게"]  하핫…… 뭐 어쨌든, '다 믿을 수는 없는' 조언이네.
 
 [name="芙兰卡"]  哼哼，没关系的。对方被逼到生气的时候，你们实在害怕的话，就说全部是我提议的就好。
+[name="フランカ"]  大丈夫よ。もし本当に怖いなら、あの子が怒ったら全部あたしのせいにしちゃえばいいんだから。
+[name="Franka"]  Hehe, no worries. If she starts getting really mad and that scares you, you can tell her I told you guys to do that.
+[name="프란카"]  후훗, 상관없어. 녀석이 머리끝까지 화난 것 같다 싶으면 전부 내가 해 준 말이라고 해.
 
 [name="芙兰卡"]  明明我只是受了一点小伤，她竟然擅自顶替我那么多的出勤任务。你们就好好帮我“修理”......不对，和她好好相处一番吧。
+[name="フランカ"]  ちょっとしたケガだけなのに、勝手にあたしの代わりに色んな外勤任務に出てくれたんだもの。だから、あなたたちがあの子に「思い知らせて」……いいえ、仲良くしてきてね。
+[name="Franka"]  She took all of my field ops even though I only got a few scratches... I'm counting on you to really teach her a lesson... I mean... to get along with her.
+[name="프란카"]  난 그냥 조금 다친 것뿐인데, 제멋대로 나 대신 외근을 밥 먹듯 하더라고. 너희들, 나 대신 혼 좀…… 아니, 녀석과 잘 지내줘.
 
 [name="桃金娘"]  原来如此，我明白了！
+[name="テンニンカ"]  なるほど、よくわかったよ！
+[name="Myrtle"]  I see! I get it now!
+[name="머틀"]  그렇구나, 알겠어!
 
 [name="宴"]  完全搞不明白啊——
+[name="ウタゲ"]  何でわかったの？　っていうか、全然わかんないんだけど――
+[name="Utage"]  Ugh, I don't get it at all—
+[name="우타게"]  전혀 모르겠는걸……
 
 [name="雷蛇"]  就在这里说明吧。
+[name="リスカム"]  今から任務を説明します。
+[name="Liskarm"]  Let's stop here for our orientation.
+[name="리스캄"]  여기서 설명할게.
 
 [name="香草"]  好的！
+[name="バニラ"]  はい！
+[name="Vanilla"]  Okay!
+[name="바닐라"]  네!
 
 [name="桃金娘"]  （卡达，宴，准备好了吧，要实行那个计划了！）
+[name="テンニンカ"]  （カシャ、ウタゲ、準備できた？　例の作戦を始めるよ？）
+[name="Myrtle"]  (Click, Utage, you two ready? The mission's a go!)
+[name="머틀"]  (클릭, 우타게! 준비됐지? 그 작전을 실행한다!)
 
 [name="卡达"]  （我明白。）
+[name="カシャ"]  （了解！）
+[name="Click"]  (Okay.)
+[name="클릭"]  (오케이.)
 
 [name="雷蛇"]  为了能够让今天这支巡逻队顺利进行任务，我已经提前对你们的能力、特长、性格和作战风格进行了调查和安排......
+[name="リスカム"]  今日の巡回任務がスムーズに遂行できるよう、事前に隊員の皆さんの能力や得意分野、性格、および戦闘スタイルを調べて割り振りをしてあります。
+[name="Liskarm"]  To ensure our mission comes to a successful conclusion, I've already looked into the abilities, specialties, personalities, and combat styles of everyone on our patrol unit today and made the necessary arrangements...
+[name="리스캄"]  오늘 순찰부대의 임무를 무사히 수행할 수 있도록 너희들의 능력, 특기, 성격과 전투 스타일을 사전에 조사해서 배정했다……
 
 [name="桃金娘"]  哇——快看快看，卡达！那个是不是苹果树啊？
+[name="テンニンカ"]  わぁ――見て見て、カシャ！　あれってリンゴの木じゃない？
+[name="Myrtle"]  Whoa—Check this out, Click! It's an apple tree!
+[name="머틀"]  와아! 클릭, 얼른 와 봐! 저거 사과나무 아냐?
 
 [name="雷蛇"]  桃金娘，擅长振奋队员士气和提供一定量的治疗，以两人一组进行侦查的时候也可以根据现场情况提出可靠的指挥建议。
+[name="リスカム"]  テンニンカさんは隊員の士気を高め、ある程度の治療もできます。二人組で調査を行う際は現場の状況に基づいて信頼に足る指揮を執ることができます。
+[name="Liskarm"]  Myrtle is excellent at boosting her teammates' morale and can also help provide medical assistance. When we perform reconnaissance in pairs, she also analyzes the situation well and provides good, reliable suggestions.
+[name="리스캄"]  머틀은 팀원들의 사기를 올리거나 의술에 뛰어나더군. 2인 1조 정찰에 나설 때도, 현장 상황에 따라 믿음직한 전투 지휘 의견을 내주었었다.
 
 [name="卡达"]  咳、咳咳。
+[name="カシャ"]  ゴホン、ゴホンッ。
+[name="Click"]  A-Ahem.
+[name="클릭"]  쿨럭, 쿨럭!
 
 [name="卡达"]  让我的相机瞧瞧——
+[name="カシャ"]  リンゴ？　カメラで見てみよーっと――
+[name="Click"]  Let me take a look with my camera—
+[name="클릭"]  내 카메라로 볼까……
 
 [name="卡达"]  好像真的是！哇，这种幸运的事情竟然能给我们碰上，真是太巧了~
+[name="カシャ"]  わあ、本当だ！　こんなにラッキーなことがあるなんて、すごくツイてるね～。
+[name="Click"]  Whoa, you're right! Nice! Who knew we would be so lucky today~!
+[name="클릭"]  맞는 것 같아! 대박, 우리한테 이런 행운이 찾아오다니! 이런 우연이 있나~
 
 [name="雷蛇"]  卡达，作为后方支援和战场记录很可靠，在巡逻勘察任务中非常有帮助。
+[name="リスカム"]  カシャさんは、後方支援と戦場の記録で大変頼りになります。巡回任務においては非常に重要なポジションです。
+[name="Liskarm"]  On the other hand, Click is very dependable in both support and record-keeping capacities. These are especially useful in patrol and recon missions.
+[name="리스캄"]  클릭, 후방 지원과 전투 기록 분야에 특화된 케이스. 순찰이나 정찰 임무에서도 상당히 도움이 되는 편이더군.
 
 [name="宴"]  如果是长了几百年的野生苹果树，全部摘走岂不是能做一顿可以吃三天三夜的美味苹果料理盛宴！
+[name="ウタゲ"]  かなりでっかいみたいだね。もし何百年も生きた野生のリンゴの木なら、三日三晩美味しいリンゴ料理が食べられるくらいたくさんのリンゴが採れるんじゃない？
+[name="Utage"]  I betcha these apple trees have been around for centuries. If we pick all the apples here, we can make so many tasty apple desserts, it'll last us three whole days!
+[name="우타게"]  수백 년 된 야생 사과나무의 열매를 몽땅 따면, 사흘 내내 맛있는 사과 파티를 열 수 있을지도!
 
 [name="宴"]  这种机会可是很难得的。
+[name="ウタゲ"]  こんな機会、めったにないな～。
+[name="Utage"]  We don't get this kinda chance every day!
+[name="우타게"]  이런 기회는 엄청 드물다고~
 
 [name="雷蛇"]  宴，移动速度很快所以适合进行前线勘察。
+[name="リスカム"]  ウタゲさんは、移動速度が速いので、前線での調査に向いていると判断しています。
+[name="Liskarm"]  Utage is very agile. That makes her well-suited for recon in the frontlines.
+[name="리스캄"]  우타게, 이동속도가 빠른 편이니 전방의 정찰 임무를 맡는 게 좋겠어.
 
 [name="雷蛇"]  香草的战斗实力足够可靠......
+[name="リスカム"]  バニラの戦闘力は信頼に足ります……
+[name="Liskarm"]  And Vanilla is dependably strong in actual combat...
+[name="리스캄"]  바닐라의 전투력도 제법이군……
 
 [name="香草"]  谢谢前辈！
+[name="バニラ"]  先輩、ありがとうございます！
+[name="Vanilla"]  Thanks, Captain!
+[name="바닐라"]  선배, 고맙습니다!
 
 [name="香草"]  其实我、我也很喜欢苹果料理......
+[name="バニラ"]  実はわ、私もリンゴの料理が大好きなんです……
+[name="Vanilla"]  And actually, I... I'm pretty fond of apple desserts too.
+[name="바닐라"]  사실 저도…… 저도 사과요리 엄청 좋아해요!
 
 [name="雷蛇"]  ......你们，听 我 说 话。
+[name="リスカム"]  ……皆さん、話・を・聞・い・て・く・だ・さ・い！
+[name="Liskarm"]  All of you... Listen. To. Me.
+[name="리스캄"]  ……다들! 내.말.듣.고.있.나.
 
 [name="全员"]  对、对不起！
+[name="全員"]  ご、ごめんなさい！！
+[name="Everyone"]  S-Sorry!
+[name="전원"]  죄, 죄송합니다!
 
 [name="桃金娘"]  岂有此理，大家怎么可以在队长说话的时候插嘴嘛！
+[name="テンニンカ"]  まったく、みんなったら、隊長が話してるんだから、おしゃべりなんかしちゃダメだよ！
+[name="Myrtle"]  You girls should be ashamed of yourselves! How could you talk while the squad captain's speaking?
+[name="머틀"]  너무하잖아, 팀장이 말씀하시는 데 함부로 끼어드는 건!
 
 [name="卡达"]  桃金娘，你居然......！
+[name="カシャ"]  テンニンカ！？
+[name="Click"]  Myrtle, how could you...!
+[name="클릭"]  머틀, 너……!
 
 [name="宴"]  桃金娘嘴上这么说，眼神中却能看出，你很好奇远处的草垛、懒洋洋的阳光、还有那片苹果树林哦。
+[name="ウタゲ"]  テンニンカさぁ、口ではそう言ってるけど、遠くに積まれた干し草とポカポカの太陽、それとあのリンゴ林のことが気になってしょうがありませんって顔に書いてあるよ。
+[name="Utage"]  That's what you say, Myrtle, but I can so see it in your eyes. You're totes thinking about those haystacks all the way over there, the comfy sunshine, and the apple forest.
+[name="우타게"]  머틀, 너 말은 그렇게 해도, 네 눈빛은 이미 저 멀리에 있는 짚더미랑 나른한 햇살, 그리고 사과나무숲에 꽂혀 있다는 거, 내가 모를 줄 알아?!
 
 [name="卡达"]  是啊，明明桃金娘的心不在焉嫌疑是最重的。
+[name="カシャ"]  そうだよね、テンニンカが一番、心ここにあらずだよ。
+[name="Click"]  Yeah, what she said! If anyone's mind's not here, it's gotta be Myrtle!
+[name="클릭"]  맞아, 우리 중에서 머틀만큼 마음이 다른 곳에 가 있는 사람도 없지.
 
 [name="桃金娘"]  你、你们，这样乱推测别人的心思可不好！
+[name="テンニンカ"]  ふ、二人とも？　……勝手に人の心を読むなんて、いけないことなんだからね！
+[name="Myrtle"]  W-What? Now that's not nice, slandering your friend with wild guesses!
+[name="머틀"]  너, 너희! 남의 마음을 함부로 들여다보는 건 좋지 않다구!
 
 [name="雷蛇"]  哼。一开始，我想确实不用那么恪守陈规地执行任务......但是你们的懒散程度可是超乎我的想象。
+[name="リスカム"]  はあ。皆さんの自主性を信じて、あまりうるさく言うのはやめようと思っていましたが……あなた方の散漫な態度はわたしの想像を遙かに超えています。
+[name="Liskarm"]  Hmph, I thought we could get through this mission without sticking to the rules so much... but your laziness is far beyond my expectations.
+[name="리스캄"]  흠, 처음에는 케케묵은 규칙대로 임무를 수행할 필요가 없다고 생각했었는데…… 너희들의 나태함은 상상을 가볍게 뛰어넘는군.
 
 [name="香草"]  没错，大家要是在黑钢，让上司知道出勤时间是这副懒懒散散的样子，那可不仅仅是“绩效不保”的程度了。
+[name="バニラ"]  そうですよ。もしここがBSWで、勤務時間中に上司にこんな態度を取ったら、人事評価が下がるどころじゃ済みませんよ？
+[name="Vanilla"]  She's right. If you girls worked at Blacksteel and the higher-ups found you slacking off like this, you wouldn't get away with just a bad performance evaluation.
+[name="바닐라"]  맞아요. 만약에 블랙스틸에서 저희가 이런 꼴로 임무를 수행한다는 걸 상사한테 들키기라도 하는 날엔, '실적 부진' 정도로 끝나진 않을 거예요.
 
 [name="卡达"]  啧，听到“绩效”这种词心情直接降了三个档次......
+[name="カシャ"]  うぇぇ、「人事評価」って言葉を聞いただけでテンションがダダ下がりだよ……
+[name="Click"]  Tsk, just hearing the word 'performance' is enough to kill my mood three times over...
+[name="클릭"]  쳇, '실적'이라는 말만 들어도 기분이 나빠진단 말이지……
 
 [name="宴"]  太听话的话会错过很多可以偷懒的惬意时光哦，香草。你也学会适当地在可以接受的范围内敷衍一下啦。
+[name="ウタゲ"]  バニラはあんまりいい子ちゃんやってると、サボって楽できる機会をいっぱい逃しちゃうよ～。問題にならない範囲で、適当にやるってことを学んだ方がいいって。
+[name="Utage"]  You'll miss out on so many opportunities to just chill if you always try to be such a good girl, Vanilla. Gotta learn how to slack off whenever it's okay to.
+[name="우타게"]  말을 너무 잘 들으면 게으름 피울 수 있는 시간을 잔뜩 놓치게 된다고. 바닐라, 너도 적당히 땡땡이치는 법을 좀 배워.
 
 [name="宴"]  好了，不如香草也加入我们的“苹果林巡逻”组织吧？
+[name="ウタゲ"]  ってわけで、バニラもあたしたちの「リンゴ林巡回」チームに参加しなよ。
+[name="Utage"]  Oh, yeah, why don't you join our 'Apple Patrol' group?
+[name="우타게"]  자, 그럼 바닐라도 우리 '사과나무숲 순찰대'에 들어온 거지?
 
 [name="香草"]  咦，可是，黑钢手册里不会允许......
+[name="バニラ"]  えっ、でも、BSWマニュアルではそういう行為は許されてないですし……
+[name="Vanilla"]  Huh? But the Blacksteel handbook doesn't let us...
+[name="바닐라"]  네?! 하지만 블랙스틸 가이드에서는 허용하지 않……
 
 [name="宴"]  但是，今天的任务就是巡逻勘察，这也不失为一种成果。
+[name="ウタゲ"]  そう？　今日の任務は巡回調査だよ。発見した林の探索と美味しいリンゴの収穫も仕事の一環でしょ。
+[name="Utage"]  Think about it. Our job today is to patrol the area. You can just call it a kinda unexpected outcome of our little trip.
+[name="우타게"]  그렇지만 오늘의 임무는 순찰인걸. 이것도 나름의 실적 아니겠어?
 
 [name="桃金娘"]  没错没错，毕竟，那可是大片的好吃的苹果，而且还免费！
+[name="テンニンカ"]  ウタゲの言う通りだよ。食べ頃の美味しいリンゴがたっくさん目の前にあるんだよ！　しかもタダ！
+[name="Myrtle"]  Yep, yep. I mean, that's a whole field of yummy apples waiting for us, all gratis!
+[name="머틀"]  맞아, 맞아! 어쨌든 맛있는 사과가 잔뜩 생기는 거잖아. 게다가 공짜로 말이야!
 
 [name="雷蛇"]  巡逻和勘察任务可不是让你们做这些的。
+[name="リスカム"]  皆さん、巡回および実地調査任務はそういうことをするためのものではありません！
+[name="Liskarm"]  Patrol and recon missions are not to be abused like that.
+[name="리스캄"]  순찰과 정찰 임무에서 너희들이 해야 할 일은 그런 게 아닐 텐데.
 
 [name="卡达&桃金娘"]  唔......
+[name="カシャ＆テンニンカ"]  うっ……
+[name="Click&Myrtle"]  Mmm...
+[name="클릭&머틀"]  으음……
 
 [name="宴"]  唉，可是雷蛇队长，除了香草以外，我们几个，都没有接触过那么正规的安保公司的训练。
+[name="ウタゲ"]  あのさ、リスカム隊長。隊長とバニラ以外、あたしたちはみんな正規の警備会社の訓練なんて受けたことないんだって。
+[name="Utage"]  Oh, come on, Captain Liskarm! Aside from Vanilla, none of us here have gone through any actual PMC training!
+[name="우타게"]  휴, 하지만 리스캄…… 팀장, 우린 바닐라처럼 제대로 된 보안업체 훈련을 받은 적 없이 없는걸.
 
 [name="宴"]  作战方式也是按照“自己喜欢的方式来”的类型。
+[name="ウタゲ"]  戦うのも「自分の好きなやり方」でしかできないし。
+[name="Utage"]  We just fight the way it feels right, that's all!
+[name="우타게"]  작전 방식도 '자신이 좋아하는 방식'을 따르는 타입이라고.
 
 [name="桃金娘"]  没......没错！
+[name="テンニンカ"]  そ、そうだよ！
+[name="Myrtle"]  T-That's right...!
+[name="머틀"]  마…… 맞아!
 
 [name="桃金娘"]  我只要完成一些简单的任务回去交差......
+[name="テンニンカ"]  あたしはただ、簡単な任務をこなして……
+[name="Myrtle"]  I'm just here to get some simple missions under my belt...
+[name="머틀"]  간단한 임무만 마치고 돌아가 보고하면 되니까……
 
 [name="桃金娘"]  等罗德岛靠近我老家附近的时候去给爸爸妈妈和我的“小弟”们炫耀一下，对我来说就是一番大事业啦。
+[name="テンニンカ"]  ロドスが故郷の近くを通った時に、パパとママと子分たちに自慢したいだけなんだよね。あたしにとっては、それが一番重要なの。
+[name="Myrtle"]  And if I get to brag all about it to my parents and my brothers when Rhodes Island is stopped close to my hometown, that's good enough for me.
+[name="머틀"]  로도스 아일랜드가 고향과 가까워지면, 부모님이랑 내 '동생'들에게 자랑할 거야. 이건 나한테 꽤 중요한 일이라구.
 
 [name="雷蛇"]  昨天我应该叮嘱过你们把这次的任务手册都确认完毕，现在长话短说也可以，只要——
+[name="リスカム"]  昨日皆さんには今回の任務マニュアルをお渡しして、確認しておくようにと伝えていたと思います。ですので、この打ち合わせはすぐに終わらせることができます。皆さんの中に――
+[name="Liskarm"]  I thought I made it clear to you yesterday that you must review the mission handbook in its entirety. Now, I can still make this pleasant.
+[name="리스캄"]  어제 너희에게 이번 임무의 가이드를 모두 확인하라고 당부했었는데…… 지금으로선 긴말은 하지 않겠다. 대신……
 
 [name="雷蛇"]  你们中有人能回答出手册中的行动时间和行动指令。
+[name="リスカム"]  皆さんの中に、マニュアルに書いてある行動時間と、行動の指示を答えられる人がいれば、ですが。
+[name="Liskarm"]  So long as one of you answers what the operational time and commands listed in the handbook are correctly.
+[name="리스캄"]  너희 중에 가이드에 적힌 작전 시간과 작전 지령에 대해 대답할 수 있는 사람이 있으면 돼.
 
 [name="桃金娘"]  呃，可是，那个作战纲领真的好长啊？
+[name="テンニンカ"]  あんな長いの、覚えてられないよ！
+[name="Myrtle"]  Ugh, but that mission plan was way too long!
+[name="머틀"]  헛, 하, 하지만! 내용이 많아도 너무 많은걸!
 
 [name="雷蛇"]  所以说，这个其实是......
+[name="リスカム"]  もちろん、実際には……
+[name="Liskarm"]  And like I said, this actually...
+[name="리스캄"]  그러니까 실제론……
 
 [name="卡达"]  我们当、当然是知道巡逻任务需要警惕的状况和需要仔细观察的地方的。
+[name="カシャ"]  もちろん巡回任務において、警戒が必要な状況と、それに伴う注意深い観察が必要な場所があるというのはわかっているよ？
+[name="Click"]  Of course we know we gotta stay alert and what we gotta look out for while we're out on patrol missions.
+[name="클릭"]  무, 물론 임무 중에 경계해야 하는 상황이나 자세히 정찰해야 하는 곳 정도는 우리도 당연히 알고 있어.
 
 [name="卡达"]  只不过就像桃金娘说的一样，雷蛇队长，你编写的任务流程实在是......太详细了！
+[name="カシャ"]  でもテンニンカが言ったとおり、リスカム隊長が書いた任務プロセスは本当に……細かすぎるから！
+[name="Click"]  But I really agree with Myrtle here, Captain Liskarm. Your mission plan is just way... way too detailed!
+[name="클릭"]  다만 머틀 말처럼 리스캄 팀장이 쓴 임무 프로세스는…… 지나치게 자세하다고!
 
 [name="桃金娘"]  没错，竟然精确到以秒来计算巡逻过程中的位置和行为。
+[name="テンニンカ"]  そうだよ。巡回中の位置や行動を秒単位で指定されても、そんなの無理だよ。
+[name="Myrtle"]  That's right. How do you expect us to keep up when you have our positions and actions during the patrol laid out down to the second?!
+[name="머틀"]  맞아, 순찰 과정의 위치와 행동까지 초 단위로 체크하고 있잖아.
 
 [name="桃金娘"]  我们是人，可不是死板地靠源石动力驱动的机器！
+[name="テンニンカ"]  あたしたちは人間だよ？　源石を動力にするような機械とは違うんだからね！
+[name="Myrtle"]  We're humans, not machines that run on Originium!
+[name="머틀"]  우리는 사람이야, 오리지늄 동력으로 돌아가는 로봇 같은 게 아니라고!
 
 [name="宴"]  连罗德岛的小车们都各有各的脾气呢。
+[name="ウタゲ"]  ロドスのロボットたちでさえ、みんなそれぞれ個性があるっていうのにね。
+[name="Utage"]  Even those robots we have back at Rhodes Island have more personality than what you're asking for.
+[name="우타게"]  하물며 로도스 아일랜드의 로봇들도 저마다 성격이 있잖아.
 
 [name="雷蛇"]  我这还不是为了你们——
+[name="リスカム"]  これは皆さんのためを思ってのことで――
+[name="Liskarm"]  I did all this for your own good—
+[name="리스캄"]  이게 다 너희들을 위해서잖아……
 
 [name="雷蛇"]  哪怕是最基础的巡逻任务，也有遭遇变异攻击型源石虫、突然的天气转变和突逢匪徒等意外情况的可能，必须提防。
+[name="リスカム"]  たとえ最も難易度の低い基礎的な巡回任務だとしても、変異した攻撃型オリジムシや突然の天候変化、盗賊の類に遭遇する可能性は常にあります。いつだって用心は必要なんです。
+[name="Liskarm"]  We could find ourselves in all kinds of unexpected situations even on the simplest patrol missions. We could run into violent mutant Originium Slugs, the weather could suddenly take a turn for the worse, and we could even run into bandits.
+[name="리스캄"]  가장 기본적인 순찰 임무라고 해도, 돌연변이 원석충의 공격이나 기상 이변, 적군의 기습 같은 뜻밖의 상황이 언제든지 일어날 수 있으니 사전에 대비하는 게 좋을 거다.
 
 [name="雷蛇"]  当然，还有一个备用方案，不过......哼。
+[name="リスカム"]  もちろん、予備のプランも用意はしてありますが……
+[name="Liskarm"]  Of course, I still have a backup plan. That said... hmph.
+[name="리스캄"]  물론, 대안이 하나 더 있긴 하지만…… 흐음……
 
 [name="雷蛇"]  谁让你们的战斗经验都尚且薄弱，我不放心——
+[name="リスカム"]  皆さんの任務経験がまだ浅いことを踏まえると、おすすめできません――
+[name="Liskarm"]  All of you are severely lacking in actual combat experience. That worries me—
+[name="리스캄"]  너희들의 실전 경험이 부족하고 실력이 낮으니, 내가 마음이 놓이지 않잖아……
 
 [name="卡达"]  所以......雷蛇队长，你是想靠这种方法让我们“轻松”一些？
+[name="カシャ"]  つまり……リスカム隊長は、あたしたちが「うまくいく」ようにこれを作ったと？
+[name="Click"]  So... Captain Liskarm, you're trying to make things easier for us this way?
+[name="클릭"]  그러니까…… 리스캄 팀장은 이런 방식으로 우리의 부담을 '덜어주는' 거야?
 
 [name="雷蛇"]  ......
+[name="リスカム"]  ……
+[name="Liskarm"]  ......
+[name="리스캄"]  ……
 
 [name="香草"]  我......我明白了！对于雷蛇前辈来说，这样以教材方式呈现的知识是最容易吸收和理解的！
+[name="バニラ"]  わ、私はわかりました！　リスカム先輩からすれば、こうした具体的な教材を用いて実際に行動した結果で得られる知識こそ、最も理解しやすく、だからこそ吸収しやすいと判断されたんですね！
+[name="Vanilla"]  I... I get it now! This is just the best way Captain Liskarm could come up with to make the information digestible, by turning it into study materials!
+[name="바닐라"]  저…… 저는 알겠어요! 리스캄 선배에게는 교재를 통해 구현한 지식이 이해하거나 흡수하기 가장 쉬운 거라는 것을!
 
 [name="宴"]  虽然也曾设想过自己有可能遇到像这样认真的人......用俗话说的话......
+[name="ウタゲ"]  こういう真面目な人っているんだろうなとは思ってたけど……リスカム隊長ってさ……
+[name="Utage"]  I knew I'd come across someone this serious one of these days, but well...
+[name="우타게"]  어쩌면 이렇게 진지한 사람을 만날 수 있다고 생각은 했었지만…… 뭐더라……
 
 [name="宴"]  雷蛇队长的习惯，其实特别像“优等生”会做出的反应呢？
+[name="ウタゲ"]  俗に言う「優等生」だよね？
+[name="Utage"]  For lack of a better term, you're like an honor student with these habits of yours.
+[name="우타게"]  리스캄 팀장의 그런 습관 말이야, '우등생'이 보이는 반응이랑 엄청 비슷하지 않아?
 
 [name="雷蛇"]  我......
+[name="リスカム"]  わたしは……
+[name="Liskarm"]  I...
+[name="리스캄"]  나, 나는……
 
 [name="雷蛇"]  说什么“优等生”......
+[name="リスカム"]  「優等生」だなんて……
+[name="Liskarm"]  What do you mean, 'honor student?'
+[name="리스캄"]  '우등생' 같은 게……
 
 ......
+......
+......
+......
 
+......
+......
+......
 ......
 
 [name="？？？"]  你的这些习惯，真的就像“优等生”一样呢。
+[name="？？？"]  あなたのそういう考え方が、まさに「ＴＨＥ　優等生」よね。
+[name="???"]  With these habits, you are really quite the honor student.
+[name="???"]  네 그런 습관이 바로 '우등생' 같다는 거야.
 
 [name="雷蛇"]  ......
+[name="リスカム"]  ……
+[name="Liskarm"]  ......
+[name="리스캄"]  ……
 
 [name="雷蛇"]  ......啧。
+[name="リスカム"]  ……チッ。
+[name="Liskarm"]  Tsk...
+[name="리스캄"]  ……쳇.
 
 [name="芙兰卡"]  到底为什么，雷蛇小姐你这么执着于优等生一般循规蹈矩地执行自己的作战演算呢？
+[name="フランカ"]  リスカムさんって、どうしてこんなに規律に拘って作戦を考案するのかしら？　なんかもう、全部が自分の思い通りにならないと気がすまないって感じよね。
+[name="Franka"]  So, Liskarm, how come you're always such an honor student, so obsessed with carrying out your combat plans by the book?
+[name="프란카"]  리스캄, 대체 이유가 뭐야? 우등생처럼 자신의 전투를 일일이 계산하는 데 집착하는 이유 말이야.
 
 [name="芙兰卡"]  我还以为你会更有趣一点呢。毕竟，那个噼里啪啦一下放出电的能力可要比别人都酷多了。
+[name="フランカ"]  あのバチバチって電気を放つ能力なんて、ものすごくカッコよかったから、もっと面白い人だと思ってたわ。
+[name="Franka"]  I think you'd be more interesting. Like, that ability of yours where you just shoot out electricity with a spark is so much cooler than anything I've ever seen.
+[name="프란카"]  난 네가 재미있는 녀석인 줄 알았어. 치직~ 하고 전류를 내보내는 능력은 다른 사람들보다 훨씬 멋있으니까.
 
 [name="雷蛇"]  为什么这么说。
+[name="リスカム"]  どういうことでしょうか。
+[name="Liskarm"]  What makes you say that?
+[name="리스캄"]  왜 그렇게 말하는 거지?
 
 [name="芙兰卡"]  只是一点感受吧。
+[name="フランカ"]  ただの感想よ。
+[name="Franka"]  It's just the vibe I'm getting from you, I guess.
+[name="프란카"]  그냥 느낀 대로 말한 것뿐이야.
 
 [name="芙兰卡"]  我们成为搭档也有三天了，过去三天的相处不知道你的感受如何，我倒是挺开心的，因为你充满了让我好奇的优点。
+[name="フランカ"]  あたしたちがコンビになって三日経ったわ。あなたがどう思ったかは知らないけど、あたしは結構楽しかったよ。だってあなたにはあたしの興味をそそる長所がいっぱいあるんだもの。
+[name="Franka"]  We've teamed up for three days now. I don't know how you feel about them, but I've had a lot of fun. There's so many great things about you that have piqued my interest.
+[name="프란카"]  파트너가 된 것도 벌써 사흘째야. 지난 사흘 동안 너랑 함께하면서 네 기분은 모르겠지만 적어도 난 즐거웠어. 왜냐면 내가 신기하다고 생각하는 장점이 네게 잔뜩 있었으니까.
 
 [name="芙兰卡"]  但是，今天正式来到战场才发现，你和我其实根本合不来啊？
+[name="フランカ"]  でも、今日、コンビを組んで初めて戦場に来てみてわかった。あなたとあたしはソリが全く合わないのよね。
+[name="Franka"]  But it wasn't until we came to the field together today that I noticed this. You and I don't actually get along that well.
+[name="프란카"]  하지만 오늘 전장을 제대로 겪고 나서야, 우린 전혀 맞지 않는다는 걸 깨달았지.
 
 [name="雷蛇"]  很巧，你和我想到一块去了。
+[name="リスカム"]  奇遇ですね、私も同じことを考えていました。
+[name="Liskarm"]  What a coincidence. I feel the same way.
+[name="리스캄"]  공교롭게도 나랑 생각이 같네.
 
 [name="雷蛇"]  芙兰卡小姐，我们的上司，珍妮特·朗费罗博士应该教过你什么叫做严谨和认真的态度，以及黑钢成员需要严格遵守的基本安全意识。
+[name="リスカム"]  フランカさん、我々の上司ジャネット・ロングフェロー博士は、冷静で真面目な態度とは何か、そしてBSWメンバーとして遵守すべき基本的な安全意識とは何かをあなたに教えているはずです。
+[name="Liskarm"]  Franka, if I'm not mistaken, our superior, Dr. Janet Longfellow, should already have taught you to be rigorous and meticulous, and to always maintain a basic level of safety awareness as a Blacksteel employee.
+[name="리스캄"]  프란카, 우리의 상사인 자넷 롱펠로우 박사가, 엄격하면서도 진지한 태도가 무엇인지, 또 블랙스틸 대원이 기본 안전의식을 지켜야 하는 이유가 뭔지 분명 가르쳐 줬을 텐데?
 
 [name="芙兰卡"]  啊啊，这些我都快听腻了。
+[name="フランカ"]  ああ、そんなのどうでもいいから。
+[name="Franka"]  Yeah, I'm sick of hearing all that.
+[name="프란카"]  아아~ 귀에 딱지가 앉을 정도로 많이 들었지.
 
 [name="芙兰卡"]  可是你们守旧、刻板的一派也从来不会站在我这边考虑。
+[name="フランカ"]  あなたたち保守的でお堅い一派の皆さんは、一度だってあたしの立場になって何か考えたことないでしょ？
+[name="Franka"]  That's what you stubborn types always say: gotta stick to the rules and all that, but you guys never try to stand in my shoes either.
+[name="프란카"]  하지만 너희처럼 케케묵은 규칙만 지키는 녀석들은 전혀 내 입장에서 생각해 주지 않아.
 
 [name="芙兰卡"]  我可是正儿八经通过了黑钢干员能力评估，以几乎全A的分数获得了认可的，也算半个“优等生”吧。
+[name="フランカ"]  あたしはちゃんとBSWの能力評価でほぼオールAの成績を貰ってるの。あなたとは別の意味で「優等生」なのよ？
+[name="Franka"]  I passed all of Blacksteel's operator evaluations fair and square, and I got As in almost all the categories, so that makes me half an honor student too, doesn't it?
+[name="프란카"]  난 블랙스틸 오퍼레이터의 실력 테스트를 통과하고, 거의 전 부문에서 A를 받은 반쪽짜리 '우등생'이야.
 
 [name="芙兰卡"]  为什么上头却忧心忡忡地总是想要限制我的发挥，甚至不惜调动人事安排你来和我“搭档”呢？
+[name="フランカ"]  上が何を心配してあたしの能力を制限したがるのかなんてどうでもいいけど、まさかあなたみたいな人とあたしを「コンビ」にするために人事異動までさせるなんて……
+[name="Franka"]  I've more than proven myself, but why are the higher-ups are so antsy about keeping me in check? They even went through all that HR nightmare just to have the two of us buddy up.
+[name="프란카"]  어째서 상부에서는 항상 이렇게 불안으로 덜덜 떨면서 내 능력을 제한하려는 거지? 그것도 모자라 인사 정책까지 써 가며 우릴 '파트너'로 묶어두는 이유가 대체 뭐냐고?
 
 [name="雷蛇"]  这种毫无意义的抱怨请提前在报告中提出。
+[name="リスカム"]  そういう無意味な愚痴は事前に報告書に記載しておいてください。
+[name="Liskarm"]  You should've filed your grievances before the mission if you were going to complain.
+[name="리스캄"]  그런 의미 없는 원망은 미리 보고서로 제출하도록 해라.
 
 [name="雷蛇"]  我当然不对你的实力抱持怀疑，对自己的搭档的能力数值熟记于心是基本。
+[name="リスカム"]  自分のパートナーの能力を把握しておくことは基本ですから、もちろん確認したし、あなたの実力と客観的な評価に対して、わたしは一切の疑問を抱いていません。
+[name="Liskarm"]  I have no doubt you are more than capable. It's part of the basics to get a good grasp of your partner's abilities, after all.
+[name="리스캄"]  물론 너의 실력을 의심하는 건 절대 아니야. 파트너의 능력 수치를 기억해 두는 건 기본이니까.
 
 [name="芙兰卡"]  哼。
+[name="フランカ"]  フンッ。
+[name="Franka"]  Hmph.
+[name="프란카"]  하!
 
 [name="雷蛇"]  所以，我也希望芙兰卡小姐你能意识到，仅就能力测试这一点来说，我的综合数值和您仅有1%的差距。
+[name="リスカム"]  ですから、同じ能力評価において、わたしの総合値はあなたと1%の差しかないということを理解していただきたいのです。
+[name="Liskarm"]  Which is why I would appreciate it if you would understand that, based on the results of our evaluations alone, there is a 1% difference between you and me.
+[name="리스캄"]  그러니 프란카, 네가 이 사실을 알았으면 좋겠군. 실력 테스트만 보면, 나의 종합 수치는 너와 겨우 1% 정도밖에 차이가 나지 않아.
 
 [name="芙兰卡"]  这1%的差距就是你的死板造成的。
+[name="フランカ"]  その1%の差はきっと、あなたのその融通が利かないところが原因でしょうね。
+[name="Franka"]  See? You got a 1% difference because of how uptight you are.
+[name="프란카"]  그 1%의 차이는 네 그 꽉 막힌 성격 때문에 생긴 거겠지.
 
 [name="芙兰卡"]  到底会是什么样的家伙，可以死板到以秒为单位来精确计划战场上的情况啊？
+[name="フランカ"]  だいたい一体誰が、戦場のしかも最前線で、状況を秒単位で把握して正確に行動できるのよ？
+[name="Franka"]  I mean, how uptight do you have to be to lay out your plans on the battlefield down to the second?
+[name="프란카"]  대체 어떤 녀석이 전투에서의 작전 계획과 상황을 초 단위로 계산하는데?
 
 [name="雷蛇"]  就算是我擅自做了多余的事情吧。
+[name="リスカム"]  わたしが余計なことを、勝手にやっていると理解しておけばいいのではないでしょうか？
+[name="Liskarm"]  Let's just say I wanted to do the pointless work, then.
+[name="리스캄"]  내가 멋대로 쓸데없는 짓을 했나 보군.
 
 [name="雷蛇"]  但这些数据也是通过所有方案演算和模拟之后得出的结论，所有预想会发生的意外我已经全部考虑过了。
+[name="リスカム"]  ですが、わたしのデータはあらゆる計算やシミュレーションを行った結果、導き出された結論です。想定される突発的事項もすべて考慮しています。
+[name="Liskarm"]  However, know that I drew these conclusions by analyzing and simulating all the courses of action we could take, and I've also taken into account all unexpected situations we could find ourselves in.
+[name="리스캄"]  하지만 이런 데이터 역시 모든 대책의 연산과 시뮬레이션을 거쳐 나온 결과다. 예상할 수 있는 변수에 대해서는 이미 생각해 뒀지.
 
 [name="雷蛇"]  在你看来，难道谨慎会是一件“坏事”吗？
+[name="リスカム"]  あなたは、慎重であることを「悪い事」だと判断するのですか？
+[name="Liskarm"]  Do you think my cautiousness is a bad thing?
+[name="리스캄"]  네가 보기엔, 신중한 게 '나쁜 일'인가?
 
 [name="芙兰卡"]  坏事倒算不上。
+[name="フランカ"]  悪いとまでは言ってないわよ。
+[name="Franka"]  I'm not saying it's a bad thing.
+[name="프란카"]  나쁜 일이라고는 할 수 없지.
 
 [name="芙兰卡"]  但确实是件麻烦事。
+[name="フランカ"]  慎重すぎることが面倒だって言ってるの。わかる？
+[name="Franka"]  It's a pain in the ass, though.
+[name="프란카"]  하지만 확실히 귀찮기는 해.
 
 [name="雷蛇"]  你——
+[name="リスカム"]  あなたね――
+[name="Liskarm"]  You—
+[name="리스캄"]  그게 무슨……
 
 [name="芙兰卡"]  我们的档案是向对方开放的，雷蛇小姐。
+[name="フランカ"]  リスカムさん、知ってると思うけど、あたしたちのプロファイルはお互いに開示されているわ。
+[name="Franka"]  Both of us can access each other's files, Liskarm.
+[name="프란카"]  우리의 파일은 상대에게 공개되어 있어, 리스캄.
 
 [name="芙兰卡"]  你的指挥疏忽导致自己小组成员受伤的事情我也有所耳闻。
+[name="フランカ"]  あなたの指揮にミスがあったせいで、小隊メンバーがケガを負ったことはあたしも聞いている。
+[name="Franka"]  And I know how you got your teammates hurt because there were problems with your command.
+[name="프란카"]  너의 지휘 실수로 팀원이 부상을 입었다는 건 나도 들은 적이 있지.
 
 [name="芙兰卡"]  或许，犯下那些失误的原因正是小组干员过于信赖你的那份“稳重”呢？
+[name="フランカ"]  もしかしたらそのケガの原因は、小隊メンバーがあなたのその「慎重さ」を信じ過ぎたせいなんじゃないの？
+[name="Franka"]  Are you sure those teammates didn't make those mistakes because they relied on that cautiousness of yours a little too much?
+[name="프란카"]  어쩌면 그런 실수를 저지른 원인은 같은 팀의 오퍼레이터가 네 능력을 '맹신'한 탓 아닐까?
 
 [name="雷蛇"]  ......同样的，你过分深入敌中，追求个人行动从而忽视队友危险的事件也记录在案。
+[name="リスカム"]  ……制止を振り切って、スタンドプレーに走った結果、敵陣深くに入り込み過ぎてチームメイトを危険にさらしたというあなたの起こした行動を、わたしも確認しています。
+[name="Liskarm"]  Likewise, your obsession with acting on your own and your lack of concern for your teammates' safety when you strayed into enemy territory were also recorded in the files.
+[name="리스캄"]  ……마찬가지로, 넌 적군 진영에 깊숙이 파고드는 개인행동으로 팀원을 위험에 빠뜨린 적도 있었다고 파일에 기록되어 있더군.
 
 [name="雷蛇"]  你不会忘记了这一点吧。
+[name="リスカム"]  それを忘れて言っているわけではありませんよね？
+[name="Liskarm"]  Surely you haven't forgotten about that?
+[name="리스캄"]  벌써 잊은 건 아니겠지?
 
 [name="芙兰卡"]  哈。
+[name="フランカ"]  ハッ。
+[name="Franka"]  Hah.
+[name="프란카"]  흥!
 
 [name="芙兰卡"]  虽然不想承认，活在现实生活中的我们，却靠着那些传闻和死板的数据来判断对方的形象，不是很可笑吗？
+[name="フランカ"]  過去の噂やデータだけを元に、今の相手をわかったつもりになるなんて、馬鹿馬鹿しいわよ。
+[name="Franka"]  I hate to admit it, but we're both alive and kicking and right in front of each other. Don't you think it's funny that we're basing our image of each other on some silly rumors and data?
+[name="프란카"]  인정하고 싶지 않지만, 현실에서 살아가는 우리가 소문과 딱딱한 데이터로 상대의 이미지를 판단하고 있는 꼴이 너무 우습지 않아?
 
 [name="雷蛇"]  正因如此，我也希望芙兰卡小姐你能体会一起行动的小队成员们对你的担忧。
+[name="リスカム"]  だからこそ、一緒に行動している小隊メンバーが、あなたに抱いている不安を理解してほしいんです。
+[name="Liskarm"]  That's why I would prefer it if you could at least try to understand the concerns of your fellow teammates.
+[name="리스캄"]  바로 네 그런 점 때문에, 함께 싸우는 동료들이 프란카 너를 걱정하고 있다는 것을 깨닫길 바란다.
 
 [name="雷蛇"]  一意孤行地想要承担所有危险的想法是多么肤浅，对此，我想你应该已经吃过不少教训了。
+[name="リスカム"]  独断専行ですべての危険を一人で抱え込むという行いが、いかに身勝手で周囲を無視したものか、あなたはすでに少なからず痛い目を見ているでしょう。
+[name="Liskarm"]  You need to understand just how haphazard it is to take on all the dangers yourself. I am sure you've already learned about this the hard way multiple times.
+[name="리스캄"]  혼자서 모든 위험을 짊어지겠다는 생각이 얼마나 어설픈지, 너도 꽤 많은 교훈을 얻었으리라 생각한다.
 
 [name="芙兰卡"]  你是在关心我吗？
+[name="フランカ"]  あら？　あたしの心配をしてくれてるの？
+[name="Franka"]  Are you worried about me?
+[name="프란카"]  지금 나 걱정하는 거야?
 
 [name="雷蛇"]  我......
+[name="リスカム"]  わたしは……
+[name="Liskarm"]  I...
+[name="리스캄"]  나, 나는……
 
 [name="雷蛇"]  ......嗯，理应如此。
+[name="リスカム"]  ……そうですね。わたしはあなたを心配していますし、そうすべきだと思います。
+[name="Liskarm"]  Right... I suppose I am.
+[name="리스캄"]  ……그래, 당연히 그래야지.
 
 [name="雷蛇"]  我们现在，是搭档。
+[name="リスカム"]  わたしたちは今、コンビですから。
+[name="Liskarm"]  For the time being, we are partners.
+[name="리스캄"]  지금 우린, 파트너니까.
 
 [name="芙兰卡"]  搭档啊......
+[name="フランカ"]  コンビ、ね……
+[name="Franka"]  Partners, huh...?
+[name="프란카"]  파트너라……
 
 [name="芙兰卡"]  在黑钢，最长时间的搭档组合好像也只持续了四年吧？
+[name="フランカ"]  BSWで最も長く続いたコンビって、たしか四年だったかしら？
+[name="Franka"]  I think the longest that a duo has stuck together with each other at Blacksteel was only, what, four years?
+[name="프란카"]  블랙스틸에서 가장 오랫동안 어울렸던 파트너도 4년밖에 못 갔던 것 같은데?
 
 [name="芙兰卡"]  频繁调动岗位也是为了大家适应更多的环境和情形。
+[name="フランカ"]  頻繁な異動の理由は、みんなにより多くの環境や状況を経験させるため、だったわよね？
+[name="Franka"]  They change our posts often to make sure we get used to a wider variety of environments and circumstances.
+[name="프란카"]  인사이동이 잦았던 것도, 다 모두가 더 많은 환경과 상황에 적응할 수 있도록 하기 위함이었던 거라고.
 
 [name="芙兰卡"]  不过珍妮特也说过，我和你的行事风格都太有特色，很难找到真正合适的搭档。
+[name="フランカ"]  ジャネットに言われたわ。あたしとあなたのスタイルはどちらもクセが強過ぎる。適切なパートナーを見つけるのは難しいってね。
+[name="Franka"]  Though Janet has also said that both you and I are too quirky, so it's hard for us to find suitable partners.
+[name="프란카"]  하지만 자넷도 말했듯이, 우리의 일 처리 방식이 워낙 특이해서 손발이 맞는 파트너를 찾는 게 쉽지 않아.
 
 [name="芙兰卡"]  要证明我们在任务行动中配合真的够好，会给与充足的磨合适应期。
+[name="フランカ"]  だから今回は、あたしたちがうまく任務をこなせるかどうかを確認するために、十分な時間を与えてくれるらしいわよ。
+[name="Franka"]  And to prove that we'd work well together as a team, she said she'd give us enough time to get used to working with each other.
+[name="프란카"]  임무를 수행하는 과정에서 손발이 잘 맞는다는 걸 입증하려면 꽤 오랜 시간을 함께 보내야 할 거야.
 
 [name="雷蛇"]  就现在在争执上花费的时间来看，这段磨合适应期不会有多么短暂了。
+[name="リスカム"]  今の時点で言い争いに時間を費やしていることを考えると、この試用期間そのものが無駄である気もします。
+[name="Liskarm"]  Considering how we've already wasted much of our time on this needless debate, I can already imagine how long it'll take before we tolerate each other.
+[name="리스캄"]  지금 신경전을 벌이는 데 허비한 시간을 감안하면, 우리가 손발을 맞추기까진 꽤 오랜 시간이 걸리겠군.
 
 [name="雷蛇"]  唉......首次任务的评价或许也会大打折扣。
+[name="リスカム"]  はぁ……初任務の評価も大幅に下げられるかもしれません。
+[name="Liskarm"]  *Sigh*... It's only my first mission, but my evaluation will likely take a huge hit.
+[name="리스캄"]  하아…… 첫 임무의 평가가 크게 저조할 수도 있겠네.
 
 [name="雷蛇"]  我的绩效——
+[name="リスカム"]  わたしの人事評価――
+[name="Liskarm"]  My performance evaluation—
+[name="리스캄"]  내 실적은……
 
 [name="芙兰卡"]  哼哼......不过，这也还不错吧？
+[name="フランカ"]  フフッ……でも、それ、悪くないんじゃない？
+[name="Franka"]  Hehe... This isn't that bad either, is it?
+[name="프란카"]  흐흥…… 그래도 이 정도면 나쁘진 않잖아?
 
 [name="芙兰卡"]  你的“优等生”般提前做足功课的做法虽然有些极端，但事先预防危险总不是件坏事。
+[name="フランカ"]  必要のない範囲まで予習をするような「優等生」らしさは少し極端だと思うけど、危険を予防しておくことは悪い事じゃないわ。
+[name="Franka"]  I mean, the way you do all your homework beforehand is kinda extreme, but it's not a bad thing to take precautions.
+[name="프란카"]  네가 그 '우등생'처럼 미리, 충분히 공부하는 경향이 다소 지나치긴 하지만 미리 대비한다고 해서 나쁜 건 아니니까.
 
 [name="芙兰卡"]  我在想，雷蛇小姐，如果你连我的“出格”行动也能预测一部分，对我说不定真的是很大的提升呢。
+[name="フランカ"]  リスカムさんが、もしあたしの「トリッキーな」な行動も予想して対応できるなら、あたしにとってはいいパートナーかもね。
+[name="Franka"]  If you can manage to predict even some of my so-called out-of-line actions, that might actually be a huge improvement to both of us.
+[name="프란카"]  리스캄 네가 내 '일방적인' 행동마저 어느 정도 예측할 수 있다면, 내 능력도 정말 크게 향상될지도 모르겠는데?
 
 [name="雷蛇"]  ......就让我看看你是否值得我为之不断调试努力吧。
+[name="リスカム"]  ……わたしがそこまで努力する価値があなたにあるのか、お手並を拝見しましょうか。
+[name="Liskarm"]  We'll see if you're worth the extra effort, then.
+[name="리스캄"]  ……널 위해 내가 계속해서 노력할 만한 가치가 있는지는 차차 지켜보도록 하지.
 
 [name="雷蛇"]  同样的，芙兰卡队员，我的确没能通过提前计算来成功规避小组成员受到的一些损伤。
+[name="リスカム"]  そしてフランカさん、わたしが事前に計算し計画を立てても、小隊メンバーの負傷を百パーセント回避できなかったのも事実です。
+[name="Liskarm"]  Likewise, Franka, it's true that I wasn't able to prevent my teammates from getting injured with my calculations.
+[name="리스캄"]  나도 마찬가지로, 확실히 사전 계산을 통해 팀원들의 피해를 막지 못했었다.
 
 [name="雷蛇"]  我承认，现在的自己尚且实力不足。
+[name="リスカム"]  わたしはまだまだ実力不足です。それを認めます。
+[name="Liskarm"]  I admit I still have a long way to go.
+[name="리스캄"]  인정하지. 지금의 나는 여전히 가야 할 길이 멀어.
 
 [name="雷蛇"]  将责任感适当控制也是一种保持冷静的手段。
+[name="リスカム"]  責任感を適切に制御するのも、冷静さを保つための一つの手段になります。
+[name="Liskarm"]  Keeping your sense of responsibility in check is a means to keep a cooler head.
+[name="리스캄"]  책임감을 적절하게 조절하는 것 또한 냉정함을 유지할 수 있는 방법이 되겠지.
 
 [name="芙兰卡"]  不过放宽心，如果你真的和我一拍即合，我倒不是不能帮你给作战计划在实战中查漏补缺。
+[name="フランカ"]  安心して。もしあたしたちが本当に相性が良いなら、実戦であなたの計画に生じた穴をいくらかは補ってあげられると思うわ。
+[name="Franka"]  Oh, don't worry. If we really do hit it off with each other, I could help poke holes in those mission plans of yours in actual combat.
+[name="프란카"]  그래도 걱정할 거 없어. 나랑 합만 잘 맞으면, 실전에서 작전 기획상의 부족한 점을 채워주는 걸 도와주지 않을 이유가 없으니까.
 
 [name="雷蛇"]  尽说大话。
+[name="リスカム"]  あなたは大口を叩いてばかりですね。
+[name="Liskarm"]  Feel free to keep bluffing.
+[name="리스캄"]  큰소리는……
 
 [name="雷蛇"]  该如何减轻责任感冷静地战斗，让我见识见识吧。
+[name="リスカム"]  いいでしょう。責任感から生じる精神的圧力にどう対処すれば冷静でいられるか、参考にさせてもらいます。
+[name="Liskarm"]  Do show me how you would relieve yourself of your sense of responsibility and keep your cool during combat.
+[name="리스캄"]  책임감을 내려놓고, 냉정하게 싸우는 게 어떤 건지 시범을 보여줘라.
 
 [name="芙兰卡"]  哼哼，可不要眨眼哦——
+[name="フランカ"]  フフッ、まばたきしないようにね――
+[name="Franka"]  Heh, well don't you blink for even a moment then.
+[name="프란카"]  흥, 눈 크게 뜨고 잘 보라고!
 
 [name="芙兰卡"]  ......咳、咳咳，你没事吧，雷蛇！
+[name="フランカ"]  ゴホッ、ゴホゴホッ！　リスカム、大丈夫？
+[name="Franka"]  *Cough*... *cough*. Are you okay, Liskarm?!
+[name="프란카"]  쿨럭, 쿨럭…… 괜찮은 거지, 리스캄?
 
 [name="雷蛇"]  我，我没事......
+[name="リスカム"]  わ、わたしは大丈夫ですが……
+[name="Liskarm"]  I-I’m okay...
+[name="리스캄"]  난, 난 괜찮아……
 
 [name="芙兰卡"]  想不到啊，你居然真的藏了一手？
+[name="フランカ"]  びっくりしたわ……まさかあんな奥の手を隠してたなんて。
+[name="Franka"]  Well, I didn't expect you to actually have a few more tricks up your sleeve.
+[name="프란카"]  뜻밖이네. 네가 이런 수를 숨겨 두고 있을 줄이야……
 
 [name="芙兰卡"]  这是什么？为了求生仿佛“断尾”一般的绝地反击吗？
+[name="フランカ"]  今のは何？　肉を切らせて骨を断つっていうやつかしら？
+[name="Franka"]  What's this now? Some kind of last-gasp attack bordering on cutting your tail off?
+[name="프란카"]  이건 뭐야? '꼬리 자르기'처럼 목숨을 부지하기 위한 필사의 반격 같은 건가?
 
 [name="雷蛇"]  才没有“断尾”那么可怕呢，哈......
+[name="リスカム"]  そこまで恐ろしいことはしていません……
+[name="Liskarm"]  This is nothing as scary as that... *Sigh*...
+[name="리스캄"]  '꼬리 자르기'라는 표현이 좀 그렇군……
 
 [name="雷蛇"]  这只是，帮你收拾烂摊子的一种......最终手段。
+[name="リスカム"]  これはただ、あなたの散らかした場の後始末をするための、最終手段です。
+[name="Liskarm"]  This is just... a last-ditch effort... to clean up your mess.
+[name="리스캄"]  이건 그저, 너의 뒷수습을 하기 위한…… 마지막 수단이지.
 
 [name="芙兰卡"]  现在怎么看都是我在帮你收拾烂摊子吧？
+[name="フランカ"]  どう見ても今、あたしがあなたのために後始末をしてると思うんだけど？
+[name="Franka"]  I'm pretty sure I am the one cleaning somebody's mess here.
+[name="프란카"]  아무리 봐도 지금은 내가 네 뒷수습을 하고 있는 것 같은데?
 
 [name="芙兰卡"]  还逞能说自己是个精确读秒来控制战场的优等生呢，结果你也是个一着急就控制不住自己发电的冒失鬼。
+[name="フランカ"]  自信満々に秒単位で戦場をコントロールしようとしてた優等生が、焦ると満足に扱えもしない電気をバチバチさせたからこんなことになってるんじゃないの？
+[name="Franka"]  And here I thought you had the battlefield so under control, you had everything figured out down to the second, but looks like you're just another dummy who can't keep herself from electrocuting everything when things get hairy.
+[name="프란카"]  초 단위로 전투를 통제하는 우등생이라고 잘난 척하더니, 그냥 급한 마음도 다스릴 줄 모르는 천둥벌거숭이잖아?
 
 [name="雷蛇"]  这种时候别揶揄我了。
+[name="リスカム"]  こんな時にからかわないでください。
+[name="Liskarm"]  You could at least stop mocking me when I'm so exhausted.
+[name="리스캄"]  이 상황에서 비웃는 건 그만하지그래?
 
 [name="雷蛇"]  要么把我带回去休息，要么干脆把我丢在这里，我只需要休息一会儿......
+[name="リスカム"]  わたしを連れて帰るか、それとも……いっそここに置いて行ってもいいですよ、少し休めばなんとかなります。
+[name="Liskarm"]  Either bring me back so I can get some rest there, or just leave me alone and give me some peace and quiet...
+[name="리스캄"]  날 데리고 돌아가든지, 아니면 아예 여기에 내버려 두든지, 맘대로 해라. 난 조금만 쉬면……
 
 [name="雷蛇"]  ......
+[name="リスカム"]  ……
+[name="Liskarm"]  ......
+[name="리스캄"]  ……
 
 [name="雷蛇"]  ......怎么了，芙兰卡。
+[name="リスカム"]  ……どうしたんですか？
+[name="Liskarm"]  What's the matter, Franka...?
+[name="리스캄"]  ……왜 그래, 프란카?
 
 [name="雷蛇"]  喂，芙兰卡？你到底要不要送我回去？
+[name="リスカム"]  フランカ、わたしを連れて帰るのか、帰らないのか、どうするんですか？
+[name="Liskarm"]  Hey, Franka? Are you taking me with you or not?
+[name="리스캄"]  어이, 프란카? 날 데리고 갈 거야 말 거야?
 
 [name="雷蛇"]  这可是战场！
+[name="リスカム"]  ここは戦場ですよ！
+[name="Liskarm"]  You're leaving me behind in a battlefield?!
+[name="리스캄"]  여긴 전장이라고!
 
 [name="芙兰卡"]  嘿，你现在是真的一点都动弹不了？
+[name="フランカ"]  ねぇ……あなた今、本当に少しも身動きできないわけ？
+[name="Franka"]  Hm, I thought you couldn't move even a bit?
+[name="프란카"]  너 말이야, 지금 정말 꼼짝도 못 하겠는 거야?
 
 [name="雷蛇"]  假的，我才没有全身都麻麻的。
+[name="リスカム"]  で、できますよ、別に全身が痺れているわけじゃないんですから。
+[name="Liskarm"]  Of course I can. Do you really think that much could wear me out?
+[name="리스캄"]  아니, 온몸이 찌릿찌릿하거나 한 건 조금도 없다.
 
 [name="芙兰卡"]  吼吼......既然如此，我想怎么折腾都行咯？
+[name="フランカ"]  へぇ、なるほどね。それなら、あたしが好きにしてもいいってことよねぇ。
+[name="Franka"]  Hmph... Well, in that case, I guess I can torment you however I want?
+[name="프란카"]  오호라~ 그러면 내가 마음대로 해도 상관없겠네?
 
 [name="雷蛇"]  等等，你要做什么......别碰我的头发！
+[name="リスカム"]  な、なんでそうなるんですか！　ちょ、ちょっと待って？　何をする気なの？　……髪に触らないで！
+[name="Liskarm"]  Wait, what are you doing...? Don't touch my hair!
+[name="리스캄"]  잠깐! 뭘 하려는 거야?…… 내 머리에서 손 떼!
 
 [name="雷蛇"]  啊啊，我要找朗费罗博士告状，明天就撤销这个该死的人事调动——
+[name="リスカム"]  だめだ、ロングフェロー博士に訴えてこの酷い人事異動は即刻取り消してもらわないと――
+[name="Liskarm"]  I'm definitely going to talk to Dr. Longfellow tomorrow. I'll tell her all about this and have her call off this dreaded team-up—
+[name="리스캄"]  아아!! 롱펠로우 박사한테 이를 거다! 내일 이 망할 인사이동을 취소해 달라고……
 
 [name="芙兰卡"]  你倒是试试看啊？
+[name="フランカ"]  試してみたら？
+[name="Franka"]  Yeah, I'd like to see you try.
+[name="프란카"]  해 볼 테면 해 보던가.
 
 [name="芙兰卡"]  先提醒你，珍妮特可是很——宠我的。
+[name="フランカ"]  先に言っておくけど、ジャネットはあたしのことがとーってもお気に入りよ？
+[name="Franka"]  Need I remind you just how much Janet loves me?
+[name="프란카"]  먼저 말해 두는데, 자넷 박사는 날 끔찍이 아낀다고.
 
 [name="雷蛇"]  （唉，这种回忆我竟然记得这么清楚。）
+[name="リスカム"]  （はぁ、こんなことをどうしてここまでハッキリ覚えてるんだろう……）
+[name="Liskarm"]  (*Sigh*, why do I remember all this down to the details?)
+[name="리스캄"]  (어휴, 내가 그런 일을 이렇게 생생히 기억하고 있었을 줄이야.)
 
 [name="香草"]  雷蛇前辈，你生气了吗？
+[name="バニラ"]  リ、リスカム先輩……怒っちゃいました？
+[name="Vanilla"]  Liskarm, are you mad?
+[name="바닐라"]  리스캄 선배, 화났어요?
 
 [name="香草"]  对不起，我也会劝劝大家的。
+[name="バニラ"]  ごめんなさい、私も皆さんに話をしてきますね。
+[name="Vanilla"]  I'm sorry. I'll try to get them to calm down too.
+[name="바닐라"]  죄송해요, 저도 모두를 설득해 볼게요.
 
 [name="雷蛇"]  没有必要紧张。我也明白，这只是一次普通的巡逻和周边勘察的任务而已。
+[name="リスカム"]  緊張する必要はありません。わたしも今回の任務が何の変哲もない巡回と、周囲の調査だというのは、わかっています。
+[name="Liskarm"]  Don't worry. I get it too. This is just a normal patrol and recon mission.
+[name="리스캄"]  긴장할 것 없어. 나도 알아, 이건 평범한 순찰과 주변 정찰에 불과하다는걸.
 
 [name="桃金娘"]  我、我们也不是想要为难你的，雷蛇队长，对不起......
+[name="テンニンカ"]  あ、あたしたちも困らせたくてあんなことしたんじゃないよ。リスカム隊長ごめんなさい……
+[name="Myrtle"]  W-We aren't trying to give you a hard time, Captain Liskarm. Sorry...
+[name="머틀"]  우, 우린 일부러 곤란하게 하려고 그런 게 아니라…… 리스캄 팀장, 미안해……
 
 [name="卡达"]  只是，黑钢的那种强调稳重安全，非常严格的做派，我们非常崇拜，但是却望尘莫及......
+[name="カシャ"]  慎重さや安全性を重視するBSWみたいな厳しいやり方は、すごいとは思うよ。でもさ、あたしたちにはできないよ……
+[name="Click"]  I mean, all of us really respect how Blacksteel does things. How strict they are, how they emphasize safety and whatnot, but that's just out of our reach...
+[name="클릭"]  안전을 강조하면서 매우 엄격한 블랙스틸의 분위기를 우리도 동경하지만, 우리 실력으로는 어림도 없는걸……
 
 [name="桃金娘"]  那本任务指导手册我真的有看完哦！因为是雷蛇你写给我们的，还专门提出了我的弱点，我有认真记住！只是全部背下来就有点......
+[name="テンニンカ"]  任務マニュアルだって本当にちゃんと読んだんだよ！　あたしたちのために書いてくれたんだし、わざわざあたしの弱点まで指摘してくれてるから！　でもさすがに全部覚えるのはちょっと……
+[name="Myrtle"]  I've actually finished reading that guidebook, you know! I mean, you gave it to us. How could I not? You mentioned all of my weaknesses in the book, and I really tried to memorize it all! It's just... getting everything memorized isn't my forte...
+[name="머틀"]  임무 가이드 전부 다 읽었어! 리스캄이 우리를 위해서 작성한 것이기도 하고, 약점까지 콕 집어 둔 거라 정말 진지하게 읽었다고. 전부 다 외우진 못했지만……
 
 [name="雷蛇"]  嗯，这种情况我也考虑过了。
+[name="リスカム"]  ええ、このような状況になる可能性も織り込み済みです。
+[name="Liskarm"]  Yeah, I thought this would happen.
+[name="리스캄"]  그래, 이런 상황도 이미 예상했어.
 
 [name="香草"]  咦？
+[name="バニラ"]  え？
+[name="Vanilla"]  Huh?
+[name="바닐라"]  네?
 
 [name="雷蛇"]  所以说，我也不是完全不通情达理的类型，不会因为这次任务是我做队长就那么死板。
+[name="リスカム"]  つまり、わたしもそこまで物分かりが悪いわけではありませんし、今回の任務で隊長を務めているからといって、あなたたちにBSWのように厳しく接するつもりもありません。
+[name="Liskarm"]  As I've been trying to say, I'm not really as inflexible as you're making me out to be. Things aren't set in stone just because I'm in charge of this mission.
+[name="리스캄"]  그러니 나 역시 꽉 막힌 타입이 아니라는 거지. 이번 임무에서 팀장이라고 융통성 없이 굴진 않을 거다.
 
 [name="雷蛇"]  这份才是真正的行动前确认书，只要一分钟就能记住了。
+[name="リスカム"]  これを改めてお渡しします。本当の行動前の確認書です。一分あれば覚えられます。
+[name="Liskarm"]  Here is the actual pre-operation handbook. It'll only take you a minute to remember everything.
+[name="리스캄"]  제대로 된 작전 확인서는 여기 있다. 1분이면 외울 수 있어.
 
 [name="雷蛇"]  包括因为附近可能有优质的苹果树，现在又正是结果的时候，已经规划出了二十分钟的采摘时间。
+[name="リスカム"]  この付近に良質なリンゴの木が生えていると報告がありました。しかも、今がちょうど食べ頃を迎える実がなっているようですので、二十分ほど、リンゴを摘み取るための時間を設けました。
+[name="Liskarm"]  I also considered the likelihood of us coming across apple trees and the fact that apples are currently in season, and set aside twenty minutes for us to pick apples.
+[name="리스캄"]  근처에 있을 수 있는, 먹음직스러운 사과가 잔뜩 달린 사과나무가 마침 수확기라는 점을 감안해서, 사과를 딸 시간으로 20분을 배정해 뒀다.
 
 [name="雷蛇"]  简单的采摘道具和收纳袋也一并备了一些在包里......
+[name="リスカム"]  簡単な収穫用の道具、および収穫したリンゴを詰める収納袋も一緒にバッグの中に準備してあります。
+[name="Liskarm"]  I have a few gathering tools tucked away in my bag as well...
+[name="리스캄"]  간단한 도구와 바구니도 함께 가방에 준비해 뒀고……
 
 [name="卡达"]  好、好诶！
+[name="カシャ"]  やったー！
+[name="Click"]  N-Nice!
+[name="클릭"]  와, 잘 됐다!
 
 [name="雷蛇"]  只不过，巡逻任务还是要好好完成。没问题吧？
+[name="リスカム"]  ただ、あくまでも休憩中の話です。それとは別に、巡回任務はしっかりとやっていただきます。問題はありませんね？
+[name="Liskarm"]  That being the case, we still have to bring our mission to a successful conclusion. Is that understood?
+[name="리스캄"]  그래도, 순찰 임무는 그대로 무사히 잘 완료할 수 있겠지?
 
 [name="卡达"]  嘿嘿，再好不过了！等我们做完一顿大餐，会留给雷蛇队长你最多份量的！
+[name="カシャ"]  へへっ、完璧だよ！　リンゴでいろいろ作ったら、リスカム隊長に一番たくさんあげるよ！
+[name="Click"]  Hehe, just what I wanted to hear! Wait till we're done making our desserts! We'll give you the biggest portion!
+[name="클릭"]  헤헤, 맡겨만 줘! 맛있는 요리를 만들면 팀장 몫은 제일 많이 챙겨줄게!
 
 [name="雷蛇"]  我可没说过自己多么喜欢吃甜食......咳，总之，接下来一分钟好好听我说话！
+[name="リスカム"]  別に甘い物が好きだなんて言ったことはありませんが……コホン、とにかく、これからの一分間はちゃんと話を聞いてください。
+[name="Liskarm"]  I didn't mention anything about my penchant for desserts... Ahem, anyway, listen up for the next minute!
+[name="리스캄"]  간식을 좋아한다고 말한 적은 없는 것 같은데…… 크흠, 어쨌든 지금부터 1분 동안은 내 말에 집중하도록!
 
 [name="全员"]  收到！
+[name="全員"]  了解！
+[name="Everyone"]  Roger that!
+[name="전원"]  라져!
 
 [name="香草"]  （雷蛇前辈，竟然连大家的小心思都考虑到了......）
+[name="バニラ"]  （まさかリスカム先輩が、皆さんの考えていることまで考慮していたなんて……）
+[name="Vanilla"]  (Liskarm has actually given some thought to the things that everyone else on the team has in mind.)
+[name="바닐라"]  (리스캄 선배, 모두의 기분까지 하나하나 고려해 주셨구나……)
 
 [name="香草"]  （我还以为今天要配合她扮演稳重的黑钢成员形象呢，是自己多虑了吗。）
+[name="バニラ"]  （今日はリスカム先輩に合わせて真面目なBSWメンバーを演じるべきだと思ったんだけど、私の考え過ぎだったみたい。）
+[name="Vanilla"]  (Here I was thinking I had to work with her and play the role of a steadfast Blacksteel mercenary. Was I overthinking it?)
+[name="바닐라"]  (오늘 엄청 진지한 블랙스틸 대원의 이미지를 보여 줄 줄 알았는데, 내가 괜한 생각을 했나 보네.)
 
 [name="香草"]  （芙兰卡前辈还特意提醒我，“一个人带队的雷蛇如果遇到调皮的队员，总是容易出岔子，你一定要站在她这一边”呢......）
+[name="バニラ"]  （フランカ先輩からは「リスカムが隊長の時にやんちゃなメンバーに出くわしたら、きっと問題が起きやすいから、あなたは味方でいてあげて」とまで言われてたんだよね……）
+[name="Vanilla"]  (Franka even told me, 'When Liskarm's leading a team by herself, things are bound to run off the rails if there's even a single mischievous person on the team. You gotta stand on her side...')
+[name="바닐라"]  (프란카 선배가 내게 특별히 귀띔해 줬었지. 혼자서 팀을 이끄는 리스캄이 짓궂은 팀원을 만나면 돌발 상황이 생기기 쉬우니 꼭 리스캄 선배의 편을 들어 줘야 한다고……)
 
 [name="卡达"]  （小声）香草啊，其实雷蛇队长真的是喜欢调皮性格的类型？
+[name="カシャ"]  （小声）ねぇバニラ……リスカム隊長って本当はやんちゃな性格が好きだったんじゃないの？
+[name="Click"]  (Whispers) Vanilla, is Captain Liskarm actually the type who likes a wily team?
+[name="클릭"]  (작은 목소리로) 바닐라, 리스캄 대장은 정말 짓궂은 성격을 좋아하는 거야?
 
 [name="卡达"]  还以为做出那副闹腾的样子肯定要让雷蛇队长生气了，看起来，队长好像......没有生气地“噼里啪啦”发电？
+[name="カシャ"]  あんなふざけた態度とってたら、絶対怒らせちゃうと思ってたよ。でもなんだか……怒って「バチバチ」って電気を発したりはしてないよね。
+[name="Click"]  I thought she'd be so mad after we made that ruckus, but it looks like... she's not that mad... and she's not letting off sparks or anything?
+[name="클릭"]  소란을 피우면 화낼 줄 알았는데, 지금 보니까…… “치직” 하면서 전류를 내뿜을 거 같진 않은데?
 
 [name="桃金娘"]  我们听说雷蛇队长和传闻中一样不近人情，铁血冷面，是最专业最没有私人感情的专家呢......
+[name="テンニンカ"]  リスカム隊長はめちゃくちゃ冷たい人って聞いてたの。冷酷で、個人的な感情を一切差し挟まないプロだって……
+[name="Myrtle"]  We heard Liskarm's just as unreasonable and cold as the rumors make her out to be, that she's a true professional who has absolutely no personal feelings.
+[name="머틀"]  리스캄 팀장이 소문처럼 피도 눈물도 없는 사람은 아니라고 들었어. 오히려 사적인 감정에 얽매이지 않는 최고의 프로라고 하던데……
 
 [name="香草"]  雷蛇前辈在专业实力这方面是毋庸置疑的。
+[name="バニラ"]  リスカム先輩の実力は疑う余地がありません。
+[name="Vanilla"]  Well, I can vouch for her professionalism.
+[name="바닐라"]  리스캄 선배의 전문 실력은 누구도 의심할 여지가 없어요.
 
 [name="香草"]  嗯......
+[name="バニラ"]  ただ……うーん……
+[name="Vanilla"]  Hm...
+[name="바닐라"]  흐음……
 
 [name="香草"]  但是，装得这么难对付雷蛇前辈也不会生气啦，虽然说不上喜欢。
+[name="バニラ"]  先輩に対して、ああやって面倒くさい態度をとっても別に怒ったりはしませんよ？　まあ、喜んだりもしませんけど。
+[name="Vanilla"]  And she also doesn't get mad even if you pretend to be difficult, although that doesn't mean she likes it either.
+[name="바닐라"]  하지만, 주위에서 짓궂게 굴어도 리스캄 선배는 화를 내지 않아요, 물론 선배가 이러는 걸 좋아하는 건 아니지만요.
 
 [name="香草"]  雷蛇前辈可是连芙兰卡前辈那种跳脱的性格都能够忍受的“专业人士”。
+[name="バニラ"]  リスカム先輩はフランカ先輩みたいな常識外れの人ですら耐えられる「専門家」ですから。
+[name="Vanilla"]  Liskarm is a professional who can tolerate even Franka's nonsensical personality.
+[name="바닐라"]  리스캄 선배는 프란카 선배처럼 어디로 튈지 모르는 성격도 참아낼 줄 아는 '프로'니까요.
 
 [name="香草"]  凭我对大家的印象，大家都不是不讲情理的样子，我想雷蛇前辈也一定知道这一点。
+[name="バニラ"]  私の印象からすると、皆さんは話が通じないような方たちではないと思いますので、リスカム先輩もきっとそれはわかっているとは思います。
+[name="Vanilla"]  I don't really think any of you are unreasonable. I'm sure she feels the same way too.
+[name="바닐라"]  제가 여러분한테서 느꼈던 말과 생각이 통한다는 인상은, 리스캄 선배 역시 분명 느끼셨을 거예요.
 
 [name="香草"]  你们......是不是被谁的恶作剧骗了啊？
+[name="バニラ"]  皆さん……誰かに何か吹き込まれたりしていませんか？
+[name="Vanilla"]  Did you guys... get pranked by someone maybe?
+[name="바닐라"]  다들…… 누군가의 짓궂은 장난에 휘말린 거 아닌가요?
 
 [name="卡达"]  啊哈哈，这......
+[name="カシャ"]  あはは、それは……
+[name="Click"]  Ahaha... Well...
+[name="클릭"]  아하하, 그게……
 
 [name="桃金娘"]  哈、哈哈哈，本将军可没有被骗到！
+[name="テンニンカ"]  ハ、ハハハ……あたしは騙されてなんかないよ！
+[name="Myrtle"]  H-Hahaha, there's no way I would ever be bamboozled like that!
+[name="머틀"]  하, 하하하! 내, 내가 그럴 리 없잖아!
 
 [name="宴"]  这么说，我们装模作样的计划，大概从一开始也在她的“计算”之中？
+[name="ウタゲ"]  ってことは、あたしたちの計画も、最初からあの人の計算に含まれていた可能性があるってこと？
+[name="Utage"]  Wait, hold on. Now that you mention it, is it possible that she saw our whole putting on an act plan coming?
+[name="우타게"]  그러고 보면 우리가 일부러 계획한 것도 처음부터 팀장의 '계산'에 들어 있던 걸까?
 
 [name="卡达"]  等等，也可能是她故意等着我们出糗。
+[name="カシャ"]  待って、もしかしたら、リスカム隊長はそれも込みで、あたしたちがドジを踏むのを待ってたのかも……
+[name="Click"]  Wait a minute. Perhaps she did it on purpose, trying to get us to make a fool of ourselves.
+[name="클릭"]  잠깐, 어쩌면 우리가 실수할 때까지 일부러 기다리고 있었을지도 몰라.
 
 [name="桃金娘"]  这、这么说来，她们早就串通的可能性也不完全为零——
+[name="テンニンカ"]  そ、それなら、二人はとっくにグルになってた可能性もゼロではない――
+[name="Myrtle"]  I-It's not out of the question that they set us up together—
+[name="머틀"]  그, 그렇다는 건 두 사람이 애당초 한통속이었을 수도 있다는 건데……
 
 [name="雷蛇"]  说悄悄话至少要离当事人三米距离吧。
+[name="リスカム"]  内緒話をするなら、少なくとも当事者の耳に声が届かない程度の距離は取るべきだと思いますよ。
+[name="Liskarm"]  You could've at least waited till you were out of my earshot.
+[name="리스캄"]  귓속말을 할 거면 적어도 당사자와 3미터 정도는 떨어져 있는 게 좋지 않을까.
 
 [name="雷蛇"]  你们说的，我全部都能听到。
+[name="リスカム"]  皆さんの話、すべて聞こえてますからね。
+[name="Liskarm"]  I can hear everything.
+[name="리스캄"]  말하는 거 다 들린다고.
 
 [name="宴"]  对不起嘛，雷蛇队长——
+[name="ウタゲ"]  ごめんなさい、リスカム隊長――
+[name="Utage"]  Sorry, Captain Liskarm—
+[name="우타게"]  미안~ 리스캄 팀장……
 
 [name="雷蛇"]  哼。
+[name="リスカム"]  はぁ……
+[name="Liskarm"]  Hmph.
+[name="리스캄"]  하!
 
 [name="雷蛇"]  （算了，一听就是芙兰卡随心所欲搞的鬼。）
+[name="リスカム"]  （まあいいか、聞いた感じだとまたフランカの気まぐれのせいみたいだし。）
+[name="Liskarm"]  (Whatever. This is probably all Franka's doing.)
+[name="리스캄"]  (됐다, 딱 봐도 프란카가 장난친 모양이네.)
 
 [name="雷蛇"]  （但是......果然，装作还在黑钢时那种严肃的样子已经越来越不可能了。）
+[name="リスカム"]  （でも……やっぱりBSWの頃のみたいな厳しい態度を装うのは、難しくなってきたな。）
+[name="Liskarm"]  (I guess... it's getting more and more difficult for me to act as strict as I used to back at Blacksteel.)
+[name="리스캄"]  (하지만…… 역시 블랙스틸에 있었을 때처럼 엄숙한 척하는 게 점점 어려워지고 있어.)
 
 [name="雷蛇"]  （在罗德岛，要让自己保持过去出勤时不近人情的样子，真是一件困难的事情。）
+[name="リスカム"]  （あの頃の、任務に出る時の孤高な感じを保つのは、ロドスだと本当に難しい。）
+[name="Liskarm"]  (It's just not easy to keep up that unsympathetic facade anymore now that I'm at Rhodes Island.)
+[name="리스캄"]  (로도스 아일랜드에선 예전처럼 외근 중에 냉정한 모습을 유지하는 게 정말 어렵군.)
 
 [name="雷蛇"]  （......唉，今天这副样子，被芙兰卡知道了肯定要笑话我虚张声势。）
+[name="リスカム"]  （……はぁ、今日のこんな姿をフランカに見られてもしたら、絶対に強がってるってバカにされるよ。）
+[name="Liskarm"]  (Sigh... if Franka finds out, she's definitely going to make fun of me for even trying to bluff.)
+[name="리스캄"]  (칫…… 오늘 모습을 프란카가 봤다면 또 내가 허세를 떤다고 비웃었겠지.)
 
 [name="雷蛇"]  （如果不是在罗德岛，从前死板的自己，现在一定已经到发怒的边缘了吧。）
+[name="リスカム"]  （もし今いるのがロドスじゃなくて、わたしもこれまでの融通の利かないわたしのままだったら、今頃は頭に血が上っていたはず。）
+[name="Liskarm"]  (If I wasn't with Rhodes Island now, I'm sure I'd have driven myself completely over the edge with how inflexible I used to be.)
+[name="리스캄"]  (로도스 아일랜드가 아니었다면, 그동안 틀에 갇혀 있었던 나는 지금쯤 아마 터지기 일보 직전이었을 테지.)
 
 [name="雷蛇"]  （许多改变，自己也是突然才察觉到的。）
+[name="リスカム"]  （自分の色々な変化について、わたしも急に自覚したんだ。）
+[name="Liskarm"]  (I've changed so much, and I didn't even notice until much later.)
+[name="리스캄"]  (새삼 많은 게 변했다는 생각이 드는걸.)
 
 [name="雷蛇"]  （本就没有什么好与坏的分别。）
+[name="リスカム"]  （もともと良し悪しの区別なんてないものだけど。）
+[name="Liskarm"]  (It was never a problem of good or bad.)
+[name="리스캄"]  (원래부터 좋고 나쁜 것은 없으니까.)
 
 [name="雷蛇"]  （......不过，我还做得不够。）
+[name="リスカム"]  （……でも、まだ足りてない。）
+[name="Liskarm"]  (But... I still have a ways to go.)
+[name="리스캄"]  (……하지만 난 아직도 부족해.)
 
 [name="雷蛇"]  （对我们这些“非感染者”来说，如果不是因为来到罗德岛，又怎么会真正理解到感染者的处境，产生和所有人平等相待的愿望呢。）
+[name="リスカム"]  （わたしたち「非感染者」にとっては、ロドスを訪れたのでもなければ、感染者の立場を本当に理解するなんて土台無理だし、すべての人が平等であればという願いを抱くこともない。）
+[name="Liskarm"]  (If it wasn't for Rhodes Island, would 'non-Infected' like me ever truly understand the predicaments of the Infected? Would we even wish for everyone to be seen as equals?)
+[name="리스캄"]  (우리 같은 '비감염자'가 로도스 아일랜드에 오지 않았다면, 감염자의 처지를 제대로 이해하지도, 모든 사람이 평등하게 살기 바란다는 소망도 품지 못했을 거야.)
 
 [name="雷蛇"]  （卸下一些不必要的戒备，学会察觉到身边微小的善意。）
+[name="リスカム"]  （不必要な警戒を解いて、周りの小さな善意を感じとることを覚えてから……）
+[name="Liskarm"]  (It wasn't until I stopped being so cautious all the time that I finally noticed all the goodwill around me, small as they may be.)
+[name="리스캄"]  (괜한 의심을 버리고, 곁에 있는 작지만 소중한 마음을 깨닫는 법을 배우자.)
 
 [name="雷蛇"]  （才能明白，自己还有承担更大的使命和责任的潜力。）
+[name="リスカム"]  （自分にはまだ、より大きな使命と責任を担える可能性があるってわかるようになった。）
+[name="Liskarm"]  (It was only then that I came to understand I still had the potential to take on an even greater cause and responsibility.)
+[name="리스캄"]  (더 큰 사명과 책임을 짊어져야 할 잠재력이 내게 있다는 걸 이제야 깨달았어.)
 
 [name="雷蛇"]  （既然已经了解到这个现状，一定有更多我能去学习和完善的地方。）
+[name="リスカム"]  （この現状が理解できるようになったんだからきっと、もっといろんなことを学べるし、改善できるところが見つかるはず……）
+[name="Liskarm"]  (And now that I've understood that, there has to be even more areas where I can learn and improve.)
+[name="리스캄"]  (여기까지 알게 됐으니, 내가 좀 더 공부하고 고쳐야 할 부분도 반드시 있을 거야.)
 
 [name="雷蛇"]  （我想......设立一个更加远大的志向，绝非在黑钢时仅仅是渴望开一家“像黑钢一样”的安保公司这样简单。）
+[name="リスカム"]  （もっと大きな目標を持とう。昔の、ただ「BSWのような」警備会社を立ち上げたいというような、簡単なものじゃなくて。）
+[name="Liskarm"]  (I want to set my sights on something far more ambitious... Not like when I was still at Blacksteel, when all I wanted to do was to start a PMC that's 'just like Blacksteel.')
+[name="리스캄"]  (내가 품은 꿈은 더 크다. 블랙스틸에 있을 때처럼 '블랙스틸과 같은' 보안회사를 세우겠다는 그런 단순한 목표 같은 게 아니라……)
 
 [name="雷蛇"]  （为了我，为了我的同乡们，以及为了感染者，我要积累更多。）
+[name="リスカム"]  （自分のため、地元のみんなのため、そして感染者のため……わたしはもっといろんなものを積み重ねていかないと……）
+[name="Liskarm"]  (For me, for my countrymen, and for all the Infected out there, I need to grow even more.)
+[name="리스캄"]  (날 위해, 동료들과 감염자를 위해 계속 노력할 거야.)
 
 [name="雷蛇"]  （好，我一定要......）
+[name="リスカム"]  （よし、わたしは絶対に……）
+[name="Liskarm"]  (Right, I will definitely get there...)
+[name="리스캄"]  (그래, 반드시……)
 
 [name="卡达"]  雷蛇队长？雷蛇队长！
+[name="カシャ"]  隊長？　リスカム隊長！
+[name="Click"]  Captain Liskarm? Captain Liskarm!
+[name="클릭"]  리스캄 팀장? 리스캄 팀장!
 
 [name="卡达"]  能不能帮我们把口袋铺开？
+[name="カシャ"]  袋、広げてもらえないかな？
+[name="Click"]  Think you can open up that bag for us?
+[name="클릭"]  주머니 좀 벌려 봐.
 
 [name="桃金娘"]  果子要掉下来咯——
+[name="テンニンカ"]  リンゴが落ちるよ――
+[name="Myrtle"]  The apples are about to come falling down—
+[name="머틀"]  사과가 떨어진다~
 
 [name="雷蛇"]  ......真是的。
+[name="リスカム"]  ……まったく。
+[name="Liskarm"]  What should I do with you girls...?
+[name="리스캄"]  ……정말이지.
 
 [name="雷蛇"]  喂，你们。
+[name="リスカム"]  皆さん……
+[name="Liskarm"]  Hey, girls?
+[name="리스캄"]  ……어? 잠깐만.
 
 [name="雷蛇"]  摘果子是安排在三十分钟之后！
+[name="リスカム"]  リンゴを摘むのは三十分後の予定ですよ！
+[name="Liskarm"]  Apple picking isn't for another thirty minutes!
+[name="리스캄"]  사과 따는 시간은 30분 뒤라고 말했을 텐데!
 

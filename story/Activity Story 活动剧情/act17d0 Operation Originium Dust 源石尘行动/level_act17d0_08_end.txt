@@ -1,118 +1,295 @@
 [Subtitle(text="巨大的球形生物崩裂分解，变成了散落一地的蠕动块状物，这些奇诡的活物还在扭动翻腾，它们拒绝着死亡。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="巨大な球形生物は爆発によって砕け散り、辺り一面でうごめく物体となった。この不気味な生き物たちは砕け散ってもなお、うねうねと動き、死を拒んでいる。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Huge spherical creatures crumble and disintegrate into scattered, writhing masses of living organisms that refuse to die.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="거대하고 둥그런 괴물이 무너져 내리자, 괴물은 죽음을 거부하는 크고 작은 유기체 덩어리로 분리되어 사방에서 꿈틀거렸다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="黑"]这东西还在动！
+[name="シュヴァルツ"]まだ動いています！
+[name="Schwarz"]It's still moving!
+[name="슈바르츠"]아직도 움직입니다!
 
 [name="闪击"]炸弹部署完了，我们得撤了！
+[name="Blitz"]爆弾セット完了！　撤退するぞ！
+[name="Blitz"]Bomb deployed! Time to go!
+[name="Blitz"]폭탄 설치했어! 어서 가자!
 
 [name="闪击"]它......好像在重生？
+[name="Blitz"]あいつ……再生してないか？
+[name="Blitz"]It... looks like it's budding?
+[name="Blitz"]저거…… 싹을 틔우는 건가?
 
 [name="闪击"] 这东西......到底算什么生物？
+[name="Blitz"] 一体……どんな生き物なんだ？
+[name="Blitz"] What on earth... is it?
+[name="Blitz"] 대체 저게…… 뭐지?
 
 [name="灰烬"]不管它是什么，这东西都不应该存在于这个世界上。
+[name="Ash"]どんな生き物だろうが、あんなもの世界に存在させてはいけない。
+[name="Ash"]Whatever it is, it doesn't belong in this world.
+[name="Ash"]뭔지는 몰라도, 이 세상에 있어서는 안 돼.
 
 [name="闪击"]我们得撤了，要赶在炸弹爆炸之前跑出去。
+[name="Blitz"]撤退するぞ！　起爆する前に逃げろ！
+[name="Blitz"]We have to evacuate. We need to get out before the bomb goes off.
+[name="Blitz"]탈출해야 해. 폭탄이 터지기 전에 나가야 한다고.
 
 [name="黑"]走这边！
+[name="シュヴァルツ"]こちらへ！
+[name="Schwarz"]This way!
+[name="슈바르츠"]이쪽입니다!
 
 [name="战车"]我没子弹了。
+[name="Tachanka"]こっちは弾切れだ！
+[name="Tachanka"]I'm out of ammo.
+[name="Tachanka"]탄약이 다 떨어졌군.
 
 [name="战车"]巡林者？
+[name="Tachanka"]レンジャー？
+[name="Tachanka"]Rangers?
+[name="Tachanka"]레인저 어르신?
 
 [name="巡林者"]我还在......
+[name="レンジャー"]まだ生きとるぞ……
+[name="Rangers"]I'm still here...
+[name="레인저"]여기 있다네……
 
 [name="战车"]你的情况看起来可不太好。
+[name="Tachanka"]あんた、ちょっとヤバそうだぞ。
+[name="Tachanka"]You don't look so good.
+[name="Tachanka"]상태가 안 좋아 보이는군요.
 
 [name="巡林者"]老了，老了......呼......
+[name="レンジャー"]歳は取るもんじゃないのう……ふぅ……
+[name="Rangers"]I'm old, so old... phew...
+[name="레인저"]난 너무 늙었네…… 후우……
 
 [name="战车"]你的手怎么了？
+[name="Tachanka"]その手はどうした。
+[name="Tachanka"]What happened to your hand?
+[name="Tachanka"]어르신, 손이…… 어떻게 된 겁니까, 괜찮으십니까?
 
 [name="巡林者"]刚才没躲开，小问题。
+[name="レンジャー"]かわし切れなくてのう……大したことはない。
+[name="Rangers"]I couldn't dodge. That's all.
+[name="레인저"]피할 수가 없었네. 그뿐이야.
 
 [name="战车"]现在怎么办？要去避难所吗？
+[name="Tachanka"]どうする？　避難所へ行くか？
+[name="Tachanka"]What do we do now? Should we go to the shelter?
+[name="Tachanka"]어떻게 할까요. 대피소로 가겠습니까?
 
 [name="巡林者"]矿洞那边，还没消息吗？
+[name="レンジャー"]坑道の方はどうなったじゃろうか。まだ知らせは届かんか？
+[name="Rangers"]No news from the mine?
+[name="레인저"]갱도 쪽은 아직 소식 없었나?
 
 [name="战车"]没有。
+[name="Tachanka"]まだだ。
+[name="Tachanka"]None.
+[name="Tachanka"]없습니다.
 
 [name="巡林者"]哈哈哈......
+[name="レンジャー"]ハハハッ……
+[name="Rangers"]Hahaha...
+[name="레인저"]하하하……
 
 [name="巡林者"]老夫也没想到我们能坚持这么久......不过也快到极限了。
+[name="レンジャー"]儂ら二人でここまで持ちこたえられるとは、思うてもみなかったわ……じゃがもうそろそろ限界じゃのう。
+[name="Rangers"]I never thought we'd hold out this long... but we're almost to the end of the road.
+[name="레인저"]이렇게까지 오래 버틸 줄은 몰랐네만…… 어쨌든, 거의 끝난 것 같구먼.
 
 [name="巡林者"]你在干什么？
+[name="レンジャー"]何をしておる？
+[name="Rangers"]What are you doing?
+[name="레인저"]뭐해?
 
 [name="战车"]弄一面盾牌，我其实早想这么试试了。
+[name="Tachanka"]即席で盾を作ってみた。実は前から試してみたかったんだ。
+[name="Tachanka"]Making a shield. I always wanted to try, actually.
+[name="Tachanka"]방패를 만드는 중입니다. 실은 전부터 만들어보고 싶었거든요.
 
 [name="巡林者"]哈哈哈......
+[name="レンジャー"]ハハハッ……
+[name="Rangers"]Hahaha...
+[name="레인저"]하하하……
 
 [name="巡林者"]这就像是回到了过去，那些有关荣耀的美好时光。
+[name="レンジャー"]昔に戻ったようじゃ……あの栄光の時代に、な。
+[name="Rangers"]What a trip down memory lane. Back to the glorious good old days.
+[name="레인저"]옛날 기억이 절로 나는군. 그 영광스러운 과거가 말이야.
 
 [name="巡林者"]年轻的巡林者们集结在镇子的入口。
+[name="レンジャー"]ある日、若いレンジャーたちが町の入り口に集結してのう。
+[name="Rangers"]The young rangers all gathered at the edge of town.
+[name="레인저"]젊은 레인저들 모두가 마을 가장자리에 모였었지.
 
 [name="巡林者"]明知道大军压境，明知道在战争之后他们中很多人都会血洒这片荒地之上。
+[name="レンジャー"]大軍が押し寄せつつあることも、間もなく荒野が皆の血で染まることもわかっておった。
+[name="Rangers"]Knowing the overwhelming odds stacked against them, knowing most would spill their blood in the wasteland after the war.
+[name="레인저"]자신들에게 닥칠 엄청난 역경을, 그곳에 모인 이들 대부분이 황무지에 묻힐 거라는 걸 누구보다도 잘 알면서도……
 
 [name="巡林者"]但是他们有说有笑，高呼着战歌，仿佛敌人是不堪一击的虫豸。
+[name="レンジャー"]しかし彼らは共に笑い合い、軍歌を高らかに歌った。死を恐れる必要など無いかのごとく、迫っている敵など陳腐な虫けらに過ぎないかのごとく。
+[name="Rangers"]But they laughed and sang war songs, as if they were facing down bugs to be easily squashed.
+[name="레인저"]하지만 모두 웃으며 군가를 불렀네. 마치 손쉽게 으깨버릴 수 있는 벌레나 잡으러 나가는 소년들처럼.
 
 [name="巡林者"]战争残忍无情，有人退缩了，更多人决定死守到底。
+[name="レンジャー"]戦争とは残酷で無慈悲じゃ。おじけづいた者もおったが、ほとんどの者が命を賭けて町を守り抜こうと決意したんじゃ。
+[name="Rangers"]War is cruel, and merciless. Some backed down. Many more held the line.
+[name="레인저"]전쟁은 잔인하고 무자비하지. 일부는 도망쳤지만, 그보다 더 많은 이들이 전선을 지켰네.
 
 [name="巡林者"]倒下的人成为了传奇，站着的人负责铭记他们的一切。
+[name="レンジャー"]倒れた者は伝説となり、立っている者は彼らの伝説を刻み語る責任を負った。
+[name="Rangers"]The fallen became legends. The survivors were tasked with remembering them.
+[name="레인저"]쓰러진 자는 전설이 되었고, 살아남은 자는 그런 이들을 기리는 임무를 맡았지.
 
 [name="巡林者"]最后站着的那个人，也慢慢开始畏惧死亡了。
+[name="レンジャー"]そして最後まで立っておった者は、やがて死を恐れ始めた。
+[name="Rangers"]And the last one standing in that bloodbath, after all that time, started to feel the fear of death set in.
+[name="레인저"]마지막에 선 그 사람도, 조금씩 죽음을 두려워하기 시작했네.
 
 [name="战车"]因为他不想忘记那些倒下的人？
+[name="Tachanka"]倒れていった人たちを忘れたくなかったからか？
+[name="Tachanka"]Because he doesn't want the dead to be forgotten?
+[name="Tachanka"]그때 목숨을 바친 이들이 잊히지 않기를 바라기 때문입니까?
 
 [name="巡林者"]哈哈哈......也许是这样。
+[name="レンジャー"]ハハハッ……そうかもしれぬな。
+[name="Rangers"]Hahaha... maybe that's why.
+[name="레인저"]허허허…… 그럴지도 모르지.
 
 [name="巡林者"]很荣幸和你并肩作战，亚历山大。
+[name="レンジャー"]アレクサンドル……おぬしと肩を並べて戦えて光栄じゃった。
+[name="Rangers"]It's been an honor to fight alongside you, Alexsandr.
+[name="레인저"]함께 싸워서 영광이었네, 알렉산드르.
 
 [name="战车"]我也很荣幸，巡林者。
+[name="Tachanka"]俺も光栄だったよ、レンジャー。
+[name="Tachanka"]The honor is mine, Rangers.
+[name="Tachanka"]저도 그렇습니다.
 
 [name="战车"]不要这么悲观，我还没有放弃战斗。
+[name="Tachanka"]だがそんなに悲観的になるな。俺はまだ諦めてない。
+[name="Tachanka"]But don't be so gloomy. I haven't given up the fight.
+[name="Tachanka"]하지만 인사를 주고받기엔 너무 이릅니다. 전 아직 포기하지 않았으니까요.
 
 [name="战车"]我就是用砸的，也要敲死几个。
+[name="Tachanka"]弾なんてなくても、ぶん殴ってあいつらを殺してやるさ。
+[name="Tachanka"]I'll smash a few to death.
+[name="Tachanka"]몇 놈 더 짓뭉개줄 겁니다.
 
 [name="巡林者"]等等......那是什么。
+[name="レンジャー"]待て！　あれは……
+[name="Rangers"]Wait... what's that?
+[name="레인저"]잠깐…… 뭐지?
 
 [Subtitle(text="箭矢", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="──矢", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Arrow", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="화살", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="箭矢如同暴雨一样落在了宅邸门口的土地上，精准地击穿了畸变体的头骨与喉咙。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="まるで豪雨のように、屋敷の入り口に矢が降り注ぐ。それはニュータントの頭や喉を次々に射抜いていく。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Arrows fall like rain on the ground in front of the manor, piercing Originiutant skulls and throats with precision.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="저택 앞의 대지를 모조리 적셔버릴 듯 빗발치는 화살이 오리지뉴턴트의 두개골과 목을 정확하게 꿰뚫었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="由锋锐飞矢编织成的暴雨没有分毫停歇，就像是风暴席卷了大地。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="鋭い矢が織り成す豪雨は止むことはなく、それはまるで嵐が大地を巻き込んでいくかのようだった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The black downpour continues uninterrupted, like a storm sweeping across the land.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그 검은 폭우는, 대륙을 휩쓸고 지나는 폭풍처럼 쉬지 않고 계속 몰아쳤다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="巡林者"]是援军！哈哈哈哈哈哈！我们得救了！
+[name="レンジャー"]援軍じゃ！　ハハハハハハ！　助かったんじゃ！
+[name="Rangers"]The cavalry's here! Hahahahahaha! We're saved!
+[name="레인저"]지원 병력이다! 허허허! 우린 살았어!!
 
 [name="巡林者"]这个手法......是那个年轻人吧。
+[name="レンジャー"]このやり口は……あの若人じゃろうな。
+[name="Rangers"]This technique... Must be that young person.
+[name="레인저"]이 실력…… 분명 그 젊은이로군.
 
 [name="Stormeye"]我收到了求救信号，本来以为只是一次普通的救援任务。
+[name="Stormeye"]救援信号を受けて、普通の救援任務だと思い駆けつけましたが――
+[name="Stormeye"]I picked up a Rhodes Island distress signal and figured it was a normal rescue mission.
+[name="Stormeye"]로도스 아일랜드 구조 신호를 받았을 때, 평범한 구출 임무라고 생각했습니다.
 
 [name="Stormeye"]我没有想到会在这里遇到你。
+[name="Stormeye"]まさかこんな所であなたにお目にかかるとは。
+[name="Stormeye"]I didn't think I'd run into you.
+[name="Stormeye"]그런데 당신을 뵙게 될 줄이야.
 
 [name="Stormeye"]老游侠。
+[name="Stormeye"]レンジャー殿。
+[name="Stormeye"]Old Ranger.
+[name="Stormeye"]늙은 방랑자여.
 
 [name="Stormeye"]你重操旧业了。
+[name="Stormeye"]元の稼業にお戻りになったのですか？
+[name="Stormeye"]You're back in business, huh?
+[name="Stormeye"]현장에서 뛰는 모습을 보니 정말 반갑군요.
 
 [name="巡林者"]哈哈，老了老了，让你看笑话了。
+[name="レンジャー"]ハハッ、歳には勝てぬわい。笑うてくれるな。
+[name="Rangers"]Haha, at my age? You're making fun.
+[name="레인저"]허허, 난 이런 일을 하기에는 너무 늙었다네.
 
 [name="Stormeye"]你的弯刀呢，游侠。
+[name="Stormeye"]あなたの愛刀――あの曲刀は？
+[name="Stormeye"]What about your sword, Ranger?
+[name="Stormeye"]검은 어디 있습니까, 방랑자여?
 
 [name="巡林者"] 年纪大了，早就耍不动了。
+[name="レンジャー"] もう重くてな。とっくに振り回せんわい。
+[name="Rangers"] I'm too old. I haven't been able to swing it for years.
+[name="레인저"] 나한테 없네. 못 휘두르게 된 지도 오래됐고.
 
 [name="巡林者"]若不是你来，今天我这把老骨头怕是要交代在这里了。
+[name="レンジャー"]おぬしが来なければ、この老いぼれは、今日ここで骨になっておったわい。
+[name="Rangers"]If it weren't for you, today would be the end of these old bones.
+[name="레인저"]자네가 아니었더라면, 오늘이 이 늙은이의 제삿날이었을 걸세.
 
 [name="Stormeye"]你谦虚了，老游侠。
+[name="Stormeye"]ご謙遜を。
+[name="Stormeye"]You sell yourself short, Old Ranger.
+[name="Stormeye"]겸손하시군요, 늙은 방랑자여.
 
 [name="Stormeye"]小队注意，目标在领主宅邸。
+[name="Stormeye"]各小隊員に告ぐ！　目標は領主の屋敷にいる。
+[name="Stormeye"]Listen up, squad. The objective is the Lord's manor.
+[name="Stormeye"]분대에 알린다. 목표는 아미르의 저택이다.
 
 [name="Stormeye"]敌人是危险的变异源石生物。
+[name="Stormeye"]敵は危険な変異源石生物だ。
+[name="Stormeye"]The enemy is an extremely dangerous form of Originium organism.
+[name="Stormeye"]적은 오리지늄 유기체, 극도로 위험하다.
 
 [name="Stormeye"]随时汇报位置。
+[name="Stormeye"]位置の報告を怠るな。
+[name="Stormeye"]Keep your location updated.
+[name="Stormeye"]계속해서 위치를 보고하도록.
 
 [name="巡林者"]当心点，它们数量很多，让你的人尽量避免落单。
+[name="レンジャー"]気を付けるんじゃぞ、敵はかなりの数じゃ。隊の者が孤立せぬようにな。
+[name="Rangers"]Be careful. There's many of them. Try not to let your folks fight alone.
+[name="레인저"]놈들은 수가 상당히 많으니, 자네 쪽 인원들에게 최대한 홀로 떨어져 있지 않도록 당부해주게나.
 
 [name="巡林者"]还有，注意地下，它们会钻洞。
+[name="レンジャー"]それと、足元にも注意させい。あやつらは穴を掘る。
+[name="Rangers"]Also, be mindful of the ground. They are good at drilling.
+[name="레인저"]그리고, 발밑도 조심하게. 놈들은 땅굴을 팔 수도 있으니.
 
 [name="Stormeye"]明白。
+[name="Stormeye"]わかりました。
+[name="Stormeye"]Understood.
+[name="Stormeye"]알겠습니다.
 
 [name="Stormeye"]很荣幸与你并肩战斗。
+[name="Stormeye"]あなたと肩を並べて戦えるとは……光栄です。
+[name="Stormeye"]It's an honor to fight beside you.
+[name="Stormeye"]함께 싸우게 되어 영광입니다.
 
 [name="Stormeye"]“血色山谷的弯刀”。
+[name="Stormeye"]「血染めの谷の曲刀」殿。
+[name="Stormeye"]'Scimitar of the Bloody Valley'.
+[name="Stormeye"]'핏빛 계곡의 언월도'여.
 

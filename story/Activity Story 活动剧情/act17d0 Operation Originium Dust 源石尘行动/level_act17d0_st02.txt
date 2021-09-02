@@ -1,362 +1,905 @@
 [name="感染者老人"]（萨尔贡语）......他已归去，抛弃世间琐事。
+[name="感染者の老人"]（サルゴン語）……彼は世の些事を捨て、生まれ育った大地に帰っていきました。
+[name="Elderly Infected"](Sargonian) ...He went home, and left the world behind.
+[name="감염자 노인"](사르곤어) ……그렇게 그는 집으로 돌아갔다. 자신이 떠나온 대지로 돌아갔다.
 
 [name="感染者老人"]（萨尔贡语）我们痛心疾首，只因命运不曾公正。
+[name="感染者の老人"]（サルゴン語）私たちは運命が公平ではないということを、とても残念に、そして心苦しく思います。
+[name="Elderly Infected"](Sargonian) Our hearts ache because fate is ever unjust.
+[name="감염자 노인"](사르곤어) 그의 죽음은 우리에게 고통만을 남기나니, 운명은 실로 불공평하기 때문이라.
 
 [name="感染者老人"]（萨尔贡语）但毋需悲伤，只因他脱离了现实的苦难。
+[name="感染者の老人"]（サルゴン語）ですが悲しむ必要はないのです。彼の現実苦しみから解放されたのですから。
+[name="Elderly Infected"](Sargonian) But we need not grieve. Because he is now free from the suffering of existence.
+[name="감염자 노인"](사르곤어) 하지만 탄식하지 말지어다. 이제 그는 모든 고통에서 자유로워졌으니.
 
 [name="感染者老人"]（萨尔贡语）我们应当为他高歌，他最终回归了大地。
+[name="感染者の老人"]（サルゴン語）私たちは大地に帰った彼のために、高らかに別れの歌を捧げましょう。
+[name="Elderly Infected"](Sargonian) We sing for him, as he has at last returned to the earth.
+[name="감염자 노인"](사르곤어) 그를 위해 노래하리라. 길고 긴 여정 끝에 마침내 대지로 돌아간 그를 위하여.
 
 [name="感染者老人"]（萨尔贡语）他的亲友，他所爱之人，都不应留下泪水。
+[name="感染者の老人"]（サルゴン語）彼の家族や友人、彼の愛する人、誰もが涙を流してはいけません。
+[name="Elderly Infected"](Sargonian) His relatives, his loved ones, need not shed tears.
+[name="감염자 노인"](사르곤어) 그를 사랑하는 이와 그 친족이여, 눈물을 거둘지어다……
 
 [name="感染者老人"]（萨尔贡语）死亡是大地的仁慈，我们本是万物的子嗣。
+[name="感染者の老人"]（サルゴン語）死は大地の慈悲、私たちは万物の子。
+[name="Elderly Infected"](Sargonian) Death is a mercy of our world. And we are the heirs to all things.
+[name="감염자 노인"](사르곤어) 그의 죽음은 이 대지가 베푸는 유일한 자비요 우리는 만물의 상속자이니.
 
 [name="感染者老人"]（萨尔贡语）......让一切化为尘土。
+[name="感染者の老人"]（サルゴン語）……すべて塵となりなさい。
+[name="Elderly Infected"](Sargonian) ...May it all turn to dust.
+[name="감염자 노인"](사르곤어) ……모두 먼지로 돌아갈지어다.
 
 [name="感染者老人"]（萨尔贡语）......让一切归于荒野。
+[name="感染者の老人"]（サルゴン語）……すべて荒野に帰りなさい。
+[name="Elderly Infected"](Sargonian) ...May it all return to the wild.
+[name="감염자 노인"](사르곤어) ……모두 자연으로 돌아갈지어다.
 
 [name="感染者老人"]（萨尔贡语）......我们也终将归去。
+[name="感染者の老人"]（サルゴン語）……私たちもいずれ帰るのです。
+[name="Elderly Infected"](Sargonian) ...To which we too will one day return.
+[name="감염자 노인"](사르곤어) ……우리도 언젠가 돌아갈지어다.
 
 [Subtitle(text="在枯木的阴影下，立着一块粗糙打磨的石碑，石碑不光滑的表面上雕刻着几行字。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="枯れ木の陰に粗く磨かれた石碑が建てられた。ざらざらとしたその石碑の表面に、文字が刻まれている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="A roughly polished stone monument adorned with a few lines carved into its uneven surface stands in the shadow of a dead tree.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="죽은 나무가 드리운 그늘 아래, 투박하게 깎아낸 비석이 세워져 있고 그 울퉁불퉁한 표면에 새겨진 문장 몇 개가 눈에 들어온다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“这里长眠着我们的朋友，米亚罗。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「私らの友人、ミアロがここに永遠に眠る」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'Here lies our dear friend, Miarow.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'사랑하는 우리 친구, 미아로우, 여기 잠들다.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“他是一位感染者。他是一位医生。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「彼は一人の感染者であり、一人の医者だった」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'He was Infected. He was a Doctor.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'그는 감염자이자, 의사였다.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“他是个好人。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「彼は素晴らしい人だった」", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'He was a good man.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'그는 좋은 사람이었다.'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="灰烬"]......
+[name="Ash"]……
+[name="Ash"]......
+[name="Ash"]……
 
 [name="战车"]你还好吗？
+[name="Tachanka"]大丈夫か？
+[name="Tachanka"]Are you okay?
+[name="Tachanka"]괜찮아?
 
 [name="灰烬"]......我很难说。
+[name="Ash"]……どうかしらね。
+[name="Ash"]...Hard to say.
+[name="Ash"]……모르겠어.
 
 [name="战车"]我听那位蜥蜴老爷子说，在这个国家，只有身份显赫的人才会举办葬礼。
+[name="Tachanka"]トカゲのご老人から聞いたが、この国では、葬儀を行うのはよほどの人物に対してだけらしい。
+[name="Tachanka"]I heard the old lizard man say that only important people get funerals in this country.
+[name="Tachanka"]그 나이 든 도마뱀 영감이 말하길, 이 나라에서는 높은 지위를 가진 사람들만 장례식을 치른다더군.
 
 [name="战车"]大部分普通人死了就死了，他们会被家人简单地埋葬在荒地上，没有墓碑，也没有悼念。
+[name="Tachanka"]ほとんどの一般人は死んだら終わり。家族によって荒野で簡単に埋葬され、墓石も哀悼の意もないということだ。
+[name="Tachanka"]Most ordinary folks just die when they die, and their families bury them in the wastes. No tombstones, no mourning.
+[name="Tachanka"]일반인은 애도는커녕 제대로 된 무덤도 없이 가족들이 황무지에 묻는다고 하고.
 
 [name="战车"]大多数生活在巨型平台——移动城市上的人会把死者的骨灰埋在城市的必经之路上，因为城市的空间非常宝贵，极少有安置死者的空间。
+[name="Tachanka"]巨大なプラットフォーム――移動都市――に住む大多数の人は、死者の遺骨を都市が通る道に埋めるそうだ。都市の土地は非常に貴重だから、死者を安置するスペースはごくわずからしい。
+[name="Tachanka"]The people who live on the huge platforms, the moving cities, have to cremate the dead and bury the ashes under those major roads, since space is so precious in the city.
+[name="Tachanka"]거대한 플랫폼에 사는 사람들, 그러니까…… 그 움직이는 도시에 사는 자들은 누가 죽으면 화장한다더군. 공간이 부족해서 매장이라는 사치를 부릴 수가 없다고 말이야.
 
 [name="战车"]那些普通的聚落里也少见墓地这种东西，一场要命的灾害席卷而过，就没人找得到逝去的人埋在哪儿了。
+[name="Tachanka"]普通の集落でも墓地のようなものはめったに見られない。甚大な被害をもたらす災害に巻き込まれれば、故人をどこに埋めたか、いずれは誰にもわからなくなる。
+[name="Tachanka"]Cemeteries are rare in an ordinary settlement, where a disaster can come through and wipe out any memory of where the dead are buried.
+[name="Tachanka"]그럼 일반 정착지에는 묘지가 있느냐, 그것도 매우 드물다네. 이 세계에는 '재앙'이란 게 너무 흔하고 자주 일어나서 각자 자기 한 몸 건사하기도 벅차니, 누군가가 죽고 나면 모든 기억이 지워지고 사라지는 게 일반적이고.
 
 [name="战车"]萨尔贡几乎没有宗教，这里的大部分人不太相信死亡之后的世界，他们认为死者会回归大地，成为这个世界的一部分。
+[name="Tachanka"]サルゴンには宗教などほとんどなく、ここのほとんどの人が死後の世界をあまり信じていない。死者は大地に帰り、この世界の一部になると考えてるんだとよ。
+[name="Tachanka"]There's basically no religion in Sargon. Most people here don't believe in an afterlife. They think the dead return to the earth, and become part of it.
+[name="Tachanka"]사르곤에는 종교가 거의 없어. 그러다 보니 내세를 믿는 사람은 없다시피 하고. 그저 죽은 이는 대지로 돌아가 다시 대지의 일부가 된다고 믿는다더군.
 
 [name="战车"]就这个角度来说，这种文化透着坦诚和朴实，我还挺喜欢的。
+[name="Tachanka"]率直で誠実な文化だな。俺は結構気に入った。
+[name="Tachanka"]Looking at it like that, it's a pretty honest and practical culture. I like it.
+[name="Tachanka"]그런 점에서는 참 꾸밈없고 정직한 문화야. 마음에 들어.
 
 [name="灰烬"]米亚罗的墓，以后也会消失不见?
+[name="Ash"]ミアロ先生のお墓も、いつか消えてなくなるの？
+[name="Ash"]So Miarow's grave will be lost someday?
+[name="Ash"]그럼 미아로우의 무덤도 언젠가 잊혀지겠네.
 
 [name="战车"]或许吧，但是我们为他举办了葬礼，这很重要。
+[name="Tachanka"]そうかもな。だが俺たちは先生の葬儀を挙げた。それで十分だ。
+[name="Tachanka"]Probably. But we held a funeral for him. And that was important.
+[name="Tachanka"]그렇겠지. 하지만 우리가 미아로우를 위해 장례식을 치렀잖아. 그게 중요하지.
 
 [name="灰烬"]我不是很能接受。
+[name="Ash"]あたしはあまり受け入れられない。
+[name="Ash"]I can't really accept that.
+[name="Ash"]지금까지 벌어진 모든 일…… 참 받아들이기 힘드네.
 
 [name="战车"]为什么？
+[name="Tachanka"]どうしてだ。
+[name="Tachanka"]Why?
+[name="Tachanka"]뭐?
 
 [name="灰烬"]在目睹了那样的事情之后，我很难接受他的结局。
+[name="Ash"]あんなのを目にした後では、彼の死は受け入れがたい。
+[name="Ash"]After seeing what I saw, it's hard to accept how he went.
+[name="Ash"]그런 모습을 보고 나니, 미아로우가 그렇게 죽어야 했다는 게 납득이 안 돼.
 
 [name="灰烬"]我们或许也有责任，亚历山大。
+[name="Ash"]あたしたちにも責任はあるかもしれない。アレクサンドル。
+[name="Ash"]We probably bear some responsibility, Alexsandr.
+[name="Ash"]우리에게도 어느 정도는 책임이 있어, 알렉산드르.
 
 [name="灰烬"]如果没有米亚罗，之前近半年来艰苦跋涉的我们会在这里遭遇更多艰辛。
+[name="Ash"]ミアロ先生がいなければ、この半年はもっと苦しい生活を強いられてたはずよ。
+[name="Ash"]If it weren't for Miarow, we would've had a much rougher time here.
+[name="Ash"]만약 미아로우가 없었다면 우린 이곳에서 더 힘든 시간을 보냈을 테고.
 
 [name="灰烬"]我一直在想，如果我们当时动作再快一点呢？如果我们强硬一点，坚持要和那些病人们一起行动呢？
+[name="Ash"]もしあの時、あたしたちがもっと早く行動していたら？　もっと強硬な態度をとって、あの病人たちと一緒に行動すると意地を通していれば？　そんな考えが頭から離れない。
+[name="Ash"]I've been thinking, what if we'd moved a little faster? If we were tougher? If we really decided to do something for those sick people?
+[name="Ash"]계속 생각해 봤어. 우리가 조금 더 빨리 움직였다면 어땠을까? 협상할 때 조금 더 단호하게 나가서 감염자들과 함께 가겠다고 했더라면?
 
 [name="灰烬"]如果我们......
+[name="Ash"]もし、あたしたちが……
+[name="Ash"]If we...
+[name="Ash"]만약 우리가……
 
 [name="战车"]我建议你放弃这种思考方式。
+[name="Tachanka"]そういう考え方は捨てた方がいい。
+[name="Tachanka"]I don't think it's a good idea to get caught up in thoughts like that.
+[name="Tachanka"]그런 생각에 사로잡히는 건 좋지 않다고 본다.
 
 [name="战车"]米亚罗做出了自己的选择，这不是你的错。
+[name="Tachanka"]ミアロ先生は自分の選択をしたんだ。誰のせいでもない。
+[name="Tachanka"]Miarow made his own choices. This isn't your fault.
+[name="Tachanka"]미아로우 스스로 선택한 거다. 네 탓이 아니야.
 
 [name="战车"]那个大个子姑娘尝试尽职尽责，作为一个生长在这种文化和制度下的贵族，她愿意庇护那些病人，无疑也是高尚的行为。
+[name="Tachanka"]あの大柄な娘だって責任を果たそうとしていただろ。こうした文化や制度のもとで生まれた貴族でありながら、病人たちを守ろうとしていた。これは間違いなく気高い行為だ。
+[name="Tachanka"]The big girl was trying to fulfill her duty. As an aristocrat growing up in this culture, in this system, her willingness to shelter the sick was definitely a noble act.
+[name="Tachanka"]그리고 피케일은 자기 의무를 다하려고 했을 뿐이지. 이곳의 문화적 배경과 체제 속에서 자란 귀족으로서, 감염자를 지키려 한 피케일의 행동은 분명 숭고한 일이고.
 
 [name="战车"]按照那几位罗德岛干员的说法，米亚罗病得很重。
+[name="Tachanka"]ロドスのオペレーターたちの話によれば、ミアロ先生の病は元々ひどく進行していたらしい。
+[name="Tachanka"]Judging by how the Rhodes Islanders talk, Miarow was very, very sick.
+[name="Tachanka"]로도스 아일랜드 녀석들이 하는 말로 봐서는, 미아로우의 광석병은 분명 심각한 수준이었을 거다.
 
 [name="战车"]对他来说，每天早上太阳是伴随着死亡一起升起的。
+[name="Tachanka"]彼からしてみれば、毎朝訪れる太陽は、それこそ死と共に昇ってきていたんだろう。
+[name="Tachanka"]For him, death was something that hung over him every day.
+[name="Tachanka"]미아로우에게 있어서 죽음이란 항상 어깨너머에 도사리고 있는 거나 마찬가지였을 테고.
 
 [name="战车"]像他那样的病情能够坚持到现在已经是奇迹了。
+[name="Tachanka"]あの病状で、今まで生きてられたこと自体、奇跡だそうだ。
+[name="Tachanka"]It's a miracle he lasted as long as he did, in his condition.
+[name="Tachanka"]그런 상태로 이만큼 오래 살았던 것 자체가 기적이야.
 
 [name="战车"]这就是他们的生活，我们能做的事情不多。
+[name="Tachanka"]これが彼らの生活だ。俺たちにできることは少ない。
+[name="Tachanka"]That's how they live. And there's not much we can do about it.
+[name="Tachanka"]그게 이 세계 사람들의 삶이다. 우리가 할 수 있는 일은 많지 않아.
 
 [name="灰烬"]但是我们真的做对了吗？
+[name="Ash"]でもあたしたちは本当に正しいことをしたの？
+[name="Ash"]But did we really do the right thing?
+[name="Ash"]하지만 우리가 정말 옳은 일을 한 걸까?
 
 [name="灰烬"]我们想当然地对他们伸出了援手，我们想当然地“帮助”了他们。
+[name="Ash"]あたしたちは当然のように彼らに救いの手を差し伸べようとし、当然のように「助け」たいと思っていた。
+[name="Ash"]We were so sure that if we reached out to help them, we would actually be helping them.
+[name="Ash"]우리는 감염자들에게 손을 내미는 일이 실제로 그들을 돕는 거라고 굳게 믿었어.
 
 [name="灰烬"]我不知道我为什么会如此自信，觉得我能够“帮助”他们。
+[name="Ash"]あたしには、どうして彼らを「助け」られる自信があったのか、わからなくなってるの。
+[name="Ash"]And I have no idea why.
+[name="Ash"]도대체 무슨 자신감으로 그게 당연하다고 생각했던 걸까.
 
 [name="灰烬"]我们和这些病人生活在一起。
+[name="Ash"]あたしたちは病人たちと共に生活をしてきた。
+[name="Ash"]We lived with those sick people.
+[name="Ash"]우린 저 감염자들과 함께 지냈지.
 
 [name="灰烬"]但是我们根本不了解感染者，我们想当然地把“矿石病”当做略带感染性的癌症，当做我们熟悉的那些无法治愈的绝症。
+[name="Ash"]でもあたしたちは感染者を理解していなかった。あたしたちは「鉱石病」を感染力のある癌のようなものとして、よく知る不治の病と呼ばれるものと同じようなものでしかないとみなしていた。
+[name="Ash"]But we didn't know anything about the Infected. We thought of that 'Oripathy' like a slightly infectious cancer, the deadly, incurable disease we already knew.
+[name="Ash"]그럼에도 정작 감염자에 관해 아는 게 거의 없었어. 광석병이란 그저 전염성이 있을 뿐인, 우리가 잘 아는 치명적이고 치료할 수 없는 암이나 마찬가지겠거니 했지.
 
 [name="灰烬"]但是这根本不是一种疾病......这是灾难。
+[name="Ash"]でもこれは病なんかじゃない……災いよ。
+[name="Ash"]But this isn't a disease, really... it's a disaster.
+[name="Ash"]하지만 이건 단순한 질병이 아니라…… 재난이야.
 
 [name="灰烬"]我们对此一无所知，却尝试拯救他们。
+[name="Ash"]あたしたちは何も知らないくせに、何もできないくせに、彼らを助けようとしていた。
+[name="Ash"]We don't know anything about it. And we still tried to save them.
+[name="Ash"]우린 이 병에 대해 아무것도 몰라. 그런데도 감염자를 구하려고 했다고.
 
 [name="战车"]你不该无端指责自己，科恩。
+[name="Tachanka"]コーエン、理由もなしに自分を責めるな。
+[name="Tachanka"]You can't blame yourself for nothing, Cohen.
+[name="Tachanka"]네 잘못이 아닌 걸 자책하지 마라, 코언.
 
 [name="战车"]这样没有意义。
+[name="Tachanka"]そんなのは何の意味もない。
+[name="Tachanka"]It's pointless.
+[name="Tachanka"]그런 건 무의미해.
 
 [name="战车"]我理解你现在的心情。
+[name="Tachanka"]お前の今の気持ちはわかる。
+[name="Tachanka"]I understand what you're feeling.
+[name="Tachanka"]네 기분은 이해한다.
 
 [name="战车"]但是你不能否定我们做的事情。
+[name="Tachanka"]だが俺たちがやったことを否定するな。
+[name="Tachanka"]But you can't deny what we did.
+[name="Tachanka"]하지만 우리가 한 일까지 부정하진 마.
 
 [name="战车"]还记得我在屋顶上的无所事事吗？我有大把大把的时间。
+[name="Tachanka"]俺が屋根の上で暇を潰してた時のことを覚えてるか？　あの頃は時間が山ほどあった。
+[name="Tachanka"]Remember when I was up on that roof with nothing to do? I had all that time on my hands.
+[name="Tachanka"]내가 할 일 없이 지붕 위에서 지냈을 때 기억나나? 그땐 남아도는 시간이 많았지.
 
 [name="战车"]我坐在那里，看着米亚罗的诊所，看着居住在这里的人。
+[name="Tachanka"]俺はそこに座って、ミアロ先生の診療所を見て、ここに住む人たちを見ていた。
+[name="Tachanka"]I sat there, watching Miarow's clinic, watching the people who lived there.
+[name="Tachanka"]그래서 지붕에 앉아 미아로우의 진료소와 그 주변에 사는 이들을 지켜봤다.
 
 [name="战车"]以异世界来客的身份，我见证着这个世界。
+[name="Tachanka"]異世界からの来訪者として、この世界を見ていたんだ。
+[name="Tachanka"]As a visitor from another world, I witnessed this one.
+[name="Tachanka"]다른 세계에서 온 방문객으로서 흥미를 가지고 말이야.
 
 [name="战车"]我不是个敏锐的人，但是即便如此我也能看到很多事情，那些不堪的，残忍的事情。
+[name="Tachanka"]俺は鈍感な人間だ。だが多くのものが目に入った。堪え難い……残忍なことが、山程な。
+[name="Tachanka"]I'm not a sharp person, but even I could see the many, terrible, cruel things.
+[name="Tachanka"]그러다 보니 난 그리 민감한 사람이 아닌데도, 끔찍하고 잔혹한 모습을 많이 봤어.
 
 [name="战车"]有一天晚上，一个镇民在夜色的掩护下，从另一个居民的家里抬出来一件包裹。
+[name="Tachanka"]ある夜、一人の町民が夜に紛れて、別の住民の家から荷物を運び出した。
+[name="Tachanka"]One night, one of the townsfolk was carrying a package from another's house under the cover of darkness.
+[name="Tachanka"]어느 날 밤엔, 마을 주민 하나가 어둠을 틈타 다른 사람 집에서 자루를 들고 나가더군.
 
 [name="战车"]那是一个用麻袋扎得严严实实的，一人高的包裹。
+[name="Tachanka"]それはしっかりと結ばれた麻袋で、人一人分ほどの大きさだった。
+[name="Tachanka"]It was a burlap-wrapped parcel, about as tall as a man.
+[name="Tachanka"]삼베로 포장한, 사람 키만 한 자루였지.
 
 [name="灰烬"]......
+[name="Ash"]……
+[name="Ash"]......
+[name="Ash"]……
 
 [name="战车"]我看到他们把麻袋抬上了板车，一路沿着小镇的边缘走向戈壁滩，消失在南边的那块巨石后面。
+[name="Tachanka"]そいつらは麻袋を荷車に載せて、町の端に沿って岩石砂漠の方へと歩いて行き、南のあの大きな岩の向こう側へと消えて行った。
+[name="Tachanka"]I watched them load the package into a handcart and make their way along the edge of town to the rocky desert, disappearing behind the boulders on the south side.
+[name="Tachanka"]그자는 자루를 손수레에 싣고 마을 가장자리를 따라 바위 사막으로 향하더군. 그리고는 남쪽 외곽 너머로 사라졌고.
 
 [name="战车"]我看到了好几次同样的事情。过去三周里大概有过两次。在我没看到的地方，一定还发生过更多。
+[name="Tachanka"]俺は何度も同じような光景を目にした。大体三週間で二回……俺が見ていない時にも、きっと同じようなことは何度もあったはずだ。
+[name="Tachanka"]I saw it happen just like that several times. Maybe twice in the past three weeks. And it must have been happening in other places too, where I couldn't see it.
+[name="Tachanka"]그런 모습을 몇 번이고 봤어. 지난 3주 동안 두 번은 봤을 거다. 분명 내가 보지 못한 다른 곳에서도 비슷한 일이 벌어졌을 테고.
 
 [name="灰烬"]你之前从来没有说过这件事。
+[name="Ash"]そんなの初耳ね。
+[name="Ash"]You never mentioned this before.
+[name="Ash"]그런 이야기는 한 번도 안 했잖아.
 
 [name="战车"]我不想说，我觉得没有必要。
+[name="Tachanka"]何となく言いたくなかったし、言う必要もないと思っていた。
+[name="Tachanka"]I didn't want to say anything. I didn't have a reason to.
+[name="Tachanka"]말할 생각도, 이유도 없었으니까.
 
 [name="战车"]你说得没错，我们是外人，不是这个国家的居民。就像我刚才的描述，我们对他们而言甚至是异世界人。
+[name="Tachanka"]お前の言う通り、俺たちはよそ者だ。この国どころかこの世界の住民ですらない。彼らにとって俺たちは全ての意味でよそ者だ。
+[name="Tachanka"]You're right. We're outsiders. We're not from this country. We're not even from this world.
+[name="Tachanka"]네 말이 맞아. 우리는 외부인이다. 이 나라 사람이 아니지. 심지어 이 세상 사람도 아니야.
 
 [name="战车"]我不了解他们。他们的历史、他们的文化、他们的生活，他们的喜怒哀乐，我都不了解。
+[name="Tachanka"]俺は彼らを理解していない。彼らの歴史、文化、生活、喜怒哀楽、そんなものを何一つ理解していない。
+[name="Tachanka"]We can't understand the people here. Their history, their culture, their lives, their feelings, we couldn't hope to know.
+[name="Tachanka"]이곳 주민들에게는 우리는 이방인이지. 이들의 역사와 문화, 삶, 그 속을 관통하는 슬픔과 기쁨 등 배워나갈 게 산더미야. 아직도 이해하지 못하는 게 많으니까.
 
 [name="战车"]我没有权利对我不了解的东西指指点点，他们无论做什么都有他们的理由。
+[name="Tachanka"]理解していないものに対して、とやかく言う権利は俺にはない。彼らは彼らで、何をするにしても彼らなりの理由がある。
+[name="Tachanka"]And I have no right to point my finger at something I don't understand. There's a reason they do what they do.
+[name="Tachanka"]그러니 내가 모르고, 이해하지 못하는 것을 비난할 권리는 내게 없다. 이곳 사람들의 행동에는 그만한 이유가 있는 거니까.
 
 [name="战车"]事情本该如此。
+[name="Tachanka"]本来はそうあるべきなんだ。
+[name="Tachanka"]That's how it should be.
+[name="Tachanka"]그게 이곳 사람들의 방식이고.
 
 [name="战车"]但是后来有一天晚上，也许是我的好奇心击败了我的理智，我沿着那条路，走到了他们埋藏麻袋的巨石后面。
+[name="Tachanka"]だがある晩、好奇心が理性に勝ったんだろうな。その道に沿って、彼らが麻袋を埋めている大きな岩の向こうへと俺は行ってみた。
+[name="Tachanka"]But then, one night, my curiosity got the better of me. I followed the path to the boulder where they buried the sack.
+[name="Tachanka"]그런데 어느 날 밤, 문득 궁금해지더군. 난 길을 따라 외곽으로 향해 사람들이 자루를 묻어뒀으리라 생각되는 바위로 갔지.
 
 [name="战车"]我看到沙土之下闪烁着光芒，我看到闪耀的粉尘从沙砾中升腾，最终消散在空气中。
+[name="Tachanka"]砂の下では光が輝き、光の粉塵が砂地の中からきらきらと立ち昇って散っていった。
+[name="Tachanka"]I saw the light shimmering beneath the sand. I saw the dust rising up from the rocks and dissipating into the air.
+[name="Tachanka"]그리고 그 주변 모래 속에서 뭔가 반짝이는 걸 발견했다. 바위 사이에서 먼지가 솟아올라 바람을 타고 흩어지고 있었고.
 
 [name="战车"]在夜色中，那些粉尘如此耀眼。
+[name="Tachanka"]夜の景色の中、その粉塵はとてもきれいだった。
+[name="Tachanka"]That dust is so bright, in the dark of the night.
+[name="Tachanka"]그 먼지는 정말 밝았어. 밤의 어둠 속에서, 아무런 빛을 받지 않고도 빛나고 있었지.
 
 [name="战车"]麻袋里装着什么，我当然知道。那些粉尘是什么，我多半也能猜到。
+[name="Tachanka"]麻袋に何が入っているか、もちろん知っていた。その粉塵が何か、おおよそ見当はついていた。
+[name="Tachanka"]I knew, of course, what was in the sack. I could probably guess what the dust was.
+[name="Tachanka"]물론 그 자루에 뭐가 들어있는지는 알고 있었다. 그래서 그 먼지가 뭔지도 어느 정도는 추측했고.
 
 [name="战车"]当然，现在我们都知道那些粉尘是什么了。
+[name="Tachanka"]もちろん今となっては、俺たち全員がその正体を知っているがな。
+[name="Tachanka"]And naturally, we all know exactly what it is now.
+[name="Tachanka"]그리고 지금은 우리 모두 알게 됐지.
 
 [name="战车"]那家抬出麻袋的屋子，门口经常坐着一个老妇人。那天晚上之后，那位老妇人再也没有出现。
+[name="Tachanka"]その麻袋が運び出された家は、入り口にばあさんが座っていた。その夜以降、そのばあさんは一度も姿を現したことがない。
+[name="Tachanka"]There was an old woman who sat by the door of the house where the sack came from. After that night, I never saw her again.
+[name="Tachanka"]삼베 자루가 나온 그 집 문 앞에선 원래 늙은 부인이 앉아 있는 모습을 자주 볼 수 있었다. 하지만 그날 밤 이후로, 그 늙은 부인은 다신 나타나지 않았지.
 
 [name="战车"]库兹每天都和这些镇民待在一起，他一定也知道。
+[name="Tachanka"]ケッツは毎日町民と一緒にいたんだ、あいつもきっと知っている。
+[name="Tachanka"]Kötz spent every day with the townsfolk. He must've known about it too.
+[name="Tachanka"]쾨츠도 매일 마을 사람들이랑 같이 있었으니 분명 알고 있을 거야.
 
 [name="灰烬"]（叹气）
+[name="Ash"]はぁ。
+[name="Ash"]*Sigh*.
+[name="Ash"]하아……
 
 [name="灰烬"]你之前编了个什么借口......人人都像是受过防化学战训练？懂得保护口鼻？这理由真烂。
+[name="Ash"]みんな化学戦争の訓練を受けたことがあるみたいだとか、鼻と口を塞ぐことの重要性を知っているとか、あんたがやけに強調してたのは、その原因と由来を知ってたからなのね。
+[name="Ash"]What was the excuse you made up before...? Everyone looks like they've had chemical warfare training? They know to cover their noses and mouths? What a lame explanation.
+[name="Ash"]전에 그런 말을 했지? 다들 화학전 훈련이라도 받은 것처럼 행동한다고. 코와 입을 잘 가린다고 말이야. 참 어설픈 변명이었군그래. 물론 통하긴 했다만.
 
 [name="战车"]因为我见过原因。
+[name="Tachanka"]その通りだ。
+[name="Tachanka"]Because I'd seen the reason.
+[name="Tachanka"]마을 주민들이 왜 그렇게 행동하는지 그 이유를 직접 봤으니까.
 
 [name="战车"]你刚才问我“我们真的做对了吗？”
+[name="Tachanka"]さっき「あたしたちは本当に正しいことをしたの？」と聞いたな？
+[name="Tachanka"]You just asked me if we really did the right thing.
+[name="Tachanka"]우리가 정말로 옳은 일을 했느냐고 물었지?
 
 [name="战车"]答案很简单，我们帮助他们，只是因为我们的道德与良知。
+[name="Tachanka"]答えは簡単だ。俺たちは彼らを助けた。それは俺たちの道徳心と良心によるものだ。
+[name="Tachanka"]The answer is simple: we helped them. Because that's what our morals, our conscience, told us to do.
+[name="Tachanka"]답은 간단해. 우린 마을 주민을 도왔다. 우리의 도덕관과 양심이 시키는 대로.
 
 [name="战车"]生老病死是不可阻挡的事情，无论是这个世界还是我们的世界。
+[name="Tachanka"]老いや死は避けられない。たぶんどんな世界においても、だ。
+[name="Tachanka"]Aging, illness, and death are inevitable. In this world and ours.
+[name="Tachanka"]노화, 질병, 죽음은 피할 수 없어. 이 세계에서도, 우리 세계에서도.
 
 [name="战车"]就算是没有这种“矿石病”，这些穷困的人们要面对的痛苦也不会减少。
+[name="Tachanka"]たとえこの「鉱石病」がなくとも、この貧しい人々が直面しなければならない苦しみは別の何かにすり替わるだけで、きっと減ることはないだろう。
+[name="Tachanka"]Even if there wasn't this Oripathy, the people wouldn't suffer any less.
+[name="Tachanka"]만약 이곳에 광석병이 없었더라도, 사람들은 똑같이 고통받았을 거다.
 
 [name="战车"]就算是没有这种病，战争、苛税、自然灾害依然会带走那些可怜人。
+[name="Tachanka"]この病がなくとも、戦争や重税、自然災害がこの可哀想な人たちから命を奪っていくんだ。
+[name="Tachanka"]Even without the disease, they'd have war, taxation, and natural disasters crushing the poor.
+[name="Tachanka"]질병이 없다면 전쟁, 세금, 그리고 자연재해가 가난한 이들을 짓밟았을 테지. 너나 나나 익히 봐왔잖아, '더 안전한' 세계에는 더 많은 위험이 존재한다는 걸.
 
 [name="战车"]看看他们的领主，看看这个镇子，他们活在什么样的社会里？
+[name="Tachanka"]彼らの領主や、この町を見ろ……彼らが暮らす社会はどうだ？
+[name="Tachanka"]See their Lord and this town, what kind of a society do they live in?
+[name="Tachanka"]이곳의 아미르와 이 마을을 봐, 이 사람들은 어떤 사회에서 살고 있지?
 
 [name="战车"]这种样貌的封建在我们熟悉的地球里已经早就落后于时代，但这是他们的现实。
+[name="Tachanka"]こんな封建的な社会は、俺たちのよく知る地球ではとっくに時代遅れだ。だがこれが彼らの現在の現実だ。
+[name="Tachanka"]Such feudalism would be far behind the times in the history of the Earth we know. But it's the reality for them.
+[name="Tachanka"]이런 봉건 사회는 우리가 있던 지구에선 진작에 사라졌지만, 여기 사람들에겐 이게 현실이야.
 
 [name="战车"]按我们的标准，他们不算是活在一个文明的世界里。
+[name="Tachanka"]俺たちの基準からすれば、彼らは文明的な世界で生きているとは言えないかもしれない。
+[name="Tachanka"]By our standards, they're not living in a civilized world.
+[name="Tachanka"]우리 기준에 이쪽 사람들은 문명화된 세계에 살고 있는 게 아닌 건 맞다.
 
 [name="战车"]这些年我见识过的混账事情够多了，科恩。你知道我指的是什么。
+[name="Tachanka"]ここ数年、クソったれな出来事を俺は嫌というほど見てきた。コーエン、俺が何を指してるのかはわかるだろ。
+[name="Tachanka"]I've seen enough *profanity* over the years, Cohen. You know what I mean.
+[name="Tachanka"]난 살면서 빌어먹을 놈들을 많이 봐왔어, 코언. 이게 무슨 뜻인지는 잘 알겠지.
 
 [name="战车"]这世界烂透了，但是我们并非什么都做不到。
+[name="Tachanka"]この世界は腐りきっている。だが俺たちは何もできないわけではないんだ。
+[name="Tachanka"]This world sucks. But there's still something we can do about it.
+[name="Tachanka"]이 세계는 그런 내가 봐도 형편없다. 하지만 그렇다고 우리가 아무것도 못 할 거라는 생각은 버려.
 
 [name="战车"]不要否定善行，道德和良知永远不会错。
+[name="Tachanka"]良い行いを否定するな。道徳心と良心は永遠に誤ることはない。
+[name="Tachanka"]Don't turn your back on our good work. Morality and conscience aren't wrong.
+[name="Tachanka"]우리의 선행에서 등을 돌리지 마. 마음속에 있는 도덕과 양심을 따르는 일은 절대 잘못되지 않았으니까.
 
 [name="灰烬"]......唉。
+[name="Ash"]……はぁ。
+[name="Ash"]...*Sigh*.
+[name="Ash"]하아……
 
 [name="灰烬"]你是对的，亚历山大。
+[name="Ash"]あんたは正しいわ、アレクサンドル。
+[name="Ash"]You're right, Alexsandr.
+[name="Ash"]네 말이 맞아, 알렉산드르.
 
 [name="灰烬"]忘掉我的蠢话吧，我应该是太累了。
+[name="Ash"]あたしのバカな話は忘れてちょうだい。きっと疲れてるのね。
+[name="Ash"]Forget I said anything. I'm just too tired.
+[name="Ash"]방금 말은 잊어 줘. 너무 피곤해서 그랬나 봐.
 
 [name="战车"]你确实太久没休息了。
+[name="Tachanka"]確かにお前はずっと休みなしだな。
+[name="Tachanka"]It's been too long since you got a good night's sleep.
+[name="Tachanka"]제대로 잠을 잔 지 너무 오래되긴 했지.
 
 [name="战车"]我们都累了。
+[name="Tachanka"]みんな疲れてる。
+[name="Tachanka"]We're all tired.
+[name="Tachanka"]다들 피곤하기도 하고.
 
 [name="战车"]有人来了。
+[name="Tachanka"]誰か来た。
+[name="Tachanka"]Someone's coming.
+[name="Tachanka"]누가 온다.
 
 [name="皮加尔"]......
+[name="ピカール"]……
+[name="Picale"]......
+[name="피케일"]……
 
 [name="皮加尔"]......
+[name="ピカール"]……
+[name="Picale"]......
+[name="피케일"]……
 
 [name="皮加尔"]......抱歉......
+[name="ピカール"]……申し訳ない……
+[name="Picale"]......Sorry......
+[name="피케일"]……미안하다.
 
 [name="皮加尔"]我不知道该说点什么，这全部都是我的责任。
+[name="ピカール"]なんと言えばいいかはわからぬが、すべて私の責任だ。
+[name="Picale"]I don't know what to say. This is all on me.
+[name="피케일"]무슨 말을 해야 할지 모르겠군. 전부 내 탓이다.
 
 [name="皮加尔"]全都是因为我的冲动和愚钝。
+[name="ピカール"]私が衝動的で、愚鈍だったせいだ。
+[name="Picale"]Because I was stupid and impulsive.
+[name="피케일"]내가 어리석고 충동적이었어.
 
 [Subtitle(text="高大的瑞柏巴握着一块金色印章，她用力握着，注入了自己的信念。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="大柄なレプロバが金色の印鑑を握っている。彼女はそれを力強く握りしめ、己の信念を注ぎ込んだ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The tall Reproba holds a golden seal. She grips it tightly, infusing it with her own conviction.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="키 큰 리프로바의 손에는 금빛 인장이 쥐어져 있었다. 리프로바는 인장을 꽉 움켜쥐고는, 자신의 의지를 인장에 불어넣었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="坚固的臂甲上浮现出奇妙的蓝色纹路，金色的印章融化了，从她的手中滴落，洒在了粗糙打磨的石碑上。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女の堅固な鎧に奇妙な青い文様が浮かび上がると、金色の印鑑は溶け、彼女の手から、粗く磨かれた石碑へとこぼれ落ちた。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The seal melts and falls from her hand, spilling onto the roughly polished stone tablet.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그러자 견고한 팔 갑옷 위에 기묘한 푸른 무늬가 나타났고, 금빛을 내던 인장도 그녀의 손에서 녹아 흘러내려 투박하게 다듬어진 비석 위에 뿌려졌다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="灰烬"]源石技艺......
+[name="Ash"]アーツ……
+[name="Ash"]Originium Arts...
+[name="Ash"]오리지늄 아츠……
 
 [name="皮加尔"]这是王酋赐予我父亲的功勋金牌，他是王酋最强的战士之一，长泉镇就是他军功的赏赐。
+[name="ピカール"]これは首長から私の父に贈られた、功績を称える記章だ。父は首長に仕えた最強の戦士の一人で、ロングスプリングはそんな父上が戦功により賜った町だ。
+[name="Picale"]That was a medal of honor given to my father by the Lord Ameer. He was one of the Ameer's strongest warriors, and the town of Long Spring was a reward for his service.
+[name="피케일"]아버지께서 아미르님께 받은 훈장이다. 아버지는 아미르 휘하의 전사 중 가장 강한 사람이었고, 롱스프링 마을은 아버지가 세운 공로로 하사받은 마을이었지.
 
 [name="皮加尔"]我的父亲强大、仁慈、正直。
+[name="ピカール"]父は強く、慈悲深く、まっすぐな人だった。
+[name="Picale"]My father was strong, kind, just.
+[name="피케일"]우리 아버지께선 강하고, 선하며, 공정한 분이셨다.
 
 [name="皮加尔"]从我小时候，他就一直说。
+[name="ピカール"]私が幼い頃から、父はずっと言っていた。
+[name="Picale"]He always was, ever since I was small.
+[name="피케일"]늘 그런 분이었다. 내가 어렸을 때부터.
 
 [name="皮加尔"]图拉家族建立在矿工的血肉之上。
+[name="ピカール"]トゥラ一族は、鉱山労働者の血と肉の上に築かれている。
+[name="Picale"]The Tulla family was built on the blood and bones of miners.
+[name="피케일"]툴라 가문은 광부들이 흘린 피와 그들의 뼈 위에 만들어졌다.
 
 [name="皮加尔"]那些年，依靠挖掘地下的源石，我的父亲获得了很多财富。
+[name="ピカール"]当時、地下の源石を掘り出すことで、父は多くの富を手に入れた。
+[name="Picale"]For years, my father grew wealthy digging Originium out of the ground.
+[name="피케일"]수년 동안, 아버지는 광산에서 오리지늄을 채굴해 부유해졌지.
 
 [name="皮加尔"]但是随之而来的就是矿石病的蔓延。一开始还只有矿工......但是后来这种病就在镇子里扩散开了。
+[name="ピカール"]その結果、富に続いてやってきたのが鉱石病の蔓延だ。最初は鉱山労働者だけだった。……だがその後、病は町に広がっていった。
+[name="Picale"]But with it came the spread of Oripathy. It was just the miners, at first... but it eventually spread through the town.
+[name="피케일"]하지만 그와 동시에 광석병이 퍼졌다. 처음에는 광부만 감염됐지만…… 결국에는 마을 전체에 퍼졌어.
 
 [name="皮加尔"]在浅层源石挖掘完毕之后，父亲关闭了源石矿场，禁止深层的挖掘。
+[name="ピカール"]浅い層の源石を掘り出した後、父上は源石採掘場を閉鎖し、深い層の採掘は全面的に禁止された。
+[name="Picale"]When the Originium closer to the surface was all mined out, my father closed the quarry. He wouldn't let anyone dig any deeper.
+[name="피케일"]지표면 근처에 있던 오리지늄을 모두 채굴하자, 아버지께선 채석장을 폐쇄하셨다. 그 이후로 아무도 채굴하지 못하게 하셨고.
 
 [name="皮加尔"]他建立了感染者社区，派人保护他们。他无法心安理得地坐在源石病人的尸体上数金币。
+[name="ピカール"]父上は感染者地区を作り、人を手配して彼らを保護した。鉱石病感染者の死体の上であぐらをかいて金を数えるなんて、父にはできなかったんだ。
+[name="Picale"]He created the Infected quarter, and sent men to protect the people living there. He couldn't just sit on the pile of Infected corpses and count his gold.
+[name="피케일"]아버지께선 감염자 구역을 만들고는 그곳에 사는 이들을 지키기 위해 병사를 보내셨다. 감염자 시체 더미 위에 앉아 돈만 거머쥐는 삶은 차마 살아갈 수 없으셨던 거야.
 
 [name="皮加尔"]他一直希望我和德鲁奇能做得更好。
+[name="ピカール"]父は、私とドラッジがもっとうまくやっていくことを望んでいた。
+[name="Picale"]He always hoped my brother Drudge and I could do better.
+[name="피케일"]아버지께선 항상 우리 남매가 훌륭하게 자라기를 바라셨다.
 
 [name="皮加尔"]我不知道德鲁奇在哥伦比亚留学的时候到底接触了什么，我只是看着他变得越来越阴险。
+[name="ピカール"]クルビアへの留学中に、ドラッジが一体何をしてきたのか、私は知らない。私が気付いたのは、だんだんと卑劣になっていく彼の姿だけ。
+[name="Picale"]I don't know what happened to Drudge while he was studying in Columbia. I just saw him turn more and more evil.
+[name="피케일"]드러지가 컬럼비아에서 공부하는 동안 무슨 일이 있었는지는 모르겠다만, 해를 거듭할수록 점점 더 사악해지더군.
 
 [name="皮加尔"]直到父亲把他赶出家门的时候，我才意识到那个人已经不是我的兄弟了。
+[name="ピカール"]父上がドラッジを家から追い出した時、あいつはもう私の弟ではないのだと、私は悟った。
+[name="Picale"]It wasn't until my father kicked him out of the house that I realized the man was no longer my brother.
+[name="피케일"]그리고 그런 드러지를 아버지께서 집에서 쫓아내고 나서야, 나는 드러지가 더 이상 내 오라버니가 아니라는 걸 깨달았다.
 
 [name="皮加尔"]但我也让父亲失望了。
+[name="ピカール"]そして今、私も父を失望させてしまった。
+[name="Picale"]But I disappointed Father too.
+[name="피케일"]하지만 나 역시 아버지의 얼굴에 먹칠을 했다.
 
 [name="皮加尔"]我不配继承他的功勋和基业。
+[name="ピカール"]父の功績と事業を受け継ぐに、私も弟も相応しくない。
+[name="Picale"]I'm not a worthy successor to his achievements, or his legacy.
+[name="피케일"]난 아버지의 위업이나 유산을 물려받을 자격이 없어.
 
 [name="皮加尔"]我不配。
+[name="ピカール"]相応しくないんだ。
+[name="Picale"]I'm unworthy.
+[name="피케일"]그럴 면목도 없다.
 
 [name="皮加尔"]我空有一身武力，却什么都没能做到。我没有保护好长泉，没有保护好我父亲的领民。我甚至没能杀了德鲁奇，让他就这么跑了。
+[name="ピカール"]武力を持ちながらも、父の土地であるロングスプリングと、その土地に住まう領民を守れず、ドラッジをこの手で処罰することさえできずに逃がしてしまった私は、全くの役立たずだ。
+[name="Picale"]I did nothing. I couldn't protect Long Spring. I couldn't protect my father's people. I couldn't even kill Drudge. I let him get away.
+[name="피케일"]난 아무것도 이루지 못했다. 롱스프링도, 그 주민들도 지키지 못했어. 드러지를 죽이지도 못한 채 놈을 놓쳐버리기까지 했지.
 
 [name="战车"]支持德鲁奇的这群人，都是些什么人？
+[name="Tachanka"]ドラッジ側についている連中は、どんな奴らなんだ。
+[name="Tachanka"]Drudge's supporters, what kind of people are they?
+[name="Tachanka"]드러지 같은 놈한테 붙은 놈들은 대체 뭐하는 놈들이지?
 
 [name="皮加尔"]我不是很了解他们，我只知道他们来自一个叫做沃尔沃特科钦斯基的哥伦比亚组织。
+[name="ピカール"]私もあまり知らないんだ。唯一、ヴォルヴォート・コシンスキーという、クルビアの組織から来た連中だということだけ知っている。
+[name="Picale"]I don't know them well. All I know is that they are from a Columbian organization called Volvort Kochinski.
+[name="피케일"]나도 그들에 대해 잘은 모른다. 그들이 볼보트 코친스키라는 이름의 어느 컬럼비아 단체라는 것만 알고 있는 정도지.
 
 [name="皮加尔"]这不是我第一次和那些哥伦比亚人打交道......
+[name="ピカール"]あの連中と関わるのはこれが初めてではない……
+[name="Picale"]It wasn't the first time I dealt with those Columbians...
+[name="피케일"]컬럼비아인들과 교류를 한 건 이번이 처음은 아니네만……
 
 [name="皮加尔"]他们贪婪、可恶，只想着怎么从镇子下面挖出更多的石头，完全不在乎镇子里的人要怎么生活。
+[name="ピカール"]貪欲で、愚図で、町の地下から石を掘り出すことしか考えていない奴らだ。町民の生活など気にも留めていないだろうな。
+[name="Picale"]They're wicked and greedy. All they care about is how to dig more rocks out from under the town. They don't give a thought to the people living in it.
+[name="피케일"]그들은 탐욕스럽고 악한 자들이다. 마을 사람들이 삶은 안중에도 없었고, 어떻게 하면 우리 마을에서 더 많은 광산물을 들고 나올 수 있을지 밖에 생각하지 않았지.
 
 [name="战车"]这故事听着可有点耳熟。
+[name="Tachanka"]どこかで聞いたことがあるような話だな。
+[name="Tachanka"]Sounds familiar.
+[name="Tachanka"]많이 듣던 얘기로군.
 
 [name="灰烬"]......哼。
+[name="Ash"]……フンッ。
+[name="Ash"]Hmph...
+[name="Ash"]……흥.
 
 [name="皮加尔"]我的父亲常说，如果只是成为一个战士，那么仅凭力量是守护不了家园的。
+[name="ピカール"]父は、力だけの戦士では故郷を守ることはできないと言っていた。
+[name="Picale"]My father used to say that if I just became a warrior, I could protect my home with strength alone.
+[name="피케일"]아버지는 항상 내가 전사가 되면, 혼자서도 고향을 지킬 줄 알아야 한다고 하셨다.
 
 [name="皮加尔"]战士可以击败战士，但是暴力无法对抗真正的邪恶。
+[name="ピカール"]戦士は戦士を打ち倒すことができる。だが武力や暴力では本当の悪に対抗することはできない、と。
+[name="Picale"]A warrior can defeat another warrior. But violence isn't a solution to true evil.
+[name="피케일"]전사는 다른 전사를 이길 수 있지만, 폭력만으로는 진정한 악을 물리칠 수 없다고.
 
 [name="皮加尔"]......我一直不曾明白，父亲所谓的“真正的邪恶”是什么。
+[name="ピカール"]……私はずっと理解できていなかった。父が言っていた言葉の意味や「本当の悪」とは何かを。
+[name="Picale"]...I never understood what he was referring to with 'true evil'.
+[name="피케일"]……그때, 아버지가 말씀하신 '진정한 악'이 뭔지 난 이해하지 못했다.
 
 [name="皮加尔"]我一直以为德鲁奇已经变成了邪恶。
+[name="ピカール"]私はただ、ドラッジこそが本当の悪だと考えていた。
+[name="Picale"]I always thought Drudge had turned evil.
+[name="피케일"]그저 막연하게, 드러지가 그 악이라고 생각했을 뿐.
 
 [name="皮加尔"]......但是我现在才明白，德鲁奇只是邪恶的丝缕毫毛，就已经将我击败。
+[name="ピカール"]……しかし今になってようやくわかった。ドラッジは悪のごくごく一部に過ぎなかった。そして、私はそれにすら敵わない。
+[name="Picale"]...But now I know Drudge was just a tiny little sliver of evil. And it was still enough to beat me.
+[name="피케일"]……하지만 이제 깨달았다. 드러지는 악의 일부일 뿐이었어. 그리고 고작 그 일부에 난 지고 말았다.
 
 [name="战车"]有些时候并不是拼了命就能解决问题。
+[name="Tachanka"]命懸けでやっても解決できないこともあるさ。
+[name="Tachanka"]There are times when a fight to the death can't solve the problem.
+[name="Tachanka"]죽을 때까지 맞서 싸워도 해결할 수 없는 문제도 있는 법이지.
 
 [name="战车"]接下来你打算怎么办？
+[name="Tachanka"]それで、これからどうするつもりだ？
+[name="Tachanka"]What are you going to do next?
+[name="Tachanka"]앞으로는 어쩔 생각이지?
 
 [name="皮加尔"]我不知道，德鲁奇跑了，他的雇佣兵也分崩离析了。
+[name="ピカール"]わからない。ドラッジの傭兵組織は崩壊したようだが、本人は逃げてしまっている。
+[name="Picale"]I don't know. Drudge ran off, and his mercenaries fell apart.
+[name="피케일"]모르겠군. 드러지는 도망쳤고, 그놈이 데리고 있던 용병은 뿔뿔이 흩어졌다.
 
 [name="皮加尔"]但是他留下了这一地怪物，长泉已经不适合居住了......
+[name="ピカール"]しかもあいつはこの辺り一帯にモンスターを残していった。ロングスプリングは、もう人が住むのには難しい土地となってしまった。
+[name="Picale"]But he left behind those monsters. Long Spring isn't really habitable anymore...
+[name="피케일"]하지만 놈이 괴물을 두고 달아났어. 롱스프링은 더는 사람이 살 수 있는 곳이 아니야……
 
 [name="皮加尔"]至少目前，我还得守住我的家，镇子里的幸存者都在那边了。
+[name="ピカール"]だが今は、私は家を守らなければならない。生きている町民たちが皆その中にいるからな。
+[name="Picale"]For the time being, at least, I have to protect my home. That's where the town's survivors are.
+[name="피케일"]그렇다 해도, 당분간은 내 저택을 지켜야 한다. 생존자들이 아직 그곳에 머물고 있으니까.
 
 [name="战车"]你家的房子可以住这么多人？
+[name="Tachanka"]あんたのお屋敷は、町民全員が入るほど広いのか？
+[name="Tachanka"]How many people can your home house?
+[name="Tachanka"]그 저택에 몇 명까지 수용할 수 있지?
 
 [name="皮加尔"]......大宅的地下有一个避难所，可以容纳很多人，但是食物和饮水都不太够。
+[name="ピカール"]……かねてから屋敷の地下に避難施設を用意している。収容すること自体は問題ない。食料と水は別の話だがな。
+[name="Picale"]......There's a shelter in the basement of the manor. It can hold a lot of people, but we don't have enough food and water.
+[name="피케일"]저택 지하실에 대피소가 있다. 많은 민간인을 수용할 수 있지만, 물과 식량이 부족해.
 
 [name="皮加尔"]不好意思，我不该和你们抱怨这些。
+[name="ピカール"]……すまない。お前たちに言ってもしょうがないことだ。
+[name="Picale"]Sorry, I shouldn't be complaining to you about these things.
+[name="피케일"]미안하다. 너희에게 이런 넋두리를 늘어놓을 생각은 아니었는데.
 
 [name="皮加尔"]我其实是来道谢的，谢谢你们这段时间里一直在保护长泉的居民。
+[name="ピカール"]実は礼を言いに来たのだ。ロングスプリングの民を守ってくれたことに対してな。改めて感謝する。
+[name="Picale"]I actually came to thank you for protecting the people of Long Spring through all this.
+[name="피케일"]그저, 지금까지 롱스프링 사람들을 지켜줘서 고맙다는 말을 하러 왔다.
 
 [name="灰烬"]不用这么客气。
+[name="Ash"]礼には及ばないわ。
+[name="Ash"]No thanks necessary.
+[name="Ash"]천만에.
 
 [name="皮加尔"]我......我还有事要做，失陪了。
+[name="ピカール"]では、私はこれで失礼する。
+[name="Picale"]I... I have something I must do. Excuse me.
+[name="피케일"]그럼 난…… 난 할 일이 있으니, 먼저 실례하지.
 
 [name="灰烬"]......
+[name="Ash"]……
+[name="Ash"]......
+[name="Ash"]……
 
 [name="战车"]她是个好人，很难想象那个恶棍是她的兄弟。
+[name="Tachanka"]いい奴だな。あの悪人が彼女の弟だとは想像もつかない。
+[name="Tachanka"]She's a good person. It's hard to believe that evil *profanity* is her brother.
+[name="Tachanka"]피케일은 좋은 녀석이야. 그 빌어먹을 드러지 자식이 피케일의 친오빠라는 게 믿기지 않을 정도로.
 
 [name="芙兰卡"]科恩小姐，你们还在这。
+[name="フランカ"]コーエンさん、いるかしら？
+[name="Franka"]Here you are, Miss Cohen.
+[name="프란카"]여기 있었구나, 코언.
 
 [name="芙兰卡"]我来的不是时候？
+[name="フランカ"]あれ、タイミング悪かった？
+[name="Franka"]Did I come at a bad time?
+[name="프란카"]나중에 다시 올까?
 
 [name="灰烬"]啊，没关系，我们本来也准备走了。
+[name="Ash"]いや、大丈夫よ。これからそっちに行くつもりだったから。
+[name="Ash"]Oh, no. We were just about to leave.
+[name="Ash"]아니. 우리도 마침 가려고 했어.
 
 [name="芙兰卡"]这是那些感染者给我的，这个盒子是米亚罗医生的......遗物。
+[name="フランカ"]感染者のみんながこれを渡してくれたの。この箱はミアロ先生の……遺品よ。
+[name="Franka"]The Infected gave this to me. It's Dr. Miarow's... estate. In the box.
+[name="프란카"]감염자가 이걸 줬어. 미아로우 선생이 남긴…… 물건이야. 이 안에 담겨 있어.
 
 [name="芙兰卡"]感染者们商量了之后，认为还是交给你们比较好。
+[name="フランカ"]あの感染者たちが話し合った結果、あなたたちに渡した方がいいってことになったらしいわ。
+[name="Franka"]After talking it over with the Infected, they decided it would be best to give them to you.
+[name="프란카"]감염자들과 이야기해 보니까 이건 너희에게 주는 게 좋을 것 같다고 하더라고.
 
 [name="灰烬"]......
+[name="Ash"]……
+[name="Ash"]......
+[name="Ash"]……
 
 [name="战车"]打开看看吧。
+[name="Tachanka"]開けてみたらどうだ？
+[name="Tachanka"]Open it.
+[name="Tachanka"]열어봐.
 
 [name="灰烬"]这合适吗？
+[name="Ash"]あたしたちでいいの？
+[name="Ash"]Is that proper?
+[name="Ash"]그래도 될까?
 
 [name="战车"]没什么不合适的，他是我们的朋友。
+[name="Tachanka"]ダメなんてことはないだろ。あいつは俺たちの……友人だ。
+[name="Tachanka"]Of course. He was our friend.
+[name="Tachanka"]당연하지. 우리 모두의 친구였잖아.
 
 [name="战车"]里面是什么？
+[name="Tachanka"]中は？
+[name="Tachanka"]What's inside?
+[name="Tachanka"]뭐가 들어있어??
 
 [name="灰烬"]一张地图，还有一本书。
+[name="Ash"]一枚の地図と、一冊の本。
+[name="Ash"]A map. And a book.
+[name="Ash"]지도. 그리고 책.
 
 [name="芙兰卡"]这是萨尔贡语版本的《哥伦比亚城市旅行指南》。
+[name="フランカ"]これはサルゴン語版の『クルビア旅行ガイド』ね。
+[name="Franka"]It's a Sargonian version of 'The Traveler's Guide to Urban Columbia'.
+[name="프란카"]사르곤어로 적힌 '컬럼비아 도시 여행 안내서'야.
 
 [name="芙兰卡"]这张地图......这张地图看起来有点年头了，我看看......
+[name="フランカ"]この地図……この地図はちょっと古そう、見せて……
+[name="Franka"]As for the map... It looks kind of old. Let's see here...
+[name="프란카"]지도는…… 꽤 오래된 거 같은데. 어디 보자……
 
 [name="芙兰卡"]嗯......这个区域应该是提卡伦多，哥伦比亚的边境城市，我去过那里。
+[name="フランカ"]うーん……このエリアは恐らくトカロントね。クルビア国境付近の都市よ、あたしも行ったことあるわ。
+[name="Franka"]Oh... This area should be Tkaronto. It's a Columbia border city. I've been there before.
+[name="프란카"]아…… 여긴 티카렌토네. 컬럼비아 국경에 있는 도시지. 전에 가본 적 있어.
 
 [name="战车"]这叠东西是钱？
+[name="Tachanka"]この束は金か？
+[name="Tachanka"]And is this stack here money?
+[name="Tachanka"]이 종이 다발은 돈인가?
 
 [name="芙兰卡"]这个是哥伦比亚金券......米亚罗医生居然还存了一笔钱。
+[name="フランカ"]これはクルビアのお金ね……ミアロ先生は貯金もしてたのね。
+[name="Franka"]Columbian gold certificates... Dr. Miarow actually had some savings.
+[name="프란카"]컬럼비아 수표…… 미아로우 선생한텐 저축한 돈이 꽤 있었나 보네.
 
 [name="灰烬"]我记得他说过，有一天会离开这里，去那个叫哥伦比亚的地方。
+[name="Ash"]ミアロ先生は、いつかここを離れて、クルビアに行きたいって言ってた。
+[name="Ash"]I remember he said he would leave here someday and go to a place called Columbia.
+[name="Ash"]미아로우는 언젠가 이곳을 떠나 컬럼비아라는 곳에 가고 싶다고 했어.
 
 [name="战车"]“成为一个真的医生”。
+[name="Tachanka"]「本当の医者になる」ってな。
+[name="Tachanka"]'To become a real doctor.'
+[name="Tachanka"]'진짜 의사가 되기 위해서.'
 
 [name="灰烬"]明明时日无多，他还是规划了自己的生活。
+[name="Ash"]残された時間は多くないとわかっていたのはずなのに、それでも彼は自らの人生を計画していた。
+[name="Ash"]Short as his time was, he still had a plan for his life.
+[name="Ash"]비록 주어진 시간은 짧았지만, 미래를 꿈꾸고 계획했던 거야.
 
 [name="芙兰卡"]稍等，这里还有一张便条，我看看。
+[name="フランカ"]待って………メモが一枚入ってる。
+[name="Franka"]Hold on. There's a note here. Let me see.
+[name="프란카"]잠깐, 쪽지가 있어. 어디 보자.
 
 [name="芙兰卡"]......嗯......
+[name="フランカ"]えっと……
+[name="Franka"]......Hmm......
+[name="프란카"]음……
 
 [name="灰烬"]上面写着什么？
+[name="Ash"]なんて書いてあるの？
+[name="Ash"]What does it say?
+[name="Ash"]뭐라고 써 있어?
 
 [name="芙兰卡"]......需要我念出来吗？
+[name="フランカ"]……読んだ方がいい？
+[name="Franka"]...Should I read it?
+[name="프란카"]……읽을까?
 
 [name="灰烬"]念吧。
+[name="Ash"]お願い。
+[name="Ash"]Go ahead.
+[name="Ash"]그래.
 
 [name="芙兰卡"]“如果你看到了这张纸条，感谢你帮我收拾这些东西。”
+[name="フランカ"]「このメモを見ているということは、あなたが僕の代わりに荷物の整理をしてくれたということですね。ありがとうございます」
+[name="Franka"]'If you're reading this note, thank you for helping me deal with this stuff.'
+[name="프란카"]“이 쪽지를 읽고 있는 분에게, 뒷정리를 도와주셔서 감사합니다.”
 
 [name="芙兰卡"]“把钱分给其他人吧，我肯定用不到了。”
+[name="フランカ"]「お金は他の方と分けてください、僕はもう使えませんから」
+[name="Franka"]'Give the money to someone. I definitely don't need it anymore.'
+[name="프란카"]“돈은 다른 사람에게 주세요. 전 분명 앞으로 쓸 일이 없을 테니까요.”
 
 [name="芙兰卡"]“盒子不要丢了，这是我母亲留下的。”
+[name="フランカ"]「箱は捨てないでください。僕の母が残してくれたものです」
+[name="Franka"]'Don't lose the box. It was my mother's.'
+[name="프란카"]“상자는 버리지 말아 주세요. 어머니의 유품이라서요.”
 
 [name="芙兰卡"]“虽然我不知道你是谁，我的朋友。”
+[name="フランカ"]「あなたが誰かはわかりませんが」
+[name="Franka"]'Although I don't know who you are, my friend,'
+[name="프란카"]“당신이 누군지는 모르겠지만”
 
 [name="芙兰卡"]“但我希望你的生活能够一帆风顺。”
+[name="フランカ"]「あなたの人生が順風満帆に進むことを祈っています」
+[name="Franka"]'I still hope your life turns out okay.'
+[name="프란카"]“부디 행복하게 살아가길 바랍니다.”
 
 [name="芙兰卡"]“——米亚罗”
+[name="フランカ"]「――ミアロ」
+[name="Franka"]'—— Miarow '
+[name="프란카"]“——미아로우”
 
 [name="灰烬"]......我应该用什么表情......什么心情来面对他留下的善事和遗产？
+[name="Ash"]……どんな表情で……どんな気持ちで、彼が行ってきた善行と彼が遺した物に向き合えばいいの？
+[name="Ash"]...I don't know how to express myself here... What can I do or say in the face of his legacy?
+[name="Ash"]……모르겠어…… 이걸 마주한 지금 대체 무슨 말을 해야……
 
 [name="芙兰卡"]米亚罗医生是个很坚强的人。
+[name="フランカ"]ミアロ先生はとても強い人ね。
+[name="Franka"]Dr. Miarow was a strong man.
+[name="프란카"]미아로우는 강한 사람이었어.
 
 [name="芙兰卡"]梦想对感染者来说是奢侈的，就像是易碎的宝石。
+[name="フランカ"]夢なんて、感染者にとっては割れやすい宝石みたいに、とても贅沢なものなの。
+[name="Franka"]Dreams are a luxury for the Infected. They're like precious, fragile gemstones.
+[name="프란카"]꿈이란 감염자에게 있어 사치야. 귀중하고, 깨지기 쉬운 보석과 같지.
 
 [name="芙兰卡"]就算是在哥伦比亚，城市里的感染者也会被分区管制，大多数人一辈子都很难走出收治区。
+[name="フランカ"]たとえクルビアでも、都市の感染者は区画管理され、ほとんどの人が治療エリアからは一生出られない。
+[name="Franka"]Even in Columbia, the Infected are zoned to certain areas of the city. Most people live their whole lives struggling to get out of them.
+[name="프란카"]컬럼비아도 도시 내 감염자는 지정된 지역에 몰려있어. 평생 그 지역에서 살아가는 이들이 대부분이고.
 
 [name="芙兰卡"]绝大多数时候，染上了矿石病就等同于被宣判了死刑......死缓。
+[name="フランカ"]鉱石病に感染するということは、ほとんど死刑判決を受けたのと同じ……いつ執行されるかもわからない。
+[name="Franka"]The vast majority of the time, contracting Oripathy is a death sentence... if a deferred one.
+[name="프란카"]보통 광석병에 걸렸다는 건 사형 선고나 마찬가지야…… 집행이 유예됐을 뿐인 사형 선고지.
 
 [name="芙兰卡"]现实会逼迫你放弃自己的梦想，放弃自己的生活，最终放弃自己的生命。
+[name="フランカ"]現実に追い立てられた人は夢を諦め、人生を諦め、最終的に命も諦めてしまう。
+[name="Franka"]Reality forces you to give up on your dreams, your lifestyle, and ultimately life itself.
+[name="프란카"]감염자는 자신의 의지와는 상관없이 꿈과 생활 방식, 궁극적으로는 삶 자체를 포기할 수밖에 없게 돼.
 
 [name="芙兰卡"]很难有人在痛苦的现实面前，依然对自己的生活充满希望。
+[name="フランカ"]つらい現実に直面して、それでも自分の人生に希望を抱くのはとても難しいわ。
+[name="Franka"]It's hard for anyone to be hopeful about life in the face of cruel reality.
+[name="프란카"]그런 잔인한 현실 앞에서 희망을 품고 살아가기란 쉽지 않고.
 
 [name="芙兰卡"]是什么一直在支持他的信念呢？
+[name="フランカ"]何が……何が彼に信念と夢と希望を抱かせ続けたのかな？
+[name="Franka"]What on earth was supporting him?
+[name="프란카"]뭐가 미아로우의 신념을 붙들어 준 걸까?
 
 [name="战车"]像米亚罗这样的人，不该这么活着，然后就这么死了。
+[name="Tachanka"]ミアロ先生のような人は、こんな生き方をして、こんな死に方をすべきじゃなかった。
+[name="Tachanka"]Someone like Miarow should not have lived like this. He shouldn't have died like this.
+[name="Tachanka"]미아로우는 더 나은 삶을 살 자격이 있었다. 그런 죽음을 맞이해서도 안 됐고.
 
 [name="灰烬"]等等，你要去哪？
+[name="Ash"]待って？　どこへ行くの？
+[name="Ash"]Wait, where are you going?
+[name="Ash"]잠깐, 어디 가?
 
 [name="战车"]去找那个大个子姑娘。
+[name="Tachanka"]あの大柄な娘の所だ。
+[name="Tachanka"]To find the big girl.
+[name="Tachanka"]피케일을 찾으러.
 
 [name="灰烬"]你要干什么？
+[name="Ash"]何をするつもりなの？
+[name="Ash"]Why?
+[name="Ash"]왜?
 
 [name="战车"]我要和她谈谈，我有个计划。
+[name="Tachanka"]話だ。考えていることがある。
+[name="Tachanka"]I want to talk to her. I have a plan.
+[name="Tachanka"]이야기 좀 하려고. 계획이 있어.
 

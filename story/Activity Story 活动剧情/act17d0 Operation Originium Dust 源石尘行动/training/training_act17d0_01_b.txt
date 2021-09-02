@@ -1,10 +1,25 @@
 又来了，石头螃蟹，还不止一只！
+また来た、石のカニだ。一匹だけじゃない！
+Here come those stony crabs again, and not just one!
+또 왔네, 저 돌덩이 게들. 한 마리가 아닌데!
 
 [PopupDialog(dialogHead="$avatar_rfrost")] 闪击！后退！注意避开沙尘暴！
+[PopupDialog(dialogHead="$avatar_rfrost")] Blitz、下がって！　砂嵐に気を付けて！
+[PopupDialog(dialogHead="$avatar_rfrost")] Fall back, Blitz! Get clear of that sandstorm!
+[PopupDialog(dialogHead="$avatar_rfrost")] 물러나, Blitz! 모래 폭풍을 피해!
 
 等等，这些螃蟹在沙尘暴中似乎也受影响。看起来这些沙尘暴会<@tu.kw>降低敌人的移动速度</>。
+待て、このカニたちも砂嵐の影響を受けるみたいだ。砂嵐は敵の<@tu.kw>移動速度を低下させる</>らしい。
+Hold up there, the crabs look like the sandstorm's getting to them. Seems it <@tu.kw>significantly reduces enemy movement speed</>.
+잠깐, 이 게들도 모래 폭풍의 영향을 받는 것 같은데. 아무래도 <@tu.kw>모래 폭풍이 적들의 이동 속도를 대폭 감소시키는 것 같아.</>
 
 闪击，看到那些<@tu.kw>地穴</>了吗？这些铁螃蟹虽然够硬，但是看起来不是很聪明的样子，把他们吸引到那里。但是注意你自己的脚下！
+Blitz、あの<@tu.kw>落し穴</>が見える？　あの鉄のカニたちはかなりの硬さだけど、それほど賢くはないみたい。敵をあそこに落としてやりましょう。自分の足元にも注意して！
+Blitz, do you see those <@tu.kw>pits</>? The metal crabs may be tough, but they don't seem very smart. Try pulling them into those pits, but watch your own feet!
+Blitz, 저기 <@tu.kw>구덩이</> 보여? 저 메탈 크랩은 단단해서 상대하기 어렵지만, 그렇게 똑똑한 것 같아 보이진 않으니 저쪽으로 빠뜨릴 수 있을 거야. 발밑 조심하는 거 잊지 말고!
 
 [PopupDialog(dialogHead="$avatar_blitz")] 行吧，看起来是一种选择。
+[PopupDialog(dialogHead="$avatar_blitz")] わかった、それも一つの手だな。
+[PopupDialog(dialogHead="$avatar_blitz")] Sure, looks like an option.
+[PopupDialog(dialogHead="$avatar_blitz")] 좋아, 아무래도 다른 선택지는 없는 것 같군.
 

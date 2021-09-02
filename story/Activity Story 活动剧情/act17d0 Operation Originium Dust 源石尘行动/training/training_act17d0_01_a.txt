@@ -1,26 +1,65 @@
 [PopupDialog(dialogHead="$avatar_tachak")] 该死，这片区域根本找不到能落脚的地方
+[PopupDialog(dialogHead="$avatar_tachak")] クソ、このエリアには体を休められる場所はないのかよ。
+[PopupDialog(dialogHead="$avatar_tachak")] Damn. Where do we even set up here?
+[PopupDialog(dialogHead="$avatar_tachak")] 젠장. 발붙일 곳을 못 찾겠네.
 
 [PopupDialog(dialogHead="$avatar_ash")] 没时间抱怨了，前方又是一阵沙尘暴
+[PopupDialog(dialogHead="$avatar_ash")] 文句を言ってる暇はないわよ。前方に砂嵐が見える。
+[PopupDialog(dialogHead="$avatar_ash")] No time for belly-aching, there's another sandstorm up ahead.
+[PopupDialog(dialogHead="$avatar_ash")] 불평할 시간 없어. 전방에 모래 폭풍이 하나 더 오고 있다.
 
 [PopupDialog(dialogHead="$avatar_blitz")] 至少从沙尘暴这点上，还是我们熟悉的地球
+[PopupDialog(dialogHead="$avatar_blitz")] 少なくとも砂嵐を見る限り、俺たちがよく知る地球と同じだな。
+[PopupDialog(dialogHead="$avatar_blitz")] At least those are more or less the same as the ones we know.
+[PopupDialog(dialogHead="$avatar_blitz")] 적어도 모래 폭풍 하나는 우리가 있던 곳이랑 비슷하네.
 
 [PopupDialog(dialogHead="$avatar_blitz")] 除了这里的生物个头也太大了。
+[PopupDialog(dialogHead="$avatar_blitz")] ここの生物がデカすぎることを除いてな。
+[PopupDialog(dialogHead="$avatar_blitz")] Even if they occasionally come with some nasty big critters in them.
+[PopupDialog(dialogHead="$avatar_blitz")] 이 어마어마하게 큰 괴물들이랑 같이 온다는 점은 좀 다르지만 말이야.
 
 [PopupDialog(dialogHead="$avatar_ash")] 大家注意保持距离，不要暴露在沙尘暴下。
+[PopupDialog(dialogHead="$avatar_ash")] 砂嵐にさらされないように、位置取りに気をつけて。
+[PopupDialog(dialogHead="$avatar_ash")] Be careful and keep your distance from the sandstorm.
+[PopupDialog(dialogHead="$avatar_ash")] 모래 폭풍에 노출되지 않도록 거리를 유지해.
 
 [PopupDialog(dialogHead="$avatar_ash")] 暴露在沙尘暴下，只会进一步损坏我们的武器导致<@tu.imp>攻击力降低</>，还会快速<@tu.imp>消耗生命值</>。一旦生命值耗尽，再次部署出击的时间将<@tu.imp>大幅提升</>。
+[PopupDialog(dialogHead="$avatar_ash")] 砂嵐にさらされると武器が損傷して<@tu.imp>攻撃力も落ちる</>し、<@tu.imp>体力もどんどん消耗する</>。その状態で倒れれば、再出撃までの時間も<@tu.imp>大幅に増加する</>わ。
+[PopupDialog(dialogHead="$avatar_ash")] That storm will damage our weapons, <@tu.imp>reducing our ATK</>, and quickly <@tu.imp>depleting our stamina</>. Once HP is fully depleted, <@tu.imp>redeployment time will be greatly increased</>.
+[PopupDialog(dialogHead="$avatar_ash")] 모래 폭풍은 우리 무기에 손상을 줘 <@tu.imp>공격력을 낮출 뿐만 아니라</>, 우리의 <@tu.imp>체력도 소모</>시킬 거야. HP가 전부 소진되면 <@tu.imp>재배치될 시간이 대폭 상승</>하니, 모래 폭풍으로부터 거리를 유지할 수 있도록 주의해.
 
 寻找掩体，动作快！那些<@tu.kw>土石结构</>可以<@tu.kw>抵挡沙尘暴</>。
+早く遮蔽物に隠れて！　あのようなの<@tu.kw>土石構造</>の壁なら<@tu.kw>砂嵐を防げる</>わ。
+Get to cover, quick! Those <@tu.kw>dirt mounds </>make <@tu.kw>good shelter from the sandstorm</>.
+엄폐물을 찾는 게 급선무야! 이 <@tu.kw>토석 구조물</>이라면 <@tu.kw>모래 폭풍을 막을 수 있겠군</> .
 
 土石结构背后的<@tu.kw>一排位置</>应该不会受到沙尘暴的影响。
+土壁後方の<@tu.kw>一列</>なら砂嵐の影響を受けないはず。
+They protect <@tu.kw>a row of tiles</> behind them from its effects.
+토석 구조물 뒤 <@tu.kw>일렬 위치</>라면 모래 폭풍의 영향을 받지 않을 거다.
 
 沙尘暴太猛了，这些土石结构看起来坚持不了多久！沙尘暴会<@tu.kw>不断破坏</>土石结构，直到它们被摧毁。
+砂嵐が強すぎる。自然状態の土石構造がいくらも持ちそうにない！砂嵐は土石構造が崩れるまで<@tu.kw>破壊し続けるつもりかよ。
+A storm that intense will wear down those mounds pretty quick! The sandstorm will <@tu.kw>keep knocking down the dirt mounds </>until they're all destroyed.
+모래 폭풍이 너무 거세서 토석 구조물이 오래 못 버틸 것 같아! <@tu.kw>모래 폭풍은 흙더미가 부서질 때까지 계속 몰아칠 거야</>!
 
 [PopupDialog(dialogHead="$avatar_sys")] 沙尘暴是萨尔贡地区的常见气象灾害，需要想办法规避。
+[PopupDialog(dialogHead="$avatar_sys")] 砂嵐はサルゴンではよく見られる気象災害です。なんとか被害を抑えましょう。
+[PopupDialog(dialogHead="$avatar_sys")] Sandstorm is a common weather disaster in Sargon, and should be evaded from if possible.
+[PopupDialog(dialogHead="$avatar_sys")] 모래 폭풍은 사르곤 지역에서 자주 볼 수 있는 자연재해입니다. 그러니 무조건 피할 방법을 찾아야 합니다.
 
 [PopupDialog(dialogHead="$avatar_sys")] 穿越荒地的旅行者可以尝试寻找体积较大的土石结构<@tu.kw>躲避</>沙尘暴。
+[PopupDialog(dialogHead="$avatar_sys")] 砂漠地帯を進むならば、体積の大きな土石構造の陰に隠れ、砂嵐を<@tu.kw>避け</>る方法が良いでしょう。
+[PopupDialog(dialogHead="$avatar_sys")] Travelers seek to transverse the barrens may look for large dirt mounds to <@tu.kw>shelter from sandstorm</>.
+[PopupDialog(dialogHead="$avatar_sys")] 황야를 거니는 여행자의 경우 부피가 큰 토석 구조물을 찾아 모래 폭풍을 <@tu.kw>회피</>할 수 있습니다.
 
 但是土石结构并<@tu.kw>不牢固</>，会在沙尘暴的侵蚀下逐渐坍塌。
+ですが土石構造は<@tu.kw>堅固とは言えない</>ため、砂嵐によって徐々に崩れていきます。
+However dirt mounds <@tu.kw>do not stay solid</>, and will start to crumble under the attack of sandstorm.
+하지만 토석 구조물도 그리 <@tu.kw>튼튼하지 않아서</> 모래 폭풍에 침식되어 점차 무너지게 될 겁니다.
 
 使用<@tu.kw>加固装置</>强化附近的土石结构，形成牢固的屏障。
+<@tu.kw>補強装置</>を使用して土石構造を強化し、堅固な障壁としましょう。
+Use <@tu.kw>Reinforcements </>to fortify the nearby dirt mounds to form a shield against sandstorm.
+이럴 때 <@tu.kw>보강 장치</>를 이용해 토석 구조물을 보강하여 튼튼한 장벽을 형성하는 게 좋습니다.
 

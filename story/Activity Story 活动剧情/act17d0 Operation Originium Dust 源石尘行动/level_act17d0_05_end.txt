@@ -1,352 +1,880 @@
 [name="霜华"]有发现吗？
+[name="Frost"]何か見つけた？
+[name="Frost"]Find anything?
+[name="Frost"]뭐라도 좀 찾았어?
 
 [name="灰烬"]找到了！虽然量不多，但是有收获。
+[name="Ash"]そうね。多くないけど、収穫としては十分。
+[name="Ash"]Got something! It's not much, but it's something.
+[name="Ash"]찾았어! 많지는 않지만 있는 게 어디야.
 
 [name="巡林者"]很好，这些粮食加上安全屋的应急储备，应该能够省省勉强再过一个星期。
+[name="レンジャー"]これらの食料に加えて、セーフハウスの緊急用備蓄があれば、なんとか一週間は食いつなぐことができるじゃろう。
+[name="Rangers"]Good work. These provisions, along with the emergency store in the safehouse, should keep us fed for a week, if we stretch it.
+[name="레인저"]고생했네. 찾아온 것과 안전가옥에 있는 비축분을 합치면 최대 일주일은 버틸 수 있을 걸세.
 
 [name="灰烬"]时候不早了，先回去吧。
+[name="Ash"]もう遅い。そろそろ戻りましょう。
+[name="Ash"]It's getting late. Let's head back.
+[name="Ash"]시간이 늦어지고 있군요. 돌아가죠.
 
 [name="黑"]......有人来了。
+[name="シュヴァルツ"]……誰か来ます。
+[name="Schwarz"]...Someone's coming.
+[name="슈바르츠"]……누군가 오고 있습니다.
 
 [name="巡林者"]有多少？
+[name="レンジャー"]数は？
+[name="Rangers"]How many?
+[name="레인저"]수는?
 
 [name="黑"]......十几个人，可能是雇佣兵。
+[name="シュヴァルツ"]集団です……十数人。傭兵かと思われます。
+[name="Schwarz"]...A dozen maybe. Could be mercenaries.
+[name="슈바르츠"]…열두 명 정도. 용병일 수도 있습니다.
 
 [name="巡林者"]不要和他们缠斗。快！往安全屋方向！
+[name="レンジャー"]構う必要はない。セーフハウスへ急ぐぞい！
+[name="Rangers"]Hurry! Back to the safehouse!
+[name="레인저"]그들과 접촉하지 말게나. 서둘러! 안전가옥으로 가야 하네!
 
 [name="巡林者"]他们还跟着？
+[name="レンジャー"]まだついてきておるじゃと？
+[name="Rangers"]Are they still on us?
+[name="레인저"]아직도 우릴 따라오고 있나?
 
 [name="黑"]......是的。
+[name="シュヴァルツ"]……はい。
+[name="Schwarz"]...Yes.
+[name="슈바르츠"]……네.
 
 [name="巡林者"]不太对劲。
+[name="レンジャー"]はて……おかしいのう。
+[name="Rangers"]That's not good.
+[name="레인저"]큰일이구먼.
 
 [name="灰烬"]我就知道这群人肯定不会善罢甘休。
+[name="Ash"]そう簡単に諦めるような連中ではないってことだろ？
+[name="Ash"]I knew they wouldn't let up.
+[name="Ash"]이럴 줄 알았어.
 
 [name="巡林者"]在这里战斗容易被包围，继续撤退。
+[name="レンジャー"]ここで戦えば、容易に包囲されてしまう。引き続き撤退じゃ。
+[name="Rangers"]We are bound to get sieged if we choose to fight here. Keep retreating.
+[name="레인저"]여기서 전투를 벌이다간 금방 포위될 테니 계속 철수하도록 하지.
 
 [name="战车"]怎么了？
+[name="Tachanka"]どうした？
+[name="Tachanka"]What happened?
+[name="Tachanka"]왜?
 
 [name="灰烬"]追兵。准备战斗。
+[name="Ash"]追っ手よ。戦闘準備。
+[name="Ash"]We've got company. Get ready to fight.
+[name="Ash"]손님이 왔다. 전투 준비해.
 
 [name="黑"]......不对。
+[name="シュヴァルツ"]……いや、あれは……
+[name="Schwarz"]Something's not right...
+[name="슈바르츠"]……아뇨.
 
 [name="黑"]......不要开枪......
+[name="シュヴァルツ"]……撃たないでください。
+[name="Schwarz"]...Hold your fire...
+[name="슈바르츠"]사격하지 마십시오……
 
 [name="战车"]怎么了？
+[name="Tachanka"]どうした？
+[name="Tachanka"]Why?
+[name="Tachanka"]왜?
 
 [name="黑"]......他们不是那些雇佣兵。
+[name="シュヴァルツ"]……彼らは、セーフハウスを襲った傭兵たちではありません。
+[name="Schwarz"]...It's not those mercenaries.
+[name="슈바르츠"]……용병이 아닙니다.
 
 [name="黑"]......是瑞柏巴军人......
+[name="シュヴァルツ"]……レプロバの軍人です。
+[name="Schwarz"]...They're Reproba soldiers...
+[name="슈바르츠"]……리프로바 군인들입니다……
 
 [name="巡林者"]是本地卫兵？
+[name="レンジャー"]現地の衛兵か？
+[name="Rangers"]Local guards?
+[name="레인저"]현지 위병들인가?
 
 [name="巡林者"]不要动手！
+[name="レンジャー"]手を出すでないぞ！
+[name="Rangers"]Hold fire!
+[name="레인저"]사격 중지!
 
 [name="皮加尔"]卫兵，包围这个建筑！不要让任何人跑了。
+[name="ピカール"]この建物を包囲せよ！　一人として通すな。
+[name="Picale"]Guards, surround the structure! Don't let anyone escape.
+[name="피케일"]위병, 저 건물 주위를 포위해라! 누구도 도망치지 못하게 해.
 
 [name="闪击"]等等，我们是不是被包围了。
+[name="Blitz"]待て待て……俺たち、包囲されてるぞ。
+[name="Blitz"]Wait a second, are we surrounded?
+[name="Blitz"]잠깐, 우리 포위당했는데?
 
 [name="巡林者"]......情况不太妙。
+[name="レンジャー"]……まずいことになったのう。
+[name="Rangers"]...This isn't good.
+[name="레인저"]……큰일이군.
 
 [name="雷蛇"]领主卫队为什么要包围我们？
+[name="リスカム"]領主の衛兵隊が、どうしてわたしたちを包囲するんですか？
+[name="Liskarm"]Why are the Lord's men encircling us?
+[name="리스캄"]왜 아미르의 병사들이 우리를 포위하는 거죠?
 
 [name="巡林者"]你们先别说话。
+[name="レンジャー"]皆、ひとまず静かにしておれ。
+[name="Rangers"]Let's have you quiet down for now.
+[name="레인저"]일단 침착하게.
 
 [name="皮加尔"]躲在里面的人，听好了！
+[name="ピカール"]中で隠れている連中よ、聞くがいい！
+[name="Picale"]I want all of you inside to listen up!
+[name="피케일"]그 안에 있는 모든 이는 들어라!
 
 [name="皮加尔"]我是长泉镇卫兵队长，长泉镇领主之女皮加尔·图拉。
+[name="ピカール"]私はピカール・トゥラ！　ロングスプリングの衛兵隊長にして、ロングスプリング領主の娘だ！
+[name="Picale"]I am the captain of the Long Spring village guard, daughter of the Lord of Long Spring, Picale Tulla.
+[name="피케일"]난 롱스프링 마을의 위병대장이자 롱스프링 아미르의 딸, 피케일 툴라다.
 
 [name="皮加尔"]现在所有人都给我放下武器，乖乖地滚出来。
+[name="ピカール"]全員ただちに武器を捨てて、おとなしく出てこい！
+[name="Picale"]I want you all to lay down your weapons and come out nice and easy.
+[name="피케일"]모두 무기를 버리고 순순히 나올 것을 명한다.
 
 [name="皮加尔"]不要尝试挑战我的耐心，你们会后悔的。
+[name="ピカール"]逆らおうと思うな！　後悔することになるぞ！
+[name="Picale"]Don't test my patience. You'll regret it.
+[name="피케일"]내 인내심을 시험하지 마라. 후회하게 될 거다.
 
 [Subtitle(text="魁梧的瑞柏巴战士用长戟柄端用力击打地面。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="たくましいレプロバの戦士が矛の柄を力強く地面に打ちつける。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The imposing Reproba warrior strikes the halberd into the ground with all her might.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="건장한 리프로바 전사가 긴 창의 자루로 힘껏 땅을 내리치자,", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="一瞬间，大地都在震动。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一瞬、大地が揺れ動いた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="And the earth starts to tremble instantly.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그 위력에 땅이 크게 흔들렸다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="皮加尔"]雇佣兵，又是雇佣兵。
+[name="ピカール"]傭兵、また傭兵か。
+[name="Picale"]Mercenaries. It's always mercenaries.
+[name="피케일"]용병 놈들. 늘 용병 놈들이 문제야.
 
 [name="皮加尔"]你们这群无德无耻无信无义的恶徒！我那个恶贯满盈的兄弟到底给了你们多少金子？
+[name="ピカール"]下品で無価値で恥知らずなクズどもめ。愚かな弟から一体いくら金をもらった？
+[name="Picale"]You shameless, faithless, virtueless bastards. How much gold did my evil brother give you?
+[name="피케일"]염치없고, 부정하고, 도덕심이라고는 찾아볼 수 없는 놈들 같으니라고. 내 악랄한 오라버니가 대체 얼마를 쥐여준 거지?
 
 [name="皮加尔"]你们逃不掉的，我要碾碎你们，我要击溃你们。
+[name="ピカール"]貴様らはもう逃げられん！　粉々に叩き潰してやる！
+[name="Picale"]You won't get away. I'll crush you. I'll stomp you into dust.
+[name="피케일"]도망칠 생각은 마라. 너희를 모조리 으깨고 밟아 먼지로 만들어 줄 테니.
 
 [name="皮加尔"]我要让你们为恶行付出代价。
+[name="ピカール"]悪事の代償を支払う時が来たのだ！
+[name="Picale"]I'll make you pay for everything you've done.
+[name="피케일"]네놈들이 저지른 모든 짓에 대한 죗값을 반드시 치르게 해주마.
 
 [name="皮加尔"]等你们死在我刀下后，你们才会知道，再多脏钱也买不来第二条性命！
+[name="ピカール"]汚れた金をいくら手にしていようと、次の命は買えないということを思い知るだろう！
+[name="Picale"]Once I cut you down, you'll finally understand that no amount of blood money can buy you another life!
+[name="피케일"]그 목이 떨어져 나가는 순간, 피 묻은 돈을 아무리 받아도 목숨을 살 순 없다는 걸 뼈저리게 깨닫게 될 거다!
 
 [name="闪击"]喔！喔！你确定他们是来“帮忙”的？
+[name="Blitz"]おいおい……本当にあいつらが「助け」に来たって言うのかよ？
+[name="Blitz"]Oh! Oh! Are you sure they're here to help?
+[name="Blitz"]오오! 저거 정말 도와주러 온 거 맞아?
 
 [name="闪击"]这是要把我们挂在城门口吧。
+[name="Blitz"]俺たちの首を刈りに来たの間違いだろ。
+[name="Blitz"]I think they'd rather hang us from the town gate.
+[name="Blitz"]우리 목을 마을 입구에 손수 달아주러 온 것 같은데.
 
 [name="灰烬"]这就是我最担心的情况。
+[name="Ash"]一番恐れていた事態ね。
+[name="Ash"]That's what I'm afraid of.
+[name="Ash"]이런 상황만큼은 제일 피하고 싶었는데.
 
 [name="巡林者"]这中间肯定是有什么误会。
+[name="レンジャー"]何か誤解があるようじゃのう。
+[name="Rangers"]There's definitely a misunderstanding here.
+[name="레인저"]아무래도 오해가 있는 것 같군요.
 
 [name="巡林者"]皮加尔大人。
+[name="レンジャー"]ピカール殿。
+[name="Rangers"]Lady Picale.
+[name="레인저"]피케일 님.
 
 [name="巡林者"]老夫是罗德岛外勤干员，代号巡林者。
+[name="レンジャー"]儂はロドスの外勤オペレーター、コードネームはレンジャーじゃ。
+[name="Rangers"]I'm a field operator with Rhodes Island, code name Rangers.
+[name="레인저"]저는 로도스 아일랜드의 현장 오퍼레이터, 코드네임 레인저라고 합니다.
 
 [name="巡林者"]罗德岛与您的家族应当签署过相关的协议。
+[name="レンジャー"]ロドスはここの領主様と協定を結んでいるはずじゃ。
+[name="Rangers"]I'm pretty sure Rhodes Island signed a cooperation agreement with your family.
+[name="레인저"]로도스 아일랜드와 피케일 님의 가문은 협정을 맺은 것으로 알고 있습니다.
 
 [name="巡林者"]我们是......
+[name="レンジャー"]儂らは決して……
+[name="Rangers"]We're...
+[name="레인저"]저희는……
 
 [name="皮加尔"]闭嘴！
+[name="ピカール"]黙れ！
+[name="Picale"]Shut up!
+[name="피케일"]닥쳐!
 
 [name="皮加尔"]罗德岛！道貌岸然的伪君子！
+[name="ピカール"]ロドス！　篤志家気取りの偽善者どもか！
+[name="Picale"]Rhodes Island! Sanctimonious hypocrites!
+[name="피케일"]로도스 아일랜드! 선량한 척하는 위선자 놈들!
 
 [name="皮加尔"]我的父亲信任你们，他相信你们的承诺，才同意这个安全屋的存在。
+[name="ピカール"]私の父は貴様らを信じ、貴様らの約束を信じたからこそ、このセーフハウスの存在を許したのだ。
+[name="Picale"]My father trusted you! He believed your promises. That's why he agreed to your safehouse.
+[name="피케일"]아버지는 너희를 믿었다! 너희가 한 약속을 믿으셨단 말이다! 그래서 이 안전가옥 건설에도 동의하셨던 거다.
 
 [name="皮加尔"]而你们是怎么报答我的父亲的？
+[name="ピカール"]だが貴様らはどうやって父に報いたか？
+[name="Picale"]And how did you repay him?
+[name="피케일"]그런데 은혜를 이런 식으로 갚아?
 
 [name="皮加尔"]你们绑架镇民！掠夺他们的财富！我都看到了！
+[name="ピカール"]貴様らは町民を拉致し、彼らの財産を略奪した！ その一部始終を見てきた！
+[name="Picale"]You kidnapped our people! Robbed them of everything they had! I saw it!
+[name="피케일"]너희는 우리 주민을 납치했다! 그리고 가진 걸 전부 빼앗았어! 내 눈으로 똑똑히 봤다!
 
 [name="皮加尔"]你们这些背信弃义的恶徒！
+[name="ピカール"]善意につけ込む悪党どもめ！
+[name="Picale"]You're a bunch of treacherous villains!
+[name="피케일"]대체 이 무슨 극악무도한 짓이냐!
 
 [name="灰烬"]但凡你有点脑子，就不该说出这么蠢的话。
+[name="Ash"]ちょっと待って。少し考えればわかってもらえると思うんだけど……
+[name="Ash"]If you think for a single second, you'll know that doesn't make any sense.
+[name="Ash"]잠깐이라도 생각이라는 걸 해봤다면 사실이 아니라는 걸 알 수 있을 텐데.
 
 [name="灰烬"]如果我们的目的是掠夺这个镇子，那我们还在这里逗留这么长时间？
+[name="Ash"]あたしたちの目的がこの町の略奪だとしたら、こんなに長い間略奪を行った場所にとどまる必要があると思う？
+[name="Ash"]If we wanted to pillage the town, why would we still be here?
+[name="Ash"]우리가 마을을 약탈하려 했다면 왜 아직도 여기 남아있겠어?
 
 [name="皮加尔"]花言巧语！
+[name="ピカール"]黙れ！
+[name="Picale"]Don't try to talk your way out of this!
+[name="피케일"]발뺌할 생각은 마라!
 
 [name="皮加尔"]你们又是什么人？
+[name="ピカール"]そもそも何様のつもりだ！
+[name="Picale"]And who the hell are you?
+[name="피케일"]그리고 네놈은 또 누구지?
 
 [name="皮加尔"]你们拿着铳器站在我父亲的领地上，还敢在这里狡辩！
+[name="ピカール"]銃器を持って父の領地に足を踏み入れておきながら、それでもまだ言い逃れするつもりか！
+[name="Picale"]You're standing on my father's land with your guns, and you dare to argue with me?!
+[name="피케일"]감히 아버지의 영토에 총을 들고 서서 나와 입씨름을 하려 드는 거냐?!
 
 [name="灰烬"]既然你这么厉害，之前干什么去了？
+[name="Ash"]あんたがそんなにすごいなら、これまでどこで何してたの？
+[name="Ash"]If you're so tough, where have you been all this time?
+[name="Ash"]네가 그렇게 대단한 몸이라면, 지금까지 대체 어디 있었던 거지?
 
 [name="灰烬"]你和领主卫队放任暴徒袭击病人社区，拼死救人的是我们，不是你那不出动的宝贝卫队。
+[name="Ash"]あんたと領主の衛兵隊は、病人地区を襲う暴徒を放っておいた。命懸けで助けたのはあたしたちの方よ？
+[name="Ash"]You and the Lord's men let those thugs raid the quarantine zone so we had to risk our lives to save the townsfolk in there. What were your precious guardsmen doing then?
+[name="Ash"]강도들이 감염자 구역을 습격할 때, 너와 아미르의 병사들이 손 놓고 있던 탓에 우리가 목숨 걸고 여기 있는 마을 사람들을 구해야 했다. 그때 네 그 대단한 경비병들은 전부 어디서 뭘 하고 있었던 거지?
 
 [name="灰烬"]现在你还跑来满嘴胡话？
+[name="Ash"]今更やって来て、この茶番は何？
+[name="Ash"]And you still think you can come here and talk a big game with us?
+[name="Ash"]심지어 일이 다 진정되고 나서야 이렇게 와 놓고는, 무슨 말도 안 되는 소리만 지껄이고 있는 거야.
 
 [name="战车"]冷静。这人不太像是能讲得通道理的那类人。
+[name="Tachanka"]落ち着けよ。話が通じるような状況じゃなさそうだ。
+[name="Tachanka"]Settle down. She doesn't seem like the type you can reason with.
+[name="Tachanka"]진정해. 말이 통할 상대가 아닌 것 같아.
 
 [name="米亚罗"]皮加尔大人！
+[name="ミアロ"]ピカール様！
+[name="Miarow"]Lady Picale!
+[name="미아로우"]피케일 님!
 
 [name="米亚罗"]我是感染者社区的米亚罗医生！你以前见过我！
+[name="ミアロ"]僕は感染者地区の医者、ミアロです！　以前、お目にかかったことがございます！
+[name="Miarow"]I'm Dr. Miarow, from the Infected quarter! We've met before!
+[name="미아로우"]전 감염자 구역의 미아로우입니다! 전에 한 번 뵌 적이 있을 겁니다!
 
 [name="皮加尔"]......是你，我认得你。
+[name="ピカール"]……覚えている。
+[name="Picale"]...Right. I know you.
+[name="피케일"]……그래, 기억한다.
 
 [name="米亚罗"]罗德岛没有劫掠感染者，我可以作证！我们是被那些暴徒赶到这里来的。
+[name="ミアロ"]ロドスの皆さんは略奪などしていません。僕が証明します！　僕たちは、別の暴徒たちに襲われてここまで来たんです。
+[name="Miarow"]Rhodes Island didn't rob the Infected. I can testify to that! We were forced here by the riots.
+[name="미아로우"]로도스 아일랜드는 감염자를 약탈한 게 아닙니다! 맹세합니다! 저희는 습격자와 용병 때문에 여기로 도망친 겁니다.
 
 [name="米亚罗"]不止是我，这里的其他感染者也可以作证。
+[name="ミアロ"]僕だけではありません。ここにいる感染者たちも同じことを証明できます。
+[name="Miarow"]And it's not just me. Any of the Infected here will tell you that.
+[name="미아로우"]저뿐만이 아니라 여기 있는 모든 감염자들이 똑같이 맹세할 수 있습니다.
 
 [name="米亚罗"]皮加尔大人，请您相信我。
+[name="ミアロ"]ピカール様、どうかご理解ください。
+[name="Miarow"]Lady Picale, I need you to trust me.
+[name="미아로우"]피케일 님, 부디 절 믿어주세요.
 
 [name="皮加尔"]......
+[name="ピカール"]……
+[name="Picale"]......
+[name="피케일"]……
 
 [name="皮加尔"]......我相信你，医生，很多人都讲述过你的故事。
+[name="ピカール"]あなたのことは大勢の人から聞いている。先生の言うことならば、信じねばならぬか……
+[name="Picale"]...I trust you, Doctor. Many people speak highly of you.
+[name="피케일"]……믿겠다. 의사 선생은 많은 이들의 존경을 받고 있으니.
 
 [name="米亚罗"]谢谢您，皮加尔大人。
+[name="ミアロ"]ありがとうございます、ピカール様。
+[name="Miarow"]Thank you, Lady Picale.
+[name="미아로우"]감사합니다, 피케일 님.
 
 [name="皮加尔"]但是我不信任他们！
+[name="ピカール"]だが、それとこれとは別だ。
+[name="Picale"]But I don't trust them!
+[name="피케일"]하지만 저들은 믿을 수 없다!
 
 [Subtitle(text="魁梧的领主之女用巨大的长戟指向前方。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="たくましい領主の娘は、巨大な矛で前方を指した。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The imposing daughter of the Lord points forward with her colossal halberd.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="건장한 아미르의 딸 피케일이 거대한 창으로 앞을 가리켰다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="皮加尔"]你们未经许可手持兵械进入我父亲的领地，这就是大忌！
+[name="ピカール"]貴様ら、許可なく武器を所持して父の領地に進入したことに間違いはあるまい！　禁忌であることは承知の上だな？
+[name="Picale"]It is a grave infraction to enter my father's territory, armed, without permission!
+[name="피케일"]아무리 그렇다 한들, 무장한 채로 허가도 없이 아버지의 영토에 침입한 건 중대한 위반 행위다!
 
 [name="皮加尔"]看在你们保护了我父亲的领民的份上——
+[name="ピカール"]今回は、父の領民を守ったことに免じて……
+[name="Picale"]In light of you protecting my father's subjects...
+[name="피케일"]아버지께서 굽어살피는 주민들을 지켜준 공을 봐서……
 
 [name="皮加尔"]我不追究你们私携武装的责任！
+[name="ピカール"]この件の責任については、追及しないこととする！
+[name="Picale"]I will pardon you for that infraction.
+[name="피케일"]위반 행위만큼은 용서해 주마.
 
 [name="皮加尔"]至于罗德岛！你们与我父亲签署的合同，即日内作废。
+[name="ピカール"]だがロドスが父と交わした約定は、今この場にて破棄する！
+[name="Picale"]As for Rhodes Island! The contract you signed with my father is, as of today, null and void.
+[name="피케일"]그리고 로도스 아일랜드! 너희가 아버지와 체결한 계약은 오늘부로 무효다.
 
 [name="巡林者"]......请您三思。
+[name="レンジャー"]……考えて直してくれんかのう。
+[name="Rangers"]...Please reconsider.
+[name="레인저"]……부디 재고하여 주시기 바랍니다.
 
 [name="皮加尔"]这件事没什么值得商量的！
+[name="ピカール"]この件については交渉の余地などない！
+[name="Picale"]There is nothing to discuss!
+[name="피케일"]더 생각할 여지도 없다!
 
 [name="皮加尔"]长泉镇不需要其他武装人员，就算是罗德岛也一样！
+[name="ピカール"]ロングスプリングは他の武装勢力の必要を認めない！　たとえロドスであっても同様だ！
+[name="Picale"]Long Spring does not need armed foreigners, not even Rhodes Islanders!
+[name="피케일"]롱스프링에 무장한 외지인은 더는 필요 없다. 너희 로도스 아일랜드도 마찬가지다!
 
 [name="皮加尔"]我会带走所有的感染者，将他们安置在合适的地方。
+[name="ピカール"]私が感染者全員を連れて、安全で適切な場所へと送り届ける。
+[name="Picale"]I will gather up the Infected and take them where they belong.
+[name="피케일"]감염자는 모두 모아 원래 살던 곳으로 돌려보낼 거다.
 
 [name="皮加尔"]其余的你们不需过问。
+[name="ピカール"]貴様らの手出し口出しは無用！
+[name="Picale"]We don't need you getting involved.
+[name="피케일"]너희는 간섭하지 마라.
 
 [name="雷蛇"]可是......
+[name="リスカム"]ですが……
+[name="Liskarm"]But...
+[name="리스캄"]하지만……
 
 [name="巡林者"]好了，别说了。
+[name="レンジャー"]仕方あるまい。今はやめておくのじゃ。
+[name="Rangers"]Alright. Don't speak.
+[name="레인저"]자. 말은 이쯤 해둡세.
 
 [name="巡林者"]不要忤逆本地领主，这里是萨尔贡，别忘了我们现在代表罗德岛的立场。
+[name="レンジャー"]ここがサルゴンの土地である以上、領主に逆らってはならぬ。儂らは今、ロドスを代表してこの場にいることを忘れるでない。
+[name="Rangers"]Do not defy the local Lord. We are standing here at Sargon as Rhodes Island operators.
+[name="레인저"]현지 아미르를 거역하지 말게. 여긴 사르곤이네. 우리가 지금 로도스 아일랜드를 대표하고 있다는 걸 잊지 말게.
 
 [name="雷蛇"]......
+[name="リスカム"]……
+[name="Liskarm"]......
+[name="리스캄"]……
 
 [name="领主卫兵"]四十一、四十二......
+[name="領主の衛兵"]41、42……
+[name="Lord's Guard"]Forty-one, forty-two...
+[name="아미르의 위병"]41명, 42명……
 
 [name="领主卫兵"]还有其他人吗？
+[name="領主の衛兵"]ほかに人は？
+[name="Lord's Guard"]Any others?
+[name="아미르의 위병"]더 있습니까?
 
 [name="米亚罗"]就这些了......
+[name="ミアロ"]これで全員です……
+[name="Miarow"]That's all...
+[name="미아로우"]이게 전부입니다……
 
 [name="领主卫兵"]没事，接下来你们就安全了。
+[name="領主の衛兵"]大丈夫だ。あんたらに身の危険は無い。
+[name="Lord's Guard"]No problem. We'll get you to safety.
+[name="아미르의 위병"]알겠습니다. 이대로 안전한 곳까지 호위하겠습니다.
 
 [name="米亚罗"]科恩小姐，亚历山大先生。
+[name="ミアロ"]コーエンさん……アレクサンドルさんも。
+[name="Miarow"]Miss Cohen, Mr. Alexsandr.
+[name="미아로우"]코언 씨, 알렉산드르 씨.
 
 [name="米亚罗"]这段时间，非常感谢你们。
+[name="ミアロ"]ここしばらくの間、本当にありがとうございました。
+[name="Miarow"]Thank you for all that you've done.
+[name="미아로우"]지금까지 도와주셔서 감사합니다.
 
 [name="灰烬"]别这么说，该说谢谢的是我们这边。
+[name="Ash"]そう言わないで。こちらこそ助けてもらったのだから、感謝すべきなのはあたしたちの方よ。
+[name="Ash"]No need. We should be thanking you.
+[name="Ash"]천만에. 그런 인사는 우리가 해야지.
 
 [name="米亚罗"]你们打算去哪？
+[name="ミアロ"]これからどうされるおつもりですか？
+[name="Miarow"]Where are you going to go?
+[name="미아로우"]앞으로 어디로 갈 건가요?
 
 [name="灰烬"]还没确定呢。
+[name="Ash"]まだ決めてない。
+[name="Ash"]Not sure yet.
+[name="Ash"]아직 모르겠어.
 
 [name="战车"]不要搞得这么悲伤。
+[name="Tachanka"]そんなに悲観的なものではないさ。
+[name="Tachanka"]Let's not make it sound so sad.
+[name="Tachanka"]이게 마지막이라는 듯이 이야기하지 말자고.
 
 [name="战车"]咱们以后说不定还会再见面呢。
+[name="Tachanka"]今後二度と会えないと決まったわけじゃないしな。
+[name="Tachanka"]Maybe we'll meet again someday.
+[name="Tachanka"]언젠가 다시 만날 수도 있잖아.
 
 [name="战车"]下次我还得给你讲一讲......
+[name="Tachanka"]次に会った時はお前に……
+[name="Tachanka"]I'll have to tell you about it next time...
+[name="Tachanka"]그때는 알려줄 테니까……
 
 [name="领主卫兵"]？
+[name="領主の衛兵"]？
+[name="Lord's Guard"]?
+[name="아미르의 위병"]?
 
 [name="战车"]咳咳......狗头人的故事呢。
+[name="Tachanka"]えっと、あれだ……コボルトの話をしてやらないといけないしな。
+[name="Tachanka"]*Cough* *cough*... the story of the dog-headed man.
+[name="Tachanka"]개 머리…… 콜록콜록…… 달린 남자…… 콜록콜록…… 이야기……
 
 [name="米亚罗"]哈哈哈......好的。
+[name="ミアロ"]ハハハ……期待しています。
+[name="Miarow"]Hahaha... alright.
+[name="미아로우"]아하하하…… 알겠어요.
 
 [name="巡林者"]医生，这个是给你的。
+[name="レンジャー"]先生、これをおぬしに。
+[name="Rangers"]Doctor, this is for you.
+[name="레인저"]의사 선생, 이거 받게나.
 
 [name="米亚罗"]这是......源石锭，这我不能......
+[name="ミアロ"]これは……源石錐！　受け取れません！！
+[name="Miarow"]It's... an Originium Ingot. But I can't...
+[name="미아로우"]이건…… 오리지늄 주괴잖아요. 하지만 전……
 
 [name="巡林者"]是报酬，你替奥克芬治好了腿，这是罗德岛给你的酬金。
+[name="レンジャー"]報酬じゃよ。オクフェンの足を治療してくれたじゃろう？　これはロドスからの謝礼じゃ。
+[name="Rangers"]Remuneration. For Occphen's leg.
+[name="레인저"]오크픈의 다리를 고쳐준 보답일세.
 
 [name="米亚罗"]那只是简单的急救处理......不值这么多钱......
+[name="ミアロ"]あんなの簡単な応急処置です。これほどまでの価値はありません。
+[name="Miarow"]That was just some basic first aid... it's not worth this much...
+[name="미아로우"]그냥 응급처치일 뿐이었어요…… 이런 걸 받을 자격은……
 
 [name="巡林者"]我认为是值得的，收下吧。
+[name="レンジャー"]いや、これだけの価値があると思っておるから差し出すのじゃよ。儂らのわがままじゃと思うてもいい。受け取ってくれ。
+[name="Rangers"]I think it's worth it. Take it.
+[name="레인저"]자네는 충분히 받을 자격이 있네. 그러니 받게나.
 
 [name="米亚罗"]谢谢您，巡林者先生。
+[name="ミアロ"]あ……ありがとうございます、レンジャーさん。
+[name="Miarow"]Thanks, Mr. Rangers.
+[name="미아로우"]감사합니다.
 
 [name="米亚罗"]最后......谢谢各位。
+[name="ミアロ"]それに……皆さんも、本当にありがとうございました。
+[name="Miarow"]And... thank you all.
+[name="미아로우"]그리고…… 다시 한 번, 다들 감사합니다.
 
 [name="米亚罗"]再见。
+[name="ミアロ"]さようなら。
+[name="Miarow"]Goodbye.
+[name="미아로우"]그럼 안녕히.
 
 [name="黑"]......
+[name="シュヴァルツ"]……
+[name="Schwarz"]......
+[name="슈바르츠"]……
 
 [name="巡林者"]......
+[name="レンジャー"]……
+[name="Rangers"]......
+[name="레인저"]……
 
 [name="黑"]这事情不对劲。
+[name="シュヴァルツ"]こんなことになるとは。
+[name="Schwarz"]Something's off.
+[name="슈바르츠"]어딘가 이상합니다.
 
 [name="巡林者"]我明白。
+[name="レンジャー"]うむ。
+[name="Rangers"]I know.
+[name="레인저"]나도 알고 있네.
 
 [name="巡林者"]唉，本来以为谨慎一些总没错，没想到反而产生了误会。
+[name="レンジャー"]慎重に行動すれば、問題は起こらないと思っておったんじゃがな。むしろ誤解を招いてしまうとはのう。
+[name="Rangers"]*Sigh*. I thought caution was the right move, but we ended up with a big misunderstanding.
+[name="레인저"]후우…… 최대한 조심하는 게 정답이라 생각했네만, 오히려 큰 오해를 사고 말았구먼.
 
 [name="雷蛇"]谁能想到这卫兵队长是个这么不讲道理的人。
+[name="リスカム"]衛兵隊長があんなにも話が通じない人だなんて、誰も想像できませんよ。
+[name="Liskarm"]Who would've thought the captain of the guard would be so difficult?
+[name="리스캄"]위병대장이라는 자가 이렇게까지 말이 안 통할 줄 누가 알았겠어요?
 
 [name="芙兰卡"]这蠢女人，脑袋里面也是肌肉吧，我还以为这类人在黑钢已经够多了。
+[name="フランカ"]あのバカ女、頭の中まで筋肉でできてるの？　ああいう奴はBSWにいる分でもう十分だってのに。
+[name="Franka"]A muscle-headed moron. We have enough of those at BSW.
+[name="프란카"]뇌 대신 근육만 들어찬 멍청이 같으니라고. 그런 녀석들은 로도스 아일랜드에서 볼 만큼 본 줄 알았는데.
 
 [name="雷蛇"]接下来怎么办？
+[name="リスカム"]それより……これからどうしますか？
+[name="Liskarm"]So what do we do?
+[name="리스캄"]이제 어쩌죠?
 
 [name="奥克芬"]安全屋里的东西......基本都被他们收缴了。
+[name="オクフェン"]セーフハウス内にあったものは……基本的にすべて没収されてしまいました。
+[name="Occphen"]They seized pretty much everything from the safehouse.
+[name="오크픈"]저들이 안전가옥에 있던 물품 대부분을 압수했습니다.
 
 [name="巡林者"]至少大家毫发无伤，这已经是不幸中的万幸了。
+[name="レンジャー"]よいよい。少なくとも皆が無傷じゃったのは、不幸中の幸いじゃ。
+[name="Rangers"]At least we're all unharmed. That's what really matters.
+[name="레인저"]그래도 우리는 무사하지 않나. 그게 중요한 거지.
 
 [name="巡林者"]奥克芬先生和我们一起出发吧，你可以先在办事处那边登记，我们向本舰联络之后，再一起商量后续行动。
+[name="レンジャー"]オクフェン、おぬしも儂らと共に行こうぞい。まずは事務所で記録をつけて、本艦に連絡した後、今後の行動を話し合うとしよう。
+[name="Rangers"]Come with us, Mr. Occphen. We'll sign you in at the branch office, then contact the landship and figure out what to do.
+[name="레인저"]우리와 함께 가지, 오크픈. 우선 사무소로 가서 기지선에 연락하고 앞으로 어찌할지 정하는 게 좋지 않겠나.
 
 [name="奥克芬"]也只能这样了。
+[name="オクフェン"]わかりました。そうするしかなさそうですね。
+[name="Occphen"]That's really our only option.
+[name="오크픈"]달리 선택의 여지가 없군요.
 
 [name="黑"]......我有点不放心。
+[name="シュヴァルツ"]……私は少し心配です。
+[name="Schwarz"]...I'm not so sure.
+[name="슈바르츠"]……전 잘 모르겠습니다.
 
 [name="巡林者"]你指什么。
+[name="レンジャー"]何がじゃ？
+[name="Rangers"]What do you mean?
+[name="레인저"]어떤 부분이 말인가?
 
 [name="黑"]......这个叫皮加尔的人......有没有可能她才是这一切的始作俑者？
+[name="シュヴァルツ"]……あのピカールという女性……彼女こそ、このすべての元凶である可能性はありませんか？
+[name="Schwarz"]...That Picale woman... could she be the one behind all this?
+[name="슈바르츠"]……피케일이라는 여자…… 혹시 이 모든 일의 배후가 아닐까요?
 
 [name="黑"]领主迟迟没有出现，雇佣兵一直想要绑架这些感染者。
+[name="シュヴァルツ"]領主がいつまで経っても現れず、傭兵が感染者たちを拉致しようとしていた。
+[name="Schwarz"]The Lord was so slow to act, even as the mercenaries were rounding up the Infected.
+[name="슈바르츠"]용병이 감염자를 포위했을 때조차 아미르의 대처는 굼떴습니다.
 
 [name="黑"]......现在来了一个卫兵队长，名正言顺地带走了所有人。
+[name="シュヴァルツ"]……そして今になってようやく衛兵隊長がやってきて、大義名分を掲げて全員を連れ去った。
+[name="Schwarz"]...And now we've got a captain of the guard, taking everyone away all nice and legally.
+[name="슈바르츠"]……그리고 이젠 위병대장이 나타나 합법적으로 사람들을 모두 데려갔죠.
 
 [name="黑"]这是不是太巧了？
+[name="シュヴァルツ"]よくできた展開だとは思いませんか？
+[name="Schwarz"]This can't just be a coincidence.
+[name="슈바르츠"]우연이라기엔 너무 딱 맞아떨어지지 않습니까?
 
 [name="巡林者"]......你说的还真有点道理。
+[name="レンジャー"]……確かに一理あるのう。
+[name="Rangers"]...That does make sense.
+[name="레인저"]……일리가 있구먼.
 
 [name="黑"]......我打算尾随......去看看。
+[name="シュヴァルツ"]……私が尾行して……様子を見てきます。
+[name="Schwarz"]...I'm going to tail them... and see.
+[name="슈바르츠"]……제가 뒤를 쫓아…… 확인하겠습니다.
 
 [name="灰烬"]我也去。
+[name="Ash"]あたしも行こう。
+[name="Ash"]I'm going too.
+[name="Ash"]나도 같이 가지.
 
 [name="巡林者"]不，太多人容易引起警觉。
+[name="レンジャー"]いや、人数が増えれば容易に気付かれてしまう。
+[name="Rangers"]No. More hands are more easily seen.
+[name="레인저"]아니. 인원이 많아지면 들키기 쉽네.
 
 [name="巡林者"]其他人随时待命。
+[name="レンジャー"]他の者は先を見越した準備を整えておくんじゃ。
+[name="Rangers"]The rest of you stand by.
+[name="레인저"]나머지는 여기서 대기합세.
 
 [name="黑"]......
+[name="シュヴァルツ"]……
+[name="Schwarz"]......
+[name="슈바르츠"]……
 
 [name="巡林者"]怎么了？
+[name="レンジャー"]どうしたのじゃ？
+[name="Rangers"]What's the matter?
+[name="레인저"]왜?
 
 [name="黑"]我还以为你会反对这个计划。
+[name="シュヴァルツ"]あなたなら私の提案に反対するものかと。
+[name="Schwarz"]I thought you won't agree with this plan.
+[name="슈바르츠"]이 계획을 반대하실 줄 알았습니다.
 
 [name="巡林者"]审时度势，不和本地领主发生冲突，不代表我们什么都不做。
+[name="レンジャー"]臨機応変に、じゃ。それに、現地の領主との衝突を避けることは、儂らが何もせぬという意味ではないぞ。
+[name="Rangers"]Avoiding conflicts with the local Lord doesn't mean our hands are tied here. We need to play to the score.
+[name="레인저"]때와 상황에 따라 다른 것 아니겠나. 현지 아미르와 충돌을 피하라는 게, 계속 손을 놓고 있으란 뜻은 아니네.
 
 [name="巡林者"]有些时候，一些小诡计是必要的。
+[name="レンジャー"]ちょっとした策が必要な時もあるということじゃよ。
+[name="Rangers"]Some times you need a few tricks to get things working.
+[name="레인저"]어떨 땐, 잔꾀도 필요한 법이지.
 
 [name="黑"]......明白了。
+[name="シュヴァルツ"]……わかりました。
+[name="Schwarz"]I see...
+[name="슈바르츠"]……알겠습니다.
 
 [name="皮加尔"]你先把所有人都带到避难所去，然后带三个人和我一起来。
+[name="ピカール"]まずは全員を避難場所へ連れて行け。その後、一緒に動けそうな人間を三人ほど連れて来い。
+[name="Picale"]Get them all to shelter first, then I want three with me.
+[name="피케일"]주민들을 먼저 대피소로 데려가라. 그러고 나서 너희 셋은 나와 함께 이동한다.
 
 [name="皮加尔"]我怀疑矿坑里有问题。
+[name="ピカール"]坑道内に問題があると、私は疑っている。
+[name="Picale"]I think there's something happening in the mines.
+[name="피케일"]광산에서 수상한 일이 벌어지는 것 같으니.
 
 [name="领主卫兵"]明白。
+[name="領主の衛兵"]了解。
+[name="Lord's Guard"]Understood.
+[name="아미르의 위병"]알겠습니다.
 
 [name="皮加尔"]避难所里还有位置吗？
+[name="ピカール"]避難所はまだ空きがあるのか？
+[name="Picale"]Is there enough room left in the shelter?
+[name="피케일"]대피소엔 자리가 얼마나 더 남아 있지?
 
 [name="领主卫兵"]不是很够了，半个镇子的人现在都躲在避难所里。
+[name="領主の衛兵"]いえ、もうあまり。町民の半数が現在避難所にいますから。
+[name="Lord's Guard"]Not really. Half of the town's population is already inside.
+[name="아미르의 위병"]많지 않습니다. 현재 마을 사람의 절반가량이 대피소에 들어가 있습니다.
 
 [name="皮加尔"]实在不行就让他们住在楼上，把我父亲的房间给他们。
+[name="ピカール"]入り切らなくなったら上の階を与えてやれ。父上の部屋をな。
+[name="Picale"]Tell them to move upstairs if necessary. Them can have my father's room.
+[name="피케일"]정 여의치 않은 경우엔 저택 안으로 들여, 내 부친의 방을 내어주어라.
 
 [name="领主卫兵"]这......这合适吗？
+[name="領主の衛兵"]い……いいんですか？
+[name="Lord's Guard"]Is this...really necessary?
+[name="아미르의 위병"]그…… 그래도 되는 겁니까?
 
 [name="皮加尔"]没什么不好，如果父亲还活着他也会这么做的。
+[name="ピカール"]もし父上がまだ生きていたなら、きっとこうしている。
+[name="Picale"] I don't see anything wrong with it. My father will do the same should he lived.
+[name="피케일"]안 될 게 뭐가 있어, 만약 선친께서 살아계셨다면 분명 그리했을 것이다.
 
 [name="领主卫兵"]......我明白了。
+[name="領主の衛兵"]……わ、わかりました。
+[name="Lord's Guard"]...I see.
+[name="아미르의 위병"]……알겠습니다.
 
 [name="皮加尔"]总之，保持警惕。
+[name="ピカール"]とにかく、警戒は怠るな。
+[name="Picale"]Don't let your guard down anyway.
+[name="피케일"]아무튼, 경계에 만전을 기울이도록.
 
 [name="皮加尔"]......等等，我们出来的时候把灯都熄灭了？
+[name="ピカール"]……待て、私たちが出てきた時、明かりは全て消したか？
+[name="Picale"]...Wait, did the lights go out as soon as we left?
+[name="피케일"]……잠깐, 우리가 떠날 때 불을 껐던가?
 
 [name="领主卫兵"]我不记得......
+[name="領主の衛兵"]覚えていませんが……
+[name="Lord's Guard"]I don't remember...
+[name="아미르의 위병"]잘 모르겠습니다만……
 
 [name="皮加尔"]！！
+[name="ピカール"]！！
+[name="Picale"]! !
+[name="피케일"]!!
 
 [name="皮加尔"]闪开！
+[name="ピカール"]どけ！
+[name="Picale"]Out of the way！
+[name="피케일"]모두 비켜라!
 
 [name="领主卫兵"]啊啊！
+[name="領主の衛兵"]うわ！
+[name="Lord's Guard"]Aaah!
+[name="아미르의 위병"]아아악!
 
 [name="源石畸变体"]嘎......
+[name="オリジニュータント"]グオォ……
+[name="Originiutant"]Gaa...
+[name="오리지뉴턴트"]크르르르르……
 
 [name="皮加尔"]敌袭！保护镇民！
+[name="ピカール"]敵襲だ！　町民を守れ！
+[name="Picale"]We're under attack! Protect the civilians!
+[name="피케일"]적의 습격이다! 민간인을 지켜라!
 
 [name="皮加尔"]这都是从哪儿冒出来的！
+[name="ピカール"]どこから湧いてきた！？
+[name="Picale"]Where did they come from?!
+[name="피케일"]대체 어디서 나타난 거지?!
 
 [name="皮加尔"]不要耗在这里，准备突围！
+[name="ピカール"]ここでぐずぐずしてられない！　突破するぞ！！
+[name="Picale"]What are you waiting for?! Get ready to break through!
+[name="피케일"]뭘 멍하니 있나?! 돌파할 준비를 해!
 
 [name="领主卫兵"]他们人太多了！
+[name="領主の衛兵"]敵が多過ぎます！
+[name="Lord's Guard"]There's too many of them!
+[name="아미르의 위병"]수가 너무 많습니다!
 
 [name="皮加尔"]你们带着平民先走！我断后！
+[name="ピカール"]お前たちは住民を連れて先に行け！　私がしんがりを務める！
+[name="Picale"]Take the civilians and get out of here! I'm breaking off!
+[name="피케일"]민간인을 이끌고 빠져나가라! 뒤는 내가 엄호하겠다.
 
 [name="皮加尔"]来啊，你们这些无胆匪类！
+[name="ピカール"]来い！　腑抜けの賊共が！
+[name="Picale"]Come on, you cowardly bandits!
+[name="피케일"]어디 덤벼봐라, 겁쟁이 도적놈들아!
 
 [name="皮加尔"]呼......这是第几只了？
+[name="ピカール"]ふぅ……これで何体目だ？
+[name="Picale"]Phew... How many was that?
+[name="피케일"]휴…… 대체 몇 놈이나 몰려왔던 거지?
 
 [name="皮加尔"]终于到了。
+[name="ピカール"]やっと着いた。
+[name="Picale"]Finally.
+[name="피케일"]드디어 끝났군.
 
 [name="米亚罗"]皮加尔大人！
+[name="ミアロ"]ピカール様！
+[name="Miarow"]Lady Picale!
+[name="미아로우"]피케일 님!
 
 [name="皮加尔"]医生！你怎么在这里？
+[name="ピカール"]先生！　どうしてここに？
+[name="Picale"]Doctor! What are y ou doing here?!
+[name="피케일"]의사?! 여기서 뭐 하는 거냐?!
 
 [name="米亚罗"]别过去！领主宅邸已经被......
+[name="ミアロ"]この先に行ってはダメです！　ご領主さまのお屋敷はもう……
+[name="Miarow"]Don't go! The Lord's Manor has already been...
+[name="미아로우"]가지 마세요! 아미르님 저택은 이미……
 
 [name="皮加尔"]医生！
+[name="ピカール"]先生！
+[name="Picale"]Doctor!
+[name="피케일"]의사!
 
 [name="皮加尔"]......
+[name="ピカール"]……
+[name="Picale"]......
+[name="피케일"]……
 
 [name="皮加尔"]德鲁奇！
+[name="ピカール"]ドラッジ！
+[name="Picale"]Drudge!
+[name="피케일"]드러지!
 
 [name="皮加尔"]你给我滚出来！我要把你的头砍下来！
+[name="ピカール"]今すぐ出てこい！　貴様の首を斬り落としてくれる！
+[name="Picale"]Get the hell out of here! I'm going to chop your goddamned head off!
+[name="피케일"]여기서 썩 꺼져라! 안 그러면 네놈의 그 가증스러운 목을 잘라버리겠다!
 
 [name="德鲁奇"]哈哈哈......你的嗓门还是这么大，我亲爱的妹妹。
+[name="ドラッジ"]ハハハ……相変わらず声がでかいな、我が愛する姉よ。
+[name="Drudge"]Hahaha... You're loud as you ever were, dear sister.
+[name="드러지"]하하하…… 시끄러운 건 여전하구나, 동생아.
 
 [name="皮加尔"]你......你这个恶棍......我饶不了你。
+[name="ピカール"]この……この愚図が！　許さんぞ！
+[name="Picale"]You... You disgusting... I have to kill you.
+[name="피케일"]이…… 역겨운 놈…… 절대로 가만두지 않겠다.
 
 [name="德鲁奇"]那就让我看看你有什么本事。
+[name="ドラッジ"]ほう？　許さなければどうするというのだ？
+[name="Drudge"]Show me what you've got.
+[name="드러지"]그럼 어디 실력 좀 볼까.
 
 [Subtitle(text="当魁梧的瑞柏巴用令人惊叹的速度冲向自己的兄长时，她才意识到——", x=300, y=370, alignment="center", size=24, delay=0.04, width=800)]
+[Subtitle(text="たくましいレプロバが驚くべき速度で自らの弟に向かった時、彼女はようやく気付いた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=800)]
+[Subtitle(text="As the imposing Reproba charges at her brother with shocking speed, she realizes it.", x=300, y=370, alignment="center", size=24, delay=0.04, width=800)]
+[Subtitle(text="리프로바는 놀랄만한 속도로 순식간에 그녀의 형제에게 달려들었지만,", x=300, y=370, alignment="center", size=24, delay=0.04, width=800)]
 
 [Subtitle(text="——自己中计了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="自分は罠にはめられたと。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="She's fallen right into a trap.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그녀는 이내 자신이 함정으로 뛰어들었다는 사실을 깨달았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="在夜色的掩护中，在破败不堪的房屋后，有一台轰隆作响的机器。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="夜の闇に紛れ、壊れ果てた建物の向こうには、轟音を響かせる一台の機械があった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Under the cover of night, behind the crumbling houses, a machine rumbles.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="밤의 어둠 속 희미한 불빛 아래, 반쯤 무너진 인가 뒤에서 어느 기계가 꿈틀거리는 모습이 보였다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="一瞬间，她感到自己被什么东西猛烈地撞击了，头晕目眩，仿佛是被投石机投出的巨石正中面门。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="その瞬間、何かの強烈な衝撃を受け彼女の視界がぐらついた。投石機から発射された巨大な岩が、顔面に直撃したような衝撃だった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="In one second, she feels herself struck dizzy by a ferocious blow, as if slammed right in the face by a boulder launched from a catapult.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="마치 투석기에서 발사된 바위에 정면으로 맞은 것 마냥, 눈 깜짝할 사이에 전신을 관통하는 육중한 충격에 피케일은 정신이 혼미해지고 말았다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="下一刻，她失去了意识。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="次の瞬間、彼女は意識を失っていた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="In the next second, she falls unconscious.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고 바로 다음 순간, 밤보다도 짙은 어둠이 그녀의 머릿속에 내려앉았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 

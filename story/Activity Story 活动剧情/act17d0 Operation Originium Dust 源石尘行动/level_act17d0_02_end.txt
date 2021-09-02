@@ -1,312 +1,780 @@
 [name="灰烬"]停火！小心平民！
+[name="Ash"]攻撃やめ！　一般人に注意！
+[name="Ash"]Cease fire! Watch out for civilians!
+[name="Ash"]사격 중지! 민간인을 조심해!
 
 [name="战车"]他们跑了，科恩！
+[name="Tachanka"]奴らが逃げるぞ、コーエン！
+[name="Tachanka"]They're getting away, Cohen!
+[name="Tachanka"]놈들이 도망친다, 코언!
 
 [name="灰烬"]别管了，保护其他人！
+[name="Ash"]構わなくていい、他の人を守って！
+[name="Ash"]Don't bother with them, protect the others!
+[name="Ash"]무시하고 사람들을 지켜!
 
 [name="霜华"]来人帮帮忙，这边有人受伤。
+[name="Frost"]誰か手伝って、こっちにケガ人がいる。
+[name="Frost"]Someone come here, there are injured people here.
+[name="Frost"]나 좀 도와줘, 여기 부상자가 있어.
 
 [name="闪击"]先把他们抬进去。
+[name="Blitz"]まずは彼らを安全な場所へ運べ。
+[name="Blitz"]Let's bring them inside.
+[name="Blitz"]우선 안으로 들이자.
 
 [name="灰烬"]医生！你还好吗！
+[name="Ash"]先生はどこ！？　大丈夫！？
+[name="Ash"]Doctor! Are you ok?
+[name="Ash"]미아로우! 괜찮아?
 
 [name="米亚罗"]我在这儿！我没事！
+[name="ミアロ"]ここです！　僕は大丈夫です！
+[name="Miarow"]I'm here! I'm fine!
+[name="미아로우"]저 여기 있어요! 괜찮아요!
 
 [name="感染者镇民"]我的腿！我的腿断了！我的腿！
+[name="感染者の町民"]足がっ、足が折れた！！　ううっ！
+[name="Infected Townsfolk"]My leg! My leg is broken! My leg! ......
+[name="감염자 주민"]다리가! 다리가 부러졌어요! 아아…!
 
 [name="米亚罗"]冷静，你的腿还在，只是脱臼了，咬紧牙关。
+[name="ミアロ"]落ち着いてください！　脱臼しただけです。折れてませんからすぐ入れなおします。少しだけ我慢してください。
+[name="Miarow"]Calm down, your leg is still here, it's just dislocated. Grit your teeth.
+[name="미아로우"]진정하세요. 그냥 탈구된 거예요. 맞춰 드릴 테니 이 꽉 무세요.
 
 [name="感染者少女"]妈妈......妈妈......
+[name="感染者の少女"]ママ……ママ……
+[name="Infected Girl"]Mama... Mamaaa...
+[name="감염자 소녀"]엄마…… 엄마……
 
 [name="米亚罗"]谁看到阿尔加的妈妈了！
+[name="ミアロ"]誰か！　アルガーのお母さんを見ませんでしたか！
+[name="Miarow"]Has anyone seen Algar's mother?
+[name="미아로우"]알가르 어머니 보신 분 안 계세요?!!
 
 [name="重伤的镇民"]救命......救......
+[name="重傷の町民"]……助けて……たす……
+[name="Wounded Townsfolk"]Help me......please......
+[name="다친 주민"]살려주세요…… 제발……
 
 [name="米亚罗"]绷带要不够了......
+[name="ミアロ"]包帯が足りない……
+[name="Miarow"]We're running out of bandages......
+[name="미아로우"]붕대가 다 떨어졌어요……
 
 [name="灰烬"]混账东西，*粗口*！
+[name="Ash"]クソッ！　*スラング*
+[name="Ash"]Those... (profanity)!
+[name="Ash"]빌어먹을 놈들!
 
 [name="闪击"]那边是不是着火了？
+[name="Blitz"]あっち、火の手が上がってないか？
+[name="Blitz"]Is there a fire over there?
+[name="Blitz"]저거, 불난 거 아니야?
 
 [name="灰烬"]那个方向，是镇中心？
+[name="Ash"]あの方向は……町の中心？
+[name="Ash"]Isn't the town center in that direction?
+[name="Ash"]저쪽은 마을 중앙 아니던가?
 
 [name="战车"]看来不只是这里遭到袭击。
+[name="Tachanka"]襲われたのはここだけじゃないようだ。
+[name="Tachanka"]Looks like this isn't the only place that was attacked.
+[name="Tachanka"]공격받은 곳은 여기뿐만이 아니라 이건가.
 
 [name="米亚罗"]为什么，领主卫队去哪儿了？
+[name="ミアロ"]どうしてですか？　領主の衛兵隊はどこでなにをしてるんですか？
+[name="Miarow"]Why? Where did the lord's guards go?
+[name="미아로우"]대체 왜? 아미르님의 병사들은 다 어디로 간 거죠?
 
 [name="战车"]别管什么领主卫队了。
+[name="Tachanka"]そんな奴らなど、あてにするな。
+[name="Tachanka"]Don't care about those guards or whatever anymore.
+[name="Tachanka"]병사든 아미르이든 이젠 잊어.
 
 [name="战车"]到处都是打斗声，事情变麻烦了，我们不能在这里逗留，这里太空旷了。
+[name="Tachanka"]いたる所から争いの音が聞こえてくる。面倒なことになった。こんな開けた場所に留まってるわけにはいかない。
+[name="Tachanka"]There are sounds of fighting everywhere now, and it's only getting worse. We can't stay here, it's too wide open.
+[name="Tachanka"]사방에서 전투가 벌어졌나 본데, 점점 격렬해지고 있어. 여긴 너무 트여있으니 지금 당장 이동해야 해.
 
 [name="战车"]先把那几个伤员抬到建筑后面！
+[name="Tachanka"]まずはそのケガ人数名を、建物の後ろへ！
+[name="Tachanka"]Let's move those wounded behind this building for now!
+[name="Tachanka"]일단 부상자를 이 건물 뒤로 옮기자고!
 
 [name="感染者镇民"]怪物！怪物又来了！
+[name="感染者の町民"]モンスターだ！　モンスターがまた来たぞ！
+[name="Infected Townsfolk"]Monsters! The monsters have come again!
+[name="감염자 주민"]괴물이다! 괴물이 또 나타났어!
 
 [name="感染者女性"]救命啊！
+[name="感染者の女性"]助けて！
+[name="Infected Woman"]Help!
+[name="감염자 여성"]살려줘!
 
 [name="灰烬"]没完没了！
+[name="Ash"]ッ!　次から次へと！！
+[name="Ash"]This is endless!
+[name="Ash"]끝이 없어!
 
 [name="灰烬"]亚历山大！你去屋顶掩护我们！
+[name="Ash"]アレクサンドル！　屋根に登って援護を！
+[name="Ash"]Alexsandr! Get on the roof and cover us!
+[name="Ash"]알렉산드르! 지붕으로 가서 엄호해 줘!
 
 [name="战车"]明白。
+[name="Tachanka"]了解！
+[name="Tachanka"]Understood.
+[name="Tachanka"]알겠습니다.
 
 [name="灰烬"]来不及了医生，我们必须离开这里。
+[name="Ash"]……時間がない！　先生。ここを離れるぞ。
+[name="Ash"]There's no time, doctor. We need to leave this place.
+[name="Ash"]이럴 시간이 없어, 미아로우. 당장 떠나야 해.
 
 [name="米亚罗"]可是我们能去哪儿？
+[name="ミアロ"]でも、どこへ？
+[name="Miarow"]But, where can we go?
+[name="미아로우"]하지만 어디로 가죠?
 
 [name="灰烬"]先去你的诊所。
+[name="Ash"]まずは先生の診療所に行きましょう。
+[name="Ash"]Let's go to your clinic.
+[name="Ash"]네 진료실로 가자.
 
 [name="米亚罗"]那些感染者......
+[name="ミアロ"]ケガ人と患者さんたちを……
+[name="Miarow"]These Infected......
+[name="미아로우"]감염된 사람들은……
 
 [name="灰烬"]别管那么多，先让所有人都去你的诊所。
+[name="Ash"]ここで対応してたらキリがない、動ける人たちは自分で先生の診療所に向かわせる。
+[name="Ash"]Don't worry too much about it, let's get everyone to go to your clinic first.
+[name="Ash"]너무 걱정 마. 우선 다들 진료실로 데려가자고.
 
 [name="米亚罗"]......好。
+[name="ミアロ"]……わかりました。
+[name="Miarow"]......Alright.
+[name="미아로우"]……알겠어요.
 
 [name="米亚罗"]来人搭把手！他走不动了！
+[name="ミアロ"]誰か手を貸してください！　動けない人がいます！
+[name="Miarow"]Someone lend a hand! He can't walk anymore!
+[name="미아로우"]누가 좀 도와주세요! 이 분은 걸을 수가 없어요!
 
 [name="灰烬"]库兹，你看看还有没有其他人躲在屋子里，再把这个社区的人都带到诊所去。
+[name="Ash"]ケッツ、ほかに家の中に隠れてる人がいないか見て来て。この地区の人たちを、全員診療所に向かわせて。
+[name="Ash"]Kötz, can you go and check if there's anyone else hiding in these houses? Let's get everyone here to the clinic.
+[name="Ash"]쾨츠. 건물 안에 숨은 사람들이 더 없는지 확인하고, 사람들을 전부 진료실로 데려가.
 
 [name="灰烬"]注意安全！
+[name="Ash"]ちゃんと安全も確保するのよ！
+[name="Ash"]Stay safe!
+[name="Ash"]몸조심하고!
 
 [name="闪击"]明白。
+[name="Blitz"]了解。
+[name="Blitz"]Understood.
+[name="Blitz"]알겠습니다.
 
 [name="灰烬"]......
+[name="Ash"]……
+[name="Ash"]......
+[name="Ash"]……
 
 [name="灰烬"]......真是一场灾难。
+[name="Ash"]……ほんとにひどい災難ね。
+[name="Ash"]......This is really a disaster.
+[name="Ash"]……끔찍하군.
 
 [name="灰烬"]四十多个人......所有人都在这里了？
+[name="Ash"]40人ちょっと……見つかった人たちは全員ここにいるのね？
+[name="Ash"]Forty plus people......Is everyone here?
+[name="Ash"]마흔 명은 넘겠는데…… 다 온 거 맞아?
 
 [name="米亚罗"]是......
+[name="ミアロ"]はい……
+[name="Miarow"]Yes......
+[name="미아로우"]네……
 
 [name="米亚罗"]我们救下的人......都在这里了。
+[name="ミアロ"]見つけていただいた人たちは……みんなここに。
+[name="Miarow"]Everyone we've rescued......is here.
+[name="미아로우"]적어도 저희가 구한 사람들은…… 전부 왔어요.
 
 [name="灰烬"]少了多少人？
+[name="Ash"]どれくらい減ったか、わかる？
+[name="Ash"]How many are we missing?
+[name="Ash"]실종자는 총 몇 명이지?
 
 [name="米亚罗"]不少人跑丢了，可能是去了镇子那边。
+[name="ミアロ"]結構な数だということだけは。町の方に逃げた人もいるはずです。
+[name="Miarow"]Quite a number, maybe they went to the other side of the town.
+[name="미아로우"]꽤 돼요. 어쩌면 다들 마을로 갔을지도……
 
 [name="米亚罗"]但是有一些老人......他们来不及......
+[name="ミアロ"]それに一部のお年寄りたちは……間に合いませんでした……
+[name="Miarow"]But some old ones......they didn't make it......
+[name="미아로우"]하지만 나이 드신 분들은…… 살아남지 못했어요……
 
 [name="闪击"]别想了，不是你的错。
+[name="Blitz"]今は気にするな。先生のせいじゃない。
+[name="Blitz"]Don't beat yourself up, it's not your fault.
+[name="Blitz"]자책하지 마, 네 탓이 아니야.
 
 [name="闪击"]这些怪物，它们是从哪儿来的？它们是训练过的战兽吗？
+[name="Blitz"]モンスターたちは、どっから来た？　訓練されてる戦闘用のものなのか？
+[name="Blitz"]These monsters, where are they from? Are they trained beasts?
+[name="Blitz"]아까 그 괴물들은 대체 어디서 온 거야? 훈련된 전쟁용 야수인가?
 
 [name="米亚罗"]不知道......我以前没见过这种东西。
+[name="ミアロ"]すいません、わかりません。……僕も初めて見ました。
+[name="Miarow"]I don't know......I've never seen anything like them before.
+[name="미아로우"]모르겠어요…… 저런 건 처음 봐요.
 
 [name="灰烬"]那些暴徒掏出武器的时候，这些怪物就从地里钻出来了。
+[name="Ash"]暴徒たちが武器を出した途端、呼吸を合わせてモンスターたちが地面から現れた。
+[name="Ash"]When those thugs drew their weapons, these monsters began burrowing out of the ground.
+[name="Ash"]도적이 무기를 꺼냈을 때 괴물들이 땅속에서 튀어나왔어.
 
 [name="战车"]别管它们是从哪儿来的，这些东西也太多了！
+[name="Tachanka"]そもそもどこから来たかなどどうでもいい。それより数が多すぎる方が問題だ。
+[name="Tachanka"]Who cares where they came from. How can there be so many of them?!
+[name="Tachanka"]괴물이 너무 많아. 남은 탄약으로 막아낼 수 있는 수준이 아니다.
 
 [name="灰烬"]周围的情况怎么样？
+[name="Ash"]周囲の状況は？
+[name="Ash"]How's the surrounding situation?
+[name="Ash"]주변 상황은 어때?
 
 [name="战车"]一塌糊涂。
+[name="Tachanka"]めちゃくちゃだ。
+[name="Tachanka"]A big mess.
+[name="Tachanka"]난리도 아니야.
 
 [name="战车"]镇子那边有打斗声，我不确定发生了什么。
+[name="Tachanka"]町の方から戦闘の音が聞こえていたが、何が起きたかはまだ確認できていない。
+[name="Tachanka"]There's sounds of combat from the other side of the town. I don't know what happened there.
+[name="Tachanka"]마을에서 계속 전투가 벌어지고 있는데, 저기서 정확히 무슨 일이 일어난 건지 모르겠어.
 
 [name="灰烬"]我们还有多少弹药？
+[name="Ash"]弾薬の残量は？
+[name="Ash"]How much ammo do we have left?
+[name="Ash"]탄약은 얼마나 남았지?
 
 [name="霜华"]不多了，我还剩下四个弹匣，如果亚历山大的弹药用完了，我们就麻烦了。
+[name="Frost"]多くない。私はマガジン四個だけ。アレクサンドルの弾を使い切ったら、面倒なことになる。
+[name="Frost"]Not much, I only have four magazines left. If Alexsandr runs out of ammo then we're in big trouble.
+[name="Frost"]얼마 안 남았어. 내 탄창 안엔 아직 네 발 남긴 했는데, 알렉산드르가 탄약을 다 써버리면 그땐 성가셔지겠지.
 
 [name="霜华"]弹药问题还不是最要紧的，这间屋子快撑不住了。
+[name="Frost"]弾薬よりもこの建物の方が心配。もう持たない。
+[name="Frost"]Ammo isn't the biggest problem right now. This house isn't going to last much longer.
+[name="Frost"]그리고 지금 탄약이 문제가 아니야. 이 집은 오래 못 버텨.
 
 [name="霜华"]凭那怪物的个头，哪怕漏掉一两个，它们都能撞穿这堵墙，我们是守不住的，得想想办法。
+[name="Frost"]あのモンスターの大きさなら、1、2匹仕留め損なっただけで、ここの壁をぶち破られる。私たちじゃいずれは防ぎきれなくなる、なんとかしないと。
+[name="Frost"]Judging by those monsters' size, if we let even one or two escape, they will definitely smash through this wall and it'll be impossible to stop them then. We need a plan.
+[name="Frost"]괴물 크기를 봤을 때, 한두 마리라도 놓쳤다간 바로 벽을 부수고 들어올 거고, 그땐 놈들을 못 막아. 다른 계획이 필요해.
 
 [name="灰烬"]医生，病人的情况呢？
+[name="Ash"]先生、患者の状況は？
+[name="Ash"]Doctor, how are the patients doing?
+[name="Ash"]미아로우, 환자들은 좀 어때?
 
 [name="米亚罗"]不少人受伤了，我只能简单包扎一下。
+[name="ミアロ"]多くの人がケガをしていますが、こんな状況では簡単な手当てしかできません。
+[name="Miarow"]Many of them are wounded, I'm only able to do some simple treatment.
+[name="미아로우"]다친 사람이 많은데, 지금으로선 응급처치밖에 못 해요.
 
 [name="米亚罗"]绷带和酒精都不太够了。
+[name="ミアロ"]包帯と消毒用アルコールが足りません。
+[name="Miarow"]We're lacking bandages and disinfectants.
+[name="미아로우"]붕대와 소독약이 너무 부족해요.
 
 [name="霜华"]有没有办法先离开镇子？
+[name="Frost"]町を離れるという選択肢は？
+[name="Frost"]Is there any way to leave the town for now?
+[name="Frost"]마을을 당장 떠날 수 있는 방법이 있나?
 
 [name="战车"]离开镇子之后要去哪？带着这么多人？
+[name="Tachanka"]町を離れるとしてどこへ向かう?　しかもこんなにたくさんの人を連れて？
+[name="Tachanka"]Where would we go after leaving town? While bringing so many with us?
+[name="Tachanka"]마을을 떠나서 어디로 가게? 그것도 이렇게 많은 사람들을 데리고.
 
 [name="灰烬"]没有食物和水，他们跑到荒地上就是寻死。
+[name="Ash"]そもそも食料と水がない。これで町の外へ出るなど自殺行為だ。
+[name="Ash"]Without food and water, going onto the wasteland means certain death.
+[name="Ash"]식량과 물 없이 저 황무지로 나간다는 건 자살행위나 마찬가지야.
 
 [name="灰烬"]我不觉得这些怪物会放弃袭击我们。到了荒地情况只会更糟，没有掩体，无法藏身，再加上我们都看见了它们的钻地本事......
+[name="Ash"]モンスターたちがあたしたちを見逃してくれるとは思えないわ。荒野へ行けば状況はもっとひどくなるだけ。遮蔽物も身を隠せる場所もない、それにモンスターは地面に潜れる……
+[name="Ash"]I don't think these monsters will give up on attacking us. If we get to the wastelands, we'll just be in a worse position without any cover or means of hiding ourselves. Besides, we've all witnessed their burrowing abilities......
+[name="Ash"]그리고 저 괴물들이 포기할 거 같지도 않고. 황무지로 가면 우린 몸을 숨길 곳도 없고, 어떻게 할 방법도 없이 사방에서 공격받게 되겠지. 게다가 놈들에게는 땅 밑으로 움직이는 능력까지 있으니……
 
 [name="米亚罗"]我知道一个地方......说不定是安全的。
+[name="ミアロ"]とある場所を知っています……。そこなら安全といえるかもしれません。
+[name="Miarow"]I know a place......It might be safe.
+[name="미아로우"]……한 군데, 제가 아는 곳이 있어요. 거기라면 안전할지도 몰라요.
 
 [name="米亚罗"]镇南边有一个很特殊的建筑，可能是镇上最安全的地方，和领主的大宅差不多。
+[name="ミアロ"]町の南に、特殊な建造物があります。恐らくは町で一番安全な場所でしょう。堅牢性だけなら領主の屋敷と大差ないかと。
+[name="Miarow"]There's a special building at the south side of town. It might be the safest place in town, barring the lord's residence.
+[name="미아로우"]마을 남쪽에 특별한 건물이 있어요. 아미르님의 거처를 제외하면 아마 마을에서 가장 안전한 곳일 거예요.
 
 [name="灰烬"]详细说。
+[name="Ash"]詳しく聞かせてもらえるかしら？
+[name="Ash"]Do elaborate.
+[name="Ash"]자세히 말해 줘.
 
 [name="米亚罗"]以前有一个叫罗德岛的医疗组织，在镇子边缘租了一块地。
+[name="ミアロ"]以前、ロドスという医療組織が、町外れの土地を借りたんです。
+[name="Miarow"]There was this medical organization called Rhodes Island which rented a piece of land at the edge of town.
+[name="미아로우"]로도스 아일랜드라는 제약회사가 있는데, 그 회사에서 마을 끝자락 땅을 조금 빌렸어요.
 
 [name="米亚罗"]后来他们雇佣了工人，挖了不少土石，在那里修建了很结实的屋子。
+[name="ミアロ"]その後ロドスは労働者を雇い、土や石をたくさん掘って、そこに頑丈な建物を建てたんです。
+[name="Miarow"]Later they hired workers to dig a fair amount of soil and stone and built a very solid house there.
+[name="미아로우"]그리고는 사람들을 고용해서 튼튼한 건물을 지었죠.
 
 [name="米亚罗"]......说不定是这里最结实的屋子？看着像堡垒一样。
+[name="ミアロ"]……もしかしたらこの辺りでは最も頑丈な建物かもしれません。要塞のような見た目です。
+[name="Miarow"]......It could be the strongest building around here? It looks just like a fortress.
+[name="미아로우"]……적어도 이 주변에서는 가장 튼튼한 건물일 거예요. 요새처럼 생겼거든요.
 
 [name="灰烬"]你怎么知道“罗德岛”会愿意帮助我们？
+[name="Ash"]どうして「ロドス」とやらがあたしたちを助けてくれると？
+[name="Ash"]How do you know that this 'Rhodes Island' would be willing to help us?
+[name="Ash"]그 '로도스 아일랜드'가 우리를 도와줄지 어떻게 확신하지?
 
 [name="米亚罗"]那间屋子只有一个看门人，我认识他，我从他那里买过一些医用补给。
+[name="ミアロ"]あそこには一人の見張りが常駐しているだけです。僕は彼と知り合いで、彼から医療品を買ったこともあります。
+[name="Miarow"]There's only one watchman at that building, and I know him. I've purchased some medical supplies from him before.
+[name="미아로우"]그 건물에는 경비가 한 명 있는데, 제가 아는 사람이에요. 전에 그 사람에게서 의약품을 구입하기도 했고요.
 
 [name="战车"]很多土石，多半是挖了地下室。
+[name="Tachanka"]土や石をたくさん掘ったってことは、地下室もあるんだろうな。
+[name="Tachanka"]There's a lot of soil, most likely they dug out a basement.
+[name="Tachanka"]땅을 파내고 남은 흔적이 많군. 아마 지하실을 만든 거겠지.
 
 [name="战车"]听起来像是雇佣兵的安全屋。
+[name="Tachanka"]傭兵のセーフハウスってところか？
+[name="Tachanka"]Sounds like a safe house used by mercenaries.
+[name="Tachanka"]용병이 사용할 법한 안전가옥처럼 들리긴 한다만.
 
 [name="灰烬"]感觉很不可靠。
+[name="Ash"]当てにならなそうだけど。
+[name="Ash"]Doesn't sound reliable.
+[name="Ash"]미심쩍은 부분이 너무 많아.
 
 [name="战车"]除非我们有更好的选择，我建议去看看。
+[name="Tachanka"]俺たちにもっと良い選択があるならともかく、今は行ってみることを提案する。
+[name="Tachanka"]Unless we have a better option, I suggest we take a look.
+[name="Tachanka"]더 좋은 선택지가 없다면 가 보는 게 좋다고 본다.
 
 [name="战车"]没食物没水，守在这个土坯房子里无异于等死。
+[name="Tachanka"]食料も水もないんだ、この日干しレンガ製の建物にいても、ただ死を待つだけに等しい。
+[name="Tachanka"]Without food nor water, staying in this place is no different than waiting for death.
+[name="Tachanka"]식량과 물 없이 여기서 버티는 건 죽길 기다리는 거나 마찬가지니까.
 
 [name="米亚罗"]那个屋子在镇子边缘，我们可以从镇外过去，这样就不会被其他人看到了。
+[name="ミアロ"]その建物は町の外れにあります。一度、町の外に出てから大回りしましょう、そうすれば町の中からは見つからずに済みます。
+[name="Miarow"]That building is at the edge of town. We can head over from outside town to avoid being seen by others.
+[name="미아로우"]그 건물은 마을 끝에 있어요. 다른 사람들 눈에 띄지 않게 마을에서 벗어나 외곽을 따라 움직이면 돼요.
 
 [name="灰烬"]......嗯......
+[name="Ash"]……そうね。
+[name="Ash"]......Hmm......
+[name="Ash"]음……
 
 [name="灰烬"]库兹，你的盾牌还能用吗？
+[name="Ash"]ケッツ、盾はまだ使える？
+[name="Ash"]Kötz, is your shield still usable?
+[name="Ash"]쾨츠, 방패 아직 쓸 수 있어?
 
 [name="闪击"]半面盾，姑且能拿来揍人......应该。
+[name="Blitz"]半分はなくなっちまったが、殴り飛ばすことぐらいはできる……多分な。
+[name="Blitz"]Half of it. I can use it to bash someone......probably.
+[name="Blitz"]어느 정도는. 최소한 후려치는 용도로 쓸 수 있을 거야…… 아마도.
 
 [name="灰烬"]我需要一个人和我一起去，至少得有人保护医生。
+[name="Ash"]あたしと一緒に、もう一人誰かついてきてもらう必要がある……。先生の護衛をする人がいないと。
+[name="Ash"]I need someone to go with me, to help protect the doctor.
+[name="Ash"]미아로우를 엄호하면서 나와 함께 움직일 사람이 필요해.
 
 [name="闪击"]还是我去吧，大不了我替医生挡子弹。
+[name="Blitz"]なら、俺が行こう。俺が先生の代わりに弾を受けてやるよ。
+[name="Blitz"]I'll go. Worse comes to worst I can always shield the doctor with my body.
+[name="Blitz"]내가 갈게. 최악의 경우 내 몸으로라도 지킬 수 있을 테니까.
 
 [name="灰烬"]别说傻话。
+[name="Ash"]バカなことを言わないで。
+[name="Ash"]Don't talk crap.
+[name="Ash"]헛소리 마.
 
 [name="灰烬"]我和库兹陪医生去看看那个“安全屋”，蒂娜你留在这里协助亚历山大。
+[name="Ash"]あたしとケッツは先生について、その「セーフハウス」を確認してくる。ティナはここに残ってアレクサンドルのサポートをしてちょうだい。
+[name="Ash"]Kötz and I will go with the doctor to check out that 'safe house'. Tina, you stay here with Alexsandr.
+[name="Ash"]나랑 쾨츠는 미아로우를 데리고 그 안전가옥으로 가볼게. 티나는 여기 남아서 알렉산드르를 도와줘.
 
 [name="霜华"]明白。
+[name="Frost"]了解。
+[name="Frost"]Understood.
+[name="Frost"]알겠습니다.
 
 [name="灰烬"]医生，接下来无论发生什么，一定要听我指挥。
+[name="Ash"]先生、今からしばらくは何が起きても、あたしの指示を聞いて。
+[name="Ash"]Doctor, no matter what happens next, please follow my orders.
+[name="Ash"]미아로우, 무슨 일이 있어도 내 지시를 따라 줘.
 
 [name="米亚罗"]知道了。
+[name="ミアロ"]わかりました。
+[name="Miarow"]Understood.
+[name="미아로우"]명심할게요.
 
 [name="灰烬"]库兹，保护好医生。
+[name="Ash"]ケッツ、先生をお願い。
+[name="Ash"]Kötz, protect the doctor well.
+[name="Ash"]쾨츠, 미아로우를 지켜 줘.
 
 [name="闪击"]我会罩着他的。
+[name="Blitz"]すべてうまくいくさ。俺がいるんだからな。
+[name="Blitz"]I'll keep him safe.
+[name="Blitz"]맡겨둬.
 
 [name="闪击"]没看到灯光，好像没人？
+[name="Blitz"]明かりが見えないが……誰もいないってことか？
+[name="Blitz"]I don't see any lights, is there no one there?
+[name="Blitz"]전기가 나갔네. 아무도 없나?
 
 [name="灰烬"]先别靠近，这屋子的门被砸开了。
+[name="Ash"]まだ近付かないで。扉が壊されてる。
+[name="Ash"]Keep your distance. This building's door has been smashed.
+[name="Ash"]거리 유지해. 건물 문이 부서졌어.
 
 [name="米亚罗"]连这里也......
+[name="ミアロ"]……ここも？
+[name="Miarow"]Even here......
+[name="미아로우"]이곳마저……
 
 [name="闪击"]这群暴徒的目的是什么？和强盗土匪一样打砸抢？
+[name="Blitz"]この暴徒たちの目的は何だ？　強盗や盗賊と同じように、破壊や略奪か？
+[name="Blitz"]What are these thugs' goals? To rob and plunder like common bandits?
+[name="Blitz"]이 자식들 대체 목적이 뭐지? 평범한 도적처럼 약탈이나 하려고 온 건가?
 
 [name="奥克芬"]救......救命......
+[name="オクフェン"]た……助けてくれ……
+[name="Occphen"]H......help......
+[name="오크픈"]사…… 살려……
 
 [name="奥克芬"]救命啊！谁都好！救救我啊！
+[name="オクフェン"]頼む！　誰でもいいんだ！　助けてくれ！
+[name="Occphen"]Help! Anyone! Help me!
+[name="오크픈"]살려줘! 아무도 없어요? 제발 살려주세요!
 
 [name="奥克芬"]我......我还不想死......可恶......
+[name="オクフェン"]わ……私はまだ死にたくない……。くそ……
+[name="Occphen"]I......I don't want to die......Damn it......
+[name="오크픈"]주…… 죽고 싶지 않아…… 젠장……
 
 [name="米亚罗"]是那个看门人！
+[name="ミアロ"]ここの見張りの人です。
+[name="Miarow"]It's the watchman!
+[name="미아로우"]그 경비원이에요!
 
 [name="灰烬"]别动，你留在这里。
+[name="Ash"]待って！
+[name="Ash"]Don't move and stay here.
+[name="Ash"]움직이지 마, 미아로우. 여기 가만히 있어.
 
 [name="灰烬"]我去看看。
+[name="Ash"]あたしが見てくるから。
+[name="Ash"]I'll go have a look.
+[name="Ash"]내가 가서 확인할 테니까.
 
 [name="奥克芬"]......早知道就不做这份工作了......
+[name="オクフェン"]……こうなるって知ってれば、こんな仕事受けなかったのに……
+[name="Occphen"]......If only I didn't take this job......
+[name="오크픈"]……이런 일을 맡지만 않았어도……
 
 [name="奥克芬"]我不想死在这......
+[name="オクフェン"]こんな所で死ぬのはいやだ……
+[name="Occphen"]I don't want to die here......
+[name="오크픈"]죽고 싶지 않아……
 
 [name="奥克芬"]你是谁！
+[name="オクフェン"]だ……誰だ！
+[name="Occphen"]Who are you!
+[name="오크픈"]누구야!
 
 [name="灰烬"]不要乱动，你的腿断了。
+[name="Ash"]動かないで、足が折れてる。
+[name="Ash"]Don't move, your leg's broken.
+[name="Ash"]움직이지 마, 다리가 부러진 거니까.
 
 [name="奥克芬"]雇......雇佣兵......
+[name="オクフェン"]よ……傭兵！？
+[name="Occphen"]M......mercenaries......
+[name="오크픈"]요…… 용병……
 
 [name="奥克芬"]别杀我！求求你！我说了我真的不知道钥匙在哪！我只是个看门的！
+[name="オクフェン"]殺さないでくれ！　お願いだ！　鍵がどこにあるかなんて本当に知らないんだ！　私はただの見張りなんだ！
+[name="Occphen"]Don't kill me! I beg you! Don't kill me! I really don't know where the key is! I'm just a simple watchman!
+[name="오크픈"]죽이지 마세요! 제발! 살려주세요! 열쇠가 어디 있는지 진짜 모릅니다! 전 그냥 일개 경비원일 뿐이라고요!
 
 [name="奥克芬"]相信我！我真的不知道！
+[name="オクフェン"]信じてくれ！　私は本当に知らない！
+[name="Occphen"]Please believe me! I really don't know!
+[name="오크픈"]제발 믿어주십시오! 진짜 모릅니다!
 
 [name="灰烬"]冷静点！我是来帮你的。
+[name="Ash"]落ち着いて！　あたしはあんたを助けにきた。
+[name="Ash"]Calm down! I'm here to help.
+[name="Ash"]진정해! 도와주러 온 거야.
 
 [name="奥克芬"]你......你和那群人不是一伙的......
+[name="オクフェン"]あ……あなたはあいつらの仲間じゃない……？
+[name="Occphen"]You......you're not together with those guys......
+[name="오크픈"]당신…… 당신은 놈들과 한패가 아니군요……
 
 [name="奥克芬"]救救我！救救我啊！
+[name="オクフェン"]助けて！　頼む……助けてください！
+[name="Occphen"]Help me! Help me!
+[name="오크픈"]살려주십시오! 살려주십시오!
 
 [name="灰烬"]我说了！冷静点！
+[name="Ash"]落ち着いてって言ってるでしょ！？
+[name="Ash"]I! Said! Calm down!
+[name="Ash"]내가 진정하라 했지!
 
 [name="灰烬"]库兹！带医生过来！
+[name="Ash"]ケッツ！　先生を連れて、こっちへ！
+[name="Ash"]Kötz! Bring the doctor!
+[name="Ash"]쾨츠! 미아로우를 데려와!
 
 [name="米亚罗"]奥克芬先生......你的腿......
+[name="ミアロ"]オクフェンさん……足が……
+[name="Miarow"]Mister Occphen, your leg......
+[name="미아로우"]오크픈 씨, 다리가……
 
 [name="奥克芬"]你......你是那个感染者医生！
+[name="オクフェン"]あ……先生！
+[name="Occphen"]You......you're that Infected doctor!
+[name="오크픈"]당신은…… 그 감염된 의사 선생님!
 
 [name="奥克芬"]谢天谢地！
+[name="オクフェン"]あぁ……よかった！
+[name="Occphen"]Oh, thank heavens!
+[name="오크픈"]아 세상에! 감사합니다!
 
 [name="米亚罗"]别急，让我看看你的腿......
+[name="ミアロ"]落ち着いてください。僕があなたの足を診ます。
+[name="Miarow"]Don't worry, let me look at your leg.
+[name="미아로우"]걱정 마세요. 우선 다리를 봐 드릴게요.
 
 [name="闪击"]好家伙，这屋子里被翻了个底朝天。
+[name="Blitz"]クソ、部屋がメチャクチャだ。
+[name="Blitz"]Man, this place has been turned upside down.
+[name="Blitz"]이야, 여기 완전히 쑥대밭이 됐는데.
 
 [name="灰烬"]房子里面比外面看起来要小很多。
+[name="Ash"]部屋の中は、随分狭いのね。
+[name="Ash"]The inside looks a lot smaller than the outside.
+[name="Ash"]밖에서 보이는 것보다 안은 훨씬 좁군.
 
 [name="闪击"]暗门、隔间、强化外墙，安全屋不都这样。
+[name="Blitz"]隠し扉に、仕切られた部屋、強化された外壁……。これぞセーフハウスって感じだな。
+[name="Blitz"]Secret doors, hidden rooms and fortified walls. Aren't all safe houses like that?
+[name="Blitz"]비밀 문, 숨겨진 방, 강화된 벽. 우리 기준으로 봐도 전형적인 안전가옥이야.
 
 [name="灰烬"]这是什么？
+[name="Ash"]……これは？
+[name="Ash"]What's this?
+[name="Ash"]이건 뭐지?
 
 [name="闪击"]无线电设备？都给砸成这样了。
+[name="Blitz"]これは無線？　全部壊されてるな。
+[name="Blitz"]Radio equipment? It's completely destroyed though.
+[name="Blitz"]무선 통신기네? 하지만 완전히 망가졌어.
 
 [name="闪击"]这么大一台，有点复古啊。原来这个世界是有这种通讯设备的。
+[name="Blitz"]俺たちのよりずいぶんレトロな感じだな……バカでかい。この世界にもこういった通信手段があるとは思わなかった。
+[name="Blitz"]Such a large machine, looks very retro. Turns out this world also had communications equipment like this.
+[name="Blitz"]크기도 크고, 굉장히 구식이야. 이 세계에도 장거리 통신 수단이 있긴 했네.
 
 [name="灰烬"]他们连汽车都有，有无线电也不奇怪。
+[name="Ash"]車があったんだもの、無線があってもおかしくはない。バカにしたものじゃないわ。
+[name="Ash"]They even have cars after all, it's not strange for them to have radio.
+[name="Ash"]우린 자동차도 봤잖아. 그 정도 기술력이면 무선 통신기도 있을 법하지.
 
 [name="灰烬"]我们之前住的破屋子里还有别的“废旧电器”呢，冰箱、风扇、热水壶......虽然这些损毁物件里没有一个是真正通电的。
+[name="Ash"]住んでたボロ屋にも「廃棄家電」があった。おそらくは冷蔵庫、扇風機、ケトル……共通点として、通電の必要性がない。
+[name="Ash"]There were other 'broken electronics' back at the run-down house we stayed at before, like the fridge, fans, a kettle......Though none of them actually used electricity.
+[name="Ash"]하긴, 우리가 전에 머물던 다 쓰러져가던 거처에도 냉장고네 선풍기네 커피포트 같은 '버려진 전자기기'들은 있었지…… 진짜로 전기가 통하는 건 하나도 없었지만.
 
 [name="灰烬"]就和这个无线电台一样，就和我们之前弄来的车一样。
+[name="Ash"]ここの無線設備や、前に乗った車のようにね。
+[name="Ash"]Just like this wireless radio, and that car we got.
+[name="Ash"]이 무선 통신기도 그렇고 우리가 전에 갖고 온 자동차도 그렇고,
 
 [name="闪击"]这些机器里都有一个装着黑色结晶的装置，我估计那个就是这些设备的能源。
+[name="Blitz"]こちらの機械には、どれもこれも黒い結晶が付けられているか、それを付けるための設備がある。これが恐らくこちらの世界のエネルギー源なんだろうな。
+[name="Blitz"]All these machines have a device filled with black crystals. I suppose that is the energy source for these devices.
+[name="Blitz"]이 기계들 안엔 전부 검은 결정이 달린 장치가 하나씩 들어 있었어. 아마 이 설비들의 에너지원이겠지.
 
 [name="奥克芬"]痛痛痛！你轻点啊医生！
+[name="オクフェン"]いててて！　先生、優しくしてくださいよ！
+[name="Occphen"]Ouch ouch ouch! Please be gentler, doctor!
+[name="오크픈"]아야야! 조금만 살살해주세요, 선생님!
 
 [name="米亚罗"]忍住！
+[name="ミアロ"]大したことはないですから、ちょっとだけ我慢してください。
+[name="Miarow"]Please bear with it!
+[name="미아로우"]참으세요!
 
 [name="米亚罗"]......还好，不太严重，骨头没有断。
+[name="ミアロ"]……よかった。それほどひどい状態ではありません。骨も折れてないようです。
+[name="Miarow"]......Luckily it's not very serious, the bone isn't broken.
+[name="미아로우"]……그나마 다행이네요. 보이는 상처 외에 다른 큰 문제는 없어요. 뼈도 멀쩡하고요.
 
 [name="灰烬"]你就是这里的负责人？
+[name="Ash"]あんたがここの責任者？
+[name="Ash"]You're the person in charge of this place?
+[name="Ash"]그쪽이 이곳 책임자인가?
 
 [name="奥克芬"]这里是......罗德岛驻外办公室。我......我其实只是个看门的。
+[name="オクフェン"]ここは……ロドスの駐在事務所で、私はただの見張り役です。
+[name="Occphen"]This is......Rhodes Island's branch office. I'm actually just a simple watchman.
+[name="오크픈"]여긴…… 로도스 아일랜드 사무소고, 전 그냥 일개 경비원입니다.
 
 [name="闪击"]让我猜猜，这些暴徒冲到这里，让你打开地下室的门，但是你坚守职责，一直在装傻，于是被打了一顿，然后他们就把你丢在这里等死？
+[name="Blitz"]暴徒たちがここに押し寄せ、お前に地下室の扉を開けさせようとしたが、ここを守る義務があるお前はしらばっくれた。その結果、連中にぶちのめされたってところか？
+[name="Blitz"]Let me guess, those thugs came here and forced you to open the basement door, but you persisted in your duty and kept playing dumb, which resulted in you getting beaten up and left here to die?
+[name="Blitz"]한번 맞춰 볼까? 그 강도들이 여기 와서 지하실 문을 열라고 협박했지만, 넌 거부하고 항복하지 않아서 이 지경이 된 거지?
 
 [name="奥克芬"]......差不多是这样。
+[name="オクフェン"]……大体はそんなところです。
+[name="Occphen"]......Something like that.
+[name="오크픈"]…….대충 그런 셈이죠.
 
 [name="奥克芬"]等等，你们怎么知道有地下室的？
+[name="オクフェン"]待ってください。どうしてあなたたちが地下室のことを？
+[name="Occphen"]Wait, how did you know there's a basement?
+[name="오크픈"]잠, 잠깐만, 지하실이 있는 건 어떻게 알았죠?
 
 [name="闪击"]你中计了，其实我们是暴徒们的后手，专程来套你的话的。
+[name="Blitz"]かかったな？　実は俺たちはその暴徒の黒幕だ。お前に口を割らせるためにわざわざ来てやったのさ。
+[name="Blitz"]You've been tricked. We're actually the thugs' backup, here to get you to confess everything.
+[name="Blitz"]간단해. 방금 네 입으로 지하실이 있다고 시인했잖아. 폭력이 통하지 않았으니 이제 우리가 와서 제2의 방법, 그러니까 잘 구슬려서 자백하게……
 
 [name="奥克芬"]什么？？
+[name="オクフェン"]なっ？？
+[name="Occphen"]What? ?
+[name="오크픈"]뭐라고요??
 
 [name="灰烬"]库兹！
+[name="Ash"]ケッツ！
+[name="Ash"]Kötz!
+[name="Ash"]쾨츠!
 
 [name="闪击"]不要生气，我只是活跃一下气氛。
+[name="Blitz"]怒るなよ、場を和ませようとしただけだ。というわけで、今の話は冗談だ。本気にしないでくれよ。
+[name="Blitz"]Don't get angry, I'm just trying to liven up the atmosphere.
+[name="Blitz"]아아~ 농담이야 농담. 그냥 분위기 좀 띄워 보려고 했던 거니까.
 
 [name="奥克芬"]你们......你们到底是做什么的？
+[name="オクフェン"]あ……あなたたちの目的は何なんですか？
+[name="Occphen"]You......What are you actually planning to do?
+[name="오크픈"]당신들…… 대체 목적이 뭡니까?
 
 [name="米亚罗"]别担心，科恩小姐他们是好人，他们一直在保护感染者社区的居民。
+[name="ミアロ"]安心してください、コーエンさんたちは良い人たちですから。皆さんがずっと感染者地区を守ってくれていたんです。
+[name="Miarow"]Don't worry, they're good people. They've been protecting the inhabitants of the infected zone all this while.
+[name="미아로우"]걱정 마세요, 좋은 사람들이에요. 여태까지 감염자 구역에 사는 분들을 지켜줬어요.
 
 [name="奥克芬"]感染者社区也被袭击了？？
+[name="オクフェン"]か……感染者地区も襲われていたんですか？？
+[name="Occphen"]The infected zone was attacked as well? ?
+[name="오크픈"]감염자 구역도 공격당했다고요??
 
 [name="奥克芬"]这......都乱套了。
+[name="オクフェン"]め……めちゃくちゃだ。
+[name="Occphen"]This......It's messed up.
+[name="오크픈"]이거…… 정말 보통 일이 아니군요.
 
 [name="奥克芬"]领主卫队呢？图拉领主的卫队呢？
+[name="オクフェン"]領主の衛兵隊は？　トゥラ領主の衛兵隊は？
+[name="Occphen"]What about the lord's soldiers? Where are Lord Tulla's soldiers?
+[name="오크픈"]아미르님의 병사는? 툴라 아미르님의 사병은 대체 어떻게 된 겁니까?
 
 [name="米亚罗"]领主卫队一直没有出现，他们可能也遇到了麻烦......
+[name="ミアロ"]領主の衛兵隊は来てくれませんでした。何かトラブルがあったのだと思いたいです……
+[name="Miarow"]The lord's soldiers still haven't appeared. They might be in trouble as well.
+[name="미아로우"]아미르님의 병사들은 보지도 못했어요. 그쪽도 문제가 생긴 건지도 몰라요.
 
 [name="灰烬"]看门人先生，我们需要你的帮助。
+[name="Ash"]オクフェンさん、あたしたちはあんたの助けを必要としているの。
+[name="Ash"]Mister Watchman, we need your help.
+[name="Ash"]경비원, 우리를 좀 도와줬으면 좋겠는데.
 
 [name="奥克芬"]但是我能帮上什么呢？我现在站都站不起来。
+[name="オクフェン"]私に何ができるというんです？　今は、立つことさえままならないのに。
+[name="Occphen"]But, what can I do to help? I can't even stand up right now.
+[name="오크픈"]돕는다니 어떻게 말입니까? 전 일어설 수도 없습니다만.
 
 [name="灰烬"]得了病的镇民们也被袭击了，感染者社区的人员和建筑都损失惨重。
+[name="Ash"]患者たちも襲われたの。感染者地区の人と建物はすべて見るも無残な状態よ。
+[name="Ash"]The Infected townsfolk have also been attacked, with many of them being injured and the buildings of the infected zone suffering heavy damages.
+[name="Ash"]감염된 마을 사람들도 공격당해서 많은 이들이 부상당했어. 감염자 구역에 있던 건물들도 많이 부서졌고.
 
 [name="灰烬"]我们需要你打开安全屋，让他们躲在这里。
+[name="Ash"]このセーフハウスを開放してほしいの。彼らをここに避難させたいのよ。
+[name="Ash"]We need you to open up the safe house and let them hide in here.
+[name="Ash"]그쪽이 안전가옥을 열고 사람들을 숨겨줬으면 해.
 
 [name="奥克芬"]这......
+[name="オクフェン"]それは……
+[name="Occphen"]That...
+[name="오크픈"]그 말은 즉……
 
 [name="闪击"]相对的，我们也会保护你的安全，你可以信任我们。
+[name="Blitz"]その代わり、俺たちがお前の安全も確保してやる。俺たちを信じていい。
+[name="Blitz"]In return, we will guarantee your safety. You can trust us.
+[name="Blitz"]대신 네 안전을 보장해 줄게. 한번 믿어 보라고.
 
 [name="奥克芬"]但是......但是......
+[name="オクフェン"]でも……ですが……
+[name="Occphen"]But, but I...
+[name="오크픈"]하지만 전……
 
 [name="奥克芬"]依据我和罗德岛签订的合同，整个安全屋都是罗德岛的资产。
+[name="オクフェン"]ロドスとの契約で、このセーフハウス周辺の土地と、建物内のすべてがロドスの所有物扱いなんです。
+[name="Occphen"]Based on the contract I signed with Rhodes Island, the entire safe house is the property of Rhodes Island.
+[name="오크픈"]로도스 아일랜드와 계약한 내용에 따르면, 이 안전가옥은 로도스 아일랜드의 자산입니다.
 
 [name="奥克芬"]......我没有权力......
+[name="オクフェン"]……だから、私にはこの建物を開放する権利が……
+[name="Occphen"]......I don't have the authority......
+[name="오크픈"]……제게는 결정할 권한이……
 
 [name="奥克芬"]......
+[name="オクフェン"]……
+[name="Occphen"]......
+[name="오크픈"]……
 
 [name="奥克芬"]......唉......感染者......
+[name="オクフェン"]いや……感染者たちか……
+[name="Occphen"]......Ugh......Infected......
+[name="오크픈"]……으…… 가엾은 감염자들……
 
 [name="奥克芬"]让他们来吧，丢了工作总比丢了命强。
+[name="オクフェン"]……いいでしょう。彼らを連れて来てください。命を失うよりは仕事を失う方がましですからね。
+[name="Occphen"]Alright, let them come. Losing my job is better than losing my life.
+[name="오크픈"]알겠습니다. 모두 데려오세요. 목숨을 잃는 것보다야 일자리를 잃는 게 낫겠죠.
 
 [name="米亚罗"]谢谢你！奥克芬先生！
+[name="ミアロ"]オクフェンさん、ありがとうございます！！
+[name="Miarow"]Thank you!
+[name="미아로우"]고맙습니다, 오크픈 씨!!
 

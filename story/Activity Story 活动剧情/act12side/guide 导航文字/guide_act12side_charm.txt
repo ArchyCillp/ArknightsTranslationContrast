@@ -1,0 +1,6 @@
+[PopupDialog(dialogHead="$avatar_takila")] 在多索雷斯，可以通过改造装备或者添加配件来更好地在这里行动。
+
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 之所以做成<@tu.kw>标志物</>形式是为了方便辨识，一种标志对应一种装配，收集标志物可以进行对应的装配，是这两年才兴起的一种风潮。
+
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 各种改装或者配件有什么具体功效可以询问我，也可以在手机上查询，有专门的网站收录这些。
+

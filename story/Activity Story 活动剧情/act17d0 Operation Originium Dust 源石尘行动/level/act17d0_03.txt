@@ -1,18 +1,45 @@
 [PopupDialog(dialogHead="$avatar_rfrost")] 让他们再靠近一点！
+[PopupDialog(dialogHead="$avatar_rfrost")] もう少し引き付けて！
+[PopupDialog(dialogHead="$avatar_rfrost")] Let them come a little closer!
+[PopupDialog(dialogHead="$avatar_rfrost")] 녀석들이 더 가까이 오도록 해줘!
 
 [PopupDialog(dialogHead="$avatar_blitz")] 你有什么计划。
+[PopupDialog(dialogHead="$avatar_blitz")] 何か考えがあるのか。
+[PopupDialog(dialogHead="$avatar_blitz")] What's your plan?
+[PopupDialog(dialogHead="$avatar_blitz")] 뭔가 계획이라도 있는 건가?
 
 [PopupDialog(dialogHead="$avatar_rfrost")] 我在那些安全屋的爆炸物里找到了这个高装药炸弹。
+[PopupDialog(dialogHead="$avatar_rfrost")] セーフハウス内に置いてある爆発物の中から、この高威力爆弾を見つけた。
+[PopupDialog(dialogHead="$avatar_rfrost")] I found a high explosive device in the safehouse cache.
+[PopupDialog(dialogHead="$avatar_rfrost")] 안전가옥에 있는 비품들 중에서 고성능 폭탄을 찾아냈어.
 
 [PopupDialog(dialogHead="$avatar_ash")] 这玩意…感觉能把我们都炸上天。
+[PopupDialog(dialogHead="$avatar_ash")] それ……あたしたちごと吹っ飛ばせそうね。
+[PopupDialog(dialogHead="$avatar_ash")] This fella… feels like he could blow us sky high.
+[PopupDialog(dialogHead="$avatar_ash")] 이거… 자칫하면 우리까지 날려버리겠는데.
 
 [PopupDialog(dialogHead="$avatar_ash")] 虽然很危险，但是现在没有其他选择。
+[PopupDialog(dialogHead="$avatar_ash")] 危険ではあるけど、今はそれに頼るしか選択肢がなさそうね。
+[PopupDialog(dialogHead="$avatar_ash")] It's risky, but we've got no other choice.
+[PopupDialog(dialogHead="$avatar_ash")] 위험하지만, 다른 선택지가 없네.
 
 [PopupDialog(dialogHead="$avatar_rfrost")] 炸弹部署完成后，我们就可以在<@tu.kw>任意时间引爆</>它了。
+[PopupDialog(dialogHead="$avatar_rfrost")] 爆弾が起動すれば、<@tu.kw>いつでも起爆</>できる。
+[PopupDialog(dialogHead="$avatar_rfrost")] Once the bomb is finished deploying, we can <@tu.kw>detonate it at any time</>.
+[PopupDialog(dialogHead="$avatar_rfrost")] 프로세스가 완료되면 <@tu.kw>언제든지 기폭</>할 수 있어.
 
 [PopupDialog(dialogHead="$avatar_ash")] 选择一个好位置把这“大家伙”给安好。
+[PopupDialog(dialogHead="$avatar_ash")] 適切な位置にこの爆弾を設置しましょう。
+[PopupDialog(dialogHead="$avatar_ash")] Choose a good place to set up the 'Big Guy'.
+[PopupDialog(dialogHead="$avatar_ash")] 좋은 곳을 찾아 이 '덩치 큰 친구'를 설치하자고.
 
 [PopupDialog(dialogHead="$avatar_ash")] 不要给敌人留下任何机会。
+[PopupDialog(dialogHead="$avatar_ash")] 敵にはどんなチャンスも与えてはダメよ。
+[PopupDialog(dialogHead="$avatar_ash")] And don't give the enemy a chance.
+[PopupDialog(dialogHead="$avatar_ash")] 그리고 적들이 파괴하지 못하게 하고.
 
 [PopupDialog(dialogHead="$avatar_rfrost")] 明白。
+[PopupDialog(dialogHead="$avatar_rfrost")] 了解。
+[PopupDialog(dialogHead="$avatar_rfrost")] Roger.
+[PopupDialog(dialogHead="$avatar_rfrost")] 알겠습니다.
 
