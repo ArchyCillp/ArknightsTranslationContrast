@@ -1,11 +1,17 @@
 ID:
 	char_220_grani
 
-干员代号\Name:
+CV:
 	格拉尼
 	グラニ
 	Grani
 	그라니
+
+干员代号\Name:
+	山崎遥
+	山崎はるか
+	Haruka Yamazaki
+	야마자키 하루카
 
 招聘合同\Character Usage:
 	罗德岛先锋干员、骑警格拉尼，将凭手中长枪，扫平战场上的一切阻碍。
@@ -43,177 +49,483 @@ ID:
 	임전무퇴!
 
 语音\Voices:
-	报告Dr.{@nickname}！巡查完毕，没有异常！
 	ドクターに報告！巡回完了、異常なし！
 	Reporting in, Dr. {@nickname}! Patrol completed. Nothing out of the ordinary!
 	{@nickname} 박사에게 보고! 순찰 완료! 이상 무!
 
-	好饿啊，战斗消耗了我好多体力......哎，{@nickname}这里有食物吗？特别为我准备的？是，是苹果派！谢谢！我、我就不客气了！
 	お腹がペコペコだーさっきの戦いで体力使いすぎたかな……あれ、こんなところに食べ物が！あたしのためにわざわざ用意してくれたの？うわぁ、アップルパイだ！助かったよ、サンキュー！いっただきまーす！
 	I'm starving. That battle really took a lot out of me... Huh? You got me something to eat? Just for me? A-apple pie! Thanks a lot! It looks great!
 	배고파 죽겠어~ 아까 전투에서 체력을 너무 많이 썼나… 어라, 이런 곳에 먹을 게 있네! 날 위해서 특별히 준비해준 거야? 우와, 애플파이다! 살았어, 땡큐! 잘 먹겠습니다~!
 
-	罗德岛的大家喜欢叫我“小个子”，嗯——我不会在意的，其实，以前骑警队的同事也会这样捉弄我。等等，禁止摸头！还有耳朵！不可以随便揉我的脸！
 	ロドスのみんなによく「チビ」ってからかわれるけど、まぁ――別にいいよ、昔の同僚たちにもそう呼ばれてたし。あ、待って！頭撫でるのはダメ！耳も！顔もつねらないで！
 	Everybody here at Rhodes Island calls me 'Tiny,' but it really doesn't bother me. The boys back on the force always teased me the same way. Hey! Don't pat my head! Or my ears! Or face for that matter!
 	로도스 아일랜드 사람들이 자주 '꼬맹이'라고 놀리는데, 뭐… 괜찮아, 옛날 동료들도 그렇게 불렀었으니. 아, 잠깐! 머리 쓰다듬는 건 안돼! 귀도! 얼굴도 꼬집지 마!
 
-	{@nickname}，星期三和星期五晚上的常规训练我也许不能参加......嗯，这两天我会帮助民间组织维护治安、打击犯罪！唉？星期五因为有紧急任务，所以不行吗！
 	ドクター、あたし、水曜日と金曜日の夜の定期訓練には参加できないかも……そう、民間組織の治安維持と犯罪の取締を手伝うんだよ！え？緊急任務が入るから金曜日は参加必須？
 	{@nickname}, I might not make it to training on Wednesdays or Fridays... Right, I need to be out there doing my part to keep the peace, catching the bad guys! Huh? I have an important mission on Friday?!
 	{@nickname}, 나 수요일이랑 금요일 밤에 정기훈련 참가 못 할지도… 응, 민간조직에서 치안 유지하는 거랑 범죄 단속하는 거 도우러 가거든! 엥? 긴급 임무가 있으니까 금요일엔 반드시 참가해야 한다고?
 
-	罗德岛的大家实力都很强，不过较量起速度的话，我是不会输给任何人的！
 	ロドスのみんなは強いけど、スピードならあたしは誰にも負けないよ！
 	Rhodes Island has lots of strong Operators, but there's no one who can match my speed!
 	로도스 아일랜드 사람들은 다들 강하지만, 스피드라면 난 누구에게도 지지 않아!
 
-	不知不觉中，已经和你共度了这么长的时光呢。{@nickname}，一起经历过的那些战斗，我一点都不会忘记。但停在这里可不行！我们的未来可是更加广阔的，对吗？
 	いつの間にか、ドクターとこんなに長い時間を過ごしてきたんだね。一緒に戦ってきたこと、あたしは絶対に忘れない。でも、まだここで立ち止まったらダメだよ！あたしたちにはもっと晴々しい未来が待ってるんだ！そうでしょ？
 	Where has the time gone? We've been working together so long now. {@nickname}, I will never forget everything we've been through. But we can't stop now! We have to keep striving for that bright future, don't we?
 	언제부턴가, 박사랑 이렇게나 긴 시간을 지내왔구나. 함께 싸운 거, 난 절대 잊지 않을 거야. 그렇지만, 아직 여기에 멈춰있으면 안 돼! 우리한텐 더 밝은 미래가 기다리고 있으니까! 안 그래?
 
-	刚才我在走廊上碰见了斯卡蒂......{@nickname}是不是觉得她平常对人很冷淡？其实她是个很善良的人哦，真的！
 	さっき通路でスカジに会ったよ……ドクター、彼女のことを冷たい人だと思ったりしてない？本当はとても優しい人だよ、本当！
 	I just bumped into Skadi in the hallway... {@nickname}, you think she's cold and distant, don't you? She's actually very kind. Really!
 	아까 통로에서 스카디를 만났어… 박사, 스카디를 차가운 사람이라 생각하지? 사실은 정말 상냥한 사람이야, 진짜로!
 
-	和大家比起来，我很普通。既没有非凡的能力，也没有什么辉煌的战绩......但用自己的双手把这个世界变得更好这件事，与力量强不强是没有关系的！不过，不好好吃饭是一定不行的！
 	みんなと比べると、あたしなんか特別な能力もないし、輝かしい戦績もなくて、地味なんだよね……。でも、自分の手で世界を変えたいという気持ちはそれとは関係ないと思うの！あ、でもごはんはしっかり食べないとダメだからね！
 	Compared to everyone else, I'm pretty ordinary. I don't have any superpowers, or spectacular achievements to brag about... But I don't need magic or claws to make the world a better place. I can do that with my own two hands! Of course, we still have to eat well!
 	다른 사람들이랑 비교해보면 난 특별한 능력도 없고, 빛나는 전적도 없어서 별 볼 일 없지만…… 내 손으로 세계를 바꾸고 싶어 하는 마음은 그거랑 상관없다고 봐! 아, 그래도 밥은 제대로 챙겨 먹어야겠지!
 
-	{@nickname}始终在为大家着想，却从来没有顾及过自己的安全，这可不对！无论你今后遇到什么样的危险，我可都会拉住你的手的！嗯嗯，就这样约好了！
 	ドクターはいつもみんなのことばかり考えて、自分の安全をすぐ忘れちゃうよね。そんなのダメだよ！これからどんな危険が待っていても、あたしがちゃんと手を握っててあげるから！いい？約束だよ！
 	{@nickname}, you always worry so much about your people, but you never remember to take care of yourself. You can't do that! No matter what dangers you may face, I promise I'll be there to hold your hand! Definitely, you have my word!
 	{@nickname} 박사는 늘 다른 사람들만 생각해서, 자기 자신의 안전을 자주 잊어버리는데, 그러면 안 돼! 앞으로 어떤 위험이 기다릴지라도 내가 손을 꽉 잡아줄 테니까! 알겠지? 약속이야!
 
-	唔唔，为什么{@nickname}身上会飘出这么香的味道？你一定藏了什么好吃的，对不对！
 	むむ、なんかドクターからすごーく美味しそうな匂いがするよ？さては何か隠してるんだね？そうでしょ！
 	Hmm? Why do you smell so good, {@nickname}? You're definitely hiding something tasty, aren't you?!
 	음? 왠지 {@nickname} 박사한테서 굉장히 맛있는 냄새가 나는데? 그렇다면… 뭔가 숨기고 있는 거지? 그렇지?!
 
-	骑警格拉尼，听到了{@nickname}你求助的声音！没问题的，从今天开始，我会拼尽全力保护你！
 	騎馬警官グラニ、きみの声に呼ばれて駆けつけたよ！安心して、今日からきみのこと、あたしが全力で守るから！
 	Mounted Police Officer Grani has heard your cry for help! Fear not. From this point forward, I will protect you!
 	기마 경관 그라니, 너의 목소리에 응해서 달려왔어! 안심해, 오늘부터 너는 내가 전력으로 지켜줄 테니까!
 
-	原来如此，在这种地方也不能疏忽，嗯嗯！
 	なるほど、こんなところでも油断は禁物なんだね、ふむふむ！
 	I see. That's another thing I should watch out for. Uh huh!
 	그렇구나, 이런 곳에서도 방심은 금물이란 거지. 흠흠!
 
-	晋升勋章？给我的吗？谢谢{@nickname}！我会把它和骑警勋章挂在一起的！
 	昇進のエリートメダル？これをあたしに？サンキュードクター！警官勲章と一緒に付けるよ！
 	An elite promotion medal? For me? Thank you, {@nickname}! I'll hang it up with my police medal!
 	승진의 정예 메달? 이걸 나한테? 땡큐 {@nickname}~! 경관 훈장이랑 같이 걸어둘게!
 
-	从第一次执行任务到现在，这把长枪无数次支撑着我站起来。只要紧握住它，我的内心就会充满足以守护大家梦想的勇气。
 	初めて任務に参加した日から今日まで、この槍が何度も私に立ち上がる力をくれた。この子を手に握ると、みんなの夢を守る勇気が溢れ出てくるんだ。
 	From the time I finished my first mission right up to this very day, my lance has been here to support me. As long as I grip it tight, my heart will have the courage it needs to protect the people and their dreams.
 	처음 임무에 참가한 날부터 오늘까지, 이 창이 몇 번이고 내게 일어날 힘을 주었어. 얘를 손에 쥐고 있으면, 모두의 꿈을 지킬 용기가 넘쳐흘러.
 
-	需要我去侦查战场吗？
 	あたしが戦場偵察に行こうか？
 	Shall I go scout the battlefield?
 	내가 전장 정찰 갈까?
 
-	把大家托付给我吗？没问题，我会努力保护整个小队的！
 	あたしがみんなの隊長役なの？オッケー、しっかり全員を守るからね！
 	You're making me the captain? Okay. I'll protect the whole squad!
 	내가 모두의 대장 역할인 거야? 오케이~ 제대로 모두를 지켜줄게!
 
-	各位，让我们把胜利带回罗德岛！
 	みんな、ロドスに勝利の知らせを持って帰ろうね！
 	All right, let's bring home a victory!
 	다들, 로도스 아일랜드에 승전보를 들고 돌아가자고!
 
-	你们的胡作非为也就到此为止了！
 	もうきみたちの好き勝手にはさせない！
 	Your crimes stop here!
 	더 이상 너희들 맘대로 하게 놔두진 않겠어!
 
-	交给我吧！
 	あたしに任せて！
 	Leave it to me!
 	나한테 맡겨!
 
-	嗯！
 	ほい！
 	Sure!
 	호잇!
 
-	已就位。
 	配置についた。
 	In position.
 	배치 장소에 도착했어.
 
-	奔跑起来吧！
 	走ろう！
 	Move out!
 	달리자!
 
-	以我的枪尖开路！
 	この槍で道を切り開く！
 	My lance will clear a path!
 	이 창으로 길을 헤쳐나간다!
 
-	时间到，冲刺！
 	よーい、どん！
 	Aaand, forward!
 	준비, 땅!
 
-	只要交锋就会决出胜负！
 	戦うからには白黒つけさせてもらうよ！
 	In battle, someone must come out on top.
 	싸울 거면, 확실히 승부를 내자!
 
-	我的战场，可不只是在地面！
 	地上でしか戦えないなんて思ったら大間違いだよ！
 	My battlefield extends well above the ground!
 	지상에서밖에 못 싸울 거라 생각하면 큰 착각이야!
 
-	为了那些需要保护的人，我绝不会让你们再前进一步！
 	助けを求める人のためにも、ここから先には一歩も進ませない！
 	If you look to harm those under my protection, you'll have to go through me first!
 	도움을 구하는 사람들을 위해서도, 이 앞으론 한 발자국도 못 가!
 
-	嗯！赢得真漂亮！大家的战斗非常精彩！
 	よし！素晴らしい戦いだった！みんなよくやったよ！
 	Nice! That was an excellent fight! You all did splendidly!
 	좋아! 훌륭한 전투였어! 다들 잘했어!
 
-	{@nickname}，请不要离我太远，也许还有漏网的敌人。
 	ドクター、まだあたしから離れないで。逃した敵がいるかもしれないから。
 	{@nickname}, please stay close to me. There may still be some enemies around.
 	{@nickname}, 아직 나한테서 떨어지지 마. 도망친 적이 있을지도 모르니까.
 
-	可恶......我不会倒下的！
 	くそ……この程度であたしは倒れないから！
 	Damn it... I can't let myself fall here!
 	젠장…… 이 정도로 난 쓰러지지 않아!
 
-	有谁需要帮忙吗？
 	なにか手伝ってほしい人いる？
 	Anyone need help here?
 	도움 필요한 사람 있어?
 
-	诶诶！
 	ええ！？
 	Huh?
 	에에?!
 
-	如果有机会，我想和{@nickname}一起去看一看这个世界。
 	いつか機会があれば、ドクターと一緒に世界中を回ってみたいな。
 	If we get the chance, I hope we can see the world together, {@nickname}.
 	언젠가 기회가 되면, {@nickname} 박사랑 같이 이 세계를 돌아다녀 보고 싶어.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好，博士！
 	おはよう、ドクター！
 	Morning, Doctor!
 	안녕, 박사~!
+
+干员档案\Background:
+	基础档案 :
+	【代号】格拉尼
+	【性别】女
+	【战斗经验】两年
+	【出身地】维多利亚
+	【生日】12月1日
+	【种族】库兰塔
+	【身高】154cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】グラニ
+	【性別】女
+	【戦闘経験】二年
+	【出身地】ヴィクトリア
+	【誕生日】12月1日
+	【種族】クランタ
+	【身長】154cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Grani 
+	[Gender] Female 
+	[Combat Experience] 2 years 
+	[Place of Birth] Victoria 
+	[Date of Birth] Dec. 1 
+	[Race] Kuranta 
+	[Height] 154cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 그라니
+	[성별] 여
+	[전투 경험] 2년
+	[출신지] 빅토리아
+	[생일] 12월 1일
+	[종족] 쿠란타
+	[신장] 154cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Excellent
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	格拉尼，维多利亚骑警，在突袭战，机动作战，纵深作战等高速运动战领域表现出了较高的天赋。
+	现以合约干员身份为罗德岛各行动组提供支援，并主动承担罗德岛及周边地区的义务巡逻与防卫协助等工作。
+
+	個人履歴 :
+	グラニはヴィクトリアの騎馬警官。奇襲や機動戦、縦深攻撃といった展開が速い戦術で頭角を現す。
+	現在はロドスの各隊の支援援助をするオペレーターとしての契約に合意しており、自発的にロドス及び周辺地域のパトロールや防衛協力等の仕事をしている。
+
+	Profile :
+	Grani, formerly of the Victorian Mounted Police, specializes in high mobility operations such as raids, mechanized warfare, and infiltration. 
+	Now works as a contract Operator providing support for all Rhodes Island op teams, as well as patrols of the island and its surrounding areas.
+
+	프로필 :
+	    빅토리아의 기마경찰이다. 기습 작전이나 기동 작전, 침투 작전 등 높은 기동성을 필요로하는 작전 영역에서 뛰어난 재능을 보인다. 현재 협력 오퍼레이터 신분으로 로도스 아일랜드의 각 작전팀을 지원하고 있으며, 로도스 아일랜드 및 주변 지역의 의무 순찰과 방위 임무에 자발적으로 협조하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员格拉尼没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.1u/L
+	干员格拉尼很少接触源石。
+	
+	嗯......格拉尼小姐的身体真的很健康，人又那么有活力。欸，我觉得啊，矿石病就算在她背后追赶她，大概也追不上吧......
+	——医疗干员
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.1u/L
+	源石との接触は極めて少ない。
+	
+	ふむ……グラニさんはとても健康です。思うに、鉱石病がグラニさんに襲い掛かろうとしても、返り討ちにあっているものかと……
+	――医療オペレーター
+
+	Clinical Analysis :
+	Imaging tests on this Operator show clear outlines of internal organs, with no abnormal dark spots or shadows. No unusual traces of Originium particles present in the circulatory system, no signs of infection, confirming this operator as uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	No Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.1u/L 
+	Subject is rarely exposed to Originium. 
+	
+	Grani is in such good shape, even if infection was chasing her, it wouldn't be able to catch up... 
+	--A Medic Operator
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음. 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음. 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.1u/L
+	오퍼레이터 그라니는 오리지늄과의 접촉 횟수가 매우 적음.
+	
+	    음…… 그라니 씨의 몸은 정말 건강해요, 활력도 넘치고요. 음, 광석병이 뒤에서 그녀를 쫓아온다고 해도 아마 못 따라잡지 않을까요…… 
+	——메딕 오퍼레이터
+
+———————————————————————————————
+
+	档案资料一 :
+	骑警格拉尼，维多利亚公民。她的祖辈很早就移民维多利亚，其家庭保持了一种骑士竞技风潮席卷卡西米尔之前的淳朴民风。佩戴着好友相赠的卡西米尔语袖标，即使身在维多利亚，也对卡西米尔的骑士精神有着丰富的好奇心。
+	骑警队是格拉尼故乡的警务机构之一。他们集王国警察、郡警察、城市警察于一体，以标准化的作战能力及大范围的管辖职权闻名于世。
+	相比她的骑警同事们，格拉尼年龄小，身材单薄，个子矮小，即使勉力通过选拔加入了骑警队伍，也没少面临同事们的调侃和嘲笑。他们让格拉尼去做一些小事，而拒绝她参与正式的执法行动。
+	作为任职后的第一项工作，格拉尼被派去帮一个市民寻找丢失的钱包。她跑遍了城市的大街小巷，搜索每一个易被忽略的角落，向每一个遇到的市民询问，最终依照线索，从一些街边帮派成员的手中夺回了钱包，成功地帮助了这位市民。
+	格拉尼从不在意自己的工作内容是否琐碎，也从未想过为了升职而与他人明争暗斗。她主动地接过了市民寻访与城市巡逻的繁杂工作，为那些正处于困境之中、向她寻求帮助的人们想办法。
+	此后，第一张市民的表扬信寄到了骑警局，不久，格拉尼又陆续收到了第二、第三张......接踵而至的表彰。再之后，表扬信开始沉寂下去。
+	人们已经开始习惯这件事了：城市中有这样一个年轻的骑警，每天都在依靠自己的双手，让这座城市，让这座城市中的人们变得更好——
+
+	第一資料 :
+	騎馬警官のグラニは、ヴィクトリア公民。彼女の祖先は初期ヴィクトリア移民で、騎士競技の風潮がカジミエーシュを席巻する以前の彼らは、素朴だった。騎馬警察はグラニの故郷の警察組織のひとつである。王国警察、地方警察、都市警察が一つとなったもので、統一された戦闘能力と管轄範囲の広さで知られている。
+	他の騎馬警官の同僚に比べると、グラニは若く、力も弱く、そして体も小さい。努力して選抜試験を通過し騎馬警察に採用されても、同僚たちのからかいや嘲笑の的になることは少なくなかった。彼らはグラニに雑用をさせ、警察権を行使するような公務に彼女が関わるのを拒否した。彼女が着任後の初仕事として派遣されたのは、市民が無くした財布の捜索だった。
+	彼女は町中を見落としてしまいそうな場所までくまなく見て回り、市民ひとりひとりに尋ねていった。最終的には手掛かりを頼りにギャングの手から財布を取り返し、市民を助けることに成功した。
+	グラニは自分の仕事の大小は気にしておらず、昇進の為に他人と争うということは考えたこともなかった。
+	彼女は市民との交流や市街のパトロールという面倒な仕事を自ら進んでこなし、彼女に助けを求める人々や困難な状況に直面している場所があればなんとか出来ないかと考えた。
+	その後、市民から最初の感謝状が騎馬警察に届くと、グラニは立て続けに表彰状を受け取った。
+	しかし、しばらくして感謝状は徐々に少なくなっていった。
+	人々に浸透していったのだ。この町には、毎日自身の両手でこの町や町の人々をより良くしている、若い騎馬警官がいると……。
+
+	Archive File 1 :
+	Grani is a mounted police officer from Victoria. Her ancestors immigrated from Kazimirez long ago, but kept a form of cultural practice that predates the popularization of Kazimierzian knighthood. Despite growing up in Victoria, Grani wore Kazimierzan armbands, showing her fascination with Kazimierzan knights. 
+	The mounted police was one of the law enforcement agencies present in Grani's hometown. It included officers from national, county, and city police forces. They are known for their well-practiced operations and broad jurisdiction. 
+	Grani was younger, shorter, and smaller framed than her teammates, which was a subject of some ridicule from other officers. She found herself handling busywork and other trivial tasks, kept away from serious law enforcement. 
+	Her first job was to help a citizen find a lost wallet. She ran through the streets, checking every alley, asking everyone she came across, until she finally recovered the wallet from a gang member. 
+	Grani never cared that her work was trivial, and she never sought promotion. She just wanted to patrol the town and help people in need. 
+	Before long, the Mounted Police received a letter commending her efforts. Soon, a second letter came. Then a third, and even a public award. But when the people became accustomed to Grani's work, the stream fan mail slowed down.
+
+	파일 자료 1 :
+	    선조 때부터 일찍이 빅토리아로 이주해 온 그녀의 가족은, 카시미어에 기사 대결 문화가 들이닥치기 이전의 순박한 기풍을 그대로 유지하고 있다. 그녀는 친구와 서로 주고 받은 카시미어어가 적힌 완장을 차고 있으며, 카시미어의 기사도 정신에 대해 매우 왕성한 호기심을 갖고 있다.
+	    기마경찰대는 그라니의 고향에 있던 경찰 기구 중 하나였는데, 이들은 왕국 경찰, 카운티 경찰, 도시 경찰을 한 곳에 집중시켰으며, 표준화된 작전 능력과 광범위한 관할권을 가진 것으로 유명했다. 다른 기마경찰 소속 동료들에 비해 그라니는 나이가 어리고 체구도 왜소했기에, 힘겹게 선발 테스트를 통과해 기마경찰대에 입대하였음에도 동료들의 놀림과 비웃음을 받아왔다. 그라니의 상관은 그녀에게 잡일만을 맡겼고, 정식 임무에 참여하는 것을 허락하지 않았다.
+	    그라니의 취임 후 첫 임무는 한 시민을 도와 그가 분실한 지갑을 찾는 일이었다. 그녀는 도심의 대로와 골목길을 뛰어다니며 쉽게 놓칠 수 있는 구석진 곳들까지 꼼꼼히 탐색하였고, 마주치는 시민들에게 지갑의 행방에 대해 물어보며 노력한 결과, 결국 수집한 단서들을 바탕으로 한 갱단 멤버로부터 그 지갑을 회수하는 데 성공하였다.
+	    그라니는 자신이 맡은 임무의 경중을 따지지 않았고, 승진을 위해 타인과 옥신각신하는 일도 전혀 생각해본 적이 없었다. 그녀는 자발적으로 시민 탐문이나 도심 순찰과 같은 번거로운 임무를 맡았으며, 곤경에 처한 시민들의 문제를 해결하기 위해 힘썼다.
+	    그러던 어느 날, 그라니 앞으로 온 시민의 감사 편지가 처음으로 기마경찰국에 도착했고, 얼마 지나지 않아 더 많은 감사 편지가 그라니 앞으로 오게 되었다. 그라니는 이 일로 표창을 받기도 했지만, 얼마 지나지 않아 감사 편지는 점차 뜸해졌다.
+	    사람들은 이미, 한 젊은 기마경찰이 자신들의 좀 더 편안하고 안전한 생활을 위해 두손두발로 돕고 있다는 사실에 익숙해 져버렸기 때문이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	虽然欠缺一定的作战经验，但格拉尼从不会不假思索地冲向目标。
+	大多数情况下，她会审时度势，冷静地分析战场局势，判断敌方人数与战斗力，衡量理应采取的战术，并耐心等待机会。
+	格拉尼极具优势的机动性，良好的纵深作战能力，以及展开突袭时带来的迅猛冲击力，使得她得以成为罗德岛实施机动战术时的不二人选。
+	于协同作战中，格拉尼表现出的合作能力有目共睹，而她本人亦乐于接受罗德岛赋予她的种种战术安排。
+	此外，格拉尼善长鼓舞士气，催生团队的合作精神。她总是报以积极的态度，推动不同身份、不同阵营的罗德岛成员们团结一致，这也是大多数干员们乐于与她合作的原因。在这一点上，格拉尼为罗德岛带来了积极正面的的帮助。
+
+	第二資料 :
+	戦闘経験は乏しいが、グラニはきっと目標に向かって突き進むだろう。
+	ほとんどの状況下で彼女は冷静に状況判断をし、戦局を見極め、敵の人数と戦闘力を判断し、最善の戦術を考え、勝機をじっと待つ。
+	グラニは機動性に優れており、縦深作戦遂行能力、及び襲撃戦展開時の迅速で猛烈な突破力は、ロドスが機動作戦を実施する際にうってつけの人材となる。
+	統合作戦中、グラニの協調性の高さは誰の目にも明らかで、彼女自身もまたロドスが彼女に与えた命令を喜んで引き受けている。
+	この他にも、グラニは士気を高めたり、団体の協調性を促すことが得意である。彼女はいつも積極的な姿勢で応じ、身分や陣営が違うロドスのメンバーとも一致団結を推し進める。これも多くのオペレーターが進んで彼女に協力する一因だ。この一点において、グラニはロドスにプラスの影響をもたらした。
+
+	Archive File 2 :
+	While she lacks combat experience, she never rushes into a battle without thinking first. 
+	In most cases, she will analyze her target, the situation, the number of opponents, their skill level, her available tactics, and then wait for an opportunity to execute her plan. 
+	Grani's flexibility in large-scale combat, as well as her speed make her an excellent choice to carry out Rhodes Island's tactical maneuvers. 
+	She is incredibly cooperative in deployments, keeping to Rhodes Island's orders. 
+	In addition, Grani excels at fostering esprit de corps and boosting morale. She is always positive and promotes unity among Rhodes Island's diverse staff. Most everyone is eager to work with her. She has had an overwhelmingly positive impact on the company.
+
+	파일 자료 2 :
+	    비록 전투 경험은 어느 정도 부족하지만, 그라니는 생각 없이 무턱대고 적을 향해 돌진하지 않았다. 대부분의 상황에서 그녀는 전장의 시기와 형세를 살펴 냉정히 전황을 분석하고, 적 수와 그 전투력을 판단해 어떠한 전술을 취해야 할 지 결정하며, 인내심 있게 기회를 기다린다.
+	    그라니는 탁월한 기동성을 바탕으로, 심층 작전이나 기습 작전 시 적에게 치명타를 가할 수 있어, 기동 전술을 펼칠 때 매우 중요한 전술적 역할을 수행한다.
+	    협동 작전 중 그라니가 보여준 작전 능력의 우수함은 모두가 인정하며, 그녀도 로도스 아일랜드의 다양한 전술적 임무 배치를 기꺼이 받아들인다.
+	    그라니는 동료들의 사기를 북돋는 것과 협동 정신을 일깨워주는 것에도 능하다. 그녀는 늘 적극적인 태도로 다른 신분, 다른 진영의 로도스 아일랜드 사람들을 하나로 뭉칠 수 있게 하며, 대부분의 오퍼레이터들은 그녀와 함께하고자 한다. 그라니는 이렇게 로도스 아일랜드에 적극적이고, 긍정적인 변화를 가져왔다.
+
+———————————————————————————————
+
+	档案资料三 :
+	干员格拉尼在与罗德岛的多次合作中都获得了积极的评价。
+	在某平原地带追击流窜佣兵的行动中，由位于第二梯队的格拉尼执行纵深作战。在此次作战中，格拉尼充分展现了自己优良的机动性，她接连突袭目标的撤退线路，拦截目标的关键人员，为罗德岛主力部队赢取了大量时间，最终完成了对目标的合围计划。
+	在保障某地的源石运输线路安全的某次行动中。罗德岛安全部队负责抵御劫掠矿物的强盗进攻，而担任骑兵角色的格拉尼利用自身优势，不断冲击敌方人员，与罗德岛共同达成了一次极为成功的阵地反击作战。
+	至于某次合作，则发生了一些意外。
+	在这次山岳地区清缴强盗的作战中，由于短程联络信号被该地区复杂的地形所屏蔽，依照计划提前出发的格拉尼与作战小队失去了联络。
+	但当作战小队赶到任务地点时，发现进犯的强盗已暂时被格拉尼击退。
+	在同伴尚未赶到，强盗已依计划对村镇展开劫掠时，格拉尼选择了主动出击。她为自己拟定了目前作战环境下的临时作战计划，继而利用镇上的街道与房屋不断迂回、伺机突袭，最终迫使强盗中止了行动。
+	但在拯救被强盗劫持的孩子时，敌方狙击命中了格拉尼，致使她左臂负伤。
+	回到罗德岛后，干员们开展了一场讨论：“格拉尼擅自展开战斗一事，是否有违作战安排。”
+	结论很简单：格拉尼的行为违反了部分规定，但如果她没有随机应变，那么这次行动，也会失败。
+	由此，格拉尼，做出了正确的选择。
+
+	第三資料 :
+	グラニはロドスとの度重なる共同作戦で、何度も良い評価を獲得した。
+	某平原地帯で逃亡兵を追撃している最中、第二梯団所属のグラニによって縦深作戦が執行された。この作戦で、グラニは優れた機動力を十分に発揮した。続けざまに目標の退路に突撃し、目標のキーパーソンを足止めしたことで、ロドスの主力部隊の為に時間を稼ぐことができ、最終的には目標の包囲計画を見事完遂した。
+	幾度目かの某所の源石運輸ルートの護衛中に、ロドスのセキュリティ部隊が鉱物を強奪しようとする強盗の攻撃に抵抗していた時、騎兵のポジションを担当していたグラニは自身の強みを生かし、敵への攻撃の手を緩めず、ロドスと協力して陣地反撃作戦を大成功に収めた。
+	しかしグラニの行動が問題となった時もあった。
+	山岳地区の強盗一掃作戦で、その地区の複雑な地形により、計画に従って事前に出発していたグラニと作戦小隊との連絡がつかなくなってしまった。
+	しかし、作戦小隊が任務地点に駆けつけた時、強盗達は既にグラニに撃退された後だった。
+	作戦小隊がまだ到着せずに、強盗が村への略奪をはじめた時、グラニは自発的に出撃することを選んだ。彼女はこの作戦環境下での臨時作戦計画を想定していたのだった。村の街道や家を利用して絶えず敵の背後を取り、突撃の機会を窺い、最終的に強盗に略奪をやめるよう迫った。
+	しかし、強盗から子供を救い出した時、敵がグラニを狙撃し、彼女は左肩を負傷した。
+	この一件はロドスに戻った後、オペレーター達の間で「グラニが勝手に戦闘をした一件は、作戦規定に違反しているか否か。」と討論となった。
+	確かにグラニの行為は規定に違反する部分もあったが、もし彼女が臨機応変に対応していなければ、今回の作戦は失敗していただろう。
+	つまり結果として、グラニは正しい選択を自分で作りだしたのだ。
+
+	Archive File 3 :
+	Grani has received a lot of positive feedback on her work with Rhodes Island. 
+	Grani was once part of the support team in a mission where Rhodes Island Operators were pursuing rogue mercenaries across an open plain. Grani demonstrated her incredibly mobility in this battle, successfully raiding the enemies, intercepting and trapping the main target to buy a time for her teammates. 
+	Grani has also executed Originium escort missions for Rhodes Island. During one such deployment, she fended off a large group of interceptors threatening the convoy. 
+	The list of her impressive accomplishments is long, given her lack of experience. 
+	Grani once lost contact with her combat squad while clearing brigands from a mountainous area. The complex terrain wrought havoc with their communications signals. 
+	When the squad finally found Grani, she had ran the bandits off on her own. 
+	She took the initiative when fellow Operators could not arrive before the raiders began looting a village. She devised a plan to buy time, using the town streets and houses to mitigate the attack. She eventually forced the bandits to give up. 
+	However, when she went to rescue a child kidnapped by an outlaw, she took a hit to her left arm. 
+	After returning to Rhodes Island, the Operators discussed her course of action: 'She continued pursuing the enemy, but did she violate the directives of the operation?' 
+	They came to the conclusion that while she did break some rules, without her efforts, the mission would have failed. 
+	Grani made the right call.
+
+	파일 자료 3 :
+	    오퍼레이터 그라니는 로도스 아일랜드와의 여러 차례의 협동 작전에서 긍정적인 평가를 받았다. 어느 평원 지대에서 도주 중인 용병단을 추적하는 작전 중 그라니는 두 번째 대열에서 심층 작전을 펼쳤다. 본 작전 중 그라니는 자신의 뛰어난 기동성을 발휘하여, 연이어 적들의 퇴로를 기습하고, 적 핵심 인원들의 움직임을 봉쇄하여, 로도스 아일랜드의 주력 부대에게 대량의 시간을 벌어 주어, 성공적으로 목표를 포획할 수 있었다.
+	    어떤 한 지역에서 오리지늄 운송로의 안전을 확보하는 작전에서, 로도스 아일랜드의 호위팀은 광물을 강탈하려는 강도떼를 막아내는 임무를 담당하고 있었다. 이중 기병 역할을 맡고 있었던 그라니는 자신의 이점을 활용하여 지속적으로 적 인원을 향한 돌진 공격을 가해, 로도스 아일랜드의 다른 인원들과 함께 성공적으로 적 진지를 반격하였다.
+	    다른 협동 작전에서는 의외의 사건이 발생하기도 하였다. 산악 지역의 강도를 소탕하는 작전 중 단거리 연락 신호가 복잡한 지형에 의해 막혀버려, 계획대로 사전에 출발한 그라니와 작전팀의 연락이 두절되고 만 것이다. 작전팀이 임무 수행 지역에 도달하였을 때, 침범한 강도들은 이미 그라니에 의해 격퇴된 상황이었다.
+	    동료들이 아직 도착하지 못한 상태에서 강도떼들이 이미 계획대로 마을 약탈을 시작하였을 때, 그라니는 스스로 출격하기로 결정하고, 자신을 위해 작전지에서 펼칠 임시 작전 계획을 세웠다. 마을의 거리와 건축물을 이용해 지속적으로 우회하며 기습 작전을 펼쳐, 강도떼들의 행동을 중단시킨 것이다.
+	    그러나 강도들에게 납치된 아이를 구하려 할 때, 적 스나이퍼에 의해 그라니는 왼팔에 부상을 입고 말았다. 로도스 아일랜드로 돌아온 후 오퍼레이터들은 토론회를 열어, 그라니가 독단적으로 전투를 개시한 사건이 작전 규정을 위반한 사항인지 여부에 대해 의논하였다.
+	    결론은 간단했다. 그라니의 행위는 일부 규정을 위반하긴 하였으나, 만약 당시 상황에 맞춰 임기응변 식의 대응을 하지 않았다면, 이번 작전은 실패로 끝났을 수도 있기 때문이다. 때문에, 그라니의 그 대응 방식은 정확한 선택이었던 것으로 결론이 났다.
+
+———————————————————————————————
+
+	档案资料四 :
+	干员格拉尼，她需要成长，需要更多的战斗，这能弥补她经验的欠缺，进而提升她对战局的掌控能力。当然，她还必须强化自己的体质。
+	相较她的同龄人，格拉尼确实已经具备了一些优势。但这些仍不足够。
+	干员格拉尼理应在今后接受更多的挑战。凭她现在的能力，很难亲手实现自己的愿望。
+	她面对着许多困难，而你，也不能阻止她投身险境。这是她的必经之路。
+	但她不会放弃，无论如何都不会。
+	只有这点，我再清楚不过了。
+	
+	——干员临光
+
+	第四資料 :
+	グラニ、彼女には成長と戦闘経験を数多く積むことが必要だ。そうすれば彼女は経験不足を補うことができ、戦局時のコントロール能力も上昇する。当然、自身の身体能力の強化も必須だ。
+	同年代と比べ、確実にグラニは強いが、まだ十分とは言えない。
+	グラニは今後も更に多く挑戦をするべきだ。現在の能力のままだと、彼女の夢を実現させるのは難しい。
+	彼女がこれから多くの困難に立ち向かうことを止めてはいけない。これは彼女が通るべき道なのだから。
+	無論、何があったとしても彼女は諦めないだろう。
+	これだけは、何よりもはっきりと言える。
+	
+	――オペレーターニアール
+
+	Archive File 4 :
+	Grani needs to gain more practical combat experience. It would help her to have more control over her engagements. She must also build up her physical strength. 
+	Grani has some advantages over her peers, but they are insufficient. 
+	I hope to see her deployed on more operations. At her current level, she will have a hard time reaching her goals. 
+	She faces many challenges, but she must not be kept out of danger. It's her life. 
+	She won't give up, no matter what. 
+	That's the only thing I worry about.
+	
+	--Nearl
+
+	파일 자료 4 :
+	    오퍼레이터 그라니는 더 많은 전투와 성장이 필요하다. 이것이 그녀의 경험 부족 문제를 해결할 수 있을 것이며, 그녀의 전황 관리 능력도 향상시킬 수 있을 것이다. 물론 그녀는 자신의 체질도 더 강화시켜야 할 것이다.
+	    같은 연령대의 사람들과 비교했을 때 그라니는 확실히 이미 어느 정도 우세한 능력을 보유하고 있지만, 이것들만으론 아직 부족하다. 오퍼레이터 그라니는 앞으로 더 많은 도전을 해야 할 것이다. 지금의 능력에만 의존해서는 자신의 꿈을 실현할 수 없을 것이다. 그녀는 많은 어려움에 맞서고 있는데, 그녀가 위험을 감수하려 하는 걸 막아선 안된다. 이건 그녀가 반드시 이겨내야 하는 부분이니까.
+	    하지만 그녀는, 어떠한 어려움이 있더라도 포기하지 않을 것이다. 이것만은 확신할 수 있다.
+	
+	——오퍼레이터 니어
+
+———————————————————————————————
+
+	晋升记录 :
+	格拉尼的骑兵枪
+	生产地：维多利亚伦蒂尼姆市海布里区皇家戴尔兵工厂
+	产品编号：L-886
+	总长度：1.58m/3.03m
+	干员格拉尼使用的轻骑枪，武器整体设计为折叠式，展开前可作为战术短枪使用，展开后可作为标准轻骑长枪发动冲锋。
+	作为警用制式长枪，虽然威力不足以穿透重甲，但灵活运用的话会让任何小视它的人付出惨重代价。
+	相对于干员格拉尼略为单薄和小巧的身体，这把长枪显然过大了。从各种方面来说都属于不太相趁的武器。
+	但格拉尼本人相当喜爱这把长枪，并且为熟练操使它而付出了大量的努力。
+
+	昇進記録 :
+	グラニのランス
+	産地：ヴィクトリア王国ロンディニウム市ハイベリー地区ロイヤルデール工廠
+	品番：L-886
+	サイズ：158cm/303cm
+	オペレーターグラニが使用するランスは折り畳み式になっており、普段は短槍として使うことができ、展開させると長槍として攻撃することができる。
+	これは警官用として作られた長槍で、重装甲を突き通す威力はないものの、この槍を軽視した者は酷い目に遭うことになるだろう。
+	グラニのやや小柄な体と比べれば、この長槍は明らかに大きすぎるが、
+	本人はこの長槍にかなり愛着を持っており、使いこなす為に相当な努力をしている。
+
+	Promotion Record :
+	Grani's Cavalry Pike 
+	Manufacturer: Royal Dell Arsenal, Highbury, Londinium, Victoria. 
+	Product Code: L-886 
+	Length: 1.58m-3.03m 
+	Grani's light rifle has a collapsible design and can be used as a short spear before unfolding. It also folds out to a standard light rifle. 
+	As a police weapon, it cannot penetrate heavy armor, but is able to inflict serious damage to anyone who underestimates it. 
+	The pike is humorously out of proportion to Grani's small stature and thin frame. It does not appear well suited to her. 
+	Still, Grani loves her pike and has trained extensively with the weapon.
+
+	승진 기록 :
+	그라니의 기병창
+	- 생산지: 빅토리아 런디니움 시 하이베리 구 로열 델 병기 공장
+	- 모델 넘버: L-886
+	총길이: 1.58m/3.03m
+	    오퍼레이터 그라니가 사용하는 경량 기병창. 접이식 디자인으로써, 펼치면 표준 경량 기병창으로써 사용할 수 있다. 경찰용 제식 장창이라 중장갑을 꿰뚫기에는 위력이 다소 부족하지만, 민첩하게 운용한다면 그녀를 얕잡아본 적들에게 본떼를 보여줄 수 있다.
+	    왜소한 그라니의 체구에 비교했을 때 이 장창은 너무 크기에, 다방면으로 고려했을 때 그다지 적합한 무기라고 볼 수는 없다.
+	    하지만 그라니 본인은 이 장창을 매우 마음에 들어 하며, 이 무기를 숙련되게 다룰 수 있도록 엄청난 노력을 쏟아부었다.

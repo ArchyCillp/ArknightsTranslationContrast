@@ -1,11 +1,17 @@
 ID:
 	char_196_sunbr
 
-干员代号\Name:
+CV:
 	古米
 	グム
 	Gummy
 	굼
+
+干员代号\Name:
+	高森奈津美
+	高森奈津美
+	Natsumi Takamori
+	타카모리 나츠미
 
 招聘合同\Character Usage:
 	罗德岛重装干员古米，在保护同伴的同时，治疗他们的伤口。
@@ -43,177 +49,336 @@ ID:
 	야외 취사
 
 语音\Voices:
-	博士博士，您是不是饿了？嘿嘿，老远就听到您肚子叫呢，像打雷一样~
 	ドクタードクター！今腹ペコでしょ？へへ、遠くからでも聞こえちゃったよ。雷みたいに響くドクターのお腹の音～。
 	Hey, Doctor! You hungry? I heard your stomach growling from a mile away! It sounded like thunder!
 	박사 박사~! 배 많이 고프지? 헤헤, 멀리서도 다 들린다구. 천둥처럼 울리는 박사의 꼬르륵 소리~
 
-	这个盾牌？轻轻松松就能举起来哦。嘿~咻~看呀！欸，我能好好举住，不会让它掉下来的，您不躲那么远也没关系的啦~
 	この盾？かるーく持ち上げられるよ～。よい～しょっ！ほらね！あ、落としたりなんてしないから、そんなに逃げなくても大丈夫だよ～。
 	My shield? I can lift it easily! Here we... go! There, look! Relax, I'm not gonna drop it or anything, so don't run away!
 	이 방패? 가볍~게 들고 다닐 수 있어, 영~차! 봐봐! 아, 떨어뜨리거나 하진 않으니까 그렇게 도망 안 쳐도 돼~
 
-	破坏了我们城市的坏人，一个都不能原谅！我要用这个平底锅，把他们全都拍扁！
 	町を壊した悪い人たち、やっぱり許せない！グムが全部このフライパンで、やっつけるんだから！
 	Those baddies wreaking havoc in our city... unforgivable! I'll smash them with my frying pan!
 	마을을 망가뜨린 사람들, 역시 용서 못 하겠어! 굼이 전부 프라이팬으로 혼내줄 거야!
 
-	凛冬姐说她会保护好古米，真是太小看我啦！大家一起逃跑的时候，可是古米一直在用这面盾牌保护大家的！欸，不是盾牌，是金库的保险门？连博士都这么说！
 	ズィマーお姉ちゃんは、グムのこと守るって言うんだけど、グムを甘く見すぎ！ここに逃げる途中、グムはこの盾で何度もみんなを守ってるんだよ！え、盾じゃなくて扉？そんなわけないでしょう！もう、ドクターまでそんなこと言って！
 	Zima said she'll protect me, but I don't need to be babysat! I kept everyone safe with my shield tons of times on our way to this place! What? This isn't a shield, it's a vault door? No it isnnnn't! I can't believe even you're calling it that!
 	지마 언니는 굼을 지켜주겠다고 하는데, 굼을 너무 얕보는 거 같아! 여기로 도망치던 도중에 굼이 이 방패로 몇 번이나 모두를 지켜줬는걸! 에? 방패가 아니라 문짝 아니냐고? 그럴 리 없잖아! 정말, 박사까지 그러기야?
 
-	博士，想不想见识下古米烧菜的手艺？欸嘿嘿~马上您就能尝到了哦，因为古米已经向可露希尔姐姐提交了申请，只要她同意的话，古米就可以在食堂帮厨了哦！
 	ドクター、グムの作った料理が食べたいの？えへへ、もうすぐできるよ。グムね、クロージャのお姉ちゃんに、支援部食堂のバイトを申請したんだ！
 	Doctor, you wanna have a taste of my cooking? Hehehe, soon you'll be able to. I asked Closure if I could take up duty in theSupport Unit's cafeteria!
 	박사, 굼이 만든 요리가 먹고 싶어? 에헤헤, 조만간 먹게 될 거야. 굼이 말이지, 클로저 언니한테 후방 지원부 식당 알바 신청했거든!
 
-	锵锵——！古米特制，煎蛋肉排哦！怎么样？很好吃吧？嘿嘿，虽然很难在战斗中掌握火候，不过平时的我是绝对不会失误的！
 	じゃーん！グム特製、ベーコンエッグだよ～。どう？美味しい？えへへ、戦闘中の火加減は難しいけど、普段はバッチリだからね！
 	Tadaaah! Here comes Gum's specialty: bacon and eggs! So, do you like it? Ehehehe! I can't control how rare it gets on the battlefield, but it normally turns out perfect!
 	짜잔~! 굼 특제 베이컨 에그야~ 어때? 맛있지? 에헤헤, 전투 중엔 불 조절하기가 어렵긴 해도, 평소에는 문제없다구!
 
-	我们五个人，并不是从开始就在一起的呢。
 	グムたち五人はね、最初から一緒にいたわけじゃないんだよ。
 	Me and the other 4 haven't always been a group, you know.
 	굼네 다섯 명은 있지, 처음부터 같이 있었던 건 아니야.
 
-	古米看起来很开心吗？其实，看到那样的景象之后，没人能高高兴兴地生活下去......只是，为了让姐姐们能早点忘记那些乱七八糟的事情，古米必须要振作起来！
 	グムはいつも楽しそうって？本当はね、あんな光景を見てたら、楽しくなんてできるわけないよ……でも、お姉ちゃんたちにあの辛い過去を早く忘れてほしいから、グムはいっぱい笑ってあげなきゃ！
 	Why am I always so cheery? Actually... after the things I've seen... how could I possibly be cheery... But I want my friends to forget about all that awful stuff, and I need to smile a whole bunch to make that happen!
 	굼은 늘 즐거워 보인다고? 원래는 말이야, 그런 광경을 보고 나면 도저히 즐겁게 있을 수가 없거든… 그래도 언니들이 그 괴로운 과거를 빨리 잊어줬으면 하니까, 굼이 잔뜩 웃어야 돼!
 
-	古米......也想找到爸爸妈妈，想了很多次了，可是，如果现在古米离开大家的话，也许真的什么都做不到......所以，拜托博士！古米不想只是给大家准备食材，也想学会怎么战斗！
 	グムね……本当は何度もお父さんやお母さんを探しに行こうと思ったんだ……。でもね、もし今みんなから離れたら、グム、なんにもできなくなる気がするんだ……。だから、ドクターお願い！グムに食事の支度だけじゃなくて、戦い方も教えて！
 	I... I miss my parents, and I do want to find them. I think about it all the time... but if I leave now, I don't think I can accomplish anything by myself... so... Doctor, could you please teach me to fight? I don't want to be known as the girl who spends all her time in the kitchen!
 	굼은 있잖아… 사실은 몇 번이나 아빠나 엄마를 찾으러 가려고 했었거든… 근데, 혹시 지금 모두를 떠나게 되면 굼은 아무것도 못할 것 같은 느낌이 들더라고… 그니까 박사, 부탁할게! 굼한테 식사 준비뿐만이 아니라, 싸우는 법도 배울 수 있게 해줘!
 
-	博士，睡着了吗？那我读一会儿闲书的话，应该不算偷懒吧？
 	……ドクター、寝ちゃった？ちょっとだけここで本読んでても、サボりにはならないよね？
 	Are you sleeping, Doctor? In that case it won't be considered slacking off if I sit around and read a bit, right?
 	……박사, 잠들었나? 여기서 잠깐 책 읽고 있어도 땡땡이친다 뭐라 하진 않겠지?
 
-	我是古米！您就是博士吗？感谢您和罗德岛的大家一起帮助了我们！古米没有特别的能力，但只要是能做到的就一定竭尽全力！就让古米成为博士的力量吧！
 	グムっていうの！キミがドクターだね～？ロドスのみんなと一緒にグムたちを助けてくれたこと、本当に感謝してるよ！グムに特別な力はないけど、できることは精一杯やって、ドクターの力になるよ！
 	My name's Gummy! You must be the Doctor. Thank you and everyone from Rhodes Island for helping us! I don't have any special skills, but I'll do what I can as good as I can!
 	굼이라고 해! 당신이 박사지~? 로도스 아일랜드 사람들이랑 같이 굼이랑 동료들을 구해준 거, 정말 감사하고 있어! 굼한테 특별한 능력은 없지만, 최대한 열심히 노력해서 박사의 힘이 되어줄게!
 
-	力量涌出来啦！说不定现在古米连博士都能举起来？
 	力が湧いてきたよ！これならドクターだって持ち上げられるかも？
 	I can feel my power surging! I might even be able to lift you up, Doctor!
 	힘이 넘쳐흘러! 이 정도면 박사라 해도 들어 올릴 수 있을지도?
 
-	晋升之后，古米就是罗德岛三星大厨了吧？开玩笑的，欸嘿嘿~
 	昇進したら、グムはロドスの三つ星シェフかな？なんちゃって、えへへ～。
 	I'll become a three-star chef in Rhodes Island after the promotion, right? Haha, just kidding!
 	승진하면 굼은 로도스 아일랜드의 쓰리 스타 셰프가 되는 건가? 그냥 해본 말이야, 에헤헤~
 
-	其实，除了做饭之外，古米还想做更多，更多的事！不过，无论古米有没有做那些事的力量，只要博士让古米去做，古米一样会去做的！
 	本当はね、料理のほかにも、やってみたいことがたくさんあるんだ！でも、いまのグムにはそんな力ないから、ドクターの言うとおりにするよ！
 	I want to do much, much more besides cooking! I don't know if I'm strong enough to do everything you want me to, but I'll give it my all!
 	실은 있잖아, 요리 말고도 하고 싶은 게 되게 많아! 그래도, 지금 굼에겐 그런 힘이 없으니까, 박사가 하라는 대로 할게!
 
-	古米，准备完毕！
 	グム、準備完了！
 	I'm ready to go!
 	굼, 준비 완료!
 
-	欸欸欸？古米来当队长？
 	えええっ、グムが隊長なの？
 	Huh?! You're making me the leader?!
 	에에에에, 굼이 팀장이야?
 
-	博士，等我们回来哦。
 	ドクター、グムたちの帰りを待っててね！
 	You just wait for our return, Doctor!
 	박사, 우리 돌아오는 거 기다려줘!
 
-	古米才不害怕！
 	グム、怖くないよ！
 	Nope, I'm not scared!
 	굼은 무섭지 않아!
 
-	让我来！
 	グムにやらせて！
 	Let me do it!
 	굼이 하게 해줘!
 
-	选我选我！
 	グムがやる！グムがやるよ！
 	Pick me! Pick me!
 	굼이 할 거야! 굼이 할 거야!
 
-	已经就位了！
 	位置についたよ！
 	I'm ready!
 	위치에 도착했어!
 
-	古米来守护大家！
 	グムがみんなを守る！
 	I'll protect everyone!
 	굼이 모두를 지킬 거야!
 
-	古米的特制菜肴哦！
 	グムの特製料理だよ！
 	Try some of my specialty!
 	굼의 특제 요리야!
 
-	给你吃好吃的！
 	美味しいもの、食べよっ！
 	Here's something yummy for you!
 	맛있는 거 먹자!
 
-	大家肚子饿了吗？
 	みんな、お腹空いた？
 	Is everyone hungry?
 	다들, 배고파?
 
-	打起精神来！
 	元気出して！
 	Cheer up!
 	힘 내!
 
-	敌人该准备投降了吧？毕竟只要有博士在，他们就赢不了！
 	敵の人、そろそろ投降したほうがいいよね？だってドクターがいてくれれば、グムたちは絶対負けないもん！
 	The enemy should just surrender! With the Doctor on our side, they'll never beat us!
 	적들 말이야, 슬슬 투항하는 편이 좋지 않아? 박사가 있으면 우린 절대 지지 않는걸!
 
-	其实我不想做到这种地步......可是，如果不战斗的话，敌人就会伤害到我们......！
 	本当はここまで徹底的にやるつもりなかったんだ……でも戦わないと、グムたちがやられちゃうんだよ……！
 	I don't want to do this... but if we don't fight, the enemy will hurt us!
 	사실은 이렇게까지 철저하게 할 생각은 없었어… 그치만 안 싸우면, 우리가 당해버린다구!
 
-	能赢真是太好了！好开心！
 	勝ててよかったね！グム嬉しいよ！
 	Yay! We won! I'm so happy!
 	이겨서 다행이야! 굼 기뻐!
 
-	呜......大家都受伤了吗......博士呢？博士没事吧？
 	うぅ……みんなの怪我はグムがなんとかするよ……！ドクター？ドクターは大丈夫なの？
 	Ughh... I'll try to treat everyone's injuries... Doctor? Is the Doctor okay?!
 	으으…… 우리 편이 입은 부상은 굼이 어떻게든 해볼게…! 박사? 박사는 괜찮아?
 
-	哇，好大的房间，能装下好多人！
 	わーい、おっきい部屋！人がいーっぱい入れそうだね！
 	Wow, what a big room! It can fit so many people!
 	와아~ 커다란 방! 사람들 잔~뜩 들어가겠어!
 
-	哈哈哈！> <
 	あはは！
 	Ahahahahah!
 	아하하!
 
-	博士！就算古米做的菜再好吃，也不能一口气吃太多哦！那样会变重的！
 	ドクター！グムの料理がいくら美味しいからって、食べ過ぎちゃダメだからね！太っちゃうよ！
 	Doctor! I know my food tastes great, but don't eat too much of it! You'll get fat!
 	박사! 굼의 요리가 아무리 맛있어도 너무 많이 먹으면 안 돼! 살 찐다구!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，要吃点东西吗？
 	ドクター、なんか食べる？
 	Doctor, you want something to eat?
 	박사, 뭐 좀 먹을래?
+
+干员档案\Background:
+	基础档案 :
+	【代号】古米
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】乌萨斯
+	【生日】10月2日
+	【种族】乌萨斯
+	【身高】155cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】グム
+	【性別】女
+	【戦闘経験】なし
+	【出身地】ウルサス
+	【誕生日】10月2日
+	【種族】ウルサス
+	【身長】155cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Gummy
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Ursus
+	[Date of Birth] October 2
+	[Race] Ursus
+	[Height] 155cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 굼
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 우르수스
+	[생일] 10월 2일
+	[종족] 우르수스
+	[신장] 155cm 
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】普通
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】普通
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Normal
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	古米，曾取得全乌萨斯童子军活动大赛青少年组亚军，切尔诺伯格事变前于切城某中学就读。技术领域：乌萨斯式烹调。
+	于多项测试中表现出乌萨斯人与生俱来的强健力量和坚实体质，获准作为实习重装干员加入战斗，并为罗德岛提供后勤保障与战地烹饪等相关服务。
+
+	個人履歴 :
+	グムは、ウルサスボーイスカウト大会でジュニア準優勝を果たした経験がある。チェルノボーグ事変の前は城内の高校に通っていた。得意分野：ウルサス流調理。
+	多くのテスト項目にてウルサス人生来の丈夫さと力強さを見せ、重装オペレーター実習生として戦闘に参加し、さらにロドスで後方支援や戦地調理なども提供している。
+
+	Profile :
+	Gummy was once the teenage group runner-up in the Ursus Youth Scout competition. Before the Chernobog incident, she was a middle school student in the city. She is skilled in Ursus-style cooking.
+	In a number of tests, she has exhibited the strength and solid physique characteristic of most Ursus. Gummy has been approved for an internship in a squad of Defender Operators. She also provides logistical support and combat culinary services for Rhodes Island.
+
+	프로필 :
+	    과거 우르수스의 청소년부 스카우트 대회에서 준우승을 차지한 적이 있으며, 체르노보그 사태가 발발하기 전에는 체르노보그의 어느 고등학교에 재학 중이었다. 이미 여러 차례에 걸친 테스트를 통해 우르수스인 특유의 강인한 힘과 강인한 체질을 보여준바 인턴 디펜더 오퍼레이터로 전투에 투입되었으며, 본인의 우르수스식 요리 능력을 적극 활용, 로도스 아일랜드에서 후방 지원과 전장에서의 요리 업무 등을 담당하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员古米没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L 
+	干员古米内循环源石密度情况尚属良好。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	循環器系の源石密度の測定結果は比較的良好。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.12u/L 
+	This Operator's Blood Crystal Density is well within expected ranges.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 굼으로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 굼의 내순환계 오리지늄 밀도 상황 양호.
+
+———————————————————————————————
+
+	档案资料一 :
+	古米是五人中以最积极的态度试图融入罗德岛，她能熟练地将食材处理为烹饪原料，以乌萨斯人惯有的饱满气势将厨房化为不凡的战场。古米的厨艺尚不能满足其他种族与国家的习以为常的口味，也没有做出主厨出道的经验和意愿，但充满新鲜朝气的乌萨斯式烹饪已经成为罗德岛内部一道难以忘怀的风景。 
+	某日早餐菜单：雅阔列维奇红香肠（蒜香）、乌萨斯风味煮豆、松软燕麦面包、发酵酸奶等。 
+	味道真香。
+
+	第一資料 :
+	グムは五人の中で一番積極的にロドスに馴染もうとしている。彼女は食材を素早く下ごしらえ、ウルサス人の持ち前の勢いでキッチンを戦場に変える。料理の腕はまだ他の種族や国のものに慣れ親しんだ人を満足させられなく、チーフデビューの経験や意欲もないが、彼女が出すフレッシュなウルサス料理は、既にロドスの人々にとって忘れられない風景となっている。
+	ある日の朝食の献立：ヤコヴレヴィチソーセージ（ガーリック風味）、ウルサス風煮豆、オーツ麦のふわふわパン、ヨーグルトなど。
+	良い匂いだ。
+
+	Archive File 1 :
+	Of the five inductees she joined with, Gummy is the one most energetically trying to integrate into the culture of Rhodes Island. She skillfully converts ingredients into cooking materials and has used her vigorous Ursus manner to convert the kitchen into a battleground of sorts. Gummy's cooking doesn't quite satisfy the tastes of those accustomed to the food of other races and nations, and she has neither the experience nor the interest to be our main chef, but the fresh dynamism of Ursus cooking has become an irreplacable part of Rhodes Island's culinary culture.
+	One day's breakfast menu: Yakulevich red sausage (with garlic), Ursus-style boiled beans, soft oatmeal bread, and fermented yogurt. 
+	The taste is said to be exquisite.
+
+	파일 자료 1 :
+	    굼은 다섯 명 중에서 가장 적극적인 태도로 로도스 아일랜드에 적응하려 노력한 사람이다. 그녀는 능숙하게 식재료들을 자신의 요리 재료로써 사용했고, 우르수스인 특유의 원기왕성한 기세로 주방을 범상치 않은 전장 같은 곳으로 만들었다. 굼의 요리 기술은 아직 다른 종족이나 국가에서 온 사람들의 입맛까지 만족시킬 수 있는 정도는 아니기에, 장래 셰프가 되고자 하는 계획은 없지만, 생기 가득한 우르수스식 요리는 로도스 아일랜드 사람들에게 깊은 인상을 남기기 충분했다.
+	    어느 날의 아침 메뉴: 야코블레비치 소시지(마늘향), 우르수스식 삶은 콩, 부드러운 오트밀 빵, 요구르트 등.
+	    맛이 정말 좋다.
+
+———————————————————————————————
+
+	档案资料二 :
+	古米活泼、善良、心思单纯，她总是会发自内心地表露出，希望大家都能获得幸福的真挚情感。 
+	古米信任首领凛冬，积极为自治团内营造欢腾的气氛，竭力消除切尔诺伯格事变对乌萨斯学生们造成的困顿不安。古米坚信以行动融入罗德岛的氛围是正确的选择，并对每一位罗德岛干员均表现出友好的态度。 
+	由医疗组派遣的心理辅导专员证实了一些事前猜测：古米正试图以工作与接触作为消解恐惧记忆的方式。而在数次咨询谈话中，古米没有透露有关切尔诺伯格事变期间，学生自治团成员们所经历过的事情。
+
+	第二資料 :
+	グムは活発で単純、心優しい。いつも心から皆の幸せを願う気持ちをあらわにしている。
+	リーダーのズィマーのことを信頼しており、自治団のムードメーカーとして、チェルノボーグ事変の後不安なウルサスの学生たちを一生懸命元気づけている。行動こそロドスになじむための然るべき選択だと信じ、ロドスの皆に友好的な態度を示している。
+	医療チームから派遣された心理カウンセラーにより確認されたのは、グムは仕事や他人への接触によって怖い記憶を消そうとしていることだ。しかし数回のカウンセリングの間、彼女はチェルノボーグ事変で学生自治団の学生たちの経験について、ずっと口を閉ざしたままだった。
+
+	Archive File 2 :
+	Gummy is lively, kind, and pure. She always speaks from the heart and has a genuine desire to please everyone. 
+	Gummy trusts her leader, Zima, implicitly. She has actively tried to create a jubilant atmosphere for the Ursus Student Self-Governing Group and has tried to put to rest some of the unease the Ursus students have felt since the Chernobog incident. Gummy firmly believes that integrating into Rhodes Island is the proper course of action and is amiable towards all of Rhodes Island's Operators. 
+	Psychological counselors sent by the medical team have confirmed a hypothesis: Gummy is working and making connections as a way of managing her anxiety. Over several consultations, Gummy has not yet disclosed what the other members of the student union experienced during the Chernobog incident.
+
+	파일 자료 2 :
+	    굼은 활발하고, 선량하며, 생각이 단순한 편이다. 그녀는 늘 진심으로 모두가 진실된 행복을 누릴 수 있길 희망한다고 말하며, 리더 지마를 몹시 신뢰한다. 적극적으로 학생자치단 내에서 즐거운 분위기를 조성하며 체르노보그 사태가 우르수스 학생들에게 가져온 불안감과 고달픔을 덜어주기 위해 최선을 다하였다. 굼은 로도스 아일랜드에 합류한 것이 옳은 선택이라고 굳게 믿고 있으며, 모든 로도스 아일랜드 오퍼레이터들을 우호적 태도로 대하고 있다.
+	    의료부로부터 파견된 심리 상담원은 굼이 업무 처리와 새로운 만남을 시도하는 방식을 통해 과거의 공포스런 기억을 지우려 하고 있다고 추측하였는데, 이 추측은 이후 상담을 통해 맞는 것으로 확인하였다. 다만 수차례의 상담을 진행하였음에도, 굼은 여전히 체르노보그 사태 때 학생자치단원들이 겪었던 일들에 대해 어떠한 이야기도 하지 않고 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	古米出生于乌萨斯帝国切尔诺伯格市，其父母目前均在外就职。古米曾参与切尔诺伯格本地童子军组织，并在若干主题活动与竞赛中取得优异成绩。有理由相信，古米极强的生存能力和救护本领，正是基于这一段经历。 
+	在古米加入罗德岛初期，她的身上随身携带着各式各样的装备，均由事变期间在各处废墟中寻得。
+
+	第三資料 :
+	グムはウルサス帝国チェルノボーグ市生まれ、両親とも市外で在職中。チェルノボーグのボーイスカウトに参加していた経験があり、数回のテーマイベントやコンテストで優秀な成績を収めた。確信できるのは、彼女の強い生存能力と救急のスキルはこれらの経験を生かした結果である。
+	グムがロドスに加入した当初、様々な装備を身につけて持ち歩いていたが、これら全部は事変の間に廃墟で集めたものである。
+
+	Archive File 3 :
+	Gummy was born in the city of Chernobog in the Empire of Ursus. Her parents are currently employed elsewhere. Gummy participated in Chernobog's local Youth Scout group and achieved outstanding results in its events and competitions. There is reason to believe that Gummy's survival and rescue skills have their roots in this experience. 
+	When Gummy first joined Rhodes Island, she carried all kinds of equipment that she had found in ruins following the Chernobog incident.
+
+	파일 자료 3 :
+	    굼은 우르수스 제국 체르노보그시에서 태어났으며, 양친은 모두 타 지역에서 근무 중이다. 굼은 과거 체르노보그 현지 스카우트 조직에 참여했었고, 여러 주제의 이벤트와 대회에서 우수한 성적을 획득하였다. 굼의 뛰어난 생존 능력과 구호 기술은 바로 스카우트에서 익힌 것이라 볼 수 있다. 로도스 아일랜드에 합류한 초창기에 그녀는 다양한 장비를 휴대하고 있었는데, 이는 대부분 체르노보그 사태가 일어났을 때 폐허 속에서 건진 것이라 한다.

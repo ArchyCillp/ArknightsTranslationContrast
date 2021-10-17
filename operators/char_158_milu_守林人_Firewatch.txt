@@ -1,11 +1,17 @@
 ID:
 	char_158_milu
 
-干员代号\Name:
+CV:
 	守林人
 	ファイヤーウォッチ
 	Firewatch
 	파이어워치
+
+干员代号\Name:
+	卢婷
+	ルゥ ティン
+	Ru Thing
+	루팅
 
 招聘合同\Character Usage:
 	罗德岛狙击干员守林人，隐藏在掩体间伺机待发。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	她什么时候才能笑呢，哪怕咧咧嘴也好啊......
 	いつ笑うのだろう。少しくらい口角をあげてもいいのに…
-	When will she smile for us? Even the faintest one…
+	When will she smile for us? Even the faintest one...
 	그녀는 대체 언제쯤이면 웃을 수 있을까? 입꼬리라도 올라가면 좋을 텐데……
 
 信物\Potential Item:
@@ -43,177 +49,392 @@ ID:
 	전술 무전
 
 语音\Voices:
-	我正在警戒四周，没有问题。
 	周辺の警戒は私が行っている。問題ない。
 	I'm keeping an eye on our surroundings. So far everything seems fine.
 	주변의 경계는 내가 맡고 있으니 문제없다.
 
-	一些注视着你的视线是饱含恶意的。即使在罗德岛，您也并不安全。
 	あなたに向けられる視線には、悪意を含んだものもある。ロドスにいるとはいえ、安全とはいえない。
 	You should know that some of those eyes on you hold nothing but malice. You're not safe, not even at Rhodes Island.
 	당신에게 향하는 시선 중에는 악의를 품고 있는 것도 있다. 로도스 아일랜드에 있다곤 하지만, 안전하다고 할 순 없어.
 
-	没必要害怕那些阴影中的敌人，这些罪人无论用什么方法躲藏，都欺骗不了我的眼睛。
 	見えない敵に怯える必要はない。罪人たちがどこに潜んでいようと、私の目は欺けない。
 	Don't be afraid of those hostiles hiding in the shadow. No matter how those criminals try to hide, they can't escape my eyes.
 	보이지 않는 적을 겁낼 필요는 없어. 죄인들이 어디에 숨어있다 해도, 내 눈은 속일 수 없어.
 
-	即使牺牲我的生命，也一定要完成这次复仇。
 	私の復讐……この命を犠牲にしても、必ずやり遂げる。
 	I'll have my revenge... even if I must lose my life for it.
 	나의 복수…… 이 목숨을 희생한다 해도, 반드시 해내겠어.
 
-	我的族人和朋友，都葬身在故乡的森林里。只有落叶能掩埋他们。
 	家族も友人も、みな故郷の森で命を落とした。それを弔ったのは……森の木々が手向けた落ち葉だけだった……。
 	My clan, my friends, they all perished in the woods of our hometown... The only ones who mourned them were the trees, which gave unto them their leaves.
 	가족도 친구도, 모두 고향에 있는 숲에서 목숨을 잃었다. 그걸 애도해준 건…… 숲의 나무들이 바쳐준 낙엽뿐이었지…… 
 
-	这把弩是为了审判罪人制造的。终有一天，我要用它降下最后的裁决。
 	このクロスボウは、罪人を裁くために作りあげた。いつか私が、奴らに最後の審判を下すために――。
 	This crossbow is manufactured for the sole purpose of punishing sinners. The day will come when I use it to pass my final judgement on those who deserve it.
 	이 크로스보우는 죄인을 단죄하기 위해 만든 거다. 언젠가 내가 녀석들에게 최후의 심판을 내리기 위해서…… 
 
-	陨星。她曾经是我的朋友。我的故乡被摧毁的那天，只有我们几个人设法逃了出来。
 	メテオリーテ……私のかつての戦友だ。故郷が滅んだとき、私たち数人だけがどうにか逃げ延びたんだ。
 	Meteorite... we used to be friends. On the day my hometown was destroyed, we were part of the small group that managed to escape.
 	메테오라이트…… 내 예전 전우다. 고향이 소멸되었을 때, 우리 몇 명만 가까스로 도망쳐 나올 수 있었지.
 
-	我一直在找那个告密者，把叛军引向故乡的罪人......会是陨星吗？不，我、我不认为是她——
 	例の裏切り者をずっと探している。反乱軍を故郷へと引き入れた罪人は……まさかメテオリーテ？いや、か、彼女のはずが――。
 	Since then, I've never stopped searching for the traitor who led the rebel army to our town. Could it be Meteorite? No, I don't think so...
 	예전의 그 배신자를 계속 찾고 있다. 반란군을 고향에 끌어들인 죄인은…… 설마 메테오라이트? 아니야, 그, 그녀일 리가…… 
 
-	——我睡着了？抱、抱歉，最近巡逻的时间增加了......不，即使您说没关系也......谢谢您的关心。
 	――眠っていたのか？す、すまない……最近、巡回の時間が長くなってしまってな……いや、平気だと言われてもな……気遣い、感謝する……。
 	...Oh, did I fall asleep? S-sorry, I've been spending more time patrolling these days, so... It's fine, you say? But... um, thank you for caring.
 	…… 잠들었었나? 미, 미안하군… 요즘, 순찰 시간이 길어져서 말이야… 아냐, 괜찮다고 말해줘도… 마음 써줘서 고마워…… 
 
-	我想稍微睡一下......
 	……私も……少し眠い……。
 	I'd like to take a nap...
 	…… 나도…… 조금 졸립군…… 
 
-	狙击手守林人。为了复仇，我需要强大力量的帮助。
 	狙撃手のファイヤーウォッチだ。私の復讐のため、力を貸して欲しい。
 	Firewatch here. I'm a sniper. To avenge my fallen clan, I need all the power I can get.
 	저격수 파이어워치다. 내 복수를 위해, 힘을 빌려줬으면 한다.
 
-	我需要更多的力量。
 	もっと力が必要だ。
 	I need more power...
 	힘이 더 필요해.
 
-	感谢您的任命。
 	ありがたく、拝命する。
 	Thanks for appointing me to this position.
 	감사히 명을 받지.
 
-	任命，感谢。从今以后，也请将我的力量用于正途，否则......
 	任命、感謝する……。これからも、私の力は適切に使ってくれ。そうでないと……。
 	Thank you for the promotion. I hope you'll keep using my powers for the right thing. But if you won't...
 	임명에 감사한다…… 앞으로도, 내 힘을 적절한 곳에 써줘. 그렇지 않으면… 
 
-	组队完成。
 	編成完了。
 	The team is complete.
 	편성 완료.
 
 	了解。
-	了解。
 	Got it.
 	알겠다.
 
-	全体干员出击。
 	総員出撃。
 	All Operators, get ready!
 	전원 출격.
 
-	发现敌情，立即采取行动。
 	敵を捕捉。直ちに行動に移る。
 	Enemies spotted. Taking action at once.
 	적을 포착했다. 즉각 행동에 옮기겠다.
 
-	了解。
 	了解した。
 	Got it.
 	알겠다.
 
-	请下达指令。
 	指令を。
 	Awaiting instructions.
 	명령을.
 
-	现在进行索敌。
 	これより索敵を行う。
 	On the lookout for enemies.
 	지금부터 수색을 진행하겠다.
 
-	到达目标地点。
 	目標地点に到着。
 	Arrived at target location.
 	목표지점에 도착했다.
 
-	援护。
 	援護する。
 	Supporting.
 	엄호한다.
 
-	瞄准。
 	照準。
 	Aiming...
 	조준.
 
-	发射。
 	発射。
 	Fire!
 	발사.
 
-	开火！
 	ファイヤー。
 	Fire!
 	격발.
 
-	我会一直走下去，直到彻底实现复仇那天。
 	私は止まらない。復讐を果たすまでは。
 	I'm not done until I have my revenge...
 	난 멈추지 않아. 복수를 끝낼 때까지는.
 
-	作战结束。歼灭了所有目标。
 	作戦完了。全目標の掃討を確認。
 	Operation over. All targets eliminated.
 	작전 완료. 전 목표 토벌 확인.
 
-	战斗结束。有必要确认残余敌人的情况。
 	戦闘終了。残敵確認の要あり。
 	Battle over. Commence search for surviving hostiles.
 	전투 종료. 남은 적 확인 요망.
 
-	马上撤退......
 	直ちに撤退する……。
 	Retreating... immediately...
 	지금 당장 퇴각한다…… 
 
-	不习惯热闹的房间......
 	にぎやかな部屋には慣れないものだ……。
 	I'm not used to being in a room with so many people...
 	활기찬 방은 익숙치 않은데…… 
 
-	啊......
 	ひゃっ……。
 	Whah?!
 	하앗…… 
 
-	那个，摸我的角的话，有点为难......很痒......
 	あの、角を触られると、その、困る……くすぐったい……。
 	Uh, please don't touch my antlers... it tickles...
 	저기, 뿔을 만지면, 저기, 좀 곤란해…… 간지러워…… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	嗯？博士啊。
 	ん…ドクターか。
 	Huh? Doctor.
 	음… 박사인가.
+
+干员档案\Background:
+	基础档案 :
+	【代号】守林人 
+	【性别】女 
+	【战斗经验】五年 
+	【出身地】未公开 
+	【生日】未公开 
+	【种族】埃拉菲亚 
+	【身高】158cm 
+	【矿石病感染情况】 
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ファイヤーウォッチ
+	【性別】女性
+	【戦闘経験】五年
+	【出身地】非公開
+	【誕生日】非公開
+	【種族】エラフィア
+	【身長】158cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Firewatch 
+	[Gender] Female 
+	[Combat Experience] 5 years 
+	[Place of Birth] Unknown 
+	[Date of Birth] Unknown 
+	[Race] Elafia 
+	[Height] 158cm 
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 파이어워치
+	[성별] 여
+	[전투 경험] 5년
+	[출신지] 미공개
+	[생일] 미공개
+	[종족] 엘라피아
+	[신장] 158cm
+	[광석병 감염 상황]
+	 의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	守林人，出身不详，于卡西米尔-乌萨斯边境地区作战多年，推测身份：游击队员。在伏击、远程狙击、散兵战术、流动战术等非对称作战中展现出深厚经验。 
+	现于罗德岛狙击小组任职，提供射击援护方面的保障服务。
+
+	個人履歴 :
+	ファイヤーウォッチの出身地は不明。カジエミーシュとウルサスの辺境地区で何年も戦っており、遊撃隊員だったものと思われる。待ち伏せ、遠距離狙撃、散兵戦、流動戦など、様々な非対称型作戦でそれらの経験の豊富さを発揮した。
+	現在ロドスの狙撃小隊に所属しており、援護射撃を行う。
+
+	Profile :
+	Firewatch comes from unknown origins. She fought for many years on the border between Kazimierz and Ursus. It is suspected that she was a guerrilla during this time. She shows deep experience in asymmetric operations like ambushes, sniping, unconventional tactics, and mobile tactics.
+	She currently works as part of the Rhodes Island sniper group to provide protection services.
+
+	프로필 :
+	    출신 불명. 카시미어-우르수스의 국경 지대에서 다년간 작전을 펼친 경험이 있으며, 유격대원으로 활동했을 것이라 추측된다. 매복 공격, 장거리 저격, 산개 작전, 게릴라전 등 비전면전에서 매우 능숙한 움직임을 보인다. 현재 로도스 아일랜드 스나이퍼 팀에서 근무 중이며, 사격 엄호 방면의 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。 
+	
+	【体细胞与源石融合率】0% 
+	干员守林人没有被源石感染的迹象。 
+	
+	【血液源石结晶密度】0.08u/L 
+	干员守林人甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.08u/L
+	源石に接触する機会はほとんどない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.08u/L 
+	This Operator has rarely come into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 파이어워치로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.08u/L
+	오퍼레이터 파이어워치는 오리지늄과의 접촉 횟수가 매우 적음
+
+———————————————————————————————
+
+	档案资料一 :
+	干员守林人身上具备常人对狙击手的一切想象：稳定、专注、冷静，而且极为果决。但相对而言，守林人却不是一位冷酷无情的杀手，只是很少有人能体察出她在“复仇”这一目标之外，也会暗暗地对许多事物流露出自己的感情。 
+	只是无论何时，守林人都将外露的感情视为一种软弱的表现。而为了她的“复仇”，她再也不能变得软弱。
+
+	第一資料 :
+	ファイヤーウォッチには狙撃手にとって必要なものの全ての要素が備えられており、安定さ、集中力、冷静さ、極めて合理的な決断力がある。しかしファイヤーウォッチはただの冷酷な殺し屋ではない。その証拠にごくわずかな人は彼女に「復讐」以外の感情があることに気づくことができる。
+	「復讐」のために戦うファイヤーウォッチにとって、表に出る感情は一種の軟弱さである。「復讐」のために、これ以上軟弱になるのは許されないことである。
+
+	Archive File 1 :
+	Firewatch is everything a normal person would expect a sniper to be: steady, focused, cool-headed, and exceedingly firm. On the other hand, however, Firewatch is not a cold-blooded killer. It's just that very few people get the opportunity to see her show an emotion other than 'vengeance.' 
+	Firewatch regards any display of emotion as weakness. And in order to get her revenge, she can never allow herself to become weak.
+
+	파일 자료 1 :
+	    안정감, 집중력, 냉정함, 그리고 결단력까지, 파이어워치는 보통 사람이 '저격수'라고 하면 으레 떠올릴 모든 조건을 갖추고 있지만, 사실 파이어워치는 그렇게 냉혹하고 무정한 킬러는 아니다. 단지 아주 극소수의 사람들 만이 그녀가 '복수' 말고 다른 일에도 알게 모르게 자신의 감정을 드러낸다는 사실을 눈치챘을 뿐… 파이어워치는 자신의 감정을 노출하는 것을 일종의 나약함의 표현이라 여긴다. 그녀의 '복수'를 위해서라도, 그녀는 두 번 다신 나약해지지 않겠다고 다짐하고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	人们面对守林人，往往会觉得自己在面对一座森林。 
+	弓弦振动，箭矢飞鸣，这是守林人小姐无声的话语，就仿佛风吹过森林的时候，摩擦的枝叶所发出的幽声。 
+	鉴于守林人小姐对自己过去守口如瓶，因此笔者无缘通过她的故事来了解她。 
+	但声音是不会出错的。很多人都未曾注意过这一点——人人都有自己独特的声音，有时从喉中发出，有时也从心中发出。 
+	守林人小姐心中的声音，来自于森林。而且来自于森林的最深处。 
+	只有最深处，才能听到这些静寂却又震耳欲聋的幽声。 
+	守林人小姐曾说过，她的族人和朋友，全都葬身在那里。 
+	究竟......她经历过什么呢......？
+
+	第二資料 :
+	人々はファイヤーウォッチと相対すると、自分が森に放り出されたかのような感覚に陥るという。
+	これは風が森に吹き渡る時に枝や葉を揺らす音のような、弓の弦の震動や矢を放つ音と言ったファイヤーウォッチの声なき言葉である。
+	ファイヤーウォッチは頑なに自身の過去に対して口を閉ざすため、彼女の過去を知ることはできない。
+	しかし、音は正直である。ある時は喉から発せられ、またある時は心の中から発せられる。多くの人はその音が一人一人それぞれに独特な音を持つことに気付いていない。
+	ファイヤーウォッチの心の声は、森の最も奥深い場所に由来し、そこでしか、この静寂でありながら響き渡るような音を聞くことができない。
+	ファイヤーウォッチはかつて、自身の一族や友人達が皆森の奥で命を落としたと話したことがある。
+	一体……彼女の過去に何があったのだろうか？
+
+	Archive File 2 :
+	People who have come face-to-face with Firewatch have felt as though they were coming face-to-face with a forest. 
+	The bowstring shakes and the arrow whistles through the air. This is Firewatch's wordless language, like the leaves and the branches rubbing together as the wind blows through the forest. 
+	Firewatch is tight-lipped when it comes to her past. I have not had an opportunity to learn more about her through her stories. 
+	But voices do not make mistakes. Something many people have missed - everyone's got their own unique voice. Some voices come from the throat; others come from the heart. 
+	The voice in Firewatch's heart comes from the forest. Moreover, it comes from the deepest depths of the forest. 
+	Only in the deepest part of the forest can you hear the quiet and yet deafening silence. 
+	Firewatch once said that the people of her race and her friends are all buried there. 
+	Just what has she been through?
+
+	파일 자료 2 :
+	    사람들은 파이어워치를 대면할 때 종종 자신이 마치 어떤 한 숲을 마주하고 있는 듯한 느낌을 받는다고 말한다. 진동하는 활시위와 울음소리를 내며 날아가는 화살, 이것은 파이어워치가 전하는 무언의 대화였고, 마치 바람이 숲을 통과할 때 나뭇가지와 나뭇잎을 스치며 내는 우아한 소리와 같았다.
+	    파이어워치 씨는 자신의 과거에 대해 조금도 털어놓지 않아, 필자는 그녀의 이야기를 통해 그녀를 이해할 수는 없었지만 소리는 틀릴 수가 없는 법. 의외로 많은 사람들이 이 점에 대해 관심을 두지 않는다. 사람은 모두 자신만의 독특한 소리를 갖고 있다. 그 소리는 때로는 목을 통해서 나오기도 하고, 때로는 마음을 통해서 나오기도 한다. 파이어워치의 마음의 소리는 '숲'으로부터 온 것이다. 그것도 숲속의 아주 깊은 곳에서 말이다. 그렇기에 가장 깊은 곳에서만 이런 고요하면서도 귀를 먹먹하게 만들 만큼의 무게감 있고 우아한 소리를 들을 수 있다.
+	    파이어워치는 그녀의 종족 사람들과 친구들 모두가 그곳에 몸을 묻었다고 말한 적이 있다. 대체…… 그녀는 무슨 일을 겪어 온 걸까?
+
+———————————————————————————————
+
+	档案资料三 :
+	口琴是埃拉菲亚人喜爱的乐器。他们大多出身寒冷的萨米，还有部分民族生活在乌萨斯或卡西米尔的北方部地区，所以他们喜欢小、中型的乐器。除了口琴之外，竖笛、小提琴和吉他都受到这个种族的喜爱。
+	演奏这些乐器不需要消耗过多的体力，对于一年中要经历漫长的秋天与冬天的埃拉菲亚人来说，这是一种非常合适的娱乐方式。而且只需有一名乐手演奏，就能轻易让整个会场中的人陷入喜悦或哀愁的情绪中。
+	偶尔，守林人小姐会坐在无人的舰桥上，吹奏自己的口琴。每一次她都会面朝着北方坐下。
+	每当听到那支口琴，在风中演奏起悠扬但伤感的乐曲，笔者的心也随之迎风飞扬，向着北方的山脉与林海中飘荡。
+
+	第三資料 :
+	ハーモニカはエラフィア人の好きな楽器である。彼らの多くは寒冷地域のサーミ出身だが、一部の民族はウルサスやカジミエーシュの北方で暮らしている。彼らは主に中小型の楽器が好きで、ハーモニカのほかにリコーダー、ヴァイオリン、ギターなどを好む。
+	長い秋と冬を過ごすエラフィア人にとっては、演奏で体力をあまり消耗しない楽器が適しているのだ。演奏者が一人さえいれば、観衆全員を楽しませたり、哀愁を感じさせたりすることができる。
+	時々、ファイヤーウォッチは誰もいないブリッジで一人北方に向かってハーモニカを演奏する。
+	風に乗って届くその音色を聴くたびに、悠々としながらもどこか感傷的な気持ちがこみ上げると共に、北方の山脈や森の中にいるかのような心地になる。
+
+	Archive File 3 :
+	The favorite musical instrument of the Elafian people is the harmonica. Most of them are born in the frigid region of Sami. Some live in Ursus and the northern region of Kazimierz. Therefore, they enjoy small and medium-sized instruments. Aside from the harmonica, they also enjoy the flute, the fiddle, and the guitar.
+	Playing these instruments does not require using much energy. Given that the Elafian people spend all year long in autumnal and wintry climates, this makes these instruments suitable for their way of life. Moreover, it only takes one musician to send the whole room into an emotional state of joy or sorrow.
+	Sometimes, Firewatch will sit alone upon a bridge and play her harmonica. Each time she does this, she sits facing the north.
+	Whenever I hear that harmonica and its mellifluous yet sad voice upon the wind, my heart follows as well and drifts towards the mountains and forests of the north.
+
+	파일 자료 3 :
+	    하모니카는 엘라피아인들이 가장 사랑하는 악기이다. 그들은 대부분 한랭 지역인 사미 출신이었으며, 우르수스나 카시미어의 북방 지역에서 살고 있는 다른 일부분은 하모니카외에도 피라나 바이올린, 기타같은 중소형 악기도 즐겨 연주하였다. 이 악기들은 전부 연주할 때 큰 힘을 들이지 않아도 되는 악기였고, 한 명의 연주가만 연주를 해도 그 자리에 있는 모든 사람들이 기쁘거나 또는 감성적인 분위기에 빠져들게 할 수 있었기에, 일 년 중 길고 긴 가을과 겨울을 보내야 하는 엘라피아인들에게 매우 적합한 오락거리였다.
+	    파이어워치는 가끔 아무도 없는 갑판 맨 앞 한가운데에서 매번 북쪽을 향해 앉은 채로 자신의 하모니카를 연주한다. 연주가 시작되면, 언제나 바람 속에서 은은하고 슬픈 하모니카 소리가 들려오고, 이를 듣고 있는 필자의 마음도 함께 바람을 타고 북방의 산맥과 숲의 바다를 떠다녔다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	佣兵陨星——现在则是罗德岛干员陨星。当这位手提弩炮的萨卡兹，与守林人在罗德岛初次相遇时，两人谁都没有说出一句话。随后分配到不同小组的两人，也没有主动地进行交流。
+	曾经并肩作战的两人，在守林人的故乡毁灭之后就已经分道扬镳。在罗德岛的偶遇，再次为同一个目标而战斗的两人，是否还会重复旧日发生过的一切，这仍是一个未知数。
+	对于罗德岛来说，无论发生什么样的情况，只有一种是必须回避的——来自内部的危险。
+	但罗德岛亦不会以过去的复杂因缘为由，抛弃那些好不容易在这里找到容身之所的干员。
+	阅读到此处的人，如果可以的话，请听取笔者的，关于守林人小姐的委托吧。
+	请引导她，解开她身上的枷锁，带领她离开那座曾经幽暗的森林。
+	让她沉重的复仇，连同枯叶掩埋在一起。
+
+	第四資料 :
+	【権限記録】
+	傭兵メテオリーテは、現在はロドスのオペレーター。このバリスタを手にしたサルカズ人が、ロドスでファイヤーウォッチと初めて顔を合わせた時、どちらも一言も発することはなかった。その後それぞれ異なる小隊に配属された二人は、積極的にコミュニケーションをとることもなかった。
+	かつて共に戦ったことのある二人は、ファイヤーウォッチの故郷が滅びてからは関係を絶っていたが、ロドスで再会し、同じ目標のために再び戦うことになったが、かつて起こったことがまた繰り返すかどうかは誰にもわからない。
+	一方ロドスにとっては、たとえどんな状況が発生したとしても、内部的な危険要素だけは避けなければならない。
+	しかし、過去の複雑な因縁を理由に、ここを居場所とみなしたオペレーター達を見捨てることは決してない。
+	ここまで読んだ閲覧者は、可能ならファイヤーウォッチについて一つお願いを聞いていただけるだろうか。
+	彼女を導き、彼女に絡みつく鎖を解いて、あの暗い森から彼女を連れ出してあげてほしい。
+	彼女の重くのしかかった復讐心を、枯れ葉ごと埋めてしまって欲しい。
+
+	Archive File 4 :
+	[Classified Log]
+	Meteorite, the mercenary, is now Meteorite, Rhodes Island Operator. The first time this bowgun-wielding Sarkaz met Firewatch, the two said nary a word to one another. Now that they are on two separate squads, they never make an effort to communicate.
+	The two once fought side-by-side, but after the annihilation of Firewatch's hometown, they parted ways. Meeting by chance again at Rhodes Island, they once more fought with one purpose in mind. Whether the events of the past will play out once again is unknown.
+	For Rhodes Island, no matter what happens in the future, one thing must be avoided at all costs - dangers from within.
+	However, Rhodes Island does not turn away those who have overcome great difficulty to come here just because of their complicated pasts.
+	If you've read this far, I'd like to implore you to heed a request I have concerning Firewatch.
+	Please guide her. Free her of her tethers. Lead her out of the gloomy forest of her past.
+	Let her heavy desire for vengeance be buried amidst the dead leaves of the autumn.
+
+	파일 자료 4 :
+	[제한된 기록]
+	    현재 로도스 아일랜드에서 오퍼레이터로 활약 중인 용병 메테오라이트. 이 크로스보우를 들고 다니는 살카즈인이 로도스 아일랜드에서 처음으로 파이어워치와 마주쳤을 때, 두 사람은 서로 한마디도 하지 않았다. 이후 각자 다른 팀에 배정된 두 사람은 주동적으로 서로 교류한 적도 없다.
+	    과거 함께 작전을 수행했던 두 사람은 파이어워치의 고향이 파괴된 후 각자 제 갈 길을 찾아 떠났지만 로도스 아일랜드에서 우연히 다시 만나게 되었고, 또다시 하나의 공통된 목표를 위해 싸우게 되었다. 이들이 과거에 있었던 모든 일들을 다시 재현할 것인지는 아직 미지수다.
+	    로도스 아일랜드에게 있어 '내부의 위험'은 어떠한 일이 있어도 피해야 하는 것이지만, 로도스 아일랜드가 복잡한 과거사를 이유로, 가까스로 자신들이 머물 곳을 찾은 오퍼레이터들을 방출하진 않을 것이다.
+	    여기까지 읽은 사람은, 가능하다면 파이어워치에 관한 필자의 부탁을 들어주길 바란다. 부디, 그녀를 속박하고 있는 족쇄를 풀 수 있도록 인도해 주고, 그녀를 데리고 과거의 그 깊숙하고 어두운 숲을 떠나주기를… 그리고, 그녀의 무거운 복수심을 마른 잎들과 함께 묻을 수 있게 해주기를……

@@ -1,11 +1,17 @@
 ID:
 	char_140_whitew
 
-干员代号\Name:
+CV:
 	拉普兰德
 	ラップランド
 	Lappland
 	라플란드
+
+干员代号\Name:
+	今井麻美
+	今井麻美
+	Asami Imai
+	이마이 아사미
 
 招聘合同\Character Usage:
 	干员拉普兰德，迫不及待想要切开眼前的敌人。
@@ -43,177 +49,394 @@ ID:
 	늑대의 혼
 
 语音\Voices:
-	哟，博士。就算我把武器带进这里，你也会原谅我的对吧。那我就坐在这里了。
 	やあ、ドクター。執務室に武器持ち込んでも許してくれるよね。ここ、座るよ。
 	Hey, Doctor. Hope you don't mind if I bring my weapons inside. I'll seat myself right over here.
 	여, 박사. 집무실에 무기 갖고 와도 되지? 나 여기 앉을게.
 
-	有人想伤害你？好好想想你过去的所作所为，是不是在哪结下过什么仇怨啊。
 	誰かに狙われてる？じゃあしっかり思い出してみて、どこで恨みを買ったのかを。
 	Someone wants to hurt you, eh? Then have a long and hard think about who you might've wronged in the past.
 	누군가에게 노려지고 있다고? 그럼 제대로 떠올려봐, 어디서 원한을 샀는지.
 
-	如果有人借复仇的名义来杀你，不要犹豫，干掉那个人。一旦你决定拿起武器，杀人就不需要什么理由。
 	もし復讐なんてしに来る奴がいたら、躊躇せず殺りなよ？一度武器を手にした相手は、殺すのに理由なんて要らないんだ。
 	If someone's out to take revenge on you, don't hesitate, just take them out. Once you decide to pick up a weapon, you don't need a reason to kill.
 	혹시 복수 같은 걸 하러 오는 녀석이 있다면, 주저 말고 죽여야 해. 한번 무기를 손에 댄 상대는, 죽이는데 이유 같은 게 필요하지 않거든.
 
-	这么久没见，德克萨斯身边多了不少人嘛！哈哈，这很好！也让我和他们认识一下！
 	いつのまにかテキサスの周りもずいぶん賑やかになったね。ハハハ……いいね！ボクにもお友達を紹介してよ！
 	It's been a while... I see that Texas has gained some buddies. Ha... very well, I'd love to get to know them.
 	어느샌가 텍사스 주변도 꽤 떠들썩해졌네. 하하하… 좋은데! 나한테도 친구 좀 소개해줘!
 
-	你觉得我是杀手？好啊，你当然可以随意解读我。我可以成为任何人，也能做任何工作，在任何时间都能干掉我想干掉的人，只要我想！
 	ボクが殺し屋だって？いいよ、解釈は任せるよ！ボクは何者にだってなれるし、どんな仕事だってできる。そして、殺りたくなったらいつでも殺れる。ボクがそうしたいと思いさえすればね！
 	You think I'm an assassin, huh? Very well. You can see me as whatever you want. I can become anyone, do anything, kill anyone anytime, as long as I want to!
 	내가 킬러라고? 그래, 해석은 자유지! 난 어떤 사람이든 될 수 있고, 어떤 일이든 할 수 있어. 그리고 죽이고 싶으면 언제든지 죽일 수 있지. 내가 마음만 먹으면 말이야!
 
-	我喜欢力量，博士，尤其是你还向我提供了可以尽情宣泄力量的职位......如果说这个疯狂的世界还剩下什么乐趣，就只剩下用我的力量征服一切这件事了吧！
 	ボクは力が好きだよ、ドクター。そんなボクの力を存分に振るえる仕事をくれるキミはサイコーだ。この狂った世界で、まだ何か楽しみがあるとすれば、それはボクの力で全てをねじ伏せることぐらいさ！
 	I love power, Doctor. And you offered me a position where I can use my powers to my heart's content... how nice. To me, the only source of joy remaining in this insane world is using my powers to conquer all.
 	난 힘을 좋아해, 박사. 그런 내 힘을 마음껏 쓸 수 있는 일을 주는 넌 최고야… 이 미친 세상에서 아직 뭔가 재밌는 게 남아있다면, 그건 내 힘으로 모든 것을 굴복시키는 정도일 거야!
 
-	德克萨斯？呵呵，虽然她在害怕我，不过我没打算对她做些什么。我只是想让她变回以前那个德克萨斯，而不是像现在这样怯懦......
 	テキサス？フフッ、あの子はボクのことをものすごーく怖がってるけど、別に何かするつもりはないよ。ただ、ボクは昔のテキサスに戻ってもらいたいだけさ。今みたいな意気地なしじゃなかった頃のね……。
 	Texas? Ha, she's afraid of me, but I don't really plan to do anything to her, except maybe try to bring back the old Texas... instead of this current coward version of her.
 	텍사스? 후훗, 걔는 날 정~말 무서워하는 모양이지만, 딱히 뭘 할 생각은 없어. 단지, 난 옛날의 텍사스로 돌아와 줬으면 할 뿐이야. 지금처럼 나약하지 않던 시절의… 
 
-	......那个红色的......没错吧......！博士，我啊，是绝对不能靠近她的！但是，但是——这感觉，这感觉......！如果战斗的话一定会死，但是，还是想和那家伙打上一场啊......！
 	あれは……あの赤いの……まさか……！ドクター、絶対にアレに近づいちゃだめだ！でも、でも――チッ、不思議な感じだ、戦ったらきっと死んでしまうのに、こんなにもあの子と戦いたいなんて……！
 	That red one... oh dear... Doctor, I don't want to get any closer to her! If we fight each other, I'd definitely die. But I have this feeling... this feeling... ugh, why do I crave a fight with her so much?
 	저건… 저 빨간 건… 설마…! 박사, 절대 저것에 가까이 가면 안 돼! 그런데도, 그런데도… 쳇, 이상한 기분이야, 싸우면 분명 죽을 텐데, 이렇게나 저 애랑 싸우고 싶다니…!
 
-	想了解我和德克萨斯过去的事？哈哈，还真是挑起了一个不得了的话题啊你！总有一天你会知道的，但，绝不会是我来告诉你......
 	テキサスとの昔話が聞きたい？ハハ、怖いもの知らずだねキミは。まあ、いずれわかるさ。話すのはボクじゃないけどね。
 	You want to know what happened between Texas and I? Ha, that's... a real tricky subject. You'll find out the truth someday, but not from me.
 	텍사스의 옛날이야기가 듣고 싶다고? 하하, 무서운 줄 모르는구나 넌. 뭐, 언젠간 알게 될 거야. 얘기하는 건 내가 아니겠지만.
 
-	睡吧，至少现在，你还能做个美梦......
 	眠るがいいさ……せめて今は甘い夢を。
 	Sleep tight... enjoy your sweet dreams while you still can.
 	자는 게 좋을 거야… 적어도 지금은 달콤한 꿈을… 
 
-	暴虐的恶人阻断正义的道路，我的主人啊，以复仇与恶意为名，引领弱小的人吧。
 	正義の道は暴虐の使徒により断たれた。我が主よ、復讐と悪意の名の下に、弱き者を導き給え。
 	Savage evil forces stand in the way of justice. Master, guide the weak on their path in the name of revenge and hatred!
 	정의의 길은 폭동의 사도에 의해 끊어졌다. 나의 주인이여, 복수와 악의의 이름 아래 약한 자를 인도해다오!
 
-	你爱我不断提升的力量，对吧！
 	どんどん強くなるボクの力、愛してくれるよね？
 	You love how my powers continue to grow, huh?
 	점점 강해지는 내 힘, 사랑해 줄 거지?
 
-	哈哈哈，好，我喜欢你对我的信任。德克萨斯做得到吗？
 	アハハ、キミの寵愛、確かに受け取ったよ。テキサスにはこれができるかな？
 	Ha! Very well. I like how much you trust me. Can't say the same for Texas, huh?
 	아하하! 너의 '총애', 확실히 받았어. 텍사스한텐 이게 될까?
 
-	对对，就是这样，解放更多的力量吧，你该这样做！
 	そう、これでいい、もっともっと力を解き放とう！これはキミの使命だよ。
 	That's right, that's right! Unleash more power! You must!
 	그래, 이거면 됐어. 더욱더 힘을 해방하자! 이건 너의 사명이야!
 
-	让德克萨斯来担任队长！
 	隊長はテキサスにやってもらおう！
 	Make Texas the leader!
 	팀장은 텍사스한테 시켜야지!
 
-	把德克萨斯放到我的小队来！
 	ボクのチームにはテキサスを入れてよ！
 	Put Texas in my squad!
 	내 팀에는 텍사스를 넣어줘!
 
-	哈哈，诸位，反正我记不住你们的脸......算了，出发吧？
 	フッ……諸君、キミらの顔なんて覚えてられないけど……まあ、行こうか？
 	Ha, you people... I don't even remember your faces. Whatever, let's go, huh?
 	훗… 여러분, 너희 얼굴 따윈 기억 못 하겠지만… 뭐, 가볼까?
 
-	你们就是敌人？那就拜托你们进攻用点力了，别让我太无聊！
 	キミたちが敵？手加減なしで頼むよ？ボクに退屈させないで！
 	You're our opponents? Then please do your bestest job, or I'll be reeeally bored.
 	너희가 적이야? 부탁인데 봐주지 마, 날 따분하게 하지 말라고!
 
-	让我见识见识你的能耐。
 	お手並み拝見といこうか。
 	Show me what you've got.
 	솜씨 좀 보실까.
 
-	你准备怎么安排？
 	さて、どうするかな？
 	What are your plans?
 	자, 어떻게 할래?
 
-	不错的位置啊。
 	悪くない位置取りだね！
 	Nice position.
 	나쁘지 않은 배치네!
 
-	哈哈！
 	ハハッ！
 	Haha!
 	하하!
 
-	加油！还差一点。你就能干掉我了！
 	ほら頑張れ？もうちょっとでボクに勝てるかもしれないよ！？
 	Come on, just a little bit more and you'll be able to defeat me!
 	어이, 힘내라고. 조금만 더 하면 나한테 이길 수 있을지도 모르잖아?
 
-	你能做到吗？
 	キミにできるかな？
 	Can you do it?
 	네가 할 수 있을까?
 
-	试着抵抗我吧！
 	抗ってみなよ！
 	Try resisting me!
 	몸부림쳐 보시지!
 
-	再加把劲！
 	さぁ、あと少し！
 	More! Just a little bit more!
 	자, 조금만 더!
 
-	这样就结束了？真无聊。
 	この程度で終わりなの？つまらないなあ。
 	It's over? Meh, boring.
 	이 정도로 끝이야? 재미없긴.
 
-	呵呵，喜欢我做的千层酥吗？
 	フフ、ボクお手製のミルフィーユ、味はどうだい？
 	Hahaha, that's what I call the slice-and-dice. What do you think?
 	후후, 내가 직접 만든 밀푀유 맛은 어때?
 
-	马马虎虎吧，让那几个人逃走，我也有责任。
 	まあまあかな。何人か逃したのはボクの責任だね。
 	Well, guess I'm responsible for letting some of them escape too.
 	그럭저럭 이랄까, 몇 명 놓친 건 내 책임이네.
 
-	棒极了，这下，我践踏他们的欲望变得更强了！哈哈哈！
 	サイッコーだね、アイツらをぶっ殺してやりたい欲望が、ますます高ぶってきたよ！アハハ！
 	Wonderful! Now my desire to trample 'em is even stronger!
 	끝내주는데, 저 자식들을 쳐죽여 버리고 싶은 욕망이 더욱더 강해졌어! 아하하!
 
-	咦？刚才一瞬间，好像看到了一个红色的影子。
 	あれ……赤い影が一瞬見えた気がする。
 	Hm? I think I saw a red shadow flash by just now.
 	어라… 빨간 그림자가 잠깐 보인 것 같은데.
 
-	呵呵。
 	ハハッ。
 	Ha.
 	하하.
 
-	越了解你，也就越了解德克萨斯。太棒了。
 	キミのことを知れば知るほど、テキサスのこともわかってくる。サイコーだね。
 	The more I get to know you, the better I understand Texas. Wonderful.
 	널 알면 알수록, 텍사스에 대해서도 이해가 돼. 최고야.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	呵，你好，博士。
 	フフッ、おはよう、ドクター。
 	Ha. Hi, Doctor.
 	후훗. 안녕, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】拉普兰德
+	【性别】女
+	【战斗经验】五年
+	【出身地】叙拉古
+	【生日】11月11日
+	【种族】鲁珀
+	【身高】162cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ラップランド
+	【性別】女
+	【戦闘経験】五年
+	【出身地】シラクーザ
+	【誕生日】11月11日
+	【種族】ループス
+	【身長】162cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Lappland 
+	[Gender] Female 
+	[Combat Experience] 5 years 
+	[Place of Birth] Siracusa 
+	[Date of Birth] Nov. 11 
+	[Race] Lupo 
+	[Height] 162cm 
+	[Infection Status] 
+	Infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 라플란드
+	[성별] 여
+	[전투 경험] 5년
+	[출신지] 시라쿠사
+	[생일] 11월 11일
+	[종족] 루포
+	[신장] 162cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】卓越
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】卓越
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Outstanding 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 월등
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	拉普兰德，身份不明，履历缺失。于战术攻坚与肃清作战中展现出十足的歼灭能力。
+	现作为近卫干员，为罗德岛提供特别行动服务。
+
+	個人履歴 :
+	ラップランドは経歴が不明なため、出身もわかっていない。戦術的な強撃と粛清作戦においては十分な能力を発揮している。
+	現在は前衛オペレーターとしてロドスの特別行動に協力している。
+
+	Profile :
+	Lappland's real identity is unknown, her background a mystery. She has demonstrated impressive destructive prowess in tactical assaults and search-and-destroy missions. 
+	She is currently a special ops Operator for Rhodes Island.
+
+	프로필 :
+	    신원 불명, 이력 정보 부족. 공격 전술과 숙청 작전에서 뛰어난 섬멸 능력을 보여주었다. 현재 로도스 아일랜드를 위해 가드 오퍼레이터로 일하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】13% 
+	干员拉普兰德体表已生成大量源石结晶。 
+	
+	【血液源石结晶密度】0.27u/L
+	需要严密监控干员拉普兰德的病症进程。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】13%
+	体表には既に大量の源石結晶が生成されている。
+	
+	【血液中源石密度】0.27u/L
+	病状には厳密な経過観察が必要である。
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 13% 
+	Operator Lappland showed a massive amount of crystal formation. 
+	
+	[Blood Originium-Crystal Density] 0.27u/L 
+	Strict monitoring of Operator Lappland's condition is required.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨, 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음, 현단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 13%
+	오퍼레이터 라플란드의 체표면에는 이미 많은 오리지늄 결정이 생성.
+	
+	[혈중 오리지늄 결정 밀도] 0.27u/L
+	오퍼레이터 라플란드의 병세를 엄밀하게 지켜볼 필요가 있음
+
+———————————————————————————————
+
+	档案资料一 :
+	我们很难轻易理解拉普兰德的为人。有人认为她是一个十足的战斗狂人，而实际上，她在日常中表现得颇为有礼，甚至会主动与人攀谈，讲一些有点残酷的黑色笑话，同时观察听者的反应。但无论如何，拉普兰德依旧是一名危险分子，即使在她最放松的时候，她依旧会令人畏惧。
+	由于显示出较为严重的矿石病感染情况已经为她带来一定的影响，干员拉普兰德已被列为医疗组监控对象之一。
+	若干未经证实的情报显示，拉普兰德极有可能出身于叙拉古最为危险的某个家族。但在勘查过所有叙拉古过去活动或正在活动的家族名单后，并未发现拉普兰德与这些家族间存在联系。基于对叙拉古统治家族的调查拥有极高的危险性，相关调查工作已终止。
+
+	第一資料 :
+	ラップランドの人となりを理解するのは容易ではない。相当の戦闘マニアと思われがちだが、実は普段の彼女は礼儀正しく、積極的に人に話しかけ、ブラックジョークを披露しては相手の反応を伺う。とはいえ、ラップランドは危険な存在に変わりはない。たとえ、とてもリラックスしている状態の彼女でも、人に恐怖を与えてしまう。
+	顕在化している鉱石病の感染状況は重篤で、既に彼女の体に影響をもたらしているため、ラップランドは医療部の経過観察対象者になっている。
+	確証はないが、ある情報によると、ラップランドはシラクーザで最も危険な一族の出身である可能性が高い。ただ、過去にシラクーザで活動していた。また現在も活動しているあらゆる一族の家系図を見ても、彼女との関係は確認されなかった。シラクーザを統治する一族に対しての調査は極めて高い危険性があることにより、関連調査作業は既に終了している。
+
+	Archive File 1 :
+	We have struggled to understand Lappland's personality. Some consider her simply mad, despite how polite and personable she can be in daily life. She actively seeks out people to converse with, indulging her taste for gallows humor, eager to see how her conversation partners will respond. Still, we know Lappland to be a dangerous element, and even at her most well-behaved, she remains frightening. 
+	Lappland has been marked for close medical observation due to severe symptoms of Oripathy. 
+	According to as yet unconfirmed reports, Lappland might have come from a certain family in Siracusa known for moving in certain dangerous circles, but scouring all active and inactive lists involving Siracusa failed to connect Lappland to any of the families. Because of the extreme risk involved in probing the Siracusan families, the investigation has been terminated.
+
+	파일 자료 1 :
+	    라플란드라는 사람은 몹시 이해하기 어려운 사람이다. 누군가는 그녀를 전투광이라고 생각하지만, 사실 그녀는 평소에 굉장히 예의가 바른 모습을 보여주며, 약간 잔혹한 블랙 조크에 가까운 화제이긴 하지만 심지어는 주동적으로 타인에게 말을 걸고 그 반응을 관찰까지 하기 때문이다. 하지만 어찌 됐든, 그녀가 긴장을 풀고 있을 때조차 다들 그녀를 두려워할 정도로 위험한 사람이란 사실에는 변함이 없다.
+	    비교적 심한 광석병 감염 상황이 그녀에게 주는 영향으로 인해, 라플란드는 의료부의 주요 감시 대상 중 하나가 되었다. 약간의 검증되지 않은 정보에 따르면, 라플란드는 시라쿠사에서 가장 위험한 어떤 가문 출신이라고 하지만, 과거에 활동했던 모든 가문과 현재 활동 중인 모든 가문의 명단을 조사해봐도 라플란드와의 연관성은 찾을 수 없었다. 한편 시라쿠사의 통치 가문의 조사는 위험성이 너무 높기에, 관련 조사는 중단되었다.
+
+———————————————————————————————
+
+	档案资料二 :
+	矿石病的创伤不止反应在生理层面，同时也体现在拉普兰德对于特定目标的异常执着上，这会导致她大量暴力行为的发生。
+	尽管她的行动某种程度上均受到罗德岛的控制，但她在战场上我行我素的战斗方式，仍旧阻碍着她与部分干员之间的合作关系。
+	拉普兰德较为特殊的矿石病症状，似乎在某种程度上强化了她原本的战斗能力，这在普通的矿石病感染者以及非矿石病干员身上是非常罕见的。她独特的武器——一对经过特殊设计的，带有东方风格的剑，可以配合她释放出法术效果的冲击性效果。由于她对源石技艺的控制似乎采用了未经训练，仅仅凭借天赋而产生的力量。尽管这种力量在释放上会受到弱化，但在拉普兰德吊诡的战斗风格与狂暴攻势下，这些弱点完全被她克服了。
+	另一方面，拉普兰德极其擅长洞察敌人的弱点，这使得拥有特殊能力或源石技艺的敌人，在她的面前同样占不到便宜。只需数次对敌人技法的观察，拉普兰德就可以迅速封锁敌人的特殊能力。
+
+	第二資料 :
+	鉱石病から生まれる傷は生理的な側面にとどまらず、ラップランドの特定の目標への異常な執着心にも表れている。これが彼女の大量の暴力行為を誘発していると思われる。
+	彼女の行動はある程度ロドスのコントロール下にあるが、戦場において彼女の我が道を行く戦闘スタイルは、他オペレーターとの連携の妨げになっている。
+	ラップランドの鉱石病の症状は特殊で、彼女の元々の戦闘能力を更に強化しているようだ。これは通常の鉱石病感染者及び未感染オペレーターではほとんど見られないケースだ。彼女独自の武器――特殊なデザインで製造された極東風の双剣は、彼女の能力に合わせて攻撃的なアーツ効果を発揮することができる。彼女はアーツのコントロール訓練を受けずに、天性の能力で駆使しているようだ。この種のパワーは理論上は弱くなるはずだが、ラップランドの奇特な戦闘スタイルと凶暴な攻撃スタイルにより、この弱点は完璧に克服されている。
+	一方で、ラップランドは特に敵の弱点を見つけることに長けており、特殊能力やアーツ能力を持つ敵に効果的だ。そのため、そういった敵は彼女の前では不利になる。数回敵の技を観察しただけで、ラップランドは敵の特殊能力を迅速に封じ込めてしまえるのだ。
+
+	Archive File 2 :
+	Lappland's Oripathy symptoms go beyond the physical to cause an abnormal obsession toward a certain target of hers, even spurring her to excessive violence. 
+	Although Rhodes Island has exerted some degree of control over her behavior while deployed, she still does more or less whatever she wants in battle, which has been a problem for coordinated operations with her teammates. 
+	Lappland's rather unique symptoms seem to enhance her fighting abilities--very rare among Infected. Her weapon, a specially designed eastern-style sword, complements her Arts. She appears to wield her Originium power untrained, through raw talent alone. Even though Lappland's powers decay rapidly when released, her deceptive fighting style and explosive offensive abilities have allowed her to master her weaknesses. 
+	Furthermore, Lappland's uncanny ability to discern weakness neutralizes virtually any advantage an opponent with Originium power or other special ability may have. She is able to counter her enemy's attacks completely after only a few moments of observation.
+
+	파일 자료 2 :
+	    광석병은 생리적 측면에만 그 영향을 끼치는 것이 아니다. 광석병은 정신적으로 라플란드를 특정 대상에 대한 이상 집착을 보이게 만들었고, 여기엔 심각한 폭력 행위를 유발할 가능성도 존재한다.
+	    라플란드의 행동은 로도스 아일랜드에 의해 일정 수준 제어를 받고 있긴 하지만, 전장에서 그녀가 보여주는 제멋대로식의 전투 방식은 여전히 다른 오퍼레이터들과의 협동에 큰 장애가 되고 있다.
+	    라플란드의 광석병 증상은 비교적 특수한데, 자신의 원래 전투 능력을 일정 수준 강화한 것으로 보이며, 이는 일반적인 광석병 환자와 비감염자 오퍼레이터들 사이에서는 거의 찾아볼 수 없는 현상이다.
+	    라플란드의 독특한 무기는 동양풍의 검으로, 특수한 설계 과정을 거쳐 그녀가 마법을 사용할 때 충격성 효과를 발생시킨다. 그녀는 오리지늄 아츠에 대한 제어 교육을 따로 받은 적이 없는 것으로 보이기에, 이는 순전히 자신의 재능에 기반해 발현하는 힘으로 판단된다. 비록 이 힘은 시전 될 시 어느 정도 약화된다는 단점이 있지만, 라플란드의 기괴한 전투 스타일과 난폭한 기세 덕분에, 이런 약점은 완전히 극복되었다.
+	    한편, 라플란드는 적의 약점을 파악하는데 매우 뛰어나, 특수한 능력이나 오리지늄 아츠 제어 능력을 가진 자라 할지라도 라플란드와의 대결에서는 우세를 점하기가 힘들다. 상대의 기술을 몇 번 관찰하는 것만으로, 라플란드는 빠르게 상대의 특수 능력을 봉쇄할 수 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	根据若干份调查报告与目击详情，干员拉普兰德对企鹅物流职员，作为罗德岛行动协助人员的德克萨斯怀有密切的关注，而对方也在有意回避双方的碰面。不过，即使在不得不进行合作的场合下，干员拉普兰德并未对德克萨斯采取过分的攻势，或者说，她在有意的配合德克萨斯的步调的情况下，对这种若即若离的关系乐在其中。
+	针对企鹅物流其他协助人员，拉普兰德均报以热诚的态度加以对待，而她的行为并未得到其他企鹅物流成员的积极响应。每当双方碰面（尽管这样的情况分外罕见），总会形成一种微妙的尴尬氛围。
+	针对罗德岛其他干员，拉普兰德会尽可能地满足和平共处的环境，只要没有人妨碍她的行动。
+	【权限记录】
+	针对干员红，所有鲁珀族干员表现出了同样的、源于生理性的忌惮反应，其中干员拉普兰德的应激性反应最为强烈，情绪中混杂着无法抑制的恐惧、鲜明的敌意，以及溢于言表的欣快。在尚未得出对干员拉普兰德极端化状态的应对方案前，建议完全避免其与干员红的接触。
+
+	第三資料 :
+	調査報告と目撃情報により、ペンギン急便の職員でありロドスに協力しているテキサスに対しラップランドは強い関心を持っているが、テキサスは故意に対面を回避していることがわかった。しかし、協力関係を結ばざるを得ない状況であっても、ラップランドはテキサスに対して過度にアタックすることはなかった。もしくは、彼女はわざとテキサスのペースに合わせ、付かず離れずの関係を楽しんでいるとさえ言える。
+	ペンギン急便のその他の人員に対しては、ラップランドは平等に熱心で誠実な態度を示すが、彼女の行動は未だペンギン急便のメンバーからプラスな反応を得ていない。双方が顔を合わせるたびに（このような状況は極めて稀だが）、お互いに困惑した微妙な雰囲気になってしまう。
+	ロドスの他のオペレーターに対しては、自身の行動を妨げようとする人以外とは、できる限り良好な関係を維持しようとしているようだ。
+	【権限記録】
+	レッドに対しループス族オペレーターは生理的な拒絶反応を示したが、その中でもラップランドの反応は最も強烈で、抑えられない恐怖や明確な敵意、および狂喜などを織り交ぜた感情を見せた。ラップランドの極端な状況時の対策ができるまでは、レッドとの接触を完全に避けるべきであると提言する。
+
+	Archive File 3 :
+	Based on scattered reports and eyewitness accounts, Operator Lappland has a close personal connection to Penguin Logistics employee Texas, a liaison from the company to Rhodes Island. Texas, for her part, makes a concerted effort to avoid contact with Lappland. Still, in situations where they were forced to work together, Lappland has not gone out of her way to antagonize Texas. In fact, she seems to be taking some degree of pleasure in Texas playing hard-to-get, as it were. 
+	Lappland treats other PL personnel cordially, but they have not warmed to her, and their meetings are always rather awkward (though thankfully rare). 
+	Lappland tries to get along with other Rhodes Island Operators, as long as no one gets in her way. 
+	[Classified Log] 
+	All Lupus Operators display a guarded reaction to Operator Projekt Red's presence, with Operator Lappland exhibiting the most intense, most uncontrollable aura of dread and animosity, as well as inexplicable euphoria. Until a solution is devised to mitigate the tension, keeping the two separated is advised.
+
+	파일 자료 3 :
+	    몇몇 조사 보고와 목격담에 따르면, 오퍼레이터 라플란드는 펭귄 로지스틱스의 직원이자 로도스 아일랜드 협력 인원 중 한 명인 텍사스에 대하여 상당한 관심을 보이고 있다고 하나, 텍사스는 의도적으로 마주치는 것을 피하고 있다고 한다. 그러나 어쩔 수 없이 함께 작전을 수행해야 하는 상황에서 오퍼레이터 라플란드는 텍사스에게 지나치게 적극적인 태도로 다가가거나, 의도적으로 텍사스의 걸음걸이에 맞춰 걸으면서 이런 모호한 관계를 즐긴다.
+	    라플란드는 다른 펭귄 로지스틱스의 협력 인원들에게도 열렬한 태도를 보이지만, 이들로부터 큰 호응을 얻지는 못했다. 양측이 서로 마주칠 때 마다(이럴 일은 매우 드물지만), 이들 사이에는 조금 어색한 기류가 감돈다.
+	    누군가 자신의 행동을 방해하지만 않는다면, 라플란드는 로도스 아일랜드의 다른 오퍼레이터들을 위해 최선을 다하여 평화로운 환경을 조성하기 위해 노력할 것이다. 
+	[제한된 기록]
+	    오퍼레이터 레드에 대하여 모든 루포 족 오퍼레이터들은 거의 본능적인 수준의 거부 반응을 나타냈으며, 이중 라플란드는 제어할 수 없는 공포, 선명한 적의, 감출 수 없는 기쁨이 혼재된 정서 상태를 나타내며 가장 극심한 스트레스성 반응을 보였다. 오퍼레이터 라플란드의 극단적 상태에 대한 대처 방안이 나오기 전까진, 오퍼레이터 레드와의 접촉을 금할 것을 권고한다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	来自某保密渠道取得的留言：
+	为了你的未来考虑，你需要谨慎选择对待拉普兰德的方式。
+	她是落单的狼（注：此处的用语为鲁珀族中的俚语，指代不被认可的鲁珀族人），而且受过很重的伤。她永远地失去了家族，也永远不会再投身于另一个家族。
+	你不必知道究竟是什么支撑她活到现在的，你可以尝试治疗她的伤，但你也要记住，疯狂是永远无法被治愈的。
+	一切过去都不能再被重现了。
+	如果你仍决定保持着与她的联系，那么你终会面临选择，也许......你还没有做好对她拔刀相向的准备。
+	所以，请再一次聆听我对你的忠告：为了你，以及你所重视的人的未来，请你慎重选择。
+
+	第四資料 :
+	【権限記録】
+	ある機密ルートより取得したメッセージより：
+	ラップランドへの接し方を慎重に選びなさい。これはあなたの未来のためだ。
+	彼女はヒトリオオカミ（注：ここで使われているのはループス族の俗語で、認められなかったループス族のことを指している）で、深い傷を抱えている。永遠に家族を失い、二度とほかの一族のために身を捧げることもない。
+	彼女が何を支えにして生きてきたのかを知る必要はない。彼女の傷を治そうとするのはいいが、これだけを覚えておけ。狂気は永遠に癒えることはないと。
+	どんな過去も繰り返されてはならない。
+	もしそれでも彼女との関係を保ち続けると決めたのなら、そのうち選択を迫られるだろう。もしかすると……あなたはまだ彼女に牙を剥き対峙する準備ができていないのかもしれないね。
+	だから、もう一度この忠告をよくお聞き。あなたのために、それからあなたの大切な人の未来のために、くれぐれも選択は慎重にしなさい。
+
+	Archive File 4 :
+	[Classified Log]
+	Comment accessed from another classified source: 
+	In the future, you may want to think carefully about how you handle Lappland. 
+	She's alone wolf(note: this is Lupus slang for a Lupus ostracized from the community) who's been hurt. She's lost her family and will never truly be a part of another one. 
+	You don't need to know what's been keeping her alive till now, and you can try to heal her wounds, but remember this: Madness can never be healed. 
+	Nothing in her past should happen again. 
+	If you still decide to keep her around, you'll ultimately be faced with a choice... Maybe you're not yet mentally ready to fight her. 
+	So please, listen to my advice again: For your sake and the sake of those you care about, do choose wisely.
+
+	파일 자료 4 :
+	[제한된 기록]
+	    한 비밀 경로를 통해 획득한 메시지: 
+	    당신의 미래를 위해서라도, 당신은 라플란드를 대하는 방식을 선택함에 있어 신중을 기할 필요가 있다. 그녀는 '외톨이 늑대'이며(주의: 해당 용어는 루포 족의 속어로, 루포 족으로 인정받지 못한 루포 족을 지칭한다), 큰 상처를 입은 적이 있다. 그녀는 자신의 가족과 영원히 이별하였고, 다른 이들의 가족이 되는 일도 영원히 없을 것이다.
+	    지금까지 그녀의 삶을 지탱해준 것이 무엇인지 당신이 알 필요는 없다. 그녀의 상처를 치료해보는 건 당신의 자유지만, 기억해둬야 할 것은 그녀의 광기는 영원히 치료될 수 없다는 것이다.
+	    모든 지난 일은 다시 재현될 수 없다. 만약 당신이 그녀와의 관계를 유지하길 원한다면, 당신은 언젠가는 선택의 기로에 서게 될 것이다. 어쩌면, 당신은 아직 그녀에게 칼끝을 겨눌 준비가 안된 것이겠지.
+	    그러니, 당신에 대한 내 충언을 잘 듣길 바란다. 당신과 당신이 소중히 여기는 사람들의 미래를 위해, 다시 한 번 신중한 선택을 부탁한다.

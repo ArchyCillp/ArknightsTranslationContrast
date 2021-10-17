@@ -1,6 +1,6 @@
 [PopupDialog(dialogHead="$avatar_ines")] 等等，是敌人。
 [PopupDialog(dialogHead="$avatar_ines")] 待って、敵よ。
-[PopupDialog(dialogHead="$avatar_ines")] Wait up, the enemy’s here.
+[PopupDialog(dialogHead="$avatar_ines")] Wait up, the enemy's here.
 [PopupDialog(dialogHead="$avatar_ines")] 잠깐, 적이야.
 
 [PopupDialog(dialogHead="$avatar_hoederer")] 一处简陋的据点，一些零散的同行，他们没有注意到这里。
@@ -15,11 +15,11 @@
 
 [PopupDialog(dialogHead="$avatar_hoederer")] 一旦意识到自己受到了攻击，他们就会立刻进入<@tu.kw>临战状态</>，这称不上什么空隙。
 [PopupDialog(dialogHead="$avatar_hoederer")] 攻撃を受ければ、彼らはすぐに<@tu.kw>臨戦態勢</>になるだろう。この状態を隙とは呼べまい。
-[PopupDialog(dialogHead="$avatar_hoederer")] But as soon as they realize they’re under attack, they’ll immediately become <@tu.kw>Combat-Ready</>. We won’t have much leeway here.
+[PopupDialog(dialogHead="$avatar_hoederer")] But as soon as they realize they're under attack, they'll immediately become <@tu.kw>Combat-Ready</>. We won't have much leeway here.
 [PopupDialog(dialogHead="$avatar_hoederer")] 단, 공격받는다는 걸 알게 되면 바로 <@tu.kw>참전</> 상태로 돌입할 테니, 좋은 기회라고는 볼 수 없다.
 
 [PopupDialog(dialogHead="$avatar_ines")] 很简单，我们可以<@tu.kw>逐个逐个</>的......蚕食他们，他们不会有反抗的机会的。
 [PopupDialog(dialogHead="$avatar_ines")] それなら、あいつらを<@tu.kw>一人ずつ</>片付けていけばいいわ。もちろん、反撃される前にね。
-[PopupDialog(dialogHead="$avatar_ines")] It’s quite simple. We can devour them all, <@tu.kw>one by one</>. They won’t even have a chance to fight back.
+[PopupDialog(dialogHead="$avatar_ines")] It's quite simple. We can devour them all, <@tu.kw>one by one</>. They won't even have a chance to fight back.
 [PopupDialog(dialogHead="$avatar_ines")] 간단해. <@tu.kw>하나씩 하나씩</> 처리하자고…… 그러면 반격할 기회도 없을 테니까.
 

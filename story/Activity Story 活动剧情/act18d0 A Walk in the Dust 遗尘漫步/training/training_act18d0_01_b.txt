@@ -1,12 +1,30 @@
 [PopupDialog(dialogHead="$avatar_melan")] 无、无人机？从哪里......？
+[PopupDialog(dialogHead="$avatar_melan")] ド、ドローン？　どこから……？
+[PopupDialog(dialogHead="$avatar_melan")] A... a drone? Where did it...?
+[PopupDialog(dialogHead="$avatar_melan")] 드, 드론? 대체 어디서……?
 
 这是一些佣兵的特殊作战方式，在战斗中向<@tu.kw>可移动战术机库</>呼叫<@tu.kw>空援无人机</>辅助作战。
+これは一部の傭兵が用いる特殊な戦闘方法だ。戦闘中、<@tu.kw>移動式戦術格納庫</>から<@tu.kw>空中支援ドローン</>を呼び出し、作戦支援を行う。
+This is a combat method particular to some mercenaries. In battle, they will call the <@tu.kw>Mobile Tactical Hangar</> for <@tu.kw>Air Support Drones</> to assist them in combat.
+이건 용병의 특수 작전 방식이다. 전투 중에 <@tu.kw>이동식 전술기 격납고</>에서 <@tu.kw>공중 지원용 드론</>을 호출하여 전투를 지원하지.
 
 一旦呼叫完成，战术机库便会派出空援无人机<@tu.kw>直线赶往准星标示的呼叫坐标</>。
+戦術格納庫は、一度設置されると空中支援ドローンを派出し、その空中支援ドローンは<@tu.kw>照準器がマークした呼び出し座標に直接向かう</>。
+Once the call is successfully made, the Tactical Hangar will dispatch an Air Support Drone <@tu.kw>to make directly for the target indicator, based on the coordinates the caller gives</>.
+호출이 끝나면 전술기 격납고에선 공중 지원용 드론이 <@tu.kw>표시된 호출 좌표로 정확히 직선 이동</>할 거다.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 空援无人机<@tu.kw>到达呼叫坐标后</>才会开始作战支援，且<@tu.kw>不再移动</>。
+[PopupDialog(dialogHead="$avatar_doberm")] 空中支援ドローンは<@tu.kw>呼び出し座標に到達すると</>作戦支援を開始し、再び<@tu.kw>移動することはない</>。
+[PopupDialog(dialogHead="$avatar_doberm")] Air Support Drones will only begin assisting in combat <@tu.kw>once they reach the called coordinates</>, and <@tu.kw>will not move again after that</>.
+[PopupDialog(dialogHead="$avatar_doberm")] 공중 지원용 드론은 <@tu.kw>호출 좌표에 도착</>해야만 작전 지원이 가능하며, 도착 후엔 <@tu.kw>더 이상 이동하지 않는다</>.
 
 [PopupDialog(dialogHead="$avatar_melan")] 唔......我......我一个人......
+[PopupDialog(dialogHead="$avatar_melan")] うぅ……私……一人で来てしまいました……
+[PopupDialog(dialogHead="$avatar_melan")] Um... I'm... alone...
+[PopupDialog(dialogHead="$avatar_melan")] 저…… 저…… 혼자선……
 
 [PopupDialog(dialogHead="$avatar_ansel")] 没事的，玫兰莎，我来负责医疗。
+[PopupDialog(dialogHead="$avatar_ansel")] 大丈夫ですよ、メランサさん。私が回復します。
+[PopupDialog(dialogHead="$avatar_ansel")] It's okay, Melantha, I'll come be your Medic.
+[PopupDialog(dialogHead="$avatar_ansel")] 괜찮아요, 멜란사 씨. 제가 치료해 줄게요.
 

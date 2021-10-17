@@ -1,11 +1,17 @@
 ID:
 	char_346_aosta
 
-干员代号\Name:
+CV:
 	奥斯塔
 	アオスタ
 	Aosta
 	아오스타
+
+干员代号\Name:
+	铃木达央
+	鈴木達央
+	Tatsuhisa Suzuki
+	스즈키 타츠히사
 
 招聘合同\Character Usage:
 	罗德岛狙击干员奥斯塔，耐心地等待出手的时机。
@@ -43,177 +49,373 @@ ID:
 	그림자 못
 
 语音\Voices:
-	做助理的话，我可以在旁边做些手工吗？
 	助手をやるなら、ここで手仕事をしていてもいいですか？
 	If you want me to be your assistant, is it okay if I do some craftwork here?
 	조수를 하는 거면, 여기서 수공예 작업을 해도 괜찮겠습니까?
 
-	博士，如果你喜欢追求刺激，可以去叙拉古生活一段时间。然后你就会不喜欢了。
 	ドクター、刺激を求めるのが好きなら、しばらくシラクーザで暮らしてみるといいですよ。そしたらすぐに嫌気がさすはずです。
-	Doctor, if you like excitement, you should probably hang out in Siracusa for a while. You won’t enjoy it so much after that. 
+	Doctor, if you like excitement, you should probably hang out in Siracusa for a while. You won't enjoy it so much after that. 
 	박사님, 자극을 쫓는 걸 좋아한다면, 당분간 시라쿠사에서 지내보는 게 좋을 겁니다. 그러면 금방 싫증이 날 테니까요.
 
-	贾维的性格，有的时候连我都怀疑，他究竟是怎么活到今天没有被人打死的。
 	キアーベのあの性格、何故今日まで殺されずに生きてこられたのかって時々疑問に思います。
-	Considering his personality, sometimes even I wonder why no one’s beaten Chiave to death yet.
+	Considering his personality, sometimes even I wonder why no one's beaten Chiave to death yet.
 	키아베의 저 성격, 어떻게 오늘까지 죽지 않고 살아있는지 가끔 의문이 듭니다.
 
-	博士，你对DIY感兴趣吗？其实，我们三个的武器和衣服，都是自己设计和制作的。如果你也喜欢的话，我们可以交流一下。
 	ドクター、ハンドメイドに興味ありますか？実は僕たち三人の武器や服は、全て自分たちでデザインして手作りしたものなんです。もしそういうのが好きなら、一緒にやってみませんか。
 	Doctor, are you interested in DIY? See, the three of us actually design and make our weapons and outfits ourselves. You could join us sometime, if you want.  
 	박사님, 핸드메이드에 관심이 있으십니까? 실은 우리 셋의 무기나 옷 전부 직접 디자인해서 수작업한 것입니다. 혹시 관심이 있다면, 같이 해보지 않겠습니까?
 
-	在帮贾维擦屁股的过程中，我发现了一件事，那就是——想要真正变得强大，光靠暴力是不够的。
 	キアーベの尻拭いをしてるうちに気づいたことがあります。それは、本当の意味で強くなるためには、暴力を振るうだけではダメだということです。
-	I came to realize one thing while I was cleaning up after Chiave’s messes: If you want to be really strong, you aren’t going to get there with just violence.
+	I came to realize one thing while I was cleaning up after Chiave's messes: If you want to be really strong, you aren't going to get there with just violence.
 	키아베의 뒤처리를 하면서 깨달은 것이 있습니다. 그건 진정한 의미로 강해지기 위해서는 폭력을 행사하기만 해서는 안 된다는 것입니다.
 
-	在叙拉古，许多同龄人都想成为一个家族的一员，但也有许多脚踏实地生活的人。我有时候，觉得他们比我们更厉害。
 	シラクーザでは、同年代の中にはファミリーの一員になりたいという人も多くいましたが、堅実に生活している人もたくさんいました。時々、そういう人たちは僕たちなんかよりもずっとすごいと感じるんです。
 	In Siracusa, most people my age just want to join a family, but there are also a lot of people who want to live an honest life instead. Sometimes, I think those ones are the best of us all. 
 	시라쿠사에서는 또래 중에 패밀리의 일원이 되고 싶다는 사람도 많았지만, 착실하게 생활하는 사람도 많이 있었습니다. 가끔 그런 사람들은 우리보다 훨씬 대단하다고 생각합니다.
 
-	（哈欠声）......不好意思，博士，我昨晚没有睡好。罗德岛太安全了，我不是很习惯。
 	ふわぁ……失礼、ドクター。昨夜よく眠れなかったもので……ロドスがあまりにも安全なので、なかなか慣れないんです。
-	(Yawn) ...Sorry, Doctor, I didn’t get much sleep last night. Rhodes Island is way too safe. It’s taking some time to get used to. 
+	(Yawn) ...Sorry, Doctor, I didn't get much sleep last night. Rhodes Island is way too safe. It's taking some time to get used to. 
 	흐아암…… 실례, 박사님. 어젯밤에 잠을 설쳐서…… 로도스 아일랜드가 너무 안전해서 좀처럼 익숙해지지 않더라고요.
 
-	贾维、布洛卡、我，我们三个是伙伴，也在一起做了不少事。但我有时候也会想，这样的生活，真的就是适合我们的生活吗？
 	キアーベ、ブローカ、そして僕の三人は、一緒に色んなことをやってきた仲間です。しかし時々思うんです。こんな生活は本当に僕たちに合っているのか、って。
-	Chiave, Broca, and me. The three of us are like brothers, and we’ve done all kinds of things together. But, sometimes, I really wonder if this really is the life for us. 
+	Chiave, Broca, and me. The three of us are like brothers, and we've done all kinds of things together. But, sometimes, I really wonder if this really is the life for us. 
 	키아베, 브로카, 그리고 저, 저희 셋은 함께 여러 일을 겪은 동료입니다. 하지만 가끔 이런 생각을 합니다. 이런 생활은 정말 우리에게 어울리는 것인가… 하고요.
 
-	其实，我小时候的梦想是成为一名公务员，直到父亲第一次让我拿起武器。我并不讨厌和他们四处闯荡的生活，但始终感觉缺少了一些什么，现在我知道了，我想成为博士你这样内心强大的人。
 	実は僕、小さい頃は公務員になるのが夢でした。初めて父親に武器を持たされるまでは、の話ですけど。二人との放浪生活は嫌いじゃありませんでしたが、いつも何かが足りないと感じていました。ですが今は理解できました。僕もドクターのように意志の強い人になりたかったんです。
-	To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don’t hate drifting around with the two of them, but I always felt like there was something I was missing, and I know what it is now. I wanted to become someone as strong-willed as you, Doctor. 
+	To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don't hate drifting around with the two of them, but I always felt like there was something I was missing, and I know what it is now. I wanted to become someone as strong-willed as you, Doctor. 
 	사실은 저, 어릴 적에는 공무원이 꿈이었습니다. 처음으로 아버지가 무기를 제 손에 쥐여주기 전의 얘기지만 말이죠. 둘과의 방랑 생활은 싫지는 않았지만, 항상 무언가가 부족하다 생각했습니다. 하지만 지금은 이해했습니다. 저도 박사님처럼 의지가 강한 사람이 되고 싶었던 겁니다.
 
-	博士......睡着了吗，真是个幸福的家伙。
 	ドクター……あっ、眠ってしまったのか。フッ、幸せそうな奴だな。
-	Doctor... you’re asleep? Taking it easy, aren’t we?
+	Doctor... you're asleep? Taking it easy, aren't we?
 	박사님…… 잠든 건가. 훗, 행복해 보이는 녀석이군.
 
-	博士，你好。我叫奥斯塔。之前承蒙照顾，我们三个人才没有被干掉。不嫌弃的话，请让我们在这里工作一段时间吧。
 	こんにちは、ドクター。僕はアオスタです。先日は僕たち三人を助けていただきありがとうございました。もしよければ、しばらくここで働かせてください。
-	Hello, Doctor. I’m Aosta. It’s thanks to you that the three of us are still alive. If you don’t mind, please let us work here for the time being.   
+	Hello, Doctor. I'm Aosta. It's thanks to you that the three of us are still alive. If you don't mind, please let us work here for the time being.   
 	안녕하세요, 박사님. 저는 아오스타입니다. 일전엔 우리 셋을 구해주셔서 감사했습니다. 괜찮다면, 잠시 이곳에서 일하게 해주십시오.
 
-	......看来，我们三个能活到今天，真的只是运气比较好。
 	……どうやら僕たち三人が今日まで生きてこられたのは、本当に運が良かっただけのようですね。
-	...Looks like it’s just luck that the three of us only managed to survive this long.
+	...Looks like it's just luck that the three of us only managed to survive this long.
 	……아무래도 우리 셋이 오늘까지 살아남았던 건, 정말 운이 좋았을 뿐인 것 같군요.
 
-	博士，罗德岛真的是一家医药公司吗？我感觉，这里的人一起出动的话，说不定可以拿下叙拉古一座城。
 	ドクター、ロドスは本当にただの製薬会社ですか？僕が思うに、ここの全員で一斉にかかれば、シラクーザの都市一つを手にするのも夢じゃありません。
-	Doctor, is Rhodes Island really a pharmaceutical company? I’ve got the feeling that we might just be able to take over a Siracusan city if everyone here put themselves to it. 
+	Doctor, is Rhodes Island really a pharmaceutical company? I've got the feeling that we might just be able to take over a Siracusan city if everyone here put themselves to it. 
 	박사님, 로도스 아일랜드는 정말 평범한 제약회사입니까? 제 생각에 여기 사람들이 전부 다 같이 덤비면, 시라쿠사의 도시 하나를 손에 넣는 것도 꿈은 아닐 것 같은데요.
 
-	在罗德岛，或许我能找到一直以来我在追求的生活方式......博士，我能在舰内开一家DIY店吗？
 	ロドスでなら、もしかすると僕がずっと探し求めていた生き方が見つかるかもしれません……ドクター、僕が艦内でハンドメイドショップを開くとしたらどう思いますか？
-	I think I might just be able to live the life I’ve always wanted at Rhodes Island... Doctor, do I have permission to open a DIY shop here?
+	I think I might just be able to live the life I've always wanted at Rhodes Island... Doctor, do I have permission to open a DIY shop here?
 	로도스 아일랜드에서라면, 어쩌면 제가 줄곧 찾고 있었던 삶을 찾을 수 있을지도 모릅니다…… 박사님, 제가 함내에서 핸드메이드 샵을 연다면 어떨 것 같습니까?
 
-	但愿不会是很麻烦的事情。
 	面倒事でなければいいんですが。
-	I hope this isn’t going to be too much of a pain in the back.
+	I hope this isn't going to be too much of a pain in the back.
 	귀찮은 일이 아니라면 좋겠습니다만.
 
-	我尽力吧。
 	なんとかします。
-	I’ll give it my best shot.
+	I'll give it my best shot.
 	어떻게든 하겠습니다.
 
-	尽量避免没必要的战斗吧。
 	必要のない戦闘はなるべく避けましょう。
 	Let's avoid any unnecessary fights.
 	필요 없는 전투는 되도록 피하죠.
 
-	没办法，快点解决吧。
 	仕方ありません、さっさと片付けましょう。
-	Guess we don’t have a choice. Let’s get this taken care of.
+	Guess we don't have a choice. Let's get this taken care of.
 	어쩔 수 없네요, 빨리 정리해버리죠.
 
-	我去吧。
 	僕が行きましょう。
-	I’ll go.
+	I'll go.
 	제가 가죠.
 
-	嗯？
 	はい？
 	Hmm?
 	네?
 
-	全都要解决掉吗？
 	全員倒さないといけないですか？
 	Take all of them down?
 	모두 쓰러뜨려야 합니까?
 
-	让我来试一试吧。
 	やってみましょう。
-	I’ll give it a try.
+	I'll give it a try.
 	해보죠.
 
-	你好。
 	こんにちは。
 	Hello.
 	안녕하세요.
 
-	再见。
 	さようなら。
 	Goodbye.
 	잘 가십시오.
 
-	该结束了。
 	終わりにしましょう。
 	Time to put an end to this.
 	끝내도록 하죠.
 
-	啧。
 	チッ。
 	Tsk.
 	칫.
 
-	呼、呼......博士，挑战极限是你的乐趣之一吗？
 	はぁ、はぁ……ドクター、限界に挑戦するのもあなたの趣味なんですか？
 	Phew... phew... Doctor, do you enjoy challenging yourself so much?
 	하아, 하아…… 박사님, 한계에 도전하는 것도 당신의 취미입니까?
 
-	全吃下了，但愿这些人有让我们这么做的价值。
 	全員喰らいつくしました。彼らにはそれだけする価値があったと思いたいです。
-	I got all of them. I just hope they’re worth it.
+	I got all of them. I just hope they're worth it.
 	전부 다 먹어 치웠습니다. 이들에겐 이렇게 할 가치가 있었다고 생각하고 싶군요.
 
-	跑了几个，不过问题应该不大。
 	何人か逃してしまいましたが、まぁ問題ないでしょう。
-	A few of them got through, but I think we’ll be fine.
+	A few of them got through, but I think we'll be fine.
 	몇 명은 도망갔지만… 뭐, 문제없겠죠.
 
-	博士，你先走，我来殿后，这种事我擅长。
 	ドクター、追手は僕に任せて先に行ってください。こういうのは得意ですから。
-	Doctor, you go on ahead. I’ll clean up the mess here. It’s what I’m good at.
+	Doctor, you go on ahead. I'll clean up the mess here. It's what I'm good at.
 	박사님, 추격은 저에게 맡기고 먼저 가십시오. 이런 일은 특기니까요.
 
-	那我随便走走吧。
 	では適当に回ってきます。
-	I’ll just sorta walk around, then.
+	I'll just sorta walk around, then.
 	그럼 적당히 돌아보고 오겠습니다.
 
-	我自己有脚，博士。
 	自分で歩けますが。
 	I can walk, Doctor.
 	혼자서도 걸을 수 있습니다만.
 
-	博士，你好。
 	ドクターですか。どうも。
 	How do you do, Doctor.
 	박사님입니까? 안녕하세요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好，博士。
 	ドクター、こんにちは。
 	Hello, Doctor.
 	박사님, 안녕하세요.
+
+干员档案\Background:
+	基础档案 :
+	【代号】奥斯塔
+	【性别】男
+	【斗殴经验】五年
+	【出身地】叙拉古
+	【生日】5月9日
+	【种族】鲁珀
+	【身高】177cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】アオスタ
+	【性別】男
+	【喧嘩経験】五年
+	【出身地】シラクーザ
+	【誕生日】5月9日
+	【種族】ループス
+	【身長】177cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Aosta
+	[Gender] Male
+	[Brawling Experience] 5 Years
+	[Place of Birth] Siracusa
+	[Date of Birth] May 9
+	[Race] Lupo
+	[Height] 177cm
+	[Infection Status] 
+	Crystals have appeared on his body. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 아오스타
+	[성별] 남
+	[싸움박질 경험] 5년
+	[출신지] 시라쿠사
+	[생일] 5월 9일
+	[종족] 루포
+	[신장] 177cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	奥斯塔，前叙拉古某小城某家族成员，后成为贾维团伙一员。
+	某次事件后随首领贾维一同加入罗德岛，现作为游击手，活跃在战场前线。
+
+	個人履歴 :
+	シラクーザにある小さな都市を根城にする某ファミリーの元構成員だったが、後にキアーベ一味の一員となった。 
+	ある事件の後、リーダーであるキアーベと共にロドスに加入。今は遊撃手として、前線で活躍している。
+
+	Profile :
+	Aosta, former Siracusan mafioso, later became a member of Chiave's gang. 
+	After a particular incident, he joined Rhodes Island along with his leader, Chiave, and is now active as a front-line attacker.
+
+	프로필 :
+	    아오스타는 시라쿠사의 어느 소도시에 있는 한 패밀리의 일원이었으나 후에 키아베 패거리의 일원이 되었다.
+	    어떤 사건이 있은 후, 두목인 키아베와 함께 로도스 아일랜드에 합류, 지금은 전장에서 스나이퍼로 활약하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】5%
+	体表有少量源石结晶。
+	
+	【血液源石结晶密度】0.23u/L
+	由于干员接受治疗时间较晚，因此病情已经有所蔓延，不过该干员其他各项身体指标都相当正常，可见保持了较为健康的生活习惯，因而病情并不十分严重。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】5%
+	体表に少量の源石結晶が見られる。
+	
+	【血液中源石密度】0.23u/L
+	治療を受けるのが遅かったため、病状はすでに拡散が始まっていた。しかし、他の身体ステータスは概ね正常である。健康的なライフスタイルを有しているため、症状も比較的軽いことが判明した。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of his internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in his circulatory system, confirming him to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 5%
+	Small traces of infection are visible on the surface of the body. 
+	
+	[Blood Originium-Crystal Density] 0.23u/L
+	Operator Aosta didn't begin treatment until his infection had spread to a considerable extent. All other indicators are normal, which goes to show he leads a healthy lifestyle. Thanks to this, his condition isn't very severe.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 5%
+	체표면에 소량의 오리지늄 결정이 있다.
+	
+	[혈중 오리지늄 결정 밀도] 0.23u/L
+	비교적 늦게 치료를 시작했기 때문에 병세가 어느 정도 진행된 상태다. 반면 본 오퍼레이터의 다른 여러 지표는 비교적 정상인데, 비교적 건강한 생활 습관을 유지했음을 알 수 있다. 이 덕분에 현재 병세가 그리 심각하진 않다.
+
+———————————————————————————————
+
+	档案资料一 :
+	安静的鲁珀族男性。
+	做事颇为可靠，行为举止也相当得体的青年，令人多少难以想象过去竟然是那个贾维的手下，不过在遣词上偶尔还是会给人来自街头的感觉。
+	心思缜密，考虑问题全面，在和他组队过的干员中拥有很好的评价。
+
+	第一資料 :
+	物静かなループスの男性。 
+	とても頼もしく、言動に品がある青年である。あのキアーベの手下であったのが不思議に思われることもあるが、言葉の端からストリート出身であることが時折垣間見える。
+	思慮深く、慎重でよく気が回る性格であるため、共にチームを組んだことがあるオペレーターの間では評判がかなり良い。
+
+	Archive File 1 :
+	Although he tends to keep quiet, Aosta is a dependable Lupo whose demeanor is almost impeccable. 
+	He may sound a little street with his vocabulary at times, but it's hard to believe he used to be one of Chiave's underlings. 
+	He's cautious, and he thinks his problems through. That has earned him excellent appraisals from all the operators he's teamed up with. 
+
+	파일 자료 1 :
+	    조용한 루포족 남성.
+	    일처리가 상당히 믿음직스럽고, 행동거지도 예의 바른 청년이다. 과거 키아베의 수하였다는 점이 믿기 어려울 정도지만, 간혹 길거리 출신 특유의 분위기를 풍기기도 한다.
+	    생각이 깊고 치밀하며, 문제의 전체적인 면을 볼 줄 아는 덕분에, 그와 팀을 구성한 오퍼레이터들 사이에서 좋은 평가를 받고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	按照奥斯塔的说法，他的做事风格完全是被贾维逼出来的。
+	确实，奥斯塔的性格从正面评价是谨慎，从反面评价则几近多虑，在在他的年纪，拥有这样的性格确实多少令人感到有些诧异，不过联想到贾维的性格，这似乎又不是什么奇怪的事。
+	三人组在过去的所有行动都是贾维来决定做什么，奥斯塔来决定怎么做，布洛卡在执行中出力这样简单的分工，而他们这个小团体能够存活至今，显然离不开奥斯塔缜密的思维。
+
+	第二資料 :
+	アオスタの話によると、彼の物事に当たる際の態度は全てキアーベの言動がもたらした結果らしい。 
+	確かに、アオスタの性格はよく言えば用意周到であり、悪く言えば考えすぎである。彼の年齢からすれば、ここまで慎重なのはいっそ奇妙に思える。だが、キアーベの性格も考慮すれば、そう不思議なものでもない。 
+	キアーベ一味の過去の仕事は、全てキアーベが目標を定め、アオスタが計画を立て、ブローカが遂行に尽力するという簡単な役割分担で実行に移されていた。そんな小さな集団が今まで生き延びることができたのは、ひとえにアオスタの綿密な考慮のおかげと言えるだろう。
+
+	Archive File 2 :
+	According to Aosta, his work ethic is a product of his time with Chiave. 
+	Indeed, Aosta is careful, if you're feeling generous, but less charitably, he's way too anxious. It's astonishing to see someone as young as him possess such a pessimistic personality, but when you look at Chiave, this perhaps may not be so strange. 
+	Chiave made all the decisions about what to do, Aosta decided how to go about doing them, and Broca did all the hard work. It's clear they made it this far in no small part thanks to Aosta's meticulous planning.
+
+	파일 자료 2 :
+	    아오스타의 말에 따르면 그의 일처리 스타일은 키아베와 함께하는 동안 어쩔 수 없이 몸에 익힌 것이라고 한다.
+	    확실히, 아오스타의 성격은 좋게 말하면 신중하다 할 수 있지만, 나쁘게 말하면 생각이 지나치게 많다고 할 수 있다. 그의 나이대를 생각해 보았을 때, 이와 같은 성격을 지닌다는 것은 확실히 꽤나 특이한 면이 없지 않다. 다만 키아베의 성격을 떠올려 보자면, 이건 전혀 이상한 일도 아니다.
+	    과거 이 삼인조 중 모든 작전에서 키아베가 무엇을 할지 정하였고, 아오스타가 어떻게 할지를 결정하며, 브로카는 작전 중 힘을 쓰는 역할로 간단히 업무 분담을 하였다. 아오스타의 주도면밀한 성격이 없었더라면 아마 이들과 같은 작은 패거리가 오늘날까지 살아남기는 힘들었으리라.
+
+———————————————————————————————
+
+	档案资料三 :
+	在同伴三人中，奥斯塔较为擅长手工。
+	具体来说简单的折纸到复杂的缝纫他都有相当的心得，并且有些东西他哪怕没有尝试做过，只要看过，他也能像模像样地做出来。
+	这项在罗德岛上较为罕见——罗德岛上并没有也不打算配备专职的裁缝——的技能让他受到了女性干员的热烈欢迎，让他在任务之外的生活变得忙碌了起来，不过他本人似乎并不讨厌接受各种制作委托，甚至有些乐在其中的样子。
+
+	第三資料 :
+	三人の中で、アオスタは手先が比較的器用な方である。 
+	具体的に言えば、彼は簡単な折り紙から複雑な裁縫まで相当な心得があり、ある程度のものならばたとえ作ったことがなくとも、一度目を通せば、それなりに形が整った完成品を作り出す。 
+	このロドスでは珍しいスキル――ロドスでは今のところ専門の裁縫職はいないし、今後も置く予定がないが――は、女性オペレーターから熱烈に歓迎され、彼の任務以外の生活はかなり忙しいものとなった。だが、本人は様々な製作依頼を受けることに対して満更でもないらしく、むしろそれなりに楽しんでいるようにも見える。
+
+	Archive File 3 :
+	Aosta is the most skilled in handicraft of this trio. 
+	More specifically, he has experience in everything from simple origami to complex sewing. If there's anything he hasn't tried his hand at making before, he's able to make something fairly close after just a few glances. 
+	It's a talent rarely seen here in Rhodes Island—we've also got no plans to hire a full-time tailor here—and that has made him hugely popular among our female operators. He's become far busier outside of his deployments. It doesn't seem like he minds at all, though. He's taken on a variety of requests, and he even seems to be enjoying the work.
+
+	파일 자료 3 :
+	    삼인조 중 아오스타가 비교적 뛰어난 분야는 수공예였다.
+	    구체적으로 말하자면, 아오스타는 간단한 종이접기에서부터 복잡한 재봉 작업에 이르기까지 두루두루 상당한 실력을 갖추고 있었고, 심지어 직접 만들어 본 적 없는 물건이라도 한번 보기만 한다면 제법 그럴 사하게 만들어 낼 수 있었다.
+	    현재 전문 재봉사가 없고, 앞으로도 없을 예정인 로도스 아일랜드이기에 그는 여성 오퍼레이터들의 열렬한 환영을 받았으며, 덕분에 임무가 끝난 후에도 매우 분주한 생활을 하게 되었다. 아오스타는 각종 제작 의뢰를 귀찮아 하기는커녕 오히려 즐기는 듯한 모습이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	在三人组中，奥斯塔是唯一一个对于叙拉古在国家层面上有所认知的人。
+	这种认知体现在他虽然在叙拉古长大，没有去过其他国家，但却意识到了叙拉古这个国家的独特——众所周知，叙拉古这个国家的运转方式和所有其他国家都有着根本性的不同。在叙拉古，家族才是一切公共事务背后的存在。
+	这种独特性导致了在叙拉古的生活即使在这片多彩的大地上也可以被称为奇特的生活，而奥斯塔明确地认为这种生活是不正常的。
+	我们很难说有哪一种生活是正常的，不过至少，家族之间的交战几乎很少有官方出面制止，这样的生活应当确实不能算是正常。
+	像他这样能够对培育自己成长的环境有所认知乃至怀疑的人并不多见，这种怀疑带给他最大的好处就是他能够迅速适应在罗德岛的生活，而不像贾维那样花了很长时间才勉强接受规则的制约。
+
+	第四資料 :
+	キアーベ一味の三人の中で、アオスタは唯一シラクーザという国を客観的に理解している者である。 
+	シラクーザ育ちで他の国に行ったことがないにもかかわらず、シラクーザの特異性をきちんと理解できているところが、正にそれである。知っての通り、シラクーザという国の在り方は他国と根本的に異なっている。シラクーザでは、ファミリーと呼ばれる存在が全ての公共事業の背後に潜んでいる。 
+	この特異性が、この多様な大地においてでさえもシラクーザの生活様式が奇抜だと呼ばれる理由であり、アオスタは明確にそれが異常であると認識している。 
+	ある国の生活様式に関して、何が正常であるかを余人が定義することは難しい。だが、ファミリー間での抗争を行政機関が滅多に制止しないというのは、確かに正常とは言いがたいのかもしれない。 
+	アオスタのように、自分が生まれ育った環境をある程度認識し、ひいては疑問まで抱ける者はそうそういない。このような懐疑心が彼にもたらした最も大きな恩恵は、ロドスでの暮らしにすぐに適応できたことだろう。長い時間をかけて、ようやく規則に縛られることを渋々と受け入れたキアーベとは違って。
+
+	Archive File 4 :
+	Out of the three, Aosta is the only one who has an understanding of Siracusa's inner workings as a country. 
+	Even though he grew up in Siracusa and never traveled abroad, he still understood Siracusa's uniqueness. As we all know, the way Siracusa operates is fundamentally different from how other countries are run. There, the families run the show behind all public affairs. 
+	Thanks to this unique characteristic, life in Siracusa is quite strange even in this diverse world, and Aosta understands clearly that the Siracusan lifestyle is not what people of other origins would consider normal. 
+	It's difficult to say what makes a normal lifestyle and what doesn't. However, when the authorities avoid getting involved with the wars between families, it's safe to say that life in Siracusa can hardly be called normal. 
+	Aosta knows so much about the environment he grew up in, and still manages to harbor such doubts about the place. You don't come across people like that often. The good thing about this is that he was able to adjust to life in Rhodes Island very quickly. Unlike Chiave, who took a very long time just to accept and follow the rules here.
+
+	파일 자료 4 :
+	     아오스타는 삼인조 중에서 유일하게 시라쿠사를 국가적인 차원으로 인지하고 있다.
+	    아오스타는 시라쿠사에서 태어나 줄곧 살아왔고, 다른 나라를 가본 적은 없었지만, 시라쿠사란 나라의 특이점을 인식하고 있었다. 다들 알다시피 시라쿠사는 다른 나라와는 그 통치 방식이 근본적으로 다른데, 이곳에선 패밀리야말로 모든 공공사무의 배후에 있는 존재라고 할 수 있다.
+	    이런 독특한 현상 덕에 온갖 다채로운 일들이 넘쳐나는 이 땅에서도 시라쿠사는 비교적 특수한 취급을 받게 되었다. 그리고 아오스타는 이런 생활 방식이 정상이 아니란 점을 명확히 인식하고 있었던 것이다.
+	    사실 어떤 것이 정상이라고 감히 말하긴 힘들지만, 적어도 패밀리 간의 교전은 보통은 정부에서도 나와서 제재하지 않았고, 이건 분명 정상이라고 할 수 없는 부분이다.
+	    자신이 성장해온 환경 자체를 인지하고 이에 대한 질문을 품을 수 있는 자는 많지 않은데, 이런 능력 덕분에 아오스타는 키아베 처럼 긴 시간을 보내면서 억지로 규율을 받아들이기보다는 순조롭고 빠르게 로도스 아일랜드 생활에 적응할 수 있었다.

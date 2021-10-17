@@ -1,11 +1,17 @@
 ID:
 	char_130_doberm
 
-干员代号\Name:
+CV:
 	杜宾
 	ドーベルマン
 	Dobermann
 	도베르만
+
+干员代号\Name:
+	种崎敦美
+	種﨑敦美
+	Atsumi Tanezaki
+	타네자키 아츠미
 
 招聘合同\Character Usage:
 	罗德岛新人教官杜宾，能够随时为你提供战场上的各项建议。
@@ -43,177 +49,331 @@ ID:
 	채찍질
 
 语音\Voices:
-	博士，我安排下去的基础训练项目，新人们都有在认真练习吗？
 	ドクター、私が用意した基礎訓練メニューだが、新入りたちはしっかりやっているか？
 	Doctor, are the new recruits keeping up with my basic training regimen?
 	박사. 내가 준비해둔 기초 트레이닝 메뉴인데, 신입들은 제대로 따라오고 있나?
 
-	合理且有规律的饮食也是日常训练的一环。凡是抗议这项规则的人，首先到甲板上跑五十圈再说。
 	規則正しい合理的な食事を行うのも訓練の一環だ。規則を守れない者は、デッキを５０周ランニングしてもらおう。
 	A balanced, regular diet is also an important part of daily training. Complainers get fifty laps around the deck, now.
 	규칙적이고 합리적인 식사를 하는 것 또한 훈련의 일환이다. 규칙을 지키지 않는 자는 갑판 50바퀴를 뛰게 하겠다.
 
-	作为教官，日常教学理应不断在严厉和宽容间寻求平衡。老实说，我觉得，我对芬是不是有些太苛刻了。
 	教官として大切なのは、厳格さと寛大さのバランスだ。正直、フェンには厳しくしすぎたと思っている。
 	As a military instructor, it's important to achieve the perfect balance between strictness and leniency. To be honest... I may be a bit too hard on Fang...
 	교관에게 중요한 건 엄격함과 관대함의 밸런스지. 솔직히 말해 팽에겐 지나치게 엄격했던 게 아닌가 생각하고 있기는 하다.
 
-	为干员编排小组时，要记得做到人尽其才，让每个人能最大程度地发挥力量。干员的个人能力至关重要，但博士你的判断能力才是最需要考验的。
 	オペレーターを編成する際は、適材適所を心がけ、各々が最大限に力を発揮できるようにしてやらなければならない。オペレーター個人の能力も大事だが、それ以上にドクターの判断力が試される。
 	When putting your Operators into squads, it's crucial to assign them positions where they can exercise their skills to the fullest. It's true that recruiting talented Operators is important, but your tactics play an even bigger role.
 	오퍼레이터를 편성할 땐 늘 적재적소에 배치해야 함을 명심하고, 각자의 능력을 최대한으로 발휘할 수 있도록 해야 한다. 오퍼레이터 개개인의 능력도 중요하지만, 그보다 박사의 판단력이 더 중요하지.
 
-	博士，干员的训练，不仅要改善他们的体质，增进他们的能力，还要注重提升他们精神方面的修养。别忘了，他们必须拥有能对抗审讯和种种精神干扰的心理素质。
 	ドクター、オペレーターの訓練では、体質改善や力をつけるもの以外に、精神面の修養にも重点を置くことを忘れるな。拷問や精神攻撃にも耐えられるような、強い心を持たせなくてはならん。
 	Doctor, when training Operators, you need to not only improve their physiques and skills but also work on spiritual fulfillment. After all, they need to be mentally strong enough to survive interrogations and all sorts of attacks on their minds.
 	박사, 오퍼레이터를 훈련할 때는 체질 개선이나 전투력 강화 말고도, 정신 수양도 중요하다는 걸 잊지 마라. 고문이나 정신 공격에도 견딜 수 있는 강한 정신을 가져야 한다.
 
-	你在找那些新人？他们正在罗德岛甲板上训练。啊，我当然知道这会儿外面是什么天气。
 	見習いたちか？今はデッキで自主訓練をさせている。ああ、もちろん外の天気は承知したうえでだ。
 	You looking for the newbies? They're training out on the Rhodes Island deck. Yeah, I know what the weather's like right now, of course. Got a problem with that?
 	인턴들 말인가? 지금은 갑판에서 자율 훈련 중이다. 그래, 물론 바깥 날씨가 어떤지는 알고 시킨 거다.
 
-	异常的变化......呵呵，“猎犬”的眼睛是无法被欺瞒的。
 	ドクター、どんな身体の異常も私にはお見通しだぞ。フフ、「猟犬」の目は欺けないということだ。
 	Anomalies... ha. You can never fool the eyes of the 'Hound'.
 	박사, 몸에 어떤 이상이 있는지 내겐 훤히 보인다. 후훗, '사냥개'의 눈을 피할 순 없는 법이지.
 
-	如果你觉得，“只要坐在指挥官的位子上，就可以随便放松懈怠”，我一定会纠正你的想法，博士。
 	「指揮官の座にいる者は鍛錬を怠ってもいい」なんて思っているなら、私がその考えを叩き直してやろう。
 	If you believe that being in a commanding position allows you to slack off whenever you want, I have several methods to make sure you change your mind, Doctor.
 	지휘관의 자리에 있는 자는 단련을 게을리해도 된다는 생각을 품고 있다면, 내가 그 생각을 단단히 뜯어고쳐 주지.
 
-	要与博士共度艰难的时光，我就必须更加严格地要求自己。在这种环境下，想与你一起走得更远，唯一的出路，就只有无止尽地磨练自己的心性。
 	いついかなる時でも、自らを厳しく律していかねばならない……。この環境でドクターと共に歩むためにも、己を強く鍛えるのみだ。
 	If I hope to remain at your side through all sorts of tough situations, I must be even harder on myself. After all, with the world around us being like this... the only way we could stay together for a long time is to train ourselves to become mentally strong.
 	언제 어디서든 자기 자신을 엄격하게 다스려야 한다… 이 환경에서 박사와 함께 나아가기 위해서라도, 나 자신을 강하게 단련시켜야 해.
 
-	不许偷懒！
 	サボるんじゃない！
 	No slacking off!
 	게으름 피우지 마라!
 
-	敬礼！曾属玻利瓦尔国民警备队，我是教官杜宾。长话短说，请把需受训干员的名单给我看一下。
 	敬礼！ボリバル国民警備隊教官、ドーベルマンだ。早速だが単刀直入にいこう、まずは訓練が必要な者のリストを見せてくれ。
 	Attention! I am Dobermann, former military instructor for the Bolívarian armed forces. Now, let's cut to the chase. Please hand over the list of Operators in need of training.
 	경례! 볼리바르 국민경비대 교관, 도베르만이다. 좀 이른 감이 있지만, 단도직입적으로 이야기하지. 우선은 훈련이 필요한 자들의 명단을 보여주겠나.
 
-	这正是平时训练的成果。
 	これも日頃の訓練の成果だ。
 	Training hard pays off.
 	이것도 평소 거듭한 훈련의 성과다.
 
-	晋升啊，感谢。我不过是在履行自己的职责。
 	昇進か。感謝する。ただ、私はあくまで自分の役目を果たしているにすぎない。
 	Promotion, huh? Thanks. I'm just doing my job.
 	승진인가, 고맙군. 난 그저 내 역할에 충실했을 뿐이네.
 
-	我肩负着为罗德岛培养未来人才的重任，因此，为了配得上这份职责，我会尽我所能。
 	ロドスの未来を担う人材を育てるという責は、何よりも重いと心得ている。この仕事に自分の全てをかけるつもりだ。
 	The responsibility for training the future of Rhodes Island is on my shoulders. I will do my best to be worthy of that responsibility.
 	로도스 아일랜드의 미래를 짊어질 인재를 육성하는 책임은 그 무엇보다도 무겁다는 걸 잘 알고 있기에, 내 모든 것을 이 일에 걸 생각이다.
 
 	了解。
-	了解。
 	Got it.
 	알겠다.
 
-	那么，请给我看一下任务简报。
 	では、本任務の調査報告書を見せてくれ。
 	Well, please show me the briefing documents for the mission.
 	그럼, 이번 임무의 조사 보고서를 보여주겠나.
 
-	通知全体人员，这一次，不是训练！
 	総員に告ぐ！これは訓練ではない！
 	Calling all hands. This is not a drill!
 	전 팀원에 전한다! 이건 훈련 상황이 아니다!
 
-	审问时间到了。
 	拷問の時間だ。
 	Time to interrogate.
 	고문할 시간이다.
 
-	待命中。
 	待機中だ。
 	Your orders.
 	대기 중이다.
 
-	请给我命令。
 	命令を。
 	Orders?
 	명령 바란다.
 
 	了解。
-	了解。
 	Got it.
 	알겠다.
 
-	开始追踪。
 	追跡開始。
 	Commence tracking.
 	추격 개시.
 
-	你们这些恶徒。
 	悪徒共が。
 	Filthy scum.
 	악당 놈들… 
 
-	接招！
 	喰らえ！
 	Take that!
 	받아라!
 
-	撕裂！
 	引き裂け！
 	Tear 'em up!
 	찢어주마!
 
-	坚持住！
 	しっかりしろ！
 	Hang in there!
 	정신 차려!
 
-	不管局面有多艰难，只要牢记最基础的战斗方法，关键时刻就能救下自己的命。
 	どんなに厳しい局面でも、基本を忘れずに戦えば命を救われることもある。
 	No matter how difficult the situation, basic combat skills still come in handy from time to time.
 	어떤 어려운 상황에서도 기본을 잊지 않고 싸우면 목숨을 구할 수도 있다.
 
-	磨练好技巧再来吧，废物们。
 	腕を磨いて出直すのだな、このろくでなしどもめ。
 	Come back when you're less mediocre garbage.
 	실력을 길러서 다시 와라, 이 쓸모없는 놈들.
 
-	虽然作战是成功的，但细节仍有改善的余地。
 	作戦は成功したものの、まだまだ改善の余地ありだな。
 	The operation was successful, but we still have room for improvement.
 	작전은 성공했지만, 아직 개선해야 할 부분이 있군.
 
-	这次作战失败，责任由我承担。
 	作戦の失敗は、全て私の責任だ。
 	We have failed. I am the one to blame.
 	작전 실패는 전부 내 책임이다.
 
-	新人们有点害怕我？这是理所当然的。
 	見習いたちが私を怖がっている？当然と言えば当然か。
 	The newbies are intimidated by me, you say? That's only natural.
 	인턴들이 날 무서워한다고? 당연하다면 당연하달까.
 
-	请注意自己的言行举止。
 	立ち振る舞いには気をつけろ。
 	Please try to set a good example.
 	행동거지에 주의하도록.
 
-	让我心情变好的方法啊......哼，也许，参与一场审讯也可以。
 	私の機嫌を良くする方法か……フフ……では取り調べをさせてくれ。
 	You want to cheer me up? Hm, let me interrogate someone, then.
 	내 기분을 좋게 할 방법 말인가… 후후, 그럼 취조를 하게 해주겠나.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士。
 	おはよう、ドクター。
 	Good morning to you, Doctor.
 	좋은 아침이군, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】杜宾
+	【性别】女
+	【战斗经验】六年
+	【出身地】玻利瓦尔
+	【生日】5月27日
+	【种族】佩洛
+	【身高】163cm
+	【矿石病感染情况】
+	体表有源石结晶分布，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ドーベルマン
+	【性別】女
+	【戦闘経験】六年
+	【出身地】ボリバル
+	【誕生日】5月27日
+	【種族】ペッロー
+	【身長】163cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。感染者に認定。
+
+	Basic Info :
+	[Code Name] Dobermann 
+	[Gender] Female 
+	[Combat Experience] 6 years 
+	[Place of Birth] Bolívar 
+	[Date of Birth] May 27 
+	[Race] Perro 
+	[Height] 163cm 
+	[Infection Status] 
+	Showed physical signs of Originium, infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 도베르만
+	[성별] 여
+	[전투 경험] 6년
+	[출신지] 볼리바르
+	[생일] 5월 27일
+	[종족] 페로
+	[신장] 163cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准 
+	【战场机动】标准 
+	【生理耐受】标准 
+	【战术规划】优良 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	前玻利瓦尔军人，加入罗德岛后担任教官，主要负责基层和新晋干员培训，必要时刻，也会负责对俘虏的审讯。 
+	熟悉各种规模的军事行动，自身作为士兵的素养也极高，作为近卫干员，在第一线带领队伍冲锋陷阵。
+
+	個人履歴 :
+	ボリバルの元軍人であり、ロドス加入後は教官として新任オペレーターと一般オペレーターの訓練を任されている。必要とあらば捕虜への尋問も担当する。
+	様々な規模の軍事活動に精通しており、兵士としての高い素質も持ち合わせている。戦闘作戦においては前衛オペレーターとして、第一線でチームを率い勇往邁進する。
+
+	Profile :
+	Former Bolívarian military, Dobermann joined Rhodes Island as a drill instructor, primarily training entry-level Operators. She also assists with prisoner interrogation when necessary. 
+	Proficient in military operations of various scales, Dobermann is a highly disciplined soldier and often leads the charge in battle as a guard.
+
+	프로필 :
+	    다양한 규모의 군사 작전에 능숙한 베테랑이자 병사로서도 나무랄데가 없는 도베르만은, 로도스 아일랜드에 합류하여 전술 훈련 교관을 담당하기 전까지 볼리바르에서 군인으로 복무하였었다. 엄격하고 깐깐하며 빈틈이 없는 성격으로, 로도스 아일랜드에선 필요 시 포로의 심문을 담당하지만 주로 말단 및 신입 오퍼레이터의 교육을 담당하고 있으며, 작전 시엔 제일선에서 팀을 이끌며 적진으로 돌진하는 강인한 모습을 보인다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】14% 
+	体表暂未出现明显的源石病病征。
+	
+	【血液源石结晶密度】0.26u/L
+	感染程度尚浅，暂时还没有带来明显身体影响。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】14%
+	体表に鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.26u/L
+	感染状況は浅く、現状明らかな身体への影響は見られない。
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 14% 
+	Operator Dobermann currently showed no conspicuous symptoms of infection. 
+	
+	[Blood Originium-Crystal Density] 0.26u/L 
+	Infection still in early stages, no apparent threat to physical health detected as yet.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 14%
+	체표면에 명확한 광석병 증상이 나타나지 않음.
+	
+	[혈중 오리지늄 결정 밀도] 0.26u/L
+	감염 증상은 미미하며, 아직까지 신체에 이렇다할 영향을 주고 있지는 않다.
+
+———————————————————————————————
+
+	档案资料一 :
+	不苟言笑的铁面教官。 
+	每一个新加入罗德岛的干员，无论在加入之前拥有怎样的光辉过去，都必须要接受杜宾小姐的洗礼。再桀骜不驯的烈马，经过她的调教，也会逐渐融入这个群体。
+
+	第一資料 :
+	滅多に笑わない鉄仮面教官。
+	ロドスに加入したオペレーターは、それまでどれほどの輝かしい経歴を持っていたとしても、必ず彼女の洗礼を受けることとなる。どんな暴れ馬であっても、彼女の「調教」を受けた後は、おとなしくチームに溶け込むようになるという。
+
+	Archive File 1 :
+	A stone-faced drill instructor. 
+	Every new Operator joining Rhodes Island must endure Dobermann's 'welcome,' regardless of what glorious background they may come from. Even the rowdiest, most unruly recruit falls in line after her boot camp.
+
+	파일 자료 1 :
+	    웃음기라고는 찾아볼 수 없는 철가면의 교관. 로도스 아일랜드에 들어온 신입 오퍼레이터들은 과거와 상관없이 모두 도베르만 교관의 교육 과정을 거쳐야 한다. 그 어떤 말썽꾸러기라도, 도베르만의 교육 과정을 거치게 되면 점차 이 단체에 녹아들 수 있게 된다.
+
+———————————————————————————————
+
+	档案资料二 :
+	罗德岛的教官并不只有杜宾小姐一人，在她的手下，还有一批训练有素，负责各项专门训练的教官。 
+	这些教官几乎全都是经过杜宾小姐调教的基层干员，在经过严格的选拔后脱颖而出，毫不夸张地说，他们肩负起了为罗德岛开创未来的重要使命。
+
+	第二資料 :
+	ロドスの教官はドーベルマン一人だけというわけではなく、彼女の部下として、各項の専門的な訓練を任されている優秀な教官たちがいる。
+	彼らはほぼ全員がドーベルマンの教育を受けた一般オペレーターであり、厳しい選抜試験を通過した者たちだ。誇張ではなく、彼らにはロドスの未来を創っていく重大な使命が課せられている。
+
+	Archive File 2 :
+	Dobermann isn't the only drill instructor at Rhodes Island. She oversees a squad of well-trained instructors in charge of various lessons and drills. 
+	Nearly all of these officers were once low-level Operators taught by Dobermann herself and hand-picked through a rigorous process. It's not an exaggeration to say they have the island's future on their shoulders.
+
+	파일 자료 2 :
+	    로도스 아일랜드의 교관은 도베르만 혼자만이 아니다. 그녀 밑에는 각 분야별로 전문적인 훈련을 맡고 있는 우수한 교관들이 있다. 이들은 거의 전원이 도베르만의 교육을 받은 일반 오퍼레이터이며, 엄격한 선발을 거쳐 두각을 드러내게 되었다. 과장이 아니라, 이들에게는 로도스 아일랜드의 더 나은 미래를 만들어 나아갈 중대한 사명이 맡겨져 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	军人出身的杜宾小姐十分看重纪律，在她的手下训练，要承受十数条苛刻的规则，而且她绝不容忍任何破坏纪律的行为，这使得她在许多干员看来有些难以接近。 
+	但同时，她也十分关心其他干员的饮食平衡，身体状况，甚至是精神面貌，并且如果有正当理由，她也从来没有勉强任何干员要求他们付出超出自身承受范围的努力。只不过，她的这些付出很少被人察觉。 
+	当然，归根结底，这也是她不擅表达的性格所致，随着她也罗德岛的关系不断加深，能够理解她的人也会不断出现吧。
+
+	第三資料 :
+	軍出身のドーベルマンは規律を非常に重んじるため、彼女の訓練には十数か条の厳しい規則が儲けられており、その規律を破る行為は絶対に許されない。そのため彼女は多くのオペレーターから近づき難い印象を持たれているようだ。
+	しかしそれと同時に、彼女はオペレーターたちの食事バランスやコンディション、果ては精神状態に至るまでに関心を寄せており、正当な理由があれば、オペレーターたちに自分のできる範囲を超えた努力を強要することはない。しかし彼女のそんな心遣いに気づく者は少ない。
+	それらは結局彼女のあまり気持ちを表現しない性格の致すところであるが、彼女とロドスの関係が続いていく限り、彼女の理解者も次々と現れることだろう。
+
+	Archive File 3 :
+	A career military woman, Dobermann is heavy on discipline. There are many strict rules under her training regimen and no transgression or violation is tolerated, which has put off many Operators. 
+	At the same time, however, Dobermann cares about each Operator's diet, physical condition and even emotional state. She has never forced anyone to do more than what they were capable of doing. It's just that her commitment is a bit too subtle. 
+	Naturally, this stems from Dobermann's inability to properly express herself. Hopefully more people will come to understand her.
+
+	파일 자료 3 :
+	    군인 출신인 도베르만은 규율을 매우 중시해서, 훈련 중엔 수십 개의 깐깐한 규칙들을 준수해야 한다. 도베르만은 규율을 파괴하는 어떠한 행위도 용납하지 않는데, 이로 인해 많은 오퍼레이터들이 그녀를 대하기 어려워하고 있다. 하지만 도베르만은 다른 오퍼레이터들의 영양 밸런스, 신체 건강, 심지어는 멘탈에 대해서도 대단히 관심이 많으며, 정당한 이유가 있다면 그녀 역시 억지로 오퍼레이터에게 그들의 능력을 초과하는 결과를 내도록 강요하지 않는다. 하지만 그녀의 이런 면모를 아는 사람은 소수에 불과하다.
+	    물론 따지고 보면 이것도 표현에 서툰 도베르만의 성격이 초래한 결과이긴 하지만, 도베르만과 로도스 아일랜드의 인연이 깊어질수록 그녀의 이런 모습을 충분히 이해할 수 있는 사람들은 점점 더 많아질 것이다.

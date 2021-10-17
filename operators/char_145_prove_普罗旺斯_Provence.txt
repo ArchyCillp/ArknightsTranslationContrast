@@ -1,11 +1,17 @@
 ID:
 	char_145_prove
 
-干员代号\Name:
+CV:
 	普罗旺斯
 	プロヴァンス
 	Provence
 	프로방스
+
+干员代号\Name:
+	影山灯
+	影山灯
+	Akari Kageyama
+	카게야마 아카리
 
 招聘合同\Character Usage:
 	罗德岛天灾信使普罗旺斯，时刻注意着天灾与敌人的动向。
@@ -43,177 +49,368 @@ ID:
 	먹이 사냥
 
 语音\Voices:
-	博士，如果房间卫生需要打扫的话，记得叫我~
 	ドクター、部屋のお掃除をするときは呼んでね～。手伝ってあげるから。
 	If you need your room cleaned, you can always tell me to do it, Doctor!
 	박사, 방 청소할 때는 불러줘~ 도와줄 테니까.
 
-	我的尾巴您很在意吗？毛茸茸的，很可爱？那——要摸摸看吗？其他人身上，可没有这样的尾巴哦~
 	僕のしっぽが気になるの？モフモフして可愛いでしょ？じゃあ……触らせてあげちゃおっかな～。こんなしっぽ、めったにないからね～。
 	You seem really interested in my tail, huh? You say it's furry and looks cute? Well, wanna touch it? No one else has a tail like this, you know!
 	내 꼬리가 신경 쓰여? 복슬복슬하니 귀엽지? 그럼… 조금 만지게 해 줄까~? 이런 꼬리, 어디 가서 못 보는 거라고~
 
-	荒野里水是珍贵资源呢，虽然罗德岛并不那么缺水，但还是希望博士你要节约使用哦。
 	ロドスでは水の心配はないけど、荒野では貴重な資源なんだよ。ドクター、水は大切にしてね～。
 	Water is precious in the wild. Rhodes Island is in no danger of having a drought right now, but you still shouldn't waste water!
 	로도스 아일랜드는 물 걱정이 없지만, 황야에서 물은 귀중한 자원이야. 박사, 물은 항상 아껴 써야 해~
 
-	搜救遭遇天灾的人也是我的职责，虽然大多数情况下都会空手而归......
 	天災時の救助活動も僕の仕事だよ。成果を得られたことはあんまりないけどね……。
 	It's my duty to search for and rescue those injured in natural Catastrophes. I rarely find any survivors though...
 	재앙이 일어났을 때의 구조활동도 내 일이야. 성과를 낸 적은 별로 없었지만… 
 
-	信标回收、矿床勘探、然后是可利用资源回收，这样任务就完成咯~
 	ビーコン回収、鉱床の探索、そしてリサイクルできる資源の回収。これで任務完了だよ。
 	Retrieving beacons, exploring mineral deposits, and recycling... after that, my job is done!
 	비콘 회수, 광맥 탐색, 그리고 재활용할 자원 회수. 이걸로 임무 완료야~
 
-	葡萄先生是我的搭档。它什么都能做，非常可靠哦。它的来历？唔......对哦，我是怎么和它认识的呢......？
 	僕のパートナーのグレープさん。何でもやってくれるし、とっても頼もしいんだ。知り合ったきっかけ？うーん……忘れちゃった……。
 	Mr. Grape is my buddy! It's really handy, it can be used for so many things! As for where it came from... Uh, yeah, hmm... where did we first meet? I can't remember!
 	내 파트너인 그레이프 씨. 뭐든 다 해주고 정말 믿음직스러워. 어떻게 만나게 됐냐고? 으음… 잊어버렸어… 
 
-	那、那个红色的孩子是怎么回事......我......颤抖，止不住呢......那个，博士的手臂能稍稍借下吗......？这样的话，我会安心很多的......
 	あ、あの赤い子は何なの……僕……震えが止まらない……。あの、腕を借りてもいい……？そうすれば……安心できるから……。
 	W-what's that red one doing...? I... can't stop trembling... uh... Doctor, can you lend me your arm? I'd feel much safer that way...
 	저, 저기 빨간 아이는 누구야…… 나…… 계속 몸이 떨려…… 저기, 팔 좀 빌려도 돼? 그러면… 안심할 수 있으니까…… 
 
-	一般来说，野外的天灾工作者都会产生这样各种各样的异变。我有什么变化？知道得越多，就离危险越近哦，博士。
 	野外で活動してる天災の研究者ってね、みんな多かれ少なかれ身体に異変をきたすんだ。僕はどうなのかって？ドクター、好奇心はなんとかをも殺すってことわざがあるらしいよ？
 	Those who do Catastrophe relief work often develop all kinds of mutations. As for me... what mutation do I have? Well, it's better not to ask. The more you know, the more dangerous it gets for you, Doctor!
 	야외에서 활동하는 재앙 연구자는 말이야, 다들 크든 작든 몸에 이상이 생긴대. 나는 어떠냐고? 박사, 호기심이 뭔가를 죽일 수도 있다는 속담이 있는 거 알아?
 
-	荒野中的天灾工作者......一般都无法善终。不用担心我哦，能在罗德岛稍事休息，我已经感到......很幸福了。
 	荒野で働く天災の研究者は……みんなろくな最期を迎えられないんだ。あ、でも僕のことは心配しなくていいよ。ロドスで少しでも癒されることができたら、僕は十分に……幸せだから。
 	Catastrophe relief workers in the wilderness... usually die out there. No need to worry about me, though! I'm already very happy to have a chance to rest at Rhodes Island.
 	황야에서 일하는 재앙 연구자는… 다들 제대로 된 최후를 맞이하지 못해. 아, 그래도 내 걱정은 하지 마. 로도스 아일랜드에서 조금이라도 위안을 얻을 수 있다면 난 그걸로…… 충분히 행복하니까.
 
-	怎么又睡在这种地方，真是的......总是一副毫无防备的样子。
 	またこんな場所で寝転がって、もう……ホント無防備なんだから……。
 	You can't fall asleep here... it leaves you open to enemy attacks!
 	또 이런 데서 자고 있어? 참… 너무 무방비하다니까… 
 
-	我是普罗旺斯，是个普通的天灾工作者~您这样盯着我看，是在意我的尾巴吗~？
 	僕の名前はプロヴァンス、ごくありふれた天災の研究者だよ。そんなにじーっと見つめてどうしたの？僕のしっぽのことが気になるの～？
 	I'm Provence, your average disaster relief worker. Hmm, why are you staring at me like that? Interested in my tail?
 	내 이름은 프로방스. 흔한 재앙 연구자야. 뭘 그렇게 빤히 봐? 내 꼬리가 신경 쓰여~?
 
-	这样的话，就更接近您心目中我应有的样子了吗？
 	これでドクターの理想にもっと近づけたかな？
 	So... does this bring me closer to what you imagined I should be?
 	이제 박사의 이상에 더 가까워졌으려나?
 
-	和博士一起工作，很愉快啊~
 	ドクターとの共同作業は楽しいね～。
 	It's fun working with Doctor!
 	박사와 함께 작업하는 건 즐거워~
 
-	罗德岛附近出现了风暴的征兆——不用担心，组织避难就交给我吧！我可是这方面的专家！
 	ロドスの近くに竜巻が発生しそうな兆候が出てる――大丈夫だよ！避難はこの僕に任せておいて！こう見えて僕、避難のプロだから！
 	I sense a storm approaching Rhodes Island. But don't worry, I'm an expert at Catastrophe prevention!
 	로도스 아일랜드 근처에 토네이도가 발생할 것 같은 조짐이 있어…… 괜찮을 거야! 대피라면 내게 맡겨! 이래 봬도 나, 대피하는 데는 도사거든!
 
-	这次和谁组队呢？
 	今回は誰とチームを組むのかな？
 	Who will I be teaming up with this time?
 	이번엔 누구하고 팀을 짜는 걸까?
 
-	不会有任何问题的。
 	絶対うまくいくよ！
 	Everything will be fine.
 	분명 잘 될 거야!
 
-	我的工作是把大家平安带回来。
 	みんなを無事に連れて帰るのが僕の仕事だよ。
 	My job is to bring everyone home safely.
 	모두를 무사히 데리고 돌아가는 게 내 일이야.
 
-	无论天灾还是敌人，都是我痛恨的对手！
 	天災も敵も、僕らの憎むべき相手だ……！
 	I despise natural Catastrophes and enemies all the same!
 	재앙이든, 적이든 다 증오해야 할 상대야…!
 
-	该我出场了吗？
 	僕の出番かな？
 	Is it my turn?
 	내가 나설 차례야?
 
-	状态绝佳！
 	いい調子だよ！
 	Peak condition!
 	컨디션 좋고!
 
-	先从警告射击开始~
 	まずは威嚇射撃からいくよ～。
 	Let's start by firing a warning shot...
 	우선 위협 사격부터 시작할게~
 
-	弩箭装填完毕！随时都可以！
 	装填完了！いつでもいけるよ。
 	Arrows loaded. I'm ready to go!
 	장전 완료! 언제든 가능해.
 
-	已经警告过了哦！灾害处理，现在开始！
 	警告はしたよ！災害処理、開始！
 	I already warned y'all! Catastrophe relief starts... now!
 	경고는 했다고! 재해 처리, 개시!
 
-	弱点洞察！
 	弱点、丸見えだよ！
 	Pinpoint enemy weakness!
 	약점이 훤히 보이네!
 
-	我来分散敌人的注意力。
 	攪乱するよ～。
 	I'll distract the enemy.
 	교란할게~!
 
-	荒野有它自己的准则！
 	荒野には荒野のルールがあるからね！
 	The wilderness has its own rules.
 	황야엔 황야만의 규칙이 있으니까 말이야!
 
-	与天灾的破坏相比，敌人还真是脆弱呢。
 	天災よりもずーっと弱い敵たちだったね。
 	Compared to natural Catastrophes, these enemies are really powerless.
 	재앙에 비교하면 훨~씬 약한 적이었네.
 
-	灾害评估报告，损伤是零~
 	被害状況確認。うん、被害なし～。
 	Disaster assessment report: we received zero damage!
 	피해 상황 확인. 응, 피해 없음~!
 
-	大家都辛苦了，即便稍有损害也不能气馁哦。
 	みんなお疲れ様！すこし被害が出ちゃったみたいだけど、気を落とさないで。
 	Everyone worked hard. Let's not be discouraged even if we suffered some damage!
 	다들 수고했어! 조금 피해가 생기긴 했지만, 너무 풀 죽지는 말고.
 
-	呃......评估失误了，真是我职业生涯的污点......！
 	うう……読みが外れちゃった……プロとして失格だね……！
 	Aw... my assessment was off. Consider this a shameful moment in my career!
 	으으… 예측이 빗나갔어… 프로로서 실격이야…!
 
-	如果是能好好休息的房间就好了~
 	ゆっくり休める部屋だといいな～。
 	It'd be nice to have a room to rest in!
 	푹 쉴 수 있는 곳이면 좋겠다~
 
-	啊啊，博士？
 	わわっ、ドクター？
 	Oh, Doctor?
 	아앗, 박사~?
 
-	我的大尾巴毛绒绒~毛绒绒~♪
 	僕のしっぽはもっふもふ～。もっふもふ～♪
 	My tail is fluffy fluffy♪
 	내 꼬리는 복슬복슬~ 복슬복슬~♪
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	啊，博士早上好~
 	あ～ドクターおはよー。
 	Oh, good morning, Doctor.
 	아~ 박사, 좋은 아침~
+
+干员档案\Background:
+	基础档案 :
+	【代号】普罗旺斯
+	【性别】女
+	【战斗经验】一年
+	【出身地】叙拉古
+	【生日】11月30日
+	【种族】鲁珀
+	【身高】162cm
+	【矿石病感染情况】
+	体表有源石结晶分布，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】プロヴァンス
+	【性別】女
+	【戦闘経験】一年
+	【出身地】シラクーザ
+	【誕生日】11月30日
+	【種族】ループス
+	【身長】162cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Provence 
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Siracusa 
+	[Date of Birth] Nov. 30 
+	[Race] Lupo 
+	[Height] 162cm 
+	[Infection Status] 
+	Showed physical signs of Originium, infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 프로방스
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 시라쿠사
+	[생일] 11월 30일
+	[종족] 루포
+	[신장] 162cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】优良 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Excellent 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	普罗旺斯，天灾信使。于战术协同，精准射击等行动中展现出较为优秀的作战能力。 
+	现作为狙击干员于罗德岛干员组任职，并提供天灾区调查与天灾预警等相关服务。
+
+	個人履歴 :
+	プロヴァンスは天災トランスポーター。戦術協力と精度の高い射撃などにおいて、優れた能力を示している。
+	現在は狙撃オペレーターとしてロドスに在職している一方、天災地区の調査と天災に対する早期警戒情報などのサービスを提供している。
+
+	Profile :
+	Provence is a Catastrophe Messenger. She has demonstrated superior combat capability in coordinated assaults and marksmanship. 
+	She now serves as a sniper on a Rhodes Island squad, Provence is also tasked with investigating Catastrophe zones and providing early warnings of impending Catastrophes.
+
+	프로필 :
+	    프로방스, 재앙정보전달자. 협동 전술 작전 수행 중 정밀한 사격 등 비교적 우수한 작전 능력을 선보였다. 현재는 로도스 아일랜드의 오퍼레이터 팀에서 스나이퍼 오퍼레이터로서 근무 중이며, 재앙 지역 조사 및 재앙 경보 등의 관련 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】18% 
+	患者矿石病灶主要分布于体内，同时造成了尾部变异。 
+	
+	【血液源石结晶密度】0.3u/L
+	感染步入中期，目前患者病症较为稳定。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】18%
+	患者の鉱石病の病巣は主に体にあり、それと同時に尻尾が変異した。
+	
+	【血液中源石密度】0.3u/L
+	感染は中期段階に入ったが、現在の症状は安定している。
+
+	Clinical Analysis :
+	Imaging tests for this Operator showed blurry outlines of internal organs with visible dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating infection and confirming her as Infected at this stage. 
+	
+	[Cell-Originium Assimilation] 18% 
+	Primarily internal Originiumitis, also caused mutated tail. 
+	
+	[Blood Originium-Crystal Density] 0.3u/L 
+	Infection entering mid-stage, though patient is currently in stable condition.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 18%
+	환자의 오리지늄은 주로 체내에 분포되어 있으며, 꼬리 부분의 변형을 일으켰다.
+	
+	[혈중 오리지늄 결정 밀도] 0.3u/L
+	감염이 중기에 접어듬, 현재 병세는 비교적 안정적.
+
+———————————————————————————————
+
+	档案资料一 :
+	在信使行业中，以荒野为中心进行活动，随时观察自然现象变化，对可能形成的天灾进行预先判断，对已经发生的天灾进行记录和预警工作的从业者被称为天灾信使。
+	这份过于接近毁灭的工作，会使一切敬畏与警惕逐渐变成麻木和恐惧。无数次与天灾擦肩而过并不是一件轻松的事情，有许多天灾信使因为精神层面的原因而选择了放弃。但普罗旺斯义不容辞地背负着这些沉重的责任，她对天灾为人们带来的破坏与灾难有着清醒的认知，对生命的珍视是驱使她一次次投身于这份工作的根本动力。
+	对于天灾，普罗旺斯有着各种各样的想法，身为天灾信使的她目睹过无数次常人所不知的众生百态。然而普罗旺斯并没有被这些风暴般的负面情绪所裹挟，靠着内心的坚定，她总能在各种情况下稳定住自己的情绪，保持乐观，轻松向上。这也是她得以成为一名优秀的天灾信使的重要原因——她带来的并非灾难将至的绝望，而是灯塔般的希望，她恪守着这份信念，并坚持奔跑在乌云之下的荒野。
+	除了内心的坚毅，普罗旺斯丰富的工作经验和适应能力也是其仰仗的有力武器。普罗旺斯善于在荒无人烟、缺乏补给的野外行动，并靠着得天独厚的求生直觉保护自己与同伴。这份直觉也让她能准确捕捉到任务与行动中的种种问题，对团队合作的重视也让她成为最可靠的干员之一。
+
+	第一資料 :
+	トランスポーターの中には、天災トランスポーターという職業がある。彼らは野外を中心に活動し、自然現象の変化を随時に観察、到来の可能性の高い天災を前もって予測し、既に発生済の天災を記録することで次の防止につなぐ。
+	この死と隣り合わせの仕事をしているうちに、最初に感じる畏敬や警戒心が徐々に恐怖へと変わっていく。何度も天災から生き延びることは簡単ではない。精神的な理由で諦めていく人が多い中、天災が人々にもたらす破壊と災難を明確に理解しているプロヴァンスは、当たり前のようにこの重責を背負っている。命を大切に思う気持ちが、彼女のこの仕事を全うする原動力になっている。
+	プロヴァンスはトランスポーターとして、普通の人が知らない光景をたくさん見てきた。しかし強い心を持っている彼女はどんな状況下でも平常心を保ちポジティブでいられることが、彼女が優秀な天災トランスポーターになれた最大の理由である。彼女は「人々に天災による絶望ではなく、灯台のような希望をもたらす」という信念の下に、曇り空の下の荒野を日々駆け回っている。
+	心の強さ以外にも、豊富な経験と順応力もプロヴァンス最大の武器だ。彼女は補給品のない荒れ果てた野外での行動が得意で、野性の直感で自身と仲間を守る。この直感で彼女は、起こりうる様々な問題を予測できる。チームワークを重視していることも、彼女が頼られる理由である。
+
+	Archive File 1 :
+	In the world of wilderness scouts, those who brave the wilds, watching for changes in weather forecast the approach of a Catastrophe, those who record previous Catastrophes and provide advance warnings for those that have yet to hit are called 'Catastrophe Messenger.' 
+	Working do close to the devastating power of Catastrophes has a tendency to weigh on the Messengers, either jading them or traumatizing them. Many give up the work due to the heavy psychological toll. But Provence continues to shoulder these burdens. She has seen the destruction of life and limb wrought by the Catastrophes, and her love of that life serves as a powerful motivation for her to keep going back to work. 
+	When it comes to the Catastrophes themselves, Provence's thoughts are complicated. She has borne witness to the havoc they wreak on the lives of the common people, but she does not let herself be overcome by negativity. She controls her emotions, remains optimistic, and keeps calm. These characteristics make her an excellent Catastrophe Messenger, as she brings not despair with her messages, but hope. These are the ideas that keep her charging into the wilderness under the shroud of pitch-black clouds. 
+	As important as her resilience is to her work, Provence's wealth of experience and adaptability are equally powerful tools in her arsenal. She can hold out in the wilderness even with limited supplies, relying on well-trained survival instincts to see her and her companions through their challenges. Her intuition allows her to effectively assess threats, and her commitment to teamwork has made her one of our most reliable Operators.
+
+	파일 자료 1 :
+	    전달자 업계에서 황야를 중심으로 활동하며, 자연 현상 변화를 수시로 관찰하고, 재앙 발생 여부를 예측하며, 이미 발생한 재앙에 대한 기록을 수집하고, 재앙 경보를 담당하는 자를 '재앙정보전달자'라 부른다.
+	    거의 자멸에 가깝다 할 수 있을 정도로 무모한 재앙정보전달자의 업무는 그녀의 경외감과 경계심을 점차 무감각과 공포로 바꿔버렸다. 많은 재앙정보전달자들이 정신적인 원인으로 이 일을 관둘 정도로 '재앙'의 문턱까지 간다는 건 결코 가벼운 일이 아니지만, 프로방스는 이 무거운 책임을 내팽개칠 수 없었다. 그녀는 재앙이 인류에게 가져오는 파괴와 재난에 대해 똑똑히 알고 있기 때문이다. 생명을 소중히 하는 마음은 그녀가 이 일을 계속해 나아갈 수 있는 유일한 원동력이었다.
+	    재앙정보전달자 일을 하며 보통 사람들은 절대 알 수 없을 것들을 수도 없이 봐온 까닭에, 재앙에 대해 프로방스는 다양한 생각을 갖고 있었다. 그러나 프로방스는 마음속에 폭풍처럼 몰아치는 안 좋은 생각에 휩쓸리지 않고, 마음을 다잡아 다양한 상황에서도 자신의 정서를 안정적으로 유지하고자 했다. 무슨 일이 있어도 앞으로 계속 나아가고자 하는 낙관적인 태도, 이는 그녀가 가져오는 것이 재난으로 인한 절망이 아니라 등불과도 같은 희망이라 굳게 믿으며 먹구름이 드리운 황야를 달려 나아갈 수 있는 이유이자, 그녀가 우수한 재앙정보전달자가 될 수 있었던 이유이기도 하다.
+	    프로방스의 강점은 이런 굳센 마음뿐만이 아니다. 풍부한 업무 경험과 적응 능력은 보급이 부족하기 마련인 황량한 곳에서의 야외 작전에서도 빛을 발했고, 타고난 생존 감각은 자신과 동료들을 위험에서 지켜낼 수 있게 도와주었다. 이런 직감은 그녀가 각종 임무나 작전에서 마주치는 문제들을 해결하는 데 많은 도움을 주었으며, 단체 협력을 중요시 여기는 모습은 그녀를 가장 믿음직스러운 오퍼레이터 중 하나로 만들어주었다.
+
+———————————————————————————————
+
+	档案资料二 :
+	普罗旺斯希望以自己的行动来改善人们面对天灾所处的不利环境。她反对浪费和随意丢弃行为，积极倡导大家节约资源，以切实的行动来改善自己所处生活环境。
+	在生活中，普罗旺斯显得分外勤快而忙碌，总是奔波在荒野与罗德岛之间的她，即使闲暇时间中也会为罗德岛提供义务性的清洁扫除，资源回收和分类等工作。部分人员对她的劝告熟视无睹的时候，普罗旺斯会以和气，认真，耐心的态度，为他们讲解这样做的理由和带来的好处。很少有人会在她诚恳的态度下，仍旧坚持自己错误的行为。
+
+	第二資料 :
+	プロヴァンスは自身の行動で人々が天災に立ち向かう困難な状況を改善していきたいと思っている。また浪費やポイ捨てなどの行為に反対したり、資源の節約を積極的に提唱したりし、実際の行動を通して周りの環境を改善しようとしている。
+	プロヴァンスはいつも勤労で忙しそうである。野外とロドスに行き来する彼女は、休み時間でも自発的にロドスで掃除や資源の回収をしている。自分のアドバイスを聞かない人がいれば、親切かつ真面目な態度でその理由とメリットを説明する。そんな真摯な彼女と対面したら、自分の誤りを認めない人はほとんどいないだろう。
+
+	Archive File 2 :
+	Provence's greatest hope is to improve how people face the challenges posed by Catastrophes. A staunch environmentalist, she fights against waste and littering, while advocating for the conservation of resources, and directly improves the environment through her own actions. 
+	Provence is often seen busily hurrying between different uninhabited biomes and Rhodes Island, where she personally volunteers to clean and recycle waste in her spare time. She has also been known to take the time to politely and thoroughly lecture the less environmentally conscious of her fellow operators. Very few have been unmoved by her sincerity.
+
+	파일 자료 2 :
+	    프로방스는 자신의 노력을 통해 사람들이 재앙으로부터 겪는 고통을 조금이나마 덜어줄 수 있길 희망한다. 그녀는 물건을 쉽게 버리거나 낭비하는 행위에 반대하여, 적극적으로 자원을 절약할 것을 제창하며, 착실한 행동 습관을 통해 자신이 처한 생활 환경을 개선한다.
+	    유난히 부지런한 프로방스는 늘 로도스 아일랜드와 황야를 바쁘게 오간다. 휴식 기간에도 로도스 아일랜드를 위해 자발적으로 청소, 자원 회수 및 분류 등의 작업을 처리한다. 자신의 충고를 흘려듣는 사람이 있다면, 따뜻하고, 열정적이고, 인내심 있는 태도로 그들에게 자신이 이렇게 하는 이유와 그 장점에 대해 설명해준다. 이런 그녀의 이런 진심 어린 충고를 받은 후에도 여전히 잘못된 행동을 계속하는 사람은 거의 없다.
+
+———————————————————————————————
+
+	档案资料三 :
+	虽然极为难得，但当所有工作都已经妥善完成，生活环境也打理归整后，普罗旺斯终于能迎来属于自己的假日时光了。在人们眼中总是忙忙碌碌的她，也开始显露出享受生活的一面——放假的第一件事，当然是精心梳理自己的尾巴。
+	除了打理尾巴之外，在销售站挑选近期的货品，为自己和朋友选择小礼物，挑选一些好看的衣服加入自己的衣柜，陪罗德岛内的孩子们玩耍，挑战一下从未尝试过的烹饪食谱（不必说，自然是荒野中采摘与捕获的食材），邀请朋友共同举办派对——普罗旺斯热爱着这样的生活，并希望自己的生活总能保持着这样的步调。
+
+	第三資料 :
+	全ての仕事を無事に終え、生活環境も整えてから、プロヴァンスは貴重な休みを迎える。いつも忙しそうに見える彼女も、プライベートを楽しむ一面を見せる。休みで最初にすることはもちろん、しっぽのケアだろう。
+	しっぽのケア以外には、ショップで新商品を見たり、自分と友人へのプレゼントを選んだり、クローゼットにかわいい服を増やしたり、ロドスの子供たちと遊んだり、一度も試したことのないレシピに挑戦したり（言うまでもなく、全部野外で採った食材）、友人を誘いパーティを開いたりといったことをしている。プロヴァンスはこんな生活を愛していると同時に、ずっとこのままのペースで生きていきたいと願っている。
+
+	Archive File 3 :
+	It is an uncommon occurance, but when all her work is done, including the volunteer cleanup she does, Provence enjoys her time off by carefully grooming her tail. 
+	If her tail is adequately fluffed, she has been known to drop into the store to shop for some fashionable gifts for herself and her friends (including some outfits to add to her wardrobe), play with the children of Rhodes Island, try out new cooking recipes (with ingredients foraged in the wild, of course), organize the occasional shindig with her chums, and other such things that strike her fancy. Such is Provence's ideal lifestyle.
+
+	파일 자료 3 :
+	    굉장히 드물긴 하지만, 모든 업무가 마무리되고 생활 환경 정리 정돈이 끝나면, 프로방스도 자신만의 휴가를 즐긴다. 사람들의 눈에는 마치 일 중독자와 같은 그녀도 사실은 여유롭게 자신의 삶을 즐기고 싶은 욕구가 있는 것이다. 휴가 기간 중 그녀의 첫 번째 할 일은 당연히 자신의 꼬리를 성심성의껏 관리하는 것이다. 꼬리 관리가 끝나면 그녀는 구매 센터에서 쇼핑을 하는데, 이땐 자신과 친구를 위한 작은 선물을 고르기도 하고, 예쁜 옷을 골라 자신의 옷장에 추가하기도 한다. 또 로도스 아일랜드의 아이들과 놀아주기도 하고, 도전해 본적 없는 요리 레시피(물론 식재료는 황야에서 채집 및 포획한 것들)를 따라 해보기도 하고, 친구를 초대해 파티를 열기도 한다. 프로방스는 이런 삶을 매우 사랑하고 있으며, 앞으로도 계속해서 이런 나날들이 지속될 수 있기를 희망한다.
+
+———————————————————————————————
+
+	档案资料四 :
+	“罗德岛附近出现了风暴的征兆——不用担心，组织避难就交给我吧！我可是这方面的专家！”
+	留下这样话语之后，就立刻投入到下一场荒野行动的普罗旺斯——
+	事实上，她仍在不断地接近着危险。
+	事实上，她已经成为一名感染者了。
+	即使她时常因工作而忘记身为感染者的身份，即使她知道自己的情况后，依然选择积极面对生活。
+	但是，与博士的相遇，似乎使她开始有些在意起自己的情况了。
+	为了不让博士担心，为了能让博士所在的罗德岛变得更加安全，普罗旺斯，今日依旧踏入荒野之中。
+
+	第四資料 :
+	プロヴァンスはいつも、「ロドスの近くに竜巻が発生しそうな兆候が出てる――大丈夫だよ！避難はこの僕に任せておいて！こう見えて僕、避難のプロだから！」という言葉を残し、次の野外作戦に身を投じる。
+	彼女はすでに鉱石病に感染していて危険な状況に陥っているが、仕事に没頭して自分が感染者であるのを忘れることはよくある。自分の状況をわかった後も、ポジティブに生きると決めている。
+	だが、ドクターに出会ってから、今まで気にしないようにしていた自分の状況が気になり始めたようだ。
+	ドクターに心配をかけないため、ドクターのいるロドスをもっと安全にするため、プロヴァンスは今日も荒野に踏み込んでいる。
+
+	Archive File 4 :
+	'We got a storm brewing near the island. Don't worry, I'll handle the evacuation. I've been in this restaurant before!' 
+	Before Provence finished speaking, she was already diving headfirst into another operation deep in the wilds. 
+	In fact, she is always in danger. 
+	Because in fact, she suffers from Oripathy. 
+	The work she so deeply values lets her infection slip her mind, but she is well aware of her condition. Still, she takes an optimistic outlook on life. 
+	Provence's visit with the Doctor, however, has made her more aware of the seriousness of the overall situation. 
+	To ease the Doctor's concerns and make the island safer, Provence continues to make regular trips into the wild.
+
+	파일 자료 4 :
+	    "로도스 아일랜드 부근에 폭풍 발생 전조 확인…… 걱정 마! 피난은 나한테 맡겨줘! 이래보여도 나, 이쪽으론 전문가라고!"
+	    프로방스는 일이 생기면 매번 이렇게 말하며 즉각 황야로 출동한다. 그녀는 이미 광석병에 감염되어 위험한 상황이지만, 업무에 너무 몰두한 나머지 자신이 감염자라는 것을 자주 잊어버린다. 그녀는 훗날 자신이 처한 상황을 알게 되었지만, 그럼에도 매사에 적극적으로 살고자 하고 있다.
+	    다만, 박사와 만난 후부터 그녀도 자신의 상황에 대해 조금씩 신경을 쓰게 된 듯하다. 박사가 걱정하지 않도록, 그리고 박사가 있는 로도스 아일랜드가 더 안전해질 수 있도록, 프로방스는 오늘도 여전히 황야를 누비고 있다.

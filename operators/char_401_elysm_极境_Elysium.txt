@@ -1,11 +1,17 @@
 ID:
 	char_401_elysm
 
-干员代号\Name:
+CV:
 	极境
 	エリジウム
 	Elysium
 	엘리시움
+
+干员代号\Name:
+	森久保祥太郎
+	森久保祥太郎
+	Morikubo Shoutarou
+	모리쿠보 쇼타로
 
 招聘合同\Character Usage:
 	先锋干员极境，提供安心安全的稳定战场通讯。
@@ -43,177 +49,437 @@ ID:
 	경청
 
 语音\Voices:
-	有什么工作尽管吩咐，做副手我还是很有经验的。
 	仕事があれば何でも言ってね。こう見えて助手の経験は豊富でさ。
 	Please feel free to assign any work to me. I have a lot of experience as a second-in-command.
 	일이 있으면 뭐든 말해. 이래 봬도 조수 경험은 풍부하거든.
 
-	这杆发信器能将信号传递到相当远的地方，也是小队之间进行沟通的有力手段。而且啊，我的法术能让信号变得很强，让小队之间的交流畅通无阻，战地通讯，简直就是为我设计的工作嘛。
 	この発信器があれば信号を相当な距離まで飛ばせるから、小隊間で連絡を取り合う有力な手段になるんだ。さらに僕のアーツで信号を強めれば、もう誰にも止められない。戦場通信、まさに僕のために用意された役割だよね。
 	This communicator can transmit signals over considerable distances and is a powerful means of communicating between teams. And, yes, my Arts can amplify the signal and ensure that communication between teams goes unimpeded. Battlefield communication, simply put, is a job that was practically made for me.
 	이 발신기가 있으면 신호를 상당한 거리까지 날릴 수 있어서 팀 간에 연락할 수 있는 유력한 수단이 되지. 게다가 내 아츠로 신호를 증폭시키면 더는 아무도 막을 수 없게 돼. 전장 통신, 그야말로 날 위해 준비된 역할이지?
 
-	找不到路？没问题，交给我。要去这里的话，先从左边的楼梯上到四层，然后右转，走过第三个岔口后左转，再下一层，继续向左，可露希尔小姐的三号工程室对面就是。怎么样，是不是简洁易懂？
 	迷子？大丈夫、僕に任せて。この場所へ行くには、まず左の階段で四階に上がり、右に直進して、三つ目の分かれ道を過ぎたら左に曲がり、一つ下の階に降りて、左に直進したところのクロージャさんの第三エンジニアルームの向かい側がそうだ。どう、わかりやすいでしょ？
-	Lost? No worries, let me take a look. To get there, first go up the stairs on the left and head up to the fourth floor. Then turn right, and after passing the third fork, make a left. Go down a floor, then proceed to your left. It’s directly across from Miss Closure’s #3 Engineering Room. How’s that? Were my instructions clear enough?
+	Lost? No worries, let me take a look. To get there, first go up the stairs on the left and head up to the fourth floor. Then turn right, and after passing the third fork, make a left. Go down a floor, then proceed to your left. It's directly across from Miss Closure's #3 Engineering Room. How's that? Were my instructions clear enough?
 	길을 못 찾겠다고? 괜찮아, 나한테 맡겨. 여기로 가려면 우선 왼쪽 계단으로 4층으로 올라가서, 오른쪽으로 직진한 후에 세 번째 갈림길을 지나서 왼쪽으로 꺾은 다음, 한층 내려가서 왼쪽으로 직진하면 나오는 클로저 씨의 제3 엔지니어실의 맞은편으로 가면 돼. 어때, 알기 쉽지?
 
-	我和棘刺约好，下次双方都不再留手，一定要分出个胜负。这次我一定将他杀得片甲不留......什么？罗德岛禁止私斗？别误会，我是在说下棋，你觉得输了的人就剃光头，这个赌注怎么样？
 	ソーンズと話したよ、次はお互い情けはかけず、必ず決着をつける、とね。今度こそ彼を跡形もなく……え？ロドスで私闘は禁止？いやいや誤解しないで、今のはチェスの話だよ。ね、負けた方は坊主頭にするなんて賭けはどう？
-	Thorns and I have reached an agreement- next time, neither of us will hold back, and a victor will be crowned. This time, I’ll make sure to end his existence... Huh? Rhodes Island has an explicit ban on personal fights? You must be mistaken, I’m simply talking about chess. Loser has to shave his head, what say you to this bet?
+	Thorns and I have reached an agreement- next time, neither of us will hold back, and a victor will be crowned. This time, I'll make sure to end his existence... Huh? Rhodes Island has an explicit ban on personal fights? You must be mistaken, I'm simply talking about chess. Loser has to shave his head, what say you to this bet?
 	쏜즈랑 이야기했어. 다음엔 서로 봐주는 것 없이 반드시 결판을 내겠다고. 이번에야말로 그를 흔적도 없이…… 뭐? 로도스 아일랜드에서 사적인 결투는 금지? 아냐, 아냐. 오해하지 마. 방금 그건 체스 이야기야. 있잖아, 진 쪽이 삭발하기 같은 내기는 어때?
 
-	我当然也不习惯当别人的副手，但是我的队长只有靠我才能传达命令，我也就只能留在队伍里照顾她啦。等等，这些话你知我知，为了我们两个人的前途着想，千万别让她知道，行吗？
 	僕だって人の助手をするのは慣れないけど、うちの隊長は僕の力がないと命令を皆に伝えられないから、僕は隊に残って彼女の面倒を見てあげるしかないんだ。あ、ここだけの話にしてね。僕たちの将来のためにも、絶対彼女に知られちゃだめだよ。いいね？
-	Of course I’m also not used to being someone else’s assistant, since my squad captain relies on me to deliver her orders, and I have to stay on the squad to support her. Wait, these words are just between the two of us. For both of our sakes, don’t ever let her know about what I just told you, okay?
+	Of course I'm also not used to being someone else's assistant, since my squad captain relies on me to deliver her orders, and I have to stay on the squad to support her. Wait, these words are just between the two of us. For both of our sakes, don't ever let her know about what I just told you, okay?
 	나도 남의 조수를 하는 건 서툴지만, 우리 대장은 내 능력이 없으면 명령을 모두에게 전달할 수 없는 사람이다 보니 난 부대에 남아서 그녀를 돌봐줄 수밖에 없어. 아, 이건 우리끼리만 하는 이야기로 해줘. 우리의 미래를 위해서라도 절대 그녀한테 말하면 안 돼. 알았지?
 
-	战场上通讯的重要性不用多说，会率先受到攻击，也是当然的。放心吧，只要有我在，就一定让博士你的指令顺利传达到每一个作战人员。
 	戦場通信の重要性は語るまでもないな。敵に狙われやすいのも当然でしょ。けどまぁ安心して。僕がいれば、ドクターの指令を無事仲間たち全員に届けてみせるさ。
-	There is no overstating the importance of communication on the battlefield, and of course whoever facilitates that will be the first to get targeted. But don’t worry, as long as I’m here, I’ll make sure your orders are smoothly transmitted to every combat personnel.
+	There is no overstating the importance of communication on the battlefield, and of course whoever facilitates that will be the first to get targeted. But don't worry, as long as I'm here, I'll make sure your orders are smoothly transmitted to every combat personnel.
 	전장 통신의 중요성은 말할 것도 없지. 적의 표적이 되기 쉬운 것도 당연해. 하지만 뭐, 안심해. 내가 있으면, 박사의 지령을 무사히 동료들 모두에게 전달해 보일 테니까.
 
-	博士，你来得正好。其实，我正在烦恼，为什么大家宁愿看地图，也不找我问路呢？队长她之前说我油腔滑调惹人烦，怎么会这样，明明我对大家都很温柔啊。
 	ドクター、ちょうどいいところに。実はちょっと悩んでて……みんな僕に道を聞くより、地図に頼ろうとするのは何でだと思う？前に隊長は僕がぺらぺらと上調子で喋るのが気に食わないと言ってたし、どうしてそんな風に思われるんだろう。みんなには優しくしてるはずなのになぁ。
-	Doctor, you came right on time. Actually, there’s something bothering me. Why does everyone prefer looking at a map over asking me for directions? The captain said that my glib tone really gets on peoples’ nerves, but there’s no way that’s true, right? I’m clearly nothing but compassionate towards everyone!
+	Doctor, you came right on time. Actually, there's something bothering me. Why does everyone prefer looking at a map over asking me for directions? The captain said that my glib tone really gets on peoples' nerves, but there's no way that's true, right? I'm clearly nothing but compassionate towards everyone!
 	박사, 마침 잘 왔어. 실은 좀 고민 중이거든…… 다들 나한테 길을 물어보는 것보다 지도에 의지하려 하는 건 왜일까? 전에 대장이 내가 주절주절 신나서 떠드는 게 마음에 안 든다고도 했었고, 다들 왜 그렇게 생각하는 걸까? 모두한테 친절하게 대하고 있는데 말이야…
 
-	在战场上，士气是很重要的，看到这面旗帜了吗，作为先锋，我举起它就是为了给大家带来勇气——等等，博士，你不会相信了吧？开玩笑啦，这个真的只是发信装置而已。
 	戦場での士気はとても大切なんだ。この旗を見て、先鋒として掲げることでみんなに勇気を――待ってドクター、まさか信じてくれた？冗談だよ、これはただの発信装置なんだから。
-	On the battlefield, few things are more important than morale. Do you see this banner? As a vanguard, just lifting it is enough to imbue everyone with courage— Wait, Doctor, you didn’t seriously believe that, did you? I was just joking, this thing’s actually a communication device.
+	On the battlefield, few things are more important than morale. Do you see this banner? As a vanguard, just lifting it is enough to imbue everyone with courage— Wait, Doctor, you didn't seriously believe that, did you? I was just joking, this thing's actually a communication device.
 	전장에서의 사기는 굉장히 중요하지. 이 깃발을 보고, 선봉에서 이걸 올리면 모두에게 용기를…… 잠깐만, 박사. 설마 믿은 거야? 농담이야. 이건 평범한 발신 장치라고.
 
-	博士你值得我信任。别谦虚，我对自己的眼光有信心。用战友来称呼你，怎么样？队长和我本来也水火不容，但我相信战友你和她一样，最后都会被我的真诚感动。不会？队长也寄信投诉我？呃？
 	ドクターは信頼していいと決めたんだ。お世辞じゃないよ、僕は人を見る目には自信があるから。君のことを「戦友」と呼ぶってのはどう？隊長も僕と最初は水と油の仲だったけど、彼女と同じように、戦友も僕の誠実さに心動かされると思うよ。そんなことない？隊長は今でも僕についてクレームをよこしてる？ええ？
-	Doctor, you’ve earned my trust. There’s no need to be so humble. I have confidence in my perception of others. How about I call you my comrade-in-arms from now on? My captain and I are like oil and water, but I believe that, much like her, you will eventually be moved by my sincerity. No? The captain sent you a letter complaining about me? Ehh?
+	Doctor, you've earned my trust. There's no need to be so humble. I have confidence in my perception of others. How about I call you my comrade-in-arms from now on? My captain and I are like oil and water, but I believe that, much like her, you will eventually be moved by my sincerity. No? The captain sent you a letter complaining about me? Ehh?
 	박사는 신뢰해도 된다고 결정했어. 예의상 하는 말이 아니야. 난 내 눈에 자신이 있거든. 널 '전우'라고 부르는 건 어때? 팀장도 나랑 처음에는 물과 기름 같은 사이였지만, 그 여자처럼 전우도 내 성실함에 마음이 움직일 거라고 봐. 그렇지도 않다고? 팀장은 지금도 나에 대해 클레임을 걸고 있다고? 엥?
 
-	博士，这边的文件......嗯？居然睡着了吗。唉，就算是因为有我在，也不能这么没戒心啊。
 	ドクター、このファイルなんだけど……あれ？眠ってしまったのか。はぁ、僕がいるからって、そんな無防備だと困るな。
-	Doctor, the files over here are... Hm? Already asleep, huh? Well, even if it’s just me, you really shouldn’t let your guard down like that.
+	Doctor, the files over here are... Hm? Already asleep, huh? Well, even if it's just me, you really shouldn't let your guard down like that.
 	박사, 이 파일 말인데…… 어라? 잠들었네. 하아, 내가 있다고 해서 그렇게 무방비하면 곤란한데.
 
-	三号作战小队，先锋通讯员极境，前来报到。这应该还是头一次不是机械通讯，而是直接与你对话吧，博士？
 	第三作戦小隊所属、先鋒通信員のエリジウム、ただいま着任したよ。通信機越しじゃなくて、直接話せたのは初めてだよね、ドクター。
 	3rd Combat Squad, Vanguard and communications specialist, Elysium, reporting in. I do believe that this is our first time speaking face-to-face rather than through electronic means, Doctor?
 	제3 작전팀 소속 선봉 통신원 엘리시움, 지금 막 착임했어. 통신기 너머가 아니라 직접 이야기하는 건 처음이지? 박사.
 
-	很多内部的作战记录里都能看到我自己，这种感觉有点奇怪。
 	内部の作戦記録で自分の戦う様子を目にするなんて、なんか不思議だよね。
-	I can see myself in a lot of these combat records. Talk about weird.
+	I can see myself in a lot of these battle records. Talk about weird.
 	내부 작전 기록으로 내 전투 모습을 보다니, 뭔가 신기하네.
 
-	非常感谢。不过再晋升的话，我的职位该不会就要超过队长了吧？
 	感謝するよ。けどさ、もう一度昇進したら、もしかして僕の役職は隊長を超えてしまう感じ？
-	Thank you very much. I won’t end up with a higher rank than my captain if I get promoted again, will I?
+	Thank you very much. I won't end up with a higher rank than my captain if I get promoted again, will I?
 	고마워. 그런데 말이야, 한 번 더 승진하면 혹시 내 계급이 팀장을 뛰어넘어버리는 건가?
 
-	我一向相信自己的判断，博士。如果下命令的那个人是你，我不会有所质疑，所谓战友，不就是这样吗。
 	僕は自分の判断にいつも自信を持ってるよ、ドクター。君の命令だというなら、僕はそれを疑ったりしない。戦友とは、そういうものでしょう？
-	I’ve always trusted my own judgment, Doctor. But if you’re the one giving me orders, I would not question it whatsoever. After all, is that not what it means to be a comrade-in-arms?
+	I've always trusted my own judgment, Doctor. But if you're the one giving me orders, I would not question it whatsoever. After all, is that not what it means to be a comrade-in-arms?
 	난 내 판단에 항상 자신이 있어, 박사. 네 명령이라면 난 그걸 의심하거나 하지 않아. 전우라는 건 그런 거잖아?
 
-	当然，我很乐意。
 	もちろん喜んで。
-	Of course, I’d love to.
+	Of course, I'd love to.
 	물론, 기꺼이.
 
-	放心，只是暂时代理。毕竟队长现在不在嘛。
 	安心して、あくまで一時的な代役だから。隊長がいない間だけのね。
-	Don’t worry, I’m just a stand-in. The captain’s not here right now after all.
+	Don't worry, I'm just a stand-in. The captain's not here right now after all.
 	안심해. 어디까지나 일시적인 대역이니까. 팀장이 없는 동안만인 거지.
 
-	那么就出发吧，大家跟随我的路线行动。
 	それじゃ出発しようか。みんな、僕のルートに沿って行動してね。
-	In that case, let’s go. Everyone, follow the route I drafted.
+	In that case, let's go. Everyone, follow the route I drafted.
 	그럼 출발할까. 다들 내 루트에 따라 행동해줘.
 
-	耳麦都检查好了吗？
 	ヘッドセットのチェックは済んだ？
 	Have you finished checking the headsets?
 	헤드셋 체크는 끝났어?
 
-	没问题。
 	問題ないよん。
 	No problem.
 	문제없어~
 
-	信号稳定，随时可以行动。
 	信号は安定。いつでも行けるよ。
 	The signal is stable. Ready to go at any time.
 	신호는 안정적이야. 언제든 움직일 수 있어.
 
-	对面的目标是谁呢。
 	相手のターゲットは誰かな。
 	I wonder who our target will be.
 	상대의 타겟은 누굴까.
 
-	以主之名，聚集于此旗之下——嗯，我一直都想尝试说一次这种台词。
 	主の名を掲げ、この旗の下へ集え――ふむ、こんなセリフを一度言ってみたかったんだ。
-	Gather under this banner in the name of the Lord— Hah, I’ve always wanted to try saying that.
+	Gather under this banner in the name of the Lord— Hah, I've always wanted to try saying that.
 	주님의 이름을 걸고, 이 깃발 아래 모여라…… 응, 이런 대사, 한번 해보고 싶었어.
 
-	不，对不起，我并不信教。
 	いや、悪いね、僕は別に信徒じゃないよ。
-	S-sorry, I’m really not religious.
+	S-sorry, I'm really not religious.
 	아냐, 미안해. 난 딱히 신자는 아니야.
 
-	谁会！在战场上！拿旗子当武器啊！
 	誰がっ！戦場でっ！旗を武器にするんだよっ！
 	Who would! Use a flag! As a weapon! On the battlefield!
 	누가! 전장에서! 깃발을 무기로 쓰냐고!
 
-	看清了吗！
 	これで分かったでしょう！
 	See that?
 	이걸로 알았지?!
 
-	速战速决！
 	速戦即決！
-	Let’s end this quickly!
+	Let's end this quickly!
 	속전속결!
 
-	再次确认，我们果然很适合搭档。
 	僕たちがいいパートナーになるって、改めて証明されたね。
 	This just confirms it. We really do make the best partners.
 	우리가 좋은 파트너라는 게 다시 한번 증명되었네.
 
-	不错的配合，来击个掌吧。
 	いい連携だったね、ハイタッチしようか。
-	Our teamwork’s pretty good. High five!
+	Our teamwork's pretty good. High five!
 	좋은 연계였어. 하이파이브할까?
 
-	丧失斗志的已经不算是敌人了，到此为止吧。
 	戦意を失った者はもう敵じゃない、ここまでにしよう。
-	Those who’ve lost their fighting spirit are no longer our enemies. Let’s stop here.
+	Those who've lost their fighting spirit are no longer our enemies. Let's stop here.
 	전의를 잃은 자는 더 이상 적이 아니야. 여기까지 하자.
 
-	太危险了，最后的防线由我来守，博士，请立即指挥撤退！
 	このままじゃ危険だ、最後の防衛線は僕が守るから、ドクターは早く撤退命令を！
-	It’s too dangerous. I’ll make sure our last line of defense holds. Doctor, please give the order to retreat!
+	It's too dangerous. I'll make sure our last line of defense holds. Doctor, please give the order to retreat!
 	이대로는 위험해. 마지막 방위선은 내가 지킬 테니까 박사는 빨리 철수 명령을!
 
-	嗯？这个房间是不是翻新过？
 	へぇ？この部屋はリフォームでもしたのかな？
 	Hm? Has this room been renovated?
 	헤에? 이 방, 리모델링이라도 한 건가?
 
-	什么事？
 	なになに？
-	What’s up?
+	What's up?
 	뭐야, 뭐야?
 
-	听说我头上的这撮红发，掉光就不会再长了。问题很严峻，博士。
 	僕の髪のこの赤いところ、全て抜けてしまえばもう生えてこないんだって。由々しき問題だよ、ドクター。
-	I heard that if this tuft of red hair on my head falls out, it won’t ever grow back. This is a very serious problem Doctor.
+	I heard that if this tuft of red hair on my head falls out, it won't ever grow back. This is a very serious problem Doctor.
 	내 머리의 이 빨간 부분, 전부 빠져버리면 그 뒤론 안 자란다더라. 그냥 넘어갈 수 없는 문제라고, 박사.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	今天有什么任务吗？
 	今日は何か任務ある？
 	Got any missions for me today?
 	오늘은 뭐, 임무 없어?
+
+干员档案\Background:
+	基础档案 :
+	【代号】极境
+	【性别】男
+	【战斗经验】两年
+	【出身地】伊比利亚
+	【生日】5月8日
+	【种族】黎博利
+	【身高】187cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】エリジウム
+	【性別】男
+	【戦闘経験】二年
+	【出身地】イベリア
+	【誕生日】5月8日
+	【種族】リーベリ
+	【身長】187cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Elysium
+	[Gender] Male
+	[Combat Experience] 2 Years
+	[Place of Birth] Iberia
+	[Date of Birth] May 8
+	[Race] Liberi
+	[Height] 187cm
+	[Infection Status] 
+	Crystals have appeared on his body. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 엘리시움
+	[성별] 남
+	[전투 경험] 2년
+	[출신지] 이베리아
+	[생일] 5월 8일
+	[종족] 리베리
+	[신장] 187cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】优良
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Excellent
+	[Physical Resilience] Normal
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	出身伊比利亚的罗德岛干员，掌握着与声讯相关较为特殊的源石技艺，试图偷偷在自己的客观履历里写“实乃百年难得一遇的大帅哥”，被人事部录入人员当场抓获。
+	现于特殊行动小队三队中担任队长副手，负责维持战场通讯畅通，辅助小队成员进行秘密行动。
+
+	個人履歴 :
+	音声情報関連の特殊なアーツを扱う、イベリア出身のオペレーター。自分の履歴にこっそり「百年に一人のイケメン」と書き添えようとした際、人事部のスタッフに発見され、阻止された。
+	現在は特殊行動隊の第三小隊隊長補佐を務めており、戦場通信の維持と秘密作戦の支援を担当している。
+
+	Profile :
+	Elysium, a Rhodes Island Operator from Iberia, mastered a rather unique form of voice-related Originium Arts. Caught trying to fill in 'Once in a lifetime hottie' on his resume profile, he was detained on the spot by members of the HR Department. 
+	Now leader of the 3rd Special Operations Squad, Elysium is responsible for maintaining clear channels of communication on the battlefield and assisting squad members in covert operations.
+
+	프로필 :
+	    이베리아 출신의 로도스 아일랜드 오퍼레이터. 통신에 관련된, 비교적 특수한 오리지늄 아츠를 다룬다. 자신의 프로필에 몰래 '백 년에 한 번밖에 볼 수 없는 절세미남'이라고 적으려다 현장에서 인사부서 기록 담당에게 적발되었다.
+	    현재 제3특수작전팀에서 팀장 조수 역을 맡고 있으며, 전장에서 원활한 통신 연결과 팀원들의 비밀 작전 보조를 담당하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。 
+	
+	【体细胞与源石融合率】7% 
+	干员极境体表可见少量源石结晶，本人强行说是装饰，怎么会有这么没品味的装饰。
+	
+	【血液源石结晶密度】0.21u/L 
+	病症较为稳定，对病灶的控制已见一定成效，后续治疗需根据患者实际状况进行适当调整。
+	
+	干员极境的病情一向很稳定，或许这和他那种自信乐观到有点过头的心态有关？我倒是不讨厌他这样的家伙，就是偶尔会有点烦。
+	——嘉维尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7%
+	体表にわずかな結晶の痕跡を確認できるが、本人はデコレーションだと言い張っている。そんなセンスのないデコレーション、あるわけがない。
+	
+	【血液中源石密度】0.21u/L
+	病状は安定し、病巣の広がりはある程度抑えられている。患者の容体に応じて、今後の治療計画を立てるべきだろう。
+	
+	病状はいつも通り安定してるぜ。あの溢れる自信とポジティブさが理由か？ああいう奴は嫌いじゃねぇけど、ちょっとウザイこともあるな。
+	――ガヴィル
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of his internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in his circulatory system, confirming him to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 7%
+	A small amount of Originium crystals are present on the surface of Elysium's body. He emphatically claims that they are there for decoration, but how could anyone choose to adorn themselves so tastelessly? 
+	
+	[Blood Originium-Crystal Density] 0.21u/L
+	The current condition is stable, and effective results have been obtained through focal treatment. Follow-up treatment should be adjusted appropriately depending on the patient's actual condition. 
+	
+	Elysium's condition has always been stable. Perhaps this is related to his confident, over-the-top optimism? I don't necessarily hate guys like him, but he does get on my nerves every now and then. 
+	—Gavial
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 7%
+	오퍼레이터 엘리시움의 체표면에서 소량의 오리지늄 결정 분포 확인. 본인은 장식품이라고 강력히 주장하고 있으나, 이렇게 볼품없는 장식품이 존재할 리가 없다.
+	
+	[혈중 오리지늄 결정 밀도] 0.21u/L
+	증세가 비교적 안정되어있으며, 병소도 어느 정도 제어되고 있기에 후속 치료 일정은 환자의 상태에 따라 조정한다.
+	
+	    오퍼레이터 엘리시움의 병세는 줄곧 안정적인데, 어쩌면, 그의 지나칠 정도로 낙관적인 심리 상태와 관련이 있을 수도? 이런 녀석이 싫은 건 아닌데, 그래도 가끔은 좀 귀찮단 말이지.
+	——가비알
+
+———————————————————————————————
+
+	档案资料一 :
+	尽管干员极境一直声称自己与出身地伊比利亚无法相合，但在他的身上，的确存在着那一地区表现显著的无拘无束、豪爽自由等特质。
+	极境曾独自游历过许多地域，脚步几乎踏遍大半你我能报出名字的城市，包括正如他代号所指代的那种极地与绝境。据其本人表示，在加入罗德岛之前，他确实考虑过信使这一职业，而加入罗德岛则令他暂时搁置了这一职业规划。
+	事实上，干员极境的方向感非常强，他能够记忆他所去过的任何地方，并且能够在脑中勾勒出正确的行动路线。只不过，他所构建出的地图往往都需要一定的理解成本，在战场上时极境会自行简化路线以方便理解，而日常生活中他往往并不会如此贴心。
+
+	第一資料 :
+	エリジウムはいつも自身はイベリア人らしくないと主張しているが、彼の性格には、確かにあの地域特有の自由奔放さと豪快さが表れている。
+	ロドスに加入する前は、「極地」を表す「エリジウム」というコードネームの通り、名の知れた都市のみならず、極地や秘境も含む多くの地域を一人で踏破しており、トランスポーターになろうと考えていたそうである。しかしロドスに加入したことで、このキャリアプランを一時的に手放した。
+	実際、エリジウムの方向感覚はとても優れている。彼は一度訪れた場所は決して忘れず、すぐに頭の中に正しいルートを描くことができるのだ。だが、彼の描いた地図を理解するためには一工夫必要である。戦場ではすぐに理解できるようにルートを簡潔に表記してくれるが、普段の彼はそれほど丁寧ではないからだ。
+
+	Archive File 1 :
+	Although Elysium has always proclaimed that there is no way he could have been born in Iberia, he shares the characteristics of unfettered boldness and unrestrained freedom that are so prominent in that area. 
+	Elysium has traveled the corners of the world alone, and has been to just about any place that you or I could name, including the kind of forlorn places that his codename suggests. According to his own account, he did consider becoming a messenger prior to joining Rhodes Island, a career plan that is now on hold. 
+	In fact, Elysium's sense of direction is so strong that he can remember any place he's ever been to, as well as being able to mentally map out a course of action with surprising accuracy. However, the maps that he comes up with often are not cost-efficient or practical, and he sometimes has to simplify these routes to facilitate better understanding and realizability — and yet, none of this meticulousness is carried over to his daily life.
+
+	파일 자료 1 :
+	    오퍼레이터 엘리시움은 언제나 자신이 자신의 고향인 이베리아와는 맞지 않는다고 하나, 그에게선 이베리아 특유의 구속받지 않고, 자유롭고 시원시원한 모습이 여실히 드러난다.
+	    과거 엘리시움은 혼자서 수많은 지역을 돌아다녔는데, 그의 코드네임이 의미하는 극지방과 세상과 단절된 지역을 포함, 우리가 알고 있을 만한 거의 모든 도시를 가보았다고 한다. 본인의 말에 따르면 로도스 아일랜드에 합류하기 전, 전달자라는 직업을 진지하게 고려했으나, 로도스 아일랜드에 합류하면서 그 계획은 잠시 보류되었다고 한다.
+	    실제로 오퍼레이터 엘리시움의 방향 감각은 굉장히 뛰어난데, 가보았던 곳이면 어디든 기억하였고, 머릿속에서 정확한 행동 경로를 그려낼 수도 있었다. 다만 엘리시움이 만든 지도를 보려면 어느 정도의 노력이 필요하다. 전장에서야 그가 알아서 경로를 간소화 시켜줘서 이해하기 쉽지만, 일상생활에선 그렇게 하지 않는 경우가 많기 때문이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	由于干员极境所担任的职能较为特殊，时常会因任务需要而被调动到各个小队。
+	一般来说，极境在队伍中除掌握通讯外，最常做的工作往往是协调人际关系与仲裁。他对同伴的重视远超许多更加喜欢单打独斗的干员，因此，小队成员之间起争执是他最不愿意见到的事情。
+	在执行任务的过程中，极境的存在会使队伍中的氛围更加轻松活跃。尽管许多时候，极境本人并没能意识到自己为团队的和谐作出了多大的贡献，但他的确总能引起一些独特的反应。每当因为遭遇一些特殊情况，而不得不将一些性格不是那样合拍的干员编入同一小队时，为确保任务的顺利推进，行动的负责人会考虑让极境也加入其中。
+
+	第二資料 :
+	エリジウムは、その特殊な担当分野ゆえに、任務の度に異なるチームに借り出されることが多い。
+	チームの通信維持以外に、彼に任される最も多い仕事は、人間関係を取り持つことだ。誰よりも仲間を大切にしている彼は絶対に、隊員同士の揉め事を見たくないのである。
+	任務を執行中の彼はチームのムードメーカーだ。チームの良い雰囲気のために自身がどれほど貢献しているのか、エリジウム本人は意識していないだろうが、確かに彼は人々の間に化学反応を起こすのだ。それを知る任務の振り分け担当者は、特別な事情で性格が合わないオペレーターたちを同じチームに配置する必要がある場合、円滑に任務が遂行されることを願って、エリジウムの参加を検討するという。
+
+	Archive File 2 :
+	Due to Elysium's unique utility, he is often transferred between various teams due to what the task requires. 
+	Generally speaking, in addition to facilitating communication within the team, Elysium's most frequent job is to coordinate interpersonal relationships and arbitrate conflict. He values the relationships between team members far more than Operators who prefer to work alone; therefore, any conflict between members is the last thing he wants to see. 
+	Elysium's mere presence during a mission is enough to improve a team's morale and facilitate a more relaxed atmosphere. Though he often fails to recognize his own contribution in maintaining the harmony of a team, he always manages to elicit some very memorable reactions. When operators with clashing personalities have to be assigned to the same team due to special circumstances, the operation leader will often consider adding Elysium to keep the operation moving forward smoothly.
+
+	파일 자료 2 :
+	    오퍼레이터 엘리시움은 맡은 역할의 특수성 때문에 종종 그 필요에 따라 다른 팀으로 배정되기도 한다.
+	    일반적으로 엘리시움이 원활한 통신을 유지하는 것 외에 가장 자주 맡게 되는 역할은 팀원들 간의 관계의 조절과 중재다. 엘리시움이 생각하는 동료의 중요도는 다수의 홀로 싸우는 오퍼레이터들의 것보다 훨씬 더 높다. 그래서 그는 팀원들 간에 분쟁이 발생하는 것을 가장 싫어한다.
+	    임무 수행 중 엘리시움은 팀의 분위기를 보다 편하고 활력 있게 해준다. 정작 엘리시움 본인은 대부분 자신의 공헌을 눈치채지 못하고 있지만, 그는 늘 이런 독특한 반응을 불러일으킨다. 특수한 상황을 맞닥뜨리거나, 어쩔 수 없이 성격이 잘 맞지 않는 오퍼레이터와 한 팀을 이루어야 할 때, 작전 책임자는 순조로운 임무 진행을 위해 엘리시움을 팀에 합류시키는 것을 고려하곤 한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	“我和极境是差不多时间加入的，对他还算有所了解。
+	或许会有人因为他不正经的玩笑语气而相信他所说的话，类似说自己并不辛苦，或者他的职责并不怎么重要之类的。
+	但我们都应当认识到，这只不过是一类谦辞。特殊小队的工作有时会相当危险，而极境本人所承担的职能更是至关重要，他所携带的发信装置需要配合他所使用的源石技艺，才能发挥出最大的功效，极境本人与其队长之间的默契配合，有时甚至能够成为我们胜利的关键。
+	说他的工作是带来勇气，我个人认为也并不为过。但是这种勇气，不是指那种挥舞旗子给大家带来战意上的鼓舞，而是更加实际的东西。
+	只有如极境这样的干员在战场上活跃，我们的指挥官才能够更好地把控全局，干员们才能安心战斗，无后顾之忧，一些特殊的作战计划，才能得以实现。”
+	——杜宾
+
+	第三資料 :
+	「私はエリジウムとはほぼ同じ時期に加入したので、彼のことはある程度知っているつもりだ。
+	彼が語る「苦労していない」「自身の役割は重要ではない」などといった冗談めかした言葉を信じている者もいるかもしれないが、敢えて言っておく。
+	あれはただの謙遜であることを、我々は理解すべきだ。 特殊行動隊の任務は危険な状況に陥ることも多い。そんな時彼の役割は極めて重要だ。彼の携帯している発信装置は、本人のアーツがあってこそ最大の効果を発揮することができる。彼と隊長の連携がうまくとれてさえいれば、勝利に繋がる確率は飛躍的に上昇するだろう。
+	彼の仕事は、隊員たちに勇気を与えることと言っても過言ではない。ここで言う勇気とは、旗を振って士気を上げるような精神的な鼓舞ではなく、もっと現実的なもののことだ。
+	エリジウムのような者の活躍のおかげで、我々の指揮官は全体の状況をよりしっかりと把握できる。そして状況がわかれば、オペレーターたちは安心して戦うことができる。安心は勇気に繋がる。つまり一部の特殊な戦闘計画が実現したのは、彼らあってこそということだ。」
+	――ドーベルマン
+
+	Archive File 3 :
+	'Elysium and I joined at roughly the same time, so I know a few things about him. 
+	There might be people out there who are inclined to believe that he doesn't work hard or take his responsibilities seriously because of his somewhat irreverent, joking tone. 
+	But we've all come to realize that this is but another form of humility. A Special Ops team's line of work can be very dangerous, and Elysium's role during these operations is sometimes even more important. The transmission device he carries with him needs to be paired with his Originium Arts in order to achieve the greatest effect, and the tacit synergy between Elysium and his direct superior can sometimes be the key to victory. 
+	To say that his job is to provide courage itself is, in my opinion, not an exaggeration. But this courage is not the flag-waving kind that gets people riled up before they charge off to war, but rather something more practical. 
+	When operators such as Elysium are present on the battlefield, the commander can better focus on understanding the overall situation, and individual operators can fight with the peace of mind that the operation plan is being executed. Some special operations even hinge on the state.' 
+	—Dobermann
+
+	파일 자료 3 :
+	    "난 엘리시움과 비슷한 시기에 입사했다. 그래서 그에 대해 어느 정도는 알고 있다고 할 수 있지. 그의 경박한 농담조의 말투 때문에, '힘들지 않다'거나 '자신이 맡은 역할은 중요한게 아니다'라는 그의 말을 믿는 사람도 있다.
+	    하지만 그건 그저 겸손의 표현일 뿐이라는 것을 알아야한다. 특수 팀의 업무는 때때로 굉장히 위험할 수도 있기에, 엘리시움 본인의 역할은 더더욱 중요하다. 그가 휴대한 발신 장치는 그의 오리지늄 아츠로만 최고 효율을 발휘할 수 있는데다, 때론 심지어 엘리시움 본인과 팀장 간의 호흡이 승리의 관건이 되기도 한다.
+	    나는 그의 역할이 팀에 용기를 북돋아 주는 것이라고 해도 과언이 아니라고 생각한다. 하지만 그 방법은, 깃발을 휘두르며 아군의 전의를 고양시키는 그런 종류의 것이 아니라, 좀 더 실용적인 방법을 통해 실현하는 것이라 할 수 있다.
+	    엘리시움 같은 오퍼레이터가 전장에서 활약해야, 지휘관이 전장을 더 효과적으로 통제할 수 있고, 오퍼레이터들은 뒤를 걱정하지 않고 안심하고 싸울 수 있으며, 일부 특수 작전 계획 역시 진행할 수 있게 된다."
+	——도베르만
+
+———————————————————————————————
+
+	档案资料四 :
+	在什么样的人值得信任这一问题上，干员极境有他自己独到的判断基准。
+	整个罗德岛内，他最信任的人毫无疑问是其所属的第三小队的队长，而对方显然也是如此。可以说，这份牢不可破的信赖关系与二人在各方面契合的能力、以及积年累月的相处磨合分不开关系。
+	作为罗德岛内部特殊小队的队长，第三小队领队人的自身能力本就极为特别，在作战时往往能够发挥意想不到的可贵功效，但这份能力在其日常生活中却成为了一种阻碍，只有通过极境的辅助，第三小队领队才能够与他人正常沟通，而极境或许也正是因为身上担负着这样的职责，才最终选择留在了罗德岛。
+	
+	“虽然他似乎一直在挨打，但是能看出来他们关系的确很好。”
+	“挨打？第三小队队长这么凶的吗？”
+	“呃，倒也不是，虽然看上去很酷很冷静，但队长其实可内向了......会挨打，完全是极境那家伙自己太烦人的问题啦！”
+	——第三小队某队员与人事部干员之间的交谈
+	
+	一旦被极境认定为可靠，他便会以自己的方式来展现自己对于对方的信赖，具体可能会表现为对话中的废话越说越多，或是打赌时的赌约越来越傻。在此基础上，“战友”这一称呼，对于极境来说则拥有更为特殊的意义，并不是能够轻易被使用的词语。
+	不论如何，从来没有人能够否认，除去有点烦人这一点外，极境在战场上是一个很好的队友，一个可靠的搭档。
+
+	第四資料 :
+	どのような人が信頼に値するかという問題について、エリジウムには独自の判断基準がある。
+	全ロドスにおいて彼が最も信頼する人物は間違いなく、彼が所属する第三小隊の隊長だ。そして相手も彼のことを信頼している。この信頼関係は、二人の能力の相性および長年の戦友関係によるものだ。
+	ロドス特殊行動隊の隊長として、第三小隊のリーダーはかなり独特な能力を持っている。それゆえ戦闘中では想像以上の力を発揮できるのだが、一方で、その能力は日常生活の障害となっていた。 エリジウムのサポートがなければ、隊長は他人とまともなコミュニケーションをとることすらできないだろう。エリジウムがロドスに残る理由は、信頼している隊長を助けたかったからかもしれない。
+	
+	「彼はよく殴られてるらしいですが、仲が良いのは間違いないですよ。」
+	「殴られる？第三小隊の隊長はそんな厳しい性格の人だったの？」
+	「いや、そういうわけじゃないです。隊長はクールで冷静な人に見えますが、実はすごく内向的で……殴るのは、エリジウムがひどいウザ絡みをするからですよ。」
+	――第三小隊のある隊員と人事部オペレーターとの会話
+	
+	彼は「会話の中のくだらない言葉を増やす」「馬鹿げた賭け事を持ちかける」など彼なりの方法で、人への信頼を表現している。「戦友」という呼び名は彼にとって特別な意味があるため、やすやすと使用することはない。
+	少々ウザイが、エリジウムは優れた仲間であり、戦場では信頼できるパートナーである。これは誰もが認める事実である。
+
+	Archive File 4 :
+	Elysium has his own unique criteria for determining whether someone is trustworthy. 
+	In the entirety of Rhodes Island, the person who Elysium trusts most is the leader of the 3rd Squad to which he is also assigned, and these sentiments are reciprocated. It can be said that the duo's unbreakable trust is a product of their ability to fit together in all aspects, as well as years of cultivating their relationship. 
+	As the captain of one of Rhodes Island's special squads, the leader has a very special ability. This ability often provides unexpected and valuable effects in combat, but poses a hindrance in daily life. Only through Elysium's assistance is the leader able to normally communicate with others, and this responsibility may perhaps be the reason why Elysium chose to stay in Rhodes Island. 
+	
+	'Even though it seems like he's always getting smacked around, they're actually on very good terms.' 
+	'Smacked around? Is the leader of the 3rd Squad such a vicious person?' 
+	'Hmm, I wouldn't say that. The leader's actually an introverted person, despite trying to maintain a cool and calm appearance... Whatever happens, it's usually because Elysium is such a pain in the ass!' 
+	—Conversation between a member of the 3rd Squad and a member of the HR Department
+	
+	Once Elysium has recognized someone as reliable, he will display his trust in his own special way, which may manifest in the form of nonsensical dialogue, or through increasingly preposterous bets. In this regard, 'comrade' has a very special meaning for Elysium, and this is not a term that he uses lightly. 
+	Taking everything in consideration, none can deny that Elysium is an excellent teammate and a reliable partner on the battlefield, even if he can be a bit annoying.
+
+	파일 자료 4 :
+	    신뢰할 만한 사람은 어떤 사람인가라는 문제에 대해, 오퍼레이터 엘리시움은 자신만의 독특한 판단 기준을 갖고 있다.
+	    로도스 아일랜드 전체에서 그가 가장 신뢰하는 사람은 그가 속한 제3팀의 팀장임이 틀림없으며, 그 팀장 역시도 엘리시움을 가장 신뢰하고 있을 것이다. 그리고 이런 확고한 신뢰 관계는 두 사람이 다방면으로 서로 의기투합하는 능력과 오랜 시간동안 함께 손발을 맞춰온 것과 관계있다고 할 수 있다.
+	    로도스 아일랜드 내 특수팀의 팀장이자, 제3팀의 리더로서 자신의 능력 그 자체가 매우 특별하여, 작전 시 종종 예상치 못한 성과를 거두기도 한다. 다만 이런 능력은 일상생활에서는 오히려 장애가 되는데, 제3팀의 팀장은 엘리시움의 도움을 통해서만 다른 사람들과 정상적으로 교류할 수 있다. 엘리시움은 어쩌면 자신이 이런 책임을 지고 있다는 것을 알고 있기에 결국 로도스 아일랜드에 남기로 한 것일지도 모른다.
+	    "엘리시움이 항상 얻어맞는 것 같지만, 그래도 저 둘은 참 사이가 좋아 보여."
+	    "얻어 맞아? 제3팀 팀장이 그렇게나 폭력적인 사람이었나?"
+	    "음, 그런게 아니라, 겉보기엔 엄청 쿨하고 냉정해 보이지만, 사실 굉장히 내성적인 사람이지…… 얻어 터진 건, 순전히 엘리시움 그 녀석이 계속 귀찮게 굴어서 그런거야."
+	——제3팀 소속 어느 오퍼레이터들 간의 대화.
+	
+	    일단 엘리시움이 믿을 만하다고 판단한다면, 그는 자신만의 방식으로 상대에 대한 신뢰를 표현하려 한다. 구체적으로 말하자면, 대화 중에 쓸데없는 말이 점점 많아진다던가, 갈수록 바보 같은 내기를 한다던가 하는 식으로 말이다. 여기에다가, '전우'라는 칭호는 엘리시움에게 있어서 보다 특별한 의미를 갖고 있으며, 쉽게 쓰는 말이 아니다.
+	    아무튼 조금 귀찮다는 점을 제외한다면, 누구도 엘리시움이 전장에서 굉장히 우수한 동료이자, 믿음직한 파트너라는 점을 부인할 수 없을 것이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	还要往哪里晋升？
+	如果要他越过队长，极境本人是不会同意的。
+
+	昇進記録 :
+	これ以上昇進させてどうする？
+	隊長よりも高い階級になることを、彼本人が受け入れるはずがないだろう。
+
+	Promotion Record :
+	How high does he want to get promoted? 
+	If that position would put him above the squad's captain, Elysium would turn down that opportunity.
+
+	승진 기록 :
+	    대체 어디까지 승진시킬 셈이지?
+	    팀장보다 높은 자리에 앉는 건 엘리시움 본인이 동의하지 않을텐데.

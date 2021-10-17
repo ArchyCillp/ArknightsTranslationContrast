@@ -1,11 +1,17 @@
 ID:
 	char_109_fmout
 
-干员代号\Name:
+CV:
 	远山
 	ギターノ
 	Gitano
 	기타노
+
+干员代号\Name:
+	优木加奈
+	優木かな
+	Kana Yuuki
+	유우키 카나
 
 招聘合同\Character Usage:
 	罗德岛术师干员远山，将用源石技艺为小队谋划未来。
@@ -43,177 +49,315 @@ ID:
 	운명
 
 语音\Voices:
-	嗯，博士。您今天的运势是......
 	さて、ドクター、おぬしの今日の運勢は……。
 	Well, Doctor, your tarot card for today is...
 	자아, 박사. 그대의 오늘 운세는… 
 
-	您也想知道，自己未来的命运吗......
 	おぬしも未来の運命を知りたいのか……。
 	Would you like to learn more about your future?
 	그대도 미래의 운명을 알고 싶은 것인가… 
 
-	随时都别忘记......未知的力量引起的反作用，很可能反噬我们自身。
 	ゆめゆめ忘れぬことじゃ。未知なる力による反作用は、おぬしたちに牙を剥くこともあると。
 	Never forget that the confluences of unknown forces may very well devour us.
 	반드시 기억해 두게나. 미지의 힘에 의한 반작용은 도리어 그대들에게 해가 되는 경우도 있다는 것을.
 
-	塔罗只能祛除内心的雾霭，却从来不曾拥有万事皆能的神性。
 	タロットは、あくまで心に立ち込める霧を晴らしてくれるだけ。万能の神にはなり得ぬ。
 	Tarot cards aren't divine, all-seeing tools. Instead, we use them for guidance when we feel lost.
 	타로는 어디까지나 마음속 뿌연 안개를 걷어줄 뿐. 전지전능한 신이 아닐세.
 
-	命运就像大地，谁也不能挣脱它的枷锁。
 	運命とは大地のようなものじゃ。そのくびきから逃れられるものは、誰一人としておらぬ。
 	Destiny is like the earth beneath our feet—no one can escape it.
 	운명이란 대지와 같은 것이네. 그 속박에서 벗어날 수 있는 건 아무도 없지.
 
-	人无法挣脱大地的桎梏，却能改变大地的样貌。人类的行为中潜藏着无数的可能性。
 	人は、大地のくびきからは逃れられぬ。じゃが、大地そのものを変えてしまうことはできる。それに秘められたるは、無数の可能性じゃ。
 	Humans might never be able to live without the earth... but we can change it. Our actions belie endless possibilities.
 	인간은 대지의 속박에서 벗어날 수 없는 법. 허나, 대지 그 자체를 바꿔버릴 순 있지. 그 안에 감춰진 건, 바로 무한한 가능성이야.
 
-	运势中，存有无数主题，而最常见的就是......牌运。若要改变牌运，就要勇于改变命运。
 	占いには、様々な手法がある……手立てとしてはタロットが一番多いのう。もしタロットの結果を変えたいというのなら、運命そのものを変えようとする勇気が必要じゃ。
 	There are countless topics for which you can consult the tarot. One of the most common is luck. To change your luck, you must be brave enough to change your fate.
 	점을 보는 방법엔 여러 가지가 있다네…… 그중엔 타로가 가장 대표적이지. 만일 타로의 결과를 바꾸고 싶다면, 운명 그 자체를 바꾸고자 하는 용기가 필요할 걸세.
 
-	最近在占卜师之间有一个流行的仪式，我们称之为“命运之手”，您想试试看吗？
 	最近占い師の間で流行りの儀式、わらわたちは「運命の手」と呼んでおる。試してみるか？
 	We have a ritual among diviners that's all the rage these days. We call it the 'Hand of Fate.' Would you like to try it?
 	요즘 점술가들 사이에서 유행하는 의식이 있는데, 우리는 그걸 '운명의 손'이라 부르지. 어디 한번 해 보겠나?
 
-	对“死亡”的占卜，在我们业内也算是种禁忌。但我认为，“死亡”并非终点，而是一个新的开始。
 	「死」を占うことは、占い師の間ではタブーとされておる。じゃがわらわは、「死」は終わりではなく、新たな始まりと考えておる……。
 	It's taboo in the industry to do readings concerning death. But I don't believe death is the end—it's the beginning of something new.
 	…'죽음'을 점치는 건 점술가들 사이에선 금기시되어 있지. 다만, 우린 '죽음'을 끝이 아닌 새로운 시작으로 여긴다네…… 
 
-	偶尔，梦境会为你展示有趣的启示，如果体验了这样的梦，要好好保存在记忆中哦，博士。
 	夢からは、稀に面白い啓示が得られることもある。見た夢はしっかりと記憶に留めておくのじゃ、ドクター。
 	Dreams can often enlighten you in strange ways. If you have an enlightening dream like that, you'd best remember every detail, Doctor.
 	꿈에선 아주 가끔 흥미로운 계시를 얻을 수 있지. 꾼 꿈은 확실히 기억해두도록, 박사… 
 
-	遵从阿尔克纳的指引，我的命运终于与您交汇了，博士。
 	アルカナの導きにより、ようやくおぬしとわらわの運命が交わるのじゃな、ドクター。
 	Following the guidance of the arcana, I've finally managed to cross paths with you, Doctor.
 	아르카나의 인도 아래 드디어 그대와 내 운명이 엇갈리게 되었군, 박사.
 
-	有灵感了呢。
 	霊感の高まりを感じるぞ。
 	I feel inspired now.
 	영감이 강해진 게 느껴지는군.
 
-	我已经在水晶里预见了这次晋升哦？呵呵，只是个玩笑而已。
 	わらわの水晶が、この昇進の光景を映しておったぞ……。ふふ、ただの冗談じゃ。
 	I'd already foreseen this promotion in my crystal ball. Haha, just kidding!
 	내 수정구슬이 이미 승진하는 모습을 비춰주고 있었다네…… 후후, 농담 한 번 해본 걸세.
 
-	博士，你想知晓......自己的命运终将去往何方？很遗憾，我帮不了你。为你揭示那些秘密，并不是我的使命。
 	ドクター、自らの運命の往く先を見たいと言うのか？残念じゃが、わらわは力になれん。その秘密を明かすのは、わらわの役目ではないのでな。
 	You want to know... your destiny, Doctor? Too bad, I can't help you. My mission is not to show you the secrets not meant for human eyes.
 	박사, 운명이 어디로 흘러가는지 보고 싶은가? 아쉽지만 그건 어렵다네. 그대의 운명에 얽힌 비밀을 밝혀내는 건 내 역할이 아니니 말일세.
 
-	请稍候，先来占卜一下这次战斗的结果吧。
 	しばし待たれい、この作戦の行く末を占おう。
 	Wait a minute, let me predict the results of this battle.
 	잠시 기다려 주게, 이 작전의 결말을 점쳐 볼 테니.
 
-	那么，就让我来为大家祈祷吧。
 	さて、皆の為に祈祷でもしようかのう。
 	Well then, let me pray for everyone.
 	자, 그럼 모두를 위해 기도라도 올려보도록 할까.
 
-	命运变幻无常，唯有胜者永存于世。
 	運命とは、有為転変のもの。世に残るのは勝者だけじゃ。
 	Fate is a fickle thing... only the victorious will forever be revered.
 	운명이란 항상 변하기 마련이네. 세상에 끝까지 남는 건 승자뿐이지.
 
-	我看到了结果。胜利属于罗德岛。
 	わらわには、ロドスの勝利がみえるぞ。
 	I can see the outcome. Victory belongs to Rhodes Island.
 	내겐 로도스 아일랜드의 승리가 보이네.
 
-	明智的选择。
 	賢明な判断じゃ。
 	A very wise choice.
 	현명한 판단일세.
 
-	我的回合。
 	わらわの出番じゃ。
 	My turn.
 	내 차례가 왔군.
 
-	抽一张卡片。
 	カードを引くがよい。
 	Dr.aw a card.
 	카드를 뽑게나.
 
-	不要违抗你的命运。
 	運命に抗うなかれ。
 	Do not attempt to go against your fate.
 	운명을 거스르지 말지어다.
 
-	虚空之塔。
 	虚空の「塔」よ。
 	The tower of void.
 	허공의 '탑'이여.
 
-	行空之战车。
 	「戦車」よ、空を駆けよ。
 	The flying chariot.
 	 '전차'여, 하늘을 달려라.
 
-	折断帝王的权杖。
 	「皇帝」の王笏をへし折れ。
 	Break the Emperor's scepter.
 	 '황제'의 왕홀을 꺾어 버려라.
 
-	女祭司毁灭一切。
 	万物を滅ぼせ、「女教皇」よ。
 	The Priestess will destroy all.
 	만물을 멸하라, '여교황'이여.
 
-	是命运扼住我们的咽喉，亦或是，我们将要对命运作绝地反击？
 	運命にねじ伏せられるのか、それとも絶望の地より迎え撃つのか？
 	Does fate have us in a chokehold... or shall we launch the ultimate counterattack against it?
 	운명에 굴복하겠는가, 아니면 절망의 땅으로부터 맞서 싸우겠는가?
 
-	我已经将他们全部移动到墓地之中了。
 	あの手合らは、すでに墓標の下へ送ったぞ。
 	I have moved all of them to the graveyard.
 	하찮은 것들은 이미 묘비 아래로 보내버렸다네.
 
-	该重新洗牌了。
 	さて、シャッフルのときじゃ。
 	Time to reshuffle the deck.
 	자, 카드를 섞을 시간일세.
 
-	不，这不该是我们应有的命运......
 	わらわたちの運命は、こんなものでは……。
 	No way... this wasn't the result I saw in the cards...
 	우리의 운명은, 이럴 리가 없을 터인데…… 
 
-	这个房间里面似乎潜藏着厄运，需要我用我的力量帮你做点什么吗？
 	この部屋には、おぬしに降りかかる災厄が潜んでおるように見える。わらわが力になってやってもよいぞ？
 	Bad omens seem to lurk inside this room. May I help you deal with them using my powers?
 	이 방엔 그대에게 미칠 재앙이 숨어 있는 모양일세. 내가 좀 도와줘도 괜찮네만?
 
-	嗯？怎么了？
 	ふむ、どうかしたか？
 	Hm? What?
 	흐음, 무슨 일이라도?
 
-	想让我为您占卜下今后的运气？是嘛~请稍等一下。
 	今後の運勢を占ってほしいじゃと？そうか、しばし待っておれ。
 	Want me to do a reading on your future? All right, please give me a minute.
 	앞으로의 운세를 점쳐달라는 말인가? 알겠네, 잠시 기다려 보게.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	幸运之风吹拂着你，博士。
 	幸運の風が吹いておるぞ、ドクター。
 	You're blessed by the winds of luck, Doctor.
 	행운의 바람이 불고 있네, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】远山
+	【性别】女
+	【战斗经验】一年
+	【出身地】萨米
+	【生日】1月15日
+	【种族】埃拉菲亚
+	【身高】171cm
+	【矿石病感染情况】
+	体表有源石结晶分布，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ギターノ
+	【性別】女
+	【戦闘経験】一年
+	【出身地】サーミ
+	【誕生日】1月15日
+	【種族】エラフィア
+	【身長】171cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。感染者に認定。
+
+	Basic Info :
+	[Code Name] Gitano 
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Sami 
+	[Date of Birth] Jan. 15 
+	[Race] Elafia 
+	[Height] 171cm 
+	[Infection Status] 
+	Showed physical signs of Originium, infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 기타노
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 사미
+	[생일] 1월 15일
+	[종족] 엘라피아
+	[신장] 171cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】普通 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	萨米出身的神秘学家，最擅长塔罗占卜，也玩得一手好牌。从不向别人透露任何来到罗德岛之前的故事，因此过往成谜。人们所被允许知道的，只有她占卜很成功这一点。
+
+	個人履歴 :
+	サーミ出身のミステリアスな学者。タロット占いを最も得意とし、カードゲームにも造詣が深い。ロドスに加入する前のことは誰にも語らないため、その過去は一切が謎に包まれている。皆が知り得るのは、彼女の占いが素晴らしいということだけだ。
+
+	Profile :
+	Gitano is a mystic from Sami, tarot expert and a great card player. She has never spoken to anyone of her past prior coming to Rhodes Island, and it remains a mystery. All anyone knows is that her readings are very accurate.
+
+	프로필 :
+	    사미 출신의 미스터리 학자로 타로 점에 능하며, 수준급 카드 플레이어이기도 하다. 어떻게 로도스 아일랜드에 오게 되었는지에 대해서는 아무에게도 이야기한 적이 없어 여전히 수수께끼로 남아있다. 사람들은 그녀가 점치는 것으로 성공했다는 점 말고는 전혀 알고 있지 못하다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】5%
+	远山的神秘学能力可能与感染有关，但尚无确切证据。
+	
+	【血液源石结晶密度】0.3 u/L
+	感染步入中期，源石开始影响身体机能但并不明显。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】5%
+	彼女の神秘的な能力は鉱石病と関係がある可能性もあるが、確かな証拠はない。
+	
+	【血液中源石密度】0.3u/L
+	感染は中期に近づいており、身体機能は源石の影響を受け始めたが、まだ顕著でない。
+
+	Clinical Analysis :
+	Imaging tests for this Operator showed blurry outlines of internal organs with visible dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating infection and confirming her as Infected at this stage. 
+	
+	[Cell-Originium Assimilation] 5% 
+	The infection could be related to Operator Gitano's arcane abilities, though this has yet been proven.. 
+	
+	[Blood Originium-Crystal Density] 0.3u/L 
+	Infection approaching mid-stage, Originium beginning to have physical effects that are not obvious.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 5%
+	기타노의 미스터리 학 방면의 능력은 감염과 관계가 있을 가능성이 있다. 단, 확실한 증거는 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.3u/L
+	감염 초중기, 오리지늄이 신체 기능에 영향을 끼치기 시작하였으나 그 영향이 미미함.
+
+———————————————————————————————
+
+	档案资料一 :
+	占卜者无法占卜自己的未来，但通过预兆远山能够做些准备。在进行法术攻击时，可以通过激发源石水晶球进行爆发性杀伤，只是，释放完力量后，需要接受足以抑制行动的反噬。
+
+	第一資料 :
+	占い師は自身の未来を占うことは出来ないが、ギターノは様々な予兆から不測の事態に事前に備えるすべを持つ。源石水晶玉を通して爆発を起こすアーツを使用することができるが、そのアーツ使用後は反動としてしばらく動けなくなる。
+
+	Archive File 1 :
+	A fortune teller cannot tell her own future, but she can read the omens and guide her choices. She has the power to create devastating explosions with her Originium crystal ball, but she must also withstand the backlash.
+
+	파일 자료 1 :
+	    점술가는 자신의 미래를 점칠 수 없지만, 기타노는 다양한 징조를 확인하여 준비할 수 있다. 마법 공격 시전 시 오리지늄 수정을 자극하여 폭발성 살상 공격을 가하는데, 에너지를 방출한 후에는 그 반작용을 잘 억제할 수 있어야 한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	占卜对于远山来说是一种乐趣，她不收取金钱报酬，只会取个水果或蛋糕作为“对方付出的代价”。至于占卜内容，大到命运，小到钥匙丢哪里都可以问，和其他占卜师一样，远山给出的回答也是那种模棱两可的预言，稍微思考一下，就能对答案有个一知半解。
+
+	第二資料 :
+	ギターノにとって占いは一種の趣味であり、それにより金銭を取ることはなく、フルーツやケーキを「対価」としてもらえればそれで満足するようだ。肝心の占いの内容はといえば、運命に関するものからなくした鍵の行方まで、なんでも占うことができるらしい。ギターノの出す占いの答えも一般的な占い師のものと同じく、一見曖昧でどのようにも取れるものであるが、少し考察してみれば、それが示す内容をある程度は理解することができるはずだ。
+
+	Archive File 2 :
+	Divination is a hobby to Gitano that she does almost for free, accepting fruits and cakes as a token payment. Her clients ask for readings on anything from the future to a misplaced key. Just like any soothsayer, Gitano gives ambiguous answers that require some careful thought to decipher.
+
+	파일 자료 2 :
+	    점을 치는 일은 기타노에게 일종의 취미이기에, 그녀는 점을 쳐주고 금전적인 대가를 받지는 않는다. 굳이 대가를 주고자 하는 사람에겐 오직 과일이나 케이크와 같은 작은 성의의 표현만 받는다. 점치는 내용의 범위는, 크게는 운명에 관해서부터 작게는 잃어버린 열쇠의 위치까지 매우 넓다. 다른 점술가들과 같이 기타노는 보통 애매모호한 말들을 답변으로 내놓는데, 그 말뜻의 대략 절반 정도는 조금만 생각해보면 이해할 수 있다. 
+
+———————————————————————————————
+
+	档案资料三 :
+	和占卜时轻松的姿态不同，玩牌类游戏时的远山是个容易紧张且求胜心极强的人，因为怕她洗牌时作弊，这个过程总是由别人来完成，即使如此，凭借她对“牌”的熟悉，能够让她做手脚的环节仍旧多到数不胜数，除非被抓现行，她绝不会承认自己动过手脚。不过，有些人依旧喜欢同她打牌，一类是喜欢抓她的出千的瞬间，另一类，则只是喜欢看她那不常见的紧张表情。
+
+	第三資料 :
+	占いの際のリラックスした態度とは異なり、カードゲームでの彼女はすぐに緊張するところがある。負けず嫌いな彼女がカードをシャッフルする際にイカサマをしないように、シャッフルはいつも他の者が行うのが慣例となっている。しかしながら、「カード」を熟知している彼女にかかれば、シャッフル時以外にもいくらでも不正のしようはある。犯行の現場を押さえられたのでなければ、彼女は絶対にイカサマを認めることはない。しかしそれでも、彼女とカードゲームをすることが好きな者は多い。彼女のイカサマの瞬間を捉えることを楽しんでいる者、彼女が普段見せない緊張した面持ちを見ることを楽しむ者など様々だ。
+
+	Archive File 3 :
+	Unlike her relaxed composure during a reading, Gitano gets anxious easily and becomes very competitive when playing cards. She is never allowed to shuffle the deck out of fear that she'll cheat. Even then, she knows countless other card tricks, and unless she's caught red-handed, she'll never admit to cheating. Still, some people play with her because they either want to catch her in the act, or see a nervous side of her she doesn't otherwise show.
+
+	파일 자료 3 :
+	    점칠 때의 나긋나긋한 자태와는 달리, 카드 류 게임을 플레이할 때 기타노는 쉽게 긴장하고 승리욕이 매우 강한 사람으로 변한다. 기타노가 잔꾀를 부릴 것이 우려되다보니 카드를 섞는 작업은 늘 다른 사람이 담당한다. 그럼에도 불구하고, 그녀는 '패'에 매우 익숙하기에 충분히 다양한 잔재주를 부릴 수 있으며, 현장에서 적발되는 경우를 제외하고는 언제나 자신이 부정행위를 저지른 점을 인정하지 않는다. 다만 일부 오퍼레이터들은 여전히 그녀와 카드 게임을 하는 것을 즐기는데, 절반은 그녀가 속임수를 쓰는 순간을 잡아내는 것을 즐기는 부류이고, 나머지 절반은 평소에는 볼 수 없는 그녀의 긴장한 표정을 보는 것을 즐기는 부류이다.

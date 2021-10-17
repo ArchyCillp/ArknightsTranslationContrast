@@ -70,7 +70,7 @@
 
 [Decision(options="赶紧动员大家疏散人群！;至少先让大家离开危险地区！",values="1;2")]
 [Decision(options="すぐに観客を避難させるんだ！;安全なエリアまで観客を誘導しよう！",values="1;2")]
-[Decision(options="Get all the operators to help with the evacuation, now!;At least get everyone to where it’s safe!",values="1;2")]
+[Decision(options="Get all the operators to help with the evacuation, now!;At least get everyone to where it's safe!",values="1;2")]
 [Decision(options="지금 당장 사람들을 대피시켜!;적어도 사람들이 위험 구역에선 벗어날 수 있게 해야 해!",values="1;2")]
 
 [name="赫拉格"]   博士，要不要通知罗德岛全体......

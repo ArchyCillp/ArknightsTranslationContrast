@@ -1,11 +1,17 @@
 ID:
 	char_277_sqrrel
 
-干员代号\Name:
+CV:
 	阿消
 	ショウ
 	Shaw
 	쇼
+
+干员代号\Name:
+	广桥凉
+	広橋涼
+	Ryō Hirohashi
+	히로하시 료
 
 招聘合同\Character Usage:
 	龙门消防署警员阿消向你报道，她将会为你提供各类援助。
@@ -43,177 +49,347 @@ ID:
 	하이드로캐논
 
 语音\Voices:
-	已经准备好为您服务了，长官！
 	いつでもご指示お待ちしております上官！
 	Awaitingorders, readywhenyouare, Chief!
 	언제든 지시를 기다리고 있습니다 상관님!
 
-	为了安全起见，正在为您确认逃生路线和消防设备，请稍等片刻！
 	みなさんの安全のために避難ルートと消防設備を確認中ですしばらくお待ちください！
 	Intheinterestsofsafety, Iaminspecting escaperoutes and firefightingequipment. Onemomentplease.
 	여러분의 안전을 위해 피난 루트와 소방 시설을 확인 중에 있사오니 잠시만 기다려주십시오!
 
-	过道内严禁烟火，请各位干员不要在走道吸烟，谢谢配合！
 	通路内は火気厳禁ですオペレーターのみなさんここでの喫煙は控えてくださいご協力ありがとうございます！
 	Pleasebeaware, itisagainstregulation tolightfires or smokecigarettes inthecorridors. Thankyouforyourcooperation, Operators.
 	통로 내에는 화기엄금입니다 오퍼레이터 여러분 이곳에서 흡연은 삼가주시길 바랍니다 협조에 대단히 감사드립니다!
 
-	为大家科普消防知识也是我职责的一部分就先从您开始吧长官！
 	消防知識の周知徹底も小官の仕事の一環ですまずは上官のあなたから知識を深めてもらいましょう！
 	Ensuringawareness of firesafety and firefightingprotocols isakeypart ofmyduties. Allowmeto beginwithyou, Chief.
 	소방 지식을 철저히 숙지하는 것도 소관이 맡은 업무의 일환입니다 우선 상관이신 당신부터 지식을 숙지하여 주십시오!
 
-	别看我个子小，有些任务可是只有我才能完成的。
 	チビだからってなめないでくださいね小官にしかできない任務もありますから。
 	Iamverysmall, butthatmeans Icandowork nooneelsecan.
 	꼬맹이라고 얕보지 말아주십시오 소관밖에 할 수 없는 임무도 있으니까요.
 
-	长官，我很紧张，其实......我不擅长说话......谢谢您......的关心！
 	あの、じ、実はすごく緊張してます……小官、話すのが苦手で……き、気にかけていただき、ありがとうございます！
 	Um... Thetruthis... I'mverynervous... AndIdon'tknow whattosay... Chief, thankyouverymuch, foryourconcern.
 	저, 사, 사실은 굉장히 긴장했습니다…… 소관, 말하는 걸 잘 못해서…… 배, 배려해주셔서, 감사합니다!
 
-	有时候，我一张嘴说话就停不下来，长官我会被讨厌吗......呜......
 	喋りだすと止まらなくなることが多々ありますが上官はこういうのお嫌いですかぁ……うぅ……。
 	WhenIstartspeaking sometimesIcan'tstop. Ihopeyouforgiveme, Chief... *sob*...
 	말하기 시작하면 멈추지 못하는 경우가 자주 있습니다만 상관께선 이런 거 싫어하십니까아…… 우으으…… 
 
-	长官，帮我，换下灯泡......我，够不着......啊，亮了。
 	上官、この電球を、取り替えていただけますか……あの小官、手が届かなくてですね……あ、ついた。
 	Chief, canyoupleasehelp changethislightbulb... I... can'treachit... Oh, it'sworkingnow. Thankyou.
 	상관, 이 전구를 갈아 끼워 주실 수 있으실까요…… 그… 소관은 손이 닿질 않아서…… 아, 켜졌다.
 
-	长官，她她她们又开始在房间里烧烤了，您快帮忙制止一下哎呀呀呀！谁把我的灭火器换成伊芙利特的喷火背包了啊啊啊啊！长官您没事吧！
 	上官あああああの人たちまた部屋でバーベキューやってますよ早く止めないとうわあああ小官の消火器をイフリータさんの火炎放射器にすり替えたのは誰ですかああああ大丈夫ですか上官！
 	Chief... Theytheythey're barbecuinginthedormagain. Canyouplease stopthemforme! Aaaah! Someoneswapped myfireextinguisher withIfrit'sflamethrower! Areyouokay, Chief?
 	상관 저저저저저 사람들이 또 방에서 바비큐를 하고 있습니다 빨리 막지 않으면 우와아아아 소관의 소화기를 이프리트 씨의 화염방사기랑 바꿔놓은 건 누구입니까아아아아아 괜찮으십니까 상관님!
 
-	还有几分钟休息时间就结束了，长官您稍微注意一下。
 	あと少しで休憩時間が終わりますのでご注意ください上官。
 	Breaktimeends inafewminutes. Justtoletyouknow, Chief.
 	곧 휴식 시간이 끝나니 주의하여 주십시오 상관님.
 
-	{@nickname}长官您好，龙门消防署警员阿消向您报道！
 	初めまして上官龍門消防署所属のショウですどうぞよろしくお願いします！
 	Pleasuretomeetyou, Chief. IamShaw oftheLungmenFireDepartment, reportingforduty!
 	처음 뵙겠습니다 상관님 용문 소방서 소속 쇼라고 합니다 아무쪼록 잘 부탁드립니다!
 
-	演习录像也是训练的一部分吗？
 	演習ビデオを見るのも訓練になるのですか？
 	Exercisevideosare partofthetraining?
 	연습 비디오를 보는 것도 훈련이 되는 겁니까?
 
-	多谢您的提拔，长官！
 	ごひいきありがとうございます上官！
 	Thankyouforyourtrust, Chief!
 	관심 가져주셔서 감사합니다 상관님!
 
-	这是...勋章?嗯，我会......加油的，为了大家，也为了您。
 	これは……エリートメダル？は、はい……これからも、み、みなさんのために、上官のために、精進してまいります。
 	Thisis... anelitemedal? Ah! Yes! Iwillcontinue todomybest foreveryone, andfortheChief!
 	이건…… 정예 메달? 아, 네…… 앞으로도, 모, 모두를 위해, 상관님을 위해, 정진하도록 하겠습니다!
 
-	准备就绪。
 	準備完了。
 	All ready.
 	준비 완료.
 
-	听我指挥。
 	小官が指揮します。
 	Followmyorders.
 	소관이 지휘하겠습니다.
 
-	出勤！
 	出動します！
 	Deploying!
 	출동합니다!
 
-	火来了，大家快做准备！
 	こちらに火が来ますみなさん準備してください！
 	Thefireis spreadingthisway. Getready!
 	이쪽으로 불길이 오고 있습니다 여러분 준비하여 주십시오!
 
-	在！
 	はい！
 	Hey.
 	네!
 
 	了解！
-	了解！
 	Understood!
 	알겠습니다!
 
-	唔唔。
 	おっと。
 	Uhuh.
 	영차!
 
-	哼。
 	ふん。
 	Hah!
 	흣.
 
-	嘿呀！
 	はあああ！
 	Haah!
 	하아아아!
 
-	走开走开！
 	どいたどいた！
 	Move! Move!
 	비키세요 비키세요!
 
-	灭火器喷射！
 	消火器噴射します！
 	Extinguishingflames!
 	소화기 분사하겠습니다!
 
-	根据消防守则，你这是违禁行为！
 	消防規則に則り違反行為として処罰する！
 	Yourbehaviorisunsafe andmustbestopped.
 	소방 규칙에 따라 위반 행위로 처벌한다!
 
-	这样规模的火灾，也只有靠长官和大家一起努力才能消灭的了。
 	こんな大規模な火災は上官とみなさんの努力なしでは消火できなかったと思います。
 	Afireofthisscale couldnotbeextinguished withoutthehelp oftheChief andtheothers.
 	이런 대규모의 화재는 상관과 여러분의 노력 없이는 진압할 수 없었을 거라 생각합니다.
 
-	大火已经完全扑灭了，随时可以收队。
 	消火は完了しましたいつでも撤収できます。
 	Thefireisextinguished. Readytoreturntobase.
 	소화를 완료했습니다 언제든지 철수 가능합니다.
 
-	火情已经基本得到控制了！需要我进行善后处理吗。
 	火の勢いはほぼ収まりましたが小官は残って事後処理を行うべきでしょうか？
 	Thefireisundercontrol, areweinneed ofdamagecontrol?
 	불기운은 거의 수그러들었습니다만 소관은 남아서 사후 처리를 해야 할까요?
 
-	糟，糟糕......大火烧过来了！
 	ま、まずい……こちらに火が来ます！
 	O-oh no! Thefireis spreadingin thisdirection!
 	이, 이런… 이쪽으로 불길이 옵니다!
 
-	以后我就住这儿了对吧。
 	ここが小官の居宅ですね。
 	Iwillstayhere fromnowon then?
 	여기가 소관의 살 곳이군요.
 
-	唔......
 	ううっ……。
 	Um...
 	우읏…… 
 
-	脸要被捏扁了啦！
 	がおがずむれるぅ……！
 	Aablublublu!
 	얼굴이 찌그러집니다…!
 
-	明日方舟。
 	アークナイツ
 	Arknights.
 	아크나이츠.
 
-	有事吗长官！
 	任務ですか上官！
 	Needsomething, Chief?
 	임무입니까 상관님!
+
+干员档案\Background:
+	基础档案 :
+	【代号】阿消
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】龙门
+	【生日】1月5日
+	【种族】札拉克
+	【身高】135cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ショウ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】龍門
+	【誕生日】1月5日
+	【種族】ザラック
+	【身長】135cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Shaw 
+	[Gender] Female 
+	[Combat Experience] None 
+	[Place of Birth] Lungmen 
+	[Date of Birth] Jan. 5 
+	[Race] Zalak 
+	[Height] 135cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 쇼
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 용문
+	[생일] 1월 5일
+	[종족] 자라크
+	[신장] 135cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】优良
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Excellent 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	阿消，龙门消防局消防员。将消防救灾技术带入实战应用，为罗德岛提供了多种方向的战术选择。目前于罗德岛特种干员小组任职，并提供消防安全技术方面的服务。
+
+	個人履歴 :
+	ショウは龍門消防局の消防員。消防の災害救助の技術を実践に取り入れ、様々な場面でロドスの戦術の幅を広げた。現在はロドスの特殊オペレーターチームの任につきながら、消防安全技術の方面の業務もこなしている。
+
+	Profile :
+	Shaw, a firefighter of the Lungmen FD, has adapted firefighting skills to actual combat, providing a variety of new tactical options to Rhodes Island. Currently a member of a special ops squad, she offers expertise in firefighting and safety.
+
+	프로필 :
+	    용문 소방서의 소방관이다. 소방 구조 기술을 실전에서 응용하여, 로도스 아일랜드의 전술적 선택권의 폭을 넓혀주었다. 현재는 로도스 아일랜드 특수작전팀의 오퍼레이터로 활약 중이며, 소방 안전 기술 방면의 서비스도 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员阿消没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员阿消甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests on this Operator show clear outlines of internal organs, with no abnormal dark spots or shadows. No unusual traces of Originium particles present in the circulatory system, no signs of infection, confirming this operator as uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Shaw showed no signs of infection. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L 
+	Operator Shaw rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 쇼는 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 쇼는 오리지늄과의 접촉 빈도가 매우 낮음.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员阿消非常容易紧张。内敛而且不擅长说话的她一张嘴就停不下来，在日常场合中却显得不会说话，选择适合的词语组成完整的话语占据了她在交流中的绝大部分精力。进入工作状态的阿消会变得投入，她始终以认真的态度面对自己的职业，并对任何有可能引起火灾的现象均会立刻加以制止。
+
+	第一資料 :
+	オペレーターショウは非常に緊張しいで、内向的かつ話すのが苦手な彼女は口を開けば、怒涛の勢いで一気に話してしまう。日常生活の方がかえって会話は不得手で、彼女が交流中に精力を費やしているのはほぼ、最適な言葉を選択し、組み立て、一文を完成させるということだ。仕事モードに入ったショウは一変し、終始真面目な態度で自分の職務に向き合い、火災の恐れのある行為にすぐにでも止めにいく。
+
+	Archive File 1 :
+	Operator Shaw tends to get nervous easily. Introverted and slow to speak, she has a tendency to keep running her mouth once she gets going. When engaged in conversation, Shaw spends most of her time struggling to choose the right words, which wears her out quickly. She is a highly dedicated worker, committed to getting the job done, especially in scenarios involving fire or arson.
+
+	파일 자료 1 :
+	    오퍼레이터 쇼는 매우 쉽게 긴장한다. 내성적이고 말주변이 없지만, 한 번 말문이 트이면 멈추지 않는다. 일상생활에선 눈에 띄게 말수가 적은데, 이는 대화 시 완벽한 문장을 구사하기 위해 꽤 많은 준비 시간이 필요하기 때문이다. 하지만 일을 할 때에는 완전히 돌변하여 시종일관 진지한 태도를 보인다. 화재의 원인이 될만한 현상을 목격하면 그 즉시 진압에 나선다.
+
+———————————————————————————————
+
+	档案资料二 :
+	身形娇小的阿消能够取得同伴们的高度肯定与信赖，得益于她在消防专业工作中的严谨态度与职业操作。发生于冬季的一次大型火灾抢险行动充分证明了阿消的能力：因违规使用取暖设备导致的一次室内火灾最终点燃整栋大楼时，阿消数次冲入火场疏散受困人群，救助身陷困境的无辜市民，最终成功地主导了一次伤亡为零的救灾行动。事后由龙门执政长官魏彦吾的亲自接见，更是使得阿消的身影占据了龙门当地报纸头版的位置。
+	在这之后，正是由于魏彦吾与近卫局的推荐，阿消得以进入罗德岛，为罗德岛提供有关消防安全技术与保障的相关服务。这项调派显而易见的为罗德岛带来了好处：鉴于大多数干员对火灾防护认知的不足与缺乏相关训练，由一位极为专业的消防安全专员提供的服务是必不可少的。
+	而当阿消亲自查看了罗德岛内复杂的通行结构和消防设施，并了解了部分可以随意操弄火焰法术的干员们的存在后，她很快就明白了自己将要面临的艰巨挑战。
+
+	第二資料 :
+	小柄な体格のショウは仲間達から高い評価と信頼を得ている。それは、彼女の専門である消防の仕事中の真面目な態度と確かな腕前の賜物だ。冬に大規模な火災が起こった際の救助活動で、ショウの能力の高さが十分に証明された：規則に違反して使っていた暖房設備により室内で火災が起こり、ついには建物全体に燃え広がったとき、ショウは何度も火災現場に突入し、被災した人々を避難させ、窮地に立たされていた無辜の市民を救助した。最終的に救助活動は死傷者数ゼロという結果で成功を収めた。この火災事故の後、龍門の執政長官ウェイ自らショウを面会し、ショウの写真が龍門の新聞の一面を飾ったのは言うまでもない。
+	その後、龍門の執政者ウェイと近衛局の推薦によって、ショウはロドスに入ることが出来、ロドスに消防安全技術と保障を提供する関連業務に従事することとなった。この転勤は、ロドスに明確なメリットがあった。大多数のオペレーターが火災への対処の認知不足や避難訓練不足である点を鑑みて、消防安全を極めた専門家による指導が不可欠だ。
+	ショウはロドス内部の複雑な都市構造と消防設備を自ら調べ、炎のアーツを自在に操ることの出来るオペレーターたちの存在を把握した後で、自分は極めて困難な挑戦に向き合わなければならないとすぐに理解した。
+
+	Archive File 2 :
+	The petite Shaw managed to win the trust of her peers with her diligence and professionalism in the field of firefighting. The huge fire rescue operation last winter more than proved Shaw's competence: When the irresponsible use of a space heater eventually set a whole building ablaze, Shaw made numerous incursions inside to rescue trapped victims, orchestrating a successful operation with zero casualties. That earned her a personal invite from Wei Yenwu, Chief Executive of Lungmen, as well as headlines in all the newspapers. 
+	With Wei's and the L.G.D's support, Shaw was accepted into Rhodes Island for her expertise in fire safety and prevention. It was an obvious boon to the island, since most Operators have little to no knowledge of or training in firefighting. Shaw handily filled the gap. 
+	When Shaw had the chance to inspect the intricate passageways and firefighting equipment on the island, and after meeting certain Operators who wield fire Arts at will, she realized she faced a daunting task.
+
+	파일 자료 2 :
+	    작은 체구의 쇼가 동료들의 신임을 받을 수 있었던 이유는, 바로 소방 업무에 대한 그녀의 진지한 태도와 업무 처리능력 덕분이다. 겨울에 발생한 한 대형 화재 현장에서 위법 난방 시설로 인해 화재가 일어나 건물 전체가 불타고 있을 때, 쇼는 수차례 화재 속으로 뛰어들어 시민들을 구해냈고, 결국 한 명의 사상자도 없이 구조 작전을 성공적으로 마무리하며 자신의 능력을 증명했다. 이 사건 이후, 용문 총독 웨이 옌우가 직접 쇼를 만나 치하했으며, 이는 용문 신문의 일면을 장식했다.
+	    이후 쇼는 웨이 옌우와 근위국의 추천으로 로도스 아일랜드에 합류하여, 소방 안전 기술과 예방에 관련된 업무를 담당하게 되었다. 화재에 대해 잘 알고 있는 사람이 드물고, 관련 훈련도 부족했던 로도스 아일랜드에게 유일한 소방 전문가인 쇼의 존재는 더욱 중요할 수밖에 없었다.
+	    쇼는 로도스 아일랜드의 복잡한 통로 구조와 소방 시설, 그리고 마구잡이로 화염 마법을 사용하는 일부 오퍼레이터들을 보며, 자신에게 닥친 이 도전이 매우 쉽지 않은 도전이 될 것이라고 예상했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	为配合阿消的日常工作，罗德岛设备小组为其提供了更为便利的便携消防设备，以及敏感温度检测仪器，然而这台仪器很快就因超限使用而报废了——干员天火与干员伊芙利特均表示自己对这台纤细敏感的仪器的报废不负有任何责任。
+	对此，阿消决定采用有效但稍显传统的方式：编撰易引发火灾的干员名录，同时立刻对罗德岛全体成员进行防火防灾知识普及。第一次火灾知识讲座在凯尔希医生缺席的情况下隆重召开，阿消为干员们展示了自己精心策划的防火知识普及幻灯片（包含各色警示性的火场图片）。整台讲座在阿消独特的快速发言中顺利结束，与会的罗德岛成员们对阿消报以热烈的掌声的同时，纷纷表示自己基本没有听懂讲台上的她到底说了些什么（部分干员表示自己只听到了声音却半天都找不到讲师在哪）。
+	面对预料之外的坎坷局面，阿消仅仅消沉了半天时间便恢复了精神。她始终明白一个道理：人生路上也许有着数不清的坎坷，但火情是永远不会等待一个消沉的人的。
+
+	第三資料 :
+	ショウの通常業務に協力するために、ロドスの設備チームは更に便利になった携帯消防器具や精密な熱画像直視装置を開発した。
+	ところが、この装置は早くも限界を超えてしまい、廃棄処分となってしまった。……オペレータースカイフレアとオペレーターイフリータは、自分たちがこの精密機器の損害に対し、何の責任も負わないという姿勢を示している。
+	これに対して、ショウが取った効果的かつ伝統的な方法は次の通りである。火災を引き起こしやすいオペレーターの名簿を作り、同時にロドスの全構成員に対してすぐに防火や防災の知識を普及させた。第一回火災知識講座にはケルシー医師が欠席という状況下で厳かに開催され、ショウはオペレーター達に自分が考え抜いた防火知識を、警戒すべき火災現場の写真を含んだスライドで紹介し普及させた。講座がショウ独特の早口でスムーズに終了すると、ロドスの構成員たちはショウに惜しみない拍手で応えると同時に、彼女が講壇で一体何と喋っていたのかほとんど聴き取れなかったと次々に口にした。（一部のオペレーターは声は聴きとれたものの、講座終了まで講師がどこにいるのか見つけなかった。）
+	予想外の難局に対面したとき、ショウは半日ばかり意気消沈すれば心を持ち直した。彼女はわかっているのだ。人生という道に数えきれないほどのでこぼこがあったとしても、火災の炎は落ち込んだままの人間をずっと待っていてはくれないということを。
+
+	Archive File 3 :
+	To accommodate Shaw's daily tasks, the installation team at Rhodes Island provided her with convenient, portable firefighting devices and a thermometer, although the latter quickly overloaded and broke down. Operators Skyfire and Ifrit both denied responsibility for the demise of this extremely sensitive tool. 
+	To combat this, Shaw decided to implement an effective, if rather old-fashioned technique: Make a list of theOperatorsmost likely to start a fire, and initiate a firefighting program for the entire island. The first seminar commenced with the notable absence of Dr. Kal'tsit, where Shaw presented materials and slides (including various scenes of major fires and warning signs). The presentation was short, thanks to Shaw's famously fast rate of speech, and the raucous applause made it clear the audience had no clue what she had intended to communicate to them. (Some confessed to hearing a voice but being unable to locate the speaker). 
+	This disappointing outcome only kept Shaw down for about half a day, when she realized that there are many setbacks in life, depression is the death of passion.
+
+	파일 자료 3 :
+	    쇼의 일상 업무를 보조하기 위해, 로도스 아일랜드의 장비 팀은 그녀에게 보다 편리한 휴대용 소방장비와 민감온도 검사기기를 제공했다. 그러나 얼마 지나지 않아 이 측정기들은 스펙을 초과하는 상황에서의 사용으로 인해 고장이 나버리고 말았는데, 이때 오퍼레이터 스카이파이어와 이프리트는 자신들은 측정기의 고장과는 아무런 관련이 없다고 주장했다.
+	    이에 쇼는 효율적이면서도 전통적인 방법을 사용하기로 결심했다. 화재를 일으킬만한 모든 오퍼레이터의 목록을 정리하고, 모든 로도스 아일랜드의 구성원들에게 소방 안전 관련 교육을 실시하기로 한 것이다.
+	    화재 관련 지식에 대한 첫 강좌는 닥터 켈시가 없을 때 진행되었다. 쇼는 오퍼레이터들을 위해 자신이 정성껏 준비한 소방 안전 지식을 담은 프레젠테이션 자료(경각심을 주기 위해 화재 현장의 사진도 많이 첨부하였다)를 보여줬다. 강좌는 쇼 특유의 빨리 말하기를 이용해 성공적으로 끝마쳤지만, 강좌에 참여한 오퍼레이터들은 열렬한 박수로 쇼에게 보답하는 동시에, 사실 자신들은 그녀가 대체 무슨 말을 하였는지 전혀 알아듣지 못했다고 말했다.(어떤 오퍼레이터는 소리만 들리고, 발표자가 어딨는지 찾지 못했다고 말하기도 하였다.)
+	    예기치 못한 난관에 봉착하여 의기소침한 그녀는 반나절이 지난 후 다시 기운을 차릴 수 있었다. 그녀는 한 가지 진리에 대해 이해하고 있다. 그것은 바로 인생엔 무수히 많은 난관들이 있고, 화재는 절대 의기소침해 있는 사람을 기다려주지 않는다는 사실이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	根据阿消的回忆，她对火灾的初次认知，来源于她曾经心爱的一家坚果专档因火灾而被彻底焚毁的事故。当她发现，灾难或许因人的意志而产生，但却从不会因人的意志而消失这个事实后，她开始产生了成为一名消防专家的想法。她希望能够避免那些因灾难而产生的，美好的事物彻底消失的故事。这种想法也塑造了阿消对于罗德岛干员的理解。当她发现一些抱有切实恶意或扭曲意志的人在引发灾难，给周遭的人造成不安全的后果时，她愿意去通过自己的行动消除这些灾难。对阿消来说，不再被灾难阴影笼罩下的人们的幸福，与自己收到又大又圆的榛果时的幸福，也许是相同珍贵的，值得保护的事物。
+
+	第四資料 :
+	ショウの記憶によると、彼女が火災を初めて知ったのは、大好きなナッツ専門店が火災で跡形もなく燃え尽きてしまったときだった。彼女は気付いた。災難は人の意志で生まれるかもしれないが、人の意志で消えはしないだろうと。そこから彼女は消防の専門家になりたいと思い始めたのである。災難が生まれ、美しい物が失われてしまうようなことは避けたい。こういった考えもロドスのオペレーターへの理解を示すショウを作り上げている。純粋な悪意や捻じ曲がった意志を持つ人間が災難を引き起こす。そう気付いた彼女は、周囲の人が危険を招いた時には、自分の行動を通してそういった災難を消したいと願っている。ショウにとっては、二度と災難の影に覆われることない人々の幸福と、大きくて丸いヘーゼルナッツを手に入れたときの幸福は、どちらも等しく大事で守るべきものだ。
+
+	Archive File 4 :
+	Shaw reports her first memory of fire came from the tragic loss of a beloved fruit vendor to arson. That was when she realized a person can create a Catastrophe from will alone, but will alone won't resolve it. The idea of becoming a firefighting expert took root in her mind, as she hoped to save all the good things in life from the threat of fire. It also strengthened her resolve as a Rhodes Island Operator. When faced with a malefactor out to cause a Catastrophe, she is always willing to stand against it. To Shaw, safeguarding the people from the suffering of an unexpected crisis is as precious and worth protecting as the feeling she gets from buying a big, round apple.
+
+	파일 자료 4 :
+	    쇼의 기억에 따르면, 그녀가 기억하는 첫 화재는 그녀가 무척이나 좋아하던 견과류 전문점이 화재로 인해 완전히 사라져버린 사건이다. 그때 그녀는 재난이 사람의 손에 의해 발생할 수도 있지만, 사람의 손으로 진압하기는 힘들다는 것을 깨달았고, 소방 전문가가 되겠다는 꿈을 꾸게 되었다. 그녀는 더 이상 재난 때문에 소중한 것들이 완전히 사라져버리는 일이 없어지길 바랐다. 이런 그녀의 생각은 로도스 아일랜드의 다른 오퍼레이터들에게도 똑같이 적용된다. 그녀는 악의나 그릇된 생각을 가지고 재난을 일으켜 사람들에게 큰 위험을 초래하고자 하는 자를 발견하면, 망설이지 않고 직접 행동해 이 재난의 씨앗을 제거하길 원했다. 쇼는 재난으로 인해 고통받을 일이 없는 사람들이 누릴 행복은 바로 자신이 커다란 헤이즐넛을 받았을 때의 행복과 동일하다고 여기기에, 이를 지킬 가치가 있다고 생각하는 걸지도 모르겠다.

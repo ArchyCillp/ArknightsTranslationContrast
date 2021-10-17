@@ -1,11 +1,17 @@
 ID:
 	char_147_shining
 
-干员代号\Name:
+CV:
 	闪灵
 	シャイニング
 	Shining
 	샤이닝
+
+干员代号\Name:
+	清水理沙
+	清水理沙
+	Risa Shimizu
+	시미즈 리사
 
 招聘合同\Character Usage:
 	萨卡兹医师闪灵，竭尽所能为小队提供医疗支援。
@@ -48,177 +54,502 @@ ID:
 	신조의 역장
 
 语音\Voices:
-	你好，博士......没有什么，想聊的话题吗？
 	ごきげんよう、ドクター。……何か、お話しをしませんか？
 	Greetings, Doctor... Is there anything you'd like to discuss?
 	안녕하신가요, 박사님… 뭔가 이야기 나누시겠어요?
 
-	你的脸色很糟糕。胸口也很痛？不要逞强，请马上休息......别害怕，我就在你身边，一定会没事的......
 	お顔の色が冴えませんね……胸が痛い、ですか？無理をせず、すぐにお休みください……安心して……私がそばにいます、大丈夫ですよ……。
 	You look quite pale. You say your... chest hurts? Don't overwork yourself, please get some rest immediately. Don't be afraid, I'm right beside you. Everything is okay...
 	안색이 좋지 않군요… 가슴에 통증이 있으신가요? 무리하지 마시고, 어서 쉬세요… 안심하세요… 제가 곁에 있을게요, 괜찮아요… 
 
-	我的医疗法术似乎在什么地方见过......？那是错觉，嗯，一定是......
 	私のヒーリングアーツ、どこかで見たことあると？……それは気のせいですよ、ええ、きっと……。
 	You've seen my healing Arts somewhere before? You must be imagining things. That's almost certainly the case...
 	제 힐링 아츠를 어디선가 보신 적이 있으시다고요? …… 그건 기분 탓일 거예요. 네, 분명… 
 
-	“赦罪师”......？为什么会提到这个名字......对不起，这个话题我不能继续下去......
 	聴罪師……？どうしてその名を……。ごめんなさい、そのお話だけはできません……。
 	The Confessor...? How do you know his name? Sorry, this is a topic I don't wish to discuss...
 	… '고해신부'? 어떻게 그 이름을… 죄송합니다. 그 이야기만큼은 할 수 없습니다… 
 
-	我们萨卡兹人，把法术天赋和源石的力量结合在一起，开发出了能够治愈他人的源石技艺。一直以来，这种法术都被我们用来救助受难者。
 	私たちサルカズは、生まれ持ったアーツの素質に源石の力を融合したヒーリングアーツを開発し、これまで積極的に難民の救助にあたってきました……。
 	We Sarkaz combined our inherent Arts affinity with the power of Originium to develop new healing Arts, which we've been using for quite some time to tend to refugees.
 	저희 살카즈는 태어날 때부터 갖고 있는 아츠의 소질에 오리지늄의 힘을 융합한 '힐링 아츠'를 개발하여, 지금까지 적극적으로 난민 구조에 앞장서 왔습니다… 
 
-	现在？现在，什么都没有了。那场战争，剥夺了我们所有的希望。
 	今ですか？今はもう、何も残っていません。あの戦争が、全ての希望を奪っていきました……。
 	Now? We have nothing left now. The war bereaved us of all hope.
 	지금 말인가요? 지금은 이미 아무것도 남아있지 않습니다. 그 전쟁이, 모든 희망을 빼앗아 갔죠… 
 
-	我和临光？是啊，她是我旅途的伙伴，也是值得托付生命的人。
 	私と、ニアールさんですか？そうですね……良き旅の仲間であり、互いに命を託した相手でもあります。
 	My relation with Nearl? Certainly... She's a travel companion, and someone I trust with my own life.
 	저와 니어 씨가 무슨 관계냐고요? 뭐랄까요… 좋은 여행 동료이자 서로의 목숨을 맡긴 사이기도 하죠.
 
-	为拯救痛苦的人们不惜牺牲自己的一切——临光那个孩子，就是这样一个人。
 	苦しんでいる人を救うためなら、自分のすべてを犠牲にすることもいとわない……ニアールさんは、そんな人ですから……。
 	In order to bring salvation to those in pain, one must be ready to make the ultimate sacrifice. That's the kind of person Nearl is.
 	괴로워하는 사람을 구하기 위해서라면, 자신의 모든 것을 희생하는 것도 꺼리지 않는… 니어 씨는, 그런 사람이니까요… 
 
-	曾经，我追随着一位身影辉煌的人，直到那光芒在阴谋中消散。这次，这光芒，将永远绽放、永不泯灭，哪怕要用我的生命作为交换，也在所不惜......
 	かつて……光り輝く人を追いかけていました、その輝きが陰謀によって潰えるまで……。今度こそ、この輝きは消えさせません……たとえ命に換えても……。
 	Once upon a time, I dedicated my life to following someone who shone so brightly in my eyes. A conspiracy took that person away from me, but this time... I'll make sure my light source continues to shine on forevermore. Even if I die...
 	한때… 눈부시게 빛나는 사람을 쫓았었습니다, 그 빛이 음모에 의해 다해버리기 전까지 말이죠…… 이번에는 그 빛이 사라지게 하지 않을 거예요… 제 목숨과 바꾸는 한이 있더라도…… 
 
-	......这份寂静， 让我想起了身在故乡时的岁月。
 	……この静けさ、故郷での日々を思い出します。
 	...This silence reminds me of those days in my hometown.
 	… 이 고요함, 고향에서의 나날이 떠오르는군요.
 
-	巡回医师闪灵。你在哪里见过我吗？或许在旅途中，我们也曾擦肩而过。
 	旅医者の、シャイニングと申します。どこかでお会いしたことがあると？……旅の途中で、すれ違ったことがあったのかもしれませんね……。
 	I am Shining, roaming medic. You say you've seen me before? Perhaps we've passed by each other during our journeys.
 	방랑 의사, 샤이닝이라고 합니다. 저를 본 적이 있으시다고요? …… 여행 도중 스쳐 지나갔던 인연이었을지도 모르겠네요… 
 
-	只是用于愈合伤口的力量，是不够的。
 	人を癒すだけの力では、足りないのです……。
 	Power that merely heals wounds... is not enough.
 	사람을 치유하는 힘만으로는, 부족합니다…… 
 
-	单单作为医者，是无法拯救更多人的。
 	ただの医者のままでは、これ以上の人は救えません……。
 	I can't save everyone just by being a medic.
 	그저 의사로만 있어서는, 더 많은 사람들을 구할 수 없어요…… 
 
-	是的，不仅要作为医者，更是作为守护者而生存下去，长久以来，我一直将此作为目标。博士，聆听吧......请你，见证我的誓言。
 	はい、医者としてだけでなく、守護者として生きるのはかねてからの目標でした……ドクター、この私の誓い、聴いていただけませんか。
 	That's right. I cannot be just a medic—I will live on as a defender. That's always been my goal. Doctor, please be a witness to this oath of mine.
 	예, 의사로서뿐만 아니라, 수호자로서 살아가는 것이 오래전부터 목표였습니다… 박사님, 저의 이 맹세, 들어 주시겠어요?
 
-	该前往战场了？
 	戦場に向かうのですか……。
 	Are we heading into battle?
 	전장으로 향하는 건가요… 
 
-	这是为了拯救我们自己而战，对吧？
 	これは私たち自身を救うための戦い……ですよね？
 	This is a battle for our own sakes, right?
 	이 싸움은 우리 모두를 구원하기 위한 싸움… 이지요?
 
-	战争，无法逃避。
 	争いは、避けられないもの……。
 	War is inevitable.
 	싸움은 피할 수 없는 법… 
 
-	能从战斗中寻得拯救......吗？
 	戦いで救うことができるのなら……。
 	I hope this war will lead to salvation...
 	싸우는 것으로 구해낼 수 있다면… 
 
-	开始吧。
 	始めましょう……。
 	Let's begin.
 	시작하지요… 
 
-	是的，我在听。
 	はい、聴いていますよ……。
 	Yes, I'm listening.
 	네, 듣고 있습니다… 
 
-	无论繁荣，还是灭亡。
 	繁栄か、あるいは滅びか……。
 	Our choice is between prosperity or destruction.
 	번영인가, 혹은 멸망인가… 
 
-	只是一瞬间而已。
 	ただ、一瞬です……。
 	You won't suffer long.
 	그저 한순간입니다… 
 
-	你，由我来守护。
 	あなたは、私がお守りします……。
 	I will protect you.
 	당신은 제가 지켜 드리겠습니다… 
 
-	别担心。
 	心配しないで……。
 	Don't be afraid.
 	걱정하지 마세요… 
 
-	如此的......悲伤。
 	こんなの……悲しいです……。
 	I'm sad that I must do this...
 	이런 건… 슬프네요… 
 
-	痛苦，我从未忘记。
 	苦しみを、忘れたことはありません……。
 	I've never forgotten the pain.
 	고통을, 잊어본 적은 없습니다… 
 
-	敌人愈是强大，愈是能鼓舞我们的生命意志和战斗精神。
 	敵が強大であればあるほど、闘争心、そして生きる意志が湧き上がってくるものです……。
 	The stronger the enemy, the more motivated we are, and the higher our morale.
 	적이 강하면 강할수록 투쟁심, 그리고 살고자 하는 의지가 끓어오른답니다… 
 
-	无论罪业多少次往复，都会与生命一同化为尘土。
 	どれほどの罪を重ねてきても、その命と共に塵に還るでしょう……。
 	No matter how many sins one commits, they all turn to ashes when their life ends.
 	얼마나 많은 죄를 지어왔든, 그 목숨과 함께 먼지로 돌아가겠죠…… 
 
-	不要再回到战场上了，这里没有救赎。
 	……いま戦場に戻っても、ここではもう、誰も救われません。
 	Even if we return someday, there is no salvation for anyone here.
 	……지금 전장으로 돌아가도, 여기서는 이제 누구도 구할 수 없어요.
 
-	胜利，失败......只不过是无限循环的一瞬。
 	勝利と……敗北……それは無限に連なる円環の一部に過ぎません……。
 	Victory and loss... these are mere insignificant moments in the endless cycle.
 	승리와… 패배… 그것은 무한히 이어지는 순환의 일부에 지나지 않아요… 
 
-	让我待在安静的地方就可以了。
 	一人で静かにしていられる場所さえあれば構いません……。
 	I don't mind as long as I have a quiet place to be alone.
 	혼자 조용히 있을 수 있는 공간만 있다면 상관없습니다…… 
 
-	怎么了？
 	何か……？
 	What's up?
 	무슨 일이시죠…?
 
-	我的心情很久没这样平静过了，甚至连您的心跳，我也听得见。
 	久々に、静かで、穏やかな気持ちです。あなたの、鼓動さえ聞こえるくらい……。
 	It's been a while since I've been this calm. I can even hear your heartbeat.
 	오랜만에, 조용하고 평온한 기분이네요. 당신의 심장 뛰는 소리마저 들릴 정도로요… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，今天的感觉怎么样？
 	ドクター、今日の気分はいかがですか？
 	How are you feeling today, Doctor?
 	박사님, 오늘 기분은 어떠신가요?
+
+干员档案\Background:
+	基础档案 :
+	【代号】闪灵
+	【性别】女
+	【战斗经验】七年
+	【出身地】卡兹戴尔
+	【生日】10月7日
+	【种族】萨卡兹
+	【身高】175cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+	作为一个萨卡兹，没有被感染是一种幸运，同时也是种不幸。
+
+	基礎情報 :
+	【コードネーム】シャイニング
+	【性別】女
+	【戦闘経験】七年
+	【出身地】カズデル
+	【誕生日】10月7日
+	【種族】サルカズ
+	【身長】175cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+	サルカズとして感染していないことは幸運だが、同時に不幸でもある。
+
+	Basic Info :
+	[Code Name] Shining
+	[Gender] Female
+	[Combat Experience] 7 years
+	[Place of Birth] Kazdel
+	[Date of Birth] Oct. 7
+	[Race] Sarkaz
+	[Height] 175cm
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+	As a Sarkaz, not being infected is both a blessing and a curse.
+
+	기본정보 :
+	[코드네임] 샤이닝
+	[성별] 여
+	[전투 경험] 7년
+	[출신지] 카즈델
+	[생일] 10월 7일
+	[종족] 살카즈
+	[신장] 175cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인. 
+	살카즈인으로서 감염되지 않았다는 건 행운이자, 불행이다.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准 
+	【战场机动】普通 
+	【生理耐受】标准 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】卓越
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】普通
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】卓越
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Normal 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Outstanding
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 보통
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 월등
+
+———————————————————————————————
+
+	客观履历 :
+	闪灵，萨卡兹医师，前萨卡兹医疗组织“赦罪师”成员，感染者援助团体“使徒”的一员。于源石技艺、战场急救、医学理论、临床医学等领域拥有渊博知识。 
+	现作为医疗干员为罗德岛医疗部门提供源石技艺理论，并为多项行动提供战场医疗救护服务。
+
+	個人履歴 :
+	サルカズの医師。サルカズ医療組織「聴罪師」の元構成員であり、現在は感染者援助団体「使徒」に所属している。アーツ、戦場救護、臨床医学などの分野において深い学識を有する。
+	現在は医療オペレーターとして作戦に参加して戦場救護を行ったり、ロドスの医療チームにアーツ理論の知識を提供するといった形でロドスに協力している。
+
+	Profile :
+	Shining is a Sarkaz medic, a former member of the Sarkaz medic group 'Confessor' and current member of the infected assistance group, 'Followers.' She is an authority in fields such as Originium Arts, field medicine, medical theories, and clinical medicine. 
+	She is now a Medic Operator at Rhodes Island, contributing her knowledge on Originium Arts theories and providing medical support for many an operation.
+
+	프로필 :
+	    살카즈 족 의사, 전 살카즈 의료 조직 '고해신부'의 일원이자, 감염자 구호 단체 '사도'의 일원이었다. 오리지늄 아츠, 전장 응급 처치, 의학 이론, 임상 의학 등 영역에서 해박한 지식을 지니고 있다. 현재는 로도스 아일랜드 의료 부문에서 메딕 오퍼레이터로서 오리지늄 아츠 이론에 대한 정보를 제공은 물론, 여러 작전에 참여해 의료 구호 서비스도 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员闪灵没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.1u/L 
+	闪灵时常出入矿石病高发地区，但极少受到源石影响，具体原因不明。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.1u/L
+	彼女は鉱石病が蔓延している地域に出入りすることが多いが、源石の影響はほとんどない。具体的な要因は不明。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Shining shows no signs of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.1u/L
+	Shining frequently visits areas with high rates of Oripathy, but so far seems unaffected.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 샤이닝으로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.1u/L
+	샤이닝은 자주 광석병 발생 빈도가 높은 지역에 출입하지만 오리지늄의 영향을 거의 받지 않고 있다. 구체적 원인은 알 수 없다.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员闪灵在医疗类源石技艺上有着极深厚的造诣。她为罗德岛医疗部门提供了大量成体系理论，使得罗德岛对此类源石技艺的认知向前推进了许多。 
+	事实上，据干员闪灵称，这些源石技艺都是她与同僚开发出来缓解感染者的病痛的。她的悲悯与苦行感，令众多医疗干员与术师干员肃然起敬。 
+	当然，研究发现，她所提供的源石技艺所能做到的，可能不止如此......正如战场报告所言，干员闪灵在战场上不仅能治疗干员们受到的伤害，她甚至能......字面意义上的，“庇护他们”，以源石技艺使他们免遭战火损伤。 
+	具体原理，可能需要等待术师干员们进一步的研究才能得出阶段性结论。
+
+	第一資料 :
+	シャイニングは医療系アーツに造詣が深い。彼女はロドスで医療チームにそれらの体系化された理論を共有し、それによりロドスのアーツに対する理解は大幅に深まることとなった。
+	それらのアーツは全て、感染者の痛みを和らげるために仲間たちと共に開発したものだと彼女は語り、彼女の慈悲深さと忍耐強さには、多くの医療オペレーターや術師オペレーターが尊敬の念を抱いた。
+	また、その後の研究を通して、彼女のアーツで実現可能なのは、痛みを和らげることだけに留まらないことが明らかになっている。戦場報告書によると、シャイニングは仲間の傷を癒やすだけでなく、敵の攻撃から文字通り「仲間をかばう」ことができるという。
+	そのアーツの具体的な原理に関しては、術師オペレーターが更に踏み込んだ研究を進めるまで結論は出ないだろう。
+
+	Archive File 1 :
+	Operator Shining has great expertise in medical Originium. She has offered numerous theories to the Rhodes Island medical department that advanced knowledge regarding Originium. 
+	According to Shining, she pioneered the field with her colleagues to alleviate the pain of the Infected. Her empathy and dedication has earned her the admiration of many of her fellow Operators. 
+	Further observations suggest she could possibly offer even more with her Originium Arts... As battle reports indicated, Shining not just could heal hurt Operators, but also 'protect' them from combat damage with Originium Arts. 
+	Any specific conclusions must await further research by Caster Operators.
+
+	파일 자료 1 :
+	    오퍼레이터 샤이닝은 의료계 오리지늄 아츠에 조예가 깊다. 그녀는 로도스 아일랜드 의료부에 대량의 체계적 이론 지식을 제공하였고, 덕분에 로도스 아일랜드의 오리지늄 아츠 관련 지식 수준 또한 함께 높아졌다. 샤이닝은 사실 이 오리지늄 아츠들은 모두 그녀와 동료가 감염자의 통증을 완하시키기 위해 개발해낸 것이라 한다. 그녀의 따뜻하고 넓은 마음씀씀이는 수많은 메딕 오퍼레이터와 캐스터 오퍼레이터들로 하여금 경건한 마음마저 들게 하였다.
+	    로도스 아일랜드는 연구를 통해 그녀가 제공한 오리지늄 아츠들이 할 수 있는 것이 치료에만 그치지 않는 다는 점도 확인할 수 있었다. 작전 보고서대로, 오퍼레이터 샤이닝은 전장에서 동료에 대한 치료 뿐만 아니라, 오리지늄 아츠를 사용해 동료들이 전장에서 부상을 입지 않도록 보호까지 할 수 있다는 것을 확인했다. 그러나 그 구체적 원리에 대한 결론을 단계적으로 도출해내기 위해선, 캐스터 오퍼레이터들의 추가 연구가 필요할 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	传闻中，干员闪灵偶尔会在私人聚会中，表演一些奇特的源石技艺。据描述，温和的光辉在黑暗的房间里缓缓摇动，逐渐扩张，甚至在墙壁上飞舞、变色。罗德岛抚养的孩子们都对这种表演十分着迷。 
+	区别于临光等干员所散发出的炽烈光芒，干员闪灵所带来的发光现象，近乎于有形的实体。 
+	关于这种辉光究竟是什么构造，以及为何离开自己的族群、有着怎样的情感经历、如何看待萨卡兹在各个政治实体中的地位之类的提问，干员闪灵一概拒绝回答。
+
+	第二資料 :
+	噂によると、シャイニングは身内のパーティーで不思議なアーツを披露することもあるらしい。暗くした部屋に暖かな光が現れ、それがゆらゆらと揺れながら大きさを変え、壁伝いに飛び回ったり色を変えたりするものだ。ロドスで育った子供たちはまたたく間にそのとりこになるという。
+	ニアールなどのアーツによる閃光とは異なり、彼女が生み出す発光現象は、実体を持った光の塊に近い。
+	彼女はその光の仕組みに関する質問に答えることは拒み、一族の下を離れた理由、どの様な感情の変化があったか、各政治組織におけるサルカズの地位に対する考えに関しても、同じ様に答えることを拒んだ。
+
+	Archive File 2 :
+	It is said that Operator Shining would demonstrate certain unique Originium Arts in private gatherings. It was described as a warm glow moving slowly in a dark room before gradually expanding, then even dancing on the wall and changing color. The performance seemed to captivate the children at Rhodes Island. 
+	Compared to the radiant light emitted by Nearl and other Operators, Shining's glow appeared more solid and tangible. 
+	As for the nature of the aura, why she left her own kind, what has she been through emotionally, what is the Sarkaz's role in various political bodies and similar questions, Shining always declined to answer.
+
+	파일 자료 2 :
+	    소문에 의하면, 오퍼레이터 샤이닝은 간혹 사적인 모임에서 몇 가지 신기한 오리지늄 아츠들을 선보인다고 한다. 정보 제공자의 묘사에 의하면, 온화하고 찬란한 빛이 어두운 방 안에서 조금씩 흔들거리더니, 점점 크기가 커지고, 벽에서 춤을 추고, 색이 변하기 까지 했다고 한다. 로도스 아일랜드에서 자라고 있는 아이들은 이 공연에 이미 푹 빠져있는 상태다.
+	    니어와 같은 오퍼레이터들이 뿜어내는 강렬한 빛과는 달리, 샤이닝이 구현하는 발광체는 마치 모양이 있는 실체와도 같았다.
+	    이런 빛은 대체 어떤 구조를 가지고 있는지, 그리고 왜 그녀는 자신의 종족을 떠났는지, 어떤 과거를 갖고 있는지, 국제 무대에서의 살카즈의 정치적 지위에 대해 어떻게 생각하는지 등, 샤이닝은 이런 질문에 대해 전부 대답하기를 거부하였다.
+
+———————————————————————————————
+
+	档案资料三 :
+	【笔录编号Sec-J12】 
+	我要告诉你们。 
+	擅长医疗类的源石技艺，绝不意味着闪灵她仅仅是个羸弱的天才医者。 
+	是的，没人见她真正亲身加入战斗过。的确，她给人的感觉像是夕阳，柔软温和，还有些孤僻，根本不像战士，对不对？ 
+	你们都觉得，她只是在意志和医术上很强大，对吧？甚至是，她可能还擅长不同领域的源石技艺？是，你们一定会这么想，毕竟表面上她从来都只是那么做的。 
+	我还要告诉你们，她是我见过最强的剑士。 
+	我知道，我知道，负责攻坚战的几位，还有那几个不安分因子，都是强大的剑士。 
+	但我要告诉你，闪灵绝对不比他们差。绝对不。我太蠢了，我居然真的当她手持的那把是普通的法杖...... 
+	我是不知道为什么她平时不用剑......她那时的表情，应该算是，憎恶？仿佛剑让她很恶心......或者说，要她用剑的场合很恶心？我不清楚。 
+	总之，她平时一定在向罗德岛隐瞒自己的剑术。 
+	证据？ 
+	我还活着，还能在这里做笔录，难道不是证据？我干嘛骗你们？ 
+	就这么说吧。我刚才说了吧，夕阳......可不是比喻，我不是有闲情逸致才那么说的。 
+	我怀疑她能切断白昼与夜晚，一瞬间。 
+	我是夸张了点！你不懂，我只是说，感受，虽然夸张，但我是在描述我的感受。 
+	那时候，我浑身重伤，勉强抬起眼睛查看状况，却看到她一个人挡在半队严密武装过的敌方精锐面前。 
+	......为了让遭遇埋伏倒在各处的我们，能够活下来。 
+	一个人。 
+	我怀疑这种事情，不止发生过一次。 
+	真的，就一瞬间。难怪她叫闪灵。 
+	
+	——某次机密任务后幸存干员的口述 
+	
+	这种描述......你姑且当作我向他们施放治疗法术留下的幻觉后遗症吧。 
+	
+	——闪灵对笔录的回应
+
+	第三資料 :
+	【記録番号Sec-J12】 
+	教えてやる。
+	シャイニングは医療系のアーツが得意だからといって、身体の弱い天才医師ってわけじゃない。
+	確かに、彼女が直接戦う姿は誰も見たことがない。夕日のように優しく温かく、どこか浮世離れしたイメージの彼女が、戦士の様に戦うなんて想像できない。そうだろう？
+	お前たちはきっと、彼女が優れているのはその強い意志と、素晴らしいアーツ能力だと考えているのだろう。あるいは他の分野のアーツだって扱えるかもしれない、なんてくらいには考えが及んでいるか？彼女はそう見られるように振る舞ってるなんて知らずにな。
+	だがそれらは全て間違ってる。彼女は私の知る中でも最強の剣士だ。
+	あぁ、知ってるさ。強襲戦に長けたやつら、不穏因子と称されるやつら、皆間違いなく強い剣士だ。
+	だがシャイニングの実力は間違いなくそれよりも上だ。彼女が普段身につけているのは普通のアーツロッドだと思っていた自分が馬鹿みたいだ。
+	なぜ普段彼女が剣を使わないかなんて知らない……あのときの表情はまるで……憎悪？剣を見て胸糞が悪くなったのか……あるいは、剣を振るうという行為がそうさせたのか……私にはわからない。
+	とにかく、彼女はその剣術についてロドスに何か隠している。
+	証拠？
+	私がまだ生きていて、こうして話している、それが何よりの証拠だろう？お前たちを騙す意味だってないだろう？
+	彼女はまるで夕日だなんて言ったが……あれは決して比喩なんかじゃないんだ。
+	彼女は一太刀で昼と夜を分かつ事ができる存在だ。
+	確かに少し大げさになったかもしれん！だが分かって欲しい。これは自分の体験を述べただけなんだ。
+	あの戦場で私は重症を負った。意識を取り戻した私がなんとか周りを見渡すと、彼女が一人で武装した精鋭部隊の前に立ったんだ。
+	……待ち伏せによる奇襲を受けて倒れた私たちを、生かすためにだ。
+	彼女一人で。
+	初めて剣を取ったようには見えなかった。
+	本当に、一瞬だった。彼女がシャイニングと呼ばれる所以がわかったよ。 
+	
+	――某機密任務後、奇跡的に生き延びたオペレーターの口述 
+	
+	これはきっと……私が施した医療アーツの後遺症によって、彼は幻覚を見たんでしょう。 
+	
+	——記録を見たシャイニングの反応
+
+	Archive File 3 :
+	[Debriefing Sec-J12] 
+	Let me tell you... 
+	Shining's healing expertise in no way means she's your typical frail medical genius. 
+	True, no one saw her in actual combat. Yes, she seemed warm and gentle like sunset, and even a bit lonely... Very much unlike a warrior, right? 
+	You must all feel she's incredible only in resolve and medical skills? Perhaps that she possessed Originium Arts of a different kind? That must be what you're thinking, since that's what you've ever seen her do. 
+	But I must you, she is the mightiest swordfighter I've ever seen. 
+	I know, I know, several commandos and rather reckless people are great swordfighter. 
+	However, I'm telling you, Shining doesn't take a backseat to any of them. No way. I was foolish to assume what she has in her hand all the time is a normal Arts staff... 
+	I don't know why she doesn't use a sword. Her expression was... loathing? As if blades disgusted her, or maybe she was disgusted to wield a blade... I'm not sure. 
+	Anyway, she has been hiding her sword skills from Rhodes Island. 
+	Proof? 
+	I'm still alive and here for the debriefing, isn't that proof enough? Why would I lie? 
+	Let's put it this way, sunset wasn't just a metaphor. 
+	I suspect she could turn bright daylight into night in an instant. 
+	Yeah, that's a hyperbole, but you don't get that how I feel right now! 
+	At the time, I was severely wounded, just barely able to lift my head. I saw her interposing herself in front of a platoon of heavily armed enemies. 
+	......To save the rest of us who were felled by the ambush. 
+	Just her alone. 
+	I'm thinking this isn't the first time it has happened. 
+	Honestly, it happened in a flash, like her name. 
+	
+	——A surviving Operator of a classified mission. 
+	
+	Such a story... You should treat it as hallucinatory side effect of my healing Arts. 
+	
+	——Shining's response to the log
+
+	파일 자료 3 :
+	[기록 번호 Sec-J12]
+	    알려주지. 의료계 오리지늄 아츠가 특기라고 해서, 비실비실한 천재 의사란 얘기는 아니야. 그래, 아무도 그녀가 직접 전투에 참여하는 걸 본적은 없지. 샤이닝은 마치 석양과도 같아, 따뜻하고 부드럽지. 약간 속세를 떠난 사람 같기도 하고… 아무튼 전혀 전사답지 않아, 그렇지?
+	    너흰 분명 샤이닝은 단지 의지력이 강하고 의술이 매우 뛰어난 사람이라 생각하겠지, 그리고 다른 영역의 오리지늄 아츠에도 능할 거라고도 생각하겠지. 그래, 분명 이렇게 생각할 거야. 왜냐하면 샤이닝 본인이 줄곧 이런 오해를 사게끔 행동해왔으니까.
+	    하지만 틀렸어, 샤이닝은 내가 만나본 검사 중 가장 강한 검사야. 아아 물론 잘 알아, 돌격전을 담당하는 녀석들, 그리고 그 몇몇 불안한 녀석들, 다 강한 검사지. 하지만 샤이닝이 걔네보단 강해, 장담하지. 나도 참 바보라니까, 샤이닝이 들고있던 게 진짜로 평범한 마법 지팡이라고 생각하다니…… 
+	    난 샤이닝이 왜 평소에 검을 안 쓰는지 모르겠어…… 그때의 그 표정, 그건 분명 증오라고 할까? 마치 검이 그녀를 기분나쁘게 만드는 것 같달까…… 아니면, 그녀가 검을 쓰는 그 장소가 기분나빴던 걸까? 잘 모르겠네.
+	    아무튼, 그녀는 평소에 모두에게 자신의 검술을 숨기고 있어. 증거? 내가 아직 살아서 이렇게 기록을 남기고 있잖아, 이게 증거아니겠어? 내가 당신들 속여서 뭐하겠어?
+	    내가 아까 석양 얘기 했잖아…… 그게 비위가 아니야, 내가 한가해서 그런 말을 한게 아니라고. 난 그녀가 낮과 밤도 갈라버릴 수 있다고 봐, 한순간에 말이야. 그래 과장 좀 해봤다! 이해를 못하네, 그냥 느낌이 그렇단 거야! 좀 과장되긴 했지만, 내 느낌을 표현하고 있는 거라고!
+	    그때 난 전신에 중상을 입었고, 가까스로 눈을 떠서 상황을 살폈는데, 샤이닝 혼자 완전무장을 한 적 정예 부대를 막아서고 있었다고…… 매복에 당해 곳곳에 쓰러져있었던 우리를 살리기 위해서 말이야, 그것도 혼자서. 검을 처음 쓰는 솜씨가 아니였어. 정말로 한 순간이었어. 괜히 그녀가 샤이닝이라고 불리는게 아니라고.
+	
+	——어떤 비밀 임무 수행 후 생존한 오퍼레이터가 남긴 구술 기록.
+	
+	    이런 묘사는…… 내가 그 사람들한테 쓴 치료 아츠 때문에 생긴 환각성 후유증이겠지.
+	
+	——본 기록 내용을 듣게 된 샤이닝의 반응
+
+———————————————————————————————
+
+	档案资料四 :
+	
+	“赦罪师”是萨卡兹们的一个神秘机构。有关这个机构的情报，即使是我也知之甚少。
+	实际上，闪灵绝不只是一个普通的萨卡兹流浪医者，她在初次见到阿米娅时的反应证明了这点：微小，但是明显。这在我们几人间已经是一个共识。
+	那么，她究竟站在哪一边？
+	“赦罪师”并不像她所说的那样，是个单纯医治萨卡兹的组织。如果再次被卷入所谓“赦罪师”所带来的风波，闪灵与我们之间的联系，是否紧密到足够让她袖手旁观，甚至与我们并肩作战？
+	她的过去与她的心灵一样深邃，要凭平常事物照亮根本无稽之谈。
+	也许只有靠博士这样能让闪灵放下大部分戒心的人，我们才有机会了解到她的真实想法。
+	毕竟能了解闪灵想法的人，我很肯定，绝不会向任何机构透露她的信息。
+	
+	——凯尔希
+
+	第四資料 :
+	
+	聴罪師とは、サルカズたちによる謎多き機関だ。この機関に関する情報は、この私でもあまり知らない。
+	シャイニングはただのサルカズの流れの医者ではないだろう。彼女がアーミヤを見た時の反応にそれが現れていた、小さく、そしてはっきりと。これについては我々の中ではもう結論付いている。
+	では、彼女はいったい「どちら側」の者なのか。
+	彼女は「聴罪師」をただのサルカズの医療組織というが、実体はそうではないだろう。再び「聴罪師」が何か事を起こした時、彼女がそれを見て見ぬふりするか否か、我々との共闘を選ぶか否かは、今後の我々との関係次第だ。
+	彼女の過去は彼女の心と同じく深い。普通の物事では照らせないほどに。
+	ドクターのように彼女の警戒心を解くことのできる者がいて初めて、我々は彼女の真の考えを知る機会を得ることができる。
+	彼女の考えを理解できる者であれば、彼女の情報を如何なる機関にも漏らさない。彼女もそう考えているはずだ。
+	
+	—— ケルシー
+
+	Archive File 4 :
+	
+	The 'Confessor' is a secret Sarkaz organization. Even I don't have much intel on them. 
+	It's impossible for Shining to be a mundane Sarkaz traveling healer, judging by her reaction upon meeting Amiya for the first time: subtle, but conspicuous, when it's common knowledge among humans. 
+	So, on which side does she stand? 
+	The Redeemers are not a simple Sarkaz outfit like she made it out to be. If another so-called Redeemer crisis should arise, is she tight enough with us for her to merely stand by, or even fight alongside us? 
+	Her past must be as enigmatic as her emotions. It's impossible to try to figure her out solely based upon her behavior. 
+	Maybe we could learn her true thoughts if someone like the Doctor can get her to lower her guard. 
+	Anyone who could understand her, I'm sure, would never divulge any of her secrets to any agency.
+	
+	——Kal'tsit
+
+	파일 자료 4 :
+	    '고해신부'는 살카즈들의 신비스러운 기관이다. 이 기관에 대한 정보는 나 역시 매우 부족한 상황이다. 사실, 샤이닝은 절대 평범한 살카즈 족 떠돌이 의사가 아니다, 그녀가 아미야를 처음 봤을 때의 '자그맣지만, 분명했던' 반응이 이것을 증명한다. 이건 우리 몇 명 사이에선 이미 공공연한 사실이다.
+	    그럼, 그녀는 대체 어느 편에 서있는 걸까? '고해신부'는 그녀가 말한 것 처럼, 단순히 살카즈 족을 치료만하는 조직이 아니다. 만약 또 다시 '고해신부'가 몰고 오는 풍파에 휘말린다면, 샤이닝과 우리의 관계는 그녀가 수수방관할 정도로, 아니면 우리 편에서 싸워줄 정도로 공고해져 있을까?
+	    그녀의 과거는 마치 그녀의 마음처럼 심오해서, 평범한 물건으로 비춘다면 그어떤 것도 확인할 수 없다. 어쩌면 박사처럼, 샤이닝의 경계심을 대부분 내려놓게 할 수 있는 사람을 통해서만 그녀가 실제로 어떤 생각을 갖고 있는지 이해할 수 있을 것이다.
+	    어차피 샤이닝의 생각을 이해할 수 있는 사람은, 단언컨대 절대 다른 어떤 기관에도 그녀의 정보를 유출하지 않을 것이다.
+	
+	——켈시
+
+———————————————————————————————
+
+	晋升记录 :
+	
+	闪灵小姐在医疗部门与凯尔希医生争执时宣称的言论，据说已经成为了许多医疗干员铭刻于心的准则。
+	“如果对于罗德岛来说，一位敬职可靠的干员十分重要；那么对于医者来说，一个珍惜自己性命的病人也是同样。”
+	在医治患者时，也要让患者理解生命的可贵，这可能也同样是许多医疗干员的心愿。
+	闪灵小姐不仅医治那些想要活下去的人，她还要伸出手去保护他们。对于她来说，医术和守护，也许根本就是同一条道路。
+
+	昇進記録 :
+	
+	シャイニングが医務室でケルシー医師と口論になった際の言葉は、今でも一つの教訓として多くの医療オペレーターの心に刻まれている。
+	「ロドスにとって、頼れるオペレーターが重要なのと同じです。医者にとっては自分の命を大切にする患者が一番重要なんです」
+	患者を治療するにあたり、彼らに命の尊さを知ってもらうことも医療オペレーターたちの願いなのである。
+	シャイニングは生きたいと言う人を治療するだけではなく、彼らに手を差し伸べて守ろうとする。彼女にとって、医術と保護は同類項なのである。
+
+	Promotion Record :
+	
+	Miss Shining's statement in her debate with Dr. Kal'tsit in the medical department is allegedly something that many Medic Operators have taken to heart. 
+	'Few things are more important to Rhodes Island than the dedication and reliability of its Operators. Likewise, few things are more important to medics than patients who value their own lives.' 
+	It very well reflected the wish of many medical staff that their patients recognize just how precious life is while undergo treatment. 
+	Miss Shining not only wants to save those fighting to live, but to also protect them. To her, healing and protection are perhaps one and the same.
+
+	승진 기록 :
+	    샤이닝이 의료 부문에서 닥터 켈시와 논쟁을 벌일 때 한 말은, 이미 많은 메딕 오퍼레이터들이 마음속 깊이 새긴 규범이 되었다고 한다.
+	    "로도스 아일랜드에게 있어 믿을 수 있는 오퍼레이터가 중요하듯이, 의사에게 있어서는 자신의 목숨을 소중히 하는 환자가 가장 중요한 겁니다."
+	    환자를 치료할 땐 환자가 생명의 귀중함을 이해할 수 있도록 해야 하는데, 이것은 다른 많은 메딕 오퍼레이터들 역시 바라는 점일 것이다. 샤이닝은 살고 싶어 하는 사람들을 치료해주는데 그치지 않고, 더 나아가 이들을 보호해주려 한다. 의술과 보호, 그녀에게 이 두 가지는 어쩌면 근본적으로 동일한 선상에 있는 개념일지도 모르겠다.

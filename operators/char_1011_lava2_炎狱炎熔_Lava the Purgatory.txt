@@ -1,11 +1,17 @@
 ID:
 	char_1011_lava2
 
-干员代号\Name:
+CV:
 	炎狱炎熔
 	炎獄ラヴァ
 	Lava the Purgatory
 	라바 더 퍼거토리
+
+干员代号\Name:
+	水桥香织
+	水橋かおり
+	Kaori Mizuhashi
+	미즈하시 카오리
 
 招聘合同\Character Usage:
 	罗德岛术师干员炎狱炎熔，将熟练地运用高超的源石技艺为您开辟空间。
@@ -43,177 +49,411 @@ ID:
 	지옥불 고리
 
 语音\Voices:
-	我现在正空闲，倒不是不能帮你一些忙......这些是什么，不是灾害和法术相关的问题而是普通的工作文书？喂！
 	ちょうど暇だし、手伝えないこともないけど……なんだこれ、天災ともアーツとも関係ないただの書類仕事？おい！
 	I have some free time, so I guess I could help you out... What's this? This has got nothing to do with disasters and Arts, just some normal paperwork? Hey!
 	마침 한가하기도 하고, 못 도와줄 건 없는데… 뭐야 이건, 재앙이나 아츠랑도 관계없는, 그냥 서류 작업이라니? 어이!
 
-	想试试占卜？真怀念，我已经很久没有进行研究了，只是为了找找乐子倒是可以为你算一算......哈，你的运势还是一如既往的一言难尽啊......算了，就用行动证明它的谬误吧。
 	占ってほしい？懐かしいな、ずっとやってなかったからさ。ただの暇つぶしになら占ってあげてもいいけど……はぁ、アンタの運勢は相変わらずなんとも言えないな……まぁいいや、この結果が間違ってるってことを、行動で証明してくれ。
 	You wanna try some fortune-telling? Well, that brings me back. I haven't done it for a while. I could take a look at your fortune to kill some time, I guess. Hmm, if your luck isn't beyond words as always... Well, you're gonna have to prove my results wrong.
 	점을 쳐달라고? 오랜만이네, 한동안 안 했었으니까. 그냥 심심풀이로 하는 거라면 해줄 수 있는데… 하아… 네 운세는 여전히 뭐라고 말할 수 없겠네… 뭐, 됐다. 이 결과가 틀렸다는 걸 행동으로 증명해줘.
 
-	源石技艺的钻研......只是作为术师尽自己的职责罢了。如果连这点事情都做不好，我要靠什么来捍卫应当捍卫的......唔？甜食？犒劳我的？谢，谢谢......
 	アーツの研究をしてるのは……術師が果たすべき責務ってだけだ。そんなことすらできない奴に、守るべきものなんて守れるわけが……えっ？スイーツ？お疲れ様？あ、あんがと……
 	I do research on Arts because it's part of my responsibilities as a Caster. If I can't even do that, how am I supposed to protect those who... Huh? You got sweets? For me? Uh, thanks...
 	아츠를 연구하는 건… 캐스터가 해야 하는 책무일 뿐이야. 이 정도도 못 하는 녀석에게, 지켜야 하는 것을 지킬 수 있을 리가… 어? 디저트? 고생했다고? 고, 고마워……
 
-	即便不是行动的目标，芙蓉......姐姐她也会无条件为他人提供许多的帮助。在这方面，她善良得完全不像萨卡兹，可她善良的对待这片大地，又有多少人善良地对待她呢。
 	任務と関係なくても、ハイビス……姉ちゃんは無条件で人助けをする。あの全くもってサルカズらしくない優しさでな。だけど、この大地に善意を向けたところで、姉ちゃんに善意を向けてくれる人なんてどれほどいるんだろうな。
 	Hibiscus... My sister always helps people whenever they need, even if it's not part of her mission. It's like she's not a Sarkaz at all, what with how kind she is. I really wonder how many people there are in this world who will repay her kindness, though.
 	임무와 상관없어도 히비스… 언니는 조건 없이 사람을 도와. 그 전혀 살카즈답지 않은 상냥함으로 말이지. 하지만, 이 대지에 선의를 베푼다고 해서, 언니에게 선의를 베푸는 사람은 과연 얼마나 있을까?
 
-	为什么不再沉迷于占卜学？人们对未知的恐惧和好奇很多来自于自然中的现象，更何况，当你无数次直面残酷的事实之后，占卜中揣测的命运也就不那么值得在意了。
 	なんで占いの熱が冷めたかって？人間の未知に対する恐怖心や好奇心のほとんどは、自然現象から生まれるものだから。それに、何度も残酷な現実に直面してきて、占いで予見できる運命になんて大した価値がないって気づいたからだ。
 	Why I'm not into fortune telling anymore? 'cause the fear and curiosity that people have about the future usually has to do with natural phenomena. That, and I've realized the results you get with fortune telling don't really mean much, having come face to face with so many cruelties.
 	왜 점에 대한 열정이 식었느냐고? 인간의 미지에 대한 공포심과 호기심의 대부분은 자연 현상에서 생기는 것이니까. 게다가 몇 번이고 잔혹한 현실을 직면하다 보니, 점으로 예견할 수 있는 운명에 대단한 가치가 없다는 걸 깨달았거든.
 
-	从源石技艺施法的媒介性能上说，书和法杖并无差别。反倒是小刀一直是最实用的工具，不论是战斗到力量枯竭不得不肉身搏击，亦或是在荒野生存的时候，书里教条式的文字是毫无用处的。
 	アーツの媒介としての性能で言えば、本も杖もさほど変わらない。だけどこのナイフはどんな時でも役に立つんだ。精根尽きて肉弾戦に迫られる時も、荒野でサバイバルをする時も、本に書かれたお堅い言葉なんて何の役にも立たないからな。
 	In terms of performance, books and staffs are just about the same as Arts conductors. If you ask me, I think knives are much more practical. When you're exhausted after a melee, or you're out in the wilderness, just trying to survive, all those words in the books aren't going to do you much good.
 	아츠의 매개로써의 성능으로 말하자면 책이나 지팡이나 별 차이 없어. 하지만 이 나이프는 어떠한 상황에서도 도움이 되지. 기진맥진해서 육탄전을 벌여야 할 때도, 황야에서 서바이벌할 때도 책에 쓰인 딱딱한 말 따위는 아무런 도움도 안 되니까 말이야.
 
-	团队作战虽然麻烦，事到如今，回想起和预备小队的成员们一起作战的经历，的确是......挺，挺怀念的没错啦......如果大家还能一起并肩作战的话......不，没什么。
 	チームでの作戦は面倒だけど、今になって行動予備隊のメンバーたちとの共同作戦を思い返してみたら、確かに、懐かしいかもな……もしまたみんなと一緒に戦えるなら……いや、なんでもない。
 	It's a pain to fight as a team, but when I look back on those times I fought side by side with my Reserve Ops teammates now... It brings back memories, I guess. If I get the chance to fight alongside them again... No, never mind.
 	팀으로 하는 작전은 귀찮지만, 지금에 와서 예비작전팀 멤버들과의 공동 작전을 떠올려 보니… 확실히, 그리울지도 모르겠네… 혹시 또 다 같이 싸울 수 있다면… 아니, 아무것도 아니야.
 
-	我以前也没有那么粗神经吧？为什么在芙蓉眼里，她的妹妹永远像个长不大的小丫头，还总是用对付小鬼那一套欺负我！明明已经和她和解了，但看到她从容的表情还是觉得火大......！
 	昔のアタシにしたってそんなにぶっきらぼうじゃなかっただろ？なんでハイビスは今だにアタシを成長しない子供だと思ってるんだ。しかもガキ扱いして嫌がらせまでしてくる！仲直りしたってのに、あの余裕ぶってる顔を見るとムカつくんだよ……！
 	I wasn't that grumpy and curt now, was I? How come Hibiscus still treats me like a kid who hasn't grown up yet? It's like she's doing it to pick on me! We finally managed to make up, but it just ticks me off when I see her act so calm about it!
 	옛날의 나라고 해도 그렇게 퉁명스럽진 않았잖아? 왜 히비스는 아직도 나를 성장하지 않은 아이라고 생각하고 있는 거지? 게다가 어린애 취급하면서 괴롭히기까지 한다니까! 화해하긴 했지만, 그 여유로운 척하는 표정을 보면 열 받는다니까…!
 
-	在这糟糕的时代，人们积累的恶意已经足够多了，必须改变。我无法再忍受那些表面华丽、内心却肮脏无比的伪善者这样对待我的同胞......就因为我们，是萨卡兹。
 	この最悪な時代に、十分過ぎるくらいの悪意が人々の間に蔓延してる。そんなの変えないといけないんだ。華やかな見てくれを装いながら、その内側は何よりも汚い偽善者たちがアタシの同胞たちを傷つけるんだ……サルカズだからって理由だけでな。そんなの、見過ごすことはできない。
 	The times we live in are so messed up, there's just way too much malevolence going around in this world. We have to change that. I can't stand all those rotten hypocrites acting all kindhearted treating my fellow Sarkaz like that... just because of who we are.
 	이런 최악의 시대에, 흘러넘칠 정도의 악의가 사람들 사이에 만연하고 있어. 그런 건 바꿔야만 해. 화려하게 겉모습을 치장하면서 그 속은 무엇보다 더러운 위선자들이 내 동포들을 상처입히고 있어… 살카즈라는 이유만으로 말이지. 그런 걸 그냥 두고 볼 수는 없어.
 
-	嗯......你还是睡得这么安稳啊。
 	ふぅ……相変わらず気持ちいい眠りっぷりだな。
 	Hmm... You always look so peaceful in your sleep.
 	아아~ 여전히 기분 좋게 자네.
 
-	喂，等等，谁让你不敲门进来的——啊，是博士啊。为什么要换上这身？啊......准备去训练场再试探一下自身技艺的极限。要来看看吗，博士？
 	おい誰だよ、ノックもせずに入ってくるなんて――なんだ、ドクターか。なんでこんな格好してるかって？ああ……訓練場でもう一回自分の限界を試そうと思ってな。見に来るか？ドクター。
 	Hey, what's the big idea? Who let you come in without knock—Oh, it's you, Doctor. Why am I wearing this? Well... I'm hitting the training grounds to test my limits once more. Wanna come watch, Doctor?
 	어이, 누구야, 노크도 안 하고 들어오다니…… 뭐야, 박사였어? 왜 이런 복장이냐고? 아아… 훈련장에서 다시 한번 자신의 한계를 시험해 보려고 말이지. 보러 올래? 박사.
 
-	已经全部掌握了。
 	全部把握した。
 	I got it all down.
 	모두 파악했어.
 
-	天赋异禀的术师不在少数，我不是那种幸运的家伙。想要拯救他人便不得不成为更强大的术师。愿意帮我这一把，谢谢，博士。
 	天賦の才ってのを持った術師も割といるけど、アタシはそれほど幸運に恵まれなかった。だから人を助けるには、もっと強い術師になるしかないんだ。力を貸してくれてありがとうな、ドクター。
 	There are lots of talented Casters out there, but I'm not so lucky. That's why I have to get stronger if I want to be able to save the world. Thanks for helping me out, Doctor.
 	천부적인 재능을 가진 캐스터도 꽤 있지만, 난 그 정도로 행운을 타고나진 않았지. 그래서 사람을 돕기 위해선 더 강한 캐스터가 되는 수밖에 없어. 도와줘서 고마워, 박사.
 
-	焰的法术已经掌握至此了。只要继续钻研，或许能碰触到现代源石技艺理论的边界......能影响空间也说不定。
 	炎のアーツはもうここまでマスターした。このまま研究し続ければ、現代アーツ理論の限界に触れられる気がするんだ……空間に影響を与えることだってできるかもしれない。
 	I've got the hang of fire Arts now. If I keep working on this, I might just make it to the boundaries of modern Arts theory... I might even be able to manipulate space and matter.
 	불꽃의 아츠는 이미 여기까지 마스터했어. 이대로 계속 연구한다면, 현대 아츠 이론의 한계에 도달할 수 있을 것만 같아… 공간에 영향을 주는 것도 가능할지 몰라.
 
-	敌人的弱点已经全部掌握了，这就出发吧。
 	敵の弱点はもう全部把握してる。行くぞ。
 	I've got a good idea of the enemy's weaknesses. Let's go.
 	적의 약점도 이미 전부 파악했어. 가자.
 
-	我并不擅长这种事......只要快点结束就可以了吧。
 	こういうのは得意じゃないんだが……さっさと終わらせればそれでいいだろ。
 	I'm not good at this kinda stuff... Just gotta get this over with quickly, right?
 	이런 건 잘 못 하는데… 빨리 끝내면 되는 거지?
 
-	背后就交给你了，我去会会那些对手。
 	背中は任せた。敵はアタシがやる。
 	I'm counting on you to have my back while I take care of the enemies.
 	등 뒤를 부탁해. 적은 내가 맡을게.
 
-	被邪恶浸染的有罪灵魂，不配得到宽恕。
 	悪に染まった罪深い魂に、許しを請う資格なんてない。
 	You've strayed from the path of righteousness. Your sinful souls deserve no mercy.
 	악에 물든 죄 깊은 영혼에 용서를 구할 자격은 없어.
 
-	没时间犹豫了。
 	躊躇している暇はない。
 	No time to hesitate.
 	주저하고 있을 시간 없어.
 
-	就是现在。
 	今だ。
 	Now!
 	지금이야.
 
-	开始吧。
 	始めるぞ。
 	Let's get this started.
 	시작한다.
 
-	准备施法。
 	アーツ構え。
 	Prepare to cast.
 	아츠 준비.
 
-	呵啊！
 	ハアッ！
 	Hah!
 	하앗!
 
-	撕裂吧！
 	裂けろ！
 	Tear them apart!
 	베어라!
 
-	太弱了，躲藏是没用的。
 	弱すぎる、隠れても無駄だ。
 	Too weak. There's no point in hiding!
 	너무 약하군, 숨어도 소용없다.
 
-	你的伎俩已经没用了！
 	子供騙しは通用しない！
 	Your tricks won't work here!
 	어린애 눈속임은 안 통해!
 
-	历经磨难，方能有所成就。
 	苦難を乗り越えてこそ、何か成し遂げられるものがあるんだ。
 	It's only by overcoming challenges that we manage to accomplish something.
 	고난을 이겨내야만 무언가 이룰 수 있는 게 있어.
 
-	哼......在痛苦和恐惧中溃败吧。所有的罪恶必将被讨伐。
 	フンッ……苦痛と恐怖の中で崩れ落ちろ。罪には必ず裁きが下るんだ。
 	Hmph... Accept your defeat in pain and fear. Evil will always be defeated.
 	흥… 고통과 공포 속에서 쓰러져라. 죄에는 반드시 심판이 내려지는 법이다.
 
-	这就是我们现在的力量，但是......还不够。我应当做得更好，必须做得更好。
 	これが今のアタシたちの実力だ。だが……まだまだだな。アタシはもっとできるはず、いや、できないといけないんだ。
 	This shows how powerful we are now. It's far from enough, though. I know I can do better than this. No, I have to do better.
 	이게 지금 우리의 실력이야. 하지만… 아직 멀었어. 나는 더 잘할 수 있어, 아니 잘해야만 해.
 
-	......呿，必须，赶尽所有邪恶......
 	……チッ、悪は絶対に……根絶やしにしないと……
 	Gah... I gotta... eradicate all evil...
 	칫…… 악은 철저히…… 뿌리 뽑아야 해……
 
-	我还有许多事要做，就让我待在这里吧。
 	まだやらないといけないことが山積みだ。しばらくここにいさせてくれ。
 	I still have lots to do. Let me stay here.
 	아직 해야 할 일이 산더미야. 잠시 이곳에 있게 해 줘.
 
-	别、别摸脑袋！
 	あ、頭触んな！
 	D-Don't pat my head!
 	아, 머리 만지지 마!
 
-	我正在阅读，还有很多要储备的知识......到下午茶时间了吗？那快点走吧。
 	本を読んでるんだ。まだ頭に入れときたい知識はたくさんあるから……もうティータイム？じゃあさっさと行こう。
 	I'm reading. There's still a lot I need to learn... It's time for tea already? Let's get going, then.
 	책을 읽고 있어. 아직 머릿속에 담아두고 싶은 지식은 많이 있으니까… 벌써 티 타임이라고? 그럼 얼른 가자.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士。
 	おはよう、ドクター。
 	Morning, Doctor.
 	안녕, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】炎狱炎熔
+	【性别】女
+	【战斗经验】未公开
+	【出身地】维多利亚
+	【生日】6月22日
+	【种族】萨卡兹
+	【身高】158cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】炎獄ラヴァ
+	【性別】女
+	【戦闘経験】未公開
+	【出身地】ヴィクトリア
+	【誕生日】6月22日
+	【種族】サルカズ
+	【身長】158cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Lava the Purgatory
+	[Gender] Female
+	[Combat Experience] Undisclosed
+	[Place of Birth] Victoria
+	[Date of Birth] June 22
+	[Race] Sarkaz
+	[Height] 158cm
+	[Infection Status]
+	Originium crystals distributed across the surface of her body, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 라바 더 퍼거토리
+	[성별] 여
+	[전투 경험] 미공개
+	[출신지] 빅토리아
+	[생일] 6월 22일
+	[종족] 살카즈
+	[신장] 158cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	生于维多利亚的伦蒂尼姆，干员芙蓉的孪生妹妹。自从因为感染矿石病来到罗德岛，已经经历了数年的时光。在罗德岛的这段时间，她从未有一日的懈怠，不断寻找着突破自己源石技艺极限的方法。
+
+	個人履歴 :
+	ヴィクトリアのロンディニウム市出身。ハイビスカスの双子の妹。鉱石病の治療のためロドスを訪れてから、はや数年の時が過ぎた。それから一日も怠ることなく、自らのアーツの限界を超える術を常に探している。
+
+	Profile :
+	Born in Londinium, Victoria, Lava is the younger twin sister of her fellow Operator, Hibiscus. It has been a few years since she contracted Oripathy and came to Rhodes Island for treatment. She has remained ever diligent during her time in Rhodes Island and never wasted even a moment in her quest to hone her Originium Arts prowess.
+
+	프로필 :
+	    오퍼레이터 히비스커스의 쌍둥이 동생. 빅토리아 런디니움 출신이다. 광석병에 감염되어 로도스 아일랜드에 도착, 이미 몇 년의 시간을 보냈다. 로도스 아일랜드에 머무는 내내, 단 하루도 쉬지 않고 자신의 오리지늄 아츠가 가진 한계를 돌파하는 방법을 찾고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】12%
+	干员左臂有少量源石结晶分布。
+	
+	【血液源石结晶密度】0.28u/L
+	长期进行高强度的训练、研究高风险性的法术和频繁参与对外作战任务，不可避免地对干员病情产生了一定影响。在其指导老师Pith和医疗干员芙蓉的精心照料下，该干员的病情恶化情况尚且维持在可控范围。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】12%
+	左腕に少量の源石結晶の分布を確認。
+	
+	【血液中源石密度】0.28u/L
+	長期にわたって激しい訓練とリスクの高いアーツの研究を行い、頻繁に艦外での作戦に参加していたことは鉱石病の進行に一定の影響を与えている。指導教員Pithと医療オペレーターハイビスカスによる献身的なケアにより、病状はかろうじてコントロール可能な範囲に収まっている。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Assimilation] 12%
+	Mild crystallization visible on her left arm.
+	
+	[Blood Originium-Crystal Density] 0.28u/L
+	The extended, high-intensity training; high-risk Originium Arts research; and the frequent field operations that Purgatory has taken part in have naturally taken their toll on her condition. Thanks to the meticulous care of her instructor, Pith, and Medic Operator Hibiscus, Purgatory's condition, though deteriorating, is still kept at manageable levels.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음, 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 12%
+	오퍼레이터의 왼팔에 소량의 오리지늄 결정 분포.
+	
+	[혈중 오리지늄 결정 밀도] 0.28u/L
+	장기간에 걸친 고강도 훈련과 위험성 높은 아츠 연구, 그리고 빈번한 대외 작전 임무 참여가 오퍼레이터의 병세에 영향을 주는 것은 불가피함. 다만 지도교수 피스와 메딕 오퍼레이터 히비스커스의 정성 어린 보살핌 덕에 오퍼레이터의 병세가 악화되는 상황은 통제 가능한 범위를 유지하고 있음.
+
+———————————————————————————————
+
+	档案资料一 :
+	自源石技艺指导员意识到炎熔有与众不同的法术天资后，教官们定制了一套成熟的学习体系，使炎熔能够更加效率、系统地去掌握源石法术。训练成果显著，炎熔本人也十分痴迷于法术的钻研和实践，甚至对闲暇时间的生活漠不关心。许多罗德岛术师都被拜托过对炎熔进行法术指导，其中包括一些技力超凡的精英干员的指导，这使得炎熔倍感骄傲，并投入更多的时间磨练自己。
+	炎熔逐渐领悟，源石技艺不仅是浮于表面的一种破坏，还可以深入到更高的层面。源石技艺——无论是对于法术形式多样性的探讨，还是对于源石技艺本源的考究，都是术师们不断钻研的课题。而炎熔显然在这方面有着优异的才能。为了探寻这份力量背后的深意，干员炎熔立志于从灾厄中寻求真相，通过不断地化解危机，逐渐找到隐藏在矿石病与战争之下的自我命运的母题，并试图加以掌握。
+
+	第一資料 :
+	ラヴァが抜きん出たアーツの才能を宿していることに気付いた教官たちは、より効率的、系統的に技術を身につけられるように、洗練された訓練システムを作り出した。その成果は顕著で、ラヴァ本人もアーツの研鑽と実践に熱中し、休息を忘れるほど没頭していた。ロドスの術師の多くがラヴァからアーツ指導を依頼されたことがあり、中には非凡な技量を持つエリートオペレーターも含まれていたため、非常に感激したラヴァは、いっそう自身を磨くようになった。
+	鍛錬を積むにつれ、ラヴァはアーツが単純な破壊だけでなく、より高次の可能性を持つことに気づき始めた。アーツの多様性への検討も、その源への追求も、術師たちにとっては果てのない研究課題である。そしてラヴァは明らかにこうした研究に対して特異な才能を持っている。この力の背後にある意味を知るため、ラヴァは災厄の中から真理を探し出すことを目指した。絶え間なく危機を解決することによって、徐々に鉱石病と戦争に覆い隠された自身の運命の鍵の姿を掴みかけており、さらにその掌握を試みている。
+
+	Archive File 1 :
+	Ever since our Originium Arts instructors took note of Lava's unparalleled talent for Arts, the instructors have formulated a full-fledged curriculum to allow Lava to master her Originium Arts more efficiently and systematically. The results were remarkable, and Lava herself has also become obsessed with her studies in Originium Arts and being able to put them into actual use, to the point that she neglects rest during her own free time. She has had the opportunity to study under the tutelage of many of our casters, including some particularly exceptional elite operators. This has been a source of pride to Lava, and it has given her all the more reason to spend time to improve her skills.
+	Lava has slowly come to realize that there is much more to Originium Arts than the physical damage you inflict on the surface; and they go much deeper than damage alone. Originium Arts is an academic discipline that is constantly being studied by casters, be it the research of the myriad of Arts there is or their origins. Operator Lava is particularly talented in this field of study, and she sought to seek out the truth and the meaning of this power by taking on the calamities that plague our world herself. During her pursuit and her participation of the neutralization of those countless crises, she slowly discovered her destiny, hidden behind the tragedies of Oripathy and war, and she is trying to take control of it.
+
+	파일 자료 1 :
+	    오리지늄 아츠 교관이 라바에게서 남들과는 다른 아츠 재능이 있음을 인지한 후, 교관들은 보다 숙련된 학습 체계를 확립해 라바가 좀 더 효율적이고 체계적으로 오리지늄 아츠를 배울 수 있게 도와주었다. 그 훈련 성과가 어찌나 확실한지, 라바 본인 또한 아츠의 연구와 연습에 깊이 빠져 쉬는 시간마저 잊어버릴 정도였다. 로도스 아일랜드의 많은 캐스터들이 라바의 아츠 지도를 부탁받았는데 그중에는 범상치 않은 기술을 갖춘 정예 오퍼레이터도 포함되어 있었으니, 라바는 그 점에 큰 자부심을 느끼고 보다 많은 시간을 투자해 자신을 연마하는 계기로 삼았다.
+	    라바는 오리지늄 아츠가 겉으로 보이는 것처럼 단순한 파괴적인 힘이 아니라, 보다 높은 차원에 도달할 수 있게 해주는 발판임을 점차 깨닫게 되었다. 그것이 아츠 형식의 다양성에 대한 것이든, 아니면 오리지늄 아츠 근본에 대한 탐구든 간에 오리지늄 아츠는 캐스터들의 끊임없는 연구 주제다. 그리고 라바는 그 방면에서 특히 우수한 재능을 보여주었다. 오퍼레이터 라바는 그 힘의 뒷면에 있는 심오한 뜻을 알고자 재앙 속에서 진실을 찾아내기로 결심했고, 끊임없이 위기를 해결하면서 점차 광석병과 전쟁 속에 숨겨진 자신의 운명에 대한 주제를 찾아내었으며, 이를 파악하기 위해 노력하고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	表面装作不谙世事的叛逆青年，实际上，炎熔是位心思细腻的干员。她能够体谅社会中那些弱势的人们微不足道却至关重要的心愿，竭尽所能地帮助他人。然而，随着能力的增加，她所承担的责任也越来越大——不仅是身为罗德岛干员所要完成的任务，更多的是她对自己的要求、对求助者们的有求必应、以及对改变这个社会不公正现象的强烈心愿。过去，生活在普通家庭中的炎熔，并未受到贫穷和待遇不公的困扰。然而，从家庭独立之后，身为萨卡兹一族以及感染者的炎熔逐渐感受到这个社会对“受压迫者”毫无由来的强烈憎恨。
+	因为自己能力的不足，总会有求助者无法被拯救；因为萨卡兹族或感染者的身份，总会有陌生人对自己产生拒绝谅解的恶意。在寻求正义的路上，炎熔逐渐意识到，自己曾经从书本中读到的“正义的做法”与自己所面对的现实大相庭径。亲身经历了各种事件后，她逐渐理解了罗德岛的理念，并且更加坚定地选择站在罗德岛这一边。这是她所做出的选择——罗德岛指引了她，而她在不断的成长中，已然成为罗德岛不可或缺的一员，日后势必也将指引罗德岛的发展并成为十分关键的力量。
+
+	第二資料 :
+	表向きは世間に疎い反抗期の若者を装っているが、ラヴァは細かいことに気が付く人である。彼女は社会的弱者たちの、ささやかでありながら重大な意味を持つ願いを理解し、己の最善を尽くして、他者に手を差し伸べる。それは当然、力が増すのと比例して、彼女にのしかかる負担も大きくなることを意味していた。ラヴァが自身に課しているのは、ロドスのオペレーターとして任務を遂行することだけではない。助けを求めてくる者たちの望みをできる限り叶えてあげるという目標、そして社会の不公平を正すという強い思い、などといった自分自身の理想を実現することを、彼女は己に求めていた。一般家庭で育ったラヴァは、貧困や社会的な差別がもたらす不遇を経験したことはなかった。しかし家を離れて独立すると、サルカズであり、感染者でもあるラヴァは社会全体が「被差別者」へ向ける根拠のない強烈な憎悪を、徐々に思い知ることになった。
+	自分の力不足で、助けを求めてきたのに救えなかった者がいた。サルカズだから、あるいは感染者だからと、見知らぬ者から理解を拒まれ、悪意にさらされることもあった。正義を求める道のりで、ラヴァはかつて書籍から得た「正しいやり方」と現実との乖離をやがて知ることになった。様々な経験を経て、ラヴァはロドスの理念への理解を深め、ロドスの立場を選ぶ決意をより一層深めた。これは彼女が下した決断だ――ロドスは彼女を導いたが、絶えず成長する彼女はすでにロドスにとって必要不可欠な一員となっており、将来的に必ずロドスの発展を牽引し、極めて核心的な力となるだろう。
+
+	Archive File 2 :
+	Although she may seem to be a rebellious young woman, ignorant of world affairs, Operator Lava is actually very scrupulous. She empathizes with society's underdogs and the insignificant yet most important wishes they have, and she takes it upon herself to help them. As she becomes more powerful, the responsibility she shoulders also becomes greater—This is not limited to the missions that she must complete as a Rhodes Island operator, but also what she asks from herself, her refusal to turn her back on those in need, and her strong desire to correct society's injustices. As Lava was raised in a normal family, poverty and unfairness were never on Lava's mind, yet after she started to live on her own, as a Sarkaz and an Infected, Lava gradually came to be aware of the immense, uncalled-for hatred that society has toward the 'oppressed.'
+	Because there are limits to her power, there are bound to be those who seek her aid that she cannot save. Because of her status as a Sarkaz and an Infected, she will always be antagonized by certain intolerant strangers. In her pursuit of justice, Lava has gradually come to understand that the 'right way' she has read in books is nothing like the reality she faces. Having gone through so many incidents during her time at Rhodes Island, she has slowly come to understand its ideals, even choosing to firmly stand on its side. This is a choice that she has made herself—Rhodes Island showed her the way, and she has long become an inseparable member as she continued to grow. In the future, she will undoubtedly be an important key to Rhodes Island's growth and leadership.
+
+	파일 자료 2 :
+	    겉으로는 세상 물정 모르는 반항적인 젊은이인 척하지만, 사실 라바는 섬세한 마음의 오퍼레이터이다. 그녀는 사회의 약자들이 가진 작지만 소중한 소망을 이해하고, 그들을 돕기 위해 최선을 다했는데, 한편으로는 그녀의 능력이 커지는 만큼 짊어지는 책임 역시도 커져만 갔다. 그 책임에는 로도스 아일랜드의 오퍼레이터로서 완수해야 하는 임무뿐만 아니라, 도움을 구하는 자들의 요구를 들어주고, 사회의 불공정한 모습을 고쳐야 한다는 그녀 자신의 강렬한 소망도 있었다. 과거 평범한 가정에서 살던 라바는 빈곤이나 불공정한 대우로 인해 곤란함을 느낀 적이 없었지만, 가정에서 독립한 후 살카즈이자 감염자로서의 라바는 점차 이 사회가 '억압받는 자'들에게 이유 없이 강렬한 증오를 품고 있다는 것을 느끼게 되었다.
+	    자신의 능력이 부족하기에 도움을 구하는 자를 구원해 줄 수 없고, 살카즈이지만 감염자이기에 낯선 사람들은 자신을 이해하길 거부하는 악의를 품는다. 정의를 추구하는 과정에서 라바는 과거 자신이 읽은 책에 쓰인 '정의의 방식'과 자신이 맞닥뜨린 현실 간에 큰 괴리가 있음을 깨닫게 되었다. 직접 온갖 사건을 겪으며 그녀는 로도스 아일랜드의 이념을 이해하게 되었고, 이후 로도스 아일랜드의 편에 서기로 한 결정은 더욱 확고해졌다. 이것은 그녀의 선택이다. 로도스 아일랜드는 그녀를 인도했고, 그녀는 끊임없이 성장하며 로도스 아일랜드에 없어서는 안 될 일원이 되었다. 앞으로 그녀는 로도스 아일랜드의 발전을 이끌며 로도스 아일랜드에 큰 힘이 되어줄 것이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	随着炎熔实力的不断提升，其作战装备也有所更迭。不仅是性能逐渐提升，作战服外观也是干员炎熔最关注的部分。在罗德岛的这段时间，炎熔的言语和待人接事都成熟了许多。或许是因为这个原因，她对于展露自己的喜好却更加腼腆。
+	“什么？你说炎熔又、又、又拿着报酬去修改自己的作战服款式了？她总是把零花钱用在这些奇奇怪怪的地方，可是我压根没看出什么区别嘛。嗯......这么一说，现在的衣服和她最初的风格倒的确变化不少。可是她每次只是修改一点点，谁会察觉到啊！她上次还因为这个对我发火呢，说什么其实我一点都不关心她这个妹妹，这么多年一直都逼迫她吃健康餐，却连自己的发型、衣服变化都看不出来......真是的，我怎么会不关心她呢，我可是连她在哪一天吃了什么饭、去了几次卫生间、几点起床几点睡觉都一清二楚。”干员芙蓉自信地抱着双臂，在记录员面前摇头晃脑地大胆坦白了所有权限滥用行为。
+	“那件‘戏服’？哎呀，其实那压根不是什么戏服，也不是我逼迫她一定要穿上的。你看，小姑娘总会有这样的心思，想要试探大家对于自己的改变有什么看法。所以嘛，她这才小心翼翼、不露痕迹地借拍电影的机会向大家展现出来。结果还不错，那些小伙伴们对她的造型都一致好评。所以，她才会这么爱惜地保存着衣服、修整着发型，每次一点点地想到喜欢的元素增添进去。你不觉得，小炎熔大部分时间用来学习那些简单的法术‘小把戏’实在太枯燥了吗？女孩子要有点这样的爱好才可爱嘛。”某位随性的干员摇着扇子，擅自参与到信息录入的过程中。
+
+	第三資料 :
+	ラヴァの実力が上がるにつれ、彼女が身にまとう装備も変わっていった。性能はもちろん、衣装の外見も彼女がこだわる要素である。ロドスに来てからラヴァの言葉遣いや、他者に対する態度はだいぶ成熟したが、そのせいか、自分の好みを口に出すことをさらに恥ずかしがるようになっている。
+	「ええ～っ、ラヴァちゃんまたなの？また、自分の報酬で作戦衣装のデザイン変更してるんですって？もー、あの子、いっつもお小遣いをそういう変なところに使っちゃうんですよ。でもどこが違ってるのかなんて全然わかんないんです。うーん……言われてみれば、今のデザインって確かに最初のと比べて随分変わってますけど。毎回ちょっとずつしか変えてないから、気付くわけないですってば！こないだもそのことで怒られちゃったんですよ、私。健康食を食べろってずっと詰め込んでくるくせに、髪型や服が変わったことに気が付かないし、妹のことを気にかけてるなんて嘘だーって……もぉー、そんなわけないじゃないですか。ラヴァちゃんのことなら、いつ何を食べたのか、何回お手洗いに行ったのか、何時に起きて何時に寝るのかだって全部知ってるんですから。」ハイビスカスは自信満々に腕を組み、記録員の前ですべての職権濫用行為を大胆に自白した。
+	「例の舞台衣装？いやぁ、あんなの舞台衣装でも何でもねーし、私が着るように強要したわけでもねーんだけどな。ほら、若い娘ってああいうことしがちだろ？自分が何か変わった時に周りがどう反応するか試したいってやつだ。だから慎重に、バレないように映画撮影っつー機会を借りてみんなの前に出したんだ。結果は悪くなかったみたいだな。新しいスタイルはみんなから高評価だったらしい。だからあんなに後生大事に衣装を取っておいて、髪型を整えて、そこにちょっとずつ好きな要素を取り入れてるんだ。ほとんどの時間をアーツの小手先芸に使うのってつまらないと思わねぇか？女の子にはそれくらいの趣味があった方が可愛いって。」某自由散漫なオペレーターは扇子を揺らしながら、勝手にデータ入力作業に割り込んできた。
+
+	Archive File 3 :
+	Just as Operator Lava's power continued to improve, so too did her combat equipment. Along with the gradual improvement in its performance, the appearance of her combat uniform is one of the aspects that she pays the most attention to. As can be seen in her language and the way she interacts with others, Lava has become much more mature and approachable. Perhaps this is why she's become somewhat apprehensive about revealing her interests.
+	'What's that? You're kidding! Lava spent her pay on tweaking her combat outfit again? She always spends her allowance on weird stuff like this, but I really just don't see the difference. Well... Now that you mention it, compared to when she just started out, her outfit's changed quite a bit. She changes it little by little, though. How is anyone supposed to notice?! Last time, she got so mad just because of this, saying I didn't care about her as a sister. That I forced all those healthy meals on her, but I never paid attention to her hairstyle and how she changes her outfit... Sheesh, of course I care about her. I care about her so much, I know what kinds of food she eats, how many times she goes to the bathroom, and when exactly she goes to bed and wakes up each and every day,' said Operator Hibiscus, her arms confidently crossed as she unwittingly confessed to abusing her privileges to our record keeping personnel.
+	'That 'costume?' Eh, that's no costume in the first place, and I definitely didn't make her wear it. That's just what girls like to do. We want to know if anyone notices what's changed about us. That's why she went through all that trouble putting that movie together all while not leaving even a trace. She wanted to show all that off to everyone. It turned out okay. Everyone seemed to like the way she looked. That's why she keeps all those outfits and works on her hair, adding new elements she comes up with bit by bit. Don't you think Lava was boring when she spent all her time picking up those simple Arts tricks? Hobbies like this are what make girls cute,' quipped a certain laid-back operator as she waved her fan around, joining in on the message's recording on her own accord.
+
+	파일 자료 3 :
+	    라바의 실력이 꾸준히 향상됨에 따라 작전 장비 역시 계속 업그레이드됐다. 그리고 성능의 향상뿐만 아니라 전투복의 외관 역시 오퍼레이터 라바가 가장 중요하게 여기는 부분 중 하나다. 로도스 아일랜드에 머무는 동안 라바의 언행과 사람을 대하는 법은 많이 성숙해졌는데, 그 때문인지 그녀는 자신의 취향을 드러내는 것에 매우 수줍어한다.
+	    "예에? 라, 라바가 또 자기 몫의 보수로 자기 전투복 디자인을 고치러 갔다고요? 항상 그런 이상한 곳에 용돈을 쓰는데도 저는 전혀 뭐가 다른지 알아볼 수 없던데요. 음…… 그러고 보니 지금 복장이 처음 스타일과는 확실히 차이가 나네요. 하지만 매번 조금씩 고쳐나가니 누가 알아볼 수 있겠어요! 지난번에는 그 일 때문에 저한테 화를 내더라니까요. 뭐라더라, 몇 년 동안 건강식이나 먹으라고만 했지 정작 자기 머리 스타일이나 옷이 어떻게 바뀌었는지 알아채지 못할 정도로 여동생한테 관심이 없다던가…… 정말이지, 제가 어떻게 라바한테 관심이 없을 수 있겠어요. 저는 그 아이가 언제 무슨 밥을 먹었는지, 화장실은 몇 번 가고 몇 시에 일어나고 잠드는지까지 모두 알고 있는걸요." 자신 있게 팔짱을 낀 오퍼레이터 히비스커스는 기록원 앞에서 고개를 끄덕이며 자신의 권한 남용 행위를 대담하게 털어놓았다.
+	    "그 '무대 의상'? 에휴, 그건 무대 의상 같은 게 전혀 아닌 데다, 난 입어보라고 강요한 적 없네. 그 꼬마 아가씨는 언제나 자신의 변화에 대해서 사람들의 생각을 떠보고 싶어 한다고. 그래서 영화를 찍은 기회를 빌려 조심스럽게 사람들에게 보여준 거지. 결과는 제법 괜찮았네, 그 어린 친구들은 호평 일색이었지 않나. 그녀는 단지 복장을 소중히 간직한 채 머리도 정리하며, 마음에 드는 걸 조금씩 추가하는 걸세. 꼬마 라바가 대부분의 시간을 그런 간단한 아츠 '속임수'를 배우는데 쓴다는 게 정말 지루하다고 생각하지 않나? 여자애는 이런 취미가 있어야 귀여운 법인데 말이야." 정보 기록을 하던 와중, 어느 자유분방한 오퍼레이터가 부채를 흔들면서 다가와, 멋대로 끼어들며 말했다.
+
+———————————————————————————————
+
+	档案资料四 :
+	在实力评价快速上升，通过考核转正成为正式干员之后，炎熔离开了原先所在的预备行动组A1。对她来说，这段做“实习学徒”的日子是她不可多得的珍贵回忆，能有一群交心的、善良又亲切的伙伴，对她的成长过程起到了不可估量的作用。她和干员芙蓉的关系也终于重归于好，学会了真正的姐妹之间互相体谅，可喜可贺。
+	“什么叫可喜可贺啊！你知不知道在我向她‘妥协’之后她又做了什么？——健康餐、健康餐、还是健康餐！不仅如此，还试图干扰我训练，打着不准我熬夜的幌子逼我在天都还没有黑的时间就上床睡觉！哼，我已经不会再由她掌控了，就算我们关系变好了，也绝对不要增加和她多余的相处时间。”
+	......咳。在那之后，炎熔逐渐参与了一些重要的任务，成为了越来越可靠的强大术师。
+	然而，当我们为大地的种种不公而战的时候，也不能轻视潜藏在各处的阴谋和獠牙。不光是炎熔，罗德岛也面临了诸多近乎无计可施的危机，而牺牲与代价，常伴身边。在■■■■事件中——
+	【部分记录缺失】
+	——这对于曾经共事过的小队队员无疑是最深重的打击。在■■■■事件之后，炎熔一夜之间像是成为了真正的成熟的大人，学会了分别时的冷静和相遇时的珍惜。
+	只是......多希望这些在挫折和苦难中长大的孩子，在理解了失去的痛苦之后，也能因此更加懂得如何珍惜自己啊。
+	【补充信息1】
+	暂无权限浏览更多相关事件。
+	【补充信息2】
+	出于尊重当事人及相关人员意愿的考虑，取消了该干员与部分事件的关联记录和浏览权限。
+	【补充信息3】
+	干员炎熔的心理状况暂未出现重大异常。
+
+	第四資料 :
+	実力の評価が急速に上がり、試験に合格して正式にオペレーターとなった後、ラヴァは所属していた行動予備隊A1を離れることになった。彼女にとって、「見習い」として過ごしていた日々はかけがえのない大切な思い出となった。気兼ねなく付き合える善良で親切な仲間たちと出会えたことは、彼女の成長に計り知れぬ影響を及ぼした。ハイビスカスともようやく仲直りし、姉妹としてお互いに尊重し合うことを学んだようである。実に喜ばしいことだ。
+	「喜ばしくてたまるか！アイツに妥協してやったらどうなったかわかるか？――健康食、健康食、さらに健康食だ！しかもアタシの訓練の邪魔すんだよ！夜更かしはダメとか言いながら、まだ暗くもなってないのに寝かしつけようとしやがる！ふん、もうハイビスなんかの言いなりになってたまるか。関係が改善したからって、アイツと一緒に過ごす時間なんて増やさないからな。」
+	……コホン。それ以来、ラヴァは次第に重要な任務に関わるようになり、ますます頼りがいのある強力な術師となった。
+	しかし、我々が大地に蔓延る様々な不公平を正すために戦う時、そこかしこに潜んでいる陰謀や鋭い牙を忘れてはいけない。ラヴァ個人だけではなく、ロドスも危うく取り返しのつかなくなるような危機に数多く面してきており、犠牲と代償はいつだって身近なものだった。■■■■事件において――
+	【一部記録紛失】
+	――それはかつて共に過ごした小隊メンバーにとって、紛れもなく最も重く辛い一撃だった。■■■■事件を経験したラヴァは、一瞬にしてまるで大人のように成熟し、別れの際に取り乱さずにいることと、出会いを大切にすることを身につけた。
+	ただ……挫折と苦難の中で育ったこの子たちが、失う辛さを知ってしまった時、自分を大事にしようという意識へ少しでも繋がってくれればと、願わずにはいられないのだ。
+	【補足情報その一】
+	更なる関連事件を閲覧する権限は与えられていない。
+	【補足情報その二】
+	当事者及び関係者の気持ちを重んじて、該当オペレーターと一部事件との関係性についての記録と閲覧権限を取り下げた。
+	【補足情報その三】
+	ラヴァの精神状況に今のところ大きな異常は発生していない。
+
+	Archive File 4 :
+	Having demonstrated her prowess in our evaluations, Lava left Reserve Op Team A1 she was assigned to after she became a full-fledged member. To Lava, her time as an on-the-job trainee is irreplaceable. She had a group of kind and caring partners she could open her heart to; the effect this has had on her growth is simply beyond measure. Her relationship with Hibiscus has also finally been repaired, and the two sisters have learned to tolerate and understand each other. What a great ending.
+	'What do you mean, 'what a great ending?' Do you know how what she did right after I 'compromised' with her? Healthy meals, healthy meals, and healthy meals! Not only that, she even gets in the way of my training and makes me go to bed before it's even dark out so to keep me from pulling all-nighters! Hmph, I'm not gonna let her push me around anymore. We get along better than we used to, but I'm not gonna spend any more than time her than I have to.'
+	Ahem... After that, Lava began to take part in operations of greater importance, becoming a powerful and dependable Caster.
+	We must take care to not underestimate the dangers and ploys that may harm us as we battle the many injustices in our world. This applies not only to Lava, but also Rhodes Island as a whole. Both have faced many seemingly unsurmountable dangers, and often sacrifices had to be made. During the ■■■■ Incident—
+	[Log Partially Missing]
+	—Having worked together for so long, this was undoubtedly the most difficult part of the whole incident to those teammates. After the ■■■■ Incident, it was as though Lava became a mature, full-grown adult in the span of a night, having learned to remain calm when it's time to part ways and to treasure the moments when we meet.
+	I just wish that... the children who grew up in such difficulties and hardships would know how to cherish their own lives after they come to understand the pain of loss.
+	[Addendum 1]
+	Permission has not been granted to access information on related incidents.
+	[Addendum 2]
+	Out of respect for the wishes of the parties involved, access to certain information pertaining to the operator and the pertinent incidents has been restricted.
+	[Addendum 3]
+	Currently, Operator Lava's psychological condition remains mostly stable.
+
+	파일 자료 4 :
+	    실력에 대한 평가가 빠르게 상승하면서 테스트를 거쳐 정식 오퍼레이터가 된 라바는 원래 머물던 예비 작전팀 A1을 떠났다. 그녀에게 있어 이 '견습생' 시절은 더할 나위 없는 소중한 기억이었으며, 마음을 터놓을 수 있는 선량하고 친절한 동료들은 그녀의 성장에 헤아릴 수 없을 만큼 큰 영향을 주었다. 게다가 마침내 오퍼레이터 히비스커스와의 관계도 다시 좋아져 자매간에 서로를 진정으로 이해할 수 있게 되었으니 정말 기쁜 일이 아닐 수 없다.
+	    “뭐가 기쁜 일이라는 거야! 내가 언니와 '타협'한 후에 언니가 무슨 짓을 한 건지 알기나 해? 건강식, 건강식, 그놈의 건강식! 그것뿐만 아니라 훈련을 방해하지 않나, 밤새우지 말라는 명목으로 날이 어두워지기도 전에 잠자리에 들게 한다고! 흥, 이제 더는 휘둘리지 않겠어. 아무리 우리 관계가 다시 좋아졌다지만 이제 절대 언니에게 시간을 뺏기지 않을 거야.”
+	    아무튼…… 그 후 라바는 점점 더 중요한 임무에 참여하게 되었고, 갈수록 믿음직하고 강력한 캐스터가 되었다.
+	    하지만 우리는 세상의 온갖 불의와 싸울 때에도 도처에 숨어있는 음모와 날카로운 이빨을 경시해선 안 된다. 라바뿐만 아니라 로도스 아일랜드 역시 희생과 대가를 항상 곁에 둔 채 수많은 위기와 직면하고 있다. ■■■■ 사건 중——
+	[일부 기록 소실]
+	——이는 과거 함께 일을 한 팀원들에게 있어서 의심할 여지 없는 가장 중대한 타격이다. ■■■■ 사건 후, 라바는 불과 하룻밤 만에 마치 진정으로 성숙한 어른이 된 것처럼 이별의 냉정함과 만남의 소중함을 배우게 되었다.
+	    부디…… 좌절과 고통 속에서 성장한 아이들이 상실의 고통을 이해한 후, 그것을 계기로 어떻게 해야 자신을 소중히 여길 수 있는지 알 수 있길 바란다.
+	    [추가 정보1]
+	    보다 많은 관련 사건을 볼 수 있는 권한이 없습니다.
+	    [추가 정보2]
+	    당사자와 관계자의 의사를 존중해 오퍼레이터와 일부 사건과 관련된 기록 및 열람 권한을 취소했습니다.
+	    [추가 정보3]
+	    오퍼레이터 라바의 심리 상태에 대한 중대한 이상은 현재 나타나지 않았습니다.
+
+———————————————————————————————
+
+	晋升资料 :
+	定期参加心理诊断和辅导是干员的必修课。值得注意的是，炎熔的心理健康数值并不稳定。被卷入过一些突发性的重大事件后，干员炎熔表现出更加坚定的意志和决心。然而，与之相对的是她每况愈下的心理健康状态。她对自己生命的价值正逐渐看轻，并将自我的牺牲看作一种换取保全他人的策略。愈发勇敢、强大，却愈发不去计算力量背后的代价。
+	这使频繁利用权限私自调取其资料的医疗干员芙蓉尤为担忧。
+
+	昇進資料 :
+	オペレーターには、定期的にメンタルチェックと指導を受けることが義務付けられている。注意せねばならないのは、ラヴァのメンタルヘルス関連の数値が安定していないことだ。何度か突発的な重大事件に巻き込まれてから、ラヴァは意志と決意を更に固くしたように見えた。しかし一方で彼女の精神状況は悪化している。今のラヴァには自らの命を軽視する傾向が見られ、自己犠牲は誰かを守りきるための方法の一つであると考えている。より強大な力を扱い、より勇敢になったのと引き換えに、行動する際に力の代償となるものの重さを考慮しないようになっている。
+	彼女のこうした態度は、頻繁に職権を濫用して勝手にラヴァの資料を読み漁っている医療オペレーターのハイビスカスにひどく心配されている。
+
+	Promotion File :
+	As with all Rhodes Island operators, Lava is required to regularly undergo psychological evaluations and counseling. One point worthy of note is that Lava's mental health values are not particularly stable. After she finds herself involved in sudden, unexpected major incidents, Operator Lava always comes out demonstrating a stronger resolve and determination. In contrast, her mental health also deteriorates by a demonstrable degree. The value she sees in her own life decreases after each incident, just as the sacrificing herself to protect others becomes more and more of a viable strategy to her. The braver and stronger she gets, the higher the price she has to pay for her power.
+	This has been a source of concern to Medical Operator Hibiscus, who frequently misuses her permissions to retrieve the relevant data.
+
+	승진 자료 :
+	    정기적인 심리 진단과 케어는 오퍼레이터의 필수 과목이다. 주목할 점은 라바의 심리 건강 수치가 불안정하다는 것이다. 우연히 중대 사건에 휘말린 후, 오퍼레이터 라바는 더욱 굳건한 의지와 결심을 드러냈지만, 이와는 대조적으로 그녀의 심리 건강 상태는 갈수록 나빠지고 있다. 자신의 생명에 대한 가치를 점점 가볍게 여기며, 자신의 희생으로 타인의 안전을 도모하려 한다. 더욱 용감해지고 강력해졌지만, 그 힘에 대한 대가를 계산하지 않는 것이다.
+	    특히 이 때문에 자신의 권한을 이용해 몰래 연관 자료를 가져가는 오퍼레이터 히비스커스가 걱정된다.

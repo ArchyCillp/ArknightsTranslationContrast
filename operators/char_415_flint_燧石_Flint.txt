@@ -1,11 +1,17 @@
 ID:
 	char_415_flint
 
-干员代号\Name:
+CV:
 	燧石
 	フリント
 	Flint
 	플린트
+
+干员代号\Name:
+	山村响
+	山村響
+	Hibiku Yamamura
+	야마무라 히비쿠
 
 招聘合同\Character Usage:
 	部族拳手燧石，强大而纯粹的战士。
@@ -43,177 +49,469 @@ ID:
 	실력 과시
 
 语音\Voices:
-	处理文件？好啊，该怎么做，你教我。嗯，先分类，这样？再排序，按照时间顺序......啊，纸弄破了......对、对不住，我不是有意的。
 	ファイルの処理？わかった、どうやるか教えろ。ああ、まずは分類だな、こうか？あとは並び替え、時間順に……あっ、紙が破れた……す、すまない。わざとじゃない。
-	Handling files? Alright, then. Teach me how. Right. Sort them first. Like this? Then put them in order. By chronological... uh. Paper got torn... S-sorry. I didn’t mean to.
+	Handling files? Alright, then. Teach me how. Right. Sort them first. Like this? Then put them in order. By chronological... uh. Paper got torn... S-sorry. I didn't mean to.
 	파일 처리? 알았어. 어떻게 하는지 가르쳐 줘. 아아, 우선은 분류구나. 이렇게? 그러고 나서 정렬, 시간순으로… 앗, 종이 찢어졌다… 미, 미안. 일부러 그런 건 아니야.
 
-	这里的有些人，是不是高大过头了？......不，没有，我才没有很在意，个头高大与否与实力无关，我只要把他们都打倒就行了。
 	ここにいる何人かの話だが、背が高すぎると思わないか？……いや、違う。気にはしていない。背の高さと実力は関係ないだろうし、皆倒してしまえばいい。
-	Some of the people here. Don’t you think they’re a little too tall? ...No, I don’t care. Not actually. How tall you are and how strong you are don’t relate. I just need to bring every last one of them down.
+	Some of the people here. Don't you think they're a little too tall? ...No, I don't care. Not actually. How tall you are and how strong you are don't relate. I just need to bring every last one of them down.
 	이곳에 있는 몇 명 말인데, 키가 너무 크다고 생각하지 않아? … 아니, 틀려. 신경은 쓰고 있지 않아. 키가 큰 것과 실력은 상관 없을 테고, 다 쓰러트려 버리면 그만이니까.
 
-	我走之后，我们部族怎么办？这是什么傻问题，比比谁的拳头大，选个新的头领把日子继续过下去不就行了。
 	私が去ってから部族はどうしたかだと？くだらない質問だ。腕っぷしの強さで新たな族長を選び、同じようにやっていけばいいだろう。
-	What’s my tribe gonna do now that I’m gone? What a dumb question that is. See who has the bigger fists. Pick a new leader that way and just carry on. That’s it.
+	What's my tribe gonna do now that I'm gone? What a dumb question that is. See who has the bigger fists. Pick a new leader that way and just carry on. That's it.
 	내가 떠나고 나서 부족은 어떻게 됐냐고? 시시한 질문을… 실력이 강한 자를 새 족장으로 뽑아서 똑같이 해 나가면 되잖아.
 
-	我听了很多嘉维尔的事，像胸口碎石单手就能撕碎狂暴凶兽之类的。她真有那么强？比煌大头目还强？华法琳说，可以找嘉维尔治疗来切身体会她的强大......嗯？博士，为什么要拦着我？
 	ガヴィルの話はたくさん聞いている。腹筋で石を割れるとか、片手で凶暴な獣を引き裂けるとか。本当にそこまで強いのか？ブレイズのお頭以上なのか？ワルファリンはガヴィルに治療してもらえば身をもって体感できると言ってたが……なんだ？ドクター、どうして止めるんだ？
 	I heard a lot about Gavial. Like how she can crush a rock with her abs. Tear a raging beast apart with one hand. Is she actually that strong? Stronger than Chief Blaze? Warfarin said if I get treatment from Gavial, I can learn firsthand how strong she is... huh? Doctor, why are you stopping me?
 	가비알의 이야기는 많이 들었다. 복근으로 돌을 부순다든가, 한 손으로 흉포한 짐승을 찢어발긴다든가… 정말 그렇게까지 강하나? 블레이즈 두목 이상인가? 와파린은 가비알에게 치료를 받으면 몸소 느낄 수 있을 거라고 했다만… 뭐지? 박사, 왜 말리는 거야?
 
-	我是为了变强才来这里的，这个目的现在也没变。不仅是煌大头目和嘉维尔，这里还有许多值得我挑战的家伙......嗯？我看起来很开心？是这样没错，我不讨厌呆在这里。
 	私は強くなるためにここに来た、その目的は今でも変わっていない。ブレイズのお頭とガヴィルだけでなく、ここにはまだまだ挑戦に値する奴が……なに？私が嬉しそうだと？確かにその通りだな、ここにいるのは嫌いではない。
-	I came here so I could get stronger, and that hasn’t changed. It’s not just Chief Blaze and Gavial. There’s a lotta people worthy enough for me to challenge here... what? You think I look happy? Well, that’s not wrong. I don’t hate it, being here.
+	I came here so I could get stronger, and that hasn't changed. It's not just Chief Blaze and Gavial. There's a lotta people worthy enough for me to challenge here... what? You think I look happy? Well, that's not wrong. I don't hate it, being here.
 	난 강해지기 위해 이곳에 왔다. 그 목적은 지금도 변함없어. 블레이즈 두목과 가비알뿐만 아니라 이곳엔 아직 도전할 가치가 있는 녀석이… 뭐? 내가 기뻐 보인다고? 확실히 그 말대로야. 이곳에 있는 건 싫지는 않아.
 
-	罗德岛的人，是不是都想得太多了？博士你也是，每天都要考虑那么多东西，会累吧。不会？必须得做？......也是，不少东西只有你能搞得定，没办法。嗯，那你就加油吧，有事随时叫我。
 	ロドスの者は皆考えすぎではないか？ドクターもそうだ、毎日あれこれ考えていては疲れるだろう。そうでもない？考えざるを得ない？……それもそうか。お前にしかできないことは多いし、仕方ないか。ああ、では頑張ってくれ。何かあればいつでも呼べ。
-	Everyone in Rhodes Island. Don’t they all think too much? You too, Doctor. You have to think about so much every day. You get tired, right. You don’t? You have to do it? ...I guess that’s true. There’s a lotta stuff only you know how to sort out. No other way. Yeah. Then keep it up. Shout any time if you ever need me.
+	Everyone in Rhodes Island. Don't they all think too much? You too, Doctor. You have to think about so much every day. You get tired, right. You don't? You have to do it? ...I guess that's true. There's a lotta stuff only you know how to sort out. No other way. Yeah. Then keep it up. Shout any time if you ever need me.
 	로도스 아일랜드의 사람들은 생각이 너무 많지 않아? 박사도 그래. 매일 이것저것 생각하다 보면 피곤하잖아. 그렇지도 않다고? 생각할 수밖에 없어? ……그것도 그런가. 너밖에 할 수 없는 일이 많으니 하는 수 없지. 어, 그럼 열심히 해. 무슨 일이 있으면 언제든지 불러.
 
-	博士，帮我个忙，上面，摆在上面的那个花篮，帮我拿一下。欸，你也够不着？伤脑筋了......要不然，我把举你起来试试？
 	ドクター、手を貸してくれ。上だ、上に置いてある花かごを取ってもらえるか。なに、お前も届かないのか？困ったな……そうだ、私がお前を持ち上げて届くかやってみるのはどうだ？
-	Doctor, give me a hand. Up there. The flower basket up there. Help me get it down. What? You can’t reach either? This sucks... Okay. What if I lift you up? Why don’t we try that?
+	Doctor, give me a hand. Up there. The flower basket up there. Help me get it down. What? You can't reach either? This sucks... Okay. What if I lift you up? Why don't we try that?
 	박사, 좀 도와줘. 위다. 위에 있는 꽃바구니를 꺼내 줄 수 있을까. 뭐야, 너도 닿지 않는 거야? 곤란한데… 그렇지, 내가 너를 들어 올려서 닿는지 확인해보는 건 어때?
 
-	祖玛玛这次和我出同一个任务？放心，我不会突然和她打起来的，我和她要决胜负，机会要多少有多少。而且，我们要是起冲突，你会为难吧？嗯，我也不太想让你为难。
 	ズゥママが私と同じ任務に参加するのか？安心しろ、急に殴りかかったりはしない。奴と決着をつける機会ならいくらでもある。それに、私たちが衝突すれば、お前も頭を抱えるだろう？ああ、あまりお前を困らせたくないのでな。
-	Zumama’s going on the same mission as me this time? Don’t worry. I’m not gonna start hitting her out of nowhere. If we wanna settle a score, we’ve got all the opportunities we want. Also, I mean, if we start fighting, that makes things hard for you, right? Yeah. I don’t really want to do that to you.
+	Zumama's going on the same mission as me this time? Don't worry. I'm not gonna start hitting her out of nowhere. If we wanna settle a score, we've got all the opportunities we want. Also, I mean, if we start fighting, that makes things hard for you, right? Yeah. I don't really want to do that to you.
 	주마마가 나와 같은 임무에 참가하는 건가? 안심해. 갑자기 때리려고 덤비거나 하지는 않아. 녀석과 승부를 낼 기회라면 얼마든지 있으니. 게다가 우리가 부딪치면 너도 골치 아플 거 아냐? 그래, 그다지 널 곤란하게 하고 싶지 않거든.
 
-	这朵花，是不是很好看，这是我自己种的。喂，干嘛那么吃惊，我又不是只知道变强的那种战斗疯子，有点爱好也很正常吧。嗯？你也喜欢吗？那送给你。嗯，不错，很衬你。
 	この花、綺麗だろう？私が育てたものだ。おい、何をそんなに驚いているんだ、私は強くなることしか頭にない戦闘狂ではない。多少の趣味があっても変じゃないだろう。なに？お前も好きなのか？ではこれはお前に贈ろう。ああ、悪くない、似合っている。
-	This flower. Don’t you think it’s pretty? I grew this one myself. Hey, what makes you so surprised? I’m not the kind of battle lunatic who only cares about getting stronger. Having a hobby or two is completely normal, right. Huh? You like it too? Then I’ll give you this one. Yeah. Not bad. Suits you well.
+	This flower. Don't you think it's pretty? I grew this one myself. Hey, what makes you so surprised? I'm not the kind of battle lunatic who only cares about getting stronger. Having a hobby or two is completely normal, right. Huh? You like it too? Then I'll give you this one. Yeah. Not bad. Suits you well.
 	이 꽃, 예쁘지? 내가 키운 거다. 어이, 뭘 그렇게 놀라는 거야. 난 머릿속에 강해지는 것밖에 없는 전투광이 아니야. 취미가 좀 있다 해도 이상할 건 없잖아. 뭐? 너도 좋아한다고? 그럼 이건 너한테 주지. 그래, 나쁘지 않아. 어울려.
 
-	博士，我摘了点花来......嗯？睡了？哼，真是个悠闲的家伙，这花......就放头上吧，嗯，还挺好看的。
 	ドクター、花を摘んできた……なんだ、居眠りか？まったく、呑気な奴だ。ではこの花は……頭に乗せておこう。ふむ、悪くないな。
-	Doctor, I picked a flower and... huh? Fell asleep? Heh, you’re real laid-back. The flower... I’ll just put it on your head. Yeah, that looks pretty good.
+	Doctor, I picked a flower and... huh? Fell asleep? Heh, you're real laid-back. The flower... I'll just put it on your head. Yeah, that looks pretty good.
 	박사, 꽃을 따 왔… 뭐야, 졸고 있나? 정말이지, 태평한 녀석이군. 그럼 이 꽃은… 머리 위에 올려둬야지. 흠, 나쁘지 않네.
 
-	又见面了啊，我是我们部族最高大强壮的战士，燧石。听说你们这里有很多很强的家伙？很好，我会挨个去挑战。啊对了，你知道在哪儿能找到煌大头目吗？
 	また会ったな、私は我が部族で最も大柄で屈強な戦士、フリントだ。ここには強い奴がたくさんいるのだろう？悪くない、片っ端から挑戦させてもらう。そうだ、ブレイズのお頭はどこにいるか知っているか？
-	We meet again, huh. I’m the tallest, strongest warrior of my tribe, Flint. I hear you’ve got a lot of strong people around here? Great. I’ll challenge them one by one. Oh, right. Do you know where I can find Chief Blaze?
+	We meet again, huh. I'm the tallest, strongest warrior of my tribe, Flint. I hear you've got a lot of strong people around here? Great. I'll challenge them one by one. Oh, right. Do you know where I can find Chief Blaze?
 	또 만났군. 나는 우리 부족에서 가장 크고 강한 전사, 플린트다. 이곳엔 강한 녀석이 많지? 나쁘지 않아. 닥치는 대로 도전해 주지. 참, 블레이즈 두목은 어디에 있는지 아나?
 
-	不错，这招不错！博士，我想挑战这人！在哪里能找到这上面的这位战士？
 	悪くない、この技、悪くないぞ！ドクター、こいつに挑戦させてくれ！どこに行けばこの戦士に会えるのだ？
-	Not bad. This technique’s not bad! Doctor, I wanna challenge them! Where can I find where this warrior is?
+	Not bad. This technique's not bad! Doctor, I wanna challenge them! Where can I find where this warrior is?
 	나쁘지 않아. 이 기술, 괜찮은데! 박사, 이 녀석한테 도전하게 해줘! 어디로 가야 이 전사와 만날 수 있지?
 
-	晋升？行，你决定就好。总之，我还是像之前一样战斗就行了吧？
 	昇進？わかった、お前の好きなようにすればいい。とにかく、私はこれまで通りに戦えばいいのだろう？
 	Promotion? Sure, do whatever you want. Anyway, I can keep fighting like I was already, right?
 	승진? 알았다. 네 마음대로 해. 어쨌든 난 지금까지처럼 싸우면 되는 거지?
 
-	博士你啊，就是想得太多了，有什么敌人我们靠拳头打过去不就行了！来，放松点，该休息的时候就别那么紧绷，要过来一起躺着吗。
 	ドクター、お前はな、あれこれ考えすぎなんだ。敵がいれば拳で打ちのめせばいいだろう！ほら、休む時くらいそんな固くなるな、リラックスしてみたらどうだ。こっちで一緒に横になるか？
-	Doctor, you. You’ve been thinking too much. Any enemies, we can hit them away with our fists! C’mon. Relax a little. You need to loosen up when it’s time to take a rest. Wanna come over here and lie down with me?
+	Doctor, you. You've been thinking too much. Any enemies, we can hit them away with our fists! C'mon. Relax a little. You need to loosen up when it's time to take a rest. Wanna come over here and lie down with me?
 	박사. 너 말이야, 이것저것 생각이 너무 많아. 적이 있으면 주먹으로 때려눕히면 되잖아! 봐, 쉴 때 정도는 그렇게 굳어있지 마. 긴장을 풀어보는 게 어때. 이쪽에서 같이 누울래?
 
-	行，出发时叫我一声。
 	わかった、出発の時は声をかけてくれ。
-	Got it. Shout for me when it’s time to go.
+	Got it. Shout for me when it's time to go.
 	알았다. 출발할 때 불러라.
 
-	没问题，交给我。
 	問題ない、任せろ。
 	No problem. Leave it to me.
 	문제없어. 맡겨 줘.
 
-	出发，各自注意掩护，别留下痕迹。
 	出発だ、各自カバーし合うように。痕跡は残すな。
-	We’re going. Each of you, watch your cover. Don’t leave any signs.
+	We're going. Each of you, watch your cover. Don't leave any signs.
 	출발이다. 각자 서로를 엄호하도록. 흔적은 남기지 마라.
 
-	猎物上门了。
 	獲物が来るぞ。
 	Here comes the prey.
 	사냥감이 온다!
 
-	上了。
 	行くぞ。
 	On it.
 	간다!
 
-	行。
 	わかった。
 	Sure.
 	알았어.
 
-	一决胜负。
 	一勝負いこう。
-	One round, let’s go.
+	One round, let's go.
 	한판 붙어보자고!
 
-	你们，挨个来还是一起上？
 	お前たち、一人ずつ来るか？それともまとめてかかるか？
 	Wanna come one by one? Or all at once?
 	너희, 한 사람씩 올 거야? 아니면 한꺼번에 덤빌 거야?
 
-	哼，来得好！
 	フンッ、丁度いい！
 	Heh. Fine by me!
 	흥, 딱 좋군!
 
-	这拳如何！
 	この拳はどうだ！
-	How’s this fist for you!
+	How's this fist for you!
 	이 주먹은 어떠냐!
 
-	你们的眼神，很讨厌。
 	お前たちの目つき、虫が好かん。
 	The look in all your eyes. Screw that.
 	너희들의 그 눈빛, 거슬려.
 
-	不许俯视我！
 	私を見下ろすな！
-	Don’t look down on me!
+	Don't look down on me!
 	날 깔보지 마라!
 
-	不用拳头也能获胜？唔，这就是你的作风吗......
 	拳を振るわなくても勝てる？ふむ、それがお前の戦い方か……
-	You can find victory even without your fists? Heh. I guess that’s your style...
+	You can find victory even without your fists? Heh. I guess that's your style...
 	주먹을 휘두르지 않고도 이길 수 있다고? 흠, 그게 네가 싸우는 방식인가……
 
-	干得不错。看不出来，你还挺有一套的。
 	よくやった。まさかお前がこれほどできるとはな。
-	Good job. Didn’t know it. You’ve got something going up there.
+	Good job. Didn't know it. You've got something going up there.
 	잘했다. 설마 네가 이 정도로 할 수 있을 줄이야.
 
-	呿，那种小喽啰，逃了就逃了吧，没必要追。
 	チッ、あんな小者、逃げるなら逃しておけばいい。追う必要はない。
-	Tch. If the small fry wanna escape, let ‘em. They’re not worth chasing.
+	Tch. If the small fry wanna escape, let 'em. They're not worth chasing.
 	칫. 저런 잔챙이 따위, 도망치면 도망치게 내버려 둬. 쫓을 필요는 없어.
 
-	别自责，是我还不够强。
 	自分を責めるな、私が弱かったんだ。
-	Don’t blame yourself. I’m just still not strong enough.
+	Don't blame yourself. I'm just still not strong enough.
 	자신을 탓하지 마. 내가 약했던 거다.
 
-	哎，我能在房间里挂两个沙袋吗？
 	なぁ、部屋にサンドバッグをつけてもいいか？
 	Hey. Can I hang a sandbag or two in my room?
 	있잖아, 방에 샌드백을 설치해도 되나?
 
-	呃！
 	おっと！
 	Guh!
 	어엇?!
 
-	嗯？蹲在这里做什么，要我摸摸你的头吗？
 	んん？お前、こんなところでしゃがみ込んで何をしているんだ。頭を撫でてほしいのか？
 	Huh? What are you doing squatting down over here? You want me to pat your head?
 	으음? 너, 이런 데 쭈그리고 앉아서 뭐 하는 거야. 머리를 쓰다듬어주길 바라는 건가?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	打起精神，今天有什么需要我帮忙的吗。
 	しゃきっとしろ。今日は何か手伝いが必要か？
-	Let’s pull it together. Anything you need me to help with today?
+	Let's pull it together. Anything you need me to help with today?
 	정신 차려. 오늘은 뭐 도움 필요한 게 있나?
+
+干员档案\Background:
+	基础档案 :
+	【代号】燧石
+	【性别】女
+	【打架经验】十五年（自称）
+	【出身地】萨尔贡
+	【生日】9月17日
+	【种族】黎博利
+	【身高】144cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】フリント
+	【性別】女
+	【戦闘経験】十五年（自称）
+	【出身地】サルゴン
+	【誕生日】9月17日
+	【種族】リーベリ
+	【身長】144cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Flint
+	[Gender] Female
+	[Combat Experience] 15 years (Self-reported)
+	[Place of Birth] Sargon
+	[Date of Birth] Sept 17th
+	[Race] Liberi
+	[Height] 144cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 플린트
+	[성별] 여
+	[전투 경험] 15년(자칭)
+	[출신지] 사르곤
+	[생일] 9월 17일
+	[종족] 리베리
+	[신장] 144cm
+	[광석병 감염 상황]
+	 의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Excellent
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	萨尔贡部族战士燧石，她的战斗经验从有力气挥动双拳时起就开始累积，擅长精准而快速的拳击格斗术。 
+	现经由某位隐去姓名的精英干员推荐，通过测试作为近卫干员加入罗德岛。
+
+	個人履歴 :
+	サルゴンの部族戦士フリントは、拳を振り上げられるようになった歳の頃から戦闘経験を重ねてきた。精確かつ迅速なボクシング格闘術を得意としている。
+	とある匿名エリートオペレーターの推薦により、オペレーター試験に合格し、前衛オペレーターとしてロドスに加入した。
+
+	Profile :
+	Flint, Sargon tribal warrior, began building her combat experience from the moment she was first able to put up her fists. She has mastered a martial arts style based on swift and precise punches. 
+	She is currently here on the recommendation of a certain elite operator whose identity has been withheld, and became a Rhodes Island Guard Operator after passing the examination.
+
+	프로필 :
+	    사르곤 부족의 전사 플린트, 그녀의 전투 경험은 두 주먹을 제대로 휘두를 수 있게 된 시점부터 쌓여왔고, 정확하고 빠른 복싱 격투술을 특기로 한다.
+	    익명의 엘리트 오퍼레이터의 추천을 받아 로도스 아일랜드로 오게 되었고, 테스트를 통과한 후 가드 오퍼레이터로서 근무하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员燧石没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.05u/L
+	干员燧石甚少接触源石。她可能根本就不认识什么是源石。
+	
+	有啥好查的？她健康得很！
+	——嘉维尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.05u/L
+	源石との接触は極めて少ない。おそらく源石とは何かすら知らないだろう。
+	
+	「検査なんかする必要あるのか？こいつは元気そのものだ！」――ガヴィル
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Flint shows no signs of Originium infection. 
+	
+	[Blood Originium-Crystal Density] 0.05u/L
+	Operator Flint rarely comes into contact with Originium. She might not even know what Originium is in the first place. 
+	
+	What am I supposed to be looking for? She's the picture of health! 
+	—Gavial
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 플린트에게는 광석병 감염 흔적이 없다.
+	
+	[혈중 오리지늄 결정 밀도]0.05u/L
+	오퍼레이터 플린트는 오리지늄 접촉 경험이 거의 없다. 아마 그녀는 오리지늄이 뭔지조차 모를 것이다.
+	
+	검사할 게 있나? 아주 건강하잖아!
+	——가비알
+
+———————————————————————————————
+
+	档案资料一 :
+	跟着煌一起回来的家伙今天又在训练场找别的干员打架了。
+	实际上，罗德岛汇集了众多性格各异的干员，其中并不缺乏怪人，一言不合就在走廊中大打出手这样的情况，至今为止发生过许多次。虽然这种斗殴事件处理起来很麻烦，但是却并不怎么令人惊讶。而与此相比，干员燧石的状况稍稍有不同。
+	不少曾与燧石交手“切磋”过的干员都表示，双方之间的对战其实是在合意的情况下展开的。他们之间并没有发生什么不愉快，也不是因为有冲突才动手。通常来说，那个小个子女孩就这么直直地看人，然后走过来，张口发出一些古怪的音节，双方各自从对方的眼神中看出某种默契，接下来只要挥拳就行了。
+	“我没听懂她在说什么。但是那眼神不坏。”干员布洛卡这么说道。
+
+	第一資料 :
+	この間ブレイズについてきた者が、訓練場でまた喧嘩をふっかけた。
+	実を言うと、多くのオペレーターが集まるロドスには奇人変人も少なくない。廊下で偶然会った者同士が、一言話して馬が合わないからと、殴り合いを始めることもよくある。このような喧嘩の事後処理は面倒くさいが、意外なことではないのだ。しかし、フリントの場合は事情が違ってくる。
+	フリントと「手合わせ」をしたオペレーターはたいてい、対戦は双方の合意のもとに行われたと証言する。両者の間に不愉快なことがあったわけでもなければ、何かしら衝突があって手が出たというわけでもない。きっかけはいつも、あの小柄な少女が相手をじっと見つめて、近づいては不思議な言葉を発することだった。目を合わせた者が彼女の目の中に暗黙の了解を読み取った瞬間、両者の次の行動は、拳を振り上げること一択になる。
+	ブローカ曰く、「何言ってるかはわからなかったが、あの目は悪くなかった。」
+
+	Archive File 1 :
+	The one Blaze brought back with her went and picked another fight with an Operator in the training center today. 
+	To preface, Rhodes Island has built up a healthy collection of operators, each different in their own ways, with no shortage of misfits among them. There have been plenty of times where a single flippant comment made someone throw down right in the corridor. Sorting out all those scuffles is a pain, but the fact that they happen in the first place doesn't really surprise anyone. Operator Flint's case, however, is somewhat distinct from this. 
+	We've had a lot of operators who've 'compared notes' on physical combat with Flint testify that actually, the fights that unfolded between them were with both sides' mutual discretion and consent. No bad blood at play, no clash that sparked a conflict. In most situations, this short girl stares straight at her target, walks over to them, opens her mouth, and lets loose some strange syllabic utterances. The two then recognize something implicit in the other's gaze, and then put up their dukes. 
+	'I didn't understand what she was saying. But there was no wickedness in her eyes.' -The words of Operator Broca.
+
+	파일 자료 1 :
+	    블레이즈와 함께 돌아온 녀석이 오늘도 훈련장에서 다른 오퍼레이터와 싸움을 벌였다.
+	 사실 로도스 아일랜드에는 다양한 성격의 오퍼레이터들이 모여있는데, 그중 괴짜라 불리기에 손색이 없는 자들이 여차하면 바로 주먹부터 뻗어 소동을 일으킨 사건이 수도 없이 발생해 오고 있다. 이런 쌈박질 사건의 뒤처리는 좀 귀찮기는 해도 놀라운 일은 아니다. 단, 오퍼레이터 플린트의 경우는 조금 다르다.
+	 플린트와 함께 주먹을 이용한 '토론'을 진행해본 오퍼레이터들이 말하길, 사실 당시의 대결은 상호 합의하에 진행되었다고 한다. 서로 간에 어떤 불쾌한 일이 있었던 것도 아니고, 다툼으로 인해 싸움이 시작된 것도 아니라는 것이다. 보통은 그 작은 여자애가 누군가를 응시하기 시작하다, 슬금슬금 다가온 후, 입을 벌려 이상한 소리를 내기 시작하면, 서로의 눈빛 교환을 통해 암묵적 합의가 이뤄진 후 대결이 시작된다는 것이다.
+	 "그 여자가 무슨 소리를 하는지 전혀 모르겠더군. 다만 나쁜 눈빛은 아니었다." 오퍼레이터 브로카는 이렇게 말했다.
+
+———————————————————————————————
+
+	档案资料二 :
+	干员燧石在来到罗德岛前，完全不会使用一些常用语言。对于燧石来说，这类语言就如萨尔贡本地土著方言在无监管地区自由演化的变体一样，令人全然摸不着头脑。只不过，在加入罗德岛后，为了日常能够顺利交流沟通，学习常用语言就变成了一件不得不提上日程的要紧事。
+	常用的语言本身学习难度并不算高，在说服燧石自愿接受每日的语言课程一事上，嘉维尔的一句话起到了关键作用。
+	“你难道不想直接和煌交流？”
+	就这么一句话，比其他人说什么都好用，燧石开始认真地学习。
+	
+	【语音记录】
+	“那在她学会之前怎么办，没有其他懂她们那种土著方言的人在场，我们都得和她打手势交流？”
+	“哦，这个问题，别担心。”
+	“这能不担心吗？！任务呢，任务怎么办，难道战场上发命令也得靠肢体语言？”
+	“放心，放心，编队时肯定会考虑到这一点的。你看，博士这不就已经能听懂点那种听起来叽哩哇啦的萨尔贡方言了嘛！”
+
+	第二資料 :
+	フリントはロドスにやって来るまで、常用言語をほとんど知らなかった。彼女にとってこれらの言語は、まるで無管制地方で自由に変化を遂げたサルゴン現地の方言の亜種のように、まったく意味のわからないものだったのだ。しかしロドスで円滑なコミニケーションをとるためには、常用言語の習得が必須である。
+	この言語の学習難易度自体はそれほど高くない。フリントに言語授業を受け入れさせるためには、ガヴィルの言葉が役に立った。
+	「ブレイズと直接交流したくないか？」
+	この一言がきっかけで、フリントは真面目に言語の勉強をするようになった。
+	
+	【音声記録】
+	「じゃあ、あの子が常用言語を覚えるまではどうするの？通訳できる人がいない場合、ジェスチャーでコミュニケーションをとるしかないわけ？」
+	「ああ、それは心配いらないよ。」
+	「そんなわけないじゃない！任務は？任務はどうするの？まさか戦場でもジェスチャー頼りとか言わないよね？」
+	「大丈夫、大丈夫。チームを編成する時にちゃんと考えるさ。ほら、ドクターだって、あのくちゃくちゃ言ってるようにしか聞こえないサルゴン方言のことが、少し理解できてきたみたいだし！」
+
+	Archive File 2 :
+	Prior to arriving at Rhodes Island, Operator Flint was completely unable to speak several common languages. According to Flint, the common tongues were much like the native languages that evolved freely in the unregulated lands of Sargon, making it almost impossible for her to keep track of. Thus, following her arrival at Rhodes Island, studying common languages has become an important part of her schedule in order to facilitate smooth communication in day-to-day life. 
+	The common languages are not particularly difficult to learn, and a persuasive word from Gavial to Flint about taking daily language courses proved to be key. 
+	'What, don't you wanna be able to chat up Blaze?'
+	That was all it took. It worked better than anything anyone else had to say, and Flint began to study seriously. 
+	
+	[Voice Log]
+	'So what do we do until she learns? There's nobody else around who can make sense of her native dialect. Do we just wave our hands at her?' 
+	'Oh. Don't you worry about that.'
+	'What's not to worry about?! Missions! What do we do about missions? Okay, do we use body language to give her orders in the middle of the battlefield, too?'
+	'Relax, relax. All accounted for when they put the squad together, don't you worry. See, the Doctor's already kinda sorta picked up a little bit of that weird Sargon blah-blah whatever it is!'
+
+	파일 자료 2 :
+	    로도스 아일랜드에 오기 전까지 오퍼레이터 플린트는 공용어를 전혀 할 줄 몰랐다. 플린트에게 있어 이런 언어는, 마치 어느 동떨어진 곳의 오지에서 변이를 한번 거친 사르곤 방언과 같이 들려 도무지 알아들을 수가 없었다. 하지만 로도스 아일랜드에 합류한 후부터, 원활한 일상생활 소통을 위해서라도 공용어를 배우는 것은 중요한 일정이 되었다.
+	    공용어를 배우는 것 자체는 그렇게 어려운 일이 아니었지만, 플린트가 자발적으로 매일 공용어 수업을 듣도록 하는 데에는 가비알의 한 마디가 중요한 역할을 하였다.
+	    "블레이즈와 직접 대화하고 싶지 않은 거야?"
+	    바로 이 말 한마디가 다른 사람의 수십 마디 조언보다 효과적이었고, 플린트는 열심히 공부하기 시작했다.
+	
+	[음성기록]
+	    "그러면 그녀가 말을 배우기 전까진 어쩌지? 그녀의 방언을 알아들을 수 있는 사람이 없는데, 바디랭귀지라도 써야 하나?"
+	    "아, 그거 말이지, 걱정할 필요 없어."
+	    "걱정 안하게 생겼어!? 임무는, 임무는 어쩔 건데! 전장에서도 손짓으로 명령하라는 건 아니겠지?"
+	    "걱정 마, 팀 편성할 땐 이 부분도 꼭 고려할 테니까. 저기 봐, 박사는 벌써 저 재잘거리는 것 같은 사르곤 방언을 알아들을 수 있게 됐잖아!"
+
+———————————————————————————————
+
+	档案资料三 :
+	干员燧石是生活在雨林中的黎博利人，这一族的黎博利天生身材娇小，身体素质较其他黎博利人也稍显不足，更不用说和周围那些孔武健壮的种族相提并论。这样的现状也就导致燧石的部族一直以来都在雨林中生活得较为艰难。这样的艰难情况一直持续到燧石成长到能跑会跳的年纪，并且将两个比她强壮得多的阿达克利斯人打翻在地赢得胜利为止。
+	燧石的拳迅捷而刁钻，在身体强度天生不足的情况下，种族带来的速度优势很好地弥补了在力量方面的欠缺。她的拳法和任何一种系统的有理论背景的拳术都不同，那单纯只是为击倒对手而挥出的拳头，带有雨林难以捉摸的自由及危险。
+	作为一族中最高大强壮的战士，燧石在接触到那些身材高挑的外族人之前，一直对自己的体型相当自信，并且引以为豪。而在认清事实，了解到外面大多数人都比她还要高大之后，燧石很快摒弃了过去因无知而产生的骄傲，她开始追寻新的挑战——如果有更强的人出现，那么就挑战对方，磨砺并提高自己，直至将对手击败。
+	绝不要因个头而看轻她。萨尔贡的战士从不畏惧挑战。
+	
+	【记录者补充】
+	她和高个子的干员关系怎么样，我不做评价。但她和我们的杜林族干员相处得很好，这点千真万确。
+
+	第三資料 :
+	フリントはジャングルに生きるリーベリである。彼女の一族は他のリーベリよりも体が小さく、身体能力も低い。リーベリ以外の強靭な種族と比べたら、その能力差は言うまでもないだろう。このため彼女たちは長い間、困難な生活を強いられていたが、フリントが走り回れる年齢になり、自分よりもずっと体格に恵まれたアダクリス人を二人も叩きのめすと、状況が変わった。
+	フリントにはパワー面での劣勢をものともしないスピードがある。その迅速でトリッキーな拳法は、他の形式的かつ理論に裏付けられた拳術とはまるで異なっていた。ただ相手を打ち倒すためだけに使われる拳には、ジャングル特有の捉え難い自由さと危険さが秘められているのである。
+	フリントは当初、一族の中で最も体格がよく強靭な戦士だと自負していた。しかし長身の種族に出会ったことで、自分はそれほどでもないと知った彼女は、過去のプライドを捨て、新たな挑戦を始めた。強い者を見つけては挑み、切磋琢磨して自分を高めるようになったのである。
+	体が小さいからと彼女を見くびってはならない。サルゴンの戦士は決して挑戦を恐れないのだ。
+	
+	【記録者の補足】
+	彼女と長身オペレーターの関係の良し悪しについては、ここでは評価を控えておく。だがドゥリン族オペレーターとは確かに仲良くできている。これは揺るがない事実だ。
+
+	Archive File 3 :
+	Operator Flint is a Liberi who was raised in the rainforest. The tribe of Liberi she comes from is naturally of small stature, and it's apparent that their physical fitness compared to other Liberi falls slightly short. One need not even start comparing them to the wealth of combative, healthily robust races surrounding them. This is why Flint's tribe has always had a relatively tough time living in the rainforest. These challenges persisted up until Flint reached the age where she could run and jump, at which point she promptly picked and won a fight with two Archosauria who substantially outclassed her. She beat them on their own ground. 
+	Flint's fists are fast and tricky. Where she falls short in terms of naturally endowed strength, her race's superiority in speed makes up handily for the deficiency. Her fighting style differs from any boxer with a grounding in theory. She wields her fists to knock her opponent down, pure and simple, and they carry an almost illusory sense of the freedom and danger of the rainforest. 
+	As the tallest and strongest warrior in her tribe, Flint was always quite confident of her own build, even proud of it, until she came into contact with other, much taller peoples. Once she came to the realization that most of the entire outside world's population was of much greater stature than her, Flint was quick to give up her arrogance born of ignorance, and she began seeking out new challenges. She went to find those stronger than herself, challenge them, harden and mold herself, improve herself, until she could beat them. 
+	Do not underestimate her for her size. No Sargon warrior ever feared a challenge. 
+	
+	[Addendum by file author]
+	I will refrain from putting her relationship with the taller operators into words. On the other hand, she gets along with our operators of Durin origin. No question about that.
+
+	파일 자료 3 :
+	    오퍼레이터 플린트는 정글 지역에 사는 리베리다. 플린트의 일족은 천성적으로 몸집이 작고 신체 조건도 다른 리베리보다 조금 떨어지는데, 주위의 다른 건장한 종족과는 비교 자체가 불가할 정도다. 이런 천성적 열세로 인해 플린트의 부족은 줄곧 정글 지역에서 어려운 삶을 이어왔는데, 이는 플린트가 달리고 뛸 수 있는 나이까지 자라서, 그녀보다 훨씬 건장한 아다크리스 두 명을 쓰러뜨려 이길 때까지 지속되었다.
+	    플린트의 주먹은 빠르고 날렵하여, 천성적인 신체적 강도 부족 문제를 속도의 우위로 보완하고 있다. 그녀의 복싱 스타일은 이론적 배경을 가진 그 어떤 타입의 복싱과도 다르다. 오직 상대를 쓰러뜨리기 위해서만 내지르는 주먹에는 정글의 알 수 없는 자유와 위험이 녹아있다.
+	    일족 최강의 전사로서, 플린트는 건장한 체격의 다른 종족을 보기 전까지 줄곧 자신의 체형에 자신감과 자부심을 갖고 있었다. 그러나 대다수의 타 종족 사람들이 자신보다 키가 크다는 현실을 인지하게 된 후, 플린트는 무지로 인해 생겼던 지난날의 오만함을 버리고 새로운 도전을 시작했다. 만약 더 강한 사람이 나타날 경우, 상대에게 도전하고, 쓰러뜨릴 수 있을 때까지 자신을 단련하는 방법으로 말이다.
+	    절대 키만 보고 그녀를 쉽게 보지 마라. 사르곤의 전사는 언제나 도전을 두려워하지 않는다.
+	
+	[기록자 보충]
+	    그녀와 장신 오퍼레이터들의 사이가 어떤지에 대해서는 평가하지 않겠다. 하지만 그녀가 우리 두린 족 오퍼레이터들과 사이가 매우 좋다는 점은 확실하다.
+
+———————————————————————————————
+
+	档案资料四 :
+	或许有人会认为崇尚武力的提亚卡乌人冲动粗鲁，但不可否认的是，这些战士往往为人热忱、直率并且骁勇善战。干员燧石就是其中的典型人物。
+	在燧石的认知中，没有什么事情是不能用拳头来解决的。在燧石的老家，常常可以在路边见到前一刻还扭打在一起的提亚卡乌人，下一秒翻身起来就已经握手言和的情景。而握手言和之后的提亚卡乌人可能会勾肩搭背相约一起去吃饭，一般来说，在真正吃上饭之前，他们往往还会因为别的争执再打上一架。
+	此外，燧石所属的这一支黎博利人还对鲜花有某种超出寻常的喜爱，她们尤其偏爱颜色艳丽的花朵，喜爱用这些花装饰居所。在干员燧石的观念里，花是随处可见，可以随意摘取的东西，即便现在来到罗德岛这样巨大的钢筋铁皮中生活，她也仍然是这么想的。
+	调香师小姐所管理的温室花园在稳定吸引了众多园艺爱好者后，这次终于迎来了一个巨大的难题，种植在温室内的花卉时常无故被采摘，日益增加的受害植物培育者们最终结成同盟，一致同意要给采花犯人一个深刻教训。
+	而在他们有所行动之前，干员炎客精心培育的小盆栽一夜之间被洗劫事件成为了重要突破口，当事双方于当天发生激烈争斗，最终在医疗部嘉维尔医生的严格关照下，勉强握手言和。
+	
+	至少现在干员燧石已经明白，和植被丰沛的雨林不同，罗德岛内所能见到的鲜花，最好还是不要随意摘采。温室管理人已特别批准燧石使用室内的小花坛，提亚卡乌人偶尔会蹲坐在花坛旁，用她那双惯于握拳的手小心翼翼地驱除杂草，期待花苗长成。
+
+	第四資料 :
+	武力を崇拝するティアカウ人を感情的で乱暴だと言う者もいるが、彼らが情熱的で、素直で、勇敢な戦士であることは否定できない。その代表格がフリントだ。
+	フリントは拳で解決できない問題は存在しないと考えている。彼女の故郷では、道端で取っ組み合いをしていた者同士が、身を起こしてすぐに相手の手を取り、仲直りするという場面も少なくない。ただそうして仲直りしたティアカウ人が、肩を組んで食事に行く途中にまた喧嘩をすることもよくあった。
+	フリントの血筋のリーベリは、花に深い愛着を抱く者が多い。特に好むのは色鮮やかなもので、彼らの家にはいつも咲き誇る花が飾られている。フリントの常識では、花はどこにでもあって、いつ摘み取ってもいいものであり、ロドスという巨大な鋼鉄造物の中の生活を始めた当初も、その認識は変わらなかった。結果、事件が起きた。
+	パフューマーが管理する温室では、園芸愛好者を多数招いているが、無断で花が摘み取られるようになったのである。日々増加する被害を前に、植物培養者たちは同盟を結成。犯人にしかるべき罰を与えるべきだと意見が一致した。
+	しかし彼らが行動を起こす前に犯人が見つかった。きっかけは、エンカクが丁寧に育てていた盆栽が一夜にしてすべて刈り取られたという事件である。当事者双方は激しい闘争を繰り広げたが、最終的には医療部ガヴィル医師の厳しい監視のもと、無理矢理仲直りさせられて、事件の幕が閉じた。
+	
+	今のフリントは、ロドス内の花々は、植物が生い茂るジャングルの花とは異なり、勝手に摘み取ってはいけないと理解している。温室の管理人は特別に、フリントに室内の小さな花壇の使用許可を与えた。彼女は時々花壇のそばに屈んでは、拳を握り慣れた手で恐る恐る雑草を抜き、花が咲く日を心待ちにしている。
+
+	Archive File 4 :
+	One might expect that in their reverence for might and strength, the Tiacauh would be impulsive and unruly. But we must admit their conduct is full of great fervor, candor and a masterful valor. Operator Flint is an archetypal example of this. 
+	As Flint sees it, there is nothing that can't be settled with her fists some way or another. Back in Flint's old stomping grounds, you'd often catch a glimpse of Tiacauh people who'd been wrestling with each other just a moment ago, who'd stood themselves up straight, shook hands and made peace with each other the very next second. After that handshake, they might wrap their arms around each other's shoulders and go off to eat together. Though, generally, they'll get into another fight because of something else altogether before they can sit down. 
+	In addition, the Liberi people to which Flint belongs have a love for flowers that far exceeds the norm. Their preference is especially for lushly colored specimens, which can be often found adorning their homes. Operator Flint holds the fundamental notion that flowers are something found everywhere, and freely pickable as one wishes. Even now, living in Rhodes Island's colossus of rebar and iron sheeting, she continues to think so. 
+	As Miss Perfumer's greenhouse steadily drew in the horticulture enthusiasts one after another, a great mystery reared its head. Flowers would often be picked without warning. As the days went on, the gardeners whose plants went missing ultimately formed an alliance, agreeing once and for all to teach the delinquent flower-picker a lesson they'd never forget. 
+	Before they set out a real action plan, Operator Flamebringer's meticulously cultivated bonsai was burgled overnight—a crucial breakthrough. The concerned parties fought each other bitterly that next day, and finally, under the oppressive gaze of Dr. Gavial, they reluctantly shook hands and made their own peace. 
+	
+	At least Operator Flint now understands. Unlike the rainforest, abundant with vegetation, she should refrain from picking the flowers she finds growing within Rhodes Island. The greenhouse's keeper has allowed Flint the use of a small flowerbed. You can find the Tiacauh stooping next to it from time to time, her hands, so often closed in fists, carefully pulling the weeds, looking forward to seeing the flowers bloom.
+
+	파일 자료 4 :
+	    누군가는 무력을 숭배하는 티아카우인이 거칠고 우악스럽다고 생각할지도 모른다. 다만 부인할 수 없는 점은, 이런 전사들이 보통은 열정적이고, 솔직하며, 용맹하기까지 하단 점이다. 오퍼레이터 플린트가 바로 이러한 전형적인 인물이다.
+	    플린트에겐 주먹으로 해결하지 못하는 일 같은 건 없다. 플린트의 고향에서는 방금 전까지만 해도 길가에서 서로 치고박던 티아카우인들이 잠시 후에 악수를 하며 화해하는 장면을 종종 볼 수 있다. 게다가 어깨동무를 한 채 같이 식사 약속을 잡기도 하는데, 보통은 약속 날이 되기도 전에 다른 문제로 인해 다시 싸우곤 한다.
+	    또한 리베리들은 꽃에 남다른 애착 같은 걸 갖고 있는데, 특히 색이 화려한 꽃을 좋아하고, 꽃들로 생활공간을 장식하는 것을 좋아한다. 오퍼레이터 플린트에겐 꽃은 어디서든 볼 수 있고, 채집할 수 있는 것들인데, 로도스 아일랜드라는 거대한 철제 구조물 속에서 사는 지금도 그렇게 생각하고 있다.
+	    퍼퓨머가 운영해오면서 지금까지 많은 원예 애호가들을 매료시킨 온실은, 마침내 커다란 문제에 직면하고 말았다. 바로 온실에 있는 화초들이 수시로 영문도 모른 채 꺾여나가기 시작한 것이다. 그 피해가 갈수록 심해지자 원예 애호가들은 마침내 동맹을 결성, 꽃을 꺾어가는 범인에게 제대로 된 참교육을 진행해 주기로 결심하였다.
+	    그러나 이들이 본격적으로 움직이기 전, 오퍼레이터 플레임브링어가 정성 들여 가꾼 화분이 밤사이 쥐도 새도 모르게 사라진 사건이 발생하였다. 이로 인해 사건 당사자들은 격렬한 전투를 시작하였고, 의료부 가비알의 제지 하에 마지못해 화해를 하였다.
+	
+	    적어도 지금의 오퍼레이터 플린트는, 로도스 아일랜드와 식물이 풍부했던 정글은 다른 곳이며, 로도스 아일랜드에서 볼 수 있는 꽃은 마음대로 꺾지 않는 것이 좋다는 것을 이해하고 있다. 온실 관리인은 플린트가 온실 내의 작은 화단을 사용할 수 있도록 특별히 허락해 주었으며, 플린트는 주먹질을 하던 두 손으로 조심스럽게 잡초를 뽑고, 꽃이 자라나길 기대하고 있다.
+
+———————————————————————————————
+
+	晋升资料 :
+	在燧石看来，大多数人都想得太多，将自己逼得太紧，而罗德岛内那些总是强撑着自己去工作的人则更是让她看不下去。
+	“如果累了，那就去休息啊！”
+	她会这么说。而在说这句话时，这个战士往往已经做好了替休息的你挡下所有危险的准备。
+	
+	只是，雨林的战士暂时还没能完全理解大地究竟有多广阔，她还需要时间去了解，在这片大地上，有多少事能够用她的拳头解决，又有多少事我们总是无能为力。
+
+	昇進資料 :
+	フリントから見れば、ロドスの人々は考えすぎなのだ。自分を追い詰め、限界を超えた体に鞭打ってまで働くことに、なんの意味があるのだろう。
+	「疲れてるのなら、ちゃんと休め！」
+	そう言う彼女は、休んだ者の代わりに戦う覚悟ができている。
+	
+	だが、このジャングルの戦士は、まだ大地の広さを完全に理解できてはいない。この大地には拳のみで解決できない問題もある。力及ばずに無力さを嘆かざるを得ないこともある――そのことを彼女が理解するには、まだまだ時間がかかるだろう。
+
+	Promotion File :
+	To Flint, most people think too much and wind themselves up too tight. Especially the people of Rhodes Island, some of them propping themselves up while they keep working. They make so little sense to her. 
+	'If you're tired, go take a break!'
+	So she says. And when she says it, warrior that she is, she's usually already prepared to safeguard you from any danger as you rest.
+	
+	Only, you worry how the warrior of the rainforest hasn't yet fully grasped just how vast, and broad, this world is. She still needs more time to understand this. Just how much in this world can be solved with her fists alone, and just how many things we're powerless to do anything about.
+
+	승진 자료 :
+	    플린트의 눈에 대다수의 사람들은 생각이 너무 많고, 스스로를 지나치게 옥죄고 있었다. 그래서 그녀는 로도스 아일랜드에서 힘겹게 억지로 일하는 사람들을 마냥 두고 볼 수 없었다.
+	    "피곤하면 가서 쉬라고!" 그녀가 이런 말을 할 때, 이 전사는 이미 휴식을 취할 당신을 대신해서 모든 위험을 막을 준비를 마친 상태일 것이다.
+	
+	    다만, 이 정글의 전사는 아직 이 세상이 얼마나 광활한지에 대해 감을 잡지 못하고 있다. 이 땅에 그녀의 주먹으로 해결할 수 있는 일과 그렇지 않은 일, 해결할 수 없는 일과 그렇지 않은 일에는 어떤 것이 있는지에 대해 이해할 수 있도록, 우리가 그녀에게 시간을 줄 필요가 있다.

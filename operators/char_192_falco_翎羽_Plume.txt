@@ -1,11 +1,17 @@
 ID:
 	char_192_falco
 
-干员代号\Name:
+CV:
 	翎羽
 	プリュム
 	Plume
 	플룸
+
+干员代号\Name:
+	立花理香
+	立花理香
+	Rika Tachibana
+	타치바나 리카
 
 招聘合同\Character Usage:
 	罗德岛先锋干员翎羽，将为小队提供可靠的防御并反击敌人的攻势。
@@ -38,167 +44,374 @@ ID:
 	신속공격α
 
 语音\Voices:
-	博士请放心，无论发生了什么，我都会保护你的。
 	安心してください、ドクター。何があっても、私がお守りします。
 	Don't worry, Doctor. No matter what happens, I'll protect you.
 	안심해주세요, 박사님. 무슨 일이 있어도, 제가 지켜 드리겠습니다.
 
-	不少黎博利人都有着卓越的视力，有些传说里，甚至有人能从倾盆大雨中辨别出雨滴的样子。听起来很厉害吧？
 	リーベリ人はみな卓越した視力を持っていて、中には土砂降りの中で雨つぶの形を見分けられる者もいると言われるほどです。かっこいいでしょう？
 	Liberi have excellent eyesight. According to legend, some can even tell one droplet from another in a rainstorm. Sounds incredible, huh?
 	리베리 사람들은 다들 탁월한 시력을 갖고 있어서, 그중에는 장대비가 쏟아질 때 빗방울의 형태를 구분할 수 있는 사람도 있을 정도라 합니다. 멋있죠?
 
-	我在日常生活中表现得过于严肃了？抱歉，这可能是出于拉特兰守卫的一种职业习惯，我以后会多注意一点的。
 	日常生活でも私は真面目すぎる、ですか？ごめんなさい、ラテラーノの衛兵をやっていた頃の職業病ですね。今後は気をつけます。
 	I take everyday life too seriously? My apologies. I think that comes from my time serving as a Laterano Guard. I'll work on that in the future.
 	일상생활에서도 전 너무 진지하다고요? … 죄송합니다, 라테라노에서 위병을 하고 있을 때 생긴 직업병이에요. 앞으론 조심하겠습니다.
 
-	对于大多数拉特兰人来说，过于厚重的铠甲并没有什么作用。当然了，在拉特兰举行比较盛大的仪式时，我们也会换上礼服的。
 	身のこなしが命のラテラーノ人からすると、重厚な鎧はそこまで役に立たないんです。もちろんラテラーノで大きな儀式が行われる時は、正装で参加しますよ。
 	To most Lateranos, heavy armor doesn't serve much of a purpose. Of course, when we perform the large-scale rituals of our homeland, we do dress up in ceremonial garb.
 	몸놀림이 생명인 라테라노인에게, 중후한 갑옷은 그렇게 큰 도움이 되지 못하죠. 물론 라테라노인 중에도 성대한 의식이 진행될 땐, 정장으로 참가하지만요.
 
-	感谢你对我的信任，我一定不会辜负你的厚爱。
 	ドクターのご信頼に感謝して、ご期待にお応えできるよう精進します。
 	I appreciate your faith in my abilities, Doctor. I won't let you down.
 	박사님의 신뢰에 감사드리며, 기대에 부응할 수 있도록 정진하겠습니다.
 
-	嗯......我已经向人事部递交了申请书。我想要成为博士你的贴身卫士。应该说，这也是种职业习惯吧......？
 	はい、人事部門に申請書を提出してきました。ドクター専属の護衛担当になれればと……いや、これはただの職業病といいますか……。
 	Right... I submitted a request to the HR office... to become your personal bodyguard. I guess maybe I miss my old job too much...
 	네, 인사부에 신청서를 제출하고 왔습니다. 박사님의 전속 호위 담당이 되면 좋겠다 싶어서… 아뇨, 이건 그냥 직업병이랄까… 
 
-	我从小成长在拉特兰，并没有什么机会接触其他的文明......罗德岛让我看到了许多我没法想象的生活，说不定，也不赖......
 	ずっとラテラーノで育ってきたので、ほかの地域についてあまり知る機会がありませんでした……。ロドスでは想像したこともないような驚きの連続でしたが、このような生活も悪くないのかもしれません……。
 	I grew up in Laterano and didn't really have the chance to learn about other cultures. Here in Rhodes Island, I get to see such diversity, way beyond my imagination. It's quite nice...
 	계속 라테라노에서 자랐기 때문에 다른 지역에 대해 알 기회가 별로 없었습니다… 로도스 아일랜드에서의 생활은 상상해본 적도 없는 놀라움의 연속이었습니다만, 이런 생활도 나쁘진 않을지도 모르겠네요… 
 
-	我不后悔了。嗯，是的，虽然当时她们强行把我从拉特兰拽了出来......但确实，这是一场有趣的冒险，我很喜欢。
 	もう迷いません。ええ、確かにあの時は、彼女たちに無理やりラテラーノから連れ出されてきたのですが……その冒険は意外と楽しくて、気に入っています。
 	I have no regrets. Yes, true, they did drag me out of Laterano against my will... but this has been a great adventure. I've enjoyed it.
 	이젠 망설이지 않을 거예요. 네, 하긴 그때는 그 여자들한테 억지로 라테라노에서 끌려 나왔습니다만… 그 모험은 의외로 즐거워서, 마음에 듭니다.
 
-	放心，博士，保护你是我的责任。
 	ドクターをお守りするのは私の役目です。ご安心を。
 	It is my duty to protect you, Doctor. Rest assured.
 	박사님을 지키는 건 제 역할입니다. 안심하십시오.
 
-	翎羽，原属拉特兰戍卫队，愿意成为你的戟、你的羽翼，为了你的生命而战。
 	プリュムと申します。以前はラテラーノ護衛隊に所属しておりました。あなたの矛となり、翼となり、命をお守りするために戦う所存です。
 	My name is Plume, formerly of the Pontifica Cohors Lateran. I will be your sword, and your wings, as I defend your very life.
 	플룸이라고 합니다. 이전엔 라테라노 호위대에 소속되어 있었습니다. 당신의 창이 되고, 날개가 되어, 목숨을 지켜드리기 위해 싸울 것입니다.
 
-	唔，依靠战术也能补足实力上的差距，是吗。
 	なるほど、実力の差を、戦術で埋めるというわけですね。
 	Ah, so tactics can help you overcome a more skilled opponent, huh?
 	과연, 실력의 차이를 전술로 메꾼다는 거군요.
 
-	谢谢你，博士。作为卫士，你的嘉奖就是我最好的勋章。
 	ありがとうございます、ドクター。護衛役として、お褒め頂けることこそ至上の勲章です。
 	Thank you, Doctor. As your bodyguard, your approval is the best award I can ask for.
 	감사합니다 박사님. 호위 역으로서 칭찬받을 수 있다는 것이야말로 최고의 훈장입니다.
 
-	做好准备。
 	準備を。
 	I'm ready.
 	준비하겠습니다.
 
-	既然由我带领大家，那么，保证各位的安全就是我的义务。
 	隊長を任された以上、みなさんの安全をお守りするのが私の使命です。
 	As the leader, it's my responsibility to keep everyone safe.
 	대장을 맡은 이상, 모두의 안전을 지키는 것이 저의 사명입니다.
 
-	保护好我方干员！
 	味方のみんなを守って！
 	Watch the friendlies!
 	아군을 모두 지켜주세요!
 
-	请大家提高警惕！
 	みなさん、警戒してください！
 	Keep your guard up!
 	모두 경계해주세요!
 
-	嗯？
 	なんでしょうか？
 	Hmm?
 	무슨 일이십니까?
 
-	知道了。
 	かしこまりました。
 	Got it.
 	알겠습니다.
 
-	守住这里。
 	ここを死守します。
 	Ready for overwatch.
 	이곳을 사수하겠습니다.
 
-	我明白。
 	承知しております。
 	Understood!
 	인지했습니다.
 
-	你的速度，快得过我吗？
 	この程度のスピードで、私に勝てるとでも？
 	You think you're faster than me?
 	이 정도의 속도로 날 이길 수 있으리라 생각했나?
 
-	你的动作逃不过我的眼睛！
 	私の眼をごまかせると思うな！
 	No move can escape my sight!
 	내 눈을 속일 수 있으리라 생각하지 마라!
 
-	这把武器里，寄托了我的信念！
 	この槍にすべてをかけて、我が信念を貫く！
 	My resolve lies with my spear!
 	이 창에 모든 것을 걸고, 내 신념을 관철하겠다!
 
-	我的战斗，凝聚着拉特兰的荣耀！
 	ラテラーノの栄光を背負って戦います！
 	I fight for the glory of Laterano!
 	라테라노의 영광을 짊어지고 싸우겠습니다!
 
-	没什么能让我退缩。
 	何があろうと、私は一歩も退きません。
 	Nothing can hold me back.
 	무슨 일이 있어도, 전 한 발자국도 물러서지 않겠습니다.
 
-	狂风吹打山岩，自己反而先粉身碎骨。
 	身の程を知らない高波が、堅固な岩礁にぶつかって弾けたようですね。
 	Like a wave crashing against an immovable stone, isn't it?
 	제 분수를 모르는 높은 파도가 견고한 암초에 부딪혀 부서지는 것 같네요.
 
-	重整队列！我会小心剩下的敌人！
 	態勢を立て直してください！残りの敵は私がなんとかします！
 	Regroup! I'll look out for the remaining enemies!
 	대형을 정비해주세요! 남은 적은 제가 어떻게든 해보겠습니다!
 
-	还不可以......倒下！
 	まだ……倒れるわけにはいきません！
 	I can't... fall... yet!
 	아직…… 쓰러질 순 없어요!
 
-	要我在这巡逻吗？
 	ここの巡回を任せていただけますか？
 	Should I patrol this area?
 	이곳을 순찰해도 될까요?
 
-	那里有什么吗？
 	あそこに何が？
 	Anything over there?
 	저기에 뭔가 있나요?
 
-	博士......感觉我在擅用职权了呢......
 	ドクター……私、もしかして職権を濫用しているのでは……。
 	Doctor... it feels like I'm abusing my position...
 	박사님…… 저, 혹시 직권을 남용하고 있는 건 아닌지… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好，博士。
 	おはようございます、ドクター。
 	Hello, Doctor.
 	안녕하세요, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】翎羽
+	【性别】女 
+	【战斗经验】一年
+	【出身地】拉特兰
+	【生日】10月28日
+	【种族】黎博利
+	【身高】158cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】プリュム
+	【性別】女
+	【戦闘経験】一年
+	【出身地】ラテラーノ
+	【誕生日】10月28日
+	【種族】リーベリ
+	【身長】158cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Plume 
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Laterano 
+	[Date of Birth] Oct. 28 
+	[Race] Liberi 
+	[Height] 158cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 플룸
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 라테라노
+	[생일] 10월 28일
+	[종족] 리베리
+	[신장] 158cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Excellent
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	出身自拉特兰的黎博利人，前拉特兰戍卫队成员。阴差阳错间离开了拉特兰来到罗德岛。现于罗德岛担任安保人员，提供基地安保、巡查与重要物资看护等相关服务。
+
+	個人履歴 :
+	ラテラーノ出身のリーベリ族で、ラテラーノ護衛隊の元衛兵。偶然が重なって、ラテラーノを離れロドスにやってきた。現在はロドスの安全保障要員であり、基地の保安、巡回や重要物資の護衛等の任務を担当している。
+
+	Profile :
+	Plume is a Liberi from Laterano, and former member of the Laterano Guard who bumbled her way out of Laterano and into Rhodes Island. She performs security, inspection, and loss prevention duties.
+
+	프로필 :
+	    라테라노 출신의 리베리 족으로서, 라테라노의 수비 대원이었다. 불행한 사건으로 인해 라테라노를 떠나 로도스 아일랜드에 오게 되었으며, 현재는 로도스 아일랜드에서 기반시설의 보안 및 순찰, 그리고 중요한 물자를 지키는 임무를 맡고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员翎羽没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.09u/L
+	干员翎羽很少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.09u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests on this Operator show clear outlines of internal organs, with no abnormal dark spots or shadows. No unusual traces of Originium particles present in the circulatory system, no signs of infection, confirming this operator as uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	No Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.09u/L 
+	Subject is rarely exposed to Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 플룸은 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.09u/L
+	오퍼레이터 플룸은 오리지늄과의 접촉 빈도가 매우 낮음.
+
+———————————————————————————————
+
+	档案资料一 :
+	对于立志加入拉特兰戍卫队的黎博利而言，使用好戍卫队配发的标准制式斧枪，被视为成为一名优秀作战人员的起点。
+	而对于拥有优异的速度，但力量并不见长的翎羽而言，这把沉重的斧枪也意味着一种挑战。
+	在初加入戍卫队的那段时间里，翎羽曾积极尝试过强化肢体，提升身体强度等方面的锻炼，试图凭借这些方法弥补自己力量方面的劣势。但这种锻炼并未使翎羽的力量上限显著提高，而侧重力量施展的斧枪战术也处处受制于人，不仅在队内训练中得不到好成绩，还在实习任务中发生了武器操作不当，劈坏公物等种种糗事。
+	虽然遭遇了挫折，但翎羽没有陷入负面情绪。拥有冷静沉着性格的她会驱使自己不停地去寻找原因。在尝试向戍卫队中的同僚和前辈寻求指导，并得到了大家的指点后，翎羽将斧枪使用的重点放在了操使技巧与进攻速度等方面。
+	舍弃了力量路线，潜心钻研使用技巧后，不懈努力的翎羽终于建立起了一套简单有效的标准战斗流程——在战场中四处辗转，不停移动，以天生的迅捷步伐展开突袭，凭借轻巧、灵动、高速的斧枪操使技巧，在极短时间内向指定目标连续发动攻势，逼迫对手出现破绽，并一举击溃。
+	尽管力量方面的上限使她无法胜任诸如硬目标破坏等工作，但翎羽可以完成一名干员所有应承担的基本职责，无论是担当进攻人员还是作为防御部署人员，翎羽均能提供持续而稳定的发挥，并保持高昂的状态和斗志。
+
+	第一資料 :
+	ラテラーノ護衛隊に入ることを志したリーベリにとって、護衛隊の基本的な武器であるハルバードを使いこなすことが、優秀な衛兵になる第一歩だとみなされている。
+	ずば抜けた速度を持ちながらもあまり力が強くないプリュムにとって、重いハルバードを扱うことも一種の挑戦を意味していた。
+	護衛隊に加入した当初、プリュムは積極的に体を鍛えて、自分の欠点である力の弱さを補おうとした。
+	しかし、その努力は実を結ばず、彼女のパワー不足は改善されていないままである。そのせいで、ハルバードもうまく扱えなかった。護衛隊での訓練で良い成績がとれないだけでなく、実習任務中でも武器の誤操作で物を壊したりなどのドジを踏んでばかりだった。
+	しかし挫折しても、プリュムは落ち込むことは無かった。冷静沈着な彼女は原因を模索し続け、護衛隊の同僚と先輩に教えを請い、皆からのアドバイスを受けた後、プリュムはハルバードを使う際、技術と攻撃速度に重点を置くようにした。
+	パワー路線を捨て技術を磨くことに没頭し、たゆまぬ努力を重ねたプリュムはついに効率的な自己流の戦闘スタイルを確立した。それは、戦場中をくまなく動き回り天性の機敏なステップで急襲し、軽やかに、的確に、高速でハルバードを駆使し、短時間で指定された目標に向かって連続で攻めることで、相手の隙きを誘発しては一気に潰すというものだ。
+	力強さには限界があり、防御力の高い目標の破壊等の攻撃は彼女には難しいが、一般的なオペレーターとしての職務を全うするは申し分ないように成長してきた。攻撃要員としても、防御要員としても、プリュムは安定した能力を発揮できる。更に、戦闘中の彼女は常に高揚した闘志をキープすることができる。
+
+	Archive File 1 :
+	Any Liberi wanting to join the Laterano Guard needs to learn the art of the standard battle axe. 
+	Plume has speed but lacks strength, so swinging an axe was a challenge for her. 
+	When she joined the Defense Squad, she tried to build up her strength with regular training. Unfortunately, these exercises didn't make her strong enough for the hefty battle-axe tactics demanded of her. Not only did she fail to earn good marks in her training, she made many high-profile mistakes in her practical lessons, such as mishandling her weapon and destroying public property. 
+	Plume did not let these setbacks get to her. She calmly analyzed her performance to find out where she went wrong. After seeking guidance from other members of the Guard, she took their advice and started doing exercises focused on battle axe technique and attack speed. 
+	After abandoning the brute force route and focusing on technique, Plume worked hard to create a simple but effective battle style. She darts swiftly around the battlefield, launching quick offensive strikes, downing her targets just as quickly. 
+	Although she is not strong enough for head-on assault missions, Plume can fulfill all the basic duties of an Operator. Whether on offense or defense, Plume can hold her own, all while keeping high spirits and a strong will.
+
+	파일 자료 1 :
+	    자신만의 뜻을 품고 라테라노 수비대에 들어간 리베리 족에게 수비대에서 나눠준 표준 제식 도끼창을 능숙히 사용하는 것은, 해당 대원이 향후 우수한 대원이 될 수 있으리라 볼 수 있는 첫 번째일 것이다.
+	    빠른 속도를 가졌지만 근력이 부족했던 플룸에게 이 무거운 도끼창으로 싸우는 것은 일종의 도전이었다. 수비대에 갓 들어왔을 때, 플룸은 단련을 통해 자신의 약점을 채우고자 여러 방법들을 적극적으로 시도했으나 큰 효과를 볼 수는 없었기에, 힘이 필요한 도끼창 전술에서도, 팀 훈련에서도 좋은 성적을 받지는 못했다. 그리고 이 뿐만이 아니라, 실습 임무 중에서도 미숙한 무기 제어로 인해 공공기물을 파손하는 등 온갖 사건을 겪을 수밖에 없었다.
+	    이러한 문제들에도 불구하고, 플룸은 부정적인 감정에 빠지지 않았다. 냉정하고 침착한 성격의 그녀는 어떻게든 그 원인을 찾고 해결하고자 끊임없이 수비대의 동료와 선배들에게 조언을 구했고, 이들의 지도와 조언을 받은 플룸은 도끼창을 사용할 때 힘보다는 속도와 기술에 좀 더 초점을 맞추기로 하였다.
+	    힘을 포기한 후 어떠한 기술을 사용할지에 대한 끊임없는 고민과 노력 끝에, 플룸은 간단하면서도 효과적인 전투 방법을 찾는 데 성공했다. 그건 바로 전장을 쉴 새 없이 이동하며 빠른 속도로 기습을 감행하고, 날렵하고 정교한 방식으로 도끼창을 다루어 짧은 시간 안에 목표의 약점을 찾아내 일격에 격퇴하는 방법이었다.
+	    낮은 위력 탓에 중갑을 두른 목표를 제거할 순 없었지만, 플룸은 한 명의 오퍼레이터로서 기본적인 임무를 훌륭히 완수할 수 있었다. 공격을 하던 방어를 하던, 플룸은 언제나 안정적으로 능력을 발휘할 수 있었으며, 또한 훌륭한 신체 상태를 유지해 투지를 불태울 수 있었다.
+
+———————————————————————————————
+
+	档案资料二 :
+	工作之外的翎羽似乎没有什么生活，或者说，她仍在适应罗德岛，她正在努力地把作为拉特兰戍卫的自己与作为罗德岛干员的自己融合起来。
+	作为拉特兰的戍卫，翎羽认真、坚定、忠于职守，并以身为卫队成员而自豪。她几乎不会区分工作和生活之间的差别，甚至有时将工作视为一种娱乐。
+	但来加入罗德岛后，翎羽逐渐体会到了另一种生活的魅力。
+	根据她的说法，在罗德岛，没有什么高高在上的大人物需要去舍命保护（她发现这些大人物也根本不需要别人去保护），也没有那种她习以为常的流程化、甚至仪式化的生活氛围。性格各异的干员随处可见，彼此间几乎没有上下等级之分。几乎每个人都有自己生活的风格——这对她产生了极大的冲击。
+	翎羽试图担任与自己在拉特兰时相仿的工作，来维持自己的想法不被动摇。但她的目光实在过于敏锐了，形形色色的人们行走于她的面前，他们充满个性的装束、极具差异的举止和言谈，实在是难以装作视而不见。
+	事实上，翎羽也已经坦言，自己也在考虑是否改变一下自己的日常形象——这番话，总意味着一位干员开始融入罗德岛的生活了。
+	或许，可以先从露出笑容做起？
+
+	第二資料 :
+	仕事以外でのプリュムはまるで生活感がない。それ以前に、彼女はまだロドスに適応している最中である。ラテラーノ護衛隊としての自分と、ロドスのオペレーターとしての自分を融合させようと頑張っているところだ。
+	ラテラーノ護衛隊の衛兵としてのプリュムは、真面目で確固たる信念を持っており、職務に忠実で、衛兵であることに誇りを持っていた。しかし、彼女は仕事とプライベートを分別することがまるでできない。むしろ仕事が一種の娯楽とみていた時すらあった。
+	しかしロドスへの加入以降、プリュムは次第に別の生活を楽しむ方法を覚えはじめた。
+	彼女の見解によると、ロドスでは、位の高い人物は命を懸けて守る必要がない（そもそもそういった人物に護衛を付ける必要はないと彼女も気付いた）。生活上も今まで慣れていたような機械的、ひいては儀式的なスタイルではなく、自分だけの生活スタイルを持ったオペレーターたちを目にした。さらに、彼らの間には上下の階級などないことも分かった。ほとんどの人は自分の生活スタイルを持っているということは、彼女に大きな衝撃を与えた。
+	これまでの彼女が過ごしてきた環境とのあまりの違いに、冷静なプリュムでも動揺しそうになった。しかし周りに流されないように、彼女はラテラーノにいたときと似たような仕事をやろうとしていた。
+	だが、鋭すぎる観察力を持つ彼女は、個性的な装束や奇抜な言動といった多様な面々を目の当たりにして、気を取られずにいるのはやはり無理だった。
+	そのため彼女は、「今までのライフスタイルを改めようと考えはじめています」と
+	プリュムに素直に告げた。
+	それはつまり、ロドスに溶け込もうとするオペレーターが、また一人増えたことを意味するだろう。
+	それなら最初に、笑顔を覚えるのはどうだろう。
+
+	Archive File 2 :
+	Plume has no life outside of work. It may be that she is still adjusting to life at Rhodes Island. Either way, she is working hard to reconcile herself as both a Laterano guard and a Rhodes Islander.
+	In the former role, she is serious, determined, loyal, and proud. With no distinction between her work and private lives. She could even see her work as a form of entertainment. 
+	But after joining Rhodes Island, she began to see the appeal of having a life outside of work. 
+	According to Plume, Rhodes Island doesn't have some aloof aristocracy she needs to put her life on the line to protect (though she believes such people don't actually need protection), and life is not as regimented and ritualized as she is used to. Diverse individuals with all personality types can fill the halls, and there's no distinguishing rank among them. Everyone has their own lifestyle--this has had a tremendous impact on her.
+	Plume tried to maintain her Laterano Guard ways of thinking, but her sharp eye is dazzled by all of the colorful characters around her. She has been unable to ignore this diversity. 
+	In fact, Plume has said she is considering changing her image. We see this sort of thing whenever a new Operator is starting to integrate themselves into Rhodes Island life. 
+	Perhaps she could start by smiling more?
+
+	파일 자료 2 :
+	    플룸은 업무 이외의 별다른 개인 생활이 없는 듯하다. 아니 어쩌면, 아직 로도스 아일랜드에 적응 중인 걸지도 모르겠다. 그녀는 현재 라테라노 수비대였던 과거의 자신과 로도스 아일랜드의 오퍼레이터인 지금의 자신을 하나로 융합하기 위해 노력하고 있다.
+	    라테라노 수비대원으로서 플룸은 진지하고, 듬직하게 업무에 임했으며, 자신의 직무에 대해 자부심이 있었다. 그녀는 공과 사를 거의 구분하지 않았고, 심지어 일을 일종의 오락으로 여기기도 했다.
+	    하지만 로도스 아일랜드에 들어오고 나서 플룸은 또 다른 삶에 대한 매력을 점차 깨닫게 되었다. 그녀는 로도스 아일랜드에는 목숨을 걸고 지켜야 할 높디 높은 직위의 인물이 없고(그녀는 이런 중요 인물들도 남들의 보호가 필요하지 않다는 걸 깨달았다), 습관처럼 해오던 절차나 의식화된 생활 분위기도 없으며, 다양한 성격을 가진 오퍼레이터들이 서로 상하관계를 갖고 있지도 않고, 거의 모든 사람들이 자신만의 라이프 스타일을 갖고 있다는 사실이 매우 충격적이라고 했다.
+	    플룸은 자신이 라테라노에 머무를 당시와 비슷한 업무를 맡았기에, 동요하지 않도록 마음가짐을 다잡아보았지만, 그러기엔 그녀의 시선은 너무나도 예리했다. 형형색색의 사람들이 그녀의 앞을 지나칠 때 보이는 개성 있는 차림새와 행동거지, 그리고 말투들은 도저히 못 본척 할 수가 없었던 것이다.
+	    플룸은 이미 자신의 일상을 바꾸는 것에 대한 고민을 털어놓기 시작했으며, 이는 한 사람의 오퍼레이터가 로도스 아일랜드의 일상에 녹아들기 시작했다는 것을 의미하기도 한다.
+	    어쩌면, 미소를 내비치는 것부터 시작할 수 있지 않을까?
+
+———————————————————————————————
+
+	档案资料三 :
+	不过，身为拉特兰戍卫的翎羽为何会来到罗德岛？
+	对此，这位一贯严肃拘谨的卫士并未透露其中的因由，只是表明自己“暂时没有权限进行说明”。
+	尤其这件事的前前后后，似乎还与那两位离开了拉特兰的资深干员牵扯颇多。
+	目前，仅由翎羽入职当日值班的员工提供了部分目击证词：她似乎正是被那两位拉特兰人拖拽过来的，而且全程都是一副状况之外的样子。
+	换句话说，说不定她当时还不知道自己究竟来到了什么地方。
+	无论是出于谨慎不便对此发言，还是确实不了解太多信息。翎羽离开拉特兰的缘由暂时都无法揭露。也无法从她的故事中探知拉特兰的面貌。
+	只是，以一丝不苟的站姿伫立于罗德岛舰桥边缘附近的翎羽，她瞭望着拉特兰方向的目光中，偶尔会闪过一丝忧虑。
+
+	第三資料 :
+	ラテラーノ護衛隊のプリュムはなぜロドスにやってきたのだろうか？
+	至って真面目な彼女は、その理由を一切語っていない。ただ、「今の自分にはまだそのことに関して説明する権限がありません」とだけ告げてくれた。
+	とりわけこの件の一部始終は、ラテラーノを離れた二名のベテランオペレーターが深くかかわっているようだ。
+	プリュムの初出勤日に当直だった者の目撃証言によると、彼女は二名のラテラーノ人に引きずられるようにやってきて、自分が置かれた状況について何一つわかってないようだった。
+	さらに言うと、当時の彼女は自分がどんなところに来たのかすら知らなかったのかもしれない。
+	遠慮深い性格のせいか、あるいは本当に何も知らないかはわからないか、プリュムがラテラーノを離れた理由は未だに誰にも告げておらず、彼女からラテラーノの今の状況を探ることもできない。
+	ただ、ロドスの橋のへり近くに凛と佇み、プリュムがラテラーノの方向を眺める眼差しには、時折、一筋の憂慮が浮かんでいるようだった。
+
+	Archive File 3 :
+	But why did Plume leave Laterano for Rhodes Island?
+	She has never explained why, saying only that she 'is not authorized to disclose that information for the time being.' 
+	Particularly right before and right after the incident, it seemed she was still involved with two senior Operators who had left Laterano. 
+	At present, only part of the eyewitness testimony has been provided by those who were working that day. It seems she was dragged along by the two Laterano staffers, and it was purely coincidental. 
+	She might not have known where she was. 
+	Plume may be acting out of caution or convenience, but no one knows the details of the situation. Her reason for leaving Laterano remains unclear, and no one knows where Laterano stands regarding her story, either.
+	Sometimes she will stand stiffly by the edge of the bridge of Rhodes Island and look out anxiously in Laterano's direction.
+
+	파일 자료 3 :
+	    그런데, 라테라노의 수비대였던 플룸은 어떻게 로도스 아일랜드에 합류하게 된 것일까? 엄숙하고 고지식한 수비대원들은 "아직은 설명할 권한이 없다"며 줄곧 그 이유에 대해 설명해주지 않았다.
+	    지금까지 알게된 일의 자초지종을 살펴보자면, 이는 라테라노를 떠나온 두 시니어 오퍼레이터와 관련이 있는 듯하지만, 현재까진 플룸이 로도스 아일랜드에 들어올 때 당직 근무를 서던 오퍼레이터가 "플룸은 예상치 못하게 그 두 라테라노 사람에게 끌려온 것처럼 보였다"고 말했던 단편적인 증언만이 있을 뿐이다. 아마 그녀는 그 당시에 자신이 어디로 향하는지도 알지 못했을 것이다.
+	    이 말의 진위 여부는 둘째 치고, 아직은 확실하지 않은 정보가 많다. 당분간은 플룸이 라테라노를 떠난 이유도 알 수 없을 것이며 그녀에게 라테라노의 모습에 관한 이야기도 들을 수는 없을 것이다.
+	    다만, 지금도 로도스 아일랜드의 함교 가장자리에서 빈틈없는 자세로 서 있는 플룸의 시선이 이따금 라테라노를 향할 때면, 일말의 근심이 스쳐지나가는 것 처럼 보인다.

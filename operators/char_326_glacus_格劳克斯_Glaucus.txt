@@ -1,11 +1,17 @@
 ID:
 	char_326_glacus
 
-干员代号\Name:
+CV:
 	格劳克斯
 	グラウコス
 	Glaucus
 	글라우쿠스
+
+干员代号\Name:
+	野中蓝
+	野中藍
+	Ai Nonaka
+	노나카 아이
 
 招聘合同\Character Usage:
 	雷神工业武器评测师格劳克斯，凭借全新的技术打击敌人的机械单位。
@@ -43,177 +49,392 @@ ID:
 	펄스 반격
 
 语音\Voices:
-	我会在一边安安静静地调整倾诉者的......保证不会打扰你。
 	ここでこの武器「フランカー」のメンテナンスをさせてもらいますが……ドクターの邪魔にはならないように気をつけます。
 	I'll be quiet modifying the Raythean Franker close by... I won't disturb you, I promise.
 	여기서 이 무기 '프랭커'를 정비할 건데…… 박사님께 방해되지 않도록 주의하겠습니다.
 
-	为什么大家总是对蓝毒小姐敬而远之呢？是我不太一样？......好吧。
 	どうしてみんなアズリウスさんのことを避けるんでしょうか？むしろ私が変わってるほう？……そうですか。
 	Why does everyone always keep their distance from Blue Poison? Am I missing something...? All right.
 	어째서 다들 블루포이즌 씨를 피하는 걸까요? 오히려 제가 이상한 쪽인가요? ……그런가요.
 
-	博士有什么想说的话吗？没什么？总之......我就在这里。
 	ドクター、何か話すことはありますか？ない？とにかく……私はここにいますので、何かあればいつでも声をかけてください。
 	Anything you would like to say, Doctor? No? Well, anyway, I'm here.
 	박사님, 뭔가 말씀하실 게 있으신가요? 없다고요? 어쨌든…… 전 여기 있을 테니까 무슨 일 있으면 언제든지 말씀하세요.
 
-	宿舍很热的话会让人没有食欲......啊。这是家族遗传，真的不是在抱怨。
 	寮が暑くなると食欲も出ない……あっ、ドクター。いえ、これは体質というか遺伝というか……とにかく、別に不満を言っているわけではありませんよ。
 	No one in a hot dorm is going to have any appetite... Oh, it's a family thing, I'm not actually complaining.
 	숙소가 더워지면 식욕도 안 생겨…… 앗, 박사님. 아니요, 이건 체질이라고 할까, 유전이라고 할까…… 어쨌든 딱히 불평하는 건 아니에요.
 
-	我之所以来到这里......奔跑都做不到的话，会有谁愿意主动离开故土呢？
 	私がここにいる理由ですか……自由に走れるようになるためなら、故郷を離れるくらいなんてことありません。
 	Why would I leave home to come here if I can't even run free?
 	제가 여기에 있는 이유 말인가요…… 자유롭게 달릴 수 있게 되기 위해서라면 고향을 떠나는 것 정도는 아무것도 아니에요.
 
-	虽然火神小姐和我一样不喜欢“旧的东西”，但我觉得，我们的想法从根本上还是有差别的。
 	ヴァルカンさんも私と同じで「古いもの」が好きじゃないと言っていますが、私の考え方とは根本的に異なるように思います。
 	While Vulcan doesn't appreciate 'old things' like me, I still feel we have different fundamental philosophies.
 	벌컨 씨도 저와 마찬가지로 '오래된 것'은 좋아하지 않는다고 말하지만, 제 사고방식과는 근본적으로 다른 것 같아요.
 
-	博士，那个，蓝毒小姐说我总是像藏着什么想法似的，我会给人这种感觉吗？偶尔？不会吧......
 	ドクター、その……アズリウスさんに、「グラウコスさんはいつも考えをひた隠しにしていらっしゃるように見えますわ」なんて言われたんですが、本当にそんなふうに見えますか？たまに？そんなこと……。
 	So, Doctor, Blue Poison said I always seem to be hiding something. Do I? Occasionally? No way...
 	박사님, 저어…… 블루포이즌 씨에게 "글라우쿠스 씨는 항상 생각을 숨기는 것 같아요" 라는 말을 들었는데, 정말로 그렇게 보이나요? 가끔 그렇다고요? 안 그런데……
 
-	并不是我不太愿意说话，只是以前的日子里，我其实很少有什么开口的权利——所以只是习惯而已！希望{@nickname}不要误会了！
 	人と話すのが嫌いなわけじゃないです。ただロドスに来る前は自分から話すことがあまり許されていなくて……つまりただの習慣です。ドクターには誤解されたくないので。
 	It's not I don't want to talk, it's just that I seldom had the right to in the past, so I got used to not speaking up! Hope you won't take it the wrong way, {@nickname}.
 	다른 사람과 이야기하는 게 싫은 건 아니에요. 그저 로도스 아일랜드에 오기 전에는 제가 먼저 이야기를 꺼내는 일이 별로 용인되지 않아서…… 그러니까 단순한 습관이에요. 박사님에겐 오해받고 싶지 않아서요.
 
-	对我而言，有两段记忆如奇迹般耀眼。其中之一，是当我第一次借助这孩子奔跑起来的时候，景色万般旖旎，视野是那么的开阔......另一次，唔，就是身在罗德岛的此时此刻吧。
 	私には奇跡のように輝く大切な記憶が二つあります。一つはこの子のおかげで走れるようになったあの日、目に映る景色が何もかも美しく変わって見えたときの記憶。そしてもう一つは……いまロドスにいるこの瞬間、ですね。
 	Two memories stand out to me. One is the wide-open, splendid scenery I saw the first time I ran with the child. For the other, I'll say right here, right now on Rhodes Island.
 	저에겐 기적과 같이 반짝이는 소중한 기억이 두 가지 있어요. 하나는 이 아이 덕분에 달릴 수 있게 된 그날, 눈에 비치는 경치가 전부 아름답게 보였을 때의 기억. 그리고 또 하나는…… 지금 로도스 아일랜드에 있는 이 순간, 이에요.
 
-	嗯？唔，博士什么时候睡着的......
 	んん……あれ、いつの間に眠ってしまったんですか、ドクター……。
 	Hey, when did the Doctor fall asleep...?
 	으응…… 어라, 언제 잠들어 버리신 거예요, 박사님……
 
-	干员格劳克斯，今日报到。请问我可以回房间了吗？
 	グラウコス、本日着任しました。すみません、もう部屋に戻っていいですか？
 	Operator Glaucus reporting. May I go back to my room now?
 	글라우쿠스, 오늘 부임했습니다. 죄송합니다, 이제 방으로 돌아가도 될까요?
 
-	嗯？啊，好的，原来如此，我明白了。
 	んん……？あ、なるほど。そういうことですか、わかりました。
 	Huh? Yes, I see. Got it.
 	으응……? 아, 그렇구나. 그런 거였나요. 알겠습니다.
 
-	其实这把武器的名字是我自己取的，也许这才是我心里的想法......欸？刚才宣布的晋升干员原来是我吗？
 	実はこの武器、私が自分で名前を付けたんです。この名前が私の本音を代弁してくれると思って……え？さっきの昇進って、私のことだったんですか？
 	I named the weapon, actually. Maybe that's what I really think... What, did they just announce my name for promotion?
 	실은 이 무기, 제가 직접 이름을 붙였어요. 이 이름이 제 진심을 대변해 준다고 생각해서…… 네? 아까의 승진이 저를 말하는 거였어요?
 
-	信任吗.....那个，我不知道该怎么表达，但我会继续努力的。
 	信頼の証ですか……その、うまく気持ちを表現できませんが、とにかくこれからも頑張ります。
 	Trust...? Well, I don't know how to show it, but I'll keep trying.
 	신뢰의 증거인가요… 저기, 제대로 마음을 표현할 순 없지만… 어쨌든… 앞으로도 노력하겠습니다.
 
-	队员们有做好接地措施吗？
 	みんな、着地の準備はできていますか？
 	Have the members followed the proper landing procedure?
 	다들, 착지 준비는 됐나요?
 
-	欸？我是队长？难道刚才不小心就答应下来了......
 	あれ？私が隊長ですか？もしかしてさっきうっかり返事したのが原因……？
 	What? I'm the captain? Did I agree without realizing it?
 	어라? 제가 대장입니까? 혹시 아까 무심코 대답했던 것이 원인인가요……?
 
-	这次能捡到什么有趣的东西呢？
 	今回は何か面白いものが落ちてるかな？
 	What interesting thing will we pick up this time?
 	이번에는 뭔가 재미있는 게 떨어져 있으려나?
 
-	电磁脉冲立场准备就绪。
 	電磁パルスアンテナ、準備完了。
 	EMP field ready.
 	전자 펄스 안테나, 준비 완료.
 
-	嗯？喊我吗？
 	ん？私ですか？
 	Calling for me?
 	음? 저요?
 
-	电量充足，随时准备。
 	バッテリーフル、いつでもいけます。
 	Fully charged and ready to go.
 	배터리 풀 차지, 언제든 갈 수 있어요.
 
-	地面的触感......
 	これが地面の感触……。
 	Feeling the surface...
 	이게 지면의 감촉……
 
-	别担心，顺利登陆。
 	着地成功、ご心配なく。
 	Don't worry, it's a successful landing.
 	착지 성공, 걱정마세요.
 
-	满功率输出！
 	ワット数最大でいきます！
 	Discharge!
 	와트수 최대로 갈게요!
 
-	顾不上误伤了......！
 	多少の犠牲は厭わない……！
 	Never mind accidents now...!
 	어느 정도의 희생은 마다치 않겠어……!
 
-	微波频率增幅！
 	マイクロ波増幅！
 	Increase microwave frequency!
 	마이크로파 증폭!
 
-	坠落吧！
 	落ちろ！
 	Time to fall!
 	떨어져라!
 
-	敌方反应沉默，请各自检查一下损害情况......
 	敵反応なし。各自、損害状況を確認してください……。
 	Enemy silent. Please check damage on yourself.
 	적 반응 없음. 각자 피해 상황을 확인해 주세요.
 
-	全单位沉默，脉冲立场解除，辛苦大家了。
 	全敵ユニットの沈黙を確認しました。電磁パルスを停止します。お疲れ様でした。
 	All units silent, EMP field canceled. Nice work, everyone.
 	모든 적 유닛의 침묵을 확인했습니다. 전자 펄스를 정지합니다. 수고하셨습니다.
 
-	唔，刚才是不是有敌人逃走了？不追吗？
 	さっき敵が逃げたように見えました。追わなくていいんですか？
 	Did some enemy escape? Aren't we pursuing?
 	방금 적이 도망친 것처럼 보였어요. 쫓지 않아도 괜찮을까요?
 
-	脉冲立场已经解除，快联络救援！
 	電磁パルスを停止しました、すぐに救援チームに連絡を！
 	EMP field is canceled. Call for backup, quickly!
 	전자 펄스를 정지했습니다. 즉시 구원 팀에게 연락을!
 
-	没问题，但先等我找到那颗螺丝钉......
 	わかりました。でもまずは落としたネジを探さないと……。
 	No problem, as soon as I find that screw first...
 	알겠습니다. 하지만 우선 떨어진 나사를 찾아야……
 
-	啊，走神了。
 	あれ、またぼんやりしていたみたいです。
 	Oops...
 	어라, 또 멍하니 있었던 모양이네요.
 
-	博士，能和我出去散散步吗？
 	ドクター、よかったら一緒に散歩へ行きませんか？
 	Mind taking a walk with me, Doctor?
 	박사님, 괜찮으시면 같이 산책하러 가시겠어요?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士。
 	ドクター、おはようございます。
 	Good morning to you, Doctor.
 	박사님, 안녕하세요.
+
+干员档案\Background:
+	基础档案 :
+	【代号】格劳克斯
+	【性别】女
+	【战斗经验】四年
+	【出身地】阿戈尔地区
+	【生日】7月27日
+	【种族】未公开
+	【身高】159cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】グラウコス
+	【性別】女
+	【戦闘経験】四年
+	【出身地】エーギル
+	【誕生日】7月27日
+	【種族】非公開
+	【身長】159cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Glaucus
+	[Gender] Female
+	[Combat Experience] 4 years
+	[Place of Birth] Ægir Region
+	[Date of Birth] July 27
+	[Race] Unknown
+	[Height] 159cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 글라우쿠스
+	[성별] 여
+	[전투 경험] 4년
+	[출신지] 에기르
+	[생일] 7월 27일
+	[종족] 미공개
+	[신장] 159cm
+	[광석병 감염 상황]\의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】普通
+	【生理耐受】优良
+	【战术规划】优良
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Normal
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Excellent
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	格劳克斯出生于阿戈尔地区，却早早离开家园四处流浪。机缘巧合下加入罗德岛，现为雷神工业先端武器测评师。
+	除了对尖端武器进行研究调整之外，格劳克斯也会在需求对空特化的任务中亲自出击。
+
+	個人履歴 :
+	エーギル地区で生まれたが、早くに故郷を離れ、あちこちを放浪しながら生活していた。偶然の機会でロドスに加入し、現在はレイジアン工業の武器テストエンジニアを務めている。
+	武器の研究や調整の他に、要請に応じて対空に特化した任務に自ら出撃することもある。
+
+	Profile :
+	Glaucus was born in the Ægir Region, but left at an early age to wander about. By chance, she happened to join Rhodes Island and is now a Raythean cutting-edge weapon tester.
+	In addition to performing research on cutting-edge weapon modification, Glaucus also carries out assaults on air missions when required.
+
+	프로필 :
+	    글라우쿠스는 에기르 지역에서 태어났으나, 일찍이 고향을 떠나 세상을 떠돌던 중 인연이 닿아 로도스 아일랜드에 합류하게 되었다. 현재는 레이시언 공업의 첨단 무기 테스터로 근무하고 있으며, 첨단 무기 연구나 조정은 물론, 대공 특화 작전에 직접 참여하기도 한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员格劳克斯没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.11u/L
+	干员格劳克斯甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.11u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Glaucus shows no signs of Oripathy.
+	
+	[Blood Originium-Crystal Density] 0.11u/L
+	Glaucus very rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 글라우쿠스는 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L
+	오퍼레이터 글라우쿠스는 오리지늄과의 접촉 빈도가 매우 낮음.
+
+———————————————————————————————
+
+	档案资料一 :
+	格劳克斯小姐的战斗方法非常奇特，这大概也是因为那把......武器的缘故。她似乎什么也没做，那些缠人的无人机就噼里啪啦地掉在地上，实在让人不明所以。虽然对付那些机器时的格劳克斯小姐真的非常可靠，但我个人还是希望她能够稍微注意一下周围，毕竟每次作战完毕都要自掏腰包帮队员们检修设备的话，她会陷入长期负薪的困境的......
+	——某行动干员
+
+	第一資料 :
+	グラウコスさんの戦闘スタイルはとても独特なんですが、多分理由はあれですね……彼女の武器によるものかと。彼女自身は何もしていないように見えるのに、厄介なドローンたちがボトボトと地面に落ちるんです。どうなってるのか全くわかりません。メカ相手をしている時のグラウコスさんはすごく頼もしいですが、個人的にはもう少し周囲に配慮してほしいところです。作戦のたびに自己負担で隊員たちの装備のメンテをしていたら、彼女は金欠の沼にハマってしまいますから……。
+	――某オペレーター
+
+	Archive File 1 :
+	Glaucus's methods in combat are very unusual. This is probably due to her weapon. She personally doesn't seem to do much. Instead, those vexing enemy drones just drop to the ground wherever she goes, it is unclear how this was achieved. Although she can quite reliably manage the drones, I personally wish she would be more mindful of her surroundings. After all, if she keeps having to dip into her own pockets to help her fellow operators repair the facilities after battle, she's going to run into long-term money issues...
+	--Anonymous operator
+
+	파일 자료 1 :
+	    글라우쿠스 씨의 전투 방식은 매우 특이한데, 아마도 그…… 무기 때문이 아닐까 싶다. 언뜻 보면 그녀는 마치 아무것도 하지 않고 귀찮은 드론들을 격추시켜 버리는 것 같은데, 볼 때마다 정말 신기할 따름이다. 비록 그 기계들을 상대할 때의 글라우쿠스 씨는 매우 믿음직스럽긴 하지만, 개인적으론 그녀가 좀 더 주변을 살펴주었으면 한다. 매번 작전을 마친 후 사비를 들여 동료들의 설비를 수리해주다가는, 분명 장기적인 금전적 딜레마에 빠지게 될 테니까.
+	——어느 작전 오퍼레이터
+
+———————————————————————————————
+
+	档案资料二 :
+	干员格劳克斯在罗德岛内部的评价十分令人在意。不知道是天性如此还是习惯了随波逐流，初来乍到的格劳克斯小姐寡言少语，虽然很快就和其他干员打成一片，但大部分场合都只是默默聆听，必要的时候圆滑地应付过去，极少表露真实想法。也因为时常在会议上走神而屡次遭到批评。依照目前观察的结果来看，只有在与火神小姐、梅尔小姐与可露希尔小姐讨论有关科技与机器的话题时，格劳克斯小姐才会积极表达自己的见解。也是因为可露希尔小姐的引荐，干员格劳克斯才成为了雷神工业武器测评师的一员，在电力应用及电磁学方面展现出了惊人的天赋。
+
+	第二資料 :
+	グラウコスのロドス内での評価が気になるところだ。天性によるものか流れに身を委ねることに慣れてしまったせいか、来たばかりの頃の彼女は口数が少なかった。他のオペレーターと打ち解けるのは早かったが、多くの場合はただ黙って話を聞き、必要に応じて円滑な対応をしつつも、自分の考えをあらわにすることは極めて少ないのだ。会議中上の空であることも多く、しばしば怒られている。少し観察してみたところ、ヴァルカンやメイヤー、クロージャといったメンバーたちと技術や機械について議論する時だけ、グラウコスは積極的に自分の見解を口にしているようだ。そしてまさにそのクロージャの推薦により、グラウコスはレイジアン工業の武器テストエンジニアの一員となり、電力の応用及び電磁気学方面で驚くほどの才能を発揮しているのだ。
+
+	Archive File 2 :
+	Glaucus's internal evaluation is very interesting. It is unknown if this is just her nature or if she's just used to going with the flow, but as a newcomer, Glaucus does not speak much. Though she has quickly integrated herself with other operators, in the majority of situations, she prefers to listen and not speak. When speaking is required of her, she is smooth and evasive, and reveals very little of her actual thinking. She has also been admonished for repeatedly spacing out during meetings. According to the results of her current observation, it is only when discussing technology and machinery with Vulcan, Mayer, and Closure that Glaucus expresses her opinions with any enthusiasm. It is with Closure's referral that Glaucus became a Raythean weapon tester. She has displayed astonishing talent in the areas of electrical application and electromagnetism.
+
+	파일 자료 2 :
+	    오퍼레이터 글라우쿠스에 대한 로도스 아일랜드의 내부 평가는 매우 흥미롭다. 천성이 그런 것인지, 아니면 타인의 의견에 맞추는 것이 습관이 돼서인지는 모르겠으나, 처음 도착했을 때 글라우쿠스는 말 수가 매우 적었다. 비록 빠르게 다른 오퍼레이터들과 친해지긴 하였으나, 대부분의 장소에서 말없이 듣고만 있었고, 필요할 때는 대강 얼버무리며 넘어가서, 자신의 생각을 거의 드러내질 않았다. 회의 중 딴생각을 하다가 잔소리를 듣는 경우도 비일비재했다. 현재 관찰 결과에 따르면, 벌컨, 메이어 또는 클로저와 함께 과학 기술이나 기계에 대한 이야기를 나눌 때만 글라우쿠스는 적극적으로 자신의 생각을 표현하고 있으며, 글라우쿠스는 클로저의 추천 덕에 레이시언 공업 무기 테스터 중 한 명이 되었고, 전력 응용과 전지학 방면에서 놀라울 만한 재능을 보여주고 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	根据体检报告，干员格劳克斯的下肢肌肉力量仅有成年人平均值的二分之一，并仍旧在不断萎缩， 而那副外骨骼装备自然也是为了弥补她的机动性问题。
+	根据干员格劳克斯本人所述，其肌肉萎缩软化的根源在于其家族遗传疾病。尽管在生态环境稍显特殊的阿戈尔地区，这样的遗传病仍旧只有极少数病例。且暂无根治途径。
+	不过其本人对于现状并没有不满，相反的，她所表达出的对科技产品的热爱最早就源于这些帮助她克服了先天障碍的外骨骼装备。
+	值得一提的是，干员格劳克斯对于任何外界刺激毒素都有着先天的抗体，除去传统意义上的毒药外，神经麻痹，致幻剂等手段也基本无效。干员格劳克斯也积极配合医疗干员们的研究——准确说来，是她与医疗干员们交谈着一些她本人都未必听得懂的实验名词，然后轻描淡写的点头答应了，有时候真担心她有没有好好听注意事项......
+
+	第三資料 :
+	メディカルチェックによると、グラウコスの下肢筋肉の力は成人平均の1/2ほどしかなく、今も萎縮し続けているという。彼女が身につけているパワードスーツも、それによる機動性の不足をカバーするためのものだろう。
+	グラウコスによれば、筋肉萎縮の原因は一族の遺伝性疾患によるものだという。生態環境がやや特殊なエーギル地区でもこのような遺伝病の症例はごく僅かであり、現状完治の目途は立っていない。
+	しかし本人は現状に何の不満もないどころか、障害を克服する助けとなったパワードスーツがきっかけとなり、科学技術製品には並々ならぬ熱情を注ぎながら前向きに生きている。
+	特筆すべきは、グラウコスは外界のあらゆる刺激や毒素に先天的な抗体を有しており、いわゆる毒薬の他にも、神経麻痺や幻覚剤なども基本的に彼女には効果がない点だ。その特性の研究に関してはグラウコスも積極的に医療オペレーターに協力している――正確に言うと、医療オペレーターが彼女本人も理解できるかわからない実験専門用語混じりの説明をし、それからささっと彼女が了承するのだが、ちゃんと注意事項を聞いているのか心配になる時がある……。
+
+	Archive File 3 :
+	According to her health report, Glaucus's lower body only has half the strength of a normal adult and her muscles continue to atrophy. Naturally, her exoskeletal equipment is designed to make up for deficiencies in mobility.
+	As Glaucus herself tells it, her muscular atrophy is due to a hereditary disease passed down in her family. Even in a special ecological environment such as the Ægir Region, incidence of such hereditary disease is rare and there is currently no treatment available.
+	However she does not seem dispirited by her situation. On the contrary, her passion for technology seems to come from the exoskeletal equipment designed to help her overcome these hardships.
+	Something worth mentioning is that Glaucus was born with antibodies that fight against irritants and poisons. Apart from conventional poisons, nerve paralyzers and hallucinogens are essentially ineffective. Glaucus is eager to accompany the medics' research. To put it more precisely, she pretends to understand what they're saying and nods along. Sometimes they are concerned whether she is even really following along with what they're saying...
+
+	파일 자료 3 :
+	    신체검사 보고서에 따르면, 오퍼레이터 글라우쿠스의 하지 근육의 힘은 성인 평균의 절반 밖에 안 되며, 이마저도 계속해서 쇠퇴하고 있다고 한다. 그렇기에 그녀의 기동성을 보완하기 위해서는 외골격 장비가 필요하다.
+	    오퍼레이터 글라우쿠스의 말에 의하면, 근육 쇠퇴의 원인은 가족의 유전병 때문이라고 한다. 생태 환경이 특수한 에기르 지역일지라도, 이러한 유전병의 병례는 극소수에 불과하기에 아직까지는 근본적 치료 방법이 없는 상황이다. 다만 본인은 현재 상태에 대해서 전혀 불만이 없으며, 그녀의 선천적인 장애를 극복하도록 도와준 이 외골격 장비로 인해, 그녀는 과학 기술 제품을 더욱 사랑하게 되었다.
+	    오퍼레이터 글라우쿠스는 그 어떠한 외부 독소에도 대항할 수 있는 선천적인 항체를 지니고 있어, 전통적인 의미에서의 독약 외에, 신경 마비나 환각제 등의 약품은 그녀에게 아무런 효과가 없었다. 그녀는 메딕 오퍼레이터들과의 연구에 적극 협조하고 있는데, 메딕 오퍼레이터와 연구에 대한 의견을 나눌 때 본인이 알아듣지도 못한 전문 용어들을 듣고도 얼렁뚱땅 고개를 끄덕이고 넘어가고 있어, 가끔 그녀가 주의사항을 제대로 듣고는 있는 건지 심히 걱정이 된다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【观察报告补充】
+	干员格劳克斯，少数几位愿意试吃蓝毒小姐的甜点的干员之一。与干员深海色互为友人，不过多数时候只是默默看着深海色小姐作画。对干员斯卡蒂似乎怀抱着某种敬畏的态度。除此之外，大量时间待在自己房间内进行武器的保养与调整，极少有个人兴趣相关的活动。甚至极少出门。
+	虽然性格有些沉闷，但总的来说，是个有些笨拙，但也在默默做好自己事情的孩子。
+	
+	因此，我认为关于“干员格劳克斯及其亲属与阿戈尔地区的秘密异教组织有所牵连”的指控与其当下的作战表现并无关联，希望法务部仅作保留处理
+	——■■■
+
+	第四資料 :
+	【観察レポート補足】
+	グラウコスはアズリウスの手作りスイーツを味見したがる数少ないオペレーターの一人だ。また、ディピカとは友人関係だが、ほとんどの場合はディピカが絵を描いているのを黙って見ているだけである。そしてスカジに対しては畏れ敬うような態度をとっているように見える。それ以外ほとんどの時間は自室で武器のメンテナンスをしており、個人的な趣味に勤しむことは極めて少なく、外出することもほぼ見られない。
+	若干暗い性格ではあるが、総括的に言えば、彼女は不器用ながらも自分のやるべきことを黙々と一人でこなすタイプだ。
+	
+	よって、「グラウコス及びその同族はエーギル地区秘密異教組織と繋がっている」という告発と、直近の作戦での行動は全くの無関係であり、法務部には保留措置を希望する。
+	――■■■
+
+	Archive File 4 :
+	[Observation Supplemental Report]
+	Glaucus is one of the few operators willing to try Blue Poison's desserts. She is also friends with Deepcolor, though most of the time she just watches Deepcolor paint. She seems to have some kind of reverence for Skadi. Apart from this, she spends a great amount of time in her room performing weapon maintenance and adjustment. There is very little activity related to things she is personally interested in. Even more rarely does she leave her room.
+	In short, she is a somewhat dull and awkward child who prefers silently doing her own things.
+	
+	As a result, I believe that the allegation that Glaucus and her relatives are involved in a secret heretical organization in the Ægir Region is not related to her current operational performance. I hope that the Justice Division has reservations about acting on this.
+	——■■■
+
+	파일 자료 4 :
+	[관찰 보고 보충]
+	    오퍼레이터 글라우쿠스, 블루포이즌 씨의 디저트 시식을 원한 소수 오퍼레이터 중 한 명. 오퍼레이터 딥컬러와 친구 사이다. 다만 대체로 딥컬러 씨가 그림 그리는 모습을 묵묵히 지켜보기만 한다. 오퍼레이터 스카디에 대해 일종의 경외심을 품고 있는 것으로 보인다. 그 외 대부분의 시간을 자신의 방에서 무기 정비를 정비하는데 쓰고 있으며, 개인 취미와 관련된 활동은 물론, 외출 자체를 거의 하지 않고 있다.
+	    비록 성격이 조금 내성적이고, 전반적으로 굼뜬 모습을 보이지만, 묵묵히 자기 할 일을 해내는 사람으로 평가된다.
+	
+	    따라서 나는 "오퍼레이터 글라우쿠스 및 그 친족이 에기르 지역의 비밀 이교도 조직과 연관이 있다"라는 고발은 지금의 작전 활동과는 전혀 관련이 없다고 판단, 법무부의 보류 처리를 희망한다.
+	——■■■
+
+———————————————————————————————
+
+	晋升记录 :
+	格劳克斯小姐的武器“雷神倾诉者试做型”其实原本并没有那么夸张的功能，甚至算是个缺陷产品。最初设计的时候，只是抱着“大范围干扰敌方通讯”的初衷，后来却发现该武器高频率的电磁频谱能量根本无法控制，最先损坏的反倒是自己口袋里的通讯设备，因此被一度弃置......是格劳克斯小姐在某次外骨骼装备的检修时一眼相中了它，花了很低的价格就带回了罗德岛，没想到经过格劳克斯小姐的调整后，竟然能对敌方机械单位产生如此强的杀伤力......不过因此而损坏的己方装备也不在少数就是了，莫非这才是赫默小姐和梅尔小姐提议让格劳克斯小姐单独行动的原因？
+	
+	干员是否能肩负起单兵任务仅以客观条件判断，绝不会掺杂个人因素。
+	——凯尔希
+
+	昇進記録 :
+	グラウコスの武器「フランカープロトタイプ」はもとは突出した機能を備わっておらず、どちらかといえば欠陥品と見なされていた。設計当初は「広範囲にわたって敵の通信を妨害する」ことを目的に製造されたものであるが、後々この武器の高周波の電磁スペクトルエネルギーは制御不能で、真っ先に壊れるのは扱う者自身の通信機器だということが判明し、一度は放置されたが……それをグラウコスがパワードスーツの点検の際に一目惚れし、かなり安い値段でロドスに引き取ってきたのである。彼女の調整によって、敵のメカに脅威的な殺傷力を発揮するなどとは、誰も全く予想していなかった。しかし同時に味方の装備が多く破壊されたことも事実である。もしやこれこそが、サイレンスやメイヤーが彼女に単独行動させることを提案した原因？
+	
+	オペレーターが単独で任務に当たれるか否かは、客観的な条件のみをもとに判断される。個人的な要因は判断材料にならない。
+	――ケルシー
+
+	Promotion Record :
+	Glaucus's weapon, 'Raythean Franker,' didn't in fact originally have such an outrageous function. It could even be said to have been a defective product. When it was originally designed, it was only intended to disrupt enemy communications. Afterawards, it was discovered that this weapon's high frequency electromagnetic spectrum capabilities could not be controlled. The first thing that was damaged was the communications device in the user's own pocket. As a result, it was abandoned. It was Glaucus who took a look at it during an overhaul of her exoskeletal equipment and took it back to Rhodes Island for a very low price. Unexpectedly, after some modifications performed by Glaucus, it was able to inflict powerful destructive power against enemy machines. However, it also damaged a large amount of our own equipment. Is this why Silence and Mayer suggested that Glaucus should work on her own?
+	
+	Whether this operator can shoulder the burden of individual missions is judged solely on objective conditions and must never be mixed with personal factors.
+	——Kal'tsit
+
+	승진 기록 :
+	    글라우쿠스의 ‘레이시언 프랭커 프로토타입’은 원래 그렇게 엄청난 기능을 갖고 있는 무기가 아니었다. 오히려 결함 제품에 더 가까웠다. 최초 설계 시엔 단순히 ‘광범위 적군 통신망 방해’의 목적으로 설계되었으며, 나중에서야 해당 무기가 고주파 전자기 스펙트럼 에너지를 통제할 수 없다는 것을 알게 되었다. 이러한 결함으로 인해 가장 먼저 파괴된 것은 바로 사용자의 주머니 속에 든 통신 설비였기에, 해당 무기는 한동안 방치될 수밖에 없었고, 나중에 외골격 장비 검수 중 이 무기에 한눈에 반한 글라우쿠스가 아주 저렴한 가격으로 로도스 아일랜드에 가지고 들어오게 되었다. 이렇게 글라우쿠스의 손을 거친 이 무기는, 뜻밖에도 적의 기계 유닛에 상당한 위력을 발휘하게 되었으나……  이로 인해 파괴된 아군 장비도 적지 않았다. 설마 이것이 바로 사일런스와 메이어가 글라우쿠스의 단독 행동을 제안한 이유일까?
+	
+	    오퍼레이터가 단독 임무를 맡을 수 있는지 여부는 오로지 객관적인 조건으로만 판단되며, 사적인 이유는 절대 판단 기준이 될 수 없다.
+	——켈시

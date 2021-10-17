@@ -1,11 +1,17 @@
 ID:
 	char_226_hmau
 
-干员代号\Name:
+CV:
 	吽
 	ウン
 	Hung
 	훔
+
+干员代号\Name:
+	日野聪
+	日野聡
+	Satoshi Hino
+	히노 사토시
 
 招聘合同\Character Usage:
 	罗德岛重装干员吽，将在前线保护所有干员。
@@ -43,177 +49,368 @@ ID:
 	반격 의료 모드
 
 语音\Voices:
-	嗨，老板，吃过没，我这有些饼干你要吗？
 	やあ旦那。ご飯はもう食べたかな？クッキーがあるんだけど、まだなら一つどうだい？
 	Hey, Doc. Have you eaten yet? You could have one of my cookies if you're hungry.
 	여어, 나리. 밥은 벌써 먹었나? 쿠키가 있는데, 아직 안 먹었으면 하나 어때?
 
-	老板，阿要是来骚扰您，还麻烦您多担待担待，这小子虽然爱耍人，不过没什么恶意的，您要是真受不了，喊我来收拾他也行。
 	旦那、アのやつにもしちょっかい出されても、大目に見てあげてほしいな。あいつはよく人をいじるんだけど、悪気はないんだ。ま、どうしても我慢できなかったら俺に言ってくれればいいよ。ちょっとシメてくるから。
 	Doc, if Aak ever steps out of line, could you be lenient with him? He teases people a lot, but he's not a bad person. Also, if he ever gets under your skin, just tell me and I'll get him to tone it down.
 	나리, 아 녀석이 만약 성가시게 굴어도 너그럽게 봐줘. 그 녀석은 사람을 자주 괴롭히긴 하지만, 악의는 없거든. 뭐, 도저히 못 참겠으면 나한테 말해줘. 혼 좀 내줄 테니까.
 
-	老板，您要是饿了就说一声，我去给您炒几个菜。别看我这样，其实我从老鲤那里学了几手的。
 	旦那、小腹が空いたら俺を呼んで。何か手頃なおかずでも作るからさ。こう見えて俺、リー先生から覚えた料理をいくつか作れるんだ。
 	Just call on me when you're hungry, Doc, and I'll make you a little something to eat. I may not be a chef, but Mr. Lee taught me how to cook a few recipes.
 	나리, 출출하면 불러줘. 뭔가 간단한 반찬이라도 만들 테니까. 이래 봬도 나, 리 선생님한테 배운 요리 몇 가지 정도는 만들 수 있거든.
 
-	老板，罗德岛有没有开设机械班的？我对机械很有兴趣，想要进修一下。
 	旦那、ロドスで機械に関する講座みたいのはやってないかな？機械に興味があってさ、ちょっと勉強してみたいなー、なんて思ってるんだけど。
 	Say, Doc, do you give any lectures on machines here at Rhodes Island? I've got an interest in that stuff and was hoping I could learn something new.
 	나리, 로도스 아일랜드에 기계에 관한 강좌 같은 건 없을까? 기계에 흥미가 있어서 말이야, 조금 공부해 보고 싶다고 생각 중이거든.
 
-	哈哈，老板，不瞒你说，其实很长一段时间里，我都以为每个侦探都会做老鲤那些事，比如去黑帮火并现场喝茶看戏什么的。
 	ハハッ、旦那、ここだけの話だけど、俺は結構長いあいだ、探偵ならみんなリー先生と同じことをするものだとばかり思ってたよ。マフィアの乱闘現場の野次馬とかね。
 	Hahah, just between you and me, Doc, for the longest time I thought all detectives do the same stuff as Mr. Lee. You know, like investigating crime scenes, that sort of thing.
 	하하, 나리. 여기서만 하는 이야기인데, 난 꽤 오랫동안 탐정은 모두 리 선생님 같은 일을 하는 줄만 알았어. 마피아의 난투 현장 구경 같은 거 말이야.
 
-	老板，您也知道，以阿那小子的头脑和能力，将来一定会有大出息的。但对我来说，我只希望，他永远不要变回以前的样子。
 	旦那も分かってるとは思うけど、あれほどの頭脳と能力をもってすれば、アのやつはいつか絶対すごいことをやってのけるはずだよ。けど俺としては、何をするにしても昔のあいつにだけは戻ってほしくないかな。
 	I'm sure you already know, but with the intellect and talent that Aak's got, he's destined for great things one day. But personally, all that matters to me is that he doesn't ever go back to his old way of doing things.
 	나리도 알고 있겠지만, 그 정도 두뇌와 능력이 있으면 아 녀석은 언젠가 분명 엄청난 일을 해낼 거야. 하지만 난 무엇을 하든 옛날의 그 녀석으로는 돌아가지 않았으면 좋겠어.
 
-	我和老鲤的关系啊，怎么说呢，最早我还是比较怕他的，因为我特别不会应付那种一看城府就很深的人......现在肯定不怕了，也认识这么多年了嘛。
 	俺とリー先生の関係ね、どう言ったらいいか……始めはちょっと怖かったんだよ。腹に一物を持ってそうな人は苦手でさ……今はそんなことないって。知り合ってもう何年にもなるからね。
 	Me and Mr. Lee, well... How should I put it... I was a bit scared at first. He seemed like a guy who's got dark secrets, which had me on edge... But now after knowing him for so many years, I know that's definitely not the case.
 	나와 리 선생님의 관계 말이지. 어떻게 말해야 할까…… 처음에는 좀 무서웠어. 꿍꿍이가 있어 보이는 사람은 거북해서…… 지금은 그렇지 않아. 알게 된 지 벌써 몇 년이나 됐으니까.
 
-	老板，您要是有什么想知道的事，我可以帮您联络老鲤，只要是龙门里发生的事情，我还没见过他不知道的。
 	旦那、もし何か知りたいことがあれば、リー先生に聞いてみるから俺に言って。龍門で起きたことなら、あの人が知らないことはないからね。
 	If you need info on something or someone, just tell me and I'll ask Mr. Lee for you. Nothing in Lungmen happens without him knowing about it.
 	나리, 혹시 뭔가 알고 싶은 게 있으면 리 선생님한테 물어볼 테니 나한테 말해. 용문에서 생긴 일이라면 그 사람이 모르는 건 없으니까.
 
-	打打杀杀的事情，老实说我不是很擅长，大家坐下和和气气的该有多好。不过很多时候就是没办法，我也有不想失去的东西。以前，那是侦探所，现在，也包括罗德岛了。
 	実を言うと、喧嘩はあんまり得意じゃないんだ。みんなで和気あいあいとできるに越したことはないからね。でもいつでもそんなことを言っていられるわけじゃない、俺にだって失いたくないものがあるからさ。これまでは事務所がそれだった、今はロドスもその一つさ。
 	To be honest with you, I actually don't like getting into fights. I'd much rather we could all get along with each other. But I'm not a militant pacifist; there are things I'll fight to protect. Things like the agency, and now, Rhodes Island as well.
 	사실 싸움은 그다지 잘하지 못해. 다 같이 화기애애하게 지내는 것보다 나은 건 없으니까. 하지만 언제까지 그런 소리를 하고 있을 수는 없어. 내게도 잃고 싶지 않은 게 있거든. 지금까지는 사무소가 그랬어. 지금은 로도스 아일랜드도 그중 하나야.
 
-	老......呼，好险，差点就把老板吵醒了，那我也眯一会儿好了。
 	だ……ふぅ、危なかったな。旦那を起こしちゃうところだった。じゃあ俺もちょっと休もうかな。
 	Do– Phew, I just nearly woke the Doc up... Guess I'll take this opportunity to rest too.
 	나…… 후우, 위험했다. 나리를 깨울 뻔했어. 그럼 나도 좀 쉴까.
 
-	您就是老鲤说的博士了吧，您好，我是吽，擅长的是安保工作和机械修理，您要是出门缺个保镖，或者电视冰箱坏了，都可以叫我。
 	君がリー先生の言ってたドクターかな？初めまして、俺はウンって言うんだ。得意分野は警護と機械の修理。お出かけにボディーガードがほしい時や、テレビや冷蔵庫が壊れた時は、ぜひ俺を呼んでほしいな。
 	You must be the doctor that Mr. Lee talked about. The name's Hung, it's a pleasure to meet you. My fields of expertise are security and repairing machinery. If you ever need a bodyguard for a public appearance, or if your TV or fridge break down, then be sure to give me a holler!
 	당신이 리 선생님이 말했던 박사인가? 반가워, 난 훔이라고 해. 특기 분야는 경호와 기계 수리. 외출 시에 보디가드가 필요하거나, 텔레비전이나 냉장고가 고장 나면 꼭 나를 불러줘.
 
-	人外有人，天外有天呐，我也要加把劲才行。
 	上には上がいるってことか。俺も頑張らないとな。
 	So this is what the elite of the elite are like... I've got to work just as hard.
 	뛰는 놈 위엔 나는 놈이 있다 이건가. 나도 열심히 해야겠어.
 
-	谢谢老板，我会更加努力的。
 	ありがとう旦那、これからはもっと頑張るよ。
 	Thanks, Doc! I'll be giving it 110% from here on out!
 	고마워, 나리. 앞으로 더 열심히 할게.
 
-	老板，别客气，尽管差遣我就好。别的事情我没什么自信，但是在皮糙肉厚这一点上，我自认还是有点水平的！
 	旦那、俺のことは遠慮せずにこき使ってくれていいよ。自信のあることなんて少ないけど、身体に関してはそれなりに丈夫だからさ！
 	Doc, don't hesitate to give me all the work you need done. I'll admit I'm not an expert at many things, but I've got the build for physically intense tasks!
 	나리, 사양 말고 날 맘껏 부려 먹어도 돼. 자신 있는 일은 적지만 몸은 그런대로 튼튼하니까!
 
-	任务？没问题。
 	任務？いけるよ。
 	A mission? I'm ready whenever.
 	임무? 갈 수 있어.
 
-	我保证让大家平安回来。
 	みんなの無事は俺が保証するよ。
 	I personally guarantee everyone's safety.
 	모두의 안전은 내가 보증할게.
 
-	大家跟紧我，可别走丢了。
 	しっかり俺に付いてきて、はぐれないようにね。
 	Stay close behind me so we don't get split up.
 	나를 잘 따라와, 떨어지지 말고.
 
-	有我在，别怕。
 	俺がいるから安心して。
 	You can all rest easy, knowing I'm here!
 	내가 있으니까 안심해.
 
-	包在我身上！
 	俺に任せて！
 	I'll handle this!
 	나한테 맡겨!
 
-	哪里需要我？
 	どこに向かえばいい？
 	Where am I needed?
 	어디로 가면 되지?
 
-	都来我的身后！
 	みんな、俺の後ろに！
 	Get behind me!
 	다들, 내 뒤로!
 
-	我来掩护各位！
 	俺がみんなを守る！
 	I'm here to protect you all!
 	내가 모두를 지키겠어!
 
-	别想前进一步！
 	先に進めると思うな！
 	Don't think you're getting past us!
 	앞으로 나아갈 수 있을 거라 생각하지 마라!
 
-	有谁需要治疗？
 	治療が必要な人は？
 	Is anyone in need of healing?
 	치료가 필요한 사람은?
 
-	别想伤害我的同伴！
 	俺の仲間を傷つけさせない！
 	You're not hurting anyone on my watch!
 	내 동료를 다치게 하지 않겠어!
 
-	这点小伤不算什么！
 	このくらいの傷、なんてことないさ！
 	It's just a scratch!
 	이 정도 상처는 아무것도 아니야!
 
-	哈，哈，哈......老板，不好意思，让我歇会儿，可把我累坏了。
 	はぁっ、はぁっ……旦那、悪いけどちょっと休ませてもらっていいかな。身体がガタガタだ。
 	*pant*... *pant*... Sorry, Doc, but could you give me a minute? My body's shaking.
 	하아, 하아…… 나리, 미안한데 좀 쉬어도 될까. 몸이 후들거려.
 
-	老板，您在这边休息一下吧，我去打扫一下战场。
 	旦那、ここで休んでるといいよ。俺が戦場をきれいにしてくるからさ。
 	You just stay here and rest, Doc. I'll clean up the battlefield.
 	나리, 여기서 쉬고 있어. 내가 전장을 정리하고 올 테니까.
 
-	老板，别离我太远，还有漏网之鱼。
 	旦那、俺から離れちゃダメだ。まだ敵が残ってる。
 	Stay beside me, Doc. There are still enemies around.
 	나리, 나한테서 떨어지지 마. 아직 적이 남아있어.
 
-	快，老板，上我的背，我背着您撤退！
 	旦那！早く！俺の背中にしがみつくんだ、背負って逃げるから！
 	Hurry, Doc, climb onto my back! I'm getting you out of here!
 	나리! 빨리! 내 등에 업혀! 업고 도망칠 테니까!
 
-	巡逻就交给我吧。
 	巡回は俺に任せて。
 	Leave patrol duty to me.
 	순찰은 나한테 맡겨.
 
-	哪里有机器坏了吗？
 	壊れた機械はあるかな？
 	Are there any broken machines in here?
 	망가진 기계는 없어?
 
-	老板，需要我帮忙吗？
 	旦那、手伝おうか？
 	Need a hand, Doc?
 	나리, 도와줄까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	老板，早啊。
 	おはよ、旦那。
 	Morning, Doc.
 	안녕, 나리.
+
+干员档案\Background:
+	基础档案 :
+	【代号】吽
+	【性别】男
+	【战斗经验】三年
+	【出身地】龙门
+	【生日】7月1日
+	【种族】佩洛
+	【身高】183cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ウン
+	【性別】男
+	【戦闘経験】三年
+	【出身地】龍門
+	【誕生日】7月1日
+	【種族】ペッロー
+	【身長】183cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Hung
+	[Gender] Male
+	[Combat Experience] 3 years
+	[Place of Birth] Lungmen
+	[Date of Birth] Jul 1
+	[Race] Perro
+	[Height] 183cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 훔
+	[성별] 남
+	[전투경험] 3년
+	[출신지] 용문
+	[생일] 7월 1일
+	[종족] 페로
+	[신장] 183cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	经龙门鲤氏侦探事务所所长老鲤推荐而来的重装干员。
+	体格高大，体能极强，在前线为其他干员提供可靠的保护。
+
+	個人履歴 :
+	龍門リー探偵事務所所長リーの推薦によりロドスに加入した重装オペレーター。
+	体格が大きく、体力にも優れており、前線では頼もしい防御支援を提供する。
+
+	Profile :
+	Hung is a heavy defender from Lee's Detective Agency recommended to Rhodes Island by Mr. Lee.
+	He provides reliable front-line protection for other Operators with his massive physique and extreme strength.
+
+	프로필 :
+	    용문 리 탐정사무소 소장인 미스터 리의 추천으로 합류한 디펜더 오퍼레이터.
+	    체격이 건장하고, 매우 강인한 체력을 지녀, 전방에서 동료들을 위한 든든한 방어 라인을 구축해 준다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员吽体内无源石感染痕迹，非常健康。
+	
+	【血液源石结晶密度】0.10u/L
+	应当是在此前就定期接受干员阿检查和治疗的缘故，虽然手段可能有些粗暴，不过干员吽相当健康。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.10u/L
+	これまで定期的にアの検査と治療を受けているためか（手段はやや乱暴的かもしれないが）、ウンはかなり健康体である。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Hung shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.10u/L
+	Has prior arrangement to receive regular inspections and medical treatment from Operator Aak. Though his methods may be crude, Operator Hung is undeniably quite healthy.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 훔은 체내에 광석병 감염의 흔적이 없으며, 매우 건강함.
+	
+	[혈중 오리지늄 결정 밀도] 0.10u/L
+	분명 줄곧 오퍼레이터 아로부터 정기적인 검사 및 치료를 받아왔던 것으로 보인다. 그 방식이 그다지 세련된 것 같진 않으나, 아무튼 오퍼레이터 훔은 매우 건강한 상태다.
+
+———————————————————————————————
+
+	档案资料一 :
+	和蔼可亲的佩洛族大个子。
+	为人敦厚，虽然身材高大，但外表一眼就能让人感觉到这是个好人，总是为他人着想，十分好相处。
+
+	第一資料 :
+	愛想が良く、身体の大きいペッロー族男性。
+	温厚な性格のため、大きな体格をしていても、雰囲気から人柄の良さが伝わる。他人思いで、親しみやすい。
+
+	Archive File 1 :
+	This easygoing Perro is a large man.
+	To be honest, others can tell from a glance that he is a kind-hearted person despite his massive size. He is always considerate of others, and gets along very well with just about anybody.
+
+	파일 자료 1 :
+	    큰 키의 상냥한 페로 족 청년. 사람 됨됨이가 바르고, 겉모습만 보아도 좋은 사람이란 인상을 준다. 늘 상대방을 배려해주어 매우 쉽게 어울릴 수 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	虽然吽本人相当谦虚，不过必须要说，他的厨艺是相当高超的。
+	但凡见识过他厨艺的人，没有不对他赞誉有加的。
+	作为一个土生土长的龙门人，他尤其擅长龙门菜系，既能将非常普通的家常菜做得十分美味，也会做只有在五星级餐厅中才会出现的高级菜品。
+	而令人惊讶的是，据他所说，他的厨艺完全是老鲤调教而来，令人不得不好奇起老鲤本人的厨艺究竟是何等水平。
+
+	第二資料 :
+	本人はかなり謙虚だが、ウンの料理の腕前は実に見事である。
+	彼の料理を体験したことのある人なら誰もが絶賛するほどだ。
+	生粋の龍門人として、彼は特に龍門料理が得意だ。ごく普通の家庭料理を格段に美味しく仕上げるだけでなく、5つ星レストランでしか見られない高級料理まで作れるらしい。
+	驚くことに、本人曰く、料理に関する全てはリーから教わったという。もしそれが事実であれば、リー本人の料理技術はどれほどのものなのか、実に興味深い。
+
+	Archive File 2 :
+	Though Hung is quite humble, his superb cooking speaks for itself.
+	Anyone who has seen his culinary arts has showered him with praise.
+	As a native of Lungmen, he specializes in the area's local cuisine. In addition to being able to elevate ordinary home cooking to delicious heights, he also can concoct haute cuisine that otherwise only appears in five-star restaurants.
+	Surprisingly, according to his own accounts, his cooking is entirely inherited from Old Lee, which really makes one wonder... Just what kind of culinary monstrosity is Mr. Lee?
+
+	파일 자료 2 :
+	    훔 본인은 매우 겸손해하지만, 그의 요리 솜씨는 매우 뛰어나다. 훔의 요리 솜씨를 본 사람들은 모두 그를 칭찬한다. 훔은 용문에서 나고 자란 용문 토박이인 탓에 용문식 요리에 특히 능하며, 평범한 가정식 요리도 더 맛있게 만들어낼 수 있을 뿐만 아니라 5성급 레스토랑에서나 맛볼 수 있을 법한 고급 요리도 가능하다.
+	    훔의 말에 따르면, 그의 요리 솜씨는 모두 미스터 리를 통해 전수받은 것이라 하는데…… 그 말을 들은 사람들은 모두 미스터 리 본인의 요리 솜씨는 대체 어느 정도일지 궁금해 했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	根据吽自己回忆，他一开始是某家公司的门卫，但是因为性格太好饱受欺负，最终被赶出公司，饿得不行的时候被老鲤捡了回去，从此上了贼船（注：这个形容也来自本人的描述）。
+	有关老鲤其人以及鲤氏侦探事务所的业务范围，不应放在此处详细描述，因此只作简单概括：鲤氏侦探事务所表面上只承接侦探事务，事实上什么业务都接，是龙门灰色地带的所谓“万事屋”。
+	根据吽对老鲤行事的描述，我们可以判断，老鲤明显对他隐瞒了一些较为黑暗的东西。不过很明显的是，吽虽然善良，却也不是迂腐的老好人，他非常明白，并不是所有人都可以交流得通，并不是所有事都能有好结局。
+
+	第三資料 :
+	ウンによると、彼は最初警備員としてある会社に勤めていたが、温厚な性格を理由にさんざんいじめられ、ついに会社から追い出された。身の拠り所がない彼を引き取ったのはリーだったという。それからは「ロクでなし」の仲間入りである（注：本人はそう自嘲している）。
+	リーという人物及び探偵事務所の業務範囲に関する詳細な記述はここで割愛するが、簡単にまとめると、表では探偵業務だけを引き受けるというスタンスだが、実際ではどんな依頼が来ても拒まず、龍門のグレーゾーンにおけるいわゆる「万事屋」である。
+	リーの行いに関するウンの説明から、明らかにリーは彼に一部の闇仕事を隠してあると推測できる。しかし、ウンは善良な人間ではあるが、融通の利かない単純なお人好しではない。彼にはよく分かっている――全ての人に話が通じるとは限らない、そして全てのことが必ずしも良い結果に繋がるわけではないということを。
+
+	Archive File 3 :
+	According to his own recollection, Hung first worked as a guard for a certain company, but his easygoing personality made him prone to bullying, eventually getting him kicked from the company. He was then invited to the agency by Old Lee when he was suffering from hunger and never again can he leave the business. (Note: This description was from Hung himself)
+	Regarding Mr. Lee and Lee's Detective Agency, while it is not suitable to describe the scope of business in detail, here is a brief summary: Lee's Detective Agency only takes investigative cases as a front, while actually accepting just about any type of work. They are known as the 'House of Everything' within Lungmen's gray zone.
+	According to his description of Mr. Lee, we can conclude that Lee concealed a darker secret from Hung. Though it is obvious that Hung is kind-hearted, he is no pedantic old man. He knows very well that you can't talk things through with everyone, and not every story can have a happy ending.
+
+	파일 자료 3 :
+	    훔 본인의 회고에 따르면, 그는 처음엔 어느 가문의 호위로서 근무하였다고 한다. 다만 성격이 너무 좋았던 나머지 괴롭힘을 당하기 쉽상이었고, 결국엔 회사로부터 쫓겨나고 말았다고 한다. 굶주리다 못해 뱃가죽이 등에 붙을 때 즈음, 훔은 미스터 리에 의해 발견되어 그와 함께 해적선(주석: 본인이 이렇게 표현했었음)에 올라탔다고 한다.
+	    미스터 리와 리 탐정사무소의 업무 범위에 관한 상세한 얘기는 여기서 할 만한 얘기가 아닌 것 같아 간단하게만 언급하고 넘어가자면, 리 탐정사무소는 겉으로는 탐정 관련 의뢰만 받는 걸로 보이지만, 실제론 어떠한 일도 가리지 않고 다 받고 있어 사실 상 용문 중립 지대의 흥신소라고 할 수 있겠다.
+	    훔이 말한 미스터 리의 행실에 관한 내용으로 유추해 보았을 때, 미스터 리는 암흑가에 관한 일들을 훔에게 숨기고 있는 것으로 판단된다. 훔은 확실히 선량한 사람이지만, 흔히 말하는 바보스러울 정도로 마냥 사람만 좋은 그런 타입은 아니다. 훔은 모든 사람과 대화가 통하지 않을 수 있다는 점도, 그리고 모든 일들이 좋은 결말을 맺으리란 법이 없다는 점도 명확히 이해하고 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	阿是吽在某次黑帮火并中被捡回来的，两人现在的代号也是当时取的，根据老鲤的说法，是他当时一时兴起的产物。
+	吽是将阿和槐琥当做弟弟和妹妹看待的。实际上，吽目前也是鲤氏侦探事务所与罗德岛的合作中名义上的负责人，或者说，是另两位干员，槐琥和阿的监护人。
+	说是名义上，自然是因为，无论是槐琥还是阿，都已经有了足够的自主能力。在这种情况下，除非本人申请，否则罗德岛并不会刻意将他们安排在一起生活以及一起执行任务。
+	不过，很明显，对于阿这个弟弟，吽是有忧虑的，这在他与博士的一些对话中表现得很明显。他希望阿能够向善，不过他也不知道光凭自己应该怎么做，于是选择一直陪着他。
+	虽然他自己没有发现，不过很显然，尽管阿如今依然性格恶劣，但阿在某些方面表现出的底线，明显是受到了他的影响。
+
+	第四資料 :
+	アはマフィアの内部争いに巻き込まれた際、ウンに引き取られたそうだ。リー曰く、二人のコードネームも、当時彼の気まぐれによって付けたものだという。
+	ウンはアとワイフーに対して、弟妹のように接している。実際、彼はリー探偵事務所とロドスの協定において名義上の責任者であり、つまりオペレーターとしてのアとワイフーの後見人である。
+	勿論、アとワイフーはそれぞれ十分な判断能力を既に持っているため、あくまでも「名義上」である。この場合、本人による申請がない限り、ロドスは彼らの共同の生活もしくは任務執行を意図的に手配することはない。
+	ドクターとの会話から明らかに感じ取れるのは、彼がアという「弟」への心配だ。アには善良になってほしいと願う彼だが、自分自身がどうすればいいのか分からないため、アのそばにいてあげることを選んだ。
+	ウンはまだ気づいていないが、今のアは相変わらず性格こそ悪いが、時々わきまえのある行動をとっているのは、紛れもなくウンの影響によるものだ。
+
+	Archive File 4 :
+	Hung rescued Aak from the aftermath of a gang war, at which point the two assumed their codenames. According to Mr. Lee, he chose the names on a whim at that time.
+	Hung treats Aak and Waai Fu as his younger brother and sister. In fact, Hung doubles as the liaison between Lee's Detective Agency and Rhodes Island, or in other words, serves as the guardian for the other two operators.
+	Of course, that title is also nominal in nature, since Waai Fu and Aak are both sufficiently autonomous. That being the case, unless Hung himself makes a request, Rhodes Island will not deliberately arrange them to live together or to work together.
+	Nevertheless, Hung's worries about his younger brother are evident through his conversations with the Doctor. He wanted Aak to see the kindness in the world, but did not know how to do so himself, and so he chose to stay with him.
+	Even though he hasn't realized it yet, despite Aak's somewhat nasty personality, Aak has fundamentally been influenced by Hung.
+
+	파일 자료 4 :
+	    미스터 리의 말에 따르면, 아와 훔의 코드네임은 훔이 어느 갱단에서 벌어진 내전의 소란 속에서 훔이 아를 주워왔을 때 즉흥적으로 지어낸 것이라 한다.
+	    훔은 아와 와이후를 각각 자신의 남동생과 여동생으로 여기고 있다. 명목상 훔은 리 탐정사무소와 로도스 아일랜드의 협력 관계를 조율하는 책임자, 혹은 와이후와 아, 이 두 사람의 보호자라 할 수 있다. 물론 명목상은 그러하나, 와이후나 아 모두 이미 충분한 자제력을 지녔기에 특별한 보호는 필요 없는 상황이다. 본인이 신청하지 않는 이상 로도스 아일랜드는 이들이 함께 생활하고 작전에 나가는 것을 강요하진 않지만, 박사와의 대화를 통해 훔은 늘 동생 아를 걱정하고 있다는 점을 분명히 알 수 있었다. 훔은 아가 좋은 쪽으로 성장하길 바랐지만, 이를 위해 자신이 무엇을 어떻게 해야할지에 대해 알지 못했기에, 일단은 그저 아와 함께하기로 결정했다.
+	    아의 성격이 여전히 악랄하지만, 그래도 간혹 나름대로 선을 넘지 않으려는 모습을 보이곤 한다. 이는 분명 훔의 영향을 받은 것이라 할 수 있지만, 훔 본인은 이점을 알아채지 못하고 있다.

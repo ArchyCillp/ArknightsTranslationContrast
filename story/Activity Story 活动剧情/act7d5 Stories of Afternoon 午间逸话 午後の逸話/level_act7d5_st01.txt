@@ -1,6 +1,6 @@
 04:22 P.M.  天气/晴
 p.m. 04:22 天気/晴天
-04:22 PM \ Clear
+04:22 P.M. \ Clear
 04:22 p.m. 날씨/맑음
 
 罗德岛舰船，第五舱室，训练场
@@ -130,12 +130,12 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 
 [name="香草"]     别看芙兰卡前辈平时总是爱开玩笑，其实她相当可靠，圆圆、小尖、大黑还有坚强，大家都很喜欢芙兰卡前辈！
 [name="バニラ"]     フランカ先輩はいつも冗談を言っておられますが、すごく頼りになるんですよ。マルコやトゲオ、ドスグロちゃん、それにツヨシくんも、みんなフランカ先輩のことが大好きなんです！
-[name="Vanilla"]     Franka likes to joke around, but she's actually really reliable. Puffball, Tiny, Biggie, and Stout all really love Franka!
+[name="Vanilla"]     Franka likes to joke around, but she's actually really reliable. Puffball, Tiny, Kuro, and Stout all really love Franka!
 [name="바닐라"]     프란카 선배는 평소에 농담을 많이 하긴 하지만, 사실 굉장히 믿음직한 분이에요. 동글이, 뾰쪽이, 까망이, 튼튼이도, 모두 프란카 선배를 좋아하고요!
 
 [name="香草"]     偶尔找不到两位前辈的时候，杰西卡也会帮忙照顾，不过，呃，她之前差点被大黑吓哭。
 [name="バニラ"]     お二人がお忙しい時は、ジェシカ先輩にお手伝いいただくこともあります。ですが、えっと、前にドスグロちゃんに驚いて半泣きに……
-[name="Vanilla"]     Sometimes Jessica takes care of them, if I can't find those two. But, um, this one time, Biggie kind of startled her, and I think she was going to cry.
+[name="Vanilla"]     Sometimes Jessica takes care of them, if I can't find those two. But, um, this one time, Kuro kind of startled her, and I think she was going to cry.
 [name="바닐라"]     두 선배들이 다 안 계실 땐 간간히 제시카가 돌봐주기도 해요. 근데 제시카는… 하아… 얼마 전에 까망이 때문에 놀라서 울뻔했거든요.
 
 [Decision(options="能问一下......",values="1")]
@@ -160,7 +160,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 
 [name="香草"]     圆圆小刺和大黑都是源石蜗牛，坚强是小型萨尔贡沙漠磐蟹，大家都是很可爱的！
 [name="バニラ"]     マルコとトゲオ、ドスグロちゃんはカタツムリ型のオリジムシ、ツヨシくんはサルゴン砂漠の小型ハガネガニです。みんなすっごく可愛いですよ！
-[name="Vanilla"]     Puffball, Tiny, and Biggie are all Originium snails. And Stout is a Sargon Desert Metal Crab, and every last one of them is cute as a button!
+[name="Vanilla"]     Puffball, Tiny, and Kuro are all Originium snails. And Stout is a Sargon Desert Metal Crab, and every last one of them is cute as a button!
 [name="바닐라"]     동글이랑 뾰쪽이랑 까망이는 원석충이에요. 튼튼이는 미니 사르곤 사막 메탈 크랩이고요. 다들 엄~청 귀여워요!
 
 [Decision(options="......",values="1")]
@@ -175,7 +175,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 
 [name="香草"]     不好......博士你的这个眼神，不、不行哦，不能吃，圆圆小刺大黑还有坚强都不能吃！我知道您有瞒着凯尔希医生吃一些奇怪的零食！
 [name="バニラ"]     ダ、ダメですよ。マルコもトゲオもドスグロちゃんもツヨシくんも食べちゃダメ、絶対ダメです！　私、ドクターがケルシー先生に隠れて変なおやつを食べてらっしゃること、知ってますからね！
-[name="Vanilla"]     Oh no... I know that look in your eyes, Doctor. No! No! No! No! You can't eat them! Not Puffball, not Tiny, not Biggie, not Stout! You can't eat any of them! I know you've been eating all kinds of weird stuff behind Dr. Kal'tsit's back!
+[name="Vanilla"]     Oh no... I know that look in your eyes, Doctor. No! No! No! No! You can't eat them! Not Puffball, not Tiny, not Kuro, not Stout! You can't eat any of them! I know you've been eating all kinds of weird stuff behind Dr. Kal'tsit's back!
 [name="바닐라"]     박사님 그 눈빛…… 원석이 오리지늄이란 뜻이라고 설마…… 아, 안 됩니다! 저, 절대 먹으면 안 돼요! 동글이도 뾰쪽이도 까망이도 튼튼이도 먹으면 안 됩니다! 박사님이 켈시 선생님 몰래 이상한 간식을 드시고 있다는 거, 저 다 알고 있다고요!
 
 [name="香草"]     （本来还想拜托博士帮忙照顾的，这样看来，哎，还是算了吧。）
@@ -1435,7 +1435,7 @@ Rhodes Island Landship, Compartment 5, Training Grounds
 
 [name="香草"]     啊，史都华德先生别担心，大黑虽然体型大，但是性格是最温顺的，一点都不危险！
 [name="バニラ"]     あ、スチュワードさん心配しないでください。ドスグロちゃんは身体は大きいですが一番大人しいですから、少しも危なくありませんよ！
-[name="Vanilla"]     Oh, don't worry, Steward. Biggie may be big, but he's really the gentlest of them all!
+[name="Vanilla"]     Oh, don't worry, Steward. Kuro may be big, but he's really the gentlest of them all!
 [name="바닐라"]     아. 스튜어드 씨, 걱정 마세요. 까망이는 크지만 제일 온순한 아이거든요. 절대 위험하지 않아요!
 
 [name="香草"]     唉......每次在战场上我都很难下得了手，杜宾教官总是会骂我，可是真的没办法啊！

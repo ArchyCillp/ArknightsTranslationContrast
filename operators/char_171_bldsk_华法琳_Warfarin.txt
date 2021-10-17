@@ -1,11 +1,17 @@
 ID:
 	char_171_bldsk
 
-干员代号\Name:
+CV:
 	华法琳
 	ワルファリン
 	Warfarin
 	와파린
+
+干员代号\Name:
+	石见舞菜香
+	石見舞菜香
+	Manaka Iwami
+	이와미 마나카
 
 招聘合同\Character Usage:
 	罗德岛医疗干员华法琳，以维护干员生命安全为己任。
@@ -43,177 +49,400 @@ ID:
 	불안정 혈장
 
 语音\Voices:
-	博士，凯尔希医生让我给您做个血液化验，在我准备好之前先随便聊聊吧。
 	ドクター、ケルシー先生からそなたの血液検査を頼まれた。準備をしながら少し話しでもしないか。
 	Doctor, Dr. Kal'tsit sent me to take a blood sample from you. We can chat while I'm getting the needle ready.
 	박사, 켈시 선생님께 그대의 혈액검사를 부탁받았다. 준비하는 동안 잠깐 얘기라도 하지 않겠나.
 
-	我能不能控制吸血冲动？是不是小看我了呀！作为经受过训练的专业医生，我还是能分得清食物和病人的！
 	吸血衝動を抑えられるかだと？なめるな痴れ者が！訓練を積んだプロの医師として、食料と患者の線引きくらいわきまえておるわ！
 	Can I control the urge to feed, you ask? You underestimate me! I'm a trained professional, you know. Of course I can properly tell patients from food!
 	흡혈 충동을 자제할 수 있냐고? 무지한지고! 무시하지 마라! 훈련을 쌓아온 프로 의사로서, 식재료와 환자의 선은 확실히 긋고 있다고!
 
-	记录全体干员的血液常规指数是我的工作，即使当事人不太情愿，也是没办法的......这些血？这些......当然是用作血液检查的样本啊！你在想什么啦！
 	オペレーター全員の血液型を記録するのは必須事項だ。たとえ当事者が嫌がっても、な。この血？検査で採血したものだ。いったい何を勘違いしている？
-	It's my job to track typical blood indicators for all our Operators, even if they aren't exactly happy about it—huh? …These blood bags? They're samples, of course! What else could I be doing with them?
+	It's my job to track typical blood indicators for all our Operators, even if they aren't exactly happy about it—huh? ...These blood bags? They're samples, of course! What else could I be doing with them?
 	오퍼레이터 전원의 혈액형을 기록하는 건 필수사항이다. 설령 당사자가 싫어한다고 해도 말이지. 이 피? 검사 때문에 채혈한 거다, 대체 무슨 착각을 하고 있는 거지?
 
-	这里居然还有一位我的同族，而且担任的职位居然是......工程师？比起血液，她好像更喜欢机油的味道欸？
 	ここに妾の同族がいて、担当は……エンジニアだと？人間の血液よりも、機械のオイルの方が好みというわけか？
 	So there's another one of my kind here. And she's an... engineer? Guess she likes the smell of machine oil more than blood.
 	여기 나의 동족이 있는데, 엔지니어…… 담당이라고? 인간의 혈액보다 기계의 오일이 더 취향이라는 건가?
 
-	成为医生的理由？其实也不是什么高尚的念头啦，仅仅是出于我们一族畸形的遭遇吧。之后，我的能力意外被人需要，事情就顺理成章地变成这样了......
 	医師になった理由か？別に崇高な理由があるわけではない、一族の歪な宿命といったところか。有り体に言えば、必要に迫られての成り行きということだな……。
 	Why I chose to become a doctor? I can't say it was any sort of lofty calling. It's just that, you know, OUR kind... we don't exactly have the brightest prospects. But it turned out my skills were actually in surprisingly high demand, so... I just went with the flow.
 	의사가 된 이유 말인가? 딱히 숭고한 이유가 있는 건 아냐, 일족의 비뚤어진 숙명이랄까. 솔직히 말하면, 필요에 따라 떠밀려서 하게 되었다고 할 수 있지…… 
 
-	我们抑制本能冲动的方法？有一整套的自我暗示课程，食用的血液也有代用品，总之方法多种多样。
 	本能からくる衝動を抑える方法だと？自己暗示に、食用血液を代用品として摂取するなどが有効だな。まあ、方法なんていくらでもある。
 	How do we fight the urge to feed, you ask? We actually have a course that helps us control our desires. And we've invented artificial blood, so we drink that if we need. We can be very resourceful, you know.
 	본능적으로 생기는 충동을 억누르는 방법? 자기암시에 식용 혈액을 대용품으로 섭취하는 방법 등이 유효하지. 뭐, 방법은 얼마든지 있어.
 
-	这只是采血后的常规处理啊，博士请不要动......唔，血、血液......您的血......我，我从来没闻过这么香的味道......我似乎被，被迷惑住了......！
 	ドクター。採血後の処理をするから動くな。……くっ……そなたの血液……今まで嗅いだことのない芳しい香りだ……妾の心を惑わせる……。
 	This is the standard procedure. It happens to everyone after you have blood drawn. Don't move, Doctor. Ah... ah, blood... your blood... it smells... it smells delicious... I'm... it's captivating...
 	박사, 채혈 후처리를 할 테니 움직이지 마. 큭… 당신의 혈액… 지금까지 맡아본 적 없는 향긋한 향기가 나…… 내 마음을 들뜨게 하는군…… 
 
-	补充生理盐水！更换过滤器！砂罐、碳罐消毒......好嘞。博士，医疗设备可需要好好维护哦，凯尔希医生说过，等到博士您肾衰竭的时候，就得靠这些设备救命了......哎呀，开，开玩笑的啦。
 	精製水の補充、フィルター交換、チャコールキャニスターの消毒……。ん？ドクターか。医療機器には徹底したメンテナンスが必要なんだ……。もしそなたが腎不全にでもなったら、これらの機器で生命をつなぎとめるしかないと、ケルシー先生が言っていたぞ。……冗談だ、本気にするな。
 	Replenishing saline solution! Changing filters! Sterilizing sand and charcoal canisters... all done! Doctor, you'd better keep your medical supplies well-maintained. As Dr. Kal'tsit said, when your kidneys give out, these machines are going to save your life... aw, haha, just kidding.
 	정제수 보충, 필터 교환, 활성탄 캐니스터 소독…… 음? 박사인가, 의료기기는 철저히 정비해야 해서 말이야. 혹시 당신한테 신부전이라도 오면, 이 기기로 생명을 유지시킬 수밖에 없다고 켈시 선생님이 그랬거든… 농담이야, 진지하게 받아들이지 마.
 
-	好啦好啦，我承认，以前我是品尝过不少种族不同类型的血，而且，也确实以分析它们味道间的差异为乐......现在我没尝过的，大概就只有博士您的血了吧？呵呵......
 	まぁ、確かに、様々な種族や血液型の血を飲み比べ、その違いを味わって楽しんだりしたこともある……。飲んだことがないのはそなたの血だけかもしれぬな。ふふ……。
 	Fine, fine, I'll come clean... I have tasted lots of blood from different species and races and types. And I do enjoy the subtle differences in flavor, okay? In fact, the only type of blood I've never tasted is... yours, Doctor. Haha!
 	뭐, 확실히, 다양한 종족과 혈액형의 피를 맛보며 그 차이를 음미했던 적도 있지…… 맛보지 못한 건 당신의 피 정도일지도 모르겠군. 후후…… 
 
-	哎，你居然还有时间睡觉，真让人羡慕啊。
 	……ふっ、のんきに眠る時間があるとは、羨ましいことだ。
 	Ah, so you still have time to sleep? I'm jealous.
 	…… 흥, 느긋하게 잘 시간도 있고, 부럽군 그래.
 
-	我，华法琳，血液学专科医师。比起普通的治疗法术，我会利用血液学相关知识和经验，为你们提供比常规方式更好的医疗保障。那么，请多关照啦。
 	妾はワルファリン。血液学が専門の医師だ。ヒーリングアーツでのサポートもそうだが、血液学で得た知識と経験が、よりそなたたちの役に立つはずだ。では……世話になる。
 	I am called Warfarin, the blood-scientist-slash-doctor. Besides common healing Arts, I also guarantee y'all safer, more professional medical treatments with my expertise and experience. Nice to meet you.
 	이 몸은 와파린. 혈액학이 전문인 의사다. 힐링 아츠로 서포트하는 것도 그렇지만, 혈액학으로 익힌 지식과 경험이 당신에게 더욱 도움이 될 것이다. 그럼…… 잘 부탁하지.
 
-	嗯。工作效率好像提高了。
 	ふむ。仕事の効率化がはかれそうだな。
 	Hm, my work efficiency seems to have improved.
 	흠. 업무 효율을 높아질 것 같군.
 
-	......所以说，您有在认真听吗？急救备用的稀有血型呀，想要搜集这些血液是非常艰难的，所以......啊？晋升？是现在吗？
 	いいか！？緊急時に輸血用として使える希少血液は、手に入れるだけでも一苦労なんだ、だから……は……？昇進？今更か？
 	...Are you even listening? We're having trouble collecting rare blood types for the emergency blood bank. So—what? What did you just say? A promotion? Now?
 	알겠나! 긴급상황에서 수혈용으로 쓰는 희소혈액은 입수하는 것만으로도 수고가 이만저만이 아니라고, 그러니까… 뭐? …… 승진? 이제 와서?
 
-	也就是说，今后的工作会更繁重了，对吧？我早就预料到会有这一天了！毕竟，我原本就是这个领域的专家嘛。放心吧，一切都已经准备好了！
 	これからもっと仕事が増える、そういうことだろう？こういう日が来ることは予想していたし、妾はもともとこの道のプロだからな。安心しろ、準備はできている。
 	This only means more work for me from now on, right? I knew this would happen! I'm an expert in this field after all. Don't worry, I can handle it!
 	앞으로 더 일이 늘어날 거라 이 말이지? 이런 날이 올 줄은 이미 예상하고 있었고, 나도 원래 이쪽으론 프로니까 말이야. 안심해라, 준비는 되어있다.
 
-	等一下，至少等我准备好医疗器具之后再说。
 	待て、医療器具を準備してからだ。
 	Wait, I need to prepare my medical equipment first.
 	기다려, 의료기구를 먼저 준비하지.
 
-	队长只需要向您负责就好了，对吧？
 	隊長というのは、そなたに責任を約束すればよいのだろう？
 	A leader only needs to report to you, right?
 	팀장이라는 건 당신에게 책임을 약속하면 되는 거지?
 
-	医疗用品都准备好了，随时都可以出发。
 	医薬品の積み込みは完了した。それでは出発する。
 	The medical equipment is ready. We can start any time.
 	의약품의 보급은 완료했어. 그럼 출발하지.
 
-	现在还不太了解敌人的情况，毕竟光是照料我方人员，就把我的时间都排满了......
 	敵の状況はまだ不明瞭だ、味方の世話だけで時間がいっぱいいっぱいでな……。
 	I don't know much about the enemy at the moment. I have my hands full with all these injured Operators...
 	적의 상황은 아직 파악되지 않았다. 우리 편을 챙기느라 시간이 빠듯해서 말이야…… 
 
-	请说。
 	言ってみろ。
 	Go ahead.
 	말해봐.
 
-	医疗器械设置完毕。
 	医療機器の設置は済んでいる。
 	The medical equipment has been set up.
 	의료기기 설치를 완료했다.
 
-	负伤的人，要记得立刻求救！
 	負傷した者はすぐに知らせるんだ！
 	If you're injured, call for help immediately!
 	부상당하면 바로 알려주도록!
 
-	开始治疗。
 	治療開始……。
 	Commence treatment.
 	치료 개시…… 
 
-	准备输血！
 	輸血準備！
 	Ready for blood transfusion!
 	수혈 준비!
 
-	止血钳！
 	止血鉗子！
 	Get the hemostat!
 	지혈집게!
 
-	这里有急救箱，请用这个！
 	救急キットだ、使え。
 	Take this emergency kit!
 	구급상자다, 쓰도록.
 
-	我马上就来！
 	いま行くぞ！
 	I'll be right there!
 	지금 간다!
 
-	医疗小队也这么紧张，后方部队的压力实在不小......还好，我已经习惯啦。
 	医療班もそうだが、後方部隊の負担は増える一方だ……。なんとか慣れてはきたが……。
 	It's really nerve-wracking being in the medic squad. Support troops are really under lots of pressure! Good thing I'm already used to it.
 	의료부도 그렇지만, 후방 지원팀의 부담도 점점 늘어나고 있다…… 어찌저찌 익숙해지긴 했다만…… 
 
-	战场是一个只会制造可怕悲剧的地方，希望那些人也能理解到这点。
 	戦場は凄惨な悲劇を生むだけの場所だ……こいつらにもそれを理解してもらいたいものだ。
 	The battlefield is a place of tragedy. I hope they come to understand this one day.
 	전장은 처참한 비극을 낳기만 하는 장소란 걸…… 이 녀석들도 알았으면 좋겠군.
 
-	优先救助伤员吧，先别管那些逃跑的敌人了。
 	負傷者の救助が先だ。逃亡した敵兵など放っておけ。
 	Help the injured first. And the enemies who got away, we'll get them another day.
 	부상자의 구조가 우선이다. 도주한 적병 따윈 내버려 둬.
 
-	对不起，备用药剂也不够了......
 	すまない……薬剤の用意不足だ……。
 	Sorry, we didn't bring enough backup medicine...
 	미안하다…… 약제 준비가 부족했다…… 
 
-	果然，我还是习惯一个人思考问题啊......
 	やはりひとりで考え事をするほうが、性に合うな……。
 	I guess I'm more accustomed to figuring things out myself...
 	역시 혼자 고민하는 편이 성미에 맞는군…… 
 
-	欸，您在做什么呀......
 	っ！おい！何をしている……。
 	Hey, what are you doing?
 	어이! 뭐 하고 있는 건가…… 
 
-	博士，给您做定期检查的日子，是不是快到了？
 	ドクター、そろそろ定期検診が必要なのではないか？
 	Doctor, isn't it almost time for your annual checkup?
 	박사, 슬슬 정기검진 받아야 하지 않나?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好，博士。
 	ふむ、ドクターか。
 	Hello, Doctor.
 	흠, 박사인가.
+
+干员档案\Background:
+	基础档案 :
+	【代号】华法琳
+	【性别】女
+	【战斗经验】十年
+	【出身地】卡兹戴尔
+	【生日】6月27日
+	【种族】萨卡兹
+	【身高】157cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ワルファリン
+	【性別】女
+	【戦闘経験】十年
+	【出身地】カズデル
+	【誕生日】6月27日
+	【種族】サルカズ
+	【身長】157cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Warfarin
+	[Gender] Female 
+	[Combat Experience] 10 years 
+	[Place of Birth] Kazdel 
+	[Date of Birth] Jun. 27 
+	[Race] Sarkaz 
+	[Height] 157cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 와파린
+	[성별] 여
+	[전투 경험] 10년
+	[출신지] 카즈델
+	[생일] 6월 27일
+	[종족] 살카즈
+	[신장] 157cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准 
+	【战场机动】标准 
+	【生理耐受】标准 
+	【战术规划】优良 
+	【战斗技巧】标准 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	罗德岛元老之一，此前经历不明。 
+	罗德岛血库的建造者与管理人，在医学和治疗法术上有深厚造诣，与凯尔希医生共同建立起了罗德岛医疗体系的基盘。
+
+	個人履歴 :
+	ロドスの古株の一人。以前の経歴は不明。
+	ロドス血液センターの設立者及び管理人であり、医学と治療アーツに造詣が深い。ケルシー医師と共にロドスの医療体系の基盤を作り上げた。
+
+	Profile :
+	A senior figure in the Rhodes Island leadership, Warfarin's background remains unclear. 
+	She is the founder and administrator of the Rhodes Island Blood Bank, and very accomplished in the medical field. She laid the foundation of the island's medical system with Dr. Kal'tsit.
+
+	프로필 :
+	    로도스 아일랜드의 원로 중 하나. 이전의 이력에 대해서는 알 수 없다. 로도스 아일랜드 혈액 창고의 건설자이자 관리인이며, 의학과 치료 마법에 대한 조예가 깊다. 켈시와 함께 로도스 아일랜드 의료 체계의 기반을 다졌다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。 
+	
+	【体细胞与源石融合率】0% 
+	受试对象没有被源石感染的迹象。 
+	
+	【血液源石结晶密度】0.12u/L 
+	受试对象的数值趋近正常，并无检查必要。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	数値はほぼ正常範囲にあり、再検査の必要なし。
+
+	Clinical Analysis :
+	Imaging tests on this Operator show clear outlines of internal organs, with no abnormal dark spots or shadows. No unusual traces of Originium particles present in the circulatory system, no signs of infection, confirming this operator as uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Subject shows no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L 
+	Subject in normal condition, no further examination necessary.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오리지늄에 감염된 흔적을 찾아볼 수 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	검사 대상의 수치가 정상에 근접하므로, 검사할 필요 없음.
+
+———————————————————————————————
+
+	档案资料一 :
+	外表弱不禁风，难以让人升起尊敬之心的血魔女性，实质上作为元老，在罗德岛中拥有最老的资历。 
+	本人并不介意他人不将自己当做前辈对待，但决不允许有人在接受治疗时不听从自己的命令。 
+	年龄虽然不是需要避讳的话题，不过从她口中吐出的数字总让人觉得难以置信。
+
+	第一資料 :
+	風が吹けば折れてしまいそうな外見で、人々に尊敬の念を抱かせるのは難しそうなブラッドブルードの女性だが、実際はロドスの古株として、最も長いキャリアを有している。
+	本人は他人が自分を先輩として見てくれないことは気にしていないが、治療を受ける時に自分の命令を聞き入れない人は決して許さない。
+	年齢に関しては避けるべき話題ではないが、彼女の口から出る数字は信じられるものではない。
+
+	Archive File 1 :
+	It's hard to imagine that this delicate vampire lady, whose petite figure hardly commands respect, actually has the longest history with Rhodes Island. 
+	She doesn't mind being treated beneath her age and status, but Warfarin absolutely won't tolerate anyone straying from her prescribed course of treatment. 
+	Her age is no secret, but the number she gives has never failed to elicit a gasp.
+
+	파일 자료 1 :
+	    겉보기에는 바람만 불어도 날아갈 것 같은, 존경심 같은 건 불러일으킬 수 없을 것 같은 외모의 뱀파이어 여성. 그러나 사실은 로도스 아일랜드에서 가장 오래된 경력을 가진 원로이다. 타인이 자신을 선배로서 대하지 않는 것은 개의치 않지만, 치료 중 자신의 명령에 불복하는 것은 절대 용납하지 않는다. 나이에 관한 이야기를 피하진 않으나, 그녀의 입에서 나오는 숫자는 언제나 사람들을 놀라게 한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	即使在经常被妖魔化的萨卡兹中，血魔也是最恶名远扬的一支。 
+	它们在黑夜中穿行，以他人的血液为食，杀人如麻，无恶不作......诸如此类。并且对于这些传闻，华法琳小姐通常在被问起时会爽快回应：“大部分我的同族是这样的。” 
+	当然，罗德岛的每一个人都知道，华法琳小姐并不是这样的人。 
+	虽然确实能够发现她对于血液的特殊喜好，但与此同时，她也表现出了极大的忍耐力，绝不会因此吓到她的病人。 
+	如她所说，她是能够分辨食物与病人的。
+
+	第二資料 :
+	常に妖魔化されているサルカズの中でも、ブラッドブルードは最も悪名高い一派である。
+	彼らは闇夜に動き、他人の血液を主食として数えきれないほどの殺人を犯し、悪事の限りを尽くす……というような存在である。このような伝聞に対して、ワルファリンはいつも「妾の同族はだいたい、そんな感じだな」とあっさり認めている。
+	当然、ロドスの誰もが、ワルファリンは決してそんな人ではないとわかっている。
+	確かに彼女の血液への特別な嗜好は見られるが、同時に彼女は強い忍耐力をも見せており、患者を怯えさせるようなことは決してしない。
+	彼女の言う通り、彼女は食料と患者の線引きは弁えている。
+
+	Archive File 2 :
+	Vampires are feared even among the often demonized Sarkaz race. 
+	They stalk the night, feed on the blood of men, women, and children. They kill, and do who knows what other unspeakably evil things... Such is the legend to which Miss Warfarin is known to matter-of-factly reply, 'That's most of my kin, yes.' 
+	Of course, everyone at Rhodes Island knows Warfarin isn't anything like that. 
+	We know she does indeed love the taste of blood, but this is proof of her remarkable self-control, since she has never taken advantage of any of her patients. 
+	As she says, she can tell the difference between a patient and dinner.
+
+	파일 자료 2 :
+	    사람들은 항상 살카즈들을 나쁘게 말하곤 하지만, 뱀파이어는 그중에서도 가장 악명 높은 축에 속한다. 그들은 어두운 밤을 가로지르며, 타인의 피를 마시고, 수없이 많은 사람들을 죽이고, 온갖 나쁜 짓을 저지른다…는 같은 이야기들 말이다. 이런 소문들에 대해 와파린은 망설임 없이 대답한다. "내 동족들은 대부분 그래."
+	    물론 로도스 아일랜드의 모두가 알고 있는 것처럼, 와파린은 그런 사람이 아니다. 비록 그녀는 피를 무척이나 좋아하지만, 동시에 엄청난 인내심을 발휘하며 환자를 안심시킨다. 그녀의 말처럼, 그녀는 적어도 음식과 환자는 구분할 줄 안다.
+
+———————————————————————————————
+
+	档案资料三 :
+	博士对于罗德岛的重要性是不言而喻的，但对于华法琳小姐来说，有着更为特殊的意义。 
+	出于似乎连华法琳小姐自己都尚未找到的原因，博士的血液对她有着致命的吸引力，这种吸引力导致数次被其他干员目睹她对博士做出有失淑女身份的行为，以至于凯尔希医生下令华法琳小姐不得主动接近博士。 
+	若是能够解开这个谜团，或许能够拨开一些博士身上的迷雾，不过，可惜的是，暂时，还没有任何头绪。
+
+	第三資料 :
+	ロドスにおけるドクターの重要性については言うまでもないが、ワルファリンにとってのドクターは、それ以上に特殊な存在である。
+	ワルファリン自身も全く原因がつかめていないが、ドクターの血液は彼女にとってかなりの誘引力を持っており、このせいで彼女がドクターに対しあるまじき振る舞いをしていたところを、他のオペレーターに何度も目撃されている。その結果、ケルシー医師よりワルファリンにドクターへ接近禁止との命令が下された。
+	もしこの原因がわかれば、ドクターの身に抱える謎もある程度解けるかもしれないが、残念なことに、解決の糸口すら見つかっていない。
+
+	Archive File 3 :
+	The Doctor's importance to Rhodes Island is well understood, but it has a special meaning to Warfarin. 
+	For reasons even Warfarin herself can't explain, she is nigh-fatally attracted to the Doctor's blood. Operators have reported her frequent attempts at, shall we say, rather unladylike behavior towards the Doctor, forcing a restraining order from Dr. Kal'tsit. 
+	Solving this puzzle will perhaps lift some of the cloud of mystery that surrounds the Doctor. But unfortunately, it continues to confound investigation.
+
+	파일 자료 3 :
+	    로도스 아일랜드에서 박사의 중요성은 두말할 필요도 없으나, 와파린에게 박사는 더욱 특별한 의미가 있다. 와파린 자신도 이유는 알 수 없지만, 박사의 피는 보통 사람의 것보다 더 치명적인 매력이 있다고 한다. 이 때문에 다른 오퍼레이터들은 종종 그녀가 박사에게 숙녀답지 못한 행동을 하는 것을 목격했고, 결국 닥터 켈시는 와파린에게 박사 접근 금지령을 내렸다. 이 수수께끼를 풀 수 있다면, 어쩌면 안개에 싸인 박사의 비밀도 알아낼 수 있을 테지만… 안타깝게도 아직까지는 아무런 단서도 없다.
+
+———————————————————————————————
+
+	档案资料四 :
+	虽然每个人都知道华法琳小姐是罗德岛的元老且医术高超，不过依然很少有人会敬重她，这其中的问题，并不只是出在体型上。
+	或许是身为血魔，又长期不外出行走的原因，华法琳小姐的道德观念相当淡泊。她只要想到了什么点子，就会立刻去实践，而且完全不会顾及天理伦常，不少早期加入罗德岛的干员都有过走在路上突然眼前一黑，再睁开眼就躺在手术台上，耳边还传来古怪笑声的恐怖经历。
+	由于华法琳小姐完全没有反省的意思，据说连凯尔希医生也没能说服她，最后只得明令禁止她的一些出格行为。
+	在那之后，华法琳小姐的行为就收敛了许多，但依然时不时无意之间给干员们留下一些不可磨灭的回忆，以至于时至今日，她的威信也依然无法在干员们之间建立起来。
+	当然，说到底，她大概也根本没在反省就是了。
+
+	第四資料 :
+	ワルファリンはロドスの古株で、優れた医術を持つというのは周知のことだが、彼女を尊敬するような人は少ない。これは決して体型だけの問題ではない。
+	ブラッドブルードであるかつ、長らく外出していないため、ワルファリンは道徳観がだいぶない。何かアイデアを思いついたらすぐに実践に移るが、その内容は完全に人倫を無視している。ロドスの初期メンバーには、道を歩いているときに突然目の前が真っ暗になり、再び目を開けたときには手術台の上にいて、耳元から怪しげな笑い声が聞こえてくるという恐怖体験をした者も少なくない。
+	これについてワルファリンはまったく反省の色を見せていない。ケルシー医師ですら彼女を説得することができなかったらしく、最終的にはやむを得ず彼女の一切の常軌を逸した行為を禁止するとした。
+	その後、ワルファリンの行為の多くは落ち着いたが、依然として無意識にオペレーターたちに消せない記憶を植え付けてしまう。その結果今日に至るまで、彼女がオペレーターたちの間の威厳はまるでない。
+	当然、つまるところ、彼女は全く反省をしていないのだろう。
+
+	Archive File 4 :
+	Although everyone knows Warfarin is a senior executive with incredible medical expertise, very few Operators honestly respect her. The problem goes beyond her physical appearance. 
+	It may have to do with her vampiric heritage, or the fact she is very reclusive. But also, Warfarin has always been light on morals. She does whatever ideas pop into her head without concern for the ethics or even rationality of the idea. Several Operators reportedly experienced sudden, unexplained blackouts in the early days, only to wake up on a surgical table with sinister laughter ringing in their ears. 
+	Warfarin felt she had done nothing wrong, and even Dr. Kal'tsit couldn't convince her, leading to several of Warfarin's more outlandish behaviors being banned by the company. 
+	She has since cleaned up her act, but still occasionally 'scars' an Operator, making it hard for them to trust or respect her. 
+	In the end, she still doesn't think she's done anything wrong.
+
+	파일 자료 4 :
+	    와파린이 로도스 아일랜드의 원로이자 뛰어난 의술을 지녔다는 것은 모두 알고 있는 사실이지만, 그녀를 존경하는 사람이 적은 것은 단지 그녀의 체형 때문만은 아니다. 와파린은 뱀파이어라는 사실도 그렇지만, 오랫동안 사회생활을 멀리 한 탓인지 도덕관념이 매우 희박한 편이기 때문이다. 그녀는 어떤 아이디어가 떠오르면 바로 행동으로 옮기는, 이른바 상식이라는 게 없는 사람이기 때문에, 초기에 로도스 아일랜드에 입사한 많은 오퍼레이터들은 종종 길을 걷다 갑자기 눈앞이 캄캄해지고, 눈을 뜨니 수술대 위였으며, 어디선가 기괴한 웃음소리가 들리는 무서운 일을 경험했다고 한다.
+	    그러나 와파린에게는 반성의 기미가 전혀 보이지 않았고, 닥터 켈시조차 그녀를 설득시킬 수 없어 결국 그녀의 유별난 행동은 명령으로 금지되었다.
+	    이후로 와파린의 기행은 많이 줄어들었지만, 여전히 많은 오퍼레이터들이 그날의 악몽을 기억하고 있다. 때문에 아직까지도 오퍼레이터들 사이에선 그녀의 위신이 제대로 서지 못하고 있다. 물론, 그녀는 과거 사건에 대해 아직도 전혀 반성하고 있지 않다.
+
+———————————————————————————————
+
+	晋升记录 :
+	在最近数十年，大陆上出版的各种权威医学书籍中，作者的那一栏上，经常会出现一个与血有关的笔名。 
+	这一位，是医学界的一个传奇，因为其人在医学上的涉猎之广，钻研之深，可称得上前无古人，其每次发表的论文也都能在学界引起轰动。 
+	然而，至今也没有人知道他究竟是男是女，是个人还是组织，于是只得称之为“血先生”。 
+	当然，如果看到华法琳小姐的房间中摆放的那些“血先生”参与过的著作，想必也能猜到，“血先生”正是华法琳小姐。 
+	虽然一开始以为她是为了避免血魔的身份招致误解，不过对她来说，似乎只是看到自己瞎编的笔名出现在各种书上觉得十分好玩而已。
+
+	昇進記録 :
+	ここ数十年の間に出版された権威ある医学書籍の著者名の中に、「ブラッド」というペンネームがよく見られる。
+	この人は医学界の伝説で医学についてかなり手広く、かつ深く研究しているので、前人未到と称されており、論文が発表されるたびに医学界に衝撃を走らせていた。
+	しかし、当人が男性なのか女性なのか、個人なのか組織なのか誰も知らず、ただ「ブラッドさん」と呼ぶしかなかった。
+	無論、もしワルファリンの部屋に置かれている「ブラッドさん」が関与した著作を見つけたらおそらく見当がつくと思うが、「ブラッドさん」の正体はワルファリンなのである。
+	最初は彼女がブラッドブルードの身分であることをバレないようにするために誤解されていると思われがちだが、実際彼女にとって、自分がでっち上げたペンネームが様々な書籍に載っていることを面白がっているだけのようだ。
+
+	Promotion Record :
+	Several authoritative medical books in recent decades were penned by an author under the pseudonym 'Blood.'
+	The author is a legendary figure in the medical field, known for thorough application of material with unrivaled expertise. Blood's every publication took the medical world by storm. 
+	Alas, no one knows whether Blood is a man or woman, an individual or a group, discussed only as 'Mr. Blood.'
+	Of course, one only has to look at the comprehensive collection of Blood's work in Warfarin's room to correctly guess that she is the one and only 'Mr. Blood.'
+	She originally used that name to hide her vampiric identity, but now she thinks it's funny to see her pseudonym on published medical books.
+
+	승진 기록 :
+	    최근 수십 년간 이 땅에서 출판된 각종 권위 있는 의학 서적의 저자 란에는 피와 관련된 필명이 자주 등장한다. 이 이름은 가히 의학계의 전설로, 의학에 대한 전무후무한 폭넓고 깊이 있는 연구로 논문 발표 때마다 학계를 떠들썩하게 만들곤 했다.
+	    그러나 어느 누구도 이 저자가 누구인지는 모른다. 남자인지 여자인지, 개인인지 조직인지조차 알 수 없으며, 단지 '미스터 블러드'라고 불릴 뿐이다.
+	    하지만, 와파린의 방에 놓인 '미스터 블러드'가 참여한 저서들을 본다면 '미스터 블러드'가 와파린이라는 것을 자연스레 짐작할 수 있을 것이다.
+	    처음에는 그녀가 뱀파이어라는 신분 때문에 발생할 오해를 감추기 위해 벌인 일로 짐작했으나, 어쩌면 자신이 멋대로 만든 필명이 여러 책에 등장하는 것을 재미있어할 뿐일지도 모르겠다.

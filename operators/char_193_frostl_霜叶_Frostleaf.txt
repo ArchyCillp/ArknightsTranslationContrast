@@ -1,11 +1,17 @@
 ID:
 	char_193_frostl
 
-干员代号\Name:
+CV:
 	霜叶
 	フロストリーフ
 	Frostleaf
 	프로스트리프
+
+干员代号\Name:
+	加隈亚衣
+	加隈亜衣
+	Ai Kakuma
+	카쿠마 아이
 
 招聘合同\Character Usage:
 	罗德岛近卫干员霜叶，只要是你的命令，她都会遵从。
@@ -43,177 +49,365 @@ ID:
 	빙결창
 
 语音\Voices:
-	要听点音乐吗？我的耳机就借你一会儿吧。
 	音楽、聴くか？少しだけなら私のヘッドホンを貸してやってもいい。
 	Want to listen to some music? I'll lend you my headphones.
 	음악, 들을래? 잠깐만이라면 내 헤드폰을 빌려줄 수도 있어.
 
-	抱歉，请和我保持一点距离。
 	すまない、少し離れてくれ。
 	Sorry, please keep your distance from me.
 	미안, 조금 떨어져 줘.
 
-	我从没想过，自己会有从事救援工作的这一天。
 	自分が救援活動にあたることになるとは、思ってもみなかった。
 	I never imagined that I'd have the chance to become a rescue worker.
 	내가 구원활동을 하게 될 줄은 생각도 못 했어.
 
-	挥舞这把斧头的时间，说不定比我识字的时间都长。
 	読み書きを学ぶ前から、この斧を握っていた。
 	I began wielding this axe before I even learned to read.
 	읽고 쓰기를 배우기도 전부터 이 도끼를 쥐고 있었어.
 
-	我喜欢的歌，应该也不怎么流行吧。这些歌只适合独处的时候哼给自己听。
 	私が好きな歌は、世間では流行らないだろうな。一人でいるときに口ずさみたくなる、孤独な曲ばかりだ。
 	The songs I like are probably all outdated. Only good for humming to myself when I'm alone.
 	내가 좋아하는 노래는 이 세상엔 유행하진 않겠지. 혼자 있을 때 흥얼거리고 싶어지는 고독한 곡뿐이니까.
 
-	不要眨眼。见证这战技的机会，只有这一瞬间。
 	まばたきするなよ。この技が見られるのは、一瞬だけだ。
 	Don't blink—you have but one moment to witness this epic battle move.
 	눈 똑바로 뜨고 봐. 이 기술을 볼 수 있는 건 한순간 뿐이니.
 
-	喝点吗，我请。工作结束之后，还是稍微放松一会儿比较好。
 	一杯どうだ。私がおごろう。仕事のあとは息抜きも必要だろう。
 	Want something to drink? My treat. You should relax a bit after work, you know.
 	한 잔 어때, 내가 사지. 일이 끝나면 좀 쉬기도 해야지.
 
-	直到身边的人接连逝去，我才意识到作为人去活着的可贵。很讽刺吧？呵，我也觉得。
 	周りの人たちがみな過去のものになってしまってから、人として生きることの大切さを知った。笑えるだろう、フフフ…。
 	I only realized how precious life is after the people around me died one by one. Ironic, huh? I think so, too.
 	주변 사람들이 모두 과거의 존재가 되고 나서야, 사람으로 산다는 것의 소중함을 알았어. 웃기지?
 
-	佣兵不过是种工作，出于什么目的、造成什么后果，并不由我决定。以后，这种“我该担负什么责任”的考量，就交给你了。
 	傭兵はしょせん雇われだ。任務の目的や、それによる結果を考えることは私の仕事ではない。今後はお前がそれを決めるといい。
 	As a mercenary, I just do my job. As for the purpose of my mission and what consequences it'll leave, I don't have a say in any of that. So, from now on, you're in charge of deciding what I'm responsible for.
 	용병은 어차피 고용되는 존재다. 임무의 목적이나 그에 따른 결과를 생각하는 건 내 일이 아니야. 앞으로는, 네가 그걸 정하면 돼.
 
-	哼——哼哼♪哼......哼哼......♪
 	♪～♪♪～♪……♪
 	Dun... dun dun♪dun... dun dun...♪
 	♪～♪♪～♪…… ♪ (흥얼거린다)
 
-	霜叶，前佣兵，现在，是你的干员。随意调遣我吧，我什么都能做。
 	フロストリーフ。傭兵をやっていたが、今はお前に命を預ける。命令とあらば、何でも従おう。
 	Frostleaf, former mercenary. From now on, I'm an Operator, and you're my employer. Assign me to any job you want, I can do pretty much anything.
 	프로스트리프. 용병을 했었지만, 지금은 너에게 목숨을 바치겠다. 명령이라면 뭐든지 따르지.
 
-	谢谢。
 	感謝する。
 	Thanks.
 	고맙다.
 
-	提上正轨了。
 	軌道に乗ってきたな。
 	Things are on the right track now.
 	궤도에 올라섰군.
 
-	呼......也不错。久违的充实感。
 	ふう……悪くない。久々の充実感だ。
 	Whew... not bad. Feeling fulfilled for the first time in a while.
 	후우…… 나쁘지 않아. 오랜만에 느끼는 충실감이다.
 
-	我会履行自己的义务。
 	責任は果たすさ。
 	I'll do my job.
 	책임은 다할 거야.
 
-	各行其道，各尽其职。
 	自分のやれることをやるだけだ。
 	Everyone, go your own way and do your own job.
 	내가 할 수 있는 걸 하는 것뿐이다.
 
-	正好，我也想活动下身体了。
 	ちょうど身体を動かしたかったところだ。
 	Perfect, I happen to need some exercise.
 	마침 몸을 좀 풀려던 참이었어.
 
-	支离破碎吧——！
 	砕け散れ――！
 	Shatter!
 	박살 나버려!
 
-	嗯？
 	ん？
 	Hmm?
 	응?
 
-	有什么命令？
 	命令は？
 	What are your orders?
 	명령은?
 
-	这样就可以了。
 	このまま行くぞ。
 	This should work.
 	이대로 간다.
 
-	唔，可以。
 	ああ、わかった。
 	Hm, okay.
 	응, 알았어.
 
-	寒冷，不止我的体液。
 	凍り付け、私の血のごとく！
 	My body fluids are not the only thing that's chilling.
 	얼어붙어라, 내 피와 같이!
 
-	延伸我的锋芒吧——！
 	この切っ先で貫く！
 	Reach further, my rays of light!
 	이 창끝으로 꿰뚫는다!
 
-	凡有生气，尽都如草。
 	ゴミのように、惨めに果てろ！
 	All living beings shall perish.
 	쓰레기처럼 비참하게 죽어버려!
 
-	让头脑清醒点吧。
 	少し頭を冷やせ。
 	Gotta clear up my brain.
 	조금 머리를 식혀라.
 
-	战争尽头的荒芒，已不知道经历了多少次。
 	戦いの果ての荒れ地、もう何度見たかわからないな。
 	I've been through countless battles... seen the carnage, witnessed the silent nothingness at the end.
 	싸움의 끝난 후의 황폐해진 땅… 이젠 몇 번이나 봤는지도 모르겠어.
 
-	我记得每一个敌人。一个逃走的也没有。
 	敵の顔は覚えている。一人残らず倒した。
 	I remember every enemy I fought. Not a single one of them escaped from my hands.
 	적의 얼굴은 기억하고 있어. 한 명도 남김없이 쓰러뜨렸다.
 
-	没有损失人手吧。
 	怪我人はいないか？
 	We didn't lose anyone, yeah?
 	부상자는 없나?
 
-	我来断后......！
 	私が後始末をつけよう……！
 	I'll hold up the rear.
 	내가 마무리를 짓겠다…!
 
-	想要比较......私人一点的空间呢。
 	プライベートな空間が……欲しいな。
 	I'd like... a more private space.
 	사적인 공간이… 있으면 좋겠는데.
 
-	唔呀。
 	おっと。
 	Ow.
 	엇.
 
-	一起去喝一杯吧？
 	一杯やろうか？
 	Let's go grab a drink, yeah?
 	한잔할래?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士。
 	ドクター。
 	Doctor...
 	박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】霜叶
+	【性别】女
+	【战斗经验】七年
+	【出身地】哥伦比亚
+	【生日】5月1日
+	【种族】沃尔珀
+	【矿石病感染情况】
+	体表有源石结晶分布，且参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】フロストリーフ
+	【性別】女
+	【戦闘経験】七年
+	【出身地】クルビア
+	【誕生日】5月1日
+	【種族】ヴァルポ
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。さらにメディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Frostleaf 
+	[Gender] Female 
+	[Combat Experience] 7 years 
+	[Place of Birth] Columbia 
+	[Date of Birth] May 1 
+	[Race] Vulpo 
+	[Infection Status] 
+	Showed physical signs of Oripathy, infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 프로스트리프
+	[성별] 여
+	[전투 경험] 7년
+	[출신지] 컬럼비아
+	[생일] 5월 1일
+	[종족] 불포
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	前哥伦比亚少年兵，所属部队覆灭后被“退役”。在随后的流浪佣兵生活中和罗德岛建立关系，经过一段时间合作后被吸收进入罗德岛。 
+	拥有非常丰富的战场经验，本身的战斗技巧也不容小觑，对罗德岛来说，是不可多得的优秀战力。
+
+	個人履歴 :
+	元クルビア少年兵。所属していた軍隊が壊滅し強制的に「引退」。その後の転々とした傭兵生活でロドスと接触し、一定の協力期間を経てロドスに吸収された。
+	非常に豊富な戦闘経験を持つかつ本来の戦闘スキルもハイレベルのため、ロドスにとっては貴重な優れた戦力。
+
+	Profile :
+	Frostleaf is a former Columbian Junior Army soldier, 'retired' after her unit was destroyed. Came into contact with Rhodes Island later as a mercenary, before officially joining following a period of collaboration with the company. 
+	Extensive combat experience and undeniably skilled, Frostleaf is an excellent asset to Rhodes Island.
+
+	프로필 :
+	    전 컬럼비아 소년병, 소속 부대가 전멸한 후 '퇴역' 당하였다. 이후 떠돌이 용병 생활 도중 로도스 아일랜드와 연락하게 되었고, 일정 시간 협력 관계를 유지한 후 로도스 아일랜드에 합류하게 되었다. 매우 풍부한 전투 경험을 가지고 있으며, 자체적 전투 기술 역시 가볍게 볼 수 없었기에, 로도스 아일랜드에게는 아주 소중한 우수 전력이라고 할 수 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】16% 
+	感染已进入中期，臂部可见明显源石结晶。
+	
+	【血液源石结晶密度】0.35u/L
+	应该是因为过去所属军队的压榨，小霜叶在加入罗德岛时的矿石病蔓延状况相当不容乐观。不过，现在经过调养，已经控制在了一个相对稳定的范围，可喜可贺，可喜可贺。
+	——华法琳
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】16%
+	感染は中期に入り、上腕部に明らかな源石結晶あり。
+	
+	【血液中源石密度】0.45u/L
+	軍隊でこき使われていた彼女は、ロドス加入直後の鉱石病の進展はよくなかった。だが今は養生によりなんとか落ち着いた。本当にめでたしめでたし。
+	——ワルファリン
+
+	Clinical Analysis :
+	Imaging tests on this Operator showed blurry internal organs with clearly visible dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating infection and confirming her as Infected at this stage.
+	
+	[Cell-Originium Assimilation] 16% 
+	The infection has advanced to mid-stage. Crystal formations are clearly visible on the operator's arms. 
+	
+	[Blood Originium-Crystal Density] 0.35u/L
+	Likely owing to her previous affiliation, Frostleaf's Oripathy had spread to such a degree by the time she joined Rhodes Island that I could not be optimistic about her chances. However, her current course of treatment has put her in a relatively stable condition. Hooray. Hooray.
+	--Warfarin
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 16%
+	감염이 이미 중기로 접어듬, 팔 부위에 오리지늄 결정이 명확히 확인됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.45u/L
+	과거 군에 속해 있던 시절의 무리한 작전 수행으로 인해, 프로스트리프가 로도스 아일랜드에 도착했을 땐 광석병의 병세가 매우 좋지 않았다. 하지만 현재는 관리를 통해 병세가 상대적으로 완화되었다. 매우 다행스럽고 기쁜 일이다.
+	——와파린
+
+———————————————————————————————
+
+	档案资料一 :
+	习惯游离于人群之外的女孩，战斗经验在罗德岛的正常人里名列前茅。 
+	总是打扮得酷酷的，喜欢一个人在安静的角落听音乐。
+
+	第一資料 :
+	人ごみから離れることに慣れている少女。戦闘経験の豊富さはロドスの一般オペレーターではトップレベル。
+	いつもクールな格好で、一人で誰もいない場所で音楽を聞くのが好き。
+
+	Archive File 1 :
+	Frostleaf is something of a loner. One of our most combat experienced operators. 
+	She dresses in hip, stylish outfits and enjoys listening to music alone in a quiet corner.
+
+	파일 자료 1 :
+	    사람들과 떨어져 지내는 게 익숙한 여자아이. 전투 경험만큼은 로도스 아일랜드의 정상인 중에서도 상위권에 속한다. 항상 쿨한 옷차림을 하고 조용한 한구석에서 음악 감상하는 것을 좋아한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	霜叶小姐的战斗经验在整个罗德岛里，都称得上是顶尖的，对她来说，战场就像是自家的后院。 
+	但这并没有任何值得夸耀的地方，因为这意味着，以她的年纪来说，她没有享受过正常的童年。 
+	加之，蠢蠢欲动的哥伦比亚近十年一直都和周边国家有摩擦，小规模战事不断，可以想见霜叶小姐在此之前，过的是什么样的生活。 
+	一些老牌干员应当还记得霜叶小姐刚来到罗德岛时的样子，和当时的她相比，如今的她，已经称得上是非常活泼了。
+
+	第二資料 :
+	フロストリーフの戦闘経験はロドス全体においてもトップレベル。彼女にとって、戦場とはまるで自宅の裏庭のようなもの。
+	しかしそれは自慢することではない。彼女の年齢と合わせて見れば、普通の子供時代を過ごしていないのは明白だ。
+	加えてクルビアは、過去の十年間に隣国とのトラブルが絶えず、小規模な戦争が繰り返されてきた。フロストリーフの今まで生活はどのようなものか想像できる。
+	フロストリーフがロドスに来た頃の様子を、多くの古参オペレーターはまだ覚えているはずだ。当時の彼女と比べると、かなり元気になったと言えるだろう。
+
+	Archive File 2 :
+	Frostleaf is one of the most experienced combatants in the entire company. The battlefield is like her own backyard. 
+	That is not something to be terribly cheered about though, because it means, given her age, she never had a normal childhood. 
+	Not to mention, given Columbia's clashes with neighboring countries in the past decade and frequent skirmishes besides, one can easily imagine what kind of life Frostleaf has led. 
+	Older operators still remember when Frostleaf first arrived, and report that she's a lot more outgoing now than she was then.
+
+	파일 자료 2 :
+	    프로스트리프의 전투 경험은 로도스 아일랜드에서도 거의 최고 수준이라 할 수 있다.    그녀에게 전장은 자신의 집 뒤뜰과도 같은 장소였다. 하지만 이부분이 그렇게 자랑할만한 것만은 아니다. 그녀는 자신의 나이대 아이들이 누려야 할 정상적인 어린 시절을 보내지 못했다는 뜻일 테니까.
+	    게다가 컬럼비아가 최근 십 년간 줄곧 주변 국가와 마찰을 빚고 소규모의 전쟁이 끊이질 않았다는 점을 고려하였을 때, 프로스트리프가 그동안 어떤 생활을 영위해 왔는 지는 충분히 상상히 간다.
+	    일부 베테랑 오퍼레이터들은 프로스트리프가 막 로도스 아일랜드에 왔을 때의 모습을 아직 기억하고 있다는데, 그때와 비교하자면 오늘날의 그녀는 이미 매우 활발해진 것이라고 입을 모아 말한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	霜叶小姐是作为合作佣兵被吸收进入罗德岛的。但是在正式加入后，她却被凯尔希医生下令，短时间内不得执行任务，她唯一的任务就是——作为病人好好修养。 
+	这给当时的她带来了巨大的困惑，因为她完全不知道，不需要战斗的自己该做些什么。 
+	所幸，在充满个性的罗德岛干员们的帮助下，霜叶小姐逐渐学会了一边战斗，一边去享受生活，她的世界开始变得五颜六色了起来。
+
+	第三資料 :
+	フロストリーフは協力傭兵としてロドスに加入したのである。しかし正式的に加入した直後、彼女はケルシー医師により短時間内の任務参加を禁じられた。代わりに彼女に与えられた唯一の任務は、患者としてゆっくり療養すること。
+	これに対し当時の彼女はかなり困惑していた。戦闘以外に自分のすべきことを、彼女はまったく知らなかったからだ。
+	幸いなことに、個性あふれるロドスの人々に助けられ、フロストリーフは戦いながら生活を楽しめるようになり、彼女の世界も色鮮やかになってきた。
+
+	Archive File 3 :
+	Rhodes Island recruited Frostleaf back when she was a mercenary, but upon her official admission, Dr. Kal'tsit ordered her to take only one mission--convalescing as a patient. 
+	That presented a huge quandary, since Frostleaf up to this point had known nothing but war. 
+	Fortunately, with help from the island's diverse population, Frostleaf gradually learned to enjoy life outside combat, which has opened her eyes to a whole new world.
+
+	파일 자료 3 :
+	    프로스트리프는 협력 용병 신분으로 로도스 아일랜드에 합류하였지만, 정식 입사 후 그녀는 닥터 켈시로부터 단기간 내 임무 수행을 하지 말 것을 명령받았다. 그 당시 그녀의 유일한 임무는 환자로서 요양하는 것이었다.
+	    이는 당시 그녀에게 엄청난 당혹감을 선사하였다. 왜냐하면 그녀는 전투를 하지 않는 자신이 어떤 것을 해야 하는 지 전혀 알지 못했기 때문이다.
+	    다행히도 개성 넘치는 로도스 아일랜드 오퍼레이터들의 도움 하에, 프로스트리프는 조금씩 전투를 하면서도 자신의 생활을 즐기는 방법을 습득하였고, 그녀의 내면 세계 역시 다양한 색깔에 물들기 시작하였다.
+
+———————————————————————————————
+
+	档案资料四 :
+	在花费了一段时间去接受治疗，并学会了如何去生活后，霜叶小姐曾以为自己已经足以返回战场了。她于是去向凯尔希医生申请，凯尔希医生并没有同意，但是允许她可以上战场试一试。 
+	然后，当她充满自信地踏上战场，以为自己能更好地战斗时，她忽然发现，把武器挥向敌人，突然变成了一件非常困难的事。按照事后她的说法，当时，她以为自己早就已经忘了的，少年兵时期的记忆，突然如潮水般涌上她的心头。 
+	那一天，她在战场上痛哭失声。 
+	自那一天起，霜叶小姐才逐渐变成了现在的霜叶小姐，一个爱听音乐，打扮时尚，稍微有点冷淡的酷女孩。
+
+	第四資料 :
+	少し時間をかけて治療を受けながら、普通の生活にも慣れてから、フロストリーフはもう戦場に戻れると思っていた。彼女はケルシー医師に申請を出したものの承認されず、代わりに試し程度の出戦許可が出された。
+	自信を持って戦場へ向かい、前以上に戦えると思っていた彼女だが、敵に武器を振るうことが極めて困難になっていることに気づいた。後日彼女はこう語った。あの時、とっくに忘れていたはずの少年兵時代の記憶は、満ちてくる潮のように、急に頭に浮かんできた。
+	あの日、彼女は戦場で号泣した。
+	それ以降、フロストリーフは徐々に今のように変わっていった。音楽好きでおしゃれで、少しクールな女の子に。
+
+	Archive File 4 :
+	After a considerable period of treatment and adapting to a life off the battlefield, Frostleaf thought she would return again to the world of war. She sought clearance from Dr. Kal'tsit but was denied a full release. Instead, Kal'tsit granted her permission for just one excursion. 
+	Frostleaf confidently strode into battle, eager to fight again, only to discover how difficult it had become for her to swing a weapon at an enemy. She later confessed that she was overwhelmed by the memory of her struggles in the Junior Army, something she thought she had completely left behind her. 
+	She audibly wept on the field that day. 
+	From then on, Frostleaf slowly turned into what she is now: a music lover, a fashionista, and a bit of a loner.
+
+	파일 자료 4 :
+	    한동안 치료를 받으며 어떻게 생활해야 할지 학습한 프로스트리프는 자신이 이미 전장으로 돌아갈 준비가 충분히 되었다고 생각했기에, 그녀는 닥터 켈시를 찾아가 복귀를 신청하였다. 닥터 켈시는 완전히 동의하지는 않았지만 그녀가 전장에 나가 한번 시험해볼 것을 허락하였다.
+	    전장에서 자신이 이전 보다 훨씬 더 잘 해낼 수 있을 거라 생각한 순간, 그녀는 갑자기 무기를 적에게 휘두르는 일이 아주 어려운 일로 변했음을 느낄 수 있었다. 나중에 들은 그녀의 말에 의하면, 당시 그녀는 자신이 이미 잊었다 생각한 소년병 시절의 기억이 갑자기 밀려오는 파도처럼 그녀의 마음속에 차오르는 경험을 하였다고 한다. 그리고 그 날, 그녀는 전장에서 목 놓아 울었다.
+	    이때부터, 프로스트리프는 점차 지금의 프로스트리프로 변했다. 음악 감상을 즐기고, 트렌디한 패션을 좋아하는, 조금 냉랭하지만 쿨한 여자아이의 모습으로 말이다.

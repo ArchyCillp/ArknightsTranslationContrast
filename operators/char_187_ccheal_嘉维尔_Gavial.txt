@@ -1,11 +1,17 @@
 ID:
 	char_187_ccheal
 
-干员代号\Name:
+CV:
 	嘉维尔
 	ガヴィル
 	Gavial
 	가비알
+
+干员代号\Name:
+	诹访彩花
+	諏訪彩花
+	Ayaka Suwa
+	스와 아야카
 
 招聘合同\Character Usage:
 	罗德岛医疗干员嘉维尔，将用其特殊的医疗手段保障大家的生命安全。
@@ -43,177 +49,353 @@ ID:
 	활력회복-광역
 
 语音\Voices:
-	休息的时候就该好好放松，对吧？不过，你现在得接受治疗。
 	休みのときぐらい、ちゃんと休んだほうがいいんじゃねぇの？ま、今のお前に必要なのは治療だがな。
 	You deserve to rest well in your off time! But you gotta get your treatment first.
 	쉴 때 정도는 제대로 쉬는 편이 좋지 않아? 뭐, 지금 네게 필요한 건 치료지만.
 
-	哈？温柔可爱？那不是护士吗？我可是专业的治疗者，对治疗之外的事情没有兴趣。
 	はぁ？優しく愛想よくだと？そりゃ看護師だろ？アタシは治療のプロってだけ、治療以外にゃ興味ないんだよ。
 	Huh? You want me to be gentle and caring? That's a nurse's duty. I'm a physician, healing is my duty. I'm not interested in anything else.
 	뭐? 상냥하고 사근사근하게? 그건 간호사잖아? 난 치료의 프로일 뿐이야, 치료 말고는 흥미 없다고.
 
-	不知道为什么，来这里以后，凯尔希医生总是告诫我，要好好对待患者。
 	なんでだろうな、ここに来てから、よくケルシー先生に説教を食らうんだよな。患者には優しくしろってな。
 	For some reason, Dr. Kal'tsit has been reminding me to be nice to my patients ever since I arrived here.
 	왜일까, 여기 와서 켈시 선생님한테 자주 잔소리를 듣는데 말이야… 환자한텐 상냥하게 대하라고.
 
-	一般的医生，总是在烦恼要怎么保护好自己，但我的烦恼是......怎么才能让患者不害怕我。
 	普通の医者は、どうやって自分の身を守るかよく悩むらしいが、アタシの場合は……どうやって患者に怖がられないようにするかってのが一番の悩みだな。
 	A doctor's biggest concern is usually to protect themselves from the diseases they're often in contact with. My biggest concern, on the other hand... is that my patients are all afraid of me.
 	평범한 의사는 어떻게 자신의 몸을 지킬지 자주 고민한다는데, 나 같은 경우에는… "어떻게 해야 환자가 겁을 안 먹을까"가 가장 큰 고민이지.
 
-	接受治疗时，认真听我说话！看我这里！举起双手！不许乱动！
 	治療の時は、アタシの言うことをちゃんと聞けよ！コラ！こっち見て両手を挙げろ！勝手に動くな！
 	You're here for treatment, so listen to me closely! Look at me! Hands up! Don't move!
 	치료할 때는 내 말을 잘 들어 임마! 여기 보고 양손 들고! 쓸데없이 움직이지 마!
 
-	医生和士兵，救人者和杀生者，人们都觉得这两种人做的事正好相反，不过我倒觉得这两者都一样，都是牺牲者。
 	医者と兵士、助ける側と殺す側……真逆の存在ってよく言われるが、アタシにとってはどっちも一緒さ。みんな犠牲者だ。
 	A doctor and a soldier... one saves lives and one takes lives. People think we're polar opposites, but to me we're one and the same—both are mere sacrifices.
 	의사와 병사, 구하는 쪽과 죽이는 쪽… 정반대의 존재라는 말을 자주 듣지만, 내게 있어선 어느 쪽이든 똑같아. 모두 희생자야.
 
-	啊？我没对别人动粗啊，就是想和他们寒暄寒暄。你看，就像这样......就是一种用肢体动作触碰对方，拉近彼此距离的行为嘛......
 	ああん？殴ってねぇよ。あんなの挨拶だろ挨拶。ほら、こう……スキンシップで距離を縮めるなんて言うだろ……。
 	Huh? I never hurt anyone. I was just trying to be friendly. See? Like this... I initiate physical contact to get closer to other people.
 	뭐 인마? 안 때렸어, 그런 건 인사잖아 인사. 봐봐, 이렇게… 스킨십으로 거리를 좁힌다고들 하잖아?
 
-	有点怀念故乡了......虽然当医生是我自己选的，但完全没想到会变成现在这样。人生的岔路，还真是让我走上了啊。
 	少しだけ、故郷が恋しくなった……自分で選んだ道ではあるが、まさかここまで来れるとはな。人生の分かれ道って、本当にあるんだな。
 	I kinda miss my hometown now... I picked this career path myself, but I never imagined that this is how I'd end up. I chose the path less taken... and it made all the difference.
 	조금, 고향이 그리워졌어… 내가 고른 길이긴 하지만, 설마 여기까지 올 줄이야. 인생의 갈림길이란 게 정말 있긴 있나 봐.
 
-	不管博士还是我，都是走在没人走过的路上的旅人哪。就因为这样，所以咱们才能互相理解吧。
 	ドクターもアタシも、未踏の地をゆく旅人ってわけだ。だからこそお互い、理解し合えるんだろうな。
 	Doctor... you and I are both travelers on a lonely road. I guess that's why we understand each other so well.
 	박사도 나도, 미지의 땅으로 향하는 여행자인 거야. 그러니까 서로를 이해할 수 있는 거겠지.
 
-	这家伙，睡着了吗？哈哈~
 	コイツ……寝てんのか？ハハッ。
 	Oh, you... you're asleep, huh? How cute.
 	이 자식… 자고 있는 건가? 하하
 
-	我是医疗术师嘉维尔。先说好了，对我，可不能以貌取人，明白吗？
 	医療術師のガヴィルだ。一応言っとくが、アタシのコトを見た目だけで判断するんじゃねぇぞ。
 	I'm Medic Operator Gavial. First things first... do not judge me by my appearance. Got it?
 	메딕 캐스터 가비알이라 한다. 일단 말해두겠는데, 날 겉만 보고 판단하지 마라.
 
-	嘁，我还以为是要上格斗课呢。
 	ちっ……格闘のレッスンかと思ったらこれか。
 	Tch, I thought we were gonna have combat class.
 	칫… 격투 레슨인 줄 알았건만, 이거였냐.
 
-	这家伙那家伙的都害怕我给他们治疗，只有你一个人接受我，多谢啦。
 	どいつもこいつもアタシの治療を怖がるけどよ。お前だけだぜ、認めてくれたのは。あんがとな。
 	Everyone is terrified of my treatments... you're the only one who accepts me for what I am. Thank you...
 	이놈이나 저놈이나 내 치료를 무서워하는데 말이야. 너밖에 없어, 인정해 준 건. 고맙다.
 
-	好了玩耍到此为止，接下来我就认真一下！
 	ま、お遊びはここまでだ。ここからは本気で行くぜ！
 	All right, no more fooling around. I'll be serious from now on.
 	뭐, 장난은 여기까지다. 이제부턴 진심으로 간다!
 
-	后方就交给我，你们只管往前冲！
 	後ろはアタシに任せて、お前らはとにかく前に突っ込め。
 	You guys go ahead. Leave the rear to me.
 	뒤는 나한테 맡기고, 너희는 일단 앞으로 돌진해!
 
-	好！一个个的都排好队！
 	よおし、まずそこに並べ。
 	All right, get in line, everyone!
 	좋아! 일단 거기에 늘어서.
 
-	好，各位都冷静点。
 	よし！お前ら、落ち着いていけよ……。
 	All right, calm down, everyone.
 	좋아! 너희들, 좀 침착히 가라고… 
 
-	来了！
 	来やがったぜ！
 	Coming!
 	왔어!
 
-	开始吧。
 	始めるぜ。
 	Let's begin.
 	시작하자!
 
-	要我做什么好？
 	何すりゃいいんだ？
 	What would you like me to do?
 	뭐 하면 되지?
 
-	准备治疗！
 	治療の準備だ！
 	Ready to heal!
 	치료 준비다!
 
-	需要治疗的家伙站出来！
 	治療してほしい奴は前に出ろ！
 	Everyone who needs healing, come over!
 	치료받고 싶은 녀석은 앞으로 나와!
 
-	想被治疗，先到我够得着的地方来！
 	アーツの治療範囲に入れ！
 	You need treatment, right? Then come closer!
 	아츠 치료 범위 안으로 들어와!
 
-	干什么呢你！
 	何やってんだ！
 	What do you think you're doing?
 	뭐 하고 있는 거야!
 
-	振作起来啊！
 	しっかりしろ！
 	Come on, get it together!
 	정신 차려!
 
-	现在就来救你！
 	いま助けてやる！
 	Hang in there, I'm coming!
 	지금 구해줄게!
 
-	就这种程度的对手，轻轻松松啊。
 	この程度の相手か。余裕だ余裕。
 	Meh, those enemies... not much of a threat.
 	이 정도의 상대인가. 완전 식은 죽 먹기네.
 
-	那些家伙也太弱了，我还想着，能拿这把杖多敲打他们几下咧。
 	連中、弱すぎだな。この杖でもう少し暴れたかったぜ。
 	Taking out those fools... piece of cake. I regret not whacking them a few more times with this cane.
 	얘네들, 너무 약한데. 이 지팡이로 좀 더 날뛰고 싶었는데.
 
-	你们，没接受过应急医疗训练嘛！
 	お前ら！応急手当の訓練はどうした？
 	Have you guys never taken emergency response training courses?
 	너희들! 응급조치 훈련은 어쨌어?
 
-	可恶......别以为我就这么放弃了。
 	クソッ……いくら怪我人が出てるからって……これでアタシが諦めると思うなよ。
 	Darn it... I'm not giving up yet!
 	젠장…… 아무리 부상자가 나온다 해도…… 이걸로 내가 포기할 거라 생각하지 마!
 
-	看看都有哪些有趣的家伙在啊？
 	どれどれ、面白そうな奴はいるかな？
 	Let's see if there are any interesting people here!
 	어디 보자, 재밌어보이는 녀석이 있으려나?
 
-	喂，快住手！
 	おい、やめろって！
 	Hey, stop!
 	야, 그만하라고!
 
-	想让我老实听话？不 可 能！
 	アタシが大人しくするわけないだろ。諦めな！
 	You want me to be obedient and listen? No way!
 	내가 얌전히 있을리 없잖아. 포기해!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	哟，博士。
 	よお、ドクター。
 	Hey, Doctor.
 	여어, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】嘉维尔
+	【性别】女
+	【战斗经验】八年
+	【出身地】未公开
+	【生日】5月1日
+	【种族】阿达克利斯
+	【身高】163cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ガヴィル
+	【性別】女
+	【戦闘経験】八年
+	【出身地】未公開
+	【誕生日】5月1日
+	【種族】アダクリス
+	【身長】163cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Gavial
+	[Gender] Female
+	[Combat Experience] 8 years
+	[Place of Birth] Undisclosed
+	[Date of Birth] May 1
+	[Race] Archosauria
+	[Height] 163 cm
+	[Infection Status] 
+	Originium crystals are visible on the skin. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 가비알
+	[성별] 여
+	[전투 경험] 8년
+	[출신지] 미공개
+	[생일] 5월 1일
+	[종족] 아다크리스
+	[신장] 163cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포가 확인되며, 의학 테스트 보고서 참고 결과 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】标准 
+	【生理耐受】优良 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	前自由佣兵，感染矿石病后被迫背井离乡，几经辗转最终加入罗德岛。 
+	身体素质、破坏力、战斗技巧，无一不是水准以上，但出于本人意愿，现作为医疗干员活跃于战场之上。
+
+	個人履歴 :
+	元フリー傭兵。感染した後やむを得ず故郷を離れ、転々とした生活を経てロドスに入った。
+	身体能力や破壊力、戦闘スキルのどれも高水準であるが、本人の希望により、現在医療オペレーターとして戦場で活躍している。
+
+	Profile :
+	Gavial is a former mercenary, forced to leave home after contracting Oripathy and ultimately joining Rhodes Island after a period of instability. 
+	Above-average in physical strength, destructive prowess and tactical skills, she nonetheless opted to be a combat medic.
+
+	프로필 :
+	    과거 용병으로 활약했으나, 광석병에 감염된 후 고향을 자신의 의지와 상관없이 떠나게 되었고, 이후 이곳저곳을 전전하다 결국 로도스 아일랜드에 도착했다. 신체 조건, 파괴력, 전투 기술까지 모든 항목이 평균 이상이었지만, 본인의 뜻에 따라 현재는 메딕 오퍼레이터로서 활약 중이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】15% 
+	只是稍微受了点感染，完全不碍事！
+	
+	【血液源石结晶密度】0.26u/L
+	自己的身体当然还是我自己最清楚了，罗德岛的医疗手段确实有效果，现在病情已经相当稳定了。不过，身体能力比巅峰时期确实下降了不少，看来还是得适当复健一下啊......
+	——嘉维尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】15%
+	この程度の感染、全く問題ない！
+	
+	【血液中源石密度】0.26u/L
+	自分の体は自分が一番よくわかる。ロドスの治療は確かに効いてるから、今は結構安定してるよ。まぁ、身体能力がピークの時よりだいぶ落ちたのは認める。適当にリハビリしとかないと……
+	——ガヴィル
+
+	Clinical Analysis :
+	Imaging tests for this Operator showed blurry outlines of internal organs with visible dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating infection and confirming her as Infected at this stage. 
+	
+	[Cell-Originium Assimilation] 15% 
+	Minor infection, nothing to be concerned about! 
+	
+	[Blood Originium-Crystal Density] 0.26u/L 
+	I know my own body the best, of course. Rhodes Island's course of treatment has been effective in controlling and stabilizing the disease. However, physical performance has been affected considerably, down peak levels. Guess it's time to do some rehab... 
+	—Gavial
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 15%
+	살짝 감염된 것일 뿐, 아무런 문제 없음!
+	
+	[혈중 오리지늄 결정 밀도] 0.26u/L
+	제 몸은 당연히 저 자신이 가장 잘 알고 있습니다. 로도스 아일랜드의 의료 수단은 확실히 효과가 있었고, 덕분에 현재 병세가 안정기에 접어들었어요. 하지만 최고일 때와 비교하자면, 확실히 제 신체 능력이 적지 않이 약화된 걸 느낍니다. 역시 건강을 회복하려면 꽤나 노력해야겠네요……
+	——가비알
+
+———————————————————————————————
+
+	档案资料一 :
+	各种意义上都不像是医生的医生，经常会被怀疑手中的魔杖是用来敲人而非使用治疗法术的。 
+	为人直爽，深入接触之后会发现她是一个十分尽职的医生，不过在那之前，往往要先经过害怕被她失手做掉等一系列疑虑的洗礼。 
+	一般不给人摸尾巴。
+
+	第一資料 :
+	手に持つアーツユニットが治療ではなく人を叩く用のものと疑われるほど、いろんな意味で医者っぽくない医者である。
+	率直な性格を持つ彼女のことを深く知れば、職務に忠実な医者であることを理解できる。しかしその前に、彼女の手違いで命を落としかねないという危惧の洗礼を受けるのは多くの人の経験だ。
+	しっぽは基本的にお触り禁止。
+
+	Archive File 1 :
+	Gavial is a doctor who defies all conventional definitions of the word, people assume she'd sooner smash someone's head in with her staff than use it to heal the sick. 
+	She is straightforward, and it becomes clear she is a very dedicated physician only after frequent contact. Until then, she often has a lot of work to do to convince patients of her skills. 
+	Generally will not let anyone touch her tail.
+
+	파일 자료 1 :
+	    여러모로 의사 같지 않은 의사다 보니 언제나 다른 사람에게 손에 들고 있는 마법 지팡이가 사실은 치료용이 아니라 다른 사람들을 때리기 위한 게 아니냐는 의심을 받곤 한다. 하지만 시원시원한 성격의 그녀를 깊이 알게 된다면, 그녀가 매우 성실한 의사라는 것을 알 수 있을 것이다. 물론 깊게 알게 되기 전까지는, 혹시나 그녀의 실수로 인해 목숨을 잃지는 않을까 두려워하는 시련을 겪게 될 테지만 말이다.
+	    일반적으로 남이 꼬리를 만지게 두지 않는다.
+
+———————————————————————————————
+
+	档案资料二 :
+	阿达克里斯在世人中眼中，一直是个全民尚武的族群，从他们之中走出的，无一不是骁勇善战的战士，而像嘉维尔小姐这样的医生却是绝无仅有。 
+	更让人奇怪的是，虽然她确实拥有阿达克里斯中少见的治疗法术天赋，但这并不意味着她的战斗能力有任何缺陷。相反，她的综合战斗能力相当之高，这样的她究竟为什么会成为一名医生呢？幸好，她并不忌讳谈起她的过去： 
+	曾经，她也是自己部族数一数二的战士。但在觉醒了治疗法术天赋后，她毅然选择了以救死扶伤为己任。 
+	......是的，就这么简单，如同她这个人一样，即使因此被同胞排斥，最终被迫离开部族，她也从未后悔过。
+
+	第二資料 :
+	世間の考えでは、アダクリスはずっと武力至上な種族だ。この一族出身の人は皆勇敢な戦士である。しかしガヴィルのような医者は唯一無二だ。
+	さらに不思議なのは、彼女は確かにアダクリスでは珍しい治療アーツの才能の持ち主だが、戦闘能力に不足があるというわけではない点だ。むしろかなり高い総合戦闘力を持つ彼女は、なぜ医者の道を選んだのか。幸い彼女は自分の過去について、口を閉ざすことはなかった。
+	昔の彼女も、一族ではトップレベルの戦士だった。しかし治療アーツの才能が目覚めてから、彼女は人の救助を選んだ。
+	極簡単なことで、まるで彼女自身のよう。この決定が原因で同胞に除け者にされて、部族を離れることになっても、彼女は一度も後悔したことがない。
+
+	Archive File 2 :
+	To most people, the Archosauria are a warrior race, all of whom are combat ready. Thus, a physician like Gavial is indeed a one-of-a-kind anomaly. 
+	What's even more curious is that while she does possess the natural aptitude for healing that is so rare in an Archosaurian, that is not to say she should shy away from battle. Quite the opposite, her overall fighting prowess is rather remarkable. So why did she choose to become a healer? Fortunately, she doesn't mind elaborating on her past: 
+	She was one of the most renowned warriors of her tribe, but once she realized she has the talent for healing Arts, she chose to save lives rather than end them. 
+	...Yes, it was simple as that, just like Gavial. Even when she was ostracized and eventually exiled from her home, she's never wavered or regretted it.
+
+	파일 자료 2 :
+	    아다크리스 족은 으레 모두가 무예를 숭상하는 사람들로 여겨진다. 아다크리스 사람들은 하나같이 용맹스럽고 싸움을 잘 하는 전사들이다 보니, 가비알처럼 의사인 아다크리스 족은 전혀 찾아볼 수 없다.
+	    더욱 기이한 것은, 그녀가 아다크리스로서는 드물게 천부적인 치료 마법 관련 재능을 타고났지만, 그렇다고 이것이 그녀의 전투 실력이 부족함을 의미하진 않는다는 점이다. 그녀의 종합 전투 능력은 상당히 높은데, 그녀는 대체 왜 의사가 된 것일까? 다행히도, 가비알은 자신의 과거사에 대해 이야기 하길 꺼려하지 않았다.
+	    가비알도 한때는 자기 부족에서 손꼽히는 전사였지만, 자신이 치료 마법에 천부적인 재능이 있단 걸 깨닫고 난 뒤로는 자연스럽게 죽음에 처한 사람을 구조하고, 부상자를 돌보는 것을 자신의 업으로 삼았다고 한다.
+	    ……그렇다, 그냥 이렇게 간단한 이유였다. 하지만 그녀 같은 사람이라도, 결국 이때문에 동포로 부터 배척당하고 부족을 떠나도록 강요받았지만, 그녀는 이에 대해 조금도 후회한 적이 없다고 한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	嘉维尔小姐感染矿石病的经历，在她的口中，也和她成为医生的经历一样简单明了： 
+	冲进矿区救人，然后感染了。 
+	在她口中，成为医生而被族人排挤也好，感染矿石病后遭受的冷眼也好，似乎都是不值一提的小事。 
+	她现在在这里，她为每个人疗伤，对她来说，这样就足够了。 
+	这样的嘉维尔小姐，是值得每个人去尊敬和学习的。
+
+	第三資料 :
+	ガヴィルが鉱石病に感染した経緯に関して、彼女の話によれば、医者になる経緯と同じように簡単なことだ。
+	人を救うため鉱区に突っ込んで行って、それで感染した。
+	彼女からすれば、医者になって同族に除け者にされても、鉱石病に感染して冷たい目に遭っても、みんな大したことではない。
+	今自分がここにいて、人を治療している。彼女にとってはこれで十分だ。
+	こんなガヴィルに対して、人は皆尊敬し見習うべきだろう。 
+
+	Archive File 3 :
+	How Gavial came to contract Oripathy, she explained it as succinctly as how she became a healer: 
+	Ran into a mining area to save lives and got infected herself. 
+	She speaks of getting ostracized by her kin for becoming a healer and the discrimination she faced due to her infection as if they were trivial matters. 
+	She finds it fulfilling to be here at Rhodes Island, treating wounds and illnesses. 
+	We all owe Gavial our respect, and should learn from her generous spirit.
+
+	파일 자료 3 :
+	    가비알이 광석병에 걸리게 된 경로는 그녀가 말한 의사가 된 이유만큼이나 간단명료하다. 바로 광산에 진입해 사람을 구하다 감염된 것이었다. 그녀는 의사가 되어 자기 종족에게 배척을 당하게 된 것도, 광석병 감염자가 된 이후 받는 싸늘한 시선도, 전부 논할 가치도 없는 작은 일로 여기는 것 같다. 그녀는 지금 여기에서 모두의 상처를 치료해줄 수 있는 것만으로 충분하다고 한다. 가비알의 이러한 모습은 모든 사람들이 보고 배울만한 모습이라 할 수 있다.

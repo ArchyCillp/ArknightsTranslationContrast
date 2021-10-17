@@ -1,11 +1,17 @@
 ID:
 	char_402_tuye
 
-干员代号\Name:
+CV:
 	图耶
 	トゥイエ
 	Tuye
 	투예
+
+干员代号\Name:
+	中野彩麻
+	中野さいま
+	Saima Nakano
+	나카노 사이마
 
 招聘合同\Character Usage:
 	医疗干员图耶，不像丰蹄的丰蹄。
@@ -43,177 +49,431 @@ ID:
 	강심제
 
 语音\Voices:
-	让我干这么无聊的事？......好吧，看在你这个人还算有趣的份上，陪你一次。
 	こんなくだらない仕事をさせるつもりか？……はいはい、お前はそこそこ面白いし、付き合ってやる。
 	You want me on work this boring thing...? Fine, fine. You're interesting enough to me. I'll go along with you.
 	이런 시시한 일을 시킬 생각인가? 그래…… 너는 그럭저럭 재미도 있으니, 어울려주지.
 
-	要搬东西的话别找我。我才不是那种丰蹄。
 	荷物の運搬は私に頼るな。フォルテだからって得意なわけじゃない。
 	If you want something moved, don't ask me. I'm not that brand of Forte.
 	짐 운반은 내게 의존하지 마라. 포르테라고 해서 잘하는 건 아니니까.
 
-	这仪器的构造可真精密......看起来眼熟？对了，如果那个叫梅尔的找过来，别告诉她我在这里。
 	びっくりするほど精密な計器だな……え、これに見覚えがある？へー。そうだ、あのメイヤーとかいうのが来ても、私がここにいるって言うなよ。
 	This is some insanely precise instrument... huh? What, familiar sight? Huhhh. Oh, right. If that Mayer person comes 'round, don't tell her I'm here.
 	깜짝 놀랄 정도로 정밀한 계기네…… 뭐? 이걸 본 적이 있다고? 헤에~ 아 맞다, 그 메이어라는 사람이 와도 내가 여기 있다고 말하지 마.
 
-	没见过我背后这种装置？过来，把手放在这里......哈哈哈哈！看你那狼狈的样子！你问喷出来的是什么？就是水咯。至于水之外还加了什么东西，嘁，不告诉你。
 	私が背負（しょ）ってる装置が珍しい？じゃあちょっと来い、手をここに……アハハハハ！その驚いた顔は傑作だな！噴き出したのは何かって？ただの水だ。混ざってるものは……フッ、秘密だ。
 	Never seen the equipment on my back before? Right, come over, put your hand here... keh-ka-hahahahahah! Look at your dumb face! You wanna know what just came out? It's water! And what's mixed in? Heh. You don't get to know.
 	내가 메고 있는 장치가 신기하다고? 그럼 잠깐 와 봐, 손을 여기에…… 아하하하하! 그 놀라는 표정, 걸작인데! 뿜어져 나온 게 뭐냐고? 그냥 물이다! 섞여 있는 건…… 훗, 비밀이다.
 
-	我对帮助别人不感兴趣。但效率的提升对所有人来说都是好事。
 	人助けなんか興味ないが、効率アップはみんなのためになる。
 	My interest in helping others is zip. But higher efficiency is good for everybody.
 	사람 돕는 일에는 관심이 없지만, 효율이 올라가는 건 모두에게 도움이 되지.
 
-	战斗结束得更快了，倒是个好消息。
 	さっさと戦いが片付くようになったのは、いいことかもな。
 	Battles finish up faster now. Good to know, I guess.
 	빨리 전투가 끝나게 된 건 잘된 일일지도.
 
-	蛋糕？软绵绵，没意思。唔......上面这颗盐渍梅果味道还不错。
 	ケーキ？ふわふわしててくだらない。けど……上の梅干しはまあまあいけるな。
 	Cake? Soft and squishy—not my speed. But. Mmp, mmnm... the umeboshi on top's not bad, sure.
 	케이크? 폭신폭신해서 재미없어. 하지만…… 위에 있는 우메보시는 꽤 괜찮네.
 
-	船上没雨，废话，我当然知道。可外面就不一定了。啧，等风暴到来的时候，记得靠近点，你会感谢我手里拿着它的。
 	艦内じゃ雨は降らない？当然知ってるが、外じゃそうとも限らない。嵐が来たら近づいてみろ、きっと私のこれに感謝することになる。
 	No rain in the ship? Wow. Like I don't know that? Now try and predict how it goes down out there. Next time there's a storm, just try it, get a little closer. Bet you won't stop thanking me then.
 	함 내에는 비가 안 온다고? 당연히 알고 있지만, 밖에서는 그렇지도 않으니까. 폭풍이 오면 가까이 가봐, 반드시 나의 이것에 감사하게 될 거다.
 
-	喂，想不想去沙漠一日游？我带你。去别的地方也可以。只要带上我的多功能喷气背包，跟着风的味道走......啧啧，像我这么优秀的向导，你赚翻了。
 	おい、砂漠に日帰り旅行するのはどうだ？連れてってやるから。他の場所でもいいけど。とにかくこの多機能噴射バッグを持って、風の匂いに任せて行けば……フンッ、私みたいに優秀なガイドがいて、お前も幸せだな。
 	Oi. How does a day trip in the desert sound? I'll take you. I mean, anywhere else is fine too. As long as we have my multifunction jetpack, following the scent of the wind... heh. You must be dumb happy, having a guide as stellar as me.
 	어이, 사막으로 당일치기 여행은 어때? 데려가 줄 테니까. 음…… 다른 장소도 상관없지만, 아무튼 이 다기능 분사 가방을 가지고 바람의 냄새를 따라가면…… 흥, 나같이 우수한 가이드가 있어서 너는 참 행복하겠구나.
 
-	没动静？那我可以试试这招了，水流更劲，喷洒面积更大......可不许抱怨哦。
 	寝てるのか？じゃあこれを試させてもらう。噴射力と噴射面積を上げて……文句はナシだからな。
 	You out cold? Then let me just try this. Harder flow, greater spray area... And you get no right to complain.
 	자고 있나? 그럼 이걸 시험해 보지. 분사력과 분사 면적을 올려서…… 불평하기 없기다?
 
-	博士？他们说在这里你懂得比谁都多，那我可要好好看看。
 	お前がドクターか？みんなドクターって奴が一番の物知りって言ってたから、それを確かめさせてもらおう。
 	You the Doctor? They all say you're the one here who knows more than the rest. You're gonna let me figure that out.
 	네가 박사야? 다들 박사라는 녀석이 제일 박식하다고 하던데, 그걸 확인해보도록 하지.
 
-	和穿越沙漠一样，战斗也用不上经验。只需要想活下去的本能。
 	戦いは砂漠を渡るのと同じで、経験なんて役に立たない。必要なのは生存本能だけだ。
 	Combat's just like crossing the desert, where experience means nothing. Your only need is survival instincts.
 	싸움은 사막을 건너는 것과 같아서, 경험 같은 건 그다지 도움이 안 돼. 필요한 것은 생존본능뿐이다.
 
-	这晋升徽章也没什么别的功能了啊，没劲。
 	このエリートメダル、何の機能もついてないのか？つまらないな。
 	Doesn't this Elite Medal have any other kind of function? No fun there.
 	이 정예 메달, 아무런 기능도 없는 건가? 재미없네.
 
-	医疗方面的专家？真是没想到。总之都是确保任务完成是吧。
 	医療のプロ？まさか私がそんな風に呼ばれるようになるとは。とにかく、今まで通り任務をこなせばいいんだな。
 	Medical pro? It's a weird world where I get called that. Anyway, it's all about getting my jobs done, either way, right?
 	의료의 프로? 설마 내가 그런 식으로 불리게 될 줄이야. 아무튼, 지금처럼 임무를 수행하면 되는 거지?
 
-	又要出外勤？好吧，回来帮我试新装备。
 	また外仕事か？はいはい、終わったら新装備のテストに付き合ってもらおう。
 	Out for field work again? Fine, fine. You're helping me test new equipment when we get back.
 	또 외근이야? 알았어, 알았다고. 끝나면 새 장비 테스트를 하는데 어울려줘야겠어.
 
-	带队作战和当向导差别不大。
 	作戦の隊長になるのは、ガイドをするのと同じようなものだろ。
 	Leading team combat doesn't differ much from being a guide.
 	작전에서 팀장이 된다는 건 가이드를 하는 거랑 같은 거잖아?
 
-	路线合理，装备正常，出发。
 	ルートOK、装備も異常なし。出発。
 	Route, OK. Equipment, check. Go.
 	루트 오케이, 장비도 이상 없음. 출발.
 
-	比遇上风沙还要无聊。
 	砂嵐に遭うよりずっとくだらないな。
 	More boring than running into a sandstorm.
 	모래 폭풍을 맞는 것보다 훨씬 시시하네.
 
-	有事就说。
 	さっさと言え。
 	Speak up.
 	빨리 말해.
 
-	我在思考......
 	考えてる……
 	I'm thinking...
 	생각 중이다……
 
-	很好，效率将会提升17%。
 	よし、効率17%アップだ。
 	Good. Efficiency up by 17%.
 	좋아, 효율 17% 상승이다.
 
-	得快些行动了。
 	早く動かないと。
 	Need to move faster.
 	빨리 움직여야 해.
 
-	再快一些。
 	もっと速く。
 	Faster.
 	더 빨리.
 
-	试试新改的装备。
 	改良した装備のテストだ。
 	Time to test my upgraded equipment.
 	개량한 장비를 테스트해 봐야겠군.
 
-	新款营养液味道如何？
 	新しい栄養剤の味はどうだ？
 	How's the newest nutritional fluid taste?
 	새로운 영양제 맛은 어때?
 
-	风的味道变了......
 	風の匂いが変わった……
 	Scent of the wind's changed...
 	바람 냄새가 달라졌어……
 
-	嘁，我见过的风沙比这个厉害多了。
 	チッ、私が見てきた砂嵐はこんなのよりずっとすごい。
 	Tch. The sandstorms I've seen beat this any day.
 	쳇, 내가 봐왔던 모래 폭풍은 이런 것보다 훨씬 어마어마하다고.
 
-	马马虎虎吧，还不算浪费时间。
 	ギリギリ合格だな。時間の無駄にはならなかった。
 	Scraped through, huh. Wasn't a waste of time.
 	간신히 합격이군. 시간 낭비는 되지 않았어.
 
-	效率不够，回去试试调整装备，或许再换个试剂。
 	効率不足だ。戻って装備の調整か、薬剤の交換だな。
 	Efficiency lacking. Gotta head back and adjust my equipment, or switch reagents, maybe.
 	효율이 부족해. 돌아가서 장비를 조정하거나 약제를 바꿔야겠어.
 
-	至少选了合格的撤退路线......
 	少なくとも撤退ルートの選定は上手くできたみたいだな……
 	At least you figured a good retreat route...
 	적어도 철수 루트 선정은 잘 된 것 같네……
 
-	原来有这么多房间......
 	こんなたくさん部屋があるんだな……
 	You have a lot of rooms, huh...
 	이렇게나 방이 많다니……
 
-	别这么无聊。
 	くだらないマネするな。
 	You gotta stop the boring crap.
 	시시한 짓 하지 마.
 
-	要不要再摸一下我的背包？这回会避开你的脸，我保证。
 	もう一回私のバッグに触ってみるか？今回は顔に当てないと保証してやるから。
 	Wanna try touching my bag again? Won't hit your face this time. Promise.
 	한 번 더 내 가방 만져볼래? 이번에는 얼굴에 안 맞춘다고 약속할게.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	外面天气不错，又下雨了呢，博士。
 	また雨か。いい天気だな、ドクター。
 	Rain again. Good weather, huh, Doctor?
 	또 비가 오네. 좋은 날씨야, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】图耶
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】萨尔贡
+	【生日】4月15日
+	【种族】丰蹄
+	【身高】153 cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】トゥイエ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】サルゴン
+	【誕生日】4月15日
+	【種族】フォルテ
+	【身長】153cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Tuye
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Sargon
+	[Date of Birth] April 15
+	[Race] Forte
+	[Height] 153cm
+	[Infection Status]
+	Originium crystals distributed across surface of body, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 투예
+	[성별] 여
+	[전투 경험] 없음
+	[출신지] 사르곤
+	[생일] 4월 15일
+	[종족] 포르테
+	[신장] 153cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】优良
+	【生理耐受】普通
+	【战术规划】优良
+	【战斗技巧】普通
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】優秀
+	【戦闘技術】普通
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Excellent
+	[Physical Resilience] Normal
+	[Tactical Acumen] Excellent
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 우수
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	前贸易公司员工，负责后勤技术研发及运输路线规划。因为一场货运途中的沙暴事故，不幸感染矿石病。经原公司介绍，来到罗德岛医疗部门供职，同时进行必要的矿石病治疗。
+
+	個人履歴 :
+	貿易会社の元社員であり、後方技術の研究開発と輸送ルートの企画を担当していた。貨物の輸送中に遭遇した砂嵐による事故で、不幸にも鉱石病に罹患してしまう。会社の紹介でロドスに転職し、医療部門で勤める傍ら、鉱石病治療を受けている。
+
+	Profile :
+	Former trading company employee, responsible for logistical technology R&D along with transport route planning. Unfortunately infected with Oripathy due to an incident in a sandstorm during the course of her work. Holds a post at the Rhodes Island Medical Department on introduction from her previous employer, simultaneously undergoing necessary treatment for Oripathy.
+
+	프로필 :
+	    전 무역 회사 직원으로, 후방 지원 기술 연구 및 운송 노선 기획을 담당하고 있다. 불행하게도 화물 운송 도중 만난 모래 폭풍 사고로 인해 광석병에 감염되었다. 이후 전 회사의 소개를 받아 로도스 아일랜드 의료부에서 근무하게 되었으며, 필요한 광석병 치료를 병행하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】7%
+	该干员体表有少量源石结晶分布，多集中在背部与腹部。
+	
+	【血液源石结晶密度】0.29u/L
+	该干员在短时间内接触到了大量源石成分，情况本身相当危险，所幸发现和治疗都很及时，目前病情稳定，下一阶段治疗目标是进一步将她体内的血液源石结晶密度压低。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果に異常があり、鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7%
+	体表に少量の源石結晶の分布が見られる。主に背中と腹部に集中している。
+	
+	【血液中源石密度】0.29u/L
+	当該オペレーターは短時間に大量の源石成分と接触したため、非常に危険な状態にあったが、幸い、発見・治療共に素早く行われたため、現在は病状が安定している。次の段階の治療目標として、血液中源石密度を更に低下させることを予定している。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Assimilation] 7%
+	Some mild crystallization visible on the surface of the Operator's body, concentrated on the back and abdomen.
+	
+	[Blood Originium-Crystal Density] 0.29u/L
+	Operator was exposed to a high amount of constituent Originium within a short amount of time. Her situation itself is quite precarious; fortunately, discovery and treatment were both very prompt, and her present condition is stable. Her ensuing course of treatment will aim to further lower her internal blood Originium-crystal density levels.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 7%
+	오퍼레이터 체표면에 소량의 오리지늄 결정 분포, 주로 등과 복부에 집중되어 있음.
+	
+	[혈중 오리지늄 결정 밀도] 0.29u/L
+	본 오퍼레이터는 단기간에 대량의 오리지늄 성분과 접촉해 매우 위험한 상황이었으나, 다행히 적절한 시기에 발견하고 치료한 덕분에 현재 병세는 안정됨. 다음 단계의 치료 목표는 체내 혈중 오리지늄 농도를 낮추는 것.
+
+———————————————————————————————
+
+	档案资料一 :
+	刚刚来到罗德岛的图耶小姐，在经过人事部门和各个部门的综合评估之后，曾经被视作前去工程部门的上佳人选。
+	然而，就在她将要前去工程部门报到的那天，我们接到了一个紧急任务。由于当天医疗部门的人手不够，具有相关资质的图耶小姐也临时参与到了对回舰干员的紧张救治当中。经此事件，医疗部门的一众资深干员对她的应急处理能力做出高度评价，大家一致认为，虽然图耶小姐并不精通治疗法术，但是凭她对各种器械原理的了解、以及多年最危险的野外运输后勤保障工作带来的对医疗知识的掌握，她足以胜任医疗干员的工作。
+	对此调任通知，图耶小姐并没有任何异议，这一点稍稍有些出乎意料。当然，之后可露希尔小姐气冲冲地赶来医疗部门、与部分医疗干员发生言语冲突的详细经过，个人认为并不需要在这份档案中记录。
+
+	第一資料 :
+	トゥイエがロドスに来た当初、人事部やその他各部門の総合的な評定によれば、彼女はエンジニア部へ配属するのが最適だと見なされていた。
+	だが、彼女のエンジニア部初出勤となるちょうどその日に、緊急の任務が入った。その日は医療部門に人が足りなかったこともあって、サポートに適した資質を持つトゥイエも、一時的に緊急治療に加わった。この一件で、医療部門のベテランオペレーターたちは彼女の応急手当能力に高い評価を下した。トゥイエは治療系アーツには明るくないが、使用する機器の構造と作用への理解が深い。また、長年にわたって従事していた野外輸送という非常に危険な後方支援の仕事が、彼女にもたらした医療知識があれば、医療オペレーターとして十分働けると意見が一致した。
+	この人事異動に関して、トゥイエ本人が何らの異議も示さなかったのは少々意外だった。その後クロージャがおかんむりで医療部門に突撃してきて、一部の医療オペレーターと口論を起こしてしまった件への詳細な記述に関しては、私見ではあるが、本資料に記載する必要はないだろう。
+
+	Archive File 1 :
+	When Tuye had just come to Rhodes Island, and passed Human Resources' comprehensive interdepartmental assessments, she was an outstanding candidate for the Engineering Department.
+	However, on the day she was set to report to Engineering, we received an emergency mission. As the Medical Department was short-staffed that day, Tuye, possessing relevant aptitude, dove in impromptu to give critical and urgent care to operators returning aboard. Following, several senior operators from Medical gave high assessments of her emergency response capacity, and all agreed that though she wasn't proficient in healing Arts, her diverse fluency in the usage of tools—and her grasp on medical knowledge from years of work safeguarding transport logistics in the hostile wilds—qualified her to work as a Medic operator.
+	Upon notice of her transfer, Tuye had no complaints whatsoever, which was somewhat unexpected. Of course, we personally don't believe 'Closure furiously making for the Medical Department and starting a war of words with a section of its operators' needs to be recorded in detail for this file.
+
+	파일 자료 1 :
+	    투예가 로도스 아일랜드에 도착했던 당시에는 인사부와 여러 부서의 종합적인 평가에 따라 엔지니어링부에 가장 적합하다고 여겨졌었다.
+	    그러나 그녀가 엔지니어링부에 배치되기로 한 날, 우리는 긴급 임무를 받게 되었고, 당시 의료부에 사람이 부족했기에 이와 관련된 자질을 갖춘 투예 역시 함선으로 돌아온 오퍼레이터의 응급 치료 현장에 투입되었다. 그리고 이 사건 이후, 의료부의 베테랑 오퍼레이터들은 그녀의 응급 처리 능력을 높이 사게 되었다. 투예가 비록 치료 아츠에 정통한 것은 아니지만, 그녀가 지닌 각종 기계 원리에 대한 이해도와 다년간 위험한 야외 화물 운송 보급을 책임지며 익힌 의료 지식을 감안해, 그녀라면 충분히 메딕 오퍼레이터 업무를 감당할 수 있을 것이라고 다들 입을 모았다.
+	    조금 의외인 점이 있다면, 이 발령 통지에 대해 투예 본인은 별다른 이견을 제시하지 않았다는 점이다. 물론 그 후 잔뜩 화가 난 클로저가 씩씩거리며 의료부에 쳐들어가 일부 메딕 오퍼레이터들과 언쟁을 벌였지만, 이에 대한 상세한 경위는 이 파일에 남길 필요가 없을 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	图耶小姐并不是很像常见的丰蹄。她的身体并没有她的同族那般健壮，这不仅仅是由于矿石病的缘故。考虑到她常常躲在房间里，不爱运动，三餐也不规律，同时摄入了过度高糖或者高盐零食，她的体检结果还能在勉强合格的程度，这或许已经用上了一定的天赋。
+	与此同时，她的社交关系也趋近于无。她经常拒绝其他干员的邀约，不参与任何集体活动，只偶尔会光顾某些干员的实验室。而在到访之前，她也并没有自己需要打招呼的意识。好在这些实验室的主人往往也不计较这些看似“不礼貌”的举止，他们专注于手头的工作，比起客套的闲谈，更欢迎恰到好处的奇思妙想。
+	而图耶小姐最不缺的就是奇思妙想——无论是体现在鼓捣发明的巧思上，还是在偶尔进行的对她感兴趣的人的恶作剧上。
+
+	第二資料 :
+	トゥイエはよく見かけるタイプのフォルテではない。彼女の身体は同族のような強靭さを備えていないのだ。彼女は感染者であるが、この特徴は鉱石病のみを起因とするものではない。とはいえ、彼女はいつも部屋に引きこもり、運動を嫌い、食事も不規律な上、糖分や塩分が過剰なおやつばかりを摂取している。にもかかわらず、健康検査の結果が辛うじて合格ラインに引っかかっているのだから、フォルテの優れた種族的恩恵をある程度は受けているのだろう。
+	また、彼女は社交関係もゼロに等しい。他のオペレーターからの誘いは滅多に乗らず、集団活動にも一切参加しない。時たま一部のオペレーターのラボを訪ねるのみである。さらに、訪ねる際には事前連絡をしておくものだという認識もない。幸いラボの主人たちもそういう「礼儀がなっていない」言動にいちいち目くじらを立てるタイプではない。彼らは、自身の手元の仕事にこそ集中しているのが常であるし、社交辞令的な世間話よりも良いところをついた奇想天外な発想の方をずっと歓迎している。
+	そして幸いにもトゥイエは、奇想天外な発想にだけは事欠いていない――発明を弄る時の目を見張るほど精妙なアイデアにも、ごく稀に興味を持った相手に行ういたずらにも、その事実はよく表れている。
+
+	Archive File 2 :
+	Tuye has little in common with typical Forte. Her body displays none of the sturdiness of her race, and Oripathy is not the sole reason. Taking into account her constant seclusion in her room, her aversion to exercise, her lack of a strict three meals and her accompanying intake of overly sugary or salty snacks, the fact that she still just about met physical exam standards is owed to some of her innate ability.
+	Meanwhile, her social relations are also close to none. She regularly refuses other operators' invitations and doesn't participate in any group activities; she only occasionally pays visits to certain operators' laboratories. Prior to her visiting, she pays absolutely no mind to giving any notice. It's fortunate that these laboratories' owners don't tend to pick bones with 'impolite' manners, focusing entirely on the work at hand. Compared to chatting civilities, they're much more about storming up the perfect bright idea.
+	The one thing Tuye doesn't lack in that respect is bright ideas—whether reflected in her invention-tinkering ingenuity, or her occasional whim for pranks.
+
+	파일 자료 2 :
+	    투예는 흔히 볼 수 있는 포르테와는 다르다. 그녀의 신체는 다른 동족들만큼 건장하진 않은데, 이는 비단 광석병 때문만이 아니다. 언제나 방에 틀어박힌 채 운동도 좋아하지 않는 데다, 불규칙한 식습관과 과도한 당분이나 염분이 함유된 간식을 섭취하는데도 그녀의 신체검사 결과가 가까스로나마 합격할 정도라는 것을 고려해본다면, 어쩌면 이는 어느 정도 타고난 것으로 보인다.
+	    그녀의 사교 관계는 거의 제로에 가깝다. 언제나 다른 오퍼레이터의 초대를 거부하고 그 어떤 단체 활동에도 참여하지 않은 채, 어쩌다 몇몇 오퍼레이터의 실험실을 방문하는 게 전부였다. 또한 그녀에게는 방문하기 전에 먼저 알려야 한다는 생각조차 없었다. 다행히도 실험실의 주인들은 보통 이런 비교적 '예의 없는' 행동을 따지지 않았는데, 눈앞의 작업에 몰두하기 바쁜 그들은 인사치레로 건네는 잡담보다는 작업에 딱 들어맞는 기발한 발상을 더 좋아하기 때문이다.
+	    그리고 투예가 가장 자신 있는 것이 바로 이 기발한 발상이었다. 그것이 발명을 부추기는 멋진 아이디어든, 아니면 때때로 그녀가 흥미를 느끼는 사람에게 하는 못된 장난이든 간에.
+
+———————————————————————————————
+
+	档案资料三 :
+	她并没有别人说的那么不近人情。 
+	我承认，最早与她共事时候，我也以为她很难相处。因为工作需要，我们部门常常要找她确认运输路线，他们总是互相推诿，最后要靠抽签才能决定谁去找她。那个倒霉蛋总是我。每次去找她，我的心情都会变得很紧张，生怕自己出一点错，招来她的一通鄙夷。 
+	后来......那次事故。沙尘暴来得特别猛烈。这一点都不怪她，沙漠里的天气永远瞬息万变。我们被困在发动机失灵的运输车里，我以为自己一定是完蛋了。那样的环境，说真的，没人能挺过去。 
+	然后她来了。她竟然顶着风沙，从很远的基地里一路赶了过来。只有她一个人。 
+	她带来了水和营养液。我们活了下来。 
+	“必须让我这个做后勤的跑这么远来救命，你们真是太没用了。”她一边这么抱怨着，一边很耐心地陪我们修好了发动机。 
+	后来，到了很后来的时候，我再因为工作需要去找她，却发现她已经不在了。 
+	我很努力地打听，才知道她得了矿石病。我心里很清楚，就是因为那次风沙吧？没人能一头扎进那样的沙尘里还能好好的。老板不肯告诉我，大概是因为她不希望我们知道。 
+	我听说她现在在贵公司供职，所以忍不住写了这些话。这封信不需要转交给她，我只是想告诉你们，拥有这样一位可敬的员工、这样一位可爱的同事，你们是多么幸运。 
+	
+	——某位图耶干员前同事寄来的信
+
+	第三資料 :
+	彼女は人に言われているほど非情ではありません。
+	確かに、最初に彼女と共に仕事をした時は、自分も付き合いにくい相手だと思っていました。うちの部門は仕事の都合上よく彼女に輸送ルートの確認を頼みに行くのですが、いつも役目を押し付け合って、しまいには抽選で行く者を決めていたくらいです。貧乏くじを引いていたのはいつも私でした。彼女に会いに行く時は、毎度心臓を握られたように緊張していました。少しでも間違えれば、彼女に軽蔑されると思いましたから。
+	それから……あの事故が起こってしまいました。あの日の砂嵐はいつになく苛烈でした。彼女がルートの指定を誤ったせいではありません。砂漠の天気はいつも急に変わるものです。エンジンが故障した輸送車にみんなで閉じ込められて、私はもうおしまいだと思っていました。正直に言えば、あれは誰も生き残れないほど、酷な状況でした。
+	だけど、彼女が来ました。荒れ狂う風の中、叩きつける砂に塗れて、遥か遠い基地から。たった一人で。
+	彼女が届けてくれた水と栄養剤のおかげで、私たちは生き延びられたのです。
+	「後方勤務の私にこんな遠くにまで救援させるなんて、本当にダメだな、お前たち。」そう文句を言いながらも、根気よく私たちがエンジンを直すまで付き合ってくれました。
+	それから随分経った後に、また仕事の関係で訪ねたのですが、彼女はもういなくなっていました。
+	あちこち聞きまわって、ようやく彼女が鉱石病に罹患してしまったと知りました。それが例の砂嵐の一件のせいだと、私は分かっていました。あんな砂嵐に突っ込んで無事でいられる者なんていません。上司が教えてくれなかったのは、トゥイエさんが私たちに知ってほしくなくて口止めしたんだろうと推測しています。
+	彼女が今は御社で勤めていると聞き及び、耐え切れずこの手紙を書かせていただきました。本人にこの手紙を渡す必要はありません。ただ、彼女のような尊敬に値する社員と、愛すべき仕事仲間を持つことができるのは、非常に幸運なことだとお伝えしたかっただけです。
+	
+	――あるトゥイエの元同僚からの手紙より
+
+	Archive File 3 :
+	She's not as unreasonable as others say.
+	I admit, when I first worked with her, I thought working with her was a nightmare too. Work often demanded that our department check in with her for transport routes; everyone pushed that off on everyone else, to the point we'd have to draw lots to decide who went to find her. The unlucky sap was always me. Every time I went off, I'd get keyed up like nothing else, scared I'd earn her contempt if I did a single thing wrong.
+	Afterwards... the incident. This sandstorm came especially rough. It wasn't her fault; desert weather's always changed faces on a whim. We were trapped in our transport car with the engine out, and I thought my own time was up. Stuck somewhere like that, to tell you the truth, nobody could make it out.
+	Then she came. She seriously pushed through the sandstorm, catching up with us from all the way back at the base. It was just her.
+	She brought water and nutritional fluid. We survived.
+	'Forcing me all this way to save your lives? I'm a logistics worker. You guys are beyond useless,' she was complaining, but she was so patient as she helped us fix our engine.
+	Afterwards, a very long time afterwards, work needed me to find her again, and I discovered she was long since gone.
+	I asked around as hard as I could. Only then did I learn she caught Oripathy. I know it, clear as day, it was because of that sandstorm, wasn't it? Nobody could stick their head into a storm like that and come out unscathed. The boss wasn't willing to tell me. Probably because she didn't want me to know.
+	I've heard she's posted at your company now, so I couldn't help writing this. You don't need to pass this letter on to her. I just wanted to tell you, having someone venerable as her on your staff, a colleague cute as her, you're all very lucky.
+	
+	—Letter sent by Operator Tuye's former coworker.
+
+	파일 자료 3 :
+	    그녀는 다른 사람이 말하는 것처럼 인정머리 없는 사람이 아닙니다. 물론 저도 처음 그녀와 함께 일을 할 당시에는 어울리기 힘든 사람이라고 생각했습니다. 작업상의 필요 때문에 우리 부서는 종종 그녀를 찾아가 운송 노선을 확인해야 했는데, 사람들은 언제나 누가 그녀에게 찾아갈 것인지 서로 떠넘기다 결국에는 추첨으로 뽑곤 했습니다. 그리고 그 재수 없는 사람은 항상 저였었죠. 매번 그녀를 찾으러 갈 때마다 작은 실수 때문에 그녀의 조롱거리가 되지 않을까 늘 긴장하곤 했습니다.
+	    그리고 그 후…… 그 사고가 발생했습니다. 모래 폭풍이 유난히 맹렬히 몰아치던 때였죠. 물론 그녀를 탓하는 게 아닙니다. 사막의 날씨는 언제나 수시로 바뀌기 마련이니까요. 저희가 엔진이 고장 난 운반 차량 안에 고립되었는데, 저는 이제 끝이라고 생각했습니다. 사실 그런 환경에선 누구도 버틸 수 없거든요.
+	    그런데 그녀가 왔습니다. 그녀는 모래 폭풍을 무릅쓰고 먼 기지에서부터 찾아온 것입니다. 그것도 혼자서. 그녀는 물과 영양제를 가져왔고, 덕분에 저희는 살아남았습니다.
+	    "내가 이렇게 멀리까지 와서 구해줘야 하다니, 너희들 참 쓸모없구나." 그녀는 이런 불평을 늘어놓는 한편, 인내심을 갖고 엔진을 수리하는 것을 끝까지 도와주었습니다.
+	    나중에, 아주 나중에 일 때문에 다시 그녀를 찾아간 저는 뒤늦게야 그녀가 떠났다는 것을 알게 되었죠.
+	    저는 그녀에 대해 열심히 수소문했고, 그녀가 광석병에 걸렸다는 사실을 알 게 되었습니다. 전 바로 알 수 있겠더군요, 그녀가 광석병에 걸린 건 분명 그때의 모래 폭풍 때문일 거란 사실을요. 그런 모래 폭풍 속에 들어가고도 멀쩡할 수 있는 사람은 아무도 없을 겁니다. 그리고 고용주가 내게 말해주지 않은 것도 아마 그녀는 우리가 모르길 바랐기 때문이겠죠.
+	    지금 그녀가 귀사에서 근무하고 있다고 들었기에 참지 못하고 이 편지를 씁니다. 이 편지를 그녀에게 전달할 필요는 없습니다. 저는 그저 이런 존경받을 만한 직원이 있고, 이런 사랑스러운 동료가 있다는 것이 여러분에게 얼마나 행운인지 말하고 싶을 뿐입니다.
+	
+	——오퍼레이터 투예의 어느 옛 동료가 보낸 편지
+
+———————————————————————————————
+
+	档案资料四 :
+	沙漠里并没有雨。 
+	图耶小姐却始终随身带着一把雨伞，就连在船上也不例外。有许多干员对她的这把伞感兴趣，又不敢去问图耶小姐这把伞的故事。 
+	这张从图耶小姐父母那里寄来的照片或许能提供一些线索。照片上的图耶小姐比现在还要小许多，或许只有三四岁。就像我们能看到的那样，照片上的场景应该就是她的家，她整个人都躲在那柄伞下，手里抱着许多零件。那些一看就是哥伦比亚出品的零件被她堆得满满的，搭得有模有样，有的像椅子，有的像床铺。 
+	从发展心理学角度来说，许多小孩都会在童年时期有这个倾向——他们会把伞下的空间当成一个独立空间，一个只属于自己的家。这可能是因为父母过于忙碌，对这些孩子疏于照顾，导致他们感到了孤独，所以才想要一个更小、更能掌控的空间，只需要自己同自己相处。我想，图耶小姐应该也是这样。 
+	现在她依然带着这把伞。或许，我是说或许，对如今的她来说，她依然固执地认为伞下的空间才是家。有人能让她从伞下走出来吗？别人我不清楚。可是我想，那个正在阅读这份档案、被船上的各位毫无保留地信任着的人，一定可以。
+
+	第四資料 :
+	砂漠に雨が降ることはない。
+	それでも、トゥイエはいつも傘を肌身離さず持ち歩いている。ロドスに乗艦している間も例外ではない。多くの者が彼女の傘に興味津々だが、その傘にどんな物語があるのかは誰も尋ねられずにいる。
+	トゥイエの両親から送られてきたこの写真が、何らかの手がかりになるのかもしれない。写っているトゥイエは今よりもずっと幼く、せいぜい三歳か四歳くらいだろう。見ての通り、写真が撮られたのは彼女の実家だろう。彼女は開いた傘の下にすっぽりと収まっていて、細かい玩具のパーツを、たくさん腕に抱えている。ひと目でクルビア産とわかるパーツは山のように積まれていて、なかなかそれらしく組み立てられている。椅子のようなものや、ベッドのようなものがあるのが見受けられる。
+	発達心理学視点から見れば、多くの子供の幼年期にこういった傾向が見られる――つまり、傘の下の空間を独立した空間、すなわち自分だけの家と見なす傾向だ。原因としては、親が忙しさから育児を疎かにしてしまい、孤独感が生じた子供たちは、人間関係が自分自身だけで完結する、より小さく、より自分が主導権を握れる空間を欲しがることが挙げられる。トゥイエの状況もそうだったのではないだろうか。
+	彼女は、今も変わらずその傘を持ち歩いている。もしかしたら、本当にただの推測だが、彼女は今も、傘の下の空間だけを、自分の拠り所にしているのではないだろうか。ならば、彼女を傘の下から踏み出させることができる者はいるのだろうか。他の誰かはともかく、今この資料を閲覧しており、艦内の人々に無上の信頼を寄せられている者なら、きっとできると信じたい。
+
+	Archive File 4 :
+	There is no rain in the desert.
+	Tuye always carries an umbrella with her. Even aboard the ship, that doesn't change. A lot of operators are curious about the umbrella, but don't dare ask Tuye about it.
+	Perhaps this photograph sent from her mother and father can offer some clues. The Tuye in the picture is considerably younger than the present; perhaps only three or four years old. As we can see, the scene in the photo should be of her home. She's tucked entirely under the umbrella, holding some components in her arms. They are clearly Columbian-produced parts she has in a pile, assembled to imitate all sorts of items—some like chairs, some like beds.
+	From a developmental psychology perspective, many children have this same tendency—treating the space under an umbrella as an independent space, a home of just their own. This can be because the parents are overly busy, caring insufficiently for these children, and so cause them to feel lonely. For this reason, they seek a smaller, more controllable space, where they only need to get along with themselves. My belief is that Tuye is one such case.
+	Nowadays, she still carries this umbrella. Perhaps, and I do mean perhaps, she considers the cover of the umbrella to be her home, just as before. Could a person entice her to come out from underneath? I don't know about anyone else. But in my belief, the person reading this file now, in whom all of Rhodes Island has placed their unwavering trust, certainly can.
+
+	파일 자료 4 :
+	    사막에는 비가 내리지 않는다. 그럼에도 불구하고 투예는 시종일관 우산을 갖고 다니는데, 이는 함선에서도 마찬가지다. 많은 오퍼레이터들이 투예의 우산에 대해 흥미를 보이지만 감히 그녀에게 가서 묻는 사람은 없다.
+	    투예의 부모가 보내준 이 사진이 어쩌면 작은 실마리를 제공해 줄 수 있을지도 모른다. 사진 속의 투예는 지금보다 훨씬 어린 모습인데, 서너 살쯤 되는 것 같다. 보이는 것처럼 그녀의 집을 배경으로 그녀는 우산 아래에 몸을 숨긴 채 온갖 부품을 잔뜩 안고 있다. 그녀는 한눈에 봐도 컬럼비아산으로 보이는 부품을 잔뜩 쌓아뒀는데, 일부는 의자처럼, 일부는 침대처럼 제법 그럴듯한 모습을 하고 있다.
+	    발달 심리학적 측면에서 볼 때, 많은 아이들은 어린 시절 우산 아래를 자신만의 독립된 공간이자 자신만의 집으로 삼는 경향을 보인다고 한다. 이는 너무 바쁜 부모가 아이들을 돌보는데 소홀하게 되면, 외로움을 느낀 아이들이 좀 더 작고 통제할 수 있으며 혼자만 있을 수 있는 공간을 원하기 때문이다. 투예 역시 그랬을 거라 생각된다.
+	    그녀는 지금도 우산을 갖고 다닌다. 어쩌면 지금 그녀는 우산 아래의 공간이야말로 자신의 집이라는 생각을 고수하고 있는지도 모른다. 누군가 그녀를 우산 아래에서 나오게 할 수 있을까? 다른 사람은 잘 모르겠다. 하지만 나는, 이 파일을 읽고 있는, 함선 내에 있는 모두에게 아낌없는 신뢰를 받고 있는 사람이라면, 분명 가능하리라고 생각한다.
+
+———————————————————————————————
+
+	晋升资料 :
+	什么，她对你恶作剧了？恭喜你，她显然把你当成了她的朋友！
+	如果不是朋友的话，她根本会把你当空气啊。
+	当然咯，非要我选的话，比起突然被打晕绑上试验台、一边看病一边被最大的BOSS之一训话、像被无情的电脑一样扫描自己的里里外外，我觉得图耶小姐——呃，图耶医生，真的是个很不错的选择了。
+	所以说，还是要注意身体，不要受伤，不要去医疗部才是最重要的啊！
+	
+	——某出勤频率高居榜首的近卫干员的心声
+
+	昇進資料 :
+	何？あいつがお前にいたずらしたって？おめでとう！きっとお前を友達だと思うようになったんだ！
+	そうでなければ、絶対ただの空気としか扱ってくれないからな。
+	まぁ選ばせてもらえるなら俺だって、急にぶん殴られて気絶してるうちに実験台に縛りつけられるとか、病気を診てもらってる間にここのトップの一人に説教垂らされるとか、無感情なコンピューターのように体の中身から外までスキャンされるとか、そんなのと比べればトゥイエさん――いや、トゥイエ医師の方がよっぽどいい選択だと思うよ。
+	だからな、やっぱり健康第一、負傷なしで医療部の世話にならないのが一番大事だぜ！
+	
+	――某出勤率一位の前衛オペレーターの本音
+
+	Promotion File :
+	What, she pranked you? Congrats, that means you're in!
+	I mean, if you weren't, she'd treat you like air.
+	Well, duh, if I had to choose. Look. Either I get knocked out suddenly and tied to the testbed, getting a checkup while one of the big bosses lectures me, like I'm getting scanned inside and out by a computer with no heart. Or I get Tuye—uh, Dr. Tuye, who I think is obviously a way better option.
+	So, basically, you know the drill. Take care of your health, don't get injured, don't take a trip to Medical. That's the most important thing!
+	
+	—Thoughts of a Guard Operator who ranks top in frequency of visits
+
+	승진 자료 :
+	    뭐? 투예가 네게 장난을 쳤다고? 축하한다, 분명 투예는 너를 친구로 여기고 있는 거야! 만약 친구가 아니었다면 널 공기 취급했을걸.
+	    굳이 나보고 선택하라면, 갑작스레 기절해서 실험대에 묶인다거나, 진찰받으면서 최종 보스에게 꾸중을 듣는다거나, 감정 없는 컴퓨터처럼 무자비하게 몸 안팎을 스캔 당하는 것보다는 투예…… 가 아니지, 투예 선생님이 장난치는 게 당연히 더 좋은 선택이라 생각해.
+	    그러니까 다치지 말고 몸조심하라고! 의료부에 가지 않는 게 가장 중요하니까!
+	
+	——출석 빈도 랭킹 1위인 어느 가드 오퍼레이터의 마음의 소리

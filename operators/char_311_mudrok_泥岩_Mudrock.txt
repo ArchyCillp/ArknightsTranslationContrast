@@ -1,11 +1,17 @@
 ID:
 	char_311_mudrok
 
-干员代号\Name:
+CV:
 	泥岩
 	マドロック
 	Mudrock
 	머드락
+
+干员代号\Name:
+	内田真礼
+	内田真礼
+	Maaya Uchida
+	우치다 마아야
 
 招聘合同\Character Usage:
 	萨卡兹雇佣兵泥岩，沃土与岩块的故友。
@@ -48,319 +54,495 @@ ID:
 	더러운 대지의 핏줄
 
 语音\Voices:
-	嗯？啊，看到这抔泥土了吗......它会轻语，它会舞蹈，它是我的朋友。
 	うん？ああ、この土か……彼はささやき、踊る。私の友人だ。
 	Hm? Ah, this soil... it can murmur. It can dance. It is my friend.
 	응? 아아, 이 흙 말인가…… 그는 속삭이고, 춤을 춘다. 내 친구다.
 
-	可露希尔小姐提醒过我，在罗德岛上最好不要“全副武装”地走来走去......但是以真面目示人......我有点，不习惯，抱歉......
 	クロージャさんに、できればロドスでは「フル装備」で歩き回るなと言われているが……素顔を晒すのは……まだ、慣れない。すまない……
 	Miss Closure told me I shouldn't walk about Rhodes Island 'fully equipped'... but I'm not used to... revealing... myself. Sorry...
 	클로저 씨에게, 가능하면 로도스 아일랜드에서는 '풀 장비'로 걸어 다니지 말라는 소리를 들었지만…… 맨 얼굴을 드러내는 건…… 아직, 익숙하지 않아. 미안하다……
 
-	感谢信？啊，是昨天的那些萨卡兹工人吗？我的这身装备和法术性质很适合做些体力活，不过建材和燃料都那么沉重，他们居然靠肉身人力就确保了罗德岛的航行......真厉害啊。
 	感謝状？ああ、昨日のサルカズの職員たちか。私の装備とアーツ特性は力仕事に向いているから。それにしても、建材も燃料もかなり重いのに、彼らはロドスの運行を、その身体で一身に担っているのだな……素晴らしいことだ。
 	Thank-you letters? Ah, from the Sarkaz workers yesterday? My equipment and type of Arts are a good match for physical work. Besides, their materials and fuel weren't featherweight. And they relied on the power of flesh and blood to ensure Rhodes Island sails smooth... it's incredible.
 	감사장? 아아…… 어제 살카즈 직원들 말인가. 내 장비와 아츠 특성은 힘쓰는 일에 적합하니까. 그건 그렇고 건축 자재도 연료도 꽤 무거운데, 그들은 로도스 아일랜드의 운항을 그 몸으로 짊어지고 있는 건가…… 대단한 일이다.
 
-	那位精英干员......我以为我在莱塔尼亚见到的那些奇奇怪怪的源石技艺已够异想天开了，可当他随手拨开迷雾的时候我就明白，作为萨卡兹，他很年轻，却更加古老。
 	あのエリートオペレーター……リターニアで目にした不思議なアーツには度肝を抜かれたものだが、いとも容易く霧を払う姿を見て理解した。サルカズとして彼は若いが、古（いにしえ）のものであると。
 	That elite operator... I thought I'd seen enough bizarre Originium Arts in Leithania to write any wild fantasy. But the moment he pushed apart the fog with a wave of his hand, I understood, as a Sarkaz, he was young yet incredibly ancient.
 	그 정예 오퍼레이터…… 라이타니아에서 본 신기한 아츠에는 깜짝 놀랐지만, 매우 손쉽게 안개를 없애는 모습을 보고 이해했다. 살카즈로서 그는 젊지만, 고대의 존재란 것을.
 
-	我时常会想起那些离我们而去的战士和同伴，偶尔我会有一种错觉，即使是现在，我也在逃亡的路上......博士，您去过卡兹戴尔吗？那是我旅途的起点，也曾是我误以为的终点。
 	亡くなった戦士や仲間のことを、よく思い出す。そして時折、いまだに逃げ惑っているかのような錯覚に陥る……ドクター、あなたはカズデルに行ったことはあるか？あそこは私の旅の起点であり、そして終点になる場所だと思っていた。
 	I often think of the soldiers and companions that have left us. Sometimes, I have a sort of delusion that even now, I'm still fleeing... Doctor, have you been to Kazdel before? That was where my journey started, and once, where I'd thought it would end.
 	죽은 전사나 동료를, 자주 떠올린다. 그리고 가끔씩, 아직도 도망치고 있는 듯한 착각에 빠지지…… 박사, 당신은 카즈델에 가 본 적이 있나? 그곳은 내 여행의 기점이자, 종점인 곳이라고 생각했었다.
 
-	凯尔希医生吗......虽然很吃惊，但是也能让人更安心一些......不过罗德岛似乎与其他雇佣兵队伍有合作关系，博士可以告诉我吗？最好别知道？啊......那我大概猜到是谁了。
 	ケルシー先生か……意外だが、心強くもある……しかしロドスは他の傭兵部隊とも関係があるようだが、それについて話してくれないか、ドクター。知らないほうがいい？そうか……ならば、誰のことかわかったかもしれない。
 	Dr. Kal'tsit, huh... She startled me, but she's reassuring in spades... One thing, though. Rhodes Island seems to get along well with another mercenary group, too. Could you tell me about them, Doctor? It's best I don't know? I see... then I think I can more or less guess who.
 	켈시 선생님말인가…… 의외지만, 든든한 면도 있다…… 하지만 로도스 아일랜드는 다른 용병 부대와도 관계가 있는 듯한데, 그것에 대해 말해주지 않겠나? 박사. 모르는 편이 좋다고? 그런가, 그렇다면…… 누굴 말하는 건지 알 것 같군.
 
-	我成为罗德岛干员是为了让他们能好好治疗，好好活下去，这样才能让那些战士们......死得其所。但是......来到罗德岛后，我才第一次清晰地认识到，自己真的是在为什么而战。
 	私がロドスのオペレーターになったのは、彼らがきちんと治療を受け、生きていけるようにするためだ。そうすれば戦士たちの死が……無駄にならずに済む。私は……ロドスに来て初めて、自分が何かのために戦っているということを、実感したんだ。
 	I became a Rhodes Island Operator so they could be treated properly, live on properly, and only then would those warriors... have died with meaning. But... since coming to Rhodes Island, I've seen clearly what I, myself, am truly fighting for. That was a first for me.
 	내가 로도스 아일랜드의 오퍼레이터가 된 건, 그들이 제대로 치료를 받고, 살아갈 수 있도록 하기 위함이다. 그렇게 하면 전사들의 죽음이…… 헛수고가 되진 않을 테니. 나는…… 로도스 아일랜드에 와서, 처음으로 자신이 무엇을 위해 싸우고 있는지를 실감했다.
 
-	我一个人对着泥人偶说话......？原、原来被看见了吗？那只是一种简化的仪式......呃？其实大家都知道？真的？那我下次会注意的，在没人的深夜......欸，也不要？
 	一人で泥人形に話しかけていた……？ま、まさか見られていたのか？あれは簡略化された儀式の一つで……えっ？実は皆知っている？本当か？では次は気をつけよう、人気のない深夜に……えっ、それも止めろと？
 	Me, alone, talking to a clay doll...? You're... you're telling you saw me? That was just a kind of ceremony... huh? So everyone already knew? Really? Then I'll be more careful next time, do it late when nobody's up... um, I shouldn't?
 	혼자서 진흙 인형한테 말을 걸고 있었다고? 서, 설마, 보고 있었던 건가? 그건 간략화된 의식의 하나로써…… 어? 사실 모두 알고 있다고? 정말인가? 그럼, 다음엔 조심하도록 하지, 사람이 없는 심야에…… 그것도 하지 말라고?
 
-	从卡兹戴尔到莱塔尼亚，那么多烙印刻在那些受难者的身上，等到受难者不得不拿起武器的时候，却发现自己其实一无所有。博士是怎么看待我的？信任？信任......能让我活下去吗？
 	カズデルからリターニアに至るまで、多くの烙印が被災者たちに刻まれた。そして彼らがやむを得ず武器を掲げた時、自分にはもう何もないと気づいた。ドクターは私のことをどう見ている？信頼している？その信頼は……私を生き長らえさせることができるのか？
 	From Kazdel to Leithania, so many marks have been carved onto the suffering. The moment they had no choice but to fight, I realized I had nothing at all. How do you see me, Doctor? You trust me? Will that trust... allow me to live on?
 	카즈델에서 라이타니아에 이르기까지, 많은 낙인이 재해자들에게 새겨졌다. 그리고 그들이 어쩔 수 없이 무기를 들었을 때, 나에게는 더 이상 아무것도 없다는 걸 알게 됐다. 박사는 나에 대해 어떻게 생각하고 있지? 신뢰하고 있나? 그 신뢰는…… 나를 더 오래 살아남게 할 수 있을까?
 
-	......打盹的这位就是博士，记住他吧，他会陪着我们走过很远很远的路。
 	……そこでうたた寝をしているのがドクターだ、覚えておけ。私たちと共に長い道を歩むことになる人だ。
 	...The person napping there is the Doctor. Remember that well. Our road together is sure to be long and far.
 	……저기서 졸고 있는 게 박사다, 기억해 둬. 우리와 함께 먼 길을 걸어갈 사람이다.
 
-	萨卡兹雇佣兵，泥岩......您就是博士吗，罗德岛救了我不止一次，现在，请让我回报您吧。
 	サルカズの傭兵、マドロックだ……あなたがドクターか。何度もロドスに救われた身だ、今こそ、恩義に報いさせてもらう。
 	Sarkaz mercenary, Mudrock... You're the Doctor, then. Rhodes Island has saved me many times, and now, I'd like you to let me return the favor.
 	살카즈의 용병, 머드락이다…… 당신이 박사인가. 몇 번이나 로도스 아일랜드가 구해준 몸이니, 이젠 은혜를 갚도록 하겠다.
 
-	我领教过罗德岛的战斗方法，不过，依旧是很好的参考......
 	ロドスの戦い方は身を持って体験したことがあるが……まぁ、良い手本になるに変わりはない。
 	I've had a taste of how Rhodes Island fights before, but, well, this still makes a great reference...
 	로도스 아일랜드의 전투 방식은 직접 체험해 본 적이 있지만…… 뭐, 좋은 본보기가 된다는 점은 변함이 없다.
 
-	我曾被称作整合运动，又被称作泥岩小队，而现在......我又被过去的对手嘉奖，这就是所谓的“命途多舛”？
 	私はかつてレユニオンと呼ばれ、マドロック小隊の名を冠していた。だが今は……かつての敵から勲功を賜ろうとしている。これが「波瀾万丈」というものか？
 	I used to be known as Reunion, and then under the Mudrock Squad, and now... I've been promoted by my former enemy. Is this what they meant by 'life is a rollercoaster?'
 	나는 과거 리유니온으로 불리며, 머드락 소대라는 이름을 썼었다. 하지만 지금은…… 예전의 적으로부터 공훈을 받으려고 하고 있다. 이것이 '파란만장'이라는 것인가?
 
-	嗯？感到很新鲜？因为我在战斗的时候是绝不会摘下头盔的......因为很多原因，不过现在不同了，要、要保持这样吗？如果是要求的话......
 	ん？この姿が新鮮？それは、戦闘中は防具を脱がないと決めているからな……理由は色々あるが、今はもう違う。こ、このままでいろだと？それが命令だと言うのなら……
 	Hm? This seems fresh? I never take my helmet off in battle, after all... There's a lot of reasons why, but things have changed now. S... staying like this? If I have to...
 	음? 이 모습이 신선하다고? 그건 전투 중엔 방어구를 벗지 않기로 했으니까…… 이유는 여러모로 많지만, 이제 더는 아니다. 이, 이대로 있으라고? 그것이 명령이라고 한다면……
 
-	现在我只是罗德岛的干员，我服从您的指挥。
 	今の私はロドスのオペレーターに過ぎない。あなたの指揮に従う。
 	I'm simply a Rhodes Island Operator, now. I'll obey your command.
 	지금의 나는 로도스 아일랜드의 오퍼레이터에 불과하다. 당신의 지휘에 따르겠다.
 
-	队长......我不是很喜欢当领袖的感觉，不过......也习惯了。
 	隊長……チームを率いるのはあまり好きではないが……それにも慣れた。
 	The captain... I don't like leading, but... I'm used to it.
 	팀장이라…… 팀을 이끄는 건 별로 좋아하지 않지만…… 그것도 익숙해졌다.
 
-	该上战场了。
 	戦いの時だ。
-	It’s time to fight.
+	It's time to fight.
 	싸울 시간이다.
 
-	敌人......
 	敵、か……
 	The enemy...
 	적, 인가……
 
-	泥土会回应我的意志。
 	土が私の意志に応えてくれる。
 	The soil answers my will.
 	흙이 나의 의지에 응답해준다.
 
-	请说，岩石在听。
 	命令を。岩が耳を傾けている。
 	Speak. The rocks are listening.
 	명령을. 바위가 귀를 기울이고 있다.
 
-	战场，从未改变。
 	戦場、それは変わらないもの。
 	Battlefield never changes.
 	전장, 그것은 변하지 않는 것.
 
-	为自己而战吧。
 	自分のための戦いを。
 	I'll fight for myself.
 	자신을 위한 전투를.
 
-	大地与我为友。
 	大地こそが我が友。
 	The land is as my friend.
 	대지야말로 나의 벗이니.
 
-	垒成山脉吧。
 	連綿たる山々となれ。
 	Be as the mountains.
 	길게 이어진 산들이 되어라.
 
-	倾听我的请求。
 	私の声に応えろ。
 	Heed my call.
 	나의 목소리에 답하라.
 
-	沃土磐石，站起来吧。
 	沃土よ巌よ、立ち上がれ。
 	Arise, great boulder.
 	옥토여, 반석이여, 일어나라.
 
-	逃离是无用的......反抗它，哪怕是被迫反抗它，这是我唯一懂得的对待苦难的方式。
 	逃げても無駄だ……抗え、たとえやむなき抵抗であっても。それが私の知る、唯一の苦しみとの向き合い方だ。
 	Running is useless... resist it, even if you are not willing to resist. This is the only way I've come to know to face suffering.
 	도망쳐도 소용없다. 맞서라, 비록 어쩔 수 없는 저항이라 하더라도…… 그것이 내가 아는, 유일한 고통과 마주하는 방법이다.
 
-	朋友们在低语庆贺，是我们赢了，博士。
 	友人たちが祝福をささやいている。私たちの勝利だ、ドクター。
 	My friends are whispering their celebration. They cheer our victory, Doctor.
 	친구들이 축복을 속삭이고 있다. 우리의 승리다, 박사.
 
-	追吧......我会用朋友的眼注视战场。
 	追え……私は友人たちの目で、戦場を見渡す。
 	Chase them... I'll watch over the battlefield with my friends' eyes.
 	쫓아라…… 나는 친구들의 눈으로 전장을 바라보겠다.
 
-	这不是第一次背对强敌逃跑，如果这样能让更多人活下来的话......我会负责你们的背后。
 	強敵に背を向けるのは初めてではない。もしこれでより多くの人を生かせるのなら……私があなたたちの背中を守る。
 	It's not the first I've fled with my back to the enemy. If even more can live on this way... I'll cover your backs.
 	강적에 등을 돌리는 것은 처음이 아니다. 만약 이렇게 해서 더 많은 사람을 살릴 수 있다면…… 내가 너희의 뒤를 지키겠다.
 
-	天花板，比想象中矮一些。
 	この天井、思っていたよりも低いな。
 	The ceiling's... a little lower than I imagined.
 	이 천장…… 생각했던 것보다 낮은데.
 
-	......呃？您刚才碰我了吗？
 	……ん？今私に触れたのか？
 	...Mm? Did you touch me just now?
 	……음? 지금 나를 건드린 건가?
 
-	博士？您能陪我一会吗？我想......我想问您一些关于卡兹戴尔的事情，啊，朋友们也很喜欢你。
 	ドクター？しばらくそばにいてくれないか。カズデルのことを……少し尋ねたい。ああ、友人たちもあなたのことは慕っている。
 	Doctor? Could you stay with me for a bit? I'd like... to ask you a little about Kazdel. Ah, and my friends have missed you, too.
 	박사? 잠시 곁에 있어 주지 않겠나? 카즈델에 대해…… 조금 물어보고 싶다. 아아…… 친구들도 당신을 좋아하고 있다.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	您好，博士。
 	こんにちは、ドクター。
 	Hello, Doctor.
 	안녕, 박사.
 
-	嗯？啊，看到这抔泥土了吗......它会轻语，它会舞蹈，它是我的朋友。
 	うん？ああ、この土か……彼はささやき、踊る。私の友人だ。
 	Hm? Ah, this soil... it can murmur. It can dance. It is my friend.
 	응? 아아, 이 흙 말인가…… 그는 속삭이고, 춤을 춘다. 내 친구다.
 
-	可露希尔小姐提醒过我，在罗德岛上最好不要“全副武装”地走来走去......但是以真面目示人......我有点，不习惯，抱歉......
 	クロージャさんに、できればロドスでは「フル装備」で歩き回るなと言われているが……素顔を晒すのは……まだ、慣れない。すまない……
 	Miss Closure told me I shouldn't walk about Rhodes Island 'fully equipped'... but I'm not used to... revealing... myself. Sorry...
 	클로저 씨에게, 가능하면 로도스 아일랜드에서는 '풀 장비'로 걸어 다니지 말라는 소리를 들었지만…… 맨 얼굴을 드러내는 건…… 아직, 익숙하지 않아. 미안하다……
 
-	感谢信？啊，是昨天的那些萨卡兹工人吗？我的这身装备和法术性质很适合做些体力活，不过建材和燃料都那么沉重，他们居然靠肉身人力就确保了罗德岛的航行......真厉害啊。
 	感謝状？ああ、昨日のサルカズの職員たちか。私の装備とアーツ特性は力仕事に向いているから。それにしても、建材も燃料もかなり重いのに、彼らはロドスの運行を、その身体で一身に担っているのだな……素晴らしいことだ。
 	Thank-you letters? Ah, from the Sarkaz workers yesterday? My equipment and type of Arts are a good match for physical work. Besides, their materials and fuel weren't featherweight. And they relied on the power of flesh and blood to ensure Rhodes Island sails smooth... it's incredible.
 	감사장? 아아…… 어제 살카즈 직원들 말인가. 내 장비와 아츠 특성은 힘쓰는 일에 적합하니까. 그건 그렇고 건축 자재도 연료도 꽤 무거운데, 그들은 로도스 아일랜드의 운항을 그 몸으로 짊어지고 있는 건가…… 대단한 일이다.
 
-	那位精英干员......我以为我在莱塔尼亚见到的那些奇奇怪怪的源石技艺已够异想天开了，可当他随手拨开迷雾的时候我就明白，作为萨卡兹，他很年轻，却更加古老。
 	あのエリートオペレーター……リターニアで目にした不思議なアーツには度肝を抜かれたものだが、いとも容易く霧を払う姿を見て理解した。サルカズとして彼は若いが、古（いにしえ）のものであると。
 	That elite operator... I thought I'd seen enough bizarre Originium Arts in Leithania to write any wild fantasy. But the moment he pushed apart the fog with a wave of his hand, I understood, as a Sarkaz, he was young yet incredibly ancient.
 	그 정예 오퍼레이터…… 라이타니아에서 본 신기한 아츠에는 깜짝 놀랐지만, 매우 손쉽게 안개를 없애는 모습을 보고 이해했다. 살카즈로서 그는 젊지만, 고대의 존재란 것을.
 
-	我时常会想起那些离我们而去的战士和同伴，偶尔我会有一种错觉，即使是现在，我也在逃亡的路上......博士，您去过卡兹戴尔吗？那是我旅途的起点，也曾是我误以为的终点。
 	亡くなった戦士や仲間のことを、よく思い出す。そして時折、いまだに逃げ惑っているかのような錯覚に陥る……ドクター、あなたはカズデルに行ったことはあるか？あそこは私の旅の起点であり、そして終点になる場所だと思っていた。
 	I often think of the soldiers and companions that have left us. Sometimes, I have a sort of delusion that even now, I'm still fleeing... Doctor, have you been to Kazdel before? That was where my journey started, and once, where I'd thought it would end.
 	죽은 전사나 동료를, 자주 떠올린다. 그리고 가끔씩, 아직도 도망치고 있는 듯한 착각에 빠지지…… 박사, 당신은 카즈델에 가 본 적이 있나? 그곳은 내 여행의 기점이자, 종점인 곳이라고 생각했었다.
 
-	凯尔希医生吗......虽然很吃惊，但是也能让人更安心一些......不过罗德岛似乎与其他雇佣兵队伍有合作关系，博士可以告诉我吗？最好别知道？啊......那我大概猜到是谁了。
 	ケルシー先生か……意外だが、心強くもある……しかしロドスは他の傭兵部隊とも関係があるようだが、それについて話してくれないか、ドクター。知らないほうがいい？そうか……ならば、誰のことかわかったかもしれない。
 	Dr. Kal'tsit, huh... She startled me, but she's reassuring in spades... One thing, though. Rhodes Island seems to get along well with another mercenary group, too. Could you tell me about them, Doctor? It's best I don't know? I see... then I think I can more or less guess who.
 	켈시 선생님말인가…… 의외지만, 든든한 면도 있다…… 하지만 로도스 아일랜드는 다른 용병 부대와도 관계가 있는 듯한데, 그것에 대해 말해주지 않겠나? 박사. 모르는 편이 좋다고? 그런가, 그렇다면…… 누굴 말하는 건지 알 것 같군.
 
-	我成为罗德岛干员是为了让他们能好好治疗，好好活下去，这样才能让那些战士们......死得其所。但是......来到罗德岛后，我才第一次清晰地认识到，自己真的是在为什么而战。
 	私がロドスのオペレーターになったのは、彼らがきちんと治療を受け、生きていけるようにするためだ。そうすれば戦士たちの死が……無駄にならずに済む。私は……ロドスに来て初めて、自分が何かのために戦っているということを、実感したんだ。
 	I became a Rhodes Island Operator so they could be treated properly, live on properly, and only then would those warriors... have died with meaning. But... since coming to Rhodes Island, I've seen clearly what I, myself, am truly fighting for. That was a first for me.
 	내가 로도스 아일랜드의 오퍼레이터가 된 건, 그들이 제대로 치료를 받고, 살아갈 수 있도록 하기 위함이다. 그렇게 하면 전사들의 죽음이…… 헛수고가 되진 않을 테니. 나는…… 로도스 아일랜드에 와서, 처음으로 자신이 무엇을 위해 싸우고 있는지를 실감했다.
 
-	我一个人对着泥人偶说话......？原、原来被看见了吗？那只是一种简化的仪式......呃？其实大家都知道？真的？那我下次会注意的，在没人的深夜......欸，也不要？
 	一人で泥人形に話しかけていた……？ま、まさか見られていたのか？あれは簡略化された儀式の一つで……えっ？実は皆知っている？本当か？では次は気をつけよう、人気のない深夜に……えっ、それも止めろと？
 	Me, alone, talking to a clay doll...? You're... you're telling you saw me? That was just a kind of ceremony... huh? So everyone already knew? Really? Then I'll be more careful next time, do it late when nobody's up... um, I shouldn't?
 	혼자서 진흙 인형한테 말을 걸고 있었다고? 서, 설마, 보고 있었던 건가? 그건 간략화된 의식의 하나로써…… 어? 사실 모두 알고 있다고? 정말인가? 그럼, 다음엔 조심하도록 하지, 사람이 없는 심야에…… 그것도 하지 말라고?
 
-	从卡兹戴尔到莱塔尼亚，那么多烙印刻在那些受难者的身上，等到受难者不得不拿起武器的时候，却发现自己其实一无所有。博士是怎么看待我的？信任？信任......能让我活下去吗？
 	カズデルからリターニアに至るまで、多くの烙印が被災者たちに刻まれた。そして彼らがやむを得ず武器を掲げた時、自分にはもう何もないと気づいた。ドクターは私のことをどう見ている？信頼している？その信頼は……私を生き長らえさせることができるのか？
 	From Kazdel to Leithania, so many marks have been carved onto the suffering. The moment they had no choice but to fight, I realized I had nothing at all. How do you see me, Doctor? You trust me? Will that trust... allow me to live on?
 	카즈델에서 라이타니아에 이르기까지, 많은 낙인이 재해자들에게 새겨졌다. 그리고 그들이 어쩔 수 없이 무기를 들었을 때, 나에게는 더 이상 아무것도 없다는 걸 알게 됐다. 박사는 나에 대해 어떻게 생각하고 있지? 신뢰하고 있나? 그 신뢰는…… 나를 더 오래 살아남게 할 수 있을까?
 
-	......打盹的这位就是博士，记住他吧，他会陪着我们走过很远很远的路。
 	……そこでうたた寝をしているのがドクターだ、覚えておけ。私たちと共に長い道を歩むことになる人だ。
 	...The person napping there is the Doctor. Remember that well. Our road together is sure to be long and far.
 	……저기서 졸고 있는 게 박사다, 기억해 둬. 우리와 함께 먼 길을 걸어갈 사람이다.
 
-	萨卡兹雇佣兵，泥岩......您就是博士吗，罗德岛救了我不止一次，现在，请让我回报您吧。
 	サルカズの傭兵、マドロックだ……あなたがドクターか。何度もロドスに救われた身だ、今こそ、恩義に報いさせてもらう。
 	Sarkaz mercenary, Mudrock... You're the Doctor, then. Rhodes Island has saved me many times, and now, I'd like you to let me return the favor.
 	살카즈의 용병, 머드락이다…… 당신이 박사인가. 몇 번이나 로도스 아일랜드가 구해준 몸이니, 이젠 은혜를 갚도록 하겠다.
 
-	我领教过罗德岛的战斗方法，不过，依旧是很好的参考......
 	ロドスの戦い方は身を持って体験したことがあるが……まぁ、良い手本になるに変わりはない。
 	I've had a taste of how Rhodes Island fights before, but, well, this still makes a great reference...
 	로도스 아일랜드의 전투 방식은 직접 체험해 본 적이 있지만…… 뭐, 좋은 본보기가 된다는 점은 변함이 없다.
 
-	我曾被称作整合运动，又被称作泥岩小队，而现在......我又被过去的对手嘉奖，这就是所谓的“命途多舛”？
 	私はかつてレユニオンと呼ばれ、マドロック小隊の名を冠していた。だが今は……かつての敵から勲功を賜ろうとしている。これが「波瀾万丈」というものか？
 	I used to be known as Reunion, and then under the Mudrock Squad, and now... I've been promoted by my former enemy. Is this what they meant by 'life is a rollercoaster?'
 	나는 과거 리유니온으로 불리며, 머드락 소대라는 이름을 썼었다. 하지만 지금은…… 예전의 적으로부터 공훈을 받으려고 하고 있다. 이것이 '파란만장'이라는 것인가?
 
-	嗯？感到很新鲜？因为我在战斗的时候是绝不会摘下头盔的......因为很多原因，不过现在不同了，要、要保持这样吗？如果是要求的话......
 	ん？この姿が新鮮？それは、戦闘中は防具を脱がないと決めているからな……理由は色々あるが、今はもう違う。こ、このままでいろだと？それが命令だと言うのなら……
 	Hm? This seems fresh? I never take my helmet off in battle, after all... There's a lot of reasons why, but things have changed now. S... staying like this? If I have to...
 	음? 이 모습이 신선하다고? 그건 전투 중엔 방어구를 벗지 않기로 했으니까…… 이유는 여러모로 많지만, 이제 더는 아니다. 이, 이대로 있으라고? 그것이 명령이라고 한다면……
 
-	现在我只是罗德岛的干员，我服从您的指挥。
 	今の私はロドスのオペレーターに過ぎない。あなたの指揮に従う。
 	I'm simply a Rhodes Island Operator, now. I'll obey your command.
 	지금의 나는 로도스 아일랜드의 오퍼레이터에 불과하다. 당신의 지휘에 따르겠다.
 
-	队长......我不是很喜欢当领袖的感觉，不过......也习惯了。
 	隊長……チームを率いるのはあまり好きではないが……それにも慣れた。
 	The captain... I don't like leading, but... I'm used to it.
 	팀장이라…… 팀을 이끄는 건 별로 좋아하지 않지만…… 그것도 익숙해졌다.
 
-	该上战场了。
 	戦いの時だ。
-	It’s time to fight.
+	It's time to fight.
 	싸울 시간이다.
 
-	敌人......
 	逃げても無駄だ……抗え、たとえやむなき抵抗であっても。それが私の知る、唯一の苦しみとの向き合い方だ。
 	Running is useless... resist it, even if you are not willing to resist. This is the only way I've come to know to face suffering.
 	도망쳐도 소용없다. 맞서라, 비록 어쩔 수 없는 저항이라 하더라도…… 그것이 내가 아는, 유일한 고통과 마주하는 방법이다.
 
-	泥土会回应我的意志。
 	友人たちが祝福をささやいている。私たちの勝利だ、ドクター。
 	My friends are whispering their celebration. They cheer our victory, Doctor.
 	친구들이 축복을 속삭이고 있다. 우리의 승리다, 박사.
 
-	请说，岩石在听。
 	追え……私は友人たちの目で、戦場を見渡す。
 	Chase them... I'll watch over the battlefield with my friends' eyes.
 	쫓아라…… 나는 친구들의 눈으로 전장을 바라보겠다.
 
-	战场，从未改变。
 	強敵に背を向けるのは初めてではない。もしこれでより多くの人を生かせるのなら……私があなたたちの背中を守る。
 	It's not the first I've fled with my back to the enemy. If even more can live on this way... I'll cover your backs.
 	강적에 등을 돌리는 것은 처음이 아니다. 만약 이렇게 해서 더 많은 사람을 살릴 수 있다면…… 내가 너희의 뒤를 지키겠다.
 
-	为自己而战吧。
 	この天井、思っていたよりも低いな。
 	The ceiling's... a little lower than I imagined.
 	이 천장…… 생각했던 것보다 낮은데.
 
-	大地与我为友。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	垒成山脉吧。
 	こんにちは、ドクター。
 	Hello, Doctor.
 	안녕, 박사.
 
-	倾听我的请求。
+干员档案\Background:
+	基础档案 :
+	【代号】泥岩
+	【性别】女
+	【战斗经验】四年
+	【出身地】卡兹戴尔
+	【生日】9月21日
+	【种族】萨卡兹
+	【身高】163cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
 
-	沃土磐石，站起来吧。
+	基礎情報 :
+	【コードネーム】マドロック
+	【性別】女
+	【戦闘経験】四年
+	【出身地】カズデル
+	【誕生日】9月21日
+	【種族】サルカズ
+	【身長】163cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
 
-	逃离是无用的......反抗它，哪怕是被迫反抗它，这是我唯一懂得的对待苦难的方式。
+	Basic Info :
+	[Code Name] Mudrock
+	[Gender] Female
+	[Combat Experience] 4 Years
+	[Place of Birth] Kazdel
+	[Date of Birth] Sep 21
+	[Race] Sarkaz
+	[Height] 163cm
+	[Infection Status]
+	 Originium crystals distributed across surface of body, confirmed Infected by medical examination.
 
-	朋友们在低语庆贺，是我们赢了，博士。
+	기본정보 :
+	[코드네임] 머드락
+	[성별] 여
+	[전투 경험] 4년
+	[출신지] 카즈델
+	[생일] 9월 21일
+	[종족] 살카즈
+	[신장] 163cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
 
-	追吧......我会用朋友的眼注视战场。
+———————————————————————————————
 
-	这不是第一次背对强敌逃跑，如果这样能让更多人活下来的话......我会负责你们的背后。
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】普通
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】优良
 
-	天花板，比想象中矮一些。
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
 
-	......呃？您刚才碰我了吗？
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Normal
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Excellent
 
-	博士？您能陪我一会吗？我想......我想问您一些关于卡兹戴尔的事情，啊，朋友们也很喜欢你。
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
 
-	明日方舟。
+———————————————————————————————
 
-	您好，博士。
+	客观履历 :
+	萨卡兹雇佣兵泥岩，随军加入整合运动后，由于意见不合而带领小队成员远离了乌萨斯。完全没有参与整合运动在切尔诺伯格及龙门的行动。为了寻找落脚点，泥岩带队前往莱塔尼亚，在当地吸纳了大量莱塔尼亚的感染者后，泥岩被众人推崇为领袖，开始以“泥岩小队”的名号被人所知。尽管泥岩多次试图避免与其他势力发生冲突，但她们依旧一次又一次地被卷入纷争，为了避免更多无意义的牺牲，泥岩选择逃往卡兹戴尔。在卡兹戴尔境内与精英干员Logos接触，随后者前往罗德岛。
+
+	個人履歴 :
+	サルカズ傭兵。部隊と共にレユニオンに参加したのち、意見の不一致により小隊を率いてウルサスに背を向けて離れ、レユニオンのチェルノボーグ及び龍門における行動には全く関わっていなかった。安息の地を求めて、マドロックは小隊と共にリターニアに向かった。現地で多くの感染者を受け入れた後、マドロックはリーダーへと祭り上げられ、チームは「マドロック小隊」の名で知られるようになった。他勢力との衝突を避けようと働いても、紛争に巻き込まれ続けた。更なる無意味な犠牲を避けるために、マドロックはカズデルに逃げ込むことを決めた。カズデル領内でロドスのエリートオペレーターであるLogosと接触した後、彼と共にロドスに向かうことを決意した。
+
+	Profile :
+	Sarkaz mercenary Mudrock, formerly a part of the Reunion Movement, led her team far from Ursus after disagreements with the organization. She had no involvement with Reunion whatsoever during the incidents in Chernobog and Lungmen. Searching for a foothold to establish, Mudrock took her team towards Leithania. After taking in a great number of Leithanien Infected there, Mudrock became a highly esteemed leader, and her team came to be known as the 'Mudrock Squad.' Despite Mudrock's multiple attempts to avoid conflict with other powers, her side was nevertheless drawn into constant disputes. So as to prevent any further meaningless sacrifice, Mudrock chose to head for Kazdel. She came into contact with elite operator Logos within Kazdel's borders, and left with the latter for Rhodes Island.    
+
+	프로필 :
+	    살카즈 용병 머드락은 군대를 따라 리유니온에 합류했으나, 의견이 맞지 않아 소대원들과 함께 우르수스를 떠났다. 체르노보그 및 용문에서 진행된 리유니온의 작전에는 전혀 개입하지 않았다. 거점을 마련하기 위해 소대를 이끌고 라이타니아로 향한 머드락은 현지에서 대량의 라이타니아 감염자를 받아들인 뒤 소대원들로부터 리더로 추대되었고, 이때부터 '머드락 소대'라는 이름으로 알려지기 시작했다. 다른 세력과의 충돌을 피하고자 하는 그녀의 노력에도 불구하고, 그녀와 소대원들은 계속해서 분쟁에 휘말렸으며, 결국 더 이상의 무의미한 희생을 피하기 위해 이들은 카즈델로 도주하게 된다. 이후 카즈델에서 정예 오퍼레이터 로고스와 접촉, 로도스 아일랜드로 향하게 된다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	
+	【体细胞与源石融合率】12%
+	干员泥岩的身体多处出现肉眼可见源石结晶。
+	
+	【血液源石结晶密度】0.31u/L
+	作为曾经的萨卡兹雇佣兵，泥岩的感染情况不容乐观，需要定期监测并报告。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果に異常があり、鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】12%
+	体表の多箇所に肉眼視認可能の源石結晶の分布が見られる。
+	
+	【血液中源石密度】0.31u/L
+	かつてサルカズ傭兵であったため、楽観視できない状態にある。定期的な観測と報告を要する。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy. 
+	
+	
+	[Cell-Originium Assimilation] 12%
+	Operator Mudrock bears clearly visible Originium crystals at multiple locations over her body. 
+	
+	[Blood Originium-Crystal Density] 0.31u/L
+	As a former Sarkaz mercenary, we cannot be optimistic about Mudrock's infection. She requires regular monitoring and examination.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	
+	[체세포와 오리지늄 융합률] 12%
+	오퍼레이터 머드락의 신체 곳곳에는 육안으로 확인할 수 있는 오리지늄 결정이 존재.
+	
+	[혈중 오리지늄 결정 밀도] 0.31u/L
+	과거 살카즈 용병으로 활동했던 머드락의 감염 상황은 낙관적이지 않음. 정기적인 모니터링과 보고가 필요함.
+
+———————————————————————————————
+
+	档案资料一 :
+	为了支撑起那副巨大的盔甲，泥岩小姐在缓冲材质间使用了源石技艺进行填充，且不论这种庞大的造型是否能震慑敌人，但的确让很多人错估了她的体型与力量。这种源石技艺改造切切实实地“武装到了牙齿”，面甲让她的声音显得厚重而微小，直到她脱下盔甲的前一刻，我们的人事部干员都没能准确判断出她的性别。顺便一提，除了她的那些萨卡兹老伙计，其他泥岩小队成员在体检现场的错愕表情足以说明：连他们都不知道自己队长的真面目。
+	“不过这样一来，队伍里偶尔会出现神秘的萨卡兹女性这件事好像就说得通了，我还以为那是在做梦。”——泥岩小队中的莱塔尼亚术师
+
+	第一資料 :
+	巨大な鎧を支えるため、マドロックは緩和材の間をアーツで充填している。その巨体が本当に敵を威嚇できるかどうかはさておき、彼女の体型と力量への誤認の誘発には間違いなく成功している。このアーツによる改造は文字通り「歯の一本まで余すことなく武装している」ため、頭部装備の影響で声がくぐもり、彼女の声の響きは重厚かつ聞き取りにくいものになっている。鎧を脱ぐ直前まで、我々の人事部オペレーターは彼女の性別を確信できなかったほどだった。ちなみに、サルカズ時代からの仲間を除いた、他のマドロック小隊メンバーが健康診断現場で見せた驚愕の表情は、彼らも自分たちの隊長がどんな顔であるかを知らなかったことを物語っていた。
+	「でもこれで、チームに時々謎のサルカズ女性が紛れ込んでることにも説明がついたよ。てっきり夢でも見てたのかと思ったぜ。」
+	――マドロック小隊所属のリターニア術師
+
+	Archive File 1 :
+	In order to keep her massive suit of armor upright, Mudrock uses Originium Arts between the cushioning materials as padding. One could ask whether her tremendous form actually intimidates the enemy, but in fact, it has already led many to misjudge her build and strength. This Arts transformation of hers is truly 'armed to the teeth,' her visor making her voice seem heavy yet diminished. Until the moment she took off her suit, none of our HR operators could precisely determine her gender. Tangentially, aside from her longtime Sarkaz friends, the astonishment on every Mudrock Squad member's face at the examination site said it all— Not even they knew their leader's true form.   
+	'But I guess... that explains the mysterious Sarkaz woman showing up from time to time in our team. I always thought I was dreaming.' —A Leithanien Caster from the Mudrock Squad 
+
+	파일 자료 1 :
+	    그 거대한 투구와 갑옷을 지탱하기 위해 머드락은 완충재 사이에 오리지늄 아츠를 채워 넣었다. 이런 거대한 몸집이 적에게 어떤 위협감을 줄 수 있을지는 모르겠으나, 많은 사람들로 하여금 그녀의 체형과 힘을 정확히 가늠할 수 없게끔 만들었단 점은 확실하다. 이러한 오리지늄 아츠를 통해 머드락은 빈틈없는 ‘완전 무장’을 하였고, 착용하고 있는 투구는 그녀의 목소리를 중후하고 작게 만들어, 그녀가 투구를 벗기 전까지는 인사부의 오퍼레이터 중 어느 누구도 그녀의 성별을 가늠할 수 없었다. 게다가 머드락의 오랜 살카즈 동료들을 제외하고, 나머지 머드락 소대 인원들이 신체검사 현장에서 보여준 벙찐 표정은 그들 역시도 이전까지는 자신들 팀장의 실체를 몰랐었다는 사실을 말해주었다.
+	    "이제서야 부대에서 가끔 출현하는 그 미스터리한 살카즈 소녀의 정체가 뭔지 알 것 같구먼, 난 또 내가 꿈이라도 꾼 줄 알았지." ——머드락 소대의 라이타니아 캐스터
+
+———————————————————————————————
+
+	档案资料二 :
+	泥岩的源石技艺可以简单地操纵泥土与岩石，除此之外，天赋异禀的她还掌握了数种颇具莱塔尼亚特色的古典法术，以及一种古老的、与血脉牵连的萨卡兹巫术，这种巫术使她的意识强行“介入”她的造物躯体中，让原本没有意识的岩石与泥土成为她四肢的延伸。举例来说，其差别类似于双手握着刀剑与双手变成刀剑之间的差距。换言之，从作战效率方面考虑，其区别并不大。这种特殊的源石技艺除了证明泥岩的萨卡兹血统还算纯正之外，并不能有效增强她造物的作战能力。但这仅局限于泥岩目前展现的法术而言，考虑到泥岩日后的成长，以及她在自学莱塔尼亚法术体系时所展露出的天赋来看，也许这种来自血脉的古老手段会成为泥岩出其不意的致胜底牌。
+	另外值得注意的是，泥岩偶尔会用“朋友”来称呼她自己的源石技艺造物，大到巨像，小到泥块，都是如此。可以确定，这种称谓不光是泥岩的个人性格或是兴趣使然，也许是泥岩特殊的源石技艺使她对造物产生了情感，类似于对待使用了十几年的顺手工具。又或者，是长期使用巫术使得她对泥土与岩石有着奇妙的共鸣。当各位干员看着泥岩一个人在房间里对着小小的泥偶露出你没见过的温婉笑容时，请不要感到讶异。毕竟她和泥土之间的关系可能比她和大部分人都要亲密得多。
+
+	第二資料 :
+	マドロックのアーツは泥土や岩石を操ることができる。それ以外にも、天賦の才能に恵まれた彼女はリターニア色に富んだ古典的なアーツ数種類と、サルカズのとある古い血筋に紐づいた巫術をも身につけている。この巫術は、自らの意志を造り物の躯体に「介入」させ、本来意志を持たない泥土や岩石を自らの四肢の延長として使うものである。単純にそれらを操ることとの違いは、両手で刀剣を握るのと、両手を刀剣に変えることとの差である。言い換えると、作戦効率の面では大した差はない。この特殊なアーツは、彼女の作戦能力を意味がある形で増幅する作用などはなく、マドロックに流れるサルカズの血が比較的に正統なものであると証明するものでしかない。だがそれはマドロックが現時点身につけているアーツについての話である。彼女の今後の成長と、リターニア系統のアーツを独学する際に見せた才能を考慮すれば、このような血脈に受け継がれてきた古い巫術は、マドロックに勝利をもたらす切り札になる可能性がある。
+	他に注意すべきなのは、マドロックはたまに「友人」という呼称を自らのアーツが生み出した造り物に用いていることだ。大きな石像から小さな泥の塊まで等しくそう呼ぶのだ。この呼び名は彼女の性格や趣味のみに起因するものではない。彼女の特殊なアーツが、十数年使い続け手に馴染んだ道具に対するような情を自身の造物に抱かせているのか。はたまた、長期にわたる巫術の使用の結果、奇妙な共鳴を引き起こすに至ったのか。いずれにせよ、オペレーター諸君は、もしマドロックが誰もいない部屋で小さな泥人形に、人に見せたこともないような優しい笑顔を向けている場面に出くわしても、驚く必要はない。彼女の泥土とのつながりは、大多数の人間とのものよりもよほど親密なのだから。
+
+	Archive File 2 :
+	Mudrock's Originium Arts manipulate stone and soil. Beyond that, she has a natural gift, having grasped several classic and characteristically Leithanien Arts forms as well as an ancient, bloodline-tied Sarkaz witchcraft. This witchcraft lets her consciousness forcibly 'intervene' in her constructs' bodies, allowing what was the unthinking stone and soil to become her own four limbs extended. For example, it's like the difference between holding a sword in her hands, and her hands themselves becoming a sword. Put another way, from the angle of combat efficiency, not much difference at all. These special Originium Arts prove Mudrock's Sarkaz blood still flows pure, but aren't effective for strengthening her constructs' fighting capabilities. However, this is only in terms of the Arts Mudrock presently displays. Considering her future growth, as well as innate talent shown in her self-taught use of Leithanien Arts systems, perhaps these ancient bloodborne methods may become a table-turning ace in the hole of hers.     
+	Meriting additional attention is that Mudrock will occasionally refer to her Originium Arts constructs as 'friends,' both Colossus and small as soil clumps alike. We can be sure that Mudrock does not bestow this title purely from her own individuality or personal interest. Perhaps Mudrock's special Originium Arts make her regard her arisen constructs with emotion, similar to a handy tool one has used for decades. Or, perhaps, her prolonged use of witchcraft has given her some curious affinity with the stone and soil. We request to all Operators that should you find Mudrock alone in her room giving a petite clay figure a sweet smile you've never seen before, please, do not be surprised. In the end, her relationship with the soil is likely far greater than her relationship with most people in its intimacy.    
+
+	파일 자료 2 :
+	    머드락은 오리지늄 아츠를 사용해 흙과 암석을 조종할 수 있는데, 남다른 재능을 가지고 태어난 그녀는 이 외에도 여러 종류의 라이타니아 특색의 고대 아츠, 그리고 혈통과 연관된 오래된 살카즈의 주술 한 가지를 다룰 수 있다. 머드락은 이런 주술을 통해 의식을 강제적으로 직접 만들어낸 피조물에 주입시켜, 원래는 아무 의식도 없는 암석과 흙을 그녀의 수족처럼 부릴 수 있다. 예를 들자면, 양손으로 검을 움켜쥔 것과 양손이 검 자체로 변한 것 정도의 차이라 할 수 있겠다. 다만 작전의 효율성 측면을 고려해 보자면 큰 차이는 없다. 이런 특수한 오리지늄 아츠는 머드락의 핏속에 흐르는 살카즈의 피의 순도가 꽤나 높은 편이라는 점을 증명해 줄 수는 있지만, 그녀의 피조물의 작전 능력을 강화하는 데는 별 도움이 되지 않는다. 하지만 이는 현재의 머드락이 구사하는 아츠 능력에 대한 평가고, 이후의 성장 가능성과 라이타니아 아츠 체계를 독학하며 보여준 천부적인 재능을 고려한다면, 어쩌면 혈통에서 유래한 이 오래된 방법이 승리를 결정짓는 비장의 카드가 될지도 모른다.
+	    그 밖에 주의해야 할 점은 머드락이 오리지늄 아츠로 만들어낸 것들, 크게는 거대 석상에서 작게는 진흙 덩어리까지, 모두를 간혹 '친구'라고 부른다는 점이다. 이런 호칭으로 부르는 것은 머드락의 성격이나 취향 때문만은 아니고, 그녀가 사용하는 오리지늄 아츠의 특수성으로 인해, 자신이 만들어낸 피조물들로부터 마치 십여 년 동안 사용해온 정이든 도구로부터 느낄법한 감정을 느끼게 되었기 때문일지도 모른다. 혹은 장기간 주술을 사용한 영향으로 머드락이 흙과 암석에 대한 기묘한 공명 현상을 경험하게 된 것일지도 모르겠다. 그러니 오퍼레이터 여러분들께선 머드락이 혼자 방 안에서 작은 흙 인형을 향해 당신이 본 적 없는 온화한 미소를 짓고 있는 모습을 목격한다 해도 이상하게 생각하지 말길 바란다. 그녀와 흙 사이의 관계는 그녀와 다른 사람 간의 관계보다 훨씬 친밀할 테니까.
+
+———————————————————————————————
+
+	档案资料三 :
+	泥岩队伍中的感染者情况颇为糟糕。为了让队伍中的感染者得到正常的照料，泥岩才“被迫”与罗德岛接触。泥岩本人拒绝依附于其他势力的倾向非常明显。不过在与罗德岛进行了初步协商后，泥岩愿意为罗德岛工作以换取队伍中感染者的医疗机会。考虑到罗德岛有过与“萨卡兹雇佣兵”谨慎接触的先例，人事部干员本打算与泥岩持续磋商更多协议细节，但为了不延误感染者们的治疗，泥岩毅然决定抛弃自己的立场，以合作者的身份加入罗德岛。
+	其实就算她不这么做，我们也会帮助感染者的，不过那副坚持的态度的确很少在一位“萨卡兹雇佣兵”身上看见。我们似乎能理解泥岩如此受到莱塔尼亚本地感染者欢迎的理由。
+	顺带一提，在泥岩考虑是否要成为罗德岛干员的期间，她正巧碰见了来罗德岛“度假”的骑警格拉尼小姐。格拉尼小姐与泥岩分享了一个关于赏金猎人，宝藏和误会的小故事后，泥岩难得地流露出了欣喜的情绪。以及，干员亚叶和干员铃兰的劝说，也促使泥岩最终选择留在了罗德岛。
+
+	第三資料 :
+	マドロック小隊の感染者の情況はどうにも芳しくない。マドロックがロドスとの交渉を「強いられた」のも、小隊所属の感染者が得るべきケアをきちんと受けられるようにしたいためだ。彼女本人の立場は、他勢力への依存を拒みたいという方向に強く傾いていたものの、ロドスとの初歩的な協議を経て、彼女は隊内感染者の治療のチャンスと引き換えにロドスのために働くことに同意した。ロドスには「サルカズ傭兵」との「慎重な接触」の先例もあったことから、人事部は協定を詳細に詰めるために話し合う予定だったが、感染者たちの治療を先延ばしにしないために、マドロックは躊躇なく自分の立場を投げ打って、協力者としてロドスに入ることを決意した。
+	本当のところ、彼女がそのようなことをせずとも我々は感染者を救助するのだが、マドロックのこうした姿勢は確かに「サルカズ傭兵」にしては珍しいものだった。彼女がなぜリターニア現地の感染者に人気だったのか、その理由を垣間見た気がした。
+	ちなみに、マドロックがロドスのオペレーターになるかどうか考えていた間、丁度ロドスに「バカンスで」来たという騎馬警官のグラニと顔を合わせた。グラニがマドロックにとある「賞金稼ぎ、財宝と誤解」に関する話をすると、彼女は珍しく喜色をあらわにした。また、フォリニックとスズランの二名による説得も、マドロックが最終的にロドスに残る決意を下す後押しとなった。
+
+	Archive File 3 :
+	The Infected within Mudrock's group have not had it easy. Mudrock was only 'compelled' to contact Rhodes Island so that they could be given normal care. Mudrock has made it abundantly clear that she refuses to follow the inclinations of other powers. After undergoing initial talks with Rhodes Island, however, Mudrock has been willing to work for us in exchange for her group being able to receive medical treatment. Considering Rhodes Island's precedent of strained contact with 'Sarkaz mercenaries,' The HR Department planned hash out the agreement with her in greater detail, but so as to not hold up their treatment, Mudrock firmly decided to give up her own position and join Rhodes Island as a cooperative force.     
+	Even had she not done so, we still would have aided her people, though her persistent attitude is truly rare to see in a 'Sarkaz mercenary.' This has given us a glimpse as to why Mudrock was so welcomed by the Infected of Leithania.  
+	By the way, while Mudrock was weighing whether or not to become a Rhodes Island operator, she happened to run across Grani, who was 'vacationing' at Rhodes. Grani shared with Mudrock a short story about bounty hunters, treasure and misunderstandings, after which Mudrock appeared gave a rare display of visible happiness. Operators Folinic and Suzuran further helped persuade her to stay with Rhodes Island in the end.  
+
+	파일 자료 3 :
+	    머드락 일행의 감염 정도는 매우 심각한 상태였고, 머드락은 감염된 동료들이 제대로 된 치료를 받을 수 있게 하기 위해 어쩔 수 없이 로도스 아일랜드와 접촉하게 되었다. 머드락 본인은 다른 세력에 의지하는 것을 기피하는 성향이 뚜렷해 보이지만, 로도스 아일랜드와의 초보적 협상을 마친 뒤, 감염된 동료들에게 제대로 된 의료 서비스를 제공해 줄 수만 있다면 기꺼이 로도스 아일랜드를 위해 일하겠다는 의사를 밝혔다. 로도스 아일랜드는 이미 이전에 '살카즈 용병'과 접촉한 선례가 있기에, 인사부 오퍼레이터는 계속해서 머드락과 세부적인 사항에 대한 협상을 진행하려 하였다. 다만 머드락은 감염된 동료들에게 최대한 빨리 의료 서비스를 제공해 주기 위해, 자신이 요청할 수 있는 여러 사항들을 제쳐두고, 협력자 신분으로 로도스 아일랜드에 합류하기로 하였다.
+	    사실 우리는 머드락이 어떤 결정을 하였든 간에 그녀의 감염자 동료들을 도왔을 테지만, 아무튼 머드락의 이런 결단력 있는 태도는 확실히 '살카즈 용병'들 중에서는 찾아보기 힘든 것이었다. 그녀가 어째서 라이타니아의 감염자들에게 그토록 환영받았던 것인지 그 이유를 알 것 같았다.
+	    머드락이 로도스 아일랜드의 오퍼레이터로서 근무할지 여부를 고민하는 동안, 그녀는 때마침 로도스 아일랜드에서 ‘휴가’를 보내고 있는 그라니와 만나게 되었다. 그라니는 머드락과 바운티 헌터, 보물과 오해에 얽힌 이야기를 들려주었고, 머드락은 평소엔 좀처럼 보기 힘든 즐거운 표정을 내비쳤다. 여기에 오퍼레이터 폴리닉과 스즈란의 권유도 한몫 거들어, 머드락은 결국 로도스 아일랜드에 남기로 하였다.
+
+———————————————————————————————
+
+	档案资料四 :
+	泥岩小队在莱塔尼亚境内的遭遇远算不上幸运。由于与整合运动的暴力主张相悖，泥岩并没有过多参与整合运动在乌萨斯掀起的腥风血雨。相反，她早早带领志同道合的萨卡兹同僚前往莱塔尼亚，并期盼着能在那个源石技艺高度发达、繁荣且腐败的国家里找到适合自己藏身的地方。泥岩深知莱塔尼亚诸城诸塔不会轻易容下参与过战争的萨卡兹雇佣兵，于是她们选择在相对偏远的城镇之间游荡，这期间，不断有莱塔尼亚的感染者被她们所吸引，以及，泥岩身上那对于雇佣兵来说少见的仁慈也为她赢来了些许名声。等到回过神来，“泥岩小队”的名号在部分地区的感染者间已经小有名气，不过本人每每谈起此事都会语塞脸红，看来她并不喜欢谈及那段“光荣”的历史。
+	然而好景不长，“整合运动”带来的复仇欲望并没有被控制在理性的范围内。莱塔尼亚对待感染者态度相对温和，而感染者矛盾自然就被别有用心地转移到了其他方面。在经历了一系列失控的暴动所引来的惨剧后，泥岩心灰意冷地想要回到卡兹戴尔，为她队伍里的感染者们创造一个庇护所。
+	然而这一决定依旧被某些不可抗的外力打断。当精英干员Logos在卡兹戴尔遭遇泥岩小队时，她身边的萨卡兹战士已经十不存一，更多的是精神状态与生理情况都濒临崩溃的莱塔尼亚感染者们。关于泥岩小队离开莱塔尼亚并抵达罗德岛中间究竟发生了什么，为何泥岩临时改变了主意，我们并不清楚。不过，他们毫无疑问遭到了莱塔尼亚某些势力的追击而损失惨重。确认了对方“对感染者赶尽杀绝”的明确意图后，Logos选择了出手相助。
+
+	第四資料 :
+	マドロック小隊のリターニア境内での巡り合わせは幸運とかけ離れるものだった。レユニオンの暴力的な主張とは志を違えていたため、マドロックはレユニオンがウルサスで起こした血塗れの行動に多くは関わらなかった。逆に、思いを同じくするサルカズたちを率いて、早々にリターニアを目指して旅立っていた。彼女はかのアーツ研究が盛んな、繁栄し腐敗に満ちた国に、自らの身を隠す場所があることを願っていた。マドロックは、リターニアの諸都市、諸塔が戦争に関わったサルカズ傭兵を簡単に受け入れることはないだろうと察していたため、比較的辺境にある町々を彷徨っていた。その間、マドロック小隊にはリターニアの感染者たちが絶えず合流し続けた。そしてマドロック本人の傭兵にしては珍しい慈悲深さは、彼女の名声を高めた。気が付けば、「マドロック小隊」の名は一部の感染者の間ではそれなりに有名になっていた。だが、本人はその話になるたびに言葉に詰まり顔を赤くするため、どうやらその頃の「栄光」の歴史を振り返りたくないようだ。
+	だが、穏やかな日々は長く続かなかった。「レユニオン」がもたらした復讐への衝動は理性的な範囲に留まらなかった。リターニアの感染者への態度はそう厳しくない。それゆえか感染者に関する問題は意図的に別の方向へと向けられていた。制御不能の暴動が引き起こした一連の惨劇を経て、心が冷め切ったマドロックはカズデルに戻り、隊内の感染者たちのために落ち着くことができる場所を作るつもりでいた。
+	しかし、その決意すらも抗え難い外力によって打ち破られた。エリートオペレーターのLogosがカズデルでマドロック小隊に遭遇した時、彼女と共にいたサルカズ戦士は十人に一人生きていれば多い方だという情況だった。生き残りの多くは、精神状態も身体状況も崩壊寸前なリターニアの感染者たちだった。マドロック小隊がリターニアを離れてからロドスにたどり着くまでの間に何が起こったのか、なぜマドロックが急に当初と異なる選択肢を取るに至ったのかは、我々にもわからない。ただ一つ明らかなのは、彼らはリターニアの一部勢力による追撃を受け、大きな打撃を受けたことだった。相手の「感染者を皆殺しにする」という明確な意思を確認したため、Logosはマドロック小隊を救助すべく手を出したという。
+
+	Archive File 4 :
+	The Mudrock Squad are far from fortunate for what they went through in Leithania. As a result of her rebelling against Reunion's advocacy of violence, Mudrock had absolutely no involvement with Reunion in the reign of terror that befell Ursus. On the contrary, she led her like-minded Sarkaz for Leithania long before, hoping that in a nation of highly developed Originium Arts, prosperous yet rotten to the core, they could find some place in which to hide away. Mudrock knew well that Leithania's cities and Spires wouldn't readily admit bloodstained Sarkaz mercenaries, so they elected to wander between remote cities, attracting more and more of Leithania's Infected during this time. Her benevolence, rare amongst mercenaries, earned her quite the following. Before she realized it, the reputation of the Mudrock Squad had spread across the Infected though she often trails off, blushing, when the topic comes up. It seems that she doesn't like to talk about her 'glorious' moment of popularity.     
+	Yet all good things come to an end. The vengeful lust of the 'Reunion Movement' was never contained within reason's reach. While Leithania as a whole had a milder treatment of the Infected, these conflicts naturally spread through other areas due to ulterior motives. After enduring the calamity led by a string of out-of-control riots, Mudrock despondently decided to return to Kazdel, hoping to establish a shelter for her people there.   
+	However, this plan was also cut short, again by outside forces she couldn't defy. When Elite Operator Logos came across the Mudrock Squad in Kazdel, there were hardly any Sarkaz warriors left by her side, and the minds, spirits, and bodies of the Leithanien Infected who now outnumbered the original members were on the verge of collapse. As for what even happened to the Mudrock Squad between leaving Leithania and arriving at Rhodes Island, or why Mudrock decided differently at the last minute, we're not at all clear. However, without a doubt, they suffered disastrous losses from some Leithanian power pursued them out of Leithania. After confirming the opposition was clearly intent on 'slaughtering every last Infected,' Logos opted to come to their aid.    
+
+	파일 자료 4 :
+	    라이타니아에서 머드락 소대의 여정은 그다지 순탄치 못했다. 리유니온의 폭력적인 사상에 동조하지 않았던 머드락은 이들이 우르수스에서 벌였던 테러 작전에도 참여하지 않았다. 머드락은 일찍이 뜻을 함께하는 살카즈 동료들을 이끌고 라이타니아로 향했다. 머드락은 오리지늄 아츠가 고도로 발달한, 번영했지만 부패한 라이타니아에서 자신이 몸을 숨길 만한 장소를 찾길 바랐다. 머드락은 라이타니아의 주요 도시들이 전쟁에 참여했던 살카즈 용병을 쉽사리 받아들여 주지 않을 것임을 잘 알고 있었기에, 비교적 외딴 지역에 있는 도시들을 둘러보며 거점을 찾기로 하였다. 해당 기간 동안 라이타니아의 감염자들이 계속해서 머드락 일행에 합류했고, 다른 용병들에게서는 보기 힘든 그녀만이 가진 인자함 덕분에 꽤 유명해지게 되었다. 그리고 어느샌가 '머드락 소대'는 일부 지역의 감염자들 사이에서 꽤 유명해지게 되었는데, 정작 본인은 그 일을 이야기할 때면 얼굴을 붉히며, 아무래도 그 '영광'의 역사에 대해 이야기하는 것을 즐기는 것 같아 보이지는 않았다.
+	    하지만 좋은 시절은 그리 길지 않았다. '리유니온'이 뿜어내는 복수에 대한 열망은 이성으로 통제할 수 있는 범위를 벗어났고, 라이타니아는 상대적으로 온화한 태도로 감염자를 대했기에, 여기서 발생한 모순점들은 자연스레 예상치 못한 다른 문제들을 야기하기 시작했다. 통제 불가능 한 폭동이 낳은 참극을 겪은 후, 머드락은 낙심한 채 감염된 동료들을 위한 은신처를 만들기 위해 카즈델로 돌아가기로 결심하였다.
+	    그러나 이 계획도 불가항력적인 외부의 힘에 의해 중단되고 말았다. 카즈델에서 정예 오퍼레이터 로고스가 머드락 소대를 만났을 당시, 머드락의 곁에 남아있는 살카즈 전사의 수는 많지 않았고, 오히려 심신이 무너지기 일보 직전인 라이타니아 감염자가 더 많았다. 우리로서는 머드락 소대가 라이타니아를 떠나 로도스 아일랜드에 오기까지의 과정 중 어떤 일을 겪었던 건지, 어째서 머드락이 마음을 고쳐먹게 되었는지는 정확히 알 길이 없다. 하지만 그들이 라이타니아의 어느 세력의 추격을 따돌리는 와중에 치명적인 피해를 입었다는 점은 의심의 여지가 없었다. '감염자는 말살한다'라는 상대의 의도를 확인한 뒤, 로고스는 머드락에게 도움의 손길을 내밀었다.
+
+———————————————————————————————
+
+	晋升资料 :
+	泥岩曾经询问过干员亚叶，“沃伦姆德后来怎么样了？”。
+	根据行动档案记载，沃伦姆德是一座位于莱塔尼亚偏北方的移动城镇，曾因为卷入天灾而险些毁于一旦。罗德岛干员安托在此次事件中殉职，而前去调查事件的干员小组也曾与泥岩小队发生过冲突。不过，对于“泥岩是否有过不当暴行”的问题，干员亚叶在犹豫片刻后，给予了否定的答案。
+	至于泥岩所谓的“后来”，则是指泥岩与罗德岛干员们决斗（此字眼较为符合当时的情况，可判断为泥岩刻意为之）战败并撤离沃伦姆德后发生的事情。突如其来的火灾和暴乱给了官员们向贵族请求撤回宪兵队的理由，在宪兵队的帮助下，受灾城镇成功建立起跨越大裂谷的通道，信使和补给队伍随后抵达了沃伦姆德。从结论上而言，沃伦姆德元气大伤，而且其问题并不止于暴乱和分歧带来的直接损失，“沃伦姆德有接近五分之一的人背叛了莱塔尼亚”，这一阴影深埋在了当地人的内心深处，也警醒了当地部分良知尚存的贵族——他们面临的问题相当繁复。
+	根据事后负责跟踪调查的信使来信表示，靠着宪兵队专业人士的鉴定，可以确认沃伦姆德事件的元凶毕德曼已丧生于暴乱之中，而本地治安负责人则因为矿石病重症而被收容，生死不明。随后贵族收回了沃伦姆德的自治权，并决定在来年春天将沃伦姆德的完好地区并入周遭其他城镇。
+	根据泥岩所述的“经历”来看，沃伦姆德这起事件不过是泥岩小队等感染者在莱塔尼亚所见的冰山一角。可以想象泥岩小队中莱塔尼亚感染者的状态为何如此之低迷。不得不承认，老老实实呆在感染者巨大的囚笼里，放弃自由，也许是在莱塔尼亚唯一苟且偷生的办法。
+	
+	【权限记录】
+	在当地贵族抵达沃伦姆德视察的第一天夜里，发生了一起刺杀事件。嫌疑人刺杀未遂，逃至冬灵山脉附近后咬舌自尽。其身份为当地治安负责人的独子，本以为在火灾中丧生的托尔瓦尔德。宪兵在其身上发现了一封信件：“我改主意了，我替你死，但是你要为我做一件事。你认识他，你去解决他。”因为这封信件及嫌疑人随身携带的天灾信使信物，可以确认该嫌疑人系毕德曼的从犯之一。贵族并没有刁难已经重症难愈的塞弗林·霍索恩，却明显对此事心生芥蒂，离开了沃伦姆德。考虑到数名干员与此事皆有牵连，此情报仅少数负责人及博士有权参阅。
+
+	昇進資料 :
+	マドロックはフォリニックに、「ウォルモンドはその後どうなったんだ？」と尋ねたことがあるようだ。
+	行動記録によると、ウォルモンドはリターニアの北寄りにある移動都市であり、天災に巻き込まれたことによって危うく壊滅といった危機にさらされたそうだ。ロドスのオペレーターであるアントが当事件に巻き込まれて殉職し、事件調査に赴いたオペレーターチームはマドロック小隊と衝突したという。だが、「マドロックに不当な暴行はあったか」という問いには、フォリニックはしばしの迷いの後、否定をもって答えた。
+	マドロックの言う「その後」は、ロドスのオペレーターたちとの決闘（当時の状況を考慮し、マドロックが意図的にそうしたと思われる）に敗北してから、ウォルモンドから撤退した後のことを指している。突如の火災と暴動は官僚が貴族に憲兵隊の撤収を要請する口実となった。憲兵隊の協力のもと、被災都市は大裂溝をまたがる通路をかけることに成功し、トランスポーターや補給部隊もその後ウォルモンドに到達した。結論から言えば、ウォルモンドは大きなダメージを受けた。暴動と分裂による直接的な損害だけではなく、「ウォルモンドの五分の一の者がリターニアを裏切った」という事実は現地の人々の心の奥にトラウマを残し、また一部良心ある貴族への警醒となった――彼らが面している問題は相当に複雑なのだ。
+	事後の追跡調査を担当するトランスポーターからの報告によれば、憲兵隊の専門者の確認のもと、ウォルモンド事件の元凶であるビーダーマンは既に暴動で命を落としたことが確実である。一方、現地の治安責任者は重症の鉱石病により収容され、生死不明となっている。貴族はウォルモンドの自治権を取り上げ、来年の春には損害を受けていないエリアを周辺の都市に併合させると決定した。
+	マドロックの述べた「経歴」から見れば、ウォルモンドでの事件はマドロック小隊などの感染者がリターニアで見聞きした出来事のほんの一部に過ぎなかったのだろう。マドロック小隊に所属するリターニア感染者が、なぜあれほど落ち込んでいたかを想像することは難しくない。おとなしく感染者用の巨大な檻に留まり、自由を諦めることが、リターニアの感染者に残された唯一の生き延びる術なのかもしれない。
+	
+	【権限記録】
+	現地貴族が視察のためにウォルモンドへ到着した当日の夜に、暗殺事件が起きた。容疑者は暗殺に失敗した後、冬霊山脈の近くまで逃げ出し、舌を噛んで自殺した。その正体は、現地治安責任者の一人息子であり、火災中で命を落としたとされていたトールワルドだった。憲兵は彼の遺体から一通の手紙を見つけた。「気が変わった。代わりに死んでやる。だがお前には一つやってもらいたいことがある。奴を知ってるだろう。お前が奴を片付けるんだ。」と書かれていたこの手紙と、容疑者が持ち歩いていた天災トランスポーターの証から、該当容疑者はビーダーマンの共犯の一人であることが確認できた。貴族は既に治療の余地もないほど重症のセベリン・ホーソーン氏を咎めることはしなかったが、明らかにこの件で気を揉んでおり、ウォルモンドから離れていった。数名のオペレーターがこの件に関わってしまったことを考慮して、本情報は少数の責任者及びドクターのみに閲覧を許可する。
+
+	Promotion File :
+	Mudrock once asked Operator Folinic. 'What happened to Wolumonde afterwards?'  
+	According to operational records, Wolumonde is a nomadic city in the north of Leithania, which was once brought by a Catastrophe to near-ruin in a matter of days.  Rhodes Island Operator Atro lost her life in this incident, and the team of Operators dispatched to investigate the incident came into conflict with the Mudrock Squad. However, asked 'whether Mudrock had engaged in unforgivable conduct,' Operator Folinic hesitated for a brief moment before issuing a denial. 
+	As for the 'after,' this refers to what followed Mudrock's decisive battle (this wording is in line with the situation at the time, and can be seen as a deliberate effort on Mudrock's part) with Rhodes Island's operators, her defeat, and subsequent withdrawal from Wolumonde.  The sudden fires and revolts gave the Wolumonde officials grounds to recall the Gendarmerie from the nobles. With the Gendarmerie's aid, the afflicted cities successfully established a passage across the Great Rift. Messengers and supply teams arrived soon after at Wolumonde.  After the ordeal, Wolumonde was deeply wounded, not just due to the loss during the conflict and rioting. 'Close to a fifth of Wolumonde's people betrayed Leithania.' This shadow cast itself deep into the hearts of the locals, and even roused whatever conscience still remained in some of their nobles—and the problems they faced were quite convoluted. 
+	Based on letters sent by Messengers responsible for the follow-up investigations, with the professional evaluation of the Gendarmerie, we can confirm that the main instigator of the Wolumonde incident, Biederman, died in the riots. The local Schultz was taken in due to his acute Oripathy, and whether he is alive or dead remains unclear. Soon after, the nobles withdrew Wolumonde's autonomy, deciding to merge its intact areas with surrounding cities in the coming spring. 
+	Judging by the 'experiences' Mudrock described, what the Mudrock Squad and Leithanien Infected saw in Wolumonde was just the tip of the iceberg. You can imagine why the Leithanien Infected within the Mudrock Squad were in such low spirits. We cannot help but recognize that obedience within the Infected's giant cages, giving up freedom may be the only way to eke out an existence in Leithania. 
+	
+	[Classified Log]
+	On the first night the local nobles arrived to investigate Wolumonde, there was an assassination attempt. After failing, the suspect fled near the Winterwisp Mountains, where he committed suicide by biting his tongue off. He was identified as the local Schultz's only son, Thorwald, who was thought to have died in the fire. The Gendarmerie found a letter on his person: 'I've changed my mind. I'll die in your stead. But there's one thing you have to do for me. If you recognize him, get rid of him.' Because of this letter, and the token of a Catastrophe Messenger carried on the suspect's person, we can confirm that the suspect was an accomplice to Biederman. The noble did not make things harder on Severin Hawthorn, whose life was already in grave danger, but it was obvious he had no good will to spare, and so left Wolumonde. Considering that several other operators are involved in this matter, only a small number of authorized personnel and the Doctor are permitted to view this document.
+
+	승진 자료 :
+	    이전에 머드락은 오퍼레이터 폴리닉에게 월루몽드는 이후에 어떻게 됐느냐고 물어본 적이 있다.
+	    작전 파일 기록에 따르면 월루몽드는 라이타니아 북쪽에 위치한 이동도시로, 과거 재앙에 휘말려 하마터면 하루아침에 파괴될 뻔한 적이 있다. 로도스 아일랜드의 오퍼레이터 아트로가 이 사건으로 인해 순직했으며, 사건을 조사하러 간 오퍼레이터 팀 또한 머드락 소대와 충돌을 빚기도 했다. 하지만 '머드락이 부당한 폭행을 가했는가'에 대한 물음에, 오퍼레이터 폴리닉은 잠시 망설인 후 그렇지 않다고 대답했다.
+	    머드락이 물었던 '이후’의 일이란, 그녀가 로도스 아일랜드 오퍼레이터들과의 결투(당시 상황에 어울리는 단어로, 머드락이 의도적으로 선택한 것으로 보임)에서 패배하여 철수한 이후에 월루몽드에서 발생한 일을 말한다. 갑작스레 발생한 화재와 폭동은 관리들이 귀족들에게 헌병대를 철수시킬 것을 요청할 수 있는 빌미를 제공해 주었으며, 재난을 당한 도시는 헌병대의 도움을 받아 대열곡을 건너갈 수 있는 도로를 건설하게 되었고, 이 통로를 통해 전달자와 보급 부대가 월루몽드에 도착할 수 있었다. 결론부터 말하자면, 월루몽드는 그 생명력이 크게 손상되었다. 게다가 그 피해는 폭동과 갈등이 가져온 직접적인 손실에 그치지 않고, 현지인들 마음속에 '월루몽드의 5분의 1에 가까운 사람들이 라이타니아를 배신했다'라는 인식이 새겨지게 되어, 현지의 일부 영민한 귀족들은 자신들이 상당히 복잡한 문제에 직면했음을 깨닫게 되었다.
+	    사후 추적 조사를 담당한 전달자의 보고에 의하면, 헌병대 측 전문가의 조사를 통해 월루몽드 사건의 원흉인 비더만은 이미 폭동 중 목숨을 잃었음이 확인되었으며, 현지 치안 책임자는 광석병이 악화되면서 어느 시설에 수용되어 생사를 확인할 수 없다고 한다. 이후 귀족들은 월루몽드의 자치권을 되찾았고, 내년 봄 즈음 월루몽드 내 온전한 지역을 주변 다른 도시에 병합하기로 결정하였다.
+	    머드락이 기록한 '경험'에 의하면, 월루몽드 사건은 머드락 소대와 같은 감염자들이 라이타니아에서 본 것 사건들 중 빙산의 일각에 불과하며, 이것이 머드락과 함께하고 있는 라이타니아 감염자들의 상태가 이렇게 나쁜 이유라고 한다. 라이타니아에서 목숨을 부지하는 유일한 방법은, 어쩌면 자유를 포기하고 거대한 감염자 감옥 안에 얌전히 갇혀있는 것밖에 없을 지도 모른다.
+	
+	[제한된 기록]
+	    현지 귀족이 시찰을 위해 월루몽드에 도착한 첫날 밤, 암살 사건이 발생했다. 용의자는 암살이 미수로 그치자 윈터위습 산맥 부근까지 도주한 뒤 혀를 깨물고 자살하였다. 용의자는 현지 치안 책임자의 외아들로, 본래 화재로 사망한 줄 알았던 토어발트였다. 헌병은 용의자에게서 편지 한 통을 발견했는데, 편지에는 "생각을 바꿨다. 내가 널 대신해 죽을 테니, 날 위해 한 가지 일을 해줬으면 한다. 너는 그를 알고 있으니, 네가 가서 그를 해결해라"라고 적혀 있었다. 이 편지와 용의자가 지니고 있던 재앙정보전달자의 편지를 통해, 용의자가 비더만의 공범 중 하나라는 점을 확인할 수 있었다. 해당 귀족은 이미 중병을 앓고 있는 세버린 호손을 곤란하게 만들진 않았으나, 이 일로 앙심을 품고 월루몽드를 떠나게 되었다. 여러 오퍼레이터들이 이 사건에 연루되어 있다는 점을 고려, 이 정보의 참조 권한은 소수의 책임자 및 박사에게만 제공한다.

@@ -5,17 +5,17 @@
 
 [name="阿达克利斯喽喽B"]  太、太强了......
 [name="アダクリスの雑魚B"]  つ、強すぎる……
-[name="Archosauria Punk B"]  S-She’s strong...
+[name="Archosauria Punk B"]  S-She's strong...
 [name="아다크리스 졸개B"]  너, 너무 강하잖아…
 
 [name="乌代"]  算你厉害！
 [name="ウダイ"]  やるじゃねぇか！
-[name="Uda"]  You’re not half bad, I’ll give you that!
+[name="Uda"]  You're not half bad, I'll give you that!
 [name="우다"]  좀 하는구나!
 
 [name="阿鲁纳"]  森蚺，别得意！
 [name="アルナ"]  調子に乗るな、ズゥママ！
-[name="Aruna"]  Don’t get cocky, Eunectes!
+[name="Aruna"]  Don't get cocky, Eunectes!
 [name="아루나"]  우쭐대지 마라! 유넥티스!
 
 [name="阿鲁纳"]  小的们，上！
@@ -30,7 +30,7 @@
 
 [name="特米米"]  唔，不愧是祖玛玛，果然很厉害。
 [name="トミミ"]  うう、さすがズゥママ、やっぱり強いです。
-[name="Tomimi"]  Mm, I knew it! Zumama’s so tough!
+[name="Tomimi"]  Mm, I knew it! Zumama's so tough!
 [name="토미미"]  으으… 역시 주마마네요. 정말 대단해요.
 
 [name="特米米"]  虽然只有一个人，一般的阿达克利斯也不是她的对手，就像嘉维尔一样。
@@ -45,7 +45,7 @@
 
 [Decision(options="你好像很熟悉她。;......;好帅的女孩子。",values="1;2;3")]
 [Decision(options="彼女について、ずいぶん詳しいようだな。;……;かっこいい女性だ。",values="1;2;3")]
-[Decision(options="It sounds like you know her pretty well.;......;She’s so cool...",values="1;2;3")]
+[Decision(options="It sounds like you know her pretty well.;......;She's so cool...",values="1;2;3")]
 [Decision(options="주마마에 대해 잘 아나 보네.;……;정말 멋진 여자군.",values="1;2;3")]
 
 [name="特米米"]  嗯，祖玛玛和嘉维尔从前开始就是我们这一带最厉害的两个人呢。
@@ -60,12 +60,12 @@
 
 [name="特米米"]  博士。在外面这么厉害的人一定很少见吧！
 [name="トミミ"]  ドクター、あんなに強い人はきっと外だと珍しいですよね！？
-[name="Tomimi"]  Doctor. I bet you don’t see people this strong on the outside!
+[name="Tomimi"]  Doctor. I bet you don't see people this strong on the outside!
 [name="토미미"]  박사님. 바깥에서도 이렇게 대단한 사람은 흔치 않죠?
 
 [name="特米米"]  但是，嘉维尔更厉害哦！
 [name="トミミ"]  でも、ガヴィルさんはもっと強いんですよ！
-[name="Tomimi"]  But Gavial’s even stronger than her!
+[name="Tomimi"]  But Gavial's even stronger than her!
 [name="토미미"]  하지만 가비알 씨가 훨씬 더 대단해요!
 
 [name="特米米"]  唔，虽然祖玛玛确实很帅。
@@ -75,7 +75,7 @@
 
 [name="特米米"]  但是，嘉维尔更帅！
 [name="トミミ"]  でも、ガヴィルさんはもっとかっこいいです！
-[name="Tomimi"]  But Gavial’s way cooler!
+[name="Tomimi"]  But Gavial's way cooler!
 [name="토미미"]  하지만 가비알 씨가 훨씬 더 멋있어요!
 
 [name="特米米"]  对吧，嘉维尔？
@@ -85,7 +85,7 @@
 
 [name="特米米"]  咦，嘉维尔呢？
 [name="トミミ"]  あれ、ガヴィルさんは？
-[name="Tomimi"]  Huh? Where’s Gavial?
+[name="Tomimi"]  Huh? Where's Gavial?
 [name="토미미"]  엣, 가비알 씨는?
 
 [name="阿达克利斯人A"]  喂，你们看，那个人是！
@@ -95,7 +95,7 @@
 
 [name="阿达克利斯人B"]  我刚才在来的路上就看到了，她是——
 [name="アダクリス人B"]  見間違いじゃなかったのか！　あいつは――
-[name="Archosauria B"]  I saw her on my way here! Isn’t that—
+[name="Archosauria B"]  I saw her on my way here! Isn't that—
 [name="아다크리스B"]  나도 방금 오다가 봤어. 저 사람은…
 
 [name="阿达克利斯人C"]  她居然真的回来了！
@@ -120,7 +120,7 @@
 
 [name="嘉维尔"]  好久不见啊，祖玛玛！
 [name="ガヴィル"]  久しぶりだな、ズゥママ！
-[name="Gavial"]  It’s been a while, Zumama!
+[name="Gavial"]  It's been a while, Zumama!
 [name="가비알"]  오랜만이다? 주마마!
 
 [name="嘉维尔"]  现在应该叫你森蚺头领了对吧。
@@ -135,7 +135,7 @@
 
 [name="嘉维尔"]  是啊，特米米叫我回来的。
 [name="ガヴィル"]  ああ、トミミに呼び戻されてな。
-[name="Gavial"]  That’s right, Tomimi asked me to come back.
+[name="Gavial"]  That's right, Tomimi asked me to come back.
 [name="가비알"]  그래, 토미미가 돌아오라고 해서 말이야.
 
 [name="嘉维尔"]  嗯？等等，你居然也会说萨尔贡语？
@@ -150,7 +150,7 @@
 
 [name="森蚺"]  我学习了很久。
 [name="ユーネクテス"]  ……お前もこの言葉を使っているということは、これは外の言語で間違いなさそうだな。
-[name="Eunectes"]  I’ve been studying it for a long time.
+[name="Eunectes"]  I've been studying it for a long time.
 [name="유넥티스"]  꽤 오랫동안 공부했지.
 
 [name="森蚺"]  ......我以为你不会再回来了。
@@ -175,7 +175,7 @@
 
 [name="嘉维尔"]  但是，你这家伙变得这么厉害了，这让我怎么忍得住啊！
 [name="ガヴィル"]  お前がこんなに強くなったのを見せつけられたら、いても立ってもいられなくてよ！
-[name="Gavial"]  I didn’t expect to see you get this badass, though. How am I supposed to hold myself back from fighting you?
+[name="Gavial"]  I didn't expect to see you get this badass, though. How am I supposed to hold myself back from fighting you?
 [name="가비알"]  근데 네가 이렇게 엄청 세졌는데, 이건 못 참지!
 
 [name="森蚺"]  你真的去做医生了？
@@ -190,17 +190,17 @@
 
 [name="嘉维尔"]  嘿，我在外面可是很有名的医生！
 [name="ガヴィル"]  へっ、これでも外では有名なんだぜ。
-[name="Gavial"]  Hehe, I’m a pretty famous doctor out there!
+[name="Gavial"]  Hehe, I'm a pretty famous doctor out there!
 [name="가비알"]  헤헷, 이래 봬도 바깥에선 아주 유명한 의사라고!
 
 [name="森蚺"]  真意外。
 [name="ユーネクテス"]  意外だな。
-[name="Eunectes"]  That’s amazing.
+[name="Eunectes"]  That's amazing.
 [name="유넥티스"]  정말 의외네.
 
 [name="嘉维尔"]  你呢，上次的时候你不是在捣鼓自己的东西没有参加吗？终于捣鼓好了？
 [name="ガヴィル"]  お前は最近どうなんだ？　前回の祭典は、機械弄りに夢中で参加しなかったが、今回出てきたってことはついに完成したのか？
-[name="Gavial"]  What about you? You didn’t show up last time because you were tinkering with something, right? You done with that yet?
+[name="Gavial"]  What about you? You didn't show up last time because you were tinkering with something, right? You done with that yet?
 [name="가비알"]  넌 저번에 뭐 만지작거린다고 제전에 참가하지도 않았잖아? 드디어 다 만든 거야?
 
 [name="森蚺"]  ......是。
@@ -210,27 +210,27 @@
 
 [name="森蚺"]  你马上就会见到。
 [name="ユーネクテス"]  すぐに見せる。
-[name="Eunectes"]  You’ll get to see it very soon.
+[name="Eunectes"]  You'll get to see it very soon.
 [name="유넥티스"]  곧 보게 될 거야.
 
 [name="特米米"]  呜呜呜，嘉维尔不是说她不会出手的吗......
 [name="トミミ"]  ううう、ガヴィルさん、手は出さないって言ってたのに……
-[name="Tomimi"]  Ugh... didn’t Gavial say she wasn’t going to fight her...?
+[name="Tomimi"]  Ugh... didn't Gavial say she wasn't going to fight her...?
 [name="토미미"]  으아아…… 가비알 씨는 출전하지 않을 거라고 하지 않았나요…
 
 [Decision(options="嘉维尔出乎你的意料了？;......;这才是嘉维尔。",values="1;2;3")]
 [Decision(options="手を出してほしくなかったのか？;……;それでこそガヴィルだ。",values="1;2;3")]
-[Decision(options="It’s Gavial. Are you surprised?;......;That’s the Gavial we know and love.",values="1;2;3")]
+[Decision(options="It's Gavial. Are you surprised?;......;That's the Gavial we know and love.",values="1;2;3")]
 [Decision(options="가비알이 네 예상 범위를 벗어난 건가?;……;이래야 가비알답지.",values="1;2;3")]
 
 [name="特米米"]  诶？没、没有的事！只、只是.......
 [name="トミミ"]  え？　そ、そんなことはありませんが、た、ただ……
-[name="Tomimi"]  Hm? N-Not at all! I-It’s just...
+[name="Tomimi"]  Hm? N-Not at all! I-It's just...
 [name="토미미"]  네? 아, 아니에요! 다, 단지…
 
 [name="特米米"]  博士也看入迷了......
 [name="トミミ"]  ドクターも見入っていますね……
-[name="Tomimi"]  Even the Doctor’s taken with her...
+[name="Tomimi"]  Even the Doctor's taken with her...
 [name="토미미"]  박사님도 넋을 잃고 보고 계시네요……
 
 [name="特米米"]  呜呜，虽然确实很帅，但是......
@@ -240,17 +240,17 @@
 
 [name="特米米"]  呜呜，虽然这么说是没错。
 [name="トミミ"]  うう、そうは言いますけど……
-[name="Tomimi"]  Oh... it’s true.
+[name="Tomimi"]  Oh... it's true.
 [name="토미미"]  우으으…… 맞는 말이긴 하지만……
 
 [name="森蚺"]  ......你还是那么强，嘉维尔。
 [name="ユーネクテス"]  ……相変わらず強いな、ガヴィル。
-[name="Eunectes"]  You’re as strong as I remember.
+[name="Eunectes"]  You're as strong as I remember.
 [name="유넥티스"]  넌 여전히 강하구나…… 가비알.
 
 [name="嘉维尔"]  嘿，你也不差啊，祖玛玛！
 [name="ガヴィル"]  へっ、お前もなかなかやるな、ズゥママ！
-[name="Gavial"]  Heh, you ain’t half bad either!
+[name="Gavial"]  Heh, you ain't half bad either!
 [name="가비알"]  뭐래, 너도 만만치 않아, 주마마!
 
 [name="森蚺"]  但是，你太依赖你的拳头了。
@@ -265,12 +265,12 @@
 
 [name="森蚺"]  你的拳头让你可以做到许多事，所以你从不考虑用拳头以外的东西做事。
 [name="ユーネクテス"]  その拳でお前は多くを成し遂げた。だがそのせいで、お前は拳以外のものに頼ることを知らない。
-[name="Eunectes"]  You can do all sorts of things with your fists, so you don’t ever think of using anything else.
+[name="Eunectes"]  You can do all sorts of things with your fists, so you don't ever think of using anything else.
 [name="유넥티스"]  넌 네 주먹으로 많은 일을 할 수 있었고, 그래서 주먹 이외의 것을 써볼 생각을 해본 적 없지.
 
 [name="森蚺"]  这是你的局限性，也是我们这些人的局限性。
 [name="ユーネクテス"]  それがお前の限界であり、ここにいる私たちの限界でもあるんだ。
-[name="Eunectes"]  That’s what’s holding you back, and it’s what’s holding all of us back.
+[name="Eunectes"]  That's what's holding you back, and it's what's holding all of us back.
 [name="유넥티스"]  그게 너의 한계야, 우리의 한계이기도 하고.
 
 [name="嘉维尔"]  你到底在说什么？
@@ -280,7 +280,7 @@
 
 [name="森蚺"]  我在说，该改变了。
 [name="ユーネクテス"]  そろそろ変わらねば、ということだ。
-[name="Eunectes"]  What I’m trying to say is it’s time for change.
+[name="Eunectes"]  What I'm trying to say is it's time for change.
 [name="유넥티스"]  내 말은, 이젠 변해야 한다는 거야.
 
 随着“嘿咻”，“嘿咻”整齐的号子声，林间似乎有什么庞然大物在靠近神庙。
@@ -295,12 +295,12 @@ Whatever it is, it is slowly but surely stomping its way towards the Temple, and
 
 [name="森蚺"]  你确实很强，嘉维尔。
 [name="ユーネクテス"]  確かにお前は強い、ガヴィル。
-[name="Eunectes"]  You’re strong, Gavial. There’s no doubt about that.
+[name="Eunectes"]  You're strong, Gavial. There's no doubt about that.
 [name="유넥티스"]  넌 확실히 아주 강해, 가비알.
 
 [name="森蚺"]  原本，我是想在成为大酋长后再用它的。
 [name="ユーネクテス"]  あれは本当は、大族長になってから使うつもりだったのだが。
-[name="Eunectes"]  I wasn’t going to use this until after I took the throne.
+[name="Eunectes"]  I wasn't going to use this until after I took the throne.
 [name="유넥티스"]  원래 난 대족장이 된 후에 이걸 사용하려고 했어.
 
 [name="森蚺"]  现在，我不得不用它来对付你。
@@ -310,7 +310,7 @@ Whatever it is, it is slowly but surely stomping its way towards the Temple, and
 
 [name="森蚺"]  但是，结果是一样的。
 [name="ユーネクテス"]  どちらにせよ、結果は同じだ。
-[name="Eunectes"]  It doesn’t matter. The end result will still be the same.
+[name="Eunectes"]  It doesn't matter. The end result will still be the same.
 [name="유넥티스"]  하지만 결과는 똑같아.
 
 [name="森蚺"]  它将改变这里。
@@ -320,7 +320,7 @@ Whatever it is, it is slowly but surely stomping its way towards the Temple, and
 
 [name="嘉维尔"]  虽然不知道你在说什么，不过我可没那么轻易倒下啊！
 [name="ガヴィル"]  だから全然何言ってるかわかんねぇって！　つーか何が来ても、アタシは簡単には倒れねぇぞ！
-[name="Gavial"]  I’ve got no idea what you’re talking about, but I’m not going down that easy!
+[name="Gavial"]  I've got no idea what you're talking about, but I'm not going down that easy!
 [name="가비알"]  무슨 말을 하는 건지는 모르겠지만, 난 그렇게 쉽게 쓰러지지 않아!
 
 [name="森蚺"]  不，你会轻易地倒下。
@@ -335,7 +335,7 @@ Whatever it is, it is slowly but surely stomping its way towards the Temple, and
 
 [name="嘉维尔"]  什么，那是？！
 [name="ガヴィル"]  なんだ、ありゃあ！？
-[name="Gavial"]  What’s... that?!
+[name="Gavial"]  What's... that?!
 [name="가비알"]  뭐야 저건?!
 
 [name="森蚺"]  你看，我说了，嘉维尔。
@@ -345,16 +345,16 @@ Whatever it is, it is slowly but surely stomping its way towards the Temple, and
 
 [name="森蚺"]  但是，用它对付你，并不是我本来的目的。
 [name="ユーネクテス"]  だが、私の本来の目的はこいつでお前を倒すことじゃない。
-[name="Eunectes"]  But using it against you isn’t what I’m trying to accomplish here.
+[name="Eunectes"]  But using it against you isn't what I'm trying to accomplish here.
 [name="유넥티스"]  하지만 이걸로 널 상대하는 건 내 원래 목적이 아냐.
 
 [name="森蚺"]  靠拳头是没有未来的，嘉维尔。
 [name="ユーネクテス"]  拳だけでは、未来は創れないんだよ、ガヴィル。
-[name="Eunectes"]  We won’t have a future if we always rely on our fists.
+[name="Eunectes"]  We won't have a future if we always rely on our fists.
 [name="유넥티스"]  주먹에 의지해서는 미래가 없어, 가비알.
 
 [name="森蚺"]  接下来，是机器的时代。
 [name="ユーネクテス"]  これからは、機械の時代だ。
-[name="Eunectes"]  From here on out, we’re in the age of machines.
+[name="Eunectes"]  From here on out, we're in the age of machines.
 [name="유넥티스"]  이제부터는, 기계의 시대니까.
 

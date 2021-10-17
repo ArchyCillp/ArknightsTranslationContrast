@@ -1,11 +1,17 @@
 ID:
 	char_240_wyvern
 
-干员代号\Name:
+CV:
 	香草
 	バニラ
 	Vanilla
 	바닐라
+
+干员代号\Name:
+	杉浦栞
+	杉浦しおり
+	Shiori Sugiura
+	스기우라 시오리
 
 招聘合同\Character Usage:
 	黑钢先锋干员香草，将用其专业技术为团队打开战场。
@@ -38,167 +44,325 @@ ID:
 	돌격지령-원군
 
 语音\Voices:
-	等候您的命令，博士。
 	待機中です、ドクター。
 	Awaiting your orders, Doctor.
 	대기 중입니다, 박사님.
 
-	生化小组的两位前辈也在这里？那......以后能把我分配到前辈们的行动组吗？
 	BPチームの先輩お二人もこちらにいらっしゃるんですか？でしたら……これからは先輩たちのチームに配属していただいてもいいですか？
 	The two seniors from the BPRS squad are here too? Then... can I join their squad in the future?
 	생화학 팀의 선배님 두 분도 여기 와 계신가요? 그렇다면… 앞으론 선배님들 팀에 넣어주실 수 있을까요?
 
-	呼哈......呼哈......再做三组体能训练......今天的锻炼就完成了......一半......博士......麻烦您帮我......拿下水壶......
 	ふぅ……はぁ……あと三セットやれば……今日のトレーニングメニュー……半分は終わる……ドクター……すみません……ボトルを取ってもらえませんか……。
-	Huff... huff... three more sets of physical training and I'll be half-done for today! Doctor... please... fetch my water bottle for me…
+	Huff... huff... three more sets of physical training and I'll be half-done for today! Doctor... please... fetch my water bottle for me...
 	후우… 하아… 앞으로 3세트만 더 하면… 오늘 트레이닝 코스의 절반이 끝나… 박사님… 죄송해요… 물병 좀 집어주실 수 있을까요… 
 
-	想问我家乡的情况？那是片......残酷的荒漠，每天光是活着就很累了。和那里比起来，罗德岛就是天堂啊。
 	私の故郷のことが聞きたい、ですか？あそこは……荒れ果てた、生きていくだけでも精一杯な土地でした。あの場所と比べれば、ロドスは本当に天国のようです。
 	My hometown? It's... a cruel wilderness. Survival itself is a difficult feat. Compared to that, Rhodes Island is like heaven.
 	제 고향에 대해 듣고 싶으시다고요? 그곳은… 무척 황폐한, 살아가는 것만으로도 버거운 땅이었어요. 그곳에 비하면, 로도스 아일랜드는 정말 천국 같은 곳이죠.
 
-	比起在黑钢实习的时候，我变得更强了。
 	BSWで実習をしていた頃より、強くなれた気がします。
 	I've become stronger than when I was an intern for Blacksteel.
 	블랙스틸에서 인턴으로 있던 때보다 강해진 느낌이 드네요.
 
-	黑钢的第二十二条规定：“武器离身者一律辞退”，所以我一直随身带着我的斧枪。唉？平时不用？但我记得......稍等......“此规定仅限入职训练与契约中干员。”......芙兰卡小姐为什么没提醒我呢......
 	BSW規定第二十二条：「武器を手放した者は一律解雇に処す」。だからこのハルバードを肌身離さずに持っています。え？これが適用されるのは訓練期間中のオペレーターだけなんですか？……そんな、フランカさん、聞いていませんよ……。
 	The 22nd rule of Blacksteel: 'Anyone who loses her weapon no longer belongs here.' That's why I always bring my hellebarde with me wherever I go. What? The rule doesn't apply to everyday situations, you say? But... if I remember correctly... wait, let me check. 'This rule only applies to contracted Operators and new recruits under training.' Hm, Ms. Franka didn't tell me about this part.
 	블랙스틸 규정 제22조, "무기를 방치한 자는 일률 해고에 처한다". 그러니 이 핼버드를 몸에서 떼지 않고 갖고 있는 거예요. 네? 이게 적용되는 건 훈련 기간 중인 오퍼레이터만이라고요? … 그럴 리가, 프란카 씨, 그런 얘긴 못 들었다고요… 
 
-	杜宾教官太残忍了！为什么只有我要面对活生生的源石蜗牛呢！我，我真的下不了手啊！
 	ドーベルマン先生、ひどいですよ！どうして私だけ生きたオリジニウムカタツムリの相手をしなければいけないんですか！わ、私には本当に無理です！
 	Instructor Dobermann must be a secret sadist! How could she expect me to deal with all those live Originium slugs alone? I... I just can't!
 	도베르만 선생님, 너무하세요! 왜 저만 살아있는 오리지늄 달팽이를 상대해야 하는 겁니까! 저, 전 진짜 못하겠다고요!
 
-	我想......我明白芙兰卡和雷蛇呆在罗德岛的原因了。可能和黑钢相比，这里更像个家吧。除了任务之外，居然还有那么多有趣的东西......
 	私……フランカさんやリスカムさんがロドスに残りたがる理由がわかった気がします。BSWより、ここはよっぽど家らしいところですね。任務以外にも面白いことがこんなにたくさんあるだなんて……。
 	I think I know now why Franka and Liskarm like being at Rhodes Island so much. Compared to Blacksteel, it's more... home-y here. And besides exciting missions, there are lots of fun places to explore...
 	저… 프란카 씨나 리스캄 씨가 로도스 아일랜드에 남아있는 이유를 조금 알 것 같아요. 블랙스틸보다 여기는 훨씬 더 집 같은 곳이네요. 임무 외에도 재밌는 일이 이렇게나 많다니… 
 
-	嘘，安静点，别打扰博士休息。
 	シー、静かにしてください。ドクターがお休み中です。
 	Shh, quiet. The Doctor is resting!
 	쉿, 조용히 해주세요. 박사님께서 쉬고 계시잖아요.
 
-	香草，以受训干员的身份前来学习。博士阁下，今后就请您多多指教了。
 	バニラと申します。訓練生としてここで勉強させていただきます。ドクター、今後はよろしくお願いいたします。
 	I'm Vanilla, trainee Operator. Nice to meet you, Doctor.
 	바닐라라고 합니다. 훈련생으로서 이곳에서 많이 배우도록 하겠습니다. 박사님, 앞으로 잘 부탁드립니다.
 
-	是时候整理笔记了，新知识得赶紧消化掉。
 	そろそろノートを整理しましょう、新しい知識は早いうちに消化しないといけませんから。
 	It's time to organize my notes. This way, I can better digest what I've just learned!
 	슬슬 노트 정리를 할게요, 새로운 지식은 빨리 소화시켜놔야 하니까요.
 
-	这是......晋升勋章？给我的？谢，谢谢！
 	これは……エリートメダル？これを私にですか？あ、ありがとうございます！
 	A... promotion medal? For me? Th-thank you!
 	이건… 정예 메달? 이걸 저한테 주신다고요? 가, 감사합니다!
 
-	香草会助大家一臂之力的！
 	バニラ、みなさんのお力になれるよう精一杯努めます！
 	I'm here to help everyone!
 	바닐라, 여러분에게 도움이 될 수 있도록 최선을 다하겠습니다!
 
-	我的话，真的可以吗？
 	私なんかが隊長で、本当にいいんですか？
 	Could I... really be a good leader?
 	저따위가 팀장이라니, 정말 괜찮은가요?
 
-	我会加倍努力的。
 	人一倍頑張っちゃいますよ！
 	I'll work even harder.
 	남들보다 배로 노력하겠습니다!
 
-	不能给黑钢的各位丢脸！
 	BSWのみなさんの顔に泥を塗るわけにはいきません！
 	I won't bring shame to everyone in Blacksteel!
 	블랙스틸 분들의 얼굴에 먹칠을 할 순 없습니다!
 
-	嗯？
 	なんでしょうか？
 	Hmm?
 	무슨 일이시죠?
 
-	我会听从命令。
 	命令があれば従うまでです。
 	I'll follow all orders.
 	명령이 있으면 따를 뿐입니다.
 
-	好的。
 	はい。
 	Okay!
 	네.
 
-	明白。
 	了解です。
 	Understood.
 	알겠습니다.
 
-	不会让你过去！
 	ここは通しません！
 	You shall not pass!
 	여긴 지나갈 수 없습니다!
 
-	这把斧头可不是装饰品！
 	このハルバードの鋭さは伊達じゃありませんよ！
 	This axe isn't just for show!
 	이 핼버드의 날카로움은 장식이 아니에요!
 
-	战斗可不仅仅是依靠经验！
 	戦いは経験だけに頼るものじゃないんです！
 	Battles aren't always won by the most experienced!
 	전투는 경험에만 의존하는 게 아니라고요!
 
-	接下我这一击吧！
 	この一撃をくらえ！
 	Take that!
 	이 일격을 받아라!
 
-	呼，大圆满！
 	ふぅ、完璧な勝利です！
 	Whew, perfect victory!
 	후우, 완벽한 승리입니다!
 
-	很成功的作战。
 	作戦は成功しましたね。
 	A very successful operation.
 	작전은 성공했네요.
 
-	如果再努力些的话，结果会更好点吧。
 	もっと頑張っていれば、結果も違っていたかもしれません。
 	If we worked a bit harder, we could have done better.
 	더 열심히 했다면, 결과가 달라졌을지도 모릅니다.
 
-	我......能力还不够......
 	私の……力不足です……。
-	I… I'm still not strong enough...
+	I... I'm still not strong enough...
 	제 힘이… 부족했네요… 
 
-	听从您的指挥。
 	ドクターの指示に従います。
 	At your service.
 	박사님의 지시에 따르겠습니다.
 
-	唉唉？
 	ええ？
 	Huh?
 	에에?
 
-	博士，要一起吃晚饭吗？
 	ドクター、晩ごはん、一緒に食べませんか？
 	Doctor, want to eat dinner together?
 	박사님, 저녁 같이 드시겠습니까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，早。
 	ドクター、おはようございます。
 	Morning, Doctor.
 	박사님, 좋은 아침입니다.
+
+干员档案\Background:
+	基础档案 :
+	【代号】香草
+	【性别】女
+	【战斗经验】一年
+	【出身地】瓦伊凡
+	【生日】2月16日
+	【种族】瓦伊凡
+	【身高】172cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】バニラ
+	【性別】女
+	【戦闘経験】一年
+	【出身地】ヴイーヴル
+	【誕生日】2月16日
+	【種族】ヴイーヴル
+	【身長】172cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Vanilla
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Vouivre 
+	[Date of Birth] Feb. 16 
+	[Race] Vouivre 
+	[Height] 172cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 바닐라
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 뷔브르
+	[생일] 2월 16일
+	[종족] 뷔브르
+	[신장] 172cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	黑钢的受训生，作为双方交流项目的一环驻扎学习。
+	利用种族带来的抗打击能力，出色地履行着先锋干员的职责。
+
+	個人履歴 :
+	BSWの訓練生。双方の交流の一環としてロドスに留学している。
+	種族の特徴である高い耐久力を生かし、先鋒オペレーターの職責を見事に遂行している。
+
+	Profile :
+	Vanilla is a Blacksteel trainee, currently training and studying as part of exchange program with Rhodes Island. 
+	She has learned to use her race's combat abilities to her advantage, and performs well as a Vanguard.
+
+	프로필 :
+	블랙스틸의 수련생. 상호 교류 프로젝트의 일환으로 로도스 아일랜드에 주재하며 수련 중이다. 종족 특유의 타격 내성 능력을 활용하여, 뱅가드 오퍼레이터의 역할을 훌륭하게 수행하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员香草没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员香草甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests on this Operator show clear outlines of internal organs, with no abnormal dark spots or shadows. No unusual traces of Originium particles present in the circulatory system, no signs of infection, confirming this operator as uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Vanilla showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L 
+	Operator Vanilla rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 바닐라는 오리지늄에 감염된 흔적이 없음
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L .
+	오퍼레이터 바닐라는 오리지늄과의 접촉 빈도가 매우 낮음.
+
+———————————————————————————————
+
+	档案资料一 :
+	稍显稚嫩的黑钢国际派遣干员。
+	虽然加入黑钢也没有经过很长时间，但因为其努力认真的态度而破格成为派往罗德岛的干员之一。
+	虽然身高比雷蛇与芙兰卡都要高不少，不过经常会看到她对两人唯唯诺诺的光景。
+
+	第一資料 :
+	やや幼い顔をしたBSW派遣オペレーター。
+	BSWに加入してまだ日は浅いが、努力家でまじめな姿勢から、異例な抜擢でロドスに派遣されるオペレーターの一人になった。
+	身長はリスカムとフランカよりかなり高いが、二人にペコペコしている光景をよく見かけられる。
+
+	Archive File 1 :
+	Vanilla is a rather naive and inexperienced Operator sent to us from Blacksteel Worldwide. 
+	Even though she's only been with Blacksteel for a short time, her dedication impressed the executives enough for them to send her to Rhodes Island for additional training. 
+	She stands much taller than Liskarm or Franka, but the three are often seen together.
+
+	파일 자료 1 :
+	    블랙스틸에서 파견된 조금 앳돼 보이는 오퍼레이터. 비록 그녀가 블랙스틸에 합류한 지는 얼마 되지 않았지만, 그녀의 노력과 최선을 다하는 태도 덕분에 파격적으로 로도스 아일랜드 파견 오퍼레이터 중 한 명으로 임명되었다. 리스캄과 프란카에 비해 키가 많이 큰 편이지만, 그들에게 무조건적으로 순종하는 광경을 자주 목격할 수 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	香草十分爱护动物，在有关动物的话题上，平时有些沉默的她会表现出明显的热情，这一点似乎也与她离开家乡的原因有关。
+	不过，因为她爱护的动物对象还包括了源石蜗牛等在常人看来有些难以接受的生物，偶尔也会吓到旁人。
+
+	第二資料 :
+	バニラは動物好きで、動物に関する話題になると、普段は控えめな彼女も饒舌になる。これは、彼女が故郷を離れた理由にも関係するようだ。
+	しかし、彼女の動物愛の対象はオリジムシなどの普通の人からしたら受け入れがたい生物をも含むため、稀に人を驚かせることもある。
+
+	Archive File 2 :
+	Vanilla is very protective of animals. A conversation about animals will always gets her out of her normally very thick shell. It may also be a reason she left home. 
+	But because the animals she strives to protect include icky things like the Originium snail, her affection can unnerve some people.
+
+	파일 자료 2 :
+	    바닐라는 평소에는 과묵하지만 동물과 관련된 이야기에는 엄청난 흥미를 보인다. 그녀는 그만큼 동물을 많이 사랑하며, 이는 그녀가 고향을 떠난 이유와도 관련이 있다. 그녀가 사랑하는 동물의 범위에는 원석달팽이와 같이 사람들이 받아들이기 어려운 생물까지 포함되어 있어, 가끔씩 주변 사람들을 놀라게 하기도 한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	由于出身与世隔绝的部族，香草在黑钢接受培训时，相比普通学员，有一门叫常识课的额外课程。
+	据芙兰卡说，她最早见到香草时，这大姑娘对基地里的自动门都会一惊一乍。
+	事实上即使现在，香草似乎也没有适应罗德岛的大部分设施。
+
+	第三資料 :
+	人里離れた部族の出身のため、バニラはBSWで訓練を受ける際も、普通の訓練生が受けるカリキュラムの他に、「常識」という特別授業を受講していた。
+	フランカによると、彼女が初めてバニラを見たとき、この大きい娘は基地の自動ドアにもいちいち驚いていたという。
+	実際、バニラは今でもロドスの殆どの設備に慣れていないらしい。
+
+	Archive File 3 :
+	Because Vanilla was born in an isolated tribe, Blacksteel added a special common knowledge to her training regimen. 
+	According to Franka, Vanilla was at first startled by the automatic doors at the base. 
+	In fact, Vanilla is not yet used to most of the technological equipment at Rhodes Island.
+
+	파일 자료 3 :
+	    세상과 격리된 부족 출신으로, 블랙스틸의 교육 과정을 수료할 때 보통의 오퍼레이터들과는 별도로 상식 추가 교육을 받았다. 프란카의 말에 따르면, 그녀가 바닐라를 처음 봤을 때 바닐라는 기지 안의 자동문을 보고도 깜짝 놀라했었다고 한다. 사실, 아직도 로도스 아일랜드의 시설 대부분에 적응하지 못하고 있는 것 같다.

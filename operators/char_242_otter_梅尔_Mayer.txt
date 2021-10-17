@@ -1,11 +1,17 @@
 ID:
 	char_242_otter
 
-干员代号\Name:
+CV:
 	梅尔
 	メイヤー
 	Mayer
 	메이어
+
+干员代号\Name:
+	斋藤千和
+	斎藤千和
+	Chiwa Saitō
+	사이토 치와
 
 招聘合同\Character Usage:
 	莱茵生命研究员梅尔，操控着她的咪波们准备加入战斗。
@@ -43,177 +49,343 @@ ID:
 	폭파&회수
 
 语音\Voices:
-	建筑设计，工业研发，科学研究，只要博士想得到的，我都能做到。
 	建築デザイン、工業開発、科学研究……ドクターが必要なものは、なんでも作れるよ。
 	Structural design, industrial R&D, scientific research. You name it, and I can do it, Doctor.
 	건축 디자인, 공업 개발, 과학 연구… 박사가 필요한 건 뭐든 다 만들 수 있어!
 
-	工程部的人每次都不认可我的提案，是不是不喜欢我啊，怎么办......对了博士，你去代我提交下这份改进意见吧！就这么定了！
 	技術部のやつら、いつも私の提案を認めてくれないんだけど、もしかして私のことが嫌いなのかな？どうしよう……そうだドクター、この修正案を代わりに提出しておいてくれる？よし、決まりね！
 	The Engineering Department never approve my proposals. Do they have any bias toward me? What should I do... Right! Doctor, would you please submit this suggestion on improvement for me? It's a deal then!
 	기술부 녀석들, 매번 내 제안을 받아주지 않는데, 혹시 날 싫어하는 걸까? 어떡하지… 그렇지, 박사! 이 수정안을 대신 제출해 줄래? 좋아, 그럼 해주는 거다!
 
-	莱茵生命里像我这样的工作室还有很多啦，但别的工作室三周才能完成一半的任务，我一周就能搞定。这可不是在吹牛哦。
 	ライン生命には、私のラボ以外にもたくさんラボがあるんだ。でも私にかかれば、他のラボで三週間かけてやっと半分ほど進む案件でも一週間で片付けられる。大げさじゃなくて本当だよ！
 	There are many workshops like mine in Rhine Lab, but what takes others six weeks to finish, I can have it done in one. I'm not boasting!
 	라인 랩에는 내 랩 말고도 랩이 되게 많아. 그래도 내가 하면 다른 실험실에서 3주나 걸려야 반 정도 진행되는 케이스도 1주면 해치울 수 있어. 허풍이 아니라 진짜로!
 
-	我做研究的时候千万别打扰我，我是会让咪波咬你的！我自己也会！
 	研究の邪魔だけは絶対しないでね。でないとミーボが噛み付くから！私もね！
 	DO NOT interrupt me when I'm doing my research, or you'll have my Meeboos on your ass! And me!
 	연구만은 절대 방해하지 마. 안 그러면 미보가 물어버릴 테니까! 나도 물 거야!
 
-	晚上总是会很有灵感呢......但又......非常困！不，不行了，枕头在哪......我要休息一下......
 	夜になるとインスピレーションがいっぱいわいてくる……でも……やっぱり眠いよ！も、もうだめ、まくらはどこ……ちょっと寝てくる……。
 	At night I'm always full of inspiration... and the urgency to sleep! No... I can't bear it... Where's the pillow... I need to rest...
 	밤이 되면 영감은 잔뜩 떠오르지만… 역시 졸려! 더, 더는 안 되겠어, 베개 어딨어… 잠깐 잘게… 
 
-	嗯？你想问为什么它们叫咪波？咪波是它的启动音效嘛，我觉得挺合适的。不像？那你可以摁下这个开关——等等！不是那个！那是自毁———呜啊啊啊，快跑！！
 	ん？どうしてこの子たちの名前がミーボなのかって？起動する時にミー、ボーって音が出るから、それを名前にしたの。似てない？聞いてみればわかるよ。ここのスイッチを押して――あ、待って！そっちじゃない！それは自爆――うわあああ逃げて！！
 	Hm? Why are these cuties called Meeboos? That's because they go 'meeee-boooo' when they boot up. So I named them after that. Fitting, don't you think? Just listen and you'll get it. You press this switch to... WHUAH?! Wrong one! That's the self-destruct button! Oh shoot, run awaaaaaay!
 	응? 왜 이 아이들 이름이 미보냐고? 기동할 때 미~보~하는 소리가 나니까 그렇게 지었어. 닮았지? 들어보면 알 거야. 여기 이 스위치를 누르면… 아 잠깐! 그거 아니야! 그건 자폭…… 우와아아아 도망쳐!!
 
-	刚刚走过去的......是赫默吧。如果那时候......喔，抱歉，保密协议还没过期，我不该多嘴的。
 	さっきのは……サイレンスだったよね。あの時もし……ううん、ごめん、まだ機密保持契約の期間中だから、余計なことを言っちゃだめなんだ。
 	That girl who just passed by... that was Silence, right? If only then... Oh, sorry, the non-disclosure agreement is still in effect. I should keep my mouth shut.
 	아까 그건… 사일런스였지? 그때 혹시… 아니다, 미안, 아직 기밀유지계약 기간이니까, 쓸데없는 말은 하면 안 되지.
 
-	闲下来就只会感到空虚呢......工程师就是这样的人啦。博士也会无所事事吗？不会？
 	やることがないと虚しい気分になるのは……エンジニアの性ってものかな。ドクターにも暇な時はあるでしょ？え、ないの？
 	I feel kinda empty when I've got nothing to do... I guess that's just how engineers are. You know how that's like, right, Doctor? Huh? You don't?
 	할 게 없으면 허무한 기분이 드는 건… 엔지니어의 천성이란 걸까. 박사한테도 한가할 때가 있지? 에? 없어?
 
-	博士，我能申请——不是！不用十平米！上次是我不对，这回——三平米就够了！别，别跑啊博士！一平米实用科研面积也行！求你了！
 	ドクター、研究用地の申請を――いや、十平米もいらないよ！この前はごめん！今回は三平米もあれば十分だから！あ、逃げないでよドクター！じゃあ一平米でもいいから！お願い！
 	Doctor, may I request... No! Not 10 square meters! I asked too much last time, so this time... all I need is 3 square meters! Don't... Don't you leave, Doctor! Even 1 square meter for my research will do! Please!
 	박사, 연구용지 신청을… 아니, 10제곱미터도 필요 없어! 저번에는 미안해! 이번엔 3제곱미터만 있어도 충분하니까! 아 도망치지 마 박사~! 그럼 1제곱미터도 괜찮으니까! 제발!
 
-	哈啊......咖啡机在哪里......呼，博士你也要来点儿吗
 	はぁ……コーヒーメーカーはどこ……あった、ふぅ～。ドクターもコーヒーどう？
 	Geez... where's the coffeemaker... Oh, there it is... You want some too, Doctor?
 	하아… 커피 머신은 어디… 찾았다, 후우~ 박사도 커피 마실래?
 
-	莱茵生命所属，鲁特拉工作室，竭诚为您服务。是的，没有其他成员，我一人就是整个工作室。很厉害吧！
 	ライン生命所属の、ラボ・ルトラ。何でもご要望にお応えします。そうだよ、ラボっていってもほかのメンバーはいないの。私一人でやってるんだ。すごいでしょ！
 	I am the Lutra Workshop of Rhine Lab, at your service. Yup, I said 'workshop,' but it's just me. I'm the whole workshop. Am I amazing or what?
 	라인 랩 소속, 랩 루트라. 어떤 요청이라도 들어드립니다! 맞아, 랩이라고 해도 다른 멤버는 없어, 나 혼자 하는 거야. 대단하지?
 
-	这个结构——有些意思，我得研究一下。
 	この構成――面白い、ちょっと見せてみて。
 	This structure... Interesting. I'll look into it.
 	이 구성…… 재밌네, 조금 보여줘 봐.
 
-	这次涨薪可真是及时，我又能升级一下设备了。
 	いいタイミングに昇格ありがと！これでまた設備の更新ができる！
 	This raise came just in time! I can afford to upgrade my equipment now.
 	좋은 타이밍에 승격시켜줘서 고마워! 이걸로 다시 설비를 업그레이드할 수 있겠어!
 
-	我向您保证过一定能出成果，现在，怎么样，是不是很令人满意呀~
 	成果は必ず上げるって約束した通りだったでしょ。どう、よくできたと思わない～？
 	I promised I'd show you progress one day, didn't I? Look at what I have! Isn't it nice?
 	성과를 반드시 올리겠다 약속한 그대로지? 어때, 잘 된 거 같지 않아~?
 
-	咪波们，该上场咯！
 	出番だよ、ミーボたち！
 	Time to go, Meeboos!
 	출격이야, 미보들아!
 
-	要同时指挥大家和咪波，就算是我也有点手忙脚乱......！
 	仲間とミーボの両方を指揮するなんて、さすがの私でも手に負えないよ……！
 	Commanding both Operators and my Meeboos at the same time is a bit much even for me...
 	동료와 미보를 양쪽 다 지휘한다니, 아무리 나라도 버겁다고…!
 
-	这次也能得到良好的实验数据吧！
 	今回もいい実験データを持って帰れそう！
 	Hopefully we can get some useful experiment data!
 	이번에도 좋은 실험 데이터를 갖고 돌아갈 수 있겠어!
 
-	上吧咪波，给敌人看看我们莱茵生命的技术力！
 	行くよミーボ！敵にも私たちライン生命の技術力を見せてあげよう！
 	Come on, Meeboo, show them what Rhine Lab's technology can do!
 	가자 미보! 적들한테도 우리 라인 랩의 기술력을 보여주자고!
 
-	呜哇！
 	うわっ！
 	Whoa!
 	우왓!
 
-	小心，小心一点！
 	そっと、そっとだよ！
 	Gentle! Be gentle with it!
 	살살! 살살해줘!
 
-	轻拿轻放！
 	取扱注意！
 	Handle with care!
 	취급주의!
 
-	精密仪器是很贵重的！
 	精密機器は貴重なんだから！
 	Precision equipment isn't cheap!
 	정밀기기는 귀중하니까!
 
-	去吧，咪波三号！
 	行け、ミーボ三号！
 	Get 'em, Meeboo #3!
 	가라, 미보 3호!
 
-	咪波，咬他！
 	ミーボ、噛みつけ！
 	Bite 'em, Meeboo!
 	미보, 물어버려!
 
-	身体破损的话，再造一个就好了！
 	ボディが壊れたら、スペアを作ればいいさ！
 	If anything breaks, I can just make another one!
 	몸통이 망가지면 스페어를 만들면 돼!
 
-	我的咪波们可不仅仅是机械那么简单！
 	私のミーボたちは、ただのロボットじゃないよ！
 	My Meeboos are more than just machines!
 	내 미보들은 그냥 로봇이 아니야!
 
-	来~咪波！给大家跳支舞庆祝一下！
 	ほら、ミーボ！みんなにお祝いのダンスを見せてあげて！
 	Come on, Meeboo! Show everyone your victory dance!
 	이리 와 미보! 모두에게 축하 댄스를 보여줘!
 
-	嗯，就这样轻轻松松碾压敌人吧。
 	よし、みーんな踏み潰してやったよ。
 	Nice! We practically rolled over them!
 	좋아, 모~두 짓밟아줬어!
 
-	设备稍微有些缺损，修理一下就能继续工作了。
 	少しパーツが壊れちゃったけど、修理すればまだ大丈夫。
 	The device is slightly damaged. I'll fix it in no time.
 	조금 부품이 부서졌지만, 수리하면 문제없을 거야.
 
-	不！咪波——！......只，只能再造几台身体了......
 	そんな、ミーボ――！……ま、またボディを作り直さなきゃ……。
 	Oh no! My Meeboo...! I'll need to make more...
 	맙소사, 미보~!! … 모, 몸통을 다시 만들어야겠어…… 
 
-	我想要个新的工作室了！
 	新しいラボが欲しくなってきた！
 	Now I want a new workshop!
 	새로운 랩이 갖고 싶어졌어!
 
-	呜哇！我还在工作中啊！
 	うわっ！仕事中だってば！
 	Whuah?! Hey, I'm working here!
 	우왓! 일하는 중이라니까!
 
-	博士，让我摸摸你的头，会很有灵感的！
 	ドクター、頭を撫でてあげるよ！インスピレーションがわいてくるから！
 	Doctor, let me touch your head and give you some inspiration!
 	박사, 머리를 쓰다듬게 해줘! 영감이 떠오르니까!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士！你好！
 	ドクター！どうもー！
 	Doctor! Heya!
 	박사~! 안녕~!
+
+干员档案\Background:
+	基础档案 :
+	【代号】梅尔
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】11月20日
+	【种族】阿纳缇
+	【身高】159cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】メイヤー
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】11月20日
+	【種族】アナティ
+	【身長】159cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Mayer
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Columbia
+	[Date of Birth] November 20
+	[Race] Anaty
+	[Height] 159cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 메이어
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 컬럼비아
+	[생일] 11월 20일
+	[종족] 아나티
+	[신장] 159cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】标准 
+	【战术规划】优良 
+	【战斗技巧】标准 
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	梅尔，哥伦比亚出身，莱茵生命研究室所属成员，线控机械装置“咪波”的创造者。能力出众，科研能力极强，经营着个人工作室“鲁特拉”。现与罗德岛合作，在建筑、设计、开发方面提供援助。
+
+	個人履歴 :
+	メイヤーはクルビア出身でライン生命医科学研究所所属の、機械装置「ミーボ」の発明者。優れた才能や研究能力を持ち、個人用のラボ・ルトラを運営している。現在はロドスと提携し、建築やデザイン、そして開発といった分野に支援を行っている。
+
+	Profile :
+	Mayer was born in Columbia and was a member of the Rhine Lab Research Lab. She is the inventor of the 'Meeboo' wire control system. She is outstandingly capable and runs her own workshop called 'Lutra.' She is currently working with Rhodes Islands to provide assistance with construction, planning, and development.
+
+	프로필 :
+	    컬럼비아 출신, 라인 생명연구소 소속 멤버. 와이어 컨트롤 기계장치 '미보'의 개발자. 과학 연구 능력이 매우 뛰어나며, 개인 작업실 '루트라'를 운영하고 있다. 현재는 로도스 아일랜드에 협력 중이며, 건설, 디자인 및 개발 방면의 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员梅尔没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L 
+	干员梅尔长期接触源石制品并对其进行加工，但由于其严格按照安全工序操作，至今仍未有感染矿石病的征兆。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	長期にわたり、源石製品を扱い、それらを加工する事業に従事している。しかし彼女は安全工程に則って作業しているため、未だ鉱石病の症候は見られない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.12u/L 
+	Operator has been in long-term contact with Originium and frequently works to process it. However, due to strict adherence to safety protocols, Operator has not yet displayed any signs of Oripathy.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 메이어로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.09u/L
+	오퍼레이터 메이어는 장기간 오리지늄 제품과 접촉 및 가공을 해왔으나, 안전 수칙을 철저히 준수하며 진행해왔기에 현재까지 광석병 감염 징조가 보이지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	在莱茵生命总部工作的时候，梅尔时常能够见到赫默。在那个涉及多部门的大项目里，她负责为赫默筹备、安装、调试实验装置。但最终，赫默消失，整个计划戛然而止。时至今日，谈起此事时，梅尔常常会觉得惋惜，但若是把那项计划的核心部分告诉她的话，她一定也选择终止计划吧。
+
+	第一資料 :
+	ライン生命の本社に勤めていた頃、メイヤーはよくサイレンスに会っていた。多くの部門が関わった大規模な研究プロジェクトで、彼女はサイレンスのために実験装置を準備していたが、サイレンスは姿を消し、最終的にプロジェクトも中止された。今でもこの件に関して言及すると、メイヤーは非常に残念だと言っている。だが、もしあの計画の核心部分を知っていたら、彼女も間違いなく中止という選択肢を選んでいただろう。
+
+	Archive File 1 :
+	Mayer frequently encountered Silence at Rhine headquarters since she was responsible for preparing, installing, and commissioning experimental devices for her. This was up until Silence abruptly disappeared which in turn caused this project to be terminated. Mayer often feels a sense of regret when reminded of this instance but had she known the true goal of the project, she would have pulled the plug herself.
+
+	파일 자료 1 :
+	    라인 생명연구소 본사에서 근무할 당시, 메이어는 자주 사일런스와 마주쳤다. 다양한 부서가 참여했던 대형 프로젝트에서, 사일런스를 도와 실험 준비, 설치, 실험 장치 조정을 담당하였다. 하지만 마지막에 사일런스가 사라지면서 모든 계획이 취소되었다. 지금도 이 사건에 대해 이야기할 때면, 메이어는 매우 안타까워한다. 하지만 만약 그 프로젝트의 핵심 영역을 그녀에게 알려준다면, 그녀 역시 그 프로젝트를 파기하는 선택을 하였을 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	在梅尔身上，科学家的缜密思维和工程师的动手能力融合地恰到好处。如果说产生了什么副作用，那一定是她的时间实在是不够用。你若是不信，就去翻翻她的字典吧，里面绝对不会出现“无所事事”这个词。
+
+	第二資料 :
+	メイヤーは、科学者としての明晰な頭脳とエンジニアとしての能力をバランスよく持っている。何か彼女とって問題があるというならば、時間が足りないことだろう。信じられないと言うなら、彼女の辞書に聞くと言い。彼女の辞書に、「のらくら」という言葉は載っていないはずだ。
+
+	Archive File 2 :
+	Mayer possesses just the right mixture of a scientist's meticulous thinking and an engineer's hands-on mentality. If there's any downside to this, it's that she never has enough time. If you don't believe it, take a look in her personal dictionary. The word 'idle' is missing.
+
+	파일 자료 2 :
+	    메이어는 과학자로서의 치밀한 사고 능력과 엔지니어로서의 손재주를 모두 겸비한 인물. 어떤 예기치 못한 결과가 발생한다면, 그것은 분명 그녀에게 주어진 시간이 턱없이 부족하였기 때문일 것. 만약 믿기 어렵다면 그녀의 사전을 뒤져보라, 그녀의 사전엔 ‘대충’이란 단어는 절대 찾아볼 수 없을 테니.
+
+———————————————————————————————
+
+	档案资料三 :
+	梅尔的脑袋中总是有各种点子在碰撞、收缩、爆炸，因此在她手中，创造出什么东西都不奇怪。在那堆稀奇古怪的“杰作”中，“咪波”，无疑是她的最爱。梅尔会为每只“咪波”精心制作铭牌，也会好好处理他们损坏后留下的残骸，可以看得出来，她真的对“咪波”倾注了感情——即使那只是由她创造，由她维护，由她操作的牵线机械而已。
+
+	第三資料 :
+	メイヤーの頭の中では、常に様々なアイデアが伸縮や爆発をし、ぶつかり合っている。そのため、彼女の手によって何かが発明してもおかしくない。彼女が作り出した珍妙な「傑作」の中でも、最も彼女が気に入っているのは「ミーボ」だろう。メイヤーは全てのミーボに心を込めて名札を作り、破壊されて残った残骸を丁寧に処理する。彼女はミーボたちが操作されているだけのただの機械であっても、愛と情熱を注いている。
+
+	Archive File 3 :
+	Mayer's head contains a multitude of, shall we say, volatile ideas, which makes it no surprise when she creates something eccentric. Out of her countless inventions, her prized and most cherished 'masterpiece' is 'Meeboo.' Mayer diligently creates nameplates for each individual 'Meeboo' and carefully cleans up its wreckage after it's served its purpose. It is clear that she pours her heart and soul into the maintenance and operation of each Meeboo, despite their mechanical origins.
+
+	파일 자료 3 :
+	    메이어의 머릿속에는 언제나 각종 아이디어들이 충돌, 수축, 폭발하고 있기에, 그녀의 손을 통해 새로운 발명품이 탄생하는 것은 이상한 일이 아니다. 여러 기이한 '걸작' 중 그녀가 가장 아끼는 작품은 뭐니 뭐니 해도 '미보'다. 메이어는 '미보'들을 위해 성심성의껏 표찰을 제작하였고, 손상된 후 남겨진 잔해 역시 잘 처리해준다. 이는 그녀가 '미보'에 대해 얼마나 큰 정성을 들이고 있는지 알 수 있는 대목이다. 비록 이들이 그녀에 의해 만들어지고, 고쳐지고, 조종되는 와이어 기계일지라도…
+
+———————————————————————————————
+
+	档案资料四 :
+	因为“咪波”的关系，梅尔的工作室总是空间紧张，所以，梅尔会想方设法扩大她的宿舍兼工作室。其实，现在梅尔的房间已经比别人大了一倍，但在“咪波”产量增加的情况下，空间依旧是不够用，梅尔也就继续恳求博士为她增加房间容量。在意识到这点后，为了公平起见，后勤部的人给博士下了个通牒：无论梅尔说什么做什么，绝对不能再多批一块空间给她。虽然，偶尔，心软的博士还是会悄悄给梅尔增加一点可用空间，不过，并非是增加她的宿舍大小，而是在格纳库中给她额外的“咪波安置房”。
+
+	第四資料 :
+	メイヤーのラボはミーボを置いているため、常にスペースが足りない。そのため彼女は様々な方法で、自分の宿舎を兼ねたラボを拡張しようとしている。実は、既に彼女の部屋は通常より倍程の大きさだが、ミーボが増加していく為、全くスペースが足りない。そのため、部屋を拡張するようにメイヤーはずっとドクターに頼み続けている。それに気づいた支援部は、公平を期すためドクターに「メイヤーが何を言っても何をやっても、それ以上のスペースは絶対に与えないこと」と通告した。それでもたまに、絆されやすいドクターは、メイヤーにこっそりと使えるスペースを与える。しかしそれは彼女の部屋を拡張するということではなく、格納庫の中に「ミーボのお部屋」を特別に用意しているだけである。
+
+	Archive File 4 :
+	Since Meeboos take up so much space, Mayer's workshop is extremely cramped, causing her to devise ways to expand it. Despite having a room twice as large as anyone else's, she has managed to run out of space after increasing Meeboo production. Mayer has begged the Doctor to increase her room's size. That request was denied by the logistics department out of fairness towards others. Despite this ban on room expansion, the Doctor nonetheless granted her extra space in the hangar to allow her to continue the production of her Meeboos.
+
+	파일 자료 4 :
+	    '미보'때문에 메이어의 작업실은 언제나 빽빽하다보니, 메이어는 갖은 수를 동원하여 자신의 숙소 겸 작업실의 공간을 확대할 수 있는 방법을 찾고 있다. 사실 현재 메이어의 방은 이미 다른 사람에 비해 두 배나 크지만, '미보'의 생산량이 증가함에 따라 공간은 여전히 부족한 상황이기에, 메이어는 박사에게 지속적으로 자신의 방을 넓혀줄 것을 요청하고 있다. 이 사실을 알게 된 후방 지원부의 다른 사람들은 형평성을 위해 메이어가 어떤 말을 하든, 어떤 일을 하든, 절대 조금의 공간이라도 그녀에게 더해 주어선 안된다고 박사에게 통첩을 날렸지만, 마음이 약한 박사는 몰래 메이어에게 조금씩 공간을 추가해 주고 있다. 숙소 공간을 늘려주는 것이 아닌, 격납고에 '미보 보관 구역'을 증설하는 조건으로.
+
+———————————————————————————————
+
+	晋升记录 :
+	至今一共有80只“咪波”被梅尔创造出来，其中有20只正在梅尔军团中服役，其他的则因各种原因已退役拆解，可用部件全数安装在服役机型上，印有代号的铭牌则镶嵌在梅尔为纪念它们特制的“大咪波碑”里。在20只现役咪波中，有一只编号不明的“咪波”是梅尔这一时期的移动工作台兼新科技原型机，性质特殊，一般不直接参与作战。
+
+	昇進記録 :
+	今まで、トータル80台のミーボがメイヤーによって作り出されてきた。その中の20台がメイヤー軍団に服役中。ほかのミーボはそれぞれの原因で引退し解体され、まだ使えそうな部品は稼働中のものに組み込まれている。番号が記載された名札はメイヤーにより、記念として特製の「ビッグミーボ碑」にはめ込まれる。20台の現役ミーボの中で、1台だけ番号不明になっているが、それはメイヤーの移動作業台兼新テクノロジー試作機で特殊なため、普段は直接戦闘に参加することはない。
+
+	Promotion Record :
+	So far, a total of 80 Meeboos have been constructed by Mayer. 20 of them are serving in Mayer's squad, while the others have been disassembled for various reasons. All available components have been installed on these models in service and are uniquely named by Mayer on their respective nameplates. Of the 20 Meeboos in service, there remains a single one with an unknown serial number that Mayer uses both as a mobile workbench and an experimental prototype. Despite its advanced functions, it is unarmed and useless for combat.
+
+	승진 기록 :
+	    메이어는 현재까지 총 80마리의 '미보'를 생산해냈다. 이중 20마리는 현재 메이어 군단에 복역 중이며, 나머지는 각종 이유로 퇴역 및 분해되었다. 재사용이 가능한 부품은 모두 복역 중인 기종에 장착시켰고, 이들의 이름이 적혀있던 표찰은 메이어가 이를 기념하기 위해 만든 '위대한 미보의 묘비'에 끼워 넣었다. 현역 미보 20마리 중 일련번호가 불분명한 '미보'는 메이어가 이동식 작업대 겸 신기술 프로토타입 기로 활용한 것으로, 특수한 성질로 인해 보통 작전에는 투입되지 않는다.

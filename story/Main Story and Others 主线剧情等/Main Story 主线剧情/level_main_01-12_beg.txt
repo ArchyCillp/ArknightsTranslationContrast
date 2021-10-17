@@ -185,7 +185,7 @@
 
 [Decision(options="别管她，出口就在前方！;阿米娅......;你的行为，有什么意义吗，W？", values="1;2;3")]
 [Decision(options="アーミヤ、奴の戯れ言に惑わされるな、出口は眼の前だ！;アーミヤ……。;W、お前は何が目的だ？　なぜアーミヤにそんな事を！", values="1;2;3")]
-[Decision(options="Don’t worry about her. The exit’s right there!;Amiya…;What’s the point of you doing this, W?", values="1;2;3")]
+[Decision(options="Don't worry about her. The exit's right there!;Amiya...;What's the point of you doing this, W?", values="1;2;3")]
 [Decision(options="저 녀석에게 휘말리지 마, 출구가 바로 앞에 있다!;아미야…;꼭 그랬어야만 했나, W?", values="1;2;3")]
 
 [name="W"]  还没轮到你。

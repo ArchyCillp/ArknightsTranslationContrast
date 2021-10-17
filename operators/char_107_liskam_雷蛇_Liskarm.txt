@@ -1,11 +1,17 @@
 ID:
 	char_107_liskam
 
-干员代号\Name:
+CV:
 	雷蛇
 	リスカム
 	Liskarm
 	리스캄
+
+干员代号\Name:
+	石川由依
+	石川由依
+	Yui Ishikawa
+	이시카와 유이
 
 招聘合同\Character Usage:
 	黑钢防化人员雷蛇，虽是重装干员，却既持有坚强的盾，又握着锐利的矛。
@@ -43,177 +49,390 @@ ID:
 	카운터 아크
 
 语音\Voices:
-	博士，今天值班的人是我。
 	ドクター、今の当直はわたしです。
 	Doctor, I'm on shift today.
 	박사님, 지금 당직은 접니다.
 
-	无论什么任务都要认真对待，这是我们专业保全的基本原则。
 	どんな任務も真面目に取り組む。それがプロの保全員としての基本です。
 	Take all missions seriously: that's the guiding rule for us security professionals.
 	어떤 임무에도 진지하게 임하는 것. 그게 프로 보안 요원의 기본입니다.
 
-	其实，我很不擅长应付芙兰卡这样的人。当初是怎么和她成为搭档的，我到现在都不清楚......
 	本当は、フランカみたいなタイプは苦手なんです……どうしてコンビになったのか、今でもよくわかりません……。
 	I'm actually not that good at dealing with people like Franka. I'm not even sure how we became partners in the first place...
 	사실 프란카 같은 타입은 상대하기 부담스럽습니다… 어째서 콤비가 된 건지 지금도 잘 이해가 되지 않습니다… 
 
-	进入BSW必须经过严格的选拔。我很矮小，也没有优秀的法术天赋和血统，所以被大家说是绝对不可能过关的，就连我自己也曾这样认为......
 	BSWに入るには厳しい選考をクリアしなくちゃいけないんです。わたしは背も小さいし、秀でたアーツの才能や血筋もないので、みんなからは無理だと言われて、わたし自身もその通りだと思ってました……。
 	There's a strict elimination process before one can qualify for BSW. I'm short, have no outstanding Arts talents, and I'm not from any particularly prestigious bloodline. No one believed that I would be chosen... not even myself, once upon a time.
 	블랙스틸에 입사하려면 혹독한 심사를 통과해야만 합니다. 전 키도 작고, 아츠에 뛰어난 재능이 있거나 혈통이 우수한 것도 아니었기에 다들 어려울 거라 했고, 저 자신도 그럴 줄 알았지요… 
 
-	BSW作为安保公司是顶级的，它也很适合我。只是，在罗德岛的时候，我会感觉更加自由一点。
 	BSWは警備会社としては一流ですし、身を置くには申し分ない組織ですが……ロドスにいるともっと何か……自由でいられるような気がするんです。
 	BSW is a top security contractor and a great fit for me, I think. It's just that Rhodes Island would grant me more freedom.
 	블랙스틸은 일류 경비회사이고, 몸 담기에 부족함 없는 조직입니다만… 로도스 아일랜드에 있을 땐 뭔가 더… 자유롭게 있을 수 있는 것 같습니다.
 
-	能走到这一步，真是不可思议啊！简直就像真正的龙一样......！啊，咳咳，不、不，只要对作战有利，别的怎样都好啦！
 	……！こんな姿になれるなんて、不思議……まるで本物の龍みたい……！コホン、い、いや、作戦の役に立てさえすれば姿なんてどうでもいいんです。
 	Isn't it amazing that I got this far? I feel like a real dragon... uh, ahem, forget what I said... anyway, I'm okay with whatever as long as it's helpful for our side in battle!
 	…! 이런 모습이 되다니 신기하네요… 마치 진짜로 용이 된 것 같습니다…! 어흠, 이, 이게 아니라… 작전에 도움만 된다면 외모에는 연연하지 않습니다.
 
-	博士，您能这样信任我，真的非常感谢。
 	ドクター、わたしのことを信頼してくれて、ありがとうございます。
 	Thank you, Doctor, for trusting me this much.
 	박사님, 저를 신뢰해 주셔서 감사합니다.
 
-	我比看上去更好相处，熟识我的人都这么说。博士也这么想吗？
 	仲良くなった人からは、見た目よりも話しやすいってよく言われるんですが……ドクターもそう思いますか……？
 	People who truly know me always say I'm more easygoing than I seem. Do you think so too, Doctor?
 	친해진 분들 말로는 제가 보기보다 이야기하기 편하다는데… 박사님도 그렇게 생각하시나요…?
 
-	芙兰卡又和您说我在黑钢时的事？啊啊啊，真是的......别相信她说的话啊！
 	またフランカが、わたしがBSWにいる時の話をしているんですか？ううう……まったくもう……彼女の話は信じちゃダメです！
 	Franka is telling you about our time at BSW again? Aw, come on... don't believe everything she says!
 	프란카가 또 제 블랙스틸 시절 이야기를 했다고요? 으으… 그 사람은 정말… 프란카가 하는 말은 믿으시면 안 됩니다!
 
-	博士......现在还是工作时间哦。
 	ドクター……仕事の時間ですよ……。
 	Doctor, we're still at work right now...
 	박사님… 업무 시간입니다… 
 
-	重装干员雷蛇，待命中。我曾参与数次要人保全、据点攻坚、人质解救、威胁肃清的特种行动。在此次派遣行动期间，我会严格保障您的人身安全。
 	重装オペレーター・リスカム、着任します。これまでは要人警護、拠点攻撃、人質救出、危険排除などの特殊作戦に何度も参加してきました。今回の派遣任務の間は、あなたの身辺警護を担当させていただきます。
 	Defender Liskarm, waiting for your orders. I've participated in multiple special operations—for example personal protection of VIPs, assaulting fortified positions, rescuing hostages, and clearing out threats. Right now, you are my mission, so I will protect you with everything I have.
 	디펜더 오퍼레이터 리스캄, 착임하겠습니다. 지금까지는 요인 경호, 거점 공격, 인질 구출, 위협 제거 등 다양한 특수 작전에 참여해 왔습니다. 이번 파견 임무 중에는 당신의 신변 경호를 담당하겠습니다.
 
-	升级完成。
 	レベルアップ、完了しました。
 	Upgrade complete.
 	레벨 업, 완료했습니다.
 
-	非常感谢您的任命，博士。
 	拝命いたします。ありがとうございます、ドクター。
 	Thank you for appointing me to this position, Doctor.
 	명령을 받들겠습니다. 감사합니다, 박사님.
 
-	谢谢您，博士。作为您的干员，我将全身心地投入到保护罗德岛的工作中。
 	ありがとうございます、ドクター。あなたのオペレーターとして、ロドスと人々の生活を守るため、この身を捧げる覚悟はできています。
 	Thank you, Doctor! I will devote all I have into defending Rhodes Island as your trusted Operator.
 	감사합니다, 박사님. 당신의 오퍼레이터로서, 로도스 아일랜드와 이곳 사람들의 삶을 지키기 위해 이 한 몸 기꺼이 바칠 각오가 되어 있습니다.
 
-	准备完毕。
 	準備完了。
 	I'm ready.
 	준비 완료.
 
-	了解，我会严格要求队员们遵守罗德岛的行为准则和秩序。
 	了解。隊員にはロドスの行動規則と秩序を厳守させます。
 	Understood. I will ask my team members to strictly follow the guidelines and procedures of Rhodes Island.
 	알겠습니다. 팀원들이 로도스 아일랜드의 행동 규범과 질서를 엄수하도록 지시하겠습니다.
 
-	出击许可已经下达。
 	出撃の許可が下りました。
 	Permission to attack granted.
 	출격 허가가 떨어졌습니다.
 
-	等待下一步指示。
 	待機。次の指示を待ちます。
 	Waiting for your next orders.
 	대기, 다음 지시를 기다립니다.
 
-	我已就位。
 	配置に着きました。
 	In position.
 	맡은 위치에 도착했습니다.
 
-	雷蛇，准备完毕。
 	リスカム、準備完了。
 	Liskarm, ready.
 	리스캄, 준비 완료.
 
-	视野清晰。
 	視界良好。
 	Vision is clear.
 	시야 양호.
 
-	时刻准备。
 	警戒態勢を維持します。
 	On standby.
 	경계 태세를 유지합니다.
 
-	雷鸣。
 	雷鳴よ、轟け。
 	Thunder roar!
 	천둥이여, 울려라.
 
-	闪电风暴。
 	サンダーストーム。
 	Thunderstorm!
 	썬더 스톰.
 
-	一人一颗子弹。
 	一発で仕留めます。
 	One bullet each.
 	한 발로 끝내겠습니다.
 
-	充能！
 	チャージ！
 	Charging!
 	차지!
 
-	这算什么，我和芙兰卡可经历过更惨烈的战斗。
 	この程度……フランカとくぐり抜けてきた死線とは比べ物になりません。
 	This is nothing. Franka and I have been through much more intense battles.
 	이 정도는…… 프란카와 함께 헤쳐나갔던 죽을 고비에 비하면 아무것도 아닙니다.
 
-	清除。已经镇压全部目标。
 	クリア。全ターゲット鎮圧。
 	All clear. All targets taken down.
 	클리어, 전 타겟 진압 완료.
 
-	安全，此区域已被肃清。
 	オールグリーン。本エリアの掃討完了。
 	All green. The area has been swept.
 	올 그린, 현재 구역 소탕 완료.
 
-	救护班和伤员一起撤退！能战斗的人和我一起阻挡敌人!
 	救護班は負傷者とともに順序よく撤退！戦える人はわたしと一緒に敵の足止めを！
 	Emergency squad, retreat with the injured Operators! Everyone who can still fight, follow me and hold back the enemies!
 	의료부는 부상자와 함께 질서를 지켜 퇴각하라! 전투 가능한 인원은 나와 함께 적의 진군을 저지한다!
 
-	这房间会漏电吗？有没有做好保护措施？
 	この部屋、漏電対策はしっかりされていますか？
 	Is this room protected against electrical discharge?
 	이 방, 누전 대비는 잘 되어 있나요?
 
-	请小心触电。
 	感電に気をつけてください。
 	Watch out so you don't get shocked.
 	감전되지 않도록 주의하세요.
 
-	医生，芙兰卡的治疗还在进行吗？对了，工作之外博士请好好休息。
 	ドクター、フランカの治療は進んでいるでしょうか？それはそうと、ドクターも仕事以外はしっかり休んでくださいね。
 	Doctor, is Franka's treatment still in progress? By the way, you need to rest after your work is done.
 	박사님, 프란카의 치료는 잘되고 있나요? 그나저나 박사님도 업무 시간 외에는 충분히 휴식을 취해 주세요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士。
 	こんにちは、ドクター。
 	Good morning to you, Doctor.
 	안녕하세요! 박사님!
+
+干员档案\Background:
+	基础档案 :
+	【代号】雷蛇
+	【性别】女
+	【战斗经验】三年
+	【出身地】瓦伊凡
+	【生日】5月18日
+	【种族】瓦伊凡
+	【身高】156cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】リスカム
+	【性別】女
+	【戦闘経験】三年
+	【出身地】ヴイーヴル
+	【誕生日】5月18日
+	【種族】ヴイーヴル
+	【身長】156cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+	身体状況は良好で、十分健康と言える。
+
+	Basic Info :
+	[Code Name] Liskarm
+	[Gender] Female 
+	[Combat Experience] 3 years 
+	[Place of Birth] Vouivre 
+	[Date of Birth] May 18 
+	[Race] Vouivre 
+	[Height] 156cm 
+	[Infection Status] 
+	Medical tests confirm uninfected status.
+
+	기본정보 :
+	[코드네임] 리스캄
+	[성별] 여
+	[전투 경험] 3년
+	[출신지] 뷔브르
+	[생일] 5월 18일
+	[종족] 뷔브르
+	[신장] 156cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准 
+	【战场机动】普通 
+	【生理耐受】优良 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Normal 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	雷蛇，黑钢国际私人安全顾问公司雇员，为跨国企业、政府部门和无国界组织等提供安全防卫服务，于冲突地带积累了丰富的实战经验。 
+	现于安保条约期内，为罗德岛提供专业的安全保障与咨询。
+
+	個人履歴 :
+	リスカムは、BSW個人安全保障員として、国際企業や政府機関、国境なき組織などに警備サービスを提供している。戦闘が多い地域で実戦経験を多く積み重ねてきた。
+	現在は、安保条約期間内に、ロドスに安全保障とコンサルティングを提供している。
+
+	Profile :
+	Liskarm is an employee of Blacksteel Worldwide, a private security contractor that provides security and protection services to international business, state agencies and non-governmental organizations. She has a lot of combat experience in conflict zones. 
+	Liskarm is currently under contract to provide professional security and other consulting services to Rhodes Island.
+
+	프로필 :
+	    블랙스틸 월드와이드의 직원. 글로벌 기업체, 정부 기관 및 무국경 조직 등 다양한 단체에 시큐리티 서비스를 제공, 무력 충돌 지역에서 풍부한 실전 경험을 쌓았다. 현재는 계약 기간 동안 로도스 아일랜드에서 시큐리티 서비스 및 컨설팅을 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员雷蛇没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.10u/L 
+	干员雷蛇经常出入源石污染地区进行作战，但因保护措施得当，至今仍未感染。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.10u/L
+	リスカムはよく源石の汚染地域で戦闘をしているが、保護の措置をとっているため未感染。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Liskarm showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.10u/L 
+	Operator Liskarm often fought in Originium-afflicted areas but has not yet been infected thanks to proper protective measures.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 리스캄으로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.10u/L
+	오퍼레이터 리스캄은 빈번히 오리지늄 오염 지대에서 작전을 수행하나, 적절한 보호 조치로 인해 현재까지 감염되지 않은 상태.
+
+———————————————————————————————
+
+	档案资料一 :
+	做事一板一眼，给人以非常踏实的优等生的感觉，这是所有与雷蛇共事过的人对她的评价。 
+	雷蛇的战斗总是保持着稳步的节奏：攻击、推进、确认战地情况、与同伴及时交流，考虑战术，然后再以同样的步调进行重复操作。 
+	作为芙兰卡的行动搭档，雷蛇认为芙兰卡的战斗风格有些危险，她无法理解芙兰卡刻意在战斗中追求的那种刺激感。出于同伴义务，雷蛇会不厌其烦地在战斗中提醒芙兰卡正确的操作流程，并及时制止芙兰卡可能会出现的冒进行为。 
+	即使事后会遭遇芙兰卡狂风骤雨的“暗算”，雷蛇也可以忍耐下去：什么都没有确保生命更重要。 
+
+	第一資料 :
+	真面目で融通がきかない、堅実な優等生。リスカムと共に仕事した人は、彼女をこのように評価している。
+	リスカムの戦闘はいつも安定したリズムで行われる。攻撃や推進、戦地状況の確認、仲間への伝達、戦術の考案などを同じペースで繰り返し行う。
+	リスカムは相棒のフランカの戦い方を少し危険だと思っており、戦闘中わざわざ刺激を求めるような行動が理解できない。相棒として、リスカムは戦闘中に何度もフランカの迂闊な行動を止めたりしている。
+	後でフランカから嵐のような「仕返し」をされても、リスカムは命より大切なものはないと思っているので、どんな仕返しにも耐えられるのだ。
+
+	Archive File 1 :
+	'By the books', 'as pragmatic as one gets' are how all people who have worked with Liskarm tend to describe her. 
+	It's always the same steady rhythm to her fighting: Attack, advance, ascertain the situation, communicate with teammates, review strategy, rinse and repeat. 
+	As Franka's combat partner, Liskarm considers Franka's fighting style rather risky. She struggles to comprehend why Franka would look to combat to satisfy her thrill-seeking. But Liskarm stays true to her obligations as a partner and always reminds Franka of proper standard operating procedures, trying to nip any potential recklessness in the bud. 
+	She can and will endure the inevitable tongue-lashing from Franka afterwards, knowing nothing is more important than their survival.
+
+	파일 자료 1 :
+	    그녀는 매사에 침착하고 조리 있게 말하고 행동하여 매우 착실한 우등생과 같은 느낌을 준다, 리스캄과 함께 일해본 모든 이들은 이렇게 평가를 내렸다. 리스캄의 전투는 늘 순서에 따라 차근차근 진행된다. 공격, 전진, 전장 상황 확인, 동료들과 적시에 교신, 전술 고려의 순서로 진행되며, 늘 이런 과정에 따라 전투를 진행한다. 프란카의 작전 파트너로서, 리스캄은 늘 프란카의 전투 스타일이 꽤 위험하다고 생각하고 있으며, 대체 왜 프란카는 전투 중에 일부러 어떤 흥분감을 느끼기 위해 노력하는지 이해하지 못한다. 파트너로서, 리스캄은 귀찮은 기색 없이 전투 중 프란카에게 전투 단계에 대하여 환기시켜주며, 적시에 프란카가 무턱대고 뛰어드는 행위를 제지하고자 한다. 물론 상황이 종료된 후엔 프란카의 폭풍과도 같은 '불평'에 시달려야 하지만, 리스캄은 충분히 감내할 수 있다. 목숨보다 중요한 것은 없기 때문이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	雷蛇配备的闪光盾牌是一种事实上的大型化法杖设备，只有雷蛇能以自身独特的法术天赋进行启动。
+	盾牌一经启动，将立刻释放超过5400万流明的强烈闪光，以及充斥半径五米的扇形区域的毁灭性电击，若在狭小的场地内用于反击敌人，将会显现出恐怖的歼灭力。 
+	但该类源石技艺会在释放过程中夺走雷蛇大量体力，致使雷蛇在释放结束后陷入极度乏力的状态。因此，黑钢指挥官常派遣近战专精干员与雷蛇进行配合。一般情况下，这个位置由芙兰卡担任。 
+	雷蛇曾不止一次向上级反映，希望能够约束芙兰卡在战斗中的权限，因为每次反击雷电过后，芙兰卡都会趁雷蛇无法动弹的时候，用尽方法对她进行恶作剧。 
+	备注：在通过天赋释放电击类源石技艺时，雷蛇的双角会散发出青蓝色的光芒。
+
+	第二資料 :
+	リスカムが使用する盾は、実は一種の大型化されたアーツユニットと言える。これは彼女特有のアーツによって起動する。
+	この盾は起動すると、瞬時に5400万ルーメン超えの強い光と半径5メートルの扇形の破壊的な電流を放つ。狭い戦場でこの機能を反撃に利用すれば、恐ろしいほどの殲滅戦となる。
+	しかしこのアーツの解放にはリスカムのかなりの体力が消耗されるため、戦闘後は極限の体力不足状態になる。このことを考慮し、BSWの指揮官はよく近接戦の強いメンバーをリスカムと一緒に戦わせる。通常、このポジションはフランカが担当する。
+	リスカムは、戦闘中のフランカの権限を制限するようにと何度も上層部に要請した。なぜなら、反撃の電流を放つ後リスカムが動けなくなる隙に、フランカはあらゆる手を使いリスカムにイタズラするからだ。
+	注：電撃系のアーツを使うとき、リスカムの角が青白い光を放つ。
+
+	Archive File 2 :
+	Liskarm's Flash Shield is actually an enlarged Arts staff fixture, activated only by Liskarm's own unique abilities. 
+	When activated, the shield emits over 54,000,000 lumen of intense light, plus a destructive electrical shock covering a conical area 5 meters in radius. It is terrifyingly devastating when released in small, confined spaces. 
+	However, these Arts drain a lot of energy from Liskarm, exhausting her completely. Therefore, Blacksteel commanders often pair her with a melee specialist. Currently, Franka assumes that role. 
+	Liskarm has repeatedly complained to her superiors in hopes of reining Franka in, since after every lightning strike, Franka would take advantage of a sapped, immobile Liskarm by pranking her. 
+	Note: When she uses her electricity-based powers, her horns glow a luminescent turquoise.
+
+	파일 자료 2 :
+	    리스캄이 장착한 섬광 방패는 사실 일종의 대형 마법 지팡이라고 할 수 있는데, 오직 리스캄만이 자신이 지닌 독특한 마법 재능을 사용해 기동시킬 수 있다. 방패는 기동하는 즉시 5400만 루멘을 초과하는 강렬한 섬광을 뿜어내면서, 반경 5미터 부채꼴 범위 내에서 치명적인 전격 공격을 가한다. 협소한 지형에서 적에게 반격을 가하기 위해 사용할 경우엔, 가공할 만한 위력을 발휘하며 적을 섬멸할 수 있다.
+	    다만 이런 종류의 오리지늄 아츠는 시전 과정 중 대량의 체력을 소모시키기에, 시전 완료 후 리스캄을 매우 쇠약한 상태에 빠지게 만든다. 이 때문에, 블랙스틸의 지휘관은 늘 근접 전투가 발생하는 전장에 정예 오퍼레이터를 리스캄과 함께 파견하는데, 보통은 이 역할을 프란카가 담당한다.
+	    다만 리스캄이 전격 공격 시전 후 움직일 수 없을 때, 프란카는 이 기회를 틈타 모든 수단과 방법을 동원하여 리스캄에게 짓궂은 장난을 쳤고, 리스캄은 이 때문에 상부에 여러 차례 프란카가 가진 전장에서의 권한을 제한할 수 있도록 요청하였다.
+	    비고: 재능을 활용해 전격류 오리지늄 아츠를 시전할 때 리스캄의 두 뿔은 푸른색의 빛을 내뿜는다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在行动搭档芙兰卡确诊矿石病感染后，雷蛇主动向上司申请，作为驻罗德岛特派人员，与芙兰卡共同前往。 
+	一方面是，雷蛇觉得芙兰卡应该需要一个相熟的人陪同行动，这样做什么事都能有人帮忙照应。另一方面，她也习惯了与芙兰卡共同战斗的步调，并认为芙兰卡应该也有着同样的感受。
+	然而对此想法，芙兰卡全都一口否定，她同样向上司申请，要求撤回雷蛇的驻派申请：好不容易没有人再盯着自己了，结果来到罗德岛的第二天，就看到自己的（前）搭档正在人事部门办理入驻手续，这是一种怎样的心情？ 
+	据说当天很多干员都目击到这样的场景：两名黑钢干员互相推挤着走出人事部门办公室，相互表示要向对方的上级进行申诉。
+
+	第三資料 :
+	相棒のフランカが鉱石病と診断された後、リスカム自ら上司に申請し、特別駐在オペレーターとしてフランカと一緒にロドスに行くことにした。
+	理由の一つは、フランカには気心を知れた同伴者がいたほうが行動しやすいと判断したからだ。もう一つは、自分はフランカとの共同作戦に慣れており、フランカも同じように考えるはずだと思ったからだ。
+	しかしそれに対しフランカは全て拒否した。彼女も上司に申請し、リスカムの派遣を撤回することを求めた。フランカはようやく一人きりになれたのに、ロドスに来て二日目で人事部で（元）相棒が駐在手続きをしている場面に遭遇した時の気持ちが分かるか？
+	当日多くのオペレーターが目撃したのは、BSWの二人が揉み合いをしながら人事部を出て、互いに相手の上司に訴えると言い張るシーンだった。
+
+	Archive File 3 :
+	When her partner Franka was confirmed Infected, Liskarm immediately requested to be reassigned to Rhodes Island to be with her. 
+	Liskarm felt Franka would want someone she knew for company. Not to mention she had gotten used to working with Franka in combat and believed Franka to feel the same. 
+	However, Franka denied the allegation and even requested that Liskarm be sent back to Blacksteel. She couldn't wait to be rid of her babysitter, and was dismayed to see her (former) partner going through the reassignment motions at Human Resources the next day. That's just not cool. 
+	According to witness accounts from many Operators, the two Blacksteel Operators had an altercation coming out of HR, both threatening to complain to the other's superiors.
+
+	파일 자료 3 :
+	    작전 파트너인 프란카가 광석병 감염 확진을 받은 후, 프란카와 함께 로도스 아일랜드로 갈 수 있도록 상사에게 자신을 로도스 아일랜드로 보내달라 요청했었다. 우선 리스캄은 프란카가 무엇을 하던 곁에서 도와줄 수 있도록 그녀에게 익숙한 사람이 동행해야 한다고 생각했고, 그녀는 프란카와 함께 전투하는 것에 익숙해져 있었으며, 프란카 역시 자신과 같을 것이라 생각했기 때문이다. 그러나 프란카는 일언지하에 이 방안을 거절하였으며, 즉각 상사에게 리스캄의 파견 신청을 철회해 줄 것을 요청하였다. 가까스로 감시당하는 환경을 벗어난 프란카는, 로도스 아일랜드에 도착한 둘째 날에 자신의 (전)파트너가 로도스 아일랜드 인사부에서 입주 수속을 밟고 있는 것을 발견하게 되었다. 이때 프란카의 심정은 어땠을까?
+	    들리는 말에 의하면, 당시 적지 않은 오퍼레이터가 두 명의 블랙스틸 오퍼레이터가 몸싸움을 벌이면서, 서로를 각자의 상급자에게 제소하겠다며 티격태격 인사부 사무실 문을 나서는 것을 목격하였다고 한다.
+
+———————————————————————————————
+
+	档案资料四 :
+	关于自己的未来，雷蛇的想法是：创办一家属于自己的安全承包公司。最初她之所以选择加入黑钢国际，正是这一想法中最为关键的一步。 
+	由于雷蛇在身体数据方面较为不足，而且她所属的种族缺乏传统印象中的尚武文化，也并没有普适的源石技艺教育。几乎没有人对这个矮小的，出生在偏远地带的瓦伊凡少女抱有什么期待。甚至连她自己也一度这样认为。 
+	但雷蛇沉稳的性格，以及虽然稍显固执但更富耐心的品性，使得她舍得投入比同龄人更多的时间和努力来达成目的。在加入黑钢后的实习期间，雷蛇积极参与实战行动，从最基础的岗位开始做起，逐步地成长为一名专业可靠的安全承包商。 
+	雷蛇的故乡位于瓦伊凡联盟控制区内，是一座以矿业、采石业，以及石材加工业为主的小城。为了维持这些主要行业的发展，这座城市将行动范围设置在便于矿产和石材开采的沙漠与山脉附近。而这一地区常常是移动城市劫匪与流窜佣兵的据点。 
+	为了对应随时可能产生的劫掠行动，城市自身配备了一定的防御力量，但迫于训练不足与装备的匮乏，也不得不求助于一些更为专业的安全承包公司。 
+	在雷蛇的记忆中，那些在故乡街头操弄崭新的武器与装备，以听不懂的外国语言相互交谈，在骚乱中以小组形式迅速击溃敌寇的安全承包商们，是她对这个行业的最初认知。 
+	不是为了赚钱，也不是为了寻求战斗的快感，雷蛇只是希望，用手中的武器尽可能地为人们带来安稳，而不是动乱。
+
+	第四資料 :
+	リスカムは、将来自分の警備会社を立ち上げたいといと考えている。最初にBSWに入った一番の理由である。
+	リスカムの身体条件が足りないことと、その一族は一般的な武力第一の文化がなく、アーツの教育も普及されていないため、低身長で辺鄙な地域出身のヴイーヴル族の少女に期待する人はほとんどいなかった。彼女自身ですらそう思っていた。
+	しかし、リスカムはやや頑固だが落ち着きのある忍耐強い性格であるため、目標を達成するために時間と労力を惜しまない努力家でもある。BSWに入社後、試用期間中は積極的に実戦に参加し、基本的なポジションから、徐々に信頼できる安全保障専門家へと成長した。
+	リスカムの故郷はヴイーヴル連合に支配される地域にあり、鉱業、採石業、石材加工業を主要工業とする小さな町だ。これらの産業を維持するため、町は行動範囲を鉱石と石材など採鉱しやすい砂漠や山脈の近くに指定している。しかしこの地域は、よく強盗や傭兵の拠点とされる。
+	いつ来るか分からない強盗に備えるため町自体は防衛に取り組んでいるが、訓練と装備不足が原因で、やむ得なくより専門性の高い警備会社に依頼することもある。
+	リスカムの記憶では、街中で新しい武器と装備を所持し、聞き取れない外国語で会話したり、騒ぎが起こるとチームを組んで速やかに敵を撃退する警備員は、彼女のこの業界に対する最初の印象だった。
+	リスカムは金稼ぎのためでも戦いに快感を求めるためでもなく、ただ自分の武器で人々に不穏ではなく、平和な世界をもたらしたいだけだ。
+
+	Archive File 4 :
+	Liskarm hopes to form her own private security company in the future. Working for Blacksteel Worldwide is only a first step to that goal. 
+	Because Liskarm is lacking in physical stature, and the fact that her race is not known for skill in combat or Originium Arts, no one ever expected much out of the small Vouivre girl from the sticks. She even bought into that view in the past. 
+	But her steady-does-it and stubbornly patient personality always compelled her to devote more time and effort than her peers to fulfilling her goals. When she was an intern with Blacksteel, Liskarm tagged along on every sortie they would allow, starting at the bottom and working her way up to become a reliable, competent security specialist. 
+	Liskarm's hometown is located in an area controlled by the Vouivre Alliance, a small city primarily relying on mining, quarrying and stone processing. To maintain the viability of these industries, the city often operated in the deserts and mountains near the mines and quarries--where nomadic robbers and their mercenary cohorts roamed. 
+	To counter potential raids, the city formed a defense force, but inadequate training and poor equipment forced it to turn to more reputable security contractors. 
+	The contractors who fiddled with newfangled weaponry and equipment, speaking to each other in foreign languages, repelling invaders in the blink of an eye were Liskarm's very first memory of the business. 
+	She wasn't interested in money or the thrill of combat. She just wanted to use her weapons to bring peace, not chaos, to the people.
+
+	파일 자료 4 :
+	    리스캄에겐 장래에 자신만의 용병 회사를 창립하고자 하는 목표가 있었는데, 그녀가 블랙스틸 월드와이드에 입사한 것도 바로 이 목표를 달성하기 위한 첫 걸음이었다. 리스캄은 신체적 조건이 조금 뒤떨어지는데다, 보편적인 오리지늄 아츠 교육도 이뤄지지 않았고, 그녀의 종족은 딱히 무예에 대한 조예가 깊은 편도 아니었기에, 아무도 변두리에서 온 이 작은 뷔브르 소녀에게 별다른 기대를 하지 않았다. 심지어 그녀 스스로도 한 때는 이렇게 생각하였다.
+	    그러나 리스캄의 침착한 성격과 조금 고집스럽지만 끈기 있는 품성은, 그녀가 동료들 보다 더 많은 시간과 노력을 들여 목표를 달성하도록 만들었다. 블랙스틸의 인턴 기간 중 리스캄은 적극적으로 실전에 참여하여, 가장 기초적인 포지션에서 부터 실력을 갈고닦아 현재의 신뢰할 수 있는 한 명의 용병으로 거듭났다.
+	    리스캄의 고향은 뷔브르 연맹의 관할 구역 내에 위치하고 있는 광업, 채굴업 그리고 석재 가공업을 주 산업으로 삼고 있는 작은 도시였다. 주요 산업의 발전을 지속시키기 위하여, 도시는 그 행동 범위를 광산과 석재 채굴 작업에 용이한 사막과 산맥 부근으로 설정하였지만, 이 지역은 이동도시 강도 떼나 떠돌이 용병들이 자주 거점으로 삼는 지역이기도 하였다.
+	    언제든 일어날 수 있는 약탈 행위에 대응하기 위하여 도시는 자체적으로 어느 정도의 방어 능력을 갖추었으나, 훈련 및 장비 부족으로 인해 어쩔 수 없이 용병 회사에 도움을 청할 수 밖에 없었다.
+	    이때 리스캄은 고향의 거리에서 최신 장비들을 만지며 알아들을 수 없는 외국어로 서로 대화하고, 교전 중 팀 단위로 행동하며 신속히 외적을 물리쳤던 용병들을 처음 접하게 되었고, 이들은 그녀에게 용병에 대한 깊은 첫인상을 남겨주었다.
+	    현재 리스캄이 용병의 길을 걷게 된 건 돈을 위해서도 아니고, 전투의 쾌감을 위해서도 아니었다. 리스캄은 단지, 손에든 무기로 최대한 사람들에게 혼란이 아닌 안정을 주고 싶었다.

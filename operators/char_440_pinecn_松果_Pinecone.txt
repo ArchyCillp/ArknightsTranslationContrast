@@ -1,11 +1,17 @@
 ID:
 	char_440_pinecn
 
-干员代号\Name:
+CV:
 	松果
 	パインコーン
 	Pinecone
 	파인콘
+
+干员代号\Name:
+	津田里穗
+	津田里穂
+	Riho Tsuda
+	츠다 리호
 
 招聘合同\Character Usage:
 	建筑工人松果，迷迷糊糊地完成工作。
@@ -43,177 +49,405 @@ ID:
 	전기 에너지 과부하
 
 语音\Voices:
-	博士？不，我没有打盹！只是......只是在愣神！
 	……ドクター？いえ、居眠りなんかしてませんよ！ただ……ただぼーっとしてただけです！
 	Doctor? No, I wasn't taking a nap! I... I was just spacing out!
 	……박사님? 아니에요, 안 졸았어요! 그냥…… 그냥 멍하니 있었을 뿐이에요!
 
-	外面下雨了吗？以前我可讨厌下雨天了......地上都是泥，还会影响施工，爸爸就要到很晚才会回来。不过雨后的天气都很舒适，像现在这样待在房间里的话，也挺不错的。
 	外は雨ですか？昔は雨が大嫌いでした……地面は泥だらけになって、工事にも支障が出るので、お父さんの帰りも遅くなるんです。でも雨が上がれば過ごしやすい天気になりますし、こうやって部屋にいると心地良いですね。
 	Is it raining outside? I used to really hate rainy days... There's mud everywhere, and the rain affects construction. My father always came home really late on those days. But it also feels really comfortable once the rain lets up, and it feels really nice to just stay inside my room, just like what we are doing right now.
 	밖에 비 오나요? 예전에는 비가 정말 싫었어요…… 땅도 진흙투성이가 되고 공사에도 지장이 생겨서 아버지도 늦게 돌아오니까요. 그래도 비가 그치면 지내기 편한 날씨가 되고, 이렇게 방에 있으면 마음이 편해지죠.
 
-	在哥伦比亚当工人的时候，日子过得可辛苦了，每天早上都要起得很早，晚上要睡得很晚，有时候稍微加个班，回过神来就发现自己没空睡觉啦......
 	クルビアで土木作業員をしていた頃は毎日大変でした。朝は早かったですし、夜は遅くまで寝られなくて。もし残業でもしてしまえば、気付いた時にはもう寝る時間もなくなっていて……
 	When I used to be a construction worker back in Columbia, every day was a struggle. I had to get up early every morning and go to bed late every night. Sometimes, I even had to work overtime and didn't have any time to sleep...
 	컬럼비아에서 토목 일을 할 땐 매일 너무 힘들었어요. 아침에도 빨리 일어나야 하고 밤늦게까지 잘 수 없어서…… 야근이라도 하게 되는 날에는, 어느샌가 잠잘 시간도 없어져 버려서……
 
-	啊，博士，要不要一起随便去哪儿逛逛？嗯？啊......！我、我的工具包呢......难道又被我忘在施工现场了？抱、抱歉，我去去就回！
 	あっ、ドクター。一緒にお出かけしてどこか回ってみませんか？あれ？あっ！わ、私の工具バッグはどこ……まさかまた工事現場に忘れてきたの？す、すみません、すぐ戻りますから！
 	Oh, Doctor, would you like to go somewhere together? Hm? Ahh...! W-Where's my tool bag...? Did I leave it at the construction site again? I-I'm sorry, I'll be back right away!
 	앗, 박사님. 같이 나가서 어딘가 돌아보고 오지 않으시겠어요? 어라? 앗! 내, 내 공구 가방은 어디…… 설마 또 공사 현장에 놔두고 왔나? 죄, 죄송해요, 금방 다녀올게요!
 
-	想做的事情啊......有份稳定的工作，踏踏实实过日子就行了呗。那何必要成为干员？啊......因为这样薪水高一点，想了想好像也可以......没差吧。
 	私のやりたいこと？……安定した仕事があって、地に足の着いた生活ができればそれでいいです。じゃあどうしてオペレーターになったのか、ですか？それは……そのほうがお給料も増えますし、やることもそんなに変わらないと思って、やってみることにしたんです。
 	What I want to do...? Hmm... as long as I have a stable job and get to live a honest life, I think that's good enough for me. In that case, why did I become an operator here, you ask? Well... The pay is a little better, and the work here isn't all that different, either... so I thought I'd give it a try... I guess?
 	제가 하고 싶은 일이요? …… 안정된 직업이 있고, 안정적인 생활을 할 수 있다면 그걸로 됐어요. 그럼 왜 오퍼레이터가 됐냐고요? 그건…… 그래야 급여도 늘어나고, 하는 일도 그렇게 다르지 않은 것 같아서 해보기로 한 거예요.
 
-	感染者......在哥伦比亚，感染者工人也有不少......大家都说要远离他们，不过看他们做活的模样，也没什么差别嘛。
 	感染者……クルビアでは、感染者の労働者も少なくありません……みんな彼らには近づかないほうがいいと言っていましたが、仕事ぶりを見ていると、感染者も私たちと大差ないように見えました。
 	The Infected... There were a lot of Infected workers in Columbia... Everyone told me to stay away from them, but, just going by the way they work, I don't think they're any different from the rest of us.
 	감염자…… 컬럼비아에는 감염자인 노동자도 적지 않았어요…… 다들 그들 근처에는 가지 않는 것이 좋다고 하지만, 일하는 모습을 보면 감염자도 저희랑 별 차이 없어 보였어요.
 
-	啊......我忘记了可露希尔小姐交代的工作是什么了......是什么呢.....回去问的话肯定会挨骂吧......不如，博士？你帮帮我呗......？
 	あっ……クロージャさんにお願いされた仕事、忘れちゃった……何だったっけ……戻って聞いたら怒られるに決まってるし……あの、ドクター、ちょっと助けてもらえませんか……？
 	Oh... What was it that Ms. Closure wanted me to do for her again...? She's gonna be really mad if I go back and ask her... Um, Doctor? Do you think you can help me out...?
 	아…… 클로저 씨가 부탁한 일, 까먹었다…… 뭐였더라…… 다시 가서 물어보면 분명 혼날 테고…… 저…… 박사님 좀 도와주시지 않을래요?
 
-	爸爸以前也总是说，我们要多多学习才能有更好的生活，博士，你懂的很多对吧？能不能教教我？我尽量不犯迷糊，呃，尽量。
 	より良い暮らしをするためには、たくさん勉強しないといけないってお父さんによく言われました。ドクターはたくさんのことを知っていますよね？私にも教えていただけませんか？なるべく集中しますから、はい、なるべく。
 	My father always told me to study hard if I want a better life. Doctor, you know all sorts of things, right? Do you think you can teach me? I'll try my best to not zone out. I'll really try to.
 	더 잘 살기 위해서는 많이 공부해야 한다고 아버지한테 자주 들었어요. 박사님은 많은 걸 알고 있죠? 저에게도 알려주시지 않을래요? 될 수 있는 한 집중할 테니까요. 네, 될 수 있는 한.
 
-	我以前从来没想过未来的事，反正就是在拓荒队里随便找份闲工，和工匠活打一辈子交道呗。不过现在......哎，我很感谢大个子，让我遇到了博士......呃，那、那个，就是很感谢他！
 	昔は未来のことなんて考えたこともありませんでした。どうせ探検隊で適当な仕事を見つけて、一生工匠としてやっていくんだって思ってましたから。でも今は……デカブツさんのおかげでドクターと出会えました……えっと、そ、その、とにかくあの人には感謝しているんです！
 	I never thought that much about the future before. I figured I would find work in the exploration teams and work as a craftsman my whole life. But now... I really need to thank the big guy. I wouldn't have met you if it wasn't for him... Uh... A-Anyway, I really appreciate what he did for me.
 	옛날엔 미래에 대한 일 따윈 생각해 본 적도 없었어요. 어차피 탐험대에서 적당한 일을 찾아서 평생 기능공으로 살아갈 거라고 생각했으니까요. 하지만 지금은…… 큰 덩치 씨 덕분에 박사님과 만나게 됐죠…… 어, 그…… 그 어쨌든, 그 사람에겐 감사하고 있어요.
 
-	唔啊......好困......干脆和博士一起打个盹吧......
 	ふぁ……眠い……ドクターと一緒に居眠りしちゃおうかな……
 	Fwahh... I'm so tired... I guess maybe I'll take a nap with the Doctor...
 	흐아암…… 졸려…… 박사님과 같이 좀 졸아볼까……
 
-	代号松果.....今天开始为罗德岛工作，唔......请问您看见我的便携蓄电池了吗？
 	コードネームはパインコーンです……今日からロドスで働かせていただきます。えっと……私の携帯用バッテリーを見かけませんでしたか？
 	Codename Pinecone... I'm starting at Rhodes Island today... Um... Have you seen my portable battery?
 	코드네임은 파인콘입니다…… 오늘부터 로도스 아일랜드에서 일하게 되었습니다. 저…… 제 휴대용 배터리 못 보셨나요?
 
-	唔，唔，唔......完全不明白啊......
 	えっと、えっと……全然わかりません……
 	Um... Umm... I don't get it...
 	어…… 그게…… 전혀 모르겠어요……
 
-	谢谢您，博士......但是之后我要怎么做？啊......是不是学着其他前辈的样子就好了？好嘞......！
 	ドクター、ありがとうございます……ですがこれからどうしたらいいですか？あ……他の先輩たちを見習えばいいんでしょうか？よし……！
 	Thank you, Doctor... But what should I do now? Oh... Do I just need to follow the others' examples? All right...!
 	박사님, 감사합니다…… 그런데 이제부터 어떻게 하면 될까요? 아…… 다른 선배들을 보고 배우면 될까요? 좋았어!
 
-	唔......？又是晋升，哈哈，博士你也会犯迷糊呀，你上次不是和我说过——不一样？唔，好吧，要干啥都听博士的，咱们什么时候出发？
 	えっ……？また昇進ですか？フフ、ドクターもど忘れすることあるんですね、前にも私が昇進だって――前とは違う？えっと、わかりました。ドクターの判断はいつでも正しいですから。では、いつ出発しますか？
 	Hm...? Another promotion? Ehehe, you're pretty forgetful yourself, Doctor. Didn't you already give me a promot—This is a new one? Um... Okay. I'll always listen to what you say. So, when are we leaving?
 	네…? 또 승진인가요? 헤헷, 박사님도 까먹을 때가 있네요, 전에도 제가 승진한다고…… 전이랑 다르다고요? 어…… 알겠습니다. 박사님의 판단은 항상 옳으니까요. 그럼 언제 출발하나요?
 
-	轮到我啦。
 	私の出番ですね。
 	It's my turn to shine now.
 	제 차례네요.
 
-	和施工队长差不多意思呗？
 	工事の現場責任者みたいなものですよね？
 	I guess it's just like being foreman at a construction site?
 	공사할 때의 현장 책임자 같은 거죠?
 
-	那个......目的地在哪儿来着......
 	あの……目的地はどこでしたっけ……
 	Um... Where are we going again...?
 	저…… 목적지가 어디였죠?
 
-	是敌人，不要手下留情！
 	敵です、皆さん、手加減無用です！
 	It's the enemy! Don't hold back, anyone!
 	적입니다. 여러분, 봐주지 마세요!
 
-	唔，我在认真听！
 	はい、ちゃんと聞いてます！
 	Yes, I'm listening!
 	네, 잘 듣고 있습니다!
 
-	您说吧，博士！
 	指示をどうぞ、ドクター！
 	Your orders please, Doctor!
 	지시를 내려 주세요, 박사님!
 
-	就在这儿？
 	ここですか？
 	Here, right?
 	여기인가요?
 
-	我会像钉子一样钉在这里。
 	釘のようにここでしっかり支えます。
 	I'll stay right here like a nail.
 	못처럼 이곳에서 확실히 받쳐줄게요.
 
-	嘿呀！
 	はあっ！
 	Haah!
 	하앗!
 
-	电量储备还很充足！
 	バッテリーはまだまだ持ちますよ！
 	I still have lots of batteries on me!
 	배터리는 아직 남아있어요!
 
-	扣动扳机！
 	引き金を……引く！
 	Pull the trigger!
 	방아쇠를…… 당긴다!
 
-	就像平时打钉那样！
 	普段通り釘を打てば大丈夫！
 	Just gotta think of it as driving nails!
 	평소대로 못을 박으면 돼!
 
-	呜啊，这可比造一栋房子困难多了，博士，咱们是不是有点了不起啊？
 	ふぅー、家を一軒建てるよりずっと大変でした。ドクター、私たち、もしかしてちょっとすごい……ですか？
 	Phew... That was a lot harder than building a house. Doctor, that makes us kinda impressive, don't you think?
 	후우, 집을 한 채 세우는 것보다 훨씬 힘들었어요. 박사님, 우리, 혹시 좀 대단한…… 건가요?
 
-	完美收工......博士，您还满意吗？
 	完璧な仕事ができました……ドクター、満足していただけましたか？
 	That was perfect... Doctor, are you happy with how we did?
 	완벽한 작업이 되었네요…… 박사님, 만족하셨나요?
 
-	唔，是操作流程有问题吗......对不起，没能好好完成任务......
 	うーん、操作手順を間違ったのかな……ごめんなさい、上手にできませんでした……
 	Hmm... Maybe I did it in the wrong order...? I'm sorry. It didn't go as well as I was hoping.
 	음, 조작 순서를 틀렸나…… 죄송해요, 잘하지 못했네요……
 
-	欸，怎么开始冒火花了......抱、抱歉，都怪我......
 	あれ、なんで火花が出るの……ご、ごめんなさい、私のせいです……
 	Eh? Why are there sparks... S-Sorry... It's all my fault...
 	어라, 왜 불꽃이 튀는 거지…… 죄, 죄송해요, 제 탓이에요……
 
-	唔，有哪里需要维护一下吗？
 	はい、どこかメンテナンスが必要ですか？
 	Yes, is there anything that needs maintaining?
 	네, 어딘가 유지 보수가 필요한가요?
 
-	啊......！
 	あっ……！
 	Ah...!
 	앗……!
 
-	博士，要不要一起来看雨？虽然没什么好看的......
 	ドクター、一緒に雨を見に行きませんか？特に綺麗なものでもありませんが……
 	Doctor, want to watch the rain together? There's not much to see, though...
 	박사님, 같이 비 오는 걸 보러 가지 않을래요? 딱히 예쁜 건 아니지만……
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	您好，博士。
 	こんにちは、ドクター。
 	Hello, Doctor.
 	안녕하세요, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】松果
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】3月12日
+	【种族】黎博利
+	【身高】148cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】パインコーン
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】3月12日
+	【種族】リーベリ
+	【身長】148cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Pinecone
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Columbia
+	[Date of Birth] Mar 12
+	[Race] Liberi
+	[Height] 148cm
+	[Infection Status]
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 파인콘
+	[성별] 여
+	[전투 경험] 없음
+	[출신지] 컬럼비아
+	[생일] 3월 12일
+	[종족] 리베리
+	[신장] 148cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Standard
+	[Tactical Acumen] Normal
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	哥伦比亚建筑工人松果，被卷入曼斯菲尔德事件后，随山来到罗德岛求职，因其先前的工作经验，现于工程部担任部分干员的助手。
+
+	個人履歴 :
+	クルビアの建築職人であるパインコーンは、マンスフィールド事件に巻き込まれた後、マウンテンと共に職を求めてロドスへやってきた。これまでの仕事経験を買われて、現在はエンジニア部で一部オペレーターの助手を担当している。
+
+	Profile :
+	Pinecone is a former construction worker from Columbia. After she became involved in the Mansfield incident, she came to Rhodes Island to seek work alongside Mountain. Owing to her previous work experience, she is currently assigned to the Engineering Department as an assistant to some of our operators there.
+
+	프로필 :
+	    컬럼비아의 건설 노동자였던 파인콘은 맨스필드 사건에 휘말리게 되어, 마운틴을 따라 일자리를 찾기 위해 로도스 아일랜드로 오게 되었다. 그간의 작업 경험을 토대로 지금은 엔지니어링부에서 몇몇 오퍼레이터의 조수 역할을 담당하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员松果没有明显感染的迹象。
+	
+	【血液源石结晶密度】0.14u/L
+	作为哥伦比亚的工人，接触源石几乎不可避免。事实上，干员松果至今仍携带着一些源石电源驱动的器械。虽然在结构和使用方法上几乎挑不出什么毛病，但鉴于她总是迷迷糊糊的样子，还请工程部的各位稍加照料。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.14u/L
+	クルビアの職人にとって、源石との接触は避けられないものと言っていいだろう。実際、パインコーンは今も源石電源を動力とする機械を持ち運んでいる。機械の構造にも使用方法にも大きな問題は見られないが、本人がいつもぼんやりしているのを鑑みて、エンジニア部諸君には是非彼女のことを少しばかり気にかけていただきたい。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Pinecone shows no signs of Originium infection.
+	
+	[Blood Originium-Crystal Density] 0.14u/L
+	It is practically impossible for a Columbian workman to avoid coming in contact with Originium, and as testament to that fact, Operator Pinecone still keeps on her a few devices powered by Originium. Although there is hardly anything to complain about these devices' structures and applications, given how clumsy she is, it is advised that everyone at Engineering pay her some extra care.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 파인콘은 뚜렷한 감염 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.14u/L
+	컬럼비아 노동자로서 오리지늄 접촉은 불가피하며, 여전히 오퍼레이터 파인콘은 오리지늄 전원으로 작동되는 기기를 갖고 다닌다. 그 구조와 사용법에는 별다른 문제가 없지만, 언제나 흐리멍덩한 모습을 감안해 엔지니어링부에선 부디 따뜻한 시선으로 봐주길 바란다.
+
+———————————————————————————————
+
+	档案资料一 :
+	松果出生在哥伦比亚一个普通的工人家庭。她的父母如同大部分哥伦比亚工人一样，投身于哥伦比亚浩瀚的拓荒浪潮。这股浪潮持续之久，超乎想象，拓张的欲望和征服并没有停歇，但血肉凡胎的工人们却不能永远追随巨大工业机械的脚步——在某个春天，松果出生在一处偏僻却安宁的哥伦比亚城镇。在这座逐渐听不见拓荒队伍机械轰鸣的镇子里，松果度过了短暂却幸福的童年。
+
+	第一資料 :
+	パインコーンはクルビアの一般的な労働階級の家庭に生まれた。両親は多くのクルビア労働者と同じく、大規模な開拓事業の荒波に身を投じていた。クルビアに巻き起こった開拓の波は長く続いた。その期間は想像を絶するほどで、クルビアの領土拡大と征服にかける熱意は止まる所を知らなかった。だが、生身の人間である労働者たちはこの巨大な工業機械の歩みに、いつまでも付いていけるわけではなかった――ある春の日、パインコーンは、クルビアのとある辺鄙で安寧に満ちた町に生まれた。開拓隊の機械が響かせる轟音が次第に遠ざかっていくこの町で、パインコーンは短くも幸せな子供時代を過ごした。
+
+	Archive File 1 :
+	Pinecone was born in an average Columbian laborer family. Like much of Columbia's laborers, her parents jumped on the Columbian exploration bandwagon. The wave they rode lasted far longer than anyone could have imagined, and the Columbians' desire to expand and the subsequent conquest continued day and night without cease. The laborers, made of flesh and blood, were simply not meant to keep up with these massive industrial machines—And so her parents chose to settle in a remote but quiet Columbian town, a place that was getting farther and farther away from the roars of the pioneers' machines by the day. This was where Pinecone was born one spring, and it was where she lived a brief but nonetheless happy childhood.
+
+	파일 자료 1 :
+	    파인콘은 컬럼비아의 평범한 노동자 가정에서 태어났다. 그녀의 부모는 다른 대부분의 컬럼비아 노동자와 마찬가지로 컬럼비아를 휩쓸은 광대한 개척의 물결에 그 몸을 던졌다. 인간의 상상을 초월한 확장 욕구와 정복 욕구는 끝이 없었기에, 이 개척붐은 오랫동안 지속되었고, 피와 살로 이루어진 평범한 노동자들은 이 거대한 공업 기계의 행보를 계속 따라가기엔 역부족이었다. 그러던 어느 봄날, 파인콘은 컬럼비아의 한 평온한 벽지 마을에서 태어났다. 점차 개척 대열의 모습이 사라지고 힘찬 기계 소리가 사그라들던 그 마을에서, 파인콘은 짧지만 행복했던 어린 시절을 보냈다.
+
+———————————————————————————————
+
+	档案资料二 :
+	松果是陪着山一同来到罗德岛的。按照松果的说法，山有恩于她和她的家庭。不过她也并非是受山的指示，或是出于某种目的来寻求与罗德岛的合作。松果单纯地想找一份靠谱的工作，仅此而已。
+	工人家庭出身的松果有着很多不符合她可爱外貌的技巧，各路工匠杂活似乎都略通一二。成为罗德岛的雇员后，她接受了工程部干员的指导，而松果的学习速度之快，几近天性。
+	“耳濡目染......吧？我也不太清楚......总之就是搞定了......哪、哪里不行吗？”——仅花了其他后勤干员一半工期就完成了训练室维护工作的松果如是说。
+
+	第二資料 :
+	パインコーンはマウンテンと共にロドスに加入した。パインコーンによると、マウンテンは彼女一家の恩人であるという。だが、彼女がロドスに加入したのは別にマウンテンの指示によるものでも、何らかの目的を持っていたからでもない。彼女は単純に安定した仕事を見つけたかった、それだけなのだ。
+	労働者家庭の出身であるパインコーンは、その可愛らしい外見からは想像できないような様々な技術を身につけている。どんな職人の基礎的な作業も全て一通りはなんとなくできる、というほどだ。ロドスの職員となってから、彼女はエンジニア部のオペレーターから指導を受けるようになったのだが、その学習の速さは、天賦の才が感じられるものだった。
+	「見学しているうちになんとなく……ですかね？私もよくわからないんですが……なんかやってみたらできました……ど、どこかマズかったのでしょうか？」――他の後方支援オペレーターのわずか半分の工期で訓練室のメンテナンスを終えたパインコーンはこう答えている。
+	
+
+	Archive File 2 :
+	Pinecone accompanied Mountain when the latter came to Rhodes Island. According to Pinecone, she and her family are indebted to Mountain. Yet she didn't come to Rhodes Island because Mountain told her to or because she was seeking Rhodes Island's help for some sort of ulterior objective. She came here simply because she wanted reliable work.
+	Although she may not look it given her cute appearance, as someone who was born in a family of laborers, Pinecone has a lot of tricks up her sleeve. She has a decent handle on a variety of crafts and chores, and ever since she became a Rhodes Island employee, she has been training under our Engineering operators. Under their tutelage, she has picked up everything almost at a lightning pace as though it's all in her blood.
+	Pinecone even managed to complete the training room's maintenance work in half the time it would take other Logistics operators, and when asked, she simply answered, 'It all comes naturally to me... I guess? I'm not too sure myself... Anyway, I got it taken care of... I-Is there something wrong?'
+
+	파일 자료 2 :
+	    파인콘은 마운틴을 따라 로도스 아일랜드에 왔다. 파인콘의 말에 따르면 그녀 일가족은 마운틴에게 은혜를 입었다고 한다. 그렇다고 해서 그녀가 마운틴의 지시를 받는 것은 아니었고, 뭔가 다른 목적으로 로도스 아일랜드에 협력을 구하러 온 것도 아니었다. 그녀는 단지 어엿한 직업을 찾으러 온 것뿐이다.
+	    노동자 집안 출신인 파인콘은 그녀의 귀여운 외모와는 어울리지 않게 작업 기술에 조예가 깊고, 다방면에 걸쳐 여러 노하우를 가지고 있다. 로도스 아일랜드의 직원이 된 후 그녀는 엔지니어링부에 속한 오퍼레이터의 지도를 받았는데, 배우는 속도가 무척 빠른 것이 마치 타고난 것 같았다고 한다.
+	    "귀동냥이라고 해야…… 하나요? 저도 잘 모르겠지만…… 어쨌든 되네요…… 무, 무슨 문제라도 있나요?"
+	    다른 후방 지원 오퍼레이터에 비해 절반의 시간만으로 훈련실 보수 작업을 마쳤을 때, 파인콘은 이렇게 대답했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	松果是个有些迷糊的小姑娘，时常会让人怀疑她到底能不能做那些又脏又累的活计。然而松果做得很好，而且很快。虽然对绝大部分现代复杂工程技术一无所知，不过简单的维修和护理，无论是淋浴间不出热水还是风扇不转了，松果都能又快又精确又一边打呵欠地完成工作。因为松果平易近人的性格，她也很少拒绝干员们各种各样的小要求。但希望某些干员不要再怂恿松果帮忙改建宿舍了，这是要过手续的。
+	对于目前的生活状态，松果本人还算感到满意。本来还担心密切接触感染者是否会让她产生不必要的心理负担，不过据她本人所说，过去镇上的感染者移民几乎每隔一个月就能换一整批，浩浩荡荡地投入大拓荒之中。而问及松果本人对“大拓荒”的看法，她的想法单纯而又富有感染力。
+	“城市......是很伟大的。”
+
+	第三資料 :
+	パインコーンは少々ぼんやりしたところのある娘だ。そのため、汚くもあり疲れもするような仕事を本当にこなせるのかと疑問に思われることもある。この問いに対する答えは、彼女はただ「こなせる」だけではなく、とても「うまく、素早くこなせる」のである。現代の複雑なエンジニアテクノロジーに関してはほとんど無知だが、シャワー室でお湯が出なくなったとか、扇風機が回らなくなったとかの、簡単な修理やメンテナンスならば、彼女はあくびしながらも、正確かつ迅速にやってのける。気安い性格のため、皆から様々寄せられる、ちょっとしたお願いを断ることもめったにない。だが一部のオペレーターは、彼女を唆して宿舎の改築をさせるようなことは速やかにやめること。先に手続きを行いなさい。
+	今の生活に対して、パインコーン本人はそれなりに満足しているようだ。我々はロドスの生活で発生する感染者との密接な関わりは、彼女に過剰のストレスをもたらすのではないかと心配していた。だが本人の話によると、昔住んでいた町にも感染者移民は多く、しかも一ヶ月もすれば顔ぶれが丸ごと入れ替えているほどで、皆が次から次へとクルビアの大開拓に身を投じていったという。彼女は感染者が身近にいることには既に慣れていたのだ。パインコーンに「大開拓」についてどう考えるか尋ねたところ、彼女から返された感想は、単純でありながらも共感を呼ぶようなものだった。
+	「都市は……とても偉大なのです。」
+	
+
+	Archive File 3 :
+	Pinecone is a somewhat clumsy girl, and she oftentimes makes the rest of us wonder whether she is truly capable of handling all that exhausting and grimy work. Yet she always surprises the rest of us by finishing them unbelievably quickly with impeccable results. Although she knows almost nothing about more complex modern engineering techniques, she is very capable with simple repairs and maintenance work. Whenever there is no hot water at the showers or the fans have stopped working, you can count on her to take care of it all with feverish haste and a loud yawn. Because of her approachable personality, she rarely turns down any of the small requests she gets from other operators. That said, we would like certain operators to refrain from asking her to renovate the dormitories, as this requires prior authorization.
+	Pinecone seems to be rather content about her current living situation. At first, we were worried whether her close contact with our Infected operators would give her any undue mental stress, but according to Pinecone herself, back in her hometown, Infected explorers would come and go in droves month after month to participate in Columbia's Great Expansion. When she was asked what she thought of this 'Great Expansion' herself, she gave a simple yet undeniably fascinating answer.
+	'The city... is a glorious place.'
+
+	파일 자료 3 :
+	    파인콘은 조금 흐리멍덩한 성격의 여자아이라서 가끔 과연 이런 더럽고 힘든 육체노동을 할 수 있을까 하는 의문이 들지만, 의외로 그녀의 일처리는 매우 빠르고 능숙하다. 비록 현대의 복잡한 공사 기술에 대해서는 아무것도 모르지만, 샤워 부스에서 뜨거운 물이 나오지 않는다던가 선풍기가 돌아가지 않는다던가 하는 등의 간단한 수리와 관리라면 하품을 하면서도 빠르고 정교하게 작업을 끝낼 수 있다. 게다가 파인콘은 그 사근사근한 성격 탓에 오퍼레이터들의 다양한 요청을 잘 거절하지 않는다. 하지만 그렇다고 몇몇 오퍼레이터들처럼 파인콘에게 숙소를 개조하자고 꼬드기지 않았으면 좋겠다. 그건 절차를 밟아야 하는 일이다.
+	    파인콘은 현재 생활에 만족하는 편이다. 혹여나 감염자와의 밀접한 접촉 때문에 불필요한 심리적 부담이 생기지 않을까 걱정도 되었지만, 본인 말에 따르면 과거 마을에 있던 감염자 이주민들이 격월마다 전체 인원이 바뀔 정도로 대규모 개척 현장에 투입되던 걸 봐왔던 터라 괜찮다고 한다. 그래서 파인콘에게 '대개척'에 대한 생각을 물어보면 그녀는 단순하면서도 설득력 있는 감상을 내놓는다.
+	    "도시는…… 위대한 거예요."
+
+———————————————————————————————
+
+	档案资料四 :
+	数年前，松果的家庭遭遇了一场变故——松果的父亲在一场施工事故中，几乎失去了双臂。
+	与各大公司的劳务纠纷，在哥伦比亚的工人间并不罕见。在文字游戏和阴谋论之中成长起来的保险行业自然也有无数种话术来对付可怜的受益人。而公司方面当然也不愿意承担起如此高额的医疗费。在各方来回踢皮球的时间里，医院也拒绝治疗一个极有可能付不出一分钱的工人。而造成这一切悲剧的根源还在于，松果的父亲签署的合同从一开始就被动了手脚。他们合法地、体面地剥夺了松果父亲的赔偿权益。
+	可谁又能说一个想让女儿离开那座小镇、拥有美好未来的父亲是咎由自取的呢？只是雇佣一位普通的建筑工人就准备了几十页厚的合同文件，某些人的居心叵测，昭然若揭。
+	松果安慰着以泪洗面的母亲，眼睁睁看着父亲签署了放弃治疗的出院协议——而就在此时，作为项目重要材料供应商之一的某家公司，突然出于“人道主义”拨了一笔不菲的救助款，垫付了医疗费。并且在这之后，那些躲藏在玻璃门后的负责人们突然愿意走出办公室，主动来到医院向松果一家赔礼，并承诺进行补偿。这前后巨大的反差让松果摸不着头脑，可无论她事后如何打听，也只能从不耐烦的负责人嘴里听说一个“西蒙公司”的名号，不过“西蒙”这个名字在哥伦比亚遍地都是，到底是谁帮助了他们，松果也是在很久之后才知道的了。
+	就像当时，因为偶然得知了某起不光彩的劳务纠纷，而在会议上深感愤慨地说了两句话的山，其实也不知道他的小小举动救下的到底是谁。
+
+	第四資料 :
+	数年前、パインコーンの家に災難が降り注いだ――彼女の父親は建築現場の事故で、両腕を失いかけていた。
+	各大企業との労働争議は、クルビアの労働者の間では珍しいものではない。言葉遊びや情報操作に親しみながら育まれた保険業界には、哀れな受益者に対する支払いを免れるための言い訳が、数え切れないほど用意されている。一方、企業側に高額の医療費用を負担する気があるわけもない。こうして各方面で責任の押し付け合いが行っている間に、病院が費用を出せない可能性が非常に高い労働者の治療を拒否してしまう。このような悲劇の根源は、往々にして労働契約にある。パインコーン一家にとっても同様であった。企業は最初から契約の文言に落とし穴を仕掛けることで、あくまでも合法的に、涼しい顔をして、パインコーンの父親の賠償請求権を奪っていたのである。
+	だが、娘に明るい未来を歩ませるために、彼女を町から出してあげたい一心の父親が、仕事を求めて労働契約にサインしたとして、それを自業自得だと誰が言えるだろうか？どこにでもいる建築職人一人を雇うためだけに何十枚もの分厚い契約書を用意した者たちの、その醜い下心は丸見えである。
+	パインコーンは終日涙を流す母親を慰めながら、治療を放棄すること、及び退院することへの同意書にサインするしかない父親を、己の無力さを噛み締めながら眺めていた――が、ちょうどその時、プロジェクトの重要な建材提供会社の一つが、急に「人道に則り」かなりの額の救助金を出して、彼女の父親の医療費を賄った。さらに、これまで対応を渋っていた責任者たちが態度を一変して病院に出向き、パインコーン一家に謝罪し、賠償まで約束したのである。あまりの態度の落差に、パインコーンはわけもわからず、その後どのように聞き回っても、せいぜい責任者から「サイモン社」という名を聞き出せたくらいだった。だが、「サイモン」という名は、クルビア全土で見られるありふれた名前にすぎず、パインコーンが実際に助けてくれたのが誰なのかを知れたのは、だいぶ先のことだった。
+	あの時、自社の恥とも言えるような労働争議を偶然知り、会議で義憤をもって問題処理に口を挟んだマウンテンが、自分の小さな行動が誰を助けたのかも知らないままだったように。
+
+	Archive File 4 :
+	A few years ago, a sudden, unexpected event shook Pinecone's family—Pinecone's father almost lost both his arms in a construction accident.
+	It isn't uncommon to find Columbian laborers wind up in disputes with the big corporations. The insurance industry, having been built atop these games of words and conspiracies, naturally had a way with words to weasel out of paying their benefits. Of course, it should come as no surprise that the insurance companies were unwilling to pay for a medical bill this expensive. And while all parties involved were still trying to pass the buck, the hospitals naturally refused to treat a workman who was unlikely to be able to pay for his treatment. The reason this tragedy occurred in the first place is that Pinecone's father had signed a contract that was manipulated, allowing the construction company to legally get away from paying him any compensation.
+	Who could say a father who only ever wanted the best for his daughter and did everything to help her leave that small town was to blame? The contract he had to sign just to be hired as a construction worker was dozens of pages thick; it shouldn't be hard to tell where the problem actually lies.
+	All Pinecone could do was comfort her crying mother as her father signed his release forms, thus refusing any further treatment—Yet, out of nowhere, one of the material suppliers on the project sent them a substantial sum and footed the medical bill out of 'humanitarian concerns.' After that, the construction company's head honchos finally found the time to leave their offices and pay Pinecone's family a visit at the hospital, even promising to properly compensate her family. Naturally, Pinecone was bewildered by the company's sudden change in attitude after this secret benefactor came into the picture. She tried over and over to figure out who they were, but, after her constant probings, the construction company would only give her the name 'Simon Co.' 'Simon' is a very common name in Columbia, and it took a very long time for Pinecone to find out who it was that helped her family.
+	Similarly, even though Mountain was certainly seething when the disgraceful labor dispute was brought up during a meeting, he didn't actually know whose family his subsequent tirade had saved.
+
+	파일 자료 4 :
+	    수년 전, 파인콘의 가정에 변고가 닥쳤다. 파인콘의 아버지가 공사 사고로 양 팔을 잃을 뻔한 것이다.
+	    컬럼비아에서 노동자와 대기업 사이에 발생하는 노동 분쟁은 그리 드문 일이 아니다. 하지만 말장난과 음모론을 바탕으로 성장한 보험 회사는 불쌍한 수혜자를 상대하는 온갖 화술을 구비하고 있었고, 회사 측에서도 거액의 치료비를 부담하고 싶지 않아 했다. 서로가 책임을 전가하는 사이, 병원 역시 한 푼의 치료비도 받지 못하게 될까 우려한 나머지 파인콘의 부친의 치료를 거부하게 되었다. 이 모든 비극의 원인은 파인콘의 아버지가 서명한 계약서가 처음부터 불리하게 조작되었다는 데에 있었다. 그들은 뻔뻔하게도, 합법적으로 파인콘의 아버지가 가지는 배상 권익을 박탈했다.
+	    딸아이가 작은 마을에서 벗어나는 아름다운 미래를 그렸던 아버지에게, 과연 그 누가 자업자득이라 말할 수 있겠는가? 그저 평범한 건설 노동자를 고용하면서도 수십 장에 달하는 두꺼운 계약 서류를 준비한 누군가의 음흉한 속내가 드러났을 뿐……
+	    파인콘이 눈물을 흘리는 어머니를 위로하면서 치료를 포기하겠다는 퇴원 합의서에 서명하는 것을 지켜보던 순간, 프로젝트의 중요 자재를 공급하던 어느 회사에서 돌연 '인도주의'를 발휘하며 구호금을 내놓고는, 치료비 역시 대신 지불해 주었다. 그 후엔 유리문 뒤에 숨어있던 책임자들이 갑작스레 사무실에서 뛰쳐나와 자발적으로 병원에 찾아오더니 파인콘 가족에게 사과하며 보상을 약속하였다. 이 엄청난 반전에 어안이 벙벙해진 파인콘은 책임자들에게 끈질기게 달라붙어 물어본 결과, '사이몬 컴퍼니'라는 이름만을 들을 수 있었다고 한다. 이후 오랜 시간이 지나 '사이몬'이라는 이름이 컬럼비아 곳곳에 퍼져나가자, 파인콘은 그제서야 누가 자신의 가족들을 도왔던 건지 알게 되었다.
+	    그때 우연찮게 불명예스러운 노동 분쟁을 알게 되어 회의 도중 분노에 찬 말을 했던 마운틴은, 당시 자신의 작은 행동이 누구를 구한 건지 알지 못했다.
+
+———————————————————————————————
+
+	晋升资料 :
+	【权限记录】
+	以松果的身份、年龄，她本不该被卷入曼斯菲尔德的事件。不知道卡夫卡小姐是病急乱投医还是另有考虑，毕竟松果是否真的能对计划起到关键作用，我想卡夫卡小姐自己都不敢确定。
+	但，松果为什么答应了卡夫卡提出的要求呢？一个正常的、天真烂漫的女孩，突然被告知要前往监狱应聘工作，还要接应一位要犯逃狱，会答应吗？
+	其实答案很简单。
+	当时的卡夫卡小姐在调查档案的过程中，获悉了这件事，随后她找到了那个正在人才市场找工作，而且一脸茫然的松果。
+	“我这儿有一份不错的工作......而且还关系到别的事情。”
+	“当年有个人帮了你们......”
+	“现在，轮到你帮他了。”
+
+	昇進資料 :
+	【権限記録】
+	パインコーンの身分と年齢からすれば、本来マンスフィールド事件に巻き込まれることはなかったはずだ。カフカが彼女を引き入れたのが、他に手立てがないゆえの選択なのか、それとも何か考えがあってのことだったのかはわからない。パインコーンが果たして計画の中で要となるような働きができるかどうかは、カフカ自身もおそらく半信半疑だったのだろう。
+	では、なぜパインコーンはカフカの申し出を受け入れたのか？あくまでも普通な、天真爛漫な女の子が、急に監獄へ就職して重要犯人の脱獄を手伝えと言われて、あっさり了承するものだろうか？
+	答えは至極簡単なものだった。
+	当時のカフカはプロファイルの調査を進めていた時に、件の事件を知った。そして、ちょうどその時右も左もわからないまま就職活動に勤しんでいたパインコーンを探し出した。
+	「君にちょうどいい仕事があるんだけど……ちょっと別のことも関わっててね。」
+	「昔君の家を助けた人がいたでしょ……」
+	「今度は、君がその人を助ける番だよ。」
+
+	Promotion File :
+	[Classified Log]
+	 Given Pinecone's age and upbringing, she shouldn't have been dragged into the whole Mansfield mess. I don't know if Kafka was throwing things at the wall to see what sticks or actually had something figured out. After all, my guess is that not even Kafka knew if Pinecone could actually have fulfilled her role in the plan.
+	But why did Pinecone say yes to Kafka's proposal? Would an innocent girl like her normally say yes when asked to apply to work in a prison and help a felon escape?
+	The answer is actually very simple.
+	Kafka figured out what it was when she was looking through the files, and immediately located Pinecone, who was at the time aimlessly looking for a job.
+	'I've got a pretty nice job lined up for you... Well, there's a little more to it than that.'
+	'Remember how there was someone helped you out in that whole fiasco back then...?'
+	'Now it's your turn to help him.'
+
+	승진 자료 :
+	[제한된 기록]
+	    파인콘의 신분과 나이를 생각하면, 원래는 맨스필드 사건에 연루되어선 안 되었다. 카프카가 지푸라기라도 잡는 심정으로 그런 것인지 아니면 다른 생각이 있었는지는 모르겠으나, 파인콘이 정말로 계획에서 중요한 역할을 해낼 수 있을 것인지에 대해서는 카프카도 확신하지 못했을 거라 생각한다.
+	    그런데 파인콘은 어째서 카프카의 요구를 받아들인 걸까? 천진난만한 평범한 여자아이에게 갑작스레 형무소에 취직해서 탈옥을 도우라는 요구를 한다면 대체 어느 누가 그걸 받아들이겠는가?
+	    사실 답은 매우 간단하다. 당시 카프카는 파일을 조사하며 파인콘의 부친이 겪은 사건을 알게 됐고, 인력시장에서 멍한 얼굴로 일자리를 찾던 파인콘을 찾아냈다.
+	    "괜찮은 일자리가 있어…… 부모님 일과도 관련이 있는."
+	    "당시에는 그 사람이 너희를 도왔지만……"
+	    "이젠, 네가 그 사람을 도와줄 차례야."

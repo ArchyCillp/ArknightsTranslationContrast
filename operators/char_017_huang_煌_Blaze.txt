@@ -1,11 +1,17 @@
 ID:
 	char_017_huang
 
-干员代号\Name:
+CV:
 	煌
 	ブレイズ
 	Blaze
 	블레이즈
+
+干员代号\Name:
+	中原麻衣
+	中原麻衣
+	Mai Nakahara
+	나카하라 마이
 
 招聘合同\Character Usage:
 	罗德岛最热情的精英干员，煌，将在任何地方散播她的热情。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	拜托，有时候实在是太热了。
 	情熱的と暑苦しいは紙一重。
-	Please, it's okay to dial it down a bit…
+	Please, it's okay to dial it down a bit...
 	아 제발, 가끔은 진짜 너무 덥다.
 
 信物\Potential Item:
@@ -48,177 +54,641 @@ ID:
 	끓어오르는 폭발
 
 语音\Voices:
-	我说，文职工作我可是完全做不来，让我值班真的合适吗？不如让我出战吧，有战果的话，你也会开心的吧？
 	あのね、書類仕事なんて全然できないんだけど、本当に私に執務室の当番をさせる気？それより戦いに出す方が良くない？戦果があがれば君だって嬉しいでしょ？
 	I'm telling you, I'm no good with paperwork. Are you sure you want me here in the office? I'd be better in the field; wouldn't you be happy too if I brought back some good results?
 	있잖아, 서류 작업 같은 건 전혀 못 하는데 진짜 나한테 집무실 당번을 시킬 셈이야? 그보단 전투에 내보내는 게 낫지 않아? 전투 성과가 오르면 너도 기쁘잖아?
 
-	我为感染者而战。我们的遭遇，有眼睛的人都看得很清楚，只是绝大多数人根本不在乎我们的人生。我在乎，在乎得很。罗德岛的许多干员都在为我提供支援，我绝不会辜负他们的期望。
 	感染者の為に戦う、それが私の信条。私たちに降りかかる不条理は、誰の目にもはっきり映ってるはずなのに、ほとんどの人が見て見ぬふりでしょ。でも私は見過ごせないし、見過ごさない。ロドスのオペレーターたちはみんな私をサポートしてくれる、だからみんなの期待は絶対に裏切れないんだ。
 	I fight for the Infected. Anyone with eyes can clearly see our struggle, but too many people simply don't give a damn about our lives. But I do, a whole lot of 'em too. Got a lot of Operators here counting on me, and I don't plan to fall short of their expectations.
 	감염자를 위해 싸운다, 그게 내 신조야. 우리에게 닥친 부조리함은 누구의 눈에도 분명하게 보일 텐데, 대부분의 사람이 보고도 못 본 척하잖아. 하지만 난 못 본 척할 수 없고, 못 본 척하지도 않을 거야. 로도스 아일랜드의 오퍼레이터들은 모두 날 서포트해줘. 그러니까 모두의 기대는 절대로 저버릴 수 없지.
 
-	在罗德岛工作的原因啊，自然是因为没什么地方可去吧？不，换句话说，我想不出比罗德岛条件还好的地方会是什么样。高薪，先进的配套医疗条件，还有可爱的小兔子在，简直太棒了好吗？
 	ロドスで働いてる理由？そりゃ行くところがなかったからに決まってるでしょ。いや、というよりロドスより条件のいいところは見つからないと思うよ。給料もいいし、医療設備も最新のものばかりだし、その上かわいいウサギちゃんもいる！サイッコーでしょ！？
 	You'd think I'm only working for Rhodes Island because I have nowhere better to be, right? Hardly. Put another way, I can't think of a better place to be than here. The pay's good, the medical treatment is cutting edge, and we've even got a cute little rabbit. How do you beat that?
 	로도스 아일랜드에서 일하는 이유? 그야 당연히 갈 곳이 없어서지. 아니, 그렇다기보단, 로도스 아일랜드보다 조건이 좋은 곳은 없을 거라 생각해서야. 급여도 좋고, 의료설비도 모두 최신이고, 게다가 귀여운 토깽이도 있어! 최고아니야?!
 
-	作为罗德岛攻坚干员，我既没有强到能毁灭战局的法术，也没有能一个人对抗大群敌人的战斗技巧。但是，哈，当我把我还算擅长的两样事结合到一块儿，轰，效果立竿见影！这大概就是化学反应吧。
 	私はロドスの強襲担当オペレーターって言っても、戦局をひっくり返すようなアーツも、一人で敵の大軍を相手にできる技術も持ってない。でも、へへ、私の得意技2つを組み合わせれば……ドカーン！効果バツグン！こういうの、化学反応ってやつかな？
 	As one of Rhodes Island's core attackers, I have neither the firepower to blast open the battlefield with my Arts, nor the combat skills to take down a whole group of enemies by myself. But combine the two things I'm good at, and the effect is immediate. I suppose that's what a chemical reaction looks like.
 	난 로도스 아일랜드의 강습 담당 오퍼레이터라곤 하지만, 전황을 뒤집을만한 아츠도, 혼자서 적의 대군을 상대할 수 있는 기술도 없어. 하지만 헤헤, 내 특기 두 개를 합치면…… 콰앙! 효과 만점! 이런 걸 케미라고 하던가?
 
-	阿米娅是我见过最有天分的战士之一。她对局势的判断特别清晰，她的法术我光是看着都感到害怕。只不过仔细想想，她是怎么在这个年龄是怎么获得这种实力的？真的。我宁可她没有这样的实力。
 	アーミヤちゃんは私が知る中では、一番戦士の才覚に恵まれてる子よ。戦況の判断ははっきりしてるし、あのアーツは見るだけでも震えが来る。でもよくよく考えてみれば、あの歳でどうやってこれだけの力を身に着けたのかな？正直、こんな力は持たないほうが幸せでしょうに。
 	Amiya is one of the most talented warriors I've ever met. Her judgment is clear in any situation, and her Arts even terrify me when I see them. Doesn't it make you wonder how she got that kind of power at such a young age? Really. I wish she didn't.
 	아미야는 내가 아는 사람 중에선 가장 전사로서 재질이 뛰어난 아이야. 전황 판단도 명확하고, 그 아츠는 보기만 해도 몸이 떨려. 근데 가만히 생각해 보면, 그 나이에 어떻게 그만한 힘을 갖게 된 걸까? 솔직히 그런 힘은 없는 게 더 행복할 텐데.
 
-	如果需要我帮忙，别客气，开口直说！你信任我，我相信你，你指挥，我战斗，成了！现在的我们，就是罗德岛最佳拍档！啊，这些话，可别告诉阿米娅哦。
 	もし私の助けが必要なら、遠慮せず言ってちょーだい！君が私を信じて、私も君を信じる。君が指揮をとって、私が戦う、そーいうこと！私たちこそロドスのベストコンビだよね！あ、今言ったこと、アーミヤちゃんには内緒だからね。
 	If you need my help, no need to be shy - just spit it out! Put your faith in me, and I put my faith in you. You command, I fight, simple as that! Right now, we're the best partners in Rhodes Island! Oh, but don't tell Amiya I said that just now.
 	만약 내 도움이 필요하면 사양 말고 말해줘! 네가 나를 믿고, 나도 널 믿는다. 네가 지휘하고 내가 싸운다, 그런 거지! 우리야말로 로도스 아일랜드의 베스트 콤비네! 아, 방금 말한 건 아미야한테는 비밀이야.
 
-	在见到博士你之前，就已经有很多人向我提过你失忆前的事迹。当然，你好像和他们说的那个博士不太一样，我是不是也该把你们当作两个不同的人？过去的博士，以及现在的博士，哈哈。
 	君に会う前、たくさんの人が記憶喪失前の君について話してくれたよ。まぁ、今の君はあの人たちが語るドクターとはちょっと違うみたいだけどね。前のドクターと今のドクター、別人って考えたほうがいいかな？ハハッ。
 	Before I even met you, many people told me about who you were before you lost your memories. Of course, it seems that you are no longer the same person they described, so should I treat you as two different people? The past you, and now, the current you. Haha!
 	널 만나기 전에 많은 사람들이 기억상실 전의 너에 대해 말해줬어. 뭐, 지금의 넌 그 사람들이 말하는 박사와는 조금 다른 것 같지만 말이야. 예전의 박사와 지금의 박사, 다른 사람이라고 생각하는 게 나으려나? 하하.
 
-	凯尔希医生说了，总有一天你会真正担起罗德岛里属于你的那份责任。凯尔希医生救了我的命，我信任她；而她也说了，你是怎么样的人，需要我自己去确认。我会的，只要矿石病还没夺走我的生命。
 	ドクター、いつか君は自分の本当の責任を背負う日が来るってケルシー先生が言ってた。私は命を救ってくれた先生のことは信頼してるし、君は何者か、自分の目で確かめろとも言われた。もちろんそうするつもりだよ、鉱石病が私の命を奪うまではね。
 	Dr. Kal'tsit said that one day, you will truly shoulder the responsibility that Rhodes Island has placed upon you. Dr. Kal'tsit saved my life, and I trusted her; She also told me to confirm what kind of person you are with my own eyes. I will, as long as Oripathy has not taken my life.
 	박사, 언젠가 넌 자신의 진정한 책임을 짊어질 날이 올 거라고 켈시 선생님이 말했어. 난 내 목숨을 구해준 선생님은 신뢰하고 있고, 네가 누구인지 자기 눈으로 직접 확인하라는 말도 들었어. 물론 그렇게 할 생각이야. 광석병이 내 목숨을 앗아갈 때까지는.
 
-	啊，博士，毛巾递我一下。嗯，今天的训练任务已经完成了。保证每天六小时的训练，才能一直处在备战状态，接到命令就立即出发。行啦，让你久等了，这次我们去哪？说好了，这回你出钱哦？
 	あ、ドクター、タオル取って。うん、今日のトレーニングはこれでおしまい。毎日欠かさず6時間のトレーニングを積んで、命令が来たらいつでも出られる臨戦態勢にしておかなくちゃいけないんだ。よし、おまたせー。今日はどこ行く？いい、今回はドクターの奢りだからね？
 	Ah, Doctor, pass me the towel. Mhm, just finished today's training. I can't stay combat-ready if I don't get at least six hours of training in each day. All right, I've kept you waiting long enough. Where are we going this time? If that's the plan, I trust you'll cover the bill?
 	아, 박사. 타월 좀 줘. 응, 오늘 훈련은 이걸로 끝이야. 매일 빼먹지 않고 6시간씩 훈련해서 명령이 떨어지면 언제든지 나갈 수 있는 임전 태세를 갖추고 있어야 하거든. 좋아, 오래 기다렸지? 오늘은 어디 갈까? 좋아, 이번엔 박사가 사는 거다?
 
-	要是把博士抬去寝室，会不会被人误会啊？干脆就这样子放着好了......？
 	もしドクターを寝室まで運ぶところを見られたら、誤解されちゃうかな？いっそこのまま寝かせておこうか……？
-	Would I cause some misunderstanding if I carried the Doctor to the bedroom? Maybe I should just leave things as they are…
+	Would I cause some misunderstanding if I carried the Doctor to the bedroom? Maybe I should just leave things as they are...
 	혹시 박사를 침실까지 옮기는 걸 누가 보면 오해하려나? 차라리 이대로 자게 놔둘까……?
 
-	罗德岛干员，煌，向你报道。拿着，这是可以直接调遣我的权限认可书，凯尔希医生已经签了名了。好了博士，就让其他小队看看我们的本事吧！
 	ロドスのオペレーター、ブレイズだよ。はい、これが私の配属権限委任状、ケルシー先生のサインは貰ってあるよ。さてドクター、他のチームに私たちの実力を見せてあげよう！
 	Rhodes Island Operator, Blaze, reporting in. Here, this is the authorization letter that Dr. Kal'tsit has already signed, so you can directly dispatch me. All righty, Doctor, let's show the other squads what we're capable of!
 	로도스 아일랜드의 오퍼레이터, 블레이즈야. 자, 이게 내 배속 권한 위임장. 켈시 선생님의 사인은 받았어. 그럼 박사, 다른 팀한테 우리의 실력을 보여주자고!
 
-	这样的战局我也经历过很多次了，更艰难的可能还在后面等着我们。
 	こういう戦いは何度も経験してきたけど、もっと厳しいものが後に待ってるんだろうね。
 	I've seen many battles like this, but tougher times may be waiting for us ahead.
 	이런 전투는 몇 번이나 경험했지만, 더 혹독한 것이 뒤에 기다리고 있겠지.
 
-	哈，有没有感觉周围的空气变得燥热了？没有？咦，我再加加温试试，还想着这样能炒热气氛来着......
 	フフ、周りの空気が熱くなってきたのを感じる？わからない？えーっ、じゃあもう少し暖めてみようかな。いや、ムードを盛り上げようと思って……
-	Hah, don't you feel the air getting a bit hotter? No? Eh, gotta turn things up another notch then. And here I was trying to get you fired up…
+	Hah, don't you feel the air getting a bit hotter? No? Eh, gotta turn things up another notch then. And here I was trying to get you fired up...
 	후후, 주변 공기가 뜨거워진 게 느껴져? 모르겠다고? 흐음, 그럼 조금 더 따뜻하게 해 볼까. 아니, 분위기를 띄워볼까 해서……
 
-	阿米娅、凯尔希医生、还有现在的你，罗德岛干员们承认你们，是因为你们没有放弃他们。我相信为感染者而战是正义的，博士。我们的战斗是有价值的。
 	アーミヤちゃん、ケルシー先生、そして今の君、ロドスの仲間が君たちを認めてるのは、君たちが一度だってみんなの事を諦めなかったからだよ。感染者の為に戦うことが正義だって私は信じてる。私たちの戦いにはとてつもない価値があるんだよ、ドクター。
 	Amiya, Dr. Kal'tsit, and now you as you currently are. The Operators of Rhodes Island have placed their trust in all of you, because you didn't give up on any of them. Fighting for the Infected is just, Doctor. Our fight is worth it.
 	아미야, 켈시 선생님, 그리고 지금의 너. 로도스 아일랜드의 동료들이 너희를 인정하는 건 너희가 한 번도 모두를 포기하지 않았기 때문이야. 감염자를 위해 싸우는 것이 정의라고 나는 믿고 있어. 우리의 싸움에는 엄청난 가치가 있는 거야, 박사.
 
-	要出战了吗？算我一个吧！
 	戦いに行くの？私も頭数に入れといて！
 	You gonna fight? Count me in!
 	싸우러 가는 거야? 나도 껴줘!
 
-	哦哦，指挥啊，把敌人全都干掉什么的，我还是懂的！
 	おお、私が指揮か。まっ、敵を全員片付ける方法くらい、よーく知ってるよ！
 	Uhh, the orders were uh, to get rid of all the enemies. See, I got this!
 	오… 내가 지휘야? 뭐, 적을 전부 처리하는 방법 정도는 잘 알고 있어!
 
-	攻坚干员的标准可是很高的，要跟紧我的脚步！
 	強襲オペレーターの基準は厳しいよ、私の動きに付いてきて！
 	As an assault operator, I have high standards, so you'd better keep up!
 	강습 오퍼레이터의 기준은 엄격해. 내 움직임을 따라와!
 
-	虽然有点暴力，但我可是很喜欢切裂钢铁和掩体的！
 	ちょっと乱暴だけど、かったーい金属とかシェルターを切り裂くのが好きなんだ！
 	It gets a little violent, but I like cutting steel and taking apart bunkers!
 	좀 난폭하지만 단단한 금속이나 방공호를 베어버리는 걸 좋아해!
 
-	高温气体动力学好难学的！
 	高温気体力学はめちゃムズなんだから！
 	It wasn't easy learning high-temperature gas dynamics!
 	고온기체 역학은 엄청 어렵다고!
 
-	见识下精英干员们教给我的锯技吧！
 	エリートオペレーターから教わった切断術を見せてあげる！
 	Let me show you what the other elite operators taught me about swinging a chainsaw!
 	정예 오퍼레이터한테 배운 절단술을 보여주마!
 
-	这里的温度还是太低了。
 	この辺、温度が低すぎるかな。
 	It's not hot enough here.
 	이 근처는 온도가 너무 낮은가.
 
-	听见这链锯的轰鸣了吗？
 	チェーンソーの唸り声が聞こえる？
 	Do you hear the roar of this chainsaw?
 	전기톱 우는 소리 들리지?
 
-	如果看见哪里着火了，那只是副作用！
 	もしどこかが急に発火したら、それはただの副作用だからね！
 	Don't worry if you see a little bit of fire somewhere, that's just a side effect!
 	혹시 어딘가에 갑자기 불이 붙으면 그건 단순한 부작용이니까!
 
-	不想被锯成两半的话，现在就投降吧！
 	このチェーンソーで真っ二つにされたくなかったら、さっさと投降しちゃって！
 	Surrender now if you don't want to get sawed in half!
 	이 전기톱으로 두 동강이 나고 싶지 않으면 어서 투항해!
 
-	我洒下的血只会让气氛更加热烈！
 	私が振りまく血で、大盛り上がり間違いなし！
 	My blood's only going to make this place hotter!
 	내가 흩뿌린 피로 분위기가 한껏 달아오르겠지!
 
-	鲜血染尽武器，蒸腾整片战场！
 	鮮血が武器を染め、戦場を沸き立たせる！
 	Fresh blood permeates my weapon, and spreads through the entire battlefield!
 	선혈이 무기를 물들여 전장을 끓어오르게 한다!
 
-	没有一种牺牲是无谓的，没有一种胜利是毫无代价的。
 	無駄な犠牲だって、代価のない勝利だって存在しないんだ！
 	No sacrifice is meaningless, and no victory comes without a cost.
 	무의미한 희생 따윈, 대가 없는 승리 따윈 존재하지 않아!
 
-	感染者的权利，就由感染者自己来争取。
 	感染者の権利は、感染者自身の手で取り戻す！
 	The rights of the Infected, will only be secured through the hands of the Infected.
 	감염자의 권리는 감염자 자신의 손으로 되찾는다!
 
-	下次再努力吧，我们总可以做得更好的，对不对？
 	次は頑張ろう。私たちはいつでももっと上を目指せる、そうでしょ？
 	Let's work harder next time. We can always do better, right?
 	다음엔 잘해보자. 우리는 언제든지 더 위를 노릴 수 있잖아, 그렇지?
 
-	遗憾，运气似乎没站在我们这边。
 	残念だけど、今回はツキに見放されちゃったみたいだね。
 	Unfortunately, looks like luck wasn't on our side.
 	아쉽지만 이번엔 운이 따르지 않았던 모양이야.
 
-	这次罗德岛有没有添置什么新设施啊？
 	何か新しい施設は増えたかな？
 	Did Rhodes Island get any new facilities this time?
 	뭔가 새로운 시설이 늘었나?
 
-	别，别闹！
 	や、やめてよ！
 	C-calm down!
 	하, 하지 마!
 
-	很热！我在流汗欸！
 	なんか暑くなってきたね！汗かいてきちゃったよ！
 	It's too hot! I'm melting!
 	왠지 더워졌네! 땀나기 시작했어!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，我们什么时候出任务呢？
 	ドクター、次の任務はいつー？
 	Doctor, when are we heading out on our mission?
 	박사, 다음 임무는 언제야?
+
+干员档案\Background:
+	基础档案 :
+	【代号】煌
+	【性别】女
+	【战斗经验】七年
+	【出身地】维多利亚
+	【生日】未公开
+	【种族】菲林
+	【身高】172cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ブレイズ
+	【性別】女
+	【戦闘経験】七年
+	【出身地】ヴィクトリア
+	【誕生日】非公開
+	【種族】フェリーン
+	【身長】172cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Blaze
+	[Gender] Female
+	[Combat Experience] 7 years
+	[Place of Birth] Victoria
+	[Date of Birth] Undisclosed
+	[Race] Feline
+	[Height] 172cm
+	[Infection Status] 
+	Originium crystals are distributed across the surface of her body, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 블레이즈
+	[성별] 여
+	[전투경험] 7년
+	[출신지] 빅토리아
+	[생일] 미공개
+	[종족] 필라인
+	[신장] 172cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】优良
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Excellent
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	煌，罗德岛精英干员，在机动作战、歼灭战与突袭作战中体现出了专业的战斗技巧与战术素养。现由阿米娅带领，作为攻坚战的战术核心之一发挥作用。
+
+	個人履歴 :
+	ロドスのエリートオペレーター。機動戦、殲滅戦及び奇襲作戦において高度な戦闘スキルと素質を見せている。現在はアーミヤの指揮下で、陣地戦の中心として活躍している。
+
+	Profile :
+	Blaze, an elite Rhodes Island Operator, has demonstrated professional combat skills and tactical decisionmaking in mobile operations, annihilation, and raids. Now commanded by Amiya, she is a staple for when battles get tough.
+
+	프로필 :
+	    블레이즈는 로도스 아일랜드의 정예 오퍼레이터로, 기동전과 섬멸전, 기습 작전에서 자신만의 전투 기술과 전술적 소양을 보여주었다. 지금은 아미야의 지휘 아래, 돌파 작전의 핵심 일원으로서 활약 중이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】16%    
+	干员煌有着明显的感染迹象，可能因为血液循环的缘故，矿石结晶主要分布在躯干上。
+	【血液源石结晶密度】0.24u/L 
+	因经常接触源石制品、参与源石多生区域中的作战等等缘故，煌的病况处于一个较危险的发展状态。医疗干员们只能尝试控制矿石病的发展，但煌并不愿意离开战场。
+	对于罗德岛的部分精英干员们而言，责任远大于自身的安危。这时候，我们就只能依靠罗德岛的其他干员们去关注他们的身体状况了。
+	
+	煌，你下次再不带护具出任务，我就让凯尔希医生禁止你接触酒精饮料。
+	——医疗干员Y.P
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】16%
+	明らかな感染の兆候が見られる。血液循環によるものか、結晶は主に胴体に分布している。
+	
+	【血液中源石密度】0.24u/L
+	源石製品との接触が多く、源石が多数分布するエリアでの作戦にもよく参加するため、病状の進行はかなり深刻である。医療オペレーターは進行を極力抑えようとするが、彼女が戦線離脱を拒否するため難航している。
+	一部のエリートオペレーターにとって、自身の責任は身の安全より遥かに重要な事項である。こういった場合、彼らの健康状況は他のオペレーターに頼るしかない。
+	
+	ブレイズ、今度また防具を付けないまま任務に出ようとしたら、お前に禁酒させるようにと、ケルシー先生に言いつけてやる。
+	——医療オペレーターY.P
+
+	Clinical Analysis :
+	Imaging tests reveal blurry outlines of this operator's internal organs, clouded with abnormal dark spots. Her circulatory system shows an abnormally high rate of Originium particulate matter, with other signs of Oripathy infection, we can confirm that the Operator is Infected. 
+	
+	[Cell-Originium Assimilation] 16%
+	Operator Blaze has clear signs of Infection, with crystals deposited mainly on the trunk perhaps due to blood circulation.
+	
+	[Blood Originium-Crystal Density] 0.24u/L
+	Due to frequent contact with Originium products and participation in multiple Originium-rich areas, etc., Blaze's condition is in a dangerous state of development. Medics can only try to control the progression of Oripathy, but Blaze is not willing to leave the battlefield.
+	For some of Rhodes Island's elite operators, their responsibilities are given higher priority than their own physical condition.
+	
+	Blaze, the next time you don't bring protective gear on the mission, I will have Dr. Kal'tsit forbid you from consuming alcoholic beverages.
+	--Y.P., Medic Operator
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 16%
+	    오퍼레이터 블레이즈는 감염 증상이 명확하며, 혈액 순환 때문인지 오리지늄 결정이 주로 몸통 쪽에 분포해있다.
+	[혈중 오리지늄 결정 밀도] 0.24u/L
+	    오리지늄 제품을 자주 접하고, 오리지늄 다량 발생 구역에서 작전을 수행한 탓에 블레이즈의 병세는 비교적 위험한 상태다. 메딕 오퍼레이터 역시 광석병 진행을 억제하려는 시도 정도만 할 수 있을 뿐이다. 그럼에도 불구하고, 블레이즈는 전장을 떠나려 하지 않는다.
+	    로도스 아일랜드의 일부 정예 오퍼레이터들은, 그들이 짊어진 책임의 무게는 자신의 안위를 지키는 것보다 더 막중하다고 말한다. 이럴 때 우리는, 다른 오퍼레이터들에게 그들의 몸 상태를 살펴 달라 부탁하는 것밖에 할 수 있는 게 없다.
+	
+	    블레이즈, 한 번만 더 임무 수행 시 보호 장비를 착용하지 않는다면, 닥터 켈시를 찾아가 네가 술을 마시지 못하게 하도록 조치하겠어.
+	——메딕 오퍼레이터 Y.P.
+
+———————————————————————————————
+
+	档案资料一 :
+	【源石技艺概览】
+	“其实也没什么难的。你看，你这里是个巴掌，另一边是另外一个巴掌，你两个巴掌一拍，中间的空气就被挤出去了，这就是我最常干的事儿。”
+	煌一般会用类似的语言描述自己的源石技艺，也许相对易懂，但对源石技艺的归类和研究是没有太多用处。
+	干员煌的源石技艺能急速加热指定区域内的气体，当然能达到的温度也有界限，“最多也就是超级烫的程度”。
+	不能直接作用于物体，不能超过一定范围，有些时候甚至没法造成有效的伤害，这种源石技艺对材料和目标受体的限制相当大。
+	即使如此，她也通过不断的测试和训练，发挥出了比原本源石技艺运行模式更复杂、更强烈的效果。
+	无论是利用热气流的上升做缓冲，还是通过加热区域内的空气使之快速膨胀来施加推力，又或者是极度压缩有温差的气块来创造一场小范围的爆炸，煌相当纯熟地运用着自己的源石技艺。
+	她也可以使用血液来加强源石技艺的效果，加入的血液越多，对源石技艺的增幅就越大。
+	当她环绕着热流的电锯袭向敌人，敌人会明白，面前的干员并不是个术师。
+	
+	
+	你看看这写的这是什么话，你抬头看看她的电锯，你会觉得她是个术师？不不不，她全身上下究竟哪里像术师了？！
+	——一位不愿透露身份的使用火焰源石技艺的术师干员
+
+	第一資料 :
+	【アーツ概要】
+	「そんなに難しいことじゃないよ。ほら、これ右手でしょ、これ左手でしょ、両手を叩くと、間の空気は押し出されるから。そういうこと。」
+	ブレイズはよくこういった言葉で自分のアーツを説明する。比較的に理解しやすいかもしれないが、アーツの分類と研究に貢献できないのは事実だ。
+	ブレイズのアーツは指定範囲内の気体を急速に加熱する。当然ながら、加熱できる温度に限界がある。「せいぜいめちゃくちゃ熱いくらいの程度だよ」だそうだ。
+	彼女のアーツは、物体に直接に作用しないうえに、有効範囲も限られている。さらに、有効なダメージを与えられない場合もある。つまり、作用する目標によってアーツの効果はかなり制限されているのだ。
+	それでも、テストと訓練を重ねた末、彼女は本来よりさらに高度かつ強力なアーツ効果を発揮できるようになった。
+	熱風の上昇を緩衝として利用するのも、作用範囲内の空気を加熱し、急速に膨張させて推力を出すのも、温度差を有する空気を極限までに圧縮し、小規模な爆発を起こすのも、彼女が自分のアーツをたくみに運用している証拠である。
+	さらに、彼女は自分の血液を加えることで、アーツの効果を強化させることも可能だ。加えた血液の量が多いほど、アーツの威力はより増幅する。
+	彼女が熱流を纏ったチェンソーを振りかざして敵を討つ時、相手は目の前のオペレーターは実は術師でないと悟るだろう。
+	
+	なんですの、この紹介？あのチェンソーを見て、彼女は術師だと思う人なんているはずないもの。そもそも、どこからどう見ても、あれが術師だなんてありえませんわ！
+	――火炎系アーツを扱う、某匿名希望の術師オペレーターより
+
+	Archive File 1 :
+	[Originium Arts Overview] 
+	'Actually, there's not much to it. Look, you got your one palm over here, and your other palm over there. Then you bring them together, and squeeze the air out from between them. That's pretty much what I do.'
+	Blaze generally uses language like this when describing her Originium Arts, which may make it easier to understand the nature of her abilities, but tells very little to those who are trying to research and classify Originium Arts.
+	Operator Blaze's Originium Arts can best be understood as the ability to rapidly heat gases within a specified area, though there obviously is a limit to how high she can raise this temperature, which she describes as 'approximately super-hot degrees.'
+	She cannot directly act upon objects, cannot exceed a certain range, and sometimes is unable to even cause direct damage. Her Arts is very restrictive in terms of the types of materials and receptors that can be acted upon. 
+	Nevertheless, through continuous testing and training, she has honed her Arts in a way that greatly eclipses the complexity and efficacy of the original mode of use.
+	Whether using the rise of hot air as a buffer, using the rapid expansion of air around her to generate thrust, or by supercompressing a specific amount of air to create a temperature differential capable of causing a small-scale explosion, Blaze has thoroughly understood how to utilize her Arts.
+	She is also capable of using her own blood to enhance the effect of her Originium Arts, with a greater usage of blood corresponding to a greater increase in efficacy.
+	Though sometimes mistaken for a Caster, all illusions of such are quickly dispelled when she approaches them with her heated chainsaw.
+	
+	
+	'Look, what the hell did they decide to write here? Just look at that chainsaw. Do Casters lug stuff like that around? No no, is there anything about her that says 'Caster' to you?!'
+	-A fire-based Caster who has chosen not to reveal their identity
+
+	파일 자료 1 :
+	[오리지늄 아츠 개요]
+	    "사실 어려울 거 없어. 잘 봐, 여기 네 손바닥이 있고, 다른 한쪽엔 다른 손바닥이 있지? 이제 두 손바닥을 마주쳐서 중간의 공기를 압축해서 내보내면, 그게 바로 내가 자주 써먹는 방법인 거야."
+	    블레이즈는 보통 이와 같은 방식으로 자신의 오리지늄 아츠를 설명하는데, 어쩌면 상대적으로 이해하는 데는 좋으나, 오리지늄 아츠의 분류 및 연구 방면으로는 별반 도움이 되지 않는다.
+	    오퍼레이터 블레이즈의 오리지늄 아츠는 지정된 공간 내의 기체를 급속도로 가열할 수 있는데, 물론 도달할 수 있는 온도에도 한계가 있다.
+	    "잘해봐야 엄청 뜨거운 정도지."
+	    물체에 직접적으로 작용할 수도, 일정 범위를 초과할 수도 없으며, 심지어 가끔은 유효한 대미지를 줄 수조차 없다. 이런 오리지늄 아츠는 재료나 적용 대상에 대한 한계가 굉장히 명확하다.
+	    그럼에도 불구하고, 그녀는 부단한 연습과 수련을 통해 원래의 오리지늄 아츠 운용 방식을 훨씬 더 정교하고, 강력한 효과를 발휘할 수 있도록 개선하였다.
+	    뜨거운 공기의 상승 흐름을 완충제로 사용하거나, 가열된 구역 내 공기를 빠르게 팽창시켜 추진력을 더하기도 하고, 온도차가 있는 공기 덩어리를 극도로 압축시켜 소규모 범위의 폭발을 일으키는 등, 블레이즈는 자신의 오리지늄 아츠를 굉장히 능숙하게 다루고 있다.
+	    블레이즈는 자신의 혈액을 사용해 오리지늄 아츠의 효과를 강화할 수 있어서, 투입하는 혈액의 양이 많을수록 오리지늄 아츠 강화의 정도 역시 증가한다.
+	    그녀가 뜨거운 열기가 넘실거리는 전기톱을 들고 적을 습격할 때면, 적은 자신이 마주한 오퍼레이터가 캐스터가 아니란 사실을 알게 될 것이다.
+	
+	    "여기 뭐라 쓰여 있는지 한 번 보시죠, 그리고 그 전기톱도 좀 보시고요. 블레이즈가 캐스터겠어요? 아니 아니 아니, 대체 그 여자의 어디가 캐스터 같다는 건지 전혀 이해가 가지 않습니다만?!"
+	——신분을 밝히고 싶지 않아하는, 어느 화염 오리지늄 아츠를 구사하는 캐스터 오퍼레이터
+
+———————————————————————————————
+
+	档案资料二 :
+	作为罗德岛人尽皆知的精英干员之一，煌可能是精英干员中曝光度最高的一位。不为别的，只为她易燃易炸的火爆性格，以及相当擅长造成严重破坏的战斗手法。
+	必须指出的是，其实煌非常完美地完成了自己的任务。奋斗在前线的干员中，煌算得上是数一数二的敬业。
+	只不过，也不知道是因为她参与的都是这种任务所以制造了巨大的破坏，还是她因为深谙此道所以被凯尔希医生派去了需要她的地方......煌所参与任务的争端，大多都是值得用这样奔放的手法去解决的。
+	字面上的，把争端——矿石、建筑、罪犯——等等，直接解决掉。那不就没有冲突了嘛。
+	这不意味着煌会像某些干员一样，对队友造成困扰，甚至被迫独立行动。煌的作战参与能力也是一等一的，事实上，由她担当主攻手的小队，可以放心的互相支援、防御、完成任务目标，因为煌一定会为他们顶住压力。
+	这样的煌，又有什么小队会拒绝呢？
+	不仅有，而且很多。因为煌的作战手法与战术，常常既跳脱又冒险，虽然能取得最大的战果，却也对小队成员的个人能力有着相当的要求。
+	请各位都试试三百米高空自由落体。
+	虽然她经常说“没关系，我会接好”，但这种事，神志清醒的人都不会去轻易尝试。
+	久而久之，罗德岛上下都已经十分信任这个既年轻又热情的精英干员，却从来不把她当作楷模去看待。
+	别，千万别。可别学煌那套。
+	
+	不过，信赖往往不只来源于对实力的认可。
+	煌坚定地为感染者的正当权益而战，全力付出，从无保留。
+	煌坚定地站在感染者一边，也站在所有为了公正事业奋斗的人这边。
+	“你知道她值得信任，是因为她在为你奉献生命。”
+
+	第二資料 :
+	ロドス中に名を馳せるエリートオペレーターの中、ブレイズは最も認知度が高いかもしれない。彼女の沸点の低い性格と派手な破壊を起こす戦闘スタイルはその原因である。
+	とは言うものの、彼女は完璧に任務を実行している。前線で戦うオペレーターの中で、ブレイズは間違いなく最も役目に忠実する類いに入るだろう。
+	しかし、たまたまそういった破壊が必要な任務に参加したからか、それとも適材適所の観点からケルシー医師に意図的派遣されたのか、ブレイズが参加する任務には、解決するにこういう派手な手段を取る必要があるものばかりだ。
+	文字通り、争いの源――鉱石、建物、犯罪者――などを、直接処理する。そうすれば、衝突自体が起きなくなるだろう？
+	だが彼女は一部のオペレーターみたいに仲間に迷惑をかけたり、単独行動を強いられたりすることはない。チームワークも彼女の得意分野である。彼女がアタッカーを務めるチームでは、メンバーたちは安心して連携しあい、共に目標を果たすことができる。彼女が最大な戦力支援になるからだ。
+	こんなブレイズを、受け入れないチームは果たしてあるのだろうか。
+	答えはある。しかもたくさんだ。彼女の戦闘スタイルと戦術は常軌を逸しており、危険すぎるからだ。戦果を最大にあげることはできるが、チームメンバーの個人能力は強く要求される。
+	高空三百メートルからの自由落下を試してみたらどうだ？
+	彼女は「大丈夫、ちゃんと受け止めるから」と言うが、正常な判断ができる人間なら簡単に頷くはずがないだろう。
+	こうして、この若くて情熱に溢れたエリートオペレーターはロドス全体の信頼を得ているが、皆の行動の手本になることはなかった。
+	よせ。よすんだ。ブレイズのような真似はやめろ。
+	
+	しかし、信頼というものは、実力だけによって生まれるわけではない。
+	ブレイズは感染者の正当な利益のために戦う。全力で、惜しみもなく。
+	彼女は感染者の味方であり、公平な世界のために奮闘する、全ての人の味方でもある。
+	「彼女を信頼できるのは、彼女が我々のために命を捧げ、戦っていると知ってるからだ。」
+
+	Archive File 2 :
+	Among Rhodes Island's elite Operators, Blaze may indeed be the one with the most exposure. Anything else notwithstanding, her capricious, explosive personality and her likely-to-cause-collateral-damage combat skills have given her a degree of notoriety.
+	Despite this, Blaze has an almost perfect track record for completing her tasks. Among the Operators who struggle on the front lines, Blaze is considered as one of the most dedicated.
+	Nevertheless, regardless of whether the missions she was deployed to all happened to require such firepower, or because Dr. Kal'tsit deployed her specifically knowing her capacities, most of the missions that Blaze participates in are worth solving using these rather... unrestrained methods.
+	Literally, by erasing the source of the conflict, whether it's a dispute over Originium, ownership of a building, criminal activity, etc., there won't be any conflict remaining.
+	This doesn't mean that Blaze will, like some Operators, cause trouble for her fellow Operators or even be forced to act independently. Her ability to work as part of a team is also one-of-a-kind. In fact, a team with her as the main attacker can safely focus on supporting, defending, and completing other mission objectives, because Blaze can single-handed absorb all the combat pressure for them.
+	Would any team refuse a proposition like that?
+	As a matter of fact, yes. Quite a few, actually. Because Blaze's techniques and tactics are often risky and sudden, even if she is capable of achieving the greatest results, only the most capable of team members are able to keep up with her.
+	'Please enter freefall from 300 meters,' she will often say.
+	While she reassures them, 'Don't worry, I'll catch you,' stuff like that is not well-received by the faint of heart.
+	Over time, Rhodes Island has come to trust the young and enthusiastic elite, though not enough to treat her as a role model.
+	Just don't. Whatever you do, don't try to become another Blaze.
+	However, trust does not only come from the recognition of strength.
+	Blaze is committed in fighting for the rights and interests of the Infected, never wavering in her convictions.
+	She is firmly on the side of the Infected, and stands with all who fight for a just cause.
+	'You know she's trustworthy because she puts her life on the line for you.'
+
+	파일 자료 2 :
+	    블레이즈는 로도스 아일랜드 사람이라면 누구나 아는 정예 오퍼레이터 중 한 명이며, 아마 정예 오퍼레이터들 중에서도 가장 유명한 오퍼레이터일 것이다. 그 이유는 다름이 아니라, 바로 쉽게 흥분하고 쉽게 폭발하는 그녀의 성격과 심각한 파괴를 초래하는 그녀의 전투 방식 때문이다.
+	    짚고 넘어가야 할 점은, 사실 블레이즈는 자신의 임무 만큼은 정말 완벽하게 수행한다는 점이다. 전장에서 활약하는 오퍼레이터들 중 블레이즈의 실력은 둘째가라면 서러울 수준이다.
+	    다만, 그녀가 초래하는 막대한 파괴가 수행하는 임무의 특성상 어쩔 수 없이 발생한 것인지, 아니면 그녀가 이런 일에 정통하기에 닥터 켈시가 일부러 이런 파괴력이 필요한 임무에 배정하는 것인지는 확실치 않지만…… 블레이즈가 해결해야 할 분쟁들은 대부분 그런 파괴적인 방법으로 해결되곤 한다.
+	    "말 그대로 분쟁, 오리지늄, 건축물, 범죄 같은 걸 직접 해결해버리면 되지. 그러면 문제 될 거 없는 거잖아?"
+	    그렇다고 그녀가 어느 오퍼레이터들처럼 동료들을 곤란하게 한다거나, 독자적인 행동을 강요당한다는 뜻은 아니다. 블레이즈의 작전 수행 능력은 최상급으로, 실제로 그녀가 공격 포지션을 담당하는 팀의 멤버들은 임무 수행 중 안심하고 서로에 대한 지원 및 방어에 치중할 수 있다. 이는 전부 블레이즈가 공격수로서 한 사람분 이상을 하기 때문이다.
+	    그렇다면, 이런 블레이즈를 어떤 팀에서 마다 할까 싶겠지만…… 의외로, 상당히 많은 팀들이 그녀를 꺼려하고 있다. 블레이즈의 작전 방식과 전술은 늘 파격적일 뿐만 아니라 위험하기 때문이다. 또한 그녀와 함께라면 훌륭한 업적을 달성할 수는 있으나, 그 대신 팀원들에게도 상당히 높은 능력이 요구된다.
+	    뜬금없이 작전 중에 300미터 상공에서 자유 낙하를 하라고 하면, 과연 기분이 어떻겠나?
+	    그녀는 언제나 "괜찮아, 내가 받아줄 테니까!"라고 말하곤 하지만, 정신이 멀쩡한 사람이라면 그런 짓을 할 리가 없다.
+	    시간이 지나면서 로도스 아일랜드의 사람들 모두가 이 젊고 열정적인 정예 오퍼레이터를 신뢰하게 되었지만, 그녀를 본보기로 삼거나 하진 않는다.
+	    절대, 절대로, 블레이즈의 방식을 보고 배우지 말도록 하자.
+	
+	    신뢰는 단순히 실력만 좋다고 해서 생기는 것이 아니다. 블레이즈는 꿋꿋이 감염자의 정당한 권익을 위해 싸우며, 이를 위해 혼신의 힘을 다하고 있다. 또한, 꿋꿋이 감염자의 편, 그리고 정당함을 위해 싸우는 사람들 편에 서 있다.
+	    "아시겠지만, 그녀는 신뢰할 만한 사람입니다. 당신을 위해 목숨을 걸고 있으니까요."
+
+———————————————————————————————
+
+	档案资料三 :
+	【权限记录】
+	精英干员并没什么特殊的地方。或者说，再特殊能特殊到哪里去？
+	一个干员，好吧，可能会拥有相当强的个人能力，但一个干员，面对城邦和军舰......面对那些用整个国家的工业和时间堆出来的战争机器，一个干员又能有什么胜算？
+	少说一点，三个教宗骑士拿着那种转轮铳对着你的时候，你得是什么人才能扛得住那种攻击？
+	但是，精英干员，总是会比其他干员更努力一些的。
+	虽然强不到哪里去，每一步却都可以多走一点点。
+	如果对目标造成的有效伤害不够，那就更多地研究武器的构造，和工程干员们一起想方设法地改进，锻炼，锻炼，锻炼到能拿起更重更强的装备。
+	如果没法承受更多伤害，如果自己的法术会对自己造成损伤，那就想办法去克服，带上更多药品，装上朋友研制的特制起搏器，从休克中站起来，一次次站起来，再一次加入战斗。
+	如果自己的战斗技巧始终有缺憾，那就参与进最残酷的战斗中去，用经验去弥补，用经历了无数战斗的本能去武装自己。
+	之后，再把自己的源石技艺，融合进所有的努力中去。
+	即使体检成绩终归只是“一流”的程度，在战场上贡献的力量，却可以达到“超一流”的水准。
+	
+	这就是罗德岛的精英干员。
+	当然，她读高等课程基础教材的时候还是会抓耳挠腮。虽然最后她也还是读下去了。
+	你看，精英干员，就是这样的东西。
+	
+	——■■■
+
+	第三資料 :
+	【権限記録】
+	エリートオペレーターには特別変わったところはない。あるとしても、常人の範囲を超えることはないだろう。
+	オペレーターとしては、個人能力がすこぶる高いかもしれないが、一オペレーターが城塞や軍艦など――国レベルの工業力と時間をかけて作り上げられた戦争マシンを前に、勝算はあるだろうか？
+	抑え目に言うと、例えば三人の教皇騎士を相手に、その攻撃に耐えられる人間はいるだろうか？
+	とはいえ、エリートオペレーターは並々ならぬ努力をしているのは事実だ。
+	常人の範囲を超えることはできないが、その一歩一歩は普通より遠く行けるのだ。
+	目標に十分なダメージを与えられなければ、武器の構造をさらに研究し、エンジニアたちと協力して武器を改良する。そしてより強力な武器を使いこなすために、身体を鍛えて、鍛えて、鍛えまくる。
+	ダメージへの耐性が足りなかったり、自身のアーツにより損傷を受けるのならば、それらを克服しようと努力する。さらに多くの薬品を持ち込み、友人特製のペースメーカーを装着し、気絶から何度も立ち上がり、何度も戦闘に身を投じる。
+	自身の戦闘スキルに満足できないなら、最も残酷な戦場に足を踏み入れる。経験を積み上げ、無数の戦闘で磨いた本能で自身を強くする。
+	そして、自身のアーツとその全ての努力と一体化させる。
+	身体能力測定の結果がただの「一流」でも、戦場では「超一流」の活躍を見せる。
+	
+	これがロドスのエリートオペレーター。
+	もちろん、上級コースの基礎教科書を読む時の彼女は、相変わらず頭を抱えることが多かった。それでも、彼女は最後まで読みきった。
+	ほら、エリートオペレーターとはそういうものだ。
+	
+	――■■■
+
+	Archive File 3 :
+	[Classified Log] 
+	There's nothing special about elite Operators. Or perhaps I should say, how 'special' can the already special become? 
+	Granted, any Operator may have quite a strong personal ability, but in the face of an entire city-state or a warship... facing the war machines continuously generated through the industrial capacity of an entire country, what hope does an Operator have?
+	To keep things simple, if three Apostolic knights are charging at you with miniguns, what kind of person would you have to be to deal with that kind of attack?
+	Having that said, an elite Operator will always work harder than the average Operator.
+	Even if one's strength can only make so much of a difference, each step taken indeed does help.
+	If you aren't able to deal enough damage to a target, study the structure of the weapon more, and work with the engineers to find ways of improving it. Train, train, and train more to wield heavier and stronger equipment.
+	If you aren't durable enough for the job, or if you hurt yourself with your own Arts, find a way to overcome it. Bring more medicine, install a special pacemaker installed by a friend, get back onto your feet even if your head is spinning, and join the battle again.
+	If your combat skills still have deficiencies, then throw yourself into the most brutal battles, and make up for the lack of skill with experience. Arm yourself with the instinct that you've honed over countless battles.
+	After that, integrate your Originium Arts into all your efforts. 
+	Even if your exam results can't get any better than 'Excellent,' all the power you've mustered on the battlefield can bump that up to 'Super Excellent.'
+	
+	That's what it means to be an elite Operator of Rhodes Island.
+	Of course, she still scratches her head when trying to slog through basic textbooks for her upper-level courses. But she does get through it in the end.
+	See, such is the nature of an elite Operator.
+	
+	--■■■
+
+	파일 자료 3 :
+	[제한된 기록]
+	    정예 오퍼레이터라고 뭔가 특별한 점이 있는 건 아니다. 특별해져 봤자 과연 얼마나 특별해질 수 있겠나?
+	    한 명의 오퍼레이터가, 그래 좋아, 꽤나 강한 능력을 가졌다고 치자. 하지만 오퍼레이터 한 명이 이동도시와 군함을 마주했을 때…… 국가 전체의 공업 기술, 노력 그리고 시간이 집약된 전쟁 기계를 마주 했을때, 승산이란 게 있을 수 있을까?
+	    아니면 좀 더 현실적으로, 리볼버를 든 교황의 기사 셋과 마주한다면, 얼마나 강해야 이들을 감당할 수 있겠나?
+	    이런 상황에서라도 정예 오퍼레이터라면, 언제나 일반 오퍼레이터보다 더 집요하게 노력할 거다.
+	    비록 그 힘의 차이는 크지 않더라도, 그들은 조금이라도 더 목표를 향해 발걸음을 내디디려 하겠지.
+	
+	    만약 목표에게 효과적인 대미지를 줄 수 없다면, 무기의 구조를 더 많이 연구하고, 엔지니어들과 함께 개선안을 강구하며, 더 무겁고 강한 장비를 들 수 있도록 단련에 단련을 거듭할 거다.
+	    더 이상의 대미지를 감당할 수 없다면, 혹시 자신의 마법이 자기 자신에게 대미지를 입힐 수 있다면, 그것을 극복해낼 수 있는 방법을 생각해내고, 더 많은 약품을 챙기고, 동료가 개발한 특제 심장박동기를 장착하고, 쇼크 상태에서 깨어나, 몇 번이고 다시 일어나 전장에 나가겠지.
+	    만약 자신의 전투 기술이 부족하다 생각되면, 가장 잔혹한 전투에 참가해 부족함을 경험으로 메꾸고, 무수히 많은 전투를 통해 각인된 본능으로 자신을 무장할 것이다.
+	    그리고 그 후에, 자신의 오리지늄 아츠를 모든 노력과 융합시키겠지.
+	    그러면 설령 신체검사 성적은 '일류'에 불과할지라도, 전장에서 보여주는 능력은 '초일류'에 도달할 수 있으니까.
+	
+	    이게 바로 로도스 아일랜드의 정예 오퍼레이터다.
+	    물론 그녀는 여전히 고급 과정의 기초 교재를 읽을 때면 어쩔 줄 몰라한다. 비록 마지막까지 다 읽긴 했지만.
+	    잘 봐라, 정예 오퍼레이터란 바로 이런 사람이다.
+	
+	——■■■
+
+———————————————————————————————
+
+	档案资料四 :
+	【精英干员档案】
+	1 感染者。
+	2 性格：
+	责任感，实践派。
+	3 身份相关：
+	炎，维多利亚。
+	血缘关系，外交事件。
+	感染者，游荡者，自由人。
+	禁止透露更多内容。
+	4 感染者身份相关：
+	关注，认同，服务。
+	5 战术要旨：
+	小队领袖，攻坚，自律。
+	6 ■■可能性：
+	低。
+	7 B类事件：
+	允许。推荐参与。
+	8 调动许可：
+	凯尔希，阿米娅
+	
+	新增调动许可：博士。
+
+	第四資料 :
+	【エリートオペレーター記録】
+	1 感染者。
+	2 性格：
+	責任感があり、実践派。
+	3 身分関連：
+	炎国、ヴィクトリア。
+	血縁関係、外交事項。
+	感染者、放浪者、自由人。
+	これ以上の情報開示を禁ずる。
+	4 感染者関連：
+	関心、賛同、支持。
+	5 戦術要旨：
+	チームリーダー、陣地攻撃、自律。
+	6 ■■の可能性：
+	低い。
+	7 B分類事項：
+	許可。関与することを推奨。
+	8 指揮権限：
+	ケルシー、アーミヤ
+	
+	追加指揮権限：ドクター。
+
+	Archive File 4 :
+	[Elite Operator File]
+	1. Infected.
+	2. Personality: 
+	Responsible, hard-working.
+	3. Background:
+	Yen, Victoria.
+	Blood relationship, diplomatic incident.
+	Infected, rogue, free-spirited.
+	Further information prohibited.
+	4. Regarding status as Infected:
+	Follow, identify, serve.
+	5. Tactical Overview:
+	Small-team leader, assault, self-discipline.
+	6. ■■ Potential: 
+	Low.
+	7. Type-B Assignments:
+	Allowed. Participation recommended.
+	8. Mobilization Authorization:
+	Kal'tsit, Amiya
+	
+	New mobilization authorization: Doctor.
+
+	파일 자료 4 :
+	[정예 오퍼레이터 프로필]
+	1. 감염자.
+	2. 성격:
+	책임감, 행동파.
+	3. 신원 관련:
+	염, 빅토리아.
+	혈연관계, 외교 사건.
+	감염자, 유랑자, 자유인.
+	더 이상의 내용은 접근 금지.
+	4. 감염자 신원 관련:
+	관심, 인정, 서비스.
+	5. 전술 핵심: 
+	팀의 리더, 공격, 자율.
+	6. ■■ 가능성:
+	낮음.
+	7. B유형 사건: 
+	허가. 참가 추천.
+	8. 배치 승인: 
+	켈시, 아미야
+	
+	추가 배치 승인: 박사.
+
+———————————————————————————————
+
+	晋升记录 :
+	“我连生日都不能填在档案里吗？”
+	“不能。”
+	“那我岂不是连生日会都没得过？”
+	“你可以告诉其他精英干员。”
+	“......哎，我在罗德岛也有两年多了，我有这么不值得别人信任？”
+	“错了，是精英干员们值得你信任。你和你的同僚日后一定亲密无间。我没有什么太多可以保证的事情，你为罗德岛服务，罗德岛也会帮助你。只是我确实可以保证，精英干员们是最值得你信任的人。”
+	“啊？难道能比你更可信吗？”
+	“某种意义上，是的。这也是我们选拔精英干员的标准之一。”
+	“唉......也就是说？”
+	“也就是说，你也同样值得别人去信任，煌。”
+
+	昇進記録 :
+	「プロフィールって誕生日も書いちゃダメなの？」
+	「ダメ。」
+	「ってことは誕生日会もできないの？」
+	「他のエリートに教えるのは問題ない。」
+	「……はぁ、ロドスに来てから二年も経ってるのに、私ってそんなに信用できないのかなぁ？」
+	「それは違う。君がエリートたちを信用していいということだ。君は今後、彼らときっと良い関係を築けるでしょう。私が君に保証できることは少ない。ロドスの力になれば、ロドスも君の助けとなるだろう。ただこれだけは保証しよう――エリートオペレーターは最も信頼に値する者たちだということを。」
+	「ええ？君よりも信頼できるっていうの？」
+	「ある意味では、そう。これは我々のエリート選抜基準の一つでもあるのだ。」
+	「えっと……つまり？」
+	「つまり、彼らにとって、君も同じく信頼すべき存在だ、ブレイズ。」
+
+	Promotion Record :
+	'I can't even fill my birthday into my file?'
+	'No.'
+	'Then there'll be no birthday party for me I suppose?'
+	'You can always tell the other elite Operators.'
+	'......Hey, I've spent two years at Rhodes Island. Am I that unworthy of trust?'
+	'Wrong, it is whether the elite Operators are worthy of your trust. You will develop stronger bonds with your colleagues in the future. There's not much that I can assure you. As long as you are willing to serve under Rhodes Island, then Rhodes Island will work for you as well. However, I can assure you that the other elite Operators are among the most trustworthy ones.'
+	'Hm? Even more trustworthy than you?'
+	'In a sense, yes. That is also one of our criteria for selecting elite Operators.'
+	'Hmm... In simpler terms?'
+	'That is to say, you are also worthy of the trust of others, Blaze.'
+
+	승진 기록 :
+	    "프로필에 생일도 못써?"
+	    "못씁니다."
+	    "그러면 생일 파티도 없다는 거야?"
+	    "다른 정예 오퍼레이터에게 알려주셔도 됩니다."
+	    "……아이 참, 나 로도스 아일랜드에서 산 지 벌써 2년도 넘었다고. 내가 그렇게 못 미더워?"
+	    "아니요, 정예 오퍼레이터들은 당신이 믿을만한 분들입니다. 당신과 당신의 동료들은 분명 사이가 좋아지겠죠. 제가 장담할 수 있는 일은 많지 않습니다. 당신이 로도스 아일랜드를 위해 일해 준다면, 로도스 아일랜드 역시 당신을 도와줄 겁니다. 제가 확실히 장담할 수 있는 건, 정예 오퍼레이터들은 당신이 가장 믿을만한 분들이라는 것뿐입니다."
+	    "어? 그럼 너보다 더 믿을만하다는 거야?"
+	    "어떤 의미로는 그렇습니다. 신뢰는 우리가 정예 오퍼레이터를 선발하는 기준 중 하나니까요."
+	    "어라… 그렇다면 그 말은?"
+	    "그리고 그 말은 당신 역시 신뢰할 만한 사람이라는 뜻입니다, 블레이즈."

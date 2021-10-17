@@ -80,7 +80,7 @@
 
 [name="临光"]    ——！！
 [name="ニアール"]    ――！！
-[name="Nearl"]    …!!
+[name="Nearl"]    ...!!
 [name="니어"]    ……!!
 
 [name="临光"]    那是什么声音？！
@@ -210,7 +210,7 @@
 
 [Decision(options="我没事，这算不了什么！;......;多亏临光小姐救下了我。", values="1;2;3")]
 [Decision(options="大丈夫だ。大したことはない！;……。;ニアール、ありがとう。", values="1;2;3")]
-[Decision(options="I’m fine… It’s no big deal.;…;Thanks for saving me, Nearl.", values="1;2;3")]
+[Decision(options="I'm fine... It's no big deal.;...;Thanks for saving me, Nearl.", values="1;2;3")]
 [Decision(options="괜찮아. 별일 아니다!;……;고마워, 니어 씨.", values="1;2;3")]
 
 [name="临光"]    一个人......处在那样的危险中！
@@ -335,7 +335,7 @@
 
 [name="整合运动成员"]    啊......！！！
 [name="レユニオン構成員"]    ああ……ぁぁぁ！！！
-[name="Reunion Member"]    Arghh…!!
+[name="Reunion Member"]    Arghh...!!
 [name="리유니온 멤버"]    아…!!!
 
 [name="阿米娅"]    整合运动还要继续攻击我们吗？

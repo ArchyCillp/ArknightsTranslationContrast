@@ -7,7 +7,7 @@ Collapse
 tr_01
 战地医疗 
 戦場医療
-Combat Medicine
+Battlefield Treatment
 전장 의료
 
 main_00-02
@@ -157,7 +157,7 @@ Indirect Protection
 main_01-07
 暴君
 暴君
-Tyrant
+The Tyrant
 폭군
 
 main_01-08
@@ -529,7 +529,7 @@ Courage and Mortality
 main_05-04
 没人在家
 空っぽの家
-Nobody’s Home
+Nobody's Home
 아무도 없는 집
 
 main_05-05
@@ -1234,6 +1234,93 @@ hard_08-04
 Operation Erebus-4
 매드나이트 작전-4
 
+st_09-01
+风暴突击
+
+main_09-01
+鬼魂危机
+
+main_09-02
+牌局
+
+main_09-03
+暗火四起
+
+main_09-04
+临界值
+
+main_09-05
+深池
+
+tr_19
+废墟行动
+
+main_09-06
+捉迷藏
+
+st_09-02
+灰烬中的诗
+
+main_09-07
+无辜者
+
+main_09-08
+雷声轰鸣
+
+main_09-09
+拉锯
+
+main_09-10
+鬼影如潮
+
+main_09-11
+战地救援
+
+main_09-12
+风中旗帜
+
+main_09-13
+大地滚烫
+
+main_09-14
+突围
+
+main_09-15
+维多利亚士兵
+
+main_09-16
+“破晓”
+
+main_09-17
+长夜枪火
+
+st_09-03
+临近的暴风
+
+st_09-04
+重燃
+
+sub_09-1-1
+废墟坚守
+
+hard_09-01
+暴风行动-1
+
+hard_09-02
+暴风行动-2
+
+hard_09-03
+暴风行动-3
+
+hard_09-04
+急雨行动-1
+
+hard_09-05
+急雨行动-2
+
+hard_09-06
+急雨行动-3
+
 wk_melee_1
 私人家具押运
 個人家具護送
@@ -1641,60 +1728,117 @@ act18d3_ex08
 
 act18d0_01
 赤角小镇之围
+包囲されたレッドホーン
+The Siege of Redhorn
+레드혼 마을 주변
 
 act18d0_tr01
 空援应对训练
+空中支援対応訓練
+Air Support Training
+공중 지원 대응 훈련
 
 act18d0_02
 绿洲惊雷
+オアシスの霹靂
+A Bolt From the Blue Oasis
+오아시스의 천둥
 
 act18d0_03
 仙人掌沙丘
+サボテンの丘
+Cactus Dunes
+선인장 언덕
 
 act18d0_04
 鸣沙阻击战
+鳴砂阻止戦
+Blockade of the Singing Sands
+크라잉 샌드 저지전
 
 act18d0_st01
 松心百合
+パインリリー
+Pine Lilies
+파인릴리
 
 act18d0_05
 沁礁之地
+沁礁の地
+Reefsteep's Land
+리프스팁의 땅
 
 act18d0_06
 帕夏的梦
+パーディシャーの夢
+Padishah's Dream
+파디샤의 꿈
 
 act18d0_07
 家园
+故郷
+Homeland
+고향
 
 act18d0_08
 大雪将至
+大雪来たれり
+Approaching Blizzard
+폭설 전야
 
 act18d0_st02
 异乡来客
+異郷より来る者
+Visitors From Afar
+타향에서 온 손님
 
 act18d0_ex01
 兽群战术
+群獣戦術
+Pack Tactics
+짐승 무리 전술
 
 act18d0_ex02
 双线协同
+両面戦線
+Converging Lines
+이중 작전
 
 act18d0_ex03
 远程打击
+遠距離攻撃
+Long-Range Strike
+원거리 공격
 
 act18d0_ex04
 破门而入
+強行突入
+Breaking In
+문을 부수고 들어가다
 
 act18d0_ex05
 交叉火力支援
+十字砲火支援
+Crossfire Support
+집중 공격 지원
 
 act18d0_ex06
 小队长
+小隊長
+Team Captain
+팀장
 
 act18d0_ex07
 训练有素
+熟練
+Well-Trained
+훈련 만전
 
 act18d0_ex08
 如帝国之影
+帝国の影の如く
+As the Empire's Shadow
+제국의 그림자처럼
 
 act17d7_01
 Extraordinary rap battle!
@@ -1853,7 +1997,7 @@ act16d5_04
 掌柜
 女将
 Shopkeeper
-상점 주인
+전당포 주인
 
 act16d5_05
 拙山
@@ -2314,7 +2458,7 @@ Robotic Roar
 act12d0_st01
 悍将之心
 密林の長
-Titan’s Heart
+Titan's Heart
 용장의 마음
 
 act12d0_05
@@ -2344,7 +2488,7 @@ First Come First Served
 act12d0_08
 嘉维尔之拳
 ガヴィルの拳
-Gavial’s Fist
+Gavial's Fist
 가비알의 주먹
 
 act12d0_09
@@ -2446,7 +2590,7 @@ Vengeful Soul
 act11d0_05
 冬灵挽歌
 冬霊挽歌
-Winterwisp’s Elegy
+Winterwisp's Elegy
 윈터위습 엘레지
 
 act11d0_06
@@ -2500,7 +2644,7 @@ Smell the Roses
 act11d0_ex03
 小镇边陲
 街の僻地
-Hamlet’s Edge
+Hamlet's Edge
 작은 마을의 변경
 
 act11d0_ex04
@@ -2794,7 +2938,7 @@ act5d0_05
 act5d0_st01
 晚风轻拂
 風吹く夜
-Evening Breeze’s Kiss
+Evening Breeze's Kiss
 스치우는 밤바람에도
 
 act5d0_06
@@ -3076,7 +3220,7 @@ An Unexpected Journey
 a001_04
 污点证人
 共犯証言
-Turn State’s Evidence
+Turn State's Evidence
 공범 증언
 
 a001_05

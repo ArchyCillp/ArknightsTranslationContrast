@@ -1,11 +1,17 @@
 ID:
 	char_248_mgllan
 
-干员代号\Name:
+CV:
 	麦哲伦
 	マゼラン
 	Magallan
 	마젤란
+
+干员代号\Name:
+	伊瀬茉莉也
+	伊瀬茉莉也
+	Mariya Ise
+	이세 마리야
 
 招聘合同\Character Usage:
 	莱茵生命外勤专员麦哲伦，随时准备迎接新的探险。
@@ -48,177 +54,495 @@ ID:
 	무장 타격 모드
 
 语音\Voices:
-	在下次探险之前我会一直待在你身边的，博士。有需要我的地方，请别顾虑什么，大胆地派遣我吧。
 	次の探検に出るまではずっとドクターのそばにいるよ。何か手伝ってほしいことがあったら、遠慮なく言ってね！
 	I will stay with you until the next expedition, Doctor. If you need me at your side, please do not be afraid to call upon me boldly!
 	다음 탐험에 나갈 때까진 계속 박사 옆에 있을게. 뭔가 도움이 필요하면 사양하지 말고 말해!
 
-	其实我知道博士很久了哦！嗯嗯，像是梅尔和缪缪她们，都和我说过博士你的，所以我才会想来罗德岛来看看博士你究竟是什么样子......我，我还给你带了小礼物哦！给！
 	ドクターのことは前から知ってるよ！そうそう、メイヤーちゃんやミューちゃんたちから話をいっぱい聞かされてるから。だからどんな人なのか自分の目で見てみたくて、ロドスに来ちゃった……あ、あとおみやげも持ってきたよ！ほら！
 	Actually, I've known about you for a long time, Doctor! Well, Mayer and MuMu told me all about you, so I had to come to Rhodes Island to see what you are like in person... Oh, I also brought a small present for you! Here!
 	박사에 대해선 전부터 알고 있었어! 맞아, 맞아. 메이어랑 뮤한테 이야기를 잔뜩 들었거든. 그래서 어떤 사람인지 내 눈으로 보고 싶어서 로도스 아일랜드에 왔어…… 아, 그리고 선물도 가지고 왔어! 자!
 
-	这个？这个是大帝的挂坠，就是企鹅物流的那个大帝呀，以前去企鹅物流的时候见过它好多次，真的好可爱，每次过去都会摸上好久！博士没有摸过吗？不敢？为什么？？
 	このペンダント？これはね、コーテーちゃんからもらったの。えっ？あのコーテーちゃんだよ、ペンギン急便の。あそこに行ったとき何回も会ってるんだけど、これがめちゃくちゃかわいいの！ついいっぱいモフモフしちゃうんだよね。え、モフモフはしたことない？こわい？なんで？
 	This one? This is the pendant of the Great Emperor of Penguin Logistics. I used to see it many times when I went to Penguin Logistics. I always thought it was really cute. Every time, I used to rub it a whole lot! Doctor, you've never rubbed it before? You didn't dare? Why?!
 	이 펜던트? 이건 말이야, 엠퍼러한테 받은 거야. 뭐? 그 엠퍼러 말이야. 펭귄 로지스틱스의. 거기에 갔을 때 몇 번이나 만났는데, 진짜 귀엽더라고! 나도 모르게 만지게 된다니까. 어? 만져본 적 없다고? 무섭다고? 왜?
 
-	伊芙芙最近好点了吗，在我上一次离开莱茵生命的时候，她的状态有点糟糕，真的好担心......
 	イフちゃん、もう元気になったかな？この前ライン生命から出てきたときは、なんだか調子が悪そうだったから、すごく心配だよ……。
 	Is Iffy doing better these days? When I left Rhine Lab last time, I was really worried about her condition...
 	이프, 이제 몸은 괜찮아졌을까? 저번에 라인 생명에서 나왔을 땐 뭔가 상태가 안 좋아 보였거든. 엄청 걱정돼……
 
-	梅尔最近有造什么新东西吗，我好久没有做过新的装备，也该和她一起做些研究啦。对了博士，悄悄告诉你个秘密，梅尔被人打扰的时候可是会——欸，你已经被咬过了？！
 	メイヤーちゃんの新作メカは出てるかな？最近この手の研究が全然できてなくてさ、そろそろ一緒に何か作りたいなーって思ってるんだ。そうだドクター、いいこと教えてあげるよ。メイヤーちゃんはね、仕事中に邪魔されると噛み……え？もう噛み付かれたことあるの？！
 	Has Mayer made anything new recently? I haven't worked on any new equipment for a long time so I should do some research with her. Oh right, Doctor, let me let you in on a secret on what happens when you disturb Mayer... Oh no! You've already been bitten before?
 	메이어가 만든 새 장비는 나왔으려나? 요즘 이쪽 연구가 전혀 안 되고 있어서… 슬슬 함께 뭔가 만들어 볼까 하고 생각하고 있거든. 참, 박사. 좋은 거 알려줄게. 메이어는 말이야, 일할 때 방해를 하면 물어…… 뭐? 벌써 물린 적 있다고?!
 
-	我的无人机和咪波、西绪福斯、柯克西卡什么的，从操控原理上就不一样，使用数量有限制也是没有办法的事啊。不过，新的系统已经在开发了，过不了多久，哼哼哼，尽情期待吧！
 	あたしのドローンはミーボ、シーシュポス、ココシュカなんかとはそもそも操縦原理が違うから、一度にたくさん飛ばせないのはしょうがないんだよ。でも新しいシステムも開発中だから、そのうちね。ふっふーん、お楽しみに！
 	My drone and Meeboo, Sisyphus and Kirkika, are not controlled the same way. There is no limit to the types of uses they can have. However, there is currently a new system under development and it will soon be ready. Hehe, I'm looking forward to it.
 	내 드론은 미보, 사이시퍼스. 코코슈카와는 조종 원리부터 다르니까 한 번에 여러 개를 날릴 수 없는 건 어쩔 수 없어. 하지만 새 시스템도 개발 중이니까 얼마 안 남았어. 후후, 기대해!
 
-	极北吗？那是个冰冷又残酷的梦境，但是啊，就是在那样的地方，埋藏着我的梦想。为了让美梦成真，我愿意一切付出努力去获得它。
 	極北ね…あそこは寒くて過酷だけど、きっと私の夢と理想がどこかに眠ってるんだ。夢を叶えるためなら、努力を惜しむつもりなんてないんだから！
 	The Polar North? The dreams that are buried there are cold and cruel, but... in order to make my dreams a reality, I am willing to do anything it takes.
 	북극 말이지… 거긴 춥고 가혹하지만 분명 내 꿈과 이상이 어딘가에 잠들어 있을 거야. 꿈을 이루기 위해서라면 노력을 아낄 생각 같은 건 없으니까!
 
-	“小小园丁，小小花，开在屋檐下，没人照料它......”这是伊芙芙以前最爱的读本，可能是因为主人公和她境遇相同吧。但......她好像忘记了这本书，真奇怪。
 	「軒下に佇む小さな庭師と小さな花。目に止める人は誰もいません……」この本、イフちゃんが昔好きだったなぁ。主人公と自分の名前が同じだからかな？でもイフちゃん……本のことを何も覚えてないみたい。うーん、どうしたのかなー。
 	'The tiny gardner, and the tiny flower, growing under the tile with no one to care for it...' This was Iffy's favorite story to read, perhaps due to how she can relate to it. However... she seems to have forgotten the book here. How odd.
 	"처마 밑에 우두커니 서 있는 작은 정원사와 작은 꽃. 눈여겨보는 이는 아무도 없습니다……" 이 책, 이프가 옛날에 좋아했었는데. 주인공과 자기 이름이 같아서 그랬을까? 하지만 이프는…… 이 책이 전혀 기억나지 않나봐. 으음~ 왜 그런 걸까~
 
-	极北啊......那是个既神秘又美丽的地方。高耸的断崖，缀满积雪的孤独大树，闪耀着光芒的源石棱晶，绵延至大地尽头的无垠雪地......博士，一起去吧。和我一起去吧，好吗？
 	北の地はね、とても神秘的で美しい場所だよ。たっかーい崖に、雪に覆われた大きな木に、光輝く源石の結晶、それから地の果てまで広がる雪……ドクター、一緒に行こっ？あたしと一緒に！ねぇ、いいでしょ？
 	The Polar North...that place is both mysterious and beautiful. The towering cliffs, the lonely, snow-covered trees, and the source of the radiant snow all stretch to the end of the earth. Doctor, you should go with me. Let's head there together, okay?
 	북쪽 땅은 말이야, 무척이나 신비롭고 아름다운 곳이야. 드높은 절벽, 눈으로 뒤덮인 커다란 나무, 반짝이는 오리지늄 결정, 그리고 땅끝까지 펼쳐진 눈…… 박사, 같이 가자. 나랑 같이! 응? 괜찮지?
 
-	博士？博士不可以！如果睡着的话，会没命的！
 	ドクター？寝ちゃダメっ！ここで寝たら死んじゃうよ！……このセリフ、一回言ってみたかったんだー。
 	Doctor? Doctor you can't! If you fall asleep, you'll freeze to death!
 	박사? 잠들면 안 돼! 여기서 잠들면 죽어! ……이 대사, 한번 해보고 싶었어~
 
-	莱茵生命科考专员麦哲伦，发现了一艘神秘的科研船？哇哇哇，你，你是罗德岛的博士吧，啊嗯......要不要加入我的探险队呢？很有趣的！
 	ライン生命観測員マゼラン、未知なる探査船を発見……って、うわっ、き、君はロドスのドクターだよね？えーっと……あたしの探検隊に入る気はない？毎日わくわくが待ってるよ！
 	Rhine Lab Commissioner Magallan discovered a mysterous research ship? Woah, y-you're that doctor from Rhodes Island, Ahem... Would you like to join my expedition? It'll be very interesting!
 	라인 랩 관측원 마젤란, 미지의 탐사선을 발견…… 잠깐, 앗! 너, 너는 로도스 아일랜드의 박사지? 저기…… 내 탐험대에 들어올 생각 없어? 매일 두근거림이 기다리고 있어!
 
-	效率提升了呢。
 	効率改善！
 	The efficiency has improved.
 	효율 개선!
 
-	升级完成！现在设备的反应速度，要比之前快上一倍哦。
 	アップデート完了！システムの反応速度がこれまでの倍になったよ！
 	Update completed! Now the response speed of the device is twice as fast as before.
 	업데이트 완료! 시스템 반응속도가 지금까지의 두 배가 됐어!
 
-	如果博士想看看我研究的成果，我也必须要展现一下我的实力了！哼哼哼，事先说好，我可是很强的，可不要被吓到哦！
 	ドクターがあたしの研究成果を見たいっていうなら、ちゃんとあたしの実力を見せてあげなくちゃね！ふっふーん、先に言っとくけど、あたしのすごさに腰を抜かさないでね！
 	Doctor, if you want to see the results of my research, then I must also demonstrate my strength! Hehehe, just so you know, I'm very strong, so don't be scared!
 	박사가 내 연구 성과를 보고 싶다고 하니까 제대로 내 실력을 보여줘야겠네! 흐흥, 미리 말해두지만 내 대단함에 깜짝 놀라지 말라구!
 
-	勘探和支援就交给我吧！
 	探索と支援ならあたしに任せて！
 	Leave the exploration and support to me.
 	탐색과 지원이라면 나한테 맡겨!
 
-	各位，要注意保持联络哦，哔哔！
 	みんなー、密に連絡を取り合って行動するんだよ！ピピー！
 	Everyone, maintain communication, over!
 	다들~ 긴밀히 연락하면서 행동해야 해! 삐삐~!
 
-	还得调试下设备......好了！
 	設備の調整があとちょっとで……よし！
 	Need to calibrate the equipment...Done!
 	설비 조정이 곧 끝나…… 됐어!
 
-	无人机调试完毕，随时可以升空。
 	ドローンの調整もオッケー！いつでも飛ばせるよ。
 	Once the drone is commissioned, it can take off at any time.
 	드론 조정도 오케이! 언제든지 날릴 수 있어.
 
-	嗯！
 	おー！
 	Sure!
 	오~!
 
-	需要我的技术了吗？
 	あたしの技術が必要でしょ？
 	Do you need my skills?
 	내 기술이 필요하지?
 
-	开始工作！
 	お仕事スタート！
 	Time to start working!
 	업무 스타트!
 
-	设备运行良好！
 	システムオールグリーン！
 	The equipment is working fine!
 	시스템 올 그린!
 
-	目标就位了吗？好，无人机激活！
 	ターゲットが位置についたね？よし、ドローン起動！
 	Is the target marked? Ok, the drone is launched!
 	타겟이 위치에 도착했지? 좋아, 드론 기동!
 
-	就是现在！雪盲可是很可怕的哦！
 	いけーっ！雪の照り返しで目眩ましだよっ！
 	Now! Snow blindness is a terrible think, you know!
 	가라! 눈의 반사광으로 눈속임이다!
 
-	3......2......1！
 	3……2……1！いっけー！
-	3… 2… 1!
+	3... 2... 1!
 	3......2......1!
 
-	“花啊！绽放吧！”
 	お花ちゃんたち！咲き誇れ！
 	'Bloom, my flowers!'
 	꽃들아! 활짝 피어라!
 
-	当心啊，那里是扫描盲区！呃，已经清空了？不愧是博士，真可靠呢。
 	気をつけて！スキャン範囲外のエリアはまだ危な……え、もう片付けた？さっすがドクター、頼もしいねっ！
 	Watch out, that's a blind spot! Huh, it's already over? As expected, Doctor, you're so reliable.
 	조심해! 스캔 범위 바깥 지역은 아직 위험…… 어? 벌써 정리했어? 역시 박사야. 믿음직해!
 
-	没有其他敌对反应了。
 	周囲に敵反応ナシっ！
 	There are no other hostile signals.
 	주위에 적 반응 없음!
 
-	附近还有人，要追击吗？
 	まだ敵が残ってるけど、追いかけたほうがいーい？
 	There are still enemies nearby. Will you pursue them?
 	아직 적이 남았는데, 쫓아가는 게 나을까?
 
-	被包抄了？是我的失误......
 	か、囲まれてるっ……あたしのせいだね……ごめん……。
 	We've been surrounded? Its my fault...
 	포, 포위당했어…… 나 때문이구나…… 미안……
 
-	唔？居，居然有地暖！啊~太好了~
 	ん？床暖房まであるの！？あーもうサイコー！
 	Huh? Th-there are even heated floors?! Ahh~ this is bliss~
 	응? 바닥 난방까지 있어?! 아~ 진짜 최고야~!
 
-	唉？
 	あれっ？
 	Huh?
 	어라?
 
-	走嘛走嘛，溜冰没那么可怕的，有我在呢。
 	ねぇドクター、スケート行こうよ！あたしがついてるから怖くないよ！
 	Lets go, Lets go! Ice skating is not that scary with me here.
 	있잖아 박사, 스케이트 타러 가자! 내가 붙어 있을 테니까 무서워할 거 없어!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	有什么事吗？
 	ん？なーに？
 	Do you need something?
 	응? 무슨 일이야?
+
+干员档案\Background:
+	基础档案 :
+	【代号】麦哲伦
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】10月17日
+	【种族】黎博利
+	【身高】 160cm
+	【矿石病感染情况】
+	体表未发现任何源石结晶，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】マゼラン
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】10月17日
+	【種族】リーベリ
+	【身長】160cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布は見られない。非感染者に認定。
+
+	Basic Info :
+	[Codename] Magallan
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Columbia
+	[Date of Birth] October 17
+	[Race] Liberi
+	[Height] 160cm
+	[Infection Status] 
+	Originium crystals not present on the body. Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 마젤란
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 컬럼비아
+	[생일] 10월 17일
+	[종족] 리베리
+	[신장] 160cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 확인 안 됨, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】优良
+	【战斗技巧】普通
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】優秀
+	【戦闘技術】普通
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Standard
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Excellent
+	[Combat Skills] Normal
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 우수
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	麦哲伦，莱茵生命实验室外勤专员，在合作协议的作用下，暂计划以罗德岛为据点，开始新一轮的探索活动。擅长操控高度模块化无人机，因地制宜进行攻击或支援友军。
+
+	個人履歴 :
+	ライン生命の外勤専門員。提携協定の下で、しばらくの間ロドスを拠点とし、新たな探索活動を開始している。高度モジュール化したドローンの操縦に長け、様々な状況に応じて攻撃や支援を行う。
+
+	Profile :
+	Magallan is a field specialist employed by Rhine Lab, operating under a cooperation agreement with Rhodes Island. She is currently based with us as she prepares to launch a new expedition. Magallan is skilled in the operation of highly modular drones, using them for attack or support as the situation dictates.
+
+	프로필 :
+	    마젤란, 라인 생명연구소의 외근 전문 연구원. 협력 계약에 따라 잠시 로도스 아일랜드를 거점으로 삼고, 새로운 탐색 활동을 진행하고 있다. 고도로 모듈화된 드론을 다루는데 능숙하며, 지형에 맞는 적절한 공격이나 아군 지원 작전을 수행할 수 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员麦哲伦没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.14u/L
+	常在未知地域里活动，一定要做好相关防护措施哦。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.14u/L
+	常に未知の地域で活動しているため、関連防護措置を必ずしっかり取ること。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Magallan shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.14u/L
+	Regularly operates in unknown environments, must take appropriate protective measures.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 마젤란은 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.14u/L
+	자주 미지의 땅에서 활동하니, 반드시 관련 방호 대책을 수립할 것.
+
+———————————————————————————————
+
+	档案资料一 :
+	【源石技艺概览】
+	“麦哲伦定制探险套组，内含泛用型多功能测绘仪与龙腾式支援无人机，鲁特拉工作室、莱茵生命科研设备研发科联合出品！”
+	
+	泛用型多功能测绘仪
+	高温、高寒、高压，全环境稳定工作。
+	超长续航、高效充能，保证运行时间。
+	误差范围＜1mm，符合顶级测绘要求。
+	改良激光口，测量/攻击/照射一端多用。
+	内置各式软件，合理使用，对身心有益。
+	
+	龙腾式支援无人机
+	已装载模块数：4
+	普通模式可操控无人机上限：2
+	【保密】模式可操控无人机上限：5
+	备用无人机：3
+	请根据实际情况装配及使用无人机
+	以下为模块列表
+	R23模块：高效制冷模块。默认散布时迟滞目标，激活后可直接冻结。
+	LRBD模块：激光开采模块。默认启用时可对正下方发射工业级射线，激活后短时间增强功率。
+	66号模块：武装打击模块，默认与测绘仪的攻击端口共享目标，开启即可对范围内目标进行攻击，激活后所有攻击端口都将获得大幅提升。
+	【保密】模块：效果未知，请联系模块安装者以获取具体信息。
+	
+	欸，我是看了什么？我不是术师干员吗？这是什么？
+	——术师干员Z.R在报告下的批注
+
+	第一資料 :
+	【アーツ概要】
+	「マゼラン式探検セットは、汎用型多機能セオドライトと支援型ドローンDDFを含めた、ラボ・ルトラとライン生命医科学研究所設備開発課による共同開発された製品です！」
+	
+	汎用型多機能セオドライト
+	高温、厳寒、高圧、あらゆる環境で安定して動作します。
+	長い連続動作時間と高効率充電で、稼働時間を保証します。
+	誤差範囲は1mm未満、トップクラスの測量のニーズにお応えします。
+	レーザー照射口を改良し、測量・攻撃・照射と様々な使い分けが可能。
+	内蔵された各種ソフトウェアを使いこなすことで、心身ともに積極的な効果が得られます。
+	
+	支援型ドローンDDF（ドローン・ドラゴンフライ）
+	搭載済モジュール数：4
+	通常モード時コントロール可能なドローン数上限：2
+	【シークレット】モード時コントロール可能なドローン数上限：5
+	予備用ドローン数：3
+	実際の状況に応じたドローンの設置と使用をお願いします。
+	以下モジュールリスト：
+	R23モジュール：タイプF・フリーズ。散開時はターゲットの動きを鈍らせ、認証後は直接目標を凍結する。
+	LRBDモジュール：タイプL・レーザー。起動時は下方に工業レベルのレーザーを照射、認証後は短時間出力を増強する。
+	66号モジュール：タイプA・アタック。セオドライトの攻撃ポートとターゲットを共有しており、起動時は即範囲内の目標に攻撃を行い、認証後は全ての攻撃ポートが大幅にパワーアップする。
+	【シークレット】モジュール：効果はまだ不明。詳しい情報については当モジュールをインストールした者にご連絡ください。
+	
+	え、私は今何を見てたの？私って術師オペレーターなんだよね？何なのこれ？
+	——術師オペレーターZ.Rによる報告書の最後の注釈により
+
+	Archive File 1 :
+	[Originium Overview] 
+	'Lutra Workshop and Rhine Lab Development joined forces to create Magallan's custom-made exploration suit. It includes a wide variety of sensor systems, as well as an Egret-type support drone!'
+	
+	Multi-functional survey sensor systems
+	High temperature, low temperature, high pressure, all-environment work capability.
+	High endurance, high efficiency, guaranteed operation time.
+	Error tolerance <1mm, meets the highest testing standards.
+	Improved laser port for measurement/attack/radiation, one tool with many functions.
+	Internal systems come with all the latest software for your convenience.
+	
+	Egret-type support drone
+	Preinstalled modules: 4
+	Number of drones that can be controlled under normal operations: 2
+	Number of drones that can be controlled under [redacted] operations: 5
+	Backup drones: 3
+	Be sure to equip your drones as appropriate for the situation on the ground.
+	Module list:
+	R23 module: High efficiency refrigeration module. Default operations impede targets, capable of freezing on activation.
+	LRBD module: Laser mining module. Default operations fire an industrial laser at the target, capable of increasing power output for a short time upon activation.
+	#66 module: armed attack module, default operations make use of the survey apparatus's assault port. When enabled, attacks a target within range. Activation greatly upgrades the assault port.
+	[Redacted] module: effects unknown, please contact the module technician for more information.
+	
+	Huh? What's this supposed to be? Am I not a Caster? What's going on?
+	--Caster Operator Z.R.'s note upon reading the report.
+
+	파일 자료 1 :
+	[오리지늄 아츠 개관]
+	 "마젤란 커스텀 탐험 세트, 다양한 기능을 갖춘 범용성 세오돌라이트와 드래곤플라이식 지원 드론을 포함하고 있는 상품으로, 랩 루트라와 라인 생명연구소가 공동 개발!"
+	
+	범용성 다기능 세오돌라이트
+	·고온, 고한, 고압 등 모든 환경에서 안정적으로 작동
+	·고효율 충전으로 초장시간 연속 작동 가능
+	·오차 범위<1mm, 최상급 지도 작성 조건에 부합
+	·개량 레이저 포트: 측량/공격/조명 올인원
+	·합리적인 사용으로 심신에 유익한 각종 내장 소프트웨어
+	
+	드래곤플라이 지원 드론
+	·장착 모듈 수: 4
+	·일반 모드 시 조종 가능 드론 갯수 한도: 2
+	·[기밀] 모드 시 조종 가능한 드론 한도: 5
+	·예비용 드론: 3
+	·실제 상황에 따라 드론을 장착 및 사용하세요.
+	
+	모듈 목록
+	·R23 모듈: 고효율 냉각 모듈. 분산 시 목표 움직임 둔화, 활성화 후 바로 동결 가능
+	·LRBD 모듈: 레이저 채굴 모듈. 기본 실행 시 정방향 하단을 향해 공업용 레이저 발사 가능, 활성화 시 짧은 시간 동안 출력 강화
+	·66호 모듈: 무장 공격 모듈. 기본적으로 세오돌라이트의 공격 포트와 목표 공유. 실행 시 바로 범위 내 목표 공격, 활성화 시 모든 공격 포트가 대폭 상승
+	·[기밀] 모듈: 효과 불명. 상세 정보는 모듈 설치자에게 문의하여 주세요.
+	
+	어, 내가 지금 뭘 본거지? 나 캐스터 오퍼레이터 맞지? 뭐야 이거?
+	——캐스터 오퍼레이터 Z.R이 보고서에 남긴 코멘트
+
+———————————————————————————————
+
+	档案资料二 :
+	作为莱茵生命的外勤专员，麦哲伦很早就参与进了各类勘查项目，而人烟稀少的冰原一直是麦哲伦的主要研究目标。这可能出于兴趣，也可能出于习性。
+	通常，她会在初夏时开始任务，初冬前返回，为莱茵积累来自北方未探之地的一手资料。在之前的人事调动中，麦哲伦接到了派驻干员任命书。近期，出于工作需要，麦哲伦准备将行动基地转移到罗德岛上。
+	加入罗德岛前，出于安全性和保密性考量，麦哲伦的补给工作主要交由有经验的信使完成，麦哲伦也和许多物流公司打过交道。令人在意的是，麦哲伦似乎与企鹅物流的老板“Emperor”非常要好，好到让某些员工都产生了嫉妒之情。
+	至于原因是什么，其实没人清楚。
+
+	第二資料 :
+	ライン生命の外勤専門員として、マゼランは早い段階から各種実地踏査に参加している。人家もまばらな大氷原はずっとマゼランにとって重要な研究対象だ。これは興味によるものかもしれないし、習性によるものかもしれない。
+	通常、彼女は初夏に任務を開始し、初冬の前には帰ってくる。北方の未踏の地から持ち帰った資料をライン生命に集積するために。この前の人事異動で、マゼランは派遣駐在オペレーターの任命書を受け取った。仕事での必要性から、彼女は近日中に観測基地をロドスに移転しようと考えている。
+	ロドスに加入する前、安全性と機密性への考慮から、マゼランの補給作業は主に経験のあるトランスポーターに任せていた。そのため、マゼランも多くの物流会社とのパイプを持っている。気になるのは、彼女はペンギン急便の主宰「コーテー」とは大の仲良しのようで、一部の職員たちに嫉妬するされるほどだということだ。
+	その理由は何なのか、実は誰も知る者はいない。
+
+	Archive File 2 :
+	As a field specialist for Rhine Lab, Magallan has participated in numerous exploration projects over quite some time. her primary area of interest is sparsely populated ice sheets. Whether this is out of personal fascination or habit at this point, we cannot say. 
+	Normally, she sets out in early summer so as to return before the start of winter, gathering data herself from the unexplored land to the north of Rhine. During the last round of personnel transfers, Magallan received new orders and she began preparing to move her base of operations to Rhodes Island. 
+	Prior to arriving at Rhodes Island, Magallan's resupply was largely handled by experienced couriers, thanks mostly to security concerns. As such, she is familiar with a number of logistics firms. Interestingly, Magallan seems to have a good relationship with the boss of Penguin Logistics, 'Emperor,' such that some operators have expressed envy. 
+	Why exactly that is, no one can be certain.
+
+	파일 자료 2 :
+	    라인 랩의 외근 담당으로서, 마젤란은 매우 일찍부터 각종 답사 프로젝트에 참여해왔으며, 흥미 때문인지 습성 때문인진 알 수 없지만 주요 연구 목표는 인적이 드문 빙원이었다.
+	    보통 그녀는 초여름에 임무를 시작해 초겨울 전에 복귀하여, 라인 랩을 위해 북방 미탐구 지역의 최신 자료를 쌓아왔으며, 이전 인사이동 때 주재원 오퍼레이터 임명서를 받았다. 최근에는 업무상의 이유로, 마젤란은 작전 기지를 로도스 아일랜드로 이전하려고 준비하고 있었다.
+	    로도스 아일랜드에 들어가기 전, 마젤란의 보급 업무는 안전성과 기밀성을 고려해 주로 경험 있는 전달자에게 맡겨 완료하도록 했는데, 이 때문에 마젤란은 많은 물류 회사와 연줄이 닿아 있다. 의외인 점은, 마젤란은 일부 직원조차 질투할 정도로 펭귄 로지스틱스의 사장인 엠퍼러와 사이가 매우 좋다는 것이다. 그 원인이 무엇인지는, 사실 아무도 모른다.
+
+———————————————————————————————
+
+	档案资料三 :
+	麦哲伦的舱室建有一个隐蔽的小阁楼——这是向该走廊的工程负责人申请后允许扩建的，并没有改变舰船的固有结构，不存在类似梅尔工作间的违建问题。
+	阁楼的空间不大，但对研究而言绰绰有余。一面墙被改造成了大显示屏，麦哲伦历次探险的成果与发现的疑点列得满满当当，重要的地方还附上了实地拍摄的照片。标本和测量结果摆得到处都是，虽然已经被她整理得井井有条，却让人难免感觉到些许严丝合缝的窒息感。
+	莱茵生命的研究项目中包含了大量的尖端科技，部分研究成果甚至能让罗德岛的研究者们也无力解析。在这种情况下，即使在食堂里高喊“莱茵生命的人都是天才吗”也不会有太多干员侧目。不过，当你爬上麦哲伦的阁楼时，你会意识到，创造了成果的并不只是天赋，还有一整舱的努力。
+	甚至更多。
+
+	第三資料 :
+	マゼランの部屋には隠された小さなロフトがある。これは該当通路建築担当者に申請した拡張工事の許可が下りたもので、決してロドス艦船の構造を改造するわけではなく、メイヤーの仕事場のような違法建築問題はない。
+	ロフト自体は広くないが、研究に使うならば余裕だ。壁の一枚は大きなスクリーンに改造され、マゼランの探検成果と疑問点が列挙されており、重要なところには現地で撮影した写真も添付されている。標本や測量結果はあちこちに置いてあり、彼女によって一つ一つ整理されているが、隙のない圧迫感を感じさせるのは免れない。
+	ライン生命の研究プロジェクトには多くの先端技術が含まれており、一部の研究成果はロドスの研究者たちですら解析できないものだ。このような状況で、もし食堂で声高々に「ライン生命のやつはみんな天才か」と叫んでも、驚いて振り向くオペレーターはさほどいないだろう。しかし、マゼランのロフトに入ってみれば、成果を生み出すのは天賦の才能だけではなく、この部屋丸々一つ分の努力だと気づくはずだ。
+	あるいはそれ以上だ。
+
+	Archive File 3 :
+	Magallan's cabin was built with a small secret compartment, which upon getting approval from the operator responsible for corridor engineering was allowed to be expanded, without changing the internal structure of the ship. We won't have any problems with illegal alterations like with Mayer's workshop. 
+	The compartment remains rather small, but is big enough for Magallan to conduct her research. One wall was turned into a large display screen, showing the results of her recent expeditions, including her notes and theories, as well as photos of important places taken in the field. Specimens and test results litter the room, and although she has done her best to keep it all organized, one can't help but feel a little overwhelmed by it all. 
+	Rhine Lab's research projects involve a lot of cutting-edge technology, and some projects are beyond the capacity of even Rhodes Island's researchers to analyze. If somebody cried out in the canteen, 'are those Rhine Lab people all geniuses?' It wouldn't even raise many eyebrows. But if you climbed up into Magallan's lab compartment, you'd realize it's not just raw talent that produces such results, it's also an entire cabin's worth of effort. 
+	And more.
+
+	파일 자료 3 :
+	    마젤란의 선실에는 작은 다락방이 하나 숨겨져 있다…… 이건 이 복도의 공정 책임자에게 신청하여 확장을 허가받은 것인데, 함선의 고유 구조를 바꾸지는 않아 메이어의 작업실처럼 불법 건설 이슈는 없었다.
+	    다락방의 공간은 크지 않지만, 연구하기에는 넉넉했다. 한쪽 벽은 대형 스크린으로 개조해 마젤란의 역대 탐험 성과와 발견한 의문점이 가득 표시되어 있으며, 중요한 곳엔 실제로 찍은 사진까지 함께 걸려있다. 다만 표본과 측량 결과는 사방에 널브러져 있어, 그녀 스스로는 질서정연하게 정리했다고 하지만, 보는 사람의 입장에선 다소 숨이 막혀 온다.
+	    라인 랩의 연구 프로젝트에는 대량의 첨단 과학 기술이 포함되어 있어, 일부 연구 성과는 로도스 아일랜드의 연구자들조차도 분석할 능력이 없다.  이런 상황에 누군가 식당에서 "라인 랩 사람들은 다들 천재인거냐"라고 크게 외쳐도, 그를 흘겨보는 오퍼레이터는 많지 않을 것이다. 하지만 마젤란의 다락방에 올라가면 알게 될 것이다. 그 성과들은 재능뿐만 아니라 선실 크기만큼 가득찬 노력으로 일궈낸 것임을. 
+	    아니, 어쩌면 그 노력의 크기는 선실보다 더 클지도 모르겠다.
+
+———————————————————————————————
+
+	档案资料四 :
+	现处玻利瓦尔境内的黑流树海，卡西米尔的环山高地平原，伊比利亚水下的火山......大地上有无数值得探索的地方，人们却被眼下的纷争遮盖了好奇心。
+	麦哲伦独自一人驻足于荒凉的冰漠。在那里，她远离亲友，身处恶劣的环境之中，似乎除了手握的冰雪之外一无所有。即使她频频带回极具研究价值的考察成果，却依旧有许多人无法理解她的选择。只是，在麦哲伦心中，她所追求的目标总是清晰而明朗，从来没有半分改变——
+	儿时的歌谣萦绕在耳旁，向曾为孩童的她诉说极北被人遗忘的过往，然而，覆灭为其终曲，歌谣最后的词句让一切都失落，将一切深深埋入冰层，古老的事实由此成为传说，也不曾为铭记其事迹者敞开怀抱。
+	梦幻般的歌谣成了小麦哲伦的梦想。小时候，那些人赞许她；少年时，那些人怀疑她；成年后，那些人批评她。她的选择没人能理解，但麦哲伦不断探险的动力，既来自她对一切知识的热爱，也来自于她对梦想的坚持。
+	莱茵生命向她打开大门，接过了申请书的她选择了一个使用至今的代号——“麦哲伦”。
+
+	第四資料 :
+	ボリバルの黒流樹海、カジミエーシュの環山高地平原、イベリアの水中火山……大地には探索すべき場所が無数にあるが、人々は目下の紛争で好奇心に蓋をされてしまった。
+	マゼランは独り、荒涼たる氷雪地帯で足を止めた。家族と友人から遠く離れ、過酷な環境の中に身を置いていた彼女は、手につかめるものは雪以外に何もないように見えた。極めて研究価値の高い考察成果を多く持ち帰ったとしても、多くの人は彼女の選択を理解できないままだ。それでも、マゼランの心の中では、追い求める目標はいつも明々白々としており、少しも変わったことはない――
+	子供の頃の歌が耳から離れない。かつての幼かった彼女に、人々に忘れ去られた極北の過去を訴え続けている。しかし、覆滅がそのフィナーレとなり、最後の歌詞のように全てが失われ、深い氷の奥に閉ざされた。古い事実は伝説となり、それを書き記す者を腕を広げて迎えることもない。
+	夢のような歌は小さいマゼランの夢となった。幼い頃、人々は彼女をほめた。少女の頃、人々は彼女を訝しんだ。大人になってからは、人々は彼女を批判した。自身の選択が理解されずとも、マゼランが探検し続ける原動力は、全ての知識への熱意と夢への揺るぎない想いから来ている。
+	ライン生命はそんな彼女に門を開いた。申請書を受け取り、彼女が選んだ、そして今も使い続けているコードネームは――「マゼラン」。
+
+	Archive File 4 :
+	From the Black Flow of Bolivar to the high plains of Kazimierz to the submerged volcano of Iberia... Terra holds countless gems worthy of exploration, but humanity's curiosity has long been obscured by the haze of conflict.
+	Magallan stands alone in the desolate deserts of ice. Away from relatives, friends, and the comfort of civilization, she seems to have little to keep her company except the ice and snow in her hands. Even though the results from her expeditions yield great research value, there are many who cannot understand the choices she makes. However, Magallan's motivations are simple - the goals she wants to pursue have always been crystal clear and unwavering—
+	The nursery rhymes that were whispered into her ears as a child told her about the icy lands of the far north that had been forgotten by humanity, finally reduced to legends and tall tales. The final verses sung of an ancient history lost and buried beneath the ice, never opening their arms even to those who would try to remember them.
+	These fantasies have long been Magallan's reality. Praised as a child, doubted as a young woman, criticized as an adult. While no one can understand her choices, the motivation for Magallan's constant exploration stems from her love for the pursuit of knowledge and the persistence to chase her dreams.
+	Rhine Labs opened their doors to her, and after submitting her application, she chose the codename that she still uses today: 'Magallan.'
+
+	파일 자료 4 :
+	    볼리비아 국경 안의 블랙 플로우, 카시미어의 산을 둘러싼 평원, 이베리아의 해저 화산…… 현재 이 땅에는 탐험할만한 곳이 수없이 많지만, 사람들의 호기심은 눈앞에 닥친 분쟁에 의해 묻혀버렸다.
+	    마젤란은 홀로 황량한 빙원에 주둔하고 있었다. 그곳에서 그녀는 친구들과 멀리 떨어져, 열악한 환경에 몸을 내던졌다. 손에 담긴 눈 외에는 아무것도 없는 것 같았다. 매번 그녀가 빈번히 매우 높은 연구가치를 지닌 현지 조사 성과를 가지고 돌아와도, 여전히 많은 사람들은 그녀의 선택을 이해하지 못했지만, 다행히도 마젤란의 마음속에는 스스로 추구하는 목표가 항상 밝고 뚜렷했기에, 목표는 지금까지 조금도 흔들린 적이 없었다……
+	    어릴 적 민요는 아이였던 그녀의 귓가에 맴돌며 극북의 잊혀진 과거를 속삭였다. 하지만 그 곡의 끝은 파멸이었으며, 노래의 마지막 구절은 모든 것을 얼음 속 깊은 곳에 파묻어버렸다. 오래된 사실은 전설이 되었지만, 그것을 적은 자를 팔 벌려 맞아주는 이는 아무도 없었다.
+	    꿈같은 이 노래는 어린 마젤란의 꿈이 되었다. 그녀가 어렸을 때 사람들은 그녀를 칭찬했고, 소녀가 되었을 때 사람들은 그녀를 의심했다. 그리고 성인이 되었을 때, 사람들은 그녀를 비판했다. 아무도 그녀의 선택을 이해해주지 않았다. 하지만 마젤란이 지치지 않고 탐험할 수 있었던 원동력은, 바로 모든 지식에 대한 열정과 포기하지 않는 꿈이었다.
+	    라인 랩은 그런 그녀에게 문을 열어줬다. 신청서를 받은 그녀는 코드네임을 '마젤란'으로 선택했고, 현재까지도 그 코드네임을 계속 사용하고 있다.
+
+———————————————————————————————
+
+	晋升记录 :
+	“麦哲伦？这个研究员......我记得。很开朗的人，对各位同事也都很好，但你也知道，勘察干员的任务周期相当长，能够一直记着她的人不太多。可能伊芙利特和缪尔赛思是个例外。”
+	“她们的关系真的很融洽，毕竟，整个莱茵生命里能够让伊芙利特安静下来的也没几个。”
+	“还有缪尔赛思，那个缪尔赛思......你能想象麦哲伦和伊芙利特是怎么称呼她的吗。哈哈哈哈......咳，哼。她们叫她缪缪欸。”
+	“伊芙芙、缪缪，噗。”
+	“麦哲伦研究员......只能说，她真的很神奇。”
+	“也许，她真的和我们这些科学混账不太一样。”
+
+	昇進記録 :
+	「マゼラン？あの研究員か……覚えてますよ。すごく明るい人で、同僚たちにも親切です。でもご存じでしょう、観測員の任務期間って相当長いんですよ。彼女のことをずっと覚えてられる人はあまり多くないんですよね。イフリータとミュルジスは例外でしょうけど。」
+	「彼女たちは本当に仲が良いんですよ。だってほら、ライン生命の全体を見ても、あのイフリータを落ち着かせられる人はめったにいませんから。」
+	「それからミュルジス、あのミュルジスですよ……マゼランとイフリータにどう呼ばれてるか想像できますか？ははは……コホン。ミューちゃんって呼ぶんですよ。」
+	「イフちゃん、ミューちゃん……ぷっ。」
+	「マゼラン研究員……なんていうか、本当に不思議です。」
+	「彼女は本当に我々のような科学野郎とは少し違う、のかもしれませんね。」
+
+	Promotion Record :
+	'Magallan? A researcher... I remember her. She's very open-minded, good to all of her colleagues. But you know, survey operators go out on extremely long missions. I imagine there's very few people who could put a face to her name. Maybe Ifrit and Muelsyse are the only exceptions.'
+	'They get along very well. After all, there aren't many people at Rhine Lab who can settle Ifrit down.'
+	'And Muelsyse, that Muelsyse... Can you imagine what Magallan and Ifrit call her? Hahaha... Ah, hah. They call her Mewmew.'
+	'Iffy and Mewmew.'
+	'Magallan the researcher... all I can say is she's really something special.'
+	'You could say she's really something different from us science punks.'
+
+	승진 기록 :
+	    "마젤란? 그 연구원 말이구나…… 기억하죠. 사람이 참 밝아요, 모든 동료에게도 잘 대해줬고요. 근데 아시다시피, 관측원은 임무 기간이 엄청 길잖아요. 그래서 기억하는 사람이 많이 없어요. 이프리트랑 뮤엘시스는 아마 예외겠지만."
+	    "사이가 어떻냐고요? 엄청 좋다고 해야겠죠… 라인 랩 전체에서 이프리트를 진정시킬 수 있는 건 그 몇 명밖에 없으니까요."
+	    "그리고 뮤엘시스, 그 유명한 뮤엘시스를…… 마젤란이랑 이프리트는 어떻게 부르는지 아세요? 하하하…… 크흠, 흠. 그 둘은 뮤엘시스를 뮤라고 부른답니다."
+	    "이프, 뮤… 풉."
+	    "마젤란 연구원은…… 뭐랄까, 정말 신기한 사람인 거 같아요."
+	    "어쩌면, 마젤란은 정말 우리같은 랩(Lab)돌이 랩순이랑은 좀 다를지도 모르겠네요.”

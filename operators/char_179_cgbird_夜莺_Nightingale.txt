@@ -1,11 +1,17 @@
 ID:
 	char_179_cgbird
 
-干员代号\Name:
+CV:
 	夜莺
 	ナイチンゲール
 	Nightingale
 	나이팅게일
+
+干员代号\Name:
+	石川由依
+	石川由依
+	Yui Ishikawa
+	이시카와 유이
 
 招聘合同\Character Usage:
 	萨卡兹医师夜莺，竭尽所能为小队提供医疗支援。
@@ -48,177 +54,474 @@ ID:
 	성역
 
 语音\Voices:
-	非常抱歉，明明我的工作是照看您，但我的身体没法很好地活动......
 	申し訳ございません、お世話をするのが私の仕事なのに、身体がうまく動かせなくて……。
 	I apologize... It's my job to attend to you, but my body simply won't move like I want it to...
 	대단히 죄송합니다. 도와드리는 게 제 일인데, 몸이 제대로 움직이지 않아서…… 
 
-	因为我吸入过某种源石毒素，所以记忆和下肢神经系统都受到了损害——凯尔希医生是这样告诉我的......过去的我，到底经历过什么呢？
 	源石の毒素を吸入したせいで、記憶と下半身の神経に障害が出ていると、ケルシー先生がおっしゃっていました……一体、過去の私に何があったのでしょうか？
 	I breathed in some Originium toxin once... it damaged my memory and the nervous system in my lower extremities... at least that was what Dr. Kal'tsit told me. So I often wonder... what was my life like before then?
 	오리지늄의 독소를 흡입한 탓에, 기억과 하반신의 신경에 장애가 생겨버렸다고 켈시 선생님께서 말씀해주셨습니다… 대체, 과거의 제겐 무슨 일이 있었던 걸까요?
 
-	这只蓝色的小鸟，时常飞来和我聊天......有时候，我会梦见自己变成这孩子的模样，在天空和大地上自由自在地飞翔......
 	この青い小鳥さん、よくおしゃべりしに来てくれます……ときどき、この子の姿になった自分が、自由に空を飛ぶ夢を見るんです……。
 	This little blue bird often comes over and chats with me. Sometimes, I dream about turning into a bird myself... flying free in the skies, without a care...
 	이 파란 새는 자주 이야기를 나누러 와줘요… 이따금, 이 아이처럼 저 자신이, 자유롭게 하늘을 나는 꿈을 꾼답니다…… 
 
-	曾经，有人把我紧闭在空房间中。只有在治疗别人时，我才能见到其他人......
 	昔、誰もいない部屋に、私を閉じ込める人たちがいました。ほかの人に会えるのは、怪我をした方の治療のときだけ……。
 	Once upon a time, I was imprisoned in an empty room. The only time I ever saw someone else was when they needed my healing powers...
 	예전에, 아무도 없는 방에 저를 가둔 사람이 있었습니다. 다른 사람과 만나는 건 다친 사람을 치료할 때뿐이었죠… 
 
-	只要握住这把法杖，我就能随心所欲地治愈伤痛......这，难道也是我原本就具备的能力吗？
 	この杖を握れば、思うままに怪我を治療できるんです……これも、私が本来持っていた力でしょうか？
 	With this staff in my hand, I can heal people as much as I want. Is this... really an ability I was born with?
 	이 지팡이를 잡으면, 생각하는 대로 상처를 치료할 수 있게 되죠…… 이것도, 제가 원래 갖고 있던 힘일까요?
 
-	闪灵小姐告诉我，我们所背负着的，魔族挑起战争的罪恶，终有一天要被偿还。那些囚禁我的人也说过同样的话......可是......
 	シャイニングさんは、私たち魔族が起こした戦争の、その罪を償うべきだと教えてくれました……私を閉じ込めた人たちも同じことを言ってました……なのに……。
 	Shining told me that the sins we carry... the crime of starting the war, as Demons... will one day catch up to us and we will have to face our punishment. Those people who imprisoned me said the same thing. But...
 	샤이닝 씨는, 저희 살카즈가 일으킨 전쟁의 죄를 치러야 한다고 알려줬어요… 저를 가둔 사람들도 같은 얘길… 했었는데… 
 
-	阿米娅小姐......每次看到她，我都会产生一种怀念的感觉......我曾在哪里，见过她？
 	アーミヤさん……彼女を見ると、懐かしい感じがします……どこかで……会ったことがあるのでしょうか？
 	Amiya... I feel a sense of deja vu whenever I see her. Perhaps we met sometime in the past?
 	아미야 씨… 그분을 보면, 친숙한 느낌이 들어요… 어디선가… 만난 적이 있었던 걸까요?
 
-	对我来说，记忆只是一些零散的碎片而已......同胞、源石、使命、反抗、战争......为什么，其中一枚碎片里，有您的身影呢？
 	私には、断片的な記憶しかありません……同胞、源石、使命、反抗、戦争……どうして……その中にあなたの姿が見えるのでしょうか？
 	The memories I have are mere fragments. My people... Originium... my mission, the rebellion, the war... but tell me, why are you in one of my memories too?
 	제게는 단편적인 기억밖에 없어요… 동포, 오리지늄, 사명, 반항, 전쟁… 어째서… 그 안에 당신의 모습이 보이는 걸까요?
 
-	为什么我会是如今这副身姿呢？为什么我要去承受这迷乱的一切呢？博士，答案，是否就在您的手中呢？
 	私がなぜこのようになったのか。なぜこのようにならなくてはいけなかったのか。ドクター、その答えを……探してくれますか？
 	Why am I like this? Why did I have to become what I am? Doctor, will you help me find the answers?
 	제가 어째서 이렇게 됐는지, 어째서 이렇게 되어야 했는지. 박사님, 그 답을… 찾아주시겠어요?
 
-	......于睡梦中，您是否，也会成为一只自由的飞鸟呢？
 	……あなたも、自由な鳥になる夢を見ていますか？
 	Do you too dream of flying freely through the skies like a bird?
 	… 당신도, 자유로운 새가 되는 꿈을 꾸시나요?
 
-	丽兹，这是我真正的名字。除此之外的事情，我都不记得了......
 	リズ……それが私の本当の名前です。ほかのことについては、よく覚えていません……。
 	Liz... that's my real name. Everything else is a just cloudy, indistinct memories...
 	리즈… 그게 제 진짜 이름이에요. 이거 말고 다른 건 잘 기억나지 않아요… 
 
-	为什么，要壮大我的力量呢。
 	どうして、私の力を強くする必要があるのでしょうか？
 	Why is there a need for me to grow stronger?
 	어째서, 제 힘을 강하게 해야 할 필요가 있는 거죠?
 
-	晋升吗？我知道了，这一定是值得高兴的事吧。只是......非常抱歉，我完全没法体会，这种喜悦的感情......
 	昇進、ですか？わかりました……これはきっと喜ぶべきことなのでしょうね。ですが……申し訳ございません、喜びの感情が、全く湧いてきません……。
 	A promotion? I see. It sounds like something to rejoice over. But... I apologize, I don't feel any joy within me...
 	승진, 인가요? 알겠습니다… 이건 분명 기뻐해야 하는 일이겠죠. 그렇지만… 정말 죄송해요. 기쁨이란 감정이 전혀 생겨나지 않아요… 
 
-	谢谢博士亲自通知我晋升的事，只是......对于现在的我来说最重要的，是这只小鸟所诉说的外面的故事......
 	ドクター自ら昇進のお知らせに来ていただき、ありがとうございます……。ですが、今の私にとって一番大事なのは、この小鳥から聞ける外のお話です……。
 	Thank you for personally informing me of my promotion, Doctor. But... to me, it doesn't matter as much as the story of the world outside that this little bird is telling me right now.
 	박사님께서 직접 승진 소식을 알려주셔서, 대단히 감사드립니다… 하지만, 지금의 제게 있어 가장 중요한 건, 이 아이에게 전해 듣는 바깥 이야기랍니다… 
 
-	这里就是集合地点吗？
 	ここが集合地点ですか。
 	Is this the rendezvous point?
 	여기가 집합 장소인가요.
 
-	如果这是您的命令，那么我一定会服从。
 	あなたの命令とあらば、何があっても従いましょう。
 	I shall do anything you command me to.
 	당신의 명령이라면, 뭐든지 따르겠습니다.
 
-	按照说明手册操作就可以了吧？
 	マニュアル通りにすればよいのでしょう？
 	I need only do as the manual said, yes?
 	매뉴얼 대로하면 되는 거죠?
 
-	战场是......夺走生命的地方......
 	戦場は……命を奪いあう場所……。
 	The battlefield... a place where lives are taken...
 	전장은…… 목숨을 서로 빼앗는 장소…… 
 
-	博士。
 	ドクター。
 	Doctor...
 	박사님.
 
-	您要选择谁呢？
 	誰のことを選ぶのでしょうか？
 	Who will you choose?
 	누구를 선택하시겠습니까?
 
-	这就是......战场......
 	ここが……戦場……。
 	This is... the battlefield...
 	여기가…… 전장…… 
 
-	掠夺性命，非我之愿。
 	命を奪うようなことはいたしません。
 	It's not my wish to take lives.
 	목숨을 빼앗는 일은 하지 않습니다.
 
-	请将我的力量，尽数收下。
 	この力、どうか受け止めてください。
 	My power is all yours now.
 	이 힘, 부디 받아주세요.
 
-	飞翔吧。
 	飛べ。
 	Soar!
 	날으렴.
 
-	你不会受伤。
 	怪我はさせません。
 	I will not harm you.
 	다치게 하진 않겠어요.
 
-	我将保护你。
 	私がお守りします。
 	I shall protect you.
 	제가 지켜 드릴게요.
 
-	无论是怎样的战斗，我都......
 	どんな戦いでも、私は……。
 	No matter how difficult the battle gets, I...
 	어떤 전투라도, 저는… 
 
-	战斗，直至生命的尽头......这就是我们的宿命。
 	命尽きるまで戦う、それが私たちの宿命でしょう。
 	To fight to the very end... that's our destiny.
 	목숨을 다할 때까지 싸우는 것, 그게 우리들의 숙명이겠죠.
 
-	或许，他们已经逃离了命运的牢笼......
 	彼らは運命の鳥籠から、逃れたのかもしれません……。
 	Perhaps they've already escaped this cage called fate...
 	저자들은 운명의 새장에서 도망친 걸지도 몰라요… 
 
-	这就是......绝望吗......
 	これが……絶望という感情……。
 	Is this how despair feels?
 	이것이…… 절망이라는 감정…… 
 
-	房间......也是一种牢笼。
 	部屋……それも籠のひとつ。
 	Rooms... They too are a type of cage.
 	방…… 도 하나의 새장이죠.
 
-	嗯，怎么了。
 	はい、なんでしょう。
 	Yes? What is it?
 	네, 무슨 일이시죠?
 
-	博士，您现在在做的，就是所谓的亲密接触吗？
 	ドクター、今行っているのは……スキンシップと呼ばれるものでしょうか？
 	Doctor... is this... what is known as 'intimacy'?
 	박사님, 지금 하고 계신 건…… 스킨십이라 부르는 건가요?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	您好，博士。
 	ごきげんよう、ドクター。
 	Good day, Doctor.
 	안녕하세요, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】夜莺
+	【性别】女
+	【战斗经验】一年
+	【出身地】卡兹戴尔
+	【生日】5月4日
+	【种族】萨卡兹
+	【身高】164cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ナイチンゲール
+	【性別】女
+	【戦闘経験】一年
+	【出身地】カズデル
+	【誕生日】5月4日
+	【種族】サルカズ
+	【身長】164cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Nightingale 
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Kazdel 
+	[Date of Birth] May 4 
+	[Race] Sarkaz 
+	[Height] 164cm 
+	[Infection Status] 
+	Showed physical signs of Originium, infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 나이팅게일
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 카즈델
+	[생일] 5월 4일
+	[종족] 살카즈
+	[신장] 164cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】缺陷 
+	【战场机动】缺陷 
+	【生理耐受】缺陷 
+	【战术规划】普通 
+	【战斗技巧】普通 
+	【源石技艺适应性】卓越
+
+	能力測定 :
+	【物理強度】欠落
+	【戦場機動】欠落
+	【生理的耐性】欠落
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】卓越
+
+	Physical Exam :
+	[Physical Strength] Flawed 
+	[Mobility] Flawed 
+	[Physical Resilience] Flawed 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Normal 
+	[Originium Arts Assimilation] Outstanding
+
+	종합검진 :
+	[물리적 강도] 부족
+	[전장 기동력] 부족
+	[생체 인내도] 부족
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 월등
+
+———————————————————————————————
+
+	客观履历 :
+	夜莺，萨卡兹人，感染者援助团体“使徒”的一员，其它履历缺失。于源石技艺、战场急救、临床医学等领域具备高超天赋。 
+	现于罗德岛接受治疗，同时为罗德岛提供战场医疗救护、源石技艺援护等服务。
+
+	個人履歴 :
+	サルカズであり、感染者援助団体「使徒」のメンバー。それ以外の経歴は不明。アーツ、戦場医療、臨床医学などの分野で天賦の才を発揮する。
+	現在はロドスで治療を受けながら、得意とする戦場救護やアーツによる援護などでロドスに協力している。
+
+	Profile :
+	Nightingale, Sarkaz, a member of the infected-assistance group Followers, all other history missing. Possessed amazing talent for Originium Arts, field first aid and clinical skills. 
+	Currently undergoing treatment at Rhodes Island while offering her service as field medic and Originium Arts support.
+
+	프로필 :
+	    살카즈인. 감염자 지원 단체 '사도'의 일원. 다른 이력 정보는 확인 불가. 오리지늄 아츠, 응급 처치, 임상 의학 등 영역에 탁월한 능력을 보인다. 현재 로도스 아일랜드에서 치료를 받고 있으며, 로도스 아일랜드에 전장 구호 및 오리지늄 아츠 지원 등의 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】9% 
+	干员夜莺有着明显的感染迹象。
+	
+	【血液源石结晶密度】0.41u/L 
+	远超常规数值，干员夜莺需要医疗部门多加重视。
+	
+	比起干员夜莺较一般感染者更加严重的矿石病，她的身体其实还有着许多问题。夜莺表现出明显的记忆障碍，与博士的失忆症不同，干员夜莺的记忆缺失仿佛是药物、甚至是神经信息素类的化学制剂导致的。加上她内分泌系统与神经系统，甚至是身体各处的......迹象，我们部分医疗干员在交流过后，认定夜莺的身体状况并非仅仅是矿石病的肆虐所导致的。
+	闪灵把夜莺带到这里，对于夜莺来说怎么都是件好事。至少在罗德岛，我们能给这可怜女孩一个不那么严苛的环境，让她能好好处理自己的问题。
+	可悲的是，夜莺是我见过医疗技术最为高超的人之一——她能轻易洞悉他人的创口与病灶，却又无法摸索出自己疾患的源头。医者不能自医，还有比这更荒谬不公的事情吗？
+	——医疗干员Y·P
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】9%
+	明らかな感染症状あり。
+	
+	【血液中源石密度】0.41u/L
+	基準値を大きく上回っている。彼女の症状に関しては特に注意するように。
+	
+	ナイチンゲールの感染状況は一般的なものと比べても重篤であることが分かる。また、彼女の身体にはそれ以外の問題も多い。彼女に見られる明らかな記憶障害はドクターのものとも異なり、何かしらの薬物、或いは神経に作用するフェロモンのような化学製剤によって引き起こされたもののように思える。さらに、彼女の内分泌系、神経系、そして身体中に見られる症状について医療オペレーターたちとも話し合った結果、それらは鉱石病だけが原因でない可能性が高いという結論にたどり着いた。
+	シャイニングに連れられてロドスに来たことは、ナイチンゲール自身にとっても間違いなく良いことのはずだ。少なくともロドスにいてくれれば、我々がこの不憫な子に少しは穏やかな環境を与えてやれる。それをきっかけに、自身の問題をしっかり解決してもらえればいいのだが。
+	何より嘆かわしいのは、私の知る範囲で彼女は最も医術に長けた人間であり、他人のものであれば傷口や病巣を簡単に見抜くことができるが、自分の病気となるとその原因究明の糸口さえ見出せないことだ。医者の自脈効き目なしと言うが、これより不公平なことが、この世にあるだろうか。
+	——医療オペレーターY・P
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected. 
+	
+	[Cell-Originium Assimilation] 9% 
+	Operator Nightingale showed conspicuous symptoms of infection. 
+	
+	[Blood Originium-Crystal Density] 0.41u/L 
+	Far beyond average. Close medical monitoring of Operator Nightingale is recommended. 
+	
+	Nightingale's condition is more severe compared to the average Infected, and she has other problems as well. She showed obvious lapse of memory different from that of the Doctor, in that the cause seemed to be medication or possibly even a chemical serum that affected neural transmission. Combined with her endocrine and nervous system, plus traces throughout her body, we could confirm, after internal discussion with the medical staff, that Oripathy is not the sole culprit for Nightingale's condition. 
+	It was good that Shining brought Nightingale here, no matter how you cut it. At least at Rhodes Island we can offer the poor girl a relatively free environment for her to deal with the problems. 
+	Sadly, as one of the most skilled healers I know and someone who could easily discern symptoms and their sources, she ironically could not do the same for herself. How mockingly cruel is that? 
+	—Y.P., Medic Operator
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음, 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 9%
+	오퍼레이터 나이팅게일은 분명한 감염 증상을 보이고 있음.
+	
+	[혈중 오리지늄 결정 밀도] 0.41u/L 
+	정상 수치를 과도하게 초과한 수치, 오퍼레이터 나이팅게일은 의료부에서 집중 관리 필요.
+	
+	    일반 감염자보다 더 심각한 병세를 보이고 있으며, 그녀의 신체에는 다양한 문제가 존재하고 있다. 나이팅게일은 이미 명확한 기억장애 증세를 보이고 있는데, 박사의 기억 상실과 달리 오퍼레이터 나이팅게일의 기억 소실은 약물, 특히 신경호르몬 유형의 화학 약품에 의해 발생한 것으로 보인다. 게다가 그녀의 내분비 시스템과 신경 시스템, 심지어는 신체 각 부위의…… 흔적, 우리 일부 메딕 오퍼레이터들과 의견을 나누었는데, 나이팅게일의 신체 상황은 광석병의 병증으로만 현재 단계에 이른게 아니라는 결론을 내렸다.
+	    샤이닝이 나이팅게일을 여기로 데려온 것은 그녀 자신의 문제를 잘 해결했으면 하는 바람에서였다. 안타까운 것은, 나이팅게일은 내가 만나본 사람 중 의료 기술 수준이 가장 높은 사람 중 하나라는 점이다. 최소한 로도스 아일랜드에서는 이 가련한 소녀에게 최대한 안락한 환경을 제공하여, 그녀가 편안히 자신의 문제를 처리하는 데 집중할 수 있도록 해야 한다. 그녀는 남들의 상처와 발병 원인을 쉽게 알아채지만, 정작 자신의 질환의 원인을 찾아내기 어려워하고 있다. 의사가 자신을 치유하지 못한다니, 이것보다 더 황당한 일이 있을까?
+	——메딕 오퍼레이터Y·P
+
+———————————————————————————————
+
+	档案资料一 :
+	干员夜莺十分擅长通过源石技艺治疗伤患。与大多数医疗干员不同，夜莺其实并不太了解当代医疗技术与原理，在笔试中也很难拿到良好的成绩，但她却对人体的构造和运作方式了如指掌，她所使用的医疗类源石技艺也深奥精湛，令负责观测研究的术师干员们一时无从下手。 
+	同时，干员夜莺还擅长使用一种十分奇特的源石技艺：由干员夜莺编织缔造，以她本人为中心产生的不可见区域。这片区域可以缓冲敌人向我方干员释放的攻击性源石技艺，甚至将庞大的力量消弭于无形。出于畏惧，并不熟习源石技艺的干员将这神秘又强大的力量称作“圣域”。 
+	而凯尔希医生则怀疑，夜莺的治愈天赋与她所使用的其它源石技艺实际上同出一源。目前还无法证明这个猜想的真实性。
+
+	第一資料 :
+	彼女はアーツによる治療に非常に長けているが、大多数の医療オペレーターとは異なり、現代の医療技術や原理は理解しておらず、筆記試験の成績も良いとは言えない。しかし人体構造とその運用方法には精通しており、彼女の使用する医療アーツは極めて高等なものとなっている。アーツの観察、研究を行う術師オペレーターでさえそれを掌握することはできないほどである。
+	また、彼女は医療アーツ以外に、非常に奇妙で珍しいアーツも得意としている。それは、彼女を中心として不可視の領域を形成し、その領域に向けて放たれる敵のアーツを弱体化したり、跡形もなく消し去ってしまうというものである。アーツに詳しくないオペレーターたちは、畏敬の念からその強大で神秘的な力を「聖域」と呼んでいる。
+	ケルシー医師は、彼女の医療アーツと「聖域」は実は同じ系統のアーツなのではないかと推測しているが、まだその信憑性は定かではない。
+
+	Archive File 1 :
+	Nightingale is exceptionally versed in healing through Originium Arts. Unlike most Medic Operators, she did not have a full grasp of the principles and practice of modern medicine, nor did she score well on written exams, but she knew the human body and functions like the back of her hand. Her medical applications of Originium were also profound and left the researchers and observers in awe. 
+	Operator Nightingale also possessed unique Originium Arts: She can generate an invisible field around herself to mitigate, or even complete neutralize, powerful Originium energy attacks initiated by enemies. Operators not familiar with Originium Arts dubbed this field the 'Sanctuary.' 
+	 Dr. Kal'tsit suspects Nightingale's healing talent shares the same source as the other Originium Arts she displayed, though the conjecture has not been proven to date.
+
+	파일 자료 1 :
+	오퍼레이터 나이팅게일은 오리지늄 아츠를 이용해 환자의 상처를 치료하는 것에 아주 능숙하다. 대다수의 메딕 오퍼레이터들과는 달리 나이팅게일은 당대 의료 기술과 원리에 대해선 이해도가 높지 않았기에, 필기시험에선 양호한 성적을 받기 어려웠다. 하지만 관측을 담당하던 캐스터 오퍼레이터들도 한동안은 끼어들 엄두도 못낼 정도로 그녀는 인체의 구조와 동작 방식에 대해 훤히 알고 있었고, 그녀가 사용하는 의료계 오리지늄 아츠 역시 심오하고 뛰어났다.
+	 또한 나이팅게일은 한 가지 매우 신기한 오리지늄 아츠를 사용할 수 있었는데, 그것은 바로 자신을 중심으로 보이지 않는 영역을 구축하여, 그 구역 내에서 적이 시전한 공격성 오리지늄 아츠의 충격을 흡수할 뿐만 아니라, 심지어 거대한 에너지를 흔적도 없이 소멸시키기도 하는 힘이었다. 약간의 두려움과 오리지늄 아츠를 낯설게 느낀 오퍼레이터들은, 이 신비하고 강력한 힘을 '성역'이라고 불렀다.
+	 하지만 닥터 켈시는 나이팅게일의 치료 재능과 오리지늄 아츠가 사실상 같은 원리로 나오는 게 아닐까 생각했다. 물론 이는 현재로선 그저 추측일 뿐, 입증된 사실은 없다.
+
+———————————————————————————————
+
+	档案资料二 :
+	即使在罗德岛，夜莺也是一位独特的干员。 
+	与“使徒”的另两位成员，闪灵与临光共同抵达罗德岛时，闪灵就表示，希望罗德岛能够为夜莺进行全面的检查与对策性治疗。 
+	失去记忆，肢体机能缺失，■■■■，■■■■■■....... 
+	医疗干员们无不对夜莺的检查结果摇头叹息：除了矿石病之外，夜莺所遭受的其它性质的摧残，可能对她造成了更加深远严重的影响。 
+	面对这一切，闪灵默默地回答着凯尔希医生提出的所有问题——其中包含大量无法公开的机密事项。 
+	在这场对话之后，夜莺留在了罗德岛，开始接受医疗部门的治疗。
+
+	第二資料 :
+	ロドスにおいても、ナイチンゲールはひときわ目立つオペレーターと言える。
+	彼女が同じく使徒所属のシャイニングとニアールと共にロドスに訪れた際、シャイニングはロドスに対し、ナイチンゲールの全面的な検査と効果的な治療をしてやってほしいと申し出た。
+	記憶喪失。身体機能喪失。■■■■。■■■■■■…… 
+	その検査結果に、医療オペレーターたちはため息を漏らした。鉱石病以外にも、性質の異なる病魔が彼女に深刻な影響を与えているようだった。
+	彼女の現実を知ったシャイニングは、ケルシー医師の全ての質問に答えた。その中には公開できない機密情報も多数含まれていたという。
+	ケルシー医師との対話の後、ナイチンゲールはロドスにとどまり治療を受ける運びとなった。
+
+	Archive File 2 :
+	Even at Rhodes Island, Nightingale remains a unique Operator. 
+	When she first arrived on the island alongside Shining and Nearl, Shining expressed her wish for the island to offer Nightingale comprehensive physical exams and a treatment plan. 
+	Memory loss, deficient mobility in limbs,■■■■，■■■■■■... 
+	The Medic Operators all lamented at the test results. In addition to Oripathy, the other debilitating symptoms she suffered have exacerbated her condition and have far graver consequences. 
+	Given the situation, Shining quietly answered all of Dr. Kal'tsit's questions--including the revelation of many classified projects. 
+	Following that inquiry, Rhodes Island accepted Nightingale for medical treatment.
+
+	파일 자료 2 :
+	    로도스 아일랜드에서도 나이팅게일은 매우 독특한 오퍼레이터 중 한 명으로 통한다. '사도'에 속한 다른 두 명의 오퍼레이터인 샤이닝, 니어와 함께 로도스 아일랜드에 도착했을 때, 샤이닝은 로도스 아일랜드가 나이팅게일을 위해 전면적인 검사와 그녀에게 맞는 치료 방안을 제공해주길 희망했다.
+	    기억 상실, 사지의 기능 소실, ■■■■, ■■■■■■…… 
+	    메딕 오퍼레이터들은 나이팅게일의 검사 결과를 보고는 다들 고개를 저으며 한숨을 내쉬었다. 광석병 이외에 다른 성질의 손상이 그녀의 상황에 악화시킨 걸 수도 있었다.
+	    이 모든 것을 지켜보며, 샤이닝은 묵묵히 닥터 켈시가 묻는 모든 질문에 답변했다. (그 중에는 공개할 수 없는 대량의 기밀 사항도 포함되어 있었다.) 대화가 끝난 후, 나이팅게일은 로도스 아일랜드에 남아 의료부의 치료를 받기 시작했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在身体状况稍有好转后，夜莺便开始寻求与干员闪灵、临光一同行动。 
+	凯尔希医生与干员闪灵在这件事上发生了争执。争执之后，凯尔希医生改变了看法。即使医疗干员们强烈反对，凯尔希医生也依然同意了闪灵的意见，将夜莺编入现有干员编制，允许她为罗德岛服务。 
+	虽然干员夜莺存在着种种生理困难，在战场上也十分缺乏保护自己、自主生存的能力，但夜莺作为干员，居然展现出了近能扭转战场的强大实力。同时，干员们也在与夜莺并肩作战的过程中意识到，夜莺渴望以自己的行为证明生存的价值，他们的态度大多自怜悯转向尊敬。 
+	而夜莺那神秘的姿态与冷淡迷离的性格，也让许多干员更加意识到了大地的残酷，以及罗德岛事业的必要之处。 
+	现在，偶尔也能在舱室走廊上看见夜莺小姐与闪灵/临光之外的干员交谈，甚至露出淡淡的笑容，至少笔者......感到欣慰。
+
+	第三資料 :
+	病状が多少なりとも快方に向かい始めると、ナイチンゲールはシャイニング、ニアールと行動を共にさせてほしいと切り出した。
+	これについてはケルシー医師とシャイニングで言い争いがあったが、その後、ケルシー医師は考え方を改めたようで、医療オペレーターたちの強い反対を押し切りシャイニングの意見を認めた。それにより、ナイチンゲールは既存の部隊に加入し、オペレーターとしてロドスの戦力に加わることとなった。
+	ナイチンゲールは生理的要因による様々な制限があり、戦場では自分自身を守り生き抜くことすら難しいとされていたが、オペレーターとして戦場に立った彼女は戦況を覆す程の実力を見せた。オペレーターたちは彼女が自身の行動によって自分が生きる価値を証明しようとしていることに気づき、これまでの哀れみの態度を改め、尊敬の眼差しを向けた。
+	彼女の神秘的な姿やアンニュイな性格は、多くのオペレーターに大地の残酷さやロドスの事業の必要性を感じさているようだ。
+	今ではナイチンゲールが基地の通路でシャイニングやニアール以外と話し、微笑んでいる様子を目にすることも多くなった。その様子を見て、少なくとも私は……喜びを感じずにはいられない。
+
+	Archive File 3 :
+	When she got better, Nightingale requested going on assignments with Operators Shining and Nearl. 
+	 Dr. Kal'tsit and Operator Shining fought over the issue. Their debate changed Dr. Kal'tsit's mind. Despite vehement protests from the medical staff, the Doctor still agreed with Shining and approved Nightingale as an Operator to serve Rhodes Island. 
+	Although Operator Nightingale is still facing many physical problems and is unable to protect herself in combat, she has surprised many with her ability to turn the tide of a battle. During the course of fighting alongside her, Operators have realized that she longs to prove her worth with her actions, and that converted their attitude for her from pity to admiration. 
+	Nightingale's inscrutable disposition and cool personality let many Operators realize the cruel truth of the land, but also the importance of Rhodes Island. 
+	Now, Miss Nightingale can be seen occasionally speaking with Operators other than Shining or Nearl in the hallway, sometimes even with a faint smile. The author, for one, finds joy in that.
+
+	파일 자료 3 :
+	    몸 상태가 조금 호전된 후, 나이팅게일은 오퍼레이터 샤이닝, 니어와 함께 작전에 내보내주기를 요청했다. 닥터 켈시와 샤이닝은 처음에는 이 일에 대해 의견이 일치하지 않았는데, 논쟁이 끝나고 나서 닥터 켈시는 생각을 바꾸었다. 메딕 오퍼레이터들의 강력한 반대에도 불구하고 닥터 켈시는 샤이닝의 의견에 동의했고, 나이팅게일을 현재의 팀에 편성하여 로도스 아일랜드를 위해 일할 수 있도록 허락했다. 나이팅게일은 여러 생리적 문제점을 안고 있었고, 전장에서 자신을 보호하는 능력도 매우 부족했으며, 혼자서 생존하는 능력또한 부족했다. 그러나 뜻밖에도 그녀는 전장에서 전세를 역전시킬 수 있을 만한 강력한 실력을 뽐냈으며, 오퍼레이터 동료들도 나이팅게일과 함께 작전을 수행하는 과정에서 나이팅게일이 자신의 행동을 통해 자신이 살아있음을 증명하려 한다는 점을 의식할 수 있었다. 나이팅게일과 함께 작전을 펼치면서 다른 오퍼레이터들은 그녀가 행동으로 자신이 살아있는 가치를 증명하고 싶어 한다는 사실을 알게 되었고, 이후 그녀에 대한 감정은 동정심에서 존경심으로 바뀌었다. 나이팅게일의 그 신비한 자태와 차가워 보이는 성격은 많은 오퍼레이터들로 하여금 이 땅의 잔혹함과 로도스 아일랜드가 필요한 곳이 어디인지에 대해 다시 한번 생각할 수 있게 해줬다.
+	    요즘은 내부 복도를 걷다 보면 종종 나이팅게일이 샤이닝이나 니어가 아닌 다른 오퍼레이터들과 함께 미소를 지으며 이야기를 나누고 있는 모습을 볼 수 있다. 적어도 필자는… 이런 모습에 마음이 편안해진다.
+
+———————————————————————————————
+
+	档案资料四 :
+	现在的我无法理解夜莺小姐。 
+	她的心绪并不是一张白纸，也不是乱麻般的绳团。夜莺小姐的情绪与意识像是一座坚固的牢笼，闭锁的外壳将无尽的记忆碎片和夜莺小姐自己软禁其中，我甚至无法探知这种情形是否出自夜莺小姐自己的意愿，而她与她自幻影化作实相的生灵伙伴，可能已经无法再相互分辨谁是现实谁是虚幻。 
+	只有夜莺小姐先走出来，我们才有办法走进去。 
+	这实在是太艰难，也太令人难过了。 
+	闪灵说，夜莺小姐是一场战争的牺牲品，而这场战争是一场内战，一场......间的内战。 
+	她被困在那样狭小的空间里，被迫去分享自己的生命，甚至是被剥夺，被攫取...... 
+	在我看不见的地方，这样的事情还在发生。 
+	凯尔希医生反对我现在就参与其中，但我想，我对她们的事负有责任。 
+	闪灵从那里救出了夜莺小姐，但我觉得，夜莺小姐还没能真正从那里离开；她常感到监禁与封闭，是因为自己还身在牢笼之中。 
+	我有责任。 
+	我会和闪灵，和临光，以及博士一起，尽我所能。我不希望自己仅仅是成为夜莺小姐的朋友而已。 
+	
+	——阿米娅
+
+	第四資料 :
+	今の私では、ナイチンゲールさんのことを理解できません。
+	理解できないと言っても、彼女の心はただの白紙ではなく、絡まってほぐれないロープでもありません。彼女の感情と意識は、まるで堅固に閉じられたケージのようなんです。固く閉じられた殻に、無数の記憶の欠片と、彼女自身が閉じこめられていて、それが本当に彼女のものなのかさえ判別することが出来ません。彼女と彼女が生み出す幻影の魂は、もはやどちらが本物でどちらが偽物なのかわからない程です。
+	ナイチンゲールさんが自らそのゲージから出てこない限り、私たちは誰もその心を理解することは出来ません。
+	これは本当に、本当に難しくて、そしてとても悲しいことです。
+	「ナイチンゲールは戦争の犠牲者だ。それは内戦だった。■■■■との内戦だ」と、シャイニングさんは言っていました。
+	彼女はあんな風に狭いところに閉じ込められて、生命を差し出すように迫られて、剥ぎ取られて、奪われて……。
+	私たちが見えないところでは、そんなことが今でも起こり続けています。
+	ケルシー先生からは、今は私が手を出すべきではないと反対されていますが、私はただ、ナイチンゲールさんたちのことに責任を持ちたいんです。
+	シャイニングさんはあの場所からナイチンゲールさんを救出しました。ですが、ナイチンゲールさんはまだ本当の意味であそこから抜け出せたわけじゃありません。彼女がいつも監禁され閉じこめられていると感じるのは、自分がまだあの中にいると思っているからです。
+	私には責任があります。
+	シャイニングさんやニアールさん、そしてドクターと一緒に、力を尽くしたいと思います。私は彼女にとって、ただの友人であるだけになりたくありません。
+	
+	——アーミヤ
+
+	Archive File 4 :
+	I find myself currently unable to understand Miss Nightingale. 
+	Her emotions aren't just a blank sheet of paper or a tangled ball of twine. Her mood and thoughts are an impenetrable cell, sealing endless fragments of memory to trap her in herself. I can't even fathom whether she wanted this out of her own will. She probably no longer is able to distinguish herself from her imaginary persona, or reality from illusion. 
+	We can go in only when Miss Nightingale chooses to come out. 
+	It is near impossible and very sad. 
+	Shining said Miss Nightingale is the sacrificial lamb of a war, a civil war... inside her own mind 
+	She's trapped in a small space, stripped of her identity and robbed of her life... 
+	It's happening in places I can't detect even now. 
+	 Dr. Kal'tsit didn't want me to get involved, but I felt obligated. 
+	Shining rescued Miss Nightingale from there, but I think Nightingale never really left. She often feels confined, incarcerated, still a bird in a cage. 
+	I believe I have a duty. 
+	With Shining, Nearl, and the Doctor, I'll do everything I can, as I don't think of Miss Nightingale as merely a friend. 
+	
+	—Amiya
+
+	파일 자료 4 :
+	    지금의 저로선 나이팅게일 씨를 이해하기 힘들어요. 나이팅게일 씨의 마음은 백지 같은 게 아니고, 헝클어진 밧줄 같은 것도 아니에요. 나이팅게일 씨의 감정과 의식은 마치 견고한 감옥과도 같아요. 나이팅게일 씨는 쇠창살 속에 무수한 기억의 조각들과 함께 자기 자신을 가둬두고 있는 것 같아요. 전 이 상황이 나이팅게일 씨 자신이 원해서 이렇게 된 것인지조차 잘 모르겠어요. 그녀 자신과 만들어낸 환영 속의 나이팅게일, 이들은 아마 누가 현실 속에 있고 누가 환영 속에 있는 것인지 조차 서로 구분하지 못할 거예요. 그 속에는, 오직 나이팅게일 씨가 먼저 나와주어야만 저희가 들어갈 수 있겠죠. 이건 정말로 힘들고 아주 괴로운 일이라고 생각해요.
+	    샤이닝 씨는 나이팅게일 씨가 전쟁의 희생양이라고 하셨어요. 그 전쟁은 내전, 그러니까…………간의 내전이었고, 나이팅게일 씨는 그 좁은 공간에 갇혀있으면서 강제로 자신의 생명을 나눠야만 했고, 심지어는 빼앗기기도 하고 약탈 당하기도 했다고요…… 
+	    지금 이 순간에도 이런 일들은 보이지 않는 곳에서 계속 발생하고 있겠죠.
+	    켈시 선생님께선 제가 이런 일에 관여하는 걸 반대하셨어요. 하지만 제 생각엔 저 또한 그녀들의 일에 어느정도 책임이 있다고 생각해요.
+	    샤이닝 씨는 그곳에서 나이팅게일 씨를 구해내셨지만, 그래도 전 나이팅게일 씨가 그곳에서 진정으로 빠져나왔다곤 생각하지 않아요. 나이팅게일 씨가 항상 감금된 것과 같은 느낌을 받는것은 스스로가 새장 안에 갇혀있다고 생각하기 때문이에요. 이건 저에게도 책임이 있습니다. 전 샤이닝 씨, 니어 씨, 그리고 박사님과 함께 할 수 있는 모든 걸 다 할 거예요. 전 나이팅게일 씨의 친구로만 남고 싶진 않으니까요. 
+	
+	——아미야
+
+———————————————————————————————
+
+	晋升记录 :
+	“转瞬即逝的幻影——这个精巧而简单的源石技艺，能够在战场上吸引敌人的注意力。” 
+	这报告......你们使用这样的形容词很轻浮。 
+	我不知道夜莺小姐经历过什么，只是当我看到那凭空出现的巨大鸟笼，我就意识到了。 
+	那不是什么鸟笼，我觉得那就是囚笼而已。我想我和敌人一样，从心底里浮现了莫名的孤独，或者说恐慌。 
+	夜莺小姐救了我的命。但我......没法感谢她。我没有那样的勇气。 
+	我只是觉得，你们应该......应该...... 
+	不要让她再这样下去了，我恳求你们。 
+	
+	——干员J的任务笔录
+
+	昇進記録 :
+	「泡沫の幻影――精巧で簡単なこのアーツは、戦場で敵の注意を引くことができる。」
+	この報告……もう少しわかりやすい言葉を選んでほしいものだ。
+	ナイチンゲールさんの過去は知らないが、あの突然現れた巨大な鳥かごをみて、私はすぐにそれを感じ取った。
+	あれは鳥かごなんかじゃない、檻だ。恐らくその場に居合わせた敵も同じ思いだったろう。心の底から得も言われぬ孤独感、あるいは恐怖を、感じた。
+	ナイチンゲールさんは私の命を救ってくれた。だが……感謝はできない。私にそんな勇気はない。
+	ただ、あなたたちは……あなたたちは……
+	彼女を止めてください。どうか、お願いします。
+	
+	オペレーターJの任務記録
+
+	Promotion Record :
+	'A fleeting illusion is finesse, simple Originium Arts sufficient to distract the enemy in a battle.' 
+	You're doing a great disservice with a description like this in a report. 
+	I don't know what Nightingale's been through, but as soon I saw the giant bird cage appeared out of the blue, I sensed it. 
+	It wasn't a bird cage but a cell. I felt the same indescribable loneliness, or better yet, fear coming over me like the enemy did. 
+	Nightingale saved my life, but I cannot thank her. I just don't have the guts. 
+	I just think you should... you should... 
+	stop letting her go on like this, I beg you! 
+	
+	—Operator J's mission log
+
+	승진 기록 :
+	    "눈 깜짝할 사이에 사라지는 환영, 이 정교하고 간단한 오리지늄 아츠는 전장에서 충분히 적군의 주의를 끌 수 있다." 
+	    이런 식으로 보고를 쓰다니…… 이런 형용사를 쓰면 너무 가볍게 보일 수도 있어. 난 나이팅게일 씨가 어떤 일을 겪었는지는 잘 몰라, 하지만 난 그 거대한 새장을 보고 알 수 있었어. 내 생각에 그건 단순한 새장 같은 게 아니라, 감옥같은 거라고 봐. 아마 적들도 나와 똑같이 느꼈겠지, 마음 속으로부터 느껴지는 그 알 수 없는 고독함, 혹은 두려움을 말이야. 나이팅게일 씨는 내 목숨을 구해줬어. 하지만 난…… 고맙다는 말도 하지 못했지. 그럴 용기가 없었거든. 난 그저 너희들이…… 너희들이…… 
+	    나이팅게일 씨를 이렇게 둬선 안 돼, 부탁할게!
+	
+	——오퍼레이터 J의 임무 기록으로부터

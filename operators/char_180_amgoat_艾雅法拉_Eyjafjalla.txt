@@ -1,11 +1,17 @@
 ID:
 	char_180_amgoat
 
-干员代号\Name:
+CV:
 	艾雅法拉
 	エイヤフィヤトラ
 	Eyjafjalla
 	에이야퍄들라
+
+干员代号\Name:
+	种田梨沙
+	種田梨沙
+	Risa Taneda
+	타네다 리사
 
 招聘合同\Character Usage:
 	罗德岛术师干员艾雅法拉，一直想要倾尽全力为你做些什么。
@@ -48,177 +54,492 @@ ID:
 	볼케이노
 
 语音\Voices:
-	前辈，您借我的天灾研究笔记我都读完了，还有其他的吗？
 	先輩、この前お借りした天災研究ノート、全部読んじゃいましたぁ！同じようなもの、ほかにまだありますか……？
 	Professor, I already finished all the Catastrophe studies notes. Do you have any more?
 	선배, 저번에 빌렸던 재앙 연구 노트, 전부 읽었어요! 비슷한 거 또 있나요…?
 
-	您说什么？为什么？为什么要叫您前辈？啊，因为您是天灾研究的专家呀，按照规矩一定要叫前辈的~
 	えっなにか？……あっ、どうして先輩って呼んでいるかですか？それは、先輩が天災研究の専門家なので、研究者として私の先輩にあたる方だからですよ～。
 	Huh? What? Why do I call you 'Professor', you mean? Well, you're an expert in disaster studies, so you're like my teacher, right? Aren't we supposed to call our teachers 'Professor'?
 	어? 무슨 일이세요? … 아, 왜 선배라고 부르냐고요? 그건, 선배가 재앙 연구의 전문가니까, 연구자로서는 제 선배라고 할 수 있는 분이라서 그래요~
 
-	那个，原——什么？啊，是问我听力恶化的原因？其实，是我以前在火山地带做考察的时候，不小心感染了矿石病的缘故......
 	えっと、げん……何ですか？ああ、私の聴力悪化の「原因」ですか？実は、火山の近くで研究していたときに、鉱石病に感染してしまって……。
 	What? Say that again? Oh, you're wondering why I'm hard of hearing? Well, it was because I got infected with oripathy back when I was doing research near a volcano...
 	그러니까, 원… 뭐라고요? 아아, 제 청력이 나빠진 원인 말씀이신가요? 실은 화산 근처에서 연구를 하다가 광석병에 감염되어버려서… 
 
-	除了完成前辈您安排的工作，我还要抽空去凯尔希医生那里做检查。医生说，我的病症似乎是比较严重的那种......
 	先輩からいただいた仕事の合間に、ケルシー先生の検査も受けないと…。私の病状は結構深刻な状態らしいんです……。
 	Besides completing the tasks you give me, I have to go to Dr. Kal'tsit regularly for checkups. The doctor said my symptoms are pretty serious...
 	선배한테 받은 업무를 보면서 켈시 선생님의 검사도 받아야 하고… 제 증상은 꽤 심각한 상태라네요… 
 
-	为了完成父母的研究，我还得更努力才行。如果我能证明他们的研究是有意义的，说不定，将会有一个影响世界的大发现呢。
 	両親から引き継いだ研究を形にするには、もっと頑張らないと――。もしこの研究の有用性を証明できたら、世界が驚く、とんでもない発見になるかも……。
 	I have to work hard to finish the research my parents had started! I want to prove that their work was meaningful and maybe even change the world!
 	부모님께 물려받은 연구를 마치려면, 더 열심히 해야겠죠. 이 연구의 유용성을 증명하게 되면, 전 세계가 놀랄 엄청난 발견이 될지도 몰라요… 
 
-	我的父母......已经去世了，他们在火山周边进行观测时遭遇了火山碎屑流......我必须继承父母的遗志，完成他们的学说，无论如何都要......
 	私の両親は…もう亡くなりました。火山周辺で観測を行っていたときに火砕流に遭って……私、何があっても、両親の遺志を受け継ぐつもりです。
 	My parents... They've passed on. A pyroclastic flow hit them when they were conducting studies near a volcano... I have to pick up where they left off and finish their research, no matter what!
 	제 부모님은… 이미 돌아가셨어요. 화산 근처에서 관측을 하시다가 화산쇄설류에 휘말리셔서 그만… 전 무슨 일이 있더라도, 부모님의 의지를 이어받을 생각이에요.
 
-	玩伴吗？我和慕斯她们关系很好，所以一点也不寂寞~如果可以的话，我想和大家一起办读书会！嗯，就在前辈您的办公室，可以吗？
 	遊び相手？ムース達が仲良くしてくれるので寂しくはないですよ～。できたら今度みんなで読書会をしたいと思っているんです！えと……場所は先輩の執務室でもいいですか？
 	My playmates? I'm pretty friendly with Mousse and some others, so I'm not lonely at all! If possible, I'd love to start a book club with them too. Can we hold meetings in your office, Professor?
 	같이 놀 상대요? 무스나 다른 애들이 친하게 지내줘서 외롭지는 않답니다~ 그러니까 다음에 같이 독서회라도 해볼까 생각하고 있어요! 음… 장소는 선배 집무실로 얘기해도 될까요?
 
-	我从凯尔希医生那里听到了，不只是听力，我的视力也在慢慢丧失......矿石病，究竟会把我变成什么样子呢？
 	聴力だけでなく視力も悪化してきていると、ケルシー先生から聞きました……鉱石病は私をどこまで連れて行く気なんでしょうね？
 	Dr. Kal'tsit told me... I'm not only losing my hearing but also my vision. Oripathy is really relentless, huh?
 	청력뿐만 아니라 시력도 나빠지고 있다고, 켈시 선생님께서 그러셨어요… 광석병은 절 어디까지 데려갈 셈인 걸까요?
 
-	为什么能察觉到前辈站在我身后？那是因为我感受到了前辈的温度~虽然我的视力听力都变差了，但其他感官还很敏锐哦~即使变成现在这个样子，我呀，可没那么容易被打倒的~
 	どうして後ろにいるのがわかるのか、ですか？それは先輩の体温を感じたからです。耳も目も悪くなりましたが、その分ほかの感覚が鋭敏になっているというか……こう見えても私、なかなかしぶといんですよ～。
 	How could I tell you were behind me, you ask? I could feel your warmth, of course! My eyesight and hearing might not be what they used to be, but my other senses are still very sharp. Can't bring me down this easily, you know!
 	왜 뒤에 있는지 아냐고요? 그건 선배의 체온을 느껴서 그래요. 귀도 눈도 나빠졌지만, 그만큼 다른 감각이 예민해졌다고 할까요… 이래 보여도 저, 꽤 끈질기답니다~
 
-	前辈，睡着了呀......
 	……先輩、眠っておられるんですね……。
 	Professor! Oh... you're asleep...?
 	…… 선배, 주무시고 계시군요… 
 
-	我是艾雅法拉，加入罗德岛前一直在研究火山地质。因为矿石病的影响，我的听力不太好，也许，以后要多多麻烦您了，前辈~
 	初めまして。私はエイヤフィヤトラです。ここに来る前は火山の研究をしていました。鉱石病の影響で耳が悪いので、ご迷惑をかけるかもしれませんが、よろしくお願いします。先輩～。
 	I'm Eyjafjalla, whose main career before joining Rhodes Island was volcanology. I'm a bit hard of hearing due to oripathy. I hope I won't be much trouble to you, Professor.
 	에이야퍄들라라고 해요. 에피라고 불러주세요. 여기 오기 전에는 화산 연구를 했었어요. 광석병의 영향으로 귀가 나빠서 민폐를 끼칠지도 모르지만… 잘 부탁드려요, 선배~
 
-	请您给予我更多的指导，前辈~
 	もっとご指導をお願いします、先輩～。
 	Please teach me more, Professor.
 	더 많은 지도 부탁드려요, 선배~
 
-	晋升？是真的吗？能被前辈夸奖，真的好高兴！
 	昇進？本当ですか？先輩に褒めていただけるなんて、すごく嬉しいです！
 	Promotion? Really? I'm so happy to have your approval, Professor!
 	승진? 정말인가요? 선배한테 칭찬받다니, 정말 기뻐요!
 
-	这些小羊是妈妈留给我的，前辈也觉得它们很可爱吧？欸？热——很烫？啊请等等，不戴隔热手套的话会被它们烫伤的！
 	この黒い羊達はお母さんが遺したの唯一の形見なんです。先輩も可愛いと思いますよねぇ？えっ？あつ、熱い？あ、待って！断熱手袋をつけないとやけどしちゃいますよ！
 	Mother gave me these little lambs. They're cute, yeah? Huh? They're scorching hot? Of course they are! Be careful! You have to put on oven mittens before touching them!
 	이 검은 양들은 어머니가 남긴 유일한 유품이에요. 선배도 귀엽다고 생각하시죠? 엣? 뜨, 뜨겁다고요? 아 잠깐만요! 단열장갑을 안 끼면 데일 거예요!
 
-	我知道了，前辈。
 	わかりました、先輩。
 	Understood, Professor.
 	알았어요, 선배.
 
-	除了武器，您也别忘记准备防灾用具哦~
 	武器はもちろん、防災用具も忘れちゃダメですよ～。
 	Don't forget to prepare emergency supplies as well as weapons!
 	무기는 물론, 방재도구도 잊지 마세요~
 
-	前辈，我们能照顾好自己，您专注指挥就好。
 	先輩、私達のことは気にせず、全体の指揮に専念してください。
 	We can take care of ourselves, Professor. You can just focus on giving orders.
 	선배, 저희는 신경 쓰지 마시고, 전체를 지휘하는데 전념해주세요.
 
-	请大家一定要注意安全。
 	みなさん、安全確保が第一です。
 	Stay safe, everyone.
 	여러분, 안전 확보가 제일이에요!
 
-	前辈？
 	先輩？
 	Professor?
 	선배?
 
-	前辈，请您吩咐。
 	先輩、ご命令を。
 	Please give your orders, Professor.
 	선배, 명령을!
 
-	我会小心行动的。
 	気を付けて行動しますね。
 	I'll be careful.
 	조심해서 행동할게요.
 
-	加油！
 	頑張ります！
 	All the best!
 	열심히 할게요!
 
-	温度稳定。
 	温度、安定しています。
 	Temperature is stable.
 	온도는 안정적이에요.
 
-	可能有点热哦？
 	少し熱いかもしれませんよ～？
 	Might be a bit hot...?
 	조금 뜨거울지도 몰라요~
 
-	请小心火灾。
 	火事には気をつけてください。
 	Watch out for fires.
 	화재에 주의해주세요.
 
-	这招怎么样！
 	これでどうです！
 	How's that?
 	이건 어때요!
 
-	前辈平安无事吗？太好了......
 	先輩、大丈夫そうですか？よかった……。
 	I'm so glad you're safe, Professor...
 	선배, 괜찮으세요? 다행이다… 
 
-	为什么要这样彼此争斗不休呢......
 	どうして争いは終わらないんでしょう……。
 	Why does there have to be conflict in this world?
 	왜 싸움은 끝나지 않는 걸까요… 
 
-	大家都没事吧？有什么我能做的吗？
 	みなさんご無事ですか？私にできることはありますか？
 	Is everyone okay? Anything I can do?
 	여러분 무사하신가요? 제가 할 수 있는 일은 없나요?
 
-	呜......没、没事的......
 	う……だ、大丈夫です……。
 	Ow... it's... it's okay... I'm okay...
 	으…… 괘, 괜찮아요…… 
 
-	这个房间让我很安心~
 	この部屋はすごく安心できますね。
 	This room makes me feel safe.
 	이 방은 무척 마음이 놓이네요.
 
-	呀！别、别吓我，前辈！
 	ヒャッ！お、驚かさないでくださいよ、先輩！
 	Eek! Hey, you surprised me, Professor!
 	꺄악! 노, 놀래키지 마세요, 선배!
 
-	谢谢前辈不断地指引我的成长~
 	私をこんなに成長させてくれて、ありがとうございます、先輩。
 	Thank you, Professor, for guiding me to grow stronger.
 	절 이렇게 성장시켜주셔서 고마워요, 선배.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	前辈，早上好~
 	先輩～おはようございます～
 	Good morning, Professor!
 	선배~ 안녕하세요~
+
+干员档案\Background:
+	基础档案 :
+	【代号】艾雅法拉
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】莱塔尼亚
+	【生日】10月18日
+	【种族】卡普里尼
+	【身高】145cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】エイヤフィヤトラ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】リターニア
+	【誕生日】10月18日
+	【種族】キャプリニー
+	【身長】145cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Eyjafjalla 
+	[Gender] Female 
+	[Combat Experience] None 
+	[Place of Birth] Leithanien 
+	[Date of Birth] Oct. 18 
+	[Race] Caprinae 
+	[Height] 145cm 
+	[Infection Status] 
+	Showed physical signs of Originium, infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 에이야퍄들라
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 라이타니아
+	[생일] 10월 18일
+	[종족] 카프리니
+	[신장] 145cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】普通 
+	【生理耐受】普通 
+	【战术规划】普通 
+	【战斗技巧】普通 
+	【源石技艺适应性】卓越
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】卓越
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Normal 
+	[Originium Arts Assimilation] Outstanding
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 월등
+
+———————————————————————————————
+
+	客观履历 :
+	艾雅法拉，火山学家，天灾信使。于高等源石技艺、高能量法术释放等领域展现出了卓越的天赋。 
+	现于罗德岛接受治疗，同时为罗德岛提供天灾研究、环境观察与评估、危险地形航行保障等相关服务。
+
+	個人履歴 :
+	エイヤフィヤトラは火山学者であり、天災研究者でもある。高難度のアーツ、膨大なエネルギーを必要とするアーツの行使において卓越した生来の才を発揮する。
+	現在はロドスでの治療を受けながら、天災の研究や環境視察と評価、危険地帯の航行保障などの関連業務を担当している。
+
+	Profile :
+	Eyjafjalla, volcanologist, Catastrophe Messenger. She is exceptionally talented in the use of advanced Originium techniques and high-energy Arts. 
+	Currently undergoing treatment at Rhodes Island, Eyjafjalla provides support in Catastrophe research, environmental observation/assessment, assistance in traversing dangerous terrain, among others.
+
+	프로필 :
+	    화산학자이자 재앙정보전달자. 고급 오리지늄 아츠, 고에너지 마법 시전 등 분야에서 월등한 재능을 보인다. 현재 로도스 아일랜드에서 치료를 받고 있으며, 로도스 아일랜드를 위해 재앙 연구, 환경 관찰 및 평가, 위험 지역 이동 시의 안전을 담당하는 등, 다양한 업무를 맡고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。 
+	
+	【体细胞与源石融合率】8% 
+	患者艾雅法拉有着明显的感染迹象，且伴随一定程度的失聪。 
+	
+	【血液源石结晶密度】0.5u/L 
+	患者艾雅法拉的内循环结晶水平处于较高位置。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】8%
+	明らかな感染の兆候が見られ、難聴も併発している。
+	
+	【血液中源石密度】0.5u/L
+	細胞外液の結晶レベルは比較的高い。
+
+	Clinical Analysis :
+	Imaging tests for this Operator showed blurry outlines of internal organs with visible dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating infection and confirming her as Infected at this stage. 
+	
+	[Cell-Originium Assimilation] 8% 
+	Eyjafjalla showed conspicuous symptoms of infection, with corresponding deafness. 
+	
+	[Blood Originium-Crystal Density] 0.5u/L 
+	The level of Eyjafjalla's internal crystals are comparatively high.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 8%
+	환자 에이야퍄들라의 감염 증상은 매우 확연하며, 일정 정도의 청각 장애도 동반함.
+	
+	[혈중 오리지늄 결정 밀도] 0.5u/L
+	환자 에이야퍄들라의 내 순환계 오리지늄 결정 밀도가 비교적 높은 수치를 보이고 있음.
+
+———————————————————————————————
+
+	档案资料一 :
+	艾雅法拉初次在罗德岛露面的时候，带领她前往人事办公室的职员就发现了她的一些异状：她时常分辨不出别人在说什么，偶尔还会撞到头。而其他职员们在纷纷猜测，这个体态娇小的女孩子究竟是哪位干员的妹妹，还是罗德岛制药部门派下办事的实习生。
+	几天后，当相关部门的职员们陆续收到高层通知，同意感染者艾雅法拉出任行动干员，并作为法术与天灾等多项领域的研究专家正式加入罗德岛之后，每个人脸上都显露出了不同的神色。
+	表情惊讶者发现，这名他们一开始未加留意的女孩，居然已经在莱塔尼亚一些颇负盛名的高等学府中留下了自己的名字。话题随后很快便转移到了互报学历上。
+	表情欢欣者觉得，能有年轻的职员进驻法术部门，一定能给平日严肃、沉闷的工作带来不小的活力。他们用低沉而难掩兴奋的语气，争论着谁来担任这位女孩子实习期间的教习。
+	表情伤感者叹息，艾雅法拉已经是一名感染者了，没人能预言她的未来将会停留在什么地方。
+
+	第一資料 :
+	エイヤフィヤトラがロドスに初めて訪れた際、彼女を人事部に案内した職員たちは皆すぐに彼女の異常に気づいたという。彼女は他人が話している内容を聞き取ることができず、壁に頭をぶつけることまであったためだ。職員たちはこの小さな女の子の正体を、誰かの妹か、それともロドスの製薬部の実習生か……と、想像を巡らせた。
+	数日後、感染者であるその少女、エイヤフィヤトラをオペレーターとして採用すること、そして彼女はアーツ、天災などの研究者として、その関連業務にも参加することの通達が各職員にされ、彼らは三者三様の表情を見せた。
+	驚きの表情を見せた者たちは、その目立たない少女がなんとリターニア王国では名高い最高学府にその名を残していたことを知り、学歴の話題で盛り上がった。
+	喜びの表情を見せた者たちは、若くて有能な職員がアーツ部に来てくれれば、きっと普段の厳しく陰気臭い仕事に大きな活力を与えてくれるはずだと笑顔になった。そして興奮を隠しきれない様子で、誰が彼女の研修期間の担当官になるかを言い争った。
+	悲しみの表情を見せた者たちは、若くして感染者となった彼女に待っている未来はどのようなものかと、誰も予測できない未来を思い暗い表情を見せた。
+
+	Archive File 1 :
+	When Eyjafjalla showed up at Rhodes Island for the first time, the personnel leading her to Human Resources noticed some odd behaviors right off the bat: She couldn't make out what people were saying and would sometimes run right into things. People assumed she was some Operator's visiting little sister, or an intern sent by the pharmaceutical department. 
+	A few days later, they were shocked to receive a notice from the executives, approving the Infected Eyjafjalla for missions and the research of Arts and Catastrophes as an official Rhodes Island Operator. 
+	It turns out the little girl they overlooked was a legend among the most renowned academies in Leithanien, fueling speculation about her level of education. 
+	The optimists believed having a young person in the Arts Department would bring some much-needed energy to their somber daily grind. They debated in low but excited voices over who would mentor her internship. 
+	The pessimists lamented that as an Infected, no one could predict where Eyjafjalla might end up in the future.
+
+	파일 자료 1 :
+	    에이야퍄들라가 처음 로도스 아일랜드에 왔을 때, 그녀를 인사부로 인솔했던 직원은 그녀가 자주 다른 사람이 무슨 말을 하고 있는지 알아듣지 못하고, 가끔 머리를 부딪히는 이상 증세가 있다는 걸 발견하였었다. 그리고 그때 당시, 다른 직원들은 이 작은 체구의 여자 아이는 어떤 대원의 여동생인지, 아니면 로도스에 파견을 온 실습생인지 추측하고 있었다.
+	    며칠 후, 관련 부서의 직원들은 잇다른 고위층의 지시 끝에 감염자 에이야퍄들라를 작전 대원으로 임명하게 되었다. 또한 아츠나 재앙 같은 다양한 영역의 연구학자로서 정식으로 로도스 아일랜드에 입사했는데, 그때 모든 사람들은 각자 얼굴에 다른 표정을 띄고 있었다.
+	    놀란 표정을 지은 사람들은, 그들이 처음부터 별 신경 쓰지 않고 있었던 여자 아이가 사실은 라이타니아에서 굉장히 명성이 높은 고등교육기관에 이름을 남긴 사람이었다는 사실을 알자 재빠르게 그녀의 학력에 대해 이야기를 나누기 시작했다.
+	    기쁜 표정을 지은 사람들은, 젊고 유능한 직원이 아츠 부서에 들어온다면 분명 평소의 엄숙하고 음침한 분위기에 적잖이 활력을 불어다 넣어줄 것이라 기대했다.
+	    그들은 엄숙하지만 기쁨을 숨길 수 없는 어투로, 누가 실습 기간 동안 이 여자아이를 데리고 교육시킬 것인지에 대해 언쟁하기 시작했다.
+	    반대로 어두운 표정을 지은 사람들은, 에이야퍄들라가 한 명의 감염자인 이상 그 누구도 그녀의 미래가 어떻게 될지는 모를 것이라며 탄식했다.
+
+———————————————————————————————
+
+	档案资料二 :
+	干员艾雅法拉填报的资料显示，她出生于莱塔尼亚一个正统而充满学术氛围的家庭中，父母就职于莱塔尼亚威廉大学，其父为源石技艺学院教授，研修生导师，其母为自然环境与生态系统研究专家。两人已于一次火山实地考察中遭遇火山碎屑流，不幸丧生。 
+	艾雅法拉的父母曾共同起草了一项关于泰拉自然产生的天灾系统的调查项目，其中火山为该项目中的重点调查对象。艾雅法拉携带至罗德岛的资料中，她最为珍视的正是其父母关于火山学若干研究报告。她希望这些研究不会因父母的逝去而中断，因此主动选择继承了他们的火山学研究成果。 
+	火山学研究需要在火山喷发前后期进行实地考察，在调查期间需长期停留于火山地带。而火山地带饱含源石颗粒的火山烟尘，以及冷却岩浆中不断翻涌出的源石矿脉，使火山活跃地带同时也会成为一片典型的矿石病易感地区，相信这是艾雅法拉成为感染者的直接因素。
+
+	第二資料 :
+	エイヤフィヤトラが提出した資料によると、彼女はリターニアの由緒正しい知識階級の家の生まれで、その両親は共にリターニアのウィリアム大学に勤めていたという。父はアーツ学部の教授であり研修生の指導教官、母は自然環境と生態系の研究者だったが、不幸にも火山調査のフィールドワーク中に火砕流に呑まれ、二人とも亡くなっている。
+	彼女の両親はこの世界で自然発生する天災に対して、特に火山に重点をおいた研究プロジェクトを立ち上げ、その研究を進めていた。彼女がロドスに持ってきた資料の内、その火山に関する若干の研究記録が一番大切なものだと彼女は語る。それらの研究を両親の死とともに風化させないために、彼女はその研究を受け継いだという。
+	火山の研究は火山が噴火する前後でのフィールドワークが必須であり、その期間中は火山地帯に長期的に滞在しなくてはならない。火山地帯には源石の顆粒を含む煙や塵、溶岩が冷やされる過程で湧き出す源石鉱脈などが多数分布しており、非常に鉱石病に感染しやすい環境であるため、彼女が感染者となった原因もそこにあると考えられる。
+
+	Archive File 2 :
+	According to forms filled out by Eyjafjalla, she was born to a prominent academic family in Leithanien. Her parents worked at William University, her father a graduate professor for the School of Originium, her mother an environmental and ecological research specialist. The couple died in a volcanic eruption during a survey. 
+	Eyjafjalla's parents had begun a project to study natural Catastrophes on Terra, and the volcano was a key site. Among the files Eyjafjalla took with her to Rhodes Island, she treasured the report on that volcano most of all. She didn't want the study to end with the passing of her parents, so she decided to continue it in their stead. 
+	Volcanic research must be done on-site before eruption and required long-term close-range observation. Particles with Originium components tended to be common in volcanic areas, and cooling lava constantly turned over new Originium veins, making the region a breeding ground for Oripathy. This is believed to be the reason for Eyjafjalla's infection.
+
+	파일 자료 2 :
+	    오퍼레이터 에이야퍄들라가 기입한 자료에 따르면, 그녀는 라이타니아의 전통있고 학술적 분위기가 충만한 집안에서 태어났다고 한다. 부모 모두 라이타니아의 윌리엄 대학에 재직 중이었는데, 부친은 오리지늄 아츠 방면의 교수로서 연수생들을 가르쳤고, 모친은 자연환경 및 생태계 연구 학자였다고 한다. 안타깝게도, 그녀의 양친은 모두 과거 화산 관찰 도중 화산쇄설류를 만나 안타깝게 생을 마감하였다.
+	    에이야퍄들라의 부모는 생전에 테라에서 자연적으로 발생하는 재앙에 대한 조사 프로젝트를 막 시작했었는데, 당시 프로젝트의 중요 조사 대상은 바로 화산이었다. 에이야퍄들라가 로도스 아일랜드에 가져온 자료에는, 그녀가 가장 소중히 여기는 것이 바로 자신의 부모가 화산에 대해 기록한 연구 보고라고 적혀있다. 그녀는 부모의 죽음으로 인해 이 연구가 중단되어선 안된다고 생각하여, 자발적으로 부모의 화산 연구 성과를 계승해나가기로 결심하였다.
+	    화산 연구를 위해선 현지에서 화산이 폭발하기 전후를 직접 관찰해야 하며, 조사 기간 중에는 장시간 화산 지대에 체류해야 한다. 게다가 화산 지대에는 오리지늄 입자를 포함한 화산재가 흩날리며, 용암이 냉각되는 과정에서 끊임없이 오리지늄 광맥이 분출되기에, 화산 활동 지대는 전형적인 광석병 감염 위험 구역이라고 할 수 있다. 에이야퍄들라가 감염자가 된 직접적인 원인은 바로 이것일 것이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	艾雅法拉的矿石病病症在生理上表现的十分明显。她的听觉神经系统受矿石病压迫较为严重，伴发不同程度的听觉失灵现象，所幸已在症状近一步恶化前由罗德岛介入治疗，目前病情发展已趋于缓慢。 
+	在日常生活中，艾雅法拉必须借助助听工具，或加大对话音量并多次重复对话等方式进行交流。 
+	除此以外，一些经多方成功验证的，基于面部表情与肢体动作的交流经验，也被认为是行之有效的。以下作为总结： 
+	摇头：对话未能成功进行。 
+	摇头并露出惊讶表情：极有可能是某些用词的选择上产生了理解差异，需要尽快进行解释，否则会有产生误会的可能。 
+	点头：对话成功进行。 
+	点头并露出积极的表情：对话行之有效并成功传达了想法，可视为对话良好正在进行。但同时也要注意用词的精准性。即使是积极的结果，亦有可能是建立在某个双方都未曾发觉的错误信息的堆积上。 
+	多次重复某一次词汇或句子：艾雅法拉在积极确认她接收到的内容是否准确，亦要积极进行回应。注意音量。 
+	发呆或表情消极：极有可能已经产生了某种误会，需要立刻回忆先前的对话内容，避免误会近一步加大。
+
+	第三資料 :
+	エイヤフィヤトラの鉱石病症状は彼女の身体機能に強く現れている。その中でも聴覚神経への影響は大きく、明らかな聴力の低下が見られる。幸いにも症状が悪化する前にロドスでの治療を開始したため、病状の進行は比較的緩慢な状態となっている。
+	日常生活では彼女は補聴器を付けているが、こちらからも会話の声量を大きくしたり、何度も言葉を繰り返したりといった対策をすることで、比較的円滑にコミュニケーションをとることが可能である。
+	それ以外に、彼女のジェスチャーからコミュニケーションが滞りなく進んでいるかを判断する方法も有効である。以下にその判断基準をまとめる。
+	首を横に振る：会話がうまく進んでない。
+	首を横に振り驚いた表情を見せる：齟齬が生じている可能性が高い。大きな誤解を生まないためにも早急な説明が必要である。
+	頷く：会話が問題なく進んでいる。
+	頷きながらポジティブな表情を見せる：うまく考えが伝わり、順調に会話が進んでいると思われる。しかし齟齬が生じていることにどちらも気づいていないだけの可能性もあるので、引き続き言葉選びには十分注意すること。
+	何度も同じ単語やフレーズを繰り返す：自身の理解が正しいかを確かめているか、何か返事を返そうとしている。声量に注意すること。
+	ぼんやりした表情、あるいはネガティブな表情をする：既に何かしらの誤解が生じている可能性が高い。直ちに会話の内容を振り返り、誤解を解く必要がある。
+
+	Archive File 3 :
+	Eyjafjalla's physical symptoms are very obvious. Oripathy has impaired her hearing considerably, sometimes robbing her of the sense entirely. Fortunately, the impairment has slowed given treatment at Rhodes Island. 
+	Eyjafjalla typically uses a hearing aid, or asks her conversant to repeat loudly themselves in order to communicate. 
+	In addition, certain facial expressions and body language have also proven effective. For example: 
+	Shaking one's head: Unsuccessful dialogue. 
+	Shaking one's head with a surprised expression: Very likely some words have been misunderstood and should be clarified immediately. 
+	Nodding: Successful dialogue. 
+	Noding with a positive expression: Idea successfully communicated, proceed with dialogue. Still, one must be mindful of the context, since the present dialogue might be built on the pretext of a previously unnoticed misunderstanding. 
+	Repeating a word or sentence multiple times: Eyjafjalla is confirming what's been communicated to her, respond positively and mind one's volume. 
+	Glassy-eyed or negative expression: Misunderstanding has possibly occurred. Review previous dialogue to avoid greater misunderstanding.
+
+	파일 자료 3 :
+	    에이야퍄들라의 광석병 증세는 신체 상으로 매우 분명하게 나타난다. 그녀의 청각 신경계는 광석병의 영향을 받아 손상이 비교적 심각한 상태로, 거의 청력을 완전히 잃기 직전이었지만 다행히 그 전에 로도스 아일랜드로 와서 치료를 받아 현재는 병세가 악화되는 속도가 안정화되었다.
+	    일상생활 중 에이야퍄들라는 원활한 의사소통을 위해 보청기를 착용해야 했으며, 상대방이 크게 말해주거나 같은 말을 여러번 말해줘야 원활히 의사소통을 할 수 있었다.
+	    이러한 방법 외에, 안면부 표정이나 몸동작에 기반한 소통 방식이 여러 사례를 통해 성공적인 소통 수단 중 하나로 검증되었는데, 종합하자면 다음과 같다.
+	- 고개 흔들기: 대화 진행 실패.
+	- 고개를 흔들며 놀란 표정 짓기: 내뱉은 단어 중 어떤 한 단어가 그녀의 오해를 샀을 확률이 매우 높으니 최대한 빠르게 해명을 해야하며, 그렇지 않을 경우 추가적 오해를 살 수 있다.
+	- 고개 끄덕이기: 대화 진행 성공.
+	- 고개를 끄덕이며, 적극적인 표정 짓기: 대화가 성공적이었으며, 자신의 생각이 적절히 전달되었다는 의미로, 대화가 아주 잘 진행되는 중이라 볼 수 있다. 다만 여전히 단어 선택에 있어서는 주의가 필요하다. 긍정적인 결과가 나왔다하더라도, 어쩌면 이는 두 사람의 오해에 기반해 나온 결과일 수도 있기 때문이다.
+	- 여러 차례 한 단어나 문장 말하기: 에이야퍄들라가 자신이 이해한 것이 맞는지 확인하고자 하는 것으로, 이때 적극적으로 응답을 해줘야 하며, 목소리 크기에 주의해야 한다.
+	- 멍한 표정을 짓거나, 표정이 좋지 않을 때: 어떠한 오해를 샀을 확률이 매우 높으니, 이전 대화 주제로 돌아가 오해를 풀어야만 문제가 더 커지는 것을 막을 수 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】 
+	艾雅法拉的档案，还有她草拟的那些论文，我已经阅读过了。 
+	《地下源石矿脉对火山运动周期的影响》以及《关于源石与天灾生成关系的调查报告》，还有其他一些分析报告......写的不错，很有见地。 
+	同时，也很危险。 
+	尤其是这一点，希望各位最好也能够理解。她在触犯某些领域——不只是和学术有关。 
+	蚁群——你应该知道这种虫子。那么你也应该观察过，蚁群喜欢搬运死去的生物。 
+	虽然那些死物正在逐渐腐朽，但在这之前，蚁群会尽可能地将有机部分撕碎，切割，再搬运回巢穴，借以喂养它们的整套社会系统。 
+	蚁群必须变得强大，才能在这片浩大的土地上存活。 
+	你明白了吗？如果说源石是......这样的东西，那么对于现在的人类来说，他们在用这种东西喂养整个社会，为了使各自的种群变得更加强大。至于强大的目的，是为了防范，为了对抗，也许会在未来发生的某些变化。 
+	是的，即使按照艾雅法拉的论证，源石与天灾，是这样......的一种关系。 
+	人类依然无法停止，不能停止。 
+	...... 
+	暂时，可以让这个孩子继续她的研究。 
+	在她还无法确定自己的未来之前。 
+	——记录于某次内部会议，发言者■■
+
+	第四資料 :
+	【権限記録】
+	エイヤフィヤトラの資料、そして彼女の論文草案には目を通しました。
+	『地下源石鉱脈が火山運動周期に与える影響』及び『源石と天災との関係に関する調査報告』、それからその他の分析レポートも一通り……とてもよく書けていて、なかなか見識があるように思います。
+	ですが、同時に危険でもあります。
+	彼女はとある領域に抵触しようとしています……それも学術的なもののみに留まりません。特にこの一点に関しては、皆さんによく理解しておいてもらえればと思います。
+	アリ――その虫は知っていますね。ではそれを観察したこともあるでしょう。アリの群れは死んだ生物を運ぶのもご存知ですね。
+	死体は徐々に腐敗していきますが、アリたちはその前に死体を引きちぎり、切り裂き、巣穴に持ち帰ります。そしてそれらは、彼らの社会を育む餌となるのです。
+	アリは強くならなければ、この広大な大地で生き抜くことはできません。
+	わかりましたか？つまり源石が……そういうものだとすれば、現代の人類はそんなもので社会を育んでいると言えます……それぞれの種族をより強くするためにね。強くなる目的は外敵への対抗や防衛の為、或いは未来に何かしらの変化をもたらす為と様々だとは思いますが。
+	エイヤフィヤトラの論証に基づいて、源石と天災がその様な関係だと仮定したとしても……
+	どちらにせよ人類は止まれないし、止まるわけにもいかない。
+	……。
+	しばらくは、あの子に研究を継続させましょう。
+	彼女が自分の未来を決める術を持つまでは。
+	――某日の内部会議にて、発言者■■
+
+	Archive File 4 :
+	[CLASSFIED] 
+	I've perused Eyjafjalla's files and a draft of her thesis. 
+	'The Impact of Underground Originium Veins on Volcanic Cycles' and 'Investigative Report on the Correlation Between Originium and Natural Catastrophes,'plus a few other analyses are... very well done and reasoned. 
+	Also, very dangerous. 
+	I hope everyone realizes she is asking dangerous questions in dangerous areas--and not just academic ones. 
+	You do know ants, right? Then you should know ants love carrion. 
+	Even though the carrion is still rotting, the ants will still rip it to tiny chunks and carry them back to their nest to feed the whole community. 
+	Ants must grow stronger to survive in the world. 
+	Do you get it? If the carrion is Originium, we are feeding our community with it for everyone to grow stronger. And the purpose of that is to defend ourselves... and maybe oppose potential changes in the future. 
+	Yes, according Eyjafjalla's thesis, Originium is a natural Catastrophe. 
+	But we cannot stop, and will not stop. 
+	... 
+	Let the child continue her research, for now. 
+	Before she can be certain of her own future. 
+	—Excerpt from a closed-door conference, spoken by■■
+
+	파일 자료 4 :
+	[제한된 기록]
+	    에이야퍄들라에 관한 파일과 그녀가 작성한 논문 초안들은 이미 전부 읽어보았습니다. <지하 오리지늄 광맥이 화산 활동 주기에 미치는 영향>과 <오리지늄과 재앙 발생 관계에 대한 조사 보고>, 그리고 다른 분석 보고서들도…… 전부 훌륭한 견해입니다만, 이는 매우 위험하기도 합니다. 특히나 이 부분, 다들 이해하셨으면 좋겠습니다만, 그녀가 손을 대고 있는 영역들은 학술에 관련된 것만이 아닙니다.
+	    개미… 이 곤충은 잘 알고 계시겠죠. 개미들이 죽은 생물의 시체를 옮기는 걸 관찰해보신 적이 있을 겁니다. 이 시체들은 점차 부패해가겠지만, 개미떼가 그전에 자르고, 잘게 부수고, 다시 굴로 날라 자신의 공동체를 먹여 살릴 겁니다. 반드시 강해져야만 이 거대한 대지에서 살아남을 수 있을 테니까요.
+	    아시겠습니까? 만약 오리지늄이…… 이런 존재라면, 현재 인류는 오리지늄을 전체 사회를 먹여 살리고, 각자의 종족을 강하게 만들기 위해 사용하고 있고, 강해지려는 목적은 방위나 대항, 아니면 미래에 발생할 어떤 변화를 대비하기 위함이라면……
+	    그렇습니다. 에이야퍄들라의 견해처럼, 오리지늄과 재앙은 일종의 이런…… 관계라 하더라도, 인류는 멈출 수 없고, 멈춰서도 안 되겠죠.
+	……
+	    일단은, 그 아이가 연구를 계속하도록 놔두죠.
+	    그 아이가 자신의 미래를 확정할 수 있을 때 까지는.
+	——어느 내부 회의 기록 중, 발언자 ■■
+
+———————————————————————————————
+
+	晋升记录 :
+	艾雅法拉的宠物 
+	与干员慕斯的“猫猫”相仿，与艾雅法拉相伴的这些黑色绒毛生物，无论从生理结构还是行动模式上来看，都与寻常的动物无异。 
+	艾雅法拉昵称它们“小黑羊”，据她所说，这些小黑羊是母亲生前送给她的宠物。 
+	与淘气的“猫猫”不同，小黑羊们平日温顺而迟缓，最大的乐趣就是待在艾雅法拉的房间中或罗德岛内较为宽敞的地方睡觉。 
+	它们能够帮助艾雅法拉做很多事情，例如搬运书本，递送货物。甚至还能当成枕头让艾雅法拉枕在它们长满蓬松绒毛的背上睡觉。 
+	【权限记录】 
+	虽然......并不是非常机密的事，但我认为也相对值得记录。 
+	艾雅法拉虽然称呼它们为“小”黑羊，但它们仍属于是体型相对较大的宠物。 
+	那么，在罗德岛少看到它们的身影，就显得非常奇怪了。 
+	这样一想，它们平日的行踪非常神秘，只有在悠闲吃草，或艾雅法拉需要它们帮忙的时候，才会忽然出现。 
+	另一个现象是，当它们生气或高兴的时候，会产生极热的温度，随意伸手去摸的话，甚至有可能烫伤。 
+	究竟是什么样的机制，会引发这样的现象，这也许是仍需探讨的事情。
+
+	昇進記録 :
+	エイヤフィヤトラのペット
+	エイヤフィヤトラが連れている黒毛の生物は、母親が生前に彼女に与えたペットであり、彼女はそれらを「ちびめーちゃん」と呼んでいる。
+	ちびめーちゃんはムースの「ねこちゃん」と同じく、生物学上、行動パターン上どちらも普通の動物となんら変わらないものである。
+	いたずらっ子なムースの「ねこちゃん」とは違い、ちびめーちゃんたちは普段は穏やかでゆったりとしており、エイヤフィヤトラの部屋やロドスの広い場所で眠るのが好きなようだ。
+	また、エイヤフィヤトラの手伝いをしている様子もよく見られる。書類や荷物を運ぶだけではなく、ベッド代わりになってフワフワの背中で彼女を寝かせることもある。
+	【権限記録】
+	まあ……機密事項というほどではないが、記録するに値するものだと思う。
+	エイヤフィヤトラは「ちび」めーちゃん、と呼んでいるが、やはりあれは比較的大型の生物に属するだろう。
+	それだけ大型な生物であるにも関わらず、ロドス内ではあまり目にすることがないのはやはりおかしい。
+	思い返してみれば、草を食べる時、エイヤフィヤトラが助けを必要した時にはどこからともなく現れるが、あの生物の普段の行動は謎に包まれている。
+	それにもう一つ気になるのは、怒ったり興奮したりすると体温が異常に上昇する点だ。その際に気安く触れれば火傷することすらあるだろう。
+	一体どのようなメカニズムであの様な現象を引き起こしているのか、これも探っていく必要があるだろう。
+
+	Promotion Record :
+	Eyjafjalla's pets 
+	serve a similar role as Operator Mousse's 'kitties.' Eyjafjalla's dark-woolen companions appear identical to normal animals in physiology and behavior. 
+	Eyjafjalla calls them 'little black sheep', claiming they were gift from her mother when she was still alive. 
+	Unlike the naughty 'kitties', the little black sheep are submissive and sluggish, their idea of fun is to nap in Eyjafjalla's room or some place spacious at Rhodes Island. 
+	They helped Eyjafjalla with many things, like move books and deliver goods. They even make good fluffy pillows for her to lay her head on. 
+	[Classified Log] 
+	This is not really confidential information, but something I believe is noteworthy. 
+	Although Eyjafjalla dubbed them 'little', they're still big pets. 
+	Given their size, it is odd that they're hardly spotted at Rhodes Island. 
+	On retrospect, it is suspicious that they only showed up to graze or when Eyjafjalla needed them. 
+	Another usual phenomenon is when they give off high heat when angry or excited, possibly burning your hand when touched. 
+	The truth behind all this is worth investigating.
+
+	승진 기록 :
+	에이야퍄들라의 애완동물
+	    오퍼레이터 무스의 '야옹이'와 비슷함. 생물학적 구조나 행동 방식 상에서 봤을 때, 에이야퍄들라가 데려온 이 검은색 털로 뒤덮인 생물체는 일반 동물과 다른 점이 없음. 에이야퍄들라는 이들을 '쪼꼬미양'이라 부르는데, 그녀의 말에 의하면, 이 검은 양은 모친이 생전에 그녀에게 선물한 애완동물이라고 한다.
+	    성가신 '야옹이'와는 달리, 이 검은 양들은 평소에 매우 온순하고 느릿느릿하다. 가장 좋아하는 것은 에이야퍄들라의 방에 머물거나, 로도스 아일랜드에서 비교적 편안한 곳을 찾아 잠을 자는 것이다. 이들은 에이야퍄들라를 도와 책이나 화물을 나르는 일 등을 처리해줄 수 있다.
+	
+	[제한된 기록]
+	    비록…… 대단한 비밀은 아니지만, 내가 생각하기에 상대적으로 기록할 가치가 있는 것이다. 에이야퍄들라가 자신의 애완동물을 작다는 의미의 '쪼꼬미'양이라고 부르긴 하지만, 사실 이들은 덩치가 큰 편에 속한다. 그래서 로도스 아일랜드에서 이들이 눈에 띄지 않는다면, 이는 아주 이상한 일이라 할 수 있다. 이렇게 생각하자니, 평소 이들의 행적은 무척 신비롭다고도 할 수 있겠다. 풀 먹을 시간이 되거나, 에이야퍄들라가 도움이 필요할 때만 갑자기 모습을 드러내니 말이다.
+	    또 다른 현상은 이들이 화를 내거나, 기뻐할 때 매우 높은 열을 뿜어낸다는 것이다. 아무런 생각 없이 손을 뻗어 쓰다듬으려 했다가는 화상을 입을 수도 있다. 대체 무슨 원리로 이런 열을 발생시키는 건지는, 좀 더 연구가 필요할 것이다.

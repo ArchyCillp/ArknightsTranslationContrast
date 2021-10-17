@@ -1,11 +1,17 @@
 ID:
 	char_108_silent
 
-干员代号\Name:
+CV:
 	赫默
 	サイレンス
 	Silence
 	사일런스
+
+干员代号\Name:
+	鬼头明里
+	鬼頭明里
+	Akari Kitō
+	키토 아카리
 
 招聘合同\Character Usage:
 	莱茵生命医疗专家赫默，会为战场带去最新的研究成果。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	实验会有风险，实验成果却没有，因为那是“副产品”。
 	実験ならリスクは付きもの。実験結果も気にしなくて大丈夫。だってあれは副産物だから。
-	There’s no risk in the fruits of research, as they are only byproducts after all. Experimentation, on the other hand…
+	There's no risk in the fruits of research, as they are only byproducts after all. Experimentation, on the other hand...
 	실험에는 리스크가 따르지만, 실험 결과에는 리스크가 따르지 않는다. 실험 결과란 부산물일 뿐이니까.
 
 信物\Potential Item:
@@ -43,177 +49,473 @@ ID:
 	치료 드론
 
 语音\Voices:
-	博士，这些是今天的工作——是啊，堆积如山呢，一起加油吧。
 	ドクター、これが今日の仕事――そう、山のようにあるから、一緒に頑張ろう。
 	Doctor, these are your tasks for the day. Yeah. A whole pile of work. Let's get to it.
 	박사, 이게 오늘 할 업무야… 그래, 산처럼 쌓여 있으니까, 함께 힘내 보자.
 
-	伊芙利特又在闹了吗？抱歉，之后我会责备她的。
 	イフリータがまた暴れてる？ごめん、あとで叱っておくから。
 	Is Ifrit making trouble again? Sorry. I'll discipline her later.
 	이프리트가 또 소란을 피웠어? 미안, 나중에 혼낼게.
 
-	Zzzzz......嗯？呃，我只是想小睡一下......果然还是不太适应在白天工作。
 	Zzzzz……ん？す、少し眠たかっただけ……。やっぱり昼間の仕事には慣れない。
 	Zzzzz... Huh? Um, I was taking a nap... I'm still not used to working during the day.
 	쿠울… 어? 자, 잠깐 졸았을뿐이야… 역시 낮에 일하는 건 익숙지 않네.
 
-	离开莱茵生命的理由？因为发生过很多事，我也不知道该从什么时候说起......
 	ライン生命を離れた理由？いろいろあったから、何から話せば……。
 	My reasons for quitting Rhine Lab? So much happened since I signed on, I don't even know where to start...
 	라인 랩을 떠난 이유? 너무 많아서 무엇부터 이야기해야 할지… 
 
-	塞雷娅这个名字,您听过吗？她以前和我一样，也是莱茵生命的科学家——然后，她也是让伊芙利特诞生的人之一......
 	サリアって名前、聞いたことある？彼女は、私と同じ元ライン生命の科学者で――そして、私と一緒に、イフリータを生み出した人物……。
 	Have you ever heard of a woman named Saria? Like me, she was once a scientist at Rhine Lab, and she was one of the people responsible for the creation of Ifrit...
 	사리아라는 이름 들어본 적 있어? 나랑 마찬가지로 라인 랩 과학자 출신이야… 그리고, 나와 함께 이프리트를 탄생시킨 사람이지… 
 
-	莱茵生命所做的有关生命的研究，已经到了尝试将源石碎片植入身体的地步......对不起，我们还是换个话题吧。
 	ライン生命で行っていた生命に関する研究は……源石の断片を人体に移植することすら……ごめん、この話はやめよう。
 	Our biology research at Rhine Lab went so far as to implant Originium Shards into living bodies... Sorry, we'd better change the subject.
 	라인 랩에서 진행했던 생명에 대한 연구는… 오리지늄의 파편을 인체에 이식하는 것조차도…… 미안, 이 이야기는 그만두자.
 
-	塞雷娅？您说她在罗德岛？是来找伊芙利特吗......那时候她明明头也不回地就离开了，为什么现在还要......！
 	サリア？彼女がロドスに？イフリータに会いに来たのかな……あの時は振り返りもせず出て行ったのに、どうして……。
 	Saria? You mean she's here at Rhodes Island too? Is she here for Ifrit...? She walked out without a second thought, so why has she returned...?!
 	사리아? 사리아가 로도스 아일랜드에 왔다고? 이프리트를 만나러 온 걸까… 그때는 뒤도 돌아보지 않고 떠나가 놓고선, 대체 왜… 
 
-	我不会让伊芙利特见塞雷娅的。也请您相信，我这样做，是对伊芙利特好......！
 	イフリータは、サリアに会わせない。それがイフリータのためだから。私を信じて……！
 	I will not allow Ifrit to see Saria. Please trust me, this is for Ifrit's own good...!
 	사리아가 이프리트를 못 만나게 할 거야. 그게 이프리트를 위해 도움이 되니까. 날 믿어줘…!
 
-	和我一样，您也在试图清除矿石病吗？听说罗德岛的医疗技术开发也与您有关。呵呵，对我们这些研究者来说，这真是让人憧憬呢。
 	私と同じように、あなたも鉱石病をなくそうとしているのでしょう？ロドスの治療技術もあなたが発展させたと聞いた。ふふ、私たち研究者にとって、あなたは憧れの存在かもしれないね。
 	Are you trying to cure Oripathy too? I heard that you were involved in the development of medical technology at Rhodes Island. Heheh... You may be what we researchers have been waiting for.
 	나와 마찬가지로 당신도 광석병을 없애려는 거지? 로도스 아일랜드의 치료 기술도 당신이 발전시킨 거라 들었어. 후후, 우리 같은 연구자들에게 당신은 선망의 대상일지도 모르겠네.
 
-	......博士，睡着了吗？算了，剩下的工作我来做吧。
 	……ドクター、寝てるの？まぁいい。残った仕事、片付けといてあげようか。
 	...Doctor, did you fall asleep? All right. Leave the rest of the work to me.
 	…박사, 자는 거야? 뭐, 상관없어. 남은 업무나 좀 정리해 줄까.
 
-	奥利维亚·赫默，莱茵生命医学研究所的源石研究者。清除这个世界上所有的矿石病，这是我的愿望，即使为此面临生命危险也不会改变。
 	オリヴィア・サイレンス。元ライン生命医科学研究所の源石研究者。この世から全ての鉱石病を根絶するのが、私の望み。たとえ命の危険にさらされようと、その考えは変わらない……。
 	I am Olivia Silence, an Originium scientist from the Rhine Lab Medical Research Institute. My hope is to rid the world of Oripathy... even if it means risking my life in the process.
 	올리비아 사일런스. 라인 생명연구소의 오리지늄 연구자야. 이 세상에서 광석병을 근절시키는 게 내 소망이고. 설령 목숨이 위험해지더라도 내 뜻에 변함은 없어… 
 
-	我会好好运用这份新的力量。
 	新しい力、ちゃんと使いこなすから。
 	I will make good use of this new power.
 	새로운 힘, 잘 사용할게.
 
-	我开发的药物非常有效吗？太好了，比起晋升，这个消息更让我高兴。
 	私の開発した薬がよく効いてる？よかった……昇進なんかより、この知らせのほうが嬉しい。
 	Is my medicine effective? Wonderful. This news brings me even greater joy than my promotion.
 	내가 개발한 약이 잘 듣는다고? 다행이다… 승진 같은 것보다 그 말 한마디가 더 기뻐.
 
-	博士，我等待着，等待着从这片大地上彻底清除矿石病的那天，与您并肩作战，共同研究，这一天，也许终会到来......
 	ドクター、私が望んでいる未来……それは、この世から鉱石病をなくすその日まで、あなたと一緒に戦い、研究を続けていくこと……。そんな未来に、もしかしたら本当に手が届くかもしれない……。
 	Doctor, I am looking forward to the day when the world is finally cured of Oripathy. In fighting and studying with you, I think that day may not be far off.
 	박사, 내가 바라는 미래는… 이 세상에서 광석병을 없애는 그날까지 당신과 함께 싸우고, 연구를 계속해 나가는 거야… 어쩌면 그런 미래에 정말 손이 닿을지도 몰라…… 
 
-	明白，我会做好支援工作。
 	わかった。しっかり援護するから。
 	Understood. I'll focus on support.
 	알겠어, 제대로 지원할 테니까.
 
-	队员们，全力以赴地战斗吧。
 	チーム全員に、全力で戦わせる。
 	Come on, team, let's fight with all our might.
 	팀원 모두 온 힘을 다해 싸울 수 있도록 할게.
 
-	这场战斗，也是源石的错吗？
 	この戦いも、源石のせいなの……。
 	Is Originium to be blamed for this battle?
 	이 전투도 오리지늄 탓일까… 
 
-	观察并确定他们的感染类型，这对实验很有用。
 	彼らを観察して感染タイプを特定しよう。きっと実験の役に立つから。
 	Observe and determine the form of Infection. Such data will be useful for my experiments.
 	저들을 관찰해서 감염 타입을 특정해 보자. 분명 실험에 도움이 될 거야.
 
-	博士，让我去吧。
 	ドクター、私が行くから。
 	Doctor, let me do it.
 	박사, 내가 가겠어.
 
-	没有异常。
 	状況、異常なし。
 	Situation normal.
 	상황, 이상 없음.
 
-	集中精力。
 	集中。
 	Concentrate.
 	집중.
 
-	保持冷静。
 	冷静に。
 	Stay calm.
 	냉정하게.
 
-	我会治好你的。
 	ちゃんと治すから。
 	I'll heal you.
 	제대로 치료해줄 거니까.
 
-	别慌张。
 	慌てないで。
 	Don't panic.
 	당황하지 마.
 
-	去吧。
 	行って。
 	Go.
 	가.
 
-	帮助大家。
 	みんなを助ける。
 	I'll help the others.
 	모두를 구하겠어.
 
-	为了战胜比现在更强的敌人，我们难道也要更多利用源石的力量......吗？
 	今回以上の強敵を倒すには、源石をもっと利用する必要が……ある？
 	In order to defeat stronger enemies, must we make further use of Originium's power...?
 	이번보다 더 강한 적을 쓰러뜨리기 위해선, 오리지늄을 더 많이 써야… 할까?
 
-	医疗组请马上进行组织采取，这将成为此地区的感染样本。
 	医療班は現地にて感染者の組織採取を行い、当エリアの感染サンプルとしてください。
 	Medical team, please take tissue samples from the Infected, we need to see the composition of the Infection in this area.
 	의료부는 현장에서 감염자의 조직을 채취하여, 해당 구역의 감염 샘플로 확보하세요.
 
-	请伤者冷静下来，医疗组会为各位进行治疗。
 	負傷者は落ち着いて。すぐ医療班が治療に向かうから。
 	All wounded personnel, please remain calm. The medical team will get to you.
 	부상자는 진정해. 곧 의료부가 치료하러 갈 테니까.
 
-	......现在不是沮丧的时候，我们必须立刻撤退。
 	……落ち込んでる場合じゃない。早く撤退しなきゃ。
 	...Now is not the time for despair. We must withdraw immediately.
 	… 낙담할 때가 아니야. 빨리 퇴각해야지.
 
-	这个房间......糟糕，是那种会让人产生睡意的设计风格！
 	この部屋……まずい、人を眠りに誘うデザインだ！
 	This room... No, this design makes me sleepy!
 	이 방… 위험해, 사람을 졸리게 하는 디자인이야!
 
-	嗯？
 	ん？
 	Hmm?
 	응?
 
-	博士，您最近变得更温柔了呢。
 	ドクター、最近もっと優しくなった気がする……。
 	Doctor, you're kinder these days.
 	박사, 요즘 들어 더 상냥해진 것 같네… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	您好，博士。
 	おはよう、ドクター。
 	Good day, Doctor.
 	좋은 아침이야, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】赫默
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】5月18日
+	【种族】黎博利
+	【身高】154cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】サイレンス
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】5月18日
+	【種族】リーべリ
+	【身長】154cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Silence
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Columbia
+	[Date of Birth] May 18
+	[Race] Liberi
+	[Height] 154cm
+	[Infection Status] 
+	Crystals have appeared on her body. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 사일런스
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 컬럼비아
+	[생일] 5월 18일
+	[종족] 리베리
+	[신장] 154cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인, 의학 테스트 보고서 참고 결과, 감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】普通 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	赫默，莱茵生命有限公司源石有关项目研究员，曾主管数项未知应用研究，同期亦主持数个矿石病临床试验项目。 
+	现于罗德岛为多项行动提供战场医疗救护服务。
+
+	個人履歴 :
+	ライン生命医科学研究所源石関連項目の研究員。かつては未知の応用研究を数項目管理しており、いくつかの鉱石病臨床実験の担当者でもあった。
+	現在はロドスの様々な活動において、戦地医療や救護支援を提供している。
+
+	Profile :
+	Silence was an Originium researcher at Rhine Lab, LLC. She was involved in several unknown applied research projects as well as several clinical trials on Oripathy.
+	She now provides battlefield medical treatments to Rhodes Island.
+
+	프로필 :
+	    라인 생명연구소의 오리지늄 연구원. 과거 미확인 응용 연구 항목을 수회 주관한 적이 있으며, 같은 기간 중 광석병 임상 실험 연구도 여러 차례 담당했었다. 현재는 로도스 아일랜드에서 여러 작전에 참여하며 전장 의료 구호 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】6% 
+	患者赫默的矿石病病灶位于体表左腿踝关节上部。 
+	
+	【血液源石结晶密度】0.24u/L
+	患者赫默的内循环颗粒密度较轻，目前病症进程较为稳定。
+	
+	【源石并发症】
+	患者赫默所属的种族拥有一定程度的嗜睡特性，以及与其他种族颠倒的睡眠周期。矿石病对其产生的消极影响，打乱了其睡眠周期的规律性。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】6%
+	左足関節上部に鉱石病巣あり。
+	
+	【血液中源石密度】0.24u/L
+	循環器系の顆粒密度は低く、現在症状は安定している。
+	
+	【源石合併症】
+	サイレンスの種族は一定の嗜眠傾向があり、他種族と異なる睡眠周期を有するが、鉱石病の影響でその睡眠周期のリズムが乱されている。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 6% 
+	Patient has ore lesion located on the upper left thigh. 
+	
+	[Blood Crystal Density] 0.24u/L
+	Patient does not exhibit high Blood Crystal Density. Infection is relatively stable at this point.
+	
+	[Originium Complications]
+	Patient's race is predisposed to heavy sleep patterns that are largely reversed from those of other species. Patient's infection has interrupted the regularity of her sleep patterns.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 6%
+	환자 사일런스의 광석병 병소는 왼쪽 발목 관절 상에 위치. 
+	
+	[혈중 오리지늄 결정 밀도] 0.24u/L
+	환자 사일런스의 내순환 입자 밀도는 비교적 높지 않음, 현재 병세가 비교적 안정적.
+	
+	[오리지늄 합병증]
+	환자 사일런스의 종족은 일정 정도의 수면 과잉 특성이 존재하며, 다른 종족과는 반대되는 수면 주기를 지니고 있다. 오리지늄이 이에 부정적 영향을 미쳐, 수면 주기의 규율성이 흐트러졌다.
+
+———————————————————————————————
+
+	档案资料一 :
+	赫默作为一名优秀的科研工作者，她与其他同行一样一丝不苟，而且拥有敏锐的洞察力以及极强的执行力。一旦投身实验之中，她就会像一台精密的机器开始运转一般，不会出现一丝一毫的错误。她这股严谨的科研作风为她带来了诸多值得赞叹的成果，她手下的科研小组也耳濡目染，整个组的氛围都显得有些忙碌和紧凑。
+	在交际与人际关系上，赫默不擅长应对人多的场合，例如参加聚会和派对的时候，她会表现得沉默寡言。不过，赫默的性格决不应该被称作内向。她维持日常行动的能量，来自于集中精神时带来的宁静。她只是更习惯于在保持独自一人的状态同时，安静地观察着四周。
+	事实上，与其他研究人员交流时，她会表现得极富耐心，而且善于聆听。她愿意就有关科研的任何问题展开所有维度的讨论，她会倾听任何研究上的困难并给出一些令人满意的意见乃至答案。只不过，由于她总是在实验室中忙碌，以至于除了她的下属和极少数关系较为密切的对象，鲜少有人知道她的这一面罢了。
+
+	第一資料 :
+	優秀な科学研究者であるサイレンスは、鋭い観察力と高い行動力を持った真面目な性格である。実験に取り組む彼女は、精密機械のように決してミスをしない。その徹底した仕事ぶりが相応な成果をもたらしているほか、彼女の率いる研究チームメンバーも影響を受け、チーム全体が忙しく緊張感のある雰囲気に包まれている。
+	サイレンスは人が多い場での対応が苦手で、パーティーなどでは無口になってしまう。しかしこの性格は決して内向的というわけではない。彼女の持つ集中力は日常を支える原動力となっている。これは人混みの中でも、ひとりでいる状態を保ちながら、周囲を冷静に観察することに慣れているからだ。これは彼女の強みである。
+	実際に彼女はほかの研究員と交流する時、相手の話をとても辛抱強く聞く。研究に関する疑問には議論を展開し、悩みの相談であれば適切なアドバイスを提供する。ただいつも忙しなく働く彼女のこのような一面を知っているのは、部下と極少ない親しい人間のみだ。
+
+	Archive File 1 :
+	An outstanding researcher, Silence is as meticulous as her peers. She has a keen eye for detail and single-minded execution. Once she begins an experiment, she runs through the process like a precision machine, flawlessly seeing it through to the end. Her rigorous approach to the scientific method has earned her great acclaim, with the staff under her just as commendable. 
+	But when it comes to interpersonal relationships, Silence is not so gifted, particularly when it comes to dealing with crowds. For example, when attending a party, she has a tendency to live up to her name. This is not to say she is universally introverted though. She draws energy from the serenity of intense concentration. That's simply led to her being more comfortable observing her surroundings in peaceful silence. 
+	She is known for her patience and eagerness to listen to fellow researchers. Silence is happy to discuss any scientific research questions from any and all angles. When someone encounters an obstacle in the scientific method, she will hear them out before providing a well thought out answer. Still, as busy as she is in the laboratory, most people don't get to see the communicative side of Silence, except those select few who participate in her research.
+
+	파일 자료 1 :
+	    우수한 과학 분야의 연구자인 사일런스는 다른 동료들처럼 일에 빈틈이 없으며, 예리한 통찰력과 강한 행동 집행력의 소유자다. 일단 실험에 몰두하게 되면 그녀는 정밀한 기계처럼 움직이며 한 올 만큼의 오차도 허용하지 않는다. 이런 그녀의 엄격한 연구 스타일은 감탄할만한 성과를 여러 번 낼 수 있게 도와주었지만, 그녀의 밑에서 일하는 연구팀도 은연중에 이런 영향을 받다 보니 그녀의 팀은 늘 어딘가 긴장되어있고 분주한 분위기다.
+	    인간 관계에 있어, 사일런스는 사람이 많은 장소는 제대로 적응을 못하는 모습을 보이는데, 예를 들어 모임이나 파티가 있는 자리에서 그녀는 늘 입을 다물고 있다. 하지만 사일런스의 성격은 사실 절대 내향적인 편이 아니다. 그녀는 단지 혼자서 있는 상태가 더 익숙하기 때문에, 정신을 집중할 때 느끼는 평온함으로 일상 행동에 필요한 에너지를 유지하고, 조용히 주변을 관찰하고 있는 것일 뿐이다.
+	    사실, 다른 연구원과 교류 시 그녀는 남의 이야기를 잘 들어주고, 상당히 인내심이 많은 모습을 보인다. 과학 연구와 관련있는 문제라면 뭐든지 깊이 있는 토론을 하고, 연구에 관련하여 곤란한 점이 있다면 늘 상대방이 만족할 만한 의견과 답안을 내어줄 용의가 있는 그녀지만, 늘 실험실에서 바쁘게 지내는 탓에 그녀의 팀원과 비교적 사이가 가까운 극소수의 인원을 제외하고는, 아무래도 그녀의 이런 일면을 접하기는 어려울 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	关于赫默的具备价值的情报，完全来自于她对于医学领域与生命科学领域的若干贡献。因此，提及赫默的每一份情报，都必然会探讨到她的母公司——莱茵生命实验室。 
+	赫默加入莱茵生命实验室的具体时间与经过属于未公开资料。目前的有效资料均来自于赫默对过往经历的有限自述，以及一些其他方面的情报。 
+	根据赫默的回忆，她与莱茵生命以及源石的缘分，始于自己学生时代跟随导师前往莱茵生命公司参观的经历—— 
+	彼时，莱茵生命公司为展示其最新研究成果，于哥伦比亚各地区进行巡回性质的科学展览。全新的医疗设备、对生命最新的解析成果，优化源石传输效率的全新一代医疗法杖——在令人眼花缭乱的产品清单中，和拥有无限拓展可能的莱茵生命源石科技展深深地吸引了赫默的目光。 
+	在顺利完成自己的学业后，赫默如愿以偿地进入莱茵生命公司就职。在源石技艺领域拥有不凡天赋的她，很快就得到机会，参与进了若干重要的源石技艺与临床医疗相关的实验项目中。 
+	不过，即使自己事业最为顺利，率获公司上层表彰的这一时期，赫默也从未忘记过自己最初的愿望——进入“源石科技的生命科学应用”这一项目领域中。 
+	
+	“只是没有想到过，机会来的会那么快。” 
+	回忆至此处时，赫默露出了略带挖苦的微笑。
+
+	第二資料 :
+	サイレンスに関して利用価値のある情報は、全て医学分野や生命科学分野における貢献から得たものである。そのため彼女の情報を提示するたびに、彼女が所属する会社、ライン生命医科学研究所に言及しなければいけない。
+	サイレンスがライン生命医科学研究所に入った具体的な日付や研究所での経歴は非公開となっている。現在有効なデータは、過去の経験及び、他の分野の情報に関する、彼女の自己報告に基づいている。
+	彼女の過去の経験によると、ライン生命や源石との関係性は、学生時代に先生に連れられライン生命の見学に行ったことから始まった。
+	当時、ライン生命はクルビア各地で巡回して科学展示を実施しており、最新の研究成果を披露していた。その展示とは、最先端の医療設備や生命に対する最新の解析結果、そして源石伝達効率を更に向上させた新しい医療用アーツユニットといった目まぐるしい製品リストなどだ。中でもサイレンスの目を奪ったのは、無限の可能性を持つライン生命の源石科学技術展示だった。
+	無事に卒業した後、サイレンスは念願であったライン生命に就職。アーツ研究に関して高い技術を持つ彼女はそれが認められ、アーツと臨床医学に関する重要な実験項目に早い時期から参加することになった。
+	しかし、キャリアにおいて全てが順調に進むなか、会社の上層部から評価された時も「源石の科学技術の生命科学応用という領域に触れたい」という初心を忘れなかった。
+	
+	彼女は自身のキャリアに関して「全く予想外だったよ、チャンスがこんなに早く来るとは。」と振り返っている。
+
+	Archive File 2 :
+	The valuable intelligence we have concerning Silence all comes from her contributions to the medical and life science fields. As a result, every piece of intelligence about her explores the company she used to work for - Rhine Lab. 
+	The specific time and duration of her tenure at Rhine Lab is unpublished. The current, most reliable information comes from Silence's own writings about her experiences as well as other aspects of her life. 
+	According to her recollection, Silence's relationship with Rhine Lab and Originium began during her days as a student, when she accompanied her mentor to the company. 
+	At that time, Rhine Lab was holding a scientific exhibition to show off the results of its research from a tour of Columbia. The new medical equipment she saw optimized Originium transmission efficiency based upon new results obtained from live trials, making possible a whole new generation of dazzling treatments. 
+	After completing her studies, Silence's wish came true and she was allowed to join Rhine Lab as an employee. She had an extraordinary talent for Originium Arts, and soon got the opportunity to participate in several experimental projects related to important Originium technology and clinical treatment. 
+	But as well as her career was going, and as much as the upper levels of the company recognized her achievements, Silence never forgot her original dream - to join the Originium Technology and Life Science Applications project. 
+	
+	'I never thought the opportunity would come so soon.' 
+	Looking back on this time, Silence let slip a sly smile.
+
+	파일 자료 2 :
+	    사일런스가 세운 공헌은, 전적으로 그녀가 의학 영역과 생명 과학 영역에서 세운 업적에서 나온 것이다. 때문에 사일런스에 관한 정보를 거론할 때면, 언제나 그녀의 모회사인 '라인 생명연구소'에 대한 이야기가 나올 수밖에 없다.
+	    사일런스가 라인 생명연구소에 합류한 구체적 시기와 경로는 미공개 자료로써, 현재 유효한 자료는 사일런스가 자신의 과거 경력에 대해 기술한 것과 일부 다른 분야에 대한 정보 뿐이다.
+	    사일런스의 기억에 의하면, 자신과 라인 생명연구소, 그리고 오리지늄과의 인연은 그녀가 학생일 때 교수님을 따라 라인 생명연구소를 참관했던 날로부터 시작된다고 한다.
+	    그때 당시, 라인 생명연구소는 자신들의 최신 연구 성과를 알리기 위해 컬럼비아 각지에서 과학전람회 투어를 진행하여, 최신 의료 설비, 생명과학에 대한 최신 분석 성과, 오리지늄 수송 효율을 개선한 완전히 새로운 세대의 의료 지팡이까지, 사람들의 눈을 휘둥그레지게 만드는 상품들을 선보였는데, 무한한 발전 가능성을 지닌 라인 생명연구소의 오리지늄 과학기술전은 사일런스의 관심을 끌기에 충분했다.
+	    사일런스는 순조롭게 자신의 학업을 마친 뒤 자신의 희망한 대로 라인 생명연구소에 입사하였다. 오리지늄 아츠 영역에서 범상치 않은 재능을 지녔던 그녀는, 눈깜짝할새 중요한 오리지늄 아츠 및 임상 실험 연구와 관계된 프로젝트에 참여할 수 있는 기회를 얻게 되었다.
+	    연구소 고위층으로 부터 표창까지 받을 정도로 업무는 순조로웠지만, 사일런스는 '오리지늄 기술의 생명 과학 응용 프로젝트'에 참여하고픈 자신의 초심을 잊은 적이 없었다.
+	
+	    "생각치도 못했지, 기회가 그렇게나 빨리 올줄은..."
+	    그 기억을 떠올린 사일런스의 입가에는 장난기 어린 미소가 번졌다.
+
+———————————————————————————————
+
+	档案资料三 :
+	由赫默提供设计理念，最终经罗德岛基础建设部门投入生产的医疗用无人机，完全体现了赫默作为医生的哲学。 
+	这是一台设计上朴实无华（同时价格也非常亲民）的医用无人机，没有附带任何武装，其唯一指定的功能就是为战场上的干员们提供最为及时的治疗。 
+	经罗德岛医疗部制药小组多次试验的医疗制剂，可以通过多种途径装配至无人机的药剂箱上。无人机采用雾化、喷射、给药与医疗法杖模拟等四种不同的模式，可根据不同地形和环境，以及不同治疗对象和不同需求对象而灵活改变模式。 
+	只是，这种医疗无人机尚处实验阶段，其基于轻便使用的用途，决定了它必然是一种即抛式的，较为脆弱的低价值目标。而且在信号干扰较强，地形十分复杂的地区，它的工作效率也会受到一定的影响。 
+	不过即便如此，它的投入使用依然为罗德岛干员们带来了相当良好的治疗体验。而这，也只是赫默医生带给罗德岛的最初的一份礼物。
+
+	第三資料 :
+	医者としてのサイレンスの哲学を完全に反映しているものが、彼女がコンセプトを提供し、最終的にロドスの建設部によって生産された医療用ドローンである。
+	これはデザインがかなりシンプル（かつ価格も非常にリーズナブル）な医療用ドローンで、武装は何もついておらず、唯一の機能は戦場でオペレーターたちをすぐに治療するというものだ。 
+	ロドス医療部の製薬チームが実験を重ねた医療製剤は、様々な輸送ルートを通してドローンの薬箱に配置される。ドローンは霧状化、噴射、投薬及び擬似医療用アーツユニット化の四種の異なるモードを搭載しており、地形や環境、治療対象など、必要に応じて臨機応変にモードを変更できる。 
+	ただ、この医療用ドローンはまだ実験段階にあるため、使いこなせなければ価値のない製品になってしまう。さらに、信号干渉が強く地形も複雑なエリアでは、ドローンの作業効率が低下してしまう可能性がある。
+	しかしこの医療用ドローンの投入が、ロドスのオペレーターたちに素晴らしい治療体験をもたらしたのは事実である。だがこの素晴らしいドローンは、サイレンス医師によるロドスへの最初の贈り物に過ぎない。
+
+	Archive File 3 :
+	The medical drone designed by Silence and produced by the Rhodes Island Base Construction Department fully reflects Silence's philosophy as a doctor. 
+	The drone was designed to be unpretentious (as well as highly affordable). It was not fitted with a weapon, instead its only designated function was to provide timely treatment for Operators on the battlefield. 
+	Medicine that has undergone several rounds of testing by the Rhodes Island Pharmaceutical Team can be assembled into the drone's kits in a variety of ways. The drone can use aerosolized medicine, it can spray, it can inject, and it can simulate a medic's treatment wand. It can switch between these modes depending on the needs of the terrain and the environment, and the specific situation of the Operator in need of healing. 
+	However, this medical drone is still in its experimental stages. Because it needs to be lightweight and convenient, it needs to be a kind of throwaway and relatively fragile low-value target. Additionally, in areas with strong signal interference and complex terrain, its efficiency will be affected to a certain degree. 
+	Even so, it still provides Rhodes Island Operators with quality treatment. Better still, this is only the first gift that Silence has brought to Rhodes Island.
+
+	파일 자료 3 :
+	    사일런스가 디자인 컨셉을 제공하고, 로도스 아일랜드의 기초 건설 부서에서 생산한 의료용 드론은 사일런스의 의사 철학을 완벽히 구현하였다. 이 기기는 실용성에 중심을 두고 디자인된 의료용 드론(가격도 매우 서민적)으로, 공격형 장비는 없으며, 오직 전장에 있는 오퍼레이터를 적시에 치료하는 용도로만 사용된다.
+	    로도스 아일랜드 의료부 제약팀에서 여러 차례 테스트한 의료 약제를 다양한 방법으로 드론의 약제 상자를 장착할 수 있으며, 드론은 분무, 분사, 약 배송 및 의료 마법 지팡이 시뮬레이션 등 4개 모드 구현이 가능하고, 다양한 지형, 환경, 치료 대상과 요구에 따라 자유로이 모드 변경이 가능하다.
+	    다만, 이런 의료 드론은 아직까지는 테스트 단계에 있는 관계로, 취약 상태의 대원에게 투척해 투입하는 비교적 간단한 방식으로만 사용하기로 결정되었다. 신호 간섭이 심하거나 지형이 매우 복잡한 지역에서는 드론의 작업 효율 역시 일정 영향을 받게 되기 때문이다.
+	    하지만 이런 제약에도 불구, 드론의 투입은 여전히 로도스 아일랜드 오퍼레이터들에게 매우 훌륭한 치료 서비스 경험을 제공하고 있으며, 그리고 이는 사일런스가 로도스 아일랜드에게 선사하는 첫 선물에 불과하다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】 
+	“继续上一次的话题吧。上次我们谈到，莱茵生命的科技展。” 
+	“是的，您说那次展览为您带来了巨大的冲击。” 
+	“是的，那次展览，使我对生命产生了全新的......” 
+	“认知？“ 
+	“疑问。” 
+	“......我不明白。“ 
+	“我想知道，我们的生命是如何诞生的，如何在这片大地上......诞生的。“ 
+	“确实，目前仍未有任何学者成功推出一套统一的理论。可......这和源石有什么关系？” 
+	“为什么源石会感染这片大地上的人类？” 
+	“......我不清楚。” 
+	“我也不清楚。所以，我那时急不可耐地进入了莱茵生命。” 
+	“请您继续。” 
+	“事后想一想，那个使我震惊不已的，只是莱茵生命的一次出于商业目的的展览。 
+	加入莱茵生命之后，我才知道，他们最好的......或者说，最具颠覆性的产品，仍旧深锁在实验室项目申请表单的深处。 
+	他们还不能把它拿出来，无论对于现在的人类，对于既有的国家秩序，还是对于......这片大地。 
+	也许太早了，也许还是太早了。 
+	但......当这份项目恰好碰到了一个与之相匹配的人，并且这个人怀有如此的理想......或者说，野心——” 
+	“......您的意思难道是......？” 
+	“...... 
+	呵呵...... 
+	好了。你，知道的已经够多了。”
+
+	第四資料 :
+	【権限記録】
+	「前回の話題を続けようか。前回は、ライン生命の科学展について話をしたね」
+	「そうですね。あの科学展で、とても大きな衝撃を受けたとおっしゃっていました」
+	「そう。あの科学展で、私は生命について新たな……」
+	「認識、ですか？」
+	「疑問だよ。」
+	「……すみません。よくわかりません……」
+	「知りたいと思ったんだ。我々の命はどのように誕生したのか？どうしてこの大地に……誕生したのか」
+	「確かに、今までまとまった理論を出せた学者は一人もいませんね。でも……それは源石と何か関係が？」
+	「なぜ源石は、この大地で暮らしている人間に感染するのか分かる？」
+	「……分かりません。」
+	「私もさっぱり。だからあの時、私はすぐさまライン生命に入ったの。」
+	「続けてください。」
+	「後で考えてみたら、私を驚かせたあの科学展は、ただ営利目的のものだった。ライン生命に入った後で分かったのは、最高傑作、あるいは最も革新的な製品は、未だに実験室にしまい込まれた研究項目申請リストにひっそりと載っているだけ。
+	それを表舞台に出すのはまだできない。今の人類にとっても、国家にとっても。そして……この大地にとっても。
+	早すぎるのかな。まだ早いのかもしれない。
+	でも、もしこのプロジェクトが相応しい人に出会い、そしてその人が夢を、あるいは野望を抱えているとしたら……」
+	「もしかして、それは……？」
+	「……ふふっ。ここまでよ。」
+
+	Archive File 4 :
+	[Classified Log] 
+	'Let's pick up where we left off. Last time we talked about Rhine Lab's technological exhibition.' 
+	'Yes, you said that exhibition made a big impact on you.' 
+	'That's right. With regard to life, that exhibition gave me a whole bunch of new...' 
+	'Insights?' 
+	'Questions.' 
+	'...I don't understand.' 
+	'I wanted to know how life came about. How did it form in this land?' 
+	'Indeed, scholars have yet to produce a unified theory on this matter. But...what does this have to do with Originium?' 
+	'Why has Originium infected the human life on this continent?' 
+	'...I'm not sure.' 
+	'I'm not sure, either. That's why I couldn't wait to join Rhine Lab.' 
+	'Go on.' 
+	'I thought about it afterwards, and the one that shocked me the most was one of Rhine Lab's business exhibitions. 
+	After joining Rhine Lab, I realized that their best...rather, their most subversive product was still locked deep within the lab, resting on a proposal document. 
+	They couldn't bring it out yet, not for the people, not for the existing order, and not for this land. 
+	Perhaps it's still too soon. Yes, it's still too soon. 
+	But...once the right person comes along, a person with the right ideals...or, should I say, ambitions...' 
+	'Do you mean...?' 
+	'...... 
+	Heh heh....... 
+	All right. You already know too much.'
+
+	파일 자료 4 :
+	[제한된 기록]
+	    "지난 번에 하던 이야기를 계속해볼까. 라인 생명연구소가 열었던 과학기술전 이야기까지 했었지?"
+	    "맞습니다. 그 전람회가 당신에게 큰 충격을 주었다고 했죠." 
+	    "맞아, 그 전람회는 내게 생명에 대한 완전히 새로운……" 
+	    "'인식', 말인가요?"
+	    "아니, '의문'이야."
+	    "……잘 모르겠군요."
+	    "알고 싶었거든. 우리의 생명이 어떻게 연장되는 것이고, 어떻게 이 거대한 대지 상에 탄생하는 건지 말이야."
+	    "확실히, 현재로선 어떤 학자도 완벽한 이론을 내세우진 못하고 있죠. 근데…… 이것과 오리지늄이 어떤 관계라도?"
+	    "어떻게 오리지늄이 이 대지 상의 인류를 감염시킬 수 있었을까?"
+	    "……전 잘 모르겠네요."
+	    "그래, 그건 나도 잘 몰라. 그래서 난 서둘러서 라인 랩에 합류했던 거야."
+	    "계속해주시죠."
+	    "이후 곰곰이 생각해봤어. 나에게 큰 충격을 줬던 전람회는, 단지 라인 랩이 영리 목적으로 열었던 거였는데... 나중에 라인 랩에 들어가서야 난 알게 됐지. 그들의 가장 뛰어난 것이나 가장 놀라운 제품은, 라인 랩의 실험실 프로젝트 신청 리스트 어딘가에 숨겨져 있었다는 걸 말이야. 하지만 그걸 아직 공개할 순 없지. 지금의 인류에게도, 국가에게도, 이 땅… 어디에라도. 어쩌면 너무 이른 건지도, 아니면 아직까진 너무 이른 걸지도… 하지만… 이 프로젝트가 적임자를 만나기만 한다면, 그리고 그 사람이 이런 이상… 혹은 야심을 가지고 있다면……"
+	    "혹시, 그 말은…?"
+	    "……후훗, 여기까지야. 이미 알만큼 알았잖아?"

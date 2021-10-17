@@ -1,11 +1,17 @@
 ID:
 	char_208_melan
 
-干员代号\Name:
+CV:
 	玫兰莎
 	メランサ
 	Melantha
 	멜란사
+
+干员代号\Name:
+	原优子
+	原優子
+	Yûko Hara
+	하라 유우코
 
 招聘合同\Character Usage:
 	罗德岛近卫干员玫兰莎，将为小队提供优秀的进攻能力。
@@ -38,157 +44,376 @@ ID:
 	공격 강화α
 
 语音\Voices:
-	您好，博士......请多关照。
 	こ、こんにちは、ドクター。……よろしく。
 	H-hello, Doctor... It's good meeting you...
 	아, 안녕하세요, 박사님… 잘 부탁드려요.
 
-	那个......抱歉......我不太擅长，与人交谈......
 	その……すみません……。人と話すのが……苦手で。
 	Um... Sorry... I'm not a good talker...
 	그… 죄송해요… 사람이랑 얘기하는 건… 서툴러서.
 
-	是的......我的双亲是维多利亚的商人。但是我很长时间没能和他们联络上了......这个代号，能让我想起自己的家......
 	はい……両親がヴィクトリアで商人をしています。でももう長いあいだ、連絡をとっていません……。私のこのコードネームは、家を思い出させてくれるんです。
 	Yes... My parents are from Victoria. They used to do business there, but I haven't been able to contact them for a long time... I picked this code name because it reminds me of my home...
 	네…… 양친께선 빅토리아에서 상인으로 일하고 계세요. 그렇지만 벌써 꽤 오래 연락을 하지 않고 있죠… 제 코드네임은 집을 떠올리게 해줘요.
 
-	那、那位戴着面具的干员......让我感到......有些不安......
 	あ、あのマスクのオペレーター……。不穏な感じが……します……。
 	Th-that masked Operator... makes me feel... nervous...
 	저, 저기 마스크 쓴 오퍼레이터… 뭔가 불안한 느낌이… 드네요… 
 
-	不，我并不是......不想接近大家，只是，我不知道......该怎么做才好......
 	いえ……みんなと仲良くしたくないわけじゃないんです。ただ……どうすればいいのか……わからなくて……。
-	It's not that… I’m trying to avoid others, it’s just, I’m not sure… how I should act…
+	It's not that... I'm trying to avoid others, it's just, I'm not sure... how I should act...
 	아뇨… 모두와 사이좋게 지내기 싫은 게 아니에요. 단지… 어떻게 하면 좋을지… 잘 모르겠어서… 
 
-	对不起，安赛尔......我又让你担心了。不过，不用这样关照我，还有更多需要帮助的人在等着你呢。
 	ごめんなさい、アンセルさん……またご心配をかけてしまいました。私なんかに構わず、もっと大切な人たちの面倒をみてあげてください。
 	Sorry to make you worry again, Ansel... But you don't have to give me special treatment. Many more people need your help.
 	죄송해요 안셀 씨… 또 걱정을 끼쳤네요. 저 따윈 신경 쓰지 마시고, 더 소중한 사람들을 돌봐주세요.
 
-	矿石病，曾经让我拥有过强大的感知能力，而这份能力正在不断地消逝......但是，就算是这样，我也不会退缩的......我还想，和大家多说说话......
 	鉱石病は、私の感覚を鋭くしてくれているようでもあり、逆に感覚が奪われ続けているようでもあります……。それでも私、挫けません。もっと……みんなとお話がしたいんです。
 	Oripathy granted me powerful senses, but they are going away... But I will not flinch... There's so much more I want to talk about with everyone...
 	광석병은 제 감각을 날카롭게 만들어주고 있는 것 같지만, 반대로 감각을 계속 빼앗아 가는 것 같기도 해요… 그래도 전 좌절하지 않을 거에요. 더… 모두와 이야기하고 싶은 걸요.
 
-	博士，您，能收下这瓶香水吗？这是我从家里带出来的......这种香水，有振奋精神的功效，在我没有精神的时候，我就会闻一闻它......
 	ドクター。この香水、受け取ってもらえませんか。私の家から持ってきたものです……。人を元気にする効果があるんです。私もこの香水のおかげでなんとか頑張れています。
 	Doctor, could you accept this bottle of perfume, please? I brought it from home... This type of perfume can lift spirits. I often sniff at it when I feel down...
 	박사님. 이 향수, 받아주실 수 있을까요? 저희 집에서 가져온 물건이에요… 사람을 정신 차리게 해주는 효과가 있어요. 저도 이 향수 덕분에 어떻게든 힘내고 있고요.
 
-	梅莉？别太吵闹......博士已经很累了。
 	メイリィ？ドクターは疲れていらっしゃるので……あまり騒がないでね。
 	Merry? Don't be so loud... The Doctor is very tired.
 	메리? 박사님은 피곤하시니까… 너무 소란스럽게 굴지 마.
 
-	......玫兰莎。从现在起，我的利刃将为您所用。
 	えと……メ、メランサです。この刃、あなたのために振るわせてください。
 	Err... I-I'm Melantha... From now on, my blade is yours.
 	어… 메, 멜란사입니다. 이 검, 당신을 위해 휘두르겠습니다.
 
-	谢谢您的指导......
 	ご指導…ありがとうございます。
 	Thanks for your guidance...
 	지도… 감사드립니다.
 
-	非常感谢您......那个，其他人也获得晋升了吗？我想，大家应该都和我一样，拥有这样的资格。
 	ありがとうございます……他の皆さんも昇進したんでしょうか？皆さんにも、私と同じように昇進の資格があると思います。
 	Thank you very much... Um, did the others also get promoted? I think they all deserve it just like I do.
 	감사합니다… 다른 분들도 승진하셨나요? 다른 분들도 저와 같이 승진할 자격이 있다고 생각해요.
 
-	嗯......我会遵照您的指示行动。
 	はい……ご指示に従います。
 	Yeah... I will follow your orders.
 	네…… 지시에 따르겠습니다.
 
-	我......吗？我，不擅长指挥他人......
 	私……ですか？私、誰かに指示するのは得意じゃないです……。
 	I'm... the leader? But I'm not particularly good at giving orders...
 	제… 가요? 저, 누군가에게 지시하는 건 잘 못하는데… 
 
-	各位，为这个世界，带来更多和平吧。
 	皆さん、世界を平和にするために頑張りましょう！
 	Let's make the world a more peaceful place.
 	모두, 세계를 평화롭게 하기 위해 힘내요!
 
-	安赛尔......接下来，就拜托你了。
 	アンセルさん……後はよろしくお願いします。
 	Ansel... I'm counting on you now.
 	안셀 씨… 뒤는 잘 부탁드려요.
 
-	请指示......
 	ご、ご指示を……。
 	Please give me instructions...
 	지, 지시를… 
 
-	命令是......？
 	ご命令は……？
 	What are your orders...?
 	명령은…?
 
-	了解了。
 	了解しました。
 	Understood.
 	알겠습니다.
 
-	尽我所能。
 	できる限りやります。
 	I'll do my best.
 	할 수 있는 만큼 할게요.
 
-	打倒你......！
 	倒します！
 	You will fall...!
 	쓰러뜨립니다!
 
-	斩。
 	斬ります！
 	Slashing!
 	벱니다!
 
-	无论什么样的困难，都无法阻止我前进。
 	どんな困難が道を塞いでいても、私は止まりません。
 	No matter what difficulties are in store for me, I will keep on advancing.
 	어떤 곤경이 길을 가로막고 있다 해도, 전 멈추지 않습니다.
 
-	赢了吗？太好了......
 	勝てたのですか？良かったです……。
 	We won? Thank goodness for that...
 	이겼나요? 다행입니다… 
 
-	我还能继续战斗。
 	まだ戦えます。
 	I can still fight.
 	아직 싸울 수 있습니다.
 
-	失败了......竟然，会变成这样......
 	失敗です……こんなことになるなんて……。
 	We failed... How did things end up this way...
 	실패에요… 이렇게 되어버리다니… 
 
-	这里......这里还有其他人在的吗......？
 	ここには……ほかの人もいますか？
 	Is there... anyone else in here...?
 	여기에는… 다른 사람들도 있나요?
 
-	是、是谁——博士！
 	だっ、誰――ドクター！
 	Wh-who's there?! Oh, Doctor...
 	누, 누구야… 박사님!
 
-	博士，感谢您一直这样关心我......那个，其实......我希望自己，今后也能更多地去战斗。
 	ドクター、いつも気にかけてくれて、ありがとうございます……。あの、本当は、もっと戦場に出してほしいです。
 	Doctor, thank you for always taking care of me... Um, actually... I hope I can keep fighting.
 	박사님, 늘 신경 써주셔서 감사합니다… 저, 사실은… 전장에 더 내보내 주셨으면 해요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士。
 	ドクター。
 	Doctor...
 	박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】玫兰莎
+	【性别】女
+	【战斗经验】半年
+	【出身地】维多利亚
+	【生日】3月19日
+	【种族】菲林
+	【身高】161cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】メランサ
+	【性別】女
+	【戦闘経験】半年
+	【出身地】ヴィクトリア
+	【誕生日】3月19日
+	【種族】フェリーン
+	【身長】161cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Melantha
+	[Gender] Female
+	[Combat Experience] Half a year
+	[Place of Birth] Victoria
+	[Date of Birth] March 19
+	[Race] Feline
+	[Height] 161cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 멜란사
+	[성별] 여
+	[전투 경험] 반년
+	[출신지] 빅토리아
+	[생일] 3월 19일
+	[종족] 필라인
+	[신장] 161cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】优良 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Excellent 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	玫兰莎，行动预备组A4组长，维多利亚公民，正式任职前为普通感染者，无职业。于多项测试中获得优异成绩，遂获准加入罗德岛。
+
+	個人履歴 :
+	メランサは、行動予備隊A4のリーダーでヴィクトリア公民。正式に就任する前は普通の無職の感染者だった。多数のテストで優秀な成績を取ったため、ロドスに加入した。
+
+	Profile :
+	Melantha is the captain of Op Reserve Team A4 and a citizen of Victoria. Before she took up her current post, she was a typical jobless Infected. After an exceptional performance on her tests, she received an offer to join Rhodes Island.
+
+	프로필 :
+	    빅토리아 공민, 로도스 아일랜드 예비작전팀 A4의 팀장. 정식 임직 전에는 무직 상태의 평범한 감염자였다. 여러 항목의 테스트에서 우수한 성적을 획득, 순조롭게 로도스 아일랜드 합류 허가를 받았다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】2%
+	轻度感染者。患者病灶位于左肩，感染扩散控制较为良好，病情较为稳定。
+	
+	【血液源石结晶密度】0.25u/L
+	内循环检测结果较为积极，建议加强身体锻炼以配合治疗。
+	
+	“玫兰莎小姐还在长身体，要多吃有营养的食物哦。”——by 医疗组实习医师 芙蓉
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】2%
+	軽度の感染者。左肩に病巣あり。感染拡大の抑制状況は良好で、症状は安定している。
+	
+	【血液中源石密度】0.25u/L
+	循環器系の検査は比較的良好。治療と合わせて身体のトレーニングを推奨。
+	
+	「メランサさんはまだまだ成長期ですから、栄養たっぷりの物を食べてくださいね。」
+	——医療チーム実習医師　ハイビスカス
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 2%
+	Subject is mildly infected. There is a lesion upon the subject's left shoulder, though the infection has largely been contained and is in stable condition.
+	
+	[Blood Crystal Density] 0.25u/L
+	Results of internal circulation tests have been positive. Strength training is recommended as part of the course of treatment.
+	
+	'Melantha is still growing and needs to eat food high in nutrients.' - Medic Team Intern Hibiscus
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 2%
+	 경도 감염자.    병소가 좌측 어깨에 있으며, 감염 확산에 대한 억제 상태가 양호, 병세가 비교적 안정적.
+	
+	[혈중 오리지늄 결정 밀도] 0.25u/L
+	내 순환 계통 검사 결과는 비교적 긍정적, 치료와 함께 신체 단련 강도를 높일 것을 권장.
+	
+	"멜란사 아가씨는 아직 신체가 성장 중이라, 영양가 있는 음식을 많이 섭취해야 합니다." ——by 의료부 수련의, 히비스커스
+
+———————————————————————————————
+
+	档案资料一 :
+	玫兰莎出生于维多利亚王国首都伦蒂尼姆，其父为从事大宗香料贸易的商人，并经营数家香料加工工厂，其母为其家族品牌直销店负责人，负责经营以伦蒂尼姆为中心的香薰品牌旗舰店。 
+	受父母影响，玫兰莎从很小的时候就开始接触香料知识，常协助父母开发新的香薰产品。 
+	自干员玫兰莎的经历看来，其成长过程中，无不充满了其父母投下的影子。
+
+	第一資料 :
+	メランサはヴィクトリア王国の首都、ロンディニウム市に生まれた。父は大きな香料貿易をする商人であり、香料加工の工場も何軒も経営している。母はそのブランドの直販店の担当者であり、ロンディニウムを中心として展開されるアロマブランドの旗艦店を経営している。
+	両親の影響を受け、メランサは小さい頃から香料について勉強してきた。彼女は常に両親に協力し、新しいアロマ製品を開発している。
+	メランサの経歴を見ても、その成長していく道には、両親の存在がかなり大きい。
+
+	Archive File 1 :
+	Melantha was born in Londinium, the capital of the Kingdom of Victoria. Her father is a trader engaged in the bulk spice trade. He runs several spice mills of his own. Her mother is the head of the family's aromatherapy flagship store in the heart of Londinium.
+	Following in the footsteps of her parents, Melantha got involved in spices at a very young age, often assisting them in developing new aromatherapy products. Melantha's experiences have been heavily influenced by her parents.
+
+	파일 자료 1 :
+	    멜란사는 빅토리아 왕국의 수도, 런디니움 출생으로, 부친은 대규모 향료 무역에 종사하는 상인이자, 여러 개의 향료 가공 공장을 운영하는 공장장이다. 모친은 본 가족 브랜드의 직영 판매점 책임자로, 런디니움을 중심으로 하는 향수 브랜드의 플래그쉽 스토어 경영을 책임지고 있다.
+	부모님의 영향을 받아 멜란사는 어렸을 때부터 향료를 가까이하며 부모님의 새로운 향수 상품 개발을 돕기도 하였다.
+	오퍼레이터 멜란사의 경력으로 미뤄보아, 멜란사는 성장 과정 중 부모의 영향을 매우 강하게 받았음을 알 수 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	学生时代的玫兰莎就读于威塞克斯私立中学，在各项学科中均取得优异成绩，但因其寡言少语，不善沟通的性格，玫兰莎从未成为众人的焦点和核心。
+	在缺乏朋友的环境下，玫兰莎并没有选择积极改变自身性格，而是在父母的安排下，投入进上层社会的学识培育活动中，包括美术、文学、诗歌等。在维多利亚的传统社会中，对于一名完整的上层社会女性而言，这些艺术修养是她们道德教育的重要一环。
+	除此以外，为了改善羸弱的体质，玫兰莎在父母的安排下开始学习击剑等上层社会流行的运动项目。
+	在感染者危机爆发后，玫兰莎成为感染者的一员，并在父母安排下接受了罗德岛制药提供的医疗方案，随后转入罗德岛接受治疗。
+
+	第二資料 :
+	学生時代のメランサは、私立ウェセックス高校に通い、全学科において良い成績を取っていた。しかし彼女はいつも無口で、人との交流が苦手のためか在学中は他人に注目されることはなかった。
+	友達がいなかった彼女は自分の性格を変えるのではなく、親の采配で美術、文学、詩などの勉学に身を投じた。ヴィクトリアの伝統社会においては、「完璧」な上流階級の女性にとって、それら芸術の才能は道徳教育の一環とされていた。
+	それ以外にも、病弱な体を鍛えるため、フェンシングなどの上流階級で流行っている運動をさせられていた。
+	鉱石病の感染危機が到来した後、感染者になったメランサは、また親の手配でロドスから提供されている医療プランを受け、ロドスに入り治療を受けることになった。
+
+	Archive File 2 :
+	Melantha was a student at the Wessex Private Middle School when she was young. She received exceptional marks in all her classes, but because she was soft spoken and lacked communication skills, she was never the center of attention or very popular. 
+	Her lack of friends remains due to her unwillingness to change her personality. With her parents' help, she immersed herself into upper-class academic activities, including art, literature, and poetry. In traditional Victorian society, the arts are an important part of a woman's formal education.
+	In addition, in order to strengthen her weak constitution, Melantha's parents arranged for her to study swordsmanship and other popular upper-class sports.
+	After the Infected crisis broke out, Melantha was herself Infected. Her parents arranged for her to receive treatment from Rhodes Island Pharmaceutical's. And before long, she was on the way to the company for treatment.
+
+	파일 자료 2 :
+	    학창 시절, 웨식스 사립 중학교에서 재학했던 멜란사는 모든 과목에서 뛰어난 성적을 획득하였지만, 말수가 적어 교류에 서툰 성격이라 한 번도 사람들의 관심을 받거나 중심에 서본 적이 없었다.
+	    친구가 적은 환경에서 멜란사는 자신을 적극적으로 변화시키는 선택을 하기보단, 부모님이 마련해준 미술, 문학, 시 등을 포함한 상류층 사회에 대한 지식을 쌓는 활동에 참여했다. 빅토리아의 전통 사회에서 한 명의 번듯한 상류층 여성으로 거듭나기 위해, 이런 예술적 소양은 그들의 도덕 교육의 중요한 일환이었다.
+	    이외에도, 허약한 체질을 개선하기 위해 멜란사는 부모의 지시 아래 펜싱 같은 상류층 사이에서 유행하는 운동을 배운 경험이 있다.
+	    감염자 위기가 발발한 후 멜란사는 광석병에 감염되어버렸지만, 부모의 도움으로 로도스 아일랜드 제약회사가 제공하는 치료 방안을 승낙, 로도스 아일랜드에 합류해 치료를 받고 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	干员玫兰莎与行动预备组A4成员均保持着紧密的联络。内敛的她最初曾对自己能否担任行动预备组A4队长而忧心忡忡，但在组内全体伙伴的帮助下，她成功地突破了自己一直以来的内心障碍。 
+	性格活泼开朗的卡缇是玫兰莎形影不离的好友，无论在生活还是战斗中，两人均保持着良好的互补关系。 
+	对于性格成熟，行事稳妥的干员史都华德，玫兰莎抱有尊敬的心态；由于干员安赛尔负责玫兰莎的病情记录与日常护理工作，玫兰莎对自己总是为安赛尔添麻烦一事感到歉意和感激；而干员安德切尔是玫兰莎相对缺乏了解的人，她始终无法弄清楚这位出身拉特兰的少年平日的所思所想，不过安德切尔也从未在战斗中给玫兰莎带来麻烦。 
+	在担任队长期间，玫兰莎细心、温和的态度受到了组员们的一致好评，而严格律己、遵守纪律的优良素质，使她能够完成罗德岛赋予她的每一项任务。
+
+	第三資料 :
+	メランサは行動予備隊A4のメンバーと良好な関係を築いている。
+	メランサは内向的なため、当初は自分に行動予備隊A4の隊長が務まるかどうか心配していたが、メンバー全員の協力で、彼女はその不安を克服できたのだ。
+	朗らかで元気なカーディはメランサの親友である。生活の中でも戦闘中であっても、二人はいつも一緒で、お互いを補い合える仲だ。
+	大人びていて慎重なスチュワードをメランサはとても尊敬している。
+	自分の体調管理を担当するアンセルに、メランサはいつも迷惑をかけているという申し訳ない気持ちでいるが、彼に対して常に感謝している。
+	しかし、アドナキエルのことは、まだよくわからないらしい。このラテラーノ出身の少年はいつも何を考えているかはさっぱりだが、戦闘任務に支障が出ることは決してない。
+	隊長としてのメランサは、優しく仲間思いで、チームメンバーにも高く評価されている。そして自分に厳しく、規律を守るなどといった優れた人格で、彼女はロドスからの任務を全部完璧にこなしている。
+
+	Archive File 3 :
+	Melantha has a close relationship with all the other members of Op Reserve Team A4. Introverted by nature, she initially worried about whether she would be able to serve well in her role as Op Reserve Team A4's captain, but with the help of her companions on the team, she broke through her inner obstacles. 
+	The lively and cheerful Cardigan is her inseparable friend. In both life and on the battlefield, they maintain a strong and complementary relationship. 
+	Melantha also has great respect for the mature and dependable Operator Steward. She feels both guilty and grateful to Ansel, who is in charge of maintaining her health records as well as providing her with daily treatment. Finally, Adnachiel is the Operator that Melantha understands the least. Since the beginning, she has struggled to figure out what this kid from Laterano might be thinking. Nevertheless, Adnachiel hasn't caused any problems in battle. 
+	During her tenure as captain, her subordinates have all spoken highly of her attentive and careful nature. Her serious and disciplined qualities have enabled her to complete all the missions Rhodes Island has entrusted to her.
+
+	파일 자료 3 :
+	    오퍼레이터 멜란사와 예비작전팀 A4 멤버들은 서로 간에 긴밀한 연락망을 유지하고 있다. 내성적인 그녀는 처음에는 자신이 예비작전팀 A4의 팀장 역할을 잘 수행할 수 있을지에 대해 걱정이 많았지만, 팀 내 모든 멤버들의 도움 하에 그녀는 성공적으로 줄곧 자신의 마음속에 존재해왔던 벽을 걷어낼 수 있었다.
+	    성격이 활발하고 명랑한 카디건은 멜란사에게 떼려야 뗄 수 없는 절친한 친구인데, 생활 속에서든 전투 중이든 두 사람은 늘 좋은 관계를 유지하고 있다.
+	    성숙한 성격에 늘 침착하고 정확한 업무 처리가 자랑인 스튜어드에 대해 멜란사는 존경의 마음을 가지고 있다. 안셀이 멜란사의 병세 기록 및 일상 간호 업무를 담당하고 있기 때문에, 멜란사는 늘 안셀에게 폐를 끼치고 있다는 마음에 미안함과 감사하는 마음을 갖고 있다. 아드나키엘은 멜란사가 상대적으로 잘 이해하지 못하는 인물로, 그녀는 이 라테라노 출신의 소년이 평소에 무슨 생각을 하고 있는지 알 길이 없지만, 아드나키엘 역시 전투 중 멜란사에게 폐를 끼친 적이 전혀 없기에 둘 사이에 문제는 없다.
+	    멜란사는 팀장 역할을 수행하며 세심하고 따뜻한 태도로 팀원들의 좋은 평가를 받고 있으며, 자신에게 매우 엄격해 늘 규율을 준수하고 있고, 이러한 경향 덕에 그녀는 로도스 아일랜드에서 자신의 임무를 매번 성공적으로 완료하고 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	目前为止，无论根据现有档案还是其他干员的观察报告，均无法了解玫兰莎所拥有的剑术是何种流派，这是玫兰莎身上为数不多的谜团之一。 
+	根据测试记录与日常战斗录像判断，玫兰莎的剑术似乎来源于维多利亚传统的决斗剑法，但在其学习过程中的某一阶段，她一定受到了某种东方流派剑术的强烈影响。 
+	玫兰莎所持有的武器亦可作为一种旁证：她使用一把分外纤细，但极为锋利的直刃长刀。现有资料表明，只有炎国或部分东国武术流派中还保存有此类武器的技术套路。 
+	玫兰莎的剑术灵活，技巧优秀，在实战技术方面，玫兰莎拥有较强的战术突击能力，即使在缺乏支援的情况下，也可以凭借自身的机动性进行移动和藏匿。 
+	另一方面，玫兰莎缺乏对正面接触战的对抗能力，面对高强度作战的稳定性亦存在一定的不足。 
+	至现在为止，玫兰莎在黑钢特别派遣干员芙兰卡的教导下，进行着剑术的提高。
+
+	第四資料 :
+	現在、保存されている資料やほかのオペレーターの観察報告によっても、メランサが使っている剣術はどの流派のものなのかはまだ分かっていない。これは彼女にまつわる数少ない謎の一つである。
+	テスト記録と日常の戦闘記録映像から判断できるのは、メランサの剣術はヴィクトリアの伝統的な決闘剣術に似ているが、おそらく習得過程においてとある極東系の流派に強く影響されたのだろうということだ。
+	彼女の武器である鋭くて切れ味抜群のまっすぐな刀も、それを裏付けている。現存の資料によると、炎国または一部の極東武術流派はまだ彼女が持っているような武器の技術を保有している。
+	メランサの剣術はとても素早く、技巧も優れている。実戦に関しても、彼女は比較的強い奇襲能力を持つ。援護のない場合でも、自身の機動性で移動したり隠れたりすることができる。
+	その一方で、真正面からの攻撃に対抗する能力は欠けており、ハードな戦闘になると安定性が少し欠ける。
+	現在メランサは、BSW特別派遣オペレーターのフランカのもとで剣術を学んでいる。
+
+	Archive File 4 :
+	So far, both existing archives and the observations of her fellow Operators have failed to grasp just what kind of swordsmanship Melantha employs. This is one of Melantha's few mysteries. 
+	Judging from test records and daily battle videos, her swordsmanship appears to have originated from the Victorian traditional duelist's style, but at some point during her training, she must have picked up some heavy influences from Eastern sword arts. 
+	Melantha's weapon can also be looked at as a kind of circumstantial evidence for this. She uses an exceptionally fine yet extremely sharp straight sword. Current data makes clear that this weapon is only used in Yen and some parts of the Far East. 
+	Melantha's swordsmanship is agile and her skills are outstanding. In terms of combat techniques, Melantha has is skilled in tactical assault. Even without support, she can rely upon her mobility to move about the battlefield and hide when necessary. 
+	On the other hand, Melantha lacks the ability for effective direct confrontation and she displays certain deficiencies in stability during high-intensity operations.
+	Up until now, Melantha has trained under the guidance of Franka.
+
+	파일 자료 4 :
+	    이제까지 존재하는 모든 파일과 타 오퍼레이터의 관찰 보고서를 검토했음에도 불구, 멜란사가 구사하는 검술이 정확히 어떤 유파인지는 아직 확인되지 않았는데, 이점은 아직도 풀리지 않고 있는 미스터리로 남아있다.
+	    테스트 기록 및 일상 전투 기록에 기반해 판단하자면, 멜란사의 검술의 원류는 빅토리아의 전통 결투 검법으로 볼 수 있으나, 그녀는 수련 과정 중 동방의 어떤 검술의 영향을 강하게 받은 것으로 보인다.
+	    멜란사가 보유한 매우 가늘지만 뾰족하고 긴 검은 이런 가설을 뒷받침해주고 있다. 현존하는 자료를 확인한 결과, 이와 같은 무기를 활용한 기술은 오직 염국 또는 일부 극동의 무술 유파에서만 확인되기 때문이다.
+	    멜란사의 검술은 민첩하고, 기교가 뛰어나 실전 기술 방면에서 강한 전술 돌격 능력을 갖추고 있으며, 지원이 부족한 상황에서도 자신의 기동성을 이용해 이동과 엄폐가 가능하다.
+	    하지만, 멜란사에겐 정면으로 부딪히는 전투 상황에 비교적 취약해, 고난이도 작전에선 안정성을 유지하기 어렵다는 결점도 존재한다.
+	    현재 멜란사는 블랙스틸 월드와이드의 파견 오퍼레이터, 프란카의 지도하에 검술을 계속 수련 중이다.

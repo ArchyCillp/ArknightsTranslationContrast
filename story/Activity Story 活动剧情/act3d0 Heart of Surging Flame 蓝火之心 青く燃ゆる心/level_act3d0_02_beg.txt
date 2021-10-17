@@ -50,7 +50,7 @@
 
 [Decision(options="我已经热血沸腾了！;这样的音乐有点猛烈......",values="1;2")]
 [Decision(options="盛り上がってきた！;ちょっと激しすぎるかも……。",values="1;2")]
-[Decision(options="I’m already getting pumped up!;This kind of music is a bit intense for me…",values="1;2")]
+[Decision(options="I'm already getting pumped up!;This kind of music is a bit intense for me...",values="1;2")]
 [Decision(options="피가 끓어 오르는 것 같군!;이런 음악은 나한텐 너무 격렬한 거 같은데…",values="1;2")]
 
 [name="锡兰"]   哈哈，我也这么觉得，我在维多利亚留学时，更喜欢古典和优雅的音乐。
@@ -240,7 +240,7 @@
 
 [Decision(options="你是天灾信使，却不懂这些？",values="1")]
 [Decision(options="天災トランスポーターのくせに、これがわからないのか？",values="1")]
-[Decision(options="You’re a Catastrophe Messenger, and you don’t even know this much?",values="1")]
+[Decision(options="You're a Catastrophe Messenger, and you don't even know this much?",values="1")]
 [Decision(options="재앙정보전달자란 사람이 이런 것도 모르는 건가.",values="1")]
 
 [name="克洛宁"]   你又是什么人？
@@ -335,7 +335,7 @@
 
 [Decision(options="欲加之罪，何患无辞。;这个笑话并不好笑。",values="1;2")]
 [Decision(options="単なる濡れ衣だな。;笑えない冗談だ。",values="1;2")]
-[Decision(options="You're jumping to conclusions…;If this is a joke, it’s not very funny.",values="1;2")]
+[Decision(options="You're jumping to conclusions...;If this is a joke, it's not very funny.",values="1;2")]
 [Decision(options="구실이야 마음만 먹으면 얼마든지 갖다 붙일 수 있는 거 아닌가.;재미없는 농담을 하는군.",values="1;2")]
 
 [name="克洛宁"]   欲加之罪？哈哈，你们这种人，总是这么说的。

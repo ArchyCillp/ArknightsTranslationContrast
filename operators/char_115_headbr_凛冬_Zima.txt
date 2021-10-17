@@ -1,11 +1,17 @@
 ID:
 	char_115_headbr
 
-干员代号\Name:
+CV:
 	凛冬
 	ズィマー
 	Zima
 	지마
+
+干员代号\Name:
+	小清水亚美
+	小清水亜美
+	Ami Koshimizu
+	코시미즈 아미
 
 招聘合同\Character Usage:
 	罗德岛先锋干员凛冬，将凭借力量为小队取得开局的优势。
@@ -43,177 +49,363 @@ ID:
 	우르수스의 포효
 
 语音\Voices:
-	我来帮忙了，说吧，接下来要打谁？
 	手伝いに来たぞ。で、どいつをぶっ飛ばせばいいんだ？
 	I'm here to help. So? Whose ass are we kicking next?
 	도와주러 왔다. 그럼, 어느 녀석부터 날려버리면 되지?
 
-	未经许可你就不能外出走动？这里是谁管事啊，不是你吗？真麻烦，总之快跟我一起出门走走。
 	勝手に動き回るなって？責任者は誰だ？オマエか？それともアイツらか？めんどくせえ、とりあえず一緒に出かけるぞ。
 	You can't go out without permission? Come on, aren't you the one in charge? Anyway, come on, let's go out.
 	멋대로 돌아다니지 말라고? 여기 책임자 누구야? 너? 아니면 저놈들? 귀찮구만, 일단 다 따라 나와.
 
-	你刚才有话要说吗？我戴着耳机没听见。
 	何か言ったか？イヤホンしてて聞こえなかった。
 	Did you say something? Sorry, had my headphones on.
 	무슨 말 했어? 이어폰 꽂고 있어서 안 들렸다.
 
-	罗德岛的首领看起来比真理年纪还小吧，你怎么能让那样的孩子上战场？嗯？
 	ロドスのトップはイースチナよりも若いじゃねえか。どうしてあんな子供を戦わせるんだ？あ？
 	The leader of Rhodes Island looks younger than even Istina. How can you let a kid like that onto the battlefield? How?
 	로도스 아일랜드의 수장은 이스티나보다도 어리잖아. 왜 이런 어린애를 싸움에 내보내는 거냐? 응?
 
-	为什么我成天盯着你？我就是想看看，看看你这家伙每天都在做什么。
 	どうしてじっと見てるのかって？オマエはいつも何してんのか観察してんだよ。
 	Why do I stare at you all the time? Cause I'm observing what you're up to.
 	뭘 빤히 쳐다보냐고? 네가 평소에 뭘 하는지 관찰 좀 하고 있었다.
 
-	所有的士兵都想当上将军，那么，我想取代你好像也没什么问题吧？
 	トップに立つのは全兵士の目標だ。オマエの座だってぶん取りたいと思ってる。悪いか？
 	It's every soldier's goal to make it to the top. You saying I should feel bad for wanting to take your position?
 	정점에 서는 건 모든 병사들의 목표지. 네 자리도 확 뺏어버릴까 생각하고 있다. 뭐 잘못됐냐?
 
-	未来的打算？没想过那种事。怎么，有什么不满吗？我们又不是那种需要为将来做打算的年龄。
 	将来設計？そんなものはねえな。なんだ、不満か？まだ先のこと心配する歳でもねえし。
 	Plans for the future? Don't have any. You got a problem with that? I'm still young, no need to plan far ahead.
 	장래 계획? 그런 건 없는데. 왜, 불만이냐? 아직 앞날 걱정할 나이도 아닌데 뭘.
 
-	真理她们是我在路上捡到的，不过一开始可不只有她们几个人。你问其他人在哪？哦......收拾掉了，因为那些家伙，不怎么老实。
 	イースチナ達は旅の途中で拾った。ほかの奴もいたけど……処分した。大人しくしてろって言っても聞かなかったからな。
 	I found Istina and her gang along my travels. They had some company, but I dealt with them. Had no choice, they refused to behave themselves.
 	이스티나 일행은 여행 도중에 만난 녀석들이야. 다른 녀석들도 있었지만…… 처분해 버렸지. 얌전히 있으라고 해도 영 말을 안 듣더라고.
 
-	切尔诺伯格？谁要回一个没有希望的城市？现在罗德岛才是我们真正的起点。就是这样，以后还请多担待点喽，博士。
 	は？チェルノボーグ？あんな絶望しかねえ町に誰が戻るんだ？ロドスこそアタシらのスタート地点。てなわけで、これからよろしく頼むぜ、ドクター。
 	Huh? Chernobog? Who'd ever wanna go back to that miserable city? Rhodes Island is where our new lives begin. So, let's keep it tight, Doctor.
 	뭐? 체르노보그? 그런 절망밖에 없는 도시에 누가 돌아가겠어? 로도스야 말로 우리 새 출발 지점이야. 그러니 앞으로도 잘 부탁해, 박사.
 
-	......这就没事做了？
 	……なんかやることねえのか？
 	We really got nothing left to do?
 	… 뭐 할만한 일 없나?
 
-	凛冬，乌萨斯学生自治团团长。我自己怎么样无所谓，但现在我的同伴需要一个安身之处。好了，快给我安排些工作，我知道在这里生活不是免费的。
 	ズィマー、ウルサス学生自治団の団長だ。アタシは別にどうでもいいが、仲間達には居場所が要る。いいから何か仕事をくれ。ここで暮らすのもタダじゃねえってことくらいわかってる。
 	I'm Zima, leader of the Independent Ursus Student Union. I can make do without one, but my comrades need a place to call home. Let's cut the crap, gimme a job to do. I know lodging ain't free in this place.
 	우르수스 학생자치단의 단장, 지마다. 난 딱히 상관없지만, 동료들이 머물 곳이 필요해서 말이야. 뭐든 좋으니 일 좀 줘봐. 여기서 지내는 것도 공짠 아니라는 것 정돈 알고 있으니.
 
-	这个不赖嘛。
 	こいつは嫌いじゃねえぞ。
 	Not too bad.
 	이거 나쁘지 않은데.
 
-	晋升？有趣，也就是说只要一直取得战功，就能不断晋升下去，对吧？
 	昇進？おもしれえ。戦果をあげ続けりゃ、もっと上にいける。だろ？
 	A promotion? Cool. So I'll keep getting promoted if I keep doing a good job in battle, yeah?
 	승진? 그거 솔깃한데. 성과를 계속 내면 더 올라갈 수 있단 얘기잖아?
 
-	让我们相互坦白点吧，如果我一直晋升下去，最后就能取代你了吧？......玩笑话？不好意思啊，我可不是在开玩笑。
 	正直に言え。アタシが昇進し続けたら、オマエの座、ぶん取ってやることもできるか？……はあ？冗談？悪いけど、冗談じゃねえぞ。
 	I'll be frank: if I keep getting promoted, I might end up replacing you someday. Oh, you think I'm joking? Listen, pal, I'm dead serious here.
 	솔직하게 말해라. 내가 계속 승진을 하면, 네 자리도 확 뺏어버릴 수도 있는 거야? …뭐? 농담이냐고? 미안한데 나 지금 농담하는 거 아니다.
 
-	当队长还是队员，我都无所谓。
 	隊長だろうが、隊員だろうがどっちでも構わねぇ。
 	Make me the leader or just a team member, either way's fine by me.
 	팀장이든 팀원이든, 얼로 가도 상관없어.
 
-	麻烦。
 	めんどくせえ。
 	What a pain in my ass.
 	귀찮게 하기는.
 
-	走了。
 	出る。
 	I'm outta here.
 	나간다.
 
-	上。
 	行くぞ。
 	Let's go.
 	가자.
 
-	当然，是我！
 	とーぜん、アタシだろ！
 	Of course you'd pick me!
 	당연히 나겠지!
 
-	我要去战斗。
 	やってやるってんだ。
 	Yeah, we're doing this.
 	다 쓸어버리겠어.
 
-	胆小鬼。
 	腰抜けヤローが。
 	Spineless scumbags.
 	겁쟁이 자식이.
 
-	哼。
 	ふん。
 	Hah!
 	흥.
 
-	怕什么！
 	ビビってんじゃねえ！
 	The hell are you scared of!
 	겁먹지 마!
 
-	你们一口气上吧！
 	一気にかかってこい！
 	Take me on, you bastards!
 	한 번에 덤벼!
 
-	力量与荣耀！
 	力と栄光を！
 	For power and glory!
 	힘과 영광을!
 
-	胜利与死亡！
 	勝利か死かだ！
 	You wanna win, or you wanna die?!
 	승리 아니면 죽음이다!
 
-	急着送命就来找我，我这里不需要排队。
 	もう死にてぇ奴はいねぇのか！マッハであの世に送ってやる！
 	Anyone with a death wish left out there? Come out and I'll oblige you!
 	이제 죽고 싶은 녀석은 더 없는 거냐! 순식간에 저 세상으로 보내주마!
 
-	不错的战果。
 	悪くねえ結果だな。
 	Pretty decent job.
 	나쁘지 않은 결과군.
 
-	反正，这地盘现在是我们的了。
 	とにかく、ここは落とした。
 	Well, this place is ours now.
 	어쨌든, 여기는 함락시켰다.
 
-	丢人，你马上给我退出战场！
 	情けねえ奴だ。さっさと消えろ！
 	Man, you guys suck. Get lost!
 	한심한 녀석이구만. 얼른 사라지라고!
 
-	这是什么地方？
 	ここは何をする場所だ？
 	What do you want me to do here?
 	여긴 뭐 하는 곳이지?
 
-	嗯？
 	ん？
 	Hmm?
 	응?
 
-	嘿，最近你的指挥越来越像样了，是不是觉得打架也挺有趣的？
 	へぇ、オマエも最近指揮官がサマになってきたな。ケンカも面白くなってきただろ？
 	Hey, you're getting better at giving orders these days. You're starting to see the fun in fighting, eh?
 	호오, 너도 요즘 보니 지휘관 태가 좀 나는구만. 싸움도 더 재밌지 않아?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	干什么？有事吗？
 	なんだよ、なんか用か？
 	What? You need something?
 	뭐야, 무슨 일 있어?
+
+干员档案\Background:
+	基础档案 :
+	【代号】凛冬
+	【性别】女
+	【战斗经验】半年
+	【出身地】乌萨斯
+	【生日】7月29日
+	【种族】乌萨斯
+	【身高】162cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ズィマー
+	【性別】女
+	【戦闘経験】半年
+	【出身地】ウルサス
+	【誕生日】7月29日
+	【種族】ウルサス
+	【身長】162cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Zima
+	[Gender] Female
+	[Combat Experience] Half a year
+	[Place of Birth] Ursus
+	[Date of Birth] July 29
+	[Race] Ursus
+	[Height] 162cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 지마
+	[성별] 여
+	[전투 경험] 반년
+	[출신지] 우르수스
+	[생일] 7월 29일
+	[종족] 우르수스
+	[신장] 162cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Standard
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	凛冬，切尔诺伯格事变前于切城某中学就读，在校期间已表现出对战斗与突击行为的热情。在多项测试中表现出乌萨斯人与生俱来的强健力量和坚实体质。 
+	现作为先锋干员担任作战小队队长。
+
+	個人履歴 :
+	ズィマーはチェルノボーグ事変以前は城内の高校に通っており、その頃から既に戦闘や突撃行動への情熱を持ち始めていた。様々なテストを通し、ウルサス人の生来の頑丈な体や強い力を持っていると明らかになった。
+	現在は先鋒オペレーターとして、所属小隊の隊長を務めている。
+
+	Profile :
+	Before the Chernobog incident, Zima was a middle school student. In school, she displayed a peculiar interest in fighting and violence. Multiple tests have shown she has the strength and solid constitution characteristic of the Ursus race.
+	Currently, she leads a squad of Vanguard Operators.
+
+	프로필 :
+	    체르노보그 사태가 발발하기 전에는 체르노보그의 어느 고등학교에 재학 중이었다. 재학기간 동안 전투와 돌격 행위에 대한 열정을 드러냈으며, 이미 여러 차례에 걸친 테스트를 통해 우르수스인 특유의 강한 힘과 강인한 체질을 보여준바가 있다. 현재는 뱅가드 오퍼레이터로서 작전팀의 팀장을 맡고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员凛冬没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.1u/L 
+	干员凛冬甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.1u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.1u/L 
+	This Operator has rarely come into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 지마로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.1u/L
+	오퍼레이터 지마는 오리지늄과의 접촉 횟수가 매우 적음.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员凛冬与一般印象中暴躁、敏感的乌萨斯人不同，她有话直说，但并非不会考虑自己所说的话能造成的某些影响。可以确定的是，凛冬所说出的话，所作出的行为，均是其判断“可行”的结果。但即使如此，一旦凛冬认为其伙伴承受委屈受到欺负，会不问缘由地去为她们出头。
+	因此，针对干员凛冬的一些言论，不推荐视之为年轻人的玩笑。对于年轻干员的处理，理应以灵活的态度进行。
+	目前可以判断的是，干员真理的言论将对凛冬起到一定抑制作用。应保持与真理的沟通，同时使凛冬感到罗德岛与她相互利益的一致性。
+
+	第一資料 :
+	ズィマーは、一般的に短気でセンシティブなイメージがあるウルサス人とは違う。率直な物言いをするが、その言い方がどのような影響を及ぼすかは考慮しており、彼女の言ったことや取った行動は、全て自分の判断に従い、良しとしたものである。とはいえ、仲間がいじめられたと認識した場合は、理由を問わず彼女は絶対にその仇を討つ。
+	つまりズィマーの発言に関しては、単なる若者の冗談だと認識せずに、柔軟な対応が必要となる。
+	なお、イースチナの発言によりズィマーを抑えられる傾向がみられる。そのためにはイースチナとの意思疎通を保つと同時に、ズィマーにロドスとの利益の一致を実感させる必要がある。
+
+	Archive File 1 :
+	Zima defies most people's preconceived notions what an Ursus should be, expecting her to be irascible and sensitive. When she has something to say, she says it directly, and doesn't much consider what kind of impact it's going to leave her targets. What is certain is that Zima feels her words and actions are acceptable. Even so, as soon as she feels like one of her friends is being bullied or treated unfairly, she will stick up for them regardless of the circumstances.
+	As a result, childish jokes should be kept to a minimum in her presence. As for dealing with young Operators, a flexible attitude must be maintained.
+	The short of it is that Operators should watch what they say around Zima. They should be somewhat honest, but also help Zima understand that she and Rhodes Island share mutual interests.
+
+	파일 자료 1 :
+	    지마는 보통의 거칠고 예민한 성격의 우르수스 사람들과는 달랐다. 할 말이 있으면 바로바로 말하는 타입이었지만, 자신이 한 말이 어떤 영향을 끼칠지에 대해서 고려해보지도 않고 함부로 말하는 편은 아니었으니까. 확실한 것은 지마가 한 말과 행동은 모두 그녀가 판단하기에 문제없다고 판단한 결과 행해진다는 것이다. 그렇기에 지마가 생각하기에 자신의 동료가 억울하게 괴롭힘을 당하게 된 경우라면, 그녀는 이유를 막론하고 주먹을 휘둘렀다. 그러니 그녀가 한 말들은 단지 어린 친구의 농담 정도로만 여기지 말고, 유연한 마음가짐으로 그녀와 다른 젊은 오퍼레이터들을 대하는 게 좋을 것이다.
+	    지금까지 확인된 점은, 오퍼레이터 이스티나의 말을 통해 지마를 어느 정도 제어할 수 있다는 것이다. 그렇기에 이스티나와 자주 소통해야 하며, 동시에 지마로 하여금 자신과 로도스 아일랜드가 지향하는 바가 일치한다는 점 역시 인지시켜야 할 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	凛冬出生于乌萨斯帝国切尔诺伯格市。观察报告指出，学生自结社团是近年来流行于乌萨斯年轻群体中的组织形式。受维多利亚，哥伦比亚等国流入的“新文化”影响，他们终日沉浸于摇滚、啤酒和群体斗殴中。每一个学生社团的头领均有自己的绰号。凛冬最初的绰号是“冬天”，是被她击败的东校区社团首领所赠，而另一伙社团的人则称呼她“将军”（一个暗自揶揄的绰号，在乌萨斯人的笑话中，“将军”等同于无能与欺骗）。但在凛冬陆续剿灭了校园周边所有的学生社团后，人们开始将这两个绰号合并，称呼她为“Генерал Мороз”（通用语意为“凛冬将军”）。
+
+	第二資料 :
+	ズィマーはウルサス帝国のチェルノボーグ市の生まれ。観察報告によると、学生自治団とは近年ウルサスの若者たちの間に流行っている組織。ヴィクトリアやクルビアなどからの「新文化」の影響で、ウルサスの若者の間ではロックやビール、集団の殴り合いが流行している。全ての学生自治団のリーダーはそれぞれあだ名を持つが、ズィマーの最初のあだ名は、敗れた東キャンパスの自治団リーダーから贈られた「冬」であった。そしてもう一つの自治団からは「将軍」と呼ばれていた（揶揄の意味が強い。ウルサス人の冗談話では「将軍」は無能や嘘つきを意味する）。しかし学校周辺の学生自治団が次々と彼女に潰されるにつれ、その二つのあだ名が合わさり、Генерал Мороз」（共通語でいうと「冬将軍」）と呼ばれるようになった。
+
+	Archive File 2 :
+	Zima was born in the city of Chernobog in the Empire of Ursus. Reports have indicated that in recent years, student groups have become a popular for young Ursus to organize. Influenced by the cultures of countries like Victoria and Columbia, they spend all day immersed in rock music, beer, and fight clubs. The leader of every group of students has their own nickname. Zima's first nickname was, appropriately, 'Zima,' a nickname given to her by the leader of the eastern campus's student group after she defeated him. A separate group called her 'General' (a derisive in-joke within that group - Ursans often joke that 'Generals' are incompetent and untrustworthy). However, after the annihilation of all the other student groups around the campus, people began to merge the two nicknames, and began to call her 'General Zima.'
+
+	파일 자료 2 :
+	    지마는 우르수스 제국의 체르노보그시에서 태어났다. 관찰 보고서를 확인한 결과, 학생자치단이라는 것은 최근 몇 년 새 우르수스의 젊은이들 사이에 유행하는 일종의 조직 형태라는 것을 알 수 있었다. 이는 빅토리아나 컬럼비아와 같은 나라로부터 들어온 '신문화'의 영향을 받은 것인데, 그들은 온종일 록 음악과 맥주와 패싸움에 빠져 살았다. 각 학생자치단의 리더는 모두 자신만의 별명이 있었다. 지마의 최초 별명은 '겨울'이었는데, 이는 그녀가 꺾은 동부 학생자치단의 리더가 붙여준 것이다. 또 다른 자치단의 사람들은 그녀를 '장군'(우르수스의 농담 중 '장군'은 무능과 기만을 뜻하기에, 조롱의 의미도 포함하고 있다)이라 불렀다. 지마는 계속해서 학교 주변의 모든 자치단을 섬멸하였고, 사람들은 이 별명 두 개를 합쳐서 'Генерал Мороз' (공용어로 '동장군')이라 불렀다.
+
+———————————————————————————————
+
+	档案资料三 :
+	显而易见的，自切尔诺伯格事变中生存的乌萨斯学生，目前以凛冬为中心集结为松散团体“乌萨斯学生自治团”。根据部分干员提供的描述，乌萨斯学生常以干员真理的宿舍房间为集合地，称之为“класс”（通用语意为“班级”，或“阶级”）。鉴于对罗德岛内部稳定的管理的考虑，建议对该团体的日常行动进行定期的观察。
+
+	第三資料 :
+	チェルノボーグ事変を生き残ったウルサスの学生たちは、現在はズィマーを中心に「ウルサス学生自治団」を立ち上げたことが明らかになった。一部のオペレーターの報告によると、学生たちはよくイースチナの部屋に集まっており、この集まりを「класс」（共通語でいうと「クラス」）と称している。ロドス内部の安全管理を考慮し、このグループの普段の行動を定期的に観察することを提言する。
+
+	Archive File 3 :
+	It is clear that ever since the Chernobog incident, the surviving Ursus students have gathered in a loose group around Zima called the 'Ursus Student Self-Governing Group.' According to reports from some Operators, the students use Istina's room as a place to gather. They call it 'The Classroom.' We should maintain a schedule of periodic observations of this group's daily activities.
+
+	파일 자료 3 :
+	    당연하게도, 체르노보그 사태로 부터 생존한 우르수스 학생들은 지마를 중심으로 집결하여 '우르수스 학생자치단'을 결성하였다. 일부 오퍼레이터의 말에 의하면, 우르수스 학생들은 오퍼레이터 이스티나의 숙소를 집결지로 자주 사용하였고, 그 숙소를 'класс' (공용어로 학급, 교실을 뜻함)라 불렀다고 한다. 로도스 아일랜드 내부의 안정적 관리를 위해, 본 단체의 일상 행동에 대하여 정기적인 관찰을 진행할 것을 제안한다.
+
+———————————————————————————————
+
+	档案资料四 :
+	干员凛冬近期借阅记录：
+	《尼古拉米娜》夏服搭配一百连发！
+	《跃动！》特刊·年中十大动圈式推荐
+	《嫌疑人伊里奇之死》（建议分类：推理文学）
+	《弗里德里希的战争论纲》（沃尔霍夫出版社，10月再版发行）
+	......
+	与印象相反，干员凛冬并未显示出任何疏于阅读的倾向，她颇为广泛的阅读类目给我们留下了深刻印象，或许有重新调查现代女性中学生群体中的流行事物的必要。
+
+	第四資料 :
+	ズィマーの最近の読書記録：
+	『ニコライミナ』夏のコーデ100連発！
+	『ダイナミック！』特集・今年のダイナミックイヤホン10選
+	『容疑者イリイチの死』（推理小説）
+	『フリードリヒの戦争論』（ヴォルホフ出版、10月第2刷）
+	……
+	イメージとは違いズィマーは読書好きであり、その趣味の広さが非常に深く印象付けられた。そのため、現在の女子高校生の流行りものを改めて調査する必要がある。
+
+	Archive File 4 :
+	Zima's recent reading list: 
+	Nikolamina - Fine summer reading!
+	Jump! - Special Edition - One of the year's Top Ten Recommendations
+	The Death of Ilyich, the Suspect - (Recommended Genre: Detective Literature)
+	Friedrich's Theory of War - (Volkhov Press, reissued in October)
+	......
+	Despite how she seems, Zima does not show any indication of poor reading skills. The breadth of the genres she reads has left us with a deep impression. Perhaps we need to re-consider what we think of as popular literature among the middle school female population.
+
+	파일 자료 4 :
+	오퍼레이터 지마의 최근 도서 대여 목록:
+	- 《니콜라미나》여름 패션 코디 100연발!
+	- 《점프!》특집호•올해의 TOP10 작품 추천
+	- 《용의자 일리치의 죽음》 (제안 분류: 추리 문학)
+	- 《프리드리히의 전쟁론》 (볼호프 출판사, 10월 재판 발행)
+	…… 
+	    인상과는 반대로, 오퍼레이터 지마는 독서를 소홀히 하는 듯한 경향은 보이지 않았다. 그녀의 폭넓은 독서 범위는 우리에게 깊은 인상을 남겼다. 어쩌면 지금의 여고생들 사이에서 유행하는 게 무엇인지 재조사를 해볼 필요가 있을지도 모르겠다.

@@ -1,11 +1,17 @@
 ID:
 	char_284_spot
 
-干员代号\Name:
+CV:
 	斑点
 	スポット
 	Spot
 	스팟
+
+干员代号\Name:
+	阿部敦
+	阿部敦
+	Atsushi Abe
+	아베 아츠시
 
 招聘合同\Character Usage:
 	罗德岛重装干员斑点，将在抵御攻击的同时为小队提供简单的医疗支援。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	看上去彬彬有礼——直到开口前一刻。
 	礼儀正しく見えるが……しゃべりだしたら、ね。
-	He seems polite and gentle… until he opens his mouth.
+	He seems polite and gentle... until he opens his mouth.
 	무척 예의가 발라보였다… 그가 입을 열기 전까지는.
 
 信物\Potential Item:
@@ -38,167 +44,336 @@ ID:
 	2급 치료 모드
 
 语音\Voices:
-	工作就像是陷阱，你得主动跳进去才行。
 	仕事なんて罠みたいなもんだとわかってるけど、それでも俺たちは飛び込むことしかできないんだ。
 	I get that work is a kind of trap, but still we gotta jump right into it.
 	일은 함정 같은 거라는 걸 알고 있지만, 그래도 우리는 뛰어드는 일 밖에 할 수 없어.
 
-	我不说话只是因为不想，没有看不起谁的意思。
 	俺があまり喋らないのは、話したいことがないからだ。別に誰かを嫌ったり見下しているわけではない。
 	I don't talk much 'cause I don't want to. Not 'cause I'm full of myself.
 	내가 말을 별로 하지 않는 건, 말하고 싶은 게 없어서야. 딱히 누군가를 싫어하거나 깔보고 있는 게 아니야.
 
-	月见夜又做什么了，他是不是终于因为在走廊上搭讪遭人讨厌甚至被送进医务室了？没有？真是遗憾。
 	ミッドナイトがまた何かやったのか？廊下でナンパに失敗してやっと痛い目見たとか？なんだ、違うのか。残念だ。
 	What did Midnight do this time? Did he finally end up in Medical after hitting on one too many ladies in the hallway? No? Too bad.
 	미드나이트가 또 뭔가 저질렀나? 복도에서 작업 걸다 실패해서 혼쭐이 났다든지? 뭐야, 아니야? 아쉽네.
 
-	有事吗，博士？我大概能帮上点忙。不过，要是能不占用我用来看漫画的休息时间，当然会更好。
 	ドクター、何か仕事はあるか？少しぐらいなら手伝うが。漫画を読む時間だけは残しておいてくれると助かる。
 	Got something, Doctor? I could probably lend a hand. But I'd rather it not eat up too much of my time. I got a lot of comics to read.
 	박사, 뭐 할 일 없어? 조금이라면 도와주겠지만, 만화를 읽을 시간 정도는 남겨줬으면 좋겠어.
 
-	虽然有时候我说话很直接，但该做的事情，我一定会做好。这不关职业道德什么事，只是我觉得连任务都没法完成的人，一定没有用心去做。
 	俺は言葉に思いやりが足りないかもしれないけど、やることはちゃんとやる。プロ意識なんて立派なものじゃない。引き受けた任務すらまともにできないやつは、適当な人間だって思ってるだけだ。
 	I know I speak a little too bluntly sometimes, but I always get my work done. It's not like I got professional pride or anything, I just can't respect somebody who doesn't finish his work.
 	나는 말에 배려가 부족할지도 모르지만, 할 일은 제대로 해. 프로 의식 같은 대단한 게 아니야. 맡은 임무도 제대로 못 하는 녀석은 대충 사는 인간이라고 생각할 뿐이지.
 
-	罗德岛是个奇怪的地方。这里的人有什么情绪都会说出来，有什么需要帮忙的地方就自然会有人伸出援手。
 	ロドスって組織は本当に変わってる。ここではみんな思ってることをストレートに言うし、困ったら必ず誰かが助けてくれる。
 	Rhodes Island is a strange place. The people here just say whatever they're thinking, and somebody's always there to help when someone needs it.
 	로도스 아일랜드라는 조직은 참 특이해. 여기에는 모두가 생각하는 걸 직설적으로 말하고, 어려울 땐 반드시 누군가가 도와주잖아.
 
-	虽然A6行动预备组的各位，不是每天摆着张臭脸就是没有自控能力，要么自我意识过剩或者根本是颗移动炸弹，但我依然觉得他们很可靠。因为他们真的在努力，哪怕是偷偷的。
 	A6のメンバーは、いつも不貞腐れてたり、自分を抑えることを知らなかったり、自意識過剰だったり、歩く爆弾みたいな存在だったり、そういうやつばかりだけど、頼りになる仲間だとは思ってる。あいつら、ああ見えて意外と努力家なんだ。
 	On Op Reserve Team A6, if I'm not spending all day getting scowled at, I'm dealing with a lack of self control, or anarcissisticpersonality disorder, or a ticking time bomb. But I do think I can trust them. They work hard, even if they don't show it.
 	A6 팀의 멤버들은 언제나 심통이 나 있거나, 자아조절 하는 법을 모르거나, 자의식 과잉이거나, 걸어 다니는 폭탄 같은 존재거나, 그런 녀석들뿐이지만, 믿음직한 동료라고는 생각하고 있어. 그 녀석들, 저렇게 보여도 의외로 노력파 거든.
 
-	我以前也是个像各个罗德岛干员一样自由自在的人，我的家庭却觉得那样的我是个怪胎。也许这里是个怪胎集合地也说不定，但至少，大家都很快乐。这样也不错。
 	昔の俺も、ロドスのみんなと同じように思うがままに生きてた。家族のみんなはそんな俺を異端児の様な目で見てたんだ。でもロドスはそんなやつばっかりだし、世界中から変わり者が集ってるのかもな。まあそれでも、いつも楽しそうにしているみんなを、俺は悪くないと思ってる。
 	I used to live free and easy like everyone else at Rhodes Island, but my family thought I was a freak. This place may be a freakshow, but at least everyone's happy, and that's pretty good.
 	예전의 나도, 로도스 아일랜드 사람들처럼 내키는 대로 살아왔었어. 가족들은 그런 날 이단아 취급했었지. 그래도 로도스 아일랜드에선 그런 녀석들밖에 없잖아, 전 세계에서 이상한 녀석들이 모여든 걸지도 모르겠네. 뭐 그래도, 언제나 즐거워 보이는 모두가 난 나쁘지 않다고 생각해.
 
-	我可以先回宿舍吗？
 	もう部屋に戻ってもいいか？
 	Can I go back to my room now?
 	이제 방으로 돌아가도 될까?
 
-	你好，我是隶属行动预备组A6的斑点，职责大概是保护预备组每天都在闹腾的另外几个家伙。
 	……どうも。行動予備隊A6のスポットだ。俺の仕事は、いつも無茶するメンバー達を守ってやること……だと思う。
 	Hi, I'm Spot from Operation Reserve Team A6. My job is to protect the other clowns on my team, I guess.
 	……안녕. 예비작전팀 A6의 스팟이야. 내 일은 언제나 터무니없는 짓을 하고 다니는 멤버들을 지키는 거… 라고 생각해.
 
-	这场战斗我看过，敌人都完蛋了。
 	この戦闘記録なら見たことがある。見事なもんだ。
 	I've seen this battle before. Nice one.
 	이 전투기록이라면 본 적 있어. 훌륭해.
 
-	我会加倍努力工作的，从0.1到0.2的水平吧。
 	それじゃ今の倍以上働くとしよう。0.1が0.2になる程度かもしれないが。
 	I'm gonna work twice as hard. I'll bump it up from a 0.1 to a 0.2, I think.
 	그럼 지금의 배 이상으로 일하도록 하지. 0.1이 0.2가 되는 정도일지도 모르겠지만.
 
-	我就不询问这次作战的意义了。
 	作戦の意味なんて興味ない、黙ってやるだけだ。
 	I really don't care about the whole mission background. I just keep my mouth shut and get it done.
 	작전의 의미 같은 거엔 흥미 없어, 그냥 입 닫고 하는 거지.
 
-	我想回宿舍了。
 	寮に戻りたいんだが。
 	I was just going back to the dormitory.
 	숙소로 돌아가고 싶은데.
 
-	知道了。
 	わかった。
 	Got it.
 	알았어.
 
-	你们直接投降能节约我很多时间。
 	さっさと降参してくれれば、こちらも時間を無駄にせずに済むんだけどな。
 	It would save us a lot of time if you just gave up.
 	어서 항복해 주면, 이쪽도 시간 낭비 안 하고 끝낼 수 있을 텐데 말이야.
 
-	怎么样都行。
 	任せる。
 	I got this.
 	알아서 해.
 
-	我随便。
 	俺は別になんでもいい。
 	Doesn't matter to me.
 	난 딱히 다 괜찮아.
 
-	就这样吧。
 	このままいこう。
 	Let's do it like this.
 	이대로 가자.
 
-	挺好的。
 	これでいいだろう。
 	This should be fine, right?
 	이걸로 됐겠지.
 
-	试试这个。
 	これでどうだ。
 	Check this out.
 	이건 어떠냐.
 
-	应该不会伤到队友。
 	仲間には当たらないはずだ。
 	I don't think it's gonna hurt my teammates.
 	동료에게는 안 맞을 거야.
 
-	破绽太多了。
 	隙だらけ。
 	So many weaknesses.
 	빈틈투성이네.
 
-	举盾也是很累的。
 	盾を持ってるのも疲れるんだが…。
 	I'm sick of holding this shield.
 	방패 들고 있는 것도 지치네… 
 
-	每当你觉得一场战斗很轻松的时候，就最好再来一次。
 	楽しかった？もう一回やるか？
 	Fun times? Wanna do it again?
 	재밌었어? 한 번 더 할까?
 
-	只要肯努力，就算大脑空空也能做好。
 	努力すれば、頭が空っぽのやつだって役に立てるんだ。
 	With hard work, even an idiot can get the job done.
 	노력하면 머리가 텅 빈 녀석이라도 도움이 될 수 있다고.
 
-	瑕疵是一种必然，从结果来说。
 	結果から見れば、100点とは言えないか。
 	We definitely can't give that a perfect score.
 	결과로 보자면, 100점이라곤 못 하려나.
 
-	别紧张，你这样没事。
 	気にするな、あんたはこのままでいい。
 	Don't sweat it. You did fine.
 	신경쓰지 마, 넌 이대로 괜찮아.
 
-	这样也可以。
 	これでいい。
 	Yeah sure.
 	이걸로 됐어.
 
-	哦。
 	ああ。
 	Ah.
 	어.
 
-	你这样摸，我的毛会打结的。
 	あんまりモフられると、ダマになるだろ。
 	If you keep petting me like that, my hair's gonna get tangled.
 	너무 만지면 털이 뭉쳐버리잖아.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士。
 	ドクターか。
 	Doctor...
 	박사구나.
+
+干员档案\Background:
+	基础档案 :
+	【代号】斑点
+	【性别】男
+	【战斗经验】一年
+	【出身地】萨尔贡
+	【生日】4月30日
+	【种族】瑞柏巴
+	【身高】169cm
+	【矿石病感染情况】
+	体表有源石结晶分布，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】スポット
+	【性別】男
+	【戦闘経験】一年
+	【出身地】サルゴン
+	【誕生日】4月30日
+	【種族】レプロバ
+	【身長】169cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。感染者に認定。
+
+	Basic Info :
+	[Code Name] Spot 
+	[Gender] Male 
+	[Combat Experience] 1 year 
+	[Place of Birth] Sargon 
+	[Date of Birth] Apr. 30 
+	[Race] Rebbah 
+	[Height] 1.69m 
+	[Infection Status] 
+	Crystals visible on surface, infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 스팟
+	[성별] 남
+	[전투 경험] 1년
+	[출신지] 사르곤
+	[생일] 4월 30일
+	[종족] 리프로바
+	[신장] 169cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】普通
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Normal 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	原萨尔贡士兵，主动来到罗德岛求职。在通过干员测试后，成为罗德岛的一员，被分配到预备行动组A6。
+	于守护方面颇有心得，是小队的防御手。
+
+	個人履歴 :
+	サルゴンの兵士だったが、ある日、自らロドスに志願した。オペレーター試験に合格し、ロドスの一員となった後、行動予備隊A6に配属された。
+	防御に関しては確かな心得があり、チームの盾役を担っている。
+
+	Profile :
+	Originally a Sargonsoldier, Spot took the initiative and came to Rhodes Island seeking employment himself. After passing the examination battery, he was assigned to Op Reserve Team A6.
+	He has a lot of experience as a guard; and serves as the defensive specialist on the team.
+
+	프로필 :
+	    스팟은 사르곤 출신의 평범한 감염자이며, 자발적으로 로도스 아일랜드에 입사했다. 테스트를 통과한 후엔 로도스 아일랜드의 오퍼레이터로서 예비작전팀 A6에 배치되었다. 방어 방면에 자질을 보여, 팀에서 디펜더를 맡고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】3%
+	包括体表的源石结晶在内，干员斑点拥有明显的感染者症状。不过由于肤色和毛发的原因，反而很难发现。
+	
+	【血液源石结晶密度】0.30u/L.
+	以这个势头发展下去，感染将匀速蔓延扩散。需要保持定期观察与控制。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】3%
+	体表の源石結晶を含め、明らかな鉱石病の症状が見られる。しかし、肌の色と体毛が原因で発見が難しくなっている。
+	
+	【血液中源石密度】0.30u/L
+	このまま病状が進行すれば、感染は一定速度で広がっていく見込みである。病状のコントロールと定期的な検診を行う必要がある。
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in his circulation, indicating signs of infection and confirming him as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 3% 
+	Crystallization visible on surface of body, with many symptoms of Oripathy difficult to spot due to skin and hair color. 
+	
+	[Blood Originium-Crystal Density] 0.30u/L 
+	Infection is currently spreading at a constant rate. Regular observation and treatment required.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 3%
+	신체 표면에 오리지늄 분포가 확인됨. 오퍼레이터 스팟은 감염자 증상이 있으나 몸에 난 털로 인해 발견하기 어려움.
+	
+	[혈중 오리지늄 결정 밀도] 0.30u/L.
+	이 상태가 유지되면 감염은 더 빠른 속도로 확산될 수 있음. 정기적인 관찰과 관리 필요.
+
+———————————————————————————————
+
+	档案资料一 :
+	预备行动组A6的一员，原萨尔贡士兵。
+	沉默寡言，缺乏干劲，即使偶尔开口也总是带刺，在吵闹的A6中，从另一个意义上显得十分特别。
+
+	第一資料 :
+	行動予備隊A6のメンバーで、元サルゴン兵。
+	寡黙でいつも気だるげにしており、口を開いたかと思えば棘のある言葉しか発さない。にぎやかなA6の中では別の意味で貴重な存在である。
+
+	Archive File 1 :
+	A member of Op Reserve Team A6 who used to be a Sargon soldier. 
+	He rarely speaks and has little reason to. On the rare occasion he does open his mouth, he tends to be brutally direct. Among the ostentatious members of Team A6, he is truly the odd man out.
+
+	파일 자료 1 :
+	    예비작전팀 A6의 일원으로 전 사르곤 사병이다. 과묵하고 말이 적으며, 의욕이 부족하다. 가끔씩 말을 하긴 하지만 말투가 굉장히 날카롭다. 시끌벅적한 A6 팀 내에선 어떤 의미론 매우 특별한 존재다.
+
+———————————————————————————————
+
+	档案资料二 :
+	斑点第一喜欢看英雄题材，第二喜欢看冒险题材，当然，其他的题材他也有诸多收藏。
+	他在自己的房间里用一整个书架来摆放这些漫画，经常会有其他干员去向他借漫画。
+
+	第二資料 :
+	一番の趣味はヒーローものの漫画を読むことで、その次に好きなことは冒険ものの漫画を読むことらしい。もちろん、それ以外のジャンルの漫画も多く所有しているようだ。
+	それらの漫画は自室の本棚に整然と並べられており、漫画を借りにやって来るオペレーターが絶えない。
+
+	Archive File 2 :
+	A fan of superheroes and pulp action, Spot loves to read comics and has an impressive collection. 
+	He has filled a whole shelf with his comic books, and other Operators often borrow them from him.
+
+	파일 자료 2 :
+	    스팟은 히어로물을 제일 좋아하며, 그다음으로 모험물을 좋아한다. 물론 이것 말고도 다양한 장르의 만화책을 다량 소장하고 있다. 자신의 방에는 한 책장 전체가 만화로 가득 차 있어, 다른 오퍼레이터들이 자주 스팟으로 부터 만화를 빌려 간다.
+
+———————————————————————————————
+
+	档案资料三 :
+	虽然萨尔贡也是一个现代化的国家，他们的城市中也绝不缺少各种现代的娱乐设施，但萨尔贡人依然整体给人尚武的印象。
+	因此，像斑点这样，似乎对任何事情都没有兴趣，喜欢看漫画，总是喜欢而且喜欢追逐时尚，隔一段时间还会请梓兰小姐给他换一个毛型的萨尔贡人，确实是颇为少见。
+
+	第三資料 :
+	サルゴンは現代国家の一つであり、最新の娯楽施設が街中に溢れている。とはいえ、依然として武を重んじており、古風な印象を与えるサルゴン人が大多数である。
+	そのため、趣味の漫画や最新のトレンドを追うこと以外、何事にも興味がなさそうな顔をするスポットは、サルゴン人の中でも異質と言えるだろう。オーキッドに定期的にヘアスタイルを変えてもらっているという話からも、その様子が伺い知れる。
+
+	Archive File 3 :
+	Although Sargon is a developed country with no shortage of modern entertainment in its cities, the Sargonians always seem a bit withdrawn.
+	Spot himself seemingly has no interest in anything other than comics and fashion. Every once in a while, he will ask Orchid to give him a Sargonian hairstyle.
+
+	파일 자료 3 :
+	    사르곤 역시 현대화된 국가이고, 도시 내에는 각종 현대식 오락시설을 갖추고 있으나, 사람들에겐 여전히 무력을 숭상하는 국가란 이미지가 강하다. 스팟처럼 세상만사에 관심이 없고, 만화를 보는 걸 즐기며, 유행에 민감해 주기적으로 오키드 씨에게 털 스타일을 바꿔달라고 요청하는 사르곤 인은 확실히 보기 힘들다.
+
+———————————————————————————————
+
+	档案资料四 :
+	斑点性格的成因大部分来自家庭的冷遇。
+	一个萨尔贡的军人家族，是不允许其后代变得懒散的。不愿服从的他因此逐渐封闭了自己的内心，说话变得具有攻击性，并最终逃离了那个家。
+
+	第四資料 :
+	スポットがこのような性格になったのは、大部分が家庭で冷遇されたことに起因している。
+	サルゴンの軍人家庭は怠け者の跡取りを良しとせず、そのしきたりに従うことを嫌がった彼は徐々に心を閉ざしていった。次第に言葉にも攻撃性を帯びるようになり、最終的にあの家を離れることにした。
+
+	Archive File 4 :
+	Spot's personality is largely the product of a stoic family. 
+	Sargonian military families have no patience for laziness. Unwilling to conform to his family's wishes, he became closed off, aggressive, and eventually ran away from home.
+
+	파일 자료 4 :
+	    스팟의 성격은 주로 냉랭한 가정환경의 영향으로 인해 형성된 것이라 볼 수 있다. 사르곤의 군인 가족들은 자신의 후대가 나태하고 산만한 모습을 보이는 걸 용납하지 않는다. 복종하길 원하지 않았던 스팟은 점차 자신의 마음의 문을 닫아 버렸고, 말투가 공격적으로 변했으며, 결국엔 집을 떠나고 말았다.

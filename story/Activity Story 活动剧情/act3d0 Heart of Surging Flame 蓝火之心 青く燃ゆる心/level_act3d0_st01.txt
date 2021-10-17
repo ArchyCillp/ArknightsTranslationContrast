@@ -115,7 +115,7 @@
 
 [name=""]   10:10 A.M.  天气/晴
 [name=""]   a.m.10:10 天候/晴天
-[name=""]   10:10 AM \ Clear
+[name=""]   10:10 A.M. \ Clear
 [name=""]   10:10 a.m.  날씨 / 맑음
 
 [name=""]   汐斯塔
@@ -225,7 +225,7 @@
 
 [Decision(options="没想到会这么热闹。;竟然会举办这么大型的活动。",values="1;2")]
 [Decision(options="ここまで活気があるとは思ってなかった。;これほど大きなイベントだとは。",values="1;2")]
-[Decision(options="I didn’t expect it to be this lively here.;They’ve been holding one large event after another.",values="1;2")]
+[Decision(options="I didn't expect it to be this lively here.;They've been holding one large event after another.",values="1;2")]
 [Decision(options="이렇게 떠들썩할 줄은 몰랐는데.;이렇게 큰 이벤트가 있을 줄이야.",values="1;2")]
 
 [name="阿米娅"]   我也没有想到！
@@ -260,7 +260,7 @@
 
 [Decision(options="我也不讨厌这样的地方。;真是积极的推荐手法。",values="1;2")]
 [Decision(options="確かに悪くないところだ。;あれほど積極的に勧められるとは。",values="1;2")]
-[Decision(options="I don’t mind a place like this.;Her recommendations are definitely spot on.",values="1;2")]
+[Decision(options="I don't mind a place like this.;Her recommendations are definitely spot on.",values="1;2")]
 [Decision(options="확실히 나쁘진 않네.;그 정도로 적극 추천할 줄은…",values="1;2")]
 
 [name="阿米娅"]   博士能喜欢这里那就最好了。
@@ -310,7 +310,7 @@
 
 [name="阿米娅"]   啊没有没有，我并不是这个意思。我并不是说自己要去加入他们！
 [name="アーミヤ"]   あ…、いえ、違うんです。私も演奏したいなんて、そうじゃないんです！
-[name="Amiya"]   No no, that’s not what I meant. I'm not really going to join them!
+[name="Amiya"]   No no, that's not what I meant. I'm not really going to join them!
 [name="아미야"]   아, 아뇨 아뇨. 그런 뜻이 아니라! 저 사람들이랑 같이 연주하고 싶다는 건 아니고요!
 
 [name="阿米娅"]   可能要完全恢复到之前的水平，我还要重新练一练才行。
@@ -320,7 +320,7 @@
 
 [Decision(options="可是阿米娅现在也不输他们啊。",values="1")]
 [Decision(options="今のアーミヤだって負けてない。",values="1")]
-[Decision(options="But I don’t think those guys are any better than you.",values="1")]
+[Decision(options="But I don't think those guys are any better than you.",values="1")]
 [Decision(options="지금의 아미야도 저 사람들보다 못하지는 않는데.",values="1")]
 
 [name="阿米娅"]   哪，哪里有啊！
@@ -530,7 +530,7 @@
 
 [Decision(options="矿石病如果这么简单就能被预防就好了。;旅游城市总会有增加收入的独特方式。",values="1;2")]
 [Decision(options="鉱石病が本当にそんな簡単に予防できればいいのだが。;市内の観光収入を増やすための施策だろう。",values="1;2")]
-[Decision(options="Wouldn’t it be great if Oripathy could be cured so easily?;Tourist cities always have some way to make a quick buck.",values="1;2")]
+[Decision(options="Wouldn't it be great if Oripathy could be cured so easily?;Tourist cities always have some way to make a quick buck.",values="1;2")]
 [Decision(options="광석병이 그렇게 쉽게 예방될 수 있다면 정말 좋겠다만.;수입을 늘리고자 하는 관광 도시의 전략 아닐까.",values="1;2")]
 
 [name="阿米娅"]   在这样偏远的地方，还是会有这么多对于源石和天灾没有太多认知的人们。
@@ -710,7 +710,7 @@
 
 [Decision(options="去吧，阿米娅。;可不许累着阿米娅。;我来帮忙不行吗？",values="1;2;3")]
 [Decision(options="アーミヤ、手伝ってあげて。;あまりアーミヤを疲れさせるなよ。;自分が手伝おうか？",values="1;2;3")]
-[Decision(options="You should go, Amiya.;Don’t stress her out.;Can’t I also help out?",values="1;2;3")]
+[Decision(options="You should go, Amiya.;Don't stress her out.;Can't I also help out?",values="1;2;3")]
 [Decision(options="다녀와, 아미야.;그러면 아미야가 너무 피곤하잖아…;내가 도우면 안 되나?",values="1;2;3")]
 
 [name="阿米娅"]   嗯......那好吧。
@@ -775,7 +775,7 @@
 
 [Decision(options="阿米娅应该多和同龄人一起玩。;（一个人去沙滩边的露天酒店逛逛吧）;或许我也应该穿得夏天一点？",values="1;2;3")]
 [Decision(options="やはりアーミヤは、極力同年代の子と遊ぶべきだ。;（一人でビーチの屋台バーでも見に行こう。）;自分も夏らしい服装をすべきだろうか？",values="1;2;3")]
-[Decision(options="Amiya should spend more time with her peers.;(Guess I’ll go take a look the beachside open-air hotel by myself.);Maybe I really should change into something a bit more summery…",values="1;2;3")]
+[Decision(options="Amiya should spend more time with her peers.;(Guess I'll go take a look the beachside open-air hotel by myself.);Maybe I really should change into something a bit more summery...",values="1;2;3")]
 [Decision(options="아미야는 역시 같은 나이 또래와 더 많이 놀아야겠지.;(혼자 해변가의 노천 호텔에 가보자.);혹시 나도 여름에 맞는 복장으로 갈아입어야 하나?",values="1;2;3")]
 
 [name="男游客A"]   喂，你听说了吗？第一大道昨天晚上又打起来了。
@@ -840,12 +840,12 @@
 
 [name="？？？"]   ......
 [name="？？？"]   ......
-[name="???"]   …
+[name="???"]   ...
 [name="???"]   ……
 
 [Decision(options="......",values="1")]
 [Decision(options="......",values="1")]
-[Decision(options="…",values="1")]
+[Decision(options="...",values="1")]
 [Decision(options="……",values="1")]
 
 [name="？？？"]   呵呵，看你的打扮，即使是游客也特别了一点呢......
@@ -855,7 +855,7 @@
 
 [Decision(options="......我比较害怕日晒。",values="1")]
 [Decision(options="……太陽が苦手だ。",values="1")]
-[Decision(options="…I’m a bit scared of sun exposure.",values="1")]
+[Decision(options="...I'm a bit scared of sun exposure.",values="1")]
 [Decision(options="……햇빛에 살이 타는 건 별로라서.",values="1")]
 
 [name="？？？"]   既然这样还特地来海边吗，真是怪人啊。
@@ -865,7 +865,7 @@
 
 [Decision(options="......",values="1")]
 [Decision(options="……。",values="1")]
-[Decision(options="…",values="1")]
+[Decision(options="...",values="1")]
 [Decision(options="……",values="1")]
 
 [name="？？？"]   ......呵，我也没什么资格说就是了。
@@ -880,7 +880,7 @@
 
 [Decision(options="（什么这原来不是免费的吗？！）",values="1")]
 [Decision(options="（無料で飲めるものじゃなかったのか！？）",values="1")]
-[Decision(options="(Weren’t the drinks supposed to be free?!)",values="1")]
+[Decision(options="(Weren't the drinks supposed to be free?!)",values="1")]
 [Decision(options="(공짜가 아니었나?!)",values="1")]
 
 [name="？？？"]   怎么样，喜欢这个新兴的城市吗？

@@ -1,11 +1,17 @@
 ID:
 	char_301_cutter
 
-干员代号\Name:
+CV:
 	刻刀
 	カッター
 	Cutter
 	커터
+
+干员代号\Name:
+	矢作纱友里
+	矢作紗友里
+	Sayuri Yahagi
+	야하기 사유리
 
 招聘合同\Character Usage:
 	雇佣兵刻刀，于战场上冷静而富有准则地完成所有任务。
@@ -43,177 +49,404 @@ ID:
 	크림슨 커터
 
 语音\Voices:
-	打扰了，博士，今天是我值班......嗯？哎，我的刀，怎么卡在门框上了......
 	失礼ドクター、邪魔させてもらうね。今日の当番は私で……え？あれ、刀がドアに引っかかった……。
-	Excuse me, Doctor, am I on duty today... Huh? Umm, how’d my blade get stuck in the doorframe...
+	Excuse me, Doctor, am I on duty today... Huh? Umm, how'd my blade get stuck in the doorframe...
 	잠깐 실례, 박사. 들어갈게. 오늘 당번은 나…… 어? 어라, 칼이 문에 걸렸네……
 
-	在我家乡，土壤一天比一天贫瘠，收的那点粮食连自己都喂不饱，大多数人无法谋生，只好做佣兵，只要给钱，什么都做。
 	私の故郷では、土壌は日に日に痩せ細るばかりで、収穫できる食糧は自分たちのお腹だって満たせない。だから大半の人は、生きていくために傭兵になるしかないんだ。そう、金さえ払ってくれればなんでもするような傭兵に。
-	Back home, the soil gets more and more barren each day, and what we harvest isn’t enough to feed ourselves. Most people aren’t able to make a living, so their only option is to become mercenaries. They’ll do anything, as long as it pays.
+	Back home, the soil gets more and more barren each day, and what we harvest isn't enough to feed ourselves. Most people aren't able to make a living, so their only option is to become mercenaries. They'll do anything, as long as it pays.
 	내 고향에서는 땅이 늘 바싹 말라가기만 해서, 수확할 수 있는 식량으로는 자기들 배도 채울 수 없었어. 그래서 대부분의 사람들은 살아가기 위해 용병이 되는 수밖에 없었어. 그래, 돈만 주면 뭐든지 하는 용병 말이야.
 
-	呃，他们说我的刀太危险，禁止我再进厨房。我只是想帮忙，可是，那个砧板，我的刀稍微一碰就裂开了......唉，那个，要赔偿吗？
 	うーん、私の刀が危険だから二度とキッチンに入らないようにって皆に言われた。手伝おうと思っただけなのに、刀がまな板にちょっと触れた途端真っ二つになってしまって……あれって、やっぱり弁償しないとだめ？
 	Uhh, they said my blade was too dangerous and forbade me from going back into the kitchen. I just wanted to help, but, as soon as I tapped that cutting board with my blade, it split wide open... Well, um, should I pay for it?
 	으음… 내 칼이 위험하니까 두 번 다시 주방에 들어가지 말라는 말을 모두한테서 들었어. 도와주려고 한 것뿐인데 칼이 도마에 살짝 닿은 순간 두 쪽이 나버려서…… 그건, 역시 물어줘야겠지?
 
-	每次晒着太阳，都会忍不住犯困。你放心，在确认安全之前，我不会真的...睡着......的.........ZZZzzzzz............
 	日向ぼっこをしてると、つい眠くなってしまうんだ。でも安心して、安全な状況であることを確認できるまではちゃんと起きてる…から……Zzz……。
-	Every time I bask in the sun, I can’t help but to get a bit sleepy. But don’t worry, before I’ve confirmed that it’s completely safe, I won’t actually fall... asleep... ZZZzzzzz...
+	Every time I bask in the sun, I can't help but to get a bit sleepy. But don't worry, before I've confirmed that it's completely safe, I won't actually fall... asleep... ZZZzzzzz...
 	햇볕을 쬐고 있으면 나도 모르게 잠이 와. 하지만 안심해. 안전한 상황인 게 확인될 때까지는 제대로 깨어 있으니… 까… 흠냐……
 
-	在工作上，我有自己的原则，我不伤害无辜，也不让无关的人承受损失。......说实话，这好难。
 	仕事に関しては私なりのルールがある。罪のない人は傷つけないし、無関係の人に損失は与えない。……正直、守り通すのは結構難しいんだけど。
-	In my line of work, I have a set of principles that I follow: I don’t harm the innocent, and I don’t get bystanders involved... To be honest, it’s really hard.
+	In my line of work, I have a set of principles that I follow: I don't harm the innocent, and I don't get bystanders involved... To be honest, it's really hard.
 	일에 관해서는 내 나름의 룰이 있어. 죄가 없는 사람은 다치게 하지 않고, 상관 없는 사람에게 손실을 주지 않는다…… 솔직히 지켜내는 건 꽤 어렵지만 말이야.
 
-	这个项链，借你用，要收好，这是守护符。不行，刀不能给你，我不在的时候，就用这个将就一下吧。
 	このネックレスを預けておくから、ちゃんと身につけておいて。お守り。いや、刀はダメ。私のいない時は、これで我慢して。
-	This necklace, I’m lending it to you, it’s a protective charm. No, I can’t give you my blade. When I’m not here, just use this.
+	This necklace, I'm lending it to you, it's a protective charm. No, I can't give you my blade. When I'm not here, just use this.
 	이 목걸이를 맡겨둘 테니까, 꼭 몸에 하고 있어. 부적이야. 아니, 칼은 안돼. 내가 없을 때는 이걸로 참아.
 
-	博士，你看着我的眼睛别动，哎，你别动......嗯，嗯嗯，放心了，你不是那种任用他人行恶的人，我看得出来。
 	ドクター、私の目を見てじっとしてて。ほら、動かないで……うん、大丈夫みたいね。あんたは他人を利用して悪事を働くような人じゃないって、私にはわかるよ。
-	Doctor, I need you to look at me, and don’t move. Hey, I said not to move... Hm, hmm... Don’t worry, you’re not the kind of person who would use others to commit evil. I can tell.
+	Doctor, I need you to look at me, and don't move. Hey, I said not to move... Hm, hmm... Don't worry, you're not the kind of person who would use others to commit evil. I can tell.
 	박사, 내 눈을 보고 가만히 있어 봐. 자, 움직이지 말고…… 응, 괜찮은 것 같네. 넌 다른 사람을 이용해 나쁜 짓을 하는 사람이 아니라는 걸, 나는 알아.
 
-	小时候的事，其实我不太记得了，是老师抚养我长大，还教我如何用刀。老师告诉我，我父母无辜被牵连，死在一场争斗中，他捡到我时我就抱着这把刀，就算被割伤也不松开。
 	子供の頃のことは正直よく覚えてない。お師匠に育ててもらって、刀の扱い方なんかも教わった。お師匠の話だと、私の両親は何の罪もないのに争いに巻き込まれて、それで殺されたらしい。お師匠に見つけられた時、私はこの刀をずっと抱えていて、斬られて怪我をしても手放さなかったらしい。
-	To be honest, I don’t really remember much from when I was little. My teacher raised me and taught me how to use a knife. He also told me that my parents got caught up in a fight and died because of it. When he found me, I was holding onto a knife and wouldn’t let go even if it was cutting into me.
+	To be honest, I don't really remember much from when I was little. My teacher raised me and taught me how to use a knife. He also told me that my parents got caught up in a fight and died because of it. When he found me, I was holding onto a knife and wouldn't let go even if it was cutting into me.
 	어렸을 때의 일은 솔직히 잘 기억나지 않아. 스승님이 키워주시고, 검을 다루는 법도 배웠어. 스승님 말로는 내 부모님은 아무 죄도 없는데 싸움에 휘말려서… 살해당했다고 해. 스승님이 발견했을 때 난 이 칼을 계속 안고 있었고, 베어서 다쳤는데도 손에서 놓지 않았대.
 
-	持刀的人总会追寻一场对决，而夺人性命的人，最终也将成为他人手中亡魂。或许有一天，我也会迎来这样的结局......到时候，希望你能见证。
 	刀使いは常に死闘を求める。そして命を奪う側に立つ者も、最後は他人の手によって命を落とすことになる。もしかして私にもそんな結末を迎える日が……その時は、ドクターに見守っていてほしいな。
-	Those who wield the blade will always pursue the duel, and those who kill will eventually become a notch on the blade of another. Perhaps one day, I will also find such an ending... and when that happens, I hope you’ll be there to witness it.
+	Those who wield the blade will always pursue the duel, and those who kill will eventually become a notch on the blade of another. Perhaps one day, I will also find such an ending... and when that happens, I hope you'll be there to witness it.
 	칼을 다루는 사람들은 언제나 사투를 원하지. 그리고 목숨을 빼앗는 쪽에 서는 자도, 마지막에는 다른 사람의 손에 의해 목숨을 잃게 돼. 혹시 내게도 그런 결말을 맞이하는 날이…… 그때는 박사가 지켜봐 줬으면 좋겠어.
 
-	有我守着，安心睡吧。
 	私が見張ってるから、安心して眠って。
-	I’m standing guard, so you can rest easy.
+	I'm standing guard, so you can rest easy.
 	내가 보고 있을 테니까 안심하고 자.
 
-	刻刀，只是个普通的雇佣兵。我得了矿石病，所以打算用我的能力换取治疗机会，这把刀应该还能派上些用场......嗯，就是这样。
 	私はカッター、ただの傭兵だ。鉱石病を患ったので、ここで働く代わりに治療をお願いしたい。この刀はきっと役に立つ場面があるはず……というわけで、よろしくね。
-	Cutter. Just an ordinary mercenary. I have Oripathy, so I plan to trade my abilities for some treatment. Hope this blade’s good enough to get things done for you... Mm, that’s about it.
+	Cutter. Just an ordinary mercenary. I have Oripathy, so I plan to trade my abilities for some treatment. Hope this blade's good enough to get things done for you... Mm, that's about it.
 	나는 커터. 그냥 용병이야. 광석병에 걸려서 여기서 일하는 대신 치료를 부탁하고 싶어. 이 칼은 분명 도움이 될 때가 있을 거야…… 그러니까, 잘 부탁해.
 
-	好厉害！原来还有这种用刀的方法！
 	なんと！刀にそのような使い方があったなんて！
-	Amazing! Didn’t know you could use a blade like that!
+	Amazing! Didn't know you could use a blade like that!
 	이럴 수가! 칼에 저런 사용법이 있었다니!
 
-	除了刀，自由就是我唯一的宝物，如果你愿意保障它，我就都听你的。
 	刀以外に、大切にしているのは自由だけ。それさえ保証してくれれば、なんでも従うよ。
-	Other than this blade, freedom’s the only treasure I have. If you’re willing to protect that, then I’ll listen to you.
+	Other than this blade, freedom's the only treasure I have. If you're willing to protect that, then I'll listen to you.
 	칼 빼고 중요하게 여기는 건 자유뿐이야. 그것만 보증해 준다면 뭐든 따를게.
 
-	佣兵的刀，不是那种没见过血，服服帖帖的小玩具。或许也会有一天，我将无法再控制我的刀。不过，不用担心，至少现在......它会为你所用。
 	傭兵の刀は、そのへんにある血を浴びたこともない飾り物のオモチャじゃない。いつか私は自分の刀をコントロールできなくなるかもしれない。けど心配しないで、少なくとも今は……あんたのために刀を振るうから。
-	A mercenary’s blade isn’t some toy that’s never tasted blood before. Maybe one day, I’ll no longer be able to control it. But don’t worry, at least for now... it’ll work for you.
+	A mercenary's blade isn't some toy that's never tasted blood before. Maybe one day, I'll no longer be able to control it. But don't worry, at least for now... it'll work for you.
 	용병의 검은 흔히 있는 피를 뒤집어쓴 적도 없는 장식용 장난감이 아니야. 언젠가 나는 내 칼을 제어할 수 없게 될지도 몰라. 그래도 걱정하진 마, 적어도 지금은…… 당신을 위해 칼을 휘두를 테니까.
 
-	了解。刻刀入队了。
 	了解。カッター、入隊する。
 	Got it. Joining the team.
 	알았다. 커터, 팀에 합류한다.
 
-	明白，我可以挑选自己的队员吗？
 	わかった。隊員は自分で選んでもいい？
 	Understood. Can I select my own teammates then?
 	알았어. 팀원은 내가 골라도 돼?
 
-	准备好，注意不要波及无辜人员。
 	罪なき人を巻き込まないように、十分に準備して。
 	Prepare yourself, and make sure not to get any innocents involved.
 	죄 없는 사람들을 끌어들이지 않도록, 충분히 준비해.
 
-	刀子，擦亮了吗？
 	武器は磨いてある？
 	Hey, blade, you sharp enough?
 	무기는 손질했어?
 
-	明白了。
 	わかった。
 	Got it.
 	알았어.
 
-	我可以等待。
 	いくらでも待つよ。
 	I can wait.
 	얼마든지 기다릴게.
 
-	战场就是坟场。
 	戦場は墓場よ。
 	The battlefield is the cemetery.
 	전장은 무덤이야.
 
-	我要做的只是挥刀而已。
 	私の役目は刀を振るうことだけ。
 	Wielding a blade is all I need to do.
 	내 역할은 칼을 휘두르는 것뿐.
 
-	别出声。
 	声を出すな。
 	Quiet.
 	목소리 내지 마.
 
-	别回头。
 	振り返るな。
-	Don’t look back.
+	Don't look back.
 	뒤돌아보지 마.
 
-	直视我。
 	私の目を見て。
 	Look me in the eye.
 	내 눈을 봐.
 
-	你慢了。
 	出遅れたね。
-	You’re too slow.
+	You're too slow.
 	늦었구나.
 
-	或许总有一天，会出现我的刀斩不断的东西。但，看来不是现在，不是你们。
 	もしかすると、いつか私の刀でも切れないものが現れる日が来るかもしれない。でもそれは今じゃないし、あんたたちでもないみたいだね。
-	Maybe one day, there’ll be something that my blade can’t cut. But that day isn’t today, and it certainly isn’t you.
+	Maybe one day, there'll be something that my blade can't cut. But that day isn't today, and it certainly isn't you.
 	어쩌면 언젠가 내 칼로도 벨 수 없는 것이 나타나는 날이 올지도 몰라. 하지만 그건 지금이 아니고, 너희한테도 없는 모양이네.
 
-	呼......按照合同完成了，需要清点一下吗？
 	ふぅ……契約通り、任務は完遂した。確認する？
 	Phew... Everything done, just as specified in the contract. Need to take a look?
 	후우…… 계약대로, 임무는 완수했어. 확인할래?
 
-	失去战意的人，不该是我的攻击目标。
 	戦意をなくした者は、私の標的にはならない。
-	Those who’ve lost the will to fight should not be my targets.
+	Those who've lost the will to fight should not be my targets.
 	전의를 잃은 자는 내 표적이 되지 않아.
 
-	走，博士，尽可能地走远！这里......还有我。
 	行って、ドクター。できるだけ遠くまで。ここは私が……なんとかするから。
-	Go, Doctor, go as far as you can! I’ll... hold them back.
+	Go, Doctor, go as far as you can! I'll... hold them back.
 	가, 박사! 가능한 한 멀리. 여기는 내가…… 어떻게든 할 테니까.
 
-	可以晒到太阳，嗯，暖暖的......
 	ここでも日に当たれるんだね。あったかくて気持ちいい……。
 	Finally, some sunlight... Ahh, so warm...
 	여기서도 햇볕을 쬘 수 있구나. 따뜻해서 기분 좋아……
 
-	唔，别拉耳朵。
 	うっ、耳を引っ張らないで。
-	Uhh, don’t pull on my ears.
+	Uhh, don't pull on my ears.
 	윽, 귀 잡아당기지 마.
 
-	要一起晒太阳吗？
 	一緒に日向ぼっこする？
 	Wanna go sunbathing together?
 	같이 햇볕 쬘래?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	啊，博士你来了。今天有哪些工作？
 	あ、来たねドクター。今日の仕事の依頼は？
-	Oh, Doctor, you’re here. Got any work today?
+	Oh, Doctor, you're here. Got any work today?
 	아, 왔구나, 박사. 오늘 일의 의뢰는?
+
+干员档案\Background:
+	基础档案 :
+	【代号】刻刀
+	【性别】女
+	【战斗经验】三年
+	【出身地】哥伦比亚
+	【生日】5月2日
+	【种族】沃尔珀
+	【身高】155cm
+	【矿石病感染情况】
+	源石结晶分布于体内，且参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】カッター
+	【性別】女
+	【戦闘経験】三年
+	【出身地】クルビア
+	【誕生日】5月2日
+	【種族】ヴァルポ
+	【身長】155cm
+	【鉱石病感染状況】
+	体内に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Cutter
+	[Gender] Female
+	[Combat Experience] 3 Years
+	[Place of Birth] Columbia
+	[Date of Birth] May 2
+	[Race] Vulpo
+	[Height] 155cm
+	[Infection Status] 
+	Originium crystals are distributed inside the body, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 커터
+	[성별] 여
+	[전투 경험] 3년
+	[출신지] 컬럼비아
+	[생일] 5월 2일
+	[종족] 불포
+	[신장] 155cm
+	[광석병 감염 상황]
+	오리지늄 결정이 체내에 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Normal
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	刻刀，长期活动于哥伦比亚控制力末梢地区的雇佣兵，本人为治疗矿石病而前来求医，在数次行动中表现出了优秀的近距离作战能力。
+	现于罗德岛某近卫小队任职，并多次参与要员护送等工作。
+
+	個人履歴 :
+	クルビアの支配力が弱まっている地域で、長い間活動してきた傭兵。鉱石病の治療を求めロドスにやって来た後、いくつかの作戦行動で優れた近接戦闘能力を見せた。
+	現在はロドスの某前衛作戦チームに所属しており、要員の護衛などの任務に何度も参加している。
+
+	Profile :
+	Cutter, a mercenary who has long been active in the fringes of Columbia's controlled territories, has come seeking medical treatment. She has shown excellent close-quarters combat capabilities across several operations. 
+	She currently serves in one of Rhodes Island's Guard squads, having participated in many VIP escort jobs among others.
+
+	프로필 :
+	    커터는 컬럼비아의 힘이 닿는 지역 중 가장 끄트머리에서 장기간 활동한 용병이다. 광석병 치료를 위해 스스로 찾아왔으며, 수차례의 작전을 통해 우수한 근거리 작전 능력을 보여주었다. 현재 로도스 아일랜드의 어느 가드 팀에 소속되어 있으며, 지금까지 주요 인물 호송을 비롯한 다수의 작전에 참가해왔다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】4%
+	患者刻刀病情较为稳定。
+	
+	【血液源石结晶密度】0.23/L
+	患者刻刀内循环结晶水平处于平稳状态。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】4%
+	病状は安定している。
+	
+	【血液中源石密度】0.23u/L
+	循環器系での結晶濃度は安定している。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 4%
+	Cutter's condition is currently stable. 
+	
+	[Blood Originium-Crystal Density] 0.23u/L
+	Cutter's bloodstream crystal circulation level is stable.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 4%
+	환자 커터의 병세는 비교적 안정된 상태다.
+	[혈중 오리지늄 결정 밀도] 0.23u/L
+	환자 커터의 혈중 오리지늄 결정 상태는 비교적 안정되어 있다.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员刻刀出身于哥伦比亚西南方某乡镇地区。据调查，受天灾影响，当地土地贫瘠少产，许多当地人无以为生，只能提供劳力受雇佣做事，只要有足够的报酬，这些人几乎什么生意都可以做。又因该地区地处偏僻，哥伦比亚当局对其的掌控力较为薄弱，致使该地区长期缺乏妥善的治安管理，最终成为哥伦比亚出名的混乱地带。
+	在这样的环境下长大的干员刻刀，虽然也同其他同行一样，选择收钱办事来养活自己，但与此同时，她为自己定立了一些必须遵守的规则，用以约束自己的行为。
+
+	第一資料 :
+	カッターはクルビア南西部のとある田舎町の生まれである。天災の影響で収穫高が低く、住民は生計を立てるために労働力を提供するしかなかった。しかし彼らが報酬と引き換えにどんな仕事も引き受けたことと、辺ぴな地方ゆえクルビア当局の支配力が比較的弱かったことにより、長期に渡って治安が悪く、町はクルビアでも有名な無法地帯に成り果てた。
+	このような環境で育ったカッターは、他の者と同じように、金を貰えばどんな仕事でも引き受けていたが、彼女なりのルールを決めており、自身の行動の信条としていた。
+
+	Archive File 1 :
+	Operator Cutter comes from a rural area in southwestern Columbia. According to our investigation, this area was often affected by Catastrophes, rendering the land barren and unproductive. Unable to make a living or work the land, many locals have no choice but to provide their labor to prospective employers, and with high enough compensation, are willing to do almost anything. The tenuous grasp of Columbian authorities over this remote region has led to a chronic lack of proper policing, resulting in this area gaining notoriety as a chaotic and lawless land. 
+	Cutter, who grew up under such an environment, chose to stake out her own lot in life to support herself like so many of her peers; but unlike many, she also established a set of rules to abide by, dictating what she would and would not do.
+
+	파일 자료 1 :
+	    오퍼레이터 커터는 컬럼비아 남서쪽에 있는 어느 소도시 출신이다. 조사에 따르면 해당 지역은 재앙의 영향으로 땅이 척박하여, 많은 현지인들이 몸쓰는 일로 생계를 유지해오고 있었고, 충분한 보수만 제공된다면 어떠한 일이라도 했다. 또한 변방에 위치한 탓에 컬럼비아 당국의 통제력이 비교적 약해 장기간 제대로 된 치안 관리가 이루어지지 못했고, 결국 컬럼비아에서 유명한 무법지대가 되고 말았다.
+	    이런 환경에서 자라난 오퍼레이터 커터 역시 다른 사람들과 마찬가지로 의뢰비에 의지해 살아왔지만, 동시에 그녀는 스스로 반드시 지켜야 할 원칙을 세워 자신을 통제하였다.
+
+———————————————————————————————
+
+	档案资料二 :
+	在日常生活中，这位来自混乱地带的雇佣兵表现得相当淡然平和，甚至偶尔还会稍显迷糊，这一点特性在她晒足了太阳之后尤其明显，同她在战场上挥刀时的状态截然不同。
+	除此之外，值得一提的还有干员刻刀对烹饪有一种莫名的喜爱，但她的动手成果往往不尽人意。
+	在经历一不小心切碎砧板，炖煮不明料理导致空气监控警报器启动，使用加热机械引发小范围爆炸等一系列意外事件之后，干员刻刀被经常出入厨房的干员们联名抵制，并被列入禁止出入厨房名单中。
+	尽管情绪低落的干员刻刀令人同情，这项禁令还是获得了众口一致的支持与好评。
+
+	第二資料 :
+	カッターは無法地帯から来た傭兵にしては穏やかだ。そして時にいささか間抜けでもある。特に日向ぼっこした後の彼女は、戦場で剣を振るう時とは全くの別人だ。
+	また彼女は、料理に対し並々ならぬ熱情を注いでいる。だがその腕前はお世辞にも良いとは言えない。
+	うっかりまな板をぶった切ったり、よくわからない料理を煮込み空気観測警報器を作動させたり、加熱装置による小規模な爆発を引き起こしたり……そんな一連の事故を起こした彼女は、キッチンを頻繁に利用するオペレーターたちにより、キッチン立ち入り禁止人物の一人とされた。
+	その件で落ち込んだ彼女には同情すべきところもあるが、禁止令は満場一致の支持と好評を博した。
+
+	Archive File 2 :
+	On a normal day, this mercenary from a chaotic land is quite at ease and can even be described as being in a daze. This characteristic is particularly evident after she has spent some time basking in the sun, a state that couldn't be more different from when she wields her blade on the battlefield.  
+	In addition, it's worth mentioning that Cutter also has a baffling fondness for cooking, given that her results are often far from satisfactory. 
+	After a string of incidents such as accidentally eviscerating a cutting board, causing the fire alarm to go off after stewing unknown substances, and causing the toaster to explode, the Operators who frequently utilize the kitchen petitioned to restrict her access to the facility, resulting in her being banned. 
+	Even those most empathetic to the dejected Cutter still unanimously praised the ban.
+
+	파일 자료 2 :
+	    이 무법지대에서 온 용병은 일상 속에서 매우 담담하고 평온한 모습을 유지하고 있다, 어떻게 보면 조금 멍해 보일 정도로 말이다. 이런 특징은 커터가 태양빛을 충분히 쬐고 난 뒤에 더욱 두드러지는데, 그 모습은 그녀가 전장에서 칼을 휘두를 때와는 전혀 다르다.
+	    그리고 오퍼레이터 커터는 요리에 대해 왠지 모를 애착을 갖고 있지만, 직접 요리한 결과물은 그다지 만족스럽지 못했을 뿐만 아니라, 실수로 도마를 토막 내 버리거나, 정체불명의 물체를 삶다가 화재 센서를 작동시키고, 스토브 사용 중 소규모 폭발을 일으키는 등의 일련의 사고가 발생하였다. 결국 자주 주방을 사용하는 오퍼레이터들에 의해 오퍼레이터 커터의 주방 출입이 제지당하고, 결국에는 주방 출입 금지 리스트에 오르고 말았다.
+	    시무룩한 오퍼레이터 커터의 모습은 뭇사람들의 동정을 불러일으켰지만, 그럼에도 그녀에 대한 주방 출입 금지 명령은 모두들의 한결같은 지지와 호평을 받았다.
+
+———————————————————————————————
+
+	档案资料三 :
+	经调查得知，干员刻刀为自己定下的规则如下：
+	1.绝不杀害无辜者。
+	2.贩卖人口与诈骗不做。
+	3.任务中若使无关之人蒙受财物损失，事后须照价赔偿。
+	
+	这些约束使她的收入往往不及一些身手远不如她的人，更使她的生活总是略显拮据，即便如此，干员刻刀也并未放弃或妥协。可以猜测，在混乱地带长大的她会有这样的行事风格，或许同她言谈中提及的老师有所关联。
+	据干员刻刀本人透露，她的老师是一位巡游四方的刀客，对方不仅将父母死于街头械斗的她抚养长大，更教导了她用刀的技巧。在这位老师的影响下，干员刻刀并未如她众多同乡一般陷入混乱争斗，而是成为了现在这样一名保有原则的雇佣兵。
+	在确认刻刀的本领足以养活自身后，她的老师悄然离开，只留下了那枚现在正挂在她脖颈上的挂坠，被刻刀视作护身符细心收藏。
+
+	第三資料 :
+	調査によると、カッターが自身に与えた信条は以下の通りである。
+	1.罪のない者に手を出さない。
+	2.人身売買や詐欺には関与しない。
+	3.任務において無関係の者に損害を与えた場合、その分の賠償をする。
+	
+	これらの制約を前提としたカッターの収入は、時には彼女に劣る腕前の者にすら及ばないことがある。それでも、元より窮屈な生活を強いられていた彼女は、自らの信条を曲げることはなかった。無法地帯で育った彼女がそのような人格者になったのは、本人の話によく出てくる「師匠」と関連している。
+	カッター曰く、放浪剣士であった師匠は、街頭の争いで両親を失った彼女を育て、刀の使い方を教てくれたという。その師匠の影響を受けた彼女は、争いの混乱にとらわれることなく、自身なりの信条を持つ一人前の傭兵になった。
+	師匠は、カッターが自身を養えるほどの腕前になると、ペンダントだけを残してひっそり彼女の元を去った。カッターは今もそのペンダントを首にかけており、お守りとして大切にしている。
+
+	Archive File 3 :
+	Through our investigation, we've determined the following to be Operator Cutter's personal code of conduct: 
+	1. Never kill innocents. 
+	2. Never participate in fraud or the trafficking of persons. 
+	3. If a bystander suffers losses to property during the task, then appropriate compensation must be paid afterwards. 
+	
+	As a result of these constraints, Cutter makes a lot less money than those who are far less skilled than she is, and this has complicated her living situation. Despite that, she never compromised or abandoned her code. One might surmise that this was a product of her chaotic environment, or perhaps due to a certain teacher she references in conversation. 
+	According to Cutter, her teacher was a wandering swordsman who traveled the world. This teacher not only raised her after her parents died fighting on the streets, but also taught her how to wield a blade. Under this person's tutelage, Cutter did not get swallowed by the lawlessness and wanton violence that claimed so many of her fellow villagers; instead, she became the principled mercenary that she is today. 
+	Cutter's teacher quietly left after confirming that she could be self-sufficient, only leaving behind the pendant that now hangs around her neck - a carved protective charm that she cherishes immensely.
+
+	파일 자료 3 :
+	    조사를 통해 알게 된 오퍼레이터 커터가 스스로 세운 원칙은 다음과 같다.
+	    1. 무고한 자는 절대 해치지 않는다.
+	    2. 인신매매와 사기를 치지 않는다.
+	    3. 작전 중 무고한 사람이 금전적 피해를 받았다면, 작전이 끝난 후 반드시 제대로 배상해 준다.
+	
+	    이러한 원칙 탓에 그녀의 수입은 종종 그녀보다 몇 수 아래의 용병들보다도 낮았고, 이로 인해 그녀는 늘 빈곤한 상태였다. 그럼에도 불구하고 오퍼레이터 커터는 이 원칙을 포기하거나 스스로와 타협하지 않았다. 추측건대, 무법 지대에서 자란 그녀가 이런 업무 스타일을 갖게 된 것은, 아마 대화 도중 그녀가 언급한 '선생님'이란 인물과 연관이 있을지도 모른다.
+	    오퍼레이터 커터 본인이 밝히길, 각지를 돌아다니는 검사였던 '선생님'은 길거리 싸움으로 부모를 잃은 그녀를 길러주었을 뿐만 아니라, 그녀에게 검술까지 알려줬다고 한다. 이런 '선생님'의 영향으로 오퍼레이터 커터는 다른 평범한 고향 사람들처럼 마구잡이로 싸우는 길을 택하지 않고, 지금처럼 자신만의 원칙을 지키는 용병이 될 수 있었던 것이리라.
+	    이후 커터가 자립할 수 있을 정도로 성장한 것을 확인한 '선생님'은 지금 그녀가 목에 걸고 있는 펜던트만을 남긴 채 조용히 떠났다고 한다. 커터는 지금도 이 펜던트를 부적으로 삼고 소중히 간직하고 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	经调查，致干员刻刀父母身亡的械斗事件，起因为当地某帮派经手的违法买卖遭人撞破，利益受损后当街对破局人实施报复，众多无辜居民被卷入其中，多人因此丧命，其中就包括刻刀的父母。
+	而事情的结局据相关目击者指认，当时被帮派暴徒围攻的，似乎并非本地人，而是一张生面孔。
+	
+	以上记录或许需酌情选择是否向干员刻刀公开。
+
+	第四資料 :
+	【権限記録】
+	調査によるとカッターの両親は、地元マフィアの違法売買に関わる争いで亡くなっている。取引を邪魔されたマフィアが、街中でその邪魔をした人物に報復する際、カッターの両親を含む多くの無関係の住民を巻き込んだのである。
+	目撃証言では、事件の最後にマフィアに包囲されたのは地元の人ではなく、見知らぬ顔であったという。
+	
+	上記の記録を彼女に開示するかどうか、判断する必要がある。
+
+	Archive File 4 :
+	[Classified Log] 
+	After investigation, we found that the armed clash that took the lives of Cutter's parents was caused by the interruption of a local gang's illegal transactions. This damage to their interests triggered immediate retaliation against the interrupting party, dragging in many uninvolved residents. Many people were killed as a result, including Cutter's parents. 
+	Later eyewitness accounts from those who were present at the time testified that the actual instigators of the gang violence were not locals, but rather people they had never seen before. 
+	
+	Please exercise discretion in deciding whether or not to disclose the above records to Cutter.
+
+	파일 자료 4 :
+	[제한된 기록]
+	    조사 결과 오퍼레이터 커터의 부모님의 목숨을 앗아간 그 흉기 난동 사건의 발발 원인은 어느 지역 조직폭력배들이 자신들의 불법 비즈니스 사실을 폭로해 막대한 손해를 입힌 어떤 자에게 보복하기 위해 벌인 짓으로 드러났다. 그리고 이 사건에 수없이 많은 무고한 시민들이 말려들어 목숨을 잃었고, 커터의 부모님도 그들 중 하나였다.
+	    그러나 목격자들 진술에 의하면, 당시 조직 폭력배에게 둘러싸여 공격 받던 이들은 현지인이 아닌 처음보는 사람들이었다고 한다.
+	
+	    해당 기록은 상황을 감안하여 오퍼레이터 커터에게 공개 여부를 결정해야 할 것이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	哥伦比亚人不重视因果报偿，但是他们至少也清楚，不论做什么，最后总要支付代价。
+
+	昇進記録 :
+	クルビア人は「因果応報」を重んじるタイプではない。しかし、何をしても結局、それと同等の代価を払わなければならないということは、皆はっきり理解している。
+
+	Promotion Record :
+	Columbians do not value the idea of karma, but they do understand that no matter what they do, there will be consequences.
+
+	승진 기록 :
+	    컬럼비아인들은 인과와 보상을 중요하게 여기진 않으나, 적어도 어떤 일이든 간에 마지막에는 그 대가를 지불해야 한다는 점은 확실히 이해하고 있다.

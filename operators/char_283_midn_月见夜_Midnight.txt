@@ -1,11 +1,17 @@
 ID:
 	char_283_midn
 
-干员代号\Name:
+CV:
 	月见夜
 	ミッドナイト
 	Midnight
 	미드나이트
+
+干员代号\Name:
+	佐藤拓也
+	佐藤拓也
+	Takuya Satō
+	사토 타쿠야
 
 招聘合同\Character Usage:
 	罗德岛近卫干员月见夜，将凭自己的剑术，对抗罗德岛的敌人。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	很意外，他的战斗技巧，真的挺不错。
 	意外だが、彼の戦闘の腕は割と悪くない。
-	Surprisingly, he’s quite skilled at fighting. Impressive.
+	Surprisingly, he's quite skilled at fighting. Impressive.
 	겉보기와는 달리 의외로 전투 스킬이 정말 괜찮다, 정말로.
 
 信物\Potential Item:
@@ -38,157 +44,338 @@ ID:
 	무기 인챈트α
 
 语音\Voices:
-	感谢您的指名。今晚，有什么想对我说的吗？
 	ご指名感謝します。今宵も心の声を俺に聞かせてください。
 	Thank you for choosing me. Anything you'd like to say to me tonight?
 	지명해주셔서 감사합니다. 오늘 밤도 마음의 소리를 제게 들려주세요.
 
-	东夜魔王？您知道了啊...不过对我来说，以前的辉煌都算不了什么，毕竟，我的未来只会更加的耀眼。
 	東夜の魔王？ああ、聞いてたのか、その通り名……。まぁ、今の俺にとって過去の栄光は所詮過去のもの。それよりも、更に輝かしい未来が俺を待っているのさ。
-	The Demon King of Higashi? Ahh, so you’ve heard about that… Well, the remnants of the past mean nothing to me. After all, an even more glorious future waits for me ahead.
+	The Demon King of Higashi? Ahh, so you've heard about that... Well, the remnants of the past mean nothing to me. After all, an even more glorious future waits for me ahead.
 	동야의 마왕? 아아, 들었나 보군, 그 별명… 뭐, 지금의 내게 있어, 과거의 영광은 그저 과거의 것이지. 그것보다, 더 빛나는 미래가 나를 기다리고 있다고.
 
-	虽然工作的地点变了，但我要给各位带来笑容的职责却没有变过。
 	職場が変わっても、俺の使命が変わることはないさ。そう、みんなを笑顔にするという使命はね。
 	I may work in a different place now, but my job is still the same—to put a smile on everyone's face!
 	직장이 바뀌어도, 나의 사명은 변하지 않아. 그래, 모두를 미소 짓게 만든다는 사명 말이지.
 
-	梓兰小姐的幸福初始计量表一定是负数吧，不然怎么可能见到我都板着个脸啊？说来，您要是知道点她的什么事记得给我讲讲。
 	オーキッドさんの幸せメーターは初めからマイナスなんだろうな。そうじゃないと、俺の顔を見るなり不貞腐れた顔をする説明がつかないだろう？ああ、それより、あの人のことについて何か知っていれば、俺にも教えてくれないか。
 	I bet Ms. Orchid must have been born with a negative number on her happiness scale. Why else would she always look so stern, right? If you know anything about her, please tell me!
 	오키드 씨의 행복 파라메터는 처음부터 마이너스겠지. 안 그러면 내 얼굴을 보자마자 심통 난 얼굴을 한 게 설명이 안 되잖아? 아아, 그것보다, 그 사람에 대해 뭔가 알고 있다면, 나한테도 알려주지 않겠어?
 
-	我可是很强的，剑术这项优雅的运动，既能维持身材又能提升气质，有什么理由不勤加练习呢？喂，再强的人不努力也会变弱的！先搞清楚这点啊！
 	俺の実力？結構強い方だと思うよ。ああ、俺は剣術をやってるからね。心の鍛錬にも役立つってわけ。やらない理由はないだろう？それに、いくら強くても努力し続けなけりゃ弱くなっていくだけ。それを忘れちゃいけないね。
 	I'm really skilled, you know! My swordsmanship training helps me maintain my figure and cultivate my elegance, which is why I practice with dedication every day. After all, even the powerful can weaken without constant training! That's a point worth remembering!
 	내 실력? 꽤 강한 편이라고 생각해. 그래, 난 검술을 하고 있으니까. 심적인 단련에도 도움이 되거든, 안 할 이유가 없잖아? 게다가, 아무리 강하다 해도 계속 노력하지 않으면 약해질 뿐이야. 그걸 잊으면 안 되지.
 
-	人们说我以前的行当是把感情当做商品贩卖，“幸福”只是叫卖的吆喝。真是愚钝，若不付出真心，又怎么能看见客人的真心？
 	前の仕事をしてた時は、「幸せにするなんてただの謳い文句で、結局は感情を売り物にしてるだけだろ」なんてことを言うやつが結構いてね。でも俺はあの仕事に真摯に向き合ってた。こっちも誠意を持って本気でやらないと、お客さんの心は見えてこないんだ。
 	People used to say that I sold feelings as commodities, that I treated 'happiness' as a product. Fools, all of them. Only by showing everyone my heart, can I get my customers to show me theirs!
 	전 직장에서 일할 땐, "행복하다는 건 그저 표어 같은 거고, 결국엔 감정을 팔고 있는 거잖아" 라고 하는 말하는 녀석들이 꽤 있었거든. 그래도 난 그 일을 진지하게 했었어. 이 일도 성의를 담아서 진심으로 하지 않으면, 손님의 마음이 보이지 않거든.
 
-	我认为幸福是相互影响的，是一种真实存在的气场。我以得见大家真心而收获幸福，大家就一定能因我的幸福而幸福。
 	幸せはお互いに影響し合う一種のオーラみたいなものだと思ってる。みんなに本心を打ち明けてもらえるようになれれば俺は幸せになれるし、俺が幸せでいればみんなも幸せになってくれるはずだ。
 	I believe happiness is an infectious thing, a tangible atmosphere that truly exists. I reap happiness when others show me their hearts, and the others gain happiness from MY happiness.
 	행복은 서로에게 영향을 주는 일종의 아우라 같은 거라 생각해. 모두가 본심을 털어놓고 얘기해줄 수 있게 되면 난 행복해지고, 내가 행복해지면 모두도 행복해질 테니.
 
-	现在我在A6小组的同事......他们的性格古怪，心地却无比善良。这是命运的馈赠，提醒我要珍惜真正重要的人。
 	うちのメンバーたちは……性格はちょっとアレだけど、みんな底抜けにいい奴らだ。こんないい奴らに恵まれるなんて、本当に大切な人を大事にしろっていう、天からの思し召しかな。
 	My colleagues in team A6... they may be a bit weird, but they're truly kind souls. They're a gift from destiny, a gift that continues to remind me to cherish those important to me.
 	A6 팀 멤버들은…… 성격은 좀 그렇긴 하지만, 다 한없이 좋은 녀석들이야. 이렇게 좋은 녀석들과 만나게 되다니, 정말로 소중한 사람을 소중히 여기라는 하늘의 뜻이 아닐까?
 
-	既然闲下来了，就先看看书好了。
 	せっかくの休息時間だし、本でも読んでおくか。
 	Now that I have some free time, I should read.
 	모처럼의 휴식시간이니, 책이라도 읽어둘까.
 
-	请露出你最美的笑容来，客人，在我的身边，幸福乃理应获得之物。月见夜，今后也随时恭候您的指名。
 	お客様、私に最高の笑顔を見せてくれませんか？この私がいる限り、幸せという名の贈り物が絶えずあなたのもとに届きますよ。ミッドナイト、いつでもご指名をお待ちしております。
 	Show me your brightest smile, esteemed customer! Happiness is at arm's reach when you're by my side. Midnight, at your service!
 	손님, 제게 최고의 미소를 보여주시겠습니까? 제가 있는 한, 행복이란 이름의 선물이 끊임없이 당신에게 보내질 테니까요. 미드나이트, 언제든지 당신의 지명을 기다리고 있겠습니다.
 
-	增长见闻，这点很重要！
 	見識を広げることも大事だね。
 	It's important to never stop learning!
 	견식이 넓어지는 것도 중요하지.
 
-	喔噢，我的努力也有了回报了啊！为表庆祝，就摆上个香槟塔吧！当然，这次我请。
 	わお、努力が報われるとはこういうことだね。お祝いにシャンパンタワーでもいってみようか！もちろん、今回は俺のおごりだよ。
 	Whoa, so my hard work really paid off! Let's set up a tower of champagne bottles to celebrate. My treat, of course!
 	와우, 노력이 보답받는다는 건 이런 거구나. 축하의 의미로 샴페인 타워라도 한 번 할까! 물론, 이번엔 내가 사는 걸로.
 
-	我就是成功的保障。
 	この俺がいる限り、任務の成功は保証するよ。
 	With me on your side, success is guaranteed!
 	내가 있는 한, 임무의 성공은 보장하지.
 
-	跟随帅气的我吧！
 	俺のカッコよさに、ついてきな！
 	Follow me! I'm cool, after all!
 	내 멋짐에 따라붙으라고!
 
-	大家都拿出干劲来！
 	やる気全開でよろしく！
 	Show me your spirit, everyone!
 	의욕 최대로 부탁해!
 
-	好好看着我华丽的身姿。
 	この華麗な姿、ちゃんと目に焼き付けてくれよ。
 	Just watch me!
 	이 화려한 모습, 그 눈에 가득 담아줘.
 
-	嗯？
 	んー？
 	Hmm?
 	응?
 
-	怎么了？
 	どうした？
 	What's up?
 	왜 그래?
 
-	到达。
 	到着。
 	I've arrived.
 	도착했다.
 
-	好的！
 	オーケー！
 	Sure!
 	오케이!
 
-	剑啊，划破这月夜吧！
 	剣よ、この月夜を引き裂け！
 	O sword, slash this moonlit night open!
 	검이여, 이 달을 갈라라!
 
-	渴饮鲜血吧！
 	浴びよ、己が鮮血を！
 	Bathe in fresh blood!
 	흠뻑 젖어라, 자신의 선혈에!
 
-	果然不能小瞧你啊，Dr.{@nickname}，您今天的闪耀程度已经快超越我了。
 	やっぱりドクターは侮れないね。今日はこの俺を超えそうなほど輝いていたよ。
 	You're really something, Dr. {@nickname}. You'll soon be shining brighter than me!
 	역시 박사는 얕볼 수 없겠네. 오늘은 날 뛰어넘을 정도로 빛나고 있었어.
 
-	这世间对于我来说只有一件事办不到，那就是——“不完美”。
 	俺にとって唯一不可能なこと、それは――「完璧でない」俺であることさ。
 	There's only one thing that's impossible for me: being imperfect.
 	내게 불가능한 단 하나, 그건 바로… '완벽하지 않은' 나로 있는 거야.
 
-	这样也不坏，总之先庆祝一下吧！
 	こういう結果も悪くない。とりあえず一杯やろうか！
 	Not bad! Let's celebrate!
 	이런 결과도 나쁘지 않지. 어쨌든 한잔할까!
 
-	别回头。等到下次，再用笑容来面对彼此吧。
 	終わったことは忘れて、次こそは笑顔で締めくくろう。
 	No need to look back. We'll greet each other with a smile next time.
 	끝난 일은 잊어버리고, 다음엔 꼭 웃는 얼굴로 마무리 짓자고.
 
-	很棒的地方，晚上办场酒会吧。
 	なかなかいい部屋じゃないか。今夜はパーティーをやろうか。
 	A wonderful place. Let's have a drinking party tonight.
 	꽤 괜찮은 방이잖아, 오늘밤은 파티를 할까.
 
-	喂......衣领要被弄乱了。
 	おっと……襟が曲がってしまうじゃないか。
 	Hey, don't mess up my collar.
 	이런… 옷깃이 구겨지잖아.
 
-	感谢您对我的照顾。
 	ドクターの気遣いには感謝してるよ。
 	Thanks for taking care of me.
 	박사의 마음 씀씀이엔 감사하고 있어.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	Dr.{@nickname}，晚上好。
 	いい夜だね、ドクター。
 	Good evening, Dr. {@nickname}.
 	좋은 밤이네, {@nickname} 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】月见夜
+	【性别】男
+	【战斗经验】没有战斗经验
+	【出身地】东国
+	【生日】5月20日
+	【种族】萨卡兹
+	【身高】187cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ミッドナイト
+	【性別】男
+	【戦闘経験】なし
+	【出身地】極東
+	【誕生日】5月20日
+	【種族】サルカズ
+	【身長】187cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Midnight 
+	[Gender] Male 
+	[Combat Experience] None 
+	[Place of Birth] Far East 
+	[Date of Birth] May 20 
+	[Race] Sarkaz 
+	[Height] 187cm 
+	[Infection Status] 
+	Infection confirmed through clinical diagnosis.
+
+	기본정보 :
+	[코드네임] 미드나이트
+	[성별] 남
+	[전투 경험] 전투 경험 없음
+	[출신지] 극동
+	[생일] 5월 20일
+	[종족] 살카즈
+	[신장] 187cm
+	[광석병 감염 상황]
+	임상 진단 분석 결과에 의해, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	作为患者进入罗德岛接受治疗，出于本人的意愿，在通过干员测试后，成为罗德岛的一员，被分配到预备行动组A6。
+
+	個人履歴 :
+	患者としてロドスに受け入れられたが、本人の意志でオペレーター試験を受け合格し、ロドスの一人となった。行動予備隊A6に配属されている。
+
+	Profile :
+	Initially a patient at Rhodes Island, volunteered to become an Operator. He was assigned to Op Reserve Team A6 after completing his examination battery.
+
+	프로필 :
+	    환자로서 로도스 아일랜드에 들어와 치료를 받던 중, 본인의 의사에 따라 입단 테스트를 받고 로도스 아일랜드의 일원이 되어 예비작전팀 A6에 배정받았다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】8%
+	干员月见夜在医疗器械下，能发现明显的感染者症状。不过奇特的是，他的体表没有任何源石结晶。
+	
+	【血液内源石密度】0.30u/L
+	感染步入中期，以这个势头发展下去，感染将匀速蔓延扩散。需要保持定期观察与控制。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】8%
+	オペレーターミッドナイトは、医療機器での検査では明らかな感染症状が認められる。しかし不思議なことに、彼の体表には全く源石結晶が現れていない。
+	
+	【血液中源石密度】0.30u/L
+	感染状況は中期にあり、このまま病状が進行すれば、感染は一定速度で広がっていく見込み。病状のコントロールと定期的な検診を行う必要がある。
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in his circulation, indicating signs of infection and confirming him as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 8% 
+	Medical readings indicate subject has many symptoms of Oripathy. Oddly, subject has no visible crystallization on body. 
+	
+	[Blood Originium-Crystal Density] 0.30u/L
+	Infection is spreading at a constant rate. Regular observation and treatment mandatory.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 8%
+	오퍼레이터 미드나이트는 의료 기기 검사를 통해 광석병 감염 증상이 확인되었으나, 특이하게도 체외엔 아무런 오리지늄 결정이 확인되지 않음.
+	
+	[혈중 오리지늄 결정 밀도] 0.30u/L
+	감염 중간 단계로, 이대로라면 감염이 점차 확산될 수 있으므로, 정기적으로 관찰 및 관리가 필요하다.
+
+———————————————————————————————
+
+	档案资料一 :
+	预备行动组A6的一员，男公关出身。
+	过去是东国某大型男公关俱乐部的头牌，曾连续数年打破上一年由自己创下的营业额记录，有着东夜魔王的别称。
+	言行举止颇为浮夸，自称正是以此来让众多女性为自己一掷千金。
+	虽然很少引发混乱，但经常会有令人头疼的行为。
+
+	第一資料 :
+	行動予備隊A6の一員で、元ホスト。
+	かつて極東のとある大型ホストクラブのトップを飾り、数年連続で業界最高売上記録を更新したことから「東夜（ひがしよ）の魔王」という二つ名がついた。
+	言動は軽薄だが、本人はこのトーク力や立ち居振る舞いで多くの女性が自分に貢いでくれたと言い張っている。
+	混乱を引き起こすことは少ないが、いつも人を困らせる行動をとる。
+
+	Archive File 1 :
+	A former host now assigned to Op Reserve Team A6. 
+	Midnight was the most popular producer at a prominent host club in the Far East. He broke earnings record several years in a row, and was known as the Devil of the Eastern Night. 
+	He tends to speak boldly, even claiming he's here as God's gift to women. 
+	While he has never caused any real problems, he is still often a headache.
+
+	파일 자료 1 :
+	    예비작전팀 A6의 일원으로, 호스트 출신이다. 과거에는 극동의 한 대형 호스트 클럽의 에이스였다. 수 년동안 매년 자신이 세운 매출 기록을 깨와서, 동야의 마왕이라는 별명을 갖고 있다. 언행에 허풍이 심한 편인데, 본인 말로는 이런 허풍으로 수많은 여성들이 자신에게 돈을 쓰게 만들었다고 한다. 큰 난리를 일으키는 경우는 드물지만, 이런저런 골치 아픈 일을 자주 발생시킨다.
+
+———————————————————————————————
+
+	档案资料二 :
+	月见夜先生感染矿石病的经由不明，按照本人的说法，他十分果断地在发现症状并通过个人渠道确诊后，为自己举办了谢幕式，从业界隐退。
+	隐退后，他通过过去的人脉找到罗德岛，希望能够接受治疗。
+	不过，在罗德岛接受治疗了一段时间之后，他提出了一个古怪的要求：希望能够作为干员加入罗德岛。
+
+	第二資料 :
+	ミッドナイトの鉱石病感染経路は不明だが、本人の説明によると、彼は個人のルートで自身の鉱石病の発症を確認すると、自ら引退イベントを主催し、きっぱりと業界を引退したという。
+	引退後、過去の人脈からロドスにたどり着き、しっかりと治療を受けることになった。
+	しかし彼はロドスで治療を受けて少し経った後、出来るならオペレーターとしてロドスに加入したい、という風変わりなリクエストを出した。
+
+	Archive File 2 :
+	Midnight doesn't know how he got infected. According to his own words, he was very quick to retire after his diagnosis. 
+	After retiring, he found Rhodes Island through prior connections and came for treatment.
+	Then, after being in the program for a while, he made a peculiar request: He wanted work at Rhodes Island.
+
+	파일 자료 2 :
+	    광석병에 걸린 경위가 불명확하다. 미드나이트 본인의 말에 따르면, 증세를 발견하곤 개인적인 방법을 통해 확진을 받은 후 은퇴식을 열고 업계에서 은퇴했다고 한다. 은퇴한 뒤엔 과거 인맥을 통해 로도스 아일랜드를 찾아와 치료받기를 희망했다. 하지만 로도스 아일랜드에서 일정 기간 치료를 받은 후, 그는 자신을 로도스 아일랜드의 오퍼레이터로서 받아달라는 이상한 요청을 했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	月见夜先生最后成为了A6的一员。
+	原本，即使在怪人云集的A6中，月见夜先生也被认为会是最难以相处的一个。但实际相处后，所有人都发现，月见夜先生其实是个努力而温柔的人。
+	当然，即使如此，也依然还有许多人无法适应他的浮夸，比如梓兰。
+
+	第三資料 :
+	ミッドナイトは最後にA6に配属されたメンバーだ。
+	元々変人ばかりが集まるA6の中でも、ミッドナイトは最も付き合いづらいオペレーターだろうと言われている。しかし実際に仲良くなると、ミッドナイトは実は努力家で優しい人だと誰もが気付くのだ。
+	そうだとしても、依然として彼の軽薄さについていけない者も多くいる。例えば、オーキッドがその一人である。
+
+	Archive File 3 :
+	Midnight finally became a member of A6. 
+	At first, even in eccentric A6, Midnight was widely considered the most difficult person to get along with. But after a while, everyone realized he was actually kind and hardworking. 
+	Even then, there are still many people, such as Orchid, who can't handle his wild boasts.
+
+	파일 자료 3 :
+	    미드나이트는 결국 A6의 일원이 되었다. 원래 괴짜들이 즐비한 A6에서도 미드나이트는 가장 친해지기 힘든 인물로 여겨졌다. 하지만 실제로 함께 지내본 많은 사람들은 미드나이트가 실은 노력파이며, 상냥한 사람이라고 평가했다. 물론 그렇다 하더라도 여전히 많은 사람들이 그의 허풍 섞인 언행에는 적응하지 못하고 있다. (예를 들면 오키드)
+
+———————————————————————————————
+
+	档案资料四 :
+	应该相信，月见夜先生能够对谁都付出真心，但这也意味着，很少有人能回报他同等的爱。
+	当所有人都习惯了他的付出，他的疲惫就不会有人发觉——虽然他也不希望被发觉。但若真有那样的时刻，应该有那么一个人给他带去一些慰藉。
+
+	第四資料 :
+	信じるべきは、ミッドナイトは誰に対しても真心を尽くすことが出来るが、これは彼に同じだけの愛を返してあげられる人が少ないということも意味する。
+	皆彼から愛を捧げられることに慣れてしまい、彼の疲労に気付ける者はいないだろう。彼はそのことには気付かれたくはないと思っているが。
+	ただ、もし本当に彼のそのような部分に気付いたことがあれば、たとえ一人でも彼を慰めに行ってあげるべきだ。
+
+	Archive File 4 :
+	When Midnight cares about someone, he gives his whole heart, but that means only a few people can reciprocate on the same level. 
+	Since everyone is used to his hard work, they don't notice his exhaustion, which he wouldn't want them to notice, anyway. But it would be best for someone to check up on him once in a while.
+
+	파일 자료 4 :
+	    미드나이트가 누구에게나 진심을 다한다는 건 믿을 수 있다. 하지만 이건 그와 동등한 수준의 마음을 그에게 보여줄 수 있는 사람이 드물다는 것을 의미하기도 한다. 모든 사람이 이런 그의 노력에 적응하게 된다면, 그의 노력을 아무도 알아챌 수 없을 것이다. 미드나이트 역시 누군가 알아채는 걸 바라지 않지만, 정말 그런 때가 온다면, 그땐 누군가 그를 위로를 해주는 게 좋을 것이다.

@@ -1,11 +1,17 @@
 ID:
 	char_293_thorns
 
-干员代号\Name:
+CV:
 	棘刺
 	ソーンズ
 	Thorns
 	쏜즈
+
+干员代号\Name:
+	石川界人
+	石川界人
+	Kaito Ishikawa
+	이시카와 카이토
 
 招聘合同\Character Usage:
 	罗德岛近卫干员棘刺，从不浪费力气，每一次攻击都经过精密计算。
@@ -48,177 +54,486 @@ ID:
 	데스트레자
 
 语音\Voices:
-	开始工作前，先喝了这个。好，这样一来，在接下来的药效时间内，博士你就不会偷懒了，是不是？
 	仕事の前にこれを飲むといい。よし。これで薬効時間中はドクターもサボることはないだろ？
-	Before you start working, take some of this. Good. Now, for the duration of this drug, you won’t be slacking off, right?
+	Before you start working, take some of this. Good. Now, for the duration of this drug, you won't be slacking off, right?
 	일하기 전에 이걸 마시도록 해라. 좋아. 이걸로 약효가 도는 동안 박사가 게으름 피우는 일은 없겠지?
 
-	提取液的分离和解析已经差不多了，下一步就是提纯，实际效果还有必要再实验一下......嗯？为什么盯着我的头发看，博士。头发......爆炸了？不要在意，实验失败已经不是一次两次了。
 	抽出液の分離と解析はほとんど済んだ。次は純化作業だが、実際の効果についてはまだ実験が必要だ……なんだ？ドクター、俺の髪がどうかしたか？髪が……爆発しているだと？気にするな、実験の失敗は一度や二度のことじゃない。
-	Separation and analysis of the extract are almost complete, next step is purification. Actual effect needs further testing... Huh? Why are you staring at my hair, Doctor? My hair... is a total mess? Don’t worry about it. Wouldn’t be the first time my experiment has failed, or the second.
+	Separation and analysis of the extract are almost complete, next step is purification. Actual effect needs further testing... Huh? Why are you staring at my hair, Doctor? My hair... is a total mess? Don't worry about it. Wouldn't be the first time my experiment has failed, or the second.
 	추출액의 분리와 해석은 거의 끝났다. 다음은 순화 작업인데, 실제 효과에 대해서는 아직 실험이 필요하다…… 뭐지? 박사, 내 머리카락이 어떻게 됐다고? 머리카락이…… 폭발하고 있다고? 신경 쓰지 마라, 실험 실패는 한두 번 있는 일이 아니니.
 
-	我随身带着的这种药剂？不致命，但小心不要碰到比较好。
 	俺が持ち歩いているこの薬剤か？致命性はないが、うかつに触らないほうがいい。
-	The drugs I carry on me? They’re not fatal, but it’d be best not to touch them.
+	The drugs I carry on me? They're not fatal, but it'd be best not to touch them.
 	내가 들고 다니는 이 약제 말인가? 치명적이지는 않지만 함부로 만지지 않는 게 좋아.
 
-	时刻保持头脑运转，放弃思考就等于把要害递到对方手上，我曾经被人这么教导过，也恰好一直记着。
 	常に頭は動かし続けろ。思考を放棄してしまえば、自身の急所を相手に委ねるようなものだ。俺はかつてそのように教わった。たまたま今も記憶に残っているだけだけどな。
-	Always keep your mind running. Giving up on thought is tantamount on handing your keys to your enemies. I’ve been taught this many times, and always think back to it.
+	Always keep your mind running. Giving up on thought is tantamount on handing your keys to your enemies. I've been taught this many times, and always think back to it.
 	언제나 머리를 계속 굴려라. 생각하길 포기하는 건 자신의 급소를 상대방에게 맡기는 거나 다름없다. 나는 전에 그렇게 배웠다. 어쩌다 보니 지금도 기억에 남아있을 뿐이지만 말이야.
 
-	我的种群原本有着与现在截然不同的样貌，我们的皮肤坚硬如甲壳，头发却柔顺如流水，但灼热的日光和干燥的空气最终把我们变成了现在的样子。你相信了？对不起，刚才我是在胡说。
 	俺の種族は、本来今とは全く異なる容姿をしていたんだ。俺たちの皮膚は甲羅のように硬く、髪は流水のように滑らかだった。しかし灼熱の日光と乾燥した空気にあてられ、最後には今の通りに変化したというわけだ。信じたか？悪いな、今のは冗談さ。
 	My people originally had a completely different appearance. Our skin was as hard as a carapace, and our hair was as smooth as flowing water. However, the scorching sun and dry air have turned us into what we are today. You believed that? Sorry, I was just speaking gibberish just now.
 	내 종족은 원래 지금과는 전혀 다른 외모를 가지고 있었어. 우리의 피부는 등딱지처럼 단단했고, 머리카락은 흐르는 물처럼 매끄러웠지. 하지만 작열하는 햇빛과 건조한 공기에 노출되어 마지막엔 지금처럼 변화하게 되었다 이거다. 믿었나? 미안하군, 방금 건 농담이다.
 
-	如果你不是拉特兰宗教的信徒，就最好别去伊比利亚。他们所谓的‘最纯正的信仰’就根植在那片土地上，那里的人虔诚得恐怕就连拉特兰人也得自愧弗如。我？这些都同我没有什么关系。
 	ラテラーノ宗教の信徒でないなら、イベリアへは行かないほうがいい。彼らの言う「最も純粋な信仰」はあの土地に根付くものだ。現地の人々の敬虔さには、もしかしたらラテラーノ人ですら引け目を感じるほどだ。俺？俺はこの話とは関係ないさ。
 	If you are not a follower of the Laterano religion, it is best not to go to Iberia. Their so-called 'purest faith' is rooted in that land, and the people there are so pious that even the Laterano people are ashamed of it. As for me? None of that concerns me in the slightest.
 	라테라노 종교의 신도가 아니라면 이베리아에는 가지 않는 게 좋아. 그들이 말하는 '가장 순수한 신앙'은 그 땅에 깊게 뿌리 내렸으니. 현지 사람들의 경건함은 아마 라테라노 사람들조차 열등감을 느낄 정도다. 나? 나는 이 이야기와 관계없다.
 
-	博士，你知晓伊比利亚惩戒军过去的历史吗？只要你曾听过任何一点相关的只言片语，就应该会知道，那片土地上的居住者，远比他们冷厉素朴的灰白建筑要疯狂得多。
 	ドクター、イベリア懲罰軍の歴史を知っているか？少しでも噂を耳にしたことがあるなら知っているだろう。あの土地に住む者たちには、その冷たく厳かな灰白の建造物からは想像もできないほどの狂気を孕んでいることを。
-	Doctor, have you heard anything about the past history of the Iberian Correctional Army? If you’ve heard even anything remotely relevant, you should know that the inhabitants of that chunk of land are far crazier than their cold, plain gray buildings suggest.
+	Doctor, have you heard anything about the past history of the Iberian Correctional Army? If you've heard even anything remotely relevant, you should know that the inhabitants of that chunk of land are far crazier than their cold, plain gray buildings suggest.
 	박사, 이베리아 징벌군의 역사에 대해 알고 있나? 조금이라도 소문을 들어본 적이 있다면 알겠지. 그 땅에 사는 자들은 그 차갑고 엄숙한 회백색 건축물보다 상상도 할 수 없을 만큼 광기를 품고 있다는 것을.
 
-	攻击的角度、闪避的线路、防御的姿势，每一个动作都经过计算，没有任何无用的浪费，这才是他们所说的至高之术。有没有觉得，这和你的指挥风格很相似，博士？
 	攻撃の角度、回避の軌道、防御の姿勢、すべての動作は計算ずくで、無駄は一つもない。これこそが「至高の術（デストレッツァ）」というものだ。お前の指揮スタイルと似ていると思わないか、ドクター？
-	The angle of attack, the vector of evasion, the posture of defense. Every action is calculated, and there are no wasteful movements. This is what they call the 'Destreza.' Don’t you think this is similar to your commanding style, Doctor?
+	The angle of attack, the vector of evasion, the posture of defense. Every action is calculated, and there are no wasteful movements. This is what they call the 'Destreza.' Don't you think this is similar to your commanding style, Doctor?
 	공격 각도, 회피 궤도, 방어 자세, 모든 동작은 계산되어 있고 불필요한 요소는 하나도 없어. 이게 바로 '데스트레자'라고 하는 거다. 너의 지휘 스타일과 비슷하다고 생각하지 않나, 박사?
 
-	休息的时候就放松一点，什么都不去想，单纯吹吹风，或者晒晒太阳？......好吧，偶尔尝试一下或许也不错。上来，到这里来，这里的风，会让我想起故乡......
 	休憩中はリラックスして、何も考えずに風や日に当たってみろ、だと？……いいだろう、たまに試してみるのも悪くないかもしれない。さあ、こっちに上がってきて。ここに吹く風は、故郷を思い出させてくれるな……。
-	I need to unwind a bit more when I’m resting? Not thinking about anything and just bask in the sun or let my hair blow in the wind? ...Well, it might be nice to give it a try every now and then. Come up, over here. The breeze up here reminds me of my hometown...
+	I need to unwind a bit more when I'm resting? Not thinking about anything and just bask in the sun or let my hair blow in the wind? ...Well, it might be nice to give it a try every now and then. Come up, over here. The breeze up here reminds me of my hometown...
 	휴식 중에는 긴장을 풀고, 아무것도 생각 말고 바람과 햇빛을 쐬어 보라고? ……좋아, 가끔 시험해 보는 것도 나쁘진 않겠지. 자, 이쪽으로 올라와라. 여기에 부는 바람은 고향을 떠올리게 하는군…….
 
-	呼......呼......。嗯？......怎么回事，我竟然也跟着睡着了吗。
 	ZZZ……ZZZ……。ん…？……まさかな、俺もつられて寝てしまったのか。
 	Zzz... zzz... Huh? ...What happened? Did I fall asleep too?
 	쿠울…… 쿨…… 음? 설마…… 나도 덩달아 잠들어 버린 건가.
 
-	你就是博士吗，自我介绍一下，代号棘刺，今天起就任——嗯？我的裤脚卷起来了？......不要在意，这是常有的事。
 	お前がドクターか。自己紹介をしよう、コードネームはソーンズ、本日よりロド――ん？ズボンの裾がまくれている？……気にするな、いつものことだ。
-	So you’re the Doctor? I’ll give a brief introduction then. Code name, Thorns. Starting today, I’ll be taking my post— Huh? One trouser leg is rolled up? ...Don’t worry about it, this happens a lot.
+	So you're the Doctor? I'll give a brief introduction then. Code name, Thorns. Starting today, I'll be taking my post— Huh? One trouser leg is rolled up? ...Don't worry about it, this happens a lot.
 	네가 박사인가. 자기소개를 하지. 코드네임은 쏜즈. 오늘부터 로도…… 음? 바짓단이 말려 올라갔다고? 신경 쓰지 마라, 늘 있는 일이니까.
 
-	嗯......这些资料确实有可取之处。
 	ああ……この資料、確かに役に立つところもある。
 	Hmm... This information does have some merit.
 	그렇군…… 이 자료, 확실히 도움이 되는 점도 있군.
 
-	晋升？这种事情你来决定就好。我可以离开了吗？
 	昇進？そんなことはお前が勝手に決めればいい。もう戻ってもいいか？
 	A promotion? You should decide on things like that. Can I go now?
 	승진? 그런 건 네가 알아서 정하면 된다. 이제 돌아가도 되겠나?
 
-	快速高效地削减敌对者的行动力，以最小的代价获得胜利——我自认完全理解了你的指挥。所以我使用这种麻痹型的神经毒素来配合攻击，这有什么问题吗？
 	素早く効率的に敵の行動力を削ぎ、最小の被害で勝利をもぎ取る――お前の指揮については完全に理解しているつもりだ。だから攻撃に合わせてこの麻痺性の神経毒を使っているんだが、何か問題でも？
-	Quickly and efficiently seal the opponent’s ability to act, and attain victory at the lowest cost — I think I fully understand your orders. In that case, I’ll use this paralytic neurotoxin in tandem with my attacks. I take it that you have no issue with this?
+	Quickly and efficiently seal the opponent's ability to act, and attain victory at the lowest cost — I think I fully understand your orders. In that case, I'll use this paralytic neurotoxin in tandem with my attacks. I take it that you have no issue with this?
 	신속하고 효율적으로 적의 행동력을 약화시키고, 최소의 피해로 승리를 쟁취한다…… 너의 지휘에 대해선 완벽히 이해하고 있다고 본다. 그러니 공격에 맞춰 이 마비성 신경독을 사용하고 있는데, 무슨 문제라도 있나?
 
-	让我见识一下罗德岛的战斗。
 	ロドスの戦いとやらを見せてもらおう。
 	Let me see how Rhodes Island fights.
 	로도스 아일랜드의 전투라는 것을 보도록 할까.
 
-	队长？最好还是不要期待，我不太擅长指挥。
 	隊長？期待はしないほうがいい、指揮は得意じゃないのでな。
-	Team leader? It’d be best not to have any expectations. I’m not very good at leading.
+	Team leader? It'd be best not to have any expectations. I'm not very good at leading.
 	팀장? 기대는 하지 않는 편이 좋아. 지휘는 잘 못하거든.
 
-	速战速决，我的时间很宝贵。
 	速戦即決しよう。俺の貴重な時間を無駄にしないためにもな。
-	Let’s make this quick. My time is valuable.
+	Let's make this quick. My time is valuable.
 	속전속결로 끝내자. 내 귀중한 시간을 허비하지 않기 위해서라도 말이야.
 
-	小心一些，不要大意了。
 	油断しないように気をつけろ。
-	Be careful. Don’t get overconfident.
+	Be careful. Don't get overconfident.
 	방심하지 않도록 조심해라.
 
-	明白。
 	分かった。
 	Understood.
 	알겠다.
 
-	给我指令。
 	命令を。
 	Give me your orders.
 	명령해라.
 
-	不会花费太长时间的。
 	時間をかけるつもりはない。
-	This won’t take long.
+	This won't take long.
 	시간을 들일 생각은 없어.
 
-	让他们都失去行动力，就可以了吧。
 	全員の行動力を奪う、それでいいだろう。
-	Let’s just incapacitate them and move on.
+	Let's just incapacitate them and move on.
 	모두의 행동력을 빼앗는다, 그거면 되겠지.
 
-	别乱动，让我们都省些功夫。
 	動き回るな、そうすればお互い手間が省けるだろ。
-	Stop moving around. It’ll spare all of us the effort.
+	Stop moving around. It'll spare all of us the effort.
 	돌아다니지 마라. 그러면 서로 수고를 덜 하게 될 테니.
 
-	你的攻击都在推算范围内。
 	お前の攻撃は想定の通りだ。
 	Your attacks are all within my calculations.
 	네 공격은 예상한 대로다.
 
-	没用的。
 	無駄だ。
 	Futile.
 	소용없다.
 
-	看仔细，这才是伊比利亚的至高之术！
 	目を凝らせ、これこそがイベリアの至高の術（デストレッツァ）！
 	Watch carefully, this is the Destreza of Iberia!
 	똑똑히 봐라, 이게 바로 이베리아의 '데스트레자'다!
 
-	完美的结果。难道这也都在你的计算之中？
 	完璧な結果だ。まさかこれもお前の計算のうちか？
 	A pristine outcome. Was this also a part of your calculations?
 	완벽한 결과다. 설마 이것도 네가 예상한 대로인가?
 
-	任务完成。非常精准有效率的指挥，博士。
 	任務完了。正確かつ効率のいい指揮だったな、ドクター。
 	Mission complete. Very precise and efficient command, Doctor.
 	임무 완료. 정확하고 효율적인 지휘였다, 박사.
 
-	你的指挥有疏漏，而我的执行不当放大了这个疏漏。回去之后我们可以一起反省。
 	お前の指揮ミスを、俺の不手際でさらに大きくしてしまったようだ。戻ってから共に反省会だな。
 	There was an omission in your command, and my improper execution amplified this omission. We should both reflect upon this after we return.
 	너의 지휘 실수를 내 서투름으로 더 크게 만든 것 같군. 돌아가면 함께 반성하는 시간을 가져야겠어.
 
-	考虑到小队的损耗，除了立刻撤退，没有其他更好的选择。
 	チームの消耗を考慮すれば、即時撤退以外に選択の余地はない。
 	Considering the losses of our squad, there is no better option than to retreat immediately.
 	팀의 소모를 고려하면, 바로 철수하는 것 말곤 선택의 여지가 없어.
 
-	这里的防护措施怎么样？
 	ここの防護措置はどうなっている？
 	How are the protective measures here?
 	이곳의 방어 조치는 어떻게 되어 있지?
 
-	不好，药剂洒出来了。
 	まずい、薬剤が漏れてきた。
-	Shoot, the potion’s going to spill.
+	Shoot, the potion's going to spill.
 	이런, 약제가 새어 나왔어.
 
-	头发？啊......我才刚梳过，怎么又乱了。
 	髪？ああ……整えたばかりのはずなのに、また乱れているとは。
-	My hair? Gah... I just combed it, why’s it messed up again?
+	My hair? Gah... I just combed it, why's it messed up again?
 	머리카락? 아아…… 막 정리한 참인데 또 흐트러져 있다니.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你看起来似乎很疲倦，要不要我来帮你清醒一下，博士。
 	疲れが溜まっているようだな。俺が目を覚ましてやろうか、ドクター。
 	You seem tired. Should I help wake you up, Doctor?
 	피로가 쌓인 모양이군. 내가 눈을 뜨게 해줄까, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】棘刺
+	【性别】男
+	【战斗经验】五年
+	【出身地】伊比利亚
+	【生日】3月17日
+	【种族】阿戈尔
+	【身高】177cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ソーンズ
+	【性別】男
+	【戦闘経験】五年
+	【出身地】イベリア
+	【誕生日】3月17日
+	【種族】エーギル
+	【身長】177cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Thorns
+	[Gender] Male
+	[Combat Experience] 5 Years
+	[Place of Birth] Iberia
+	[Date of Birth] Mar 17
+	[Race] Ægir
+	[Height] 177cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 쏜즈
+	[성별] 남
+	[전투 경험] 5년
+	[출신지] 이베리아
+	[생일] 3월 17일
+	[종족] 에기르
+	[신장] 177cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Standard
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	精通剑术与药剂制作的罗德岛前线作战干员，棘刺。出身于伊比利亚腹地，于当地宗教局势动荡中离开家乡，在脱离伊比利亚地区后，受邀来到罗德岛。
+	以上关于伊比利亚境内局势的部分为棘刺自述，尚未完全经过考证。
+
+	個人履歴 :
+	剣術と薬剤制作に精通しているオペレーター。出生地イベリアの宗教紛争の中で故郷を離れ、ロドスに加入した。
+	イベリアの状況についてはソーンズの言葉によるもので、まだ考証されていない。
+
+	Profile :
+	Thorns, a front-line combatant for Rhodes Island, is proficient in swordsmanship and pharmacology. Born in the Iberian hinterland, Thorns left his hometown in the midst of local religious strife. After leaving the Iberian region, he was invited to join Rhodes Island. 
+	The above section describing the situation in Iberia was self-reported by Thorns and has not been fully verified.
+
+	프로필 :
+	    쏜즈는 검술과 약제 제조에 정통한 로도스 아일랜드의 오퍼레이터다. 이베리아 출신으로, 현지 종교 정세의 혼란 중 고향을 떠나 이베리아를 빠져나온 후 로도스 아일랜드의 초청을 받아 합류하게 되었다.
+	    이상은 이베리아 내부 정세에 대한 쏜즈의 진술이며, 아직 완전히 검증되지 않은 내용이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员棘刺没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.14u/L
+	干员棘刺时常会接触一些含有源石成分的试剂，这使得他有一定的感染风险。
+	
+	别担心，他在自我防护这方面很有心得，这个数值相当稳定，没有那么容易出事。管理好自己的身体状况，我认为这是每一个经常出入实验室的人都应有的素养。 
+	——安赛尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.14u/L
+	源石成分を含んだ薬剤に頻繁に触れるため、感染する危険有り。
+	
+	心配することはありませんよ。実験室を出入りする者にとって身体状況の管理は基本です。彼は自分の身を守る方法を心得ています。数値も安定していますから、やすやすと感染することはないでしょう。
+	――アンセル
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Thorns has no signs of Originium infections. 
+	
+	[Blood Originium-Crystal Density] 0.14u/L
+	Operator Thorns often comes into contact with Originium-based reagents, which puts him at some risk of infection. 
+	
+	Don't worry, he is very vigilant about self-protection and his numbers have been stable. The risk of something happening is low. Properly taking care of oneself is a quality that everyone who enters and exits this laboratory should cultivate. 
+	—Ansel
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 쏜즈에겐 광석병 감염 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.14u/L
+	오퍼레이터 쏜즈는 수시로 오리지늄 성분이 함유된 시약과 접촉하므로 어느정도 감염 위험이 있음.
+	
+	    걱정 마세요, 그는 자기 몸을 지키는 법을 잘 알고 있으니까요. 수치도 굉장히 안정적이니, 그렇게 쉽게 문제가 생기진 않을 거예요. 자신의 컨디션을 관리하는 것은 자주 실험실을 출입하는 사람이라면 반드시 갖춰야 할 자세라고 생각해요.
+	——안셀
+
+———————————————————————————————
+
+	档案资料一 :
+	干员棘刺刚加入罗德岛时，一度因其在战场上的作风，给许多人留下了冷漠古怪，甚至残忍无情的印象。而当相处时间长久之后，大家逐渐发觉，尽管这位伊比利亚剑士大多数时候的确看起来态度冷淡，说话也并不好听，但他的脾性却可以称得上率直，说是自由潇洒，也并不为过。 
+	对于自己过于直率，容易招来误解的言行，剑士并非无知无觉，只是他对此毫不在乎。对于棘刺来说，他人的看法，的确只是一件无关紧要的小事，来自外界的评价并不能影响到他。 
+	
+	棘刺时常因太过于专注药剂的调配和萃取改良，而忽视其他方面的东西——比如说自己的外在形象。忘记穿外套、裤腿卷起一只却不自知、衣服破洞甚至直接穿反，这些都是家常便饭，如果在走廊上偶遇这样的干员棘刺，请不要感到意外。
+	对于追求精确与效率的剑士来说，花费太多力气来维持外表并不划算，就算偶尔因实验出岔子而被炸到每一根头发都膨胀卷曲，棘刺也能够做到放任自流，顶住所有好奇的目光，毫不在意地做自己的事。
+
+	第一資料 :
+	ロドスに加入した頃、ソーンズはその戦い方のせいで、同僚たちに冷淡な変わり者、あるいは残忍だと思われていた。しかし彼と過ごす時間が増えるにつれ、同僚の態度は変わっていった。普段は冷然としていて口も悪い彼は、実は性根がまっすぐで、洒脱と言える性格をしていると気づいたからである。
+	一方ソーンズ本人は、歯に衣着せぬ正直すぎる言動を全く気にしていない。彼にとって、他人の目も評価も大して重要なことではないのだ。
+	
+	ソーンズは薬剤の制作や改良に夢中になりすぎて、ほかのことが見えなくなることがある。そんな時彼は、コートを着るのを忘れたり、気づかないうちにズボンの裾が片方だけ捲れていたり、服に穴が空いたり、裏表逆に着ていたりする。この類のことは日常茶飯事のため、もし廊下でこのような姿のソーンズと出会っても驚く必要はない。
+	効率と精度を求める剣士にとって、外見を気にかけるのは無駄なことなのだ。たとえ実験のミスでアフロになっても、ソーンズは周囲の視線を気にせず、自分のペースで平然と作業を進めるだろう。
+
+	Archive File 1 :
+	When Thorns first joined Rhodes Island, his combat style on the battlefield gave others an impression of indifference, or even ruthlessness. After spending more time together, everyone gradually realized that though the Iberian swordsman may seem cold in demeanor and speak in a blunt manner, his actual nature was rather straightforward, free-spirited and suave, though not overblown. 
+	The swordsman seems to be aware of the issues some may have with his blunt and easily-misunderstood way of speaking, but he isn't particularly bothered by this. For Thorns, others' perceptions of him are ultimately inconsequential, and the way the outside world evaluates him has no effect upon him. 
+	
+	Thorns often delves deeply into the extraction and preparation of medicinals and ends up ignoring other things in the process — such as his own outward appearance. Forgetting to wear a jacket, having one trouser leg rolled up, wearing clothes with holes in them, and even wearing things backwards or insides out — all of these are commonplace occurrences. If you encounter Thorns in the hallway displaying one of these features, don't read too much into it. 
+	For a swordsman who pursues precision and efficiency, it isn't worthwhile to spend too much time maintaining one's appearance. Even if Thorns' hair puffs up and curls over because of an awry experiment gone explosive, Thorns continues to conduct his own business, withstanding the curious eyes of all bystanders without a care.
+
+	파일 자료 1 :
+	    오퍼레이터 쏜즈가 막 로도스 아일랜드에 합류했을 당시, 전장에서 보여주는 그의 모습은 사람들에게 이상하고 냉정한, 심지어 잔인하고 무자비하기까지 한 사람이라는 인상을 남겼다. 하지만 오랫동안 함께 지내면서, 사람들은 이 이베리아 출신의 검사가 비록 평소에는 냉정해 보이고, 까칠한 말들을 내뱉지만, 실은 솔직하고 자유로우며 소탈한 성격의 소유자라고 해도 과언이 아니란 사실을 점차 깨닫게 되었다.
+	    이 검사는 자기 자신에게 너무 솔직해, 쉽게 오해를 불러일으킬 수 있을 만한 언행을 일삼는데, 이 사실을 모르는 건 아니고, 그저 전혀 신경쓰지 않고 있다. 쏜즈에게 있어 타인의 견해는 대수롭지 않은 사소한 것일 뿐이며, 외부의 평가는 그에게 아무런 영향을 주지 못한다.
+	
+	    쏜즈는 약제의 배합 및 추출 작업 개량에 너무 열중한 나머지, 외투를 입는 걸 까먹는다든가, 바짓가랑이를 한쪽만 말아 올린 걸 모른다든가, 옷에 구멍이 나거나 심지어 거꾸로 입는 등, 자신의 외형에 대한 것을 포함하여, 기타 다른 일들을 자주 잊어버리곤 한다. 그에게 있어 이런 일들은 그야말로 일상다반사니, 만약 복도에서 이런 모습의 쏜즈를 우연히 마주치더라도 놀라지 말아 주길.
+	    정확성과 효율성을 추구하는 검사에게 있어 외모에 너무 힘을 쏟는 것은 효율적이지 못한 행동이다. 설령 가끔 실험 중 사고로 머리칼이 모두 엉망이 된다 할지라도 쏜즈는 그대로 내버려 둘 것이며, 주변의 호기심 어린 눈빛은 신경도 쓰지 않은 채 자신의 일을 계속 할 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	干员棘刺拥有十分强烈的剑术风格，据其本人介绍，这种每一个动作都经过精密计算的剑术，被伊比利亚人称作“至高之术”，是在当地颇有声名的一种迅捷剑术。
+	伊比利亚地区历来以刀、剑作为主流武器，各类流派遍地，但被称为“至高之术”的技术却并非人人都能够学习。很明显，使用这样的剑术，不仅需要有良好的身体素质，同时还对于使用者的头脑有极高的要求，这样严格的条件使得这种剑术学习的难度很高，但如若能够掌握，回报也将是巨大的。
+	与此同时，传统的伊比利亚剑术大师们普遍认为“至高之术”只能被用来形容特定形制规范武器的剑术，所以在他们眼里，包括棘刺在内，许多非黎博利人所使用的剑术不过是拙劣的模仿和亵渎；但对于棘刺他们来说，他们从传统剑术中吸取了足够多的技巧，这让他们的剑术拥有了更加现实的意义，在这个基础上，自称“至高之术”的使用者并无问题。换句话说，纠结说辞的人在斗剑时大多会变成死人，何况他们并不仅仅是要面对剑士。
+	不过，就连这些离经叛道的剑士也都承认，伊比利亚的剑术如同大海一样广阔而危险，任何一个人在有生之年都不可能将其穷尽，更别说剑士的生命普遍都很短暂了。
+	
+	不论如何，使用所掌握的精密剑术，配合自制的毒素，棘刺在战场上总能迅速完成被分配的任务，并确保在己方的损失能够被最小化的同时，获得最大的成果。
+	这种行动方针在效率上无可指摘，但很多时候，也难免会为棘刺本人惹来一些非议。
+	棘刺的剑术和药剂炼制及萃取的技艺，都由一位当地教士传授，他同另外几个孩子一起跟随教士学习，度过了童年及青少年时光，其后，因教士被卷入宗教动荡，他的几名学生至此也走上不同的道路。
+	干员棘刺在剑术上拥有很高的天赋，而在药剂制作这一领域，他也有着过人的才能，棘刺极为擅长药物的萃取与提纯，特别是毒素类，经由他手制作的神经类毒素的效果精确，得到了医疗部某些干员的极大好评。除此之外，棘刺在其他药剂的炼制方面则总有一些更大胆的想法——有时这样的确能得到更好的结果，但更多时候则是以爆炸收场。
+	即便如此，棘刺也依然乐此不疲。
+
+	第二資料 :
+	ソーンズの剣術は極めて個性的である。本人曰く、この剣術の動きは全て厳密な計算の上に成り立っているもので、イベリア人の間では「至高の術（デストレッツァ）」と呼ばれるレイピア剣術だそうだ。
+	古来、イベリアで使われる武器は刀と剣を主流とし、流派は多岐に渡る。その中でも「至高の術」を習得するには、特別に高い身体能力と頭脳が求められる。厳しすぎる習得条件は修行者にとって高い壁だが、習得すれば見返りは巨大なものになる。
+	伝統的なイベリアの剣術マスターの多くは、「至高の術」は特定の規格の武器から放たれる剣術のみを指すと考えている。彼らからすれば、ソーンズを含め、多くの非リーベリ人が用いる剣術はただの劣化コピーであり、ある種の冒涜に過ぎないそうだ。だが、ソーンズのような者たちからすれば、彼らは伝統的剣術からふんだんに技巧を吸収し、自身の剣術をより実用的なものへと変えることができた。そういう意味では、彼らが「至高の術」を用いる者と自称しても何らの問題もないはずだ。言葉に固執する者は剣の試合では往々にして死体と化すだけなのだから。ましてや彼らが相対すべき相手は、剣術使いたちだけではないのだ。
+	だが、彼らのような伝統に反する剣術使いでも、イベリアの剣術は海のように広大でありながら危険であることを認めている。誰であろうと生きているうちにそれらを学び尽くすことなど不可能である。まして剣術使いは一般的には寿命が短いのだ。
+	
+	何はともあれ、この緻密な剣術と自製の毒を組み合わせることで、戦場でのソーンズはいつも迅速に任務をこなしている。最小の損失で最大の戦果を挙げるのも常のことだ。
+	だがこの効率的で非の打ち所がない戦い方は、時として非難を招くこともある。
+	ソーンズは幼年期、他の子供たちと共に、とあるイベリア宣教師の下で、剣術と薬学知識を学んでいた。しかし宣教師が宗教紛争に巻き込まれたことにより、その教え子たちの道は分かたれた。
+	ソーンズは剣術の他に、薬剤の作製においても優れた才能の持ち主であり、特に毒素をはじめとした薬物の精煉に秀でている。彼が作る神経毒は効果絶大で、医療部の一部には大好評を博している。その他の薬剤の作製においても、彼は他人にはないような画期的な考えを持っている――時には理想な結果を得られるが、たいていの場合は爆発で終わる方が多い。
+	それでも彼は、薬学に夢中である。
+
+	Archive File 2 :
+	Thorns' swordsmanship is extremely potent. According to him, his particular style of swordsmanship requires every single motion to be precisely calculated. This swift and precise technique is widely known throughout Iberia as the 'Destreza.' 
+	The mainstay weapons of the Iberian region have always been swords and knives, with a wide variety of techniques spread across the land. However, the technique known as the 'Destreza' is not accessible to everyone. Needless to say, this technique requires excellent physical fitness, but it also has extremely demanding requirements for the user's mind. These strict requirements make the technique very difficult to learn, but if mastered, the rewards are great. 
+	At the same time, many traditional Iberian blademasters believe that 'Destreza' can only be used to describe swordsmanship using a standardized subset of weapons; and in their eyes, the styles used by non-Liberis, including Thorns, are nothing but clumsy and blasphemous imitations. However, according to Thorns, those people have absorbed more than enough of the technique's framework and apply them in a more realistic manner. On this basis, there are no issues with considering them as users of 'Destreza.' In other words, people who fight over semantics will quickly perish when they have to actually cross swords. After, they would not be exclusively facing swordsmen. 
+	However, even these renegade swordsmen will readily admit that Iberian swordsmanship is as vast and as dangerous as the ocean. No swordsman may ever exhaust that knowledge within his lifetime; not to mention, that lifetime is generally very short as well. 
+	
+	In any case, by combining the precise swordsmanship he has mastered with the deadly poisons he concocted himself, Thorns will always complete his missions upon the battlefield with efficiency and ease, ensuring optimal results while keeping losses minimal. 
+	His method of operating is beyond reproach in terms of efficiency; however, in many situations, Thorns himself ends up garnering criticism. 
+	Thorns' swordsmanship and his pharmacological knowledge were learned from a local priest. He and several other children studied under the priest, following him through childhood and adolescence. Because this priest became involved in the religious turmoil that would later break out, several of his students have taken divergent paths. 
+	Thorns is exceptionally skilled at swordsmanship, and also exhibits extraordinary talents in pharmacology. He is particularly skilled at extracting and purifying drug compounds, especially toxins. The precise efficacy of some of the neurotoxins he's produced has been praised by the members of the Medical Department. In addition, Thorns always has bolder ideas when it comes to refining other reagents; and while his experiments do sometimes yield positive results, they end with an explosion more often than not. 
+	Even in the face of failure, Thorns always seems to enjoy himself.
+
+	파일 자료 2 :
+	    오퍼레이터 쏜즈는 매우 강렬한 검술 스타일을 지녔는데, 본인의 소개에 의하면 동작 하나하나가 정밀하게 계산된 검술이라고 한다. 이베리아인들에겐 '데스트레자'라 불리며, 현지에선 꽤 유명한 쾌검술의 일종이라고 한다.
+	    이베리아는 예로부터 검과 도를 주무기로 사용해 왔으며, 여러 종류의 유파가 곳곳에 퍼져있다. 단, '데스트레자'라 불리는 이 기술은 누구나 배울 수 있는 것은 아니었다. 이 검술을 구사하기 위해선 뛰어난 신체 조건뿐만 아니라, 지능 면에서도 극도로 높은 수준을 만족해야 했기에, 검술을 익히기 위한 난이도 역시 굉장히 높았다. 그러나 만약 이 검술을 능숙히 구사할 수만 있다면, 그 파괴력은 어마어마할 것이다.
+	    단, 이베리아의 검술 대가들은 '데스트레자'는 특정 형태의 검을 이용한 검술을 구사하는 데만 제한적으로 사용될 수 있다고 보았고, 쏜즈를 포함한 많은 비 리베리인이 사용하는 검술은 졸렬한 모방과 모독의 집합체에 불과하다 생각했다. 다만, 쏜즈와 같은 검사들의 입장에서 보았을 때, 이들은 전통 검술로부터 많은 기술을 흡수한 덕분에 자신들의 검술이 실전에서 더 유용하게 사용될 수 있다고 생각했다. 즉, '데스트레자'를 익힌 사람들은 전혀 그렇게 생각하지 않는단 뜻이다. 아무튼 이런 부질없는 것에 과도하게 집착하는 사람은 전투 중 대부분 죽음을 맞이하기 마련이며, 검사와 마주한 전투는 말할 필요도 없을 것이다.
+	    다만, 이런 전통을 탈피한 검사들도 이베리아의 검술은 드넓은 바다와 같이 광활하고 위험하여, 이를 익히기엔 검사들의 생명이 너무 짧아, 누구도 일생 동안 그 끝을 볼 수 없다는 점을 인정하였다.
+	
+	    정교한 검술과 직접 제조한 독소의 사용에 능한 쏜즈는 전장에서 자신이 맡은 임무를 신속하게 처리하였으며, 아군의 피해를 최소화함과 동시에 최대한의 성과를 획득하였다.
+	    이런 작전 방침은 효율성 측면에서는 나무랄 데가 없으나, 종종 쏜즈 본인이 물의를 빚는 경우가 있었다.
+	    쏜즈의 검술과 약제 제련, 추출 기술은 모두 현지의 어느 성직자로부터 전수받은 것으로, 그는 다른 몇 명의 아이들과 함께 성직자에게 가르침을 받으며 어린 시절과 청소년 시절을 보냈다. 이후엔 성직자로 인해 종교적 동란에 휘말렸고, 이를 기점으로 몇몇 학생들은 서로 다른 길을 걷게 되었다.
+	    훌륭한 검술적 재능을 타고난 오퍼레이터 쏜즈는 약제 제조 방면에서도 뛰어난 재능을 타고났다. 쏜즈는 약의 채취와 정제에 능하며, 그중에서 특히나 독소류를 잘 다루는데, 그가 직접 제조한 신경성 독소는 그 탁월한 효과로 인해 의료부의 오퍼레이터들에게 굉장한 호평을 받기도 했다. 이 밖에도 쏜즈는 다른 약물 제조 방면에서 더 대담한 발상을 하곤 하는데, 이런 발상은 더 나은 결과를 얻을 수도 있으나, 상당수의 경우에는 폭발로 마무리되곤 한다.
+	    그렇다 하더라도 쏜즈는 여전히 행복해하지만 말이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在制作干员档案时，人事部的工作人员往往会从许多不同方向着手进行调查，对干员本人的询问，对其家乡的实地考证，对干员在舰船内活动轨迹的观察以及对其他干员的印象采访，只有综合所有这些能够取得的信息，才能完成对一位干员档案的编写。
+	在这些调查进行的过程中，我们会注意到，来到罗德岛的干员们的性格往往复杂而多面，很难用某种简约的特质来概括，干员棘刺显然也是如此。
+	许多同棘刺有过接触的人，都会对其给出“难以相处”这样的评价，这看似较为负面，然而进一步的调查却显示，许多给出负向评价的干员，仍然与干员棘刺维持着友好的互动与往来，那些能说出棘刺大堆缺点的人，反而与其往来较他人更加频繁，关系更加亲密。
+	令人一边抱怨“难以相处”，一边却仍愿意与之相处，在干员内部人际关系这个问题上，我们最终得出棘刺无需多加关注这一结论。
+	
+	【记录人员补足】
+	长期的观察才更能全面了解干员，这点我同意。
+	但是说实话，我最开始以为这是个酷哥，几个月后我满脑子都是他和那几个...嗯...有点过于...呃...活泼的干员一起做怪模怪样的健身体操的画面，他们成天聊些又怪又傻的话题，会在聊嗨了之后真的动手去实践，做许多奇奇怪怪的东西，甚至还没做成就直接爆炸！这谁能顶得住？怎么还没人来把这几个人都挂到甲板上去？
+	
+	【记录人员补足的补足】
+	已经被挂上甲板了，没什么用。
+	调查期到今天截止，我有一些评价想写在这份档案上，但是上司说太主观了不允许，所以算了。最后一句，他们今天做的药液摔炮挺好玩的。
+
+	第三資料 :
+	オペレーターの資料を作成する際、人事部のスタッフは、本人への聴取や、出身地の現地調査、艦内活動の観察及び他のオペレーターへの聞き込み等、各方面で調査を行う。その後取得した情報をまとめ上げることで、やっとひとりのオペレーターの資料を書き上げることができる。
+	これらの調査中、我々は気づいた。ロドスのオペレーターは皆性格が複雑かつ多面的で、一言で形容することは難しい。そしてそれはソーンズも同じであると。
+	ソーンズと交流があった人は彼を「付き合いにくい」と評価する。しかしこのようなマイナス評価をしたオペレーターの多くは、彼と良好な関係を保っている。ソーンズの欠点を多く述べる人ほど、彼と密な関係にあるのだ。
+	「付き合いにくい」と文句を言いながらも、彼と付き合い続けることを選ぶ。それならばソーンズの人間関係について、特に注意すべきことはない。これが我々が出した結論である。
+	
+	
+	【記録者による補足】
+	長期の観察なくして、オペレーターを理解し得ないことはわかっている。
+	だが、彼のイメージの変化はあまりにも大きすぎる。最初はクールだと思っていた彼が、数ヶ月経った今では、お調子者のオペレーター数名と一緒に変な体操をしているんだ。彼らはいつもくだらない話題でテンションが上がり、そのまま実践として訳のわからないものを作る。その中には完成もしていないうちに爆発したものだってある！こちらからすればたまったもんじゃない！誰かあいつらを甲板に吊るし上げてくれ！
+	
+	【記録者による補足への補足】
+	吊し上げたが、状況の改善が見られない。
+	調査は本日までとなり、その総括として彼への評価についてこの資料に記したいことはまだあるが、上司に主観的過ぎると却下されたので割愛する。最後に一言だけ、彼らが今日薬液で作ったかんしゃく玉はなかなか面白かった。
+
+	Archive File 3 :
+	When putting together operator files, HR Department personnel will often conduct investigations from various directions, such as direct inquiries with the operator, field examinations of their hometown, observation of the operator's behavioral trends within the ship, and interviews with other operators. An operator's profile overview can only be completed by synthesizing all of the available information. 
+	Through these investigations, we've noticed that the personalities of the operators who come to Rhodes Island are almost always complex and multifaceted, almost impossible to reduce down to a list of simple traits, and never exactly the same between two operators. Of course, Thorns is no exception. 
+	Many people who've been in contact with Thorns will describe him as 'difficult to get along with.' While these evaluations seem to reflect poorly upon him, further investigation revealed that many of the operators who gave him these negative evaluations still maintain frequent and friendly interactions with him. Those who are able to see more and more of Thorns's flaws are, conversely, closer to him and have a deeper relationship. 
+	While people complain that Thorns is 'difficult to get along with,' they still make the effort to do so. In regards to the issue of Thorns' interpersonal relationship with other operators, we concluded that there is no need for further monitoring. 
+	
+	[Addendum] 
+	I agree that long-term observation can enhance our understanding of an operator. 
+	But to be honest, I originally thought he was kind of cool, but within a few months, all I could think of was him and his.... uh... how should I put this... lively operators doing all kinds of weird exercises together. They'd talk about wacky topics all day long, and then try to actually build that stuff. Sometimes, their crafts will explode before even being finished! Who's going to be able to keep an eye on a guy like that? How come no one has come to hang these people on deck yet? 
+	
+	[Recorder's Addendum] 
+	We already tried that, but it didn't do anything. 
+	The investigation period ends today. I have some comments I'd like to write on this file, but my boss said they were too subjective, so nevermind. What I will say is, the potion bang snaps they made today were a lot of fun.
+
+	파일 자료 3 :
+	    오퍼레이터 문서를 작성할 때 인사부의 작업 인원들은 각기 다른 수많은 방법으로 조사를 진행한다. 오퍼레이터 본인에게 묻기도 하고, 그의 고향을 현지 조사하기도 하며, 함선 내 오퍼레이터의 활동 궤적을 조사하거나 그 오퍼레이터에 대한 다른 오퍼레이터의 인상을 묻기도 하는 등, 얻을 수 있는 모든 정보를 종합한 후에야 한 명의 오퍼레이터에 대한 문서가 완성되는 것이다.
+	    이러한 조사 과정 속에서 우리는 로도스 아일랜드에 합류한 오퍼레이터들의 성격은 복잡하고 다양하며, 그들의 특징을 간소화하기 어렵다는 것을 종종 깨닫게 되는데, 오퍼레이터 쏜즈 역시 이런 부류에 속한다.
+	    쏜즈와 접촉한 많은 사람들은 하나같이 그에 대해 '함께 지내기 힘든 사람'이라는 평가를 내렸다. 이는 마치 부정적인 평가로 보이지만, 좀 더 조사를 해본 결과, 부정적인 평가를 내린 많은 오퍼레이터들이 쏜즈와 우호적인 관계를 유지하고 있으며, 쏜즈의 결점을 많이 말할 수 있는 사람일수록 오히려 다른 사람에 비해 쏜즈와 보다 친밀하고 빈번한 교류를 하는 것으로 드러났다. 즉, '함께 지내기 힘들다'고 불평하는 한편, 다른 한편으로는 여전히 함께 지내길 원한다는 것이다. 오퍼레이터들 사이의 인간 관계 측면에서 결국 우리는 쏜즈에게 더는 관심 가질 필요가 없다는 결론을 내리게 되었다.
+	
+	[기록인 별첨]
+	    장기간 관찰해야 오퍼레이터를 완전히 이해할 수 있다는 점에는 동의해. 사실 나는 처음에 그 사람이 쿨한 남자인 줄 알았어. 하지만 몇 개월 후 내 머릿속은 온통 그와 몇몇… 음… 조금 지나치게… 음… 활발한 오퍼레이터가 괴상망측한 건강 체조를 하는 모습으로 가득차 버렸다고. 그들은 하루종일 이상하고 바보같은 내용을 떠들더니, 하하 웃고는 정말로 그 짓을 하러 가더라니까? 온갖 기괴한 걸 만들어내는데, 심지어 아직 다 만들지도 않았는데 폭발하더라고! 그걸 누가 막을 수 있겠어? 어째서 아무도 이 사람들을 갑판 위에 매달아 놓지 않은 거지?
+	
+	[기록인 별첨의 별첨]
+	    이미 갑판 위에 매달아 봤지, 아무 소용 없던데.
+	    조사 기간은 오늘로 끝이다. 더 쓰고 싶은 평가가 있지만, 상사가 너무 주관적이라 허락할 수 없다 하니 그만두겠다. 마지막으로 덧붙이는데, 걔네가 오늘 만든 물약 폭죽, 진짜 끝내주게 재밌더라.
+
+———————————————————————————————
+
+	档案资料四 :
+	我们之中来自伊比利亚的干员们很少谈论自己的家乡，这件事并不算是秘密，只要稍加留意就能够察觉。偶尔在提及故乡时，就算是再冷面不善表达的伊比利亚人，也或多或少会流露出一些复杂之意，人们能够从种种细微之处窥见他们的态度。
+	干员棘刺是我们之中少有的，会不遮不掩地对伊比利亚这片土地给出评价的干员之一。相较于其他干员的闭口不谈或含糊言辞，棘刺态度相当坦然，他向我们提供了许多可供参考的信息，其中的一部分与传统认知相似，而另一部分则全然是颠覆性的。
+	这个临海国度在过去时常被与热情、活力、奢豪，以及洒满海岸的阳光联系在一起，那里曾流传有黄金国度的美名，因与拉特兰在宗教上源远的历史联系而时常被一同讨论，然而近些年，这片富饶之地却逐渐沉寂，逐渐淡出人们的视野。
+	
+	【权限记录】
+	对于目前伊比利亚的现状，我们所知甚少。据棘刺所说，在过去几十年中，阿戈尔人在伊比利亚境内的待遇每况愈下，他描述曾经繁荣的城市上空聚起阴云，气氛压抑而凝滞。
+	当地的管理者似乎并不阻止当地的居民离开，但在入境方面却有着严格的限制，罗德岛所属的调查人员在该地区停留多时，暂时还未找到办法进行深入调查。
+	调查部门给出了相关评估，在有必须深入的理由，并且做好相应的准备之前，并不建议贸然进入该地区。
+
+	第四資料 :
+	少し気をつければわかることだが、イベリア出身のオペレーターたちは故郷について語ることはほぼない。たまに故郷のことが話題に上がっても、皆複雑な顔をするだけだ。
+	その中でソーンズは、イベリアへの評価を忌憚なく話す珍しいオペレーターである。彼が沈黙を保ったり誤魔化したりせず平然と話してくれたおかげで、我々はイベリアについて参考価値のある情報を多く得られた。その内容は、伝統的な認識と符合しているもの、古い考えを覆すものなど、さまざまであった。
+	海の幸に恵まれ、熱情と活力、潤沢さ、そして海岸に降り注ぐ太陽の光をイメージさせるイベリアは、かつて黄金郷と呼ばれ、その宗教的歴史の繋がりから、ラテラーノと一緒くたに討論されることも多かった。しかしこれはもう昔のこと。それほど豊かではなくなった近年は、人々の関心の対象ではなくなった。
+	
+	【権限記録】
+	イベリアの現状について、我々は知らな過ぎる。ソーンズの話によると、ここ何十年もの間イベリア境内において、エーギル人の立場は悪くなる一方らしい。かつて繁盛していた町は今や影に覆われ、重苦しい空気に満たされているようだ。
+	国の管理者は住民の出国は認めているが、外来者の入国は厳しく制限しているという。このためロドスの調査スタッフも、未だ国境に足止め状態だ。
+	相応の必要性と準備なくして、イベリアへの入国は控えるべき。これが調査部門の評定である。
+
+	Archive File 4 :
+	Iberians rarely talk about their hometown, and this isn't exactly a secret as long as you pay attention. Occasionally, when you mention their homeland, even Iberians who are generally impassive or stony-faced will show some complex expressions, and these subtle nuances can reveal a lot about their attitudes. 
+	Thorns is one of the few people among us who actually will give an unreserved impression of Iberia. Compared with the silence or vague remarks of the other operators, Thorns actually can give a calm response to our inquiries. He's provided us with a lot of referential information, and while a lot of it is fairly similar to more mainstream conceptions, some of it completely subverts these notions. 
+	In the past, this seaside country was often associated with passion, vitality, indulgence, where sunshine melts into the coast along the horizon. Once widely known for the resplendent beauty of its golden sunlight, this country was often discussed in conjunction with Laterano because of its religious connections. However, in recent years, this rich land has gradually become silent and faded from the public eye. 
+	
+	[Classified Log] 
+	Very little is known about the current state of Iberia. According to Thorns, the treatment of the Ægir in Iberia has gone from bad to worse over the past few decades. He described a once prosperous city as gloomy and stagnant. 
+	The local administrators do not seem to prohibit locals from leaving, but they have enacted tight restrictions on re-entry. Rhodes Island's investigators have been staying near the area for a long time, but have not found a way to conduct an in-depth investigation. 
+	The Investigation Department has reached a similar assessment, discouraging any attempts to rashly enter the area until the need arises to prepare for an in-depth investigation.
+
+	파일 자료 4 :
+	    이베리아 출신의 오퍼레이터들은 자신의 고향에 대해 거의 이야기 하지 않는데, 비밀이라 할 건 없고, 조금만 관심을 기울이면 알게될 수 있는 부분들이었다. 간혹 고향에 대해 언급할 때면, 냉담하고 표현이 서툰 이베리아인이더라 하더라도, 많든 적든 복잡한 심정을 내비쳐, 이런 미세한 부분들을 통해 그들의 변화를 감지할 수 있다.
+	    오퍼레이터 쏜즈는 우리 중 거리낌 없이 이베리아 땅에 대한 평가를 내릴 수 있는 몇 안 되는 사람 중 하나다. 아예 대답을 안 하거나, 애매하게 말하는 다른 오퍼레이터와는 달리, 쏜즈는 태연하게 참고할만한 많은 정보를 제공해 주었는데, 그중 일부분은 상식과 큰 차이가 없기도 했지만, 어떤 부분은 상식을 완전히 뒤엎는 내용이었다.
+	    해안 국가인 이베리아는 한때 사람들로 하여금 언제나 열정과 활력, 부유함, 해안에 쏟아지는 태양빛, 과거로부터 전해 내려온 황금국이란 아름다운 명성을 떠올리게 했다. 또한 라테라노와 함께 역사적 종교적의 발원지로 엮여 늘 토론의 대상이 되곤 하였다. 하지만 최근 몇 년 사이, 이 풍요의 땅은 점차 그 원래 모습을 잃고, 사람들로부터 잊혀가고 있다.
+	
+	[제한된 기록]
+	    이베리아의 현황에 대해 우리가 아는 것은 극히 적다. 쏜즈의 말에 따르면 과거 수십년 동안 이베리아 내부에서 에기르인에 대한 대우는 갈수록 나빠졌고, 과거 번영했던 도시에는 암운이 드리워져 분위기는 갈수록 억압되고 경직되었다고 한다.
+	    현지 관리자는 주민들의 이탈을 전혀 저지하지 않는 듯했으나, 입국 방면에는 오히려 엄격한 제한 조치가 시행되었다. 로도스 아일랜드 소속의 조사인원들은 해당 지역에서 체류 중이며, 현재 심도 있는 조사를 진행할 수 있을 만한 방법을 찾지 못한 상황이다.
+	    조사 부서에서 제출한 평가에 따르면, 반드시 현지 조사를 진행해야 하는 이유와 그에 상응하는 준비를 제대로 갖추기 전에는 경솔히 해당 지역에 진입해 조사하지 말 것을 권고하고 있다.
+
+———————————————————————————————
+
+	晋升记录 :
+	如果每一条指令都被忠实地执行，所得到的结果，是否就精密无缺？
+	实际上，这个问题取决于你究竟有多了解他。要知道，如果没有足够的默契，战斗时总严格计算所有条件、只追求结果的伊比利亚人解决问题的方式，往往不如人所愿。
+
+	昇進記録 :
+	全ての指令がしっかり実行されても、思った通りの結果が出るとは限らない。
+	それなりの結果を出すには、彼を深く理解することが必要である。なぜならイベリア人は戦闘において、すべてを計算しつくしてから行動するからである。呼吸が合っていないと、ちょっとしたことから緻密に立てた計画が崩れ、せっかくの計算が裏目に出てしまうのだ。
+
+	Promotion Record :
+	If every order is executed faithfully, will every result be flawlessly precise as well? 
+	Actually, the answer to this question depends on how well you know him. What you must know is that without sufficient mutual trust, Iberians tend to strictly calculate the conditions of the battlefield and only pursue the results, not necessarily solving problems in a way that others want.
+
+	승진 기록 :
+	    만약 모든 임무가 성공적으로 달성된다면, 이를 통해 얻게 될 결과는 완전무결할까?
+	    실제로 이 문제에 대한 해답은 당신이 그를 얼마나 잘 이해하고 있느냐에 달려있다. 호흡이 잘 맞지 않는다면, 전투 시 모든 조건을 엄격히 계산하고, 결과만을 쫓는 이베리아인의 문제 해결 방식이 종종 당신이 원한 것과는 다를 수 있음을 유념해야 할 것이다.

@@ -1,11 +1,17 @@
 ID:
 	char_201_moeshd
 
-干员代号\Name:
+CV:
 	可颂
 	クロワッサン
 	Croissant
 	크루아상
+
+干员代号\Name:
+	久保百合花
+	久保ユリカ
+	Yurika Kubo
+	쿠보 유리카
 
 招聘合同\Character Usage:
 	企鹅物流特派物流人员可颂，愿意作为重装干员，为罗德岛提供可靠的防御力量。
@@ -43,177 +49,354 @@ ID:
 	마그네틱 해머
 
 语音\Voices:
-	放心吧老板，不论在哪儿我都是您生命安全的保障！对了对了，每次行动前要扫一下这里的码，别忘记哟~
 	旦那さんがどこ行っても、安全はこのウチが保証するでー。それよりな、作戦前には内金をよろしく～、忘れたらアカンで。
 	This here Croissant guarantees yer safety no matter where ya headin', Baws! Oh, 'n payment's upfront! 'Member that!
 	사장님이 얼로 가도, 안전은 마 내가 확실히 보증해주께~ 그것보다, 작전 전에는 선입금 부탁한데이~ 잊어버리면 안돼~
 
-	努力工作，赚取报酬，都是为了提升自己的生活品质嘛。
 	仕事頑張って、よーさん稼いで、ええ暮らしせなアカンな。
 	Make a buncha money by workin' yer butt off! We can't be livin' in no poverty, after all!
 	일 열심히 하고, 돈도 어마어마하이 벌고, 잘 묵고 잘 살아야지 않겠나?
 
-	大家的装备都在闪闪发光！好想摸一下啊～
 	なんや、どいつもこいつも装備がピカピカやないかい！ちょっとウチにも触らせてーな。
 	Yer kiddin'! All yer folks done got such shiny gear on 'em! Lemme have a touch too!
 	뭐고, 이놈도 저놈도 장비가 삐까뻔적하네! 내도 좀 만지게 해도!
 
-	我最喜欢新装备了！无论是看到什么都好想买下来啊。就这样，我陷入了无止境的购物漩涡......
 	新しい装備っちゅーもんは、ホンマええもんやわ。ウチなんかすぐ買うてしまうわ。これが沼っちゅーもんやな。
 	Boy, I really love orderin' new gear! Feels like I bought 'nuff stuff to fill the whole depot! This what they call a 'shoppin' addiction'?
 	새 장비란 게 참 좋은 물건이제. 내같은 사람은 고마 눈깜짝할세에 사삔다니까. 이게 '늪'이란 거구만… 
 
-	为了补贴每个月的花销，我会经常搜集些货物，做点小生意！当然，可都是些物美价廉的好东西哦！
 	毎月毎月、ホンマお金掛かるねん。せやからな、財布の足しにええもん集めて商売してるねん。安くてええもんばかりやで！
 	Every month there's more 'n more bills to pay... 'n that's why I sell some stuff I find on the side! Everythin' I got is cheap 'n high quality!
 	매달 매달 돈이 억수로 많이 든다 아이가. 그래가 지갑에 보탬 좀 되라꼬 좋은 물건들을 모아서 팔고 있지. 다 싸고 좋은 물건들이데이!
 
-	这也是运货，那也是运货，既然都是运货，我当然更愿意搬运些好用的东西，或者美味的食物！
 	どうせ物運ぶんなら、使いやすいもんや美味いもん、そっちを運びたいわ！
 	If we've gotta transport stuff, might as well pick the easy-to-use and yummy-yummy stuff!
 	어차피 물건 옮길꺼면 쓰기 편한거나 맛있는 거, 그런 걸 쫌 옮기고 싶데이!
 
-	老板老板，我找到了特别好吃的东西哦！来尝尝看吧？哼哼，除了装备之外，我可最喜欢美味的食物了！
 	旦那さん旦那さん、ウチなんやエライ美味しそうなモン見つけてんけど食べてみーへん？ウチな、ええ装備の次に美味しいもんが大好きやねん。
 	Baws, Baws! Found this here heckin' tasty thing lyin' around, ya want a bite? Ya ask me, the only thing second to gud gear is gud food!
 	사장님 사장님, 내가 그 뭐고, 겁나 맛있는 걸 찾았는데 한 번 먹어볼래? 내가, 좋은 장비 다음으로 제일 좋아하는 게 맛있는 거거든.
 
-	老板！要不要来看看我刚进的一批货？潮款服装，日用工具，办公用品，武器装备，应有尽有哦！买的越多，折扣越大哦！
 	旦那さん、ちょっと寄っていかへん？ウチが仕入れたもの見ていってな～。シャレオツな服に、日用品から事務用品、装備までなんでもあるで～。いっぱい買うてくれたら、まけたるで。
 	Baws, c'mere for a sec, will ya? Take a look at my wares! From fancy clothes 'n everyday items to office supplies and gear, ya name it, I've got it! Buy in bulk 'n ya get a discount!
 	사장님, 잠깐 들렀다 안 갈래? 내가 사온 거 좀 봐봐~ 때깔나는 옷은 물론이고, 일용품부터 사무용품 그리고 장비까지, 마 뭐든지 다 있다 안카나~ 마이 사주면 디씨해주께.
 
-	老板，谢谢您！为我介绍了这么多的工作！托您的福，以前买不起的东西，现在我都负担的起啦！您是最好的老板！最喜欢您了！
 	旦那さんには、ホンマ感謝やわ。仕事をめっちゃ回してくれはったおかげで、ウチ、欲しいもんみーんな買えてん。ホンマ旦那さん最高やわ！ウチ、大好きやねん！
 	Baws, ya deserve a huge thanks! Thanks to yer work referrals, I can buy all the stuff I ever wanted! Yer the best, Baws! I love ya!
 	사장님한테는 진짜로 감사하고 있데이. 일 빡세게 돌려준 덕분에 내, 원하는 거 전부 살 수 있었다 아이가, 진짜 사장님 최고! 내 사장님 진짜로 좋아한다!
 
-	哎呀~这个月也完蛋了......
 	あちゃ～。アカン、今月もピンチやねん……。
 	Aw shucks, this gon' be 'nother frugal month...
 	아이고야… 안 되겠는데, 이번 달도 개털되뿟네… 
 
-	我是可颂。老板您的运气可真好，能得到我这样安全可靠刀枪不入的优质干员！另外，现在雇佣我的话，还可以给您打八折哦！
 	ウチはクロワッサン。旦那さんは運のええお人やな～。ウチみたいに優秀なんは、なかなかおらんでー。丈夫で長持ち、おまけに料金二割引にしたるわ！
 	My name's Croissant, and by golly yer in luck, Baws! Ya won't find many as good at their trade as I am! I'm strong, last forever, 'n if ya hire me right now, ya get a 20% discount!
 	내는 크루아상, 사장님은 운이 엄청 좋은 사람이네~ 내처럼 우수한 사람은 좀처럼 없다 아이가. 튼튼하고 끈기 있고… 덤으로 요금은 20% 깎아주께!
 
-	变强的话，就能接到更多工作了吧~
 	なんや強なったら、もっとええ仕事できそうやな～。
 	I reckon I'll get more work if I get stronger!
 	이래저래 쎄지면, 더 좋은 일을 할 수 있겠지~
 
-	多亏了老板，我才能得到这么好的岗位，太感谢您了！
 	旦那さんのおかげで、ええ仕事ができてるねん。ほんま感謝やわ。
 	Thanks much for helpin' me get my hands on better work, Baws!
 	사장님 덕분에 일도 잘 하고 안 있나, 정말로 고맙데이.
 
-	老板老板，您发的奖金，我可没有乱花哦。快看快看，这些都是用来保护您的新装备！
 	旦那さん旦那さん、もらったボーナス、めっちゃ有効活用してるねん。な、な、ほら見て見て、旦那さんを守るための装備更新に使ってん！
 	Baws, Baws, I made good use of that there bonus ya gave me! Check it out, I done gotten new gear to protect ya better from now on!
 	사장님 사장님, 보너스 준 거 진짜 유용하게 잘 쓰고 있데이. 자 자 봐봐라, 사장님 지켜줄라고 장비 업그레이드 하는데 썼다 아이가!
 
-	防卫就交给我吧！
 	警備ならまかしとき。
 	Leave the defense to me!
 	경비라면 맡겨만 도!
 
-	大家！让我们漂漂亮亮地完成这次工作吧！
 	みんな、この任務、完璧に果たしてみせるで！
 	Listen, y'all! Let's do this here mission flawlessly!
 	야들아, 이번 임무, 완벽하게 완수해보자!
 
-	一定给老板一个您满意的战果！
 	完璧な戦果をあげてこな！
 	We'll be back with the best results ya ever seen!
 	완벽한 성과를 가꼬 올끼다!
 
-	敌人给咱们送装备来了！
 	なぁ、なぁ、敵が装備を届けに来てくれはったわ！
 	Look at that, the enemy's comin' to donate their gear to us!
 	저 봐봐라, 적이 장비를 가져다주러 왔구만!
 
-	什么什么？
 	なんやなんや？
 	What can I do ya for?
 	뭐고 뭐고?
 
-	让我试试新装备吧！
 	新しい装備試させてもらうわ！
 	Time to try this here new gear!
 	새 장비를 시험해보까!
 
-	嘿咻！
 	よっこらしょっと！
 	H'all righty!
 	영차~!
 
-	到了！
 	着いたで～！
 	Here we are!
 	도착했데이!
 
-	停下！
 	ストップ！
 	Stop!
 	스톱!
 
-	此路不通！
 	ここは通さへんで！
 	Ya ain't gettin' through me!
 	여긴 못 지나간다!
 
-	雷霆一击！
 	サンダークラップや！
 	THUNDERCLAP!
 	썬더클랩이다!
 
-	这招对我没用！
 	そんなもん、ウチには効かへんし！
 	That ain't gon' work on me!
 	그런 거, 내한테는 안 통하거든!
 
-	敌人有没有掉落宝箱什么的呢？
 	敵の連中、なんか宝箱とかええもん持ってへんかな？
 	Ya reckon the enemy dropped a treasure chest or somesuch?
 	적 아들, 뭔가 보물상자 같은 좋은 것 좀 안 갖고 있을랑가?
 
-	耶～任务完成！
 	やったー、任務完了や！
 	Yeehaw! Mission accomplished!
 	아싸~ 임무완료다!
 
-	欸，敌人逃跑了，我的业务信誉又要下跌啦......
 	アカン、敵逃してもーた。ウチのクチコミが下がってまうわ……。
 	Dagnabbit... the enemy got away! My reputation's gon' suffer...
 	아이고야, 적 노치뿟네. 내 평판이 떨어지겠구만… 
 
-	太糟了，不光输了战斗，还弄丢了钱包......
 	しまったわ～。負けてしもたから、財布までなくしてしまったわ……うう……。
 	Aw, shucks... My wallet's gon' take a hit from this loss...
 	당했다~ 져삐리가, 지갑까지 이라뿟네… 우으으… 
 
-	这里有没有宝箱？
 	ここにも宝箱は眠ってるん？
 	Ya got any treasure chests hidin' 'round here?
 	여기에도 보물상자가 잠들어있을랑가?
 
-	嗯？
 	なんや？
 	Hmm?
 	와?
 
-	老板老板，有什么好东西吗？也给我看一下！
 	旦那さん旦那さん、何かめっちゃすごいもんとか持ってへんの？ウチにも見せてーや～！
 	Baws, Baws, got any cool stuff on hand? C'mon, I wanna see!
 	사장님 사장님, 요즘 뭐 재미난 거 얻은 거 없나? 내도 좀 보여도!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	老板~欢迎光临！
 	旦那さん、いらっしゃい！
 	Howdy, Baws!
 	사장님, 어서온나!
+
+干员档案\Background:
+	基础档案 :
+	【代号】可颂
+	【性别】女
+	【战斗经验】一年
+	【出身地】米诺斯
+	【生日】9月29日
+	【种族】丰蹄
+	【身高】163cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】クロワッサン
+	【性別】女
+	【戦闘経験】一年
+	【出身地】ミノス
+	【誕生日】9月29日
+	【種族】フォルテ
+	【身長】163cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Croissant
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Minos 
+	[Date of Birth] Sep. 29 
+	[Race] Forte 
+	[Height] 163cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 크루아상
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 미노스
+	[생일] 9월 29일
+	[종족] 포르테
+	[신장] 163cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】普通
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Normal 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	企鹅物流员工，于合约期内任企鹅物流驻罗德岛外派干员。 擅长防守，能同时牵制数个敌人，并拥有怪力，能用巨锤轻松击飞瘦弱的敌人。
+
+	個人履歴 :
+	ペンギン急便のメンバー。契約期間中はペンギン急便からの駐在員としてロドスに従事する。防衛が得意で、数人の敵を同時に牽制することができる。また、怪力の持ち主であり、巨大なハンマーで雑魚敵を一掃することもできる。
+
+	Profile :
+	Croissant, a member of Penguin Logistics, is a proficient defender who is able to hold back several enemies at once. She also possesses monstrous strength, able to send lesser enemies flying with her massive hammer.
+
+	프로필 :
+	    펭귄 로지스틱스의 직원. 계약 기간 중 펭귄 로지스틱스의 로도스 아일랜드 파견되어 디펜더로 활약 중이다. 방어에 능하며, 동시에 다수의 적을 견제할 수 있다. 괴력의 소유자로서, 망치를 사용하여 가볍게 허약한 적들을 날려버릴 수 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员可颂没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员可颂有时会递送含源石成分的包裹或售卖源石制品，但至今尚未因此致病。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	クロワッサンはまれに源石成分が含まれる荷物の配達、または源石製品の販売をしているが、まだ発病していない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Croissant showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L 
+	Operator Croissant sometimes delivers packages or sells goods with Originium content, but it has not caused infection to date.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 크루아상으로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 크루아상은 때때로 오리지늄 성분이 함유된 물건을 배송하지만, 아직까진 감염을 일으킨 적은 없다.
+
+———————————————————————————————
+
+	档案资料一 :
+	充满活力的信使少女。
+	认为工作的目标就是为了提高生活品质和买买买，全心享受着现代生活。
+	对金钱并不执着，但因为总是入不敷出，所以总是在寻找着赚钱的机会，经常能看到她在基地内摆摊的身影。
+
+	第一資料 :
+	元気いっぱいのトランスポーター。
+	生活レベルを上げることと爆買いすることが仕事へのモチベーションになっており、現代人の豊かな生活を満喫している。
+	金銭に執着心はないが、常に金欠のため稼ぐことに力を入れている。基地でよく屋台を開いている。
+
+	Archive File 1 :
+	An energetic messenger. 
+	She believes that the purpose of work is to improve one's quality of life, and that  shopping is the best way to improve her life. 
+	She isn't hung up on money, but she does enjoy living paycheck-to-paycheck while jumping on opportunities to make a quick profit. She can often be seen hawking goods in various places.
+
+	파일 자료 1 :
+	    전달자로서 근무 중인 활기찬 소녀. 일하는 목적은 생활 수준 향상 및 쇼핑으로, 현대 생활을 즐기는데 심취해 있다. 돈에 집착하는 편은 아니지만, 늘 수입보다 지출이 많은 관계로 언제나 돈을 벌 수 있는 기회를 찾고 있다보니, 기지 내에서 그녀가 자리를 펴고 물건을 파는 모습을 자주 발견할 수 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	信使的工作通常分为两种，一种是传递信件或者信息，另一种则是传递货物。
+	前者需要速度，而后者，则往往需要力气和耐性。在企鹅物流中，可颂小姐显然主要负责后一种的信使工作。
+	而且，需要指出的是，即使作为丰蹄，可颂小姐的怪力也是惊人的。她能够单手挥舞那把几十公斤的磁暴锤，另一只手还能使用重盾，这对她来说是如同呼吸一样简单的事。
+
+	第二資料 :
+	トランスポーターの仕事は、主に二つに分かれている。一つは手紙または情報の伝達、もうひとつは荷物の配達である。前者にはスピードが求められ、後者には力と根性が必要。ペンギン急便の中で、クロワッサンは主に後者を担当している。
+	特筆すべき点は、彼女はフォルテの中でも屈指の怪力を持っている点である。彼女は片手で数十キロのハンマーを振りかざしながら、もう片手で重盾を使うことが簡単にできる。
+
+	Archive File 2 :
+	Messengers usually get two kinds of work: Delivering mail and messages, or transporting cargo. 
+	The former requires speed; the latter, strength and endurance. In Penguin Logistics, Croissant was an obvious stand-out in the latter. 
+	Also notable, Croissant is extraordinarily strong even for a Forte. Swinging a hefty hammer in one hand while carrying a heavy shield in the other is as simple as breathing to her.
+
+	파일 자료 2 :
+	    전달자의 업무는 보통 두 가지로 나뉜다. 첫째는 우편물이나 소식을 전달하는 일이고, 둘째는 화물을 전달하는 일이다. 전자는 속도가 생명이고, 후자는 힘과 체력이 필요하다. 펭귄 로지스틱스에서 크루아상은 당연히 후자에 속하는 업무를 주로 담당하고 있다. 주목해야 할 점은 아무리 포르테 족 출신이라곤 하지만, 그녀의 괴력은 정말 놀랄만한 수준이란 것이다. 그녀는 한 손으로 거뜬히 수십 킬로에 달하는 마그네틱 스톰 망치를 휘두르며, 다른 한 손으로는 묵직한 방패를 들고 있는데, 이는 그녀에게 있어선 숨 쉬는 것 처럼 간단한 일이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	企鹅物流虽然规模不大，但在龙门之中拥有相当的灰色地位，和各方都有所接触。
+	因此，利用了这些渠道来收集货物的可颂小姐，她不定时开张的店铺事实上是不容小觑的。说不定在其中，就能发现一些不得了的东西。
+	——当然，如果真的有的话，最好不要让可颂小姐察觉，不然的话，她可不会在价格上客气。
+
+	第三資料 :
+	ペンギン急便は小規模だが龍門ではかなりグレーゾーンな会社であり、様々なところとつながりがある。
+	そのため、それらのルートを利用し貨物を集めるクロワッサンが不定期に営業する店は目を見張るものがあり、何か掘り出し物が見つかるかもしれない。
+	——もちろん、本当にあったならば、クロワッサンに気づかれてはいけない。さもなくば、かなり高値でふんだくられる。
+
+	Archive File 3 :
+	While not a big operation, Penguin Logistics is well-connected at all levels in Lungmen. 
+	Thus, taking advantage of the channels back home, Croissant's irregular hawking ventures could be a treasure trove that just might offer rarities you wouldn't find anywhere else. 
+	Of course, don't let Croissant know if you did spot a valuable item, or she will wring your wallet.
+
+	파일 자료 3 :
+	    펭귄 로지스틱스는 규모는 크지 않지만 용문 내에선 꽤나 영향력 있는 중립 집단으로, 다양한 국가 및 세력들과 모두 연계되어 있다. 크루아상은 이렇게 특별한 루트로 화물을 수집하고 있기에, 그녀가 가끔 한 번씩 여는 노점을 과소평가해선 안된다. 어쩌면 개중에는 정말로 엄청난 물건을 발견할 수 있을지도 모르기 때문이다. 물론 정말 그런 게 존재한다면, 크루아상이 알아채지 못하도록 해야 할 것이다. 그렇지 않으면 그녀는 절대 가격을 깎아주지 않을 테니 말이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	即使成为了干员，可颂小姐也完全不打算放弃她在日常生活中的兴趣爱好。
+	她知道成为干员后要面临许多前所未有的危险，她也知道成为干员后会遇到很多笑不出来的事，她没有忽视这些，而是在此之上，她依然会是那个精打细算的都市少女。
+	这或许只是温室中花朵的初生牛犊不怕虎，但罗德岛吸收民间干员的本意，也绝不是出于想让他们认识到世界的残酷这样愚蠢的理由。倒不如说，罗德岛之中已经有太多不幸的人，需要有可颂小姐这样可爱的人去告诉他们，幸福而正常的生活是什么样的。
+	当然，不幸的人或许会去仇恨幸福的人，但这种事，至少绝不会发生在罗德岛之中。
+
+	第四資料 :
+	ロドスのオペレーターになったとしても、クロワッサンは趣味を諦める気はない。
+	これから先に未曾有の危険が待ち受けていることも、いつものように笑えなくなることが多々あることも分かっている。でも彼女は見て見ぬふりなどせず、依然として計算高い少女のままだろう。もしかしたらただの怖いもの知らずなだけかもしれない。だが、ロドスが民間からオペレーターを採用するのは、決して世界の残酷さを味わわせたいという愚かな理由ではない。むしろ、ロドスには既に不幸な人が沢山いる。彼らはクロワッサンのように天真爛漫な子から、当たり前で幸福な生活とはどんなものなのかを学んでほしい。
+	もちろん、不幸な人間は幸福な人間を憎むことはあるかもしれないが、ロドスではそんなことは決して起こらないだろう。
+
+	Archive File 4 :
+	Even as an Operator, Croissant has no plans to give up her hobbies and interests. 
+	She knows an Operator will face unprecedented danger and see many unfortunate events. Nevertheless, she is still a city girl who counts her pennies. 
+	Maybe Rhodes Island recruits civilian Operators because they're not jaded and thus fearless, but it's definitely not because they should be exposed to the cruelty of the real world. It's more like the island have many unfortunate people who needed someone as adorable as Croissant to show them what a normal, blissful life is like. 
+	Of course, the unfortunate or hateful may begrudge the blessed, but at least it never happens at Rhodes Island.
+
+	파일 자료 4 :
+	    오퍼레이터가 되었다곤 하지만, 크루아상은 자신의 취미를 포기할 생각이 없다. 그녀는 오퍼레이터가 된 후 예측할 수 없는 미래의 위기와 맞서야 한다는 걸 알고 있으며, 웃기만은 할 수 없은 일들을 많이 겪게 될 것이란 것도 알고 있다. 그녀는 이런 점들을 경시하지 않고, '도시 소녀'답게 이런 점들에 대하여 면밀히 계획을 세워 대비하고 있다. 로도스 아일랜드가 범이 무서운 줄 모르는 하룻강아지같은 민간 오퍼레이터들을 받아들이는 이유는 절대 이들에게 세상의 잔혹함을 맛보게 해주려는 것과 같은 바보스런 이유가 아니다. 로도스 아일랜드 내에는 불행한 사람들이 이미 엄청나게 많이 있기에, 크루아상과 같이 사랑스러운 사람들이 그들에게 행복함과 정상적인 삶이란 무엇인지 알려줘야 할 필요가 있기 때문이다. 물론, 불행한 사람들은 행복한 사람들을 증오할 수도 있다. 다만 이런 상황은, 적어도 로도스 아일랜드 내에서는 절대 일어나선 안될 것이다.

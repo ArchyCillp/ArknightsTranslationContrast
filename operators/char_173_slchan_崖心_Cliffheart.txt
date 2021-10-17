@@ -1,11 +1,17 @@
 ID:
 	char_173_slchan
 
-干员代号\Name:
+CV:
 	崖心
 	クリフハート
 	Cliffheart
 	클리프하트
+
+干员代号\Name:
+	白石涼子
+	白石涼子
+	Ryoko Shiraishi
+	시라이시 료코
 
 招聘合同\Character Usage:
 	罗德岛干员崖心，作为特种干员，同时具备登山家的坚韧和战士的敏锐。
@@ -43,177 +49,343 @@ ID:
 	바인딩 체인
 
 语音\Voices:
-	唔......博士，你是不是有点缺乏运动啊。
 	うーん、ドクター、ちょーっと運動不足だと思うよ。
 	Uh... Doctor, you really need to work out more, you know.
 	으음… 박사, 조금 운동부족인 거 같아.
 
-	罗德岛的大家都很和善，即使我想做恶作剧都有点不忍心下手呢......啊，吃饭的时间到了，我去帮忙！
 	ロドスのみんな、とーっても優しいから、いたずらしたくてもなんだか悪くってできない……あ、ご飯の時間だ！手伝ってくるね！
 	Everyone's really nice here at Rhodes Island. I'd feel bad if I played a prank on them. Oh, is it time for lunch? I'll help prepare!
 	로도스 아일랜드 사람들은 다들 착해서 그런지, 장난을 좀 치려고 해도 미안해서 못 하겠어… 아, 밥시간이다! 도와주고 올게!
 
-	登山可不只是我的兴趣而已，而是事业哦！事！业！
 	山登りは遊んでるんじゃなくて、お仕事なの！お！し！ご！と！
 	Mountaineering's not just a hobby of mine, it's my job! You heard me: job!
 	등산은 취미가 아니라 직업이라고! 직! 업!
 
-	腿上的环？啊，你是问这个环是怎么回事吗？这只是个装饰品啦~因为这里有块结晶嘛。想摸摸看吗~？
 	脚の輪っか？あ、このガーターリングがどうかした？これはただのアクセサリーだよ～。ここには結晶があるからね。触ってみる～？
 	The hoop on my leg? Oh, you mean what it's for? It's just for decoration. I've got this crystal over here, see. Wanna touch?
 	다리에 달린 고리? 아, 이 가터링이 왜? 이건 그냥 액세서리야~ 여기 결정이 있거든. 만져볼래~?
 
-	角峰叔其实是老哥派来保护我的吧......这个老哥真是不坦率，啊啊，想想就来气！
 	ヤーカおじさんって、本当はお兄ちゃんがあたしを守るために遣わせたんだよね……お兄ちゃんってばほんっと素直じゃないんだから！も～！ムカつく！
 	Did my brother send Mr. Matterhorn to protect me? Aw, why couldn't he just come out and say he's worried about me?
 	야카 아저씨는 사실 오빠가 날 지켜준다고 나한테 보내준 거야… 오빠도 참, 솔직하지 못하다니까! 정말이지~! 짜증 나!
 
-	我从小就想爬上喀兰圣山看看——自从姐姐成为圣女离我们而去之后，这想法就越来越强烈......博士，多多的锻炼我吧，总有天我要爬上它的顶峰，把姐姐接回家。
 	ちっちゃい時からずっとカランドに登ってみたかったんだ。お姉ちゃんが巫女になって出て行ってから、その気持ちはどんどん強くなって……。だからドクター、あたしをいーーーーっぱい鍛えて！いつか絶対山頂まで登って、お姉ちゃんを迎えに行くんだから！
 	I've always wanted to climb the holy Mt. Karlan, and the desire only grew since my sister left us and became the Saintess. So Doctor, train me more, yeah? So that one day I'll reach the peak of Mt. Karlan and bring my sister home.
 	꼬맹이 때부터 계속 카란에 올라가 보고 싶었어. 언니가 성녀가 돼서 떠나간 다음부턴, 그 생각이 점점 강해져서… 그러니까 박사, 날 잔~뜩 단련시켜줘! 언젠가 반드시 산 정상에 올라가서, 언니를 마중 나갈 테니까!
 
-	在登山领域，我可是不会输给任何人的！毕竟没有人比我更熟悉手上的工具了，就连作为武器，都是它们更顺手呢。
 	山のことに関しては、誰にも負けない！この道具のことだって、あたしより詳しい奴はいないんだから！武器としても全然使いやすいしね！
 	When it comes to hiking, I won't lose to anyone! No one knows these tools better than me. They make great weapons too!
 	산에 관해서라면 누구한테도 지지 않아! 이 도구도 나만큼 잘 아는 녀석은 없다고! 무기로 쓰기에도 엄청 편하고 말이야!
 
-	是啊，矿石病彻底改变了我。但就此消沉下去的话，我才真的不是我了吧？无论未来怎么样，自己决定的事情，就该自己去努力完成嘛。
 	確かに、鉱石病のせいで、色んなものが変わっちゃった。けど、このまま落ち込んでたら、それこそあたしらしくないでしょ？どんな未来が待ってるとしても、あたしは決めたことを最後までやるしかないんだから。
 	Yeah, Oripathy really changed me. But if I keep wallowing in self-pity, that wouldn't be like me, right? So, no matter what lies in wait in the future... I should continue working hard on my chosen path.
 	확실히, 광석병 때문에 많은 게 변해버렸지. 그래도, 이런 걸로 의기소침해하면 그게 더 나 답지 않잖아? 어떤 미래가 기다린다고 해도, 내가 정한 걸 마지막까지 해보는 수밖에 없으니까.
 
-	下雪了呢。......希瓦艾什一家永远回不到过去，我明白的。一切都和过去不一样了。除了雪......和故乡一样的，一片片的雪。
 	雪だね……わかってる、お兄ちゃんもお姉ちゃんもあたしも、もう昔のようには戻れないんだって。何もかも……変わっちゃった。でも雪だけは……昔故郷で見たのと変わらないね。
 	Ah, it's snowing... We of the SilverAsh family will never get to return to the past... I understand that. Everything's changed. Only the snow remains the same—the same snowflakes that I've watched fall in my hometown.
 	눈이 오네… 알고 있어, 오빠도 언니도 나도, 이제 예전으로 돌아갈 순 없다는 걸. 모든 게… 다 변해버렸어. 그래도 이 눈만은… 예전에 고향에서 본 거랑 똑같네.
 
-	博——士！博——士啊啊！真是的，既然睡着了就没办法了！Bye-bye！
 	ドークーター！ドークーターってばー！もー、寝てるならもういいや！——バイバイ！
 	Doctoooor? Doctooooor! Heeeey! Fine, if you're just gonna sleep, then so be it. Bye-bye!
 	박~사~아! 박~사~도 참~! 정말이지, 자고 있으면 별수 없지! 바이바이!
 
-	我就是将要触摸天际的崖心，请多关照！
 	世界の山頂にその名が轟くっ！クリフハートとはあたしのことだよっ！よろしく～！
 	I'm Cliffheart, the one who dreams to touch the sky! Nice to meet you!
 	전 세계의 산 정상에 이름을 떨친다! 내가 바로 그 클리프하트야! 잘 부탁해~!
 
-	嗯——很新奇的体验呢。
 	うーん——なんか新感覚。
 	Hmm... what a novel experience!
 	으음~뭔가 새로운 느낌인데.
 
-	晋升？好哇！我们吃个蛋糕庆祝下吧！好吧？看，从后勤组那儿顺手拿来的，不要紧的！
 	ショーシン？やったー！ケーキ食べてお祝いしよ！いいよね？ね！ほら、補給部からパクって来たのがあるから、大丈夫！
 	Promotion? Wow! Let's celebrate with some cake. Look, I grabbed these from the logistics unit. It's fine!
 	승진? 아싸~! 케이크 먹으면서 축하하자! 그래도 되지? 그치? 자, 후방 지원부에서 꿍쳐왔던 게 있으니까, 괜찮아!
 
-	嘿，博士挺有眼光的嘛。确实，我可是超强的，你要好好运用我的力量哦！
 	へー、ドクターも見る目あるね。確かにあたしってすっごく強いからね。あたしの力、ちゃんと使ってよね！
 	Well, well, you really know what you're doing, Doctor! That's right, I'm really talented. You'd better use my power well!
 	헤에~ 박사도 보는 눈이 있네. 하긴 난 엄청 강하니까 말이야. 나의 힘, 제대로 써달라고!
 
-	好，干劲涌上来了！一口气登上最高峰吧！
 	よーし、やる気ぜんかーい！山頂まで一気に行くよっ！
 	All right? I'm feeling motivated! Time to climb all the way to the top!
 	좋아, 의욕 일발장전! 산꼭대기까지 단숨에 가보자고!
 
-	唉？？突然就让我领导大家什么的，这......
 	えー、みんなの指揮するの？あたしが？いきなりすぎだよ……。
 	Eh? You want me to be the leader? But that's so sudden...
 	엥, 모두를 지휘하라고? 내가? 너무 갑작스럽잖아…… 
 
-	接下来可不能粗心大意了，要认真对待。
 	ここからは油断禁物！しっかりしなきゃ。
 	No more being careless. I'll be serious from now on.
 	여기서부터 방심은 금물! 정신 차려야지.
 
-	我可不会手下留情！
 	手加減はしてあげないから！
 	I'll show them what I can do!
 	봐주지 않을 거야!
 
-	在呢！
 	はーい！
 	Here!
 	네에~!
 
-	这里吗？
 	ここだね？
 	Over here?
 	여기지?
 
-	交给我吧！
 	まっかせてー！
 	Leave it to me!
 	맡겨줘~!
 
-	完全没问题！
 	ばっちしオッケー！
 	I'm raring to go!
 	완전 오케이~!
 
-	逮·住·你·了！
 	つーかまーえーたっ！
 	I'veeee got yoooou!
 	잡~았~다!
 
-	一钩一个，轻轻松松~
 	百発百中、らっくしょ～！
 	My hook never misses! I've got this!
 	백발백중, 간단하지~!
 
-	门外汉只会摔下万丈深渊！
 	素人は崖から落ちちゃうって決まってるんだよ！
 	Amateurs are doomed to fall to their death!
 	풋내기는 절벽에서 떨어지게 되어있다고!
 
-	以希瓦艾什之名起誓——！
 	シルバーアッシュの名に誓って――！
 	In the name of SilverAsh!
 	실버애쉬의 이름을 걸고!
 
-	世上没有无法攀登的山峰，也没有无法跨越的绝境！
 	登頂できない山はないし、越えられない窮地もないんだから！
 	There ain't no mountain too high, no situation too bleak!
 	오르지 못할 산은 없고, 뛰어넘지 못할 궁지는 없다고!
 
-	有我在，这不是理所当然的嘛！
 	こんなのあったりまえでしょー！このわたしがいるんだから！
 	It's only natural that we'll win with me here!
 	이 정돈 당연하지~! 내가 있잖아!
 
-	啊，逃的可真快！
 	もー！足だけは早いんだから。
 	Wow, they sure are good at running away!
 	정말~! 도망치는 거 하나는 빠르다니까.
 
-	唔......我是不是出丑了......
 	うっ……情けない……。
 	Dangit... I messed up...
 	으윽…… 쪽팔려…… 
 
-	真暖和呢，我就在这窝会儿好了~
 	ここ、あったかいね。まったりしちゃおー。
 	It's so warm here... I'll hang out over here for a while!
 	여기 따뜻하네. 느긋하게 있어야지~
 
-	等等！别......
 	ま、待って！やっ……。
 	W-wait! Whuah!
 	자, 잠깐! 앗…… 
 
-	博士，下次让我教你登山吧，你一定会喜欢的~
 	ドクター、今度山登りのいろはを教えてあげる。きっと好きになるよ～。
 	Let me teach you all about hiking next time, Doctor! You'll love it, I promise!
 	박사, 다음에 등산의 기초를 알려줄게. 분명 좋아할 거야~
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早安哦，博士~
 	おはよー、ドクター！
 	Mornin', Doctor!
 	좋은 아침, 박사~!
+
+干员档案\Background:
+	基础档案 :
+	【代号】崖心
+	【性别】女
+	【战斗经验】半年
+	【出身地】谢拉格
+	【生日】11月28日
+	【种族】菲林
+	【身高】163cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】クリフハート
+	【性別】女
+	【戦闘経験】半年
+	【出身地】イェラグ
+	【誕生日】11月28日
+	【種族】フェリーン
+	【身長】163cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Cliffheart
+	[Gender] Female
+	[Combat Experience] Half a year
+	[Place of Birth] Kjerag
+	[Date of Birth] November 28
+	[Race] Feline
+	[Height] 163cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 클리프하트
+	[성별] 여
+	[전투 경험] 반년
+	[출신지] 쉐라그
+	[생일] 11월 28일
+	[종족] 필라인
+	[신장] 163cm 
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Excellent
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	崖心，谢拉格出身，现罗德岛干员。攀岩与登山方面的专家，能熟练使用各种攀爬工具。现于罗德岛接受矿石病治疗。
+
+	個人履歴 :
+	クリフハートはイェラグ出身で、ロドスの現役オペレーター。ロッククライミングと登山の専門家で、様々な登攀用の道具を使いこなす。現在はロドスで鉱石病の治療を受けている。
+
+	Profile :
+	Cliffheart is a Rhodes Island Operator who was born in Kjerag. She is a specialist in rock and mountain climbing and is proficient with all kinds of climbing tools. Currently she is undergoing treatment for Oripathy at Rhodes Island.
+
+	프로필 :
+	    쉐라그 출신의 클리프하트는 현재 로도스 아일랜드에서 오퍼레이터로 활동하고 있다. 암벽 등반과 등산 쪽으로는 타의 추종을 불허하는 전문가로, 클라이밍 장비를 자신의 수족처럼 자유자재로 다룬다. 현재는 로도스 아일랜드에서 광석병 치료를 받고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体内源石融合度】7%
+	由于为源石直接穿刺感染，崖心在被穿刺处有明显源石结晶。
+	
+	【血液源石结晶密度】0.28u/L
+	病程正在向中期过渡，但尚未对感染对象产生明显的影响。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7%
+	源石結晶が体表に突き刺さったことによる感染のため、その痕跡には源石結晶が顕在している。
+	
+	【血液中源石密度】0.28u/L
+	病状は中期に差し掛かったところだが、まだ感染者に明らかな影響は生じていない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 7%
+	Due to puncturing by an Originium stone, Operator exhibits visible Originium crystals at the puncture site.
+	
+	[Blood Crystal Density] 0.28u/L
+	Course of infection is transitioning to the middle-term but has not yet had a significant impact upon the infected.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음, 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 7%
+	오리지늄에 직접 찔려 감염된 관계로 찔린 곳에 명확한 오리지늄 결정 존재.
+	
+	[혈중 오리지늄 결정 밀도] 0.28u/L
+	 병증이 중기로 넘어가고 있으나, 아직 감염 대상에 명확한 영향을 주고 있지는 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	崖心是天生的探险家和攀登者，她的反射神经与耐力远超大多数人的想象，借助简单的道具，崖心能够跨越令常人止步的天堑。比起传统的刀剑，崖心更加擅于使用她手边那些登山道具，因此在上战场时，她就将这些物品作为武器了。不要质疑雪铲和冰凿的威力，在合适的人手中，它们将会是许多人的梦魇。
+
+	第一資料 :
+	クリフハートは天性の探検家、クライマーであり、彼女の反射神経と耐久力は想像を遥かに超える。簡単な道具さえあれば、クリフハートは普通の人なら立ちすくんでしまうような絶壁も乗り越えてしまう。伝統的な刀剣よりも、手に馴染んでいる登山道具を扱うほうが得意で、戦場でもこれらを武器として戦う。一見威力のない雪スコップやアイスピックでも、使いこなせる人の手にかかれば多くの敵に悪夢を見せることができる。
+
+	Archive File 1 :
+	Cliffheart is a natural explorer and climber. Her reflexes and endurance far exceed what normal people could think possible. With even the simplest of items, Cliffheart is capable of traversing obstacles that would stop most people in their tracks. Cliffheart is more comfortable using her climbing instruments than a traditional melee weapon. Even on the battlefield, she uses these tools as weapons. Don't question the power of her snow spade or ice pick - in the hands of the right person, even instruments such as these can be lethal.
+
+	파일 자료 1 :
+	    클리프하트는 타고난 탐험가이자 등반가다. 그녀의 반사 신경과 인내력은 대다수 사람들의 상상을 초월한다. 그녀는 간단한 도구만 있어도 보통 사람들이 접근조차 할 수 없는 험준한 지형을 가뿐히 넘을 수 있다. 그렇기에 그녀는 전통적 도검보다 늘 휴대하는 등산 도구를 훨씬 더 잘 다룬다. 전장에서도 이 도구들을 자신의 주무기로 사용하는데, 그녀의 눈삽과 아이스픽의 위력은 의심할 여지가 없을 정도다. 능숙한 사람이 사용하기만 하면, 이 도구들은 적들에겐 악몽과도 같은 존재가 될 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	崖心在试图攀登圣山时遭遇山崩，被一枚源石刺穿大腿，从而就此成为了感染者的一员。万幸的是，谢拉格的人们大多数都没有对感染者的偏见，崖心也就仍能如往常一样生活。为了让自己身上的源石结晶不显得那么突兀，她用一种巧妙的方法把它隐藏了起来。这样一来，即使是在谢拉格以外的地区，她也能够自由活动了。
+
+	第二資料 :
+	クリフハートはカランド山を登ろうとしていた時に山崩れに遭い、源石に太ももが突き刺さってしまったことから感染者になってしまった。幸いにも、イェラグの人々のほとんどは感染者に対しての偏見がなく、クリフハートは感染後も同じような生活をすることができた。体についている源石結晶が目立たないように、カモフラージュしている。これによりイェラグ以外の地域でも、彼女は自由に行動できる。
+
+	Archive File 2 :
+	While attempting to climb the holy mountain, Cliffheart was pierced by an Originium stone during an unexpected landslide and thus became Infected. Fortunately, most of the people of Kjerag hold no prejudice against the Infected, and Cliffheart still managed to lead a normal life. Still, in order to make the Originium crystals on her body not appear so conspicuous, she takes clever steps to hide it. Thus, even outside Kjerag, she is free to move as she pleases.
+
+	파일 자료 2 :
+	    클리프하트는 성산 등반 도중 산사태를 만났는데, 이 과정에서 오리지늄이 허벅지를 관통 당해 감염자가 되었다. 다행히도 쉐라그의 사람들은 대부분 감염자에 대한 어떤 편견이 없었기에, 클리프하트의 생활에는 별 다른 변화가 없었다. 자신의 피부 위에 있는 오리지늄 결정을, 너무 적나라하게 보이지 않도록 교묘하게 감춰버렸다. 이렇게만 하면 쉐라그가 아닌 다른 지역에서도 자유롭게 활동할 수 있었기 때문이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	作为希瓦艾什家的一员，虽然不像兄长和姐姐那般位高权重，但她依旧会是万人瞩目的焦点。和被职位束缚的哥哥姐姐不同，崖心能够自由自在说话行动，因此，她时常和普通人混在一起，倾听他们的故事，了解他们的生活，学习他们的技巧，然后在力所能及的地方为整个家族做出贡献。
+
+	第三資料 :
+	シルバーアッシュ家の一人として、兄や姉のような高い地位にいなくても、人々の注目の的だ。職責に束縛されている兄姉とは違い、クリフハートは自由に発言をすることができる。いつも人々に交じって彼らの話に耳を傾け、彼らの生活を知ったり、スキルを学んだり、自らの力の及ぶところで家族に貢献している。
+
+	Archive File 3 :
+	As a member of the Silverash Family, she garners a lot of attention despite not appearing as elite as her older brother and sister. Unlike her siblings, she is not bound by any official position and thus is free to speak. Therefore, she often mingles with the common people, listening to their stories, learning about their lives, and studying their skills. She then uses these things she's learned to contribute to her clan.
+
+	파일 자료 3 :
+	    실버애쉬 가문의 일원으로서, 비록 오빠나 언니처럼 지위가 높고 대단하진 않았지만, 그녀는 여전히 대중의 주목을 받는 존재였다. 직위에 묶인 오빠나 언니와 다르게, 클리프하트는 자유롭게 말하고 행동하였다. 그녀는 늘 일반 사람들과 함께 생활하고, 그들의 이야기를 귀담아듣고, 그들의 기교를 배웠다. 그리고 능력이 닿는 곳에서 가문 전체를 위해 공헌하였다.
+
+———————————————————————————————
+
+	档案资料四 :
+	希瓦艾什一家人过去的和谐随着初雪当上圣女而终结，银灰无法坦率对待崖心，初雪则因为职位原因鲜少和另外两人交流，崖心对此很是气愤，但她也明白三人已经无法和好如初，自己无论做什么都无济于事，由此产生的无力感，是唯一会让她颓丧的事物。然而，若是有机会能让哥哥和姐姐再次握手言和，她绝对会为之做任何事。
+
+	第四資料 :
+	シルバーアッシュ家の仲睦まじさは、プラマニクスが巫女になったことで終わりを迎えた。シルバーアッシュはクリフハートに包み隠さず向かい合う手立てがなく、プラマニクスは職位によって二人との交流が少なくなった。クリフハートはこのことに憤慨しているが、三人の仲が良かった頃のようには戻れないことや、自分が何をしても無駄だということを分かっている。これが、明るい彼女から笑顔を奪った原因だ。しかし、もし兄と姉が再び手を取り言葉を交わす機会があるならば、彼女は絶対に尽力するだろう。
+
+	Archive File 4 :
+	Whatever peace the Silverash Family had came to an end when Pramanix was anointed saint. SilverAsh could no longer interacted with Cliffheart in the open, and Pramanix couldn't communicate with either of them because of her newfound official position. This made Cliffheart furious, but she understood that there was no way for the three of them to be as they once were. There was nothing she could do to fix the situation, and this feeling of helplessness made her disheartened for the first time in her life. Still, if there were anything she could do to reunite with her brother and sister, she gladly do what it takes.
+
+	파일 자료 4 :
+	    실버애쉬 가족의 화목했던 날들은 프라마닉스가 성녀로 선택되면서 막을 내렸다. 실버애쉬는 솔직하게 클리프하트를 대할 수 없게 되었고, 프라마닉스 역시 직위 상의 이유로 두 사람과의 교류가 줄어들었으며, 이에 대해 클리프하트는 매우 분노했다. 그러니 그녀 역시 세 사람이 예전처럼 다시 가까워질 수 없다는 것을 알고 있었고, 자신이 어떤 노력을 하든 이 상황을 바꿀 수 없다는 사실도 이해하고 있었다. 이로부터 온 무력감은 그녀를 의기소침하게 만드는 유일한 것이었다. 오빠와 언니를 다시 손잡고 화해시킬 수 있는 기회가 생긴다면, 그녀는 분명 무슨 일이든 할 것이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	崖心总给人一股开朗乐观的感觉，但在内心里，她的恶作剧之魂总是在熊熊燃烧，如果遇见蛋糕里吃到豆子，员工卡被粘在别人背后之类的事，有很大几率是崖心做的，如果不是，她就会成为那个揭露别人恶作剧的人，毕竟，这两件事，她都乐在其中。
+
+	昇進記録 :
+	クリフハートはいつも人々に明朗快活で楽観的な印象を与えるが、実ははいたずらっ子な面がある。もしケーキの中に豆が混入していたり、職員カードが他の人の背中に貼られていたりするようなことがあったら、高確率で彼女の仕業だろう。そうでなければ、彼女はいたずらの犯人を摘発する側になるだろう。どちらにせよ、彼女はただ楽しんでいるだけなのだ。
+
+	Promotion Record :
+	Cliffheart seems to always instill feelings of cheer and optimism in those she meets, though her soul burns with the desire to inflict mischief. If you bite into a piece of cake only to find it full of beans, or your employee card has gone missing, there's a high probability that Cliffheart is responsible. If not, then she'll likely find out who is. Making mischief and exposing other mischief makers are two of her favorite pastimes.
+
+	승진 기록 :
+	    클리프하트는 언제나 사람들에게 명랑하고 밝은 인상을 주지만, 그녀의 마음속에는 언제나 짖궂은 장난을 치고 싶은 마음이 활활 타올랐다. 만약 케이크를 먹다가 콩알이 씹힌다거나, 직원 카드가 다른 사람의 등에 붙어있다든지 하는 일이 생긴다면, 이는 매우 높은 확률로 클리프하트가 한 짓일 것이다. 장난을 치는 일이나 남의 장난을 까발리는 일은 둘 다 클리프하트가 몹시 좋아하는 일이다.

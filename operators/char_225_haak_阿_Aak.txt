@@ -1,11 +1,17 @@
 ID:
 	char_225_haak
 
-干员代号\Name:
+CV:
 	阿
 	ア
 	Aak
 	아
+
+干员代号\Name:
+	三瓶由布子
+	三瓶由布子
+	Yuko Sanpei
+	산페이 유우코
 
 招聘合同\Character Usage:
 	罗德岛特种干员阿，将在后方支援其他干员。
@@ -48,177 +54,434 @@ ID:
 	폭발제 (두리안맛) 
 
 语音\Voices:
-	对了，老板，你叫我的时候记得拖一下长音，不然我不一定能听得出来你在叫我。
 	そーいえば旦那、俺を呼ぶ時は後ろをちょっと伸ばして「アー」って呼んでくれよ、でないと呼ばれてるって気付かないかもしれないからな。
 	Oh yeah, my dude, when you're callin' my name to get my attention, don't forget to stress the K at the end. Or else I might assume you're stammering or somethin'.
 	있잖아 나리, 날 부를 때는 뒤를 살짝 늘려서 '아~'라고 불러줘. 안 그러면 날 부르고 있다는 걸 모를 수도 있거든.
 
-	喂喂喂，不是吧，那个血魔小姐，难道她就是“血先生”？！嗯......上次的医术对决还没有结果呢，现在不是最好的机会吗？不过试验品就要重新准备一下了，嘿嘿嘿。
 	おいおい待ってくれよ、あのブラッドブルードの姉ちゃん、まさか「ブラッドさん」か？むむ……こないだの医術対決にゃまだ勝負は付いてねぇ、今がチャンスじゃねーか！あとで実験用の備品をもう一回用意しないとな、うふふふ……。
 	Whoa, whoa, hold up! Is that vampire lady none other than 'Mr. Blood'?! Man, we've still not settled that medical score we had a while back, and this is the perfect opportunity! I'll have to set up my experiment equipment later... Heheheheh!
 	아니 잠깐만, 저 뱀파이어 누님, 설마 '미스터 블러드'야?! 으음…… 얼마 전의 의술 대결은 아직 결판이 나지 않았어. 지금이 기회잖아! 나중에 실험용 비품을 한 번 더 준비해야겠는데. 으흐흐흐……
 
-	吽那家伙，又是说了些让你看管我之类的话吧。照顾？啊，确实是他会用的词儿。老板，我看得出你和我一样，是那种随心所欲的人吧？只要你愿意，别听那些傻话，我们有很多有趣的事能做哦？
 	ウンのやつ、また俺のこと見張ってろとか抜かしたんだろ。見張るじゃなくて面倒を見る？あー、あいつならそう言いそうだな。旦那さ、俺分かってるよ、あんただって俺と同じ気ままに生きたい人種だろ？くだらねぇ話は放っといてさ、あんたさえその気なら、俺らで楽しいことはいくらでもできるぜ。
 	Lemme guess, Hung's still tellin' you to watch out around me, ain't he? Oh, just to 'look after me,' huh? Yeah, that sounds like him all right. But listen, my dude, I know your type. You're like me and just wanna do whatever you want, right? Then you can just ignore that guy and we can do whatever fun stuff we want instead.
 	훔 녀석, 또 나를 감시하라느니 지껄였지? 감시하는 게 아니라 돌봐주라고? 아~ 그 녀석이라면 그렇게 말할 거 같아. 나리, 난 알고 있다고. 당신도 나처럼 마음 가는 대로 살고 싶은 인종이잖아? 따분한 이야기는 집어치우라고. 당신만 그럴 마음이 있으면, 우린 얼마든지 즐거운 일을 할 수 있을 거야.
 
-	试剂、药物、手术和培菌，嗯，这些都是我的兴趣，当然，也仅仅只是兴趣。医生？不建议那么叫我哦，我没什么救人的本事。让人意识到生命的意义才叫拯救，我只是不让他们死。
 	試薬、薬物、手術、細菌の培養……まぁ、好きだけど、ただの趣味かな。「先生」？そんな風に呼ばれる道理はねーよ、別に人救ったりとかはできねぇから。救うってのはそいつに命の意味を分からせることなんだよ。俺にできるのはせいぜい死なせないことくらいだ。
 	Yeah, I develop new drugs, do surgery, and nurture bacteria cultures, but those are all just fun hobbies to me. And don't call me a doctor, you got no reason to. I don't go 'round saving people's lives, y'know, I just 'save' people by teaching them the value of their lives. All I can really do is prevent 'em from dying.
 	시약, 약물, 수술, 세균 배양…… 뭐, 좋아하긴 하지만 그냥 취미이려나. '의사 선생님'? 그런 식으로 불릴 이유는 없어. 딱히 사람을 구하거나 하지는 못하니까. 구한다는 건 그 녀석에게 생명의 의미를 알게 해주는 거야. 내가 할 수 있는 건 고작 죽지 않게 하는 것 정도지.
 
-	医疗部的人找我？别了吧，我不怎么喜欢专业医生的。坚信自己的职业的高尚，为了拯救别人而感到满足......信念一旦破碎，是会死的。总是看着这种事发生，我有些难过，真的。
 	医療部の奴が呼んでる？ヤメとくよ、ああいういかにも「お医者様」って感じのあんまり好きじゃねーんだ。医者が崇高な仕事だと信じ込んで、人を救って満足してる……信念ってもんは一回崩れたら終わりだ。そういう奴らを何度も見てきたから。正直、ちょっと辛ぇんだ。
 	The medical department guys are askin' for me? Tell 'em to stop. I don't dig those oh-so-professional physicians. They firmly believe that being a doctor's this noble job and are content with just saving lives... And everything comes crashing down when that faith of theirs is shattered. I've seen that happen time and time again. Honestly, it's kinda sad.
 	의료부 녀석이 부른다고? 안 갈래. 그렇게 어딜 보나 '의사 양반' 같은 느낌이 나는 녀석은 별로 좋아하지 않거든. 의사가 숭고한 일이라고 믿어 의심치 않고, 사람을 구하며 만족한다…… 신념이라는 건 한 번 무너지면 끝이야. 그런 녀석들을 몇 번이고 봐 왔으니까. 솔직히 좀 힘들어.
 
-	我不讨厌罗德岛，相反，我觉得你们很专业。这片大地上每时每刻都有人在死，光是缩起来医疗制药，直到泰拉毁灭也不会发挥什么效果的。没多少人明白这一点，但你们心里很清楚，嗯嗯，真好！
 	ロドスは嫌いじゃない、いや、むしろさすがだなって思ってる。世の中じゃこうしてる間にも人は死んでる、どっかで隠れて治療したり薬を作ってるだけじゃ、何の役にも立てずにテラが滅ぶ日を迎えちまう。それに気づく奴はあんまいないけど、あんたらはよくわかってる。うん、いいじゃねぇか！
 	Rhodes Island is pretty decent, or more accurately, it's just what I'd hoped. People are dyin' in the world right as we speak. There are doctors cooped up in labs, only workin' to cure diseases rather than prevent 'em. Hardly anyone gets it, but you people actually do. Keep up the good stuff!
 	로도스 아일랜드는 싫지 않아. 아니, 오히려 역시나구나 싶어. 이 세상엔 이러고 있는 동안에도 사람이 죽어 나가고 있어. 어딘가에 숨어서 치료하거나, 약을 만드는 것만으로는 아무 도움도 되지 못하고 테라가 망하는 날을 맞이하게 될 거야. 그걸 알아차린 녀석은 별로 없지만, 당신들은 잘 알고 있어. 응, 좋잖아!
 
-	嘲笑，讨厌？没有啦老板，我只是感觉所有人的命运都很悲惨。伤痛当然可怕，但只要创造它们的人还在，医学又有什么意义？谁能拯救要被杀的人？泰拉需要的并不是医生，老板。
 	皮肉に嫌味？そうじゃねーよ旦那、ただ誰も彼も悲惨な運命を背負ってるなって思ってな。痛みは怖いが、それを生み出す奴らがいる限り、医学に何の意味があるって言うんだ？その医学で殺されようとしてる奴は救えんのか？テラに必要なのは医者じゃねーんだ、旦那。
 	Me, a sociopath? You got it all wrong, my dude. Everyone's got their own hardships to deal with, and I know that. Nobody wants to suffer, but what's the point of medicine if the bastards causing suffering are still around? Is medicine gonna save those people who're being murdered? Doctors in suits are not the saviors that Terra needs, my dude.
 	빈정대고 아니꼽게 군다고? 그런 게 아니야, 나리. 그저 너나 할 거 없이 비참한 운명을 짊어지고 있구나 해서. 고통은 무섭지만, 그걸 만들어 내는 녀석들이 있는 한 의학에 무슨 의미가 있지? 그 의학으로 살해당하려는 녀석을 구할 수 있어? 테라에 필요한 건 의사가 아니야, 나리.
 
-	我爸，也算是很厉害的医生了，天天把救死扶伤挂在嘴边。然而他被侮蔑、排挤加上陷害，一下就成了个黑医生，无恶不作那种。我也不觉得这种事有多稀奇啦，真的，虽然它也算改变了我的人生吧。
 	親父はな、一応すごい医者だったよ、人命救助が口癖でさ。でも嘲られて、除け者にされて、そんではめられて、急転直下で極悪の道にまっしぐらだったよ。ま、それほど珍しいことだとは思わないけどさ、ホントに。でもそれが俺の人生を変えたってのは認めるぜ。
 	My pops was an amazing doctor, and he was all about saving people's lives. But his colleagues laughed at him, shunned him, and framed him for malpractice, and that's how he wound up racing down a nasty new path in life. But y'know, stuff like that ain't so unusual, really. I'll admit though, what happened to him really changed my own life.
 	아버지는 말이야, 일단은 대단한 의사였어. 인명구조가 입버릇이었지. 그런데 조롱당하고, 따돌림당하고… 그러다가 속아 넘어가선 갑작스럽게 나쁜 길로 직행해버렸어. 뭐, 그다지 드문 일이라고는 생각하지 않지만, 진짜로. 근데 그게 내 인생을 바꾸었다는 건 인정해.
 
-	槐琥姐和吽出去了吗？出去了？那太好了，就让我在你办公室里浪费下时间吧。其实啊，他们才是能让大地变好的人。而老板你，我猜猜，其实我们两个更相近些，是不是？
 	ワイフー姉とウンは出てったか？もういない？よし。執務室ちょっと借りるな。本当はさ、世界を良くできるのはああいう奴らなんだろうな。あんたはなぁ、どうかな、どっちかと言えば俺側の人間なんじゃねぇか？
 	Have Waai Fu and Hung left? Really? Aight, I'm gonna hang out in your office for a while then. Y'know, if anyone can make the world a better place, it's gotta be people like them. You, meanwhile... Well, who knows, maybe you can be my right hand?
 	와이후 누나와 훔은 나갔어? 이제 없지? 좋아. 사무실 좀 빌릴게. 사실은 말이야, 세상을 좋게 만드는 건 저런 녀석들일 거야. 그쪽은 글쎄, 어느 쪽이냐 하면 나랑 비슷한 부류 아니야?
 
-	欸，你很累吗？要不要我给你个新配方，免费的哦。
 	え、疲れてんの？新しい調合薬を試してみるか？タダでいいって。
 	What's up? Feelin' tired? Then how about testing this new compound I made? Free of charge, of course!
 	뭐야, 피곤해? 새 조합약 한번 써볼래? 공짜로 해준다니까~
 
-	你就是博士吧？幸会幸会。我叫阿，对，就是阿——的阿。事务所在罗德岛有些事情要处理，所以我就来了。事先问问，你对医疗事故敏感吗？
 	あんたがドクターだよな？会えて嬉しいぜ。俺はアってんだ、そう、あーのアだ。事務所がロドスに用があるって言うんで来たのさ。一応確認しとくけど、医療事故って聞いてビリビリする方か？
 	So you're the Doctor, eh? Nice to meet'cha. My name's Aak. That's right, two A's with a K. Anyway, I'm here 'cause someone at the agency said Rhodes Island needed me. I'm just askin' to make sure here, but does the phrase 'medical mishap' put you off?
 	그쪽이 박사지? 만나서 반가워. 난 '아'라고 해. 그래, 아~ 할 때 그 '아'야. 사무소에서 로도스 아일랜드에 일이 있다길래 왔어. 일단 확인해두겠는데, 의료 사고라는 말을 들으면 예민해지는 편이야?
 
-	嗯，你是想说，我可以在这种战斗里帮上忙吗？不能吧？
 	うーん、もしかして、こういう戦いに俺が出るのもアリって言いたいの？ないよな？
 	Huh... Does this mean I might get involved in combat scenarios like this? Surely not, right?
 	으음~ 혹시 이런 전투에 내가 나갈 수도 있다고 말하고 싶은 거야? 아니지?
 
-	升职？还有这样的好事，果然事务所是在压榨我的劳动力吧，是吧。
 	昇進？まさかこんないい話があるなんてな。やっぱ俺、事務所に搾取されてんじゃね？なぁ？
 	A promotion? That's almost too good to be true, man. Those agency guys really HAVE been exploiting me all along!
 	승진? 설마 이렇게 좋은 이야기가 있을 줄이야. 역시 나, 사무소에 착취당하고 있는 거 아니지? 그렇지?
 
-	我其实不清楚自己算不算是个有用的人啦。毕竟在我看来，有用的人应该是好人才行，我嘛，还是有自知之明的。不过，你要是得病了，记得找我哦。
 	正直、俺は自分が役に立つ人間かどうかもわっかんねぇ。俺の認識ではそういう奴は「いい人」じゃないとダメなんだけど、自分がどんな奴かくらい自分でも知ってる。でもな、あんたが病気になったときは頼ってくれよ？
 	Honestly, I dunno if I'm helpful or not. The way I see it, you've gotta be nice to be helpful, and I'm not blind to how people perceive me. But in any case, if you ever get sick, I've got you covered.
 	솔직히 난 내가 도움이 되는 인간인지 어떤지도 모르겠어. 내가 알고 있는 한 그런 녀석은 '좋은 사람'이 아니면 안 되는데, 내가 어떤 녀석인지는 나도 알고 있거든. 하지만 당신이 아플 땐, 나한테 기대달라고.
 
-	任务吗？好啊，走吧。
 	任務か？いいよ、行くか。
 	We goin' on a mission? Let's do it.
 	임무야? 좋아, 갈까.
 
-	那新药的效果，就拜托各位之后告诉我咯。
 	んじゃみんな、あとで新薬の感想を聞かせろよ？
 	All right, team, gimme your thoughts on my new meds after this is done.
 	그럼 다들, 나중에 신약이 어땠는지 감상 좀 들려줘.
 
-	一旦我开始动手术，可就没人能阻止我了。
 	俺がオペを始めたら、もう誰にも止めらんねぇぜ。
 	Once I start an operation, there's no stoppin' it.
 	내가 수술을 시작하면 그 누구도 멈추지 못해.
 
-	放心，有我在，你们想死都难。
 	安心しとけ、俺がいるからには死にたくても死ねねぇから。
 	Simmer down, guys. With me on your team, none of you's gonna die even if you want to.
 	안심해, 내가 있는 한 죽고 싶어도 못 죽을 테니까.
 
-	我下的药可不轻。
 	俺の処方は軽くないぜぇ。
 	My treatment is not for the squeamish!
 	내 처방은 가볍지 않다고.
 
-	战场不适合我，但治疗实在是很快乐啊。
 	戦場は俺に合わねぇけど、治療は楽しいからな。
 	The battlefield ain't for me, but I can't pass up on some fun treatment.
 	전장은 나한텐 안 맞지만, 치료는 즐거우니까.
 
-	就让我们临床实验一下新成果吧。
 	新薬の臨床試験といこうじゃねーか。
 	Time for a clinical test of my new meds.
 	신약의 임상시험을 해보자고.
 
-	平时不好好善待自己，出问题的时候可是会超级痛的哦。
 	不摂生してるといざという時痛い目見るぜ？
 	You've gotta dose in moderation, 'else it's gonna hurt when you really need it.
 	건강에 주의하지 않으면 여차할 때 호되게 고생할걸?
 
-	所有的生命都平等，但你的好像有点例外。
 	命に貴賤無しさ。あぁ、おまえは例外みたいだな。
 	All lives are equal... With the exception of yours!
 	목숨에 귀천은 없어. 아아~ 너는 예외인 모양이네.
 
-	这管试剂打下去，你就知道厉害了。
 	使ってみればこの薬の凄さが分かるぜ。
 	Try my meds and you'll see how crazy they are.
 	써보면 이 약의 대단함을 알게 될 걸?
 
-	我这种药水，说不定能让坏人重新做人。
 	この薬、悪い奴を更生させる効果がありそうだぜ。
 	Looks like my meds have the ability to reform bad guys!
 	이 약, 나쁜 녀석을 갱생시키는 효과가 있는 거 같아.
 
-	医学，就是一旦打开就没法关上的恶毒匣子。
 	医学は開けたら二度と閉じらんねぇ呪いの箱みたいなものなのさ。
 	Medicine is like Pandora's box: once you open it, there's no goin' back!
 	의학은 열면 두 번 다시 닫을 수 없는 저주받은 상자 같은 거야.
 
-	也许我的技术不能让这片大地变得更好，但你我合起来，能让它变得没那么坏。
 	俺の腕じゃあこの世を良くはできないかもしれねぇ。でもあんたと一緒なら、これ以上悪くならないようにはできる。
 	I doubt I can make the world a better place on my own. But with your talent, we can at least stop it from gettin' any worse.
 	내 실력으로는 이 세상을 좋게 만들진 못할지도 몰라. 하지만 당신과 함께라면, 이 이상 나빠지지 않게는 할 수 있어.
 
-	只要没人看见，抓走敌人做实验就不会违反公约啦，放心放心。
 	人に見られなきゃ、敵を捕まえて実験体にしても公約違反にはあたらねぇ、心配いらないって。
 	Capturing our enemies and experimenting on 'em doesn't violate any ethics as long as nobody catches us doin' it. Relaaax.
 	들키지만 않으면 적을 붙잡아 실험체로 삼아도 공약 위반에는 안 걸려. 걱정할 필요 없다니까.
 
-	你真仁慈啊，居然就这样放他们走掉了。
 	あんたってお人好しだな、あのまま見逃すなんてさ。
 	Aren't you a real humanitarian, just letting 'em get away like that?
 	당신도 참 사람이 좋아. 저대로 놓아주다니.
 
-	别紧张，老板，只要没死，我都救得回来。
 	大丈夫だ旦那、生きてさえいれば、俺が全部治してやるよ。
 	Don't worry, my dude. I can fix any injury as long as the patient's still breathing.
 	괜찮아, 나리. 살아있기만 하면 내가 전부 치료해 줄게.
 
-	看看，我的新实验室会在哪里呢？
 	どれどれ、俺の新しいラボはどの部屋だー？
 	Let's see here, which of these rooms is my new lab?
 	어디 보자, 내 새 실험실은 어느 방이지~?
 
-	啊？
 	あー？
 	Yeah, what?
 	뭐야?
 
-	老板，找到新试验品了吗？
 	おい旦那、新しい実験サンプルは見つけてくれたか？
 	Yo, my dude! Found any new experiment samples for me?
 	어이, 나리. 새 실험 샘플은 찾았어?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	老板，今天身体还好吧？
 	旦那、今日の具合は？
 	Hey, my dude. What's cookin'?
 	나리, 오늘 컨디션은 어때?
+
+干员档案\Background:
+	基础档案 :
+	【代号】阿
+	【性别】男
+	【战斗经验】没有战斗经验
+	【出身地】龙门
+	【生日】3月25日
+	【种族】菲林
+	【身高】161cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ア
+	【性別】男
+	【戦闘経験】なし
+	【出身地】龍門
+	【誕生日】3月25日
+	【種族】フェリーン
+	【身長】161cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Aak
+	[Gender] Male
+	[Combat Experience] None
+	[Place of Birth] Lungmen
+	[Date of Birth] Mar 25
+	[Race] Feline
+	[Height] 161cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 아
+	[성별] 남
+	[전투경험] 없음
+	[출신지] 용문
+	[생일] 3월 25일
+	[종족] 필라인
+	[신장] 161cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Standard
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	经龙门鲤氏侦探事务所所长老鲤推荐而来的医疗人员，曾是活跃于龙门灰色地带的知名黑医生。
+	在加入后，展现出了惊人的医疗理论知识储备以及临床经验，但也表现出让人担忧的医疗风格。
+	不过根据凯尔希医生的综合评估，被暂时推荐到医疗装备科和技术开发组。
+
+	個人履歴 :
+	龍門リー探偵事務所所長リーの推薦によりロドスに加入した、かつて龍門のグレーゾーンで活躍していた闇医者。
+	加入後は驚くほどの豊富な医療理論知識と臨床経験を披露したが、医療スタイルの面では不安があった。
+	ケルシー医師の総合的評価に従い、ひとまず医療装備科及び技術開発部門への配属になっている。
+
+	Profile :
+	A medical personnel from Lee's Detective Agency recommended by Mr. Lee, Aak was a well-known underground doctor operating in the gray zones of Lungmen.
+	After joining, he proved to be a tremendous wellspring of medical knowledge and theory with the clinical experience to back it up, though his style of practice is rather worrying.
+	However, based upon Dr. Kal'tsit's comprehensive evaluation, he was recommended on a provisional basis to the medical equipment department and technological development team.
+
+	프로필 :
+	    용문에 있는 '리 탐정사무소'의 소장, 미스터 리의 추천으로 합류한 메딕. 과거 용문 내 회색지대에서 이름을 날렸던 무면허 의사다.
+	    합류 후 놀라운 의료 방면의 지식과 임상 실험 경험을 보여주었으나, 동시에 우려스러운 작업 스타일을 보여주기도 하였다.
+	    다만 닥터 켈시의 종합평가에 따라, 일단은 의료 장비과와 기술 개발팀에 배정될 것이 권고되었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员阿体内虽然有各种药物成分残留的痕迹，但他并没有感染矿石病的迹象。
+	
+	【血液源石结晶密度】0.11u/L
+	干员阿令人难以置信的健康。
+	
+	哎，不得不说，你们罗德岛虽然别的也就那样，不过预防矿石病的措施和对矿石病的研究倒确实有一手，这可得好好学学。
+	——阿
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	体中に様々な薬物の残留成分が検出されているが、鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.11u/L
+	信じられないほどに健康である。
+	
+	まぁ、他のことはともかく、鉱石病の予防と研究については確かにロドスはなかなかやるよな。キッチリ勉強させてもらうぜ。
+	——ア
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Aak shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.11u/L
+	Operator Aak is incredibly healthy.
+	
+	I must say, despite everything else here on Rhodes Island, your methods for preventing Oripathy as well as the research that has been conducted are indeed worthy of study.
+	--Aak
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 아의 체내에는 다양한 약물 성분이 잔류하고 있는 것으로 보이나, 광석병 감염 증세는 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L
+	오퍼레이터 아는 믿을 수 없을 정도로 건강하다.
+	
+	하, 인정할 건 인정해야겠지. 로도스 아일랜드 당신들은 다른 건 그저 그래도, 광석병 예방 조치 및 연구에 관해선 확실히 일류야. 잘 보고 배워야 겠어.
+	——아
+
+———————————————————————————————
+
+	档案资料一 :
+	总是嬉皮笑脸的特种干员。
+	性格恶劣且无法无天，偶尔参与医疗相关工作，甚至会在治疗的时候开对方伤病的玩笑，但医疗技术确实放眼整个罗德岛都算得上顶尖。
+	通常一个人缩在自己特批的小实验室里，里面常常会传出奇怪的味道和诡异的笑声，让人不是很想靠近。
+
+	第一資料 :
+	いつもふざけてニヤニヤしている特殊オペレーター。
+	性格が悪く、恐れ知らず。たまに医療関連の仕事に参加し、治療中患者の傷病をからかうこともあるが、彼の医療技術自体は全ロドスにおいても最高レベルと言わざるを得ない。
+	普段は一人で自分専用のラボに引きこもり、中からは不気味な笑い声と奇怪な匂いが漏れ伝わってくるため、誰も寄り付かない。
+
+	Archive File 1 :
+	A specialist operator who always wears a hippie-like grin.
+	Conducts himself with a rather poor, devil-may-care attitude that even spills over to his medical practice, sometimes cracking jokes about his patients' injuries during treatment. However, his medical techniques are indeed unrivaled in the entirety of Rhodes Island.
+	Usually he'll stay in the small laboratory set aside just for him. The strange smells and unsettling cackling serve as good deterrents to keep people from getting too close.
+
+	파일 자료 1 :
+	    항상 히죽히죽 웃고 있는 스페셜리스트 오퍼레이터.
+	    성격이 악랄하고 천방지축이라, 간혹 의료 업무에 참여해서 환자의 병까지 농담 소재로 삼고는 하지만, 의료 기술만큼은 확실히 로도스 아일랜드 내에서도 일류에 속한다.
+	    보통은 혼자서 특별 허가를 받은 자신의 작은 실험실에 머무는데, 이 실험실에선 늘 이상한 냄새나 기괴한 웃음소리가 흘러나와 모두가 접근하길 꺼려 한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	虽然阿和其他干员相处的并不那么愉快，不过其中有三个例外。
+	其一是吽。很多人都对阿的顽劣表示难以接受，但吽显然是他的克星。如果真的无法忍受他的一些行为，只需要去和吽说一句，那么一切都会得到解决。我们不能说阿惧怕吽，应该说，正如吽毫不掩饰地将阿当作弟弟看待一样，阿虽然平日无法无天，对于吽，恐怕也是打心底里当作兄长看待的。
+	其二是槐琥。虽然一身正气的槐琥和生性顽劣的阿似乎是水火不容的存在，不过作为同一侦探事务所出身的成员，两人的关系意外的还可以。槐琥认为阿的本性不坏，而阿则觉得槐琥古板，却也不是无法相处。顺便一提，如果阿闯祸的时候，不去请吽而是去找槐琥，会有相当有趣的展开。
+	其三是华法琳。在得知华法琳正是“血先生”后，即使是唾弃医学的阿，也忍不住技痒，时常会去找华法琳讨论或者切磋。必须承认，对于因为漫长的生命而在价值观上与其他干员有某些根本性差异的华法琳来说，同样怪胎的阿反倒是个不错的伙伴。但也必须承认，自从这两人臭味相投或者说一拍即合之后，偶尔从华法琳或者阿的实验室中爆发出的，两人共同的欢呼声或者诡异的笑声更加渗人了。
+
+	第二資料 :
+	アと他のオペレーターたちは決して仲が良いとは言えないが、三人だけ例外がいる。
+	まずはウン。アの好き勝手に不快を感じる者は大勢いるが、ウンは彼の天敵である。アの行動をどうしても容認できない場合、ウンに訴えれば、全てが解決される。ところが、アは決してウンのことを怖がっているわけではない。むしろ、ウンはアを弟として見ているように、無法者のアもまた、心からウンのことを兄として見ているのだろう。
+	そしてワイフー。正義感溢れるワイフーと性悪なアは一見、相容れない存在のようだが、同じ探偵事務所のメンバーとして、二人は意外と仲が良い。ワイフーから見たアの性根は悪くないらしく、アから見たワイフーは頑固ではあるが、付き合えないほどでもないという。ちなみに、アがトラブルを起こす際、ウンではなくワイフーに告発すると、かなり面白い展開になると予想される。
+	最後はワルファリン。「ブラッドさん」の正体はワルファリンであることを知ってから、医学を軽蔑してきたアですら我慢できなくなり、頻繁にワルファリンに学術的な交流を求めるようになった。寿命が長いためか、他のオペレーターと価値観で根本的な差異を抱えているワルファリンにとって、同じひねくれ者のアとは意外と相性が良いらしい。しかし、二人が意気投合して以降、たまにワルファリンあるいはアのラボから聞こえてくる二人の歓声や笑い声は、一段と不気味なものとなっている。
+
+	Archive File 2 :
+	Though Aak doesn't exactly get along well with other operators, there are three cases that particularly stand out.
+	The first is Hung. While most people find the ill-natured Aak to be impossible to deal with, Hung is his natural nemesis. If a situation with Aak truly became unbearable, just report it to Hung, and the situation will soon be resolved. While it cannot be said that Aak fears Hung, Hung unabashedly treats Aak like a little brother; and Aak, despite his usual attitude, probably sees Hung as an older sibling as well.
+	The second is Waai Fu. Though the righteous Waai Fu and the ill-natured Aak would seem totally incompatible, the two have unexpectedly developed a good relationship as members of the same detective agency. Waai Fu believes that Aak is a fundamentally good person, whereas Aak sees Waai Fu as old-fashioned but not impossible to get along with. By the way, if Aak is out looking for trouble, you should call Waai Fu instead of Hung. The ensuing scene is quite entertaining.
+	The third is Warfarin. After learning that the true identity of 'Mr. Blood' was none other than Warfarin, even Aak, who had spurned mainstream medicine, couldn't help but to engage Warfarin in academic discussions on a frequent basis. Admittedly, Warfarin, whose views towards medicine differ slightly from other medics perhaps as a result of her longevity, and Aak, who is a bit of a freak himself, make an unexpectedly good duo. But as a caveat, when these two find out that they share some common interest and tastes, strange laughing and cheering have become far more prevalent than ever before - either from Warfarin's or Aak's lab, now with two voices instead of one.
+
+	파일 자료 2 :
+	    아와 다른 오퍼레이터들의 사이가 그렇게 좋지는 않지만, 개중 예외인 3명이 있는데, 특히 훔과의 사이가 그러하다. 
+	    많은 사람들이 아의 악랄함을 못 견뎌 내는데, 훔은 이런 아의 천적인 듯하다. 만약 아의 어떤 행위 때문에 도저히 참을 수가 없거든, 훔을 찾아가서 한 마디 해두기만 하면 모든 게 해결될 것이다. 하지만 아가 훔을 무서워한다고는 할 수 없다. 훔이 아를 동생으로 대하듯, 아 역시 보통은 하늘 무서운 줄 모르고 날뛰지만, 훔에 대해서는 내심 진짜 형으로 대접하고 있기 때문이다.
+	    그 두 번째는 와이후다. 몸가짐이 반듯한 와이후와 천성이 악랄한 아는 물과 불처럼 서로에게 상극인 존재이나, 같은 탐정사무소 출신이라는 점 때문에 이 둘의 관계는 의외로 괜찮은 편이다. 와이후는 아가 천성이 나쁜 사람은 아니라고 생각하고, 아는 와이후가 고리타분한 사람이라고 생각하긴 하지만, 두 사람이 서로 잘 지낼 수 없는 건 아니다. 한 마디 더 조언하자면, 아가 사고를 치는 경우엔 훔 보다는 와이후를 찾아가 보도록. 그렇다면 일이 아주 흥미롭게 전개되는 걸 볼 수 있을 것이다.
+	    그 세 번째는 와파린이다. 와파린이 바로 미스터 블러드란 사실을 알게 된 후에는, 비록 의학을 싫어하는 '아'이지만 늘 호기심을 참지 못하고 와파린을 찾아가 의학에 대한 열띤 토론을 벌이게 되었다. 와파린은 무척이나 긴 세월 동안 삶을 영위할 수 있기에, 일반적인 오퍼레이터들과는 가치관적인 측면에서 근본적인 차이를 보인다. 때문에 와파린은, 남들과는 달리 기괴한 사상을 지닌 아가 어찌 보면 자신과 교류하기에 더 적합한 인원일 수 있다는 점을 인지하게 되었다. 물론 이 두 사람이 함께 움직이기 시작한 시점부터, 와파린 혹은 아의 실험실로부터 터져 나온 두 사람의 환호성이나 기괴한 웃음소리는 확실히 훨씬 더 심해졌지만……
+
+———————————————————————————————
+
+	档案资料三 :
+	必须承认，虽然是不太好的方向，但阿在医学上的偏门造诣，确实高深到令人惊叹。
+	在一些寻常病症上，他不负责任的态度说不定会让情况变得更加糟糕，但在一些偏门病症上，他常常会有独到且精准的解法。更不要说，他时常会研究出一些让人无法理解的药品，比如放屁会变成西瓜味，丧失辨认某种颜色的能力等等，令人哭笑不得。
+	当然，如果了解他的父亲是谁，这个问题也就不再是问题。
+	阿的父亲，曾经是龙门中心医院的知名主治医师，以医德而闻名龙门医学界。但在一次医疗事故中，他遭人陷害，从此事业一落千丈，消失在大众视野中。再次出现时，他已经成为了龙门黑色地带中令人闻风丧胆的毒医，即使是最凶恶的黑帮老大，在他面前也会像老鼠一样胆小。而此人在几年前死于一场黑帮火并中，让整个龙门黑道都松了一口气。
+	阿显然完全接过了其父的衣钵，无论是好的方面还是不好的方面。以十几岁的年纪就在黑道中小有名气的他，如果无人管教，将来想必会变得像他父亲一样，在黑道中令人闻风丧胆。不过，他遇到了吽，继而成为了鲤氏侦探所的一员，这应该是他人生的一大转折点。
+
+	第三資料 :
+	方向性は正しいとは言えないが、アの医学に関するマイナーな知識は驚くほどに豊富だ。
+	通常の疾病において、彼の不真面目な態度はかえて状況を悪化させる恐れがあるが、一部の難病に対し、彼は頻繁に独特かつ適切な対処法を提案する。更に言えば、時々彼の研究では不可思議な効果を持つ薬品が生まれる。例えば、おならがスイカの香りになるものや、特定の色が認識不能になるものなど、何とも言えないものばかりだ。
+	しかしもし彼の父を知っていれば、彼のことも色々と納得できるかもしれない。
+	アの父はかつて龍門中央病院の名医で、龍門医学界の権威だった。しかしある医療事故で冤罪をこうむり、人生を狂わされた後、表世界から姿を消した。再び姿を現した時、彼の父は既に龍門の暗部で誰もが震え上がるような闇医者となっていた。どんなに凶悪なマフィアの首領でも、彼の前では頭が上がらなかった。そして数年前、彼がマフィアの内部争いで命を落とした時、龍門の暗部勢力はついに溜飲を下げたことだろう。
+	アは良い面でも悪い面でも、そんな父の立派な後継者である。十代にして既にマフィアの間に名を馳せた彼だったが、適切な教育を受けなければ、いずれは父のような恐ろしい闇医者になるだろう。しかし彼はウンと出会い、リー探偵事務所の一員になった。彼の人生にとって、それは一つの大きな転機と言えるだろう。
+
+	Archive File 3 :
+	Despite the questionable nature of Aak's medical breakthroughs, the discoveries he's made have indeed been amazing.
+	While his irresponsible attitude has a tendency to make relatively innocuous conditions worse, he is known to tackle rare diseases with his own unique, accurate solutions. Not to mention, he frequently researches and develops medication that seems incomprehensible to the average person, such as pills that make farts smell like watermelon, or make people lose the ability to recognize a certain color.
+	Of course, if you knew who his father is, this tendency is no longer so puzzling.
+	Aak's father used to be a well-known attending physician at the Lungmen Central Hospital and was renowned for his medical ethics. But due to a certain incident, he was framed by others for malpractice, after which his career plummeted and he disappeared from the public eye. The next time he reappeared, he had become a vicious illegal doctor in the underworld of Lungmen's black zone, with even Lungmen's gang bosses trembling at his feet. When this person perished a few years ago in a gang war, the entire Lungmen underworld breathed a collective sigh of relief.
+	Aak clearly inherited his father's mantle, both the good and the bad. Even as a teenager, he made a reputation for himself in the underworld. Without discipline, he perhaps would have walked down the same path as his father, eventually becoming feared as well. However, after meeting Hung, he joined Lee's Detective Agency, a move that can be considered a turning point in his life.
+
+	파일 자료 3 :
+	    그다지 건전한 방향은 아니긴 하지만, 어찌 됐든 아의 의학에 대한 조예의 깊이는 놀랄만한 수준이다. 일반적인 병증을 다룰 때의 아의 태도는 상황을 더 악화시킬 수도 있지만, 특수한 병증에 대해 아는 종종 독창적이면서도 구체적인 치료법을 생각해낸다. 물론 방귀가 수박향으로 바뀐다거나, 색 분별 능력을 잃어버린 다거나 하는 등의 우스꽝스러운 약품의 연구개발도 멈추지 않고 있지만 말이다.
+	    이런 기이한 특성에 대한 의문은, 아의 아버지가 누구인지 알게 된다면 자연스레 해결된다. 아의 아버지는 과거 용문 센트럴 병원에서 근무했던 주치의로, 용문 의학계에서 인정받는 유명한 의사였다. 다만 어느날 발생한 의료 사고에서 그만 모함에 빠지고 말아, 그 뒤로는 몰락의 길을 걸으며 사람들로부터 잊히고 말았다. 이후 아의 아버지가 다시 세상 앞에 모습을 드러냈을 때, 그는 용문 중립 지구에서 이름만 들어도 사람들의 간담을 서늘하게 하는 독극물 전문의가 되어 돌아왔는데, 가장 악명 높은 갱단의 두목도 그의 앞에 서면 순한 양이 되어 버릴 정도였다. 그런 아의 아버지가 몇 년 전 갱단 사이에 벌어진 내전 중 사망하였다는 소식이 들려왔을 땐, 모든 용문 암흑가의 사람들이 안도의 한숨을 내쉬었다.
+	    아는 나쁜 쪽이든 좋은 쪽이든 아버지의 능력을 그대로 물려받은 게 분명했다. 십대의 나이에 이미 암흑가에서 어느 정도 명성을 얻은 아는, 누군가가 이끌어 주지 않는다면 분명 자신의 아버지와 같이 암흑가 사람들이 이름만 들어도 사람들을 벌벌 떨게 할 만한 인물로 성장하였을 것이다. 하지만 아는 훔을 만나게 되었고, 이후 리 탐정사무소의 일원이 되면서, 인생의 큰 전환점을 맞았다.
+
+———————————————————————————————
+
+	档案资料四 :
+	阿早已超过了因被陷害而自甘堕落的其父。事实上，阿虽然年轻，他对医学的看法，甚至已经超越了绝大多数在医道上淫浸多年的医者。
+	原因很简单，因为他走出了医学这个圈子，不再作为纯粹的医生去看待事物。
+	纯粹的医生，会在医学的范围内思考问题，他们会思考怎样才能更好地救人，会为了研究新的药物而废寝忘食，罗德岛的医师们大都如此。
+	但阿不同，他看到了医学的界限，他发现了医学的存在本身是来源于伤害。当然，这种伤害中疾病自然占了不小的比重，但是，在黑色地带中成长的他，更多看到的，是人与人之间的互相伤害。
+	所以他开始对纯粹的医学嗤之以鼻，他开始讨厌起自己的同行，因为他们只知道救人，他们只会在斗争发生后赶到那里，他们的特效药没有办法阻止事情的发生。越是为医生这项职业自豪的人，他越讨厌。
+	阿的想法当然也是偏激且较为片面的，他日常的行为更是体现出他的稚嫩，但不可否认，他的想法来源于一部分血淋淋的现实，并且有些事确实在如他所说地发生着，罗德岛追求梦想，但从不对现实别开目光。
+	在真正了解他之后，罗德岛的几位主要医疗干员都放下了对他的厌恶感，并决定如同他的监护人吽所期望的那样，将这个世界好的一面展现给他，并给他最好的条件。
+	因为每个人都知道，阿是个天才，假以时日，他一定会成为轰动泰拉的医者。
+
+	第四資料 :
+	人に陥れられ自堕落な生活を送っていた父を、アはとっくに超えている。事実、まだ若い彼だが、医学に対する見解は既に大多数のベテラン医師を凌駕している。
+	理由は至極簡単である。彼は医学の領域を飛び出しており、純粋なただの医者として物事を判断することがないからだ。
+	純粋な医者の思考は、「医学」という枠にとらわれる。いかにして人々を救えるかを考え、新薬開発のために寝食も忘れる。ロドスの医者たちも大半はそうだ。
+	しかしアは違う。彼は医学の限界を見極め、医学そのものは「傷害」から生まれると気づいた。勿論その「傷害」の中には、疾病もかなりの割合を占めているが、社会の暗部で育った彼が目にしてきたほとんどは、人々の傷つけ合いにより生まれる「傷害」だ。
+	そうしてきた彼は、純粋な医学は無力なものだと判断し、同業者を軽蔑するようになった——彼らは人を救うことしか考えられないからだ。いつも争いの後に駆けつけることしかできず、どんな特効薬でも事件の発生を防げないのだ。医者という職業に誇りを持つ人ほど、彼の嫌悪の対象になる。
+	無論、これは極端的かつ偏った考えであり、彼の日頃の行いもその未熟さを体現している。しかし、彼の考えの根源は現実的思考にあり、彼が言っていることも現実的であるのは確かだ。ロドスは理想を追求するが、現実から目を逸らすことは決してない。
+	彼の真実を知った後、ロドスの主要な医療オペレーターたちは嫌悪感を捨て、彼に世の中の明るい一面を見せ、ベストな環境を提供すると決めた――彼の後見人ウンが望んているように。
+	皆気づいている。アは天才であり、いずれテラ全域に名を馳せる名医になれる者であると。
+
+	Archive File 4 :
+	Aak has already surpassed his father, who had fallen victim to being framed. Despite Aak's young age, his views towards medicine have already greatly surpassed that of even experienced doctors who have been immersed within the field for years.
+	The reason behind this is simple: because he left the mainstream medical circles, he no longer views medicine solely from the perspective of a pure doctor.
+	Pure doctors will think about problems within the scope of medical practice, preoccupied with how to better save people, often losing sleep or forgetting to eat in the process of developing new drugs. Most of Rhodes Island's medics fall under this category.
+	However, Aak is different. He saw the limitation of medicine, and recognized that the existence of medicine was due to harm. Of course, a large proportion of this harm occurs naturally in the form of diseases, but because Aak grew up in the black zone, he saw more of the harm that people inflicted upon each other.
+	Over time, he began to scoff at the idea of pure medicine, resenting his colleagues because they only knew how to save people. They would rush to the scene of a conflict, even the most advanced pharmaceuticals utterly powerless to stop the conflict from having broken out in the first place. The more lofty and prideful the medical profession, the more Aak came to hate it.
+	Of course, Aak's thoughts are radical and fringe, with his daily behaviors reflecting a bit of his immaturity. Nevertheless, one cannot deny that his ideas are rooted in the bloody reality that shaped his upbringing, and events sometimes unfold in the way he describes. While Rhodes Island does pursue a lofty dream, it also never looks away from reality.
+	After getting to really know him, several of Rhodes Island's core medic operators set aside their initial disgust towards him and, as his guardian Hung hoped for, decided to show him a better side of this world and provided him with the best possible conditions.
+	After all, everyone knows that Aak is a genius, and over time, he will surely mature into a phenomenal doctor.
+
+	파일 자료 4 :
+	    아는 이미 모함에 빠져 몰락했던 자신의 아버지를 능가하였다. 비록 젊은 나이긴 하나, 그의 의학에 대한 지식은 의학을 익히기 시작한 지 여러 해가 지난 의학도들을 뛰어넘었다고 할 수 있었던 이유는, 바로 그가 일반적인 의학의 울타리를 벗어나 사고하고, 단순한 의사의 관점으로만 사물을 대하지 않기 때문이다.
+	     로도스 아일랜드의 의사를 포함한 일반적인 의사들은, 규범된 의학의 범위 안에서 문제를 생각하고, 어떻게 하면 더 많은 사람들을 효율적으로 치료할 수 있을지 만을 생각하고, 새로운 약물을 연구개발하기 위해 전력을 다한다. 그러나 아는 의학의 한계를 느꼈고, 의학의 존재 자체가 상처에서부터 발현된 것임을 깨달았다. 물론 여기서 말하는 상처는 병에 의해 자연적으로 입게 되는 것이 대부분이지만, 무법 지대에서 성장한 아가 본 사람들의 상처들은 대부분 서로가 서로에게 입혔던 것이었다.
+	     이때문에 그는 순수 의학을 깔보기 시작하였고, 다른 의료 업계 종사자들을 증오하기 시작하였다. 아가 생각하기에 이들은 사람들을 구할줄만 알고, 전투가 발생한 후 대응할 수 밖에 없었으며, 이들의 특효약은 근본적 문제인 전투가 발생하는 걸 막을 수 없었기 때문이다. 그래서 아는 의사로서의 자부심을 가진 사람들일 수록 더더욱 증오했다.
+	     물론 이런 아의 생각은 매우 극단적이고 편협한 것이라 할 수 있는데, 그가 아직 성숙하지 못한 사람이란 점은 그의 일상생활 중의 행동거지를 통해서도 충분히 파악할 수 있다. 하지만 이런 그의 사고방식은 피범벅이었던 실제 현실에서 기인한 것이며, 지금도 그가 말하는 일들이 현실에서 벌어지고 있다는 점은 부인할 수 없다. 로도스 아일랜드는 늘 꿈을 쫓아가고 있지만, 그렇다고해서 한 번도 현실을 등한시한 적은 없었다.
+	    아에 대해 진정으로 이해하게 된 후, 로도스 아일랜드의 주요 메딕 오퍼레이터들 몇몇은 모두 그에 대한 적개심을 거둬들였고,  그의 보호자인 훔의 뜻대로, 앞으로 이 세상의 좋은 면들을 아에게 보여주기 위해 물심양면으로 지원을 아끼지 않았다. 모두들 아가 의학에 천부적인 재능을 지녔으며, 미래에 이 세상을 뒤흔들만한 메딕 오퍼레이터로 거듭날 수 있다는 사실을 알고 있기 때문이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	阿在第二次晋升中表现出的态度——惶恐，虽然多少有些令人吃惊，但仔细想想，却也并不是难以理解。
+	他贬低所有的医学，而在此之中，他更是将自己放到了一个最低的位置——既然医学没用，那么精通医学的我更是个没用的东西。他越是精通医学，越是排斥自己，但如果离开医学，他并不知道自己可以做到什么，这形成了一个恶性循环。
+	没有人告诉他他做的是对的，没有人告诉他他这样是可以的，没有人在他想要的地方承认他。必须要说，鲤氏侦探事务所诸位的陪伴让他没有在道德层面上偏得太远，但在这个心理问题上，一直没有很好地为他解决——当然，这并不是在责怪鲤氏侦探事务所的诸位，这样的心理问题通常需要专业人士才能够发觉，况且，阿这样的性格也需要对应的环境才可以得到更好的解决。
+	而在罗德岛，他的一切都得到了承认，所有人都在告诉他他是对的，他是最好的，而即使是他对于医学最愤恨的一点，罗德岛也已经在做了——我们从来没有打算仅仅依靠制药来解决所有问题，他将会，或者已经发现，罗德岛是一个如此适合他的地方，而我们，也会为成为他理想中的样子而努力。
+
+	昇進記録 :
+	二度目の昇進の際、アは恐縮したような態度を見せた。いささか驚くべきことではあるが、よく考えれば無理もない話だ。
+	彼は全ての医学を軽蔑している。その中で、彼が最も軽蔑しているのは自分自身である——医学が無用なものだとすれば、医学を知り尽くしている自分自身はもっと無用な存在だ、と。医学を知れば知るほど、自身を軽蔑せずにいられないのだ。だからといって、医学を捨てたら今度こそ自分は何もできなくなる、そんな悪循環が彼の中で渦巻いているのである。
+	彼の行いが正しいと教える者も、彼が望んでいる時に賞賛を与える者も、これまではいなかった。リー探偵事務所のメンバーたちの存在が彼を踏み外しかけた道から引き止めているが、彼の心の奥に大きく開いた穴は、長い間しっかりと塞ぐことができずにいた――勿論、これはリー探偵事務所の皆を責めているわけではない。このような心理的問題は専門家にしか察知できない上に、解決にはアの性格に適応した環境が必要だからである。
+	しかしロドスでは、彼の全てが認められた。彼が正しくて優秀であることは、皆口に出して本人に伝えるようにしている。また彼が医学を軽蔑する最大の理由に関しても、ロドスは既に解決法を探り始めている——我々は薬品を作るだけで全てを解決するつもりはないのだ。彼はいずれ気づく、いや、あるいは既に気づいているのかもしれない――ロドスは彼にとって最高の居場所であると。そして我々も、彼の望む姿になれるよう、努力し続けよう。
+
+	Promotion Record :
+	Aak's attitude when he received his second elite promotion - panic, is somewhat surprising. But if you think about it, it's not that hard to understand.
+	He depreciated all medicine, and within that, saw himself as even lower - 'if medicine is useless, then is it not true that I, as a practitioner of medicine, is even more useless?' The greater his medical proficiency, the more he rejects himself; but if he tries to leave medicine behind, he loses his sense of purpose, and thus the vicious cycle continues.
+	No one told him that what he was doing was right, no one told him that it was fine to pursue that path, and nobody wanted to give him a place that would accept him. While it must be said that Lee's Detective Agency prevented his sense of morality from going too far astray, his psychological issue had not been resolved. Of course, this is not to place the blame upon the agency, for psychological problems usually require professional help even to be detected. Moreover, a personality like his also requires the proper environment.
+	And at Rhodes Island, Aak is recognized and accepted for who he is. Everyone tells him that he is just, and reminds him that he is the best at what he does. As for the crux of the reason he resents medicine, Rhodes Island is already addressing the issue - we never intended to rely solely on pharmaceuticals to solve all the world's problems. He either will - or already has - found Rhodes Island to be a suitable place for him, and we will work hard as well to realize his ideals.
+
+	승진 기록 :
+	    아가 2차 승진 시 보여주었던 황송스러워하는 모습은 조금 의외이긴 했지만, 생각해보면 그다지 이상할 것도 없었다. 아는 모든 의학을 싸잡아 폄하하였고, 의학자 중 한 명인 자기 자신 역시도 스스로 낮게 평가하였기 때문이다. 의학이 아무 쓸모가 없다면, 이에 정통한 자신도 마찬가지로 쓸모가 없다고 여기면서 말이다. 그는 의학에 대한 조예가 깊어질수록 자신을 더욱 폄하하였지만, 의학의 길을 떠난 자신이 다른 무언가를 잘 할 수 있을지에 대한  확신이 없어, 이 악순환의 고리를 끊을 수 없었다.
+	    누구도 자신이 하는 일이 옳다고 해주지 않았고, 누구도 자신이 이렇게 하는 것이 괜찮은 것이라 말해주지 않았으며, 누구도 자신이 머물고 싶은 곳에서 자신을 인정해 주지 않았다. 리 탐정사무소의 동료들은 그가 도덕적인 측면에서 어긋나지 않도록 도와주었으나, 이런 문제들에 대해서는 줄곧 제대로 된 해결책을 제시해 줄 수 없었다. 물론 리 탐정사무소의 모두를 탓하는 건 아니다. 이런 심리적 문제는 보통 전문가에 의해서만 제대로 된 조치가 취해질 수 있으며, 더욱이 아와 같은 경우라면 제대로된 환경을 조성해 주는 것 역시 무척이나 중요할 테니.
+	    로도스 아일랜드에서는 아의 모든 것이 있는 그대로 인정받고 있으며, 모든 사람들이 그가 옳을 뿐만 아니라, 최고라고 얘기해 준다. 게다가 로도스 아일랜드는 아가 생각하는 의학이 가진 가장 큰 문제점에 대한 대안도 가지고 있었는데, 그건 바로 모든 것을 의학에만 의존하여 해결할 생각이 없다는 것이다.
+	    아는 어쩌면 훗날 로도스 아일랜드가 그에게 가장 적합한 곳이라는 것을 알게 될 것이다. 아니, 어쩌면 이미 알고 있을 지도 모른다. 그렇기에 우리는, 아가 생각하는 그런 이상적인 터전이 될 수 있도록 노력해야 할 것이다.

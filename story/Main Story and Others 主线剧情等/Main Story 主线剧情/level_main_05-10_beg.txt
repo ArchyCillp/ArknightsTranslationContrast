@@ -630,7 +630,7 @@
 
 [name="？？？"]  “恐惧升腾，她终将盲目——”
 [name="？？？"]  「沸き出でる恐怖、かの女は盲目に――」
-[name="???"]  'As terror rises, her eyes become blind…'
+[name="???"]  'As terror rises, her eyes become blind...'
 [name="???"]  "솟아오르는 공포에 그녀의 눈이 가려지고……"
 
 [name="梅菲斯特"]  咳，罗德岛？从天上？！
@@ -865,7 +865,7 @@ A few minutes ago...
 
 [name=""]   04:21 A.M.  天气/多云
 [name=""]   a.m.　04：21　天気/晴れのち曇り
-[name=""]   4:21 AM \ Overcast
+[name=""]   4:21 A.M. \ Overcast
 [name=""]   04:21 a.m.  날씨/구름
 
 [name=""]   龙门上城区，“坏家伙”号，近卫局大楼上空40米处
@@ -1145,7 +1145,7 @@ A few minutes ago...
 
 [Decision(options="我明白。你和煌去战斗，我来指挥。", values="1")]
 [Decision(options="わかった。指揮は任せろ。", values="1")]
-[Decision(options="Underestood. I’ll issue commands from the rear.", values="1")]
+[Decision(options="Underestood. I'll issue commands from the rear.", values="1")]
 [Decision(options="알고 있다. 너는 블레이즈와 함께 싸워, 내가 지휘를 맡지.", values="1")]
 
 [name="阿米娅"]  嗯！
@@ -1205,7 +1205,7 @@ A few minutes ago...
 
 [Decision(options="我也可以相信你。", values="1")]
 [Decision(options="私もだ。", values="1")]
-[Decision(options="I’ll trust you too.", values="1")]
+[Decision(options="I'll trust you too.", values="1")]
 [Decision(options="나도 너를 믿어주지.", values="1")]
 
 [name="梅菲斯特"]  ——

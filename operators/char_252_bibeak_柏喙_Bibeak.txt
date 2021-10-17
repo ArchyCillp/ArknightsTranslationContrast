@@ -1,11 +1,17 @@
 ID:
 	char_252_bibeak
 
-干员代号\Name:
+CV:
 	柏喙
 	バイビーク
 	Bibeak
 	바이비크
+
+干员代号\Name:
+	藤田茜
+	藤田茜
+	Akane Fujita
+	후지타 아카네
 
 招聘合同\Character Usage:
 	近卫干员柏喙，努力在战场上建立自信。
@@ -43,177 +49,405 @@ ID:
 	갈라지는 칼날
 
 语音\Voices:
-	今天可以不用出门吗，太、太好了......像我这样的感染者，不应该穿着这样的衣服吧。自己亲手缝制的衣服，却没有穿它的权利......嗯？在罗德岛，可以吗？真的？
 	今日は外に出なくてもいいんですか……？よ、よかったです。……わたしみたいな感染者は、こんなお洋服を着るべきじゃないですよね。自分の手で仕立て上げたものなのに、着る権利がないなんて……え？ロドスでは、着ていいんですか？本当に……？
 	I don't need to go outside today? Th-thank goodness... Infected people like me have no right to wear these clothes. How strange it is that I cannot wear the clothes I make with my own hands... Eh? Rhodes Island doesn't care about stuff like that? Really?
 	오늘은 밖에 나가지 않아도 되나요……? 다, 다행이에요. ……저 같은 감염자는 이런 옷을 입으면 안 되잖아요. 제 손으로 만든 건데도 입을 권리가 없다니…… 네? 로도스 아일랜드에서는 입어도 괜찮나요? 정말요……?
 
-	欸，我的衣服？啊，这、这件是我自己设计的，裙摆使用了一些传统的意象，虽然比不上爸爸的作品......但这也是我对复古风格的一种尝试。
 	えっと、わたしのお洋服ですか？あっ、こ、これは自分でデザインしたんです。裾には伝統的なモチーフを当ててみたんです。パパの作品には遠く及びませんけど……でも、これもクラシックスタイルへの私なりのチャレンジです。
 	Oh, my outfit? Um, I designed this one myself. The skirt incorporates some traditional motifs, though it can't compete with my dad's work... But this is my attempt at emulating an old-fashioned style.
 	그러니까, 제 옷 말인가요? 아, 이, 이건 제가 디자인한 거예요. 소매에는 전통적 모티브를 반영해 봤어요. 아빠의 작품에는 한참 못 미치지만…… 그래도 이것도 클래식 스타일에 대한 제 나름의 도전이에요.
 
-	午安，博士，我在尝试整理房间......经常把房间弄得一团糟，对不起......以前从来没有自己整理过，现在慢慢练习，很有趣，但也经常打碎装饰......
 	ごきげんよう、ドクター。お部屋のお片付けをしていたところなんですが……いつも散らかしてしまってごめんなさい……。今まで自分でしたことがなくて、今は少しずつ練習してるんですよ。とても楽しいですが、飾ってあるものをよく壊してしまって……。
 	Good afternoon, Doctor. I'm trying to clean up my room... Sorry, my room often ends up being a mess... I used to never have to organize my room, and now that I'm starting to learn, it's actually rather fun... although I often break things in the process...
 	안녕하세요, 박사님. 방 정리를 하던 참이었는데…… 항상 어지럽혀서 죄송해요…… 이제까지 제가 해본 적이 없어서 지금은 조금씩 연습하고 있어요. 무척 즐겁지만, 장식품을 자주 망가뜨려서……
 
-	脱离了那种生活，一开始确实不太适应，但之前我只是觉得自己成了感染者，没法再过那种生活，所以担惊受怕......现在不是了。我想学些新的东西，想为罗德岛的和我一样的病人们做些事。
 	生活が一変して、確かに最初はあまり馴染めませんでした。あの時はただ、自分は感染者になってしまった、もう今までのようには暮らせない、そんなことを考えてたら、いつも不安で、怖くて……。でも今は違います。わたし、新しいことを学びたいです。ロドスの、わたしと同じような患者さんたちのために、少しでも力になりたいです。
 	I've always had trouble adjusting after being pulled away from my old life. In the very beginning, I felt like I couldn't continue living after becoming an Infected, and I was just so scared... But I'm not like that anymore. There's so much I want to learn, and I want to do more for those just like me here at Rhodes Island.
 	생활이 확 바뀌어서 확실히 처음엔 그다지 녹아들지 못했어요. 그때는 그저 나는 감염자가 되어 버렸다, 더는 지금까지처럼 지낼 수 없다, 그런 걸 생각했더니 항상 불안하고, 무서워서…… 하지만 지금은 아니에요. 저요, 새로운 것을 배우고 싶어요. 로도스 아일랜드의, 저와 비슷한 환자들을 위해 조금이라도 힘이 되고 싶어요.
 
-	从小，爸爸就一直要求我学习剑术，小时候我并不喜欢......但在那场事故之后，有时握着剑，会比牵着纺线更让我安心。
 	小さい頃から、ずっとパパに剣術を頑張るように言われてきましたが、昔はどうしても好きになれなくて。……でもあの事故以来、お裁縫をしている時よりも、剣を握っている時の方が安心することもあるんです。
 	Since I was young, my father required me to study swordsmanship. I didn't like it back then, but... after that incident, sometimes holding the sword has been more reassuring than holding the spinning thread.
 	어렸을 때부터 계속 아빠한테 검술을 열심히 익히라는 소리를 들었는데, 옛날에는 도무지 좋아지지 않았어요. ……하지만 그 사고 후로는 재봉을 하고 있을 때보다 검을 쥐고 있을 때가 더 안심이 되기도 해요.
 
-	我曾经很害怕出门，被感染后，总觉得一切都在鄙夷我......但是现在我已经明白，大家身上闪烁着的自尊心，和是否感染一点关系都没有。这才是最美丽的纹饰啊。
 	前は、外に出るのが怖かったんです。感染した後、何もかもがわたしを蔑んでいるように感じて……。でも今はもう気づきました。皆さんの心に輝いているプライドは、感染者かどうかなんて全然関係ないんです。それこそが、世界で一番美しい紋様ではありませんか。
 	I used to be afraid to go outside. As an Infected, I felt like everything was scorning me... But now I understand that one's self-esteem has nothing to do with whether or not she is Infected or not. After all, that is the most beautiful decoration.
 	전에는 밖에 나가는 게 무서웠어요. 감염된 후론 모든 게 저를 경멸하는 것 같아서…… 하지만 지금은 깨달았어요. 모두의 마음에 빛나고 있는 자존심은 감염자인지 아닌지는 전혀 상관이 없다는 걸요. 그게 바로, 세계에서 가장 아름다운 문양 아닌가요?
 
-	博士，那个......可，可以的话，我、我替您做几件衣服......吧？我觉得你很适合我的一些想法呢。啊，其他的干员们，我也时常这么请求的......
 	ドクター、あの……も、もしよければ、ドクターのお洋服をお仕立てしても、いいですか……？わたしが考えたデザイン、きっとドクターに似合うと思うんです。あっ、他のオペレーターの方々にもよくこんなお願いをしているんですが……。
 	Doctor, um... If, if it's possible, can I make some clothes for you...? I think you'd be just right for bringing out some of my ideas. Um, I sometimes ask the other Operators in the same way...
 	박사님, 저어…… 호, 혹시 괜찮으시면 박사님의 옷을 지어드려도, 될까요……? 제가 생각한 디자인이 분명 박사님께 어울릴 거 같거든요. 앗, 다른 오퍼레이터분들께도 자주 이런 부탁을 드리고 있는데요……
 
-	那些用矿石刺我的人，我原本当然很恨他们的，只是现在......如果一直被囚禁在那种鄙夷和绝望中，我也会做出可怕的事吧。我一点也不后悔逃出我的宅子，哪怕那里有我很多温暖的回忆。
 	源石でわたしを刺した人たち、最初はもちろん憎かったですが、今は……もしずっとあの侮蔑と絶望の中にとらわれていたら、わたしも恐ろしいことをしでかしていたのかもしれません。だからわたし、家を出たことに少しも後悔はないんです。優しい思い出が、たくさんある場所でしたが。
 	The people who stoned me with Originium... Of course I hated them, but now... If I continued to harbor that contempt and despair, it would have driven me to do terrible things. I have no regrets about running away from home, even if it holds many warm memories of my past.
 	오리지늄으로 저를 찌른 사람들. 처음에는 물론 원망스러웠지만, 지금은…… 만약 계속 그 모멸과 절망 속에 사로잡혀 있었다면 저도 무서운 짓을 저질렀을지도 모르겠네요. 그래서 저는, 집을 나온 것을 조금도 후회하지 않아요. 다정한 추억이 많은 곳이었지만요.
 
-	大家教我的东西，我想全都加在为大家编织的衣服中......呵呵，虽然这样看起来，元素有些冗杂了呢。但当我用剑和他们一起战斗，以及用针去缝出花纹的时候，我的心境就是这样的呀。
 	皆さんから教わったこと、全部お洋服に込められたらなって思いながら仕立ててるんです。……ふふ、こうして見ると、ちょっと要素を取り入れすぎたみたいですね。でも剣を取って皆さんと一緒に戦うときや、針で模様を刺繍するとき、いつもこんな心境になるんですよ。
 	I want to incorporate the many things I've learned from everyone into something we can all wear...Hehe, even with that in mind, the elements are a bit complicated. But this reflects my emotions, whether I'm brandishing my sword or flourishing my needle.
 	여러분께 배운 것을 전부 옷에 담아낼 수 있으면 좋겠다고 생각하면서 만들고 있어요. 후후…… 이렇게 보면 조금 요소를 너무 집어넣은 것 같네요. 하지만 검을 쥐고 여러분과 함께 싸울 때나, 바늘로 무늬를 수놓을 땐 항상 이런 마음이 들어요.
 
-	趁现在，来编点小东西吧。
 	今のうちに、小物でも編んじゃおうかな。
 	Let's use this time to craft something small.
 	이참에 작은 거라도 짜볼까.
 
-	你，你好博士......我的代号是柏喙......请问，这儿有针织缝纫室吗？
 	ご、ごきげんよう、ドクター……わたし、コードネームはバイビークと申します。……あの、ここって、裁縫室はありますか？
 	H-hello, Doctor... My codename is Bibeak... Excuse me, but is there a facility with a loom and a knitting machine here?
 	아, 안녕하세요, 박사님…… 저의, 코드네임은 바이비크라고 합니다. 저어…… 여기는 재봉실이 있나요?
 
-	他们战斗的方式，我从来都没想过......
 	こんな戦い方があるなんて、考えてもみませんでした……
 	The way they fight... I've never even thought about that before...
 	이런 전투 방법이 있다니, 생각도 못 했어요……
 
-	晋、晋升？我......可以吗？我其实不那么擅长战斗......谢谢你。
 	しょ、昇進？わたしで……いいんですか？実は戦いってあまり得意じゃないんですが……ありがとうございます。
 	A p-promotion? Are you sure? I'm actually not very good at fighting... Thank you.
 	스, 승진이요? 저로…… 괜찮은가요? 실은 전투는 그다지 잘하진 못하는데…… 감사합니다.
 
-	我的身边......有罗德岛的干员们、有博士您在，我相信在有限的生命里，我也能活得和普通人一样精彩......甚至，过上一种他们从未想象过的生活。
 	わたしには……ロドスの皆さんやドクターがいてくださいます。限りある命の中で、こんなわたしでも健常者の方と同じように色鮮やかな……いえ、彼らが想像もつかないような日々を送れると、信じています。
 	By my side... are all the Operators of Rhodes Island, and you, Doctor. Even with my limited life, I'm still able to live normally like a normal person... No, a life they never would be able to dream is possible.
 	저에게는…… 로도스 아일랜드 여러분과 박사님이 있어요. 유한한 삶 속에서, 이런 저도 건강하신 분들과 마찬가지로 선명한…… 아니, 그들이 상상도 못 할 법한 날들을 보낼 수 있을 거라고 믿고 있어요.
 
-	好、好的！
 	わ、わかりました！
 	G-got it!
 	아, 알겠습니다!
 
-	欸？我、我来指挥吗？
 	え？わ、わたしが指揮を？
 	Hm? I'm the leader?
 	네? 제, 제가 지휘를요?
 
-	就像纹理一样，只有一种织法。
 	布地の織り目と同じように、やり方は一つです。
 	Just like a textile, there is only one way to weave.
 	천의 짜임과 마찬가지로 방법은 하나입니다.
 
-	争斗还是不可避免吗......
 	やはり、争いは避けられないんですね……
 	Is fighting unavoidable after all...?
 	역시 전투는 피할 수 없네요……
 
-	啊，好的！
 	あっ！はい！
 	Ah, understood!
 	앗! 네!
 
-	战、战斗的服装已经准备好了！
 	戦闘用の服もばっちり準備してきました！
 	I've finished the combat uniforms!
 	전투용 옷도 빠짐없이 준비해 왔습니다!
 
-	用剑和用针，是一样的吗？
 	剣と針の扱いって、通じるところがあるでしょうか？
 	Is wielding the sword the same as wielding the needle?
 	검과 바늘을 다루는 것엔 통하는 부분이 있을까요?
 
-	我也......可以战斗！相信我！
 	わたしも……戦えます！信じてください！
 	I... can also fight! Believe in me!
 	저도…… 싸울 수 있어요! 믿어 주세요!
 
-	我，我是不会留情的！
 	て、手心は加えません！
 	I, I won't hold back!
 	봐, 봐주지 않겠습니다!
 
-	有话请留到战斗以后，我有要保护的人！
 	お話は後で！守らなきゃいけない人がいるんです！
 	If you have anything to say, save it for after the battle! There are people I must protect!
 	이야기는 나중에! 지켜야 할 사람이 있어요!
 
-	像引线穿针一样......出剑！
 	針に糸を通すように……突く！
 	Like threading a needle... Strike!
 	바늘에 실을 꿰듯이…… 찌른다!
 
-	生命难道也可以裁剪吗？
 	命も裁断できるというんですか？
 	Can the strings of life also be cut?
 	생명도 재단할 수 있다는 건가요?
 
-	您辛苦了，博士！那个，我的表现怎么样呢？
 	お疲れ様でした、ドクター！あの、わたしの戦いぶりは、いかがだったでしょうか？
 	Great work, Doctor! Um, what did you think about my performance?
 	수고하셨습니다, 박사님! 저어, 제 싸우는 모습, 어떠셨나요?
 
-	终、终于结束了！如果各位的制服有破损的话，我可以帮忙修补......
 	や、やっと終わりました！皆さん、もし制服が破れたりしてたら、わたしがお直しします……！
 	It, it's finally over! If your uniform is damaged, I can help repair it...
 	드, 드디어 끝났어요! 여러분, 혹시 제복이 찢어졌으면 제가 고쳐드릴게요!
 
-	啊，有人逃走了......不过，比死得痛苦......要好很多。
 	ああっ、逃げた人がいました……。でも、苦しみながら死んでしまうよりは……ずっと良いですもんね。
 	Oh, someone got away... But, that's a better outcome... than the cruelty of death.
 	아앗, 도망친 사람이 있었어요…… 하지만 괴로워하며 죽는 것보다는…… 훨씬 낫겠지요.
 
-	我，我......我还是，还是很没用......
 	わ、わたし……やっぱり……やっぱり、役立たずです……。
 	I, I'm still... so useless...
 	저, 저는…… 역시…… 역시, 도움이 안 돼요……
 
-	嗯......纺织间在哪里呢？
 	えっと……裁縫室はどこでしょうか……？
 	Hmm... Where is the textiles room?
 	저어…… 재봉실은 어디인가요……?
 
-	呀！
 	きゃっ！
 	Yah!
 	꺅!
 
-	啊，博士，帮我拿一下布料好吗？
 	あっ、ドクター。生地を運ぶのをお手伝いいただけませんか……？
 	Oh, Doctor, can you help grab those textiles for me?
 	앗, 박사님. 옷감 옮기는 걸 도와주시겠어요……?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	您、您好，博士。
 	ご、ごきげんよう、ドクター…。
 	H-hello, Doctor.
 	아, 안녕하세요, 박사님…
+
+干员档案\Background:
+	基础档案 :
+	【代号】柏喙
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】萨米
+	【生日】12月12日
+	【种族】黎博利
+	【身高】161cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】バイビーク
+	【性別】女
+	【戦闘経験】なし
+	【出身地】サーミ
+	【誕生日】12月12日
+	【種族】リーベリ
+	【身長】161cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Bibeak
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Sami
+	[Date of Birth] Dec 12
+	[Race] Liberi
+	[Height] 161cm
+	[Infection Status] 
+	Originium crystals are distributed across the surface of her body, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 바이비크
+	[성별] 여
+	[전투경험] 없음
+	[출신지] 사미
+	[생일] 12월 12일
+	[종족] 리베리
+	[신장] 161cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Normal
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	干员柏喙，雷神工业装备设计师之女，遭遇工厂工人暴动而不幸感染矿石病。
+	现作为医疗救助对象加入罗德岛，依照本人的意愿，允许调入作战部门，她的剑术如同她纺线一般优雅而有韵律。
+
+	個人履歴 :
+	レイジアン工業の装備デザイナーの娘。工場の暴動に巻き込まれ、鉱石病に感染した。
+	医療救助対象としてロドスに加入し、その後、本人の意思により戦闘部門に配属された。彼女の剣術は裁縫の技術と同じように優雅でリズミカルだ。
+
+	Profile :
+	Operator Bibeak, daughter of a Raythean Industrial designer, contracted Oripathy following a riot by factory workers.
+	She has been brought aboard Rhodes Island for medical support, but has been allowed to transfer to a combat department per her request. Her swordsmanship is as elegant and rhythmic as her work on the loom.
+
+	프로필 :
+	    어느 레이시언 공업 장비 디자이너의 딸인 바이비크는, 불행히도 과거 공장 노동자 폭동 사태에 휘말려 광석병에 감염되었다. 현재는 의료 구조 대상으로서 로도스 아일랜드에 들어와 있으며, 본인의 의사에 따라 작전 부서로의 전입을 허가했다. 그녀의 검술은 그녀가 자아내는 실처럼 우아하며, 운율이 깃들어있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】6%
+	干员柏喙体表有源石结晶分布，但经受良好治疗，已得到控制。
+	
+	【血液源石结晶密度】0.19u/L
+	干员柏喙虽意外感染，但平时甚少接触源石，且感染后得到了较为妥善的救治，目前病情稳定，暂无恶化风险。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】6%
+	体表に源石結晶の分布が確認されているが、適切な治療により、病状は安定している。
+	
+	【血液中源石密度】0.19u/L
+	事故による感染ではあるが、普段は源石との接触が極めて少なく、また適切な治療を受けているため、現在は病状が安定しており、悪化する予兆は見られない。
+
+	Clinical Analysis :
+	Imaging tests reveal blurry outlines of this operator's internal organs, clouded with abnormal dark spots. Her circulatory system shows an abnormally high rate of Originium particulate matter, with other signs of Oripathy infection, we can confirm that the Operator is Infected. 
+	
+	[Cell-Originium Assimilation] 6%
+	Originium is distributed across Operator Bibeak's trunk, but the condition has been well-treated and is under control.
+	
+	[Blood Originium-Crystal Density] 0.19u/L
+	Despite accidental infection, Bibeak rarely comes in contact with Originium, and has been properly treated following infection. The current condition is stable with little risk of deterioration.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 6%
+	오퍼레이터 바이비크의 체표면에는 오리지늄 결정이 분포해있으나, 알맞은 치료 조치를 받아 병세가 억제되었음.
+	
+	[혈중 오리지늄 결정 밀도] 0.19u/L
+	뜻밖의 사고로 감염되었지만 오퍼레이터 바이비크는 평소 오리지늄 접촉할 기회가 굉장히 적으며, 감염 후 적절한 치료를 받아 현재 증상이 안정되어 있다. 한동안은 악화 위험 없음.
+
+———————————————————————————————
+
+	档案资料一 :
+	柏喙来到罗德岛的第一件事，就是询问是否有能够让她顺利剪裁缝制出衣物的专门场所，以及专业道具，而幸运的是，这些在罗德岛都可以找到。
+	对于她来说，缝纫和纺织都是能够使心灵得到平静的行为。受到设计师父亲的熏陶，柏喙所制作的服装贴身舒适，并且具有相当高的观赏水准。只不过在服装元素的设计上，柏喙有时会因难以取舍而过度加入多种元素，使得她的作品整体风格偏向繁复华美，并不那么适用于战斗场合。
+	
+	干员柏喙本人似乎将替他人设计服装视为情感表达的方式之一，在相处了一段时间后，许多干员都收到了柏喙略带羞赧的测量身体尺寸的请求。
+
+	第一資料 :
+	バイビークがロドスに到着してすぐに尋ねたのは、彼女が衣服を仕立てるための場所と道具のありかである。幸い、ロドスにそれらのものは全て揃っていた。
+	彼女にとっては、紡績も裁縫も、気持ちを落ち着かせる行為の一つなのである。デザイナーの父親の影響を受けた彼女の作製する服装は着心地がよく、外観のデザインもかなりの高水準である。ただし、彼女は一つの作品に色んな要素を過剰に詰め込み、全体の仕上がりが繁雑で派手になる傾向があり、戦闘用には向いていないと思われる。
+	
+	バイビーク本人は、服装デザインを感情表現の一つとしているらしい。彼女と知り合ってしばらく経つオペレーターの多くは、恥じらう様子の彼女から採寸をさせてほしいとお願いされるのだ。
+
+	Archive File 1 :
+	When Bibeak first came to Rhodes Island, her first request was whether there was a special place where she could tailor clothes and articles for work, but unfortunately, Rhodes Island has no shortage of those.
+	For her, sewing and weaving are ways of calming her mind. Influenced by her father's work as a designer, Bibeak's creations are both comfortable and visually striking. However, because she sometimes has difficulty deciding what to incorporate in a design, her overall style tends to be intricate and beautiful, qualities ill-suited for combat scenarios.
+	
+	Bibeak seems to view designing clothing as a way of expressing her emotions. After getting to know her better, many operators have approached her with embarrassment, asking to have their measurements taken.
+
+	파일 자료 1 :
+	    바이비크가 로도스 아일랜드에 도착하고 처음 한 일은, 바로 그녀가 재단하고 옷을 지을 수 있는 전용 장소 및 도구가 있는지 묻는 것이었다. 그리고 다행히도, 그녀는 로도스 아일랜드에서 그녀가 원하는 것들을 찾을 수 있었다.
+	    그녀에게 있어 재봉과 방직은 마음을 편안하게 해주는 행위다. 디자이너인 아버지의 가르침을 받았던 바이비크가 만든 옷은 몸에 딱 맞고 편안하며, 심미적 수준 역시 상당히 높은 편이다. 다만 옷의 요소를 설계할 때 바이비크는 종종 그 요소를 고르기 힘들어하거나 너무 많이 고르기도 하였는데, 그녀가 만든 작품의 전반적인 디자인은 너무 복잡하고 화려해서 전투에 그다지 적합하진 않았다.
+	
+	    오퍼레이터 바이비크는 타인을 대신해 옷을 디자인하는 행위를 감정 표현의 한 가지 방법으로 여긴다. 그녀와 어느 정도의 시간을 함께 보낸 많은 오퍼레이터들은, 다소 수줍은 듯한 태도로 신체 치수를 측정하게 해달라는 바이비크의 요청을 받았다.
+
+———————————————————————————————
+
+	档案资料二 :
+	干员柏喙出生在条件优渥的富裕家庭中，她完全继承了父亲的设计师天赋，自幼就展现出了对于设计与纺织的巨大兴趣，如果不出意外，想必她将来也会走上同父亲相仿的道路，成为一名出色的服装设计师吧。
+	出于教养和防身的考虑，干员柏喙从孩童时期起，便被要求学习剑术。这种华丽好看的剑术并非战场上磨砺出的技能，而更多强调培养仪态、气品，附带起到健身及可以忽略不计的防身功效。
+	但就算是这种在许多战士看来只能说是观赏性的剑术，在关键时刻，也依然起到了剑术应有的效果，当握紧自己的佩剑时，生性胆小温顺的柏喙，头一次鼓起勇气面对情绪失控的人群，与那些失去理智正对她施加伤害的工人们相抗争，努力保护了她自己以及同样在场的其他路人。
+
+	第二資料 :
+	裕福な家庭に生まれ育ったバイビークは、父親のデザイナーとしての才能を受け継ぎ、幼い頃からデザインや紡績に並ならぬ興味を示した。順当にいけば、彼女は将来父親と同じような道を進み、優れた衣装デザイナーになることだろう。
+	教養と自己防衛手段を身につける一環として、バイビークは幼い頃から剣術を習っていた。華麗で美しい剣術は実戦向けではないが、マナーと気品を磨くことに重きを置いており、自己防衛力やそれによる健康維持はあくまでおまけである。
+	しかし、多くの戦士から見ればただの飾り物に過ぎないその剣術も、肝心な時はそれなりの威力を発揮した。理性を失った工場の労働者たちと対峙した際、臆病で温厚な彼女は、初めて勇気を振り絞って剣を握り締め、彼らの暴力から自身やその場にいた群衆を守ったのである。
+
+	Archive File 2 :
+	Born into a well-off family, Bibeak inherited the discerning eye of her father when it came to fashion design. Ever since she was a child, she showed a great interest in textiles and design. Had it not been for an unexpected incident, she was sure to follow her father's footsteps to becoming an excellent fashion designer in her own right.
+	Bibeak was expected to learn swordsmanship from a young age, both as a means of self-cultivation and a form of self-defense. Her elegant, almost poetic swordsmanship is not something that can be learned on the battlefield - rather, it is the product of a focus on demeanor and temperament, with only peripheral benefits when it comes to self-defense.
+	While many warriors will write off this kind of swordsmanship as purely ornamental, it still serves its purpose in a pinch. With a sword clasped in her hand, even the normally gentle and reserved Bibeak will, for the first time, have the courage to fight the masses whose raging emotions have been fanned into flames, and to protect herself and nearby innocents from those who have given themselves over to madness.
+
+	파일 자료 2 :
+	    부유한 가정에서 태어난 오퍼레이터 바이비크는 그녀의 아버지에게서 디자이너로서의 재능을 물려받았고, 어릴 때부터 디자인과 방직에 대해 큰 관심을 갖고 있었다. 만약 뜻밖의 사고가 발생하지만 않았다면 분명 그녀도 의류 디자이너같은, 그녀의 아버지와 비슷한 길을 걸었을 것이다.
+	    오퍼레이터 바이비크는 어린 시절부터 교양과 호신을 목적으로 검술을 배워왔다. 이런 화려한 검술은 전장에서 갈고 닦는 것이 아니라 몸가짐과 기품을 익히는 것이 주된 목적이며, 부차적으로는 건강과 호신 목적도 겸한다. 
+	    하지만 많은 전사들이 감상용이라고 생각하는 이런 검술도 중요한 순간에는 검술로서의 그 기능을 다할 수 있었다. 겁이 많고 온순한 바이비크는, 생전 처음으로 용기를 내어 이성을 잃은 무리들에 맞서 싸워, 자신의 곁에 있는 사람들을 지켜내고자 검을 집어들게 되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	【调查记录摘录】
+	都调查得很清楚了，柏喙的感染完全是个意外。当她走在街头，就这么撞上抗议示威的工厂工人们，道路很快被封堵，她没法离开，当地的警察用催泪弹试图驱逐这些激动的工人，事情很快就开始升级，有人藏在人群里大声喊一些难听的话，说不清是被激怒的工人或者又是别的什么另有所图的人，总之，没多久，工人组织的游行就溃散了，最后完全演变成了一场暴徒发起的暴动......
+	当时我们从信使传来的消息里得知这事的发生，并没有太过关注。对很多人来说，这事不太新鲜，最近到处都闹得厉害，维多利亚三天两头就要封住一些道路免得搞不清情况的人一头撞进去。
+	柏喙就是撞上了这样的惨事，她就处在现场，处在失去理智的人群中，无路可逃，有人朝她砸了一块源石，这不幸造成了她的被感染。
+
+	第三資料 :
+	【調査記録（抜粋）】
+	バイビークの感染が完全に事故であったことは、調査ではっきりしている。事の発端は、彼女が街を歩いていた時、工場の労働者たちによる抗議デモに巻き込まれたことにある。道路がすぐに封鎖されてしまったため、彼女は抜け出すことができずにいた。地元の警察は激昂した労働者たちを催涙ガスで追い払おうとしたが、それが逆効果となり事態は急速にエスカレートした。群衆の中で労働者、あるいは何か別の狙いを持った正体不明の者が、下品な言葉を叫んでいたという証言もある。ほどなくして労働者たちのデモは崩れ、暴徒による暴動に成り果てたという……
+	トランスポーターからこの事件を聞いた時、我々は特段気に留めることはなかった。多くの人にとって、これはさほど珍しい事件ではなく、ここ最近はあらゆる場所で不穏な事件が起きているためである。ヴィクトリアでは、状況を理解していない人が巻き込まれないように、頻繁に道路の封鎖を行っているという話もある。
+	バイビークはまさにその悲劇的な事件に偶然巻き込まれたのである。彼女は現場で理性を失った群衆の波に揉まれ、逃げることができないまま誰かが投げた源石に直撃し、不幸にも感染してしまったのだ。
+
+	Archive File 3 :
+	[Investigation Report Excerpts]
+	All the evidence points to Bibeak's infection as an accident. When she was walking in the streets, she just happened to get caught up in a factory worker protest. The road was quickly barricaded, and she was trapped within the crowd as the local police tried to quash the protest with tear gas. The situation escalated quickly, and some people in the crowd began to yell obscenities and incite violence. It is unclear whether this was caused by the workers or by external agitators, but the protest quickly devolved into a riot......
+	When we first heard the news from a messenger, we did not pay too much attention to the situation. After all, incidents like these are certainly not new for many people. Recently, unrest has been everywhere. Almost every day, Victoria has to seal off certain roads to prevent innocent people from accidentally wandering into unfortunate situations.
+	Bibeak, unfortunately, did get caught up in such an incident. When order broke down in the protest, she had no way of escaping, and someone struck her in the head with a chunk of Originium which resulted in her infection.
+
+	파일 자료 3 :
+	[조사 기록 발췌]
+	    조사를 통해 바이비크의 감염은 그야말로 뜻밖의 사고였다는 점이 명확히 밝혀졌다. 당시 거리를 걷고 있던 그녀는 우연히 공장 노동자들의 단체 시위대를 마주치게 되었다. 빠르게 봉쇄된 거리에서 그녀는 미처 빠져나가지 못했으며, 현지 경찰은 최루탄으로 흥분한 노동자들을 쫓아내려 했으나 순식간에 사태는 커져갔다. 분노한 노동자인지, 아니면 다른 의도를 갖고 있던 자인지는 모르겠지만 무리 속에 숨어 있던 누군가에 의해 시위대와 경찰 간의 충돌이 발생하게 되었고, 오래 지나지 않아 노동자 조직의 시위는 해산되었지만 결국 폭동으로 변해버렸다.
+	    전달자로부터 이러한 소식을 전해 들었을 당시, 우리는 별다른 관심을 갖지 않았다. 많은 사람들에게 있어 이건 그다지 대수로운 일도 아니었고, 최근에는 이런 충돌이 곳곳에서 발생하는 데다가, 빅토리아에선 수상한 사람이 들어오는 것을 막기 위해 하루가 멀다 하고 몇몇 거리를 봉쇄하는 일이 비일비재했으니 말이다.
+	    바이비크는 바로 그런 끔찍한 일을 직접 겪었던 것이다. 현장에서 그녀는 이성을 잃은 사람들 가운데서 도망가지도 못한 채, 불행히도 누군가가 휘두른 오리지늄 조각에 찔려 감염되고 말았다.
+
+———————————————————————————————
+
+	档案资料四 :
+	“怨恨伤害自己的人，这是谁都会有的情绪，没有必要感到羞耻。”
+	“但是，如若总是被这样的怨恨所占满，被怨恨所支配，自己最后会变成什么样子，光是想一想，就会觉得难以接受，会觉得不可以再这样。”
+	 
+	在提及自己心绪的转变时，干员柏喙少见地袒露出了心声。
+	尝试离开自己封闭的房间，离开安全的庇护所，尝试重新与人接触，尝试提起剑走上战场，柏喙在自己力所能及的范围内，努力做出更多新的尝试，试图习惯自己全新的身份，试图活得比原本还要更精彩。
+	当她决意要直接面对那些改变她生活的东西，手中的细剑总能给予她勇气。
+
+	第四資料 :
+	「自分を傷つける人を憎む――それは誰にでも生まれうる感情です、恥じる必要はありません。」
+	「ですが、いつまでも憎しみにとらわれ、支配されていると、最後に自分はどうなってしまうのか、考えるだけでぞっとします。このままではいけないと思いました。」
+	
+	自身の心境の変化について、バイビークは珍しく本音を吐露した。
+	閉じこもりがちな部屋を離れ、安全な避難所を離れ、改めて他人と接触し、剣を握り戦場に出てみる――彼女は自身にできる範囲で新しいことに多く挑戦し、新しい自分を受け入れ、昔以上の生活を送ろうとしている。
+	人生を変えるような事柄に直面する時が来たら、その手に握った細い剣が、彼女に勇気を与えるだろう。
+
+	Archive File 4 :
+	'Resentment towards the self-destructive is an emotion that everyone harbors, and there is no need to be ashamed of that.'
+	'However, if you are always filled with this kind of resentment and let it dominate you, you will find reality utterly unacceptable merely by thinking about it.'
+	
+	This change in her mental state was one of the few times Bibeak voiced her inner emotions.
+	Try to step out from the confines of your room, and from your comfort zone. Try to make contact with others, and to blaze new trails on the battlefield with your blade. Bibeak has tried to follow this advice to the best of her abilities, trying to come to terms with her new identity and the life that comes with it.
+	When she made the decision to directly confront the things that changed her life forever, the thin blade in her hand always gave her courage.
+
+	파일 자료 4 :
+	    "자신을 다치게 한 사람을 원망하는 건 당연한 감정이니, 부끄러워할 필요 없어요."
+	    "하지만 만약 언제나 그런 원망을 가득 품은 채, 원망에 지배당한다면 자신이 마지막에 어떤 모습으로 변하게 될 지 생각해보세요. 그리고 그것을 받아들일 수 없다면, 그렇게 되지 않도록 해야겠죠."
+	
+	    자신의 심경 변화를 이야기 할 때면, 오퍼레이터 바이비크는 가끔 이렇게 자신의 마음 속 이야기를 하곤 한다.
+	    스스로 문을 걸어 잠궜던 방을 나와, 은신처를 벗어나 새로이 사람들과 마주하고, 검을 들고 전장으로 나가는 등, 바이비크는 완전히 새로운 신분에 적응하며 자신의 능력 범위 안에서 가능한 많은 새로운 것들을 시도하고, 이전보다 더 다채롭게 살아보고자 하고 있다.
+	    바이비크가 그녀의 삶을 바꿔버린 것들을 직접 마주하고자 결심하였을 때, 손에 쥐고 있던 레이피어는 언제나 그녀에게 용기를 북돋아 주었다.
+
+———————————————————————————————
+
+	晋升记录 :
+	一开始她只给健康的干员做衣服，后来她开始专门拉着感染者量三围。现在？现在她已经不挑对象了，可能是终于开窍了，明白大家都一样穿衣吃饭，感染不感染根本没什么影响了吧？
+	还有，我看她根本一点都不胆小，都敢给凯尔希医生设计蕾丝花边超短裙了，这哪里胆小？再借我一个胆子我都不敢啊！
+	——不知名工作人员A
+
+	昇進記録 :
+	最初のあの子は健康なオペレーターにしか服を作ってなかったのに、そのうち感染者のスリーサイズを測るばかりようになった。今？今は相手を選ばなくなったよ。みんな同じように服も着るしご飯も食べる、感染者かどうか全然関係ないって、ようやく気づいたんじゃない？
+	それに、あの子が臆病だっていうのは絶対違うと思うよ。だってあのケルシー先生にレースのミニスカートを仕立てようとしたんだよ？それのどこが臆病っていうの？私だったら死んでもそんな提案はできないよ！
+	——匿名従業員A
+
+	Promotion Record :
+	At first, she only made clothes for the non-Infected Operators, but recently, she has begun to specifically look for Infected members to take measurements. What can we make of this? Perhaps now that she has stopped choosing her clients, she understands that everyone eats and wears clothing, going through life all the same. Does one's infection status change that at all?
+	Furthermore, I don't think she's the timid type at all. She even dared to design a frilly miniskirt for Dr. Kal'tsit. What could be more brave than that? Give me an extra gall bladder and I still wouldn't be able to pull off something like that!
+	--Anonymous Operator A
+
+	승진 기록 :
+	    처음에는 건강한 오퍼레이터에게만 옷을 만들어주더니, 나중에 가서는 감염자들만 따로 데려가서 치수를 재더라니까. 지금? 지금은 따로 상대를 가리진 않아. 드디어 알게 된 거겠지, 다 같은 옷을 입고 다 같은 밥을 먹으면 감염자든 비감염자든 그게 무슨 상관이겠어? 그리고 난 그녀가 절대 겁이 많다고 생각하지 않아. 켈시 선생님한테 레이스 꽃이 달린 짧은 치마를 디자인해줄 정도인데 뭐가 겁이 많다는 거야? 간이 두 배로 커진다 해도 난 절대 꿈도 못 꿀걸!
+	——이름을 알 수 없는 작업 인원 A

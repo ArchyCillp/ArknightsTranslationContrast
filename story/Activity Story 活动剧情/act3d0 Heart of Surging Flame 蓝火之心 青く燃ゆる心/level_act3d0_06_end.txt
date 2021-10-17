@@ -135,7 +135,7 @@
 
 [Decision(options="我得到了！;......;嗯，已经找到账簿和债券了。",values="1;2;3")]
 [Decision(options="見つけた！;……;ああ、帳簿と債券を見つけたぞ。",values="1;2;3")]
-[Decision(options="I’ve got it!;……;Mhm. I’ve already found the logbooks and bonds.",values="1;2;3")]
+[Decision(options="I've got it!;......;Mhm. I've already found the logbooks and bonds.",values="1;2;3")]
 [Decision(options="찾았다!;……;장부와 채권을 찾아냈다.",values="1;2;3")]
 
 [name="红豆"]     哦？找到了啊？果然打他们一顿是有用的嘛。陨星姐也说了，暴力有时候是必要的！
@@ -160,7 +160,7 @@
 
 [Decision(options="这些资料，我们把它都带上！",values="1")]
 [Decision(options="構わない。この資料を全て持って行こう！",values="1")]
-[Decision(options="Let’s take everything with us!",values="1")]
+[Decision(options="Let's take everything with us!",values="1")]
 [Decision(options="이 자료들, 전부 챙겨간다!",values="1")]
 
 [name="红豆"]     好~
@@ -230,7 +230,7 @@
 
 [Decision(options="也就是说你要完蛋了！;......;证据现在都在我们手中，你难逃法网了，先生。",values="1;2;3")]
 [Decision(options="お前はもう終わりだ！;……;証拠は全てこちらにある、もう逃げられない。",values="1;2;3")]
-[Decision(options="In other words, you’re toast.;……;You can’t escape the law. We have all the evidence.",values="1;2;3")]
+[Decision(options="In other words, you're toast.;......;You can't escape the law. We have all the evidence.",values="1;2;3")]
 [Decision(options="넌 이제 끝났다는 얘기지!;……;증거는 전부 우리 손에 있다. 법의 심판을 피해 갈 순 없게 됐군, 크로닌 선생.",values="1;2;3")]
 
 [name="赫拉格"]   博士，请小心，他也许还会做些垂死挣扎。

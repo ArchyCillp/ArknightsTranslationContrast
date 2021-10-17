@@ -1,11 +1,17 @@
 ID:
 	char_302_glaze
 
-干员代号\Name:
+CV:
 	安比尔
 	アンブリエル
 	Ambriel
 	엠브리엘
+
+干员代号\Name:
+	西田望见
+	西田望見
+	Nishida Nozomi
+	니시다 노조미
 
 招聘合同\Character Usage:
 	罗德岛狙击干员安比尔，她会在你看不到的地方瞄准你的身后。
@@ -43,177 +49,370 @@ ID:
 	레이더 위치 추적
 
 语音\Voices:
-	今天有什么工作？要是不急，那就稍微向后面延一延嘛。
 	今日はなんかやることあんのー？急ぎじゃないなら、また今度にしようよー。
 	Any work to do today? If it's not urgent, just push everything back a bit.
 	오늘은 뭐 할 거 있어? 급한 거 아니면 다음에 하자.
 
-	我能凭借源石技艺感知附近生物，这台辅助设备还能增幅效果，听起来很厉害吧？所以，戍卫队就派我去参加守城巡逻，抓些翻墙逃课的学生什么的，可真是知人善用啊。
 	あたしはアーツで周りの生物を感知できるんだけど、この機械があれば更にそのチカラをパワーアップできんのね。ヤベーっしょ？まーそれで守衛隊にパトロールなんか任されてたんだけどね。つっても授業をサボってるヤツを補導すんのが仕事。ものは使いようってわけね。
 	I can detect nearby creatures with my Originium Arts, and this auxiliary device can further amplify the effect. Sounds great, huh? That's why the Garrison Team sent me to patrol the city, in case there were any students trying to skip school. They sure know how to put people to use.
 	난 아츠로 주위 생물을 감지할 수 있는데, 이 기계가 있으면 그 힘을 더 파워업할 수 있어. 장난 아니지? 뭐~ 그래서 수위대에선 순찰 같은 걸 맡게 됐지만… 그래도 수업을 빼먹는 애들을 선도하는 게 일이었으니, 물건은 쓰기 나름이라는 거지.
 
-	事先说好哦，所谓拉特兰的秘密什么的，我可一点也不知道。我只想过悠闲自在的生活而已，知道的越多，对自己也就越没有好处，对吗。
 	めんどいから先に言っとくけど、ラテラーノの秘密なんかこれっぽっちも知らないから。あたしはなんも考えずにぼーっと生きてたいだけ、悠々自適って言うんだっけか？色々知りすぎて良いことなんてない、わかるっしょ？
 	Just to get this out of the way, this so-called secret of Laterano or whatever? I don't know a single thing about it. I just want to live a leisurely life. The less I know, the better off I'll be, wouldn't you agree?
 	귀찮으니까 미리 말해두는데, 라테라노의 비밀 같은 건 요만큼도 몰라. 난 아무 생각 없이 느긋하게 살고 싶을 뿐이야. 유유자적이라고 하던가? 이것저것 너무 많이 알아도 좋을 거 없어, 알잖아?
 
-	唔？那个人，难不成是公证所的？他是来监督我“履行义务”的？拜托啊，我可是每月都好好缴纳税款的。反正不管是不是，以后要是他出现，你就悄悄告诉我，好方便我跑路咯。
 	あれ？あいつもしかして公証人役場の…？あたしの「義務履行」を監視に？マジ勘弁だわ、毎月ちゃんと税金払ってるっしょ。まぁどっちにしろ、次にあいつが来た時は逃げやすいようにこっそり教えてよね。
 	Hmm? Isn't that person over there from the Notarial Hall? He wanted to make sure I'm 'fulfilling my obligations?' Oh please, I pay my taxes on time every month. Anyway, whether or not that's true, give me a whisper if he's looking for me so I have time to go on a run.
 	어라? 저 녀석 혹시 공증인 사무소의…? 내 '의무 이행'을 감시하러 온 거야? 미치겠네 진짜. 매달 제대로 세금도 내고 있잖아. 뭐, 어쨌든 다음에 저 녀석이 오면 도망치기 쉽게 몰래 말해줘.
 
-	之前我蛮无聊的，就去舰桥上面偷懒......啊不，去望下风景，结果就被大家误以为是准备对什么人下手了，这不是把我当成杀手了吗？那种工作方式我才不想呢，多麻烦啊。
 	前さー、暇だったからブリッジでサボって……いや、景色を眺めてたわけ。したらみんなあたしが誰かを狙撃しようとしてるって誤解したくさくてさ、殺し屋扱いされちゃったんだよね。そんな鬼めんどい仕事なんかやるわけねーっつーの。
-	I was bored earlier, so I headed down to the bridge to slack off… Err, I meant, I wanted to take a look at the scenery, but everyone was looking at me like I was getting ready to off somebody. Hey, doesn't that mean people see me as a killer? Like I'd ever want a job like that, way too messy.
+	I was bored earlier, so I headed down to the bridge to slack off... Err, I meant, I wanted to take a look at the scenery, but everyone was looking at me like I was getting ready to off somebody. Hey, doesn't that mean people see me as a killer? Like I'd ever want a job like that, way too messy.
 	전에 말이야~ 한가해서 함교에서 땡땡…… 아니, 경치를 바라보고 있었거든. 그랬더니 모두 내가 누군가를 저격하려 한다고 오해를 한 모양이더라고. 살인 청부업자 취급을 당했지 뭐야. 그렇게 정말 성가신 일 따윈 할 리가 없다고.
 
-	过去的上司总对我们唠叨“要以生命守护拉特兰的荣耀”，可我对这种口号没有一点兴趣，也讨厌那时一成不变的生活。还是在你这里工作更好，因为我能得到更加实际的东西。
 	前の上司は「命をかけてラテラーノの栄光を守れ」なんてしょーもないことをいつも言ってたけどさ、そんなの毛ほどもキョーミなかったし、代わり映えしない生活にもマジで萎えてた。やっぱロドスがサイキョーかなー、ここにいればよっぽど実のあるものを得られるっていうか。
 	In the past, the top brass used to always harp on 'protecting the glory of Laterano with your life,' but I have no interest in that slogan, and I hate how static and immutable life was during that time. Working with you is way better, since you can give me something more practical.
 	예전 상사는 "목숨을 걸고 라테라노의 영광을 지켜라" 같은 한심한 소리를 항상 했었는데 말이야. 그런 건 털끝만큼도 흥미 없었고, 변하지 않는 생활도 진짜 질렸었어. 역시 로도스 아일랜드가 최고인 거 같아~ 여기 있으면 꽤 실속 있는 걸 얻을 수 있는 거 같아서.
 
-	头发有点乱？哦，好像起床之后一直没有打理，毕竟今天没什么任务......真麻烦，帮我看下，辫子有没有扎歪？我总觉得怪怪的。办公室好歹也装个镜子嘛。
 	髪がぐちゃぐちゃ？あー、そういや起きてからちゃんと直してないわ、今日は任務もないしね……あーだる、ちょっと横見てよ、結び目んとこが変な感じするんだよね。てかさー、執務室にも鏡くらい置こうよー。
-	My hair's a bit messy? Oh, seems like I forgot to tidied up after getting out of bed. After all, it's not like I have anything to do today… What a pain in the butt. Anyway, come help me out, is my braid all crooked? It always feels a bit weird to me. You really should have a mirror in your office.
+	My hair's a bit messy? Oh, seems like I forgot to tidied up after getting out of bed. After all, it's not like I have anything to do today... What a pain in the butt. Anyway, come help me out, is my braid all crooked? It always feels a bit weird to me. You really should have a mirror in your office.
 	머리가 엉망이라고? 아~ 그러고 보니 일어나서 제대로 빗질 않았네. 오늘은 임무도 없고 말이야…… 아~ 귀찮아. 잠깐 옆쪽 좀 봐줘. 묶은 데가 이상한 거 같아. 그보다 말이야~ 집무실에도 거울 정도는 놓자.
 
-	喏，给你蛋糕。我说你啊，休息的时候都做什么？适当出门走走，去附近城市转转，应该挺不错的？安保嘛，就找一位能随时把接近你的坏人“啪啪”地击毙的优秀干员随行，完美。
 	はい、ケーキ持ってきたよ。てかさ、休みの時はいつもなにしてるわけ？たまには外出て街ブラとかよくない？ボディーガードねぇ……近づいてくる悪いヤツらをいつでも「パパッ」と蜂の巣にできるオペレーターをさ、その辺で適当にひっ捕まえて連れてきゃいーのよ、カンペキっしょ。
 	Hey, I have some cake for you. What do you usually do during break? You really should take a lap around the city and get some fresh air, don't you think? As for security, just grab an Operator that can go 'pow pow' on any baddies near you, and you're set.
 	자, 케이크 갖고 왔어. 아 근데, 쉴 때는 맨날 뭐해? 가끔은 밖에 나가서 돌아다니는 게 좋지 않아? 보디가드 말이지…… 접근해 오는 나쁜 녀석들을 언제든지 '파팍'하고 벌집으로 만들 수 있는 오퍼레이터를 말이야, 근처에서 적당히 붙잡아서 데리고 가면 되잖아. 완벽하지?
 
-	现在看会儿电影？反正工作都差不多都做完了嘛。就看那部讲公主和外国旅人相遇的浪漫电影怎么样？等下，我得先把防止被打扰的牌子挂在门口，我可不想被打扰。
 	ねーねー、仕事もそろそろ終わるっしょ？映画でも見ちゃわない？お姫様と外国から来た旅人が出会うラブ・ロマンスなんてウリ文句のあれ。あ、ちょい待ち、取り込み中のプレートをドアに掛けとくわ、邪魔されたらたまったもんじゃないかんねー。
 	Wanna go watch a movie? Our work's just about done anyway. How about that romantic movie about the princess and the wanderer from afar? Wait, I need to hang up my do-not-disturb sign. Wouldn't want someone walking in.
 	있잖아, 일도 곧 끝나지? 영화라도 보지 않을래? 공주님과 외국에서 온 여행자가 만나는 러브 로맨스라고 광고하던 그거. 아, 잠깐만. 방해 금지 팻말을 문에 걸어놓을게. 방해받으면 못 참을 거 같으니까~
 
-	......做点什么好呢。
 	……何しよっかなーっと。
-	…Gotta take advantage of a time like this.
+	...Gotta take advantage of a time like this.
 	……뭐 할까.
 
-	安比尔，狙击手，拉特兰出身......说明身份什么真麻烦，就这样吧。喏，刚开包的巧克力，你也来一根。
 	あたしはアンブリエル、ラテラーノ出身の狙撃手……ってさー、自己紹介なんてめんどいから、もうこんぐらいでいっしょ。はい、さっき開けたばっかのチョコ、まー一本食っときなって。
 	Ambriel, sniper, from Laterano... Introductions are a pain in the butt, so that's it. Here, I just opened this pack of chocolate. Break off a stick.
 	난 엠브리엘이야. 라테라노 출신의 저격수…… 인데 말이야, 자기소개 같은 건 귀찮으니까 이제 이 정도면 충분하지? 자, 방금 뜯은 초콜릿이야. 뭐, 하나 먹어.
 
-	......时间这么长啊，就没有一次性播放所有录像的功能吗？
 	……長すぎっしょ。一括再生的な機能ないの？
-	How long is this thing… Is there no option to play all of these at once?
+	How long is this thing... Is there no option to play all of these at once?
 	……너무 길잖아. 일괄 재생 같은 기능 없어?
 
-	谢谢。说来，晋升的同时薪水会不会再提高些？我最近想买点东西......
 	あざーす。あのさ、昇進ってもしかして給料も上がったりするの？うん、ちょっと買いたいものがあってさ……
-	Thanks. Speaking of which, do these promotions come with a salary increase? There's something I've been looking at recently…
+	Thanks. Speaking of which, do these promotions come with a salary increase? There's something I've been looking at recently...
 	감사함다~ 있잖아, 승진이라면 혹시 급료도 올라? 응, 좀 사고 싶은 게 있어서……
 
-	啊，谢谢你，我已经在罗德岛待这么久了吗？不知不觉间，我已经得到了很多，而且都是些不错的回忆呢。
 	マジで？サンキュー！ロドスに来てもうそんなになるんだねー。ここではたくさんのものを貰ったよ、どれもみーんなステキな思い出なんだよね。
 	Oh, thank you very much. I've been with Rhodes Island for quite some time now, right? Without realizing it, I've gotten a whole lot out of this, and made some good memories as well.
 	진짜? 땡큐~! 로도스 아일랜드에 온 지 벌써 그렇게 됐구나~ 여기서는 많은 걸 받았어. 다 멋진 추억이야.
 
-	这次的队友看起来都挺能干的嘛。
 	おっ、みんなやりそーな面構えじゃん。
 	My teammates seem quite capable this time.
 	오, 다들 제법 할 거 같은 얼굴이잖아.
 
-	事先说好，我喜欢的战术可都不那么常规。
 	先に言っとくよ、あたしの好きな戦術はちょっと変わってるかんねー。
 	I'll say this up front. My tactics are a little unorthodox.
 	먼저 말해둘게. 내가 좋아하는 전술은 좀 특이하거든.
 
-	准备好了？那走咯。
 	準備オッケー？じゃ行くよー。
 	Ready? Let's get going.
 	준비됐어? 그럼 간다~
 
-	希望这次任务能赶在晚饭前结束。
 	夜ご飯までに終わりゃーいーけどさ。
 	I hope we can wrap this mission up before dinner.
 	저녁 먹기 전까지 끝나면 좋겠는데.
 
-	嗯？
 	うん？
 	Hmm?
 	응?
 
-	等我吃完这根。
 	この一本が最後だからちょい待ちー。
 	Let me finish this piece first.
 	이 한발이 마지막이니까 조금만 기다려.
 
-	射击辅助平台展开。
 	射撃補助モジュール展開っと。
 	Deploying sniper platform.
 	사격 보조 모듈 전개.
 
-	自动校准中。
 	オートキャリブレーション中よ。
 	Automatically calibrating.
 	오토 캘리브레이션 중이야.
 
-	在这边。
 	ここね。
 	Over here.
 	여기구나.
 
-	你藏得不够隐蔽。
 	あんたそれ、隠れられてないよー。
 	You should've hidden yourself better.
 	거기 너, 제대로 안 숨어졌는데.
 
-	外面可是很危险的。
 	外は危ないからねー。
 	It's very dangerous out there.
 	밖은 위험하니까.
 
-	我送你回家吧。
 	家まで送ろうかー？
 	I'll send you home.
 	집까지 바래다줄까?
 
-	每一次都能做到这种程度，真不愧是博士你啊。
 	毎回こんだけできるって、さすがドクターじゃん。
 	As expected, Doctor, you're the only one who can consistently achieve results like this!
 	매번 이렇게 할 수 있다니, 역시 박사야.
 
-	没有一发子弹被浪费，完美。
 	無駄弾はナシ、カーンペキ。
 	Not a single wasted shot - perfect.
 	총알 낭비 없음, 퍼펙트.
 
-	赢得没那么漂亮，不过毕竟是胜利，对吧？
 	まーちょーっとマズったけど、勝ちは勝ちっしょ？
 	Not the prettiest victory, but a win's a win, right?
 	뭐 조~금 실수하긴 했지만, 이긴 건 이긴 거지.
 
-	可见目标还在增加，敌人马上就要发动进攻了，博士，快撤退......
 	見るからに敵の数が増えてきてる。総攻撃の態勢じゃん。ドクター、早く撤退しよ……
-	The number of targets is still increasing, and they're about to launch an attack. Doctor, let's get out of here…
+	The number of targets is still increasing, and they're about to launch an attack. Doctor, let's get out of here...
 	언뜻 봐도 적의 수가 늘었어. 총공격 할 태세잖아. 박사, 빨리 철수하자……
 
-	博士，自动贩卖机里的手指饼干该补货了哦。
 	ドクター、自販機のビスケットの補充おなしゃーす。
 	Doctor, it's about time to replenish the cookies in the vending machine.
 	박사, 자판기 비스킷 보충 좀 부탁함다~
 
-	什么啊。
 	なによ。
 	What is it?
 	아 왜.
 
-	听说销售站新增了一批服装？唔唔，博士，你可一定要陪我去看看。
 	新しい服が入荷したってマジ？ねぇドクター、こりゃ行くしかないっしょ。
 	I heard that a new line of clothing just arrived in the Procurement Division? Hehe, Doctor, you simply must take me to see it.
 	신상 옷이 들어왔다는 거 진짜야? 저기, 박사. 이건 갈 수밖에 없잖아!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	哟。
 	よっ。
 	Yo.
 	여어.
+
+干员档案\Background:
+	基础档案 :
+	【代号】安比尔
+	【性别】女
+	【战斗经验】一年
+	【出身地】拉特兰
+	【生日】1月13日
+	【种族】萨科塔
+	【身高】160cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】アンブリエル
+	【性別】女
+	【戦闘経験】一年
+	【出身地】ラテラーノ
+	【誕生日】1月13日
+	【種族】サンクタ
+	【身長】160cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Ambriel
+	[Gender] Female
+	[Combat Experience] 1 year
+	[Place of Birth] Laterano
+	[Date of Birth] Jan 13
+	[Race] Sankta
+	[Height] 160cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 엠브리엘
+	[성별] 여
+	[전투경험] 1년
+	[출신지] 라테라노
+	[생일] 1월 13일
+	[종족] 산크타
+	[신장] 160cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Standard
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	安比尔，拉特兰公民。经多项测试后获许加入罗德岛，在伏击和远程狙击等非对称作战中表现上佳。
+	现于罗德岛狙击小组任职，提供射击援护方面的保障服务。
+
+	個人履歴 :
+	ラテラーノ公民。多くのテストに合格しロドスに加入した。伏撃と遠距離射撃などの非対称戦闘において目覚ましい活躍を見せる。
+	現在はロドスの狙撃チームに所属し、援護射撃面を支えている。
+
+	Profile :
+	Ambriel is a citizen of Laterano. After many tests, she was allowed to join Rhodes Island, where her skills in ambushing and long-range sniping helped her perform well in asymmetric operations.
+	She now serves in the Rhodes Island sniper team, providing long-range support.
+
+	프로필 :
+	    라테라노 공민인 엠브리엘은 여러 가지 테스트를 거쳐 로도스 아일랜드에 합류했으며, 기습과 원거리 저격과 같은 작전에서 훌륭한 성과를 보여주었다.
+	    현재 로도스 아일랜드의 스나이퍼 팀에 속해 있으며, 사격 지원 방면의 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员安比尔没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.13u/L
+	干员安比尔甚少接触源石。  
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.13u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Ambriel shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.13u/L
+	Operator Ambriel rarely comes in contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 엠브리엘은 광석병 감염 증세가 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.13u/L
+	오퍼레이터 엠브리엘은 오리지늄과의 접촉 기회가 굉장히 적음.
+
+———————————————————————————————
+
+	档案资料一 :
+	安比尔出身于拉特兰。依照萨科塔人一贯的战术理念，安比尔将铳作为唯一的作战武器。不过与大多数追求新式铳武的萨科塔战士不同，安比尔选择了一把款式过时但极为经典的长铳。在经过加装零件和简单的改造后，这把长铳很快就在随后的战斗中证明了自己应有的价值。
+	以安比尔的话来说，选择这把铳的唯一理由就是为了避免麻烦：她既不想像持有短程铳武的作战人员那样与敌人进行接近战，也不想每天搬运那些过于沉重的高级狙击铳上下班。
+	虽然使用了在战术上被认为无法达到标准的铳武，但因为安比尔所处的位置相对不重要，加上为人低调，工作完成基本不出岔子，所以基本得到了上司的默许。
+
+	第一資料 :
+	ラテラーノ出身のアンブリエルは、サンクタ族従来の戦術理念に従い、銃を唯一の武器としている。しかし、新型銃器を追い求める多くのサンクタ人と違い、アンブリエルが伝統的な長銃を選んだ。いくつかのパーツを付け加え、簡単な改造を施した後、彼女はすぐに実戦でこの長銃の価値を発揮した。
+	アンブリエルの話によると、この銃を選んた唯一理由は面倒事を避けるためとのこと。 近距離銃器を扱うメンバーのように敵と接近戦を行うことも、重い高級狙撃銃を担いて毎日出勤することも御免だという。
+	戦術上では基準に満たしていないとされる銃を使用しているが、彼女のポジションはさほど重要ではなく、加えて控えめな性格と特にミスがなく仕事をこなしてきた実績を持っているため、上司からは黙認されている。
+	
+
+	Archive File 1 :
+	Ambriel was born in Laterano. In accordance with the tactical philosophy of the Sankta, Ambriel uses only a gun as her combat weapon of choice. However, unlike most of the other Sankta warriors who pursued modern gun kata techniques, Ambriel chose an outdated but classic rifle. After a simple modification and the installation of additional parts, this long gun quickly proved its worth in subsequent battles. 
+	In Ambriel's words, the only reason she chose this gun was to avoid trouble - she has no desire to engage in close combat with a shorter-ranged gun, nor did she want to lug around the unwieldy components of a modern sniper rifle. 
+	Even though she uses a weapon that is considered anachronistic for the modern battlefield, because of her low-key nature and relatively inconspicuous position, she basically gets her work done, and therefore the top brass has no reason to find any fault with her.
+
+	파일 자료 1 :
+	    엠브리엘은 라테라노 출신이다. 산크타인들의 일관된 전술 이념에 따라 엠브리엘은 한 자루의 총을 유일한 무기로 삼았다. 신식 총기를 선호하는 다른 산크타 전사들과는 다르게, 엠브리엘은 유행이 지난 굉장히 클래식한 스타일의 장총을 선택했다. 추가 부품을 장착하고 간단한 개조를 거친 이 장총은, 얼마 지나지 않아 전투에서 자신의 가치를 증명했다.
+	    엠브리엘이 본인의 말에 의하면, 해당 총기를 선택한 유일한 이유는 단지 귀찮은 게 싫어서라고 한다. 단거리 소총을 이용하는 오퍼레이터들처럼 적과 근접전을 벌이기도 싫고, 무거운 고급 저격총을 들고 매일 출퇴근하기도 싫다는 것이다.
+	    전술적인 측면에서는 기준 미달인 총이었지만, 엠브리엘의 전술 포지션이 상대적으로 중요하지 않은 위치인 데다, 사람 자체가 조용조용하고 작전을 수행하는 데 별문제가 없었기 때문에, 다행히도 상관의 암묵적인 동의를 얻을 수 있었다.
+
+———————————————————————————————
+
+	档案资料二 :
+	即使身为萨科塔，安比尔也没有表现出任何异于常人的地方。她随遇而安，不太引人注目，似乎出现在什么地方都不会让人觉得奇怪。除去她手中的长铳的话，和刚刚放学的学生没有太大区别。
+	在罗德岛就职后的这一段时间里，安比尔也没有表现出太多独特的爱好。她比较喜欢零食和甜品，似乎看一些题材轻松不复杂的电影和电视节目，非工作日的时候会和其他萨科塔干员聚会聊天。
+	所以当大家注意到她的时候，更多讨论的是她手中的长铳。对于不熟悉铳武的干员，他们总会就铳武的实际威力展开讨论，甚至升级为论战。
+	对此，安比尔会默默蹲在一旁聆听这些讨论，然后默默在内心中想着：吵得好，再猛烈些。
+
+	第二資料 :
+	サンクタ族であっても、彼女はいたって普通である。 どこにいてもおかしくない、さほど目立つこともない少女だ。その手に持っている長銃を除けば、放課後の学生と大差はない。
+	ロドスに就職してから、彼女は特に変わった趣味を示さなかった。好物はおやつとデザートで、シンプルな題材の映画やテレビ番組を見たり、休日は他のサンクタ族のオペレーターと集まったりする。
+	人々が彼女の話題をする時、多くの場合はその長銃についての議論だ。 銃器に馴染みのないオペレーターたちはよく銃の実際の威力について議論、ひいては論争を行うのだ。
+	こういった時、アンブリエルはいつも隅で静かに議論を聞きながら、内心で思う――いいぞ、もっとやれ。
+
+	Archive File 2 :
+	Despite being a Sankta, Ambriel doesn't seem much different from the ordinary person. She is easygoing and not too striking, not seeming out of place to others wherever she might appear. If not for the long gun she carries in her hands, she doesn't seem much different from a student who just left school.
+	After taking a post in Rhodes Island, Ambriel did not exhibit any unique hobbies. She enjoys snacks and desserts, and likes watching simple TV shows and movies with themes that don't require much thought. On her off days, she sometimes meets and chats with other Sankta operators.
+	When people did notice her, it was mostly about the gun in her hands. Since Operators thoroughly unfamiliar with gun kata would often proselytize its power and benefits, these conversations often escalated into controversy.
+	In this regard, Ambriel would quietly sit down and listen to these discussions, thinking silently to herself: 'Good. Now fight.'
+
+	파일 자료 2 :
+	    산크타인이긴 하나, 엠브리엘이 남들과는 다른 특이한 모습을 보여준 적은 없었다. 그녀는 적응이 빠르고, 눈에 잘 띄지 않으며, 어떤 곳에 나타나더라도 위화감은 들지 않았다. 그녀가 들고 있는 장총을 제외하면, 겉보기엔 이제 막 방학을 맞은 학생과 별다른 차이점이 없어 보였다.
+	    로도스 아일랜드에 입사한 후, 엠브리엘은 본인만의 취미 생활을 갖지는 않았다. 그저 간식과 디저트를 좋아하고, 가벼운 주제의 영화와 드라마를 보며, 휴일에는 다른 산크타 출신 오퍼레이터와 만나 담소를 나누는 게 전부였다.
+	    그래서 다들 그녀에 관한 이야기를 할 때면, 주로 그녀의 장총으로 화제가 집중된다. 아직 총기에 익숙하지 않은 오퍼레이터들은 늘 총기의 실제 위력에 대해 의견을 나누곤 하는데, 이는 가끔 논쟁으로까지 이어지기도 했다.
+	    그런 논쟁이 있을 때마다, 엠브리엘은 말없이 한편에 웅크려 앉아 이들의 대화를 경청하며, 속으로는 '잘한다, 더 격렬하게 해봐!'라고 생각하였다.
+
+———————————————————————————————
+
+	档案资料三 :
+	经常能从安比尔那里得到的一个回答是：想要一些更实际的东西。但其实就连她自己也不清楚所谓的“实际”的具体范围是什么。
+	一般来说，实际的东西是指令人满意的薪水、稳固的人际关系、新奇有趣的潮品、令人心醉的奢侈品、光彩悦目的装饰品......
+	归根结底，其实就是物欲吧？
+
+	第三資料 :
+	「もっと確実な何かが欲しい」という言葉を、彼女はよく口にしている。 しかし、その「確実」とは具体的どういった類のものなのか、彼女自身もはっきりしていないようだ。
+	一般的に「確実」といえば、満足できる賃金、安定した人間関係、目新しいファッション、魅惑的な贅沢品、華やかな装飾品……。
+	いわば、「物欲」というものだろう。
+
+	Archive File 3 :
+	An answer that you'll often get from Ambriel is: 'I want something a bit more practical.' However, even she doesn't have a good idea of what that 'practicality' looks like.
+	Generally speaking, 'practical' refers to a satisfactory salary, stable relationships, trendy products that are novel and interesting, intoxicating luxury goods, and glamorous decorations... 
+	In summation, isn't that just materialism?
+
+	파일 자료 3 :
+	    엠브리엘은 늘 '좀 더 실질적인 것을 원한다'고 대답한다. 하지만 아이러니하게도, 그녀 자신도 자신이 말하는 '실질적'이라는 것의 범위가 어디부터 어디까지 인지 모르고 있다.
+	    일반적으로 실질적인 것이란, 사람들을 만족시킬 수 있는 봉급과 안정적인 인간관계, 사람의 마음을 홀리는 사치품들, 화려한 장식품들을 말하는데…
+	    결국 물욕을 말하는 걸까?
+
+———————————————————————————————
+
+	档案资料四 :
+	干员安比尔的个性有些让人捉摸不透，甚至就连她自己也不清楚自己的个性究竟是怎样的。也许过惯了一成不变生活的她，还没有迎来一个能看清自己的机会。
+	这样的机会意味着强烈的改变。
+	安比尔自己是否有改变的意愿？一切都要看她自己的选择。
+
+	第四資料 :
+	アンブリエルの性格はいささか難解なところがある。彼女自身ですら自分の性格をはっきり言い表せないほどだ。何一つ変わりのない生活に慣れて、自身と向き合う機会にまだ出会えていないのかもしれない。
+	その機会は、大きな変化をもたらすことだろう。
+	そんな変化を迎え入れるか否かは、全て彼女次第である。
+
+	Archive File 4 :
+	Operator Ambriel's personality is rather elusive, and even she has no idea what her personality is supposed to be. Perhaps she is simply accustomed to a life of stasis, and has not had an opportunity that really allows her to see herself clearly.
+	An opportunity like this is also a chance for a massive change.
+	Does Ambriel possess the will to change? Everything depends on the choice she makes.
+
+	파일 자료 4 :
+	    오퍼레이터 엠브리엘의 개성은 짐작하기 어려우며, 심지어 그녀 자신조차 자신의 개성이 어떤 것인지 잘 모른다. 어쩌면 그녀는 단조로운 생활에 익숙해져, 아직 자신을 명확하게 알아볼 기회를 얻지 못한 건지도 모르겠다.
+	    이런 기회는 강렬한 변화를 의미한다.
+	    엠브리엘 자신은 변하고자 하는 의지가 있는가? 모든 것은 그녀의 선택에 달려있다.

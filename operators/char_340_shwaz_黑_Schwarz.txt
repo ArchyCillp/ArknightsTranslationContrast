@@ -1,11 +1,17 @@
 ID:
 	char_340_shwaz
 
-干员代号\Name:
+CV:
 	黑
 	シュヴァルツ
 	Schwarz
 	슈바르츠
+
+干员代号\Name:
+	伊藤静
+	伊藤静
+	Shizuka Itou
+	이토 시즈카
 
 招聘合同\Character Usage:
 	罗德岛干员黑，将在阴影中守护你。
@@ -53,177 +59,469 @@ ID:
 	최후의 전술
 
 语音\Voices:
-	日程安排我都记录好了，需要的话，随时可以向我确认。
 	ドクターのスケジュールは全て把握しております。必要な際はいつでもご確認いたします。
 	I made an itinerary. You can confirm with me anytime.
 	박사님의 일정은 모두 파악했습니다. 필요하실 땐 언제든 확인해 드리겠습니다.
 
-	会见血的任务，别让小姐去，让只能在阴影里生存的人去就够了。
 	血なまぐさい任務は、セイロン様には行かせないでください。そういうものは陰でしか生きられない我々に任せればいいのです。
 	When it's time to shed blood, do not send Lady Ceylon to do it, send someone who lives amongst the shadows.
 	피비린내 나는 임무엔 실론 님을 보내지 말아 주십시오. 그런 건 음지에서밖에 살 수 없는 저희에게 맡기시면 됩니다.
 
-	我不会告诉你有关小姐的任何私人情报。当然，你的私人情报我也不会告诉任何人。
 	セイロン様のプライバシーに関わる情報は、たとえドクターであっても教えるわけにはいきません。もちろん、ドクターの情報も決して口外することはありませんのでご安心ください。
 	I won't tell you any of Lady Ceylon's secrets. Of course, I won't tell anyone your secrets either.
 	실론 님의 사생활에 관한 정보는 설령 박사님이라 해도 가르쳐 드릴 수 없습니다. 물론, 박사님의 정보도 결코 입 밖에 내는 일은 없을 테니 안심하십시오.
 
-	博士，我是保镖，我的任务是保护你，而不是做你的聊天对象。如果你想找人说话，我建议你去找其他人，不要和小姐一样，总是找我。
 	ドクター、私に課せられた役割はあなたの話し相手ではなく警護です。おしゃべりがしたいならほかの方にどうぞ。セイロン様のようにしきりに話かけてくるのは……おやめください。
 	I'm a bodyguard and it's my duty to protect you, Doctor, not to be your chat buddy. If you want to talk, find someone else and stop turning to me like Lady Ceylon does.
 	박사님, 저에게 주어진 역할은 당신의 대화 상대가 아니라 경호입니다. 수다를 떨고 싶으시다면 다른 분을 찾아가십시오. 실론 님처럼 수시로 말을 거는 것은…… 삼가 주십시오.
 
-	我擅长的东西？杀人，保护人，还有......泡红茶。别露出那种表情，毕竟小姐的手艺......咳，总之，我很擅长。
 	私の特技、ですか？殺し、警護、それから……紅茶を淹れることですね。そんなに驚いた顔をしないでください、紅茶を学んだのはセイロン様の紅茶があまりにも……コホン、とにかく、わりと得意なほうです。
 	My expertise? Killing and protecting people. Oh, and making tea. Don't be so shocked. After all, Lady Ceylon is... Anyway, I'm good at that.
 	제 특기, 말입니까? 살인, 경호, 그리고…… 홍차를 끓이는 것입니다. 그렇게 놀란 표정 하지 마십시오. 홍차를 배운 것은 실론 님의 홍차가 너무…… 흐흠, 어쨌든 꽤 잘 끓이는 편입니다.
 
-	博士，根据迄今为止各种任务的危险程度，我认为，除了我的保护之外，你还需要学习一点防身术。否则，就连我也没有自信，能在所有情况下使你安然无恙。
 	ドクター、これまでの任務の危険性を鑑みると、私の警護に頼りきりになるのではなく、ご自身も少し護身術を身につけた方が無難です。そうでないと、私も自信を持って「いかなる状況でもドクターの安全を保証する」とは言えなくなってしまいます。
 	Based on the danger involved in the missions to date, Doctor, I believe, in addition to my protection, you should learn self-defense. Otherwise, even I can't guarantee your safety.
 	박사님, 지금까지의 임무 위험성에 비추어 봤을 때, 저의 경호에 완전히 의지하는 게 아니라, 직접 약간의 호신술을 배우는 편이 좋을 겁니다. 그렇지 않으면 저도 자신 있게 어떠한 상황에서도 박사님의 안전을 보증한다고 말할 수 없게 됩니다.
 
-	......一旦手上沾染鲜血，就再也不能回头了，博士，我不希望你也跨出这一步，会脏手的事，就交给我来吧。
 	……一度手を血に染めると、もう元の道には引き返せません。ドクターにはそうなってほしくありませんので、汚れ仕事は私にお任せください。
 	There's no turning back once you got blood on your hands, Doctor. I don't want you to go down that road, so leave the dirty stuff to me.
 	……한번 손을 피에 물들이면 더는 원래의 길로 돌아갈 수 없습니다. 박사님이 그렇게 되시는 건 바라지 않으니, 더러운 일은 제게 맡겨 주십시오.
 
-	想听我复仇的经历？你会睡不好觉的，博士。不过......真奇怪，我居然会有想说给你听的冲动......那么，去酒吧吧。这会是个不短的故事。
 	私の復讐譚を聞きたいとは……そんなものを聞いても悪夢を見るだけですよ、ドクター。でも……どうしてか、ドクターになら聞いてもらいたいと思っている自分もいます。では……話が長くなりそうなので、バーにでも行きましょう。
-	You want to hear my revenge story? You won't be able to sleep at night, Doctor. But I do have this strange urge to tell you. Why don't we hit the bar, because it's a long story…
+	You want to hear my revenge story? You won't be able to sleep at night, Doctor. But I do have this strange urge to tell you. Why don't we hit the bar, because it's a long story...
 	저의 복수담을 듣고 싶어 하실 줄은…… 그런 걸 들어봤자 꿈자리만 사나울 뿐입니다, 박사님. 하지만…… 왠지 박사님이 들어줬으면 하는 마음도 있습니다. 그럼…… 이야기가 길어질 것 같으니 바라도 가시죠.
 
-	罪孽深重的人不会有好下场，我心知肚明。只是在遇见小姐和博士你之后......如果能早一点遇见你们，我就不会仅仅是个凶手了。即使是现在也不晚？博士，你这句话，也是真心的吗？
 	罪深い人間に待つものは破滅だけ、そんなことは分かりきっていました。しかしセイロン様やドクターに出会ってからは……もっと早くお二人に出会っていれば、私もただの人殺しになることはなかったかもしれません。……今からでも遅くない？ドクター、それは本心、ですか？
 	Sinners always get what they deserve, I know that. But let's say I'd be more than just a killer had I met Lady Ceylon and you sooner. It's still not too late for me? Do you really mean that, Doctor?
 	죄 많은 인간에게 기다리는 것은 파멸뿐, 그건 충분히 알고 있었습니다. 하지만 실론 님이나 박사님과 만난 후부터는…… 더 빨리 두 분과 만났더라면 저도 단순히 살인자가 되는 일은 없었을지도 모릅니다. ……지금이라도 늦지 않았다고요? 박사님, 그 말, 진심이십니까?
 
-	......就这么睡着了吗，和小姐一样，真是一点警戒心都没有。
 	……こんな場所で眠ってしまうなんて。セイロン様と同じく、まったく警戒心のない人ですね。
 	Falls asleep just like that? Can't keep a guard up at all, just like her.
 	……이런 곳에서 주무시다니. 실론 님과 마찬가지로 전혀 경계심이 없는 분이군요.
 
-	我是锡兰小姐的私人保镖，黑，跟随小姐加入罗德岛。可能的话，希望尽量让我和小姐一起行动。
 	セイロン様のボディガードを務めさせていただいております、シュヴァルツと申します。この度セイロン様の従者としてロドスでお世話になる運びとなりました。できれば、セイロン様とともに行動させていただけますと幸いです。よろしくお願いいたします。
 	I'm Schwarz, Lady Ceylon's personal bodyguard, here to join Rhodes Island with her. If at all possible, please send me with her on any missions.
 	실론 님의 보디가드인 슈바르츠라고 합니다. 이번에 실론 님의 시종으로서 로도스 아일랜드에서 신세를 지게 되었습니다. 가능하다면 실론 님과 함께 행동하게 해주시면 감사하겠습니다. 잘 부탁드립니다.
 
-	罗德岛充斥着战场上的怪物，这样的战斗，我只能尽量模仿。
 	ロドスは化物揃いですね。こんな戦い方、今の私では何とか真似することくらいしかできません。
 	Rhodes Island is teeming with monsters. I can only hope to learn to battle like them.
 	로도스 아일랜드는 괴물들이 모여있군요. 이런 전투 방법은 지금의 저로서는 겨우 흉내 내는 것밖에 못 합니다.
 
-	现在，我明白了，为什么罗德岛会需要我......你们的理想，比我做过的事要疯狂百倍。
 	ようやくわかりました、私がロドスに必要とされる意味を……。あなたたちの理想は、私の過去なんて霞んでしまうくらい、とんでもないところにあるんですね。
 	Now I understand why Rhodes Island wanted me. You're looking for something a hundred times crazier than anything I ever did.
 	드디어 깨달았습니다. 로도스 아일랜드가 저를 필요로 하는 의미를…… 당신들의 이상은 저의 과거 따윈 희미해져 버릴 정도로, 어처구니없는 곳에 있군요.
 
-	要唤醒我过去的回忆吗，没有问题。如果是你的话，也许能驯化我们战斗中的那些邪恶。请一定，要驯化我。
 	私の過去の記憶を呼び起こしたい？いいでしょう。未だに戦いのことになると私の心から姿を現す魔物も、あなたなら飼いならせるかもしれません。どうか……私から目を離さないでいてください。
 	Reawaken my past? Sounds good. Maybe you can absolve the evil we did in battle. Please, cleanse me.
 	제 과거의 기억을 불러일으키고 싶다? 좋습니다. 아직도 전투가 벌어지면 저의 마음에서 모습을 드러내는 마물도, 당신이라면 길들일 수 있을지 모릅니다. 부디…… 제게서 눈을 떼지 말아 주십시오.
 
-	任务？知道了。
 	任務？分かりました。
 	Mission? Got it.
 	임무? 알겠습니다.
 
-	听我指挥。
 	私の指示に従ってください。
 	Follow my orders.
 	저의 지시에 따라 주십시오.
 
-	走吧。
 	行きましょう。
 	Let's go.
 	가시죠.
 
-	让他们有来无回。
 	彼らに帰り道などありません。
 	Kill them all.
 	그들에게 돌아가는 길 따윈 없습니다.
 
-	哪里需要我？
 	お役に立てそうですか？
 	Where am I needed?
 	도움이 될 것 같습니까?
 
-	在。
 	はい。
 	Here.
 	네.
 
-	这个位置......不错。
 	悪くない位置取りです。
 	This is a good spot.
 	나쁘지 않은 위치 선정입니다.
 
-	他们跑不了。
 	逃しはしません。
 	They won't get away.
 	놓치지 않겠습니다.
 
-	我看见你了。
 	見えていますよ。
 	I see you...
 	보입니다.
 
-	真显眼。
 	格好の的です。
 	Too obvious.
 	딱 좋은 표적입니다.
 
-	才这点人。
 	この程度の数で。
 	Is that all?
 	이 정도 숫자로.
 
-	小姐有仁慈之心，我没有。
 	セイロン様と違って、私は情けはかけません。
 	Lady Ceylon may be merciful, but I am not.
 	실론 님과 달리 저는 동정을 베풀지 않습니다.
 
-	博士，这种危险的任务，你指挥的地方离战场越远越好。
 	ドクター、またこのように危険な任務の指揮を取ることがあれば、もう少し戦場から離れていてください。
 	You should lead this dangerous mission from someplace as far away from the battlefield as possible, Doctor.
 	박사님, 또 이런 위험한 임무의 지휘를 맡으실 일이 있으면 조금 더 전장에서 떨어져 계십시오.
 
-	按照你的指示，没有漏网之鱼。
 	指示通り、一人残らず片付けました。
 	We got everyone, per your order.
 	지시하신 대로 한 명도 빠짐없이 처리했습니다.
 
-	确认周围已经安全了，下一步怎么做？
 	周囲の安全は確保しました、次はどうされますか？
 	The perimeter is secured. What's next?
 	주위의 안전은 확보했습니다. 다음은 어떻게 하시겠습니까?
 
-	博士，走，我会优先确保你的安全。
 	ドクター、こちらに。あなたの安全が第一ですから。
 	Come, Doctor, I'll ensure your safety.
 	박사님, 이쪽으로… 박사님의 안전이 제일 중요하니까요.
 
-	巡逻吗？我知道了。
 	巡回ですか？了解しました。
 	Patrol? Got it.
 	순찰입니까? 알겠습니다.
 
-	小心走火，博士。
 	ツッ……ドクター、怪我しますよ。
 	Watch out for accidental discharge, Doctor.
 	윽…… 박사님, 다칩니다.
 
-	博士，有什么情况吗。
 	ドクター、異常はありませんか。
 	Anything wrong, Doctor?
 	박사님, 이상은 없으십니까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	即使在基地里，也不要太过松懈，博士。
 	基地にいても、油断は禁物ですよ、ドクター。
 	Don't let your guard down, even on base, Doctor.
 	기반시설에 있어도 방심은 금물입니다, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】黑
+	【性别】女
+	【战斗经验】二十年
+	【出身地】雷姆必拓
+	【生日】本人表示遗忘
+	【种族】菲林
+	【身高】169cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】シュヴァルツ
+	【性別】女
+	【戦闘経験】二十年
+	【出身地】レム・ビリトン
+	【誕生日】本人が記憶していない
+	【種族】フェリーン
+	【身長】169cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Schwarz
+	[Gender] Female
+	[Combat Experience] 20 years
+	[Place of Birth] Rim Billiton
+	[Date of Birth] Individual exhibits memory loss regarding this information
+	[Race] Feline
+	[Height] 169cm
+	[Infection Status] 
+	Originium crystals have appeared on her body. Medical tests have confirmed her infection.
+
+	기본정보 :
+	[코드네임] 슈바르츠
+	[성별] 여
+	[전투 경험] 20년
+	[출신지] 림 빌리턴
+	[생일] 본인이 잊었다고 표시
+	[종족] 필라인
+	[신장] 169cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Excellent 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	前汐斯塔市市长SP兼城市治安局局长，随干员锡兰共同加入罗德岛。
+	在隐秘行动、侦查与反侦察、野外求生、弩使用等技能上拥有卓越的造诣。在担任博士护卫的同时，负责一部分罗德岛基层干员的训练工作。
+
+	個人履歴 :
+	元シエスタ市長SP兼市治安当局局長。セイロンと共にロドスに加入した。
+	隠密行動、偵察やかく乱、サバイバル、そしてクロスボウの扱いにおける造詣が深い。ドクターの護衛とともに、一部の一般オペレーターの訓練も担当している。
+
+	Profile :
+	Formerly both SP for the Mayor of Siesta and the Bureau Chief of the Urban Public Security Bureau, she joined Rhodes Island at the same time as Ceylon.
+	She has outstanding achievements in covert operations, reconnaissance and anti-reconnaissance, survival, and crossbow usage. She is in charge of protecting the Doctor and is responsible for the training of basic level Rhodes Islands operators.
+
+	프로필 :
+	    과거 시에스타 시장의 경호원이자 도시치안국 국장으로 활약했었다. 오퍼레이터 실론과 함께 로도스 아일랜드에 합류했다.
+	    기밀 작전, 조사, 기밀 정보 보호, 야외 생존, 크로스보우 사용 등의 기술에 매우 조예가 깊다. 박사의 호위를 담당하는 동시에, 일부 로도스 아일랜드 기초 오퍼레이터의 훈련 업무도 겸하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】6%
+	患者目前病程控制稳定。
+	
+	【血液源石结晶密度】0.29u/L
+	患者轻度矿石病感染，目前无扩散倾向。
+	
+	虽然罹患矿石病的时间相当早，但是由于在进入罗德岛前就接受了良好的治疗和使用了正确的抑制手段，目前患者病情相当稳定。
+	 ——医疗干员华法琳
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】6%
+	病態は安定した状態に抑えられている。
+	
+	【血液中源石密度】0.29u/L
+	軽度の鉱石病に感染しているが、現段階拡散の傾向は見られない。
+	
+	鉱石病に罹患したのはかなり早かったようだが、ロドスに入る前に適切な治療を受け、正しく症状を抑えておったのが功を奏したな。病状はかなり安定しておる。
+	――医療オペレーターワルファリン
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Assimilation] 6%
+	Patient's disease is under control.
+	
+	[Blood Originium-Crystal Density] 0.29u/L
+	Patient's oripathy is mild and currently shows no indications of spreading.
+	
+	Subject was exposed to Oripathy quite early on. However, due to receiving timely, excellent treatment before joining Rhodes Island, the patient's Oripathy is effectively stable.
+	--Medic Warfarin
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 6%
+	환자의 병세는 안정적으로 관리되는 중.
+	
+	[혈중 오리지늄 결정 밀도] 0.29u/L
+	환자는 가벼운 광석병 감염 증상이 확인되나, 현재로선 확산될 기미는 보이지 않음.
+	
+	    비록 광석병에 감염된 시기가 상당히 이르지만, 로도스 아일랜드에 들어오기 전부터 진행한 효과적 치료와 정확한 억제 수단을 사용한 덕분에, 현재 환자의 병세는 비교적 안정적이다.
+	——메딕 오퍼레이터 와파린
+
+———————————————————————————————
+
+	档案资料一 :
+	不苟言笑的保镖。
+	在需要的时候，会作为博士的护卫。除此之外，通常会在锡兰小姐周围见到她。
+	不喜欢与他人交流。即使有人想与她交流，通常也只会得到比较冷淡的回应。
+	不过，偶尔也会见到她与一些佣兵和赏金猎人出身的干员一同出入酒吧的身影。
+
+	第一資料 :
+	真面目でめったに笑わないボディーガード。
+	必要な時にはドクターの護衛を務めるが、普段はセイロンの傍らで見かけられることが多い。
+	他者との交流を好まないため、彼女と交流を試みても、大体は冷たい反応をされる。
+	だが、時折彼女が傭兵や賞金稼ぎ上がりのオペレーターたちと、バーに出入りする姿を見ることもある。
+
+	Archive File 1 :
+	She makes for a stern and severe bodyguard.
+	When needed, she acts as guardian for the Doctor. In addition, she can often be found in the vicinity of Ceylon.
+	She does not like to interact with others. Even when someone wants to interact with her, they usually receive a cold response.
+	However, she can sometimes be seen accompanying mercenaries and bounty hunters at the bar.
+
+	파일 자료 1 :
+	    과묵한 보디가드.
+	    필요시 박사의 호위를 담당한다. 평소에는 실론의 주변에서 그녀를 볼 수 있다.
+	    다른 사람과 교류하는 걸 좋아하지 않는 편이라, 누군가 그녀에게 말을 건네도 보통은 비교적 냉담한 반응만이 돌아올 뿐이지만, 가끔 그녀가 몇몇 용병 및 현상금 사냥꾼 출신 오퍼레이터들과 함께 술집을 드나드는 모습을 목격할 수 있다고 한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	黑小姐有两面。
+	战斗中的她，经常展现出极端冷冽的一面。对她来说，虽然手中的弩是主要进攻手段，但事实上，笔、书、绳子等等，似乎没有什么东西在她手中不能成为武器。而且，她完全没有其他人多多少少会有的，对自身生命和身体的珍视。在各种演习中，她发起进攻的手段往往防不胜防，却也常是以自己付出一些甚至无法挽回的代价为前提才能实现的。
+	或许黑小姐在面对怪物时不如其他干员有经验，但在对人，或者类人的分野中，她绝对是罗德岛中数一数二的存在。用某位干员的话来说，“她就像是一台十分精密的，为了杀人而存在的，没有感情的机器一样”。
+	但在锡兰小姐身边的她，虽然冰冷，却不坚硬。她与锡兰小姐的关系，比起单纯的主仆，更接近普遍意义上的姐妹。在锡兰小姐面前，她就像一个宠爱妹妹过度的姐姐，什么无理的要求都会满足她，什么异想天开的想法都会包容她，连依旧冰冷的语调中都带上了几分宠溺。
+	唯有在这种时刻，在旁观者眼中，她才似乎从一台机器变回了一个人。事实上，也是因为这一点，大部分在她加入罗德岛时甚至对她有些惧怕的干员，才逐渐对她改观。
+
+	第二資料 :
+	シュヴァルツには二面性がある。
+	戦闘中の彼女は極めて冷徹な一面を見せる。クロスボウを主な攻撃手段としているが、彼女にかかればペンや本、ロープなど、手にしたものは全て武器となる。また、一般人には少なからず備わっている自身の命と身体を大切にするという感覚が彼女には欠如している。演習で彼女が見せる戦術とそれによる進攻は防ぐことができないほど強力なものであるが、それは取り返しのつかない対価を払うことでやっと実現可能なものであることが多い。
+	怪物相手の戦いは他のオペレーターのほうが慣れているかもしれないが、対人、或いはそれに類する者を相手取った戦いにおいては、彼女はロドスで一二を争う存在と言えるだろう。あるオペレーターの言葉を引用すれば「彼女は人を殺すために存在している、感情のない精密機械のよう」らしい。
+	しかしセイロンの傍らにいる時の彼女は、クールさは相変わらずだが堅苦しい雰囲気ではない。彼女とセイロンは、単なる主従関係というよりも、いわゆる姉妹関係に近い。セイロンの前では、シュヴァルツは可愛い妹に過保護な姉のようで、どんな無理難題や要求も彼女を満足させ、どんな奇想天外な考えでも受け入れる。クールな口調は相変わらずだが、その言葉からは甘やかしっぷりが伺い知れる。
+	こういう時だけは、はたから見れば彼女は機械からひとりの人間に戻ったように見える。実際、ロドスに入ったばかりの彼女を恐れていたオペレーターの多くが、その様子を見て彼女への印象を変えたのである。
+
+	Archive File 2 :
+	Schwarz has two faces.
+	In combat, she often displays a cold-hearted side. Although she mainly uses a crossbow for a weapon, even an object as seemingly benign as a pen, a book, or a rope can become a lethal weapon in her hands. Moreover, unlike an ordinary person, she doesn't value her own life or well-being. In various exercises, her methods of attack are often unpredictable. However, these methods often come at considerable cost to herself.
+	Perhaps Schwarz does not have as much experience in dealing with monsters as other operators do, but she is uniquely capable among Rhodes Island operators at dealing with human and humanoid foes. In the words of one operator, 'She is like a machine designed specifically to ruthlessly kill humans.'
+	However, in the presence of Ceylon, she may still be cold, but she betrays a softer side. Her relationship with Ceylon is less a simple master-servant relationship, and more of a relationship between sisters on equal-footing. She dotes heavily upon her younger sister and will satisfy any of her requests, no matter how unreasonable. She shows tolerance even for her most whimsical notions, and her normally cold voice possesses a certain pampering tone.
+	It is only in these moments that she appears to transform from a machine to a person, in the eyes of spectators. It is because of this side of her that many operators who used to fear her have been gradually changing their opinion.
+
+	파일 자료 2 :
+	    슈바르츠에게는 두 가지 모습이 있다.
+	    전투 중의 그녀는 종종 극도로 차가운 모습을 보인다. 크로스보우가 주무기이긴 하나, 붓, 책, 밧줄 등 그녀가 들고 있는 것들 중 무기가 될 수 없는 것은 거의 없다. 게다가, 그녀는 다른 사람들이 보통 크든 적든 가지고 있는, 자신의 생명과 몸을 소중히 하는 자기방어의식이 전혀 없다. 간혹 훈련 중 그녀의 공격을 막아낼 수 없는 경우가 발생하게 되는 데, 이렇게 되면 돌이킬 수 없는 결과로 이어지게 될 테니 반드시 명심하도록 해야 한다.
+	    슈바르츠의 대 괴물 전투 경험은 다른 오퍼레이터보다 부족할지도 모르지만, 대인 또는 이와 비슷한 종류와의 전투에 있어서는 분명 로도스 아일랜드 내에서 손에 꼽을 수 있는 실력자일 것이다. 어느 오퍼레이터는 "그녀는 매우 정밀한, 살인을 위해서만 존재하는, 감정 따윈 없는 기계와도 같은 사람이다."라고 코멘트를 하기도 했다.
+	    하지만 실론의 곁에 있을 때의 그녀는 비록 차갑기는 하지만 딱딱하진 않다. 그녀와 실론의 관계는 단순한 주종 관계라기보다는, 오히려 자매에 더 가깝다. 실론과 함께 있을 때면 그녀는 마치 동생을 너무나도 아끼는 언니 같은 모습을 보여준다. 어떤 무리한 요구라도 전부 받아주고, 어떤 기상천외한 생각이라도 받아들이며, 늘 차가웠던 말투에도 조금씩 감정이 묻어나기 때문이다.
+	    주변 사람들은 오직 이때, 슈바르츠를 한 대의 기계에서 한 명의 사람으로 다시 보게 된다. 이런 점 덕분에, 그녀가 막 로도스 아일랜드에 합류했을 때 그녀를 어느 정도 두려워하던 오퍼레이터들도, 이젠 점차 그녀를 다시 보게 되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在汐斯塔市事件中，有一个比较容易被忽视的细节：我们已经知道，黑小姐对锡兰小姐本质上是溺爱的，但是，在事件中，她却选择站在了另一边，即使情有可原，但归根结底，这依然是一种背叛，事实上也因此引发了一些连锁反应。
+	将事件复盘后，我们能够发现，黑小姐会站在另一边，其真正的原因，实际上是她在想法上更偏向赫尔曼市长一边。诚然，她溺爱锡兰，但她不是一个愚忠的人偶，在观念上，作为市长的代理人，她应当更是市长的理解者，她说的那句“会见血的任务，别让小姐去，让只能在阴影里生存的人去就够了”，应当是她想法的最好写照。
+	即使经过事件的洗礼，锡兰小姐在加入罗德岛后，表现出的依然是理想主义者的倾向，这很正常。她见识到了一部分世界的残酷，但事件相对完美的解决使得这种冲击变得淡泊，况且，不是每个人都有必要去认识所谓残酷的现实。
+	不过，讨论这一点的重要性也恰恰在这里：那么，罗德岛应该这么做吗？
+	如同锡兰小姐一样的人，在罗德岛内事实上不占少数。而罗德岛不是一家纯粹的研究机构，我们的性质决定了我们注定要面对一些不那么美好的事情。那么我们应当，或者说，有义务，亦或者说，有必要为他们揭露他们所不曾见到的，残酷的生活吗？还是应当如同黑小姐所说的那样，“让只能在阴影里生存的人去就够了”？
+	这是一个值得探讨的问题。
+	——档案记录员R.F.
+
+	第三資料 :
+	シエスタ市の事件において、シュヴァルツの行動理念に注目した者は何人ほどいるだろうか。彼女は基本的にセイロンを溺愛しているとい言えるが、あの事件ではセイロンとは逆側の立場を選んだのだ。事情があったとはいえ、それは一つの裏切りと言えるだろう。それにより、諸々の連鎖反応が起きたこともまた事実である。
+	シュヴァルツがセイロンと逆側に立った本当の理由は、彼女の考え方はどちらかといえばヘルマン市長寄りであったためだと、事件が解決した今なら推測できる。確かに彼女はセイロンを溺愛しているが、何でも従うだけの木偶の坊ではない。その行動理念を踏まえれば、彼女は市長の代理人というよりも、その理解者と言うべきだろう。彼女が言っていた「血なまぐさい任務は、セイロン様には行かせないでください。そういうものは陰でしか生きられない我々に任せればいいのです。」という言葉が、その考え方を色濃く表しているだろう。
+	事件の洗礼を受けたとはいえ、セイロンはロドス加入後も相変わらず理想主義者である。彼女は世界の残酷さを少なからず目にしたが、事件が円満に解決したことで、そのショックも和らいだようである。もとより、全ての人が現実の残酷さに打ちのめされるべきというわけではないのだ。
+	今回の記録の重要性は、まさにここにある。「ならば、ロドスはそうするべきなのだろうか？」
+	実際、セイロンと同じような考えを持つ者は、ロドスでも少なくない。だがロドスは純粋な研究機構ではないのが現実であり、それにより我々は決して良いとは言えない物事に立ち向かうことを運命づけられている。ならば、彼らに見たこともない残酷な生活を暴く必要はあるだろうか？それともシュヴァルツが言うように、「陰でしか生きられない者に任せればいい」のだろうか？
+	これは今後も探っていくべき問題だ。
+	――資料記録員R.F.
+
+	Archive File 3 :
+	During the Siesta incident, there is a detail that is easily overlooked: We already know that Schwarz has an abiding love for Ceylon. However, during the event, she chose to stand on the other side. Though she was forgiven, this has still ultimately been taken as a betrayal, and has caused a chain reaction of events.
+	In the analysis of the incident, we can see that the real reason she took the other side was because that she has an inclination toward the city's Mayor, Herman. It is true that she deeply loves Ceylon, but she is not just her puppet. Theoretically, as the mayor's agent, she ought to be the one who understands him the most. Her quote, 'When it's time to shed blood, do not send Lady Ceylon to do it, send someone who lives amongst the shadows,' is likely an accurate representation of her mentality on this.
+	Despite bearing witness to the event, after joining Rhodes Island, Ceylon has still shown some idealistic tendencies. This is normal. She witnessed some of the cruelty that this world is capable of, but the relatively neat resolution to this incident has lightened some of the shock of it. Moreover, not everyone needs to have a deep understanding of this so-called cruel reality.
+	However, this brings us to the salient point of this discussion: What position should Rhodes Island take on this issue?
+	People like Ceylon are not a minority in Rhodes Island. Rhodes Island is not purely a research institution and thus our nature determines that we will sometimes come face-to-face with unsavory situations. Do we have an obligation or necessity to expose these members to cruelties they've never experienced before? Or is it enough to abide by Schwarz's quote and 'Send someone who lives amongst the shadows?'
+	This is a topic worth discussing in more detail.
+	——Archivist R.F.
+
+	파일 자료 3 :
+	    시에스타 사건 중 비교적 쉽게 지나치는 부분이 하나 있는데, 이는 바로 슈바르츠가 평소에 실론을 무척이나 아끼기는 하지만, 사건 중 뜻밖에도 실론과는 다른 편에 서기를 선택했었다는 점이다. 비록 그럴만한 사정이 있긴 했지만, 이는 근본적으로는 일종의 배신이라고 볼 수 있었기에, 사건이 종결된 뒤에도 어느 정도의 연쇄 반응이 일어났다.
+	    사건을 복기하면서, 슈바르츠가 다른 편에 선 이유는 사실 그녀가 사상적으로 허먼 시장 쪽에 더 기울어 있기 때문임을 알 수 있었다. 슈바르츠가 비록 실론을 애지중지하긴 하지만, 그녀는 생각 없는 꼭두각시가 아니었다. 시장의 대리인으로서 그녀는 당연히 시장을 이해할 수 있는 사람이어야 했으며, "피를 보는 임무는 아가씨에게 맡기지 말고, 그림자 속에서만 살 수  있는 사람이 가는 것만으로도 충분하다"라는 그녀의 말은 그녀의 사상을 가장 잘 대변하는 말일 것이다.
+	    이런 사건을 겪었음에도, 실론은 로도스 아일랜드에 합류한 후 여전히 이상주의적인, 어떻게 보면 매우 정상적이라 할 수 있는 성향을 드러내고 있다. 그녀는 세상의 잔혹함을 어느 정도 알게 되었지만, 사건이 상대적으로 깔끔히 해결되면서 그 충격은 옅어졌다. 모든 사람이 이른바 현실의 잔혹함을 인식할 필요는 없지 않은가.
+	    이 문제의 핵심은, "그럼 로도스 아일랜드는 그래야만 한다는 건가?" 라는 것이다.
+	    사실 로도스 아일랜드에는 실론 같은 사람이 적지 않지만, 로도스 아일랜드는 순수한 연구 기관이 아니다. 우리의 성질은 우리가 그렇게 아름답지만은 않은 일들에 직면하도록 인도한다. 그렇다면 우리는 마땅히, 혹은 의무적으로, 혹은 그들을 위해 그들이 보지 못했던 가혹한 삶을 폭로할 필요가 있을까? 아니면 슈바르츠가 말한 것처럼 "그림자 속에서만 살 수 있는 사람이 가면 된다"고 해야 할까?
+	    이는 깊이 탐구해볼 가치가 있는 문제다.
+	——파일 기록원 R.F.
+
+———————————————————————————————
+
+	档案资料四 :
+	“......其实，习惯之后，杀人没有什么感觉。尤其是，当我杀的人全都是我的仇人的时候。
+	至于我具体是怎么做到一个人毁灭那个家族，你不会想听的，博士，实际上我除了在每个地方潜伏的时候看到的花草树木，也没有什么可以讲的东西。等待，然后出手，就这么简单。
+	我出生在一个雷姆必拓商人家庭，双亲都是经商的。6岁的时候，他们在某一笔生意中被蒙骗，收取了一批伪装成普通宝石的源石，我的矿石病就是偷偷拿出来玩的时候感染的。
+	我的父母发现后立刻前往责问，却在返途中遭到围杀，我也被当作奴隶贩卖。最终，我被一个佣兵团选中，成为了他们的新成员。
+	这支佣兵团除了进行战争行为，更多的是负责接手大人物们的委托，做一些上不得台面的脏活。而我经过他们的锻炼，成为了一个孩童杀手。在经过几次任务后，我的组织接到了让某座城市出一些“意外”的任务。
+	我的命运在那里得到了改变。
+	我的任务是暗杀老爷，但在接近的过程中，我被老爷折服，你一定无法想象，那个时候的老爷，还是个......算了，不说这些，总之，我帮助老爷将我所属的佣兵团全灭，然后，我就成了小姐的保姆兼保镖。那一年，小姐3岁，我12岁。
+	其实小姐不知道的是，在我作为她保镖的那些年里，我也同时在帮老爷做事......别误会，我是自愿的，小姐是我最关心的人，但老爷也是我最敬重的人，这一点从那时起，就没有改变。
+	......那天，老爷把我叫回汐斯塔，告诉我，我的仇人找到了。在我出发前，老爷问我，他说‘你确定你要去吗，黑，你可以在这里生活得很好。’我最终还是去了，但不全是为了复仇，也是为了做个了断。而且，我知道，有人在等着我。”
+	——由博士亲口转述，因原话充斥不雅词汇和酒后痴言，进行了大量的文面修饰，在征得本人同意后，作为个人档案记录。
+
+	第四資料 :
+	「……実は、慣れてしまってからは、人を殺してもあまり何とも思わないんです。殺した相手がみな仇だった時などは特に。
+	一人でどうやってあの一族を滅ぼしたか、詳しいことは聞かないほうがいいです、ドクター。実際、潜伏している時に見た草花のこと以外に、何も語れることはありませんし。簡単です、時を待って、そして手を下す。それだけです。
+	私はレム・ビリトンの商人の家庭に生まれ、両親ともに商売をしていました。しかし私が6歳のとき、両親は騙され、宝石に偽装された源石を仕入れさせられたのです。私の鉱石病は、それらをこっそり手に取って遊んでいたときに感染したものです。
+	両親はそれに気付くとすぐに取引相手を問い詰めに向かいましたが、帰りの途中で殺され、私も奴隷として売りに出されました。最後にとある傭兵団に選ばれ、彼らに加わったのです。
+	この傭兵団は戦闘の他に、大物たちからの依頼を受けることも多く、表に出せないような汚れ仕事をしていました。そして私も傭兵団で鍛錬を積み、幼いながらも殺し屋になりました。いくつかの任務を遂行した後、私の組織はある都市で「事故」を起こすという任務を受けました。
+	私の運命はそこで大きく変わったのです。
+	私の任務は旦那様の暗殺でした。しかし旦那様に接近し、機を伺っていた際に私はあの方に説き伏せられたのです。今では想像もつかないでしょうが、あの時の旦那様は……いえ、それは言わなくてもいいですね。とにかく、私は旦那様のために所属していた傭兵団を全滅させました。それから、セイロン様のお世話係兼ボディーガードとなったのです。あれは、セイロン様が3歳、私が12歳の時のことでした。
+	実はセイロン様も知らないことなのですが、私がセイロン様のボディーガードとなった数年間、旦那様のお手伝いもしていました……誤解しないでください、あれは自ら志願したことです。セイロン様は私が一番心に留めている方ですが、旦那様も私が最も尊敬する方です。この思いは今となってもずっと変わっていません。
+	……あの日、旦那様は私をシエスタに呼び戻しました。そして私の仇を見つけ出したと教えてくれたのです。出発する前に、旦那様に聞かれました。『本当に行くと決めたのか、シュヴァルツ。君はここで幸せに暮らすこともできるというのに。』と。それでも私は向かいました。でもそれは復讐のためだけではなく、決着をつけるためでもあるのです。それに私には、待ってくれてる人がいるとわかっていましたから。」
+	――ドクターの口述より。元の発言には下品な言葉や飲酒によるうわごとが含まれていたため、かなり文面を修正している。本人の同意を得た後、個人資料として記録する。
+
+	Archive File 4 :
+	......Actually, since I've gotten used to it, I don't really feel anything when I kill people. Especially when the people I kill are my enemies.
+	As for how I specifically wiped out that entire clan all by myself, you don't want to know, Doctor. Actually, aside from giving you a detailed description of the bushes and shrubs I hid in, there isn't much I can tell you. Wait, and then attack - it really is that simple.
+	I was born into a family of Rim Billiton merchants. Both of my parents were traders. When I was six years old, they were involved in a deal in which they were tricked into collecting a number of Originium Stones disguised as ordinary gems. I was infected with Oripathy when I stole some of these stones to play with them.
+	After my parents found out, they went to confront those who had tricked them, but were ambushed and killed en route. I was treated like a slave and sold. In the end, I was selected by a mercenary unit to become their newest member.
+	In addition to carrying out war operations, this mercenary unit was also responsible for carrying out tasks for important men, mostly their dirty work. After I passed their training, I became a child assassin. After several missions, my organization was tasked with staging some accidents' in a certain city.
+	That is where my fate changed.
+	My task was to assassinate Lady Ceylon's father, but in the process of getting close to him, he subdued me. You can't even imagine. He was a... Forget it, I won't even bring it up. In short, I helped him eliminate my entire mercenary unit. Afterward, I became part-housekeeper, part-bodyguard. That year, Lady Ceylon was three years old, and I was 12.
+	Actually, what Lady Ceylon doesn't know is that during those years I was a bodyguard, I also helped her father with other matters... Don't get me wrong, I was willing to. The person I care about most is Lady Ceylon but the person I respect the most was her father. That still hasn't changed after all this time.
+	......That day, he called me back to Siesta and told me that he found my enemies. Before I set out, he asked me 'Are you sure you want to go? You can live a good life here, Schwarz.' Ultimately, I went, but not just for revenge, but also to make a clean break. Also, I knew that somebody was waiting for me.'
+	——This story was related by the Doctor personally. Because its original telling was replete with vulgarity and drunken rambling, it has undergone substantial editing and abridgment. With the permission of the subject, it will be inserted into her personal record.
+
+	파일 자료 4 :
+	"……사실 익숙해진 후로는 살인에 대해 아무런 느낌이 없습니다. 특히, 제가 죽인 사람이 모두 저의 원수일 때는 더욱 그랬죠. 제가 어떻게 혼자서 그 가문을 파멸시켰는지는, 듣고 싶지 않을 겁니다. 박사님, 사실 제가 잠복했을 때 본 꽃과 풀, 나무같은 것 외에, 별로 이야기할 만한 건 없습니다. 대기, 그리고 공격, 이게 다였으니까요.
+	    전 림 빌리턴의 어느 상인 가문에서 태어났습니다. 부모님 모두 사업가였죠. 6살 때, 부모님께선 사업을 하시다 사기를 당해, 평범한 보석으로 위장한 오리지늄을 받아왔고, 저는 이것을 몰래 가지고 나와 놀다 광석병에 감염되었습니다.
+	    부모님께선 이를 발견하자마자 곧바로 문책을 하러 가셨지만, 돌아오는 길에 포위되어 살해당했고, 저도 그때 노예로 팔려갔습니다. 결국, 한 용병단에 선택되어 그들의 새로운 멤버 중 한 명이 되었죠.
+	    이 용병단은 전쟁 참여보다는, 거물들의 부탁을 받고 공식적으로 처리하기 어려운, 더러운 일들을 더 많이 처리하였습니다. 그리고 저는 훈련을 거쳐 어린 킬러가 되었죠. 몇 건의 임무를 처리한 후, 저희 용병단은 어떤 도시에 '예상 밖의 일'이 생기도록 하라는 임무를 받았습니다.
+	    제 운명은 여기서 바뀌었습니다.
+	    제 임무는 당시의 주인님을 암살하는 것이었습니다. 하지만 접근하는 과정 중 주인님에게 설득당해버렸죠. 당신은 아마 상상조차 하실 수 없을 겁니다. 그때의 주인님은 아직…… 됐습니다. 이런 얘기는 그만하죠. 어찌 되었든, 저는 주인님을 도와 제가 소속된 용병단을 전멸시켰습니다. 그리고 아가씨의 보모 겸 호위가 되었죠. 그때 당시 아가씨는 3살, 저는 12살이었습니다.
+	    사실 아가씨는 모르겠지만, 저는 아가씨의 보모로 일하면서, 동시에 주인님의 일을 돕고 있었습니다…… 오해는 하지 마십시오. 제가 원한 거였으니까요. 아가씨는 제가 가장 아끼는 사람이지만, 주인님 또한 제가 가장 존경하는 사람입니다. 이 점은 줄곧 변한 적이 없습니다.
+	    ……그날, 주인님께선 저를 시에스타로 불러들인 후, 저의 원수를 찾았다고 말씀하셨습니다. 제가 출발하기 전, 주인님께선 저에게 물었습니다. "정말 갈 거니, 슈바르츠? 너는 이곳에서 잘 살아갈 수 있어……"라고요. 결국 저는 그곳으로 갔지만, 이는 복수를 위한 것만이 아닌, 단지 끝을 내기 위함이었습니다. 게다가, 저는 알고 있었습니다. 누군가가 저를 기다리고 있다는 것을요."
+	    ……박사님께서 직접 전달한 것으로, 본래 말은 욕설과 술김에 나온 헛소리가 넘쳐나, 문장을 대폭 수정하였다. 본인의 동의를 거쳐 개인 파일 기록으로 남긴다.
+
+———————————————————————————————
+
+	晋升记录 :
+	有一种看法是，黑小姐这样的人，如若身处光明之中，她身上的黑暗也会逐渐褪去。
+	必须要指出，这是一种乐观乃至不负责任的想法。
+	比较残忍的现实是，我们能够发现，与其说黑小姐在锡兰小姐身边时才是真正的自己，不如说，她只有在锡兰小姐身边时，才会收敛自己的本性。
+	她在战斗中表现出的冰冷与漠视生命，才更接近她本性的一部分。那是刻在她灵魂中的东西，是她即使在光明中生活了许久，也依然无法洗去的烙印。
+	所以我们必须要了解到，她对锡兰小姐的愿望，即使难以实现，也绝对不是应当被耻笑的愿望。因为唯有体验过黑暗的人，才知道，那种深不见底的寒冷，是多么的深入骨髓。
+	唯一值得庆幸的是，她自己清楚这一点。
+	唯有这样，或许如她所说，有一天，博士将能够驯服她身上的邪恶，但愿这一天真的会到来。
+
+	昇進記録 :
+	シュヴァルツのような人は、もし光の中に留まってさえいれば、その身に宿る暗闇も次第に晴れていくのではないか、という考え方もある。
+	しかしそれは、楽観的で無責任な考えだろうと指摘しておく。
+	残酷な現実として、セイロンの側にいるシュヴァルツこそが本物の彼女というより、むしろセイロンの側にいる時にだけ、自分の本性を抑えていられると言ったほうが適切であるのだから。
+	彼女が戦闘中に見せる冷酷さと命を軽んじる姿勢こそが、その本性に近い部分だろう。それは彼女の魂に刻まれており、どれほど光の中で生きていても、洗い流すことのできない烙印なのである。
+	我々は理解しておく必要がある。彼女のセイロンに対する願いは、たとえ叶えがたいものでも、決して軽蔑されるべきではない。なぜなら、暗闇を経験した者だけが、あの底知れぬ寒さがどれだけ骨身にしみるかを知っているからだ。
+	唯一幸いなのは、彼女自身がそれをきちんと理解していることである。
+	それならば、彼女の言うように、いつの日かドクターが彼女の心の中の魔物を飼いならすことができるかもしれない。その日が来ることを心から願おう。
+
+	Promotion Record :
+	One way of looking at it is, if someone like Schwarz found herself in the light, the darkness within her would gradually dissipate.
+	It must be noted that this is an optimistic and even irresponsible way of thinking.
+	A rather cruel fact we have found is that rather than saying Schwarz is her true self when she's around Ceylon, it is better to say that she is hiding her true nature. 
+	The coldness and contempt for life she exhibits during battle is closer to her true nature. This is what is engraved into her very soul. It is the branding she would not be able to wash off even if she were to spend the rest of her life in the light.
+	So what we must understand is that her hopes for Ceylon may be hard to achieve, but they are not to be taken lightly. For it is only those who have experienced the darkness that understand just how deeply that coldness runs.
+	The only thing worth celebrating is that she recognizes this.
+	Only in this way, perhaps what she says will come true. That one day, the Doctor will be able to tame the evil within her. I hope that such a day will come.
+
+	승진 기록 :
+	    슈바르츠 같은 사람이 빛 속에 머문다면, 그녀를 둘러싼 어둠도 점차 사라질 것이라고 보는 견해가 있다.
+	    이 점은 반드시 짚고 넘어가야 한다. 이건 낙관적인걸 넘어 무책임한 생각이기 때문이다.
+	    우리가 발견한 비교적 잔혹한 현실은, 슈바르츠가 실론의 곁에 있을 때만 비로소 진짜 자신의 모습을 보일 수 있다는 것, 또는 실론의 곁에 있을 때만 자신의 본성을 되찾는다고 할 수 있다는 사실이다.
+	    그녀가 전투 중 보이는 차가운 모습과 생명을 경시하는 태도가 그녀의 본성에 더 가깝다는 것은 그녀의 영혼에 새겨진, 오랫동안 광명 속에서 살았음에도 여전히 씻을 수 없는 낙인이다.
+	    그렇기에 실론에 대한 그녀의 소망이 실현되기 어렵더라도, 결코 멸시당해서는 안되는 것임을 알아야 한다. 어둠을 경험해 본 사람만이, 그 깊은 추위가 얼마나 지독하게 뼈에 사무치는지 알 수 있기 때문이다.
+	    그나마 한가지 다행스러운 점은 그녀 자신도 이점을 잘 알고 있다는 것이다.
+	    이렇게 해야만, 어쩌면 그녀가 말한 것 처럼, 언젠가는 박사님이 그녀의 몸에 깃든 사악한 기운을 길들일 수 있을 것이다. 진심으로 그런 날이 오기를 바란다.

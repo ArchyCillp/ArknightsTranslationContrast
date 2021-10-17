@@ -1,11 +1,17 @@
 ID:
 	char_002_amiya
 
-干员代号\Name:
+CV:
 	阿米娅
 	アーミヤ
 	Amiya
 	아미야
+
+干员代号\Name:
+	黑泽朋世
+	黒沢ともよ
+	Tomoyo Kurosawa
+	쿠로사와 토모요
 
 招聘合同\Character Usage:
 	罗德岛公开领导人阿米娅，将与你并肩作战。
@@ -53,346 +59,474 @@ ID:
 	키메라
 
 语音\Voices:
-	博士，您工作辛苦了。
 	ドクター、お仕事お疲れ様です。
 	You work so hard, Doctor.
 	박사님, 수고하셨어요.
 
-	凯尔希医生教导过我，工作的时候一定要保持全神贯注......嗯，全神贯注。
 	ケルシー先生が言ってました、仕事をする時は集中しなければいけない、と……。うん、集中しなきゃ。
 	Dr. Kal'tsit told me you have to be 100% focused on your work to maximize efficiency. So... yes, that's what I'm gonna do!
 	켈시 선생님께서 말씀하셨어요, "일을 할 땐 집중해야 한다"고… 네, 집중해야죠.
 
-	罗德岛全舰正处于通常航行状态。博士，整理下航程信息吧？
 	ロドスは全艦通常航行モードです。ドクター、航行スケジュールをチェックしませんか？
 	Rhodes Island is in normal sailing mode. Doctor, can you sort out our heading for me?
 	로도스 아일랜드는 전 함 일반 항행 모드입니다. 박사님, 항행 스케줄을 체크하지 않으시겠어요?
 
-	作为罗德岛的领导者我还有很多不成熟的地方，希望您能更多地为我指明前进的方向。
 	ロドスのリーダーとして私はまだまだ未熟で……ですから、これからの進むべき道を、もっと教えてくださいね。
 	As the leader of Rhodes Island, there's still a lot I need to learn. I hope you will guide me on our path to the future.
 	전 아직도 로도스 아일랜드의 리더로서 미숙한 점이 많아요… 그러니까, 앞으로 어떻게 나아가야 할지 더 많이 가르쳐 주세요.
 
-	虽然这可能是我一厢情愿的想法，但我希望罗德岛能成为大家的第二个故乡......
 	これは私の身勝手な考えかもしれません。でも、ロドスのみなさんにとって、ここが第二の故郷になってくれたら嬉しいな……。
 	Maybe it's just my wishful thinking, but I hope Rhodes Island can be a second home to everyone.
 	저만의 주제넘은 생각일지도 몰라요. 하지만, 로도스 아일랜드에 계시는 여러분이 이곳을 제2의 고향으로 여겨 주시면 기쁘겠어요… 
 
-	我们失去了很多才走到今天。有时候我会问自己，这一切真的值得么....？
 	たくさんのものを失いながら、ようやくここまでたどり着きました。でも…時々不安になってしまいます。本当にこれでよかったのかなと……。
 	We've lost so much that's dear to us to make it so far. Sometimes, I can't help but ask myself... is it really worth it?
 	셀 수 없을 만큼 많은 것을 잃어가며 겨우 여기까지 왔습니다. 그렇지만… 때때로 불안해 지곤 해요. 정말 이게 최선이었을까 하고… 
 
-	有时候，我会想起寒冷的家乡，那里就连空气中都弥漫着铜锈的味道。相比之下罗德岛是如此的温暖。所以，为了守护好这里，我必须更加努力才行。
 	時々、故郷のことを思い出します。とても寒くて、街の空気からも錆臭い匂いが漂うようなところでした。それに比べて、ロドスはこんなにも暖かい……。だから、私はもっともっと頑張って、しっかりこの場所を守っていかなければならないと思っています……。
 	Sometimes I remember my hometown... cold, the air smelling like rusted copper. Rhodes Island is such a cozy place in comparison... So I have to do everything I can to protect this oasis.
 	가끔 고향 생각이 나요. 정말 춥고, 거리의 공기에선 곰팡내가 감도는 듯한 냄새가 나는 곳이었죠. 그런데 로도스 아일랜드는 이렇게나 따뜻해요… 그러니 저도 더욱더 노력해서 이곳을 단단히 지켜내야겠다고 다짐하고 있어요…… 
 
-	嘿嘿，{@nickname}，悄悄告诉你一件事——我重新开始练小提琴了。
 	ふふ…実は私、またヴァイオリンの練習をし始めたんです。今度のパーティーでみなさんにサプライズを……だからドクター、みなさんには内緒ですよ……？
 	Hehe... I picked up the violin again. I was thinking I might surprise everyone at our next party. So please, Doctor, don't tell anyone yet.
 	후훗. 실은 말이죠, 저 다시 바이올린 연습을 시작했어요. 이번에 열릴 파티에서 모두를 놀라게 해 주려고…… 그러니까 박사님, 다른 사람들한텐 비밀이에요……?
 
-	博士，我们的脚下，是一条漫长的道路......也许这是一次没有终点的旅行，但如果是和您一起，我觉得，非常幸福。
 	ドクター、私たちの歩む道は、終わりなき旅路なのかもしれません……でも、それをドクターと共に歩むことができて、私はとても幸せです。
 	We've still got a long, long way to go, Doctor. This might be a journey without an end, but as long as you're with me, everything's all right.
 	박사님, 우리가 가는 길은 끝나지 않는 여행길일지도 모르지만…… 그래도, 그 길을 박사님과 함께 걸을 수 있어서, 전 정말 행복해요.
 
-	博士，您还有许多事情需要处理。现在还不能休息哦。
 	ドクター、終わってない仕事がたくさんありますから、まだ休んじゃだめですよ。
 	There's still lots of work that needs to be done, Doctor. You can't rest now!
 	박사님, 안 끝난 업무가 잔뜩 남았으니 아직 쉬시면 안 돼요.
 
-	博士，能再见到您......真是太好了。今后我们同行的路还很长，所以，请您多多关照！
 	ドクター、また会えて……嬉しいです。私たちのゆく道は、まだ長く険しいものですが……とにかくこれからもよろしくお願いします。
 	Doctor, I'm so glad that we're back together. And we'll walk this path together! I've got your back if you've got mine.
 	박사님, 다시 만나서…… 기뻐요. 우리가 걷는 이 길은 앞으로도 멀고 험하겠지만, 아무쪼록 앞으로도 잘 부탁드려요.
 
-	原来是这样......博士，谢谢您！这些指导，真的很有帮助！
 	なるほど……本当に役に立つ知識ばかりです。ドクター、ご指導いただきありがとうございます！
 	I see... thank you, Doctor! Your guidance is truly helpful.
 	그렇구나…… 정말 도움이 되는 지식뿐이네요. 박사님, 지도해 주셔서 감사합니다!
 
-	能再一次和您并肩作战真是太好了，博士！
 	ドクター、またあなたと一緒に戦えて、本当に嬉しいです！
 	I'm so excited to fight by your side again, Doctor!
 	박사님, 또 당신과 함께 싸울 수 있게 되어 정말 기뻐요!
 
-	那一天所看到的光景，想要呐喊却无法发出声音的绝望......希望能把这些，永远藏在记忆的最深处......
 	あの日の目に焼き付いた光景、叫びたくても声を出せないほどの絶望感……全部記憶の奥底に閉じ込められたらいいのに……。
 	What I saw that day... the despair stuck in my throat, the futile attempts to scream... I want to bury it all deep inside my mind and never let it out again...
 	그날 제 눈에 강하게 새겨진 광경, 소리치고 싶어도 목소리가 나오지 않을 만큼 느꼈던 절망감…… 전부 기억 속 깊은 곳에 묻어둘 수 있다면 좋을 텐데…… 
 
-	嗯，我知道了。
 	はい、わかりました。
 	Got it.
 	네, 알겠습니다.
 
-	我不会辜负大家的。
 	みなさんの期待に応えてみせます！
 	I won't disappoint you.
 	여러분의 기대를 배신하지 않을게요!
 
-	行动开始！
 	行動開始します！
 	Operation commencing!
 	작전 개시하겠습니다!
-
-	来了！大家，请做好战斗准备！
 
 	敵が来ます！みなさん、戦闘の準備をしてください！
 	Incoming! Get ready, everyone!
 
 	적이 옵니다! 여러분, 전투를 준비해 주세요!
 
-	是。
 	はい。
 	Here.
 	네.
 
-	博士，我在这里。
 	ドクター、私はここに。
 	I'm right here, Doctor.
 	박사님, 전 여기에요.
 
-	我知道了！
 	わかりました！
 	Got it!
 	알았어요!
 
-	了解。
 	了解しました。
 	Got it.
 	알겠습니다.
 
-	我知道你在想什么。
 	あなたの考えは、お見通しですよ。
 	I know what you're thinking.
 	당신이 무슨 생각하는지 전부 알고 있어요.
 
-	大家可都相信着我！
 	みなさんが私のことを信じてくれてますから！
 	Everyone believes in me...
 	여러분이 절 믿고 계시니까요!
-
-	你们在害怕我？
 
 	私が、怖いですか？
 	Are you afraid of me?
 
 	제가, 무서운가요?
 
-	这个声音在......哭？
 	この声は……泣いている？
 	I hear... someone crying?
 	이 목소리는…… 울고 있나요?
 
-	无论多么艰难的任务，只要有博士在，就一定能完成，我一直这样坚信着！
 	どんなに困難な任務でも、ドクターさえいれば、きっと大丈夫だと信じてます！
 	No matter how difficult the mission, we can handle it as long as you're here, Doctor. That's what I've always believed.
 	어떤 힘든 임무라도 박사님만 계시면, 분명 괜찮을 거라 믿어요!
 
-	即使是完美的胜利，大家也要保持警惕，不要太过放松哦！
 	みなさん、完璧な勝利でも、警戒態勢が完全に解かれるまでは、気を抜かないでくださいね！
 	We may have achieved a perfect victory, but we still can't let our guard down.
 	여러분, 완벽한 승리라 해도, 경계 태세가 완전히 해제될 때까진 마음을 놓지 마세요!
 
-	博士，辛苦了！累了的话请休息一会儿吧。
 	ドクター、お疲れ様でした！無理をせず少し休んでくださいね。
 	Good job, Doctor! Get some rest. You must be tired.
 	박사님, 수고 많았어요! 무리하지 말고 잠시 쉬세요.
 
-	我没事的......大家，请振作起来！
 	私は大丈夫です……みなさん、しっかりしてください！
 	I'm fine... Get it together, everyone!
 	전 괜찮아요…… 여러분, 다들 정신 차리세요!
 
-	有什么想喝的吗，博士？
 	何か飲みませんか、ドクター？
 	You want something to drink, Doctor?
 	마실 거라도 드릴까요, 박사님?
 
-	欸？博士？
 	きゃっ？ドクター？
 	Huh? Doctor?
 	꺄앗?! 박사님?
 
-	欸嘿嘿......
 	えへへ……。
 	Ehehe...
 	에헤헤…… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	欢迎回家，博士！
 	おかえり、ドクター！
 	Welcome home, Doctor!
 	어서 오세요, 박사님!
 
-	博士，怎么了？啊，我没事，只是有点累。这两份档案一会儿麻烦你审核一下了，有许多新干员加入了罗德岛，我们可不能让他们失望。
 	ドクター、どうしたんですか？あっ、私は大丈夫ですよ、ちょっと疲れただけです。この二つの履歴書、後でチェックをお願いしますね。たくさんの方がロドスに入ってオペレーターになってくれましたから、皆さんを失望させないように頑張らないと。
 	Doctor, what's wrong? Ah, I'm fine, just a little tired. Please check these two files in a moment. A lot of new Operators have joined Rhodes Island, and we can't disappoint them.
 	박사님, 왜 그러세요? 앗, 저는 괜찮습니다. 조금 피곤할 뿐이에요. 여기 이력서 두 개 나중에 확인 부탁드려요. 많은 분들이 로도스 아일랜드에 들어와 오퍼레이터가 되어 주셨으니, 모두를 실망시키지 않도록 열심히 해야죠.
 
-	罗德岛和这片大地已经失去了很多。这种事不会再发生了......也许愤怒会毁掉我们，但是在面对恶意的时候，更多的人就是别无选择。在这片大地获得平静之前，没人能扑灭这股怒火。
 	ロドスもこの大地も、たくさんのものを失ってきました。ですがもうそんなことは起きません……怒りに身を滅ぼされるかもしれませんが、悪意を相手にする時、多くの人にとってそれ以外の選択肢はないんです。この大地が平和になるまで、この怒りの炎は誰にも消せないんです。
 	Rhodes Island and this world at large have already lost so much. We will put a stop to it... Rage may destroy us, but when confronting malice, ever more people have no other choice. Until the land finds peace, no one will be able to extinguish this fury. 
 	로도스 아일랜드도 이 대지도 많은 것을 잃었습니다. 하지만, 더 이상 그런 일은 일어나지 않을 거예요…… 분노에 몸을 망칠 수도 있겠지만, 악의를 상대할 때, 많은 사람에겐 그것 이외의 선택지는 없어요. 이 대지가 평화로워질 때까지, 이 분노의 불씨는 그 누구도 끌 수 없어요.
 
-	我的戒指看起来不一样了？果然瞒不住博士......的确，有一个戒指在之前碎掉了。但是，不用担心，凯尔希医生已经帮我换了个新的。和我那时晕倒是不是有关系？博士......
 	私の指輪が変わったように見える、ですか？やっぱりドクターには誤魔化せませんね……そうです、一つはこの前壊れてしまいましたから。でも大丈夫ですよ、もうケルシー先生に新しいものに替えてもらいました。えっ、あの時倒れたのと関係してるか、ですか？ドクター、それは……
-	My rings look different? I couldn't hide it from you, Doctor... You're right, one of them broke. But it's okay, Dr. Kal'tsit helped me switch it for a new one. Did... that have something to do with when I blacked out, you ask? Doctor…
+	My rings look different? I couldn't hide it from you, Doctor... You're right, one of them broke. But it's okay, Dr. Kal'tsit helped me switch it for a new one. Did... that have something to do with when I blacked out, you ask? Doctor...
 	제 반지가 변한 것처럼 보인다…… 고요? 역시 박사님은 못 속이겠네요… 맞아요. 하나는 전에 망가져 버려서요. 그래도 괜찮아요, 이미 켈시 선생님께서 새 걸로 바꿔주셨어요. 네? 그때 쓰러졌던 거랑 상관이 있느냐고요? 박사님, 그건……
 
-	在这一次行动中，我们没有得到任何商业收益，甚至付出了很多......但许多事情是没法用商业价值衡量的。罗德岛从来不是一个只为盈利而生的企业，这片大地也不只需要物质层面上的药物。
 	今回の作戦では、ビジネス的な利益を少しも得られなかったばかりか、かなりの損失がありました……ですが、世の中商業的価値では計れないことだってたくさんあるんです。それに、ロドスは利益のためだけに動く企業ではありませんし、この大地に必要なのは、物質的な薬だけではありませんから。
 	In this whole operation, we gained no commercial profit at all, and we even gave so much... But there are many things you can't weigh in terms of business value. Rhodes Island was never a company born exclusively for profit, and this land needs more than just physical medications.
 	이번 작전에서는 비즈니스적인 이익을 조금도 얻지 못했을 뿐만 아니라, 꽤 큰 손실이 있었습니다…… 하지만, 세상에는 상업적 가치로 따질 수 없는 것도 잔뜩 있어요. 게다가, 로도스 아일랜드는 이익을 위해서만 일하는 기업도 아니고, 이 대지에 필요한 것은 물질적인 약만 있는 것이 아니니까요.
 
-	切尔诺伯格的整合运动......在事情结束以后再去指责他们做了什么，又有什么用？想想践踏他们的人，虐待他们的人，屠杀他们的人......仇恨滋生仇恨。有些事从一开始就不该发生。
 	チェルノボーグのレユニオン……事件が終わった後に彼らを責め立てても、何になりますか？彼らを踏みにじって、迫害して、虐殺した人たちもいたと考えれば……憎しみは憎しみを生み出します。最初から間違ってるんです、そんなこと。
 	Chernobog's Reunion... it's over, and is there any more point to denouncing what they've done? Think of the people who trampled them, abused them, massacred them... hatred breeds hatred. That was something that should've never happened in the first place.
 	체르노보그의 리유니온…… 사건이 끝난 뒤에 그들을 몰아세운다 한들 무슨 소용이 있나요? 그들을 짓밟고, 억압하고, 학살한 사람들도 있다고 생각하면…… 증오는 증오를 낳습니다. 처음부터 잘못되었어요, 그런 건.
 
-	曾经，一个遭人背叛的萨卡兹愤怒地在大地上寻仇，最后却自愿死在了复仇的循环里。让我没法理解的是，他在拔出剑前就已经在心里勾划好了自己的结局。愤怒让他......清醒地陨落。
 	かつて、裏切りにあった一人のサルカズが、復讐のために怒りに任せて大地を渡り、最後にはそんな復讐の循環の中で命を落としました。私に理解できないのは、彼は剣を抜く前から、自らの最期を心に決めていたということです。怒りが彼を……冷静な死に至らしめました。
 	Once, there was a Sarkaz betrayed, who walked the earth bent on vengeance, and finally cast his own life to the cycle of revenge. What I can't understand is, he'd already settled on his own end before he drew his sword. In rage, he was clear... and decided his death.
 	한때, 배신당한 한 명의 살카즈가 복수를 위해 분노에 몸을 맡기고 대지를 건넜고, 마지막엔 그런 복수의 순환 속에서 목숨을 잃었습니다. 제가 이해할 수 없는 건, 그는 검을 뽑기 전부터 자신의 최후를 마음속에 정하고 있었단 거예요. 분노가 그를…… 냉정한 죽음에 이르게 했습니다.
 
-	死亡应该铭刻在我们的记忆里，永不遗忘，无论这死亡是谁带来的，又是被带给了谁。我们的错误永远不会变成正确......那些疤痕应该要一直提醒我们，警告我们有多脆弱。
 	死は私たちの記憶に永遠に刻まれ続けるべきです。それは誰がもたらしたものでも、誰に与えられたものでも。私たちが犯してしまった過ちは、決して正当化されることはありません……その傷跡こそが、いつだって私たちの弱さを思い出させてくれるんです。
 	Death should be carved into our memories, never to be forgotten, no matter who brought that death about, nor who it was brought to. Our mistakes will never be right... those scars should always remind us, warn us how frail we are.
 	죽음은 우리의 기억에 영원히 새겨져야 해요. 그건 누가 가져온 것이라 해도,  누구에게 주어진 거라 해도, 우리가 저질러버린 과오는 결코 정당화될 수 없어요…… 그 흉터야말로, 언제나 우리의 나약함을 떠올리게 해주죠.
 
-	就算是现在，我也偶尔会想起米莎的眼神，想起霜星的怒吼，想起爱国者的嘶鸣......Ace、Scout以及许多干员为一个信念牺牲了自己。可大地上那么多的感染者，又是为了什么而死？
 	今でも時々ミーシャさんの目や、フロストノヴァさんの怒号、そしてパトリオットさんの叫びを思い出します……Aceさん、Scoutさん、そして多くのオペレーターたちが一つの信念のもと犠牲になりました。でも彼ら以外の多くの感染者は、この大地で何のために死んでいったの？
 	Even now, they still sometimes come to mind. Misha's gaze, FrostNova's roars, Patriot's cries... Ace, Scout, and so many operators sacrificed their lives for a single belief. But the Infected all across Terra—what is it that they've died for?
 	지금도 가끔 미샤 씨의 눈, 프로스트노바 씨의 성난 고함, 그리고 패트리어트 씨의 외침을 떠올려요…… 에이스 씨, 스카우트 씨, 그리고 많은 오퍼레이터가 하나의 신념을 위해 희생되었습니다. 그렇지만 그들 외의 많은 감염자들은 이 대지에서 무엇을 위해 죽어간 거죠?
 
-	博士......我最近......是不是变得有点不像自己？那些偶然升起的无名怒火......是我的吗？就算这样，不，就算这样我也不会放弃。我会保护你的，博士，凭这把剑。
 	ドクター、最近の私……なんだか自分らしくないって感じがしませんか？時々湧き上がる正体不明の怒りは……私自身のものなんでしょうか？そうだとしたら……いえ、そうだとしても、私は諦めません。ドクター、私があなたを守ります、この剣で。
 	Doctor... recently... have I been a little less like myself? The nameless anger that rises up, time and again... is that mine? If so... no, even if so, I won't give up. I will protect you, Doctor, by this sword.
 	박사님, 요즘 저…… 뭔가 저답지 않다는 느낌이 들지 않나요? 가끔 솟구치는 알 수 없는 분노는…… 저 자신의 것일까요? 그렇다면…… 아니, 그렇다고 해도 저는 포기하지 않을 거예요. 박사님, 제가 당신을 지키겠습니다, 이 검으로.
 
-	博士，你还好吗？要去休息一下吗，我扶你去吧。不用担心，我挺好的，只要你休息好就可以了。
 	ドクター、大丈夫ですか？少し休憩しませんか？私が支えて連れていきましょう。心配しなくても私は元気ですから、ドクターが休めればそれで。
 	Doctor, are you okay? Do you need to rest a little? I'll help carry you. Don't worry, I'm doing fine. So long as you're rested.
 	박사님, 괜찮으세요? 조금 쉬지 않으실래요? 제가 부축해서 데려가 드릴게요. 걱정 안 하셔도 전 괜찮으니까요, 박사님께서 쉴 수 있다면 그걸로 됐어요.
 
-	博士，见到你真好。我这样子？唔，别害怕......我会解释的。不过，放心吧博士，不管发生什么，我都不会让你受到一点伤害。我发誓。
 	ドクター、会えてよかったです。私の姿、ですか？あの、怖がらないでください……後でちゃんと説明しますから、安心してください。何が起きても、ドクターのことは傷つけさせないと誓いますから。
 	Doctor, it's so good to see you. My appearance? Um, please don't be afraid... I can explain this. But don't worry, Doctor. Whatever happens, I won't ever let you come to harm. I swear it.
 	박사님, 만나서 반가워요. 제 모습…… 말인가요? 저, 무서워하지 말아 주세요……나중에 제대로 설명할 테니까, 안심해주세요. 무슨 일이 있어도 박사님을 다치게 하지 않겠다고 맹세할 테니까요.
 
-	“如果战斗不可避免......”这是以前我最信任的人教给我的话。
 	「それが必要な戦いならば……」。これはかつて私が一番信頼していた人が教えてくれた言葉です。
 	'If the fight is unavoidable...' This is what the person I most trusted once taught me.
 	"그것이 필요한 싸움이라면……", 이건 한때 제가 가장 신뢰했던 사람이 알려준 말이에요.
 
-	好的，我知道了。
 	はい、わかりました。
 	Got it.
 	네, 알겠습니다.
 
-	我背负着许多人的愤怒。
 	私は多くの人々の怒りを背負っています。
 	I shoulder the wrath of so many others.
 	저는 많은 사람의 분노를 짊어지고 있습니다.
 
-	行动开始。我们走！
 	作戦開始。行きます！
 	Operation commencing. Let's go!
 	작전 개시. 갑니다!
 
-	来了！全体人员，做好战斗准备！
 	敵が来ます！総員、戦闘準備！
 	Incoming! Ready, all members!
 	적이 옵니다! 전원, 전투 준비!
 
-	这里是阿米娅。
 	こちらアーミヤ。
 	Amiya here.
 	여기는 아미야.
 
-	这把剑渴望着报复......我不能放纵它。
 	この剣が復讐を渇望している……好き勝手にはさせません。
 	This sword thirsts for revenge... I won't permit it.
 	이 검이 복수를 갈망하고 있어…… 제멋대로 굴게 놔두진 않겠습니다.
 
-	赤霄的影子萦绕着我的剑。
 	私の剣が、赤霄（せきしょう）の影を纏う。
 	My sword is cloaked in Chi Xiao's shadow.
 	나의 검에, 적소의 그림자가 맴돈다.
 
-	陈长官的剑术......在这把武器里流淌。
 	チェンさんの剣術が……この剣を流れています。
 	Madam Ch'en's swordsmanship... flows within this weapon.
 	첸 씨의 검술이…… 이 검에 흐르고 있습니다.
 
-	放下你的武器！
 	武器を下ろせ！
 	Drop your weapon!
 	무기를 버려라!
 
-	你的想法，你的法术，我都能切开。
 	あなたの考えも、アーツも、切り裂けます。
 	Your thought, your Arts, I can cut them.
 	당신의 생각도, 아츠도, 베어버리겠습니다.
 
-	“我该用什么回应你的不义？”
 	「何を以て貴様の不義理に報いようか？」
 	'With what do I answer your failure of justice?' 
 	무엇으로 네 녀석의 불의에 답해줄까?
 
-	不要......不要惹恼我。
 	私を……なめるなよ。
-	Do not… make me angry.
+	Do not... make me angry.
 	나를…… 얕보지 마.
 
-	博士，谢谢你对我的支持。我们的战斗只会越来越艰难，我们不能放弃。
 	ドクター、いつも支えてくれてありがとうございます。私たちの戦いは厳しさを増すばかりですが、諦めるわけにはいきません。
 	Doctor, thank you for always supporting me. Our battles will only get harder from here, but we can't give up.
 	박사님, 언제나 지지해주셔서 감사합니다. 우리의 전투는 점점 더 힘들어지고 있지만, 포기할 순 없어요.
 
-	要战斗到哪一天，蔓延在大地上的怒火才会平息呢......
 	いつまで戦えば、大地に広がる怒りの炎が鎮まるんでしょうか……
 	How long do we fight? How long until the flames of anger on Terra subside...
 	언제까지 싸워야만 대지에 퍼진 분노의 불꽃이 사그라질까요……
 
-	辛苦了，博士。让我去处理善后吧。
 	お疲れ様です、ドクター。後始末は私に任せてください。
 	Doctor, good job. Let me handle the clean-up.
 	수고하셨어요, 박사님. 뒤처리는 제게 맡겨 주세요.
 
-	......发生什么了？不应该是这样......
 	……何があったの？こんなはずじゃ……
 	...What happened? This shouldn't have...
 	……무슨 일이 있었던 거지? 이럴 리가……
 
-	咻，应该可以小小休息一下了吧。
 	ふぅ、これで少しは休めますね。
 	Phew... we can take a little breather now, right?
 	후우, 이제 조금은 쉴 수 있겠네요.
 
-	唔啊，博士......！
 	うわっ、ドクター……！
 	Whuh, Doctor...!
 	으앗, 박사님……!
 
-	博士，请......稍微听我说几句话，好吗？
 	ドクター、あの……少しお話を聞いてください、いいですか？
 	Doctor, could you... hear me out for a bit? Is that okay?
 	박사님, 저기…… 잠시 이야기를 들어주세요, 괜찮으실까요?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	欢迎回家，博士！
 	おかえり、ドクター！
 	Welcome home, Doctor!
 	어서 오세요, 박사님!
+
+干员档案\Background:
+	基础档案 :
+	【代号】阿米娅
+	【性别】女
+	【战斗经验】三年
+	【出身地】雷姆必拓
+	【生日】12月23日
+	【种族】卡特斯/奇美拉
+	【身高】142cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】アーミヤ
+	【性別】女
+	【戦闘経験】三年
+	【出身地】レム・ビリトン
+	【誕生日】12月23日
+	【種族】コータス/キメラ
+	【身長】142cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Amiya 
+	[Gender] Female 
+	[Combat Experience] 3 years 
+	[Place of Birth] Rim Billiton 
+	[Date of Birth] Dec. 23 
+	[Race] Cautus/Chimera 
+	[Height] 142cm 
+	[Infection Status] 
+	Showed physical signs of Originium, infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 아미야
+	[성별] 여
+	[전투 경험] 3년
+	[출신지] 림 빌리턴
+	[생일] 12월 23일
+	[종족] 카우투스/키메라
+	[신장] 142cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】优良 
+	【战斗技巧】标准 
+	【源石技艺适应性】■■
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】■■
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation]■■
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] ■■
+
+———————————————————————————————
+
+	客观履历 :
+	罗德岛的公开领袖，在内部拥有最高执行权。虽然，从外表上看起来仅仅是个不成熟的少女，实际上，她却是深受大家信任的合格的领袖。
+	现在，阿米娅正带领着罗德岛，为了感染者的未来，为了让这片大地挣脱矿石病的阴霾而不懈努力。
+
+	個人履歴 :
+	ロドスの公表リーダー。ロドス内での最高執行権を有する。外見はまだ未熟な少女に見えるが、実際は皆の深い信頼を得ている立派なリーダーである。
+	現在アーミヤが率いるロドスは、感染者の未来のために、この大地から鉱石病という暗雲を払うために、たゆまず努力している。
+
+	Profile :
+	The public face of Rhodes Island and its top executive. Although Amiya appears to be a young and inexperienced girl, she is universally trusted and highly qualified for her position. 
+	Amiya now leads Rhodes Island in fighting for the future of the Infected and striving to exorcise the dark shadow of Originium from the land.
+
+	프로필 :
+	    로도스 아일랜드의 공식 리더이며, 내부에서 가장 강력한 집행권을 가지고 있다. 겉으로는 미숙한 소녀처럼 보이지만, 실제로는 신뢰받는 리더이다. 현재 아미야는 로도스 아일랜드를 이끌며, 감염자의 미래를 위해, 이 거대한 대지가 광석병이라는 한 치 앞도 알 수 없는 안갯속을 벗어날 수 있도록 끊임없이 노력하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】19% 
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	
+	【血液源石结晶密度】0.27u/L
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】19%
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	
+	【血液中源石密度】0.27u/L
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outlines of internal organs with visible unusual dark spots. Unusually high concentrations of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 19% 
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	
+	[Blood Originium-Crystal Density] 0.27u/L 
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨, 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음, 현단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 19%
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	
+	[혈중 오리지늄 결정 밀도] 0.27u/L
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+	■■■■■■■■■■■■■■■■■■■■■■■■■
+
+———————————————————————————————
+
+	升变档案一 :
+	史载，萨卡兹君王奎隆的佩剑，长度约在0.9到1.2米之间，宽约5厘米，材质不明，通体呈黑色，剑身铭刻萨卡兹传统文字，释作“争斗在此止歇”。
+	奎隆继位后整顿卡兹戴尔，深感西方荼害萨卡兹已久，遂率领部分萨卡兹部族向东方迁移，后下落不明。
+	传说，奎隆有令其敌人不战而退之威。有记述称奎隆之敌在与奎隆作战时仿佛会遭受数倍于武器重量之重压，在物理与意志上同遭奎隆捶打，如若侥幸不死，也多成残废。但也有人称奎隆为仁爱君主，任何遭其佩剑划破的创口都不会流血，如若退后，则能苟全性命。
+	不过，部分古籍宣称，在奎隆继位前，其佩剑就已于战争中毁坏，日后奎隆所持武器，只是他以法术塑造出的脆弱外形。这与奎隆此后在萨卡兹冲突中的表现不符，且少有人能解释在此前提下为何奎隆没有重铸爱剑。我推测，奎隆的确有以法术塑形武器之力，其理论基点同样根植于王位，只是奎隆碍于前游侠之身份而甚少使用此类法术。
+	当然，文献记载，奎隆继位后，其佩剑便时常散发青色幽光，如同焰息。由于奎隆性格激烈，此剑日后也被称作“青色怒火”。
+	萨卡兹的大多传说都随卡兹戴尔不断遭毁而佚失，这对历史考察造成很大困难。近日不断有萨卡兹学者呼吁重塑萨卡兹的历史，但研究中为宣扬萨卡兹种之崇高性而向研究材料添油加醋之行为，实为污染。
+	
+	——Logos
+
+	昇格資料一 :
+	史書によれば、サルカズの君主クイロンが身に帯びた剣は、長さが0.9から1.2メートル、幅が5センチほどであったという。材質は不明であったが、握りから切っ先まで全てが漆黒。剣身にはサルカズの伝統文字で「争いは此処で終着する」という意の言葉が刻まれていたと言われている。
+	クイロンは王位を継いだのち、カズデルを立て直す中で、西方の長きに渡るサルカズへの迫害を強く認識し、一部の部族を率いて東へと移った。その後の消息は不明である。
+	伝えられるところによれば、クイロンの威光は、彼の名を聞くだけで敵が臆して退くほどに冴え渡っていた。記録ではクイロンと刃を交えた敵は、現実に受けている剣の重さの数倍ほどの重圧にあてられて、物理的にも精神的にもクイロンにしたたかに打ち据えられるため、運良くその場を生き延びたとしても、ほとんどが廃人のように成り果てたという。しかし一方で、クイロンは仁愛に富んだ君主であったとする言説もある。かの剣がつける傷はいずれも血を零すことはなく、したがってその場で退けば命は繋ぐことができるというのだ。 
+	かように不可思議な伝承がついて回る王の剣であるが、クイロンが王位を継ぐ前には既に戦いの中で損壊し、その後クイロンが帯びていたのはアーツによって作り出した張りぼてであったと主張する古書も存在する。しかしこれは後にサルカズ衝突で彼が見せた活躍と矛盾する上に、損壊した愛剣を彼は何故打ち直さなかったという問いに対する合理的な回答がほとんどなされていない。私の推測では、クイロンのアーツは確かに武器の形を作り出す能力があった。そしてその理論の根源は、王家の血筋がもたらすものである。ただ王になる前の彼はレンジャーの身の上であったため、このようなアーツを使う場面が多くなかったのだと思われる。
+	王位を継いだのちにクイロンが帯びた剣の様子は史書に曰く、常に炎の如く揺らめく青いおぼろげな光を放っていたらしい。クイロン本人の激しい気質も相まって、かの剣は「蒼き怒火」と称されて今に至る。
+	サルカズの伝承はカズデルの絶え間ない戦乱に伴って、その多くが逸失している。そのため、歴史的考察を行うのは非常に困難である。近頃、サルカズ史を再度編纂しようと呼びかけるサルカズ学者が絶えず現れているが、研究の中でサルカズの種的な崇高性を喧伝するために資料の内容に著しい誇張を加え、あるいは美化するような行為は実に俗悪である。
+	
+	――Logos
+
+	Class Conversion Record 1 :
+	According to the records, the saber wielded by the Sarkaz Lord Kollam was between 0.9 and 1.2 meters long, about 5 centimeters thick, made of an unknown material, black in color, and bore a traditional Sarkaz inscription, which read 'here the fighting stops.' 
+	After succeeding to the throne, Kollam reorganized Kazdel and felt that time in the west had been unkind to the people, so he led some Sarkaz tribes to the east, at which point he vanished from history. 
+	According to legend, Kollam had the power to rout his enemies without fighting. Some accounts say that Kollam's enemies suffered a weight several times that of their normal weapons when facing him in battle, finding themselves physically and mentally defeated. If they were lucky enough to survive, they were often maimed. But some referred to Kollam as an enlightened despot, saying that cuts from his blade drew no blood, and anyone wise enough to retreat would survive. 
+	However, some ancient texts claim that Kollam's saber was destroyed in battle before he even succeeded to the throne, and that the weapon he later wielded was a fragile illusion born of his Arts. Such claims are inconsistent with Kollam's subsequent performance in Sarkaz conflicts, and few can explain why Kollam would not recast his favorite sword under those circumstances. I speculate that Kollam did have the power to shape weapons with Arts, and this theory is centered on the throne. But that Kollam rarely used his Arts in that way, having once been an adventurer. 
+	Of course, it is written that after Kollam's ascension, his saber gave off a greenish light, like a breath of flame. Kollam's famous ferocity led to the blade being dubbed 'Wrathful Cerulean Flame .' 
+	Most of the Sarkaz legends have been lost in the ongoing ruination of Kazdel, which has tremendously impeded historical research. There have been recent calls from Sarkaz scholars to restore their history, but their own research has been poisoned by propagandistic efforts to paint a noble picture of the Sarkaz race. 
+	
+	--Logos
+
+	프로모션 파일 자료 1 :
+	    역사 기록에 의하면, 살카즈 군왕 콜람이 사용했던 패검의 길이는 약 0.9~1.2m, 폭은 대략 5cm였으며, 온통 검은색을 띤 재질 불명의 검이라고 한다. 검신에는 살카즈 고유의 문자가 새겨져 있는데, 해석하면 "투쟁을 여기서 멈추노라"라는 뜻이다.
+	    콜람은 왕위를 계승 받은 후 카즈델을 정비하였고, 이때 서방이 오랫동안 살카즈에 끼친 해악을 통감하며, 일부 살카즈 부족을 이끌고 동방으로 향했다. 그러나 이 시점 이후부터는 그 행적이 묘연하다.
+	    전설에 따르면, 콜람에겐 싸우지 않고도 적을 물리칠 수 있는 위엄이 있었다고 한다. 콜람의 적은 콜람과 대적할 때면 마치 무기보다 몇 배는 더 무거운 듯한 중압감을 받아야 했고, 콜람의 물리적, 정신적 공격을 받은 적은 설사 운이 좋아 죽지 않는다 하더라도 불구나 폐인이 돼버리는 경우가 허다했다 한다. 하지만 누군가는 콜람은 어진 군주로, 그의 패검에 베인 상처에선 피가 흐르지 않았으며, 만약 스스로 물러난다면 목숨을 건질 수 있었다고 하기도 하였다.
+	    하지만 몇몇 고서에서는, 콜람의 패검은 그가 즉위하기 전에 이미 전쟁 도중 파괴되었으며, 이후 콜람이 사용한 무기는 아츠로 만들어낸 어딘가 약해 보이는 형태의 것이었다고 밝히고 있다. 다만 이 기록은 콜람이 후에 살카즈 분쟁 중 보여주었던 모습과는 부합하지 않으며, 실제로 그랬다 하더라도 어째서 콜람이 자신의 애검을 다시 주조하지 않았는가는 여전히 의문으로 남는다. 이에 나는 콜람이 아츠로 무기를 만들 수 있는 능력을 지녔던 것은 분명하며, 애검을 다시 주조하지 않았던 이유는 바로 왕위 때문이 아닐까 생각한다. 그는 본래 협객이었던 자신의 신분 때문에 그 아츠를 거의 사용하지 않은 것으로 보인다.
+	    문헌에 따르면, 콜람이 왕위를 계승하자 그의 패검은 불꽃이 멎을 때와 같은 푸른색의 그윽한 빛을 내뿜었다고 한다. 이는 콜람의 과격한 성격 탓에 훗날 '푸른 분노'라고도 불리었다.
+	    살카즈 역사에 대한 자료 중 대다수는 카즈델이 쇠퇴하면서 지속적으로 유실된 터라 관련 역사 연구 방면에서 큰 어려움을 겪고 있다. 최근 일부 살카즈 학자들이 살카즈 역사를 재정립해야 한다고 목소리를 높이고는 있지만, 살카즈 족의 숭고함을 선전하기 위해 연구 자료들에 사실관계가 확인되지 않은 사실들을 추가하면서 본래의 의의가 많이 퇴색되었다.
+	
+	——로고스
+
+———————————————————————————————
+
+	？？？ :
+	？？？？？？
+
+	？？？ :
+	？？？？？？
+
+	？？？ :
+	？？？？？？
+
+	？？？ :
+	？？？？？？

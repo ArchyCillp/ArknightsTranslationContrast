@@ -1,11 +1,17 @@
 ID:
 	char_211_adnach
 
-干员代号\Name:
+CV:
 	安德切尔
 	アドナキエル
 	Adnachiel
 	아드나키엘
+
+干员代号\Name:
+	河西健吾
+	河西健吾
+	Kengo Kawanishi
+	카와니시 켄고
 
 招聘合同\Character Usage:
 	罗德岛狙击干员安德切尔，将以弓弩挫败敌人的攻击。
@@ -38,157 +44,311 @@ ID:
 	공격 강화α
 
 语音\Voices:
-	你手上的设备好像运行得不太稳定，可以让我看一下吗？
 	その機械、なんか調子悪そうに見えるんですが、ちょっと見せてもらっていいですか？
 	That device you're holding seems to be in poor shape. Would you mind if I took a look at it?
 	그 기계, 상태가 좀 안 좋아 보이는데, 좀 봐도 될까요?
 
-	呀，安赛尔，卡缇看上去挺精神的呢。需要我帮你做什么吗？
 	やぁ、アンセル。カーディちゃんなら元気ですよ。ところで何か手伝ってほしいこと、あります？
 	Hey, Ansel. Cardigan looks good today. Did you want something from me?
 	안녕하세요 안셀. 카디건이라면 잘 지내요. 뭔가 도와줬으면 하는 게 있나요?
 
-	我们队里的每个人都很有趣，特别是玫兰莎。虽然她好像总是躲着我，不过我总能感受到她散发的香味。
 	うちのチーム、面白い人ばかりなんですよ。特にメランサちゃんはね。なぜかオレは避けられてるみたいだけど、香りでわかっちゃうんですよね。
 	We have a squad of very interesting people, especially Melantha. She always seems to be hiding from me, but I can sniff her out.
 	저희 팀엔 재밌는 사람들이 잔뜩 있어요. 특히 멜란사는 말이죠, 왠지 절 피하는 것 같은데… 향기로 알 수 있거든요.
 
-	卡缇，你在干什么？看上去很开心的样子。
 	カーディちゃん、何してるんです？楽しそうですね……。
 	Cardigan, what are you doing? You look so happy.
 	카디건, 뭐 하고 있나요? 재미있어 보이네요… 
 
-	并不是每个拉特兰人都有使用铳的权力，因为铳对我们来说是不可多得的武器。在我的故乡，仿制铳部件的技术倒是很发达，制造弩的技术也在同步发展。这把装配了战术鱼骨的弩，就是这种技术的成果。
 	ラテラーノ人だからといって、誰でも銃を扱う資格を持ってるわけじゃないんです。なにせオレたちにとっては得体のしれない武器ですからね。オレの故郷では、銃をコピーする技術の発達に伴って、クロスボウの製造技術も独自に発展しました。魚の骨を素材にしているクロスボウ、ああいうのが大体そうです。
 	Not every Laterano has the right to use guns, rare weapons that they are. In my hometown, we're pretty good at making knockoff gun parts. The crossbow crafting industry is also on the rise. The result is what I have here - a crossbow with tactical rail attached.
 	라테라노인이라고 해서 누구나 총을 다룰 수 있는 자격을 갖고 있는 건 아니에요. 여하튼 저희들에게는 정체를 알 수 없는 무기니까요. 저희 고향에선 총을 복제하는 기술이 발전하면서 크로스보우의 제조 기술도 독자적으로 발전하게 되었어요. 생선 뼈를 소재로 하는 크로스보우 같은 것도 대부분 그렇게 만들어진 거죠.
 
-	您要尝尝我的手制甜点吗？说来有点不好意思，我只能做25种甜品，真是一个不合格的拉特兰人。
 	オレの手作りデザート、いかがです？恥ずかしいことなんですが、オレまだ25種類しかデザート作れないんですよ。ラテラーノ人失格ですよね。
 	Would you like to try some of my handmade sweets? I'm kind of ashamed that I can only make 25 types of desserts. It feels like I've disgraced the Laterano people.
 	제가 직접 만든 디저트, 어떠신가요? 부끄러운 일이지만, 전 아직 디저트는 스물다섯 종류밖에 못 만들거든요. 라테라노인 실격이죠.
 
-	这枚天使的轮环？我也不知道为什么，它的位置会偏移。凯尔希医生说，这似乎和大脑海马体异常有关。
 	この天使の輪？……なぜズレてるのかオレもよくわからないんです。ケルシー先生は脳の海馬の異常がどうとかって言ってましたけど。
 	What's wrong with my halo? I don't know why, but it seems to have deviated slightly. According to Dr. Kal'tsit, this is probably linked to my abnormal hippocampus.
 	이 천사의 광륜이요? …왜 삐뚤어져 있는지는 저도 잘 모르겠어요. 켈시 선생님께선 뇌의 해마 쪽에 이상이 어쩌네 하셨었는데… 
 
-	与其站在远处眺望着博士，不如和博士您站在一起，这样我会更加开心。
 	遠くから眺めてるより、ドクターと一緒にいるほうがずっと楽しいです。
 	Instead of watching you from afar, I feel much better standing by your side, Doctor.
 	멀리서 바라보는 것 보다, 박사님이랑 같이 있는 편이 훨씬 더 즐겁네요.
 
-	博士，休息时的容貌，也这样令人印象深刻。
 	ドクターって、休んでる時の顔も、すごく印象的ですね。
 	Doctor, you truly strike an impressive figure, even when you rest like that.
 	박사님께선, 쉬고 계실 때의 얼굴도 굉장히 인상적이시네요.
 
-	我是拉特兰出身，担任狙击干员的安德切尔。虽然我还没有得到铳的使用权，不过说到弩的灵活运用，我不会输给前辈们的！
 	ラテラーノ出身、射撃担当のアドナキエルです。銃を扱う資格はまだ取れてませんが、クロスボウの腕なら先輩達にも負けませんよ！
 	My name is Adnachiel. I'm a Sniper from Laterano. Although I'm not yet certified to carry a gun, I can match the veterans with my crossbow!
 	라테라노 출신, 사격 담당 아드나키엘입니다. 총을 다룰 자격은 아직 갖고 있지 않지만, 크로스보우 실력이라면 선배님들한테도 지지 않아요!
 
-	能被您这样重用，我很满足了。
 	オレのことをいっぱい使ってくれれば、もう満足ですよ。
 	Put me to good use and I'll be more than happy.
 	절 맘껏 써주신다면, 그걸로 만족해요.
 
-	非常感谢您的提拔。
 	抜擢いただき、ありがとうございます。
 	Thank you very much for the promotion.
 	발탁해주셔서 감사합니다.
 
-	没问题的。
 	大丈夫です。
 	We will be fine.
 	괜찮습니다.
 
-	如果有东西坏掉了，可以让我看一下，也许能帮你修好的。
 	何か壊れたものがあったら、オレに見せてくださいね。直せるかもしれませんよ。
 	If anything breaks, bring it to me. I may be able to fix it for you.
 	뭔가 망가진 게 있다면 제게 보여주세요. 고칠 수 있을지도 몰라요.
 
-	出发时间到了，准备好了吗？
 	出発の時間ですよ、準備はいいですか？
 	It's time to go. Are you ready?
 	출발 시간입니다, 준비는 되셨나요?
 
-	各位，开始狩猎吧。
 	みんな、狩りを始めましょう。
 	Let the hunt begin.
 	여러분, 사냥을 시작하죠!
 
-	遵从您的指示。
 	指示に従います。
 	I will follow your orders.
 	지시에 따르겠습니다.
 
-	嗯？
 	んん？
 	Hmm?
 	응?
 
-	早点逃走比较好哦。
 	早く逃げたほうがいいですよー。
 	You better run away soon.
 	빨리 도망치는 게 좋을 거에요.
 
-	好的。
 	オッケー！
 	Okay!
 	오케이!
 
-	这个！
 	それ！
 	Gotcha!
 	이얍!
 
-	锁定！
 	ロックオン！
 	Locked on!
 	록 온!
 
-	一切都在博士的掌控中哦。
 	全てはドクターの計算通りですよ。
 	Everything went just as you planned, Doctor.
 	모든 건 박사님의 계산대로네요.
 
-	多亏有博士的指挥。
 	ドクターの指示のおかげですね。
 	We have the Doctor's orders to thank for this.
 	박사님의 지시 덕분이네요.
 
-	虽然作战成功了，但好像还有什么地方不太对劲......？
 	作戦は成功ですけど、なんか引っかかりません？
 	Our operation was a success, but something feels a bit off...
 	작전은 성공했지만, 뭔가 좀 걸리지 않으세요?
 
-	非常，非常抱歉......
 	申し訳ありません……。
 	I'm so sorry...
 	죄송합니다…… 
 
-	这里的气氛真不错。
 	ここ、いい雰囲気ですね。
 	This place has a great vibe.
 	여기, 분위기 좋네요.
 
-	哎呀？
 	おや？
 	What?
 	어라?
 
-	博士？能和您在一起，我也很开心。
 	ドクター？一緒にいられて、オレも嬉しいです。
 	Doctor? I'm so happy to be with you!
 	박사님? 함께 할 수 있어 저도 기쁩니다.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	愿上天祝福您，博士。
 	ドクター、あなたにも天の祝福を。
 	May the Lord bless you, Doctor.
 	박사님, 당신에게도 하늘의 축복을.
+
+干员档案\Background:
+	基础档案 :
+	【代号】安德切尔
+	【性别】男
+	【战斗经验】半年
+	【出身地】拉特兰
+	【生日】5月30日
+	【种族】萨科塔
+	【身高】171cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】アドナキエル
+	【性別】男
+	【戦闘経験】半年
+	【出身地】ラテラーノ
+	【誕生日】5月30日
+	【種族】サンクタ
+	【身長】171cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Adnachiel
+	[Gender] Male
+	[Combat Experience] Half a year
+	[Place of Birth] Laterano
+	[Date of Birth] May 30
+	[Race] Sankta
+	[Height] 171cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 아드나키엘
+	[성별] 남
+	[전투 경험] 반년
+	[출신지] 라테라노
+	[생일] 5월 30일
+	[종족] 산크타
+	[신장] 171cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】普通 
+	【战斗技巧】标准 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	安德切尔，拉特兰公民，适用拉特兰一至十三项公民权益。正式任职前为自由职业者。于多项测试中获得优异成绩，遂获准加入罗德岛，现于罗德岛行动预备组A4小组任职。 
+	在快速反应、精准射击、支援作战等项目中展现出值得期待的潜力。
+
+	個人履歴 :
+	アドナキエルはラテラーノの公民。ラテラーノ第一条から第十三条までの公民権が適応される。着任前はフリーターをしていた。多数のテストで良い成績を取ったため、ロドスに加入した。現在はロドス行動予備隊A4に勤めている。
+	成績を見る限り、高速反応、正確射撃、支援作戦などにおいてさらなる成長が期待できる。
+
+	Profile :
+	Adnachiel is a citizen of Laterano and enjoys rights one through thirteen afforded to all citizens of Laterano. Before his arrival at Rhodes Island, he worked as a freelancer. He received excellent results on a battery of tests and was assigned to Rhodes Island Op Reserve Team A4.
+	He has demonstrated great potential in the areas of rapid response, marksmanship, and support operations.
+
+	프로필 :
+	    라테라노 공민으로서 제1항부터 제13항에 해당하는 권익을 누린다. 정식 임직 전에는 프리랜서로 활동하였으며, 여러 항목의 테스트에서 우수한 성적을 획득, 순조롭게 로도스 아일랜드 합류 허가를 받았다. 현재 로도스 아일랜드 예비작전팀 A4에서 활약 중이며, 빠른 반응 속도, 정밀 사격, 지원 작전 등 다양한 방면에서 기대할 만한 잠재력을 보이고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】9%
+	光环位置异常，但体表暂未出现明显的矿石病病征。
+	
+	【血液源石结晶密度】0.26u/L
+	感染程度尚浅，暂时还没有带来明显身体影响。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】9%
+	光の輪の位置に異常あり。体表に鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.26u/L
+	感染状況は浅く、現状明らかな身体への影響は見られない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of his internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in his circulatory system, confirming him to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 9%
+	He presents no obvious external symptoms of Oripathy.
+	
+	[Blood Crystal Density] 0.26u/L
+	Degree of infection is minor and has not displayed any significant physical symptoms.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 9%
+	광륜의 위치 이상. 단, 체표면에는 현재로선 명확한 광석병 증상이 나타나지 않음. 
+	
+	[혈중 오리지늄 결정 밀도] 0.26u/L
+	감염 정도 약함, 현재로선 신체에 명확한 영향을 끼치고 있지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	熟悉安德切尔的干员同僚们都习惯用一个词汇形容这位天使：聪慧。即使是相当复杂的学识和技术，安德切尔都能在很短的时间内将之洞悉、掌握。
+	虽然安德切尔曾谦虚地表示，一旦涉及更加高深的理论，他就会束手无策，但大家也都仅仅把这当作是安德切尔的谦逊。毕竟，安德切尔在社交场合下表现出的那种沉默和自然，都让人心生好感，更会认定这是个智慧而有涵养的年轻人。一旦与他交流，干员们就更能感受到他惊人的观察力和令人赞叹的敏感。他的言语一刻也没有偏离过事物的本质，而他理论范畴内的所有事物似乎都无法脱离他的掌控，凭借分析，他甚至能推导出目标短暂的未来。尽管他拒绝被称作是“先知”或者“知道很多的小白脸”，但和他有关的传言实在是数不胜数。
+
+	第一資料 :
+	アドナキエルのことをよく知っている人に、彼につける形容詞を選ばせるなら、きっと誰もが「賢い」と選ぶだろう。
+	どんなに難しい学問でも技術でも短時間で習得できる、それがアドナキエルという天使だ。
+	口数少ないアドナキエルは、常に周囲を観察し、分析する。彼の言葉は、天使が放つ矢と同じように、ほとんど外れたことはない。
+	そんな彼は「預言者」や「物知りの色白さん」などと呼ばれ、彼にまつわる噂話も数え切れないほどである。
+	当の本人は至って謙虚で、「そんなことありませんよ」と否定し続けているが、その奥ゆかしさもまた、彼の魅力の一つだろう。
+
+	Archive File 1 :
+	Operators familiar with Adnachiel tend to use one word to describe the angel: bright. No matter how complicated the subject or advanced the technology involved, he seems to have no trouble mastering it in a short period of time. 
+	In a show of humility, Adnachiel stands helpless in the face of loftier, theoretical topics, though everyone assumes he's just being modest. After all, as soft spoken and kind as he is, Adnachiel gives off the impression of being a clever and considerate young man. After meeting him, most operators come to understand his observant and sensitive personality. He always speaks to the true nature of things, but the scope of his theories is limited to that over which he has immediate control. Through his analyses, he can even predict the short-term future of his targets. He consistently rejects the titles of both 'prophet' and 'genius pretty boy,' but rumors about him continue to proliferate.
+
+	파일 자료 1 :
+	    아드나키엘을 잘 아는 오퍼레이터 동료들은 하나같이 이 천사를 '영특하다'고 평가한다. 아무리 복잡한 지식과 기술이라도, 아드나키엘은 얼마 지나지 않아 금세 익혀버리기 때문이다.
+	    더 어려운 이론을 접하게 되면 자신도 속수무책이라고 아드나키엘은 겸손한 태도로 일관했지만, 다른이들은 이게 단순한 겸손임을 잘 알고 있었다. 아드나키엘이 많은 사람이 있는 곳에서 보여주는 그런 자연스러운 침묵은 타인에게 호감을 줄 뿐 아니라, 이 사람이 지혜와 교양을 갖추고 있는 젊은이라는 인상을 주기 충분했다.
+	    일단 그와 말을 나누기 시작하면, 오퍼레이터들은 다들 그의 놀라운 관찰력과 민감함에 감탄을 금치 못했다. 그의 말은 사물의 본질에서 벗어나는 적이 없었고, 그의 이론 범주 내의 모든 사물은 마치 그의 손바닥 안에 있는 것만 같았으며, 심지어는 분석을 통해 대상의 가까운 미래까지 예측해낼 수 있었으니 말이다. 물론 그는 '선지자'나 '아는 게 많은 미소년'이라 같은 호칭을 전부 거절했지만, 이와 관련된 일화는 이것 말고도 정말 셀 수 없이 많다.
+
+———————————————————————————————
+
+	档案资料二 :
+	暂无出动任务的休息时间中，安德切尔常前往罗德岛整备与维修工作间。作为实习助手，安德切尔手腕灵活，心思缜密，且时常流露出对罗德岛设备无法掩饰的，十足的好奇心。
+
+	第二資料 :
+	出動任務のない休憩時間には、アドナキエルはよくロドスのメンテナンス部門に行く。実習アシスタントとして、彼は良い腕を持っており、思慮深い。
+	彼はどうやら、ロドスの設備に隠しきれない好奇心を持っているようだ。
+
+	Archive File 2 :
+	When he has free time between missions, Adnachiel often goes to the Rhodes Island Maintenance and Repair Workshop. Working as an intern assistant, Adnachiel's wrists are flexible and his attention to detail is meticulous. He has demonstrated an insatiable curiosity about Rhodes Island's equipment.
+
+	파일 자료 2 :
+	    임무가 없는 휴식 시간에 아드나키엘은 보통 로도스 아일랜드의 관리실로 향한다. 인턴 보조로서 아드나키엘은 수완이 뛰어나고, 주도면밀하며, 늘 로도스 아일랜드의 설비에 대해 감출 수 없는 호기심을 드러낸다.
+
+———————————————————————————————
+
+	档案资料三 :
+	安德切尔尚未通过拉特兰铳型武装运用许可协议，他备受信赖的武器是他亲自改装的十字弩弓（拉特兰的设计有别于雷神工业量产化的金属弩弓）。鉴于力量方面的不足，他的弩弓仍保有踏具这一传统弩具部件。
+
+	第三資料 :
+	アドナキエルはラテラーノ銃型武器使用許可協定を通っていない。彼が頼りにしている武器は、自分で改造したクロスボウ（ラテラーノのデザインはレイジアン工業の量産化金属クロスボウとは違う）。腕力の不足を補うため、アドナキエルのクロスボウにはフットスティラップという伝統的な弓具部品が付けられている。
+
+	Archive File 3 :
+	Adnachiel has not yet completed the Laterano Firearms Usage Agreement. His most trusted piece of equipment is his personally modified crossbow (Laterano crossbows are very different from the metal crossbows mass produced by Raythean). As he is not sufficiently physically strong, Adnachiel's crossbow has a pedal on the front used to help pull back the string with his foot.
+
+	파일 자료 3 :
+	    아드나키엘은 아직 라테라노의 총기류 무장 운용 허가 협의를 통과하지 못해, 그가 믿을 수 있는 무기는 직접 개조한 크로스보우 뿐이다(라테라노의 설계는 레이시언 공업의 양산화 금속 활과는 차이가 있다). 상대적으로 부족한 위력을 감안하여, 그의 크로스보우에는 전통적 크로스보우에 포함된 장치인 등자가 장착되어 있다.

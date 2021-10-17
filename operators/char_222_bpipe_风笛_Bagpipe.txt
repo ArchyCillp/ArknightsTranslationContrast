@@ -1,11 +1,17 @@
 ID:
 	char_222_bpipe
 
-干员代号\Name:
+CV:
 	风笛
 	バグパイプ
 	Bagpipe
 	백파이프
+
+干员代号\Name:
+	丰崎爱生
+	豊崎愛生
+	Aki Toyosaki
+	토요사키 아키
 
 招聘合同\Character Usage:
 	维多利亚前军人风笛，追寻着真相而来。
@@ -48,177 +54,488 @@ ID:
 	클로즈드 볼트 연발
 
 语音\Voices:
-	助理？就是要一直站在别人身边的那个吧，我在军队里也见过哦。等等，还要做文书工作？要搜集战况？还要发报告？！好，好麻烦！
 	秘書？あー、人のそばにずっと突っ立ってるあれだべ？軍にいた頃は見たことあるな。えっ？机仕事もしなくちゃいけないの？戦況の把握も？告知も！？し、七面倒くさ～！
 	Assistant? You mean that job where I just stand next to people? I've seen that in the army as well. Wait, I also have to do paperwork? And assess combat data? And compile a report?! Th-that sounds hectic!
 	비서? 아~ 사람 옆에 계속 서 있는 그거? 군대에 있을 때 본 적 있나. 머이? 서류 작업도 해야 한다고? 전황 파악도? 공지도? 어, 엄청 귀찮잖아~!
 
-	陈陈在学校也总摆着张臭脸，她那个样子啊，可容易遭人讨厌啦，但后来的她可是让所有人都刮目相看呢！虽然包扎伤口啦，帮她烧饭啦，和她结队作战啦什么的我也没少干，还挺累人的......
 	チェンちゃんってずっとしかめっ面だべ？学校の時もあんなんだからさ、めっちゃ嫌われ者だったべ。でも最後になったらみーんな見る目を変えちまったんだ！まあ傷の手当をしてあげたり、料理を作ってあげたり、一緒に戦ったりとかで、うちも大変だったけどさ……。
 	Back in school, Chenchen always had a pissed off look on her face. But that's just the kind of girl she is. She made a lot of enemies at first, but later on, there wasn't a single person who could take their eyes off her! But y'know, bandagin' her wounds, cookin' for her, teamin' up with her squad and whatnot... I had to look after her quite a lot, and that was no easy feat...
 	첸은 계속 찌푸린 얼굴이지 않나? 학교에서도 그래서 엄청 미움 받았었지. 그래도 끝에 가선 다~들 다시 보게 됐사! 뭐, 상처를 치료해 주거나 요리를 해주거나 같이 싸우거나 하느라, 나도 힘들었지만……
 
-	器械操作，我很会的呀！割麦机啊，拖拉机啊，翻土机啊，我全都很擅长的。嗯？掌上终端，显示屏，无线路系统？小型机械的话，我不太......哎，我就碰了一下，它怎么冒烟了？！
 	機械の操作ならうちに任せてよ！コンバインでしょ、トラクターにティラー、全部動かせちゃうんだから！んあ？携帯端末にスクリーンと無線装置……？いや、ちっちゃい機械はちょっと……わわっ！？ちょこっと触っただけなのに、どうして煙が！？
 	I'm real good at operatin' all sorts of equipment! Wheat threshers, tractors, tillers, I'm good with all that stuff. Hm? PDAs, LED screens, and wireless systems? I'm not too good with that stuff... Woah, I barely just touched it... Why's it goin' up in smoke?!
 	기계 조작이라면 나한테 맡겨! 콤바인에 트랙터에 경운기까지 몽땅 조작할 수 있으니까! 어? 휴대 단말기에 스크린이랑 무선 장치……? 아니, 작은 기계는 좀…… 으아?! 살짝 만지기만 했는데 왜서 연기가?!
 
-	你昨天是不是没有好好吃饭？工作，工作，工作可不是借口！身体垮了的话，就什么事都别想做了。想吃什么就说吧，我这就去做！啊，太精致的不行哦，我做不来的。
 	昨日ちゃんとご飯食べなかったべ？仕事仕事って！仕事を言い訳にしないの！体を壊したら何もできないんだよ。何か食べたいものがあったら言って。作って来てあげる！あっ、手の込んだやつはダメだよ、あんなのうちには無理だべ。
 	Did you not get a good supper in yesterday? I don't wanna hear your old 'work, work, work' routine! If your body gives out on you, you won't be able to get a thing done. Tell me what you'd like, and I'll make it for you! Ah, I won't be able to make anything too complicated though.
 	어제 제대로 밥 안 먹었나? 일하느라 바쁘다고 말이야! 일을 변명 삼지 마니! 몸이 망가지면 아무것도 못 해. 먹고 싶은 게 있으믄 머이든지 말해 봐. 맹글어 올게! 앗, 손이 마이 가는 건 안돼. 그런 건 나한테 무리란 말이야.
 
-	罗德岛这艘船啊，实在是......比维多利亚的军舰好了不知道多少倍啊！阳光，麦田，成群的牧兽......博士，我们也种点什么吧，要么就土豆好了？种土豆，我可是很有经验的！
 	このロドスの船さぁ、ほんと……ヴィクトリアの軍艦よりず～っと良いよね！日の光、麦畑、家畜の群れ……ドクター、うちらもなんか育てようか！じゃがいもとかいいんじゃない？じゃがいも栽培ならお手の物よ！
 	The Rhodes Island ship is just... so much better than Victoria's warships by I don't know how many times. There's even sunlight, wheat fields, and packs of beasts... Doctor, why don't we try growin' something, like potatoes? I know all about growin' potatoes!
 	이 로도스 아일랜드의 함선 말이야, 정말…… 빅토리아의 군함보다 훨~씬 좋지 않나! 햇빛, 보리밭, 가축들…… 박사, 우리도 뭔가 키우자야! 감자 같은 거 괜찮지 않나? 감자 심는 거라면 한가닥 하거든!
 
-	你说，一个人的故乡该到哪里为止？是离牵引车最远的房子，还是大地与蓝天的交界，又或者是地图上不断重画的红蓝杠？那么多场仗打下来......有时候我甚至会突然忘记家乡的模样。
 	ドクターは、どこまでを「ふるさと」って呼ぶべきだと思う？トラックの車庫から一番離れた家？大地と空が交わる場所？それとも地図にいろんな色で描かれてる線？こんなに戦いに明け暮れてると、時々、故郷がどんな風景だったのかも思い出せなくなるんだよ。
 	Where do you think someone's hometown ends? Is it the house farthest away from the tractors, or where the land meets the sky? Or is it the red and blue bars that are constantly being redrawn on the map? After so many battles... I sometimes suddenly forget what my hometown looks like.
 	박사는 어데까지를 '고향'이라 불러야 한다고 생각하나? 트럭 차고에서 가장 멀리 떨어져 있는 집? 대지와 하늘이 만나는 곳? 아니면 지도에 여러 색으로 그어진 선? 이렇게 전투에 몰두하고 있다 보면, 가끔 고향이 어떤 풍경이었는지 생각 안 나게 되거든.
 
-	那个叫苇草的姑娘，我一定见过她。但现在她这个样子，看起来又孤僻又可怜，她真是我看到的那个可怕的人吗？真奇怪，我得问问她......我不能和她说话？欸，为什么呀！
 	あのリードって娘、うち絶対会ったことあるんだべ。でも今あの子の雰囲気、なんだか寂しげで近づきづらいっていうか……本当にうちが見てたあの怖い人なの？おっかしいなぁ。よし、本人に聞いてみ……ん？あの子とのおしゃべりは禁止？えぇっ、なんでよ！
 	I know I've seen her before, that girl called Reed. But she looks so lonely and pitiful now... Is she really the same terrifyin' person I once knew? How strange. I should go ask her... I can't talk to her? Huh? Why not?!
 	저 리드라는 아이, 나 분명 만났던 적이 있사. 그런데 지금 쟈 분위기, 뭐인가 쓸쓸해서 다가가기 힘들다고 할까…… 정말 내가 봤던 그 무서운 사람이 맞나? 이상하지 않나? 좋아, 본인에게 물어보…… 응? 쟈랑 이야기하는 건 금지라고? 에엣, 왜서?!
 
-	跑去读军校也有妈妈的原因啦，都怪她老说“瓦伊凡的女人就是要不断变强”什么的......算是不服气吧？现在想想，没必要变得像妈妈那样强壮呀。欸，我看起来还是可爱居多的对吧。对吧？
 	軍学校に進んだのはお母ちゃんがいつも言うから。「ヴイーヴルの女は強くなり続けなきゃ」とかって……それに対する意地みたいな？今思えば、お母ちゃんみたいに強くなる必要はなかったなぁ。ほら、うちってどっちかというとかわいいほうなんだよね。そうだべ？
 	My mum is part of the reason I ended up goin' to military school in the first place. I blame her for sayin' stuff like 'Vouivre women must keep gettin' stronger.' ...Sounds like I was just bein' stubborn, right? Lookin' back, there's no need to try to be as strong as my mum. Hey, wouldn't you say I'm cuter this way?
 	군사 학교로 진학했던 건 엄마가 항상 “뷔브르 여자는 계속 강해져야 한다”고 해서야…… 그 말에 대한 오기 같은 거랄까나? 지금 생각해 보면 엄마같이 강해질 필요는 없었는데. 봐봐야, 난 따지고 보면 귀여운 편이잖아. 안 그렇나?
 
-	还在军队时，我遇见过一支鬼魂一样的部队，他们在维多利亚的暗处肆虐，目击者却又大多下落不明。我有发掘它内幕的义务，这也是我到处乱跑的原因。啊，你别插手，你也有自己的天职吧？
 	軍にいた頃、幽霊みたいな謎の部隊にとーっても手を焼いてたんだ。ヴィクトリアの裏で暴虐非道を尽くしてて、目撃者も大半は行方不明になっちゃって。うちはやつらの正体を暴かなきゃって思うんだ。これがうちがそこら中駆けずり回ってる本当の理由。あ、ドクターは気にしないで。自分の天職があんべ？
-	When I was still in the army, I once came across a ghost-like squadron. They haunted the darkness of Victoria, and most of the people who witnessed 'em went missin'. I have a duty to expose 'em, and that's why I've been runnin' all over the world. Oh, you don't need to step in. Don't you have your own stuff to worry about?
+	When I was still in the army, I once came across a ghost-like squadron. They haunted the darkness of Victoria, and most of the people who witnessed 'em went missin.' I have a duty to expose 'em, and that's why I've been runnin' all over the world. Oh, you don't need to step in. Don't you have your own stuff to worry about?
 	군대에 있었을 때, 유령 같은 수수께끼의 부대한테 호되게 고생한 적이 있사. 빅토리아의 뒤에서 온갖 포학하고 무도한 짓을 해대고, 목격자도 대부분 행방불명이 되어 버렸었지. 난 쟈들의 정체를 파헤쳐야 한다고 생각하거든. 이거이 내가 사방팔방 뛰어다니는 진짜 이유야. 아, 박사는 신경 쓰지 마라. 박사는 자기 천직이 있지 않나?
 
-	啊！你在偷懒！真好啊，不过睡觉还是要在草垛里才舒服吧？哎，这样一想真的好困......我也睡一小会儿，应该没事吧？
 	あ！サボりだべ！うんうん、いいよね～お昼寝。でも藁におの上で寝るのが一番気持ちいいべ？ふわぁ～考えてたら眠くなってきちゃった……うちもちょっと寝ていい？
 	Ah! You're slackin' off again! How nice, but if you're gonna nap, wouldn't it be better to throw yourself atop a pile of hay? Mm, just thinkin' about it is makin' me sleepy too... It should be fine if I go rest for a while, right?
 	아! 땡땡이치나! 응응, 좋지~ 낮잠. 그래도 건초더미 위에서 자는 게 가장 기분 좋지. 흐아암~ 생각했더니 졸립다…… 나도 좀 자도 되나?
 
-	你好！你就是博士，对不对？龙门的陈警司说我可以在这找到帮手！要先签名？嗯，风——笛——好了！欸？“成为干员”？“全日驻舰”？那是什么呀！
 	こんにちは！おめーさんがドクターだべ？龍門のチェン警司から、ここでは助っ人が見つかると聞きまして！ん？まずはサイン？えーと、バ、グ、パ、イ、プ、っと。よし！んあ？「オペレーター契約」？「全日滞在」？なんだべこれ！
 	Hey there! You're the Doctor, right? Superintendent Ch'en from Lungmen said I'd be able to find some helpers here! I need to sign my name here first? Um... Baaag... pipe. All right! Huh? I need to 'become an Operator' first? 'Full-time room and board?' The heck is that?!
 	안녕! 그쪽이 박사? 용문의 첸 총경한테 여서 조력자를 찾을 수 있을 거라 들었사! 우선은 사인? 어디 보자, 백… 파… 이… 프… 좋아! 어? '오퍼레이터 계약'? '전일 체재'? 뭐야 이거!
 
-	哦哦，罗德岛打起仗来，还挺有模有样的嘛！
 	おおーっ。ロドスの戦い方、結構サマになってるな～！
 	Woah, you folks here at Rhodes Island sure can fight!
 	오오~! 로도스 아일랜드의 전투 방식, 꽤 그럴싸하지 않나~!
 
-	晋升？嗯......我说不上是喜欢还是讨厌呢。毕竟对于军人来说，责任同时也意味着更多的争战，甚至是更多的错误啊。
 	昇進？うーん……嬉しいとも嫌とも言えないかな。軍人にとって責任というのは、更に多くの戦い、ひいては更に多くの過ちをも意味するものだからさ。
 	A promotion? Hm... can't tell you if I like it or not. For soldiers, more responsibilities means more battles, and a greater risk of mistakes.
 	승진? 음…… 기쁘다고도 싫다고도 못 하겠다. 군인에게 책임이라는 건 더 많은 전투, 더 나아가서 더 많은 과오를 의미하는 거지 않나.
 
-	加入罗德岛对我来说是件好事。矿石病和感染者，虽然开始会觉得很可怕，但逃避是不能解决任何问题的，对吗？谢谢你，我也认清了自己应该去做的事情。
 	うちにとって、ロドスへの加入は儲けものだったよ。鉱石病も感染者も、最初は怖かったけど、逃げてちゃ何も解決できない、そうだべ？うちも自分のすべきことがはっきりわかったよ。ドクターのおかげだね。
 	Joining Rhodes Island has been a good thing for me. Oripathy and the Infected may seem scary at first, but runnin' away from these problems won't solve anything, right? Thank you, I've also understood what I need to do.
 	나한테 로도스 아일랜드 가입은 이득이었사. 광석병도 감염자도 처음엔 무서웠지만, 도망쳐봤자 아무것도 해결할 수 없지 않나. 안 그러나? 나도 내가 해야 할 일을 분명히 알았사. 박사 덕분이다야.
 
-	立正！
 	気を付け！
 	Stand at attention!
 	차렷!
 
-	由我带队，立即执行作战计划！
 	自分が率いるからには、即座に作戦を執行する！
 	I'll lead the team and execute the operation plan right away!
 	내가 이끄는 이상, 즉각 작전을 집행하겠다!
 
-	遵循命令，立刻出发！
 	命令に従い、出撃！
 	Follow the orders, and move out immediately!
 	명령에 따라, 출격!
 
-	全体散开！
 	総員、散開！
 	Everyone, spread out!
 	전원, 산개!
 
-	请说。
 	ご指示を。
 	Go ahead.
 	지시를.
 
-	随时候命。
 	待機中。
 	Awaiting your orders.
 	대기 중.
 
-	进攻！
 	進め！
 	Forward!
 	가라!
 
-	我和我的破城矛，来自维多利亚！
 	ヴィクトリアのバグパイプ、破城矛と共に、参る！
 	My spear and I hail from Victoria!
 	빅토리아의 백파이프, 캐슬브레이커와 함께, 참전한다!
 
-	“战术使人思维明晰！”
 	「思考を明晰にするは戦術」！
 	'Tactics sharpen the mind!'
 	사고를 명석하게 하는 것은 전술!
 
-	“纪律使人意志坚定！”
 	「意志を堅固にするは規律」！
 	'Discipline strengthens the will!'
 	의지를 견고하게 하는 것은 규율!
 
-	“勇敢能够击溃邪恶！”
 	「邪悪を壊滅しうるは勇猛さ」！
 	'Bravery shall overcome evil!'
 	사악함을 괴멸시킬 수 있는 것은 용맹!
 
-	“仁慈能够拯救生命！”
 	「生命を救済しうるは慈しみ」！
 	'Benevolence shall save lives!'
 	생명을 구제할 수 있는 것은 자애!
 
-	无论是在学校还是军队，我都见过更严峻的事态。
 	学校でも軍隊でも、より厳しい事態は目にしてきた。
 	I've seen more serious matters, both in school and in the military.
 	학교에서도 군대에서도… 더 어려운 사태는 많이 봐왔어.
 
-	咻......这回也没有辜负这身制服呢！
 	ふぅ……今回もこの制服に恥じない戦いができたね！
 	Phew... I've managed to live up to the reputation of this uniform once more.
 	후우…… 이번에도 이 제복에 부끄럽지 않은 전투를 할 수 있었네!
 
-	敌人溃逃了！各位追击时，一定要小心！
 	敵を逃がした！各員、追撃時は十分に用心せよ！
 	The enemy is getting away! Everyone, please be careful when givin' chase!
 	적을 놓쳤다! 각자, 추격 시에는 충분히 주의하도록!
 
-	你先走！
 	先に逃げて！早く！
 	You go on ahead!
 	먼저 도망가! 빨리!
 
-	温室该往哪走呀？
 	温室はどっちだべ？
 	How do I get to the greenhouse?
 	온실은 어디나?
 
-	欸欸？
 	おお？
 	Oh, hey?
 	오오?
 
-	想不想去野餐？就我们两个！
 	ピクニックしたくない？二人で行くべ！
 	Wanna go on a picnic? Just the two of us!
 	피크닉 가고 싶지 않나? 둘이서 가자!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	要不要一起去务农啊博士！
 	ドクター、畑仕事に行くべ！
 	Doctor, wanna go farming together?
 	박사, 밭일하러 가자!
+
+干员档案\Background:
+	基础档案 :
+	【代号】风笛
+	【性别】女
+	【战斗经验】五年
+	【出身地】维多利亚
+	【生日】7月17日
+	【种族】瓦伊凡
+	【身高】167cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】バグパイプ
+	【性別】女
+	【戦闘経験】五年
+	【出身地】ヴィクトリア
+	【誕生日】7月17日
+	【種族】ヴイーヴル
+	【身長】167cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Bagpipe
+	[Gender] Female
+	[Combat Experience] Five Years
+	[Place of Birth] Victoria
+	[Date of Birth] Jul 17
+	[Race] Vouivre
+	[Height] 167cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 백파이프
+	[성별] 여
+	[전투경험] 5년
+	[출신지] 빅토리아
+	[생일] 7월 17일
+	[종족] 뷔브르
+	[신장] 167cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Standard
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skills] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	维多利亚皇家近卫学校毕业，在维多利亚军队中服役满3年后，退役并经由陈警司介绍加入罗德岛。
+	接受过系统训练的职业军人，经过一段时间的磨合，在罗德岛的各类任务中体现出了专业的战斗技巧与战术素养。
+
+	個人履歴 :
+	ヴィクトリア王立前衛学校卒業。ヴィクトリア軍に三年間服役した後、チェン警司の紹介によりロドスに加入した。
+	軍事教育を受けた軍人であるため、ロドス加入からしばらくの期間を経て、様々な任務においてプロフェッショナル級の戦闘技術と戦術素養を見せた。
+
+	Profile :
+	After graduating from The Victorian Royal Guard Academy and serving for three years in the Victorian Army, Bagpipe retired and joined Rhodes Island on Superintendent Ch'en's recommendation.
+	A professional soldier who has received systematic military training, Bagpipe has already demonstrated her seasoned combat skills and tactical acumen in Rhodes Island's various missions following a period of consultation.
+
+	프로필 :
+	    빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员风笛没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.11u/L
+	干员风笛甚少接触源石。
+	
+	即使在瓦伊凡里，这小姑娘的身体也是我见过数一数二好的。我甚至想看看她要是真的感染矿石病，能不能用身体素质硬抗过去......好吧，这个大概还是不行。试试？不，不大行。
+	——华法琳
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.11u/L
+	源石との接触は極めて少ない。
+	
+	ヴイーヴルの中でも、この小娘の身体はトップクラスだと思うぞ。もし鉱石病に感染したら、その身体に備わった回復力だけで鉱石病を抑え込めるかどうか、この目で見てみたいほどにな……ふむ、流石に無理だな。試してみるか？いや、やめておこう。
+	——ワルファリン
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Bagpipe shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.11u/L
+	Operator Bagpipe rarely comes in contact with Originium.
+	
+	Even among Vouivre, this girl has one of the most incredible bodies I've ever seen. I'm somewhat curious to see if she even can contract Oripathy at all, if her body can just tough it out... But whatever, that's probably not happening. Test it out? No, that's not an option.
+	--Warfarin
+
+	임상 진단 분석 :
+	방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 백파이프는 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L오퍼레이터 백파이프는 오리지늄과의 접촉 빈도가 매우 낮음.
+	
+	 아무리 뷔브르라지만 이 아가씨의 신체는 내가 본 것 중에서도 수위를 다툴 정도로 훌륭해. 만약 그녀가 정말로 광석병에 감염된다면…… 심지어 광석병에 저항할 수도 있지 않을까 하는 생각을 할 정도라니까? 그래, 아마 안되겠지. 해보자고? 아니, 안돼.
+	——와파린
+
+———————————————————————————————
+
+	档案资料一 :
+	来自维多利亚的活泼女孩。
+	被干员评价为相当自来熟，几乎会下意识地关心别人的好邻家女孩，在进入罗德岛后迅速和大部分干员形成了良好的关系。
+	在生活态度方面，往好听说是不拘小节，往不好听说就是粗枝大叶，第一眼很难将她与军人那种严肃的形象联系起来。至少在生活上，她军人的那一面并没有很多地展现出来。
+	曾与陈警司一同就读维多利亚皇家近卫学校，据本人描述，在学生时代两人就结下了深厚友谊。陈警司听到风笛的名字就会叹气，不过从她愿意担保风笛小姐的身份来看，两人私交是不会差到哪里去的。
+
+	第一資料 :
+	ヴィクトリア出身のパワフルな女の子。
+	オペレーターたちには「いつも親しげで、ほぼ無自覚で他人を気にかける親切な子」と評価され、ロドスに入ってまもなく、大半のオペレーターと良い関係を築いた。
+	生活態度に関して、彼女はよく言えば些細なことにこだわらない、悪く言えば大雑把であるため、一見軍人の堅苦しいイメージとは結びつかない。少なくとも日常生活においては、軍人としての一面をめったに表に出さない。
+	かつて彼女はチェン警司と共にヴィクトリア王立前衛学校に在学しており、本人によると、二人は学生時代から深い友人関係にあったという。 一方のチェン警司はバグパイプの名前を聞くと溜息を漏らすようだが、彼女がバグパイプの身元保証人を引き受けたという事実から推測するに、やはり二人の関係は決して悪くないのだろう。
+
+	Archive File 1 :
+	Bagpipe is a spirited young woman from Victoria.
+	Known to other Operators as the outgoing next-door neighbor who can't help but to care for others, Bagpipe established a good relationship with most of the other personnel almost immediately after joining Rhodes Island.
+	One rather charitable description of her personal lifestyle would be 'somewhat free-spirited,' while a less charitable one would be 'sloppy and disorganized.' At first glance, her appearance seems to be at odds with the stereotypical imagery of a serious soldier. At least in her personal life, she does not show much of her military side.
+	She previously attended the Victoria Royal Guard Academy with Superintendent Ch'en. According to her account, the two of them developed a deep friendship during their time as students there. While Ch'en did let out a sigh upon hearing Bagpipe's name, the fact that the former would be willing to vouch for the latter suggests that their relationship can't really be all that bad.
+
+	파일 자료 1 :
+	    빅토리아에서 온 활발한 소녀. 오퍼레이터 평가에 따르면, 무의식중에 다른 사람을 신경 써주는 좋은 이웃집 여자아이처럼 사교성이 굉장히 좋으며, 로도스 아일랜드에 합류한 후 대부분의 오퍼레이터들과 금방 친해졌다 한다.
+	    생활 태도 방면에선 좋게 말하자면 사소한 일에 신경 쓰지 않는다고 할 수 있고, 나쁘게 말하자면 야무지지 못하다고 할 수 있는데, 처음 그녀를 보았을 때 군인의 엄격한 모습을 떠올리기는 힘들다. 적어도 일상생활에선, 그녀가 군인다운 모습을 보여준 적은 별로 없다.
+	    첸 팀장과 함께 빅토리아 로열 가드 스쿨을 다녔으며, 본인 말에 따르면 학창 시절에 두 사람은 깊은 우정을 나누었다고 한다. 첸 팀장은 백파이프의 이름을 듣자 한숨을 쉬었지만, 백파이프의 신분은 자신이 보증할 수 있다고 말하는 모습으로 미루어 보아, 두 사람의 관계는 그다지 나쁘지 않은 것으로 판단된다.
+
+———————————————————————————————
+
+	档案资料二 :
+	当然，当然，虽然给人的感觉是邻居家的阳光女孩，但风笛小姐确实是在维多利亚服役过的正规军人，并且还是十分优秀的军人。
+	皇家近卫学校对学生的培养是多方向的。不同于其它体制的军事训练，维多利亚皇家近卫学校有着自己的教育方针：三种培养方向中，卫官大多在毕业后担任王室、贵族与各类要人的侍卫，军官则一般会出任军队的高级指挥，士官则一般担任军队的中坚战地领袖和突破发起人。
+	作为毕业士官，风笛小姐无疑具备优秀的军事才能。
+	事实上，干员与普通军人的培养，在实施层面上是有差异的。
+	干员更强调个体以及小队作战，在干员的培养中，重要的是因材施教，是最大化个人的特长。正如罗德岛上充满个性的干员们一样，干员需要最大程度发挥自己的特殊性，依靠少数精锐力量去配合完成针对性目标。
+	军人则更强调集体，在军人的培养中，需要的是全面发展、标准化和可替代性，军队会依照职能而非个人做出决策，保证队伍的稳定与高效。
+	一名合格的军人在综合作战能力的全面性，必然要高于一个合格的干员。但事实上，两者其实并不构成比较，因为从一开始，干员这份职业就并不适用于战争，更应当极力避免战争。
+	所以，风笛小姐并不能直接成为干员榜样来指导普通干员进行学习，事实上，早在杜宾教官、职业士兵坚雷和耀骑士临光等人加入罗德岛的时候，虽然她们很快适应了情况，但在最开始，她们所受的军事化训练依然令他们表现出不少与罗德岛作战方针相悖的部分。
+	但是，完美的成绩通过军事训练测试，作为前线部队的一员参与过战争的风笛，切实地向罗德岛展现了一名现役优秀军人应有的样貌，这对一些认为自己能够抗衡军队，或者单纯对军队缺乏认识的干员来说，应当会是一记小小的警钟。
+	虽然她的破城矛已经去除了射弹功能，也依然是恐怖的战争军械，请别用生命去尝试。
+	另外，值得一提的是，或许是天性开朗的原因，又或者是皇家近卫学校的杰出教育名副其实，风笛小姐并没有经历从军人到干员的适应期，她迅速进入了干员的角色。
+	作为干员，她具备士兵的韧性和纪律；作为士兵，她具备干员的机动与应变。就连杜宾教官都在私下里做出过这样的评价，“维多利亚远胜于其他国家的，就在于他们士兵的职业素质。”
+
+	第二資料 :
+	彼女が人に与える印象は明るく親切な女の子であるが、バグパイプはれっきとした元ヴィクトリア軍人であり、しかも非常に優れた軍人だったようだ。
+	ヴィクトリア王立前衛学校は独自の教育方針を採用しており、学生ごとに大まかに三つの教育方針が採られている。「近衛」として訓練された学生は卒業後、王室、貴族などの要人の警備に、「将校」として訓練された学生は軍の上級指揮官に、「士官」として訓練された学生は前線で軍隊を率い、戦地責任者を担当するようになるとされている。
+	「士官」として卒業したバグパイプは、間違いなく優れた軍事的才能を持っていると言えよう。
+	実のところ、オペレーターと軍人の育成では、圧倒的に規模感が異なっている。
+	オペレーターは、個体や小隊規模の作戦を重視し育成される。オペレーターの教育では、一人ひとりの個性に応じて訓練プランを与え、個々の強みを最大限に引き出すことに重きが置かれている。ロドスには個性溢れるオペレーターが多くいるが、各自の個性を最大限に発揮し、少数精鋭として互いに協力し合い、目標を達成することを狙いとしている。
+	一方の軍人は集団性を重視している。軍人にとっては、オールラウンドな能力に加え、マニュアル化と代用性が必要とされている。部隊の安定性と効率を確保するために、軍は個人の特徴ではなく、部隊の機能に基づいて意思決定を行う。
+	理論上、一人の軍人の総合的作戦能力はオペレーターより高いと考えられる。だが、そもそも元より両者は比較できるものではない。なぜなら、「オペレーター」は最初から戦争のために生まれた職業ではないからである。というよりも、戦争を可能な限り避けるためのものであると言えよう。
+	つまり、軍人としてのバグパイプは、そのままオペレーターの手本となり彼らに指導することは難しいだろう。教官のドーベルマン、元軍人のジュナーや耀騎士のニアールなどのメンバーたちがロドスに加入した際も、すぐにロドスの状況を飲み込んだとは言え、最初は自分たちが受けた軍事化訓練の影響で、ロドスの作戦方針に反する行動を取ったことが多々ある。
+	しかしながら、完璧な成績をもって軍事訓練試験を通過し、前線部隊の一員として戦争に参加していた軍人として、バグパイプはロドスに優秀な軍人としてあるべき姿を見せてくれたことは言うまでもない。己一人の力で軍隊に対抗できると考える、あるいは軍隊に対する知識が乏しい一部のオペレーターに対して、彼女は警鐘を鳴らす存在となっただろう。
+	彼女の破城矛は射撃機能が取り除かれたとは言え、恐ろしい戦争兵器には変わりない。命を危険にさらしてまで彼女に挑戦することはおすすめできない。
+	また、ここで評価すべきなのは、明るい性格が原因なのか、あるいは王立前衛学校の優れた教育のおかげなのか、彼女は軍人からオペレーターへの転向をあまり苦とせず、すぐにオペレーターとしての生活に馴染んだ点である。
+	オペレーターとしての彼女は、兵士のタフさと規律正しさを備えている。一方、兵士としての彼女は、オペレーターの機動力と柔軟さを備えている。教官のドーベルマンは個人的にこう評していた――「ヴィクトリアが他の国に勝るのは、兵士たちのプロとしての素質だろう。」
+
+	Archive File 2 :
+	Of course, despite the fact that Miss Bagpipe gives off the impression of a cheery 'girl next door,' the fact remains that she indeed was an official soldier in the Victorian army - and an excellent one at that.
+	The Victorian Royal Guard Academy is multi-directional in its educational framework. Unlike other systems of military training, this academy has its own educational policy: of the three directions, most graduates serve as guards for the royal family, nobles, or various dignitaries. Officers generally serve as senior-level commanders in the army, while sergeants generally serve as the army's field commanders and first responders. As a graduating sergeant, Miss Bagpipe undoubtedly possess exceptional military talent.
+	In fact, there are significant fundamental differences when comparing the training of Operators and soldiers.
+	Operator training places more emphasis on individual and squad operations, cultivating along the lines of their aptitudes in order to maximize their strength. As reflected by Rhodes Island's collection of highly individualized personalities, Operators must capitalize on their uniqueness, cooperating to complete various objectives with the fewest number of elite Operators.
+	On the other hand, military training emphasizes the collective. The development of a corps is comprehensive, stressing the importance of standardization and interchangeability. The military tends to make decisions based upon overall functionality rather than upon individuals in order to ensure the stability and efficiency of the team.
+	Due to this need for comprehensive training, a soldier's combat capabilities must be higher than that of an average qualified Operator. Nevertheless, these two roles scarcely warrant a comparison, because an Operator's job should not be applicable to war - this is something that is to be avoided as much as possible.
+	As a result, Miss Bagpipe is unable to directly become a role model for the other Operators when it comes to developing combat abilities. This was evident early on when Dobermann, Liskar, and Nearl, all professional soldiers, joined Rhodes Island. Though they quickly adapted to their new environment, their military training posed many striking contradictions with Rhodes Island's combat principles.
+	However, Bagpipe, who passed the military training examination with perfect marks and served in the front lines on the battlefield, still is a prime example of what a good soldier in active service looks like. This should be a healthy wake-up call for certain Operators who think they can match the caliber of professional soldiers, or simply have no idea how the military works.
+	Though the projectile function has been removed from her piledriver spear, the weapon itself is still a terrifying ordnance of war. Do not let your curiosity get the better of you - or your life.
+	Additionally, it is worth mentioning that whether due to her natural open-mindedness or due to Victoria's exceptional educational system worthy of its name, Miss Bagpipe did not require retraining when transitioning from a soldier to an Operator, adapting quickly to the new position.
+	As an Operator, she demonstrated the resilience and discipline of a soldier; as a soldier, she exhibited the flexibility and fluidity of an Operator. This has led to Dobermann commenting in private: 'Victoria's superiority over other countries... starts from the professionalism of their military.'
+
+	파일 자료 2 :
+	    그리고 물론, 아무리 백파이프가 이웃집 친근한 소녀 같은 인상을 준다지만, 그녀는 빅토리아에서 복무한 정규 군인이었고, 게다가 상당히 우수한 군인이었다.
+	    빅토리아의 로열 가드 스쿨은 학생들에게 여러 방면의 교육을 실시하며, 다른 곳과는 다른 그들만의 교육 방침을 고수하고 있는데, 대다수의 위관급 장교는 졸업 후 왕실과 귀족 및 다양한 중요 인물의 호위를 맡고, 군관급 장교는 일반적으로 군대의 고급 지휘관으로 배속되며, 부사관은 군대의 중간 지휘관과 전장에서의 돌격을 담당한다는 3가지 교육 방침이 바로 그것이다. 부사관 교육 과정을 마친 백파이프의 군사적 재능이 우수하다는 것은 의심할 여지가 없다.
+	    실제로 오퍼레이터를 대상으로 하는 교육과 일반 군인을 대상으로 하는 교육은 실질적인 측면에서 차이가 있다. 개인 및 팀 작전을 강조하는 오퍼레이터의 교육 과정에서 중요한 것은 개인에 대한 맞춤 교육을 통한 개인의 특기를 극대화 시키는 것이다. 로도스 아일랜드에 있는 개성 넘치는 오퍼레이터들처럼, 오퍼레이터는 자신의 특수함을 최대로 발휘, 소수 정예의 힘으로 임무 목표를 달성해야 한다.
+	    이에 반해 군인은 집단을 강조한다. 군인의 교육과정에서 중요한 것은 전체적으로 고른 발전과 표준화, 그리고 대체 가능성이다. 군대는 개인의 판단이 아닌 효율성을 근거로 판단하여 부대의 안정성과 높은 효율성을 보장해야 한다.
+	    그러므로 군인이 지닌 종합적인 작전 능력은 오퍼레이터보다 필연적으로 우수할 수밖에 없지만, 직접적으로 두 대상을 비교하기는 어렵다. 애초에 오퍼레이터는 전쟁에 적합하지 않으며, 최대한 전쟁을 피해야 하는 입장이기 때문이다. 그래서 백파이프는 바로 일반 오퍼레이터 교육에 투입될 수 없었다. 사실 예전에 도베르만 교관과 직업 군인 듀나, 그리고 빛의 기사 니어 등이 로도스 아일랜드에 합류했을 때에도, 그녀들은 로도스 아일랜드에 빠르게 적응했음에도 불구, 그들이 받은 군사 훈련의 영향으로 인해 로도스 아일랜드의 작전 방침과 충돌하는 모습을 적지 않게 보여주었던 적이 있다.
+	    그러나, 완벽한 성적으로 군사 훈련 테스트를 통과한데다 전방 부대에서 전쟁까지 경험한 백파이프는 로도스 아일랜드에 우수한 현역 군인의 모습을 보여주었고, 그런 그녀의 모습은 자신이 군대와 맞설 수 있다고 생각하거나 군대에 대한 지식이 부족한 일부 오퍼레이터들에게 경각심을 심어주었다.
+	    이미 사격 기능이 제거되어 있다고는 하나, 그녀의 공성창 '캐슬브레이커'는 여전히 무서운 전쟁 병기다. 목숨을 걸고 시험하는 일 따윈 없길 바란다.
+	    그리고 천성이 명랑하기 때문인지, 아니면 명불허전인 빅토리아 로열 가드 스쿨의 훌륭한 교육 덕분인지는 모르겠지만, 백파이프는 별도의 적응 기간 없이 빠르게 오퍼레이터로서 자리 잡을 수 있었다. 도베르만 교관조차 사석에서 '빅토리아가 다른 국가를 압도할 수 있는 건, 병사들의 자질 덕분'이라 말할 정도로, 오퍼레이터로서의 그녀는 병사의 인내심과 가능성을 지니고 있으며, 병사로서의 그녀는 오퍼레이터의 기동력과 대처능력을 지니고 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	即使经过了皇家近卫学校以及在毕业后的现代生活的洗礼，出身维多利亚一座游牧村庄的风笛小姐身上依然带着浓厚的乡土气息。
+	这一方面是来自乡村生活本身的熏陶，另一方面似乎是因为其母从小的教育所致——众所周知，瓦伊凡的女性通常都十分强大。
+	从小就开始帮家里种田和畜牧的她，在加入罗德岛后，立刻与负责相关事务的后勤干员们打成了一片，并为罗德岛的种植与畜牧事业贡献了宝贵的经验与力量，其热心程度甚至一度让人以为她转岗到了后勤部门。
+	另外，有关她对于各种农用大型器械的熟悉，很遗憾的是，由于空间有限，罗德岛的种植规模只允许使用小型拖拉机，令她无法大展拳脚。毕竟，总不能把罗德岛本舰给她开吧。
+	当然，这些并不意味着风笛小姐对现代生活毫无认知，她只是尝试过，并且失败了。这点可以从她相对其他干员来说有些频繁的设备维修申请中看出。
+	并且，据她所说，她在学生时代也向贵族同学学习过妆扮，但结果实在是令人难堪，久而久之她也放弃了在这方面的努力，但明显风笛小姐还是很在乎自己的穿着容貌之类的表现......作为军人时的装束无可挑剔，但一旦和她谈到平常的穿着和扮相，她却总是表现得忧心忡忡。
+	不必呀风笛小姐。许多干员觉得你本身就已经足够可爱了。
+
+	第三資料 :
+	王立前衛学校、そして現代社会からの洗礼を受けても、ヴィクトリアの遊牧村出身のバグパイプには、変わらず田舎の素朴さが残っている。
+	それは田舎育ちの影響というだけでなく、幼い頃からの母による教育の結果でもあるらしい――周知の通り、ヴイーヴルの女性は大抵強いのだ。
+	子供時代より家の牧畜や畑仕事を手伝っていた彼女は、ロドスに入ってまもなく、支援部で関連業務を担当するオペレーターたちと良い関係を築き、ロドスの栽培と牧畜業務に貴重な経験と強みをもたらした。支援部に異動でもしたのかと思われるほどに、彼女は凄まじい熱意を示した。
+	また、彼女は様々な大型農用機械の運用もかなり心得ているようだが、惜しくもロドスではスペースが限られているため、栽培規模に合わせた小型トラクターしか使用できず、彼女のその特技を活かせる場は少ない。流石にロドス本艦の操縦を任せるわけにはいかないだろうし。
+	また、彼女は都市での生活に疎いというわけではなく、ただそれに挑戦して、失敗し続けているだけなのである。他のオペレーターよりやや頻繁に出される設備の修理申請が、その証拠だろう。
+	さらに、本人によれば、学生時代に貴族の同級生からおめかしのコツも学んだが、ひどい結果に終わったこともあるという。時間の流れとともに、その方面への努力は諦めたものの、いまだに自身の着こなしや顔つきを気にしているようだ。軍人の格好をしている時の姿に申し分はないが、普段着や顔の話題になると、彼女はいつもそんな悩みをあらわにする。
+	そんな必要はありませんよ、バグパイプさん。ありのままのあなたを、もう十分に可愛いと思っているオペレーターは大勢いますから。
+
+	Archive File 3 :
+	Even after graduating from Victoria's Royal Guard Academy and being baptized into modern life, Miss Bagpipe, who was born in one of Victoria's nomadic villages, has retained her countryside flair.
+	This seems to be a product of her experiences growing up in a rural setting, as well as a result of the way she was brought up by her mother. As everyone knows, Vouivre women tend to be very strong.
+	Since she was a child, she helped her family with farming and animal husbandry. After joining Rhodes Island, she brought those valuable experiences over to the logistics personnel in charge of related matters. Her enthusiasm in these subjects even made some think that she was transferred to the logistics department.
+	Furthermore, she is familiar with large-scale agricultural equipment. Unfortunately, due to space constraints, Rhodes Island's agricultural projects only allow for the use of small tractors, much to her dismay. After all, we can't simply hand over the entire ship to her. 
+	Of course, none of this means that Miss Bagpipe has no knowledge of modern life - she tried it, but failed. This is somewhat evident from her relatively frequent maintenance applications compared to the other Operators.
+	Also, according to her, she tried to learn how to apply makeup from her upper-crust classmates as a student, but the results were hopelessly embarrassing. She gradually gave up on developing herself in these areas, but she of course is still self-conscious about her appearance... Though she is impeccably dressed as a soldier, she seems to be rather anxious about her casual dress and appearance.
+	But those concerns are hardly warranted. After all, several Operators find her to be cute enough as she is.
+
+	파일 자료 3 :
+	    로열 가드 스쿨을 졸업하고 일정 기간 현대 생활을 경험한 백파이프라곤 하지만, 빅토리아의 목축 마을 출신인 그녀에게선 농후한 시골 분위기가 풍긴다. 다들 알다시피 여자 뷔브르들은 굉장히 강인하며, 백파이프 역시 그런 여성 뷔브르인 어머니로부터 어릴 때부터 교육을 받은데다, 줄곧 시골 마을에서 자라왔기 때문이다.
+	    어릴 때부터 집안 농사와 목축업을 도운 그녀는 로도스 아일랜드에 합류한 후, 즉시 농사와 목축 관련 업무를 맡고 있는 보급 오퍼레이터와 한바탕 다투면서도 로도스 아일랜드의 재배와 목축 사업에 귀중한 경험과 힘을 보태주었다. 그 모습이 얼마나 열심이었는지, 당시 다른 사람들은 백파이프가 보급 부서로 전입되었다고 착각할 정도였다.
+	    또한 그녀는 각종 대형 농업 기구를 다루는 것에는 숙달되어 있었으나, 매우 유감스럽게도 공간 상의 문제로 인해 로도스 아일랜드의 재배 규모는 소형 트랙터 정도만 허가될 정도였기에, 그녀의 실력을 유감없이 보여줄 수는 없었다. 로도스 아일랜드의 모든 공간을 그녀에게만 할애하여 줄 수도 없는 노릇 아닌가.
+	    물론 앞서 이야기한 내용이 백파이프가 현대 생활에 대해 아무런 지식이 없다는 말은 아니다. 다만 그녀는 현대 생활에 적응해보려 노력하고 있으나 좀처럼 적응을 못하고 있는데, 이에 대해선 다른 오퍼레이터들에 비해 자주 제출되는 그녀의 설비 수리 신청서만 보아도 쉽게 알 수 있다.
+	    또한 그녀의 말에 따르면, 그녀는 학창시절에 귀족 친구에게서 화장하는 법을 배웠으나 실로 난처한 결과를 얻었다고 한다. 시간이 흘러 현재는 꾸미기를 포기하게 되었으나, 외모에는 여전히 신경을 쓰고 있다는 듯하다…… 군인으로 있을 때의 복장은 흠 잡을 데 없지만, 일단 평소의 옷차림과 화장에 대해 그녀와 이야기를 나눠보면 굉장히 고민하는 모습을 볼 수 있다.
+	    “그럴 필요 없어요, 백파이프 씨. 다들 지금 이대로도 충분히 예쁘다고 생각하는걸요.”
+
+———————————————————————————————
+
+	档案资料四 :
+	正如上面提到的，事实上，如果风笛小姐想的话，她完全可以在维多利亚第二集团军中获得一个令人羡艳的地位。维多利亚作为这片大地上最繁荣的帝国，它的疆土与它强大的军力密不可分，作为士官，风笛小姐也能够享受完全不同于普通士兵的待遇，加上她个人的能力与亲和力......从优秀军人做到城市新贵，完全是一条坦荡的道途。
+	但她没有，风笛小姐选择了离开军队，离开自己的战友，离开维多利亚，在这片危险的大地上漫游。
+	离开文明走进荒野，这是城邦居民无法想象的事情，毕竟离开了城市和聚落，基本就等于自寻死路。风笛一路上风尘仆仆，与信使同行，与雇佣兵合作，蹭车，蹭城，因为护照和国籍被人赶出城市，被仇视，被卷入危险的阴谋，据她所说，“什么都遭遇过啦。”
+	
+	现在，她来到了罗德岛。友好的罗德岛干员们愿意和风笛一起奋斗，也愿意向这个了不起的战士伸出援手，然而，她却在这个时候退缩了。
+	越深入了解罗德岛，她就越显得有些迷茫。在通过一系列测试和信息交换、了解到干员苇草的存在之后，一向开朗的她竟然变得郁郁寡欢了起来。
+	压在她身上的，究竟是什么事呢？有什么样的难题是维多利亚的军力不能解决的呢？维多利亚究竟发生了什么，她和她的队伍又遭遇了什么？
+	
+	“我曾经是一个维多利亚的士兵，这好像......好像不是罗德岛该负责的事情。尽管我已经不在军队了，但是对不起，我......我其实还是得负责。这是维多利亚军人的职责，也是我们出走的原因。”
+	也许还不是时候。
+	风笛小姐，要什么时候才能告诉我们究竟发生了什么呢？
+	而且，虽然大家很喜欢作为优秀军人的风笛小姐，但在农地挥洒汗水，端着三个炖锅走上桌子，穿着长裙边唱边旋转，说起故乡会发呆的风笛小姐......
+	大家也一样喜欢。
+
+	第四資料 :
+	前述の通り、彼女にその気があれば、ヴィクトリア第二師団で誰もが羨やむ地位につくことも可能だった。ヴィクトリアはこの大地で最も繁栄した帝国であり、その領土は強大な軍事力と密接に関連したものである。「士官」として卒業した彼女は、通常の兵士よりはるかに優待されるはずで、それに加えて彼女の優れた能力と親和性を鑑みれば……優秀な軍人に始まり都市の寵児に至るまでの道は、既にできているも同然である。
+	しかし、彼女はその道を歩むことはなかった。軍隊を去り、仲間と別れ、ヴィクトリアを出て、この危険な大地を漫遊することを選んだのだ。
+	文明社会を離れ、荒野に踏み入れることは、都市の住民からすれば想像できないことである。なぜなら、都市や集落を離れることはほぼ「死」と同じ意味をするからだ。旅の途中、彼女はトランスポーターと共に旅行したり、傭兵に力を貸したり、通りすがりの車をヒッチハイクしたり、様々な都市を訪ねたり、パスポートや国籍の問題で都市から追い出されたり、恨まれたり、陰謀に巻き込まれたりと、無数の経験をしたという……彼女曰く「経験できることは全部経験してきたべ～」だそうだ。
+	
+	彼女がロドスに着任すると、オペレーターたちは彼女に好意を示し、手を差し伸べた。しかし彼女は、それを受けて逆に戸惑いを見せた。
+	ロドスを理解すればするほど、彼女の何かに対する迷いは大きくなっているように見える。そして、一連のテストと情報交流を経てリードというオペレーターの存在を知った彼女は、普段の陽気さはどこへやら、露骨に落ち込んで見せた。
+	彼女に重くのしかかっているものは何なのか？ヴィクトリアの軍事力をもってしても解決できない問題とは一体何なのか？ヴィクトリアで一体どんなことが起き、彼女と彼女の部隊は何に遭遇したのか？
+	
+	「うちはヴィクトリアの元兵士だけど……でも、この件はロドスが首を突っ込むべきじゃないべ。うちはもう軍人じゃなくなったけど……ごめん……やっぱりうちが責任を取らないといけないべ。こりゃヴィクトリアの軍人の義務だし、うちたちが出奔する理由でもあるから。」
+	時がまだ来ていないようだ。
+	バグパイプは、一体いつになったら、何が起きたか教えてくれるのだろうか？
+	また、優秀な軍人としての彼女は当然皆に好かれているが、農地で汗を流し、なみなみに入った鍋を三つも一気にテーブルまで運び、ロングスカートを身に付け、くるくる踊りながら歌を歌い、故郷の話をするとどこか呆けたようになる彼女も……
+	同じように、皆に好かれているのだ。
+
+	Archive File 4 :
+	This was mentioned above briefly, but in fact, if Bagpipe so desired, she could well obtain an enviable status in Victoria's Second Army. Victoria, as the most prosperous empire in Terra, is inseparable from its vast military might. As a sergeant, Bagpipe can also enjoy better treatment than regular foot soldiers, and that's not even factoring in her personal abilities... If she wished to pave a path from her role as an excellent officer to becoming a noble in the big city, there would be nothing in her way
+	However, she rejected that path. Bagpipe chose to leave the army and her comrades-in-arms, even leaving Victoria behind to roam the dangerous land.
+	Her decision to leave civilization and step out into the wilderness is a choice that ordinary city-state dwellers cannot comprehend. After all, leaving the security of civilization is practically a death wish. Bagpipe endured her arduous journey, traveling with Messengers, cooperating with mercenaries, catching whatever rides she could and accepting what little hospitality was available. Due to her identity and nationality, she was forcefully kicked out of some cities, drew the hatred of many, and even got pulled into dangerous conspiracies. According to her, 'I've seen it all.'
+	
+	Now, she has arrived at Rhodes Island. The friendly Rhodes Island Operators were willing to join her in her struggles, extending a hand of assistance to this seasoned soldier. However, that was the moment her steps faltered.
+	The more she comes to understand Rhodes Island, the more confused she becomes. After going through a series of tests and information exchanges, she became agitated and unhappy upon learning of Reed's presence.
+	What is it that is weighing down upon her mind? What kind of problem exists that could not be solved by Victoria's military? What happened in Victoria, and what did she and her regiment encounter?
+	
+	'I used to be a soldier of Victoria. This doesn't seem... to be a responsibility of Rhodes Island. Although I'm no longer in the army, I'm sorry. I... I still am responsible for this. This is part of our duty, and also why we left.'
+	Maybe it's not the right time yet.
+	Morever, even though everyone looks up to her as a model soldier, the Bagpipe who toils hard in the fields, the Bagpipe who carries three saucepans over to the table, the Bagpipe who sings and spins while wearing a long skirt, the Bagpipe who regales us with dazzling tales of her hometown...
+	Everyone loves that side of her too.
+
+	파일 자료 4 :
+	    위에서 언급한 것처럼, 사실 백파이프는 원하기만 한다면 빅토리아 제2군단에서 분명 누구나 부러워할 자리를 얻을 수 있었을 것이다. 빅토리아는 가장 번영한 제국이며, 제국의 영토와 강대한 군사력은 밀접한 연관이 있다. 부사관이었던 백파이프 역시 보통 병사와는 전혀 다른 대우를 받을 수 있었는데, 거기에 그녀의 능력과 친화력까지 더해진다면… 분명 우수한 군인에서 도시의 새로운 신흥 귀족이 될 수 있는 탄탄대로를 걸을 수 있었을 것이다.
+	    하지만 백파이프는 군대와 자신의 전우, 그리고 빅토리아를 떠나 위험한 세상을 유랑하는 길을 선택했다. 문명을 떠나 황야로 간다는 것은 도시 사람으로선 상상도 할 수 없는 일이다. 어쨌든 도시와 마을을 떠난다는 건 제 발로 죽을 길을 찾아간다는 것과 동일한 의미니까. 백파이프는 전달자와 동행하기도 하고, 용병과 입을 맞춰 무임승차하여 밀입국도 해봤으며, 여권과 국적 때문에 도시에서 쫓겨나 보기도 했다. 또한 적대시 당하기도 했으며, 위험한 음모에 휘말리기도 하는 등, 그녀가 "산전수전 다 겪어봤지"라고 말할 만큼 확실히 온갖 고생을 해왔다.
+	
+	    그리고 이제 그녀는 로도스 아일랜드에 도착했다. 로도스 아일랜드의 우호적인 오퍼레이터들은 백파이프와 함께 싸우고 싶어했고, 이 듬직한 전사에게 도움의 손을 내밀고 싶어했으나, 그녀는 오히려 이런 손길을 거절했다고 한다.
+	    로도스 아일랜드에 대해 알면 알수록, 백파이프의 가슴은 점점 더 먹먹해졌다. 일련의 테스트와 정보 교환을 통해 오퍼레이터 리드의 존재를 알게 된 후, 언제나 명랑했던 그녀는 뜻밖에도 우울한 모습을 보이게 되었다.
+	    대체 무슨 일이 그녀를 짓누르는 것일까? 빅토리아의 군사력이 해결하지 못하는 문제가 대체 무엇일까? 빅토리아에서는 대체 무슨 일이 벌어졌고, 그녀와 그녀의 부대는 대체 무슨 일을 겪었던 것일까?
+	
+	    "난 빅토리아의 병사였어. 이건… 이건 로도스 아일랜드가 책임져야 할 일이 아니야. 비록 난 이미 군대를 떠났지만, 정말 미안해. 내가… 내가 책임 져야 해. 그게 빅토리아 군인으로서의 책무이자 우리가 떠난 이유야."
+	    어쩌면 아직은 때가 아닌 걸지도 모른다. 백파이프는 대체 언제쯤에야 무슨 일이 있었던 건지 우리에게 말해줄 수 있을까?
+	    모두들 우수한 군인으로서의 백파이프를 좋아하지만… 땀 흘리며 농사를 짓는 모습, 냄비를 세 개나 들고 탁자 위에 올라가서, 긴 치마를 입은 채로 빙글빙글 돌며 춤을 추고 노래하는 모습, 고향 이야기를 듣다가 멍 때리는 모습의 백파이프 역시 좋아하는 데 말이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	正如风笛小姐所说，罗德岛上的一切，对过去远离感染者的她来说，是陌生的。
+	这里发生的一切，以及围绕罗德岛发生的一切，对她这样不是感染者，同样与感染者在生活里绝缘的人，并不是一件容易接受的事。
+	令人开心的是，风笛小姐没选择逃避——确实，与自己无关的事，不去看就好了，这在某种程度上无可厚非。她，干员风笛，选择小心翼翼地进行交流。
+	怕还是很怕，但总不能逃走吧。
+	至少，要评一个“罗德岛上朋友最多排行榜”的话，风笛小姐和格拉尼小姐一定榜上有名，风笛背着格拉尼从走廊里匆匆跑过，两个人一起去“骚扰”某些干员的样子，很是令人开怀。
+
+	昇進記録 :
+	バグパイプ自身が言うように、これまで感染者から遠く離れていた彼女にとって、ロドスでの全ては未知の存在である。
+	非感染者であり、感染者と無縁な生活を送っていた彼女からすれば、ロドス内部や周りで起きている全てのことは、簡単に飲み込めるようなことではないのだろう。
+	自分と無関係なことは無視すればいいという考えを持つ者がいたとしても、それは誰にも責められないことだ。だが、彼女は逃げなかった――十分に気を払いながらも、それらと交流を深めていく道を選んだ。
+	怖いものは怖いが、逃げるわけにはいかない。
+	もし「ロドスで最も友人が多い人ランキング」を集計したとすれば、バグパイプとグラニの二人がランクインすることは間違いないだろう。彼女がグラニを背負って廊下を走り、一部のオペレーターに「ちょっかいを出し」に行く姿は、とても微笑ましいものだ。
+
+	Promotion Record :
+	Bagpipe, who had kept her distance from the Infected in the past, said that everything in Rhodes Island was strange to her.
+	Everything that happens here, as well as everything that happens around Rhodes Island, comes as a difficult pill to swallow to her, as a non-Infected with little exposure to the Infected.
+	Fortunately, Bagpipe has chosen to not run away - indeed, it would have been simple enough to turn a blind eye to things that didn't seem to have anything to do with her. Instead, she, as an Operator, decided to try to open up, albeit slowly and carefully. 
+	She might be scared, but she can't run away forever.
+	At least, if one was to consider 'Rhodes Island's Most Likeable Ranking,' she and Grani unsurprisingly topped the list. The image of her carrying Grani on her shoulders, running through the halls 'harassing' various Operators, remains a fond memory in everyone's hearts.
+
+	승진 기록 :
+	    백파이프가 말했다시피, 감염자와는 거리가 멀었던 과거를 지닌 그녀에겐 로도스 아일랜드의 모든 것이 낯설었다. 그녀처럼 비감염자나 감염자와 관계없는 삶을 사는 사람들에게 있어서 이곳과 로도스 아일랜드를 둘러싸고 발생하는 모든 일은 쉽게 받아들이기 힘든 것일 테니.
+	    그래도 기쁜 소식은, 백파이프는 도망치지 않았다는 것이다. 확실히 말해두지만, 자신과 상관없는 일에 관심을 갖지 않는 것은 비난할 일이 못 된다. 오퍼레이터 백파이프는 조심스럽게 교류하는 것을 선택했다. 물론 여전히 무섭기야 하겠지만, 도망칠 수는 없지 않겠는가.
+	    적어도 '로도스 아일랜드에서 친구가 가장 많은 사람 랭킹'을 따져본다면, 백파이프와 그라니는 분명 순위권에 들 것이다. 백파이프가 그라니를 등에 업은 채 황급히 복도를 뛰어가며 어느 오퍼레이터를 괴롭히러 가는 모습은, 보는 이로 하여금 웃음을 자아내게 한다.

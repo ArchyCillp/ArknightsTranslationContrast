@@ -20,7 +20,7 @@
 
 [Decision(options="身份;难道说......",values="1;2")]
 [Decision(options="素性に心当たりが？;まさか……。",values="1;2")]
-[Decision(options="Her identity?;Do you mean…",values="1;2")]
+[Decision(options="Her identity?;Do you mean...",values="1;2")]
 [Decision(options="정체?;설마……",values="1;2")]
 
 [name="赫拉格"]   哥伦比亚，菲林族，女性，银发、金瞳、黑弩。是杀手，也是佣兵。
@@ -55,7 +55,7 @@
 
 [Decision(options="又发生了什么？;请说吧，我不害怕。",values="1;2")]
 [Decision(options="それから、どうなった？;言ってくれ。怖くはない。",values="1;2")]
-[Decision(options="What happened to him?;Keep going. I’m not intimidated.",values="1;2")]
+[Decision(options="What happened to him?;Keep going. I'm not intimidated.",values="1;2")]
 [Decision(options="또 무슨 일이 있었습니까?;말씀해주시죠, 무섭지는 않습니다.",values="1;2")]
 
 [name="赫拉格"]   不必多说了。他的伤疤从左肩延伸到右脚后跟。
@@ -100,7 +100,7 @@
 
 [Decision(options="锡兰？！;你从什么时候......",values="1;2")]
 [Decision(options="セイロン！？;いつからそこに……。",values="1;2")]
-[Decision(options="Ceylon?!;How long have you been here…",values="1;2")]
+[Decision(options="Ceylon?!;How long have you been here...",values="1;2")]
 [Decision(options="실론?!;언제부터 거기에……",values="1;2")]
 
 [name="赫拉格"]   锡兰小姐，你不用躲着偷听。

@@ -1,11 +1,17 @@
 ID:
 	char_131_flameb
 
-干员代号\Name:
+CV:
 	炎客
 	エンカク
 	Flamebringer
 	플레임브링어
+
+干员代号\Name:
+	中村悠一
+	中村悠一
+	Yuichi Nakamura
+	나카무라 유이치
 
 招聘合同\Character Usage:
 	罗德岛近卫干员炎客，将倾力毁灭那些值得一战的敌人。
@@ -43,177 +49,383 @@ ID:
 	인귀
 
 语音\Voices:
-	{@nickname}，今日的战场与往日相比太脆弱、太稚嫩了，这会让武器生锈。一旦武器生锈，战士离死亡也就不远了。
 	今時の戦場は昔よりずっと未熟で脆弱なものだ。このままでは武器も錆びつき、戦士にとっての死が近づくばかりだ。
 	{@nickname}, today's battlefields are too fragile and juvenile compared to the ones of the past. It's enough to make one's weapons rust. And once a soldier's weapons rust, death soon follows.
 	{@nickname}, 요즘의 전장은 예전보다 훨씬 미숙하고 연약하다. 이대로라면 무기도 녹슬고, 전사로서의 죽음이 다가올 뿐이다.
 
-	生命只是湮灭之前的一小段历程，趁你还能看见舷外的夕阳，好好珍惜吧，{@nickname}。
 	人生ってのは滅びるまでの一時に過ぎない。夕日を拝める今この瞬間をせいぜい大事にすることだ。
 	Life is but a brief flicker before the vast maw of annihilation. Cherish the glimpse of the sunset on the deck while you still can, {@nickname}.
 	인생은 죽기 전의 한때에 지나지 않아. 석양을 바라보는 지금 이 순간을 되도록 소중히 여겨라. {@nickname}.
 
-	实战演习？我没有兴趣。罗德岛不乏强大的战士，然而，在游戏中挥霍体力只是无谓的浪费。只有在生死交错的刹那，我们的刀与剑才有相互碰撞的价值。
 	実戦演習？興味ないな。確かにロドスに屈強な戦士は多いが、演習のようなお遊戯に力を使うのは浪費でしかない。生と死が交錯する刹那に刃を交えるからこそ意味があるんだ。
 	Practical exercises? I'm not interested. While Rhodes Island boasts many powerful warriors, squandering one's physical strength in a game is gratuitous. Only in the edge between life and death does the clashing of swords have any value.
 	실전 연습? 흥미 없어. 확실히 로도스 아일랜드엔 막강한 전사들이 많지만, 연습 같은 유희에 힘을 쓰는 건 낭비에 지나지 않아. 생과 사가 교차하는 찰나에 칼날을 맞대야만 의미가 있는 거다.
 
-	不关心感染者的境遇？不要误会，我不过是讨厌徒劳的战斗。真正值得我流血的敌人还没出现，仅此而已。
 	感染者の境遇に興味がないように見えるだと？誤解するな、徒労に終わる戦いが嫌いなんだ。今はまだ俺が血を流すに値する敵が現れていない、ただそれだけだ。
 	I'm not concerned about the plight of the Infected? Don't misunderstand me - I only despise fighting in vain. No enemy worth spilling my blood over has appeared yet, and that's all there is to it.
 	감염자의 처우에 흥미가 없어 보인다고? 오해하지 마라. 헛수고로 끝나는 싸움이 싫은 거다. 지금은 아직 내가 피를 흘릴만한 적이 나타나지 않았다, 단지 그것뿐이야.
 
-	团队合作会夺去全力厮杀所解放出的本能，用信任与谋略换来一些平稳的幻觉。而幻觉会取走你的性命，{@nickname}。
 	仲間意識なんてものは、死合いで解き放たれた本能を抑えつけるだけだ。信頼と謀略で手に入れた平穏な幻覚は、いつかお前の命を奪うんだ。
 	Teamwork will rob one of the instincts that are liberated only through rampant slaughter. What 'trust' and 'strategizing' buy you are nothing but convenient illusions, and these illusions will one day take your life, {@nickname}.
 	동료 의식 같은 건 사투에서 풀려난 본능을 억누를 뿐이야. 신뢰와 모략으로 손에 넣은 평온한 환각은 언젠가 너의 목숨을 빼앗을 거다. {@nickname}.
 
-	这把刀，枭首了两位亲王，而另一把刺死了三个将军。混乱的大地上，什么事情都有可能发生。我不知道我的命会被谁拿去，只希望过程会比我刺杀那些人时更精彩。
 	この刀で親王二人の首を落とし、こっちは三人の将軍を貫いた。この混沌とした大地では、いつ何時何が起こるかわからん。俺の命は誰の手によって落ちるかは知らんが、俺が殺めた者たちよりも素晴らしい死に様を迎えられればそれでいい。
 	This blade ran through two crown princes, and this other one slew three generals. In this chaotic world, anything can happen. I don't know who will claim my life one day, but when it happens, I sure hope it will be more exciting than when I killed these people.
 	이 검으로 친왕 둘의 목을 베었고, 이쪽은 장군 셋을 꿰뚫었다. 이 혼돈에 빠진 땅에서는 언제 무슨 일이 일어날지 알 수 없어. 내 목숨이 누구의 손에 떨어질지는 알 수 없지만, 내가 죽인 자들보다 훌륭한 죽음을 맞이할 수 있다면 그걸로 충분해.
 
-	闪灵吗，可惜，她原本可以是个很强的敌手，只是在“赦罪师”们卷入那种事情以后，就连她也觉得自己的剑刃沾满了污秽吧。不信任自己武器的剑士不值一提。
 	シャイニングか、残念な奴だ。十分な実力を持った好敵手のはずだったが、「聴罪師」たちが例の事件に巻き込まれてから、己の剣が穢れてしまったと考えているんだろう。自分の得物を信じられない剣士にはもう何の価値もない。
 	Shining, huh? A pity, but she could have been a very worthy adversary. But after getting pulled into that situation with the 'Sinners,' she felt like her blade had been besmirched. Swordsmen who do not acknowledge their own weapon are not worth mentioning.
 	샤이닝이라, 아까운 녀석이군. 충분한 실력을 갖춘 호적수였을 텐데 '고해신부'들이 그 사건에 휘말린 후로 자신의 검이 더럽혀졌다고 생각하는 거겠지. 자신의 무기를 믿지 못하는 검사에겐 더 이상 아무런 가치도 없다.
 
-	你知道那场战争吧，{@nickname}。杀死所有伏击者后，我和残存的部下冲进了背叛者的堡垒，最后活下来的只有我一个人。这场战斗究竟因何而起？你很清楚，我见过你，而且我记性很好。
 	あの戦争のことは知っているな？俺は伏兵全員切り伏せて、残った部下を連れて裏切り者の城に突撃したが、最後に生き残ったのは俺一人だけだったというわけだ。戦争の原因？とぼけるなよ、俺はあの戦場でお前を見た。俺の記憶は間違えるはずがない。
 	{@nickname}, you remember that battle, right? After killing all the ambushers, I lead the survivors and charged straight into the traitor's fortress. I was the only one who made it out alive. How'd that all start? Oh, you know the answer to that. I've seen you before, and my memory is very good.
 	그 전쟁에 대해선 알고 있겠지. {@nickname}. 난 복병을 모두 베어버리고, 남은 부하를 데리고 배신자의 성으로 돌격했지만 마지막에 살아남은 건 나 하나뿐이었다. 전쟁의 원인? 시치미떼지 마라. 나는 그 전장에서 너를 봤다. 내 기억이 잘못됐을 리 없어.
 
-	{@nickname}，帮我拿一下柜子上的种子，谢谢。是，其实我喜欢花。无论它们的绽放有多么灿烂，最后花瓣也都会在风中凋零枯萎。下一次花期是什么时候呢，{@nickname}？
 	悪いが棚の上にある種をとってくれるか。ああ、花は好きだ。どんなに綺麗に咲いても、最後には風の中で萎れて散る姿がな。それよりも、次の花期はいつになるかわかるか？
 	{@nickname}, help me fetch those seeds in the cupboard, won't you? Thank you. Yes, I'm actually quite fond of flowers. No matter how brilliantly they blossom, their petals must wither and fall into the wind. When will the petals next wither, {@nickname}?
 	미안하지만 선반 위에 있는 씨앗을 갖다 주겠나? 그래, 꽃은 좋아한다. 아무리 아름답게 피어도 마지막엔 바람 속에서 시들어 떨어지는 모습이 말이야. 그보다 다음 꽃이 피는 시기가 언제인지 아나?
 
-	警醒能延续你的生命，{@nickname}。
 	少しでも長生きをしたければ、警戒を怠るな。
 	Vigilance can keep you alive, {@nickname}.
 	조금이라도 오래 살고 싶으면 경계를 게을리하지 마라. {@nickname}.
 
-	又见面了，{@nickname}。不要紧，我知道你现在的情况，也对你没有威胁。请把我当做武器来运用，博士。
 	また会うことになるとはな。お前の事情ならもう聞いてる。襲ったりはしないから安心しろ。俺のことは武器として遠慮なく使うといいさ。なあ、「ドクター」？
 	We meet again, {@nickname}. Don't worry, I understand the situation you're in now, and pose no threat to you. I shall be your blade, so use me as you see fit, Doctor.
 	{@nickname}, 또 만나게 될 줄이야. 네 사정이라면 이미 들었다. 공격하거나 하진 않을 테니 안심해. 나를 사정 없이 무기로 쓰면 된다. 알겠나? '박사'.
 
-	一个优秀战士渴求的技艺是没法被记录下来的。
 	優秀な戦士が求める技は、映像で記録できるものでもないだろうに……まあいい。
 	The skills of a great warrior cannot be recorded.
 	우수한 전사가 원하는 기술은 영상으로 기록할 수 있는 것이 아닐 텐데…… 뭐, 됐다.
 
-	晋升？原来你也会在意这种事情。
 	昇進？まさかお前がそんなことを気にかけているとはな。
 	Promotion? So you also care about these rituals.
 	승진? 설마 너도 그런 걸 신경 쓰고 있었을 줄이야.
 
-	我没有作为感染者的自觉。也许罗德岛能给我一点提示，我不在乎，但你们有自己的考量。我接受。
 	感染者としての自覚など俺にはない。ロドスにいれば何かヒントが手に入るかもしれないが、それすら別にどうでもいい。しかしお前たちにも考えがあるのは分かっている。ひとまずはそれに従ってやろう。
 	I have no consciousness of what it's like to be Infected. Perhaps Rhodes Island can help me understand. I don't care, but you have your own considerations. I'll hear them out.
 	감염자로서의 자각 따윈 나에게 없다. 로도스 아일랜드에 있으면 뭔가 힌트를 얻을 수 있을지도 모르지만, 그것도 별로 어찌 되든 상관없어. 하지만 너희에게도 생각이 있다는 건 알고 있다. 일단은 거기에 따라주도록 하지.
 
-	啊，久违的腥风血雨。
 	久しぶりに血生臭い戦いになりそうだな。
 	Ahh, I've longed for a hurricane of blood.
 	오랜만에 피비린내 나는 싸움이 될 것 같군.
 
-	我做过队长，下场不怎么好。
 	隊長を任されたこともあるが、散々なものだったな。
 	I've been a captain before, and it did not end well.
 	대장을 맡았던 적도 있지만, 처참했지.
 
-	我将浴血。
 	血で血を洗おうじゃないか。
 	I will bathe in their blood.
 	피로 피를 씻어 보자고.
 
-	开始吧。
 	始めよう。
 	Let's begin.
 	시작하지.
 
-	不要插手。
 	俺の邪魔はするなよ。
 	Do not interfere.
 	내 방해는 하지 마라.
 
-	做你该做的事。
 	お前はお前の仕事に集中しろ。
 	Do what you must.
 	넌 네 할 일에 집중해.
 
-	那么，谁来做我的对手？
 	さて、誰が相手だ？
 	So, who will be my next opponent?
 	자, 누가 내 상대지?
 
-	是你吗？还是你？
 	お前が相手か？それともお前か？
 	Will it be you? Or maybe you?
 	네가 내 상대인가? 아니면 너인가?
 
-	刀与火，先行。
 	刀と炎、切り裂く。
 	The blade predates the flame.
 	검과 불꽃, 베어주마!
 
-	血与骨，后至。
 	血と骨、塵となれ。
 	Reap bone and blood.
 	피와 뼈, 먼지가 되어라.
 
-	你死时会呼唤谁的名字？
 	お前は最期に誰の名前を呼ぶんだ？
 	Whose name will you cry as you pass?
 	넌 마지막 순간 누구의 이름을 부를 거지?
 
-	与我无关。
 	俺には関係ないな。
 	Not my business.
 	나와는 상관없군.
 
-	这场战斗满足你了吗，{@nickname}？
 	この戦いで満足できたか？
 	Did this battle satisfy you, {@nickname}?
 	이 전투로 만족했나? {@nickname}?
 
-	羸弱的敌人证明不了什么，去寻找更严苛的战场吧。
 	羸弱な相手を片付けても何の証明にもならない。さらに過酷な戦場に連れて行ってくれ。
 	A weak enemy proves nothing. Search for a worthier battlefield.
 	나약한 상대를 해치워 봤자 아무 증명도 되지 않아. 더 가혹한 전장으로 데려가라.
 
-	适当的手下留情也许会成为孵化强敌的契机，就随他们去吧。
 	逃げた者は放っておけ。いつか殻を破り強敵となって戻ってくるかもしないからな。
 	A dedicated opponent will prove to be a worthy adversary in the future, let them do just that.
 	도망친 자는 내버려 둬. 언젠가 껍데기를 깨고 강적이 되어 돌아올지도 모르니까.
 
-	你们走吧，消灭追兵这种事，向来是我去做的。
 	先にいけ。追手を始末するのは俺一人で充分だ。
 	You guys get out of here, destroying pursuing enemies has always been my duty.
 	먼저 가라. 추격자를 처리하는 건 나 혼자서도 충분해.
 
-	挺安静的。
 	静かな場所だな。
 	It's pretty quiet here.
 	조용한 곳이군.
 
-	哦？
 	ほぉ…？
 	Yeah?
 	호오…?
 
-	砥石似乎用完了......
 	砥石が切れたみたいだな……。
 	I seem to have used up this whetstone...
 	숫돌을 다 쓴 모양이군…….
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	不错，你还活着。
 	まだ生きてたのか。いいことだ。
 	Not bad, you're still alive.
 	아직 살아있었나. 잘됐군.
+
+干员档案\Background:
+	基础档案 :
+	【代号】炎客
+	【性别】男
+	【战斗经验】十五年
+	【出身地】卡兹戴尔
+	【生日】12月25日
+	【种族】萨卡兹
+	【身高】190cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】エンカク
+	【性別】男
+	【戦闘経験】十五年
+	【出身地】カズデル
+	【誕生日】12月25日
+	【種族】サルカズ
+	【身長】190cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Codename] Flamebringer
+	[Gender] Male
+	[Combat Experience] 15 years
+	[Place of Birth] Kazdel
+	[Date of Birth] December 25
+	[Race] Sarkaz
+	[Height] 190cm
+	[Infection Status] 
+	Originium crystals present on the body. Confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 플레임브링어
+	[성별] 남
+	[전투 경험] 15년
+	[출신지] 카즈델
+	[생일] 12월 25일
+	[종족] 살카즈
+	[신장] 190cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Standard
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skills] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	炎客，自称萨卡兹流浪武士，除了本人交付的一份个人资料外履历缺失，该资料极其缺乏参考价值，只简单记录了曾死于炎客之手的几个人名。不过，仅凭上面出现的名字，已经足以证明这位刀术师极其出众的实力。
+
+	個人履歴 :
+	自称サルカズの流浪剣士。本人が提出した個人資料以外の履歴は失われている。提出された資料も参考価値は極めて乏しく、エンカクの手にかかって死んだ者の名前がいくつか記録されているだけだ。しかし、そこに書かれた名前を見るだけで、この刀術師の抜群の実力を十分に証明できるのだろう。
+
+	Profile :
+	Flamebringer, the self-professed Wandering Sarkaz Warrior, has no personal history besides that which he presented himself. The value of his document is rather limited, being only a list of the names of people who have died at his hands. However, the list does suggest that he is an outstanding swordsman.
+
+	프로필 :
+	    플레임브링어, 자칭 살카즈 방랑 무사. 본인이 제출한 개인 자료 외의 이력은 없다. 단순히 한때 플레임브링어의 손에 죽은 몇몇 이름만 기록되어 있을 뿐인 이 자료는 참고 가치가 부족하다. 하지만, 위에 적힌 이름만으로도 이 소드캐스터의 실력이 매우 출중하다는 건 충분히 증명할 수 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】18% 
+	受感染程度较高，面部、颈部已出现明显源石侵蚀痕迹。
+	
+	【血液源石结晶密度】0.41u/L
+	感染步入中期，且由于干员极不注意配合治疗，病情有恶化的可能。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】18%
+	感染レベルは比較的高く、顔面及び頸部に鉱石病の侵蝕の痕跡あり。
+	
+	【血液中源石密度】0.41u/L
+	感染状況は中期にあり、本人の治療への極めて非協力的な姿勢から、病状は悪化する可能性あり。
+
+	Clinical Analysis :
+	Imaging tests reveal blurry outlines of this operator's internal organs, clouded with abnormal dark spots. His circulatory system shows an abnormally high rate of Originium particulate matter, with other signs of Oripathy infection, we can confirm that the operator is indeed Infected. 
+	
+	[Cell-Originium Assimilation] 18%
+	The infection has spread far, with the face and neck showing clear signs of Originium erosion.
+	
+	[Blood Originium-Crystal Density] 0.41u/L
+	Having reached mid stage infection levels, and owing to the operator's refusal to cooperate with treatment, the infection is likely to worsen.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 18% 
+	감염 정도가 심각하며, 얼굴과 목에 명확한 오리지늄 침식 흔적이 확인됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.41u/L
+	감염 중기에 진입, 또한 오퍼레이터가 치료에 잘 협조하지 않아, 병이 악화될 가능성이 있음.
+
+———————————————————————————————
+
+	档案资料一 :
+	这名萨卡兹刀术师在罗德岛内算得上是少见的异类。许多干员及罗德岛工作人员都会为此深感警惕。
+	大部分时候，炎客少言寡语，离群索居，只有在面对博士的时候会表露出其个人情绪，甚至说二人间针锋相对也不为过。然而这份只针对博士的高傲态度背后，似乎又有一种在等待着什么、或者说期许着什么的态度在其中。
+	在目睹过炎客为数不多的几次全力死斗后，不得不承认，流血的、狂热的炎客令人敬畏，也为作战带来了极大的助力。但是这种反差令人印象深刻，我们必须警惕对待干员炎客与博士之间的关系。
+
+	第一資料 :
+	このサルカズの刀術師はロドス内でも数少ない異類に入り、多くのオペレーター及びロドスで働いている者は皆深く警戒している。
+	大半の時は、エンカクは言葉数少なに人の輪から外れ独りでいることが多い。ただドクターと顔を合わせている時だけは感情をあらわにし、意見をぶつけ合っていると言っても過言ではないだろう。しかしこのドクターだけに対する傲慢な態度の裏には、何かを待っている、あるいは期待しているような思いがあるように見える。
+	エンカクの数少ない全力の死闘を幾度か目撃した後では、認めざるを得ない。血を流し、熱狂の渦にあるエンカクは人を畏怖させ、作戦任務でも大きな力となると。ただ、このギャップが人に与える印象は深刻で、我々はエンカクとドクターとの関係に警戒しなければならない。
+
+	Archive File 1 :
+	This Sarkaz swordmaster is a rare creature at Rhodes Island. Many operators and staff give Flamebringer a wide berth. 
+	Most of the time, Flamebringer is a man of few words, prefers to stay by himself, and shows his personal feelings only to the Doctor. At that point, he seems like a completely different person. But behind the arrogant attitude he puts up for the Doctor, there appears to be another side of Flamebringer waiting for something, or perhaps expecting something. 
+	After witnessing Flamebringer take a few lives, one must admit that the bloodthirsty madness of the swordmaster is indeed formidable, and of tremendous use on the battlefield. But the duality of this individual is striking, and we must be wary of the relationship between Operator Flamebringer and the Doctor.
+
+	파일 자료 1 :
+	    이 살카즈 소드캐스터는 로도스 아일랜드에서도 매우 드문 부류에 속한다. 많은 오퍼레이터 및 로도스 아일랜드 직원이 모두 그를 경계하고 있다.
+	    플레임브링어는 본래 과묵한 편이라 평소엔 무리를 멀리해 홀로 떨어져 있지만, 오직 박사를 대할 때만 개인적인 감정을 드러내는데, 두 사람의 사이는 견원지간이라 해도 과언이 아니다. 그러나 오로지 박사에게만 보이는 거만한 태도 뒤에는, 무언가를 기다리거나, 혹은 기대하는 태도가 숨겨져 있는 것 같기도 하다.
+	    몇 차례 안 되는 플레임브링어의 전력을 다한 사투를 직접 본 자들은, 그 피범벅이 되어 광적으로 싸우는 모습에 모종의 경외감을 느끼고, 그 모습이 작전에도 매우 큰 도움을 가져다 주었다는 사실을 인정할 수밖에 없을 것이다. 하지만 이런 대조적인 모습은 타인에게 굉장히 강렬한 인상을 심어주니, 늘 경계심을 갖고 플레임브링어와 박사와의 관계를 주시할 수 있도록 하자.
+
+———————————————————————————————
+
+	档案资料二 :
+	罗德岛有着丰富的作战经验，也不乏见识过一些沉浸在厮杀中无法自拔的战士。但炎客依旧不能简单地被归纳在其中。他在作战技巧上有着极其优越的天赋，毫无疑问。但他从未真正将胜利当作目标，只是享受着那个过程，享受在生死之间徘徊的刺激感。
+	用“献身”这种词来形容战斗真的很古怪，但炎客的战斗方法的确会让人留下如此印象。只有在生死交界的时刻他才会真正展露出笑容，对炎客而言，那才是生而为人的狂喜。
+
+	第二資料 :
+	ロドスの作戦経験は豊富であり、殺し合いに浸って抜け出せない戦士も多く見てきた。だがエンカクを簡単にその中に振り分けてはならない。彼は戦闘技術の面で卓越した天賦の才能を持っているに間違いないが、未だかつて彼が勝利を本当の目標にしたことはない。ただその過程を楽しみ、生死の間を彷徨うスリルを楽しんでいるだけだ。
+	「献身」という言葉で戦闘を形容するのはかなりおかしな話だが、エンカクの戦闘スタイルは確かにそのような印象を与える。ただ生死が交錯する時だけが彼が本当の笑顔を見せる時だ。エンカクにとって、その時こそが生の喜びなのだ。
+
+	Archive File 2 :
+	Rhodes Island is home to a wealth of combat experience, including some warriors so deep in the fight they struggle to ever leave the battlefield. But Flamebringer does not fit neatly into the roster. His combat skills are second to none, certainly. But he has never seen victory as a goal to be won. He enjoys the process and excitement of taking lives for its own sake. 
+	The use of the word 'commitment' with regard to battle is quite peculiar, but Flamebringer's fighting style does give the impression that he is fully committed to the art. Only when facing the razor thin line between life and death will he ever crack a smile. To Flamebringer, that moment is the ecstasy one lives for.
+
+	파일 자료 2 :
+	    로도스 아일랜드에서 작전 경험이 풍부하고 살육에 빠져 스스로 벗어날 수 없는 전사를 본 것은 처음은 아니지만, 플레임브링어는 그 중에서도 쉽게 분류하기 어려운 인물이다. 그가 작전 기술 면에서 매우 뛰어난 재능을 가지고 있다는 것은 의심할 여지가 없지만, 그는 지금까지 진정으로 승리를 목표로 삼은 적이 없었다. 단지 그 과정을 즐기며, 생사를 넘나드는 자극을 즐길 뿐이었다.
+	    '헌신'이라는 단어로 전투를 묘사하는 건 정말 이상하지만, 플레임브링어의 전투 방식은 정말 그런 인상을 남긴다. 오직 생사의 경계에 처한 순간에만 그는 진정한 미소를 드러내며, 비로소 자신이 살아있음을 느낀다.
+
+———————————————————————————————
+
+	档案资料三 :
+	出于炎客这名干员的特殊性，人事部对其过去进行了一番调查。
+	毫无疑问，炎客轻描淡写地拿出的那份名单，每一个都是极具分量、甚至能左右一场战役成败的人物。换言之，如果这些至关重要的性命的确陨落于炎客之手，那么他过去的身份及其影响力将会比我们想象的还要复杂。我们有必要进行更深入的调查，并重新评估这名干员在罗德岛内的定位。
+	
+	终止记录：后续调查被凯尔希医生制止。凯尔希医生认为博士能够把控如今和炎客的距离，既然当事人选择埋藏了自己的过去，那么深究某些不必要的前史只会让事情变得难以收场。
+	亦或者，被深埋在过去的那些人与事，尚未到翻开篇章的时刻，远远未到。
+
+	第三資料 :
+	このエンカクというオペレーターの特殊性から、人事部は彼の過去について調査を行った。
+	間違いなく、エンカクがさらっと提出したあの名簿にある名前は、どれも極めて重く、戦いの行方を左右するほどの腕の持ち主ばかりだ。つまり、もしこれらの極めて重要な命が本当にエンカクの手によって落とされたのなら、そんな彼の過去及び影響力は我々の想像よりも複雑だろう。我々は更に調査を深くまで進め、このオペレーターのロドス内での立場を評価し直す必要がある。
+	
+	中止記録：後続調査はケルシー医師によって制止された。ケルシー医師は、ドクターがエンカクと適切な距離感を保っていると判断し、当事者が自分の過去を埋葬すると選択した以上、不必要になった過去に深入りすることはただ事態の収拾を困難にするだけだとした。
+	あるいは、過去に深く埋められた人々や出来事が掘り起こされるには、まだ程遠いということかもしれない。
+
+	Archive File 3 :
+	Due to the peculiar nature of this operator, human resources opted to conduct an investigation into his past. 
+	There is no doubt that the list of names Flamebringer provided himself is significantly understated. Each name on the list is a person of great importance, with the capacity to personally swing the fate of a battle. In other words, if Flamebringer did indeed take these lives, then his past is far more complicated than we ever imagined. It is necessary for us to conduct a deeper investigation and reevaluate Flamebringer's position as a Rhodes Island Operator. 
+	
+	End of record: Dr. Kal'tsit put a stop to the second round of investigations. She believes the Doctor is capable of managing the Flamebringer situation at this point. If he chose to bury his past, digging it up will only cause problems. 
+	Or perhaps the people and events that have been buried simply have not yet had their time to reemerge into the story.
+
+	파일 자료 3 :
+	    플레임브링어, 이 오퍼레이터의 특수성 때문에 인사부는 그의 과거에 대한 조사를 진행하였다.
+	    플레임브링어가 대충 써서 낸 명단에 적힌 인물들은 의심할 여지 없이, 존재만으로 전장의 승패를 좌우할 수 있는 막강한 인물들이었다. 바꿔 말해, 이 요주의 인물들이 정말로 플레임브링어의 손에 목숨을 잃은 것이라면, 그의 과거 신분과 그 영향력은 우리가 상상한 것보다 더 복잡할 것이다. 우리는 더 깊이 조사할 필요가 있으며, 로도스 아일랜드 내에서의 그의 위치를 다시 평가해야 할 것이다.
+	
+	    기록 종료: 후속 조사는 닥터 켈시에 의해 저지당했다. 닥터 켈시는 박사가 현재 플레임브링어와의 거리를 통제할 수 있다고 생각하며, 당사자가 자신의 과거를 숨기기로 한 이상, 불필요한 과거를 깊이 파고드는 건 일을 수습하기 어렵게 만들 뿐이라고 했다.
+	    어쩌면, 깊이 묻힌 과거의 그 사람들과 사건들은, 아직 밖으로 꺼낼 때가 아닐지도 모른다. 어쩌면 멀고 먼 훗날의 이야기일지도……
+
+———————————————————————————————
+
+	档案资料四 :
+	随着在罗德岛的时间渐长，我们发现炎客有着培育盆栽和花朵的习惯，或者说，他保留有这样的“兴趣”，的确让人出乎意料。
+	普通干员缺乏了解炎客内心活动的机会，因而会将其简单归纳为一种“反差”：在战场上寻找死亡的刀术师会在闲暇之时照料花草，仅此而已。
+	当然，事实上，也许的确是这么一件简单的事情。只是炎客对待那些花草的态度，与他对自己、对同伴、对敌人、对一切生灵的态度是高度统一的。必须认识到这点，我们才能对炎客有更进一步的认识。
+	也许这才是炎客将自己、将敌人全部视为草芥的原因，从这层角度来说，炎客始终傲慢且冷淡的态度兴许便来源于此，来源于他内心对生命的认知观念。
+
+	第四資料 :
+	ロドスで過ごす時間が経つにつれて、我々はエンカクに鉢植えや花を育てる習慣があると気付いた。というか、彼がこのような「趣味」を持っていることは、かなり意外だった。
+	一般オペレーターにエンカクの内心を理解する機会に恵まれる者が少なく、戦場で死を探し求める刀術師が暇な時には植物の世話をすることを、簡単に一種の「ギャップ」としてしまう。
+	勿論、確かに簡単なことだと言えるかもしれない。ただエンカクの草花に対する態度は、彼自身や仲間、敵、そして生きとし生ける全てのものに対してのそれと全く同じものだ。この点を理解すれば、我々はエンカクへの理解をより一層深めることができるだろう。
+	これこそがエンカクが自身も敵も全てを雑草だと見なしてしまう原因かもしれない。更に言えば、あの終始傲慢かつ冷淡な態度も、彼の生命に対する理念からくるものなのかもしれない。
+
+	Archive File 4 :
+	As his time with Rhodes Island grew, we came to know that Flamebringer quite enjoys gardening, cultivating potted plants and flowers. It was quite surprising to learn he held on to such 'interests.' 
+	Most operators never have a chance to learn about Flamebringer's inner self, and chalk these things up to a kind of 'contrast': a deadly swordmaster returns from the battlefield to care for his flowers. That's it. 
+	But of course, it may truly be that simple. That Flamebringer treats these plants, himself, his allies, his enemies, and all living beings with the exact same, unified attitude. We must first gain an understanding of this before we can truly understand Flamebringer. 
+	Perhaps this is the reason Flamebringer regards both himself and his enemies so fleetingly. From this perspective, his cold and arrogant attitude may stem from an internal philosophy regarding the nature of life itself.
+
+	파일 자료 4 :
+	    플레임브링어가 로도스 아일랜드에 있는 시간이 길어지면서, 우리는 그가 분재와 꽃을 키우는 습관이 있다는 걸 발견했다. 어쩌면 '취미'라고 해도 될 것이다. 이는 확실히 예상 밖이었다.
+	    평범한 오퍼레이터들은 플레임브링어의 내면을 이해할 기회가 부족하기에, 간단히 이를 일종의 '대조적인 성격' 쯤으로 여겨버린다. 전장에서 죽음을 찾는 소드캐스터가 쉬는 시간에 화초를 보살피는 것 뿐이라고 말이다…
+	    물론 어쩌면 정말 그렇게 단순한 일일지도 모른다. 다만, 플레임브링어가 그 화초를 대할 때의 태도는, 그가 자신, 동료, 적, 모든 생명이 있는 것들을 대할 때의 태도와 같다. 이점을 반드시 인지해야만, 플레임브링어에 대해 한층 더 이해할 수 있을 것이다.
+	    어쩌면 이것이야말로 플레임브링어가 자신과 적을 모두 가치 없는 것으로 보는 이유일지도 모른다. 이런 각도에서 보면, 플레임브링어의 한결같이 오만하고 냉담한 태도는 어쩌면, 마음속 생명에 대한 인지 관념에서 유래된 것일 지도 모르겠다.
+
+———————————————————————————————
+
+	晋升记录 :
+	真正的战士不会畏惧死亡，他们会为了内心深处的执念，为了千古不易的荣誉，为了登峰造极的技艺而一次次去挑战生命的极限。炎客亦是如此，他不断使用手中的双刀扩展自己宿命的边界，至于这份执念究竟是为了什么，兴许只是为了摸索生命存在于这纷争不断的历史上的意义，但愿如此吧。
+
+	昇進記録 :
+	真の戦士は死を恐れない。心の底に巣食う執念の為に、万古不易の栄誉の為に、技を極め頂点に登りつめる為に、彼らは何度も生命の極限に挑み続ける。エンカクもかくの如く、手にした二振りの刀で己の宿命の限界を切り拓き続けている。この執念はいったい何の為なのか。ただ紛争を繰り返す歴史における生命の存在意義を探す為かもしれない、そう願おう。
+
+	Promotion Record :
+	A true warrior knows no fear of death. He will challenge the limits of life itself again and again, in search of the depths of his own heart, in search of eternal glory, and in search of the greatest skill. The same is true for Flamebringer. He wields his two blades to expand the edges of his destiny. As for why he is so obsessed with this pursuit, perhaps it is to explore the meaning of life itself at this conflict-riddled moment in history. I certainly hope that is it.
+
+	승진 기록 :
+	    진정한 전사는 죽음을 두려워하지 않는다. 그들은 마음속 깊은 곳의 집념을 위해, 영원히 변하지 않는 명예를 위해, 자신을 정상에 오르게 해줄 수 있는 기예를 위해 생명의 한계에 잇따라 도전한다. 플레임브링어 또한 마찬가지다. 그는 손에 든 쌍칼을 이용해 끊임없이 스스로 운명의 경계를 확장한다. 이 집념은 도대체 무엇을 위한 것인가. 이 집념은 어쩌면 단지 생명이, 이 분쟁이 끊이지 않는 역사 속에 존재하는 의미를 찾기 위한 것일 뿐일지도 모른다. 그저, 그러기를 바란다.

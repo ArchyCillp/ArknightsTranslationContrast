@@ -1,11 +1,17 @@
 ID:
 	char_143_ghost
 
-干员代号\Name:
+CV:
 	幽灵鲨
 	スペクター
 	Specter
 	스펙터
+
+干员代号\Name:
+	浅仓杏美
+	浅倉杏美
+	Azumi Asakura
+	아사쿠라 아즈미
 
 招聘合同\Character Usage:
 	深海猎人幽灵鲨，早已结束祈祷，在战场上游荡多时。
@@ -48,177 +54,435 @@ ID:
 	육참골단
 
 语音\Voices:
-	您好。在今天的工作开始之前，请稍微给我一些，用于祈祷的时间......
 	ごきげんよう。本日の勤めを果たす前に、どうか祈りを捧げる時間をお与えください……。
 	Good day. Please allow me a moment of prayer... before I resume my work for the day...
 	안녕하신가요. 오늘의 수행을 마치기 전에, 부디 기도를 올릴 시간을 주세요… 
 
-	慈悲的使者，请守卫我的睡梦，保护我的心灵......
 	天にまします我らが慈悲深き天使たちよ……願わくば我が眠りに忍び寄る忌まわしき者から、我が心を守りたまえ……。
 	O benevolent angels in Heaven, hear my prayer: please watch over my dreams and protect my soul from the cursed beings of the night...
 	하늘에 계신 우리 자비로운 천사들이여… 바라옵건대 우리의 잠에 살며시 다가오는 증오스러운 자들로부터, 우리 마음을 지켜주시옵소서… 
 
-	呵呵，切割啊......切割是件很快乐的事。是啊，有些东西，相互之间并没有什么联系，从一开始，就不该结合在一起......
 	ウフフフフ、斬るのは……斬るのはとても楽しい。そう、そこは元から繋がっていないのです。最初から、繋がってはいけなかったのです。ウフフフ……。
 	Ahahahah... Cutting... Cutting things is such fun... Yes, some things were not supposed to be in one piece... Some things were never meant to be in anything but pieces! Ahahahahah...!
 	우후후후후, 자르는 건…… 자르는 건 정말 즐거워요. 그래요, 거긴 원래부터 이어지지 않았어요. 처음부터, 이어져선 안 됐다고요. 우후후후… 
 
-	呵呵呵......哈哈......哈哈哈哈......
 	…………ウフフフ……アハハハ……ハハハハハハ……。
 	Ehehehe... Hahahah... AHHAHAHAHAH!
 	……우후후후…… 아하하하…… 하하하하하하…… 
 
-	呵呵，为什么您要避开我的目光呢？这么做也是没用的......您想要的东西是什么，我全都知道。
 	ウフッ、なぜ私と目を合わせてくださらないの？そんなことしても無駄ですわ。あなたが何を欲しているのか……私にはすべて分かっておりますもの。
 	Ahah... Why will you not look into my eyes...? It's meaningless to avoid my gaze... because I already know exactly what your heart desires...
 	후훗, 왜 저와 눈을 마주치지 않으시나요? 그래 봤자 소용없어요. 당신이 뭘 원하고 있는지…… 저는 전부 알고 있는걸요.
 
-	我一直、一直想带您去一个地方，一个能听到“秘密”的地方。
 	ずっと、ずっとあなたを連れていきたい場所があるのです。「秘密」が聴こえる、あの場所へ……。
 	I have always, always wanted to bring you to a special place... A place where secrets are imparted...
 	줄곧, 줄곧 당신을 데려가고 싶었던 곳이 있어요. '비밀'이 들려오는, 그곳으로…… 
 
-	你们究竟对我做了什么......？为什么让我吃那种药？是谁把我带到这里的？请告诉我......！！！
 	……わ、私に何をしたのですか？どうして私はよくわからない薬を飲まされたのですか？誰が私をここに連れてきたのですか……教えてください……！！！
 	Wh-what did you do to me...? Why was I made to drink that strange medicine? Who is it that brought me to this place? PLEASE ANSWER ME!
 	…제, 제게 무슨 짓을 하는 거죠? 왜 제가 잘 모르는 약을 먹이는 거죠? 누가 절 여기에 데려온 건가요…… 가르쳐 주세요!!
 
-	那个人告诉我的都是对的......解剖、撕裂、切碎，一切都是、都是给予他们的救赎！
 	あの御方が私に教えてくださったことは間違いありませんわ……解剖したのも！引き裂いたのも！切り刻んだのも！全て彼らに救いを与えるため……！！！
 	What He said unto me is no falsehood... Dissecting them, dismembering them, disemboweling them... it all grants them salvation...!
 	그분께서 제게 가르쳐 주신 것은 잘못되지 않았어요…… 해부한 것도! 찢어버린 것도! 잘게 썰어버린 것도! 모두 그들에게 구원을 주기 위한 거예요…!!!
 
-	在您的梦中，经常会出现些无法理解的事物，是吗？呵，那些景象，是那个人向你投递来的，无望的信件。而我，作为那个人的使者，把它送到了，呵呵......
 	夢を見ると、理解できないものが出てきたりしますわよね？そう、それはあの御方からの絶望の知らせ。そして私はあの御方のお使いとして、それを届けに来たのです……フフ……。
 	We see many things in our dreams that we cannot comprehend... Those things you see are His despairful tidings... And I am His messenger, here to convey this exhortation to you... Ahah...
 	꿈을 꾸면, 이해할 수 없는 내용이 나오기도 하죠? 맞아요, 그게 바로 그분께서 내리신 절망의 계시예요. 그리고 저는 그분의 사역자로서 그 계시를 전해드리러 왔답니다… 후후… 
 
-	......听，茫茫的万物之主，在黑暗中，喃喃自语......
 	……お聴きなさい、深淵から響く、万物の主の、ささやきを……。
 	Hearken... Hear the whispers of His Omnipotence echoing from the depths...
 	……잘 들어보세요, 심연에서 들려오는 만물의 주인의 속삭임을…… 
 
-	幽灵鲨......那些‘死者’都这样称呼我。那位医生告诉我，继续获得治疗的条件，是为罗德岛而战。嗯，我会的，我会把我的力量，全都献给你们。
 	ウフフ……スペクター、亡霊たちは私をそう呼びます……。あのお医者様は、治療を受けるにはロドスのために戦うようにとおっしゃりました……ええ、もちろん、私の力をあなた方に捧げましょう……。
 	Ahahah... I am Specter, that is what the spirits call me... That kind doctor informed me that I may only receive further treatment by serving Rhodes Island... Yes, of course, my powers are yours to command.
 	우후후, 스펙터… 망령들은 절 그렇게 부릅니다… 그 의사분께선, 치료를 받으려면 로도스 아일랜드를 위해 싸우라고 하셨습니다… 네, 물론 제 힘을 당신에게 바치지요… 
 
-	力量......流入了我的身体......
 	力が……流れ込んでくる……。
 	Power... is flowing into me...
 	힘이… 흘러들어 오네요… 
 
-	你的意志，我无权违背......
 	あなたの意志に、私には抗う資格もありません……。
 	I have no right to go against your will...
 	당신의 의지에, 저는 거스를 자격조차 없답니다…… 
 
-	这样的职位，可以给我带来新的喜悦吗？还是说，为了你而战斗，才是我真正的快乐呢？
 	この役職は、私に新たな悦びを与えてくれますでしょうか？それとも、あなたのために働くことが私の悦びとなるのでしょうか？
 	Will this position be a new source of joy for me...? Or... will working for you become my life's joy...?
 	이 일은, 제게 새로운 기쁨을 줄까요? 아니면, 당신을 위해 일하는 게 저의 기쁨이 될까요?
 
-	各位，晚安......
 	皆さま、ごきげんうるわしゅう……。
 	My brothers and sisters, I hope that you are well...
 	여러분, 평안하신지요…… 
 
-	如您所愿。
 	あなたがおっしゃるのでしたら……。
 	I shall do as you command.
 	당신이 말씀하신다면…… 
 
-	这将是一条，充满牺牲的道路。
 	ここからは、茨の道になります……。
 	This will be a path paved with sacrifices.
 	여기서부터는, 가시밭길이 될 겁니다…… 
 
-	我将这些迷失在战场上的灵魂，全部献给您......
 	この戦場に迷い込んだすべての魂、あなたに捧げましょう……。
 	All these lost souls on the battlefield... I offer them to you.
 	이 전장을 떠도는 모든 영혼을, 당신께 바치지요… 
 
-	静候您的讯息。
 	お待ちしておりました。
 	I have waited eagerly for this.
 	기다리고 있었습니다.
 
-	请告诉我结果。
 	結果を、お聞かせください。
 	Please let me know the results.
 	결과를, 들려주세요.
 
-	我来自深邃的海洋......
 	かの深き海より参りました……。
 	I come from the deep abyss...
 	저 깊은 바다에서 찾아왔습니다…… 
 
-	是您唤醒了我。
 	私を呼び起こしてくださったのはあなたですね……。
 	You must be the one who woke me.
 	저를 불러준 것은… 당신이로군요… 
 
-	取悦我吧。
 	我に悦びを与えなさい。
 	Grant joy unto me!
 	제게 기쁨을 주십시오.
 
-	回归深渊吧。
 	深淵に還りなさい。
 	Return to the depths!
 	심연으로 돌아가세요.
 
-	没有价值的东西，我毫无兴趣。
 	無価値なものには興味ないのです。
 	I care not for you valueless ones!
 	가치 없는 것에는 관심 없답니다.
 
-	不许逃走。
 	逃しませんよ……！
 	You cannot escape!
 	놓치지 않겠어요…!
 
-	我战胜了您给予我的全部考验，您看到了吗？
 	……あなたが与えてくださった試練を乗り越えましたよ……ご覧いただけましたか？
 	I have conquered all trials you gave me... Were you watching me?
 	……당신이 안겨준 시련을 이겨냈습니다…… 보셨나요?
 
-	请将迷失的灵魂们，引渡到安息之地吧。
 	迷える魂たちを、安息の地へお導きください……。
 	Please guide these lost souls to peaceful enlightenment...!
 	길 잃은 영혼들을 안식의 땅으로 인도하여 주소서…… 
 
-	......谁都，别想逃走！
 	……誰もここから逃しません！
 	None of you shall leave this place!
 	……누구도 여기서 도망칠 순 없어요!
 
-	必须让他们偿还......必须......
 	……必ず償いを……必ず……。
 	They shall pay for their sacrilege... They shall pay...
 	……반드시 속죄를…… 반드시…… 
 
-	可以给我一个，看得见星星的房间吗？
 	満天の星が見える部屋をお願いできますでしょうか……。
 	May I ask you to assign me to a room where I can see the night sky?
 	온 하늘에 별이 보이는 방으로 부탁드려도 될지요…… 
 
-	呵呵......
 	ウフ……。
 	Ahah...
 	우훗…… 
 
-	博士......你背后究竟是什么样的力量......使我这样欣喜若狂呢......
 	ドクター……私をこんなに狂おしいほど悦ばせてくださるなんて……あなたは一体何者なのですか……。
 	Doctor... How can you make me so maddeningly happy? Just who are you...?
 	박사님…… 저를 이리도 미치도록 기쁘게 해 주시다니…… 당신은 대체 어떤 분이신가요…… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你是......啊，这不是博士吗？
 	あなたは……あら、ドクターですわね……ウフフ……。
 	Who's there... Ah, it's you, Doctor... Ahah...
 	당신은…… 어머, 박사님이시군요…… 우후후…… 
+
+干员档案\Background:
+	基础档案 :
+	【代号】幽灵鲨
+	【性别】女
+	【战斗经验】七年
+	【出身地】阿戈尔
+	【生日】7月27日
+	【种族】未公开
+	【身高】162cm
+	【体重】■■kg
+	【矿石病感染情况】
+	体表无源石结晶分布，但参照医学检测报告，确认为感染者。
+	干员幽灵鲨的感染症状较为特殊，需要进行进一步的临床研究。
+
+	基礎情報 :
+	【コードネーム】スペクター
+	【性別】女
+	【戦闘経験】七年
+	【出身地】エーギル
+	【誕生日】7月27日
+	【種族】未公開
+	【身長】162cm
+	【体重】■■kg
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+	特殊な感染状況のため、更なる臨床研究の実施を推奨。
+
+	Basic Info :
+	[Code Name] Specter
+	[Gender] Female 
+	[Combat Experience] 7 years 
+	[Place of Birth] Ægir 
+	[Date of Birth] Jul. 27 
+	[Race] Undisclosed 
+	[Height] 162cm 
+	[Weight] ??kg 
+	[Infection Status] 
+	Showed no outward symptoms of Originium Infection, but Infection was confirmed by medical examination. 
+	More clinical research is required to fully diagnose Specter's Infection status.
+
+	기본정보 :
+	[코드네임] 스펙터
+	[성별] 여
+	[전투 경험] 7년
+	[출신지] 미공개
+	[생일] 7월 27일
+	[종족] 미공개
+	[신장] 162cm
+	체중: ■■kg
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포는 없으나, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+	오퍼레이터 스펙터의 감염 상황은 비교적 특수하여, 추가적 임상 실험 및 연구가 필요함.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】卓越 
+	【战场机动】普通 
+	【生理耐受】卓越 
+	【战术规划】缺陷 
+	【战斗技巧】优良 
+	【源石技艺适应性】缺陷
+
+	能力測定 :
+	【物理強度】卓越
+	【戦場機動】普通
+	【生理的耐性】卓越
+	【戦術立案】欠落
+	【戦闘技術】優秀
+	【アーツ適性】欠落
+
+	Physical Exam :
+	[Physical Strength] Outstanding 
+	[Mobility] Normal 
+	[Physical Resilience] Outstanding 
+	[Tactical Acumen] Flawed 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Flawed
+
+	종합검진 :
+	[물리적 강도] 월등
+	[전장 기동력] 보통
+	[생체 인내도] 월등
+	[전술 계획력] 부족
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 부족
+
+———————————————————————————————
+
+	客观履历 :
+	幽灵鲨，身份不明，履历缺失。在对抗大型生物与破坏硬目标等行动中展现出极强的技巧，推测与其过往战斗经验相关。 
+	现作为近卫干员于罗德岛某作战小队任职。
+
+	個人履歴 :
+	スペクターは経歴書が紛失したため、身元も出身も不明である。大型生物へ対するアクションや、手ごわいターゲットを破壊するときに見せた極めて強力な技術は、過去の戦闘経験により身についたものだと推測される。
+	現在は前衛オペレーターとしてロドスのとある作戦小隊に在職中。
+
+	Profile :
+	Specter, true identity unknown, records missing. Demonstrated extraordinary ability in combating large creatures and destroying sturdy targets, speculated to correlate with extensive prior combat experience. 
+	Now stationed as a Guard at Rhodes Island.
+
+	프로필 :
+	    신원 불명, 이력 정보 부족. 대형 생물이나 파괴 난이도가 높은 목표에 대항하는 작전에서 막강한 모습을 보이는데, 이는 과거 작전 경험과 관련이 있는 것으로 추측된다. 현재는 가드 오퍼레이터로서 로도스 아일랜드의 모 작전팀에 근무 중이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】14% 
+	虽然干员幽灵鲨体表并未生成源石结晶，但与表征相反，她的神经系统受到了相当严重的感染。目前还无法探明产生此种症状的原因。 
+	
+	【血液源石结晶密度】0.31u/L
+	尚属可控范围内。尽管如此，若无法解析干员幽灵鲨的具体病因，检测数据会因不能准确反应病征而失去意义。
+	
+	另外，干员幽灵鲨患有严重的精神障碍，可能包含并不止于记忆障碍、情感障碍与认知障碍。我不是精神科医生，无法推断具体病因呈器质性或功能性，但依然希望能将心理状况纳入资料记录。
+	——医疗干员赫默
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】14%
+	体に源石結晶は生成されていないが、神経系への感染は顕著。症状の原因は未だ究明できない。
+	
+	【血液中源石密度】0.31u/L
+	まだコントロールできる範囲ではあるが、もしスペクターの具体的な病状を解析できなければ、正確な病状は把握できず、検測データも意味をなさない。
+	
+	また、スペクターには重症な精神障害がある。記憶障害や感情障害、認知障害、またその他にも障害があるかもしれない。私は精神科医ではないのでそれが先天性か否かは判断できないが、彼女の心理状況を資料として記録してほしい。
+	——医療オペレーターサイレンス
+
+	Clinical Analysis :
+	Imaging tests done on Specter showed a blurry outline around her internal organs, with visible abnormal dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating signs of Infection and confirming her as Infected at this stage. 
+	
+	[Cell-Originium Assimilation] 14% 
+	While Specter showed no physical signs of Originium crystals, her nervous system has suffered a case of severe Infection, the cause behind which remains unknown. 
+	
+	[Blood Originium-Crystal Density] 0.31u/L 
+	Still within manageable range. Even then, without knowing the specific cause for her Infection, test data cannot accurately reflect her condition and are of little use. 
+	
+	In addition, Specter is plagued by severe mental health issues, including but not limited to: memory loss, emotional instability, and lack of self-awareness. Unfortunately, I am not a neurologist nor a psychiatrist and thus unqualified to speculate on the cause or solution, but I wish to make note of her mental condition in her file. 
+	—Medic Operator Silence
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 14%
+	오퍼레이터 스펙터의 체표면에는 오리지늄 결정이 생기지 않았지만, 이와 상반되게, 그녀의 신경계는 이미 상당한 수준의 감염이 진행된 상태. 현재로선 이런 특수 케이스에 대한 명확한 의학적 원인 규명이 되지 않은 상태.
+	
+	[혈중 오리지늄 결정 밀도] 0.31u/L
+	아직은 통제 가능한 범위 내. 그럼에도 불구하고 오퍼레이터 스펙터의 구체적인 병의 원인을 규명하지 못하였으며, 검사 데이터는 병증을 정확히 반영하지 못해 큰 의미가 없는 상황.
+	이외에, 오퍼레이터 스펙터는 심각한 정신적 장애를 가지고 있는데, 기억력 장애는 물론, 감정 장애와 인지 장애 역시 동시에 앓고 있을 가능성이 있다. 난 정신과 의사가 아니기 때문에 구체적 병의 원인이 기질성인지 기능성인지 추측할 수는 없고, 다만 심리 상태를 기록으로 남겨두었으면 한다.
+	——메딕 오퍼레이터 사일런스
+
+———————————————————————————————
+
+	档案资料一 :
+	对干员幽灵鲨进行的调查进展艰难。在罗德岛接收干员幽灵鲨时，她也曾表现出片刻的清醒，但在罗德岛医治她之前，干员幽灵鲨便陷入了严重的精神失常。 
+	在日常生活中，干员幽灵鲨的精神状态缺乏稳定，这使得她与其他干员的接触较为稀少。 
+	罗德岛医疗部门会定期对干员幽灵鲨进行检查和治疗，迄今为止，效果较为有限。
+
+	第一資料 :
+	スペクターの調査は難航している。ロドスに引き取られたとき、スペクターは正常であったが、治療を受ける前にかなりの心神喪失状態に陥っていた。
+	スペクターは常に精神が不安定なため、日常生活の中でほかのオペレーターとの接触が少ない。
+	ロドスの医療部門が定期的にスペクターに検査と治療を行っているが、現時点で効果はいまひとつである。
+
+	Archive File 1 :
+	It was difficult probing into Specter's past. When Rhodes Island took her in, she showed temporary lucidity until she lapsed into psychosis before treatment could be administered. 
+	In her day-to-day life, Specter's mental condition remains unstable, thus greatly limiting her social interactions with other Operators. 
+	Medical staff will continue administering regular tests and treatment, although success has been limited to date.
+
+	파일 자료 1 :
+	    오퍼레이터 스펙터에 대한 조사는 난항을 겪고 있다. 로도스 아일랜드에서 오퍼레이터 스펙터를 받아들였을 당시에는 온전한 정신을 유지하고 있었으나, 로도스 아일랜드에서 치료를 진행하기 전 오퍼레이터 스펙터는 심각한 정신 착란 상태에 빠졌다. 일상생활 중 오퍼레이터 스펙터의 정신 상태는 안정적이지 못하며, 이 때문에 다른 오퍼레이터들과 접촉하는 경우는 드물었다. 로도스 아일랜드의 의료부는 정기적으로 대원 스펙터를 검사 및 치료하고 있지만, 지금까지는 그 효과가 미미하다.
+
+———————————————————————————————
+
+	档案资料二 :
+	依据罗德岛多方搜集的信息推断，干员幽灵鲨曾是隶属某教会的修女。之后，鉴于干员幽灵鲨现在的精神状态与罗德岛的现行方针，罗德岛没有对她进行更多的调查。 
+	不过，依照凯尔希医生的推测，干员幽灵鲨的过去和此教会息息相关，并且可能存在着与现存证据相悖的事实真相。
+
+	第二資料 :
+	ロドスが様々なルートから集めた情報によると、かつてスペクターはとある教会に所属する修道女だった。なお、彼女の今の精神状態やロドスの方針により、それ以上の調査を行っていない。
+	だが、ケルシー医師の推測では、スペクターの過去は当該教会と深くつながっており、現存の証拠と真逆の真相が存在する可能性があるという。
+
+	Archive File 2 :
+	Based on intel gathered, Specter was once a nun residing at a convent. The matter was not investigated further due to her current mental state and Rhodes Island's present goals. 
+	However, Dr. Kal'tsit believes Specter's past is closely linked to that convent, which is also likely hiding the truth behind her mysterious past.
+
+	파일 자료 2 :
+	    로도스 아일랜드가 다방면으로 수소문한 정보에 따르면, 오퍼레이터 스펙터는 어떤 한 교회 소속의 수녀였던 것으로 추정된다. 이후 오퍼레이터 스펙터의 현재 정신 상태와 로도스 아일랜드의 현행 방침을 감안하여, 로도스 아일랜드는 그녀에 대한 추가 조사를 감행하지는 않았다. 그러나 닥터 켈시의 추측에 의하면 오퍼레이터 스펙터의 과거는 교회와 직접적인 관련이 있으며, 현존하는 증거와는 어긋나는 진실이 존재할 수도 있다고 한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在医疗部门的深入检查中，医疗干员发现，干员幽灵鲨的身体机能因受到源石感染而大幅退化。 
+	另一方面，干员幽灵鲨缺少运用源石技艺所必要的天赋，也缺乏应对源石技艺的必要知识。尽管十分蹊跷，但这确实影响着干员幽灵鲨的作战能力。 
+	即便是处在如此不利的情况之下，干员幽灵鲨于执行任务时所展现的攻坚能力与破坏力依然令人惊奇，甚至......使人感到困扰。她的个人能力，毋庸置疑，是极其罕见的。 
+	更重要的是，干员幽灵鲨在战斗中表现出的态度与其日常生活中的姿态截然相反。 
+	战场之上的幽灵鲨顺从且安静，除了偶尔的喃喃自语之外，干员幽灵鲨会坚决地实现一切命令，完全无视任何阻挠与障碍，这甚至导致了她战场应变能力的匮乏，进而陷入危险。 
+	由此判断，干员幽灵鲨对于小队而言十分重要，然而，该干员的运用方针也同样需要战术指挥官的进一步调整与权衡。
+
+	第三資料 :
+	医療部門の精密検査では、スペクターが源石に感染したことにより、身体機能が大幅に退化していることがわかった。
+	一方、スペクターにはアーツ運用に必要な能力がなく、それに対応する知識も少ない。謎めいた事実だが、確かに彼女の作戦能力に大きく影響している。不利な状況でも、彼女が任務中に見せた攻撃力と破壊力は目を見張るものだった。彼女の個人能力は間違いなく稀なものだ。
+	さらに重要なのは、戦闘中のスペクターの姿は日常生活とは真逆であることだ。
+	戦場でのスペクターは従順で静か。たまに出る独り言以外、彼女はただ妨害してくるものを排除し、全ての命令を遂行することに集中する。この戦闘スタイルは彼女の戦況応変能力を低下させ、危険な状況に陥ることにつながる。
+	上記にしたがって、スペクターは所属小隊にとっては重要な存在であると言えるが、彼女をどのように運用するのかが戦術指揮官にとって更なる調整と考慮が必要になってくる。
+
+	Archive File 3 :
+	The medical department's in-depth examination revealed Oripathy to be the cause of Specter's deteriorating physical health. 
+	Furthermore, Specter lacked both the necessary aptitude and knowledge to wield Originium powers. This is puzzling and greatly impacts her combat ability. 
+	Despite her difficulties, Specter was still devastatingly powerful during her missions, to the point of unsettlement. She undoubtedly has incredible room for growth and improvement. 
+	Even more important is her polarizing attitudes in combat and in her daily life. 
+	She is demure and quiet in battle (other than a few occasional mumbles to herself), with a mindless tendency to follow orders to the end, completely unaware of potential danger and obstacles. Her inability to react has endangered her safety more than once. 
+	It can be concluded that Specter is a vital part of the squad, but a commander must also adapt to her single-mindedness and plan accordingly.
+
+	파일 자료 3 :
+	    의료부의 심층 검사를 통해 메딕 오퍼레이터들은 스펙터의 신체 기능이 오리지늄 감염으로 인해 크게 퇴화되었다는 사실을 발견했다. 오퍼레이터 스펙터는 오리지늄 기술을 운용하는데 필요한 자질이 부족했고, 오리지늄 기술에 대해 필요한 지식 자체도 부족했으며, 이상하긴 하지만 이런 점이 확실히 스펙터의 작전 능력에 영향을 미치고 있었다.
+	    하지만 이런 불리한 상황 속에서도, 오퍼레이터 스펙터가 임무를 수행할 때 보여준 공격력과 파괴력은 여전히 놀라운 수준이었다. 아니, 오히려 당황스러울 정도이다. 그녀의 개인적인 능력은 의심의 여지 없이 극히 드문 수준이다.
+	    더 중요한 것은, 오퍼레이터 스펙터가 전투에서 보여주는 태도는 일상에서의 모습과 정반대라는 점이다. 전장에서의 스펙터는 순종적이고 조용하며, 가끔 중얼거리는 것을 제외하고는 명령을 착실히 수행하고, 어떠한 방해와 장애에도 상관하지 않는다. 하지만 이런 점은 전장에서의 임기응변 능력을 부족하게 만들고 스스로를 위기에 빠뜨리기도 한다.
+	    오퍼레이터 스펙터는 소대에 있어서 매우 중요한 인물이기에, 이 오퍼레이터의 운용지침에 있어서는 지휘관의 추가 조정과 조율이 필요하다고 판단된다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】 
+	实际上，干员幽灵鲨在被罗德岛接收时，语言得体，语气诚恳，她声称自己刚刚逃离囚禁，并要向罗德岛传达一条信息。 
+	然而，幽灵鲨尚未将信息表达完全便逐渐陷入了沉默。在干员幽灵鲨精神状态尚维持在正常水平的最后一刻，幽灵鲨向罗德岛负责接收的干员表示，自己可能要再次坠入阴谋者所设计的黑暗之中了。 
+	撕扯身上的修女服未果之后，干员幽灵鲨精神崩溃。
+
+	第四資料 :
+	【権限記録】
+	スペクターがロドスに引き取られた時、自分は監禁から逃げ出した身で、ロドスにあるメッセージを伝えに来たと話した。その時の言葉遣いは丁寧で、態度も誠実だった。
+	しかしそのメッセージを伝え終える前に、スペクターは黙り込んだ。正気を保っていられるギリギリの最後、彼女は迎えに来るオペレーターに陰謀者が企てる暗闇に、彼女は再び堕ちるかもしれないと伝えた。
+	彼女が着ていた修道服を脱がすことに失敗した後、彼女の精神はついに崩壊した。
+
+	Archive File 4 :
+	[Classified Log] 
+	In actuality, when Specter first approached Rhodes Island, she was articulate and sincere, claiming she had just escaped confinement and wished to deliver a message. 
+	However, she fell silent before she could finish conveying it. In her last moments of sanity, she told the Operator who retrieved her that she has once again gotten entangled in a dark conspiracy. 
+	After she failed to tear off her habit, she then descended into madness.
+
+	파일 자료 4 :
+	[제한된 기록]
+	    오퍼레이터 스펙터가 로도스 아일랜드에 도착했을 때 그녀는 신분에 걸맞는 말투와 진실된 어조를 유지하고 있었고, 자신이 구금으로부터 막 탈출했다고 주장하면서 로도스 아일랜드에 전할 메시지가 있다고 하였다.
+	    하지만 스펙터는 그 메시지를 정확히 말하기도 전에 침묵에 빠져버렸다. 오퍼레이터 스펙터의 정신 상태가 정상으로 유지되고 있었던 마지막 순간, 스펙터는 로도스 아일랜드의 접수 담당 오퍼레이터에게 자신이 음모자가 설계한 어둠 속으로 다시 떨어질지도 모른다고 말했다.
+	    몸에 걸친 수녀복을 미처 다 찢지못한 채, 스펙터의 정신은 붕괴해버리고 말았다.
+
+———————————————————————————————
+
+	晋升记录 :
+	《他乡的歌谣》 
+	当她祈祷 
+	星星停止闪烁 
+	当她流泪 
+	夜晚露出微笑 
+	当她悲叹 
+	痛苦蔓延在她的疯狂 
+	
+	——记载于干员幽灵鲨的个人物品
+
+	昇進記録 :
+	『他郷の唄』
+	彼女が祈る時
+	星のきらめきも止まる
+	彼女が涙する時
+	夜空も微笑む
+	彼女が嘆く時
+	苦痛が狂気に延び広がっていく
+	
+	——スペクターの私物により
+
+	Promotion Record :
+	Folksong of a Faraway Land: 
+	When she prayed 
+	The stars stopped shining 
+	When she wept 
+	The night smiled 
+	When she lamented 
+	Pain accelerated her madness 
+	
+	—From Operator Specter's personal articles
+
+	승진 기록 :
+	<타향의 노래>
+	그녀가 기도할 때
+	별은 반짝이는 걸 멈추었네
+	그녀가 눈물을 흘릴 때
+	밤은 미소를 지어보이네
+	그녀가 비탄할 때
+	그녀의 광기에 고통이 퍼져나아가네
+	
+	——오퍼레이터 스펙터의 개인 물품에 적힌 내용

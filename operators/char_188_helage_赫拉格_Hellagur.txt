@@ -1,11 +1,17 @@
 ID:
 	char_188_helage
 
-干员代号\Name:
+CV:
 	赫拉格
 	ヘラグ
 	Hellagur
 	헬라그
+
+干员代号\Name:
+	速水奖
+	速水奨
+	Shō Hayami
+	하야미 쇼
 
 招聘合同\Character Usage:
 	富有远见的阿撒兹勒近卫赫拉格，将与你合力实现战略目标。
@@ -48,177 +54,550 @@ ID:
 	보름달
 
 语音\Voices:
-	想熄灭战火，要经历漫长的痛苦；兴起战争，却只需要一瞬间的失误。
 	戦火をかき消すには、気が遠くなるほどの苦しみを乗り越えねばならん。しかしその戦火は、一時の過ちでいとも容易く轟々と燃え上がるものでもある。
 	It takes prolonged suffering to quench the flames of war, while it takes naught but an accidental spark to ignite them.
 	전쟁의 불꽃을 끄기 위해서는 정신이 아득해질 정도의 고통을 극복해야 하지. 그러나 그 전쟁의 불꽃은 한순간의 잘못으로도 너무나 쉽게 활활 타오르는 것이기도 하지.
 
-	切尔诺伯格的陷落强烈地冲击了我们的诊所，“阿撒兹勒”。我要重建这座诊所、这个孩子们的家——在哪里都无所谓。为家人付出是无需理由的。
 	チェルノボーグの陥落と同時に、「アザゼル」も壊滅的な打撃を受けた。私はあの診療所を、子供たちの家を再建しなくてはならん。それが叶うのならば、再建の地がどこになろうと構わん。家族のために捧げる苦労に、理由など必要ない。
 	The fall of Chernobog dealt a devastating blow to Azazel, our clinic. I must rebuild it for the children; it was their home. It matters not where it is rebuilt, as long as it is. One needs no reason to take great pains for their family.
 	체르노보그 함락과 동시에 '아자젤'도 궤멸에 가까운 타격을 입었다. 나는 그 진료소를, 아이들의 집을 재건해야 하네. 그것을 이룰 수 있다면 재건의 땅은 어디가 되든 상관없다. 가족을 위한 고생에 이유 따윈 필요 없지.
 
-	罗德岛的立场虽然值得尊敬，但乌萨斯的感染者面对的处境比想象更恶劣。必须学会如何去运用暴力，只为生存，无关善恶。
 	ロドスの立場は尊敬に値するが、ウルサスの感染者の境遇は想像よりも更に劣悪なものだ。彼らが生き延びるためには、暴力を振るわざるを得ないのだ。そこに善悪の概念は存在しない。
 	Rhodes Island is in a respectable position, but the Infected of Ursus face prospects far worse than anyone could imagine. They must be ready to resort to violence in order to survive, for there is no concept of good or evil in that place.
 	로도스 아일랜드의 입장은 존경할만하지만, 우르수스의 감염자에 대한 대우는 상상보다도 훨씬 열악하다네. 그들이 살아가기 위해서는 폭력을 행사할 수밖에 없지. 거기에 선악의 개념은 존재하지 않아.
 
-	“每个乌萨斯人都应为他们的国家与皇帝感到骄傲”。我曾经也为之奋战过，但现在的我已经失去了热情。时间从我这里夺走了太多。
 	「ウルサス人は皆、其の国家と皇帝を自身の誇りとすべし」。私もかつてはそうやってウルサスに身を捧げていたが、今はもうその熱意を失ってしまった。時間が私から何もかも奪ってしまったのだ。
 	'All Ursusians should be proud of their nation and emperor.' I, too, fought for Ursus once, but now I have lost all my patriotism. Time has robbed me of too much.
 	"우르수스인은 모두 국가와 황제를 자신의 긍지로 여겨야 한다." 나도 한때는 그렇게 우르수스에 몸을 바쳤지만, 지금은 이제 그런 열의를 잃고 말았네. 시간이 나에게서 모든 것을 빼앗아 가버렸지.
 
-	军旅生活教会我两件事。第一，信任你的战友；第二，提防你信任的人。这片大地一直被这种矛盾纠缠着，没人能从中挣脱。
 	軍隊での生活が私に教えてくれたことは二つ。一つ、戦友は信頼せよ。二つ、信頼しても信用はするな。この地で生きる以上、我々にはそんな矛盾が永遠について回る。その檻からは誰も逃れられん。
 	Life in the military has taught me two things: First, have faith in your fellow soldiers; second, have faith in them, but do not trust them. This dilemma has always plagued our lands, and none can escape it.
 	군 생활이 나에게 가르쳐 준 것이 두 가지 있지. 하나, 전우를 신뢰해라. 둘, 신뢰는 해도 신용은 하지 마라. 이 땅에서 살아가는 이상, 우리에겐 그런 모순이 영원히 따라다닐걸세. 그 감옥에선 누구도 벗어날 수 없어.
 
-	Dr.{@nickname}，你和孩子们没什么区别，未来正等着你们去了解它。像我这样无法背离过去、同样也没有明天的人，会为你们战斗到流尽最后一滴血。
 	ドクター、貴殿の眼前には、子供たちと同じように無限の未来が広がっているのだろう。過去にすがることしかできない明日なき身ではあるが、血の最後の一滴が滴り落ちるまで、貴殿たちのために戦うことでその未来をつなごう。
 	Dr. {@nickname}, a limitless future awaits you, just as it does for those children. Though I can neither let go of yesterday nor look forward to tomorrow, I shall fight for you till my last drop of blood, so you may be part of that future.
 	박사, 자네 앞에는 아이들과 마찬가지로 무한한 미래가 펼쳐져 있겠지. 과거에 매달리는 것밖에 할 수 없는 내일이 없는 몸이지만, 마지막 피 한 방울이 떨어질 때까지 자네들을 위해 싸우는 것으로 그 미래를 이어가겠네.
 
-	要与乌萨斯为敌也无妨。我的忠诚已经在我从军时完全地献给了它，而今只剩下幻觉和耻辱与我长久相伴。为了孩子们，我不会退缩，更不会向它投降。
 	ウルサスと敵対することに異論はない。軍では骨の髄まで忠誠を誓った相手ではあるが、今となっては幻影と屈辱の残滓がこの身に纏わりついているだけだ。子供たちのためなら私は引かん。ましてや投降するなどもってのほかだ。
 	I am fine with Ursus as my enemy. Once I swore my utmost loyalty to it, but that was returned with everlasting disillusionment and shame. For the children's sake, I will never falter, much less surrender.
 	우르수스와 적대하는 것에 이의는 없네. 군에선 골수까지 충성을 맹세했던 상대이지만, 이제는 환영과 굴욕의 잔재가 이 몸에 들러붙어 있을 뿐이야. 아이들을 위해서라면 난 물러서지 않을 걸세. 하물며 투항 같은 건 말할 것도 없지.
 
-	曾经有一场漫长的战争。当我终于划开敌军指挥部的舱门，却只来得及接过我濒死好友递给我的佩刀与怀表。敌人失去了指挥官，他的死为乌萨斯带来了片刻的胜利，而我，可悲地输掉了这场战争。
 	かつては長きに渡る戦争があった。私が敵軍司令部のドアを斬り開いたときにはもう遅く、瀕死の友人から刀と懐中時計を受け取ることしかできなかった。敵は指揮官を失い、彼の死はウルサスにつかの間の勝利をもたらしたが、私は皮肉にもその戦争に敗北したようなものだ。
 	Once there was a long battle. When I finally broke into the enemy headquarters, I was too late... All I could do for my dying friend was to take his pocket watch and sword. The enemy lost their commander, whose death brought Ursus a brief victory. But I emerged from the battle feeling defeated.
 	한때 오랜 세월에 걸친 전쟁이 있었지. 내가 적군 사령부의 문을 베어 열었을 때는 이미 늦어버려서, 죽어가는 친구에게 검과 회중시계를 받는 것밖에 하지 못했네. 적은 지휘관을 잃었고, 그의 죽음은 우르수스에 잠깐의 승리를 안겨줬지만… 나는 얄궂게도, 그 전쟁에서 패배한 거나 마찬가지일세.
 
-	怀表上的照片？被你看见了吗，哈哈。请看，小时候的奈音很可爱吧？现在的她可没这么文静，但她喜欢现在的自己。这就够了。{@nickname}，自由地生活下去吧，这是我平凡的愿望。
 	懐中時計の中の写真？ハハハ、見られてしまったか。これは幼き頃のネオンだ。可愛らしいだろう？今のあの子にはこの頃の淑やかさはないが、自分を愛せるように成長した。それだけで十分だ。ドクター、貴殿も自由に生きてくれ。それがこの私の、つまらない願いだ。
 	The photograph inside my pocket watch? Hahahah, so you saw it... This is Neon from when she was little. Isn't she adorable? She's not so quiet anymore, but she loves herself now, and that's all that matters... Live free, {@nickname}, that's my wish, even if it is trite.
 	회중시계 안의 사진? 하하하, 보고 말았나. 이건 어릴 적의 네온이라네. 귀엽지 않나? 지금의 그 아이에겐 이때의 단아함이 없지만, 자기 자신을 사랑할 수 있는 사람으로 성장했지. 그것만으로 충분하네. 박사, 자네도 자유롭게 살아가게나. 그게 나의 보잘것없는 소원일세.
 
-	别懈怠。在罗德岛，你要时刻保持警惕。
 	怠慢はいかん。ロドスにいるときも常に警戒を怠るな。
 	Don't lose focus. You must be alert at all times on Rhodes Island.
 	나태해지면 안 돼. 로도스 아일랜드에 있을 때도 항상 경계를 늦추지 말게.
 
-	赫拉格，一介被感染了的武夫。为了重建我的诊所“阿撒兹勒”以及保护我的家人，我愿意和罗德岛合作。事先声明，我不懂医术。
 	私はヘラグ、感染者の身ではあるが、一介の武士だ。我が診療所「アザゼル」を再建し家族を守るために、ロドスにこの身を預けよう。齟齬を生まないために言っておくが、医学には疎い。
 	Hellagur, a infected mercenary. I will work with Rhodes Island in order to rebuild my Azazel Clinic and protect my family. But be advised, I have no medical skills.
 	나는 헬라그라고 하네. 감염자의 몸이기는 하나, 일개 무사이기도 하지. 내 진료소 '아자젤'을 재건하고 가족을 지키기 위해 로도스 아일랜드에 이 몸을 맡기도록 하지. 오해하지 않도록 미리 말해두겠네만, 의학에 대해선 잘 모르네.
 
-	战场变得和过去不同了，它的残酷却从没变过。
 	過去に比べれば戦場の様子は些か変わってしまったが、その残酷さだけは変わることはない。
 	Battlefields may change, but not the cruelty.
 	과거에 비하면 전장의 상황은 조금 달라졌지만, 그 잔혹함만큼은 변하지 않는군.
 
-	军人的我对此习以为常；作为感染者的我却......感到新奇。感谢你的绶带，Dr.{@nickname}。
 	軍人としての昇進は慣れたものではあるが、感染者としては……いささか新鮮だ。ドクター、貴殿からの褒章、感謝する。
 	I'm used to it as a soldier, but I find it fascinating as an infected. Thank you for the ribbon, Dr. {@nickname}.
 	군인으로서 승진은 익숙하네만, 감염자로서는…… 조금 신선하군. 박사, 자네가 준 훈장에 감사하네.
 
-	战争不会真正结束，但我相信即使是这片大地也有它的尽头。或许有一天你能真正结束我们的痛苦，Dr.{@nickname}。来吧，向我下令！
 	戦争が真に終結することはないが、この地にもその終点がどこかにあると信じているように、いつの日か貴殿が我々の苦しみを真に終わらせてくれるかもしれん。さあ、私に命令を！
 	War will never truly be over, but I believe even this land will end eventually. Maybe you can end our suffering one day, Dr. {@nickname}. Now, give me my order!
 	전쟁이 정말로 끝나는 일은 없겠지만 이 땅에도 그 끝이 어딘가에 있을 거라 믿듯이, 언젠가 자네가 우리의 고통을 정말로 끝내줄지도 모르겠군. 자, 나에게 명령을!
 
-	只有屠夫才渴血。我们是在付出生存的代价。
 	血に飢えて戦うのは虐殺者だけだ。我々は命の対価を支払うために戦っているに過ぎん。
 	Only butchers thirst for blood. We're merely paying a price for survival.
 	피에 굶주려 싸우는 것은 학살자뿐일세. 우리는 목숨의 대가를 치르기 위해 싸우는 것에 지나지 않아.
 
-	我要用乌萨斯军人的标准要求他们。让他们服从命令！
 	ウルサスの軍規を借りて指揮をとろう。命令には服従させる！
 	I'll demand them follow orders to Ursus soldier standards!
 	우르수스 군율에 따라 지휘하겠네. 명령에는 복종시킨다!
 
-	如果能够结束这一切，赔上我的生命也无妨。
 	全てを終わらせることができるなら、この命など安いものさ。
 	I don't mind losing my life if it could end it all.
 	모든 것을 끝낼 수 있다면, 이 목숨 따윈 아무것도 아니네.
 
-	孱弱的敌人，你们没见过真正的战争。
 	この脆弱な者どもは、本物の戦争を目にしたことはないだろう。
 	You have never seen a real war, pathetic runts.
 	이 연약한 놈들은 진짜 전쟁을 본 적이 없겠지.
 
-	战斗曾是我的天职。
 	戦闘は私のかつての天職だ。
 	I was born to fight battles.
 	전투는 한때 나의 천직이었네.
 
-	生死只在一念之间。
 	生と死は紙一重だ。
 	It's a thin line between life and death.
 	생과 사는 종이 한 장 차이다.
 
-	杀死敌人只是下策。
 	敵を殺してしまうのは下策と心得ろ。
 	Killing the enemy is the last resort.
 	적을 죽여버리는 것은 졸책이라는 것을 명심하게.
 
-	我没法真正离开这里。我知道。
 	この地から真の意味で離れることはできん。私もわかっている。
 	I truly have no way of leaving here, I know.
 	이 땅에서 진정한 의미로 벗어나는 것은 불가능해. 나도 알고 있네.
 
-	以刀为鞭，可撩皮肉。
 	刀を鞭となし、肉体を打ち据える。
 	Wield blade as whip to flay flesh.
 	검을 채찍 삼아 육체를 때려눕힌다!
 
-	以鞭行枪，可断兵刃。
 	鞭を槍となし、兵刃を断つ。
 	Wield whip as spear to sunder weapons.
 	채찍을 창 삼아 무기를 꺾는다!
 
-	以枪作刀，可劈甲胄！
 	槍を刀となし、甲冑を切り裂く！
 	Wield spear as blade to slice through armor!
 	창을 검 삼아 갑주를 벤다!
 
-	“降斩”......你主人的牺牲绝非无谓。
 	「降斬」……その主の犠牲を無駄にはせん。
 	Your owner didn't sacrifice in vain, Decapitator...
 	 '쿠다리키리'…… 그 주인의 희생을 헛되이 할 수는 없다.
 
-	远离纷争的代价就是被卷入更多的纷争。
 	紛争を遠ざけるためには、さらなる紛争に身を投じるほかない。
 	The price for leaving strife behind is to be embroiled in more strife.
 	분쟁을 멀리하기 위해서는 더한 분쟁에 몸을 던지는 수밖에 없네.
 
-	别看。我去结束他们的挣扎。
 	見るな。彼らの最後の苦しみを、私が終わらせてこよう。
 	Don't look, I'm about to end their misery.
 	보지 말게. 그들의 마지막 고통을 내가 끝내고 오겠네.
 
-	不要大意，每个漏洞都会为敌人的反扑提供机会。
 	油断するな。少しの綻びが、敵に反撃の機会を与える。
 	Don't be careless. Every letdown is a chance for the enemy to turn the table.
 	방심하지 말게. 약간의 틈이 적에게 반격의 기회를 준다네.
 
-	失败并不可耻，至少你还有机会吸取教训。
 	失敗は恥ずべきことではない。少なくともそこから教訓を得ることはできるのだ。
 	Failure is not shameful since lessons can be learned.
 	실패는 부끄러워할 일이 아닐세. 적어도 거기에서 교훈을 얻을 수 있으니 말이네.
 
-	真希望给孩子们找个能挡风遮雨的地方。
 	子供たちにも雨風を凌ぐ場所を与えてやりたいものだ。
 	I truly wish to find a shelter for the children.
 	아이들에게도 비바람을 피할 곳을 주고 싶군.
 
-	嗯？
 	んん？
 	Hmm?
 	으음?
 
-	想吃点心？我这里还剩一些。小心蛀牙。
 	腹が減ったか？少し菓子が余っているから食べるといい。だが虫歯には気をつけるんだぞ。
 	You want candy? I got some left, but beware of cavities.
 	배가 고픈가? 과자가 조금 남았으니 먹게나. 하지만 충치에는 주의해야 하네.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	气色不错，博士。
 	元気にしているか、ドクター。
 	You look well, Doctor.
 	잘 지내고 있나, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】赫拉格
+	【性别】男
+	【战斗经验】四十四年
+	【出身地】乌萨斯
+	【生日】5月5日
+	【种族】黎博利
+	【身高】193cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ヘラグ
+	【性別】男
+	【戦闘経験】四十四年
+	【出身地】ウルサス
+	【誕生日】5月5日
+	【種族】リーベリ
+	【身長】193cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Hellagur
+	[Gender] Male
+	[Combat Experience] 44 years
+	[Place of Birth] Ursus
+	[Date of Birth] May 5
+	[Race] Liberi
+	[Height] 193cm
+	[Infection Status] 
+	Crystals have appeared on his body. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 헬라그
+	[성별] 남
+	[전투 경험] 44년
+	[출신지] 우르수스
+	[생일] 5월 5일
+	[종족] 리베리
+	[신장] 193cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】优良
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】卓越
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】卓越
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Excellent
+	[Physical Resilience] Standard
+	[Tactical Acumen] Excellent
+	[Combat Skills] Outstanding
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 월등
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	赫拉格，曾隶属于乌萨斯帝国近卫军，切尔诺伯格感染者地下诊所“阿撒兹勒”的现任管理者，其他相关履历缺失。拥有成熟的军事理论体系知识，战斗技巧几乎能满足绝大部分类型作战的需求。现正依合作协议长驻罗德岛，为罗德岛提供战术指挥支援。
+
+	個人履歴 :
+	チェルノボーグの感染者闇診療所「アザゼル」の管理人。かつてはウルサス帝国の近衛軍に所属していたが、その他の関連履歴は残されていない。軍事理論に精通しており、ほとんど全ての作戦要求に応じることができるほどの戦闘技術を持つ。現在は協力契約に従いロドスに長期駐在しており、戦術指揮支援を行っている。
+
+	Profile :
+	Hellagur once belonged to the Ursus Imperial Guard. He is the acting manager of 'Azazel,' an underground clinic for the Chernobog infected. All other relevant work experience has been lost. His mature knowledge of military theoretical systems and his ability in combat make him suitable for a vast majority of combat operations. He is currently in an agreement to be stationed at Rhodes Island, where he provides tactical support.
+
+	프로필 :
+	    한때 우르수스 제국 근위군 소속 군인이었다. 현재 체르노보그의 지하 감염자 진료소 '아자젤'을 관리하고 있으며, 다른 이력은 확인이 되지 않은 상태. 군사 이론 체계에 정통하며, 전투 기술은 대부분의 작전 요구 사항을 만족시킬 수 있을 정도로 뛰어나다. 현재 협력 계약에 따라 로도스 아일랜드에 장기 거주 중이며, 전술 지휘 방면의 업무를 지원하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】13%    
+	作为感染者诊所阿撒兹勒的领导人，赫拉格的感染症状十分明显。
+	
+	【血液源石结晶密度】0.21u/L 
+	浓度尚在可控范畴之内，阿撒兹勒也许确实拥有独特的技术来减缓感染蔓延的速度。
+	
+	说实话，难道会有对阿撒兹勒的医疗技术不感兴趣的人？当然，别去问将军本人，他确实完完全全不懂。
+	——医疗干员J.A
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】13%
+	感染者診療所アザゼルの管理者として、源石に接触する機会が多いからか、感染症状がはっきりと現れている。
+	
+	【血液中源石密度】0.21u/L
+	血中濃度は病状をコントロール可能な範疇にあることから、アザゼルには感染が広がる速度を遅らせる独自の技術があるのかもしれない。
+	
+	正直、アザゼルの医療技術に興味がない人なんているんでしょうか？でも将軍ご本人には聞かないでくださいよ。本当になんにもわからないですから。
+	――医療オペレーターJ.A
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of his internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in his circulatory system, confirming him to be infected with Oripathy.
+	
+	[Cell-Originium Assimilation] 13%
+	As leader of the infected clinic Azazel, Hellagur's infection symptoms are manifestly present.
+	
+	[Blood Originium-Crystal Density] 0.21u/L 
+	Concentration is currently within a manageable category. Perhaps Azazel does indeed have unique technology for slowing down the spread of infection.
+	
+	Honestly, who isn't interested in the technology Azazel uses to treat this disease? Of course, it is pointless to ask the General. He doesn't understand any of it.
+	——Medic J.A
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 13%    
+	감염자 진료소 아자젤의 리더로서, 헬라그의 감염 증상은 매우 뚜렷함.
+	
+	[혈중 오리지늄 결정 밀도] 0.21u/L 
+	농도는 아직 통제 가능한 범위 내. 어쩌면 정말 아자젤에 감염자의 병세를 둔화시킬 수 있는 특별한 기술이 있을지도 모른다.
+	
+	    솔직히 아자젤의 의료 기술에 흥미가 없는 사람이 있을까? 물론, 장군 본인에게는 물을 필요가 없다. 그는 확실히 아무것도 모르고 있으니.
+	——메딕 오퍼레이터 J.A
+
+———————————————————————————————
+
+	档案资料一 :
+	不知道从什么时候开始，罗德岛的干员们开始用“将军”称呼赫拉格。虽然赫拉格本人从未向他人透露过身份，但乌萨斯的感染者地下社群向来将他奉为传奇，这令所有干员都对那些传闻或多或少地感兴趣。
+	当然，作为阿撒兹勒的感染者，就像赫拉格本人所说，他更擅长的是让诊所得以延续，而不是发展它的医疗技术、影响力和规模。
+	事实上，赫拉格确实保证了阿撒兹勒的地位。在许多年里，阿撒兹勒一直是切尔诺伯格感染者的重要支柱，本地的感染者大多对阿撒兹勒的付出心怀感激。
+	但独善其身的准则并不能在时局最激荡的时刻保护这个诊所，毕竟他们实在是太有影响力了，无论是继续保持中立还是倒向另外一边，阿撒兹勒都将会对任何一方势力造成或有形或无形的压力。
+	倒不如说，能够从切尔诺伯格事件中全身而退，这本身就证明了赫拉格的高瞻远瞩。只是赫拉格对诊所被摧毁一事的来龙去脉似乎有着自己的看法，但他声称在找到决定性的证据之前，不会透露更多内容。
+	至少现在赫拉格依然对阿撒兹勒的一切守口如瓶，如果真想问些阿撒兹勒的情报，问其他成员可能会来得快些......
+
+	第一資料 :
+	いつからかはわからないが、ロドスのオペレーターたちはヘラグを「将軍」と呼ぶようになった。ヘラグ自身は身分を明かしたことは一度もないないが、ウルサスの感染者地下組織の間では彼はある種の伝説となっているという噂を聞き、全てのオペレーターが多かれ少なかれそれに興味を持っているからである。
+	アザゼル所属の感染者として、彼が得意なのは診療所を存続させることであって、その医療技術や影響力、規模などを発展させることではないと、ヘラグ本人は語っている。
+	何年もの間、アザゼルはずっとチェルノボーグの感染者にとって重要な支柱であり続け、地元の感染者の多くは、アザゼルの貢献に感謝している。
+	しかしその独善的な体制では、時局が最も苛烈を極めた際に診療所を守ることは叶わなかった。アザゼルはすでにとても強い影響力を持ってしまっており、中立を保ち続けるにしろ、どちらか一方の勢力に転ぶにしろ、相手方の勢力に有形無形の圧力を与えてしまうのだ。
+	その状況下において、チェルノボーグ事件からうまく身を引いたことが、ヘラグの先々を見通す力の証明なのではないだろうか。ただどうやら彼は診療所が壊された経緯に自身の見解があるようだが、決定的な証拠が見つかるまでは、多くは語らないと述べている。
+	少なくとも今のヘラグは、アザゼルに関することには依然として固く口を閉ざしている。もし本当にアザゼルの情報が欲しいなら、他のメンバーに聞いたほうが早いだろう……。
+
+	Archive File 1 :
+	It is unknown when Rhodes Island operators began referring to Hellagur as 'General.' Although Hellagur has never revealed his identity to anyone else, members of the Ursus Infected Underground have always regarded him as legendary. This has led all operators to take an interest in these rumors.
+	Of course, as an Azazel infected, Hellagur himself has said that he is more adept at helping the clinic continue its operations rather than developing its medical technology, influence, and scale.
+	In fact, Hellagur does indeed guarantee Azazel's status. For many years, Azazel has been an important pillar of support for the Chernobog infected. Most of the local infected are grateful for Azazel's efforts.
+	But maintaining a benevolent, neutral stance cannot protect this clinic in times of political turmoil. After all, they are too influential. Whether by trying to remain neutral or actively trying to topple a certain party, they inevitably put either tangible or intangible pressure on one side or the other.
+	It would be better to say that being able to escape the Chernobog incident unscathed proves that Hellagur possesses acute foresight. Hellagur has his own opinions of the chain of events that might lead to the clinic's destruction, but said he is unable to divulge more information until more definitive evidence presents itself.
+	At least for now, Hellagur is mum about everything regarding Azazel. If one wishes to ask about Azazel, it is better to ask one of the other operators...
+
+	파일 자료 1 :
+	    언제부터인지는 모르지만, 로도스 아일랜드 오퍼레이터는 헬라그를 '장군님'이라는 호칭으로 부르기 시작했다. 비록 헬라그 본인은 다른 사람에게 신분을 드러낸 적이 없지만, 우르수스의 감염자 지하 공동체는 줄곧 그를 전설로 받들었었다. 이러한 배경 때문에, 오퍼레이터들은 그 전설에 많든 적든 흥미를 느꼈다.
+	    물론 아자젤의 감염자로서, 헬라그 본인이 말했던 것처럼 그는 진료소를 지속시키는 것에 능한 것이지, 그곳의 의료 기술, 영향력, 그리고 규모를 발전시키는 데 능한 것이 아니다.
+	    실제로도 헬라그는 확실히 여러 해 동안 아자젤의 지위를 지켜주는 체르노보그 감염자들의 중요한 버팀목이었고, 현지의 대다수 감염자는 아자젤의 헌신에 감사의 마음을 품고 있다.
+	    하지만 독선적인 준칙만으로는 정세가 가장 흔들리는 시기에 이 진료소를 지킬 수는 없다. 그들의 영향력은 정말 강하기에, 계속 중립을 유지하든, 아니면 다른 한쪽으로 기울든, 아자젤은 어느 한 쪽 세력에 유형, 혹은 무형의 압박을 가하게 될 것이다. 아니 어쩌면, 체르노보그 사건 이후 완전히 철수한 것 자체가 이미 헬라그에겐 먼 미래까지 내다볼 수 있는 혜안이 있는 거라 할 수 있을 것이다.
+	    진료소가 파괴된 사건의 경위에 대해 헬라그는 자신만의 생각이 있는 것 같지만, 결정적인 증거를 찾아내기 전에는 더 많은 내용을 드러내지 않을 것이라 공언하였기에, 적어도 지금은 여전히 아자젤의 모든 것에 대해 말을 아끼고 있는 것으로 보인다. 만약 정말로 아자젤의 정보를 묻고 싶다면, 아마 헬라그가 아닌 다른 구성원에게 묻는 게 더 빠를 것이다…
+
+———————————————————————————————
+
+	档案资料二 :
+	赫拉格对乌萨斯当局抱有强烈的敌意。这种敌意一部分来自他对诊所的保护欲，另一部分则无从可知。
+	只是，虽然赫拉格不是一个失败主义者，也多次对在乌萨斯地区的行动展现出了相当强硬的态度。
+	但当他分析乌萨斯的军事实力时，他却表示，“任何一个政治实体都不应该和乌萨斯发生正面冲突。即使它的腐败和狂怒一定会摧毁它，它依然是这片大地上最恐怖的东西。”
+	从这个角度来说，赫拉格作为感染者，对于许多情势的考虑也许远比其他感染者来的沉重。
+	决策层干员都对局势有自己的考量，也都对罗德岛在整个事件中的实际境遇心知肚明。赫拉格与乌萨斯的关系也许会令少数人感到疑惑，但与会干员们已经在战略会议中了解了赫拉格的真实用意。
+	
+	赫拉格的言语间并无矛盾，他认为，只要身为感染者，就已经是站在乌萨斯的对立面——
+	
+	“只是，一旦乌萨斯真的注视你，你才会知道与乌萨斯为敌和乌萨斯与你为敌的区别。”
+
+	第二資料 :
+	ヘラグはウルサス当局に強い敵意を抱いている。この敵意の一部は診療所を守りたいと思う心から来ているのだろうが、それ以外の部分が何から来るものなのかは知る由もない。
+	ヘラグは敗北主義者ではなく、ウルサス地域での作戦行動で何度もかなり強硬な態度を見せた。
+	しかしウルサスの軍事力を分析したとき、彼は「どんな団体もウルサスと正面衝突をするべきではない。ウルサスの腐敗と狂乱が必ず自身を壊滅させるとしても、この大地で最も恐ろしいものに変わらないのだ。」と述べた。
+	この視点からすれば、感染者としてのヘラグの様々な情勢に対する考え方は、もしかしたら他の感染者よりも遥かに慎重なのかもしれない。
+	作戦方針の決定権のあるオペレーターはみな、情勢に対する自分の考えを持ち、事件におけるロドスの実際の立場も心得ている。ヘラグとウルサスの関係に疑問を持つ者はいるかもしれないが、戦略会議に参加した者たちは、彼の言葉の本当の意味を理解した。
+	
+	ヘラグの言葉には何の矛盾もない。彼の考えはこうだ。感染者であるというだけで、すでにウルサスとは対立関係にある――
+	
+	「だが、一度でもウルサスに本当に目をつけられれば、ウルサスと敵対するということと、ウルサスに敵とみなされることの違いがわかるだろう。」
+
+	Archive File 2 :
+	Hellagur maintains an intense hostility toward Ursus authorities. Part of this hatred is derived from his desire to protect the clinic, and the other part is due to reasons unknown.
+	Though Hellagur is by no means a defeatist, he still has taken a hardline attitude toward operations in the Ursus area.
+	However, when analyzing the military power of Ursus, he has said 'No political entity should come into direct conflict with Ursus. Even if its corruption and fanaticism will eventually destroy it, it's still the most fearsome force in the land.'
+	From this point of view it could be said that as an infected himself, Hellagur's opinions on many matters are far more critical than those of other infected.
+	All strategically-minded operators have their own thoughts on the situation, and they're all well aware of Rhodes Island's true circumstances in it. Hellagur's relationship with Ursus may make a small number of operators distrustful. But operators who attended the strategic meetings all understand Hellagur's true intentions.
+	
+	But Hellagur's words contain no contradictions. He believes that as an infected, he is already on Ursus's opposing side -- 
+	
+	'However, once Ursus looks at you, you will know the difference between being an enemy of Ursus, and Ursus regarding you as one.'
+
+	파일 자료 2 :
+	    헬라그는 우르수스 당국에 강한 적의를 품고 있다. 이런 적의의 일부는 진료소에 대한 보호 본능에서 비롯된 것이지만, 다른 부분은 알 길이 없다.
+	    비록 헬라그는 실패주의자는 아니지만, 그래도 우르수스 지역의 작전에서는 상당히 강경한 태도를 내보였다. 하지만 그가 우르수스의 군사 실력을 분석할 때, 그는 도리어 말했었다.
+	    "어떤 정치 세력도 우르수스와 정면충돌을 해서는 안 된다. 그것의 부패와 분노는 분명 그것을 파괴하겠지만, 그것은 여전히 이 땅에서 가장 무서운 존재다."
+	    본 발언으로 미뤄보아, 헬라그는 감염자로서 수많은 정세에 대해 다른 감염자보다 훨씬 깊은 생각을 갖고 있다는 것을 알 수 있다.
+	    의사 결정권을 갖고 있는 오퍼레이터들은 모두 현 국면에 대해 자기만의 생각을 가지고 있으며, 모두 로도스 아일랜드가 일련의 사건으로 인해 실제로 처한 위치에 대해 확실히 파악하고 있다. 헬라그와 우르수스의 관계에 대해 의심을 품은 사람은 아마 소수에 불과했겠지만, 전략 회의에 참여한 오퍼레이터들은 헬라그의 진짜 의도를 알게 되었다.
+	
+	    헬라그의 말에는 모순이 없었다. 그는 감염자가 되는 것만으로도 우르수스의 적이 되는 것이나 마찬가지라고 생각하고 있었다.
+	
+	    "우르수스가 자네를 주시하게 된다면, 그제서야 우르수스를 적으로 삼는 것과 우르수스가 자네를 적으로 삼는 것의 차이를 알게 될 걸세."
+
+———————————————————————————————
+
+	档案资料三 :
+	【权限记录】
+	在分析了大量信息和情报碎片后，我们推论出了一些事实。现在将一些心理分析放在此列，仅供人事参考。
+	
+	“他一生遭遇过两次他自己也无法理解的生离死别。
+	第一次，他看着自己多年的好友在他面前逝去，而他的好友正是敌军的指挥官、他任务的目标、以及乌萨斯所认定的敌军核心人物。
+	第二次，一场可怖的战斗在他与自己最信任的人之间展开。战斗结束后，他依然屹立，但那个人却不知所终，再无音信，如同最终死在不知名的小巷之中。
+	
+	第一次，他的好友向他托付了一把刀，‘降斩’，以及一个感染者女孩，奈音。
+	第二次，他最信任的人给他留下了一间黑市诊所，‘阿撒兹勒’，以及一个信念。
+	
+	赫拉格知道他的好友策划了乌萨斯的失败，但赫拉格他不会责怪好友。
+	赫拉格知道他最信任的孩子策动了整场背叛、伤害了所有信任诊所的感染者，但赫拉格不会仇恨这个孩子。
+	
+	他常说自己是一介武夫，也许只是因为他不知道怎么面对乌萨斯带给他的一切。
+	些许微小的希望，可能是他活下去的最后动力。”
+	
+	虽然这些总结不可避免地带有情报搜集者的个人观点，我们依然相信她对线索的组织能力。
+	我们对事件的反应只会取决于决策本身，但至少，我们可能已经知晓了将军常常因奈音小姐的出格行为而叹气的缘由。
+
+	第三資料 :
+	【権限記録】
+	大量の情報や断片的な記録の分析をしたところ、いくつかの事実が浮かび上がってきた。ここでは心理分析を一通りこの段落にまとめ、人事の参考とする。
+	
+	「彼は一生のうち二度、自身でも未だに納得のいっていない死別を経験している。
+	一度目は、長年の親友が目の前で死にゆくのを見た時だ。彼の親友は敵軍の指揮官であり、任務のターゲットであり、ウルサスが敵軍の中心人物としていた者だった。
+	二度目は、彼と彼が最も信頼している者の間で起こった恐ろしい戦いでのことだった。戦いの後、彼はまだ力強く立っていたが、相手は消息不明となり、まるで名も知らぬ小さな町で死んでいったようである。
+	
+	一度目では、親友が彼に一振りの刀『降斬』と、一人の感染者の少女・ネオンを託した。
+	二度目では、最も信頼していた者が、彼に闇診療所『アザゼル』とその信念を遺した。
+	
+	ヘラグは親友がウルサスの失脚を画策していたことを知ったが、親友を責めることはなかった。
+	ヘラグは信頼していた者が裏切りを企て、診療所を信じていた全ての感染者を傷つけたことを知ったが、その者を恨むことはなかった。
+	
+	彼はよく自分を一介の武人だと言っているが、ただウルサスが彼にもたらしたもの全てに、どう向き合えばいいのかわからないだけかもしれない。
+	わずかに残った希望が、彼が生きていく最後の原動力なのかもしれない。」
+	
+	本項には情報収集者の個人的な見解が混在しているものと思われるが、我々は彼女の手がかりに対する分析能力を信じている。
+	我々の事件への対応は決められた方針によって実施されるが、少なくとも今は、将軍がいつもネオンの突拍子な行動にため息をついている理由を察したのかもしれない。
+
+	Archive File 3 :
+	[Classified Log]
+	After analyzing a large amount of information and many pieces of intelligence, we have inferred some facts. Now we will list out some psychological analysis of the subject, for personnel reference only.
+	
+	'Over the course of his life, he has suffered two traumas that he is still struggling with.
+	The first trauma was when he watched a long-time friend pass away in front of his very eyes. His friend was the commander of the enemy army, the target of his mission, and was identified as a core figure in the enemy army by Ursus. 
+	The second trauma was when a terrible battle broke out between him and the person he trusted the most. After the battle, he was still standing, but the fate of the other person is unknown, as if he died in some unknown alley somewhere.
+	
+	The first time, his friend entrusted him with a blade called 'Kudarikiri,' and a young infected girl named Neon.
+	The second time, the person he trusted left him a black market clinic called 'Azazel,' as well as a conviction.
+	
+	Hellagur knew his friend had plotted Ursus's defeat, but Hellagur would not blame him.
+	Hellagur knew that the child he trusted had instigated the entire betrayal and injured all of the infected in the clinic, but Hellagur would not hate this child.
+	
+	He often refers to himself as a warrior. Perhaps this is because he doesn't know how to face everything Ursus has done to him.
+	Maybe a little bit of hope is the only motivation he has to keep on living.'
+	
+	Although these conclusions unavoidably contain some of the opinions of the individual who collected this intelligence, we still trust in her ability to organize clues.
+	Our response to the incident depends on the decision itself, but at the very least, we may already understand the reason why the General often merely sighs at Miss Neon's improper behavior.
+
+	파일 자료 3 :
+	[제한된 기록]
+	    대량의 소식과 조각난 정보들을 취합하여, 우리는 어떤 사실을 추론해낼 수 있었다. 여기에 심리 분석을 대입하여, 인사 참고용으로만 활용하고자 한다.
+	
+	    "그는 평생 자신조차도 이해할 수 없는 영원한 이별을 두 번 겪은 이력이 있다.
+	    첫 번째 이별은, 그의 오랜 친구가 그의 앞에서 죽어가는 걸 지켜보아야 했던 일이다. 그리고 그 친구는 바로 적군의 지휘관이었고, 그의 임무 목표이자 우르수스가 지정한 적군의 핵심 인물이었다.
+	    두 번째 이별은, 끔찍한 전투가 그와 자신이 가장 믿었던 사람 사이에서 벌어져, 전투가 끝난 후에도 그는 꿋꿋하게 서 있었지만, 자신이 가장 믿었던 그 사람은 이후 종적을 감추었다가, 그 마지막을 이름 없는 골목에서 맞이한 것이다.
+	
+	    첫 번째 이별 때, 그의 친구는 그에게 '쿠다리키리'라는 이름의 칼과 '네온'이란 이름의 감염자 여자아이를 맡겼다.
+	    두 번째 이별 때, 그가 가장 신뢰하던 사람은 그에게 '아자젤'이라 불리는 암시장의 진료소와 하나의 신념을 남겼다.
+	
+	    헬라그는 그의 친구가 우르수스의 실패를 계획했다는 걸 알았지만, 헬라그는 친구를 탓하지 않았다.
+	    헬라그는 그가 가장 신뢰하던 아이가 배신하여, 진료소를 믿었던 모든 감염자를 해쳤다는 걸 알았지만, 헬라그는 그 아이를 원망하지 않았다.
+	
+	    그는 늘 자신이 일개 무인에 불과하다고 하지만, 어쩌면 그는 우르수스가 자신에게 가져다준 모든 것을 어떻게 직면해야 할지 모를 뿐일지도 모른다.
+	    그를 살아가게 하는 마지막 원동력은, 그의 가슴 속에 작은 희망을 품는 것일지도 모른다."
+	
+	    비록 이런 결론은 정보 수집자의 개인 관점이 들어가는 걸 피할 수 없지만, 우리는 그래도 그녀의 단서 추론 능력을 믿고 있다.
+	    우리의 사건에 대한 대응은 정해진 방침에 따라 실시된다. 하지만 적어도, 이로 인해 종종 네온 양의 독특한 행동에 장군이 왜 한숨을 짓는지는 알 수 있을 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【机密档案】
+	虽然将军没有明说他的姓名，但我也一样猜得到他以前的身份。
+	青年时在四皇会战中崭露头角，壮年时在第十次乌卡战争里声名远扬，之后的数次大战里同样屡立战功，这样的乌萨斯军人并不多见。
+	而在血峰战役里明明立下军功却销声匿迹，综上所述，也就只有一位乌萨斯将领符合这种条件。
+	至于是怎么推断的，那当然是猜的！乌萨斯数十年里至少处决了上百个将领，活下来的屈指可数，点点名册就知道了吧！
+	如果是过去，我和凯尔希都会非常反对这次合作。但时局不同了，就连■■■■都觉得事情在慢慢变得棘手。
+	凯尔希认为在切尔诺伯格事件后，乌萨斯当局一定会作出疯狂的反扑，这理当通过乌萨斯的感染者社群来妥善处理。
+	我的想法就比较简单，阿撒兹勒埋得那么深，罗德岛挖走他们乌萨斯也不会有什么意见的，反正他们又不很熟。
+	手上的牌当然是越多越好了，这又不是比谁先把手牌打完。华法琳也很馋阿撒兹勒的技术，哎，就当我做个人情好了。
+	但博士完全不肯给我看赫拉格给他的著述，可恶，看一眼有什么问题，这个仇我记下了！
+	
+	不过将军他究竟在想什么呢？或者说，究竟是什么还在支撑着他？
+	自血峰战役之后，贵族和新政客不断借机削除军方势力，赫拉格能活过审判已经非常幸运，当然，这可能是他从不参政的好处，但想想看，无论是议会还是军队都不会满足现状，他们肯定会有下一步的动作。
+	阿撒兹勒的事情他也从来不肯过多透露，其中秘密也许和他实际的经历一样骇人。凯尔希是知道的，赫拉格可不是阿撒兹勒的首任管理者。
+	这事儿还没完。他的经历，他的国家，他在乎的事情，总会抓着他往下拖。到时候究竟要不要拉他一把，也许已经不是我们能决定的事情了。
+	——■■■
+
+	第四資料 :
+	【機密記録】
+	将軍は本名を明かしていませんが、彼の過去の身分には予想が付きます。
+	青年時代に四皇会戦で頭角を現し、壮年期に第十次ウルサス=カジミエーシュ戦争でその名を響かせ、その後の数度の大戦でも同様に戦功を立てた。このようなウルサスの軍人は決して多くありません。
+	そして、血峰の戦いにおいて功を立てたにも関わらず、姿をくらました。これらの事実に符合するのは、とあるウルサスの将校としか考えられません。
+	どうしてそう断言できるのかと言われましても、あくまで推測です！ウルサスはここ数十年で少なくとも百人にのぼる将校を処分しました。生き抜いているのは指で数えられるほど、名簿で確認してみればすぐわかるでしょう！
+	これまでであれば、ケルシーも私も今回の協力には絶対に反対していたでしょう。しかし今となっては状況が変わりました。■■■■でさえも厄介なことになってきていると言っています。
+	ケルシーはチェルノボーグ事変が収束した後、ウルサス当局は必ず狂ったような反撃に出るが、それに関してはウルサスの感染者組織を通して妥当に処理するべきだと考えているそうです。
+	私の考えは簡単です。アザゼルはあれほど深くに身を潜めていました。それをロドスが引き抜いても、ウルサスは何の文句も言えませんし、どのみち彼らもあまり気にしないでしょう。
+	切り札は多いに越したことはありません。誰が手札を全て切って上がるかを競っているわけではありませんから。ワルファリンもアザゼルの技術を欲しがっていましたし、まぁ義理みたいなものです。
+	ですがドクターは、ヘラグからもらった著述を全然見せてくれません。もう、少しくらい見せてくれても減るものはないでしょう。この恨みは忘れませんよ！
+	
+	それにしても、将軍は一体何を考えているんでしょうか？あるいは、一体何が彼を支えているんでしょうか？
+	血峰の戦い以降、貴族と新しい政治家は事あるごとに絶えず軍事力の削り合いをしています。ヘラグが軍事裁判で生き抜けたことは非常に幸運なことでした。恐らく彼が今まで政治に首を突っ込んでいなかったことが幸いしたのでしょう。ですが考えてみてください。議会も軍も、現状に満足することはありません。彼らは確実に次の一手を打つことでしょう。
+	彼はアザゼルのことを多く語ろうとはしません。その中にある秘密は、彼の経歴のように驚くべきものなのかもしれません。ケルシーも知っているはず、ヘラグはアザゼルの初代管理者ではないのです。
+	これだけでは終わりません。彼の経歴、彼の祖国、彼が大切にしているもの、全てが彼の足かせとなっています。来たるときに彼に手を差し伸べるべきかどうかは、既に我々が決められることではないのかもしれません。
+	――■■■
+
+	Archive File 4 :
+	[Classified File]
+	Although the General has never clearly state his name, but I have guessed his former identity.
+	He displayed outstanding talent in the decisive battle of the Four Emperors. He earned a major reputation during the Tenth Urcha War. An Ursus soldier with these kinds of achievements is rare indeed.
+	During the Bloodpeak Campaign, he established a glowing military record but then vanished without a trace. There is only one high-ranking Ursus commander that meets these conditions.
+	As for how I made the inference, well, it's just a guess! Over several decades, Ursus has executed over a hundred commanders. The few left alive can be counted on one hand. Consult a registry of names to get the answer!
+	In the past, both Kal'tsit and I would have been opposed to this cooperation. But these are different times. Even■■■■feels that the situation is getting quite thorny.
+	Kal'tsit believes that after the Chernobog Incident, the Ursus authorities will carry out a frantic counter-attack and that this should be handled through the Ursus infected community.
+	My thinking is a bit simpler. Azazel is buried so deeply that if Rhodes Island dug them out, Ursus wouldn't have much of an opinion on it. Anyway, they're not too familiar with them.
+	The more cards we have to play, the better, and it's not about who plays their cards first. Warfarin also really wants to get her hands on Azazel's technology. Just look at it as me trying to do someone a favor, all right?
+	However, the Doctor absolutely refuses to let me see Hellagur's writings! Damn it. What's wrong with taking a peek? I'm not going to forget this!
+	
+	But what exactly is the General thinking about? Or who exactly is still supporting him?
+	Since the Bloodpeak Campaign, the nobility and the new politicians have been using this opportunity to eliminate military forces. Hellagur has been very lucky to survive judgment. Of course, this may be the benefit of his never having participated in politics, but think about this: neither the army nor the politicians will be content with the current situation. They'll both have the next step planned.
+	He'll never divulge much about Azazel. Maybe its secrets are as terrifying as his experiences. Kal'tsit knows that Hellagur isn't Azazel's main leader.
+	This isn't over. His experience, his country, the things he cares about will all drag him down eventually. When the time comes, it may not be up to us whether we can lend him a hand or not.
+	——■■■
+
+	파일 자료 4 :
+	[기밀 파일]
+	    비록 장군은 그의 이름을 제대로 말하지 않았지만, 그래도 그의 이전 신분은 추측할 수 있다.
+	    젊은 시절에 사황 전쟁에서 두각을 드러내고, 제10차 우카전쟁에서 명성을 떨치고, 이후의 여러 전쟁에서도 마찬가지로 화려한 공적을 세운 우르수스 군인은 흔치 않으니까 말이다.
+	    그리고 핏봉우리 전쟁에서 군공을 세웠지만 소리 없이 자취를 감췄다는 조건까지 종합하자면, 이 조건에 부합하는 우르수스 장교는 오직 한 명 밖에 없다.
+	    어떻게 추측했냐니, 당연히 때려 맞춘 거지 않겠나! 우르수스가 수십 년 동안 최소 백여 명의 장교를 처단해 살아남은 자는 손꼽힐 정도니, 명단만 찍어보면 알 수 있지!
+	    예전같았으면 나와 켈시는 모두 이번 협력을 극구 반대했겠지만, 상황이 달라졌다. 심지어 ■■■■조차도 이번 일이 점점 골치 아파진다고 생각하고 있으니 말이다.
+	    켈시는 체르노보그 사건 후, 우르수스 당국이 반드시 정신 나간 반격을 할 것이라 생각하고 있다. 이에 관해선 당연히 우르수스의 감염자 공동체를 통해 잘 처리해야 할 것이다.
+	    나의 생각은 단순한 편이다. 아자젤의 존재가 그렇게나 깊이 '묻혀져' 있었다면, 로도스 아일랜드가 이들을 '파낸다'고 해도, 우르수스는 별 반응이 없을 것이다. 어차피 그들은 아자젤에 대해 잘 알지도 못하지 않나.
+	    수중의 패는 물론 많을수록 좋다. 하지만 이건 누가 먼저 패를 다 꺼내는지 대결하는 게 아니다. 와파린도 아자젤의 기술을 매우 탐내고 있으니, 후우… 이 부분은 그냥 내가 인심 쓰는 셈 쳐야 할 것 같다.
+	    하지만 박사는 나에게 헬라그가 그에게 저술한 걸 전혀 보여주려 하지 않는다. 젠장. 한 번 본다고 문제라도 생기나? 이 원한은 기억해둘 것이다!
+	
+	    하지만 장군은 도대체 무슨 생각을 하는 걸까? 아니면, 도대체 무엇이 그를 아직도 버티게 하는 걸까?
+	    핏봉우리 전쟁 후부터, 귀족과 새로운 정치가들은 기회를 틈타 끊임없이 군사 세력을 깎아 내고 있다. 헬라그가 심판에서 살아남은 건 정말 운이 좋았던 거라고 할 수 있다. 물론, 이건 그가 지금까지 정치에 참여하지 않은 덕분일지도 모르겠다. 하지만 생각해 봐라. 의회든, 아니면 군대든, 모두 현 상황에 만족하지 못하니, 그들은 분명 다음 동작을 취할 것이다.
+	    그는 아자젤의 일에 대해 지금까지 너무하다 싶을 정도로 정보를 공개하지 않고 있다. 그가 감추고자 하는 비밀은 어쩌면 그가 실제로 경험한 것처럼 놀라운 것일지도 모른다. 켈시는 알고 있다, 헬라그는 아자젤의 초대 관리자가 아니라는 것을…
+	    이 일은 아직 끝나지 않았다. 그의 경력, 그의 나라, 그가 신경 쓰는 것들이 언젠가 그의 발목을 붙잡을 것이다. 그리고 그때가 왔을 때 그에게 손을 내밀어 줘야 할지는, 어쩌면 이미 우리가 결정할 수 있는 일이 아닐지도 모른다.
+	——■■■
+
+———————————————————————————————
+
+	晋升记录 :
+	“为了医治她，你愿意失去什么？”
+	“除她以外的一切。”
+	“我要你的尊严，大人。乌萨斯帝国从我们身上夺走的，我们也要从你身上剥去。”
+	“我不确定我的身上还剩不剩下哪怕丁点尊严。”
+	“有的，大人。欢迎成为我们的一员。”
+
+	昇進記録 :
+	「彼女を治すために、あなたが失っても構わないものは？」
+	「彼女以外の全てだ。」
+	「ならばあなたの尊厳を頂きましょう。ウルサス帝国が我々から奪っていったものを、我々もあなたから奪います。」
+	「私に尊厳というものが残されているかも怪しいところだが。」
+	「ありますとも。仲間として歓迎します、ようこそ。」
+
+	Promotion Record :
+	'What are you willing to lose to heal her?'
+	'Everything but her.'
+	'I want your dignity, sir. Everything the Ursus Empire took from us, we're going to peel off your body.'
+	'I'm not sure my body has any dignity left.'
+	'It does, sir. Welcome. You are now one of us.'
+
+	승진 기록 :
+	    "그녀를 치료하기 위해 당신은 무엇을 희생할 수 있죠?"
+	    "그녀 외의 모든 것을 희생할 수 있네."
+	    "전 당신의 존엄이 필요합니다. 어르신, 우르수스 제국이 우리로부터 빼앗은 것을, 우리도 당신에게서 빼앗아 갈 겁니다."
+	    "나에게 아직 존엄이라는 것이 조금이라도 남아있는지는 확신하지 못하겠군."
+	    "있습니다, 어르신. 우리의 일원이 된 것을 환영합니다."

@@ -30,7 +30,7 @@
 
 [Decision(options="走！;现在不是说话的时候！",values="1;2")]
 [Decision(options="逃げろ！;今そんな事を言っている暇はない！",values="1;2")]
-[Decision(options="Let’s go!;Now’s not the time to talk!",values="1;2")]
+[Decision(options="Let's go!;Now's not the time to talk!",values="1;2")]
 [Decision(options="도망치자!;지금은 그런 말 할 때가 아니다!",values="1;2")]
 
 [name="保镖A"]   他们沿着这条路往沙滩跑了！
@@ -70,7 +70,7 @@
 
 [Decision(options="锡兰，我们先走！",values="1")]
 [Decision(options="セイロン、早く逃げるぞ！",values="1")]
-[Decision(options="Ceylon, let’s get out of here first.",values="1")]
+[Decision(options="Ceylon, let's get out of here first.",values="1")]
 [Decision(options="실론, 서둘러!",values="1")]
 
 [name="锡兰"]   等一下，哈，哈......博士，我好累......
@@ -80,7 +80,7 @@
 
 [Decision(options="终于......到了沙滩......;我也......跑不动了......",values="1;2")]
 [Decision(options="やっと……ビーチに着いた……。;自分も……もう走れない……。",values="1;2")]
-[Decision(options="We finally… made it… to the beach…;I can’t… run any longer either…",values="1;2")]
+[Decision(options="We finally... made it... to the beach...;I can't... run any longer either...",values="1;2")]
 [Decision(options="드디어…… 해변에 도착했나……;나도…… 이젠 못 뛰겠어……",values="1;2")]
 
 [name="保镖"]   大小姐，请跟我们回去吧。
@@ -145,7 +145,7 @@
 
 [name="伊芙利特"]   啧——
 [name="イフリータ"]   チェッ。
-[name="Ifrit"]   Fine…
+[name="Ifrit"]   Fine...
 [name="이프리트"]   치……
 
 [name="伊芙利特"]   那就三成！

@@ -1,11 +1,17 @@
 ID:
 	char_306_leizi
 
-干员代号\Name:
+CV:
 	惊蛰
 	レイズ
 	Leizi
 	레이즈
+
+干员代号\Name:
+	甲斐田裕子
+	甲斐田裕子
+	Yuhko Kaida
+	카이다 유코
 
 招聘合同\Character Usage:
 	来自大炎的大理寺监察司惊蛰，将与罗德岛在少数项目上进行合作。
@@ -43,177 +49,531 @@ ID:
 	초뢰
 
 语音\Voices:
-	看仔细，文书先以事项分类，再依轻重缓急时限排列，最后从近至远推进，这样处理起来最有效率！......等等，这些文书工作我似乎都不小心完成了。这似乎......是你的工作？
 	よくご覧になって。文書は、こうして内容で区分したのち、重要度、緊急度、時系列順に並び替え、そして期日が迫っているものから処理していく。これが最も効率の良い方法です！……お待ちを、我知らずこの文書仕事を片付けてしまったようです。これは……あなたの仕事ですよね？
 	Look carefully. The files are sorted by type, then time limit prioritization, then finally, by distance from nearest to farthest. This is the most efficient organization method! ...Wait, I seem to have done all the paperwork on accident. This... is supposed to be your job, right?
 	잘 보세요. 문서는 이렇게 내용으로 구분한 뒤에 중요도, 긴급도, 시계열 순으로 정렬하고, 마감이 촉박한 것부터 처리해 나갑니다. 이게 가장 효율이 높은 방법입니다! 잠깐…… 나도 모르게 문서 작업을 해치워버린 모양입니다. 이건…… 당신의 업무이지요?
 
-	我查阅过精英干员煌的所有档案，没有任何对她真名、出生地、出生时间的记录。别和我说你不知情，你明明是这里的领头人之一。真不知道？那这......如何是好。抱歉，我错怪你了。
 	エリートオペレーターであるブレイズの資料を一通り借覧いたしました。ですが彼女の本名、出身地、出生時間に関する記録は一切ありませんでした。存じ上げないとは言わせません、あなたもこちらの統率者の一人なのですから。本当にご存じない？では……どうすれば。いえ、ご容赦ください、あなたを誤解しておりました。
 	I've checked all files related to the elite Operator, Blaze, and there are no records of her real name, or place and date of birth. Don't tell me you don't know; aren't you supposed to be one of the leaders here? You really don't know? Then... nevermind. Sorry, I shouldn't have accused you.
 	정예 오퍼레이터인 블레이즈의 자료를 대강 훑어봤습니다. 하지만 그녀의 본명, 출신지, 출생 시간에 관한 기록은 전혀 없었습니다. 몰랐다는 말은 하지 마십시오. 당신도 이곳의 통솔자 중 한 명이니까요. 정말로 모른다고요? 그럼 어떻게 해야…… 아니, 용서하십시오. 당신을 오해하고 있었습니다.
 
-	不必太顾忌我。除我手上的案件外，舰上的所有事情，我一概会当作不曾发生。只不过，如果我门外的走道再发生爆炸，我就要让肇事者的头发竖上个两星期！
 	どうぞお気兼ねなく。私が関わる案件以外では、艦内における全ての事象はもとから私の眼中にないものと同じですので。ですが、私の部屋沿いの通路でまた爆発騒ぎが起これば、犯人の髪を二週間ほど逆立たせて差し上げますのでご了承を！
 	You don't need to be so cautious around me. Other than the case at hand, I'll treat everything else on the ship as if it never happened. But if there's another explosion in the hallway outside my room, I'll make the perpetrator's hair stand on end for two weeks!
 	그렇게 어려워하지 마십시오. 제가 관여하는 안건 이외에 함 내에서의 모든 일은 애초부터 제 안중에 없는 거나 마찬가지니까요. 하지만 제 방 쪽 통로에서 또 폭발 소동이 발생한다면, 범인의 머리카락을 2주 정도 거꾸로 세워 드릴 테니, 양해 부탁드리지요!
 
-	所谓“身在其位，当谋其政”，作为罗德岛的领头人之一，你的责任并不是......哎？发梢又翘起来了？稍等！容我先去、先去整理妆容！好奇怪，早上已经驱过一遍电荷了啊......
 	「其の位に在(あ)れば、.其の政(まつりごと)を謀(はか）るべし」との言葉通り、あなたもロドスの統率者の一人として、その責は決して……えっ？また髪がはねている？お待ちを！少々、少々整えて参ります！なんということ、電荷なら今朝一通り整えたはずなのに……。
 	'Assume the responsibilities for the post to which you are assigned.' As one of the leaders of Rhodes Island, is it not your duty to... Huh? My hair's standing up again? Hold on! G-give me a moment to fix my look first! Weird, I thought I had discharged all the static electricity this morning...
 	"그 지위에 있지 않으면 그 일을 도모하지 않는다"는 말대로, 당신도 로도스 아일랜드의 통솔자 중 한 명으로서 그 책임은 결코…… 네? 또 머리카락이 뻗쳤다고요? 잠시만요! 잠깐, 잠깐 정돈하고 오겠습니다! 어떻게 된 거지. 정전기라면 오늘 아침에 한번 정리하고 왔는데…….
 
-	时至今日，我也依稀能想起在龙门第一次见到你们的景象。煌，你，陈，身上都藏着无数秘密......我一定会一一揭开。秘密要相互交换？不，你，你，太早了......太早了！
 	今もなお、龍門であなたたちと出会ったときの光景をうっすらと思い浮かべることができます。ブレイズ、あなた、チェン、それぞれが無数の秘密を抱えている……いつの日か解き明かして見せましょう。秘密を明かすならお互いに？いえ、あ、あなたにはまだ早い……早すぎます！
 	Even today, I can vaguely recall the first time I saw you in Lungmen. You, Blaze, and Ch'en... are all holding onto countless secrets... and I will uncover them one by one. You're willing to exchange secrets? Wait, y-you... it's t-too early for that...!
 	지금도 용문에서 당신들과 만났을 때의 광경을 어렴풋이 떠올릴 수 있습니다. 블레이즈, 당신, 첸…… 각자 많은 비밀을 안고 있지요…… 언젠가 밝혀내 보이겠습니다. 비밀을 밝힌다면 서로? 아니, 다, 당신에게는 아직 이르……너무 이릅니다!
 
-	有事都可以问我。只有你开口问，我才能判断是非，决定自己要不要出手。顾及身份？这无关身份！御史台、大理寺、肃政院......都只是机构。有人执行时，法律才能证明自己是正义的。
 	何かあれば私にお尋ねください。あなたが自ら問うてこそ、私は是非を見極め、自身が参画すべきかを判断できるというもの。立場を気にする？これは立場とは関係ありません！御史台、大理寺、粛政院……どれもただの組織に過ぎません。法律は執行されてこそ、正義であることを証明できるのですから。
 	Ask me anything. Only when you speak up can I decide what is just and unjust, and whether I wish to take action. I need to take my identity into consideration? This has nothing to do with that! The Censorate, Central Judicial Office, and the Anti-Corruption Bureau... are only institutions. Laws can only be proven just when enforced by someone.
 	무슨 일이 있으면 저에게 질문하십시오. 당신이 스스로 물어야만 저는 시비를 가려 내가 참여해야 할지를 판단할 수 있습니다. 입장을 신경 쓴다? 이건 입장과는 관계없습니다! 어사대, 대리사, 숙정원…… 전부 그저 단체에 지나지 않습니다. 법률은 집행되어야만 비로소 정의라는 것을 증명할 수 있으니까요.
 
-	罗德岛的理念，和我的信念有冲突。但我理解求同存异的必要性......提供援助来换取信息，这点也是一样的。
 	ロドスの理念と私の信念には相容れない部分があります。ですが共通点は良しとし相違点も尊重し合うことの必要性は理解しています……助力することにより情報を得る、この点においても同じです。
 	Rhodes Island's ideals conflict with my beliefs. However, I do recognize the necessity of seeking common ground while understanding our differences... The same is true when providing assistance in exchange for information.
 	로도스 아일랜드의 이념과 나의 신념에는 맞지 않는 부분이 있습니다. 하지만 공통점은 좋은 걸로 치고, 차이점도 존중하는 것이 필요하다는 점은 이해하고 있습니다…… 조력하는 것으로 정보를 얻는다…… 이 점에 대해서도 마찬가지입니다.
 
-	无论我身在何地，我体内的电流都奔腾不息。雷电是公义的象征，它驱策着我，时时警醒着我......又有人投诉我弄坏了空调？......无礼！怎么可能！开关空调，我甚至都不用遥控器！
 	私の身がどこにあろうと、体内の電流はかくも力強く弾けております。雷電は義の象徴であり、それが私を駆り立て、いかなる時でも警鐘を鳴らしてくれるのです……ん？また私が空調を壊したと申し立てた者がいるのですか？……無礼な！事実無根です！空調を扱うのに、私はリモコンすら不要ですよ！
 	No matter where I am, the electricity flowing through my body never ceases. The thunderbolt is the symbol of justice; it drives me forward and sometimes even wakes me up at night... Someone is complaining that I broke the AC unit? ...How rude! How is that possible?! I don't even need to use a remote for the AC, let alone touch it!
 	제 몸이 어디에 있든, 체내의 전류는 이처럼 강하게 튀고 있습니다. 뇌전은 의(義)의 상징이며, 그것이 저를 바로 세워 어떠한 때에도 경종을 울려줍니다…… 음? 또 제가 에어컨을 망가트렸다고 말씀드린 자가 있습니까? …… 무례하군요! 사실무근입니다! 에어컨을 다룰 때 전 리모컨도 필요 없다고요!
 
-	煌的身上牵扯着一桩大案。所有线索都已经遭人刻意消灭，但单单几个身份和时间点的巧合，都足以令我怀疑起各个事件间的联系。这件事情与你无关，但你该防患于未然。我只能警告你到这一步了。
 	ブレイズの身には大きな事案が関わっていると見ています。全ての証拠は意図的に抹消されていますが、いくつかの身分と時間軸の一致だけでも、一連の事件の関係性を疑うに足るものです。あなたは事件とは無関係ですが、事を未然に防ぐべきです。警告はここまでにしておきましょう。
 	Blaze was implicated in a major incident. All the clues have purposely been eliminated, but I have my doubts about the way the facts of the case are connected based upon a few coincidences between certain persons and times. This has nothing to do with you, but you should take adequate precautions. All I can do is offer you a fair warning.
 	블레이즈에겐 큰 사건이 얽혀있다고 보고 있습니다. 모든 증거는 의도적으로 말소되어 있지만, 몇 가지 신분과 시간축의 일치만으로도 일련의 사건의 관련성을 의심하기엔 충분합니다. 당신은 사건과는 관계가 없지만 사건을 미연에 방지해야 합니다. 경고는 여기까지 해 두지요.
 
-	竟然连自己的身体状态都掌控不好......太懈怠了！趴在这里睡觉，难道还等着我给你盖上毯子吗？......没下次了。
 	自らの身体すら律することができないとは……だらしない！こんなところで眠りこけるとは、まさか私に毛布をかけさせるつもりですか？……はぁ、次はありませんよ。
 	You can't even properly manage your physical condition... how slovenly! Look at you sprawled out like this... Were you waiting for me to put a blanket over you or something? ...There won't be a next time.
 	자기 몸 하나 제대로 가누지 못하다니…… 한심하군! 이런 데서 잠이 들다니, 설마 내가 담요를 덮어주게 할 셈입니까? 하아…… 다음은 없습니다.
 
-	我已经同贵司签订了搜查协议，不必多虑，这完全是个人行为。如果你想，可以称呼我，惊蛰。问我是谁？忘了在哪见过我？什么？！
 	貴社と捜査協定を結ばせていただきました。あくまで私個人としての行動ですので、どうか邪推のなきよう。もし呼び名が必要であれば、私のことをレイズと呼べばよいでしょう。私は誰、ですと？どこで会ったか忘れた？なんですって！？
 	I've signed obtained an investigation authorization with your company. Don't worry about it, this is purely over personal matters. If you so wish, you may call me Leizi. Who am I? Have we met before? Are you serious?!
 	귀사와 조사 협정을 맺었습니다. 어디까지나 개인으로서의 행동이므로, 부디 그릇된 추측은 하지 말아 주시지요. 만약 호칭이 필요하다면 저를 레이즈라고 부르면 됩니다. 제가 누구냐고요? 어디서 만났는지 잊었다니?! 뭐라고요?!
 
-	原来如此，和练兵的思路完全不同。
 	なるほど、練兵の考え方とは全く異なるのですね。
 	I see, this is a completely different principle from military training.
 	그렇군요, 군사훈련의 사고방식과는 전혀 다르군요.
 
-	晋升？是说......升迁？罗德岛的升迁流程，和普通的民间企业似乎不太一样。
 	昇進？ああ……栄転ということですね？ロドスの栄転のプロセスは普通の民間企業とはいささか異なるようですね。
 	Elite status? Is this... a promotion? The promotion process at Rhodes Island seems to differ from that of ordinary private companies...
 	승진? 아아…… 영전이라는 것이지요? 로도스 아일랜드의 영전 프로세스는 보통의 민간 기업과는 조금 다른 모양이군요.
 
-	我，惊蛰，身负雷法和律法，是大炎的手与眼、理与义。我的理念和罗德岛的并不相同，感染者与普通人的隔阂，我也无心跨过。但现在，我可与你并肩对敌！
 	このレイズ、雷法と律法をこの身に負い、炎国の手と眼、そして理と義を体現せし者。私の理念はロドスと異なるものであり、感染者と健常者との隔たりなど、私の気に留めることでもありません。ですが今は、あなたと共に戦わせていただきます！
 	I, Leizi, am the bearer of the thunder and the law, the vision and reach of Great Yan. My philosophy does not align with that of Rhodes Island, and I have no intention on bridging the gap between the Infected and non-Infected. However, we can now fight side by side against our enemies!
 	이 레이즈, 뇌법과 율법을 이 몸에 지고, 염국의 손과 눈, 그리고 이(理)와 의(義)를 체현한 자. 저의 이념은 로도스 아일랜드와 다르며, 감염자와 건강한 사람과의 차이 따위, 제 마음에 두어야 할 일도 아닙니다. 하지만 지금은, 당신과 함께 싸우겠습니다!
 
-	罗德岛的究竟有几分实力，我只信自己双眼见证。
 	ロドスの方の実力を、この双眸で見定めさせていただきます。
 	With my own eyes, I shall judge what power Rhodes Island possesses.
 	로도스 아일랜드 분들의 실력을, 이 두 눈으로 확인하겠습니다.
 
-	可以，不过，有代价。
 	いいでしょう。ただし、対価を頂戴いたします。
 	I can do that, yes, albeit at a price.
 	좋습니다. 단, 대가를 받겠습니다.
 
-	听我号令！
 	私の指示に従ってください！
 	Heed my orders!
 	나의 지시에 따라 주십시오!
 
-	我对敌人的身份没有兴趣。
 	敵の身分には興味がありませんが。
 	I have no interest in the identity of my enemies.
 	적의 신분에는 흥미가 없습니다만.
 
-	就位。
 	位置につきました。
 	In place.
 	위치에 도착했습니다.
 
-	未尝不可。
 	良しとしましょう。
 	It may be done.
 	안될 것도 없지요.
 
-	好，我知道了。
 	わかりました。
 	Very well, understood.
 	알겠습니다.
 
-	听！雷声隆隆！
 	雷轟（らいごう）を聞きなさい。
 	Harken! The thunder rumbles!
 	천둥소리를 들으십시오!
 
-	五正霆威，起！
 	五正霆威（ごせいていい）、来い！
 	Rise, thunder of the five elements!
 	오정정위, 와라!
 
-	有罪无赦，五雷轰顶！
 	罪に裁きを。五雷轟頂（ごらいごうちょう）！
 	No forgiveness unto sinners! Retribution of thunder!
 	죄에 심판을. 오뇌굉정!
 
-	一气白雷正法，纵贯方圆三化！
 	一気白雷正法（いっきびゃくらいせいほう）、縦貫方円三化（じゅうかんほうえんさんか）！
 	Through the three thunders is justice governed!
 	일기백뇌정법, 종관방원삼화!
 
-	雷法的本质......是我的内在和大地化为一体。
 	雷法の本質は……己が内面と大地を一体化するところにある。
 	The essence of Lei Fa... is my will becoming one with Terra.
 	뇌법의 본질은…… 내가 내면과 대지를 일체화하는 것에 있다.
 
-	做的不错。你可以稍稍自豪一下，我的标准是很高的。
 	良くできました。少しは胸を張っても誰も咎めません、私の基準は厳しいですから。
 	Well done. As my standards are quite high, you should be proud of yourself.
 	잘했습니다. 조금은 당당해지셔도 누가 뭐라 안 합니다. 저의 기준은 엄격하니까요.
 
-	不行。你能做得比现在更好！你一定有这种能力，决不能自满！
 	まだまだです。あなたなら素質もありますし、今よりもっとできるはずです。決して現状に満足してはいけませんよ！
 	Unacceptable. You can do even better! Do not rest upon your laurels - you have the ability to strive for greater heights!
 	아직 멀었습니다. 당신이라면 소질도 있고, 지금보다 더해낼 수 있을 겁니다. 결코 현재 상황에 만족해서는 안 됩니다!
 
-	怎么回事，怎么回事？怎么回事？
 	どういうこと？え、一体どういうことなの！
 	Impossible, what happened? How can this be?
 	어떻게 된 거야? 어? 대체 어떻게 된 거야!
 
-	耻辱......！你，走！回去反省！我会抵挡所有敌人，走！
 	何たる屈辱……！行きなさい！あなたは戻って猛省しておきなさい！私が敵を全て食い止めますから、もう行きなさい！
 	Shameful...! Begone, you! Go back and reflect! I will hold back the enemies, so just go!
 	이 무슨 굴욕……! 가세요! 당신은 돌아가서 깊이 반성하십시오! 제가 적을 모두 붙잡아둘 테니까, 어서 가세요!
 
-	充电插口在哪？
 	充電用のコンセントはどちらに？
 	Where's the power outlet?
 	충전용 콘센트는 어디에 있죠?
 
-	休得无礼！
 	無礼な行動は慎みなさい！
 	How rude!
 	무례한 행동은 삼가세요!
 
-	啊......疼吗？要小心我身上的电流。
 	あっ……大丈夫ですか？私の電流には気をつけてください。
 	Oh... did that hurt? Please be careful of the static electricity around me.
 	앗…… 괜찮으세요? 제 전류에 조심하여 주십시오.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	勿要懈怠，博士。
 	怠慢は禁物です、ドクター殿。
 	Don't slack off, Doctor.
 	태만은 금물입니다, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】惊蛰
+	【性别】女
+	【战斗经验】五年
+	【出身地】炎
+	【生日】3月5日
+	【种族】麒麟
+	【身高】171cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】レイズ
+	【性別】女
+	【戦闘経験】五年
+	【出身地】炎国
+	【誕生日】3月5日
+	【種族】麒麟
+	【身長】171cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Leizi
+	[Gender] Female
+	[Combat Experience] Five Years
+	[Place of Birth] Yen
+	[Date of Birth] Mar 5
+	[Race] Kylin
+	[Height] 171cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 레이즈
+	[성별] 여
+	[전투경험] 5년
+	[출신지] 염
+	[생일] 3월 5일
+	[종족] 기린
+	[신장] 171cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】优良
+	【源石技艺适应性】卓越
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】卓越
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Excellent
+	[Physical Resilience] Standard
+	[Tactical Acumen] Excellent
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Exceptional
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 월등
+
+———————————————————————————————
+
+	客观履历 :
+	惊蛰，炎国大理寺所属官员，与罗德岛签署搜查协议后暂居于罗德岛。身具久经训练的战斗技巧与独特的源石技艺，在歼灭战、阵地战中表现优异，但因其身份特殊、动机暧昧，建议在交流中采用被动不合作态度。
+
+	個人履歴 :
+	炎国大理寺に所属している官僚。ロドスと捜査契約を結んだ後、しばらくロドスに滞在している。鍛え上げられた戦闘技術と独特なアーツ能力を持ち合わせており、殲滅戦や陣地戦では鮮やかな戦いぶりを見せる。しかし、身分が特殊な上に動機も不明であるため、彼女との交流中は被動的かつ慎重な態度をとる必要がある。
+
+	Profile :
+	Leizi, an official from Yan's Central Judicial Office, is temporarily residing in Rhodes Island after signing an investigation agreement. Well-trained in combat skills and possessing unique Originium Arts, Leizi excels in annihilation battles and positional warfare. However, because of her noteworthy background and ambiguous motives, it is recommended to err on the side of a passive, non-cooperative tone when communicating with her.
+
+	프로필 :
+	    수사 협력 체결 후 로도스 아일랜드에 임시 체류 중인 염국 대리사 소속 공무원. 오랜 훈련으로 갈고닦은 전투 기술과 독특한 오리지늄 아츠 능력을 보유하고 있으며, 섬멸전과 진지전에서 특히 뛰어난 모습을 보여준다. 하지만 그녀의 특수한 신분과 수상한 동기를 고려하여, 교류 시엔 수동적이고 비협조적인 태도를 유지하길 권장한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，受验人员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	很明显，没啥问题。
+	
+	【血液源石结晶密度】0.11u/L
+	指数很低，一看就不太碰源石多发环境。
+	
+	我说，我们给她做这个干嘛？难不成她要住这儿？疯了吧？
+	——医疗干员嘉维尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	明らかに何の問題もない。
+	
+	【血液中源石密度】0.11u/L
+	数値が低いため、源石との接触は少なそうだ。
+	
+	おい、何故こいつに検査するんだ？まさかここに住み着くつもり？正気か？
+	——医療オペレーターガヴィル
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Leizi shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.11u/L
+	Her indices are very low.
+	
+	Having that said, what are we even doing for her? Is she going to live here? Are you crazy?
+	--Gaviel, Medic Operator
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 판단된다.
+	
+	[체세포와 오리지늄 융합률] 0%
+	아무 문제없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.14u/L
+	굉장히 낮은 수치를 보여주며, 한눈에 봐도 오리지늄과 접촉이 드물었다는 것을 알 수 있음.
+	
+	
+	    "저기, 왜 우리가 그 여자를 검사하는 거야? 설마 여기서 산다는 얘긴 아니겠지? 미친 거 아냐?"
+	——메딕 오퍼레이터 가비알
+
+———————————————————————————————
+
+	档案资料一 :
+	【源石技艺概览】
+	“雷法”，是在炎国流传的一种操作电现象的源石技艺。许多种成体系的源石技艺都有相应的传承系统，莱塔尼亚用乐章表现，萨卡兹人通过仪式引领，各个术师公会协会不断钻研各式理论，实际上都是为了将源石技艺的理论与实践成果传递下去。雷法作为炎国的传统源石技艺之一，相较于其它源石技艺，有着更深厚的官方背景以及更古老的神秘学基础，对使用者也有着相当苛刻的身份、体质要求。它的传承逐渐演变成了一种庄严、肃穆的权力交接。雷法被赋予的源石技艺之外的意义，包括权力的隐形立场、约定俗成的执法象征，甚至还有关个人的修养与精神层面的飞升。至于传闻中物理层面的所谓“超凡入圣”......只能说，作为一个非炎国文化圈的源石技艺研究者，我必须对一些记载持保留态度。
+	显而易见的，惊蛰对于自己使用的这种源石技艺，抱有相当的自尊、自傲。
+	
+	
+	不知道为什么，据有些干员说，当她使用非常强大的源石技艺时，头发会变得柔顺。太值得投入精力去研究了......
+	——术师干员R.V.R
+	
+	究竟是哪里值得投入精力啊......
+	——术师干员12F
+
+	第一資料 :
+	【アーツ概要】
+	「雷法」とは、炎国で伝わる電気を操るアーツの一種である。研究され続けているアーツの多くには、相応の伝承システムがある——例えばリターニア人は楽章で、サルカズ人は儀式でそれを表現する。アーツの理論と実用的な成果を後世に伝えるため、各術師協会やギルドはそんな研究を続けている。「雷法」は炎国の伝統的アーツとして、他のアーツより深い背景や、古い神秘学による基礎がある。また使用者の身分や体質にも厳しい条件があるため、雷法の伝承は次第にある種の厳かな権力引継に変わっていった。権力の象徴、司法の代表、そして個人の素養及び精神の昇華など——雷法はアーツ以上の意味を持ち合わせている。とは言え、雷法の使用者が物理的に「神の域に達する」という噂に関しては、非炎国文化圏の一アーツ研究者である私からの意見は控える。
+	また、目に明らかだが、レイズは自身のアーツに相当な誇りを持っているようである。
+	
+	なぜかわからないけど、一部のオペレーターによると、彼女が強力なアーツを使う時、髪は柔らかくなるんだって。これは詳しい研究が必要だね……
+	——術師オペレーターR.V.R
+	
+	そんな必要はどこにあるのですか……
+	——術師オペレーター12F
+
+	Archive File 1 :
+	[Originium Arts Overview] 'Lei Fa' is a technique spreading through Yan that focuses on the manipulation of electricity. Many mature schools of Originium Arts share similar methods of inheritance - for example, Leithanians use movements, the Sarkaz lead through ceremonies, and various guilds of Arts practitioners conduct research, all for the purpose of passing down the theoretical and practical components of Originium Arts. As one of the traditional Originium Arts originating from Yan, Lei Fa has a deeper history than most other forms of Arts. As a system shrouded in mysticism, the requirements for practitioners of Lei Fa are also restrictive and physically demanding. Its inheritance system gradually evolved into a solemn ritual of sorts, much like the passage of power. The end result was that Lei Fa tacitly became synonymous with the position of power, subsuming the popular symbol of law enforcement, and even becoming a form of self-cultivation in the quest for spiritual transcendence. As for rumors of the physical basis of 'transcendence,' I can only say that as an Originium Arts researcher outside of Yan's cultural circles... I must harbor a healthy amount of skepticism.
+	Obviously, Leizi exhibits a degree of pride for the Arts she uses.
+	According to some officials, when she taps into her powerful Originium Arts, her hair will become very smooth. Though I don't know why, I can scarcely imagine anything more worth investigating...
+	--R.V.R., Caster Operator
+	
+	I must question your priorities...
+	--12F, Caster Operator
+
+	파일 자료 1 :
+	[오리지늄 아츠 개요]
+	    '뇌법'은 염국 전통의 전기 현상을 다루는 오리지늄 아츠다. 체계를 갖춘 많은 오리지늄 아츠는 그에 상응하는 전승 체계를 갖추고 있다. 라이타니아가 음악으로 표현하는 것이나 살카즈인이 의식을 통해 주도하는 것, 그리고 각각의 캐스터 길드 협회가 끊임없이 각종 이론을 연구하는 것 역시, 모두 오리지늄 아츠의 이론과 실천적 성과를 전승하기 위한 것이다. 뇌법은 염국의 전통 오리지늄 아츠의 하나로서, 다른 오리지늄 아츠와 비교해 보다 든든한 공식적 배경과 오래된 신비학적 기초를 보유하고 있으며, 사용자에게 상당한 수준의 신분과 체질을 요구한다. 뇌법의 전승은 점차 장엄하고 엄숙한, 권력 승계의 일종으로 변해왔다. 뇌법은 오리지늄 아츠를 부여받는다는 의미 외에도 권력의 숨겨진 입장과 관습적인 집법의 상징을 포함하고 있으며, 심지어 개인의 수양 및 정신적 측면의 비약과도 관련이 있다. 들리는 소문에 의하면 물리적인 측면으로는 소위 '신의 경지'에 이를 수 있다고 하는데… 나는 비 염국 문화권의 오리지늄 아츠 연구자의 입장에서, 이 기록들에 대해 유보하는 태도를 지닐 수밖에 없다.
+	    확실히 눈에 띄는 점은, 레이즈가 자신이 사용하는 오리지늄 아츠에 대해 상당한 자부심과 오만함을 갖고 있다는 것이다.
+	
+	
+	어째서인지는 모르지만, 몇몇 오퍼레이터들의 말에 따르면 그녀가 굉장히 강력한 오리지늄 아츠를 사용할 때는 머릿결이 부드러워진다고 한다. 이건 분명 공들여 연구할 가치가 있을 것이다……
+	——캐스터 오퍼레이터 R.V.R.
+	
+	대체 그 점의 어디가 공들여 연구할 가치가 있다는 겁니까……
+	——캐스터 오퍼레이터 12F
+
+———————————————————————————————
+
+	档案资料二 :
+	【第一份记录】
+	惊蛰的官方背景足以令整个罗德岛寝食难安。坦言之，罗德岛之所以能够在混乱的城邦争斗中生存，除去工作的保密性、商业的必要性之外，客观上的政治中立性是必不可少的。平衡各个城邦的所得，与部分政府代表进行商谈与利益交换，这些行为对于罗德岛而言虽然有其必要，却也越少越好。而一个帝国的政府官员，无论职位高低，只要出现在罗德岛舰船上，就是一件非常危险的事情。她居然还要求长期驻舰。这事儿绝对不成。
+
+	第二資料 :
+	【一回目の記録】
+	レイズの素性は、ロドス全体を不安の渦に沈めるのに十分である。はっきり言えば、ロドスが混沌とした都市間の争いで生き抜くためには、業務の機密性やビジネスの必要性の他、客観的な政治的中立性は不可欠である。ロドスとしては、各都市の間に利益のバランスをとり、一部の政府代表と商談し、利益を交渉するなどの行為は必要でありながら、極力避けるべきことでもある。地位の高低に関係なく、一国の政府官僚がロドスの艦内に現れた時点で危険の種になる。ましてや長期滞在を要求するなんてもってのほかだ。
+
+	Archive File 2 :
+	[First Record] Leizi's official background is enough to keep the entirety of Rhodes Island awake at night. To be honest, the whole reason Rhodes Island is able to survive the tempestuous conflicts among various city-states is that in addition to the confidentiality and necessity of our line of work, maintaining political neutrality is essential. This is accomplished by balancing the benefits afforded to different city-states, negotiating with government representatives, and trading favors - and although these actions are necessary for the survival of Rhodes Island, the less we have to do, the better. An empire's government officials appearing on board Rhodes Island's ship, regardless of their position or rank, is almost always a dangerous matter. The fact that she even requested a long-term stay cannot possibly spell out good news for us.
+
+	파일 자료 2 :
+	[첫 번째 기록]
+	    레이즈의 공식적인 배경은 로도스 아일랜드 전체를 걱정에 빠뜨리기에 충분했다. 솔직히 말해 로도스 아일랜드가 혼란한 도시 투쟁 속에서 살아남을 수 있었던 가장 큰 이유는, 그 작업의 기밀성과 상업적 필요성 외에도 객관적인 정치 중립성에 있다. 각 도시의 소득 균형을 맞추고, 몇몇 정부 대표와 상담 및 이익 교환을 하는 것은 분명 로도스 아일랜드에게 필요한 행위이긴 하지만, 그것들은 적으면 적을수록 좋은 일들이다. 그러니 그 지위가 높고 낮고에 상관없이 제국의 정부 공무원이 로도스 아일랜드 선상에 나타난다는 건, 굉장히 위험한 사건이다. 게다가 그녀는 장기 체류를 요구하고 있으니, 절대 안 될 일이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	【第四份记录】
+	杜宾突然和我说惊蛰其实已经在船上呆了三个月了。我心情平静，如同一个坐在没法拆解且三秒后就会爆炸威力足以毁掉半座城市的定时炸弹上女儿刚刚出走哥伦比亚的乌萨斯绝症军警。
+	不公开某些干员的身份是冷处理，向全舰隐瞒就根本是在胡闹。纸是包不住火的，不管是谁下的决定，这肯定是步臭棋。
+	一个经过多年严格训练，动机不明的大国政法工作者正在舰内走来走去......送葬人好歹是有问必答不会说谎，这个女人你饿她三天她都不会开口自己究竟有什么目的，怎么办啊。
+	什么，她居然还申请参与小队行动？还被批准了？！
+	唉，胃好痛，好想从人事部辞职回家。
+	没想到杜宾居然一脸抱歉地向我赔笑。算了，这女人居然还有这么笑的时候，真有意思。
+
+	第三資料 :
+	【四回目の記録】
+	レイズがロドスに既に三ヶ月も滞在しているという事実をドーベルマンから告げられた私だが、気持ちは非常に落ち着いているのだ。まるで残り三秒で爆発する解体不可能な、都市の半分を吹き飛ばすほどの威力を持つ時限爆弾の上に座り、娘のクルビアへの家出を許してしまい、なおかつ不治の病を患っているウルサス軍警のようだ。
+	オペレーターの身元を明かさないのは理解できるが、艦内全員に彼女のことを伏せるなんて単なる自殺行為である。秘密はいずれ暴かれる。誰がこの決断を下したのかは知らないが、これは間違いなく悪手である。
+	長期訓練を受けた、動機不明な大国官僚が艦内を歩き回っているなんて......イグゼキュターなら質問に対して包み隠さず話してくれるが、この女性の場合、三日間ご飯抜きにされても、目的について口を割らないだろう。どうしたものか。
+	何？彼女が作戦への参加を申請した？しかも承認された！？
+	はぁ、胃が痛い。人事部を辞めて、故郷に帰りたい。
+	意外なことに、ドーベルマンは私に詫びの愛想笑いを見せた。まあよしとしよう。あの人にあんな笑顔ができるなんて、なかなか興味深い話だ。
+
+	Archive File 3 :
+	[Fourth Record]
+	Dobermann suddenly told me that Leizi had actually already been on board for three months. I took the news calmly, about as calmly as a someone trying to disarm a time bomb that would explode and take out half of the entire city in just three seconds being told that their daughter had just run away from Columbia's terminally ill Ursusian military police.
+	Not disclosing an operator's background is just ignoring the problem, but hiding it from the entire ship is just ludicrous. No amount of paper can contain a fire, and no matter who made this decision, this is definitely a bad move.
+	Someone with years of intensive training, representing a major political playmaker, is now walking around freely on the ship... The grim reaper would not lie to you when asked why it has come, but this woman would not leak a hint of why she's here even if starved for three days. What are we supposed to do?
+	What?! She even applied to join an operational squad? And it was approved?!
+	Ughh... My stomach hurts and I want to resign from the HR Department and go home.
+	Dobermann's smiling at me with a look of resignation on her face. Whatever, how odd that a she can smile like that at a time like this.
+
+	파일 자료 3 :
+	[네 번째 기록]
+	    도베르만이 갑자기 "사실 레이즈가 승선한지는 이미 석 달이 지났다"고 내게 말했을 때, 그 말을 들은 내 마음은 마치 조금전 딸을 컬럼비아로 보내고서, 도시 절반을 날려버릴 수 있는 해체 불가능한 시한폭탄 위에 앉아 3초 후 있을 폭발을 기다리는 우르수스 불치병 헌병처럼 평온했다.
+	    몇몇 오퍼레이터의 신분을 공개하지 않는 것은 냉정히 고려해야 할 일이나, 함선 내 전체 인원에게 감춘다는 건 터무니 없는 소리다. 종이로 불을 감쌀 수 없듯, 사실은 반드시 드러나게 마련이다. 누가 결정했는지는 몰라도, 이건 정말 최악의 수가 확실하다.
+	    다년간의 엄격한 훈련을 거치고, 동기가 불분명한 대국의 정치 법률 관계자가 로도스 아일랜드를 돌아다니고 있다니…… 이그제큐터는 거짓말을 전혀 못하는 성격이라 그렇다고 쳐도, 이 여자는 3일을 굶겨도 대체 무슨 목적을 갖고 있는지 전혀 말을 하지 않으니…… 이걸 어떻게 하면 좋을지……
+	    뭐야, 그 여자가 소대 작전 참가 신청을 했다고? 그게 또 허가가 났다고?!
+	    아오 속 쓰려… 인사부고 뭐고 다 때려치우고 집에 가고 싶다……
+	    설마 도베르만이 미안하다 하면서 웃어줄 줄이야. 그건 그렇고, 그 여자도 그렇게 웃을 때가 있긴 있나보네. 재미있단 말이지. 
+
+———————————————————————————————
+
+	档案资料四 :
+	【第六份记录】
+	我们很幸运。
+	有的干员，比如斯卡蒂或者闪灵，实际上是根本不在乎这件事。她们专注于自己的目标，对大多数更现实的考量充耳不闻，这对工作开展来说实际上是好事。
+	有的虽然在乎，却也把这件事咽进了肚子。比如干员安赛尔，他支支吾吾地好几次想向我打听，却还是忍住没说，留下些点心就离开了。好奇心和责任感在他们身上有着良好的平衡。
+	又或者是完全对这件事没有概念，我上次看见干员蛇屠箱迷路走到了惊蛰宿舍门口，竟然和惊蛰一起吃了晚餐又被惊蛰送回A区，而干员蛇屠箱唯一记住的事情是那天她们吃了四样菜，有汤，惊蛰人很好，完。
+	还有的就是可能已经被拴在一根绳上，号称打死也不会说的那种。昨天煌被我抓到值班时开小差，虽说这回是休息性的文职值班，煌这时候一般也只会在座位上补觉，但她居然跑去资料库和那个总是被她投诉电击她的惊蛰一起研读卷宗，一旁站着的阿米娅还给她们打保票一边嘴上道歉一边把我推出了门。还微笑着和我挥挥手。
+	我们中肯定有人脑子进了水，现在我有点开始怀疑那个人其实是我。不过，这说明惊蛰除了收集资料，以及像她说的那样，“和当事人搞好关系”以外，确实没做其他事情，同时也切实对外界隐瞒了自己的行踪。
+	一开始我把她的驻舰申请当成说辞，确实不对，是我失误。只怪搞好关系这种说法也太令人起疑了。
+	奇怪。隐瞒和掩藏成了信任的一种表达方式，视而不见和一起正常生活竟然都成了真。
+	幸运的是，这些大国目前还看不上罗德岛。这种忽视已经救了我们好几次了。
+	当然，带着官方身份来做间谍实在是太蠢了，这导致有些人忽视了这种可能。我们不能排除这个可能性，保密工作和信息控制依然要做好。
+	
+	说实在话，她很好，她不是我们的干员，很可惜。
+	我其实能推测到她之前身上发生了什么事情，也难怪她状态有些不对。
+	也许现在，只有她那头根本没几个人见过的金流雷发和她那个语气还能证明她的身份，我想，她应该为了这件案子自我放逐了。
+	在任何地方，铁面无私都是会付出些代价的。要是一头扎进这种案子，就是把自己的前途全赔进去。不过，想想也是，如果是大理寺，应该不缺这种人吧？
+	
+	我佩服她一个人出走的勇气和执着，哪怕她偶尔摆摆架子我也能接受。
+	她接下来要吃的苦、要走的路，可能连她自己都没想过吧。不，她大抵是想过的，但她还是这么做了。
+	有的人可能觉得，管案子好公义的人嘛，大家都懂的。只是惊蛰这人，认定是错的就立刻道歉，认定是对的就绝不松口，这种人呢，你是永远不可能叫她永远低头的。到死也不可能啊。
+	
+	美中不足的是她对感染者的态度，看来，这不是短期内能改变的事情。
+	但我相信，朝夕相处，总有一天她也能理解感染者的处境，因为她毕竟也需要我们的帮助。听说惊蛰在炎国指的是一个时间，或者是一个季节......之类，征兆是春天的第一声响雷。春雷啊，就该打破这一整个冬天的沉默。
+	如果我还没被夜烟暗索这些三天两头觊觎惊蛰她随身财物的人气死的话，我会看好她的。
+
+	第四資料 :
+	【六回目の記録】
+	我々はとても幸運である。
+	一部のオペレーター、例えばスカジやシャイニングなどは、この件をまったく気にしていないようだ。彼女たちは自身の目標に集中しており、より現実的な問題にはほとんど見向きもしない。実際、このような姿勢は業務の展開には有益である。
+	一部の者は彼女のことが気になるが、詮索しないよう我慢している。例えばアンセル。彼は何度か私に尋ねる素振りを見せたが、結果やはり何も言わず、おやつだけを置いて帰ったのだった。このような者には、好奇心と責任感の均衡が保たれていると言えよう。
+	また、この件について全く認識できない者もいる。先日私の目撃したことだが、レイズの部屋に迷い込んだクオーラが、意外にも彼女と共に夕食をとり、そしてエリアAまで送ってもらったのである。しかしクオーラの記憶に残っていることはといえば、「スープ込で四つの料理を食べた」と「レイズはとてもいい人」の二点だけだった。
+	残りの者は、既に彼女に取り込まれており、秘密を厳守すると言い張るのだ。例えば昨日、実質休養も兼ねた書類関連の当直だったブレイズがサボっていたのだが、いつものように席で居眠りするのではなく、彼女は資料室まで行き、いつも彼女を感電させるあのレイズと共にファイルを調べていたのだ。隣に立っていたアーミヤも彼女たちの行動に問題はないと主張し、謝りながら私をドアの外へ押し出し、笑顔で手まで振ってくれたのである。
+	我々の中に、きっと頭が狂った者がいるのだ。今となって、それが私自身ではないかと疑い始めている。とはいえこれは、レイズは情報収集と彼女曰く「関係者と良好な関係を築く」以外なにもしていない証拠とも言え、彼女は外部では行方をくらましていることになっている。
+	初めは私は彼女の艦内滞在申請を言い訳として見ていたが、これは私の判断ミスだった。「良好な関係を築く」などという曖昧な言い方に引っかかったのだ。
+	不思議なものだが、隠蔽と隠し事はある種の信頼表現となり、波風立てずに共同生活することも当たり前になってしまった。
+	幸い、あのような大国からすれば、ロドスはまだ眼中にないようだ。そのような「無関心」のおかげで我々は何度も無事にやり過ごしたのだ。
+	仮に国家を代表する身分を明かしながらスパイ行為を働いているとすれば、それは愚の骨頂であるが、だからこそ人は油断するのだ。その可能性を排除できない以上、情報と機密管理は依然としてしっかり行わなければならない。
+	
+	事実上、彼女は優秀な人材であるため、ロドスのオペレーターになれないのは残念である。
+	これまでに彼女の身に起きたことについては予想がつくため、彼女の様子が若干おかしいことにも納得がいく。
+	今彼女の身元を証明できるのは、目にしたことのある者がほぼいないあの雷が走る金髪と話し方だけかもしれない。私の推測では、彼女はあの事件のために自らを追放したのだろう。
+	どこにおいても、公正で容赦がない人ほど、自分を追い詰めてしまう。あんな事件に首を突っ込むのは、自らの将来を棒に振ることを意味する。しかし考えてみれば、大理寺においては、あの類の者は珍しくないのではないだろうか？
+	
+	あの一人で出走する勇気と執着心には感心したものだ。たまに偉い態度をされても気にしないほどに。
+	彼女が進もうとしているのは茨の道。それについては彼女自身も深く考えていないだろう。というより、考えたことはあるが、それでもこの道を選んたのだろう。
+	事件解決や正義を果たすことにこだわる人はそういうものだと考える者もいるだろう。ただ彼女は過ちに気づけばすぐさま謝り、正しいことには自分の主張を貫こうとするような人間だ。このような者を屈服させるは至難のわざだ。
+	
+	唯一玉に瑕なのは、感染者に対する彼女の態度だ。こればかりは短時間で改善できるものではないようだ。
+	それでも、彼女が我々の助けを必要とする限り、感染者との共同生活が続いていけば、いずれ彼女は感染者の立場を理解するようになると信じたい。炎国では、彼女の名前はある時期、または季節に由来するとされているらしく、春に最初に轟く雷がその兆しだという。春雷とは、冬の沈黙を破るものだ。
+	とにかく、ヘイズやロープのような彼女の個人財産を狙う者に我慢ならなくなるまでは、彼女のことにはきっちり気を配るとしよう。
+
+	Archive File 4 :
+	[Sixth Record]
+	We consider ourselves lucky.
+	Some Operators, such as Skadi or Shining, don't seem to care at all about this issue. The fact that they can focus on their goals and practically ignore all the rest of the background noise is good for their work.
+	Some others are concerned, but are just keeping silent about the matter. For example, Ansel brought up the issue several times, but decided against it each time and left after dropping off some snacks. They've struck a good balance between curiosity and their sense of responsibility.
+	Or, they simply don't know anything about it. I once witnessed Cuora getting lost and ending up in front of Leizi's dorm, only to have dinner with her before being sent back to Block A. Cuora will recount how they had four main dishes that night as well as a soup, concluding that Leizi is a very nice person, end of story.
+	Yet another type is those who have already been bound up and silenced, not even uttering a word about the matter even if tortured. Yesterday, I caught Blaze slacking off while I was on duty. Even though this time it was basically just bureaucratic busywork, and Blaze tends to use this time to get some rest and relaxation, she actually ran over to the intelligence room to go over files with the person who complains most often about her work ethic - Leizi. Amiya, who was standing at the doorway, even vouched for them before apologizing to me and pushing me out. She still had that faint smile as she waved me goodbye.
+	Some of us are definitely going crazy, and I've begun to suspect that it's actually me. Having that said, this proves that in addition to gathering data, Leizi has a vested interest in 'maintaining amicable relationships with her targets.' While it's true that she hasn't done anything yet, she also has been concealing her whereabouts from the rest of the world.
+	At first, I interpreted her application for long-term board as a form of rhetoric. In that regard, I admit I was in the wrong. It's just that to write this whole thing off as 'improving relationships' is far too suspicious.
+	How ironic. Concealment and deceit have turned into a method of expressing trust, and turning a blind eye in order to coexist together has become the new norm.
+	Fortunately, the great powers have not turned their gaze upon Rhodes Island just yet, a neglect which has already saved us several times.
+	Of course, if she was trying to spy on us, it would be stupid to walk in with an official state-sponsored identity. But that is precisely why we cannot rule out the possibility, and must do our best to maintain confidentiality and control the information going out.
+	
+	To be honest, she is very good at her job. A pity that she is not one of our Operators.
+	I can actually make some inferences about what happened to her before, and it's entirely understandable why she seems to be in a rather odd state.
+	Perhaps now, the only proof of her true self is that tone of voice, and her golden locks that flow like electricity. I believe that she is in a self-imposed exile as a result of this case.
+	No matter where you are, there is a price to be paid for being selfless. If you fully dive into this cause, you will also give up your future. However, now that I think about it, surely the Central Judicial Office has no shortage of such personnel?
+	
+	I admire her courage and perseverance fleeing here by herself. That would be a reason to shelter her even if she didn't pull her weight.
+	The hardships that she must endure from here on out, and the path that she must take, may yet be unknown to her still. No, I'm sure she knows full well, but simply has chosen not to act upon it.
+	Some people believe that those who work in the judiciary have a strong moral compass, and everyone can see that on display. In Leizi's case, she readily apologizes if she is wrong, and never toots her horn when she is right. You will never be able to get someone like her to stop bowing her head. It's a part of who she is.
+	
+	Despite her many virtues, a glaring blemish is her attitude towards the Infected. By the looks of things, this is not something that can be changed in a short time.
+	However, just as day and night eventually blend together, I trust that a day will come when she understands the plight of the Infected. After all, she needs our help as well. I heard that Leizi spoke of a certain time in Yan, or a certain season... something involving the spring's first roar of thunder. The spring thunder is supposed to penetrate the darkness of the long winter.
+	I'll look after her, provided I don't get pissed off to all hell by those who are keenly interested in her personal belongings, like Haze and Rope.
+
+	파일 자료 4 :
+	[여섯 번째 기록]
+	    우리는 정말 운이 좋다. 스카디나 샤이닝같은 몇몇 오퍼레이터는 사실 이 일에 대해 전혀 신경 쓰지 않고 있기 때문이다. 이들은 평소 자신의 목표에만 전념하며 다른 일에는 전혀 관심이 없다보니, 우리가 업무를 추진하고 처리하는 데에 있어선 오히려 다행이었다.
+	    몇몇은 신경을 쓰고 있긴 하겠지만, 이 일에 관해서는 입을 다물고 있다. 오퍼레이터 안셀만 보아도, 그는 몇 번이나 우물쭈물 거리며 내게 물어보려 했지만 결국 입을 떼지 못한 채 간식만 남겨놓고 자리를 떠났다. 호기심과 책임감이 적절한 균형을 이루고 있는 것이라 할 수 있겠다.
+	    이 일에 대해 아무런 생각이 없는 경우도 있다. 지난번에 길을 잃은 오퍼레이터 쿠오라는 레이즈의 숙소 입구로 가게 됐는데, 나는 레이즈가 쿠오라와 함께 저녁을 먹은 후 그녀를 A구역까지 데려다 주는 모습을 보았다. 이에 대해 오퍼레이터 쿠오라가 기억하는 건, 그 날 식사엔 총 네 가지 반찬과 국이 있었고, 레이즈는 좋은 사람이었다는 사실밖에 없었다.
+	    곧 죽어도 말을 안하는 경우도 있다. 어제 블레이즈는 당직을 설 때 농땡이를 피우다 내게 걸렸는데, 평소 블레이즈는 아무리 명목상의 당직이라곤 해도 늘 자리를 지키며 모자란 잠을 보충하곤 했었으나, 어쩐 일인지 평소 그녀에게 전기 공격을 날리던 레이즈와 함께 자료실에서 서류를 보고 있었고, 곁에 서 있던 아미야는 자신이 보증할 테니 미안하지만 나가달라고 하고 있었다. 그리고 미소를 지으며 손까지 흔들어주는 게 아닌가.
+	    우리 중에 분명 머리에 뇌 대신 우동 사리가 차 있는 녀석이 있는 게 분명한데, 이젠 사실 우동 사리가 차 있던 건 내가 아니었을까 하는 의심마저 들고 있다. 하지만 레이즈가 자료 수집 및 그녀가 말하는 '당사자와 친하게 지내기' 이외에 다른 일을 하지 않는다는 건, 그녀가 자신의 행적을 철저히 은폐시켰다는 말이기도 하다.
+	    처음에 나는 그녀의 장기 체류 신청을 구실로 삼았는데, 확실히 그건 나의 실수였다. 사이좋게 지낸다는 것만으로도 사람들의 의심을 살 수 있기 때문이다.
+	    이젠 숨기고 감추는 게 믿음을 표현하는 방식의 하나가 되어버리고, 보고도 못 본척하며 같이 일상 생활을 하는 것이 당연한 일이 되어버리다니... 싸늘한 느낌을 지울 수가 없다... 
+	    다행인 점은 그 대국이 지금 로도스 아일랜드를 신경 쓰지 않고 있다는 점이다. 오히려 그런 무시가, 우리를 여러 번 구한 셈인 것이다.
+	    물론 공식적인 신분으로 스파이가 된다는 것은 너무 바보 같은 짓이므로, 몇몇 사람들은 그런 가능성을 무시하고 있지만, 그래도 우리는 혹시 모를 가능성에 대비하여 보안과 정보 통제를 철저히 해야 할 것이다.
+	
+	    사실 난 그녀가 이전에 무슨 일을 겪었는지 추측할 수 있었기에, 그녀의 상태가 조금 이상하더라도 나무랄 순 없었다. 솔직히 그녀는 우리 오퍼레이터가 아닌 게 안타까울 정도로 괜찮은 사람이다.
+	    어쩌면 지금 그녀의 신분을 증명할 수 있는 건 본 사람이 몇 명 되지 않는다는 금빛 번개가 흐르는 머리카락과 말투뿐일지도 모른다. 그리고 나는 그녀가 이 사건을 위해 나에게서 떨어지려 한다고 생각한다.
+	    어떤 곳에서든, 공평무사함은 대가를 치워야 하기 마련이다. 이런 사건에 뛰어든다는 건, 바로 자신의 미래를 걸고 뛰어들겠다는 말이다. 그런데 생각해보니, 대리사에 그런 사람이 부족할 리 없겠지?
+	
+	    나는 그녀 혼자서 떠난 용기와 집념에 감탄했기에, 가끔 그녀가 거드름 피우는 것 정도는 받아줄 수 있다. 이후 그녀가 받을 고통과 걸어가야 할 길은 그녀 자신조차 생각지 못한 것이겠지. 아니, 그녀는 대략적으로나마 생각했겠지만, 여전히 그렇게 하고 있다.
+	    다들 알다시피, 어떤 사람들은 레이즈처럼 사건을 다루는 사람을 공정하고 의로운 사람이라 생각하는 경향이 있다. 그리고 레이즈는 잘못한 것에 대해선 즉시 사과하고, 옳은 일에 대해선 절대 쉽게 그 뜻을 꺾지 않는 사람이다. 이런 사람들은 절대 굴복시킬 수 없다. 설사 죽는다 할지라도.
+	
+	    옥에 티가 하나 있다면, 그건 바로 감염자에 대한 그녀의 태도인데, 아마 이건 단기간 내에 고칠 수 없을 것 같다. 하지만 함께 지내다 보면 언젠가는 그녀도 감염자의 처지를 이해할 수 있을 거라 믿는다. 그녀는 어쨌든 우리의 도움이 필요할 테니. 듣자하니 '레이즈'라는 말은 염국에서 어느 시간이나 계절… 같은 것을 가리키는 말이라고 하며, 풀이하자면 봄을 예고하는 천둥소리 같은 뜻이라고 한다. 겨울의 침묵을 깨는 봄의 천둥 말이다.
+	    만약 내가 헤이즈나 로프처럼 하루가 멀다 하고 레이즈의 물건을 노리는 녀석들 때문에 화병으로 죽지 않는 한, 레이즈는 내가 잘 지켜봐야겠다.
+
+———————————————————————————————
+
+	晋升记录 :
+	“究竟是什么事？”
+	“四场血案四个时代，三个孩童三条线索，两大家族两个派系，一个时间一个主谋，没有后续没有结果。”
+	“**，你在说什么，听起来那么唬人，我一个字没听懂。”
+	“从我手上的记载来看，你和他确实是同年同日同月生的。”
+	“又能怎样，你证明得了什么？你是要说，你就因为这事儿才被罚下来的？”
+	“你父亲是第三桩无头案。”
+	“......把你知道的都告诉我。全部。快。”
+	“说话归说话，别拧我手腕！......不说别的，你也要把你知道的，全都告诉我。你是那个时候生下来的孩子里，我唯一能接触到的了。”
+
+	昇進記録 :
+	「一体どういうこと？」
+	「四件の殺人に四つの時代。三人の子供に三つの手がかり。二大家族に二つの派閥。一つの時刻に一人の首謀者。続きも結果も何もありませんでした。」
+	「**、何言ってんの？すごそうに聞こえるけど、なんにもわからないよ。」
+	「私が把握してる情報によると、あなたの生年月日は彼と同じのはずです。」
+	「それがどうしたの？何を証明できるって言うの？もしかして君が処分をくらった原因はこれなの？」
+	「あなたの父親は、三つ目の事件関係者ですから。」
+	「……君の知ってることを全部話して。全部ね。早く。」
+	「話しますから、腕を掴むのはやめなさい！……それと、あなたにも知っている全てを教えていただきましょう。あの時生まれた子供の中で、唯一私が接触できるのはあなただけですから。」
+
+	Promotion Record :
+	'What the hell is this?'
+	'Four bloody murders and four eras, three children and three clues, two clans and two factions, one master at one time, no outcomes and no consequences.'
+	'**, what is this pretentious load of bull? I can't make sense of a single word.'
+	'From the records I have on hand, I see that you two both share the same date of birth.'
+	'So what? Can you prove anything? Are you saying that you were convicted over this thing?'
+	'Your father was the third bloody murder.'
+	'...Tell me what you know. Everything. Hurry.'
+	'Spit it out, don't try to fool me! ...Get to the point. Tell me everything that you know. You are the only one of the children born during that time that I have access to.'
+
+	승진 기록 :
+	    "대체 무슨 일이야?"
+	    "네 건의 살인 사건과 네 개의 시대, 세 명의 아이들과 세 개의 단서, 두 가족과 두 파벌, 한 시간과 한 명의 주모자, 이어지는 게 없으면 결말도 없어."
+	    "**, 뭔 소릴 하는 거야, 누구 겁주는 것도 아니고… 한 마디도 못 알아듣겠네."
+	    "내 기록에 따르면 너는 그와 같은 해, 같은 달, 같은 날에 태어났더군."
+	    "어쩌라는 거야, 뭘 증명하고 싶은 건데? 그 일 때문에 처벌받았다 이거야?"
+	    "네 아버지는 세 번째 미제 사건과 연관되어있지."
+	    "…알고 싶은 걸 말해. 전부. 어서."
+	    "해줄 말은 하겠는데, 내 팔에서 손 떼시지! …다른 말은 하지 않겠어. 너도 네가 알고 있는 걸 전부 말해야 할 거야. 넌 그때 살아남은 아이들 중에서 내가 접촉할 수 있는 유일한 사람이거든."

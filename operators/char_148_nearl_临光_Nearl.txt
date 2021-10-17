@@ -1,11 +1,17 @@
 ID:
 	char_148_nearl
 
-干员代号\Name:
+CV:
 	临光
 	ニアール
 	Nearl
 	니어
+
+干员代号\Name:
+	佐仓绫音
+	佐倉綾音
+	Ayane Sakura
+	사쿠라 아야네
 
 招聘合同\Character Usage:
 	前卡西米尔骑士临光，将是防御与治疗并重的战场核心。
@@ -48,177 +54,395 @@ ID:
 	응급 모드
 
 语音\Voices:
-	很高兴见到您，博士，愿光明护佑您。
 	ご機嫌麗しゅうドクター。あなたに光のご加護があらんことを。
 	Salutations, Doctor. May the light be with you.
 	안녕하신가, 박사. 그대에게 빛의 가호가 함께하기를.
 
-	我希望被分配到最危险的战场，这样，我和我的盾才能保护每一位战友。
 	最も危険な場所への配属を志願する。この盾と私が、皆を守る。
 	I request you send me to the most dangerous place available. My shield shall protect everyone.
 	가장 위험한 곳으로 배치해줬으면 한다. 이 방패와 내가, 모두를 지키겠어.
 
-	“骑士”的称号理应是荣耀的象征，却不知曾几何时，它已经被当成了商品......
 	「騎士」の称号とは誇りの象徴であろう。それがいつの間にか商売の道具に成り下がるとは……
 	The title of 'Knight' should be a symbol of honor. And yet now, it's been reduced to a mere commodity...
 	 '기사'라는 칭호는 명예의 상징이지. 그게 언제부턴가 돈벌이를 위한 수단으로 전락해버리고 말 줄은… 
 
-	只要光仍在指引我，残忍便不能使我屈服，暴虐也不能让我屈膝。
 	どんな残虐非道にも決して屈しない。光の導きがある限り。
 	As long as the light continues to guide me, I will not bow before cruelty nor kneel before violence.
 	어떤 잔악무도한 적에게도 굴복하지 않겠다. 빛의 인도가 함께하는 한.
 
-	非常感谢你，博士。
 	ドクターにはいつも感謝している。
 	I'm grateful as always for your service, Doctor.
 	박사에게는 항상 감사하고 있다.
 
-	卡西米尔的骑士精神，本应是这片大地上苦难者的救星，但现在的它，已经彻底沦落为被资本肆意操弄的腐朽遗产。没有比这更耻辱的了。
 	カジミエーシュの騎士道精神は、苦しむ者たちに救いの手を差し伸べるために生まれたものだ……しかし今となっては、上層部の資金繰りの道具へと成り下がってしまった。これ以上の屈辱はない。
 	The Kazimierzian chivalric spirit should have been the force of salvation for all who suffer in this world. But now, it's nothing more than a rotten legacy, used to the advantage of the rich. Nothing can be more shameful than that.
 	카시미어의 기사도 정신은 고통받는 자들에게 구원의 손길을 내밀기 위해 생겨난 것이다… 하지만, 지금은 상부의 자금 조달을 위한 도구로 전락해버렸지. 치욕스럽기 짝이 없다.
 
-	闪灵也是引导我前进的光芒。是的，她背负着我一直追寻的希望。
 	シャイニング……彼女は私を導く光……そして私が追い求める希望だ。
 	Shining, too, is a beam of light that guides me forward. She carries the hope that I've always been seeking.
 	샤이닝… 그녀는 날 인도하는 빛이자… 내가 추구하는 희망이다.
 
-	当闪灵听到罗德岛这一名字，她似乎动摇了，我却不知道她动摇的理由。
 	ロドスという名を聞いたとき、何故かシャイニングは動揺していた……だがその理由はわからない。
 	Something flickered in Shining's eyes when she heard the name Rhodes Island. I had no idea what it meant...
 	로도스 아일랜드라는 이름을 들었을 때, 어째선지 샤이닝은 동요하고 있더군… 하지만 그 이유는 잘 모르겠다.
 
-	这被矿石病侵袭的时代，将会为罗德岛的希望之光所照耀。
 	鉱石病に侵されたこの時代に、ロドスが希望の光とならんことを。
 	In this time and age where the world is plagued by Oripathy, may the ray of hope from Rhodes Island light the way.
 	광석병에 잠식되어 버린 이 시대에, 로도스 아일랜드가 희망의 빛이 되기를.
 
-	稍稍，享受下这短暂的休憩吧。
 	束の間の安らぎを……。
 	Let us embrace this momentary respite.
 	잠깐 동안의 평온함을… 
 
-	玛嘉烈·临光，卡西米尔耀骑士......不，就让我作为一名罗德岛干员，用这面盾牌捍卫您的生命、您的荣耀。
 	マーガレット・ニアール。カジミエーシュの騎士……ではなく、ロドスのオペレーターとして、あなたの誇りと命を、この盾に誓って護ろう。
 	Margaret Nearl, Kazimierzian Knight... nay, Rhodes Island Operator. I will defend your life and your honor with my shield.
 	마가렛 니어. 카시미어 빛의 기사… 가 아니라, 로도스 아일랜드의 오퍼레이터로서, 그대의 긍지와 목숨을 지킬 것을 이 방패에 맹세한다.
 
-	感谢您给予我力量。
 	力を与えてくれたこと、感謝する。
 	Thank you for granting me power.
 	힘을 준 것에 감사한다.
 
-	感谢你，博士。我的力量为拯救苦难而存在，是的，无论如何，我都会铭记于心。
 	感謝する、ドクター。いついかなる時も、この力は苦しむ者を救うためのものであると、肝に銘じよう。
 	Thank you, Doctor. These new powers shall bring relief to those who suffer. This I shall engrave upon my heart.
 	고맙다, 박사. 언제 어느 때나 이 힘은 고통받는 자를 구하기 위한 것이란걸, 마음속 깊이 새겨두도록 하지.
 
-	闪灵曾说过，黎明还很遥远。但我相信总有一天，我们会亲手拾取那些逝去已久的荣光。
 	夜明けはまだ遠いとシャイニングは言うが、いつか必ず失われた栄光を取り戻せると、私は信じている。
 	Shining once said that dawn is still far away. But I believe that, one day, we will revive the dying glory with our very own hands.
 	새벽이 밝아오려면 아직 멀었다고 샤이닝이 그랬지만, 언젠간 반드시 잃어버린 영광을 되찾아 올 거라고, 난 믿고 있다.
 
-	一切伤害，都由我来阻挡。
 	全ての害悪は私が振り払おう。
 	I shall protect them from all harm.
 	모든 해약은 내가 물리치겠다.
 
-	绝不辱没罗德岛之名。
 	ロドスの名に恥じぬ戦いを。
 	I shall not blemish Rhodes Island's name.
 	로도스 아일랜드의 이름에 부끄럽지 않을 전투를.
 
-	准备妥当了，出发。
 	準備完了。出立する。
 	I am ready. Departing!
 	준비 완료. 출발하겠다.
 
-	荣耀必须被捍卫。
 	その誇り、守るために。
 	Honor must be defended.
 	그 긍지를 지키기 위하여.
 
-	以您的名义。
 	その名に誓って。
 	In your name.
 	그 이름에 맹세하노니.
 
-	我将为您竭尽全力。
 	この力、あなたのために尽くそう。
 	I shall do everything within my power for you.
 	이 힘, 당신을 위해 쓰겠다.
 
-	我来掩护。
 	援護する。
 	I shall cover you!
 	엄호하겠다.
 
-	请躲在我身后。
 	私の後ろへ。
 	Get behind me!
 	내 뒤에 서라.
 
-	光。
 	光あれ。
 	For light!
 	빛이 있으라.
 
-	我在。
 	私がついている。
 	I'm with you!
 	내가 곁에 있다.
 
-	别担心。
 	心配無用だ。
 	Don't be afraid.
 	걱정할 것 없다.
 
-	复苏吧。
 	目覚めよ。
 	Revitalize!
 	깨어나라.
 
-	真正的骑士决不屈服于暴力，在这把战锤面前忏悔吧。
 	真の騎士は決して暴力に屈しない。この裁きの鉄槌の前に、おのが行いを悔いるがいい。
 	A true knight will not bend to the threat of violence. Now, repent for your sins, in front of my warhammer.
 	진정한 기사는 결코 폭력에 굴하지 않는다. 이 심판의 철퇴 앞에 자신의 행동을 뉘우치도록 해라.
 
-	向前迈进吧，总有一天，我们可以......
 	この歩み、進めてゆけば……いつか必ず……。
 	Let's go forward. One day, we will—
 	이 한 걸음, 계속해서 나아가면… 언젠가는 반드시… 
 
-	真正的骑士不会追击失去战意的人，无论什么样的人，都应该给予他们重新选择的机会。
 	真の騎士は、敗者をどこまでも追い詰めたりはしない。どんな人間にも悔い改める機会は与えられるべきだ。
 	A true knight will not chase after one who's lost their will to fight. Everyone deserves a chance to choose their life path once more.
 	진정한 기사는 패자를 끝까지 쫓지 않는 법. 그 어떤 인간이라도 뉘우칠 기회는 주어져야 하니.
 
-	别在这里放弃。
 	 ……ここで諦めてはいけない。
 	We must not give up now.
 	…여기서 포기해선 안 된다.
 
-	随便走走就好了。
 	ここでは見回り役を買って出よう。
 	I shall keep watch here.
 	여기선 내가 순찰을 맡도록 하지.
 
-	有敌人......呃，博士？
 	敵の様子がっ……ドクター？
 	I sense an intru- Oh, Doctor?!
 	적의 모습이…! 박사인가?
 
-	博士，那个......咳，我可以进来吗？听说您的办公室里，收藏了大量的书籍。
 	ドクター、その……コホン、執務室に入らせてはもらえないだろうか？大量の蔵書があると聞いているので。
 	Doctor, umm... may I enter your office? I've heard you have a vast collection of literature.
 	박사, 그게… 어흠, 집무실에 들여보내 주겠나? 책이 아주 많다고 들었다.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士。
 	いい朝だな、ドクター。
 	Good morning to you, Doctor.
 	좋은 아침이군, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】临光
+	【性别】女
+	【战斗经验】五年
+	【出身地】卡西米尔
+	【生日】4月23日
+	【种族】库兰塔
+	【身高】171cm
+	【矿石病感染情况】
+	参照医学检测报告，干员应为感染者。
+
+	基礎情報 :
+	【コードネーム】ニアール
+	【性別】女
+	【戦闘経験】五年
+	【出身地】カジミエーシュ
+	【誕生日】4月23日
+	【種族】クランタ
+	【身長】171cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者と推定される。
+
+	Basic Info :
+	[Code Name] Nearl 
+	[Gender] Female 
+	[Combat Experience] 5 years 
+	[Place of Birth] Kazimierz 
+	[Date of Birth] Apr. 23 
+	[Race] Kuranta 
+	[Height] 171cm 
+	[Infection Status] 
+	Infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 니어
+	[성별] 여
+	[전투 경험] 5년
+	[출신지] 카시미어
+	[생일] 4월 23일
+	[종족] 쿠란타
+	[신장] 171cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】优良 
+	【生理耐受】优良 
+	【战术规划】优良 
+	【战斗技巧】优良 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】優秀
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Excellent 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 우수
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	临光，前卡西米尔耀骑士，感染者援助团体“使徒”的一员。在掩护己方队员、机动作战、歼灭战与开阔地带作战中体现出极高的战斗技巧和个人军事素养。
+	现于罗德岛作为重装干员行动，并于现场提供战术指挥支援。
+
+	個人履歴 :
+	ニアールはカジミエーシュの元騎士。感染者援助団体「使徒」の一人。味方への援護、機動作戦、殲滅戦、そして広闊地域における作戦などにおいては、高い戦闘スキルと潜在的な軍人としての素質を持っている。
+	現在ロドスの重装オペレーターとして、現場で戦術指揮支援を行う。
+
+	Profile :
+	Nearl, once known as the Radiant Knight of Kazimierz, is a member of the Infected support group, 'Followers.' She has demonstrated remarkable combat techniques and military discipline, whether it's covering allies, mobile warfare, all-out assault or field battle. 
+	Currently a heavy-weapon Operator for Rhodes Island and provides command and combat support in person.
+
+	프로필 :
+	    감염자 구호 단체 '사도'의 일원으로, 과거 카시미어의 기사로 활약했었다. 아군 엄호, 기동작전, 섬멸전은 물론 개활지에서의 작전에서도 상당한 전투 기술과 군사 지식을 자랑하는 니어는, 현재 로도스 아일랜드에서 디펜더로 활약하며 작전 현장에서의 전술 지휘 지원을 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	临光的体检情况由医疗部门保管，请不用担心，如果有需要，可以查阅相关文件。
+	——医疗干员闪灵
+
+	健康診断 :
+	ご心配ありません、ニアールさんの健康診断書は医療チームにて保管されています。必要であれば、関係資料をご覧ください……。
+	—— 医療オペレーター・シャイニング
+
+	Clinical Analysis :
+	Don't worry, the Medical Department will monitor Nearl's physical condition. Records are available for review if necessary.
+	—Medic Operator Shining
+
+	임상 진단 분석 :
+	    니어의 신체 검사 결과는 의료부가 보관하고 있으니, 걱정하지 마시기 바랍니다. 필요하시다면, 관련 문서 열람이 가능합니다.
+	——메딕 오퍼레이터 샤이닝
+
+———————————————————————————————
+
+	档案资料一 :
+	临光之所以被称作耀骑士，并不仅仅因为这是她的封号，同样也不限于对她高尚品行与强大力量的肯定。 
+	临光的称号与她所使用的某种源石技艺息息相关，临光的战锤同样也是她的魔杖。临光使用源石技艺时，往往伴随有明显的发光现象。通过释放神秘的源石技艺，临光能够在战场上治疗自己的同伴，鼓舞他们继续战斗。 
+	负责评定的术师干员推测，这种源石技艺还存在着更为复杂的运用形式，而至今为止，此推测尚未被证实。
+
+	第一資料 :
+	ニアールが耀騎士と呼ばれているのは、彼女の肩書きからだけではなく、その立派な人柄や強い力が認められているからだけでもない。
+	実はこの称号は、彼女の使うアーツにも関係があり、彼女の鉄槌でありスタッフでもある武器に由来する。彼女はアーツを使うとき、いつも強い光を放つ。このような神秘的なアーツを通し、彼女は戦場で仲間を治療し、士気を鼓舞することができる。
+	評価担当者である術師オペレーターの推測によると、このアーツには更に複雑な運用方法が存在するということだが、未だに実証されていない。
+
+	Archive File 1 :
+	Nearl's title as the Radiant Knight is more than just a title, or even an accolade earned for her noble character and mighty prowess. 
+	The title relates directly to her Originium Arts. Her warhammer also doubles as her staff. She is known to radiate light when she uses her Arts. Through her power, Nearl can heal allies and inspire them to keep battling. 
+	The Caster evaluator has surmised there are other manifestations and applications for her power, a theory yet to be proven so far.
+
+	파일 자료 1 :
+	    니어가 '빛의 기사'라고 불리는 것은 단지 그녀의 칭호 때문도, 고상한 품행이나 강력한 힘 때문도 아니라, 그녀가 사용하는 모종의 오리지늄 아츠와 연관이 있다. 니어는 마법 지팡이기도한 워해머를 사용하여 강한 빛을 내뿜을 수 있는데, 이 신비로운 오리지늄 아츠로 니어는 전장에서 자신의 동료를 치료할 수 있고, 그들이 계속해서 싸울 수 있도록 기운을 북돋을 수도 있다. 평가를 담당한 캐스터 오퍼레이터의 이런 종류의 오리지늄 아츠에는 복잡한 운용 방식이 존재할 것이라 추측하였지만, 아직 증명된 것은 없다.
+
+———————————————————————————————
+
+	档案资料二 :
+	临光，来自卡西米尔，曾经是卡西米尔骑士阶层的一员，她曾激烈地反对过卡西米尔骑士竞技赛的商业化进程，同一时间却因某场意外而感染了矿石病，在巨大的压力影响之下，临光被迫离开了卡西米尔。 
+	可以想见，这一事件极大地改变了这位骑士的命运。 
+	在来到罗德岛之前，流浪的临光与日后同样加入了罗德岛的萨卡兹族医师——闪灵与夜莺——偶然相遇，并一同结伴而行。她们成立了感染者援助团体“使徒”，行走各地，四处医治感染者，直到她们正式加入罗德岛，主动承担了更大的责任为止。
+
+	第二資料 :
+	ニアールはカジミエーシュ出身、かつては騎士階級に名を連ねていた。カジミエーシュ騎士競技大会のビジネス化に激しく反対していたが、同時期に不慮の事故で鉱石病に感染してしまい、巨大な圧力の影響を受けてカジミエーシュから離れざるをえなかった。
+	この事件が原因で彼女の運命が大きく変わった。
+	ロドスに来る前まで転々としていたニアールは、後に彼女と共にロドスに加入することとなるサルカズ族の医者、シャイニングとナイチンゲールと偶然出会い、一緒に行動することになった。彼女らは感染者援助団体「使徒」を立ち上げ、各地を駆け回り感染者の治療をしていた。その後彼女らは正式にロドスに加入し、自ら進んでより重い責任を背負った。
+
+	Archive File 2 :
+	Nearl was once a knight of Kazimierz, and as such she opposed the commercialization of knightly jousting in that city. It was also when she accidentally contracted Oripathy and subsequently forced to leave Kazimierz under tremendous pressure. 
+	The incident greatly changed her fate. 
+	Before arriving at Rhodes Island, the wandering Nearl had a chance meeting with the Sarkaz healers who would eventually also join the island--Shining and Nightingale, and traveled with them. They formed the 'Followers,' a group dedicated to helping the infected. The party traveled and provided healing to the Infected everywhere until they officially joined Rhodes Island and took on an even greater responsibility.
+
+	파일 자료 2 :
+	    니어, 카시미어 출신, 과거 카시미어 기사 계층의 일원이었다. 그녀는 카시미어 기사 경기 대회가 상업화되는 것을 강력하게 반대했는데, 당시 불의의 사고로 인해 광석병에 감염되었고, 거센 압박의 영향으로 니어는 어쩔 수 없이 카시미어를 떠나게 되었다. 이 기사의 운명을 크게 바꿔놓은 것은 아마 이때의 일일 것이다.
+	    로도스 아일랜드에 오기 전, 방랑 생활을 계속하던 니어는 훗날 함께 로도스 아일랜드에 합류하게 될 살카즈 족 의사 샤이닝과 나이팅게일을 우연히 만나게 되어, 그들과 함께 활동하게 되었다. 그들은 감염자 구호 단체 '사도'를 설립하였고, 다양한 지역을 돌아다니며 감염자 치료를 돕다 훗날 정식으로 로도스 아일랜드에 입사하여 보다 더 큰 책임을 짊어지게 되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	多次演习数据显示，现有装备似乎对临光在战斗中的发挥略有限制。 
+	然而临光十分青睐这套装备所具备的防护能力，毕竟对于临光来说，自己是队友们的盾与避难所，坚实的防御被她放在战场准则的首位。 
+	并且，在笔者看来，临光的机动性和攻坚能力并没有因为她对队友的重视而下降；相反，无论是围攻还是突袭作战，临光都展现出了极强的应对能力。 
+	许多干员都相信，只要临光守在队伍的前列，她的队友就不会受伤；只要临光还屹立在战场上，就没有敌人能夺走罗德岛的胜利。 
+	同时，负责改良临光装备的可露希尔小姐表示，她为临光改良过的装甲具备许多秘密功能。至于具体是怎样的功能，在撰写这份档案时，笔者还没能了解清楚。
+
+	第三資料 :
+	多数の演習データによると、現在の装備はニアールにとって、戦闘時のパフォーマンスをやや制限しているようだ。
+	しかし、彼女はこの装備に付いている防御能力を誇りに思っている。なぜなら、しっかりした防衛機能は戦場において一番肝心なところだとしており、自分は仲間たちの盾であり、避難所でもあると考えているからだ。
+	なお、彼女の機動性と攻撃力が仲間を庇うことによって低下することはないと思われる。むしろ挟み撃ちや突撃作戦などで、高度な適応力を示している。
+	多くのオペレーターは、ニアールが防御すれば、彼女の仲間は傷つけられず、そして彼女が戦場に立ち続けていてくれれば、誰にもロドスの勝利を奪われないと信じている。
+	また、ニアールの装備改良を担当しているクロージャーによると、改良された装甲にはたくさんの秘密機能がついているという。具体的にどのような機能なのか、この記録を執筆している時点ではまだ解明されていない。
+
+	Archive File 3 :
+	Many live drills have indicated that her current gear is somewhat limiting Nearl's combat utility. 
+	However, she's very fond of the protection it offered, because when it's said and done, Nearl is the shield and shelter for her allies, so she puts the utmost priority on resilient defense. 
+	Also, to the author, Nearl's mobility and offense do not decrease because of her attention to her teammates. On the contrary, she deals with the situation almost flawlessly, whether offensive or defensive. 
+	Many Operators believe if Nearl's allies will not be affected as long as she is at the front, and that as long as she is on the battlefield, no one can snatch victory from Rhodes Island. 
+	Meanwhile, Miss Closure in charge of improving Nearl's gear has indicated that she modified her armor with many secret features. As to their exact functions, they are still unknown at the time of this writing.
+
+	파일 자료 3 :
+	    수차례의 연습 작전 데이터에 따르면, 현재의 장비는 니어가 전장에서 자신의 힘을 완벽히 발휘하는 것을 제한하고 있는 것으로 보인다. 그러나 니어는 이 장비의 보호 능력에 대해 무척 만족하는 것처럼 보였다. 자신은 동료들의 방패이자 피난소이기에, 전장에서 가장 우선시 되어야할 점은 견고한 방어 능력이라 생각하기 때문이다.
+	    필자의 눈에 니어는 기동성과 공격 능력은 팀원들을 중시함에도 불구하고 전혀 감소한 것처럼 보이지 않았으며, 포위 공격이든 기습 작전이든 니어는 극히 뛰어난 대응 능력을 보여줬다. 많은 오퍼레이터들은 니어가 전방에 꿋꿋이 서있는다면 자신들이 부상을 입을 일이 없을 것이며, 어떠한 적도 로도스 아일랜드의 승리를 빼앗을 수 없을 것이라고 믿고 있다.
+	    니어의 장비 개량을 담당하는 클로저는 니어의 장갑을 개량해 많은 비밀 기능을 탑재시켰다고 했다. 그게 구체적으로 어떤 기능들인지는, 이 문서를 작성하는 지금까지도 정확히 알 수 없다.
+
+———————————————————————————————
+
+	档案资料四 :
+	临光在与我们的相处中，很少谈起她在卡西米尔的生活。除了她有一位可敬的祖父和一个尚年幼的妹妹之外，我们很少能从她那里了解到什么信息。 
+	当然，她很乐意与我们分享见闻和想法。只是一旦提及过去，她总是轻轻地摇摇头，微笑着搪塞过去。 
+	我大概理解了她的想法，不再去谈论这些事情。毕竟，我也没怎么向她吐露过自己的过去。 
+	只是，我很清楚，无论是怎样的过去，都不会阻挡她追寻自己理想的脚步...... 
+	而同样的，只要临光的过去开始呼唤她，她也一定会义无反顾地转身，一头扎入那些或残酷或悲伤的过往，直到将那死结切碎，或是牺牲自己为止。 
+	希望在那时，我和丽兹也能照亮她的身后......让她的影子不再孤独。 
+	
+	——闪灵
+
+	第四資料 :
+	ニアールさんは、カジミエーシュでの生活についてはあまり口を開きません……尊敬する祖父とまだ幼い妹がいる以外で、教えてくれたことは本当にわずかなのです……
+	もちろん、彼女は自分の見聞と考えを忌憚なく伝えてくれます。しかし過去に触れる時、彼女はいつも軽く頭を振って、笑顔でごまかそうとしていました……。
+	その考えは、私にはわかります。なので、私も触れないようにしました。だって私も、自分の過去をずっと黙ったまま……。
+	でも、どんな過去であろうと、彼女は決して迷わずに前へと進むと、私は確信しています……。
+	そして、もしその過去が呼びかけたら、彼女もきっとためらわずに振り向いて、切り落とすか、切り落とされる前に、あの残酷で悲しい過去に飛び込んでしまうでしょう。
+	もしそうなってしまったときには、せめて、私とリズは彼女の背中を照らせますように……。あの影から、孤独の色を消せますように。
+	
+	——シャイニング
+
+	Archive File 4 :
+	In our time together, Nearl rarely mentioned her life in Kazimierz. I didn't really get anything beyond that she has a grandfather she really admires and a much younger sister. 
+	She loved to share news and opinions with us, but when it came to her past, she'd just shake her head and glaze over it with a smile. 
+	I can guess why she didn't want to talk about it. I mean, I don't say much about my past, either. 
+	But I do know that whatever happened won't stop her from chasing her goals and dreams... 
+	At the same time, however, I know too that if her past should return again, she'll turn right around, dive straight into the atrocity or sorrow until it is finally over, or her life is. 
+	I only hope that Liz and I could be there when it does to make sure she isn't alone. 
+	
+	—Shining
+
+	파일 자료 4 :
+	    니어는 우리와 함께 있을 때 카시미어에 있던 시절의 이야기를 거의 하지 않는다. 그녀에게 존경하는 할아버지와 꽤 어린 여동생이 있다는 사실 외에, 우리가 그녀로부터 들은 이야기는 거의 없다.
+	    물론 그녀는 기꺼이 우리와 다양한 견문과 생각을 공유하고 싶어 하지만, 유독 과거 이야기를 할 때면 그녀는 늘 미소와 함께 고개를 가볍게 가로저으며 화제를 바꾸고자 했다.
+	    나도 그녀의 마음을 어느 정도는 이해하다보니, 되도록 이런 얘기를 다시 꺼내려 하진 않는다. 어쨌든 나 역시 나의 과거에 대해 그녀에게 뭔가 털어놓은 적은 없으니까. 하지만 잘 알고있다. 그것이 어떤 과거였든지 간에, 그녀가 자신의 이상을 쫓아가는 발걸음을 막을 수는 없을 거란걸…… 마찬가지로, 만약 니어의 과거가 그녀를 부른다면, 그녀는 분명 조금의 망설임도 없이 몸을 돌려 곧장 잔혹하거나 혹은 슬픈 그 과거로 파고들어가, 풀리지 않는 매듭을 잘라버리거나 그녀 자신을 희생하려 할 것이다.
+	    부디 그때가 오면, 나와 리즈가 그녀의 등 뒤를 밝혀줄 수 있기를…… 그녀의 그림자가 다시는 고독하지 않도록.
+	
+	——샤이닝
+
+———————————————————————————————
+
+	晋升记录 :
+	临光小姐为罗德岛和感染者付出了许多许多。 
+	虽然我能理解临光小姐的选择，同样也一定会支持她，但我和几位干员都更希望...... 
+	更希望她能得到公正的对待。 
+	我们应该也能为她做些什么才对。 
+	
+	——阿米娅
+
+	昇進記録 :
+	ニアールさんはロドスや感染者のためにたくさんのことをしてくれました。
+	彼女の選んだ道は、私には理解できますし、支えていきたいです。でも私たちは……
+	彼女がもっと公平な扱いを受けられることを願っています。
+	私たちにも、彼女のために何かできることがあるはずです。
+	——アーミヤ
+
+	Promotion Record :
+	Miss Nearl has contributed so much to both Rhodes Island and the infected. 
+	While I understand her choice and will support her as always, I - and several other Operators - do hope that... 
+	She'll get the fair treatment she deserves. 
+	And we should do something for her. 
+	
+	—Amiya
+
+	승진 기록 :
+	    니어 씨는 로도스 아일랜드와 감염자를 위해 정말 많은 노력을 해주셨습니다. 저는 니어 씨의 선택을 이해할 수 있고, 니어 씨를 지지할 것입니다. 다만 저와 몇몇 오퍼레이터분들이 가장 바라는 것은…… 니어 씨가 공정한 대우를 받기를 바래요. 저희도 니어 씨를 위해 뭔가 해드려야 하지 않을까요.
+	
+	——아미야

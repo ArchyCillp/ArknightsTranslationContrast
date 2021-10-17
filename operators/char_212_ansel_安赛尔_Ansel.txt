@@ -1,11 +1,17 @@
 ID:
 	char_212_ansel
 
-干员代号\Name:
+CV:
 	安赛尔
 	アンセル
 	Ansel
 	안셀
+
+干员代号\Name:
+	金子真由美
+	金子真由美
+	Mayumi Kaneko
+	카네코 마유미
 
 招聘合同\Character Usage:
 	罗德岛医疗干员安塞尔，将为小队提供多样的急救方案。
@@ -38,157 +44,302 @@ ID:
 	치료 범위 강화
 
 语音\Voices:
-	博士，打针时间到了哦。呃，您、您没事吧！难道您晕针吗？
 	ドクター、お注射の時間ですよ。え、大丈夫ですか？もしかして先端恐怖症？
 	Doctor, it's time for your injection. Um, are, are you alright?! Are you scared of needles?
 	박사님, 주사 맞을 시간입니다. 어? 괜찮으세요? 혹시 첨단공포증이세요?
 
-	就像凯尔希老师说的那样，博士您不锻炼一下是不行的。虽然我还是新人，但也请博士好好听我的话哟。
 	ケルシー先生の仰るとおり、ドクターはもっと運動しないとダメですね。確かに私は新人ですけど、言うことはちゃんと聞いてもらいますよ。
 	Like Master Kal'tsit is always telling you, Doctor, you really need some exercise. I'm new here, but you still need to listen to my advice.
 	켈시 선생님께서 말씀하신 대로, 박사님께선 운동을 더 하셔야 해요. 제가 신입이긴 하지만, 말은 잘 들어주세요.
 
-	卡缇！下次别在用那种攻击动作了，都说了这样会让你自己受伤的！
 	カーディ！攻撃の時にそんな動きをしたら、怪我するって言ってるでしょう！
 	Cardigan! If you move like that when you attack, you'll wind up getting hurt.
 	카디건! 공격할 때 그렇게 움직이면 다친다고 말했지!
 
-	真是的......博士，自己的身体，只有自己才能保护得好哦。
 	まったくもう……。ドクター、自分の身はちゃんと自分で守らないといけないんですよ。
 	Good grief... Doctor, you need to care of yourself. Don't keep making us do it for you.
 	정말이지…… 박사님, 자기 몸은 자기가 지켜야 한다고요.
 
-	您问我连续上夜班，身体吃得消吗？嗯，没问题的，我所属的种族，体内激素分泌的方式比较特别，比较利于我们在夜间活动。这样正好能和芙蓉小姐换班哟。
 	夜勤続きで大丈夫か、ですか？ええ、私の種族は分泌されるホルモンやその働きが他の種族とは異なっていて、夜のほうが活動しやすいんです。ちょうどハイビスさんと交代で仕事できますよ。
 	Are you worried about my health after so many night shifts? Don't worry. My race has a unique way of producing hormones which allows us to handle night activities better. This way, I can hand my shift over to Ms. Hibiscus at just the right time.
 	계속 야근하는데 괜찮냐고요? 네, 제 종족은 분비되는 호르몬이나 그 기능이 다른 종족이랑은 달라서, 밤이 더 활동하기 편해요. 시간 딱 맞게 히비스 씨랑 교대로 일할 수 있죠.
 
-	请一定要戒掉夜宵哦。也不要把我也吃夜宵当成借口。我在深夜吃东西是种族特性的缘故！对，就是种族特性！
 	夜食は絶対やめてくださいね。私が食べてるってのを言い訳にしないでください。私が夜に食事をとるのは種族の特性からです！そう、特性です！
 	You must stop with the midnight snacks. Don't go bringing up my eating habits. I eat at night because of my racial traits! Yes, racial traits!
 	야식은 절대 드시면 안 돼요. 제가 먹는다고 변명하진 말아 주세요, 제가 밤에 먹는 건 종족 특성 때문이라고요! 네, 특성이에요!
 
-	我是安赛尔。虽然有点不好意思，但我选择医学之路，是因为从小时候起，我的身体就很虚弱。但既然现在身为干员，就不能给雇主添麻烦。所以请像要求其他人那样对待我。
 	アンセルです。お恥ずかしい話ですが、医学の道を選んだのは、子供の頃から身体が弱かったからです。でもオペレーターである以上、雇い主にご迷惑をかけたくありませんので、他の人と同じように扱ってくださいね。
 	I am Ansel. This sounds a bit embarrassing, but I chose to become a Medic because I have been sickly since childhood. But now that I am an Operator, I will be sure not to be a burden to you. So please treat me just the same way you treat the others.
 	안셀이라고 합니다. 부끄럽지만, 의학의 길을 선택하게 된 건, 어릴 때부터 몸이 약해서였습니다. 그래도 오퍼레이터가 된 이상 고용주에게 폐를 끼치고 싶진 않으니, 다른 사람들이랑 똑같이 대해주세요.
 
-	其实大家真的很努力了。不过听凯尔希老师说，史都华德和玫兰莎的状况都不太好......我的工作就是尽可能让他们没有后顾之忧。博士，一起加油吧。
 	本当にみんなよく頑張っています……ただケルシー先生によると、スチュワードさんも、メランサさんも、あまり芳しくない状況のようです……。できるだけみんなを安心させるのが私の仕事です。ドクターも一緒に頑張りましょう。
 	I know everyone did what they could. But I heard from Master Kal'tsit that Steward and Melantha's are not looking so good... My job is to make their lives as easy as possible. Doctor, let's redouble our efforts, together.
 	사실은 다들 참 열심히 하고 있어요… 다만 켈시 선생님 말씀에 따르면, 스튜어드 씨도 멜란사 씨도, 그다지 좋은 상황이 아니라고 해요… 최대한 모두를 안심시키는 게 제 일이에요. 박사님도 함께 힘내요.
 
-	安德切尔，能让卡缇稍微安静一下吗？博士休息了。
 	チッ！アドナキエルさん！カーディを大人しくさせてくれませんか？ドクターがお休みです……。
 	Adnachiel, could you ask Cardigan to settle down for a moment? The Doctor is resting.
 	쯧! 아드나키엘 씨! 카디건 좀 얌전히 시켜줄 수 있을까요? 박사님께서 주무시고 계세요… 
 
-	我是实习医生安赛尔，今后将承担一些外科医疗方面的辅助工作，还请您多多指教。
 	医師見習いのアンセルです。外科のアシスタントを担当します。よろしくお願いいたします。
 	I am Ansel, a medical intern. I will be assisting with surgery and internal medicine, among other forms. I look forward to working with you.
 	수련의 안셀이라고 합니다. 외과 어시스턴트를 담당하고 있습니다. 잘 부탁드려요.
 
-	我没给您添麻烦就好。
 	私が迷惑になっていなければいいのですが。
 	Hope I didn't cause you any trouble.
 	제가 폐를 안 끼친다면 좋겠습니다만… 
 
-	您这样重视我们医疗干员的处境，我很高兴。
 	医療チームのオペレーターであっても、目にかけていただけているのですね。大変嬉しく思います。
 	I'm glad that you care about the wellbeing of us Medics.
 	의료부 오퍼레이터인데도 신경을 써주시는군요. 매우 기쁩니다.
 
-	我随时都可以哦。
 	いつでもいけますよ。
 	Ready whenever.
 	언제든지 출발할 수 있습니다.
 
-	医疗支援是战术小组应最优先考虑的事项。
 	医療支援は、我々のチームの最優先事項です。
 	Medical support should be the top priority for any tactical squad.
 	의료 지원은 저희 팀의 최우선사항입니다.
 
-	好，战斗中用的药品都准备好了。
 	よし……医薬品の準備は揃いました。
 	Alright, all medicine has been prepared.
 	좋아…… 의약품 준비는 다 끝났습니다.
 
-	注射针剂已经备好了。请做好开战前的准备。
 	作戦準備をお願いします。注射薬の用意は整いました。
 	Injections ready. Please prepare for battle.
 	작전 준비를 부탁드립니다. 주사액 준비는 다 끝났어요.
 
-	急救箱已经准备好了。
 	救急箱の用意はできています。
 	First aid box is ready.
 	구급상자 준비는 다 되어 있습니다.
 
-	我在等待您的指示。
 	指示をお待ちしています。
 	I await your orders.
 	지시를 기다리고 있습니다.
 
-	准备治疗！
 	治療の準備を！
 	Ready to heal!
 	치료 준비를!
 
-	请坚持住！
 	持ちこたえてください。
 	Please hold on!
 	버텨주세요.
 
-	清除！
 	クリア！
 	Clear!
 	클리어!
 
-	这是给你的药，请拿好！
 	あなたのお薬です、受け取ってください。
 	Your medication is here. Take it!
 	당신의 약입니다, 받아주세요.
 
-	呼——还好药品带够了。各位，请安心。
 	ふぅ……。薬を十分に用意しておいてよかったです。皆さん、安心してください。
 	Phew, thank the Lord I brought enough medicine. Please don't worry.
 	후우… 약을 충분히 준비해두길 잘했네요. 모두들 안심해주세요.
 
-	大家活跃的姿态，真的让我刮目相看，太棒了。
 	皆さんのご活躍、本当に目を見張るものでした。素晴らしかったですよ。
 	I was very impressed by everyone's performance. It was fantastic.
 	여러분의 활약, 정말로 놀라웠습니다! 훌륭했어요!
 
-	受伤的人请稍等，我马上就去为你治疗。
 	怪我をした人は、ちょっと待っていてください。今すぐ治療に向かいます。
 	Please hold on, I will treat your injuries right away.
 	다친 분들은 잠시만 기다려주세요. 지금 치료하러 가겠습니다.
 
-	有人受伤了！我要把伤员搬回后方，请掩护我！
 	負傷者がいます！……私も搬送作業に入りますので、援護をお願いします！
 	We have injured! I need to get the wounded to the rear. Cover me!
 	부상자가 있습니다! … 저도 운반 작업에 들어갈 테니, 엄호 부탁드려요!
 
-	我来检查一下这里的医药品储备情况。
 	医薬品の備蓄をチェックしに来ました。
 	Let me check the medical supplies here.
 	의약품의 비축 상태를 체크하러 왔습니다.
 
-	哇，博士，请别捣乱啦！
 	わわっ、ドクター、邪魔しないでください。
 	Whoa, Doctor, please don't mess with me!
 	우왓, 박사님, 방해하지 말아주세요!
 
-	博士，您能喜欢我，我真的很高兴。
 	ドクター、私のことを気に入っていただけて、本当に嬉しいです。
 	Doctor, I'm really glad that you like me.
 	박사님, 저를 좋아해 주셔서, 정말로 기뻐요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	您好，博士。
 	こんにちは、ドクター。
 	Good day, Doctor.
 	안녕하세요, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】安赛尔
+	【性别】男
+	【战斗经验】半年
+	【出身地】雷姆必拓
+	【生日】1月31日
+	【种族】卡特斯
+	【身高】163cm
+	【矿石病感染情况】
+	体表未发现任何源石结晶，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】アンセル
+	【性別】男
+	【戦闘経験】半年
+	【出身地】レム・ビリトン
+	【誕生日】1月31日
+	【種族】コータス
+	【身長】163cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布なし。非感染者に認定。
+
+	Basic Info :
+	[Code Name] Ansel
+	[Gender] Male
+	[Combat Experience] Half a year
+	[Place of Birth] Rim Billiton
+	[Date of Birth] January 31
+	[Race] Cautus
+	[Height] 163cm
+	[Infection Status] 
+	Originium crystals have not been found on the surface of his body, confirming no infection.
+
+	기본정보 :
+	[코드네임] 안셀
+	[성별] 남
+	[전투 경험] 반년
+	[출신지] 림 빌리턴
+	[생일] 1월 31일
+	[종족] 카우투스
+	[신장] 163cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 확인 안됨, 의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】普通 
+	【战斗技巧】标准 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	安赛尔，行动预备组A4组员，雷姆必拓公民，正式任职前为罗德岛制药实习员工。于多项测试中获得优异成绩，遂获准调入罗德岛医疗组。
+
+	個人履歴 :
+	アンセル、行動予備隊A4のメンバー、レム・ビリトン公民。着任前はロドス製薬の実習生だった。多数のテストで良い成績を取ったため、ロドスの医療チームに入った。
+
+	Profile :
+	Ansel is a member of the Op Reserve Team A4 and a citizen of Rim Billiton. Before officially taking up his post, he was a member of the Rhodes Island pharmaceutical intern staff. After excelling on multiple tests, he was permitted to join the Rhodes Island medic team.
+
+	프로필 :
+	    림 빌리턴 공민. 정식 임직 전에는 로도스 아일랜드 제약회사의 인턴으로 근무했으며, 현재는 예비작전팀 A4에서 활약 중이다. 여러 항목의 테스트에서 우수한 성적을 획득, 순조롭게 로도스 아일랜드 의료부의 합류 허가를 받았다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员安赛尔没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.09u/L 
+	干员安赛尔各项体征数据均处于基本健康的状态。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.09u/L
+	身体データは各項ともに健康的な状態である。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.09u/L 
+	Physical data reveal this Operator to be in a basically healthy state.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 안셀로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.09u/L
+	오퍼레이터 안셀의 각 항목 병증 데이터가 건강한 상태로 확인됨.
+
+———————————————————————————————
+
+	档案资料一 :
+	安赛尔的性格十分沉稳，无论多么复杂的战况，他都会以提供及时的医疗支援为最优先。这份沉稳的性格甚至到了会让敌人误以为“这家伙是不是不属于这块战场？”这种地步，毕竟极少有人能在背后发生瓦斯爆炸，头顶的危楼有塌方危险的情况下还能井井有条地救助伤员。当然，这也是因为安赛尔非常恪守自己作为医者的准则，在尽可能满足患者需求的同时，面对那些不太遵守医疗守则的人员，他也会以轻柔的责备态度去提醒对方的行为。
+
+	第一資料 :
+	アンセルの性格は非常に落ち着いている。どんなに過酷な戦況であっても、たとえすぐそばで爆発と建物の崩壊が続いていても、彼は少しも動じずにただ黙々と最適な医療サポートをこなす。
+	あまりにも落ち着いた様子は、敵すらも驚く。また、「こいつだけは別次元にいるんじゃないか」と思わず疑いたくなる。
+	アンセルに言わせると、それはただ医者としての責務を果たすためだけらしい。
+	患者の要望をなるべく応えようとするが、聞き分けのない患者には優しく注意することもある。
+
+	Archive File 1 :
+	Ansel's maintains a very calm demeanor. No matter how complicated the situation, he gives priority to providing timely medical support. This calm personality makes the enemy even question whether or not he is taking part in the battle. Very few people can care for the wounded in a well-ordered manner while there are explosions and collapsing roofs all around them. Of course, this is also because Ansel is very strict with his own rules as a medical practitioner. He works hard to follow established medical regulations and doesn't hesitate to let others know if they are violating them.
+
+	파일 자료 1 :
+	    복잡한 전황 속에서도 안셀은 늘 침착하게 신속한 의료 지원을 최우선으로 생각한다. 이런 침착한 성격은 심지어 적들마저 "이 녀석은 여기서 싸우는 사람이 아닌가?" 하고 착각하게 만들 정도다. 그의 이런 성격은, 그가 바로 등 뒤에서 가스가 폭발하려 하거나, 건물이 붕괴되려 하는 위험한 상황에서도 일사불란하게 부상자를 구조할 수 있게 만들어주었다. 이렇듯 안셀은 의사의 철칙을 철저히 지키며 되도록 많은 환자들을 구하려 하기도 하지만, 의료 수칙을 제대로 지키지 않는 인원에게는 부드러운 어조로 상대방의 잘못을 일깨워주기도 한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	安赛尔出身于雷姆必拓一座以矿业闻名的城市，他拥有三位哥哥和一位妹妹，母亲因病过世后，劳累的父亲将其过继给没有子嗣的兄长作为继子。在寄养环境下成长，且缺乏安稳家庭环境的他很早地形成了柔和的处事态度。当安赛尔意识到身边大多数工人因超负荷的劳动导致身体状况不佳后，他选择了成为一名医疗实习生，希望以医治肉体的方式减轻人们的痛苦。
+
+	第二資料 :
+	アンセルはレム・ビリトンの有名な鉱業都市に産まれ、三人の兄と一人の妹がいる。母親が病気で亡くなった後、疲れ切った父親はアンセルを子供のいない兄の養子に差し出した。家庭の移り変わりがあったせいか、アンセルは小さい頃から柔軟な態度をとるようになった。周りで数多くの労働者が過重労働で体を壊したことを目の当たりにし、人々の苦しみを少しでも減らしたくて、アンセルは医師の道へ進もうと決意した。
+
+	Archive File 2 :
+	Ansel was born in a city in Rim Billiton that is, like so many of them, famous for mining. He has three older brothers and one younger sister. After his mother passed away due to infection, his exhausted father gave him to his sonless brother to adopt. Despite growing up in the such an environment without a steady household to live in, he nevertheless grew into a gentle and responsible man. When Ansel realized that most of the workers around him were in poor health due to overwork, he decided to become a medic, hoping to one day alleviate some of the suffering in the world.
+
+	파일 자료 2 :
+	    안셀은 림 빌리턴에서 광업으로 유명한 도시 출신으로, 3명의 형과 1명의 여동생이 있다. 모친이 병으로 세상을 떠난 후, 자식들을 모두 키울 여력이 없었던 부친은 그를 자식이 없었던 친구 집에 양아들로 입양을 보냈다. 양부모 밑에서 성장하여 안정된 가정 환경이 결여되었던 상황이었음에도, 안셀은 일찍이 부드러운 태도로 매사에 임하는 습관을 길렀다. 그러다 주변의 많은 노동자들이 과도한 노동으로 인해 건강이 나빠지고 있다는 사실을 알게 된 후, 그는 그들의 육체를 치료하여 조금이나마 사람들의 고통을 덜어줄 수 있길 바라며 수련의가 되는 길을 택했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	安赛尔在公立医疗专门学校就读期间，就曾多次向雷姆必拓一些大型医疗企业和研究所投送简历，但他缺乏资金进行深造学习，单薄的简历被几乎所有的医疗公司退回。在没有退回简历的两家公司中，安赛尔决定前往草创不久的罗德岛制药公司进行实习。在半年的实习期内，由于安赛尔展现出了勤恳、富有耐心，和对医疗行为优质的专注力，使他受到了公司高层凯尔希医生的认可。
+
+	第三資料 :
+	公立の医療専門学校に通っていたころ、アンセルは何度も大型医療企業や研究所に応募した。しかし、学歴が低く実績も乏しい彼は、ほとんどの企業に不採用とされた。採用してくれた二社の中から、アンセルは開業したばかりのロドスを選んだ。半年間の試用期間中に、見習いの彼は勤勉と根性、そして優れた集中力を示し、上層部のケルシー医師に認められた。
+
+	Archive File 3 :
+	During his time at medical school, Ansel sent his resume to several large medical companies and research institutes in Rim Billiton, but he lacked the money required for further study. His sparse resume was rejected by almost all of the companies. Of the two companies that did not reject his resume, Ansel chose the newly established Rhodes Island Pharmaceutical Company for his internship. During the half-year internship period, Ansel proved himself to be diligent, patient, and attentive to medicine, which earned him recognition from one of the company's top doctors, Dr. Kal'tsit.
+
+	파일 자료 3 :
+	    안셀은 공립 의료 전문학교에서 수학하며 여러 차례 림 빌리턴의 대형 의료 기업과 연구소에 이력서를 제출하였으나, 심도 있는 연구를 할 자금이 부족했기에 거의 모든 의료 회사로부터 퇴짜를 맞았다. 그러다 이력서가 통과되었던 회사 두 곳 중, 안셀은 비교적 최근에 설립된 로도스 아일랜드 제약회사에 인턴으로 입사하기로 결정했다. 반년의 인턴 기간 중 안셀은 근면성실하고 인내심 있는 모습을 보여주었음은 물론, 의료 작업에 대한 높은 집중력을 보여 회사 고위층인 켈시 박사에게도 인정받게 되었다.

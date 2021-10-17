@@ -1,11 +1,17 @@
 ID:
 	char_379_sesa
 
-干员代号\Name:
+CV:
 	慑砂
 	シェーシャ
 	Sesa
 	세사
+
+干员代号\Name:
+	小野友树
+	小野友樹
+	Yuki Ono
+	오노 유우키
 
 招聘合同\Character Usage:
 	地下武器调整师慑砂，榴弹扫清一切。
@@ -43,177 +49,408 @@ ID:
 	딜레이 진탕 부품
 
 语音\Voices:
-	嗯？这就是博士的房间吗？实在是很乏味，就像萨尔贡那些一成不变的山丘一样。至少放个游戏机吧？
 	おーっと？これがドクターの部屋か？サルゴンのいつまでも変わり映えしねぇ丘みたいにつまんねーとこだな。ゲーム機くらいは置いてもいいんじゃねえの？
 	Hmm, is this the Doctor's room? How boring. It looks just like those never-changing hills of Sargon. At least get a game console, will you?
 	오~? 여기가 박사의 방인가? 사르곤의 언제까지나 변하지 않는 언덕처럼 따분한 곳이군. 게임기 정도는 둬도 되잖아?
 
-	{@nickname}，我在你身上感到了一种共鸣，真是奇怪，是因为你我都有着更多的可能性吗？不过你忘记了过去，这样会感到轻松吗，还是会更加痛苦呢？
 	ドクター、あんたからはある種の共鳴を感じるぜ。不思議なもんだ、俺たちがどっちも可能性のカタマリだからか？だがあんたは過去を失ってる、そう考えたら少しは気が楽になるか？それとも余計に苦しくなるか？
 	{@nickname}, I feel something resonating from within you. How strange. Is this because we still have so much untapped potential? But alas, you've forgotten your past. Does it feel like a burden's been lifted off of you, or does it make things more painful?
 	박사, 당신에게선 무언가 공명이 느껴져. 신기하군. 우리가 둘 다 가능성의 결정체라 그런가? 하지만 당신은 과거를 잃었어. 그렇게 생각하면 조금은 마음이 편해지나? 아니면 더 괴로워지나?
 
-	比起被刻意教化的知识，天生的智慧才是我引以为傲的力量，{@nickname}！有罗德岛这样的盟友，我们都会离伟大的真实更近的。喂，别撇开视线啊，你是不是觉得很羞耻啊，是不是？
 	なぁドクター、わざわざ叩き込まれた知識なんかより、天性の叡智こそが俺の誇れる力（アビリティ）なんだ！ロドスのような盟友がいれば、俺たちは「大いなる真実」にもっと近づけるはず……おい、なんで目をそらすんだよ。まさか照れてんのか、そうなんだろ、なあ？
 	{@nickname}, I take greater pride in natural wisdom than the knowledge that is deliberately taught! With Rhodes Island at my side, we will get ever-closer to the Great Truth. Hey, don't avert your gaze. There's nothing to be ashamed of, is there?
 	있잖아, {@nickname} 박사. 애써서 머리에 때려 박은 지식 같은 것보단, 타고난 예지야말로 내가 자랑하는 능력이거든! 로도스 아일랜드 같은 맹우가 있다면 우리는 '위대한 진실'에 더 다가갈 수 있겠지…… 어이, 왜 눈을 피하는 거야. 설마 부끄러워하는 건가? 그런 거지? 그렇지?
 
-	“我愿渡往彼岸”，那是过去别人用来和我接头的暗号。桥是两片土地的连接者，灌输力量，传递智慧......听我说完啊，转身就走很没礼貌！
 	「我彼岸に渡らん」、これはかつて俺とやり取りする奴らが使ってた暗号だ。橋とは二つの地を繋ぐ連結者(メディエーター)なるもの。力を引き込み、智慧を伝達する……ってこらぁ、人の話を最後まで聞けよ！途中で立ち去ろうとするなんて失礼じゃねーか！
 	'I wish to cross over to the distant shores.' That used to be the secret phrase people used to communicate with me. That bridge is the link between two worlds, transferring wisdom and imbuing power... Hey, let me finish. It's rude to just turn around and walk off like that!
 	"나는 저 너머로 건너가겠다." 이건 예전에 나와 교류하던 녀석들이 사용했던 암호다. 다리란 두 개의 땅을 잇는 연결자. 힘을 불어넣고, 지혜를 전달한다…… 어이! 사람 말은 끝까지 들어! 도중에 가려고 하다니 실례잖아!
 
-	罗德岛里总有些缺乏格调的家伙，伪装是种修饰，不是种简单皮囊啊。要是不好好精心雕琢下的话，只会让人觉得外表破破烂烂而已吧？你说我穿的破烂？你根本就不懂这种风格......
 	ロドスには趣ってもんを分かってない奴が多い。偽装とは自らを飾り付ける行為であって、表面だけ取り繕えばいいってもんじゃねーんだ。しっかり磨き上げておかねーと、周りにはボロボロの化けの皮を被ってるようにしか見えねぇ。俺がボロボロな服を着てるだけだって？このスタイルの良さをあんたには理解できねーんだよ……。
 	Rhodes Island has some pretty tasteless folks, acting like their outer appearance is just some decoration, like a skin to be taken off! You'll come off as slovenly to people if you don't carefully coordinate your look, right? What, my clothes are tattered? You simply don't understand the boldness of this fashion statement...
 	로도스 아일랜드에는 멋이라는 걸 모르는 녀석들이 많아. 위장이란 자신을 꾸미는 행위이지, 표면만 매만진다고 되는 게 아니야. 제대로 손질해 두지 않으면 주변에는 너덜너덜한 괴물의 가죽을 뒤집어쓰고 있는 것으로밖에 안 보여. 내가 너덜너덜한 옷을 입고 있을 뿐이라고? 이 스타일의 장점을 당신은 이해 못 해……
 
-	你相不相信武器有灵魂？它们经历过什么，曾被谁握在手中，又是为了什么而战——不！这些不是灵魂，对武器来说，任何信念和意义都是被强加的。你我是武器吗，还是强加灵魂的人呢？
 	武器にも魂が宿るって信じるか？こいつらが何を経験してきたか、誰の手に握られてきたか、そして何のために戦ってきたか――いや違う、これは魂なんかじゃねぇ。武器からすれば、どんな信念や意義だって無理やり押し付けられたお飾りに過ぎねぇんだ。なぁ、俺たちは良いように使われる武器か？それとも魂（エゴ）を押し付ける人間か？
 	Do you believe that weapons have souls? The things they've experienced, the hands they've been passed through, and the reason they've been swung... No! These have nothing to do with the soul. For a weapon, any belief or meaning has been superimposed upon it. Tell me, are we weapons, or are we people with souls imposed upon us?
 	무기에도 영혼이 깃든다는 걸 믿나? 이 녀석들이 무엇을 경험해 왔는지, 누구의 손에 쥐어졌었는지, 그리고 뭘 위해 싸워왔는지…… 아니, 틀려. 이건 영혼 같은 게 아니야. 무기에게는 어떠한 신념이나 의의도 억지로 강요받은 장식에 지나지 않아. 이봐, 우리는 좋을 대로 사용되는 무기인가? 아니면 자아를 억지로 붙이는 인간인가?
 
-	天才？世上真有天才吗......萨尔贡的多数工匠在我看来不过是尚在学习走路的普通学徒，叮叮当当地摆弄金属，但只要走得够久，他们也能走出整条道路。
 	天才？本当にそんなヤツがいるのか……俺からすれば、サルゴンの職人たちはみな、ガチャガチャ金属と戯れるだけの、まだまだあんよ期の学徒にしか見えないけどな。とはいえ、歩みを止めさえしなければ、いつかは進むべき道が開けるもんだ。
 	A genius? Do people like that really exist...? Most craftspeople in Sargon are just ordinary apprentices who are still learning to walk, tinkering with metals. But as long as they continue down the path, even they can reach the road's destination.
 	천재? 정말로 그런 녀석이 있을까…… 나에게 사르곤의 장인들은 모두 달그락달그락 금속을 가지고 놀 뿐인 아직 걸음마 단계의 학생으로밖에 안 보이는데 말이야. 그래도 걸음을 멈추지만 않는다면 언젠가는 나아가야 할 길이 열릴 거다.
 
-	想要我帮忙调整武器？我的本事是不能见人的，“让所有人都能拿起武器的方法是创造战争的方法”，这个封锁自己的镣铐，我必须戴上。还是说，你想要那把能搅乱大地的开锁器？
 	俺に武器をいじってほしいのか？俺の腕は世に出していいもんじゃねぇんだよ。誰しもが武器を持てるようにするってことは、戦争を生み出すってこと。俺はこの手かせで自分を縛っておかなきゃいけねぇんだ。それとも、あんたは大地を混乱の渦に陥れる鍵を求めてるってのか？
 	Need my help making some adjustments? My skills aren't something that can ever see the light of day. 'Allowing everyone to just pick up a weapon is the way to creating wars.' I must wear these shackles to restrict myself. Or, do you wish to unchain me and unleash havoc upon this world?
 	내가 무기를 손봐주길 바라는 건가? 내 실력은 세상에 내보여도 되는 게 아니야. 누구나가 무기를 들 수 있게 한다는 것은 전쟁을 낳는다는 것. 나는 이 수갑으로 나를 묶어놔야 해. 아니면 당신은 대지를 혼란의 소용돌이에 빠트릴 열쇠를 구하는 건가?
 
-	你知道我的身份？也知道我的过去？不，你不知道，你不应该知道。我隐姓埋名，就是为了逃避以前的一切，忘了吧，把那些都埋在沙漠深处。
 	俺の正体をあんたは知ってる？それに俺の過去も知ってる、だと？いや、あんたは知らねぇ、知るはずもねぇ。俺は立場も名前も捨ててきたんだ、全てから逃げるためにな。忘れようぜ、そんなもんは砂漠の奥に埋めときゃあいい。
 	Do you know about who I am? And about my past? No, you don't know, nor should you know. My incognito exists to bury the past behind me. Forget about it, and let these things sink into the depths of the deserts.
 	내 정체를 당신은 알고 있다고? 게다가 내 과거도 알고 있다고? 아니, 당신은 몰라. 알 리가 없지. 나는 설 곳도, 이름도 버리고 왔다. 모든 것에게서 도망치기 위해서 말이야. 잊어버리자고. 그런 건 사막 깊은 곳에 묻어두면 돼.
 
-	这样的安静，不坏。
 	この静けさ、悪くねぇ。
 	I don't mind this kind of peace and quiet.
 	이 정적, 나쁘지 않아.
 
-	我知道你在寻找什么，罗德岛的博士，你渴望真相和强大！而我慑砂，愿意赐予你这份力量......哎别，别这样，别推我出门啊，我是认真来求职的！
 	あんたの探しもんを知ってるぜ、ロドスのドクターさんよ。そう！あんたが渇望しているのは真実と強さだ！そしてこの俺様ことシェーシャが、あんたにその力を与え……っておいやめろ、追い出さないでくれ！本気で求職に来たんだよ！
 	I know exactly what you're searching for, Doctor of Rhodes Island! You long for truth and power! And I, Sesa, am willing to grant you these things... Woah, wait, wait up! Don't push my out the door! I'm serious about my job application!
 	당신이 찾는 걸 알고 있어. 로도스 아일랜드의 박사. 그래! 당신이 갈망하는 건 진실과 강한 힘이다! 그리고 이 몸, 세사가 당신에게 그 힘을 주…… 윽. 어이, 그만해. 쫓아내지 마! 진지하게 일자리를 구하러 온 거라고!
 
-	这种武器出力...唔嗯......
 	この武器からほとばしるエナジー……なるほど……。
 	This weapon's output... I see...
 	이 무기가 내뿜는 에너지…… 그렇군……
 
-	......想要力量？还没到时候，别引人注目，这很~~危险。
 	力が……欲しいか？まだその時じゃない、今目立つととーんでもねぇことになるぜ。
 	...You wish for greater power? Don't draw any unnecessary attention before the time is right. Otherwise, it'll be veeery dangerous.
 	힘을…… 원하는가? 아직 그때가 아니야. 지금 눈에 띄면 엄청난 일이 벌어질 거다.
 
-	“桥是连接，弹药是智慧，武器是意志，谐律是平等。”遮掩真相的迷雾，你想不想把它们彻底粉碎？也许我能借你一点点力量......就一点点。
 	「橋は連結、弾薬は叡智、武器は意志、諧律は平等」。真実を覆い隠す霧を、徹底的に晴らしてみたくねぇか？少しなら力を貸してやれなくもねぇ……ああ、少しだけな。
 	'The bridge is the connection, the ammunition is wisdom, the weapon is the will, and harmony is equality.' Shall we tear asunder the veil that obfuscates the Truth? Perhaps I can lend you a bit more power... Just a bit more.
 	다리는 연결, 탄약은 예지, 무기는 의지, 조화는 평등…… 진실을 뒤덮은 안개를 철저하게 걷어내고 싶지 않나? 조금이라면 힘을 빌려주지 못할 것도 없지…… 그래, 조금만 말이야.
 
-	“桥”在渴求......你们手中的武器，让我看下，行吗？
 	「橋」が渇望してやがる……なぁ、お前らの武器、ちょっと見せてもいいか？
 	The 'bridge' seeks completion... Those weapons in your hands... May I take a closer look?
 	 '다리'가 갈망하고 있어…… 어이, 너희의 무기를 좀 보여주겠나?
 
-	我来引导你们......这个油擦在弩槽里就行，记住要均匀。
 	俺が導いてやろう……そうそう、このオイルをレールに塗り込むんだ、均一にな。
 	Let me guide you... Just rub this oil into the bolt slot of your crossbow. Remember to apply it uniformly.
 	내가 이끌어 주지…… 그래, 그래. 이 오일을 레일에 바르는 거다. 균일하게 말이야.
 
-	到了你们展现成果的时候了！但武器要轻拿轻放。
 	お前らの訓練成果を見せる時が来た！ちなみに武器の扱いには気をつけような。
 	It's time for our efforts to bear fruit! Just remember, these weapons must be handled delicately.
 	너희의 훈련 성과를 보여줄 때가 왔다! 덧붙여서 무기를 다룰 때는 주의하도록.
 
-	战场，既摧毁武器，也摧毁它们的主人。
 	戦場、それは武器を打ち砕き、その主たちをも破壊するのだ。
 	The battlefield destroys both weapons and their hosts.
 	전장, 그것은 무기를 부수고 그 주인들 역시 파괴하는 것이다.
 
-	手臂在颤抖...
 	腕が……震えてやがるっ……。
 	My arm is trembling...
 	팔이…… 떨려온다……
 
-	解放我吧！是这么喊没错吧？
 	俺を解き放て！って、こんな感じだっけ？
 	Set me free! This is what I should yell, right?
 	나를 해방해라! 이런 느낌이었나?
 
-	终于......
 	ついに……。
 	At long last...
 	드디어……
 
-	毁灭，终将来临！
 	滅亡は、いずれ降臨するのだ。
 	Destruction, your time has come!
 	멸망은, 언젠가 강림한다.
 
-	将武器从躯壳中解放——
 	武器をその殻から解き放つ――
 	Free the weapon from the flesh...
 	무기를 그 껍질에서 해방한다……
 
-	灵魂啊！共鸣吧！
 	魂よ！共鳴せよ！
 	Souls! Resonate as one!
 	영혼이여! 공명하라!
 
-	我是你们的毁灭！这么说说没关系吧？
 	俺がお前らの滅亡だ！……なんて言ってみたけど、いいよな？
 	I shall be your end! It's fine for me to say stuff like that, right?
 	내가 네놈들의 멸망이다! …… 라고 말해봤는데, 괜찮았지?
 
-	你们又怎么会懂受害者的痛苦？
 	お前らには犠牲者の苦しみがわかるわけねぇんだ。
 	How can you ever understand the suffering of the victims?
 	네놈들이 희생자의 고통을 알 리가 없지.
 
-	如此程度的激战必然伴随着痛苦，但手中的武器绝对不会撒谎，它在高歌胜利！
 	これほどの激戦には必ず苦痛が伴う。だがテメェの武器は嘘をつかねぇ。見てみろ、高々と勝利を謳ってやがるぜ！
 	Such a fierce battle is inevitably accompanied by great pain, but the weapon in your hands will never lie. It roars triumphantly!
 	이 정도 격전에는 반드시 고통이 따른다. 하지만 네놈의 무기는 거짓말하지 않아. 봐라, 드높이 승리를 칭송하고 있지 않은가!
 
-	你有些过度依赖我的力量了，别说了，老规矩，一杯红茶两块方糖。
 	俺の力に頼りすぎじゃねぇか。まぁいい、いつも通り紅茶一杯に角砂糖二つと洒落込もう。
 	You are a bit too dependent upon my powers. Speak no more of it. You know the old agreement, a cup of black tea with two cubes of sugar.
 	나의 힘에 너무 의지하는 것 아닌가. 뭐, 됐어. 평소처럼 홍차 한 잔에 각설탕 두 개를 넣도록 하지.
 
-	能逃过武器带来的杀戮，也是好事。
 	武器がもたらす殺戮から逃れられるとは、それはそれでいいかもしれねぇな。
 	Being able to escape the weapons' bloodbath is perhaps a good thing.
 	무기가 가져오는 살육에서 도망치다니. 그건 그거대로 좋을지 모르겠군.
 
-	无论逃多久，武器都会等下去，等到消灭你我的那天。
 	どれだけ逃げても、武器はいつまでも待ってるぜ。我々を屠るその日をな。
 	No matter how much you run, the weapons will always be waiting. For the day you and I are wiped out.
 	아무리 도망쳐도, 무기는 언제까지고 기다릴 거다. 우리를 몰살시킬 그 날을 말이야.
 
-	伟大的真实需要揭示它的空间！不，也不用那么大的个间......
 	大いなる真実を知らしめるには場所が必要だな！……いや、ここまで広くなくても……
 	The Great Truth needs an equally great space to house it! Wait, no, I don't need a room this big...
 	위대한 진실을 알리기에는 장소가 필요해! ……아니, 이렇게까지 넓지 않아도……
 
-	小心！我还......不太能控制好我的力量！
 	気をつけろ！俺はまだ……力の制御が……くっ！
 	Watch out! I... I'm still not able to fully control my powers!
 	조심해! 나는 아직…… 힘의 제어가…… 큭!
 
-	你想听故事吗？我有不少很古旧的故事。
 	おとぎ話でも聞きたいか？古い物語なら、いくらでも話してやれるよ。
 	Do you want to hear a story? I know many old stories.
 	옛날이야기라도 듣고 싶나? 오래된 이야기라면 얼마든지 해줄 수 있어.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	嘿，博士！
 	よお、ドクター！
 	Hey Doctor!
 	여어, 박사!
+
+干员档案\Background:
+	基础档案 :
+	【代号】慑砂
+	【性别】男
+	【战斗经验】没有战斗经验
+	【出身地】萨尔贡
+	【生日】4月22日
+	【种族】瓦伊凡
+	【身高】189cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】シェーシャ
+	【性別】男
+	【戦闘経験】なし
+	【出身地】サルゴン
+	【誕生日】4月22日
+	【種族】ヴイーヴル
+	【身長】189cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Sesa
+	[Gender] Male
+	[Combat Experience] None
+	[Place of Birth] Sargon
+	[Date of Birth] April 22
+	[Race] Vouivre
+	[Height] 189cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 세사
+	[성별] 남
+	[전투경험] 없음
+	[출신지] 사르곤
+	[생일] 4월 22일
+	[종족] 뷔브르
+	[신장] 189cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】普通
+	【生理耐受】标准
+	【战术规划】普通
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】普通
+	【生理的耐性】標準
+	【戦術立案】普通
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Normal
+	[Physical Resilience] Standard
+	[Tactical Acumen] Normal
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 보통
+	[생체 인내도] 표준
+	[전술 계획력] 보통
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	罗德岛干员慑砂，出身萨尔贡，为当地非法武器交易所提供武器调整。本人提供的履历语焉不详，难以作为进一步的参考。在工作中接触到罗德岛，确认罗德岛的存在后，主动来到罗德岛求职。
+
+	個人履歴 :
+	サルゴン出身で、現地の違法武器売買所に武器のメンテナンスサービスを提供していた。本人が提出した履歴書には不明な点が多く、参考にはし難い。武器メンテナンスの業務で関わったことがきっかけでロドスを知り、ロドスに関する詳しい情報を仕入れると、自らロドスへ志願した。
+
+	Profile :
+	Rhodes Island Operator, Sesa, born in Sargon, provided modification services for local black market weaponry. The resume he provided was murky and proved impossible to follow up upon. After coming into direct contact with Rhodes Island in his line of work and confirming its existence, he voluntarily came to Rhodes Island to apply for a job.
+
+	프로필 :
+	    사르곤 출신인 세사는 과거 사르곤의 불법 무기 교역소에서 무기를 손보는 일을 했었다. 다른 사항은 본인 이력을 자세히 말해주지 않아 더 이상 참고가 어렵다. 업무를 보던 중 우연히 로도스 아일랜드에 대해 듣게 되었으며, 로도스 아일랜드의 존재를 알게 된 후 스스로 찾아오게 되었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员慑砂没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.19u/L
+	由于长期为非法组织调整源石器械且缺乏保护措施，干员慑砂可能有感染矿石病的风险，需定期检查。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.19u/L
+	長期間にわたって、適切な防護措置をとらないまま違法組織で源石機械のメンテナンスをしていたため、感染のリスクがある。定期検査が必要。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Sesa shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.19u/L
+	Due to a long-term exposure to Originium through the modification of Originium-based equipment for illegal organizations without adequate protective measures, Operator Sesa may be at greater risk for infection. Regular inspections are required.
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 신체 내부 기관에 결함이 없으며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 세사에겐 광석병 감염 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.19u/L
+	오랫동안 불법 조직을 위해 오리지늄 무기를 손보는 일을 한데다 보호 조치가 부족한 탓에 광석병 감염 위험이 있음. 정기적인 검사가 필요함.
+
+———————————————————————————————
+
+	档案资料一 :
+	慑砂使用一把自称“灵魂得到了升华”的榴弹发射枪，经工程部干员私下检测发现，该枪械经过了精密的改装以增强其源石机关的强度，使得源石技艺相对平庸的人也能发挥出其大部分威力。慑砂在源石工程学方面的才能毋庸置疑，至于他为什么总要用一些玄而又玄的说法来形容自己的工作，我们暂且持保留态度。
+
+	第一資料 :
+	シェーシャは本人曰く「魂が昇華して生まれた」榴弾ランチャーを使用している。エンジニアオペレーターのテスト結果によると、当武器の源石機構は精密な改造により強化されており、アーツが不得手な人でも十分な威力を発揮できるという。彼の源石エンジニアリング学における才能に疑いの余地はないが、彼が自身の業務の説明にいつも神秘的な用語を使用する理由については、ここでは意見を控えさせてもらおう。
+
+	Archive File 1 :
+	Sesa uses a grenade launcher which he claims has a 'sublimated soul.' In a private inspection, engineers found that this firearm had undergone sophisticated modifications to enhance the strength of its core Originium components, allowing people with even relatively mediocre Originium Arts to draw out most of their potential. This leaves little to doubt about his Originium engineering skills. As for why he prefers mysterious and esoteric expressions to describe his work, we continue to reserve our judgment at this time.
+
+	파일 자료 1 :
+	    세사 본인이 '영혼이 깃들었다'고 주장하는 세사의 유탄발사기를 어느 엔지니어 오퍼레이터가 개인적으로 검사를 한 결과, 이미 해당 총기는 정밀한 개조를 통해 오리지늄 구조의 강도를 강화시켰고, 그 덕분에 오리지늄 아츠의 재능이 평범한 사람도 거진 제 위력을 발휘하며 사용할 수 있게 되었다는 사실을 발견하게 되었다. 세사는 오리지늄 공학 방면에 말할 나위 없이 뛰어난 재능을 갖고 있지만, 우리는 그가 어째서 항상 어려운 말로 자신의 일을 설명하는지에 대해 알지 못하고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	慑砂出身在萨尔贡一个还算富裕的传统家庭，从小便是那种标准的优等生，一路顺畅地考入了当地著名的理工大学。
+	出人意料的是，曾经的慑砂过度沉迷学习使得他待人处事方面显得尤为拙劣，总被视作典型的书呆子，除了好成绩其他都一无是处。
+	然而他并不在乎周围人的眼光，他只想追寻着自己那优秀的兄长不断前进——那个聪明、理智、能言善辩，年纪轻轻便获得了多种发明专利的神童兄长。慑砂会拼命读书并考上和兄长同样的名校，也是为了有朝一日能和兄长共事。 
+	慑砂的兄长年长他七岁，毕业后供职于哥伦比亚某军工巨头，主持着该公司最大的实验室。在慑砂毕业前半年，他终于如愿以偿地来到军工实验室实习。然而某次实验事故引起的爆炸却让兄弟二人天人永隔。 兄长突如其来的死，让还在求学的慑砂瞬间失去了人生的目标。成绩优异的他本可继续深造，却立刻拒绝了留在实验室的邀请，草草毕业后离开了学院。 
+	毕业后的慑砂有着很长一段时间都闭门不出。直到某一天，他给父亲留下一封书信便外出闯荡。
+
+	第二資料 :
+	シェーシャはサルゴンのある裕福な家庭で生まれた。幼い頃から模範になるような優等生で、順風満帆に現地の有名な理工系大学に入学した。
+	今の姿からは想像しがたいが、かつてのシェーシャはあまりに勉強に集中した結果、人付き合いや処世術がかなり拙く、勉強以外に取り柄がない本の虫と見られていたほどだという。
+	しかし周りの目を気にせず、彼はひたすら優秀な兄の後を追いかけていた――あの聡明、冷静、雄弁な、若い年齢で数多くの発明特許を取得した天才肌の兄だ。彼が勉強に没頭し、兄と同じ名門大学に入学したのも、いつかそんな兄と同じ場で働く夢を見ていたからである。
+	シェーシャの兄は彼の七つ上で、卒業後はクルビアのある大手軍事企業に勤め、同社最大の研究所を率いていた。大学卒業の半年前、シェーシャは念願が叶い、研究所のインターンシップに参加することができた。しかしある日、実験事故により爆発が起こり、兄弟二人は永遠に離れ離れになってしまった。兄との突然の別れを受け、まだ勉学中のシェーシャは生きる目標を失った。成績優秀な彼はそのまま学識を深めることもできただろうが、研究所の勧誘を断り、卒業して大学を去った。
+	卒業後のシェーシャは長い間自宅に閉じこもっていたが、ある日、彼は父親に一封の手紙を残し、家を出た。 
+
+	Archive File 2 :
+	Sesa was born into a fairly wealthy traditional family in Sargon. He was a stereotypical honors student since childhood, and was smoothly admitted into a famous local polytechnic university.
+	His focus in learning made him particularly clumsy when socializing with others, and he was always written off as a typical nerd, useless for anything other than his good grades.
+	However, he cared little about the opinions of those around him. He simply continued forward, striving to catch up to his esteemed older brother - a brilliant, sensible, eloquent, and proficient prodigy who had already secured various patents for his inventions. Sesa threw himself at his studies to be admitted to the same prestigious school as his brother with the hope of one day working with him.
+	Sesa's brother, seven years his elder, worked for a massive military contractor in Columbia after graduation, and put together the company's largest research lab. Six months before his graduation, Sesa finally arrived at the military laboratory for an internship. However, a cruel twist of fate separated the two brothers, when an explosion from an experimental accident claimed the life of his older brother. The sudden loss of his older brother shattered the goal he had poured himself into so ardently his whole life. With his excellent grades, he was still able to continue his education, but he immediately rejected an invitation to stay at the lab and left the college after barely graduating.
+	Sesa secluded himself in his room for a long time until one day, he left a letter to his father and departed.
+
+	파일 자료 2 :
+	    세사는 사르곤의 어느 부유한 전통 가정에서 태어났다. 어릴 때부터 모범적인 우등생이었던 그는 순조롭게 현지에 있는 저명한 이공대학에 입학했다.
+	    의외인 점은, 과거 세사는 너무 학업에 열중한 탓인지 인간관계 방면으로는 너무 구차하며, 성적이 좋다는 점 말고는 별 볼 일 없는 전형적인 '책벌레'라는 평가를 받았다는 것이다.
+	    하지만 그는 주위 시선 따윈 신경 쓰지 않고, 똑똑하고 이성적이며 언변까지 뛰어난데다 젊은 나이에 여러 가지 발명 특허를 낸 자신의 우수한 형을 쫓기 위해 끊임없이 나아갔다. 세사가 필사적으로 공부해서 형과 같은 유명한 학교에 입학한 건, 그런 형과 언젠가 함께 일하기 위해서였다.
+	    세사의 형은 그보다 7살이 더 많았고, 졸업 후 컬럼비아의 어느 군수 산업 기업의 요직을 맡아 회사에서 가장 큰 실험실을 맡고 있었다. 세사가 졸업하기 반년 전, 드디어 세사는 소원대로 군수 산업 실험실에서 실습을 할 수 있게 되었다. 하지만 두 형제는 원인 불명의 실험 사고로 인한 폭발 때문에 영원히 이별하고 말았다. 아직 공부를 마치지 않았던 세사는 형의 갑작스러운 죽음으로 인해 인생의 목표를 잃고 말았다. 특별히 성적이 우수했던 세사이기에 원래는 연구를 계속할 수 있었지만, 그는 연구실에 남아달라는 요청을 거절하고 서둘러 졸업을 한 후 학교를 떠났다.
+	    그리고… 졸업 후 오랜 시간 동안 두문불출하던 세사는, 어느 날 아버지에게 한 장의 편지를 남긴 채 세상을 떠돌기 시작했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	当慑砂接触罗德岛的时候，他正在某个地下武器交易所为别人进行武器调整，当然，基本都是违法的改造。但必须要提及的是，改造源石枪械本身是一种极其危险的行为，为了让不能很好地使用源石技艺的人同样能拿起武器，慑砂进行了许多寻常工艺无法想象的突破。由于他极其出色的工艺水平，慑砂这个名字在交易所逐渐享有名望。不过，出乎意料的是，慑砂本人的源石技艺天赋并不足以让他轻易地掌握源石器械的使用，事实上，慑砂甚至很难操纵大部分最基础的源石武器。对于一个小有名气的武器调整师而言，这似乎有些不可思议，而这也是为何他手中的榴弹发射枪有着明显改造痕迹的原因。
+	后来，我们在调查那起实验室事故时发现，慑砂那位已故的兄长，身为军工实验室的领袖，对于源石器械的掌握远比慑砂本人要娴熟得多。
+	这也许就是慑砂用尽办法，使用了远超才能，几乎可以称之为想象力的手段也要让自己拿起榴弹发射枪的原因。
+
+	第三資料 :
+	初めてロドスと接触した際、シェーシャはある違法武器売買所で武器のメンテナンスサービスを提供しており、当然ながら、そのほとんどは違法改造だった。ここで注目すべきは、源石武器の改造は極めて危険な行為であるにもかかわらず、アーツが不得手な人でも武器を上手く扱えるようにするため、シェーシャは尋常では有り得ないほどの工程を施していたということだ。彼の優れた技術は、武器売買所でも徐々に人気を博していった。しかし意外なことに、彼自身のアーツ能力は、源石武器を自在に扱うには不十分だった。実際、最も基本的な源石武器ですら、彼はほとんど扱えないのだ。ある程度の知名度を持つ武器整備師にしてはやや不思議な話であるが、彼が手にする榴弾ランチャーに、明らかにアーツが不得手な人向けの改造の痕跡が見られることにも説明がつく。
+	その後、例の研究所で起きた爆発事故に関する調査で、研究所のリーダーであるシェーシャの亡き兄は、弟よりも遥かに源石武器の扱いに優れていたことが判明した。
+	それこそが、彼が明らかに自分にはそぐわない、机上の空論と言っていいほどの改造手段を以ってしても、あの榴弾ランチャーを武器にしようとする理由かもしれない。
+
+	Archive File 3 :
+	When Sesa contacted Rhodes Island, he was modifying weapons for others in a black market weapon exchange. Needless to say, these were basically all illegal modifications. Beyond the obvious, however, it is important to note that modifying Originium firearms is extremely dangerous. From the fact that his modifications allow those who cannot use Originium Arts to operate such weaponry, one can surmise that Sesa must have made many unfathomable breakthroughs in his craftsmanship. His name soon became a mainstay in the black markets due to his reputation for excellent craftsmanship. Surprisingly, Sesa's own talent for Originium Arts is not enough for him to easily master the use of Originium equipment. In fact, he struggles to operate even the most basic of Originium weapons. For this somewhat famous weapon modifier, the reality seems a bit hard to believe as well, and this is perhaps the reason for the modifications he's made upon his own grenade launcher.
+	Later, when we investigated the laboratory incident, we found that Sesa's late brother, as the leader of the military laboratory, was far more proficient in Originium Arts than Sesa.
+	This may be the reason why Sesa has gone through such painstaking efforts, tapping into a far greater talent so that he too may be able to pick up a grenade launcher.
+
+	파일 자료 3 :
+	    세사가 로도스 아일랜드와 접촉했을 때, 그는 어느 지하에 있는 무기 교역소에서 다른 사람의 무기를 손봐주고 있었다. 물론 불법적인 개조였지만, 반드시 짚고 넘어가야 할 점이 있었다. 그건 바로 오리지늄 총기를 개조하는 것 자체가 굉장히 위험한 일이란 점과, 오리지늄 아츠를 잘 다루지 못하는 사람도 같은 무기를 쓸 수 있게 하기 위해 세사는 평범한 기술로는 상상도 못할 방법을 찾아냈다는 점이다. 그 특출난 실력 덕분에 교역소에서 세사의 이름은 갈수록 유명해졌다. 그러나 의외로, 정작 오리지늄 아츠에 대한 세사 본인의 재능은 오리지늄 아츠 기계를 제대로 사용하기 힘들 정도로 부족했었다. 심지어 가장 기본적인 오리지늄 아츠 무기를 사용하는 것 조차 힘들 만큼 말이다. 세사가 다소 유명한 무기 개조사라는 것을 생각해 볼 때 이는 다소 이해하기 힘든 점이며, 결과적으로는 그의 유탄발사기에 개조한 흔적이 선명히 남아있게 된 이유이기도 하다.
+	    훗날 당시 실험실 사고를 조사하던 중 알게 된 사실은, 이미 고인이 된 세사의 형이 군수 산업 실험실의 책임자였으며, 오리지늄 아츠 기계를 다루는 실력이 세사보다 훨씬 뛰어났다는 점이다.
+	    어쩌면, 이게 바로 세사가 재능을 뛰어넘는 '상상력'이라는 방법까지 동원해가며 유탄발사기를 사용하는 이유일지도 모른다.
+
+———————————————————————————————
+
+	档案资料四 :
+	在调查慑砂及其兄长的过程中，我们发现了些许蛛丝马迹。作为哥伦比亚最负盛名的军工实验室之一，出现这种事故实在是匪夷所思。抱着这个疑问，我们发现了整个事件最大的疑点：“违规实验”。
+	事实上，慑砂和其兄长供职的军火巨头的营业重心并没有放在只能被少数人使用，泛用性、杀伤力都普遍不如传统弩枪工艺的源石枪械上。尽管真正的关键信息只有哥伦比亚军方和政府才能了解，但根据一些人脉走访，我们有充分的理由相信，慑砂和其兄长所负责的项目，正是慑砂最擅长的“如何从工业技巧上消解源石枪械使用困难”的这一攻坚难题。这也可以解释为何在如此重大的实验事故发生之后，企业方没有接收到政府或民间的任何责难，其负责人甚至还因此节节高升，成为罗德岛无法继续深究的阻力之一。
+	必须指出，虽然慑砂的技术在非专业领域的黑市里已经能用惊世骇俗来形容，但他所能做到的也仅仅是改良。也许慑砂做的比绝大部分人都要好，可是“让所有人拿起需要源石技艺驱动的武器”其本质上是不可行的，而且是不被允许的。源石技术仍旧有其局限性，但倘若大地上已经有人开始注意这种发展倾向，并试图将此应用在政治实体的政治延续之中，那么今后我们面临的战争将会更加残酷。
+	“我的力量是接近真实的力量，危险又引人注目......所以，呃，所以我说技术保密是绝对必要的啊！”其本人是这么解释的。
+	但如果真是如此，那么曾经引发那场事故，并葬送了慑砂哥哥的人，是否就是慑砂本人呢？尽管笔者试图确认，但本人始终避之不谈的话，罗德岛也无权过问。
+
+	第四資料 :
+	シェーシャとその兄の調査において、我々はいくつかの手がかりを見つけた。クルビアで最も名高い軍事研究所の一つで、あのような事故が起きたのは信じがたい事実である。この疑念から、我々はこの事件最大の疑問点である「規則違反実験」にたどり着いた。
+	実際、シェーシャと兄が勤めた研究所の所属する大手軍事企業が重点的に取り組んでいたのは、汎用性も殺傷力も従来のクロスボウにすら劣る源石武器ではなかったという。核心となる情報はクルビアの軍と政府しか知りえないが、有力な情報源によれば、シェーシャと兄が担当していたプロジェクトは、「工業的手法による源石武器の使用簡易化」であり、それは彼の得意分野であると同時に、相当な難題だったという。あれほどの重大な実験事故が発生したにもかかわらず、企業自体は政府や市民の非難を一切受けておらず、それどころかその責任者は昇進を果たし、更にはロドスの調査が思うようにいかないのは、それが理由の一つだろう。
+	ここで指摘すべきなのは、闇市場においてシェーシャの技術はかなり高度のものとされているが、彼にできるのはあくまで改良に過ぎないということである。改良という一点において、彼は非常に素晴らしい手腕を持っていると言えるが、「アーツが駆動源の武器を誰にでも使えるようにする」のは本質的に不可能であり、許されないことである。現代の源石技術にはまだ限界があるが、もし人々がこういった技術の開発に注力し、更に政治的に利用しようとすれば、今後我々が直面するであろう戦争はさらに残酷なものになる。
+	「俺の力は真実に近い力だ。危険でありながら、人の目を奪う……って、えっと、つまりこの技術は最高機密として扱わなきゃいけねぇってことだ！」――本人はそう説明している。
+	しかし、もしこれらの記述が真実であれば、あの事故を起こし、兄を帰らぬ人にしたのは彼本人なのではないだろうか？筆者は確認を試みたが、本人が答えることを避けている以上、ロドスにはこれ以上詮索する権利はない。
+
+	Archive File 4 :
+	We found some clues while investigating Sesa and his brother. We found it difficult to believe that such an accident could take place in one of Columbia's most prestigious military laboratories. With this bit of skepticism in mind, we uncovered the greatest doubt of this whole incident: the fact that it was an illegal experiment.
+	In reality, the military giant that Sesa and his brother worked for did not focus on Originium firearms that can only be used by a select few, as the versatility and lethality of such weapons generally fell short of just applying Originium Arts to traditional crossbows.
+	Though the most crucial information can only be understood by Columbian military and government officials, according to some contacts, we have every reason to believe that the project the two brothers pursued is the same one that Sesa has mastered - eliminate the high barrier of entry of using Originium firearms. This can also explain why the company has not faced any backlash from either the government or the private sector despite such a major accident. The person in charge of the ill-fated experiment has even risen through the ranks, becoming a point of resistance that even Rhodes Island cannot continue to investigate. 
+	It must be noted that even though Sesa's work has been described with awe on the black market, all he can do is enhance existing weaponry. Though Sesa might come closer to it than most people, the idea of 'letting anyone pick up an Originium firearm even without being able to use Arts' is inherently not feasible and not allowed. Originium-based technology might still have its limitations, but if certain people throughout Terra catch wind of these developments and attempt to use this technology to escalate geopolitical conflicts, there is no telling what kind of brutal, all-consuming wars we may face in the future.
+	'The power I deliver is growing closer to the real deal, and it is both dangerous and eye-catching... So, uh, that's why it's absolutely necessary to keep this technology under wraps!' He explained it himself.
+	But if this is true, is it possible that the person responsible for the accident that buried Sesa's brother... Sesa himself? Despite attempts to verify this, Rhodes Island has no right to pry into a subject that he seeks to avoid.
+
+	파일 자료 4 :
+	    컬럼비아 최고의 군수 산업 실험실 중 하나라 불리는 곳에서 이런 사고가 발생했다는 것은 상식으로 이해하기 힘든 일이다. 우린 세사와 그의 형을 조사하던 도중, 사건 전체를 통틀어 가장 큰 의문점이라 할 수 있는 '불법 실험'에 대한 약간의 실마리를 찾아낼 수 있었다.
+	    사실 세사와 그의 형이 일했던 군수 산업체에서, 오직 소수의 인원만 사용할 수 있다는 점과, 범용성 및 살상력이 전부 전통적인 총기보다 못한 오리지늄 총기는 중요한 게 아니었다. 비록 가장 중요한 정보는 컬럼비아 군부와 정부만이 알고 있겠지만, 우리는 몇몇 인맥을 통해 우린 세사와 그의 형이 맡은 프로젝트에 대한 신뢰할 수 있는 정보를 얻을 수 있었다. 그것은 바로 세사가 가장 뛰어난 활약을 보이던 난제, '공업 기술을 통한 오리지늄 아츠 총기 사용의 문제점 해결 방안'이었다. 우리는 이를 통해 그런 중대한 실험 사고가 일어났음에도 기업이 어째서 정부나 민간으로부터 아무런 질책도 받지 않았는지, 어째서 사건의 책임자는 이 일로 승승장구해선 로도스 아일랜드가 이 일에 대해 조사하는 것을 막는데 힘을 쓰는지 이해할 수 있게 되었다.
+	    반드시 짚고 넘어가야 할 점은 세사의 기술이 비전문가 영역의 암시장에서는 놀라운 평가를 받고 있지만, 그가 한 것은 그저 개량일 뿐이라는 것이다. 세사가 행한 것들은 어쩌면 대부분의 사람들이 한 것보다 뛰어날지도 모르지만, 결국 '모든 사람이 오리지늄 아츠로 작동하는 무기를 사용할 수 있게 하는 것'은 본질적으로 불가능하며, 허용되지도 않는다. 오리지늄 아츠에는 여전히 그 한계성이 존재하며, 만약 누군가 이러한 발전 방향을 모색하고 그것을 정치 집단의 정치적 수명을 연장하는 데 사용하게 된다면, 이후 우리는 더욱 참혹한 전쟁을 마주하게 될 것이다.
+	    "내 힘은 진실에 접근하는 힘이야. 위험하고 사람들의 주목을 끌지… 그러니까… 칫, 그러니까 내 말은, 반드시 보안을 지켜야 한다는 거야!" 세사 본인은 이렇게 설명한다.
+	    만약 정말로 그렇다면, 과거에 그런 사고를 일으키고 세사의 형을 죽인 사람은 바로 세사 본인이 아닌가? 필자는 이에 대해 확인해보려 했으나 세사 본인은 시종일관 답변을 피했으며, 로도스 아일랜드에게는 그것에 대해 추궁할 권리가 없었다.
+
+———————————————————————————————
+
+	晋升记录 :
+	“慑砂根本不是那种妄想症患者。我见过他认真调整的武器，那简直是极简实用主义的集大成品，他比我们想象的还要天才。”
+	“什么？可他平时总是......”
+	“说个笑话，我甚至觉得他开的玩笑都是认真的。”
+	“那他干嘛总把那些什么灵魂啊力量啊挂在嘴边，而且自己还总是第一个绷不住脸，老老实实承认自己技术超强不就好了吗？”
+	“装的。”
+	“为什么？”
+	“我哪知道，他装得太好了。”
+
+	昇進記録 :
+	「シェーシャは典型的な妄想狂とは全然違う。あいつが慎重に整備した武器をこの目で見たんだ。あれはミニマリズムと実用主義の集大成だ。奴は俺たちが思ってる以上の天才に違いない。」
+	「えっ、そう？でも彼はいつも冗談ばかり……」
+	「あいつはな、きっとその冗談も真剣に、そして慎重に言ってるんだと思う。」
+	「いやでも、彼はいつも口を開けば魂とかパワーとか言って、真面目な顔をしても数秒と持たないんだよ。」
+	「だから、そういうフリだ。」
+	「なんでそんなことを？」
+	「それもわからん。演技が上手すぎてな。」
+
+	Promotion Record :
+	'Sesa is not at all some kind of delusional patient. I've seen his meticulous enhancements, masterpieces of minimalist pragmatism. His genius far eclipses what we originally thought.'
+	'What? But he's always...'
+	'This is a bit of a joke, but I think even the jokes he makes are completely serious.'
+	'Then why's he always spouting that nonsense about souls and true power? Besides, he's the one who can't even keep a straight face. Why not just admit he's a super genius?'
+	'He's faking it.'
+	'Why?'
+	'How would I know? He's too good at faking it.'
+
+	승진 기록 :
+	    세사는 절대 망상병 환자같은 게 아니야. 그가 진지하게 개량한 무기를 본 적 있는데, 정말 간편하고 실용적인 무기였어. 그는 우리가 생각하는 것보다 뛰어난 천재야.
+	    "뭐라고? 하지만 그는 평소에 항상…"
+	    "농담이야. 난 심지어 그가 하던 농담이 모두 진짜인 줄 알았다니까?"
+	    "그러면 그 녀석은 왜 맨날 무슨 영혼이니 힘이니 하는 말을 입에 달고 사는 거야? 그것도 매번 자기가 말해놓고 자기가 정색하고 그러잖아. 그냥 순순히 자기 기술이 대단하다고 인정하면 되는 거 아닌가?"
+	    "그런 척하는 거야."
+	    "굳이 왜?"
+	    "내가 어떻게 알아? 그냥 연기를 엄청 잘하는 거라고."

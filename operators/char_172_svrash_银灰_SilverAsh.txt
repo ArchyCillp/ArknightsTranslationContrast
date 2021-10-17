@@ -1,11 +1,17 @@
 ID:
 	char_172_svrash
 
-干员代号\Name:
+CV:
 	银灰
 	シルバーアッシュ
 	SilverAsh
 	실버애쉬
+
+干员代号\Name:
+	小西克幸
+	小西克幸
+	Katsuyuki Konishi
+	코니시 카츠유키
 
 招聘合同\Character Usage:
 	喀兰贸易公司董事长，已与罗德岛签订合约，随时可以介入战场。
@@ -48,177 +54,546 @@ ID:
 	진은참
 
 语音\Voices:
-	消磨时间尚有更好的方法。想不想尝试一下？
 	暇つぶしならいい方法があるが、試してみるか？
 	There are better ways to kill time. Care to try one?
 	시간 죽이기라면 좋은 방법이 있다만, 해보겠나?
 
-	总是这副心事重重的样子可不行，看见我应当微笑啊......好，就是这样。毕竟我是能帮你解决难题的最好人选，不是吗。
 	そんな浮かない顔はやめろ。私の前ではもっと楽しそうにしてくれ……よし、その調子だ。お前が抱えている問題を解決できるのは、この私のほかにはいないのだからな——そうだろう。
 	Stop looking so serious all the time. Can't you at least smile when I'm around...? Good. That's what I want to see... Nobody better suited to solve your problems than me... Isn't that right?
 	그런 내키지 않는 얼굴은 하지 마라. 내 앞에선 더 즐거워 보이는 표정을 해다오, 좋아, 바로 그렇게…… 네가 안고 있는 문제를 해결할 수 있는 건, 나밖에 없으니 말이야… 그렇지 않나?
 
-	那个孩子，是叫阿米娅吗......了不起。若是现在不给她装上枷锁，就要有在未来为她戴上王冠的觉悟。
 	あの少女……名をアーミヤというのか……只者ではないな。今のうちに枷をかけておかないのであれば、近い未来、彼女を王とする覚悟が必要だな。
 	That girl... Amiya, I believe her name was? She's no ordinary girl. If you don't put shackles on her wrists today, you will find yourself placing a crown upon her head tomorrow.
 	저 소녀…… 이름이 아미야인가…… 보통내기가 아니군. 지금 옥죄어놓지 않으면, 머지않아 그녀를 왕으로 추대할 각오를 해야겠지.
 
-	喀兰贸易公司与罗德岛之联盟的稳固程度，完全取决于你我的想法。看来还是要好好相处呀，我的盟友？
 	カランドとロドスが、どれだけ強固な信頼関係を築けるかは、我々の考え方次第なのだ。ならば、せいぜい仲良くやろうじゃないか。我が盟友よ。
 	The stability of the alliance between Karlan and Rhodes Island depends solely on your state of mind, and mine. As such, we should at least try to get along, my friend.
-	카란과 로도스가 얼마나 견고한 신뢰관계를 쌓을 수 있는지는, 우리들이 생각하기에 달려있다. 그러니, 될 수 있는 한 친하게 지내는 게 좋지 않겠나, 나의 맹우여.
+	카란과 로도스 아일랜드가 얼마나 견고한 신뢰관계를 쌓을 수 있는지는, 우리들이 생각하기에 달려있다. 그러니, 될 수 있는 한 친하게 지내는 게 좋지 않겠나, 나의 맹우여.
 
-	这份合约，我可以签署。没错，我确实看到其中每条条款都对你和罗德岛有利。
 	この条約、締結してやろうではないか。もちろん気づいている、すべての条文はお前、そしてロドスに有利な内容になっていることをな。
 	I suppose... it's high time I signed this contract. Of course, I do know that the terms are in your, and Rhodes Island's favor.
 	이 조약, 체결해주도록 하지. 물론 알고 있다, 모든 조항은 네게, 그리고 로도스 아일랜드에 유리한 내용이라는걸.
 
-	我当然明白这合约是对我的戏弄，可是这又如何呢，银灰愿意签署这份不平等的合同——因为你值得银灰这么做。
 	ふざけた条約であるとは承知しているが、それが何だと言うのだ。私はこの不平等な条約を受け入れよう――お前にはそれだけの価値があると、このシルバーアッシュが認めているということだ。
 	I'm well aware this contract offers me nothing... What does that matter? I shall accept this unequal treaty nonetheless. The reason being that I, SilverAsh, recognize that you warrant it.
 	말도 안 되는 조약이라는 건 알고 있다만, 그게 뭐 어쨌다는 건가. 내가 이 불평등한 조약을 받아들인다는 건…… 네겐 그만한 가치가 있다는걸, 나 실버애쉬가 인정하고 있다는 것이다.
 
-	恩希亚是否给你添了麻烦？抱歉......保护她、引导她本应是我的责任。仅此一事，今日的我无能为力；也仅此一事，我想请{@nickname}你代为完成。
 	エンシアが迷惑をかけてはいないか？悪いな……あの子の世話と指導は本来であれば私の役目なのだが、これだけは力になれそうにない。だから{@nickname}、私の代わりを頼まれてくれないだろうか。
 	Is Ensia giving you trouble? My apologies. It was originally my responsibility to foster and guide her, but it's unlikely I will be able to do so. So I must ask... could you do it in my stead, {@nickname}?
 	엔시아가 폐를 끼치고 있진 않은가? 미안하군…… 그 아이를 돌보고 지도하는 건 원래 내 역할이지만, 이것만큼은 힘이 되어주지 못하겠군. 그러니 {@nickname}, 대신 부탁해도 되겠나?
 
-	可否引我去罗德岛的甲板？不，就是眺望眺望风景。太久没有展翅，丹增这小家伙，想必也很怀念荒野的气息吧。
 	甲板への案内を頼めるか？いや、外を眺めるだけだ。テンジンもしばらく羽を広げていないから、荒野の空気が恋しくなっただろうしな。
 	Could you show me to Rhodes Island's deck? No, I'd just like to get a view of the area. Tenzin needs to spread his wings every once in a while as well. He must be longing to soar through the night sky.
 	갑판까지 안내해주지 않겠나? 아니, 바깥을 좀 바라보고 싶을 뿐이다. 텐진도 한동안 날개를 펼쳐보지 못했으니, 황야의 공기가 그리워졌을 테니 말이야.
 
-	这样发展下去，你我互相博弈的那一天，迟早会到来。但是我，看上去很高兴？也许吧，毕竟我很期待和你交手，也会珍惜那一天到来前的时光。
 	このままいけば、お前と対峙する日が——いずれは訪れるだろう。私が嬉しそうだと？フッ、そうかもしれんな。相手がお前なら、期待も膨らむというものだ。その日が来るまで、残された時間を有意義に過ごすとしよう。
 	If this continues, eventually there will come a day when you and I confront one another... I seem happy about that, you say? Hah, perhaps I am. You would be a worthy opponent, that's for certain. Let us make the most of our time left before that day comes.
 	이대로 가면, 너와 대립할 날이…… 언젠간 오게 되겠지. 내가 기뻐 보인다고? 훗, 그럴지도 모르겠군. 상대가 너라면, 기대할만할 테니 말이야. 그날이 오기 전까지, 남은 시간을 의미 있게 보내도록 하지.
 
-	“——天空似乎暗了下来，要下雪了——”
 	――空陰りなば、そは雪舞う兆しなり――。
 	'When the aether darkens, 'tis an omen that snowfall draws dear...'
 	하늘이 흐려지면, 눈이 흩날릴 징조이니…… 
 
-	银灰，你的盟友，前来助力。你不会让我失望的，对吗。
 	シルバーアッシュ。盟友として参戦する。この私を失望だけはさせてくれるなよ。
 	I, SilverAsh, have joined your cause as a sworn ally. Whatever your plans may be, do not disappoint me.
 	실버애쉬. 동맹으로서 참전하겠다, 날 실망시키는 일은 없길 바라지.
 
-	路途凶险，经验是必不可少的。
 	険しい道を踏破せんとするならば、経験が必要不可欠だ。
 	For one to travel such an arduous path, they absolutely must have experience.
 	위험한 길을 답파하고자 한다면, 경험이 필수불가결이지.
 
-	虚衔虽不嫌多，但你也知道，我更看重其中有几分是信任。
 	煌びやかな肩書きそのものより、それに寄せられる信頼のほうにこそ価値がある。お前にもそれはわかるだろう。
 	Ostentatious titles are one thing, but the trust accompanying them is what I care about. You surely know that.
 	현란한 직함이란, 그 자체보다 직함에 따라오는 신뢰에 그 가치가 있는 법. 너도 그건 잘 알겠지.
 
-	竟然邀请我参与战斗，你确实很有胆识——作为回敬，就让罗德岛见识下银灰的手段——！
 	この私を戦火に巻き込もうとはいい度胸だ――ならばこのシルバーアッシュの手並み、全てのロドス民に披露してやろう――！
 	It takes a daring person to drag me into their war. That being so, I, SilverAsh, will show my prowess for all of Rhodes Island to see.
 	날 전장에 서게 만들다니 배짱이 두둑하구나… 그렇다면 이 실버애쉬의 실력, 로도스 아일랜드의 모두에게 보여주도록 하지…!
 
-	客随主便，按你的想法安排就好。
 	郷に入っては郷に従え――お前は思うままに私を使えばいい。
 	We all have our roles to play. Use my abilities as best you see fit.
 	손님은 주인이 하자는 대로 따르는 법…… 넌 원하는 대로 날 쓰면 된다.
 
-	要我辅佐你进行指挥？可以，不过也要考虑下代价。
 	お前の采配の助言をしろと？いいだろう。ただし対価は払ってもらうぞ。
 	You want me to act as your proxy? Very well. But you must pay me due tribute later.
 	네 지휘에 조언을 하라고? 좋아, 하지만 대가는 치러야 할 거다.
 
-	战场之上，善良是无法拯救他人的。
 	仁愛では、戦場で誰も救えない。
 	Compassion saves no one on the battlefield.
 	인애로는, 전장에서 아무도 구할 수 없다.
 
-	拿出你们全部的实力——这样至少能让我尽兴。
 	全力でかかってこい――私を楽しませてみろ。
 	Show me what you're made of. Amuse me, if you even can.
 	온 힘을 다해 덤벼라…… 날 즐겁게 해봐.
 
-	有什么想法？
 	何か考えがあるのか？
 	What are you planning?
 	따로 생각하는 게 있나?
 
-	决定了？
 	決まったか？
 	Made your mind?
 	정했나?
 
-	我接受。
 	承知した。
 	Acknowledged.
 	알겠다.
 
-	可以。
 	いいだろう。
 	Very well.
 	좋다.
 
-	“当他们耀武扬威时，无人知晓......”
 	――汝らが誇示せし武勇、何人も語り継ぐこと叶わん――。
 	'The fool flaunting his gallantry reaches none with his vanity...'
 	네놈들이 과시하는 무용은 그 누구에게도 전할 수 없으리니…… 
 
-	“你为何来到这里——”
 	――汝、おのが存在を自らに問え――。
 	'Fool, for what reason hast thou come?'
 	너 자신의 존재를 스스로에게 물어라…… 
 
-	“我的仇敌，我的玩物？”
 	――汝は我が怨敵なるか、はたまた玩弄物に過ぎぬのか――。
 	'Art thou mine worthy enemy, or art thou naught but a jester?'
 	너는 나의 원적인가, 아니면 노리개에 불과한가…… 
 
-	“......当他们哀嚎求饶时，无人应答。”
 	――汝らの哀鳴、我が威光に掻き消されたり――。
 	'Thy pleas falleth upon deaf ears.'
 	네놈들의 비명은 나의 위광에 지워졌다… 
 
-	战斗越艰难，胜利的喜悦越炽热。
 	厳しい戦いであればあるほど、勝利の喜悦がより甘美なものとなる。
 	The fiercer the battle, the more jubilant victory shall be.
 	전투가 힘겨울수록, 승리의 희열은 더욱 달콤해지지.
 
-	不错的战斗，即使是我都能感到心潮澎湃。
 	悪くない戦いだった。この私ですら、胸の高鳴りを感じたほどだ。
 	A satisfying battle. It even brought palpitations to my heart.
 	나쁘지 않은 전투였다. 나조차 가슴 벅차오르는 게 느껴질 정도로.
 
-	你应该有更高的目标。
 	さらなる高みを目指すべきだな。
 	We should strive for better.
 	더 높은 곳을 노려야겠군.
 
-	立刻撤退。现在还来得及。
 	すぐ撤退しろ。まだ間に合う。
 	Retreat at once, while there still is time.
 	어서 후퇴하라. 아직 늦지 않았다.
 
-	作为落脚之处而言，挺不错。
 	足休めの拠点としては、まずまずだ。
 	For a place to rest my feet, it is acceptable.
 	잠시 쉴 거점으로는 나쁘지 않군.
 
-	嗯？
 	ん？
 	Hmm?
 	음?
 
-	过于疲劳了，抱歉。让我稍微休息一下。
 	少しだけ……休ませてくれ。どうやら疲れているようだ、悪いな。
 	Let me rest for just a while. I'm more tired than I thought. My apologies.
 	조금만…… 쉬게 해다오. 아무래도 좀 피곤한가 보군, 미안하다.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	没什么变化啊，我的盟友。
 	変わりはないか、我が盟友よ。
 	You haven't changed one bit, my friend.
 	별일 없나, 나의 맹우여.
+
+干员档案\Background:
+	基础档案 :
+	【代号】银灰
+	【性别】男
+	【战斗经验】四年
+	【出身地】谢拉格
+	【生日】2月15日
+	【种族】菲林
+	【身高】192cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】シルバーアッシュ
+	【性別】男
+	【戦闘経験】四年
+	【出身地】イェラグ
+	【誕生日】2月15日
+	【種族】フェリーン
+	【身長】192cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] SilverAsh
+	[Gender] Male
+	[Combat Experience] 4 years
+	[Place of Birth] Kjerag
+	[Date of Birth] February 15
+	[Race] Feline
+	[Height] 192cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 실버애쉬
+	[성별] 남
+	[전투 경험] 4년
+	[출신지] 쉐라그
+	[생일] 2월15일
+	[종족] 필라인
+	[신장] 192cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准 
+	【战场机动】标准 
+	【生理耐受】标准 
+	【战术规划】卓越 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】卓越
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Outstanding 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 월등
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	银灰，谢拉格军阀，喀兰贸易公司董事长，希瓦艾什家族现任族长。在经济贸易、国际政治、外交手腕与战术策划上有独到见解。 
+	于罗德岛的部分行动中提供战略支援。 
+	鉴于其实际目的不明、合作态度暧昧等理由，建议在交流中持保守态度以杜绝额外风险。
+
+	個人履歴 :
+	シルバーアッシュは、イェラグの軍閥・カランド貿易のトップであり、シルバーアッシュ家の当主でもある。経済貿易、国際政治、外交、そして戦術立案に特に長けている。
+	ロドスの一部作戦において戦略支援を提供している。
+	彼の本当の目的は不明で、協力の姿勢も曖昧である等の理由を鑑み、彼と交流する際は保守的に立ち回り、無用なリスクを極力軽減することを提言する。
+
+	Profile :
+	SilverAsh is a Kjerag warlord, chairman of the Karlan Commercial Co., and is current Chief of the Silverash Family. He has unique views on economics, trade, international politics, diplomacy, and strategic planning.
+	He provides strategic support for some Rhodes Island operations.
+	In view of the fact that his true purposes are unknown and he doesn't have the most cooperative attitude, it is advised that we maintain a conservative attitude in order to minimize risks when working with him.
+
+	프로필 :
+	    쉐라그 군벌, 카란 무역회사의 대표이자 실버애쉬 가문의 현임 족장이다. 경제무역, 국제정치, 외교수단과 전술 계획에도 일가견이 있어 로도스 아일랜드의 일부 작전에 전술 지원을 해주고 있으나, 그 목적이 불분명하고 협력 태도가 미적지근하다는 점 때문에, 로도스 아일랜드 측에선 그와 교류 시 리스크를 최소화할 수 있도록 보수적인 태도를 유지할 것을 권고하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	受试对象没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	受试对象的数值趋近正常，并无检查必要。
+	
+	啊？谢拉格的贵人也有这种闲心逸趣，到我们罗德岛的医疗部门视察？下次这样通知他：“如果没有相关待办事项，请不要打扰医疗干员们工作；如果有，请移步会客室，博士会接待你。”
+	哎，我可不擅长对付这种又不动声色又有脑子的人。
+	——医疗干员华法琳
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.12u/L
+	各項の数値もほぼ正常、再検査不要。
+	
+	ん？あ奴がここに来たのか？医療部に視察とはイェラグのお偉方も暇なものだ。次に来たときは「アポイントがないなら急な来訪で医療オペレーターの仕事を邪魔するな。アポイントがあるなら応接室でドクターを待て」と伝えておけ。
+	やれやれ、妾はああいう仏頂面で頭脳派の人間は苦手なのだ。
+	――医療オペレーター　ワルファリン
+
+	Clinical Analysis :
+	Imaging tests show clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.12u/L
+	Subject's values are normal and there is no need for further investigation.
+	
+	Huh? Kjerag's nobles like to come to Rhodes Island for medical examinations, too? Next time, please inform him: 'If you have no pending procedures, please do not disturb the medical staff. If you have, then please wait at reception for the Doctor to receive you.'
+	I'm simply not prepared to deal with someone so calm and collected.
+	- Medic Operator Warfarin
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	테스트 대상이 광석병에 감염된 징후가 보이지 않음
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	테스트 대상의 수치는 정상이며, 검사는 불필요.
+	
+	    어라? 쉐라그의 귀인께서 우리 로도스 아일랜드 의료 부문을 시찰할 여유는 있으신가봐? 다음 번에는 이렇게 그분께 알려주도록. 만약 처리해야할 관련 용무가 없다면 부탁인데 메딕 오퍼레이터들의 업무를 방해하지 말고, 만약 용무가 있다면 응접실에서 박사를 기다리라고. 휴…… 저렇게 얼굴에 감정을 잘 드러내지 않으면서도 머리가 잘 굴러가는 사람을 대하는 건, 영 껄끄럽단 말이지.
+	——메딕 오퍼레이터 와파린
+
+———————————————————————————————
+
+	档案资料一 :
+	喀兰贸易公司是一家从事对外贸易的国营企业，位于被称作“雪境”的宗教化小国，谢拉格。 
+	因为地势的原因，谢拉格很少受到天灾侵袭，这使得谢拉格的居民不依靠移动城邦也能安居乐业，相应的，险峻的地势也使谢拉格的发展十分缓慢。 
+	而喀兰贸易公司的名称，大概来源于谢拉格的宗教信徒们对其宗教圣山的称呼。 
+	由银灰一手操办的喀兰贸易公司，现在已经成为了封闭保守的谢拉格唯一的对外窗口，同时，这家贸易公司也不可避免地改变了谢拉格。 
+	拥有如此程度的远见与执行力，银灰究竟有着怎么样的经历，值得罗德岛进一步审查。
+
+	第一資料 :
+	カランド貿易は「雪境（ヒーラ）」の小さな宗教国家である「イェラグ」にあり、業務内容としては対外貿易に従事する国営企業である。
+	地理的な理由でイェラグは天災に見舞われることがほとんどないため、イェラグの民は移動都市に頼らずとも安全な暮らしを送っている。その反面、厳しい地形により経済的な発展は非常に緩慢な国となっている。
+	カランド貿易という名前は、恐らくイェラグの宗教信者たちが崇める山の名前からとったものと思われる。
+	シルバーアッシュによるワンマン経営のカランド貿易は、閉鎖的で保守的なイェラグで唯一の対外窓口の役目を果たし、イェラグもその影響を否応なしに受けてきた。
+	先見の明と高い行動力を持つシルバーアッシュは一体どんな経歴の持ち主なのか、我々ロドスが一歩踏み込んで確かめるに値する。
+
+	Archive File 1 :
+	The Karlan Trade CO.,LTD. is a state-owned enterprise engaged in foreign trade. It is located in the religious country of Kjerag, also known as the 'Snow Realm.' 
+	Because of its terrain, Kjerag rarely suffers natural Catastrophes or invasions. This has meant that the people of Kjerag have not needed to rely on nomadic cities to live and work. Of course, the steep terrain has also slowed Kjerag's development considerably. 
+	The name of the Karlan Trade Company is probably derived from the name of the holy mountain the believers of Kjerag worship. 
+	The trade company, run by SilverAsh, is the only window to the outside world for the insular and conservative nation of Kjerag. At the same time, this company has unavoidably changed the country. 
+	It would be wise for Rhodes Island to research SilverAsh's record, given this level of power and vision.
+
+	파일 자료 1 :
+	    카란 무역회사는 대외 무역에 종사하는 국영 기업으로, '히라'라고 불리는 작은 종교 국가, 쉐라그에 위치하고 있다. 험준한 지형으로 인해 쉐라그는 재앙의 영향을 거의 받지 않으며, 이덕분에 쉐라그 사람들은 이동도시에 의존하지 않고도 편안하게 살 수 있었지만, 반대로 이런 지형 때문에 쉐라그는 발전 속도가 비교적 더딜 수밖에 없었다.
+	    쉐라그의 종교 신도들이 섬기는 성산의 이름을 그대로 따온 것으로 보이는 카란 무역회사는, 실버애쉬의 원맨 경영에 의해 폐쇄적이고 보수적인 쉐라그의 유일한 대외창구가 되었고, 자연스레 쉐라그에 변화를 가져왔다.
+	    이런 장기적 안목과 실행력을 가진 실버애쉬가 대체 어떤 경력을 가지고 있는지, 로도스 아일랜드는 추가적 조사를 진행할 필요가 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	喜爱文学与艺术，热衷狩猎和收藏，甚至十分擅长传统谢拉格剑技，银灰的做派中有许多传统贵族的影子。 
+	然而，银灰的思维与行事方式又与传统背道而驰，充满了现代教育赋予的进步情结与激烈。 
+	这样的喀兰贸易公司总裁银灰，在罗德岛内是个颇有争议的人物。 
+	无论如何，干员们都有一个共识：银灰都并非能够被轻易调遣与掌控的普通罗德岛干员。 
+	银灰与他的雇员们和罗德岛之间的合作十分紧密，但合作时，相互间也不存在等级关系。 
+	无论是战略策划还是战术指挥，多数干员都会为银灰的实力所折服，而比大多数干员更多虑、更熟悉阴谋与政治手段的另一些干员，则都对银灰的目的感到怀疑。 
+	虽然银灰确实很关心自己正在罗德岛接受医治的感染者妹妹，崖心——不过，这并不能成为他信任罗德岛，或者是罗德岛足以信任他的理由。 
+	也许正如传言所说，银灰真正感兴趣的，就只有罗德岛制药本身的价值，以及被他当作旗鼓相当的对手的博士...... 
+	凯尔希医生明确反对与银灰的进一步接触，而博士，也许有着自己的想法。
+
+	第二資料 :
+	シルバーアッシュは文学と芸術を愛し、狩猟や収集にも熱心で、伝統的なイェラグの剣術にも精通している。彼の立ち振る舞いからは由緒ある貴族らしさが見て取れる。
+	しかし、彼の思想と物事の処理の仕方は伝統とはかけ離れており、現代教育が与えた進歩への渇望と苛烈さで満ちている。
+	そんなカランド貿易のトップであるシルバーアッシュは、ロドスにおいても意見が分かれる人物である。
+	とは言え、彼は簡単になびかず一筋縄では行かないオペレーターという点は全オペレーターの共通認識でもある。
+	シルバーアッシュ、そして彼の部下とロドスの協力関係は強固であると同時に、そこに上下関係は存在しない。
+	戦略立案や戦術指揮においては、ほとんどのオペレーターが彼の実力に感服するところではあるが、思慮深くて謀略や政治の分野に明るいオペレーターは、彼の目的に疑問を持っているようだ。
+	彼はロドスで治療を受けている感染者の妹、クリフハートを気にかけてはいるが、それは彼がロドスを信じる、或いはロドスが彼を信じる理由にはならない。
+	もしかすると噂通り、シルバーアッシュが興味を持っているのはロドスの製薬会社としての価値、及びその筆頭として彼がライバル視しているドクターなのかもしれない……
+	ケルシー医師はシルバーアッシュとの関係をさらに深めていくことには明確に反対の意を示しているが、ドクターにも自分なりの考えがあるのだろう。
+
+	Archive File 2 :
+	As a lover of literature and art, a committed hunter and collector, and an expert in traditional Kjerag swordsmanship, SilverAsh has traces of a traditional noble upbringing. 
+	That said, SilverAsh's thinking and conduct run counter to tradition, and are full of the progressive complexity and the intensity of modern education.
+	As such, SilverAsh, Chairman of the Karlan Trade Co. LTD, is a controversial figure at Rhodes Island. 
+	Whatever the case, the other Operators have come to a consensus: SilverAsh is not an Operator who can be easily dispatched or controlled. 
+	SilverAsh and his employees work very closely with Rhodes Island, but there is no hierarchical relationship between them. 
+	Whether it is strategic planning or tactical command, many Operators find SilverAsh's prowess convincing. However, the more skeptical Operators familiar with political conspiracy and such machinations are wary of SilverAsh's intentions. 
+	Although SilverAsh truly cares about his younger sister, Cliffheart, who is being treated at Rhodes Island, he trusts Rhodes Island no more than Rhodes Island trusts him. 
+	Perhaps as the rumor says, what is really of interest to SilverAsh is the value of Rhodes Island Pharmaceuticals itself, as well as the Doctor he regards as a competent rival... 
+	 Dr. Kal'tsit is opposed to trying to make any further contact with SilverAsh. Though the Doctor may have other ideas.
+
+	파일 자료 2 :
+	    실버애쉬는 문학과 예술을 사랑하고, 사냥과 수집을 즐기며, 쉐라그 전통 검술에도 상당히 조예가 깊을 뿐만 아니라, 일거수일투족에 쉐라그 전통 귀족의 품격이 느껴진다. 그러나 그런 전통적인 모습과는 반대로, 실버애쉬의 사고방식이나 일처리 방식에는 현대 교육이 가져온 진보 컴플렉스와 열정이 묻어있다.
+	    이런 카란 무역회사의 대표 실버애쉬는, 로도스 아일랜드 내에선 논란의 여지가 꽤나 많은 인물이다. 모든 오퍼레이터들은 공통적으로, 실버애쉬는 다른 로도스 아일랜드 오퍼레이터들처럼 쉽게 명령을 듣거나, 통제받지 않을 것이라고 생각했다.
+	    하지만 실버애쉬와 그의 직원들은 신분의 위아래 구분 없이 로도스 아일랜드와 굉장히 긴밀한 협력 관계를 유지하고 있으며, 전략 계획이든, 전술 지휘든, 많은 오퍼레이터들이 실버애쉬의 실력에 감탄하였다.
+	    대다수의 오퍼레이터보다 걱정이 많고, 음모나 조직내 정치에 익숙한 일부 오퍼레이터들은 실버애쉬의 진정한 목적이 무엇인지 의심하였다. 물론 그가 로도스 아일랜드에서 치료를 받고 있는 자신의 여동생, 클리프하트를 걱정하고 있다는 것은 확실했지만, 이것이 그가 로도스 아일랜드를 신뢰하는, 혹은 로도스 아일랜드가 그를 충분히 신뢰할 수 있는 이유가 될 수는 없다고 생각했기 때문이다.
+	    어쩌면 소문대로, 실버애쉬가 진정 관심있는 부분은 오직 로도스 아일랜드 제약회사의 가치 그 자체와, 그가 스스로 자신의 맞수라고 여기는 박사일지도 모른다. 닥터 켈시는 실버애쉬와 더 이상 접촉하지 말라고 분명히 충고하였으나, 어쩌면 박사는 자신만의 생각이 있는 것일지도 모르겠다.
+
+———————————————————————————————
+
+	档案资料三 :
+	据传言，银灰的父母在银灰少年时意外身亡，现场证据更是指向银灰-希瓦艾什家族的政敌。 
+	然而，也许是因为希瓦艾什家族的没落太过迅速，这件事竟然不了了之。 
+	事故对年少的银灰必然造成了巨大影响，而银灰也并非软弱的富家子弟，他没有陷入自怨自艾的境地，而是继续抚养两位胞妹，直到她们能够自理为止。 
+	之后，银灰离开了谢拉格，前往维多利亚接受现代化教育，任由政敌们瓜分希瓦艾什家族的政治遗产。谢拉格三族议会名存实亡。 
+	这一状况持续到银灰归国为止。回国之后，银灰重新担负起了振兴家族的重任。 
+	当然，据罗德岛干员崖心的证词，归来的银灰已经不再是当年那个和善早熟，咬着牙忍耐一切的银灰少爷。 
+	之后，喀兰贸易公司迅速崛起，垄断了原本被谢拉格禁止开发的多项现代产业，向其它国家大量出口商品与原料，并进口现代工业产品，于短时间内积累了巨额资本，而希瓦艾什家族也因为企业的成功，重新自取回了自己在三族议会中的地位。 
+	也许是因为另一场政治阴谋，银灰的两位妹妹都各自遭遇了会对希瓦艾什家族产生巨大影响的事件：长妹初雪在宗教仪式中被选作喀兰圣女，幺妹崖心感染了矿石病。 
+	罗德岛方面倾向于这是一种政治对抗的举措，但崖心认为，这一切都再一次催化了银灰的意志。 
+	现在，没人知道银灰会采取什么手段，正如没人知道他与罗德岛的合作究竟源于何种目的。
+
+	第三資料 :
+	シルバーアッシュの両親は彼がまだ少年の頃に不運な死を遂げたとされている。しかし噂によると、彼らの命を奪ったのはシルバーアッシュ家の政敵によるものであると、現場の証拠が告げていたという。
+	しかし、その後のシルバーアッシュ家の没落はあまりにも早く、その事件はうやむやにされてしまったそうだ。
+	その事故が当時のシルバーアッシュに大きな影響を与えたのは確かではあるが、彼は決してそこで終わる軟弱なお坊ちゃまなどではなかった。後悔の念に囚われることもなく、二人の妹が自立するまで育て上げたのであった。
+	その後イェラグを離れ、ヴィクトリアで現代的な教育を受けた彼は、シルバーアッシュ家の財産を政敵たちに引き渡すこととなる。それによって、イェラグ三族議会におけるシルバーアッシュ家は名ばかりの存在となった。
+	そんな情勢はシルバーアッシュが帰国するまで続いたが、国に戻った彼は、再び一族の再起を目標に掲げたのであった。
+	クリフハートによると、優しく大人びており、歯を食いしばり全てに耐えていたシルバーアッシュ少年は、帰国時には別人の様に変わっていたという。
+	その後、カランド貿易は急速に力を付け、本来イェラグで開発が禁止されていた多くの現代産業の封を切り、それらを独占した。国外に向けて大量の商品や原料を輸出し、さらに現代工業品を輸入したことで、短期間で巨額の資本を生み出した。その成功に伴い、シルバーアッシュ家は三族議会での地位を取り戻した。
+	その後、シルバーアッシュの二人の妹がそれぞれシルバーアッシュ家に大きな影響を与える出来事に巻き込まれるが、それは政治的陰謀と噂されている。長女のプラマニクスはカランドの巫女に選ばれ、次女のクリフハートは鉱石病に感染したのだ。
+	ロドスとしては、それらはシルバーアッシュ家を揺るがす程の政治的制裁であったという認識だが、クリフハートが主張するには、それらの出来事によって、シルバーアッシュの意志はむしろより強固になったという。
+	現在、シルバーアッシュがどんな手段を使うのかも、彼がロドスと結んだ協力関係の目的も、それを知る者はどこにもいない。
+
+	Archive File 3 :
+	According to rumor, SilverAsh's parents died in a so-called accident when he was a child. Despite the ruling, evidence at the scene pointed to foul play by political enemies of the Silverash clan. Perhaps because of the rapid decline of the Silverash Family, this matter was left unsettled. 
+	Naturally, the incident had a huge effect on young SilverAsh's life. But as SilverAsh was the scion of a wealthy family and not a weakling by any means, he never sank into despair, and even kept raising his two younger sisters until they were old enough to take care of themselves. 
+	Thereafter, SilverAsh left Kjerag and headed to Victoria to receive a modern education, and let the Silverash family's political enemies divide up their legacy amongst themselves. The Three House Parliament of Kjerag was three houses in name only. 
+	This state of affairs lasted until SilverAsh returned back to Kjerag. Upon his homecoming, the young master took upon himself the weighty responsibility of rebuilding his clan. 
+	Now according to Cliffheart's testimony, the SilverAsh who had returned was no longer the gentle and precocious youngster he used to be, who would grit his teeth and bear all that the world threw at him. 
+	Thereafter, the Karlan Trade Company quickly rose to seize a monopoly in a large number of modern industries that had previously been banned in Kjerag. He exported goods and raw materials to other countries and imported modern industrial products. In doing so, he accumulated a vast amount of wealth in a very short time, and the success of his company restored the Silverash Family name to its position in the parliament. 
+	In what may have been a series of plays by rival clans, SilverAsh's two younger sisters each suffered a turn of fortune that would have a huge impact on the Silverash family: Pramanix was christened a Karlan Saintess in a religious ritual, and Cliffheart was infected with Oripathy. 
+	Rhodes Island tends to believe that these were acts of political opposition, but Cliffheart thinks that these events merely once again catalyzed SilverAsh's resolve. 
+	Now, no one knows what SilverAsh will do, just as no one knows the purpose behind his collaboration with Rhodes Island.
+
+	파일 자료 3 :
+	    소문에 의하면 실버애쉬의 부모는 그가 소년일 때 뜻밖의 사고로 사망했으며, 현장에 남아 있던 증거에 의하면 실버애쉬 가문의 정적이 범인일 가능성이 높다고 한다. 그러나, 실버애쉬 가문이 너무나 급속도로 몰락했기 때문인지, 이 사건에 대한 조사는 흐지부지되고 말았다.
+	    이 사고는 소년이었던 실버애쉬에게 엄청난 영향을 끼쳤다. 당시 실버애쉬는 허약한 부잣집 도련님 같은 인물이 아니었기에 무의미하게 자신을 책망하거나 하지 않았고, 꿋꿋이 두 명의 여동생들이 자립할 수 있을 때까지 보살펴주었다. 
+	    이후 실버애쉬는 현대식 교육을 받기 위해 쉐라그를 떠나 빅토리아로 향했고, 그사이 정치적 적수들은 실버애쉬 가문의 정치적 유산을 맘대로 나눠가졌으며, 쉐라그의 삼족 의회는 이름만 삼족 의회인 채로 남게 되었다.
+	    하지만 이런 상황은 실버애쉬가 귀국하는 순간까지만 계속되었다. 귀국 후 실버애쉬는 다시 한 번 가문을 부흥시켜야 한다는 책임을 등에 업었다. 로도스 아일랜드 오퍼레이터 클리프하트의 증언에 의하면, 그렇게 쉐라그로 돌아왔을 때의 실버애쉬는 이미 예전의 착하게 이를 악물고 모든 걸 참기만 했던 그 실버애쉬 도련님이 아니었다고 한다.
+	    이후 카란 무역회사는 빠른 속도로 성장하여, 기존에 쉐라그에 의해 개발이 금지되었던 여러 현대식 농업을 독점하고, 타 국가에 상품과 원료를 대량 수출하였으며, 현대식 공업 제품을 수입하여 단기간 내에 엄청난 양의 자본을 축적, 삼족 회의에서의 지위를 다시 회복하게 되었다.
+	    실버애쉬 가문에 지대한 영향을 끼친 정치적 음모일지도 모르는 또 다른 사건으로는, 첫째 여동생 프라마닉스가 종교 의식 중 카란의 성녀로 선택되었다는 것이고, 막내 여동생 클리프하트가 광석병에 감염된 사건이 있다.
+	    로도스 아일랜드는 이를 정치적 목적을 위해 의도된 사건으로 보고 있고, 클리프하트는 이 모든 일들이 또 한 번 실버애쉬의 의지를 강하게 만들었다고 생각하고 있다. 현재 실버애쉬가 어떤 일을 꾸미고 있는지는 아무도 알지 못한다. 아무도 그가 로도스 아일랜드와 협력하는 목적이 무엇인지 모르는 것처럼 말이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	我反对罗德岛与喀兰贸易公司之间的来往。
+	不，我并没有发现什么蛛丝马迹，也没有相应的证据。
+	只是，我想请各位再好好想想。
+	现在的谢拉格，需要的是什么？
+	谢拉格三族议会的统治风雨飘摇，谢拉格守旧派与改革派的矛盾越来越激烈。
+	喀兰贸易公司表面上只是一个对外贸易公司，但它的真正主人，却是三族议会中，与守旧派的两族族长严重不和的希瓦艾什家族族长，恩希欧迪斯.希瓦艾什——
+	——也就是罗德岛干员崖心的兄长，银灰。
+	我很确信，喀兰贸易公司没有向谢拉格缴纳哪怕一分钱。国营？哼，它的运作完全是由银灰自己操控的，它的运营目标自然也是。
+	现代军事装备经由雷神工业之手，通过喀兰贸易公司的渠道流入谢拉格，守旧派却连追踪货物的下落都做不到。
+	通商轨道已经修到了喀兰圣山脚底，蔓珠院在其他两族的使意下，利用已经成为圣女的银灰胞妹初雪向银灰施压，要求希瓦艾什家族退出三族议会，交出谷地与矿区的实际统辖权。
+	而喀兰贸易公司送去集训的部队已经从维多利亚的阿斯卡拉郡返回，他们现在身处何方？迂腐的谢拉格守军根本一无所知。
+	所以现在的谢拉格，最需要的是什么？压力几乎达到饱和的容器，需要的是什么？
+	
+	外力。
+	一点微小的外力。只要这轻轻一推......
+	雪崩会掩埋整个谢拉格，包括它所隐瞒的阴谋和发生过的一切。
+	
+	我承认，也许喀兰贸易公司没有包藏祸心。
+	即便如此，我们当真应该因为干员崖心收到的一封密信，以身犯险吗？
+	至少这种程度的风险，不能由整个罗德岛来承担。
+	
+	——杜宾，于雪山事变发生十二日前的会议
+
+	第四資料 :
+	【権限記録】
+	私はカランド貿易と取引することには反対だ。
+	いや、謀略の手掛かりを見つけたわけでも、何か確証があって言っているわけでもない。
+	ただ、皆にはもう一度よく考えてほしいと思っている。
+	現在のイェラグに、必要なものは何だと思う？
+	不安定で統制がとれていないイェラグ三族議会では、保守派と改革派の衝突は日に日に激しさを増している。
+	カランド貿易は表向きはただの貿易会社だが、その真の支配者は、保守派の両族の族長と不仲であるシルバーアッシュ家の当主、エンシオディス・シルバーアッシュ。
+	――そう、クリフハートの兄、シルバーアッシュだ。
+	カランド貿易はイェラグに少しの金も収めてはいないと私は確信している。国営企業？フンッ、関係ない。シルバーアッシュが運営を掌握している以上、自然とそうなるだろう。
+	レイジアンで製造された最新の軍事設備はカランド貿易を経由してイェラグに輸入されているが、保守派はそれらの行方を追うことすら出来ないそうだ。
+	貿易用の線路がカランド山の麓に引かれたが、蔓珠院を有する保守派は、巫女であるプラマニクスを利用しシルバーアッシュ家に圧力をかけ、三族議会から抜けること、谷あいと鉱区の実質的な統治権を差し出すことを要求している。
+	カランド貿易が強化訓練に送り出した部隊は既にヴィクトリアのアスカラから戻っているはずだが、現在どこで何をしているかを知るものはいない。当然ながら役立たずのイェラグ防衛軍も全く何も分かってはいまい。
+	そうやって表面張力ギリギリでなんとか保っているイェラグに今必要なものは何かわかるか？
+	
+	外圧だ。
+	ほんの少しの外圧。少し力を加えてやるだけで……
+	雪崩がイェラグの全てを覆い尽くすことになる。ひた隠しの陰謀、これまでに起きたことも全て雪の下に葬られる。
+	
+	私とて、カランド貿易に何の裏もない可能性は否定しない。
+	それでも、クリフハートが受け取った一通の密書を信じて、我々が身の危険をさらす必要はあるのか？
+	少なくとも、そのようなリスクをロドス全てで負うことは出来ない。
+	
+	――ドーベルマン、雪山事変発生12日前の会議にて
+
+	Archive File 4 :
+	[Classified Log]
+	I am opposed to the dealings between Rhodes Island and the Karlan Trade Company.
+	No, I have not found any hints of anything sinister, nor do I have any proof of anything untoward.
+	I just want everyone to think this through carefully.
+	What is it that Kjerag needs right now?
+	The Three House Parliament of Kjerag is in a political crisis. The conflict between the Kjerag conservative faction and the reformist party have gotten more and more intense.
+	On the surface, the Karlan Trade Company is only concerned with foreign trade. However, its true owner is none other than Enciodes Silverash, head of the Silverash Family and opponent of the two conservative houses in the country's parliament.
+	You may also know him as SilverAsh, brother of Rhodes Island Operator Cliffheart.
+	I am convinced that the Karlan Trade Company doesn't pay a cent to the government of Kjerag. It isn't a state-owned enterprise! Its operations and business are controlled entirely by SilverAsh himself!
+	Modern military equipment has passed from Raythean's hands, through the Karlan Trade Company's channels, and into Kjerag. The conservative faction doesn't even have any means of tracing the whereabouts of the goods.
+	The trade route has already been moved to the foot of the holy mountain, Karlan. The Vine-Bear Court has already used SilverAsh's sister, Saint Pramanix, as leverage to try to get the Silverash family to leave the Three House Parliament and hand over control of the valley and mining sites.
+	The troops the Karlan Trade Company sent to the training camps have already returned from Ascarat County in Victoria. Where are they now? The conservative Kjerag guards don't have any idea.
+	So what does Kjerag need most right now? We are reaching a boiling point here. What do they need?
+	
+	Pressure from outside.
+	Just a little bit of pressure from the outside. Just the tiniest little push...
+	The avalanche will bury all of Kjerag, including all of its conspiracies and all of the matters of the past.
+	
+	I admit that perhaps the Karlan Trade Company isn't hiding anything dangerous.
+	Even so, should we really put ourselves in danger just because Cliffheart received a secret letter?
+	At the very least, Rhodes Island as a whole should not assume this magnitude of risk.
+	
+	--Dobermann, at the meeting 12 days before the incident at the mountain.
+
+	파일 자료 4 :
+	[제한된 기록]
+	    난 로도스 아일랜드와 카란 무역회사 간의 교류를 반대한다. 아니, 뭔가 구체적 정황을 포착했다거나, 유효한 증거를 찾은 건 아니지만… 단지, 다들 다시 한번 잘 생각을 해보라고 권하고 싶어. 지금 쉐라그가 필요로하는 건 뭘까? 지금 쉐라그 삼족 의회의 운명은 마치 바람 앞의 등불과도 같아, 쉐라그 보수파와 개혁파의 대립이 갈수록 심해지고 있어. 카란 무역회사는 겉으론 평범한 대외 무역 회사지만, 그 회사의 주인은 바로 그 삼족 의회에서, 보수파인 두 족장과 굉장히 사이가 좋지 않은 실버애쉬 가문의 족장, 엔시오데스 실버애쉬, 바로 로도스 아일랜드 오퍼레이터 클리프하트의 오빠인 실버애쉬란 말이지.
+	    내가 장담하는데, 카란 무역회사는 쉐라그에 단 한 푼의 세금도 납부한 적이 없을 거야. 국영? 흥, 그 회사의 운영은 온전히 실버애쉬 자신에 의해 좌우된다고, 운영 목적도 당연히 마찬가지지. 현대 군사 장비는 레이시언 공업의 손을 거쳐, 카란 무역회사를 통해 쉐라그로 들어오고 있는데, 보수파들은 그 물건들의 행방조차 모르는 상황이지. 상업 루트는 이미 카란 성산 밑으로 이전되었는데, 만주원은 다른 두 부족의 뜻에 따라 성녀가 된 실버애쉬의 친여동생 프라마닉스를 압박하여, 실버애쉬 가문이 삼족 의회를 탈퇴해줄 것과 곡물 지대와 광산의 실제 관할권을 넘길 것을 요구하였어.
+	    그리고 카란 무역회사가 훈련을 보낸 부대는 빅토리아 아스카라로 부터 이미 돌아왔는데, 이들은 지금 어디 있을까? 나태한 쉐라그 수비군은 아무것도 모르고 있어. 그러니까 지금의 쉐라그가 가장 필요한 게 뭘까? 압박감이 이미 포화상태에 다달았는데, 어떤게 필요할까? 외부의 힘. 아주 조금의 외력. 이렇게 살포시 밀기만 해도…… 
+	    눈폭풍이 전체 쉐라그를 덮어 버릴꺼야, 그들이 숨겨왔던 음모와 발생했던 모든 사건들이 함께 말이지. 인정해, 어쩌면 카란 무역회사가 아무런 흑심도 품고 있지 않을 수도 있단걸. 하지만 그렇다 하더라도, 우리가 오퍼레이터 클리프하트가 받은 한 통의 비밀 서신을 진짜로 여기고, 그 위험을 감수할 필요가 있을까? 이정도의 위험이라면, 최소한 로도스 아일랜드 전체가 함께 부담하는 일은 피해야 할거야.
+	
+	——도베르만, 설산 사변이 발생하기 12일 전의 회의 중.
+
+———————————————————————————————
+
+	晋升记录 :
+	【晋升资料】
+	大家听到的那些故事，我觉得并没有那么可怕。许多人都有着自己的生活轨迹，因为遭遇种种事情而改变，真的再正常不过了。
+	因此，我不希望大家把银灰先生当作一种威胁。
+	想要在这片大地上生存下去，信任与合作是必要的。既然银灰先生现在将博士和罗德岛当作合作伙伴，那么，罗德岛即使是因为提防银灰先生，而不那么依赖喀兰贸易公司的援助......我们罗德岛也不应该将银灰先生当作敌人来看待。
+	如果把别人当作敌人，下意识地就会去做一些我们面对敌人才会做的事情，双方不断疏远，即使是原本能成为朋友的人，也会成为敌人的。
+	我知道凯尔希医生所说的，潜在的敌人......
+	但我觉得，是否会成为敌人，这取决于博士和银灰先生间的交往，而不是银灰先生拥有的才能、实力，还有行为方式。
+	交给博士吧。他才是银灰先生指定的对接人。
+	决定，就由博士自己来做。
+	
+	——阿米娅
+
+	昇進記録 :
+	【昇進資料】
+	皆さんが聞いたという例の話ですが、私はそんなに怖いとは思いません。誰にだって自身の生活があり、それが様々な事情で変わってしまうのは、とても自然なことだと思います。
+	ですから、私は皆さんにシルバーアッシュさんを脅威だと考えてほしくありません。
+	この大地で生きていくためには、信頼と協力が必要不可欠です。シルバーアッシュさんが現在ドクターに、そしてロドスに力を貸してくれている以上、ある程度警戒してカランド貿易とは深い関係を結ばないとしても……私たちロドスはシルバーアッシュさんを敵と見なすべきではありません。
+	そうやって敵だと決めつけてしまえば、無意識のうちに敵対行動を取ってしまって、どんどん関係が疎遠になってしまうかもしれません。本来友人になれたはずの人まで、敵になってしまうということもあると思います。
+	ケルシー先生の言う「潜在的な敵」という考え方も理解できますが……
+	ですが、本当に敵になってしまうかどうかなんて、ドクターとシルバーアッシュさんの今後の関わり方次第だと思います。シルバーアッシュさんの才能や実力、考え方だけでそれが決まるなんてことは無いはずです。
+	ドクターに任せしましょう。シルバーアッシュさんが指定した仲介人ですから。
+	どうするかの決定は、ドクターに下してもらおうと思います。
+	
+	――アーミヤ
+
+	Promotion Record :
+	[Promotion Materials]
+	I don't think the stories everyone's heard are so terrible. Everyone's life has a trajectory that wobbles as the world turns. It's normal.
+	Therefore, I don't want anyone to think of Mr. SilverAsh as a threat.
+	To survive in this land, you need to have trust and cooperation. Since Mr. SilverAsh now regards the Doctor and Rhodes Island as partners, even if Rhodes Island doesn't want to rely too much on the Karlan Trade Company's help because it is skeptical of Mr. SilverAsh, we should not regard him as an enemy.
+	If you regard someone as an enemy, then subconsciously you will treat them like one. The two sides will drift apart, and even if they could have become friends, they will become enemies.
+	I know what Dr. Kal'tsit said about hidden enemies...
+	I just feel that whether or not SilverAsh will really become our enemy depends on the relationship between the Doctor and Mr. SilverAsh, and not on the abilities, strength, or behavior of Mr. SilverAsh alone.
+	Let the Doctor take care of it, as Mr. SilverAsh's designated handler.
+	And that's that. The Doctor will handle this situation.
+	
+	- Amiya
+
+	승진 기록 :
+	[승진 자료]
+	 모두가 들으셨던 그 이야기들, 그렇게 무서운 건 아니라 생각해요. 사람들 모두 각자 자신의 삶의 궤도가 있는데, 이 궤도가 이런저런 일을 겪으며 변화하는 건, 매우 당연한 거라 생각해요. 그렇기에, 저는 여러분들이 실버애쉬 씨를 일종의 위협적 존재로 여기시지 않았으면 해요.
+	 이 땅에서 살아가려면, 신뢰와 협력은 필수에요. 실버애쉬 씨가 박사님과 로도스 아일랜드를 협력 파트너로 정한 상황에서, 로도스 아일랜드가 실버애쉬 씨를 경계한다면, 저희는 카란 무역회사의 도움을 받아선 안된다고 생각해요…… 우리 로도스 아일랜드는 실버애쉬 씨를 적으로 대해선 안돼요.
+	 만약 다른 사람을 적으로 여긴다면, 우리는 무의식적으로 적에게나 할 법한 행동을 그 사람에게 하게 될 테고, 두 세력 간의 사이는 점점 멀어지겠죠. 원래 친구가 될 수 있었던 사이라도 적이 되고 말 거예요. 켈시 선생님께서 말씀하신 것은 잘 알고 있어요… 잠재적 적…… 하지만 저는 정말 적이 될지 여부는 실버애쉬 씨가 가진 능력, 실력, 행동 방식에 달린 게 아니라, 박사님과 실버애쉬 씨 사이의 관계에 달려 있다고 생각해요.
+	 박사님께 맡겨 보도록 하죠. 박사님은 실버애쉬 씨가 지정한 진정한 교섭인이니까요. 결정은, 박사님께서 하시는 걸로 해요.
+	
+	——아미야

@@ -25,7 +25,7 @@
 
 [Decision(options="欸，你是——",values="1")]
 [Decision(options="あれ、君は――",values="1")]
-[Decision(options="Huh?  You’re…",values="1")]
+[Decision(options="Huh?  You're...",values="1")]
 [Decision(options="어, 너는……",values="1")]
 
 [name="锡兰"]   黑！太好了你终于来了！

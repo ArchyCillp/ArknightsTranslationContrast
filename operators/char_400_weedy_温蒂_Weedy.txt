@@ -1,11 +1,17 @@
 ID:
 	char_400_weedy
 
-干员代号\Name:
+CV:
 	温蒂
 	ウィーディ
 	Weedy
 	위디
+
+干员代号\Name:
+	长绳麻理亚
+	長縄まりあ
+	Maria Naganawa
+	나가나와 마리아
 
 招聘合同\Character Usage:
 	罗德岛生物工程研究员温蒂，研究之余踏上战场。
@@ -48,177 +54,464 @@ ID:
 	액체 질소 대포
 
 语音\Voices:
-	博士的房间还是挺整洁的嘛，还不赖。
 	ドクターの部屋って意外ときれいだね。いいんじゃない。
-	Doctor, you’ve managed to keep your room clean. Not bad.
+	Doctor, you've managed to keep your room clean. Not bad.
 	박사의 방은 의외로 깨끗하네. 좋은데.
 
-	水是大家生活的核心，我已经跟可露希尔小姐交流过改善罗德岛净水系统的事情了，希望我的研究成果能给帮上忙......这样我也不用担心用水不干净了。
 	水は生活の中心。クロージャとも浄水システムの改善について話したけど、私の研究が役に立てばいいなと思ってる……そうすれば私も水道水の汚れを心配しなくて済むから。
-	Water is the core ingredient of life. I’ve talked to Miss Closure about improving Rhodes Island’s water purification system. I hope that my research can be of help... so I don’t have to worry about the water being dirty anymore.
+	Water is the core ingredient of life. I've talked to Miss Closure about improving Rhodes Island's water purification system. I hope that my research can be of help... so I don't have to worry about the water being dirty anymore.
 	물은 생활의 중심이야. 클로저와도 정수 시스템 개선에 관해 이야기했지만, 내 연구가 도움이 되면 좋겠어…… 그렇게 하면 나도 수돗물의 오염을 걱정하지 않아도 되니까.
 
-	这只仿生海龙小叶是我以家族流传的图案为原型制作出来的，除了辅助作战，在日常生活中也可以帮我不少忙，比如倒个水拎些重物之类的。
 	このシードラゴンのリーフ、一族に代々伝わるモチーフを原型に作ったの。戦闘のサポート以外に、普段の手伝いもよくしてくれる。水を注いだり、重いものを持ってもらったりとか。
 	This is Leaf, a Bionic Seadragon that I produced from a prototype design passed across my family. In addition to auxiliary combat functions, he helps out a lot in my daily life, such as pouring water, lifting heavy things, and so on.
 	이 씨드래곤 '리프'는 일족에 대대로 전해 내려오는 모티브를 바탕으로 만든 거야. 전투 서포트 말고도 평소에 많이 도와줘. 물을 주거나, 무거운 것을 들어 주거나.
 
-	和格劳克斯约好的自动化工程实验时间差不多快到了，博士有兴趣一起去看看吗？
 	そろそろグラウコスと約束した自動化エンジニアリングの実験の時間だけど、ドクターも興味あれば来る？
-	Glaucus and I agreed that we’d conduct our automation engineering experiment at about this time. Doctor, if you’re interested, want to come take a look?
+	Glaucus and I agreed that we'd conduct our automation engineering experiment at about this time. Doctor, if you're interested, want to come take a look?
 	슬슬 글라우쿠스랑 약속한 자동화 엔지니어링 실험을 할 시간인데, 박사도 흥미가 있으면 올래?
 
-	这些蓄水炮本来都是为了工程才制造的，除了高压水以外，还可以释放出高温蒸汽束。所以请不要随便触碰，他们可不是可露希尔的小车。
 	この蓄水砲は元々工事のために作られたもので、高圧放水以外に、高温スチームも放射できる。だからむやみに触らないで、クロージャの支援ロボットとは違うから。
-	These reserve water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. Please don’t touch them haphazardly; they’re not like Closure’s little buggies.
+	These reserve water cannons were originally made for industrial usage. In addition to shooting pressurized water, they can also release high-temperature steam. Please don't touch them haphazardly; they're not like Closure's little buggies.
 	이 축수포는 원래 공사를 위해 만든 거라서, 고압 방수 말고도 고온 스팀도 방사할 수 있어. 그러니까 함부로 만지지 마. 클로저의 지원 로봇과는 다르니까.
 
-	这些高阶的作战资料是我自己根据作战情况总结的。为了之后的战斗，就麻烦博士仔细阅读一下。然后之后还有好几个我想完善的作战实验也麻烦博士帮我一起，博士肯定不会拒绝我的吧。
 	この高等作戦資料は作戦状況に基づいてまとめたもの。今後のためにも、ちゃんと目を通しておいて。それから完成させたい作戦実験もいくつかあるから、それも付き合って。ドクターなら断ったりしないでしょ。
-	These high-level combat data materials are based upon my own summaries of the combat situation. Doctor, please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I’d like to perfect that I will need your help on. I trust that you won’t turn me down?
+	These high-level combat data materials are based upon my own summaries of the combat situation. Doctor, please read them carefully for the sake of future battles. After that, there are a few operation-related experiments I'd like to perfect that I will need your help on. I trust that you won't turn me down?
 	이 고등 작전 자료는 작전 상황에 기반해서 정리한 거야. 앞으로를 위해서도 제대로 훑어봐 둬. 그리고 완성하고 싶은 작전 실험도 몇 가지 있으니까 그것도 함께해 줘. 박사라면 거절하진 않을 거잖아?
 
-	平时我也偶尔会去一趟调香师小姐的庭院休息休息。那里的气味就能让人能彻底放松下来，对于缓解研究的疲劳实在是再有效不过了，下次博士要一起去试试吗？
 	たまには息抜きにパフューマーさんの庭に行くこともあるよ。あそこの香りは人を心の底からリラックスさせるし、研究の疲れを和らげるには最適だから。今度ドクターも一緒に行く？
-	I occasionally go to Perfumer’s Convalescence Garden to relax. The aroma there can really wash all your stress away, and it’s a very effective way of relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?
+	I occasionally go to Perfumer's Convalescence Garden to relax. The aroma there can really wash all your stress away, and it's a very effective way of relieving the fatigue from research. Doctor, how about we head there together and give it a try next time?
 	가끔 한숨 돌리려 퍼퓨머 씨네 정원에 갈 때도 있어. 그곳의 향기는 사람을 마음속 깊이 편안하게 해주고, 연구의 피로를 푸는 데에는 딱 좋거든. 다음에 박사도 같이 갈래?
 
-	我才不会一个人的时候跟仿生海龙聊天！给他起名字是为了做区分！
 	一人でシードラゴンと喋ってなんかいないから！名前付けてるのは他の子と区別するためってだけだし！
-	I definitely do not talk to my Bionic Seadragons when I’m alone! I only gave him a name to help distinguish him more easily!
+	I definitely do not talk to my Bionic Seadragons when I'm alone! I only gave him a name to help distinguish him more easily!
 	혼자서 씨드래곤이랑 말하고 그러진 않는다고! 이름을 붙인 건 다른 애들이랑 구별하기 위한 것뿐이거든!
 
-	受了不少博士的关照，最近我也越来越习惯待在有博士在的环境里了。除了格劳克斯和研究的同事，明明还挺少见的。
 	こうやってお世話になってるうちに、ドクターのいる生活にも慣れてきた。グラウコスや研究者仲間の他に、こんな人ほとんどいないよ。
-	Thanks to your compassion, I’ve recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can’t say that about many people.
+	Thanks to your compassion, I've recently become more accustomed to having you around, Doctor. And apart from Glaucus and some other research colleagues, I can't say that about many people.
 	이렇게 신세를 지고 있는 동안 박사가 있는 생활에도 익숙해졌어. 글라우쿠스나 연구자 동료들 외에 이런 사람은 거의 없어.
 
-	安静的环境真好。
 	やはり静かな環境が一番。
 	Peace and quiet is best.
 	역시 조용한 환경이 제일이야.
 
-	你好，我是罗德岛工程部的温蒂，很早以前就听说过博士的大名了，希望之后能多多指教。啊，握手的话请用这边带着手套的右手。
 	はじめまして、私はロドスのエンジニア部門所属のウィーディ。ドクターのことは前からよく聞いてるの、これからよろしくね。あ、握手なら手袋をしてるこの右手でお願い。
-	Hello, I’m Weedy from Rhodes Island’s Engineering Department. I’ve heard of your name a long time ago, so I hope we’ll have a productive relationship from now on. Ah, if you want to shake hands, please use your gloved right hand.
+	Hello, I'm Weedy from Rhodes Island's Engineering Department. I've heard of your name a long time ago, so I hope we'll have a productive relationship from now on. Ah, if you want to shake hands, please use your gloved right hand.
 	반가워. 나는 로도스 아일랜드 엔지니어링부 소속의 위디라고 해. 박사에 대해선 전부터 자주 들었어. 앞으로 잘 부탁해. 아, 악수라면 장갑을 낀 이 오른손으로 부탁해.
 
-	嗯，没想到这些还挺有帮助的。
 	うん、こんなのが役に立つとは思わなかった。
-	Hmm, I didn’t expect these to be this helpful.
+	Hmm, I didn't expect these to be this helpful.
 	응, 이런 게 도움이 될 줄은 몰랐어.
 
-	晋升之后，我的个人房间可以再升级一次吗？
 	昇進したら、私の部屋ももう一回グレードアップしてもらえる？
 	After my promotion, can I get another upgrade to my personal room?
 	승진하면 내 방도 한 번 더 업그레이드 받을 수 있을까?
 
-	感谢博士愿意给体弱的我这样的肯定。之后也让我为了罗德岛继续努力吧。
 	身体が弱い私でも、こうやって認めてくれてありがとう、ドクター。これからもロドスのために頑張るよ。
-	Thank you for acknowledging someone as frail as I am, Doctor. I’ll continue to work hard for the sake of Rhodes Island.
+	Thank you for acknowledging someone as frail as I am, Doctor. I'll continue to work hard for the sake of Rhodes Island.
 	몸이 약한 나를 이렇게 인정해 줘서 고마워, 박사. 앞으로도 로도스 아일랜드를 위해 열심히 할게.
 
-	我也要一起吗？
 	私も一緒に行くの？
 	Do I have to go?
 	나도 같이 가는 거야?
 
-	大家听我指挥！
 	皆、私の指示を聞いて！
 	Please listen to my instructions!
 	다들, 내 지시를 들어줘!
 
-	出击！
 	出撃！
 	Attack!
 	출격!
 
-	一切都跟战前预想的一样，开始作战！
 	全て予想通り。作戦開始！
 	Everything is as we planned. To battle!
 	모두 예상 대로야. 작전 개시!
 
-	我在这里。
 	ここにいるよ。
 	I'm right here.
 	여기 있어.
 
-	器械准备完备。
 	機材の準備は万全。
 	My equipment is ready.
 	기재 준비는 다 해놨어.
 
-	交给我吧！
 	任せて。
 	Leave it to me!
 	맡겨줘.
 
-	小叶，我们加油！
 	リーフ、頑張ろうね。
-	Leaf, let’s do our best!
+	Leaf, let's do our best!
 	리프, 열심히 하자.
 
-	发射！
 	発射！
 	Fire!
 	발사!
 
-	锁定敌人！攻击！
 	敵影ロックオン！攻撃！
 	Lock down the enemy! Attack!
 	적을 록 온! 공격!
 
-	全都让开！
 	みんなあっちいって！
 	Out of my way!
 	모두 저리 가!
 
-	哈！
 	はっ！
 	Haah!
 	하앗!
 
-	只要战术正确了，根本就是小菜一碟。
 	戦術さえ正しければ、こんなのなんてことない。
-	Everything’s a piece of cake, as long as we employ the proper tactics.
+	Everything's a piece of cake, as long as we employ the proper tactics.
 	전술만 옳게 짠다면, 이런 건 아무것도 아니야.
 
-	工程学的作用不可小觑！
 	工学の力を甘く見ないで！
-	Don’t underestimate the importance of engineering!
+	Don't underestimate the importance of engineering!
 	공학의 힘을 우습게 보지 말라고!
 
-	......等我回去调整一下设备的参数，不会有下次了。
 	……戻ったらちょっと機材の設定を見直す。次は繰り返さない。
-	...After I head back and adjust the parameters of this device, this won’t happen again.
+	...After I head back and adjust the parameters of this device, this won't happen again.
 	……돌아가면 살짝 기재 설정을 다시 해야겠어. 다음엔 안 이럴 거야.
 
-	小叶， 掩护我们离开这里！
 	リーフ、ここを離脱するから援護して！
 	Leaf, cover our escape!
 	리프, 여기를 이탈할 거니까 엄호해줘!
 
-	这里有打扫过吗？
 	ここ、掃除してあるんでしょうね？
 	Has this place been cleaned before?
 	여기, 청소한 거지?
 
-	等，等一下！
 	ま、待ってよ！
 	H-hey!
 	자, 잠깐만!
 
-	博士，让我也来帮忙做点什么吧。
 	ドクター、私にも何かお手伝いさせてちょうだい。
 	Doctor, is there anything I can help you with?
 	박사, 나도 뭔가 돕게 해줘.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，你好。
 	ああ、ドクター。
 	How do you do, Doctor.
 	안녕, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】温蒂
+	【性别】女
+	【战斗经验】三年
+	【出身地】伊比利亚
+	【生日】1月23日
+	【种族】阿戈尔
+	【身高】155cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ウィーディ
+	【性別】女
+	【戦闘経験】三年
+	【出身地】イベリア
+	【誕生日】1月23日
+	【種族】エーギル
+	【身長】155cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Weedy
+	[Gender] Female
+	[Combat Experience] 3 Years
+	[Place of Birth] Iberia
+	[Date of Birth] Jan 23
+	[Race] Ægir
+	[Height] 155cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 위디
+	[성별] 여
+	 [전투 경험] 3년
+	 [출신지] 이베리아
+	 [생일] 1월 23일
+	 [종족] 에기르
+	 [신장] 155cm
+	 [광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】优良
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Excellent
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	 [전술 계획력] 우수
+	 [전투 기술력] 표준
+	 [오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	生物工程学专家，伊比利亚科研世家出身，罗德岛成立之初就加入的研究者。
+	经过本人长期调整与测试，最终完成了为自己量身定做的武器。并根据自身意愿成为干员，在战场上为同僚提供远程支援。
+
+	個人履歴 :
+	イベリア出身のウィーディは、科学研究を家業とする家庭で生まれた。彼女はバイオテクノロジーの専門家であり、ロドス成立当初からの古株である。
+	長い時間をかけて調整とテストを重ね、ついに自分専用の武器を完成させたウィーディは、自ら望んでオペレーターになった。戦場では遠距離支援の役を担っている。
+
+	Profile :
+	Weedy, a bioengineering expert who was born into a family of Iberian scientists, is a researcher who has been with Rhodes Island since its establishment. 
+	After a long period of testing and adjustment, she has finally completed a customized weapon for herself. She has chosen to become an operator of her own free will, providing long-ranged support to other operators on the battlefield.
+
+	프로필 :
+	    이베리아의 유명한 과학자 집안 출신의 생물 공학 전문가로, 로도스 아일랜드 설립 초기에 연구자로서 합류했다.
+	    본인이 직접 긴 시간에 걸친 조율과 테스트를 거쳐 자신만을 위한 무기를 완성시켰다. 본인의 희망대로 오퍼레이터가 되어 전장에서 동료들에게 원거리 지원을 해주고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员温蒂没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员温蒂在接触源石中做了十足的防护措施。
+	
+	如果温蒂那样的防护措施都能被感染，那泰拉人不要活了。
+	——嘉维尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石に接触する際、彼女はいつも万全な防護措置をとっている。
+	
+	ウィーディほどの防護措置をとってても感染したってなりゃ、テラはおしまいだ。
+	――ガヴィル
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Weedy has no signs of Originium infections. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L
+	Operator Weedy utilizes comprehensive protection when coming in contact with Originium. 
+	
+	If Weedy can still get infected despite all these protective measures, then life on Terra can no longer persist. 
+	—Gavial
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 위디는 광석병 감염 증상이 없다.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 위디는 오리지늄에 접촉하기 전 엄격한 방호 조치를 취한다.
+	
+	만약 위디처럼 방호 조치를 했는데도 감염된다면, 테라인은 전멸하겠지.
+	
+	——가비알
+
+———————————————————————————————
+
+	档案资料一 :
+	洁癖相当严重的科学家。
+	平时完全无法在公共场合见到她的身影。与人交流时，如果注意到对方身上有不整洁的地方，会有礼貌指出并率直地希望对方先整理自己的外表，否则对话就会就此终止。
+	因为这个原因，她的顶头上司，众所周知的不拘小节派，可露希尔小姐在面对她时，会罕见地抬不起头。
+
+	第一資料 :
+	潔癖症の科学者。
+	彼女は普段、公共の場に全く姿を現せない。身だしなみが整っていない人と話す時、彼女は丁寧にそれを指摘し、その場で改善を求める。それができない場合、会話はそこで中止となる。
+	それゆえ直属の上司であるクロージャは、彼女の前では気弱になる。周知の通り、クロージャは大雑把な人間であるからだ。
+
+	Archive File 1 :
+	Weedy is a scientist and a bit of a neat-freak. 
+	Under normal circumstances, she is never seen in public. When interacting with others, if she notices anything untidy about her interlocutor's appearance, she will courteously but bluntly point it out with the expectation that it will be fixed immediately. Otherwise, the conversation will come to an abrupt end. 
+	For this reason, Miss Closure, Weedy's immediate supervisor and renowned slob, has difficulty lifting her head when talking to Weedy - a rare sight to behold indeed.
+
+	파일 자료 1 :
+	    심각한 결벽증이 있는 과학자.
+	    평소 공공장소에서는 위디를 볼 수 없다. 위디가 사람들과 만날 때 상대방에게 청결하지 않은 부분이 있다는 걸 발견하게 된다면, 정중히 겉모습을 정돈해달라고 솔직하게 요청하며, 거절당할 시 바로 대화가 종료된다.
+	    이런 이유 때문에 사소한 것에 신경 쓰지 않는다고 알려진 위디의 직속상관 클로저조차 위디를 만날 때는 드물게도 고개를 들지 못하는 모습을 보이기도 한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	生物工程学是一个近代才出现的学科，科学家们发现如果将工程学的经验与生物理论相结合，能够帮助我们更好地去解决在生物学及医药学等领域等中遇到的各种问题，因此它迅速成为了一门与医学有着紧密联系的学科。
+	尤其是对于罗德岛这样一家试图研究出抑制和治疗矿石病的药物的公司来说，一个生物工程研究室应该说是必须要拥有的。
+	然而，即使罗德岛开出的薪资待遇在业内也属于优渥的水平，但罗德岛在对外宣传中是一家专攻源石研究和矿石病治疗的制药公司，很显然，源石和矿石病两个词会令大部分人望而却步。
+	而哪怕抛开这一点不谈，罗德岛本身需要到处移动的性质，以及存在莱茵生命这样显然拥有更好土壤的科技公司，都导致罗德岛在人才竞争方面是相当弱势的。
+	更何况罗德岛并不是一家纯粹的医药公司，其实在得知罗德岛真正在做的事后选择离开的人也不在少数。
+	总而言之，种种因素交织的结果是，虽然可露希尔的工程部中确实聚集起了许多人才，并且我们也确实有了相当的成果，但无论是规模还是涉及领域，其实都还远远不够。可露希尔也经常在会议中抱怨相关的问题，不过她自己也知道，这确实是没有办法的情况。
+	在这种情况下，以温蒂为首的生物工程研究室，是可露希尔口中，难得完全不用担心的部分。
+
+	第二資料 :
+	バイオテクノロジーは、近代になってから成立した科学分野である。生物学の理論を工学技術と組み合わせることで、薬学をはじめとする各分野の問題を効率よく解決できる――科学者たちがそう結論を出したことで、バイオテクノロジーは速やかに、医学と深く関わる学問へと発展を遂げた。
+	ロドスのような、鉱石病を抑制・治療する薬物の開発を目指す会社にとって、バイオテクノロジーの研究所は本来必要不可欠である。
+	しかし、給与が同業他社より高いにもかかわらず、研究所の設立は捗らない。ロドスの表向きの顔は源石研究と鉱石病の治療を開発課題とした製薬会社である。源石と鉱石病。この二つの単語に、人は怯え躊躇してしまうのだ。
+	性質上、移動し続けなければいけないというのもロドスの弱点だ。ライン生命のような大手企業の存在もあり、ロドスは人的資源の確保という面において競争力に欠けている。
+	それに加え、ロドスは純粋な製薬会社ではない。興味を持った人が入っても、ロドスの本当の事業を知って立ち去ることは少なくない。
+	クロージャのエンジニア部門には、ある程度人材が集まっており、それなりの成果もあげている。しかし規模にしても含める分野にしてもまだ足りない。クロージャは会議でよくこの手の問題について愚痴をこぼすが、どうしようもないことだと彼女自身が一番理解している。
+	そんな状況の中、ウィーディが率いるバイオテクノロジー研究チームは、クロージャにとって、唯一心配無用の部門と呼べるのかもしれない。
+
+	Archive File 2 :
+	Bioengineering is a discipline that has emerged only recently. Scientists have found that by combining biological theory with the experience of engineering, they are in a better position to solve various problems encountered in the fields of biology and medicine. This new discipline quickly became closely linked to the practice of medicine. 
+	Especially for a company like Rhodes Island that seeks to develop drugs to inhibit and treat Oripathy, a bioengineering laboratory can be said to be a necessity. 
+	However, even if Rhodes Island offers a favorable salary compared to the rest of the industry, it is well-known as a pharmaceutical company that specializes in Originium research and Oripathy treatment. Naturally, these are subjects that would discourage most people. 
+	But even setting this point aside, the fact that Rhodes Island needs to be mobile, and the existence of tech companies such as Rhine Lab that can provide a better baseline, has caused Rhodes Island to be at a disadvantage when competing for talent. 
+	Furthermore, Rhodes Island is not purely a pharmaceutical company, and many prospective employees decide to leave after learning about Rhodes Island's true purpose. 
+	All in all, despite the considerable successes of Closure's Engineering Department in attracting a vast amount of talent, Rhodes Island's recruiting efforts are far from enough to meet the scope of the challenges. Closure can often be heard complaining about these difficulties, but she knows that there is little that can be done to improve the situation. 
+	Despite these conditions, there is, according to Closure, one department that she never has to worry about, and that is the Bioengineering Department led by Weedy.
+
+	파일 자료 2 :
+	    생물 공학은 근대에 들어 생겨난 학문 분야다. 과학자들은 만약 공학적 경험 및 지식과 생물 이론을 결합할 수 있다면, 생물학이나 의학 등의 영역에서 겪게 되는 각종 문제들을 더 효과적으로 해결할 수 있을 거라 생각했고, 덕분에 생물 공학은 의학과 긴밀히 연관된 분야로 빠르게 성장하였다.
+	    특히 광석병 억제 및 치료 약물을 연구하는 로도스 아일랜드와 같은 제약회사에 있어서, 생물 공학 연구실은 필수로 갖춰야 할 시설이라 할 수 있다.
+	    로도스 아일랜드는 대외적으론 오리지늄 연구와 광석병 치료를 전문으로 하는 제약회사라 선전하고 있다. 이 때문에 급료와 대우가 업계 내에서도 후한 편임에도 불구하고, 오리지늄과 광석병이라는 두 단어는 대다수 인재들의 발걸음을 돌리게 만들었다.
+	    게다가 이런 점은 차치하더라도, 방방곡곡을 이동해야 하는 로도스 아일랜드에게 있어서, 튼튼한 기반을 갖춘 라인 생명연구소와 같은 과학 기술 회사의 존재는 인재 확보 경쟁에서 불리하게 작용했다.
+	    또한, 로도스 아일랜드가 평범한 제약회사도 아니었으니, 로도스 아일랜드가 실제로 병행하고 있는 업무들을 알게 된 후 적지 않은 인재들이 사직서를 낸다는 점은 말할 필요도 없을 것이다.
+	    요컨대 상술한 것과 같은 원인들로 인해, 클로저의 공학 부서엔 많은 인재들이 모여있고, 또 상당한 성과를 거두긴 했지만, 규모나 연구 영역 면에서는 아직 많이 부족한 것이 사실이다. 클로저도 회의 중 종종 관련 문제에 대해 불만을 표하지만, 자신도 어쩔 수 없는 상황이라는 걸 잘 알고 있다.
+	    이런 상황에서, 위디가 리더로 있는 생물 공학 연구실은, 클로저의 말에 따르면 '드물게도', 전혀 걱정할 필요가 없는 곳이라 한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	虽然罗德岛上聚集着来自泰拉各地的人，但一个来自伊比利亚的生物工程学专家任职于罗德岛依然是一件稍微有些令人惊讶的事。
+	一方面，众所周知，如今的伊比利亚已经对外封锁。
+	而另一方面，对伊比利亚不了解的人，往往会根据一些空穴来风的印象，认为那是一片落后且闭塞的土地。
+	实际上恰恰相反，如果抛开和拉特兰以及阿戈尔错综复杂的关系，伊比利亚是一片有十足风情，且对科学研究相当友好的土地——虽然这个友好是有条件的。
+	这在科学界是一个公开的秘密：在伊比利亚，你可以在大部分领域中进行完全自由的研究，在这些领域，伊比利亚也确实有着令人侧目的成就。但某些领域的研究是完全被禁止的，或者我们应该这么说，在伊比利亚，某些方向的研究是不存在的。
+	有关这一点，在这里展开恐怕足够写一本字典一样厚的近现代史，因此姑且按下不表。不过，生物工程学在伊比利亚是存在的，否则温蒂也无法在这个年纪就成为这个领域的专家，这当然是继承家学的结果。
+	我承认上面的描述有让人以为温蒂是因为被迫害而向罗德岛寻求庇护的嫌疑，不过这些其实只是必要的背景交代，根据现有的情报。
+	温蒂会加入罗德岛的理由，只是她不想留在伊比利亚而出来闯荡——根据温蒂本人的描述，离开的过程中并没有受到多少阻碍，只不过她也被告知，想要再次返回伊比利亚会困难百倍，对此她似乎并没有表达出特别的情绪——并且在接到莱茵生命的offer前，先接到了罗德岛的offer而已。
+	温蒂并不避讳提及比起罗德岛，莱茵生命更适合她的研究这一点，但每当提到这个话题时，她总会加上一句，“但我觉得罗德岛也挺好。”
+	是的，否则她也不会选择踏上战场。
+
+	第三資料 :
+	ロドスにはテラ各地の人間が集まっているが、イベリアから来たバイオテクノロジー専門家がいるという事実に驚かされる者が少なからずいる。
+	イベリアが既に封鎖されていることは周知の事実だからである。
+	また、世間ではイベリアをよく知らず、先入観で未開の地と決め付ける者もいる。
+	しかし、事実はそれと正反対である。ラテラーノやエーギルとの複雑な関係を除けば、イベリアは十分風情があり、研究者にも友好的な国なのだ――ある条件付きで。
+	これは学界で公然の秘密になっていることだが、イベリアでは、大部分の研究は自由に行われている。そしてこれらの分野では、イベリアは着実に成果を出している。しかし一部の分野においての研究は一切禁止されている――いや、イベリアには、それらの分野の研究はそもそも存在しないという方が正しいかもしれない。
+	このことについて述べると分厚い近代史書になりかねないので割愛する。とはいえ、バイオテクノロジーの研究は確かにイベリアに存在しているのだ。ウィーディがこの歳でこの道の専門家になれたのも、家学を受け継いだからである。
+	これらの記述に「ウィーディが迫害に遭いロドスに庇護を求めて来た」と思わせる要素があるのは否めない。だがこれはあくまで現有の情報に基づいた、必要な陳述である。
+	彼女はただ、イベリアに嫌気がさして外に出たいと考えただけだったのだ。彼女の言葉によると、国を出るのは難しくなかったらしい。ただ戻ることは困難になると伝えられたという。そのことについて彼女は別段の感情を示していなかった。その後、ライン生命のオファーより、ロドスのオファーが先に彼女の手に渡された。彼女がロドスに入った理由はそれだけである。
+	ウィーディはロドスより、ライン生命の方が彼女の研究に適していると明言している。しかしそれを言う度に、「でもロドスも悪くないよ」と付け加える。
+	そうでなければ、彼女はロドスのオペレーターとして戦場に立つことは選ばなかっただろう。
+
+	Archive File 3 :
+	While people have joined Rhodes Island from the various corners of Terra, a bioengineer from Iberia is a strange sight indeed. 
+	First, as everyone knows, Iberia has been blocked off from the rest of the world. 
+	Second, though completely unsubstantiated, is the idea that Iberia is some backwards and xenophobic place. 
+	In fact, the inverse is true. Setting aside the complicated relationship between Laterano and Ægir, Iberia is a land full of flair and friendly to scientific research, although this friendship is conditional. 
+	A tacit understanding exists within the scientific community that one is free to conduct whatever research they choose within certain fields; and undeniably, Iberia has made substantial achievements in these fields. However, some fields of research are completely forbidden; or perhaps more accurately, in Iberia, those fields of research do not exist. 
+	To do justice to the modern history behind this situation would require an entire encyclopedia's worth of writing, so I will omit that here. However, bioengineering does exist in Iberia, or Weedy would not have been able to become an expert in the field at such a young age. Naturally, this was a result of her continuing her family's research. 
+	Admittedly, the above description makes it sound as if Weedy is seeking asylum in Rhodes Island to escape persecution, but this is actually a necessary background explanation based upon existing intelligence. 
+	Weedy joined Rhodes Island simply because she no longer wanted to stay in Iberia, and wished to see more of the world. According to her own account, there were virtually no barriers to her leaving, but she was also told that it would be significantly more difficult to return to Iberia - to which she had no particular sentiments. She received an offer from Rhodes Island shortly before receiving an offer from Rhine Lab. 
+	Weedy is not shy about mentioning her belief that Rhine Lab is better suited to her work than Rhodes Island is, but whenever this topic is brought up, she will tack on the phrase, 'but I think Rhodes Island is pretty good too.'  
+	Of course it is. Otherwise, she wouldn't have chosen to set foot upon the battlefield either.
+
+	파일 자료 3 :
+	    비록 로도스 아일랜드에 테라 각지에서 온 사람들이 모여있다고는 하지만, 이베리아 출신의 생물 공학 전문가가 로도스 아일랜드에서 근무 중이란 점은 여전히 사람들에게 조금의 놀라움을 선사했다.
+	    그 이유 중 하나는, 우선 다들 알다시피 지금 이베리아는 국경이 봉쇄되어 있기 때문이다.
+	    또 다른 이유는, 이베리아를 잘 알지 못하는 사람들은 종종 정확한 근거도 없이 이베리아가 낙후되고 폐쇄된 땅이라고 생각하기 때문이다.
+	    하지만 실제로는 이와 정반대다. 만약 라테라노와 에기르 간의 복잡한 관계를 차치한다면, 이베리아는 굉장히 아름답고 과학 연구에 상당히 우호적인 곳이다. 비록 그 우호적이라는 것에는 조건이 붙긴 하지만 말이다.
+	    과학계에는 공공연한 비밀이 하나 있다. 이베리아에서는 대부분의 영역에 대한 완전히 자유로운 연구를 진행할 수 있으며, 실제로도 가시적 성과를 이루어냈지만, 어떤 영역의 연구는 완전히 금지되었다고, 혹은 이베리아에서 어떤 분야에 대한 연구는 아예 존재하지 않는다 것이다.
+	    이 점에 대해 이야기하자면 사전처럼 두꺼운 근현대사 책 한 권을 써야 할 정도이기에, 일단은 이쯤에서 접어두겠다. 다만 이베리아에도 생물 공학이 존재하긴 한다. 그렇지 않다면, 물론 집안 내력 덕분이기도 하겠지만, 위디 역시 지금 나이에, 이 정도 수준의 지식을 갖춘 전문가가 되진 못했을 것이다.
+	    이상 기술한 내용이 사람들로 하여금 위디가 박해를 받아 로도스 아일랜드에 보호를 요청했다는 의혹을 불러일으킬 수도 있다는 점은 인정하지만, 위 내용은 단지 필요한 배경 설명일 뿐이며, 현재 가지고 있는 정보에 근거한 내용이다.
+	    위디가 로도스 아일랜드에 합류한 이유는 그저 그녀가 이베리아를 떠나 세상을 돌아다니고 싶어 했고, 라인 생명연구소의 오퍼를 받기 전에 로도스 아일랜드의 오퍼를 먼저 받았기 때문일뿐이다. 이외에, 위디 본인의 설명에 따르면 이베리아를 떠나는 과정은 쉬웠지만, 다시 이베리아로 돌아가는 것은 이보다 백배는 어렵다는 통지를 받았다고 한다. 그러나 이에 대해 그녀는 별다른 감정의 동요를 보이지 않았다고 한다.
+	    위디는 로도스 아일랜드보다 라인 생명연구소의 연구 환경이 그녀에게 더 적합하다는 점을 언급하는 것을 피하진 않지만, 매번 이런 이야기가 나올 때마다 그녀는 언제나 "그래도 난 로도스 아일랜드가 더 좋은 것 같아"라는 말을 덧붙이곤 했다.
+	    그렇다, 그렇지 않다면 그녀 역시 전장에 나선다는 결정을 하진 않았을 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	投身源石研究的科学家们，尤其是专攻矿石病治疗的科学家们，最不理解部分同行们的一点就是，明明同样是拥有科学精神的人，他们却对感染者似乎有着更为深切的排斥。
+	在过去，用感染者做实验并不被认为是一件不道德的事，时至今日，专门研究感染者，并试图用各种手段证明感染者天生低人一等甚至该死的科学家也不在少数。
+	即使在罗德岛，也有相当一部分研究者仅仅只是克服了对感染者的恐惧，有的时候就连友善相处都谈不上。
+	连在观念上应当是最领先时代的科学家们都是如此，那就更不要提普通人了，有的时候，现实确实会令人感到泄气。
+	但也有温蒂这样的存在。
+	她的能力完全可以让她获得更好的环境，但她留在了罗德岛。她对交流对象的要求仅仅只有保持整洁，她从来不会在意对方是否被感染。她不太与人交流，但她经常用运用自己的技术为其他人做一些力所能及的事，例如一些小玩具，小物件等等。
+	甚至她会踏上战场的理由也很简单，却也令人感动：
+	“我可不可以为他们做些什么？”
+
+	第四資料 :
+	源石の研究、特に鉱石病の治療に身を投じている科学者たちにとって、一番理解できないことは一部の同業者が人一倍、感染者を差別することである。
+	かつて、感染者で人体実験することが非道徳的だとは言われない時代があった。そして時を経た今でさえ、感染者は生まれつきの劣等人種だと証明しようとしている科学者も多くいる。
+	ロドスの研究者たちも、多くはただ感染者への恐怖を克服しただけだ。ゆえに彼らが感染者に向ける態度は友好的とは言えない。
+	時代の最先端の知識を持つ科学者たちでさえ、このような態度をとるのだ。一般人の認識は推して知るべしだろう。事実は時として人を悲観的にする。
+	しかし、ウィーディのような存在もいる。
+	彼女は、能力的にはもっといい職を得られるにもかかわらず、ロドスで働くことを選んだ。当然、関わる相手が感染者であるか否かは気にしない。彼女が気にするのは、相手が清潔か否かだけなのである。そしてそんな彼女は、人と交流することこそ少ないが、小物や玩具を作って仲間たちに送るなど、自分のできる範囲で人助けをしている。
+	彼女が戦場に赴く理由は、至って単純で尊いものである。
+	「私も、彼らの役に立てる？」
+
+	Archive File 4 :
+	Scientists who devote themselves to the study of Originium, particularly those who specialize in treating Oripathy, often find themselves at odds with other researchers because they cannot understand how their colleagues can share the same scientific spirit and yet also harbor a deep rejection of infected peoples.  
+	In the past, experimenting upon infected persons was not considered immoral. Even now, there are no shortage of scientists who specialize in studying the Infected, but with the intention of proving through various means that they are of inferior birth or even deserving of death. 
+	Even in Rhodes Island, there are a number of researchers who only recently overcame their fear of the Infected, and still have not reached a point where they can address those individuals with kindness. 
+	If this is true even among scientists who are supposed to represent the bleeding edge of knowledge, what are we to think about the beliefs of ordinary people? Sometimes, reality can be crushingly disappointing. 
+	However, there are also people like Weedy. 
+	Her abilities would have allowed her to find a better work environment, but she chose to stay with Rhodes Island. Her only demand towards people she is communicating with is that they remain tidy, and she does not care if they are infected or not. She is not particularly talkative, but she does attempt to use her technological expertise to help people within her means, such as making small gadgets or toys for them. 
+	Even her reason for joining the battlefield is as simple as it is moving:
+	'Is there anything I can do for them? '
+
+	파일 자료 4 :
+	    광석병 연구에 헌신하는 과학자들, 특히 광석병 치료를 전문으로 연구하는 과학자들은 분명 동일한 과학 정신을 지닌 사람들임에도 오히려 감염자들을 더욱 배척하는 일부 같은 과학자들을 당최 이해하지 못하겠다고들 한다.
+	    과거엔 감염자를 이용한 실험이 부도덕한 일로 여겨지지 않았고, 오늘날까지도 일부 광석병 연구자들은 각종 수단을 동원해 감염자는 비감염자보다 열등하게 태어났으며, 심지어 죽어 마땅한 존재라는 것을 증명하려고 한다.
+	    로도스 아일랜드만 하더라도, 일부 연구자들의 경우 감염자에 대한 공포를 극복했을 뿐, 감염자들과 사이가 좋다고는 할 수 없는 경우도 꽤 있다.
+	    시대적 이념을 올바른 방향으로 리드해야 할 과학자들조차 이러한대, 보통 사람들은 말할 필요조차 없을 것이다. 때론 이러한 현실이 우리를 힘빠지게 만들기도 한다.
+	    하지만 위디같은 사람도 있다.
+	    위디 정도의 능력이라면 더 좋은 대우를 받으며 연구를 지속할 수도 있지만, 그녀는 로도스 아일랜드에 남았다. 위디가 상대에게 요구하는 것은 청결함뿐이며, 상대의 감염 여부는 늘 관심 대상이 아니었다. 사교성이 좋은 편은 아니었지만, 자신의 능력을 이용, 자주 타인을 위해 작은 장난감이나 물품을 만드는 등, 자신이 할 수 있는 일들을 하곤 한다.
+	    심지어 위디가 전장에 나선 이유 역시 매우 간단하며, 또 감동적이다.
+	    "내가 그들을 위해 뭔가를 해줘도 괜찮을까?"
+
+———————————————————————————————
+
+	晋升记录 :
+	作为一名阿戈尔人，温蒂的身体素质确实有违我们对阿戈尔人的印象。事实上，顺利通过其他测试的她，最终为了通过体能测试，花了整整三个月的时间。
+	不过除了体力和耐力方面的问题，她的身体指标一切正常，甚至应该说，作息稳定又对卫生有高要求的她，是要比大部分干员都要健康的。
+	所以，与其为她担忧，不如向她学习吧，就从今天开始。
+
+	昇進記録 :
+	ウィーディは、エーギル人とは思えないほどに身体能力が低い。実際、彼女は他のテストは難なくクリアしたのに、体力テストをクリアするのに三ヶ月もかかったのだ。
+	とはいえ、体力と耐久力以外の彼女の身体ステータスは全て正常、というより高度な衛生管理と規則正しい生活のおかげで大半のオペレーターよりも健康なほどだ。
+	つまり我々は、エーギルらしくない彼女の心配をするよりも、彼女を見習うべきである。今からでも遅くない。
+
+	Promotion Record :
+	Weedy's physical qualities are somewhat at odds with our impressions of the Ægirians. In fact, after she successfully passed the other exams, she spent an entire three months before she was able to pass the physical component. 
+	Other than her physical strength and endurance, her condition is completely normal, her regimented routine with extra attention to hygiene bears mention. She is arguably even healthier than most of her fellow operators. 
+	Therefore, instead of worrying about her, you should perhaps strive to become more like her, from this day forward.
+
+	승진 기록 :
+	    에기르인으로서의 위디가 가진 신체 소질은 우리가 흔히 알고 있는 에기르인의 그것과는 꽤 거리가 있다. 다른 테스트들은 순조롭게 통과했지만, 마지막 체력 테스트를 통과하기 위해 그녀는 꼬박 3개월의 시간을 소비하였다.
+	    다만 체력과 인내력 쪽의 문제를 제외한 위디의 기타 신체 지표는 모두 정상이며, 일과 휴식 간의 균형을 잘 맞추고, 철저한 위생 관념을 가졌기 때문에, 오히려 대부분의 오퍼레이터들보다 더 건강하다고 할 수 있다.
+	    그러니, 위디를 걱정하는 일은 그만두고, 차라리 그녀를 보고 배우는 게 낫다. 오늘부터 당장.

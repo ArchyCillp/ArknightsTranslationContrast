@@ -1,11 +1,17 @@
 ID:
 	char_355_ethan
 
-干员代号\Name:
+CV:
 	伊桑
 	イーサン
 	Ethan
 	에단
+
+干员代号\Name:
+	吉野裕行
+	吉野裕行
+	Hiroyuki Yoshino
+	요시노 히로유키
 
 招聘合同\Character Usage:
 	罗德岛特种干员伊桑，将以独特的能力为你执行特别任务。
@@ -43,177 +49,419 @@ ID:
 	크로스 훅
 
 语音\Voices:
-	哟，博士，是不是到我换班的时间了？嗯？你说，我好像是忽然从哪儿冒出来的？哪有，我可是刚来办公室啊。
 	よぉドクター、そろそろ俺の当番時間だぜ。ん？どこから湧いてきたって？バカ言うなよ、今ドアから入ってきたじゃねぇか。
 	Yo, Doctor! Is it time for my shift? Hmm? I suddenly popped up out of nowhere? No way, I just left the office.
 	여어 박사, 슬슬 내 당번 시간이야. 응? 어디서 솟았느냐고? 바보 같은 소리 하지 마. 지금 문으로 들어왔잖아.
 
-	我上一份工作是在整合运动，这个我不是说过很多次了吗？背景调查之类的，我可是主动配合你们做的啊！哎，我在整合运动什么事都没做过，连洗心革面什么的都用不着啊。
 	前はレユニオンにいたって何回も言ったじゃねぇか。素性調査なんかも喜んで付き合ってやったろ？つか、別にやましいことは何もやってきてねぇから、改心っつってもなぁ。
 	My last job was with Reunion. Haven't I said that a bunch of times? Hey, aren't I voluntarily helping you with background checks and whatnot? Look, I wasn't involved with anything back when I was with Reunion, so I don't even have any guilt I'd like to wash away.
 	전에 리유니온에 있었다고 몇 번이나 말했잖아. 신상 조사도 기꺼이 응해 줬잖아? 그보다, 딱히 켕기는 짓은 아무것도 안 했으니까 개과천선하라고 해도 말이지…
 
-	要说我对整合运动有什么不满，伙食啊！当然是伙食！我那小队的主食就只有黑面包，硬得像块石头，扔进锅里随随便便炖成汤。我说，对自己的肠胃好一点啊。
 	レユニオンの何が気に食わねぇって？メシだよメシ！俺がいたチームなんか、主食って言えるもんはライ麦パンくらいしかなくてさぁ、しかも石みてぇに固いから、スープにぶち込んで食うってわけ。そうでもしないと胃が痛くなっちまうよ。
 	If there's anything I really hated about Reunion, it was the food! Of course it was the food! The staple food for my team was a piece of blackened hardtack that was as tough as a rock. I had to throw it in a pot and simmer it into a stew before I could stomach that stuff.
 	리유니온에서 뭐가 마음에 안 들었냐고? 밥이야, 밥! 내가 있던 팀은 주식이라고 할 수 있는 건 호밀빵밖에 없었거든. 그것도 돌처럼 딱딱해서 수프에 처넣어서 먹었어. 그렇게라도 하지 않으면 위가 아프다니까.
 
-	你和整合运动的“幽灵”部队应该接触过很多次了吧？我以前就在那工作，任务只是做些侦查，从不和人动手，无聊时就和人打赌，谁被发现的次数最少，现在想想，我根本是在欺负人啊。
 	レユニオンの「ゴースト隊」ってやつとはもう結構やりあったろ？俺も昔はあそこに所属してたんだぜ。まぁ偵察任務ばっかりで、ケンカはなかったけどな。退屈しのぎに、敵に発見された回数の少なさを競ったりしてさぁ。負けないって分かっててやってたし、今思えば俺ってひどいヤツだよなぁ。
 	You should have run into Reunion's 'Wraith' ops a few times before, right? I used to work there. I was tasked with conducting investigations and whatnot, but I never really did anything. When I was bored, I took out bets on who would get discovered the least. When I think back on it, I was basically bullying people.
 	리유니온의 '유령 부대' 녀석들과는 이미 꽤 붙어봤지? 나도 옛날엔 거기 소속이었어. 뭐, 정찰 임무뿐이라 싸우는 일은 없었지만 말이야. 심심풀이로 적에게 발각된 횟수가 누가 더 적은지 겨루기도 했었어. 지지 않을 걸 알고 했었는데, 지금 생각해보면 나도 참 너무했었네.
 
-	加入整合运动之前的事？当然是整天和抓感染者的人捉迷藏了，可我来去无形，那群追捕者只有目瞪口呆的份，哈哈......只是，总是这么躲着，对感染者们的处境也是没有任何帮助的。
 	レユニオンに入る前の暮らし？そりゃ感染者狩りのヤツらと毎日鬼ごっこだったな。まぁ俺が本気で身を隠せば、ヤツらは手も足も出ないんだけどな、へへ……いつまでも隠れてるだけじゃ、感染者の待遇がよくならねぇってのもわかるけどよ。
 	What did I do before joining the Reunion Movement? Well, I was always hiding from those Infected hunters, but because of my sneaky little power here, they never found me, haha.... But, no matter how much I hid, I couldn't really do anything to actually help the Infected.
 	리유니온에 들어가기 전의 삶? 그야 감염자 사냥꾼 놈들이랑 매일 술래잡기였지. 뭐 내가 제대로 몸을 숨기면 녀석들은 속수무책이지만, 헤헤…… 계속 숨어있기만 해서는 감염자들의 대우가 좋아지지 않는다는 것도 알지만 말이야.
 
-	当初，我躲进那些地下组织，曾经也想过去救助别的感染者，可渐渐的这颗心也变脏了。好在，现在我已经洗得干干净净了。什么意思？不要再问，不要再问喽。
 	当時はあの闇組織に潜り込んで、他の感染者を助けてやろうなんて考えてたこともあるけど、いろいろやってるうちに心まで汚れちまってな。でも今はスッキリした。意味がわからない？いいって、気にするな。
 	In the beginning, I would hide in the underground. I used to want to help out the Infected people, but over time, I turned a little sour, I guess. Fortunately, I'm back to being sweet again. What do I mean by that? You're asking that again? Just give it a rest already.
 	당시엔 그 어둠의 조직에 숨어 들어가서 다른 감염자를 구해주자고 생각했던 적도 있었는데, 이런저런 일을 하다 보니 마음까지 더러워졌지 뭐야. 그래도 지금은 속 시원해. 무슨 말인지 모르겠다고? 괜찮다니까, 신경 쓰지 마.
 
-	“变色”这法术可复杂着呢！先得熟知这些玩意儿的材质和触感，每一条墙壁裂缝的形状，每一片泥土和树林的颜色，不然很快就会露怯，被抓到也是分分钟的事。
 	擬態ってのは簡単じゃないぜ。まずは真似する対象の材質と感触を熟知しなきゃいけねぇんだ。壁に走る亀裂一本一本、土や木々の色まで完璧に真似る必要がある。そうしねぇとすぐ敵にバレちまって、話になんねぇぞ。
 	Camouflage Arts are very complicated! First you gotta get to know the materials and get a feel for these gadgets. Memorize the shape of each wall crack and the color of the soil and wood. If you don't, you'll be exposed and they'll get you easy.
 	의태라는 건 쉬운 게 아니야. 우선은 흉내 내고 싶은 대상의 재질과 감촉을 숙지해야만 하지. 벽에 갈라진 균열 한 줄 한 줄, 흙이나 나무의 색깔까지 완벽하게 흉내 내야만 한다고. 안 그러면 금방 적한테 들켜서 쫄딱 망하니까.
 
-	明明办公室只有你一个人，一转头却发现零食没了？嗯，这样啊，我明白了，我一定会抓住犯人的，嗯。
 	執務室に一人でいたはずなのに、気付いたらお菓子がなくなってた？そっかぁ、わかった。絶対犯人を捕まえてやるから、な？
 	You were the only one in the office, but the snacks disappeared as soon as you turned your head? Umm, tell you what. I understand. I'll make sure to catch the culprit, mhm.
 	집무실에 분명 혼자 있었는데, 어느샌가 과자가 사라져 있었다고? 그렇구나, 알았어. 범인 꼭 잡아줄게, 알았지?
 
-	这是这次任务地点的布局？啊，明白了。哎，你真厉害啊，每次的战术都特别有成效，难怪整合运动被你打得落花流水。好，那我走了！
 	これが今回の任務の配置か？なるほど、理解理解。つかあんたってすげぇよ。よくこんなうまい戦術を毎回考えられるよな。道理でレユニオンがいつも無残にボコられるわけだ。んじゃ、ちょっと行ってくるわ。
 	So, this is the layout of the mission location? Ah, I see. Wow, you're really something. Your strategies are always so effective, no wonder why Reunion got their asses handed to them every time. All right, I'll get going now!
 	이게 이번 임무 배치야? 그렇구나, 이해했어, 이해했어. 근데 너 진짜 대단하네. 용케 이런 뛰어난 전술을 매번 생각해내고 말이야. 그래서 리유니온이 항상 처참하게 깨지는 거였구먼. 그럼 잠깐 갔다 올게.
 
-	欸？房门没锁吗？
 	あれぇ？部屋の鍵は閉めてねぇのか？
 	Huh? I didn't lock the door?
 	어라? 방문 안 잠갔어?
 
-	你问我在哪儿？就在你面前！叫我伊桑吧。你问我刚才发生了啥？哈哈，现在还不能说哦！
 	俺が見えないって？目の前にいるじゃねぇか。まぁ俺のことはイーサンって呼んでくれ。ははっ、今なにが起こってんのか分からねぇって顔だな。このトリックはまだ秘密にしとくぜ。とりあえずよろしくな。
 	You're asking where I am? I'm right in front of you! You can call me Ethan. You're asking me what happened just now? Haha, I can't answer that yet!
 	내가 안 보인다고? 눈앞에 있잖아. 뭐, 나는 에단이라고 불러줘. 하하, 지금 무슨 일이 일어났는지 모르겠다는 얼굴이구먼. 이 트릭은 아직 비밀로 해둘게. 아무튼 잘 부탁해.
 
-	我在哪儿？这不是在这儿吗？你看这录像，就这屏幕左上角，就左上角！
 	俺はどこってここだよここ。いるじゃねぇか、この左上の隅っこのとこ。そう、画面の左上！
 	Where am I? But, I'm right here! Look at the security camera, top left on this screen. Top left corner!
 	내가 어디 있냐니 여기야, 여기. 여기 있잖아, 이 왼쪽 위 구석에. 그래, 화면의 왼쪽 위!
 
-	哈哈，我说过吧，你肯定会喜欢上让我去做活的那种感觉。
 	はは、言ったろ、俺の働きは絶対気に入るって。
 	Haha, I told you before right? You won't regret putting work into my hands.
 	하하, 말했잖아. 내가 일하는 게 분명 마음에 들 거라고.
 
-	唉，博士，你可得好好记住我们这些人呐。尤其像我这样的，也许死在战场上都没人会发现我啊。可千万要记得我在哪儿啊，就交给你了！
 	なぁ、ドクター。俺らのことは忘れないでくれよ。特に俺みたいなヤツ、戦場で死んでも気づかれないからな。俺になんかあったら、あんたがなんとかしてくれよ。頼んだぜ。
 	Yo, Doctor. Make sure to remember the little guys, especially me. I could die in battle somewhere and nobody would even realize I'm gone. So please, I'm trusting you to remember where I am!
 	있잖아, 박사. 우리를 잊지 말아줘. 특히 나 같은 녀석. 전장에서 죽어버려도 발견 못할 테니까 말이야. 나한테 뭔일 생기면 네가 알아서 잘 처리해 줘. 부탁한다.
 
-	你说刚才有一面墙在你眼前移动了？哈哈，怎么可能有那么夸张的事啊。
 	今壁が目の前で動いたって？何言ってんだ、そんなことあるわけねぇだろ。
 	You said that wall just moved right in front of your eyes? Haha, you've gotta be exaggerating, right?
 	지금 벽이 눈앞에서 움직였다고? 무슨 소리를 하는 거야, 그런 일이 있을 리가 없잖아.
 
-	嘿！我可是队长，你们都得听话点！
 	おい、隊長は俺だぞ。言うこと聞けよな！
 	Eyyy! I'm the captain now, so you'd all better listen up!
 	어이, 대장은 나야. 내 말 잘 들어라 알았지!
 
-	如果队伍里忽然少一个人，别恐慌。
 	もし仲間が一人急に姿を消してもパニクんなよ。
 	Don't panic, even if you realize you're the only one left on the team!
 	만약 동료 하나가 갑자기 모습을 감춰도 당황하지 마.
 
-	要打架了？我先躲会儿！
 	ケンカか？ちょっと隠れておくか。
 	Is it time to fight? Let me hide first!
 	싸우는 거야? 잠깐 숨어 있을까.
 
-	在这里，在这里！
 	ここだここ！
 	Right here, right here!
 	여기야, 여기!
 
-	要怎么做？
 	どうすりゃいいんだ？
 	What's the plan?
 	어떻게 하면 돼?
 
-	来了来了。
 	きたきたー。
 	Coming, coming.
 	왔다, 왔어~
 
-	就这儿好了。
 	ここでいいや。
 	Right here is fine
 	여기면 충분해.
 
-	打他！快打他！
 	いいぞ！もっとやれ！
 	Get 'em! Get 'em good!
 	좋아! 더 해라!
 
-	暴力解决不了问题，但解决你没什么问题！
 	暴力じゃ何も解決できないけど、お前を料理するには充分だぜ！
 	Violence won't solve all your problems, but taking care of you isn't a problem either!
 	폭력으로는 아무것도 해결할 수 없지만, 널 요리하기엔 충분하다고!
 
-	你看不见我！
 	俺が見えないだろ？
 	Can't see me!
 	내가 안 보이지?
 
-	你是不是眼前一黑？
 	目の前真っ暗になってねぇか？
 	Are you about to faint?
 	눈앞이 새카맣지 않아?
 
-	打完了吗？哎呀好累哦好累哦。
 	ケンカは終わりか？あーあ疲れた疲れたぁ。
 	Are we done fighting? Ahh, I'm beat!
 	싸우는 건 끝났어? 아~ 피곤하다, 피곤해.
 
-	我也好好努力了喔，你看得见的吧，对吧！
 	俺だって頑張ったぜ。あんたも見てただろ、なぁ。
 	I worked pretty hard. You saw me, right? Right?
 	나도 열심히 했어. 너도 봤잖아, 안 그래?
 
-	逃就逃了，放他们走吧。
 	逃げたヤツはほっとけ。
 	So what if they got away. Let 'em go.
 	도망친 녀석은 내버려 둬.
 
-	我建议你们先走，至少我能抓住他们的腿。
 	先に帰ってていいぜ、足止めくらいは俺にもできるさ。
 	You should go first, at least I can grab their legs.
 	먼저 돌아가도 돼. 발을 묶어두는 정도는 나도 할 수 있어.
 
-	真是不错的房间，让我来看看，什么地方比较显眼？
 	いい部屋じゃねぇか。よし、目立つ場所はどこかなーっと。
 	Nice room you got here. Let's see what sticks out the most.
 	좋은 방이잖아. 좋아, 눈에 띄는 곳은 어디려나~
 
-	哦豁，被你发现了。
 	おっと、気づかれちまったか。
 	Oh, you found me.
 	아차, 들켜버렸나.
 
-	喂，要不要出去逛逛？
 	なぁドクター、ちょっとそのへん回ってみねぇか？
 	Hey, want to go take a stroll?
 	있잖아, 박사. 그 근처 잠깐 안 둘러볼래?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	哟，博士，气色不错，有什么好事吗？
 	よぉドクター、いい顔してるな、なんかいいことでもあったのか？
 	Hey Doctor, you look like you're in a nice mood. Did something good happen?
 	여어, 박사. 얼굴이 좋네. 뭔가 좋은 일이라도 있어?
+
+干员档案\Background:
+	基础档案 :
+	【代号】伊桑
+	【性别】男
+	【战斗经验】两年
+	【出身地】未公开
+	【生日】1月29日
+	【种族】萨弗拉
+	【身高】163cm
+	【矿石病感染情况】
+	源石结晶分布于体内，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】イーサン
+	【性別】男
+	【戦闘経験】二年
+	【出身地】非公開
+	【誕生日】1月29日
+	【種族】サヴラ
+	【身長】163cm
+	【鉱石病感染状況】
+	体内に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Codename] Ethan
+	[Gender] Male
+	[Combat Experience] 2 years
+	[Place of Birth] Unknown
+	[Date of Birth] January 29
+	[Race] Savra
+	[Height] 163cm
+	[Originium Infection Condition] 
+	Originium crystals present in the body, infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 에단
+	[성별] 남
+	[전투 경험] 2년
+	[출신지] 미공개
+	[생일] 1월 29일
+	[종족] 사브라
+	[신장] 163cm
+	[광석병 감염 상황]
+	체내에 오리지늄 결정이 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Standard
+	[Combat Skills] Standard
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	干员伊桑，出身地不明，曾辗转于多个地下感染者组织，最终自整合运动中脱离。经过审查，判断为无威胁目标，有雇佣价值。在战术侦查，战场潜入等单兵战术行动中有着优异表现。
+	现于罗德岛特种小队任职，提供特殊战术支援。
+
+	個人履歴 :
+	出身地不明。多くの地下感染者組織を転々としており、最後にレユニオンから脱退した。審査の結果、脅威はなく雇用の価値があると判断。戦術偵察や戦場潜入等の単独行動作戦で優れた能力を発揮する。
+	現在はロドスの特殊チームに配属され、特殊戦術支援を行っている。
+
+	Profile :
+	Operator Ethan's place of birth remains unknown. He hopped around between several different underground Infected groups before finally separating himself from the Reunion Movement. A thorough investigation has determined Ethan's goals are not a threat and he is indeed worth hiring. Tactical analysis shows that he is particularly skilled in battlefield infiltration and solo operations. 
+	He currently serves Rhodes Island in a special ops team, providing specialist support.
+
+	프로필 :
+	    출신지 불명. 한때 여러 지하 감염자 조직을 전전하다가, 마지막에는 리유니온에서 이탈했다. 로도스 아일랜드는 심사를 통해 에단은 위협이 되는 존재가 아니며, 채용 가치가 있다고 판단했다. 현재는 로도스 아일랜드의 스페셜리스트 팀에서 특별 전술 지원을 제공하고 있으며, 전술 정찰, 전장 잠입 등 단일 병사 전술 작전에서 뛰어난 활약을 보이고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】2%
+	干员伊桑体表有可见结晶分布。
+	
+	【血液源石结晶密度】0.26u/L
+	干员伊桑目前病情较为稳定。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】2%
+	体表に源石結晶の分布を確認。
+	
+	【血液中源石密度】0.26u/L
+	病状は安定している。
+
+	Clinical Analysis :
+	Imaging tests reveal blurry outlines of this operator's internal organs, clouded with abnormal dark spots. His circulatory system shows an abnormally high rate of Originium particulate matter, with other signs of Oripathy infection, we can confirm that the operator is indeed Infected. 
+	
+	[Somatic Cell-Originium Fusion Rate] 2%
+	Operator Ethan has visible Originium crystallization on his body's surface.
+	
+	[Blood Originium-Crystal Density] 0.26u/L
+	Operator Ethan's infection has been stabilized.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로써는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 2%
+	오퍼레이터 에단의 체표면에 결정 분포가 확인됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.26u/L
+	오퍼레이터 에단의 현재 병세는 비교적 안정적.
+
+———————————————————————————————
+
+	档案资料一 :
+	我们是在干员伊桑午餐的时候找到他的——确切地说是找到一枚悬空的餐盘——在四周人群或目瞪口呆，或惊讶万状，或熟视无睹的目光下，我们成功地找到了这名特种干员。面对我们提出的采访需求，伊桑满口答应，联想到大多数地下藏身的感染者都曾有着食不果腹的经历，这份对美食的执着也许印证着一些艰苦时光......
+	伊桑最喜爱的菜式，莫过于裸鳞蜥三支臂肉，佐以蘑菇与香辛料生烤，再配上些鲁珀人喜爱的蓝葡红酒......这之后，伊桑几乎立刻就把他知道的全说了。
+	当然，提到他过去的队员时，他就开着玩笑将话题对付了过去。用他的话来说，这也算是“小人物也有坚持的地方。”
+	无论如何，伊桑是个感情丰富，热爱交流的人。无论作为朋友还是搭档，只要忽视一些他无意间犯下的过错，并且在有专员不断调查直到证明他的清白时，他会是个再合适不过的人选。
+
+	第一資料 :
+	我々はイーサンのランチタイムに彼を——正確に言えば宙に浮くトレーを——見つけた。周囲には目を見張る者、恐怖におののく者、見て見ぬふりする者がおり、そんな中で我々はこの特殊オペレーターを探し出すことに成功したのである。我々の取材依頼に対して、イーサンは二つ返事で引き受けた。地下で身を潜める多くの感染者が皆空腹を抱えていた経験があることからして、彼のこの美食に対する執着は、苦しかった時代があった証拠なのかもしれない……。
+	イーサンが一番好きな料理は、ハダカウロコトカゲの後ろ足をキノコと香辛料で味付けして焼いたもの。更にループス人が愛する青ぶどうのワインを合わせれば……この後、イーサンはすぐに彼が知る全てを話してくれた。
+	当然、過去の隊員の話題があがったとき、彼は冗談を言ってかわした。彼の言葉を借りると、これも「つまんねぇ奴にも譲れねぇものがある」と言える。
+	とにかく、イーサンは感情豊かで、他人との交流が好きな人だ。友人としても仕事のパートナーとしても、彼は最適な人選に違いない――彼が無意識のうちに犯すであろう過ちを見逃し、専門員の調査でいずれ彼の潔白が証明されればという条件付きで。
+
+	Archive File 1 :
+	We found Operator Ethan during lunchtime, or rather we found a plate floating in midair, while people all around looked on astonished, surprised, or dumbfounded, we managed to locate this unique operator. Ethan eagerly answered our interview questions, reporting that most of the infected refugees he encountered in the underground struggled with extreme poverty. This may explain his attachment to flavorful cuisine...
+	Ethan's favorite dish is the Triple Shank Nudescale Lizard, grilled in mushrooms and spices, and paired with a Lupo favorite Concord Wine... When presented with such a spread, he was more than happy to share everything he ever knew. 
+	Of course, when prompted to discuss his former associates, he dodged the issue witha series of jokes. To use his own words, 'even the little guy has a few tough spots.'
+	In any case, Ethan is a gregarious person with a lot of feelings. Whether as a friend or a partner, one needs only overlook a few inadvertent mistakes to see he is a suitable candidate. Just as soon as the investigators are finished confirming his story.
+
+	파일 자료 1 :
+	    우리는 점심 식사 때 겨우 스페셜리스트 오퍼레이터 에단을…… 아니, 정확히 말하면 허공에 뜬 식판 하나를 찾아냈다. 당시 그 주변에는 주위 사람들의 어안이 벙벙하거나, 놀라거나, 또는 보고도 못 본 척하는 시선으로 가득했다. 우리가 제시한 취재 요구에 에단은 두말없이 수락했다. 지하에 몸을 숨긴 대다수의 감염자가 모두 한때 굶주린 경험을 했다는 것을 생각하면, 이런 미식에 대한 집착은 어려운 시절을 증명하는 것일지도 모른다……
+	    에단이 가장 좋아하는 요리는 비늘 도마뱀 다리 구이, 향신료를 곁들인 버섯구이, 거기에 루포 족이 가장 좋아하는 붉은 와인을 곁들이는 것이다…… 이를 전부 먹고 난 뒤, 에단은 바로 그가 아는 모든 것을 털어놓았다. 물론, 과거의 팀원을 언급했을 때, 그는 "아무리 하찮은 사람이라 해도 지키고 싶은 건 있다"고 농담을 하며 화제를 넘겨버렸다. 
+	    결론적으로, 에단은 감정이 풍부하고, 사람 사귀기를 좋아하는 사람이다. 친구로 삼든, 파트너로 삼든, 그가 무의식적으로 하는 실수만 좀 넘어가고, 전문가의 지속되는 조사로 그의 결백이 증명된다면, 그만큼 쓸모있는 인재는 없을 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	干员伊桑的源石技艺完全值得档案编撰人员为他特别做注。部分萨弗拉人天生拥有根据不同环境改变体表颜色的能力，而伊桑更是个中好手——他甚至能运用源石技艺，将皮肤触及的物品一同变色。
+	当术师干员想要具体了解这种源石技艺的细节时，伊桑回绝了：
+	“NO！你们想把我的能力写上去？那不就谁都知道了？要是让敌人知道该怎么办！”
+	不过，在某位女性萨弗拉术师干员诚恳地提出请求后，伊桑思考了一段时日，决定把他施展源石技艺的过程展现给我们。
+	——过程无须赘述。
+	实际上，干员伊桑根本无需多虑：法术施展的条件极为苛刻，也很难被学习。
+	目前，术师们推测：干员伊桑的源石技艺有被动识别辨别金属、石材树叶和泥土材质的能力，进而快速转换全身色素模拟为目标环境色。这一点，短时间看来，是不可复制的；或者说有能力复制这项源石技艺的人，并不需要变色。
+	当然，在短时间内频繁变色之后，干员伊桑的周身颜色出现了色差，对环境色的模拟也渐趋模糊，实验以伊桑倒地昏睡告终。
+
+	第二資料 :
+	イーサンのアーツは資料編纂担当者が特に力を入れる価値が確実にある。サヴラ人の中には先天的に異なる環境によって体表の色を変える能力を持つ者がいるが、イーサンはその中でもやり手で、アーツを使うことで肌が触れている物を同じように変色させることさえできる。
+	術師オペレーターたちはこのアーツについて詳しく知りたがっていたが、イーサンに断られた。
+	「ノーだよノー！あんたら俺の能力をプロフィールに書きたいんだろ？それじゃみーんなタネをわかっちまうじゃねぇか。もし敵に知られたらどうすんだ！」
+	しかし、とあるサヴラの女性術師オペレーターが誠意を込めて依頼すると、イーサンは数日考えて、アーツを展開する過程を我々に見せることを決心した。
+	——その過程は割愛しておく。
+	実際、それはイーサンの杞憂だった。というのも、彼のアーツを展開する条件はかなり厳しく、学ぶには難しいからだ。
+	術師たちの推測では、イーサンのアーツは金属や石、草木や土の材質を受動的に識別する能力を持っており、そこから全身の色素を擬態対象の自然色に素早く転換させるというものだ。この点で見れば、短時間でコピーできるような能力ではない。更に言ってしまえば、こういったアーツをコピーできる能力を持つ人は、変色などを必要としないだろう。
+	当然、短時間のうちに頻繁に変色を行うと、イーサンの全身の色に色差が生じ、自然色への擬態もだんだんとぼんやりしていった。実験はイーサンが倒れ昏睡に陥ることで終わりを告げた。
+
+	Archive File 2 :
+	Operator Ethan's Originium Arts are worth a special note. Some Savras have a natural ability to change color and blend in with their surroundings, and Ethan is particularly skilled in this respect. He is able to use Originium Arts to turn his skin the exact color of any object he touches. 
+	When Caster Operators have asked to study his Originium Arts in detail, Ethan has consistently made a rather direct reply: 
+	'NO! You want to write down what I can do? Then everybody will know! What am I supposed to do when the enemy figures it out?!'
+	However, when a certain female Savra operator made the request, Ethan thought for a moment before putting the full power of his Originium Arts on display for us. 
+	We need not go into the details. 
+	In reality, not much thought needs to be put into Operator Ethan: the activation conditions for the full power of his Arts are quite demanding, and very difficult to study. 
+	At present, the Casters theorize that Ethan's Originium Arts have a passive ability to perceive the differences between metals, minerals, plant and other materials, and then quickly adapt his body pigmentation to the color of the target environment. 
+	Naturally, rapid changes of color within a short period of time left a sort of chromatic aberration against the background environment, causing a blurring effect. After any such tests, Ethan has consistently collapsed into a deep sleep.
+
+	파일 자료 2 :
+	    오퍼레이터 에단의 오리지늄 아츠는 정말로 파일 편집자가 각별히 주의해야 할 필요가 있다. 일부 사브라 족은 환경에 따라 체표면 색을 바꾸는 능력을 타고나는데, 에단은 그중에서도 상당히 뛰어난 편이라고 한다…… 그는 심지어 오리지늄 아츠를 활용해 피부에 닿은 물품조차도 함께 색을 바꿀 수 있다.
+	    캐스터 오퍼레이터가 구체적으로 이런 오리지늄 아츠의 상세 원리를 알려달라 하자, 에단은 거절했다.
+	    "노우! 내 능력을 기록하려는 거지? 그럼 누구나 다 알게 되잖아? 적이 알기라도 하면 어쩔 거야!"
+	    하지만, 어느 여성 사브라 캐스터 오퍼레이터의 간절한 요청 후, 에단은 한동안 고민하다가  결국 우리에게 오리지늄 아츠 시전 과정을 보여주기로 했다.
+	    ……그 과정은 장황하게 설명할 필요가 없다. 사실, 오퍼레이터 에단은 전혀 걱정할 필요가 없었다. 아츠 시전 조건은 너무나도 복잡해, 배우기가 거의 불가능했기 때문이다.
+	    현재 우리 캐스터들의 추측으로는, 오퍼레이터 에단의 오리지늄 아츠는 수동적으로 금속, 석재, 나뭇잎 및 흙 소재를 식별 및 판별하는 능력이 있어, 거기에서 더 나아가 빠르게 전신의 색소를 목표 환경 색으로 변환하는 것으로 보인다. 이 부분은 짧은 시간 내에는 카피가 불가능하다. 만약 이런 오리지늄 아츠를 카피할 능력이 있는 사람이 있다면, 그런 사람은 애초에 변색할 필요가 없을 것이다.
+	    물론, 짧은 시간 동안 빈번히 변색을 하게되면 오퍼레이터 에단 주변의 색상에 차이가 나타나게 되며, 모방한 환경 색상도 점차 흐려지게 되는데, 실험은 에단이 쓰러져 잠에 빠지며 종료되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	尽管在资历上算不得前辈，甚至可以说并不适合作为导师出现——干员伊桑在加入罗德岛后，依旧自顾自地向许多年轻的干员提供了自己的建议和帮助。
+	不过，伊桑至少会在战场上全力配合指挥者布置的战术，也正是这些行为让他的考核分稍有提高。伊桑并不是一个勇敢的人，他在战场上甚至表现得有那么点弱势；即使获得了胜利，他身上的那么些滑稽和狼狈依旧显眼。自然，他绝不是喜欢战场的那种人。
+	无论如何，不管伊桑看上去多么的轻松，他终归会在关键时刻作出只属于他的选择。驱使他作出选择的不只有被审核制度吊起的责任心，还有他那些并不浪漫的感染者经历。
+
+	第三資料 :
+	オペレーターとして職歴上では先輩とも、教える立場とも言えないイーサンだが、ロドス加入後は好き勝手に多くの若いオペレーターたちへ助言やサポートをした。
+	とはいえ、少なくとも戦場では、彼は指揮官が指示した戦術に全力で応える。そしてこうした行為が彼の人事考課の点数をやや上げている。イーサンは決して勇敢な人というわけではなく、戦場での彼に至っては、少々弱いとさえ言える。もし勝利を手にしても、彼のひょうきんさとうろたえようは目を引くままだ。言うまでもなく、彼は決して戦場を好むようなタイプではないのだ。
+	とにかく、いくら軽そうに見えても、彼はここぞという時にはきっと彼なりの選択をするだろう。彼が選択に駆られるのは査定制度が引き起こす責任感だけでなく、彼のドラマチックとは決して言えない感染者の経験があるからだ。
+
+	Archive File 3 :
+	While Ethan certainly isn't old, and is even less qualified to be any sort of teacher, he has still taken it upon himself to offer advice and aid to younger operators since coming to Rhodes Island. 
+	At the same time, he has made a concerted effort to fully cooperate with any orders given to him on the battlefield, resulting in some moderately improved assessment scores. Ethan is not a terribly brave man, and he has shown some signs of weakness in battle more than once. Even when he wins, he still cuts a comical and somewhat sad, tramplike figure. In short, Ethan is not the kind of man who loves war. 
+	In any case, no matter how easy going Ethan may seem, he will always at that critical moment make the choice that is right for him. What drives those choices is not only the responsibility put on him by our assessment system, but also his unenviable history with the Infected.
+
+	파일 자료 3 :
+	    경력 상 선배라 하기도, 멘토라 하기에도 적합하지 않았으나…… 오퍼레이터 에단은 로도스 아일랜드에 온 후, 많은 젊은 오퍼레이터에게 먼저 다가가 그들을 돕고 자신의 생각을 함께 나눴다.
+	    이와는 상반되게, 에단은 적어도 전장에서는 전력으로 지휘관의 전술 배치에 협조했다. 바로 이러한 행동 때문에, 그의 심사 점수 또한 소폭 상승했다. 에단은 용감한 사람은 아니다. 전장에서는 심지어 조금 약한 모습을 보이기도 했다. 전장에서 승리할 때도, 그의 익살맞고 허둥대는 모습은 여전히 눈에 띄었다. 그는 절대로 전장을 좋아하는 부류의 사람이 아니었다.
+	    어찌 되었든, 에단이 아무리 가벼워 보여도, 그는 중요한 순간에는 늘 자신만의 선택을 한다. 이는 비단 심사 제도로 인한 책임감뿐만이 아니라, 그다지 낭만적이라곤 하지 못할 감염자로서의 인생 때문이리라.
+
+———————————————————————————————
+
+	档案资料四 :
+	藏身城市暗处的感染者们有着相同的境遇——屡遭排挤，流离失所，食不果腹，随时都会倒毙在肮脏的感染窝。
+	在这种情势下，年轻的感染者们不甘沉默。他们通过密道进出城市地表，躲过眼线和城市守卫，用喷涂工具在狭窄楼群间宣泄不满，遭人发现，夺路而逃，大汗淋漓，拼命喘息。
+	伊桑也是其中一员。他不行暴力不说废话，只用喷涂发声，夸张的色彩巨大字符彰显了感染者们的存在；他来去无形，不费多少力气就能从追捕者们的指缝间溜走。
+	城市的午夜因此变得喧嚣混乱。
+	但这对那时的伊桑来说没有关系——他只要逃就可以了。他甚至可以让萨弗拉同族一起逃，他们脱逃的本事一流，他们的踪迹无人可寻。
+	“只要逃就行了。”——伊桑始终如此坚信。
+	不过，当一个人开始逃跑，他的被捕就成了命中注定。
+
+	第四資料 :
+	街の影に身を隠している感染者たちは皆同じような境遇にある。幾度も排斥に遭い、居場所を失ってさすらい、空腹を抱え、いつ汚い感染者スラムで野垂れ死んでもおかしくない。
+	このような情勢下で、若い感染者たちは黙っていられない。彼らは秘密のルートを通って街に出入りし、守衛や密偵の目をかいくぐり、スプレー塗料で狭いビルの間に不満を吐き出す。人に見つかると、汗みどろになりながら息も絶え絶えに逃げ出す。
+	イーサンもその中のひとりだった。彼は暴力に走らず無駄話もせず、ただスプレーで声を上げ、目立つ色彩と巨大な文字で感染者の存在を知らしめた。彼は姿を消すことに長けており、追手から逃げ切るのはいかにも簡単だ。
+	真夜中の街はこれにより喧騒と混乱に包まれるようになった。
+	しかし当時のイーサンにとって大したことではなかった——逃げさえすればよかったのだ。彼はサヴラの同族たちと共に逃げることさえできた。彼らは逃げることに関しては一流で、その足跡は誰も辿れなかった。
+	「逃げさえすりゃいいんだ。」イーサンはずっとそう固く信じてきた。
+	だが人が逃げ始めると、捕まる運命が待つのみなのだ。
+
+	Archive File 4 :
+	The Infected hiding in the shadowy corners of the cities all suffer the same fate: crushed in squalid conditions, forced from their homes, starving, waiting for the moment when they finally drop dead in a pile of other Infected. 
+	In situations like these, who could expect the young Infected to stay silent? They use secret tunnels to move throughout the city, hiding just out of sight of the guards, using spraypaint to vent their dissatisfaction in the narrow alleyways. That is, until they are discovered, and they make a break for it, barely escaping, dripping with sweat, struggling to breathe. 
+	Ethan was one of them. He couldn't fight, and he couldn't talk trash. His spraypaint was his only voice, its vibrant colors and striking characters screaming out the plight of the Infected for all to see and hear. And with his nigh-invisibility, getting away from those who would stop him was trivial. 
+	The city's dark nights had become chaotic and unpredictable. 
+	But Ethan didn't care. All he had to do was run away. He could even help the other Savras get away. No one was as good at escaping as them. They left no trace of their presence. 
+	'All you have to do is run.' That was Ethan's motto. 
+	But when one starts to run, getting caught becomes inevitable.
+
+	파일 자료 4 :
+	    도시의 어두운 곳에 몸을 숨긴 감염자들은 늘 배척당하고, 갈 곳을 잃고, 배를 굶주리며, 언제든지 더러운 감염자 소굴에 쓰러져 죽을 수 있는 처지에 놓여있다.
+	    이런 상황에서, 젊은 감염자들은 가만히 있지만은 않았다. 그들은 비밀 통로를 통해 도시의 표면으로 기어나와, 사람들의 시선을 피해 페인트 도구로 좁은 건물 사이에 불만을 발산했으며, 그러다 누군가에게 발견되면 억지로 길을 뚫으며 도망쳤다. 땀을 흠뻑 흘리며, 필사적으로 숨을 내쉬면서…
+	    에단 또한 그중 하나였다. 그는 폭력을 사용하지도, 욕을 내뱉지도 않고, 오직 페인트로만, 과장된 색채와 거대한 글자로 감염자들의 존재를 선명하게 드러냈다. 그는 흔적을 남기지 않고 움직일 수 있었기에, 가볍게 추격자들을 따돌릴 수 있었다.
+	    이 때문에 도시의 밤은 더 시끄럽고 혼란스럽지만, 당시의 에단에게는 별 상관 없었다. 그는 도망칠 수만 있으면 그걸로 충분했으니 말이다. 그는 심지어 사브라 동족과 함께 도망칠 수도 있는 최고의 도주 능력을 갖고 있었기에, 그들의 흔적은 아무도 찾을 수 없었다.
+	    "도망치기만 하면 돼." ……에단은 처음부터 끝까지 그렇게 믿어왔다.
+	    하지만 혼자 도망치게 되면서, 그의 체포는 정해진 운명이 되어버렸다.
+
+———————————————————————————————
+
+	晋升记录 :
+	“你是怎么判断他可用的？”
+	“很简单，他有信念，但被现实打碎了。现在我们再给他一个。”
+
+	昇進記録 :
+	「どうして彼は使えると判断したんですか？」
+	「簡単だよ。彼には信念があったが、現実に打ち砕かれた。今我々はそれを彼にもう一度与えているのさ。」
+
+	Promotion Record :
+	'How did you decide he's worth it?'
+	'Easy. He had faith. Reality shattered it. We'll give him a new faith.'
+
+	승진 기록 :
+	    "그가 쓸만한지 어떻게 판단할 수 있지?"
+	    "매우 쉬워. 현실에 의해 깨져버린 그의 신념을, 이제 우리가 다시 주면 돼."

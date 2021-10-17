@@ -5,7 +5,7 @@
 
 [name="白雪"]  在。
 [name="シラユキ"]  ここに。
-[name="ShiraYuki"]  Here.
+[name="Shirayuki"]  Here.
 [name="시라유키"]  네.
 
 [name="文月"]  我和彦吾说过了，接下来，我会安排你以干员的身份进入一家叫罗德岛的医药公司。
@@ -15,7 +15,7 @@
 
 [name="白雪"]  罗德岛？
 [name="シラユキ"]  ロドス？
-[name="ShiraYuki"]  Rhodes Island?
+[name="Shirayuki"]  Rhodes Island?
 [name="시라유키"]  로도스 아일랜드말입니까?
 
 [name="文月"]  对，你应该已经听说过了。
@@ -25,12 +25,12 @@
 
 [name="白雪"]  我只听说小姐和他们关系很深。
 [name="シラユキ"]  チェン殿と深い関わりがあるということだけは。
-[name="ShiraYuki"]  Only that the Miss has deep ties with them.
+[name="Shirayuki"]  Only that the Miss has deep ties with them.
 [name="시라유키"]  첸 나리가 그들과 관계가 꽤 깊다는 것만 들었습니다.
 
 [name="白雪"]  公主让我去保护小姐？
 [name="シラユキ"]  姫は、このシラユキにチェン殿の護衛に行けと？
-[name="ShiraYuki"]  Does the Princess want me to protect the Miss?
+[name="Shirayuki"]  Does the Princess want me to protect the Miss?
 [name="시라유키"]  제가 첸 나리를 보호하는 겁니까?
 
 [name="文月"]  嗯......确实也有这样的想法，毕竟这是个由感染者建立的组织，不过我想晖洁应该能自己处理好的。
@@ -40,7 +40,7 @@
 
 [name="白雪"]  感染者......公主觉得可靠？
 [name="シラユキ"]  感染者……姫は信頼できるとお思いで？
-[name="ShiraYuki"]  Infected... does the Princess consider them reliable?
+[name="Shirayuki"]  Infected... does the Princess consider them reliable?
 [name="시라유키"]  감염자를…… 공주님은 믿을만하다고 생각하십니까?
 
 [name="文月"]  嗯，放心，我见过他们的领袖，是个很不错的孩子。
@@ -55,7 +55,7 @@
 
 [name="白雪"]  机会？
 [name="シラユキ"]  好機？
-[name="ShiraYuki"]  Opportunity?
+[name="Shirayuki"]  Opportunity?
 [name="시라유키"]  기회 말입니까?
 
 [name="文月"]  对，你从小跟随我，来到龙门后也没有离开过我的身边。
@@ -65,7 +65,7 @@
 
 [name="白雪"]  这是我的使命。
 [name="シラユキ"]  それが我が使命でございますれば。
-[name="ShiraYuki"]  It is my mission.
+[name="Shirayuki"]  It is my mission.
 [name="시라유키"]  이건 제 임무입니다.
 
 [name="文月"]  但你也该去看看外面的风景了。
@@ -75,7 +75,7 @@
 
 [name="白雪"]  我只需要了解公主看到的风景。
 [name="シラユキ"]  シラユキが必要とするのは姫の見ている景色だけです。
-[name="ShiraYuki"]  I need only to know what sights the Princess sees.
+[name="Shirayuki"]  I need only to know what sights the Princess sees.
 [name="시라유키"]  제게 필요한 것은 공주님께서 보고 있는 풍경뿐입니다.
 
 [name="文月"]  这是命令，小雪。
@@ -85,12 +85,12 @@
 
 [name="白雪"]  ......是。
 [name="シラユキ"]  ……御意。
-[name="ShiraYuki"]  ...Understood.
+[name="Shirayuki"]  ...Understood.
 [name="시라유키"]  명을 받들겠사옵니다.
 
 [name="白雪"]  白雪，依照文月公主的嘱托，协助陈小姐行动，并听从你的差遣。
 [name="シラユキ"]  我が名はシラユキ、姫の命によりチェン殿の補佐に参上した。御身の指示にも従おう。
-[name="ShiraYuki"]  I am Shirayuki. Princess Fumizuki told me to assist Madam Ch'en and follow all your orders.
+[name="Shirayuki"]  I am Shirayuki. Princess Fumizuki told me to assist Madam Ch'en and follow all your orders.
 [name="시라유키"]  이 몸은 시라유키. 공주님의 명을 받아 첸 나리의 보좌를 맡고 있네. 당신의 지시에도 따르도록 하지.
 
 [Decision(options="你好。;......;欢迎你！", values="1;2;3")]
@@ -100,12 +100,12 @@
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [Decision(options="......", values="4")]
@@ -115,7 +115,7 @@
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [Decision(options="......", values="5")]
@@ -125,92 +125,92 @@
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [name="白雪"]  观察了数天，博士，怪人。
 [name="シラユキ"]  数日、観察した。ドクターは変人。
-[name="ShiraYuki"]  Several days' observation. The Doctor, a strange sort.
+[name="Shirayuki"]  Several days' observation. The Doctor, a strange sort.
 [name="시라유키"]  며칠 관찰해보니, 박사는 괴짜다.
 
 [name="白雪"]  用水壶直接在嘴里加热速食食品，天才。
 [name="シラユキ"]  お湯を使って直接口内で即席食品を加熱する。天才。
-[name="ShiraYuki"]  Directly heats instant food in mouth with kettle. Genius.
+[name="Shirayuki"]  Directly heats instant food in mouth with kettle. Genius.
 [name="시라유키"]  뜨거운 물을 입에 부어 입안에서 즉석식품을 가열한다. 천재다.
 
 [name="白雪"]  不过此人确实在指挥用人和处理各类事务上有相当的能力。
 [name="シラユキ"]  しかしこの者、指揮能力と各業務の処理能力は確かに相当なもの。
-[name="ShiraYuki"]  But holds true requisite ability, in command of people and handling of sundry affairs.
+[name="Shirayuki"]  But holds true requisite ability, in command of people and handling of sundry affairs.
 [name="시라유키"]  그러나 이 자, 지휘능력과 업무 처리능력은 확실히 뛰어나다.
 
 [name="白雪"]  以及，罗德岛，不可貌相。
 [name="シラユキ"]  ロドスは、見かけでは判断できぬ。
-[name="ShiraYuki"]  Further, Rhodes Island. More than meets the eye.
+[name="Shirayuki"]  Further, Rhodes Island. More than meets the eye.
 [name="시라유키"]  그리고, 로도스 아일랜드는 겉모습만 보고 판단할 곳이 아니다.
 
 [name="白雪"]  表面上是医药公司，实际上却近似军事组织，颇有实力，难怪魏公会和这家公司合作。
 [name="シラユキ"]  表面上は製薬会社、しかし実態は民間軍事会社ともいうべき組織である。かなりの実力を有し、ウェイ殿がこの会社と協力すべしと言うのも頷ける。
-[name="ShiraYuki"]  Surface-level, a pharmaceutical company. In reality, close to a military organization. With fair strength. No surprise Lord Wei would cooperate with this company.
+[name="Shirayuki"]  Surface-level, a pharmaceutical company. In reality, close to a military organization. With fair strength. No surprise Lord Wei would cooperate with this company.
 [name="시라유키"]  겉은 제약회사, 그러나 실체는 군사조직에 가깝다. 상당한 실력을 갖고 있다. 웨이 님께서 이 회사와 협력해야 한다 하는 것도 수긍이 간다.
 
 [name="白雪"]  公主虽然没有明说，但既然陈小姐在这里，想必是要我调查这个组织，以护小姐周全。
 [name="シラユキ"]  姫は明言なさらぬが、チェン殿がここにおられるからには、チェン殿を守護しつつ、私にこの組織を調査しろということであろう。
-[name="ShiraYuki"]  The Princess spoke it not forth, but as Miss Ch'en is here, I am presumably willed to investigate this organization, and protect the Miss in full.
+[name="Shirayuki"]  The Princess spoke it not forth, but as Miss Ch'en is here, I am presumably willed to investigate this organization, and protect the Miss in full.
 [name="시라유키"]  공주님은 명확히 말하지 않았지만, 첸 나리가 있는 한 나도 첸 나리를 보호하고, 이 조직을 조사해야 한다.
 
 [name="白雪"]  除了博士，这里还有两个领导者。
 [name="シラユキ"]  ドクター以外に、ここにはあと二人の指導者がいる。
-[name="ShiraYuki"]  Doctor aside, two others are leaders here.
+[name="Shirayuki"]  Doctor aside, two others are leaders here.
 [name="시라유키"]  박사 외에도, 두 리더가 더 있다.
 
 [name="白雪"]  阿米娅我已见过，如公主所说，是个很亲切的人。
 [name="シラユキ"]  アーミヤにはすでに会った。姫の仰るように、良い方だった。
-[name="ShiraYuki"]  Amiya, I have met. In the Princess's words, a very kindly person.
+[name="Shirayuki"]  Amiya, I have met. In the Princess's words, a very kindly person.
 [name="시라유키"]  아미야는 이미 만났다. 공주님 말대로 아주 친절한 사람이다.
 
 [name="白雪"]  但既然她能成为领导者，必有过人之处，不可掉以轻心。
 [name="シラユキ"]  しかし指導者であるからには、人が良いだけではないだろう。気は抜けぬ。
-[name="ShiraYuki"]  But as she has proven a leader, exceptionality must reside. Cannot be taken lightly.
+[name="Shirayuki"]  But as she has proven a leader, exceptionality must reside. Cannot be taken lightly.
 [name="시라유키"]  아미야가 리더가 될 수 있었다는 것은 남보다 뛰어난 점이 있다는 것이다. 절대 소홀히 할 수 없다.
 
 [name="白雪"]  另一个叫凯尔希的人尚未见过，从他人谈话来看，此人才是这家公司的核心人物，需要对其有所了解。
 [name="シラユキ"]  もう一人のケルシーという者にはまだ会っていない。他の者の話からすれば、かの者こそこの会社の核心となる人物。知っておく必要がある。
-[name="ShiraYuki"]  The other, a Kal'tsit, not yet met. From others' conversation, the true core figure of this company. Further understanding of her required.
+[name="Shirayuki"]  The other, a Kal'tsit, not yet met. From others' conversation, the true core figure of this company. Further understanding of her required.
 [name="시라유키"]  그리고 켈시라는 사람은 아직 못 만났지만, 이 회사의 핵심 인물이라고 들었다. 그 사람에 대한 조사가 필요하다.
 
 [name="白雪"]  舰内可通行区域的大致构造已记在脑内，时间，凌晨一点，该行动了。
 [name="シラユキ"]  艦内の大まかな通行可能区域は頭に入った。時刻、午前一時。行動に移す。
-[name="ShiraYuki"]  Rough structure of accessible ship interior area committed to memory. Time, one in the morning. I shall move out.
+[name="Shirayuki"]  Rough structure of accessible ship interior area committed to memory. Time, one in the morning. I shall move out.
 [name="시라유키"]  함 내 통행 구역의 대략적인 구조는 기억해놨다. 새벽 한 시, 움직여야 한다.
 
 [name="白雪"]  进来了。
 [name="シラユキ"]  潜入。
-[name="ShiraYuki"]  Entered.
+[name="Shirayuki"]  Entered.
 [name="시라유키"]  잠입했다.
 
 [name="白雪"]  罗德岛的管道设计，不错。
 [name="シラユキ"]  ロドスの配管設計は悪くない。
-[name="ShiraYuki"]  Rhodes Island's pipeline design, adequate.
+[name="Shirayuki"]  Rhodes Island's pipeline design, adequate.
 [name="시라유키"]  로도스 아일랜드의 배관 설계, 나쁘지 않다.
 
 [name="白雪"]  条理有序，四通八达......还有相应的监控。
 [name="シラユキ"]  秩序立ち、四方に通ず……それに加え、実に適切な監視システムである。
-[name="ShiraYuki"]  Ordered systematically, omnidirectional... and correspondingly monitored.
+[name="Shirayuki"]  Ordered systematically, omnidirectional... and correspondingly monitored.
 [name="시라유키"]  질서 정연하고 사방으로 통한다…… 감시 카메라도 있다.
 
 [name="白雪"]  但是这种程度，小意思。
 [name="シラユキ"]  だがこの程度、些事にすぎぬ。
-[name="ShiraYuki"]  But such levels, a mere trifle.
+[name="Shirayuki"]  But such levels, a mere trifle.
 [name="시라유키"]  하지만 이 정도는 내게 아무것도 아니다.
 
 [name="白雪"]  大部分通道与宿舍连接的接口都是厕所，只有部分窗口因为设计原因能看到宿舍内部的情况吗......合理。
 [name="シラユキ"]  通路と宿舎を繋ぐほとんどの出入り口が厠であり、一部の窓だけが宿舎の内側を確認できる……実に合理的だ。
-[name="ShiraYuki"]  Most passages are connected with dormitories via toilets. Only some windows give sight of what happens within dormitories, due to planning... Fair.
+[name="Shirayuki"]  Most passages are connected with dormitories via toilets. Only some windows give sight of what happens within dormitories, due to planning... Fair.
 [name="시라유키"]  통로와 숙소를 연결하는 대부분의 출입문이 화장실이며, 일부 창문만이 설계상의 이유로 숙소 안쪽을 확인할 수 있다…… 합리적이다.
 
 [name="？？？"]  呼啊......古米，我要吃肉......
@@ -220,12 +220,12 @@
 
 [name="白雪"]  刻俄柏。
 [name="シラユキ"]  ケオベ。
-[name="ShiraYuki"]  Ceobe.
+[name="Shirayuki"]  Ceobe.
 [name="시라유키"]  케오베.
 
 [name="白雪"]  睡相很差。
 [name="シラユキ"]  寝相が悪い。
-[name="ShiraYuki"]  Abysmal sleeping posture.
+[name="Shirayuki"]  Abysmal sleeping posture.
 [name="시라유키"]  잠버릇이 고약하군.
 
 [name="月见夜"]  呼......很好，今天的训练量也达标了。
@@ -255,22 +255,22 @@
 
 [name="白雪"]  （恶寒）
 [name="シラユキ"]  （悪寒）
-[name="ShiraYuki"]  (Shudder)
+[name="Shirayuki"]  (Shudder)
 [name="시라유키"]  소름이 돋는다.
 
 [name="白雪"]  干员代号，月见夜。
 [name="シラユキ"]  コードネーム、ミッドナイト。
-[name="ShiraYuki"]  Operator codename, Midnight.
+[name="Shirayuki"]  Operator codename, Midnight.
 [name="시라유키"]  오퍼레이터 코드네임, 미드나이트.
 
 [name="白雪"]  自恋。
 [name="シラユキ"]  ナルシスト。
-[name="ShiraYuki"]  Narcissist.
+[name="Shirayuki"]  Narcissist.
 [name="시라유키"]  자기애가 강하다.
 
 [name="白雪"]  不过，肌肉线条不错。
 [name="シラユキ"]  だが……確かに、いい体をしている。
-[name="ShiraYuki"]  Yet, ample muscle definition.
+[name="Shirayuki"]  Yet, ample muscle definition.
 [name="시라유키"]  하지만, 근육 라인은 나쁘지 않군.
 
 [name="杜宾"]  ......嗯？时间已经这么晚了吗？
@@ -295,32 +295,32 @@
 
 [name="白雪"]  教官杜宾。
 [name="シラユキ"]  ドーベルマン教官。
-[name="ShiraYuki"]  Instructor Dobermann.
+[name="Shirayuki"]  Instructor Dobermann.
 [name="시라유키"]  도베르만 교관.
 
 [name="白雪"]  面冷心善。
 [name="シラユキ"]  見た目は厳しいが、内面は優しい。
-[name="ShiraYuki"]  Steel-cold, heart of gold.
+[name="Shirayuki"]  Steel-cold, heart of gold.
 [name="시라유키"]  겉은 차갑지만, 속은 착하다.
 
 [name="白雪"]  大部分人已经入睡。
 [name="シラユキ"]  ほとんどの者がすでに就寝中だ。
-[name="ShiraYuki"]  Most have already fallen asleep.
+[name="Shirayuki"]  Most have already fallen asleep.
 [name="시라유키"]  대부분 사람이 잠들었다.
 
 [name="白雪"]  ......罗德岛的人，看起来多少都颇为适应在此处生活。
 [name="シラユキ"]  ……ロドスのオペレーターの環境適応率はかなり高いと見た。
-[name="ShiraYuki"]  Rhodes Island's people by and large, seem used to life here.
+[name="Shirayuki"]  Rhodes Island's people by and large, seem used to life here.
 [name="시라유키"]  로도스 아일랜드 사람들, 이곳 생활에 잘 적응하는 것 같다.
 
 [name="白雪"]  确实如公主所说，是个好地方。
 [name="シラユキ"]  確かに姫が仰っていた通り、良き場所である。
-[name="ShiraYuki"]  Just as the Princess's words, a good place.
+[name="Shirayuki"]  Just as the Princess's words, a good place.
 [name="시라유키"]  공주님 말처럼 좋은 곳이다.
 
 [name="白雪"]  ......前面就不是宿舍区了，小心行事。
 [name="シラユキ"]  ……前方にもう少し進めば宿舎区域を抜ける。慎重に行動すべし。
-[name="ShiraYuki"]  Ahead leaves the dormitory area. Tread carefully.
+[name="Shirayuki"]  Ahead leaves the dormitory area. Tread carefully.
 [name="시라유키"]  앞에는 숙소 구역이 아니다. 조심히 행동해야 한다.
 
 [name="早露"]  哈......哈......
@@ -355,22 +355,22 @@
 
 [name="白雪"]  两个来自乌萨斯的学生，似乎是之前接收的难民。
 [name="シラユキ"]  二名のウルサスの学生、以前に収容された難民の模様。
-[name="ShiraYuki"]  Two students from Ursus. Seemingly, refugees admitted prior.
+[name="Shirayuki"]  Two students from Ursus. Seemingly, refugees admitted prior.
 [name="시라유키"]  두 명의 우르수스 학생, 예전에 받아준 난민 같다.
 
 [name="白雪"]  切尔诺伯格，惨剧。
 [name="シラユキ"]  チェルノボーグ事変の生き残りだろうか？
-[name="ShiraYuki"]  Chernobog. A tragedy.
+[name="Shirayuki"]  Chernobog. A tragedy.
 [name="시라유키"]  체르노보그에 있었던 참사에서 살아남은 건가?
 
 [name="白雪"]  祝你们好运。
 [name="シラユキ"]  二人の幸運を願う。
-[name="ShiraYuki"]  I wish you good luck.
+[name="Shirayuki"]  I wish you good luck.
 [name="시라유키"]  행운이 있기를.
 
 [name="白雪"]  嗯？那是......
 [name="シラユキ"]  む？　あれは……
-[name="ShiraYuki"]  Hm? That...
+[name="Shirayuki"]  Hm? That...
 [name="시라유키"]  응? 저건……
 
 [name="凯尔希"]  阿米娅，今天的工作就先告一段落吧。
@@ -415,7 +415,7 @@
 
 [name="白雪"]  这应当就是凯尔希医生......
 [name="シラユキ"]  これがケルシー先生とやらか……
-[name="ShiraYuki"]  So this should be Dr. Kal'tsit...
+[name="Shirayuki"]  So this should be Dr. Kal'tsit...
 [name="시라유키"]  저 사람이 닥터 켈시로군……
 
 [name="凯尔希"]  ......
@@ -425,7 +425,7 @@
 
 [name="白雪"]  她似乎往这边看了一眼，被发现了？！
 [name="シラユキ"]  こちらを一瞬見たようだが、気付かれたのか？
-[name="ShiraYuki"]  Her gaze, as though it flickered hither! Have I been found?!
+[name="Shirayuki"]  Her gaze, as though it flickered hither! Have I been found?!
 [name="시라유키"]  여길 본 것 같은데, 들켰나?!
 
 [name="凯尔希"]  ......
@@ -435,17 +435,17 @@
 
 [name="白雪"]  （她似乎没有发现我。但是刚才的感觉究竟是......）
 [name="シラユキ"]  （ただの偶然か。だが今し方の感覚は一体……）
-[name="ShiraYuki"]  (Seemingly, she has not noticed me. Yet that sensation, it was...)
+[name="Shirayuki"]  (Seemingly, she has not noticed me. Yet that sensation, it was...)
 [name="시라유키"]  (날 못 본 것 같지만, 방금 그 느낌은……)
 
 [name="白雪"]  罢了，既然没有被发现，继续前进吧。
 [name="シラユキ"]  まあ良い、続けよう。
-[name="ShiraYuki"]  Forget it. As I am not found, I shall proceed.
+[name="Shirayuki"]  Forget it. As I am not found, I shall proceed.
 [name="시라유키"]  됐다, 안 들켰으니 계속 가자.
 
 [name="白雪"]  （嗯？前面似乎有很强的噪音......方位上来推测，似乎是工程部。）
 [name="シラユキ"]  （む？　前方から強烈な騒音が……方向から推測して、エンジニア部か。）
-[name="ShiraYuki"]  (Hm? Ahead, an impression of great noise... surmising from direction, likely the Engineering Department.)
+[name="Shirayuki"]  (Hm? Ahead, an impression of great noise... surmising from direction, likely the Engineering Department.)
 [name="시라유키"]  (음? 앞이 굉장히 시끄럽다…… 엔지니어링부 쪽인가.)
 
 [name="可露希尔"]  喂喂喂，不是吧，这里难道不应该直接亲上去吗！女主你在犹豫什么啊！
@@ -480,17 +480,17 @@
 
 [name="白雪"]  总工程师可露希尔。
 [name="シラユキ"]  チーフエンジニアのクロージャ。
-[name="ShiraYuki"]  Chief Engineer Closure.
+[name="Shirayuki"]  Chief Engineer Closure.
 [name="시라유키"]  총괄 엔지니어, 클로저.
 
 [name="白雪"]  据说罗德岛的舰体就是她一手设计的，厉害。
 [name="シラユキ"]  聞くところによると、ロドスの艦船の設計は彼女が一手に引き受けたとのこと。驚愕だ。
-[name="ShiraYuki"]  'Tis alleged that the Rhodes Island ship was her plan alone. Fearsome.
+[name="Shirayuki"]  'Tis alleged that the Rhodes Island ship was her plan alone. Fearsome.
 [name="시라유키"]  로도스 아일랜드 선체를 설계했다는데, 대단하다.
 
 [name="白雪"]  不过这部剧，真正的烂点还不在这里，第四季男配的突然登场才是噩梦。
 [name="シラユキ"]  （小声）しかしこのドラマ、本当にがっかりさせるのはまだそこではない。第四シーズンに、突然、主人公のライバルが登場する。そこからが悪夢だ。
-[name="ShiraYuki"]  Yet this is not where the show's true ruin lies. The fourth season's spontaneous introduction of the supporting man; such was a nightmare.
+[name="Shirayuki"]  Yet this is not where the show's true ruin lies. The fourth season's spontaneous introduction of the supporting man; such was a nightmare.
 [name="시라유키"]  (작은 목소리로) 하지만 이 드라마, 진짜 최악은 여기가 아니다. 시즌 4부터 갑자기 주인공의 경쟁자가 등장하는데, 거기서부터가 진짜 악몽이다.
 
 [name="可露希尔"]  啊？不是吧？！我还以为这够烂了！
@@ -500,7 +500,7 @@
 
 [name="白雪"]  ......你听得到我说话？！
 [name="シラユキ"]  ……気付かれた！？
-[name="ShiraYuki"]  ...You catch upon my words?!
+[name="Shirayuki"]  ...You catch upon my words?!
 [name="시라유키"]  ……내 말이 들렸나?!
 
 [name="可露希尔"]  啊，糟了，不小心接话了。
@@ -515,12 +515,12 @@
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [name="白雪"]  ......什么时候？
 [name="シラユキ"]  ……いつからだ？
-[name="ShiraYuki"]  ...Since when?
+[name="Shirayuki"]  ...Since when?
 [name="시라유키"]  ……언제부터?
 
 [name="可露希尔"]  一开始。
@@ -530,7 +530,7 @@
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [name="可露希尔"]  啊，不要误会，你的忍者技巧确实还挺厉害的，只不过我一开始就知道你要做这件事啦。
@@ -540,7 +540,7 @@
 
 [name="白雪"]  ......这是我个人的行动，与任何人无关。
 [name="シラユキ"]  ……これは個人の行動であり、いかなる者とも関係ない。
-[name="ShiraYuki"]  ...'Twas my individual action, untied to anyone.
+[name="Shirayuki"]  ...'Twas my individual action, untied to anyone.
 [name="시라유키"]  이건 내 개인행동이다. 아무하고도 상관없다.
 
 [name="可露希尔"]  好啦好啦，别紧张，你看我像是把你当成间谍的样子吗？
@@ -555,7 +555,7 @@
 
 [name="白雪"]  ......？
 [name="シラユキ"]  ……？
-[name="ShiraYuki"]  ......?
+[name="Shirayuki"]  ......?
 [name="시라유키"]  ……?
 
 [name="可露希尔"]  她当时就告诉阿米娅，说她虽然派你来确实没有额外的意图，但她害怕你会做多余的事，所以特地主动提醒我们稍微注意你一下。
@@ -570,7 +570,7 @@
 
 [name="白雪"]  ......这件事与公主无关。
 [name="シラユキ"]  ……この件は姫とは関係ない。
-[name="ShiraYuki"]  ...This has naught to do with the Princess.
+[name="Shirayuki"]  ...This has naught to do with the Princess.
 [name="시라유키"]  ……이 일은 공주님과 무관하다.
 
 [name="可露希尔"]  诶，你这人好难搞哦。
@@ -590,7 +590,7 @@
 
 [name="白雪"]  ......
 [name="シラユキ"]  ……
-[name="ShiraYuki"]  ......
+[name="Shirayuki"]  ......
 [name="시라유키"]  ……
 
 [name="可露希尔"]  总之，念在你是初犯，你可以不用担心你会因为这件事受到惩罚或者牵连到你家公主什么的。
@@ -620,12 +620,12 @@
 
 [name="白雪"]  不累。
 [name="シラユキ"]  疲れない。
-[name="ShiraYuki"]  I do not.
+[name="Shirayuki"]  I do not.
 [name="시라유키"]  안 피곤하다.
 
 [name="白雪"]  没有下次了。
 [name="シラユキ"]  だが、もうしない。
-[name="ShiraYuki"]  I will not repeat this.
+[name="Shirayuki"]  I will not repeat this.
 [name="시라유키"]  하지만, 이젠 하지 않겠다.
 
 [name="可露希尔"]  然后去寻找别的方法是吗？
@@ -635,7 +635,7 @@
 
 [name="白雪"]  ......我不保证。
 [name="シラユキ"]  ……しない保証はできない。
-[name="ShiraYuki"]  ...I make no guarantee.
+[name="Shirayuki"]  ...I make no guarantee.
 [name="시라유키"]  ……장담은 못 하겠군.
 
 [name="可露希尔"]  呜哇，好想把你丢给凯尔希，忠诚的人真是难搞。
@@ -650,7 +650,7 @@
 
 [name="白雪"]  ......我知道了。
 [name="シラユキ"]  ……分かった。
-[name="ShiraYuki"]  ...I understand.
+[name="Shirayuki"]  ...I understand.
 [name="시라유키"]  ……알겠다.
 
 [name="可露希尔"]  诶，其实你要是真的觉得晚上无聊想跑来跑去，可以来陪我一起看剧。
@@ -665,12 +665,12 @@
 
 [name="白雪"]  你在看的这部，确实没有再看下去的价值。
 [name="シラユキ"]  では一つ忠告しよう。先ほどのドラマは、これ以上見る必要も価値もない。
-[name="ShiraYuki"]  In continuing to watch this, you will truly find no value.
+[name="Shirayuki"]  In continuing to watch this, you will truly find no value.
 [name="시라유키"]  아까 그 드라마라면, 더 이상 볼 필요도 가치도 없다.
 
 [name="白雪"]  我可以推荐一些，不知道你有没有。
 [name="シラユキ"]  おすすめを紹介することも吝かではないが、ここにあるかは知らぬ。
-[name="ShiraYuki"]  I may recommend some. I know not if you possess them.
+[name="Shirayuki"]  I may recommend some. I know not if you possess them.
 [name="시라유키"]  네가 갖고 있을진 모르겠지만, 몇 개 추천을 해줄 순 있을 것 같군.
 
 [name="可露希尔"]  好啊好啊！
@@ -685,6 +685,6 @@
 
 [name="白雪"]  ......好。
 [name="シラユキ"]  ……承知。
-[name="ShiraYuki"]  ...Very well.
+[name="Shirayuki"]  ...Very well.
 [name="시라유키"]  ……알겠다.
 

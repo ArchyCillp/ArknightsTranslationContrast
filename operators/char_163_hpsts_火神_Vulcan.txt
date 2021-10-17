@@ -1,11 +1,17 @@
 ID:
 	char_163_hpsts
 
-干员代号\Name:
+CV:
 	火神
 	ヴァルカン
 	Vulcan
 	벌컨
+
+干员代号\Name:
+	佐藤利奈
+	佐藤利奈
+	Rina Satō
+	사토 리나
 
 招聘合同\Character Usage:
 	罗德岛重装干员火神，已为你烧红火炉，随时准备开始锻造。
@@ -43,177 +49,358 @@ ID:
 	어택 모드
 
 语音\Voices:
-	嗯？想看我铸造武器吗？可以。小心，别被火星烫到。
 	え、鍛冶の様子が見たい？かまわないけど、やけどには気をつけて。
 	Hm? You want to watch me forge weapons? Sure, but be careful not to get singed.
 	에, 무기 단조하는 모습이 보고 싶다고? 상관은 없는데, 화상 안 입게 조심해.
 
-	只有不被使用的武器才不会受损。因此，没有划痕反而是对武器最大的亵渎。
 	傷一つないというのは使われていない証拠。つまり、武器にとっては無傷であることこそが一番の恥になる。
 	Only weapons that are never in use will remain undamaged. Therefore, leaving a weapon spotless is actually the worst sacrilege for it.
 	흠집 하나 없다는 건 쓰이지 않았다는 증거… 그 말은 무기로썬 흠집이 없다는 거야말로 제일 수치스러운 일이란 거지.
 
-	现代化的武器装备生产方式让许多传统工匠都失业了，不过跟不上时代的人理应被淘汰，这是规律。
 	武器の製造技術が発展するのに伴い、多くの伝統職人が職を失った。しかし、時代遅れの者は淘汰される。これが世の理というものなんだ。
 	The modernized weaponry and equipment manufacturing processes have left many traditional craftsmen jobless. But those who can't keep up with the times will of course be left behind... that's only natural.
 	무기의 제조 기술이 발전함과 동시에, 많은 전통 장인들이 직업을 잃게 되었어. 하지만, 시대에 늦어진 자는 도태되는 법. 이게 세상의 섭리라는 거지.
 
-	枪械......这种武器会给这个世界带来翻天覆地的变化。
 	銃器、か……この世界に革命的な変化をもたらす予感がする。
 	Firearms... these weapons will truly change the world completely.
 	총기, 인가…… 이 세상에 혁명적인 변화를 가져다줄 것 같은 예감이 들어.
 
-	我的右腿？没什么大不了的，你知道，每个工匠多少都失误过。
 	私の右足が気になる？いや、大したことはない。知っての通り、職人というものは、多少の失敗を経験するものなんだ。
 	My right leg? Oh, it's fine. You know, all craftsmen make mistakes.
 	내 오른 다리가 신경 쓰여? 별거 아니야. 알듯이 장인이라는 건 원래 다 크고 작은 실패를 경험하는 법이니까.
 
-	感谢你为我提供了展现技艺的机会。
 	私に腕を振るうことができる場を与えてくれたこと、感謝する。
 	Thank you for giving me a chance to show what I can do.
 	내게 실력을 발휘할 수 있는 자리를 줘서, 고마워.
 
-	一些装备上能看到与我一样的名字？不......跟我可没什么关系。
 	私の名が入った装備を見たことがある？いや……私とは特に関係ないものだと思うけど。
 	You saw my name engraved on some equipment? No... that's not me.
 	내 이름이 들어간 장비를 본 적 있다고? 아니…… 그거 나랑은 상관없는 장비일 거 같은데.
 
-	以钢铁与黄铜为骨......
 	鋼と真鍮で骨組みをつくって、それから……。
 	With steel and copper as the core...
 	강철과 놋쇠로 골조를 만들고, 그다음엔…… 
 
-	如果这锻锤还能为您尽上几分绵薄之力，我就已经心满意足了。
 	このハンマーで、少しでもドクターの役に立つことができるのなら、これ以上は何も望まないよ。
 	My greatest wish is for the hammer I forged to come in useful to you.
 	이 망치로 조금이라도 박사에게 도움이 될 수 있다면, 난 더 이상 바랄 게 없어.
 
-	吧台又开始推新饮品了，今天喝哪款好呢。
 	バーにまた新作ドリンクが増えたのか。今日は何を飲もうか悩んでしまうな。
 	They're promoting new drinks at the bar. What should I have today?
 	바에 또 신메뉴가 늘어난 건가. 오늘은 뭐 마실까 고민되네.
 
-	他们都叫我火神。如果需要的话，我可以给你们损毁的武器做维护，另外......我需要的锻冶设备就在这张图纸里。
 	皆からはヴァルカンと呼ばれている。もし必要があれば、破損した武器の整備を担当させてもらおう。それから……私が鍛冶をするのに用意してほしいものを書いておいた、用意してもらえると助かる。
 	They call me Vulcan. I can do maintenance for your damaged weapons if you want. Oh, by the way, the forging equipment I need is all listed here in this blueprint.
 	남들은 날 벌컨이라 부르고 있어. 혹시 필요하다면 파손된 무기의 정비를 맡아주도록 하지. 그리고…… 내가 단조를 할 때 필요한 걸 적어놨는데, 준비해주면 고맙겠어.
 
-	唔，有新的灵感。准备好鼓风机，该干活了。
 	ふむ、何か閃いた気がする。仕事の時間だ、まずは送風機を準備して……と。
 	Ah, I'm feeling inspired. Get the blower machine ready, it's time to get down to business.
 	흠, 뭔가 영감이 반짝 떠올랐는데… 지금은 업무시간이지, 일단은 송풍기 준비를 끝내놓자… 
 
-	看来你也能明白，一名优秀工匠对于军事组织的重要性。
 	優秀な職人を軍事組織においておく重要性、ようやく気づいたみたいだな。
 	I see that you, too, understand the importance of an excellent craftsperson to a military organization.
 	우수한 장인을 군사조직에 놔둬야 할 중요성, 드디어 깨달은 것 같네.
 
-	维护武器，就是保护生命。你也认同这个观念？看来，我终于找到归宿了。
 	武器を整備することは、命を守ることに繋がるんだ。ドクターも同感？よかった。私にもようやく、帰る場所ができたようだ。
 	Keeping your weapons in good condition is the best way to keep yourself safe. Ah, you agree with me? I see that I've finally found my soulmate.
 	무기를 정비하는 건, 목숨과도 직결되지. 이 부분은 박사도 동감하지? 다행이네, 나한테도 드디어 돌아갈 장소가 생긴 것 같아.
 
-	我希望能......专心工作。
 	仕事に……専念させてほしいな。
 	I just want to... focus on my work.
 	업무에…… 전념하게 해줬으면 좋겠는데.
 
-	队长吗......如果需要的话......不过比起指挥人，我还是更擅长设计和制造武器。
 	隊長か……どうしてもというのなら……。本当は指揮を執るよりも、武器の設計や製作の方が得意なんだけどな。
 	Leader? Well, if I have to... Still, compared to giving orders, I'm much better at designing and manufacturing weapons.
 	팀장인가…… 꼭 해야 한다면 별수 없지만…… 사실은 지휘 맡는 것보단 무기의 설계나 제작 쪽이 더 익숙해서 말이지.
 
-	就不能让我留下好好工作吗？
 	ここに残って仕事をしていてはだめなのか？
 	Can't I just stay behind and work?
 	여기 남아서 일하고 있으면 안 되나?
 
-	一群无可救药的家伙......
 	どうしようもない連中だ……。
 	Hopeless imbeciles...
 	정말 답이 없는 놈들이네…… 
 
-	哦。
 	はい。
 	Ah.
 	여기.
 
-	嗯？
 	うん？
 	Hmm?
 	응?
 
-	好的......
 	わかった……。
 	Okay...
 	알았어…… 
 
-	一切正常。
 	異常なし。
 	Everything's normal.
 	이상 없음.
 
-	武装起来。
 	武器を取れ！
 	Suit up.
 	무기를 들어라!
 
-	暴怒的烈焰啊！
 	怒りの炎よ。
 	Raging flames!
 	분노의 불꽃이야.
 
-	我不需要治疗。
 	治療は不要だ。
 	I don't need healing.
 	치료는 필요 없어.
 
-	下一击，就破坏掉你的武器！
 	この一撃で、その武器を壊してやる！
 	I'll destroy your weapon with my next blow!
 	이 일격으로, 그 무기를 부숴버리겠어!
 
-	捡到敌人的装备就让我看看，我想知道现在他们都在做些什么。
 	敵の装備を入手したら、私にも見せてほしい。どんなものを作ってるのか、興味があるんだ。
 	If you pick up some enemy equipment, show it to me. Could be useful for future development.
 	적의 장비를 입수하게 되면, 내게도 보여줬으면 좋겠어. 어떤 것들을 만들고 있는지, 흥미가 좀 있어서 말이야.
 
-	意料之中的胜利！这就是为什么人需要依靠好的装备。
 	予想通りの戦果だ！いい装備の重要性がよく分かる戦いだったな。
 	A victory, just as expected! That's why we need high-quality weapons.
 	예상대로의 결과야! 좋은 장비의 중요성을 잘 알 수 있는 전투였네.
 
-	把各自装备的破损情况提交给我，回去之后我会统一检修。
 	各自、装備の破損状況を報告してくれ。基地に戻り次第まとめて修理に取りかかる。
 	Please submit a damage report for each of your weapons. I will work on repairs when we get back.
 	각자 장비의 파손 상황을 보고해줘. 기지로 돌아가는 대로 한꺼번에 수리할 테니.
 
-	是我技艺不精......
 	私の腕もまだまだのようだ……。
 	My crafting skills are still lacking...
 	내 실력도 아직 멀었나보네…… 
 
-	这里有熔炉吗？
 	この部屋にフォージは置いてないのか？
 	Got a melting pot here?
 	이 방에 용광로는 따로 안 놔뒀나?
 
-	啊啊......
 	あ……
 	Argh...
 	아…… 
 
-	想要什么好装备了吗？我可以试着帮你做出来。
 	何か欲しい装備はあるか？作ってみるよ。
 	Any equipment you have in mind? I can try making it for you.
 	뭐 원하는 장비 있어? 만들어줄게.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早安，博士。
 	おはよう、ドクター。
 	Good morning, Doctor.
 	좋은 아침, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】火神
+	【性别】女
+	【战斗经验】两年
+	【出身地】米诺斯
+	【生日】4月30日
+	【种族】丰蹄
+	【身高】170cm
+	【矿石病感染情况】
+	体表有源石结晶分布，且参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ヴァルカン
+	【性別】女
+	【戦闘経験】二年
+	【出身地】ミノス
+	【誕生日】4月30日
+	【種族】フォルテ
+	【身長】170cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Vulcan 
+	[Gender] Female 
+	[Combat Experience] 2 years 
+	[Place of Birth] Minos 
+	[Date of Birth] Apr. 30 
+	[Race] Forte 
+	[Height] 170cm 
+	[Infection Status] 
+	Shows physical signs of Oripathy, infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 벌컨
+	[성별] 여
+	[전투 경험] 2년
+	[출신지] 미노스
+	[생일] 4월 30일
+	[종족] 포르테
+	[신장] 170cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】标准 
+	【生理耐受】优良 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	来自米诺斯的铁匠，感染矿石病后，来到罗德岛求医，在与罗德岛达成协议后，成为罗德岛的一份子。 
+	平日主要负责其他干员的武器维护与打造，必要时亲自出动。
+
+	個人履歴 :
+	ミノス出身の鍛冶職人。鉱石病に感染後、治療を求めてロドスにやって来たが、話し合いの結果、ロドスの一員となった。
+	平日は主に他のオペレーターの武器の整備と製造を担当しており、必要な時には自ら出動する。
+
+	Profile :
+	Vulcan is a blacksmith from Minos who sought treatment at Rhodes Island after contracting Oripathy, ultimately reaching an agreement to become a part of the team. 
+	In charge of smithing and maintaining weapons for other Operators, Vulcan also goes on missions when necessary.
+
+	프로필 :
+	    미노스 출신의 대장장이. 광석병에 감염된 후 치료를 위해 로도스 아일랜드에 오게 되었으며, 로도스 아일랜드와 협의를 마친 후 로도스 아일랜드의 일원이 되었다. 평일에는 주로 다른 오퍼레이터들의 무기 유지 보수 및 제조를 담당하고 있으며, 필요시에는 직접 출동하기도 한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】18% 
+	受感染程度较高，面部、颈部已出现明显源石侵蚀痕迹。
+	
+	【血液源石结晶密度】0.38u/L
+	感染步入中期，但暂时无法判别对干员本人造成的影响。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】18%
+	感染レベルは比較的高く、顔面及び頸部に鉱石病の侵蝕の痕跡あり。
+	
+	【血液中源石密度】0.38u/L
+	感染は中期段階だが、差し当たって本人への影響を判別する方法はない。
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 18% 
+	High level of infection, obvious signs of Originium episodes on face and neck. 
+	
+	[Blood Originium-Crystal Density] 0.38u/L 
+	Infection entering mid-stage, but currently unable to diagnose effects on the Operator.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 18%
+	감염 정도가 심각하며, 얼굴과 목에 명확한 오리지늄 침식 흔적이 확인됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.38u/L
+	감염 중기에 다달았으나, 오퍼레이터 본인에게 어떤 영향을 끼치고 있는지는 현재 확인 불가.
+
+———————————————————————————————
+
+	档案资料一 :
+	性格冷淡的铁匠小姐。 
+	对武器以外的话题一概不感兴趣，不过，即使是武器有关的话题，也并不会突然变得热情且健谈，只是会愿意开口。 
+	将罗德岛分配给她的专属铁匠铺当做自己的卧室，除了出任务之外，几乎不会主动离开。
+
+	第一資料 :
+	クールな性格の女性鍛冶職人。
+	武器以外の話題には一切興味がない。武器に関する話題でも、特別饒舌になるわけでもなく、会話する意欲を見せる程度。
+	ロドスから与えられた専属鍛冶場を自室にしており、任務に出る以外はほとんど部屋から離れようとしない。
+
+	Archive File 1 :
+	Vulcan has an unwelcoming attitude for a lady blacksmith. 
+	She is not even remotely interested in anything not related to weaponry, and when it comes to armaments she's only a bit more talkative than usual. 
+	She made the smithy Rhodes Island provided her into her own bedroom, which she almost never leaves unless she's got a mission.
+
+	파일 자료 1 :
+	    차가운 성격의 대장장이 아가씨. 무기 이외의 주제에는 전혀 관심이 없다. 무기와 관련된 주제로 이야기를 한다고 해서 갑자기 열정적이거나 말수가 늘어나는 건 아니고, 단지 입을 열게 될 뿐이다. 로도스 아일랜드가 그녀에게 마련한 전용 대장간을 자신의 침실로 쓰고 있으며, 작전에 참여하는 경우를 제외하고는 거의 이곳을 떠나지 않는다.
+
+———————————————————————————————
+
+	档案资料二 :
+	在战场上，火神小姐是个特殊的存在。她习惯了利用可靠的装备与强韧的义肢进行战斗。正因为火神小姐的战斗技巧必须依靠自己的装备才能得到十足的发挥，她的装备必须时常得到维护与修缮。战火中，装备的损坏是常有的事，而她也早已具备了在战场上快速修复装备的能力；保证装备的状态良好，是她不断战斗下去的基础保障。
+	相应的，大多数医疗干员，都对铸造工艺一窍不通。
+
+	第二資料 :
+	戦場ではヴァルカンは特別な存在だ。彼女は頼りにしている装備品と強靭な義肢を使って戦うことに慣れている。しかしその戦闘スタイルは装備品によってはかなりダメージを受けるため、常に装備の整備と修復が必要。戦火で装備がダメージを受けるのはよくあることで、彼女もそれに備えて戦場での迅速な修復をマスターしている。装備の状態を良好に維持することが、彼女が戦い続けられるかどうかの重要な点になっている。
+	彼女に比べて大半の医療オペレーターは、鍛冶に関する知識が皆無だ。
+
+	Archive File 2 :
+	No one fights quite like Vulcan does. She relies on her dependable equipment and powerful prosthetics in combat. As such, she is constantly repairing her equipment. Gear gets damaged in battle, that's normal, but Vulcan has mastered the art of quick repair even under fire. Keeping equipment functional is essential to her battle tactics. 
+	In contrast, most Medic Operators don't have a clue about blacksmithing.
+
+	파일 자료 2 :
+	    전장에서 벌컨은 특별한 존재다. 그녀는 믿을 만한 장비와 강력한 의수와 의족을 이용해 전투를 진행하는 데 익숙하다. 벌컨의 전투 기술은 반드시 자신의 장비를 통해서만 제대로 발휘될 수 있기에, 그녀의 장비는 언제나 유지 관리가 필수다. 전투 중 장비의 손상은 늘 있는 일이기에, 그녀는 일찍이 전장에서 신속히 장비의 능력을 수복할 수 있는 능력을 계발하여 장비 상태를 유지하고 지속적으로 전투에 임할 수 있도록 하고 있다. 대다수의 메딕 오퍼레이터들은 이 기술에 대해 전혀 이해하지 못하고 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	正如火神小姐所说，跟不上时代的人理应被淘汰。 
+	在时间步入近代后，铁匠这个行业事实上也早已摆脱了在火炉边挥汗如雨的印象，他们更多地是利用发达的工业器械来更高效率地制造武器。 
+	在火神小姐的铁匠铺中，就摆放着各种当今最为先进的机器，并且每隔一段时间还会得到更新。也正是这个在罗德岛基地中较为偏僻的小角落，支撑起了所有罗德岛干员的武器维护工作。
+
+	第三資料 :
+	ヴァルカンの言う通り、時代遅れの人は淘汰される。
+	近代になってから、鍛冶職人という職業は火を熾した炉の近くで汗水を流すという印象を脱し、発達した工業機械を活用して効率的に武器を製造するようになっている。
+	ヴァルカンの鍛冶場では最先端の機器がたくさんあり、定期的にラインナップが更新されている。ロドスの基地の中では比較的辺鄙な一角で、オペレーター全員の武器整備作業を一手に引き受けている。
+
+	Archive File 3 :
+	Vulcan always says those who can't keep up with the times are doomed to obsolescence. 
+	The march of time has changed the smithing trade from the sweaty man hitting an anvil to an advanced automation engineer creating weapons at maximum efficiency. 
+	In Vulcan's workshop, for instance, are several of the most advanced machines on the planet that are regularly improved. It is also in this secluded corner that all weapons at Rhodes Island are refined and upgraded.
+
+	파일 자료 3 :
+	    벌컨의 말처럼, 시대의 흐름에 발맞추지 못하는 사람은 도태되어야 한다. 시대가 근대로 접어든 후, 사실상 대장장이는 이미 화로 주변에서 비오듯 땀을 흘리며 일하는 그런 전통적인 이미지를 버린지 오래며, 이들은 대부분 발달한 공업 기계를 이용하여 효율적으로 무기를 제조하고 있다. 벌컨의 대장간에는 다양한 종류의 최신 기계들이 구비되어 있으며, 일정 시간 간격으로 최신화되고 있다. 그녀의 로도스 아일랜드 기지 중 비교적 외진 구석에서, 모든 로도스 아일랜드 오퍼레이터들의 무기 유지 보수 작업이 담당하고 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	然而，在火神小姐的铁匠铺中，事实上最显眼的却并不是那些先端设备，而是——巨大的锻造台与火炉。是的，正是她口中“跟不上时代”的设备。 
+	而火神小姐每天都会在锻造台上升起火，找来一块铁锭，敲打一段时间，一如那些古老的铁匠们所做的那样。 
+	当然，武器的制作与维护都与这项行为无关，她这么做更像是在进行某种仪式，不过她从不解释其中含义。 
+	或许，对她来说，跟不上时代的人固然应该被淘汰，但那些完全抛弃传统的人，也不配再被称为铁匠吧。
+
+	第四資料 :
+	ヴァルカンの鍛冶場で最も目を引くものは最先端の設備ではなく、その巨大な鍛冶台と加熱炉だ。これは彼女が口にする「時代遅れ」の設備だ。
+	ヴァルカンは、昔の鍛冶職人たちがしていたように、毎日鍛冶台で火を熾し、鉄のインゴットを取り出し、しばらくの間打ち続ける。
+	当然、武器の製作と整備はこの行為とは関係ない。彼女は何かの儀式かのようにこのようなことをするが、そこに含まれる意味を説明しようとはしない。
+	おそらく彼女にとって、時代遅れの人は淘汰されるべきものだが、完全に伝統を捨ててしまう人は鍛冶職人と呼ばれる資格がないと考えているのかもしれない。
+
+	Archive File 4 :
+	Still, the most eye-catching thing in Vulcan's smithy is not any of the advanced robotic machines, but the enormous anvil and furnace. Yes, the very 'obsolescence' she spoke of. 
+	And yet, Vulcan still fires up the forge to hammer a piece of steel on the anvil, just like blacksmiths of old. 
+	Of course, that has nothing to do with making or maintaining our weaponry, and is more like a ritual, though she has never explained its meaning. 
+	Perhaps to her, those who can't keep up with times should become obsolete, but those who completely forsake tradition should not be called blacksmiths.
+
+	파일 자료 4 :
+	    하지만 벌컨의 대장간에서 사실 가장 눈에 띄는 것은 이런 첨단 설비들이 아니라, 바로 대형 단조대와 화로이다. 그렇다, 이게 바로 그녀가 말한 '시대에 뒤떨어진' 설비이다. 벌컨은 매일 단조대에 불을 놓고, 쇳덩이를 하나 가져와서 오랫동안 두드리는데, 이는 전통적인 대장장이가 작업하는 모습과 동일하다.
+	    물론 무기 제작과 유지 보수는 모두 이 행위와는 관련이 없지만, 그녀는 이를 일종의 의식 행위로 여기고 진행하는 것 같지만 이 행위 자체가 어떤 의미를 품고 있는 것인진 설명한 적이 없다.
+	    어쩌면, 그녀에게 시대에 뒤떨어진 사람은 당연히 도태되어야 하지만, 그렇다고 전통을 완전히 버린 사람은 대장장이로 불릴 수 없다고 생각하는 건 아닐까.

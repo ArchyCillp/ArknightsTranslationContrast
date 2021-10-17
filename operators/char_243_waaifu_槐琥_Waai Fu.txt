@@ -1,11 +1,17 @@
 ID:
 	char_243_waaifu
 
-干员代号\Name:
+CV:
 	槐琥
 	ワイフー
 	Waai Fu
 	와이후
+
+干员代号\Name:
+	小林优
+	小林ゆう
+	Yu Kobayashi
+	코바야시 유우
 
 招聘合同\Character Usage:
 	来自龙门的实习干员槐琥，在干员综合测试中获得了相当高的分数。
@@ -22,7 +28,7 @@ ID:
 信物\Potential Item:
 	一本以古怪字体写就的秘传拳谱。作为工具书，或许有参考的价值......吧？
 	変わった言葉で書かれた拳法秘伝の書。参考書として参考にする価値はある……かも？
-	An old martial arts scroll written in an undiscernable text. At least it'll have some value as a reference material… right?
+	An old martial arts scroll written in an undiscernable text. At least it'll have some value as a reference material... right?
 	괴상한 글씨체로 쓰여진 비전의 권법서. 연구자료로는 참고할 만한 가치가… 있을지도?
 
 天赋\Talents:
@@ -43,177 +49,568 @@ ID:
 	칠무약진각
 
 语音\Voices:
-	博士你要去哪，现在不是值班时间吗？要去买午餐？那我陪你去吧，我也有些想买的东西，正好可以充当一下你的护卫。
 	ドクター、まだ仕事中ですよ。どこに行くんですか？お昼を買いに？では私もお供しましょう。ちょうど買いたいものもありますし、ドクターの護衛もできますから。
 	Doctor, where are you going? Shouldn't you be working? Lunch? Well then, I'm coming along. There's a few things I want to buy, and I can protect you too.
 	박사님, 아직 근무시간이에요. 어디 가시는 거예요? 점심을 사러요? 그럼 저도 같이 갈게요. 마침 사고 싶은 것도 있고, 박사님도 호위할 수 있으니까요.
 
-	抱歉博士，罗德岛的工作我只能当作一份兼职，毕竟只有完成学业我才能拥有正常的未来，直接脱离社会之类的，恕我拒绝。
 	ごめんなさい、ドクター。私はまだ学生の身、ロドスでの仕事はあくまでアルバイトでしかありません。学業を疎かにする者に真っ当な未来などありませんから。ましてや、社会から逸脱するなど、まさに愚の骨頂です。
 	Sorry, Doctor, Rhodes Island is just a part-time job for me. I have to study hard to make sure I have a nice, normal future ahead of me. I am committed to keeping in touch with everyday society.
 	죄송해요, 박사님. 전 아직 학생의 몸이라 로도스 아일랜드의 일은 어디까지나 아르바이트에 불과해요. 학업을 등한시하는 자에게 제대로 된 미래 따윈 없으니까요. 하물며 사회에서 일탈하는 건 더없이 어리석은 짓이에요.
 
-	要送交的文件根据类型不同贴上了不同颜色的标签，备份档案已经全部送到，时间规划在这张表上，夜宵我买好了放在小冰箱里，记得隔水加热。之后还有什么要做的，办公室的灯泡需要我换一下吗？
 	提出待ちの資料には種類別に色違いの付箋を貼り付けておきました。バックアップ用のファイルも全部届けましたし、スケジュールもこちらの表にまとめてあります。あ、夜食も冷蔵庫に入れてありますので、お湯で温めてから食べてくださいね。あとは……そうだ、執務室の電球を交換しましょうか？
 	I color coded all the documents to be sent out, the backups have already been delivered, your schedule is right here. I bought your late night snack and put it in the refrigerator. Don't forget to heat it up. And last, oh, do you need me to change the light bulb in your office for you?
 	제출 대기 중인 자료에는 종류별로 다른 색 스티커를 붙여뒀어요. 백업용 파일도 전부 전달했고, 스케줄도 이쪽 표에 정리해 뒀어요. 아, 야식도 냉장고에 넣어뒀으니까, 따뜻한 물로 데워서 드세요. 그리고…… 그렇지, 집무실 전구를 교체할까요?
 
-	我有没有和你说过我的另一份工作？没有？那我就不说了。别多心，博士，是真没什么可说的，如果那家事务所能有罗德岛十分之一勤奋，他们早就垄断龙门的所有侦探生意了。
 	私のもう一つの仕事について、お話したことはありますか？いえ、なければいいんです。特に話せることもありませんから、お気になさらず。……もしあの事務所に少しでもロドスのような勤勉さがあれば、龍門の探偵業界をとっくに席巻していたはずなんですけどね。
 	Did I ever tell you about my other job? No? Well, I won't. Don't look at me like that, Doctor. There's just not much to say. If my other office worked a tenth as hard as Rhodes Island does, they'd monopolize Lungmen's entire investigations industry.
 	저의 또 다른 직업에 대해 말씀드린 적 있나요? 아니요, 없으면 됐어요. 딱히 말씀드릴 수 있는 것도 없고, 신경 쓰지 마세요. ……만약 그 사무소에 조금이라도 로도스 아일랜드 같은 근면함이 있었다면 용문의 탐정업계를 진작에 주름잡았을 텐데 말이죠.
 
-	好奇我的武艺是怎么来的？这个啊，都是我那臭老爸从小开始的奇怪教育造成的。当然，我并不讨厌这身武艺，行侠仗义，离不开它。
 	どのように武術を身に付けたか、ですか？愚父の一風変わった教育方針により、幼い頃から武のいろはを叩き込まれてきました。もちろん、嫌いなわけではありませんよ。弱きを助け、強きを挫く、そのためには武術が必要ですから。
 	You wonder where I learned martial arts? Well, I have my nasty old dad and his weird education to thank for that. Not that I resent kung fu. A hero must uphold justice. Martial arts are a part of me.
 	어떻게 무술을 익혔느냐고요? 아버지의 남다른 교육 방침 때문에 어렸을 때부터 무예의 기초를 주입 당했어요. 물론 싫진 않아요. 약한 자를 돕고, 강한 자를 꺾는다. 그러기 위해서는 무술이 필요하니까요.
 
-	武艺和人心并无区别，武有阴阳，人有曲直。去纠正不对的事情、去战胜用错地方的武艺、以及去制服邪恶的人，对我来说都是再正常不过的事情了。世道险恶，总得有人挺身而出。
 	武に陰陽ありて、人に曲直あり。武術も人の心も同じです。不正を正し、歪んだ武術を打ち伏せ、邪悪な者を成敗する。どれも私にとっては当然のことです。世の悪には、誰かが立ち向かわなければなりませんから。
 	Just like the human heart, martial arts have yin and yang, right and wrong. To right those wrongs, to defeat evil, to counter bad kung fu, these are all second nature to me. The world is dark, and someone must stand for justice.
 	무에는 음양이 있고, 인간에게는 곡직이 있다. 무술도 사람의 마음도 같아요. 잘못된 것을 바로잡고, 비뚤어진 무술을 때려눕히고, 사악한 자에게 벌을 준다. 어느 것도 저에겐 당연한 일이에요. 세상의 악에 누군가는 맞서 싸워야 하니까요.
 
-	你说在哪看见了我？龙门城区？可能确实是我，我刚刚下课。你看见我痛打欺负过路人的混混，然后在警员抵达之前溜走了？你认错人了。对，你一定认错人了，别问了。
 	さっき私を見かけた？龍門の街で？授業を終えたばかりなので、確かに私かもしれません。え？私が弱い者いじめをするチンピラをボコボコにして、近衛局が駆けつける前に逃げた？えーと、それなら人違いですね。ええ、きっと人違いですよ。さぁ、もうこの話はやめましょう。
 	You think you just saw me? In downtown Lungmen? That may have been me. I just finished class. Hm? You saw me beat down some thugs who were harassing a passerby? And then slipped away before the police arrived? Must have been someone else. Heh heh. Definitely. That's enough about that.
 	아까 절 보셨다고요? 용문의 번화가에서? 수업이 막 끝났을 무렵이니까 확실히 저였을지도 모르겠네요. 네? 제가 약한 사람을 괴롭히는 불량배를 때려눕히고, 근위국이 달려오기 전에 도망쳤다고요? 저기, 그렇다면 사람을 잘못 보셨나 봐요. 네, 분명 잘못 보신 거예요. 자, 이제 이 이야기는 그만하죠.
 
-	我那臭老爸，嘴里说着要寻找武学真谛，现在也不知去了哪里。拜托，这可是现代社会！像他这样没常识没责任心的人，在哪里丧命都不奇怪。但他教我的，我也没忘记——“武有武德，人有人心。”
 	愚父は、武道の真髄を求めてなどと言いながら、あてもない修行の旅に出てしまいました。現代社会で未だにそんなことを……常識も責任感もない人ですから、もうどこかで野垂れ死んでもおかしくないですよ。でもそんな愚父（ちち）から教わった「武に武徳あり、人に心あり」の訓は、今でもこの身に宿っています。
 	My rotten dad said he had to go find the true meaning of kung fu. I still don't know where he is. Please! What year does he think it is? Find some common sense and learn some responsibility before you get yourself killed. But at least I haven't forgotten what he taught me: 'Martial arts have martial virtue, humans have human kindness.'
 	아버지는 무도의 진수를 찾는다느니 하면서 정처 없는 수행 길에 올라버렸어요. 현대 사회에 아직도 그런 걸…… 상식도 책임감도 없는 사람이니까, 이미 어딘가에서 객사했어도 이상하지 않아요. 하지만 그런 아버지에게 배운 "무에는 무덕이 있고, 사람에게는 마음이 있다"는 가르침은 지금도 제 몸에 깃들어 있어요.
 
-	博士，罗德岛有收到寄给我的信件吗？有？太好了。这里是我的成绩单......成绩很重要。至今所有科目，我没拿过A以外的成绩；如果我做的不够，许多事情会因为我能力不足而留下遗憾。
 	ドクター、ここに私宛の郵便は届いていませんか？ありました？よかった。中に成績通知書が入ってるはずです……はい、成績は大事です。今のところ、全科目オールAです。少しでも努力を怠れば、力が及ばないばかりに後悔することも増えてしまいますから。
 	Doctor, did any mail come for me? It did? Great. These are my grades... my very important grades! It's been straight A's for me, so far. If I don't work hard enough, I'll end up regretting all the things I wasn't strong enough to do.
 	박사님, 이쪽으로 제 우편물이 도착하지 않았나요? 있었나요? 다행이다. 안에 성적표가 들어있을 거예요…… 네, 성적은 중요해요. 지금까진 전 과목 올A에요! 조금이라도 노력을 게을리하면 역부족으로 후회하는 일도 늘어나 버리니까요!
 
-	竟然在睡觉......算了，帮你把工作做完吧。
 	こんな時に寝るとは……仕方がありません、残りの業務は私が片付けておきますか。
 	Falling asleep at a time like this... Oh well, I'll just finish your work for you.
 	이럴 때 주무시다니…… 어쩔 수 없네요. 나머지 업무는 제가 정리해 둘까요.
 
-	请问这里就是罗德岛吗？你好，我是今天起在这里打工的槐琥，请严格要求我，我一定能满足各位的工作需求。嗯，一定。
 	こちらがロドスですか？はじめまして、今日からこちらでアルバイトをさせていただくワイフーと申します。ビシバシ厳しいご指導をお願いします。必ず皆様に満足していただけるよう、精進してまいります。
 	Is this Rhodes Island? Nice to meet you. I'm Waai Fu, your new part-timer. Please don't go easy on me. I can handle anything you ask of me.
 	여기가 로도스 아일랜드인가요? 처음 뵙겠습니다. 오늘부터 이쪽에서 아르바이트를 하게 된 와이후라고 합니다. 가차 없이 엄격하게 지도 부탁드립니다. 반드시 여러분이 만족하실 수 있도록 정진하겠습니다.
 
-	如果在这里能这样出拳，就一定能击倒对方。
 	ここでこうやって拳を打ち込めば、間違いなく相手を倒せていたはずです。
 	If I can fight like this here, I can definitely knock them out.
 	여기서 이렇게 주먹을 찔러넣으면 틀림없이 상대를 쓰러트렸을 거에요.
 
-	非常感谢，我不会辜负你对我的这份认可。
 	ありがとうございます。ドクターの信頼に背かぬよう、精進します。
 	Thank you very much. I won't let you down, Doctor.
 	감사합니다. 박사님의 신뢰를 저버리지 않도록 정진하겠습니다.
 
-	我时常会看见不义之事在眼前发生。每当我没有能力阻止，我就会下定决心精进自己。所以，有什么需要我的地方，尽管开口，我一定全力以赴！
 	非道を目にすることは多々ありますが、それを止める力がないと思い知らされる度に、一層精進することを自らに誓うんです。なので、私の力が必要な時はぜひお呼びください。いつでも全力でお助けします！
 	I often witness injustices in my life. If I ever find myself unable to stop them, I reflect on the moment, and force myself to get stronger. So, if ever you need me, don't hesitate to say so. I'll be there, with all my strength!
 	도리에 어긋나는 짓을 보는 일은 자주 있지만, 그걸 막을 힘이 없다는 것을 뼈저리게 느낄 때마다 더 정진해야겠다고 저 자신에게 맹세하죠. 그러니 저의 힘이 필요하실 땐 꼭 불러주세요. 언제든지 온 힘을 다해 돕겠습니다!
 
-	是要去打击邪恶了吗？
 	悪を懲らしめに行くのですね？
 	Is there evil to fight?
 	악을 응징하러 가는 거죠?
 
-	我没有太多经验，但我不会推辞责任。
 	まだ経験は浅いですが、責任逃れなどはしません。
 	I don't have much experience, but I won't turn down the responsibility.
 	아직 경험은 별로 없지만, 책임 회피 같은 건 하지 않겠습니다!
 
-	诛恶义举，在所不辞！
 	悪を断つのは私の使命ですから！
 	Fight evil with the fist of justice!
 	악을 근절시키는 건 저의 사명이니까요!
 
-	斩草除根，当仁不让！
 	悪は徹底的に根絶やしにします！
 	Like cutting weeds and pulling roots!
 	악은 철저하게 뿌리 뽑겠습니다!
 
-	在！
 	はい。
 	Hey.
 	네.
 
-	请说！
 	指示を。
 	Go ahead!
 	지시를.
 
-	别无他法。
 	是非もなし。
 	No other choice.
 	어쩔 수 없군요.
 
-	好！
 	合点承知。
 	All right!
 	알겠습니다.
 
-	你们背离了社会的准则！
 	世の規則に背く悪党め！
 	You have turned your backs on society!
 	세상의 규칙을 어기는 악당 녀석!
 
-	不许欺负弱小！
 	弱いものいじめは許さん！
 	Pick on someone your own size!
 	약자를 괴롭히는 건 용서 못 해!
 
-	就让你们见识一下，双刀八斩法！
 	見せてあげよう、双刀八斬法の真髄を！
 	Behold, the power of the Song Do Bart Cham style!
 	보여주마, 쌍도팔참법의 진수를!
 
-	心思所指，拳意所至！
 	思念の力が拳に宿る！
 	The mind directs, the fist executes!
 	사념의 힘이 주먹에 깃든다!
 
-	念头不正，终生不正。现在悔改，为时未晚。
 	歪んだ基礎の上に城は築けない。改心するのは、今からでも遅くない。
 	Foul intentions lead a foul life. Repent now. There is still time.
 	비뚤어진 반석 위에 성은 쌓을 수 없는 법. 개심하려면 지금이라도 늦지 않았다.
 
-	精诚所至，金石为开。
 	思う念力、岩をも通す。
 	A strong will conquers all.
 	정성이 지극하면 바위도 뚫는 법.
 
-	我还得继续磨练自己。现在这样，绝对不够。
 	鍛錬が足りませんね。もっと腕を磨かないと。
 	That was not enough. I need to train more. 
 	단련이 부족하네요. 더 실력을 닦아야겠어요.
 
-	父亲......我还不够强。
 	父さん……私、まだ力が足りないですね。
 	Father... I'm still... not strong enough.
 	아버지…… 저는, 아직 힘이 부족한가 봐요.
 
-	至少比某个又旧又乱的侦探事务所要好上许多。
 	どこかの古くて汚い探偵事務所より、こちらの方が十倍マシですよ。
 	At least it's better than some old, messy detective agency.
 	어딘가의 낡고 더러운 탐정 사무소보다 이쪽이 열 배는 나아요.
 
-	想偷袭？！......博士，请不要悄悄接近我。来，我送你去医疗部门。
 	不意打ち！？……ドクターですか。音もたてずに私に近づかないでください。さぁ、医務室へ行きましょう。
 	An ambush...?! Doctor, don't sneak up on me like that. You'll end up in Medical.
 	기습?!…… 박사님이셨네요. 소리도 없이 저한테 다가오지 마세요. 자, 의무실로 가요.
 
-	想去散步？走，我陪你。有我在，你会很安全。
 	散歩ですか？わかりました、一緒に行きますよ。私がいれば、ドクターは安全ですから。
 	You want to go for a walk? I'll go with you. You'll be safe with me.
 	산책인가요? 알겠습니다, 같이 갈게요. 제가 있으면 박사님은 안전하니까요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	要一起去喝茶吗，博士？
 	お茶でもしませんか、ドクター。
 	Care for some tea, Doctor?
 	차라도 드시겠어요? 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】槐琥
+	【性别】女
+	【格斗经验】十四年
+	【出身地】炎
+	【生日】12月1日
+	【种族】菲林
+	【身高】162cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ワイフー
+	【性別】女
+	【格闘経験】十四年
+	【出身地】炎国
+	【誕生日】12月1日
+	【種族】フェリーン
+	【身長】162cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Waai Fu 
+	[Gender] Female 
+	[Combat Experience] 14 years 
+	[Place of Birth] Yen 
+	[Date of Birth] Dec. 1 
+	[Race] Feline 
+	[Height] 162cm 
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 와이후
+	[성별] 여
+	[전투경험] 14년
+	[출신지] 염
+	[생일] 12월 1일
+	[종족] 필라인
+	[신장] 162cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】优良
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Excellent
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	槐琥，龙门在校大学生，龙门-罗德岛秘密商业交流协议中第一批次录用人员之一。由龙门某事务所推荐，在各项测试中得到了与身份不符的成绩，且具备一定的实战经验。多项调查正在跟进中。
+
+	個人履歴 :
+	龍門の現役大学生。龍門―ロドス秘密ビジネス交流協定で選抜された最初の雇用者の一人。龍門のとある事務所から推薦された彼女は様々なテストにおいて著しい成績を取得しており、ある程度の実戦経験も有する。詳細は現在調査中。
+
+	Profile :
+	Waai Fu is a university student from Lungmen, serving Rhodes Island from the first batch of employees hired under a secret Lungmen-Rhodes Island commercial agreement. On the recommendation of a certain firm, she took a battery of tests that showed scores wildly inconsistent with her stated identity. She clearly has substantial combat experience. Several investigations are ongoing.
+
+	프로필 :
+	    용문에 재학 중인 대학생. 용문과 로도스 아일랜드의 비밀 상업 교류 협의에 따라 첫 번째로 고용된 인원 중 한 명이다. 용문 소재의 한 사무소의 추천으로 실시한 다양한 테스트에서 학생답지 않은 뛰어난 성적을 획득하였으며, 어느 정도의 실전 경험도 갖추고 있다. 현재 여러 항목에 걸친 조사가 진행 중이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员槐琥没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.13u/L
+	干员槐琥很少接触源石制品，有着相较一般市民更健康的体质。当然体质和矿石病易感性是没什么联系的......
+	
+	哎，这位小姐好歹也是能在两栋楼之间跳来跳去，一拳打坏墙壁的人啊，身体好一些也很正常吧？
+	——恰巧路过的阿先生
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.13u/L
+	源石製品との接触は極めて少なく、一般市民より健康な体質をしている。無論、体質と鉱石病の感染しやすさとの関係性はほぼゼロだが……
+	
+	つかさー、この嬢ちゃん、仮にもビルの間を飛び回ったり、拳一発で壁を壊したりできる人間だから、身体が丈夫なのは当然だろ。
+	――通りすがりのアさん
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Waai Fu shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.13u/L
+	Operator Waai Fu rarely interacts with Originium or its byproducts, and has a healthier physique than the average citizen. Although there is no relationship between one's physique and susceptibility to Oripathy... 
+	Hey, this young lady can jump between buildings and punch through a wall with her bare fists. Makes sense she's in good shape, eh? 
+	——Mr. Aak, who happened to pass by
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 와이후는 광석병 감염 증세가 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.13u/L
+	오퍼레이터 와이후는 오리지늄 관련 제품과 접촉한 횟수가 극히 적은 것으로 보이며, 일반인에 비해 상대적으로 건강한 체질을 갖고 있음. 물론 체질과 광석병의 감염 확률 사이에는 아무런 상관관계가 없음…… 
+	
+	나참, 어쨌든 이 아가씨도 건물 사이를 뛰어다니며 한 주먹에 벽을 부수는 사람이라고. 건강한 건 당연하잖아?
+	——우연히 지나가던 A씨
+
+———————————————————————————————
+
+	档案资料一 :
+	在槐琥把推荐书递交给人事部时，多数负责审核的干员都没抱太大希望。毕竟，太多推荐受试者的身上都散发出热衷冒险的危险气息——之后他们会被实战测试和心理测试打击到痛哭流涕。
+	随后，槐琥以相当平稳的姿态通过了心理测试，那时尚有不少干员觉得这不过是一时侥幸；直到负责实战测试的两位干员被槐琥迅速击倒，干员们才开始关注槐琥所具备的出色潜质。
+	当然，这只是干员录用审核流程的开端罢了。
+
+	第一資料 :
+	ワイフーが人事部門に推薦状を提出したとき、審査を担当する大半のオペレーターは期待していなかった。これまで多くの推薦被験者は興奮と慢心に満ちていたが、そのうち実戦テストと心理テストに打ちのめされるのがオチだ。
+	その後ワイフーが冷静な態度で心理テストに合格しても、マグレだと思うオペレーターが数多くいたが、さらに彼女が二名もの実戦テスト担当のオペレーターを容易く倒した後、皆ようやく彼女に秘めている素質に気づき始めた。
+	無論、これは採用審査プロセスの始まりに過ぎない。
+
+	Archive File 1 :
+	When Waai Fu presented her recommendation to Human Resources, most of the reviewing operators had low expectations. Considering how often they see strong-looking, adventurous types show up with an air of danger, only to emerge bruised, battered, and reduced to tears by tests both physical and psychological. 
+	But Waai Fu came through the psychological tests with a stable disposition. Some operators assumed this was just a fluke, until she swiftly put two operators on the floor in her combat tests, drawing attention to her potential. 
+	Of course, these tests are only the beginning of the onboarding process.
+
+	파일 자료 1 :
+	    와이후가 인사부에 추천서를 제출했을 때, 많은 심사관들은 그녀에 대해 별다른 기대를 갖지 않았다. 너무나도 많은 추천 대상자들이 탐탁지 않은 기세를 보이고 있었고, 이후 이들은 실전 테스트 및 심리 테스트를 거친 후 통곡의 눈물을 흘리게 될 것이 뻔했으니 말이다.
+	    얼마 후, 예상과는 달리 와이후는 상당히 평온한 상태로 심리 테스트를 통과하였으나, 이때까지만 해도 이를 한 번의 요행으로 생각하는 이들이 적지 않았다. 다음 실전 테스트 때 와이후에 의해 두 명의 오퍼레이터들이 순식간에 제압당하고 나서야, 심사관들은 비로소 그녀가 지닌 특출난 재능에 주목하기 시작했다.
+	    물론, 이는 오퍼레이터 채용 심사 과정의 시작일 뿐이지만.
+
+———————————————————————————————
+
+	档案资料二 :
+	对感染者表现出恐惧感是人之常情。不如说，普通人若能迅速融进感染者的群体，不是他们的成长环境有异，就是他们的背后尚有我们未曾了解的秘密。
+	或者说，感染者已经习惯为人所恐惧了，毕竟这片大地就是如此对待感染者的。
+	在第一次比较系统地了解罗德岛和感染者相关知识后，槐琥表现出了相当程度的困惑。
+	当身为感染者的杜宾教官向她礼节性地伸出手的时候，槐琥迟疑了片刻。
+	不过，这并不是罗德岛拒绝一位受试者的理由。相反，这是值得记录的正常反应，真实，自然，残酷。
+	
+	槐琥握住了杜宾教官的手。
+	她回答说，既然罗德岛已经将“一般接触不会造成矿石病传播”的实验结果告诉了她，接下来她要做的，只是适应。
+	“习惯不会完全左右一个人，偏见才会。”
+	干员槐琥严肃地回答了杜宾教官的问题。
+	杜宾教官鲜少展露表情，这次她没有吝惜笑容。
+
+	第二資料 :
+	感染者に恐怖を感じるのはごく自然なことだ。むしろ感染者の群れにすぐ溶け込める非感染者のほうが異常で、育ちの環境が独特なのか、知られていない秘密を抱えているのか、何かしらの理由がある。
+	一方、感染者は人に恐れられることには慣れている。これがこの大陸の現状であり、彼らが受けてきた扱いである。
+	ロドスと感染者に関する知識を初めて教わった後、ワイフーは困惑を示した。
+	感染者である教官ドーベルマンが礼儀として彼女へ手を差し伸べた時、彼女は一瞬の躊躇を見せた。
+	しかし、それはロドスが被験者を断る理由にならない。むしろ記録すべき一般的な反応である――リアルで、自然的で、残酷だ。
+	
+	ワイフーはドーベルマンの手を握った。
+	彼女の答えによれば、ロドスから「一般的な接触では鉱石病の感染を起こせない」という実験結果を告げられた以上、彼女のすべきことはただ一つ、慣れることだ。
+	「人の行動を左右するのは習慣ではなく、偏見です」
+	ワイフーは真面目にドーベルマンの質問に答えた。
+	ドーベルマンはめったに表情を見せないが、この時は笑顔を惜しまなかった。
+
+	Archive File 2 :
+	Fear of the Infected is an expected response. Suffice it to say that if an ordinary person finds it easy to enter a group of Infected, they had either a peculiar upbringing or some as yet unknown secrets. 
+	In other words, the Infected are used to instilling fear in the uninfected. Such is the result of a world that treats them so. 
+	After learning of Rhodes Island and our work with the Infected, Waai Fu exhibited a degree of confusion. 
+	She hesitated when Instructor Dobermann, who is Infected, reached out to her politely. 
+	However, not grounds for Rhodes Island to reject an applicant. On the contrary, it is a normal reaction worth recording: real, natural and cruel. 
+	
+	Waai Fu took Instructor Dobermann's hand. 
+	She said that upon learning of Rhodes Island's experiment that demonstrated how everyday exposure does not facilitate the spread of Oripathy, all that remained for her to do was adapt. 
+	'It is not habit that controls a person, but prejudice.' 
+	Operator Waai Fu answered Instructor Dobermann's question intensely. 
+	Instructor Dobermann rarely shows emotion, but this time she came out beaming.
+
+	파일 자료 2 :
+	    감염자에게 공포감을 표현하는 것은 자연스러운 현상이다. 오히려 보통 사람이 감염자 집단에 빠르게 녹아들 수 있다면, 그 사람의 성장 환경에 특이점이 있거나, 이들의 배후에 우리가 아직 인지하지 못한 어떤 비밀이 있다고 할 수 있을 것이다. 감염자는 사람들에게 공포의 대상으로 인식되는 것에 익숙하다. 어찌 됐든 이 땅이 감염자를 그리 대하고 있으니 말이다.
+	    로도스 아일랜드와 감염자에 관해 처음으로 체계적으로 학습한 후, 와이후는 상당히 당혹스러워하는 모습을 보였다. 감염자인 도베르만 교관이 예의상 손을 내밀었을 때 와이후는 순간 멈칫했었지만, 로도스 아일랜드는 이런 이유로 지원자를 집에 돌려보내진 않는다. 오히려 이는 진실되고, 자연스러우며, 잔혹한, 기록할 가치가 있는 정상적인 반응이라 할 수 있다.
+	
+	    와이후는 도베르만 교관의 손을 잡았다. 로도스 아일랜드는 이미 '일반적인 접촉으로는 광석병 전염을 일으킬 수 없다'는 실험 결과를 그녀에게 알려준 상태였고, 남은 것은 그녀가 적응하는 일뿐이었다.
+	    "습관이 한 사람을 좌지우지할 수는 없다고 생각해요. 오직 편견만이 그럴 수 있죠."
+	    오퍼레이터 와이후가 엄숙한 목소리로 도베르만 교관의 질문에 대답했다.
+	    표정을 잘 드러내지 않는 도베르만 교관이었지만, 이때만큼은 미소를 아끼지 않았다.
+
+———————————————————————————————
+
+	档案资料三 :
+	槐琥具备许多优点，包括优良的体质，古怪却不凡的作战技巧，可靠的学历认证（她还在读欸！你真的有认真看简历吗！），认真负责的工作态度，一定的实战经验，等等。
+	不少干员认为，虽然槐琥年纪尚轻却受到相当程度的尊敬，其原因莫过于她的确具备一个优秀罗德岛干员应有的态度：宽容。
+	这并不意味着槐琥是个老好人：如果要用一个词形容槐琥的性格，大多数干员一定会选“嫉恶如仇”。
+	槐琥会主动去探究事情的起因与发展。对于某些行为，譬如违纪行为，她会立刻上前制止；而对另外一些，包括部分干员无法遏制的心理状况，她会尽力去防范它们可能带来的问题，而不是一并排斥。
+	“如果对错有那么好分，这片大地上就不会有悲剧了。”
+	当然，从博士办公室偷拿财物的行为绝对是有问题的，请别再给槐琥出手的机会了！在走道上逃跑很危险！不要给医疗干员增加毫无意义的负担！
+	
+	无疑，槐琥是罗德岛需要的那类干员。即使对于槐琥而言，罗德岛的工作只是一份“兼职”，她在任务和交流中的称职表现，依然足以用优秀来形容。
+	只是，在槐琥谈及自身时——除了被称作“武艺”的战斗技巧、推荐她来到罗德岛的又黑又乱的侦探事务所、以及所谓“平凡的日常生活”之外，槐琥只会在相当正式的场合里透露她个人的从业目标——
+	“我想做一个有能力去帮助别人的人。”
+	可能......过于宽泛了些。
+
+	第三資料 :
+	ワイフーの長所はかなり多い：優れた体格、奇妙で並外れた戦闘スキル、信頼できる学歴（まだ在籍中です！ちゃんと履歴書読んでますか！）、真面目な勤務態度、ある程度の実戦経験、などなど。
+	多くのオペレーターから見て、ワイフーは若さのわりにかなり尊敬されているのは、彼女には優秀なオペレーターが持つべき素質があるからである。それは、寛大な心だ。
+	しかし、彼女は決して単純なお人好しではない。敢えて一言で彼女の性格を形容するなら、「正義感溢れる」と言うべきだろう。
+	ワイフーは、問題が起きる原因とその進展を積極的に追及する。ルール違反などの行為に対し、彼女は真っ先に止めようとする。一方、一部のオペレーターの抑えられない心理的問題を含む他の行為に対し、それを排除するのではなく、起こりうる問題の防止に着目する。
+	「善悪を簡単に分けることができたら、悲劇はとっくになくなっていますよ。」
+	無論、ドクターの執務室から勝手に財物を持ち去るのは不当行為だ。これ以上ワイフーに手を出す機会を与えないでください！廊下で走るのは危険です！医療スタッフに余計な負担をかけないでください！
+	
+	言うまでもなく、ロドスにワイフーのようなオペレーターは必要だ。彼女にとってロドスでの仕事はただのアルバイトだとしても、その任務や交流での活躍ぶりは彼女の優秀さを充分に証明している。
+	ただ、自分自身のことについて語る時、「武道」として知られる戦闘スキル、彼女を推薦した暗くて乱雑な探偵事務所といわゆる「平凡な日常」以外、彼女はごく正式的な場面でしか自分のキャリアー目標を開示しないようだ。
+	「私は、人の力になれるような人間になりたいんです。」
+	かなり……広範かもしれない。
+
+	Archive File 3 :
+	Waai Fu has much going for her, from her impressive physique to her extraordinary, if quirky, combat techniques, all the way to her academic qualifications (She's still in school! Did you even read her resume?!), commendable work ethic, practical experience, and so much more. 
+	While she is quite young, Waai Fu commands the respect of many operators because she possesses that most important virtue in any good Rhodes Islander: tolerance 
+	This is not to say she is always walking on eggshells. If asked to describe Waai Fu in brief, most operators would probably describe her as a punisher of wrongdoing. 
+	Waai Fu is known to actively investigate the causes and effects of certain incidents. In some situations, such as disciplinary violations, she steps in to stop them at once. In others, such as outbursts of psychological issues some operators struggle with, she will focus on harm reduction. 
+	'If right and wrong were so easy to tell apart, nothing would ever go wrong.' 
+	Of course it's wrong to steal property from the Doctor's office. Please don't provoke Waai Fu again! Running in the corridors is dangerous! The medic operators are already overworked as it is! 
+	
+	Waai Fu unquestionably fills a role Rhodes Island needs. Even though she considers her work here to be only 'part-time,' her effective performance and competent communication can be described as nothing short of excellent. 
+	When asked about herself, it is difficult to get Waai Fu to speak about anything other than her martial arts and the dark and messy detective office that recommended her to Rhodes Island, as well as her 'ordinary daily life.' She will disclose her personal career goals only on rare, formal occasions—— 
+	'I want to be the kind of person who can help people.' 
+	Perhaps... a bit too broad.
+
+	파일 자료 3 :
+	    우수한 신체조건, 독특하면서도 비범한 작전 기술, 신뢰할 수 있는 학위(그녀는 아직 재학생이라고! 이력서 제대로 본 거 맞아!?), 성실한 업무 태도와 어느 정도의 실전 경험 등, 와이후는 여러 가지 장점을 갖고 있다.
+	    적지 않은 오퍼레이터들은 젊은 나이의 와이후가 타인으로부터 존중받을 수 있는 이유는 그녀가 로도스 아일랜드의 우수한 오퍼레이터로서 갖춰야 할 덕목인 ‘관용의 덕목’을 갖췄기 때문이라고 생각한다. 물론 와이후가 원칙 없이 뭐든 다 받아들여 주는 사람이란 말은 아니다. 와이후는 ‘악인 또는 악행을 원수와 같이 증오한다’는 사실을 많은 사람들이 잘 알고 있다.
+	    와이후는 옳지 않은 사건의 원인과 경과에 대해 자발적으로 조사를 진행하고, 어떤 행위에 대해, 예를 들자면 규율을 어기는 행위 따위에 대해선 즉각 나서서 제지한다. 일부 오퍼레이터들이 감정을 억제할 수 없는 상황과 같은 심리적 문제들에 대해서는 이를 배척하기보단 이들로부터 파생될 수 있는 문제들에 대한 대비책을 세우기 위해 최선을 다한다.
+	    "옳고 그름을 그렇게 쉽게 구분할 수 있다면, 이 대지에 더 이상의 비극은 일어나지 않겠죠."
+	    물론 박사님의 사무실에서 물건을 슬쩍하는 행위는 분명 잘못된 것이니, 부디 다시 와이후가 손을 써야 할 일이 일어나지 않기를 바랍니다! 게다가 복도에서 도주하는 행위는 위험하다고요! 의료부에 무의미한 추가 업무를 주지 않도록 해주세요!
+	
+	    의심할 여지없이, 와이후는 로도스 아일랜드가 필요로 하는 유형의 오퍼레이터다. 비록 와이후에게 있어 로도스 아일랜드의 일은 ‘겸업’에 불과하나, 그녀가 임무 수행 및 교류 중에 보여주는 성과에 대해서는 우수하다는 평가를 할 수밖에 없다.
+	    와이후가 자신에 관해 이야기할 때면, ‘무예’라 불리는 전투 기술과 자신을 로도스 아일랜드에 추천한 엉망진창에 수상한 탐정사무소, 그리고 이른바 ‘평범한 일상생활’을 제외하고, 와이후는 매우 공식적인 장소에서만 자신의 취업 목표를 드러냈다.
+	    "저는 다른 사람을 도울 수 있는 능력을 지닌 사람이 되고 싶어요."
+	    범위가 좀…… 지나치게 넓은 것 같긴 한데……
+
+———————————————————————————————
+
+	档案资料四 :
+	人都到齐了吧？
+	首先要表彰一下各位，人事部这个月的工作，我们完成得不错！一会儿去聚餐吧？和以前一样，钱我出！
+	然后呢，我有些事情要和各位讨论，嗯，和龙门和罗德岛间的交流协议有关的。
+	虽然罗德岛有很多预防和处理的方式，但干员审核的第一道关卡，永远是人事部。大家的工作是重中之重！
+	即使最熟习罗德岛规章的各位，偶尔也会对一些说辞产生疑惑吧？我知道有这么一条，啊，原本的很长，大致意思是——
+	“......如果一位干员表现得不符合罗德岛的需求，那么无论他的动机和行为是多么的高尚，我们也不能录用；相反，哪怕是出身和简历都存在一定可议性的干员，只要符合需求并严守制度，就依然是可用之材......”
+	大概是这样！原文很机械也很长，还有逐词解析，我就不复述啦。
+	是不是有人要问“为什么”呢？我来说个很简单的例子吧。
+	
+	有一位所有人都称赞的了不起的人，怀抱着了不起的理想，为了实现理想毁掉了许多城市、牺牲了许多同僚，最后成功了。
+	那么，无论这样的人有着多伟大的理想，罗德岛都不会录用的。罗德岛对于这样的人来说，也只是一级台阶而已。
+	而另外一个出身也有些问题，做事在世俗看来也简直不可理喻的人，现在向罗德岛递交了简历——
+	坐下坐下！我知道有些人是想说“现在罗德岛有很多这样的人”吧！是有一些！
+	各位请想想，在各个城市中，有多少事情的发生，是我们自己能够决定的呢？
+	当一个干员主观上策划了伤害罗德岛理念的行动，就会立刻遭到驱逐；当一个干员故意违反罗德岛的规章制度，可能会在造成实质危害之前就被剪除。
+	即使！即使规章如此，事实上，罗德岛从没出现过这样的人、这样的事。啊，私接电线不算，这个你去怪可露希尔好了！
+	能决定一位干员是否有资质的，并不是他的行为记录，而是他本人的意愿。
+	罗德岛既有考察干员的能力，又有维持规章制度的能力。在罗德岛，有些干员终于能去做他们真正愿意做的事情了。
+	只要罗德岛和他们还有着联系，那么，罗德岛就会尊重他们合理的选择，绝不会逼他们做出违心的事。
+	有些时候，只是因为无从选择，才会有那样的过去。
+	希望大家明白这一点，这和理解感染者的境遇，以及罗德岛的信条是一样的。
+	
+	对于所有候选人才，对他们来说，最重要的是在罗德岛中找到自己的位置，以及认可罗德岛。
+	我们一定要在交流协议中坚持这点，明白了吧？
+	啊，当然，刚刚录取的那位槐琥小姐是完全没问题的。
+	“——在一个人不断反思验证自己理想的时候，我们愿意做他的锻炉。这片大地上的坎坷，不分你的或是我的......我们会和干员一起迈过。”
+	希望大家喜欢特蕾西娅小姐的这句话。
+	
+	——■■■的午间会议记录
+
+	第四資料 :
+	皆さん揃っていますか？
+	まず、皆さんには感謝を申し上げます。人事部今月の仕事、よくできました！この後はみんなで食事行きましょう？もちろん今日も私の奢りで！
+	それと、色々と皆さんとお話したいことがあります。ええ、龍門―ロドス間のビジネス交流協定についてです。
+	ロドスには不測事態への予防と処理の対策は色々ありますが、オペレーター審査プロセスにつきましては、人事の皆さんは一番目の関門です。とても重要な役割です！
+	誰よりもロドスの制度に詳しい皆さんでも、たまにはその解釈に戸惑いを感じるではないでしょうか。例えば…あ、これ原文だと結構長いので、まとめて言うと――
+	「……ロドスの需要を満たしていない場合、その人の動機と行為がどんなに高尚であっても、我々は採用できない。逆に、出身と経歴に議論の余地があるとしても、需要を満たし、ルールもきちんと守れる人なら、有用な人材と見なす……」
+	まぁ大体こんな感じです！元の文章は機械的で長いですし、一語一句に解説すら付いていますから、ここは省かせてもらいますね。
+	「何故そのような制度が」と聞きたい方がいらっしゃると思いますが、簡単な例を挙げましょう。
+	
+	誰もが賞賛し、偉大な理想を抱く人がいるとします。その理想を実現するために多くの都市を破壊し、多くの同僚を犠牲にして、最終的に成功しました。
+	この場合、どれほど素晴らしい理想であれ、ロドスはその人を採用しません。そんな人にとって、ロドスはただの踏み台でしかないですから。
+	ところがもう一人、出身に問題があり、並外れた行動をする人がいます。ロドスに履歴書を提出しに来ました――
+	いいから座って！「ロドスはそんな奴ばかりでしょ」って言いたいのはわかります！確かにそうですが！
+	考えてみてください。あちこちの街で起きていること、その何割が我々の意思で決められるものでしょう？
+	ロドスの理念に傷つく行動を自発的に画策した人がいれば、その人は直ちに駆逐されます。意図的にロドスの規則を破った人がいれば、実害が出る前に消されるのかもしれません。
+	規則上そうなっていますが、実際、ロドスにそのような人は現れていませんし、そのようなこともありませんでした。あ、電気の配線を勝手に増やしたのは違いますよ。あれはクロージャさんが悪いですから。
+	人にオペレーターの資質があるかどうかを決定するのはその人の行動記録ではなく、本人の意志です。
+	ロドスではオペレーターの審査と規則の維持、その両方が可能です。一部のオペレーターにとって、ロドスに来てから、ようやく本当にやりたいことができるようになりました。
+	ロドスと繋がりがある限り、彼らの合理的な選択は尊重されます。本人たちの意に反することは、決して無理強いはしません。
+	時に、選択の余地がないからこそ、あんな過去が生まれるんです。
+	皆さんに理解してもらいたい。これは感染者の境遇やロドスの信条を理解することと同じです。
+	
+	すべての候補者にとって最も重要なのは、ロドスで自分たちの居場所を見つけること、そしてロドスを認めることです。
+	交流協定では必ずこの点を主張しなければなりません。もうお分かりですね？
+	ああ、もちろん、先ほど採用したワイフーさんは全く問題ありません。
+	「――自身の理想を追い求め、証明し続ける者がいれば、我々はその者の鍛冶炉になろう。この大地で生まれた苦難は、誰ひとりのものではない……彼らと共に、全てを乗り越えるのだ。」
+	テレジアさんのこの言葉、気に入っていただけたら幸いです。
+	
+	――■■■の昼会議議事録より
+
+	Archive File 4 :
+	Is everyone here? 
+	First off, let me congratulate all of us here in Human Resources on a job well done. This past month has been stellar, and I think we've all earned a nice meal. On me, as always! 
+	Now then, I have something to discuss, pertaining to the exchange agreement between Lungmen and Rhodes Island. The first round of applicant review falls on us. We do very important work here! 
+	Even those of you most familiar with Rhodes Island's regulations will sometimes get confused by some wording or something, right? I know there's one line, hm, it's pretty long in the original, but paraphrased—— 
+	'Should an operator fail to meet the needs of Rhodes Island, regardless of motivation or action, they are ineligible for onboarding. Conversely, should an operator appear with an origin or background subject to some scrutiny, as long as they meet our needs and strictly abide by our rules, they remain eligible...' 
+	Something like that! The original text is very dry and very long, so I won't go over it all right now. 
+	Does anyone feel the need to ask 'why?' Let me provide a simple example. 
+	
+	Say there is some remarkable individual who comes highly recommended, with a remarkable set of personal ideals. In order to see their ideals realized, they sacrificed many people, destroyed entire cities, and ultimately succeeded. 
+	No matter how great this individual or their ideals, Rhodes Island cannot accept them. We would be nothing but a platform for such a person. 
+	Then we have another individual, who has their share of problems. The things they do and the ways they do them may seem a bit unreasonable to us. This person submits a resume to Rhodes Island.—— 
+	Sit down! I know you're all eager to say 'we already have a lot of operators like that!' And there are indeed some! 
+	Think for a minute how many things happen each and every day in the many cities of the world. Can we settle them all ourselves? 
+	When an operator subjectively plans an action that would harm Rhodes Island's ideas, that operator is immediately expelled. When an operator intentionally violates Rhodes Island's rules and regulations, that operator may be eliminated before they can cause material harm. 
+	Even if! Even if the regulations are as they are, Rhodes Island has never once done such a thing, we have never seen such an action. Oh, not counting private wire connections. You can blame Closure for those! 
+	The adjudication of whether or not an operator is eligible is dependent on his will, not his rap sheet. 
+	Rhodes Island has the ability to observe and study its operators while also maintaining its rules and regulations. At Rhodes Island, some operators are at last able to achieve what they'd always hoped to do. 
+	As long as we maintain contact with them, we will respect their choices, within reason, and never force them to act against their own will. 
+	Sometimes, when there remains no other choice, such a thing may come to pass. 
+	I hope everyone understands this, just as they understand the Infected, and Rhodes Island's mission statement. 
+	
+	For all candidates, the most important thing is to find them their place at Rhodes Island, and to acknowledge Rhodes Island. 
+	We must adhere to this in processing the applicants under this exchange agreement. Understood? 
+	Ah, of course, the Waai Fu girl we just approved is perfectly fine. 
+	'——When one is committed to constant reflection and tempering of his ideals, we are willing to serve as his forge. The bumps in this road, whether mine or yours... We will cross them together with our operators.' 
+	I hope you all appreciate this quote from Theresa. 
+	
+	 ——Record of ■■■'s lunch meeting.
+
+	파일 자료 4 :
+	    다들 모였나요? 우선 여러분의 업무 성과에 대해 표창부터 해야겠네요. 모두들 이번 달 임무를 정말 훌륭히 잘 해내셨습니다! 이따 회식하러 갈까요? 예전처럼 제가 쏘겠습니다!
+	    그리고 여러분과 논의해야 할 일이 있습니다. 음, 용문과 로도스 아일랜드의 교류 협의에 관한 내용이에요. 로도스 아일랜드에 다양한 예방 및 처리 방식이 있다지만, 오퍼레이터 심사의 첫 번째 관문은 언제까지나 인사부입니다. 여러분의 역할이 정말 중요하단 말이죠! 비록 로도스 아일랜드의 규정을 잘 알고 있는 여러분이지만, 때로는 몇몇 규정에 대해 의문을 가질 수도 있겠죠? 제가 그런 규칙을 하나 알고 있는데, 원문은 굉장히 기니까, 대략적인 의미는…… 
+	    "…만약 어느 오퍼레이터의 행동이 로도스 아일랜드의 조건에 부합하지 않는다면, 그의 동기와 행위가 아무리 고귀할지라도 로도스 아일랜드는 채용할 수 없다. 반대로, 출신과 이력에 분명 문제가 있는 오퍼레이터일지라도 로도스 아일랜드의 요구에 맞게 행동하며, 규칙을 엄수한다면 채용할 수 있다…"
+	    대충 이런 내용이에요! 원문은 굉장히 딱딱하고, 관련 추가 해설도 딸려있으니 다시 말하진 않을게요.
+	    분명 왜 그런지 궁금해하시는 분이 있겠죠? 제가 간단한 예를 하나 들어볼게요. 누구에게나 칭찬받는 대단한 사람이 있다고 해보죠. 그는 대단한 이상을 품고 있고, 그 이상을 실현하기 위해 많은 도시를 파괴하고, 많은 동료를 희생시켰으나, 결국에는 목적을 달성했다고 칠게요. 그럼 아무리 위대한 이상을 품고 있는 사람일지라도, 로도스 아일랜드는 이런 사람은 채용하지 않을 거예요. 이런 사람에게 있어서는 로도스 아일랜드도 그저 디딤돌일 뿐이니까요.
+	    그리고 출신에도 문제가 있고, 일반적인 평균에도 못 미치는 사람이 지금 로도스 아일랜드에 이력서를 냈다고 가정하죠. 다들 앉으세요! "지금 로도스 아일랜드에도 그런 사람이 많이 있다"고 말하고 싶어 하는 사람이 있다는 거, 저도 압니다! 몇몇 사람이 있긴 하죠! 하지만 여러분, 생각해보세요. 각 도시에서 발생하는 사건들 중 우리 재량껏 결정할 수 있는 일들이 얼마나 있나요? 만약 어떤 오퍼레이터가 자기 재량으로 로도스 아일랜드의 이념을 해치는 행동을 한다면, 그 사람은 즉시 추방당할 거예요. 또 그 사람이 고의로 로도스 아일랜드의 규칙을 위반한다면, 실질적인 피해가 발생하기 전에 먼저 해고할 수도 있겠죠.
+	    비록! 규정이 그렇다곤 하지만, 실제로 로도스 아일랜드에 그런 사람이 있었거나 그런 일이 발생한 적은 없어요. 아, 사설 연락망을 구축하는 사안은 포함하지 않았어요, 그건 클로저에게 따지면 돼요!
+	    오퍼레이터가 될 자질을 갖추었는지를 결정하는 요소는, 그의 행적이 아니라 그 사람 본인의 의사예요. 로도스 아일랜드는 오퍼레이터를 조사할 수 있는 능력과 규칙을 유지할 수 있는 능력을 갖고 있어요. 몇몇 오퍼레이터는 로도스 아일랜드에서 마침내 자신이 진정 원하는 일을 할 수 있게 되었고요. 로도스 아일랜드와 그들이 추구하는 바가 서로 연결되어 있다면, 로도스 아일랜드는 그들의 합리적인 선택을 존중할 거예요. 절대 그들이 싫어하는 일을 강요하지 않을 거에요.
+	    그 사람들이 때로는 다른 선택의 여지가 없어서, 과거에 그릇된 결정을 내렸을 수도 있어요. 하지만 이는 감염자의 처지와 로도스 아일랜드의 신조를 이해하는 것과 같은 것임을 여러분이 알아줬으면 해요.
+	
+	    모든 후보자에게 있어서 가장 중요한 것은, 로도스 아일랜드에서 자신의 위치를 찾고 로도스 아일랜드를 받아들이는 겁니다. 오퍼레이터와 협의를 할 땐, 우린 이러한 입장을 반드시 고수해야 합니다, 아시겠죠? 아, 물론 아까 채용된 와이후는 전혀 문제없었지만요.
+	    "……누군가 끊임없이 자신의 이상을 담금질할 때, 우리는 그의 이상을 단련시킬 수 있는 화로가 되고 싶다. 이 세상의 굴곡이 당신의 것이든 나의 것이든 상관없이… 우리는 당신들, 오퍼레이터와 함께 그 굴곡을 넘어설 것이다."
+	    테레시아가 했던 이 말이 마음에 드셨으면 좋겠어요.
+	
+	——■■■ 정오 회의 기록
+
+———————————————————————————————
+
+	晋升记录 :
+	“阿爸，你去哪？”
+	“去找一样东西。”
+	“阿爸......别走！我不想看不到阿爸你！”
+	“想找我？你就追上我！”
+	“可我，我要怎么......”
+	“如果你不能，你就不是我的女儿。你必须能！”
+	
+	太自私了，父亲。
+	但我确实能。
+	而且，我还会做得比你更好，练得比你更强。
+
+	昇進記録 :
+	「父さん、どこに行くの？」
+	「あるものを探しに。」
+	「父さん……行かないで！私を置いてかないで！」
+	「なら、父さんに追いつくんだな。」
+	「でも、どうやって……」
+	「それができないなら、お前を娘だと認めない。やってみせろ！」
+	
+	自分勝手にも程があるよ、父さん。
+	でもやってみせる。
+	あなたよりもっとできるようになる。もっと強くなってみせる。
+
+	Promotion Record :
+	'Dad, where are you going?' 
+	'I have to find something.' 
+	'Dad... don't go! I don't want to lose you, Dad!' 
+	'Want to see me? Then catch me!' 
+	'But I... How can I...?' 
+	'If you can't, then you're not my daughter. You must be strong!' 
+	
+	Too selfish, father. 
+	But I can. 
+	In fact, I'll do it better than you ever could. I train harder than you. I'll be stronger than you.
+
+	승진 기록 :
+	    "아버지, 어디 가세요?"
+	    "물건을 찾으러 간단다."
+	    "아버지…… 가지 마세요! 아버질 못 보게 되는 건 싫어요!"
+	    "날 찾고 싶다고? 그럼 날 쫓아오려무나!"
+	    "하지만 제가 어떻게…"
+	    "할 수 없다면 너는 내 딸이 아니다. 반드시 해야만 해!"
+	
+	    너무 이기적이잖아요, 아버지. 하지만 저는 분명 해낼 수 있어요. 오히려 아버지보다 더 잘할 수 있게, 아버지보다 강해지도록 더욱 단련할 거예요.

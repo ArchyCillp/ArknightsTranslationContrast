@@ -1,11 +1,17 @@
 ID:
 	char_215_mantic
 
-干员代号\Name:
+CV:
 	狮蝎
 	マンティコア
 	Manticore
 	맨티코어
+
+干员代号\Name:
+	诹访彩花
+	諏訪彩花
+	Ayaka Suwa
+	스와 아야카
 
 招聘合同\Character Usage:
 	罗德岛特种干员狮蝎，将在战场上挥舞蝎尾无声地狩猎敌人。
@@ -48,177 +54,384 @@ ID:
 	스콜피온 테일
 
 语音\Voices:
-	那个......我两个小时前，就已经......待在这里了......
 	あの……わたし……二時間前から、ここにいたけど……。
 	Umm... I've been here... for two hours now...
 	저기…… 나…… 두 시간 전부터 여기 있었는데…… 
 
-	对不起，我确实很没有存在感......但这个，并不是我能力的原因呀......
 	ごめんなさい、わたし、存在感がない……でもこれ、能力じゃない……。
 	Sorry... it doesn't really feel like I'm here... But that's not because of my power...
 	미안해, 나, 존재감이 없어서…… 근데 이거 능력은 아니고…… 
 
-	我的能力，实际上是......进入的特定环境后，让别人，意识不到我的存在......
 	わたしの能力……特定の環境下で、相手に気づかれないようにすること……。
 	My power is to... become undetectable to people... in certain environments...
 	내 능력은… 특정 환경에서 상대에게 들키지 않는 거…… 
 
-	我......一直交不到朋友。一个没法被注意到的朋友，谁会想要呢......
 	わたし……ずっと友達いない……うん……存在に、気づくこともできない、友達なんて……いらないよね……。
 	I've never had any friends... I mean, who wants a friend that they can't even see...
 	나…… 줄곧 친구가 없었어… 응… 내가 있는지도 눈치 못 채는 친구 같은 거… 필요 없겠지… 
 
-	尾巴......不战斗的时候，会卷起来......所以，请别那么害怕......
 	尻尾……普段は、しまっておくから……怖がらないで……。
 	My tail... will curl up when out of battle... So don't be afraid...
 	꼬리…… 평소에는 넣어둘 테니까…… 무서워하지 말아줘…… 
 
-	博士，让我去做，那些危险的任务吧。毕竟，我的能力......非常合适......
 	ドクター、危ない任務、わたしにやらせて。わたしの能力、向いてるから……。
 	Doctor... leave the dangerous work to me... After all... my power was made for that...
 	박사, 위험한 임무는 나한테 맡겨줘. 내 능력, 그거에 맞으니까…… 
 
-	放在胸前的，这些身份牌，是我捡到的。把人们存在过的痕迹，收集起来，我很喜欢......
 	胸につけてる、このIDタグは、拾ったもの……。人が存在していた証、集めるの、好き……。
 	I collected these... ID tags I have around my neck... Holding onto such proof of other people's existence... is something... I enjoy...
 	가슴에 달고 있는 이 ID 태그는, 주운 거야… 사람이 존재하고 있었다는 증거, 모으는 거 좋아해… 
 
-	那个叫“夜魔”的人，请别让她，靠近我......！那个，她，很危险......我的能力，对她不管用，为什么......
 	ナイトメアという人、わたしに近づけないで！あれは、危険……。わたしの能力も、効かない。どうして……。
 	Don't let that girl named 'Nightmare' near me... She's... dangerous... My power... doesn't work on her... Why...
 	나이트메어라는 사람, 나한테 못 다가오게 해줘! 그 사람은, 위험해… 내 능력이 통하지 않아. 어째서…… 
 
-	我......其实，想要把病治好的。但是，如果，真的治好了，是不是，会失去现在的能力......那样的我，还有价值吗......？
 	わたし……本当は……病気治したい……。でも、治ったら、能力なくなる……。それでもわたし、価値、ある……？
 	I... I really want to cure my illness. However, I'm afraid... to lose my power... if I am cured... Will I still be of use then...?
 	나… 사실은… 병을 고치고 싶어…… 그치만, 고쳐지면, 능력이 사라져…… 그래도 나, 가치 있을까……?
 
-	......被博士丢在一边不管了......这种感觉，我，好讨厌......
 	……放っておかれた……この感じ、嫌……。
 	I hate the loneliness... of being ignored...
 	…… 날 내버려뒀어…… 이 느낌, 싫어…… 
 
-	我是狮蝎，能力是，悄无声息地夺走别人的生命......请别害怕，这次的目标，不是你......
 	マンティコア、能力は、こっそり殺す……。怖がらないで、あなたは、ターゲットじゃ、ない……。
 	I'm Manticore... My power is to kill people silently... Don't be afraid, you're not... my target...
 	맨티코어, 능력은, 몰래 죽이는 거…… 무서워하지 마, 당신은, 타겟이, 아니야…… 
 
-	嗯，谢谢。还有，请多关照......
 	うん、ありがと。まだまだ、よろしく……。
 	Thank you... And please, keep me company...
 	응, 고마워. 앞으로도, 잘 부탁해…… 
 
-	晋升，我，我终于等到了......我一直以为......是因为我的表现，不够好，所以您一直没有提拔我......
 	任命されるの、待ってた。わたしの力、足りないと、ずっと思ってた……。
 	I've waited for this promotion... I always thought... that my power wasn't good enough...
 	임명되는 거, 기다렸어. 내 힘, 부족하다고, 계속 생각하고 있었어…… 
 
-	我帮上您的忙了，对吧......？没有去处的我，这里，这个罗德岛......就是我的家。今后也请和我，一起守护这里......！
 	わたし、役に立った、よね……？わたし、帰るとこ、ないから……ここ、ロドスがお家……これからも、この場所を、守らせて……！
 	I'm... helpful to you... right? I don't have anywhere else to go... My home is here... at Rhodes Island... Please... let me protect it with you...
 	나, 도움 됐지……? 나, 돌아갈 곳, 없으니까…… 여기, 로도스 아일랜드가 내 집…… 앞으로도, 이 장소를, 지키게 해줘……!
 
-	我知道了。
 	わかった。
 	Got it.
 	알았어.
 
-	我这样的队长，会被大家讨厌的......
 	こんな隊長、嫌われる……。
 	Nobody will like me... as their captain...
 	이런 대장, 싫어할 텐데…… 
 
-	别把我丢下......
 	見捨てないで……。
 	Don't leave me alone...
 	내버려두지 마…… 
 
-	请依据我的能力，指定战术吧......就算是比较阴暗的，也没关系......
 	能力を、生かした戦術で、お願い……。卑怯なやつでも、いい……。
 	Please use tactics that utilize my power... even if it's a cowardly one... I don't mind...
 	능력을, 살린 전술로, 부탁해…… 비겁한 거라도, 괜찮아…… 
 
-	准备好了......
 	じ、準備、できた。
 	I-I'm... ready...
 	주, 준비, 다 됐어.
 
-	我在这里......
 	わたし、ここ……。
 	I'm... here...
 	나, 여기야…… 
 
-	潜伏，开始......
 	潜伏、開始……。
 	Starting... ambush...
 	잠복, 개시…… 
 
-	伏击，准备......
 	待ち伏せ、準備、できた……。
 	Ready... to ambush...
 	기습, 준비, 됐어…… 
 
-	很痛苦吧......
 	苦しい、よね……。
 	It must... really hurt...
 	괴롭, 지……?
 
-	别过来......
 	来ないで……。
 	Stay away...!
 	오지 마…… 
 
-	我也，讨厌，这样做......
 	わたしも、こんなの、嫌だよ……。
 	I don't... like doing this... either...
 	나도, 이런 거, 싫어…… 
 
-	永别了......
 	さよなら……。
 	Farewell...
 	잘 가…… 
 
-	就算，是这样可怕的战场，您的判断力、集中力，一点都没有受到影响。博士，好帅气......
 	こんなに、怖い戦場でも、判断力、集中力、切れなかった。ドクター、かっこいい……。
 	Even on such a terrifying battlefield... you kept a clear head and made good decisions. You're awesome, Doctor...!
 	이렇게, 무서운 전장에서도, 판단력, 집중력, 끊기지 않았어. 박사, 멋있어…… 
 
-	为了胜利，我们什么都得做，只是......
 	勝つためなら、何でもやる、けど……。
 	I'll do whatever it takes to win... I suppose...
 	이기기 위해서라면, 뭐든지, 하겠지만…… 
 
-	要抓住，逃走的人的话，请交给我......
 	逃げた人、捕まえるなら、わたしに、まかせて……。
 	Let me take care of... the ones that got away...
 	도망친 사람, 잡으려면, 나한테, 맡겨…… 
 
-	对不起......都是我没做好......
 	ごめんなさい……できそこないで……。
 	I'm sorry... It's all my fault...
 	미안해…… 내가 모자라서…… 
 
-	我去角落里，坐着......
 	隅っこ、座ろ……。
 	I'll sit... in the corner...
 	구석에, 앉을래…… 
 
-	欸欸欸？？？
 	えええ……？
 	Huhhhh?
 	에에에……?
 
-	那个，您经常关注着我，虽然这是您的职责，我也......非常开心......
 	あの、いつも、気にかけてくれて……それが、ドクターの、職務でも……うれしい……。
 	Thank you for paying attention to me... I know it's your duty... but it still makes me happy...!
 	저기, 언제나, 신경 써줘서…… 그게, 박사의, 직무라 해도…… 기뻐…… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士......你好......
 	ドクター……こんにちは……。
 	Hello... Doctor...
 	박사…… 안녕…… 
+
+干员档案\Background:
+	基础档案 :
+	【代号】狮蝎
+	【性别】女
+	【战斗经验】一年
+	【出身地】萨尔贡
+	【生日】未公开
+	【种族】曼提柯
+	【身高】155cm
+	【尾巴长度】140cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】マンティコア
+	【性別】女
+	【戦闘経験】一年
+	【出身地】サルゴン
+	【誕生日】非公開
+	【種族】マンティコア
+	【身長】155cm
+	【尻尾の長さ】140cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Manticore
+	[Gender] Female
+	[Combat Experience] 1 year
+	[Place of Birth] Sargon
+	[Date of Birth] Unknown
+	[Race] Manticore
+	[Height] 155cm
+	[Tail Length] 140cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 맨티코어
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 사르곤
+	[생일] 미공개
+	[종족] 맨티코어
+	[신장] 155cm
+	[꼬리길이] 140cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】优良 
+	【生理耐受】标准 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Excellent 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	狮蝎，履历大部分缺失，已知其入职前曾从事指定对象清除工作，推测身份：杀手。在潜伏、侵扰、突袭敌军阵线等行动中均表现出过硬的战斗技巧。
+	现作为特种干员，为罗德岛提供特别行动服务。
+
+	個人履歴 :
+	マンティコアの経歴は大半が失われているが、着任以前は指定対象の排除に従事していたことから、前職は殺し屋だったと推測される。潜伏や侵入、敵陣営への奇襲等で高い戦闘スキルを発揮している。
+	現在は特殊オペレーターとして、ロドスの特別行動に参加している。
+
+	Profile :
+	Much of Manticore's history is unknown. It is known that prior to her employment at Rhodes Island, she had engaged in the 'removal' of certain individuals. She has excellent stealth, infiltration, and surprise attack skills.
+	Now she serves as a special kind of Operator who provides these unique services for Rhodes Island.
+
+	프로필 :
+	    대부분의 과거 이력 확인 불가. 단, 입사 전에 특정 타겟에 대한 살인 청부 업무를 처리한 것으로 확인되어, 그녀의 과거 신분은 암살자였던 것이라 추측하고 있다. 잠복, 침입, 적 진영 기습 등의 작전 중 훌륭한 전투 기술을 자랑하며, 현재는 스페셜리스트 오퍼레이터로서 로도스 아일랜드에 특별 작전 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。 
+	
+	【体细胞与源石融合率】12% 
+	干员狮蝎体表无明显矿石病病灶，经检测后确定其体内已产生矿石病结晶多发现象。 
+	
+	【血液源石结晶密度】0.32u/L 
+	因源石多于体内脏器位置生成，狮蝎内循环系统中源石含量较高。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。。
+	
+	【源石融合率】12%
+	マンティコアの体表には明らかな鉱石病の病巣は無いが、検査の結果、体内で既に鉱石病による源石結晶の生成が始まっていることが確認された。
+	
+	【血液中源石密度】0.32u/L
+	源石が多くの臓器で生成されていることから、マンティコアの循環器系の源石含有量は比較的多い。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 12% 
+	Operator has no obvious ore lesions on the surface of her body. Tests have revealed the presence of crystals internally, however. 
+	
+	[Blood Crystal Density] 0.32u/L 
+	Due to the presence of Originium within the Operator's internal organs, the Operator's shows an elevated blood crystal content.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음, 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 12%
+	오퍼레이터 맨티코어의 체표면에는 명확한 광석병 증상이 나타나지 않음. 검사를 통해 체내에 다량의 광석병 결정 발견
+	
+	[혈중 오리지늄 결정 밀도] 0.32u/L
+	많은 오리지늄이 장기 상에 생성되어, 맨티코어의 내 순환계통 중 오리지늄 함량이 비교적 높음.
+
+———————————————————————————————
+
+	档案资料一 :
+	狮蝎温柔、腼腆，甚至有时给人的感觉有些怯懦。她断断续续的，采用试探性口气的说话方式是她语言中的最大特征。很难一次性说完一句完整的话的狮蝎，在与其他干员同时们交流时，举止和语言显得非常生硬，仿佛比起面对活生生的人，面对石头会来的更轻松一些。
+	除此以外，狮蝎罕见的隐形能力成了她在交流中的重大麻烦。这使得她笨拙的交际能力始终得不到进一步的提高和适应。在有必要的情况下，建议为干员狮蝎提出进一步的医疗方案。
+
+	第一資料 :
+	マンティコアは優しく内気で、時々怯えているように見える。相手の様子を窺うようなとぎれとぎれな話し方をしているのが、彼女の言葉の最大の特徴。一つの文を一気に話すことがほぼ不可能なマンティコアは、他のオペレーター達と交流する際には言動が非常に固い。人間よりも、石と会話をしている方がリラックスしているようだ。
+	この他にも、マンティコアの珍しいステルス能力は人間関係においてかなり厄介だ。この能力の影響で、彼女の拙いコミュニケーション能力は、成長や適応が出来なくなってしまっている。必要な時にはマンティコアの為に、更に一歩進んだ医療プランの提案をすることを推奨する。
+
+	Archive File 1 :
+	Manticore is gentle, shy, and sometimes even gives others the feeling that she's afraid. She speaks in a hesitant tone and often stammers. She rarely finishes a sentence in one attempt, and she appears very stiff when communicating with other Operators. She would probably be more comfortable talking to a rock.
+	Additionally, her rare invisibility ability has become a major hindrance to communication. It has completely prevented her from improving her interpersonal skills. It may be necessary to suggest additional treatment solutions to help Manticore develop her social skills.
+
+	파일 자료 1 :
+	    온화하며, 낯을 가리고, 심지어 때로는 사람들로 하여금 겁 많고 나약한 사람이란 느낌이 들게 만드는 맨티코어는, 말을 중간 중간 끊으며 마치 무언가를 관찰하는 것 처럼 보이는 독특한 말투가 특징이다. 한 번에 완전한 한 마디를 내뱉는 게 매우 힘든 맨티코어는 다른 오퍼레이터와 교류할 시 그 행동과 말투가 매우 어색해, 살아있는 사람보다 돌덩이와 대화하는 게 차라리 더 수월하겠다는 생각이 들게 한다. 맨티코어의 희귀한 은신 능력으로 인해 그녀는 사람들과 교류하는 데 불편을 겪고 있으며, 그녀의 서툰 사교 능력은 좀처럼 나아질 기미가 보이지 않고 있다. 필요 시 오퍼레이터 맨티코어에게 추가적으로 의료 솔루션을 적용할 것을 제안한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	与狮蝎的交流是建立若干写满留言的纸条上进行的。鉴于狮蝎自身具备的，经矿石病异化的隐形能力（关于该能力的报告尚需近一步整理），现已通过交互实验判明，其能力无法影响无生命物体，因此纸张书写成为与该干员交流较为适宜的方式。
+	在交流完成后，会收到狮蝎留下的，散发着紫罗兰清香的小礼物。
+
+	第二資料 :
+	マンティコアとの交流は、メモ上で筆談で行う。元々彼女に備わっていたものの、鉱石病によって変異したステルス能力（この能力に関しての報告は近々更に整理する必要がある）だが、現在実験を通して判明していることは、この能力は生命のない物体には影響しないということだ。よって筆談は彼女との交流において比較的便利な方法である。
+	交流後は、マンティコアからストックの花の香りが漂うプレゼントが贈られる。
+
+	Archive File 2 :
+	We communicate with Manticore by writing messages on paper. Oripathy has given her the ability to turn invisible (the report on this ability needs additional processing). It has been confirmed through interactive experiments that her ability does not transfer to inanimate objects, so paper communication has proved a suitable way to communicate with this operator.
+	After communication, Manticore likes to leave behind little gifts that smell sweetly of violets.
+
+	파일 자료 2 :
+	    맨티코어와의 교류는 일정 코멘트가 적힌 메모지가 준비되어야 정상적으로 진행이 가능하다. 광석병 변이를 통해 맨티코어 자신이 얻게된 은신 능력(해당 능력에 대한 보고서는 추가 정리 필요)은, 이미 교차 실험을 통해 무생명체에게는 영향을 줄 수 없는 것으로 판명되었다. 따라서, 종이에 글을 쓰는 것이 본 오퍼레이터와 교류하는 데 비교적 적합한 방식이 되었다. 교류가 끝난 후에는 맨티코어가 남긴 싱그러운 스톡 꽃향기가 나는 작은 선물을 받을 수 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	干员狮蝎出身于萨尔贡，因其提供的绝大部分履历均未能具备一定的有效性，因此狮蝎的活动活动经历仍处于不明朗的状态。目前已知的是，狮蝎已经接受过一套较为完善的特别行动训练，并已经具备至少一年左右的行动经验。
+	针对其特别行动受训单位的调查并不成功，萨尔贡方面的情报也没能提供任何有价值的线索。目前仅以未经证实，且不够可靠的，来自部分在萨尔贡的线人情报显示：在该地区有一支收容具备特殊能力的源石技艺使用者，采用独特训练方式来刺杀萨尔贡王公贵族，或部分其他国家实力与武装单位的特别行动人员。
+	目前基于干员狮蝎背景的模糊性，针对其在罗德岛的定位，定位为特殊型矿石病患者。任何调用狮蝎用于特别行动与战斗的申请，都需提交凯尔希医生进行审核。
+
+	第三資料 :
+	マンティコアはサルゴンの出身だが、提出された履歴書のほとんどの箇所が信憑性が無く、彼女の活動経歴はなおも不明瞭である。現時点で判明しているのは、マンティコアは高水準の特別行動訓練を受けていたことと、一年以上の実戦経験があるということだ。
+	彼女の特別行動訓練の内容についての調査は失敗し、サルゴン方面からも特に有力な情報は入っていない。未だ確証がなく、信憑性は薄いが、サルゴンの人間からの一部の情報によると、該当地区では特殊能力を備えたアーツ使用者を収容し、独自の訓練方式を採用してサルゴンの王侯貴族や、他国の武装集団の特殊構成員を暗殺させているらしい。
+	マンティコアは経歴が明確ではないため、ロドスでの立ち位置は特殊型鉱石病患者に定まった。マンティコアを特別行動や戦闘に出動させる際の申請は全て、ケルシー医師に提出し査定してもらわなければならない。
+
+	Archive File 3 :
+	Manticore was born in Sargon. Because most of the background she provided could not be validated, Manticore's experience cannot be confirmed. What is known is that Manticore has undergone relatively comprehensive special operations training and has at least one year of operative experience under her belt.
+	The investigation into her special operations training unit was unsuccessful, and Sargon intelligence did not provide any valuable clues. Currently only unconfirmed and less than reliable intelligence from Sargon spies indicate there is a group of people who house Originium Arts users with special abilities in this area. These individuals are using special training methods to kill Sargon aristocrats or operatives from other nations.
+	Because of Manticore's vague background, she has been designated a special type of Oripathy patient at Rhodes Island. Any applications requesting use of Manticore in special operations or combat will first need to be submitted to Dr. Kal'tsit for approval.
+
+	파일 자료 3 :
+	    오퍼레이터 맨티코어는 사르곤 출신이지만, 제공받은 이력 증명 자료 중 대부분이 효력이 없다보니, 그녀의 과거는 아직 불투명한 상태로 남아있다. 현재 확인된 사실은, 맨티코어가 과거 완전한 특수 작전 훈련을 받은 적이 있다는 점과, 이미 최소 약 1년 정도의 작전 경험을 가지고 있다는 점이다.
+	    해당 특수 작전 훈련을 실시한 기관에 대한 정보를 찾는 데는 실패하였으며, 사르곤 쪽에서도 역시 어떠한 실마리를 찾아내진 못했다. 현재 검증되지 않은 사르곤의 어느 정보통에 의하면, 해당 지역에서는 특수한 능력의 오리지늄 아츠를 사용하는 자를 모집하여, 독특한 훈련 방식을 통해 사르곤 왕궁의 귀족들, 혹은 다른 국가의 실세나 무장 단체 인원을 암살하는 특수 작전 대원으로 양성하고 있다고 한다.
+	    오퍼레이터 맨티코어의 불분명한 배경으로 인해, 현재 로도스 아일랜드에선 그녀를 특수형 광석병 환자로 분류하고 있으며, 맨티코어의 작전이나 전투 참여 신청은 전부 닥터 켈시에게 제출해 승인을 받아야 한다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【狮蝎能力的测试记录】 
+	测试对象：干员狮蝎。 
+	测试目的：探明其自身能力与源石技艺的作用范围。 
+	测试内容：寻找处于藏匿状态的狮蝎，并防御行动中的狮蝎。 
+	测试人员：与狮蝎搭配数次任务的干员一名。 
+	于全体干员中随机挑选干员两名。 
+	其中至少保证一名术师干员或高源石适应性非术师干员。 
+	测试结果：测试于模拟复杂环境的地形中展开。期间，三名干员均未目击干员狮蝎的行踪。狮蝎处于进攻姿态时，部分干员凭借自身反应与作战经验成功抵御了狮蝎的攻势，其余干员则遭狮蝎成功伏击。 
+	反馈结果：根据干员描述，以目视方式完全无法捕捉到狮蝎的身影。部分源石适应性较强的干员表示，偶发状态下会感受到四周异常气氛，迫使他们瞬间提高了警惕。 
+	上述过程已完整录像，如需查看请向相关部门申请。
+
+	第四資料 :
+	【マンティコアの能力測定記録】
+	測定対象：マンティコア
+	測定目的：彼女自身の能力とアーツの作用範囲を明らかにするため。
+	測定内容：ステルス状態のマンティコアの捜索及び、行動中のマンティコアへの防御。
+	測定参加メンバー：マンティコアと数回任務を共にしたことがあるオペレーター一名。
+	全オペレーターから任意で選出された二名。
+	うち最低でも一名は術師オペレーターか源石適性が高い非術師オペレーターとする。
+	測定結果：測定は複雑な環境を模擬した地形で実施。測定の間、三名は誰もマンティコアを目撃しなかった。一方マンティコアが攻撃をしかけた際は、一部のオペレーターは自身の経験により未然に攻撃を防ぐことに成功したが、他のオペレーター達はマンティコアの奇襲を受けた。
+	フィードバック：測定に参加したオペレーターによると、目視ではマンティコアの姿を捉えることはまったくできなかったという。一部の源石適性の高いオペレーターは、偶然周囲に異常な気配を察知し、最大限の警戒をした。
+	上記の過程は全て映像記録されている。確認が必要な場合は関連部門へ申請が必要。
+
+	Archive File 4 :
+	[Manticore's Ability's Test Record] 
+	Test subject: Manticore. 
+	Test objective: To probe the usefulness of the subject's abilities and Originium Arts. 
+	Test content: To find Manticore while she is in hiding and to defend against her while she is in action. 
+	Test participants: An Operator who has worked with Manticore on several missions. 
+	Randomly select two Operators from all of the Operators available. 
+	Among them must be at least one technician Operator or non-technician Operator with high Originium adaptability. 
+	Test results: The test took place on a terrain simulating a complex environment. During the test period, none of the three Operators were able to locate the whereabouts of Manticore. When Manticore went on the offensive, some of the Operators managed to defend against her attacks using their quick reaction times and combat experience, while Manticore managed to successfully attack the others. 
+	Feedback results: According to the explanations provided by the Operators, Manticore could not be captured using visual means. Some of the Operators with better Originium adaptability reported feeling a strange atmosphere that instantly made them as though they were in danger. 
+	The above process has been recorded in its entirety. If you wish to view it, you must request it from the relevant department.
+
+	파일 자료 4 :
+	[맨티코어 능력 테스트 기록]
+	- 대상: 오퍼레이터 맨티코어
+	- 목적: 자신의 능력과 오리지늄 아츠의 작용 범위 확인
+	- 내용: 은신 상태의 맨티코어 수색하기, 행동 중인 맨티코어 방어하기
+	- 인원: 맨티코어와 여러 차례 임무를 수행한 기록이 있는 오퍼레이터 1명 선정. 전체 오퍼레이터 중 랜덤으로 2명 선정. 이중 적어도 한 명의 캐스터 오퍼레이터 혹은 높은 오리지늄 적응 능력을 지닌 비 캐스터 오퍼레이터가 포함되어야 함.
+	- 결과: 복잡한 지형 환경을 시뮬레이션한 지형에서 전개. 테스트 중 3명의 오퍼레이터 모두 오퍼레이터 맨티코어의 행적 추적 실패. 맨티코어가 공격 모드로 전환 시 일부 오퍼레이터는 자신의 반응 속도와 작전 경험을 토대로 공세 방어에 성공함, 나머지는 맨티코어의 매복 공격에 당하고 맘.
+	- 결과 피드백: 오퍼레이터의 묘사에 따르면, 육안으로는 전혀 맨티코어의 움직임을 포착할 수 없었다고 함. 일부 오리지늄 적응력이 높은 오퍼레이터는 일정 확률로 사방에서 이상한 기운을 감지할 수 있었던 덕에, 순간적으로 경계를 강화할 수 있었다고 함.
+	    상기 내용은 모두 녹화가 완료되었으며, 시청을 원할 경우 관련 부서로 연락할 것.

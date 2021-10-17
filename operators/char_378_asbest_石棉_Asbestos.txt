@@ -1,11 +1,17 @@
 ID:
 	char_378_asbest
 
-干员代号\Name:
+CV:
 	石棉
 	アスベストス
 	Asbestos
 	아스베스토스
+
+干员代号\Name:
+	真堂圭
+	真堂圭
+	Kei Shindō
+	신도 케이
 
 招聘合同\Character Usage:
 	罗德岛签约探险家石棉，十分不情愿地为你服务。
@@ -43,177 +49,411 @@ ID:
 	서멀 모드
 
 语音\Voices:
-	有事快说，有屁快放，姑奶奶忙得很，没多少时间应付你。
 	用があんならさっさと言え。あたしゃ忙しんだ、お前なんかに付き合ってる暇はねぇんだよ。
-	If you’ve got something to say, spit it out. If you wanna pass gas, just make it quick. I’m busy as hell and don’t have time for you.
+	If you've got something to say, spit it out. If you wanna pass gas, just make it quick. I'm busy as hell and don't have time for you.
 	용건 있으면 빨리 말해. 난 바빠, 너 따위랑 어울려줄 시간은 없다고.
 
-	呀！......混账东西，谁允许你碰我的尾巴的，小心我把你扇飞！还有，忘掉我刚才的声音，忘不掉我可以帮你物理遗忘。
 	ひゃっ！……ば、馬鹿野郎！誰がしっぽ触っていいって言ったんだ！ぶっ飛ばすぞ！あと今聞いた声も忘れろよ。できないってんなら手伝ってやってもいいぞ。
-	Hey! ...You asshole, who gave you permission to touch my tail? Watch it or I’ll punt your sorry ass! And, forget all about that sound I made just now, I’ll help you forget it physically.
+	Hey! ...You asshole, who gave you permission to touch my tail? Watch it or I'll punt your sorry ass! And, forget all about that sound I made just now, I'll help you forget it physically.
 	꺄악! ……이, 빌어먹을 녀석이! 누가 꼬리 만져도 된다 그랬어! 확 까버릴까 보다! 그리고 방금 들은 목소리도 잊어. 못하겠다면 도와줄 수도 있어.
 
-	我这块门板？看也知道吧，我自己做的，多功能。建议你别乱碰，会出人命的。
 	このドアか？見りゃ分かんだろ、あたしが自分で作ったんだよ、色々できんだぜ。言っとくけど、好き勝手触んじゃねぇぞ。死にたくなけりゃな。
-	This ol’ door I have here? Can’t you tell? I made it myself, it’s multifunctional. I’d advise you not to touch it, or you might get yourself killed.
+	This ol' door I have here? Can't you tell? I made it myself, it's multifunctional. I'd advise you not to touch it, or you might get yourself killed.
 	이 문 말이야? 보면 알잖아. 내가 직접 만든 거라고. 여러모로 쓰이지. 말해두는데, 멋대로 만지지 마라. 죽기 싫으면.
 
-	不得不说，罗德岛反正也要到处跑，我跟着你们的轨迹四处探险好像比我自己走路要快点，嗯，不错，稍微对你们改观了。
 	そうだな、どうせロドスはそこらじゅう行ったり来たりすんだ、お前たちにくっついて探検すりゃ自分で歩くより早えーかもな。ああ、悪くねぇ。少しはお前たちを見直したぜ。
-	I’ve gotta say, since Rhodes Island is gonna be traveling all over anyway, it’s faster for me to follow you as I explore than going around on my own. Mm, yeah, I guess I’ve changed my view towards you guys a little.
+	I've gotta say, since Rhodes Island is gonna be traveling all over anyway, it's faster for me to follow you as I explore than going around on my own. Mm, yeah, I guess I've changed my view towards you guys a little.
 	그렇네. 어차피 로도스 아일랜드는 여기저기 왔다 갔다 하잖아. 너희한테 딱 달라붙어서 탐험하면 직접 걸어 다니는 것보다 빠를지도 모르겠네. 그래, 나쁘지 않네. 조금은 너희를 다시 봤어.
 
-	别把我和麦哲伦相提并论，我可不是什么探险家，我只是为了追求刺激才在这片大地上到处跑的。为后人开辟道路？姑奶奶可没那么高尚。
 	あたしとマゼランを一緒に語んじゃねぇよ。あたしゃ探検家なんかじゃねぇ、ただ刺激を求めてこの大地を駆けずり回ってるだけだ。後世のために道を切り開くなんざ、そんな崇高なもんじゃねぇよ。
-	Don’t compare me to Magallan. I’m no professional explorer, I just run around the world chasing thrills. Trailblazing for those who come after me? I sure as hell ain’t that noble.
+	Don't compare me to Magallan. I'm no professional explorer, I just run around the world chasing thrills. Trailblazing for those who come after me? I sure as hell ain't that noble.
 	나와 마젤란을 같이 엮지 마. 난 탐험가 같은 게 아니야. 그저 자극이 땡겨서 이 땅을 뛰어다니고 있을 뿐이야. 후세를 위해 길을 개척하는 그런 숭고한 게 아니라고.
 
-	越是危险我越要去，越是疯狂我越享受，要是不这样，那人生又有什么意思。
 	ヤバけりゃヤバイところほど行ってみてぇ、イカれてりゃイカれてるほど楽しめんだ。そうじゃなきゃ、人生に何の楽しみがあんだ？
 	The more dangerous it is, the more I wanna go. The crazier it is, the more I wanna cut loose. Otherwise, life has no meaning.
 	위험하면 위험할수록 가보고 싶어. 미쳐있으면 미쳐있을수록 즐길 수 있거든. 그렇지 않으면 인생에 무슨 낙이 있겠어?
 
-	麦哲伦？我跟这个自来熟的小丫头片子是在黑流树海认识的，那可真是姑奶奶有生以来最吵闹的一次探险了。不过这丫头确实有点水平，这我承认。
 	マゼランか？あの馴れ馴れしいガキンチョとは黒流樹海で知り合ったんだ。あたしの人生で一番騒がしい探検だったな。だがあいつはアレでなかなかやんだよ、そこは認めとく。
-	Magallan? Me and this shrimpy, overzealous videographer girl I got to know her at the Black Flow. Y’know, that’s the wildest, craziest adventure I’ve ever been on. But, that shrimp’s got some real skills, I’ll be the first to admit. 
+	Magallan? Me and this shrimpy, overzealous videographer girl I got to know her at the Black Flow. Y'know, that's the wildest, craziest adventure I've ever been on. But, that shrimp's got some real skills, I'll be the first to admit. 
 	마젤란? 그 붙임성 좋은 꼬맹이랑은 블랙 플로우에서 알게 됐어. 내 인생에서 가장 소란스러운 탐험이었지. 하지만 그 녀석은 그래 봬도 제법 해. 그건 인정해 두지.
 
-	朋友？谁要那玩意，姑奶奶的人生目标就是做个混账东西，最好谁也别喜欢我，我也没空去喜欢别人。比起这个，今晚喝一杯？给个准话。
 	友達？そんなもんいらねぇよ、あたしの生涯の目標はろくでもねー奴になることなんだ。誰にも好かれないのが一番いい、あたしだって他人を好いてる暇なんてねーからな。それより、今夜一杯どうだ？うだうだしてねーではっきり答えろ。
-	Friends? Who the hell needs those? My life goal here is to just be an absolute jerk to everyone. So, best not try to get chummy with me, since I’m not gonna return the favor. Rather, how ‘bout we go out for a drink instead? Give it to me straight.
+	Friends? Who the hell needs those? My life goal here is to just be an absolute jerk to everyone. So, best not try to get chummy with me, since I'm not gonna return the favor. Rather, how 'bout we go out for a drink instead? Give it to me straight.
 	친구? 그딴 건 필요 없어. 내 평생의 목표는 못난 녀석이 되는 거야. 누구한테도 호감 안 사는 게 제일 좋아. 나도 다른 사람 좋아할 여유 따윈 없으니까. 그건 그렇고, 오늘 밤 한 잔 어때? 웅얼대지 말고 똑바로 대답하라고.
 
-	我的病？我知道挺严重的，但是只要没给别人添麻烦，怎么对待是我的自由。我的想法很简单，死在旅途上又没什么不好，你要真有本事可以试试到时候把我救回来。加油啊，博士，我不看好你。
 	あたしの病気か？かなりキテんのは知ってるよ。でも周りに迷惑さえかけなきゃどうしようがあたしの勝手だろ。あたしの考えは簡単だ、道半ばで死ぬのも悪くねぇ。もしお前がそのつもりなら、そん時にあたしを助けられるかやってみりゃいい。頑張れよドクター、まぁお前に期待はしてねぇけどな。
-	My illness? I know it’s pretty serious, but as long as I don’t cause trouble for anyone, how I deal with it is up to me. And that’s an easy one - there’s nothing wrong with dying on a journey. If you think you’re hot shit, you can try to bring me back. Do your worst, Doctor. I’m expecting nothing from you.
+	My illness? I know it's pretty serious, but as long as I don't cause trouble for anyone, how I deal with it is up to me. And that's an easy one - there's nothing wrong with dying on a journey. If you think you're hot shit, you can try to bring me back. Do your worst, Doctor. I'm expecting nothing from you.
 	내 병 말이야? 꽤 진행되었다는 건 알아. 그래도 뭐, 주위에 폐만 끼치지 않으면 어떻게 하든 내 맘이잖아. 내 생각은 간단해. 길 한복판에서 죽는 것도 나쁘진 않지. 만약 네 생각이 그렇다면 그때 날 구할 수 있을지 해보면 돼. 열심히 해봐, 박사. 뭐, 너한테 기대는 안 하지만.
 
-	睡着了？很好，让我来制造一点噪音吧，哈哈。
 	眠ってやがんのか？いいじゃねぇか、ちょっとうるさくしてやる、へへっ。
 	Sleeping, huh? Good, time to make some noise. Ahaha!
 	잠들었나? 잘 됐네, 살짝 시끄럽게 해주지. 헤헤!
 
-	虽然我一年里至少有一半时间在外探险，但工资我要正常待遇，也要给我留一间宿舍，你要这样的员工？......要了？哈？啧，神经。
 	あたしゃ一年の大半を外で探検して過ごすけど、給料は通常通りもらうし、宿舎も一部屋空けといてもらうぜ。そんな奴を雇いてぇか？……決まり？はぁ？チッ、あったまおかしいのか。
 	Even though out exploring for a better portion of the year, you still plan to have me on the payroll and even assign me a dorm? And you seriously want an operator like that? ...Oh, you do? Huh? Tsk, something wrong with your head?
 	난 일 년의 대부분을 밖에서 탐험하면서 보내지만, 급여는 원래대로 받을 거고 숙소도 하나 비워달라 할 거야. 그런 녀석을 고용하고 싶은 거야? …이미 정했다고? 뭐? 칫, 머리가 어떻게 된 거 아니야?
 
-	算了，就当学点防身术......
 	まぁいいや、護身術ってことで……。
-	Well, whatever. Guess I’ll learn some self-defense.
+	Well, whatever. Guess I'll learn some self-defense.
 	뭐, 됐어. 호신술이라고 치자…
 
-	“罗德岛科考队名誉队长”？我？哈？
 	「ロドス科学観測隊名誉隊長」？あたしが？はぁ？
 	'Honorary Captain of the Rhodes Island Research Team?' Me? Hah?
 	'로도스 아일랜드 과학관측대 명예 대장'? 내가? 뭐?
 
-	我不会给你任何我能为罗德岛做什么的保证，这不是姑奶奶的风格。不过如果你想知道这片大地的未解之谜，那就由我来为你揭开吧！
 	ロドスのためにできることなんて何も保証しねーぜ、そんなのあたしのやり方じゃないからな。でももしお前がこの大地の未開の謎を解きてーんなら、あたしがそれを暴いてやるよ！
-	I can’t guarantee that I’ll be able to do anything for Rhodes Island, since that’s not my style. However, if there are any mysteries of this world you’d like to uncover, I’ll be the one to get the job done.
+	I can't guarantee that I'll be able to do anything for Rhodes Island, since that's not my style. However, if there are any mysteries of this world you'd like to uncover, I'll be the one to get the job done.
 	로도스 아일랜드를 위해 할 수 있는 건 아무것도 보증하지 않을 거야. 그런 건 내 방식이 아니니까. 하지만 만약 네가 이 땅의 알려지지 않은 수수께끼를 풀고 싶다면, 내가 그걸 파헤쳐 주지!
 
-	团队行动？饶了我吧......
 	チームワーク？勘弁しろよ……。
 	Teamwork? Give me a break...
 	팀 워크? 좀 봐줘라……
 
-	啧，博士，你想为难我就直说。
 	チッ、ドクター、あたしをいびりてーんならはっきり言えよ。
 	Tsk... If you wanna make my life hard, just say it to my face.
 	칫. 박사, 날 괴롭히고 싶으면 확실하게 말하라고.
 
-	跟不上就自个找点事做吧。
 	付いてこれねぇなら勝手にやってな。
-	If you can’t keep up, just find something to keep yourself busy.
+	If you can't keep up, just find something to keep yourself busy.
 	못 따라오겠으면 알아서 하고 있어.
 
-	啧，麻烦。
 	チッ、めんどくせぇ。
 	Tsk... What a pain in the ass.
 	칫, 귀찮아.
 
-	是是是。
 	はいはい。
 	Yeah, yeah.
 	그래, 그래.
 
-	在在在。
 	いるいる。
 	Here, here.
 	여기, 여기.
 
-	好好好。
 	わーったわーった。
 	Yeah, got it.
 	알았어, 알았다고.
 
-	行行行。
 	了解了解。
 	Sure, whatever.
 	알았어, 알았어.
 
-	吃屎去吧。
 	くそくらえ。
 	Eat shit.
 	엿이나 먹어라.
 
-	赏你们一门板。
 	ドアをぶちかましてやるぜ。
-	Here’s a door for you.
+	Here's a door for you.
 	문으로 한 방 먹여주마.
 
-	啊，好无聊。
 	あーあくっだらねぇ。
 	Hah... Boring as hell.
 	아아~ 재미없어.
 
-	怎么没完没了的！
 	どいつもこいつも！
 	Piss off already!
 	이놈이고, 저놈이고!
 
-	姑奶奶见惯了大风大浪，这点程度还不算什么。
 	あたしゃ大嵐はもう見慣れてんだ、こんなのなんともねぇよ。
-	I’ve braved the winds and the waves. Something like this ain’t worth shit.
+	I've braved the winds and the waves. Something like this ain't worth shit.
 	난 큰 폭풍은 이미 익숙하다고. 이런 건 아무렇지도 않아.
 
-	唉，没劲，我去附近逛逛。
 	はぁ、つまんねぇ。ちょっとこの辺回ってくるわ。
-	*sigh* ...How boring. I’m gonna take a look around.
+	*sigh* ...How boring. I'm gonna take a look around.
 	하아, 따분해. 잠깐 이 주변 좀 돌고 올게.
 
-	差不多得了。
 	こんくらいにしとけ。
 	Good enough.
 	이 정도로 해둬.
 
-	啧......难道现在我必须安慰一下这家伙吗......
 	チッ……まさかあたしがこいつを慰めてやんなきゃいけねぇのか……。
 	Tsk... Am I supposed to comfort this bastard now...?
 	칫… 설마 내가 이 녀석을 위로해 줘야 하는 건가…
 
-	该回宿舍睡觉了。
 	部屋に戻って寝るか。
 	Time to head back to the dorms and crash.
 	방으로 돌아가서 잠이나 잘까.
 
-	嗯？！
 	んっ！？
 	Huh?!
 	응?!
 
-	对了，要先去趟博士的办公室......
 	そいやドクターの執務室に行っとかねぇと……。
-	Oh right, gotta take a trip to the Doctor’s office first.
+	Oh right, gotta take a trip to the Doctor's office first.
 	그러고 보니 박사 집무실에 한 번 들러야 하는데……
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你很闲吗？
 	暇かよお前？
 	You got a lot of free time?
 	한가하냐 너?
+
+干员档案\Background:
+	基础档案 :
+	【代号】石棉
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】雷姆必拓
+	【生日】7月30日
+	【种族】萨弗拉
+	【身高】156cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】アスベストス
+	【性別】女
+	【戦闘経験】なし
+	【出身地】レム・ビリトン
+	【誕生日】7月30日
+	【種族】サヴラ
+	【身長】156cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Asbestos
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Rim Billiton
+	[Date of Birth] July 30
+	[Race] Savra
+	[Height] 156cm
+	[Infection Status] 
+	Confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 아스베스토스
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 림 빌리턴
+	[생일] 7월 30일
+	[종족] 사브라
+	[신장] 156cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Excellent
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	雷姆必拓较有名气的探险家。由干员麦哲伦引荐来到罗德岛接受治疗，并在协商后签订协议成为干员。
+	经过专业培训后，利用自己亲手改造的大盾在前线在其他干员提供保护。
+
+	個人履歴 :
+	レム・ビリトンで名を馳せる探検家。マゼランの紹介によりロドスで治療を受けながらも、協議の上でオペレーターとしても活躍している。
+	専門的な訓練を受けた彼女は、自ら改良した大盾を駆使し、鉄壁の守りを見せる。
+
+	Profile :
+	One of RIM Billiton's more famous explorers. Asbestos was recommended to Rhodes Island for treatment by Operator Magallan, and signed an agreement to become an operator after negotiation. 
+	After professional training, she uses a large shield that she personally modified to protect other operators on the front lines.
+
+	프로필 :
+	림 빌리턴에서 제법 유명한 탐험가. 오퍼레이터 마젤란의 추천을 받아 로도스 아일랜드로 와 치료를 받게 되었다. 이후 협상을 통해 오퍼레이터 계약을 체결하게 되었고, 전문적인 훈련을 받게 되고 나선 자신이 직접 개조한 커다란 방패를 사용하여, 전선에서 다른 오퍼레이터들을 보호하는 역할을 맡고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】7%
+	该干员体表有较少量的源石结晶分布，并且病症导致了她的眼球发生了变色，目前还没有发现除变色之外的并发症状。
+	
+	【血液源石结晶密度】0.22u/L
+	该干员患病时间较早，并且此前并未对自身状况做过任何应对措施，原本症状应当十分深刻。但由于其本身经常外出探险，身体素质极佳，又一定程度上缓解了症状，目前在接受罗德岛的治疗后病情趋向稳定，需要定期接受治疗。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7%
+	体表に少量の源石結晶の分布を確認。それによる影響で眼球が変色しているが、その他の合併症はまだ見られていない。
+	
+	【血液中源石密度】0.22u/L
+	感染してから長い間何の対策も講じていなかった彼女の症状は、本来なら非常に深刻なはずだ。しかし探検活動によって鍛えられたものか、身体能力が極めて優秀であり、症状もある程度緩和されているようだ。ロドスでの治療により現在の病状は安定しているが、定期的な検診を行う必要がある。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 7%
+	A small amount of crystals are distributed across the surface of the body, and the disease has caused her eyes to change color. So far, no other complications besides the discoloration have been found. 
+	
+	[Blood Originium-Crystal Density] 0.22u/L
+	The operator contracted Oripathy at a young age and had not done anything previously to respond to the condition, which means that the original symptoms could be very profound. However, due to her frequent expeditions and excellent physical condition, her symptoms have been relieved to a certain extent, and stabilized further after receiving treatment from Rhodes Island. Requires regular treatment.
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 7%
+	소량의 오리지늄 결정이 오퍼레이터 체표면에 분포하고 있으며, 병증으로 인해 안구가 변색됨. 현재 변색을 제외한 다른 합병증은 발견되지 않음.
+	
+	[혈중 오리지늄 결정 밀도] 0.22u/L
+	 비교적 예전에 발병했으나 증상에 맞는 적절한 조치를 취하지 않은 탓에 원래 병증이 상당히 심각했음. 하지만 자주 모험을 떠나고, 체력 또한 훌륭했던 덕분에 로도스 아일랜드에서 치료를 받은 후 어느 정도 병증이 안정되었으나, 여전히 정기적인 치료가 필요함.
+
+———————————————————————————————
+
+	档案资料一 :
+	态度很差的探险家。
+	对谁都不会摆好脸色，我行我素的代名词，不过若是能够忍受她言语上的不逊，会发现本身是个成熟且有能力的人。
+	大部分时间在外探险，在罗德岛上的时间也较少出现在公共场合，偶尔会看到她强拉着博士喝酒的身影。
+
+	第一資料 :
+	態度の悪い探検家。
+	誰に対しても媚びへつらうことなく、マイペースを貫いている。しかしその毒舌っぷりさえ我慢できれば、彼女は能力の高い成熟した人物であることがわかるだろう。
+	ほとんど探検に出ている彼女は、ロドスにいる時間でもめったに社交場に現れないが、たまに強引にドクターを飲みに誘う彼女の姿が見られる。
+
+	Archive File 1 :
+	Asbestos is an explorer with a foul attitude. 
+	She's never friendly with anyone and is the epitome of 'doing things my way,' but if you can withstand her verbal abuse, you'll find her to be a mature and capable individual. 
+	She spends most of her time exploring outdoors, and rarely makes public appearances when she is on Rhodes Island. Occasionally, she is seen forcing the Doctor to drink.
+
+	파일 자료 1 :
+	태도가 굉장히 나쁜 탐험가. 상대를 가리지 않는 마이웨이의 대명사격이지만, 그녀의 무례한 언행을 참을 수만 있다면, 그녀가 나름 성숙하고 유능한 사람이라는 걸 알 수 있을 것이다.
+	 바깥에서 탐험하는데 대부분의 시간을 보내며, 로도스 아일랜드에 머무는 동안에도 공공장소에서는 볼 수 있는 경우가 드물다. 가끔 박사를 끌고 술을 마시러 가는 모습이 보이기도 한다고…
+
+———————————————————————————————
+
+	档案资料二 :
+	虽然本人不承认，但很显然，石棉也是名副其实的探险家。当然，她确实和麦哲伦不同。
+	一方面，麦哲伦受雇于莱茵生命，虽然探索冻土是她本人的意愿，但很显然，她探索的收获中，最核心的一部分往往是由莱茵生命占有的。并且麦哲伦的探索更加具有计划性和测量性质。
+	而石棉的探索是完全随性的，没有人要求她这么做，也没有人给她提供支援，她只是顺着自己的想法到处走，并把自己的见闻写成游记并发布在杂志上。
+	事实上，几乎所有活跃在这片大地上的探险家都是麦哲伦这样有公司或者国家背景的，像石棉这样毫无背景的探险家是非常少见的。因为现实地说，想要在这片大地上到处走，不仅需要勇气，也需要资金。
+	虽然石棉不愿意透露她的出身，不过想必不会很差，至于她本人为何会成为一个特立独行的探险家，罗德岛并不打算过多深究。只是说，从这一点来说，她确实与麦哲伦有极大不同。
+	至于她本人提到的对探险看法的差异——“只是为了刺激”，确实，当我们提到探险家时，往往会对他们有这样的印象——开拓者、先驱者、开辟道路、探索未知等等，但这其实并不是算一个差异。
+	“为后人开辟道路”通常是结果，而非起因。比如麦哲伦，虽然她确实拥有这样的想法，但追根溯源，她会成为探险家同样源自她对冻土的憧憬。倒不如说，一开始就是为了某种大义而行动的人，往往才会半途而废。
+	而从石棉在各地留下的足迹和记录来看，毫无疑问，她就是一名出色的探险家。
+
+	第二資料 :
+	本人は認めないが、アスベストスは真の探検家である。勿論、マゼランとはタイプの異なる探検家であるが。
+	マゼランは自らの意思で、計画的かつ本格的に凍土を探検している。そして、その成果の最も重要な部分は彼女が所属しているライン生命のものとなる。
+	一方アスベストスの探索は、実にカジュアルだ。彼女は誰かの依頼やサポートを受けたことはなく、ただ気ままに歩き、自分の見聞をまとめた記事を書いて、雑誌に投稿している。
+	実際、この大地で活動している探検家のほとんどは、マゼランのように会社または国からの支援をもらっており、アスベストスのように背景のない探検家は稀なのだ。なぜならこの大地を探索するには、勇気だけでなく資本も必要だからである。
+	アスベストスは出身を明かさなかったが、さほど悪くない環境にいたと推測できる。そんな彼女がなぜ異端の探検家になったか、ロドスは詮索するつもりはない。
+	彼女は探検する理由を「ただ刺激を味わうために」と語る。我々は「探検家」という言葉に対して、「開拓者」「先導者」「道を拓くもの」「未知への探求」といったイメージを持ち、彼女の考えは一般的ではないように思えるが、実際には本質的な差異はないと言えるだろう。
+	探検家たちは当初から、「次の世代のために道を拓こう」という意思をもって探検しているわけではない。どちらかといえばそれは探検の結果に過ぎないし、むしろ最初から何かしらの大義名分を掲げて行動する者たちの方が、途中で投げ出すことも多いだろう。たとえばマゼランは探検家の未来を意識してはいるが、彼女が探検家になった最初の理由は、凍土への憧れからであった。
+	つまりアスベストスは、カジュアルに探索をしてはいるが、各地で残した足跡や記録を踏まえて判断すれば、間違いなく立派な探検家なのである。
+
+	Archive File 2 :
+	Even though she denies it, it is clear that Asbestos is a true explorer. Of course, she is very different from Magallan. 
+	On one hand, Magallan is employed by Rhine Lab. Though the desire to explore the frozen tundra was her own, the core reason she undertook her exploration had a great deal to do with Rhine Lab. Additionally, Magallan's exploration was better planned and thoroughly measured. 
+	On the other hand, Asbestos's exploration is completely amateur - nobody asked her to do it, and nobody is backing her financially. She merely follows her own ideas, walking around and recording her observations in her travel notes and publishing them in magazines. 
+	In fact, almost all active explorers on Terra are affiliated with either some country or company, such as Magallan is, and explorers with no backing, such as Asbestos, are very rare. Realistically speaking, a desire to explore the world cannot be fulfilled solely through courage, but requires capital as well. 
+	Though Asbestos is reluctant to reveal her background, we can surmise that there's likely nothing exceedingly bad or traumatic. As for why she decided to become a maverick explorer, Rhodes Island does not intend to pry too much. That is to say, on this point, she differs greatly from Magallan. 
+	As for the differences in their views on exploration, Asbestos claims that she's just 'in it for the excitement.' While it is true that when we mention explorers, we often have an impression of them as being pioneers, trailblazers, delvers into the unknown, or torchbearers for those who come after them, etc., none of these are substantively different. 
+	'Opening the way for those in the future' is generally the result rather than the cause. For example, while Magallan has always wanted to be an explorer, that desire fundamentally stems from her longing for the frozen tundra. Rather, those who try to act out of one of these clichéd ideals of righteousness usually end up giving up halfway through. 
+	From the footprints that Asbestos has left and the records she has taken, there is no doubt that she is an excellent explorer.
+
+	파일 자료 2 :
+	본인은 인정하지 않지만, 아스베스토스는 명실상부한 탐험가다.
+	 물론 그녀는 마젤란과는 다르다. 마젤란의 예를 들자면, 그녀의 염원은 비록 빙원을 탐사하는 것이라곤 하지만, 라인 랩에 고용되어 있기에 탐사로 얻은 결과물 중 가장 핵심적인 내용의 일부분은 라인 랩의 소유가 될 것임이 분명하며, 그녀의 탐사는 보다 계획적이고 체계적이라는 특징이 있다.
+	 하지만 아스베스토스의 탐사는, 완전히 그녀가 내키는 대로 진행된다. 누구에게 받은 요청이나 지원도 없이 그녀는 자기 생각대로 움직이며, 자신이 보고 들은 것을 여행기로 작성하고 잡지에 기고한다.
+	 사실 이 세상에서 활동하는 거의 모든 탐험가들은 마젤란처럼 회사나 국가를 배경으로 두기에, 아스베스토스처럼 아무런 배경이 없는 탐험가는 굉장히 드물다. 현실적으로, 이 세상을 돌아다니는 데엔 용기뿐만 아니라 자금도 필요하기 때문이다.
+	 비록 아스베스토스는 자신의 출신을 밝히고 싶어하지 않고 있지만, 분명 평범한 출신은 아닐 것이다. 그리고 그런 그녀가 어째서 홀로 활동하는 탐험가가 되었는지에 관해 로도스 아일랜드는 깊이 따지지 않을 것이다. 아스베스토스와 마젤란의 가장 눈에 띄는 차이점은, 바로 이러한 특징이다.
+	 그녀 본인이 "단지 자극을 위해서" 라고 언급한 탐험에 대한 인식은, 우리가 탐험가를 언급할 때 종종 떠올리는 개척자나 선구자, 미지의 존재를 탐사하는 것과 같은 인상과는 확연한 차이가 있어 보이지만, 사실 별다른 차이가 있는 게 아니다
+	 '후세 사람을 위해 길을 연다'는 것은 보통 원인이 아닌 결과에 해당한다. 예를 들어 마젤란도 분명 그런 생각을 하지만, 그녀가 사물의 근본을 탐구하는 것이나 탐험가가 된 이유는 빙원에 대한 동경 때문이었으며, 오히려 대의 같은 것을 위해 움직이는 사람이 종종 중도에서 그만두는 경우가 더 많다. 아스베스토스가 각지에 남긴 족적과 기록으로 미루어 볼 때, 그녀는 의심의 여지가 없는, 뛰어난 탐험가다.
+
+———————————————————————————————
+
+	档案资料三 :
+	和大部分性格孤僻或者对人际关系较为苦恼的干员不同，从石棉的日常言行判断，首先，她明显知道该怎么去做好一件事，其次，她完全知道该如何友好与人相处。
+	她只是不愿意这么去做。
+	她丝毫不介意做出让人讨厌她的行为，甚至如果让她知道这样会使你讨厌她，她会十分乐意去做。她知道真正疏远他人的方法不是粗暴地拒绝，而是小心地回避，或者冷淡地回应。
+	与其说她不懂人际关系，不如说她把人际关系看得太透彻，她是在认清这一切后才选择不去维护这一方面。
+	她和麦哲伦一样，都知道该如何去忍受孤独，但不同的是，支撑麦哲伦行动的一大动力，正是有人在等待她。而石棉不需要这样的动力，并且她不是想用这样的方式来掩盖什么，她只是学会了从其他事物中汲取能量。
+	也难怪有不少干员会觉得她很酷。因为她愿意承受自己的选择带来的代价。
+	虽然在本人不愿意的情况下我们无法得知她经历过什么，但从结果来说，她主动去成为了一个自己口中的“混账东西”，并且似乎打算继续下去直到自己的生命迎来终结。
+	我们无法评判她的生活方式是否正确，也并不期望她的改变，只不过，站在罗德岛的立场上，总是希望干员愿意信任我们，从这个角度来说，石棉可能是最难处理的一个干员。
+	不过，在博士坚持不懈的努力下，如今的她，至少愿意将罗德岛视作自己背后的公司了，也算是有所进展吧。
+
+	第三資料 :
+	アスベストスの言動を見ていると、彼女が円滑に仕事をこなし、その気になれば他人ともうまくやっていける人物だということがわかる。彼女は偏屈な性格なわけでも、コミュニケーションが不得意なわけでもない。
+	ただ、本人にその気がないだけだ。
+	彼女は平気で人が嫌がる行為をし、意図的に人に嫌われるようにしているように見受けられることすらある。乱暴に他人を拒むのではなく、慎重に人を避け、冷たい返事で拒絶する。彼女は人から距離を置かれるための方法をよく知っているのである。
+	これはつまり、彼女が人間関係をより深く理解しているということだ。彼女はその上で、他人と上っ面だけの関係を維持したくないと考えている。
+	彼女はマゼランと同じように、孤独に耐えるすべを知っている。しかしマゼランの帰りを待つ者はいるが、アスベストスにはいない。彼女は誰かの「支え」を必要としないのだ。きっと他の方法で、自らを鼓舞しているのだろう。
+	このように見ると、多くのオペレーターがアスベストスをカッコいいと思うのも不思議ではない。彼女は自身の選択による結果を、その身一つで受け止められるからだ。
+	本人が語らぬため彼女の経歴を知るすべはないが、曰く、彼女は一人の「ろくでもねーやつ」になり、「ろくでもねーやつ」のまま人生を終えるつもりだそうだ。
+	我々に彼女の生き様を評価することはできないし、その生き方を変えてほしいとも思わない。ただ、我々ロドスは、常にオペレーターからの信頼を必要としている。この観点で判断するならば、アスベストスは最も厄介な人物かもしれない。
+	とはいえドクターの絶え間ない努力により、彼女は現在、ロドスを自分の支持者として見ている。それは、一つの進展と言えるだろう。
+
+	Archive File 3 :
+	Unlike most operators who are introverted or have trouble managing their interpersonal relationships, we can determine two things from Asbestos's interactions with others: First, she knows how to see a task through to its completion, and second, she knows exactly how to get along with people. 
+	It's just that she doesn't want to do it. 
+	She doesn't care if she acts in a way that makes others hate her. As a matter of fact, she even revels in that animus, especially when people say it to her face. She understands that the true way to alienate others is not to rudely refuse, but rather to be calculatingly evasive, or to be ambivalent. 
+	Rather than saying she doesn't understand interpersonal relationships, it's more accurate to say that she sees them far too thoroughly and hasn't chosen not to maintain certain norms after recognizing all of this. 
+	Like Magallan, she knows how to endure loneliness, but a major difference is, one of Magallan's greatest motivating factors is the fact that someone is waiting for her. Asbestos, however, has no need for such motivation, nor is she trying to compensate for that with something else. She simply has learned to draw her motivation from other things. 
+	It's little wonder that some operators think she's very cool. She's willing to bear the consequences of her decisions, alone. 
+	Even though we have no way of finding out about her past without her cooperation, based upon the result, she claims to actively want to be a 'jerk' that antagonizes everyone, and is intent on staying that way until the end of her life. 
+	It is not for us to judge whether her lifestyle is correct, nor do we expect her to change. However, from Rhodes Island's standpoint, we always hope that operators will be able to trust us. In this respect, Asbestos may be one of the most difficult operators we've ever dealt with. 
+	However, thanks to the Doctor's persistent efforts, Asbestos is now willing to recognize Rhodes Island as the company behind her, and she has made respectable progress.
+
+	파일 자료 3 :
+	아스베스토스의 일상적인 언행으로 미뤄보아, 그녀는 성격이 괴팍하거나 대인 관계에 대해 고민하는 대부분의 오퍼레이터와는 다르다는 점을 알 수 있다. 일단, 그녀는 어떻게 해야 무언가를 잘하는지 잘 알고 있으며, 게다가 어떻게 해야 사이좋게 지낼 수 있는지도 잘 알고 있기 때문이다. 아스베스토스는 단지 그렇게 하고 싶지 않은 것뿐이다.
+	 그녀는 타인이 그녀를 싫어하게 만드는 행동을 하는데 거리낌이 없으며, 상대방에 따라 어떠한 특정 행동이 그녀를 싫어하게 만든다는 것을 알게 된다면, 그녀는 즐거운 마음으로 상대가 싫어하는 짓을 한다.
+	 그녀는 타인과 소원해지는 진짜 방법은 거친 거절이 아니라 조심스러운 회피나 냉담한 반응이라는 것을 알고 있다. 엄밀히 말하자면, 아스베스토스는 인간관계에 대해 잘 모르는 게 아니라, 인간관계를 너무 철저하게 관리하는 것이라 해야 한다. 그녀는 이 모든 것들을 확실히 알고 있기에, 인간관계를 지키지 않는 선택을 할 수 있는 것이니 말이다.
+	 아스베스토스는 마젤란처럼 외로움을 견디는 방법을 알고 있다. 다른 점이 있다면 마젤란을 지탱하는 원동력은 누군가가 그녀를 기다리고 있다는 점이지만, 아스베스토스에게 그런 원동력은 필요하지 않으며, 그런 방법으로 무언가를 덮으려 하기보다는 다른 것에서 에너지를 얻는 방법을 배웠다는 점이다.
+	 본인이 말해주길 원하지 않는다면, 우리로선 아스베스토스가 과거에 어떤 일을 겪었는지 알 수 없다. 그러니 결론을 내리자면, 그녀는 스스로 말하는 '못난 녀석'이 되어 삶이 끝날 때까지 그렇게 살아갈 것으로 보인다.
+	 우리는 아스베스토스의 생활 방식에 대해 옳고 그름을 평가할 수 없고, 그녀가 변하길 바랄 수도 없다. 다만 로도스 아일랜드의 입장에서는 오퍼레이터가 우리를 신뢰해주길 바랄 수밖에 없기에, 이런 점에서 아스베스토스는 가장 대하기 어려운 오퍼레이터가 되었다.
+	 하지만 박사의 꾸준한 노력 덕에, 현재 그녀는 적어도 로도스 아일랜드를 자신의 후견 회사로 간주하려고는 있다고 하니, 어느 정도는 진전이 있었다 할 수 있겠다.
+
+———————————————————————————————
+
+	档案资料四 :
+	根据石棉本人的描述，她的矿石病是在某次深入矿石多生地带时感染的。
+	在明知有可能感染的情况下深入并最终染病，从任何角度来看都只能作出自作自受的评价。但正如上一条档案所说，石棉强大的地方在于她总是能为自己的选择承担代价，她甚至坦然接受了这一点，令人完全没有办法去指责她。
+	当然，探险家的生活也为她的选择提供了某种意义上的便利，毕竟原本她的生活中除了补充物资就极少与人接触。
+	由于石棉的我行我素确实没有影响到其他人，最大的受害者可能是试图与她建立起良好关系的博士以及部分干员，因此，罗德岛也将贯彻不干涉干员私生活的一贯方针。
+	但很显然，正如她对自己生活方式的有所坚持一样，罗德岛也有自己的坚持——我们是绝不会让她如她所愿地死去的。
+
+	第四資料 :
+	アスベストスによると、彼女は源石の多い地帯を探検した際に感染したらしい。
+	感染の危険性があると知りつつ、その地域を探検する行為は、誰がどう見ても自業自得であると言えるが、前資料にも記載した通り、彼女の強みは自分の選択がもたらす結果を受け入れられることだ。彼女が感染した事実を潔く受け入れた以上、彼女を責めようとする者はいないだろう。
+	探検家は、物資の補給を行う際以外は、他人と接触しなくても生活できる。
+	アスベストスのマイペースさは、ここまでの記載の通り他人に影響を与えることがないため、彼女との良好な関係を築きたいドクターと一部のオペレーターからすれば厄介な障害ではあるが、それでも、ロドスがオペレーターの私生活に干渉しないという方針は変わらない。
+	ただ彼女が彼女なりの生き様を主張しているように、ロドスもロドスなりの主張を持っている。我々は、彼女の望み通りに彼女を死なせることはないだろう。
+
+	Archive File 4 :
+	Based upon her own account, Asbestos contracted Oripathy when she went too far into an Originium-rich zone. 
+	Given that the possibility of infection through prolonged exposure to Originium is well known, the reality is that she knowingly put herself at risk. But, as mentioned in a previous file, Asbestos's great strength is that she can always accept the consequences for her decisions. Because she accepted this reality, there is no way to really blame her. 
+	Of course, the life of an explorer also facilitates her liberties in a certain sense. After all, she has very little contact with people except for those needed to refill her supplies. 
+	Because Asbestos's autonomy does not infringe upon other people, the biggest victims are probably the Doctor and certain operators who are trying to establish a good relationship with her. Therefore, Rhodes Island will continue to uphold its consistent policy of not interfering with the private lives of its operators. 
+	But even if that is the case, just as she insists on living life her own way, Rhodes Island also has something it insists on - we will never let her die as she wishes.
+
+	파일 자료 4 :
+	아스베스토스 본인의 말에 따르면, 그녀의 광석병은 과거 오리지늄이 많이 생겨난 지역에 깊이 들어갔을 때 감염된 것이라 한다. 감염 가능성을 알면서도 들어가 결국 감염되었으니 자업자득이라는 평을 듣는 것도 어쩌면 당연하겠지만, 이전 문서에서 언급했다시피 아스베스토스의 강점은 언제나 자신의 선택에 대한 대가를 감당하며, 그 대가를 태연히 받아들인다는 점이므로, 아무도 그녀를 비난할 수는 없을 것이다.
+	 물론 탐험가로 사는 게 그녀가 선택한 삶에 도움이 된 부분도 많긴 하지만, 원래부터 그녀와 접촉할 수 있는 사람들은 물자를 보충할 때 접촉하는 극소수의 사람들밖에 없었다.
+	 이러한 아스베스토스의 '마이웨이'식 태도는 다른 사람에게 영향을 주지 않으며, 그런 그녀의 행동으로 인한 가장 큰 피해자는 그녀와 좋은 관계를 맺으려는 박사와 일부 오퍼레이터 정도일 것이기에, 로도스 아일랜드는 오퍼레이터의 사생활에 간섭하지 않는다는 방침을 관철할 것이다.
+	 하지만 분명한 점은, 그녀가 자신의 생활 방식을 고집하는 것처럼, 로도스 아일랜드 역시 로도스 아일랜드만의 고집이 있다는 점이다. 우리는 절대 그녀가 원하는 대로 죽게 놔두지 않을 것이다.

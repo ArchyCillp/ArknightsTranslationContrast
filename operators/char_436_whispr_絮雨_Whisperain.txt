@@ -1,11 +1,17 @@
 ID:
 	char_436_whispr
 
-干员代号\Name:
+CV:
 	絮雨
 	ウィスパーレイン
 	Whisperain
 	위스퍼레인
+
+干员代号\Name:
+	后藤沙绪里
+	後藤沙緒里
+	Saori Goto
+	고토 사오리
 
 招聘合同\Character Usage:
 	巡游医师絮雨，温柔与孤独同行。
@@ -43,177 +49,430 @@ ID:
 	통각 억제
 
 语音\Voices:
-	这些报告都请交给我吧，处理文字相关的工作，会很开心......
 	このレポートは全て任せてください。文字と関わる仕事ができるのは、嬉しいですから……
 	Please, leave all these reports to me. Being able to handle text-related work makes me very happy...
 	이 보고서는 전부 맡겨 주세요. 문자와 관련된 일을 할 수 있다는 건 기쁘니까요……
 
-	我刚才拒绝那个叫铃兰的孩子，是不是不太好？但是她说，要和大家一起喝茶，我真的不太擅长应对这种事情。
 	さっきあのスズランという子の誘いを断ったのは、まずかったでしょうか？みんなでお茶とか、そういうのは本当に苦手で……
 	I wonder if I shouldn't have turned that Suzuran girl down just now?  But she said I'd be drinking tea with everyone, and I'm not too good with those sorts of things.
 	아까 그 스즈란이라는 아이의 권유를 거절한 건, 좋지 않았을까요? 다 같이 차를 마시거나, 그런 일은 정말 서툴러서……
 
-	我的身体，比大多数人更脆弱。我会轻易死去，遗忘过去的一切，然后作为幼体迎来新生。“返老还童”......这是一种多么残酷的命运啊......
 	私の身体は、大半の人よりも虚弱なのです。いとも容易く死に、過去を全て忘れ、幼体となり新たな生を迎える。「若返り」……なんて残酷な運命なのでしょう……
 	My body is more frail than most others.  I may easily die, forget all that happened, then come to be young, and born anew.  'Rejuvenation'... what a cruel fate it is...
 	제 몸은 대부분의 사람보다도 병약합니다. 무척 쉽게 죽고, 과거를 전부 잊어버리고, 유체가 되어, 새로운 생을 맞이하죠. '회춘'이라니…… 이 얼마나 잔혹한 운명인가요……
 
-	所有的回忆最后都会变成泡沫。不管是痛苦的还是喜悦的，那些不想忘记的过去，总会悄然从我身边逃离。
 	どんな記憶も、最後には泡となって消えます。苦しみも喜びも、忘れたくない過去も、いつの間にか私から抜け落ちていくのです。
 	All memories become foam on the waves in the end. Whether suffering, happiness, inevitably, quietly, pasts I do not want to forget will shed themselves from my side.
 	어떤 기억도, 마지막에는 거품이 되어 사라집니다. 고통도 기쁨도 잊고 싶지 않은 과거도, 어느샌가 제게서 빠져나가 버린답니다.
 
-	虽然已经不记得了，但有些东西仍然流淌在我的血液里。小心大海，博士，那是会将我们都吞噬的漆黑噩梦，那是......恐惧本身。
 	よく覚えてはいませんが、いまだに私の血の中を流れているものがあります。海には気をつけてください、ドクター。あれは私たちを呑み込む黒き悪夢……恐怖そのものです。
 	I no longer can remember it, but there is still something flowing within my blood.  Be careful of the sea, Doctor. It is capable of devouring us all, a stygian nightmare. It is... fear itself.
 	잘 기억나진 않지만, 아직도 제 핏속을 흐르는 것이 있습니다. 바다를 조심하세요, 박사님. 그건 우리를 집어삼키는 검은 악몽…… 공포 그 자체입니다.
 
-	有时我会好奇，像华法琳小姐那样真正的长生种族，是怎样看待生死与别离。如果已经不会因此而痛苦，是不是只是因为早已痛到习惯，痛到麻木了呢？
 	時々興味が湧くのですが、ワルファリンさんのように本物の不老不死である種族の方は、生死と別れをどんな風に考えているのでしょうか。それらを思い悩み苦しむことがないのは、ただ苦しみに慣れ、麻痺してしまったからではないでしょうか？
 	There are times I become curious. For races with true longevity like Miss Warfarin's, how do they view death and parting?  If such things no longer cause them to suffer, is it only because they long since hurt, until they were used to it... until they were numbed?
 	가끔 흥미가 생깁니다만, 와파린 씨처럼 진짜 불로불사의 종족이신 분은 생사와 이별을 어떻게 생각하고 계실까요? 그것들을 생각하고 괴로워하며 고통받는 일이 없는 건, 그저 고통에 익숙해지고 마비되어버려서 그런 건 아닐까요?
 
-	博士，能帮我把这些花，送给那些在治疗的孩子们吗？还像之前一样，就放在他们的床头。......谢谢你，愿意一直帮我保守秘密。
 	ドクター、この花を、治療を受けてるあの子供たちに渡してくれますか？ええ、いつものように、ベッドの横に。……ありがとう、ずっと秘密を守ってくださって。
 	Doctor, could you take these flowers to the children being treated, for me? Yes, just like always, place them by their bedsides.  ...Thank you, for helping keep this secret.
 	박사님, 이 꽃을, 치료를 받는 저 아이들에게 전해 주시겠습니까? 네, 언제나처럼 침대 옆에…… 감사합니다, 계속 비밀을 지켜주셔서.
 
-	博士，不好了，我们快去找可露希尔小姐！棘刺先生他们好像把走廊上的水管炸开了，温蒂现在正在发火！我身上也湿透了......欸，什么，我看起来很开心？怎么会呢！
 	ドクター、大変です、早くクロージャさんを呼びに行きましょう！ソーンズさんたちが廊下の水道管を爆破してしまったみたいで、ウィーディさんがものすごく怒っています！私もこの通りずぶ濡れです……え、私が楽しそうに見える？そ、そんなこと……
 	Doctor, come quickly, we need to find Miss Closure! It seems Mr. Thorns and his companions burst a water pipe open in the corridor, and it's provoked Weedy's interminable wrath!  I'm soaked to the skin... Um, I seem—like I'm enjoying myself? Wh-What do you mean?!
 	박사님, 큰일입니다. 빨리 클로저 씨를 부르러 가죠! 쏜즈 씨 일행이 복도의 수도관을 폭파시켜 위디 씨가 매우 화가 나 있습니다! 저도 이렇게 흠뻑 젖었습니다…… 네? 제가 즐거워 보인다고요? 그, 그렇지는……
 
-	每看过一场电影，我都会将票根存下。就算已经将内容都忘记，这些残留的痕迹，也会一直提醒我。......博士，可以和我一起看一场电影吗？我也想要，留存下和你一起度过的时间。
 	映画を観る度に、残った半券を保存するようにしています。映画の内容を覚えていなくても、その残された痕跡が、私に教えてくれるんです。……ドクター、一緒に映画を観てくれますか？あなたと過ごした時間も、保存しておきたいんです。
 	Every time I watch a film, I'll keep the ticket stub afterwards. Even if I've forgotten all its contents, these leftover vestiges will always serve as a reminder to me.  ...Doctor, could you come watch a film with me? I'd like to preserve the time I've passed with you, too.
 	영화를 볼 때마다, 남은 영화표의 반쪽을 보존하고 있습니다. 영화 내용을 기억하고 있지 않아도, 그 남겨진 흔적이 저에게 알려주니까요…… 박사님, 같이 영화를 봐주시겠어요? 당신과 보낸 시간도 보존해 두고 싶어요.
 
-	请睡吧。呵呵，等到你醒来，会不会就此将我忘记？
 	安らかに眠りなさい。ふふ、目が覚めた時、私のことは忘れているでしょうか？
 	Sleep sound, now. *chuckle* By the time you wake, will you have forgotten about me?
 	편히 주무세요. 후후…… 눈을 떴을 때, 저는 잊혀져 있을까요?
 
-	我的代号是絮雨，不过是一介巡游医师。如果可以的话，就将我当做在屋檐下避雨的旅人吧，请不要太在意我的事......
 	私のコードネームはウィスパーレイン、一介の放浪医師です。もしよろしければ、私のことは同じ屋根の下で雨宿りをしているだけの旅人だと思って、お気になさらず……
 	My code name is Whisperain—but I'm a mere roving doctor. If possible, treat me like a traveler lodging under the eaves, away from the rain. You needn't pay me much mind...
 	제 코드네임은 위스퍼레인, 일개 떠돌이 의사입니다. 혹시 괜찮으시다면, 저를 지붕 밑에서 비를 피하고 있는 여행자라고 생각하시고, 신경 쓰지 마세요……
 
-	这样激烈的战斗，我恐怕......没办法活下来。
 	このように激しい戦いでは、恐らく……私は生き残れませんね。
 	In the face of such fierce combat, I worry... I wouldn't survive.
 	이렇게 격렬한 싸움에선, 아마…… 저는 살아남을 수 없겠죠.
 
-	谢谢。但还是像之前一样就好......
 	ありがとうございます。ですが、今まで通りで大丈夫です……
-	Thank you very much. But I hope you treat me same as always…
+	Thank you very much. But I hope you treat me same as always...
 	감사합니다. 하지만, 이대로 괜찮습니다……
 
-	那些无法因一次死亡而清算的悲伤，总是像丝丝缕缕的线，缠绕在我的肌肤上......博士，也曾忘记过去的你，是否能明白这份心情？
 	一度の死では洗い流せない悲しみが、無数の糸のように私の肌に纏わりついている気がするんです……ドクター、過去の記憶を失ったことのあるあなたなら、この気持ちをわかってくれますか？
 	Those sorrows I could not wash away with one death—I always feel they're like strands, wisps, winding about my skin... Doctor, you've come to forget the past too—could you maybe understand this feeling?
 	한 번의 죽음으로는 씻어낼 수 없는 슬픔이 수많은 실처럼 제 피부에 휘감겨 있는 기분이 들어요…… 박사님, 과거의 기억을 잃은 적이 있는 당신이라면, 이 기분을 이해하실까요?
 
-	支援工作的话，就请交给我。
 	支援の仕事は任せてください。
 	Please leave the assistive work to me.
 	지원 업무는 맡겨 주세요.
 
-	我来......当队长？欸？
 	私が隊長……ですか？ええ？
 	I'm the... leader? Um?
 	제가 팀장…인가요? 네?
 
-	请跟紧我，不要离得太远。
 	しっかりついてきてください。あまり離れないで。
 	Please keep with me. Don't go too far.
 	잘 따라와 주세요. 너무 떨어지지 마세요.
 
-	请各位小心，一定要保护好自己。
 	皆さん、気をつけてください。自己防衛に気を配って。
 	Please, everyone, be careful. You must keep yourselves safe.
 	다들 조심해 주세요. 자기방어에 신경 쓰세요.
 
-	好的。
 	はい。
 	Yes.
 	네.
 
-	准备好注射了。
 	注射の準備ができました。
 	Injections have been prepared.
 	주사 준비가 끝났습니다.
 
-	受伤的人请到我这儿来。
 	負傷者はこちらに。
 	Wounded, over to me, please.
 	부상자는 이쪽으로.
 
-	让我来消除痛苦。
 	私が痛みを消し去ります。
 	Let me dispel the pain.
 	제가 아픔을 없애 드릴게요.
 
-	请先消毒。
 	まずは消毒から。
 	Disinfection comes first.
 	우선은 소독부터.
 
-	不要害怕。
 	怖がらないで。
 	Do not be afraid.
 	무서워하지 마세요.
 
-	我的治疗是不会痛的。
 	私の治療は痛くありませんよ。
 	My treatment will not hurt.
 	제 치료는 아프지 않아요.
 
-	我熟悉这死亡的气息。
 	この死のにおい、よく知っています。
 	I know this scent of death well.
 	이 죽음의 냄새, 잘 알고 있습니다.
 
-	睡吧。愿所有人都能在雨声里做个好梦。
 	眠りなさい。全ての人が雨音に包まれ、美しい夢を見られますように。
 	Sleep, now. May all dream well in the sound of rainfall.
 	잠드세요. 모든 사람이 빗소리에 둘러싸여, 아름다운 꿈을 꿀 수 있기를.
 
-	这就是他们故事的结局，一个又一个悲剧......
 	これが彼らの物語の結末、悲劇の繰り返し……
 	This is how their story ends. One tragedy, following another...
 	이것이 그들의 이야기의 결말…… 비극의 반복……
 
-	请稍后再追击，让我先替大家治疗。
 	追撃は後にしましょう、まずは皆さんの治療をさせてください。
 	Leave the pursuit for later. Please let me treat everyone first.
 	추격은 나중에 하죠. 우선은 여러분을 치료하게 해주세요.
 
-	对不起，都怪我拖累了大家......
 	ごめんなさい、私が皆さんの足手まといに……
 	I'm sorry, I've been such a burden on everyone...
 	죄송합니다, 제가 여러분의 짐이 되었네요……
 
-	这里很安静，我能听到雨的声音。
 	ここはとても静かです。雨の音が聞こえます。
 	Such a peaceful place this is. I can hear the patter of rainfall.
 	여기는 무척 조용합니다. 빗소리가 들립니다.
 
-	欸？吓、吓了我一跳......
 	えっ？び、びっくりしました……
 	Eh?  Y... you startled me...
 	엣? 까, 깜짝 놀랐습니다……
 
-	请、请不要动！头发缠住了......
 	う、動かないでください！髪が絡みついてしまいました……
 	P—please don't move! My hair's gotten tangled...
 	우, 움직이지 마세요! 머리카락이 엉켜버렸습니다……
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	今天要做些什么呢，博士？
 	今日は何をしましょうか、ドクター？
 	What will we be doing today, Doctor?
 	오늘은 무엇을 할까요, 박사님?
+
+干员档案\Background:
+	基础档案 :
+	【代号】絮雨
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】伊比利亚
+	【生日】3月6日
+	【种族】阿戈尔
+	【身高】169cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ウィスパーレイン
+	【性別】女
+	【戦闘経験】なし
+	【出身地】イベリア
+	【誕生日】3月6日
+	【種族】エーギル
+	【身長】169cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Whisperain
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Iberia
+	[Date of Birth] Mar 3
+	[Race]Ægir
+	[Height] 169cm
+	[Infection Status] Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 위스퍼레인
+	[성별] 여
+	[전투 경험] 없음
+	[출신지] 이베리아
+	[생일] 3월 6일
+	[종족] 에기르
+	[신장] 169cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】普通
+	【生理耐受】缺陷
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】欠落
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Normal
+	[Physical Resilience] Flawed
+	[Tactical Acumen] Standard
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 부족
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	伊比利亚出身的巡游医生絮雨，很少于同一地点长期停留，在卡西米尔与萨米等地区均有留下行动记录。为遇见的伤患治疗似乎只是顺手而为，在她似乎漫无目的的旅途之中，被救治的伤者绝不在少数。
+	因其偶遇并救治了一队任务中的罗德岛干员，现作为随行医师临时加入医疗部，短期内与罗德岛同行。
+
+	個人履歴 :
+	イベリア出身の放浪医師であるウィスパーレインは、めったに同じ場所に長期滞在しない。カジミエーシュやサーミにも活動記録が確認された。出会った患者に治療を施すのはどうやら物のついでにすぎないらしいが、その長く目的地が見えそうにない旅路の中で、救われた者は決して少なくなかった。
+	偶然任務中のロドスオペレーターに出会い、救助したため、現在は随行医師として医療部に臨時加入し、一時的にロドスと行動を共にしている。
+
+	Profile :
+	The Iberia-born roving doctor, Whisperain, never stays in one place for too long. Records of her work in the area remain all throughout Kazimierz, Sami and the like. Her patients appear to have received treatment from her while she passed by, and in her seemingly aimless wandering, she's rescued more than a few from the brink.  
+	Since she administered treatment to a mid-mission team of Operators met by chance, she is now an ad hoc member of the Medical Department as an accompanying doctor, journeying together with Rhodes Island for the short-term.
+
+	프로필 :
+	    이베리아 출신의 방랑 의사인 위스퍼레인은 한 지역에 오래 머무는 경우가 매우 드물며, 카시미어와 사미 등지에 그 행적에 대한 기록이 남아있다. 그녀는 만나는 환자마다 겸사겸사 치료해주는데, 적지 않은 환자가 그녀의 목적 없는 여행을 통해 치료 받았다.
+	    우연히 임무 수행 중인 로도스 아일랜드 오퍼레이터를 만나 치료해준 그녀는 현재 수행 의사로서 임시로 의료부에 합류, 당분간 로도스 아일랜드와 함께하게 되었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员絮雨没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.10u/L
+	干员絮雨对自身的防护非常仔细并且严格，甚少接触源石及相关制品。
+	
+	怎么回事？她的身体怎么弱成这样......别说矿石病了，没准发场高烧都会要了她的命！哎，像她这样的体质，就不该一直在外面乱跑啊。
+	——华法琳
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	ウィスパーレインに鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.10u/L
+	ウィスパーレインは自身への防護を丁寧かつ厳格に行っており、源石及び関連製品への接触は非常に少ない。
+	
+	どういうことだ？なぜこうも身体が脆く……鉱石病どころか、高熱一つで命取りになりかねんぞ！はぁ、このような体質、とても外を走り回れるものではないな。
+	――ワルファリン
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Whisperain shows no signs of Originium infection. 
+	
+	[Blood Originium-Crystal Density] 0.10u/L
+	Operator Whisperain is exceptionally attentive—even rigorous—in defending herself, and rarely comes into contact with Originium or related products. 
+	
+	What's going on here? How could her body become so frail...? Never mind Oripathy, even a bad fever could cost her her life! Ugh, with her constitution, she had no business running amok outside all this time.   
+	—Warfarin
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	 
+	
+	[혈중 오리지늄 결정 밀도] 0.10u/L
+	오퍼레이터 위스퍼레인은 평소 매우 세심하고 엄격한 방호 조치를 취했으며, 오리지늄 및 관련 제품에 대한 접촉 빈도가 매우 낮다.
+	
+	    어떻게 된 것이냐? 몸이 이렇게나 약해서야…… 광석병은 말할 것도 없고, 어쩌면 고열만으로도 목숨을 잃을 지도 모르겠구나! 나 참, 이런 체질의 사람들은 계속 밖에서 활동하면 안 된다고!
+	——와파린
+
+———————————————————————————————
+
+	档案资料一 :
+	正如絮雨小姐说的那样，她是一位偶然与罗德岛相遇的旅人，在顺手救助了罗德岛的干员后，因所乘的沙地车突发故障而被困在荒地中央。罗德岛舰船接收到了求救信号，于是前往将其救起。
+	作为巡游医师的絮雨小姐并没有特定的目标地点，她无疑具备较高的医疗水平，尤其是在针对各种紧急状况的急救方面颇有造诣。在考虑了絮雨小姐的情况后，我们向其发出邀请。罗德岛不会限制她的去留，但如果本人有相关意向，可以在决定离开之前，作为医疗干员暂时与罗德岛共同行动。
+	犹豫了数日之后，絮雨小姐接受了我们的提议。
+
+	第一資料 :
+	ウィスパーレインが話した通り、偶然ロドスに出会っただけの旅人である。物のついでにロドスのオペレーターを救助した後、搭乗していた砂地用車の突然の故障で荒野のど真ん中で遭難してしまい、救難信号をキャッチして現地に向かったロドス本艦に救出されたのである。
+	放浪医師であるウィスパーレインには特定の目的地はない。彼女の医療レベルの高さは疑いようがなく、特に様々な緊急事態における救急手段について非常に詳しい。本人の状況を考慮した上で、我々は彼女に同行要請をした。ロドスは彼女の去就に口は出さない。その代わりに、本人にその気があるのなら、出て行くまで医療オペレーターとしてロドスと行動を共にするのはどうだろうか、と。
+	数日の躊躇の後、ウィスパーレインは我々の提案を受け入れた。
+
+	Archive File 1 :
+	Just like Miss Whisperain said, she's a traveler who happened across Rhodes Island by chance. After aiding a few Rhodes Island operators, her dune buggy malfunctioned and left her stranded in the middle of the barrens. The Rhodes Island landship picked up on the distress signal, and so went to rescue her.  
+	As a traveling doctor, Miss Whisperain had no set destination at all. There was no doubt she fulfilled high standards as a Medic, with her expertise above all else being first aid in various emergency situations. Once we considered Miss Whisperain's circumstances, we sent her an invitation. Rhodes Island wouldn't restrict her staying or going, but if her own interests aligned, she could act as a provisional Medic Operator in joint with Rhodes Island's operations before she left.   
+	After several days of hesitation, Miss Whisperain accepted our proposal.
+
+	파일 자료 1 :
+	    위스퍼레인이 말한 것처럼, 그녀는 로도스 아일랜드와 우연히 함께하게 된 여행자다. 로도스 아일랜드의 오퍼레이터를 치료해 준 그녀는, 이후 타고 가던 오프로드 자동차가 갑작스레 고장이 나는 바람에 황무지 한가운데에서 조난을 당하게 되었고, 이때 구조 신호를 받은 로도스 아일랜드의 함선이 그녀를 구하기 위해 나선 것이다.
+	    특별한 목적지 없이 떠돌아다니는 떠돌이 의사인 위스퍼레인은 의심할 여지 없는 수준 높은 의료 실력을 갖추었으며, 특히 각종 긴급 상황에서의 응급 처치 방면에 조예가 상당히 깊다. 위스퍼레인에 대한 상황을 파악한 후 우리는 그녀를 초청하였고, 그녀의 거취를 제한하지 않을 것이며, 본인이 떠나고 싶은 순간이 오기 전까지 메딕 오퍼레이터로서 함께해 달라고 제안하였다.
+	    위스퍼레인은 며칠간 망설이다 결국 우리의 제안을 받아들였다.
+
+———————————————————————————————
+
+	档案资料二 :
+	医疗部门的例行身体检测结果表明，絮雨小姐的身体状况不佳，综合来看，并不适合作为巡游医师进行活动。
+	这个结论是完全客观的。体检报告的数值表明，絮雨小姐的各项身体指标皆低于健康人体的平均水准，其在免疫系统方面更是达到了一个需要被特殊关照的危险境地。尽管在大地上肆意蔓延，致使人人自危的矿石病尚未沾染这具脆弱的身体，但即便没有患上矿石病，絮雨小姐的身体素质也只能用脆弱来形容。
+	我们并不清楚絮雨小姐为何不选择寻找一处适合安身的城市安顿下来，而坚持要在大地上四处行走，频繁地更换住所。不论如何，在絮雨小姐暂居罗德岛的这段时间内，医疗部建议让其加入到舰内的医疗工作中，尽量减少不必要的外勤任务，以避免给絮雨小姐的身体增添负担。
+
+	第二資料 :
+	医療部門の定例検査の結果によれば、ウィスパーレインの身体状況は芳しくなく、総合的に見れば、放浪医師としての活動を行うには適していない。
+	この結論は完全に客観的なものだ。検査報告書の数値によれば、ウィスパーレインの各検査指標は全て健康的な人体のものより低く、免疫システムに至っては特別な看護を必要としているほどの危険な状態にある。この大地に蔓延り、人々を脅かす鉱石病はまだこのか弱い身体を侵してはいないが、たとえ鉱石病に感染していなくても、ウィスパーレインの身体状況は脆いの一言に尽きる。
+	なぜウィスパーレインが居住に適した都市を見つけて落ち着くことを選ばずに、この大地を放浪し、居住地を頻繁に変更しているかは、我々にはわからない。いずれにしても、彼女がロドスに一時滞在する間は、艦内の医療業務に従事してもらい、できるだけ不必要な外出任務を減らすことを医療部からは提案する。彼女の身体に負荷をかけることを避けるためである。
+
+	Archive File 2 :
+	The Medical Department's routine health inspections have made it clear that Miss Whisperain is not in good condition. In summary, she is in no way suited to activity as a traveling doctor. 
+	This verdict is completely objective. Her exam numbers show that every index of Miss Whisperain's health falls below average compared to any healthy person. Her immune system requires particular attention, having reached a dangerous state. Oripathy has not infected her frail body, despite its rampant spread across this world and all its people. Yet, frail is still the only word that appropriately describes Miss Whisperain's constitution.   
+	We're not sure why Miss Whisperain doesn't choose to settle down in a city suited to her, but rather continues to walk the world's four corners, never calling a single place home for long. Regardless, while Miss Whisperain lodges for the time being at Rhodes Island, the Medical Department has suggested she be a medical worker onboard the ship, minimizing unnecessary field missions and avoiding further burden on her body. 
+
+	파일 자료 2 :
+	    의료부의 정기 신체검사 결과, 위스퍼레인의 건강 상태는 좋지 않으며, 전반적으로 보았을 때 떠돌이 의사 활동에 적합하지 않은 상태인 것으로 나타났다.
+	    이는 완전히 객관적인 결론으로, 신체검사 보고서의 수치는 위스퍼레인의 각종 신체 지표가 평균적으로 건강한 신체의 것보다 낮고, 심지어 면역 계통 방면에서는 특별 관리가 필요할 정도로 위험한 지경에 다다른 것으로 확인되었다. 이 세상에 만연한 광석병이 아직 위스퍼레인의 연약한 몸을 감염시키진 않았으나, 광석병에 걸리지 않은 상태라 하더라도 그녀의 신체는 상당히 허약하다고 밖에 할 수 없다.
+	    우리로서는 위스퍼레인이 어째서 머물기 좋은 도시를 찾지 않고 방방곡곡을 돌아다니며 빈번히 거주지를 바꾸는지 알 길이 없었다. 어쨌든 의료부는 위스퍼레인이 로도스 아일랜드에 머무는 동안 그녀를 선내 의료 업무에 투입시켜 불필요한 외근 임무를 최소화시켜, 그녀의 신체에 부담을 주는 것을 피하자고 건의했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在社交场合，往往很少能够看到絮雨小姐的身影。这既与对方内向害羞的性格有关，同时也是因为絮雨小姐自身在有意识地避免与人交往。
+	对于一些干员的主动接触，絮雨小姐通常以回避作为回应。从她偶尔吐露出的带有淡淡遗憾和懊恼的只言片语，以及眼神中透出的挣扎与期盼就能够看出，絮雨小姐也并非真的天性冷淡，只是出于自身的一些缘由，才会选择离群索居，封闭自己不与人交流。
+	不过，这样的情况在其加入罗德岛一段时间之后，似乎有了一些好转的迹象。尽管巡游医师本人仍然在极力避免与其他干员有所牵扯，但罗德岛的干员中不乏热情洋溢之人，在舰船内的生活，似乎总是会发生种种将其意外牵连进其中的“事故”......受这些“事故”影响，现在的絮雨小姐比起最初加入时，可以说情绪已经外露丰富了许多，而在她的身旁，也逐渐多了几个总是出现的熟悉面孔。
+	虽然对这样的现状表现出了无奈与苦恼，但能够看出，絮雨小姐并不真心排斥这些发生在自己身边的，热闹的小意外。
+
+	第三資料 :
+	社交の場で、ウィスパーレインの姿を見かけることは滅多にない。本人が内向で恥ずかしがり屋な性格であることも関係しているが、何より彼女自身が意図的に人との関わりを避けるようにしているためだ。
+	一部のオペレーターからの積極的なコンタクトに対して、ウィスパーレインは基本的に避けるようにしている。時々吐露される淡い遺憾と後悔を浴びた細切れの言葉から、またその眼差しの中に見てとれる葛藤と期待から、彼女が生まれつき冷淡だというわけではないことが伺える。ただ何らかの理由があって、人々から遠ざかり、自分の心に閉じこもって、他人との関わりを絶っているのだろう。
+	だが、このような状況もロドスに加入してから、いい方向へと変わっているように見える。放浪医師本人は未だに他のオペレーターとの関わりを極力避けようとしているが、ロドスの中には情熱あふれる者も少なくないため、艦内での生活では、彼女をも巻き込むような意外性に満ちた「アクシデント」が頻繁に起こっているようだ……こうした「アクシデント」の影響で、今のウィスパーレインは当初に比べて、だいぶ感情を外に出すようになった。彼女の側にはよく共にいる、顔馴染みと言えるようなオペレーターも現れつつある。
+	このような現状に対して、仕方がない、困っている、という体をとっているものの、ウィスパーレインが実は、自身にまとわりつく賑やかな「アクシデント」を本心から嫌がっているわけではないことは、ありありと見てとれる。
+
+	Archive File 3 :
+	Miss Whisperain is hardly ever seen or heard of in social settings. This is not purely due to her reserved, shy nature— rather, she actively takes deliberate pains to avoid contact with others.  
+	In response to contact from gregarious operators, Miss Whisperain is typically evasive. From the faint sorrow and vexation in the little talk she makes, and the struggle and expectation seen behind her glasslike eyes, you can tell Miss Whisperain isn't distant by nature. There's just some innate reason she has, and so she chooses to be apart from the crowd, to close herself off from others.  
+	However, there seem to be signs of a turn for the better, in the time since she joined Rhodes Island. Though the roving doctor still avoided any involvement with others at all costs, Rhodes Island's cast of operators isn't short of warmth, and life aboard the ship always seemed to hide all kinds of 'accidents' to tie her up in... and after enough 'accidents,' we can say that our present Miss Whisperain lets much more of a rich array of moods show than the one that first joined us. And by her side, little by little, more familiar faces have started showing up.  
+	Though it perplexes her and she's helpless in the face of them, one can see that Miss Whisperain doesn't sincerely reject the bubbling, lively little mishaps that happen around her.
+
+	파일 자료 3 :
+	    사교장소에서 위스퍼레인의 모습을 보는 건 굉장히 드문 일이다. 이는 내성적이고 수줍음 많은 성격과도 관련이 있지만, 위스퍼레인 스스로가 의식적으로 사람들과의 교제를 피하기 때문이기도 하다.
+	    일부 오퍼레이터들이 먼저 다가오는 경우, 보통 위스퍼레인은 이들을 피하는 선택을 한다. 위스퍼레인이 가끔씩 털어놓는 아쉬움과 고통이 섞인 말들, 그리고 그녀의 감성 어린 눈빛을 통해 짐작건데, 그녀도 천성적으로 냉담한 성격이라기보다는, 그저 자신만의 어떤 이유로 교류를 단절하고 홀로 지내는 길을 선택한 것으로 보인다.
+	    하지만 이런 상황도 그녀가 로도스 아일랜드에 합류한 후부터 조금씩 호전되고 있는 기미가 보인다. 떠돌이 의사 본인은 여전히 다른 오퍼레이터와 인연을 맺는 것을 극구 피하고 있지만, 로도스 아일랜드의 오퍼레이터 중에는 열정이 넘치는 인물들도 매우 많고, 선내 생활을 하다 보면 종종 예상치 못한 '사고'에 휘말리기 마련이라…… 몇몇 '사고'의 영향을 받은 위스퍼레인은 처음 합류했을 때보다 훨씬 더 다양한 감정을 표현하고 있으며, 그녀 곁에도 점차 늘 함께하는 오퍼레이터들이 많아지고 있다.
+	    이런 상황에 대해 유감과 괴로움을 표하긴 하지만, 보다시피 위스퍼레인은 자신 주변에서 발생하는 작고 떠들썩한 사건사고들을 진심으로 배척하지는 않는다.
+
+———————————————————————————————
+
+	档案资料四 :
+	在平时的医疗工作之余，絮雨小姐选择将自己的闲暇时间，花在图书室和多媒体舱室。在众多安静的室内娱乐项目中，观影是絮雨小姐最为喜爱的活动之一，她在电影的鉴赏方面有极高的造诣。
+	絮雨小姐的鉴赏，并非像许多评论家那样，在观影时带有挑剔与评判，而是全身心地投入影片中，体会剧中人物的感情。多愁善感的巡游医师天生心思细腻而敏感，对他人情感极易共情，这种特质在其观影时更是展现得尤其突出。絮雨小姐时常能够在强烈的情绪影响下，写出精彩而深入的观影感想，这些影评在舰内广受好评，被许多喜爱电影的干员奉为观影指南。
+	每看过一场正规放映的影片，作为留念，絮雨小姐都会留下电影票的票根。这举动对于巡游医师本人来说似乎意义非凡，每一枚留下的票根，都代表一段她不想要遗忘的回忆。
+	
+	【权限记录】
+	除去较常人要脆弱的身体素质之外，经由其本人吐露，我们确认絮雨小姐属于阿戈尔族群中极为少见的一个分支，拥有非常特殊的体质。由于种族特性影响，这一支的阿戈尔人身体十分脆弱，在肉体无法忍耐环境或受到严重创伤时，将会重回幼体状态，遗失之前的记忆重新成长。 
+	在数次检查后，医疗部门最终得出这一结论，而这有些奇异的结果也正与絮雨小姐自己的坦白相吻合，她在话语中提及的“返老还童”，并非真正意义上的长生，而是指生物性地分化转移与退行。
+	正因为每一次“死亡”都会伴随着记忆的缺失，絮雨小姐开始畏惧于与人产生联系，害怕自己的死亡与遗忘会伤害到身边的人，这对于敏感的絮雨小姐来说，是难以承受的。
+
+	第四資料 :
+	ウィスパーレインは仕事の合間の時間を図書室やメディア室に使うことが多いようだ。数ある物静かな室内娯楽の中でも、映画鑑賞は彼女が最も好んでいる娯楽の一つである。彼女は映画鑑賞に対する造詣がかなり深い。
+	ウィスパーレインの映画鑑賞は、多くの批評家がそうであるように、鑑賞時に粗探しをしたり、評判を下したりするわけではない。代わりに、全身全霊を作品に浸して、作中人物の感情を味わうのである。感情豊かな放浪医師は、生まれつき繊細で鋭敏な感覚を有し、他者の感情への共感力が高いようだが、そのような特質は映画鑑賞時にも遺憾なく発揮される。彼女は強烈な感情のキャパシティのもと、素晴らしく味わい深い感想を執筆することが多いのだが、この映画レビューは艦内でとても好評で、多くの映画好きに映画鑑賞の参考とされている。
+	正規上映された映画を鑑賞するたびに、ウィスパーレインは記念として鑑賞券を残している。この習慣は放浪医師本人にとっては非常に大切なことらしく、保存されている鑑賞券一枚一枚が、彼女が忘れたくない記憶を物語っているだろう。
+	
+	【権限記録】
+	一般人よりも脆い身体であること以外、本人の説明により、我々はウィスパーレインがエーギルの中でも極めて珍しい一族に属し、非常に特殊な体質であることを確認した。種族特性の影響により、この一族のエーギル人は身体が非常に弱く、肉体が耐え切れない環境下に置かれた時、あるいは重傷を負った時、彼らの身体は幼体に退行し、以前の記憶を失ってもう一度成長する。
+	これが数回の検査を経て、最終的に医療部が至った結論である。この一見奇抜な結果はウィスパーレイン本人による告白とも一致している。彼女が述べる「若返り」は、真の意味での不老不死ではなく、生物学的な分化、転移と退行である。
+	「死亡」のたびに記憶の欠落を伴うからこそ、ウィスパーレインは人と繋がりを持つことを恐れるようになったのだろう。自らの死と忘却が周りの人を傷つけることは繊細なウィスパーレインにとっては、耐え難いの一言に尽きるのだ。
+
+	Archive File 4 :
+	Outside of medical work, Miss Whisperain spends most of her free time at the library or AV cabin. Among those quiet indoor amusements, moving pictures are her most beloved. Her expertise in film appreciation is nigh unparalleled.  
+	Her angle is nothing like a critic's, fussing and picking and passing judgment. Miss Whisperain throws herself whole into the film, learning a work's characters' emotions by firsthand experience. The sentimental roving doctor's natural heart is fine-woven and sensitive, highly empathetic towards others, and this becomes even more apparent when she's picture-watching. Miss Whisperain can often be influenced by strong emotions, writing out vivid, piercing impressions of what she watches, and these reviews have been well-received across the ship, esteemed by many movie-loving Operators as a viewer's guidebook.   
+	For each film she's seen at a regular screening, as a memoir, Miss Whisperain will hold onto the cinema ticket's stub. To the roving doctor, this act seems to hold a special kind of sense, each ticket stub representing some memory she doesn't want to forget.  
+	
+	[Classified Log]
+	Setting aside her innate frailty, by her own disclosure, we've ascertained that Miss Whisperain falls under a very rare branch of the Ægir, possessing an extraordinary constitution. Under the effect of the race's characteristics, this type of Ægirian is exceptionally frail. When the body is incapable of enduring its environment or has been gravely wounded, it will relapse to a young stage, losing its prior memories and maturing anew.  
+	After several examinations, the Medical Department arrived at a conclusion, and this rather strange conclusion seemed to fit with Miss Whisperain's own confessions. Her mentions of 'rejuvenation' during conversation were not truly in the sense of longevity, but referred to a biological differentiation, transformation and regression. 
+	It was precisely because memory loss accompanied each of her 'deaths' that Miss Whisperain began to dread forming connections with people, scared that her own deaths and their oblivions would come to harm the people around her. For the keenly sensitive Miss Whisperain, it's hard to bear.
+
+	파일 자료 4 :
+	    위스퍼레인은 평소 의료 업무 외의 여가시간을 도서실과 멀티미디어실에서 보낸다. 조용한 실내 오락거리 중 영화 관람은 위스퍼레인이 가장 좋아하는 활동 중 하나로, 그녀는 이 방면에 조예가 매우 깊다.
+	    위스퍼레인은 영화 감상 시 기타 전문 평론가들처럼 영화 자체에 대한 까다로운 평가를 하는 게 아니라, 영화에 몰입해 극중 인물의 감정을 이해하는 것에 중점을 두고 있다. 감성적인 떠돌이 의사는 그 천성이 세심하고 예민해 타인의 감정에 쉽게 공감하는데, 이런 점은 영화를 감상할 때 더욱 두드러진다. 위스퍼레인은 종종 강렬한 감정적 영향을 받을 때면 훌륭하고 깊이 있는 영화 감상평을 적었는데, 이 감상평은 선내에서 큰 호평을 받아 많은 영화 애호가 오퍼레이터들이 이를 영화 감상 가이드로써 활용하였다.
+	    정규 상영 영화를 보고 나면 위스퍼레인은 기념으로 영화표의 남은 반쪽을 보관한다. 이건 떠돌이 의사 본인에게 매우 큰 의미를 갖는 행위로써, 남겨둔 표 하나하나가 그녀의 잊고 싶지 않은 기억을 대표하는 것이다.
+	
+	[제한된 기록]
+	    평범한 사람보다 연약한 신체 조건 이외에, 우리는 위스퍼레인 본인의 설명을 통해 그녀가 굉장히 특수한 체질의, 에기르 종족 내에서도 극히 보기 드문 분파임을 확인할 수 있었다. 이 분파는 종족 특성의 영향을 받아 매우 연약한 신체를 타고 났으며, 신체가 환경을 견디지 못하거나 심각한 상처를 입은 경우, 어린 상태로 돌아가 기억을 잃은 채 다시 성장하게 된다.
+	    몇 차례의 검사 후 의료부는 한 가지 결론을 내리게 되는데, 이런 기이한 결과는 위스퍼레인의 진술과 일치하며, 그녀가 언급한 '회춘'은 통상적인 의미의 장수가 아니라, 생물학적 분화전이와 퇴행을 뜻한다.
+	    매 번 '죽음'을 겪을 때마다 동반되는 기억 상실 때문에 위스퍼레인은 사람들과 인연을 맺는 것, 그리고 자신의 죽음과 망각으로 인해 주변 사람들이 상처받는 것을 두려워하기 시작했다. 감정이 섬세한 위스퍼레인에게 있어, 이런 건 감당하기 힘든 일이리라.
+
+———————————————————————————————
+
+	晋升资料 :
+	因为害怕受到伤害，所以想要逃离，这是很正常的。
+	生物的本能注定我们天生畏惧伤痛，或许有人能够凭借意志克服这种恐惧，或许有人在磨难中对此早已麻木，但我们必须承认，害怕是正常的，逃离是正常的，这是无可指摘的。
+	只是，一味逃离能走到哪里，又有谁能真的从伤痛中逃脱？
+	好在，这里既有主动朝她伸手的人，也有让她愿意尝试踏出自己世界的人。
+	现在所欠缺的，或许只是一点勇气。
+
+	昇進資料 :
+	傷つくことを恐れて逃げ出したいと思うのは、何もおかしくはない。
+	生物としての本能として、我々は痛みを恐れる。意志の力をもってその恐怖に打ち勝つ者もいるのだろうし、数々の苦難の中で麻痺してしまった者もいるのだろう。そうであったとしても恐怖を覚えることも、逃げ出すことも、何一つおかしくはないし、責められるべきではない。それは認めなければならないことだ。
+	しかし、たとえひたすら逃げ続けたとして、行くあてなどあるのだろうか。それで本当に痛みから逃げ出せる者などいるのだろうか。
+	幸い、ここには彼女に手を差し伸べる者がいて、彼女に自分の世界から踏み出してみようと思わせる相手もいる。
+	今足りないのは、ほんの少しの勇気だけかもしれない。
+
+	Promotion File :
+	To want to flee for fear of harm is a very normal thing. 
+	Our biological instincts bind us to innately fear pain. Perhaps there are people with the willpower to overcome these fears, or perhaps there are people long numbed to them through all their torment, but we must recognize—fear is a normal thing, escaping is a normal thing, and these cannot be criticized. 
+	The question is, where does blind escape lead you, and who can truly flee from their pain? 
+	Luckily, there are people on Rhodes Island who will reach their hand out to her, and people who can make her want to try stepping out of her own world. 
+	Perhaps, what she lacked right now was only a bit of courage.
+
+	승진 자료 :
+	    상처받는 것을 두려워하여 도망치고자 하는 것은 당연한 일이다.
+	    생물적인 본능으로 인해 우리는 슬픔과 고통을 두려워한다. 누군가는 의지로 그 두려움을 극복할 수 있을지도 모르고, 누군가는 고난 속에서 무덤덤해졌을지도 모르지만, 우리는 두려워하고 도망치는 것이 잘못된 게 아닌, 정상이라는 사실을 인정해야한다.
+	    그러나 덮어놓고 도망만 친다면 어디까지 갈 수 있겠으며, 어느 누가 진정으로 고통으로부터 도망칠 수 있겠는가?
+	    다행히 이곳에는 그녀에게 먼저 손을 내밀어 주는 사람이 있고, 그녀로 하여금 자신만의 세계에서 벗어나게끔 인도해주는 사람도 있다.
+	    지금 그녀에게 부족한 것은 어쩌면, 약간의 용기 뿐일지도 모른다.

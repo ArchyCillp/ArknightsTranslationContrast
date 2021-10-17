@@ -1,11 +1,17 @@
 ID:
 	char_236_rope
 
-干员代号\Name:
+CV:
 	暗索
 	ロープ
 	Rope
 	로프
+
+干员代号\Name:
+	藤村步
+	藤村歩
+	Ayumi Fujimura
+	후지무라 아유미
 
 招聘合同\Character Usage:
 	罗德岛特种干员暗索，将凭借钩索技术为小队提供便利。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	一钩，一拉，成了！
 	引っかけて、そして引っ張って……いけた！
-	Snag ‘em and grab ‘em! Who’s next?
+	Snag 'em and grab 'em! Who's next?
 	걸고, 당기고… 좋았어!
 
 信物\Potential Item:
@@ -43,177 +49,370 @@ ID:
 	다중 갈고리 발사
 
 语音\Voices:
-	博士，你没忘记带什么东西吧~
 	ドクター？忘れ物、してないよね～？
 	Doc~tor~, you didn't forget anything, did you?
 	박사? 잊어버린 거 없지~?
 
-	从别人口袋里拿东西来填饱肚子？有什么办法，我就是这样长大的，不然我早就饿死了。
 	人のポケットからくすねたもので食いつなげてる？しょうがないじゃん、こうやって生きてきたんだから。じゃなきゃとっくに飢え死にしてるよ。
 	Picking pockets to feed myself? Yeah, that was how I grew up. I didn't exactly have a choice... I'd have died otherwise.
 	사람들 주머니에서 훔친 걸로 먹고산다고? 어쩔 수 없잖아, 이렇게 살아왔는걸. 이렇게라도 안 했으면 진작에 굶어 죽었을 거라고.
 
-	钩索想要耐用，绳子才是关键。嗯？你问我为什么喜欢用钩索？你去徒手爬爬楼不就知道了？
 	丈夫で長く使える鉤縄って、結局縄が肝心なんだよね。ん？なんでそんなに鉤縄が好きなのかって？素手でビルでも登ってみればわかると思うよ。
 	For a grappling hook to be sturdy, choosing a good rope is the key. Hm? Why do I like my grappling hook so much, you ask? Well, duh... try scaling a building with your bare hands and you'll see.
 	튼튼하고 오래 쓸 수 있는 갈고리는 결국 줄이 생명이란 말이지. 응? 왜 그렇게 갈고리를 좋아하냐고? 맨손으로 빌딩 같은 거 한 번 타보면 알게 될 거야.
 
-	是的是的，我会好好听从博士教导的，我能回宿舍了吗，一会还有事呢。好啦好啦！别说了！救命！
 	はいはい、ドクターの言うことはちゃんと聞くから、もう寮に戻っていい？このあとは用事があるんだから。え、まだあるの？もう勘弁してよ！お願いだから！
 	Fine, fine, I'll listen to everything you say from now on, Doctor! Can I go back to my room now? I'm really busy! All right, all right, just stop nagging, ugh...
 	네 네~ 박사가 하는 말 잘 들을 테니까, 이제 숙소로 돌아가도 돼? 이따가 볼일 있으니까. 어? 또 있다고? 이제 제발 그만해줘! 부탁이니까!
 
-	如果不是你们罗德岛，我可能还在蹲号子。你们是怎么知道我的？唔？从哪里听说了我的身手吗？
 	ドクターたちがいなかったら、まだシャバの空気を吸えてなかったかもしれないよね。それより、なんでぼくのこと知ってたの？ん？ぼくの腕を風の噂で聞いて？そっか。
 	If it weren't for you and your people, Doctor, I'd probably still be locked up. Say, how did you find me anyway? You heard people talking about how talented I am? Huh.
 	박사 일행이 없었다면, 난 아직도 콩밥 먹고 있었을지도 몰라. 아니 근데, 어떻게 날 알고 있었어? 응? 내 실력을 풍문으로 들었다고? 그렇구나.
 
-	其实在贫民窟活下来有很多方式，只不过——活不下来的更多。说实在的，我可没得选，希望你能明白这点。
 	スラムで生き延びる手段ならいろいろあるよ。ただ――それをできずに死んでいくやつはもっと多い。ぼくには他に生きる道がなかったんだよ。ドクターもそれをわかってくれるといいな。
 	There are actually lots of ways to survive in the slums... it's just that... there are also lots of people who don't survive. I never really had a choice. I hope you understand, Doctor.
 	슬럼에서 살아남는 수단은 여러 가지가 있지. 다만… 그걸 못하고 죽는 녀석들이 훨씬 많아. 나한테는 달리 살 길이 없었다고. 박사도 그걸 이해해줬으면 좋겠네.
 
-	父母把我赶出家门，让我流落街头自生自灭。比起那样的地方，当然是在罗德岛更加快活些。
 	親から家を追い出されて、一人で路頭に迷って必死に生き延びる。そんな生き方より、ロドスにいるほうが楽に決まってるでしょ。
 	My parents kicked me out and I had to fend for myself on the streets. I'm way better off at Rhodes Island than back in the gutter, huh?
 	부모한테 집에서 쫓겨나서, 혼자 거리를 헤매면서 살아남으려고 발버둥 치는 거. 그렇게 사는 것보단 당연히 로도스 아일랜드에 있는 게 편하잖아?
 
-	有许多人生了这种病，我也觉得自己要没救了，还好你们找到我......说实在的，博士，你会帮我治好的吧？不能？嘛，也没差。
 	この病気にかかって死んでいくやつをいっぱい見てきたから、ぼくも同じようになるんだって諦めてたところで、ロドスに拾われたんだ……。正直に言ってほしい、ドクター、ぼくを治せるよね？治せないかも？まっ、それはそれでいいか。
 	A lot of people died from this same disease. I kinda gave up, and thought the same thing would happen to me until I ended up at Rhodes Island... Thank goodness you people found me. But be honest, Doctor, you'll cure me, right? If you can't... I guess that's fine too.
 	이 병에 걸려 죽어가는 녀석들을 잔뜩 봤으니까, 나도 그렇게 되겠거니 하고 포기하려 할 때, 로도스 아일랜드가 날 받아준 거야…… 솔직히 말해줘 박사. 내 병 고칠 수 있지? 못 고칠 수도 있다고? 뭐, 그것도 나름 괜찮겠지.
 
-	以前吃饭上顿不接下顿，现在能天天吃到舒服，不得不说，罗德岛还是不错的。哼......你想听我谢谢你吗？算了吧。哎呀你已经听过了！
 	昔は明日のご飯があるかどうかさえわからなかったのに、今はいつでもお腹いっぱい食べられる。ロドスのこういうところは褒めざるを得ないよね。ふん……ぼくにありがとうって言ってほしい？諦めたほうがいいよ。…あっ、もう言っちゃってた！
 	I used to go days without eating sometimes. Now, I get regular meals, so Rhodes Island is alright in my book. Hm? You want me to thank you? Come on, haven't I thanked you enough already?
 	옛날엔 내일 먹을 밥이 있을지 없을지도 몰랐는데, 지금은 언제나 배불리 먹을 수 있어. 로도스 아일랜드의 이런 점은 칭찬할 수밖에 없겠네. 흠…… 나한테 고맙다는 소리를 듣고 싶다고? 포기하는 게 좋을걸… 아, 이미 말해버렸잖아!
 
-	啊这椅子，可恶！有，有点舒服！
 	この椅子、ああ……くそっ、き、きもちいい！
 	Ugh, this chair... damn it... it's... kinda comfy...
 	이 의자, 아아… 젠장, 너, 너무 기분 좋잖아!
 
-	我叫暗索，很高兴认识你。啊对了，你的饭卡还在这里，别忘记拿了。唔？为什么在我这儿？这是秘·密·哦。
 	初めまして、ロープって呼んで。あ、これ、君のIDカードだよ。ん？どうしてぼくが持ってるのかって？それは、ヒ・ミ・ツ、だよ♪
 	The name's Rope, nice to meet ya. Oh, here's your ID card, don't forget it. Huh? Why do I have it? That's a se-cret!
 	만나서 반가워, 로프라고 불러줘. 아, 이거, 네 ID 카드야. 응? 어째서 내가 갖고 있냐고? 그건, 비·밀·이·야♪
 
-	看这东西真的管用么？
 	こんなもの見て、本当に役に立つの？
 	Would something like this actually work?
 	이런 거 봐서, 진짜 도움이 돼?
 
-	工钱啦，工钱。比起这个，还是工钱更实在。
 	それよりも給料、給料あげて！昇進なんかより給料の方がありがたみがあるって。
 	Let's talk cash! Dough! Who cares about a promotion? I need that paper!
 	그런 것보다 월급, 월급 올려줘! 승진 같은 거보다 월급 올려주는 게 더 감사하다고.
 
-	好啦，收了你那么多钱，我也该认真干活咯！
 	よーし、給料もたくさんもらったし、真面目に働くか！
 	Yeah! Now that I got paid, I guess I can work hard.
 	좋아, 월급도 왕창 받았으니, 제대로 일해볼까!
 
-	好、好，来了~
 	はいはい、きたよ～。
 	All right, coming!
 	네 네 갑니다~
 
-	当队长？以前可是要拿额外工钱的，看在你的面子上就不强求啦。
 	隊長になれって？普段ならボーナスをもらうところだけど、ドクターの顔に免じて通常料金でやってあげるよ。
 	I'm gonna be captain? I'd have asked for a hardship bonus, but I'll let it slide this time since it's you.
 	팀장을 하라고? 평소라면 보너스를 받아야겠지만, 박사 얼굴을 봐서 일반 요금으로 해줄게.
 
-	要提前勘察好地图和路线哦，这可是经验之谈。
 	地形やルートは事前に把握しておいて損はないよ。先輩としてのアドバイスだよ～なんてね。
 	Look at the map and figure out your route before we get in there. This is experience talking.
 	지형이나 루트는 사전에 파악해둬서 손해 볼 거 없어. 선배로서의 어드바이스야~
 
-	那么，敌人身上会有什么好东西呢？
 	さて、今日の敵さんたちは何かいいもの持ってるかな～？
 	Hey, do you think they're hauling some good loot?
 	자, 오늘의 적들은 뭔가 좋은 거라도 갖고 있으려나~?
 
-	正面对决可不适合我啊。
 	真っ向勝負は柄じゃないんだよね。
 	I don't really do straight-up fights.
 	정면승부는 내 스타일이 아니거든.
 
-	运用好我的长处，拜托了~
 	ぼくの特技、ちゃ～んと生かしてよね、お・ね・が・い♪
 	Put me to good use, o-k-a-y?
 	내 특기, 제~대로 살려줘, 잘·부·탁·해♪
 
-	偷偷摸摸~
 	こっそりこそこそ～。
 	Sneaky sneaky...
 	살금살금~
 
-	这是个好位置吗？
 	場所はここがいいかな？
 	Is this a good spot?
 	장소는 여기가 좋을까나?
 
-	啊哈！
 	あっはー！
 	Aha!
 	하하~!
 
-	来来来~
 	いいぞ～もっと来いよ！
 	Good, good, a little closer!
 	좋아~ 더 오라고!
 
-	嘿——！
 	はーーっ！
 	Hah!
 	하앗!
 
-	被这钩子勾中可就跑不了了！
 	この鉤縄に一度捕まったら、もう逃げられないよ！
 	Once I hook you, you're not getting away.
 	이 갈고리에 한 번 걸리면, 도망치지 못한다고!
 
-	这一场可比平时刺激多了，当然，收入也......哼哼~
 	いつもよりずーっと刺激的な戦いだったよ。もちろん、報酬も……ふっふ～。
 	That one was more exciting than usual. More profitable too.
 	평소보다 훨씬 자극적인 전투였어. 물론, 보수도… 후후~
 
-	有些好东西，留在敌人身上也是种浪费~你说呢？
 	いいものは、敵に持たせたままにしておくのはもったいないよ～そう思わない？
 	It'd be a waste to leave all that good stuff here. The dead guys don't need 'em, right?
 	좋은 물건은, 적이 갖고 있게 내버려 두기 아까워~ 안 그래?
 
-	跑了几个人？那就别追了吧，说不定能改过自新呢？
 	何人かに逃げられた？そのくらいなら放っておこう。改心するかもしれないでしょ？
 	Some of 'em got away? Yeah sure. They might turn over a new leaf, who knows.
 	몇 명 도망쳤다고? 그 정도라면 내버려 두자고. 마음을 고쳐먹을지도 모르잖아?
 
-	......喂喂，还是和我一起先溜吧？保命要紧啊！
 	……ちょ、ちょっと、やっぱりぼくと一緒に逃げよう？命は大事だよ！
 	...Erm, I'm gonna bug out now. You coming? Life is precious!
 	……자, 잠깐, 역시 나도 같이 도망치자! 목숨은 중요하다고!
 
-	这个房间有没有通风管道？没什么，就问下。
 	この部屋に通気口はついてる？いやいや、聞いてみただけだよ。
 	Is there an air vent in this room? Nothing, just curious.
 	이 방에 통풍구는 달려있어? 아니아니, 그냥 물어본 거야.
 
-	呃，有谁来抓我了吗！
 	うぎゃー、ぼくを捕まえにきたの！？
 	Aaaagh! Am I under arrest?!
 	으악! 날 잡으러 온 거야?!
 
-	其实我也想学一学如何做个普通的女孩子的。可是吧，唉，那样是不是不太适合我呢？
 	ぼくだって普通の女の子になる方法を勉強したいけど……でもさ、ほら、ぼくにはちょっと合わないかな？
 	I'd like to learn what it's like to be a normal girl sometime. But... maybe I just can't?
 	나도 평범한 여자아이가 되는 방법을 공부해보고 싶지만… 그래도 말이야, 봐봐, 나한테는 별로 안 어울리지 않을까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	嗨，博士。
 	はーい、ドクター。
 	Hi, Doctor!
 	하~이, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】暗索
+	【性别】女
+	【战斗经验】两年
+	【出身地】雷姆必拓
+	【生日】4月4日
+	【种族】卡特斯
+	【身高】155cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ロープ
+	【性別】女
+	【戦闘経験】二年
+	【出身地】レム・ビリトン
+	【誕生日】4月4日
+	【種族】コータス
+	【身長】155cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Rope 
+	[Gender] Female 
+	[Combat Experience] 2 years 
+	[Place of Birth] Rim Billiton 
+	[Date of Birth] Apr. 4 
+	[Race] Cautus 
+	[Height] 155cm 
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 로프
+	[성별] 여
+	[전투 경험] 2년
+	[출신지] 림 빌리턴
+	[생일] 4월 4일
+	[종족] 카우투스
+	[신장] 155cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Excellent 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	龙门贫民窟的惯偷，在一次行窃中失手被抓获。在龙门与罗德岛建立合作后，作为特殊人才被陈警官推荐加入罗德岛。
+	平时负责情报收集工作，战斗时，则使用擅长的绳索与勾爪，使得敌人晕头转向。
+
+	個人履歴 :
+	龍門スラム街の盗みの常習犯で、盗み中にミスをしてしょっぴかれた。龍門とロドスの協力関係締結後、特殊な人材としてチェン警官に推薦されロドスに加入した。
+	普段は情報収集業務をしているが、戦闘時は得意のロープと鉤爪を使い、敵を撹乱する。
+
+	Profile :
+	Rope is a cat burglar from the slums of Lungmen, who got caught during a botched caper. Sent to Rhodes Island on a special recommendation from Madam Ch'en after Lungmen formed a partnership with the island. 
+	Responsible for intelligence gathering. Uses a rope and grappling hook in combat to disorient the enemy.
+
+	프로필 :
+	    용문 빈민가의 상습 절도범으로, 절도 행각 중 범한 실수로 인해 붙잡히고 말았다. 용문이 로도스 아일랜드와 협력하게 된 후, 첸 경관의 특별 인재 추천을 통해 로도스 아일랜드에 합류하게 되었다. 평소에는 정보 수집을 맡고 있으며, 전투 시에는 주 무기인 로프와 갈고리를 이용하여 적을 혼란스럽게 한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】18% 
+	虽然体表只有寥寥几处源石侵蚀痕迹，但内部器官受感染情况十分严重。
+	
+	【血液源石结晶密度】0.30u/L
+	干员暗索在加入罗德岛时，已经错失了最好的治疗时间，并且由于营养不良和缺少良好的休息环境，单纯从健康意义上来说也处于十分危险的状态。
+	目前，经过调养，病情已经趋向稳定，希望本人接下来能够更爱惜自己。
+	——赫默
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】18%
+	体表に現れている源石の侵蝕の痕跡は微々たるものだが、内部器官の感染状況は深刻である。
+	
+	【血液中源石密度】0.30u/L
+	ロドス加入時、既に治療に最適なタイミングは過ぎており、栄養不良と良質な休養の不足により、単純に健康という観点から言っても十分危険な状態であった。
+	差し当たって養生させたことにより病状は既に落ち着いてきている。本人にはこれから先も十分に自分を大事にしてほしい。
+	――サイレンス
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 18% 
+	While only a few vestiges of infection are visible on surface, internal organs have been severely compromised. 
+	
+	[Blood Originium-Crystal Density] 0.30u/L 
+	By the time she joined Rhodes Island, Operator Rope had already missed the best window of opportunity for treatment. Malnutrition and environmental factors put her health in imminent danger. 
+	Currently, given proper care, she is in stable condition. I hope she will continue to take better care of herself. 
+	—Silence
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨, 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음, 현단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 18%
+	피부에는 약간의 오리지늄 침식 흔적이 남아있는 정도지만, 내부 기관의 감염 정도는 무척 심각한 수준.
+	
+	[혈중 오리지늄 결정 밀도] 0.30u/L
+	오퍼레이터 로프가 로도스 아일랜드에 합류하였을 때 이미 최적의 치료 시기는 지나있었고, 영양실조와 적절한 휴식 부족으로 인해 건강 상태 자체도 매우 심각하게 악화되어 있었다. 지금은 몸조리를 잘 한 덕분에 병세는 안정되고 있으니, 앞으로 그녀가 자기 자신을 더 소중히 여기기를 바란다.
+	——사일런스
+
+———————————————————————————————
+
+	档案资料一 :
+	轻佻的小贼。
+	对谁都笑脸相迎，但从笑容中能感觉到距离感。
+	盗窃对她来说几乎已经成了习惯，有时候甚至会下意识地从别人身上顺走东西。至少如今，她已经学会了事后还回去。
+
+	第一資料 :
+	軽佻浮薄な小悪党。
+	誰と話すときでも笑顔で迎え入れるが、その笑顔の中には距離を感じる。
+	彼女にとって盗みは既に習慣になっており、無意識に他人のものを盗んでしまう時すらある。少なくとも現在は、後で返すということを学んだようだ。
+
+	Archive File 1 :
+	A coy thief. 
+	She smiles at everyone, but it's a polite, distant smile. 
+	Pilfering is second nature to her. She will sometimes pickpocket someone without even realizing it. At least she knows to give it back now.
+
+	파일 자료 1 :
+	    다소 경박한 도둑. 누구든 웃는 얼굴로 대하지만, 그 웃는 얼굴로부터는 거리감이 느껴진다. 이미 몸에 베인 습관적인 절도로 인해 종종 무의식적으로 다른 사람의 물건에 손을 대기도 한다. 하지만, 지금은 적어도 훔친 물건은 되돌려줘야 한다는 사실을 배웠다고 한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	小暗索并不记恨自己的父母，因为她知道，对越生越穷，越穷越生的贫民来说，抛弃孩子很多时候是一件没有办法的事。至少，她的父母把她赶出门的时候，是哭着的。
+	小暗索也不憎恨这个世界，毕竟不管怎么咒骂老天，老天也不会给她钱。而且，在贫民窟摸爬滚打这些年，她已经见过不知多少比自己要惨得多的人和事。
+	当然，小暗索也不觉得偷东西有什么问题，她当然知道这是错的，可是，她又能怎么办呢？
+
+	第二資料 :
+	ロープは自分の両親を恨んではいない。子供を産むほど貧しくなり、貧しいほど子供を産むスラム街住民として、子供を捨てせざるを得なかったことを、彼女はちゃんとわかっている。少なくとも、彼女を家から追い出したとき、両親は泣いていた。
+	ロープもこの世界を憎んではいない。どんなに神をののしったところで、神が金をくれるわけではないからだ。そして、この数年でスラム街で様々な苦難にもまれ、自分よりも余程惨めな人や事を何度も見てきた。
+	ロープは泥棒行為に問題があると思っていない。無論、いいことではないだとわかっているけど、選択肢のない彼女にはどうしようもないでしょう。
+
+	Archive File 2 :
+	Rope doesn't begrudge her parents. She knows sometimes a poor family just has to abandon a child or two. At least her parents cried when they kicked her out of the house. 
+	Rope doesn't hate the world either, knowing that no matter how much she curses the gods, won't give her what she needs to eat. Not to mention all the worse things she's seen from her years in the slums. 
+	Of course, Rope never had any problem stealing. She knew it was wrong, but what could she do?
+
+	파일 자료 2 :
+	    로프는 자신의 부모를 원망하지 않는다. 더 낳을수록 더 가난해지고, 더 가난해질수록 더 낳게 되는 악순환 속에서 빈민들이 어쩔 수 없이 아이를 버리는 사실에 대해서 알고 있기 때문이다. 적어도 그녀의 부모님은, 그녀를 버리던 그 순간에는 울고 있었다.
+	    로프는 이 세상도 원망하지 않는다. 아무리 하늘을 저주해도 하늘은 그녀에게 돈을 주지는 않기 때문이다. 그녀는 빈민가에서 살아가는 몇 년 동안 자기보다 더 비참한 사람들과 사건들을 봐 왔다. 물론, 로프는 남의 물건을 훔치는 행위에 문제가 있다고는 생각하지 않는다. 당연히 이게 잘못된 일이라는 건 알고 있지만, 뭐 어쩌겠나?
+
+———————————————————————————————
+
+	档案资料三 :
+	小暗索其实相当喜欢监狱，毕竟在那里，一日三餐都能保障，还有床可以睡。如果不是每次进去都要接受思想教育，她说不定每隔一段时间就会主动被抓一次。
+	当然，即使偶尔失手才会被抓，在贫民窟混迹了这么多年，她也早就和狱警混熟了。她还知道，自己的盗窃技巧似乎在这些执法人员眼中，还挺厉害。
+	她有时候也会想，自己该不会有一天会被吸收成辅警吧。不过，她怎么也想不到，辅警没当上，她就被“卖”给了一个叫罗德岛的组织。
+
+	第三資料 :
+	ロープは実はかなり監獄が好きだ。要するに、監獄は一日三度の食事が保証され、寝床もある。もし何度も思想教育を受けていなければ、言わずもがな彼女は自ら進んで逮捕されるだろう。
+	もちろん、たまに失敗して逮捕されたとしても、何年もスラム街に流浪していたので、もはや警察とは顔馴染みであった。そして、自分の盗みの技術が警官たちの目にはかなりのレベルに見えているということも知っていた。
+	時折、彼女はもしかしたらいつかスカウトされて警官補佐になれないかと思っていた。しかし、思いもよらないことに、警官にはならず、ロドスという組織に「売られた」のだった。
+
+	Archive File 3 :
+	Rope actually loved prison, since her meals were taken care of, and she got a free bed out of the deal. If it wasn't for the rehabilitation classes, she would've gotten herself caught on purpose. 
+	Of course, she'd still slip up occasionally, but she knew every one of the guards and they were impressed with her thieving skills. 
+	She did wonder if they might actually hire her as a cop. What she never expected was getting 'sold' to a place called Rhodes Island.
+
+	파일 자료 3 :
+	    로프는 사실 감옥을 상당히 좋아했다. 어쨌든 감옥에선 하루 세 끼가 꼬박 나오고, 잠도 침대에서 잘 수 있으니까. 매번 받아야 하는 사상교육만 아니었다면, 그녀는 아마 정기적으로 감옥에 잡혀들어갔을 것이다.
+	    물론 간혹 실수로 체포를 당하긴 해도, 빈민가에서 여러 해를 보내다보니 교도관과도 일찍이 어느 정도 친분이 있었고, 집행관들이 자신의 절도 기술을 대단하게 여기고 있다는 것도 알고 있었다.
+	    가끔 그녀는 언젠간 경찰로 스카웃되는 날이 오지 않을까 하고 상상하곤 했었지만, 경찰은 커녕 로도스 아일랜드라는 곳에 팔려오게 될 거라곤 상상도 못했다.
+
+———————————————————————————————
+
+	档案资料四 :
+	来到罗德岛后，小暗索其实觉得相当不适应。
+	虽然这里古怪的人和可怕的人有很多，但她在这里能吃饱穿暖，也没有人嫌弃她的出身，即使她手痒偷了东西，都只是批评她要还回去和道歉。
+	她在过去从贫民窟锻炼出来的巧言令色，在罗德岛似乎变得完全不适用了，这让她一时间无所适从。
+	但是，这样的感觉，似乎......还不坏。
+
+	第四資料 :
+	ロドスに来たとき、ロープは実は相当居心地の悪さを感じていた。
+	風変わりな人や怖い人が多いが、ここは衣食住がそろっており、彼女の出自を嫌がる人もいない。彼女がたとえ悪い癖で物を盗んでしまっても、盗品返上とお詫びしか皆に要求されていないであった。
+	彼女が過去にスラム街で鍛えた巧言令色も、ロドスでは通用しないようで、彼女はしばらくどうしたらよいかわからず一時期困惑していた。
+	しかし、こんな感覚は、悪くない……のかもしれない。
+
+	Archive File 4 :
+	Rope still isn't used to life on the island. 
+	She gets food, clothes, and a roof over her head. Plus there's a lot of freaks and weirdos here. Nobody looks down on her because of her background, and even when she does steal from them, they just want her to return it with an apology. 
+	With all that, she doesn't need to use any of the survival skills she honed in the slum. It's all very foreign to her. 
+	But it feels... not too bad.
+
+	파일 자료 4 :
+	    로도스 아일랜드에 온 로프는 사실 적응에 어려움을 겪었다. 이상하거나 무서운 사람이 많았지만, 그녀는 이곳에서 배불리 먹을 수 있었고, 아무도 그녀의 출신을 가지고 트집을 잡지 않았다. 심지어 손이 근질근질해 물건을 훔쳤을 때도, 단지 그녀에게 물건을 돌려주고 사과해야 한다는 잔소리만 할 뿐이었다.
+	    빈민가에서 남을 속이기 위해 단련했던 기술이 완전히 소용없어지자 그녀는 한순간도 마음을 편히 놓을 수 없었다. 그렇지만… 그 느낌은 나쁘지 않았다.

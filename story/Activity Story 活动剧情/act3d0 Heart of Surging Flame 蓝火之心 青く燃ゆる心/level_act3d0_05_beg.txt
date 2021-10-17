@@ -250,7 +250,7 @@
 
 [Decision(options="漂亮的一脚！;......;朋友，可不能粗鲁对待快递员啊。",values="1;2;3")]
 [Decision(options="良い蹴りだった！;……。;配達員を雑に扱ったからだな。",values="1;2;3")]
-[Decision(options="Goooaaaaaaaal!;……;Friends, you mustn’t be so rude to the courier.",values="1;2;3")]
+[Decision(options="Goooaaaaaaaal!;......;Friends, you mustn't be so rude to the courier.",values="1;2;3")]
 [Decision(options="멋진 발차기군!;……;택배원을 함부로 대하면 쓰나.",values="1;2;3")]
 
 [name="红豆"]   嘿嘿，我早就想这么试试了。接下来我要试试这句话......
@@ -270,6 +270,6 @@
 
 [Decision(options="这不是已经被你踢开了吗！",values="1")]
 [Decision(options="いや、もうドアは蹴破ってるし。",values="1")]
-[Decision(options="But you already kicked the door down…",values="1")]
+[Decision(options="But you already kicked the door down...",values="1")]
 [Decision(options="문은 네가 이미 날려버렸잖아!",values="1")]
 

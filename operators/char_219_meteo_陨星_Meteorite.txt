@@ -1,11 +1,17 @@
 ID:
 	char_219_meteo
 
-干员代号\Name:
+CV:
 	陨星
 	メテオリーテ
 	Meteorite
 	메테오라이트
+
+干员代号\Name:
+	种田梨沙
+	種田梨沙
+	Risa Taneda
+	타네다 리사
 
 招聘合同\Character Usage:
 	罗德岛狙击干员陨星，随时准备以炮火覆盖敌人。
@@ -43,177 +49,389 @@ ID:
 	유탄 장전
 
 语音\Voices:
-	现在是我的值班时间。如果打扰到你办公了，我可以到外面待着。
 	当直で来ているだけよ。気になるようなら外で待機してあげるわ。
 	I'm on my shift right now. If I'm interrupting your work, I can go outside and wait there.
 	당직을 서러 왔을 뿐이야. 신경 쓰인다면 밖에서 대기해줄게.
 
-	你有好好调查过每位新加入干员的个人信息和情报吗？
 	新しく入ってくるオペレーター全員の個人情報、ちゃんと押さえてあるの？
 	Did you investigate all the new Operators and check if their data lines up with their personal files?
 	새로 들어온 오퍼레이터 전원의 개인정보, 제대로 파악하고 있어?
 
-	只要战争仍在继续，就不会有什么地方是绝对安全的。这也同样适用于罗德岛，请你务必牢记这点。
 	戦争が続く限り安全な場所なんてないのよ。たとえここであってもね。それを忘れないで。
 	No place in the world is absolutely safe as long as the war is still going on. Not even Rhodes Island! Please remember that.
 	전쟁이 계속되는 한, 안전한 장소란 없어. 설령 여기라고 해도 말이야. 그걸 잊지 마.
 
-	坦白地说，你的周围混杂着许多人，不觉得这样其实很危险吗？
 	ハッキリ言うわ。あなたの周りには、あまりにも人が多すぎるのよ。危険だとは思わないの？
 	To be frank, you're surrounded by people from all walks of life. That can be quite dangerous, don't you think?
 	확실히 말해두지. 네 주변에는 사람들이 너무 많아. 위험하다고 생각하지 않나?
 
-	居然有那么多和我一样的萨卡兹人来到了罗德岛，并且相互之间还能和睦相处，这确实让我很惊讶......
 	ロドスには私と同じサルカズがこんなにいるなんて、正直驚いたわ……。しかもお互いに反目しあわないなんて、あり得ないわ。
 	I'm surprised that so many other Sarkazians like me have come to Rhodes Island—and they actually get along!
 	로도스 아일랜드에는 나와 같은 살카즈가 이 정도로 있다니, 솔직히 놀랐어… 그것도 서로 미워하지 않는다니, 말도 안 되는군.
 
-	我这把弩炮虽然不太容易操作，但威力绝不下于拉特兰人的铳。我将用它捍卫我族的荣耀。
 	このハンドバリスタ、ちょっと扱いは難しいけど、威力はラテラーノ人の銃にだって負けないわ。これで我が一族の誇り、守ってみせる。
 	My bowgun may not be easy to operate, but it's just as powerful as the guns of the Lateranos. With it, I will defend the glory of my people.
 	이 핸드 발리스타, 쓰기는 조금 어렵지만 위력은 라테라노인의 총에도 지지 않을 정도지. 이걸로 우리 일족의 긍지를 지켜 보이겠어.
 
-	我见过守林人了。那个孩子，把我们并肩作战过的组织名当成自己的代号。也许那孩子的时间，在故乡被毁灭之时就已经停止了......
 	ファイアーウォッチに会ったわ。あの子、私といた昔の組織の名前を、そのまま自分のコードネームにしてるのね。きっとあの子の時間は、あの事件から止まったままなのね…。
 	I met Firewatch. That kid... she's using the name of the organization which we fought together in as her codename. It's like time has stopped for her ever since the day her hometown was destroyed...
 	파이어워치랑 만났어. 걔도 참, 나랑 옛날에 같이 있었던 조직 이름을 그대로 자기 코드네임으로 쓰더라고. 분명 그 아이의 시간은, 그 사건이 있던 때에 멈춰있는 거겠지… 
 
-	发生在我和守林人之间的那段过去，还是等她亲口告诉你吧......只能说，把叛军引向她故乡的人并不是我，只是......没人会相信一个萨卡兹人的话。
 	ファイアーウォッチとの事を知りたいなら、彼女に聞くことね。言っとくけど、反乱軍を彼女の故郷に引き入れたのは私じゃないわ。まぁ、サルカズの私が語る話なんて誰も信じないでしょうけど……。
 	As for what happened between Firewatch and I... she'll tell you when she's ready. All I can say is that I was not the one who led the rebel army to her hometown... but no one would believe the words of a Sarkazian, right?
 	파이어워치와 무슨 일이 있었는지 알고 싶다면, 그 아이한테 물어봐. 말해두는데, 반란군을 파이어워치의 고향에 끌어들인 건 내가 아니야. 뭐, 살카즈인 내가 이런 말을 해도, 아무도 믿어주진 않겠지만… 
 
-	她有她的复仇，我有我的使命，既然如此，即使我们在这罗德岛重逢，或许依旧会走向各自的结局吧。
 	彼女には彼女の復讐があるように、私には私の使命がある。たとえ、ここで再会しても、結局は違う道を歩むことになるでしょうね。
 	I have my mission, and she has hers—to revenge. Even though we've met again at Rhodes Island, it probably won't affect anything. Our paths will probably not cross.
 	그녀에겐 그녀의 복수가 있듯이, 내게는 나의 사명이 있다. 여기서 다시 만났다고 해도, 결국엔 다른 길을 걸어가게 되겠지.
 
-	哪里来的声音？难道是有谁在监视这个房间吗？还是说......只是我的错觉罢了？
 	……音がする……。誰かがこの部屋を監視してる？それとも……気のせいかしら？
 	What's that sound? Is someone monitoring this room? Or am I just imagining things?
 	……소리가 들린다… 누가 이 방을 감시하고 있나? 아니면… 그냥 기분 탓인가?
 
-	代号陨星，职业是自由佣兵。如你所见，是萨卡兹人。即使这样，你还依然打算雇佣我吗？
 	コードネーム、メテオリーテ。フリーの傭兵よ。見ての通りのサルカズだけど、それでもこの私を雇いたいの？
 	Codename Meteorite, a freelance mercenary. I'm a Sarkazian, as you can see. You still wanna hire me in spite of that?
 	코드네임, 메테오라이트. 자유 용병이다. 보다시피 살카즈지만, 그래도 날 고용하고 싶어?
 
-	瞄准技术提升了。
 	バリスタの照準スキルが向上したわ。
 	My aim with my bowgun has improved.
 	발리스타의 조준 스킬이 향상되었어.
 
-	想要提拔我吗？ 看来，选择在这儿工作，果然是对的。
 	あら、昇進させてくれるの？しばらくここで働いてみるのも悪くないわね。
 	You want to promote me? I see that I made the right choice to work here.
 	어라, 승진시켜 주는 거야? 한동안 여기서 일해보는 것도 나쁘진 않겠네.
 
-	这次，真的十分谢谢你。没想到，我这样的人，居然能在罗德岛获得如此稳定的一份工作。我会竭尽所能，回报你的信赖。
 	今回もありがとう。まさかここまで長い間ここで働くことになるとは思わなかったわ。全てをかけても、あなたの……信頼に応えないといけないわね。
 	Thank you so much for this, really. I can't believe someone like me could receive a stable job here at Rhodes Island. I'll do everything I can to repay you for trusting in me.
 	이번에도 고마워. 설마 이렇게 긴 시간 동안 여기서 일하게 될 줄은 몰랐어. 모든 걸 거는 한이 있어도, 당신의 신뢰에는… 보답해야겠지.
 
-	我来了。
 	来たわよ。
 	Here I am.
 	왔어.
 
-	要我做队长吗？严格来说，我不太擅长对别人发号施令。
 	隊長になれって？正直、誰かに指示を出すのは得意ではないわ。
 	Me, a leader? But I'm not that good at giving orders...
 	팀장이 되라고? 솔직히, 누군가한테 지시를 내리는 건 잘하는 편이 아니야.
 
-	我会好好照顾大家的。
 	みんなの面倒はちゃんと見てあげるわよ。
 	I'll do my best to take care of everyone.
 	모두를 잘 돌봐줄게.
 
-	已经确认了敌情。各位，请做好战斗的准备。
 	敵を捕捉したわ。みんな、準備しなさい。
 	Enemy status confirmed. Get ready to fight.
 	적을 포착했다. 다들, 준비하도록.
 
-	哦，好。
 	いいわ。
 	All right.
 	좋아.
 
-	没问题。
 	問題ないわよ。
 	No problem.
 	문제 없어.
 
-	视野良好。
 	視界は良好ね。
 	We have a clear view.
 	시야는 양호해.
 
-	一口气解决他们。
 	一気に片付けましょうか。
 	Let's take them all out.
 	한 번에 쓸어버리자고.
 
-	射击。
 	撃て。
 	Fire!
 	쏴라.
 
-	开火。
 	射撃開始。
 	Fire your weapons!
 	사격 개시!
 
-	集中火力。
 	集中砲火！
 	Focus fire!
 	집중 포화!
 
-	退后！
 	下がって！
 	Get back!
 	물러나!
 
-	我不想再看到熊熊燃烧的战火了，让一切，都结束吧。
 	もう二度と戦火は見たくない。すべて、終わらせましょう。
 	I don't want to see all these collapsing buildings, burning from the war. Please, let's just end this once and for all...
 	이제 두 번 다시 전쟁의 불꽃은 보고 싶지 않아. 전부, 끝내버리자.
 
-	想从我布置完善的包围网中脱逃，真是异想天开。
 	私の完璧な包囲網からは、誰ひとり逃れられないわ。
 	Think you can escape from my intricate net? Don't be silly.
 	내 완벽한 포위망에선 그 누구도 도망칠 수 없어.
 
-	有人逃走了，现在还不能大意。
 	何人か逃がしたわね。まだ油断しないほうがいいわ。
 	Someone's escaped. Not the time to let our guard down.
 	몇 명인가 놓쳤네. 아직 방심하지 않는 게 좋아.
 
-	撤退吧！回到据点，重整姿态。
 	ひとまず撤退よ！拠点に戻って態勢を立て直すの。
 	Retreat! Get back to the stronghold and regroup.
 	일단 철수하자! 거점으로 돌아가서 태세를 재정비하는 거야.
 
-	这里是什么地方？
 	ここはどこ？
 	What's this place?
 	여긴 어디지?
 
-	呃！什么？
 	キャッ、なに？
 	Huh? What?
 	꺄악, 뭐야?
 
-	这个，是要送给我吗？啊，谢谢。
 	あら？これを私に？ありがとう。
 	Is this for me? Thanks.
 	어머? 이걸 나한테? 고마워.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，你好吗？
 	ドクター、調子はどう？
 	How's it going, Doctor?
 	박사, 컨디션은 어때?
+
+干员档案\Background:
+	基础档案 :
+	【代号】陨星
+	【性别】女
+	【战斗经验】六年
+	【出身地】卡兹戴尔
+	【生日】8月30日
+	【种族】萨卡兹
+	【身高】170cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】メテオリーテ
+	【性別】女性
+	【戦闘経験】六年
+	【出身地】カズデル
+	【誕生日】8月30日
+	【種族】サルカズ
+	【身長】170cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Meteorite
+	[Gender] Female
+	[Combat Experience] 6 years
+	[Place of Birth] Kazdel
+	[Date of Birth] August 30
+	[Race] Sarkaz
+	[Height] 170cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 메테오라이트
+	[성별] 여
+	[전투 경험] 6년
+	[출신지] 카즈델
+	[생일] 8월 30일
+	[종족] 살카즈
+	[신장] 170cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】标准 
+	【生理耐受】标准 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	前“守林人”组织成员，现自由佣兵，此外履历不详。 
+	现作为狙击干员为罗德岛服务，使用手中的弩炮发挥出卓越的范围杀伤力。
+
+	個人履歴 :
+	組織「ファイヤーウォッチ」の元メンバー。現在はフリーの傭兵。それ以外の経歴は不詳。
+	狙撃オペレーターとしてロドスに協力しており、使用するハンドバリスタの殺傷力と射程は際立っている。
+
+	Profile :
+	Formerly a member of Firewatch's group, she is now a freelance mercenary. Other details of her history are unknown.
+	Now serving as a sniper Operator for Rhodes Island, she uses the bowgun in her hands to exert lethality from afar.
+
+	프로필 :
+	    전 '파이어워치' 조직의 멤버. 현재는 자유 용병 신분으로 살아가고 있으며, 이외의 이력은 분명치 않다. 현재는 스나이퍼 오퍼레이터로서 로도스 아일랜드에 서비스를 제공하고 있으며, 그녀가 들고 있는 크로스보우는 엄청난 범위 살상력을 자랑한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】7% 
+	体表暂未出现明显的矿石病病征。
+	
+	【血液源石结晶密度】0.33u/L
+	感染步入中期，目前无扩散倾向。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7%
+	体表に鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.33u/L
+	感染は中期にあるが、現時点で拡散する傾向は見られない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 7% 
+	She presents no obvious external symptoms of Oripathy.
+	
+	[Blood Crystal Density] 0.33u/L
+	Infection has progressed to middle-term. Currently there is no evidence of spreading.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 7%
+	체표면에는 현재로선 명확한 광석병 증상이 나타나지 않음. 
+	
+	[혈중 오리지늄 결정 밀도]0.33u/L
+	감염 중기로 현재로서는 확산 추세가 나타나지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	面冷心热的萨卡兹姐姐。 
+	说话从不客气，但若是能接受她的语气，就能发现话语中的关心之意。 
+	相当关注与萨卡兹人有关的各种新闻。
+
+	第一資料 :
+	態度は冷たいが実は親切なサルカズの女性である。
+	遠慮のない発言をするが、彼女の口調に慣れれば、相手への気遣いが伝わってくる。
+	サルカズ人に関わるニュースや情報に特に関心がある。
+
+	Archive File 1 :
+	She is a Sarkaz who wears a cold expression but has a warm heart. 
+	She doesn't speak very politely, but if you can get past her rude tone, you'll find her words to be heartfelt.
+	She follows all news concerning the Sarkaz.
+
+	파일 자료 1 :
+	    겉으론 냉정해 보이지만, 마음은 따뜻한 살카즈인. 말을 직설적으로 하는 편이지만, 그녀의 말투에 익숙해 질 수만 있다면 그 말 안에 포함된 관심의 뜻을 알아챌 수 있을 것이다. 살카즈인과 관련된 각종 소식에 대해 매우 관심이 많다.
+
+———————————————————————————————
+
+	档案资料二 :
+	虽然没有到感染者的地步，但作为一个公认的事实，萨卡兹人也在现代社会中受到排挤，排挤程度因地而异。 
+	这涉及到一些历史遗留问题，不便在此处展开讨论，仅以结论来说，大部分萨卡兹人都多少与主流有些脱轨，愤世嫉俗、独善其身、我行我素等等这些词，往往是他们的代名词。 
+	从这个意义上，陨星小姐是萨卡兹中人的异类，她虽然也因为主流社会的排挤而戴上了冰冷的面具，但面具下那颗尚未冷却的心，是罗德岛中的每个干员都有目共睹的。
+
+	第二資料 :
+	感染者までとはいかないが、事実サルカズ人は現代社会において、地域差はあるものの差別の対象となっている。
+	これは歴史的な問題で、ここで語ることははばかれるが、結論を言えば、多くのサルカズ人は世間の主流から逸脱しており、皮肉屋、独善、自分本位など、彼らを指す呼び名が数多くある。
+	そうした意味では、メテオリーテはサルカズ人の中でも異質であり、彼女は主流社会の差別の中で冷めた性格をよそおって生きてきたが、その下には熱い思いを抱いており、ロドスのオペレーター達はその思いに気づいた。
+
+	Archive File 2 :
+	It is a well-known fact that the Sarkaz people are ostracized from society at large, even those who are non-infected. The degree to which they are ostracized varies from place to place. 
+	This touches upon some sensitive historical issues that are inconvenient to discuss here. All we can say is that in conclusion, the Sarkaz people are removed from the mainstream. They can often be described as cynical, self-contained, and they do this as they see fit. 
+	In this sense, Meteorite is a different kind of Sarkaz. Although she wears a cold face because of the discrimination she's experienced, underneath her mask is a heart that's still warm, a fact that all Rhodes Island Operators have seen.
+
+	파일 자료 2 :
+	    감염자만큼은 아니라곤 하나, 살카즈인 역시 지역마다 조금씩 차이는 있지만 현대 사회 속에서 배척을 당해왔다는 건 모두가 알고 있는 사실이다. 이는 일부 역사 문제와 관련이 있는데, 현 단계에서 자세히 설명하긴 어렵지만 결론만 말하자면, 사회에선 대부분의 살카즈인들이 모두 사회의 주류와는 거리가 멀고, 세상에 불만이 많고, 집단을 생각하지 않는 이기주의자에, 타인의 의견을 무시하고 늘 자기 맘대로만 살아가는 사람이란 인식이 박혀있다.
+	    그런 의미에서 메테오라이트는 보편적인 살카즈인들과는 다른 사람이라 할 수 있다. 그녀 역시 사회에서의 차별로 인해 늘 냉랭한 표정을 짓고 있긴 하지만, 그 가면 아래에 아직 얼어붙지 않은 마음이 존재한다는 것은 로도스 아일랜드의 모두가 알고 있는 사실이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	与守林人小姐一样，陨星小姐也对“守林人”小队的过往绝口不谈。 
+	不过，她的理由是——这些并不该由她来说，这些，必须要由博士亲自从她口中得知才有意义。 
+	虽然这句话可能有些残酷，但是，非常明显的是，“守林人”小队的故事，对守林人小姐来说，是她的全部，但对于陨星小姐来说，那只是她众多故事中的一个。
+
+	第三資料 :
+	ファイヤーウォッチと共にメテオリーテもまた、「ファイヤーウォッチ」小隊の過去については口を閉ざしている。
+	しかしドクターは、彼女に限っていえばこの件についてはファイヤーウォッチの口から語られるべきことであると考えている。
+	少々残酷かもしれないが、明らかなのは「ファイヤーウォッチ」小隊での経歴はファイヤーウォッチにとっての全てである。対してメテオリーテにとっては、数多の経歴のうちの一つにすぎない。
+
+	Archive File 3 :
+	Like Firewatch herself, Meteorite doesn't talk about Firewatch's group's past. 
+	However, her reason is that it's not her place to talk about it. These matters should only come straight from the Doctor's mouth if they're supposed to mean anything. 
+	Though this may sound cruel, what's clear is that to Firewatch, the group's story is everything, but to Meteorite, it's just one of many.
+
+	파일 자료 3 :
+	    파이어워치와 마찬가지로, 메테오라이트 역시 '파이어워치' 소대에 대해 이야기하는 걸 꺼리는 편이다. 하지만 그녀의 이유는…… 이건 꼭 그녀가 말해줘야 하는 건 아니지만, 아무래도 박사가 그녀의 입으로부터 직접 들어야 더 의미가 있을 것이다. 어쩌면 이 말이 조금 잔혹하게 들릴 지도 모르지만, 확실한 건 '파이어워치' 소대의 이야기가 파이어워치에게 있어서는 그녀의 전부이지만, 메테오라이트에게는 수많은 이야기 중 하나일 뿐이라는 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	陨星姐姐曾经私下和我谈过，她说，她有一天说不定还是会离开罗德岛。 
+	我问她为什么，她说，她是在为萨卡兹人的地位而战，罗德岛是个很好的地方，但和她的目标毕竟不一致，这样的她，总有一天会成为罗德岛的障碍。 
+	她当时的表情很伤感，但我不知道怎么安慰她好，就只能告诉她我真实的想法，我也想帮萨卡兹人，只要不是过分的事，我会帮助她的。 
+	陨星姐姐好像呆了一下，然后她把我抱进怀里，一边摸我的头，一边说，你真傻呀，小阿米娅。 
+	虽然看不到她的表情，不过，我能感觉到，陨星姐姐应该不会离开了吧。 
+	——阿米娅
+
+	第四資料 :
+	メテオリーテさんが私に話してくれたことがあるのですが、いつかロドスから離れることになるかもしれないと言っていました。
+	「どうして？」って聞いたら、ロドスはいいところだけど、彼女はサルカズ人の処遇のために戦っていて、最終的な目的が違うから、いつか自分がロドスの邪魔になるんじゃないかって言ってました。
+	そう言ってる彼女の顔はとても悲しげで、どう慰めてあげたらよかったのかわかりませんでした。だから私は思ったままのことを伝えました。私もサルカズの人達を助けたい。ひどいことじゃなければ、彼女を助けたいって。
+	メテオリーテさんは呆けた表情を一瞬見せた後、「アーミヤはバカだなぁ…」と言いながら私を抱きしめて頭を撫でてくれました。
+	彼女の表情は見えませんでしたが、メテオリーテさんは私達を離れることはないとわかっていました。
+	——アーミヤ
+
+	Archive File 4 :
+	Meteorite once confided to me in private that she might leave Rhodes Island one day. 
+	When I asked her why, she said that she's fighting for the Sarkaz people. And while she likes Rhodes Island, our goals aren't the same as hers, and that there would be a day where she would just get in Rhodes Island's way. 
+	Her expression at the time was very sad, and I didn't know how to comfort her. All I could tell her was the truth - that I also wanted to help the Sarkaz and that as long as it wasn't too much trouble, I'd help her too. 
+	Meteorite looked blank for a second and then she hugged me. She rubbed my head and said, you're such a fool, Amiya. 
+	Although I couldn't see her expression when she said this, I could sense that in the end, Meteorite won't leave. 
+	- Amiya
+
+	파일 자료 4 :
+	    메테오라이트 씨는 예전에 제게, 언젠가는 로도스 아일랜드를 떠나야하게 될지도 모른다고 했었어요. 제가 이유를 물어보니, 로도스 아일랜드는 매우 좋은 곳이지만 자신은 살카즈인의 입장에서 싸우고 있기에 서로 지향하는 바가 달라서, 이런 자신이 언젠가는 로도스 아일랜드에 걸림돌이 될 거라고 했었죠. 그때 메테오라이트 씨의 표정은 정말 슬퍼 보였어요. 하지만 저는 어떻게 위로해줘야 할지 몰라서… 저의 진심을 알려줄 수밖에 없었죠. 저도 살카즈인을 돕고 싶다고, 일정 선을 넘는 일이 아니라면 저도 돕겠다고 말했어요. 메테오라이트 씨는 잠깐 멍하니 있다가… 저를 품에 안고 머리를 쓰다듬으며 말했어요.
+	    "너 정말 바보구나, 아미야."
+	    메테오라이트 씨의 표정을 볼 수는 없었지만, 저는 느낄 수 있었답니다. 메테오라이트 씨는 저희를 떠나지 않을 거라는 걸요.
+	——아미야
+
+———————————————————————————————
+
+	晋升记录 :
+	出乎意料的是，陨星小姐在得到晋升后，主动提交了一份名单，内容是——她过去在各地作为自由佣兵行动时使用的化名。 
+	根据这份名单调查后发现，陨星小姐过去几年，几乎没有停歇地在各地作战，并且参加的战役多数与萨卡兹有关。 
+	想必对陨星小姐来说，这是她最能表现对罗德岛信任的方法，对此，罗德岛也将投桃报李，为她提供最好的容身之处。
+
+	昇進記録 :
+	意外なことにメテオリーテは、昇進した後に、かつて各地で傭兵活動をしていた頃に使っていた偽名のリストを自ら提出してきた。
+	このリストを手掛かりに調査したところ、メテオリーテの過去何年間はほぼ絶え間なく各地の作戦に参加しており、その多くはサルカズに関わる戦いだった。
+	このリストの提出は、メテオリーテにとってのロドスへの信頼を最も表すことができる方法だったと推測できる。ロドスも彼女の信頼に応え、心地のよい居場所を提供した。
+
+	Promotion Record :
+	Unexpectedly, after receiving her promotion, Meteorite submitted a list of names. They were the aliases that she'd used in the past in various places as a freelance mercenary. 
+	After investigating this list, it was discovered that for several years, Meteorite had been fighting relentlessly, and had taken part in most military campaigns involving the Sarkaz. 
+	Presumably for Meteorite, this was her way of showing trust to Rhodes Island. In turn, Rhodes Island repaid the favor by providing her the best living arrangements.
+
+	승진 기록 :
+	    메테오라이트가 승진한 후 자발적으로 한 명단을 제출하였는데, 그 내용은 놀랍게도 그녀가 과거 각지에서 자유 용병 신분으로 활동할 때 사용했던 가명이었다. 이 명단을 통해 메테오라이트가 과거 몇 년간 쉴 틈 없이 작전에 참여했으며, 참여했던 작전 중 대부분이 살카즈와 관련된 것임을 알 수 있었다. 분명 메테오라이트에게는 이것이 그녀가 로도스 아일랜드를 신뢰하고 있다는 사실을 표현할 수 있는 가장 좋은 방법이었을 것이다. 이에 보답하기 위해, 로도스 아일랜드는 그녀가 몸담을 수 있는 가장 좋은 회사이자 집이 될 수 있도록 노력해야 할 것이다.

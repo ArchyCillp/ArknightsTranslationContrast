@@ -100,7 +100,7 @@
 
 [Decision(options="都到这一步了，必须做些什么！;......;让无辜的人受难，这违背了罗德岛的信条。",values="1;2;3")]
 [Decision(options="ここまで来たからには、やるべきことをやる！;……。;罪なき人々を苦しめるのは、ロドスの信条に反している。",values="1;2;3")]
-[Decision(options="We’ve already come this far. There’s only one thing to do!;……;Letting countless innocents suffer violates our credo.",values="1;2;3")]
+[Decision(options="We've already come this far. There's only one thing to do!;......;Letting countless innocents suffer violates our credo.",values="1;2;3")]
 [Decision(options="일이 이렇게까지 된 이상, 해야할 일을 해야 합니다!;……;무고한 사람이 고통받게 놔두는 건, 로도스 아일랜드의 신조에 어긋나는 일입니다.",values="1;2;3")]
 
 [name="赫拉格"]     所以，责任由谁承担？

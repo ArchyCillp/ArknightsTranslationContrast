@@ -1,11 +1,17 @@
 ID:
 	char_250_phatom
 
-干员代号\Name:
+CV:
 	傀影
 	ファントム
 	Phantom
 	팬텀
+
+干员代号\Name:
+	石田彰
+	石田彰
+	Akira Ishida
+	이시다 아키라
 
 招聘合同\Character Usage:
 	罗德岛干员傀影，如影子般融入黑夜。
@@ -48,177 +54,493 @@ ID:
 	밤의 장막의 기습
 
 语音\Voices:
-	别去刻意寻找，我一直在。
 	探し回るな。私はいつでもここにいる。
-	No need to go looking for me. I’ve always been here.
+	No need to go looking for me. I've always been here.
 	찾아다니지 마라. 난 언제든 여기에 있으니.
 
-	黑夜中的人无法给你指路，也看不到你指出的方向。别停留，你该离开了......
 	闇夜を歩く人は道を示すことは叶わず、君の指し示す方向も見えない。闇に留まってはいけない……
-	People in the dark cannot show you the way, nor can they see where you're pointing. Don’t tarry here, it’s time for you to leave...
+	People in the dark cannot show you the way, nor can they see where you're pointing. Don't tarry here, it's time for you to leave...
 	어두운 밤을 걷는 사람은 길을 가리킬 수 없고, 네가 가리키는 방향도 볼 수 없다. 어둠에 머물러서는 안 돼……
 
-	在这幅假面之下，我认不出自己是谁。
 	この仮面の下では、自分が誰であるかもわからない。
 	Under this mask, even I do not recognize myself.
 	이 가면 아래에서는, 내가 누구인지조차도 알 수 없다.
 
-	这位是Miss.Christine。我不知道她从哪里来，也不知道她会在什么时候离开。如果她喜欢你，她会主动靠近......没错，像现在这样。
 	彼女はミス・クリスティーン。どこから来たのかも、いつ消えてしまうかも、私の与り知るところではない。彼女は気に入った者にだけ身を寄せる……そう、今君にしているみたいにね。
-	This is Ms.Christine. I don’t know where she came from, nor do I know when she will leave. If she likes you, she will approach you on her own... Yes, just as she’s doing right now.
+	This is Ms.Christine. I don't know where she came from, nor do I know when she will leave. If she likes you, she will approach you on her own... Yes, just as she's doing right now.
 	그녀는 미스 크리스틴. 어디에서 왔는지도, 언제 사라져 버릴지도 나는 전혀 모른다. 그녀는 마음에 들어 하는 자에게만 몸을 맡기지…… 그래, 지금 너에게 하는 것처럼 말이야.
 
-	曾经的我也并非孤身一人。我有过一些伙伴，作为一个小剧团四处周游。但当矿石病爆发蔓延，一切到此结束，一切又由此而始......
 	かつての私は一人ではなかった。小さな劇団に加わり、仲間達とあちこちで公演して回ったものだ。しかし鉱石病の蔓延で、全ては幕を閉じた。そしてそこから、全てが始まった……
-	In the past, I was not lonely. I used to have several friends, and we used to travel all over the world as a theatre troupe. But when Oripathy broke out, that’s when everything ended, and everything began...
+	In the past, I was not lonely. I used to have several friends, and we used to travel all over the world as a theatre troupe. But when Oripathy broke out, that's when everything ended, and everything began...
 	나도 한때는 혼자가 아니었다. 작은 극단에 들어가 동료들과 이곳저곳에서 공연을 하며 돌아다녔지. 하지만 광석병이 만연해지면서 모든 것은 막을 내렸다. 그리고, 거기서부터 모든 것이 시작되었지……
 
-	这片黑暗是庇护所，也是宝座，更是乐园。过去的亡灵从未离去，而我在他们的骸骨上诅咒这一切......看到我这副模样，你还想聆听我的歌声，你还敢...站在我身前吗？
 	この闇はシェルターであり、宝座であり、そして何より楽園でもある。過去の亡霊はこの場に縋りつき、私は彼らの亡骸の上でその全てを呪う……。今の私を見て、それでも君は私の歌声を求めるのか？私の前に立つ……勇気はあるのか？
-	This darkness is a refuge, a throne, and paradise. The spirits of the dead have never left, and I’ve cursed the world from atop their bones... Seeing me as I am now, do you still want to hear my song? Do you still dare... to stand before me?
+	This darkness is a refuge, a throne, and paradise. The spirits of the dead have never left, and I've cursed the world from atop their bones... Seeing me as I am now, do you still want to hear my song? Do you still dare... to stand before me?
 	이 어둠은 방공호이자 옥좌이고, 게다가 무엇보다 낙원이기도 하다. 과거의 망령은 이 자리에 달라붙었고, 난 그들의 시체 위에서 그 모든 것을 저주하지…… 지금의 나를 보고도 넌 내 노래를 원하나? 나의 앞에 설…… 용기는 있나?
 
-	喉咙上的这个装置压迫着我的脖颈，但这正是我需要的。和面具一样，它遮掩了我的罪恶，隐藏了我的声音。想听我真正的声音？不，不能。这不是你该承受的......
 	喉のこの装置が私の首を締めつける。しかし私にはこれが必要だ。仮面と同じように、私の罪を覆い隠し、声を遮ってくれる。私の真の声を聴きたい？いや、それは認められない。君が受け止めるべきものではないのだ……。
-	This device embedded above my throat compresses my neck, but it is exactly what I need. Like a mask, it conceals my sins and my voice. You’d like to hear my real voice? No, you can’t. It’s not something you should have to bear...
+	This device embedded above my throat compresses my neck, but it is exactly what I need. Like a mask, it conceals my sins and my voice. You'd like to hear my real voice? No, you can't. It's not something you should have to bear...
 	목의 이 장치가 나의 목을 조르지. 하지만 나에겐 이것이 필요해. 가면과 마찬가지로 나의 죄를 덮어 가리고, 목소리를 차단해 주거든. 내 진짜 목소리가 듣고 싶다고? 아니, 그건 허락할 수 없다. 네가 받아들일 만한 것이 아니야……
 
-	我的歌声结束了所有人的生命。无止境的夜，不停止的歌，那些从喉咙里呕出的发颤高音和内脏碎片，令人恐惧，也让人窒息......却又那么......美妙。博士，你告诉我，我到底......在做什么？
 	私の歌声は全ての者の命を終焉に導いた。果てなき夜、反響し続ける歌、喉の奥から絞り出した震えしファルセットと臓腑の欠片は、人々を慄かせ、その息を止めた……しかしこの上なく……美しかった。ドクター、教えてくれ。私はいったい……何をしているのだろうか？
-	My song ended all of their lives. On that endless night, the song that wouldn’t stop, those quivering trebles and organ fragments that I kept vomiting from my throat... Frightening and suffocating, but so... miraculous. Doctor, tell me. Back then... what did I really do?
+	My song ended all of their lives. On that endless night, the song that wouldn't stop, those quivering trebles and organ fragments that I kept vomiting from my throat... Frightening and suffocating, but so... miraculous. Doctor, tell me. Back then... what did I really do?
 	내 노래는 모든 이의 목숨을 죽음의 땅으로 이끌었다. 끝이 없는 밤, 계속 메아리치는 노래, 목 안에서 쥐어짠 떨리는 팔세토와 장기들의 조각은 사람들을 전율시키고, 그 숨을 멎게 했다…… 하지만 더할 나위 없이…… 아름다웠지. 박사, 가르쳐 줘. 난 대체…… 무슨 짓을 하고 있는 거지?
 
-	我能帮你取走许多生命，但我必须先确认自己是否清醒。有什么在尝试左右我，它不愿我走下舞台，它想让歌声永远回荡下去......甚至去杀死你。再次扮演你的刺客前，我必须先找到真相。
 	君の為に多くの命を奪うことに躊躇いはない。しかしまずは私の目が覚めているか確かめさせてくれ。何かが私を支配しようとしているのだ。それは私が舞台を降りることを拒み、歌声を絶やすことを許さない……そして最後に、君さえも殺すだろう。再び君の刺客を演じることになる前に、私は真相を突き止めなければならないんだ。
-	I can end many lives for you, but I first need you to confirm that I am awake. Something is trying to influence me. It doesn’t want me to leave the stage. It wants my song to echo forever... and it wants me to kill you. Before I play the role of your assassin once more, I must discover the truth.
+	I can end many lives for you, but I first need you to confirm that I am awake. Something is trying to influence me. It doesn't want me to leave the stage. It wants my song to echo forever... and it wants me to kill you. Before I play the role of your assassin once more, I must discover the truth.
 	너를 위해 수많은 목숨을 빼앗는 것에 주저함은 없다. 하지만 먼저 내가 깨어있는지 확인시켜줘. 뭔가가 나를 지배하려 하고 있다. 그것은 내가 무대를 내려가는 것을 거부하고, 노랫소리가 멈추는 걸 용서치 않아…… 그리고 마지막엔, 너마저 죽이겠지. 다시 너의 자객을 연기하게 되기 전에, 나는 진상을 밝혀내야만 한다.
 
-	即使现在并非黑夜，黑影也不曾离开你的身边。小心你那些不合时宜的睡意，博士。
 	闇夜に非ずとも、黒い影は君につきまとう。不自然な時刻に現れる睡魔には用心するんだ、ドクター。
 	The shadows have never left your side, even when it is not nighttime. Do be careful of your untimely somnolence, Doctor.
 	어두운 밤이 아니어도 검은 그림자는 너를 따라다닌다. 부자연스러운 시각에 나타나는 수마에는 주의를 기울여라, 박사.
 
-	代号傀影，黑夜中的幽灵，幕布后的幻影。告诉我，你的敌人在哪，是谁......
 	ファントム、闇夜に彷徨う幽霊、緞帳裏の幻影。教えてくれ、君の敵の所在と、その名を……。
 	Code name, Phantom. The Phantom Behind the Curtain, Gaspard de la Nuit. Tell me, who are your enemies, and where do they hide...
 	팬텀, 어두운 밤을 떠도는 유령, 무대막 뒤의 환영. 가르쳐 줘, 너의 적이 있는 곳과 그 이름을……
 
-	杀戮不是目的，而是手段。
 	殺戮は目的ではない、手段の一つだ。
 	Killing is not an end, but a means.
 	살육은 목적이 아니라, 일종의 수단이다.
 
-	如你所愿。罗德岛的曲调由你来定，你不需要引导或保护......是的，我很清楚。你才是你自己的主人。
 	仰せのままに。ロドスの曲調は君が決める、誰の導きも、保護も受けずに……そう、私にはわかる。君こそが君自身の主なのだ。
-	As you wish. You are the one who sets Rhodes Island’s tune, and you require neither guide nor guardian... Yes, I know all too well, you are your own master.
+	As you wish. You are the one who sets Rhodes Island's tune, and you require neither guide nor guardian... Yes, I know all too well, you are your own master.
 	분부대로. 로도스 아일랜드의 곡조는 네가 정해라. 누구의 지도도, 보호도 받지 않고…… 그래, 난 알 수 있어. 너야말로 너 자신의 주인이다.
 
-	这一步无法回头，无法后望。我将与你分享的东西，恐怕并不像你想象中那样美妙。......过来，来这里，这黑夜的幕布，就让我为你揭开。
 	この一歩を踏み出せば、もう戻ることも、振り返ることも出来ない。今から私が見せるものは、想像のような美しさはないかもしれない。……さぁ、こちらへ。この闇夜の緞帳を、今君のために開けよう。
 	There is no looking back after this step, no turning back. What I am about to share with you is not as wonderful as you may believe... Come, come here, and allow me to show you what lies beneath the veil of night.
 	이 한 걸음을 내디디면 더는 돌아갈 수도, 뒤돌아볼 수도 없다. 지금부터 내가 보여주는 것은 상상했던 것처럼 아름답지 않을지도 몰라. 자… 이쪽으로… 이 어두운 밤의 무대막을, 지금 널 위해 올리겠다.
 
-	该我登台了吗？
 	私の出番か？
 	Is it time for me to take the stage?
 	내 차례인가?
 
-	给与引导，这我不陌生。
 	導きを与えよう……か？手慣れたものだ。
 	I am no stranger to giving guidance.
 	길을 이끌라는 말인가…… 익숙한 일이다.
 
-	就按你所说的方向......
 	君の指し示す方向に……
-	I’ll do as you say...
+	I'll do as you say...
 	네가 가리키는 방향으로……
 
-	戏剧该揭开它的帷幕了。
 	舞台の幕開けだ。
 	Let us raise the curtains on this play.
 	무대의 개막이다.
 
-	我在。
 	ああ。
 	I'm with you!
 	여기 있다.
 
-	那么，潜入夜幕吧。
 	では、夜のとばりに潜り込むとしよう。
 	So, let us sink into the night.
 	그럼, 밤의 장막으로 숨어들겠다.
 
-	我自暗影中现身。
 	私は闇より現れる。
 	I come from the shadows.
 	나는 어둠에서 나타난다.
 
-	听我的声音。听我歌唱。
 	聞け、私の声を、歌を。
 	Hear my voice. Hear my song.
 	들어라. 나의 목소리를, 나의 노래를.
 
-	看到镜中你自己的脸了吗。
 	鏡に映りし己が顔が見えるか。
 	Do you see your own face within the mirror?
 	거울에 비친 자신의 얼굴이 보이는가.
 
-	演员是台词的傀儡。
 	演者は台詞の傀儡だ。
 	The actors are all puppets of the script.
 	배우는 대사의 꼭두각시다.
 
-	有罪者......当受罚。
 	罪人は……罰を受けるべきだ。
 	The guilty... will be punished.
 	죄인은…… 벌을 받아야 한다.
 
-	为了我——歌唱吧！歌唱吧！歌唱吧！
 	私の為に――歌え！歌え！歌え！
 	Yes, lift your voices! Sing for me! Sing for me!
 	나를 위해…… 노래하라! 노래하라! 노래하라!
 
-	这就是由你引导而来的胜利吗......
 	これは君が導きし勝利か……
 	Is this the victory that your leadership has brought...
 	이것은 네가 이끈 승리인가……
 
-	结束了。胜利并不甜美，纷争总是孕化了其它滋味。
 	終幕だ。勝利の味は甘美なものではない。紛争が孕む滋味は、それとは違う。
 	It is over. Victory is not sweet, as conflict always leaves an aftertaste.
 	종막이다. 승리의 맛은 달콤하지 않아. 분쟁이 잉태한 깊은 맛은 그것과는 다르다.
 
-	被他们逃了。对他们来说是件好事......对我来说，或许也是。
 	逃げられたか。彼らにとっては良い事だ……或いは、私にとってもな。
 	They escaped. Fortunate for them... and perhaps for me as well.
 	놓쳤나. 그들에게는 좋은 일이다…… 어쩌면 나에게도.
 
-	撤退。......你已经迷失了方向。
 	撤退だ。……君は行先を見失ったようだ。
-	Fall back. ......You’ve already lost your way.
+	Fall back. ......You've already lost your way.
 	후퇴한다…… 너는 갈 곳을 잃은 모양이군.
 
-	嗯？这面镜子后面，似乎......
 	む？この鏡の後ろ、これは……
 	Hm? Behind this mirror, it seems as if...
 	음? 이 거울의 뒤, 이건……
 
-	什么？
 	なんだ？
 	What?
 	뭐지?
 
-	这个脚步声......是你，博士。
 	この足音……やはり君か、ドクター。
-	The sound of these footsteps... It’s you, Doctor.
+	The sound of these footsteps... It's you, Doctor.
 	이 발소리…… 역시 너였군, 박사.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你身后的影子看起来比昨天更沉重，博士。
 	後ろの影が昨日より重く見えるな、ドクター。
 	The shadow behind you looks heavier than it was yesterday, Doctor.
 	뒤의 그림자가 어제보다 무거워 보이는군, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】傀影
+	【性别】男
+	【战斗经验】九年
+	【出身地】维多利亚
+	【生日】1月19日
+	【种族】菲林
+	【身高】185cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ファントム
+	【性別】男
+	【戦闘経験】九年
+	【出身地】ヴィクトリア
+	【誕生日】1月19日
+	【種族】フェリーン
+	【身長】185cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Phantom
+	[Gender] Male
+	[Combat Experience] 9 Years
+	[Place of Birth] Victoria
+	[Date of Birth] Jan 19
+	[Race] Feline
+	[Height] 185cm
+	[Infection Status] 
+	Crystals have appeared on his body. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 팬텀
+	[성별] 남
+	[전투 경험] 9년
+	[출신지] 빅토리아
+	[생일] 1월 19일
+	[종족] 필라인
+	[신장] 185cm
+	[광석병 감염 상황]
+	오리지늄 결정이 체표면에 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】卓越
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】卓越
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Outstanding
+	[Physical Resilience] Standard
+	[Tactical Acumen] Excellent
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 월등
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	独自行动于维多利亚及周边地区的刺客傀影，过去行踪难以查定，背景履历尚未完全实证。
+	现作为特种干员加入罗德岛，作战能力优秀，但仍需谨慎对待。
+
+	個人履歴 :
+	ヴィクトリアとその周辺地域において単独で活動していた暗殺者。過去の行動履歴は不明、経歴の査証はまだ済んでいない。
+	特殊オペレーターとしてロドスに加入。優秀な作戦能力の持ち主だが、対応は慎重にすべきである。
+
+	Profile :
+	Phantom, an assassin who has acted independently in Victoria and surrounding areas, has been difficult to identify in the past, and his previous history has not yet been fully verified. 
+	He has now joined Rhodes Island as a specialist and boasts exceptional combat capabilities, but must be treated with caution.
+
+	프로필 :
+	    빅토리아와 그 주변 지역에서 독자적으로 활동하는 암살자 팬텀은 과거 행적 확인이 어렵고, 배경 이력이 완전히 검증되지 않았다. 현재는 로도스 아일랜드의 스페셜리스트 오퍼레이터로서 우수한 작전 능력을 보여주고 있지만, 아직은 신중한 자세로 그를 대해야 한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】14%
+	体表有明显源石结晶分布，考虑到结晶位置特殊，干员傀影的发声系统或许已经产生严重异变。
+	
+	【血液源石结晶密度】0.35u/L
+	干员傀影目前感染状况不容乐观，存在进一步恶化的可能，需着重观察。
+	
+	他对待治疗的态度隐约有些消极，如果一直这样下去，就算有最好的医疗环境，恐怕也无济于事。
+	——安赛尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】14%
+	体表に明らかな結晶の分布を確認。結晶の部位が特殊であるため、発声器官に深刻な異変が起きているかもしれない。
+	
+	【血液中源石密度】0.35u/L
+	病状は芳しくない。更に悪化する可能性があるため、慎重な経過観察が必要。
+	
+	彼の治療に対する態度は少しネガティブに見えます。このままでは、どんなに優れた医療条件でも彼を救うことはできないでしょう。
+	――アンセル
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of his internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in his circulatory system, confirming him to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 14%
+	Significant crystal distribution is visible on the surface of the body. Considering the peculiar location of the crystals, the voice of Operator Phantom may have undergone serious changes. 
+	
+	[Blood Originium-Crystal Density] 0.35u/L
+	Phantom's prognosis based upon his current infection status is poor, and there is potential for further deterioration. 
+	
+	He has a slightly negative view towards medical treatment. I am afraid that if this continues, there will be little that can be done for him even in the best medical setting. 
+	—Ansel
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 14%
+	체표면에 오리지늄 결정 분포가 선명히 드러나 있고, 결정 위치의 특수성을 고려해본다면, 어쩌면 오퍼레이터 팬텀의 발성 기관에 심각한 변이가 발생했을 수도 있음.
+	
+	[혈중 오리지늄 결정 밀도] 0.35u/L
+	오퍼레이터 팬텀의 현재 감염 상황은 낙관적이지 않으며, 더욱 악화될 가능성이 있는 만큼 엄밀한 관찰이 필요하다.
+	
+	그는 치료에 대해 다소 소극적인 태도를 취하고 있습니다. 만약 이 상태가 지속된다면, 최상의 치료 서비스를 받는다 해도 아무런 소용이 없을 겁니다.
+	——안셀
+
+———————————————————————————————
+
+	档案资料一 :
+	干员傀影第一次踏上罗德岛时，吓坏了当时正在值班的后勤工作人员。他突然出现在对方身后，随后一言不发，就站在原地，一直等到工作人员转身发现他的存在。在这之后，舰船的监测与防控设施得到了一次全方位的加强，用难得恼怒的可露希尔小姐的原话来说，就是“就算他真的只是一片影子，也绝不允许没许可就随意上船，也太嚣张了吧”。
+	傀影坦言自己是一名独立刺客，正如大众对于这一职业的普遍认知一般，这位来自维多利亚地区的刺客大多数时间都安静沉默，极少开口，就算是在达成雇佣关系后，傀影也并没有向我们讲述太多自己过去的经历。
+	随干员傀影一同来到罗德岛的，还有夜一般深邃迷人的Miss.Christine。毫无疑问，这是一位优雅而又高傲的淑女，没有人能够决定她的去留，她并不总跟在傀影身边，而是乐于四处漫步，安静地巡视自己的属地。
+	
+	附录
+	偶遇Miss.Christine时的三个建议：
+	1.绝不主动触摸Miss.Christine，要期待她的接近，也要接受她的离开。
+	2.显示出尊重的态度，向美丽的小姐点头致意。
+	3.保持心情愉快。
+
+	第一資料 :
+	ファントムがロドスに初めてやって来た時、当番中の支援オペレーターをひどく驚かせたことがある。彼がいきなり相手の後ろに現れ、無言で立ったまま、相手が振り向くのを待っていたからである。その後、艦船の監視・防犯設備は全面的に強化された。珍しく怒ったクロージャの言葉によると、「本当にあの人がただの影だったとしても、許可なく勝手に登艦するなんて生意気だよ」らしい。
+	彼は自身が無所属の暗殺者であることを、自ら語っている。大衆がこの職業に持っているイメージ通り、このヴィクトリア出身の暗殺者は寡黙だ。雇用関係が成立した後でも、彼は滅多に自分の過去を語らない。
+	夜のような神秘感を持つミス・クリスティーンは、彼と共にロドスに来た。優雅で孤高の存在である彼女は誰の指図も受けない。彼女は常にファントムの隣にいるわけではなく、静かに歩き回り、自分の縄張りを見回ることの方が多い。
+	
+	追記
+	ミス・クリスティーンに遭遇した際の注意事項：
+	1.ミス・クリスティーンに積極的に触れようとしないこと。彼女の方から近づいてくることに期待するだけに留め、離れて行くことも受け入れなければならない。
+	2.美しい彼女に敬意を払い、会釈すること。
+	3.明るい気持ちで彼女に接すること。
+
+	Archive File 1 :
+	When Phantom first set foot on Rhodes Island, he terrified the logistics personnel who were on duty at the time. He suddenly appeared behind one individual, standing there without a word until the person turned around to discover his presence. After the incident, the ship's monitoring and deterrence facilities were given thorough, all-around upgrades. In the words of a rare angered Closure, 'even if he is just a shadow, he should never be allowed to board the landship without permissions ever again. It's just far too arrogant.' 
+	Phantom was quite frank about his work as an independent assassin. As the general public is quite aware of the nature of this profession, this quiet assassin from Victoria usually keeps a low profile and has few words to say, even after becoming an employee. Phantom has also disclosed little about his prior experiences. 
+	Accompanying Phantom on his arrival to Rhodes Island was a person as mysterious and alluring as the night itself, someone known as 'Ms.Christine.' Through her demeanor, it was clear that she was a refined and haughty woman. No one knows whether she will remain or leave, and she is not always seen with Phantom, instead happy enough to wander around as if quietly patrolling her turf. 
+	
+	Appendix
+	Three suggestions when encountering Ms.Christine:
+	1. Never touch Ms.Christine. Wait for her to approach, and accept when she leaves. 
+	2. Show a respectful attitude towards her, as if deferring to a beautiful maiden. 
+	3. Maintain a pleasant demeanor.
+
+	파일 자료 1 :
+	    오퍼레이터 팬텀이 처음 로도스 아일랜드에 도착했을 때, 그는 당시 당직이었던 후방 지원 인원을 깜짝 놀라게 했다. 팬텀이 홀연히 뒤편에서 나타난 후 상대가 뒤돌아서 자신을 발견할 때까지 조용히 기다리기만 했기 때문이다. 이후 함선 내 감시 및 제어 시설에 대한 전면 보강이 진행됐으며, 좀처럼 화를 내지 않는 클로저도 "팬텀이 설사 진짜 그림자라고 해도, 허가 없이 승선하는 건 용납 못해! 너무 날뛰는 거 아냐?"라고 불평하였다고 한다.
+	    팬텀은 스스로를 독자적으로 움직이는 암살자라 밝혔다. 그리고 모두가 알고 있는 암살자와 같이, 빅토리아에서 온 이 암살자는 대부분의 시간을 침묵 속에서 조용히 지내왔는데, 계약을 체결한 이후에도 과거에 대한 이야기를 좀처럼 하지 않았다.
+	    팬텀과 함께 로도스 아일랜드로 온 미스 크리스틴에겐 깊은 밤처럼 사람을 빠져들게 만드는 매력이 있었다. 당연하게도 이 우아하고, 도도한 숙녀의 거취를 결정할 수 있는 사람은 아무도 없었다. 그녀는 항상 팬텀과 함께 행동하진 않았으며, 느긋하게 곳곳을 거닐며 자신의 구역을 순시하는 것을 즐겼다.
+	
+	    부록
+	    미스 크리스틴을 우연히 만났을 때를 위한 세 가지 조언:
+	    1. 절대 그녀와의 접촉을 먼저 시도하지 마라. 그녀가 먼저 다가와 주길 바라고, 떠나는 것 역시 받아들여야 한다.
+	    2. 정중한 태도를 보이고, 이 아름다운 아가씨에게 고개 숙여 인사할 것.
+	    3. 유쾌한 감정 상태를 유지할 것.
+
+———————————————————————————————
+
+	档案资料二 :
+	干员傀影天生的法术天赋在他遭受感染后，发生了令人惊诧的异变，深入其咽喉部位的源石结晶使他拥有了独特而危险的能力。
+	在征求了当事人的许可后，罗德岛对其进行了一系列针对性测试，现已基本能够确认，干员傀影异变的能力与声音有关，特别是经由喉咙发出的音节，能够对活体的精神造成极大的影响及损伤。音调中的情感色彩越强烈，往往所造成的的影响也越深刻，并且，这种精神层面的损伤难以修复或逆转。
+	考虑到干员的特殊情况及其本人意愿，傀影所佩戴的感染监控装置经专业部门改装，加载了能够针对其病变状态进行抑制的特殊机能，以此确保其在罗德岛的日常行动不受阻碍。
+
+	第二資料 :
+	ファントムの生まれつきのアーツの能力は、感染によって劇的な変化を遂げた。喉の奥深くにある源石結晶が、彼に独特で危険な能力を与えたのだ。
+	ロドスは彼の許可を得た後、一連のテストを実施した。結果、彼の変異した能力は音に関連しているものであることが確認された。特にその喉から出す声は、生体の精神に甚大な影響及び損傷を与えることが可能なようだ。その声に込められた感情が激しいほど、もたらす影響も大きくなる。また、それによる精神的損傷は修復不可能で、不可逆的なものと見られる。
+	ロドスでの日常行動に支障が出ないようにするため、彼が着用する感染状況トラッカーには、状況に応じて彼の病状を抑制できるよう、特別な機能が搭載されている。
+
+	Archive File 2 :
+	Phantom's natural talent for Arts was affected when he contracted Oripathy, after which an astonishing transformation occurred. The metastasis of Originium crystals deep into his throat gave him a unique and dangerous ability. 
+	After receiving his permission, Rhodes Island conducted a series of tests aimed at targeting this ability, basically confirming that Phantom's ability to alter the shadows is related to sound. By using his throat to vocalize certain sounds, he is able to interfere with and severely damage the psyche of a living being. The more intense the emotion in the tone, the deeper the effect is, producing psychological damage that is difficult to repair or reverse. 
+	Considering the operator's special circumstances and his personal desires, Phantom's infection monitoring device has been modified by the R&D Department to be equipped with special functions that can suppress his infection symptoms to ensure that he is able to live a normal life in Rhodes Island without hindrances.
+
+	파일 자료 2 :
+	    오퍼레이터 팬텀이 타고난 아츠 능력은 감염 이후 깜짝 놀랄만한 변이를 일으켰고, 목구멍까지 파고든 오리지늄 결정은 팬텀에게 독특하면서도 위험한 능력을 부여하였다.
+	    팬텀의 허락을 받은 후 로도스 아일랜드는 그를 대상으로 한 일련의 타겟성 테스트를 진행하였고, 그 결과 팬텀의 변이 능력은 그의 목소리와 관련이 있으며, 특히 목구멍을 통해 나오는 음절이 생명체의 정신에 엄청난 영향과 대미지를 줄 수 있음을 확인하였다. 또한 음절에 담긴 감정적 색채가 강렬할수록 그 힘 역시 강해지며, 이로 인해 받는 정신적 대미지는 회복되기 어려운 것으로 확인되었다.
+	    해당 오퍼레이터의 특수 상황과 본인의 희망사항을 고려, 전문 부서에서 그가 착용하는 감염 모니터링 장치에 변이 상황을 억제하는 특수 기능을 추가하였고, 덕분에 팬텀은 장애 없이 로도스 아일랜드에서의 일상생활을 이어갈 수 있게 되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在真正成为一名独自行动的刺客之前，傀影曾跟随一个流浪剧团，四处巡回表演谋生。根据调查可以推测，或许是数年前在维多利亚部分地区蔓延的矿石病，摧毁了这个剧团，同时也改变了干员傀影的人生轨迹。他过去或许嗓音美妙，但现在的傀影早已远离舞台。
+	就算是在罗德岛内部，也有许多干员从未与傀影正面相遇，甚至有不少人相信“根本没有叫傀影这个代号的干员”，目前尚且仅有少数几人真正对这位干员有所了解。
+	一句题外话，笔者唯一一次与干员傀影对面，是在撰写档案前找到博士，并通过博士，才找到傀影本人。
+	
+	 “我的确曾听说过一些传闻，关于那个‘剧团’，还有那背后的东西。
+	我也可以告诉你，我在现在的他身上能看到怎样的图景，但是这或许并没有什么用，因为你很可能不会听。
+	你坚持？那好吧。
+	要说的不多，我的建议只有一条。
+	——离他远点。那家伙根本就还不清醒，他被噩梦抓住了。”
+	
+	——与干员黑的交谈记录。
+
+	第三資料 :
+	独立した暗殺者になる前、ファントムはある移動式劇団の一員として、ツアーで生計を立てていた。調査によると、数年前にヴィクトリアの一部地域に蔓延した鉱石病が原因で劇団は崩壊し、彼の人生も一変したという。かつては素晴らしい歌声を持っていた彼であるが、すでに舞台からは退いたのだ。
+	ロドスの中でも、彼と面識があるオペレーターは少なく、その存在すら知らない者も大勢いる。本当の意味で彼を知るオペレーターはほんの一握りである。
+	余談だが、筆者が唯一彼と会ったのは資料の執筆をする際だ。ドクターを通して、やっと彼と面会することができたのだ。
+	
+	「以前あの『劇団』とその背後にあるものについての噂を聞いたことがあります。
+	私の目に彼はどんな風に映っているか、ですか？教えても構いませんが、あなたにとって無意味でしょう。私の言うことなど聞き入れてもらえないかもしれませんから。
+	それでも聞きたいのですか？わかりました。
+	一つだけ忠告をしておきます。
+	――彼にはあまり近寄らないでください。あれは正気とは到底言えません。彼は悪夢に囚われています。」
+	
+	――シュヴァルツとの会話記録
+
+	Archive File 3 :
+	Before becoming a lone assassin, Phantom was a part of a traveling performance troupe, touring and putting on shows for a living. We can infer from our investigations that a wave of Oripathy that ripped through parts of Victoria a few years ago destroyed this troupe, and changed the trajectory of Phantom's life. He may have had a wonderful voice in the past, but as he is now, he could not be further from the stage. 
+	Even in Rhodes Island, there are many operators who have never directly met Phantom, with some insisting that there is no such operator named Phantom at all. Currently, only a small handful of people actually have any understanding of this operator. 
+	As an aside, the only time I came in contact with Phantom was when I was looking for the Doctor prior to writing this file. I was only able to find Phantom through the Doctor. 
+	
+	'Indeed, I've heard some rumors about this 'troupe' and what happened behind the scenes. 
+	I can also tell you about the impressions I now have about him, but it may not be of any use to you, because there's a good chance you won't listen. 
+	But if you insist? Very well. 
+	I don't have much to say, but there is one suggestion. 
+	—Stay away from him. He's still caught in a nightmare, not fully awake yet.' 
+	
+	—A conversation with Schwarz
+
+	파일 자료 3 :
+	    암살자로 활동하기 전, 팬텀은 어느 유랑 극단과 함께 방방곡곡을 다니며 순회공연을 하여 생계를 유지했었다. 조사 결과를 통해 추측컨데, 어쩌면 몇 년전 빅토리아 일부 지역에서 창궐한 광석병으로인해 해당 극단이 해체되었고, 이 사건이 팬텀의 삶의 궤적을 바꿔놓은 것으로 보인다. 과거의 팬텀은 아름다운 목소리를 가졌을 수도 있으나, 지금의 그는 무대와는 동떨어진 삶을 살고 있다.
+	    로도스 아일랜드 내부만하더라도 팬텀과 마주해본 적이 없는 이들이 수두룩하며, 심지어 "팬텀이라는 코드네임을 가진 사람 자체가 존재하지 않는다."는 말을 믿는 이들도 적지 않다. 아직 이 오퍼레이터에 대해 알고 있는 자는 소수에 불과하다.
+	    여담이지만 필자는 딱 한 번, 파일을 작성하기 전 박사를 찾아가, 박사를 통해 팬텀 본인을 겨우 찾아냈었다.
+	
+	    "확실히 그 '극단'과 그 배후에 대한 소문을 들은 적이 있습니다.
+	    저도 말씀드리자면, 전 지금 그로부터 어떤 것을 느낄 수 있으나, 부질 없을 듯합니다. 아마 당신이 들으려 하지 않을 테니까요.
+	    계속 하라고요? 그럼 좋습니다.
+	    간단히 말씀드리자면, 제가 제안드리고 싶은 것은 단 하나.
+	    그를 멀리하십시오. 그는 아직 깨어나지 못한 채, 악몽에 붙잡혀 있으니까요."
+	    ——오퍼레이터 슈바르츠와의 대화 기록
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	我们找到了当时剧团发生事故的现场，那是一个乡下小镇，被矿石病摧毁，还能走的人早已经逃离这里，现在这一带已经一片荒芜。
+	时间过去太久，我们本来没抱什么希望，但这里的一切却像是被遗忘在了过去......看看这些照片就能明白了，这里简直像是传说中的那种幽灵镇，所有的民居、设施、公共建筑，除了居民，所有的东西都和记录里的一模一样，包括扎营在公园里的剧团帐篷，全都原样保存着。
+	
+	剧团演出的现场录像被损毁得相当彻底，处于中心现场的机械设备已经完全无法修复，但我们找到了远离舞台的总控台，在那里查到了一些破损的文件资料，以及一条向外备份发送的数据记录。
+	尽力还原后的数据缺损严重，里面的内容物简直一团糟。打个比方，就像是把蛋糕装在塑料袋里，然后封好口，就这么丢进在欢度伊比利亚狂欢节的那群疯子中间，最后袋子里能剩下的东西，就和我们破解出来的玩意差不多了。至于那一份向外发送的数据，路径太模糊，我们没法追查。
+	
+	为了确认内容，我们播放了其中一个还算完整的录像片段，在视频播放的同时，在场的三名调查人员情绪都出现了一定程度的紊乱，因此，我们不得不将剩下的文件暂时封存。
+	当年到底发生了什么？又到底是谁，出于什么样的目的，要留存下这样的东西？
+	我难以想象，这给我的感觉太糟了。
+	
+	【视频文件-已加密】
+	【加密人-凯尔希】
+	【危险等级-3】
+	“■■■舞台，死亡■■■■背后■■■绕，歌声■■，■■■■结束，一切■始。”
+
+	第四資料 :
+	【権限記録】
+	我々は鉱石病によって滅んだ小さな田舎町で、当時の劇団の事故現場を発見した。まだ動けた人たちはとっくに逃げ出したため、あたりはもうすっかり廃れている。
+	しかし施設は、過去に取り残されたかのように昔のままだった。写真を見ればわかるが、居住者がいないことを除き、家、施設、公共の建物、公園に設置されていた劇場のテントを含め、全てのものが記録と一致している。まるで、都市伝説の中に現れるゴーストタウンのようだ。
+	
+	一方、現場中央にある設備は、完全に修理不可能な状態となっていた。我々は舞台から遠く離れていたメインコンソールから、ショーの映像データ及び外部に送信されたバックアップファイルを見つけたが、それらはかなりの損傷を受けていた。
+	復元したデータは全く使い物にならなかった。あれはまるで、ケーキをビニール袋に入れて封をして、イベリアのカーニバルに参加する狂人どものド真ん中に投げ込んだ後に回収したものと同じぐらい、混沌としていた。外部に送信したデータは、その送信経路が曖昧すぎて追跡できなかった。
+	
+	内容の確認をするために、データ中に比較的完全な形で残っていた一部の映像を再生したが、途中で三人の調査員の精神に異常が出たため、やむを得ず残りのファイルを一時的に封印した。
+	当時一体何が起きたのか？そして誰が、どのような目的でこのようなデータを残したのか？
+	全く想像できない。気味が悪い。
+	
+	【ビデオファイル-暗号化済み】
+	【担当者-ケルシー】
+	【危険レベル-3】
+	「■■■舞台、死■■■■後ろ■■■纏い、歌声■■、■■■■終わり、すべてが■まる。」
+
+	Archive File 4 :
+	[Classified Log] 
+	We found the site of the incident that befell the troupe at the time. The site is a small rural town that was destroyed by a wave of Oripathy. Anyone who could have fled did so long ago, and now the area is completely deserted. 
+	Too much time had passed, so we didn't have much hope in the first place. And indeed, everything here seems to have been forgotten... Seeing this photo should make that clear enough. It's just like one of those fabled ghost towns. All the residences, facilities, and public spaces have been preserved as is, including the troupe's tents stationed in the park, just like in the records - the only thing that's missing are the residents. 
+	
+	The live video of the troupe's performance has been completely destroyed, and the machinery left behind is broken beyond repair. However, we did locate a main console far from the stage, where we managed to recover some damaged documents and externally backed-up data. 
+	Despite our painstaking efforts to restore the damaged data, the contents are just a jumbled mess. The best way to describe it is as if a piece of cake was sealed within a plastic bag, then thrown into a fervent crowd at an Iberian festival. What we managed to recover is pretty similar to whatever would be left in that bag afterwards. As for the portion of the data that was sent out, the path was too vague and could not be tracked. 
+	
+	In order to verify the content, we played a portion of the video footage that could be considered somewhat intact. While doing so, three of the investigators present experienced degrees of psychological disturbance, so we were forced to temporarily seal off the remaining files. 
+	What exactly happened back then? And who exactly would want to preserve such a scene, and why? 
+	I dare not entertain the possibilities in my head, for they would be inconceivable. 
+	
+	[Video File - Encrypted]
+	[Encrypter - Kal'tsit]
+	[Danger Level - 3]
+	'■■■stage, death■■■■behind■■■loop, song■■,■■■■end, all■begin. '
+
+	파일 자료 4 :
+	[제한된 기록]
+	    우리는 극단의 사고 당시 현장을 발견했다. 사고 지점은 시골의 작은 마을이었는데, 광석병으로 파괴되어 떠날 수 있는 사람은 이미 진작에 떠난 탓에 지금은 일대가 이미 황무지로 변해 있었다.
+	    너무 오랜 시간이 흐른 탓에 거기서 뭔가를 발견할 거라는 희망은 처음부터 갖지 않았지만, 이곳의 모든 것이 과거 그때 그 모습 그대로 존재하고 있는 듯 보였다. 이 사진들을 보면 알 수 있을 것이다. 마치 전설 속의 유령 마을처럼 주민들을 제외한 모든 설비와 공공 시설물은 기록된 바와 같이 그대로 존재하고 있었다. 공원에 설치된 극단 텐트 역시 원래 모습 그대로 보존되어 있다.
+	
+	    극단 공연의 현장 녹화 기록은 철저히 훼손되었고, 현장의 중심 부의 기계 설비도 복구가 불가능한 상태였다. 그러나 우리는 무대에서 멀리 떨어진 곳에 있는 지휘대를 찾았고, 이곳에서 파손된 문서와 외부로 전송된 백업 데이터 기록을 발견할 수 있었다.
+	    최선을 다해 데이터 복원을 진행하였으나, 여전히 저장된 내용물은 파악이 불가할 정도로 엉망이었다. 예를 들자면, 비닐 백안에 케이크를 넣은 후 밀봉하고, 이 비닐 백을 이베리아 카니발을 즐기는 광란의 무리 속에 던진 후, 마지막에 비닐 백안에 남아있을 내용물, 이 정도가 우리가 찾아낸 데이터의 상태와 비슷하고 할 수 있겠다. 외부로 발송된 데이터의 경우 경로가 너무나도 모호해 추적도 불가한 상태였다.
+	
+	    내용 확인을 위해 우린 그중에서도 비교적 온전한 편에 속하는 비디오를 재생하였는데, 비디오 재생과 동시에 현장에 있던 조사원 3명이 정서적 교란 증상을 보여, 부득이하게 남은 자료들을 봉인해야 했다.
+	    그때 당시 이곳에선 대체 무슨 일이 일어났던 걸까? 그리고 대체 누가, 무슨 목적으로 이런 것들을 남겨둔 걸까?
+	    상상하기 힘들다. 매우 나쁜 예감이 든다.
+	
+	[영상 파일 - 암호화 성공]
+	[암호화 진행자 - 켈시]
+	[위험 등급 - 3]
+	    "■■■무대, 죽음■■■■배후■■■얽혀있다, 노랫소리■■, ■■■■끝나면, 모든 것이■시작된다."
+
+———————————————————————————————
+
+	晋升记录 :
+	你已经决定要取下他的面具，真正信任他了吗？
+
+	昇進記録 :
+	彼の仮面を外し、本当の意味で彼を信頼する決意が固まったのか？
+
+	Promotion Record :
+	Have you truly decided to unmask that man and place your trust in him?
+
+	승진 기록 :
+	    그의 가면을 떼어내고, 진정으로 그를 믿기로 결정한 건가?

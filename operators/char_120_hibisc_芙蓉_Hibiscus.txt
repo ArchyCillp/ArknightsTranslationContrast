@@ -1,11 +1,17 @@
 ID:
 	char_120_hibisc
 
-干员代号\Name:
+CV:
 	芙蓉
 	ハイビスカス
 	Hibiscus
 	히비스커스
+
+干员代号\Name:
+	井口裕香
+	井口裕香
+	Yuka Iguchi
+	이구치 유카
 
 招聘合同\Character Usage:
 	罗德岛医疗干员芙蓉，将为伤员提供可靠的医疗援助。
@@ -38,157 +44,313 @@ ID:
 	치료 강화α
 
 语音\Voices:
-	您叫我吗，博士！我很高兴能和博士待在一起！
 	お呼びですか、ドクター！私、ドクターと一緒にいられるのがとっても嬉しいんです！
 	Are you calling for me, Doctor? I feel so happy when we're together!
 	부르셨나요, 박사님! 저, 박사님과 함께할 수 있어서 정말 기뻐요!
 
-	博士！凯尔希医生说博士应该更注意健康哦。简单说的话，就是要·减·少·进·食！这样！
 	ドクター！ケルシー先生がドクターはもっと健康に注意すべきだって言ってましたよ。簡単に言うと、食・べ・過・ぎ・な・い・よ・う・に！です！
 	Doctor! Dr. Kal'tsit said that you need to look after your physical wellbeing. In two words, E-A-T L-E-S-S! That's it.
 	박사님! 켈시 선생님께서 박사님은 좀 더 건강에 신경을 써야 한다고 말씀하셨어요. 간단히 말하자면, 과·식·하·지·말·라·는·거·예·요!
 
-	那个，博士，如果我妹妹还是那样态度蛮横，请一定要告诉我哦！那个孩子缺少了我的治疗是绝对不行的！
 	あのね、ドクター。妹にね、もし横暴な態度をされたら、絶対に教えてくださいね。あの子は私が治してあげないとダメなんです！
 	Hey, Doctor, do tell me if my sister starts acting all bossy with you! She needs my treatment!
 	있잖아요, 박사님. 여동생이 혹시 난폭하게 굴면 꼭 알려주세요. 걔는 꼭 제가 고쳐줘야 하더라고요!
 
-	凯尔希老师教我的知识都很有用，虽然也很难学。不过，因为营养学本来就是我最擅长的，所以我觉得自己做的很好哦。
 	ケルシー先生が教えてくれることって、すごーく役に立つんですけど、やっぱり難しいですね！でもでも、栄養学は元々得意だったから、うまくやれてると思いますよ！
 	Dr. Kal'tsit teaches me tons of practical stuff, although it's tough to actually learn! I've at least always had a knack for nutrition, so I think I'm doing well at that!
 	켈시 선생님께서 알려주시는 내용은 정말 도움이 되지만 역시 어려워요! 그래도 그래도, 영양학은 원래부터 자신 있었으니까, 잘 할 수 있을 것 같아요!
 
-	比起刚加入罗德岛时，现在我对大家更放心了！大家也会按时吃掉我的健康食品。只是，为什么吃完之后，大家的表情都变得那么奇怪呢？
 	今は、ロドスに来た頃より気が楽です！みんなも時間通りに、ちゃんと私の健康食を食べてくれますし。ただ……なんでみんな、すぐ変な顔をするんでしょうか？
 	I feel more assured about everyone here compared with when I just joined Rhodes Island! And everyone eats my health food on schedule! But... why are their expressions all so weird after finishing eating?
 	지금은 로도스 아일랜드에 막 왔을 때보다 마음이 편안해요! 다른 분들도 시간에 맞춰서 제가 만든 건강식을 잘 드셔주시고요. 그런데…… 왜 다들 금방 표정이 이상하게 변할까요?
 
-	锵——博士特供健康餐！清咖啡、不加肉类、芝士、酸黄瓜的生菜汉堡！还有，还有用十二种蔬菜混合制成的沙拉哦！
 	ジャ～ン！ドクター用スペシャル健康食でーす！カフェインレスコーヒーに、肉とチーズ、ピクルス、レタス抜きのハンバーガーです！あと、野菜十二種のミックスサラダもありますよ～！
 	Tadaaaaaah! A special healthy meal just for you, Doctor! Uncaffeinated coffee and a hamburger without meat, cheese, pickles, or lettuce! Oh, and a salad comprised of 12 different vegetables!
 	짠~ 박사님을 위한 스페셜 건강식입니다~! 디카페인 커피랑 고기, 치즈, 피클, 양상추를 뺀 햄버거예요! 그리고 열두 가지 채소를 넣은 샐러드도 준비했답니다~!
 
-	那个，博士，您的家人在什么地方呢？他们还好吗？有些事，正因为是亲人才难以沟通，但我觉得也不能因为很难就拒绝沟通，对吧？
 	あのう……ドクターのご家族って、どちらにいらっしゃるんですか？皆さんお元気なんでしょうか？家族だからこそ言えないことって確かにありますよね……。それでも、家族なんですから、ちゃんと話し合わないとだめだって思います。
 	Say, Doctor, where does your family live? Are they well? I know there are things you can't talk to them about precisely because they're your family, but I think it doesn't hurt to at least try.
 	저기…… 박사님의 가족분들은 어디 계세요? 다들 건강히 잘 지내시나요? 가족이라서 더 말 못하는 것도 있긴 하죠…… 그래도 가족이니까 대화를 나눠야 한다고 생각해요.
 
-	如果一个人吃饭太寂寞的话，就让我来陪您一起吃吧！对啦，还可以叫上炎熔！
 	ひとりでお食事するのは寂しくないですか？私がお付き合いしましょう？そうだ、ラヴァちゃんも呼びましょう！
 	Isn't it lonely to cook all by yourself? Let me help you out! Oh yeah, let's get Lava in here too!
 	혼자 식사하시면 쓸쓸하지 않으세요? 저랑 같이 드실래요? 맞다, 라바도 부를게요~!
 
-	博士，您睡着了吗？那就请好好休息吧，充分的睡眠对健康很有好处。
 	……ドクター、眠っていらっしゃるんですか？……ゆっくり休んでくださいね。睡眠を十分にとるのは大切なことですよ。
 	Doctor, have you fallen asleep? Have a rest then. You need to sleep a lot to stay healthy.
 	……박사님, 주무시고 계시나요? ……푹 쉬세요. 잠은 충분히 자는 게 중요하니까요.
 
-	实习医生芙蓉，今天开始，我会负责您和罗德岛各位干员的健康管理项目，请多多关照！
 	医師見習いのハイビスカスです。みんなからはハイビスって呼ばれてます。今日からドクターとロドスの皆さんの健康管理をしていきますので、よろしくお願いします！
 	This is intern Hibiscus. From now on, I'll be in charge of the health management of you and every Operator at Rhodes Island. Thank you for your cooperation!
 	수련의 히비스커스입니다. 다들 히비스라고 불러요. 오늘부터 박사님과 로도스 아일랜드 분들의 건강 관리를 책임질 예정이니까요, 잘 부탁드려요!
 
-	原来如此原来如此！是这样啊！
 	なるほど……なるほど！そういうことですね！
 	Oh, I see! So that's how you do it!
 	아하…… 과연! 그런 거였군요!
 
-	很荣幸能获得晋升！博士，今后我也会为大家努力进行健康管理，请随时监督我！
 	私が昇進できるなんて光栄です！ドクター、これからも皆さんのために頑張って健康管理を行いますので……私のことを見守っててくださいね！
 	It's my honor to be promoted! Doctor, please supervise my work of health management!
 	제가 승진을 하다니 영광이에요! 박사님, 앞으로도 모두를 위해 건강 관리 열심히 할 테니까요…… 저 꼭 지켜봐 주세요!
 
-	不会让您失望的！就让我来保护大家！
 	失望はさせません。皆さんのことは私がお守りします！
 	I won't fail you! Let me protect everyone!
 	실망하지 않으실 거예요. 다들 제가 꼭 지켜드리겠습니다!
 
-	我知道了！大家的生命就由我来守护！首先，应该准备好特制缓释秘药......
 	わかりました！皆さんの命、私がお預かりします！それではまず、効果が持続する秘薬を用意して……。
 	Acknowledged! I'll take good care of everyone! First, I need to get my special sustained-release medicine ready...
 	알겠습니다! 여러분의 목숨은 제가 맡겠습니다! 그럼 우선 효과가 지속되는 비약을 준비하고…… 
 
-	我不在的时候，博士一定要注意自己的安全！
 	あの、私が留守のあいだは、くれぐれも身の安全にお気をつけください！
 	Please take good care of yourself while I'm gone!
 	저기, 제가 없는 동안에는 부디 안전에 신경 써주세요!
 
-	准备治疗！
 	治療の用意を！
 	Ready to heal!
 	치료를 준비하겠습니다!
 
-	别怕！
 	怖がらないでください！
 	Don't be afraid!
 	무서워하지 마세요!
 
-	博士？
 	ドクター？
 	Doctor?
 	박사님?
 
-	嘿咻。
 	よいっしょっと。
 	There we go.
 	영차.
 
-	这里很安全！
 	ここは安全です！
 	It's safe here!
 	이곳은 안전합니다!
 
-	请睁开眼睛！
 	目を覚ましてください！
 	Please come to your senses!
 	눈을 뜨세요!
 
-	我能让你的伤口快速愈合！
 	もっと早く傷が癒えるように手伝います！
 	I can heal your wound in no time!
 	상처가 더 빠르게 나을 수 있게 도와드릴게요!
 
-	无论有多少伤员，我都能用这把杖治好大家！
 	皆さんが傷を負っても……この杖でしっかり治療してあげます！
 	Even if everyone gets wounded, I can heal them all with my staff!
 	여러분이 상처를 입으셔도… 제 지팡이로 확실하게 치료해드릴게요!
 
-	每个人都平平安安的，就是对我最大的鼓励啦。
 	皆さんが無事であることが、私にとって、一番の励ましになります……。
 	My greatest motivation comes from everyone's health.
 	여러분이 무사하신 모습이 제겐 가장 큰 힘이 된답니다…… 
 
-	博士！大家！没有受伤吧？
 	ドクター！皆さん！怪我はないでしょうか？
 	Doctor! Everyone! Are you alright?
 	박사님! 여러분! 다친 데는 없으신가요?
 
-	不对......需要急救！
 	ダメ……緊急治療を……！
 	No... First aid needed!
 	안 되겠어… 응급 치료를…!
 
-	有什么需要帮忙的吗？
 	何かお手伝いしましょうか？
 	Anything I can help with?
 	도와드릴 일이 있을까요?
 
-	啊呀~！
 	あら～。
 	Golly~!
 	어라~
 
-	博士，要试一下新的功能饮品吗？
 	ドクター、新作の栄養ドリンク、試してみませんか？
 	Doctor, would you like to have a taste of my new vitamin beverage?
 	박사님, 새로 개발한 영양 드링크 한번 드셔보실래요?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，要不要尝尝这个？
 	ドクター、これを食べてみませんか？
 	Doctor! Would you mind tasting this?
 	박사님, 이거 드셔보실래요?
+
+干员档案\Background:
+	基础档案 :
+	【代号】芙蓉
+	【性别】女
+	【战斗经验】一年
+	【出身地】维多利亚
+	【生日】6月21日 
+	【种族】萨卡兹
+	【身高】153cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ハイビスカス
+	【性別】女
+	【戦闘経験】一年
+	【出身地】ヴィクトリア
+	【誕生日】6月21日
+	【種族】サルカズ
+	【身長】153cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Hibiscus
+	[Gender] Female
+	[Combat Experience] 1 year
+	[Place of Birth] Victoria
+	[Date of Birth] June 21
+	[Race] Sarkaz
+	[Height] 153cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 히비스커스
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 빅토리아
+	[생일] 6월 21일
+	[종족] 살카즈
+	[신장] 153cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】普通 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】普通 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】普通
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Normal 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	生于维多利亚的伦蒂尼姆，干员炎熔的孪生姐姐。因为感染了矿石病来到了罗德岛。在接受救治的过程中，萌生了希望自己也能帮助大家的想法。天生就擅长照顾他人的性格和努力帮助芙蓉顺利地成为了罗德岛的医师。
+
+	個人履歴 :
+	ヴィクトリアのロンディニウム市出身。ラヴァの双子の姉。鉱石病に感染したためロドスに来た。治療を受ける中で、自分も他人を助けたいと思うようになった。生まれつき面倒見が良いため、順調にロドスの医師になった。
+
+	Profile :
+	Born in Londinium in Victoria, Hibiscus is the older twin sister of her fellow Operator, Lava. After contracting Oripathy, she came to Rhodes Island for treatment. While undergoing that treatment, she began to dream of helping others. Her passion for caring for others, as well as her hard work, have led Hibiscus to become a Rhodes Island Medic.
+
+	프로필 :
+	    빅토리아 런디니움에서 태어났으며, 라바의 쌍둥이 언니다. 광석병에 감염되어 로도스 아일랜드로 오게 되었다. 구조되는 과정 중에 자신 역시 다른 사람을 돕고자 하는 생각을 가지게 되었다. 천성적으로 타인을 돌봐주는 것에 능한 성격과 자신의 노력을 통해 히비스커스는 순조롭게 로도스의 의사가 되었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】7.4%
+	体表暂未出现明显的矿石病病征。
+	
+	【血液源石结晶密度】0.2 u/L
+	感染程度尚浅，暂时还没有带来明显身体影响。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7.4%
+	体表に鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.2u/L
+	感染状況は浅く、現状明らかな身体への影響は見られない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 7.4%
+	She presents no obvious external symptoms of Oripathy.
+	
+	[Blood Crystal Density] 0.2 u/L
+	Degree of infection is minor and physical symptoms are not yet present.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음, 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률]7.4%
+	체표면에는 현재로선 명확한 광석병 증상이 나타나지 않음.
+	
+	[혈중 오리지늄 결정 밀도] 0.2u/L
+	감염 정도 약함, 현재로선 신체에 명확한 영향을 끼치고 있지 않음.
+
+———————————————————————————————
+
+	源石技艺评定 :
+	虽然有基础的源石法术力，但是芙蓉并不喜欢这种操控源石力的感觉。比起法术，她更多的会使用器械和药物的力量对伤患进行治疗，同时再加以无微不至的照顾，这些都证明着，芙蓉确实是一位优秀的罗德岛医疗干员。
+
+	アーツ評定 :
+	基礎的なアーツ力を持つものの、ハイビスカスはあまりアーツを操る感覚が好きではない。アーツを使うことより、彼女は機械と薬物を駆使して患者を治療することが多い。と同時に、他の人が気づかないような細かいところまでお世話をする。故に、彼女は本当に優秀なロドスの医療オペレーターと言えるのだ。
+
+	Originium Arts Rating :
+	Though she possess basic Originium Arts, Hibiscus prefers not to utilize her Originium power. Instead she would rather use her medical skills to care for and treat the wounds of her allies. Given her talents in medicine, Hibiscus has become an outstanding Rhodes Island Medic Operator.
+
+	오리지늄 아츠 평가 :
+	    비록 기초적 오리지늄 마법력이 있으나, 히비스커스는 오리지늄의 힘을 컨트롤하는 듯한 느낌을 좋아하지 않는다. 그녀는 마법보다는 기계나 약물의 힘을 빌려 상대의 상처를 치료하는 데 더 능숙한 모습을 보일 뿐만 아니라, 꼼꼼하고 세심하게 상대를 돌보는 태도까지 겸비하고 있어, 로도스 아일랜드에서 자신이 우수한 메딕 오퍼레이터임을 증명해냈다.
+
+———————————————————————————————
+
+	档案资料一 :
+	出身在伦蒂尼姆的芙蓉，从小就是周围的邻居们都很喜欢的孩子。她体贴、勤快、礼貌、谦虚，而且特别善于照顾他人。虽然在外人看起来，炎熔不是很喜欢搭理芙蓉，两姐妹的关系好像不怎么样。但是其实芙蓉也很清楚，炎熔只是不善于表达这样的感情罢了。
+
+	第一資料 :
+	ロンディニウム出身のハイビスカスは小さい頃から、近所の人々に愛される子だった。彼女は良く気が利く子で、礼儀正しく、マメで謙虚な性格。そのうえ、面倒見も良い。他の人から見れば、ラヴァはハイビスカスにあまり話かけないし、二人の関係もよくないように見える。しかしハイビスカスには、ラヴァはただ感情表現が苦手なだけだと分かっている。
+
+	Archive File 1 :
+	Born in Londinium, Hibiscus was popular among her neighbors as a child, and for good reason - she is considerate, hardworking, courteous, modest, and is good at taking care of people. Though it appears to outsiders that Lava does not like to deal with Hibiscus and that the two sisters don't share a strong relationship, Hibiscus knows the truth - that Lava just isn't very good at expressing those kinds of feelings.
+
+	파일 자료 1 :
+	    런디니움 출신의 히비스커스는 어렸을 때부터 매우 능숙하게 다른 사람을 보살필 줄 알았으며, 자상하고, 부지런하고, 예의 바르며, 겸손하기까지 했기에 주변 이웃들이 모두 좋아하는 아이였다. 다른 사람 눈에는 라바가 히비스커스와 어울리는 것을 그다지 좋아하지 않아 자매 사이가 좋지 않아보일 수 있지만, 히비스커스는 사실 라바는 자신의 감정을 표현하는데 서툰 것일 뿐이란 것을 잘 알고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	在两姐妹感染了矿石病之后，芙蓉带着炎熔离开了父母来到了罗德岛。内心坚强的芙蓉决定，一定要在罗德岛努力，为了妹妹和自己，为了远在他乡的父母，也为了其他的所有感染者。
+
+	第二資料 :
+	姉妹とも鉱石病に感染した後、ハイビスカスはラヴァを連れて、親元を離れロドスに来た。ハイビスカスは妹と自分のためにも、遠く離れている親のためにも、全ての感染者のためにも、絶対ロドスで頑張っていきたいと決心した。
+
+	Archive File 2 :
+	After the two sisters were infected with Oripathy, Hibiscus took Lava and left their parents to come to Rhodes Island. The determined Hibiscus decided to work hard for Rhodes Island, for her sister, herself, her parents back home, and all the other infected.
+
+	파일 자료 2 :
+	    두 자매가 광석병에 감염된 후, 히비스커스는 라바를 데리고 부모를 떠나 로도스 아일랜드로 왔다. 마음이 굳센 히비스커스는 동생과 자신, 먼 고향에 있는 부모님, 그리고 다른 모든 감염자를 위해 로도스 아일랜드에서 반드시 최선을 다하리라 다짐했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	因为炎熔老是不听自己的，所以芙蓉从小就养成了强硬的态度。“这些营养餐都是为了你的身体好所以你要每天都吃”“这些零食有害健康我已经丢掉了”“10点半了快睡觉！”难怪炎熔总是不擅长应付自己的姐姐，周围的大家都默默地这么想着。
+
+	第三資料 :
+	ラヴァが自分の話を全然聞かないため、小さい頃からハイビスカスは強引に接するようようになってしまった。例えば、「この栄養食は全てあなたの健康のためなんですよ！毎日食べないとダメです！」「あのお菓子？体に悪いから全部捨てちゃいました」「もう10時半ですよ！早く寝てください！」といったように接してしまう。そのため周囲の人々は、ラヴァはハイビスカスのことが苦手なのだと思っている。
+
+	Archive File 3 :
+	Because of Lava's obstinance, Hibiscus has cultivated a tough attitude from the time they were little. 'This food is good for you. You need to eat it every day!' 'I threw all your snacks away because they're bad for you!' 'It's 10:30. You need to go to bed!' From a bystanders' perspective, Lava seems to have a rough time dealing with her older sister.
+
+	파일 자료 3 :
+	    라바가 항상 자신의 말을 안 듣기 때문에, 히비스커스는 어렸을 때부터 강경한 태도를 보여왔다. "이 영양만점의 식사도 모두 너의 건강을 위해서야, 그러니 매일 거르지 말고 먹어야 한다고", "이 과자들은 몸에 좋지 않아서 내가 다 버렸어", "10시 반이야, 어서 잠자리로!" …이러한 평소 태도로 인해, 은연중에 주위 사람들은 모두 라바가 자신의 언니를 대하는 데 서툰 것도 어찌보면 당연한 것이라 생각하고 있다.

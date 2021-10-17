@@ -1,11 +1,17 @@
 ID:
 	char_325_bison
 
-干员代号\Name:
+CV:
 	拜松
 	バイソン
 	Bison
 	바이슨
+
+干员代号\Name:
+	皆川纯子
+	皆川純子
+	Junko Minagawa
+	미나가와 준코
 
 招聘合同\Character Usage:
 	信使拜松，与年龄不相符的稳重。
@@ -43,172 +49,411 @@ ID:
 	방어선 강화
 
 语音\Voices:
-	博士，需要我帮忙搬什么东西吗？
 	ドクター、何か運搬が必要なものはありませんか？
 	Doctor, do you need my help transporting anything?
 	박사님, 운반이 필요한 건 없으신가요?
 
-	这个吵闹的金属乐声......能天使姐又在自顾自开派对了。博士，要不要我去提醒她一下？
 	この騒がしいロックサウンドは……エク姉、また一人でパーティーをやってるようです。注意してきましょうか、ドクター？
-	This noisy metal music… sounds like Exusiai is throwing another one of her parties again. Doctor, should I go reprimand her?
+	This noisy metal music... sounds like Exusiai is throwing another one of her parties again. Doctor, should I go reprimand her?
 	이 시끄러운 록 사운드는…… 엑시아 누나, 또 혼자서 파티를 하고 있나 보네요. 주의를 주고 올까요, 박사님?
 
-	体力活的话，我很擅长。公司经营方面的事务，我也懂一些。所以，博士，有什么我能派上用场的地方吗？
 	肉体労働はわりと得意ですよ。経営についてもある程度は理解しています。ということで、何かお手伝いできることはありませんか？
 	I'm quite good with manual labor. I also know a bit about company management as well. So, Doctor, is there anywhere I can be of use?
 	육체노동은 꽤 잘합니다. 경영에 대해서도 어느 정도 이해하고 있고요. 그래서 그런데, 뭔가 도와드릴 거 없나요?
 
-	因为父亲这一代在龙门扎根，我其实是土生土长的龙门人......博士你要是想了解龙门的话，我倒是可以帮上忙。
 	ぼくの一家は、父の代で龍門に落ち着きましたので、ぼくは正真正銘の龍門人ですよ……。龍門について何か知りたいことがあれば、なんでも聞いてください。
-	My parents were the first generation to settle in Lungmen, so I'm actually a Lungmen native… Doctor, if there's anything you'd like to learn about it, I wouldn't mind helping you out.
+	My parents were the first generation to settle in Lungmen, so I'm actually a Lungmen native... Doctor, if there's anything you'd like to learn about it, I wouldn't mind helping you out.
 	저희 일가는 아버지 대에 용문에 정착했으니까, 전 완전히 용문인입니다…… 용문에 대해 알고 싶으신 게 있으면 뭐든 물어봐 주세요.
 
-	博士，想知道正规物流公司的运作方式的话，直接来问我比较好。企鹅物流是个特例，毫无恶意地说，他们应该没有任何参考价值......
 	ドクター、「普通」の物流会社の運営について何か知りたいなら、他のペンギン急便の社員じゃなくて、直接ぼくに聞いてくださいね。ぼくが言うのもなんですが、ペンギン急便はちょっと特殊ですから、参考になるとは思えません……。
 	Doctor, if you want to know how a real logistics company operates, it'd be best to just ask me directly. Penguin Logistics is more of an exception than the rule, and though I don't mean this in a bad way, they don't have any reference value whatsoever.
 	박사님, '평범한' 물류회사의 운영에 대해서 알고 싶으시면 다른 펭귄 로지스틱스 사원이 아니라, 직접 저한테 물어보세요. 제 입으로 말하긴 좀 그렇지만 펭귄 로지스틱스는 좀 특수하니까 참고가 될 것 같진 않아서요……
 
-	任务之外的安排？一般除了休息，就是陪可颂姐逛街吧，我要负责帮她提东西，还要制止她乱花钱......博士也想一起来吗？
 	任務外の時間の過ごし方？そうですね……部屋で休憩する以外だと、よくクロ姉の買い物に付き合わされます。荷物を持たされたり、衝動買いを止める役を任されたり……ドクターも興味があれば一緒に来ませんか？
-	What do I like to do outside of work? Other than just resting, I'll sometimes accompany Croissant on her shopping trips and make sure she doesn't waste too much money… Doctor, do you also want to come along?
+	What do I like to do outside of work? Other than just resting, I'll sometimes accompany Croissant on her shopping trips and make sure she doesn't waste too much money... Doctor, do you also want to come along?
 	임무 외의 시간을 보내는 법이요? 글쎄요…… 방에서 쉬는 것을 빼면 곧잘 크루아상 누나의 쇼핑에 끌려갑니다. 짐을 들거나, 충동구매를 말리거나…… 박사님도 관심이 있으면 같이 가실래요?
 
-	我过去一直认为，对任何公司来说，规范的流程和高效的执行才是能让它长久运转的关键。所以最开始的时候，我非常不理解，为什么企鹅物流这样的公司能够存续下来。
 	これまでぼくは、ルール化されたフローと効率の良い運用が、会社を長く運営していく鍵だと思っていました。だから、ペンギン急便みたいな会社が長くやってこられていることが、初めは全く理解できませんでした。
 	I used to believe that for any company to survive in the long run, standardization and efficiency were of critical importance. That's why at first, I couldn't fathom how a company like Penguin Logistics could stay afloat.
 	지금까지 저는 규정화된 플로우와 효율적인 운용이 회사를 오래 운영해 나가는 열쇠라고 생각했습니다. 그래서 펭귄 로지스틱스 같은 회사가 오랫동안 유지되는 게 처음엔 전혀 이해되지 않았죠.
 
-	和企鹅物流的人接触了以后，和几位姐姐们的相处让我明白了一件事——这个世界，比我想的要宽广许多。条理与规则没有错，但它不适用于所有人。
 	ペンギン急便に来て、テキ姉たちといろいろな経験をして、自分の知っている世界が、どれほど狭いものだったかに気づかされました。ルールや戒律を取り決めるのは正しいことですが、全ての人に、それが適しているというわけではないんです
 	After getting to know more about the people at Penguin Logistics and talking to them, I began to understand that the world is much broader than I had thought. There's nothing wrong with structure and rules, but they don't necessarily apply to everyone.
 	펭귄 로지스틱스에 와서, 텍사스 누나나 다른 분들과 여러 경험을 하면서 제가 알고 있는 세상이 얼마나 좁았는지 깨달았습니다. 규정이나 계율을 정하는 건 옳은 일이지만, 모든 사람에게 그것이 적합한 것은 아니거든요.
 
-	博士，或许你自己没有发现，但是，能让那么多个性迥异的人都信服你，其实是一件非常不简单的事......要是有一天，我也能变得像博士你一样就好了。
 	ドクター、自分では気づいていないかもしれませんが、あんな個性豊かな面々をまとめ上げるのは、誰にでもできることではありません。……ぼくもいつかドクターのようになれたらいいですね。
-	Doctor, perhaps you haven't realized this yourself, but the fact that you can unite so many people with very different personalities under one banner is no simple feat… It'd be great if I could become more like you one day.
+	Doctor, perhaps you haven't realized this yourself, but the fact that you can unite so many people with very different personalities under one banner is no simple feat... It'd be great if I could become more like you one day.
 	박사님. 본인은 깨닫지 못하셨을지도 모르지만, 저렇게 다양한 개성의 사람들을 하나로 모으는 건 아무나 할 수 있는 일이 아닙니다. ……저도 언젠가 박사님처럼 됐으면 좋겠네요.
 
-	博士......唔，在休息吗，那我先打扫一下卫生吧。
 	ドクター……お休み中でしたか。仕方ない、掃除でもしときましょうか。
-	Doctor… You're taking a nap? I guess it can wait. Guess I'll start tidying up the place first.
+	Doctor... You're taking a nap? I guess it can wait. Guess I'll start tidying up the place first.
 	박사님…… 쉬고 계셨나요. 어쩔 수 없겠네요, 청소라도 해둘까요.
 
-	初次见面，博士，我是拜松。按照合约内容，接下来我也会作为罗德岛的一员行动，请多指教。
 	初めまして、ドクター。ぼくはバイソンと申します。契約に則り、これからロドスの一員として働きますので、よろしくお願いします。
 	Pleased to meet you, Doctor. My name is Bison. According to the terms of our contract, I will now also be a member of Rhodes Island. I look forward to working with you.
 	처음 뵙겠습니다, 박사님. 저는 바이슨이라고 합니다. 계약에 따라 앞으로 로도스 아일랜드의 일원으로 일하게 되었으니, 잘 부탁드립니다.
 
-	谢谢，我会好好学习的。
 	ありがとうございます。しっかり勉強させていただきます。
 	Thank you very much. I will make sure to learn from this.
 	감사합니다. 확실히 공부해두겠습니다.
 
-	谢谢，博士。只要脚踏实地，总会有所收获，这是我的信条。
 	ありがとうございます、ドクター。一歩ずつ着実に歩んでいけば、きっと結果はついてくる。ぼくの信条です。
 	Thank you very much, Doctor. As long as I put my best foot forward, my hard work will be rewarded. This is what I believe.
 	감사합니다, 박사님. 한 걸음씩 착실하게 걸어가면 반드시 결과는 따라온다. 저의 신조입니다.
 
-	在企鹅物流和罗德岛，我看到了更宽广的世界......博士，总有一天，我也会在这个世界里找到属于自己的位置。
 	ペンギン急便にもロドスにも、ぼくが見たことのない世界が広がっていました……いつかこの世界で、自分の居場所を見つけられるように、これからも精進します。
-	At Penguin Logistics and Rhodes Island, I saw a more expansive world than before… Doctor, one day, I will also find my place in this world.
+	At Penguin Logistics and Rhodes Island, I saw a more expansive world than before... Doctor, one day, I will also find my place in this world.
 	펭귄 로지스틱스에도 로도스 아일랜드에도, 제가 본 적 없는 세상이 펼쳐져 있더군요…… 언젠가 이 세계에서 제가 있을 곳을 찾을 수 있도록 앞으로도 정진하겠습니다.
 
-	要执行任务吗？我了解了。
 	任務ですか？わかりました。
 	A mission? Understood.
 	임무입니까? 알겠습니다.
 
-	现场指挥的话......我稍微有些经验。
 	現場の指揮なら、少しは経験があります。
 	On-site command? I have some experience with that.
 	현장 지휘라면 조금 경험이 있습니다.
 
-	嗯，任务地点和任务目标我都好好记住了。
 	はい、目的地と標的は把握しています。
 	Yes, I've noted the mission location and objectives.
 	네, 목적지와 표적은 파악하고 있습니다.
 
-	呼......我不会给大家拖后腿的。
 	ふぅ……みなさんの足を引っ張ったりはしません。
-	Hah… I won't be a burden on the others.
+	Hah... I won't be a burden on the others.
 	후우…… 여러분의 발목을 잡지는 않겠습니다.
 
-	我该怎么做，博士？
 	ぼくはどうすればいいですか？
 	What would you like me to do?
 	저는 어떻게 하면 되나요?
 
-	到我了吗，博士。
 	ぼくの番ですね。
 	Is it my turn, Doctor?
 	제 차례네요.
 
-	我会努力的。
 	頑張ります。
 	I'll do my best.
 	열심히 하겠습니다.
 
-	我知道了。
 	了解です。
 	Got it.
 	알겠습니다.
 
-	我还坚持得住。
 	まだいけます。
 	I can keep going.
 	아직 할 수 있습니다.
 
-	再坚持一下吗？我知道了。
 	もう少し耐えろですか？わかりました。
 	Hang in there a bit longer? Understood.
 	좀 더 버티라고요? 알겠습니다.
 
-	请放心，我的盾还是很坚固的。
 	こう見えてぼくの盾は固いですよ。
 	Don't worry, my shield still holds firm.
 	이래 보여도 제 방패는 단단하답니다.
 
-	博士......你要是转业的话，一定是每家公司都想要的那种管理人才。
 	さすがドクター……転職の場では引っ張りだこになるタイプですね。
 	Way to go, Doctor! You must be the kind of leader that every company wants to have if you wanted to change jobs.
 	역시 박사님…… 이직 시장에 나가면 서로 데리고 가려고 하는 타입이시네요.
 
-	博士......果然很厉害。
 	やはりドクターは……すごいです。
-	Wow, Doctor… You really are amazing!
+	Wow, Doctor... You really are amazing!
 	역시 박사님은…… 대단하세요.
 
-	任务的基础目标已经达成了，这样就可以了吧？
 	ひとまず第一目標は達成しました。これでいいですね？
 	The basic objectives of the mission have been accomplished. This should be good enough, right?
 	우선 제1목표는 달성했습니다. 이걸로 됐죠?
 
-	博士，不要泄气，我们还有机会。
 	落ち込まないで、ドクター、まだ次のチャンスがありますから。
 	Don't feel down, Doctor. We'll have another chance.
 	침울해하지 마세요, 박사님. 아직 다음 기회가 있으니까요.
 
-	罗德岛里面......真大。
 	これがロドスの中……広いですね。
-	So this is the inside of Rhodes Island… It sure is big.
+	So this is the inside of Rhodes Island... It sure is big.
 	이게 로도스 아일랜드의 내부…… 넓네요.
 
-	要我去哪里？
 	どこに行けばいいですか？
 	Where should I go?
 	어디로 가면 되나요?
 
-	空姐的新专辑......真好听。
 	ソラ姉の新しいアルバム、いいですね。
 	Sora's new album is really good.
 	소라 누나의 새 앨범, 좋네요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士！
 	おはようございます、ドクター。
 	Good morning, Doctor!
 	좋은 아침입니다, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】拜松
+	【性别】男
+	【战斗经验】一年
+	【出身地】龙门
+	【生日】10月15日
+	【种族】丰蹄
+	【身高】163cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】バイソン
+	【性別】男
+	【戦闘経験】一年
+	【出身地】龍門
+	【誕生日】10月15日
+	【種族】フォルテ
+	【身長】163cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Bison
+	[Gender] Male
+	[Combat Experience] 1 Year
+	[Place of Birth] Lungmen
+	[Date of Birth] Oct 15
+	[Race] Forte
+	[Height] 163cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 바이슨
+	[성별] 남
+	[전투 경험] 1년
+	[출신지] 용문
+	[생일] 10월 15일
+	[종족] 포르테
+	[신장] 163cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】普通
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】普通
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Standard
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	峯驰物流部门执行经理，曾与企鹅物流有过密切合作。于合约期内，为罗德岛提供多种行动协助。
+
+	個人履歴 :
+	フェンツ運輸の役員。ペンギン急便と密接な連携を取った経験があり、契約期間中にロドスに様々な行動支援を提供する。
+
+	Profile :
+	The executive manager of MountainDash Logistics, Bison, has worked closely with Penguin Logistics. He now provides operational assistance to Rhodes Island during the contracted period.
+
+	프로필 :
+	    마운틴대쉬 로지스틱스의 매니저. 과거 펭귄 로지스틱스와 긴밀한 협력 관계를 맺은 적이 있다. 계약 기간 중 로도스 아일랜드를 위해 다양한 작전에 협력하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	体检对象没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.15u/L
+	由于工作原因偶尔接触源石，或出入轻微源石环境，因保护措施完善，暂无感染迹象。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.15u/L
+	仕事柄稀に源石と接触、もしくは軽度な源石環境に出入りするが、万全な防護措置を取っているため、現時点では感染の兆候は見られない。
+	
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Bison shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.15u/L
+	Occasional contact with Originium due to work reasons, such as entering and exiting environments with slight Originium presence. Thanks to flawless personal protection measures, there are no signs of infection.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 모스티마로부터 오리지늄에 감염된 흔적 발견 안 됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.15u/L
+	직업상의 이유로 간혹 오리지늄과 접촉하거나 미량의 오리지늄이 존재하는 구역에 출입한다. 다만 관련 방호가 철저하여 감염 증세는 전혀 보이지 않고 있다.
+
+———————————————————————————————
+
+	档案资料一 :
+	年纪轻轻的大少爷，峯驰物流主管，少年信使，目前肩负着峯驰物流与企鹅物流合作接洽的工作。
+	与年龄不同，看上去相当可靠，事实上也有着十分丰富的工作经验，只要涉及物流方面的知识，几乎了如指掌。
+	不过给外人的印象一般是——“给企鹅物流那帮怪胎擦屁股的可怜孩子”。
+	比起在各个方面都彰显着特殊个性的企鹅物流，拜松给人的印象更接近大众所熟知的信使。沉稳，冷静，安全地将货物和信息送达目的地。
+	据其本人所述，与企鹅物流的合作让他深刻感受到了自身的不足，但同时，也一度动摇了自己对信使这个职业的理解。
+
+	第一資料 :
+	若き御曹司、フェンツ運輸の役員、トランスポーター。現在はフェンツ運輸とペンギン急便の間の交渉役を担っている。
+	年齢のわりに非常に頼もしく見える。実際の実務経験も豊富で、物流に関してもかなり博識。
+	しかし部外者にとって、「ペンギン急便の変人達の尻拭いをする可哀想な子」という印象が強い。
+	色んな意味で個性が強いペンギン急便のメンバーたちに比べ、バイソンは教科書に書いたようなトランスポーターで、常に冷静かつ穏便に荷物と情報を目的地に送り届ける。
+	本人によれば、ペンギン急便との連携で、彼は自身の不足を深く感じたと同時に、トランスポーターという職業への理解も変わったという。
+
+	Archive File 1 :
+	Also known as the 'Young Master', and the Director of MDL, this youthful messenger is responsible for the coordination between MountainDash Logistics and Penguin Logistics.
+	Despite his age, he gives off an air of reliability. In fact, he has a very rich work experience, and knows the logistics industry like the back of his hand.
+	However, outsiders often see him as 'the poor whipping boy of Penguin Logistics.'
+	Compared to Penguin Logistics, whose members are known to all have very distinctive personalities, Bison gives off the impression of being closer to the public's stereotypical transporter, calmly and safely delivering goods and information to the intended destinations.
+	According to him, cooperating with Penguin Logistics has made him realize his own shortcomings, but at the same time, profoundly shook his understanding of the logistics industry.
+
+	파일 자료 1 :
+	    마운틴대쉬 로지스틱스의 매니저 겸 전달자로 일하고 있는 젊은 도련님. 현재는 마운틴대쉬 로지스틱스와 펭귄 로지스틱스 간의 협력 교섭 관련 업무를 담당하고 있다.
+	    같은 연령대의 소년들과는 달리 상당히 믿음직스러우며, 풍부한 업무 경험을 보유하고 있어 물류 방면에 관한 지식이라면 손바닥 보듯이 훤히 꿰고 있지만, 외부인에게는 보통 '펭귄 로지스틱스' 괴짜들의 뒤치다꺼리를 하는 불쌍한 아이로 인식되고 있다.
+	    각 방면에서 독특한 개성을 선명히 드러내는 펭귄 로지스틱스와 비교했을 때, 바이슨은 좀 더 대중친화적인 전달자에 가깝다고 볼 수 있다. 그는 침착하고, 냉정하며, 안전하게 화물과 정보를 목적지까지 배달한다.
+	    바이슨 본인은 "펭귄 로지스틱스와의 협력은 자신의 부족함을 뼈저리게 느끼게 해주었고, 동시에 전달자라는 직업에 대한 자신의 관념을 뒤흔들었다"고 언급한 적이 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	峯驰物流，独自包揽了龙门几乎全部的民营信使业务，同时，其业务范围广布整片大地。而这样一个庞然大物的创立者，正是拜松的父亲。
+	出于这样特殊的身份，拜松自幼接受精英教育，并在其他同龄人享受无忧无虑的生活时投身工作。可以想象，年纪轻轻的拜松之所以如此成熟可靠，其背后又有多少的辛酸和努力。而拜松的加入也无疑奠定了峯驰物流与罗德岛合作的基础。他也曾临时参与过企鹅物流工作，为三方的良好合作做出了功不可没的贡献。
+	确实，如果没有拜松这样一位靠谱的信使负责对接工作，某些干员大概会继续以“企鹅物流式”的工作方法完成任务吧。就结果而言，我们必须感谢拜松在其中付出的努力。
+
+	第二資料 :
+	フェンツ運輸は龍門ほぼ全ての民間物流業務に手にかけ、その事業範囲は大陸全体に広がっている。この巨大企業の創始者は、まさにバイソンの父親である。
+	特殊な出身のため、バイソンは幼い頃からエリート教育を受けきた。同年代の子が自由自在な生活を楽しんでいる間、彼は既に仕事に身を投じた。想像を絶する努力と苦労はまだ若い彼を頼れる男に仕上げた。バイソンの加入は、フェンツ運輸とロドスの協力関係の決定打となった。彼のペンギン急便での経歴は三者間の良好な協力関係にも大きく貢献した。
+	実際、バイソンのような信頼できる交渉役がいなければ、一部のオペレーターは未だに「ペンギン急便式」のやり方で任務を遂行しているのだろう。 結果から言えば、我々はバイソンの努力に感謝しなければならないのは事実だ。
+
+	Archive File 2 :
+	At one point, MountainDash Logistics almost monopolized the entire private logistics industry in Lungmen, spreading its influence across the whole land at the same time. The founder of this behemoth was Bison's father.
+	As a result of this special status, Bison received an elite education at an early age and joined the workforce while many of his peers got to enjoy a carefree childhood. From this, one can imagine why Bison displays such maturity and reliability despite his years, and the hard work that went into that. Bison's addition to MDL undoubtedly paved the foundation for the cooperation between MDL and Rhodes Island. He also temporarily worked in Penguin Logistics, and made invaluable contributions that set the stage for good relationships between the three parties.
+	It is often said that were it not for Bison's reliability and responsibility in spearheading the logistics industry, some Operators would continue to use the 'Penguin Logistics method' to complete their work. As a result, we must give thanks to Bison for his efforts.
+
+	파일 자료 2 :
+	    용문의 민영 전달자 업무를 독점하고 있으며, 전 대륙을 사업 무대로 삼고 있는 기업 '마운틴대쉬 로지스틱스'. 이 거대한 기업의 창시자는, 다름 아닌 바이슨의 아버지였다.
+	    그 특별한 출신 때문에, 바이슨은 어렸을 때부터 아무런 걱정 없이 지내는 자기 또래들과는 달리, 엘리트 교육을 받으며 업무 전선에 뛰어들어야만 했다. 새파랗게 어린 나이임에도 바이슨이 지금처럼 성숙하고 믿음직스러운 데는, 분명 이와 같은 긴 고통과 노력의 시간을 지나왔기 때문이리라. 바이슨의 합류로 인해 로도스 아일랜드는 마운틴 대쉬 로지스틱스와의 협력 관계의 기반을 다질 수 있었으며, 바이슨이 과거 펭귄 로지스틱스에도 잠시 몸담은 적이 있었기에, 그는 세 집단의 원활한 협력 관계를 유지하는데 중요한 역할을 하였다.
+	    바이슨과 같은 믿음직스러운 전달자가 인수인계 작업을 맡지 않았더라면, 일부 오퍼레이터들은 임무 완수를 위해 분명 계속해서  '펭귄 로지스틱스 식' 업무 방식을 고수하였을 것이다. 결과적으로, 우리는 분명 바이슨의 업무상의 헌신에 대해 감사의 마음을 가져야 한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在信使工作方面，拜松不仅有着远超同龄人的稳重，就算比起那些涉世已深的成年人，拜松也不逞多让。无论是外出执行任务，还是在文职工作磋商条例方面，拜松的深思熟虑都让罗德岛深受裨益，也让同行的年轻干员们收获颇丰。
+	但如果和他相处久了，也不难发现拜松身为少年的那一面。极少见的，当谈及北地风光，谈及拉特兰的教堂和叙拉古的宽广荒漠，拜松会毫不遮掩地表露出自己神往的色彩。
+	早在其父创建峯驰物流之前，年幼的拜松就陪着父亲走过了千山万水，那时，对信使的憧憬就已开始在拜松心中萌芽。但是在峯驰物流成立之后，越来越多的事务压在了拜松的头上，无尽的学习和工作一度让拜松无暇喘息——直到他遇到了企鹅物流。
+	“听上去似乎是一个美好的转折，但当你和他们试着合作过一次后，那种油然而生的落差感真是无法言喻。”
+
+	第三資料 :
+	トランスポーターとして、バイソンは同年代より遥かに落ち着いているのみならず、世渡りの経験が深い大人にすら引きを取らない。外勤の業務といい、書類仕事や条例の協議といい、バイソンの思慮深さはロドスに大きな利益をもたらし、同僚の若いオペレーター達もかなりの影響を受けている。
+	しかしバイソンと親交を深めれば、彼の少年としての一面も見えてくる。北の地域の風景、ラテラーノの教会、シラクーザの広々した砂漠などの話題に触れると、彼の顔にはめったに見せない憧れの色が浮かぶ。
+	フェンツ運輸が創立される前から、幼いバイソンは既に父親とともに世界中に旅をしていた。その頃から、トランスポーターへの憧れが彼の心に芽生えた。しかし、フェンツ運輸の創立後、増える一方の業務に追われるバイソンは、学業と仕事の両立に息苦しさを感じていた――ペンギン急便に出会うまでには。
+	「良い転機に聞こえますが、一度彼らと協同で仕事をしてみたら、あまりの落差に複雑な気分になりましたよ。」
+
+	Archive File 3 :
+	Regarding his work as a messenger, Bison's steady work ethic does not just greatly eclipse that of his peers, but does not falter even in comparison to veterans who have been deeply involved within the industry. Whether conducting external operations or conducting consultations on civil work, Bison's thoughtful actions have greatly benefited both Rhodes Island as an organization, and young Operators who see him as a role model.
+	However, those who have known him longer will point out that it is not hard to see his more naïve, adolescent side. Though scarcely seen, Bison will unabashedly show his fascination towards the world in the face of the scenery of the North, the Laterano Church, or the wide deserts of Siracusa.
+	Before his father founded MDL, the young Bison accompanied his father through countless different lands. Perhaps at that time, the desire to become a transporter had already taken root within his heart. However, after the establishment of MDL, more and more responsibilities were piled upon his head, giving him no room to breathe - until he met Penguin Logistics.
+	'It sounded like an interesting turning point, but after working with them,  the gulf between us felt impossible to describe with words.'
+
+	파일 자료 3 :
+	    전달자 업무 방면에서 바이슨은 또래의 소년들보다 훨씬 더 믿음직할 뿐만 아니라, 이미 어느 정도의 경험을 갖춘 성인들과 비교하여도 전혀 모자람이 없다. 바이슨은 외부에서의 업무 집행은 물론, 협력 조항 협상 시에도 꼼꼼한 업무 처리를 통해 로도스 아일랜드에 큰 이익을 가져다주었고, 동종 업계의 젊은 오퍼레이터들에게도 큰 도움이 되었다.
+	    바이슨과 오랫동안 함께 해온 사람이라면, 그의 소년스러운 면을 어렵지 않게 발견할 수 있을 것이다. 드물긴 하나, 극북의 풍경이나 라테라노의 예배당, 시라쿠사의 드넓은 황야에 관해 얘기할 때면 바이슨은 숨김없이 이들에 대한 자신의 흥미를 드러낸다.
+	    바이슨의 아버지가 마운틴대쉬 로지스틱스를 설립하기 전, 어린 바이슨은 아버지를 따라 온갖 곳을 돌아다녔고, 이때부터 전달자에 대한 동경이 그의 마음속에서 싹트기 시작했다. 하지만 마운틴대쉬 로지스틱스가 설립된 이래로 바이슨은 갈수록 늘어나는 업무량에 짓눌렸고, 펭귄 로지스틱스를 알게 되기 전까지는 끝이 없는 학습과 업무에 숨돌릴 틈조차 없었다.
+	    "마치 좋은 전환점인 것처럼 들리겠지만, 일단 그 사람들과 함께 손발을 맞춰본다면, 말도 안 나올 정도의 괴리감이 몰아칠 겁니다."
+
+———————————————————————————————
+
+	档案资料四 :
+	“大帝先生，非常厉害，而且也有很多谜团......说真的，光是让企鹅物流能够保持这样的行事风格却不至于倒闭完蛋，就已经很不得了吧？你不这么觉得吗？”
+	“能天使姐？嗯......虽然有很多需要说道的地方，但反正说了也不会听吧。”
+	“德克萨斯是她们的队长吧？虽然她吃零食的习惯也有很多需要改正的地方，但还是希望她能更加照顾一些同行的干员吧，特别是和能天使一起出行的时候，毕竟不是所有人都能理解她们的默契的。别提了，我吃过亏，我明白。”
+	“可颂姐......请把钱花在正确的地方，谢谢！”
+	“是的，大家都很喜欢空的曲子。而且在漫长的旅途中，信使最好的伙伴就是音乐......但为什么总是会有大帝先生的个人混音插进来？”
+	“博士，其实你真的很厉害。罗德岛有着那么多个性迥异的人才，而你却能——等等，刚才是不是有一位萨科塔走过去了？是能天使小姐吗？大帝先生刚好有要事让我通知她——又不见了？这么快！？不是吧，抱歉，我得去看看！”
+	——某次打扫金属乐派对现场时，拜松与博士的对话
+
+	第四資料 :
+	「エンペラーさんって本当にすごいんです。謎も多いですし……正直、ペンギン急便のああいうスタイルを保ちながら倒産させないこと自体はもうすごいと思いませんか？」
+	「エク姉？そうですね……色々ツッコミたいところはありますが、どうせ聞く耳を持たないですから。」
+	「テキ姉は彼女達の隊長ですよね？おやつを食べる癖について言いたいことがありますが、もう少し他のオペレーターに気を使った方がいいと思います。特にエク姉と一緒にいる時とか。皆が皆彼女達みたいに息ピッタリというわけではありませんから。ええ、ぼくにはわかりますよ、大変な目に遭いましたから。」
+	「クロ姉……もっと考えてお金を使ってください、頼みますよ！」
+	「はい、みんなソラ姉の曲が好きです。長い旅の中、音楽はトランスポーターにとって最高のお供ですから……しかし、何故その中にいつもエンペラーさんのリミックスが入っていますかね？」
+	「ドクターは本当にすごいですよ。ロドスに個性豊かな人がこんなにたくさんいるのに、あなたはよく……あれ、今サンクタの人が通りませんでした？エク姉かな？エンペラーさんから彼女への伝言が――もういない？嘘！？すみません、先に失礼します！」
+	――ある日メタルバンドパティの会場を片付ける時、バイソンとドクターの会話より
+
+	Archive File 4 :
+	Mr. Emperor is incredibly capable, and also full of mysteries... Just think about it, letting Penguin Logistics operate the way it does but still managing to stay afloat is already an amazing feat! Don't you think so?
+	Exusiai? Hmm... There are many things I'd like to address with her, but she's not going to listen anyway.'
+	'Texas is their team leader, right? Even though her tendency to snack on junk food could use quite a bit of correction, I hope that she can be a bit more understanding towards her fellow Operators, especially when she's on a mission with Exusiai. Not everyone shares the level of tacit understanding that they do. I've already faced consequences for it. That's why I know it.'
+	'Croissant... Please put your money in the right places. Thank you!'
+	'Yes, everyone loves Sora's music. Especially on long trips, music is a transporter's best friend... But why does Mr. Emperor's personal mixtape always come on?'
+	'Doctor, perhaps you haven't realized this yourself, but the fact that you can unite so many people with very different personalities under one banner is- wait, did a Sankta just walk by? Was that Exusiai? Mr. Emperor had something important he wanted me to inform her about... Gone already? So fast! It couldn't be... Sorry, I'll be right back!'
+	-Bison's conversation with the Doctor while cleaning up after a heavy metal party
+
+	파일 자료 4 :
+	    "엠퍼러 씨는 정말 대단하죠, 수수께끼가 정말 많은 분이기도 하고요… 솔직히 말해서, 펭귄 로지스틱스가 지금 이렇게 일하는 데도 망하지 않고 사업을 유지하는 것만 봐도 정말 대단한 거라고 봐요. 그렇지 않나요?
+	    "엑시아 누나요? 음…… 할 말은 많은데, 어차피 말해도 듣질 않으니까요."
+	    "텍사스 씨가 팀장이죠? 이분의 군것질 습관에 대해선 바로잡아야 할 부분이 많긴 하지만, 일단은 동종 업계의 오퍼레이터들을 좀 더 신경 써주었으면 해요. 특히 엑시아 누나와 함께 외근을 나갈 때 말이죠. 모든 사람들이 자기들끼리만의 방식을 이해하고 있는 건 아니잖아요. 말도 마세요, 저도 당해봐서 잘 압니다."
+	    "크루아상 누나는…… 돈을 좀 제대로 된 곳에 써주시면 감사하겠네요!"
+	    "네, 모두들 소라의 노래를 좋아하죠. 길고 긴 여정 중 전달자에게 있어 가장 좋은 친구는 음악이에요…… 그건 그렇고, 어째서 항상 엠퍼러 씨의 목소리가 섞여 있는 거죠?"
+	    "박사님은 사실 정말 대단해요. 로도스 아일랜드에는 각자 전혀 다른 개성을 지닌 인재들이 이렇게나 많은데, 어떻게…… 잠깐, 방금 지나간 사람, 산크타 아니었나요? 엑시아 누나인가요? 마침 엠퍼러 씨가 전해달라고 한 게 있는데…… 또 사라졌네? 이렇게나 빨리!? 말도 안 돼! 죄송해요, 아무래도 가서 확인해봐야겠어요!"
+	——언젠가 메탈 음악 파티 현장을 청소하던 중, 바이슨과 박사가 나눈 대화
+
+———————————————————————————————
+
+	晋升记录 :
+	因为某些机缘巧合，罗德岛曾与峯驰物流的现任首席执行官兼董事长欧厄尔·彼得斯先生有过一番短暂的接触。
+	毫无疑问，欧厄尔先生相当宠爱他的儿子。自从欧厄尔先生的妻子，也就是拜松的母亲，因身体原因远赴雷姆必拓疗养后，欧厄尔先生便着手安排拜松进入公司工作。仅十分钟的会面中，欧厄尔先生的话题也基本围绕在拜松的身上。
+	但是，欧厄尔先生似乎对于拜松在罗德岛的现状十分满意，虽然理由不明，但欧厄尔先生完全没有让拜松回到峯驰物流的打算——他甚至不希望拜松过早地回到自己的身边。
+	仅有的一次，是欧厄尔先生邀请拜松去探望回到龙门接受治疗的妻子。那封信件用词之严谨，与欧厄尔先生日常形象的反差，让人觉得这根本不像是一封家书。然而看到拜松一本正经地回信之后，大家才深刻了解到何为有其父必有其子。
+
+	昇進記録 :
+	機会に恵まれ、ロドスは短い間、フェンツ運輸の現CEO兼代表取締役オエル・ピーターズと対面したことがある。
+	ピーターズは紛れもなく親バカだった。 彼の妻、すなわちバイソンの母親が療養のためにレム・ビリトンに行ってまもなく、彼はバイソンの入職手続きに着手した。 わずか10分間の会話でも、彼の話題はほぼバイソンに関する内容だった。
+	ところが、ピーターズはロドスにいるバイソンの現状に非常に満足しているようで、理由は不明だが彼をフェンツ運輸に呼び戻す気が全くない様子だ。自分のそばに戻ることすらまだ早いと思っているようだ。
+	一度だけ例外があった。ピーターズがバイソンに、治療のために龍門に戻った母親へのお見舞いに誘う時のことだった。綴られた手紙の謹厳な言葉遣いが、普段彼が見せる親バカのイメージからかけ離れすぎたため、親から子への手紙とは想像し難かった。しかし謹んで返事を書くバイソンの様子を見ると、周りはようやく「この父にしてこの子あり」の意味を理解した。
+
+	Promotion Record :
+	Due to certain circumstances, Rhodes Island had brief contact with Mr. Eurill Pides, the current CEO and head of MountainDash Logistics.
+	There is no doubt that Mr. Eurill is very fond of his son. Ever since Mr. Eurill's wife, Bison's mother, was admitted to Rim Billiton for medical reasons, Mr. Eurill arranged for Bison to enter the company. In the 10-or-so minutes of the meeting, Mr. Eurill's topics virtually all revolved around the topic of his son.
+	However, Mr. Eurill seems to be very satisfied with Bison's current arrangements with Rhodes Island. For whatever reason, Mr. Eurill seems to have no intention of bringing Bison back to MDL - as a matter of fact, he doesn't even want his son back at his side too early.
+	The only time was when Mr. Eurill invited Bison to visit his mother, who had only just returned from treatment in Lungmen. The overly formal letter drew a sharp contrast with Mr. Eurill's daily image, making it seem as if this wasn't a family letter at all. However, only after seeing Bison's equally formal reply did everyone realize that yes, like father, like son.
+
+	승진 기록 :
+	    우연한 기회에 로도스 아일랜드는 마운틴대쉬 로지스틱스의 현임 CEO이자 회장인 '에우릴 피데스'씨와 잠깐 대면할 수 있었다.
+	    의심의 여지 없이, 에우릴 씨는 자신의 아들을 무척이나 아끼고 있었다. 에우릴 씨의 부인, 즉 바이슨의 모친께서 건강상의 이유로 림 빌리턴으로 요양을 떠난 후 에우릴 씨는 바로 바이슨의 로도스 아일랜드 입사를 추진하였다고 한다. 10분간의 대화 중 에우릴 씨는 바이슨에 대한 이야기를 쉴 새 없이 이어갔다.
+	    이유는 모르겠으나, 에우릴 씨는 로도스 아일랜드에 몸담고 있는 바이슨에 대해 매우 만족하는 것으로 보였고, 바이슨을 마운틴대쉬로 다시 불러들일 생각은 전혀 없었다. 오히려, 지나치게 빨리 자신의 곁으로 돌아오기를 바라지 않고 있었다.
+	    딱 한 번, 에우릴 씨는 서신을 통해 바이슨에게 용문으로 돌아와 치료 중인 모친 병문안을 가보길 요청했었는데, 그 내용이 너무나도 엄격했던 나머지 평소 에우릴 씨의 모습과는 괴리감이 있었다. 전혀 가족 간에 보내는 편지로는 보이지 않는 편지 격식이었다. 그러나, 바이슨 역시 격식에 맞춰 회신하였고, 이를 지켜보던 모두는 '역시 그 아버지에 그 아들'이라며 고개를 내저었다.

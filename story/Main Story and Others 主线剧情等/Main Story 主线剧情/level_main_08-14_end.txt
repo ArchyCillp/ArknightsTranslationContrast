@@ -80,7 +80,7 @@ They stopped. They won't go on anymore.
 
 [Subtitle(text="“......如果你真的有了自己的想法，想要去追随什么......”", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 [Subtitle(text="「もしお前に本当にやりたいことが見つかったなら……」", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
-[Subtitle(text="'...If you have your own ideas and your own goals now…'", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
+[Subtitle(text="'...If you have your own ideas and your own goals now...'", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 [Subtitle(text="“……자신만의 생각이 있고, 추구하고 싶은 것이 있다면……”", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 
 ......
@@ -150,7 +150,7 @@ I can't. I need to keep moving forward. They are worried. I can't keep them worr
 
 ......就连时间也在此冻结♪
 ……時さえもここで凍える♪
-...’tis a reality that even time cannot shake♪
+...'tis a reality that even time cannot shake♪
 ……이곳에선 시간마저 얼어버리네♪
 
 ......
@@ -1070,7 +1070,7 @@ The operators wrap up their work in the area and begin to leave. Kal'tsit notice
 
 [name="凯尔希"]  这终归是由你问出来比较好。
 [name="ケルシー"]  その件に関しては、君に聞かれるのを待つつもりだった。
-[name="Kal'tsit"]  I’d rather you be the one to broach the subject.
+[name="Kal'tsit"]  I'd rather you be the one to broach the subject.
 [name="켈시"]  그거라면 네가 직접 묻는 게 좋다고 생각했거든.
 
 [Decision(options="我为什么会在这里苏醒？", values="1")]
@@ -1110,7 +1110,7 @@ The operators wrap up their work in the area and begin to leave. Kal'tsit notice
 
 [Decision(options="什么？......我希望你能解释清楚。", values="1;2;3")]
 [Decision(options="どういうことだ？　……もっと詳しく頼む。", values="1;2;3")]
-[Decision(options="What? ...That’s all you can tell me? ", values="1;2;3")]
+[Decision(options="What? ...That's all you can tell me? ", values="1;2;3")]
 [Decision(options="그게 무슨…… 자세히 말해봐.", values="1;2;3")]
 
 [name="凯尔希"]  我已经清晰地解释了事实。
@@ -1590,7 +1590,7 @@ The operators wrap up their work in the area and begin to leave. Kal'tsit notice
 
 [name="凯尔希"]  一旦我给出答案，你是否就会立刻接受？你从心底里反对我对你的“侮蔑”，所以带有我感情色彩的“答案”和“事实”，我不会再多说。
 [name="ケルシー"]  私が信じろと言ったところで、君はすぐに受け入れられるか？　私の「侮辱」を君は心から拒絶している。故に、私の個人的感情が込められた「答え」と「真実」に関し、多くは語らないでおく。
-[name="Kal'tsit"]  If I give you an answer, will you accept that right away? You reject my 'contempt' for you from the bottom of your heart, so I will spare you my colorful 'answers' and 'truths'.
+[name="Kal'tsit"]  If I give you an answer, will you accept that right away? You reject my 'contempt' for you from the bottom of your heart, so I will spare you my colorful 'answers' and 'truths.'
 [name="켈시"]  내가 답을 주면 즉시 받아들일 텐가? 너에 대한 나의 '경멸'을 넌 마음속부터 거부하고 있으니, 내 생각이 담긴 '대답'과 '사실'을 더는 이야기하지 않을 거다.
 
 [name="凯尔希"]  我不会要求你信任我。我也不会再过多描述真相。

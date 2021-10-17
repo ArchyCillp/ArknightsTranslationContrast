@@ -1,11 +1,17 @@
 ID:
 	char_356_broca
 
-干员代号\Name:
+CV:
 	布洛卡
 	ブローカ
 	Broca
 	브로카
+
+干员代号\Name:
+	鸟海浩辅
+	鳥海浩輔
+	Toriumi Kousuke
+	토리우미 코스케
 
 招聘合同\Character Usage:
 	罗德岛近卫干员布洛卡，将在前线守护其他干员。
@@ -43,177 +49,381 @@ ID:
 	고압전류
 
 语音\Voices:
-	护卫？......啧，我知道了。
 	護衛？……チッ、わかったよ。
-	Stand guard? …Tch, fine.
+	Stand guard? ...Tch, fine.
 	호위? ……쳇, 알았어.
 
-	那个叫阿米娅的小女孩也是这里的领导者？罗德岛到底是什么黑心公司。
 	あのアーミヤって小娘がここのリーダーの一人だと？とんだブラック企業なんだな、ロドスって。
 	That Amiya girl is one of this place's leaders? What a black-hearted organization Rhodes Island is.
 	저 아미야라는 꼬맹이가 여기 리더 중 하나라고? 말도 안 되는 악덕기업이군, 로도스 아일랜드는.
 
-	我不喜欢吃白食，有什么体力活需要我，可以找我。
 	タダ飯は性に合わない。力仕事があればいつでも声をかけてくれ。
 	I have no intent on being a freeloader. If you need any manual labor done, just let me know.
 	공짜 밥은 성미에 안 맞아. 힘쓰는 일이 있으면 언제든 말해줘.
 
-	我不讨厌被命令，但我讨厌不知道自己在为什么战斗的感觉。
 	命令されること自体は別にいいが、理由も知らないまま戦わされるのは気に入らないな。
 	I have nothing against taking orders, but I don't like fighting without knowing why I'm doing it.
 	명령받는 것 자체는 딱히 상관없는데, 이유도 모르는 채 싸우는 건 마음에 들지 않아.
 
-	兴趣？为什么我要告诉你？......啧，别用那种眼神看我，告诉你行了吧，我喜欢自己做各种改造。
 	俺の趣味？教える義理はないな。……ったく、その目やめろ、言えばいいんだろ言えば。……色んなもんを改造するのが好きなんだ。
-	My hobbies? I have no reason to tell you, do I? …Good grief, stop making that face. You'll leave me alone if I tell you, right… I like modifying various things.
+	My hobbies? I have no reason to tell you, do I? ...Good grief, stop making that face. You'll leave me alone if I tell you, right... I like modifying various things.
 	내 취미? 가르쳐 줄 의무는 없는데. 나 참…… 그렇게 보지 마. 말하면 되잖아, 말하면…… 난 이것저것 개조하는 걸 좋아한다.
 
-	如果没有贾维和奥斯塔，我已经死在那天那条小巷子里了。所以，我这条命是他们的，无论他们想做什么，我都会帮他们。
 	あの日、もしキアーベとアオスタがいなかったら、俺は間違いなくあの路地裏で野垂れ死んでた。だからこの命はもうあの二人のものなんだ。あいつらが何をする時も、俺は力を貸すだけだ。
 	Back then, had it not been for Chiave and Aosta, I would've been dead in that alley. So, my life belongs to them. No matter what they want me to do, I will do it without hesitation.
 	그날도 키아베와 아오스타가 없었으면 난 틀림없이 그 뒷골목에서 객사했을 거야. 그러니까 이 목숨은 이미 그 둘의 것이지. 그 녀석들이 뭔가를 한다면 난 힘을 빌려줄 뿐이야.
 
-	我不讨厌你，但我......无法完全信任你。
 	お前のことは嫌いじゃない。が、心から信頼するのはまだ難しい。
-	I don't hate you, but… I find it difficult to fully trust you.
+	I don't hate you, but... I find it difficult to fully trust you.
 	넌 싫지 않아. 하지만 진심으로 신뢰하는 건 아직 어려워.
 
-	好好做事，好好赚钱，好好生活，曾经，我的想法就这么简单......不过，奥斯塔说得对，在叙拉古这个地方，这样的想法，应该叫梦想。
 	ちゃんと働いて、ちゃんと稼いで、ちゃんと生きていく。昔はそれだけでいいって思ってた……でも、そうだな、アオスタの言葉を借りると、シラクーザって国じゃ、そんな願いですら、「夢」になっちまうんだ。
 	Work hard, make money, and continue surviving. I used to think that was all there was to life. However, Aosta was right. In a country like Siracusa, something like that is nothing more than a pipe dream.
 	제대로 일하고, 제대로 벌어서, 제대로 살아간다. 옛날엔 그것만으로도 충분하다고 생각했다…… 하지만, 그래, 아오스타의 말을 빌리자면 시라쿠사라는 나라에서는 그런 바람조차 '꿈'이 되어 버려.
 
-	我承认，你这家伙作为领导者来说还可以......但是，奥斯塔说过，一个组织的腐化，有时候就是从掉以轻心的时候开始的，我会盯紧你。
 	お前のリーダーとしての資質は認めよう。だが……「組織の腐敗はほんの些細な怠慢から始まる」ってアオスタが言ってた。そうならないように俺が見張ってやることにしよう。
-	I acknowledge your right to lead…. However, Aosta once said that corruption begins to seep into an organization the moment you let your guard down. To prevent that from happening, I'll be keeping a close eye on you.
+	I acknowledge your right to lead.... However, Aosta once said that corruption begins to seep into an organization the moment you let your guard down. To prevent that from happening, I'll be keeping a close eye on you.
 	너의 리더로서의 자질은 인정하지. 하지만…… "조직의 부패는 아주 사소한 태만에서 시작된다"라고 아오스타가 말했어. 그렇게 되지 않도록 내가 감시해 주도록 하지.
 
-	睡着了吗，真是悠哉的家伙。啧，毯子放哪儿去了......
 	寝てる？ったく、呑気な奴。チッ、毛布はどこにやったっけ……。
-	Asleep? Good grief, what a carefree fellow… Tch, where'd the blanket go…
+	Asleep? Good grief, what a carefree fellow... Tch, where'd the blanket go...
 	자나? 정말이지 느긋한 녀석이군…… 쳇, 담요를 어디 뒀더라……
 
-	既然贾维决定加入你们，我也没什么好说的。你可以叫我布洛卡，我会听你的命令，但别指望我做多余的事，我对你们这样的大组织可没有好感。
 	キアーベがここに入るって決めたからには、俺に文句なんてないさ。俺のことはブローカと呼べばいい。お前の指示には従うが、それ以上のことは期待しないでくれ。お前たちのような大きい組織にはいい印象なんてひとつもないからな。
 	Since Chiave decided for me to join you, I don't have much else to say. You can call me Broca. I will listen to your orders, but don't count on me to do anything extra. I have no love for large organizations like yours.
 	키아베가 여기에 들어가겠다고 결정한 이상 나에게 불만 같은 건 없어. 나는 브로카라고 부르면 돼. 네 지시에는 따르겠지만, 그 이상은 기대하지 마. 너희들 같은 커다란 조직에 좋은 인상 따윈 하나도 없으니까.
 
-	......谢谢。
 	……どうも。
-	…Thanks.
+	...Thanks.
 	……고맙다.
 
-	加薪？......我不是很需要。
 	昇給？……別に必要ない。
-	A raise? …Don't particularly need it.
+	A raise? ...Don't particularly need it.
 	승진? ……딱히 필요 없어.
 
-	或许奥斯塔是对的，罗德岛可以信任。这样的话，那我......
 	アオスタが言ってた通り、ロドスは信用できるかもしれない。だとすれば、俺は……。
-	Maybe Aosta was right, maybe Rhodes Island is trustworthy. If that's the case, I…
+	Maybe Aosta was right, maybe Rhodes Island is trustworthy. If that's the case, I...
 	아오스타가 말한 대로, 로도스 아일랜드는 믿을 수 있을지도 몰라. 그렇다면 난……
 
-	好。
 	ああ。
 	Very well.
 	그래.
 
-	......我不擅长带队。
 	……人の指揮をとるのは苦手だが。
-	…I'm not good at leading.
+	...I'm not good at leading.
 	……다른 사람을 지휘하는 건 서툴다만.
 
-	走吧。
 	行くぞ。
 	Let's go.
 	간다.
 
-	该打架了。
 	さて、ケンカの時間だ。
 	Well then, time to fight.
 	자, 싸울 시간이다.
 
-	别对我指手画脚。
 	指図するな。
 	Don't try to micromanage me.
 	지시하지 마.
 
-	啧，我知道了。
 	チッ、わかったよ。
-	Tch… Got it.
+	Tch... Got it.
 	쳇, 알았어.
 
-	那些就是敌人？
 	あれが敵か。
 	Are those the enemies?
 	저게 적인가.
 
-	我能应付。
 	俺が何とかする。
 	I'll figure something out.
 	내가 어떻게든 하지.
 
-	不会很疼。
 	痛みは抑えてやる。
 	This won't hurt for long.
 	고통은 억눌러 주마.
 
-	快点结束吧。
 	さっさと終わらせるぞ。
 	Let's get this over with.
 	빨리 끝내자.
 
-	去死。
 	くたばれ。
 	Drop dead.
 	죽어라.
 
-	闭嘴。
 	黙れ。
 	Shut up.
 	닥쳐.
 
-	......你这家伙，还挺厉害。
 	……お前、意外とすごいんだな。
-	You… aren't half bad.
+	You... aren't half bad.
 	……너, 의외로 굉장하구나.
 
-	都搞定了。
 	全部片付けた。
 	They've all been taken care of.
 	전부 정리했어.
 
-	我去追？
 	俺が追おうか？
 	Need me to go after them?
 	내가 쫓아갈까?
 
-	别慌，你努力了，奥斯塔也会有失手的时候。
 	努力したんならいまさら慌ててもしょうがない。アオスタだってミスをすることもある。
 	No need to panic. You did what you could. Even Aosta makes mistakes.
 	노력했다면 이제와서 당황해도 어쩔 수 없지. 아오스타도 실수할 때가 있다.
 
-	我随便走走。
 	適当に回ってくる。
 	I'll take a look around.
 	적당히 둘러보고 오지.
 
-	你......！
 	おいっ……！
 	Oy...!
 	어이……!
 
-	博士，你很烦。
 	お前、しつこいぞ。
 	You're rather rude.
 	너, 끈질기구나.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早。
 	おはよ。
 	Morning.
 	좋은 아침.
+
+干员档案\Background:
+	基础档案 :
+	【代号】布洛卡
+	【性别】男
+	【斗殴经验】五年
+	【出身地】叙拉古
+	【生日】2月4日
+	【种族】菲林
+	【身高】189cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ブローカ
+	【性別】男
+	【喧嘩経験】五年
+	【出身地】シラクーザ
+	【誕生日】2月4日
+	【種族】フェリーン
+	【身長】189cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Broca
+	[Gender] Male
+	[Combat Experience] 5 years
+	[Place of Birth] Siracusa
+	[Date of Birth] Feb 4
+	[Race] Feline
+	[Height] 189cm
+	[Infection Status] 
+	Originium crystals are distributed across the surface of his body, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 브로카
+	[성별] 남
+	[전투경험] 5년
+	[출신지] 시라쿠사
+	[생일] 2월 4일
+	[종족] 필라인
+	[신장] 189cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】普通
+	【生理耐受】标准
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】標準
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Normal
+	[Physical Resilience] Standard
+	[Tactical Acumen] Normal
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 표준
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	布洛卡，前叙拉古某城家族打手，后成为贾维团伙一员。
+	某次事件后随首领贾维一同加入罗德岛，现作为攻坚手，活跃在战场前线。
+
+	個人履歴 :
+	シラクーザのとあるファミリーの元構成員、後にキアーベ一味のメンバーに。
+	ある事件後、頭領のキアーベと共にロドスに加入。現在は特攻隊員として、戦線で活躍している。
+
+	Profile :
+	Broca, former Siracusan mafioso, later became a member of Chiave's gang.
+	After a certain incident, he joined Rhodes Island along with the leader, Chiave, and now serves as a frontline attacker. 
+
+	프로필 :
+	    시라쿠사 모 가문의 경호원 출신인 브로카는 훗날 키아베 패거리의 일원이 되었으나, 모종의 사건을 계기로 키아베 일행을 이끌고 로도스 아일랜드에 합류하였고, 현재는 전장에서 돌격수로 활약하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】7%
+	体表有出现源石结晶，但程度不高，已得到有效控制。
+	
+	【血液源石结晶密度】0.26u/L
+	虽然情况较为稳定，但由于干员接受治疗时间较晚，病情有恶化的可能。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7%
+	体表に低レベルの源石結晶が認められるが、症状はコントロールされている。
+	
+	【血液中源石密度】0.26u/L
+	感染状況は安定しているが、治療に遅れが生じたため、病状は悪化する可能性あり。
+
+	Clinical Analysis :
+	Imaging tests reveal blurry outlines of this operator's internal organs, clouded with abnormal dark spots. His circulatory system shows an abnormally high rate of Originium particulate matter, with other signs of Oripathy infection, we can confirm that the Operator is Infected. 
+	
+	[Cell-Originium Assimilation] 7%
+	Originium crystals are visible across the surface of his body, but not to a great extent. Symptoms have been effectively controlled.
+	
+	[Blood Originium-Crystal Density] 0.26u/L
+	Although the current situation is relatively stable, due to the late treatment time, his condition may deteriorate.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 7%
+	신체 표면에서 오리지늄 결정 발견, 단 심각하지 않으며 효과적으로 제어되고 있음.
+	
+	[혈중 오리지늄 결정 밀도] 0.26u/L
+	비교적 안정된 상태이긴 하지만, 해당 오퍼레이터의 치료 시기가 조금 늦은 관계로 악화될 가능성이 있음.
+
+———————————————————————————————
+
+	档案资料一 :
+	沉默寡言的菲林族男性。
+	表情总是十分险恶，给人难以接近的感觉。但深入交流的话，会发现是个相当敦厚的人。
+	表情险恶的理由似乎是曾经在当家族打手时被首领要求这么做。
+
+	第一資料 :
+	寡黙なフェリーン族男性。
+	いつも険悪な顔つきをしているため、近寄り難いイメージを与えてしまうが、交流を深めてみれば、温厚な人であることがわかる。
+	その険悪な顔つきは、ファミリーの構成員をしていた時期、首領に要求されたかららしい。
+
+	Archive File 1 :
+	A Feline male of few words.
+	His expressions are always menacing and make him seem unapproachable to most. However, if you communicate with him in-depth, you will find that he is a very honest person.
+	The reason for his expression seems to be that he was conditioned to do this during his time as a mafioso.
+
+	파일 자료 1 :
+	    과묵한 필라인족 남성.
+	    언제나 험악한 표정을 짓고 있어서 접근하기 힘든 인상이지만, 가깝게 지내다 보면 상당히 온화한 인물임을 알 수 있다.
+	    예전 한 가문의 경호원이던 시절, 리더의 명령으로 험악한 표정을 짓기 시작했던 것이 습관이 된 것으로 보인다.
+
+———————————————————————————————
+
+	档案资料二 :
+	即使是在加入罗德岛后，干员布洛卡也并没有掩饰他对罗德岛的反感，这引起了一些其他干员的不满，但这并不是没有原因的。
+	比较确切地说，他反感的对象并非罗德岛，而是一切大型的组织。根据干员奥斯塔提供的该团伙过往经历，他之所以加入贾维团伙，是原本所属的家族出卖了他，而后被贾维和奥斯塔所救。
+	这样就不难理解他对于干员贾维和干员奥斯塔的重视，以及对于大型组织的反感。
+	诚然，罗德岛绝非轻易做出抛弃干员的行径以换取利益的组织，但要让他了解到这一点，恐怕需要一些时间。
+
+	第二資料 :
+	ロドスに加入した後でも、ブローカはロドスに対する嫌悪を隠さなかった。これに関して一部のオペレーターは不満を抱えているが、彼にはそうする理由があった。
+	正確には、彼が嫌悪する対象はロドスではなく、すべての大規模な組織である。 アオスタが提供した一味の過去についての情報によると、彼は元いた組織に裏切られ、キアーベとアオスタによって救出されたことを機に、キアーベ一味に加わたそうだ。
+	この経歴から、彼のキアーベとアオスタへの信頼、また大規模組織への嫌悪は理解できるだろう。
+	当然ながら、ロドスは利益と引き換えにオペレーターを簡単に切り捨てる組織ではない。でも彼にこの点を理解してもらうにはまだしばらく時間がかかりそうだ。
+
+	Archive File 2 :
+	Even after joining Rhodes Island, Broca did not conceal his animus towards Rhodes Island, which caused some dissatisfaction among other Operators. However, this was not without reason.
+	To be more precise, his animus is not directed specifically at Rhodes Island, but towards all large organizations in general. According to Operator Aosta, who detailed his past experiences in the gang, the mafia family to which he originally belonged betrayed him, after which he was rescued by Chiave and Aosta.
+	It is not difficult to understand his loyalty to Operator Chiave and Operator Aosta, as well as his aversion to large organizations.
+	While Rhodes Island by no means is an organization that easily abandons its members for immediate benefit, it may take some time for him to understand this.
+
+	파일 자료 2 :
+	    오퍼레이터 브로카는 로도스 아일랜드에 합류한 후에도 로도스 아일랜드에 대한 반감을 숨기지 않았다. 다른 오퍼레이터들은 이 점이 불만이었지만, 그렇다고 아무 이유 없이 그러는 것도 아니었다.
+	    정확히 말하자면 그는 로도스 아일랜드에만 반감을 가진 것이 아니라, 모든 대형 집단에 반감을 가진 것이다. 오퍼레이터 아오스타가 제공한 키아베 패거리의 정보에 따르면, 그가 키아베 패거리에 가입하게 된 연유는 원래 경호원으로 일하던 가문이 그를 팔아넘겼고, 후에 키아베와 아오스타가 그를 구해줬기 때문이라고 한다.
+	    이런 전후 사정을 알고 나면, 그가 어째서 키아베와 아오스타를 그렇게 소중히 여기는지, 어째서 대형 집단에 대해 그토록 반감을 가지는 지도 이해하기 어렵지 않다.
+	    물론 로도스 아일랜드는 집단의 이익을 위해 소속된 오퍼레이터를 팔아넘기는 행위를 절대 하지 않겠지만, 그가 이런 점을 깨닫게 되는 데 까지는 아무래도 어느 정도의 시간이 필요할 것이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	虽然在战场上展现出了堪称过人的一面，不过干员布洛卡更令人惊讶的，还是其在手工制作上的能力。
+	和擅长缝制的干员奥斯塔不同，他擅长的是轻工业方向的制作，只要有合适的素材，他能够按照要求做出各种各样的器材和工具。
+	在这一点被其他干员发现并传播后，干员布洛卡一跃成为了干员中的明星人物，并且此后的一些节日和重要场合的装扮布置也经常出自他之手。
+	而更重要的是，本人明显也通过这一系列活动中逐渐找到了在罗德岛的位置，甚至后勤部中传来了希望他放下武器专职制作的声音，多少令人有些哭笑不得。
+	总而言之，管理层特批为他购置了一座工具台及配套设施，希望他能够将自己的特长发扬光大。
+
+	第三資料 :
+	戦場でもかなりの活躍ぶりを見せたブローカだが、それ以上に周りを驚かせる特技がある。手工芸だ。
+	裁縫が得意なアオスタと異なり、彼が得意とするのは軽工業寄りの物作りだ。適切な素材さえあれば、要求に応じた様々な器物や道具を作れる。
+	この特技が他のオペレーターに発見され広まった後、ブローカはいきなり注目の中心となった。以来、一部の祝日や重要な場面での装飾や調達品の多くは彼の手によって作られた。
+	特筆すべきなのは、ブローカ本人もこの一連のイベントを通じてロドスでの立ち位置を見つけたようだ。さらにおかしなことに、後方支援部より彼に戦闘を辞め、手工芸に専念してほしいという要望すら出ている。
+	また、その特技をより一層活かすために、上層部の指示により彼専用の作業台と設備が用意された。
+
+	Archive File 3 :
+	Though he displayed remarkable prowess on the battlefield, even more surprising about Operator Broca is his talent for handicrafts.
+	Unlike Aosta, who is skilled at sewing, he is adept at crafting. As long as suitable materials are available, he can make all kinds of tools and equipment according to requirements.
+	After this was discovered and circulated by other Operators, Broca quickly became a star among his colleagues, taking jobs ranging from making costumes for certain holidays to more important operation requests.
+	More importantly, he gradually found his position at Rhodes Island by doing these things. Some Operators in Logistics Department even hoped that he could lay down his weapons in favor of a full-time production job.
+	In the end, upper management approved the purchase of a workstation for him, as well as other supporting facilities, in the hopes that he can continue to develop his specialty.
+
+	파일 자료 3 :
+	    오퍼레이터 브로카의 탁월한 전투 능력보다 더욱 놀라운 것은 그의 수공예 기술이다.
+	    봉제 기술에 능한 오퍼레이터 아오스타와는 달리, 그는 도구를 만드는 데 능해 적합한 재료만 있다면 요구 사항에 맞춰 다양한 기구 및 공구를 만들어 낼 수 있다.
+	    이 사실이 다른 오퍼레이터를 통해 알려진 후, 오퍼레이터 브로카는 오퍼레이터들 사이에서 일약 스타로 떠올랐고, 이후 명절이나 주요 행사 등에 쓰이는 장식용품 제작은 그가 일임하게 되었다.
+	    더욱 중요한 사실은, 이러한 교류를 통해 오퍼레이터 브로카가 로도스 아일랜드에서 점차 자리를 잡아가게 되었다는 점이다. 심지어 후방 지원부에서는 오퍼레이터 브로카가 전투 직군에서 무기 제작지원 직군으로 넘어와줬으면 한다는 웃지 못할 요구를 한 적도 있었다.
+	    아무튼 브로카가 자신의 특기를 계속해서 개발할 수 있도록, 경영진은 그를 위한 작업대 및 관련 부대시설의 구매를 허가하였다.
+
+———————————————————————————————
+
+	档案资料四 :
+	正如干员布洛卡本人所言，“我不讨厌被命令，但我讨厌不知道自己在为什么而战的感觉。”在对罗德岛放下戒心并产生归属感后，可以明显感觉到他对本岛态度的转变。
+	罗德岛的敌人就是他的敌人，罗德岛的伙伴就是他的伙伴，对博士的严格从不信任转变成了监督，对其他干员也更多展现出了他可靠的一面，很明显，他已经完全将自己当做罗德岛的一员看待了。
+	虽然每一个加入罗德岛的干员对罗德岛的理念都是认同的，但如今我们保有的干员大部分都是近两年吸收的新鲜血液，真正将我们视作归所的还只是少数。当然，罗德岛并不要求每一个干员都做到这一步，原则上，只要不损害罗德岛的利益，我们并不介意成为干员们的跳板。但随着那些真正热爱罗德岛的战士们陆续陨落在过去的战火之中，罗德岛也亟需培养出新的属于自己的力量。
+	当然，这也意味着罗德岛必须要保持一贯的原则，甚至做得更好。只有这样，才能让干员布洛卡这样的人才安心地在这里生活。也只有这样，我们才能在脚下这条坎坷的道路上走得更远。
+
+	第四資料 :
+	ブローカ自身の言葉のように、「命令されること自体は別にいいが、理由も知らないまま戦わされるのは気に入らない」。ロドスへの警戒心が解き、帰属意識が芽生えてから、彼の態度は明らかに変化した。
+	ロドスの敵は彼の敵であり、ロドスの仲間は彼の仲間である。ドクターへの厳しさは、初めは不信感から来るものであったが、今となっては見守るお目付け役のような姿勢に変わっている。他のオペレーターに対しても頼れる一面を見せた。言うまでもなく、既に彼は自分自身を完全にロドスの一員として認識しているのだ。
+	ロドスに加わる者は皆ロドスの理念に賛同しているが、現在ロドスに所属しているオペレーターの大半は過去二年間で吸収した新メンバーであり、本当の意味でロドスを居場所としている者はまだ極少数だ。無論ロドスはすべてのオペレーターにそこまで強要しない。原則上、ロドスの利益さえ損なわなければ、オペレーターたちの踏み台になるのは許容できることだ。だが、ロドスに情熱を捧げた戦士たちは次々と過去の戦火の中で散りゆくにつれ、ロドスも自身のために新しい力を蓄える必要がある。
+	これは、ロドスにこれまでの原則を維持し、さらにそれを良く実現する必要があることを意味する。ブローカのような者が心置きなくここで暮らすために、我々がこの険しい道をさらに遠くまで歩み続けるために、こうするほかない。
+
+	Archive File 4 :
+	As Operator Broca himself stated, 'I have nothing against taking orders, but I don't like fighting without knowing why I'm doing it.' After learning to be less defensive towards Rhodes Island and gradually finding a sense of belonging, one can clearly feel the change in his attitude.
+	The enemies of Rhodes Island are now his enemies, the partners of Rhodes Island are now his partners, his relationship with the Doctor changed from that of suspicion to one of watchfulness, and he has also demonstrated his reliability to other Operators. As far as anyone can tell, he has completely integrated as a member of Rhodes Island.
+	Though every new recruit to Rhodes Island agrees with our core philosophy and, as of right now, our ranks consist mostly of new members added over the last two years, few have truly come to regard Rhodes Island as 'home.' Of course, we do not require this of all our Operators. In principle, we do not mind becoming a springboard for our Operators, provided that they do not damage the interests of Rhodes Island in the process. However, because many of the old soldiers who truly loved Rhodes Island have been taken away by the flames of wars past, we do have a need to cultivate the next generation of those who can become our bedrock.
+	Of course, this means that Rhodes Island will have to live up to its tenets, or do even better. Only this way can talents like Broca live in peace here. Only this way can we further traverse this bumpy road.
+
+	파일 자료 4 :
+	    “난 명령받는 걸 싫어하는 게 아니야, 이유도 모른 채 전장으로 나가는 걸 싫어하는 거지.”
+	    오퍼레이터 브로카 본인의 말처럼, 그는 로도스 아일랜드에 대한 경계심을 내려놓고, 소속감을 갖게 되면서 로도스 아일랜드를 다르게 생각하기 시작했다.
+	    로도스 아일랜드의 적이 곧 그의 적이고, 로도스 아일랜드의 동료가 바로 그의 동료가 되었다. 또한, 박사에 대한 태도 역시 '불신' 단계에서 '감시' 단계로 하향되었으며, 다른 오퍼레이터들에게도 여러차레 믿음직한 모습을 보여주었다. 이제 그는 완전히 자신을 로도스 아일랜드의 일원으로서 여기게 된 것이다.
+	    비록 로도스 아일랜드에 합류하는 모든 오퍼레이터들이 로도스 아일랜드의 이념을 인정하긴 하나, 현재 로도스 아일랜드에 소속된 오퍼레이터 대부분은 최근 2년 새 입사한 새로운 인원들로서, 진정으로 로도스 아일랜드의 이념을 받아들인 자는 소수에 불과하다. 물론, 로도스 아일랜드가 모든 오퍼레이터들에게 로도스 아일랜드의 이념을 뼛속 깊이 새길 것을 요구하진 않는다. 원칙 상, 로도스 아일랜드의 이익에 피해를 끼치지만 않는다면, 로도스 아일랜드는 오퍼레이터의 도약을 위한 디딤돌이 되는 것을 개의치 않는다. 다만 진정으로 로도스 아일랜드를 사랑했던 전사들이 계속해서 전장의 별로 지고 있기에, 로도스 아일랜드는 새로운 힘을 키워야만 하는 상황이다.
+	    이는 로도스 아일랜드가 반드시 일관된 원칙을 고수해야 함은 물론, 계속해서 발전해 나가야 함을 뜻한다. 이런 모습을 보여주었을 때만, 오퍼레이터 브로카와 같은 인재들이 안심하고 몸을 맡길 수 있을 것이다. 그리고 이렇게 해야만, 이 평탄하지 않은 길 위에서 보다 멀리 나아갈 수 있을 것이다.

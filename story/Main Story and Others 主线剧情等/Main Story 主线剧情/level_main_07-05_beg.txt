@@ -25,32 +25,32 @@ Chernobog Underground Base
 
 [name="凯尔希"]  我们会在环境信息汇总完毕后开始行动。在这之前，更多地向你描述一些核心城内的现状会对你有帮助。
 [name="ケルシー"]  周辺の把握が終わり次第行動を開始する。それまでに、君にここの現状を説明しよう。
-[name="Kal'tsit"]  We’ll begin the operation after we finish collecting all the environmental information. Before that, it’ll benefit you to hear exactly what’s going on inside Chernobog’s core city.
+[name="Kal'tsit"]  We'll begin the operation after we finish collecting all the environmental information. Before that, it'll benefit you to hear exactly what's going on inside Chernobog's core city.
 [name="켈시"]  일단 이곳의 정보를 종합하여 파악한 뒤 작전을 개시할 거다. 그전에 너에게도 코어의 현 상황을 일러두는 편이 좋겠지.
 
 [name="凯尔希"]  阿米娅还要处理现场，这次讨论，她就不参加了。
 [name="ケルシー"]  アーミヤは現場の処理に向かわせた。このブリーフィングには参加しない。
-[name="Kal'tsit"]  Amiya’s a bit tied up on the scene, so she won’t be able to join this discussion.
+[name="Kal'tsit"]  Amiya's a bit tied up on the scene, so she won't be able to join this discussion.
 [name="켈시"]  아미야는 아직 현장의 일이 남아서, 이번 브리핑에는 빠진다.
 
 [name="凯尔希"]  任务简报你都已经看过。但那些资料对于你的头脑来说，并不够多。
 [name="ケルシー"]  任務の概要には既に目を通していると思うが、君がここで行動するにあたって、あれだけの資料では足りないだろう。
-[name="Kal'tsit"]  You’ve already read the information in the mission briefing, but that kind of information is not good enough for a mind like yours.
+[name="Kal'tsit"]  You've already read the information in the mission briefing, but that kind of information is not good enough for a mind like yours.
 [name="켈시"]  임무 개요는 봤겠지. 너라면 그 정도 양의 자료는 대수롭지 않을 테니.
 
 [Decision(options="你终于意识到需要我了？;......;我还以为你当我只会战地指挥。", values="1;2;3")]
 [Decision(options="ようやく実力を認めてもらえたようだな。;……;戦地指揮しか能がないと思われてたのかと。", values="1;2;3")]
-[Decision(options="Did you finally realize that you need me?;......;I’m glad you see me as more than a simple battlefield commander.", values="1;2;3")]
+[Decision(options="Did you finally realize that you need me?;......;I'm glad you see me as more than a simple battlefield commander.", values="1;2;3")]
 [Decision(options="드디어 내 필요성을 깨달은 건가?;……;날 전장 지휘밖에 할 줄 모르는 놈으로 생각하는 줄 알았더니.", values="1;2;3")]
 
 [name="凯尔希"]  如果最坏的情况发生，我不希望你牺牲的不明不白。
 [name="ケルシー"]  もし最悪の状況が発生した場合、君が理由も知らないまま命を失うのはさすがに忍びないのでな。
-[name="Kal'tsit"]  If the worst comes to pass, I don’t want you to sacrifice yourself while still not knowing a single thing.
+[name="Kal'tsit"]  If the worst comes to pass, I don't want you to sacrifice yourself while still not knowing a single thing.
 [name="켈시"]  최악의 상황이 발생했을 때, 네가 멍청하게 희생되지 않길 바랄 뿐이야.
 
 [name="凯尔希"]  如果你对我五官中的某个部分很在意，可以直接指出来。不用一直盯着我看。
 [name="ケルシー"]  私の顔に気になる部分があるならはっきり言ってくれて構わない。黙りこくって見つめられてもわからないのでな。
-[name="Kal'tsit"]  If you’ve taken interest in some part of me, you can just come out and say it. No need to stare so much.
+[name="Kal'tsit"]  If you've taken interest in some part of me, you can just come out and say it. No need to stare so much.
 [name="켈시"]  내 이목구비에 불만 있으면 직접 얘기해. 빤히 쳐다보지 말고.
 
 [name="凯尔希"]  虽然你可能忘了，但我记得。我记得你相当擅长在凌晨四点时，用沸腾的饮用水直接在口腔中加热速食食品。
@@ -60,12 +60,12 @@ Chernobog Underground Base
 
 [name="凯尔希"]  至于是不是真的，你也许可以试试。
 [name="ケルシー"]  ここから生還できたら試してみるといい。
-[name="Kal'tsit"]  If you don’t believe me, you can try for yourself.
+[name="Kal'tsit"]  If you don't believe me, you can try for yourself.
 [name="켈시"]  거짓말 같으면 직접 해보든가.
 
 [name="凯尔希"]  不说闲话。我们的时间没有多充裕。
 [name="ケルシー"]  無駄話はここまでにしよう。時間がない。
-[name="Kal'tsit"]  But skip the chatter. We don’t have much time.
+[name="Kal'tsit"]  But skip the chatter. We don't have much time.
 [name="켈시"]  이제 잡담은 그만하지. 이제 시간이 별로 없어.
 
 [name="凯尔希"]  罗德岛与近卫局在龙门合作击败了整合运动，击溃了“梅菲斯特”和“弑君者”带领的武装力量。
@@ -75,7 +75,7 @@ Chernobog Underground Base
 
 [name="凯尔希"]  这之后，整合运动在龙门的部署已经全部失效。
 [name="ケルシー"]  これにより、レユニオンは、龍門内の戦力を全て失った。
-[name="Kal'tsit"]  After that, Reunion’s deployments in Lungmen fell apart completely.
+[name="Kal'tsit"]  After that, Reunion's deployments in Lungmen fell apart completely.
 [name="켈시"]  이후 용문에 있던 다른 리유니온 세력들은 전부 무력화됐고.
 
 [name="凯尔希"]  阿米娅向我报告过，你们与整合运动的特殊小队指挥官，别称“霜星”的感染者，在龙门城邦的底部展开了殊死搏斗。
@@ -90,17 +90,17 @@ Chernobog Underground Base
 
 [Decision(options="没人赢。;不。;那不算是胜利。", values="1;2;3")]
 [Decision(options="勝者などいない。;違う。;あれは勝利とは呼べない。", values="1;2;3")]
-[Decision(options="There was no victor.;No.;I wouldn’t call that a victory.", values="1;2;3")]
+[Decision(options="There was no victor.;No.;I wouldn't call that a victory.", values="1;2;3")]
 [Decision(options="승자는 없었어.;아니.;그건 승리라고 할 수 없어.", values="1;2;3")]
 
 [name="凯尔希"]  可以理解。根据PRTS申报的数据，在干员的协力下，你正是在罗德岛处理了敌对感染者的遗体。
 [name="ケルシー"]  そうか……PRTSからの報告によると、君はオペレーターの協力のもと、ロドスで敵感染者の遺体を処理したそうだな。
-[name="Kal'tsit"]  I understand. According to the data from PRTS, you had the cooperation of our operators when you brought the enemy’s body back to Rhodes Island for treatment.
+[name="Kal'tsit"]  I understand. According to the data from PRTS, you had the cooperation of our operators when you brought the enemy's body back to Rhodes Island for treatment.
 [name="켈시"]  네 마음은 이해한다. PRTS의 보고 데이터에 따르면, 다른 오퍼레이터의 도움을 받아 로도스에서 적 감염자의 시체를 처리했다지.
 
 [Decision(options="我不认为她是敌人。", values="1")]
 [Decision(options="彼女は敵ではない。", values="1")]
-[Decision(options="I don’t consider her an enemy.", values="1")]
+[Decision(options="I don't consider her an enemy.", values="1")]
 [Decision(options="난 그녀를 적이라고 생각하지 않아.", values="1")]
 
 [name="凯尔希"]  Dr.{@nickname}，“分清敌我”。
@@ -130,7 +130,7 @@ Chernobog Underground Base
 
 [name="凯尔希"]  我没有跳出职责来判断立场的权力。
 [name="ケルシー"]  責任を負わない私には、現場の判断に口出しする資格がない。
-[name="Kal'tsit"]  I don’t have the right to overreach and criticize your judgment.
+[name="Kal'tsit"]  I don't have the right to overreach and criticize your judgment.
 [name="켈시"]  난 내 직책을 넘어서까지 누군가의 입장을 판단할 권한이 없다.
 
 [name="凯尔希"]  你曾经尝试去理解感染者的行为动机，你愿意承担她——霜星——所作所为导致的所有后果。
@@ -175,7 +175,7 @@ Chernobog Underground Base
 
 [Decision(options="我这么做......你其实完全认可？", values="1")]
 [Decision(options="つまり自分は認められたということか？", values="1")]
-[Decision(options="You’re actually... siding with me?", values="1")]
+[Decision(options="You're actually... siding with me?", values="1")]
 [Decision(options="내가 뭘 하든…… 지지해 주겠다는 건가?", values="1")]
 
 [name="凯尔希"]  我没有这么说过。
@@ -205,7 +205,7 @@ Chernobog Underground Base
 
 [name="凯尔希"]  因为我们没时间复习历史常识，所以我直截了当地告诉你——萨卡兹雇佣军并不可靠，对W，对整合运动，都一样。
 [name="ケルシー"]  はっきり言おう。このサルカズ傭兵軍という連中は信用ならない。それはWにとっても、レユニオンにとっても、という意味だ。
-[name="Kal'tsit"]  We don’t have time to go over what should be common historical knowledge, but let me say this frankly — Sarkaz mercenaries are unreliable, a problem W faces just as much as Reunion.
+[name="Kal'tsit"]  We don't have time to go over what should be common historical knowledge, but let me say this frankly — Sarkaz mercenaries are unreliable, a problem W faces just as much as Reunion.
 [name="켈시"]  지금 역사 공부할 시간은 없으니 간단히 얘기하지. 살카즈 용병군은 믿을만한 집단이 아냐. W나 리유니온에게나 모두 마찬가지다.
 
 [name="凯尔希"]  萨卡兹雇佣军并不是普通的雇佣兵组织。他们是卡兹戴尔无处容放的军事力量在大地各处的流露。
@@ -225,7 +225,7 @@ Chernobog Underground Base
 
 [name="凯尔希"]  这不是重点。
 [name="ケルシー"]  重要なのはそこではない。
-[name="Kal'tsit"]  I haven’t even gotten to the important part.
+[name="Kal'tsit"]  I haven't even gotten to the important part.
 [name="켈시"]  그게 중요한게 아냐.
 
 [name="凯尔希"]  重点在于，雪怪小队所属的感染者游击队和雇佣兵全然不同。
@@ -240,7 +240,7 @@ Chernobog Underground Base
 
 [name="凯尔希"]  在成为整合运动的武装前，它是独立的感染者游击队，他们的威名在特定区域的感染者中比它的后起之秀整合运动更加响亮。
 [name="ケルシー"]  レユニオンの配下になる以前、独立した一個の組織だった彼らは、一部地域の感染者たちの間で、後からのし上がってきたレユニオンよりもその名を轟かせていた。
-[name="Kal'tsit"]  Before joining Reunion’s ranks, they were an independent guerrilla force of Infected, and their prestige was even greater among certain groups of Infected than that of Reunion.
+[name="Kal'tsit"]  Before joining Reunion's ranks, they were an independent guerrilla force of Infected, and their prestige was even greater among certain groups of Infected than that of Reunion.
 [name="켈시"]  리유니온에 합류하기 전까지, 감염자 유격대는 독립적인 부대로 활동했었다. 어떤 지역에서는 리유니온보다 더 큰 유명세를 떨치기도 했지.
 
 [name="凯尔希"]  ......在成为游击队之前，他们曾是乌萨斯强大军事力量的一部分。
@@ -260,17 +260,17 @@ Chernobog Underground Base
 
 [name="凯尔希"]  无论你从哪里得到了这条信息，博士，我都该为此夸赞你。
 [name="ケルシー"]  どこでその情報を手に入れたのかは知らないが、賞賛に値する情報収集能力だ、ドクター。
-[name="Kal'tsit"]  I’m not sure where you learned that piece of information, Doctor, but I color me impressed.
+[name="Kal'tsit"]  I'm not sure where you learned that piece of information, Doctor, but I color me impressed.
 [name="켈시"]  어디서 들은 정보인지는 모르겠지만 칭찬해 주지, 박사.
 
 [name="凯尔希"]  尽管这样的情报很基础，但你能主动去获取情报这一行为，让我感到欣慰。
 [name="ケルシー"]  入手自体はさほど難しいものではないが、君が自ら情報を得ようとするその姿勢は、喜ばしいことだ。
-[name="Kal'tsit"]  Though that piece of information itself is fairly basic, I am relieved that you’re able to proactively gather intel on your own.
+[name="Kal'tsit"]  Though that piece of information itself is fairly basic, I am relieved that you're able to proactively gather intel on your own.
 [name="켈시"]  이런건 기본적인 상식에 불과하지만, 그래도 스스로 무언가를 알아내려고 하는 그 자세에 안심이 되는군.
 
 [Decision(options="夸我不用拐弯抹角。;......;我有点怀疑你在讽刺我？", values="1;2;3")]
 [Decision(options="回りくどい褒め方はやめろ。;……;皮肉に聞こえるんだが？", values="1;2;3")]
-[Decision(options="You just had to tack that bit onto the end...;......;Why does it feel like you’re poking fun at me?", values="1;2;3")]
+[Decision(options="You just had to tack that bit onto the end...;......;Why does it feel like you're poking fun at me?", values="1;2;3")]
 [Decision(options="빙빙 돌려가며 칭찬하는 건 그만둬.;……;비꼬는 거냐?", values="1;2;3")]
 
 [name="凯尔希"]  点到为止。
@@ -280,27 +280,27 @@ Chernobog Underground Base
 
 [name="凯尔希"]  我们身处切尔诺伯格核心城的基础工业结构处。
 [name="ケルシー"]  ここからの行動について伝える。
-[name="Kal'tsit"]  We’ve arrived at the foundations of the industrial sector at Chernobog’s core city.
+[name="Kal'tsit"]  We've arrived at the foundations of the industrial sector at Chernobog's core city.
 [name="켈시"]  우리가 지금 있는 곳은 체르노보그 코어의 기초 공업 시설이다.
 
 [name="凯尔希"]  接下来，我们带领的这三支小队将穿过错综复杂的地下通道、下水管道与工业层，前往核心城的中央区域。
 [name="ケルシー"]  私たちが率いる三つの小隊は、地下通路、下水道および工業エリアをくぐり抜け、中央エリアへ向かう。
-[name="Kal'tsit"]  Next, we’ll lead three teams through the complex underground passages, take the sewer pipes into the industrial layer, and come up in the heart of the core city.
+[name="Kal'tsit"]  Next, we'll lead three teams through the complex underground passages, take the sewer pipes into the industrial layer, and come up in the heart of the core city.
 [name="켈시"]  지금부터 우리가 이끄는 세 팀은 복잡한 지하 통로, 하수도와 공업 구역을 지나 코어의 중앙 구역으로 갈 거다.
 
 [name="凯尔希"]  注意，哪怕是恰巧在这里巡逻的敌人，也不会是普通的整合运动暴徒。
 [name="ケルシー"]  注意すべきなのは、ここで巡回している敵は、通常のレユニオンの暴徒たちとは違うということだ。
-[name="Kal'tsit"]  Be aware that any enemies you see patrolling these areas are not the ordinary Reunion thugs you’re used to fighting.
+[name="Kal'tsit"]  Be aware that any enemies you see patrolling these areas are not the ordinary Reunion thugs you're used to fighting.
 [name="켈시"]  조심해. 여기서 마주치게 되는 적은 보통의 리유니온 폭도가 아닐 거다.
 
 [name="凯尔希"]  我们会遇见经过严苛训练的......“士兵”。游击队以乌萨斯现役军的训练方式训练过的整合运动“士兵”。
 [name="ケルシー"]  厳しく訓練された「兵士」に遭遇することになる。ウルサス軍流のやり方で遊撃隊が鍛え上げた、レユニオンの「兵士」たちだ。
-[name="Kal'tsit"]  We will meet rigorously trained... 'soldiers.' Reunion’s 'soldiers,' trained in the tactics of Ursus’s own army by the guerrillas.
+[name="Kal'tsit"]  We will meet rigorously trained... 'soldiers.' Reunion's 'soldiers,' trained in the tactics of Ursus's own army by the guerrillas.
 [name="켈시"]  우리가 마주치게 될 적은 엄격한 훈련을 거친 '병사'…… 유격대가 우르수스 현역군의 훈련 방식을 토대로 훈련시킨 리유니온의 '병사'들이다.
 
 [name="凯尔希"]  侦查干员发现核心城内的通讯遭到了人为切断，或者说，整合运动并没有尝试维持城内的通讯。
 [name="ケルシー"]  それに加えて、我々の偵察隊が都市の通信網が人為的に切断されていることを発見した。あるいは、レユニオンは通信を維持する気がないのかもしれない。
-[name="Kal'tsit"]  Our recon operators discovered that communication networks have been forcefully cut off within the core city. Rather, it seems that Reunion didn’t even try to maintain these channels.
+[name="Kal'tsit"]  Our recon operators discovered that communication networks have been forcefully cut off within the core city. Rather, it seems that Reunion didn't even try to maintain these channels.
 [name="켈시"]  정찰 오퍼레이터로부터 코어 내의 통신이 인위적으로 차단돼 있다는 보고를 받았다. 아니, 리유니온이 도시 내의 통신을 유지할 생각이 없다고 봐야겠지.
 
 [name="凯尔希"]  这对于利用常规通讯手法进行交流的现代小队有着很强的制约力。
@@ -310,12 +310,12 @@ Chernobog Underground Base
 
 [name="凯尔希"]  却也意味着，整合运动也有特殊的通讯手段，或者是他们完全没有准备好应战。
 [name="ケルシー"]  つまりは、レユニオンには特殊な通信手段がある、もしくはまだ応戦の準備ができていない、ということを意味するが——
-[name="Kal'tsit"]  What this means is Reunion either already has some special way of communicating, or they simply aren’t prepared to fight.
+[name="Kal'tsit"]  What this means is Reunion either already has some special way of communicating, or they simply aren't prepared to fight.
 [name="켈시"]  어쩌면, 리유니온에겐 특수한 통신 수단이 있거나, 반대로 그들이 전투 준비를 전혀 하지 않았다고 볼 수도 있겠지.
 
 [name="凯尔希"]  参照一个月前在切尔诺伯格发生的事件，后者的情况几乎不会发生。但是，切断通讯，底层的整合运动将不会收到任何直接命令。
 [name="ケルシー"]  チェルノボーグ事変を鑑みれば、後者である可能性はほぼゼロだ。しかし通信を切断すれば、下層にいるレユニオン兵は一切の指示を受けられなくなる。
-[name="Kal'tsit"]  Based on what we saw in Chernobog a month ago, don’t expect that second scenario. However, if communication is cut off, the lower-ranking Reunion members won’t receive direct commands.
+[name="Kal'tsit"]  Based on what we saw in Chernobog a month ago, don't expect that second scenario. However, if communication is cut off, the lower-ranking Reunion members won't receive direct commands.
 [name="켈시"]  한 달 전 체르노보그에서 일어난 사건으로 미루어 보면, 후자일 확률은 지극히 희박하다. 하지만, 통신이 끊겼으니 리유니온의 말단은 어떠한 직접적인 명령도 받지 못하겠지.
 
 [name="凯尔希"]  大多数时间里，他们会自由行事。
@@ -325,7 +325,7 @@ Chernobog Underground Base
 
 [name="凯尔希"]  恐怕他们还不知道，他们频道收不到的那个信号——那个只有国家与城邦才能辨别的信号，正在划定乌萨斯的疆域。
 [name="ケルシー"]  おそらく彼らはまだ気づいていないだろう。自分たちのチャンネルが受信できないシグナル――国や都市にしか識別できないあのシグナルが、ウルサスの画策する陰謀を乗せて発信されていることに。
-[name="Kal'tsit"]  I fear they won’t know signals they cannot receive— a signal that only countries and city-states can distinguish. One that marks the territory of Ursus.
+[name="Kal'tsit"]  I fear they won't know signals they cannot receive— a signal that only countries and city-states can distinguish. One that marks the territory of Ursus.
 [name="켈시"]  그들의 채널에는 포착되지 않는 그 신호…… 국가와 도시에서 밖에 식별할 수 없는 그 신호가, 이 땅을 우르수스의 땅으로 규정짓고 있다는 사실을 그들은 아마 모르겠지.
 
 [name="凯尔希"]  这是一座酝酿着风暴的城区。混乱，无论是无意还是故意，都会像沉重的烟雾一样四处弥漫。
@@ -335,12 +335,12 @@ Chernobog Underground Base
 
 [name="凯尔希"]  先我一步，崩溃的种子已经被人播撒出去了。
 [name="ケルシー"]  私より先に、誰かによって崩壊の種が既に撒かれていたのだ。
-[name="Kal'tsit"]  They’re a step ahead of me, and the seeds of ruin have already been sown.
+[name="Kal'tsit"]  They're a step ahead of me, and the seeds of ruin have already been sown.
 [name="켈시"]  붕괴의 씨앗은 이미 뿌려진 거다. 손쓸 새도 없이 말이야.
 
 [Decision(options="结论呢？", values="1")]
 [Decision(options="つまりどういうことだ？", values="1")]
-[Decision(options="What’s your conclusion?", values="1")]
+[Decision(options="What's your conclusion?", values="1")]
 [Decision(options="그래서 결론은?", values="1")]
 
 [name="凯尔希"]  某种冲突正在整合运动内部孕育。
@@ -355,22 +355,22 @@ Chernobog Underground Base
 
 [name="凯尔希"]  类似的事情在这片大地上发生过无数遍。
 [name="ケルシー"]  似たようなことは、この大地で何度も繰り返されている。
-[name="Kal'tsit"]  I’ve seen the same thing unfold countless of times across this land.
+[name="Kal'tsit"]  I've seen the same thing unfold countless of times across this land.
 [name="켈시"]  이 세상에선 이미 비슷한 일들이 수없이 많이 반복되어 왔으니까.
 
 [Decision(options="你是不是还有什么没和我说？", values="1")]
 [Decision(options="……まだ何か自分に伝えていないことがあるだろう？", values="1")]
-[Decision(options="Is there something you’re not telling me?", values="1")]
+[Decision(options="Is there something you're not telling me?", values="1")]
 [Decision(options="아직 내게 말하지 않은 것이 있구나?", values="1")]
 
 [name="凯尔希"]  能说的差不多就这些，剩下的，等要讨论的时候再讨论。
 [name="ケルシー"]  言えることはほぼ伝えた。残りは必要な時に話そう。
-[name="Kal'tsit"]  I’ve said pretty much everything I needed to say. As for the rest, we’ll cross those bridges when we get to them.
+[name="Kal'tsit"]  I've said pretty much everything I needed to say. As for the rest, we'll cross those bridges when we get to them.
 [name="켈시"]  지금 말해줄 수 있는 건 여기까지다. 나머진 다음에 다시 얘기하지.
 
 [name="凯尔希"]  即使我们只是在做战前准备工作，我们也要兼顾效率。
 [name="ケルシー"]  戦闘の準備段階とはいえ、効率も考えなければならないのだ。
-[name="Kal'tsit"]  Even if we’re still just preparing for war, efficiency still matters.
+[name="Kal'tsit"]  Even if we're still just preparing for war, efficiency still matters.
 [name="켈시"]  단지 작전의 준비 과정일 뿐이라 해도, 효율은 따져야겠지.
 
 [name="凯尔希"]  请你帮我通知R-4小队的成员，博士。请他们来取这批装置。
@@ -390,7 +390,7 @@ Chernobog Underground Base
 
 [Decision(options="这些装置似乎是迷迭香的。", values="1")]
 [Decision(options="この装備はロスモンティスのものか？", values="1")]
-[Decision(options="Don’t these belong to Rosmontis?", values="1")]
+[Decision(options="Don't these belong to Rosmontis?", values="1")]
 [Decision(options="이 장치는 로즈몬티스 것 같은데.", values="1")]
 
 [name="凯尔希"]  是的。
@@ -410,7 +410,7 @@ Chernobog Underground Base
 
 [Decision(options="很难想像她居然有使用这种装置的力量。", values="1")]
 [Decision(options="彼女にこんな装備が使いこなせるとは信じがたいな。", values="1")]
-[Decision(options="Never expected she’d have the power to use a device like this.", values="1")]
+[Decision(options="Never expected she'd have the power to use a device like this.", values="1")]
 [Decision(options="이런 장치를 사용할 힘이 있을 줄은 몰랐는데.", values="1")]
 
 [name="凯尔希"]  事实上，每一个精英干员都具备相当的力量。他们必须独当一面。
@@ -420,7 +420,7 @@ Chernobog Underground Base
 
 [name="凯尔希"]  ......所以你还没来及了解迷迭香的战斗方式。
 [name="ケルシー"]  ……ということは、君はまだ彼女の戦い振りを見ていないのだな。
-[name="Kal'tsit"]  ...So, you haven’t had the time to understand how Rosmontis fights.
+[name="Kal'tsit"]  ...So, you haven't had the time to understand how Rosmontis fights.
 [name="켈시"]  그래서…… 넌 아직 로즈몬티스의 전투 방식을 잘 모르나 보군.
 
 [name="凯尔希"]  事先声明，有些事情不只该他们自己承担。罗德岛的战地指挥官身负多种职能，帮忙分担干员身上的压力，也是其中必要的一环。
@@ -440,17 +440,17 @@ Chernobog Underground Base
 
 [name="凯尔希"]  很少有不会被迷迭香的战斗震慑住的人。
 [name="ケルシー"]  ロスモンティスの戦いに驚かない者はまずいない。
-[name="Kal'tsit"]  Very few people aren’t shocked after watching Rosmontis fight.
+[name="Kal'tsit"]  Very few people aren't shocked after watching Rosmontis fight.
 [name="켈시"]  로즈몬티스의 전투를 보고 놀라지 않는 사람은 드물거든.
 
 [name="凯尔希"]  做好心理准备。
 [name="ケルシー"]  覚悟をしておくのだな。
-[name="Kal'tsit"]  Make sure you’re ready for it.
+[name="Kal'tsit"]  Make sure you're ready for it.
 [name="켈시"]  마음의 준비, 단단히 해두라고.
 
 [name="罗德岛干员"]  Dr.{@nickname}，你来了！
 [name="オペレーター"]  Dr.{@nickname}、よく来てくれました！
-[name="Rhodes Island Operator"]  Dr. {@nickname}, you’re here!
+[name="Rhodes Island Operator"]  Dr. {@nickname}, you're here!
 [name="로도스 아일랜드 오퍼레이터"]  {@nickname} 박사님, 오셨군요!
 
 [name="罗德岛干员"]  我们截住了敌人的巡逻小队，正在稳步处理中。
@@ -470,7 +470,7 @@ Chernobog Underground Base
 
 [name="罗德岛干员"]  我建议你不要站在那个位置。
 [name="オペレーター"]  そこから離れたほうがいいですよ。
-[name="Rhodes Island Operator"]  I think you’ll probably want to move.
+[name="Rhodes Island Operator"]  I think you'll probably want to move.
 [name="로도스 아일랜드 오퍼레이터"]  그쪽에는 서 있지 않는 게 좋겠어요.
 
 [Decision(options="我才刚刚到位。", values="1")]
@@ -485,7 +485,7 @@ Chernobog Underground Base
 
 [name="罗德岛干员"]  博士，她身边真的很危险！
 [name="オペレーター"]  彼女の傍は危険です、ドクター！
-[name="Rhodes Island Operator"]  Doctor, it’s really dangerous to stand next to her!
+[name="Rhodes Island Operator"]  Doctor, it's really dangerous to stand next to her!
 [name="로도스 아일랜드 오퍼레이터"]  박사님, 로즈몬티스 곁에 있는 건 정말 위험하다고요!
 
 [name="？？？"]  ......敌人。
@@ -530,17 +530,17 @@ Chernobog Underground Base
 
 [name="迷迭香"]  我和阿米娅不一样。阿米娅的法术能绕过家人，准确地惩罚别人......
 [name="ロスモンティス"]  私はアーミヤとは違う。アーミヤのアーツは家族に当たらないようにしながら、正確に相手にダメージを与えられるけど……
-[name="Rosmontis"]  I’m not like Amiya. Amiya’s Arts can go around her friends to strike her enemies...
+[name="Rosmontis"]  I'm not like Amiya. Amiya's Arts can go around her friends to strike her enemies...
 [name="로즈몬티스"]  난 아미야랑 달라. 아미야의 아츠는 가족은 피하고 정확히 목표에게만 벌을 주지만……
 
 [name="迷迭香"]  我不能。我做不到。
 [name="ロスモンティス"]  私にはそれができない。
-[name="Rosmontis"]  But not me. I can’t.
+[name="Rosmontis"]  But not me. I can't.
 [name="로즈몬티스"]  난 그렇게는 못 해.
 
 [name="迷迭香"]  所以，不要站在迷迭香和战场之间。
 [name="ロスモンティス"]  だから、私と敵の間に立たないで。
-[name="Rosmontis"]  So don’t stand between me and my fight.
+[name="Rosmontis"]  So don't stand between me and my fight.
 [name="로즈몬티스"]  그러니까, 나랑 전장 사이에 서 있지 마.
 
 [Decision(options="......", values="1")]
@@ -555,17 +555,17 @@ Chernobog Underground Base
 
 [name="整合运动成员"]  那个背着大盒子的女孩，怎，怎，怎么......
 [name="レユニオン構成員"]  あのデカイ箱を背負ってる子供は、い、いったい、何なんだ……？
-[name="Reunion Member"]  That girl, the one carrying that box... Wh-what’s going on...
+[name="Reunion Member"]  That girl, the one carrying that box... Wh-what's going on...
 [name="리유니온 멤버"]  큰 상자를 멘 저 여자애, 대, 대체, 무슨……
 
 [name="整合运动成员"]  我的眼睛要看不到了，我的眼睛，我的头！！好痛！好痛！！
 [name="レユニオン構成員"]  目が、目が見えない！　いっ……痛い！　頭が割れそうだ！！
-[name="Reunion Member"]  What’s wrong with my eyes? I can’t see anything! My eyes! My face!! It hurts! It hurts!!!
+[name="Reunion Member"]  What's wrong with my eyes? I can't see anything! My eyes! My face!! It hurts! It hurts!!!
 [name="리유니온 멤버"]  눈이 보이지 않아. 내 눈, 내 머리!! 아파! 아파앗!!
 
 [name="整合运动成员"]  有什么东西要把我捏碎了！
 [name="レユニオン構成員"]  どうなってる！？　何かに潰されそうだ！
-[name="Reunion Member"]  Something’s crushing my head!
+[name="Reunion Member"]  Something's crushing my head!
 [name="리유니온 멤버"]  무언가에 부서지는 것 같아!
 
 [name="迷迭香"]  ......
@@ -580,7 +580,7 @@ Chernobog Underground Base
 
 [name="迷迭香"]  我已经很久没捏死过人了。
 [name="ロスモンティス"]  人を握り潰すなんて、もうずいぶんしてないから。
-[name="Rosmontis"]  It’s been a long time since I’ve crushed anyone to death.
+[name="Rosmontis"]  It's been a long time since I've crushed anyone to death.
 [name="로즈몬티스"]  누군가를 죽여 본 지도 꽤 오래됐네.
 
 [name="整合运动成员"]  那些剑，那些剑——
@@ -600,7 +600,7 @@ Chernobog Underground Base
 
 [name="迷迭香"]  我不要你们留在我的记忆里。
 [name="ロスモンティス"]  あなたたちを私の記憶に残したくない。
-[name="Rosmontis"]  I don’t want you in my memories.
+[name="Rosmontis"]  I don't want you in my memories.
 [name="로즈몬티스"]  너희를 내 기억 속에 남겨놓지 않겠어.
 
 [name="迷迭香"]  我不要。

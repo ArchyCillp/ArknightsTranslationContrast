@@ -1,11 +1,17 @@
 ID:
 	char_136_hsguma
 
-干员代号\Name:
+CV:
 	星熊
 	ホシグマ
 	Hoshiguma
 	호시구마
+
+干员代号\Name:
+	安野希世乃
+	安野希世乃
+	Kiyono Yasuno
+	야스노 키요노
 
 招聘合同\Character Usage:
 	龙门近卫局特别任务组干员星熊准备完毕，等待你的指示。
@@ -48,177 +54,401 @@ ID:
 	반야회전참
 
 语音\Voices:
-	博士请放心，有我在您就是安全的。
 	ドクター、あなたの安全は小官が保証いたします。どうかご安心を。
 	Doctor, be at ease. I will keep you safe.
 	박사님, 당신의 안전은 소관이 보증하겠습니다. 부디 안심하십시오.
 
-	最近来了很多新人。然而新面孔越多，您越要多加注意。
 	最近、新顔が増えて参りました。身の回りには十分お気を付けください。
 	There have been many new recruits lately, many new faces. You must be on guard.
 	요즘 처음 보는 얼굴들이 늘었군요. 신변에는 항상 주의를 기울여 주시기 바랍니다.
 
-	无论发生什么情况，请别忘了紧急通讯频段，我会立刻前来处理。
 	非常時には、すぐに小官にお知らせください。可及的速やかに参上いたします。
 	No matter what happens, don't forget to use the emergency communication channel. I'll be right there if you call me.
 	비상시에는 바로 소관에게 알려주십시오. 가급적이면 신속히 달려오겠습니다.
 
-	我说话冷冰冰的？毕竟是在工作中嘛。若在休息时间，我也不会那么正经的。
 	小官が不愛想……ですか。職務中ですのでどうかご容赦ください。職務時間外であれば、決してこのようなことはございません。
 	I sound cold when I talk, you mean? I'm working, after all. I'm much less serious during my off time.
 	소관이 무뚝뚝… 하단 말씀이십니까. 직무 중이라 그런 거니 부디 양해 부탁드립니다. 직무 시간 외에는 절대 이러지 않으니까요.
 
-	罗德岛需要的不只是战斗干员。后勤、教育、事务交涉，无论哪个领域，都需要有专业人员支撑。
 	ロドスに必要なのは戦闘員だけではありません。後方支援に教育、渉外と様々な分野の専門家が必要です。
-	I seem... reserved? That is how I conduct myself at work, so you'll have to forgive me. During my free time, I am nothing like this, I assure you.
+	Rhodes Island doesn't only need combat Operators. It also needs experts in the fields of education, public relations, and more.
 	로도스 아일랜드에 필요한 것은 전투원뿐만이 아닙니다. 후방 지원에 교육, 외부와의 교섭까지… 다양한 분야의 전문가가 있어야 합니다.
 
-	以往要我出动必是恶战，而现在每场战斗都是恶战。
 	以前は苦戦を強いられる戦線での任務遂行が職務でしたが、今となってはそうでない戦線を探すことの方が困難ですね。
-	Rhodes Island doesn't only need combat Operators. It also needs experts in the fields of education, public relations, and more.
+	Before, I would only be called to desperate fights, but now every fight is a desperate one.
 	예전에는 고전을 면치 못하는 전선에서의 임무 수행이 제 직무였습니다만, 지금은 그렇지 않은 전선을 찾는 게 더 힘들군요.
 
-	这面盾叫做“般若”，是我从故乡带来的，它的“父亲”和家父是旧识。我在近卫局上任时，长官没少给我们白眼，但我和它都证明了自己——盾可以是武器，我也可以是。
 	この盾は名を「般若」といい、故郷にいた頃からの相棒です。こいつの「父」と小官の父は旧知の仲でした。仕官したばかりの頃は白い目で見られたものですが、私も、こいつも「盾も武器になりうる」ことを証明できたと思います。
 	This shield has a name: Hannya. I brought it from my hometown. Its 'father' and mine were old friends. Back in the Guard Department, my superiors would always mock my choice of weapon, but together we've proven to them that a shield can be a good weapon, and so can I.
 	이 방패의 이름은 '반야'라 합니다. 고향에 있던 시절부터 함께한 동료지요. 이 녀석의 '아버지'와 소관의 아버지는 오랜 친구 사이였고요. 임관한 지 얼마 안 됐을 때는 눈총도 많이 받았습니다만… 저도 이 녀석도 "방패도 무기가 될 수 있다"는 걸 증명해냈다고 생각합니다.
 
-	这面“般若”沾上了龙门各个帮派的血。本以为会有很多人记恨我，不知道怎么回事，原本蔑视我的人都变得对我毕恭毕敬了。可能是个子大的原因，对吧？
 	この「般若」には、龍門で血祭りに上げた悪党の血が染みついています。彼らから恨みを買うことには慣れましたが、いつの間にか畏敬の眼差しを向けられるようになっていました。体が大きいことも、悪いことばかりではないですね。
 	My Hannya is stained with the blood of many a Lungmen gangster. I thought people would despise me for it, but in fact the ones who looked down upon me began treating me with much more respect after they saw my impressive kill record. Maybe they're simply intimidated by my size? What do you think?
 	이 '반야'에는 용문에서 제물로 바친 악당들의 피가 스며들어 있습니다. 그들의 원한을 사는 일에는 익숙해졌습니다만, 언제부터인가 경외의 시선을 받게 되었죠. 몸집이 큰 것도 나쁘지만은 않네요.
 
-	呼，我再来倒一杯吧。什么？你怎么就不行了？别担心，就算你醉倒在地我也能把你送回房间的......更不安心了？哎呀，说话好歹要看看气氛哪。
 	ふう……さあもう一杯だ。私が注ごう。なにっ、もうダメだって？酔いつぶれても、私が部屋まで送るから心配無用だ。……余計に不安だと？ふっ、空気を読んでもらいたいものだな。
 	Have one more glass? ...Oh, you've had enough? You don't have to worry about getting drunk, you know... I can carry you back to your room if you get drunk. What? That simply makes you even more worried, you say? Come on, did you have to say that?
 	후우~ 자, 한 잔 더. 내가 따라줄게. 뭐? 더는 못 마시겠다고? 마시다 뻗어도 내가 방까지 데려다줄 테니까 걱정 안 해도 돼… 오히려 더 불안하다고? 허, 분위기 파악 좀 하지?
 
-	嗯？没什么，我就是在这里守着你而已。
 	ん？ふむ。……いえ、ドクターを警護していただけです。
 	Hm? Heh. Nothing. Just guarding you, Doctor.
 	응? 흠… 아뇨, 박사님을 경호하고 있었을 뿐입니다.
 
-	星熊，重装干员，今后将是您的盾、您的利器、您的壁垒。请多多指教，博士。
 	小官は星熊と申します。これより重装オペレーターとして任務にあたります。ドクターの盾になり、剣になり、そして砦となり、身を粉にして任務を全うする所存です。ご指導のほど、よろしくお願い致します。
 	Hoshiguma, Defender Operator. I will be your shield, your blade, your fortress. Very glad to meet you, Doctor.
 	소관은 호시구마라고 합니다. 이제부터 디펜더 오퍼레이터로서 임무에 임하겠습니다. 박사님의 방패가 되고, 검이 되고, 그리고 요새가 되어, 분골쇄신하는 마음으로 임무를 완수하겠습니다. 많은 지도 부탁드립니다.
 
-	这都是博士您指导的好。
 	ドクターのご指導の賜物です。
 	This was made possible by your guidance, Doctor.
 	박사님께서 지도해주신 덕분입니다.
 
-	我的荣幸。
 	光栄です。
 	I'm honored.
 	영광입니다.
 
-	我要去哪里，没人能替我决定；但我做出决定，也没有人阻止得了。我准备好听从你的指挥了，博士。
 	自らの道は自らが決める。一度決めたことは、誰の指図も受けない。そうやって生きてきました。そして今、小官はドクターに命を預けることに決めました。
 	No one can decide where I will go next, and no one can stop me once I make up my mind. And now—I've made up my mind to follow all your orders, Doctor.
 	자기의 길은 자기가 정한다. 한 번 정한 일은 누구의 지시도 받지 않는다… 그렇게 살아왔습니다. 그리고 이제, 소관은 박사님께 목숨을 맡기기로 정했습니다.
 
-	我会保护大家。
 	皆を守る盾となろう。
 	I will protect everyone.
 	모두를 지키는 방패가 되겠다.
 
-	守护罗德岛也是我的责任。
 	責任をもってロドスの警護にあたります。
 	Protecting Rhodes Island is my responsibility too.
 	책임지고 로도스 아일랜드의 경호를 맡겠습니다.
 
-	希望众人这次都能平安归来。
 	全員、無事で戻るぞ。
 	I hope everyone could return safely.
 	전원, 무사히 돌아가자.
 
-	既然有战斗的理由，就要有丧生的觉悟！
 	殺すつもりなら、殺される覚悟で来い。
 	All who have a reason to fight must also be willing to die for their cause!
 	죽일 셈이라면, 죽을 각오로 와라.
 
-	是，长官。
 	イエッサー。
 	Yes, Sir.
 	예썰.
 
 	了解。
-	了解。
 	Got it.
 	알겠습니다.
 
-	一步也不会退后。
 	ここからは一歩も退かない。
 	I will not take even one step backward.
 	여기서부터는 한 발짝도 물러서지 않겠다.
 
-	一个都别想过去。
 	誰一人、通すものか。
 	You cannot pass.
 	그 누구도 지나갈 수 있을 거라 생각지 마라.
 
-	般若会将你碾碎。
 	般若よ、奴らを押し潰せ。
 	My Hannya will crush you into smithereens.
 	반야여, 놈들을 뭉개버려라!
 
-	想伤害我的朋友，先问问这面盾答不答应！
 	私の仲間を傷つけたければ、まずはこの盾に許可を取ってからにしてもらおう。
 	Anyone who wants to hurt my friends must answer to this shield.
 	내 동료들을 다치게 하고 싶다면, 먼저 이 방패에게 허락을 받도록 해라.
 
-	百闻不如一见。
 	百聞は一見に如かず。
 	Seeing is believing.
 	백문이 불여일견.
 
-	般若啊，把你父亲铸造你时掺杂的怒火，全都喷发出来吧！
 	般若よ、お前の父が込めた怒りの炎を、今こそふるえ！
 	Hannya, unleash the rage your father poured into you!
 	반야여, 너의 아버지가 담은 분노의 불꽃, 지금이야말로 휘두를 때다!
 
-	登山者总会挑战更陡峭的山岩。
 	困難な道であればあるほど、自身の成長につながるものだ。
 	The harder the journey is, the more character it builds.
 	어려운 길일수록 자신의 성장으로 이어지는 법.
 
-	在我面前伤害我的同伴，是我最不能容忍的事情！
 	目の前で仲間が傷つけられることだけは、我慢ならない。
 	Hurting my friends in front of my very eyes... that's something I cannot condone!
 	눈앞에서 동료가 다치는 것만큼은 참을 수 없어.
 
-	受伤了吗，抱歉，我的失职。
 	負傷したのか。すまない、すべては私の責任だ。
 	Are you hurt? I'm sorry, I have failed in my duties.
 	부상을 입었나? 미안하다, 전부 내 책임이다.
 
-	快点撤退，我来殿后！
 	くっ……早く退避を！しんがりは任せてください。
 	Retreat now! I'll take up the rear!
 	큭… 빨리 대피를! 뒤는 맡겨주십시오.
 
-	我个子大，要进这屋子可有些麻烦。
 	体が大きいと……部屋に入るのも一苦労だな。
 	With my size... it's kind of hard to get through the door.
 	몸이 크면… 방에 들어가는 것도 고생이군.
 
-	在。
 	はい。
 	Here.
 	네.
 
-	博士，现在不是工作时间了，休息的时候就该好好放松吧。
 	ドクター、休憩中くらい力を抜いてリラックスしたらどうだ。
 	Doctor, you could at least take a moment to relax while we're on a break.
 	박사, 쉴 때만큼은 힘을 빼고 푹 쉬는 게 어때?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	哟，博士。
 	よお、ドクター。
 	Hey, Doctor.
 	안녕, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】星熊
+	【性别】女
+	【战斗经验】七年
+	【出身地】东
+	【生日】1月20日
+	【种族】鬼
+	【身高】184cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ホシグマ
+	【性別】女
+	【戦闘経験】七年
+	【出身地】極東
+	【誕生日】1月20日
+	【種族】鬼
+	【身長】184cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+	身体状況は良好で、十分健康と言える。
+
+	Basic Info :
+	[Code Name] Hoshiguma
+	[Gender] Female 
+	[Combat Experience] 7 years 
+	[Place of Birth] Higashi 
+	[Date of Birth] Jan. 20 
+	[Race] Oni 
+	[Height] 184cm 
+	[Infection Status] 
+	Uninfected, confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 호시구마
+	[성별] 여
+	[전투 경험] 7년
+	[출신지] 극동
+	[생일] 1월 20일
+	[종족] 오니
+	[신장] 184cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】卓越
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】卓越
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Outstanding 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 월등
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	星熊，龙门近卫局特别任务组精英干员。 
+	存在数项指控记录。 
+	经龙门总督魏彦吾交涉，龙门近卫局依星熊的优异能力与良好表现，破格将其吸纳进近卫局特别督察组。在处理高危险性犯罪事件、要员保护、灾害紧急救援等领域表现出较高专业性。 
+	现作为重装干员协助罗德岛行动，并为现场提供战术执行与指挥支援。
+
+	個人履歴 :
+	龍門近衛局特別任務隊に所属するエリート。
+	いくつかの容疑記録がある。
+	龍門近衛局はホシグマの優れた能力と業績を評価したとして、ウェイ総督との交渉を経て、彼女を特別督察隊へ迎え入れた。彼女はリスクの高い犯罪要件、要人警護、そして災害に伴う救援任務などの領域で高い専門性を発揮する。
+	現在は重装オペレーターとしてロドスに協力しているほか、現場での戦術指導と指揮支援も行っている。
+
+	Profile :
+	Hoshiguma is an elite Operator from the Special Ops Team of the L.G.D.
+	There are several charges against her on record. 
+	After intervention from Chief Wei Yenwu, L.G.D. made an exception to admit her into its Special Ops division based on her exceptional abilities and field performance. She exhibited remarkable professionalism in handling violent crime, protecting VIPs, disaster response and emergency rescue. 
+	Currently a defender assisting Rhodes Island operations, Hoshiguma provides tactical execution and command support.
+
+	프로필 :
+	    용문근위국 특별임무팀의 정예 오퍼레이터. 수차례 고발당한 전적이 있는 호시구마는 그 우수한 능력과 특출난 성과로 인해, 용문 총독 웨이 옌우와의 교섭 끝에 파격적인 대우로 용문근위국 특별감찰팀에 합류, 위험한 범죄 사건 처리는 물론, 요원 보호나 재앙 긴급구조 등 다양한 영역에서 프로페셔널한 모습을 보여주었다. 현재는 디펜더 오퍼레이터로서 로도스 아일랜드에 협조 중이며, 현장에서 전술 집행 및 지휘 지원을 맡고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员星熊没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员星熊甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点で非鉱石病感染者と認定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.12u/L
+	ホシグマが原石と接触することは極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Hoshiguma showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L 
+	Operator Hoshiguma rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 호시구마로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 호시구마는 오리지늄과의 접촉 횟수가 매우 적음
+
+———————————————————————————————
+
+	档案资料一 :
+	十分高大的鬼族女性。 
+	和陈长官相反，穿着总是十分随意，不过，一开口就能让人回想起其督察的身份。 
+	喜欢喝酒，至今还没人见过她醉倒的样子。
+
+	第一資料 :
+	非常に大柄な鬼族の女性。
+	チェンとは相反して雑な着こなしでいることが多いが、一度口を開けば、その口調からすぐに督察隊の一員であることがわかる。
+	酒好きであるが、酒に酔った様子は見せたことがない。
+
+	Archive File 1 :
+	A towering female Oni. 
+	Unlike Madam Ch'en, she dresses very casually but easily reminds others of her post with her speech and demeanor. 
+	She loves to drink, but no one has seen her inebriated to date.
+
+	파일 자료 1 :
+	    덩치가 매우 큰 오니족 여성. 첸 장관과는 반대로 늘 편한 차림으로 다니지만, 말하기 시작하면 그녀의 계급이 경감이라는 것을 떠올리게 될 것이다. 술을 즐겨 마시지만, 아직까지 아무도 그녀가 술에 취해 흐트러진 모습을 본 적이 없다.
+
+———————————————————————————————
+
+	档案资料二 :
+	在职位上，陈长官是星熊小姐的上司，不过根据履历，星熊小姐加入近卫局时间还要在陈长官之前，并且两人共事了很久，也无怪乎相互之间完全没有上下级应有的疏离感。 
+	另外，出人意料的是，在对龙门的了解上，星熊小姐要远胜陈长官，黑道、白道、政治、经济、教育、外交等等等等，龙门的方方面面，她都看在眼里，并且有自己的想法。 
+	是个文武双全的优秀人才。
+
+	第二資料 :
+	組織上はチェンの部下に当たるが、履歴を見ると近衛局に加入したのはチェンよりも前で付き合いも長いため、二人の間に上下関係がない点は何ら不思議ではない。
+	一つ意外なのは、彼女がチェンよりもずっと龍門に詳しい点である。表世界、裏世界、政治、経済、教育、外交など、龍門のあらゆる方面の事象を知り尽くしており、それぞれ自身の考えも持っている。
+	彼女こそ文武両道の逸材と言えるだろう。
+
+	Archive File 2 :
+	As ranks go, Madam Ch'en is Hoshiguma's superior. But based on service history, Hoshiguma joined the L.G.D. before Ch'en and the two are long-time colleagues, so it's little wonder the line between them is almost invisible. 
+	What is unexpected is that Hoshiguma knows more about Lungmen then Ch'en. She has extensive knowledge about its criminal underworld, law enforcement, politics, economics, education, and foreign policy among others, and is unafraid to hold strong opinions about those topics.
+	She is indeed a rare combination of martial and scholarly talent.
+
+	파일 자료 2 :
+	    직위 상으로 첸 장관은 호시구마의 상관이지만, 경력 상으로는 호시구마가 첸 보다 더 일찍 들어왔다. 둘은 오랜 시간 동안 함께 해왔기에, 둘 사이에 상하급자 간의 거리감이란 전혀 찾아볼 수 없다. 의외였던 부분은, 호시구마가 용문의 사회, 정치, 경제, 암흑가, 교육, 외교 등등… 용문의 다양한 방면을 더 자세히 알고 있으며, 용문의 일이라면 뭐든 다 꿰뚫고 있고, 이에 대해 자신만의 철학도 갖고 있다는 점이다. 호시구마는 그야말로, 문무를 모두 겸비한 인재 중의 인재라 할 수 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在好战方面，星熊小姐和她的同族并没有什么区别，在战场上的她比任何人都要骁勇善战。 
+	但在此之上，星熊小姐有着大部分鬼族欠缺的一项十分重要的特质——冷静。 
+	从她的言行举止中，能感受到思考，在她的骁勇善战中，能感受到克制。如果说，鬼族的血脉中潜藏着狂躁，那她就是完全克服了这种狂躁。 
+	这或许与她过去的经历有关。
+
+	第三資料 :
+	好戦的な性格は彼女の種族の特性であり、戦場では誰よりも勇敢に戦う。
+	しかし彼女はそれだけではなく、鬼族に欠けていると言われる冷静さも併せ持っている。
+	彼女の言動や行動からは思考を、勇猛果敢な戦い方からは自制が感じられる。もし、鬼族の血脈には狂気が眠っているという噂に語られるのが本当ならば、彼女はそれを完全に克服していると言えるだろう。
+	或いは彼女の過去と何か関わりがあるのかもしれない。
+
+	Archive File 3 :
+	Hoshiguma is no less aggressive than her kin in battle, usually the fiercest and most courageous on the field. 
+	However, she also possesses a quality most Oni sorely lack - composure. 
+	Her self-discipline is discernible in her speech and demeanor, as well as in battle. She has fully conquered the recklessness in her Oni blood. 
+	This may have perhaps stemmed from her past.
+
+	파일 자료 3 :
+	    호시구마는 다른 동족들처럼 호전적이며, 전장에선 그 누구보다도 용맹무쌍하다. 하지만 호시구마는 여기에 더해서 대부분의 오니 족들에게 결여된 매우 중요한 특징을 한 가지 더 가지고 있는데, 그것은 바로 냉정함이다. 그녀의 말과 행동에선 신중함을, 그녀의 용맹무쌍한 전투에선 절제를 느낄 수 있다. 만약 오니 족의 핏속에 어쩔 수 없는 경솔함이 흐르고 있다면, 그녀는 완벽히 이런 부분을 극복하였다 할 수 있을 것이다. 이건 아마도 그녀의 과거 경험과 관련이 있을 지도 모른다.
+
+———————————————————————————————
+
+	档案资料四 :
+	按照近卫局的记录，黑帮打手时期的星熊小姐就显得十分独特，绝不欺压弱小，从不为非作歹，为人讲义气，有人情味，千杯不倒，简直就像是在东国都已经被时代所抛弃的任侠一般光明磊落。 
+	显然，这也是她能够破格成为龙门督察的理由。 
+	但这些资料仅仅说明了，星熊小姐在来到龙门时就已经和如今的她别无二致，却并没有解决根本上的疑问——究竟是什么，让星熊小姐变成了如此冷静而博学的人，这样的她又为何会栖身于龙门的黑帮？ 
+	这些故事，显然发生在她来到龙门之前，至少现在，尚且不得而知。
+
+	第四資料 :
+	近衛局の記録によると、マフィアに所属していた頃の彼女は、弱い者いじめや非道を行わず、義と人情を重んじる酒豪であり、極東ではもう見られなくなった昔気質の任侠だったという。
+	その人格も、龍門督察隊への加入を認められた理由の一つである。
+	しかしこれらの資料は、彼女が龍門に来る前と後とで全く変わらない芯の通った人物であると証明しただけであり、根本的な疑問は解決にはつながらない。彼女はどうやってその冷静さと博識ぶりを身に着けたのか、なぜ龍門のマフィアに加入したのか。
+	それらの鍵は、彼女が龍門に来る前にあるのだろう。今はそれを知るすべはない。
+
+	Archive File 4 :
+	According to L.G.D. record, Hoshiguma was already an anomaly even when was part of the criminal underworld. She never preyed on the weak, was always righteous, loyal and helpful, and could drink anyone under the table... In short, a throwback to the martial heroes of the East's long-forgotten history. 
+	It's likely that these qualities allowed her to break tradition and gain a position in the L.G.D.
+	But it's also clear from the files that Hoshiguma is no different now than when she first arrived at Lungmen, so the question remains how did she manage to gain her composure and knowledge, and why did she work for criminals in Lungmen? 
+	Even if these stories took place before she arrived in Lungmen, she is still shrouded in mystery.
+
+	파일 자료 4 :
+	    근위국의 기록에 따르면, 갱단 시절의 호시구마는 매우 독특했다고 한다. 절대 힘없고 약한 자를 건드리지 않고, 악행을 저지르지 않았으며, 의협심과 인간미가 있음은 물론, 아무리 술을 마셔도 취하지 않아 마치 시대로부터 버림받은 극동의 협객과도 같이 공명정대했다고 한다. 그녀가 파격적으로 용문근위국의 감찰팀에 들어올 수 있었던 이유는 아마도 이 때문일 것이다.
+	    다만 이 자료들은 용문에 오기 전의 호시구마도 지금의 그녀와 같은 모습이었음을 설명해줄 뿐, 근본적인 의문을 해결해주진 못하고 있다. 대체 무엇이 호시구마를 지금처럼 냉철하고 박식한 사람으로 만들었는지, 그리고 이런 그녀가 대체 무엇 때문에 용문의 갱단에서 활동했는지에 대해서 말이다.
+	    이 부분은 전부 그녀가 용문에 오기 전에 발생했던 일들이라, 현재로선 아직 알 방법이 없다.
+
+———————————————————————————————
+
+	晋升记录 :
+	这个人，星熊，我可以借给你们。 
+	看在我们合作愉快的份上，给你个小提示，博士。 
+	若你以为她是个理智的人，那说明你还没有完全了解她。 
+	那面盾——般若，等到有一天你能让她亲自告诉你那面盾的来历...... 
+	你才算真正了解了她。 
+	——魏彦吾
+
+	昇進記録 :
+	ホシグマだ。ロドスに預けよう。
+	我とドクターの仲だ、一つヒントを伝えておこう。
+	彼女を知的な人物であると感じているうちは、まだ彼女のことを全て理解したとは言えない。
+	あの盾――「般若」、その来歴を彼女自ら語る日が来たら……
+	真の意味で彼女を理解できたと言えよう。
+	——ウェイ
+
+	Promotion Record :
+	I am willing to lend this person, Hoshiguma, to you.
+	Since we want to get off on a right foot, let me give you a piece of advice, Doctor. 
+	If you think that she's a reasonable person, that just proves that you do not fully understand her. 
+	That shield... Well, until she tells you where that shield came from...
+	You don't know the real her. 
+	—Wei Yenwu
+
+	승진 기록 :
+	    이쪽은 호시구마, 로도스 아일랜드에 빌려주겠네. 우리 협력 관계가 제대로 진전되고 있으니 특별히 하나 힌트를 주도록 하지. 호시구마를 이성적이기만 한 인물이라 생각한다면, 아직 그녀를 전부 이해했다곤 할 수 없을 걸세. 언젠가 그 방패… '반야'에 얽힌 이야기를 그녀가 직접 해주는 날이 온다면… 그때야 말로 그녀를 진짜 이해했다 할 수 있겠지.
+	——웨이 옌우

@@ -1,11 +1,17 @@
 ID:
 	char_151_myrtle
 
-干员代号\Name:
+CV:
 	桃金娘
 	テンニンカ
 	Myrtle
 	머틀
+
+干员代号\Name:
+	下地紫野
+	下地紫野
+	Shino Shimoji
+	시모지 시노
 
 招聘合同\Character Usage:
 	罗德岛先锋干员桃金娘，将会带领其他干员冲锋陷阵！
@@ -43,172 +49,372 @@ ID:
 	치유의 날개
 
 语音\Voices:
-	博士，我来找你玩啦~
 	やっほードクター、遊びに来たよー。
 	Hey, Doctor. I'm hear to hang!
 	야호~ 박사, 놀러 왔어~
 
-	博士，你可不要小看我，在我的老家，第一大道还有三条商店街的孩子们可都是听我号令的。
 	ドクター、小さいからって甘く見ないでね！里にいた頃は、街の子たちがみ～んな、あたしの子分だったんだよ。
 	Doctor, don't look down on me just 'cause I'm little. Back where I'm from, all the kids looked up to me.
 	박사, 작다고 얕보지 마! 고향에 있을 땐 마을 아이들 전~부 내 부하였다고.
 
-	虽然杜林肯定是因为懒得想才直接拿我们族的名字当代号，但是这样我就被占便宜了欸，“杜林的桃金娘”，听起来不像是她的所有物了吗？
 	ドゥリンはきっと考えるのが面倒だったから、種族の名前をそのままコードネームにしたんだよね。でもそうなると、あたしが「ドゥリンのテンニンカ」って自己紹介すると、まるであの子のものみたいに聞こえちゃうから…それってずるくない？
 	Durin used the name of our race as her codename because she's so lazy, but isn't it kind of dumb how calling me 'Myrtle of Durin' made me sound like I belong to her or something?
 	두린은 분명 생각하는 게 귀찮아서 종족 이름을 그대로 코드네임으로 한 거겠지. 근데 그러면 내가 '두린의 머틀'이라고 자기소개를 하면 마치 내가 그 애 물건처럼 들리잖아… 그거 좀 치사하지 않아?
 
-	这里的器械虽然原理我都懂，但是用起来感觉好奇怪欸，有的有好多多余的部分，有的又意外的简便。
 	ここの機械って、仕組みはわかるけど、なんか変な使い心地だね。余計に複雑なものもあれば、意外と簡単なのもあったりしてさ。
 	I understand how all the machines here work, but it still feels weird using them. Some have a lot of different parts, yet some are surprisingly simple.
 	여기 기계는 구조는 알겠는데 뭔가 써보면 좀 이상해. 쓸데없이 복잡한 것도 있는가 하면 의외로 간단한 것도 있단 말이지.
 
-	这面旗子？啊，博士你眼光不错喔，这面布是我家的桌布，因为怎么也弄不脏所以离家前被我偷偷带出来了，啊哈哈，爸爸现在肯定气死了。
 	この旗？ふふ、さすがドクター、いい目してるね。これはうちのテーブルクロスだったんだけど、どうやっても汚れなくて面白かったから、こっそり家から持ち出しちゃったの。へっへー、今頃パパは絶対怒ってるだろうね。
 	The banner? Good eyes, Doctor. It is indeed the tablecloth from my home. I sneaked it out with me because it couldn't get dirty. My father is probably mad right now!
 	이 깃발? 흐흐, 역시 박사야. 보는 눈이 있네. 이건 우리 집 식탁보였는데, 무슨 짓을 해도 더러워지지 않는 게 재미있어서 몰래 집에서 들고 나왔어. 헤헤~ 지금쯤 아빠는 분명 화내고 있겠지.
 
-	欸，我的苹果很厉害吗？唔，在我家那边很普通吧。博士你要玩或者想拿去研究的话可以借你，别弄坏了就行~
 	え、あたしのリンゴちゃんがすごいって？う～ん、里ではわりと普通かな。ドクターが遊びたいとか研究したいとか言うなら貸してあげてもいいけど、壊さないでね。
 	Is my apple really that great? They're popular in my hometown. You can study or play it if you want, Doctor, just won't ruin it.
 	어? 내 사과가 굉장하다고? 음~ 고향에서는 비교적 평범한데. 박사가 가지고 놀고 싶거나, 연구하고 싶다면 빌려줄 수도 있지만, 망가트리진 마.
 
-	地上虽然有很多我还不适应的地方，不过好吃的东西真的有好多，我最喜欢罗德岛的食堂啦！
 	地上にはまだ慣れないことがたくさんあるけど、おいしいものがいっぱいあるから楽しい！特にロドスの食堂は最高だよ！
 	There are still many things I'm not used to on land, but I love the many delicious food. The cafe on Rhodes Island is my favorite!
 	지상에는 아직 익숙하지 않은 일이 많지만, 맛있는 게 잔뜩 있어서 즐거워! 특히 로도스 아일랜드의 식당은 최고야!
 
-	博士，我必须要严肃地指出一个事实，那就是，我已经成年了！而且在杜林里，我的身高是偏高的！你要告诉其他人，不要看到我就下意识地摸我头，还给我塞零食！
 	ドクター、真面目な話、あたしはね、もう成人してるから！それにドゥリンの中でも結構身長が高い方なの！だから、あたしを見るなり頭撫でながらおやつ渡すのをやめてってみんなに言ってよ！
 	I must solemnly point out the fact, Doctor, that I am a full-grown adult! And I'm tall by Durin standards! Tell everyone to not pat me on the head and offer me candy!
 	박사, 진지하게 말하는데 난 말이야, 이미 성인이거든! 게다가 두린 중에서도 꽤 키가 큰 편이라고! 그러니까 날 볼 때마다 머리 쓰다듬으면서 과자 주는 건 그만하라고 모두한테 말 좀 해줘!
 
-	我说，博士，你对我的家乡感兴趣吗？我可以带你回去看看！不过，因为回家要走超久的路，所以等我有心情的时候再说吧~
 	ねぇドクター、あたしの故郷には興味ある？連れてったげよっか！でも、あそこに着くまで結構歩くから、あたしがその気になってからにしよう。
 	Say, Doctor, are you interested in my hometown? I can take you there! But it's quite far, so wait till I'm in the mood.
 	있잖아 박사, 내 고향에 흥미 있어? 데려가 줄까?! 그래도 거기까지 가려면 꽤 걸어야 하니까… 내가 그럴 마음이 생기면 그때 가자.
 
-	博士要休息一下吗，那我旗子借你盖盖。
 	ドクター、休むの？じゃー、あたしの旗を布団代わりに貸してあげるね。
 	Are you taking a break? You can use my banner for cover.
 	박사, 자? 그럼 내 깃발을 이불 대신 빌려줄게.
 
-	我来报到啦！你就是博士对吧？可以叫我桃金娘，杜林族的桃金娘。杜林说在这里能找到工作，所以，有什么我能做的事吗？别看我个子小，我还挺厉害的哦。
 	初めまして！あなたがドクター？あたしはテンニンカ、ドゥリン族のテンニンカだよ。ここなら仕事も見つかるってドゥリンが言ってたけど、何かあたしにできることない？背は小さいけど、あたしってすごいからね。
 	Reporting! You're the Doctor, I presume? You may call me Myrtle, Myrtle of Durin. Durin said I could get a job here, so do you have anything for me? I may be small, but I'm tough!
 	만나서 반가워! 당신이 박사야? 나는 머틀, 두린족의 머틀이야. 여기라면 일을 찾을 수 있을 거라고 두린이 말했는데, 뭔가 내가 할 수 있는 일 없어? 키는 작지만 나 엄청나다고!
 
-	嗯，嗯......这场打的有意思，还有吗，博士？
 	ふむふむ……今の面白かったね。これってまだある？ドクター。
 	Interesting match... Any more, Doctor?
 	흠흠…… 방금 그거 재미있지 않아? 이거 더 있어? 박사.
 
-	咦，我升职了吗？那我可不可以去一些之前不能去的地方看看？
 	え？昇進？あたしが？じゃあ、今まで行けなかったところに行ってもいい？
 	Oh, did I get promoted? Does that mean I can visit places I couldn't before?
 	뭐? 승진? 내가? 그럼 지금까지 못 갔던 곳에 가도 돼?
 
-	我一开始就说了嘛，我可是挺厉害的呢！嗯——哼！
 	最初に言ったでしょ、あたしはすごいよって！えっへん！
 	Didn't I tell you I'm tough? It's true!
 	처음에 말했잖아, 난 엄청나다고! 에헴!
 
-	任务？我去我去！
 	任務？行く行く！
 	There's a mission? Me, I wanna go!
 	임무? 갈래, 갈래!
 
-	大家不要离我太远哦。
 	みんな、あまりあたしから離れないでね。
 	Don't everyone stray too far from me.
 	모두 나한테서 너무 떨어지지 마.
 
-	出——发——！
 	しゅっぱーつ！
 	Let's go!
 	출발~!
 
-	有我在，大家放心上吧！
 	みんな安心して戦って、あたしがついてるから！
 	Do not worry, people, you got me!
 	모두 안심하고 싸워, 내가 같이 붙어 있으니까!
 
-	嗯？
 	ん～？
 	Hmm?
 	음~?
 
-	呼啊，差点睡着了......
 	うわっ、寝ちゃうところだった……。
 	Whoa, almost doze off...
 	으아, 잠들 뻔했네……
 
-	博士，这里景色还不错欸！
 	ドクター、ここっていい景色だね！
 	Good scenery here, Doctor!
 	박사, 여긴 경치가 좋네!
 
-	我来帮助其他人！
 	みんな、助けに来たよ！
 	I'm here to help others!
 	다들, 도와주러 왔어!
 
-	我可要认真起来啦！
 	本気で行くよ！
 	I have to get serious now!
 	진지하게 가자!
 
-	大家快来我身边~
 	みんな、こっち来て！
 	Gather around me, guys!
 	다들, 이쪽으로 와!
 
-	小苹果，今天也拜托你啦。
 	リンゴちゃん、今日もよろしくね！
 	We're counting on you again today, little apple.
 	사과야, 오늘도 잘 부탁해!
 
-	呼、呼，累死我了，博士，我想回去睡觉。
 	はぁ、はぁ……疲れた……ドクター、眠いからもう帰っていい？
 	Phew, I'm exhausted! I wanna go to lie down, Doctor.
 	하아, 하아…… 힘들어…… 박사, 졸린데 이제 돌아가도 돼?
 
-	大获全胜！博士，我有派上用场吧？
 	だいしょーり！ドクター、あたしちゃんと役に立てた？
 	Flawless victory! I was pretty good, wasn't I, Doctor?
 	대승리~! 박사, 나 제대로 도움됐어?
 
-	赢了就好嘛，博士，妈妈说过，斤斤计较老得快哦。
 	勝てたんだからそれでよし！ドクター、いちいち気にし過ぎると老けちゃうよってママが言ってたよ。
 	We won, Doctor, and that's what counts!
 	이겼으니까 그걸로 됐어! 박사, 하나하나 신경을 너무 쓰면 늙어버린다고 엄마가 그랬어.
 
-	大家快跑！
 	みんな、逃げるよ！
 	Run!
 	다들, 도망치자!
 
-	哇，罗德岛真大！
 	うわーロドスって広いね！
 	Wow, Rhodes Island is huge!
 	우와~ 로도스 아일랜드는 넓구나!
 
-	咦，这样好有趣！
 	面白いね！
 	Hey, that is fun!
 	재밌어!
 
-	食堂为什么不能24小时都开着呢？
 	どうして食堂は24時間やってないの？
 	Why can't the cafe open 24 hours?
 	왜 식당은 24시간 안 하는 거야?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，有什么有趣的事情吗？
 	ドクター、なんか面白いことない？
 	Any more fun things to do, Doctor?
 	박사, 뭐 재미있는 거 없어?
+
+干员档案\Background:
+	基础档案 :
+	【代号】桃金娘
+	【性别】女
+	【战斗经验】 没有战斗经验
+	【出身地】未公开
+	【生日】12月13日
+	【种族】杜林
+	【身高】131cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】テンニンカ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】非公開
+	【誕生日】12月13日
+	【種族】ドゥリン
+	【身長】131cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Myrtle
+	[Gender] Female
+	[Combat Experience] No combat experience
+	[Place of Birth] Unknown
+	[Date of Birth] December 13
+	[Race] Durin
+	[Height] 1.31m
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 머틀
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 미공개
+	[생일] 12월 13일
+	[종족] 두린
+	[신장] 131cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	杜林族出身的少女，根据本人强烈要求，记录此前履历为：大将军。
+	外表与性格有孩子气的成分，但在战场上表现出颇强的感染力和相当的指挥水准，能够在提振其他干员士气的同时，为他们提供一定的治疗，十分可靠。
+
+	個人履歴 :
+	ドゥリン族の少女。本人の強い要求により、前職については「大将軍」と記録しておく。
+	外見と性格からは幼さが見て取れるが、戦場では圧倒的な影響力と高度な指揮能力を発揮し、その指揮で隊員たちを鼓舞するだけに留まらず、ある程度の治療までこなす頼れるオペレーターの一人。
+
+	Profile :
+	Myrtle is a Durin. She has insisted that her previous job title be recorded as: Generalissimo.
+	Her appearance and temperament are somewhat childish, but on the battlefield, she displays considerable enthusiasm and knack for command. She is able to boost operator morale while at the same time, providing them treatment. She is totally reliable.
+
+	프로필 :
+	    두린 족 출신의 소녀. 본인의 강력한 요구에 따라 이전 경력을 대장군으로 기록한다.
+	    외모와 성격은 어린아이 같지만, 전장에서는 매우 강력한 감화력과 상당한 수준의 지휘 능력을 보여, 다른 오퍼레이터들의 사기를 끌어 올림은 물론, 동료를 위한 일정 수준의 치료 서비스 역시 제공 가능한 매우 믿음직스러운 오퍼레이터다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	 
+	【体细胞与源石融合率】0%
+	干员桃金娘没有被源石感染的迹象。
+	 
+	【血液源石结晶密度】0.12u/L
+	干员桃金娘甚少接触源石。
+	
+	干员桃金娘的各项体检指标皆处于正常水平。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石との接触は極めて少ない。
+	
+	検査結果はどの項目も全て正常レベルを示している。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Myrtle shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.12u/L
+	Myrtle very rarely comes into contact with Originium.
+	
+	Myrtle's physical examination indicators are all standard.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관 윤곽이 뚜렷하며, 비정상적인 음영이 발견되지 않음. 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음. 현단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 머틀은 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 머틀은 오리지늄과의 접촉 빈도가 매우 낮음.
+	
+	오퍼레이터 머틀의 각종 신체검사 지표는 모두 정상 수준임.
+
+———————————————————————————————
+
+	档案资料一 :
+	充满活力的杜林族女孩。
+	因为来自地下世界，对地上的一切都十分好奇。
+	喜欢集体行动，总是往人多的地方凑，并且因为性格十分讨喜，深得一些年长干员的喜爱。
+
+	第一資料 :
+	エネルギッシュなドゥリン族の少女。
+	地下世界からやってきたため、地上の全てに興味津々な様子。
+	団体行動と人の多い場所を好み、その愛らしい性格から、年長のオペレーターたちには可愛がられている。
+
+	Archive File 1 :
+	This Durin girl is full of energy.
+	Because she previously lived only underground, she is very curious about the world up here.
+	She likes group operations and likes to be where everyone else is. Some of the older operators show a deep fondness for her.
+
+	파일 자료 1 :
+	    활력 넘치는 두린 족 여자아이. 지하세계에서 올라왔기에 지상의 모든 것에 대해 호기심이 넘친다. 단체 행동을 좋아해서 언제나 사람들이 많은 곳에 끼어들기 좋아하며, 그녀의 호감형 성격 덕분에 일부 선배 오퍼레이터들의 사랑을 듬뿍 받고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	桃金娘小姐是某日突然被杜林小姐带回基地的。按照杜林小姐的说法，是睡觉的时候突然“灵感来了”，出去逛了一圈，就捡到了桃金娘小姐。
+	且不论杜林小姐的灵感究竟是从何而来，从能力来说，桃金娘小姐的能力完全能够胜任罗德岛干员，而且她本人也表达了想要获得一份工作的想法，于是罗德岛上就以一种多少让人有些摸不着头脑的方式多出了一名干员。
+	另外，和大部分出现在地表上的杜林族类似，桃金娘小姐离开家乡的理由似乎也是单纯的想要寻找新的生活。
+
+	第二資料 :
+	テンニンカはある日突然ドゥリンに連れられてロドスの基地にやってきた。ドゥリンの話によると、寝ているときに突然「ビビっときた」らしく、直感に従い辺りをふらっと回ってみたところ、彼女を見つけたという。
+	ドゥリンの勘がいったいどこから来るものなのかはさておき、テンニンカの能力はロドスのオペレーター基準に達しており、本人も仕事がしたい意向であったため、正式にロドスのオペレーターとして迎え入れられた。外でたまたま拾われてきた者がオペレーターになるなど、誰に予想ができただろうか。
+	補足ではあるが、テンニンカが故郷を離れて地上に出てきた理由は、他のドゥリン族と同じく、ただ単に新しい生活を求めてのことらしい。
+
+	Archive File 2 :
+	Durin brought Myrtle back to the base one day, completely unannounced. According to Durin, she suddenly felt a burst of 'inspiration' while she was sleeping. She went out for a walk and found Myrtle.
+	Regardless of whatever it was that inspired Durin, Myrtle's proved to be a fully capable Rhodes Island operator. She had also expressed a desire to find work. Thus, through means no one quite understood, Rhodes Island added a new operator to our ranks.
+	In addition, the reason Myrtle left her homeland is similar to that of many of the Durins who come above ground - she was simply looking for a new life.
+
+	파일 자료 2 :
+	    머틀 씨는 두린 씨가 어느 날 갑자기 데려온 분이다. 두린 씨의 말에 의하면, 잠을 자던 중 갑자기 '영감이 떠올랐고', 밖으로 나가 산책을 한 바퀴 돌다 머틀 씨를 주워왔다고 한다.
+	    두린 씨의 영감이 대체 어디서 온 것인지는 모르겠으나, 실력 면에서 보았을 때 머틀 씨는 로도스 아일랜드의 오퍼레이터로서 활약할 수 있는 충분한 능력을 지녔다. 게다가 그녀 자신도 직업을 갖고 싶은 생각이 있다고 하였기에, 로도스 아일랜드는 이렇게 다소 종잡을 수 없는 방식으로 또 한 명의 오퍼레이터를 채용하게 되었다.
+	    지상으로 올라온 대부분의 두린 족이 그러하듯, 머틀 씨 역시 단순히 새로운 삶을 찾기 위해 고향을 떠난 것으로 보인다.
+
+———————————————————————————————
+
+	档案资料三 :
+	比较遗憾的是，桃金娘小姐的加入，并没有让我们能够对未知的地下世界产生进一步的了解。
+	事实上，十分古怪的是，迄今为止，来到地表的杜林族并不在少数，但是，从她们的描述中，并无法让我们拼凑出一个地下世界的真正印象。
+	或许，是地下世界实在是过于庞大吧。
+	不过，桃金娘小姐的加入也不是没有好处，至少，她扭转了大部分干员对杜林族的印象。毕竟，在此之前，杜林让大部分干员以为，杜林族都是一群瞌睡虫。
+
+	第三資料 :
+	残念ながら、テンニンカがロドスに加入したところで、我々が未知なる地下世界への理解を深めることはできなかった。
+	これまで地上にやってきたドゥリン族は決して少なくないが、彼女たちの説明からは、一貫性のある地下世界のイメージをまとめ上げることはできないのだ。実に不可解なことである。
+	もしかすると、地下世界はかなり広大で多様性のあるところなのかもしれない。
+	しかしテンニンカの加入が我々に何ももたらさなかったわけではない。少なくとも、彼女は多くのオペレーターのドゥリン族への印象をガラッと変えた。これまで多くのオペレーターにとって、ドゥリンだけがドゥリン族の見本であり、ドゥリン族はみな寝坊助だと考えていたのだ。
+
+	Archive File 3 :
+	Somewhat regrettably, Myrtle's induction into Rhodes Island has not yet resulted in any greater understanding of the underground world.
+	In fact, despite the many Durin who have come up from the underground world, their descriptions have never given us any real impression of what it's like down there.
+	Perhaps the underground world is too large.
+	Anyway, the addition of Myrtle is not without its benefits. At the very least, she has reversed everyone's impressions of the Durin people. After all, up until now, Durin had let us believe that most Durins are lazy and sleep all the time.
+
+	파일 자료 3 :
+	    한 가지 아쉬운 점은, 우린 머틀 씨의 합류를 통해서 미지의 지하 세계에 대한 이해도를 높이지는 못했다는 것이다. 사실 매우 이상하게도, 지금까지 지상으로 올라온 두린 족의 수는 적지 않으나, 이들의 설명을 아무리 들어도 이를 취합하여 지하 세계의 진짜 모습을 상상해낼 수는 없었다. 어쩌면 이는 지하 세계가 너무나도 거대하기 때문일는지도 모르겠다. 그래도 머틀 씨의 합류가 아무런 득도 되지 않은 것은 아니다. 이전에는 두린 씨 때문에 대부분의 오퍼레이터들이 두린 족은 모두 하나같이 잠꾸러기라고 오해했지만, 적어도 머틀 씨의 합류를 통해 이런 오해를 바로잡을 수 있었기 때문이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	桃金娘小姐身上最值得一提的地方，就是她手中的苹果，虽然最初所有人都以为只是一颗普通的苹果，但她的战斗方式表示，这颗苹果的功能远不止于此。
+	在征求本人意见并进行研究后，罗德岛的研究员们惊讶地发现，这颗苹果的内部拥有着极为复杂和精密的结构，它能够将桃金娘小姐的力量以最高效的方式转换并释放出来。
+	这种设计与地表现今比较流行的，将术士的施法媒介制作成该术士最习惯使用的道具的方式在理念上颇为相近。但显而易见的是，这颗苹果的精妙程度不是区区“流行”可以比拟的。
+	按照一位在魔导器制作上浸淫许久的老研究员的说法，他从中感到了一种“信仰”。
+
+	第四資料 :
+	テンニンカの特筆すべき点を挙げるとするならば、彼女が所有しているリンゴのことだろう。はじめは皆それがただのリンゴだと考えていたが、彼女の戦い方を見れば、それが普通の果物ではないことがわかる。
+	本人の了承を得て研究を進めたところ、ロドスの研究員たちは驚きの発見をした。このリンゴの内部は極めて複雑かつ精密な構造となっており、それにより彼女のアーツを最高効率で変換し、放つことができるようになっているのだ。
+	アーツユニットを術師が最も使い慣れている道具の形状を模して作り上げるという理念は地上でも流行しているが、このリンゴの精巧さは「流行」という言葉で説明できないほどのレベルに達していた。
+	アーツユニット制作に長年没頭し続けてきたベテラン研究員によると、その中からは一種の「信仰」を感じられたという。
+
+	Archive File 4 :
+	The most noteworthy thing about Miss Myrtle is the apple that she always carries in her hand. While it may appear to be an ordinary apple at first glance, her combat style reveals that it is much more than that.
+	After soliciting my advice for their studies, Rhodes Island researchers were surprised to find extremely complex but precise structures inside the apple that can transform to most efficiently release Miss Myrtle's powers.
+	This design is becoming more popular as a form of expression, conceptually similar to how Casters will channel their Arts through mediums that they are most comfortable with. However, this apple differs subtly from these more 'popular' forms.
+	According to a researcher who has long been obsessed with making Arts-related devices, the mechanism behind this apple felt as if it was derived from 'faith.' 
+
+	파일 자료 4 :
+	    머틀 씨에 관한 사실 중 가장 언급할 만한 가치가 있는 부분은 바로 그녀가 손에 들고 있는 사과다. 처음에는 모든 사람들이 이것이 평범한 사과라고 생각했지만, 그녀의 전투 스타일을 통해 이 사과가 절대 평범한 사과가 아님을 알 수 있었다.
+	    머틀 씨의 동의하에 연구를 진행한 로도스 아일랜드의 연구원은 이 사과 안에 놀라울 정도로 복잡하고 정밀한 구조가 구현되어 있음을 확인할 수 있었다. 이 사과는 머틀 씨의 마력을 가장 효율적으로 전환하고 방출할 수 있도록 도와주고 있었다.
+	    이런 종류의 디자인은 현재 비교적 유행하고 있는, 캐스터의 아츠 시전 매개체를 해당 캐스터가 가장 익숙하게 사용하는 도구와 동일한 모양으로 제작하는 방식과 꽤 유사하다. 다만 분명한 것은, 이 사과의 정밀도는 현재 '유행'하고 있는 시중의 것들과는 비교 자체가 불가할 정도로 우수하다는 것이다.
+	    오랫동안 마법 도구 제작을 담당한 한 베테랑 연구원의 말에 의하면, 이 사과를 통해 하나의 '신앙'을 느낄 수 있었다고 한다.

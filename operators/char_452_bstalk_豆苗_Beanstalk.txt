@@ -1,11 +1,17 @@
 ID:
 	char_452_bstalk
 
-干员代号\Name:
+CV:
 	豆苗
 	ビーンストーク
 	Beanstalk
 	빈스토크
+
+干员代号\Name:
+	伊藤彩沙
+	伊藤彩沙
+	Ayasa Itou
+	이토 아야사
 
 招聘合同\Character Usage:
 	最专业的磐蟹饲养员豆苗，指挥她的磐蟹小队守护前线。
@@ -43,177 +49,414 @@ ID:
 	"다 같이 가자"
 
 语音\Voices:
-	想要我帮忙？哼哼，如果给小家伙们提供三天高级饵食的话，我就考虑一下！怎么样，是不是挺划算......哎，等等，我开玩笑的，你别走啊！
 	あたしに手伝ってほしいの？うーん、うちの子たちに高級飼料を三日分プレゼントしてくれれば、考えてあげてもいいかな！どう、美味しい話でしょ……ってちょっと、行かないでよ、冗談だってば！
 	Want my help? Hehe, I'll think about it if you give my buddies three days of luxury pet food! How about it, sounds like a deal, isn't... Hey, wait up! I'm just kidding! Don't go!
 	내가 도와줬으면 좋겠어? 흠~ 우리 아이들에게 고급 사료 사흘 치를 선물해 준다면, 생각해 볼게! 어때, 괜찮은 조건이지? ……아니 잠깐, 가지 마! 농담이라고!
 
-	让一让，让一让，现在是豆苗培育中心的散步时间，请各位注意脚下，避免踩踏~
 	どいたどいたー、ビーンストーク飼育センターのお散歩タイムだよ。うちの子たちを踏んじゃわないように、足元には気をつけてね～。
 	Outta the way, outta the way~ Beanstalk Breeding Center coming right through! Watch your feet! Careful not to step on any of us~
 	비켜, 비켜~ 빈스토크 사육 센터의 산책 시간이야. 우리 아이들을 밟지 않도록 발밑을 조심해 줘~
 
-	哇！博士你怎么没告诉我那个卡达小姐也在罗德岛上啊！我可喜欢她的户外视频了！她还夸豆豆可爱，说下次摄影要带上豆豆呢！
 	ちょっとドクター！あのカシャさんがロドスにいるなんて聞いてないんだけど！あの人のアウトドア動画、あたし大好きなの！しかもぴーちゃんを可愛いって褒めてくれたんだよ、今度の撮影にも連れてってくれるみたい！
 	Doctor! Click is here at Rhodes Island? I can't believe you haven't ever told me! I'm a huge fan of her outdoorsy videos! She called Pea cute, and she even said she'll bring Pea along the next time she goes on a shoot!
 	잠깐, 박사! 클릭 씨가 로도스 아일랜드에 있단 얘길 왜 안 해줬던 거야! 내가 그 사람 아웃도어 영상을 얼마나 좋아하는데! 게다가 콩이 보고 귀엽다고 칭찬도 해줬어! 다음 촬영에도 데려가준다나봐!
 
-	现在好多人嚷嚷着要去淘矿，在荒野里乱挖一通就算了，还把大家住的地方挖得一团糟！要是再被我抓到那些乱来的混蛋，我一定要拿弩射他们的屁股！
 	最近は採鉱に行きたいって鼻息を荒くして、荒野をそこら中掘り返すって人がいっぱいいるけど、みんなのお家までめちゃくちゃにするなんて！次に好き放題するお馬鹿たちを捕まえたら、今度こそクロスボウでお尻に穴を開けてやるんだから！
 	There's been all these morons saying they'd go mining and then dug up a bunch of holes out in the wilderness. Fine, but how dare they make a mess of everyone's home! If I ever catch those bastards, I'm blowing a hole in their asses with my crossbow!
 	요즘 채광을 하러 가고 싶다며 난리 부리면서 황야를 여기저기 파헤치는 사람이 잔뜩 있다는데, 다른 사람들 집까지 엉망진창으로 만들어버린다고 해! 다음에 제멋대로 구는 바보들을 붙잡으면, 그땐 크로스보우로 엉덩이에 구멍을 뚫어줄 거야!
 
-	博士，这次的培育计划书我写完啦，你看看吧！欸？经费算多了？......嘁，被发现了。啊呀，对不起，可能是我算错了吧！我再改一改~
 	ドクター、今回の飼育計画書ができたよ、チェックよろしく！え？経費が多く計上されてる？……チッ、バレたか。いやー、ごめんね、たぶん計算ミスだと思う！直してくるねー。
 	Doctor, I'm done with my breeding proposal. Take a look, will ya? Huh? The budget doesn't add up...? Tsk, he found out, huh? Oh, my bad! I probably got the numbers messed up somewhere! I'll get it fixed right away~
 	박사~ 이번 사육 계획서를 완성했어, 검토 부탁해! 헤에? 경비가 많이 올랐다고? 쳇, 들켰나…… 아니야~ 미안해~ 그냥 계산 실수일 거야! 고쳐올게~
 
-	来罗德岛前，我也给不少公司投了不少简历，但都被拒绝了。可是博士你看，我的小家伙们既可以上战场又能在后勤运输，还有好多其他地方帮上忙，拒绝我完全是那些老板没眼光，他们亏大了！
 	ロドスに来る前にもいろんな会社に応募したんだけど、全部落ちちゃったんだよね。でもほら、うちの子たちは戦場でも活躍するし、後方支援なら運搬なんか得意だし、あたしを落とすなんてあのお偉いさんたちはホンット見る目ないよ。大損だってわかんないのかな！
 	Before I came to Rhodes Island, I sent my resume to so many companies out there, and they all turned me down. Well, just look at how helpful my little buddies are now, both in the battlefield and in logistics. Those big shots only have themselves to blame. It's their loss!
 	로도스 아일랜드에 오기 전에도 여러 회사에 지원했었지만, 전부 떨어졌어. 그렇지만 봐봐, 우리 아이들은 전장에서도 활약하고, 후방 지원이라면 운반도 잘하는데…… 날 떨어뜨리다니, 그 높으신 분들은 정말 보는 눈이 없다니까. 엄청난 손해라는 걸 모르는 걸까?
 
-	豆豆呢，是我带来的这群磐蟹里最小也最聪明的一只，将来肯定会变得特别厉害~我的小家伙们和其他的普通磐蟹不一样，它们可聪明了，才不会被人随便操控呢！
 	ぴーちゃんはね、あたしが連れてきたハガネガニの中では一番ちっちゃいけど、その分一番賢い子なんだよ。将来きっとすーごい子になると思う！他の子たちも普通のハガネガニと違ってみんな賢いから、そう簡単に操られたりなんかしないよ！
 	You see, Pea may be the smallest of the Metal Crabs I brought with me, but she's also the brightest of the bunch! She's gonna be so amazing in the future~! My little buddies are nothing like the normal Metal Crabs out there. They're so smart! They won't be controlled by anyone out there so easily!
 	콩이는 있잖아, 내가 데려온 메탈 크랩 중에서는 가장 작지만, 그만큼 가장 똑똑한 아이야. 장래에는 분명 대단한 아이가 될 거야! 다른 아이들도 평범한 메탈 크랩이랑은 달리 모두 똑똑하니까, 그렇게 쉽게 조종할 순 없을걸!
 
-	一、二、一、二，列队！防御，阻挡！......好，大家表现不错，这是奖励，吃吧吃吧~接下来换攻击动作——哇啊，博士，你什么时候来的，怎么走路都没声音的啊！
 	一、二、一、二、全たーい、整列！防御体制、ブロック！……よし、みんなよくできたね！ご褒美だよ、たくさーん食べて～。よし、じゃあ次は攻撃体制――うわっ、ドクター、いつの間に来てたの！？足音なんて全然聞こえなかったよ！
 	1, 2! 1, 2! Line up! Defense position, and block! Okay! All of you are doing amazing! Here's your reward. Eat up~! Let's switch it up now. Attac—Whoa, Doctor, how long've you been here? How come you're always so quiet when you walk?!
 	하나, 둘, 하나, 둘, 모두~ 정렬! 방어 태세, 저지하기! 좋아! 다들 잘했어! 상이야, 많이 먹어~ 좋았어, 그럼 다음은 공격 태세…… 으앗, 박사, 언제 온 거야?! 발소리도 전혀 안 들렸어!
 
-	我家老爹不太赞成我养着这些小家伙们，嫌弃它们没用，不如养驮兽能赚钱。哼，我绝对会带着小家伙们闯出点名堂，到时候老爹一定也没话可说了！博士，要考虑一下投资我吗，包赚不亏哦~
 	うちの父ちゃんは、この子たちを飼うことにあんまり賛成してくれなかったんだ。役に立たないから儲かる駄獣でも飼えってね。ふーんだ、あたしは絶対この子たちと一緒に名を上げて、父ちゃんも黙らせてやるんだから！ねぇドクター、あたしに投資なんてどうかな、儲けは保証するよ～。
 	My old man doesn't really support me raising my little pals. He says they're useless, and that I'd be better off raising burdenbeasts. Hmph, I'm show him. I'll make it big with my buddies, and we'll see if he has anything to say then! Hey, Doctor, have you ever thought of investing in me? I guarantee you you'll be raking in lots of money!
 	우리 아빠는 이 아이들을 키우는 걸 그다지 찬성하진 않았어. "도움이 안 되니까 돈이 되는 버든비스트를 키워", 이러면서 말이야. 흥이다! 나는 반드시 이 아이들과 함께 유명해져서 아빠도 아무 말도 못 하게 만들 거야! 있잖아, 박사. 나한테 투자하는 건 어때? 수익은 보증할게~
 
-	哎，回神了回神了，博士，工作时间不许开小差，要和豆豆一样做个乖孩子哦。
 	はい、集中集中ー。ドクター、仕事中はぼーっとしちゃダメだよ。ぴーちゃんみたいにいい子にしないとね。
 	Alright, focus! Doctor, you can't just space out while you're working. Take a look at what a good girl Pea is. Be more like her.
 	자, 집중해, 집중~ 박사, 일하는 중에 멍하니 있으면 안 돼. 콩이처럼 착한 아이가 되어야지.
 
-	你好，博士，我是豆苗，从今天起加入......欸，包里？啊，这个小家伙叫豌豆黄。来，豆豆，和博士打个招呼吧。
 	はじめまして、ドクター。あたしはビーンストーク、今日からここで……えっ、このケースの中身？ああ、この子はピーケーキっていうんだ。ほらぴーちゃん、ドクターに挨拶して。
 	Hello, Doctor. My name's Beanstalk. Starting today, I'll be... Eh? What's in my case? Oh, this is Peacake. Here, Pea, say hi to the Doctor.
 	반가워, 박사. 나는 빈스토크, 오늘부터 여기서… 어? 이 케이스 안에 뭐가 있냐고? 아, 이 아이는 콩떡이라고 해. 자~ 콩아, 박사한테 인사해야지.
 
-	哇哦帅欸！豆豆，看到没，要好好学习哦！
 	わぁ、かっこいいね！ぴーちゃん、今の見た？ちゃんと覚えるんだよ！
 	Aha! That was awesome! Did you see that, Pea? 
 	우와~ 멋있네! 콩아, 지금 거 봤지? 제대로 기억해야 된다?!
 
-	嘿，一定是因为上次作战时我们的表现太好，所以才给我们升职，对吧！
 	へへ、やっぱりこないだの作戦で大活躍したから、昇進させてくれたんだね！
 	Ehe, you're promoting us because of how well we did in the last operation, right?
 	헤헹~ 역시 얼마 전 작전에서 큰 활약을 해서 승진시켜 준 거지?
 
-	博士，谢谢你愿意给我还有小家伙们证明自己的机会！客套话我就不多说啦，今后豆豆它们还会变得更厉害，一定会让你吃惊的！
 	ドクター、あたしとこの子たちに自分の価値を証明するチャンスをくれてありがとう！ご挨拶はこの辺にしといて、これからもぴーちゃんたちはもっともっとスゴくなって、ドクターを驚かせてあげるよ！
 	Doctor, thanks for giving me and my buddies a chance to prove ourselves! I'll cut the formalities. We'll get even more amazing than this! You're in for a surprise!
 	박사, 나와 이 아이들에게 자기 가치를 증명할 기회를 줘서 고마워! 인사는 이쯤 해두고, 앞으로도 콩이네 아이들은 더욱 더 대단해져서 박사를 놀라게 해줄 거야!
 
-	看我们大显身手~
 	あたしたちの見せ場だ！
 	It's our time to shine~
 	우리가 활약할 차례야!
 
-	好！这次大家都听我的！
 	よし！みんな、あたしの言うことを聞いてもらうよ！
 	Alright! Everyone, do what I say!
 	좋아! 다들 내 말을 들어줘!
 
-	豆苗作战小队，出动！
 	ビーンストーク小隊、出発！
 	Team Beanstalk, here we go!
 	빈스토크 팀, 출발!
 
-	啊呀，那些家伙就是这次的敌人？
 	あれ、あの人たちが今回の敵？
 	Huh? Are these who we're up against?
 	어라, 저 사람들이 이번 적이야?
 
-	来了来了。
 	きたきた。
 	Here you are.
 	왔다, 왔어.
 
-	准备着呢~
 	準備万端だよ～。
 	All ready to go~
 	준비 완료야~!
 
-	去吧，让他们见识一下我们的实力！
 	行け！あたしたちの実力を見せてあげよう！
 	Go! Show them what we've got!
 	가자! 우리의 실력을 보여주는 거야!
 
-	上了哦！
 	行くよ！
 	Let's go!
 	간다!
 
-	嘿嘿，打不着我~
 	へへ、あたらないよー！
 	Hehe, you can't hit me~
 	헤헹~ 안 맞지롱~!
 
-	拦住他们！
 	あいつらを止めて！
 	Stop them!
 	저 녀석들을 막아!
 
-	不会让你们过去的！
 	ここは通さないよ！
 	I won't let you get past us!
 	여기는 못 지나가!
 
-	混蛋，不许欺负我的小家伙们！
 	このお馬鹿！うちの子たちをいじめないで！
 	You assholes! I won't let you hurt my buddies!
 	이 멍청아! 우리 아이들 괴롭히지 마!
 
-	哼哼，全都不是我们的对手~
 	ふふん、あんなのあたしたちの敵じゃないよ～。
 	Hehe, you guys are no match for us~
 	후훗, 저런 건 우리들의 적이 아니지~
 
-	任务完成~怎么样，我的小家伙们表现不错吧！
 	任務完了～どう、うちの子たちもよくやったでしょ！
 	Mission complete~! How's that? My buddies did great, huh?
 	임무 완료~ 어때, 우리 아이들도 되게 잘했지?
 
-	啊，有人跑了！博士你等等，我现在就去追！
 	あー、逃げた奴がいる！待っててドクター、今追いかけるから！
 	Oh, some of them got through! Wait here, Doctor. I'll go after them!
 	아! 도망간 녀석이 있어! 기다려 박사, 지금 쫓아갈 테니까!
 
-	呜，大家不哭，下次我一定帮你们揍那些混蛋！
 	うぅ、泣かないでみんな、今度は絶対あのお馬鹿たちをぶん殴ってあげるから！
 	*Sob*. It's okay, everyone. Don't cry. I'll beat those jackasses up next time!
 	으으, 다들 울지마, 다음엔 반드시 저 멍청이들을 두들겨 패 줄 테니까!
 
-	我随便住哪儿都行，培育室呢？培育室在哪里？
 	あたしの寝るとこはどこでもいいけど、飼育室は？飼育室はどこ？
 	I don't mind sleeping anywhere. Where's the breeding room, though?
 	내가 자는 곳은 어디라도 상관없지만, 사육실은? 사육실은 어디야?
 
-	干嘛，别扯我的发带呀！
 	何すんの、リボンを引っ張らないでよ！
 	Why'd you do that? Stop pulling my ribbon!
 	뭐 하는 거야, 리본 잡아당기지 마!
 
-	嗯？怎么啦，要摸摸豆豆吗？
 	ん？どうしたの、もしかしてぴーちゃんに触りたい？
 	Hm? What's up? Wanna pet Pea?
 	응? 왜 그래, 혹시 콩이를 만지고 싶은 거야?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	哟~在干嘛呢，博士？
 	やほードクター、何してるの？
 	Yo~ Whatcha doing, Doctor?
 	야호~ 박사, 뭐 하고 있어?
+
+干员档案\Background:
+	基础档案 :
+	【代号】豆苗
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】3月10日
+	【种族】瑞柏巴
+	【身高】155cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ビーンストーク
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】3月10日
+	【種族】レプロバ
+	【身長】155cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Beanstalk
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Columbia
+	[Date of Birth] Mar 10
+	[Race] Reproba
+	[Height] 155cm
+	[Infection Status]
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 빈스토크
+	[성별] 여
+	[전투 경험] 없음
+	[출신지] 컬럼비아
+	[생일] 3월 10일
+	[종족] 리프로바
+	[신장] 155cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】优良
+	【战斗技巧】普通
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】優秀
+	【戦闘技術】普通
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Excellent
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 우수
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	专业磐蟹饲养员豆苗，出生于哥伦比亚农场主家庭，向各大公司及平台投递创业企划书未果，最终经介绍前往罗德岛就职。 
+	现已通过专项测试，作为正式干员为罗德岛提供后勤与特殊侦查作战服务。
+
+	個人履歴 :
+	ハガネガニ飼育員ビーンストークは、クルビア農場主の家の生まれである。各大手会社やプラットフォームに起業企画書を送るも結果はふるわず、最終的には仲介を通じてロドスに就職することとなった。
+	現在は専門試験をクリアし、正式のオペレーターとしてロドスで後方勤務及び特殊偵察作戦で活躍している。
+
+	Profile :
+	Professional Metal Crab breeder Beanstalk was born into a family of Columbian farmers. Although she has sent a variety of proposals to large corporations and business platforms, her attempts at courting their financial support have proven largely unfruitful, and she was advised to seek employment at Rhodes Island.
+	Having passed our examinations, she has been granted official operator status, and is now providing Rhodes Island with logistics and reconnaissance services
+
+	프로필 :
+	    메탈 크랩 전문 사육사인 빈스토크는 컬럼비아 농장주 집안 출신이다. 여러 대기업과 플랫폼에 창업 기획서를 제출했으나 아무런 성과가 없어, 결국 소개를 받아 로도스 아일랜드에 취직했다.
+	    지금은 전문 테스트를 거친 정식 오퍼레이터로서 로도스 아일랜드에 후방 지원 및 특수 정찰 작전 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员豆苗没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员豆苗甚少接触源石。她和她饲养的磐蟹都非常健康。
+	
+	全员通过健康安全检测。接下来将统一发放合格徽章，请被叫到名字的磐蟹向前一步......
+	——白面鸮
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石との接触は極めて少ない。ビーンストークも、彼女が飼育するハガネガニも健康そのものである。
+	
+	健康安全検査、オールクリア。続いて合格バッジの配布を行います。名前を呼ばれたハガネガニは一歩前へ……
+	――フィリオプシス
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Beanstalk shows no signs of Originium infection.
+	
+	[Blood Originium-Crystal Density] 0.12u/L
+	Operator Beanstalk rarely comes into contact with Originium. She is exceptionally healthy, as are her Metal Crabs.
+	
+	Everyone passed their health examinations. We'll now hand out badges in commemoration of your success. Please step forward when you hear your name. That includes all Metal Crabs in attendance as well...
+	—Ptilopsis
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 빈스토크는 오리지늄에 감염된 흔적 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 빈스토크는 오리지늄 접촉 경험이 거의 없음. 그녀와 그녀가 기르는 메탈 크랩 모두 건강하다.
+	
+	    전원 건강 안전 검사를 통과했습니다. 이제 합격 메달을 지급할 테니, 호명된 메탈 크랩은 앞으로 한 발자국 나와주시기 바랍니다……
+	——프틸롭시스
+
+———————————————————————————————
+
+	档案资料一 :
+	在第一天来罗德岛报道时，豆苗的登场给当时在场的许多干员都留下了深刻的印象。
+	那是个晴朗得有些过分的艳阳天，独自开着一辆大型货车的瑞柏巴女孩轻快地跳出驾驶室，然后她打开后面货仓的门，吹了一声口哨——那些生着螯足的小家伙们就排着队，摇头晃脑地一个接一个从车上跳下来。
+	豆苗声称自己是专业的饲养员，不论是她提供的证书，还是她令人印象深刻的表现都证明这是一个事实。
+
+	第一資料 :
+	ロドス入職初日、ビーンストークの登場はその場にいた多くのオペレーターに色濃い印象を与えた。
+	あれは晴れ渡り、強烈な日差しが大地を照らす日だった。大型運送車の運転席から一人のレプロバの女の子が軽やかに飛び降りた。彼女はそのまま車の後部に回って荷台のドアを開き、口笛をひと吹きすると――ハサミが生えた子たちが、ぞろぞろと飛び降りてきたのだった。
+	彼女のこうした振る舞いや提出した証明書から、ビーンストークが自らを指してプロの飼育員だというのは、正しい事実であると伺える。
+
+	Archive File 1 :
+	Beanstalk made quite a scene on the day she reported to duty.
+	It was a blazing sunny day, and a Reproba girl drove a large truck right into the garage. She got off, opened the trunk on the back, and whistled. Then, her retinue of cheliped buddies all joyfully hopped off the truck one by one.
+	Beanstalk claims to be a professional breeder, and both the certificate she provided and this unforgettable sight have more than proven she is exactly who she says she is.
+
+	파일 자료 1 :
+	    빈스토크가 로도스 아일랜드에 도착한 첫날, 그녀의 등장은 당시 현장에 있던 많은 오퍼레이터들에게 깊은 인상을 남겼다.
+	    조금 지나치다 싶을 정도로 화창한 날이었다. 혼자서 대형 화물차를 몰고 온 리프로바 소녀는 경쾌하게 운전석에서 뛰어내리고는 화물칸 문을 열어젖혔다. 그리고 휘파람을 불어 집게 발이 달린 꼬맹이들을 줄지어 세우곤, 고개를 까딱거리며 하나하나 차에서 내리게 했다.
+	    빈스토크는 자기가 메탈 크랩 전문 사육사라 주장했는데, 그녀가 제출한 증서와 직접 보여준 인상적인 모습이 이를 증명했다.
+
+———————————————————————————————
+
+	档案资料二 :
+	每一只由豆苗带来的磐蟹都拥有属于自己的名字，尽管真正能区分它们的只有它们的饲养者，但随着磐蟹们在后勤系统中的活动扩大，许多干员开始积极尝试挑战识别这些小家伙。
+	豆苗对她的每一个“小宝贝”都如数家珍，阿盘、扭扭、大力士、锤头、小冰......还有整群磐蟹中年龄最小，时常被随身带在小箱子里的豆豆，饲养人总能精准地认出它们，并对每只磐蟹不同的性格及喜好了若指掌。每天，豆苗都会花费大量时间呆在饲养栏内，亲手调制富含充足营养的饲料，并兴致高昂地训练磐蟹们一些新的小技巧。
+	这些磐蟹经过长期的驯养，性格更加温和机敏，与它们那些生活在野外的亲属已经有了明显的区别。
+
+	第二資料 :
+	ビーンストークが連れてきたハガネガニにはそれぞれ名前がついている。完全に彼らを識別できているのは、今のところ飼育者本人だけなのだが、後方支援システムでのハガネガニたちの活動範囲の拡大につれて、多くのオペレーターが積極的に彼らを見分けようとするようになった。
+	ビーンストークは彼女の大切な「子たち」一匹一匹に愛情を注いでいる。トレイ、ツイスタ、ストロング、ハンマーにアイス……そしてハガネガニたちの中でも最も幼く、いつもビーンストークがカゴに入れて連れ歩いている「ピーケーキ」ことぴーちゃん。飼育者はそんな彼らをはっきりと識別でき、それぞれの性格や好みもばっちり把握している。彼女は毎日多くの時間を飼育コーナーで過ごし、手ずからに栄養満点の餌を調合し、ハガネガニたちに新しい芸を覚えさせようと楽しく訓練している。
+	長期間にわたる飼育の結果、ハガネガニたちの性格はより大人しく、より機敏になり、野生のまま暮らしている同類たちとは明らかな違いを見せている。
+
+	Archive File 2 :
+	Each and every one of the Metal Crabs Beanstalk brought with her has its own name. Although only the breeder can truly tell them apart, as the Metal Crabs have become an inseparable part of our Logistics network, many of our operators made it a personal challenge to learn how to tell these little critters apart.
+	Beanstalk treats every one of her Metal Crabs as though they are family. Their names are Trey, Twista, B.I.G., Hammer, Ice Cube... and the youngest of the crabs, Peacake, who she keeps in a case she always carries around with her. As their breeder, not only is she able to tell them apart, she also knows the crabs' personalities and preferences. Every day, Beanstalk spends a large amount of time in their pen, preparing their nutritious fodder by hand as well as teaching them new tricks.
+	Having been tamed and domesticated, the Metal Crabs have become much gentler and more alert. The difference between them and their wild counterparts is night and day.
+
+	파일 자료 2 :
+	    메탈 크랩들을 정확히 구분해낼 수 있는 건 사육사뿐인데도, 빈스토크가 데려온 메탈 크랩들은 각자 자신의 이름을 갖고 있다. 그래서인지 후방 지원 체계에서 메탈 크랩의 활동이 확대됨에 따라 많은 오퍼레이터들이 그 꼬맹이들을 구분하는데 적극적으로 도전하기 시작했다.
+	    빈스토크는 그녀의 모든 '애기들'을 손금 보듯 훤히 꿰고 있다. 판판, 꼬불이, 힘찬이, 망치, 얼음이…… 그리고 항상 가지고 다니는 상자에 들어있는, 무리에서 가장 어린 콩이까지…… 사육사는 언제나 메탈 크랩들을 정확히 알아보며, 심지어 그들의 서로 다른 성격과 취향도 파악하고 있다. 매일 빈스토크는 긴 시간을 할애해 메탈 크랩들을 사육장에 몰아넣고, 직접 영양이 풍부한 사료를 배합하며, 즐겁게 새로운 기술을 훈련시킨다.
+	    오랜 기간 길들인 이 메탈 크랩들은 성격이 보다 온화하고 날렵하며, 야생에서 살아가는 동족들과는 명확히 구분된다.
+
+———————————————————————————————
+
+	档案资料三 :
+	据豆苗本人说，在前来罗德岛就职之前，她对于磐蟹们的培育整体是偏向后勤方向的。
+	这个选择和磐蟹本身的特质有关。这种生物的外壳坚硬，自身具有足够的力量，在承重方面有很好的表现；同时，它们的身体密度却较低，体重往往远比他们看起来的要轻，能够敏捷地完成许多指令。
+	结合这样的特质，豆苗认为磐蟹们在开采、运输，及一些特殊的救援勘探领域将会有不错的表现。而事实也同她的猜测相去不远，在针对磐蟹们进行了特殊制定的测试之后，罗德岛给出了一份内容详实的评估报告。除去已经由饲养人本身预测到的优势外，这份评估报告还指出，在侦查与先锋战斗领域，这些小动物也有着足够的潜力。
+	在拿到这份报告之后，精明能干的饲养人迅速行动起来，一周后，一份重新规划未来合作的崭新企划书就新鲜出炉，躺在了博士的办公桌上。在这份规划中，磐蟹们的饲养者放弃了一贯的小心思，着重强调了她决不会让步的一个条件——她将会和她的小家伙们一起执行先锋任务，亲自对磐蟹们下达指令，并且有权在判断情况危急时指挥磐蟹撤退。
+	相比起这一条，经费薪水等她平时在意的问题，反而没有那么重要了。
+
+	第三資料 :
+	ビーンストーク本人によれば、ロドスに就職するまで、全体的に後方支援寄りの飼育方針をとっていたという。
+	理由はハガネガニの生物的特徴にあった。ハガネガニは外殻が硬く、パワーもあり、対荷重の面でも優れている。その一方で、体の構成密度は低く、見た目よりはるかに軽い場合も多く、命令の遂行速度が非常に速い。
+	こうした特徴から、ビーンストークはハガネガニが採掘や運送、そして一部の特殊救援探索といった領域で活躍できるだろうと判断していた。事実、彼女の予想通り、ハガネガニたちに特別なテストを行ったロドスが出した報告書では、この生き物たちは彼女の判断した領域の他に、偵察や先鋒戦闘などの場面においても十分な潜在能力を有していることが指摘された。
+	有能な飼育員は、この報告書が届くやいなや、すぐさま動き出した。わずか一週間後には、ハリガネガニたちの将来計画を見直した新企画書ができあがり、ドクターの執務室の机に置かれた。この企画書で、ハガネガニたちの飼育員はこれまで持っていたせせこましいこだわりをかなぐり捨てて、ただ一つだけ絶対に譲歩しないという条件を明らかにした――ハガネガニたちはビーンストークの指揮のもと彼女と共に先鋒任務に当たり、状況が危うくなったと判断した時には彼女がハガネガニを即座撤退させる権限を持つというものである。
+	この条件と比べれば、経費や給料など本来なら重要な問題も、彼女にとっては些事でしかなくなったのである。
+
+	Archive File 3 :
+	According to Beanstalk herself, even before she came to Rhodes Island, she had already been raising her Metal Crabs to handle logistical work.
+	This decision has to do with the unique characteristics of Metal Crabs. Their shells are hard, they have considerable strength, and the weight they can carry is substantial. At the same time, their body density is low, making them much lighter than they seem and allowing them to complete most of their tasks with relative haste.
+	With such qualities, Beanstalk thought the Metal Crabs would be well-suited to tasks such as mining, transportation, and certain special rescue or prospecting tasks. Her hunch wasn't far off, either. Rhodes Island conducted several tests specifically formulated for the crabs and subsequently issued a detailed evaluation report. Aside from the advantages their breeder previously postulated, the report also pointed out that the animals have potential in areas such as reconnaissance and frontline combat.
+	After reading the report, the astute breeder immediately went to work and started writing away. Then, after just a week, she had a new proposal for the Doctor about their future collaboration waiting on the desk. In the proposal, the Metal Crab breeder got straight to the point and simply emphasized her one condition: She would go on vanguard missions with her crabs, she would be the only one allowed to give them orders, and she would have the authority to order them to retreat if she deemed the situation too dangerous.
+	She was unwilling to compromise on this demand, and funding was of no concern to her as long as this was met.
+
+	파일 자료 3 :
+	    빈스토크가 말하길, 로도스 아일랜드에 취직을 하기 전에는 후방 지원에 초점을 두고 메탈 크랩을 교육을 시켰다고 했다.
+	    이러한 선택은 메탈 크랩 자체의 특성에 따른 것이다. 이 생물은 단단한 겉껍질과 충분한 힘을 갖고 있어 무게를 견디는데 유리하면서도, 그에 반해 신체 밀도는 낮은 편이라 외관에 비해 가벼운 체중을 갖고 있어서 민첩하게 명령을 수행할 수 있다.
+	    빈스토크는 이러한 특성들을 접목시키면 메탈 크랩이 채굴과 운송 및 특수한 구조와 탐사 영역에서 멋진 활약을 보일 것이라 생각했다. 실제로도 그녀의 추측과 별반 다르지 않아, 로도스 아일랜드는 메탈 크랩들을 대상으로 특수한 테스트를 시행한 후 이에 대한 상세한 내용의 평가 보고서를 내놓았다. 그 평가 보고서에는 메탈 크랩의 사육사가 예측한 장점 말고도 정찰 및 선봉 전투 영역에서 이 작은 동물들이 그들의 잠재력을 충분히 발휘할 수 있을 것이라 적혀있다.
+	    해당 보고서를 받은 후, 이 노련하고 유능한 사육사는 신속히 행동으로 옮겨, 일주일 후 향후 어떻게 협력할지를 계획한 참신한 기획서를 박사의 책상 위에 놔두었다. 그 기획서의 내용은 그렇게 세세한 부분까지 적혀 있진 않았지만, 메탈 크랩 사육사로서 절대 양보할 수 없는 조건이 거듭 강조되어 있었다. 그건 바로 '빈스토크는 그녀의 꼬맹이들과 함께 선봉 임무를 수행하며, 빈스토크가 직접 메탈 크랩에게 명령을 내리고, 위급하다 판단될 경우 철수를 지휘할 수 있는 권한이 있다'는 것이었다. 이에 반해, 경비나 봉급 등 그녀가 평소에 신경 쓰던 문제는 해당 기획서에 그다지 강조되지 않았었다.
+
+———————————————————————————————
+
+	档案资料四 :
+	哥伦比亚农场上长大的女孩开朗、活泼，外向的性格和有分寸的热情很快就令磐蟹饲养人结识了不少新朋友，其中也不乏香草之类前来讨教饲养经验的干员。少见的同道中人无疑令人欣喜，也让豆苗对自己的事业更怀信心，催生了她新的商业灵感。据传其最近开始盘算注册发售一种被命名为“豆苗牌精致宠物粮”的商品......我们祝福她可以成功。
+	事实上，豆苗身为农场主的父亲并不支持女儿的“创业计划”，或者说，是不支持女儿饲养磐蟹这类在老一辈人看来古里古怪，没什么有价值的产出物的生物。这让豆苗感到相当苦恼，她并不排斥继承家业，但她坚持认为对磐蟹的饲育是有意义，有价值的。
+	这种坚持并非仅仅因为她曾在荒原上遇险时阴差阳错被一小群野生磐蟹所救，更因为她在这些小东西身上，看到了绝大的潜力，她真心相信自己现在的努力，在未来能够获得人们的认同。怀揣着这样的理想，豆苗在和家人争执后选择外出闯荡，期待能够有一天出人头地，得到来自亲人的肯定。
+	独自离家创业的日子并不好过，屡次碰壁并未削减豆苗的热情，反而让她越挫越勇，越发充满干劲。
+
+	第四資料 :
+	クルビア農場育ちの少女の明るく、外向的でありながら押し付けがましくない性格は、すぐに彼女に多くの新しい友人を引き寄せた。中にはバニラのように彼女の腕を見込んで飼育法の教えを請う者も少なからずいた。こうした同好の士の存在はビーンストークに喜びだけでなく、、自らの事業への自信をも与えて、新たなビジネスアイディアのヒントとなった。噂によれば、彼女は近頃「ビーンストーク高級ペット飼料」なるものを開発、登録販売しようと計画しているらしい……彼女の健闘を祈ろう。
+	実を言うと、農場主である彼女の父親は娘の「起業計画」にあまりいい顔をしていない。もっと言えば、娘がハガネガニなどという彼の世代からすればヘンテコな、価値を生み出しもしなさそうな生物を飼育することに対して、いい顔をしていないのだ。父の態度はビーンストークを大いに悩ませた。彼女は家業が嫌いなわけではなく、農場を継ぐことも視野に入れていた。ただ同時に、ハガネガニの飼育には意義も価値もあるという主張を貫いているのだ。
+	彼女が主張を堅持するのは、単にかつて荒野で偶然野生のハガネガニの群れに助けられたからだけではなく、この小さな生き物たちの中に、底知れない潜在能力を見出したからでもある。ビーンストークは心の底から、今の自分の努力が将来人々に認められると信じているのだ。家族と衝突した後、彼女はそんな理想を抱いて、外の世界に挑むことを選んだ。いつの日か成功して、家族に認めてもらうために。
+	一人故郷を離れて起業することは決して容易ではない。様々な困難にぶつかりながらも、ビーンストークの情熱は衰えることを知らず、逆境の中で一層燃え上がり、やる気に満ち溢れているのである。
+
+	Archive File 4 :
+	Thanks to her cheerful, lively, and outgoing personality yet never-overboard enthusiasm, the Columbian farm girl became fast friends with much of Rhodes Island's personnel, including operators such as Vanilla, who came to her for breeding advice. Meeting a fellow breeder is no doubt exciting, especially in such a niche field, and this has both helped Beanstalk become more confident in her career and inspired new business ideas. Supposedly, she has started planning a new product called 'Beanstalk's Fine Pet Food...' I wish her good luck from the bottom of my heart.
+	As a farmland owner, Beanstalk's father is actually not very supportive of his daughter's entrepreneurial endeavors, or more specifically, he does not support his daughter's choice of breeding animal, Metal Crabs, as they are seen as peculiar and incapable of producing anything valuable to the older generation. This weighs rather heavily on Beanstalk. She has no qualms with taking over the family business, but she insists that breeding Metal Crabs is a worthwhile undertaking that will bear fruit.
+	She insists as such not just because she was once rescued by a small cast of wild Metal Crabs when she found herself in an accident out in the wilderness, but also because she saw a huge potential in these little critters. She truly believes that her hard work now will earn her everyone's respect in the future. Beanstalk had an argument with her family over this belief and chose to leave home, hoping to one day make a name for herself and be acknowledged by her family.
+	Although life has been difficult ever since, Beanstalk has never found herself dismayed by the difficulties she faced. On the contrary, it has only ever fueled her passion and enthusiasm.
+
+	파일 자료 4 :
+	    컬럼비아 농장에서 자란 이 소녀는 본인의 밝고 쾌활하며 외향적인 성격과 열정 가득한 태도로 인해 새로운 친구들을 많이 사귈 수 있었다. 그리고 그중에는 바닐라처럼 사육에 대해 배우러 온 오퍼레이터들도 적지 않았다. 보기 드문 동업자들의 존재는 빈스토크를 단연 기쁘게 해주었고, 그녀의 사업에 더 큰 자신감을 심어주었으며, 새로운 사업적 영감을 떠오르게 했다. 들리는 바에 의하면 최근 빈스토크는 '빈스토크표 프리미엄 애완동물 사료'라는 상품을 판매 등록했다는데…… 그녀가 성공할 수 있길 바란다.
+	    사실 농장주인 빈스토크의 아버지는 딸의 '창업 계획'을 지지하지 않았는데, 어쩌면 나이 든 사람이 보기에 메탈 크랩의 사육은 꽤나 괴상하고 무가치한 일이라 생각해서일지도 모르겠다. 이 때문에 빈스토크는 심각히 고민했으며, 그녀는 가업을 잇는 것을 거부하지는 않지만, 여전히 메탈 크랩 사육은 의미 있고 가치 있는 일이라 생각하고 있다.
+	    빈스토크의 이러한 고집은 단순히 그녀가 황야에서 위험에 처했을 때 우연히 야생 메탈 크랩 무리에게 도움을 받았기 때문이 아니다. 그보다 근본적으로 그녀가 이 작은 동물들에게서 굉장한 잠재력을 보았고, 지금 자신의 노력이 훗날 분명 사람들의 인정을 받을 수 있으리라 진심으로 믿기 때문이다. 이런 꿈을 품은 빈스토크는 가족들과 다투곤 집을 나왔지만, 언젠가는 출세해서 가족들의 인정을 받을 수 있길 바라고 있다.
+	    홀로 집을 떠나 사업을 하는 생활은 물론 힘들지만, 빈스토크의 열정은 여러 번 벽에 부딪혀도 사그라들지 않았고, 그녀는 오히려 좌절할수록 용감해지며 더욱 의욕을 북돋고 있다.
+
+———————————————————————————————
+
+	晋升资料 :
+	接触感染者对于豆苗来说并不是什么太让人不能接受的事，在被介绍来到罗德岛后，她没有犹豫多久就接受了罗德岛内感染者众多的现状，挥手签下了雇佣协议。
+	作为泰拉大陆上最年轻的国家，发展迅速的哥伦比亚生气勃勃，并且富有野心。每年都有大量的年轻人怀揣着梦想闯入哥伦比亚的城市，在这里追求财富和地位，同时也有大量感染者在宣扬公平的口号下聚集在这里，期望能够通过拓荒有所收获，得到相应的生存空间，得到人们的平视，甚至是带有前提条件的一丁点尊重。
+	豆苗就是无数在哥伦比亚寻求机会的年轻人之一，她对于感染者并不陌生，罗德岛这个可能会令许多人退缩的工作环境，豆苗其实并不那么在意。她深知追求梦想的路并不好走，有多少满怀热情的追梦人涌入哥伦比亚，就有多少失败放弃者灰溜溜地离开。磐蟹饲养人相信自己拥有实力又足够努力，能做得足够好，但屡投不中也让她不得不承认，任何成功都需要一点点运气相助。
+	面对罗德岛提供的机会，年轻人意识到，自己的运气或许已经来了。
+
+	昇進資料 :
+	感染者との接触は、ビーンストークにとって拒否反応が出るようなものではない。彼女は紹介を受けてロドスに到着してすぐに、さして戸惑いもなくロドスに感染者が多数在籍しているという現状を受け入れ、雇用契約にサインした。
+	テラの大地で最も若い国として、急速な発展を遂げているクルビアは活気に満ち溢れ、かつ野望にも溢れている。毎年、多くの若者が夢を抱いてクルビアの都市に訪れ、富と地位を求める。同時に、多くの感染者もこの地の公平を謳うスローガンのもとに集まり、開拓を通じて、生存するための居場所と、人々の偏見のない対応と、果てはちょっぴり前提条件付きの尊重を得ることを夢見ている。
+	ビーンストークはそんな無数のクルビアに機会を求める若者の一人である。感染者という存在は彼女にとってそれほど遠い存在でもなく、ロドスという多くの人が二の足を踏むであろう仕事環境に対しても、さほど気にしてはいない。夢を追い求める道は決して容易ではなく、クルビアになだれ込む情熱を抱いた夢追い人と同じ数だけ、敗北者たちが尻尾を巻いて逃げ出していくことも、ビーストークはよく知っていた。ハガネガニの飼育者は、自らが十分な実力を持ち、惜しみなく努力しているからきっと成功するであろうと信じていた。それでも立て続けての失敗で、彼女は認めざるを得なかった。いかなる成功にもほんの少しだけ「運」が必要であると。
+	ロドスがもたらしてくれた機会を前にして、この若者は思い至ったのだ。もしかしたら、これこそが自分に振り向いた「運」なのかもしれないと。
+
+	Promotion File :
+	Beanstalk never felt very apprehensive about having to interact with the Infected. When she first arrived, she didn't hesitate for long before she came to terms with Rhodes Island's sizable Infected population and signed her employee contract.
+	As the youngest country in Terra, Columbia is rapidly expanding and full of ambition. Each year, with nothing but their dreams, droves of young men come to its cities in seek of fame and fortune. At the same time, charmed by its slogans of equality and freedom, a great number of Infected gather at its doorsteps in hopes of reaping the rewards of the plentiful work available to them as explorers; earning a suitable amount of living space; and earning the equal treatment, perhaps even a tiny bit of respect, from the general populace.
+	Beanstalk was one such young woman born in Columbia, hungry for opportunity, so she was by no means unfamiliar with the Infected. She wasn't very bothered by the work environment here either, daunting as it may be. She understands that it isn't easy to chase after your dreams, and in a place like Columbia, there are just as many passionate dream chasers who pour into its cities as there are unsuccessful washouts who leave the cities behind. The Metal Crab breeder thought she had both what it takes and the dedication to make it, but her failures have forced her to admit that all successes also need that tiny bit of luck.
+	Now that Rhodes Island has finally given her a chance, the young lady has come to realize that, just perhaps, her luck has finally arrived.
+
+	승진 자료 :
+	    빈스토크에게 감염자와 접촉하는 일은 용납할 수 없는 문제 따위가 아니었다. 소개받은 로도스 아일랜드에 도착한 후, 빈스토크는 로도스 아일랜드의 현 상황을 보고도 망설임 없이 고용 계약서에 서명했다.
+	    테라에서 가장 젊은 국가로서 빠르게 발전 중인 컬럼비아는 생기와 야망이 넘치는 곳이다. 매년 많은 젊은이들이 꿈을 품고 컬럼비아의 도시로 진출해 부와 지위를 좇는다. 또한 많은 감염자들 역시 공정한 구호 아래 이곳에 모여들고 있는데, 이들은 황무지를 개간함으로써 그에 상응하는 생존 공간과 사람들의 평등한 시선, 거기에 일정한 전제 조건 하에서는 약간의 존중도 받을 수 있길 기대하고 있다.
+	    컬럼비아에서 기회를 찾는 무수한 젊은이들 중 한 명인 빈스토크는 감염자에 익숙하고, 많은 사람들을 움츠리게 하는 로도스 아일랜드의 근무환경에 별로 신경 쓰지 않는다. 그녀는 꿈을 좇는 길이 결코 쉽지 않다는 것과 그 꿈을 좇아 컬럼비아에 온 열정 가득한 사람들이 많은 만큼 실패와 포기를 맛볼 사람들도 많다는 것을 잘 알고 있다. 이 메탈 크랩 사육사는 스스로 실력 있고 성실히 노력하기에 잘 해낼 수 있을 거라 믿었지만, 연이은 실패를 겪은 후엔 그 어떤 성공이든 약간의 운이 따라줘야 한다는 사실을 인정할 수밖에 없었다.
+	    로도스 아일랜드가 제공한 기회를 마주한 이 젊은이는, 드디어 자신에게 행운이 찾아왔다는 것을 깨달았다.

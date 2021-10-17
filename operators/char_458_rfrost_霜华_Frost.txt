@@ -1,11 +1,17 @@
 ID:
 	char_458_rfrost
 
-干员代号\Name:
+CV:
 	霜华
 	Frost
 	Frost
 	Frost
+
+干员代号\Name:
+	Julie Tamiko Manning
+	Julie Tamiko Manning
+	Julie Tamiko Manning
+	Julie Tamiko Manning
 
 招聘合同\Character Usage:
 	彩虹小队成员霜华，迎宾踏垫已部署。
@@ -17,13 +23,13 @@ ID:
 	贴心的猎人总会为误打误撞的客人想好一切。
 	思いやりのあるハンターは、礼儀知らずの客人へのおもてなしをいつも欠かさない。
 	This congenial hunter always has things planned out even for the most haphazard of guests.
-	친절한 사냥꾼 프로스트는 불청객이 들이닥치더라도 언제든 맞이할 수 있도록 계획을 세워둡니다.
+	친절한 사냥꾼 Frost는 불청객이 들이닥치더라도 언제든 맞이할 수 있도록 계획을 세워둡니다.
 
 信物\Potential Item:
 	一套手工制作的野外求生工具。生存需要技巧而非蛮力，这就是她想要告诉你的。
 	手作りのサバイバルツール。生き残るために必要なのはテクニックであり蛮力ではない。これこそ彼女が伝えたいこと。
 	 A set of handmade survival tools. She wants to convey to you that survival is a matter of skill, not brute force.
-	손수 만든 생존 도구 세트. 프로스트는 생존은 단순한 무력이 아니라 기술에 달려있다는 점을 전하고 싶어 합니다.
+	손수 만든 생존 도구 세트. Frost는 생존은 단순한 무력이 아니라 기술에 달려있다는 점을 전하고 싶어 합니다.
 
 天赋\Talents:
 	迎宾踏垫
@@ -43,177 +49,399 @@ ID:
 	사냥감 무력화
 
 语音\Voices:
-	这是日程表，还有周报、开支表、议程表等待审阅......您想先看哪份？
 	スケジュール表に週間報告、支出表、議事録、どれもチェックが必要なものよ……どれから見る？
 	Here's the schedule. You'll also need to review the weekly reports, expense records, and meeting agendas. Which do you want to do first?
 	오늘 일정입니다. 여기에 주간 보고서, 경비 기록 및 회의 안건도 검토해야 하죠. 뭐부터 시작하겠습니까?
 
-	通力合作，我们必将披荆斩棘。
 	協力し合うことで、いばらの道を切り開くことができる。
 	We'll overcome any obstacle as long as we work together.
 	함께하면 그 어떤 장애물도 극복할 수 있습니다.
 
-	不介意我整理一下书架吧，长官。
 	上官、棚の整理をしてもいいでしょ？
 	Excuse me, sir, but do you mind if I tidy up the bookshelf?
 	죄송합니다만, 책장 좀 정리해도 되겠습니까?
 
-	人表现出的行为有时和野兽并无区别，了解这份相似性，能够令我更好的履行职责。
 	人の行動は時に野獣と大差ない。この類似性を理解すれば、より適切に職務を全うすることができる。
 	Sometimes humans behave exactly like wild animals. Understanding this makes me a more efficient operator.
 	인간도 야생 동물처럼 행동할 때가 있죠. 이 점을 이해하는 것이 저를 더 뛰어난 오퍼레이터로 만들었죠.
 
-	为了欣赏值得观看的东西，我们总要远离城市，这就是我经常远行的原因。
 	鑑賞に値するものを見るためには、街から遠く離れなければならない。これが私が遠い所へ行く理由。
 	To see the really interesting things, you have to get out of the city. That's why I'm always so far away.
 	정말 재밌는 걸 보고 싶다면 도시 밖으로 나가야 하죠. 그래서 제가 매번 멀리 나가는 겁니다.
 
-	放置迎宾踏垫只是第一步，如何把猎物引向踏垫才是值得考虑的事。
 	ウェルカムマットを置くことは第一歩にすぎない。いかにして獲物をマットにおびき寄せるかが本当に考慮すべきこと。
 	Putting out the Welcome Mat is the first step. Luring the prey takes a bit more doing.
 	전술 함정을 설치하는 게 첫 번째 단계입니다. 사냥감을 유인하는 건 노력이 좀 더 필요하고요.
 
-	不不不，这样不对，我再思考一下......
 	違う違う、こんなの間違ってる。もう少し考えさせて……。
 	No, no. This is all wrong. Let me reconsider for a bit.
 	아니, 이건 아닙니다. 잠깐만 다시 생각해 보겠습니다.
 
-	有什么我能帮忙的吗？
 	力になれることはある？
 	Is there anything I can help with?
 	제가 도울 일 없습니까?
 
-	只有自然和战场才能决定谁是猎人，谁是猎物。
 	誰が狩る者で狩られる者か、それは自然と戦場だけが決められる。
 	Who's the hunter? Who's the hunted? That's up to Mother Nature and the battlefield in question.
 	과연 누가 사냥꾼이고 누가 사냥감일지는, 대자연과 그 전장이 판가름해 주겠죠.
 
-	只要在这里拉根细绳，还有一个迎宾踏垫......
 	ここでヒモを引きさえすれば、それにウェルカムマットもある……。
 	Simply pull this string and there's the Welcome Mat...
 	이걸 당기기만 하면 저쪽에 전술 함정이……
 
-	彩虹小队所属，代号霜华，请下命令吧，长官。
 	レインボー小隊所属、コードネームはFrost。命令を、上官。
 	RAINBOW Operator, codename Frost. At your service, sir.
 	레인보우 팀 오퍼레이터, 코드네임 Frost. 뭐든지 말만 하십시오.
 
-	我有个好点子。
 	良い考えがあるの。
 	I've got a good idea.
 	좋은 생각이 있습니다.
 
-	感谢您的信任，长官。
 	あなたの信頼に感謝する、上官。
 	Thank you for your trust, sir.
 	믿어주셔서 감사합니다, 박사님.
 
-	在生死攸关之际，我们最迫切渴求的东西莫过于两样：水源，以及希望。
 	生死が懸かった状況で人体に必要なものは2つ。水と希望よ。
 	There are two things we absolutely need in a survival situation: water and hope.
 	생존 상황에 처한 사람 몸에 필요한 건 두 가지입니다. 하나는 물이고, 나머지 하나는 희망이죠.
 
-	让我们一起合作。
 	連携しましょう。
 	Let's work together.
 	함께 일해보도록 하지.
 
-	别忘了，我们是一个有计划的团队。
 	忘れないで、私たちチームには計画があることを。
 	Don't forget, we're a team and we have a plan.
 	잊지 마라. 우리는 하나의 계획을 가지고 움직이는 하나의 팀이다.
 
-	是时候看看这些计划的效果了。
 	計画の効果を確かめる時ね。
 	Time for all the planning to pay off.
 	모든 계획 과정이 빛을 발할 시간이다.
 
-	我看到敌方了。
 	敵発見。
 	I've got eyes on the hostiles.
 	적을 발견했다.
 
-	我们准备好迎接客人了。
 	客を迎える準備はできた。
 	We're ready for company.
 	손님을 맞이할 준비를 마쳤다.
 
-	设置封阻物。
 	バリケード設置。
 	Setting barricade.
 	바리케이드 설치.
 
-	别让他们偷袭你。
 	奴らに襲撃させないで。
 	Don't let them get the drop on you.
 	놈들에게 허를 찔리지 마.
 
-	保持警戒。
 	警戒を怠らないで。
 	Stay alert.
 	정신 바짝 차려.
 
-	摆放迎宾踏垫中。
 	ウェルカムマットを設置中。
 	Laying out the Welcome Mat.
 	전술 함정 배치.
 
-	安装中。
 	セット中。
 	Setting up.
 	설치.
 
-	迎宾踏垫已设置。
 	ウェルカムマットを設置した。
 	Welcome Mat set.
 	전술 함정 설치.
 
-	部署完毕。
 	設置完了。
 	Deployed.
 	설치 완료.
 
-	无时无刻要有比敌人更万全的准备。
 	常に敵よりも万全な準備をしなければならない。
 	Stay two steps ahead of the enemy at all times.
 	언제나 적보다 두 걸음 앞서 행동하라.
 
-	永远记得未雨绸缪。
 	常に先を読むの。
 	Always think ahead.
 	언제나 앞서 생각하라.
 
-	注意周边警戒。
 	周囲を警戒して。
 	Maintain a perimeter.
 	지역을 계속 확보해.
 
-	正在救援，友军受伤。
 	救助中、味方が負傷。
 	Administering aid. Friendly injured.
 	아군이 다쳤다. 응급처치 실시.
 
-	不是那么坏。
 	そこまで悪くない。
 	This isn't so bad.
 	나쁘지 않은데.
 
-	嘿，小心点！
 	ねぇ、気を付けて！
 	Hey! Be careful!
 	저기요! 조심하세요!
 
-	来，加入我们的狩猎。
 	ほら、私たちの狩りに付き合って。
 	Come along, join our hunt.
 	자, 같이 사냥 가시죠.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	想生个火吗？
 	たき火でもする？
 	Would you like a bonfire?
 	모닥불이라도 피우고 싶으신가요?
+
+干员档案\Background:
+	基础档案 :
+	【代号】霜华
+	【性别】女
+	【战斗经验】未知
+	【出身地】未知
+	【生日】5月4日
+	【种族】未知
+	【身高】172cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】Frost
+	【性別】女性
+	【戦闘経験】不明
+	【出身地】不明
+	【誕生日】5月4日
+	【種族】不明
+	【身長】172cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Frost
+	[Gender] Female
+	[Combat Experience] Unknown
+	[Place of Birth] Unknown
+	[Date of Birth] May 4
+	[Race] Unknown
+	[Height] 172 cm
+	[Infection Status]
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] Frost
+	[성별] 여
+	[전투 경험] 알 수 없음
+	[출신지] 알 수 없음
+	[생일] 5월 4일
+	[종족] 알 수 없음
+	[신장] 172cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】优良
+	【战斗技巧】优良
+	【源石技艺适应性】■■
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】■■
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Excellent
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] ■■
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성]■■
+
+———————————————————————————————
+
+	客观履历 :
+	霜华是彩虹小队成员之一，坚定、专注、充满活力，擅长在野外环境作战。
+	除了自身携带的枪械外，霜华携带了SterlingMK2机械夹板“迎宾踏垫”，通过精妙布设，对敌方造成阻碍，为整个小队提供战术支持。
+
+	個人履歴 :
+	レインボー小隊の一人。動揺せず、集中力があり、エネルギーにあふれる。野外環境での戦いに長けている。
+	自身が携帯している銃器以外に、スターリングMk2 LHT（別名「ウェルカムマット」）も所持しており、それを巧妙に配置することで敵を妨害し、小隊をサポートする。
+
+	Profile :
+	One of the members of Team Rainbow, Frost is a firm, focused and energetic individual adept at combat in outdoor environments.
+	She mainly uses modified mechanical traps named 'Welcome Mats.' Through strategic placement, they can obstruct the enemy and provide tactical support to the entire team.
+
+	프로필 :
+	    Frost는 레인보우 팀의 일원으로, 의지가 확고하고 집중력이 높으며 활력이 충만해 야외 작전에 능숙하다.
+	    Frost는 소지하고 있는 총기 외에도, 스털링 MK2 '전술 함정'을 사용하여, 교묘한 위치에 설치해 적의 움직임을 봉쇄함으로써 팀에 전술적 지원을 제공한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	霜华没有被源石感染的迹象。
+	
+	【血液源石结晶密度】未公开
+	根据医疗部决议，不公开相关数据。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】非公開
+	医療部の決定により、関連データは非公開とする。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Frost shows no sign of Originium infection.
+	
+	[Blood Originium-Crystal Density] Undisclosed
+	Relevant data will not be disclosed due to the Medical Department's agreement.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	Frost는 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 미공개
+	의료부의 의견에 따라, 관련 데이터는 공개되지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员蒂娜，代号霜华，彩虹小队成员。“瞭望塔33号”事件的亲历者之一，在事件结束后登记在罗德岛合作人员的名单里。
+	彩虹小队的成员都不太提及他们过去的经历，对此我们也不会提出意见，毕竟我们的合作方有权保留他们的内部信息。
+	与彩虹小队的其他成员一样，干员霜华有着非常优秀的综合战斗经验，在团队配合等各个领域都有远超一般干员的能力。依据人事部提交的报告，干员霜华似乎参与过多种户外救援任务，是一位优秀的野外求生专家。
+	但是需要注意，彩虹小队的成员与我们只是暂时合作，并不是罗德岛的正式职工，他们还有很多需要忙碌的事情，请不要过分依赖他们的力量。
+
+	第一資料 :
+	ティナ、コードネームはFrost、レインボー小隊のメンバーである。「展望タワー33」事件の当事者の一人であり、事件後ロドスの協力メンバーに登録した。
+	レインボー小隊のメンバーはあまり過去について言及しないが、パートナーには情報をとどめておく権利があるので、我々もそれに関して意見は述べない。
+	レインボー小隊の他のメンバー同様、Frostも非常に優秀な総合的戦闘経験を持ち合わせ、チームワークの発揮など各領域において一般的なオペレーターをはるかに凌駕する能力を備えている。人事部が提供した報告によると、Frostは様々な屋外救援任務に参加したことがあるようで、サバイバルのスペシャリストである。
+	しかし注意しなければならないのは、レインボー小隊のメンバーと我々との協力関係は一時的なものであり、彼らはロドスの正規職員ではないということである。彼らには多くのやるべきことがあり、あまり彼らの力に頼り過ぎるのは良くない。
+
+	Archive File 1 :
+	Operator Tina, codename Frost. A member of Rainbow Six, and one of the witnesses to the 'Watchtower 33' incident, Frost registered with Rhodes Island as a cooperative party following the incident.
+	The members of Team Rainbow are mostly reluctant to reveal their past, which we will not object to given that our partners have the right to secrecy regarding their internal information.
+	As with the other members of Team Rainbow, operator Frost has extremely comprehensive combat experience, far surpassing the average operator in various fields including teamwork. Based on the report submitted to the HR department, operator Frost seems to have participated in numerous outdoor rescue missions and is a talented wilderness survival specialist.
+	However, please note that the members of Team Rainbow are only working with us on a temporary basis and are not formal employees of Rhodes Island. They still have many things they are busy with, so please do not rely overly much on their strength.
+
+	파일 자료 1 :
+	    오퍼레이터 티나, 코드네임 Frost, 레인보우 식스의 멤버. '33번 감시탑' 사건을 겪은 당사자로 사건 종결 후 로도스 아일랜드의 파트너 명단에 등록되었다.
+	    레인보우 팀의 멤버들은 모두 그들의 과거에 대해 잘 언급하지 않았으나, 협력 파트너에게도 그들의 정보를 공개하지 않을 권리가 있기에 이에 대해 별다른 의견을 제기하지는 않았다.
+	    레인보우 팀의 다른 멤버들과 마찬가지로, 오퍼레이터 티나는 아주 우수한 종합 전투 경험이 있으며, 팀워크 등 여러 방면에서 일반 오퍼레이터보다 훨씬 월등한 능력을 보인다. 인사부의 보고에 따르면, 티나는 다양한 야외 구조 임무에 참여해온 매우 뛰어난 생존 전문가로 보인다고 한다.
+	    단 주의해야 할 점은, 레인보우 팀은 우리와 임시 협력 관계일 뿐 로도스 아일랜드의 정식 직원이 아니며, 그들에겐 다른 바쁜 용무도 많을 테니 그들의 능력에 너무 의존하지는 않는 것이 좋겠다.
+
+———————————————————————————————
+
+	档案资料二 :
+	毫无疑问，霜华是一个经验丰富的猎人，并且远不止是一个经验丰富的猎人。在罗德岛驻扎的这段时间，霜华的大部分时间都耗在了罗德岛的工坊里，她给自己制作了全套的狩猎工具与六七种不同型号的捕兽夹。对于打猎她有着讲不完的话题，经常能看到她与来自萨米和卡西米尔的几位干员交流狩猎经验。
+
+	第二資料 :
+	Frostが経験豊富なハンターであることは疑いの余地がなく、しかもただの経験豊富なハンターにはとどまらない。ロドスに滞在している間、Frostはほとんどの時間をロドスの工房で過ごし、狩猟道具や6、7種類のベアートラップを作成していた。狩りに関しては尽きないほどの話題を持っていて、サーミやカジミエーシュ出身のオペレーター数名と狩猟に関する会話をしているのをよく目にした。
+
+	Archive File 2 :
+	Without a doubt, Frost is an experienced hunter, yet she is even more than that. During her stay at Rhodes Island, Frost spent most of her time hunkered down in one of Rhodes Island's workshops, producing a full set of hunting equipment and six or seven models of hunting traps. She has a never-ending list of topics to discuss regarding hunting, and can often be found exchanging hunting experiences with operators from Sami and Kazimierz.
+
+	파일 자료 2 :
+	    의심할 여지 없이 Frost는 경험이 풍부한 사냥꾼이지만, 그냥 경험이 풍부한 사냥꾼만은 절대 아니다. Frost는 로도스 아일랜드에 체류하는 동안 대부분의 시간을 로도스 아일랜드의 공방에서 지내며, 자신이 사용할 사냥용 도구 풀세트와 예닐곱 가지 모델의 덫을 제작했다. 그녀에게 사냥은 얘깃거리가 끊이지 않는 화제이며, 사미나 카시미어 출신 오퍼레이터들과 사냥 경험에 대한 이야기를 나누는 모습을 자주 찾아볼 수 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	隐蔽，追踪，捕猎......干员霜华在不使用源石技艺的情况下能表现出的潜行能力已经非常优秀，配合她对陷阱的数量使用，这种独特的战斗技巧非常适合在泰拉荒地上行动。
+	顺带一提，霜华小姐的厨艺很不错，相信即便是在缺乏补给的情况下，霜华小姐也有能在荒地上找到生存下去的方法。
+	这段时间她开始仔细地研究那本《罗德岛野外生存指南》，我不确定这本书上记载的知识对她来说是否有帮助。
+
+	第三資料 :
+	隠密、追跡、捕獲……アーツを使用しない状況下においてでもFrostが見せるステルス能力は非常に優秀であり、また彼女は巧みに罠を使う。こうした独特な戦闘テクニックはテラの荒野で行動するに非常に適している。
+	ちなみに、Frostさんは料理が上手で、補給に欠く状況下でも、彼女なら荒野で生き残れるだろう。
+	ここしばらくの間彼女は『ロドス野外生存ガイド』を詳しく学び始めていたが、あの本に記載されている知識が彼女の役に立つかはわからない。
+
+	Archive File 3 :
+	Be it stealth, tracking, or hunting... Operator Frost already exhibits excellent potential even without the use of Originium Arts. Combined with her extensive use of traps, this unique form of combat is very suited for operating on Terra's wastelands.
+	Incidentally, Miss Frost's cooking skills are not bad. I believe that even if she is lacking supplies, Miss Frost will still be able to find a way to survive in the wasteland.
+	Recently, she has been doing a detailed study on 'Rhodes Island Wilderness Survival Guide.' I'm not sure if the information in that book will be of use to her.
+
+	파일 자료 3 :
+	    은폐, 추적, 포획…… 오퍼레이터 Frost는 오리지늄 아츠를 사용하지 않아도 뛰어난 잠행 능력이 돋보인다. 이에 그녀가 다루는 함정 수량까지 고려하면, 이러한 독특한 전투 테크닉은 테라의 황무지에서의 작전에 매우 적합할 것으로 판단된다.
+	    또한, Frost의 요리 솜씨는 보급이 어려운 황무지에서도 어떻게든 살아남을 수 있으리라 생각될 정도다.
+	    체류 기간 동안 그녀는 《로도스 아일랜드 야외 생존 가이드》라는 책을 자세히 연구하기 시작했는데, 그 책의 내용이 그녀에게 정말 도움이 되었을지는 잘 모르겠다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	思考再三之后，我还是决定把接下来的这段文字归档入封存资料中，因为这一部分的记录与调查仅仅是我的个人兴趣，但是我认为这很有必要。
+	彩虹小队的四位干员远比我们了解的要奇特很多，很多人尚没有意识到他们的生活环境与可能我们孑然不同。
+	他们虽然是一般意义上的武装人员，但是每个人都接受过全面的高等教育。干员闪击的语言学知识的专业程度令我感到诧异，而干员灰烬也能够熟练地使用两到三种语言与其他人交流，更不用提彩虹小队的成员拥有的各种其它专业知识。
+	他们不是感染者，对感染者也毫无偏见。他们很轻易地接受了罗德岛对感染者的救助这件事的理念，并且明确地表达了对感染者的同情。
+	我很难想象他们都来自一个什么样的国度。
+
+	第四資料 :
+	【権限記録】
+	再三考えあぐねた結果、私はやはりこれからの内容を秘密資料に保存することにした。なぜならこの記録と調査はただの私の個人的興味にすぎないが、しかしこれは必要な事でもあると考えているからである。
+	レインボー小隊の4名のオペレーターは我々の理解よりもはるかに特異であり、彼らの生活環境が恐らく我々とは全く異なっていたことに多くの者がまだ気付いていない。
+	彼らは一般的な意義における武装戦闘員ではあるが、皆がそれぞれ全面的な高等教育を受けている。Blitzの言語学の知識の専門性には驚かされるし、Ashも2、3種類の言語を使いこなして他者とコミュニケーションをとれる。他のレインボー小隊のメンバーが有する各種専門的知識に関しては触れるまでもないだろう。
+	彼らは感染者ではなく、感染者に対する偏見も全くない。感染者を救うというロドスの理念も容易に受け入れ、感染者に対する同情も明らかに示していた。
+	彼らがどんな国からやってきたのか想像しがたい。
+
+	Archive File 4 :
+	[Classified Log]
+	After much deliberation, I've decided to record the following as an archived record, since the notes and investigations here are born out of my own personal interest, even though I believe they are very much necessary.
+	The four operators of Team Rainbow are far more peculiar than we think, and many people are unaware that their living environment may in fact be vastly different from our own.
+	Though they are by definition armed personnel, each of them has received comprehensive higher education. I am astonished by the professionalism of Operator Blitz's linguistic knowledge, whereas operator Ash is skilled enough to converse fluently in two to three different languages with other people. I don't believe I need to mention the multitude of professional knowledge possessed by the other members of Team Rainbow.
+	They are not Infected, and have no prejudice against them. They were easily able to accept the idea of Rhodes Island extending help towards the Infected, and clearly expressed their sympathy towards them.
+	It's difficult to imagine what kind of country they came from.
+
+	파일 자료 4 :
+	[제한된 기록]
+	 심사숙고 끝에 나는 아래 내용을 극비 자료에 같이 넣어두기로 했다. 이 내용은 비록 내 개인적인 흥미로 작성한 조사 기록이지만, 아주 필요한 내용이라고 생각하기 때문이다.
+	 레인보우 팀의 오퍼레이터 네 명은 우리가 알고 있는 것보다도 훨씬 기이한 자들이다. 많은 사람들은 그들의 원래 생활 환경이 우리와 완전히 다를 수도 있다는 사실을 아직 깨닫지 못하고 있다.
+	 그들은 일반적으로 무장병력이라 불리는 부류지만 모두 전면적인 고등 교육을 받았다. 오퍼레이터 Blitz의 언어 방면의 지식은 나를 놀라게 할 정도였으며, 오퍼레이터 Ash 역시 두세 가지 언어를 능숙하게 구사해 다른 사람과 교류할 수 있었다. 레인보우 팀의 다른 오퍼레이터들도 모두 그에 못지않은 전문지식을 갖추고 있었다.
+	 그들은 감염자가 아님에도 감염자에 대한 그 어떤 편견도 가지고 있지 않았다. 그들은 감염자를 구제한다는 로도스 아일랜드의 이념을 쉽게 받아들였고, 감염자를 향해 동정심마저 보이고 있다.
+	 나는 그들이 어떤 곳에서 왔을지 상상이 가질 않는다.
+
+———————————————————————————————
+
+	晋升资料 :
+	【工程与装备调用记录】
+	干员霜华在这段时间里自己制作了大量的装备，包括多种不同的大型捕兽夹、一些简易的陷阱、几种狩猎刀。
+	
+	她还申请了一些机械装置的配给，我们评估了干员霜华的相关专业知识，她应该能够妥善使用这些装备。
+
+	昇進資料 :
+	【エンジニアリングおよび装備使用記録】
+	Frostはここしばらくの間自ら大量の装備を作成していた。そこには多種多様な大型ベアートラップや、簡易的な罠、数種のハンティングナイフなどが含まれる。
+	
+	それに加え彼女は一部の機械装置の支給を申請し、我々はFrostの関連専門知識を鑑み、彼女ならこれらの装備を適切に使用できると判断した。
+
+	Promotion File :
+	[Project and Equipment Transfer Log]
+	Within this period, operator Frost has produced a large number of equipment by herself, including various large hunting traps, some simple snares and several hunting knives.
+	
+	She has also applied for the allocation of some Originium explosives. We have assessed operator Frost's knowledge on the relevant fields, and believe that she will be able to utilize these resources properly.
+
+	승진 자료 :
+	[공정 및 장비 조달 기록]
+	    체류 기간 동안, 오퍼레이터 Frost는 각종 대형 베어 트랩, 몇몇 간이 함정, 수렵용 칼 등, 대량의 장비를 제작했다.
+	
+	    또한 그녀는 몇몇 기계 장치 배급을 신청했다. Frost의 관련 전문지식으로 미루어 보아, 그녀는 이 장비들을 충분히 잘 사용할 수 있으리라 판단된다.

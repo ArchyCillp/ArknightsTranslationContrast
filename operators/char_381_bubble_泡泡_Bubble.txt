@@ -1,28 +1,34 @@
 ID:
 	char_381_bubble
 
-干员代号\Name:
+CV:
 	泡泡
 	バブル
 	Bubble
 	버블
 
+干员代号\Name:
+	赤尾光
+	赤尾ひかる
+	Hikaru Akao
+	아카오 히카루
+
 招聘合同\Character Usage:
 	重装干员泡泡，天不怕地不怕。
 	重装オペレーター、バブル。天地に怖いものなし。
-	Defender Operator Bubble isn’t scared of anything.
+	Defender Operator Bubble isn't scared of anything.
 	디펜더 오퍼레이터 버블에겐, 하늘에도 땅에도 두려울 게 없습니다.
 
 合同描述\Character Description:
 	挨骂还是有点怕的。
 	怒られるのはやっぱりちょっと怖い。
-	Well, she’s a little scared of getting yelled at.
+	Well, she's a little scared of getting yelled at.
 	욕 먹는 건 그래도 조금 무섭다.
 
 信物\Potential Item:
 	一个从野外挖来的树墩。她也不知道这东西有什么用，只是觉得好玩就挖来送你了。
 	野外で掘り出した木の切り株。彼女自身も使い道をわかっていないが、単にとてもユニークだと思ったので君に贈った。
-	A stump dug up from outside the city. She doesn’t know what to do with it either, but she thought you'd like it, so she dug it up for you.
+	A stump dug up from outside the city. She doesn't know what to do with it either, but she thought you'd like it, so she dug it up for you.
 	야외에서 파낸 나무 그루터기. 이게 무슨 쓸모가 있는 지는 그녀도 잘 모른다. 그저 재미로 이걸 굳이 파내 당신에게 선물한 것뿐이다.
 
 天赋\Talents:
@@ -43,177 +49,444 @@ ID:
 	얻어맞기
 
 语音\Voices:
-	让我看看博士的抽屉里都藏了点什么好东西。
 	ドクターの引き出しにどんなお宝が入ってるか、見てみるぞ！
-	Let’s see what goodies the Doctor hides in this drawer.
+	Let's see what goodies the Doctor hides in this drawer.
 	박사의 서랍에 어떤 보물이 있는지 봐야지!
 
-	我现在大概只有爸爸一条腿那么大吧，以后我也要变那么大，然后撞翻所有的坏人！哇嗷！！
 	ボク、今はパパの足くらいしかないけど、いつかパパみたいにデカくなって、それで悪い人をぜーんぶ吹き飛ばすぞ！わうーーー！！
-	I’m probably only about as big as one of Papa’s legs right now, but I’m gonna be as big as him and trample over all the bad guys! Graaagh!  
+	I'm probably only about as big as one of Papa's legs right now, but I'm gonna be as big as him and trample over all the bad guys! Graaagh!  
 	나, 지금은 아빠의 다리 정도까지 밖에 되지 않지만, 언젠가 아빠처럼 커져서 나쁜 사람들을 전부 날려 버릴 거야! 와아……!!
 
-	对不起我错了，下次再也不在走廊里乱跑了！
 	ごめんなさい、もう廊下で走り回ったりしないから！
-	I’m really, really sorry! I won’t run in the hallways ever again!
+	I'm really, really sorry! I won't run in the hallways ever again!
 	미안! 앞으론 복도에서 안 뛰어다닐게!
 
-	打架超简单的啦，盾往那里一竖，就没人能打过我了。啊绕到我背后就行？对哦，我怎么没想到呢？
 	ケンカはすっごく簡単だぞ。この盾さえ置いとけば、だーれもボクの相手じゃないんだ。じゃあボクの後ろに回ればいい？そっか、そうだった。なんで思いつかなかったんだろ。
-	Fighting is easy. I point my shield one way, and nobody can beat me. Huh? What if they get behind me? Uh oh, why didn’t I think of that?  
+	Fighting is easy. I point my shield one way, and nobody can beat me. Huh? What if they get behind me? Uh oh, why didn't I think of that?  
 	싸움은 진짜 간단해! 이 방패만 있으면, 그 누~구도 내 상대가 되지 않아. 그럼 내 뒤로 돌아오면 된다고? 그렇네? 왜 그 생각을 못 했지?
 
-	嘉维尔？没听说过，很强吗，在萨尔贡很有名吗？哎呀别说了，厉害不厉害我看看就知道了。
 	ガヴィル？知らない。強いのか？サルゴンでは有名な人？口で言うだけじゃわからないぞ。すごいかどうか、ボクが見てみる。
-	Gavial? Never heard of her. She’s tough? And famous in Sargon? Okay, whatever. I’ll see for myself how tough she is.  
+	Gavial? Never heard of her. She's tough? And famous in Sargon? Okay, whatever. I'll see for myself how tough she is.  
 	가비알? 몰라. 강해? 사르곤에서 유명한 사람? 말만으론 모르지! 대단한지 어떤지 내가 볼 거야!
 
-	哦，你是说嘉维尔姐姐吗，哎呀我可是嘉维尔姐姐的头号粉丝，看到我盾牌里那个签名了吗，是亲笔签名哦！我觉得吧，除了老爹，估计也没几个人能打过嘉维尔姐姐了。
 	え、ガヴィル姉ちゃんのこと？ボクはガヴィル姉ちゃんのファン第一号だぞ。この盾に書いてあるサインを見た？直筆だぞ！きっとパパ以外で、ガヴィル姉ちゃんに勝てる人なんてほとんどいないと思うぞ。
-	Oh, you’re talking about Gavial? I’m Gavial’s number one fan. See, she even signed my shield for me. That’s her autograph! I think, besides Papa, pretty much nobody could take down Gavial. 
+	Oh, you're talking about Gavial? I'm Gavial's number one fan. See, she even signed my shield for me. That's her autograph! I think, besides Papa, pretty much nobody could take down Gavial. 
 	엥? 가비알 언니 말이야? 나는 가비알 언니의 넘버원 팬이야! 이 방패에 있는 사인 봤어? 직접 써준 거라고! 분명 아빠 말고 가비알 언니한테 이길 수 있는 사람은 거의 없을걸?!
 
-	博士你悄悄告诉我，小刻的火神大姐能不能一锤砸穿这层楼？不会吗？我就知道是这样，那还是我爸爸比较厉害，一拳就能打碎罗德岛的大烟囱。
 	ドクター、こっそり教えて。ケーちゃんのヴァルカンお姉ちゃんは、このフロアをハンマーひと振りでぶち抜けるのか？そんなことない？ほらやっぱり。ボクのパパのほうが強いぞ、拳一つでロドスの煙突を粉々にできるんだぞ！
 	Doctor, shhh, tell me the truth. Kay says Vulcan can hammer straight through the floor, can she? No? I knew it. That means my Papa is definitely stronger. He could bust down a Rhodes smoke stack with one punch.  
 	박사, 몰래 알려줘. 케오의 벌컨 언니는 이 층을 망치질 한 번으로 뚫어버릴 수 있는 거야? ……아니라고? 봐, 역시! 우리 아빠가 더 쎄! 주먹 하나로 로도스 아일랜드의 굴뚝을 산산조각낼 수 있다구!
 
-	真的......还要在这本本子上加一笔吗......好吧......"今天，泡泡撞翻了Lancet-2小姐，泡泡下次不会这样做了。"
 	ホントに……またこのノートに書かないといけないの……はーい……「今日、バブルはLancet-2さんを吹き飛ばしてしましました。もう二度としません。」
-	Do I really... have to keep writing this...? Fine... 'I knocked over Lancet-2 today. I won’t do it again.' 
+	Do I really... have to keep writing this...? Fine... 'I knocked over Lancet-2 today. I won't do it again.' 
 	진짜…… 또 이 노트에 써야 하는 거야……? 알았어…… "오늘, 버블은 Lancet-2 씨를 날려버렸습니다…… 앞으론 안 그러겠습니다."
 
-	这是我的盾牌，以后会是我的腿甲，说不定会变成我的肩甲哦，到那时候，我只要往你身后一站，嘿嘿，就没人敢欺负你啦。
 	今はこれを盾にしてるけど、ボクが大きくなったらすね当てか、肩当てにするかもしれないぞ。そしたら、ボクがドクターの後ろですごんでれば、へへ、誰も君をいじめられないぞ。
-	This is my shield. It’ll be one of my greaves someday, or maybe a pauldron. Then as long as I’m standing behind you, hehe, nobody’ll ever bully you.
+	This is my shield. It'll be one of my greaves someday, or maybe a pauldron. Then as long as I'm standing behind you, hehe, nobody'll ever bully you.
 	지금은 이걸 방패로 쓰지만, 내가 크면 정강이 보호구나 어깨 보호구로 쓰게 될지도 모른다구! 그렇게 되고 나서 내가 박사 뒤에서 위협하고 있으면…… 헤헤, 아무도 널 못 괴롭힐걸!
 
-	博士，起来呀，门口好像有人找你。
 	ドクター、起きて、外の人に呼ばれてるぞ。
-	Doctor, wake up! Somebody’s here to see you.
+	Doctor, wake up! Somebody's here to see you.
 	박사, 일어나! 밖에서 누가 불러.
 
-	你就是训练营的老大吗，你叫博士吗？嗯......但你看起来不壮啊......算了，我叫泡泡，是部落里最弱的，你要负责把我训练成第二强的哦。
 	君が訓練場のボス？ドクターって君の名前？うーん……でも君、丈夫そうに見えないぞ……まぁいっか。ボクはバブル、今のところ部族では一番弱いけど、パパの次ぐらいに強くなれるように訓練してもらうぞ。
-	You’re the boss of this training camp? And they call you the Doctor? Hrm... But you don’t look strong... Whatever. I’m Bubble. I may be the weakest in my tribe right now, but you’re gonna train me until I’m the second strongest. 
+	You're the boss of this training camp? And they call you the Doctor? Hrm... But you don't look strong... Whatever. I'm Bubble. I may be the weakest in my tribe right now, but you're gonna train me until I'm the second strongest. 
 	너가 훈련장의 보스? 박사가 네 이름이야? 으음…… 근데 너 안 쎄 보이는데…… 뭐, 됐어! 나는 버블, 지금은 부족에서 가장 약하지만, 아빠 다음으로 쎄질 수 있도록 훈련시켜줘!
 
-	打，继续打，哎怎么停了，结束了？
 	やれ、もっとやれ！あれ、なんで止まったの。もう終わった？
-	Hit ‘em! Hit ‘em again! What, why’d they stop. Is it over?
+	Hit 'em! Hit 'em again! What, why'd they stop. Is it over?
 	싸워라! 더 싸워라~! 어? 왜 멈춰? 벌써 끝났어?
 
-	这是训练的奖励？哦好的。不能吃？唔......
 	これは訓練のご褒美？わかった。食べちゃダメ？ふーん……。
-	A reward for my training? Great! I can’t eat it? Grrr...   
+	A reward for my training? Great! I can't eat it? Grrr...   
 	이거 훈련했다고 상 주는 거야? 알았어. 먹으면 안 돼? 흐음……
 
-	我觉得我能和小刻五五开了！好，我要和她大战一场，博士你来做见证！
 	これでケーちゃんともどっこいどっこいで戦えそう！よーし、勝負するぞ。ドクターは見届け人ね！
 	I think I got a good chance of beating Kay now! Okay, lemme at her. Doctor, you come watch! 
 	이제 케오랑도 막상막하로 싸울 수 있을 거 같아! 좋~았어! 승부다! 박사가 증인 해줘!
 
-	听话？我试试看吧。
 	言うことを聞く？やってみる。
-	Be good? I’ll try. 
+	Be good? I'll try. 
 	말 잘 들으라고? 해 볼게!
 
-	我们数到一就开始跑，好不好？
 	一まで数えたら走るぞ。いいか？
 	I count down to one and we charge, okay?
 	하나까지 세면 달릴 거다? 알았지?
 
-	冲啊！
 	行くぞ！
 	Chaaarge!
 	간다!
 
-	打架啦！
 	ケンカだ！
 	Waaar!
 	싸운다!
 
-	选我啦。
 	ボクに任せて。
 	I got this.
 	나한테 맡겨.
 
-	嘻嘻。
 	へへ。
 	Hehe.
 	헤헹~
 
-	面对坏人！
 	悪い人に立ち向かうぞ！
 	Get the bad guys!
 	나쁜 사람에 맞서는 거야!
 
-	举盾！
 	盾を構えるぞ！
 	Shield up!
 	방패를 들어라!
 
-	我撞！
 	体当たりだー！
 	Traaaaaample!
 	몸통 박치기다!
 
-	我拍！
 	ぶん殴ってやるー！
 	Baaaaash!
 	두들겨 패주마!
 
-	尖刺冲击！！
 	トゲトゲアターック！！
 	Shield striiiike! 
 	가시가시 공격!!
 
-	咚！
 	どーん！
 	Bam!
 	펑!
 
-	博士你要是够强壮，一定也是像我爸爸那样的勇士！
 	ドクターがもし筋肉モリモリだったら、きっとパパみたいにすっごい戦士になってたぞ！
-	Doctor, if you’re strong enough, you gotta be warrior like my Papa!
+	Doctor, if you're strong enough, you gotta be warrior like my Papa!
 	박사가 만약 근육이 우락부락했다면, 분명 아빠처럼 대단한 전사가 됐을 거야!
 
-	我就说嘛，我超厉害的。
 	言っただろう、ボクはすっごく強いんだって。
-	What did I tell you? I’m super strong.
+	What did I tell you? I'm super strong.
 	말했잖아, 난 정말 강하다고.
 
-	嗯，有人跑了？是我没挡住吗？
 	あれ、逃げた人がいる？ボクが止めきれなかったかな？
 	Huh? Some of them got away? Did I let them through? 
 	어, 도망간 사람이 있어? 내가 못 막았나?
 
-	打不过了！怎么办怎么办？！
 	勝てないぞ！どうしよどうしよ！？
-	I can’t beat them! What do I do?!  
+	I can't beat them! What do I do?!  
 	이길 수 없어! 어떡하지, 어떡하지?!
 
-	再大点，再大点嘛，这么小怎么住人？
 	もっと広く、広くして！こんな狭い部屋にどうやって住むんだ？
 	I need a way, waaay bigger room. How can anyone live in a little place like this?
 	좀 더 넓게, 넓혀줘! 이렇게 좁은 방에서 어떻게 살아?
 
-	哎呀，有点痒。
 	んっ、なんかかゆいぞ。
 	Oof. That tickles.
 	으엑, 왠지 가려운데.
 
-	博士，来捉迷藏！
 	ドクター、隠れんぼやろ！
-	Doctor, let’s play hide-and-seek!
+	Doctor, let's play hide-and-seek!
 	박사, 숨바꼭질하자!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士！
 	ドクター！
 	Doctor!
 	박사!
+
+干员档案\Background:
+	基础档案 :
+	【代号】泡泡
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】萨尔贡
+	【生日】3月19日
+	【种族】塞拉托
+	【身高】135cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】バブル 
+	【性別】女 
+	【戦闘経験】なし 
+	【出身地】サルゴン 
+	【誕生日】3月19日 
+	【種族】セラト 
+	【身長】135cm 
+	【鉱石病感染状況】 
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Bubble
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Sargon
+	[Date of Birth] Mar 19
+	[Race] Cerato
+	[Height] 135cm
+	[Infection Status] 
+	Confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 버블
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 사르곤
+	[생일] 3월 19일
+	[종족] 세라토
+	[신장] 135cm
+	[광석병 감염 상황]
+	 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】普通
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】缺陷
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀 
+	【戦場機動】普通 
+	【生理的耐性】優秀 
+	【戦術立案】普通 
+	【戦闘技術】欠落 
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Normal
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Normal
+	[Combat Skill] Flawed
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 부족
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	萨尔贡某塞拉托部族勇士的末女，涉世未深，完全不了解待人接物的准则。被父亲以“接受训练”为名送至罗德岛，实为前来治疗矿石病。
+	以一面等身巨盾为武器，但只会拿着它横冲直撞，急需罗德岛教官对其进行教导以防在实战中出现差错。
+
+	個人履歴 :
+	サルゴンに住まう某セラト部族勇士の末の娘。世間知らずで、物事に関わったり、他人に接する際の基本的な常識や暗黙のマナーを全く理解していない。父親から「訓練を受けるため」という名目でロドスに託されたが、その本当の目的は彼女の鉱石病の治療である。 
+	身の丈ほどの巨大な盾を武器とする。だが、今のところはそれを持って走り回ることしか知らない。実戦中に問題を起こさないためにも、ロドスの教官による早急に指導を要している。
+
+	Profile :
+	A young warrior girl from a tribe of Sargon Ceratos, she is inexperienced, with no knowledge of the norms and customs for interacting with others. Her father sent her to Rhodes Island, ostensibly for 'training,' but actually to treat her Oripathy. 
+	She uses a massive shield as a weapon, relying on charging and bashing tactics. She needs Rhodes Island training to ensure she doesn't make any catastrophic mistakes in actual combat.
+
+	프로필 :
+	    사르곤에 있는 어느 세라토 부족 용사의 막내딸로, 세상 물정에 어둡고, 사리분별을 제대로 하지 못한다. 버블의 아버지는 훈련 명목으로 그녀를 로도스 아일랜드로 보냈지만, 실제 목적은 광석병 치료이다.
+	    자기 키만 한 방패를 무기로 사용하지만, 방패를 들고 무작정 돌진할 줄만 아는지라, 실전에서 사고가 발생하지 않도록 로도스 아일랜드 교관의 지도가 시급하다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】2%
+	左腿有明显感染迹象。
+	
+	【血液源石结晶密度】0.24u/L
+	病情并不严重，但本人经常不好好接受治疗，因此有加重的可能性。
+	
+	“希望像她那么能闹的以后能少几个......”
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】2%
+	左足に明らかな感染症状が見られる。
+	
+	【血液中源石密度】0.24u/L
+	重症ではないが、本人が治療に協力的ではないため、病状進行の恐れがある。
+	
+	「彼女のような元気すぎる子が、これ以上増えなければいいが……」
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 2%
+	Her left leg shows clear signs of infection. 
+	
+	[Blood Originium-Crystal Density] 0.24u/L
+	Infection remains mild, but the patient is often uncooperative with treatment, and there is a possibility her situation could worsen.  
+	
+	'I hope we don't get too many more difficult patients like her...'
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 2%
+	왼쪽 다리에 명확한 감염 증상이 있다.
+	
+	[혈중 오리지늄 결정 밀도] 0.24u/L
+	병세는 심각하지 않지만, 본인이 제대로된 치료를 자주 받지 않은 탓에 악화될 가능성이 있다.
+	
+	"버블처럼 시끄러운 사람이 더는 없었으면…" 
+
+———————————————————————————————
+
+	档案资料一 :
+	泡泡是萨尔贡某位部族勇士的女儿。在泡泡来到罗德岛之前，相关干员已经与其父亲进行了接洽。据了解，泡泡是在野外游玩时直接接触源石致伤，且在相当时间内没有清洁伤口导致了不可逆的源石感染。泡泡的父亲向罗德岛提出将泡泡送到这里来治疗，但为了不让女儿难堪，泡泡的父亲用“进行特训”的借口将泡泡带到罗德岛，同时也为她注册了预备干员的身份，在经过测试后，泡泡成为了罗德岛的预备干员。
+
+	第一資料 :
+	バブルはサルゴン某部族勇士の娘である。彼女がロドスにやって来る前に、担当オペレーターは既に彼女の父親とコンタクトを済ませていた。父親の話によると、バブルは野外で遊んでいた際、直に源石に触れて怪我をしてしまい、更に長期間傷口を清めなかったために手の施しようがないほど感染してしまったのだという。父親はロドスに彼女を託して治療を行ってもらうよう申し出たのだが、娘が気まずくならないように、「特訓のため」という名目で彼女を連れてきた。その際、娘の予備オペレーター登録も済ませていた。試験の結果、バブルはロドスの予備オペレーターとなった。
+
+	Archive File 1 :
+	Bubble is the daughter of a Sargon tribal warrior. Our operators made some arrangements with her father before she came to Rhodes Island. We understand she suffered direct contact with Originium while playing in the wilderness, and failure to quickly clean the wound resulted in an irreversible infection. Bubble's father asked that we accept her for treatment, but so as not to embarrass her, he requested that we register her as a reserve operator and note her purpose at Rhodes Island as 'special training.' After her tests, she became a reserve operator.
+
+	파일 자료 1 :
+	    버블은 사르곤에 있는 어느 부족 용사의 딸이다. 담당 오퍼레이터는 버블이 로도스 아일랜드에 도착하기 전에 이미 그녀의 아버지와 상담을 진행했다. 버블은 야외에서 놀다가 오리지늄에 직접 접촉하여 상처를 입었고, 이후 오랜 시간동안 상처를 돌보지 않아 광석병에 감염되었다고 한다. 버블의 아버지는 그녀를 로도스 아일랜드로 보내 치료하길 원하였으나, 버블이 곤란한 일을 겪지 않도록 '특별 훈련' 명목으로 그녀를 로도스 아일랜드로 보냈다. 또한 버블을 위해 예비 오퍼레이터 포지션을 신청해 주었고, 그녀는 테스트를 거친 후 로도스 아일랜드의 예비 오퍼레이터가 되었다.
+
+———————————————————————————————
+
+	档案资料二 :
+	泡泡一直令大人们十分头疼，但是在孩子们中却意外地受欢迎。她喜欢玩乐、爱出头、讲义气，还特别擅长夸大自己的“冒险”，许多小朋友都喜欢听她说这说那。即使有几个头脑清晰的孩子知道她是在说大话，但他们仍旧喜欢和泡泡玩，因为她讲的故事，确实还挺有意思。
+	泡泡有许多朋友，其中关系最好的，是刻俄柏。听说两人初次见面的时候就聊到了一起，之后就越聊越投机，只要有空就会碰头聊天，至于聊天内容——自然是孩子们最看重的事情之一：
+	“我的英雄和你的英雄比到底谁比较强？”
+	泡泡不喜欢学习，但这并不妨碍她了解一些描述性的修辞，然后在和刻俄柏聊天时把所有的夸赞一股脑丢在自己父亲身上。但有趣的是，就算两人事先掌握了多少词汇，到最后也会演变成“我大！”，“我更大”，“我超级大”这样的语言掐架，伴随着夸张的肢体动作，两个人会把整个一下午都耗费在这种对抗中。
+	或许这就是孩子们的战争吧。
+	挺好玩的。
+
+	第二資料 :
+	バブルはいつも大人たちの頭痛の種となっているが、子供たちの間では意外にも人気がある。彼女は目立ちたがり屋で、仁義を重んじ、遊ぶことが大好きである。さらに自分の「武勇伝」を盛って伝えることが大の得意で、子供たちも彼女の話を聞くのを楽しんでいる。バブルの虚言癖に気がつく頭の回る子供も時折いたが、それでも好んで彼女とつるんでいたのは、やはり彼女の話が実に面白いからである。
+	バブルには多くの友人がいるが、その中でも最も仲が良いのはケオベである。初対面の時から気が合ったらしく、その後、話せば話すほどにさらに意気投合し、今では時間があれば一緒になっておしゃべりをするような間柄になった。話の内容はといえば、当然子供が一番好きな話題である。
+	「ボクのヒーローと君のヒーロー、どっちの方が強い？」
+	バブルは勉強が嫌いなのだが、それでもある程度の描写を行うための修辞が頭に入ってはいる。ケオベとおしゃべりする時は知る限りの褒め言葉を自身のヒーローである父親に対しありったけ注いだりもした。面白いことに、二人が元々どれほど語彙力を持っていようと、最終的には大げさなボディーランゲージを伴った「ボクの方が大きい！」「おいらの方がもっと大きいもん！」「ボクのがちょー大きいぞ！」という低レベルの口喧嘩に発展する。こうなると二人は丸々半日もこの対立に費やしてしまうのが常だった。
+	あるいはこれこそ子供の戦争というものなのかもしれない。
+	なかなか面白いものではある。
+
+	Archive File 2 :
+	Bubble makes a lot of trouble for the adults around her, but she's exceedingly popular among children. She is playful, principled, and particularly good at embellishing her 'adventures,' which never fail to draw the kids in for a listen.  Even the clever children who know her stories are exaggerated still enjoy listening to Bubble, because those stories are indeed very well-told. 
+	Bubble has lots of friends, but she is closest to Ceobe. The two hit it off from the first time they met, and one always goes looking for the other whenever she has free time. As for what they talk about, it's what kids always love to talk about: 
+	'My favorite hero could beat up your favorite hero.' 
+	Bubble doesn't like to study, but that hasn't kept her from learning all kinds of new phrases, techniques, and rhetorical flourishes to describe her own father during her talks with Ceobe. But the funny thing is that no matter how much vocabulary they prepare beforehand, their arguments always descend into: 'I'm big!' 'I'm bigger!' 'I'm way bigger!' Punctuated with exaggerated gestures, such confrontations can last an entire afternoon.  
+	I suppose that's just how kids are. 
+	Looks like they're having fun.
+
+	파일 자료 2 :
+	    늘 어른들의 머리를 지끈거리게 하는 버블이지만, 아이들에 있어선 특급 환영을 받는 존재였다. 놀기 좋아하고, 나서는 걸 좋아하며, 의리가 있는 데다 특히 자신의 ‘모험’을 과장하는 데 아주 뛰어나, 많은 아이들이 그녀의 모험 얘기를 듣는 걸 좋아했다. 비록 몇몇 똑똑한 아이들은 그녀가 허풍을 떤다는 사실을 눈치챘지만, 그래도 버블의 이야기가 너무 재밌었기에 그녀와 함께하는 걸 즐겼다.
+	    버블은 친구들이 많았는데 그중 가장 사이가 좋았던 친구는 케오베였다. 들은 바로는 두 사람은 초면부터 얘기를 술술 나눴고, 이후에도 서로 말이 잘 통한다 느껴, 틈만 나면 만나서 수다를 떨었다고 한다. 이야기의 주제는 물론 아이들이 중요시하는 것들 중 하나였다.
+	    “내 영웅과 네 영웅 중 대체 어느 쪽이 더 강하지?”
+	    버블이 공부를 싫어하긴 했지만, 어떤 것을 묘사하는 데 필요한 문장은 충분히 구사할 수 있어서, 케오베와 수다를 떨 때면 쉴 새 없이 아버지를 칭찬하곤 했다. 재밌는 점은 두 사람이 얼마만큼의 어휘를 구사할 수 있든 간에 결국 마지막에는 “내가 커!”, “내가 더 커!”, “내가 완전 더 커!”와 같은 말싸움으로 변질되었다. 과장된 몸짓과 함께 두 사람은 오후 내내 이런 식의 싸움을 하며 시간을 보냈다.
+	    어쩌면 이런 게 바로 아이들의 전쟁이라는 거겠지.
+	    정말 재밌어.
+
+———————————————————————————————
+
+	档案资料三 :
+	泡泡至今还没习惯罗德岛局促的生活环境。她是生活在萨尔贡广大土地上的孩童，习惯了面对荒野，在望不着边际的宽广草原上奔跑。因此，当泡泡被带上罗德岛时，她本能地抗拒着这里，而抗拒的方式之一，就是在罗德岛上横冲直撞。
+	千万不要因为泡泡还小就掉以轻心，她已经撞翻过机器人、撞穿过安全门、撞塌过隔断墙，而她本人从没受过伤。如果她有任何想要撒腿奔跑的迹象，请立刻劝住她，带往最近的跑步机，或者丢到训练室里，这是最安全有效处理“泡泡危机”的方法。
+	在战场上，泡泡也是个喜欢乱跑的人，由于带着一面全身尖刺盾，只要正面能撞穿的东西都无法对她造成威胁，但问题在于，她完全没有考虑到侧面与背后受到攻击的可能性，有时必须要安排其他干员为其提供保护，在泡泡完全服从调度或完成重装考核之前，她将只被允许派遣到威胁较小的任务中去。
+
+	第三資料 :
+	バブルは未だにロドスの狭い生活環境に馴染めていない。サルゴンの広大な土地で生きてきた子供は、荒野に直面することにも、果てしない草原を走り回ることにも慣れているため、ロドスに連れてこられた当初、バブルは本能的にこの場所を拒んでいた。拒絶を表す手段の一つが、見境なく突進することだった。 
+	バブルがまだ幼いからといっても油断してはならない。彼女は既に突進の末にロボットを転倒させ、安全扉をぶち抜き、仕切り壁を突き崩しておきながらも、全くの無傷という実績を残している。もしバブルに少しでも走り出しそうな兆候が見られたら、速やかに諌めて、彼女を最も近いランニングマシンに連れて行くか、訓練室に放り込むかの措置を取る必要がある。今のところ、この二つの方法が最も安全な「バブル危機」の対応手段である。 
+	戦場においても、バブルはよくあちこち走り回る。一面刺だらけの盾を持っているため、正面からぶち抜けるものであれば彼女の脅威になることはない。しかし問題は、彼女が両側面と背後から攻撃を受ける可能性を全く考慮していないことである。そのため、時には彼女を守るためのオペレーターを同時に配置しなければならない。バブルが忠実に指揮に従うことを覚えるか、重装オペレーター試験を合格するまでは、彼女の派遣が許可されるのは脅威レベルが低いと判断された任務のみである。
+
+	Archive File 3 :
+	Bubble has not yet grown accustomed to the cramped quarters of Rhodes Island. She is used to life on the wide open plains of Sargon, running across the vast prairies of the wilderness. So when she first came to Rhodes Island, Bubble had an instinctive rejection of the environment. And one way she acted out against our environment was to rampage through the ship, wrecking things. 
+	Don't underestimate Bubble because of her size. She's trampled robots, crashed through security doors, broken down partition walls, and never once injured herself. Should you ever see her preparing to break into a run, stop her immediately and bring her to the nearest treadmill. Or toss her into the training room, which is the safest and most effective way to deal with a 'Bubble Crisis.' 
+	Bubble also likes to run around the battlefield during combat. Thanks to her man-sized spiked shield, she is impervious to any threat she can charge straight through. But she tends not to consider that she could still be attacked from the side or the rear, and it is necessary to have other operators cover her. Until she is able to fully comply with dispatch or complete her Defender examination, her deployments will be limited to lower threat missions.
+
+	파일 자료 3 :
+	    버블은 아직까지도 로도스 아일랜드의 협소한 생활 환경에 적응하지 못하고 있다. 그녀는 사르곤의 광활한 대지 위에서 살던 아이였고, 황야를 마주한 채 끝없이 넓은 초원을 달리는 생활에 익숙했기 때문이다. 이로 인해 로도스 아일랜드에 도착한 버블은 본능적인 거부감을 느꼈고, 로도스 아일랜드에서 좌충우돌 날뛰는 방식을 통해 자신의 이런 반감을 표출하였다.
+	    버블을 절대 작은 소녀라고 얕보아선 안된다. 그녀는 로봇을 뒤집어버리고, 안전문을 꿰뚫고, 차단벽을 허물어 버린 적이 있지만 정작 본인은 부상 따위 입어 본적이 없다. 만약 그녀로부터 달리고 싶어 하는 기미가 보인다면, 즉시 가장 가까운 러닝머신이나 훈련장 안으로 데려가길 바란다. 이것이 바로 '버블 해저드'를 해결하는 가장 안전하고 효과적인 방법이다.
+	    버블은 전장에서도 뛰어다니길 좋아한다. 한쪽 면 전체에 가시가 박힌 방패 덕분에 정면에서 돌진해오는 적은 큰 위협이 안되지만, 문제는 그녀가 측면이나 등 뒤에서도 공격당할 수 있다는 사실을 전혀 고려하지 않는다는 점이다. 때론 이런 그녀를 보호하기 위해 다른 오퍼레이터를 배정해야 할 때도 있다. 버블이 지시에 완전히 따르거나, 디펜더 시험을 통과하기 전에는 비교적 위험 요소가 적은 임무에만 파견될 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	作为一名部族勇士的子女，泡泡经常会被周围的人赋予过高的期待，希望她今后也能成为同她父亲一般的勇士。由于泡泡敬慕自己的父亲，她从小到大都在朝着这个目标努力。但问题在于，泡泡真的适合这种生活吗？
+	当部落中其他孩子已经了解到战斗技巧的重要性时，泡泡还只是那个冲来跑去的泡泡，虽然她的耐力与力气都远远超过同龄的孩子，但战斗，并非有力气就能决定一切，用她父亲的话来说：“这崽成不了战士。”
+	或许正是意识到了这一点，泡泡的父亲没有让泡泡遮掩伤口继续在部落生活，而是把她带离部族，带离萨尔贡，来到一个全新的地方，让她培养自己的兴趣，让她自己选择的未来。
+	“至少在这里，她以后能活得更开心。”当她父亲说出这样的话语时，你完全想象不到，这是一位身高两米多，身材健硕，纹满部族图腾，看上去煞气逼人的塞拉托部族勇士。而在这段对话发生没多久，初来乍到的泡泡就撞穿了会客室的门，随即被父亲拎着耳朵哭哭啼啼给工作干员们道了歉。一小时之后，当负责接待的干员刚刚送走泡泡父亲，泡泡就把一盆景观植物的叶子当零食啃了。
+	看来泡泡离长大还有很长的路要走。
+
+	第四資料 :
+	部族勇士の子としてバブルは常に周りから、末は父のような勇士であれと、多大な期待を寄せられていた。バブル本人も非常に父親を敬愛しているため、幼い頃から父を目指して努力を続けてきた。しかし、バブルは本当にそのような生活が性に合っていたのだろうか？ 
+	同じ部族の子供たちが戦闘技術の重要さを知り始めた頃も、バブルはあの猪突猛進な性格のままだった。確かに彼女のタフネスとパワーは同年代の子供たちを遥かに上回っているのだが、戦いはそういった要素だけで決まるものではない。つまり、彼女の父親の言葉を借りれば、「このガキは戦士には向いてない」ということだ。 
+	そのことをはっきり認識していたからか、バブルの父親は彼女に傷を隠した生活を続けさせるのではなく、部族やサルゴンを離れて全く新しい地に連れてきた。そこで彼女に好きなものを見つけさせ、自分の未来を選ばせるために。 
+	「少なくともここにいれば、もっと楽しく生きていけるだろうさ」、そう告げた彼女の父親が、身長2メートルを超えた、ガチムチで全身が部族のトーテムの入れ墨に覆われた、恐ろしいセラトの部族勇士であることを、一体誰が想像できるだろうか。しかしこの会話が終わって間もなく、ロドスに来たばかりのバブルは応接室のドアをぶち抜いてしまい、父親に耳を引っ張られて泣きながら当直のオペレーターたちに謝っていた。さらにその一時間後、応対したオペレーターが彼女の父親を見送ってすぐ、バブルは鉢に入った観葉植物の葉っぱをおやつだと思ってむしゃむしゃ食べてしまった。 
+	バブルが大人になる道のりはまだまだ遠いようだ。
+
+	Archive File 4 :
+	As the daughter of a tribal warrior, Bubble is used to the expectation that she will be a warrior just like her father. Because of her bottomless respect for her father, Bubble has been working to emulate him since she was small. But we have to ask: is Bubble really suited to that kind of life? 
+	When other children in the tribe were learning the importance of combat skills, Bubble was rushing around, charging into things. She has far more strength and endurance than children of her same cohort, but combat prowess is more than just strength. In the words of her father: 'This girl will not be a warrior.' 
+	It is perhaps because he recognized this that her father did not permit Bubble to conceal her wounds and carry on with her life, and instead sent her away from the tribe, away from Sargon, and off to a new future of her own making. 
+	'At least here, she can have a happy life.' It's hard to imagine such words came from a fierce tribal Cerato warrior, his body well over two meters tall covered head to toe in tattoos and totems. Not long after that conversation, our newly arrived Bubble came crashing through the reception room  door. Her father apologized profusely to the operator on duty, all the while holding the crying Bubble by her ear. An hour later, after the operator saw off Bubble's father, the young girl helped herself to a snack: the leaves of our potted plant. 
+	It seems Bubble has a lot of growing up to do.
+
+	파일 자료 4 :
+	    부족 용사의 자녀로서, 버블은 늘 자신이 언젠가 그녀의 아버지와 같은 용사가 되길 바라는 주변 사람들의 지나친 기대를 받아왔다. 자신의 아버지를 존경했던 버블은 어린 시절부터 기대에 부응하기 위해 노력해 왔다. 다만, 문제는 정말 이것이 버블에게 어울리는 삶이냐란 것이다.
+	 부족의 다른 아이들이 전투 기술의 중요성을 깨달았을 때도 버블은 그저 이러저리 뛰어다니는 것만 좋아할 뿐이었다. 그녀의 지구력과 힘이 또래 아이들보다 월등히 뛰어나다지만, 전투라는 게 힘만으로 되는 것이 아니지 않은가. "이놈의 자식은 전사가 되기엔 글러먹었다." 그녀의 아버지는 이렇게 말했다.
+	 어쩌면 버블의 아버지는 이런 점을 잘 알기 때문에 그녀가 상처를 숨기고 부락에서 계속 생활하기 보다는, 부족과 사르곤을 떠나 새로운 곳에서 자신이 원하는 것을 찾고, 자신이 스스로 걸어갈 길을 선택하길 바랬는지도 모른다.
+	 그녀의 아버지는 “이곳이라면, 저 녀석도 즐겁게 생활할 수 있을 겁니다.”라고 하였다. 당신은 아마 이런 말을 한 사람이 앞에 있는 2미터가 넘는 키를 한 건장한 체격에, 온몸에 부족의 토템 문양을 새긴 험상궂은 세라토 부족의 용사라는 사실이 잘 믿기지 않을 것이다. 이 말이 나온 후 얼마 지나지 않아 처음 로도스 아일랜드에 온 버블이 접견실의 문을 뚫고 들어와 버렸고, 아버지에게 귀를 붙잡힌 채로 버블은 울먹이며 근무 중인 오퍼레이터들에게 사과하였다. 한 시간 뒤 접견 담당 오퍼레이터가 버블의 아버지를 배웅하고 돌아왔는데, 버블은 관상용 식물의 이파리를 간식 삼아 뜯어먹고 있었다.
+	 보아하니 버블이 철이 들기까진 아직 꽤 많은 시간이 필요해 보인다.
+
+———————————————————————————————
+
+	晋升资料 :
+	众所周知，一般医疗干员完全拿生倔脾气的泡泡没办法，想要拉住跑走的塞拉托，难度大概就和徒手停下一脚油门踩到底的农业机械一样。
+	但嘉维尔做到了。
+	嘉维尔不仅能摁住想跑的泡泡，还能顺便给她打针。在反击嘉维尔数次无果后，泡泡也就认命了。
+	之后，泡泡逐渐了解到了嘉维尔的“丰功伟绩”，便开始越发崇拜她。
+	最近泡泡开始有些听话了。
+	赞美嘉维尔！！
+	另外，泡泡最近开始积极学习近战格斗技巧，问及其原因时，泡泡说：
+	“我要打翻小刻！”
+	据了解，泡泡和刻俄柏进行例行活动“爸爸和火神大姐谁更强”时有时会因为双方太过投入而发生肢体冲突，两个人不使用武器，只是在原地推来推去。
+	论力量，泡泡要比刻俄柏强上一些，但刻俄柏的条件反射和丰富经验一直让泡泡吃亏，所以玩闹到最后，被压倒的经常是泡泡。
+	于是泡泡开始了特训，近期由泡泡造成的财务损失也大幅度减少。
+	或许过不了多久，“泡泡危机”就能正式解除了。
+
+	昇進資料 :
+	知っての通り、一般の医療オペレーターでは癇癪を起こしたバブルの相手にならない。走り回るセラトを引き止めるのは、アクセルを踏み抜いた農業用機械を素手で止めること並に難しいのである。
+	しかし、ガヴィルはやり遂げた。 
+	ガヴィルは逃げ出そうとするバブルを押さえつけることができるだけでなく、なんとついでに注射まで済ますことができる。それゆえに、度重なるバブルの抵抗はことごとく失敗に終わり、遂には諦めた。 
+	その後、バブルはガヴィルの「偉業」の数々を聞き、いっそう彼女のことを崇拝するようになった。 
+	そしてなんと、最近は言いつけを守るようになったのだ。
+	ガヴィルを讃えよ！！ 
+	また、ここのところバブルは接近戦のための格闘技術を積極的に学び始めた。理由を問うとバブルは、 
+	「ケーちゃんを倒すんだ！」 
+	と答えた。 
+	聞いた話によると、バブルとケオベがいつもの「パパとヴァルカンお姉ちゃん、どっちが強いか」論争をするとき、二人ともヒートアップしすぎて物理的な衝突をしてしまうことがあるらしい。武器は使わず、ただその場で押し押されたりするだけのものだ。 
+	パワーで言えばバブルの方がケオベより一枚上手なのだが、ケオベの反射能力と経験の豊富さにいつもバブルは苦汁を舐めていた。そして戯れ半分の喧嘩は、いつもバブルの負けで終わっていた。 
+	そのため、バブルは特訓を始め、彼女による経済的損害は大幅に減少した。 
+	もしかしたら、あとしばらくすれば「バブル危機」は正式に解除されるのかもしれない。
+
+	Promotion File :
+	All our Medic Operators know the futility of trying to get control of a grumpy Bubble. Putting a stop to a charging Cerato is like stopping a hulk of agricultural machinery with a brick on its accelerator.  
+	But Gavial has done it. 
+	Not only can Gavial get Bubble under control, but she has no trouble administering injections to the girl. After attempting to resist Gavial several times, to no avail, Bubble has resigned herself to her fate. 
+	Subsequently, Bubble came to understand Gavial's 'glorious accomplishments' and has since come to worship her. 
+	And Bubble has been more amenable of late. 
+	Thanks, Gavial! 
+	What's more, Bubble has started studying some close combat techniques. When asked why, she replied: 
+	'I want to pound Kay flat!' 
+	We know that when Bubble and Ceobe get into one of their 'My Papa could beat up Vulcan' sessions, they sometimes get too into it and the conflict turns physical. They have never drawn weapons and do not escalate beyond shoving. 
+	In terms of raw power, Bubble is a bit stronger than Ceobe, but Ceobe's extensive experience and conditioned reflexes always put Bubble at a disadvantage, and the noisy little firecracker usually finds herself overwhelmed.  
+	So Bubble started training. And property damage due to Bubble has also enjoyed a significant reduction. 
+	Maybe it won't be long before we can declare 'Bubble Crises' a thing of the past.
+
+	승진 자료 :
+	    다들 알다시피 보통의 메딕 오퍼레이터는 고집 센 버블을 통제할 방법이 없다. 도망치는 세라토를 잡는 것은 맨손으로 풀 액셀을 밟은 농기구를 멈추게 하는 것만큼이나 어려운 일이다.
+	    하지만 가비알이 이걸 해냈다.
+	    가비알은 도망치려는 버블을 붙잡을 수 있을 뿐만 아니라, 붙잡은 김에 주사도 놓을 수 있다. 수차례의 반격이 실패한 후에는 버블도 운명을 받아들이기로 하였다.
+	    이후 버블은 차차 가비알의 '위대한 공적'에 대해 알아 가게 되면서 가비알을 점차 숭배하기 시작했다.
+	요즘 들어 버블이 말을 잘 듣기 시작했다.
+	    가비알을 찬양하라!!
+	    그 밖에도 버블이 요즘 적극적으로 근접 격투 기술을 배우기 시작했는데, 그 이유를 묻자 버블은
+	    "케오베를 메치려고!"라고 답했다.
+	    버블과 케오베는 늘 그래왔듯 '아빠와 벌컨 언니 중 누가 더 강할까'를 논할 때, 서로 과몰입한 나머지 무력 충돌이 발생하고, 무기 없이 그자리에서 밀치락뒷치락을 한다고 한다.
+	    힘으로만 따진다면 버블이 케오베보다 좀 더 뛰어나지만 케오베의 조건 반사와 풍부한 경험은 언제나 버블에게 불리하게 작용하였기에 한바탕 신나게 벌인 후의 패자는 대부분 버블이었다.
+	    그리하여 버블이 특훈을 시작했는데, 최근 버블로 인해 발생하는 재무적 피해가 대폭 감소했다.
+	    어쩌면 곧 '버블 해저드'가 정식으로 사라질지도 모르겠다.

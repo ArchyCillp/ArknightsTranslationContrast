@@ -1,11 +1,17 @@
 ID:
 	char_263_skadi
 
-干员代号\Name:
+CV:
 	斯卡蒂
 	スカジ
 	Skadi
 	스카디
+
+干员代号\Name:
+	佐藤利奈
+	佐藤利奈
+	Rina Satō
+	사토 리나
 
 招聘合同\Character Usage:
 	赏金猎人斯卡蒂，循着潮汐前来吞没你的敌人。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	从潮湿的地方来，到干燥的你身边。
 	じめっとしたところから、からっとしたあなたのそばに。
-	She’s a bit out of her element, literally.
+	She's a bit out of her element, literally.
 	젖은 곳에서 올라와, 메마른 당신이 있는 곳으로.
 
 信物\Potential Item:
@@ -48,177 +54,595 @@ ID:
 	파도의 만가
 
 语音\Voices:
-	为了你的安全着想，最好离我两米以上，也不要和我说话......我可不想你被冲着我来的危险伤到。
 	あなたのために言っておくけど、私からは少なくとも2メートル以上離れることね。勿論話しかけてくるのもなし……危険な目に遭わせるわけにはいかないから。
 	I advise you to keep at least two meters away from me, for your own good. And of course you shouldn't speak to me either... I wouldn't want you to suffer on my account.
 	당신을 위해 말해두겠는데, 나한테서 적어도 2미터 이상 떨어져 있어줘. 물론 말을 거는 것도 마찬가지… 위험에 빠뜨리고 싶지 않으니까.
 
-	看过我的履历了？我的过去可是很糟糕的。嗯，让我呆在身边，不仅你会被卷入麻烦，我也会很难办的。
 	私の履歴書は見た？散々だったでしょ。そうね、私をそばに置くと、あなたは面倒事に巻き込まれることになるだろうし、私だって困るのよ。
 	You've read my file? Terrible, isn't it? Indeed, if you stay near me, the same misfortune will befall you, and that's trouble for me too.
 	내 이력서는 봤어? 처참하지. 맞아, 날 곁에 두면, 당신은 귀찮은 일에 휘말리게 될 테고, 나까지 곤란해진다고.
 
-	我的头发很长，很好看？啊，嗯，谢谢......要不要摸摸看？我的头发还是挺柔软的。这方面，我还算是有些自信的哦。
 	私の髪が長くて綺麗ですって？まぁ、そうね、ありがと……触ってみる？柔らかくてサラサラなはずだから。これにはちょっと自信があるの。
 	My hair is long and beautiful? Well, thank you... Would you like to touch it? It should be quite soft. I'm confident of that.
 	내 머리카락이 길고 예쁘다고? 뭐, 그렇지. 고마워… 만져볼래? 부드럽고 찰랑찰랑거리니까. 이건 조금 자신 있어.
 
-	我没看错吧？那个人，现在叫幽灵鲨是吗，怎么穿成了修女的样子？失忆了？这可麻烦了......Dr.{@nickname}，你得帮帮她，可不能让她忘记自己真正的职责。
 	あれは、もしかして……いや、今はスペクターと名乗ってるんだったわね。シスターの格好なんてして一体どういうつもり？記憶がない？それは厄介ね……ドクター、彼女には気を払っておいてね。自分の本当の役目を忘れるなんてダメに決まってるわ。
 	Could that be...? That woman, they call her Specter now, do they? Why is she dressed as a nun? Amnesia? That's awful... Dr. {@nickname}, you have to help her. She can't be allowed to forget her true function.
 	저건 혹시… 아냐, 지금은 스펙터라는 이름을 쓰고 있다 했지. 수녀 같은 차림을 하곤, 대체 뭘 어쩔 셈이지? 기억이 없다고? 그거 참 골치 아프겠네… {@nickname} 박사, 스펙터에겐 신경 좀 써줘. 자신의 진짜 할 일을 잊어버리는 건 당연히 안 되지.
 
-	你这人，怎么这么执着，这样我不就只能老老实实保护你了吗。
 	まったく、あなたという人は本当に頑固ね……これじゃ私、もう全力であなたを守るしかないじゃない。
 	Oh you, how are you so tenacious? Then I suppose I have no choice but to defend you with all my might.
 	정말이지, 당신이란 사람은 진짜 고집불통이네… 그럼 나, 전력으로 당신을 지킬 수밖에 없게 되잖아.
 
-	远方浩瀚蓝色与轻抚土地的白色碎片之下，埋葬着原本我所在乎的一切。我很害怕，害怕厄运会再次夺走我重要的人，所以我才会选择逃离，我不希望我珍视的人......因我而受伤。
 	遠方へ広がる蒼、優しく砂を撫でる白き煌めき、その下にはかつて私が愛したすべてが眠っている。怖いの、厄災がまた私の大切な人を奪っていくのが。だから逃げることを選んだの。みんなが……私のせいで傷つかないように。
 	Down beneath the vast blue sea, below the white waves that lap endlessly at the earth, lies all that I once held dear. I fear that one day misfortune will once again take someone important to me. That is why I fled. I don't want anyone I care about... to suffer on my account.
 	멀리 퍼져나가는 푸른빛, 부드럽게 모래를 쓰다듬는 하얀 반짝임, 그 아래엔 과거 내가 사랑했던 모든 것들이 잠들어있어. 무서워, 불운이 또 나의 소중한 사람을 빼앗아 갈까 봐. 그래서 도망치는 걸 선택했어. 모두가… 나로 인해 상처받지 않도록.
 
-	好，又度过了轻松的一天！没有会卷走队友的巨大触须，也没有蹲在角落里满手是血的疯狂敌人......光是上上战场什么的，对，已经很轻松了！
 	よし、今日もまた平和な一日だったわね！仲間を巻き込む巨大な触角もなければ、影に隠れた両手血まみれの狂ったモンスターもいない……戦場に出るだけなら、そうね、気が楽だわ！
 	Lovely, another easy day! No giant tentacles coiling up my friends, no blood crazed monsters hiding in the shadows... Just a straight fight on the battlefield. That's what I call easy!
 	좋아, 오늘도 평화로운 하루였네! 동료를 휘감는 거대한 더듬이가 없으면, 그림자 속에서 두 손이 피범벅인 채로 숨어있는 미친 괴물도 없어… 전장에 나가는 것뿐이라면, 그래, 마음이 편해.
 
-	根据传说，我的族裔已经和那些灾祸战斗了无数年。说不定，我们也帮你们这些城市人把灾祸挡在了陆地之外......所以说，是不是该请我喝一杯，好好谢谢我？
 	伝説によると、私の一族はあの厄災と長きにわたって戦ってきたと言うわ。もしかすると、私たちが街に住むあなた達に迫る厄災を陸の外に食い止めていたのかもしれないわね……。だとしたら、私に一杯ご馳走して、感謝の気持ちを示すべきなんじゃないかしら？
 	According to legend, my people have fought against the calamities for aeons. Perhaps we kept them from making landfall and terrorizing you city folk as well... So, how about buying me a drink, as a thank you?
 	전설에 따르면, 내 일족은 그 재난과 긴 세월 동안 싸워왔다고 해. 어쩌면, 우리가 마을에 사는 당신들에게 닥칠 재난을 육지 밖에서 막아왔던 걸지도 모르겠네… 그렇다면, 나한테 술이라도 한 잔 대접해서 감사하는 마음을 보여야 하지 않을까?
 
-	当你历经漫长黑暗、终于浮出海面——睁开眼睛的刹那，灿烂星空滴落眼眶、无垠波浪拂过面颊，眼泪和家的味道，都是咸的。相比下，罗德岛的浴缸真是又窄又浅......我一定得带你去试试才行。
 	長い長い暗闇を抜けて、ようやく水面を割る——目を開くと、滴るように輝く満天の星が眼窩に飛び込み、果てしなく広がる波が頬をなでる。零れた涙は、故郷と同じ潮の味がした。——それに比べて、ロドスのバスタブは狭くて浅い……いつかあなたにも、私の海を知ってもらいたいわ。
 	When you've made the long journey through the dark up to the water's surface, opened your eyes and had them filled with the glimmering light of a billion stars as the eternal undulation of the ocean waves caress your cheek, lapped the salty taste of your tears that remind you of your salty home, can you imagine what that tiny bathtub here at Rhodes Island might be like for me...? I'll have to show you my home someday.
 	길고 긴 어둠을 지나, 마침내 수면을 가른다…… 눈을 뜨면, 이슬이 맺히듯이 빛나는 하늘에 가득 찬 별이 눈동자에 날아들어, 끝없이 펼쳐지는 파도가 볼을 스쳐온다. 넘쳐흐르는 눈물은, 고향과 같은 바닷물의 맛이 났다…… 그에 비하면, 로도스 아일랜드의 욕조는 좁고 얕아… 언젠가 당신에게도, 나의 바다를 알려주고 싶네.
 
-	睡着了？睡吧，Dr.{@nickname}，得做个干燥的好梦哟。
 	ドクター、眠ってるの？おやすみ。水に追われることのない、いい夢を見られるといいわね。
 	You fell asleep? Well then, Dr. {@nickname}, have yourself a pleasant, dry dream.
 	{@nickname} 박사, 자? 잘 자. 물에 쫓기는 일 없는 좋은 꿈을 꿨으면 좋겠네.
 
-	斯卡蒂，赏金猎人。你真要签下我？我可是那种，会给你带来灾祸的人哦。
 	私はスカジ、バウンティハンターよ。あなた、本気で私を雇うつもり？私がいれば、厄災を招くかもしれないのよ？
 	I am Skadi, bounty hunter. Are you really hiring me? I cannot say what calamities I may bring with me.
 	난 스카디, 바운티 헌터야. 당신, 정말로 날 고용할 셈이야? 내가 있으면 불운을 불러올지도 모르는데?
 
-	呯呯地冲过去，咚地打倒敌人，啪地解决掉——原来你们是这么战斗的，我记住啦。
 	これがあなたたちの戦い方ってわけね……ダーッと行って、ドンッと倒して、パパッと片付ける！なるほど、覚えたわ。
 	So this is how you fight. Rush in with 'woosh,' knock them down with a 'pow,' and finish them with a 'thud.' Very good. I'll keep it in mind.
 	이게 당신들의 싸움법이란 거군… 타다닥 하고 달려가서, 퍽 하고 쓰러뜨려서, 파바밧 하고 해치운다! 그렇군, 기억했어.
 
-	这个就是那个，罗德岛干员常说的晋升吗？感觉不错，好像自己真的变强了呢，大概？
 	これがロドスのみんながよく口にしてる「昇進」ね。悪くない感触だわ、まるで本当に強くなったみたい、ええ、多分ね。
 	So this is the promotion Rhodes Island folks are always going on about? Not bad. Feels like I've actually become stronger, maybe.
 	이게 로도스 아일랜드 사람들이 자주 입에 담는 '승진'이란 거군. 나쁘지 않은 느낌이야, 마치 진짜로 강해진 것 같아. 응, 아마도.
 
-	这样渴求我的力量，真的让我很困扰......如果你真的无所畏惧，那么做好准备，和我一起直面无边无际的黑暗吧。
 	そんなに求められると、結構困るのよ……。でも、もしその覚悟があるのなら、私と一緒にあの果てしない闇と向き合う準備をしなさい。
 	Your thirst for power really does trouble me... But if you do indeed have the strength of will, then prepare yourself well, and we will stand together against the infinite darkness.
 	그렇게 날 원해 하면 매우 곤란해… 그렇지만, 혹시 그 각오가 되어있다면, 나와 함께 그 끝없는 어둠과 맞설 준비를 하도록.
 
-	我倒也挺擅长团队作战，只是......
 	チーム戦はわりと得意だけど、ただ……。
 	I am quite skilled at teamwork too, however...
 	팀전은 비교적 잘하는 편인데, 다만… 
 
-	你是把大家的性命交到我手上了吗？
 	みんなの命を私に預けるということかしら？
 	You're placing their lives in my hands?
 	모두의 목숨을 내게 맡기겠다는 건가?
 
-	对手是人类的话，终归还是没什么手感。
 	相手が人間なら、あまり手応えはないかもね。
 	Where's the sport when all the enemies are human?
 	상대가 인간이라면, 그렇게 손맛이 좋진 않을지도 모르겠는데.
 
-	和我面对过的灾厄相比，你们也太弱了。
 	私が戦ってきた厄災と比べれば、全然大したことないわ。
 	You are nothing compared to the calamities I fought against.
 	나와 싸워온 재난에 비교하면, 정말 별거 아니군.
 
-	听你的。
 	あなたに従うわ。
 	By your command.
 	당신을 따르지.
 
-	我习惯了独行。
 	単独行動は慣れてるのよ。
 	I'm used to fighting alone.
 	단독 행동은 익숙해.
 
-	起舞吧。
 	深海の舞を見せましょう。
 	I'll show you the dance of the depths.
 	심해의 춤을 보여주도록 하지.
 
-	小心为上。
 	油断は禁物よ。
 	Be careful.
 	방심은 금물이야.
 
-	谁知道潮湿的海草间蛰伏着什么？
 	水面に漂う海草の奥に、何が潜んでると思う？
 	Who knows what lurks within the kelp forest?
 	수면을 떠도는 해초 속엔, 뭐가 숨어있을 거 같아?
 
-	这把剑的过去可是很恐怖的。
 	この剣の過去、知れば震え上がるわよ。
 	This sword has a terrifying past.
 	이 검의 과거를 알게 되면, 몸서리치게 될 거야.
 
-	纠缠着我的噩梦啊，唱个歌吧。
 	この身に纏う悪夢よ、唄え。
 	Sing me a song, oh torturous nightmare.
 	이 몸에 뒤엉킨 악몽이여, 노래하라.
 
-	别眨眼，你会错过自己的死状。
 	またたきせずに自分の死に様を見届けることね。
 	Don't blink, for you may miss the misery of your death.
 	눈 깜빡이지 말고, 자신이 죽는 모습을 끝까지 지켜봐야지.
 
-	我们活下来了。
 	なんとか生き延びたわね。
 	We survived somehow.
 	어떻게든 살아남았네.
 
-	敌人怎么说，怎么想，都与我无关。我只知道他们会怎么倒下。
 	敵がなんと言おうと、どんな考えがあろうと、私には関係ない。どう倒せばいいかという事にしか興味ないわ。
 	The words and thoughts of our enemies mean nothing to me. All I care about is how to defeat them.
 	적이 뭐라 하든, 무슨 생각을 하든, 나랑은 상관없어. 어떻게 쓰러뜨리면 좋을지 말고는 흥미 없다고.
 
-	生疏了吗？到手的赏金会变少哟。
 	腕がなまったのかしら？そんなことじゃ報酬が減るわよ。
 	Not as good as you used to be? It's only fair you get less of the take.
 	실력이 무뎌진 거야? 이러면 보수가 줄어들잖아.
 
-	这种程度的不幸，也只是个开始罢了。
 	この程度の不幸なんて、まだ始まりに過ぎないのよ。
 	Such simple misfortunes are only the beginning.
 	이 정도의 불행 따윈, 아직 시작에 불과해.
 
-	请给我安排个周围没人的房间。
 	周りに誰もいない部屋をお願い。
 	Put me in a room by myself please.
 	주위에 아무도 없는 방으로 부탁해.
 
-	啊......帽子！
 	あっ、帽子が！
 	Oops... My hat.
 	앗, 모자가!
 
-	离我那么近......我，我可没有能完全保护你的自信！
 	ちょっと近いわ……ちゃ、ちゃんとあなたを守れる自信がないのに！
 	When you're this close... I-I really can't guarantee your safety!
 	너무 가까워… 제, 제대로 당신을 지킬 자신이 없는데… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	注意安全，博士。
 	身の安全には気を配って、ドクター。
 	Be careful, Doctor.
 	신변 안전에 주의하도록, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】斯卡蒂
+	【性别】女
+	【战斗经验】十三年
+	【出身地】阿戈尔
+	【生日】3月7日
+	【种族】未公开
+	【身高】166cm
+	【体重】■■kg
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】スカジ
+	【性別】女
+	【戦闘経験】十三年
+	【出身地】エーギル
+	【誕生日】3月7日
+	【種族】非公開
+	【身長】166cm
+	【体重】■■kg
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Skadi 
+	[Gender] Female 
+	[Combat Experience] 13 years 
+	[Place of Birth] Ægir 
+	[Date of Birth] Mar. 7 
+	[Race] Unknown 
+	[Height] 166cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 스카디
+	[성별] 여
+	[전투 경험] 13년
+	[출신지] 에기르
+	[생일] 3월 7일
+	[종족] 미공개
+	[신장] 166cm
+	[체중] ■■kg
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】■■
+	【战场机动】标准
+	【生理耐受】卓越
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】缺陷
+
+	能力測定 :
+	【物理強度】■■
+	【戦場機動】標準
+	【生理的耐性】卓越
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】欠落
+
+	Physical Exam :
+	[Physical Strength]■■
+	[Mobility] Standard 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Flawed
+
+	종합검진 :
+	[물리적 강도] ■■
+	[전장 기동력] 표준
+	[생체 인내도] 월등
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 부족
+
+———————————————————————————————
+
+	客观履历 :
+	斯卡蒂，赏金猎人，现为罗德岛所雇佣。在过去完成的赏金任务中，于对抗大型生物，破坏硬目标，攻坚战，歼灭战等多类行动中展现出强劲实力，推测与其过往战斗经验相关。成为赏金猎人之前的履历缺失。
+	现于罗德岛某攻坚小队供职，同时身兼单兵任务预备执行干员一职。
+
+	個人履歴 :
+	スカジはバウンティハンターであり、現在はロドスに雇用されている。かつての任務では、対大型生物戦、ハードターゲット破壊、堅塁攻撃戦、殲滅戦等多様な作戦において高い実力を発揮した。過去の戦闘経験との関連があると推測する。
+	バウンティハンターになる以前の履歴は無し。
+	現在はロドスの某堅塁攻撃小隊に配属され、同時に単独任務予備執行オペレーターの一員でもある。
+
+	Profile :
+	Skadi is a bounty hunter, currently employed by Rhodes Island. She has shown impressive combat prowess in the past, defeating large creatures, eliminating difficult targets, fighting crucial battles, and winning entire wars. She is very experienced in combat, but her history prior to becoming a bounty hunter is unclear. 
+	She is now an Operator for a Rhodes Island assault team, and also executes solo missions.
+
+	프로필 :
+	    바운티 헌터. 현재는 로도스 아일랜드에 고용된 상태다. 과거 완수한 현상금 임무 중엔 대형 생물, 강력한 목표 제거, 공격 전술, 섬멸전 등의 작전에서 강력한 실력을 드러냈는데, 이는 아마 과거의 전투 경험과 관련이 있을 것으로 추측된다. 바운티 헌터가 되기 전의 이력 정보는 확인이 되지 않고 있다. 현재는 로도스 아일랜드의 공격팀에 배정되어 있으며, 동시에 단독 임무 예비 집행 오퍼레이터를 겸직하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员斯卡蒂没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.013u/L
+	什么？怎么回事？为什么？！这，这就像是刚从温室里走出来，没怎么接触过源石一样！何止是数值过低，简直是不可能！
+	
+	我觉得，绝对不能放干员斯卡蒂离开医疗部门，绝不。哪怕要和作战小队开战我也要坚持这么做！她简直是特例中的特例！没有哪个热爱生物学与医疗科学的干员会不想一探斯卡蒂她身体的奥秘的！我们必须给她进行更多测试，还有，还要要求她做全套解析和临床对照观察！还有，还有......
+	不，凯尔希医生，就这一次，求你了！
+	——医疗干员J.A. 
+	
+	申请已驳回。
+	——凯尔希医生
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.013u/L
+	何だ？どういうことだ？どうして！？ま、まるで温室から出てきたばかりで、源石とはどんな接触もしたことがないかのようです！数値が低いどころの話じゃありません。はっきり言ってあり得ません！
+	
+	私はオペレータースカジを医療部から手放しては絶対にいけないと思います。絶対に。たとえ作戦小隊と戦うことになるとしても、この意見は曲げません！彼女は特例中の特例です！生物学と医療科学を愛しているオペレーターで、スカジの体の神秘を探りたくない者などいません！我々には彼女への更に多くの測定が必要です！それから、彼女の全ての解析と、臨床観察を要求します！それから、それから……
+	違います、ケルシー先生ッ、今回だけです、お願いします！
+	――医療オペレーターJ.A.
+	
+	申請は却下した。
+	――ケルシー医師
+
+	Clinical Analysis :
+	Imaging tests on this Operator show clear outlines of internal organs, with no abnormal dark spots or shadows. No unusual traces of Originium particles present in the circulatory system, no signs of infection, confirming this operator as uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	No Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.013u/L 
+	What? This is impossibly low! It would be impossible to have that little exposure to Originium! 
+	
+	I cannot permit her to ever leave the medical department. Even if she wants to go fight, I insist she stays back! She is a special case! Anyone who loves medical science would want to see her! We must give her more exams and do a clinical analysis! Also... 
+	Come on, Dr. Kal'tsit, just this once, please! 
+	--J.A., Medic Operator 
+	
+	Request denied. 
+	-- Dr. Kal'tsit
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음. 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음. 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 스카디는 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.013u/L
+	    뭐? 이게 어떻게 된 거지? 어째서?! 이, 이건 마치 막 온실에서 나와, 오리지늄을 만져본 적이 없는 것 같아요! 이렇게나 낮은 수치라니, 이건 불가능합니다!
+	
+	    제 생각엔, 오퍼레이터 스카디가 절대 의료부를 떠나도록 놔둬선 안된다고 생각합니다, 절대로요! 작전팀과 싸우는 한이 있더라도 절대 못 보내줍니다! 스카디는 정말 특이한 케이스라고요! 생물학과 의료 과학을 좋아하는 사람이라면, 다들 스카디의 몸에 있는 비밀을 연구해보고 싶어할 겁니다! 우린 좀 더 다양한 테스트를 해봐야 합니다. 그리고 스카디에게 완전 분석과 임상 대조 관찰도 진행해달라고 요청해야 합니다! 그리고, 그리고…… 
+	안 돼요, 닥터 켈시, 이번 한 번만! 제발요!
+	——메딕 오퍼레이터 J.A.
+	
+	신청 기각됨.
+	——닥터 켈시
+
+———————————————————————————————
+
+	档案资料一 :
+	干员斯卡蒂在大多数普通干员中不太受欢迎。
+	一方面，干员斯卡蒂离群索居，少言寡语，常常主动避开各位干员的社交邀请，导致罗德岛各位干员都对她缺少认识。
+	另一方面，战斗中的干员斯卡蒂很少与队友配合，更多情况下，干员斯卡蒂会独自解决任务，让自己的队友收拾残局，这使得许多干员对她产生了不满。
+	加之斯卡蒂在回绝他人时的冷言冷语，以及她在战场上略显残酷的形象，干员间流传起了稍显妖魔化斯卡蒂的故事。
+	虽然此事被阿米娅明令禁止，但传闻并没有销声匿迹，反而向着更加夸张的情形发展。之后流传的版本摒弃了贬义的部分，更多强调干员斯卡蒂的实力与逸闻。
+	现在，干员斯卡蒂在许多不明就里的普通干员们心目中的形象类似于天灾。
+
+	第一資料 :
+	オペレータースカジは多くの一般オペレーターからはあまり歓迎されていない。
+	彼女は人から離れ1人でいることが多く、口数は少なく、いつも他のオペレーターとの交流を避けているようで、彼女と面識のある者は少ない。
+	また、戦闘中のオペレータースカジは隊員と協力することは少ない。オペレータースカジが単独で任務を解決し、他の隊員に後始末をさせるようなことが多く、このことから多くのオペレーターの彼女への不満が生まれるのだ。
+	これに加えて、彼女の他人を拒否するときの冷たい言葉と、戦場でのやや残酷な印象とが相まって、オペレーターの間ではスカジの化け物じみた噂が流れている。
+	アーミヤはこの噂を広げることを禁止したが、人の口に戸は立てられぬもので、かえってどんどんと誇張していってしまった。
+	その後流れた噂では貶すような部分は排除され、代わりにスカジの実力と秘話が強調されるようになった。
+	現在、実情を知らない一般オペレーターからのオペレータースカジに対するイメージは、天災に似たものである。
+
+	Archive File 1 :
+	Skadi is not very popular with the denizens of Rhodes Island. 
+	She has avoided making friends, is hesitant to speak, and consistently declined invitations from other Operators to socialize, preventing anyone from getting to know her. 
+	In addition, she rarely cooperates in combat. She will more often try to execute operations single-handedly and leave her teammates to clean up her mess, which has fostered resentment. 
+	Playing off her cold, sarcastic demeanor toward others and her relentlessness in battle, a rumor has emerged that she is part-demon. 
+	Although Amiya quelled the rumor, it didn't stop there. Instead, it evolved into something even more extreme. A later version abandoned anything derogatory and focused on stories of her immense power. 
+	In the minds of Operators who don't know her, she comes off as a walking Catastrophe.
+
+	파일 자료 1 :
+	    오퍼레이터 스카디는 대다수의 일반 오퍼레이터들 사이에서 그다지 환영받지 못하고 있다. 우선 오퍼레이터 스카디는 단체 생활을 하지 않고 혼자 다니며, 말수도 매우 적고, 늘 다른 오퍼레이터들과 함께 어울릴 수 있는 자리를 스스로 거절한다. 때문에 대부분의 로도스 아일랜드의 오퍼레이터들도 그녀에 대해 잘 알지 못한다.
+	    또한 전투 중에 오퍼레이터 스카디는 동료들과 협력하는 경우가 거의 없고, 대부분의 상황에서 독단적으로 임무를 완수한 뒤 동료에게는 뒷 처리만 맡겨, 많은 오퍼레이터들이 그녀에 대해 불만을 갖게 하였다.
+	    게다가 스카디가 타인의 제안을 거절할 때의 그 냉랭한 말투와 전장에서 보여주는 잔혹한 모습 때문에, 오퍼레이터들 사이에서 스카디의 존재는 마치 악마와 같이 묘사되어 전해지고 있었다.
+	    이 일은 아미야로 부터 전파 금지 명령을 받긴 하였으나, 소문은 소리도 자취도 없기에, 오히려 더 과장되고 부풀려져 전파되었다. 그 뒤로 전해진 서문에는, 안 좋은 내용이 많이 사라진 대신 스카디의 실력과 각종 일화에 대한 부분이 강조되었다.
+	    현재 실제 상황을 잘 모르는 일반 오퍼레이터들 사이에서 스카디의 이미지는, 거의 '재앙'에 가깝다.
+
+———————————————————————————————
+
+	档案资料二 :
+	值得指出的是，干员斯卡蒂的战斗方式着实异类且危险。
+	工程干员们多次尝试逆向干员斯卡蒂的佩剑，然而这些尝试基本都失败了。目前可以确认的是，这把剑的材质并不特殊，只是打造方式十分异类，难以解释。生活在偏远地区的某些工程干员指出，他们在贸易中见过类似的武器，对它们的源头则不甚了解。
+	手持着这把一般人难以使用的巨剑，斯卡蒂在战场上势不可挡。与大多数配备重型装甲以保护自身的干员不同，干员斯卡蒂凭借巨剑的格挡与自身肉体的强度足以对抗绝大多数敌人。
+	如果说干员斯卡蒂的体质令人生畏，那么她所造成的破坏更是匪夷所思。
+	常有干员在与斯卡蒂一同执行任务归来后，在报告中过度渲染干员斯卡蒂的身体能力，将干员斯卡蒂描摹成变异的童话故事或传统民谣记述的怪物等。
+	干员斯卡蒂虽然不在乎这些评价，但也向罗德岛提交过报告，埋怨称自己擅长的战术容易受到干扰，减少当地财产的破坏这一条准则更是难以实现。
+	客观来说，干员斯卡蒂确实擅长对抗大批敌人，但她必要行动中不必要的破坏，包括摧毁当地街区建筑、撕裂目标保护物的金属防护墙错使保护物泄露、单兵攻击目标要塞造成山谷崩塌等行为，必须被阻止。
+	实际上，干员斯卡蒂的某些动作与另一位近卫干员，幽灵鲨，十分相似。
+	并且与干员幽灵鲨相同，干员斯卡蒂对源石技艺极度缺乏认知。当然，对于干员斯卡蒂来说，提前解决目标就是最有效的对抗方式。
+	由此判断，干员斯卡蒂的不确定性相当之高。虽然她在遵守任务守则与接受命令方面表现得当、行为正确，但她猛然开动大型工程机器般的战斗方式理应被约束。
+	当然，在部分任务中，罗德岛需要干员斯卡蒂这样的必要力量。
+
+	第二資料 :
+	特筆すべきは、オペレータースカジの戦闘スタイルは確実に異端かつ危険であるということだ。
+	エンジニアオペレーターたちは何度もオペレータースカジの佩剣のリバースエンジニアリングを試したが、この試みは基本的にすべて失敗している。差し当たって確実なのは、この剣の材質は特殊なものではなく、製造方法が解析し難い特殊なものだということだ。遠く離れた地区で生活しているとあるエンジニアオペレーターの指摘によると、彼らは貿易で似たような武器を見たことがあるが、出所がどこなのかははっきりしていないという。
+	一般人には扱い難い巨大な剣を持つスカジを、戦場で阻むことは出来ない。重装甲を装備し自身を守る大多数のオペレーターとは違い、彼女は巨大な剣でのブロックと自身の肉体の強度を頼みにして、十分多くの敵に対抗することが出来る。
+	もしスカジの体質が人を震え上がらせるというなら、そんな彼女による破壊は更に常軌を逸している。
+	スカジと同じ任務に出撃し帰還したオペレーターで、報告書の中で過度にスカジの身体能力を誇張し、オペレータースカジがおとぎ話や伝統的な民謡に出てくる怪物のように変わってしまっていることはよくある。
+	スカジはこういった評価は気にしないが、ロドスへ報告する際、自分が得意とする戦術が妨害されやすいことに不平を言っており、現地の財産の破壊を最小限に抑えるという基準順守の実現はやはり難しそうである。
+	客観的に言えば、オペレータースカジは大量の敵に立ち向かうのは実際に得意とするところだが、彼女に必要な行動のうちの不必要な破壊は、必ず阻止しなければならない。例えば、市街区の建築物の粉砕、保護対象物の金属製防護壁を誤って引き裂いたことによる対象物の漏洩、単独で目標の要塞を攻撃したことによる谷の崩壊等だ。
+	彼女の一連の動作は近接オペレーターのスペクターと酷似している。
+	あわせて、スペクターと同様に、スカジはアーツに対しての知識が極度に欠如している。当然、スカジにとって、目標を早めに解決しておくのは最も効果的な戦い方だ。
+	この考えが、オペレータースカジの不確定要素の高さの一因だろう。彼女は任務規則の遵守や命令を受けるという方面では正しい行動をしているが、猛然と作動する大型機械さながらの彼女の戦闘スタイルは当然制限されるべきだ。
+	もちろん、任務の中にはロドスが彼女のこういった力を必要とするものもあるが。
+
+	Archive File 2 :
+	It is important to note that Skadi's combat tactics are unique and very dangerous. 
+	The engineering staff have tried to reverse-engineer her sword but all efforts have failed. The materials used to forge the sword are ordinary, but the craftsmanship is impossible to explain. Some Operators from remote areas have seen similar weapons, but are not aware of the source. 
+	Holding this giant sword would be difficult for most people, but not for the unstoppable Skadi. Unlike most Operators who wear heavy armor to protect themselves, Skadi relies only on her sword and her strength. 
+	The damage she inflicts is even more impressive than her imposing appearance. 
+	After returning from a mission with Skadi, other Operators often exaggerate her physical prowess in their reports, to the point where she sounds like a legendary monster. 
+	Although Skadi has little interest in debriefings, she humors the higher-ups anyway, typically complaining about how her teammates got in her way or that the rules of engagement are too constricting. 
+	Skadi excels at fighting large masses of enemies, but also tends to cause excessive property damage. This includes wrecked buildings, mangled fences, and once collapsing an entire fort. 
+	Skadi is very similar to another Operator, Specter. 
+	Much like Specter, Skadi is not good with Originium. But for Skadi, taking down a target as quickly as possible is the most effective tactic. 
+	All this taken together, Skadi is quite unstable. Although she is well-behaved, has followed orders, and completed her missions, she operates like an out-of-control freight train in combat and that should be restrained. 
+	Still, Rhodes Island may need a force of nature like Skadi for certain missions.
+
+	파일 자료 2 :
+	    한 가지 주목할 만한 점은, 오퍼레이터 스카디의 전투 방식이 매우 독특하고, 또 위험하다는 것이다. 엔지니어들은 스카디의 사브르를 분석하기 위해 많은 시도를 해봤지만, 이런 시도들은 대부분 실패로 끝났다. 현재 확인할 수 있는 점은, 이 검의 재질이 특수하진 않으나, 제련한 방식이 매우 특이하여 설명하기가 힘들다는 점 뿐이다. 과거 외딴 지역에서 생활했던 엔지니어들은 무역 활동 중 이와 비슷한 무기를 본적이 있다고 하였는데, 이 검이 어디서 온 것인지에 대해선 잘 알지 못한다고 하였다.
+	    보통 사람은 사용하기 힘든 거대한 검을 손에 들고 전장에 서있는 스카디의 기세는 왠만해선 막을 수 없다. 대다수의 오퍼레이터들이 중형 장갑을 착용해 자신을 보호하는 것과 달리, 스카디는 이 검과 자신의 힘에만 의지해 다수의 적에 대항한다.
+	    오퍼레이터 스카디의 체질이 공포스러울 정도라 한다면, 그녀가 보여주는 파괴력은 보통 사람의 상식을 초월한 수준이라 할 수 있다.
+	    스카디와 함께 작전 수행을 하고 돌아온 오퍼레이터들은 종종 스카디의 신체 능력을 과장하여 보고하곤 하는데, 다들 오퍼레이터 스카디를 동화 속이나 민요에나 등장할 법한 괴물 등으로 묘사한다.
+	    오퍼레이터 스카디는 이런 평가를 딱히 개의치 않아 하지만, 로도스 아일랜드로 보고서를 제출해, 자신의 뛰어난 전술이 쉽게 방해를 받는다거나, 현지 재산을 파손하는 상황을 피하라는 규칙은 준수하기가 힘들다고 원망하였다.
+	    객관적으로 보았을 때, 오퍼레이터 스카디는 다수의 적을 상대하는 데는 능하지만, 그녀는 작전 중 현지 건축물을 파괴하거나, 목표물을 보호하는 금속 케이스를 찢어버려 보호물이 새어 나오게 하거나, 단일 요새를 공격하는 데 산골짜기 전체를 붕괴시켜 버린다거나 하는 등의 불필요한 파괴 행위는 분명 제지되어야 한다.
+	    사실 오퍼레이터 스카디의 일부 행동들은, 또 다른 가드 오퍼레이터인 스펙터와 아주 흡사하다. 게다가 오퍼레이터 스펙터와 같이, 스카디 역시 오리지늄 아츠에 대한 인지가 극도로 부족하다. 물론, 오퍼레이터 스카디에게 있어선 사전에 적을 해치우는 게 가장 효율적인 대항 방식이겠지만 말이다.
+	    이로 미뤄보아, 오퍼레이터 스카디는 매우 높은 불확실성을 지녔다는 점을 알 수 있다. 비록 그녀는 임무 수칙을 준수하며, 상급자와 마찰도 없고, 평소 행실에도 문제가 없으나, 그녀의 대형 공정 기계를 가동하는 것과 같은 맹렬한 전투 방식은 어느 정도 제어가 필요하다.
+	    물론, 어떤 작전에서는 스카디의 이와 같은 파괴력이 필요하기도 하다.
+
+———————————————————————————————
+
+	档案资料三 :
+	【干员斯卡蒂挥舞巨剑划开装甲、劈碎防御、切断壁垒时的动作十分夸张，她的姿态扭曲而狂放，如同在战场上跳起异国的舞蹈，仿佛干员斯卡蒂并不是要击败面前的敌人，而是在和什么遥远而巨大的存在搏斗。】
+	这样的报告内容基本都被否决了，诗意的描述在战况报告中毫无必要。
+	但不能否认，因为干员斯卡蒂战斗时的难以理解的姿态，给许多干员带来了困扰。许多相似的原因，促成了斯卡蒂背离罗德岛干员群体，单纯执行任务的习惯。
+	也有不少热心的干员明确表示过，想要更多地与干员斯卡蒂交流，让她更好地融入罗德岛，只是这些干员始终是少数。
+	实际上，很多干员并不知道......干员斯卡蒂本人拒绝大多数合作请求的理由只有一条，那就是，“不希望给他人带来危险”。
+	干员斯卡蒂声称与她亲密交往的人最后都会遭遇不测，而她为了保护朋友，选择了不再拥有朋友。
+	虽然使人感到可疑，但罗德岛在干员斯卡蒂不违反守则的情况下，尊重她的选择。
+	无论是出身还是行为，无论是身躯还是经历，干员斯卡蒂身上的谜团依旧。
+	只是，偶尔也有干员目击到斯卡蒂坐在甲板边沿，低声哼唱歌曲的场景。虽然无法理解歌词，但有目击经历的干员基本都声称，那是低沉、悠长，让他们感到忧伤的歌曲。
+
+	第三資料 :
+	【オペレータースカジが巨大な剣を振るって装甲を切り裂き、守りを粉砕し、砦を切り崩したときの動作はかなり誇張されている。まるで戦場で異国の踊りを舞っているかの如く、オペレータースカジは目の前の敵を打ち負かしているのではなく、なにか遠く及ばない巨大な存在と戦っていたようだった、と言うように、彼女の姿も身勝手に歪曲されている。】
+	こういった報告内容は基本的に受理されない。詩的な描写は戦闘報告には全く不要である。
+	しかし無下に否認できないのは、戦闘時のオペレータースカジは理解しがたい姿であり、多くのオペレーターを困惑させるからだ。他にも似たような原因が多くあり、スカジはロドスのオペレーターの集団からますます距離を置かれているが、単純に任務を遂行する際の習慣なのだ。
+	あまり表に出さないオペレーターもいるとはいえ、スカジともっと交流したい、もっとロドスに馴染んでほしい、と思っているオペレーターは少数だ。
+	実際、多くのオペレーターは知らないが……スカジ本人が他人と関わらないようにしている理由はただ一つ、「他の人を危険に巻き込みたくない」からだ。
+	スカジは、自分と親しくなった人は最後にはみな不測の事故に遭遇しているので、友を守るために二度と友を作らないと決めた、と言っている。
+	疑わしく感じられるかもしれないが、オペレータースカジがロドスの規則を遵守している状況もあり、ロドスは彼女の選択を尊重する。
+	無論彼女の出身も行動も、身体も経歴も、オペレータースカジの身の上は依然として謎ばかりである。
+	ただ、スカジが甲板のふちで歌を歌っている光景を見かけるオペレーターがたまにいる。歌詞は理解できないが、目撃したオペレーターの証言によると、低く、ゆったりとしていて、どこか感傷的な歌だったという。
+
+	Archive File 3 :
+	[Skadi wields a giant sword that splits armor, cleaves enemies in two, and busts through barriers. Her face is distorted and intimidating as she rampages through the battlefield in a bloody dance. It is as though she is fighting more than just the enemy in front of her.] 
+	Reports like this are rejected, as such poetic embellishment is not appropriate for an official report. 
+	But it can't be denied that many Operators find Skadi's battlefield demeanor hard to comprehend. They are also perplexed by her propensity to abandon the squad and complete missions by herself. 
+	Some Operators suggest talking to her and helping her fit in to the company, but they are in the minority. 
+	Most people don't know the only reason Skadi refuses to cooperate with others is that she 'doesn't want to put anyone else in danger.' 
+	Skadi claims everyone who has ever been close to her has met an untimely end, and as such she has avoided socializing altogether. 
+	Despite our misgivings, Rhodes Island respects her social choices as long as she does not violate any of our rules. 
+	Regardless of where it stems from: her birth, her behavior, her body, or her experiences, the mystery of Skadi remains. 
+	Occasionally, others have seen her sitting on the edge of the deck, softly singing to herself. Those who heard the song reported that although they couldn't hear the lyrics, the tune was long, low, and imbued them with a sense of tremendous sorrow.
+
+	파일 자료 3 :
+	[오퍼레이터 스카디가 거대한 검을 휘둘러 장갑을 가르고, 방패를 쪼개 버리고, 적 진영을 갈라버릴 때의 동작은 과장이 매우 심한데, 그녀는 비틀거리면서 제멋대로인 자태를 보인다. 이런 모습은 오퍼레이터 스카디가 전장에서 어떤 이국의 춤을 추는 것 처럼 보여, 적을 격퇴하려는 것이 아니라 아득히 먼 곳의 어떤 거대한 존재와 사투를 벌이는 것처럼 보인다]
+	    이런 보고 내용은 보통 모두 부결되었는데, 시적인 묘사는 전황 보고서에 전혀 필요가 없기 때문이다. 다만 부인할 수 없는 것은, 오퍼레이터 스카디가 전투 시 보이는 이 이해하기 힘든 행동이 많은 오퍼레이터들을 당혹스럽게 하였다는 점이다. 이와 같은 이유들로 인해, 로도스 아일랜드의 오퍼레이터들은 스카디를 점점 더 멀리하였고, 그녀와는 단순히 임무만 함께 수행하는 사이가 되었다.
+	    일부 따뜻한 마음을 가진 오퍼레이터들이 오퍼레이터 스카디와 더 자주 교류하고, 그녀가 좀 더 로도스 아일랜드에 융화될 수 있도록 돕고 싶다고는 하지만, 이런 오퍼레이터는 늘 소수이다.
+	    사실, 많은 오퍼레이터들이 모르고 있는 것이 바로 오퍼레이터 스카디가 대부분의 협력 요청을 거절하는 이유인데, 그 이유는 단 하나, 바로 "타인을 위험에 빠트리고 싶지 않다"는 것이다.
+	    오퍼레이터 스카디는 자신과 친밀한 관계를 맺었던 사람들은 마지막에 모두 불행한 결말을 맞이할 것이기에, 친구를 지키기 위해 친구를 만들지 않기로 한 것이라 한다. 비록 의심스러운 부분이 존재하긴 하지만, 로도스 아일랜드는 오퍼레이터 스카디가 규정을 준수한다는 전제하에, 그녀의 선택을 존중하고 있다.
+	    출신, 행동, 신체, 과거까지, 오퍼레이터 스카디에 대한 의문점은 여전하다. 간혹 스카디가 갑판의 가장자리에 앉아 낮은 목소리로 노래를 흥얼거리는 장면이 다른 오퍼레이터들에 의해 목격되기도 한다. 노랫말을 이해할 수는 없으나, 직접 목격한 적이 있는 오퍼레이터들은 모두 그 노래가 소리가 작고, 길며, 듣는 이로 하여금 슬픈 감정을 느끼게 하는 노래였다고 말한다.
+
+———————————————————————————————
+
+	档案资料四 :
+	我和斯卡蒂交谈了很久。
+	她没有完全相信我，合作的态度也不明显。好在我已经猜到了她的需求，也自认为罗德岛有能力满足她。
+	我向她阐明了情报交换的意义。虽然很不情愿，斯卡蒂还是答应了，她同意出让自身的部分情报，当作罗德岛为她搜集信息的酬劳。
+	毕竟对她来说，自我孤立是种保护他人的行为，说到底，她也不是个坏人嘛。但当有实力、也有自保能力的团体肯帮她的时候，她是会犹豫的。
+	这样想的话，原因就很简单了，因为她其实很需要解决自身的问题。
+	在长谈中，我代博士许诺（如果博士觉得不行的话，那也请稍稍忍耐一下，套话很重要的！），如果未知的危险找上罗德岛，并且罗德岛难以反抗的话，罗德岛会交出斯卡蒂。
+	但我得出的结论是：
+	1. 有一个相当严密且秘密的组织，和斯卡蒂有着密切联系，不仅敌意很重藏得很深，而且擅长暴力手段。
+	2. 这个组织牵扯到的绝不可能只是斯卡蒂本人，从斯卡蒂的描述来看，我觉得他们是在拿斯卡蒂做一个实验；或者，是在一步步诱导并逼迫斯卡蒂做些什么事情；又或者，他们暂时处理不了，或是无暇处理斯卡蒂，却又想要打击她的精神状态，等待更好的时机。
+	
+	而斯卡蒂也说自己在寻找一样东西，这样东西也许能阻止某些惨剧发生。
+	她究竟哪里像个会离群索居的人了？不过就是个拖着很重的负担，无处容身的流浪者......
+	唉。她以前的流浪，不过是种逃离，而这逃离，大概也是她微薄的反抗。
+	
+	我的观点嘛......
+	我觉得，博士应该对斯卡蒂好好负责才行。一手包办干员的需求，难道不是培养信任关系的必要流程吗？
+	哎，凯尔希可不同意这点，如果她知道是我说的，大概会把我挂在舰桥上示众。
+	
+	——■■■
+
+	第四資料 :
+	私、スカジさんといっぱいお話ししました。
+	彼女は完全に私を信じていませんでしたし、協力的な態度でもありませんでした。ですが、私は折よく彼女の要求を見抜いていましたし、ロドスは彼女を満足させられる能力を有しているとも思っています。
+	私は彼女に情報交換の意義を説明しました。乗り気ではありませんでしたが、スカジさんは答えてくれました。自身に関する部分の情報を提出することに同意したのは、彼女が情報を集めるためのロドスへの報酬だとみなします。ですが、実力も自家保険能力も備わっている団体が彼女を進んで助ける時、彼女は懐疑的になるでしょう。
+	そんな風に思う理由はとても単純で、実は彼女にとっては自身の問題を解決することが非常に重要だからです。
+	お話し中、私はドクターに代わって、とある許可を出しました。（もしドクターがだめだと思っても、少しだけ我慢してください。とても重要な話なんです！）それは、もしロドスが未知の危険にさらされたら、かつロドスが抗いきれないかもしれなかったら、ロドスはスカジさんを手放すというものです。
+	私なりにこんな結論を出してみました。
+	まず、かなり厳密な秘密組織がスカジさんと密接な関係を結んでおり、その組織は敵意が強く根深いだけでなく、暴力的な手段を得意としています。
+	そして、その組織が巻き込んだのはおそらくスカジさんだけではないでしょう。スカジさんの発言からすると、組織はスカジさんを使って実験をしていたんじゃないかと思います。或いは、スカジさんに少しずつ近づき、何かさせようと誘導しているのか、もしくは組織がしばらくの間処理することができなかったか、スカジさんを処理する時間がなかったか、それかスカジさんを精神的に攻撃しようとしているのか、絶好の機会を伺っている、といったところでしょうか。
+	
+	スカジさんも、自分はとあるものを探していて、こんなものでも悲劇が起こるのを止められるかもしれない、と言っていました。
+	そんなスカジさんのどこが一匹狼に見えるのでしょう？重い負担を引き摺って、寄る辺のない流浪人ですが……、あっ。スカジさんの昔の流浪は、一種の逃亡ですが、この逃亡はきっとスカジさんのささやかな反抗でしょう。
+	
+	私の意見ですか……
+	私は、ドクターがスカジさんに対してきちんと責任を持つのなら良いと思います。オペレーターの要求を独断専行で受け入れるのは、信頼を育むのに必要な流れとは言えないのではないですか？ええ、ケルシー先生はきっとこの点に関しては同意しかねるでしょう。もし私が言っていることが理解されれば、おそらく私は艦橋につるされて晒し者にされるでしょうね。
+	
+	――■■■
+
+	Archive File 4 :
+	I spoke with Skadi at length. 
+	She didn't seem to believe me and was a bit uncooperative. But fortunately, I had anticipated her needs, and I think Rhodes Island would be good for her. 
+	I explained why we were speaking. She reluctantly agreed and promised to divulge certain information in exchange for Rhodes Island's intelligence gathering assistance. 
+	Her preference for isolation stems from a desire to protect others. She has no malicious intent. However, she is hesitant to trust a capable, powerful organization like Rhodes Island. 
+	This is because she believes she has to resolve her own issues. 
+	In our long conversation, I promised to her on behalf of the Doctor (and if the Doctor doesn't like this, well, it's for the greater good!) that if an unknown peril hit Rhodes Island that we could not resist, we would give her up. 
+	I came to two conclusions:
+	1. There is a secret organization to which Skadi has close ties. Not only is this organization hostile, it is violent. 
+	2. This organization goes far beyond just Skadi herself. From her description, I think they experimented on Skadi. Or they could be trying to entice her, little by little. Another possibility is they can't control her right now and don't want to deal with her until they've crushed her spirit. 
+	
+	Skadi also hoped she could find something that would prevent future tragedy. 
+	Does that sound antisocial? Wandering alone is a heavy burden to bear... 
+	Sigh, she became a wanderer because she was trying to escape, and also showing some rebellion. 
+	
+	I think... 
+	I think the Doctor should be in charge of Skadi. Isn't taking care of an Operator's needs necessary to build trust?
+	Oh, Kal'tsit will disagree with me. If she finds out I'm the one who said all this, she'll probably hang me from the bridge for everyone to see.
+	
+	--■■■
+
+	파일 자료 4 :
+	    스카디와 함께 긴 시간 동안 얘기를 나눴다. 그녀는 날 완전히 신뢰하지 않는다. 협력하는 태도 역시 명확하지 않다. 다행인 것은 내가 이미 그녀가 원하는 게 뭔지 알고 있으며, 로도스 아일랜드는 그녀가 원하는 것을 줄 수 있는 능력이 된다는 것이다.
+	    난 그녀에게 정보 교환의 의의에 대하여 자세히 설명해줬다. 썩 내켜 하지는 않는 모양이었지만, 그녀의 정보 일부를 로도스 아일랜드가 그녀를 위해 정보를 탐색하는 대가로서 내어주기로 했다.
+	    어쨌든 그녀에게 있어서 자신을 고립시키는 행위는 결국 타인을 보호하고자 하기 때문이니, 스카디도 따지고 보면 나쁜 사람은 아니리라. 하지만 실력 있고, 스스로를 보호할 수 있는 단체가 그녀를 도와주려 할 때, 그녀는 주저할 것이다. 
+	    그렇다면 원인은 매우 간단하다. 그녀는 자신의 문제를 꼭 해결하고 싶어 한다. 장시간의 대화 중, 난 박사를 대신해 약속(박사가 생각하기에 다소 부적절하더라도, 조금만 참아주길 바란다. 이런 요령은 매우 중요하니까!)했다. 만약 알 수 없는 위기가 로도스 아일랜드에 닥치게 된다면, 게다가 로도스 아일랜드가 이에 대항하기 어렵게 된다면, 로도스 아일랜드는 스카디를 넘겨줄 것이다.
+	    내가 내린 결론은,
+	1. 매우 엄격하며 비밀스러운 조직이 스카디와 밀접한 관계가 있으며, 이들은 적의가 깊고, 폭력적 수단을 사용하는데 능숙한 조직이다.
+	2. 이 조직과 관계된 인물이 절대 스카디 혼자만은 아닐 것이다. 스카디의 설명에 의하면, 그들은 스카디를 통해 어떤 실험을 하고 있거나, 조금씩 스카디가 어떤 일을 하도록 유도하고 있는 것으로 보인다. 만약 이것도 아니라면, 그들도 지금 당장은 처리가 어렵거나, 스카디를 처리할 겨를이 없어서, 그녀의 정신 상태에 타격을 주기 위해 더 나은 기회를 엿보고 있는 것일 수도 있다.
+	
+	    스카디 역시 자신이 같은 물건을 찾고 있다고 말했고, 이 물건이 어쩌면 어떤 참극이 발생하는 걸 막을 수도 있다고 했다. 그녀의 어디가 사람들을 피해 혼자 있길 원하는 그런 사람으로 보이나? 그녀는 그저 너무나도 큰 짐을 지고 있어, 어디에도 머물지 못하고 떠돌아다니고 있는 유랑자 일뿐이다…… 그녀가 예전에 떠돌아 다녔던 건 일종의 도망으로 볼 수 있지만, 이번 도망은 그녀의 미약한 반항으로 밖에 보이지 않는다.
+	
+	    내 관점 말인가…… 내 생각에는 박사가 스카디를 잘 돌보아 주어야 할 것 같다. 오퍼레이터의 요구를 들어주는 건 신뢰 관계를 돈독히 하기 위해 꼭 필요한 과정 아니겠나? 
+	    켈시는 이점에 대해 동의하지 않는다. 만약 그녀가 내가 이런 말을 했다는 걸 알게 된다면, 아마 나를 함교에 매달아 공개처형을 하려들겠지. 
+	
+	——■■■
+
+———————————————————————————————
+
+	晋升记录 :
+	咳，嗯哼。都到了吗。
+	我知道在座的各位医疗干员来参加这场秘密会议的目的......没错，我很清楚。
+	各位医疗干员——都对斯卡蒂有兴趣，对不对！
+	无论是内分泌系统皮肤系统，还是骨骼系统肌肉系统神经系统，甚至包括几乎纯净为零的源石适性......
+	究竟是怎样的生活环境造就了这具身躯？她究竟来自哪个种族？她那超出我们理解的运动方式和身体机能，究竟如何运作？
+	没错，没错......
+	围绕在斯卡蒂身上的秘密，实在太多了！
+	为了罗德岛，为了所有感染者，为了医疗科学——我们必须知道答案！
+	我的方案是，在斯卡蒂的餐食中，放入适量安眠药......具体剂量可以再讨论，两百人份大概差不多了，大概？
+	然后，假装将感觉不适的斯卡蒂扶送至最近的医务室......转移就完成了！
+	唔，解剖起来应该很困难，但我们只要获得比凯尔希医生所保存的资料还要多的资料......就可以了！
+	哪怕只是血液都可以！一点点血也没问题......甚至是，极少量肌肉组织？对，我认为，没有问题！
+	在座各位医疗干员，你们觉得——
+	
+	啊。
+	凯，凯尔希医生？您什么时候在那......
+	
+	——医疗干员华法琳的预谋被凯尔希医生发现，讲座被解散，并被扣除当月薪金前的演讲
+
+	昇進記録 :
+	あー、オホン。みな揃ったな。
+	いま着席しておる医療オペレーター各位がこの秘密の会議に参加した目的、妾とて分かっておる……いや、はっきりと理解しておる。
+	みな……スカジへの興味が尽きない、そうであろう！
+	内分泌器系と外皮系は無論のこと、骨格や筋肉、神経系、ほぼ完璧に0％であるアーツ適性に至るまで……
+	いったいどのような生活環境がこのような体躯を作り上げたのか？彼女はいったいどんな種族の出身なのか？彼女は妾達の理解を超える運動機能と身体機能を有しておるが、いったいどのようなからくりなのか？
+	そう、そうなのだ……
+	スカジを覆っている秘密は、実に多い！
+	ロドスの為に、あらゆる感染者の為に、医療科学の為に……妾達は必ず答えを知らねばならぬ！
+	妾の作戦はこうだ。スカジの食事中に、睡眠薬を盛って……具体的な投与量は検討してもよいな、大体200人分ほどが妥当かと思うが、どうだ？
+	そして、前後不覚のスカジに手を貸し、最寄りの医務室に運ぶ……移動はこれで完了だ！
+	ふむ、解剖するのは大変だろう。だが妾達はケルシー先生が保管しているよりも更に多くの資料を有しておる！これさえあれば……！
+	たとえ血液だけでも構わぬ！少しの血でも問題ない……わずかな筋線維でもな？そう、何も問題はない！妾はそう思う！
+	医療オペレーター各位、みなも……
+	
+	あ。
+	け、ケルシー先生？い、いつの間に……
+	
+	――医療オペレーターワルファリンの企てはケルシー医師によって明らかになった。会合は解散、あわせてその月の減給処分が下された。
+
+	Promotion Record :
+	Ahem. Everyone here? 
+	It's clear why the medical staff has assembled for this closed-door meeting... Yes, of course. 
+	You're all interested in Skadi, aren't you? 
+	Whether you are interested in her endocrine system, her skeletal system, her muscles, her nerves, or the fact that her Blood Originium-Crystal Density is almost zero... 
+	What kind of environment could foster that? What race is she? Her movement and physical functions are currently beyond our understanding, so how do they work? 
+	Right, right... 
+	Skadi has been kept a secret for too long! 
+	On behalf of Rhodes Island, all Infected people, and on behalf of science itself, we need to find answers! 
+	My plan is to put sedatives in her food... We'll work out the specific dosage, but enough for two hundred people should do, right? 
+	Then, when Skadi gets woozy, she will be taken to the nearest infirmary... And we've got her! 
+	Dissecting her would be a bit too much, but we only need a little more information to add to what Dr. Kal'tsit already has... That's it! 
+	Even if it's just a blood sample! A little bit of blood is no problem... Maybe a pinch of muscle tissue too? I think that won't be an issue, either! 
+	Everyone, don't you think... 
+	
+	Oh. 
+	 Dr. Kal'tsit? How long have you been here...? 
+	
+	-- Dr. Kal'tsit discovered Warfarin's plan during her secret meeting, and fined her one month's salary.
+
+	승진 기록 :
+	    흠흠, 다들 모였나?
+	    지금 착석한 메딕 오퍼레이터들이 오늘 이 비밀 회의에 참여하신 목적, 이 몸은 다 알고 있지…… 아니, 확실히 이해한다 할 수 있겠군 그래.
+	    다들…… 스카디에게 관심이 있는 거지? 맞지?
+	    내분비계통에서 외분비계통은 물론이고, 피부, 골격, 신경계, 모두 다 순수하다 못해 0에 가까운 오리지늄 수치……
+	    대체 어떤 생활 환경이 이런 몸을 만들었을까? 그녀는 대체 어떤 종족인가? 그녀의 우리의 상식을 초월하는 운동 방식과 신체 기능은 대체 어떻게 움직이는 걸까?
+	    그래, 맞아…… 스카디를 둘러싼 비밀이 너무나도 많다 이거야!
+	    로도스 아일랜드를 위해, 모든 감염자를 위해, 그리고 의료 과학을 위해서라도…… 우린 반드시 답안을 찾아야 한다 이 말씀이지!
+	    그래서 내 생각은, 일단 스카디의 음식에 적정량의 수면제를 넣어…… 구체적인 투입량은 다시 얘기해봐야겠지만, 대략 200인 분 정도의 양이면 충분하겠지?
+	    그런 후 상태가 이상한 스카디를 가장 가까운 의무실로 호송하면 끝!
+	    해부 작업은 아마 쉽지 않겠지만, 닥터 켈시가 가진 자료보다 더 많은 자료를 획득할 수만 있다면 그걸로 충분해!
+	    혈액만이라도!아주 조금의 혈액만이라도 괜찮으니까…… 혹은, 극소량의 근육 조직만이라도? 그래, 전혀 문제 없어! 이 몸은 그렇게 생각한다!
+	    그럼 메딕 오퍼레이터 여러분, 다들…… 
+	    어라?
+	다, 닥터 켈시? 언제부터 거기에…… 
+	
+	……메딕 오퍼레이터 와파린의 음모는 닥터 켈시에 의해 발각되었고, 회의는 해산되었으며, 와파린은 당월 급여가 삭감되었다.

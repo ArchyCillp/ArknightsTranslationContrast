@@ -1,11 +1,17 @@
 ID:
 	char_218_cuttle
 
-干员代号\Name:
+CV:
 	安哲拉
 	アンドレアナ
 	Andreana
 	안드레아나
+
+干员代号\Name:
+	佐仓薰
+	佐倉薫
+	Kaoru Sakura
+	카오루 사쿠라
 
 招聘合同\Character Usage:
 	罗德岛狙击干员安哲拉，在远处援护其他干员。
@@ -43,177 +49,405 @@ ID:
 	차단 사격 전술
 
 语音\Voices:
-	希望博士你不会像莫妮卡那么难搞。
 	君がモニカみたいに厄介な人じゃないことを願うよ、ドクター。
-	I hope you’re not a pain to deal with like Monica, Doctor.
+	I hope you're not a pain to deal with like Monica, Doctor.
 	네가 모니카처럼 성가신 사람이 아니길 바라지, 박사.
 
-	莫妮卡的品味是很古怪的，比如她为自己设计代号时，备选方案里都是贤者、面包师之类的古怪名字，现在这个白炽已经是相对比较正常的一个了。
 	モニカのセンスはかなり変わってる。例えば自分のコードネームを付ける時なんか、他の候補は「ワイズマン」とか「ベーカリー」とか変な名前ばっかだったし。今の「インキャンデセンス」は、まだまともな方かな。
 	Monica has a strange taste in just about everything. For example, when selecting her code name, her alternatives were all weird things like Wiseman or Baker. At least Incandescence is somewhat normal-sounding.
 	모니카의 센스는 꽤 특이해. 예를 들면, 자신의 코드네임을 지을 때도 다른 후보로는 '와이즈먼'이나 '베이커리' 같은 이상한 이름들뿐이었거든. 지금의 '인켄데센스'는 그나마 나은 편이려나.
 
-	那两个叫斯卡蒂和幽灵鲨的同族，我看到她们就好像......我不知道该怎么形容，就好像小说里常说的一见钟情的感觉？不会吧，这样我是不是应该好好打扮一下......
 	あのスカジとスペクターっていう同族の仲間、彼女たちを見た時にまるで……なんて説明したらいいか、小説でよく言う「一目惚れ」って感じ？いや、まさかね。だとしたらもうちょっとしっかりおめかししたほうがいいかな……
-	That Skadi and Spectre, those friends from the same race, when I see those two, it’s almost as if... I don’t know exactly how to describe it, but it’s kind of like that love at first sight from those fairy tales? No way, huh. If that was the case, maybe I should get dressed up...
+	That Skadi and Spectre, those friends from the same race, when I see those two, it's almost as if... I don't know exactly how to describe it, but it's kind of like that love at first sight from those fairy tales? No way, huh. If that was the case, maybe I should get dressed up...
 	그 스카디와 스펙터라는 동족의 동료, 그녀들을 봤을 땐 마치… 뭐라고 설명해야 하지? 소설에 자주 나오는 '첫눈에 반한다'는 느낌? 아니, 설마 그럴 리가… 그럼 좀 더 제대로 꾸미는 게 좋으려나…
 
-	其实，我一开始对于来罗德岛没什么兴趣，毕竟你们聘请的是莫妮卡，我只是她的保镖。不过她走了我就失业了，找工作也挺麻烦的，就跟来碰碰运气了。
 	正直、最初はロドスに来ることに何の興味もなかった。君たちがスカウトしたのはモニカで、私はただそのボディーガードってだけだったし。でもモニカがいなくなると失業する身だし、仕事を探すのも面倒だったから、運試しにって付いてきたんだ。
-	To be honest, I wasn’t really interested in coming to Rhodes Island at first. After all, Monica was the one you hired, and I’m just her bodyguard. But after she left, I ended up unemployed and finding new work is a pain in the ass, so I decided to take my chances.
+	To be honest, I wasn't really interested in coming to Rhodes Island at first. After all, Monica was the one you hired, and I'm just her bodyguard. But after she left, I ended up unemployed and finding new work is a pain in the ass, so I decided to take my chances.
 	솔직히 처음엔 로도스 아일랜드에 오는 것에 아무런 흥미도 없었어. 너희가 헤드헌팅한 건 모니카였고, 난 그저 그 보디가드였을 뿐이었잖아. 하지만 모니카가 없으면 실직하는 몸이고, 일을 찾는 것도 귀찮길래 운도 시험해 볼 겸 따라온 거야.
 
-	我和莫妮卡在伊比利亚时是一起生活的，照顾这个作息毫不规律又多事的女人真是一件麻烦的事。不过也没有办法，我和家里的关系不好，没有去处，是她收留的我。
 	モニカとはイベリアで一緒に暮らしてた。生活リズムがめちゃくちゃで落ち着きもないあいつの世話は本当に面倒だったよ。でもしょうがない、私は家族と仲が悪かったから他に行けるところもなくて、あいつが私を引き取ってくれたようなもんだから。
-	Monica and I lived together when we were in Iberia. It was a real hassle taking care of someone like that with no semblance of regularity in her life. But that’s just how things are. I don’t get along with my family, and I have nowhere else to go. So she just took me in.
+	Monica and I lived together when we were in Iberia. It was a real hassle taking care of someone like that with no semblance of regularity in her life. But that's just how things are. I don't get along with my family, and I have nowhere else to go. So she just took me in.
 	모니카랑은 이베리아에서 같이 살았었어. 생활 리듬은 엉망진창에, 정신 사나운 그 녀석을 챙기는 건 진짜 귀찮았지. 그래도 어쩔 수 없었어. 난 가족과 사이가 나빠서 달리 갈 곳도 없었고, 그 녀석이 날 받아준 거나 마찬가지였거든.
 
-	因为这把武器的造型，曾经我还被审判庭找上门，然后他们拆开看到构造后把我臭骂了一顿。虽然我也知道会让人误会，但我才不管，过了几次他们也就放弃了，让我别拿去吓人就行，哼哼。
 	この武器の見た目のせいで、昔裁判所に目をつけられてさ。それで分解して構造を見られたら、こっぴどく怒られたよ。自分でも誤解を招くのは分かってたけど、別に構わなかったね。何回かそんなことがあったうちに、向こうも諦めて、これで他人を脅さなきゃいいって言ってた。ふふっ。
-	Because of the way my weapon looks, I often got visits from the Tribunal. They disassembled it, saw its structure, and then chewed me out. Though I know it gives them the wrong idea, but that’s not really my problem. They get used to it after a while, as long as I don’t go around scaring people with it. Heheh.
+	Because of the way my weapon looks, I often got visits from the Tribunal. They disassembled it, saw its structure, and then chewed me out. Though I know it gives them the wrong idea, but that's not really my problem. They get used to it after a while, as long as I don't go around scaring people with it. Heheh.
 	이 무기 모양 때문에 옛날에 재판소에 찍혔었거든. 그래서 분해해서 구조를 보여줬더니 엄청나게 화를 내더라고. 나도 오해를 살 거라는 건 알았지만, 별로 신경은 안 썼어. 몇 번인가 그러다가 그쪽도 포기했는지 이걸로 다른 사람을 위협하지 않으면 괜찮다고 하더라. 후후.
 
-	博士，罗德岛应该是允许干员自由交友的吧？......不，呃，我只是想和那些拉特兰人交个朋友。我从小就非常喜欢拉特兰的枪械，所以才会自己仿制了这把枪。
 	ドクター、ロドスはオペレーターの自由交流は認めてるよね？……いや、その、あのラテラーノ人たちと友達になりたくてさ。小さい頃からラテラーノの銃が大好きで、自分でこのモデルガンも作ったくらいだから。
-	Doctor,  Rhodes Island doesn’t have any restrictions on their operators making friends, right? ...No, um, I just wanted to make friends with those Laterano folks. I’ve always loved Laterano’s guns ever since I was little, so I tried to emulate one when I made this gun.
+	Doctor,  Rhodes Island doesn't have any restrictions on their operators making friends, right? ...No, um, I just wanted to make friends with those Laterano folks. I've always loved Laterano's guns ever since I was little, so I tried to emulate one when I made this gun.
 	박사, 로도스 아일랜드는 오퍼레이터의 자유 교류를 인정하지? … 아니, 그게, 저 라테라노 사람들이랑 친구가 되고 싶어서. 어렸을 때부터 라테라노의 총을 엄청 좋아했거든, 이 모델 건도 직접 만들었을 정도로 말이야.
 
-	说起来，听我老妈说，我小的时候似乎被卷进过什么事情，不过那时候我太小了，现在已经完全没有印象了，她也不想告诉我的样子。反正我现在活得好好的，应该不是什么大事吧。
 	そういえば母さんが、私が小さい頃何かに巻き込まれたとか言ってたな。でも小さすぎて今じゃ何にも覚えてないし、母さんも教えたくないみたいだった。まぁ今ちゃんと生きてるんだから、大したことなかったってことでしょ。
-	Speaking of which, the old hag once told me that I got myself involved in something when I was little, though I was too young to remember anything at that time. She also doesn’t want to tell me anything. In any case, my life’s pretty normal now, so it must not have been a huge deal.
+	Speaking of which, the old hag once told me that I got myself involved in something when I was little, though I was too young to remember anything at that time. She also doesn't want to tell me anything. In any case, my life's pretty normal now, so it must not have been a huge deal.
 	그러고 보니 엄마가 내가 어렸을 때 무슨 사건에 휘말렸었다고 했었어. 하지만 너무 어려서 지금은 아무 기억도 안 나고, 엄마도 별로 가르쳐 주고 싶어하지 않는 것 같아 보였어. 뭐, 지금 잘 살아 있으니까 별거 아니었겠지.
 
-	博士，有时候我觉得你真是挺厉害的，我光是应付莫妮卡一个都觉得够呛了，而你要关心那么多干员......总之，要是遇到什么难事的话，你可以喊我，你知道，我在照顾人上，还蛮有心得的。
 	ドクター、時々君のことを本当にすごいなって思うよ。私はモニカ一人相手にするだけでも大変なのに、君はあれだけのオペレーターに気を配らなきゃいけないなんて……とにかく、何か困ることがあったら私を呼んで。私にお世話の心得があるのはよく知ってるでしょ。
 	Doctor, you really amaze me at times. Just dealing with Monica already takes everything out of me, and yet you have to take care of so many operators... In any case, let me know if you ever have any difficulties. I have some experience looking after people.
 	박사, 가끔 네가 진짜 대단하구나 싶어. 난 모니카 하나 상대하는 것만으로도 힘든데, 넌 저렇게 많은 오퍼레이터를 신경 써야 하잖아… 어쨌든 뭔가 곤란한 일이 있으면 날 불러. 나한테 남 돌보는 재주가 있다는 건 잘 알잖아?
 
-	作息不规律这点倒是和莫妮卡一模一样，哈......毛毯，毛毯......
 	生活リズムがめちゃくちゃなところはモニカにそっくりだな、はぁ……って、ブランケットブランケット……。
 	Your work-rest balance is all out of whack, just like Monica. *sigh*...Blanket, blanket...
 	생활 리듬이 엉망진창인 건 모니카랑 똑같네. 하아… 이런, 담요가 어딨더라…
 
-	我之前是莫妮卡......哦，现在应该叫她白炽了，反正算是她的保镖吧。这次她终于找到了正经工作，我也可以做些别的事了，总之，请多关照。
 	前はモニカ……いや、今は「インキャンデセンス」って呼ぶべきか。とにかくそいつのボディーガードをやってた。今回はようやくあいつにもまともな就職先が見つかったみたいだし、やっと私も違うことができるってわけだ。とにかく、これからよろしくね。
-	I used to be Monica’s... Err, I guess I should call her Incandescence now... Anyway, I used to be her bodyguard. She finally found herself a proper job now, so I’m free to do other stuff. Anyway, pleased to meet you.
+	I used to be Monica's... Err, I guess I should call her Incandescence now... Anyway, I used to be her bodyguard. She finally found herself a proper job now, so I'm free to do other stuff. Anyway, pleased to meet you.
 	전에는 모니카… 아니, 지금은 '인켄데센스'라고 해야 하나. 어쨌거나 그 녀석의 보디가드를 했었어. 이번엔 드디어 그 녀석한테도 제대로 된 일자리가 생긴 것 같으니, 드디어 나도 다른 걸 할 수 있게 됐다 이거지. 어쨌든, 앞으로 잘 부탁해.
 
-	这就是专业人士的水准吗......
 	これがプロのお手並みってやつか……。
 	So this is how the pros do things...
 	이게 프로의 실력이라는 건가…
 
-	来之前我还在想，医药公司的保安感觉也不会很忙，要是没应聘上也可以做做保洁什么的。老实说，现在我有点后悔。
 	ここに来る前は、製薬会社の警備員なんて忙しくないだろって思ってたし、もし受からなくても清掃員でもやればいいって考えてた。でも実のところ、今はちょっと後悔してる。
-	Before I came here, I thought being a security guard at a pharmaceutical company would be pretty chill. If I didn't make the cut, I could've been doing janitorial work or something. Not going to lie, I’m starting to regret that a bit now.
+	Before I came here, I thought being a security guard at a pharmaceutical company would be pretty chill. If I didn't make the cut, I could've been doing janitorial work or something. Not going to lie, I'm starting to regret that a bit now.
 	여기 오기 전엔 제약회사 경비원 같은 건 안 바쁜 줄 알았어. 만약에 떨어지더라도 청소원이라도 하면 된다고 생각했거든. 근데 사실, 지금은 좀 후회하고 있어.
 
-	其实我自己都没想到我能做到这一步呢......虽然以前没什么想法，不过切实地体会到自己变强了的感觉真不赖。谢了，博士。
 	正直自分でもここまでやってこれると思わなかった……今までは何も考えてなかったけど、強くなったって実感できるのは悪くないね。ありがとう、ドクター。
-	To be honest, I never thought I’d be able to achieve something like this... I never really gave it much thought before, but the feeling of getting stronger isn’t half bad. Thanks, Doctor.
+	To be honest, I never thought I'd be able to achieve something like this... I never really gave it much thought before, but the feeling of getting stronger isn't half bad. Thanks, Doctor.
 	솔직히 나도 여기까지 해낼 수 있을 줄은 몰랐어… 지금까지는 아무 생각도 없었는데 강해졌다고 실감할 수 있는 건 나쁘지 않네. 고마워, 박사.
 
-	到任务时间了吗？我知道了。
 	任務の時間？わかった。
 	Time for the mission? Got it.
 	임무 시간이야? 알았어.
 
-	我来带队？嗯......我尽力吧。
 	私がチームの指揮を？ふむ……善処してみる。
-	I’m leading? Mm... I’ll try my best.
+	I'm leading? Mm... I'll try my best.
 	내가 팀의 지휘를? 흠… 생각해 볼게.
 
-	希望不会遇到什么麻烦。
 	面倒事が起きなきゃいいんだけど。
-	Hopefully we don’t run into any trouble.
+	Hopefully we don't run into any trouble.
 	귀찮은 일이 생기지 않았으면 좋겠는데.
 
-	啊，麻烦来了。
 	あー、めんどいのが来た。
 	Ugh, here we go again.
 	아~ 귀찮은 게 왔네.
 
-	我准备好了。
 	準備はできてる。
 	Ready to move.
 	준비는 끝났어.
 
-	啊，想听点音乐。
 	はぁ、音楽が聴きたいな。
-	*sigh* I’d like to listen to some music.
+	*sigh* I'd like to listen to some music.
 	하아, 음악 듣고 싶다.
 
-	敌人还没有发现我的样子。
 	まだ敵には気付かれてないみたい。
-	The enemy doesn’t seem to have noticed yet.
+	The enemy doesn't seem to have noticed yet.
 	아직 적이 눈치채지 못한 모양이야.
 
-	这里视野很好。
 	ここは視界良好だね。
-	The visibility’s pretty good here.
+	The visibility's pretty good here.
 	여기는 시계가 양호하네.
 
-	集中精神......
 	集中……。
 	Focus...
 	집중……
 
-	你好，再见。
 	こんにちは、そしてさよなら。
 	Hello. And goodbye.
 	안녕. 그리고 잘 가.
 
-	这个人的穿搭还不错......
 	こいつ、服のセンスは悪くないな……。
-	That person’s pretty fashionable...
+	That person's pretty fashionable...
 	이 녀석, 패션 센스는 나쁘지 않은데……
 
-	好烦，敌人好多。
 	数が多いな、うざ。
-	There’s a lot of ‘em. What a pain.
+	There's a lot of 'em. What a pain.
 	수가 많네. 귀찮게.
 
-	博士，吃糖吗？放松一下比较好，我也有点累了。
 	ドクター、キャンディー食べる？少しリラックスしたほうがいいよ。私もちょっと疲れたかも。
-	Doctor, want some candy? You should relax a bit. I’m pretty tired too.
+	Doctor, want some candy? You should relax a bit. I'm pretty tired too.
 	박사, 사탕 먹을래? 조금 긴장을 푸는 편이 좋아. 나도 좀 지친 것 같네.
 
-	我再去确认一下有没有漏掉的。
 	討ち漏らしはいないかもう一回確認してくるよ。
-	I’ll double-check to see if we missed anything.
+	I'll double-check to see if we missed anything.
 	놓친 녀석이 없는지 한 번 더 확인하고 올게.
 
-	差不多就行吗？也好，我也嫌麻烦。
 	ほどほどにしとく？わかった、これ以上面倒なことは私もごめんだし。
-	Good enough? All right. I don’t want to deal with that annoying stuff either.
+	Good enough? All right. I don't want to deal with that annoying stuff either.
 	적당히 해두라고? 알았어, 이 이상 성가신 일은 나도 사양이니까.
 
-	博士，走，我已经确保了一条撤退路线了。
 	ドクター、行こう、撤退ルートは確保してあるから。
-	Let’s go, Doctor. I’ve secured the retreat route.
+	Let's go, Doctor. I've secured the retreat route.
 	박사, 가자. 퇴각 루트는 확보해 놨어.
 
-	先熟悉一下环境好了。
 	まずは周りの環境に慣れよう。
-	Guess I’ll take a look around first.
+	Guess I'll take a look around first.
 	먼저 주변 환경에 익숙해지자.
 
-	喂。
 	おい。
 	Hey...
 	어이.
 
-	博士，需要我帮忙？
 	ドクター、なんか私に手伝ってほしいことある？
 	Doctor, is there anything I can help with?
 	박사, 뭔가 내가 도울 일 있어?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，吃糖吗？
 	ドクター、キャンディー食べる？
 	Doctor, want some candy?
 	박사, 사탕 먹을래?
+
+干员档案\Background:
+	基础档案 :
+	【代号】安哲拉
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】伊比利亚
+	【生日】11月16日
+	【种族】阿戈尔
+	【身高】166cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】アンドレアナ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】イベリア
+	【誕生日】11月16日
+	【種族】エーギル
+	【身長】166cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Andreana
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Iberia
+	[Date of Birth] Nov 16
+	[Race] Ægir
+	[Height] 166cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 안드레아나
+	[성별] 여
+	[전투 경험] 없음
+	[출신지] 이베리아
+	[생일] 11월 16일
+	[종족] 에기르
+	[신장] 166cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】缺陷
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】欠落
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Excellent
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Flawed
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 부족
+
+———————————————————————————————
+
+	客观履历 :
+	伊比利亚出身，干员白炽的保镖，与白炽一同接受罗德岛的雇佣。
+	拥有良好的狙击素养，接受专业培训后，作为狙击干员活跃在各类任务中。
+
+	個人履歴 :
+	イベリア出身、インキャンデセンスのボディガードとして、共にロドスに加入した。
+	射撃の腕が優れており、専門の訓練を受けた後、狙撃オペレーターとして活躍している。
+
+	Profile :
+	Born in Iberia, Andreana serves as a bodyguard to Operator Incandescence. The two joined Rhodes Island together. 
+	She came with a strong foundation as a sniper. After receiving professional training, she has served well as a Sniper Operator.
+
+	프로필 :
+	    이베리아 출신 오퍼레이터. 오퍼레이터 인켄데센스의 호위를 담당하고 있으며, 인켄데센스와 함께 로도스 아일랜드에 합류하였다.
+	    우수한 저격 소질을 갖추었으며, 전용 훈련을 거친 후 현재는 스나이퍼 오퍼레이터로서 각종 임무에서 활약 중이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员安哲拉没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员安哲拉甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Andreana has no signs of Originium infections. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L
+	Operator Andreana rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 안드레아나에겐 광석병 감염 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 안드레아나는 오리지늄 접촉 기회가 극도로 적음.
+
+———————————————————————————————
+
+	档案资料一 :
+	有些随性的伊比利亚人。
+	平时不太主动开口，也较少改变表情，因此刚加入罗德岛时被以为是沉默寡言的类型，但随着时间的推进以及关系的加深，她善于聆听以及会照顾他人的一面得到展现，这种印象不攻自破。
+
+	第一資料 :
+	ややマイペースなイベリア人。
+	口数が少なく表情も豊かではないため、ロドスに入ったばかりの頃は、周りに寡黙という印象を与えた。しかし共に過ごす時間が増えるにつれ、彼女の聞き上手で面倒見が良い面があらわになり、寡黙であるといった評判はすっかりなくなった。
+
+	Archive File 1 :
+	A laid-back Iberian. 
+	She tends to be slow to speak, and shows little on her face. When Andreana first came to Rhodes Island, she was mistaken for the quiet, uncommunicative type. But after getting to know her, and seeing how caring this great listener is, that impression quickly collapsed.
+
+	파일 자료 1 :
+	    약간 제멋대로인 이베리아인.
+	    평소 말수가 적고, 무표정해 처음 로도스 아일랜드에 합류했을 당시 사람들은 안드레아나를 과묵한 타입의 사람이라고 생각했다. 하지만 시간이 흐르고, 서로 관계가 가까워짐에 따라, 안드레아나가 타인의 말을 경청하고, 타인을 보살피는 것에 능하다는 사실을 알게 되면서 이런 첫인상은 점점 사라져 갔다.
+
+———————————————————————————————
+
+	档案资料二 :
+	虽然安哲拉经常提到伊比利亚，但她和白炽的简历是在雷姆必拓一座城市的罗德岛办事处收到的。
+	当然，这其实是理所当然的事，因为罗德岛在伊比利亚并没有也无法拥有办事处。事实上，出现在伊比利亚之外的伊比利亚人，目前看来，恐怕只有一种理由——主动离开。而安哲拉和白炽以及两人的家人就是共同离开伊比利亚并在雷姆必拓定居的，两人向罗德岛投简历则是在那不久之后。
+	至于为什么是两人的家人也一起这一点，安哲拉本人在提到这件事时也显得有些无奈。因为不顾家里反对坚持要学习射击的关系，她和家里的关系一度闹得很僵，并因此离家出走而认识了白炽。但人与家庭的联系终究没有那么简单割舍，最终反而成了两人的家人变得有往来了的情况，而离开伊比利亚，自然也是两家共同商量的决定。
+
+	第二資料 :
+	アンドレアナはよくイベリアのことを口にするが、彼女とインキャンデセンスの履歴書を受け取ったのは、レム・ビリトンのある都市にあるロドスの事務所だった。
+	ロドスはイベリアに事務所を建てることができないため、これも当然のことである。イベリアを離れたイベリア人は、自分の意思で故郷を捨てた者がほとんどだ。アンドレアナとインキャンデセンスもまた、家族と共にイベリアを離れ、レム・ビリトンに定住したのである。しばらくして、二人はロドスに履歴書を送った。
+	なぜ二人が家族を連れてイベリアを離れたかについて語った際、アンドレアナはどこか仕方がなかったといった表情を浮かべた。彼女は昔、家族の反対を押しきって射撃を学んだせいで、ギクシャクした家族関係の中にいた。その結果家出をした彼女はインキャンデセンスに出会ったのだが、家族の絆はそう安々と断ち切れるものでもなく、最終的には二人の家族が付き合うようになり、関係は好転。その後二人の家族が相談した結果、イベリアを離れることが決まったのだ。
+
+	Archive File 2 :
+	While Andreana speaks often of Iberia, she and Incandescence came to us through a branch office in Rim Billiton. 
+	Of course, this is to be expected, considering Rhodes Island does not and cannot have an office in Iberia. In fact, there's only one kind of Iberian we find outside Iberia, as far as we know——the ones who decided to leave. Incandescence, Andreana and their respective families left Iberia together to settle in Rim Billiton. The two submitted their resumes to Rhodes Island not long after. 
+	As for why they brought their families, Andreana appears troubled when posed with the question. She insisted on learning to shoot, despite her family's objections. That troubled their relationship and she ran away from home, where she met Incandescence. But in the end, family ties are tough to break. The two families ultimately made contact and agreed to leave Iberia as a group.
+
+	파일 자료 2 :
+	    안드레아나가 이베리아를 자주 언급하긴 하지만, 그녀와 인켄데센스의 이력서를 접수받은 곳은 림 빌리턴에 있는 한 도시에 위치한 로도스 아일랜드 사무소였다.
+	    사실 당연한 일이기도 한게, 로도스 아일랜드는 이베리아에 사무소가 없을 뿐더러, 차릴 수도 없기 때문이다. 사실상 이베리아 밖에서 활동하는 이베리아인은 현재로선 스스로 그곳을 떠났다고 밖에 볼 수 없다. 안드레아나와 인켄데센스, 그리고 두 사람의 가족은 함께 이베리아를 떠나 림 빌리턴에 정착했으며, 두 사람이 로도스 아일랜드에 자신들의 이력서를 제출한 건 그로부터 얼마 지나지 않은 시점이었다.
+	    어째서 두 사람의 가족들이 함께하게 되었냐는 점을 물었을 때, 안드레아나는 자신도 별다른 방법이 없었다는 듯한 반응을 보였다. 가족의 반대를 무릅쓰고 사격을 배운 까닭에, 안드레아나는 가족들과의 관계가 악화되었고, 이 때문에 집을 떠난 후 인켄데센스를 만나게 되었다. 다만 혈연 지간이란 게 그렇게 쉽게 끊어버릴 수 있는 관계가 아닌지라, 결국엔 오히려 두 사람의 집안이 아주 가까운 사이로 발전하였고, 이베리아를 떠나는 것 역시 두 집안이 함께 상의해서 내린 결정이었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	安哲拉本人的兴趣十分引人注目。是的，就是她从不离身的那把铳。
+	在刚加入罗德岛时，这把铳着实令部分对铳有所认知的干员产生了相当困惑——“难道她是长得像伊比利亚人的拉特兰人？”“她抢了拉特兰人？这么酷？”“伊比利亚人也能用铳了？”类似的疑问几乎每天都在发生。毕竟，如果说黑钢用铳可以用企业机密来解释，一个非拉特兰人的自由佣兵大摇大摆地使用铳，未免太过耸人听闻。
+	当然，这种困惑在看到她的铳中射出的是墨弹立刻得到解决。很显然，她的武器只是做成了枪械外表的特种弩，而之所以这么做，是因为安哲拉本人是一个堪称狂热的枪械爱好者。
+	据她所说，由于伊比利亚受到了相当的拉特兰文化的熏陶，伊比利亚人对拉特兰文化的接受度是非常高的。而她是在小时候看到教会中的雕像后，从此喜欢上了铳这种武器，并花费了大量时间学习机械制造，为源石技艺有缺陷的自己制作了一把外表是铳的弩。
+	但这里有一个值得注意的点，安哲拉自己也没有发现的是，她提到，审判庭为了她的铳而几次找到她，发现不是真正的铳后把她臭骂了一顿就离开了。这似乎是合理的事，但根据我们有限的情报，审判庭应当是伊比利亚相当有权力的官方组织，这样一个组织，为了一件一开始就确认无害的事“几次”找到她，是一件有些古怪的事，让人感觉他们更像是想要借这个由头找到些什么其他东西。
+	不过，由于我们对封闭已久的伊比利亚缺少其内部政治势力以及形势的准确情报，无法基于这件事作出有效的判断，而且，至少安哲拉本人也表示她并没有因此受到伤害或者多余的盘问，那么这件事就应当止步于推测。
+
+	第三資料 :
+	アンドレアナの趣味は、実に目を引くものである。そう、彼女が肌身離さず持ち歩いている「銃」のことだ。
+	ロドスに入ったばかりの頃、銃を知るオペレーターたちは困惑した――
+	「もしかして彼女はイベリア人の顔をしているだけで、実はラテラーノ人だったりとか？」「ラテラーノ人からぶん取ったってか？すごくね？」「イベリア人も銃を使えるようになったのか？」といった疑問は絶えなかった。
+	BSWが銃を使える理由は、企業秘密という言葉で説明できるが、ラテラーノ人でもないフリーの傭兵が公然と銃を使っているのは、それほどあり得ない光景だったのである。
+	しかしその銃から撃ち出された墨の弾を見た瞬間、全ての疑問は消えた。彼女の武器は、銃の外見をしている特殊なクロスボウに過ぎなかったのだ。見た目が銃なのは、彼女本人が重度の銃器マニアだからである。
+	彼女によると、イベリアではラテラーノ文化の受容度が高い。彼女が銃という武器を好きになったのは、子供の頃に教会の彫像を見たからだという。その後彼女は自らのアーツの欠陥を補うことのできる、銃の外形をしたクロスボウを作るために、長い時間を費やした。
+	その銃のことで、裁判所の者が何度か彼女を訪ねてきたことがあるが、本物の銃でないと発覚すると、彼らは彼女に説教をして帰っていったらしい。彼女は気づいていないようだが、我々が持っている少ない情報から判断する限り、裁判所はイベリア屈指の権力組織である。そのような組織が、無害だと判明しているにもかかわらず、「何度」も彼女と接触することは異常だ。もしかしたら彼らは「銃」を口実に、他の何かを探っているのではないだろうか。
+	しかし、長年閉鎖的な政策を執っているイベリアの内部情勢について情報が少なすぎるため、この件について我々は有力な判断はできない。それに、アンドレアナ本人が実害に遭っていないと言う以上、深入りしないほうがいいだろう。
+
+	Archive File 3 :
+	Andreana's hobbies certainly draw the eye. Particularly the gun she is never seen without. 
+	When she first joined Rhodes Island, her weapon perplexed many of our operators who were familiar with guns— Questions such as: 'She's a Lateranan who looks like an Iberian?' 'Did she rob a Lateranan? Such a badass?' 'Iberians can use guns too?' swirled around endlessly. After all, Blacksteel's guns are assumed to be some kind of corporate secret, but a non-Laterano freelance mercenary strutting around with a huge gun gets people talking. 
+	Of course, everything becomes clear once you see her shoot an inkball out of that thing. Apparently, it's a modified crossbow made to look like a gun. Because Andreana is a committed firearms enthusiast. 
+	According to her, Laterano culture has had a strong influence on the Iberians, who often display an affection for it. After seeing one of the statues in church as a child, Andreana fell in love with the weapons, and devoted herself to mechanical engineering in hopes of making a crossbow in the style of a gun, since she lacks the affinity for Originium Arts necessary to use a real one herself. 
+	But there is a point here worth examining, and one Andreana herself did not realize. She mentioned that she was dragged into court over the weapon several times, only to be chastised when it became clear it was not a real gun. That seems reasonable. But with the limited information we have, the Iberian courts should be very powerful. And for such an organization to grab her 'several times' for something known to be harmless the first time indicates that they may have been using it as a pretense to find something else. 
+	However, since we lack reliable intelligence about the internal politics of a country closed so long to outsiders, we are not able to form any concrete judgments about the situation. And since, at least according to Andreana herself, she has not been harmed or unnecessarily interrogated, we leave the matter to speculation.
+
+	파일 자료 3 :
+	    안드레아나의 한 습관은 사람들의 주목을 끌기 충분했는데, 그것은 바로 그녀가 언제나 총을 소지하고 다닌다는 것이다.
+	    안드레아나가 막 로도스 아일랜드에 합류했을 당시, 그녀의 총은 총을 좀 안다고 하는 일부 오퍼레이터들을 굉장히 당황하게 만들었다. “이베리아인처럼 생긴 라테라노인?”, “라테라노인으로부터 강탈한건가? 멋진걸?”, “이베리아인도 총을 쓸 수 있었던가?”와 같은 의문들이 매일 생겨났다. 어쨌든 블랙스틸이 사용하는 총은 기업 기밀이라 할 수 있으므로, 라테라노인이 아닌 자유 용병이 으스대며 그 총을 사용한다면 놀랄 수 밖에 없다.
+	    물론 이런 당혹스러움은 그녀의 총에서 발사되는 먹탄을 보면 바로 해소된다. 안드레아나의 무기는 총기 모양을 한 특수한 석궁일 뿐이며, 안드레아나 본인이 열성적인 총기 매니아기 때문에 이런 모양새를 하고 있는 것일 뿐이다.
+	    안드레아나의 말에 따르면, 이베리아는 라테라노 문화의 영향을 많이 받아왔기에, 이베리아인은 라테라노 문화에 대한 수용도가 매우 높다고 한다. 그녀는 어린 시절 교회에서 한 조각상을 본 후부터 총기류를 좋아하게 되었으며, 긴 시간 동안 기계 제작을 배워 오리지늄 아츠 능력이 부족한 자신을 위한 총 모양의 석궁을 만들게 되었다.
+	    여기서 언급할만한 부분은, 재판소에서 그녀의 총기 관련 안건으로 인해 여러번 그녀를 찾았었는데, 결국 그 총이 진짜 총이 아니란 것을 알게된 후 그녀에게 욕을 한바탕 퍼붓고 떠났단 점이다. 언뜻 그럴싸한 이야기로 들리겠지만, 우리 측의 제한된 정보에 의하면 재판소는 이베리아에서 상당한 권력을 가진 정부 조직으로, 이런 곳에서 고작 그녀가 가진 총의 위험성을 확인하기 위해 '몇 차례'나 그녀를 찾았다는 사실은 듣는 이로 하여금 그들이 진짜 찾고자 했던 것은 다른 물건이 아니었을까 하는 의구심을 품게 할 만큼 이상한 사건이다.
+	    하지만 우리는 이미 봉쇄된 지 오래된 이베리아의 내부 정치 세력이나 현지 상황에 대한 정확한 정보가 없기에, 정확한 판단을 내릴 수 없다. 또한 안드레아나 본인 역시 이로 인해 피해를 입거나, 추가 심문을 받지는 않았다고 하니, 이 사건은 이 정도로 마무리하겠다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	很显然，虽然医疗部的成员，甚至华法琳都不了解；但凯尔希明显对斯卡蒂和幽灵鲨也好，安哲拉身上的谜团也好，都有非常清楚的认知，并且她判断她们的加入不会对罗德岛有什么损害，或者至少她们加入的利益高于潜在的损害。否则，罗德岛是不会接纳她们的。
+	至于写下这段话的我，其实我也不知道她们具体有什么来历，哈哈，虽然凯尔希觉得告诉我也没有关系，不过我主动拒绝了。知道得太多会很累，这些事交给凯尔希去想就好了。
+	根据我从凯尔希只言片语中得到的理解，安哲拉与幽灵鲨和斯卡蒂之间的区别，就好像滴了一滴墨的白开水和墨水的区别，而滴墨这件事本身，违反了生物应有的尊严，以至于凯尔希对此表达了明显的不屑：“有的人已经把手伸向了他们不该涉足的领域，这种愚蠢，倒是很有他们的风范。”
+	——■■■
+
+	第四資料 :
+	【権限記録】 
+	医療部のメンバー、あるいはワルファリンさえ知らないだろうが、ケルシーはスカジやスペクター、そしてアンドレアナの謎の全てを把握しているに違いない。そのうえでケルシーは、彼女たちの加入によって、ロドスに損害はない、あるいは得られる利益が潜在的損害を上回ると判断している。そうでなければ、彼女たちを受け入れることはなかっただろう。 
+	このようなことを書いていながら、実は彼女たちの経歴について私も詳しくは知らないのだ。ケルシーが話さないのではなく、私が聞くのを拒否したからだ。色々知りすぎると疲れる。そういうことはケルシーに任せればいい。
+	それでもケルシーの言葉の端から推測できたものはある。アンドレアナとスペクターやスカジとの違いは、一滴の墨が入った水と、純粋な墨との違いのようなものだ。だが水に墨を入れること自体が、生物本来の尊厳をひどく損ねるものであり、それにケルシーは軽蔑の意を示している――「ある者たちは関わるべきではない領域に手を伸ばしている。その愚かさはとても様になっているのだがな。」
+	――■■■
+
+	Archive File 4 :
+	[Classified Log] 
+	It was clear that while Kal'tsit had a detailed knowledge of both Skadi and Spectre, and even seemed equally familiar with Andreana, the rest of the Medical Department staff, including Warfarin, knew little about them. And just like with the others, Kal'tsit determined that Andreana's presence at Rhodes Island would not be adverse. Or at least that the benefits of them joining us would outweigh the potential harm. Otherwise, they would have been found inadmissible. 
+	As for me, I don't know what the story is. Haha, Kal'tsit actually said it would be okay to tell me, but I refused. Knowing too much can get you in trouble. I'll leave this one to Kal'tsit.
+	What I took from her is that the difference between Andreana on one side and Specter and Skadi on the other is something like that between a drop of ink into clear water and a proper inkwell. The drop of ink is itself an infringement on the dignity of life, to the point that Kal'tsit expressed clear disdain for it: 'There are those who have reached their hands into places they do not belong. Those for whom this stupidity is very much in character.' 
+	——■■■
+
+	파일 자료 4 :
+	[제한된 기록]
+	    의료부원, 심지어 와파린조차 분명 제대로 이해하지 못하고 있지만, 켈시는 스카디와 스펙터는 물론, 안드레아나가 지닌 수수께끼에 대해서도 명확히 알고 있으며, 그녀들의 합류가 로도스 아일랜드에 어떤 손해도 끼치지 않을 것임을, 혹은 최소한 이들이 가져다줄 이익이 잠재적 리스크보다 더 크다는 점을 알고 있었다. 그렇지 않고서야 로도스 아일랜드가 그녀들을 받아들일 리는 없으니 말이다.
+	    이렇게 기록을 남기고 있는 나 역시 사실 그녀들의 과거에 대해선 아는 바가 없다, 하하. 켈시는 내가 사실을 안다 해도 상관없다 했지만, 내 쪽에서 사양했다. 아는 게 많으면 그만큼 피곤해지는 법이니, 이런 일은 켈시에게 맡기는 편이 좋을 것이다.
+	    켈시가 한  말 중 일부를 통해 나는 안드레아나, 스펙터, 스카디 사이의 차이가, 먹물 한 방울을 떨어뜨린 물과 그냥 먹물 정도의 차이가 있다고 이해하였다. 먹물을 떨어뜨린 행위 자체가, 생물이라면 응당 갖춰야 할 존엄을 위배한 행위이며, 이에 대해 켈시는 크게 신경 쓰지 않는 듯, "어떤 자들은 그들이 손대지 말아야 할 영역을 이미 침범해버렸다. 이런 어리석음이야말로 오히려 그들의 스타일이라고 해야 하나."라는 말을 하였다.
+	——■■■
+
+———————————————————————————————
+
+	晋升资料 :
+	有关安哲拉提到的，面对斯卡蒂与幽灵鲨两名干员时怪异的身体状况，以及她与两名干员相同的在源石技艺上的缺陷问题，医疗部陆续为她做了数次不同角度和方向的身体检查。
+	从结果上来说，除了再次得出她的身体素质比普通人要综合强出不少的结论以外，并没有新的收获。用华法琳医生的话来说，就是“什么嘛，这点程度，和斯卡蒂的身体完全没法比。”虽然这句话难免产生歧义，不过确实相比斯卡蒂，安哲拉的身体素质完全可以用身体发育较好来解释——毕竟总有人天生强壮。只能说，让她当狙击干员或许有屈才的嫌疑，只不过这也是个人选择，罗德岛不会刻意干涉。
+	总而言之，在确认她的身体并没有异常之后，这件事也就不了了之，只是保险起见，医疗部依然建议安哲拉定期接受检查。
+
+	昇進資料 :
+	スカジとスペクターの二人と対面する時に起こる身体の異状、及び二人と共通したアーツの欠陥というアンドレアナの訴えについて、医療部は数回に渡り彼女の身体に様々な検査を行った。 
+	しかし検査の結果、彼女の身体能力が普通の人より遥かに高いと再確認したこと以外、新たな発見はなかった。ワルファリン医師の言葉を借りるなら、「なんだ、この程度ではスカジの身体の比べ物にもならない」となる。誤解を招く言い方だが、アンドレアナの身体能力は、狙撃手にしては勿体ないレベルだ。だがロドスはオペレーター自身の選択を尊重する方針である。 
+	彼女の身体に異常がないとわかると、この件は終わりになった。保険として、医療部はアンドレアナに定期検査を受けることを薦めた。
+
+	Promotion File :
+	Regarding Andreana's strange physical condition upon encountering Operators Skadi and Specter, as well as the similar Arts deficiency she expresses, Medical has performed several physical examinations using different methods and approaches. 
+	The results showed no new information. We were only able to conclude, once again, that she is a lot stronger overall than the average person. To use Dr. Warfarin's phrasing, 'What the hell? At this level, we can't compare her to Skadi's physique at all.' While there is some ambiguity in that statement, it is true that when compared to Skadi, Andreana's physical prowess could well be explained by better physical development. There are always those who are naturally strong. Let's just say that making her a Sniper Operator may be a bit beneath her. But Rhodes Island won't interfere with her personal choice. 
+	All in all, after confirming no anomalies in her physical condition, the matter has been closed. But, to be on the safe side, Medical still recommends Andreana receive regular checkups.
+
+	승진 자료 :
+	    안드레아나가 언급한 것들에 관해, 안드레아나가 스카디와 스펙터, 두 오퍼레이터를 대면했을 때 나타나는 이상한 신체 변화, 그리고 그녀와 두 오퍼레이터 모두 오리지늄 아츠 방면의 능력이 부족한 문제에 대해 의료부는 수차례에 걸쳐 여러 방향과 각도로 신체 검사를 진행해 오고 있다.
+	    결론적으로 말해 안드레아나의 신체 소질이 종합적으로 일반인보다 상당히 강하다는 결론만을 재확인 했을뿐, 별다른 소득은 없었다. 와파린은 "뭐야, 이 정도라면 스카디의 신체와는 전혀 비교할 수 없겠는데"라고 말했다. 이 말은 여러가지 의미로 해석될 수 있겠지만, 확실히 스카디와 비교했을 때, 안드레아나의 신체는 발육 상태가 우수하다는 정도로 설명할 수 있겠다. 어쨌든 보통 사람들보다 더 건장하게 태어나는 사람은 있는 법이니. 안드레아나에게 스나이퍼 오퍼레이터 역할을 맡기는 것은 그녀의 재능을 낭비하는 행위라고 밖에 할 수 없지만, 이는 본인의 선택이기에 로도스 아일랜드도 간섭할 수 없다.
+	    좌우지간, 안드레아나의 신체에 아무런 이상이 없다는 것을 확인하게된 이후 이 안건은 흐지부지 되었지만, 만일을 대비해서, 의료부는 그녀에게 정기 검진을 받을 것을 제안하였다.

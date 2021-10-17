@@ -1,648 +1,1620 @@
 龙门  企鹅物流据点
+龍門　ペンギン急便のアジト
+Penguin Logistics Lungmen Crib
+용문, 펭귄 로지스틱스 물류센터
 
 [name="能天使"]唉，唉唉唉这不对啊！
+[name="エクシア"]え！？　ええ～っ！？　ちょっと！　ちょっと待ってよ！
+[name="Exusiai"]Eh? Ehhh? Now this isn't right!
+[name="엑시아"]앗, 아아앗! 안 돼!
 
 [name="德克萨斯"]你输了。
+[name="テキサス"]待たない。お前の負けだ。
+[name="Texas"]You lost.
+[name="텍사스"]네가 졌다.
 
 [name="能天使"]不玩了，每次都是你赢，没意思。
+[name="エクシア"]もうや～めた。毎回毎回テキサスばっか勝って、つまんないよ。
+[name="Exusiai"]I'm done. This is no fun. You win every time.
+[name="엑시아"]안 할래. 매번 나만 지잖아, 재미없다고.
 
 [name="德克萨斯"]好。
+[name="テキサス"]わかった。
+[name="Texas"]Alright.
+[name="텍사스"]그러지.
 
 [name="能天使"]我们还是看会儿电影吧。
+[name="エクシア"]やっぱり映画でも見よーよ。
+[name="Exusiai"]Why don't we watch a movie instead.
+[name="엑시아"]우리 영화 보자.
 
 [name="能天使"]要什么零食？
+[name="エクシア"]なんか食べる？
+[name="Exusiai"]Want any snacks?
+[name="엑시아"]간식은 뭐로 할까?
 
 [name="德克萨斯"]老样子。
+[name="テキサス"]いつもの。
+[name="Texas"]The usual.
+[name="텍사스"]평소대로.
 
 [name="能天使"]好叻。
+[name="エクシア"]オッケー！
+[name="Exusiai"]You got it.
+[name="엑시아"]오케이~
 
 [name="能天使"]喏，你最爱的饼干。
+[name="エクシア"]ほら、テキサスが大好きなクッキー。
+[name="Exusiai"]Here, your favorite biscuits.
+[name="엑시아"]자, 네가 제일 좋아하는 쿠키야~
 
 [name="德克萨斯"]谢谢。
+[name="テキサス"]ありがと。
+[name="Texas"]Thanks.
+[name="텍사스"]고마워.
 
 [name="能天使"]嗯......这个爆炸场面不够啊，还没我在学校里搞的有味道。
+[name="エクシア"]う～ん……この爆破シーン、なんか物足りないな。あたしが学校でやらかしたやつの方がまだマシだし。
+[name="Exusiai"]Hmm... The explosion in this scene isn't quite up to snuff. It's nowhere as good as what I put together back in school.
+[name="엑시아"]으음…… 폭발 씬이 별로네. 내가 학교에서 했던 것보다도 후져.
 
 [name="能天使"]虽然这个主演的乌萨斯看上去有点眼熟......
+[name="エクシア"]この、主演のウルサス人ってのはどっかで見たことある気がするんだけど……
+[name="Exusiai"]The Ursus actress playing the lead looks kinda familiar though...
+[name="엑시아"]저 우르수스 주연 배우, 어디서 봤는데……
 
 [name="德克萨斯"]嗯。
+[name="テキサス"]そうだな。
+[name="Texas"]Yeah.
+[name="텍사스"]응.
 
 [name="能天使"]嗯？你以前也炸过东西吗？
+[name="エクシア"]ん？　もしかしてテキサスもなんか爆破したことがあるの？
+[name="Exusiai"]Hmm? You blew stuff up before too?
+[name="엑시아"]으응? 너도 예전에 뭔가를 폭발시켜 본 적 있던 거야?
 
 [name="德克萨斯"]算是吧。
+[name="テキサス"]ああ、まあ。
+[name="Texas"]You could say that.
+[name="텍사스"]그렇다고 할 수 있겠네.
 
 [name="能天使"]唉，以前完全没听你提过啊，说来听听？
+[name="エクシア"]え～！？　その話今まで聞いたことがないよ。どんな感じ？
+[name="Exusiai"]Huh, how come you never told me about it. What's the story?
+[name="엑시아"]엇, 완전 처음 듣는 이야기잖아. 자세히 좀 이야기해 봐.
 
 [name="德克萨斯"]没什么好说的。
+[name="テキサス"]たいした話でもない。
+[name="Texas"]It's not worth talking about.
+[name="텍사스"]딱히 들려줄 만한 이야기는 없어.
 
 [name="能天使"]分享一下嘛，我又不会告诉别人。
+[name="エクシア"]教えてってば、誰にも言わないからさー。
+[name="Exusiai"]Come on, tell me. I promise I won't tell anyone.
+[name="엑시아"]들려줘. 다른 사람한테는 절대 말하지 않을게.
 
 [name="能天使"]是炸了校舍、还是礼堂、还是其他什么的？嗯？
+[name="エクシア"]何を爆破したの？　校舎？　礼拝堂？　それとも他の何か？　ねえねえ。
+[name="Exusiai"]Did you blow up a school? An assembly hall? Something else, hm?
+[name="엑시아"]숙소, 예배당 뭐 그런 걸 폭발시킨 거야? 또 뭘 날려버렸는데? 응응?
 
 [name="德克萨斯"]......我想应该是一座塔。
+[name="テキサス"]……あれは、塔だろうな。
+[name="Texas"]I think it was a tower...
+[name="텍사스"]……탑이었을 거다.
 
 [name="能天使"]塔？
+[name="エクシア"]塔？
+[name="Exusiai"]You blew up a tower?!
+[name="엑시아"]탑?
 
 [name="德克萨斯"]嗯，塔，斜塔。
+[name="テキサス"]ああ、塔だ。斜めに傾いていた塔だ。
+[name="Texas"]Yeah, a tower. A leaning tower, to be precise.
+[name="텍사스"]그래. 탑, 기울어진 탑.
 
 [name="德克萨斯"]算是......当地地标建筑一样的东西。
+[name="テキサス"]ある種の……地元のシンボルといった建築物だな。
+[name="Texas"]It was kinda... a landmark there.
+[name="텍사스"]으음…… 랜드마크 같은 거지.
 
 [name="能天使"]那你一定吃处分了吧。
+[name="エクシア"]じゃあ絶対に処分食らったでしょ？
+[name="Exusiai"]Whoa, I bet you didn't get out of that one easy.
+[name="엑시아"]백퍼 징계 먹었겠네.
 
 [name="德克萨斯"]我只是为了家族工作。
+[name="テキサス"]ただファミリーのために働いただけだ。
+[name="Texas"]I did it for the Family.
+[name="텍사스"]패밀리 비즈니스였을 뿐이야.
 
 [name="德克萨斯"]不像你，能背着处分还炸十几次。
+[name="テキサス"]処分を食らっても懲りずに十何回も爆破を繰り返しているお前とは違う。
+[name="Texas"]Not like you, still blowing things up left and right even after you were reprimanded.
+[name="텍사스"]너처럼 징계나 처분을 감수하면서까지 몇 번이고 사건을 터뜨린 게 아니라.
 
 [name="能天使"]啊这个嘛——
+[name="エクシア"]それはさぁ――
+[name="Exusiai"]Oh, about that.
+[name="엑시아"]앗, 그건 그러니까……
 
 [name="能天使"]学校就是让人开心的地方，当然要挑最有意思的东西玩啦。
+[name="エクシア"]ほら、学校って、人を楽しませる場所でしょ？　当然一番面白いことにしなきゃね！
+[name="Exusiai"]School's meant to be fun. Of course I had to do the most fun thing I could possibly do.
+[name="엑시아"]학교는 재미있어야 한다고. 그래서 제일 재미있는 사건을 터뜨린 것뿐이야.
 
 [name="能天使"]而且我也不是真的想炸坏什么东西，只是......
+[name="エクシア"]それにあたしだって、別に物を壊したくてやってるわけじゃないんだよ。ただ……
+[name="Exusiai"]Besides, I don't actually want to get anything blown up. It's just...
+[name="엑시아"]게다가 나도 뭔가를 정말 날려버리려 했던 게 아니라, 그냥……
 
 [name="德克萨斯"]只是？
+[name="テキサス"]ただ？
+[name="Texas"]Just what?
+[name="텍사스"]그냥?
 
 [name="能天使"]只是想恶作剧的时候总是会出点小意外......
+[name="エクシア"]ただ、いたずらをしようとすると、いつもちょっとしたアクシデントが起こるんだよね……
+[name="Exusiai"]I have these little accidents whenever I'm pulling my pranks...
+[name="엑시아"]뜻밖의 작은 사고가 일어난 것뿐이야……
 
 [name="能天使"]就拿莫斯提马那次举个例子吧。
+[name="エクシア"]たとえばほら、モスティマの時なんかさ。
+[name="Exusiai"]Let's take that one time with Mostima for example.
+[name="엑시아"]가령 모스티마의 경우는,
 
 [name="能天使"]原本只是想吓唬她一下来着。
+[name="エクシア"]本当は彼女をちょっと驚かそうと思っただけなんだよね。
+[name="Exusiai"]I was just going to give her a little scare.
+[name="엑시아"]그냥 겁만 주려고 했던 건데……
 
 [name="德克萨斯"]莫斯提马？
+[name="テキサス"]モスティマ？
+[name="Texas"]Scare who? Mostima?
+[name="텍사스"]모스티마?
 
 [name="能天使"]嗯啊，那个时候她还是我学姐，又是学校里的优等生，经常上台发言。
+[name="エクシア"]そそ。あの頃モスティマはまだあたしの学校の先輩だったんだよ。優等生で、しょっちゅう演台に上ってなんかしゃべってたよね。
+[name="Exusiai"]Yeah, we went to the same school, and she was a real model student. She would give these speeches...
+[name="엑시아"]응, 그때도 모스티마는 내 선배였어. 학교에서 알아주는 우등생이라 종종 강단에 오르곤 했지.
 
 [name="能天使"]所以我在她上讲台的路上放了个小弹簧装置，结果，呃......
+[name="エクシア"]だからあたしはその演台に行く通路に、小さなバネ仕掛けを置いたわけ。そしたらさ……
+[name="Exusiai"]And so this one time, I installed a little spring platform on the way up to the podium, and, uh...
+[name="엑시아"]그래서 강단 위에 스프링 장치를 몰래 설치했는데 결국엔……
 
 [name="德克萨斯"]莫斯提马弹出去了？
+[name="テキサス"]……モスティマが、どこかへ飛んで行った？
+[name="Texas"]She got sprung right up?
+[name="텍사스"]모스티마를 날려버린 건가?
 
 [name="德克萨斯"]怎么会，她轻轻一跳就过去啦......
+[name="エクシア"]あのモスティマだよ、そんなわけないでしょ。むしろあっさり跳び越えちゃってさ……
+[name="Texas"]Of course not. She leaped over it and got through without a scratch.
+[name="텍사스"]슬쩍 밟은 것만으로도 날아가다니 대체 무슨 짓을 한 거지?
 
 [name="德克萨斯"]后面跟着一起上台的学姐踩上然后飞出去了。
+[name="エクシア"]後ろを歩いてた別の先輩が罠を踏んで、飛んでっちゃったの。
+[name="Texas"]The other girl who was right behind her wasn't so lucky, though.
+[name="텍사스"]뒤따라서 강단에 오르던 선배들도 그걸 밟고 날아가 버렸겠군.
 
 [name="德克萨斯"]这和爆炸没关系吧。
+[name="テキサス"]その話、爆破とは何も関係ないだろう。
+[name="Texas"]What does that have to do with blowing stuff up?
+[name="텍사스"]폭발과는 상관없잖아.
 
 [name="能天使"]有啊。
+[name="エクシア"]あるよ。
+[name="Exusiai"]I'm getting to that.
+[name="엑시아"]아니.
 
 [name="能天使"]你大概不知道，拉特兰这种场合都要荷枪实弹以示尊重的。
+[name="エクシア"]テキサスは知らないだろうけど、ラテラーノではそういう場面になると、敬意を示すとか言って、実弾の入った銃器を担いで行くのが礼儀なんだ。
+[name="Exusiai"]I guess you wouldn't know, but, in Laterano, we carry guns and live rounds to these events as a show of respect.
+[name="엑시아"]아마 텍사스는 잘 모르겠지만 라테라노 같은 곳에선 존경의 뜻으로 실탄이 든 총을 소지하곤 하거든.
 
 [name="能天使"]恰好那位学姐带的是，呃，重武器。
+[name="エクシア"]で、その先輩が担いでたのがさぁ……重火器だったんだよね。
+[name="Exusiai"]And, well, it just so happens that girl was carrying a heavy weapon.
+[name="엑시아"]그런데 선배가 갖고 있던 게 하필… 중화기였던 거야.
 
 [name="能天使"]也不知道是经验还是条件反射什么的，她很熟练地开枪射击用反作用力让自己平安落地了。
+[name="エクシア"]経験なのか条件反射なのか知らないけど、先輩はその銃で一発ぶっ放して、その反動で無事着地したの。
+[name="Exusiai"]I'm not sure if she did that out of instinct or experience, but she fired her weapon to propel herself and land safely.
+[name="엑시아"]경험인지 조건반사인지 모르겠지만, 발포한 뒤에 반동을 이용해 무사히 착지하더라고.
 
 [name="能天使"]然后她打出去的那发爆炸弹正好炸断了承重柱，礼堂就塌了一角......
+[name="エクシア"]けど撃った弾は屋根を支えてる柱をものの見事に破壊しちゃって、礼拝堂がちょっとばかり崩れちゃったんだよね……
+[name="Exusiai"]The thing is, there was a load-bearing column where she shot her grenade, so that blew open a corner of the assembly hall.
+[name="엑시아"]그런데 선배가 쏜 폭탄이 하필이면 건물 기둥을 맞히는 바람에 예배당 한쪽이 무너져 내리고 말았어……
 
 [name="德克萨斯"]你真的只是想要恶作剧吗？
+[name="テキサス"]エクシア、本当にただのいたずらだったのか？
+[name="Texas"]Were you really just playing a prank?
+[name="텍사스"]그게 그냥 장난이었다고?
 
 [name="能天使"]真的！我不是故意的！
+[name="エクシア"]本当だよ！　わざとじゃないってば！
+[name="Exusiai"]I was! I didn't mean to at all!
+[name="엑시아"]정말이야, 일부러 그런 게 아니라고!
 
 [name="德克萨斯"]......
+[name="テキサス"]……
+[name="Texas"]...
+[name="텍사스"]……
 
 [name="德克萨斯"]哈......你要是敢在叙拉古这么做，第二天就会物理性死亡知道吗？
+[name="テキサス"]はぁ……もしシラクーザでそんなことをしでかしてみろ、翌日には物理的に死んでいるぞ。
+[name="Texas"]Hah... If you dared pull something like that in Siracusa, you would've been killed the very next day.
+[name="텍사스"]하아…… 시라쿠사에서 그런 짓을 저질렀다간, 바로 다음 날에 생물학적으로 사망 처리됐을 거다. 알기나 해?
 
 [name="德克萨斯"]掉脑袋都算好的，没什么痛苦。
+[name="テキサス"]首を落とされるのはまだいい方だ。苦しまずにすむからな。
+[name="Texas"]Getting your head chopped off is the best deal. You hardly feel any pain that way.
+[name="텍사스"]머리가 날아가는 게 차라리 나을걸, 적어도 고통은 없을 테니.
 
 [name="德克萨斯"]要是你真让别人在公开场合出丑，可就没那么简单了。
+[name="テキサス"]だが、もし公の場で他人に恥をかかせたなら、そんなに簡単にはいかない。
+[name="Texas"]If you embarrass somebody in public, things won't be as easy.
+[name="텍사스"]공개석상에서 다른 사람에게 망신을 줬다면 그 정도에서 끝나진 않았을 거다.
 
 [name="德克萨斯"]大概会被人断手断脚塞嘴里沉河底——
+[name="テキサス"]そうだな……手足を切り落とされて、口が塞がれて川底に沈められるといったところか――
+[name="Texas"]You might get your hands and legs chopped off, gagged, and tossed in the river—
+[name="텍사스"]손발이 잘리고 입이 틀어막힌 채 강바닥에 던져졌겠지……
 
 [name="能天使"]噫！
+[name="エクシア"]ひえぇっ！
+[name="Exusiai"]Eek!
+[name="엑시아"]히익!
 
 [name="德克萨斯"]——完了还会把你捞起来挂在路口震慑其他有你这样危险想法的人。
+[name="テキサス"]――その後、死体は引き上げて道端に吊るされる。お前のような危険思想を持った人間への見せしめとしてな。
+[name="Texas"]—They might even fish you out just to hang your corpse up on the streetcorner to warn anyone who might come up with a funny idea like you.
+[name="텍사스"]……그런 뒤에 널 끌어올려 거리에 내걸었을 거야. 너처럼 위험한 생각을 지닌 사람들을 향한 경고의 뜻으로.
 
 [name="能天使"]哈哈哈......
+[name="エクシア"]あはは……
+[name="Exusiai"]Hahaha...
+[name="엑시아"]하.하.하……
 
 [name="能天使"]都是假的，对吧......
+[name="エクシア"]冗談、だよね……？
+[name="Exusiai"]You're kidding, right...?
+[name="엑시아"]다 뻥이지? ……그렇지?
 
 [name="德克萨斯"]是真的。
+[name="テキサス"]私が冗談を言うと思うか。
+[name="Texas"]I'm not.
+[name="텍사스"]아니.
 
 [name="能天使"]别吓唬我啊......这些事都是以前上课的时候不懂事才干的。
+[name="エクシア"]……脅かさないでよ。学生時代に物を知らなくてやっただけなんだからさ。
+[name="Exusiai"]Stop scaring me... I didn't know better when I was still in school. I wouldn't dare do anything like that these days!
+[name="엑시아"]거, 겁주지 마…… 그 일들은 학교에 다녔던 철부지 시절에나 저질렀던 장난일 뿐이라고.
 
 [name="德克萨斯"]哦？
+[name="テキサス"]へえ？
+[name="Texas"]Oh?
+[name="텍사스"]음?
 
 [name="能天使"]现在我可是认真工作努力干活的普通人，不会给别人添麻烦的。
+[name="エクシア"]今のあたしは、真面目に働くフツーの社会人だからさ。他の人に迷惑かけたりしないって！
+[name="Exusiai"]I'm a hardworking girl nowadays. You won't find me giving anyone any trouble.
+[name="엑시아"]지금은 열심히 살아가는 평범한 사람이라고. 더는 민폐 끼치진 않으니까.
 
 [name="能天使"]只是有时候，偶尔，嗯......
+[name="エクシア"]まぁ時々……たまに、うん……
+[name="Exusiai"]It's just... sometimes... Uh...
+[name="엑시아"]다만 가끔은 으음……
 
 [name="能天使"]还挺想搞点小东西捉弄一下老板，你觉得怎么样？
+[name="エクシア"]ちょっとした仕掛けでボスをからかおう、なんて考えることもあるんだけど。テキサスはどう思う？
+[name="Exusiai"]I kinda wanna do something just to pull a prank on the boss. What do you think?
+[name="엑시아"]보스를 놀리고 싶다는 생각이 들기도 하는데, 어떻게 생각해?
 
 [name="德克萨斯"]以你的破坏力，我建议你还是不——
+[name="テキサス"]お前の破壊力を考慮すると、やめておいたほうが――
+[name="Texas"]Considering how destructive your pranks get, I suggest you—
+[name="텍사스"]네 파괴력이라면 아무래도 안 그러……
 
 [name="德克萨斯"]啊......老——
+[name="テキサス"]あ。ボ……
+[name="Texas"]Oh... Bo—
+[name="텍사스"]아, 보……
 
 [name="大帝"]哈呀！
+[name="エンペラー"]チョアーッ！
+[name="Emperor"]Hyah!
+[name="엠퍼러"]호이짜!
 
 [name="能天使"]啊！
+[name="エクシア"]あっ！
+[name="Exusiai"]Ah!
+[name="엑시아"]아얏!
 
 [name="能天使"]谁啊突然打我脑——
+[name="エクシア"]誰だよ急に頭なんか叩き――
+[name="Exusiai"]Who just slapped—
+[name="엑시아"]누구야?! 왜 남의 머리를……
 
 [name="能天使"]唉，老板你回来啦。今天怎么那么早呀，啊哈哈......
+[name="エクシア"]あれ、ボス！　おかえり。今日は早いじゃん？　あはは……
+[name="Exusiai"]Oh, hey, Boss. You're early today. Ahaha...
+[name="엑시아"]핫! 보스, 언제 왔어? 오늘따라 일찍 왔네. 하.하.하……
 
 [name="大帝"]没事就不能逮你们了？
+[name="エンペラー"]暇だからって悪巧みしてる社員の頭を叩いちゃいけねえのか？
+[name="Emperor"]What? I got nothin' else to do, might as well check on my girls.
+[name="엠퍼러"]일 없다고 땡땡이? 한번 돌아볼래 뺑뺑이?!
 
 [name="能天使"]哪有，只是恰好还没来活，哈哈。
+[name="エクシア"]悪巧みって、そんなあははは……ただちょうど仕事がなかったからお喋りしてただけだよ。
+[name="Exusiai"]Turns out we don't have any work now either. Haha.
+[name="엑시아"]땡땡이라니! 일이 아직 안 들어와서 그런 거야. 하.하!
 
 [name="大帝"]那现在就变一个给你。
+[name="エンペラー"]じゃあ今すぐお前にひとつ、仕事をやるよ。
+[name="Emperor"]No work? Here's something for you, then.
+[name="엠퍼러"]그럼 내가 주지 네가 해야 할 일.
 
 [name="大帝"]啊哈，找到了。
+[name="エンペラー"]あった。ほらよ！
+[name="Emperor"]Aha, here we go.
+[name="엠퍼러"]아, 여기 있군.
 
 [name="大帝"]赶紧把这个货送过去。
+[name="エンペラー"]今すぐこいつを届けてこい。
+[name="Emperor"]Get your ass movin' and deliver this for me.
+[name="엠퍼러"]여기 해야 할 일, 여기 딜리버리.
 
 [name="大帝"]这是地址和收货人。
+[name="エンペラー"]住所と受取人の伝票はこれだ。
+[name="Emperor"]Here's the address.
+[name="엠퍼러"]주소와 수취인은 여기.
 
 [name="能天使"]嗯......
+[name="エクシア"]どれどれ……
+[name="Exusiai"]Hmm...
+[name="엑시아"]으음……
 
 [name="能天使"]好的，我知道了，现在就出发。
+[name="エクシア"]オッケー！　ちゃちゃっと片づけてくるよ。
+[name="Exusiai"]Alright, I got it. I'm leaving now.
+[name="엑시아"]오, 오케이! 지금 당장 출발할게.
 
 [name="大帝"]德克萨斯，你和她一起去，这是臭老鼠的货，麻烦得很。
+[name="エンペラー"]テキサス、お前も一緒に行け。老いぼれネズミの荷物だ。ちっとばかり面倒くせぇ代物なんでな。
+[name="Emperor"]Texas, you go too. It's from the stinkin' old rat. You know what a pain that crusty-ass mouse is.
+[name="엠퍼러"]요 텍사스, 너도 쟤 따라가. 그 쥐 할아범 물건이라 꽤 성가실 거다.
 
 [name="德克萨斯"]......我知道了。
+[name="テキサス"]……わかった。
+[name="Texas"]Got it...
+[name="텍사스"]……알겠어.
 
 [name="大帝"]送完快点回来，那些家伙赔偿我的黑胶快到了，你们要帮我搬。
+[name="エンペラー"]届けたらすぐに戻ってこい。あいつらが弁償してくれたレコードがもうすぐ届くから、運ぶのを手伝え。
+[name="Emperor"]Come back quick. The vinyls those bitches owe me are gonna be here soon. You two are haulin' that shit for me.
+[name="엠퍼러"]일 마치면 바로 컴백, 주문했던 LP 판 곧 온대, 돌아오면 그거 옮겨야 돼.
 
 [name="德克萨斯"]好。
+[name="テキサス"]了解。
+[name="Texas"]Alright.
+[name="텍사스"]알았어.
 
 [name="能天使"]放心交给我们吧！
+[name="エクシア"]あたしたちにどーんと任せてよ！
+[name="Exusiai"]You can count on us!
+[name="엑시아"]맡겨만 줘!
 
 [name="能天使"]啧，这时间路怎么堵成这样。
+[name="エクシア"]うわぁ、この時間にどうしてこんなに混んでんのさ！？
+[name="Exusiai"]Ugh, why is there a traffic jam at this time of the day?
+[name="엑시아"]쫌! 이 시간에 차가 왜 이렇게 막히는 거야?
 
 [name="能天使"]不应该啊。
+[name="エクシア"]おっかしいなぁ。
+[name="Exusiai"]It doesn't make sense.
+[name="엑시아"]설마 아니겠지.
 
 [name="能天使"]难道说，又是哪位快递从业人员上公路飙车撞了？
+[name="エクシア"]……まさか、またどこかの運送業者が道路でかっ飛ばして事故ったとか？
+[name="Exusiai"]Did the guys from that other company crash their street racers again?
+[name="엑시아"]누가 또 배달하다가 도로에서 사고라도 친 건……
 
 [name="能天使"]唉，德克萨斯，你从刚刚开始就在那发呆，想什么呢？
+[name="エクシア"]はぁ……テキサス、さっきからハンドル握ったままボケーッとしてて危ないよ。何考えてんの？
+[name="Exusiai"]Eh, Texas, you've been spacing out the whole time. Something on your mind?
+[name="엑시아"]텍사스! 아까부터 멍하니 무슨 생각 하는 거야?
 
 [name="能天使"]......
+[name="エクシア"]……
+[name="Exusiai"]......
+[name="엑시아"]……
 
 [name="能天使"]德克萨斯？
+[name="エクシア"]……テキサス？
+[name="Exusiai"]Texas?
+[name="엑시아"]텍사스?
 
 [name="德克萨斯"]（从地址上判断，这件货是给上次那些叙拉古黑帮的。）
+[name="テキサス"]（住所を見る限り、この荷物はこの間のシラクーザのマフィア宛てのものだ。）
+[name="Texas"](Going by the address, this package is for the Siracusan mafia we ran into last time.)
+[name="텍사스"](주소를 보니 지난번 시라쿠사의 조직에게 보내는 건가 보군.)
 
 [name="德克萨斯"]（可他们不已经是鼠王的人了吗？为什么要通过我们来递送货物？）
+[name="テキサス"]（だが、奴らはすでに鼠王の配下になったのではなかったか？　どうして私たちに荷物を運ばせるんだ？）
+[name="Texas"](But they don't work for the Rat King anymore. Why does he want us to deliver their packages?)
+[name="텍사스"](하지만 그들은 더는 래트킹의 조직원이 아닐 텐데? 어째서 우리에게 운송을 의뢰한 거지?)
 
 [name="能天使"]德——克——萨——斯——
+[name="エクシア"]テ～キ～サ～ス～
+[name="Exusiai"]T—e—x—a—s—
+[name="엑시아"]텍~사~스~으!
 
 [name="德克萨斯"]嗯？！怎么，有敌人？！
+[name="テキサス"]わっ！？　なんだ、敵かっ！？
+[name="Texas"]Huh?! What's wrong? An ambush?!
+[name="텍사스"]응?! 뭐야, 적인가?!
 
 [name="能天使"]这里只有车，哪来的敌人哦。
+[name="エクシア"]周りを見てみなよ。敵がいるように見える？
+[name="Exusiai"]Nothing but cars here. No room for an ambush.
+[name="엑시아"]여긴 차밖에 없는데 어디에 적이 있다는 거야!
 
 [name="德克萨斯"]抱歉......
+[name="テキサス"]あっ……すまない……
+[name="Texas"]Sorry...
+[name="텍사스"]미안……
 
 [name="能天使"]嗯......
+[name="エクシア"]うーん……
+[name="Exusiai"]Hmm...
+[name="엑시아"]으응……
 
 [name="能天使"]德克萨斯，这批货是不是给前几个月被我们打得满大街乱跑的黑衣人的？
+[name="エクシア"]ねえ、テキサス。この荷物ってさ、何ヶ月か前、あたしたちにやられて街中を逃げ回ってたあの黒服たち宛てじゃない？
+[name="Exusiai"]Texas, is this package for those guys in black we beat up a few months ago?
+[name="엑시아"]텍사스, 이거 몇 달 전에 우리한테 얻어터져서 도망쳤던 조직원한테 보내는 거지?
 
 [name="德克萨斯"]你怎么知道？
+[name="テキサス"]なぜそれがわかる？
+[name="Texas"]How'd you figure?
+[name="텍사스"]어떻게 안 거야?
 
 [name="能天使"]我们做物流的不就是会顺带多打听些消息嘛。
+[name="エクシア"]あたしたちみたいな物を運ぶ人間はさ、ついでにいろんな情報を聞くもんでしょ。
+[name="Exusiai"]I mean, we're in logistics. We catch wind of lots of things on the job.
+[name="엑시아"]물류 쪽에서 일하다 보면 아무래도 이런저런 소식을 듣게 되잖아.
 
 [name="能天使"]我在那片地区送货的时候，收货人很多都是鲁珀。
+[name="エクシア"]あのエリアに配達に行くと、受取人にループスが多いんだよね。
+[name="Exusiai"]Whenever I deliver to that area, it's usually Lupos signing for the goods.
+[name="엑시아"]그곳에 물건을 배달했는데, 수취인 대부분이 루포였어.
 
 [name="能天使"]而且那里的好多住户家中都有一套黑帽黑风衣挂在衣架上，辨识度特高。
+[name="エクシア"]でね、その連中の家の玄関に入ると、決まって黒い帽子とコートが掛かってるんだ。すぐわかっちゃったよ。
+[name="Exusiai"]Besides, a lot of the people there hang up black hats and black jackets at home. It's not hard to tell.
+[name="엑시아"]게다가 그 지역의 상당수 집안에 검은 모자와 코트가 걸려있었지. 척 보니 알겠더라고.
 
 [name="能天使"]除了他们，龙门也不会有别人这么穿吧。
+[name="エクシア"]マフィアだよね……あいつら以外に、龍門であんな恰好する連中はいないでしょ。
+[name="Exusiai"]Pretty sure they're the only ones in Lungmen who dress like that.
+[name="엑시아"]루포 말곤, 용문에서 그렇게 입고 다니는 사람은 없으니까.
 
 [name="德克萨斯"]嗯。
+[name="テキサス"]……ああ。
+[name="Texas"]Yeah.
+[name="텍사스"]응.
 
 [name="能天使"]哎哎，德克萨斯。
+[name="エクシア"]そうだ、テキサス。
+[name="Exusiai"]Eh, Texas.
+[name="엑시아"]아 맞다 맞다, 텍사스.
 
 [name="德克萨斯"]嗯？
+[name="テキサス"]ん？
+[name="Texas"]Hm?
+[name="텍사스"]응?
 
 [name="能天使"]说到黑帮，我突然好奇起来了。
+[name="エクシア"]マフィアと言えば、急に興味が湧いてきたんだけどさ。
+[name="Exusiai"]Speaking of the mafia, I'm curious.
+[name="엑시아"]조직에 대한 말이 나와서 말인데, 갑자기 궁금해졌어.
 
 [name="能天使"]你以前在叙拉古也是那么穿的吗？
+[name="エクシア"]シラクーザにいた時は、テキサスもあんな恰好だったの？
+[name="Exusiai"]Did you used to dress like that in Siracusa?
+[name="엑시아"]시라쿠사에서도 그렇게 입었던 거야?
 
 [name="能天使"]黑礼服白衬衫？
+[name="エクシア"]黒いスーツに白シャツだった？
+[name="Exusiai"]Black suit and white shirt?
+[name="엑시아"]검은 정장에 화이트 셔츠?
 
 [name="德克萨斯"]不，我是白礼服红衬衫。
+[name="テキサス"]いや、白いスーツに赤シャツだ。
+[name="Texas"]No, I wore a white tux and red shirt.
+[name="텍사스"]아니, 난 흰 정장에 레드 셔츠였어.
 
 [name="能天使"]唔......感觉还挺配的。
+[name="エクシア"]おお！　なんかカッコいいね！　似合いそう！
+[name="Exusiai"]Hm... That sounds like it could look pretty good.
+[name="엑시아"]으음…… 잘 어울렸을 것 같네.
 
 [name="能天使"]也就是说，你和别人穿得不一样？
+[name="エクシア"]よーするに、みんなとは違う恰好をしてたんだね？
+[name="Exusiai"]So you didn't dress up like everyone else?
+[name="엑시아"]그러니까, 다른 사람과 다르게 입었다는 거지?
 
 [name="德克萨斯"]是。
+[name="テキサス"]ああ、そうだ。
+[name="Texas"]No, I didn't.
+[name="텍사스"]그래.
 
 [name="能天使"]还蛮特立独行的嘛。
+[name="エクシア"]ふーん、なかなか個性的じゃん。
+[name="Exusiai"]What a maverick.
+[name="엑시아"]엄청 튀었겠는걸.
 
 [name="德克萨斯"]各个家族的主要人物为了彰显自己的实力和地位，在服装上与其他鲁珀做出区分时常是一种必要的选择。
+[name="テキサス"]ファミリーの幹部にとって、自身の実力と立場を明らかにするために服装で他のループスとはっきり差をつけておくことは、必要な選択だからな。
+[name="Texas"]It's something the Family's key members have to do to make our power and authority known. We dressed differently from your normal Lupo lackeys.
+[name="텍사스"]패밀리의 실력과 지위를 드러내기 위해, 다른 루포와 구분되는 의상을 선택하는 건 필수였어.
 
 [name="能天使"]那不是很显眼嘛，黑乎乎一片里出个不一样的。
+[name="エクシア"]でもそれってすごく目立つんじゃない？　真っ黒な集団の中でぜんぜん違う服を着てたらさ。
+[name="Exusiai"]Doesn't that make you really stand out, though? Especially when everyone's wearing all black.
+[name="엑시아"]그럼 너무 튀는 거 아냐? 시커먼 무리 속에서 다르게 보이잖아.
 
 [name="能天使"]真的不会有人远远一枪——
+[name="エクシア"]そんなことしてたら、遠くから誰かに……
+[name="Exusiai"]You sure no one's going to just—
+[name="엑시아"]누군가 멀리서……
 
 [name="能天使"]砰！
+[name="エクシア"]パァンッ！！
+[name="Exusiai"]Bang!
+[name="엑시아"]펑!
 
 [name="能天使"]把你干掉吗？
+[name="エクシア"]って撃たれたりしないの？
+[name="Exusiai"]Off you from a distance like that?
+[name="엑시아"]하고 널 날려버릴 수도 있잖아?
 
 [name="德克萨斯"]......
+[name="テキサス"]……
+[name="Texas"]...
+[name="텍사스"]……
 
 [name="德克萨斯"]黑帮的首领大多都很注重安保，适合狙击的位置都会安排自己家族的人预先值守。
+[name="テキサス"]マフィアのボスは皆、セキュリティには細心の注意を払っているからな。狙撃手の配置に適したポイントには必ず、自分のファミリーの人間をあらかじめ向かわせて安全を確保する。
+[name="Texas"]Most mafia bosses are concerned about safety. They'll always have someone from the Family watching potential sniper nests.
+[name="텍사스"]조직의 보스들은 대부분 보안을 중요하게 여겨. 저격에 적합한 위치에 미리 조직원을 배치해 두지.
 
 [name="德克萨斯"]如果真有这种情况发生。
+[name="テキサス"]それでも、もし本当にそんなことが起これば……
+[name="Texas"]But if something like that does actually happen...
+[name="텍사스"]만약 정말로 그런 일이 생긴다면
 
 [name="德克萨斯"]我会把箭砍断——
+[name="テキサス"]その矢をたたき折って――
+[name="Texas"]I'll slice the bolts in half myself.
+[name="텍사스"]모가지를 날려버렸을 거야……
 
 [name="德克萨斯"]然后让那个人的家族从叙拉古除名。
+[name="テキサス"]そいつのファミリーをシラクーザから排除する。徹底的に。
+[name="Texas"]Then I'll go full damnatio memoriae on their Family. Wipe the name from Siracusa.
+[name="텍사스"]그런 뒤에 그자의 패밀리를 시라쿠사에서 제명했겠지.
 
 [name="能天使"]呃......
+[name="エクシア"]うっ……
+[name="Exusiai"]Uhh...
+[name="엑시아"]윽……
 
 [name="德克萨斯"]以前的我会这样做。
+[name="テキサス"]……以前の私はそうしていた。
+[name="Texas"]Or should I say that's what I would've done?
+[name="텍사스"]예전의 나라면 그랬을 거야.
 
 [name="德克萨斯"]现在......应该无所谓了。
+[name="テキサス"]だが今は……もうどうでもいいかな。
+[name="Texas"]These days... I guess it doesn't really matter anymore.
+[name="텍사스"]이제는…… 상관없어.
 
 [name="德克萨斯"]怎么处理对头，那是老板需要头疼的问题。
+[name="テキサス"]トラブルをどう処理すべきかは、ボスが考えることだ。
+[name="Texas"]It's the boss's problem to figure out how to take care of our rivals.
+[name="텍사스"]경쟁자를 상대하는 건 보스가 해결해야 할 문제니까.
 
 [name="德克萨斯"]我们只要把货物送到指定地点，偶尔打几场架，就足够了。
+[name="テキサス"]私たちは荷物を指定の場所まで届け、たまにケンカをする。それで十分だ。
+[name="Texas"]All we have to do is deliver things where we're told, and maybe fight a few fights on the way. That's it.
+[name="텍사스"]우린 그저 물건을 지정된 곳에 배달하고 가끔 몸이나 푸는 것만으로도 충분해.
 
 [name="能天使"]有，有道理，嗯，你说的没错。
+[name="エクシア"]アハハ……そ、そうだね。うん、それがいいと思うよ。
+[name="Exusiai"]You have a point. Yeah, you're right.
+[name="엑시아"]그, 그렇네. 응. 그렇긴 하지.
 
 [name="能天使"]这都堵了多久了？
+[name="エクシア"]これ、渋滞にはまってどのくらい経ったかな？
+[name="Exusiai"]Say, how long has this traffic jam been going?
+[name="엑시아"]얼마 동안 막혀 있었던 거야?
 
 [name="德克萨斯"]半个小时？
+[name="テキサス"]三十分ほどじゃないか？
+[name="Texas"]Half an hour?
+[name="텍사스"]30분?
 
 [name="能天使"]再这么堵下去也不是个办法啊。
+[name="エクシア"]このまま待ってるだけはマズいんじゃない？
+[name="Exusiai"]This isn't going to work out if we don't get moving soon.
+[name="엑시아"]계속 이 상태라면 곤란하겠는데.
 
 [name="能天使"]你看，隔壁的司机都开始骂人了。
+[name="エクシア"]うわぁ……隣の車の運転手が、お子様には教えられない言葉で怒鳴りはじめたよ。
+[name="Exusiai"]Look, the driver next to us is yelling at someone already.
+[name="엑시아"]저기 봐, 저 사람도 결국 폭발했나 본데.
 
 [name="暴躁的龙门市民"]（狂摁喇叭）
+[name="イライラした龍門市民"]（激しいクラクション）
+[name="Irritated Lungmen Citizen"](Slams the horn repeatedly)
+[name="성미 급한 용문 주민"](미친 듯이 자동차의 경적을 누른다.)
 
 [name="暴躁的龙门市民"]（摇下车窗）
+[name="イライラした龍門市民"]（窓を開ける）
+[name="Irritated Lungmen Citizen"](Lowers the car's window)
+[name="성미 급한 용문 주민"](차창을 내린다.)
 
 [name="暴躁的龙门市民"]喂，前面的*龙门粗口*，你到底开不开啊！
+[name="イライラした龍門市民"]おい、前の*龍門スラング*、とっとと進めや！
+[name="Irritated Lungmen Citizen"]Hey, frickin' puk gaai, get a move on already!
+[name="성미 급한 용문 주민"]운전 그따위로 할 거면 그냥 사이드로 빠져 이 *용문 욕설*야! 이런 *용문 욕설*꺼, 앞으로 쫌 가라고 쫌!
 
 [name="悠闲的龙门市民"]不要急嘛朋友，我也堵着。
+[name="のんびりした龍門市民"]そんなデカい声で怒鳴られてもね。前が詰まってるから俺に文句言われても困るんだよ。
+[name="Carefree Lungmen Citizen"]What's the rush, buddy? I'm stuck here myself.
+[name="느긋한 용문 주민"]왜 화는 내고 그럽니까? 나도 막히긴 매한가지인데.
 
 [name="悠闲的龙门市民"]你看看周围，大家都和你一起呢。
+[name="のんびりした龍門市民"]ほら、周りを見てごらんよ。みんな同じだろ？
+[name="Carefree Lungmen Citizen"]Look around you. We're all in this together.
+[name="느긋한 용문 주민"]봐요, 막혀서 모두 꼼짝달싹 못 하지 않습니까? 사이드로 빠져도 소용이 없다고요, 이 상황이면.
 
 [name="暴躁的龙门市民"]你*龙门粗口*的，我今天生意要是谈砸了，你必*龙门粗口*。
+[name="イライラした龍門市民"]このクソ*龍門スラング*、今日の商談が潰れたら、お前を*龍門スラング*してやるからな！
+[name="Irritated Lungmen Citizen"]Yiu ah nei! If my deal gets called off, I'm gonna sau nei pei!
+[name="성미 급한 용문 주민"]너 때문에 거래 물 건너가면 책임질 거야, 이 *용문 욕설*야!
 
 [name="悠闲的龙门市民"]我也急着去看老婆嘛，但车堵成这样，大家都没有办法的。
+[name="のんびりした龍門市民"]俺だって嫁さんのところへ急いでるんだよ。でもこんな状況なんだからさ、みんなどうしようもないんだって。
+[name="Carefree Lungmen Citizen"]Dai lo, I'm trying to get home to the wife too, but this is a traffic jam. Ain't no one to blame for that.
+[name="느긋한 용문 주민"]나도 집에서 와이프가 오라고 난리에요. 근데 차가 막히는 걸 나보고 어쩌란 겁니까.
 
 [name="悠闲的龙门市民"]要是觉得堵车无聊，过来和我打副牌怎么样？
+[name="のんびりした龍門市民"]もし暇なんだったら、一緒にトランプでもどうだ？
+[name="Carefree Lungmen Citizen"]If waiting for the cars to move ain't up to your taste, why don't we play some cards?
+[name="느긋한 용문 주민"]차 막히는 동안 심심하면 어떻게, 이리 와서 판 깔고 카드나 한 판 치던가.
 
 [name="悠闲的龙门市民"]听听广播也可以，最近的新闻都还挺有意思。
+[name="のんびりした龍門市民"]ラジオでもいいぜ。最近のニュースは結構面白いぞ。
+[name="Carefree Lungmen Citizen"]Maybe listen to the radio. News has been interesting lately.
+[name="느긋한 용문 주민"]싫음 거 들어가서 라디오나 틀고 계쇼. 요새 재미있는 거 많이 틀어주더만……
 
 [name="暴躁的龙门市民"]你@！#~@%
+[name="イライラした龍門市民"]お前*龍門スラング*
+[name="Irritated Lungmen Citizen"]You @!#~@%
+[name="성미 급한 용문 주민"]아오 속 터져, *용문 욕설* 진짜!
 
 [name="德克萨斯"]（把广播调至交通频道）
+[name="テキサス"]（ラジオを交通情報チャンネルに変える）
+[name="Texas"](Tunes radio to the traffic channel)
+[name="텍사스"](라디오 채널을 교통 정보 방송으로 바꾼다.)
 
 [name="交通广播"]据悉，两辆轿车在环城公路上发生碰撞，当龙门近卫局警官到场时，两辆车的车主皆已离开现场。
+[name="ハイウェイラジオ"]……環状道路上で二台の乗用車による衝突事故がありました。近衛局の警官が急行しましたが、両方の運転手は既に現場を立ち去っているとのことです。
+[name="Traffic Broadcast"]According to reports, two vehicles were involved in a crash on the city beltway. By the time the L.G.D. has arrived on scene, the drivers had already left the scene of the accident.
+[name="교통 방송"]고속순환도로에서 자동차 두 대가 충돌하는 사고가 발생했습니다. 확인된 바로는, 용문근위국의 경관들이 현장에 도착했을 땐, 이미 사고 차주들이 모두 현장을 벗어난 다음이었습니다.
 
 [name="交通广播"]警官正在向目击者征求车主容貌特征并移开车辆，相信环城路段很快就能恢复畅通。
+[name="ハイウェイラジオ"]近衛局によると現在、運転手を捜索するために目撃者の証言を求めているほか、事故車両を移動させているとのことです。環状道路の交通は間もなく復旧するでしょう。
+[name="Traffic Broadcast"]The police are currently interviewing witnesses for descriptions of the drivers and moving the vehicles off the road. All lanes of the beltway should be open again very soon.
+[name="교통 방송"]현재 경관들은 목격자로부터 차주의 외모와 특징을 확인한 뒤 차량을 이동시키는 중이며, 현재 교통 체증도 곧 해소될 것으로 보입니다.
 
 [name="交通广播"]接下来是另一则交通信息——
+[name="ハイウェイラジオ"]では引き続き、ほかの道路情報です――
+[name="Traffic Broadcast"]Next up, we have another traffic report—
+[name="교통 방송"]이어지는 소식은……
 
 [name="能天使"]这种行事风格听起来有点熟。你觉得呢，德克萨斯？
+[name="エクシア"]なんか前にも聞いたような話だね。どう思う、テキサス？
+[name="Exusiai"]That sounds kinda familiar, doesn't it, Texas?
+[name="엑시아"]어디서 많이 들어본 행사 톤인데. 네 생각은 어때, 텍사스?
 
 [name="能天使"]要不要给同事问个好呀？
+[name="エクシア"]ね、みんなに状況を聞いてみたほうがいいんじゃない？
+[name="Exusiai"]Maybe we should check up on our buddies?
+[name="엑시아"]동료한테 안부나 전해볼까나?
 
 [name="德克萨斯"]......
+[name="テキサス"]……
+[name="Texas"]...
+[name="텍사스"]……
 
 [name="德克萨斯"]（调整无线电频道）
+[name="テキサス"]（無線のチャンネルを合わせる）
+[name="Texas"](Tunes radio channel)
+[name="텍사스"](무선 채널을 조정한다.)
 
 [name="德克萨斯"]喂，喂，听得到吗？
+[name="テキサス"]もしもし、聞こえるか。
+[name="Texas"]Hello, do you copy?
+[name="텍사스"]이봐, 들려?
 
 [name="？？？"]喂喂，怎么了德克萨斯姐？
+[name="？？？"]もしもし、テキサスはん？　どないしたん？　今取り込み中や！
+[name="???"]Howdy doo, Texas?
+[name="???"]어어, 텍사스 언니야, 뭔 일이고?
 
 [name="德克萨斯"]可颂，怎么回事？
+[name="テキサス"]クロワッサン、何があった！？
+[name="Texas"]Croissant, what's going on?
+[name="텍사스"]크루아상, 무슨 일이야?
 
 （弓弩乱飞的声音）
+（矢が飛び交う音）
+(Sounds of bolts flying around)
+(활이 마구 날아드는 소리)
 
 [name="可颂"]有人要抢货啊！
+[name="クロワッサン"]誰かがウチらの荷物を横取りしに来てんねん！
+[name="Croissant"]We're gettin' robbed!
+[name="크루아상"]누가 물건 뺏을라 칸다!
 
 [name="德克萨斯"]车坏了？
+[name="テキサス"]車が壊されたのか？
+[name="Texas"]Did your car break down?
+[name="텍사스"]차가 고장 난 거야?
 
 [name="可颂"]坏了吧，不过修一修应该还有救。
+[name="クロワッサン"]壊れとるやろな。せやけどそっちはちょちょいと直せば大丈夫、多分見た目は元通りや。
+[name="Croissant"]Purdy sure, but I reckon we'n fix 'er up.
+[name="크루아상"]맛탱이 간 거 같은데, 그래도 손 좀 보면 괜찮을 끼다.
 
 [name="可颂"]你们可别和老板说啊，不然我这个月奖金又要没了。
+[name="クロワッサン"]けどボスに言わんといてや、バレたらウチ、今月のボーナスまた没収されてまう。
+[name="Croissant"]Now don't you go snitchin' on me to the baws. Wanna keep my bonus fer the month, thank'yee.
+[name="크루아상"]보스한테는 무조건 비밀이데이. 안 그라믄 이번 달 보너스도 날아가 뿌린다.
 
 [name="德克萨斯"]......
+[name="テキサス"]……
+[name="Texas"]...
+[name="텍사스"]……
 
 [name="德克萨斯"]明白。
+[name="テキサス"]分かった。
+[name="Texas"]Got it.
+[name="텍사스"]그래.
 
 [name="德克萨斯"]不打扰你工作了，晚上见。
+[name="テキサス"]取り込み中に邪魔して悪かったな。また後で。
+[name="Texas"]Well, I won't keep you. See you tonight.
+[name="텍사스"]그럼 수고해.
 
 [name="能天使"]我还以为只有我会做这种事呢。
+[name="エクシア"]あんなことするのはあたしだけだと思ってたよ。
+[name="Exusiai"]I thought I was the only one who'd do that.
+[name="엑시아"]이런 건 나만 할 수 있는 줄 알았는데……
 
 [name="德克萨斯"]你好像还很得意？
+[name="テキサス"]ずいぶん自慢げだな？
+[name="Texas"]You seem to do pretty well too.
+[name="텍사스"]너, 꽤나 으쓱한 표정인데?
 
 [name="能天使"]那是——
+[name="エクシア"]そりゃそう――
+[name="Exusiai"]That's cause—
+[name="엑시아"]그게……
 
 [name="能天使"]唉疼！
+[name="エクシア"]あだっ！
+[name="Exusiai"]Ow!
+[name="엑시아"]아얏!
 
 [name="德克萨斯"]哼......
+[name="テキサス"]ふん……
+[name="Texas"]Hmph...
+[name="텍사스"]흥……
 
 [name="德克萨斯"]再这么堵下去，回头老板会不高兴的。
+[name="テキサス"]このままここでぐずぐずしていたら、戻った時に不機嫌なボスと会うことになる。
+[name="Texas"]If this traffic jam doesn't let up soon, Boss isn't going to be happy.
+[name="텍사스"]계속 이렇게 막히다간 보스가 좋아하지 않을 거야.
 
 [name="德克萨斯"]能天使，我先带着货物过去，你在公路疏通之后赶紧过来。
+[name="テキサス"]エクシア、荷物は先に私が持って行く。お前は渋滞が解消したら急いで追いかけて来い。
+[name="Texas"]Exusiai, I'll take the package and go on ahead. Come as soon as the highway opens up.
+[name="텍사스"]엑시아, 물건은 내가 가져갈 테니까 넌 길 좀 뚫리면 바로 달려와.
 
 [name="能天使"]送货还是我去比较好吧。
+[name="エクシア"]荷物ならあたしが配達した方がいいんじゃない？
+[name="Exusiai"]Maybe I should handle the delivery.
+[name="엑시아"]물건은 내가 가져가는 게 낫지 않을까?
 
 [name="德克萨斯"]你知道和黑帮见面该说什么吗？
+[name="テキサス"]マフィアと会う時、何と言って挨拶すべきか知っているのか？
+[name="Texas"]Do you know what to say when you greet the mafia men?
+[name="텍사스"]마피아들을 어떻게 상대해야 하는지는 알아?
 
 [name="能天使"]不就是，企鹅物流送货上门——
+[name="エクシア"]ごめんくださーい、ペンギン急便です！　……じゃないの？
+[name="Exusiai"]Something like, 'Penguin Logistics, delivery—'
+[name="엑시아"]그거야 뭐…… 펭귄 로지스틱스에서 배달 왔습니다…… 하고……
 
 [name="德克萨斯"]要是按照这个路数，场面很快就会和那一晚一样了。
+[name="テキサス"]はぁ……それじゃ、あの晩の惨劇の再現になるぞ。
+[name="Texas"]If you try to do that, it'll end up just as bad as that one night.
+[name="텍사스"]그렇게 굴다간 그날 밤과 같은 상황이 펼쳐지고 말 거다.
 
 [name="能天使"]不就是打架嘛，我怎么会怕他们。
+[name="エクシア"]ケンカになっても、あいつらなんて怖くも何ともないけど？
+[name="Exusiai"]It's a fight. I'm not scared of them.
+[name="엑시아"]그럼 상대해 주면 되잖아. 내가 쫄 것 같아?
 
 [name="德克萨斯"]这样真的好吗，他们这回可是收货人。
+[name="テキサス"]それでいいのか？　今回は奴らは荷受人なんだぞ。
+[name="Texas"]Are you sure about that? They're our customers this time.
+[name="텍사스"]그러면 퍽도 좋겠네. 상대가 물건을 받을 수취인인데 말이야.
 
 [name="德克萨斯"]如果你就准备打完以后让他们签收货物的话，我也没什么好说的。
+[name="テキサス"]もしお前がケンカしてから荷物を受け取ってもらうつもりなら、私は何も言うことはない。
+[name="Texas"]If you are planning on beating them up and then having them sign for the package, I will say nothing more.
+[name="텍사스"]네가 놈들을 상대하고도 수령 확인 서명을 받아낼 방법까지 생각했다면, 내가 이렇게 나서진 않았을 거야.
 
 [name="能天使"]啊......也是......
+[name="エクシア"]ああ……確かにそれはちょっとなぁ……
+[name="Exusiai"]Oh... right...
+[name="엑시아"]뭐…… 하긴……
 
 [name="德克萨斯"]所以还是由我去比较好。
+[name="テキサス"]だから、私が行った方がいいんだ。
+[name="Texas"]And that's why it's better that I go.
+[name="텍사스"]그러니까 내가 가는 게 나아.
 
 [name="德克萨斯"]至少他们对“德克萨斯”这个名字的忌惮能避免很多冲突。
+[name="テキサス"]少なくとも奴らは「テキサス」という名前を憚る。私の顔を見せれば大きな衝突は避けられるだろう。
+[name="Texas"]At the very least, they are terrified of the name 'Texas,' and that will smooth most things over.
+[name="텍사스"]'텍사스'라는 이름에 대한 두려움만으로도 충돌을 피할 수 있을 테니까.
 
 [name="德克萨斯"]给，这是钥匙。
+[name="テキサス"]ほら、鍵だ。
+[name="Texas"]Here's the key.
+[name="텍사스"]자, 여기 열쇠.
 
 [name="能天使"]钥匙？
+[name="エクシア"]鍵？
+[name="Exusiai"]The key? What key?
+[name="엑시아"]열쇠?
 
 [name="能天使"]让我开车吗？！
+[name="エクシア"]……あたしに運転しろっての！？
+[name="Exusiai"]You want me to drive?!
+[name="엑시아"]나더러 운전하라고?
 
 [name="德克萨斯"]暂时的。
+[name="テキサス"]今だけだ。
+[name="Texas"]Just for the time being.
+[name="텍사스"]그래, 잠깐 동안만이지만.
 
 [name="德克萨斯"]回去还是我开。
+[name="テキサス"]帰りは私が運転する。
+[name="Texas"]I'll drive on the way back.
+[name="텍사스"]돌아갈 때는 내가 운전한다.
 
 [name="能天使"]好叻！
+[name="エクシア"]……オッケー！！
+[name="Exusiai"]Alright!
+[name="엑시아"]오케이~!
 
 [name="德克萨斯"]别把车撞了，好吗？
+[name="テキサス"]ぶつけるなよ。わかってるな？
+[name="Texas"]Don't crash the car. Got it?
+[name="텍사스"]차 박지 말고, 알았지?
 
 [name="能天使"]我办事你就放心吧。
+[name="エクシア"]あたしがやるんだから安心してよ……たぶん。
+[name="Exusiai"]You can trust me to handle anything!
+[name="엑시아"]걱정 붙들어 매!
 
 [name="德克萨斯"]我就是......
+[name="テキサス"]私はな……
+[name="Texas"]And I just don't...
+[name="텍사스"]아무래도……
 
 [name="德克萨斯"]唉......
+[name="テキサス"]はぁ……
+[name="Texas"]*Sigh*...
+[name="텍사스"]하아……
 
 [name="德克萨斯"]算了。
+[name="テキサス"]まあいい。
+[name="Texas"]Never mind.
+[name="텍사스"]아냐.
 
 [name="德克萨斯"]一会见。
+[name="テキサス"]後で落ち会おう。
+[name="Texas"]I'll see you later.
+[name="텍사스"]이따 보자.
 
 [name="能天使"]嗯？德克萨斯怎么把剑落车上了？
+[name="エクシア"]はいはい……ん？　テキサス、どうして剣を車の中に置いて行ったんだろう？
+[name="Exusiai"]Hm? How come Texas left her sword in the car?
+[name="엑시아"]으응? 텍사스가 왜 차에 검을 두고 간 거지?
 
 龙门闹市
+龍門市場
+Lungmen Markets
+용문 시장
 
 [name="德克萨斯"]（走这条道应该能再节省一点时间。）
+[name="テキサス"]（この道を抜ければ早く着くはずだ。）
+[name="Texas"](Taking this alley should save me some time.)
+[name="텍사스"](여기로 가면 시간이 단축될 거야.)
 
 [name="德克萨斯"]（姜齐街马上就到。）
+[name="テキサス"]（姜斉通りはすぐそこだな。）
+[name="Texas"](I'm almost to Kang Chai Street.)
+[name="텍사스"](겅차이 스트리트…… 거의 다 왔다.)
 
 [name="德克萨斯"]（8号，看上去是个大仓库，是这里没错。）
+[name="テキサス"]（どうやらこの大きな倉庫のようだ。姜斉通り8号、住所はここで間違いないな。）
+[name="Texas"](No. 8. Looks like a big warehouse. This is the place.)
+[name="텍사스"](8번지, 큰 창고 같은데…… 여기가 확실해.)
 
 [name="德克萨斯"]（......）
+[name="テキサス"]（……）
+[name="Texas"](......)
+[name="텍사스"](……)
 
 [name="德克萨斯"]（希望能送了东西就走......）
+[name="テキサス"]（荷物を渡してすぐに帰れればいいんだが……）
+[name="Texas"](I hope I'll get to leave as soon as I have this delivered...)
+[name="텍사스"](별일 없이 돌아가면 좋겠는데……)
 
 龙门闹市  姜齐街8号
+龍門市場  姜斉通り8号
+No. 8, Kang Chai Street, Lungmen Markets
+용문 시장 겅차이 스트리트 8번지
 
 [name="黑帮A"]嗯？
+[name="マフィアA"]……ん？
+[name="Mafioso A"]Hm?
+[name="조직원 A"]응?
 
 [name="黑帮B"]德克萨斯？！
+[name="マフィアB"]てめえは、テキサス！？
+[name="Mafioso B"]Texas?!
+[name="조직원 B"]텍사스?!
 
 [name="黑帮A"]停，停下，不许再往前了！
+[name="マフィアA"]と、止まれっ！　これ以上近くに来るな！
+[name="Mafioso A"]S-Stop! Not a step further!
+[name="조직원 A"]머, 멈춰! 더는 못 들어간다!
 
 [name="德克萨斯"]（弩箭都换了橡皮头，看来他们真的开始守规矩了。）
+[name="テキサス"]（クロスボウの矢尻をゴム製のものに取り換えている。どうやら本当にルールを守り始めたようだな。）
+[name="Texas"](They switched to rubber arrowheads. Looks like they're starting to follow the rules.)
+[name="텍사스"](화살을 전부 고무 커버로 바꾸다니, 규정을 제대로 지키기 시작했나 보군.)
 
 [name="德克萨斯"]我是来送快递的。
+[name="テキサス"]落ち着け。私は荷物を届けに来ただけだ。
+[name="Texas"]I'm only here for a delivery.
+[name="텍사스"]물건을 가져왔다.
 
 [name="黑帮B"]把东西放下，我们会派人接收。
+[name="マフィアB"]荷物！？　そこへ置いとけ。こっちから取りに行かせる。
+[name="Mafioso B"]Leave it there. We'll have someone come take it.
+[name="조직원 B"]거기 내려놔, 알아서 가져갈 테니까.
 
 [name="德克萨斯"]我需要把货亲自送到收货人手上，由他确认货物并签字才能离开。
+[name="テキサス"]荷物は本人に直接手渡しするルールだ。中身の確認後、サインをもらわなければ帰れない。
+[name="Texas"]I need to deliver it to the addressee and have it signed for. Only then can I leave.
+[name="텍사스"]물건을 수취인에게 직접 전해야 해. 수령 확인증에 서명을 받아야 하거든.
 
 [name="黑帮A"]（小声）喂，怎么办？
+[name="マフィアA"]（小声）おい、どうする？
+[name="Mafioso A"](Whispers) Hey, what should we do?
+[name="조직원 A"](작은 목소리로) 이봐, 어쩌지?
 
 [name="黑帮B"]（小声）先问问这是给谁的货。
+[name="マフィアB"]（小声）誰宛の荷物か、まず聞くんだ。
+[name="Mafioso B"](Whispers) Let's ask her who it's for first.
+[name="조직원 B"](작은 목소리로) 수취인이 누군지 일단 물어보자.
 
 [name="黑帮A"]我们会帮你把收货人叫出来，给我他的名字。
+[name="マフィアA"]ああ……ゴホン。受取人を呼んできてやる。伝票はいったい誰の名前になってるんだ？
+[name="Mafioso A"]We'll call the addressee and have them come out. Gimme the name.
+[name="조직원 A"]수취인을 불러주마. 이름을 알려줘.
 
 [name="德克萨斯"]恩里科。
+[name="テキサス"]……エンリコだ。
+[name="Texas"]Enrico.
+[name="텍사스"]엔리코.
 
 [name="黑帮A"]老大？！
+[name="マフィアA"]エンリコって……ボス！？
+[name="Mafioso A"]Boss?!
+[name="조직원 A"]혀, 형님을?!
 
 [name="黑帮B"]（小声）喂！
+[name="マフィアB"]（小声）おいっ！
+[name="Mafioso B"](Whispers) Hey!
+[name="조직원 B"](작은 목소리로) 어이!
 
 [name="黑帮A"]哦——咳，咳嗯！
+[name="マフィアA"]お――ゴ、ゴホン！
+[name="Mafioso A"]Uhh—*Cough*!
+[name="조직원 A"]크, 크흠!
 
 [name="黑帮A"]你在这等着，我去请恩里科先生出来。
+[name="マフィアA"]ここから一歩も動くなよ！　俺がエンリコさんを呼んでくる。
+[name="Mafioso A"]Wait here. I'll bring Mr. Enrico out right away.
+[name="조직원 A"]여기서 기다려, 엔리코 님을 모셔올 테니까.
 
 [name="黑帮A"]（小声）撑住啊，我马上回来。
+[name="マフィアA"]（小声）頼むぞ。すぐ戻る。
+[name="Mafioso A"](Whispers) Hang in there. I'll be back soon.
+[name="조직원 A"](작은 목소리로) 버텨, 얼른 돌아올 테니까.
 
 [name="黑帮B"]......
+[name="マフィアB"]……
+[name="Mafioso B"]......
+[name="조직원 B"]……
 
 [name="德克萨斯"]......
+[name="テキサス"]……
+[name="Texas"]......
+[name="텍사스"]……
 
 [name="黑帮B"]德，德克萨斯，女士......
+[name="マフィアB"]て、テキサス……さん。
+[name="Mafioso B"]T-Texas... ma'am...
+[name="조직원 B"]테, 텍사스, 씨……
 
 [name="德克萨斯"]嗯？
+[name="テキサス"]ん……？
+[name="Texas"]Hm?
+[name="텍사스"]응?
 
 [name="黑帮B"]......
+[name="マフィアB"]……
+[name="Mafioso B"]......
+[name="조직원 B"]……
 
 [name="黑帮B"]您没有携带武器吧。
+[name="マフィアB"]見たところ、武器を持っていないようですが？
+[name="Mafioso B"]You don't have any weapons on you, right?
+[name="조직원 B"]무기를 소지하진 않았겠죠?
 
 [name="德克萨斯"]没有。
+[name="テキサス"]ああ……武器は車の中だ。
+[name="Texas"]None at all.
+[name="텍사스"]그래.
 
 [name="黑帮B"]您不会从袖口里掏出一个源石剑柄然后把我们全杀了吗？
+[name="マフィアB"]まさか、袖に隠し持った源石剣で俺達を皆殺しにしたりしないですよね？
+[name="Mafioso B"]You won't pull out an Originium sword and kill us all, will you?
+[name="조직원 B"]소매 안에서 오리지늄 검을 꺼내 우릴 몰살하려는 건 아니겠죠?
 
 [name="黑帮B"]就像孔特家族覆灭时那样。
+[name="マフィアB"]コンテファミリーを壊滅させた時みたいに……
+[name="Mafioso B"]Just like when you offed the whole Conte Family?
+[name="조직원 B"]콘테 패밀리를 무너뜨렸을 때처럼……
 
 [name="德克萨斯"]你知道规矩，龙门的规矩。
+[name="テキサス"]お前もルールを知っているはずだ。龍門のルールを。
+[name="Texas"]You know the rules here. Lungmen's rules.
+[name="텍사스"]용문의 규칙을 알고 있을 텐데.
 
 [name="黑帮B"]是这样，您说得对。
+[name="マフィアB"]ははっ、そうでしたね、仰る通りです。
+[name="Mafioso B"]Right. Yes, you're right.
+[name="조직원 B"]그렇죠. 맞는 말입니다.
 
 [name="黑帮B"]（呼，还好......）
+[name="マフィアB"]（ふう、よかった……）
+[name="Mafioso B"](Phew, thank goodness...)
+[name="조직원 B"](후, 다행이다……)
 
 [name="黑帮A"]恩里科先生，这边请。
+[name="マフィアA"]エンリコさん、こちらです。
+[name="Mafioso A"]Mr. Enrico, this way.
+[name="조직원 A"]엔리코 님, 이쪽입니다.
 
 [name="黑帮首领"]我是恩里科，德克萨斯女士。
+[name="マフィアボス"]エンリコだ、ドン・テキサス。
+[name="Mafia Boss"]I'm Enrico, Signora Texas.
+[name="조직 두목"]날 찾았다고? 텍사스 씨.
 
 [name="黑帮首领"]听说你有货物要给我。
+[name="マフィアボス"]私宛の荷物が届いていると聞いたのだが？
+[name="Mafia Boss"]I heard you have something for me.
+[name="조직 두목"]내게 줄 물건이 있다고 하던데.
 
 [name="德克萨斯"]是的，一份快递。
+[name="テキサス"]ああ、この小包だ。
+[name="Texas"]That's right. A delivery.
+[name="텍사스"]그래, 여기.
 
 [name="德克萨斯"]从鼠王那里来，请你尽快签收。
+[name="テキサス"]差出人は鼠王だ。受け取りのサインをお願いしたい。
+[name="Texas"]It's from the Rat King. Please sign for it.
+[name="텍사스"]발신자는 래트킹, 확인해 봐.
 
 [name="黑帮首领"]鼠王？
+[name="マフィアボス"]……鼠王？
+[name="Mafia Boss"]Rat King?
+[name="조직 두목"]래트킹?
 
 [name="黑帮首领"]我明白了，请把快件给我。
+[name="マフィアボス"]わかった。荷物を頂こう。
+[name="Mafia Boss"]Alright. Let me see it.
+[name="조직 두목"]그렇군. 이리 줘봐.
 
 [name="黑帮首领"]（打开快递盒）
+[name="マフィアボス"]（箱を開ける）
+[name="Mafia Boss"](Opens the package)
+[name="조직 두목"](택배 상자를 연다)
 
 [name="黑帮首领"]这是......
+[name="マフィアボス"]これは……
+[name="Mafia Boss"]My...
+[name="조직 두목"]이건……
 
 [name="黑帮首领"]嗯，的确是鼠王给我的东西。
+[name="マフィアボス"]うむ、確かに鼠王から私への荷物だ。
+[name="Mafia Boss"]Yes, this is from the Rat King.
+[name="조직 두목"]음, 래트킹이 보낸 게 분명하군.
 
 [name="黑帮首领"]需要我在哪里签名？
+[name="マフィアボス"]……どちらにサインをすればいいのかな？
+[name="Mafia Boss"]Where do I sign?
+[name="조직 두목"]서명은 어디에 하면 되지?
 
 [name="德克萨斯"]这里，右下角的签名栏。
+[name="テキサス"]この右下の、署名欄に頼む。
+[name="Texas"]Right here. On the bottom right.
+[name="텍사스"]여기, 오른쪽 아래 서명란에.
 
 [name="黑帮首领"]嗯——好，完成了。
+[name="マフィアボス"]うむ――よし。これでいいかな。
+[name="Mafia Boss"]Very well—Here.
+[name="조직 두목"]아…… 이렇게 하면 되는 건가?
 
 [name="德克萨斯"]那么——
+[name="テキサス"]ありがとう。では――
+[name="Texas"]Now then—
+[name="텍사스"]그럼……
 
 [name="黑帮首领"]请留步，德克萨斯女士。
+[name="マフィアボス"]お待ちください、ドン・テキサス。
+[name="Mafia Boss"]Please spare me a moment, Signora Texas.
+[name="조직 두목"]잠깐 기다려, 텍사스 씨.
 
 [name="德克萨斯"]这个称呼应该留给叙拉古的家族首领，而不是我。
+[name="テキサス"]その呼び名は私ではなく、シラクーザにいるファミリーのボスのものだ。
+[name="Texas"]That's a title for the Family leadership back in Siracusa, not me.
+[name="텍사스"]그 이름은 내가 아니라, 시라쿠사의 패밀리 보스에게나 물려줘야 할 것 같은데.
 
 [name="德克萨斯"]请叫我德克萨斯。
+[name="テキサス"]私のことはただ、テキサスと呼んでほしい。
+[name="Texas"]Call me Texas.
+[name="텍사스"]그냥 텍사스라고 불러.
 
 [name="黑帮首领"]好，好，德克萨斯。
+[name="マフィアボス"]そうか……わかった。テキサス。
+[name="Mafia Boss"]Right, sure, Texas.
+[name="조직 두목"]그, 그렇군. 텍사스……
 
 [name="黑帮首领"]你看，我和我的兄弟们来到龙门许多年了。
+[name="マフィアボス"]見ての通り、私とファミリーの兄弟たちが龍門に来てから、もう何年も経った。
+[name="Mafia Boss"]As you can see, it has been years since my brothers and I came here to Lungmen.
+[name="조직 두목"]나와 형제들은 오래전에 이 용문에 터를 닦았다.
 
 [name="黑帮首领"]前段时间，因为卡彭和甘比诺挑战了......这座城市的权威，所以他们被迫离开，而我，被大家推举出来领导家族。
+[name="マフィアボス"]先日、カポネとガンビーノがこの都市の……権威ある者に楯突いた結果、ここを追われることとなった。そして私は、皆に推挙されてファミリーのボスになった。
+[name="Mafia Boss"]A while ago, Capone and Gambino got themselves pushed out of the city... they challenged the authority here, and got what came to them. That got me pushed up to lead the Family.
+[name="조직 두목"]카포네와 감비노가…… 이곳의 권위에 도전했었지만 난 그들을 내쫓고, 모두의 기대 속에서 조직을 이끌게 됐지.
 
 [name="黑帮首领"]我想，寻求一下你的建议，如果方便的话，我们可以到里面详谈。
+[name="マフィアボス"]私はあなたの意見を聞きたいんだ。もしよければ、中で詳しい話をしないか？
+[name="Mafia Boss"]I want to ask your advice. If you would, please come inside for a chat.
+[name="조직 두목"]당신 조언을 듣고 싶은데, 괜찮다면 들어가서 자세히 이야기해 보지 않겠나?
 
 [name="德克萨斯"]不了，我给不出什么好建议，顶多就说几句话。
+[name="テキサス"]遠慮しておく。私には大したアドバイスはできない。言えることはわずかだ。
+[name="Texas"]I'm afraid I don't have much advice for you.
+[name="텍사스"]아니, 들려줄 조언 같은 건 없다. 기껏해야 몇 마디가 다겠지.
 
 [name="黑帮首领"]我洗耳恭听。
+[name="マフィアボス"]ではそれを拝聴しよう。
+[name="Mafia Boss"]I'm all ears.
+[name="조직 두목"]가슴에 새겨 두도록 하지.
 
 [name="德克萨斯"]你和你的兄弟，还会回到叙拉古去吗？
+[name="テキサス"]あなたと兄弟たちが、シラクーザに戻る可能性は？
+[name="Texas"]Will you and your brothers ever go back to Siracusa?
+[name="텍사스"]너흰 형제들과 시라쿠사로 돌아갈 건가?
 
 [name="黑帮首领"]呵，我们应该会在龙门一直待下去。
+[name="マフィアボス"]今後は恐らくずっと龍門にいるだろう。
+[name="Mafia Boss"]Hoh, we'll most likely stay here in Lungmen.
+[name="조직 두목"]흠, 우린 용문에서 계속 지낼 생각이야.
 
 [name="黑帮首领"]毕竟回去除了被西西里女士的仆从追杀外，什么好处都没有。
+[name="マフィアボス"]もし帰っても、ミズ・シチリアの手下に追われるだけだ。何の利益もない。
+[name="Mafia Boss"]There is nothing waiting for us in Siracusa. Just the Sicilian bosslady's henchmen waiting to kill us.
+[name="조직 두목"]돌아갔다간 미스 시실리아에게 목숨을 잃는 것 말고 좋은 일 같은 것 없을 테니까.
 
 [name="德克萨斯"]那么就不要太过坚持叙拉古的生活方式。
+[name="テキサス"]なら、シラクーザ式の生活にこだわりすぎないことだ。
+[name="Texas"]In that case, you might want to give up on living like a Siracusan.
+[name="텍사스"]그럼 시라쿠사에서의 생활 방식을 고수하지 않는 게 좋을 거다.
 
 [name="德克萨斯"]像个龙门人一样生活。
+[name="テキサス"]龍門の人たちと同じように暮らすんだ。
+[name="Texas"]Try to live like a Lungmenite.
+[name="텍사스"]용문 사람처럼 살아.
 
 [name="黑帮首领"]嗯......
+[name="マフィアボス"]うむ……
+[name="Mafia Boss"]Hmm...
+[name="조직 두목"]으음……
 
 [name="德克萨斯"]家族间的争斗放在这里是否行得通，我想你们应该清楚。
+[name="テキサス"]ファミリー間の争いをここに持ち込んだ場合どうなるか、あなたたちにはよくわかっているはずだ。
+[name="Texas"]I'm sure you know much better than anyone else whether fights between families work here.
+[name="텍사스"]조직 간의 충돌이 여기서 통할지 말지는 다들 이미 잘 알 거라고 생각한다.
 
 [name="德克萨斯"]无论是从东国、乌萨斯还是叙拉古来到这里，要想长久生活下去，只有一个办法。
+[name="テキサス"]極東、ウルサス、あるいはシラクーザ、どこからでもいい。この場所に来て、ここで長く暮らしていきたいのであれば、その方法はただひとつ。
+[name="Texas"]Whether you are from Higashi, Ursus, or Siracusa, if you want to settle down here, there is only one way.
+[name="텍사스"]극동이든 우르수스든 시라쿠사든 모두 이곳에 발을 디딘 이상, 여기서 오래 버티려면 단 한 가지 방법밖에 없다.
 
 [name="德克萨斯"]成为龙门人。
+[name="テキサス"]龍門の人間になることだ。
+[name="Texas"]Be a Lungmenite.
+[name="텍사스"]용문 사람이 되는 것.
 
 [name="德克萨斯"]你们不是第一个来的，也不会是最后一个。
+[name="テキサス"]この街にやって来たマフィアはたくさんいる。あなたたちは最初ではないし、最後でもない。
+[name="Texas"]You aren't the first ones to come here, and you won't be the last.
+[name="텍사스"]너희는 이곳에 온 최초의, 혹은 최후의 사람도 아니야.
 
 [name="德克萨斯"]帮派的人来来去去，最后留下的，只有龙门人。
+[name="テキサス"]何人もこの街に来て、また去って行く。最後に残るのは、龍門人だけだ。
+[name="Texas"]Gang members come and go. In the end, the only ones that will remain are Lungmenite.
+[name="텍사스"]수많은 조직원이 이곳에 발을 디뎠다가 사라지지만, 마지막에 남는 건 용문 사람이지.
 
 [name="德克萨斯"]我想说的，就这么多。
+[name="テキサス"]……私が言いたいのは、それだけだ。
+[name="Texas"]That's all I'm going to tell you.
+[name="텍사스"]이 정도면 충분하겠지.
 
 [name="德克萨斯"]再会。
+[name="テキサス"]失礼する……
+[name="Texas"]Farewell.
+[name="텍사스"]그럼 이만.
 
 [name="黑帮首领"]......
+[name="マフィアボス"]……
+[name="Mafia Boss"]......
+[name="조직 두목"]……
 
 [name="黑帮首领"]德克萨斯。
+[name="マフィアボス"]テキサス……
+[name="Mafia Boss"]Texas.
+[name="조직 두목"]텍사스.
 
 [name="德克萨斯"]嗯？
+[name="テキサス"]……何だ？
+[name="Texas"]Hm?
+[name="텍사스"]응?
 
 [name="黑帮首领"]你也已经成为龙门人了吗？
+[name="マフィアボス"]あなたも、もう龍門の人間になったのか？
+[name="Mafia Boss"]Are you a Lungmenite?
+[name="조직 두목"]당신은 이미 용문 사람이 된 건가?
 
 [name="德克萨斯"]......
+[name="テキサス"]……
+[name="Texas"]...
+[name="텍사스"]……
 
 [name="德克萨斯"]或许是吧。
+[name="テキサス"]かもしれないな。
+[name="Texas"]Maybe.
+[name="텍사스"]아마.
 
 [name="德克萨斯"]但我终归会回去的。
+[name="テキサス"]だが、私はやはり最後はあそこに戻るだろう。
+[name="Texas"]But I will go back one day.
+[name="텍사스"]하지만 언젠간 돌아갈 거다.
 
 [name="黑帮首领"]......
+[name="マフィアボス"]……
+[name="Mafia Boss"]......
+[name="조직 두목"]……
 
 咔嗒
+カタッ
+*Rattle*
+딸깍
 
 哔——哔——
+ピ――ピ――！
+*Beep*—*beep*—!
+삐삣!
 
 [name="黑帮首领"]......这是什么声音？
+[name="マフィアボス"]……何の音だ？
+[name="Mafia Boss"]What's that sound...?
+[name="조직 두목"]……무슨 소리지?
 
 [name="黑帮首领"]好像是从这个箱子里传来的。
+[name="マフィアボス"]この箱からかな？
+[name="Mafia Boss"]Is it coming from the box?
+[name="조직 두목"]상자에서 나는 것 같은데.
 
 [name="能天使"]哟，搞定啦。
+[name="エクシア"]おか～。終わったの？
+[name="Exusiai"]Hey, done already?
+[name="엑시아"]후, 처리 완료.
 
 [name="德克萨斯"]嗯。
+[name="テキサス"]ああ。
+[name="Texas"]Yeah.
+[name="텍사스"]응.
 
 [name="能天使"]我以为车开过来的时候你已经在等我了。
+[name="エクシア"]遅かったじゃん。あたしが来る頃には、もうここで待ってると思ってたよ。
+[name="Exusiai"]I thought you'd be back by the time the road opened.
+[name="엑시아"]먼저 기다리고 있을 줄 알았는데.
 
 [name="德克萨斯"]稍微聊了几句。
+[name="テキサス"]少し話があってな。
+[name="Texas"]We had a little chat.
+[name="텍사스"]얘기 몇 마디 하느라.
 
 [name="能天使"]你还会主动和人聊天啊，挺稀奇的嘛。
+[name="エクシア"]へぇ～テキサスが積極的に誰かと話すなんて珍しいな。
+[name="Exusiai"]I didn't know you knew how to make conversation.
+[name="엑시아"]네가 먼저 말을 걸다니 신기한데?
 
 [name="德克萨斯"]只是让他们以后别给老板添麻烦，仅此而已。
+[name="テキサス"]今後うちのボスに迷惑をかけないように釘を刺しただけだ。
+[name="Texas"]I was just trying to keep them from giving the boss any more trouble. That's all.
+[name="텍사스"]앞으로 보스를 귀찮게 하지 말라고 말해뒀지.
 
 [name="能天使"]是这样？看来他们也能好好交流嘛。
+[name="エクシア"]そうなの？　意外と話が通じる奴らなんだね。
+[name="Exusiai"]Really? Sounds like they're pretty amenable.
+[name="엑시아"]그래? 녀석들도 제법 말귀를 알아듣나 보네.
 
 [name="能天使"]可是，哎，你回头看看，那些现在正在往外冲的人是怎么回事？
+[name="エクシア"]でもそれならさ、後ろを見てよ。倉庫から飛び出してこっちに走って来る連中は何なの？
+[name="Exusiai"]But, eh, look behind you. What's with these guys running outside?
+[name="엑시아"]으응? 뭐지? 사람들이 밖으로 달려 나오는 것 같은데 무슨 일이라도 있는 건가?
 
 [name="能天使"]他们确实是追着你出来的吧？好像不是很友好诶？
+[name="エクシア"]あれって間違いなくテキサスを追って出てきてるよね！？　なんだか友好的じゃなさそうだけど？
+[name="Exusiai"]Like, they're coming after you, aren't they? They don't seem very friendly to me.
+[name="엑시아"]널 쫓아 나온 거지? 그다지 좋은 표정은 아닌데?
 
 [name="德克萨斯"]......出了一点小状况。
+[name="テキサス"]……ちょっとしたアクシデントが起こったようだ。
+[name="Texas"]There's a small problem...
+[name="텍사스"]……작은 소동이 있었어.
 
 [name="德克萨斯"]我离开的时候远远听到了点声音，老板好像把货交给我们前，做了点......改动。
+[name="テキサス"]私があそこを出てから、離れた場所で大きな音が聞こえた。ボスはどうやら私たちに荷物を渡す前に少々……改造したらしい。
+[name="Texas"]I heard a noise when I was leaving. Looks like the boss made... a few modifications before handing the package over to us.
+[name="텍사스"]나오기 전에 멀리서 무슨 소리를 들었다. 보스가 물건을 우리에게 내어주기 전에 뭔가를…… 손본 것 같던데.
 
 [name="能天使"]那现在怎么说，打吗？
+[name="エクシア"]じゃあどうするのさ……やっちゃう？
+[name="Exusiai"]What do we do now? Fight them?
+[name="엑시아"]그럼 뭐야, 붙는 거야?
 
 [name="德克萨斯"]打？快走！
+[name="テキサス"]やるな！　逃げるんだ！
+[name="Texas"]Fight them? Just go!
+[name="텍사스"]붙어? 튀어!
 
 [name="德克萨斯"]这街区全是黑帮，你想再用工资赔老板一辆车吗！
+[name="テキサス"]このエリアはマフィアの巣窟だ。また給料で車を弁償したいのか！
+[name="Texas"]This entire neighborhood is full of mafiosos. Do you want the boss to dock your pay for another car?
+[name="텍사스"]이 지역은 전부 조직의 구역이야. 네 월급을 전부 보스의 차를 배상하는 데 쓰고 싶진 않겠지?
 
 [name="能天使"]对哦！
+[name="エクシア"]あああ、そうだった！
+[name="Exusiai"]Oh, right.
+[name="엑시아"]앗!
 
 [name="德克萨斯"]把钥匙给我，走！
+[name="テキサス"]鍵を貸せ、車を出すぞ！
+[name="Texas"]Give me the keys. Let's go!
+[name="텍사스"]열쇠 줘, 가자!
 
 [name="大帝"]哈啊——
+[name="エンペラー"]やれやれ……
+[name="Emperor"]Haah—
+[name="엠퍼러"]하아……
 
 [name="大帝"]欧厄尔那家伙看上去五大三粗的，藏酒倒还有点水平。
+[name="エンペラー"]ピーターズの野郎、見た目はあんなで不器用そうなのによ、酒選びはなかなかうまいじゃないか。
+[name="Emperor"]Eurill's a bigass cow, but he knows his wine, I'll give him that.
+[name="엠퍼러"]에우릴 녀석 생긴 건 우락부락해가지곤, 술 보는 눈은 나름 있단 말이지.
 
 [name="大帝"]等拿完唱片再去他那里多搬几箱。
+[name="エンペラー"]レコードを運び終わったらあいつのとこへ行ってもう何箱かもらってこよう。
+[name="Emperor"]Once we're done with the vinyls, Imma get a few more crates from him.
+[name="엠퍼러"]LP판 다 챙기면 다시 가서 몇 박스 더 겟 해야겠어.
 
 [name="大帝"]你们两个再不回来黑胶都要自己飞到我怀里了。
+[name="エンペラー"]待ちくたびれたぜ！　お前らが戻ってこなけりゃレコードは俺が自分で全部運んじまったとこだ。
+[name="Emperor"]Took your sweet time, didn't you? The vinyl damn near grew legs and walked up here.
+[name="엠퍼러"]너네가 하도 안 오길래 LP판이 알아서 내 품으로 날아오기만 기다렸다.
 
 [name="德克萨斯"]货不是鼠王给黑帮的吗？
+[name="テキサス"]あの荷物は、鼠王からマフィアに宛てたものじゃなかったのか？
+[name="Texas"]Wasn't the package for the mafia from the Rat King?
+[name="텍사스"]래트킹이 조직에게 물건을 보낸 게 아냐?
 
 [name="大帝"]是臭老鼠的货，只是我做了点改装。
+[name="エンペラー"]ああ、あの老いぼれネズミのモンさ。俺がちょいとばかり細工をしてやっただけだ。
+[name="Emperor"]Yeah, it's the crusty rat's goods. I made a few tweaks to it.
+[name="엠퍼러"]오브콜스, 댓츠 노친네가 보낸 물건, 벗 내가 손을 살짝 본 것.
 
 [name="大帝"]那帮黑漆漆的家伙以为炸了我的黑胶就能拍拍屁股走人？
+[name="エンペラー"]あの黒ずくめのゴロツキ共め、俺のレコードを燃やしといて、タダで済むとでも思ってたのか？
+[name="Emperor"]Those bitches in black think they can get away with blowing up my vinyl collection?
+[name="엠퍼러"]그 시커먼 놈들이 감히, 내 LP판을 빠게놓고 도망갈 수 있을 줄 아나 보지?
 
 [name="大帝"]想都别想。
+[name="エンペラー"]そうは問屋がおろさねぇってんだ。
+[name="Emperor"]They gonna think again.
+[name="엠퍼러"]어림도 없지, 암!
 
 [name="大帝"]告诉我，德克萨斯，他们有没有被倒数结束后播放的rap气得抓狂？
+[name="エンペラー"]……なあ、テキサス。奴らはカウントダウンの後に流れたラップを聴いてブッ倒れてやがったか？
+[name="Emperor"]So, Texas, did the punks freak when they heard me rappin' after that countdown?
+[name="엠퍼러"]세이 썸띵 텍사스. 카운트다운 후에 터진 랩을 들은 놈들이 어떻게 날뛰었는지!
 
 [name="德克萨斯"]没有。
+[name="テキサス"]……いや。
+[name="Texas"]None at all.
+[name="텍사스"]안 날뛰었는데.
 
 [name="大帝"]没有？怎么可能？
+[name="エンペラー"]倒れてない？　そんなわけねえだろ！？
+[name="Emperor"]They didn't? No way!
+[name="엠퍼러"]왓더! 말도 안 돼.
 
 [name="大帝"]那可是我为这帮小丑特别准备的rap，录之前当街找了个鲁珀试效果，他当场就气晕过去了。
+[name="エンペラー"]ありゃあ俺が、あのチンピラ共のために特別に用意したラップなんだぜ。録音前にそこらでたむろしてたループスを捕まえて、効果は実証済みだ。そいつはその場で怒り狂って倒れちまったよ。
+[name="Emperor"]I wrote this one special for those clowns. Even grabbed me a random Lupo off the street and tried it out on him before hittin' the booth. He didn't last five seconds.
+[name="엠퍼러"]그건 놈들에게 주는 특별 선물, 그 길거리 루포는 열 받았겠지 뿜뿜, 입에 물어놓고 게거품!
 
 [name="德克萨斯"]他们没有气晕，听了几句rap以后很干脆地冲出来打我和能天使了。
+[name="テキサス"]奴らは倒れたりはしなかった。ラップを少し聴いた後、ものすごい勢いで飛び出してきて私とエクシアを追いかけてきた。
+[name="Texas"]Your rap didn't knock them out. Actually, they started chasing us after a few verses.
+[name="텍사스"]입에 거품 물고 쓰러지거나 하진 않았고, 랩을 듣더니 다짜고짜 나랑 엑시아한테 달려들긴 했어.
 
 [name="德克萨斯"]我们两个开车在龙门绕了半天才甩开黑帮的人。
+[name="テキサス"]私たちは車で龍門の街中をぐるぐる走り回って、ようやく奴らを撒けたんだ。
+[name="Texas"]We drove all across Lungmen for the better part of the day just to get away from them.
+[name="텍사스"]차를 타고 용문을 반나절 가까이 돌아다닌 끝에야 놈들을 따돌릴 수 있었다고.
 
 [name="大帝"]那肯定是你的问题。
+[name="エンペラー"]じゃあそれはお前のミスだな。
+[name="Emperor"]Gotta be your problem.
+[name="엠퍼러"]그건 순전히 너의 프라블럼.
 
 [name="大帝"]我可是精确估算了你送货交接的平均时间。
+[name="エンペラー"]俺はお前の配達の平均時間を精確に計算してたんだぜ。
+[name="Emperor"]I figured your average delivery time and worked it into the plan.
+[name="엠퍼러"]내가 너 물건 건네는 평균 시간 계산하는 건 마치 컴퓨터.
 
 [name="大帝"]为了保护员工的人身安全，我录音的时候就已经在前几分钟留了空白，还在延时播放按钮上多点了两三下。
+[name="エンペラー"]逃げる時間を確保してうちの従業員の身の安全を守るために、録音する時に数分だけ空白を入れたんだ。再生延期ボタンだって二、三回は押したしな。
+[name="Emperor"]I had a few extra minutes of nothin' in there when I was recording and then gave that delay button a few taps just to give you two time to get away.
+[name="엠퍼러"]오브콜스! 우리 직원님 세이프티를 고려해서, 내가 녹음할 땐 남겨뒀지 몇 분의 스페어. 게다가 너 때문에 플레이 연기 버튼도 눌러줬다고 한 두 세번!
 
 [name="大帝"]啊我明白了。
+[name="エンペラー"]あ……わかったぞ。
+[name="Emperor"]Oh, I got it.
+[name="엠퍼러"]오, 아이가릿.
 
 [name="大帝"]那些个鲁珀又因为你的名字问东问西了？
+[name="エンペラー"]あのループス共はお前の名前を聞いて、あれこれ尋ねてきやがったんだな？
+[name="Emperor"]Did that Lupo ask you something 'cause of your name again?
+[name="엠퍼러"]네 이름이 나왔나 보지 그 루포 입에서?
 
 [name="德克萨斯"]......
+[name="テキサス"]……
+[name="Texas"]......
+[name="텍사스"]……
 
 [name="大帝"]正是考虑到了这一点，才显得我准备周全啊。
+[name="エンペラー"]そのことまで計算に入れた、俺の用意周到さが際立つぜ。
+[name="Emperor"]See, I thought of that. You see how my mind works?
+[name="엠퍼러"]그 점도 다 생각해놨지. 에브리띵 이즈 인 마 손바닥.
 
 [name="大帝"]他们绝对想不到，那是我为他们特别准备的热身运动。
+[name="エンペラー"]奴らは絶対に気づかない。あれは俺が特別に用意してやったウォーミングアップだとよ。
+[name="Emperor"]They got no idea. I prepped that warm-up just for them.
+[name="엠퍼러"]놈들은 절대 모를 걸 이건 단순히 워밍업이란 걸.
 
 [name="大帝"]在进行一番激烈的追逐后回去听到这些。
+[name="エンペラー"]激しいカーチェイスのあげく、お前らを取り逃がした後に戻ってこれを聞くんだ。
+[name="Emperor"]After a wild, intense chase, they go home and listen to this badass tape.
+[name="엠퍼러"]그리고 격렬한 추격전 끝에 듣게 되는 건 바로 이 킬링 벌스.
 
 [name="大帝"]一点气恼，加一些愤怒。
+[name="エンペラー"]そりゃあムカっ腹も立つってもんだ。
+[name="Emperor"]A l'il angry, and a l'il pissed.
+[name="엠퍼러"]분함에 분노를 더해!
 
 [name="大帝"]哦！只要一口气接不上来，谁都救不了他们。
+[name="エンペラー"]それで息ができなくなっちまってもよ、誰も奴らを助けてやれねぇんだ。
+[name="Emperor"]This is gonna keep them out of breath and snuff 'em out.
+[name="엠퍼러"]롸잇! 숨도 못 돌릴 정도가 되면 아무도 걔넨 못 구할 테니.
 
 [name="大帝"]小魏只说不可以用实弹，没说我不能动嘴啊。
+[name="エンペラー"]ウェイの野郎、実弾は使ちゃいけねぇって言ってたが、口もダメだとは言わなかったからな。
+[name="Emperor"]Wei said no bullets, but he didn't say nothing about no rapping.
+[name="엠퍼러"]웨이가 한 말은 오직 실탄 사용 금지. 내가 뭐라 하건 노 바디 캔 스탑 미.
 
 [name="大帝"]啊哈哈哈哈哈哈。
+[name="エンペラー"]ガハハハハハ！
+[name="Emperor"]Ahahahahaha.
+[name="엠퍼러"]안 그래? Skrrr! 하하하하!
 
 [name="德克萨斯"]呃......
+[name="テキサス"]まったく……
+[name="Texas"]Uhh...
+[name="텍사스"]윽……
 
 [name="大帝"]继续干活，跟我搬黑胶去。
+[name="エンペラー"]仕事に戻るぞ、一緒にレコードを運んでくれ！
+[name="Emperor"]Now back to work. Carry those vinyls for me.
+[name="엠퍼러"]자 자 일들 해 일! LP판 다 옮겨!
 
 [name="德克萨斯"]是，老板......
+[name="テキサス"]了解だ、ボス……
+[name="Texas"]Yes, Boss...
+[name="텍사스"]알겠어, 보스……
 
 [name="大帝"]能天使人呢？
+[name="エンペラー"]エクシアはどこ行った？
+[name="Emperor"]Where's Exusiai?
+[name="엠퍼러"]엑시아는?
 
 [name="德克萨斯"]补充橡皮子弹去了。
+[name="テキサス"]ゴム弾の補充に。
+[name="Texas"]She's reloading her rubber bullets.
+[name="텍사스"]고무탄 채우러 갔어.
 
 [name="大帝"]让她快点，好黑胶可不等人。
+[name="エンペラー"]早くしろって言っときな。良いレコードは待っちゃくれねえんだ。
+[name="Emperor"]Tell her to get a move on. The vinyls ain't waiting.
+[name="엠퍼러"]빨리 오라 그래, 좋은 물건은 사람을 기다려주지 않으니.
 
 [name="德克萨斯"]是......
+[name="テキサス"]了解……
+[name="Texas"]Right...
+[name="텍사스"]알겠어……
 

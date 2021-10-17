@@ -1,11 +1,17 @@
 ID:
 	char_501_durin
 
-干员代号\Name:
+CV:
 	杜林
 	ドゥリン
 	Durin
 	두린
+
+干员代号\Name:
+	影山灯
+	影山灯
+	Akari Kageyama
+	카게야마 아카리
 
 招聘合同\Character Usage:
 	罗德岛术师干员杜林，将以源石技艺为小队构筑战略优势。
@@ -35,147 +41,289 @@ ID:
 	
 
 语音\Voices:
-	早——上——好，博......士，啊，那我把睡袋放这儿，接下来，我就继续睡了，麻——烦——你——了。
 	おはようドクター。私の寝袋、ここに置いといていいよね。じゃあ後はよろしくー。
 	Morning, Doctor... Mind if I just leave my sleeping bag here...? Thanks. The rest is up to you...
 	좋은 아침, 박사. 내 침낭, 여기 둬도 되지? 그럼 뒤는 잘 부탁해.
 
-	我的战斗方式？当然是用法术来战斗吧。让我来向你展示，大地的威严。
 	私の戦い方？もちろんアーツで戦うよ。大地の威厳を見せてあげようか。
 	How do I fight? Using Arts, of course... Want me to show you the power of earth?
 	내가 싸우는 방식? 물론 아츠로 싸우지. 대지의 위엄을 보여줄까.
 
-	现在几点啊......？其实，早晨，中午，下午和晚上，都是我的非工作时间。
 	今何時……？実を言うと、私にとっては、朝も、昼も、夕方も、夜もぜーんぶ活動時間外なんだよね。
 	What time is it...? You see, I don't work mornings, noons, afternoons, or nights...
 	지금 몇 시야…? 솔직히 말하면, 나한테는 아침도, 점심도, 저녁도, 밤도 전~부 활동 시간 밖이거든.
 
-	要帮我定制小号制服？不——要，大号制服在睡觉的时候能当被子，很——暖和。
 	Sサイズの制服を作ってくれるって？いらないね。大きいサイズのを着てれば、仮眠するときに布団として使えるからね。暖かいんだよ。
 	You'll make an S-sized uniform for me...? No thanks. My oversized one works as a sheet when I take naps... plus, it's really warm.
 	스몰 사이즈 유니폼을 만들어 주겠다고? 필요 없어. 큰 사이즈를 입고 있으면 선잠 잘 때 이불로 쓸 수 있거든, 따뜻해.
 
-	博——士——我——请假！因为我，已经被邀请参加速睡大赛啦。
 	ドークーターー、お休みちょうだい！スピード就寝コンテストってのに誘われちゃったからさー。
 	Dooooctoooooor? I'd like to sleep. I got an invitation to the Speedy Sleep Contest, you see.
 	박~사~아~ 휴가 좀 낼게! 빨리 잠들기 콘테스트라는 거에 초청받았거든~
 
-	博士，来看看这个。这可不是我平时用的法杖，它是一枚钟摆。接下来博士会在五分钟之内睡着，不会给我安排任何工作......Zzzz......
 	ドクター、これ見て。これはね、いつもの杖じゃなくて振り子だよ。ドクターはこれから5分以内に寝落ちして、私に仕事の指示ができなくなぁー…Zzz……。
 	Doctor, check this out. This isn't my regular staff, it's a pendulum. You're feeling very sleepy and will nap in 5 minutes without giving me any assignments... Zzzz...
 	박사 여기 봐봐. 이건 말이지, 평범한 지팡이가 아니라 시계추야. 박사는 이제 5분 안에 잠이 들어, 나에게 업무 지시를 내릴 수 없게 된…… 
 
-	唉，可以，和博士您聊聊我的故乡吗。
 	できれば、ドクターと私の故郷の話もしてみたいな。
 	I was hoping I could tell you about my hometown, Doctor.
 	괜찮으면 박사랑 내 고향 얘기를 해보고 싶어.
 
-	好不容易把博士哄睡着了，我......竟然一点都不困了，可......恶......
 	ドクターが眠ったら、なんだか私が眠れなくなっちゃった。もうー。
 	After you went to sleep, I somehow didn't feel sleepy at all anymore... Hmmmph...
 	박사가 잠들어버리니까, 왠지 내가 잠이 안 오잖아… 정말… 
 
-	喂——喂！能听到我说话吗？低头看下面啦！初次见面，大个子的博士，我是术师，杜林哦。
 	おーい、おーい。聞こえますかー？下、しーたー！はじめまして大きいドクターさん、術師のドゥリンでーす。
 	Hello? Hellooooo? Can you hear me? Down here. Down heeeeere! Nice meeting you, big Doctor. I'm the Caster Durin.
 	어~이, 어~이, 들리시나요~? 밑에, 밑에!! 처음 뵙겠습니다 커다란 박사 씨, 캐스터 두린이라고 합니다.
 
-	啊——我·终·于·变·强·啦。
 	おー、やーっと、強～くな・れ・た。
 	Whoa... I've fiiiinally gotten s-tron-ger.
 	오~ 드디어~ 강·해·졌·다.
 
-	健康的秘诀，是好好睡觉。
 	元気の秘訣はよく寝ることだよー。
 	The secret to staying healthy is to sleep whenever you can.
 	넘치는 기운의 비결은, 잘 자는 거야~
 
-	这是队长命令，各位，现在就开始打盹，补充体力。
 	隊長命令！みんな、今すぐ仮眠をとって体力を蓄えよー！
 	Captain's orders: everyone, save your energy and take a nap!
 	팀장이 명령한다! 모두, 지금 당장 잠을 자서 체력을 비축하라~!
 
-	如果可以的话，我想在地上挖个洞当掩体，用来睡觉。
 	できれば、地面に穴を掘って、シェルターにして一眠りしたいなー。
 	I wanna dig a hole in the ground and make a shelter to sleep in, if you don't mind.
 	할 수만 있다면 땅에 구멍을 파서, 방공호로 삼아서 자고 싶어… 
 
-	各位，拜托你们喽。
 	みんなー、よろしくねー。
 	Take over for me. Thaaanks.
 	다들~ 잘 부탁해~
 
-	哦，哦。
 	おおー。
 	Wooo.
 	오오~
 
-	嗯？
 	うーーん？
 	Hmm?
 	으응?
 
-	真麻烦。
 	面倒くさーい。
 	What a pain in the A.
 	귀찮아… 
 
-	我知道啦。
 	わかったよー。
 	Okaaaay, I'll do it.
 	알았어.
 
-	打倒你！
 	倒しちゃうよ！
 	You're going down!
 	쓰러뜨린다!
 
-	去吧！
 	いけー！
 	Gooooooo!
 	가라!
 
-	干嘛要来处理这么棘手的目标啊？轻轻松松的不是更好嘛！还好赢了......
 	どうしてこんなに面倒な作戦に挑むの？もっと楽なのがいいなー！まぁ、勝てたからいいんだけどさ……。
 	Why do we have to take on annoying missions like this? Can't we do something easier... Still, it's nice that we won.
 	왜 이런 귀찮은 작전에 임하는 거야? 더 편한 게 좋은데~! 뭐, 이겼으니 됐지만… 
 
-	胜利，理所当然，在背后默默地用法术支援你们的可是我啊。
 	当然の勝利だ、ずーっとアーツで後方援護を頑張ったもんね。
 	Of course we won. I worked real hard supporting you with my Arts, after all.
 	당연한 승리야. 계속 아츠로 열심히 후방 엄호했거든.
 
-	博士，还在纠结放走了多少敌人吗？
 	ドクター、逃した敵がまだ気になってるの？
 	Doctor, are you still worried about those enemies that got through?
 	박사, 놓친 적이 아직 신경 쓰여?
 
-	呜......对不起......下次我会认真战斗的......
 	うぅ……ごめんなさい……次からはもっとちゃんと戦う……。
 	Ugghh... Sorry... I'll try harder next time...
 	으으… 미안합니다… 다음부턴 더 제대로 싸울게… 
 
-	巨人国......我来了！
 	巨人の国に……来たーーーっ！
 	The Land of Giants... Here I aaaaaaaaaaaaaaam!
 	거인 나라에… 왔다아아아아아아아!
 
-	咕？
 	ぐにゅー？
 	Hmmm?
 	그뉴…?
 
-	现在我心情很好，给你变个魔术怎么样？
 	気分がいいから、手品でも見せてあげよーか？
 	I'm in a good mood, so how about a magic trick?
 	기분이 좋으니까, 마술이라도 보여줄~까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	呼啊......早安......
 	ふわぁ……おはよう……。
 	*Yawn*... Good morning...
 	후아암…… 좋은 아침…… 
+
+干员档案\Background:
+	基础档案 :
+	【代号】杜林
+	【性别】女
+	【战斗经验】两年
+	【出身地】未公开
+	【生日】12月15日
+	【种族】杜林
+	【身高】131cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ドゥリン
+	【性別】女性
+	【戦闘経験】二年
+	【出身地】非公開
+	【誕生日】12月15日
+	【種族】ドゥリン
+	【身長】131cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Durin
+	[Gender] Female
+	[Combat Experience] 2 years
+	[Place of Birth] Undisclosed
+	[Date of Birth] Dec. 15
+	[Race] Durin
+	[Height] 131cm
+	[Infection Status] 
+	Medical examination confirms she is uninfected.
+
+	기본정보 :
+	[코드네임] 두린
+	[성별] 여
+	[전투 경험] 2년
+	[출신지] 미공개
+	[생일] 12월 15일
+	[종족] 두린
+	[신장] 131cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】缺陷 
+	【战场机动】普通 
+	【生理耐受】缺陷 
+	【战术规划】普通 
+	【战斗技巧】普通 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】欠落
+	【戦場機動】普通
+	【生理的耐性】欠落
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Feeble
+	[Mobility] Normal
+	[Physical Resilience] Flawed
+	[Tactical Acumen] Normal
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 부족
+	[전장 기동력] 보통 
+	[생체 인내도] 부족
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	杜林，罗德岛A4行动组所属干员。
+	有着较强的法术天赋，但因自身性格和体质原因无法完全施展。
+	极度嗜睡，会随时在任何地方进入睡眠状态，日均睡眠时间远高于干员平均值，但工作却鲜少有缺漏。
+
+	個人履歴 :
+	ドゥリンはロドス行動隊A4のオペレーターである。
+	優れたアーツの才能を持つが、自身の性格と体質の影響で、完全には扱うことができない。
+	とてもよく眠り、いつどんな場所でも好きなタイミングで眠ることができ、他のオペレーター達の平均睡眠時間よりも多く眠るが、任務に支障はほぼない。
+
+	Profile :
+	Durin serves on Rhodes Island Op Reserve Team A4. 
+	She has a tremendous aptitude for Arts but is unable to fully realize her potential due to her physiology. 
+	Extremely narcoleptic, she is able to fall asleep at just about any place or time despite averaging more hours of sleep than most operators. Despite this, she makes very few mistakes in her work.
+
+	프로필 :
+	    로도스 아일랜드 작전팀 A4 소속 오퍼레이터.
+	    비교적 강력한 마법 재능을 타고났으나, 자신의 성격과 체질 문제로 이를 온전히 발휘할 수 없는 상태.
+	    잠이 극도로 많아 언제 어디서든 수면 상태로 돌입한다. 매일 평균 수면 시간 역시 오퍼레이터 평균치보다 높으나, 업무 방면으론 결점이 거의 없다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员杜林没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.18u/L
+	干员杜林经常接触经过处理的源石制品，但从未发生任何异常。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.18u/L
+	処理済みの源石制品と接することが多いが、現状異常は見られない。
+
+	Clinical Analysis :
+	Radiological exam scan showed clear outlines of internal organs with no abnormality detected. Originium Particle Test of the circulation system indicated no Oripathy. The subject is confirmed as non-infected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Durin showed no signs of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.18u/L
+	Operator Durin has come into frequent contact with processed Originium, but so far no abnormalities have been detected.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 두린으로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.18u/L
+	오퍼레이터 두린은 빈번히 가공된 오리지늄 제품과 접촉이 있으나 현재까지는 이상 현상이 발생하지 않았음.
+
+———————————————————————————————
+
+	档案资料一 :
+	工作模式：充分借助自己的身高优势，使用法术对敌人发起偷袭。
+	普通模式：找个稍微舒适点的地方，睡觉。
+
+	第一資料 :
+	仕事モード：自身の身長を活かし、アーツを使い、敵に奇襲をかける。
+	日常モード：快適な場所を探して眠る。
+
+	Archive File 1 :
+	Modus Operandi: She takes advantage of her small stature to launch surprise attacks. 
+	SOP: She finds somewhere more comfortable to sleep.
+
+	파일 자료 1 :
+	    업무 모드: 자신의 신장 우세를 이용, 마법을 사용해 적에게 기습 공격을 가한다. 
+	    노멀 모드: 편안한 장소를 찾아 잠을 잔다.
+
+———————————————————————————————
+
+	档案资料二 :
+	因为出身与众不同，杜林的饮食结构和大家稍有区别，但这并不意味着她吃的就比别人少。杜林虽然矮小，但吃东西的速度比普通人要快上许多，有时，其他干员还没吃上几口，杜林用餐结束找地方睡觉了。
+
+	第二資料 :
+	出身が他の皆と異なっているため、ドゥリンの食事の様子も少し異なる。これは他の皆と比べて少食ということではない。ドゥリンは他の誰よりも食べるのが早く、ある時は他のオペレーターがまだ口に入れる前にドゥリンは食べ終わっており、寝る場所を探しに行っていたほどだった。
+
+	Archive File 2 :
+	Thanks to her peculiar origins, Durin eats a slightly different diet than most operators, though this does not mean she eats any less. Despite her small stature, she is known to wolf down an entire meal before her fellow operators have taken more than a few bites. She then promptly seeks out a place to sleep.
+
+	파일 자료 2 :
+	    출신이 독특하기에, 두린의 식생활 습관 역시 조금 남달랐다. 그녀가 섭취하는 음식의 양이 다른 사람보다 적다는 것은 아니다. 두린은 비록 조금 왜소하지만, 음식 섭취의 속도가 보통 사람보다 몇 배나 빨랐는데, 때로는 다른 동료들이 체 몇 입도 먹지 않았을 때, 두린이 식사를 마치고 다른 곳으로 잠을 자러 가기도 한다.

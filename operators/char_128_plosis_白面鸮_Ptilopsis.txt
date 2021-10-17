@@ -1,11 +1,17 @@
 ID:
 	char_128_plosis
 
-干员代号\Name:
+CV:
 	白面鸮
 	フィリオプシス
 	Ptilopsis
 	프틸롭시스
+
+干员代号\Name:
+	金元寿子
+	金元寿子
+	Hisako Kanemoto
+	카네모토 히사코
 
 招聘合同\Character Usage:
 	莱茵生命数据维护员白面鸮启动完成，请输入命令行进行操作。
@@ -43,177 +49,538 @@ ID:
 	엔도르핀
 
 语音\Voices:
-	您好，博士，请问需要什么帮助？
 	こんにちは、ドクター。ご用件は何でしょう？
 	Greetings, Doctor. How may I assist you?
 	안녕하십니까, 박사님. 무슨 일이신가요?
 
-	......深度睡眠......Zzzzz......修改高级配置与电源管理接口......Zzzzz......
 	……ディープスリープモード継続中……Zzzz……電源管理の設定を更新しています……Zzz……。
 	Deep Sleep Mode enabled... Zzzzz... Switching to Power Saving Mode... Zzzzz...
 	…숙면 모드 사용 중… 쿨쿨… 전원 관리 설정을 업데이트하고 있습니다… 쿨… 
 
-	种族特性与病毒效果叠加，导致我在会话中会随时休眠，请不必在意。
 	種族の特性とウイルス感染の影響により、会話の途中で寝てしまうことがあります。どうかお気になさらないでください。
 	Due to my racial traits and the infection's effect on my body, I may fall asleep in the midst of a conversation. Please pay it no mind.
 	종족의 특성과 바이러스 감염의 영향에 따라 대화 도중 잠이 드는 경우가 있습니다. 부디 신경쓰지 말아 주시기 바랍니다.
 
-	我与赫默博士是在莱茵生命认识的。在某内部项目中，我为她提供了大数据分析和风险评估。
 	サイレンスさんはライン生命にいた頃からの知り合いです。とあるプロジェクトで、彼女のためにビッグデータの分析とリスクアセスメントを行ってました。
 	I met Dr. Silence at Rhine Lab. I provided big data analysis and risk evaluation for her on a secret project.
 	사일런스 씨와는 라인 랩에 있을 때부터 알던 사입니다. 모 프로젝트에서 사일런스 씨를 위해 빅 데이터 분석과 위험 평가를 시행했었습니다.
 
-	警告！开始将罗德岛的数据库还原至初始状态......没事的，这是一个玩笑，请不要惊慌。
 	警告、これより、ロドスのデータベースを初期化します。……冗談です、そんなに慌てないでください。
 	Warning! Reverting Rhodes Island database to initial state... Don't worry. It's just a joke. Please don't panic.
 	경고. 지금부터 로도스 아일랜드의 데이터베이스를 초기화합니다… 농담입니다. 그렇게 당황하지 말아 주십시오.
 
-	如果不能通过优化提高性能的话，我会建议您进行重构。这样，数据通讯的效率会上升，白面鸮也会......Zzzz......
 	最適化でのパフォーマンス上昇が見込めない場合、リファクタリングをおすすめいたします。データ通信の効率が上昇し、フィリオプシスは……Zzz……。
 	I recommend you refactor my data if optimization fails to increase my performance. This will improve communication efficiency, and Ptilopsis will... Zzzz...
 	최적화를 통한 퍼포먼스 상승을 기대할 수 없는 경우, 리팩토링을 추천드립니다. 데이터 통신의 효율이 상승하여, 프틸롭시스는… 쿨… 
 
-	说话方式？这是源石病毒的影响，绝非我觉得有趣才这样做的。
 	この喋り方ですか？これは源石の影響です。決して面白がっているということはございません。
 	My manner of speaking? It is caused by Originium poisoning. By no means do I enjoy articulating my thoughts in this way.
 	말투 말씀이신가요? 오리지늄의 영향으로 이렇게 되었습니다. 결코 재미로 이러는 것이 아닙니다.
 
-	警告，系统已从严重错误中恢复，正在应用最近一次正确启动时的配置。请不要介意。
 	警告、システムは重篤なエラーから回復しました。前回正常起動時の構成を適用中。どうかお気になさらず。
 	Warning, system has recovered from a fatal error. Reconfiguring to last normal system bootup point. Please pay it no mind.
 	경고, 시스템이 심각한 오류로부터 복구되었습니다. 마지막 정상 기동 시의 구성을 적용 중. 신경쓰지 마십시오.
 
-	实际上，采用这样的说话方式需要承受相当大的负担。但这是为了防止系统中枢被那个声音吞噬的必要措施。我恳求您，即使我失去了理智，也请博士指引我回归正确的道路。
 	実をいうと、この喋り方はかなり負担がかかります。ですが、システム中枢があの声に飲み込まれないようにするためのものなのです……。ドクター、フィリオプシスが暴走してしまっても、どうか正しい道に導いてくれることを、切に願います。
 	It is, in fact, quite burdensome to speak in this manner. But this is a necessary measure to prevent the system nexus from being devoured by that other voice. Doctor, if I become rampant, please guide me back onto the right path.
 	솔직히 말씀드리자면, 이 말투는 무척 부담이 됩니다. 하지만, 이는 시스템 중추가 그 목소리에 삼켜지지 않도록 하기 위한 것입니다…… 박사님, 프틸롭시스가 폭주해버려도, 부디 바른길로 인도해주시기를 간구드립니다.
 
-	......系统进入睡眠模式。
 	……システム、スリープモードに入ります。
 	System... is now in Sleep Mode...
 	… 시스템을 슬립 모드로 전환합니다.
 
-	前莱茵生命数据维护员白面鸮，如果方便的话，请使用命令行完成您所需的操作。
 	ライン生命医科学研究所の元データアナリスト、フィリオプシスです。ご迷惑でなければ、コマンドラインによる命令を希望します。
 	I am Ptilopsis, former data analyst of the Rhine Lab Medical Research Institute. Please submit your orders via the Command Line.
 	라인 생명연구소의 전 데이터 분석가였던 프틸롭시스입니다. 불편하지 않으시다면 커맨드 라인을 통해 명령하여 주시기 바랍니다.
 
-	正在读取软件包列表......申请完成。
 	パッケージを読み込み中……適用完了しました。
 	Reading package data... Resource expended.
 	패키지 로딩 중… 적용 완료되었습니다.
 
-	更新程序安装完成。 白面鸮的系统权限已更新。
 	アップデータのインストール完了。フィリオプシスのシステム権限が更新されました。
 	Finished installing update. Ptilopsis' system permissions have been revised.
 	업데이트 설치 완료. 프틸롭시스의 시스템 권한이 갱신되었습니다.
 
-	警告，开始将罗德岛数据库还原至二年前......这是一个玩笑，请放心。系统更新已完成。
 	警告、これよりロドスのデータベースを二年前のバックアップから復元します。……冗談です、ご安心ください。システムのアップデートが完了しました。
 	Warning. Reverting Rhodes Island database to two years ago... Relax. It's just joke. System update completed.
 	경고, 지금부터 로도스 아일랜드의 데이터베이스를 2년 전의 백업 지점으로 복원합니다… 농담입니다, 안심하십시오. 시스템 업데이트가 완료되었습니다.
 
-	已将新数据汇编入程序组。
 	新たなデータを、パッケージにビルドしました。
 	Successfully built package using new data.
 	새로운 데이터를 패키지에 빌드하였습니다.
 
-	已获得部队管理员访问令牌。
 	部隊管理者のアクセス権限を入手しました。
 	Unit Administrator Access Token acquired.
 	부대 관리자의 접근 권한을 입수하였습니다.
 
-	应用地图和敌人坐标的直接内存访问已设置。 请稍等。
 	マップと敵座標のDMA設定を適用しています。少々お待ちください。
 	Direct memory access to application map and enemy coordinates set. Please wait.
 	맵과 적 좌표의 DMA 설정을 적용하고 있습니다. 잠시 기다려주십시오.
 
-	战术支援系统上线。
 	戦術支援システム、オンライン。
 	Tactical support system online.
 	전술 지원 시스템, 온라인.
 
-	程序启动。
 	プログラム、起動します。
 	Program initiating.
 	프로그램을 기동합니다.
 
-	初始化完成。
 	初期化、完了しました。
 	Initiation completed.
 	초기화를 완료했습니다.
 
-	法术单元充能中。
 	アーツユニット、チャージ中。
 	Arts Unit is charging.
 	아츠 유닛, 충전 중.
 
-	目标设定。
 	ターゲット、ロックオン。
 	Locked on to target.
 	타깃, 록 온.
 
-	医疗进程开始。
 	医療プロセス、開始します。
 	Initiating healing process.
 	의료 프로세스, 개시하겠습니다.
 
-	装载完毕。
 	ロード、完了しました。
 	Loading completed.
 	로드를 완료하였습니다.
 
-	治疗模式。
 	治療モード、適用します。
 	Healing Mode enabled.
 	치료 모드를 적용합니다.
 
-	法术单元启动。
 	アーツユニット、起動します。
 	Activating Arts Unit.
 	아츠 유닛을 기동합니다.
 
-	高难度的战役亦被博士完全攻克，或许有朝一日您将能解决非确定性多项式时间问题带来的困惑。
 	高難易度のマップも攻略できるドクターであれば、いつか非決定性多項式時間の問題も、解明できると予想されます。
 	Even such a difficult scenario couldn't stop you, Doctor. Perhaps one day you will find the solution for the non-deterministic polynomial time problem.
 	고난이도의 맵도 공략 가능한 박사님이시라면, 언젠가 비결정성다항식시간 문제도 해결하실 수 있으리라 예상됩니다.
 
-	您的逻辑推论完全正确，完美的计算。
 	予測通りの戦いでした。完璧です。
 	Your logical deduction was absolutely correct. What a perfect calculation.
 	예측대로의 싸움이었습니다, 완벽하군요.
 
-	仍有一些错误出现在您的计算中，请注意。
 	若干のエラーを確認しました。ご注意ください。
 	A number of errors have been detected. Please confirm.
 	약간의 오류가 확인되었습니다. 주의하십시오.
 
-	作战行动中发生了问题，请重启系统。
 	作戦行動中に問題が発生しました。システムを再起動してください。
 	A fatal error has occured during the mission. Please reboot the system.
 	작전 행동 중 문제가 발생하였습니다. 시스템을 재시작해 주십시오.
 
-	这个地方就像磁盘列阵一样吗？
 	この場所はディスクアレイのようなものですか？
 	Is this place like a disk array?
 	이 장소는 디스크 어레이 같은 곳입니까?
 
-	发生错误。
 	エラー発生。
 	Error.
 	에러 발생.
 
-	检测到白面鸮对博士的好感度上升，要跳到下一个事件选项吗？
 	フィリオプシス、ドクターへの好感度の上昇を感知しました。次の選択肢までスキップしますか？
 	Detecting affection increase for the Doctor within Ptilopsis. Would you like to skip to the next dialogue option?
 	프틸롭시스, 박사님에 대한 호감도 상승을 감지했습니다. 다음 선택지까지 건너뛰시겠습니까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	全新的一天，检测到博士上线，白面鸮的情绪指数上升。
 	新たな一日、ドクターがオンラインになりました。フィリオプシスの感情の高まりを検知。
 	It is a new day. The Doctor is now online. Detecting emotional surge within Ptilopsis.
 	새로운 하루의 시작, 박사님께서 온라인 상태가 되었습니다. 프틸롭시스의 감정이 들뜨는 것이 감지되었습니다.
+
+干员档案\Background:
+	基础档案 :
+	【代号】白面鸮
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】10月6日
+	【种族】黎博利
+	【身高】164cm
+	【矿石病感染情况】
+	体内脏器有可见源石结晶阴影，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】フィリオプシス
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】10月6日
+	【種族】リーべリ
+	【身長】164cm
+	【鉱石病感染状況】
+	臓器に源石結晶の陰影が見られる。感染者に認定。
+
+	Basic Info :
+	[Code Name] Ptilopsis
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Columbia
+	[Date of Birth] October 6
+	[Race] Liberi
+	[Height] 164cm
+	[Infection Status]
+	Traces of Originium Crystals have been detected in her body, confirming she is infected.
+
+	기본정보 :
+	[코드네임] 프틸롭시스
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 컬럼비아
+	[생일] 10월 6일
+	[종족] 리베리
+	[신장] 164cm
+	[광석병 감염 상황]
+	체내 장기에 오리지늄 결정 음영 확인됨에 따라, 감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】普通 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】优良 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	......
+	已在20593个搜索结果中，为您选择了相对精准的答案。 
+	干员白面鸮，前莱茵生命公司，数据维护专员。在医疗类源石技艺领域取得不菲成就，于医疗数据维护，常规医疗方案应用，多项目医疗行为等相关领域，拥有丰富经验。 
+	现于罗德岛担任医疗干员，亦就职于医疗部门，某临床实验小组，项目领头人：赫默医生。同时，为罗德岛提供若干项医疗项目的相关辅助工作。 
+	...... 
+
+	個人履歴 :
+	
+	……
+	20593個の検索結果から、あなたの要求に合致する答えを選出しました。
+	フィリオプシスは、元ライン生命医科学研究所データアナリスト。医療系アーツの分野に突出した成果あり。医療データベースのメンテナンスや通常の医療法の応用、そして多項式医療行為といった分野で豊富な経験を有す。
+	現在はロドスに医療オペレーターとして在籍しており、医療部の臨床実験チームに所属している。なお、本チームの責任者はサイレンス医師。また、ロドスの多数の医療項目を補助する仕事も行っている。
+	……
+
+	Profile :
+	...
+	I have chosen an accurate answer for you from 20,593 search results.
+	Operator Ptilopsis. Formerly a data maintenance specialist at the Rhine Lab company. Has made considerable accomplishments in the area of Originium Healing Arts. Experienced in medical data processing, routine medical program applications, multi-project medical operations, and other related fields.
+	Now a member of the medical staff at Rhodes Island. She is also a member Dr. Silence's clinical team and assists with treatment programs at Rhodes Island.
+	...
+
+	프로필 :
+	……
+	20593개의 검색결과 중 가장 정확한 결과를 표시합니다.
+	……
+	    전 라인 생명연구소 데이터 관리원. 순간 치료 및 데이터 총괄 정리에 정통하며, 모든 임무를 마치 기계처럼 냉정하고 정확하며 완벽하게 완수한다. 치료 계열 오리지늄 아츠 관련 영역에서 적지 않은 성과를 낸 경력이 있으며, 의료 데이터 관리나 정규의료계획의 응용, 다중의료행위 등 관련 영역에 풍부한 경험을 갖고 있다. 현재는 로도스 아일랜드에서 의료 부문에서 모 임상실험팀의 프로젝트 리더인 사일런스와 함께 일하고 있으며, 메딕 오퍼레이터로서 로도스 아일랜드의 의료 보조 업무도 서포트하고 있다.
+	……
+
+———————————————————————————————
+
+	临床诊断分析 :
+	......
+	已为您检索出相关项目的医疗检测报告。
+	【项目名称】干员，白面鸮。
+	【检测结果报告】
+	根据造影检测结果显示，干员白面鸮，体内脏器，轮廓模糊；异常阴影，可见；循环系统内，源石颗粒检测异常，已检测出典型矿石病感染迹象。现阶段可确认为，矿石病感染者。
+	
+	【体细胞与源石融合率】8%
+	干员白面鸮。矿石病灶主要分布：多见于体内。感染程度：轻度。
+	
+	【血液源石结晶密度】0.33u/L
+	干员白面鸮。体内源石扩散情况：缓慢。病症进程：目前控制良好。
+	......
+
+	健康診断 :
+	
+	……
+	関連項目のメディカルチェック結果を表示しています。
+	【項目名】オペレーター、フィリオプシス
+	【メディカルチェック】
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】8%
+	鉱石病病巣：体内にて多数確認。感染レベル：軽度
+	
+	【血液中源石密度】0.43u/L
+	体内源石拡散状況：緩慢。病状進行度：現在症状は安定している。
+	……
+
+	Clinical Analysis :
+	......
+	Related medical test report retrieved.
+	[Project Name] Operator: Ptilopsis. 
+	[Test Results] According to test results, this operator's internal organs exhibit abnormal shadows. Originium granules have been detected within the circulatory system. Typical Oripathy indicators have been detected. At this stage, it can be confirmed that this operator is Infected.
+	
+	[Cell-Originium Fusion Rate] 8%
+	Ore lesions are mostly internal. Infection level: Mild.
+	
+	[Blood Crystal Density] 0.43u/L
+	Spread of Originium through the body: Slow. Infection Progress: Under control.
+	......
+
+	임상 진단 분석 :
+	……
+	    문의하신 관련 프로젝트의 의료 검사 보고서를 찾아냈습니다.
+	[프로젝트 명칭] 오퍼레이터, 프틸롭시스.
+	[검사 결과 보고서]
+	    방사선 검사 결과, 오퍼레이터 프틸롭시스의 체내 장기의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 이미 전형적 광석병 감염 증상 확인됨. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 8%
+	광석병 병소 주요 분포: 체내 다양한 곳에서 확인됨. 전염 정도: 경도.
+	
+	[혈중 오리지늄 결정 밀도] 0.43u/L
+	체내 오리지늄 확산 상황: 완만. 병세 정도: 현재 순조롭게 억제 중.
+	……
+
+———————————————————————————————
+
+	档案资料一 :
+	......
+	您好。请问，需要何种帮助？
+	......
+	针对您的提问，白面鸮的回答是：正确。目前与您正在进行交流的对话界面，正是干员白面鸮本人。
+	作为罗德岛部分公开数据的维护协助干员，白面鸮拥有完全的查阅权限、自由评论权限，以及部分经限制的修改权限。
+	于此同时，数据记录专员，正处于对话记录工作流程中，关于您做出的，所有定义明确的搜索行为，将会被完全记录。
+	......
+	收到，信息已明确接收。
+	干员白面鸮，目前于罗德岛的定位为医疗干员（资深），与赫默医生相同，均为莱茵生命某项目部门前成员。
+	目前，将现代化医疗技术与相关源石技艺研究，引入、并致力使之成为罗德岛的主导性医疗项目，是我们长期以来的选择与目的。
+	同时，作为数项矿石病治疗方案的编撰与提出，亦由赫默医生主推，在这其中，白面鸮担任赫默医生的助手。在数据的记录、提取与分析工作上，白面鸮的位置将较为关键。
+	此外，对矿石病患者，干员伊芙利特，其日常监护工作，白面鸮亦从中进行一定的协助。
+	......
+
+	第一資料 :
+	……
+	こんにちは。ご用件はなんでしょう？
+	……
+	あなたの質問に対するフィリオプシスの回答：その通りです。現在コミュニケーション画面に映っているのは、フィリオプシス本人です。
+	ロドスの一部の公開データをメンテナンスするオペレーターとして、フィリオプシスは閲覧権限やコメント権限、及び一部制限付きのアクセス権限を持っています。
+	同時に、現在この会話はデータ記録員により記録されています。よって、明確に検索行為と判断されるあなたの行動は全て記録されます。
+	……
+	了解しました。情報を確認しました。
+	フィリオプシスは現在、ロドスに医療オペレーターとして勤務中。サイレンス医師と同じく、ライン生命の元社員になります。
+	現在、現代の医療技術と関連するアーツ研究を導入し、ロドスの主要な医療プロジェクトとして発展させることが、我々の長期にわたる選択と目的となっています。
+	同時に、いくつかの鉱石病治療方針の作成と提出に関しては、サイレンス医師が主な責任者となっているほか、フィリオプシスがそのアシスタントをしています。データの記録、選別、分析など比較的重要なものが、フィリオプシスの担当となっており、
+	そのほか、鉱石病感染者であるイフリータへの日常的な看護と監督もしています。
+	……
+
+	Archive File 1 :
+	......
+	Hello. Excuse me. Do you need any help?
+	......
+	In response to your question, Ptilopsis replies: Correct. The conversation interface that you are communicating with is Ptilopsis herself. 
+	As Rhodes Island's published data maintenance assistant, Ptilopsis has the authority for complete reference, free commenting, and some limited modification privileges.
+	At the same time, the Data Recording Officer is currently involved in the dialogue recording workflow procedure. All clearly defined searches will be recorded.
+	......
+	Message has been clearly received.
+	Ptilopsis is currently a senior medical Operator at Rhodes Island. Like Dr. Silence, she is a former member of the Rhine Lab Project Department.
+	At present, it is our long-term goal to introduce modern medical technologies and related Originium Arts research as primary medical projects at Rhodes Island.
+	Ptilopsis has acted as assistant to Dr. Silence in compiling and presenting several Oripathy treatment programs and serves a critical role in data recording and analysis.
+	In addition, Ptilopsis has also assisted to a certain extent with the day to day management of an infected Operator named Ifrit.
+	......
+
+	파일 자료 1 :
+	……
+	    안녕하세요, 무엇을 도와드릴까요?
+	……
+	    당신의 질문에 대한 프틸롭시스의 대답은 ‘정답’입니다. 소통 중인 대화 인터페이스는 바로 프틸롭시스 본인입니다.
+	    로도스 아일랜드의 일부 공개 데이터 유지 관리 협조 오퍼레이터로서, 프틸롭시스는 완전한 접근 권한, 자유로운 코멘트 권한 및 제한적 수정 권한을 가지고 있습니다. 현재 데이터 기록원이 본 대화 과정을 기록하고 있으므로, 당신의 모든 검색 행위가 전부 기록될 것입니다.
+	…… 
+	    메시지 접수 완료.
+	    프틸롭시스는 현재 로도스 아일랜드의 메딕 오퍼레이터(시니어)로서 근무 중이며, 닥터 사일런스와 같이 과거 라인 생명연구소의 프로젝트 멤버였습니다.
+	    현재, 현대화된 의료 기술과 관계있는 오리지늄 아츠 연구를 도입, 로도스 아일랜드의 주요 의료 프로젝트가 될 수 있도록 노력하고 있으며, 이것은 우리의 오랜 선택과 목적입니다.
+	    이와 동시에, 프틸롭시스는 닥터 사일런스의 조수로서 몇몇 오리지늄 치료 방침의 편집 및 발표 작업를 돕고 있으며, 데이터 기록, 분석 추출 분야에서 매우 중요한 역할을 담당하고 있습니다. 이 뿐만이 아니라, 프틸롭시스는 감염자 오퍼레이터, 이프리트의 일상적인 감독도 돕고 있습니다.
+	……
+
+———————————————————————————————
+
+	档案资料二 :
+	......
+	信息交流界面，启动。干员白面鸮，向您问好。
+	......
+	查阅有关干员白面鸮的病情信息？
+	了解，请您稍候。
+	基于您所调查的关键字，以下资料为精确检索结果：
+	白面鸮，确诊感染者。
+	病症：嗜睡。
+	临床表现：在无征兆状况下发
+	...
+	......
+	............
+	在无征兆状况下发生异常入睡现象。
+	......是的，在醒来后，重新调阅过此次对话记录，可以了解到入睡前的我所进行的话题。
+	对应这种病症，赫默医生为我开出的治疗方案，现已做为日用进程的一部分。
+	那么，回到上一话题。
+	矿石病对白面鸮带来的影响，在于对其种族特性产生的效应深化，劫持睡眠信息指令，严重干扰生体基础神经信号传递。
+	无法预判干扰会导致其日常作业效率的大幅度下降，这是矿石病对白面鸮造成的最大影响。
+	但另一方面，矿石病具备有一定意义。是的，我们不应持完全主观的态度去批判一项客观存在的事物。
+	矿石病带给白面鸮的，是重新理解眼前一切的，全新的视角。
+	重新看待自己，看待他人，以及看待这片大地，也许......还有头顶的天空。
+	每一天我都在思考着，当源石微粒随同血液流淌时，我该如何解析，计算它们的信息。
+	我该如何在它消耗我的有机资源同时，设法换取一些积极而更有意义的东西。
+	对于白面鸮来说，这将是今后人生中最值得思考的问题。
+	......
+
+	第二資料 :
+	……
+	情報コミュニケーション画面、起動します。フィリオプシス、ご挨拶致します。
+	……
+	フィリオプシスの症状に関する情報を調べますか？
+	了解しました。少々お待ちください。
+	キーワードによる検索結果は以下の通りです。
+	フィリオプシス、感染者だと確認。
+	病名：過眠
+	臨床症状：前兆がない異常な睡眠
+	…
+	……
+	………
+	前触れなく異常な睡眠に入ります。
+	……その通りです。起きてから今回の会話記録を閲覧すれば、睡眠状態に入る直前に話していた話題を知ることができます。
+	この症状に対してサイレンス医師が打ち出した治療方針は、既に日常のプロセスの一部となっています。
+	それでは、前の話題に戻りましょう。
+	鉱石病がフィリオプシスにもたらす影響ですが、種族特性による効果が表れ、睡眠情報の指令を乗っ取り、生命体の基礎的な神経信号の伝達を妨害するなどがあります。
+	このような妨害を回避できないことが、フィリオプシスの日常的な作業効率を大幅に低下させます。これこそが鉱石病によるフィリオプシスへの一番大きな影響です。
+	しかし一方で、鉱石病もそれなりの意義を持っているので、一つの視点のみで物事を判断し、批判すべきではありません。
+	フィリオプシスが鉱石病から得たものは、目の前の全てを再認識するという新しい視点です。
+	今一度自分自身や他人、大地、そして頭上にある青空を見つめなおすことです。
+	私は日々、源石の粒が血液と一緒に体内を流れているこの瞬間をどう分析し計算すべきかを考えています。
+	フィリオプシスにとって、自分の大切な資源を源石に消耗されることと引き換えにどういったものを手に入れるべきなのかが、今後の人生の中で最も考えるべきことです。
+	……
+
+	Archive File 2 :
+	......
+	Initializing message exchange interface. I am Ptilopsis. How can I help you?
+	......
+	Are you looking for information on the status of Ptilopsis's illness?
+	Understood. Please wait a moment.
+	Based on your search keywords, I have found the following results:
+	Ptilopsis, confirmed infected.
+	Symptoms: Narcolepsy.
+	Clinical observations: Without any indication...
+	...
+	......
+	............
+	Without any indication, patient will suddenly fall into a sleeping state.
+	......Yes, after awakening, I have read the conversation log over, and have returned to the topic we were discussing before I fell asleep.
+	 Dr. Silence has drawn up a treatment plan for my illness that has already been incorporated into my daily schedule.
+	Returning to the previous topic.
+	The primary effects of Ptilopsis's Oripathy are an intensification of her racial characteristics, abnormal sleep mode functions, and disrupted biological nerve transmission.
+	Ptilopsis is unable to predict what effects on her daily efficiency will come as a result of these disruptions.
+	On the other hand, Oripathy has a certain significance for Ptilopsis. Yes, we must not judge subjectively something that objectively exists.
+	Oripathy has given Ptilopsis a new perspective on everything before her; a new understanding.
+	She now sees herself, others, and this world in a new light. And also...she has a better appreciation for the sky above.
+	Every day I wonder, as the Originium granules course through my veins, how to analyze and calculate the information they carry.
+	While they consume my body, I should try to derive some meaning from them.
+	For Ptilopsis, this is the foremost question to ponder from here on.
+	......
+
+	파일 자료 2 :
+	……
+	    정보 교류 인터페이스를 시작합니다. 안녕하십니까? 오퍼레이터 프틸롭시스입니다.
+	…… 
+	    오퍼레이터 프틸롭시스의 병세에 관한 정보를 찾고계신가요? 알겠습니다. 잠시만 기다려주십시오…… 당신의 검색 키워드에 기반해, 아래와 같은 결과를 찾아냈습니다.
+	    프틸롭시스, 감염자로 확진됨.
+	    병증: 수면 과잉
+	    임상 관찰: 아무런 조짐도 없이
+	…
+	…… 
+	………… 
+	    아무런 조짐도 없이 수면 상태에 빠져드는 현상
+	……맞습니다. 깨어난 후 대화 기록을 다시 읽고, 제가 잠들기 전 나누었던 대화 주제로 돌아왔습니다. 닥터 사일런스는 이미 저의 일상이 되어버린 저의 질병 치료를 위해 치료 방안을 강구하였습니다. 아까의 주제를 마저 말씀드리자면, 광석병은 프틸롭시스의 종족적 특성을 더욱 심화시켰습니다. 수면 정보에 대한 지시가 교란되어, 생체 기초 신경 신호 전달에 심각한 간섭을 초래하였습니다. 광석병이 프틸롭시스에게 미친 가장 큰 영향은, 바로 이러한 방해를 피할 수 없어 일상 업무 효율이 대폭 저하된다는 것입니다.
+	    다른 한편으로는, 광석병도 나름대로의 의미를 갖고 있기 때문에, 하나의 관점만으로 사물을 판단하고 비판해서는 안 된다고 생각합니다. 광석병이 프틸롭시스에게 가져온 것은, 눈 앞의 모든 것을 다시 이해한다는 완전히 새로운 관점입니다. 새롭게 자신을 대하고, 타인을 대하고, 이 대지를 대하고, 어쩌면…… 머리 위의 하늘까지도요. 매일 저는 생각합니다. 오리지늄 입자가 혈액과 함께 흐를 때, 우리는 이들의 정보를 어떻게 해석해야하고, 어떻게 계산해야 할 지를요.
+	    저는 이것이 저의 유기 자원을 소모하는 동안에 이들로부터 의미 있는 것들을 얻어내야 합니다. 프틸롭시스에게는 이것이 이후 인생을 살면서 고민할 수 있는 가장 가치 있는 문제입니다.
+
+———————————————————————————————
+
+	档案资料三 :
+	......
+	您的访问申请，白面鸮已经收到。但白面鸮拒绝赋予您调阅权限。
+	您试图通过内部系统查询“炎魔事件”的申请，白面鸮不予认可。
+	是的，所有关于莱茵生命的非公开资料，不会予以您访问权限。
+	有关干员伊芙利特的内部资料，干员赫默与塞雷娅的内部资料，以及所有相关人员的内部资料的访问，均为加密文件。
+	从我个人的感情出发，也同样建议，不要涉及这件事。
+	非常抱歉。
+	......
+	我？
+	您想知道，干员白面鸮，在该事件中所处的位置？
+	一个简单的提问。可以立刻回答。
+	白面鸮，无论身处何时，无论身处何处，均作为中立因子而存在。
+	维护数据的基本平衡，杜绝情绪所造成的不确定性影响，避免计算、行动的过程中，生成致命的错误。
+	因此，当白面鸮判定，莱茵生命的行为，将对白面鸮的选择结果进行劫持后，白面鸮会明确拒绝该项指令进程的运行。
+	但请注意，莱茵生命的研究，拥有积极推动这个世界的未来的可能性。
+	这一点，也不能因其具有黑暗一面，而加以否决。
+	这是目前可以为您透露的，关于白面鸮立场的情报。
+	......
+
+	第三資料 :
+	……
+	あなたのアクセス申請は、フィリオプシスに通知されました。しかし、フィリオプシスに閲覧権限を拒否されました。
+	あなたが内部システムを通し「炎魔事件」の調査申請は却下されました。
+	つまり、ライン生命に関する全ての非公開資料へのアクセス権限は付与できません。
+	イフリータ及びサイレンス、サリア、ないし全ての関係者に関する内部資料は、全て暗号化されています。
+	個人的な感情から言っても、このことには一切関与しないでほしいです。
+	本当に申し訳ございません。
+	……
+	私？
+	この事件におけるフィリオプシスの立場を知りたいのですか？
+	この質問の答えは簡単です。お答え致します。
+	フィリオプシスはいかなる時、いかなる場所でも、中立な存在です。
+	データベースのバランスを維持し、感情の起伏による影響を阻止し、ミスを回避します。
+	そのため、もしライン生命の行為がフィリオプシスの選択を乗っ取る恐れがあると判断された場合、そのコマンドプロセスの実行を拒絶します。
+	ただ、ライン生命の研究はこの世界の未来を積極的に前進させる可能性があることを留意してください。
+	これは、たとえライン生命に暗い一面があったとしても、否定できない点です。
+	そしてこれが現段階で、フィリオプシスの立場に関して公開できる情報となります。
+	……
+
+	Archive File 3 :
+	......
+	Ptilopsis has received your request, but has denied access.
+	Ptilopsis has denied your request to view information on the 'Flame Demon Incident.'
+	You are not allowed to read any classified information related to Rhine Lab.
+	All internal documents related to Ifrit, Silence, Saria, and any other Operators are encrypted.
+	I personally advise against mentioning these subjects.
+	I'm very sorry.
+	......
+	Me?
+	You what to know what role Ptilopsis plays in all of this?
+	That's simple. I can answer that.
+	Ptilopsis maintains a neutral stance at all times.
+	I maintain unbiased data, eliminate uncertainty caused by emotion, and avoid fatal errors during calculation and operation.
+	Therefore, when Ptilopsis judges that a Rhine Lab operation will put Ptilopsis's chosen outcome in jeopardy, Ptilopsis will directly refuse to process the command.
+	However, do understand that Rhine Lab's research includes many possibilities for pushing this world into the future.
+	This cannot be stopped simply because it has a dark side to it.
+	This is all the information I can share with you about Ptilopsis's position for the time being.
+
+	파일 자료 3 :
+	……
+	    당신의 내부 시스템을 통한 '다이아볼릭 사태' 접근 권한 신청이 프틸롭시스에 의해 거절되었습니다. 즉, 라인 랩의 모든 비공개 자료 열람 권한은 제공되지 않습니다. 이프리트에 관련된 내부 자료, 사일런스와 사리아의 내부 자료, 그리고 모든 관련 인물의 내부 자료는 암호화 되어 있습니다. 개인적인 감정으로 말씀드리자면, 이 건에 관해서는 일절 관여하지 말아주시길 권고드립니다. 대단히 죄송합니다.
+	……
+	    저 말씀이십니까? 이 사건에서 프틸롭시스가 어떤 입장이었는지 알고 싶으신 것입니까? 이 정도의 간단한 질문에는 즉시 답변이 가능합니다.
+	    프틸롭시스는 언제 어디서라도 중립을 유지하고, 데이터베이스의 균형을 유지하며, 감정 기복이 유발하는 불확실한 영향을 제어하여, 계산이나 작전 과정 중 생명에 리스크가 생기는 판단 오류를 피하는 존재입니다. 그러므로 라인 랩의 행위가 프틸롭시스의 선택 결과를 탈취할 우려가 있다고 판단되는 경우, 프틸롭시스는 그 커맨드 프로세스의 실행을 거절합니다.
+	    하지만, 라인 랩의 연구는 이 세상의 미래를 긍정적인 방향으로 전진시킬 가능성이 있다는 것을 유념하여 주십시오. 이 점은, 설령 라인 랩에게 어두운 일면이 있다고 해도 부정할 수 없는 사항입니다. 그리고 이것이 현 단계에서, 프틸롭시스의 입장에 관해 공개 가능한 정보입니다.
+	……

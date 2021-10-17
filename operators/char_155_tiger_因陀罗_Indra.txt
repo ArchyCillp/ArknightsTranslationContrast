@@ -1,11 +1,17 @@
 ID:
 	char_155_tiger
 
-干员代号\Name:
+CV:
 	因陀罗
 	インドラ
 	Indra
 	인드라
+
+干员代号\Name:
+	原优子
+	原優子
+	Yûko Hara
+	하라 유우코
 
 招聘合同\Character Usage:
 	格拉斯哥帮成员因陀罗，很高兴能够又一次痛揍不识趣的家伙。
@@ -43,177 +49,331 @@ ID:
 	열혼
 
 语音\Voices:
-	要是有敌人就大声喊，老子我会保护你。
 	敵がいたら大声で呼べ！お前は俺が守ってやる。
 	If you see any enemies, just scream. I'll keep ya safe.
 	적이 있으면 큰 소리로 불러! 넌 내가 지켜주마.
 
-	那家伙跑哪去了？总是跟在主子身边，矮矮的又晒得很黑，名字叫“摩根”的家伙......啊！别跑！
 	あいつどこいった？いつも王の隣にいる、ちっちゃくて日焼けで真っ黒な奴。名前はモーガンっていう……あっコラァ！逃げんな！
 	Where's that kid gone off to? Y'know, her... that really tanned shorty who's always trailing our Master... 'Morgan' is her nam- Oi! Stop right there!
 	그 녀석은 얼로 간 거야? 맨날 왕 옆에 있는, 그 쪼끄맣고 새까맣게 선탠 한 녀석. 이름이 모건이라는 앤데…… 야 인마! 거기 서!
 
-	你帮我，我帮你，理所当然的吧。你要是尊重我，我就不会怠慢你。
 	お互いに尊重しあうってのは大切なこったぜ。俺を尊重してくれりゃあ、お前はいつも五体満足でいられるようにしてやんよ。
 	You scratch my back, I'll scratch yours, let's keep it real. Meaning: if you treat me with respect, I'll do the same for you.
 	서로 존중하는 건 중요한 거라고. 날 존중해주면, 네 사지는 계속 멀쩡하게 놔둬주지.
 
-	我家主子好像还挺喜欢你这里的。还真是稀奇事啊，我们很少在同个地方停留太久的。
 	俺らの王は、どうやらお前んとこが気に入ったらしいぜ。まったく珍しいこともあるもんだ。あんまり同じ場所に留まることはねぇからな、俺ら。
 	Seems our Master really digs your place. Not every day that happens since we basically never stay in one place for very long.
 	우리의 왕은 아무래도 네가 맘에 든 모양이더라. 정말 드문 일이지. 같은 장소에 그다지 오래 머물지 않거든 원래 우리는.
 
-	不管做什么工作，都得拿出气势。
 	仕事だろうがなんだろうが、気合いだ気合い。
 	Whether it's work or whatever else, you've gotta have guts!
 	일이든 뭐든, 다 기합이야 기합.
 
-	哦~哦~不要着急慢慢吃吧~喂！给我再拿些肉吧！就这点，完全不够这孩子吃！
 	おーおー、焦らずゆっくり食えや――オイ！もっと肉持ってこい！こいつには全然足りねぇぞ！
 	Whoa, whoa, chew before you swallow, mate! HEY! SOMEONE BRING US MORE FOOD! This girl's got an empty belly to fill!
 	옳지 옳지~ 천천히 꼭꼭 씹어 먹어…… 야! 고기 더 갖고 와! 이거 갖고 얘 배가 찰 리 없잖아!
 
-	摩根那笨蛋，别看总是游手好闲的，她好歹算是给我们出谋划策的，该做的事还是会去做，虽然大多数时间都在给我捣乱。啧......！
 	モーガンの野郎、いつも暇そうにしてるけどよ……一応俺たちの参謀として、やることはやってんだよな。暇な時は俺の邪魔ばっかりしてくるんでウザいけどな。チッ……！
 	That idiot Morgan... she may seem like a slacker most of the time, but she's a great tactician, you know. Gets the job done. Though she likes messing things up a lot too. Tsk...
 	모건 녀석, 항상 한가한 척이나 하고 있는데 말이야…… 일단 우리 참모로서 할 일은 또 잘한단 말이지. 한가할 땐 맨날 내 방해만 해서 짜증 나지만. 쳇……!
 
-	单手拿锤威风凛凛的王，帅吧？但老子我，还是更期待她用剑的样子哪。
 	ハンマー片手に佇む王、カッケーよな？でも俺は……剣を振るう王も見てみてぇかな。
 	Doesn't she look brilliant with her hammer in one hand? I'm more curious how she'd look if she were holding a sword, though.
 	망치 한 손에 메고 있는 왕, 멋있지 않냐? 근데 나는…… 검을 휘두르는 왕도 한 번 보고 싶단 말이지.
 
-	尽管开口！不用考虑那么多，就吩咐吧，你想解决谁？
 	言ってみろ！ほら遠慮すんなって！どいつをブチのめせばいい？
 	Out with it! Don't beat around the bush, just say it: who do you want dealt with?
 	말해봐라! 자 사양하지 말고! 누굴 처리해줄까?
 
-	哼。放松警惕了吗？就算你被老虎吃掉，我也不管哦。
 	……フン、マヌケな顔しやがって。トラに喰われても知らねぇぞ？
 	Hmph, look at you spacing out like an idiot... Your own bloody fault if a tiger bites you.
 	……흥, 멍청한 표정 짓는 꼴 하고는. 호랑이한테 먹혀도 난 모른다?
 
-	老子是因陀罗，没什么乱七八糟的能力，干架靠的就是这双拳头。那么，请多关照！
 	俺はインドラ。別に変わった能力は持ってねぇ、この拳で生きてんだ。んじゃ、よろしく頼むぜ！
 	I'm Indra. I don't have any of those weird crazy powers—I let my fists do the talking. Nice to meet ya!
 	난 인드라. 딱히 이상한 능력은 없어, 이 주먹 하나만 믿고 살아왔다. 자 그럼, 잘 부탁해!
 
-	哦，这个不错，我喜欢。
 	おお、こいつぁ気に入ったぜ。
 	Niiice, this is good stuff.
 	오오, 이거 맘에 드네.
 
-	晋升固然好，打架也不赖！
 	昇進はもちろん、喧嘩も同じくらい楽しいぜ。
 	Promotions are great, almost as great as fighting is!
 	승진도 물론이지만, 싸움도 이만큼 재밌다고.
 
-	别怕，我能保护你。
 	俺が守ってやっから、後ろに下がって大人しくしてな。
 	Don't be afraid. I'll protect ya.
 	내가 지켜줄 테니까, 내 뒤에 얌전히 숨어있어.
 
-	战场在哪？
 	戦場はどこだ？
 	Where's the battlefield?
 	전장은 어디냐?
 
-	又是谁想要挨揍？
 	フルボッコにされてぇのは、どいつだ？
 	So who wants a whuppin'?
 	누구냐? 풀 파워로 줘 터지고 싶은 놈이?
 
-	你们干你们的活，没事别管我！
 	俺のことは放っといて、自分の仕事してろ！
 	Mind your own sodding business!
 	난 놔두고, 각자 알아서 해!
 
-	放马过来吧！
 	オラオラ、かかってこいや！
 	Show me what you've got!
 	으라차! 다 덤벼!
 
-	嘿！
 	おい！
 	Oi!
 	어이!
 
-	别拖拖拉拉的！
 	モタモタしてんじゃねーぞ！
 	Get on with it, plod!
 	우물쭈물 대지 마!
 
-	哈哈！
 	ハハッ！
 	Haha!
 	하핫!
 
-	好，轮到我了！
 	よっしゃ！俺の番だ！！
 	All right, it's my turn!
 	좋아! 내 차례다!!
 
-	你这个混球！
 	この野郎！！
 	You bastards!
 	이 자식이!!
 
-	有什么好怕的！
 	何をビビってやがる！
 	What're you scared of?
 	뭘 쫄고 있어!
 
-	你玩完了！
 	お前の命も終わりだ！
 	You're so dead!
 	네 목숨도 이제 끝이다!
 
-	没用！
 	無駄だぁ！
 	Give it up!
 	소용없어!
 
-	过瘾！太过瘾了！
 	この感じだ！たまんねーぜ！
 	I haven't been this excited in a while!
 	바로 이 느낌이야! 못 참겠다니깐!
 
-	不见红，不畅快！
 	血のない喧嘩はつまんねーからな！
 	Not exciting enough. Need more bloodshed!
 	싸우는 데 피를 안 보면 재미없지!
 
-	嘁，有人逃跑了，扫兴。
 	チッ！逃げた奴がいるな！クソッタレ。
 	Tch, some of them fled. Bunch of cowards.
 	쳇! 도망친 녀석이 있다! 제기랄.
 
-	你，不错嘛，给我等着——！
 	やるな、覚えてろよ――！
 	Not bad... I'll get you back for this!
 	꽤 하는구나, 기억해두마!!
 
-	这房间怎么回事啊，比我过去待的要窄好多。
 	なんだこの部屋、前いたとこより全然狭めーじゃねぇか。
 	What's up with this room? It's so much narrower than what I'm used to.
 	뭐야 이 방은. 전에 있던 데 보다 한참 좁잖아.
 
-	喂，敢动我，把你打飞哦！
 	おい！ぶっ飛ばされてぇのかテメー！
 	Oi! You got a bleedin' death wish?
 	야! 쳐맞고 싶어? 이 자식이!
 
-	来吧！拥抱一下！对，就是拥抱的那个意思！
 	さぁ、飛び込んでこい！あれだ、ハグってやつだ！
 	Come, lemme hug you! Yes, hug you!
 	자, 일로 튀어와! 아 그거 있잖아, 포옹 한 번 하자고!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	哟！博士。
 	よっ！ドクター。
 	Sup, Doctor!
 	여! 박사!
+
+干员档案\Background:
+	基础档案 :
+	【代号】因陀罗 
+	【性别】女 
+	【战斗经验】五年 
+	【出身地】不明 
+	【生日】4月15日 
+	【种族】菲林 
+	【身高】173cm 
+	【矿石病感染情况】
+	体表未发现任何源石结晶，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】インドラ
+	【性別】女
+	【戦闘経験】五年
+	【出身地】不明
+	【誕生日】4月15日 
+	【種族】フェリーン
+	【身長】173cm 
+	【鉱石病感染状況】
+	体表に源石結晶の分布は見られない。非感染者に認定。
+
+	Basic Info :
+	[Code Name] Indra
+	[Gender] Female 
+	[Combat Experience] 5 years 
+	[Place of Birth] Unknown 
+	[Date of Birth] Apr. 15 
+	[Race] Feline 
+	[Height] 173cm 
+	[Infection Status] 
+	No Originium detected, confirmed as Non-infected.
+
+	기본정보 :
+	[코드네임] 인드라
+	[성별] 여
+	[전투 경험] 5년
+	[출신지] 불명
+	[생일] 4월 15일
+	[종족] 필라인
+	[신장] 173cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】标准 
+	【生理耐受】标准 
+	【战术规划】普通 
+	【战斗技巧】优良 
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】普通
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 보통
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	维多利亚格拉斯哥帮武斗派头目。推进之王的下属之一。在罗德岛担任推进之王的直属护卫，偶尔会被邀请参与一些实战指导的工作（其实就是实战训练的对手）。
+
+	個人履歴 :
+	ヴィクトリアのグラスゴーの戦闘チームのリーダー。シージの部下の一人。ロドスではシージの親衛を務める。たまに実戦訓練の指導を依頼される（実戦訓練の対戦相手役）。
+
+	Profile :
+	Ran the Glasgow Gang in Victoria, one of the Siege's subordinates and her personal guard on Rhodes Island. Puts in occasional cameos as combat instructor (actually, in the role of opponent).
+
+	프로필 :
+	    빅토리아 글래스고 무투파 두목. 시즈의 부하 중 한 명. 로도스 아일랜드에서 시즈의 직속 호위를 담당하고 있으며, 가끔 일부 실전 지도 작업에 '초청'되기도 한다. (사실상 실전 훈련 상대 역)
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员因陀罗没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员因陀罗甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Indra showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L 
+	Operator Indra rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오리지늄에 감염된 현상 발견 미발견.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 인드라는 오리지늄과의 접촉 빈도가 매우 낮음.
+
+———————————————————————————————
+
+	档案资料一 :
+	因陀罗在街头混迹多年依靠的并不是某种拳术，而是单纯的体格和战斗直感。从小混迹于斗殴的街头给因陀罗带来了很强的战斗本能，而她也是相信着自己这纯粹的强大的双拳，一步一步击败了无数对手。
+
+	第一資料 :
+	ストリートギャングで活躍していたインドラは拳法ではなく、自身の強靭な体格と直感を頼りにしてきた。小さい頃からのストリートギャングだったことは、彼女に強い戦闘本能をもたらした。そして彼女も自分はこの拳だけで数え切れないほどの敵を倒してきたのだと自負している。
+
+	Archive File 1 :
+	Technique was not allowed her to survive for years on the street, but rather raw force and combat instincts. She developed into a great fighter through street brawling since childhood, and her confidence in her own two powerful fists enabled her to defeat countless foes.
+
+	파일 자료 1 :
+	    인드라가 다년간 길거리에서 생존할 수 있었던 건 어떤 무술 덕분이 아니라, 순전히 그녀의 체격과 전투에 대한 직감 덕분이었다. 어릴적 부터 길거리 싸움에 익숙했던 인드라는 이덕에 강력한 전투 본능을 체득할 수 있었다. 그녀는 자신의 강력한 두 주먹을 믿고 있었고, 차근차근 수많은 적을 격파했다.
+
+———————————————————————————————
+
+	档案资料二 :
+	格拉斯哥帮混迹于维多利亚的贫民区，最开始本身是由摩根和因陀罗带领的街头组织。她们霸占了一方的地盘，为了生存过着混乱的生活，直到推进之王出现在了她们面前。对力量有着绝对自信的因陀罗在面对推进之王时第一次尝到了败北的滋味。
+
+	第二資料 :
+	グラスゴーはヴィクトリアのスラム街に紛れ込んでおり、当初はモーガンとインドラが組織を率いていた。彼女たちは縄張りとして土地を占有し、生き抜くために荒れくれた生活をしていたある日、彼女たちの目の前にシージが現れた。自分の力に絶対的自信を持つインドラが、初めて敗北の味を喫したのだ。
+
+	Archive File 2 :
+	Glasgow hung out in the slums of Victoria, getting their start as a street gang led by Morgan and Indra. They carved out their turf and survived in the anarchy, until Siege showed up and handed the supremely confident Indra her first ever defeat.
+
+	파일 자료 2 :
+	    글래스고는 본래 모건과 인드라가 이끈 길거리 조직으로써, 빅토리아의 빈민가를 주무대로 활동했었다. 일정 범위의 근거지를 점령한 뒤로, 시즈가 나타나기 전까지 글래스고는 오직 생존만을 위해 무질서한 생활을 이어가고 있었다. 힘이라면 절대적인 자신이 있었던 인드라는, 시즈에 맞선 후 처음으로 패배의 쓴맛을 보게 되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	并不是单纯的因为输了，而是因为推进之王的人格和目标，因陀罗和摩根一起成为了其忠诚的下属和朋友。虽然推进之王自己不喜欢上下级关系，但是对因陀罗来说，自己就是推进之王最忠诚的下属，为其奉献一切。谁又能想到，一个连骑士精神是啥都懒得理解的混混，却远比卡西米尔国内的政府骑士更为纯粹?
+
+	第三資料 :
+	インドラとモーガンがシージの忠実な部下、そして友人になったのは、彼女に負けたからという理由ではなく、シージの人格と志に心を動かされたからである。シージ自身は上下関係というものを好かないが、インドラに言わせれば自分こそがシージの最も忠実な部下であり、だからこそ彼女の為に全てを捧げているのだ。騎士道を理解しようとしないチンピラが、カジミエーシュの国家直属の騎士より純粋だなんて、誰が想像できただろうか。
+
+	Archive File 3 :
+	It wasn't just a simple defeat, since Siege's character and vision converted both Indra and Morgan into loyal friends and cohorts. Even though Siege never liked to pull rank, Indra still saw herself as Siege's most devoted follower and would do anything for her. Who knew a thug too lazy to be bothered with the concept of knighthood would exemplify the spirit far more than the official knights of Kazimierz?
+
+	파일 자료 3 :
+	    인드라와 모건은 단순히 패배했기 때문이 아니라, 시즈의 인격과 목표에 감복하여 그녀의 충성스러운 부하이자 친구가 되었다. 비록 시즈는 서로 간의 상하관계를 불편해했으나, 인드라는 자신은 분명 시즈의 충성스러운 부하이며, 그녀를 위해선 모든 것을 바칠 수 있다고 생각했다. 누가 상상이라도 했을까, 기사도가 뭔지조차 이해하기 귀찮아했던 건달이, 카시미어 정부의 기사보다 훨씬 더 순수할 수 있다는 것을.
+
+———————————————————————————————
+
+	档案资料四 :
+	直来直去的因陀罗最不喜欢的就是油腔滑调的人，耍什么心机，耍什么计谋，战斗不就是要面对面地正面对决吗?只有胆小鬼才会想这些东西！这样的性格让因陀罗在罗德岛和不少豪爽的干员成为了好友，大家会在练习房中切磋战斗经验，流了汗之后再去豪爽地大吃大喝一番，再说说那些智力派干员的坏话，人生诸事还有什么比这更畅快？
+
+	第四資料 :
+	率直なインドラはずる賢い人間が大嫌いだという。「心理戦だとか謀略だとか、全部臆病者のする事だ！戦闘ってのはな、正々堂々と戦うもんだろうが！」と言っている。このような性格のインドラは、ロドスで何人もの豪胆なオペレーターと親友になり、みんな一緒に練習室で切磋琢磨している。また一緒に食事をしたり、頭脳派の愚痴を言ったりしており……人生でこんなに楽しく清々しいことは他にあるだろうか？
+
+	Archive File 4 :
+	The straightforward Indra hates sly, glib people who play games. Face to face, out in the open, that's what fighting is all about! Only cowards would act like a weasel! Her bold personality has made many like-minded colleagues her buddies at Rhodes Island. They would spar and discuss battles in the gym, then go for a big feast together after a sweaty workout and mock the supposedly 'brainy' Operators behind their backs. What else could be better than this in life?
+
+	파일 자료 4 :
+	    가식 없고 솔직한 성격의 인드라가 제일 싫어하는 건 바로 말만 번지르르한 사람이다.
+	    "계략? 책략? 그까짓거... 전투라면 역시 일대일 정면 대결아냐? 그런 건 겁쟁이들이나 생각하는 거라고!"
+	    이런 성격 덕분에 인드라는 로도스 아일랜드에서 많은 호쾌한 오퍼레이터들을 친구로 사귈 수 있었다. 함께 훈련실에서 전투 경험에 대해 이야기하고, 땀을 한바탕 흘린 후 신나게 먹고 마시고, 또 속칭 '두뇌파' 오퍼레이터들에 대한 뒷담화까지 나누니, 인생에 이보다 더 즐거운 일이 또 있을까?

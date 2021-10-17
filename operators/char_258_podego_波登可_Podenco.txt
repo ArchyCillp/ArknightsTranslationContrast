@@ -1,11 +1,17 @@
 ID:
 	char_258_podego
 
-干员代号\Name:
+CV:
 	波登可
 	ポデンコ
 	Podenco
 	포덴코
+
+干员代号\Name:
+	植田光
+	植田ひかる
+	Hikaru Ueda
+	우에다 히카루
 
 招聘合同\Character Usage:
 	辅助干员波登可，为紧张的战场带来一点花香。
@@ -43,177 +49,372 @@ ID:
 	포자 확산
 
 语音\Voices:
-	嗯哼哼~啊，博士，今天过得还愉快吗？
 	うふふ～あ、ドクター。今日の気分はどうですか？
 	Ehehe~ Oh, Doctor, is your day going well?
 	우후후~ 아, 박사님. 오늘 기분은 어떠신가요?
 
-	这是我亲手做的花茶！博士来一杯吧，会让你一整天都心情舒畅哦！
 	私の手作りハーブティーです。ドクターも一杯どうぞ！一日中スッキリしますよ！
-	This is a floral tea that I made myself! Doctor, come try a cup, I promise you’ll feel cozy all day!
+	This is a floral tea that I made myself! Doctor, come try a cup, I promise you'll feel cozy all day!
 	제가 손수 만든 허브티에요. 박사님도 한 잔 드셔 보세요! 하루 내내 상쾌할 거예요!
 
-	温室里的阳光总是暖洋洋的，就算我是管理员，有时候也想偷个懒呢。
 	温室で浴びる陽射しはいつもあったかいですね。管理人の私でも、たまに手を休めてぼーっとしたくなります。
-	The sunlight in the greenhouse is so comfortable. Even though I’m an operator, it sometimes makes me want to slack.
+	The sunlight in the greenhouse is so comfortable. Even though I'm an operator, it sometimes makes me want to slack.
 	온실에서 쬐는 햇볕은 언제나 따뜻하네요. 관리인인 저도 가끔은 쉬면서 멍하니 있고 싶어요.
 
-	用自己的劳动成果，来让大家忘掉忧愁和烦恼，这大概就是花匠们的愿望吧~
 	自分の頑張った成果で、みなさんに憂いや悩みを忘れさせてあげたい。これがガーデナーたちみんなの願いかもしれませんね。
-	Use the fruits of your labor to make everyone forget about their sorrows and worries. That’s probably the tenet of all gardeners, don’t you think~?
+	Use the fruits of your labor to make everyone forget about their sorrows and worries. That's probably the tenet of all gardeners, don't you think~?
 	자신이 노력한 성과로 모두의 근심과 걱정을 잊게 해주고 싶다는 것이, 정원사 모두의 바람일지도 모르겠네요. 
 
-	比起栽培来说，战斗并不是我擅长的事。但是只要一想到能帮到大家，我就充满了勇气。
 	戦闘は植物の栽培ほど得意じゃないですが……みなさんの力になれると思うと、勇気が湧いてきます。
 	I much rather prefer growing things to destroying them. But as long as I think about how I can help everyone, I can muster up my courage.
 	전투는 식물 재배만큼 잘하진 못하지만…… 모두의 힘이 될 거라 생각하면 용기가 생겨요.
 
-	这些瓶子？里面都是我收集了好久的花粉和种子。我摆弄它们的时候一般会戴上防毒面具，再戴上手套，不然可能会中毒的。
 	この小瓶？私が時間をかけて集めた花粉と種がそれぞれ中に入っています。いじる時はガスマスクと手袋をするんですよ。でないと毒にやられちゃうかもしれませんから。
-	These bottles? Inside are all the pollen and seeds that I’ve been collecting. I usually wear a gas mask and gloves before handling them, or I might get poisoned.
+	These bottles? Inside are all the pollen and seeds that I've been collecting. I usually wear a gas mask and gloves before handling them, or I might get poisoned.
 	이 작은 병이요? 이 병엔 제가 시간을 들여 모은 꽃가루와 씨앗이 각각 안에 들어있어요. 만질 때는 가스 마스크랑 장갑을 끼셔야 해요. 안 그러면 독에 중독될 수도 있으니까요.
 
-	唔，这几天好像大家都有点疲惫呢。不过，只要大家看到我种的花，一定会打起精神来的！
 	うぅ、最近みなさんお疲れの様子ですね……。でも、私が手入れしたお花を見れば、きっと元気になれますよ！
-	Umm, everyone seems to be a bit weary these days. But, I’m sure they’ll cheer right back up when they see the flowers I’ve planted!
+	Umm, everyone seems to be a bit weary these days. But, I'm sure they'll cheer right back up when they see the flowers I've planted!
 	음…… 요즘 다들 피곤해 보이네요…… 그래도 제가 가꾼 꽃을 보면 분명 기운이 날 거예요!
 
-	博士博士，今天要来温室吗？好像大家这几天都很忙啊......不过如果没人来温室，白白让花期过去的话，也太可惜了吧？
 	ドクタードクター、今日は温室に来てくれますか？ここのところみんな忙しそうで……ほら、誰も来ないまま花期が過ぎてお花が散ってしまったら、もったいないでしょう？
-	Doctor, Doctor! Are you coming to the greenhouse today? It seems like everyone’s been really busy the last few days... If nobody comes by the greenhouse, the blooming season’s going to pass right by. Wouldn’t that be a darn shame?
+	Doctor, Doctor! Are you coming to the greenhouse today? It seems like everyone's been really busy the last few days... If nobody comes by the greenhouse, the blooming season's going to pass right by. Wouldn't that be a darn shame?
 	박사님 박사님! 오늘은 온실에 와주실 건가요? 요즘 다들 바쁘신 거 같아서…… 그래도, 아무도 안 오는데 개화 시기가 지나서 꽃이 져버리면 아깝잖아요?
 
-	照管温室确实很辛苦。但是，只要我种的花能让别人露出笑容，我的工作就有价值了吧！
 	確かに温室の管理は大変です。でも自分が育てた花で人を笑顔にできれば、この仕事もやり甲斐があるんですよ！
 	Tending to the greenhouse is really hard. But, as long as I can make others smile with the flowers I grow, all my hard work will be worth it!
 	확실히 온실 관리는 힘들죠. 그래도 자기가 키운 꽃으로 사람을 미소짓게 할 수 있다면, 이 일도 하는 보람이 있어요!
 
-	博士？睡着了......希望花朵的芬芳，能够飘进你的梦中哦。
 	ドクター？寝ちゃいましたか……どうかお花の香りが、夢の中まで届きますように。
-	Doctor? Oh, you’re asleep... I hope the fragrance of these petals can drift over to your dreams.
+	Doctor? Oh, you're asleep... I hope the fragrance of these petals can drift over to your dreams.
 	박사님? 잠 드셨나요…… 부디 꽃향기가 꿈속까지 닿을 수 있기를.
 
-	博士，波登可向你问好！有空的话，博士也来温室坐坐吧！
 	こんにちはドクター、ポデンコです！お時間があったら、ドクターも温室に来てください！
-	Doctor, this is Podenco, here to say hi! If you have time, I’d love if you could come by the greenhouse!
+	Doctor, this is Podenco, here to say hi! If you have time, I'd love if you could come by the greenhouse!
 	안녕하세요 박사님, 포덴코라고 해요! 시간이 있으시면 박사님도 온실에 와주세요!
 
-	啊，我还以为是关于栽培技巧的录像呢。
 	あれ、栽培技術についての映像かと思いました。
 	Aw, I thought this was a video about gardening techniques.
 	어라? 재배 기술에 관한 영상인줄 알았어요.
 
-	艺术家？不不不，我没有那么厉害啦，我只是一个普通的花匠而已。
 	芸術家？いえいえ、そんな大層なものじゃありませんよ、私なんかただのガーデナーですから。
-	Artist? N-n-no, I’m just a normal gardener.
+	Artist? N-n-no, I'm just a normal gardener.
 	예술가? 아뇨 아뇨, 그렇게 대단한 건 아니에요. 전 그저 평범한 정원사일 뿐이니까요.
 
-	博士你看！我培育了好久的新品种终于绽放了。是不是很好看呢？
 	見てくださいドクター！すごく時間をかけて育てた新しい品種のお花です、やっと咲いてくれました！どうですか、綺麗ですよね？
-	Look, Doctor! The new varieties I’ve been tending to for so long have finally started to bloom! Aren’t they so pretty?
+	Look, Doctor! The new varieties I've been tending to for so long have finally started to bloom! Aren't they so pretty?
 	봐주세요 박사님! 한참 시간을 들여 기른 새로운 품종의 꽃이에요. 드디어 피었네요! 어때요, 예쁘죠?
 
-	嗯？我也要一起行动吗！
 	ん？私も任務に参加するんですか？
 	Hm? Am I coming along as well?
 	어? 저도 임무에 참가하는 건가요?
 
-	啊......我只有照管温室的经验，能帮上忙吗？
 	あの……温室管理しかやったことないですが、大丈夫でしょうか？
 	Ah... I only have experience in tending a greenhouse. Is there anything I can do?
 	저…… 온실 관리밖에 안 해봤는데, 괜찮은가요?
 
-	看到敌人了，大家一起上吧！
 	敵を確認しました。みなさん、行きましょう！
-	I see the enemy! Everyone, let’s go!
+	I see the enemy! Everyone, let's go!
 	적을 확인했습니다. 여러분, 가시죠!
 
-	一定要照顾好自己啊，各位！
 	みなさん、くれぐれも気をつけてくださいね！
 	Everyone, make sure to take care of yourselves!
 	여러분, 부디 조심해주세요!
 
-	嗯？
 	はい？
 	Hmm?
 	네?
 
-	要去哪？
 	どこに行けばいいですか？
 	Where are we going?
 	어디로 가면 되나요?
 
-	明白了。
 	分かりました。
 	Got it.
 	알겠습니다.
 
-	我会照办的。
 	言う通りにしますね。
-	I’ll do as you say.
+	I'll do as you say.
 	말씀대로 할게요.
 
-	小心花粉过敏哦。
 	花粉アレルギーに気をつけてね。
 	The pollen is allergenic~
 	꽃가루 알레르기 조심해.
 
-	啊，把他们交给我吧。
 	はい、私がなんとかします。
-	Ah, I’ll take care of them.
+	Ah, I'll take care of them.
 	네, 제가 어떻게든 해볼게요.
 
-	这种杂草我可见过好多了啊。
 	こういう雑草ならたくさん見てきましたから。
-	I’ve seen weeds like these before.
+	I've seen weeds like these before.
 	이런 잡초는 많이 봐 왔으니까요.
 
-	让我来掩护大家！
 	みなさんの援護は任せてください！
 	Let me protect everyone!
 	여러분의 엄호는 맡겨주세요!
 
-	呼，已经安全了吗？各位辛苦了！
 	ふぅ、もう大丈夫ですか？みなさんお疲れ様でした！
 	Phew, is it safe already? Good job, everyone!
 	후우, 이제 괜찮은가요? 여러분, 수고하셨어요!
 
-	取得完美的胜利和栽培出美丽的花朵一样，都是个辛苦的事情啊。
 	完璧な勝利を得ることは、美しいお花を咲かせることと同じように大変なお仕事ですね。
 	Achieving a flawless victory is like cultivating a beautiful flower. Both require a lot of hard work.
 	완벽한 승리를 얻는 일은, 아름다운 꽃을 피우는 것과 같이 힘든 일이네요.
 
-	博士，大家都在等你的下一步指令哦。
 	ドクター、みなさん次の指示を待っていますよ。
 	Doctor, everyone is awaiting your next orders.
 	박사님, 다들 다음 지시를 기다리고 있어요.
 
-	啊......会变成这个样子，可真是没想到啊......
 	あぁ……まさかこんなことになってしまうなんて……。
 	Ah... I never thought things could become like this...
 	아아…… 설마 이렇게 되리라곤……
 
-	要不要在这里，种上花呢？
 	ここにもお花を植えましょうか？
 	Shall we plant some flowers over here?
 	여기에도 꽃을 심을까요?
 
-	啊，博士？
 	あっ、ドクター？
 	Oh, Doctor?
 	앗, 박사님?
 
-	博士！想要用花来装点办公室吗？
 	ドクター！執務室にお花を飾ってみませんか？
 	Doctor! Would you like to decorate your office with some flowers?
 	박사님! 집무실에 꽃을 좀 놓아보지 않으시겠어요?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，你好啊！
 	ドクター、こんにちは！
 	Hello, Doctor!
 	박사님, 안녕하세요!
+
+干员档案\Background:
+	基础档案 :
+	【代号】波登可
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】玻利瓦尔
+	【生日】3月25日
+	【种族】佩洛
+	【身高】145cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ポデンコ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】ボリバル
+	【誕生日】3月25日
+	【種族】ペッロー
+	【身長】145cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Podenco
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Bolívar
+	[Date of Birth] Mar 25
+	[Race] Perro
+	[Height] 145cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 포덴코
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 볼리바르
+	[생일] 3월 25일
+	[종족] 페로
+	[신장] 145cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】普通
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Normal
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	波登可是以普通流程应聘进入罗德岛的干员，在调香师主管的庭院里负责照看温室与花卉培植。可以作为作战干员调动，运用对植物的理解医疗队友或扰乱敌人。
+
+	個人履歴 :
+	一般選考を通過し、ロドスに加入したオペレーター。パフューマーが管理している庭で、温室と草花の世話をしている。戦闘員としての彼女は、植物に関する知識を利用して仲間を治療し、敵をかき乱すことを得意とする。
+
+	Profile :
+	Podenco is an operator who applied to join Rhodes Island through a normal process, and is responsible for taking care of the greenhouse and cultivating flowers in Perfumer's Convalescent Garden. Can also be deployed as a combat operator and is capable of utilizing her understanding of plants to heal teammates or disrupt enemies.
+
+	프로필 :
+	    포덴코는 일반적인 절차를 거쳐 로도스 아일랜드에 지원한 오퍼레이터로, 퍼퓨머가 주관하는 정원에서 온실과 화초 재배를 담당하고 있다. 그리고 현재는 작전 오퍼레이터로서 식물에 대한 이해를 바탕으로 팀원을 치료해주거나 적을 교란하는 역할도 도맡고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员波登可没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.13u/L
+	干员波登可甚少接触源石。
+	
+	“好香，啊啊真香，真好闻，啊，啊——阿嚏！” ——某位花粉过敏的医疗干员
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.13u/L
+	源石との接触は極めて少ない。
+	
+	なんだかいい香りがするね！ホント、でも、あ、あ——ヘックショーン！　　
+	——某花粉症の医療オペレーター
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Podenco has no signs of Originium infections. 
+	
+	[Blood Originium-Crystal Density] 0.13u/L
+	Operator Podenco has very little contact with Originium. 
+	
+	'That scent, it's so good... So refreshing... Ah, ah... Achoo!' —A medic operator with a pollen allergy
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 포덴코에게는 광석병 감염 흔적이 없다.
+	
+	[혈중 오리지늄 결정 밀도]0.13u/L
+	오퍼레이터 포덴코는 오리지늄과 거의 접촉하지 않음.
+	
+	"좋은 향기야, 아아 정말 향기롭네, 정말 좋은 향기야, 에, 에… 에취!"——어느 꽃가루 알레르기가 있는 메딕 오퍼레이터
+
+———————————————————————————————
+
+	档案资料一 :
+	波登可出生在玻利瓦尔边境高原的小聚落中。这支聚落由于远离玻利瓦尔中心而得以躲避战乱，但由此也引发了新的问题。为了保证生存，这支聚落发掘了族人在躲避天灾和培育作物上的才能。波登可从小就对各种植物感兴趣，喜欢制作干花，也懂得呵护家中的小苗圃，当稍长大一点后，就开始参与进聚落的作物培植工作中，在此期间，波登可积累了非常丰富的植物培植经验，这些植物中有可食的，也有可观赏的。硬要说波登可喜欢哪种多一点，她会悄悄告诉你她更喜欢花卉，但在当时温饱都成问题的情况下，她还是默默将这份喜好压在了心底。
+
+	第一資料 :
+	ポデンコはボリバル辺境の高原にある小さな集落で生まれた。都市から離れているため、戦争に巻き込まれることは避けられたが、その地で生きるのは決して楽ではない。それゆえ人々は、天災を回避し、作物を栽培する能力を身につけた。そのような環境で育ったポデンコは、幼い頃から様々な植物に興味を持っていた。特に好きだったのはドライフラワーを作ることと、家の小さな苗床の世話をすることだ。成長した彼女は、集落の作物栽培作業に参加するようになり、観賞用、食用の植物栽培における豊富な経験を手に入れた。彼女に好きな植物を尋ねると、彼女は遠慮がちに花の方が好きだと答えるが、当時は食料問題がひっ迫していたことから、個人的な趣味は押し殺し、それ以外の植物を育てざるを得なかったのだろう。
+
+	Archive File 1 :
+	Podenco was born into a small settlement on the steppes near the border of Bolívar. While this remote settlement was able to escape the flames of war due to its distance from the center of Bolívar, this isolation also created its own problems. To ensure their survival, the people of this settlement delved into their natural talents at evading Catastrophes and cultivating crops. Podenco has been interested in a variety of plants since a young age, likes to make dried flowers, and also tended a small nursery back home. As she grew up, she became involved in the community's farming efforts, gaining rich experience in botanical cultivation for plants both edible and ornamental. When asked which type of plants she prefers, Podenco will quietly tell you that she likes flowers more, but when food and clothing become a scarcity, she will silently stash away her personal preferences deep into her heart.
+
+	파일 자료 1 :
+	    포덴코는 볼리바르 국경 지대 고원에 있는 어느 작은 마을에서 태어났다. 이 마을은 볼리바르의 중심에서 멀리 떨어진 탓에 전란을 피할 수 있었지만, 이 때문에 새로운 문제가 발생하고 말았고, 포덴코는 생존을 위해 재앙을 피하고 작물을 재배하는 능력을 키우게 되었다. 포덴코는 어린 시절부터 다양한 식물에 흥미를 가졌고, 말린꽃 만들기를 좋아했으며, 집에서 관리하는 묘목을 기르는 밭을 보호하는 방법도 잘 알고 있었다. 조금 더 자란 후에는 마을의 작물 재배 과정에 참여하기 시작했는데, 이 기간 동안 포덴코는 굉장히 풍부한 식물 배양 경험을 쌓을 수 있었다. 식물은 식용으로도 쓰일 수 있고 관상용으로도 쓰일 수 있다. 만약 지금 포덴코에게 굳이 어느 쪽을 더 좋아하냐고 묻는다면 그녀는 조용히 당신에게 관상용 화초를 더 좋아한다고 말했겠지만, 먹고살기도 힘든 당시 상황에서 포덴코는 조용히 자신의 기호를 마음속에 묻어둘 수밖에 없었다.
+
+———————————————————————————————
+
+	档案资料二 :
+	不是每个生活在偏远地区的人都会向往远方的繁华生活，但波登可还是十分向往的，从族人们对外界接触后留在闲谈中的只言片语，波登可的记忆中渐渐显现出对于外面世界的美好印象，特别是花，她在书籍和图册中见到了各式各样生长在天南地北的花朵，而这些花，呆在玻利瓦尔是一辈子都无法见到的。她开始对外面的世界充满期待。
+
+	第二資料 :
+	辺境に住む全ての人が、都会での豊かな生活を望んでいるわけではない。しかし都市の話を聞いて育ったポデンコは、外の世界に憧れていた。特に関心があったのは花である。ボリバルに留まる限り、絵本や図鑑で見知った世界中の花々を、実際に見ることはかなわない。そう気づいた時、彼女の外界への想いはより強くなった。
+
+	Archive File 2 :
+	Not everyone who lives in these remote regions aspires to lead a bustling life in a distant land, but Podenco was one such person who did. The people of her home had little contact with the outside world, but the interactions they did have gradually gave Podenco a rosy impression of the outside world, particularly towards flowers. She had seen all kinds of flora in the world depicted through books and photos, but someone who never left Bolívar would never be able to see these flowers in their entire life. Within her stirred a great anticipation to see the outside world.
+
+	파일 자료 2 :
+	    외딴 지역에서 사는 사람들이 모두 그런 건 아니지만, 포덴코는 번화가에서의 삶을 동경했다. 사람들이 바깥세상을 접한 후 나누는 단편적인 잡담을 통해, 포덴코의 머릿속엔 바깥세상에 대한 좋은 인상이 점차 싹트게 되었다. 게다가 그녀가 책과 도감 속에서 본 온갖 곳에서 자라나는 꽃들은 볼리바르에 머문다면 평생이 지나도 볼 수 없는 것들이었기에, 그녀의 머릿속엔 점차 바깥세상에 대한 기대감으로 가득차게 되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	来到罗德岛，成为调香师的同事兼学徒其实完全是一场意外。初出茅庐的波登可在来到离群落最近的移动城市后，完全被城市的壮丽抓住了眼球，她迫不及待地寻找充满芬芳与美好的地方，然后就在路中央和调香师装了个满怀。调香师察觉了她对花卉的喜爱，而疗养庭院也正缺人手栽种芬芳疗法必要的原料，就这样，波登可误打误撞，获得了人生中的第一份工作。
+	和调香师相比，波登可在许多领域上都还无法企及。她没有调香师那么灵敏的嗅觉，对于一些辅助专业也完全没有概念，但是凭借着一股冲劲，她正在慢慢向调香师靠近。从一朵花、一片花圃、到一座温室，现在的波登可已经有着独立管理疗养庭院部分设施的能力了。此外，她还开始用自己采集的花卉尝试制作各式各样的试剂，不断适应医疗部对于庭院的委托。有朝一日，她或许能够成为独当一面的花卉大师。
+	一切只是因为喜爱。
+	热忱的喜爱。
+
+	第三資料 :
+	ポデンコがロドスに入り、パフューマーの同僚及び弟子になったのは、全くの偶然である。集落を出てすぐ、最寄りの移動都市にやってきたポデンコは、街の素晴らしさに完全に魅了された。早速、美しく香り高い花のある場所を探し始めた彼女は、道の真ん中でパフューマーとぶつかり、それがきっかけで彼女の植物愛に気づいたパフューマ―に、療養庭園で行う調香セラピーに必要な植物を育てる人材として採用された。こうしてポデンコは、わけがわからないうちに、人生における初めての職業を得たのである。
+	当初は嗅覚も専門知識もパフューマーに遠く及ばなかった彼女であるが、人一倍の努力と根性で学び、次第にパフューマーに近づいていった。花の一本から苗床一つ、苗床から温室全体の栽培と経験を重ねた彼女は、今や独自で、療養庭園の一部施設を管理することが可能である。さらに彼女は、花を利用して様々な試薬を作成し、医療部門の依頼に対応している。彼女はいつか、一人前の植物職人になるだろう。
+	すべては愛あればこそ。
+	植物に対する情熱的で一途な想いが、彼女をここまで導いたのである。
+
+	Archive File 3 :
+	After arriving at Rhodes Island, her becoming Perfumer's coworker and apprentice was actually by chance. The young Podenco, like a fledgling leaving the nest, was completely spellbound by the magnificence of the city after arriving at the closest nomadic city from her hometown. She couldn't wait to find some place filled with fragrance and beauty, and soon after, she bumped into Perfumer in the middle of the street. Perfumer immediately noticed Podenco's fondness for flowers, and her own Garden happened to be short of the personnel needed to make her aromatherapy raw materials. And just like that, Podenco ran into someone by mistake, and landed herself the first job of her life. 
+	Compared to Perfumer, Podenco still is lacking in many ways. Her sense of smell isn't as sensitive as Perfumer's, nor does she have any knowledge of auxiliary professions, but she is quickly approaching Perfumer's skill with the momentum she has. From a single flower, to a garden, and now to an entire greenhouse, Podenco has the skill to independently manage the Convalescent Garden. In addition, she also began to use the flowers she collected to create a wide variety of reagents, constantly adapting to meet the demands of the various medics in the medical facility. In time, she may well become the world's undisputed master of horticulture. 
+	And it all stems from her love for flowers. 
+	A lifelong love.
+
+	파일 자료 3 :
+	    사실 로도스에 도착하고 퍼퓨머의 동료 겸 견습생이 된 것은 전혀 의외의 일이었다. 처음 마을을 떠나 가장 가까운 이동도시에 도착한 후, 도시의 웅장함과 아름다움에 눈을 빼앗긴 그녀는, 향기롭고 아름다운 곳을 찾다가 길 한복판에서 퍼퓨머와 정면으로 부딪혔다. 이때 퍼퓨머는 꽃에 대한 그녀의 사랑을 알아차렸고, 마침 요양병원에는 아로마테라피에 쓰이는 필수 재료를 재배할 인력이 부족했기에, 포덴코는 이렇게 우연한 기회로 인생의 첫 직장을 얻게 되었다.
+	    포덴코는 아직 많은 부분에서 퍼퓨머를 따라갈 수 없었다. 포덴코에겐 퍼퓨머와 같은 예민한 후각도 없고, 부전공에 대한 개념 역시 없지만, 현재는 추진력 하나로 착실히 퍼퓨머와 같은 수준에 이르기 위해 정진하고 있다. 한 송이 꽃에서 화단으로, 그리고 온실에 이르기까지… 현재 포덴코는 이미 요양 정원의 일부 시설을 독립적으로 관리할 수 있는 능력을 갖추고 있다. 그밖에도 포덴코는 자신이 채집한 꽃을 사용해 다양한 시약을 제조함으로써 정원에 대한 의료부의 요구 사항들을 처리해 주고 있다. 언젠가는 그녀도 유명한 원예가가 될지 모른다. 그 이유는 바로 사랑, 열정적인 사랑 때문이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	《波登可的温室——制作委托明细》
+	可以做花茶，在温室里喝最好啦。
+	可以做花包，随身带着香香的很舒服。
+	可以做花枕，制作时间可能会比较长，但效果一定好。
+	可以做花饼，请自带花以外的原料过来。
+	其他有什么想到的物品可以详谈，如果有可能性的话会尝试制作。
+	以上皆有复数组合可供选择，详情请咨询波登可哦。
+
+	昇進記録 :
+	＜ポデンコの温室 提供サービス一覧＞
+	フラワーティー。温室で飲むのが最高です。
+	香り袋。全身がいい香りに包まれます。
+	花入り枕。製作時間は長いですが、効果は保証します。
+	フラワークッキー。花以外の食材はお持ちください。
+	その他、ポデンコに作らせたいものがあれば、ご相談を。
+	また上記は全て、複数の組み合わせも対応可能です。詳細につきましては、ポデンコにお問い合わせください。
+
+	Promotion Record :
+	'Podenco's Greenhouse - Production Commission Details' 
+	We can make floral tea, which is best enjoyed in the greenhouse. 
+	With a flower purse, you can always carry a soothing fragrance with you. 
+	Experience better rest with a flower pillow (please allow extra time for production). 
+	Come enjoy my flower biscuits, but please supply all the ingredients other than the flowers. 
+	Please discuss with me if you would like to request any other items, and I will see if there is a possibility of making it. 
+	There are many combinations of the above items to choose from. Please contact me for further details.
+
+	승진 기록 :
+	<포덴코의 온실——제작 의뢰 안내>
+	    꽃차 우리기 가능. 온실에서 마시는 게 제일 향기로워요.
+	    꽃 주머니 제작 가능. 휴대하면 향기가 나서 기분이 좋아져요.
+	    꽃 베게 제작 가능. 만드는 시간은 꽤 걸리지만, 효과는 보장합니다.
+	    꽃 쿠기 굽기 가능. 꽃 이외의 재료는 직접 가져와 주셔요.
+	    다른 원하시는 물품이 있을 경우 상세히 설명해 주셔요. 가능하다면 만들어 보겠습니다.
+	    여기 있는 항목들은 모두 조합해서 선택할 수 있으니까, 자세한 사항은 포덴코에게 문의해 주세요.

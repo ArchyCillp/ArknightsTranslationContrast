@@ -1,11 +1,17 @@
 ID:
 	char_333_sidero
 
-干员代号\Name:
+CV:
 	铸铁
 	シデロカ
 	Sideroca
 	시데로카
+
+干员代号\Name:
+	桑原由气
+	桑原由気
+	Kuwahara Yūki
+	쿠와하라 유우키
 
 招聘合同\Character Usage:
 	科林尼亚佣兵铸铁，正在寻求可靠的雇主。
@@ -43,177 +49,473 @@ ID:
 	파도 가르기
 
 语音\Voices:
-	您的房间里没有安全隐患，可以安心工作了，我会在门口守着，帮您回绝不必要的杂事。
 	ドクターの部屋にはセキュリティ上のリスクを感じません。安心して仕事してください。私が外で門番になって、不要な案件は全て断っておきます。
-	There are no security risks in your room, and you can work with peace of mind. I’ll stand guard at the door to help you turn down any unnecessary busywork.
+	There are no security risks in your room, and you can work with peace of mind. I'll stand guard at the door to help you turn down any unnecessary busywork.
 	박사님 방에는 보안상의 위험성이 느껴지지 않습니다. 안심하고 일해 주세요. 제가 밖에서 문지기가 되어 불필요한 안건은 모두 거절해 두겠습니다.
 
-	这里的自动门坏了？稍等——喝！好了，您先进去处理事务，我来联系维修人员。
 	この自動ドアが壊れてる？ちょっと待ってください――はぁーっ！…よし、先に入って業務の処理をしててください、私が修理業者に連絡してきます。
-	The automatic door here is broken? Give me a minute—— Hrmph! All right, go ahead and carry on with your work. I’ll contact the maintenance staff.
+	The automatic door here is broken? Give me a minute—— Hrmph! All right, go ahead and carry on with your work. I'll contact the maintenance staff.
 	이 자동문이 망가졌다고요? 잠깐 기다려 주세요…… 하앗! …좋아, 먼저 들어가 업무 처리를 하고 계세요, 제가 수리업자에게 연락하고 오겠습니다.
 
-	想了解米诺斯的风土？明白了，我会整理一份报告。不，关于米诺斯的情报三言两语说不清楚，我必须详细地汇报给您。
 	ミノスの風土について知りたい？わかりました、今度レポートにまとめて提出します。いいえ、ミノスに関する情報は一言や二言で説明できるようなものじゃないですから。きっちり詳しく報告させていただきます。
-	You want to learn more about Minos’s terroir? I see, I’ll put together a report for you. No, that is not information that I can clearly disclose in just a few words. I must report it to you in detail.
+	You want to learn more about Minos's terroir? I see, I'll put together a report for you. No, that is not information that I can clearly disclose in just a few words. I must report it to you in detail.
 	미노스의 풍토에 대해 알고 싶으시다? 알겠습니다, 다음에 보고서로 정리해서 제출하겠습니다. 아니요, 미노스에 관한 정보는 한두 마디로 설명할 수 있는 것이 아니니까요. 빠짐없이 자세히 보고하겠습니다.
 
-	时刻更新知识是佣兵的必备功课，如果不能及时了解资讯，很有可能哪天就栽在使用新手法的敌人手里了，所以绝对不可以有一丝懈怠。您明白了吧，博士。博士？
 	新しい知識を随時取り入れることは傭兵としての必須科目です。それができなければ、いつ敵の新戦法に倒れてもおかしくありません。つまり少しの怠慢も許されないというわけです。理解いただけましたか、ドクター。ドクター？
-	Mercenaries must always update their pool of knowledge. If you can’t keep up with the newest information, you’ll likely fall into the hands of enemies who utilize new methods, so there’s absolutely no room to slack. I hope you understand this, Doctor. Doctor?
+	Mercenaries must always update their pool of knowledge. If you can't keep up with the newest information, you'll likely fall into the hands of enemies who utilize new methods, so there's absolutely no room to slack. I hope you understand this, Doctor. Doctor?
 	새로운 지식을 수시로 받아들이는 것은 용병의 필수 덕목입니다. 그게 안 되면 언제 적의 새 전법에 쓰러져도 이상하지 않죠. 그러니까, 조금의 태만도 용납되지 않는다는 겁니다. 이해하셨습니까, 박사님…… 박사님?
 
-	呃，花园里的米诺斯小姐到底做了什么......脑袋里空空的，紧张感也消失了......现在状态......不太对。博士，我需要恢复，暂时没法胜任护卫的工作，还请谅解......
 	あの、ガーデンにいるミノスから来た女性、一体私に何を……頭が真っ白になって、緊張感も消えて……なんだか、調子がおかしい……。ドクター、回復のためにしばらく護衛から外れさせていただけますか？すみません……。
-	Huh, what the hell did that Minosian girl in the garden do...? My head feels strangely empty, and I feel completely relaxed... This doesn’t... feel right. Doctor, I need to rest. Please forgive me, I’m temporarily unable to carry out my duties as your bodyguard...
+	Huh, what the hell did that Minosian girl in the garden do...? My head feels strangely empty, and I feel completely relaxed... This doesn't... feel right. Doctor, I need to rest. Please forgive me, I'm temporarily unable to carry out my duties as your bodyguard...
 	저기…… 정원에 있는 미노스에서 온 여자는, 대체 저에게 무슨…… 머리가 새하얘지고, 긴장감도 사라져서…… 뭔가, 상태가 이상합니다…… 박사님, 회복을 위해 잠시 호위 임무에서 이탈해도 되겠습니까? 죄송합니다……
 
-	喝，哈！看来今天状态不错，或许和预备干员们一起活动一下身体会更舒畅。哦，现在是地狱周吗？看来又要麻烦杜宾帮忙安排个位置了啊。
 	はーっ！やーっ！よし、今日は調子が良さそうだ。予備隊の子たちと軽く身体を動かしてみても気持ちいいかもな。え、今週はヘル・ウィーク？ふむ、ドーベルマンに私も仲間に入れてくれるように頼まないと。
-	Hoo, hah! Looks like I’m in pretty good shape today, maybe it’ll feel even better to exercise a bit with the reserve operators. Oh, is it Hell Week again? Looks like we’ll have to bug Dobermann again to help arrange a place for us.
+	Hoo, hah! Looks like I'm in pretty good shape today, maybe it'll feel even better to exercise a bit with the reserve operators. Oh, is it Hell Week again? Looks like we'll have to bug Dobermann again to help arrange a place for us.
 	하~앗! 야~앗! 좋아, 오늘은 상태가 좋은 모양이네. 예비팀 아이들이랑 가볍게 몸 좀 써보는 것도 기분 좋겠는데. 앗, 이번 주는 지옥주라고? 흠, 도베르만한테 나도 동료로 넣어달라고 부탁해야겠어.
 
-	科林尼亚建立在商人的天秤上，每个人都想着把对方的价值压榨到极致。与之相比，其他城邦的人们要有趣多了，就像你一样，博士。成为他们的护卫，总会发生很多有趣的事。
 	コリニアは商人の天秤の上に成り立ってる城です。あそこの人はみな相手から搾取することしか考えていません。それと比べたら、ほかの都市の人たちの方がずっと面白いです。そう、ドクターもその一人ですね。彼らの護衛をしてると、色々楽しい体験ができますよ。
-	Corinia was built upon the scales of merchants, and everyone wants to squeeze as much as they can out of everyone else. In comparison, people in other city-states are far more interesting, just like you, Doctor. When I’m guarding them, there’s always a lot of interesting things happening.
+	Corinia was built upon the scales of merchants, and everyone wants to squeeze as much as they can out of everyone else. In comparison, people in other city-states are far more interesting, just like you, Doctor. When I'm guarding them, there's always a lot of interesting things happening.
 	코리니아는 상인의 천칭 위에 지어진 성입니다. 그곳 사람들은 모두 상대에게서 착취하는 것밖에 생각하지 않죠. 거기에 비하면 다른 도시 사람들 쪽이 훨씬 재미있습니다. 그래요, 박사님도 그중 한 사람이죠. 그들의 호위를 하고 있으면 여러 가지 즐거운 체험을 할 수 있답니다.
 
-	您需要适当的锻炼，博士。保健操那只是活动筋骨，我说的是锻炼，包含健康饮食减脂增肌在内的全方位的锻炼。哦，您又答应了？那还请拿出成果来，要是又——什，我话还没说完，别跑！
 	ドクターには適度な鍛錬が必要かと思います。いえ、健康体操は身体をほぐすだけです。私が言っている鍛錬とは、健康的な食事や、体脂肪を減らし筋肉をつけるといった全面的な鍛錬のことですよ。ほう、今回もやる気ですね？では今度こそ成果で応えてください、もしまた――ちょっ、まだ話の途中ですよ、逃げるなー！
-	You need to train properly, Doctor. I’m not just talking about moving your muscles and bones, that’d just be exercise. What I’m talking about is training. It requires a full range of exercises as well as a healthy diet to burn fat and build muscle. Oh, you’re fine with that? Let me see your results then. If I find out that you’re— Hey, I’m not done talking yet, get back here!
+	You need to train properly, Doctor. I'm not just talking about moving your muscles and bones, that'd just be exercise. What I'm talking about is training. It requires a full range of exercises as well as a healthy diet to burn fat and build muscle. Oh, you're fine with that? Let me see your results then. If I find out that you're— Hey, I'm not done talking yet, get back here!
 	박사님에게는 적절한 단련이 필요하다고 생각합니다. 아니요, 건강 체조는 몸을 풀어주기만 할 뿐입니다. 제가 말하는 단련이라는 것은 건강한 식사와 체지방을 줄이고 근육을 붙이는 것과 같은 전면적인 단련입니다. 호오, 이번에도 의욕이 넘치시네요? 그럼 이번에야말로 성과로 답해 주시죠. 혹시 또…… 잠깐, 아직 이야기 중입니다, 도망가지 마…!
 
-	又吃完了？再来一碗？好......是，我第一次做正餐，平时都是吃干粮果腹的，不怎么下厨。给，最后一碗，吃完休息好以后请遵守我们的约定，好好参加运动，这样我也算没白学这项技能。
 	もう食べ終わった？おかわり？構いませんが……ええ、こんなちゃんとした食事を作るのは初めてです。いつも携帯食で済ませるので、料理はあまり。はい、これで最後ですよ。食べ終わって休憩したら、約束通りしっかり運動してもらいますよ。そしたら私も料理を学んだかいがあるというものです。
-	Done eating again? Another bowl? Sure... This is the first time I’ve made a complete meal. Usually I just fill my belly with some rations and don’t cook much. Here’s the last portion. After you finish, please abide by our agreement and exercise properly so that me learning this skill is not in vain.
+	Done eating again? Another bowl? Sure... This is the first time I've made a complete meal. Usually I just fill my belly with some rations and don't cook much. Here's the last portion. After you finish, please abide by our agreement and exercise properly so that me learning this skill is not in vain.
 	벌써 다 드셨습니까? 더 드신다고요? 상관은 없지만…… 네, 이런 제대로 된 식사를 만드는 것은 처음입니다. 언제나 휴대 식량으로 때워서 요리는 그다지… 네, 이게 마지막입니다. 다 드시고 나서 휴식한 후에 약속대로 제대로 운동을 시킬 겁니다. 그러면 저도 요리를 배운 보람이 있을 테니까요.
 
-	以小憩来充分放松......吗，真是奢侈的休息方式。
 	少しの休憩でも思いっきりリラックスする、か……。ふっ、ぜいたくな息抜きだな。
 	Taking a nap to relax, huh? ...What a luxurious way to rest.
 	약간의 휴식에서도 있는 힘껏 긴장을 푼다니…… 훗, 사치스러운 휴식이군.
 
-	初次见面，新雇主，本人是科林尼亚的雇佣兵，铸铁。手续已经完成了，接下来请期待我的工作成果。
 	はじめまして、あなたが今回の雇い主ですか。私はコリニアの傭兵、シデロカです。入職手続きはもう済ませましたし、これからしっかり働かせていただきますので、よろしくお願いします。
 	Pleased to meet you, my new employer. I am Sideroca, a Corinian mercenary. The paperwork has already been completed, so please look forward to the results of my work.
 	처음 뵙겠습니다, 당신이 이번 고용주입니까? 저는 코리니아의 용병 시데로카입니다. 입직 절차는 이미 마쳤고, 이제부터 제대로 일할 테니, 잘 부탁합니다.
 
-	这样的片段也只是参考，请把精力用在实战上。
 	このような断片的な映像は参考程度にしかなりません。もっと実戦の方に注力してください。
 	These clips are only good for reference. Please apply your attention to the actual battle.
 	이런 단편적인 영상은 참고 정도밖에 되지 않습니다. 더 실전 쪽에 주력해 주십시오.
 
-	一枚徽章，一份信赖。我收下了。
 	一枚のバッジに、一人分の信頼が込められています。謹んでいただきます。
-	Each badge is a symbol of trust. I’ll accept it.
+	Each badge is a symbol of trust. I'll accept it.
 	배지 하나에는 한 사람의 신뢰가 담겨 있습니다. 감사히 받겠습니다.
 
-	挥舞我的刀刃，斩断所有威胁，我说到做到。
 	我が刃を振るい、全ての脅威を断ち切ってみせることを、約束します。
-	I waved my blade around and cut down all the threats. I’ve done what I said I would.
+	I waved my blade around and cut down all the threats. I've done what I said I would.
 	제가 검을 휘둘러 모든 위협을 베어내 보일 것을, 약속합니다.
 
-	听从您的指挥。
 	ドクターの指揮に従います。
 	At your service.
 	박사님의 지휘에 따르겠습니다.
 
-	传达您的命令。
 	命令の伝達は任せてください。
 	Passing on your commands.
 	명령 전달은 맡겨 주십시오.
 
-	我会时刻注意队伍情况，请您安心。
 	チームの状況にはいつでも目を光らせてますので、安心してください。
-	Rest assured, I’ll always pay attention to the team situation.
+	Rest assured, I'll always pay attention to the team situation.
 	팀의 상황에는 늘 주의하고 있으니, 안심하십시오.
 
-	开始了。
 	始めます。
-	We’re starting.
+	We're starting.
 	시작하겠습니다.
 
-	是。
 	はい。
 	Here.
 	네.
 
-	准备进入预定地点。
 	これより規定位置に着きます。
 	Approaching the destination.
 	지금부터 지정된 위치로 가겠습니다.
 
-	看看你们有什么能耐。
 	あんたたちの腕前、見させてもらおうか。
-	Let’s see what you all can do.
+	Let's see what you all can do.
 	당신들의 실력, 보도록 할까.
 
-	休想再进一步。
 	これ以上進ませない。
-	Don’t even think about taking another step.
+	Don't even think about taking another step.
 	이 이상은 못 지나간다!
 
-	倾覆吧！
 	ひっくり返す！
-	Let’s turn this around!
+	Let's turn this around!
 	뒤집기!
 
-	倒下就别想再起来了！
 	一度倒れたらもう立ち上がれると思うな！
 	And stay down!
 	한번 쓰러지면 다시 일어날 수 있을 거라 생각하지 마라!
 
-	喝！
 	はーー！
 	Hooaahh!
 	하……!
 
-	让你们见识一下米诺斯的战技！
 	ミノスの戦法を見せてやる！
-	I’ll show you how a Minosian fights!
+	I'll show you how a Minosian fights!
 	미노스의 전법을 보여주마!
 
-	以您的指挥技术来看，我的保护似乎有些多余。
 	ドクターの指揮を見ると、私の護衛なんて必要なさそうですね。
 	Judging from your commanding skills, my protection might be a little redundant.
 	박사님의 지휘를 보면 저의 호위 같은 건 필요 없을 것 같습니다.
 
-	您没有受伤就好，我们准备离开吧。
 	お怪我さえなければそれでいいです。帰りの準備をしましょう。
-	What’s important is that you didn’t get hurt. Let’s get ready to head back.
+	What's important is that you didn't get hurt. Let's get ready to head back.
 	다친 곳만 없으시다면 그걸로 됐습니다. 돌아갈 준비를 하지요.
 
-	因为我的疏忽让您受了惊吓，真的，很抱歉。
 	私のミスのせいでお騒がせし、本当に申し訳ありませんでした。
 	You had to suffer through a fright because of my negligence. I am so, so sorry.
 	저의 실수로 놀라게 해드려, 정말로 죄송합니다.
 
-	无论如何，得把博士安全送回基地......
 	なんとしても、ドクターが無事に基地に戻るまで守っていかないと……
 	No matter what happens... I have to get the Doctor safely back to base...
 	어떻게든, 박사님께서 무사히 기지로 돌아갈 때까지 지켜야 해……
 
-	太杂乱了，得好好整理一下。
 	こんなに散らかって、ちゃんと片付けないと。
-	It’s too messy here. I’m going to have to give it a good cleaning.
+	It's too messy here. I'm going to have to give it a good cleaning.
 	이렇게 너저분하다니, 제대로 정리해야겠네.
 
-	有什么事？
 	何か用ですか？
-	What’s the matter?
+	What's the matter?
 	무슨 일이십니까?
 
-	博士！您自己提的集训，怎么能带头脱逃呢？停下！
 	ドクター！自分から集中訓練って言い出したのに、なんで真っ先に逃げ出すんですか！待って！
 	Doctor! You were the one who suggested the training, so why are you trying to run away from your own session? Stop right there!
 	박사님! 본인이 집중 훈련이라고 말을 꺼냈으면서 왜 바로 도망가는 겁니까! 잠깐!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	没有异常！
 	異常なし！
 	No exceptions!
 	이상 없음!
+
+干员档案\Background:
+	基础档案 :
+	【代号】铸铁
+	【性别】女
+	【战斗经验】五年
+	【出身地】米诺斯
+	【生日】3月17日
+	【种族】丰蹄
+	【身高】164cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】シデロカ
+	【性別】女
+	【戦闘経験】五年
+	【出身地】ミノス
+	【誕生日】3月17日
+	【種族】フォルテ
+	【身長】164cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Sideroca
+	[Gender] Female
+	[Combat Experience] 5 Years
+	[Place of Birth] Minos
+	[Date of Birth] Mar 17
+	[Race] Forte
+	[Height] 164cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 시데로카
+	[성별] 여
+	[전투 경험] 5년
+	[출신지] 미노스
+	[생일] 3월 17일
+	[종족] 포르테
+	[신장] 164cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Standard
+	[Physical Resilience] Excellent
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	 [생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	经验丰富的米诺斯佣兵，擅长保护目标与押运货物。已与罗德岛签订长期雇佣合同，经过内部训练后拥有参加各项任务的经验与实力。
+
+	個人履歴 :
+	要員と貨物の護衛を得意とする、経験豊富なミノスの傭兵。ロドスと長期雇用契約を結んでおり、内部の訓練を受けた後、多様な任務に対応できる経験と実力を身につけた。
+
+	Profile :
+	Sideroca is an experienced mercenary from Minos and specializes in bodyguard and cargo transport duties. A long-term employment contract with Rhodes Island has been signed, and after internal training, Sideroca has the strength and experience to participate in a variety of missions.
+
+	프로필 :
+	    풍부한 경험을 갖춘 미노스의 용병으로 목표 보호 및 화물 호송 실력이 뛰어나다. 로도스 아일랜드와 장기 고용 계약 후, 내부 훈련을 거쳐 각종 임무에 참가한 경험과 실력을 두루 갖춘 인물.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	这就是未感染的原生米诺斯丰蹄角吗？摸上去好舒服。
+	
+	【血液源石结晶密度】0.12u/L
+	以丰蹄的标准来说，各项指标都很优秀。
+	
+	“年轻真好。” ——未署名资深医师
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	これが未感染のミノス原生のフォルテの角か？触り心地がいいね。
+	
+	【血液中源石密度】0.12u/L
+	フォルテの基準で判断すれば、全ての項目において優秀だと言えよう。
+	
+	「若いっていいね。」――匿名ベテラン医師
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Is this what an uninfected Minosian Forte's horns feel like? So smooth... 
+	
+	[Blood Originium-Crystal Density] 0.12u/L
+	Compared to Forte standards, all indicators are excellent. 
+	
+	'How great it is to be young.' —Unnamed senior physician
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	이게 바로 감염되지 않은 원래 모습 그대로의 미노스 포르테의 뿔인가? 촉감이 정말 좋은 걸.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	포르테 기준으로 말하자면, 각종 지표가 모두 훌륭해.
+	
+	 "젊다는 건 참 좋구만."——익명의 선임 의사
+
+———————————————————————————————
+
+	档案资料一 :
+	铸铁出生于米诺斯的科林尼亚城邦，该邦以贸易闻名，商业活动兴盛，但同时也遭受着各种道德败坏的非议。由于自小饱尝财富至上主义带来的苦涩后果，铸铁一成年便离开科林尼亚，以独立佣兵的身份在米诺斯诸邦之间游走。曾经，她是多么想远离科林尼亚去见识一下不同的生活，可在成为佣兵多年后，她发现自己无论如何逃离科林尼亚，米诺斯贸易的中心，永远是她那座辉煌灿烂的母邦。不过，她的挣扎并非毫无成果，在她工作的路线上，有另外两座能与之相比的移动城邦：米诺斯人的精神花园雅赛努斯，以及米诺斯尚武者的圣地拉刻代蒙，在那些地方，她终于能够接触到另一种思想与生活方式，同时，也正是在那些地方，有人为她揭示了米诺斯之外的广阔大地。终有一天，她会远离家乡，前往崭新的国度。如果说科林尼亚真有教给铸铁什么的话，永远保持探索欲与务实心或许就是她所学到的内容吧。
+
+	第一資料 :
+	シデロカは、貿易ビジネスで知られるミノス都市、コリニアの出身である。町は商売繁昌しているが、道徳的腐敗から様々な非難を受け続けてきた。子供の頃から資産至上主義が招いた悲劇を味わい続けたシデロカは、成人してまもなく町を出た。コリニアとは違う生活を体験したいと考え、一傭兵としてミノスの各都市を長年歩き渡ったが、どこへ行っても商売の中心はあの輝かしい故郷であるということを、思い知らされるだけだった。そのことに不満を感じつつ、彼女は放浪を続けた。そしてついに、コリニアに匹敵する二つの移動都市――ミノス人の精神的な庭園アテヌスと、ミノス武人の聖地ラケダイモンで、これまでとは別の考え方や生き方を見つけたのである。新たな出会いもあり、世の中の広さを知った彼女は、いつかミノスから新しい世界へ旅立つだろう。彼女がコリニアから学んだことがあるとすれば、それはきっと探求の心と実質剛健さであろう。
+
+	Archive File 1 :
+	Sideroca was born in Corinia, a city-state of Minos renowned for its flourishing trade and business, but simultaneously criticized for rampant corruption. Due to the bitter consequences of wealth inequality and classism from a young age, Sideroca left Corinia to wander the various Minosian city-states as a mercenary. In the past, she always wanted to go far away from Corinia to see different facets of life, but after some time as a mercenary, she realized she would never be able to flee from Corinia, the heart of Minosian trade as well as her splendid motherland. However, her struggle was not fruitless - in her line of work, she came across two other nomadic city-states that rivaled her home: Athenus, the spiritual garden of Minos, and Lakedaímōn, the sacred ground of warriors. In these places, she was able to encounter different philosophies as well as different ways of life, and at the same time, it was in these places that the vast world beyond Minos was revealed to her. One day, she will leave her home and travel to a new country. If Corinia taught anything to Sideroca, it is perhaps a lifelong desire for exploration and a deep pragmatism.
+
+	파일 자료 1 :
+	    시데로카가 태어난 미노스의 코리니아는 무역으로 유명하여, 상업 활동이 활발한 곳이었다. 다만 동시에 온갖 부도덕한 문제에 직면한 곳이기도 했는데, 어린 시절부터 물질만능주의의 쓴맛을 충분히 맛본 시데로카는 성년이 되자 코리니아를 떠나 용병의 신분으로 미노스의 여러 도시들을 돌아다녔다. 과거 그녀는 코리니아를 벗어난 또 다른 삶을 몹시 갈망했지만, 몇 년 간의 용병 생활을 통해 그녀는 자신의 고향이 미노스 무역의 중심이자, 아름다운 모국임을 다시 한번 깨달았다. 하지만 그녀의 노력이 무의미했던 것은 아니었다. 그녀의 활동 선상에는 다른 두 곳의 이동도시가 있었는데, 그곳은 바로 미노스인들의 정신적 화원인 야세누스와 미노스 무인들의 성지인 라크데몬이었다. 그리고 시데로카는 그곳에서 마침내 또 다른 사상과 생활방식을 접할 수 있었으며, 그곳의 누군가로부터 미노스 밖의 광활한 대지에 대해 전해듣게 되었다. 시데로카는 언젠가는 고향을 떠나 새로운 세계로 향할 것이다. 만약 그녀가 코리니아로 부터 배운 것이 무엇이냐고 묻는다면, 그것은 바로 끝없는 탐구욕과 실용주의적 사고방식이라고 할 수 있을 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	铸铁选择成为雇佣兵的初衷只是因为用这种方法能够最快离开科林尼亚并维持自己的日常开销。对于这样一位年轻的女性是否能胜任这份工作，不少人是抱有怀疑的，不过铸铁的第一位雇主，罗德岛米诺斯分会的会长却不这么认为，只要能成功完成任务，她并不在意完成者任何阅历或经验上的缺憾。到正式加入罗德岛之前，她派给铸铁的单子没有一件是失败的，连几项出现意外事端，允许佣兵为了保证自身安全抛弃货物的单子，铸铁都能完成——作为代价，她身上或许会多添几条伤疤。在与之合作多年后，罗德岛米诺斯分会的一把手决定将其吸收进这个大家庭——她可不想让深得自己信赖的人才被其他竞争对手抢去。就这样，铸铁正式成为了罗德岛的干员。
+
+	第二資料 :
+	シデロカは、最速でコリニアを出て自立して生きていくために、傭兵になった。多くの人々は、彼女のような若い女性が、傭兵の仕事をやっていけるか疑問に思っていた。しかし彼女の最初の雇用主であるロドスのミノス支部部長は違った。職務を完遂できるなら、履歴や経験などは些細なことだからである。ロドスに正式に加わる前に携わった任務でも、シデロカは自分の仕事を全て完璧にこなしていた。その中のいくつかは「傭兵自身の安全のためやむを得ない場合は、任務を放棄することを許可する」と契約しているような、危険なものであった。しかし彼女はそれらの任務を、体に傷を増やしつつも、成し遂げたのである。数年後、ミノス支部長は彼女をロドスに迎え入れることに決めた。それは貴重な人材が他の競争相手に奪われることを阻止するためでもあった。このようにして、シデロカは正式にロドスのオペレーターになったのだ。
+
+	Archive File 2 :
+	Sideroca originally chose to become a mercenary as a method to cover daily expenses, and to leave Corinia as soon as possible. Many people have voiced doubts about whether such a young woman would be qualified for that line of work, but Sideroca's first employer, the president of the Minos branch of Rhodes Island, did not share those concerns. As long as the task can be successfully completed, she cared not for the experience, or lack thereof, of the person carrying out the task. By the time Sideroca officially joined Rhodes Island, she had an impressive track record of zero tasks failed, even completing tasks that allowed the mercenaries to abandon their goods in order to ensure their own safety. Of course, her accomplishments also came at a price, perhaps evident by the extra scars across her body. After several years of cooperation, the head of Rhodes Island's Minos branch decided to grandfather her into the main organization - after all, she didn't want this trusty talent to be snatched up by competitors. As such, Sideroca officially became an operator of Rhodes Island.
+
+	파일 자료 2 :
+	    시데로카가 최초에 용병이 되고자 했던 이유는, 단지 이 방법을 택했을 때 가장 빠르게 코리이나를 벗어날 수 있었고, 또 자신의 생계를 해결할 수 있었기 때문이었다. 많은 사람들이 젊은 여자가 용병일을 제대로 할 수 있을 지 의문을 품었으나, 시데로카의 첫 고용주인 미노스 로도스 아일랜드 지부장은 이와는 달리, 임무만 완료해낼 수 있다면 용병의 이력이나 경험상의 부족한 점은 전혀 개의치 않아 했다. 시데로카가 로도스 아일랜드에 정식으로 합류하기 전, 그녀가 시데로카에게 의뢰한 임무들 중 실패한 건수는 단 한건도 없었고, 오히려 뜻 밖의 사고로 인해 화물 운송을 포기하는 것이 허용되는 상황에서도 그녀는 끝까지 임무를 완수하였다. 물론 그 대가로 시데로카에겐 몇 군데의 흉터가 추가되었을 수도 있겠지만 말이다. 여러 해간의 협력 끝에 미노스 로도스 아일랜드 지부는 이 실력있는 용병을 다른 누군가에게 빼앗기기 전에 먼저 로도스 아일랜드로 스카웃하기로 결정하였다.
+	    이렇게, 시데로카는 정식으로 로도스 아일랜드의 오퍼레이터가 되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	铸铁在米诺斯当佣兵时曾经受到过两种截然不同的评价，一类雇主称她“富有责任心，为了任务尽心尽力”。另外一类的雇主则觉得她“多管闲事，喜欢问东问西，很麻烦”。导致这些评价的缘由其实很简单，那就是铸铁在担任佣兵时会习惯性想要为雇主多做点事，这固然有益于任务的完成，却不适合那些希望对执行任务的佣兵都隐瞒一切消息的雇主。罗德岛米诺斯分会长曾经给过铸铁这样一个建议：“只承接短期任务，要不就在一位雇主手下做到退休。”她明白铸铁表现出的冷淡完全遮挡不住发自内心的操劳与关怀，如果在合适的雇主手下做事，往往会达成事半功倍的效果，可一旦......基于这个原因，在了解到米诺斯对外商贸联盟准备长期雇佣铸铁时，她直接去说服铸铁，抢在对方之前签订了合约。而当商贸联盟的人到达铸铁的临时住所时，她已经离开米诺斯，前往罗德岛开始新的生活了。然而有一点，即使是这位精打细算的分会长也没能意料到......
+	如果铸铁真的服侍一位雇主太久的话......
+
+	第三資料 :
+	ミノスで傭兵として働いていた頃、シデロカは雇用主から二種類の異なる評価を受けていた。ひとつは「責任感があり、任務に尽くす」という評価。もうひとつは、「おせっかいな質問好きで、非常に面倒だ」という評価である。これらの評価が分かれた理由は単純である。シデロカは傭兵として雇用主のためにより多くのことをしたいと思い、多くを訊ねる。しかしできるだけ情報を伏せたい雇用主にとって、質問が多い傭兵は迷惑なのである。ロドスのミノス支部長は、かつては彼女にこう提案した――「短期契約の仕事に集中するか、同じ雇用主の下で引退まで働くか、どちらかにした方がいい。」支部長は、シデロカの無関心な表情の裏にある雇用主を思う心に気づいていたのである。適切な雇用主を見つければ、彼女は半分の労力で倍の成果をあげることすら可能である。しかし……そう考えた支部長は、ミノス対外商業連盟がシデロカと長期契約を結びたがっていると聞くと、直接彼女を説得しに行き、先に契約を結んだ。ゆえに商業連盟の者がシデロカの仮住まいを訪れた時には、彼女は既にミノスを離れ、ロドスで新たな生活を始めていたのである。しかし一つだけ、聡明な支部長でさえ予見しなかったことがある。
+	シデロカが同じ雇用主の下で、長い間働くと……
+
+	Archive File 3 :
+	During her time as a mercenary in Minos, Sideroca received two different kinds of evaluations. One group of employers called her 'responsible and dedicated to every task.' The other group called her 'nosy, with the very troublesome tendency of asking too many questions.' The reason for these two different types of evaluations is actually quite simple: Sideroca habitually wants to go above and beyond for her employer. While this is beneficial to completing the task, it can also be unsuitable for employers who wish to conceal information from their mercenary hires. The head of Rhodes Island's Minos branch once gave her the following advice: 'Only take on short-term contracts, or stick with one employer until retirement.' She understands that Sideroca's cold personality cannot conceal her inner dedication and work ethic. By working under the right employer, it is possible to achieve twice the outcome with half the effort, but once... because of this very reason, when she learned that the Minos Foreign Trade Union was attempting to strike a long-term deal with Sideroca, she went directly to Sideroca to snag her up before she could sign that contract. When representatives from the Trade Union arrived at Sideroca's temporary residence, she had already left Minos to start a new life at Rhodes Island. However, there was one thing that even the savvy branch leader could not anticipate...
+	If Sideroca really stayed under the same employer for too long...
+
+	파일 자료 3 :
+	    시데로카는 미노스에서 용병으로 활동하던 당시에 두 종류의 서로 다른 평가를 받았다. '책임감이 강하고, 임무를 위해 최선을 다한다'라는 평가도 있었지만, 이와 반대로 '쓸데없는 참견이 많고, 이것저것 물어봐서 귀찮다'란 평가도 있었다.
+	    이런 평가를 받게 된 이유는 사실 간단한데, 그건 바로 시데로카가 용병으로 활동하던 시절에 고용주를 위해 조금이라도 일을 더 해주고자 했던 습관 때문이다. 물론 이런 습관은 임무를 완수하는 데에는 도움이 되긴 했지만, 용병에게 되도록 많은 사실들을 감추려고 하는 고용주들에게는 적합하지 않았다.
+	    미노스 로도스 아일랜드 지부장은 과거 시데로카에게 '단기 임무만 처리하지 말고, 차라리 한 고용주 밑에서 퇴직할 때까지 쭉 일해보지 않겠냐'라고 제안을 한 적이 있었다.
+	    그녀는 시데로카의 냉담한 겉모습이 그녀 마음속에서 우러나오는 열정과 배려심을 전혀 퇴색시킬 수 없단 점을 잘 알고 있었고, 만약 그녀가 적합한 고용주 밑에서 쭉 일한다면 기존보다 훨씬 더 효율적으로 임무를 완수할 수 있을 것이라 생각했다. 게다가 미노스 대외 무역 연맹에서 시데로카와 장기 계약을 준비한다는 사실을 알게 되자, 그녀는 곧장 시데로카를 설득하러 갔고, 상대에게 빼앗기기 전에 그녀와 계약을 마무리하였다.
+	    이후 무역 연맹 사람이 시데로카의 임시 거처에 도착했을 때 그녀는 이미 미노스를 떠나 로도스 아일랜드로 향하고 있었다. 다만 이 꼼꼼한 지부장도 예상치 못한 점이 있었는데…… 만약 시데로카가 정말로 한 고용주와 장기간 일을 하게 된다면……
+
+———————————————————————————————
+
+	档案资料四 :
+	“最近博士被养得有点好。”
+	“博士？养？博士不都是自己养自己的么。要不就是被医疗部散养，想不健康也不行啊。”
+	“我说的不是这个！来，看这个内部日报上博士的照片，你仔细看，看博士的手臂。”
+	“......”
+	“等等，我没看错吧。”
+	“博士有肌肉了？！”
+	“虽然只有一点点，但那的确是肌肉啊！”
+	“天呐！”
+	“所以啊，我想知道是谁在养博士。”
+	“看下博士办公室的执勤记录表不就行了，这里只有你有权限，拜托啦。”
+	“有道理，等我一小会。”
+	
+	记录快进中→
+	
+	“查到了吗。”
+	“是铸铁。”
+	“铸铁？那个佣兵？现在的佣兵都很擅长照顾人吗？”
+	“她大概是个例外......听说是为让博士答应锻炼去学烹饪，在图书馆借了本莱塔尼亚菜谱后就能做了。”
+	“照菜谱做的能好吃到哪去。”
+	“你是没尝过吧。那天我和古米一起试了下她做的简餐，古米都呆住了。”
+	“啊？！”
+	“这人是怪物吧，我烧了十年我妈都嫌弃我做菜难吃......”
+	“听说还依照营养学理论特意配比了食材，味道又调的好，本来博士说什么都不会进健身房一步的，结果吃了以后没多久就乖乖去锻炼了。”
+	“那张《博士在健身房》就是这样来的啊......”
+	“嗯。”
+	“这人......真的是佣兵吗？”
+	“谁知道呢。”
+	
+	————未知时间食堂录音监控
+
+	第四資料 :
+	「最近、ドクターは結構いい感じに、健康に育てられているね。」
+	「育てられるって何？ペットじゃないんだからさ、ドクターも自分のことは自分でやってるでしょ。健康っていうなら、医療部に監視されてるからじゃないの。」
+	「違うよ！ほら見て、この艦内新聞に載ったドクターの写真。腕をよく見て！」
+	「……」
+	「待って、嘘でしょ？」
+	「ドクターの腕に筋肉が！？」
+	「ほんのちょっとだけだけど、間違いなく筋肉でしょ！」
+	「これは驚いた！」
+	「だから、誰がそこまで『育てた』のかなって気になって。」
+	「ドクターの執務室の勤務記録を見ればわかるでしょ。ここじゃあんたにしか権限がないし、任せた！」
+	「よし。ちょっと待って。」
+	
+	記録早送り中>>>
+	
+	「誰かわかった？」
+	「シデロカ。」
+	「シデロカ？あの傭兵？最近の傭兵は、そんなに面倒見が良いの？」
+	「面倒見が良いのは彼女だけでしょ……ドクターが筋トレすることを条件に、食事を作ってあげたみたい。図書館に行って、リターニアのレシピ本を借りて。」
+	「レシピ本の料理なんか、美味しいはずないでしょ。」
+	「あんたは一回彼女の料理を食べた方がいいよ。この間グムと一緒に彼女の料理を味見したけど、あまりの美味しさにグムだって言葉を失ってた。」
+	「えっ！？」
+	「とんでもない人だよ、シデロカは。私なんか十年も料理を作ってるのに、ずっとうちの母さんに不味いって言われ続けてるけど……」
+	「栄養学の観点を取り入れた食材の選定に加えて、味付けもすごく手が込んでるらしいよ。あれを食べた後、あの筋トレと無縁なドクターがジムに行ったほどだから。」
+	「あの『ジムにいるドクター』って写真は、その時に撮影されたの？」
+	「そうみたい。」
+	「ほんとに傭兵なのかなあの人……」
+	「さあね。」
+	
+	――食堂での録音。時間帯不明。
+
+	Archive File 4 :
+	'Recently, the Doctor's been taken good care of.' 
+	'The Doctor? Taken care of? I don't know of anyone doing something like that. Unless you're talking about the medical department. It wouldn't make sense if they weren't keeping people healthy.' 
+	'That's not what I'm talking about! C'mon, take a look at this photo from our daily newsletter. Look carefully at the Doctor's arm.' 
+	'What about it...?'
+	'Wait, I think I see it.' 
+	'The Doctor's putting on some muscle?!' 
+	'Even though it's just a little bit, that is unmistakably muscle!' 
+	'By jove!' 
+	'So, umm, I want to know who's taking care of the Doctor.' 
+	'Isn't it enough to just take a look at the Doctor's record of duties at the office? You're the only one with that authorization here, so I'm counting on you.' 
+	'Good point, let me take a look.' 
+	
+	Fast Forward→
+	
+	'Did you find it?' 
+	'It's Sideroca.' 
+	'Side-who? That mercenary? Do they train mercenaries for caregiving duties these days?' 
+	'She's probably an exception... I heard that she learned to cook in order to persuade the Doctor to work out. All it took was her borrowing a Leithanien cookbook from the library.' 
+	'How good could something that came off a cookbook be?' 
+	'You've never tried it, have you? The other day, Gummy and I went to try one of her simple meals. Gummy was blown away.' 
+	'What?!' 
+	'That woman's a monster, I'm telling you. I've been cooking for ten years, and even my own mother won't touch my food...'
+	'I heard that she selects her ingredients in accordance to nutritional theory while accounting for individual tastes. The Doctor, who swore to never set foot in the gym, was seen there the next day after trying one of her meals.' 
+	'So that's where that 'Doctor at the Gym' post came from...'
+	'Mhm...' 
+	'This person... is she really just a mercenary?' 
+	'Beats me.' 
+	
+	——Cafeteria monitoring camera, unknown time
+
+	파일 자료 4 :
+	    "요즘 박사가 아주 제대로 관리받고 있네."
+	   "관리를 받아? 박사가? 자기 관리는 스스로 하는 거 아니었나? 하긴 의료부에 있으면서 건강하지 않으려야 않을 수가 없겠지."
+	    "그게 아니라! 여기, 일일 보고서에 첨부된 박사 사진을 봐봐, 박사의 팔이 어떤지 자세히 살펴보라고."
+	    "……"
+	    "잠깐만, 내가 잘못 본건 아니겠지."
+	    "박사한테 근육이?!"
+	    "조금뿐이지만 확실히 근육이야!"
+	    "세상에나!"
+	    "그래서 말인데, 누가 박사를 관리해 주고 있는 걸까?"
+	    "박사의 사무실 근무 기록표를 보면 되잖아, 접근 권한을 가진 사람은 너뿐이니까, 부탁 좀 할게."
+	    "일리 있네, 잠깐 기다려봐."
+	
+	기록 빨리 감기→
+	
+	    "찾았어?"
+	    "시데로카네."
+	    "시데로카? 그 용병? 요즘 용병들은 사람 관리도 잘 해주나?"
+	    "시데로카는 아마 좀 독특한 케이스일 거야…… 박사에게 운동을 시키기 위해 요리를 배우겠다고 했다더라고. 도서관에서 라이타니아 요리책을 빌려간 뒤로, 요리를 할 수 있게 됐다던데."
+	    "요리책을 보고 만들어 봤자 얼마나 맛있겠어."
+	    "너 먹어본 적 없구나. 그때 나랑 굼이랑 같이 먹어 봤는데, 굼도 넋이 나갔더라니까."
+	    "뭐?!"
+	    "완전 괴물 아니냐? 난 십 년을 배웠는데도 우리 엄마조차 내 요리 맛없다고 싫어하시던데……"
+	    "영양학 이론에 따라 식재료를 배합한데다 맛도 좋아서, 박사도 그 요리를 먹고 나선 순순히 운동하러 갔다더라. 누가 뭐래도 헬스장에는 안 가겠다고 버티던 그 박사가……"
+	    "그 '헬스장에 있는 박사' 사진에 그런 사연이……"
+	    "응."
+	    "이 사람… 정말 용병 맞아?"
+	    "누가 알겠어."
+	
+	 ——어느 한때의 식당 녹음 기록
+
+———————————————————————————————
+
+	晋升记录 :
+	或许是没有接受过正规训练的缘故，铸铁对于成为干员前的那场新干员培训记忆犹新，而同时，担任教官的杜宾也对铸铁“记忆犹新”，她能理解一个人能够在地狱周中还在主动提升自己，但她无法理解一个人会有重复体验地狱周的愿望，在她眼中，铸铁是那种可以将地狱周当成日常健身房健身的人，而她本身的素质已经极为优秀了。因为铸铁一次次的加入，杜宾已经不能让她接受与新兵相同的课程了——那样只会吓坏新人。于是，她从新兵训练，正规军训练，特种兵训练等各种训练科目中搜寻课程来满足她的要求，之后，她甚至和坚雷达成了一份协议，以在某些地方上的退让来换取她的支持，共同对抗这个让教官团头疼的人。最终，她们发现，只有两件事能够阻止铸铁进行这种几乎自残式的训练——出任务，或是让她把注意力转移到博士身上。于是，在故意向她流出最近博士身体抱恙的情报后，她就把热情和精力全花在了照顾博士上。只是，即使如此，预备干员们还是能时常在训练场上看到铸铁的身影。
+
+	昇進記録 :
+	今まで正式な訓練を受けていなかったためか、シデロカ曰く、正式にオペレーターになる前の新人訓練には鮮烈な印象が残っているという。それと同時に、教官を務めたドーベルマンも彼女から鮮烈な印象を受けたそうだ。「ヘル・ウィーク」期間中において、訓練以外にも積極的に自分を鍛えようとする者はまだ理解できるが、それを繰り返し体験したいと言い出す者はさすがに理解に苦しむからだ。ドーベルマンから見れば、「ヘル・ウィーク」を毎日のジムフィットネスとして利用するようなシデロカは、相当な変わり者であった。身体が完璧に仕上がっているにもかかわらず、シデロカが何度も訓練に参加したため、ドーベルマンは彼女に新人と同じトレーニングメニューを与えることができなくなったそうだ――彼女のあまりのすごさに、他の新人が驚かされるからである。最終的にドーベルマンは、新人訓練、正規軍訓練、特殊部隊訓練など様々な訓練科目から、シデロカに相応しいコースを新たに作成した。更に諸々の譲歩と引き換えに、ジュナーと協定を交わし、教官泣かせなシデロカの自傷行為に等しい訓練をやめさせる方法を見つけようとした。最終的に二人が見つけた答えは、彼女に任務を与えること、もしくは彼女の注意をドクターに向けさせることだった。そして、ドクターの体調不良に関する情報を故意に漏らすことで、シデロカの熱意と精力をすべてドクターの世話に向けさせることに成功したのだ。それでも、オペレーター候補たちはやはり、時々訓練場で彼女を目撃すると言うのだ。
+
+	Promotion Record :
+	Perhaps because she had never received prior formal training, Sideroca still clearly remembers her experiences training to become an Operator. At the time, Instructor Dobermann also has very 'vivid' memories of Sideroca. She says that while it is normal for people to proactively improve themselves during Hell Week, it is inexplicable that someone would ever want to put themselves through Hell Week ever again. In her eyes, Sideroca is the kind of person who can incorporate a brutal regimen like Hell Week as part of their own regular fitness routine, even with already excellent qualities. Because Sideroca kept signing up again and again, Dobermann put her foot down and no longer allowed Sideroca to take the same courses as fresh recruits - after all, that would only serve to intimidate them. Consequently, Dobermann put together a specialized regimen, delving into new training manuals, standard army training, and special operations training and incorporating them to meet Sideroca's needs. She even made an agreement with Dur-nar afterwards, gaining her support in exchange for compromises in some other areas, in order to work together against this person who constantly made the life of the instructors that much harder. Eventually, they discovered that only two things could tear Sideroca away from this almost self-destructive urge to train - going out on missions, or diverting her attention onto the Doctor. Thus, after they deliberately 'leaked' some information about the Doctor's recent malady, Sideroca poured all her energy and enthusiasm into taking care of the Doctor. Even with all of that, however, the reserve operators frequently see Sideroca laboring away on the training grounds.
+
+	승진 기록 :
+	    정규 훈련을 받아보지 않아선지는 모르겠지만, 시데로카는 오퍼레이터가 되기 전에 받은 신입 오퍼레이터 훈련을 생생하게 기억하고 있으며, 담당 교관이었던 도베르만 역시 시데로카를 생생히 기억하고 있다. 도베르만은 훈련생이 지옥 주간동안 주도적으로 자신의 실력을 향상시킬 수 있다고는 생각했지만, 그렇다고 지옥 주간을 반복하고 싶어하는 시데로카를 이해할 순 없었다. 시데로카에게 지옥주는 마치 일상의 헬스장과 같았고, 그녀가 갖춘 자질은 이미 굉장히 우수했다. 시데로카가 매번 교육에 참가했기에, 도베르만은 신병들이 놀라자빠지는 상황을 방지하기 위해 더 이상 그녀를 신병과 함께 교육받지 못하도록 조치하였다.
+	    그래서 그녀는 신병 훈련과 정규 군사 훈련, 특수 부대 훈련 등 그녀의 요구를 만족시켜줄만한 온갖 다양한 훈련을 찾아다녔고, 이후에는 심지어 듀나와 협의를 진행, 몇몇 부분을 양보하여 그녀의 지지를 얻어내 교관들을 머리아프게 했다. 결국 교관들은 시데로카를 외부 작전에 참여시키거나, 박사를 통해 관심을 끄는 방법을 통해서만 시데로카의 이런 자학에 가까운 훈련 중독을 완화시킬 수 있음을 깨달았다.
+	    그래서 교관들은 시데로카에게 최근 박사의 건강 상태가 좋지 않다는 정보를 고의로 흘렸고, 덕분에 그녀의 열정과 에너지를 온전히 박사를 보살피는 쪽으로 돌릴 수 있었다. 다만 그럼에도 불구하고, 예비 오퍼레이터들은 여전히 수시로 훈련장에서 시데로카를 발견할 수 있었다.

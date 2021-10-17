@@ -1,11 +1,17 @@
 ID:
 	char_286_cast3
 
+CV:
+	Castle-3
+	Castle-3
+	Castle-3
+	Castle-3
+
 干员代号\Name:
-	Castle-3
-	Castle-3
-	Castle-3
-	Castle-3
+	阿部敦
+	阿部敦
+	Atsushi Abe
+	아베 아츠시
 
 招聘合同\Character Usage:
 	罗德岛近卫机器人Castle-3，被工程师可露希尔派遣来执行战地作战任务。
@@ -60,157 +66,244 @@ ID:
 	
 
 语音\Voices:
-	感谢您选择Castle-3！很荣幸成为您的助理！
 	キャッスル-3をお選びいただきありがとうございます！ドクター様のアシスタントを務めさせていただけるとは、身に余る光栄です！
 	Thank you for choosing Castle-3! I am honored to serve as your assistant, Doctor.
 	Castle-3를 선택해주셔서 감사합니다! 박사님의 어시스턴트를 맡게 되어, 대단히 큰 영광으로 생각합니다!
 
-	请不要被我的外形吓坏，博士。这是我经过可露希尔改造的坚固金属外壳，可为您在战场以一敌百。
 	ドクター様、どうか私の外観に驚かないでください。こちらはマスタークロージャの改造により施された金属フレームなのです。戦場での活躍は保証致します！
 	Doctor, please do not be intimidated by my appearance. My sturdy metal shell, modified by Master Closure herself, will make you invincible on the battlefield.
 	박사님, 부디 저의 외관에 놀라지 말아 주십시오. 이쪽은 마스터 클로저의 개조에 의해 만들어진 금속 프레임입니다. 전장에서의 활약은 보장합니다!
 
-	注意，请不要用力拍打本设备，否则将会造成本设备损坏。
 	警告、本体への過度な打撃は破損の原因となりますので、おやめください。
 	Warning: be careful not to strike my case too hard. It may damage me.
 	경고, 본체에의 과도한 타격은 파손의 원인이 되므로, 하지 말아주십시오.
 
-	野外的地形多变，但是Castle-3配备了性能卓越的引擎，采用四轮驱动方案，将会在任何时候载您离开困境！
 	足場の悪いエリアのお供に、キャッスル-3はいかがでしょうか。高出力のエンジンに四輪駆動を採用した足回りで、如何なる時でもあなたを窮地から救い出します！
 	The topography in the wild may be treacherous, but Castle-3 is fitted with an engine with outstanding performance and a 4WD mode, to whisk you away from danger.
 	걸어가기 어려운 지역의 동반자로 Castle-3는 어떠십니까. 고출력 엔진에 사륜구동을 채용한 이동으로, 언제든지 당신을 궁지에서 구해 드립니다!
 
-	博士，当你遇到危险请一定找Castle-3！Castle-3为专业作战而生，是您最佳的安全方案。
 	ドクター様、身の危険を感じたらすぐにこのキャッスル-3をお呼びください！戦闘用に造られた私こそが、戦場の安心を守る最高の選択なのです。
 	Doctor, if your life is ever in danger, just summon Castle-3! Castle-3 was created specifically for combat purposes. I am a top-class defensive warfighting robot.
 	박사님, 신변의 위협을 느끼시게 되면 바로 이 Castle-3를 불러주십시오! 전투용으로 만들어진 저야말로, 전장에서 안전을 지켜드리는 최고의 선택입니다.
 
-	和您在一起Castle-3感到非常愉快，博士您如果有任何目标需要打击，Castle-3赴汤蹈火在所不辞！
 	ドクター様にご一緒させていただけて喜ばしい限りです。攻撃目標があるならば、それが火の海であってもこのキャッスル-3が出向いてまいりますよ。
 	Castle-3 is honored to be at your side. Doctor, should you require me to strike down your foes, I shall go through heaven and hell to see it done!
 	박사님과 함께할 수 있다니 더할 나위 없이 기쁩니다. 공격 목표가 있다면, 그곳이 불바다라고 해도 Castle-3는 나아갈 것입니다.
 
-	虽然Castle-3我的管理者是“可露希尔主人”，不过更多时候您对Castle-3来说更加重要，请相信Castle-3是您身边最贴心的作战伙伴！
 	私キャッスル-3の管理者は「マスタークロージャ」ですが、ほとんどの場合においてドクター様のことを最優先に行動させていただいております。キャッスル-3こそ最も頼れる相棒だと、どうか信じてください！
 	Castle-3's official manager is 'Master Closure,'but please understand that you are even more important to Castle-3 than Master is, in most cases. I am your devoted, trustworthy battle companion!
 	저, Castle-3의 관리자는 '마스터 클로저'입니다만, 대부분의 경우에 있어서는 박사님을 최우선으로 행동하고 있습니다. Castle-3야 말로 가장 믿을 수 있는 파트너라고 믿어주십시오!
 
-	进入休眠模式。按任意键以唤醒。
 	スリープモードに入ります。復帰する場合は任意のキーを操作してください。
 	Entering sleep mode. Press any button to wake.
 	수면 모드로 들어갑니다. 복귀하실 때는 임의의 키를 눌러주십시오.
 
-	您好，博士，欢迎使用Castle-3！请点击任意位置以开始初始化首选项。
 	こんにちは、ドクター様。キャッスル-3のスタートアップへようこそ。任意の位置をクリックし、初期設定を完了してください。
 	Hello, Doctor. Thank you for choosing Castle-3. Tap anywhere to initialize startup options.
 	안녕하십니까 박사님. Castle-3의 스타트업에 오신 것을 환영합니다. 임의의 위치를 클릭하여, 초기 설정을 완료하여 주십시오.
 
-	固件升级完成，请重新启动设备。请点击任意位置以重启动您可靠的近卫机器人！
 	ファームウェアのアップデートが完了しました、本体の再起動が必要です。任意の位置をクリックし、あなたの頼もしい相棒を再起動してください！
 	Firmware upgrade complete. Restart required. Please click anywhere to restart.
 	펌웨어 업데이트가 완료되었습니다. 본체의 재기동이 필요합니다. 임의의 위치를 클릭하시어 재기동하여 주십시오.
 
-	设备检查完毕，通信正常。Castle-3已就绪，随时等待您的命令。
 	デバイススキャン完了、通信機能正常。キャッスル-3、スタンバイ。いつでもご指示をお待ちしております。
 	Device scan complete. All communications working as normal. Castle-3 is on standby, awaiting your orders.
 	디바이스 스캔 완료. 통신 기능 정상. Castle-3, 스탠바이. 언제든지 지시하여 주십시오.
 
-	了解，Castle-3是您带领队伍冲锋陷阵的理想之选！
 	了解です。キャッスル-3をお選びいただけるとはお目が高い！ドクター様の部隊に理想的な勝利をもたらしてみせましょう！
 	Understood. Castle-3 is your best choice, Doctor, to lead a squad against enemy formations!
 	알겠습니다. Castle-3를 선택하여 주시다니, 안목이 높으시군요! 박사님의 팀에 이상적인 승리를 가져다드리겠습니다!
 
-	接下来，Castle-3要展现下工业级作战平台的实力了！
 	これより、キャッスル-3の戦闘マシーンとしての実力をお見せしましょう！
 	Next, Castle-3 will show you its true power as an industrial battle platform!
 	지금부터, Castle-3의 전투 머신으로서의 실력을 보여 드리도록 하겠습니다!
 
-	目击敌方单位，准备攻击！
 	敵対ユニットを確認、攻撃準備！
 	Enemy unit located. Ready for attack.
 	적대 유닛을 확인, 공격 준비!
 
-	Castle-3，等候您的命令。
 	キャッスル-3、ご命令をお待ちしています。
 	Castle-3, awaiting orders.
 	Castle-3, 명령을 기다리고 있습니다.
 
-	Castle-3已就绪。
 	キャッスル-3、準備が完了しました。
 	Castle-3, ready and waiting.
 	Castle-3, 준비를 완료하였습니다.
 
-	遵命！
 	任務了解！
 	Order received.
 	임무 완료!
 
-	收到！
 	了解いたしました！
 	Understood.
 	알겠습니다!
 
-	放马过来吧！
 	かかってきてください！
 	Show me what you've got!
 	덤비십시오!
 
-	别妄想能靠近一步，你们这些恶徒！
 	敵の皆さん、それ以上近づけるとでも思いましたか！
 	Enemies, you are forbidden to advance.
 	적 여러분, 더 다가올 수 있으리라 생각하셨습니까!
 
-	细数你的罪恶吧！
 	あなたの罪を数えなさい！
 	Count up your sins!
 	당신의 죄를 세어보십시오!
 
-	博士啊，那个对手值得一战！
 	ドクター様、戦うだけの価値がある敵のようですよ。
 	Doctor, that was at last a worthy opponent!
 	박사님, 싸울 가치가 있는 적인 것 같습니다.
 
-	干得好博士！选择Castle-3，您在正义之路上的绝佳伙伴！
 	ドクター様、よくやりました！キャッスル-3は正義の道の伴侶に最適の選択ですよ！
 	Well done, Doctor. Castle-3 is your best choice on the path of justice!
 	박사님, 잘하셨습니다! Castle-3는 정의의 길의 동반자로서 최적의 선택입니다!
 
-	真是一场精彩的战斗，下一次再一起并肩作战吧！
 	素晴らしい戦闘でした、次の作戦もまた肩を並べて戦えることを願っております！
 	What an exciting battle! Let's fight together again next time.
 	훌륭한 전투였습니다, 다음 작전도 또 함께 싸울 수 있기를 바랍니다!
 
-	大家都没事吧？希望Castle-3的表现令大家满意。
 	皆さま、ご無事ですか？キャッスル-3の働きはご満足いただけましたか。
 	Is everyone all right? I hope Castle-3's performance has exceeded your expectations.
 	여러분, 무사하십니까? Castle-3의 처리는 만족스러우셨습니까?
 
-	我来断后，大家请赶紧撤退！
 	私が囮になります、皆さまは迅速に撤退を！
 	I will hold up the rear. Everyone, retreat!
 	제가 미끼가 되겠습니다. 여러분께선 신속히 철수하여 주십시오!
 
-	有什么Castle-3能够帮忙的吗？
 	何かキャッスル-3にお手伝いできることはありますか？
 	Is there anything Castle-3 can help with?
 	뭔가 Castle-3가 도와드릴 수 있는 건 없으신가요?
 
-	请小心轻放，博士！
 	取り扱い注意です、ドクター様！
 	Please be gentle, Doctor!
 	취급에 주의하여 주십시오, 박사님!
 
-	博士，要一起喝一杯吗？虽然我不能喝，不过我能请您。别担心，最后也是可露希尔主人付帐。
 	一杯どうですか、ドクター様？私は飲めませんが、ごちそう致します。ご心配なさらず、請求はマスタークロージャへ行きますので。
 	Doctor, would you like to grab a drink together? I might not be able to actually have a drink, but I can still treat you to one. It is fine, Master Closure will pay.
 	한잔 어떠십니까 박사님? 저는 마실 수 없습니다만, 한잔 사도록 하겠습니다. 걱정하지 마십시오, 비용 청구는 마스터 클로저 앞으로 진행되니까요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	今天天气不错啊，博士！
 	今日はいいお天気ですね、ドクター様！
 	Lovely weather today, Doctor!
 	오늘은 날씨가 좋군요, 박사님!
+
+干员档案\Background:
+	基础档案 :
+	【型号】Castle-3
+	【设定性别】男
+	【出厂时间】三年
+	【制造商】雷神工业
+	【产地】哥伦比亚
+	【出厂日】12月10日
+	【高度】167cm
+	【重量】保密
+	【维护检测报告】
+	外壳有大量磨损，结构完整，强度正常。发动机与底盘状况良好。攻击设备运行正常，电池外壳有轻微损坏，使用正常。ECU状况良好。
+
+	基礎情報 :
+	【コードネーム】キャッスル-3
+	【性別設定】男
+	【使用年月】三年
+	【製造元】レイジアン工業
+	【産地】クルビア
+	【出荷日】12月10日
+	【高さ】167cm
+	【重量】非公開
+	【メンテナンス結果報告】
+	外殻にかなりの摩耗あり。システム、強度共に正常。モーター、シャシー共に良好。攻撃設備の駆動正常。バッテリー外殻に軽微の損傷あり。正常に使用可能。ECUの状態良好。
+
+	Basic Info :
+	[Model] Castle-3 
+	[Gender Assignment] Male 
+	[Time in Service] 3 years 
+	[Manufacturer] Raythean 
+	[Place of Production] Columbia 
+	[Date of Release] Dec. 10 
+	[Height] 167cm 
+	[Weight] Classified 
+	[Inspection Report] 
+	Massive wear on outer casing, structure intact, normal durability. Generator and chassis in good condition. Weapon system operational. Slight damage on battery casing but operational. ECU in good condition.
+
+	기본정보 :
+	[모델명] Castle-3
+	[성별 설정] 남
+	[출하 기간] 3년
+	[제조 업체] 레이시언 공업
+	[생산지] 컬럼비아
+	[출하 일자] 12월 10일
+	[높이] 167cm
+	[중량] 기밀
+	[점검 검사 보고]
+	    외부에 마모된 흔적이 다수 존재하나 부품 구성은 완벽한 편. 강도 정상. 엔진 및 보드 상태 양호. 공격 설비가 정상적으로 작동하며, 배터리 케이스에 약간의 손상이 발견되었으나 사용에는 문제가 없음. ECU 상태 또한 양호.
+
+———————————————————————————————
+
+	综合性能检测结果 :
+	【最高速度】23km/h 
+	【爬坡能力】普通 
+	【制动效能】普通 
+	【通过性】普通 
+	【续航】优良 
+	【结构稳定性】标准
+
+	総合性能 :
+	【最高速度】23km/h
+	【登坂能力】普通
+	【制動効率】普通
+	【走行性】普通
+	【航続力】優秀
+	【構造安定性】標準
+
+	Performance Review :
+	[Top Speed] 23km/h 
+	[Climb] Normal 
+	[Brake] Normal 
+	[Mobility] Normal 
+	[Endurance] Excellent 
+	[Structural Integrity] Standard
+
+	종합 성능 테스트 결과 :
+	[최고 시속] 23km/h
+	[등반 능력] 보통
+	[제동 효율] 보통
+	[퍼포먼스] 보통
+	[지속 시간] 우수
+	[구조 안정성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	Castle-3是可露希尔客制化后的雷神存在者™Plus六轮作业平台。受人喜爱，也是吉祥物一般的存在不过因为性格比较正常所以没有获得那么多关注。
+	Castle-3方方正正的形象给人以坚定可靠的感觉。
+	身上的标记可能代表着杀敌数，但是他自己没有手，所以是谁刻上去的呢？
+
+	個人履歴 :
+	キャッスル-3はクロージャによりカスタマイズされたレイジアンイグジスターシリーズPlus六輪作業プラットフォーム。人からの受けがよく、マスコットキャラクターのような存在だが、目立った性格ではないためあまり注目を集めることはない。
+	キャッスル-3の立方体の形は、堅実で頼りになる印象を与える。
+	おそらくボディに敵を倒した数が表記されているが、彼には手がない。いったい誰が記したのだろうか？
+
+	Profile :
+	Castle-3 is a custom  Raythean -Plus six-wheeled operations platform built by Closure. A likeable mascot for Rhodes Island, his mundane disposition means he is largely ignored. 
+	The solid blocky appearance of Castle-3 gives off a trustworthy, dependable impression. 
+	The marks on his casing may represent kills, but who made the marks if he has no hands?
+
+	프로필 :
+	    Castle-3는 클로저가 커스터마이징 한 레이시언 익시스터 Plus 6륜 작업 플랫폼이다. 사랑받는 마스코트 같은 존재지만, 비교적 정상적인 성격 때문에 많은 관심을 받지는 못한다.
+	    Castle-3의 네모 반듯한 외형은 사람들에게 믿음직한 느낌을 준다. 몸에 새겨져 있는 표시는 소멸시킨 적군의 수일 수 있으나, 손이 없는 Castle-3가 어떻게 새겼는지는 의문이다. 혹시 다른 누군가가 표기해 준 것일까?
+
+———————————————————————————————
+
+	档案资料一 :
+	对可露希尔改造自己毫不在意，并且对自己被强化了感到高兴。被设置成了最喜欢的东西是可露希尔，对此没有什么评价，觉得主人怎么做都可以。
+
+	第一資料 :
+	クロージャに改造されることに抵抗がなく、むしろ強化されることに喜びを見せる。一番好きなものを「クロージャ」と設定されたが、このことに対して特に意見がなく、マスターが何をしようと気にしない様子だ。
+
+	Archive File 1 :
+	He does not mind Closure's modifications, and is even quite pleased with the upgrade. His settings were changed to make Closure his favorite person, so he's satisfied with anything 'Master Closure' choses to do.
+
+	파일 자료 1 :
+	    클로저가 자신을 개조한 것에 전혀 개의치 않으며, 오히려 강화된 것에 대해 기쁘게 생각한다. 가장 좋아하는 것이 클로저로 세팅된 것에 대해서도 전혀 신경 쓰지 않으며, 주인이 어떻게 해도 괜찮다고 여긴다.

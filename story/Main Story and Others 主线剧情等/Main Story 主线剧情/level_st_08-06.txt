@@ -10,7 +10,7 @@
 
 [Decision(options="发生什么了！;怎么会......;凯尔希，想想办法！", values="1;2;3")]
 [Decision(options="何が起きた！;バカな……;ケルシー、なんとかしてくれ！", values="1;2;3")]
-[Decision(options="What’s going on?;How did...?;Kal'tsit, do something!", values="1;2;3")]
+[Decision(options="What's going on?;How did...?;Kal'tsit, do something!", values="1;2;3")]
 [Decision(options="무슨 일이 일어난 거야!;말도 안 돼……;켈시, 어떻게 좀 해봐!", values="1;2;3")]
 
 [name="凯尔希"]  ......过来，Dr.{@nickname}。
@@ -455,7 +455,7 @@ Amiya's breathing stabilizes.
 
 [name="霍克"] 没想到，在原本作战计划里本来是要搅乱他们......
 [name="ホーク"] まったく。連中を騙すための偽装だったはずなのに――
-[name="Hawk"] I never thought the plan would flip around to helping Reunion like this…
+[name="Hawk"] I never thought the plan would flip around to helping Reunion like this...
 [name="호크"] 정말 상상도 못 했어, 원래 작전 계획이 그들을 교란시키는 거였다니……
 
 [name="整合运动成员"] 谢谢你，兄弟！打得好！快离开这里吧！
@@ -1620,7 +1620,7 @@ Thus, the Chernobog Incident silently drew to a close.
 
 [name="陈"]  ......我面会过了“科西切”。他可能比你我想的还要邪恶。
 [name="チェン"]  ……「コシチェイ」に会った。奴は私たちが思っているよりもっと邪悪な存在かもしれない。
-[name="Ch'en"]  I met 'Kashchey'. He may be more evil than either of us know.
+[name="Ch'en"]  I met 'Kashchey.' He may be more evil than either of us know.
 [name="첸"]  ……'카셰이'를 만난 적이 있어, 우리 생각보다 훨씬 더 사악한 존재일 지도 몰라.
 
 [name="魏彦吾"]  我可以想象。

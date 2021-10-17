@@ -1,11 +1,17 @@
 ID:
 	char_271_spikes
 
-干员代号\Name:
+CV:
 	芳汀
 	アレーン
 	Arene
 	아렌
+
+干员代号\Name:
+	松冈祯丞
+	松岡禎丞
+	Yoshitsugu Matsuoka
+	마츠오카 요시츠구
 
 招聘合同\Character Usage:
 	近卫干员芳汀，乐于在战场上捉弄敌人。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	别靠太近，有危险。
 	近づき過ぎるな、危ないぞ。
-	Don’t come too close. It’s dangerous.
+	Don't come too close. It's dangerous.
 	위험하니 너무 가까이 접근하진 않도록.
 
 信物\Potential Item:
@@ -43,177 +49,407 @@ ID:
 	치명적인 장난
 
 语音\Voices:
-	文件都整理好了，今天已经没别的事情了吧？不如来聊聊上次的作战吧，老师。
 	ファイルの整理は終わったよ。今日はもう他にやることないよね？じゃあこの間の作戦について話そうよ、センセー。
-	The files are in order. Is that all we have to do today? Why don’t we talk about the operation the other day, Professor?
+	The files are in order. Is that all we have to do today? Why don't we talk about the operation the other day, Professor?
 	파일 정리는 끝났어. 오늘은 이제 다른 할 일 없지? 그럼 얼마 전 작전 이야기 좀 하자, 선생님~
 
-	在我施放法术时，最好不要靠得太近......不走开吗？那就请随意。
 	僕がアーツを放つ時は、あまり近寄らないで。……離れないの？じゃあ好きにすれば。
 	Try not to come too close when I use Arts, okay? Not moving out of the way? Okay, if you insist.
 	내가 아츠를 방출할 땐 너무 가까이 오지 마…… 안 떨어질 거야? 그럼 마음대로 하던가.
 
-	为什么喊你老师？因为在你身边能学到东西，比如战斗的布局和指挥，还有很多别的......除此之外，还需要什么其他理由吗。
 	なんでセンセーって呼ぶかって？それはあんたについてけば色んなことが学べるからさ。戦闘の配置とか指揮とか、他にも色々……それ以外に、何か理由はいるの？
-	Why do I call you 'Professor', you ask? Because I’m actually learning quite a lot from you. The placement of personnel on the battlefield, how to command, among other things... What more reason do we need?
+	Why do I call you 'Professor', you ask? Because I'm actually learning quite a lot from you. The placement of personnel on the battlefield, how to command, among other things... What more reason do we need?
 	왜 선생님이라고 부르냐고? 그건 널 따라다니면 여러 가지를 배울 수 있거든. 전투 배치나, 지휘, 그 밖에도 여러 가지… 그거 말고 이유가 더 필요한가?
 
-	喏，这个给你，大概是什么点心吧。不用谢，反正是别人送的东西，我没什么兴趣。
 	はい、これあげる。多分お菓子か何かかな。礼はいいよ、貰い物だし、僕は興味ないから。
-	Here, you can have this. I think it’s some sort of candy? No need to thank me. I got it from someone else anyway, and I don’t really like these things very much.
+	Here, you can have this. I think it's some sort of candy? No need to thank me. I got it from someone else anyway, and I don't really like these things very much.
 	자, 이거 줄게. 과자 같은 건가 봐. 감사는 됐어. 받은 거고, 난 흥미 없으니까.
 
-	用杖的萨科塔人很稀奇？别被某些整天只知道砰砰砰，什么事情都依赖暴力解决的家伙影响了，萨科塔人也不是人人都会选择铳枪作为武器的，至少我就不喜欢。
 	杖を使うサンクタ人が珍しい？一日中バンバンやって何でも暴力で解決するような奴らに影響されるなよ。サンクタ人だって、みんながみんな銃を武器にするわけじゃないんだ。少なくとも僕は好きになれないね。
-	You don’t see Sankta using staves much? The guys who shoot up everything day and night and solve all their problems with violence must have given you a bad impression. Not all Sankta use guns as their weapons. At the very least, I don’t like them.
+	You don't see Sankta using staves much? The guys who shoot up everything day and night and solve all their problems with violence must have given you a bad impression. Not all Sankta use guns as their weapons. At the very least, I don't like them.
 	지팡이를 쓰는 산크타는 드물다고? 온종일 탕탕대면서 뭐든 폭력으로 해결하려는 녀석들한테 영향받지 말라고. 산크타라고 해서 전부 총을 무기로 삼는 건 아니야. 적어도 난 그런 게 마음에 안 들어서 말이야.
 
-	与其共享同一个秘密，不如交换两个秘密，这样才称得上平衡与稳固。所以，如果想知道我的秘密，那就考虑一下要拿出什么样的东西与我交换吧，老师。
 	一つの秘密を共有し合うより、お互いの秘密を交換した方がいい。それでようやく平等で強固な関係と言えるんだ。だから、もし僕の秘密が知りたければ、何か対等なものと交換してよね、センセー。
-	Rather than sharing a single secret, we should exchange our secrets with each other. That’s how you build a strong, equal relationship. So if you want to learn any of my secrets, you better come up with something just as saucy for me, Professor.
+	Rather than sharing a single secret, we should exchange our secrets with each other. That's how you build a strong, equal relationship. So if you want to learn any of my secrets, you better come up with something just as saucy for me, Professor.
 	하나의 비밀을 공유하는 것보다 서로의 비밀을 교환하는 게 나아. 그래야만 평등하고 굳건한 관계라고 할 수 있어. 그러니까 혹시 내 비밀을 알고 싶으면 뭔가 대등한 것과 교환하라고, 선생님.
 
-	拉特兰的土地上没有感染者，萨科塔人一旦感染，就会遭到流放。但感染者仍然还属于拉特兰，不论他们身处何方，都仍享有拉特兰的种种保障......只是无法再一次踏上故土，仅此而已。
 	ラテラーノの地に感染者は存在しない。サンクタ人は感染すると、すぐに追放されちゃうからね。でも感染者になっても、ラテラーノに属することには変わらないんだ。どこに行こうと、ラテラーノの色んな保障は受け続けられる……ただ二度と故郷に足を踏み入れることはできないってだけさ。
-	There are no Infected in Laterano. Once a Sankta contracts Oripathy, he is immediately exiled. But even if you become Infected, no matter where you are, you still enjoy all kinds of privilege as a Laterano... You just don’t get to set foot in your homeland again, that’s all.
+	There are no Infected in Laterano. Once a Sankta contracts Oripathy, he is immediately exiled. But even if you become Infected, no matter where you are, you still enjoy all kinds of privilege as a Laterano... You just don't get to set foot in your homeland again, that's all.
 	라테라노의 땅에 감염자는 존재하지 않아. 산크타는 감염되면 바로 추방되어 버리거든. 하지만 감염자가 되어도 라테라노에 속한다는 것엔 변함이 없어. 어디를 가든 라테라노의 다양한 보장은 계속 받을 수 있지… 그저, 두 번 다신 고향에 발을 들일 수 없을 뿐이야.
 
-	父母的遗嘱里给我留了点小麻烦，费了我不少功夫去解决。如果不是那个死脑筋的公证所执行人添乱的话，事情还会更顺利点......哼，算了，不管怎么说，都还在我的计划之中。
 	両親の遺言にちょっと厄介な内容があって、解決には骨が折れたよ。あの融通のきかない執行人がややこしくしてなければ、もっと順調に進んだんだけど……フンッ、まぁいいや。そうは言ってもまだ計画通りだから。
-	My parents’ will left me with quite a bit of trouble, and it was really a hassle to get it taken care of. If it wasn’t for that uptight executor making things difficult for me, it all could’ve been much easier... Oh, whatever, it still went according to plan.
+	My parents' will left me with quite a bit of trouble, and it was really a hassle to get it taken care of. If it wasn't for that uptight executor making things difficult for me, it all could've been much easier... Oh, whatever, it still went according to plan.
 	부모님 유언에 좀 성가신 내용이 있어서 해결하느라 고생했어. 그 융통성 없는 집행인이 까다롭게 굴지 않았으면 더 순조롭게 진행됐을 텐데… 흥! 뭐, 됐어. 말은 그렇게 해도 아직 계획대로 되고 있으니까.
 
-	这次的作战，我想抓几个人来试试我的新法术。不行？......好吧，好吧，虽然很遗憾，但如果是老师阻止的话，这次就算了。嗯？不仅是这次，今后也不允许？真严格啊，老师。
 	今回の作戦で、何人か捕まえて僕の新アーツを試してみたいんだけど。ダメ？……あっそう、わかったよ。残念だけど、センセーがダメって言うなら今回は止めとく。えっ？今回だけじゃなくて今後もダメ？厳しいなぁ、センセー。
-	I want to capture a few people to try out some new Arts in our next operation.  I can’t...? Alright, fine. It’s a shame, but if that’s what you say, Professor, maybe some other time, then.  Eh? Not this time, and not ever? Geez, don’t be so uptight.
+	I want to capture a few people to try out some new Arts in our next operation.  I can't...? Alright, fine. It's a shame, but if that's what you say, Professor, maybe some other time, then.  Eh? Not this time, and not ever? Geez, don't be so uptight.
 	이번 작전에서 몇 명쯤 포획해서 내 새 아츠를 시험해 보고 싶은데. 안돼? … 아, 그래. 알았어. 아쉽지만 선생님이 안 된다고 하면 이번엔 관둘게. 뭐? 이번만이 아니라 앞으로도 안 된다고? 엄격하네, 선생님.
 
-	睡了？工作时间睡着的人会被在脸上涂鸦......开玩笑的，我知道你醒着。
 	寝てるの？仕事中に居眠りすると顔に落書きされるよ……冗談だよ、起きてるって知ってたから。
-	Are you asleep? People who fall asleep at work get their faces drawn on, you know...? Just kidding, I know you’re awake.
+	Are you asleep? People who fall asleep at work get their faces drawn on, you know...? Just kidding, I know you're awake.
 	자? 업무 중에 졸면 얼굴에 낙서 당할걸… 농담이야. 깨어 있는 거 알고 있었거든.
 
-	代号芳汀，今天起正式加入。你就是博士啊......那就让我们试着好好相处吧，{@nickname}老师。
 	コードネームはアレーン、今日からは正式所属になるらしいよ。ふーん、あんたがドクターか……じゃあこれからは仲良くなれるといいね、{@nickname}センセー。
-	Codename Arene, officially joining today, it seems. So you are the Doctor... I hope we’ll get along, Professor {@nickname}.
+	Codename Arene, officially joining today, it seems. So you are the Doctor... I hope we'll get along, Professor {@nickname}.
 	코드네임은 아렌. 오늘부터 정식 소속이 된다고 하네. 흐음~ 너가 박사구나… 그럼 앞으로 친하게 지냈으면 좋겠네, {@nickname} 선생님.
 
-	战术学习吗，好像有点意思。
 	戦術の勉強か、ちょっと面白いかもね。
 	Studying tactics? Sounds kinda interesting.
 	전술 공부인가. 조금 재밌을지도 모르겠네.
 
-	好像和之前也没什么区别嘛。还是说，老师要教我什么密藏战术了？
 	これまでと何にも変わらないんじゃないの？それとも、何か秘密の戦術でも手ほどきしてくれるの？センセー。
-	This doesn’t seem all that different than before. Or are you going to teach me some secret strategies you have, Professor?
+	This doesn't seem all that different than before. Or are you going to teach me some secret strategies you have, Professor?
 	지금까지랑 아무것도 바뀌는 게 없잖아. 아니면 뭔가 비밀 전술이라도 가르쳐 주는 거야? 선생님.
 
-	博士，你是故意在试探我吗？好啊，正巧我也有点兴奋起来了。那么，接下来不论发生什么，都是我们之间的秘密哦。
 	ドクター、わざと僕を試してるの？いいよ、ちょうど僕も気分がノってきたところさ。じゃあ今から何が起きても、二人だけの秘密、ね。
-	Doctor, you aren’t testing me, are you? Alright then, I’m just getting in the mood.  Okay, starting right now, whatever that happens is going to be our own little secret.
+	Doctor, you aren't testing me, are you? Alright then, I'm just getting in the mood.  Okay, starting right now, whatever that happens is going to be our own little secret.
 	박사, 일부러 날 시험하는 거야? 좋아, 나도 마침 의욕이 솟던 참이었어. 그럼 지금부터는 무슨 일이 생겨도 둘만의 비밀이다, 알았지?
 
-	了解，听你安排。
 	わかった、従うよ。
-	Okay, I’ll follow your orders.
+	Okay, I'll follow your orders.
 	알았어, 따르지.
 
-	这次是实战课题？好啊，让我想想该怎么布置......
 	今回は実戦課題？ん……いいけど、ちょっと配置の仕方を考えさせて……
 	So actual combat for my next assignment? Okay, let me think about the placement...
 	이번엔 실전 과제인가? 상관은 없지만, 잠깐 배치 방식을 생각하게 해줘…
 
-	只要能达成目标，过程乱来点也不要紧吧？
 	目標さえ達成できれば、過程は多少めちゃくちゃでも大丈夫だよね？
-	As long as we achieve our goals, it doesn’t matter if the process of getting there is a little rough, huh?
+	As long as we achieve our goals, it doesn't matter if the process of getting there is a little rough, huh?
 	목표만 달성할 수 있으면 과정은 다소 엉망이어도 괜찮지?
 
-	欢迎，我在等各位。
 	いらっしゃい、待ってるからね。
-	Welcome. I’ll be waiting.
+	Welcome. I'll be waiting.
 	어서 와~ 기다리고 있으니까.
 
-	到我了？
 	僕の番？
 	My turn?
 	내 차례야?
 
-	别急。
 	慌てないで。
 	No need to rush.
 	당황하지 마.
 
-	不错的位置。
 	悪くない位置だね。
 	Not a bad position.
 	나쁘지 않은 위치네.
 
-	做什么都可以吧？
 	何をやってもいいんでしょ？
 	I can do whatever I want, right?
 	뭘 해도 괜찮지?
 
-	已经警告过各位了哦。
 	もう警告はしたからね。
-	I’ve given my warning.
+	I've given my warning.
 	경고는 이미 했어.
 
-	很难受吗？
 	苦しい？
 	Does it hurt?
 	괴로워?
 
-	告诉我，现在是什么感觉？
 	教えて、今何を感じてるのか。
 	Tell me. How are you feeling right now?
 	가르쳐 줘, 지금 뭘 느끼는지.
 
-	不错的惨叫声。
 	悪くない悲鳴だね。
-	That’s not a bad scream at all.
+	That's not a bad scream at all.
 	나쁘지 않은 비명이네.
 
-	比我预估的情况还要更顺利，还是小看了老师呀。
 	思ってたよりずっと順調だったね。センセーを甘く見てたよ。
-	That went far better than I expected. I shouldn’t have thought so little of you.
+	That went far better than I expected. I shouldn't have thought so little of you.
 	생각했던 것보다 훨씬 순조로웠네. 선생님을 얕잡아 봤었어.
 
-	不出意料的结果，没有任何意外，反而稍微有点无聊。
 	予想通りの結果だ。番狂わせも何もなかったし、なんかちょっとつまらないよね。
 	That was just as expected. No surprises, even a little boring.
 	예상대로의 결과야. 이변도 뭐도 없었고, 뭔가 좀 재미없네.
 
-	溜了几个，要追击吗？从战术上来说，我不推荐。
 	何人か逃したけど、追う？戦術としてはおすすめできないけど。
-	A few of them slipped past. Should I go after them? Strategically speaking, I don’t recommend it.
+	A few of them slipped past. Should I go after them? Strategically speaking, I don't recommend it.
 	몇 명인가 놓쳤는데, 쫓을까? 전술적으로는 추천할 수 없지만.
 
-	局面不太妙啊......这时候该怎么部署，不用我说吧？
 	ちょっとまずい状況だね……こんな時にどう動くべきか、僕が言うまでもないよね？
-	This is quite the bad situation... I shouldn’t have to tell you what the appropriate course of action is now, right?
+	This is quite the bad situation... I shouldn't have to tell you what the appropriate course of action is now, right?
 	좀 곤란한 상황이네… 이럴 때 어떻게 움직여야 할지는, 내가 말할 것까지도 없겠지?
 
-	不能住得离老师更近一点吗？
 	もっとセンセーに近い部屋はないの？
-	Isn’t there a closer room to the Professor’s?
+	Isn't there a closer room to the Professor's?
 	선생님이랑 더 가까운 방은 없어?
 
-	嗯？
 	うーん？
 	Hmm?
 	으음~?
 
-	正好有时间，来把上次任务的复盘做完吧，老师。
 	ちょうど時間もあるし、この間の任務の振り返りをやっちゃおうよ、センセー。
-	We have some time to spare. Why don’t we review our last mission, Professor?
+	We have some time to spare. Why don't we review our last mission, Professor?
 	마침 시간도 있으니까, 얼마 전 임무를 되짚어보자, 선생님.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你看起来好像很困，再睡一会吧，老师。
 	眠そうな顔してるね。もうちょっと寝ていいよ、センセー。
-	You look tired. It’s okay if you sleep a little longer, Professor.
+	You look tired. It's okay if you sleep a little longer, Professor.
 	졸려 보이는 얼굴이네. 좀 더 자도 돼, 선생님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】芳汀
+	【性别】男
+	【战斗经验】半年
+	【出身地】拉特兰
+	【生日】9月7日
+	【种族】萨科塔
+	【身高】161cm
+	【矿石病感染情况】
+	体表有少量源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】アレーン
+	【性別】男
+	【戦闘経験】半年
+	【出身地】ラテラーノ
+	【誕生日】9月7日
+	【種族】サンクタ
+	【身長】161cm
+	【鉱石病感染状況】
+	体表に少量の源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Arene
+	[Gender] Male]
+	[Combat Experience] Six months
+	[Place of Birth] Laterano
+	[Date of Birth] September 7
+	[Race] Sankta
+	[Height] 161cm
+	[Infection Status] 
+	Crystals have appeared on his body. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 아렌
+	[성별] 남
+	[전투 경험] 반년
+	[출신지] 라테라노
+	[생일] 9월 7일
+	[종족] 산크타
+	[신장] 161cm
+	[광석병 감염 상황]
+	 체표면에 소량의 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】普通
+	【生理耐受】普通
+	【战术规划】优良
+	【战斗技巧】普通
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】優秀
+	【戦闘技術】普通
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Normal
+	[Physical Resilience] Normal
+	[Tactical Acumen] Excellent
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 우수
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성]우수
+
+———————————————————————————————
+
+	客观履历 :
+	干员芳汀，拉特兰出生的萨科塔人，于数年前一场与拉特兰遗产铳相关的事件中感染矿石病，遭到拉特兰的驱逐。在离开拉特兰后，前往莱塔尼亚求学。
+	现已通过专业测试，作为近卫干员为罗德岛提供服务并接受治疗。
+
+	個人履歴 :
+	ラテラーノ出身のサンクタ人。数年前に起きたラテラーノ遺産銃関連の事件にて鉱石病に感染したため、祖国追放の憂き目に遭った。ラテラーノを追われた彼は勉学に励むためリターニアへと向かった。 
+	現在はロドスの適格試験に合格し、治療を受けつつ、前衛オペレーターとしてロドスに勤めている。
+
+	Profile :
+	Operator Arene is a Laterano-born Sankta who was exiled from Laterano after contracting Oripathy during a Laterano firearm inheritance-related incident several years ago. After he departed Laterano, he left for Leithania to pursue further studies. 
+	Having passed a battery of examinations, he is currently serving as a Rhodes Island Vanguard Operator and receiving treatment.
+
+	프로필 :
+	    오퍼레이터 아렌은 라테라노에서 태어난 산크타로서, 수년 전 라테라노의 유물총과 관련된 사건으로 인해 광석병에 감염된 후 라테라노에서 추방되었다. 그 후 그는 라테라노를 떠나 배움을 위해 홀로 라이타니아로 향했다.
+	    현재는 로도스 아일랜드의 전용 테스트를 통과하여 가드 오퍼레이터로서 근무 중이며, 치료도 병행하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】5%
+	体表可见少量源石结晶。
+	
+	【血液源石结晶密度】0.23u/L
+	干员芳汀长期接受相关治疗，病情十分稳定，目前无恶化趋势。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】5%
+	体表に少量の源石結晶の分布が見られる。
+	
+	【血液中源石密度】0.23u/L
+	長期的な治療を受けているため、病状は安定しており、悪化の傾向は見られない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of his internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in his circulatory system, confirming him to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 5%
+	Small traces of infection are visible on the surface of the body. 
+	
+	[Blood Originium-Crystal Density] 0.23u/L
+	Operator Arene has been receiving Oripathy-related treatment for a long time. As a result, his infection is well under control, with no trend of deterioration.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 5%
+	체표면에서 소량의 오리지늄 결정 발견.
+	
+	[혈중 오리지늄 결정 밀도] 0.23u/L
+	오퍼레이터 아렌은 오랫동안 관련 치료를 받아와서, 현재 병세는 매우 안정적이며, 악화되는 추세는 보이지 않는다.
+
+———————————————————————————————
+
+	档案资料一 :
+	在拉特兰现行的律法之中，有明确的相关条例对公民感染矿石病后可能出现的诸多情况，做出了严格详细的规定。
+	当拉特兰的公民感染矿石病，其本人的一应公民权利仍然将会受到保障，但除一些特殊情况外，感染者通常并不被允许在拉特兰的领土内居住或逗留。事实上，相较于很多国家与地域对感染者的严苛处置条例，拉特兰仅仅只是驱逐的做法无疑已经算是相当温和。尽管如此，对于许多拉特兰人来说，一旦患病，就意味着必须要永久地远离故土，或许终其一生，也无法再次踏上养育自己的土地，这依然还是一件非常难以忍受的事情。
+	干员芳汀在数年前感染矿石病后，独自前往莱塔尼亚求学至今，那个回不去的故乡，或许早已成为其记忆中一片模糊的景象。
+
+	第一資料 :
+	ラテラーノの現行法には、公民が鉱石病に感染した際に起こり得るあらゆる状況に対して、厳格かつ詳細な関連規定が明確に定められている。
+	ラテラーノ公民が鉱石病に罹患した場合、感染者であっても公民としての一通りの権利は保障されるものの、特殊なケースを除き、ラテラーノ領土内に居住及び滞在することは認められない。他の多くの国や地域に見られる感染者に対する過酷な処置規定に比べれば、感染者の追放だけに留めるという対応は十分温情があると言えよう。しかし多くのラテラーノ公民にとって、鉱石病への罹患が耐え難い苦痛であることには変わりなかった。ひとたび感染してしまえば、強制的に祖国の大地から遠く引き剥がされ、生まれ育った国の土を二度と踏めずに一生を終えるかもしれない。それは故郷との永遠の別れを意味しているのだから。
+	アレーンは数年前に鉱石病に感染した。その後、独り勉学のためにリターニアの地を目指して現在に至る。あのもはや帰り得ぬ故郷は、彼にとってはとっくに、ぼやけて滲んだ思い出の一つになってしまっているのかもしれない。
+
+	Archive File 1 :
+	There are many regulations in Laterano law that lay out strict, detailed stipulations for how to care for citizens who contract Oripathy in many possible scenarios. 
+	When a Laterano citizen contracts Oripathy, he or she continues to enjoy all of the rights guaranteed to them as part of their citizenship. However, aside from a few special cases, they are typically not allowed to remain in Laterano territory. Compared to the strict regulations many other countries and territories have for the Infected, you could say that only getting exiled from Laterano is far more lenient. That being the case, if you become Infected in Laterano, you must forever leave your homeland, never again to set foot on the place you grew up. To many Lateranos, this is understandably an unbearable proposition. 
+	On his own initiative, operator Arene studied in Leithania for years after contracting Oripathy. Consequently, the hometown that he can no longer return to may very well have become nothing but a faint memory to him long ago.
+
+	파일 자료 1 :
+	    라테라노 현행 율법에는 공민이 광석병에 감염된 후 발생할 수 있는 여러 상황에 대한 관련 조례가 있는데, 꽤나 엄격하고 상세하게 규정되어 있다.
+	    광석병에 감염된 라테라노 공민은 본인이 가진 공민으로서의 권리 일체를 여전히 보장받을 수 있지만, 일부 특수한 상황을 제외한 일반적인 경우 라테라노 영지 내에서 거주하거나 체류할 수 없다. 감염자에 대한 다른 국가나 지역의 가혹한 조례와 비교해 본다면, 추방으로 그치는 라테라노의 법률은 상당히 온건한 축에 속한다. 그럼에도 불구하고 많은 라테라노인에게 있어서, 일단 광석병에 걸리면 영원히 고향을 떠나야 한다거나, 평생 자신이 자란 땅을 밟지 못한다는 것을 의미하니, 여전히 받아들이기 힘든 사실임에는 변함이 없다.
+	    오퍼레이터 아렌은 몇 년 전 광석병에 걸린 후 홀로 라이타니아로 건너와 유학 생활을 시작하였다. 어쩌면 돌아갈 수 없는 고향은, 그의 기억 속에서 이미 흐릿한 모습으로 변해버렸을지도 모르는 일이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	通常，大家对萨科塔人总会有一种根深蒂固的印象，认为这些头上顶着光环的人们总是和他们珍惜的爱铳形影不离，萨科塔人和铳仿佛已经成为某种固定搭配，在大众的心目中难解难分。就算因特殊原因无法持有铳，许多萨科塔人也会退而求其次，选择携带弩箭之类的远距离射击武器。
+	不得不说，这种印象在大多数情况下都是正确的，只不过偶尔也会有一些例外情况。干员芳汀就是罗德岛内，较少数几个不使用铳，而是以源石技艺作为主要攻击手段的萨科塔干员之一。
+	干员芳汀所掌握的源石技艺较为特殊，在使用时大多伴随有毒性与分解、腐蚀的特质，这使得他平常总是习惯远离人群，避免增加不必要的风险。而这种源石技艺给人留下的印象，也与芳汀本人给人的印象十分相似，都是漂亮而危险，若即若离，需要小心接触的。
+	由于日常使用这样的源石技艺，芳汀的身上也时常带有浅淡的芳香，根据其本人的意愿，这种若有若无的淡香既可以十分无害，也可以在关键时刻化作致命毒素。
+
+	第二資料 :
+	サンクタ人について、あの頭上に光の輪っかを浮かべたやつらは、どんな時も大事な愛銃を抱えて体のそばから離さないものだ、と多くの人々が根深く思い込んでいる。サンクタ人と銃。この組み合わせは、もはや大衆の認識の中では切っても切れない、約束されたペアだと言っていい。仮に何らかの理由で銃を所持できなくなったとしても、多くのサンクタ人は次善の策としてボウガンなどの遠距離射撃武器を携帯する。
+	このイメージは概ね正しいと言わざるを得ない。しかし、稀に例外も生じる。アレーンは、ロドスのサンクタ人オペレーターの中でも、銃ではなくアーツを主な攻撃手段とする少数派の一人である。 
+	彼が使用するアーツはやや特殊であり、ほとんどのアーツが使用時に毒性と分解、腐蝕の特質を備えている。そのため、彼は普段から人混みを避け、不要なリスクの発生を回避している。彼のアーツが他者にもたらすイメージは、アレーン自身が他者にもたらすものとあまりによく似ている。いずれも美しく、そして危険。付かず離れず、細心の注意を払って向き合わなければならないものである。 
+	日常的にこのようなアーツを用いているため、アレーン自身もごく淡い香りをまとうようになった。この微かな香りは本人の意のままに、無害なものにすることもできれば、致命的な毒素へと転じることも可能である。
+
+	Archive File 2 :
+	Most people tend to have a rather ingrained impression of the Sankta. To them, the Sankta and their guns are inseparable concepts, and the Sankta, with their halos above their heads, are never ones to part with their precious firearms. And whenever a Sankta is unable to keep a gun due to whatever extraordinary circumstance, they would usually choose the next best thing they are allowed: long-ranged weapons like bows. 
+	In most cases, one would be correct to make such assumptions. That being said, there are some occasional exceptions to the norm. Operator Arene is one such exception at Rhodes Island. He is one of the few Sankta here to forgo the use of firearms, instead opting to use Originium Arts as his primary means of attack. 
+	The Originium Arts that Operator Arene utilizes are somewhat unusual: his Arts tend to be have toxic, disintegrative, and corrosive traits. As a result, he normally keeps away from crowds in order to mitigate any unnecessary risks. And just like the impression that others typically have of Operator Arene himself, his Originium Arts typically strike others as beautiful yet dangerous, amicable yet seclusive, and requiring extra care to approach. 
+	Due to his frequent use of Arts, Arene himself usually carries a faint aromatic fragrance. The fragrance's effect on others is alterable at will, and can either be rendered completely harmless or made dangerously toxic during the most crucial situations.
+
+	파일 자료 2 :
+	    일반적으로, 사람들은 모두 산크타에 대해 일종의 고정된 이미지를 갖고 있다. 머리에 광륜이 떠 있는 산크타들은 언제나 그들이 소중히 여기는 총과 한시도 떨어지지 않아, 대중들에게 산크타라고 하면 총은 늘 자연스레 따라서 연상되는 것이었다. 특수한 이유로 총을 휴대할 수 없다면, 많은 산크타들은 차선책으로 석궁과 같은 원거리 사격 무기를 대신해서 휴대한다.
+	    이런 산크타에 대한 고정관념은 대부분 맞아떨어지지만, 간혹 예외의 경우도 발생하곤 한다. 오퍼레이터 아렌은 로도스 아일랜드 내에서 총을 사용하지 않고 오리지늄 아츠를 주요 공격 수단으로 삼는, 비교적 소수의 산크타 오퍼레이터 중 한 명이다.
+	    오퍼레이터 아렌은 비교적 특수한 오리지늄 아츠를 다루는데, 사용 시 대부분 독성과 분해, 부식의 특성을 포함한다. 이 때문에 그는 불필요한 위험을 줄이기 위해 평소에 습관적으로 사람들과 거리를 두고 있다. 그리고 이런 오리지늄 아츠가 타인에게 주는 인상은, 아름다우면서도 위험하니 조심스럽게 다가가야 한다는, 아렌이 타인에게 주는 인상과 매우 흡사하다.
+	    이와 같은 오리지늄 아츠를 사용하는 아렌에게선 언제나 은은한 향기가 나는데, 이 향기는 아렌 본인의 뜻에 따라 아무런 해를 끼치지 않을 수도, 필요하다면 치명적인 독성을 내뿜을 수도 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	干员芳汀是在公证所执行人的陪同下，来到罗德岛的。
+	据护送他前来的那位干员送葬人的同僚所说，芳汀的父母双方，都是十分专业的拉特兰铳相关研究者，由于职业原因，两人曾数次被卷入与拉特兰铳相关的种种事件之中。也正是因此，几年前芳汀感染矿石病后，父母二人并没有努力试图将他留在身边，而选择将其远远送往莱塔尼亚，尽量使独生子远离危险。
+	但在最近的一次针对拉特兰持有的铳械技术的窃取阴谋中，两人不幸双双遇难亡故，他们身后留下的遗嘱，到底还是为芳汀带来了不小的麻烦——总有人疑心父母在过世后，会将一切机密的珍贵的东西都毫无保留地交付给孩子。然而实际上，芳汀的父母唯一的心愿，就只是让独生子能够平安度日而已，有关于他们的研究，自然会有更加合适的拉特兰相关部门来处理。
+	尽管现在风波已经在干员芳汀本人的谋划下大致解决，但残存的风险让这位执行人仍然不得不一路护送这位脾气不算很好的小少爷，前来罗德岛寻求同僚的援助，而他本人则会暂时离开，去解决一些“麻烦的后续处理问题”。
+	在芳汀幼时，父母二人工作繁忙，很难有太多机会陪伴孩子，这使得芳汀童年大多数时间都不得不独自在家中度过。年幼的孩子很难理解父母对于工作的热情，在幼时的芳汀看来，就是铳夺走了本该属于自己的父母的关注，这让他对大多数萨科塔孩童都怀有憧憬的守护铳态度十分复杂，而在因意外感染矿石病之后，芳汀彻底失去了拥有属于自己的守护铳的机会。
+	或许是由于早早离开拉特兰的缘故，芳汀现阶段在与我们的一些拉特兰人干员相处时，仍然带有一些生疏，反而是某些来自莱塔尼亚的干员会与他有更多交集。例如干员艾雅法拉，两人在大学甚至选修过同一位知名教授的课程，勉强算得上是有同窗之谊。
+
+	第三資料 :
+	アレーンは公証人役場執行人に付き添われてロドスにやってきた。 
+	彼を護衛していた、あのイグゼキュターの同僚の証言によれば、アレーンの両親は共にラテラーノの銃研究に携わっており、職業柄幾度も銃関連の事件に巻き込まれていたらしい。そのため、数年前にアレーンが鉱石病に感染した際、両親は彼を傍に留めるのではなく、代わりにリターニアに送り、自分たちの唯一の子供をできる限り危険から遠ざける道を選んだ。 
+	だが、最近発生したラテラーノが所有する銃器技術盗用の陰謀の中で、彼の両親は不幸にも二人とも命を落としてしまい、彼らが残した遺言書は、結果的にかなりの厄介事をアレーンにもたらしてしまった――親は子に自分たちが持ちうるすべてをあますことなく残すはずだと疑う者は、残念ながらどこにでもいるのだ。けれど、本当のところ、二人が切に願っていたのは我が子の平穏な日々以外の何物でもなかった。研究は、二人が何もせずとも、よりふさわしいラテラーノの関連部門が引き継ぐことになっていた。
+	一連の問題はアレーン本人が講じた策略によって既にほぼ解決しているが、それでも残ったリスクを考えて、執行人はこのあまり人当たりがいいとは言えないお坊ちゃんの護衛をしつつ、ロドスまでやってきて同僚に助けを求めることにした。執行人本人はその後、いくつかの「面倒な事後処理の問題」を解決するのために、しばらく離れることになった。
+	アレーンの幼少期、彼の両親は仕事が忙しく、あまり我が子の傍にいてやることができなかった。そのため、アレーンは子供時代のほとんどを一人寂しく家の中で過ごすしかなかった。いとけない子供にとって親が仕事にかける情熱は理解しがたいものであり、幼き頃のアレーンからすれば、銃は本来自分に向けられるはずだった親の関心を奪った存在でしかなかった。そのため彼が守護銃に対して持ち合わせていたのは、多くのサンクタの子供たちのような憧れではなくどうにも複雑な感情であった。そして、事故によって鉱石病に感染したアレーンは、守護銃を所有する機会を完全に失ってしまったのである。 
+	早いうちにラテラーノを離れたためか、アレーンはラテラーノ出身のオペレーターに対してはいささか遠慮があり、逆にリターニア出身の者との交流が多く見られる。例えばエイヤフィヤトラとは大学時代、同じ著名な教授の授業を受講したことがあり、彼女とはある意味同窓と呼べる仲である。
+
+	Archive File 3 :
+	When Operator Arene first arrived at Rhodes Island, he was accompanied by a Notarial Hall executor. 
+	According to this chaperone of his, a colleague of Operator Executor's, both of Arene's parents were highly respected Laterano firearms researchers, and the two of them were frequently dragged into all kinds of Laterano firearm-related incidents thanks to their profession. It is precisely for this reason that, when Arene contracted Oripathy several years ago, his parents opted to send him, their one and only son, away from danger to Leithania instead of keeping him close by. 
+	Regretfully, both of his parents were killed during a recent clandestine operation to steal Laterano firearms technology. Their will unfortunately brought Arene plenty of trouble as well—most people seem to believe that a parent would always leave every last thing they treasured to their children. In reality, the only thing that Arene's parents ever wished for was for their only son to live a peaceful life. They knew their research would undoubtedly be taken up by Laterano departments far more up to the task than him. 
+	Even though the crisis has mostly been averted thanks to Operator Arene's master plan, there still remains enough of a risk that, in spite of the young man's temperament, the poor executor had to escort Arene to Rhodes Island to seek his colleague's help, before taking a temporary leave to deal with some so-called problematic follow-up work. 
+	During his childhood, Arene's parents were often preoccupied with work and had little time to spend with their son, leaving him alone at home most of his childhood. Young children often have a hard time understanding their parents' passion for work. To the young Arene, it was guns that had stolen his parents' attention from him, and that became the source of his apathy against guns, normally admired by Sankta children far and wide. Furthermore, after his infection during the accident, he lost any opportunity to have his own gun. 
+	Perhaps because he departed Laterano at an early age, Arene tends to be a little sheepish around some of our other Laterano operators. Instead, he is more proactive in interacting with our Leithanien operators. One such example is Operator Eyjafjalla. The two of them had studied under the same famous professor at their university, just barely enough to make them old classmates.
+
+	파일 자료 3 :
+	    오퍼레이터 아렌은 공증소 집행인의 수행 하에 로도스 아일랜드에 왔다.
+	    그를 호송하기 위해 온 오퍼레이터 이그제큐터의 동료의 말에 따르면 아렌의 부모님은 굉장히 전문적인 라테라노 총기 관련 연구자로, 직업적 특성으로 인해 수 차례에 걸쳐 여러 라테라노 총기 관련 사건에 휘말렸다고 한다. 또한 이때문에 몇 년 전 아렌이 광석병에 감염되자, 그들은 외아들의 안전을 위해, 그를 먼 라이타니아로 홀로 보내버리는 결정을 하였다.
+	    하지만 최근 있었던 라테라노의 총기 기술 탈취 사건에 휘말려, 불행히도 두 사람 모두 사망하였고, 그들이 아렌에게 남긴 유언은 그에게 적지 않은 문제를 가져다주었다. 누군가는 아렌의 부모님이 죽은 후 자신의 모든 비밀과 소중한 것들을 아들에게 전해주었을 거라 의심하고 있었기 때문이다. 하지만 실상은, 아렌의 부모가 가졌던 유일한 소망은 그저 외아들이 무사히 잘 살아주는 것뿐이었다. 그들의 연구와 관련된 일들은 보다 적합한 라테라노의 관련 부서가 알아서 잘 처리해 줄 것이라 믿었기 때문이다.
+	    지금까지의 풍파는 오퍼레이터 아렌 본인의 계획 하에 어느 정도 해결되었다곤 하지만, 여전히 남아있는 리스크 때문에 집행인은 어쩔 수 없이 이 성질머리가 그닥 좋지 않은 도련님을 호송할 수 밖에 없었다. 로도스 아일랜드에 도착해 이들의 도움을 청한 후 집행인 본인은 잠시 '귀찮은 문제들의 후속 처리'를 위해 다시 떠났다.
+	    아렌의 어린 시절, 부모 두 분은 늘 일로 바빠서, 아렌과 함께 시간을 보낼 수 있는 기회가 적었다. 이로 인해 아렌은 어린 시절 대부분을 홀로 집에서 보내야만 했다. 어린아이가 일에 대한 부모의 열정을 이해하긴 힘든 데다, 어린 아렌이 보았을 때 자신에게 와야할 부모의 관심을 총이 빼앗아 간 셈이었으니, 아렌은 대다수의 산크타 아이들이 동경하는 수호총에 대해 여러 가지 복잡한 감정이 들었다. 또한 예상치 못한 광석병 감염 이후, 아렌은 자신의 수호총을 가질 수 있는 기회를 완전히 박탈당했다.
+	    일찍이 라테라노를 떠나서 인지, 현재 아렌이 로도스 아일랜드의 다른 라테라노 출신 오퍼레이터들과 교류할 때 여전히 조금 어색한 모습을 보이며, 오히려 라이타니아 출신 오퍼레이터들과 더 잘 맞는듯하다. 예를 들어 오퍼레이터 에이야퍄들라의 경우, 단지 대학에서 동일한 유명 교수의 수업을 들어본 적이 있는, 마지못해 동창이라 부를 수 있는 관계에 불과하지만 말이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	早在芳汀刚刚加入时，我们就发现，少年或许是由于成长环境的影响，在许多表现上都显得缺少约束，随性散漫。
+	最初，并没有人将这看成是什么太过重要的问题，毕竟罗德岛的人员构成已经足够复杂多样，就连自由奔放过头的萨卡兹雇佣兵们都能够得到接纳与容忍，少年的一些言行，例如随手捉弄其他干员，或是在面对敌对方时略显残忍的态度，在许多人看来完全称不上是什么问题。
+	但是，当某次行动中芳汀真的带回了一名被他抓获的敌对人员，并且用半开玩笑的口吻提出希望能够将之用来练习新的源石技艺使用时，我们明确意识到，对于尚且处于成长阶段的干员，自由放任或许并不是一个好的应对方法。这个心思敏感难辨的萨科塔少年，不该再被一味放任，干员芳汀确实需要一些正确且不令他厌烦的指引与教导。
+
+	第四資料 :
+	アレーンがロドスに加入したばかりの頃から、成長期に彼が置かれていた環境の影響か、多くの面において自由散漫すぎるきらいがあることに我々は気がついていた。
+	けれど初めは誰もそれを問題視していなかった。ロドスの人員構成は十分すぎるほど複雑多様で、度を越した自由奔放さを誇るサルカズの傭兵でさえも容認され、受け入れられているなか、少年の他人に対するちょっとした悪戯や、敵を前にした際の少しばかり残忍な態度は、全くもって問題に取り上げるような言動ではなかった。 
+	だが、ある任務でアレーンが、確保した敵対人員を連れ帰り、その人物を新しいアーツの練習のために実験台にしたい、と冗談交じりでありながらも半ば本気で口にしたとき、我々は成長途中にあるオペレーターを放任するのは適した対応だとは言いがたかったことに気づいた。このナイーブで心を見せないサンクタの少年は二度と野放しにすべきでない。アレーンには煩わしいと思わせないように、正しい指導と教育が必要である。
+
+	Archive File 4 :
+	When Arene first joined our ranks, it didn't take long for us to notice his completely nonchalant attitude and lack of restraint, likely a result of the environment he grew up in. 
+	At first, none of us thought this was a problem. After all, we have operators with all kinds of personalities here at Rhodes Island, even some particularly freewheeling Sarkaz mercenaries that we had to reluctantly learn to tolerate. Compared to them, the young boy's tendency to play pranks on operators or his mildly sadistic attitude toward his enemies were hardly issues at all. 
+	However, when Arene brought an enemy combatant back with him after an operation and then half-jokingly suggested practicing new Originium Arts on him, it became obvious to us that it was perhaps not a good idea to afford our still-growing adolescent operators total, unrestricted freedom. Operator Arene should no longer be allowed to do whatever he pleases. The young, sensitive Sankta is in dire need of proper guidance and instruction that, cruicially, do not bore him.
+
+	파일 자료 4 :
+	    아렌이 막 합류했을 당시, 그의 성장 환경 탓인지 우리는 그가 절제력이 부족하고, 제멋대로에 산만한 소년이란 점을 알아챘다.
+	    처음에는 누구도 이 부분에 대해 크게 신경 쓰지 않았다. 본래 로도스 아일랜드의 구성원들이 각양각색의 인원들로 채워졌고, 그 다양함의 정도가 자유분방한 살카즈 용병들마저 받아들일 수준이었으니 말이다. 그러니 대부분의 사람들 눈에는 이 소년이 다른 오퍼레이터들을 골탕먹이거나, 적과 교전 중 드러내는 잔인한 일면 따위는 문제 축에 속하지도 않았다. 
+	    하지만 언젠가 작전 중 자신이 생포해온 적을 농담반 진담반으로 자신의 새로운 오리지늄 아츠 연습 대상으로 삼고 싶다고 이야기했을 때, 우리는 아직 성장 단계인 오퍼레이터에게 자유방임적인 태도를 취하는 것은 좋은 방법이 아님을 느꼈다. 이 민감하고, 제멋대로인 산크타 소년을 더는 방임해선 안될 것이다. 오퍼레이터 아렌에게는 올바르면서도 그가 흥미를 유발할 수 있는 지도와 교육이 필요하다.
+
+———————————————————————————————
+
+	晋升资料 :
+	少年称呼你为老师。 
+	这称呼最开始并不真心实意，你们双方都清楚这一点。 
+	但是现在呢，现在如何？ 
+	或许你的确能够教导他一些什么，他还在学习，他正需要人引他找到自己要走的路。
+
+	昇進資料 :
+	その少年はあなたを先生と呼ぶ。 
+	彼が先生とあなたを呼び始めたころ、それは本当に心からその呼び名を使っている訳ではないのは、あなたも彼も互いに理解していた。 
+	だが今はどうだろう。変化はあっただろうか？ 
+	今のあなたなら、彼に何かを教えることができるかもしれない。彼はまだ学んでいる最中で、自分の進むべき道を模索するための導きを誰かに求めている。
+
+	Promotion File :
+	The young man refers to you as his professor. 
+	Both you and him should be well aware that he didn't actually mean it at first. 
+	But what about now? 
+	Perhaps you could actually teach him something. He is still learning, and he needs someone to guide him to the path he is to take.
+
+	승진 자료 :
+	    소년은 당신을 선생님이라 부른다.
+	     처음에는 그 말이 진심이 아니었음을 서로 잘 알고 있었다.
+	     하지만 지금, 지금은 어떤가?
+	     어쩌면 그에게 어떤 가르침을 줄 수 있을지도 모른다. 그는 아직 배우고 있고, 자신이 가야 할 길을 찾을 수 있도록 인도해 줄 사람이 필요하다.

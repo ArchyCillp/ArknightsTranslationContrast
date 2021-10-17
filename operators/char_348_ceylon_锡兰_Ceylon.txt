@@ -1,11 +1,17 @@
 ID:
 	char_348_ceylon
 
-干员代号\Name:
+CV:
 	锡兰
 	セイロン
 	Ceylon
 	실론
+
+干员代号\Name:
+	荒川美穗
+	荒川美穂
+	Miho Arakawa
+	아라카와 미호
 
 招聘合同\Character Usage:
 	罗德岛研究员锡兰，在研究的空余时间，将会为你提供有关源石的知识和技术支持。
@@ -43,172 +49,392 @@ ID:
 	물의 정령의 가호
 
 语音\Voices:
-	博士，我会在旁边写报告或者读书，需要的时候随时可以叫我。
 	ドクター、隣でレポートを書いているから、何かあればいつでも声をかけてちょうだい。
 	I'll be writing reports or reading nearby, just call when you need me.
 	박사, 옆에서 보고서를 쓰고 있을 테니, 무슨 일이 있으면 언제든지 말을 걸어주세요.
 
-	努力就会有回报，我一直这么认为，也一直是这么做的。
 	努力は必ず報われる。そう信じてきましたし、実際そうやって生きてきましたわ。
 	I believe you reap what you sow, and have always followed that principle.
 	노력은 반드시 보상받는다. 그렇게 믿어왔고, 실제로 그렇게 살아왔답니다.
 
-	......咦，矿石病居然还有这种特性吗！这可要立刻做个实验验证一下，博士，我先离开一会儿......嗯，不知道基地里有没有正好合适的观察对象呢......
 	……待って、鉱石病にこんな特性がありましたの？！早く実験で確かめないと！ドクター、ちょっと失礼するわ……えーと、ロドスにいい観察対象はいないかしら……。
-	…Wait, I didn’t know Oripathy could take on this characteristic! This needs to be investigated immediately! Doctor, if you’d excuse me… Hmm, I wonder if there are any suitable subjects in Rhodes Islands…
+	...Wait, I didn't know Oripathy could take on this characteristic! This needs to be investigated immediately! Doctor, if you'd excuse me... Hmm, I wonder if there are any suitable subjects in Rhodes Islands...
 	……잠깐, 광석병에 이런 특성이 있었다니?! 빨리 실험으로 확인해야겠어! 박사, 잠시 실례하죠…… 어디 보자, 로도스 아일랜드에 좋은 관찰 대상이 없을까……
 
-	没有红茶的一天，可不是完整的一天。博士，你也要来一杯吗？我这里有全维多利亚最好的茶叶。
 	紅茶のない日常は日常とは呼べないわ。ドクターも一杯いかがかしら？ヴィクトリア一の茶葉で淹れたものよ。
 	The day is not complete without tea. Would you like a cup too, Doctor? I have the best tea leaves in all Victoria.
 	홍차가 없는 일상은 일상이라고 할 수 없어요. 박사도 한 잔 어떠신지? 빅토리아의 홍차로 끓인 거랍니다.
 
-	我从小就和黑在一起，有关她的事，我全都知道，包括她来到我身边之前的经历。啊，不过这个可不能轻易告诉你。
 	シュヴァルツとは幼い頃からずっと一緒だったから、彼女のことならなんでも知ってますの。ええ、わたくしのボディーガードになる前のこともね。あ、でもドクターに教えるにはまだ早いわ。
 	I've been with Schwarz since childhood. I know everything about her, including her past before we met. But I'm not giving that up so easily.
 	슈바르츠와는 어렸을 때부터 계속 함께였으니까, 그녀에 대한 거라면 뭐든지 알고 있답니다. 네, 제 보디가드가 되기 전의 일도 말이죠. 아, 하지만 박사에게 알려주기에는 아직 이르네요.
 
-	如果我能找到治疗黑的办法，不就意味着我也能治好其他感染者吗？放心吧，博士，我没有那么自私。但也请你明白，我不会掩饰，黑在我的心中是最重要的这件事。
 	シュヴァルツを治す方法が見つかれば、ほかの感染者も治せるってことでしょう？もちろん、シュヴァルツさえ治せればいいなんて勝手なことは思っていないから安心なさい。でもドクター、シュヴァルツはわたくしにとって何より大事なのよ。それだけはわかってちょうだい。
 	If I could find a cure for Schwarz, wouldn't that mean I could cure other infected too? Worry not, Doctor, I'm not that selfish. But please also know that Schwarz is dearest to my heart.
 	슈바르츠를 치료할 방법을 찾으면 다른 감염자들도 치료할 수 있다는 거잖아요? 물론 슈바르츠만 치료되면 된다는 이기적인 생각은 하고 있지 않으니까 안심하세요. 하지만 박사, 슈바르츠는 제게 있어 무엇보다 소중해요. 그것만은 알아주세요.
 
-	研究源石的道路十分广阔，博士。不过，对我来说，我只想找到能治疗黑的方法，所以，当我听说了罗德岛的一些事情后，我一直对这里心怀憧憬。
 	ドクター、源石の研究にはいろんなアプローチがあるの。だけど、わたくしにとってシュヴァルツを治すことが最優先事項。だからロドスのことを聞いてからずっと、ここに来られればって思ってましたの。
 	Originium research is still a vastly unexplored territory, Doctor. But I just want to find a cure, which is why I longed for Rhodes Island ever since I heard about it.
 	박사, 오리지늄 연구에는 여러 접근 방법이 있답니다. 하지만 제게 있어선 슈바르츠를 치료하는 것이 최우선 사항… 그래서 로도스 아일랜드에 대해 들은 후부턴 계속, 이곳에 오고 싶다고 생각했었죠.
 
-	你知道吗，博士，我最讨厌因为黑的感染者身份而排斥她的人。而在这里没有人会排斥她，我也能学到更多的医学知识......来罗德岛真是一个正确的决定。
 	ドクター、わたくしはね、感染者だからってシュヴァルツを差別するような人が大嫌いなの。でもロドスにそんな人はいません。それに、医学の知識もたくさん学べる……ここに来て本当によかったですわ。
-	Doctor, did you know, I hate those who would discriminate against Schwarz because of her infection. But, there are no people like that here at Rhodes Island. No-one here will reject her, and I can further my medical knowledge… I’m really glad that I came here.
+	Doctor, did you know, I hate those who would discriminate against Schwarz because of her infection. But, there are no people like that here at Rhodes Island. No-one here will reject her, and I can further my medical knowledge... I'm really glad that I came here.
 	박사. 저는 말이죠, 감염자라고 슈바르츠를 차별하는 사람이 제일 싫어요. 하지만 로도스 아일랜드에는 그런 사람이 없어요. 게다가 의학 지식도 많이 배울 수 있고…… 이곳에 오길 정말 잘했어요.
 
-	无论多么优秀的领导者，也有可能因为一念之差而被利益冲昏头脑，你要当心，博士。不过，哼哼，你也不用太担心，有我在，如果有一天你行差踏错，我会纠正你的。
 	どんなに立派な指導者でも、目先の利益にとらわれて判断を誤ることはありますの。ドクターもお気をつけて。でもまぁ、そんなに心配しなくても、わたくしがいれば、ドクターが道を踏み外したとき、すぐに正してあげられますわね。
 	Regardless of how good a leader is, there's still a chance she could be blinded by selfish interest, so you must watch out for that, Doctor. But as long as I'm around, I'll put you back on the right path anytime you stray.
 	아무리 훌륭한 지도자라 해도 눈앞의 이익에 정신이 팔려 판단을 그르치는 일은 있기 마련. 박사도 주의하세요. 하지만 뭐… 그렇게 걱정하지 않아도 제가 있으면, 박사가 궤도를 벗어났을 때 바로 바로잡아줄 수 있겠네요.
 
-	博士，坐着睡觉可不是好习惯......好吧，至少给你加条毛毯。
 	ドクター、座ったまま寝るのはさすがにお行儀が……まぁいいでしょう、毛布くらいはかけてあげますわ。
-	Doctor, it’s not good to sleep while sitting up… Mm, I guess it’s fine. Let me at least get a blanket for you.
+	Doctor, it's not good to sleep while sitting up... Mm, I guess it's fine. Let me at least get a blanket for you.
 	박사. 앉은 채로 주무시는 건 역시 예의가…… 뭐, 괜찮겠죠. 담요 정도는 덮어 줄게요.
 
-	你好，我是锡兰，维多利亚国立大学毕业，专攻方向是源石研究，经过凯尔希医生批准，从今天起在罗德岛实习，请多关照，博士。
 	ごきげんよう。わたくしはセイロン、ヴィクトリア国立大学出身で専攻は源石。ケルシー先生の紹介で本日よりこちらで実習させていただきます。よろしくお願いします、ドクター。
 	Hello, I'm Ceylon, graduate of the Victoria National University with a major in Originium research. I start my internship on Rhodes Island today with Dr. Kal'tsit's approval. Nice to meet you, Doctor.
 	안녕하세요. 저는 실론. 빅토리아 국립대학 출신이고, 전공은 오리지늄이에요. 켈시 선생님의 소개로 오늘부터 여기에서 실습하게 되었어요. 잘 부탁해요, 박사.
 
-	不愧是罗德岛，在源石技艺的运用方面真是厉害呢。
 	さすがはロドス、アーツの運用が素晴らしいわ。
 	An excellent application of Originium. Rhodes Island sure lives up to its reputation!
 	역시 로도스 아일랜드네요, 아츠의 운용이 훌륭해요.
 
-	这样我就是正式得到罗德岛承认了吗？谢谢，博士，我会更加努力的！
 	これでわたくしもロドスの一員として認められたということかしら？ありがとうドクター、これからはもっと努力しますわ。
 	So I'm officially recognized by Rhodes Island? Thank you, Doctor, I'll work even harder!
 	이제 저도 로도스 아일랜드의 일원으로 인정받은 건가요? 고마워요, 박사. 앞으로 더 노력할게요.
 
-	罗德岛对矿石病的研究果然名不虚传，在这里学习下去的话，总有一天我一定能把黑的病治好！博士，也请你助我一臂之力吧！
 	ロドスの鉱石病研究、さすがですわ。ここで勉強を続ければ、いつかきっとシュヴァルツをも治せるようになるに違いありません。ドクターも当然協力してくれますわよね？
 	Rhodes Island does boast amazing Originium research! I will cure Schwarz one day if I keep working here! Please help me too, Doctor!
 	로도스 아일랜드의 광석병 연구, 역시 대단하네요. 여기서 계속 공부하면 언젠간 반드시, 슈바르츠도 완치할 수 있을 거예요. 박사도 당연히 협력해 주실 거죠?
 
-	任务吗？正好，我可以试验一下新的源石运用技巧。
 	任務の時間？ちょうどいいわ、新しいアーツを試してみたいところだったから。
 	A mission? Perfect time to try out my new Originium ability.
 	임무 시간? 마침 잘 됐군요. 새 아츠를 시험해 보고 싶던 참이었거든요.
 
-	放心吧，我还挺擅长指挥的。
 	安心して、指揮をとるのは得意な方よ。
 	Relax, I'm a pretty good commander.
 	안심해요, 지휘하는 건 잘하는 편이니까.
 
-	沿途不知道会不会有些稀有的材料呢？
 	どこかにレアな素材が落ちてたりしないかしら。
 	I wonder if we'll find rare materials along the way?
 	어딘가에 희귀한 소재가 떨어져 있거나 하지 않을까요.
 
-	不要慌张，冷静应对。
 	慌てず、冷静に対処しなさい。
 	Don't panic, handle it with composure.
 	당황하지 말고 냉정하게 대처하세요.
 
-	伤员在哪里？
 	負傷者はどこかしら？
 	Where's the wounded?
 	부상자는 어딨죠?
 
-	嗯？
 	ん？
 	Hmm?
 	음?
 
-	辅助就交给我吧。
 	サポートはわたくしに任せなさい。
 	Leave the support work to me.
 	서포트는 저한테 맡기세요.
 
-	伤员不要剧烈活动。
 	怪我人は大人しくしていなさい。
 	The wounded shouldn't move around.
 	부상자는 얌전히 있으세요.
 
-	安心战斗吧，各位。
 	みなさま、安心して戦うのですわ！
 	Battle in peace, everyone.
 	여러분, 안심하고 싸우세요!
 
-	集中精神面对眼前的敌人！
 	目の前の敵に集中しなさいな！
 	Concentrate on the enemy ahead!
 	눈앞의 적에 집중하세요!
 
-	这招应该更符合现在的状况。
 	今の状況にはこれがよいかしら。
 	This move should be better for the present situation.
 	지금 상황에는 이게 좋을까.
 
-	呼......呵呵，感觉就像是完成了一场困难的实验，虽然很累，不过也很充实。
 	ふぅ……ふふ、なんだか難しい実験を終えた気分ね。疲れたけど、充実した時間を過ごせたわ。
-	Phew… Hehe, it feels like I just finished a difficult experiment. I might be tired, but I feel a sense of accomplishment.
+	Phew... Hehe, it feels like I just finished a difficult experiment. I might be tired, but I feel a sense of accomplishment.
 	후우…… 후후, 뭔가 어려운 실험을 끝낸 기분이군요. 피곤하지만 충실한 시간을 보냈어요.
 
-	应该没有敌人了吧？那我去周围稍微逛逛。
 	敵はもういないかしら？では少し、この辺りを散歩してきますわ。
 	The enemy should be gone now, so I'm going to look around the perimeter.
 	이제 적은 없나요? 그럼 잠시 이 근처를 산책하고 올게요.
 
-	要是我能像黑一样，肯定不会让他们跑了......
 	シュヴァルツみたいに戦えれば、一人も逃さなかったはずですわ……。
 	They wouldn't have gotten away if I were Schwarz...
 	슈바르츠처럼 싸울 수 있다면, 한 명도 놓치지 않았을 거예요……
 
-	博士，别愣着，来帮忙抬伤员！
 	ドクター、ボーッとしてないで負傷者の搬送を手伝いなさい！
 	Don't just stand there, Doctor, give me a hand with the wounded!
 	박사, 멍하니 있지 말고 부상자 수송을 도와주세요!
 
-	和基地里其他的医生们交流一下好了。
 	ここにいるほかの医者たちとも、話をしてみようかしら。
 	Maybe talk to the other doctors on base.
 	여기에 있는 다른 의사들과도 이야기해볼까요.
 
-	等等，我头发都要乱了！
 	ちょっと、髪が乱れるじゃない！
 	Wait, my hair is getting messed up!
 	잠깐, 머리가 헝클어지잖아요!
 
-	博士该不会又在座位上睡着了吧？
 	ドクター、また椅子で眠ったりしてないでしょうね？
 	Don't tell me the Doctor dozed off in the chair again...
 	박사, 또 의자에서 잠든 건 아니겠죠?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好，博士，来和我一起喝杯红茶吗？
 	ごきげんよう、ドクター。一緒に紅茶でもいかが？
 	How are you, Doctor? Care for some tea with me?
 	안녕하세요, 박사. 같이 홍차라도 어떠세요?
+
+干员档案\Background:
+	基础档案 :
+	【代号】锡兰
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】汐斯塔（独立城邦）
+	【生日】9月25日
+	【种族】黎博利
+	【身高】162cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】セイロン
+	【性別】女
+	【戦闘経験】なし
+	【出身地】シエスタ（独立都市）
+	【誕生日】9月25日
+	【種族】リーベリ
+	【身長】162cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Ceylon
+	[Gender] Female
+	[Combat Experience] No combat experience
+	[Place of Birth] Siesta (Independent City)
+	[Date of Birth] September 25
+	[Race] Liberi
+	[Height] 162cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 실론
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 시에스타
+	[생일] 9월 25일
+	[종족] 리베리
+	[신장] 162cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】普通
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	维多利亚国立大学源石研究专业毕业生，现作为辅助研究员在凯尔希医生的研究室内工作。
+	在水系法术上颇有造诣，能够在战场上为队友提供可靠的医疗支援。
+
+	個人履歴 :
+	ヴィクトリア国立大学源石研究学科の卒業生で、現在はケルシー医師の研究室で補助研究員を務めている。
+	水系アーツに造詣が深く、戦場では頼もしい医療支援を行う。
+
+	Profile :
+	A graduate of the Victorian National University who majored in Originium Research, she now works as an assistant researcher to Dr. Kal'tsit on her indoor research work.
+	She has a precocious level of master in water arts and can provide reliable treatment to allies on the battlefield.
+
+	프로필 :
+	    빅토리아 국립대학에서 오리지늄 연구를 전공하였으며, 현재는 닥터 켈시의 연구실에서 보조 연구원으로 근무 중이다.
+	    물 계열 아츠에 상당히 조예가 깊으며, 전장에서 동료들에게 의료 서비스 지원이 가능하다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	虽然因为职业原因需要长期接触源石，不过干员本人在预防措施方面做得十分充足，因此完全没有感染迹象。
+	
+	【血液源石结晶密度】0.21u/L
+	数值相对正常数值来说偏高，不过对于源石研究者来说，并不是一个值得惊讶的数值。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	職業柄長期にわたる源石との接触が不可避だが、本人による予防措置が万全であるからか、鉱石病の兆候は全く確認されなかった。
+	
+	【血液中源石密度】0.21u/L
+	正常値よりもやや高い傾向にあると言えるが、源石研究者であることを踏まえれば、決して驚くほどの数値ではない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.
+	
+	[Somatic Cell-Originium Fusion Rate] 0%
+	Although for occupational reasons, the patient must come into extended contact with Originium, the operator has taken the appropriate steps to protect herself. As a result, she shows no sign of infection.
+	
+	[Blood Originium-Crystal Density] 0.21u/L
+	The numbers are on the high side of normal, but Originium researchers do not yet believe there is anything to be concerned about.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	    업무상의 이유로 장기간 오리지늄에 접촉해야 하지만, 오퍼레이터 본인의 철저한 감염 예방 조치 덕에 감염의 흔적은 전혀 보이지 않는다.
+	
+	[혈중 오리지늄 결정 밀도] 0.21u/L
+	수치는 정상 수치보다 높은 편이지만, 오리지늄 연구자로서 놀랄 만한 수치는 아님.
+
+———————————————————————————————
+
+	档案资料一 :
+	有些盛气凌人的大小姐。
+	之所以用“大小姐”而不是“研究者”去概括，是因为她“大小姐”的印象过于强烈，以至于大部分干员即使知道她的工作内容，在提到她时也依然会说“啊，那个大小姐啊。”
+	当然，虽然会用大小姐去揶揄，没有人真的讨厌这位大小姐。因为在大部分时候，她总是对的，而如果她错了，她从不会吝啬“对不起”。
+
+	第一資料 :
+	彼女を一言で言い表すと、「やや高飛車なお嬢様」である。
+	本来は「お嬢様」ではなく「研究者」と言うべきであるが、彼女の「お嬢様」の印象は強烈で、大半のオペレーターはその業務内容を知っていたとしても、彼女の話になると「あぁ、あのお嬢様か。」といった反応になる。
+	もちろん、お嬢様と呼んでいるとしても、彼女を本当に嫌っている者はいない。彼女は基本的に正しいことしかしないし、万が一間違いを犯してもすぐに「ごめんなさい」と言うだけの素直さを持っているからである。
+
+	Archive File 1 :
+	She is a somewhat arrogant and spoiled young lady.
+	The reason why I say 'young lady' instead of 'researcher' is because she gives such a strong impression of a spoiled noble lady that any time she is mentioned, they will say 'Ah! That Lady!' even if they know the content of her work.
+	Of course, even though they'll ridicule her as 'the Lady,' there isn't anybody who actually dislikes her. This is because most of the time, she is right, and if she is wrong, she is not stingy with her apologies.
+
+	파일 자료 1 :
+	    약간 거만한 아가씨.
+	    '연구자'가 아닌 '아가씨'라 부르는 이유는, 사람들에게 '아가씨'로서의 이미지가 더 강하게 남았기 때문이다. 대부분의 오퍼레이터들이 실론의 직업이 뭔지 알지만, 그녀를 언급할 때면 여전히 '아, 그 아가씨.'라고 한다.
+	    물론, 아가씨라고 놀리긴 하지만, 진심으로 이 아가씨를 싫어하는 사람은 없다. 왜냐면 대부분의 경우엔 그녀가 옳고, 자신이 틀렸다면 늘 서슴없이 사과를 하기 때문이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	锡兰小姐的故乡，汐斯塔市，是一座相当少见的独立城市。
+	它的少见，不仅仅在于，它是一座非移动城市，也在于，它是一座独立城市，更在于，在如今还处于高速发展中。
+	事实上，在泰拉之上，虽然有数个历史悠久的国家，但国家并不是最普遍的概念，独立城邦才是。
+	应当说，现代语境下的，国家这个概念所指代的社会集体，在过去，就是指独立城市。有几个国家的前身，就是独立城市的集合。并且，即使到了今天，一些名义上属于某个国家的移动城市，依然在不同程度上保留了单单属于本城市而非本国的习俗。
+	然而，必须承认的是，虽然有些顽固的老人可能不愿承认，但独立城市的概念已经逐渐落伍了。因为国家这个概念实在是过于强大。
+	如今，泰拉上虽然还有相当数量的独立城市，但它们的领导者已经认识到，单独的城市是无法抗衡国家的，近年，已经有不少独立城市主动向邻近的国家投诚。
+	不过，汐斯塔市的崭露头角，或许能为他们带去新的方向。
+
+	第二資料 :
+	セイロンの故郷であるシエスタ市は珍しい独立都市の一つだ。
+	珍しいというのは、移動都市ではないという点だけでなく、一つの独立都市である点に加え、今もなお急速に発展しているというところにある。
+	事実上、テラには長い歴史を持つ国家がいくつか存在しているが、最も普遍的な概念は国家というものではなく、独立都市だ。
+	現代において国家と呼ばれる社会集団は、かつては全て独立都市である。いくつかの国家の前身は、それら独立国家の集合体なのである。さらに、今となって名義上は国家に属している移動都市であっても、程度の差こそあれ、国家とは異なるその都市独特の風習が残っているのだ。
+	しかし、頑固な老人たちは認めようとはしないだろうが、一つの事実として、独立都市の概念はすでに衰退の一途をたどっている。なぜなら、国家という概念が、あまりにも強大だからである。
+	未だにテラにはかなりの数の独立都市が存在しているものの、各都市の統率者たちはすでに、独立した一都市では国家に対抗することができないことを理解している。近年、積極的に近隣の国家に帰順することを選ぶ独立都市も少なくない。
+	シエスタ市が現した頭角が、これから彼らを新たな方向に導くかもしれない。
+
+	Archive File 2 :
+	Ceylon's hometown, Siesta, is a rare independent city.
+	Its rareness lies not just in the fact that it's a non-nomadic city, but also that it's an independent city, and even more so in that it is currently in a state of rapid development.
+	In truth, on Terra, even though there are many long-established nations, nations are not a widespread concept. Independent city-states, however, are.
+	It should be said that in the context of the present day, the social collectives referred to by 'nation' were city-states in the past. The predecessors of several nations were independent cities gathered together. Additionally, even today, some nomadic cities that nominally belong to certain nations still to varying degrees retain the customs and traditions of the city as opposed to those of the nation.
+	However, it must be conceded that the concept of an independent city is falling by the wayside, although the old-fashioned and elderly might refuse to admit it. That is because the concept of a nation is more powerful.
+	Now, even though there is still a considerable number of independent cities on Terra, their leaders have already recognized that independent cities are no match for nations. In recent years, there have been many such independent cities that have surrendered to neighboring nations.
+	However, Siesta's special characteristics may be able to take them in a new direction.
+
+	파일 자료 2 :
+	    실론의 고향, 시에스타는 상당히 보기 드문 도시라고 할 수 있다.
+	    이곳은 비이동도시이자 자치 도시이며, 현재 고속 발전 중인 도시라는 점에서 매우 희귀한 케이스라 할 수 있다.
+	    사실, 테라에는 오랜 역사를 지닌 나라들이 있기는 하나, 국가보다는 도시가 더 보편적인 개념으로 자리잡고 있다.
+	    현대 언어 환경에서의 국가란 개념이 가리키는 사회 단체는 과거에 도시 국가를 지칭하는 것이었다. 현재 몇몇 국가의 전신 또한 도시 국가의 집합체였다. 오늘날까지도 어느 한 국가에 속한 일부 이동도시들은 명목상으로는 여전히 본 국가가 아닌 본 도시에만 속하는 세습이 어느 정도 남아있다.
+	    일부 보수적인 노인들은 인정하지 않겠지만, 도시 국가의 개념은 이제 점차 시대에 뒤떨어지고 있다. 이를 인정해야 할 수밖에 없는 이유는, 현대 사회에 들어서면서 국가라는 개념의 영향력이 매우 강력해 졌기 때문이다.
+	    현재 테라에는 아직까지도 적지 않은 수의 도시가 존재하나, 이곳의 지도자들은 이미 하나의 도시가 국가에 대항할 수 없다는 점을 잘 알고있다. 최근에는 이미 많은 수의 도시들이 자진해서 인근 국가에 투항하고 있는 실정이다.
+	    하지만, 시에스타의 사례는, 어쩌면 다른 도시들에게 새로운 방향을 제시해 줄 수 있을 지도 모르겠다.
+
+———————————————————————————————
+
+	档案资料三 :
+	为了方便理解，锡兰小姐在介绍自己时，并没有提及自己确切的学科，事实上，源石研究这门学科在如今，无论是实用方向还是理论方向，都拥有数量繁多的子类，而锡兰小姐专攻的，是《源石应用发展史研究》。
+	在近代学术未能成就具体学科之前，许多有关源石的珍贵研究史料都没能得到很好的保存。事实上，搜集过去仅存的史料中提示的线索以推导出源石各学派的发展路径，同样也是近代源石研究的重要组成部分。
+	虽然，在科学技术得到发展的今天，对史料的研究逐渐从发现理论变成了验证理论。当然，记录历史本身，对于一个文明的意义自然是不言而喻的。
+	当然，锡兰小姐虽然才从大学毕业，但是她本身的知识储备以及对于源石研究的热情是令人赞叹的，完全可以想见她在学校中付出了怎样的努力。这样优秀人才的加入，对于罗德岛来说，不得不说是一个意外之喜。
+
+	第三資料 :
+	セイロンは自己紹介をする際、話を円滑にすすめるため自身の専攻については「源石研究」とだけ語り、細かな説明をしない。実際は源石研究と一口に言っても、実用方面、理論方面の多岐に渡って細分化されており、彼女の正しい専攻は「源石応用発展史研究」である。
+	近代学術の学科が成立する以前は、源石に関する重要な研究史料の多くはきちんとした保存がなされていなかった。そこで、現存している限られた史料の中の手がかりから、源石に関する各学派の発展の道を探ることも、近代源石研究の重要な一部である。
+	科学技術が発達した現代では、史料の研究の形は、理論を発見することから、その理論の検証へと変化している。しかし無論、歴史そのものへの記録が一つの文明にもたらす意義は、言わずもがなである。
+	セイロンは大学を卒業したばかりではあるが、彼女の知識量と源石研究にかける情熱は称賛に値するもので、彼女が在学中にどれだけ努力してきたかを容易にうかがい知れる。このように優秀な人物の加入は、ロドスにとって、望外の喜びだと言わざるを得ない。
+
+	Archive File 3 :
+	In order to better facilitate understanding, Ceylon did not mention her specific area of study when introducing herself. In fact, the discipline of Originium Research has a large number of sub-categories, both in the applied area of the doctrine as well as the theoretical. Ceylon specializes in researching the history of applied development of Originium. 
+	Before the modern academics managed to specialize the research, many precious historical materials on Originium were not well preserved. In fact, collecting clues from past historical data to infer the paths of development of the various Originium schools was also an important part of modern Originium research.
+	Although today, with the development of science and technology, the study of historical materials has gradually become less concerned with the development of theory and more the verification of it. Of course, the importance of recording history itself is self-evident for the meaning of a civilization.
+	Naturally, although Ceylon has only just graduated from university, her intellectual reserves and enthusiasm for the study of Originium is breath-taking, and one can clearly see how much effort Ceylon put into her studies. For Rhodes Island, the addition of such an outstanding talent is a most unexpected surprise.
+
+	파일 자료 3 :
+	    이해를 돕기 위해, 실론은 자기소개를 할 때 굳이 자신의 정확한 학과를 언급하지 않았다. 사실, 오리지늄 연구라는 학문은 현재 실용 및 이론 방면에서 모두 수많은 파생 학문을 만들어 냈는데, 실론의 전공은 '오리지늄 응용 발전사 연구'이다.
+	    근대에 들어 이 전공이 체계적인 하나의 학문으로 자리매김하기 전까지, 인류 역사 상 오리지늄과 관련된 많은 소중한 연구 자료가 소실되고 말았는데, 이 학문은 남아 있는 자료 중에서 실마리를 수집하여, 각 오리지늄 학파의 발전 경로를 역추적하는 것이 그 목적이었으며, 이로 인해 근대 오리지늄 연구에 있어 중요한 부분을 꿰차게 되었다.
+	    과학 기술이 발전한 오늘날에 들어 역사 문헌에 대한 연구는 점차 발견하는 쪽에서 검증하는 쪽으로 바뀌어갔으나, 역사를 기록하는 것 자체가 하나의 문명에게 의미하는 바는 여전히 두말할 필요 없이 중요하다.
+	    실론은 이제 막 대학교를 졸업하였지만, 그녀가 쌓은 지식의 양과 오리지늄 연구에 대한 열정은 사람들로 하여금 감탄을 자아낼 정도이다. 그 열정을 직접 보게 된다면, 그녀가 대학교 재학 시절에 얼마나 많은 노력을 하였는지 알 수 있을 것이다. 이렇게 우수한 인재의 합류는, 로도스 아일랜드에게 예상치 못한 기쁨이 될 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	之所以在锡兰小姐的档案中没有过多提及黑小姐的存在，与黑小姐的档案中没有怎么提及锡兰小姐的原因是一样的。
+	这个原因十分简单，那就是——没有必要。用文字去描述她们感情的深厚程度是一件十分没有意义的事情。
+	不过，或许有一点是值得记录的，那就是，锡兰小姐也好，黑小姐也好，她们确实将彼此视为最重要的存在，但是，她们的世界中，并不是只有对方。
+	锡兰小姐会与其他研究员一同进餐，一起做研究，争论某个理论直到半夜。黑小姐也会单独出一些任务，和一些佣兵出身的干员一起喝酒，或者和他们在演习场里“厮杀”。
+	她们都有着自己的生活，在进入罗德岛后，她们的世界也将变得更为广阔，但可以预见的是，她们会习惯这样的生活，并依然将对方视为自己重要的存在。
+	这才应当是所谓“深厚的感情”中，深厚二字应该有的形态吧。
+
+	第四資料 :
+	セイロンの個人資料において、あまりシュヴァルツの存在が言及されていない理由と、シュヴァルツの資料ではあまりセイロンが言及されていない理由は同じだ。
+	それは至極簡単なことで、必要がないからだ。文字で彼女たちの仲の深さを表現するのは、全く意味のないことだろう。
+	しかし、記録に値することがあるとすれば、それはセイロンもシュヴァルツも、互いを自身にとって最も重要な存在だと思っているが、彼女たちの世界において相手が全てというわけではないということだ。
+	セイロンは他の研究員と共に食事や研究をするし、何かの理論について夜更けまで討論を繰り広げることも多い。シュヴァルツも単独で任務に向かったり、傭兵上がりのオペレーターと酒を酌み交わしたり、彼らと演習場で「殺し合い」をしたりする。
+	二人ともそれぞれの生活があり、ロドスに加入してからは彼女たちの世界も更に広がっていくだろう。ただ、彼女たちが今の生活にさらに馴染んでいっても、お互いに相手のことを最も大切に思うというところはいつまでも変わらないように思える。
+	それこそが二人の「仲の深さ」というものだろう。
+
+	Archive File 4 :
+	The reason why Schwarz's presence is not mentioned in Ceylon's file is the same reason Ceylon was not mentioned in Schwarz's.
+	The reason is very simple, and that's becuase it's simply not necessary. Words cannot be used to sufficiently describe the depth of feeling they have for one another.
+	However, one point that may be worth recording is that while they regard one another as the most important thing in each other's lives, their worlds are not merely limited to one another.
+	Ceylon still eats with other researchers, works with them, and can argue theory until the wee hours of the morning. Schwarz can independently carry out her tasks as well as hit the taverns with other mercenary operators and engage in hand-to-hand combat with them in the practice area.
+	They both have their own independent lives, and after joining Rhodes Island, they expanded their horizons even more. We can intuit that they will become more accustomed to this life while still remaining as important to one another as they've always been.
+	This could be described as a 'profound mutual affection,' with emphasis put on 'profound.'
+
+	파일 자료 4 :
+	    실론의 파일 중 슈바르츠의 존재에 대해 여러 차례 언급하지 않은 것은, 슈바르츠의 파일 중 실론에 대해 여러 차례 언급하지 않은 이유와 동일하다.
+	    그 이유는 정말 단순하게, 그럴 필요가 없기 때문이다. 문자를 이용해 이 둘 사이의 감정의 깊이를 표현하려 하는 것은 아무런 의미가 없는 일이었다.
+	    기록할만한 가치가 있는 부분은, 실론과 슈바르츠는, 틀림없이 서로를 가장 중요한 존재로 여기고 있다는 점이다. 하지만, 그녀들의 세계 속에는 그녀들만 존재하는 것은 아니다. 실론은 다른 연구원들과 함께 식사하고, 함께 연구하며, 어떤 이론에 대해 늦은 밤까지 논쟁을 펼치기도 하였고, 슈바르츠 역시 단독으로 임무 수행을 나가거나, 용병 출신의 오퍼레이터들과 함께 술잔을 기울이거나, 함께 훈련장에서 대련을 벌이곤 했으니 말이다.
+	    실론과 슈바르츠 모두 자신만의 생활을 갖고 있으며, 그녀들의 세계는 로도스 아일랜드에 합류한 후 더욱 넓어졌다. 그리고 이런 생활에 익숙해진다 하더라도, 이들은 여전히 서로를 가장 중요한 존재로 여길 것이다.
+	    평범한 감정이 아니라 정말로 '깊은 감정'이라면, 적어도 이 정도는 되어야 하지 않을까.

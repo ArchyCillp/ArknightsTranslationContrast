@@ -1,11 +1,17 @@
 ID:
 	char_345_folnic
 
-干员代号\Name:
+CV:
 	亚叶
 	フォリニック
 	Folinic
 	폴리닉
+
+干员代号\Name:
+	近藤玲奈
+	近藤玲奈
+	Reina Kondō 
+	콘도 레이나
 
 招聘合同\Character Usage:
 	医疗组干员亚叶，正式参与战地医疗任务。
@@ -43,177 +49,445 @@ ID:
 	복합형 약물 파편
 
 语音\Voices:
-	桌面，60分；地面，63分；空气......56分。有待改进啊，博士。
 	机、60点。床、63点。空気……56点。要改善ですよ、ドクター。
-	Tabletop, 60 points. Floor, 63 points. Air quality...... 56 points. There’s room for improvement, Doctor.
+	Tabletop, 60 points. Floor, 63 points. Air quality...... 56 points. There's room for improvement, Doctor.
 	책상, 60점. 바닥, 63점. 공기… 56점. 개선이 필요합니다, 박사님.
 
-	最近身体有什么感觉不适的地方吗。嗯，皮肤干燥，嗯嗯，肩膀僵硬，眼球干涩，掉头发，乏力......很好，老问题而已，没什么大碍。只要您开始运动，这些很快就能解决。
 	最近体調の優れないところはありますか。はい、肌の乾燥、ええ、肩のこり、目の乾燥、抜け毛、脱力感……なるほど。いつもの症状ですから特に問題はありません。あなたが運動をするようになれば、すぐにでも改善しますよ。
 	Have you experienced any bodily discomfort recently? Umm, dry skin, err, um, stiff shoulders, dry eyeballs, hair loss, fatigue? ...Very good, just an old problem then, nothing serious. As long as you start exercising, these problems should go away in no time.
 	최근 몸이 불편한 곳이 있으신가요? 네, 피부가 건조하고요. 네, 어깨가 뭉치고, 눈도 건조하고, 머리카락도 빠지고, 무기력증이요… 그렇군요. 평소 같은 증상이라 딱히 문제는 없습니다. 당신이 운동을 시작하면 금세 좋아질 거예요.
 
-	医疗部的生活就是日常会议、岛内出诊、掌握干员身体情况、新药研究与开发，没什么新鲜事。
 	医療部の生活は、定例会議、艦内往診、オペレーターのヘルスデータの把握、新薬の研究開発といったことの繰り返しです。何も目新しいことはありませんよ。
-	Life in the Medical Department is just daily meetings, visits around the Island, learning the operators’ physical conditions, and developing new drugs. Never anything fresh and exciting.
+	Life in the Medical Department is just daily meetings, visits around the Island, learning the operators' physical conditions, and developing new drugs. Never anything fresh and exciting.
 	의료부의 생활은 정례 회의, 함내 왕진, 오퍼레이터의 건강 데이터 파악, 신약 연구 개발 같은 일의 반복입니다. 아무것도 새로울 게 없죠.
 
-	妈妈，不管您在哪里，请保佑我吧。
 	母さん、どこにいても見守っていてね。
 	Mother, no matter where you are, please watch over me.
 	엄마, 어디에 있든 지켜봐 줘.
 
-	多亏大家照顾我们这些负责医疗的人，工作起来焦虑感少了很多，很快乐。当然，也有很多头疼的事情，比如煌干员回来时总搞得浑身是血，每次都是，她不知道清理那些体液有多麻烦吗？
 	私たち医療スタッフが皆さんにご協力いただいているおかげで、仕事中の不安も減り、楽しく働けています。とは言え、もちろんまだまだ頭を抱える問題も残っています。例えばブレイズ氏がいつも血まみれで帰ってくることとか、ええ、毎回ですよ。体液の清掃がどれだけ面倒なのか、あの人は知らないんでしょうか？
 	Thanks for always taking care of us medics. I feel so much less anxiety while working, and am very happy. Of course, there are troublesome things to deal with as well, for example, when Blaze comes back, her body is always covered in blood. Does she know how hard it is to clean up those bodily fluids?
 	저희 의료 스태프들은 여러분의 협력 덕택에 업무 중 불안이 줄어 즐겁게 일하고 있습니다. 하지만 물론 아직도 머리를 싸매게 하는 문제도 남아 있어요. 예를 들면 블레이즈 씨가 항상 피투성이로 돌아오는 거라든가! 네, 매번이요! 체액 청소가 얼마나 성가신지 그 사람은 모르나 보죠?
 
-	我说过多少次了不要熬夜不要暴饮暴食，您就是听不进去，对不对？那你还管理什么健康，一辈子都躺在椅子上算了！！......不好意思，我去冷静一下。
 	夜更しも暴飲暴食もダメだと何度も言ったでしょう、聞く耳を持たないということですか？じゃ何のための健康管理なのよ、一生椅子に寝てればいいじゃない！！……すみません、ちょっと頭を冷やしてきます。
-	How many times have I told you, don’t stay up late, and don’t overeat! You just won’t listen, right? How are you going to take care of other peoples’ health then? You might as well spend the rest of your life in that chair then!! ......I’m sorry, I need to go calm down first.
+	How many times have I told you, don't stay up late, and don't overeat! You just won't listen, right? How are you going to take care of other peoples' health then? You might as well spend the rest of your life in that chair then!! ......I'm sorry, I need to go calm down first.
 	밤을 새우는 것도, 폭음 폭식도 안 된다고 몇 번이나 말씀드렸잖아요. 들을 생각도 없다는 거예요? 그럼 뭘 위해 건강을 관리하는 거야. 평생 의자에서 잠이나 자면 되잖아!! ……죄송합니다. 잠시 머리를 식히고 오겠습니다.
 
-	我不太能理解凯尔希老师在思考什么，她一直是那样......独特的人吗？哪怕只有一点，我也希望自己能追上她的步伐。
 	ケルシー先生が何を考えてらっしゃるのか、私にはよく理解できません。ずっとああいう風な……変わった方なんですか？ほんの少しだけでも、先生のペースについていけたらなと思っています。
-	I never quite know what Dr. Kal'tsit is thinking. Has she always been that... unique? I hope I can catch up to her one day, even if it’s in just one area.
+	I never quite know what Dr. Kal'tsit is thinking. Has she always been that... unique? I hope I can catch up to her one day, even if it's in just one area.
 	켈시 선생님께서 무슨 생각을 하고 계시는지 저는 잘 이해를 못 하겠어요. 계속 그런… 독특한 분인가요? 아주 조금이라도 선생님의 페이스를 따라갈 수 있으면 좋겠어요.
 
-	只要恶人能受到惩罚，被非议又怎么样？我不介意把这些毒剂泼洒给敌人，这是他们应得的。
 	悪に報いを受けさせるためなら、非難されても構いません。これらの毒薬を敵に向けて散布することも厭いませんよ。彼らが当然受けるべき罰なんですから。
-	As long as the wicked can be punished, what’s a little bit of criticism? I don’t mind spilling these poisons on my enemies. They deserve it.
+	As long as the wicked can be punished, what's a little bit of criticism? I don't mind spilling these poisons on my enemies. They deserve it.
 	악에게 죗값을 치르게 하기 위해서라면 비난받아도 상관없어요. 이 독약들을 적을 향해 살포하는 것도 마다치 않을 거예요. 그들이 당연히 받아야 하는 벌이니까요.
 
-	乌萨斯这个单词只会给我痛苦，我不想听，我一辈子都不想再听到。但它，是个巨人，发声振聋发聩。会被逼疯的，只有我。
 	「ウルサス」という言葉は、苦しみをもたらすだけですから聴きたくありません。ええ、一生涯聴きたくない言葉です。ですが、あれは巨人です、耳をふさいでいてもこの鼓膜を震わせるんです。狂わされるのは、私だけです。
-	The word 'Ursus' only gives me pain. I don’t want to hear it, not again for the rest of my life. But it is a giant, and its voice is deafening. And I’m the only it’s going to drive mad.
+	The word 'Ursus' only gives me pain. I don't want to hear it, not again for the rest of my life. But it is a giant, and its voice is deafening. And I'm the only it's going to drive mad.
 	 '우르수스' 라는 말은 고통을 초래할 뿐이니 듣고 싶지 않아요. 네, 평생 듣고 싶지 않은 말이에요. 하지만 그건 거인과도 같죠. 귀를 막아도 이 고막을 흔들어요. 미쳐가는 건 저뿐이에요.
 
-	你也知道自己之前环境清洁评测的分不高吧，再这样下去，博士可就是罗德岛的卫生吊车尾了。呼，这些我暂时帮你收拾了，剩下的记得空闲时清扫一下。
 	環境衛生評価の点数が良くなかったことはご自身でも分かっていますよね。このままだとドクターがロドスで最下位になってしまいますよ。ふぅ、ひとまずこの辺のものは片付けておきました。残りはお手すきの際にきれいにしてくださいね。
-	You also know that your previous environmental cleanliness evaluation scores weren’t very high, right? If you don’t turn things around, Doctor, you’ll be on the business end of the Rhodes Island sanitation crane. Phew, I’ll help you take care of these for now, so make sure you clean up the rest in your free time.
+	You also know that your previous environmental cleanliness evaluation scores weren't very high, right? If you don't turn things around, Doctor, you'll be on the business end of the Rhodes Island sanitation crane. Phew, I'll help you take care of these for now, so make sure you clean up the rest in your free time.
 	환경위생평가의 점수가 좋지 않았다는 건 스스로도 알고 계시죠? 이대로라면 박사님이 로도스 아일랜드에서 최하위가 되어버린다고요. 후우, 일단 이쪽은 정리해 뒀어요. 남은 건 시간이 날 때 청소해 주세요.
 
-	我是医疗部的亚叶，现在开始参加战地医疗任务，同时应凯尔希老师的要求，对您的健康情况进行管理，请多指教。
 	医療部のフォリニックです。今後は戦場医療任務にも参加します。また、ケルシー先生の要請により、あなたの健康管理も担当します。よろしくお願いします。
-	I am Folinic from the Medical Department, and I am now participating in field medic missions. Meanwhile, per Dr. Kal'tsit’s request, I will also help you manage your health. I look forward to working with you.
+	I am Folinic from the Medical Department, and I am now participating in field medic missions. Meanwhile, per Dr. Kal'tsit's request, I will also help you manage your health. I look forward to working with you.
 	의료부의 폴리닉이에요. 앞으로는 전장 의료 임무에도 참가합니다. 그리고, 켈시 선생님의 요청으로 당신의 건강 관리도 담당할 겁니다. 잘 부탁드립니다.
 
-	看来那时候药物的投入量还不够，下次再加三倍应该能达到预定效果。
 	当時の薬剤投与量は足りていなかったようですね。次はあと三倍追加投与すれば想定通りの効果が期待できそう。
 	It seems that the volume of drug input was insufficient last time, and it should be able to achieve its intended effect next time at triple the dosage.
 	당시의 약재 투여량이 부족했던 모양이네요. 다음에는 세 배 더 추가 투여하면 상정한 대로 효과를 기대할 수 있겠어요.
 
-	感谢认可，这些都是我应当做的。
 	認めていただきありがとうございます。私がやるべき仕事ですから。
 	Thank you for your acknowledgment. I am simply doing what I should.
 	인정해 주셔서 감사합니다. 제가 해야 할 일이니까요.
 
-	总有一天，我会成为像凯尔希老师那样的医生，拭目以待吧。
 	いつか必ず、ケルシー先生のような医師になってみせます。期待していてください。
 	One day, I will become as capable a physician as Dr. Kal'tsit. Just you wait and see.
 	언젠가 반드시, 켈시 선생님 같은 의사가 되어 보이겠습니다. 기대해 주세요.
 
-	我会尽到职责，保护各位的生命。
 	職責を全うし、皆さんの命を守ります。
-	I will do my best to protect everyone’s life.
+	I will do my best to protect everyone's life.
 	제 직책을 다해, 여러분의 생명을 지키겠습니다.
 
-	医疗支援已覆盖全队，接下来就看博士你的了。
 	医療支援は全隊員に行き渡りました。あとはドクター次第です。
 	The whole squad has been covered by medical support. The rest is up to you, Doctor.
 	전 대원에게 의료 지원을 마쳤습니다. 나머진 박사님께 달렸습니다.
 
-	没事，我能有什么心理负担。
 	大丈夫です、プレッシャーなどありません。
 	No problem, I can handle some psychological burden.
 	괜찮습니다. 부담감 같은 건 없습니다.
 
-	已接敌，准备反击与治疗。
 	敵に接触、反撃と治療の準備を。
 	Enemy engaged. Preparing for counterattack and treatment.
 	적에게 접촉, 반격과 치료 준비를.
 
-	还没想好？
 	まだ考えているんですか？
-	Haven’t decided yet?
+	Haven't decided yet?
 	아직도 생각하고 계시나요?
 
-	时不我待。
 	時間は待ってくれませんよ。
-	The clock’s ticking.
+	The clock's ticking.
 	시간은 기다려 주지 않아요.
 
-	医疗支援已介入。
 	医療支援が入ります。
 	Medical support has arrived.
 	의료 지원 들어갑니다.
 
-	已获得攻击许可。
 	攻撃の許可が下りました。
 	Permission to attack has been granted.
 	공격 허가가 떨어졌습니다.
 
-	开始投药。
 	投薬開始。
 	Begin administering medication.
 	투약 개시.
 
-	别担心，马上就起效了。
 	心配しないでください、すぐに薬効があらわれます。
-	Don’t worry, the effects will kick in soon.
+	Don't worry, the effects will kick in soon.
 	걱정하지 마세요. 금방 약효가 나타날 겁니다.
 
-	三、二、一！
 	三、二、一！
 	Three, two, one!
 	3, 2, 1!
 
-	已配置过量药物，开始使用！
 	多量の薬剤を装填しました、使用開始します！
 	Overdose decoction prepared, begin use!
 	대량의 약제를 장전했습니다. 사용을 개시합니다!
 
-	我应该，也帮上了一点忙吧？
 	私も、少しは役に立ちましたよね？
 	I was able to be of some help, right?
 	저도 조금은 도움이 되었죠?
 
-	节省医疗资源是件好事，但在战场上没这个必要哦？
 	医療資源の節約は良いことですが、戦場ではその必要はありませんよ。
-	Saving medical supplies is a good thing, but there’s no need for that on the battlefield, is there?
+	Saving medical supplies is a good thing, but there's no need for that on the battlefield, is there?
 	의료 자원을 절약하는 건 좋지만, 전장에선 그럴 필요 없어요.
 
-	还好，只是擦伤，清创以后贴个创可贴就行。
 	心配しないで、ただのかすり傷です。消毒して絆創膏を貼っておけば治ります。
-	Luckily, it’s just a scratch. Just apply a bandage after cleansing the wound.
+	Luckily, it's just a scratch. Just apply a bandage after cleansing the wound.
 	걱정하지 마세요. 그냥 긁힌 상처입니다. 소독하고 반창고를 붙여두면 나을 거예요.
 
-	转移伤员，紧急手术！准备骨髓内输液！
 	負傷者を搬送、緊急手術を！骨髄輸液の準備もお願いします！
 	Transfer the wounded! Get ready for emergency operation! Prepare for intraosseous infusion!
 	부상자 운송, 긴급 수술을! 골수 수액 준비도 부탁합니다!
 
-	检测完毕，可以入住了。
 	検査完了、入居できそうです。
 	Inspection complete. This area is habitable.
 	검사 완료. 입주할 수 있을 거 같네요.
 
-	欸？
 	えっ？
 	Huh?
 	네?
 
-	有时候对你的言词是有点......过激了，但您也得明白自己的不足之处，可以吗。
 	時々あなたへの言葉が少し……厳しくなることもあります。ですがご自身でも足りないところをしっかり理解してください、いいですか。
 	Sometimes the things I say to you can be a bit... excessive, but you should also recognize that you have your shortcomings, all right?
 	가끔 당신한테 하는 말이 좀…… 격해질 때도 있어요. 하지만 당신도 어디가 부족한지 제대로 이해해 주세요. 그래주실 거죠?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	工作辛苦了。
 	お疲れさまです。
-	You’ve been working hard.
+	You've been working hard.
 	수고 많으십니다.
+
+干员档案\Background:
+	基础档案 :
+	【代号】亚叶
+	【性别】女
+	【战斗经验】半年非实战训练
+	【出身地】乌萨斯
+	【生日】8月18日
+	【种族】菲林
+	【身高】164cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】フォリニック
+	【性別】女
+	【戦闘経験】模擬訓練半年
+	【出身地】ウルサス
+	【誕生日】8月18日
+	【種族】フェリーン
+	【身長】164cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Folinic
+	[Gender] Female
+	[Combat Experience] Half-year mock combat training
+	[Place of Birth] Ursus
+	[Date of Birth] Aug 18
+	[Race] Feline
+	[Height] 164cm
+	[Infection Status] 
+	Confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 폴리닉
+	[성별] 여
+	[전투 경험] 반 년의 비실전 훈련
+	[출신지] 우르수스
+	[생일] 8월 18일
+	[종족] 필라인
+	[신장] 164cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skills] Standard
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	凯尔希医师的年轻学生，罗德岛优秀的医疗干员，在进行了半年的准备训练后，正式开始参与战地医疗任务。
+	与普通医疗干员不同，亚叶会主动寻找攻击敌人的机会，她随身携带的，经过配置的药剂也表明了，在战场上，她并不是一位普通的医疗干员。
+	她是真正的战地医师。
+
+	個人履歴 :
+	ケルシー医師の若い弟子にして、ロドスの優秀な医療オペレーター。半年の模擬訓練を経て、正式に戦地医療任務に就いた。
+	医療任務と言えど、フォリニックはいつも積極的に攻撃の機会を探っている。彼女が普通の医療オペレーターではないことは、常時携帯している特製の薬剤が証明しているだろう。
+	彼女は本物の戦場医師なのである。
+
+	Profile :
+	A young student of Dr. Kal'tsit and an excellent medic operator, Folinic officially became involved in field medical missions after a half-year of preparatory training. 
+	Unlike conventional medics, Folinic actively looks for opportunities to attack the enemy. The unique configuration of drug compounds she carries on here indicates that she is no ordinary medic on the battlefield. 
+	She is a true battlefield medic.
+
+	프로필 :
+	    켈시의 젊은 제자이자 로도스 아일랜드의 우수한 메딕 오퍼레이터인 폴리닉은, 반 년의 준비 훈련을 거친 뒤 정식으로 전장 의료 임무에 참가하기 시작하였다.
+	    폴리닉이 휴대하고 있는 약물로 알 수 있듯이, 폴리닉은 일반적인 메딕 오퍼레이터와는 달리 스스로 적을 공격할 기회를 찾는다.  
+	    그녀는 진정한 야전의사다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】4%
+	体表有数处源石感染痕迹。
+	
+	【血液源石结晶密度】0.22u/L
+	本身为易感体质，但在规律作息与科学调理下已得到延缓。
+	
+	“还不够，我还能做得更好。”——亚叶
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】4%
+	体表に数箇所、源石感染の痕跡が見られる。
+	
+	【血液中源石密度】0.22u/L
+	感染しやすい体質であるが、規則正しい生活と科学的な病状管理によって進行は抑えられている。
+	
+	「まだです。私はもっとうまくできるはずです。」——フォリニック
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 4%
+	Several traces of infection are visible on the surface of the body. 
+	
+	[Blood Originium-Crystal Density] 0.22u/L
+	Patient is at high risk, but disease progresion has been slowed under a managed work schedule and regular treatment. 
+	
+	'Not good enough. I can still do better.' —Folinic
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 4%
+	체표면에 오리지늄 감염 흔적 여러군데 발견.
+	
+	[혈중 오리지늄 결정 밀도] 0.22u/L
+	감염되기 쉬운 체질이나, 규칙적인 작업과 휴식, 그리고 과학적인 관리로 병세가 늦춰진 상태다.
+	"아직 부족해요, 저는 더 잘 할 수 있어요."——폴리닉
+
+———————————————————————————————
+
+	档案资料一 :
+	亚叶是凯尔希的学生。当然了，全体医疗干员，只要是参与医疗任务和医疗实验的，每个人都或多或少有接受过凯尔希的指点，从这一点上来说，近乎所有医疗组干员都是凯尔希的学生。但她还是有特殊性的。凯尔希在通过了她的医疗干员许可后，特意让人事做了一张类似结业证明的东西给她，而她收下后，就把这份证明放在了卧室里最显眼的地方。在长达两年的学习过程中，她的每一个学习环节，每一科目的学习成果，凯尔希都有亲自过问。其实，很少有人能承受那样的学习压力，试想一下，整个罗德岛的最高负责人之一，时不时就会关注一下你的学习情况，过问你所有的考试，然后询问你为什么会答错，这样的重压，想想就觉得恐怖。但亚叶承受住了，不如说，她天生就有一种成为好学生的品质，认认真真，一丝不苟，在每个细节上精益求精，当然，她可能也不知道，这些性格中优异的东西，有一天也会对别人造成困扰。
+
+	第一資料 :
+	フォリニックはケルシーの弟子である。医療任務と医療実験に携わった全てのオペレーターは多かれ少なかれケルシーの指導を受けているため、そういった意味ではほとんどの医療オペレーターは彼女の弟子にあたるとも言えるが、フォリニックはその中でも特別だ。それは、ケルシーが彼女の医療オペレーター就任を認可した際に、人事部門にわざわざ卒業証書のようなものを作らせたことからよくわかる。ちなみにそれを受け取ったフォリニックは、寝室の一番目立つところに飾りつけたという。彼女が勉学に励んだ二年間、ケルシーは毎日のように彼女の学習状況と成果をチェックし、テストの度に今後の課題を提示していた。ロドスの最高責任者の一人にここまで注目されるのはなかなかの重圧だっただろう、想像しただけでも恐ろしい。しかしフォリニックはその二年間を耐え切った。几帳面で努力家な彼女は、どんなに小さなことにも完璧を求める生粋の優等生気質だ。とはいえそんな長所は、周りの人を困惑させることもある。それを彼女はまだ知らない。
+
+	Archive File 1 :
+	Folinic is Kal'tsit's student. Of course, all medic operators have more or less received Kal'tsit's guidance as long as they are involved in medical tasks or experiments; from this perspective, they are all Kal'tsit's students. But Folinic is special. After Kal'tsit gave her passing marks on her Medic Operator certification, Folinic asked her to give her something similar to a certificate of completion. After Kal'tsit accepted the request, Folinic took it and placed it in the most conspicuous location in her dorm. Over the course of Folinic's two years of study, Kal'tsit has been personally involved in every one of her course subjects and research projects. In fact, very few people can withstand that degree of academic pressure. Just imagine that one of the heads of Rhodes Island is paying close attention to your academic situation, asking about each of your exams and asking why you got certain questions wrong - yes, most people would find that terrifying. But not Folinic. Rather, she seems to be a naturally good student: earnest, meticulous, and attentive to detail. Of course, she would not know that these excellent qualities would one day cause trouble to others.
+
+	파일 자료 1 :
+	    폴리닉은 켈시의 제자다. 물론 의료 임무와 의료 실험에 참가하는 메딕 오퍼레이터라면 누구라도 적든 많든 켈시의 지도를 받았고, 이러한 관점에서 본다면 모든 메딕 오퍼레이터가 켈시의 제자라고 할 수 있겠지만, 그녀는 특별한 케이스다. 켈시가 폴리닉에게 메딕 오퍼레이터의 자격을 허가한 후, 특별히 졸업장 비슷한 것을 그녀에게 수여한 것이다. 폴리닉은 이 졸업장을 그녀의 침실에서 가장 잘 보이는 곳에 보관하고 있다. 2년에 걸친 학습 과정 속에서 켈시는 종종 폴리닉의 모든 수업 및 학습 목표, 그리고 성과에 대해 직접 물어봤다. 사실 극소수의 사람만이 이런 학습 스트레스를 견딜 수 있을것이다. 생각해보라, 로도스 아일랜드의 최고 책임자 중 한 사람이 수시로 당신의 학습 상황과 시험에 대해 관심을 갖고, 어째서 답이 틀렸는지 추궁하는 것을. 이런 중압감은 상상만으로도 공포에 질리게 한다. 하지만 폴리닉은 견뎌냈다. 매사에 진지하고 조금도 빈 틈이 없으며, 아무리 사소한 것이라도 완벽을 기하는 폴리닉의 품성은, 그야말로 좋은 학생이 될 수 있는 자질을 타고난 것이라 할 수 있을 것이다. 물론 폴리닉 본인은 모르겠지만, 이런 성격에서 특히 우수한 부분으로 인해 언젠가는 다른 사람을 곤혹스럽게 할 날이 올지도 모른다.
+
+———————————————————————————————
+
+	档案资料二 :
+	许多来找亚叶看病的干员其实都没有特别大的疾病，更多的，都是想调整一下自己的亚健康状况，此时，亚叶会向他们提议进行健康的生活作息。但事实上，大部分干员只是想从医疗干员那里获得一些便利的恢复健康方式，也不是所有干员都能做到像亚叶那样，在非作战时间里，每天坚持六点起床九点睡觉，醒来围着甲板跑一小时，然后洗把澡吃早饭开始干活的，更别提亚叶不沾烟酒，不唱歌不跳舞，只进行必要的社交，其他时间都扑在研究室、诊所或者图书馆里提升自己，周末则抽一天来满足自己对狩猎的兴趣。对于大部分干员而言，这样严苛的生活作息实在是......遥不可及。
+	不过这样几乎过度自律生活的背后目是什么？亚叶她真的只是为了晚上能睡得安稳吗？据一些曾与亚叶共同行动的干员所说，“当亚叶的现在不太充实的时候，她会回到那个糟糕的过去”。具体的表现则是，“白天不把自己累垮的话，晚上她睡不着。”
+
+	第二資料 :
+	フォリニックを訪ねるオペレーターたちの多くは、大きな病気を抱えているわけではなく、ただ健康状態を良くしたいと考えている者たちである。その相談に対して、フォリニックはいつも規則正しい生活を提案する。しかしフォリニックにとっての「規則正しさ」は全てのオペレーターが真似できるものではない。作戦時以外、彼女は毎日朝六時に起き、夜九時に就寝する。起床後最初にするのは、甲板での一時間のジョギングだ。その後シャワーを浴びて朝食を摂り、仕事に取り掛かる。当然タバコや酒は嗜まず、必要な人付き合いを除いて、歌やダンスといった娯楽に興じることもない。仕事外の時間は全て研究室や診察室、または図書館で過ごしている。そして週末だけは一日予定を空けて趣味の狩りを行うのだ。大半のオペレーターにとって、このような生活スタイルは厳しすぎるものである。
+	彼女がこうも過度な「規則正しい」生活を重視するのはなぜか？かつて彼女と共に行動をした一部のオペレーターによると、充実していない時間を過ごすと、悲惨な過去を思い返す余裕ができてしまい、不眠をまねいてしまうからだという。
+
+	Archive File 2 :
+	Many operators who came to see Folinic did not have particularly serious illnesses, and many of them simply wanted to tune-up some sub-clinical maladies - to which Folinic would suggest for them to have a healthy lifestyle. But in fact, what most operators want from medics is just a convenient method to feel better, and not all operators have the luxury of emulating Folinic's lifestyle, namely getting up at 6 every morning and being in bed by 9, running around the deck for an hour every morning, then showering and eating before heading to work. Not to mention, Folinic also doesn't touch tobacco or alcohol, doesn't party, only socializes as necessary, and spends the rest of her time in a research lab, clinic, or library to improve herself. Only on weekends does she take a day to satisfy her interests in hunting. For most operators, such a spartan lifestyle is... out of the question. 
+	But what is behind this borderline ascetic way of life? Does Folinic really do all this so that she can get a sound night of sleep? According to some operators who have worked with Folinic, 'her present must be kept busy to the brim, or she will relapse to the terrible events of the past.' Specifically, 'if she doesn't exhaust herself during the day, she won't be able to sleep at night. '
+
+	파일 자료 2 :
+	폴리닉을 찾아온 많은 오퍼레이터들은 사실 특별히 심각한 병이 없었다. 추가로 그들은 자신의 질병에 걸린 것도 아니고 건강하지도 않은 애매한 '중간 상태'를 조정하고 싶어했는데, 그럴때 폴리닉은 그들에게 건강한 생활 습관을 제안하곤 했다. 사실 대부분의 오퍼레이터들은 그저 메딕 오퍼레이터에게서 노력없이 편하게 건강을 회복할 수 있는 방법 몇 가지를 알아가려는 것 뿐이었지만, 모든 오퍼레이터들이 폴리닉처럼 생활할 수는 없다. 작전이 없는 날엔 매일 아침 6시에 일어나 밤 9시에 잠들며, 깨어난 후에는 갑판 위를 1시간 달린 후 샤워 및 아침 식사를 하고 일을 시작한다. 더군다나 폴리닉은 술과 담배를 하지 않으며, 노래를 부르지도 않고 춤도 추지 않는다. 최소한의 사교 활동만 하면서 나머지 시간은 연구실이나 진료소, 혹은 도서관에서 자기 계발에 몰두하고, 주말이 되면 날을 하루 잡고 취미인 사냥을 즐긴다. 대부분의 오퍼레이터들에게 있어서 이런 가혹한 생활 습관은… 그야말로 먼 나라 이야기다.
+	    하지만 어째서 이렇게 과도할 정도로 자신을 통제하는 생활을 하는 걸까? 폴리닉은 정말 밤에만 편히 잠들 수 있는 것인가? 과거 폴리닉과 함께 행동했던 오퍼레이터는, 폴리닉의 그런 생활은 부지런하지 못한 시간을 보내는 경우 엉망인 과거 생활로 돌아갈 수 있기 때문이라 말했다. 구체적으로 표현하자면, "낮에 자신을 혹사하지 않으면 밤에 잠을 잘 수 없기 때문"이라 할 수 있겠지만.
+
+———————————————————————————————
+
+	档案资料三 :
+	亚叶最早是作为研究员而非干员进行学习的，即使她有着狩猎的兴趣，也拥有独自在野外捕猎并安全返回的能力，但作为战斗干员，她有太多需要学习的地方。在切尔诺伯格事件开始后，亚叶向凯尔希提议，希望自己能尽快完成从非战斗干员到战斗干员的准备，至少，希望凯尔希能够允许她作为随行医师或预备医师参加战斗。在经过身体素质评测后，凯尔希答应了她的要求，于是亚叶加入了预备干员训练营，与其他预备干员们一起训练，半年后完成预备训练，正式参加罗德岛的外派行动。
+	亚叶为自己的支援工作想过许多种形式，她可以担任狙击干员的任务，也可以适当负担近卫干员职责的同时负荷医疗任务，但最后，她还是选择成为战地医疗干员，以医疗救助我方干员为自己的首要任务，但在训练的半年中，她非常明显地发现，医疗干员是十分脆弱的，部分医疗干员一旦失去战友的保护就毫无作战能力，为了克服这一点，亚叶运用自己的药理学知识，精心配制了一些试剂，这些试剂平时都是处理外伤的普通药物，只要稍作改动，进行过量或混合操作，就能在短时间内变成夺取目标抵抗能力的毒剂。她已经上过许多次战场，也已使许多敌人失去抵抗能力，作为一名医疗干员，我们不知道她如何看待这件事的，但很明显，当面对敌人时，每个人都能感受得到她的愤怒。
+
+	第三資料 :
+	フォリニックは最初、研究員として勉強をしていた。狩りを趣味とする彼女は単独で野外狩猟を行うだけの能力を持っていたが、戦闘オペレーターになるにはまだ学ぶことが多かったのだ。しかしチェルノボーグ事変の後、彼女は、戦場医師または予備医師として作戦に参加したいとケルシーに申し出た。身体能力計測後、ケルシーはそれを認めた。フォリニックは予備オペレーターキャンプに入り、他の同志たちと共に訓練を受けた。そして半年後、訓練を終えた彼女は正式にロドスのオペレーターになったのである。　
+	フォリニックは狙撃、前衛、医療など、自身の役割について様々な形を考えた。その中、彼女が最終的に選んだのは、当初の望み通り、味方の救助を最優先とする医療オペレーターになることだった。しかし半年間の訓練で、彼女は戦友に守られなければ満足に戦えないという医療オペレーターの弱点に気付いていた。これを克服するため、彼女は薬学知識を活かし、特製の薬剤を作り出したのである。これらの薬剤は普段は外傷の処理などに使うが、少し手を加え、過剰投与や調合を行えばすぐに、敵の行動力を奪う毒物ともなる。それを用いて彼女は多くの戦場で、多くの敵を無力化してきた。医療オペレーターとして彼女がその戦い方をどう考えているかは定かではないが、敵と対峙した彼女からは、誰もがその怒りを感じ取れるのである。
+
+	Archive File 3 :
+	Folinic studied first to become a researcher rather than an operator. Though she had an interest in hunting and was capable of conducting a hunt in the wild and returning safely, she still had too much to learn as a combat operator. After the Chernobog incident, Folinic made a request to Kal'tsit in hopes that she could make the preparations to transition into a combat operator as quickly as possible, or at least, that Kal'tsit would allow her to join the battlefield as a combat medic or provisional physician. After Folinic took her physical fitness evaluation, Kal'tsit agreed to her request and had Folinic join the reserve operator training camp, where she trained with the other reserve operators. After half a year, Folinic completed her preparatory training and officially joined Rhodes Island's outpost operation team. Folinic considered many ways she could offer her support; she could try to become a sniper, or she could balance her work as a medic and guard; but in the end, she decided to become a combat medic and continue to prioritize medical assistance. However, in her half-year of combat training, she realized that most medics were quite frail and had no combat capabilities once they lost the protection of their comrades. To overcome this, Folinic used her pharmacological knowledge to carefully formulate a number of reagents commonly found in readily-available drugs to treat external injuries. With minor modifications such as increasing the dosage or mixing in different compounds, these drugs could become potent toxins that could incapacitate targets in a very short time. She has stepped out onto the battlefield many times and incapacitated many enemies. We don't know how she feels about her new role as someone who is supposed to do no harm, but when she's facing an enemy, her anger is evident enough to anyone who sees her.
+
+	파일 자료 3 :
+	    처음 폴리닉은 연구원이자 비 오퍼레이터의 신분으로 공부를 시작했다. 비록 폴리닉이 사냥에 흥미가 있고, 야외에서 혼자 사냥 후 안전하게 돌아올 수 있는 능력이 있다해도, 전투 오퍼레이터가 되기 위해서는 공부해야 할 것이 너무 많았다. 그러다가 체르노보그 사건이 발생한 후, 폴리닉은 켈시에게 자신이 최대한 빨리 비전투원에서 전투원이 될 수 있는 준비를 마치도록, 아니면 적어도 그녀가 수행 의사나 예비 의사로 전투에 참가할 수 있게 해달라고 요청했다. 신체 능력 테스트 후, 켈시는 폴리닉의 요구에 따라 그녀를 예비 오퍼레이터 훈련 캠프로 보내 다른 예비 오퍼레이터들과 함께 훈련을 받게 했다. 그리고 반년 후, 예비 훈련이 끝난 폴리닉은 정식으로 로도스 아일랜드의 파견 임무에 참가할 수 있게 되었다.
+	    폴리닉은 자신의 지원 업무에 대해 여러가지 방식으로 생각했었다. 폴리닉은 스나이퍼 오퍼레이터의 임무를 맡을 수 있었고, 가드 오퍼레이터의 역할도 담당할 수 있었으며, 동시에 의료 임무도 수행할 수 있었다. 하지만 결국 마지막에 폴리닉이 선택한 건 전장 의료 오퍼레이터였다. 이는 의료 활동을 통해 아군 오퍼레이터를 돕는 것을 최우선 임무로 여기는 그녀가 지난 반 년간의 훈련 동안 메딕 오퍼레이터는 너무 연약하며, 일부 메딕 오퍼레이터는 아군의 보호를 받지 못하면 아무런 작전 능력을 발휘하지 못한다는 점을 뼈저리게 깨달았기 때문이다. 이런 점을 극복하기 위해 폴리닉은 자신의 약리학적 지식을 이용해 심혈을 기울여 시약을 제조했는데, 이 시약들은 평상시엔 외상을 치료하는 보통 약물과 다를 바 없으나, 과다 투여나 혼합 작용 등 약간의 변동을 거치면 빠른 시간 내에 목표의 저항 능력을 빼앗을 수 있는 독약이 된다. 폴리닉은 이미 여러차례 전장에 나가 많은 적의 저항 능력을 상실시켰다. 우리는 그녀가 한 명의 메딕 오퍼레이터로서 이런 사실을 어떻게 받아들일지는 잘 알지 못하겠으나, 확실한 점은 그녀가 적을 마주할 때면, 모든 사람이 그녀의 분노를 느낄 수 있다는 점이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	亚叶是乌萨斯人，但伴随着这一身份的，是亚叶对乌萨斯毫不掩饰的憎恶。她的愤怒与憎恨不针对个人，仅会倾泻在那片宽广的，被称作“乌萨斯帝国”的国度。作为生活在乌萨斯的菲林人，亚叶从前的生活环境十分恶劣，她所能追求的，也仅仅是每日一顿饱饭。在随着母亲的工作调动进入移动城市切尔诺伯格后，她曾天真地以为自己即将过上美好的生活。因为在这里，不仅生活得到保障，她还遇见了许多人，许多愿意接触、带领、教导她的人，凯尔希就是其中的一位。随后，在一个平凡的日子里，在对母亲说出：“回来等你做晚饭。”后，一切都消失了，亲人、朋友，全都消失得无影无踪，只有凯尔希，这个能成为她师长，也将是她唯一亲属的人，出现在了她面前，把她从危难中救出，托付给了切尔诺伯格当地一个普通家庭中。从稀少的片段和预兆中，亚叶拼凑起了母亲逝去的真正原因——乌萨斯。从那以后，她开始不断学习、认知、了解，从每个方面去理解乌萨斯到底是怎样一个国家，而每一点更深层次的认知，却只是让她的愤怒与日俱增。终于，在整合运动开始行动前不久，亚叶即将完成学业的时候，她再一次见到了凯尔希并表明了追随她而去的愿望——亚叶并非不感激她的养父母，只是，在认知到自己绝无可能向乌萨斯帝国复仇后，她已不愿在这里待上哪怕一秒，如今，若是说哪里还能称之为“家”，她一定会说：
+	“凯尔希老师在的地方，就是我永远的家。”
+
+	第四資料 :
+	フォリニックはウルサス出身である。しかし彼女は「ウルサス」と称されたあの広大な国に怒りと憎悪を抱いている。かの地に住んでいた当時、フェリーンであるフォリニックは、一日に一食まともに食べられるだけで満足という生活をしていた。その後母親の転勤により移動都市チェルノボーグに移住した彼女は、夢見ていた幸せな生活通りに、親切に接してくれる友や、導いてくれる人たちと出会った。しかしある日、彼女が「いってらっしゃい」と母親を送り出した後、全てが跡形なく消えたのだ。そこで彼女を救い出したのは、彼女の師であり、今の彼女が唯一の家族と考えているケルシーであった。その後チェルノボーグの一般家庭に預けられた彼女は、わずかな情報をたどり、母親の死がウルサスと関係があるということを知った。彼女はウルサスという国について勉強し理解しようと努めたが、知れば知るほど、かの国に対する憤怒が増していった。レユニオンが活動を始めるよりも少し前に、フォリニックはついにケルシーと再会し、彼女についていきたいと願った。養父母への感謝がなかったわけではないが、このままチェルノボーグにいてもウルサスへの復讐は叶わないとわかった以上、彼女は一秒たりとも、その場所に留まりたくなかったのだ。今の彼女に「家」と言える場所はどこかと聞けば、彼女はきっとこう答えるだろう——
+	「ケルシー先生がいる場所が、私の家です。」
+
+	Archive File 4 :
+	Folinic is from Ursus, but also carries with her an unabashed hatred of Ursus. Her anger and resentment are not directed at individuals, but rather at the vast political entity that is the 'Ursus Empire.' As a Feline living in Ursus, Folinic used to live under abhorrent conditions, so bad that all she could do was pursue a single full meal each day. After she followed her mother to Chernobog due to her job, Folinic naively thought that she was about to enjoy a better life. After all, her life was secure, she had met many people and among them, many were willing to reach out to her or teach her. Kal'tsit was one of those people. Subsequently, she said to her mother on just another ordinary day, 'I'll wait until you're back to cook dinner.' But on that day, everything disappeared - her family and her friends, all gone without a trace. Only Kal'tsit, her mentor and the woman who would effectively become her only relative, rescued her from peril and entrusted her to an ordinary family in Chernobog. From sparse evidence and clues, Folinic pieced together the real cause of her mother's death - Ursus. From that point on, she began to dig deeper, to learn, recognize, understand, and internalize every aspect of what kind of country Ursus is, and each bit of knowledge only further fanned the flames of her anger. Finally, right before Reunion made their move when Folinic was about to finish her studies, she met with Kal'tsit once more and expressed her desire to follow her. Even though Folinic was grateful towards her adoptive parents, she realized that she could never forgive the Ursus Empire to the point where she did not want to spend another second within its confines. Now, if she could call any place home, she would definitely say:
+	'My home will always be wherever Dr. Kal'tsit is. '
+
+	파일 자료 4 :
+	    폴리닉은 우르수스인이지만, 그녀의 또다른 신분 탓에 그녀는 우르수스에 대해 노골적인 증오를 품고 있다. 폴리닉의 분노와 증오의 초점은 어느 한 개인이 아니라, 굉장히 넓은 범위의, '우르수스 제국'이라 불리우는 나라에 맞춰져있다. 당시 그녀의 소원은 그저 매일 한 끼의 밥을 먹는 것이었을 정도로, 우르수스에서 살아가는 필라인으로 살았던 과거 폴리닉의 생활 환경은 굉장히 열악했다. 어머니의 직업을 따라 체르노보그 이동 도시에 들어가게 된 그녀는 순진하게도 자신이 곧 멋진 삶을 살 수 있을거라 생각했다. 그곳에서는 생활이 보장되어 있었을 뿐만 아니라, 그녀를 만나고 싶어하고, 데려가고 싶어하고, 교육하고 싶어하는 사람들을 많이 만날 수 있는 그런 삶 말이다. 그러나 얼마 지나지 않아 어머니에게 "돌아와서 저녁밥을 해달라" 말했던 어느 날, 폴리닉이 누리던 평범한 생활은 흔적도 없이 사라졌다. 가족도 친구도, 모든 것이 흔적도 없이 사라진 그때, 폴리닉의 스승이자 유일하게 남은 가족같은 사람이라 할 수 있는 켈시가 그녀 앞에 나타났고, 위험에 빠진 그녀를 구해 체르노보그에 있는 어느 평범한 가정에 맡겼다. 극히 적은 흔적과 단서 속에서, 폴리닉은 어머니가 사라진 진짜 원인은 바로 우르수스라는 걸 알게 되었다. 그 이후로 폴리닉은 배움을 멈추지 않았고, 우르수스가 대체 어떤 국가인지 각 방면에서 알아가기 시작했는데, 더 깊이 알아갈수록 그녀의 분노는 점점 커져만 갔다. 리유니온이 행동을 시작하기 얼마 전, 즉 폴리닉의 학업이 끝나가는 시기에 폴리닉은 다시 한 번 켈시를 만나 그녀를 따라가고 싶다는 의사를 밝혔다. 폴리닉이 그녀의 양부모에게 감사하지 않는 건 아니었지만, 자신이 우르수스 제국에 복수할 수 없다는 것을 깨닫게 되자 더 이상 그곳에 머물고 싶지 않았던 것이다. 그리고 지금, 만약 폴리닉에게 '집'이라고 부를 수 있는 곳이 어디냐고 묻는다면 그녀는 분명 이렇게 대답할 것이다.
+	    "켈시 선생님이 계신 곳이 바로 영원한 저의 집입니다."
+
+———————————————————————————————
+
+	晋升记录 :
+	“你的手续已经完成了，明天开始，就可以正式入职。”
+	“谢谢您，老师。”
+	“还有最后一件事。”
+	“代号。”
+	“代号？”
+	“你要为自己准备一个用来标明你身份的词汇。”
+	“有些人喜欢直接用名字，有些人喜欢用事物。”
+	“总之，没有禁忌。”
+	“呃，让我想想......”
+	“唔......”
+	“就亚叶吧。”
+	“好。”
+	“老师您就不问问我为什么吗？”
+	“医疗辞典里第一个你没有记住的词。虽然我相信你只是在连续背诵中感到疲惫而出现失误，但那的确是你第一次出错。”
+	“我这里有一位干员曾经和你犯下同样的错误，然后使用了同样的方式为自己命名。”
+	“是安托姐？”
+	“嗯。”
+	“以后如果遇到什么问题，和往常一样，直接来办公室找我。”
+	“好的，老师。”
+	“那么，欢迎你的正式加入，亚叶干员。”
+
+	昇進記録 :
+	「手続きは済んだ。明日から君は正式にオペレーターになる。」
+	「ありがとうございます、先生。」
+	「あとひとつ。」
+	「君のコードネームだ。」
+	「コードネーム？」
+	「君という人を示す言葉を考える必要がある。」
+	「本名をそのまま使う者もいれば、なにか物事の名称を使う者もいる。」
+	「とにかく、制限はない。」
+	「わかりました、少し考えさせてください……」
+	「えっと……」
+	「では、フォリニックにします。」
+	「わかった。」
+	「理由は聞かないのですか？」
+	「医学辞書の中で、君が初めて暗記できなかった単語だ。暗記ものが多くて疲れていたのだろうが、君にとっては確かに初めてのミスだったと言えよう。」
+	「君と同じようなミスを犯し、同じようにそれをコードネームにした者もいるから、おおよそ想像はついた。」
+	「それはアントですか？」
+	「正解だ。」
+	「何かあれば、いつも通りに私の執務室に来るといい。」
+	「はい、先生。」
+	「では改めて、正式なオペレーターになった君を歓迎しよう。フォリニック。」
+
+	Promotion Record :
+	'I've finished the bureaucratic stuff. Starting tomorrow, you can formally begin your job.' 
+	'Thank you, Ma'am.' 
+	'One last thing.' 
+	'Your code name.' 
+	'Code name?' 
+	'You need to choose a word that will serve as your identification.' 
+	'Some people just use their name, others like to get a bit more creative.' 
+	'In short, there are no restrictions.' 
+	'Hm, let me think......'
+	'Hmm......'
+	'How about Folinic?' 
+	'Sure.' 
+	'You're not going to ask me why, Ma'am?' 
+	'It's the first word in the medical dictionary you couldn't remember. Although I believe it was just a simple mishap from getting burnt out by all the memorization, it was the first time you made a mistake.' 
+	'I know an operator here who made the same mistake and chose a code name the exact same way.' 
+	'Are you talking about Sister Anto?' 
+	'Yes.' 
+	'In the future, if you have any questions, you can always come find me at my office, just like always.' 
+	'Yes, Ma'am.' 
+	'Well then, congratulations on officially joining us, Operator Folinic. '
+
+	승진 기록 :
+	    "절차는 다 끝내놨어. 내일부터 정식으로 입사할 수 있을 거야.
+	    "고맙습니다, 선생님."
+	    "마지막으로 한 가지 일이 더 있는데."
+	    "코드네임."
+	    "코드네임이요?"
+	    "네 신분을 밝힐 수 있는 코드네임을 생각해둬."
+	    "이름을 그대로 쓰는 사람도 있고, 사물의 이름을 본따서 쓰는 사람도 있고…"
+	    "어쨌든 금기같은 건 없으니까."
+	    "음, 생각해볼게요…"
+	    "음…"
+	    "폴리닉으로 하죠."
+	    "그래."
+	    "왜 이걸로 정했는지는 묻지 않으시나요?"
+	    "의학 사전에서 네가 처음으로 잘못 암기한 단어잖아. 나는 네가 계속 암기하느라 피곤해서 실수한 거라고 생각하긴 했지만, 확실히 그게 네가 한 첫 번째 실수였지."
+	    "여기엔 예전에 네가 했던 것 같은 실수를 하고 같은 방식으로 코드네임을 정한 사람이 있거든."
+	    "아트로 언니 말인가요?"
+	    "그래."
+	    "나중에 무슨 문제 생기면, 예전처럼 사무실로 날 찾아와."
+	    "예, 선생님."
+	    "그럼 정식 가입 축하해, 오퍼레이터 폴리닉."

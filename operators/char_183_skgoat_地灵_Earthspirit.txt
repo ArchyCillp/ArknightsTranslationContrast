@@ -1,11 +1,17 @@
 ID:
 	char_183_skgoat
 
-干员代号\Name:
+CV:
 	地灵
 	アーススピリット
 	Earthspirit
 	어스스피릿
+
+干员代号\Name:
+	悠木碧
+	悠木碧
+	Aoi Yūki
+	유우키 아오이
 
 招聘合同\Character Usage:
 	罗德岛辅助干员地灵，在工作时间内为你提供可靠的战场支援。
@@ -43,177 +49,363 @@ ID:
 	모래 늪
 
 语音\Voices:
-	博士，我已经按您的要求，将源石和其他矿物甄别分拣完毕了，还有别的需求吗？
 	ドクター、注文の通り、源石とそれ以外の鉱石を選別したわ。ほかに何か仕事はないかしら？
 	Doctor, I've picked out the Originium from the pile of other ores according to your orders. Any other requests?
 	박사, 주문대로 오리지늄과 그 외의 광석을 선별했어. 다른 할 일은 더 없나?
 
-	矿石病真麻烦啊，我现在，就连行动都会被凯尔希医生限制。寿命会被矿石病削减？不，这个倒无所谓啦。
 	鉱石病は面倒な病ね。ケルシーからもアレはダメ、コレはダメと言われるし。寿命が縮む？いいえ、それはそこまで重要ではないわ。
 	Oripathy is really troublesome. I can't even go on operations without the okay from Dr. Kal'tsit. And patients will lose some years of their lives, you say? Yeah, that's true, but I'm okay with that.
 	광석병은 귀찮은 병이네. 켈시한테도 이건 안 된다 저건 안 된다 잔소리나 듣고 말이야. 수명이 줄어든다고? 아니, 그건 그렇게 중요하지 않아.
 
-	这把音叉？是魔杖。它不仅是武器，也是用在地质勘探上的工具，用起来十分顺手。
 	音叉？これは杖よ。もちろん武器にもなるし、地質調査用の道具でもあるわ。とっても便利なのよ。
 	This tuning fork? It's actually a wand. It's not only a weapon but also useful for geological surveying. I find it really handy.
 	소리굽쇠? 이건 지팡이야. 물론 무기도 되고, 지질조사용 도구이기도 하지만. 무척 편리하지.
 
-	没有遇见罗德岛的话，我可能还在全职从事地质研究的工作。但没遇见你们的话，我可能也已经没命了。
 	もしロドスに出会わなかったら、私はまだ地質調査員をやってたのかも……いいえ、たぶん私はもう、この世にはいないわね。
 	Without Rhodes Island, I'd probably still be a full-time geological researcher. And without you people... I'd probably already be dead.
 	혹시 로도스 아일랜드를 만나지 못했다면, 난 아직 지질조사원을 하고 있었을지도… 아니, 아마 난 벌써 이 세상에 없었겠네.
 
-	啊？我有黑眼圈了？讨厌，我就知道......
 	えっ？目の下にクマ？やだ、やっぱり……。
 	Oh? I have dark circles under my eyes? Aw, I knew it...
 	어? 눈 밑에 다크서클? 이런, 역시… 
 
-	我背后的是什么？这是......算了，解释起来会很麻烦，等有时间再说吧。
 	私の後ろにいるやつ？これはね……いや、説明すると長くなるから、また今度、時間があるときにでもね。
 	What's that behind me, you ask? Well... ah, never mind, it's really hard to explain. I'll tell you when we have more time.
 	내 뒤에 있는 녀석? 이건 말이지… 아니다, 설명하자면 길어지니까 다음에 시간 날 때 말해줄게.
 
-	有些石头是会跟我说话的，絮絮叨叨，相互争吵不休，把我弄到失眠......你以为我在开玩笑？我难道像是在开玩笑的样子吗？
 	石の中には、話しかけてくるものもあるのよ。ずっとぶつぶつ言ってるから、近くに置くと眠れないぐらいなの。……冗談？これが冗談を言ってる顔に見えるかしら？
 	Some rocks talk to me, you know... and they talk a lot! Some of them even squabble... so much that I lose sleep over it. You think I'm kidding? Do I look like I'm kidding?
 	돌 중에는 말을 걸어오는 것도 있어. 계속 중얼중얼 대서 가까이 놔두면 잠을 못 잘 정도야… 농담? 이게 농담하는 얼굴로 보여?
 
-	普罗旺斯还是一如既往的神经大条，再不注意，她可就要变成我这样的重症感染者了。你们最好也多和她说说。
 	プロヴァンスは相変わらず無神経ね。あのままの調子だと、いずれは私のように重篤感染者になってしまうわ。あなた達からもしっかり言っておいてもらえないかしら。
 	Provence is as careless as always. She needs to be careful or she'll end up like me, seriously ill. You'd better give her a good talking-to.
 	프로방스는 여전히 둔하네. 저대로라면 언젠가 나처럼 중증 감염자가 되고 말 거야. 너희들도 제대로 좀 한마디 해줄 수 있을까?
 
-	就是这个，就是这个！你看，你看......至少距今三十五万年的地壳挤压，才会形成这种截面！太棒了......博士，知道吗，那些一直以来反驳这项理论的人才是愚昧的......！
 	これ！これよ！ドクター！見て……この断層面、少なくとも三十五万年以上の堆積と地殻圧縮がないとできないはず！素晴らしいわ……。ドクター、これで私の学説に異論を唱えてきた連中の鼻を明かせるわ。
 	Look at this! Look at this! This surface... it couldn't have been formed without pressure in the earth's crust since 350 thousand years ago. Isn't it wonderful? You know, Doctor, those people who refuse to believe geological studies are truly fools.
 	이거! 이거야! 박사! 봐봐… 이 단층면, 적어도 35만 년 이상은 지층이 퇴적되고 지각 압축되지 않으면 안 나오는 거라고! 훌륭해…… 박사, 이걸로 내 학설에 반론을 제기해왔던 녀석들의 코를 납작하게 해줄 수 있겠어.
 
-	博士......哎，是不是工作得太疲惫了。
 	ねぇドクター……あらあら。働きすぎたのかしら。
 	Doctor—oh, you're sleeping? You must be tired from all the hard work.
 	저기 박사… 이런 이런, 일을 너무 많이 했나.
 
-	地灵，地质学者兼术师，向你报道。我每天的工作时间是八小时，如果加班的话要额外支付加班费。
 	アーススピリット、地質学者兼術師オペレーターとして、着任させていただくわ。規定の勤務時間は8時間、残業代は別に払ってもらうわよ。
 	I'm Earthspirit, a geology scholar and Caster, reporting in. I work eight hours each day. Make me work any more and you'll have to pay me extra.
 	어스스피릿, 지질학자 겸 캐스터 오퍼레이터로서 착임하겠다. 규정된 근무 시간은 8시간, 추가 근무 수당은 별도로 청구하지.
 
-	嗯，这是学术资料还是别的什么？
 	ふーん……学会の資料か何かかしら？
 	Hm, is this academic data or something else?
 	흐음…… 학회 자료 뭐 그런 건가?
 
-	科研方法也有不断精进的必要呢。
 	研究のやり方も、絶えず向上させていかないとね。
 	Methods of scientific research must continue to be improved on.
 	연구 방법도 끊임없이 향상시켜야겠지.
 
-	冒昧提醒一下，我只拿一份薪水。不加薪的话，就算升职，我也不会做更多的工作哦。
 	悪いけど、昇進しても昇給してもらえないのなら、これ以上の仕事はしないわよ。
 	Forgive me for my bluntness, but do remember that I only receive the salary for one person, so you can't make me do the work of more than one person even if you promote me.
 	미안하지만, 승진해도 급료를 올려주지 못한다면, 이 이상의 일은 하지 않을 거야.
 
-	知道了。
 	わかったわ。
 	Got it.
 	알았어.
 
-	希望这会是一支能应付各种极端环境的小队。
 	どんな厳しい環境にも耐えられるチームだといいわね。
 	I hope this squad could work well in all kinds of extreme environments.
 	어떤 가혹한 환경이라도 다 버텨낼 수 있는 팀이었으면 좋겠네.
 
-	放心吧，我们很快就能回来。
 	安心して。すぐに戻るわ。
 	Don't worry, we'll be right back.
 	안심해. 금방 돌아올 거야.
 
-	不能让他们再这样滥用源石。
 	これ以上、源石の濫用を許すわけにはいかないわ。
 	We can't let them misuse the Originium like this.
 	이 이상, 오리지늄을 남용하게 놔둘 순 없어.
 
-	在。
 	ええ。
 	Here.
 	응.
 
-	作战计划是？
 	作戦は？
 	What's the battle plan?
 	작전은?
 
-	准备完毕。
 	準備完了。
 	I'm ready.
 	준비 완료.
 
-	敌人在哪里？
 	敵はどこ？
 	Where are the enemies?
 	적은 어디지?
 
-	陷下去吧！
 	埋もれろ！
 	Be swallowed by the earth!
 	묻혀라!
 
-	大地的力量......
 	大地の力を……
 	The power of the earth...
 	대지의 힘을… 
 
-	到此为止了！
 	ここまでよ！
 	Your life ends here!
 	여기까지다!
 
-	你不该踏足这里！
 	そこに立つべきじゃなかったわね！
 	You shouldn't have set foot on this land.
 	거기 서 있지를 말았어야지!
 
-	敌人的这种行为，只会招致灾难。
 	彼らの行い、災害の発生を早めるだけだわ――。
 	What the enemies are doing... will only bring disaster.
 	놈들의 행동은, 재해의 발생을 앞당길 뿐이야… 
 
-	所有敌人都处理完毕了。
 	すべての敵を排除したわ。
 	All enemies have been dealt with.
 	모든 적을 제거했어.
 
-	是一场不错的胜利呢，博士。
 	今回の勝利、悪くないわ、ドクター。
 	A fine victory, Doctor.
 	이번 승리, 나쁘지 않았어, 박사.
 
-	怎么会这样......
 	なんてことなの……。
 	How is this possible...
 	대체 어떻게 된 거지… 
 
-	这样的环境，挺适合研究的。
 	研究環境としては、悪くないわ。
 	This environment is quite suitable for research.
 	연구 환경으로써는 나쁘지 않네.
 
-	唔......
 	うぐ……。
 	Um...
 	윽… 
 
-	这块矿石......给我的？真的可以吗......这......很贵重啊？
 	この鉱石……私に？本当にいいの……？だってこれ、貴重なものよ？
 	This piece of ore... for me? Really? But... it's expensive, right?
 	이 광석을… 나한테? 정말 괜찮아…? 이거, 귀한 거잖아?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，该工作了。
 	ドクター、仕事よ。
 	Doctor, time to get to work.
 	박사, 일해야지.
+
+干员档案\Background:
+	基础档案 :
+	【代号】地灵
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】莱塔尼亚
+	【生日】4月5日
+	【种族】卡普里尼
+	【身高】161cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】アーススピリット
+	【性別】女
+	【戦闘経験】なし
+	【出身地】リターニア王国
+	【誕生日】4月5日
+	【種族】キャプリニー
+	【身長】161cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Earthspirit 
+	[Gender] Female 
+	[Combat Experience] None 
+	[Place of Birth] Leithanien 
+	[Date of Birth] Apr. 5 
+	[Race] Caprinae 
+	[Height] 161cm 
+	[Infection Status] 
+	Showed physical signs of Originium poisoning, infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 어스스피릿
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 라이타니아
+	[생일] 4월 5일
+	[종족] 카프리니
+	[신장] 161cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	地灵，地质学家。在环境评估，战场分析，地形利用等多方面工作中为罗德岛填补了该方面的空缺。 
+	目前任职于罗德岛辅助干员小组，并为罗德岛提供地质勘探、天灾预警等天灾信使的相关服务。
+
+	個人履歴 :
+	アーススピリット、地質学者。環境評価、戦場分析、地形利用などの仕事において、ロドスの空白を埋めた。
+	現在はロドスの補助オペレーターを務めながら、地質調査、天災早期警戒などの天災トランスポーターの業務も提供している。
+
+	Profile :
+	Earthspirit is a geologist. She fills the gaps we have in fields such as environmental assessment, battlefield analysis, and terrain utilization. 
+	She currently serves with a support squad performing geological surveys, early Catastrophe warnings and other related services for Rhodes Island.
+
+	프로필 :
+	    지질학자인 어스스피릿은 로도스 아일랜드의 환경 평가, 전장 분석, 지형 이용 등 다양한 방면에서의 부족한 부분을 채워주었다. 현재 로도스 아일랜드에서 서포터 오퍼레이터로 근무 중이며, 로도스 아일랜드를 위해 지질 탐사, 재앙 예보 등 재앙정보전달자의 업무도 담당하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】14% 
+	干员地灵体表已生成可见结晶，病灶处位于手腕。
+	
+	【血液源石结晶密度】0.31u/L
+	感染步入中期，尚处于可控状态。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】14%
+	アーススピリットの体には視認可能な結晶が見られる。右腕に病巣あり。
+	
+	【血液中源石密度】0.31u/L
+	感染は中期にあるが、まだ抑制可能な状態にある。
+
+	Clinical Analysis :
+	Imaging tests for this Operator showed blurry outlines of internal organs with visible dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating infection and confirming her as Infected at this stage. 
+	
+	[Cell-Originium Assimilation] 14% 
+	Operator Earthspirit showed physical signs of crystal formation, with lesioned arms. 
+	
+	[Blood Originium-Crystal Density] 0.31u/L 
+	Infection entering mid-stage, but still manageable.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 14%
+	오퍼레이터 어스스피릿 체표면 상에 이미 육안으로 확인 가능한 결정 확인, 병소는 팔목 부위
+	
+	[혈중 오리지늄 결정 밀도] 0.31u/L
+	감염이 중기에 접어듬, 아직은 컨트롤 가능한 상태.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员地灵对工作的专注人尽皆知，毕竟只要她埋下头开始研究岩石，她的世界里就会只剩下岩石。有传闻说即使是把她的午餐换成是红土她都不会发现，直到她意识到已经是下班时间。尽管她的每一分投入都总能有所回报，研究成果颇丰，但她还是会准时下班。
+	没错，因为准时下班意味着良好的作息习惯和美妙的人生历程，即使身为感染者与研究者，地灵依然如此坚持。她的敬业与专业基本都来自于她对人生的规划，无论是谁要打破这种规划，她都不会同意。
+	当然，也许会有必须让她加班的情况，那样自然就要向地灵支付高额的加班费用，还要忍受她长时间的白眼。
+	但当干员地灵工作时，看着她全神贯注的侧脸和一丝不苟的姿态，你会意识到，她确实是你见过最专业的干员之一。
+
+	第一資料 :
+	アーススピリットの仕事熱心さは周知されている。石の研究に没頭すると、彼女の世界は石一色になる。噂によれば、ランチのメニューを赤土にすり替えられても彼女は気づかず、定時になるまで仕事で頭いっぱいだ。全ての努力が報われ、かなりの研究成果を手に入れた彼女だが、定時退勤は必ず守るルールだ。
+	定時退勤は良好な勤務・休憩サイクルや素晴らしい人生を意味するのだ。感染者かつ研究者である彼女でも、このルールは譲れないものだ。彼女の勤勉さとプロ意識は全て人生プランに基づくもので、それが覆されることを彼女は決して許さない。
+	無論彼女に残業を強いる場合もあるかもしれないが、対価として高額の残業代を支払うほか、しばらく白い目を向けられることも確実だろう。
+	しかし仕事中のアーススピリットの集中する横顔と真面目な姿勢を見ると、確かに彼女は最もプロ意識の高いオペレーターの一人と気づくだろう。
+
+	Archive File 1 :
+	Operator Earthspirit is dedicated to her job. When she lowers her head to study a stone, it becomes the entire focus of her world. The joke is that even if you replaced Earthspirit's lunch with a pile of red clay, she wouldn't even notice until the end of the work day. And as much as her efforts pay off and her research bears fruit, she still makes sure to stop working at the proper time each day. 
+	She is committed to maintaining a proper work-life balance by beginning and ending her research on time. Even since becoming Infected, she still keeps this commitment to what she considers a good lifestyle. Her professionalism and determination all stem from her personal approach to life, and she won't let anyone get in the way of that approach. 
+	Of course, there are times when it will be necessary to ask Earthspirit to work overtime, at which point we will have to pay her a substantial overtime bonus, as well as endure her eye rolling. 
+	Still, when you watch Earthspirit work, when you see her intense focus, and her meticulous appearance, you will know at once that she is one of the most professional Operators you could hope to meet.
+
+	파일 자료 1 :
+	    오퍼레이터 어스스피릿의 업무에 대한 집중은 다른 사람들에게도 익히 잘 알려져있다. 그녀가 한 번 암석 연구에 몰두하기 시작하면, 그녀는 오직 암석에만 집중하는데, 들려오는 말에 따르면 그녀의 점심이 적점토로 바뀌어도 어느덧 퇴근 시간이 되었다는 사실을 인지할 때까지 전혀 눈치를 못 챌 정도라고 한다. 하지만 아무리 그녀의 이런 몰두가 훌륭한 연구 성과로 돌아온다고 해도, 그녀는 늘 퇴근 시간을 칼 같이 지킨다.
+	    그렇다. 정시 퇴근은 그녀에게 이상적인 '워라벨'을 의미하기에, 감염자이자 연구자가 되어서도 어스스피릿은 이렇게 정시 퇴근을 고집하고 있다. 그녀의 프로페셔널한 모습과 업무에 대한 책임감은 전부 그녀의 인생 규칙에서 온 것으로, 그 누가 이 규칙을 깨려 해도 그녀는 절대 고집을 굽히지 않는다.
+	    물론 반드시 추가 근무를 해야 하는 경우가 생길 수는 있겠지만, 그땐 어스스피릿에게 고액의 추가 근무 수당을 지불하고, 긴 시간 동안 계속 따가운 눈총을 받을 각오를 해둬야 한다. 하지만 오퍼레이터로서 근무할 때 온 힘을 다하는 옆모습과 빈틈없는 모습을 보게 된다면, 그녀는 당신이 봤던 사람 중 가장 프로페셔널 한 오퍼레이터 중 하나라는 것을 알게 될 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	身为地质学研究者，地灵自学生时代就对岩石研究产生了深厚的热爱。根据她的解释，籍由对不同年代，不同成分的土壤成分的研究，有助于人类更加深入地了解这片大地的历史与经历（在提及“大地”这一词汇时，地灵至少使用了四种不同语言加以描述），而研究岩石是踏入这门学科的最初，也是最为重要的一步。
+	地灵的专长领域是田野调查，她熟知不同的土壤与岩石的成分、分布与形成历史，也了解土地对人的危害是什么。不过她从未想到，有朝一日竟然能将这种技能运用在战斗中。
+
+	第二資料 :
+	地質学者として、アーススピリットは学生時代から石の研究に深い興味を持っている。彼女の説明によれば、異なる年代や成分の土への研究は、人類の大地の歴史と経歴への理解の助けとなる（「大地」という言葉に触れると、彼女は少なくとも四つ以上の言語で説明した）。石の研究はまさにこの専門に踏み入れる最初の、そして最も重要な一歩という。
+	アーススピリットの得意分野はフィールドワーク。異なる種類の土と石の成分、分布や形成する歴史を熟知し、土地が人間に与える危害もよく理解している。しかしこれらの知識を戦闘に運用する日が来るなんて、彼女は思いもよらなかった。
+
+	Archive File 2 :
+	As a geological researcher, her passion for rocks began when she was still in school. According to Earthspirit, studying the soil composition of samples from different eras will help us better understand the history of the land (she used at least four descriptors for the 'land' alone). The study of rocks is the most fundamental discipline in the field, and also the most important. 
+	Earthspirit's specialty is field surveys. She knows the formation, layout and history of all manner of different rocks and sediment, as well as what danger different forms of terrain could present to people. She never thought, though, that she would end up applying her expertise in battle.
+
+	파일 자료 2 :
+	    지질학자로서, 어스스피릿은 학창 시절부터 암석 연구에 심취해 있었는데, 그녀의 해석에 따르면 서로 다른 연대나 다른 성분의 토양 성분을 연구하는 것은 인류가 이 거대한 대지의 역사와 경험을 더욱 깊이 이해하는데 도움이 된다고 한다. ('대지'라는 말을 언급할 때, 어스스피릿은 최소 다른 네 개의 언어를 사용하여 설명을 보충하였다) 암석 연구는 바로 이 분야의 첫 번째이자, 가장 중요한 단계이다.
+	    어스스피릿의 전공분야는 들판에 대한 조사로, 그녀는 서로 다른 토양과 암석의 성분을 이해하고 있으며, 그들의 분포와 형성의 역사, 그리고 토지가 인류에게 가져오는 위해에 대해서도 이해하고 있었다. 하지만 그녀는 언젠가 자신의 이런 기술들을 전투에서 활용할 날이 오리라곤 상상도 하지 못했다.
+
+———————————————————————————————
+
+	档案资料三 :
+	地灵成为感染者的契机是在一次针对源石采样的田野调查中。不过对于自己成为感染者一事，她显得缺乏兴趣，因为这并未使她更加贴近源石或别的什么石头，反而成了妨碍她工作的关键。地灵向提供给她治疗方案的罗德岛投入了百分百的信任，因为她根本没有功夫去管顾自己的病症。
+	基于缺乏更多研究经费的原因，地灵在田野调查工作中会顺带帮助临近的村镇或城市提供有关天灾调查与预警的工作，这使得她成为了一名天灾信使（地灵着重地强调，天灾信使理应只是她的副业，但人们显然是因为这层身份才更多地求助于她，这使得她非常困扰）。
+	在天灾信使中，地灵与普罗旺斯有一定交情（在罗德岛，作为干员的普罗旺斯依然发挥着天灾信使这一重要的职能），而对于同族后辈，同时也是火山学家的艾雅法拉，地灵在工作中也对其多有照顾。
+
+	第三資料 :
+	アーススピリットが感染者になるきっかけは、ある日の源石サンプリングに関するフィールドワークだった。しかし自分が感染者になったことに、彼女は興味を示さなかった。感染によって今以上に源石や他の石に近づけることはなく、逆に仕事に支障をきたしているからだ。自身の病気に構う暇が全くない彼女は、治療方針を提供してくれるロドスには全面の信頼を寄せている。
+	研究経費が不足しているため、彼女はフィールドワークの合間に、近くの村や町の天災調査と早期予防に協力している。これによって、彼女は天災トランスポーターも兼任している（本人はただの副業と主張しているが、人々がこちらの業務めがけて助けを求めてくるため彼女はかなり困惑している）。
+	天災トランスポーターの中で、アーススピリットと比較的に親交があるのはプロヴァンス（ロドスではオペレーターを務めるプロヴァンスは天災トランスポーターとしても機能している）。また同族の後輩である火山学者のエイヤフィヤトラに対して、彼女は仕事中にいつも気にかけている。
+
+	Archive File 3 :
+	Earthspirit became infected while collecting Originium samples in the field. She seems rather apathetic towards her infection, however, because it failed to enhance her connection to Originium or any other geological formation. In fact, it has turned out to be a major hindrance to her work. She completely trusts the course of treatment offered to her because she hasn't the time to worry about her affliction. 
+	To raise funds for her research, Earthspirit would also provide early Catastrophe warnings to towns and cities nearby while performing field surveys. Therefore making her a Herald of Catastrophe (despite her repeated insistence that it's only a second job, people still sought out her expertise).
+	Among the Herlads of Catastrophe, Earthspirit and Provence are friends (Provence still performs her duties as a Herald of Catastrophe while serving as a Rhodes Island Operator). Earthspirit also mentors volcanologist and fellow Caprinae, Eyjafjalla, on occasion.
+
+	파일 자료 3 :
+	    어스스피릿이 광석병에 감염된 건 그녀가 오리지늄 샘플 채취를 위해 들판 조사를 나갔을 때였다. 자신이 감염자가 된 사건에 관해, 그녀는 감염자가 된 것이 오리지늄이나 다른 광석에 대한 연구를 용이하게 만들어 주는 것이 아니라, 오히려 이를 방해하는 요인이 되었다는 점 때문에 별 감흥을 보이지 않았다. 어스스피릿은 자기 자신의 병을 돌볼 겨를이 없었기 때문에, 자신에게 치료 방안을 제공하는 로도스 아일랜드를 100% 신뢰하였다.
+	    연구비가 많이 부족했던 어스스피릿은, 들판 조사 작업 중 인접한 마을이나 도시에서 재앙 조사 및 경보를 전파하는 일을 하였는데, 이것을 계기로 그녀는 재앙정보전달자가 되었다. (어스스피릿은 '재앙정보전달자'는 자신의 부업일 뿐이며, 이런 그녀의 신분 때문에 오히려 점점 더 많은 사람들이 도움을 청해와서 무척 곤란해 하고 있다는 점을 거듭 강조하였다.)
+	    재앙정보전달자로서 어스스피릿은 프로방스와 어느 정도 친분이 있으며, (로도스 아일랜드에서 오퍼레이터로 일하고 있는 프로방스는 여전히 재앙정보전달자라고 하는 중요한 직무를 맡고 있다) 동족 후배이자, 화산학자이기도 한 에이야퍄들라를 업무 중에도 여러모로 챙겨주고 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	据干员地灵反馈，她所持有的法杖上的源石经常在她的耳边形成絮语。这种絮语原本只是根本听不懂的噪音，但进入罗德岛后，这种絮语开始有了一定的分辨度。 
+	地灵表示这种感觉让她非常反感。但由于她的法杖是特别定制的产品，在满足莱塔尼亚法术流派释放法术的技能同时，加入了以音波形式进行地质勘探等功能，她无法舍弃这根法杖而换成其他产品，因此地灵只能选择接受，并努力使这种絮语成为其生活与工作的一部分。 
+	鉴于这种噪音只有地灵一人能够听见，目前尚未收到其他干员有关这种噪音的反馈，建议以经矿石病强化后的工作压力造成的疲劳性耳鸣作为处理方案参考。
+
+	第四資料 :
+	アーススピリットによると、彼女のアーツユニットに付いている源石は、よく耳元に囁いてくる。最初は意味不明の騒音にすぎなかったが、彼女がロドスに入ってから、この音を少しずつ識別できるようになってきた。
+	この感覚を彼女は不快に思うが、特注品のアーツユニットであり、リターニア流のアーツを放つと同時に音波で地質調査する機能も兼ね備えるため、ほかの製品に替えることは到底できなかった。結果彼女は、この囁きを生活と仕事の一部として受け入れるしかなかった。
+	この音はアーススピリットにしか聞こえず、ほかの人からの意見はまだ届いていない。鉱石病に強化されたストレスによる疲労性耳鳴りとして対処することを勧める。
+
+	Archive File 4 :
+	According to Earthspirit, the hunk of Originium on her staff often speaks to her. Before arriving at Rhodes Island, it was unintelligible chatter. But now she finds she can understand some of what it has to say. 
+	Earthspirit finds this unnerving, but since her staff was custom-enchanted with Leithanienn Arts and sonar projection added for geological surveys, she couldn't give it up. So she has to live with the voice and get used its chattering as part of her job. 
+	Since no one but Earthspirit can hear the voice and no other Operators have complained, treatment for chronic occupational stress-related tinnitus should be considered.
+
+	파일 자료 4 :
+	    오퍼레이터 어스스피릿의 피드백에 의하면, 그녀가 가지고 있는 마법 지팡이에 장착된 오리지늄은 항상 그녀의 귀를 향해 재잘거린다고 한다. 원래는 이 소음이 무슨 뜻인지 전혀 알아들을 수 없었으나, 로도스 아일랜드에 오고 난 후로 이에 대해 어느 정도 분별력이 생겼다. 
+	    어스스피릿은 이 감각이 무척 불편하지만, 그녀의 마법 지팡이는 특별 주문 제작품이라 라이타니아 마법 유파의 마법 시전 기능 구현이 가능하며, 음파를 통한 지질 탐사까지 가능했기에, 어스스피릿은 어쩔 수 없이 다른 지팡이로 바꾸지도 못하고 이 재잘거림을 계속 듣고 있을 수 밖에 없으며, 이것이 그녀의 삶과 일의 일부가 될 수 있도록 노력하고 있다.
+	    이 소음에 대한 피드백은 어스스피릿을 제외한 다른 오퍼레이터로부터는 받은 적이 없다는 점을 감안하여, 광석병 증세 악화와 업무성 스트레스에 의해 발생한 피로성 이명 현상을 치료 방안에 참고하길 권장한다.

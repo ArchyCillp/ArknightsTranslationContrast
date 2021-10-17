@@ -1,11 +1,17 @@
 ID:
 	char_336_folivo
 
-干员代号\Name:
+CV:
 	稀音
 	シーン
 	Scene
 	씬
+
+干员代号\Name:
+	天野聪美
+	天野聡美
+	Satomi Amano
+	아마노 사토미
 
 招聘合同\Character Usage:
 	战场摄影师稀音，忠实履行自己的职责。
@@ -43,177 +49,543 @@ ID:
 	과다 노출 풍경 촬영
 
 语音\Voices:
-	“需要交给稀音小姐的任务，请直接让镜头来代劳吧。”
 	「シーンお嬢様への任務は、このレンズにお任せください。」
 	'Please give any tasks that require doing directly to Lens.'
 	"씬 아가씨의 임무는 이 렌즈에게 맡겨 주십시오."
 
-	“稀音小姐是各大摄影比赛自然和静物组的双料冠军，如果有人愿意等，拿肖像组冠军的概率也会大幅增加。博士你来当稀音小姐的模特好不好？”
 	「シーンお嬢様は大手写真コンテストにて、自然部門と静物部門での二冠王を獲得されました。もしお嬢様に気長に付き合っていただける方がいらっしゃれば、ポートレート部門での優勝確率も大幅に上昇します。ドクター様、シーンお嬢様の撮影モデルになっていただけませんか？」
 	'Miss Scene is the simultaneous champion of the Nature and Still-Life categories in major photography competitions. If anyone is willing to wait, the probability of winning the Portrait category will also increase significantly. Doctor, do you want to be a model for Miss Scene?'
 	"씬 아가씨는 대규모 사진 콘테스트에서 자연 사진 부문과 정물 사진 부분 2관왕을 차지하셨습니다. 만약 아가씨와 느긋하게 어울려 주실 수 있는 분이 계신다면 인물 사진 부문에서의 우승 확률도 크게 상승할 겁니다. 박사님, 씬 아가씨의 촬영 모델이 되어 주시지 않겠습니까?"
 
-	“检测到博士的耐心正在消逝，开始运行安慰程序——距离稀音小姐完成拍摄还剩不足半小时，请再坚持一下。”
 	「ドクター様の忍耐力減衰を検知。ご機嫌取りプログラムを起動――シーンお嬢様が撮影完了するまであと30分もかかりません。どうかもう少しだけご辛抱ください。」
-	'Detecting that the Doctor’s patience is fading. Commencing conciliation sequence — there is only less than half an hour left before Miss Scene completes the shooting. Please hold on a bit longer.'
+	'Detecting that the Doctor's patience is fading. Commencing conciliation sequence — there is only less than half an hour left before Miss Scene completes the shooting. Please hold on a bit longer.'
 	"박사님의 인내력 감소를 감지. 비위 맞추기 프로그램 기동…… 씬 아가씨가 촬영을 마치실 때까지 앞으로 30분도 남지 않았습니다. 부디 조금만 더 참아주시면 감사하겠습니다."
 
-	“隔壁的札拉克又来找稀音小姐了，虽然小姐还没笑出来，但我知道她很开心。”
 	「隣室のザラックがまたシーンお嬢様にちょっかいを出しています。お嬢様はまだ笑ってはおられませんが、楽しんでおられます。」
-	'The Zalak next door is looking for Miss Scene again. Though she hasn’t laughed yet, I can tell she’s very happy.'
+	'The Zalak next door is looking for Miss Scene again. Though she hasn't laughed yet, I can tell she's very happy.'
 	"옆방의 자라크가 또 씬 아가씨에게 찝쩍대고 있습니다. 아가씨는 아직 웃지는 않으시지만, 즐거워하고 계십니다."
 
-	“其实稀音小姐原本要给哥伦比亚的摄影器材巨头当专职摄影师的，不知怎么就来您这里当干员了。据镜头推测可能是因为对方让她拍的东西，她不喜欢。是的，稀音小姐就是这么挑剔。”
 	「シーンお嬢様はクルビアの撮影機材トップメーカーの専属カメラマンになるはずだったのですが、何故かあなた様の下でオペレーターになられました。レンズの推測によりますと、撮影させられた内容が気に入らなかったものと思われます。ええ、お嬢様は好き嫌いが激しいのです。」
-	'Truthfully, Miss Scene originally wanted to work as a full-time photographer for a giant photographic equipment company in Columbia, but she ended up as an operator here anyway. According to Lens, it may be because the other party asked her to take pictures that she didn’t want to. Indeed, Miss Scene is very picky.'
+	'Truthfully, Miss Scene originally wanted to work as a full-time photographer for a giant photographic equipment company in Columbia, but she ended up as an operator here anyway. According to Lens, it may be because the other party asked her to take pictures that she didn't want to. Indeed, Miss Scene is very picky.'
 	"씬 아가씨는 컬럼비아 최고의 촬영기자재 메이커 전속 카메라맨이 될 예정이었습니다만, 어째서인지 당신의 밑에서 오퍼레이터가 되셨습니다. 렌즈의 추측에 의하면 촬영하셔야 했던 내용이 마음에 들지 않으셨던 것 같습니다. 네, 아가씨는 호불호가 강하시다 보니."
 
-	看到喜欢的，就要拍下，存起来。
 	好きなものは、撮って、保存する。
 	W h e n   y o u   s e e   s o m e t h i n g   y o u   l i k e ,     y o u   h a v e   t o   t a k e   a   p h o t o .
 	좋아하는 건…… 찍어서…… 저장…… 해……
 
-	“博士你又想逗稀音小姐笑吗？其实她已经笑了，虽然想看到笑容需要等，再等，继续等，一直等到嘴角的弧度变得完美为止。这个过程会耗时——不知道几分钟，全看小姐今天心情如何。”
 	「ドクター様、またシーンお嬢様を笑わせようとしておられるのですか？実はもう笑っておられますよ。ですがその笑顔を見るには、まずは待って、更に待って、そして繰り返し待つのです、彼女の口角が完璧に上がるまで。何分かかるかは――今日のお嬢様の気分次第です。」
-	'Doctor, are you trying to get Miss Scene to laugh again? In actuality, she is already laughing, but if you want to see it, you’ll have to wait, and wait, and wait... and continue waiting until the curvature of her mouth becomes perfect. This process will take time — I can’t tell you in exactly how many minutes, but it all depends on how the lass is feeling today.'
+	'Doctor, are you trying to get Miss Scene to laugh again? In actuality, she is already laughing, but if you want to see it, you'll have to wait, and wait, and wait... and continue waiting until the curvature of her mouth becomes perfect. This process will take time — I can't tell you in exactly how many minutes, but it all depends on how the lass is feeling today.'
 	"박사님, 또 씬 아가씨를 웃게 하시려는 겁니까? 실은 이미 웃고 계시답니다. 그러나 그 미소를 보시려면 우선 기다리고, 또 기다리고, 그리고 계속 기다리셔야 합니다. 아가씨의 입꼬리가 완벽하게 올라갈 때까지. 몇 분이 걸릴지는… 오늘 아가씨의 기분에 달렸습니다."
 
-	“镜头一直在等一个能够理解稀音小姐的人，但现在罗德岛内有许多人都愿意来接触她，镜头感到了快乐，希望有一天小姐能真正找到完美替代镜头的生物。”
 	「レンズはシーンお嬢様のことをご理解いただける方を待ち焦がれていました。ですが今のロドスには、もう何人もお嬢様と好意的に接する方がいらっしゃいますので、レンズは感激しております。いつの日か、お嬢様がレンズに完璧に取って代わる生物を見つけられることを祈っております。」
 	'Lens has long been waiting for someone who can understand Miss Scene, but now there are many people in Rhodes Island who are willing to interact with her. This makes Lens very happy, and I wish that one day Miss Scene can find someone who can replace me.'
 	"렌즈는 씬 아가씨를 이해하실 수 있는 분을 애타게 기다려 왔습니다. 그런데 지금 로도스 아일랜드에는 이미 몇 분이나 아가씨와 호의적으로 교류하시는 분이 계셔서 렌즈는 감격하고 있습니다. 언젠가 아가씨가 렌즈를 완벽하게 대신할 생물을 발견하시기를 바라고 있습니다."
 
-	这是照相机，给你的礼物。谢谢你，博士。
 	このカメラ、あげる。ありがとう、ドクター。
 	T h i s   c a m e r a.   F o r   y o u .  T h a n k  y o u .   D o c t o r  .
 	이… 카메라… 줄게…… 고마워… 박사……
 
-	“正在播放音乐——《D.D.D.热门串烧》。”
 	「ただいま再生中の曲は――『D.D.D.メドレー』です。」
 	'Now Playing —— [[ D.D.D. Smash Hits ]] '
 	"현재 재생 중인 곡은…… D.D.D. 메들리입니다."
 
-	“摄影师稀音与摄影辅助机器人镜头，很高兴能认识你。”您好。
 	「カメラマンのシーン及び撮影サポートロボットのレンズです。どうぞよろしくお願いします。」はじめまして。
 	'Photographer, Scene, and Robotic Photography Assistant, Lens. We are pleased to make your acquaintance.'  H e l l o .
 	"카메라맨 씬, 그리고 촬영 보조 로봇인 렌즈입니다. 아무쪼록 잘 부탁드립니다." / 처음…… 뵙겠습니다……
 
-	“请求重放，重复一遍，请求重放。”
 	「プレイバックをお願いします。繰り返します、プレイバックをお願いします。」
 	'Please repeat it again. Repeat. Please repeat it again.'
 	"다시 재생하여 주시기 바랍니다. 반복합니다. 다시 재생하여 주시기 바랍니다."
 
-	“配件已升级，稀音小姐向你表示感谢。”
 	「パーツの更新が完了しました。シーンお嬢様より感謝の意が届きました。」
 	'Accessory upgrade complete. Miss Scene thanks you.'
 	"파츠 업데이트를 완료했습니다. 씬 아가씨로부터 감사의 메시지가 도착했습니다."
 
-	你也有想看的风景吗。
 	あなたにも、見てみたい景色はある？
 	I s   t h e r e   s c e n e r y    y o u   w a n t   t o   s e e ?
 	당신에게도…… 보고 싶은 풍경이…… 있어……?
 
-	“已获取队友数据。”
 	「隊員データを取得しました。」
 	'Teammate data has been obtained.'
 	"팀원 데이터를 취득했습니다."
 
-	“已获取子数据。”
 	「サブデータを取得しました。」
 	'Sub-data obtained.'
 	"서브 데이터를 취득했습니다."
 
-	“确认到出行讯号。”
 	「出発の信号を確認しました。」
 	'Signal to depart confirmed.'
 	"출발 신호를 확인했습니다."
 
-	“已启动巡航程序。”
 	「巡航プログラムを起動しました。」
 	'Cruise program activated.'
 	"순항 프로그램을 기동했습니다."
 
-	“镜头为您效劳。”
 	「レンズがあなたのために尽力します。」
 	'Lens is here to work for you.'
 	"렌즈가 당신을 위해 최선을 다하겠습니다."
 
-	在。
 	はい。
 	Here.
 	네……
 
-	“开始摄像。”
 	「撮影、開始します。」
 	'Beginning photoshoot.'
 	"촬영, 시작합니다."
 
-	嗯。
 	うん。
 	Mhmm.
 	응…
 
-	“拍摄——”
 	「撮影――」
 	'Shooting——'
 	"촬영~!"
 
-	“曝光——”
 	「露出――」
 	'Lights——'
 	"노출~!"
 
-	“全景——”
 	「パノラマ――」
 	'Panorama——'
 	"파노라마~!"
 
-	“延时——”
 	「タイムラプス――」
 	'Time Lapse——'
 	"타임 랩스~!"
 
-	恭喜。
 	おめでとう。
 	C o n g r a t s .
 	축하해……
 
-	“任务完成，正在把稀音小姐运回基地。”
 	「任務完了しました。シーンお嬢様を基地までお送りします。」
 	'Mission complete! Miss Scene is currently being transported back to base.'
 	"임무를 완료했습니다. 씬 아가씨를 기지까지 모시겠습니다."
 
-	“回基地的路不太平坦呢。”
 	「基地への帰り道はやや険しい様子です。」
-	'The way back to the base won’t be smooth.'
+	'The way back to the base won't be smooth.'
 	"기지로의 귀로가 조금 험한 모양입니다."
 
-	“请撤离该区域，请撤离该区域。”
 	「当エリアより撤退してください。当エリアより撤退してください。」
 	'Please evacuate from the area! Please evacuate from the area!'
 	"해당 구역에서 퇴각하여 주십시오! 해당 구역에서 퇴각하여 주십시오!"
 
-	“请为稀音小姐安排吊床，谢谢。”
 	「シーンお嬢様のためにハンモックのご用意をお願いします。ご協力ありがとうございます。」
 	'Please order a hammock for Miss Scene. Thank you for your cooperation.'
 	"씬 아가씨를 위해 해먹 준비를 부탁드립니다. 협력에 감사드립니다."
 
-	唔？
 	ん？
 	Yeah?
 	으응……?
 
-	拍一张吗？
 	一枚どう？
 	W a n t   a   p h o t o ?
 	한 장…… 어때……?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠……
 
-	又见面了。“您好，您好。”
 	また会えたね。「こんにちは。こんにちは！」
 	H  e  l  l  o  . 'Hello! Hello!'
 	또… 만났네… / "안녕하세요. 안녕하세요!"
+
+干员档案\Background:
+	基础档案 :
+	【代号】稀音
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】萨尔贡
+	【生日】12月31日
+	【种族】皮洛萨
+	【身高】154cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】シーン
+	【性別】女
+	【戦闘経験】なし
+	【出身地】サルゴン
+	【誕生日】12月31日
+	【種族】ピロサ
+	【身長】154cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Scene
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Sargon
+	[Date of Birth] Dec 31
+	[Race] Pilosa
+	[Height] 154cm
+	[Infection Status] 
+	Confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 씬
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 사르곤
+	[생일] 12월 31일
+	[종족] 필로사
+	[신장] 154cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】缺陷
+	【生理耐受】标准
+	【战术规划】普通
+	【战斗技巧】普通
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】欠落
+	【生理的耐性】標準
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Flawed
+	[Physical Resilience] Standard
+	[Tactical Acumen] Normal
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 부족
+	[생체 인내도] 표준
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	摄影师稀音，擅长以摄影辅助设备“镜头”为主的机器人小队勘察战场，传达图像信息，同时为罗德岛提供野地考察与战场侦察服务。不过，干员稀音的运动能力十分低下，辅助工作的后勤干员必不可少。
+
+	個人履歴 :
+	カメラマン。撮影サポートロボ「レンズ」をはじめとするロボットチームを駆使して戦場の状況を偵察し、撮影した画像情報を提供することを得意としている。ロドスでは野外調査や戦場偵察などを担当しているが、運動はかなり苦手としているため、サポートする者を必要とする。
+
+	Profile :
+	Scene, photographer, specializes in using her photography auxiliary equipment, a robotic buggy named 'Lens,' to survey the battlefield. She provides visual information and works to provide field investigation and battlefield reconnaissance services to Rhodes Island. However, Scene's athletic abilities are extremely limited, so the support of logistics operators are absolutely crucial.
+
+	프로필 :
+	    사진사 씬은 촬영 보조 장비인 '렌즈'를 필두로 하는 로봇 팀을 이용해 전장을 탐사하고 영상 정보를 전송하는데 뛰어나며, 로도스 아일랜드에 야외 탐사 및 전장 정찰 서비스를 제공한다. 하지만 오퍼레이터 씬의 운동 능력은 매우 떨어지므로 업무를 보조해줄 오퍼레이터가 반드시 필요하다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】1%
+	腿部有源石感染痕迹。
+	
+	【血液源石结晶密度】0.21u/L
+	体内情况十分稳定，暂没有扩散痕迹。
+	
+	“她似乎已经感染一段时间了，但矿石病没有加速扩散的迹象，代谢慢也是有好处的。不过，她的咽喉没问题啊，她完全不说话，怎么回事啊。”——某新人医疗干员
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】1%
+	脚部に源石感染の痕跡あり。
+	
+	【血液中源石密度】0.21u/L
+	容体は安定している。現時点では拡散傾向は見られない。
+	
+	「感染から随分と経ちますが、鉱石病が広がる様子はないようです。代謝が遅いのも悪いことばかりではないですね。でも、喉に問題はないはずなのに、全然喋らないのはどうしてでしょうか。」――某新人医療オペレーター
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 1%
+	There are traces of Originium infection on the legs. 
+	
+	[Blood Originium-Crystal Density] 0.21u/L
+	The infection status is stable and there is no visible evidence of metastasis. 
+	
+	'She seems to have been infected for a while now, but her Oripathy shows no signs of acceleration. I guess slow metabolism actually helps with that. However, even though there aren't any issues with her throat, I've never heard her talk. I wonder what the problem is.' —A new medic operator
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 1%
+	다리 부위에 오리지늄 감염 흔적이 있다.
+	
+	[혈중 오리지늄 결정 밀도] 0.21u/L
+	체내 상황은 충분히 안정적이며, 현재 확산 흔적은 보이지 않는다.
+	
+	    "감염된지 어느정도 시간이 흐른 것 같지만, 광석병 확산이 가속화되는 흔적은 보이지 않아. 신진 대사가 느린것도 도움이 됐겠지. 하지만 인후부에는 아무 문제가 없는데도 그녀는 아무 말을 하지 않아, 왜 그런 걸까."——어느 신입 메딕 오퍼레이터
+
+———————————————————————————————
+
+	档案资料一 :
+	“沉默寡言”。
+	就连这个形容词也不是特别合适。干员稀音不是沉默寡言，她是根本不说话。
+	一旦她不在宿舍里，跑遍罗德岛也是找不到她的，只能干脆在宿舍等她。
+	这时候，稀音的辅助设备“镜头”就派上了用场。幸亏那是个聒噪的小机器人，音量也不小。只要它出声，干员们就知道稀音在哪了。
+
+	第一資料 :
+	「寡黙」。
+	この言葉ですら、彼女を的確に形容できているかはわからない。シーンは寡黙どころではなく、ほとんど喋らないのである。
+	彼女が宿舎にいないのならば、全ロドスを駆け回っても彼女を見つけることはできない。結局宿舎で彼女の帰りを待つしか手段はないのだ。
+	そんな時には、シーンのサポート係でもある「レンズ」が役にたつ。この口煩く騒がしいロボットの声がすれば、自ずとシーンの居場所がわかるからである。
+
+	Archive File 1 :
+	'Quiet and Reserved.' 
+	Even these adjectives aren't even particularly suitable. Operator Scene isn't just quiet and reserved, she doesn't speak at all. 
+	As soon as she leaves her room, you could search every nook and cranny of Rhodes Island and never find her, so the only thing to do is to wait for her to return to her dorm. 
+	This is when Scene's auxiliary equipment, 'Lens,' really comes in handy. Fortunately, her robotic buggy is rather clunky, and makes a lot of noise. As long as you recognize this sound, operators will be able to determine where Scene is.
+
+	파일 자료 1 :
+	    '과묵하다'. 아니, 이 단어마저 어울리지 않을 정도로 조용하다. 오퍼레이터 씬은 과묵한 수준이 아니라 전혀 말을 하지 않는다. 일단 그녀가 숙소에 없다면 로도스 아일랜드 전체를 뒤져도 찾지 못할테니, 숙소에서 그녀를 기다릴 수 밖에 없다. 그리고 이때가 바로 씬의 보조 장비인 '렌즈'가 유용하게 쓰일 때다. 다행히도 이 시끄럽고 작은 로봇은 볼륨이 작지 않은 덕분에, 이 로봇이 소리를 내기만 하면 오퍼레이터들은 씬이 어디에 있는지 바로 알 수 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	早在萨尔贡时，稀音的家庭就为她从雷神工业订制了一整支辅助机器人小队，而“镜头”则是她机器人摄影小队的领队。
+	具备先进的光学仪器和高级的越障能力，这支辅助机器人小队成了稀音在摄影事业上的左右手。
+	在“镜头”还不会“说话”的时候，稀音就把“镜头”当做自己最好的朋友，对于稀音这样完全沉默的人来说，交朋友并不是一件容易的事情，所以比起其他人更信任自己的“工作伙伴”，也完全情有可原。
+	但可露希尔却说“那让它和你讲话不就好了”，在稀音还没来及拒绝前，“镜头”就被可露希尔改造成了能说话的摄影辅助设备。
+	据可露希尔所说，“镜头”确实与众不同，“里面有雷神工业上上代智能辅助机器人的系统，这小家伙，我只是让它能把话说出来而已。会把它当朋友很正常啦，毕竟它是真的能理解稀音在想什么哦。雷神工业是在干嘛啊，就算自己的企业已经淘汰了也不能直接拿来做商品啊，再怎么说这也是非常非常稀罕的玩意儿啊。”
+	
+	正因如此，其实不少人都认为“镜头”热衷长篇大论的习惯其实来自可露希尔。偶尔干员们也会在走廊上看见“镜头”在和Lancet-2交流，叽叽喳喳不知在嗡鸣些什么。或许它的内置思考回路本身就是这样子的，只是安装了发声设备后这一面完全表现了出来。而机器人们的小脑瓜里到底装着些什么，有时候连它们的主人也不知道。
+	原本的伙伴变成这个样子，稀音小姐会不会......感到困扰？
+	至少到现在为止，还没收到稀音小姐的发声设备卸载请求。
+
+	第二資料 :
+	サルゴンにいた時、シーンの家族は彼女のために複数のサポートロボットをオーダーメイドでレイジアン工業に発注した。その複数のロボットによるチームのリーダーを担っているのが「レンズ」である。
+	このサポートロボットチームは先進的な光学設備と高い障害物回避能力を持っており、シーンの撮影キャリアにおける欠かせぬ助手となっている。
+	「レンズ」にまだ「おしゃべり」機能が備わっていなかった頃から、シーンは「レンズ」を最も親密な友人として共に過ごしていた。シーンのようにほとんど喋らない者にとっては、友達を作ることは容易ではない。そのため、他人よりも自分の「仕事仲間」を信頼するのも理解できる流れといえよう。
+	しかしクロージャは「じゃあおしゃべりできるようにすればいいじゃない」と言って、シーンが断る前に「レンズ」に会話機能を付与してしまった。
+	クロージャによれば、「レンズ」は他のロボットとは違って、「中にはレイジアンの前前世代のAIサポートシステムがインストールされてるの。あたしはただこの子が言葉を発せるようにしただけだよ。あの子を友達扱いするのも当然といったら当然かな、だってあの子、本当にシーンが何を考えてるのかわかっちゃうんだもん。ったく、レイジアンの奴らったら何してんのさ、いくら旧世代の技術とはいえ、そのまま商品化にしちゃダメでしょ。それに、あれってホントは、今どきすごーく貴重なものなんだよ」とのことらしい。
+	
+	そのため、多くの人は「レンズ」の口煩さはクロージャ由来だと思っている。また時折、「レンズ」とLancet-2が廊下で何やらコミュニケーションを取っている姿も目撃されている。もしかすると、それは元々内包されていた思考回路自体がそのようなもので、ただ発声装置を取り付けられたらそれがわかる形で露顕しただけなのかもしれない。ロボットたちの人工頭脳の中がどのように回っているのかは、持ち主たちにもわからないことが多々あるのだ。
+	古い付き合いの相棒が今のように変わり果ててしまい、シーンは……戸惑ったりしないのだろうか？
+	少なくとも現時点では、彼女から発声設備の取り外し要請を受けてはいない。
+
+	Archive File 2 :
+	Earlier in Sargon, Scene's family ordered an entire auxiliary robot team from Raythean Industries for her, and 'Lens' was the leader of her robotic photography team. 
+	By combining cutting-edge photographic equipment with advanced all-terrain capabilities, this auxiliary robot team became the foundation of Scene's photography career. 
+	Before Lens could even 'speak,' Scene came to regard Lens as her best friend, and for a completely silent person like Scene, making friends is not an easy task. Therefore, it is totally understandable that she would trust her work partner more than others. 
+	However, Closure said one day that 'it's better to have someone who can talk with you,' and before Scene could refuse, Closure transformed Lens into a talking photography assistant. 
+	According to Closure, Lens stands out from the crowd. 'It contains the previous generation of Raythean Industries' auxiliary AI. All I did was give the little guy a way to express itself. There's nothing wrong with it becoming Scene's friend. After all, nobody else can understand what Scene is thinking. What is Raythean Industries doing anyway? Even if  these have been discontinued, you can't just go around selling off stuff like this. In any case, this thing is very, very rare.' 
+	
+	Because of this, many people believe that Lens's habit of long-windedness actually comes from Closure. Operators have occasionally reported seeing Lens communicating with Lancet-2 in the hallway, but could not figure out what the whirring and buzzing was all about. Perhaps its built-in thinking loop actually functions like this, but this quality was put on full display after the installation of a sound device. As for what goes on in the little brain of a robot, sometimes not even the owner knows. 
+	Do you think that Miss Scene is ever troubled by... what happened to her old partner? 
+	At least up until this point, I haven't received any requests from her to uninstall the sound device.
+
+	파일 자료 2 :
+	    예전 사르곤에 있을 당시, 씬의 집안은 씬을 위해 레이시언 공업에서 보조 로봇 팀을 주문 제작했는데, '렌즈'는 바로 그 로봇 촬영 팀의 리더였다.
+	 최첨단 광학 기계와 고급 장애물 돌파 능력을 보유한 이 로봇 팀은 씬의 촬영을 돕는 최고의 조수가 되어 주었다.
+	 '렌즈'가 아직 '이야기'를 할 수 없을 때, 씬은 '렌즈'를 최고의 친구로 삼았다. 씬처럼 전혀 말이 없는 사람에게 있어 친구를 사귀는 일은 마냥 쉬운 일이 아니기에, 타인보다 '작업 동료'를 믿는 것은 충분히 이해할 수 있는 일이었다.
+	 하지만 클로저는 "그러면 그 로봇과 대화하면 되잖아"라고 말했고, 미처 씬이 거절하기도 전에 '렌즈'를 말할 수 있는 촬영 보조 장치로 개조해버렸다.
+	 클로저의 말에 의하면, '렌즈'는 확실히 다른 기계와는 다른 특별한 구석이 있다고 한다. "레이시언 공업의 지난 세대 지능 보조 로봇 시스템이 탑재되어 있는지라, 난 그냥 이 녀석이 말을 뱉어낼 수 있도록 해줬을 뿐이야. 그리고 이 녀석은 씬이 무슨 생각을 하는지 진정으로 이해해 줄 수 있으니까, 녀석을 친구로 삼는 건 지극히 정상이지. 레이시언 공업은 대체 뭘 하고 있는 건지 원, 아무리 이미 도태되었다고 치더라도, 이런 식으로 상품을 만들어 내서야 되겠냐고. 뭐 아무튼 간에 이 녀석은 아주아주 희한한 물건이긴 해"
+	
+	 바로 이 때문에 많은 사람들은 '렌즈'의 이런 장황하게 말을 늘어놓는 습관이 클로저로부터 온 것이라고 생각한다. 오퍼레이터들이 복도에서 '렌즈'와 'Lancet-2'가 대화하는 모습을 볼 때면, 뭐라 재잘대는 건지 도통 알 수 없어한다. 어쩌면 그 로봇에 내제된 사고 회로가 원래 그런 것이고, 그저 발성 장치를 장착해준 걸로 그 모습이 드러난 걸지도 모르겠다. 로봇들의 작은 머리에 대체 뭐가 장착되어 있는지는, 가끔 그들의 주인조차 알 수 없을 때가 있다.
+	 예전의 동료가 이렇게 변해버렸으니 씬은 뭔가… 곤란해하지 않을까 싶기도 하지만, 적어도 지금까지 씬이 발성 장치를 제거해달라고 요청한 적은 없다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在孩提时代，稀音经常被别人捉弄，学校的教师们也基本对她采取忽视策略，这导致她很快就离开了学校，在这之后都只接受私人教育。答案很明显，“谁会喜欢和一个说一句话都要花上半天的人做朋友”？
+	孤立从课堂开始，一直蔓延到社会上，即使出身萨尔贡的显贵家庭，稀音也几乎没有从他人那里获得过认同，毋谈跻身上流圈子了。
+	当然，也许是天生的不敏感——又或许有其他原因——稀音没有被他人的言语所击败，更加幸运的是，她找到了自己真正喜爱的事业。摄影。
+	很快的，稀音拥有了自己的名声、财富，还有各种各样随之而来的东西，但她沉默以对，除了偶尔为达官贵人拍照以外，她喜欢的依旧是在远离人群的地方拍摄自己执着的事物。
+	不可否认，她的寡言少语，相较常人而言过于“精密”的动作，以及在静止时接近雕塑般的身姿，确实为她带来了社交上的困难，但这些习惯也为她的摄影事业提供了常人所不具备的优势。
+	再加上，如果你有幸看见稀音操作自己的机器人摄影小队的样子，你会想也许平常的稀音只是表现得很不好动而已。
+
+	第三資料 :
+	シーンは幼少時代、周りにからかわれることが多く、学校では教師からも無視され続けた。そのため、シーンが学校を辞め、個別教育を受けるようになるまでそう時間はかからなかった。学校でも浮いていた理由は明白だった。言葉一つするにも非常に時間がかかるシーンと、親しくなりたい子供はいなかったのである。
+	このような孤立は学校から始まり、彼女が社会に進出してからも続いていた。たとえサルゴンの裕福な家庭の出であっても、シーンは他人から認められることがほとんどなく、上流社会に溶け込むことなどもってのほかだった。
+	幸い、周りを気にしない生まれつきの鈍感さ、あるいはその他の原因もあったのかもしれないが、とにかくそのおかげてシーンは他人の言葉で傷つくことはなかった。さらに幸運なことに、撮影という真に没頭できることに出会えたのだ。
+	シーンはすぐに名声と財産を手に入れることができた。他にも色んなものが付随してきたが、彼女はそれら全てに沈黙をもって報いた。たまにセレブのために写真を撮る以外、シーンは人混みから遠く離れた場所で、自身が執着する物事のみを撮影していた。
+	口数が少ないことと、常人に比べて「精密」すぎる動き、そして静止している間は彫刻と見間違ってしまうような様子は、確かにシーンのコミュニケーションの障害となっていた。しかし、それらの習慣は同時に彼女の撮影事業に尋常ならざる優勢をもたらしたのも事実である。
+	それに、もし運良くシーンがロボット撮影チームを操っている場面に出くわすことができたなら、きっといつものシーンはわざと怠け者を装っているだけだと感じることだろう。
+
+	Archive File 3 :
+	As a child, Scene was often bullied by her peers, and her teachers basically adopted a strategy of neglecting her. This quickly pushed her out of the public school system, and since then, she has only received private education. As to why, the answer was obvious: 'Who would like to make friends with someone who takes the entire day just to say a single word?' 
+	The isolation she had suffered through in the classroom began to spread outwards into her social sphere. Even though she was born into a noble family in Sargon, Scene has hardly attained recognition from anyone, let alone the upper crust. 
+	Of course, and this may be for other reasons, Scene seems to have been born with a natural insensitivity and was never put down by the harsh words of others. Even more fortunately, she found a job that she loved — Photography. 
+	Very quickly, Scene amassed her own fame and wealth, along with everything else that came with it. However, she remains silent and, other than occasionally taking pictures of high-ranking officials, prefers to do her work away from the commotion of crowded areas. 
+	While it is true that her shyness, almost 'mechanical' movements, and her statue-like postures when stationary have brought about social difficulties, these qualities have also been immense assets towards her photography career that ordinary people simply do not have. 
+	Furthermore, if you are fortunate enough to see Scene working on her own robotic camera team, you might think that her usual behavior is just a result of not liking to expend energy.
+
+	파일 자료 3 :
+	    어린 시절 씬은 언제나 다른 사람들의 놀림을 받았다. 학교 교사들 역시 씬에게 소홀했기에 그녀는 얼마 지나지 않아 학교를 떠나 사교육을 받을 수 밖에 없었다. 이유는 간단했다. 누가 말 한 마디 하는데 하루종일 걸리는 애랑 친구가 되고 싶어하겠나.
+	 그런 고립 상태는 교실에서 시작해 사회에 나설때까지 지속되었다. 씬은 사르곤의 명문가 출신이었음에도 어느 누구에게도 인정을 받지 못했다. 상류 사회에도 입문하지 못한 건 말할 필요도 없다.
+	 물론 천성적으로 무신경한(혹은 다른 이유가 있을지도 모르지만) 씬은 타인의 말에 상처받지 않았다. 그리고 더욱 큰 행운은 씬이 진정 자신이 좋아하는 일을 찾았다는 것이다. 바로 촬영말이다.
+	 그녀는 빠르게 명성과 재물, 그리고 그에 수반하는 것들을 쌓아올리기 시작했다. 하지만 그녀는 여전히 과묵했고, 가끔 고위층을 촬영해주는 것 말고는, 여전히 사람들로부터 떨어진 곳에서 자신이 좋아하는 사물을 촬영하는 걸 좋아했다.
+	 그녀의 과묵함과 보통 사람들에 비해 '지나치게 정밀한' 동작, 그리고 정지해 있을 때의 조각과도 같은 모습 등이 그녀의 사교 관계에 어려움을 가져다 주었다는 점은 부정할 수 없는 사실이다. 하지만 한편으론 그런 습관들은 그녀의 촬영 작업에 있어 보통 사람들이 갖추지 못한 장점이란 것도 사실이다.
+	 그리고 만약 운좋게 씬이 자신의 로봇 촬영 팀을 다루는 모습을 볼 수 있다면, 당신은 평소에 씬이 그저 움직이기 싫어했던 것 뿐이라고 생각할 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	出人意料的是，“镜头”告诉可露希尔，那个时候，稀音完全可以离开天灾现场的。
+	但是，稀音为了抓住天灾发生的关键性瞬间，自己反而被天灾波及，感染了矿石病。
+	以“镜头”的描述，我们完全无法了解稀音这么做是为了能让更多人了解到天灾，还是说她当时确实被天灾发生的景象抓住了心。它只是在那里不停叙说着主人如何拍摄天灾的场景。
+	不管怎么样，稀音活了下来。
+	在遭受感染后，她的父母咨询过数个医疗组织，最后决定将她送往罗德岛医治，但是自此之后，他们就再没有与女儿联系过。鉴于萨尔贡内部复杂的政治形势，这种决定在有些干员看来几乎是理所应当的。
+	稀音并没有向谁抱怨过什么。至少她没向任何人这么说起过。
+	没过多久，她就开始向罗德岛申请野外考察资格，甚至是想要和其他干员们一起上战场，获取更多的影像。这意味着稀音可能会被卷入战斗，甚至是丢掉生命。
+	但她并不在乎。“镜头”十分自豪地说，它和稀音去过的地方可比罗德岛想象的要糟糕得多，他们遇见过的危险也比现在这些可怕的多。
+	一方面来说，的确，稀音可能已经磨练出了一身本领，能够从容面对他人的质疑 ；而从另一个角度来说，稀音坚持的是自己的事业。她相信，通过自己的双眼与镜头，她能帮助更多像自己一样比起语言对图像更敏感的人，而她自己也能看到更多，更多。
+	稀音曾经少见地开口，在同宿舍的干员们谈到家庭的时候。稀音说，她相信自己的伙伴，“镜头”就是自己最好的家人之一。
+	以及，她相信自己的父母。如果她的父母不爱她，那么他们就不会这么教育自己——
+	“我们与生俱来的一切就都是有意义的，只是这个意义只有你能发现。只要你去做，我们就支持你。”
+	虽然稀音不说，但也许她现在也很幸福。
+	以及，可露希尔是从哪弄来的稀音的声音放进“镜头”的音频库里去的？！
+	......
+	什么？稀音有时候会靠“镜头”来发声的吗？
+	那，我们要怎样才能知道，现在对我说话的
+	是“镜头”
+	还是稀音本人呢？
+	靠猜？
+	好吧......
+
+	第四資料 :
+	意外なことに、クロージャが「レンズ」から聞いた話によると、天災に遭遇した際、シーンは現場から離れることは十分可能だったはずだという。
+	だが、シーンは天災発生の瞬間という決定的な場面を捉えるためにその場に留まり、その結果鉱石病に感染してしまったのだ。
+	「レンズ」が語った内容からでは、我々はシーンがその場に留まり続けた理由を正確に把握することはできない。より多くの人に天災の真実を知ってもらうためなのか、あるいは目の前に広がる天災の景色に心を奪われてしまったためなのか、その答えはわからない。「レンズ」はただ饒舌に、主人がどのようにして天災の撮影を続けていたかを語り続けるだけだった。
+	何はともあれ、シーンは生き残った。
+	感染後、シーンの両親はいくつかの医療組織を訪ね、最終的にはロドスを治療先として選び、娘を任せた。しかしそれ以降、彼らは一度も娘と連絡を取ろうとしていない。一部のオペレーター曰く、サルゴン内部の複雑な政治形勢を鑑みれば、これが当たり前であるらしい。
+	シーンは誰にも怨み言をこぼしたことはない。少なくとも誰も彼女からこの類の話を聞いていない。
+	ロドスに来てそう時間が経たないうちに、シーンはロドスに野外調査の資格申請を行った。更には他のオペレーターたちと共に戦場に立ち、より多くの映像を撮影したいと望んだ。それが意味するのはシーンが戦闘に巻き込まれるかもしれない、更には命さえ落とすかもしれないことと知りながら。
+	だがシーンは、そんなことを気にかける様子はなかった。「レンズ」の自慢話によれば、シーンと共に踏破してきたところはロドスが想像するものよりはるかに過酷であり、その際に陥った危機も今のものよりずっと恐ろしかったという。
+	シーンは既に他人の非難に動じないほどの腕前を身につけている。また、自らが選んだ道を信じて歩み続けていることも、その心の礎となっている。自分の目とカメラのレンズを通して、自分と同じように言語より画像情報を重んじる者の助けになり、また自分自身もより広く世界を認識していけるものだと、強く信じているのだ。
+	同じ宿舎に住むオペレーターたちが各自の家庭について雑談をしていた時、シーンは珍しく口を開いたことがあった。彼女は自分の相棒、つまり「レンズ」のことを信じており、最も大切な家族のひとりであると語った。
+	そして、彼女は両親を信じている。もし自分を愛していなかったら、きっとこのような言葉を自分に贈ってくれなかっただろう、と。
+	「私たちが生まれ持った全てに意味がある。その意味を見出すのはお前自身にしかできないことだ。お前はただやりたいことをやればいい。私たちが必ずお前を支えるから。」
+	シーンは言葉にしないが、きっと今も幸せなのだろう。
+	そういえば、クロージャはどこからシーンの音声データを入手して、「レンズ」の音声素材にしたんだ？！
+	……
+	え？シーンは時々「レンズ」を介して声を出す？
+	では、話しかけてきてるのが「レンズ」なのかシーン本人なのかは、どうやって聞き分ければいいんだ？
+	当てずっぽう、だと？
+	ああ、そう……
+
+	Archive File 4 :
+	Unexpectedly, Lens once told Closure about the time when Scene completely had the ability to leave the site of an impending Catastrophe.
+	However, in order to catch the critical moment of the Catastrophe breaking, Scene was caught inside the Catastrophe and contracted Oripathy. 
+	According to Lens's description, we have no idea whether Scene did this to let more people learn about Catastrophes, or if she just spellbound by the view. All we know is that she continued to stay there, weaving a masterful tale about the unfolding of a Catastrophe with her camera. 
+	Regardless of what happened, at least Scene survived. 
+	After Scene contracted Oripathy, her parents consulted several medical organizations and finally decided to send her to Rhodes Island for treatment; however, they've never contacted their daughter since then. In the face of the somewhat complicated political situation in Sargon, this kind of decision seems almost natural to some operators. 
+	Scene herself also doesn't seem to mind. Or if she does, she hasn't told anyone. 
+	It didn't take long before she started to apply for the qualifications to work in the field, and even wanted to accompany operators to the battlefield in order to shoot more images. This means that Scene may be involved in battle, and possibly even lose her life. 
+	But she didn't let that dissuade her. Lens is very proud to say that the places they've been to have been far worse than what people in Rhodes Island can imagine, and the dangers they've encountered are far more terrifying than what they now are dealing with. 
+	While Scene may have already honed her skills and be able to calmly face the doubts of others, another interpretation is that she might just be very dedicated to her trade. She believes that through her eyes and her lens, she can help others who are more sensitive to images than they are to words, just like her, see more and more of the world. 
+	Scene very rarely says anything, but she did speak once with her dorm mates when discussing her family. She said, she believes in Lens, and deems the robot to be part of her family.
+	Also, she said that she believes in her parents. If her parents didn't love her, they never would've raised her in the way they did—
+	'Everything we are born with in life is meaningful, but you are the only one who can discover that meaning. As long as you'll go do it, we will support you.' 
+	Even though Scene doesn't express it, she may perhaps be very happy now. 
+	By the way, how did Closure manage to get a sample of Scene's voice to build Lens's audio library?! 
+	......
+	What? Does Scene use Lens to speak for her sometimes? 
+	Hmm, how do I know whether the one talking to me
+	is Lens,
+	or if it is actually Scene talking? 
+	If I had to guess? 
+	Let's see.......
+
+	파일 자료 4 :
+	    의외인 점은, '렌즈'가 클로저에게 말하길, 재앙이 발생한 순간, 씬은 재앙의 현장에서 완전히 벗어날 수 있었다는 것이다.
+	    하지만 씬이 재앙 발생의 중요한 순간을 포착하기 위해 현장에 남았고, 결국 그로인해 광석병에 감염되었다.
+	    '렌즈'의 설명을 들은 우리는 씬이 그런 행동을 한 이유가 보다 많은 사람에게 재앙을 알려주기 위해서인지, 아니면 그녀가 당시 재앙이 발생하는 모습에 매혹되어 그런 것인지 판단할 수 없었다. '렌즈'는 그저 그의 주인이 어떻게 재앙의 모습을 촬영했는지를 쉴 새 없이 설명할 뿐이었다.
+	    어쨌든간에 씬은 살아남았다. 씬이 감염된 후 그녀의 부모는 많은 의료 기관에 문의하였고, 결국 그녀를 로도스 아일랜드로 보내 치료하기로 결정했다. 하지만 그 이후로 그들은 씬에게 연락한 적이 없다. 몇몇 오퍼레이터들은 사르곤 내부의 복잡한 정치 형편을 감안한다면 이런 결정은 당연한 것이라 생각하는 듯 하다.
+	    씬은 누군가에게 원한을 품은 적이 없다. 적어도 다른 누군가에게 그렇게 말한 적은 없다. 오래 지나지 않아 씬은 로도스 아일랜드에 야외 탐사 자격 신청을 하였고, 심지어 다른 오퍼레이터들과 함께 전장에 나가 보다 많은 영상을 촬영하고 싶어했다. 그리고 이는 씬이 전투에 휘말릴 수도, 나아가 목숨까지 잃을 수 있다는 것을 의미한다.
+	    하지만 씬은 개의치 않는다. '렌즈'가 자랑스럽게 말하길, 그동안 자신과 씬이 가봤던 곳은 로도스 아일랜드가 상상하는 것보다 훨씬 엉망이었으며, 그들이 마주했던 위험 역시 지금보다 훨씬 컸다고 한다.
+	    정확한 말이다. 씬은 이미 자신의 기술을 갈고 닦았고, 타인의 의문에 충분히 맞설 수 있다. 하지만 다른 각도에서 이야기하자면, 씬은 자신의 작업을 계속하고 싶어하는 것이라 할 수 있겠다. 그녀는 자신의 두 눈과 렌즈를 통해 자신처럼 말보다는 그림에 민감한 사람들을 도와줄 수 있으며, 그녀 자신도 훨씬 더 많은 것을 볼 수 있을거라 믿는다.
+	    드물기는 하지만, 씬이 말을 했던 적도 있기는 한데, 그건 바로 같은 숙소의 오퍼레이터들과 함께 가족에 대해 이야기 하던 때였다. 씬은 자신의 동료를 믿고 있으며, '렌즈'야말로 자신이 가장 사랑하는 가족 중 하나라고 했다. 그리고 씬은 자신의 부모를 믿는다고 했다. 만약 씬의 부모가 그녀를 사랑하지 않는다면, 그녀를 이렇게까지 교육시키지 않았을 것이라고 했다.
+	    "우리가 갖고 태어나는 모든 것에는 의미가 있단다. 그리고 그 의미를 찾을 수 있는 사람은 너뿐이고. 네가 무엇을 하든, 우리가 응원해주마."
+	    씬이 따로 말한 적은 없지만, 지금 그녀는 굉장히 행복할지도 모른다. 그런데 클로저는 대체 어디서 씬의 목소리를 가져와 '렌즈'의 오디오 라이브러리에 넣어둔 걸까!?
+	    "……"
+	    "뭐? 씬이 가끔씩 '렌즈'를 통해 말을 하냐고?"
+	    "그걸 우리가 어떻게 알아, 지금 나랑 대화하고 있는게 '렌즈'야? 아니면 씬 본인이야?"
+	    "맞춰보라고?"
+	    "알았어…"
+
+———————————————————————————————
+
+	晋升记录 :
+	【匿名频道段落节选——稀音篇】
+	“给大家科普一下，稀音小姐是哥伦比亚、玻利瓦尔、萨尔贡、维多利亚四国摄影风景组获得冠军最多的人，没有之一。”
+	
+	“之前想对她恶作剧来着，但找了一天都没见到人影，真的很会躲啊。”
+	
+	“不可以戳她脸哦，虽然本人没什么反应，但那个小车会超级生气的，我直接被撞飞了。”
+	
+	“每次和她打招呼都没反应呢，倒是小车在不停说话，蛮有意思的。”
+	
+	“我那本摄影集是她拍的？能请她签个名吗？！”
+	
+	“兄弟，签名要排队，一天只签四个人。”
+	
+	“为什么？”
+	
+	“因为她签一个名就要花半小时，现在还有十二个人在排队。你觉得呢。”
+
+	昇進記録 :
+	【匿名チャンネルコメントまとめ――シーン編】
+	「ご存知ない方に、いいことを教えましょう。シーンさんはクルビア、ボリバル、サルゴン、ヴィクトリアの四国撮影コンテストにおいて、風景部門で優勝した回数が最も多い方です。彼女に並ぶ者はいません。」
+	
+	「前彼女にいたずらをしようと思ったんだけど、まる一日探しても見つからなかったんだ。ほんと隠れ上手なんだから。」
+	
+	「彼女の頬をつついちゃダメよ。本人はあまり反応しないけど、そばにいるロボがめっちゃ怒るから。私なんてぶっ飛ばされたわ。」
+	
+	「話しかけても返事はないが、代わりにロボの方がぺらぺらと喋る。なかなか面白いよな。」
+	
+	「俺の好きなあのフォトブックは彼女が出したものだったの？サイン貰えるかな！？」
+	
+	「サイン欲しけりゃ並んどきなあんちゃん。一日四人分しかサインできないからな。」
+	
+	「なんでだよ？」
+	
+	「彼女はサイン一つに三十分もかかるんだよ。今も十二人が順番待ちしてるぜ。おとなしく待っときな。」
+
+	Promotion Record :
+	[Excerpts from an Encrypted Channel - Scene's Notes] 
+	'Just so everyone knows, Miss Scene is the person who has won the most accolades in the Four-Country Landscape Photography Group, consisting of Columbia, Bolívar, Sargon, and Victoria - by a wide margin as well.' 
+	
+	'I wanted to play a prank on her once, but I couldn't find her the entire day. She really is good at hiding.'
+	
+	'You can't poke her cheeks though. She doesn't seem to mind it too much, but her buggy will get really upset. The thing slammed into me and sent me flying.' 
+	
+	'Every time I greet her, she never responds. However, her buggy will keep talking, which I find quite interesting.' 
+	
+	'She's the one who took the pictures in that photo album? Can you get an autograph for me?!' 
+	
+	'Bro, you'll have to get in line. She only gives out four a day.' 
+	
+	'Why's that?' 
+	
+	'Because each autograph takes her half an hour, and there are 12 people in line right now. What do you think?'
+
+	승진 기록 :
+	[익명 채널 단락 발췌——씬 편]
+	 "잘 알아둬, 씬은 컬럼비아, 볼리바르, 사르곤, 빅토리아 4개국 풍경 촬영 부문에서 가장 많은 우승을 차지한 사람이야. 그야말로 최고라고."
+	
+	 "예전에 씬에게 못된 장난을 치려던 녀석을 하루 종일 찾았는 데, 발견할 수 없었어. 정말 잘도 숨더군."
+	
+	 "볼을 콕 찍는 장난 따윈 하지마. 본인은 아무 반응 없겠지만, 그 로봇이 굉장히 화낼 수 있거든. 난 바로 치여서 날아갔다고."
+	
+	 "매번 그녀를 부르면 아무 반응이 없는데, 그 로봇은 쉴새 없이 떠든단 말이지. 정말 재미있어."
+	
+	 "내가 가진 이 사진집이 씬이 찍은 거였어? 싸인 좀 해달라고 해도 될까!?"
+	
+	 "이봐, 싸인을 받으려면 줄을 서야지. 하루에 네 명만 받을 수 있다고."
+	
+	 어째서?"
+	
+	" 씬이 한 사람에게 싸인을 해주는데 30분은 걸리는데, 지금 12명이 대기 중이야. 뭐 어쩌겠어."

@@ -60,7 +60,7 @@
 
 [name="PRTS"]  所以你可以认为，本系统的主观判断是无限接近客观事实的。
 [name="PRTS"]  よって、本システムによる主観的判断を比喩する表現については、限りなく客観的事実に近いものと見なして問題ありません。
-[name="PRTS"]  So you could argue that the system’s subjective judgment is substantially closer to objective truth.
+[name="PRTS"]  So you could argue that the system's subjective judgment is substantially closer to objective truth.
 [name="PRTS"]  그러므로, 본 시스템의 주관적 판단은 객관적 사실에 무한히 근접하다고 생각하셔도 좋습니다.
 
 [name="PRTS"]  因此，无论Dr.{@nickname}将要采取什么样的行动，系统都能在一定程度上进行模拟。
@@ -105,22 +105,22 @@
 
 [name="？？？"]  ......是你，没有错。
 [name="？？？"]  ……あなたで間違いなさそう。
-[name="???"]  It’s you. I’m sure of it.
+[name="???"]  It's you. I'm sure of it.
 [name="???"]  맞구나……
 
 [name="？？？"]  我感觉到了......虽然，不太一样。
 [name="？？？"]  感じる……ちょっと変わってるけど。
-[name="???"]  I can feel it... you’re a little different.
+[name="???"]  I can feel it... you're a little different.
 [name="???"]  느껴졌어…… 사실, 조금 다르지만.
 
 [name="？？？"]  不过......你怀里的人，穿的制服......
 [name="？？？"]  それと……あなたの抱えてる人、その服は……
-[name="???"]  But... the person you’re holding, that uniform...
+[name="???"]  But... the person you're holding, that uniform...
 [name="???"]  그런데…… 박사가 안고 있는 사람, 그 제복은……
 
 [name="？？？"]  我可以问一问，你抱着的是谁吗？
 [name="？？？"]  その人が誰なのか、聞いてもいい？
-[name="???"]  Can I ask who’s that you’re holding?
+[name="???"]  Can I ask who's that you're holding?
 [name="???"]  그 사람은 누구인지 물어봐도 돼?
 
 [Decision(options="一介战士。;一位同胞。;一个朋友。", values="1;2;3")]
@@ -140,7 +140,7 @@
 
 [name="？？？"]  不，不是......这伤口，不是会杀死人的伤口。
 [name="？？？"]  いや、違う……これは致命傷じゃないし、そもそも傷のつき方に殺意が感じられない……
-[name="???"]  No, you weren’t... This isn’t a lethal wound.
+[name="???"]  No, you weren't... This isn't a lethal wound.
 [name="???"]  아니, 아니네…… 이 정도 상처라면 치명상은 아니었겠다.
 
 [name="？？？"]  她也是感染者......？
@@ -150,7 +150,7 @@
 
 [name="？？？"]  不，你不是这个意思。
 [name="？？？"]  そんな単純な意味じゃ……ないよね。
-[name="???"]  No, that’s not what you meant.
+[name="???"]  No, that's not what you meant.
 [name="???"]  아니, 그런 의미로 한 말이 아니었겠구나.
 
 [name="？？？"]  Dr.{@nickname}，你像是失去了什么。
@@ -160,7 +160,7 @@
 
 [name="？？？"]  她是你的朋友？
 [name="？？？"]  その人はあなたの友達？
-[name="???"]  She’s your friend?
+[name="???"]  She's your friend?
 [name="???"]  친구라고?
 
 [name="？？？"]  可是，朋友......她和你相联系的时间，很短很短。
@@ -170,7 +170,7 @@
 
 [name="？？？"]  我不知道......我不知道这会不会很快就消失。
 [name="？？？"]  なんだか……なんだかすぐにでも消えてしまいそう。
-[name="???"]  I don’t know... this might disappear soon.
+[name="???"]  I don't know... this might disappear soon.
 [name="???"]  잘 모르겠어…… 뭔가 금방이라도 사라져버릴 것 같아.
 
 [Decision(options="你能......感受到什么？", values="1")]
@@ -185,7 +185,7 @@
 
 [name="？？？"]  我也不太清楚，但她......
 [name="？？？"]  よくわからないけど、彼女は……
-[name="???"]  I’m not sure, but she...
+[name="???"]  I'm not sure, but she...
 [name="???"]  잘은 모르겠지만, 그 여자는……
 
 女孩将手伸向霜星。
@@ -210,42 +210,42 @@ The girl reaches out to FrostNova.
 
 [name="？？？"]  你不想我这么做吧？
 [name="？？？"]  あなたはそうして欲しくないんだよね？
-[name="???"]  You don’t want me to do that?
+[name="???"]  You don't want me to do that?
 [name="???"]  이러길 원하지 않는 거지?
 
 [name="？？？"]  不，不是。我是外人。我和她没有联系。
 [name="？？？"]  いや、違うよ。私は部外者。彼女とは何の繋がりもないの。
-[name="???"]  No. I’m an outsider. I don’t know her.
+[name="???"]  No. I'm an outsider. I don't know her.
 [name="???"]  아, 아니야. 난 관계없는 사람이고, 그 여자랑도 아무 관계없으니까.
 
 [name="？？？"]  这不是我能做的事情，对吧？
 [name="？？？"]  これは私がするべきことじゃない。そういうことでしょ？
-[name="???"]  I can’t do this, can I?
+[name="???"]  I can't do this, can I?
 [name="???"]  내가 상관할 일이 아니네, 그렇지?
 
 [name="？？？"]  不好意思。
 [name="？？？"]  ……わかった。ごめんなさい。
-[name="???"]  I’m sorry.
+[name="???"]  I'm sorry.
 [name="???"]  미안.
 
 [Decision(options="你也和阿米娅一样，能读心？;......;我没法那么快理解你的反应。", values="4;5;6")]
 [Decision(options="君もアーミヤのように他人の心が読めるの？;……;君の反応にはついていけないよ。", values="4;5;6")]
-[Decision(options="Can you read minds, like Amiya?;......;I’m having trouble understanding you.", values="4;5;6")]
+[Decision(options="Can you read minds, like Amiya?;......;I'm having trouble understanding you.", values="4;5;6")]
 [Decision(options="너도 아미야처럼, 마음을 읽을 수 있는 건가?;……;네 반응을 잘 이해하지 못하겠어.", values="4;5;6")]
 
 [name="？？？"]  不，没有，我不能......
 [name="？？？"]  違う、私にはできない……
-[name="???"]  No, I can’t...
+[name="???"]  No, I can't...
 [name="???"]  아니, 난 그런 건……
 
 [name="？？？"]  阿米娅是特别的。我知道阿米娅的法术......也觉得她很辛苦。
 [name="？？？"]  アーミヤは特別だよ。あのアーツは知ってる……大変だと思うよ。
-[name="???"]  Amiya is special. I know Amiya’s Arts... and I think she suffers a lot.
+[name="???"]  Amiya is special. I know Amiya's Arts... and I think she suffers a lot.
 [name="???"]  아미야는 특별해. 난 아미야 씨의 아츠를 알고 있어…… 고생이 많았겠지.
 
 [name="？？？"]  我......我想，我不能碰她。我也不能感受她。
 [name="？？？"]  たぶん……私は彼女に触れてはいけないの。感じ取ることさえも。
-[name="???"]  I... I can’t touch her, and I can’t feel her.
+[name="???"]  I... I can't touch her, and I can't feel her.
 [name="???"]  나…… 나는, 그 여자를 만지면 안 돼. 어차피 느낄 수도 없을 테고.
 
 [name="？？？"]  她与这片大地的联系和我没有关联。
@@ -275,7 +275,7 @@ The girl reaches out to FrostNova.
 
 [name="？？？"]  对，对，对不起......
 [name="？？？"]  ご、ごめんなさい……
-[name="???"]  I’m... I’m sorry...
+[name="???"]  I'm... I'm sorry...
 [name="???"]  미, 미안……
 
 [name="？？？"]  我......
@@ -285,32 +285,32 @@ The girl reaches out to FrostNova.
 
 [Decision(options="抱歉。;......;对不起，小姑娘。", values="7;8;9")]
 [Decision(options="ごめん。;……;すまない、お嬢さん。", values="7;8;9")]
-[Decision(options="Sorry.;......;I’m sorry, little girl.", values="7;8;9")]
+[Decision(options="Sorry.;......;I'm sorry, little girl.", values="7;8;9")]
 [Decision(options="미안.;……;미안해, 꼬마 아가씨.", values="7;8;9")]
 
 [name="？？？"]  没关系，没关系的。我已经习惯了。
 [name="？？？"]  ううん、大丈夫だよ。慣れっこだから。
-[name="???"]  No, it’s fine. I’m used to it.
+[name="???"]  No, it's fine. I'm used to it.
 [name="???"]  괘, 괜찮아. 이미 익숙한걸.
 
 [name="？？？"]  请，请不要生气......
 [name="？？？"]  お、怒らないで……
-[name="???"]  P-please don’t be mad...
+[name="???"]  P-please don't be mad...
 [name="???"]  저기…… 화내지 마……
 
 [name="？？？"]  你不说话，我有些......有些不知道该做什么。
 [name="？？？"]  あなたが黙ったままだと、私……どうしたらいいかわからない。
-[name="???"]  When you don’t speak, I... I don’t know what to say.
+[name="???"]  When you don't speak, I... I don't know what to say.
 [name="???"]  할 말 없으면, 난…… 어떻게 해야 할지 모르겠어.
 
 [name="？？？"]  没事的。
 [name="？？？"]  大丈夫だよ。
-[name="???"]  I’m fine.
+[name="???"]  I'm fine.
 [name="???"]  괜찮아.
 
 [name="？？？"]  比起被别人害怕，我更愿意别人认真对我说话。所以，没问题的。
 [name="？？？"]  怖がられるよりも、普通に話してくれる方が嬉しいの……だから、大丈夫。
-[name="???"]  I’d much rather someone be straight with me than be scared of me. So I’m fine.
+[name="???"]  I'd much rather someone be straight with me than be scared of me. So I'm fine.
 [name="???"]  무서워하는 것보단, 제대로 대화해주는 게 좋아. 그러니까, 괜찮아.
 
 [name="？？？"]  你是要......用这个机器吧？
@@ -345,12 +345,12 @@ The girl reaches out to FrostNova.
 
 [Decision(options="你很熟悉操作。",values="1")]
 [Decision(options="詳しいね。",values="1")]
-[Decision(options="You’re really familiar with it.",values="1")]
+[Decision(options="You're really familiar with it.",values="1")]
 [Decision(options="조작이 익숙해 보이네.",values="1")]
 
 [name="？？？"]  啊，因为我操作过许多遍了。
 [name="？？？"]  うん、何度もやったから。
-[name="???"]  Oh, I’ve had to use it a lot.
+[name="???"]  Oh, I've had to use it a lot.
 [name="???"]  아, 수도 없이 해봤으니까.
 
 [Decision(options="为什么.......",values="1")]
@@ -360,7 +360,7 @@ The girl reaches out to FrostNova.
 
 [name="？？？"]  罗德岛的感染者，最后都会到这里来。
 [name="？？？"]  ロドスの感染者たちは、最後はみんなここに来るんだよ。
-[name="???"]  This is where all of Rhodes Island’s Infected end up.
+[name="???"]  This is where all of Rhodes Island's Infected end up.
 [name="???"]  로도스 아일랜드의 감염자는, 마지막에는 모두 이곳으로 오게 되잖아.
 
 [name="？？？"]  如果是我认识，我感受过的人，我的队员，我都会自己操作。
@@ -380,7 +380,7 @@ The girl reaches out to FrostNova.
 
 [name="？？？"]  啊......大概就像链子一样。
 [name="？？？"]  えっと……たぶん鎖みたいなものかな。
-[name="???"]  Hmm... it’s like a chain.
+[name="???"]  Hmm... it's like a chain.
 [name="???"]  음…… 사슬 같은 느낌이랄까.
 
 [Decision(options="链子......？", values="1")]
@@ -390,17 +390,17 @@ The girl reaches out to FrostNova.
 
 [name="？？？"]  说是两个人之间牵着的线也可以。
 [name="？？？"]  二人の間を繋いだ糸、と言ってもいいけど。
-[name="???"]  Or I could say it’s like seeing the links between people.
+[name="???"]  Or I could say it's like seeing the links between people.
 [name="???"]  두 사람을 잇는 선 같은 거라고도 할 수 있으려나.
 
 [name="？？？"]  送走和你有联系的人，是解开缠在他们身上的线。线的另一边还是系在我们身上，可哪怕没有再系着谁了，线却也垂不下来。
 [name="？？？"]  自分と繋がってる人を送り出すのは、その人と結びついた糸を解くことになるの。糸の片方は自分に繋がったままで、その向こうに誰もいなくなったとしても、糸が落ちて消えることはない。
-[name="???"]  Sending off the people tied to you means untangling the lines around them. The other ends of the threads are still tied to us, but even when the one side is gone, the threads don’t hang down.
+[name="???"]  Sending off the people tied to you means untangling the lines around them. The other ends of the threads are still tied to us, but even when the one side is gone, the threads don't hang down.
 [name="???"]  자신과 관계가 있던 사람을 떠나보낸다는 건, 그 사람에게 얽혀 있던 실을 풀어주는 거야. 실의 반대쪽은 우리 몸에 여전히 묶인 채 남아, 다시 누군가에게 그 실을 묶지 않아도 우리에게서 떨어지지 않거든.
 
 [name="？？？"]  那种感觉，是身体里有什么消失了的感觉。已经不知道那里是什么，却又知道，他们曾经在，也不会回来。
 [name="？？？"]  でもそれは、身体から何かが消えたような感覚なんだ。そこにまだ何かが残ってるかどうかは判らないけど、かつてその人が存在してたこと、もう戻ってこないことはなんとなく解る……そんな感覚。
-[name="???"]  It feels like you’ve lost something inside yourself. Something you didn’t know was there, but knowing it won’t come back.
+[name="???"]  It feels like you've lost something inside yourself. Something you didn't know was there, but knowing it won't come back.
 [name="???"]  이런 감각은, 마치 몸에서 무언가가 사라져버리는 것 같은 느낌이야. 그곳이 어디인지는 알 수 없지만, 그들이 그곳에 존재했었고, 다시는 돌아오지 못할 거라는 건 알게 되지.
 
 [Decision(options="为什么要去熟悉这种感觉？", values="1")]
@@ -410,7 +410,7 @@ The girl reaches out to FrostNova.
 
 [name="？？？"]  因为只有熟悉了，才不会突然地痛起来吧？
 [name="？？？"]  だって慣れていれば、突然失う痛みにも耐えられるでしょ？
-[name="???"]  Because if you know the feeling, it won’t suddenly sting you, right?
+[name="???"]  Because if you know the feeling, it won't suddenly sting you, right?
 [name="???"]  익숙해져야만, 갑자기 아파지는 것을 막을 수 있으니까.
 
 [Decision(options="......你究竟是......？", values="1")]
@@ -440,12 +440,12 @@ The girl reaches out to FrostNova.
 
 [name="Rosmontis"]  啊，嗯。我知道了，马上就去。
 [name="Rosmontis"]  あっ、うんわかった。すぐ行くね。
-[name="Rosmontis"]  Oh, okay. I’ll go do that.
+[name="Rosmontis"]  Oh, okay. I'll go do that.
 [name="로즈몬티스"]  아, 응. 알았어, 바로 갈게.
 
 [name="Rosmontis"]  我在终端上记一下。
 [name="Rosmontis"]  待って、今の処理データを端末に書き込んでから……
-[name="Rosmontis"]  I’m making a note of it in my terminal.
+[name="Rosmontis"]  I'm making a note of it in my terminal.
 [name="로즈몬티스"]  단말기에 표시해놓을 테니까.
 
 [name="PRTS"]  第六次提示你，如果你愿意向本系统开放权限，系统可以直接将信息发送至......
@@ -460,7 +460,7 @@ The girl reaches out to FrostNova.
 
 [name="Rosmontis"]  这是只有我......只有我能写的东西。
 [name="Rosmontis"]  これは私が……私が自分で書き込まなきゃいけないの。
-[name="Rosmontis"]  I’m... the only one who can use this.
+[name="Rosmontis"]  I'm... the only one who can use this.
 [name="로즈몬티스"]  이건 나만…… 나만 쓸 수 있어.
 
 [name="PRTS"]  明白。请。

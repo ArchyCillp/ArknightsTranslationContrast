@@ -1,11 +1,17 @@
 ID:
 	char_391_rosmon
 
-干员代号\Name:
+CV:
 	迷迭香
 	ロスモンティス
 	Rosmontis
 	로즈몬티스
+
+干员代号\Name:
+	小仓唯
+	小倉唯
+	Yui Ogura
+	오구라 유이
 
 招聘合同\Character Usage:
 	罗德岛精英干员迷迭香，用手推开了你的办公室门。
@@ -48,177 +54,802 @@ ID:
 	"네가 원하는 대로"
 
 语音\Voices:
-	那个，博士......归纳档案和写总结，这些我一直不太做得来的，值班时间我可以换个岗位吗？你是说，不用做什么，只要呆在这里就好？博士......你有些奇怪。
 	えっと、ドクター……ファイリングとレポート、どっちも苦手だから、他の当番でもいい？え、何もしないでここにいればいい？ドクター、なんか変。
 	Umm, Doctor... I'm not very good at filing and writing reports. Do you think you can assign me to another position? Eh? I don't need to do anything. All I need to do is hang out here? Doctor... You're a weirdo.  
 	저, 박사…… 서류 정리랑 보고서, 둘 다 잘 못 하니까, 다른 당번을 맡아도 될까? 응? 아무것도 하지 말고 여기 있으면 된다고? 박사, 왠지 이상해.
 
-	罗德岛的大家是我的朋友，精英干员和我的队员们是我的家人。凯尔希不想我把他们当做亲人，最开始我不明白，现在我懂了。他们就像花瓶里的花一样，稍不注意就会枯掉。但我只有他们了。
 	ロドスのみんなは私の友達、エリートオペレーターと隊員たちは私の家族だよ。前にケルシー先生がみんなを家族だと思ったらダメだって言ってたの、最初はよくわからなかったけど、今ならわかるよ。みんなは花瓶の中の花みたいに簡単に枯れちゃうんだ。でも私には、もうみんなしかいないの。
 	Everyone at Rhodes Island is my friend. The elite operators and my squad mates are my family. Ms. Kal'tsit doesn't want me to treat them as family. I didn't get it at first, but I do now. They're like flowers in a vase. If you don't pay attention to them, they'll wither. But they're all I have.
 	로도스 아일랜드의 모두는 내 친구, 정예 오퍼레이터와 팀원들은 내 가족이야. 전에 켈시 선생님이 모두를 가족이라고 생각하면 안 된다고 했는데, 처음에는 잘 몰랐지만 이젠 알겠어. 다들 꽃병의 꽃처럼 쉽게 시들어 버려. 그래도 내겐 이제 그 사람들밖에 없어.
 
-	我现在在读什么？啊，这是前两天的记事。可露希尔早上打翻了咖啡，弄脏了书库里的好几册卷轴，所以她被诅咒了呢，好像是，说满五句话就一定会有唾沫飞到别人脸上的那种诅咒。很可怕？
 	何を読んでる、って？えっと、これはこの間のメモ。あの日の朝は、クロージャがコーヒーをこぼして、書庫の巻物を何本も汚しちゃったの。それで、クロージャは呪われちゃった。確か、五回しゃべるとツバが相手の顔に飛ぶって呪いだよ。怖い？
 	What am I reading? Oh, it's an entry from two days ago. Closure spilled her coffee that morning and stained a couple scrolls in the library. And she got cursed, I think. For every five words she says, she ends up spitting on someone's face. Scary, isn't it?
 	뭘 읽고 있냐고? 어, 이건 얼마 전의 메모야. 그날 아침은 클로저가 커피를 쏟아서 서고에 있는 두루마리를 몇 개나 더럽혔어. 그래서 클로저는 저주를 받았어. 아마 다섯 번 말하면 침이 상대방 얼굴에 튄다는 저주였을 거야. 무서워?
 
-	痛的事情，伤心的事情，可怕的事情，一不小心就会消失。但我不能忘，我要记住，因为那些情感还留在我的身体里。我不想哭的时候不知道是为了什么在哭。记忆是负担，我只有自己去背。
 	痛いこと、悲しいこと、怖いこと、ふとした拍子に全部消えちゃう。でも、忘れちゃダメなの、覚えてたい。だって、その時の気持ちは全部身体に残ってるから。理由もわからないまま、涙を流すのは嫌だよ。記憶は負担になるけど、それでも自分で背負わなきゃ。
 	Painful things, sad things, and scary things all go away when you least expect them to. But it's not okay to forget them. I need to remember them, because those emotions are still there inside me. I don't want to end up crying without knowing why. Memories are a burden, and I have to carry my own burden.
 	아픈 일도, 슬픈 일도, 무서운 일도, 어느 순간 모두 사라져버려. 그래도 잊어버리면 안 돼, 기억하고 싶어. 왜냐하면, 그때의 감정은 전부 몸에 남아있으니까. 이유도 모르는 채로 눈물 흘리는 건 싫어. 기억은 부담이 되지만, 그래도 스스로 짊어져야지.
 
-	我不会用盾，不会射箭，不能让铳发光，没法把铁条轻松地做成兵器。更重要的是，其他精英干员比我温暖得多，这种温暖让他们愿意为别人投入自己的一切，只因为有些事是对的。我会加油的。
 	私は盾も、弓も使えない。銃を光らせることも、鉄の固まりを簡単に兵器に変えたりもできない。それに、他のエリートオペレーターのみんなは、私よりもずっと暖かいの。その暖かさがあるから、人のために、そして自分の正しいと思うことに、全てをかけられるんだ。私も頑張るよ。
 	I can't use a shield, I can't use a bow, I can't make guns glow, and I can't turn those iron rods into weapons very well. More importantly, the other elite operators are much warmer than me. This warmth is what helps them fight for everyone else and for what's right. I will do my best.
 	나는 방패도, 활도 쓸 수 없어. 총을 번쩍이게 하는 것도, 쇳덩어리를 쉽게 무기로 바꿀 수도 없어. 게다가 다른 정예 오퍼레이터들은 모두 나보다 훨씬 따뜻한걸. 그 따뜻함이 있으니까 남을 위해, 그리고 자신이 옳다고 생각하는 일에 모든 것을 걸 수 있는 거야. 나도 열심히 할게.
 
-	凯尔希也失去了很多家人吧？她的眼神就是那样的。她为什么能忍住，为什么还能活着？只要想想大家会一个接一个地消失，我的胸口就痛得像要爆炸了一样。是因为她长大了吗？那我也想早些长大。
 	ケルシー先生も、たくさん家族を失ったんでしょ？だって、そんな目をしてるから。でも先生はどうして我慢して、生きられてるの？私はみんながどんどんいなくなっちゃうことを考えただけで、胸が張り裂けそうになるのに。先生は大人だから？じゃあ私も早く大人になりたい。
 	Ms. Kal'tsit has lost lots of family, right? I see it in her eyes. How does she keep it to herself and manage to live with it? Just thinking about how everyone will disappear eventually one after another is enough to make my heart ache. Like it's going to explode. Is it because she's a grown-up? Then I want to grow up soon.
 	켈시 선생님도 가족을 많이 떠나보냈지? 왜냐하면, 그런 눈을 하고 있는걸. 하지만 선생님은 어째서 그걸 참고 살아가고 있는 거야? 나는 모두가 점점 사라지는 것을 생각하는 것만으로 가슴이 찢어질 것 같은데…… 선생님은 어른이라서? 그럼 나도, 빨리 어른이 되고 싶어.
 
-	博士，可以教我这个词吗？看了这个词煌就一直傻呵呵地笑，阿米娅刚才还追着煌打她。吻？Kiss，是吗？那我知道的呀。博士，弯下腰好吗？亲在脸上，可以吧？谢谢你一直照顾我们。喵。
 	ドクター、この言葉、教えて？ブレイズに聞いたら、何故かゲラゲラ笑われて、アーミヤに叩き回されてたよ。口づけ？つまり、キス？そっか。それなら私にもわかるよ。ドクター、ちょっとかがんで？頬に「チュー」していい？いつも良くしてくれてありがとう。（チュッ）……ニャ。
 	Doctor, could you tell me what this word means? I asked Blaze about it, and she just kept giggling, and Amiya just kept hitting her. Oh, it means kissing? I know what that is, then. Doctor, bend down a little, okay? Can I kiss you on the cheek? Thanks for always taking care of us. Meow.
 	박사, 이 말, 알려줘. 블레이즈에게 물어봤더니 왜인지 깔깔거리면서 웃고, 아미야한테 엄청 맞더라고. 입맞춤? 그러니까, 키스? 그렇구나. 그거라면 나도 알아. 박사, 잠깐 숙여봐. 볼에 '뽀뽀'해도 돼? 항상 잘 대해줘서 고마워. (쪽)…… 냐앙.
 
-	我不会忘掉那些人。那些造出了我和其他怪物的人。那些用我们去做坏事的人。在这片大地变得不会伤害别人之前......我还是要让这些人受到惩罚。那要很疼，很疼，让他们也忘不掉才行。
 	あの人たちのことは忘れない。私や他の化け物を作り出した人たち。私たちを使って悪いことをしてた人たち。この大地が人を傷つけることを止めるまで、あの人たちに罰を受けさせないといけないの。とっても、とっても痛くして、忘れられないようにしてあげなきゃ。
 	I won't forget about those people. They created me and those monsters. They wanted to use us to do bad things. Before the world finally stops hurting us all... I'll punish these people. I will make it really, really hurt, so they never, ever forget.
 	그 사람들을 잊진 않을 거야. 나나 다른 괴물을 만들어낸 사람들. 우리를 이용해서 나쁜 짓을 한 사람들. 이 대지가 사람에게 상처 주는 일을 그만둘 때까지, 그 사람들이 벌을 받게 해야 해. 엄청, 엄청 아프게 해서, 잊지 못하도록 해줘야 해.
 
-	啊......你是博士，对吧？我昨天才复习了一下终端上的记事，嗯，我想起来了，博士。你现在可以指挥我了，我们去出任务吧？要记得用好我的能力哦。
 	あっ……あなたはドクター、だよね？昨日端末のメモで復習したばっかりだから。うん、思い出した、ドクター。もう私に命令していいよ、任務に行くでしょ？私の能力（ちから）、うまく使ってね。
 	Oh... You're the Doctor, right? I went over the records on the terminal just yesterday. Yep, I remember now, Doctor. You can give me orders. Let's go on a mission? Make sure to use my powers well.
 	아…… 너는 박사지? 어제 단말기의 메모를 보고 복습한 참이거든. 응, 생각났어. 박사. 이제 나한테 명령해도 돼, 임무 나갈 거지? 내 힘, 잘 써줘.
 
-	嗯......博士是太累了吧，打瞌睡的时候也很不踏实的样子。抱抱博士，应该能让博士感觉好一点吧。轻轻地，安稳地睡吧。我懂的......就算在梦里也在挣扎的样子。我明白的。
 	うん……ドクター、きっと疲れが溜まってるんだね。居眠りしてるのにすっごく不安そう。ギューってしてあげたら、少しは安心できるかな。ゆっくり、穏やかに眠れたらいいな。私もわかるから……夢の中でも苦しいんだね。わかるよ。
 	Hmm... the Doctor is taking a nap. Looks restless, too. Must be tired. If I give the Doctor a hug, it should feel a little better, right? Just relax and sleep well. I know how it feels... It hurts even in your dreams, right? I can tell.
 	음…… 박사, 분명 피로가 쌓여 있는 거겠지. 졸고 있는데도 굉장히 불안해 보여. 꼬옥 안아주면 조금은 안심할 수 있으려나? 느긋하게, 마음 편히 잤으면 좋겠네. 나도 아니까…… 꿈속에서도 괴로운 거지? 이해해.
 
-	你好博士，精英干员迷迭香来报道了。凯尔希批准了，你现在可以指挥我和我的小队。把我的能力用在对的地方吧，博士。对了，我很容易忘事，记得提醒我。
 	こんにちは、ドクター。エリートオペレーターのロスモンティスだよ。ケルシー先生の許可が出たから、私とチームの指揮権はドクターにあるよ。私の能力（ちから）を正しく使ってね、ドクター。それから、私は物忘れがひどいから、忘れてそうなことは教えてね。
 	Hello, Doctor. I am Elite Operator Rosmontis. Ms. Kal'tsit has given her permission. You can give me and my team orders now. Use my power where it matters, Doctor. I also tend to forget about things pretty easily. Be sure to remind me if it looks like I might forget something.
 	안녕, 박사. 정예 오퍼레이터인 로즈몬티스야. 켈시 선생님의 허가가 떨어졌으니까, 나와 팀의 지휘권은 박사에게 있어. 내 힘을 올바르게 사용해줘, 박사. 그리고, 나는 건망증이 심하니까, 잊고 있을 것 같은 건 알려줘.
 
-	嗯......我学会了。这种战术我能用得上。
 	うん……覚えた。こういう戦い方なら、私にもできる。
 	Yeah... I got that down now. I can use this in battle.
 	응…… 기억했어. 이런 전투 방법이라면, 나도 할 수 있어.
 
-	我问过凯尔希，为什么我能当精英干员，很多人都在背后说我不适合，我知道的。凯尔希说，因为只有成为精英干员，我才能记住，才能变得更好。我在努力。
 	ケルシー先生に聞いたことがあるよ。なんで私なんかがエリートオペレーターなのかって。みんな、裏でこっそり私には無理だって言ってるのも知ってる。でも先生は、エリートオペレーターになれば、きっと色々覚えられて、もっといい人間になれるからって言ってくれた。うん、今頑張ってるところだよ。
 	I asked Ms. Kal'tsit why I'm an elite operator. Lots of people talk behind my back. They say I'm not right for the job. Ms. Kal'tsit said that if I become an elite operator, I'll remember more, and I'll become a better person. Yep, I'm doing my best.
 	켈시 선생님한테 들은 적 있어. 왜 나 같은 게 정예 오퍼레이터인지 말이야. 다들 뒤에서 몰래 나한텐 무리라고 말한다는 것도 알고 있어. 그래도 선생님은 정예 오퍼레이터가 되면, 분명히 많은 걸 배우고 더 좋은 사람이 될 수 있다고 말해줬어. 응, 지금 열심히 하고 있어.
 
-	这片大地不会那么轻易就变好的，人却很容易就随着周围的东西一起变坏了。博士，我们不可以变成坏人。你要是变坏，会很坏很坏。我不会让你变成那样。
 	この大地は簡単に良くならないのに、人間は周りに流されてすぐに悪くなっちゃう。ドクター、私たちは悪い人になっちゃダメだよ。もしドクターが悪い人になるなら、きっとすっごく悪い人になっちゃうと思う。そんなことはさせない。
 	This world isn't going to get better so easily, but humans tend to get worse because of their surroundings. Doctor, we can't turn into bad people. If you do, I am sure you'll be really, really bad. I won't let you turn out like that.
 	이 대지는 쉽게 좋아지지 않는데, 사람은 주변에 휩쓸려서 금방 나빠져 버려. 박사, 우리는 나쁜 사람이 되면 안 돼. 혹시 박사가 나쁜 사람이 된다면, 분명, 굉장히 나쁜 사람이 될 거라고 생각해. 그렇게 두진 않을 거야.
 
-	该出任务了吗？我知道的，我会保护好罗德岛的干员们的。一定。
 	任務？うん、わかってる。私がオペレーターのみんなを守るよ。絶対に。
 	Time for a mission? Yeah, I know. I will protect all of Rhodes Island's operators. I promise.
 	임무? 응, 알고 있어. 내가 오퍼레이터 모두를 지킬 거야. 반드시.
 
-	要我做队长吗？明白，我能做好。不是我自己的小队也没关系，我会用好他们对我的支援的。
 	私が隊長なの？うん、大丈夫。自分のチームじゃなくても、みんなのサポートをうまく活かすから。
 	I am the leader? Don't worry. They may not be from my team, but I'll make sure their support doesn't go to waste.
 	내가 팀장이야? 응, 괜찮아. 내 팀이 아니어도, 모두의 서포트를 잘 활용할 테니까.
 
-	放心吧，我能控制好我的法术。
 	安心して、アーツのコントロールはちゃんとできるから。
 	Don't worry. I know how to control my Arts.
 	안심해, 아츠의 컨트롤은 잘할 수 있으니까.
 
-	我不想家人受到伤害。我会把可能伤害到家人的东西全毁掉。
 	家族が傷つけられるのは嫌。家族を傷つけそうなものは、全部壊すよ。
 	I don't want to see my family get hurt. I will destroy everything that could hurt my family.
 	가족이 상처받는 건 싫어. 가족에게 상처를 줄 만한 건, 전부 부술 거야.
 
-	我不会把你的事情记下来的。
 	あなたのこと、覚えておくつもりはないよ。
 	I won't remember you.
 	널 기억할 생각은 없어.
 
-	给我命令吧，我一定能完美地执行。
 	命令を出して。完璧にやってみせるから。
 	Give me your order. I will see it through.
 	명령을 내려줘. 완벽하게 해낼 테니까.
 
-	要开始了。
 	始まる。
 	It's starting.
 	시작한다.
 
-	你们站远一些好了，不喜欢接下来的事情的话，就不要看这边。
 	今から起きることを見たくないなら、離れてて。こっちを見ないでね。
 	Stand back. If you don't want to see what's about to happen, don't look.
 	지금부터 일어나는 일을 보고 싶지 않다면, 떨어져 있어. 이쪽을 보지 말아줘.
 
-	痛的话就叫出来，会好受些的。
 	痛ければ叫ぶといいよ、少しは楽になるから。
 	If it hurts, just cry out. It'll feel better.
 	아프면 소리를 질러, 조금은 편해질 테니까.
 
-	投降的话就不会受伤。
 	降参すれば、怪我しなくて済むよ。
 	If you surrender now, I won't hurt you.
 	항복하면 다치지 않고 끝나.
 
-	你不会死......我会小心一些。我不会让你死掉。
 	あなたは死なない……死なせないように気をつける。
 	You won't die... I'll make sure you don't die. 
 	넌 죽지 않아…… 죽이지 않도록 조심할게.
 
-	有些事一定得有人去做。有些事只有我能做。
 	誰かがやらないといけないことがある。私にしかできないことがある。
 	There are things that have to be done by someone. There are things that only I can do.
 	누군가는 꼭 해야 하는 일이 있어. 나만 할 수 있는 일이 있어.
 
-	要是有一天可以不用再使这些法术的话......唔。那一天会是什么样？我想不出。
 	いつかこんなアーツを使わなくていい日がきたら……うーん、そしたらどんな一日になるのかな？想像できない。
 	If there comes a day when I can't use these Arts again... Hmm. What will that day be like? I can't imagine.
 	언젠가 이런 아츠를 쓰지 않아도 되는 날이 온다면…… 으음, 그러면 어떤 하루가 될까? 상상이 안 가.
 
-	做得好，博士，你真棒，谢谢你。
 	よくできたね、ドクター。よしよし、ありがとう。
 	That was very nice, Doctor. There, there. Thanks.
 	잘했네, 박사. 옳지 옳지, 고마워.
 
-	我来处理剩下的。很快的。
 	残りは私が片付けておくよ。すぐに終わるから。
 	I will take care of the rest. It won't take long. 
 	나머지는 내가 정리해둘게. 금방 끝날 테니까.
 
-	我......我不走。我绝对不可以让别人失望。我还可以挥剑......我可以丢掉剑！我还能行！我是不会走的！
 	いや、私は撤退しない。みんなを失望させるのは絶対嫌。まだ剣だって振るえる……いや、剣を捨ててもいい！それでもまだ戦えるよ！絶対に行かない！
 	No... I won't retreat. I can't disappoint the others. I still have my sword... Even without my sword, I can still fight! I won't leave!    
 	아니, 나는 퇴각하지 않아. 모두를 실망시키는 건, 정말 싫어. 아직 검도 휘두를 수 있어…… 아니, 검을 버려도 괜찮아! 그래도 아직, 싸울 수 있어! 절대 가지 않을 거야!
 
-	请，请不要把我关在小房间里，我很害怕......我......很不喜欢那种房间。
 	ち、小さい部屋に閉じ込めるのはやめて、怖いよ……あんな……あんな部屋はもう嫌なの。
 	P-Please don't lock me in a small room. They're scary... I... I don't really like those kinda rooms.
 	자, 작은 방에 가두지는 말아줘, 무서워…… 그런…… 그런 방은 이젠 싫어.
 
-	不，不要碰我！......你会受伤的。
 	さ、触らないで！……怪我しちゃうから。
 	D-Don't touch me! ...You'll get hurt. 
 	마, 만지지 마! ……다치니까.
 
-	嗯......我，我会忍住不搞折你的手......
 	えっと……あ、あなたの手を折っちゃわないように我慢するね……
 	Um... I-I'll try to bear with it... and not break your hand...
 	저…… 네, 네 손을 꺾지 않도록 참을게……
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	啊，你是，博士。
 	あ、あなたは、ドクターだね。
 	Oh, you're the Doctor, right?
 	아, 너는, 박사구나.
+
+干员档案\Background:
+	基础档案 :
+	【代号】迷迭香
+	【性别】女
+	【战斗经验】一年
+	【出身地】哥伦比亚
+	【生日】7月6日
+	【种族】菲林
+	【身高】142cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ロスモンティス
+	【性別】女
+	【戦闘経験】一年
+	【出身地】クルビア
+	【誕生日】7月6日
+	【種族】フェリーン
+	【身長】142cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Rosmontis
+	[Gender] Female
+	[Combat Experience] 1 Year
+	[Place of Birth] Columbia
+	[Date of Birth] July 6
+	[Race] Feline
+	[Height] 142cm
+	[Infection Status] 
+	Crystals have appeared on her body. Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 로즈몬티스
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 컬럼비아
+	[생일] 7월 6일
+	[종족] 필라인
+	[신장] 142cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通/■■
+	【战场机动】标准/优良
+	【生理耐受】普通/卓越
+	【战术规划】标准/——
+	【战斗技巧】普通/标准
+	【源石技艺适应性】卓越/——
+	
+	以上测试结果分属于干员迷迭香及其源石技艺所能达到的测量上限。与迷迭香源石技艺有关的可用测试将全部迁移至室外进行。
+
+	能力測定 :
+	【物理強度】普通/■■
+	【戦場機動】標準/優秀
+	【生理的耐性】普通/卓越
+	【戦術立案】標準/――
+	【戦闘技術】普通/標準
+	【アーツ適性】卓越/――
+	
+	以上の試験結果はそれぞれロスモンティス及びそのアーツの測定可能な上限値である。ロスモンティスのアーツに関わる試験の全ては室外に移行する。
+
+	Physical Exam :
+	[Physical Strength] Normal/■■
+	[Mobility] Standard/Excellent
+	[Physical Resilience] Normal/Outstanding
+	[Tactical Acumen] Standard/——
+	[Combat Skill] Normal/Standard
+	[Originium Arts Assimilation] Outstanding/——
+	
+	The above results represent the highest recorded performance achieved by Operator Rosmontis and her Originium Arts respectively. All examinations pertaining to Rosmontis's Originium Arts will be performed outdoors. 
+
+	종합검진 :
+	[물리적 강도] 보통/■■
+	[전장 기동력] 표준/우수
+	[생체 인내도] 보통/월등
+	[전술 계획력] 표준/——
+	[전투 기술력] 보통/표준
+	[오리지늄 아츠 적응성] 월등/——
+	
+	이상의 결과는 오퍼레이터 로즈몬티스와 그녀의 오리지늄 아츠가 도달할 수 있는 테스트 결과값의 상한선이다. 로즈몬티스의 오리지늄 아츠와 관련된 모든 테스트는 실외로 옮겨 진행될 것이다.
+
+———————————————————————————————
+
+	客观履历 :
+	迷迭香，罗德岛精英干员，熟练掌握极稀有的源石技艺，于对抗大型生物，破坏硬目标，设施紧急制动与中断小规模冲突等任务中表现出色，并于攻坚战、阵地战与歼灭战中体现出极强的战场掌控力与显著的战术价值。现由凯尔希指派，作为歼灭战的核心发起人之一发挥作用。
+	迷迭香的所有其他档案皆移入高权限资料库。
+
+	個人履歴 :
+	ロスモンティスはロドスのエリートオペレーターであり、極めて珍しいアーツを身につけている。大型生物への対抗、硬い対象の破壊、施設の緊急制動や小規模衝突の中断などの任務において素晴らしい働きを見せている。また、陣地攻略戦、陣地戦、殲滅戦などにおいても極めて強い戦場掌握能力と著しい戦術的価値を見出されている。今はケルシーの指示により、殲滅戦のコアメンバーの一人として活躍している。
+	ロスモンティスの他全ての資料は高権限データベースに移行する。
+
+	Profile :
+	Rhodes Island Elite Operator Rosmontis possesses a high aptitude for a rare form of Originium Arts particularly adept at confronting large creatures, destroying hard objectives, immobilizing facilities under emergency, and putting a stop to small-scale skirmishes. She has been shown to possess a solid control of the battlefield and considerable tactical value in assault, positional, and annihilation scenarios. Under Kal'tsit's assignment, she is currently active as a core annihilation specialist. 
+	All other files pertaining to Rosmontis have been moved to the high clearance database.
+
+	프로필 :
+	    로도스 아일랜드의 정예 오퍼레이터인 로즈몬티스는 매우 보기 드문 오리지늄 아츠를 능숙하게 시전할 수 있다. 대형 생물에 대항하고, 단단한 목표를 파괴하며, 시설의 긴급 제동이나 소규모 충돌을 중단시키는 등의 임무에서 특출난 능력을 보여줄 뿐만 아니라, 돌격, 진지 및 섬멸 작전 등에서 매우 우수한 전장 장악력과 전술적 가치를 입증하였다. 지금은 켈시의 지시로 섬멸 작전에 파견되어 작전의 핵심 팀원으로서 활약하고 있다.
+	    로즈몬티스의 다른 모든 파일을 고급 권한 자료실로 이동한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员部分器官轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象。
+	
+	【体细胞与源石融合率】＜1%
+	
+	【血液源石结晶密度】0.13u/L
+	
+	已知的绝大部分生理器官结晶化与源石增生现象，几乎都源于血液中源石颗粒过量累积所造成的局部性病变。
+	是的，Touch，你的推论大体上是准确的。
+	这个特殊个体也许可以被称作是感染者，但这很难说是矿石病。
+	处于她脑干处的感染器官并非天然生成。没错......人工植入。参考过Raidian的探测报告以后，我们可以确定，这个装置是百分百的人造产物。
+	
+	如果说幽灵鲨的感染与这个特殊个体一样，同属于人为感染......我们先不讨论幽灵鲨的免疫系统不断激烈对抗源石感染的生理现象......幽灵鲨脑脊液中高浓度的液态源石已经确确实实地危及到了她的生命。我们不惜动用种种手段去阻止她病情的恶化，我们理当如此。
+	而现在，被施加在这个特殊个体身上的实验，这个实验的目标之一就是要克制源石感染对该个体产生的不良影响。
+	他们做到了，即使是暂时的。
+	从立项开始，他们就想要生产一个没有被矿石病感染的感染者，一个不用施术单元的术师，一个无需精深源石技艺理论培训的大师。
+	感染器官不会提高她体内源石结晶的密度。这个特殊个体，某种意义上，“并没有被感染”。
+	在特殊个体生理机能继续正常运作的情况下，取出这个人造器官？取出这个令她正常呼吸、吞咽、令她的血液能够正常流动的器官？
+	我们没这个条件。谁又有这个条件？这个实验短期内甚至不可能被复现，而我们现在还要逆向它的实验成果，将之还原成正常的身体组织？
+	
+	洛肯水箱实验室已是一摊废铁，所剩无几的研究资料也被一扫而空，这些资料是遭到了销毁还是由其资助人成功回收，我们也不得而知。实验室的实际控制者不会允许这个丑闻外泄，争先恐后扑在沃肯水箱残躯上食用它血肉的其他科技公司也绝不在少数，谁能数清每座哥伦比亚的城市里有多少间谍栖身其中？
+	洛肯·威廉姆斯的确是个天才，但他的无知与漠然牺牲了众多生命，也最终葬送了他。他理应被自己的罪行深埋。
+	梅兰德儿童权益保障基金会从废墟中救出了这个特殊个体，再将她秘密转移出国，也是其上层深谋远虑的结果。不能让任何哥伦比亚的公司或利益团体得到洛肯的成果。这场发生在洛肯水箱实验室的事故不能再继续发酵，纵容它的实验成果带去更多不稳定因素？这件事不被允许。他们不允许。他们宁可这件事没有发生过。
+	而她最终被送到我手里......也许是机缘巧合，也许是因为我曾和洛肯的老师合力结束了洛肯在哥伦比亚矿石病研究领域的学术生涯。但我们心知肚明，这阻止不了他，阻止不了那些想要利用这片大地上每一条生命的人。
+	这样一来，我们和梅兰德的合作也结束了。这会是最后一次由他们派发、由我们经手的秘密处理项目。实验个体将就此从哥伦比亚任何记述中消失。
+	
+	梅兰德不会在乎这个实验个体是死是活，她之后的去向由我们决定。
+	但对她的处理——直接取出试验器官会造成怎样的影响？对她生理系统的直接伤害可能只是最轻度的。
+	这个装置没有替换功能。他们从来没想过要设计这个功能。
+	它已经成为了特殊个体的一部分，他们让她的施术单元......成为了她的生命。
+	我还没资格要她放弃自己的生命。
+	......但是，道德是你我的事，却不是罗德岛的。
+	
+	——凯尔希医生
+
+	健康診断 :
+	造影検査の結果、一部の臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果に異常があり、鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】＜1%
+	
+	【血液中源石密度】0.13u/L
+	
+	今知られるほとんどの身体器官の結晶化と源石の増殖現象は、基本的に血液中源石結晶の過剰な累積による局部的病理変化だ。
+	ああ、Touch、君の推測は大体合っている。
+	この特殊個体は感染者とは呼べるのだろうが、鉱石病とは言い難い。
+	彼女の脳幹にある感染器官は自然に生まれたものではない。そうだ……人工的に移植されたものだ。Raidianの調査報告を参考に、その装置は完全に人工的産物であると確定できる。
+	
+	スペクターの感染もこの特殊個体と同じく人為的な感染と言えようが……スペクターの免疫システムが激しく源石感染に抗っているという生理現象はひとまず置いておくとして……スペクターの脳脊髄液に含まれる高濃度の液体源石は確実に彼女の命を脅かしている。そして我々は手段を選ばずに彼女の病状の悪化を防ごうとしている。我々にとっては当たり前のことだからな。
+	だが、この特殊個体に施された実験は、まさに源石感染が該当個体へ及ぼす悪影響を抑えることを目的の一つとしている。
+	彼らはやり遂げてしまった。たとえ一時的なものであっても。
+	プロジェクトを立ち上げた当初から、彼らは鉱石病に患っていない感染者を、アーツユニットを要さない術師を、アーツ理論教育を徹底的に叩き込まれる必要のないアーツマスターを生産しようとしていた。
+	感染器官は彼女の体内の源石密度を上げたりしない。この特殊個体は、ある意味「感染してない」と言える。
+	特殊個体の身体機能が正常に働き続けているというのに、その彼女の正常な呼吸、嚥下や血液循環を保証している器官を取り外せと？
+	我々にそのような能力はない。誰にそのようなことができるというのだ？この実験は短時間では再現することさえ不可能であるのに、実験成果から逆推して正常な身体組織に還元しろと？
+	
+	「ローキャン水槽」ラボは今やただのくず鉄で、残りわずかの研究資料も一掃された。破棄されてしまったのか、出資者が回収に成功したのかさえわからない。ラボの事実上の掌握者はこのようなスキャンダルを外部に漏らしはしないだろうし、我先にと「ローキャン水槽」の残骸に群がってその血肉を啜う他企業も決して少なくない。クルビアの都市それぞれにどれほどのスパイが潜んでいるだなんて、誰が数え切れるだろうか。
+	ローキャン・ウィリアムズは確かに天才なのだろう。だが、彼の無知と無感情は多くの生命を犠牲にし、彼自身をも破滅に導いた。己の罪に葬られるのも自業自得だ。
+	マイレンダー児童権益保証基金会が廃墟からこの特殊個体を助け出し、秘密裏に海外へ身柄を移したのも、その上層部による深い考慮の結果だろう。クルビアの企業や利益団体の誰ひとりにもローキャンの成果を得ることを許してはならない。この「ローキャン水槽」ラボで起こった事故はそのままおおごとにさせてはいけない。その実験成果がより多くの不安定要素をもたらすことなど許されてはいけない。彼らも許せなかった。その事故自体をなかったことにする方がましと思ったほどだ。
+	そして彼女は最終的に私のところに送られてきた……これもまた数奇な巡り合わせなのかもしれない。あるいは、私がかつてローキャンの師と共にクルビアでの鉱石病研究領域におけるローキャンの学術人生を終わらせたためかもしれない。だが我々は知っている。これしきのことで彼を止めることは叶わない。そして、この大地に生きる命全てを利用しようとする輩を阻止することなどできはしないのだ。
+	こうして、我々とマイレンダーの協力関係は終わった。これは彼らが依頼し、我々の手を介した最後の秘密裏で処理するプロジェクトだ。実験個体のことも、これきりでクルビアのあらゆる記録から消え去る。
+	
+	マイレンダーは実験個体の生死を問わない。彼女の行く末は我々に託された。
+	だが彼女への処置は――もし実験器官を直接取り除いたらどうなるのか？彼女の生体システムへの直接ダメージでさえ一番軽い影響であるかもしれない。
+	この装置には取り替え機能がない。そのような機能を取り付けようと考えたことすら一度たりともないだろう。
+	それはもはや彼女の一部になっている。奴らは、このアーツユニットを……彼女の命そのものとなるように作ったのだ。
+	私には彼女に命を捨てろと強要する資格はない。
+	……だが、道徳というものは我々の面する問題だ。ロドスのではない。
+	
+	――ケルシー医師
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of some of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system; there are signs of Oripathy infection. 
+	
+	[Cell-Originium Assimilation] <1%
+	
+	[Blood Originium-Crystal Density] 0.13u/L
+	
+	Most currently known internal organ crystallization and Originium hyperplasia originate from localized lesions caused by the accumulation of Originium particles in the bloodstream. 
+	Yes, Touch, your hypothesis is more or less on point. 
+	This particular subject can perhaps be called an Infected, but it's hard to say this is Oripathy. 
+	The Infected organ located in her brain stem isn't natural. That's right... It was an artificial implant. Having referenced Raidian's inspection report, we can say for certain that this device is unmistakably artificial in nature. 
+	
+	If, just like this particular subject, Specter's Infection was artificially induced... Leaving aside the question of how Specter's immune system is able to fight her Originium infection so fiercely... the liquid Originium density in Specter's cerebrospinal fluid has already reached such a high level that her life is undeniably in danger. We had to resort to all kinds of measures just to prevent her situation from getting any worse, as we naturally should do. 
+	Let's look at the experiment that was performed on this particular individual. One of the objectives of this experiment was to figure out how to contain the Originium Infection and the negative effects it produces. 
+	And they managed to pull it off, albeit only temporarily. 
+	From the project's inception, their plan was to create an individual who is not afflicted by Oripathy but is nonetheless an Infected. A caster who doesn't need an Arts Unit. A master of Originium Arts who does not need to be trained in its theory. 
+	Her Infected organs do not exacerbate the Originium density in her body in any way. In a certain sense, this individual is as good as not Infected. 
+	With her life functions still in perfect order, should we really remove this artificial organ? The organ that lets her breathe and swallow, and lets her blood flow normally? 
+	I'm afraid we haven't met that requirement. No one has. This experiment is likely impossible to reproduce in the short term, and we are supposed to reverse its results, to return her body composition to normal? 
+	
+	The Loken Watertank Laboratory is a shambles. The little research data they had were all wiped out as well. We will likely never know whether the data was destroyed or successfully retrieved by its sponsor. The lab's actual proprietor would prefer to keep news of the scandal under wraps. The technological companies looking to thrive in the wake of Loken Watertank's downfall are likely a dime a dozen, and who knows how many spies there are in the Columbian cities? 
+	Loken Williams was a genius, but his ignorance and apathy led to the deaths of many, including his own in the very end. Poetic justice, no doubt. 
+	The Maylander Child Rights Protection Foundation's rescue of the individual from the laboratory ruins and their subsequent exfiltration from the country were the result of its board's careful deliberation. They were intent on keeping Loken's research results out of the hands of Columbian companies and interest groups. If the research conducted at Loken was allowed to continue to ferment, it would only result in further instability. This will not be tolerated. They will not allow it. They would rather pretend it happened in the first place. 
+	In the end, the girl ended up under my care... Perhaps by fate, or perhaps because, along with Loken's mentor, I was the one who ended Loken's life as an Oripathy researcher in Columbian academia. But we both knew it in our hearts that he wasn't going to be stopped by that. It was nowhere close to enough to stop someone who would claim the lives of everyone who walks upon this land for his own benefit. 
+	With this, our cooperation with Maylander came to an end. This would be the final mission ever to be sanctioned by them and carried out in secret by us. This individual, the experimental subject, will forever disappear from Columbia's records. 
+	
+	Maylander doesn't care if she lives or dies. What happens to her from here onwards is up to us. 
+	But what would her treatment—the removal of this artificial organ—entail? The damage this has on her system may be minimal. 
+	The device does not have a replacement function. It had never crossed their minds to implement such a function. 
+	The device has already become a part of the individual. They turned her Arts Unit... into her life source. 
+	I don't have the right to ask her to give up her own life. 
+	...However, ethics is a matter between you and me, not Rhodes Island. 
+	
+	——Dr. Kal'tsit
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음.
+	
+	[체세포와 오리지늄 융합률] <1%
+	
+	
+	[혈중 오리지늄 결정 밀도] 0.13u/L
+	
+	이미 확인된 대부분의 생리 기관 결정화 현상과 오리지늄 증식 현상은 대부분 혈중 오리지늄 입자가 과다하게 누적되어 발생한 부분적 병변에서 기인한다.
+	    그래, 터치, 네 추론이 대체로 맞아.
+	    어쩌면 이 특수 개체도 감염자라 할 수 있을지도 모르지, 그렇다고 광석병이라고 하기엔 좀 무리가 있어.
+	
+	    환자의 뇌간에 있는 감염 기관은 자연적으로 생긴 게 아니야. 맞아…… 인공적으로 이식된 거지. 레이디언의 관찰 보고서를 보면, 이 장치가 100% 인공적으로 만들어진 것임을 판정할 수 있지.
+	
+	    만약 스펙터의 감염이 이 특수 개체의 감염 같은 인위적인 감염이라 한다면…… 스펙터의 면역 체계가 계속해서 오리지늄 감염이 일으키는 생리 현상에 격렬히 저항하는 것은 차치하고…… 스펙터의 뇌척수액 속에 흐르는 고농도의 액화 오리지늄은 확실히 그녀의 생명을 위협하고 있어. 우리는 가능한 모든 수단을 동원해 그녀의 병세가 악화되는 걸 막아야해.
+	    그리고 지금, 이 특수 개체에 실시하는 실험의 목표 중 하나가 바로 오리지늄 감염이 신체에 끼치는 악영향을 억제하는 거다.
+	    일시적이긴 했지만 그들은 해낸 거지.
+	    착수할 때부터 그들은 광석병에 감염되지 않은 감염자, 아츠 유닛을 사용하지 않는 캐스터, 심오한 오리지늄 이론 학습이 필요 없는 위대한 캐스터를 만들고 싶어했지.
+	    감염기관이 그녀의 체내 오리지늄 결정 밀도를 높이진 않을 거야. 이 특수 개체는 어떤 의미로는 '감염되지 않았거든.'
+	    특수 개체의 생리 기능이 정상적으로 작동하는 상황에서 그 인공 기관을 꺼낸다고? 지금 그녀로 하여금 정상적으로 호흡하고, 삼키게 하고, 혈액을 순환시켜주는 기관을?
+	    우리는 그럴 여건이 안 돼. 누가 할 수 있겠어? 심지어 이 실험은 단기간 내에 반복할 수도 없는데, 지금 이 성과를 거슬러서 정상적인 신체 조직으로 돌려놓겠다고?
+	
+	    로켄 수조 실험실은 이미 고철더미가 되어버렸고, 얼마 남지 않은 연구 자료도 소실된 마당에, 이 자료들이 파기된 건지, 아니면 그 후원자가 제대로 회수해 갔는지도 우리는 알지 못해. 실험실의 실질적인 통제권을 가진 사람들이 이런 추문이 밖으로 새어나가게 놔두지도 않을 테고, 로켄 수조의 잔해 속에서 파묻혀서 어떻게든 뭐라도 건져보려는 다른 기술 회사들도 적지 않은 마당에, 컬럼비아 각 도시에 얼마나 많은 스파이가 있는지 누가 알겠어?
+	    로켄 윌리엄스는 확실히 천재였지만, 그의 무지와 무관심은 많은 생명을 희생시켰어, 그리고 끝내 자신의 목숨마저 앗아가고 말았지. 그는 응당 자신이 판 범죄의 무덤에 묻혀버려야 할 자였다.
+	    메이랜더 아동 권익 보호 재단이 이 특수 개체를 폐허에서 구출해 국외로 비밀리에 옮길 수 있었던 것 역시 상층부에서 준비한 주도면밀한 계획의 결과인 거다. 컬럼비아의 어떤 회사나 이익 단체도 로켄의 성과를 손에 넣어선 안돼. 로켄 수조 실험실에서 발생한 사고는 더 이상 언급되어선 안돼. 실험의 성과가 알려지도록 내버려 두고, 더 많은 사고가 발생하는 걸 지켜볼 건가? 그런 일은 그들이 허락하지 않아. 그들에게 있어서 이 일은 차라리 아예 일어나지 않은 게 나아.
+	    그녀는 마지막에는 내게 보내졌지…… 어쩌면 우연의 일치일지도 모르고, 어쩌면 내가 로켄의 스승과 손을 잡고 컬럼비아 광석병 연구 영역에서 로켄이 이룬 학술적 업적을 종결지어서 그런 걸지도 몰라. 하지만 우리 모두 알다시피 이걸로는 그를, 이 땅의 모든 생명을 이용하려는 자들을 막을 수 없어.
+	    어찌보면 우리와 메이랜더의 협력 관계도 이제 끝이 난 거라 할 수 있겠지. 이게 아마 그들로부터 시작되어 우리의 손을 거쳐 처리되는 마지막 비밀 프로젝트가 될 거야. 실험체는 즉시 컬럼비아의 모든 기록에서 사라질 거고.
+	
+	    메이랜더가 이 실험체의 생사를 신경 쓰진 않을 거야, 이후 그녀의 앞날은 우리 손에 달려있겠지.
+	    하지만 그녀에 대한 처리, 실험 기관을 떼어내는 것이 그녀에게 어떤 영향을 끼치게 될까? 생리 시스템에는 경미한 손상만 입힐 수도 있겠지.
+	    이 장치는 교체 기능이 없어. 그들이 이런 기능을 설계할 생각을 전혀 하지 않았으니까.
+	    장치는 이미 이 특수 개체의 일부가 되었고, 그들은 그녀의 아츠 유닛을…… 그녀의 생명으로 설계해 버렸어.
+	    나는 아직 그녀에게 자신의 생명을 포기하라고 말 할 자격이 없어.
+	    ……하지만 도덕적인 문제는 우리 사이의 문제지, 로도스 아일랜드의 문제는 아니야.
+	
+	——닥터 켈시
+
+———————————————————————————————
+
+	档案资料一 :
+	唔，我们已经列了一张双向对比表了......嗯，她本人就和外表一样，是个小小的菲林姑娘。这些没有什么可说的......
+	但是她的法术，呃，虽然我们已经停止在室内进行测试了，不过之前得到的这些数据还是能说明很多问题的。
+	啊，提太多理论上的东西似乎不太好，我也不太懂，理论术师们老说是逆向知觉啊思维冲动之类的，似乎和认知学与神经学有比较大的关系，都已经是我不懂的东西了。
+	这里就只说说这种法术的表现吧。嗯，毕竟很多东西也是机密的，这份资料只是给你大概了解一下。
+	已经有人开始把她的法术叫做精神实体了。因为......这么解释确实很形象，很方便。
+	她的法术既能延展成一张能覆盖很大范围的、感知范围内物体运动状态的“网”，范围内的个体则一般对这种“触摸”毫无知觉；她的法术也能单纯地作用在单一个体上，我觉得可能很像一只大手......即使要求她把法术控制在最小范围内，也会至少影响好几平方米的大小。这大概是因为她是想“握住”目标吧。而且，这种力似乎没办法被施加在目标内部，就算是一个透明的，能清晰看见里面内部构造的水壶，她也没办法从里面撑破它，只能从外面挤压水壶。这就越来越像是一个可被延展、可被塑形的施力实体了。
+	在测试过程中，根据“手”和“握”这个意象，我们大致推测，她在注意力极度集中的情况下最多能运用“四只”巨大但无形的“手”。测算结果好像是根据法术活性和深水测试来计量的。无论是速度测量还是力度测量，都证明了她的法术力蕴含着庞大的能量，但我们在它运作并打碎什么东西前，连法术形成的征兆都观测不到。
+	为什么是四只，为什么是无形的“手”呢？是因为她就是这么想象的吗？确实，在检查目标结构形变的过程中，我们几乎会觉得，有些凸起就像是指缝的位置......
+	温差较大的情况下，她在使用法术时似乎也会被冻伤和灼伤......至少在神经活动上是的。没有任何症状显现，只是她会说......“冷”......或者“疼”，而且根据她大脑皮层的活跃程度，这是真的。
+	（录音声音逐渐变轻）
+	我听过一个很不靠谱的说法......甚至有些可怕。
+	他们说她的兄弟还活在她的身体里。她的法术就是她的兄弟在......伸出手，拥抱土地，或者用力捶打。
+	我不知道这是从谁开始这么说的。真令人不安。
+	
+	——场记员术师干员KK的录音
+
+	第一資料 :
+	ほら、相互比較表は作ったよ……ああ、本人は外見に違わず、ちっちゃいフェリーンっ娘だ。そこんとこは言うことないだろう……
+	だがアーツはな、うーん、室内でのテストはもう止めたんだが、それまでに入手できたデータでもかなりの問題の説明はつく。
+	ああ、理論面のことを話しすぎるのもしょうがないだろう。俺だってあんまわかんねぇわ、理論術師たちはいっつも逆知覚とか思考衝動とか言ってるけど。なんか認知学や神経科学が大きく関わっているとか言うが、そこらへんは俺はさっぱりだ。
+	今はそのアーツの表れ方の話だけにしよう。ああ、ほとんどは機密扱いだからな、この資料もお前に大まかな中身を知ってもらうためだけだ。
+	一部ではもう彼女のアーツを「精神実体」と呼び始めている。なんせ……そのままだからな、わかりやすくて便利だ。
+	彼女のアーツは広い範囲を覆い、内部の物体の運動状態を感知するための「網」を形成しながらも、内部の個体にそういう「接触」を全く悟らせないこともできるし、逆に純粋に一個体のみに作用させることも可能だ。たぶん大きな手のようなイメージだろうな……たとえ彼女にアーツの範囲を最小限に留めておくように要求しても、少なくとも数平方メートルを影響下においてしまう。彼女のイメージからして目標を「握る」ような感覚だからだと思う。しかも、その力は目標の内部に及ばないらしい。たとえ透明な、内部構造が鮮明に見える水筒でも、その中から水筒を破壊することはできない。外部から力を加えてそいつを押しつぶすことしかできないんだ。ますます、伸ばせて変形させることが可能な力が込められた実体っぽく感じられる。
+	テスト中、「手」と「握る」といったイメージを通して、我々は彼女が高度の集中状態において、上限「四本」の巨大かつ無形の「手」を駆使できると推測した。推測計算の結果は、アーツの活性と深水実験をもとに計られたものらしい。速度テストでも強度テストでも、彼女のアーツには莫大なエネルギーが秘められていることが証明された。だが、そのエネルギーが活性化し何かを砕く寸前まで、我々はアーツの形成予兆でさえ観測できなかった。
+	なぜ四本、なぜ無形の「手」なのだろうか？彼女がそう想像したからなのか？確かに、標的物体の構造や形状の変化への確認中、一部の突起はまるで指の間に挟まれた位置にあったみたいと感じたんだ……
+	温度差が大きい場合、彼女はアーツの使用中に凍傷や火傷を負うこともあるようだ……少なくとも神経活動を見る限りは。何の症状も見られないが、彼女は……「冷たい」……あるいは「痛い」など言い出すんだ。しかも脳の皮質の活動を見る限り、それが本当みたいなんだ。
+	（録音の音量が次第に低くなる）
+	一つ、あんまりアテにならない話を聞いたことがあるんだ……というか、恐ろしい話だ。
+	彼女の兄弟が、まだ彼女の体の中で生きている、ってやつだ。彼女のアーツは、その兄弟たちが……手を伸ばして、大地を抱きしめたり、何かを殴ったりしている、という話だ。
+	誰から始まった噂なのかは知らない。本当、背中が凍える気分になるものだ。
+	
+	――記録員・術師オペレーターKKの録音より
+
+	Archive File 1 :
+	Hmm, we've already put together a two-way comparison table...Yeah, she is exactly as she looks. Just a little Feline girl. There isn't very much we can say about that...
+	However, her Arts... Well, we've stopped holding the tests indoors already, but the data we got from the tests before explains a lot. 
+	I guess it's not a good idea to talk theories here. I mean, I don't really understand theories myself. The theoretical casters are always talking about stuff like perception reversal and thought impetus. Seems to have to do with cognitive science and neurology, and things I'm bound to never understand. 
+	Let's just talk about her Arts' performance. Right, I mean, there's quite a lot that's classified, and this information is just here to give you the gist. 
+	Some of us have started to call her Arts her spiritual entity. After all... This is a very fitting and convenient way to describe it. 
+	Her Arts can stretch out into a wide 'net' that can detect the movements of objects within its range. The 'net' covers a huge area, and most people are unaware of her 'touch.' Her Arts can also be used on just a single individual. I suppose it's like a big hand... I've tried asking her to keep her Arts's range to the smallest area possible, but, even then, she can only manage to shrink it down to a few square meters. I'm guessing that's because she's trying to 'grip' her target. Aside from that, it doesn't seem she can use this power on the inside of her target. Even when we gave her a transparent pitcher with its innards clearly visible, she couldn't make the pitcher burst from the inside. All she could do was squeeze it from the outside. This looks even more and morelike a flexible, malleable force-exerting entity. 
+	During the test process, still going by that 'hand' and 'grip' imagery, we surmised she's able to use at most four of those large, shapeless 'hands' of hers when her concentration is at its peak. It seems the test results were measured based on her Arts' activity and deep water testing. Both her speed and strength measurements go to show that there is tremendous power hiding in her Arts, yet we aren't even able to detect any signs of her using her Arts before they break something. 
+	Why just four, and why are they all shapeless 'hands'? Is that how she imagines them? Indeed, when we were examining the deformation of her targets' structures, we can't help but think that some of the bumps might be the gaps between her fingers...
+	And whenever there was a considerable temperature difference, she would also seem to get frostbite or burns when she uses her Arts... neurally speaking, at least. There weren't any apparent symptoms. She would just say... 'It's cold'... or 'It hurts.' And based on her cerebral cortex's activity, it's true. 
+	(The voice in the recording gets softer)
+	I heard an explanation that's kinda out there... even scary. 
+	They say her brother still lives within her. And her Arts are like... her brother reaching out his hands, either hugging the land or pounding it with force. 
+	I have no idea who was the first person to say that. It's unsettling. 
+	
+	——Recording of Field Reporter Caster KK
+
+	파일 자료 1 :
+	    음, 우리가 쌍방향 대조표를 작성했는데 말이지…… 그녀는 보이는 겉모습 그대로 한 명의 어린 필라인 아가씨야. 이 점에 대해서는 다른 설명이 필요 없는데……
+	    근데 그녀의 아츠는 말이지, 음, 비록 우리가 실내 테스트를 벌써 중단했긴 하지만, 그전에 얻은 수치들이 여러 가지 문제점을 시사해 주고 있어.
+	    아, 너무 이론적인 것만 설명하는 건 별로겠지, 나도 잘 모르기도 하고. 이론을 중시하는 캐스터들은 언제나 역지각이니 사유충동이니 뭐니 하며, 인지학 및 신경학과 연관 있는 것들을 얘기하곤 하는데, 이런 건 나도 잘 모르는 것들이니까.
+	    그러니 여기서는 이 아츠의 효과에 대해서만 이야기하자고. 음, 어쨌든 많은 것들이 기밀이긴 한데, 이 자료는 네가 대략적인 내용을 이해하는 데는 도움이 될 거야.
+	    이미 그녀의 아츠를 정신의 실체라 부르기 시작하는 사람들도 있어. 왜냐면…… 이렇게 설명하는 게 더 구체적이고 편하거든.
+	    그녀의 아츠는 매우 넓은 범위에 걸쳐 시전 될 뿐만 아니라, 범위 내에 있는 물체의 운동 상태를 감지할 수 있는 '그물'과도 같은 역할을 해. 단, 범위 내의 개체는 이런 '접촉'을 느낄 수 없지. 또한 그녀의 아츠를 오로지 단일 개체에만 적용할 수도 있는데, 나는 이걸 커다란 손과 같은 거라고 생각하고 있어…… 최대한 좁은 범위에만 적용해달라고 요청한 적이 있는데, 최소 몇 제곱미터 크기는 영향을 끼칠 수 있더라고. 아마도 목표를 움켜쥐고 싶다고 생각하기 때문이겠지. 이 힘은 목표 내부에 영향을 줄 수는 없는 거로 보이는데, 설령 내부가 훤히 드러나 보이는 주전자일지라도 안에서부터 파괴할 수는 없고, 외부에서 짓누르는 수밖에 없더라고. 늘어날 수 있으면서도 형체를 가진 힘과 같은 거지.
+	    '손'과 '움켜쥠'이라는 생각을 하고, 그녀가 극도로 집중한다면 최대 '4개'의 거대한 무형의 '손'을 다룰 수 있을 것이라고 보고 있어. 테스트 결과는 아츠의 활성도와 심층 테스트에서 측정한 값을 근거로 한 것 같아. 속도나 강도 측면에서 모두 그녀의 아츠가 굉장한 에너지를 품고 있다는 것을 증명했지만, 우리는 실제로 아츠가 시전 되고 무언가를 부수기 전까지는 아츠 형성의 징조조차 관측하지 못했지.
+	    어째서 4개고, 어째서 형태가 없는 '손'인 걸까? 그녀가 그런 상상을 해서? 확실히 목표의 구조 변형을 검사하는 과정에서 발견한 몇몇 돌기의 위치가 손가락 사이인 것 같긴 한데……
+	    온도차가 비교적 큰 경우 그녀가 아츠를 사용할 때 동상이나 화상을 입을 수도 있는 것 같더라고…… 적어도 신경 활동 측면에서는 말이지. 표면적으론 어떤 증상도 없이 그저 그녀가 '추워'나 '아파'라고 말할 뿐이지만. 그녀의 대뇌 피질 활성화 정도를 보면 진짜 그렇게 느끼는 것 같아.
+	    (녹음된 목소리가 점차 작아진다)
+	    말이 안 되다 못해, 무서울 정도의 얘기를 들은 적이 있어.
+	    그녀의 동생이 아직 그녀의 몸속에 살고 있다 하더라고. 그녀가 시전하는 아츠는 바로 그녀의 동생이…… 손을 뻗어 땅을 끌어안거나 힘껏 두드리는 거라고.
+	    누가 이런 말을 꺼낸 건지는 모르겠어. 정말 사람 불안하게 만드는 이야기지.
+	
+	——기록자 캐스터 오퍼레이터 KK의 녹음
+
+———————————————————————————————
+
+	档案资料二 :
+	梅兰德送来的患者接受干员训练已经一段时间了。我不清楚这是凯尔希还是Outcast的主意，但这确实让她好些了。
+	她不像我见过的其他实验受害者一样，常发出撕心裂肺的尖叫，或是完全丧失生活能力，蜷缩在容器中发抖。
+	她是个受过一定教育的来自中等家庭儿童，这是我全部的最初印象。只是在她精神不稳定时，她对舰体造成的破坏才的确触目惊心。
+	她对实验室感到恐惧。她对医疗器材感到憎恨。她还能轻松把强度数倍于标准护甲的装置在半空压成拳头大小的一团，我怀疑，如果不是Logos在，我们大抵都已经死过几次。
+	这样一来，她之前有着怎样的遭遇，我们也算是比较清楚了。凯尔希最近要求工程部重新装修了部分实验室和医护康复病房，我也给检查设施之类的换了一些配置，比以前更舒服些，更温馨些了。
+	她闹得没有那么厉害了。
+	和她讲对错没什么用......她明明是个很懂事的孩子。但她已经暴露出了类似于记忆丧失的精神疾病，她甚至会忘记专业性知识。
+	但我们发现，对她进行培固性训练是有效的。Touch猜测，她不是真的忘了，只是会把记忆封存起来。我们都觉得这和她大脑里的那个装置有关系。或者她就是想要这种结果，所以她的法术帮她完成了。
+	她的法术肯定不只是意念传动那么简单。她过去的遭遇困扰着她，所以她才会想把记忆给抹去。但她又没法控制剩余的，强烈但无序的情绪......一团乱麻。她会懊恼自己为什么又忘了，很焦虑，很迷茫。她苦恼于不能达到我们的预期，哪怕我们都更愿意鼓励她，帮助她。她还是会自责。
+	至少我们不可能去回溯她参与实验的过程了。这件事几乎被她从自己的脑中挖空了，那是很暴力的方式，接近封闭。她的失忆症状甚至都可能只是这个行为的副作用。
+	她的认知概念在不断地被她消耗掉，我猜，被她的人造器官，用以处理她身体的持续应激状况。
+	
+	我想她需要一个记录器。我会给她造一台终端，方便输入的那种。这样她就能时常翻阅记录，去重新挖掘出她想要的那些场景和词句，让她的情感重新回归她脑中的事实，规整起来。像是把台词还给电影。
+	有一次她问我，为什么在房间里不让她穿鞋，我一边解释安全问题，一边想着从阿米娅那里借一双鞋，让她出舱的时候穿。阿米娅亲自带着新鞋过来了，很合适。两个孩子交上了朋友。阿米娅很擅长安抚她。
+	那时我想，这个患者的生活应该从现在开始，而不是她以前的什么时候。她身上的谜团还很多，可这又怎么样呢。
+	凯尔希说她过段时间会发起一次术师和医疗精英干员间的投票。虽然我是搞工程的，不会去参与，但如果我去，我应该是会投让这个孩子继续在岛上生活的那边。如果她需要人去疏导她的压力，去指导她如何控制她的法术，那我们这些人再合适不过了。
+	
+	——模糊不清的个人记录，被夹在了资料夹里
+
+	第二資料 :
+	マイレンダーが送ってきた患者にオペレーター訓練を受けさせてからしばらく経つ。ケルシーの案かOutcastの案か知らないが、確かに彼女を落ち着かせたようだ。
+	私が会った他の実験被害者のように、いつも裂けるような悲鳴をあげているわけでも、完全に生活能力を失い、容器の中に縮まって震え続けるわけでもない。
+	この子供はある程度の教育を受けたことがある、中流家庭の出だろう、というのが私の最初のイメージだ。精神が不安定な時のみ、彼女が引き起こす艦体への破壊が痛々しさを如実に物語っていた。
+	彼女は実験室を恐れている。医療器材を憎んでいる。通常基準装甲の数倍の強度を持つ装置を、空中で握りこぶし程度の大きさにまで簡単に圧縮させることができてしまう。もしLogosがいなければ、私たちはもう数回は死んでいたのではないだろうか。
+	ここまで来れば、この子が以前どのような目にあったかを我々も想像することができた。近頃、ケルシーは一部の実験室とリハビリ病室のリフォームをエンジニア部に要請した。私も検査用設備の配置を一部変更した。これで以前よりは快適で、温かみが感じられるようになった。
+	彼女はさほど暴れなくなった。
+	彼女に事の正しさだとか間違いだとかを説明しても意味がない……物分りの良い子であるのは明らかなのだ。だが、彼女はすでに記憶喪失に類似した精神的な病状を発現している。時には専門的な知識でさえ忘れてしまうのだ。
+	だが我々は、彼女に条件反射的な適応訓練を施すのは有効であると気づいた。Touchの推測によれば、彼女は本当に忘れ去ったのではなく、ただ記憶を封じ込んでしまっただけである。それは彼女の脳の中にある例の装置と関係があると我々は踏んでいる。あるいは、その忘却に似た記憶封印こそが彼女自身が求めた結果で、アーツは彼女の願いを実現させたのではないだろうか。
+	彼女のアーツは単純な念動力では収まらないはずだ。過去の出来事は彼女を煩わせている。だからこそ、記憶を消し去りたいと願ったのではないだろうか。だが、彼女はその後に残った強烈で乱雑な感情をコントロールする術を持っていない……めちゃくちゃだ。彼女はなぜまた忘れてしまったのかと自身を責める羽目になり、焦りと戸惑いに陥ってしまう。彼女は、我々の期待に応えられないことに悩んでいる。我々は彼女を励まし、協力したいと考えているのにもかかわらず、彼女は自分を責めている。
+	彼女がかつて施された実験の記憶を辿ることはもうできない。その件について、彼女は自分の脳からすっからかんになるまで掘り出して捨ててしまった。自己封印にも近い暴力的なやり方だった。彼女の記憶喪失症状は、全てその行為の副作用である可能性さえ存在している。
+	彼女が身につけていた認識や概念が絶えずに消耗され続けている。おそらく例の人造器官によって、彼女の体が続けているストレス反応への対応のために消耗していると推測される。
+	
+	彼女には記録装置が必要だと思った。入力しやすい端末を一台作ってあげるつもりだ。そうすれば、彼女は常に記録を顧みることができ、求めた状況や言葉を振り返ることによって、事実を、感情を再び脳内で結びつけることができるようになる。音声が消された映画に再び台詞を付けるように。
+	一度、なぜ部屋の中では靴を履いてはいけないのかと彼女に聞かれたことがある。安全性を考慮しているためだと答えながら、アーミヤに靴を借りて、彼女が外出する時に履けるようにしないと、と思った。アーミヤは新しい靴をわざわざ持ってきてくれた。彼女のサイズぴったりな靴だった。二人はすぐ仲良くなり、アーミヤは彼女をなだめるのがとても上手だった。
+	その時思った。この患者の生活は今から新たに始まるべきだと。彼女の起点は過去にはないのだと。彼女には確かに未だ多くの謎が潜んでいるのかもしれない。だがそれがどうしたというのだ。
+	ケルシーは、しばらくしたら術師と医療のエリートオペレーターの間で投票を行うと言っていた。自分はエンジニア畑で参加することはないのだろうが、もし参加できるとしたらきっと、この子にこのままロドスで生活させる方に投票するだろう。もし彼女が必要としているのはストレスの発散とアーツの制御方法ならば、我々のような者たちこそが誰よりも適任なのだから。
+	
+	――文字がぼやけた個人記録。資料ファイルに挟まれている。
+
+	Archive File 2 :
+	It's been a while since the patient Maylander sent us began her training. I have no idea if this is Kal'tsit or Outcast's idea, but there's no doubt she's got better thanks to this. 
+	She's not like the other experimentation victims I've seen. They're either always screaming their lungs out, or they've already lost their ability to live and take care of themselves; they're always just curled up in their vessels, trembling. 
+	My first impression is that she is from a middle-class family and has received a certain amount of education. But when her mental state is unstable, the destruction she wreaks on the ship sure is a terrifying sight to behold. 
+	She fears laboratories. She hates medical equipment. And even though our equipment is already several times hardier than normal armor, she even managed to lift one up into the air and crushed it into a ball about the size of a fist. I suppose if it wasn't for Logos, all of us would've long been dead several times over. 
+	But thanks to that, we now have a pretty good picture of the kind of life she lived. Kal'tsit has recently requested Engineering to renovate some of the laboratories and rehab sickrooms. I also took the opportunity to replace some of the equipment in the testing facilities to give them a more comfortable, warmer feel. 
+	And now she doesn't make quite as much of a scene. 
+	Trying to talk to her about what's right or wrong isn't going to do us much good... She's a very sensible kid to begin with. She demonstrates a kind of mental sickness not dissimilar to memory loss. Sometimes, she even forgets her professional knowledge. 
+	Nonetheless, we found that reinforcing her knowledge bit by bit is effective. Touch speculates that she hasn't actually forgotten. She's merely sealed her memories. We think this might have to do with the device in her brain. Or perhaps this is the result that she wanted, and her Arts helped her achieve that. 
+	Her Arts definitely isn't as simple as a kind of telekinesis. Her past torments her, and that's why she's trying to erase her memories. But she also isn't able to control the strong, unorderly emotions left over... It's a mess. Then, she gets upset that she's forgotten again, and gets anxious and confused because of that. She gets distressed for not meeting our expectations, even though we'd be more than willing to cheer her on and help her. She will still blame herself. 
+	At the very least, it's not possible for us to retrace her participation in the experiments. She has practically dug her entire brain out. It's a violent way to go about it, almost like she sealed herself away. Her amnesic symptoms might even be side effects of this behavior. 
+	Her cognitive ability is being exhausted by herself relentlessly. My guess is her artificial organ is using it up to deal with her ongoing stress. 
+	
+	I think she needs a recorder. I will make her a terminal. One that's easy to type on. That way she can go over her notes whenever she wants, dig up those scenes and dialogues she wants, and restore her emotions back to the truths in her head and reorganize them. Just like giving a movie its dialogues back. 
+	Once she asked me why I wouldn't let her wear shoes in the room. As I explained the safety side of it, I also thought of borrowing a pair of shoes from Amiya for her to wear when she leaves the cabin. Amiya came over herself. She even brought with her a new pair of shoes, and were they not a perfect fit. The two kids were fast friends. Amiya was very skilled at comforting her. 
+	I thought to myself. That was the moment the patient's life truly began instead of some point in the past. There are still lots of mysteries surrounding her, but what does any of that matter? 
+	Kal'tsit said she'll put up a poll for the casters and medical elite operators after a while. I'm in engineering, so I'm not voting, but if I had a vote, I would probably vote to let her stay on the island. If what she needs is someone to guide her through her stress, to teach her how to control her Arts, then we're the right men for the job. 
+	
+	——Indistinct personal records found inside a folder.
+
+	파일 자료 2 :
+	    메이랜더에서 보낸 환자가 오퍼레이터 훈련을 받은 지 어느 정도 시간이 흘렀다. 이게 켈시의 생각인지 아웃캐스트의 생각인지는 잘 모르겠지만, 그녀가 어느정도 괜찮아진 건 확실하다.
+	    그녀는 내가 보아온 다른 실험 피해자와는 달리, 종종 고통스러운 비명을 지르거나, 완전히 생활 능력을 상실한 채 용기 속에 웅크려 몸을 떨기만 하거나 하진 않았다.
+	    그녀는 어느정도 교육을 받은 중산층 가정 출신의 아이라는 것이 그녀에 대한 내 첫인상의 전부다. 그녀가 정신이 불안정할 때 선체에 손상을 가한 것은 확실히 놀랍긴 했지만.
+	    그녀는 실험실을 두려워한다. 그리고 의료 기구를 증오한다. 그녀는 일반적인 방어구의 수배에 달하는 강도를 지닌 기구를 가볍게 주먹만 한 크기로 뭉개버릴 수 있었는데, 로고스가 없었다면 우린 목숨이 몇 개라도 모자랐을 것이다.
+	    이렇게 우리는 그녀가 이전에 어떤 일을 겪었는지 비교적 명확히 알게 되었다. 최근 켈시는 엔지니어링부에 일부 실험실과 재활 병동을 리모델링 해달라 요청했고, 나 역시 검사 시설 배치 등을 새롭게 바꿔 이전보다 편하고 안락한 분위기를 조성했는데, 이렇게 하자 그녀는 예전처럼 그렇게 심하게 소란을 피우지 않았다.
+	    그녀에게 뭐가 맞고 틀린 지 일일이 가르쳐줄 필요는 없다. 그녀는 분명 철이 든 아이니까. 그러나, 그녀는 기억 상실과 같은 정신 질환을 보였고, 심지어 전문적인 지식마저 잊어버렸다.
+	    하지만 우리는 그녀에게 진행하는 재활 훈련이 효과가 있음을 발견했고, 터치는 그녀가 정말로 기억을 잃어버린 것이 아니라, 봉인한 것일 수도 있다고 추측했다. 우리는 이런 것들이 그녀의 머릿속에 심어진 장치와 관련이 있을 거라 생각한다. 아니, 어쩌면 그녀 스스로가 이런 결과를 원했기에, 그녀의 아츠가 이렇게 되게끔 도와준 것일 수도 있으리라.
+	    그녀의 아츠는 분명 생각을 전하는 역할만을 수행하는 그런 단순한 것이 아니다. 과거 그녀가 겪은 일이 자신을 괴롭히고 있기에, 기억을 지워버리고 싶은 것이다. 하지만 그녀는 아직 남아있는 강렬하면서도 무질서한…… 엉망으로 뒤엉킨 감정을 통제할 수 없다. 그녀는 자신이 어째서 기억을 잃은 것인지 고민하고, 초조해 하고, 막막해 할 것이다. 설사 우리가 그녀를 격려하고 도와주고 싶다 할지라도, 그녀는 우리의 기대에 미치지 못할까 고민하며 자책할 것이다.
+	    적어도 우리로서는 그녀가 참여했던 실험 과정을 되짚어 볼 수 없다. 이 사건은 그녀가 스스로의 머릿속에서 파내버린 것이다. 이건 매우 폭력적인 방식으로, 봉인된 것에 가깝다. 그녀의 기억 상실 역시 어쩌면 그 행위의 부작용일지도 모른다.
+	    그녀의 인지 개념은 끊임없이 스스로에 의해 소모되고 있다. 나는 그녀의 인공 기관이 인지 개념을 사용해 신체의 긴장 상태를 유지하는 것이라고 추측한다.
+	
+	    그녀에겐 기록 장치가 필요할 것 같다. 내가 그녀에게 단말기를 만들어 줄 수 있을 것이다. 편하게 입력할 수 있는 그런 기기 말이다. 그렇게 한다면 그녀는 언제고 기록을 뒤져서 그녀가 원하는 장면과 말을 찾을 수 있을 것이고, 마치 영화의 대사를 떠올리는 것처럼 다시 머릿속에서 감정을 떠올려 정리할 수 있을 것이다.
+	    한 번은 그녀가 내게 어째서 방 안에서 신발을 신지 못하게 하느냐고 물어본 적이 있다. 나는 그녀에게 안전 문제를 설명해 주며, 아미야에게서 신발 한 켤레를 빌려와 그녀가 나갈 때 신게 했었다. 아미야가 직접 가져온 새 신발은 굉장히 잘 어울렸고, 두 아이는 친구가 되었다. 아미야는 그녀를 잘 달래준다.
+	    당시 나는 이 환자의 삶이 과거의 어느 순간이 아닌, 이제부터 시작되었다고 생각한다. 그녀에게 아직 풀리지 않은 수수께끼가 많긴 하지만, 그래서 그게 뭐 어쨌다는 말인가.
+	    켈시는 차후 그녀의 거취에 대해 캐스터 및 메딕 정예 오퍼레이터들을 대상으로 한 투표를 진행하겠다고 했다. 비록 나는 엔지니어기 때문에 대상에 포함되진 못했지만, 만약 내게도 투표 권한이 있다면 그 아이가 계속 로도스 아일랜드에서 머물 수 있게 하는 방안에 투표할 것이다. 만약 그녀가 자신의 스트레스를 관리해 줄 사람, 아츠를 제어할 수 있는 방법을 지도해 줄 수 있는 사람을 필요로 한다면, 아마 우리보다 적합한 사람은 없을 것이다.
+	
+	——파일에 끼워져 있는 흐릿한 개인 기록
+
+———————————————————————————————
+
+	档案资料三 :
+	【精英干员档案】 
+	1 感染者。 
+	2 性格： 
+	连结感，实践派。 
+	3 身份相关： 
+	哥伦比亚。 
+	合作关系，灾难性突发事件，合同终止。 
+	感染者，受保护者，实验产物。 
+	禁止透露更多内容。 
+	4 感染者身份相关： 
+	归属，理解，维护。 
+	5 战术要旨： 
+	小队核心，歼灭，专注。 
+	6 ■■可能性： 
+	中等。 
+	7 B类事件： 
+	允许。谨慎指导。 
+	8 调动许可： 
+	凯尔希，阿米娅 
+	
+	新增调动许可：博士。
+
+	第三資料 :
+	【エリートオペレーター記録】
+	1 感染者。
+	2 性格：
+	社会的繋がりを重視、実践派。
+	3 身分関連：
+	クルビア。
+	協力関係のち、災害的突発事件により、協力終止。
+	感染者、被保護者、実験産物。
+	これ以上の情報の開示を禁ずる。
+	4 感染者関連：
+	所属、理解、維持。
+	5 戦術要旨：
+	小隊の核心、殲滅、高度な集中力。
+	6 ■■の可能性：
+	中レベル。
+	7 B分類事項：
+	許可。慎重な指導が必要。
+	8 指揮権限：
+	ケルシー、アーミヤ
+	
+	追加指揮権限：ドクター。
+
+	Archive File 3 :
+	[Elite Operator File]
+	1) Infected. 
+	2) Personality:
+	A strong sense of togetherness, Proactive. 
+	3) Information Pertaining to Identity:
+	 Columbia 
+	Partnership status, Disastrous event, Agreement terminated. 
+	Infected, Protected, Experimental subject. 
+	Further disclosure of information forbidden. 
+	4) Information Pertaining to Infected Status:
+	Attachment, Understanding, Protective. 
+	5) Strategy Summary:
+	Core of her squad, Annihilation, Focused. 
+	6) ■■ Possibility:
+	Medium. 
+	7) Type B Events:
+	Allowed. As carefully supervised. 
+	8) Mobilization Authority Granted:
+	Kal'tsit, Amiya
+	
+	 Newly Granted: Doctor.
+
+	파일 자료 3 :
+	[정예 오퍼레이터 파일]
+	1. 감염자.
+	2. 성격: 
+	연결감, 실천파.
+	3. 신분 관련: 
+	컬럼비아.
+	협력 관계, 재난성 돌발 사건, 계약 종결.
+	감염자, 피보호자, 실험의 산물.
+	추가 정보 개방 금지
+	4. 감염자 신분 관련: 
+	귀속, 이해, 보호.
+	5. 전술 요지: 
+	팀의 핵심, 섬멸, 집중.
+	6. ■■가능성: 
+	중급.
+	7. B 타입 사건: 
+	허가. 신중한 지도.
+	8. 인계 허가: 
+	켈시, 아미야
+	
+	신규 인계 허가: 박사.
+
+———————————————————————————————
+
+	档案资料四 :
+	洛肯水箱不是问题的源头。
+	事发时，洛肯一定承受了巨大的压力，否则以他的性格，还不会这么孤注一掷。
+	我没有为他辩护的意思，但借此剖析他的行为，也许能论证我的一些观点。
+	我想，在之前那段时间里，他迫切地需要实验结果去支撑他的理论，以争取资源，或是维持地位，亦或是保留项目。
+	洛肯会在特殊个体身上植入人造感染器官，只因为他是在做一个感染者项目；如果这是个全新的仿生机械项目，那么实验品即使被替换掉半数以上的器官都不会沾上一点矿石病感染。
+	特殊个体与她的兄弟只因为拥有些许独特的源石技艺天赋，就被卷入这样的实验......她们家庭的破灭与之后的收养生活，虚构的监护人、违规的抚养院，全都与此有关。
+	我不排除那个猜想。梅兰德的报告里明确地指出，洛肯出于实验目的，已经谋杀了她的兄弟，事故的起因正是洛肯强行以她兄弟被提取出的“意识”，启动了她的感染器官。
+	无论是由她自己假想出的，还是像扫描的误差体现出的那样.......这很怪异，我知道。但她的“兄弟”可能依然还存在于她大脑的某个部分中。她可能也还不想知道这件事——这源自她的潜意识里的拒绝，或者，这是她“兄弟”的意愿。
+	过于理论化的神经科学在我这里是行不通的。出于利益而逼催出的实验数据，能用手挤出鲜血。这种实验数据只能支持战争和暴力的理论，我还不需要这些。
+	洛肯水箱预谋已久。规模如此之小的实验室也能指引这样深度的、非人道的犯罪行为，这只证明哥伦比亚的科研在特权道路上走得太远。
+	相较乌萨斯和萨尔贡，哥伦比亚的法律也许的确更先进、更严格。但法律的严苛与否和其缜密程度没有联系，执法者与司法者都只是人。进步的社会有着更“文明”的缺陷。
+	仅仅是因为他们需要她是感染者，仅仅因为他们希望她拥有类似的力量，通过压缩意识来扩大法术投射......她就遭遇了这样的事。
+	
+	我不管是沃尔沃特科钦斯基还是莱茵生命......又或者是虽然牵扯不到但也有嫌疑的制药业的沙滩伞或者塔山生物科技......不管是谁。不管洛肯水箱背后的支持者究竟是谁。
+	迟早会有更大的灾难在这条路上等着他们。
+	
+	所以，投票的结果......我猜有两个人投了反对票。
+	Logos也同意了，对吧。嗯？不，我不意外。你们可能觉得他对卡兹戴尔事务之外的一切都不关心，但那样的他是不会同意成为精英干员的。
+	投反对票的......她们两人的性格就是这样。Pith她们不同意，是再正常不过的事情。
+	我会去说服她们。
+	这当然是你们让我这么做的。得了，Touch，是你们投了赞同票。本来该是你们去说服她们两个。我只是想加快速度。
+	我这么做的原因？
+	今天早上，我在给她做检查的时候，她问我记不记得她叫什么名字。
+	她想知道自己过去的名字。她在逐步开始面对自己的过去......哪怕那过去已经摧毁了她一次。或者，她应该有一个新的名字。
+	......如果我们的城市与我们的居民真的比无数年前的血腥野蛮要进步，那么我们至少应该证明，我们的人格真的进步了。
+	阻止科学被运用来伤害无辜者也是我的责任。
+	也许现在为她取名还为时尚早，她应该自己来想那个名字。但是代号，我们现在就可以给她。
+	我认为她成为干员，对于她的明天和这片大地的明天，比任何其他可行的道路更通达。既然你们同意了，我也承诺，我会教导她。她会成为你们的家人......你们的队友。
+	她做的到。
+	【过往的神话中，有一种神奇的植物能令无法面对记忆的人最终变得勇敢。以后她的代号就叫迷迭香。】
+
+	第四資料 :
+	「ローキャン水槽」は問題の大元ではない。
+	事が起きた時、ローキャンは大きなプレッシャーを受けたことだろう。でなければ、彼の性格からして、このような博打に出るようなことはなかったはずだ。
+	彼を擁護するつもりはないが、彼の行動の分析は、私の一部観点の論拠となるかもしれない。
+	思うに、あの時期の彼は、資源提供を求めるため、地位の維持のため、あるいはプロジェクトの存続のために、自身の理論を支える実験結果を切に必要としていたのではないか。
+	ローキャンは特殊個体に人造の感染器官を移植していた。その唯一の理由は感染者関連のプロジェクトを進めていたからに過ぎなかった。もしまっさらなバイオニック機械のプロジェクトであったら、被験者はたとえ半数以上の器官を取り替えられたとしても、鉱石病感染の危険性はみじんもなかったはずだろう。
+	特殊個体及び彼女の兄弟は、ただ少し特別なアーツの才能があったことで、こんな実験に巻き込まれてしまった……彼らの家庭の破滅も、引き取られた先での生活も、でっち上げの保護者も、違法の保護施設も、全て実験に関連している。
+	例の推測を否定する気はない。マイレンダーの報告書では、ローキャンが既に実験を目的に彼女の兄弟を謀殺したことがはっきりと記載されていた。事故が起きたのはまさしくローキャンが、兄弟から取り出された「意識」を使って、強硬に彼女の感染器官を起動したことを起因としている。
+	彼女が妄想した結果だろうが、スキャンの誤差によるものだろうが……これは奇妙なことであると私もわかっている。だが、彼女の「兄弟」は未だに彼女の脳の一部に存在している可能性が高い。本人の無意識の拒絶か、あるいは彼女の「兄弟」の願いかによって、彼女自身もまだそれを知りたいとは思っていないだろうけれど。
+	あまりにも理論化が行き過ぎた神経科学は私からすれば通用しないものだ。利益によって無理やり出された実験データは、少し手で握っただけで血がにじみ出てしまうものだ。そんなデータは戦争や暴力の理論の役にしか立たない。私にはまだ必要がないものだ。
+	「ローキャン水槽」は長い時をかけて企てていた。あれほど規模の小さいラボでもこのような底の知れない非人道的な犯罪行為の先導者となる事実は、クルビアの科学研究が特権の道を突き進み過ぎたことの証明にほかならない。
+	ウルサスやサルゴンに比べて、クルビアの法律は確かにより進んでおり、より厳格であるかもしれない。だが、法律の厳しさとそこに隙があるかはまた別の問題だ。法の執行者も制定者も生身の人間でしかない。進歩的な社会にはより「文明的」な欠陥が存在する。
+	ただ彼女が感染者であることを、ただ、彼女が意識を圧縮することでアーツの投射範囲を拡大させる力を有することを、彼らは求め望んでいた。それだけのために……彼女はあのような目に遭ってしまったのだ。
+	
+	ヴォルヴォート・コシンスキーだろうがライン生命だろうが……あるいは表立っての関わりは見えないが疑惑は十分にある製薬企業のビーチブレラかタワーヒル・バイオテックか……誰だろうが変わりはない。「ローキャン水槽」の背後にいる支援者が誰だろうが。
+	より大きな災難がその行く道の先に待ち構えているだけだ。
+	
+	それで、投票の結果だが……反対票は二人じゃないかな。
+	Logosも同意だ。そうだろう？うん？ああ、別に意外でも何もないよ。彼がカズデルのこと以外に一切関心を持たないと勘違いしているかもしれないが、それならエリートオペレーターに着任すること自体を断っていたはずだ。
+	反対票を入れた二人は……あの二人はそういう性格だからな。Pithたちが同意できないのはこの上ない自然なことだ。
+	私が説得しよう。
+	当然君たちが私にこうさせたものだ。いい加減にしなさい、Touch。同意票を入れたのは君たちだろう。あの二人を説得するのも君たちの仕事だったはずだ。私はただ早く済ませたいからに過ぎない。
+	私がそうする理由？
+	今朝、あの子の検査をしている時、彼女の名前を覚えているかと聞かれたんだ。
+	彼女は自分の過去の名前を知りたがっている。少しずつ自分の過去と向き合おうとしているんだ……たとえそれがかつて自分を壊した過去であっても。あるいは、彼女は新たな名前を名乗るべきか。
+	……もし我々の都市と市民が真に遠い過去の血生臭い野蛮さから遠ざかったというのであれば、少なくとも、まず我々の人格が進化したことを証明しなければならない。
+	科学が無辜な人間を傷つけるために用いられることを阻止するのも私の責任だ。
+	今あの子に名前を与えるのはまだ早計かもしれない。彼女自身で名前を考えるべきだ。だがコードネームであれば、今すぐにでも与えることができる。
+	オペレーターになることは、彼女自身の明日のためにも、この大地の明日のためにも、他のどんな道より明るく拓けた未来であると考えている。君たちも同意を示した以上、私も約束しよう。私が彼女を導く。彼女は君たちの家族に……チームメイトになるさ。
+	あの子ならできる。
+	【大昔の神話によると、自らの記憶と相対できない者をも最終的には勇気ある者に変える不思議な植物があるという。今日から、あの子のコードネームはロスモンティスだ。】
+
+	Archive File 4 :
+	Loken Watertank isn't the source of the problem. 
+	When it all happened, Loken was likely under a lot of pressure. Otherwise, knowing his personality, he would not have made such a gamble. 
+	I'm not trying to defend him, but by trying to dissect his actions, I might also be able to verify a few of my viewpoints. 
+	My guess is that he urgently needed some test results that supported his hypothesis, either to get his hands on some resources, to maintain his position, or to preserve his project. 
+	Loken implanted this artificial organ in this particular subject only because his research had to do with the Infected. If his research was in the bionics, then no matter how many of her organs ended up getting replaced, the subject would not have had even the tiniest traces of Oripathy. 
+	The subject and her brother were dragged into this mess only because they had a somewhat unique gift in Originium Arts... Their adoption after their family was destroyed, their fraudulent guardian, the corrupt orphanage all played a hand. 
+	I won't rule out the possibility. Maylander's report clearly says that Loken murdered her brother to fulfill his experiment's objectives. The direct cause of the incident was that the 'consciousness' that he forcefully extracted from her brother activated her Infected organ. 
+	Whether this is purely a product of her imagination or is indeed just like what was reflected by the errors in the scans... It's eerie, I know. But her 'brother' might still exist somewhere in her brain. She probably doesn't want to know about this yet—This stems from her subconscious refusal, or perhaps it's the wishes of her 'brother.' 
+	Exccessive theoretical neuroscience intersts me not. Such experiment was entirely profit-driven. Its data was tainted by blood. This kind of data can only be used to back theories that support war and violence. We don't need that. 
+	Loken Watertank had been under the table for long. The fact that a laboratory of its size was able to direct such deep, inhumane crimes just goes to show how far down this road of privilege Columbia's scientific research has come. 
+	Compared to Ursus and Sargon, Columbia's laws are no doubt more advanced and stringent. But how severe the law is has nothing to do with how many crimes have gone unpunished.it actually is. Both the ones who enforce the law and those who administer it are only people. A progressive society carries the burden of being even more 'civilized.' 
+	That's how that fate befell her. Just simply because they needed her to be an Infected, they wanted her to have those powers, being able to expand her Arts casting by the way of compressing her consciousness... 
+	
+	Perhaps it was Volwotkeczynski or Rhine Lab... and it's a bit of a stretch, but it could also have been pharmaceutical companies like Parasol or Tower Mountains... but in any case... It doesn't matter who Loken Watertank's benefactors were. 
+	Whoever they are, there's an even bigger disaster waiting for them sooner or later. 
+	
+	So, the vote's results... My guess is there are two votes against. 
+	Logos agreed as well, didn't he? Hm? No, I'm not surprised. You may think he doesn't care about anything other than Kazdel affairs, but if that was the case, he wouldn't have agreed to become an elite operator in the first place. 
+	It's just like those two to vote no... Pith was against it, and I suppose that's only natural. 
+	I'll persuade them. 
+	Of course, you guys practically forced this one on me. Right, Touch, you guys voted yes. You guys should be the ones to persuade them. I'm merely trying to speed things up. 
+	My reason for doing this? 
+	I was giving her a checkup this morning, and she asked me if I remember what her name was. 
+	She wants to know what she used to be called. She's slowly trying to face her past... even if it's already ruined her once. Or perhaps she should get a new name. 
+	...If our cities and our residents are truly more advanced than the bloodthirsty barbarians of ages past, then we must at least prove that our personalities have improved. 
+	Preventing science from being used to harm the innocent is also a responsibility of mine. 
+	Perhaps it's still too early to give her a name. She should come up with her name herself. But we can give her a codename right now. 
+	I believe that by becoming an operator, her future, as well as that of the world itself, will become that much brighter. Now that all of you agreed, I promise I will teach her. She will still become your family... Your teammate. 
+	She can do it. 
+	[In the old mythologies, there exists a miraculous plant that helps those who cannot face their memories to be brave and courageous. From here on out, her codename will be Rosmontis. ]
+
+	파일 자료 4 :
+	    로켄 수조가 문제의 원인은 아니다.
+	    사건이 발생했을 때, 로켄은 분명 엄청난 스트레스를 받았을 것이다. 그렇지 않다면 그의 성격상 그런 승부수를 띄웠을리가 없다.
+	    그를 변호하고픈 마음은 없지만, 이번 기회에 그의 행동을 분석한다면 나의 몇몇 가설을 논증할 수 있을지도 모른다.
+	    과거 그 시기에 그는 자신의 이론을 증명하고, 후원금 획득이나 지위를 유지하기 위한, 혹은 프로젝트를 지속할 수 있도록 해줄 실험 결과가 절실히 필요하였다.
+	    로켄은 감염자 관련 프로젝트를 진행하고 있었고, 단지 이런 이유로 특수 개체의 몸에 인공 감염 기관을 이식했다. 만약 이것이 전혀 새로운 생명기계공학 프로젝트라면, 실험체는 설사 절반 이상의 기관이 교체되더라도 광석병에 감염되지 않을 것이다.
+	    특수 개체와 그녀의 동생은 독특한 오리지늄 아츠 재능이 있다는 이유로 이 실험에 휘말리게 되었다. 이들 가족의 파멸과 그후의 입양 생활, 가상의 후견인, 불법 양육원 등 모든 사항도 전부 이 실험과 관련이 있으리라.
+	    나는 이 추측을 배제하지 않는다. 메이랜더의 보고서에 명시되어 있듯 로켄은 실험 목적을 위해 그녀의 동생을 죽였고, 사고의 원인은 바로 로켄이 그녀의 동생에게서 강제로 추출한 '의식'을 사용해 그녀의 감염 기관을 작동시켰기 때문이다.
+	    그녀가 가상으로 만든 것이든, 스캔의 오차로 인해 나타난 것이든 간에……이건 무척이나 기이한 현상이다. 하지만 그녀의 '동생'은 여전히 그녀의 머릿속 어느 부위에 존재하고 있을 수도 있다. 그리고 그것이 그녀의 무의식적인 거절 때문이든, 아니면 그녀의 '동생'이 바란 것이든 간에, 그녀 역시 이 일은 알고 싶어 하지 않을 것이다.
+	    지나치게 이론화된 신경 과학은 내게 통하지 않는다. 이익을 위해 억지로 이끌어낸 실험 데이터는 피를 부를 수도 있다. 이런 실험의 데이터는 전쟁과 폭력의 이론을 뒷받침하는데 쓰일 뿐이며, 내게는 필요 없는 것들이다.
+	    로켄 수조는 오래전에 계획된 것으로, 이렇게 작은 실험실조차 그 정도의 비인도적 범죄 행위를 저지를 수 있다는 것은 컬럼비아의 과학 연구가 지나치게 많은 특권을 받고 있다는 사실을 증명한다고 할 수 있겠다.
+	    우르수스와 사르곤에 비한다면 컬럼비아의 법률은 확실히 선진적이고 엄격하다지만, 법률의 엄격함과 집행의 치밀함은 별개이며, 그 법을 적용하고 집행하는 자들은 모두 사람이기 때문에, 진보한 사회일수록 보다 '문명적'인 결함이 존재하는 법이다.
+	    그저 그들이 그녀가 감염자이길 바라고, 그녀가 그러한 힘을 갖길 바라고, 의식을 억눌러 아츠의 투사 범위를 확대하고자 했기에, 그녀는 지금까지와 같은 일련의시련을 겪어야 했다.
+	
+	    볼보트 코친스키든 라인 랩이든 상관없다…… 실제로 연관되어 있는지는 모르겠지만, 다소 의심스러운 제약업계의 파라솔이나 타워마운틴 바이오테크놀로지라도 상관없다. 로켄 수조의 배후에서 그걸 후원해주던 게 그 누구라도 상관없다.
+	    조만간 더 큰 재난이 그들을 기다리고 있을 것이다.
+	
+	    그래서 투표의 결과는…… 짐작 건데 두 사람이 반대표를 던졌을 것 같다.
+	    "로고스도 동의했겠지, 그렇지? 음? 아니, 예상했던 바야. 너희들은 그가 카즈델과 관련된 일 이외에는 아무런 관심도 없다고 생각할지도 모르지만, 정말로 그렇다면 정예 오퍼레이터가 되는 것에 동의하지 않겠지."
+	    반대표를 던진…… 그 두 사람은 원래 그런 성격이다. 피스 쪽에서 동의하지 않은 건 지극히 당연한 일이다.
+	    "내가 설득하러 가지."
+	    "당연하지, 이건 너희가 날 이렇게 떠민 거잖아. 됐어, 터치, 너희는 찬성표를 던졌잖아. 원래라면 너희가 저 둘을 설득하러 가야 하겠지만, 단지 좀 서두르고 싶을 뿐이야."
+	    "왜냐고? 오늘 아침 검사 도중 내게 자신의 이름을 기억하느냐고 묻더라고."
+	    "그녀는 자신의 과거 이름을 알고 싶어 해. 점차 자신의 과거를 마주하기 시작한 거지…… 설령 그 과거가 이미 그녀를 파멸시켰다 할지라도. 아니면 아예 새로운 이름을 가져야 하지 않을까."
+	    "……만약 지금 우리가 살고 있는 이 도시와 시민들이 정말 까마득히 오래 전의 피비린내나는 야만인들보다 진보한 존재라면, 최소한 우리의 인격 또한 그만큼 진보했다는 걸 증명해야 하겠지."
+	    "과학이 무고한 사람을 해치는 것을 막는 것 또한 나의 책임이야."
+	    "어쩌면 그녀에게 새로운 이름을 지어주는 건 아직 조금 이를지도…… 아무래도 그녀 스스로 짓는게 좋겠지. 하지만 코드네임이라면 우리가 지금이라도 지어줄 수 있잖아."
+	    "그녀가 오퍼레이터가 된다면, 그녀의 내일과 이 땅의 내일에게 있어선 다른 어떤 것보다도 나은 선택이 될 거라고 생각해. 너희가 동의한 이상, 나도 약속하지. 내가 그녀를 가르치겠어. 그녀는 너희들의 가족이 되고…… 너희들의 친구가 될 거야. 그녀는 해낼 수 있을 거야."
+	    [과거 신화 속에 존재하던 '기억을 마주하지 못하는 자를 결국에는 용감하게 만드는 신기한 식물'의 이름을 따, 그녀의 코드네임은 '로즈몬티스'가 되었다.]
+
+———————————————————————————————
+
+	晋升资料 :
+	“她有可能回归正常生活吗？”
+	......什么样的生活是“正常”的？是荒野上聚落居民身上勉强披着的叶杆粗衣，还是莱塔尼亚人引以为豪的法术精纺？是哥伦比亚贫民窟里三分钱一碗的酸豆汤，还是维多利亚某郡宴席上动辄数十道佳肴的排场？
+	生在这片大地上的每一个人，都是被他们的生长环境打磨出来的。在这时候相信某一种生活是“正常”的，不过是偏见打底，傲慢装盘，装点上大量的无知，一股脑盛上来。
+	你我该相信的就只有她这个人。给她时间，等她挺起胸来，她所做出的决定、想要实现的某种未来，就是她的正常生活。那就是正常的生活。就这么简单。
+	你就是她的大地。你怎么对待她，她就会怎么对待这片大地。
+	
+	——Whitesmith
+
+	昇進資料 :
+	「彼女が普通の生活に戻る可能性はありますか？」
+	……「普通」の生活とは何でしょうか？荒野の集落の住民たちがどうにか身にまとう植物の葉で作られた衣装と、リターニア人自慢のアーツ精密織りのどちらが普通でしょうか？クルビアのスラムで食べられるひと茶碗三セントの酸っぱい豆スープと、ヴィクトリア某郡の数十種類の豪華料理が並ぶ宴会と、どちらが普通でしょうか？
+	この大地に暮らす者は皆、彼らの生まれ育った環境が作り上げたものです。こんな時に特定の生活スタイルが「普通」だなんて思い込むのは、偏見という皿に傲慢を積み上げて、大量の無知で飾り付けたものを何も考えずに食卓に出しているに過ぎません。
+	私たちが信じるべきなのは彼女自身です。時間を与えてあげましょう。彼女が胸を張ることができるまで。彼女が決めたことや、実現させたい未来、それが彼女にとっての普通の生活です。それこそが普通の生活なのです。たったそれだけのこと。
+	あなたは彼女にとってのこの大地です。あなたが彼女にどう接するかが、彼女がこの大地にどう接するかを決めるでしょう。
+	
+	――Whitesmith
+
+	Promotion File :
+	'Will she ever return to a normal life? '
+	...What makes a life 'normal' anyway? Is it the the tatters woven from leaves that the settlers of the wilderness wear, or is it the fine Leithanien garments woven with Arts? The sour bean soup that sells for three cents a bowl in the Columbian slums, or the dozens of lavish dishes served at banquets of a county of Victoria? 
+	Each and every person born in this world is shaped by the environment they grew up in. You would have to be biased, arrogant, and completely ignorant to believe that there is a certain kind of life you could call 'normal.' 
+	You should trust this girl and nothing more than the girl herself, Give her time. Wait for her to puff her chest out, her head held high. The decisions she makes and the future she wants to achieve. That's her normal life. That's what you call a normal life. It's that simple. 
+	You're her world. However you treat her, that's how she'll treat this world. 
+	
+	——Whitesmith
+
+	승진 자료 :
+	    그녀가 정상적인 삶으로 돌아갈 수 있을까?
+	    ……어떤 게 '정상적인 삶’인 걸까? 황야에 사는 부락민이 어쩔 수 없이 걸치고 다니는 누더기 옷? 아니면 라이타니아가 자랑하는 아츠 방직물? 컬림비아 빈민굴에서 파는 세푼짜리 콩국? 빅토리아의 어느 연회에 수시로 등장하는 수십가지의 호화스러운 요리들? 그런 게 정상적인 삶일까?
+	    이 땅에서 태어난 모든 사람들은 그들의 성장 환경에 맞춰 살아 왔다. 어떤 한 특정한 삶 만이 '정상'이라고 믿는 것은, 편견을 바탕에 깔고, 오만을 담아, 무지로 장식한 터무니 없는 생각일 뿐이다.
+	    너와 내가 믿어야 할 것은 그녀 뿐이다. 그녀에게 시간을 주고, 그녀가 가슴을 펴고 일어나 결정을 내리고, 어떤 미래를 이루고 싶어 한다면 그게 바로 그녀에겐 정상적인 삶일 것이다. 간단한 것 아닌가.
+	    네가 바로 그녀의 세상이다. 네가 어떻게 그녀를 대하는지에 따라 그녀가 어떻게 세상을 대하는지가 결정날 것이다.
+	
+	——화이트스미스

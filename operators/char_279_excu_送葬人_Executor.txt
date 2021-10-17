@@ -1,11 +1,17 @@
 ID:
 	char_279_excu
 
-干员代号\Name:
+CV:
 	送葬人
 	イグゼキュター
 	Executor
 	이그제큐터
+
+干员代号\Name:
+	近藤隆
+	近藤隆
+	Takashi Kondō
+	콘도 타카시
 
 招聘合同\Character Usage:
 	拉特兰公证所的专业执行者送葬人，将会履行合约上的所有合同。
@@ -34,7 +40,7 @@ ID:
 技能\Skills:
 	铳口收束
 	フルチョーク
-	Muzzle’s Elegy
+	Muzzle's Elegy
 	총구정리
 
 	最终旅程
@@ -43,177 +49,543 @@ ID:
 	최후의 여로
 
 语音\Voices:
-	你可以安心值班，博士。破片地雷已经架设完毕，没有人能干扰你的工作和休息。
 	ドクター、安心してください。地雷を設置しておきましたので、何人たりともあなたの仕事と休息を妨害することはできません。
 	You can focus on your work, Doctor. The fragmentation mines are in place, such that none may interfere with your work or rest.
 	박사님, 안심하십시오. 지뢰를 설치해 두었으니 그 누구도 당신의 업무와 휴식을 방해할 수 없습니다.
 
-	虽然不知道是谁的手笔，但我很清楚罗德岛内部有着专门对抗渗透、暗杀与内部破坏的专门人员，他们潜藏在舰船各处。错觉？不是的。我不会产生幻觉，博士。
 	誰の差し金かはわかりませんが、ロドスにも潜伏、暗殺、破壊活動の対応に当たる専門チームがあるのを知っています。彼らはロドスの各要所に潜伏していて……気のせい？いえ、私は幻覚など見ませんよ、ドクター。
 	I know not whose work this is, but I am well aware that there are those here at Rhodes Island who specialize in infiltration and assassination. They are hidden here on this vessel. My mind is just playing tricks on me? Nonsense, Doctor. My mind never plays tricks on me.
 	누구의 사주인지는 모르겠지만, 로도스 아일랜드에도 잠복, 암살, 파괴 활동에 대응하는 전문 팀이 있다는 걸 압니다. 그들은 로도스 아일랜드의 곳곳에 잠복해서…… 기분 탓? 아니요. 저는 환각 따윈 보지 않습니다, 박사님.
 
-	我为拉特兰中庭公证所服务，因此我甚少在拉特兰生活。即使生活在其他城邦，拉特兰公民的权益的方方面面依然有赖公证所的支持，譬如说大多数情况下，我与将死之人的联系比活人更紧密。
 	私はラテラーノの中庭公証人役場で外回りを担当しているので、実際ラテラーノで過ごす時間は多くありません。「国外でも公民の権利は保証される」ということで私が出向くのですが、生者の相手をするよりも、見届人として死と向き合うことの方が多いですね。
 	I serve the Laterano Notarial Hall, so I rarely live in Laterano. Even if you live in other city-states, all rights and privileges of Laterano citizens still depend on the support of the Hall. For example, in my case, my work has more to do with the condemned than with the living.
 	저는 라테라노의 중정 공증소에서 외근 업무를 담당하고 있어서, 실제로 라테라노에서 지내는 시간은 많지 않습니다. "나라 밖에서도 공민의 권리는 보증된다"라는 이유로 제가 나가는 것이지만, 살아있는 자를 상대하는 것보다 참관인으로서 죽음과 마주하는 일이 많더군요.
 
-	控制系统拒绝访问？请允许我检查一下。嗯，是命令错位导致的前端崩溃，和框架没关系，很好解决。之后有类似的问题都可以找我，比起人类，我对机器的理解更深。
 	コントロールシステムにアクセスできない？ちょっと失礼。なるほど、バグでクライアントがクラッシュしたようですが、フレームワーク自体は問題なさそうです。ええ、すぐ直せます。また何かあればどうぞお呼びください。私からすれば、人間よりも機械の方が扱いやすいですから。
 	The control system is denying you access? Please allow me to check it. Mm, it appears to be a front-end crash caused by inputting an erroneous command. It has nothing to do with the framework and is easily solved. Please feel free to ask me if you have any similar issues in the future. I understand machines far better than I do people.
 	컨트롤 시스템에 접속할 수 없다고요? 잠시 실례. 이런 거였군요, 버그로 인해 클라이언트에 크래시가 난 모양인데, 프레임워크 자체에는 문제가 없는 것 같습니다. 네, 바로 고칠 수 있습니다. 또 무슨 일이 생기면 불러 주십시오. 저한테는 인간보다 기계 쪽이 다루기 쉬우니까요.
 
-	罗德岛也有不少使用铳器的萨科塔人。我与他们不同，他们会因禁令而拒绝射击同类；而我，如有必要，我会毫不犹豫地射击其他公民。当然，现在还没有这种需求，大多数同类我用拳掌就能对付。
 	ロドスにも銃を扱うサンクタ人はいるようですが、私とは違います。彼らは禁止令により同族に銃口を向けませんが、私は必要とあれば相手が同族であってもためらわずに引き金を引きます。とはいえ、今のところこの拳でなんとかなっているので、そんな必要もありませんが。
 	There are many Sankta here at Rhodes Island who use a gun. I am not like them. They will not fire at others because of the restrictions in place, whereas I will not hesitate to fire upon citizens of other countries if need be. Of course, there is hardly a need for that, because my fists are more than sufficient to deal with most problems.
 	로도스 아일랜드에도 총을 다루는 산크타인이 있는 모양이지만, 저와는 다릅니다. 그들은 금지령으로 인해 동족에게 총구를 겨누지 않지만, 저는 필요하다면 상대가 동족이라 해도 주저 없이 방아쇠를 당깁니다. 그래도 지금은 이 주먹으로 어찌저찌 잘 해결하고 있어서 그럴 필요도 없지만 말이죠.
 
-	不用顾忌公证所。他们都是些明事理的人，既然我和罗德岛签订的协约符合规定，他们就绝不会为难你。我认为你也很适合公证所的工作，他们很欢迎外籍员工。
 	公証人役場のことは気にしないでください。ロドスと私の協定が規則に反していない以上、彼らは口出しはしません。ところで、ドクターも公証人役場の仕事には向いていると思いますが、いかがでしょう。ラテラーノ公民でなくても歓迎されますよ。
 	Do not worry about the Notarial Hall. They are all reasonable people. Because the agreement I signed with Rhodes Island is in line with their protocols, they will never do anything to make your life more difficult. As a matter of fact, I think you are well suited for notarial work yourself. They always welcome foreign employees.
 	공증소는 신경 쓰지 마십시오. 로도스 아일랜드와 저의 협정이 규칙에 위배되지 않는 이상, 그들은 참견하지 않습니다. 그나저나 박사님도 공증소의 업무가 잘 맞으실 것 같은데, 어떠십니까? 라테라노 공민이 아니어도 환영받을 겁니다.
 
-	我有一位自小就拥有绝佳音乐天赋的远亲。与其他人的期待完全相反，她凭恃才能走上了混乱的道路。幸运的是，她似乎十分厌恶我，因为我既看不见她描绘的幻觉，也不知道情感对人有什么意义。
 	私には音楽の天賦の才を持った親戚がいましたが、周りの期待に反し、彼女は才能に溺れ、混乱の渦に身を落としてしまいました。そんな彼女に私はどうも嫌われていたようです。人の感情の持つ意味を理解できない私には彼女の描く幻覚は見えません。ですが、それが私にとっては幸運なことなのかもしれません。
 	I have a distant relative who had great musical talent ever since she was a child. Contrary to what others expected, she was able to embark on this tumultous path. Fortunately, she seems to hate me very much because I cannot see the illusion she creates, nor understand what it means to people.
 	저에겐 음악에 천부적인 재능을 지닌 친척이 있었는데, 주변의 기대와 달리 그녀는 재능에 빠져 혼란의 소용돌이에 몸을 던지고 말았습니다. 그런 그녀에게 전 아무래도 미움을 샀던 모양입니다. 사람의 감정이 지닌 의미를 이해할 수 없는 저에겐 그녀가 그리는 환각이 보이지 않습니다. 하지만, 그것이 저에겐 행운이었을지도 모릅니다.
 
-	秘密的纠纷比公开的多，混乱的局面比有序的多，第一时间拔出武器攻击我的人远比敞开大门欢迎我的人多。这无所谓，只要是委托我都能完成，无论是代死人杀死活人，还是代活人创造死人。
 	秘密裏のいざこざは公になっているものより多く、混乱は安定よりも多い。出会い頭に武器を向けてくる者は、心を開いてくれる者よりも多い。まぁ、気にするほどのことではありません。依頼とあらば何でもやり遂げます。死者のために生者を始末するも、生者のために命を奪うも同じです。
 	Private disputes are more frequent than public conflicts, as chaos is the norm over order. Those who would open fire upon me at first glance outnumber those who would open their doors to me. But it matters not, for I can complete any commission, whether it is killing a living person on behalf of the dead, or creating a dead person on behalf of the living.
 	비밀리에 처리된 문제는 공식적으로 발표된 내용보다 많고, 혼란은 안정보다 많습니다. 만나자마자 무기를 겨누는 자는 마음을 열어주는 자보다 많지요. 뭐, 걱정할만한 일은 아닙니다. 의뢰라면 뭐든지 해내겠습니다. 죽은 자를 위해 살아있는 자를 처리하는 것도, 살아있는 자를 위해 생명을 빼앗는 것도 마찬가지입니다.
 
-	被人当作怪胎是件稀松平常的事，因为我确实不能理解其他人，也不愿和他们往来。相反，像今天一样与你交谈是件有趣的事，你和公证所都没有因为我的处世方式否定我，这让我感觉很自在。谢谢。
 	変人扱いされるのには慣れています。確かに私は他人をあまり理解できませんし、深い付き合いも苦手です。ですが、このようにドクターと談話するのは悪くありません。あなたも同僚たちも、生き方だけで私を否定することはしないので、気楽に話せます。本当に感謝しています。
 	Being treated as an aberration is normal to me, because I cannot understand other people, nor do I have any desire to deal with them. On the contrary, talking to you is quite interesting to me. Neither you nor the Notarial Hall has denied me because of the way I live, which puts me at ease. Thank you.
 	괴짜 취급받는 것에는 익숙합니다. 확실히 저는 다른 사람이 그다지 이해되지 않고, 깊게 사귀는 것도 서툽니다. 하지만 이렇게 박사님과 대화하는 것은 나쁘지 않습니다. 박사님도 동료들도 사는 방식만으로 절 부정하지 않으니, 마음 편히 이야기할 수 있습니다. 진심으로 감사하고 있습니다.
 
-	休息是必要的，博士。请好好休息。
 	休息は大切です。ドクター、ゆっくり休んでください。
 	Rest is required, Doctor. Please take it easy.
 	휴식은 중요합니다. 박사님, 푹 쉬십시오.
 
-	罗德岛的博士，你好。我是与贵司签署了清理协议的拉特兰公民，这里是我的证件。一定要知道怎么称呼我？你可以叫我送葬人，如果你坚持的话。
 	ロドスのドクターとはあなたのことですか、初めまして。この度ロドスと協定を結ばせていただいた、ラテラーノの者です。こちらが身分証明書になります。なんと呼べば良いかですか？どうしても呼び名が必要であれば、イグゼキュターとでもお呼びください。
 	Well met, Doctor of Rhodes Island. I am a Laterano citizen who signed a clean-up agreement with your company. Here is my certificate. Am I required to give my name? If you insist, you may call me Executor.
 	당신이 바로 로도스 아일랜드의 박사님이시군요, 처음 뵙겠습니다. 이번에 로도스 아일랜드와 협정을 맺은 라테라노 사람입니다. 신분증은 여기 있습니다. 뭐라고 불러야 하는지 말씀입니까? 꼭 호칭이 필요하시다면, 이그제큐터라고 불러 주십시오.
 
-	这些战斗有一定的参考价值。
 	この戦闘記録は参考にする価値がありますね。
 	There is value in referencing these battles.
 	이 전투 기록은 참고할 가치가 있군요.
 
-	感谢你。下次战斗需要的子弹我已经全部制造完毕了，如果是更糟糕的状况，请允许我动用重火力。晋升？我已经谢过你了。
 	感謝します。次の戦闘に必要な弾薬はすべて作製してあります。戦況が芳しくない場合、重火器の使用も許可してください。昇進についての感想？感謝の言葉はもう述べましたが？
 	Thank you. I have already prepared all the ammunition I need for the next battle. If the situation worsens, please allow me to use heavier firepower. Promotion? I have already thanked you for that.
 	감사합니다. 다음 전투에 필요한 탄약은 전부 제작해 두었습니다. 전황이 좋지 않을 경우, 중화기의 사용도 허가해 주십시오. 승진에 대한 감상? 감사의 말은 이미 했습니다만?
 
-	再次的晋升？我明白了，一定是有艰巨的潜入任务，甚至是要投入敌人内部行事吧。如果你需要的话，我没有意见。什么？就仅仅是晋升？为什么？
 	また昇進ですか？なるほど、厳しい潜入任務、例えば敵の内部に潜り込むようなものが待っているのでは？ドクターの命令なら異論はありませんよ。え、他意のないただの昇進？それはまたどうして？
 	Another promotion? I understand, there must be another infiltration operation then. Perhaps you even need me to penetrate the heart of the enemy. I have no objections to that. Hmm? This is just about a promotion? Why's that?
 	또 승진입니까? 그렇군요. 혹독한 잠입 임무, 예를 들면 적의 내부에 침투할 필요가 있는 임무가 있습니까? 박사님의 명령이라면 이의는 없습니다. 네? 다른 뜻 없이 단순한 승진이라고요? 이유는 무엇입니까?
 
-	条律中的语句需要执行者去实现它的效力。
 	法を執行するのが執行人の務めです。
 	The law states that the executor must achieve his maximum potential.
 	법을 집행하는 것이 집행자의 의무입니다.
 
-	我不擅长和他人共事。
 	人と接するのは苦手なんですが。
 	I am not good at working with others.
 	사람을 상대하는 것은 서툽니다만.
 
-	启程。
 	出発します。
 	Departing.
 	출발합니다.
 
-	任务目标，消灭所有敌人。
 	目標、全ての敵の排除。
 	Mission objective - eliminate all enemies.
 	목표, 모든 적의 제거.
 
-	开始吧。
 	任務開始。
 	Let's begin.
 	임무 개시.
 
-	你的请求我确认过了。
 	ドクターの要求は確認済です。
 	I have confirmed your request.
 	박사님의 요구는 확인했습니다.
 
-	胜利是种幻觉。
 	勝利も一種の幻覚に過ぎないのです。
 	Victory is an illusion.
 	승리도 일종의 환각에 지나지 않습니다.
 
-	只有条律是真实的。
 	法だけが真実です。
 	The law is the only truth.
 	법만이 진실입니다.
 
-	我从不浪费子弹。
 	無駄弾を撃ったことは一度もありません。
 	I never waste bullets.
 	총알을 낭비한 적은 한 번도 없습니다.
 
-	我完成生者与死者的嘱托。
 	生者と死者の依頼を果たすのは私の役目です。
 	I have taken care of the living and the dead.
 	살아있는 자와 죽은 자의 의뢰를 완수하는 것이 저의 역할입니다.
 
-	最大火力。
 	最大火力で行きます。
 	Maximum firepower.
 	최대 화력으로 가겠습니다.
 
-	如果必要，我会打破禁忌。
 	必要とあらば禁忌すらも破ります。
 	If necessary, I will break the taboo.
 	필요하다면 금기마저도 깨겠습니다.
 
-	任务完成。成功履行所有合约。
 	任務完了。契約は全て履行しました。
 	Mission completed. All contracts successfully fulfilled.
 	임무 완료. 계약은 모두 이행했습니다.
 
-	任务完成。
 	任務完了。
 	Mission completed.
 	임무 완료.
 
-	任务完成，结果有缺陷。
 	任務完了。完璧とは言えない結果ですが。
 	Mission completed. Some flaws in the completion.
 	임무 완료. 완벽하다고는 할 수 없는 결과입니다만.
 
-	任务失败。
 	任務失敗。
 	Mission failed.
 	임무 실패.
 
-	不必考虑我，我不需要稳定的居所。
 	私に気を遣うことはありません。心地よい居場所など私には必要ありませんから。
 	Do not worry about me. I have no need for a stable home.
 	저를 걱정하실 필요는 없습니다. 마음이 편한 곳 따윈 제게 필요 없으니까요.
 
-	我感到迷惑。
 	困ります。
 	I am confused.
 	곤란합니다.
 
-	博士，需要我做些什么？
 	ドクター、私にできることはありますか。
 	Doctor, what do I need to do?
 	박사님, 제가 할 수 있는 일이 있습니까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，请多加小心。
 	ドクター、身の安全には気をつけてください。
 	Doctor, please exercise caution.
 	박사님, 안전에 주의하십시오.
+
+干员档案\Background:
+	基础档案 :
+	【代号】送葬人
+	【性别】男
+	【战斗经验】五年
+	【出身地】拉特兰
+	【生日】7月7日
+	【种族】萨科塔
+	【身高】181cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】イグゼキュター
+	【性別】男
+	【戦闘経験】五年
+	【出身地】ラテラーノ
+	【誕生日】7月7日
+	【種族】サンクタ
+	【身長】181cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Codename] Executor
+	[Gender] Male
+	[Combat Experience] 5 years
+	[Place of Birth] Laterano
+	[Date of Birth] July 7
+	[Race] Sankta
+	[Height] 181cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 이그제큐터
+	[성별] 남
+	[전투 경험] 5년
+	[출신지] 라테라노
+	[생일] 7월 7일
+	[종족] 산크타
+	[신장] 181cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】优良
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Standard
+	[Physical Resilience] Standard
+	[Tactical Acumen] Excellent
+	[Combat Skills] Excellent
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	送葬人，拉特兰公民，拉特兰公证所法定专业执行者，适用于拉特兰一至十三项公民权益，通晓多种语言与法律框架。
+	现依合约服务于罗德岛，执行拉特兰公民权益相关任务。
+
+	個人履歴 :
+	ラテラーノ公民であり、ラテラーノ公証人役場法定執行人。第一項から第十三項までの公民権が適応されており、多種類の言語と法律に精通している。
+	現在はロドスとの契約により、ラテラーノ公民権に関連する任務を執行している。
+	
+
+	Profile :
+	Executor is a citizen of Laterano, serving as an executor of the Laterano Notarial Hall, responsible for applying Rights of the Laterano Citizen numbered One through Thirteen. He is well versed in many languages and legal frameworks. 
+	Executor has been contracted to Rhodes Island, where he executes functions related to the rights of Laterano citizens.
+
+	프로필 :
+	    라테라노 공증소의 법정 집행자. 라테라노 공민으로서 제1항부터 제13항에 해당하는 권익을 누린다. 여러 언어와 법체계에 통달했다.
+	    현재 계약에 따라 로도스 아일랜드에 근무하며, 라테라노 공민 권익 관련 임무를 집행 중이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员送葬人没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.13u/L
+	有没有人考察过人际交往密集度和结晶密度的正相关关系？要不要我们下个课题就做这个？
+	——医疗干员T.O
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.13u/L
+	対人交際頻度と血液中源石密度が正の相関関係にあるか考察した方はいらっしゃいませんか？次の課題はこれにしませんか？
+	——医療オペレーターT.O
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Executor shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.13u/L
+	Has anyone researched the correlation between interpersonal relationships and crystal density? Maybe we should do this as our next task? 
+	--Medic Operator T.O.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 이그제큐터는 오리지늄에 감염된 흔적이 없음.
+	[혈중 오리지늄 결정 밀도] 0.13u/L
+	인간관계 밀집도와 결정 밀집도의 상관관계에 대해 정밀 조사를 해볼까 생각해본 사람 없어? 우리 다음 과제는 이걸로 해보는 건 어떨까?
+	——메딕 오퍼레이터 T.O
+
+———————————————————————————————
+
+	档案资料一 :
+	拉特兰公证所是拉特兰的官方机构之一。一方面，公证所会向整个大地上的拉特兰公民征收费用，督促他们完成各类法定义务——包括且不限于遗产继承、抚养和监护、已公证契约的执行等；另一方面，他们也为拉特兰公民提供种种权益维护服务。
+	因此，拉特兰公证所需要独特的工作人员。公证所将他们派遣向各个城邦，专门监督和推动种种事务的解决和落实。
+	干员送葬人就是其中一员。他们这些工作人员被称作“执行者”，代表着拉特兰公证所的意志。
+
+	第一資料 :
+	公証人役場はラテラーノの行政機関のひとつだ。一方では、世界中のラテラーノ公民から費用を徴収し、公民が法律上定められた義務――遺産相続、養育や後見、公証済契約の執行などを含むが、それらに限定されない義務――を履行するよう督促する。もう一方では、ラテラーノ公民のための様々な権利保護を提供している。
+	よって、ラテラーノ公証人役場には特殊な従業員が必要だ。彼らを各都市に派遣し、各種事務の解決及び実行の推進と監督を任せている。
+	イグゼキュターはその一員である。これらの業務に従事する彼らは「執行人」と呼ばれ、ラテラーノ公証人役場の意志を代弁している。
+
+	Archive File 1 :
+	The Laterano Notarial Hall is one of the official organs of Laterano state power. On the one hand, the Hall imposes fees on the citizens of Laterano, urging them to perform various legal obligations, including but not limited to management of estate property, childrearing and guardianship, and execution of notarized contracts; On the other hand, the Hall also performs various services guaranteeing the rights and benefits of Laterano citizenship. 
+	As such, the Notarial Hall requires a diverse and unique staff. Civil servants are dispatched to various city-states to supervise, execute, and oversee official functions. 
+	Operator Executor is one such employee. They are known as 'executors,' and carry out the will of the Laterano Notarial Hall.
+
+	파일 자료 1 :
+	    라테라노 공증소는 라테라노의 정부 기관 중 하나다. 공증소는 모든 라테라노 공민으로부터 비용을 징수해, 상속과 부양, 간호, 공증 계약의 집행 등, 그들이 각종 법정 의무를 완료하도록 독촉한다…… 그리고, 라테라노 공민에게 각종 권익과 유지 서비스도 제공한다.
+	    그러므로, 라테라노 공증소에는 독특한 직원이 필요하다. 공증소는 그들을 각 도시로 파견해, 집중적으로 각종 사무의 해결과 실행을 감독 및 추진한다.
+	    오퍼레이터 이그제큐터도 바로 이런 공증소의 일원이다. 이 직원들은 '집행자'로 불리며, 라테라노 공증소의 의지를 대표하고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	公证所的信息公开、公正、透明。说实话，初次看到送葬人先生的履历和经手委托时，人事部的各位都觉得有些稀松平常。
+	“10月12日，将指定合规遗物转交至末位继承人手中。
+	3月5日，关闭违反公证书合约的企业。
+	6月2日，自契约对象手中提取款项。
+	7月9日，履行公民的遗愿......”
+	送葬人先生执行过的任务大多如此，平静又枯燥，让人联想起下层政府雇员在街道间忙碌奔波。
+	事实上，第一项任务中死亡的非拉特兰公民（全部被证明是死刑或两百年以上无期徒刑的罪犯）有四十一人，第二项任务中毁坏的民用建筑有六栋二间一层，第三项任务中有一名身居所在城邦卫队长官职位的拉特兰公民丧命，而第四项差点导致了一场城邦混战......
+	
+	送葬人先生执行过的任务大多如此。
+	可以说，公证所本就只向最棘手的项目派遣执行者。
+
+	第二資料 :
+	公証人役場の情報は、オープンで、公正で、透明性が高い。実を言えば、初めてイグゼキュターの履歴書と遂行した業務委託を見た時、人事部各員は皆普通と変わらないと思った。
+	「10月12日、指定規則に準じた遺品を最後順位の相続人に渡す。
+	3月5日、公証契約に違反した企業を閉鎖する。
+	6月2日、契約対象者より費用を回収する。
+	7月9日、公民の遺言を実行……」
+	イグゼキュターが執行してきた任務は大方がこの通りだ。平静かつ無味乾燥で、下級政府職員が街で日々奔走している姿を連想させる。
+	しかし実際に、上記第一項の任務で死亡した非ラテラーノ公民（全員が死刑あるいは200年以上の終身刑を受けた犯罪者と証明された）は41名、第二項で損壊した民間建築は6棟2室1階層、第三項では都市防衛隊長官の座に就いていたラテラーノ公民が命を落とし、第四項ではあと少しのところで町に混戦を……
+	
+	イグゼキュターが執行してきた任務は大方がこの通りだ。
+	つまり、公証人役場は最も手を焼く問題に執行人を派遣しているということだ。
+
+	Archive File 2 :
+	The records of the Notarial Hall are open, fair, and transparent. Honestly, upon first inspecting Executor's records and commission, the human resources department found it quite ordinary. 
+	'October 12: the designated property was delivered to the appropriate heir. 
+	March 5: the company that violated the notarized contract was shuttered. 
+	June 2: Moneys disbursed by the appropriate party in accordance with the contract. 
+	July 9: In accordance with the wishes of the citizens...'
+	The majority of the tasks performed by Executor were mundane, if not boring, suitable for a low-level bureaucrat. 
+	In fact, 41 non-Laterano citizens died in the course of executing the first item (all had been sentenced to death or greater than 200 years in prison), while six civilian buildings were damaged in the execution of the second item. The third item saw the death of a Laterano citizen serving as the chief executive of a city state guard unit. And the fourth item nearly caused a war... 
+	
+	Most of Executor's mission record is like this. 
+	It is clear that the Notarial Hall deploys its executors only to the most challenging of missions.
+
+	파일 자료 2 :
+	    공증소 정보는 공개적이고, 공정하며 투명하다. 솔직히, 처음 이그제큐터의 이력과 의뢰 기록을 봤을 때, 인사부의 사람들은 지극히 평범한 내용이라 생각했다.
+	    "10월 12일, 지정된 준법 유품을 마지막 상속자에게 전달.
+	    3월 5일, 공증서 계약을 위반한 기업 폐쇄.
+	    6월 2일, 계약 대상으로부터 비용 회수.
+	    7월 9일, 공민의 생전 염원 집행……"
+	    이그제큐터가 집행한 임무는 대부분 이처럼 평온하고 지루하며, 공무원들이 거리에서 바쁘게 뛰어다니는 걸 떠올리게 한다.
+	    사실, 첫 번째 임무에서는 비라테라노 공민(모두 사형 또는 200년 이상 무기 징역의 죄수로 증명됨)이 41명 사망했고, 두 번째 임무에서는 민간용 건물 6동, 2실, 1층이 파괴됐다. 세 번째 임무에서는 도시 국가에 몸을 담고 있는 호위대장 관직의 라테라노 공민 한 명이 사망했으며, 네 번째 임무에서는 하마터면 도시 국가의 혼전을 일으킬 뻔했다……
+	
+	    이그제큐터가 집행한 임무는 대부분 이렇다.
+	    그래서 이렇게도 말할 수 있다. 공증소는 원래 가장 성가신 프로젝트에만 집행자를 파견한다고.
+
+———————————————————————————————
+
+	档案资料三 :
+	干员送葬人不苟言笑。这点早成为各个干员的共识。
+	干员送葬人没有常识。虽然很多干员坚持这种观点，但在被科学证明前，类似的评价是没有意义的，人事部也不会接受这种充满偏见的评价。
+	送葬人表示，他并不是不能理解事实，只是不能理解旁人赋予它们的意义。部分研究表明，送葬人移情能力的缺失并不意味着他是个过量分泌激素的唯我主义者；相反，他像是一个过度接收额外信息的机器，在神经末梢的刺激趋近相同的情况下，大部分附加信息在他脑中无法形成主次概念。
+	当然，关于送葬人脑部活动的具体运作方式，负责诊察与研究的医疗干员们尚未得出统一的结论。
+	极少部分干员怀疑干员送葬人并不是人类，而是可露希尔派来监督工作的人型机械间谍——类似的指控都被可露希尔否认，但可露希尔也认为干员送葬人不是人类，真是够了。
+	只是，送葬人从没对种种流言做出过反应。他只是默默地接受任务，加以完成，只要你告诉他“这里有任务的优先级排布。”
+	当然，他永远将公证所和契约人的任务放在第一位。
+	这也是他排除一切困难，坚决地执行拉特兰公民的遗嘱，并被冠以“送葬人”这一称呼的原因。
+
+	第三資料 :
+	イグゼキュターは少しも笑わない。これは早い段階で各オペレーターの共通認識になった。
+	イグゼキュターには常識がない。多くのオペレーターがこの観点を支持しているが、科学的に証明されるまでは、類似の評価は意味を持たない。人事部もこういった偏見に満ちた評価を受け入れずにいる。
+	イグゼキュターは、事実を理解できないわけではなく、他人がそれらに意義を押し付けることが理解できないだけだと主張している。一部の研究によると、イグゼキュターの共感力の欠如は彼がホルモン過剰な独我論者だと示すものではない。逆に、彼はプラスアルファの情報を過剰に受信している機械のようだ。末梢神経への刺激がほぼ同じような状況では、多くの情報が彼の頭の中では優先順位という概念はない。
+	当然、イグゼキュターの脳内活動の具体的なプロセスは、診察と研究を担当する医療オペレーターたちでも未だにまとまった結論を出せていない。
+	ごく少ない一部のオペレーターでは、実はイグゼキュターは人間でなく、クロージャが遣わした監視用人型ロボットスパイなのではないかと疑う者もいた。類似の指摘は全てクロージャに否定されたが、彼女もイグゼキュターは人間ではないと思っているという。まったくだ。
+	ただ、イグゼキュターはこういった噂に全く反応しない。彼は黙々と任務を受け、そつなく遂行するだけだ。「ここに任務の優先順位の割り振りがある」と彼に教えてあげれば。
+	勿論、彼は常に公証人役場と契約人関連の任務を第一に考えている。
+	これも彼が全ての困難を排除し、ラテラーノ公民の遺言を固く執行し、そしてついに「イグゼキュター」という名を冠する理由だろう。
+
+	Archive File 3 :
+	Operator Executor is a man slow to speak, who rarely smiles. The people of Rhodes Island have long understood this. 
+	It is also widely believed that Executor lacks common sense, but such an assertion would need to first be scientifically demonstrated. Human resources does not accept such biased evaluations. 
+	Executor has indicated that his problem is not that he does not understand the facts, rather that he does not understand the meaning that others attribute to them. Our studies have shown that Executor's lack of empathic ability is not illustrative of psychopathic tendencies, rather it indicates a sort of mechanical absorption of information, with an overstimulated nervous system reaching similar conclusions. Adding more information to his mind does not result in the formation of secondary conceptions. 
+	Of course, the medical operators responsible for examination of Executor's brain activity have not yet reached a consensus. 
+	A small number of operators suspect that Executor is not in fact human, but rather a humanoid robot spy sent by Closure. Closure has denied such charges, but she too believes that Executor is not a human being. 
+	For his part, Executor has never responded to the rumors. He just silently accepts his tasks and completes them whenever he is told 'this is a task that should be prioritized.'
+	Naturally, he puts his Notarial tasks first. 
+	Such is the origin of his name: he decisively eliminates all obstacles and executes the will of the Laterano citizenry. The Executor.
+
+	파일 자료 3 :
+	    오퍼레이터 이그제큐터는 엄숙하다. 이점은 이미 모든 오퍼레이터들이 공통적으로 인식하고 있는 점이다.
+	    오퍼레이터 이그제큐터에게는 상식이 없다. 비록 많은 오퍼레이터가 이런 관점을 고수하지만, 과학적인 증명이 있기 전에 이러한 평가를 내리는 건 의미가 없었다. 인사부 또한 이런 편견 넘치는 평가를 받아들이지는 않을 것이다.
+	    이그제큐터는 말했다. 자신은 사실을 이해하지 못하는 게 아니라, 단지 자신의 옆 사람이 그것들에 부여하는 의미를 이해하지 못하는 거라고. 일부 연구에 따르면, 이그제큐터의 감정 이입 능력 상실은 그가 호르몬 분비가 과다한 유아독존 같은 존재라는 걸 의미하지는 않는다고 한다. 오히려 반대로, 그는 추가 정보가 과도하게 입력된 기계와 비슷하다. 말초신경 자극과 비슷한 상황에서, 대부분의 추가 정보는 그의 머릿속에서 주요 개념으로 형성되지 않는다.
+	    물론, 이그제큐터의 구체적인 사고 방식에 대해서는, 진찰과 연구를 담당하는 메딕 오퍼레이터들이 아직 통일된 결론을 내리지 못했다.
+	    오퍼레이터 중 극소수는 이그제큐터가 인간이 아니라, 클로저가 파견한 인간형 업무 감독 로봇 스파이가 아니냐며 따졌지만 클로저는 바로 부인했다. 하지만 클로저 마저도 오퍼레이터 이그제큐터가 인간이 아니라고 생각하고 있으니, 이 정도면 더 설명할 필요가 없을 것 같다.
+	    하지만 이에 반해, 이그제큐터는 자신의 소문에 대해 반응한 적이 없다. 그는 단지 묵묵히 임무를 받을 뿐이며, 임무를 더 빨리 끝내고 싶다면 그에게 "이 임무의 우선순위가 더 높다"고 알려주기만 하면 된다.
+	    하지만 어찌 됐든, 그에게 있어 최우선 순위는 물론 공증소와 계약인의 임무다.
+	    이러한 점들이 바로 그가 업무 시 늘 마주하는 어려움을 극복하고, 라테라노 공민의 유언을 단호하게 집행해 '이그제큐터'라고 불리는 이유이기도 하다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	送葬人让我产生了一种错觉：拉特兰的条律并不仅仅作为法规存在。诚然，公证所也是拉特兰律法的一部分，执行者的存在更说明了一个事实：拉特兰对它的公民十分负责，或者说，具有强大的约束力。
+	但拉特兰人对法律的恪守、甚至是惧怕，远远超出了执行者力所能及的范畴。
+	我没在说宗教的力量。这片大地上拥有深厚信仰的政治实体多如毫毛，拉特兰公民的独树一帜可不只是出自什么虔诚或自律。
+	也不是说送葬人这类执行者不具备这样的实力。上星期他用手指就划开了害兽的大动脉，鲜血喷洒而出，溅了他的搭档一身。干员向我哭诉过“送葬人好恐怖”之类的事情，已经不是第一次了。
+	只是，光凭几个律警、执行者、流浪法官或教宗之手，拉特兰做不到言出法随。
+	除了实体条律外，拉特兰一定有着更高阶的法规，而我们对它一无所知。与其说执行者是拉特兰律法的具象之一，不如说执行者是拉特兰为了让律法看起来有那么些名副其实而推出来的形象。至少我就是这么认为的。
+	
+	我只想知道，送葬人口中那个“一旦射击同类就会生效的条律”究竟是什么机制。当真如他所述的话，这种“律法”算不算是种源石技艺都很难说。
+	这也是我第一次见着凯尔希欲言又止的样子。之前的她要么有话直说，要么冷笑一声就转身离开。讨论拉特兰律法时，她用手遮着嘴不断挤眉的样子，真的很有趣。
+	希望我的好奇心不会带来恶果。
+	
+	——术师干员L.A.O
+
+	第四資料 :
+	【権限記録】
+	イグゼキュターは私に一種の錯覚を感じさせた。ラテラーノの法律はただ法として存在しているだけではないと。確かに、公証人役場もラテラーノの法律の一部だが、執行人の存在は更にある事実を示している：ラテラーノは公民に対し十分な責任を負っている、あるいは強大な拘束力を備えているのだ。
+	しかしラテラーノ人の法律への厳守、もっと言えば畏怖の念が、執行人の力の及ぶ範囲を優に超えている。
+	私は宗教の力について話しているのではない。この大地には信仰に篤い団体が星の数ほどあるが、ラテラーノ公民が独自の境地を築き上げているのは決してただ敬虔さや自律心からくるものではない。
+	イグゼキュターのような執行人がそんな実力を備えていないわけではない。先週彼は指だけで害獣の大動脈を引き裂き、噴き出した血は彼の相棒の全身に飛び散った。オペレーターたちが私に「イグゼキュターが怖すぎる」と泣きついてくることは何度もあったのだ。
+	ただ、法律家や執行人、流浪の裁判官あるいは教皇の手に頼るだけでは、ラテラーノの法令は守れない。
+	実際の条例の他に、ラテラーノには更に高級な法律が設けられているはずだが、私たちはそれについて何も知らない。執行人がラテラーノ法律の具現化だというより、むしろラテラーノが法律に名実相伴っているように見せるために送り出されたイメージといった方が良い。少なくとも私はそう認識している。
+	
+	私が知りたいのは、イグゼキュターが言っている「一度同族を射撃すると効力を発する法令」とは一体どういう仕組みなのか。彼の話す通りならば、この「法令」はアーツの一種とも言えるではないのか。
+	これは私が初めてケルシー先生の言いよどむ様子を見た瞬間でもある。普段の彼女は言いたいことをすぐ口にするか、冷笑を浴びせてすぐに離れていくかだが、ラテラーノの法律について討論している時、彼女はずっと手で口を覆い、眉をひそめており、あの様子は実に面白かった。
+	私の好奇心が悪い結果をもたらさないことを祈る。
+	
+	――術師オペレーターL.A.O
+
+	Archive File 4 :
+	[Classified Log] 
+	Executor gave me the incorrect impression that Laterano's laws exist not only as statutes. Indeed, it is true that the Notarial Hall comprises one piece of the Laterano legal apparatus, and the executors attest to an important fact: Laterano takes its responsibility to its citizens very seriously, treating it as a binding contract. 
+	But the Laterano people's adherance to the law, or even fear of it, goes behind an executor's power to instill. 
+	I speak not of the power of religion. The political entities founded on deeply held beliefs go beyond Laterano alone, and the uniqueness of their citizenry cannot be attributed to piety or self-discipline alone. 
+	This is also not to say that executors, including Executor, are not themselves strong. Last week, I saw him tear out the aorta of a vicious beast with his bare hands, spraying his partner with blood. That was not the first time an operator came crying to me that 'Executor is terrifying,' and it certainly won't be the last. 
+	But for the hands of its few lawyers, executors, wandering judges, and the Pope himself, Laterano can do little more than proclaim that the law must be followed. 
+	In addition to its temporal statutes, Laterano must have another, higher order of law that we cannot perceive. Rather than saying the executor is one piece of the Laterano legal apparatus, it would be more appropriate to say that the executor is the physical manifestation that Laterano created to befit the name of the law. At least that's my opinion. 
+	
+	All I want to know is what Executor meant by 'the statute that takes effect once a shot is fired.' Given what he said, I have to wonder if this 'law' might be some kind of Originium Art. 
+	This is the first time I have ever seen Kal'tsit at a loss for words. She appeared to have something to say, but turns and left with a cold laugh. The whole time we were discussing Laterano law, she kept a hand over her mouth and an eyebrow raised. It was really odd. 
+	I hope my curiosity hasn't gotten us in trouble. 
+	
+	--Caster Operator L.A.O.
+
+	파일 자료 4 :
+	[제한된 기록]
+	    난 여태껏 라테라노의 법률이 규정으로만 존재할 거라고 크게 착각을 하고 있었다. 물론 공증소가 라테라노 율법의 일부이긴 하지만, 집행자의 존재는 라테라노가 공민들에게 강한 책임을 갖고 있거나, 혹은 강한 구속력을 갖고 있음을 시사하고 있다.
+	    다만 라테라노 공민의 준법 정신, 혹은 법에 대한 공포감은 집행자의 힘이 미치는 범위를 훨씬 초월하고 있다.
+	    나는 종교의 힘을 말하는 게 아니다. 테라상에 깊은 신앙을 가진 정치적 실체는 무수히 많지만, 라테라노 공민이 독자적으로 쌓은 경지는 결코 경건함과 자율심에서 나온 게 아니다.
+	    이그제큐터같은 집행자에게 그만한 실력이 없다고 말하는 건 또 아니다. 지난주, 그는 손가락만으로 짐승의 대동맥을 끊었고, 그 피가 터져 나와 그의 파트너의 전신에 튀겼다. 그 오퍼레이터는 내게 이그제큐터가 너무 무섭다며 울면서 하소연을 한 적도 있다. 이런 일은 비일비재하다.
+	    변호사, 집행자, 떠돌이 법관, 또는 교황의 영향력 만으로는, 라테라노 공민이 법을 준수하게 만들 수 없을 것이다.
+	    분명 실제 규율 외에, 라테라노에게는 더 높은 단계의 법규가 있는 게 분명하다. 그리고 우리는 그것에 대해 아는 게 없다. 집행자가 구체화된 라테라노 법률의 일부라기 보다는, 차라리 라테라노에서 법률이 그만큼 명실상부하다고 보여주기 위해 내놓은 간판에 가깝다고 하는 게 맞을 것이다. 적어도 나는 그렇게 생각한다.
+	
+	    나는 단지 알고 싶을 뿐이다. 이그제큐터가 말한 '동족을 사격하면 바로 효력을 발휘하는 법률'이 도대체 어떤 시스템인지 말이다. 정말 그가 서술한 대로라고 해도, 이런 '법률'을 하나의 오리지늄 아츠로 볼 수 있다고 단언하기는 어렵다.
+	    처음으로 켈시가 말을 하려다 머뭇거린 모습을 본 건 바로 이때였다. 평소대로의 그녀라면 할 말이 있으면 바로 말하거나, 한 마디 비웃고 뒤돌아 떠났을 텐데, 라테라노 법률에 대해 논할 때 그녀가 입을 손으로 막으며 눈썹을 찌푸린 모습은 정말 재미있었다.
+	    나의 호기심이 나쁜 결과를 가져오지 않기를 바란다.
+	
+	——캐스터 오퍼레이터 L.A.O.
+
+———————————————————————————————
+
+	晋升记录 :
+	“你真想追他？想清楚了，整个宿舍可都和你说过他有多糟！”
+	“你们为什么就要阻碍我和他之间美好的未来呢！不管他现在是什么样，我相信情感的力量是伟大的！”
+	“他对亲密关系的看法可没有你那么乐观，不如说，悲观到让人想立刻放弃......”
+	“你们畏畏缩缩的，就让我先去试试啊！你又怎么知道他是这样的人啊？”
+	“我当然知道好吗，这间宿舍的所有人都知道欸！”
+	“嗯？”
+	“呃。”
+	“说，你们是不是有人偷跑？是谁！”
+	“唔，她，她，她，她。”
+	“你呢？”
+	“我......只是拉他出去喝酒而已，没别的。真没有。”
+	“......”
+	“......”
+	“所以说一整个宿舍的人，全都偷跑了？！只有我一个人被蒙在鼓里？！”
+	“毕竟上次他帮忙修复辅助系统的样子，真的很帅嘛......”
+	“所以就这么，放弃了？”
+	“全都放弃了啊。”
+	
+	——某工程干员宿舍中的对话
+
+	昇進記録 :
+	「あんた本当に彼と付き合いたいの？ちゃんと考えてよ。宿舎の全員に言われたでしょ、あれはやばいって！」
+	「どうしてあなたたちは私と彼との幸せな未来を邪魔しようとするの！彼は今はあんなだけど、私は愛の力を信じてるから！」
+	「彼が男女関係への考え方はあんたみたいにポジティブじゃないんだよ。むしろすぐやめさせられるほど絶望的というか……」
+	「あなたたちはビビリばっかりだから。だったら私が先に試してみればいいじゃない！どうして彼がそんな人だとわかるの？」
+	「もちろんわかるよ、ていうかここのみんな知ってるじゃない！」
+	「ええ？」
+	「あっ。」
+	「白状して。抜け駆けした人がいるね？誰だよ！」
+	「えっと、あの子とあの子、そしてあの子、あとあの子も。」
+	「あなたは？」
+	「私は……ただ酒飲みに誘っただけ、あとは何もない。本当に何も。」
+	「……。」
+	「……。」
+	「つまりこの宿舎にいる全員が抜け駆けしたってこと！？私一人だけ何も知らなかったってこと！？」
+	「だってこの間彼がサポートシステムの修復を手伝ってくれたのは本当にかっこよかったんだから……」
+	「それで今、やめたの？」
+	「みんなやめたよ。」
+	
+	——某エンジニアオペレーター宿舎内での会話
+
+	Promotion Record :
+	'You really want him? Think it over. Everyone in the dorm has told you how bad he is!'
+	'Why do you guys want to get in the way of my happy future with him? It doesn't matter what he's like now, I believe in the power of love!'
+	'He doesn't think about intimacy like you do. He's such a glass-half-empty kind of guy. It makes you want to give up...'
+	'You guys are a bunch of cowards. Just get out of my way and let me give it a shot! How do you even know he's that kind of person?'
+	'I know! Everybody here knows!'
+	'Huh?'
+	'Hey.'
+	'Spit it out, one of you did something. Who was it?!'
+	'Um, her. Her. Her. Her.'
+	'What about you?'
+	'I... I just took him out for a drink. Nothing else. Really.'
+	'......'
+	'......'
+	'So everybody here did it?! I'm the odd man out here?!'
+	'I mean he helped fix the backup systems, it was really hot...'
+	'So that's it? Give up?'
+	'We all gave up.'
+	
+	--Dialog from a certain engineering operators' dormitory.
+
+	승진 기록 :
+	    "정말 그렇게 들이대고 싶어? 잘 생각해. 숙소에 있는 사람들한테 그 남자가 얼마나 위험한지 말해줬잖아!"
+	    "너흰 왜 굳이 나랑 그 남자 사이의 아름다운 미래를 방해하려는 거야! 지금의 모습이 어떻든, 난 사랑의 힘을 믿는다고!"
+	    "그 남자의 남녀관계에 대한 가치관은 너처럼 낙관적이지 않다고. 오히려 지금 당장이라도 포기하는 게 좋을 정도로 비관적이라고나 할까……"
+	    "너희가 무서워서 안 나설 거면, 차라리 내가 먼저 도전하게 해 줘! 그 남자가 어떤지 네가 어떻게 아는데?"
+	    "당연히 알지. 이 숙소에 있는 사람들이 다 알고 있을걸!"
+	    "어?"
+	    "윽."
+	    "……순순히 자백해라. 너희 중에 몰래 먼저 꼬리친 애 있지? 누구야!"
+	"음, 얘, 얘, 얘, 얘."
+	"넌?"
+	"난…… 단지 그 남자 끌고 나가서 술 마신 게 다야. 다른 건 없었어! 진짜 술만 먹었다고!"
+	    "……"
+	    "……"
+	    "그러니까, 여기 있는 애들 전부 다 몰래 먼저 들이대 봤다는 거지?! 와… 나만 몰랐네?!"
+	    "지난번에 컨트롤 시스템 고치는 모습이 정말 너무 멋있어서……"
+	"그래서 그렇게, 들이댔다가 포기한 거야?"
+	"다들 포기했지."
+	
+	——어느 오퍼레이터 숙소 내의 대화

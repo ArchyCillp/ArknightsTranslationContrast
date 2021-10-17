@@ -1,10 +1,25 @@
 [PopupDialog(dialogHead="$avatar_amiya")] 除了主线任务以外，执行各种其他日常的支线任务的奖励也是罗德岛重要的收入来源之一。
+[PopupDialog(dialogHead="$avatar_amiya")] 主要な任務以外に、日常的な任務により得られる報酬もロドスの収入源の一つです。
+[PopupDialog(dialogHead="$avatar_amiya")] In addition to completing Main missions, Side missions and various Daily missions are also important sources of income for Rhodes Island.
+[PopupDialog(dialogHead="$avatar_amiya")] 주요 임무 외에 일상적인 임무에서 얻을 수 있는 보너스 또한 로도스 아일랜드의 수입원 중 하나입니다.
 
 [PopupDialog(dialogHead="$avatar_amiya")] 博士，接下来我将为你介绍其余的几种任务类型。
+[PopupDialog(dialogHead="$avatar_amiya")] ではドクター、任務の種類を紹介していきますね。
+[PopupDialog(dialogHead="$avatar_amiya")] Here are the other mission types.
+[PopupDialog(dialogHead="$avatar_amiya")] 그럼 박사님, 그런 임무에는 어떤 종류가 있는지 소개해 드릴게요.
 
 [PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 整理在这里的任务与其他的委托稍有不同。这是专门为你设计的一系列“复健”手续。
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 研修任務は他の任務とは少し性質が異なり、ドクターのために作られた一種の「リハビリ」用の任務です。
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] These missions are structured differently than the requests we normally get. They're a series of 'rehabilitation' procedures specifically designed for you.
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 인턴 임무는 다른 임무와 조금 다른 성격의 임무로, 박사님을 위해 만들어진 '재활 치료' 용도의 임무라고 할 수 있습니다.
 
 [PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 当然，完成它们可以为你带来一些额外的好处，这包括其他委托里很难得到的补给。
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] もちろん、ただのリハビリではつまらないので、他の任務ではなかなか獲得できない報酬も用意してあります。
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] Of course, completing these missions will be worth your while, and you will be rewarded with supplies that are hard to come by through most other requests.
+[PopupDialog(dialogHead="$avatar_sys", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 물론 단순한 재활 치료로 끝나는 게 아니라, 다른 임무에서는 좀처럼 획득하기 어려운 보상도 준비되어 있죠.
 
 [PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 博士，我建议可以先优先完成这些任务，来迅速回忆起你曾经掌握的“知识”。
+[PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] ドクター、まずはこちらの任務をこなして、記憶と共に失った「知識」を取り戻してもらうのが良いかと思います。
+[PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] I suggest you prioritize these missions so that you can recall the knowledge you've previously mastered.
+[PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 박사님, 우선은 이 임무를 처리하면서, 기억과 함께 잃어버린 '지식'을 떠올리시는 게 좋겠어요.
 

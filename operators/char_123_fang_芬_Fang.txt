@@ -1,11 +1,17 @@
 ID:
 	char_123_fang
 
-干员代号\Name:
+CV:
 	芬
 	フェン
 	Fang
 	팽
+
+干员代号\Name:
+	白石凉子
+	白石涼子
+	Ryoko Shiraishi
+	시라이시 료코
 
 招聘合同\Character Usage:
 	罗德岛先锋干员芬，将在战场上为小队赢得可观的优势。
@@ -38,157 +44,314 @@ ID:
 	돌격지령α
 
 语音\Voices:
-	博士，有什么我能做的事吗？
 	ドクター、何か私にできることはありませんか？
 	Doctor, is there anything I can help you with?
 	박사님, 제가 할 만한 일은 없습니까?
 
-	谢谢您的信任！今后我也会继续加油的。
 	ご信頼いただき、ありがとうございます！これからも頑張ります……。
 	Thank you for believing in me! I'll keep up my work!
 	믿고 맡겨주셔서 감사합니다! 앞으로도 더 노력하겠습니다…… 
 
-	芙蓉和炎熔又吵架了，真让我头疼。明明是亲生姐妹啊，为什么会变成现在这样呢......
 	ハイビスとラヴァ、またケンカを……まったく困ったものです。姉妹なのに、どうしてこうなるんでしょう……。
 	Hibiscus and Lava are fighting again... What a pain. Why are they like this when they're siblings?
 	히비스와 라바가 또 싸웠군요…… 정말 골치가 아프네요. 자매 사이에 대체 왜 그러는 건지…… 
 
-	我们和杜宾老师经常进行模拟比赛，不过我完全摸不透老师的技巧。如果博士和阿米娅有时间来参观训练的话，可以亲自指导我们吗？
 	ドーベルマン先生とは模擬戦をよくやるのですが……先生の技はまったく捉えられません。ドクターとアーミヤさんも、お暇な時に私たちの訓練を見ていただいて、ご指導いただけませんか？
 	We often have mock battles with Instructor Dobermann, but I always fail to grasp her skill. Doctor, next time you and Amiya observe our training, would you please give us some guidance?
 	도베르만 선생님과는 모의 전투를 자주 하고 있습니다만…… 선생님의 기술을 도저히 따라갈 수가 없네요. 박사님과 아미야 씨도, 시간이 되실 때 저희 훈련을 보고 지도해 주실 수 있을까요?
 
-	啊，我知道了，我的小队里又有人迟到了对吧。我会想办法解决的。
 	私をずーっと見て、何か言い出しづらいことでもあるのでしょうか……？あ、わかりました。またチームの誰かが遅刻したんですね。私がなんとかします。
 	Is there something you want to tell me? Ah, I understand now. Someone on my team is late again, aren't they? I'll see to it that gets fixed.
 	절 계속 쳐다보시는 걸 보니, 뭔가 꺼내기 어려운 말씀이라도 있으신 건가요…? 아, 알겠습니다. 팀원 중에 또 지각 한 사람이 있는 모양이군요. 제가 한마디 해 두겠습니다.
 
-	我也是感染者，但并没能像炎熔那样觉醒法术天赋......
 	私も感染者ですが、ラヴァのような強いアーツの素質は得られませんでした……。
 	Lava and I are both Infected, but I didn't receive powerful Arts from it like she did...
 	저도 감염자입니다만… 라바처럼 아츠의 소질이 생겨나진 않더군요.
 
-	罗德岛给了我们容身之地，博士，所以就算拼上自己的生命，我也一定要保护好所有人。
 	ロドスは私たちの居場所ですよ、ドクター。命をかけても、みんなの無事を守ります。
 	Rhodes Island is our home and shelter, Doctor. I will protect everyone here with my life.
 	로도스 아일랜드는 저희 삶의 터전입니다. 박사님, 목숨을 걸고서라도 모두를 안전하게 지키겠습니다.
 
-	米格鲁诚实可靠，克洛丝洞察力强，炎熔很聪明，芙蓉充满活力，我一直很喜欢组里的大家......只要芙蓉不再强迫我吃她新创作的可怕料理就好......
 	ビーグルは素直で頼れるし、クルースは感覚が鋭い、ラヴァは賢くて、ハイビスはいつも元気。このチーム全員、私は大好きです。……ハイビスが無理やり食べさせてくる地獄のような料理さえなければ……。
 	The ever-honest and reliable Beagle, the perceptive Kroos, the resourceful Lava and the energetic Hibiscus. I like everyone in this team... as long as Hibiscus doesn't force her newly invented dishes on me.
 	비글은 솔직한 데다 듬직하고, 크루스는 감이 좋고, 라바는 똑똑하고, 히비스는 늘 기운이 넘칩니다. 저희 팀원 모두가 저는 너무 좋습니다…… 히비스가 억지로 먹여대는 지옥 같은 요리만 빼면 말이죠… 
 
-	......嘘，别打扰博士休息，有事我们到外面说。
 	……しーっ、ドクターは休憩中だよ。邪魔しないように、用があるなら外で話しましょう。
 	Shhh! The Doctor's resting. We can talk outside.
 	…쉿, 박사님께선 지금 휴식 중입니다. 방해하지 말아 주세요. 용무가 있으시면 밖에서 이야기하죠.
 
-	我是芬，长枪手，现在正担任着行动预备组A1的队长一职。我和我的小队一定会竭尽全力，成为罗德岛可靠的战力。
 	私はフェン、槍使いです。新米チームの隊長もしています。ロドスの力になれるよう、チームメンバーと共に全力を尽くす覚悟です。
 	This is lancer Fang, the captain of Reserve Op Team A1. My team and I will do our best to serve Rhodes Island.
 	제 이름은 팽, 창병입니다. 신입사원 팀의 팀장도 겸하고 있습니다. 로도스 아일랜드에 보탬이 될 수 있도록, 팀원들과 함께 최선을 다할 각오가 되어 있습니다.
 
-	感谢您的指导。
 	ご指導、ありがとうございます。
 	Thank you for your guidance.
 	지도해주셔서 감사합니다.
 
-	您的提拔是对我努力的最好肯定。
 	ドクターからの任命は、私の努力に対する最高の評価だと思ってます。
 	I'm greatly honored by the promotion!
 	박사님께서 이렇게 임명해주신 건, 제 노력에 대한 최고의 평가라고 생각합니다.
 
-	请交给我。
 	お任せください。
 	Leave it to me.
 	맡겨만 주십시오.
 
-	没问题，我很了解队长该做什么。
 	隊長の役目はよく理解しているつもりです。大丈夫です。
 	I know well what a captain's duty is. Rest easy.
 	팀장으로서 해야 할 일은 숙지하고 있습니다. 걱정마십시오.
 
-	全体人员，出发前务必要检查随身装备是否备齐了。
 	総員、出発前に装備品のチェックを。
 	Team, check your gear before departing.
 	각 대원, 출발 전에 장비를 점검하도록.
 
-	发现敌方单位。准备作战！
 	敵部隊捕捉。作戦準備！
 	Enemy spotted. Prepare to fight!
 	적 부대 발견, 작전 준비!
 
-	准备行动。
 	準備完了。
 	Ready for action.
 	준비 완료.
 
-	准备万全。
 	備えは万全です。
 	On standby.
 	만반의 준비를 해두었습니다.
 
-	各就各位。
 	各自、配置につけ。
 	In position.
 	각자 위치로.
 
-	请交给我们。
 	私たちにお任せください。
 	Leave it to us.
 	저희에게 맡겨 주십시오.
 
-	刺穿。
 	貫く！
 	Thrust!
 	뚫어라!
 
-	大家跟着我！
 	みんな、私に続け！
 	Everyone, follow me!
 	모두, 날 따라오도록!
 
-	只要有正确合理的作战计划，就算是我们这样的新手，也能赢下这样艰难的战斗！
 	正確かつ合理的な作戦プランがあれば、私達のような新米でもこんな戦いに勝つことができるんですね！
 	With the right plan, even Starters like us can win a tough fight!
 	정확하고 합리적인 작전 계획만 세워놓으면, 저희 같은 신입사원 팀도 이렇게 전투에서 승리할 수 있는 거군요!
 
-	我们按照预定目标，完成了此次作战。
 	作戦目標、予定通り完遂しました。
 	We have accomplished our objective as planned.
 	작전 목표, 예정대로 완수했습니다.
 
-	只要放走一个敌人，作战就不能说是成功的。米格鲁，下次我们也要加油。
 	一人でも逃せば、作戦は成功とは言えない。ビーグル、次も頑張ろうね。
 	We can't call a mission complete if we let even one enemy get away. Beagle, let's do better on the next one.
 	적을 한 명이라도 놓쳤다면 그 작전은 성공했다고 할 수 없어. 비글, 다음엔 더 잘하자.
 
-	非常抱歉，杜宾老师......
 	申し訳ありません、ドーベルマン先生……。
 	I'm sorry for having failed you, Instructor Dobermann...
 	면목 없습니다, 도베르만 선생님…… 
 
-	是的，我回来了。克洛丝也在这里吗？
 	はい、ただいま……クルースもここにいるんですか。
 	Yes. I'm back. Is Kroos here too?
 	네, 지금 바로…… 크루스도 여기 있습니까?
 
-	啊！
 	あっ！
 	Ahh...!
 	앗!
 
-	我帮上您的忙了吗？
 	お力になれましたか？
 	Do you find me helpful?
 	도움이 되었습니까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	我随时都可以，博士。
 	いつでもいけます、ドクター。
 	I'm ready whenever you need me, Doctor.
 	언제든지 준비되어 있습니다, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】芬 
+	【性别】女 
+	【战斗经验】一年 
+	【出身地】卡西米尔 
+	【生日】12月2日 
+	【种族】库兰塔 
+	【身高】158cm 
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】フェン
+	【性別】女性
+	【戦闘経験】一年
+	【出身地】カジミエーシュ
+	【誕生日】12月2日
+	【種族】クランタ
+	【身長】158cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Fang 
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Kazimierz 
+	[Date of Birth] December 2 
+	[Race] Kuranta 
+	[Height] 158cm 
+	[Infection Status] 
+	Medical tests confirm she is infected.
+
+	기본정보 :
+	[코드네임] 팽
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 카시미어
+	[생일] 12월 2일
+	[종족] 쿠란타
+	[신장] 158cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准 
+	【战场机动】优良 
+	【生理耐受】标准 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Excellent
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수 
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	行动预备组A1队长，之前有在警备队实习的经验。战斗能力出众，进入罗德岛后很顺利地适应了现在的工作。 和原本的队员米格鲁、克洛丝一起进入了行动预备组，为了成为独当一面的干员努力着。
+
+	個人履歴 :
+	行動予備隊A1の隊長。以前は警備隊で実習していた経験があり、優れた戦闘能力を持っている。ロドスに加入後は順調に任務に慣れていった。加入前からの仲間だったビーグル、クルースとは行動予備隊に一緒に編成されることとなり、一人前のオペレーターになるため、共に努力している。
+
+	Profile :
+	Captain of Op Reserve Team A1. She has prior experience working with a Columbian garrison, and has proven herself to be outstanding in combat. After joining Rhodes Island, she had no problem adjusting to her current work. She joined the Operation Planning Group with its original members, Beagle and Kroos, and has worked hard to become its leading Operator.
+
+	프로필 :
+	    예비작전팀 A1의 팀장, 과거 경비대에서 인턴으로 근무한 경험이 있다. 뛰어난 전투 능력을 지니고 있어 로도스 아일랜드에 온 후에도 순조롭게 현재 업무에 적응할 수 있었다. 원래 같은 팀에 있었던 비글, 크루스와 함께 예비작전팀에 들어왔으며, 자기 몫을 충분히 해낼 수 있는 오퍼레이터가 되기 위해 노력하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】7.4%
+	体表暂未出现明显的矿石病病征。
+	
+	【血液源石结晶密度】0.2 u/L
+	感染程度尚浅，暂时还没有带来明显身体影响。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7.4%
+	体表に鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.2u/L
+	感染状況は浅く、現状明らかな身体への影響は見られない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 7.4%
+	She presents no obvious external symptoms of Oripathy.
+	
+	[Blood Crystal Density] 0.2 u/L
+	Degree of infection is minor and physical symptoms are not yet present.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음, 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률]7.4%
+	체표면에는 현재로선 명확한 광석병 증상이 나타나지 않음.
+	
+	[혈중 오리지늄 결정 밀도] 0.2u/L
+	감염 정도 약함, 현재로선 신체에 명확한 영향을 끼치고 있지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	在战斗中，芬会充分发挥库兰塔的脚力优势，占据优势地形抢占先机。为了不影响机动力的同时兼顾一定的牵制力，芬选择了轻便的短枪作为武器，在各种地形都能灵活战斗。 听人说话到一半就会开始行动的一根筋急性子。————克洛丝
+
+	第一資料 :
+	戦闘中、フェンはクランタの長所である脚力を活かし、優位になる地形を占領する。機動力に影響せずに一定の牽制力を持つため、フェンはショートスピアを得意とし、様々な地形での戦闘で活躍している。
+	「フェンちゃんは話を最後まで聞く前に行動しちゃうタイプのせっかちさんなんだよ～。」————クルース
+
+	Archive File 1 :
+	Fang shows off a Kuranta's natural dominance in battle by always holding the most advantageous position at the critical moment. To strike a balance between power and control, Fang prefers to use a spear, which she applies with versatility in any situation. Fang acts impulsively and springs into action before others even finish talking.
+
+	파일 자료 1 :
+	    쿠란타 족 특유의 빠른 발을 십분 활용해서, 지형적 우세를 선점해 기선을 제압하는 게 팽의 전투 스타일이야. 기동력에 영향을 주지 않으면서도 적 견제를 효율적으로 하기 위해 팽은 가볍고 짧은 창을 주무기로 선택했지. 덕분에 팽은 어떤 지형에서도 민첩하게 작전을 수행할 수 있어. 다만, 사람 말이 반도 안 끝났는데도 작전을 개시해버리는 급한 성질이 옥에 티랄까… ——크루스
+
+———————————————————————————————
+
+	档案资料二 :
+	哥伦比亚外围城区聚集了来自各个国家的移民，芬、克洛丝、米格鲁三人从不同的出生地来到这里相遇，都抱着同样的目标加入了城区警卫，接受了最初的训练。急性子不擅玩笑的芬，温柔和气的米格鲁，豁然随性的克洛丝，三人性格明明各异，却不可思议地成为了彼此心里的支柱。
+
+	第二資料 :
+	クルビアの辺境地区は各国からの移民たちが集う。フェンとクルースとビーグルもそこで出会った。三人は同じ目標を抱いて警備隊に入り、初めての訓練に挑んだ。せっかちで冗談が通じないフェン、優しくて温和なビーグル、のんびりでマイペースなクルース、三人は性格がバラバラでも、いつしか互いを支え合っている関係となった。
+
+	Archive File 2 :
+	Immigrants from many nations came to the outskirts of Columbia. Fang, Kroos, and Beagle all met there after moving from their respective homelands. After realizing their common goals, they joined the city guard and underwent basic training together. The humorless Fang, the gentle Beagle, and the laid-back Kroos possess wildly different personalities yet rely on one another for support.
+
+	파일 자료 2 :
+	    팽, 크루스, 그리고 비글은 태어나고 자란 곳은 다르지만, 모두 같은 목표를 갖고 다양한 국가에서 온 이민자들이 모여살고 있는 컬럼비아 외곽 도시의 도시 경비대에서 훈련을 받다 알게 된 사이다. 성격이 급하고 농담을 할 줄 모르는 팽, 따뜻하고 상냥한 비글, 자유분방한 크루스, 셋의 성격은 전부 제각각이지만, 경비대의 훈련 기간 동안 이들은 서로 간의 정신적 버팀목이 되어 주었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在正式入选日来临之前，哥伦比亚外围城区爆发了突发地质天灾。为了掩护更多的平民安全离开，三人都没有及时从源石扩散地离开，无法幸免地感染了矿石病。受到排挤和不公对待的芬陷入迷茫和悲伤的时候，克洛丝为三人找到了新的方向，带领大家来到了罗德岛。
+
+	第三資料 :
+	正式に入隊する前、クルビアの辺境地区で突然天災が発生した。一人でも多くの住民達の避難を支援しようとしたため、三人とも飛散する源石から逃れられず、不幸にも鉱石病に感染した。たちまち差別され、ひどい仕打ちを受けたフェンは悲しくて途方に暮れた。しかし、クルースは新しい道を見つけて、二人を連れてロドスへ行った。
+
+	Archive File 3 :
+	Before an election day, a Catastrophe struck the outskirts of Columbia. In their efforts to aid others in escaping, all three Operators were infected with Oripathy. Fang suffered discrimination due to her condition and fell into deep despair. Kroos rallied the three of them and together they went to Rhodes Island.
+
+	파일 자료 3 :
+	    정식 선발의 날이 다가오기 전, 컬럼비아 외곽 도시에서 돌발적 지질 재앙이 발발하였다. 더 많은 시민들이 안전하게 대피할 수 있도록 엄호하기 위해, 세 사람은 오리지늄이 확산되는 현장을 적시에 떠나지도 않았고, 결국 광석병에 감염되고 말았다. 배척과 부당한 대우를 받은 팽이 비참하고 암담한 기분에 빠져있을 때, 크루스는 자신과 친구들을 위한 새로운 살길을 찾아냈고, 그녀는 두 친구를 데리고 로도스 아일랜드로 오게 되었다.
+
+———————————————————————————————
+
+	档案资料四 :
+	来到罗德岛后，芬三人和芙蓉炎熔分配在了一组接受杜宾的训练。因为杜宾超乎寻常的严格课程，克洛丝和炎熔老是耍滑摸鱼并抓住任何一个机会偷懒，芬身为队长也拿她们没什么办法。目前正在努力练习让自己更有威严和凶一些，目标是成为杜宾教官一样严格的人。不过从芬平时笑嘻嘻地吃着最喜欢的水果的样子看来，这个距离应该很遥远吧。
+
+	第四資料 :
+	ロドスへとたどり着いた後、フェン達三人はラヴァとハイビスカスと同じチームに配属され、教官のドーベルマンから過酷な訓練を受けることになった。日頃からズルをして、機会を見計らってはサボっていたクルースとラヴァを、隊長であるフェンはどうすることもできなかった。今のフェンはドーベルマン教官を目標にして、威厳のある隊長になれるように日々努力している。しかし、大好きな果物を食べるときのあのニンマリとする笑顔を見ると、威厳への道のりはまだまだ遠いだろう。
+
+	Archive File 4 :
+	After arriving at Rhodes Island, Fang and her two companions as well as Hibiscus and Lava were all trained by Dobermann. The training was extraordinarily intense, and Kroos and Hibiscus seized every opportunity they could to goof off. Even Fang as their captain couldn't do anything to control them. Currently, Fang is training herself to be as intense and strict as her teacher, Dobermann. However, if the giddy expression on her face as she eats fruit is any indication, she's got a long way to go.
+
+	파일 자료 4 :
+	    로도스 아일랜드에 온 후, 팽 일행은 히비스커스, 라바와 한 팀이 되어 도베르만의 밑에서 훈련을 받게 되었다. 도베르만의 매우 엄격한 훈련 스타일로 인해, 크루스와 라바는 늘 어떻게 하면 쉽게 쉽게 넘어갈 수 있을지에 대해 잔머리를 굴렸는데, 팀장인 팽도 이 둘을 어찌할 방법이 없었다. 현재는 자신을 좀 더 위엄 있고 터프하게 만들기 위해 노력 중인데, 구체적으로는 도베르만 교관처럼 엄격한 사람이 되는 것이 목표다. 다만 평소에 해죽이 웃으며 자신이 가장 좋아하는 과일을 먹고 있는 모습을 보자면, 아직은 목표 달성까진 많은 시간이 필요할 듯하다.

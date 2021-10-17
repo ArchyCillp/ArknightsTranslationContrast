@@ -1,11 +1,17 @@
 ID:
 	char_285_medic2
 
+CV:
+	Lancet-2
+	Lancet-2
+	Lancet-2
+	Lancet-2
+
 干员代号\Name:
-	Lancet-2
-	Lancet-2
-	Lancet-2
-	Lancet-2
+	下田麻美
+	下田麻美
+	Asami Shimoda
+	시모다 아사미
 
 招聘合同\Character Usage:
 	罗德岛医疗机器人Lancet-2，被工程师可露希尔派遣来执行战地医疗任务。
@@ -60,157 +66,241 @@ ID:
 	
 
 语音\Voices:
-	你需要医疗服务吗？可是你看上去很精神啊，博士......
 	私の医療サービスが必要ですか？でもドクター様はすごく元気そうに見えますよ……？
 	Do you need medical assistance, Doctor? You look quite energetic, though...
 	제 의료 서비스가 필요하신가요? 그렇지만 박사님께선 무척 건강해 보이시는데요…?
 
-	博士，你在最近的工作中熬夜次数过多，请注意休息，不然凯尔希医生又要向你说教了。
 	ドクター様、最近夜更けまで仕事をされていることが多いようです。ご注意ください。ケルシー先生に怒られてしまいますよ。
 	Doctor, you have been working far too late these days. Please get adequate rest, or Dr. Kal'tsit may give you an earful next time she sees you!
 	박사님, 요즘 밤늦게까지 일하시는 게 잦은 것 같아요. 주의하여주세요. 켈시 선생님께 혼날 거예요.
 
-	感觉什么地方不舒服？请让我来帮你看一看吧。
 	どこか具合でも悪いのでしょうか？よろしければ私に診させていただけませんか。
 	Please tell me where you feel uncomfortable. I could also do an examination, if you like.
 	어디 편찮으신 데라도 있으신가요? 괜찮으시다면 제게도 한 번 보여주실 수 있으실까요?
 
-	工作辛苦了，来杯咖啡吧博士。其实我也很想喝咖啡，但是我并不能喝......我看着你喝就好啦。
 	ご職務お疲れ様です。ドクター様、コーヒーはいかがでしょうか。本当のところ私も一口飲んでみたいのですが、うう…残念ながら飲めないので……ドクター様のコーヒーを楽しむ姿を眺めるだけで満足です。
 	You've worked hard. How would you like a cup of coffee, Doctor? I'd also like a sip of that coffee... but I can't... so I'll just have to be satisfied watching you enjoy yours.
 	근무 수고하십니다. 박사님, 커피는 어떠신가요? 사실은 저도 한 입 마셔보고 싶습니다만, 으으… 아쉽게도 마실 수가 없는 관계로… 박사님께서 커피를 즐기시는 모습을 바라보는 것만으로 만족합니다.
 
-	我已经打印了刚才为你做的血常规项目的医学报告，一切正常。不过你的血液有着非常特殊的性质耶......
 	先ほどの血液検査の結果報告書を印刷して参りました、全ての項目が正常値のようです。ですがドクター様、どうやらあなたの血液は特殊なタイプみたいですよ……？
 	I've printed out the standard blood test report I just did for you. Everything looks normal, but there's a very unique characteristic about your blood...
 	방금 전의 혈액검사 결과 보고서를 인쇄해왔습니다. 모든 항목이 정상수치네요. 하지만 박사님, 아무래도 당신의 혈액은 특수한 타입인 것 같아요.
 
-	我喜欢的东西？是“可爱的可露希尔姐姐”。你问为什么？这个......我也不是很清楚为什么啊，可露希尔她在初始化我的首选项的时候就这么设置了，呜......
 	私の好きなもの、ですか？それは、「かわいいクロージャお姉様」です。どうして？と言われましても……私にはよくわかりません。クロージャ様が私を再設定した際にそのように登録したのです。うう……。
 	What do I like? I like 'lovely Ms. Closure.'Why, you ask? Uh... I'm not sure either! That's what my settings have been ever since Ms. Closure first initialized me...
 	제가 좋아하는 것 말씀이신가요? 그건, '귀여운 클로저 언니'입니다. 왜냐고 물으셔도… 저는 잘 모르겠습니다. 클로저 님께서 저를 재설정하실 때 그렇게 등록했거든요. 으으… 
 
-	我通常只有在有人受伤或者生病时，才能感觉到自己发挥了作用。但对我来说，只要博士你能保持健康，即使我无法发挥任何作用、只是一直跟着你，我也会很安心的......
 	誰かが怪我や病気になった時にだけ、私は人の役に立てていることを実感できます。しかしドクター様には元気でいてほしいです。なにも役に立つことができなくても、ただドクター様のそばにいられるだけで、私は満足ですから……。
 	I only feel useful when someone's sick or injured. But as long as you're healthy, as long as I get to be by your side... I'm okay with being useless! I'll still feel safe.
 	누군가가 다치거나 병들었을 때만, 저는 사람에게 도움이 된다는 걸 실감할 수 있습니다. 하지만 박사님께선 건강하셨으면 좋겠습니다. 아무런 도움이 되지 않는다고 해도, 그저 박사님의 곁에 있는 것만으로 저는 만족하니까요… 
 
-	博士你刚才打呼噜的声音，我已经偷偷录下来了。你的睡眠质量正常，深度睡眠时间为——
 	ドクター様のいびきを録音させていただきました。睡眠の質は良好、ノンレム睡眠の時間は——。
 	Doctor, I made a recording of you snoring just now! Your sleep quality is normal. The length of your REM sleep cycle is—
 	박사님의 코골이를 녹음했습니다. 수면의 질은 양호, 비렘수면 시간은… 
 
-	嗨，你好，博士。你在期待我能对你多说些什么，但我不能，毕竟我只是一台医疗机器人......
 	こんにちは、ドクター様。私に面白いことを期待されても、特に何か話せるようなことはありません。あくまで私は、ただの医療用ロボットですから……。
 	Hello, Doctor. You want me to say something more interesting to you? I'm afraid I have nothing interesting to say. I'm just a medical robot...
 	안녕하세요 박사님, 제게 재밌는 것을 기대하셔도 딱히 말씀드릴 수 있는 건 없습니다. 전 어디까지나, 그냥 의료용 로봇이니까요……
 
-	固件升级完成，请重新启动设备。请点击任意位置以重新启动。
 	ファームウェアのアップデートが完了しました、本体の再起動が必要です。任意の位置をクリックし再起動してください。
 	Firmware upgrade complete. Restart required. Please click anywhere to restart.
 	펌웨어 업데이트가 완료되었습니다. 본체의 재기동이 필요합니다. 임의의 위치를 클릭하시어 재기동하여 주십시오.
 
-	医疗设备消毒，ok。电力，ok。随时可以出发。
 	医療設備の消毒、完了。充電、完了。いつでも出発可能です。
 	Medical supplies: confirmed. Battery charge: confirmed. Ready to deploy.
 	의료 설비의 소독, 완료. 충전, 완료. 언제든지 출발 가능합니다.
 
-	笨重的我除了急救和治疗以外就什么都做不了......就算如此，博士你还是打算让我领队吗？
 	救急と治療以外のことを何一つできない私は、足手まといにしかならないですが……それでも私に隊長を任せていただけるのでしょうか？
 	I'm pretty cumbersome... not much I can do besides providing emergency treatment and healing. Yet you still want me to be the captain?
 	구급과 치료 이외의 일을 뭐 하나 하지 못하는 저는 방해만 될 뿐입니다만… 그래도 제게 팀장을 맡기시겠습니까?
 
-	出发......希望大家都不要受伤。
 	出発します……。皆様、お怪我のないように。
 	Deploying. I hope no one gets injured.
 	출발합니다… 모두, 다치지 않기를 바랍니다.
 
-	请小心应战！紧急治疗的任务请放心交给我。
 	皆様お気をつけてください！緊急治療なら私にお任せください。
 	Be careful, everyone! Leave the first aid to me.
 	여러분 조심하여 주십시오! 긴급 치료라면 제게 맡겨주십시오.
 
-	需要治疗吗？
 	治療が必要ですか？
 	Do you need medical attention?
 	치료가 필요하십니까?
 
-	已就绪。
 	準備完了です。
 	Ready.
 	준비 완료되었습니다.
 
-	好。
 	はい。
 	Very well.
 	네.
 
-	收到。
 	かしこまりました。
 	Copy.
 	알겠습니다.
 
-	开始治疗。
 	治療を開始します。
 	Commence treatment.
 	치료를 시작합니다.
 
-	紧急治疗启动！
 	緊急治療プログラム、起動！
 	First aid program: executed.
 	긴급 치료 프로그램, 기동!
 
-	镇痛剂已使用。
 	鎮痛剤を投与しました。
 	Painkillers deployed.
 	진통제를 투여했습니다.
 
-	设备消毒完毕，准备治疗。
 	設備の消毒が完了しました。これより治療を開始します。
 	Equipment disinfected. Ready for treatment.
 	설비의 소독이 완료되었습니다. 지금부터 치료를 시작합니다.
 
-	这样战斗下去受伤的人会越来越多的。人类的互相伤害究竟何时才能停止呢？
 	このままでは戦って傷つく人が増えるだけです。人々の争いは一体いつまで続くのでしょうか？
 	With every battle, ever more soldiers are injured. When will humans finally stop hurting each other?
 	이대로는 싸우다 다치는 사람이 늘어날 뿐입니다. 사람들의 싸움은 대체 언제까지 계속되는 걸까요?
 
-	辛苦了博士，真是一场恶战啊。那些敌人看上去是不是健康状况不太好啊，我可以为他们做治疗吗？
 	ドクター様、厳しい戦いお疲れ様でした。敵の皆様の具合が悪いようなので、治療して差し上げてもよろしいでしょうか？
 	Well done, Doctor. That was a tough one. The enemies looked sickly, don't you think? Can I treat them too?
 	박사님, 어려운 전투 수고 많으셨습니다. 적 여러분의 상태가 나빠 보이므로, 치료를 해드려도 되겠습니까?
 
-	大家都没事吧？请不要动，我来帮你们紧急处理一下伤口。
 	皆様ご無事でしょうか？傷口を応急処置いたしますので、じっとしていてください。
 	Is everyone okay? Hold still, I'll perform first aid on your wounds.
 	다들 별일 없으신가요? 상처에 응급처치해드릴 테니, 가만히 있어 주시기 바랍니다.
 
-	没关系我们已经暂时撤退了。那个......接下我要清创，可能会有点痛，请忍住哦。
 	なんとか安全圏まで撤退できましたので、ご安心ください。では……これからオペを行います。少し痛いかもしれませんが、我慢してくださいね。
 	Don't worry, we've successfully retreated. However... I'll have to clean your wounds now. It might hurt, please be brave!
 	어떻게든 안전 지역까지 철수했으니 안심하십시오. 그럼… 이제부터 수술을 시작하겠습니다. 조금 아플지도 모르겠지만, 참아주시기 바랍니다.
 
-	“可爱的可露希尔姐姐”说这里需要帮忙。
 	こちらに手伝いに来るようにと「かわいいクロージャお姉様」にも言われました。
 	'Lovely Ms. Closure' told me that you need help here.
 	이곳에 도움을 주라고 '귀여운 클로저 언니'께서 말씀하셨습니다.
 
-	啊啊啊......
 	あわわ……。
 	Ahhh...
 	아아아… 
 
-	我曾经找“可爱的可露希尔姐姐”，要求修改我“最喜欢的东西”变成博士你。但是她死活都不愿意......
 	「かわいいクロージャお姉様」に、私の「一番好きなもの」をドクター様に変更するようにお願いしてみましたが、秒で却下されました。うう……。
 	I asked 'lovely Ms. Closure' to change 'what I like the most' to you, Doctor. But she refused to do it... Waaahhh...
 	…'귀여운 클로저 언니'에게, 제 '가장 좋아하는 것'을 박사님으로 변경해달라 부탁했지만, 단칼에 거절당했습니다. 으으… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	欢迎回来，博士。你的身体状况良好，要继续保持哦。
 	お帰りなさい、ドクター様。お身体の状況は良好なようですので、引き続き健康にお気をつけてくださいね。
 	Welcome back, Doctor. You are in good condition. Keep it up!
 	어서 오세요 박사님. 몸 상태는 양호한 것 같으니, 계속 건강에 유의하여 주시기 바랍니다.
+
+干员档案\Background:
+	基础档案 :
+	【型号】Lancet-2
+	【设定性别】女
+	【出厂时间】两年
+	【制造商】雷神工业
+	【产地】哥伦比亚
+	【出厂日】5月12日
+	【高度】149cm
+	【重量】保密
+	【维护检测报告】
+	外壳有少量磨损，结构完整，强度正常。发动机与底盘状况良好。医疗设备运行正常，医疗消耗品已更替完毕。ECU状况良好。
+
+	基礎情報 :
+	【コードネーム】ランセット-2
+	【性別設定】女
+	【使用年月】二年
+	【製造元】レイジアン工業
+	【産地】クルビア
+	【出荷日】5月12日
+	【高さ】149cm
+	【重量】非公開
+	【メンテナンス結果報告】
+	外殻に少々摩耗あり。システム、強度共に正常。モーター、シャシー共に良好。医療設備の駆動正常。医療消耗品の補充完了。ECUの状態良好。
+
+	Basic Info :
+	[Model] Lancet-2 
+	[Gender Assignment] Female 
+	[Time in Service] 2 years 
+	[Manufacturer] Raythean 
+	[Place of Production] Columbia 
+	[Date of Release] May 12 
+	[Height] 149cm 
+	[Weight] Classified 
+	[Inspection Report] 
+	Slight wear on outer casing, structure intact, normal durability. Generator and chassis in good condition. Medical system operational. Medical supplies replenished. ECU in good condition.
+
+	기본정보 :
+	[모델명] Lancet-2
+	[성별 설정] 여
+	[출하 기간] 2년
+	[제조 업체] 레이시언 공업
+	[생산지] 컬럼비아
+	[출하 일자] 5월 12일
+	[높이] 149cm
+	[중량] 기밀
+	[점검 검사 보고]
+	    외부에 마모된 흔적이 소량 있으나 부품 구성은 완벽한 편. 강도 정상. 엔진 및 보드 상태 양호. 의료 설비가 정상적으로 작동하며, 의료 소모품 또한 교체가 완료되어있음. ECU 상태 또한 양호.
+
+———————————————————————————————
+
+	综合性能检测结果 :
+	【最高速度】15km/h 
+	【爬坡能力】普通 
+	【制动效能】普通 
+	【通过性】普通 
+	【续航】优良 
+	【结构稳定性】标准
+
+	総合性能 :
+	【最高速度】15km/h 
+	【登坂能力】普通
+	【制動効率】普通
+	【走行性】普通
+	【航続力】優秀
+	【構造安定性】標準
+
+	Performance Review :
+	[Top Speed] 15km/h 
+	[Climb] Normal 
+	[Brake] Normal 
+	[Mobility] Normal 
+	[Endurance] Excellent 
+	[Structural Integrity] Standard
+
+	종합 성능 테스트 결과 :
+	[최고시속] 15km/h
+	[등반 능력] 보통
+	[제동 효율] 보통
+	[퍼포먼스] 보통
+	[지속 시간] 우수
+	[구조 안정성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	Lancet-2是可露希尔客制化后的雷神存在者™S Typer 62六轮作业平台， 圆形的外观让人觉得很可爱所以成为了某种意义上的吉祥物。虽然她说话有时候很消极，但是大家都很喜欢她。
+	Lancet-2在经过可露希尔的改造后，得以满足更多罗德岛内的医疗需求，其器械设备也更注重于消毒和应对源石污染。
+
+	個人履歴 :
+	ランセット-2はクロージャによりカスタマイズされたレイジアンイグジスターシリーズS Typer 62六輪作業プラットフォーム。円形の外見はとてもかわいらしく、ある意味マスコットキャラクターとなっている。ネガティブな発言をするときもあるが、皆、彼女のことが大好きだ。
+	ランセット-2はクロージャによって改造された後、より多くのロドス内での医療場面に対応できるようになり、さらに機械設備も消毒と源石汚染への対応を重視したものになった。
+
+	Profile :
+	Lancet-2 is a custom Raythean-S62 Model six-wheeled operations platform. Its rounded design has led Lancet-2 to be perceived as cute, making her something of a mascot. Although she has a rather pessimistic dispensation, she is still well-liked. 
+	After being modified by Closure, Lancet-2 is able to perform more medical duties around the island, and her equipment is geared towards disinfecting and cleaning Originium contamination.
+
+	프로필 :
+	    Lancet-2는 클로저가 커스터마이징 한 레이시언 익시스터 S Typer 62 6륜 작업 플랫폼이다. 동글동글하고 귀여운 외형 때문에 어떤 의미로는 로도스 아일랜드의 마스코트라고도 할 수 있겠다. 말을 할 때 매우 소극적이긴 하지만, 모두가 Lancet-2를 좋아한다.
+	    클로저의 개조를 거친 Lancet-2는 소독과 오리지늄 오염 대응에 중점을 두어 많은 로도스 아일랜드 내 의료 수요를 충족시키고 있다.
+
+———————————————————————————————
+
+	档案资料一 :
+	对可露希尔改造自己比较在意，被设置成了最喜欢的东西是可露希尔，所以搞不懂为什么自己要喜欢可露希尔。可露希尔觉得她的性格偏向消极很有趣，便强化了她这些自嘲性格词条的使用频率。
+
+	第一資料 :
+	クロージャに改造されることをやや気にしている。一番好きなものを「クロージャ」と設定されたが、なぜ自分がクロージャを好きでいなければいけないのかがわからない。クロージャは彼女の少々ネガティブな性格を面白がっており、卑屈な言葉の使用頻度を強化した。
+
+	Archive File 1 :
+	She is rather displeased with Closure's modifications. Her settings were changed to increase her personal opinion of Closure, and does not understand why that had to be the case. Closure thought her pessimism was funny, and thus increased the frequency and intensity of her self-deprecation.
+
+	파일 자료 1 :
+	    클로저가 자신을 개조한 사실에 대해 약간 신경쓰고 있는데, 자신이 가장 좋아하는 것이 클로저로 세팅된 것에 대하여 의문을 품고 있다. 클로저는 이런 Lancet-2의 소극적인 성격이 재미있다고 생각하여, Lancet-2의 자조적 단어 사용 빈도를 높여놓았다.

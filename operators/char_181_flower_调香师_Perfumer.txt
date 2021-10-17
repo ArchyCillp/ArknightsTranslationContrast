@@ -1,11 +1,17 @@
 ID:
 	char_181_flower
 
-干员代号\Name:
+CV:
 	调香师
 	パフューマー
 	Perfumer
 	퍼퓨머
+
+干员代号\Name:
+	高桥李依
+	高橋李依
+	Rie Takahashi
+	타카하시 리에
 
 招聘合同\Character Usage:
 	“疗养庭院”管理人调香师，播撒熏香为大家带来芬芳与治愈。
@@ -48,177 +54,349 @@ ID:
 	블렌딩
 
 语音\Voices:
-	要好好听我的话哦，博士。
 	私の言うこと、ちゃんと聞いてね、ドクターくん。
 	You'd better listen to me, Doctor!
 	내가 하는 말, 잘 들어줘, 박사 군.
 
-	这个香气，怎么样？是不是有种，被治愈了的感觉？多亏玫兰莎给我的样品，我才获得了这种灵感。
 	この香り、どうかしら？癒やされる？メランサからもらったサンプルがきっかけで閃いたの。
 	This fragrance... how was it? Do you feel all healed? I got the inspiration from Melantha's samples.
 	이 향, 어때? 편안해진다고? 멜란사한테 받은 샘플이 영감을 줬지.
 
-	谢谢您帮我建设花卉温室，我想，这里会是大家都能放松休息的好地方。
 	温室、作ってくれてありがとう。これで、みんな安心してくつろげると思うわ。
 	Thanks for building a greenhouse for my flowers. I think it'll be a good place for everyone to rest.
 	온실, 만들어줘서 고마워. 이걸로 모두 안심하고 편히 쉴 수 있을 거야.
 
-	啊，您醒了吗？是不是一点疲惫都感觉不到了？看来我新调制的香薰起了作用。毕竟，这也算是我的自信之作呢。
 	あら、起きた？ふふ、寝ている間に疲れが取れているでしょう？この香りが効いてくれたみたいね。これ、私の自信作なの。
 	Oh, are you awake? You feel all refreshed, right? My aromatherapy is definitely working. I'm really confident in it!
 	어머, 일어났어? 후후, 자는 동안 피로가 좀 풀렸지? 이 향이 잘 들었나 보네. 이거, 내 야심작이거든.
 
-	水仙、燕子花、长寿花、波罗尼——这些用来培育花朵的种子，我总是会随身携带的哦。
 	ナルシサス、アイリス、カランコエ、ボロニア――香料が採れる花の種は、いつも持ち歩いてるわ。
 	Narcissus, rabbitear iris, kalanchoe, boronia... I always carry seeds of all sorts of flowers on me.
 	수선화, 아이리스, 칼랑코에, 보로니아…… 향료를 만들 수 있는 꽃은 늘 가지고 다니지.
 
-	哎？您问这孩子吗？虽然它还很小，不过，她可总能在调制过程中帮上大忙呢。
 	え、この子狐がどうかした？小さい子だけど、調香する時は結構役に立ってくれるのよ。
 	Oh, you mean this little one? It's still a baby, but quite helpful for concocting all sorts of things.
 	응? 이 아기 여우가 왜? 작은 아이지만, 조향할 땐 꽤 도움이 된다고.
 
-	蚂蚁们的社会关系，是依靠气味来维持的吧？我觉得调香师和顾客的关系也是如此。
 	アリの社会って、フェロモンの香りで関係を維持するでしょ？パフューマーとお客様の関係も、似たようなものよ。
 	The society of ants is maintained based on smells. The relationship between perfumers and their clients is the same.
 	개미의 사회는 페로몬 향으로 관계를 유지하잖아? 퍼퓨머와 손님과의 관계도 비슷한 거야.
 
-	最近您经常来温室做客呢......哎呀，您的袖口，沾着些花粉哟？好，已经帮您擦掉了~
 	最近よく温室に来てくれるわね……あら、袖に花粉がついてるわよ？はい、取れた。
 	You seem to visit the greenhouse a lot these days. Oh, there's some pollen here on your sleeve. Let me wipe it off for you...
 	요즘 온실에 자주 오네… 어머, 소매에 꽃가루 묻었네. 자, 털어줬어.
 
-	您好像睡了很久呢，这次，又做了什么样的梦呢？
 	ずいぶん眠ってたみたいだけど、今度はどんな夢を見たの？
 	You seem to have been sleeping for quite a while. What did you dream about, I wonder?
 	꽤 오래 잔 거 같은데, 이번엔 무슨 꿈 꿨어?
 
-	嗯，博士？哎，薰衣草的效果，超乎我的意料呢......
 	あれ……ドクターくん？ラベンダーの香りが効きすぎたのかな……。
 	Oh, Doctor? Hm, the lavender was much more effective than I imagined!
 	어라…… 박사 군? 라벤더 향이 너무 잘 들었나… 
 
-	初次见面，博士。我是调香师莱娜。您听说过调香师这种职业吗？
 	はじめまして、ドクターくん。私はパフューマーのラナ。あら、パフューマーって聞いたことない？
 	Nice to meet you, Doctor. I'm Lena, a perfumer. Interesting job, right? Did you know it existed?
 	만나서 반가워, 박사 군. 난 퍼퓨머 레나라고 해. 어머, 퍼퓨머라고 들어본 적 없어?
 
-	就拜托您检验我的成果了。
 	成果の確認、よろしくね～。
 	Please check and tell me how I did.
 	성과 확인, 부탁해~
 
-	有关晋升的消息......您是特意来向我传达这个的吗？真是不好意思，博士......啊，抱歉，请稍等。没事，只是您的领角皱了，我稍微整理了一下~
 	昇進のこと、わざわざ伝えに来てくれたの？悪いわね、ドクターくん。それはそうと――エリが曲がってるわよ、ちょっと失礼。
 	The promotion... are you here to tell me about it? Aw, sorry, Doctor... give me a sec... your collar... it's wrinkled, so I smoothed it out. That's all.
 	승진했다고 일부러 알려주러 온 거야? 미안해 박사 군. 그건 그렇고… 옷깃이 비뚤어졌어, 잠깐 실례~
 
-	其实我不太适合那些蛮不讲理的战斗方式。不过，如果是为了博士，我也是会去努力适应的。
 	本当はああいう野蛮な戦い方は苦手なんだけどね。でもまあ、ドクターくんのために頑張るわ。
 	Fighting when you could have just talked it out... I don't like that kind of unnecessary violence. But I'll still do my best to get used to it for you, Doctor.
 	사실 그런 야만스러운 방식으로 싸우는 건 잘 못하지만 말이야. 그래도 뭐, 박사 군을 위해 열심히 할게.
 
-	非常乐意。
 	喜んで。
 	Gladly.
 	기꺼이.
 
-	调香与治疗，无论哪一项工作，我都会让博士您满意的。
 	調香と治療、どちらでもドクターくんの要求を満足させてあげるわ。
 	No matter as a perfumer or healer, I promise to fulfill all your expectations.
 	조향과 치료, 어느 쪽이든 박사 군의 요구를 만족시켜줄게.
 
-	大家，千万要注意安全。
 	みんな、くれぐれも安全にね。
 	Do be careful, everyone.
 	다들, 아무쪼록 안전에 유의해줘.
 
-	这会是一场怎样的战斗呢。
 	どんな戦いになるかしらね……。
 	What kind of battle would it end up being, I wonder...
 	어떤 싸움이 될까나… 
 
-	嗯。
 	ええ。
 	Mhmm.
 	응.
 
-	我没问题的。
 	問題ないわ。
 	I'm fine.
 	문제없어.
 
-	这就是战场啊。
 	これが戦場というものね。
 	This is war.
 	이게 전장이란 거구나.
 
-	我不会害怕的。
 	怖くはないわ。
 	I won't be afraid.
 	무섭지는 않아.
 
-	恢复神智吧。
 	気を確かに。
 	Start gathering your wits.
 	기운차리렴.
 
-	打起精神来。
 	ほら、しっかり！
 	Chin up!
 	자, 정신차리렴.
 
-	喜欢这种香味吗？
 	こういう香りは好き？
 	How do you like this smell?
 	이런 향은 좋아해?
 
-	冷静一些哪。
 	落ち着いて。
 	Stay calm.
 	침착해.
 
-	我一直都相信啊，只要是博士来担任指挥的话，我们就一定会获胜的。
 	ドクターくんが指揮を執れば、きっと勝てると信じていたわ。
 	I've always believed that victory will be ours as long as you're the one giving orders.
 	박사 군이 지휘를 해주면, 반드시 이길 거라 믿고 있었어.
 
-	真是太好了，博士。
 	良かったわね、ドクターくん。
 	Well done, Doctor.
 	잘 됐네, 박사 군.
 
-	大家辛苦了，请好好休息下吧。
 	みんなお疲れ様、ゆっくり休んで。
 	Good job, everyone. Get some rest.
 	다들 수고했어, 푹 쉬어.
 
-	虽然没能赢下战斗确实有些遗憾，但我是不会气馁的。
 	今回は残念だったけど……これくらいでは諦めないわ。
 	Too bad we didn't win, but I will not be discouraged because of it.
 	이번엔 아쉽게 됐지만… 이 정도로 포기하진 않아.
 
-	还是博士的身边，最适合我呢。
 	やっぱり、ドクターくんのそばが一番居心地がいいわ。
 	I belong at your side, after all.
 	역시, 박사 군 곁이 제일 마음 놓인다니까.
 
-	哎呀。
 	あら。
 	Ah.
 	어머.
 
-	博士身上......有着美妙的香气呢。
 	ドクターくんって、いい香りがするわね。
 	You... smell good, Doctor.
 	박사 군 한테선, 좋은 향기가 나네.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，您好。
 	あら、ドクターくん？どうも。
 	Hello, Doctor.
 	어머, 박사 군? 안녕.
+
+干员档案\Background:
+	基础档案 :
+	【代号】调香师
+	【性别】女
+	【战斗经验】一年
+	【出身地】米诺斯
+	【生日】1月30日
+	【种族】沃尔珀
+	【身高】158cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】パフューマー
+	【性別】女
+	【戦闘経験】一年
+	【出身地】ミノス
+	【誕生日】1月30日
+	【種族】ヴァルポ
+	【身長】158cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Perfumer 
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Minos 
+	[Date of Birth] Jan. 30 
+	[Race] Vulpo 
+	[Height] 158cm 
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 퍼퓨머
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 미노스
+	[생일] 1월 30일
+	[종족] 불포
+	[신장] 158cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	调香师莱娜，米诺斯大家族出身，家境殷实，不谙世事。虽然种族特性以听觉灵敏著称，但调香师的嗅觉更在其上，因此在香料调制上有着极高天赋。她通过正常应聘程序来到罗德岛，作为休养设施“疗养庭院”的管理人为其他干员提供支援。
+
+	個人履歴 :
+	パフューマーのラナ、ミノスの大きな一族出身。裕福な家庭環境で育った箱入り娘。優れた聴覚が種族の特性となっているが、彼女の場合は嗅覚の方がそれ以上に鋭く、香料の制作において相当な才能を持っている。通常の就職ルートでロドスに来て、「療養庭園」という休養施設の管理人として、ほかのオペレーターに支援を行っている。
+
+	Profile :
+	Lena the Perfumer is from a renowned, well-off Minosian family, unfamiliar with the ways of the world. Her race prides themselves on their keen sense of smell, but hers is outstanding even among the Vulpo, give Lena a special edge in the world of perfume making. She joined Rhodes Island through regular application channels, overseeing the 'Convalescence Garden' and providing assistance to operators as needed.
+
+	프로필 :
+	    퍼퓨머 레나는 미노스의 대가족 출신인데, 집안이 유복하여 세상 물정에 어두웠다. 종족 특성상 일반적으로는 청각이 민감하나, 퍼퓨머는 청각보단 후각이 더욱 민감하여 향료를 다루는데 천부적인 재능을 보였다. 정식 채용을 통하여 로도스 아일랜드에 들어왔고, 휴양시설인 '요양 정원'을 관리하며 오퍼레이터들을 지원해주고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】3%
+	仅有轻微感染，体表尚未生成源石。
+	
+	【血液源石结晶密度】0.2u/L
+	未对身体造成明显影响，具体染病情况需要进一步观察。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】3%
+	軽度の感染。体に源石結晶はまだ生成されていない。
+	
+	【血液中源石密度】0.2u/L
+	身体への明らかな影響は見られない。具体的な状況は更に観察する必要あり。
+
+	Clinical Analysis :
+	Imaging tests on this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentrations of Originium particles were present in her circulatory system, indicating infection and confirming her as Infected at this stage. 
+	
+	[Cell-Originium Assimilation] 3% 
+	Minor infection, no signs of crystal formation. 
+	
+	[Blood Originium-Crystal Density] 0.2u/L 
+	No immediate physical threat, more observation required.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 3%
+	아주 가벼운 감염 증상 확인, 체표면에 오리지늄 결정 없음. 
+	
+	[혈중 오리지늄 결정 밀도] 0.2u/L
+	신체에 명확한 영향을 주지 않음, 구체적 상황은 좀 더 관찰이 필요함.
+
+———————————————————————————————
+
+	档案资料一 :
+	对气味的敏感成就了莱娜现在的能力。她能在气味繁杂的市场中分辨她想要的东西是否混杂其中，也可以在整个罗德岛中通过嗅觉找到特定的人物。她本能比现在做的更多，但是，天性中对于美好的追求，让她最终接受了以医学作为主导的崭新调香形式。对于莱娜本人来说，这是一项挑战，而生性谨慎的莱娜用事实证明了，将香薰与现代医疗相结合的行为（尤其反应在心理调控方面），的确可以带来崭新的可能性。
+
+	第一資料 :
+	匂いへの敏感がラナの能力の礎となった。彼女は様々な匂いが入り交じる市場から自分のほしいものがあるかを判断したり、嗅覚を通してロドスで特定の人物を探し出したりなどできる。今以上のこともできたはずが、美を追求する天性によって、彼女は医学主導の新しい調香方法を受け入れた。ラナにとっては挑戦だが、慎み深い彼女は事実で証明した。香りと現代医療を結合させること（特に心理コントロールの面）で、確かに新しい可能性をもたらしている。
+
+	Archive File 1 :
+	Lena's uncanny sense of smell made her who she is today. She can sniff out a particular good at the marketplace, or track down any individual at Rhodes Island with her nose alone. She could probably earn a decent living off those abilities, but her perfectionist bent ultimately led her to the craft of medicinal perfumes. It's a challenge for Lena, but one she accepted and dominated through her diligence and commitment to the idea that combining perfume with modern medicine would open up new possibilities (especially in the field of psychology).
+
+	파일 자료 1 :
+	    냄새에 대한 민감함은 레나가 현재의 능력을 갖게 해준 주요 원인이다. 그녀는 혼잡한 시장 속에서도 원하는 향을 구별해낼 수 있으며, 이것은 로도스 아일랜드 내에서 찾고자 하는 인물을 탐색하는데도 응용될 수 있다. 그녀의 본능을 이용해 더 많은 일을 할 수도 있었지만, 아름다운 것에 대한 추구는 그녀가 결국 의학을 이용해 참신한 향을 만드는 일에 전념하게 만들었다. 이건 레나 본인에게 있어서 하나의 도전이었으며, 본래 천성이 신중한 그녀였기에, 디퓨저를 현대 의학에 접목시켜(특히 심리 조절 방면에 반영) 새로운 가능성을 선보였다.
+
+———————————————————————————————
+
+	档案资料二 :
+	莱娜成长于一个兴旺发达的家族，不必为生计发愁，这样的家庭环境使得她可以尽情投入自己的兴趣而不必承担太多的风险。莱娜热爱自然，喜欢植物、花香和阳光，选择调香师作为职业正是对这份热爱的回应。 
+	作为调香师的莱娜以专注而努力的态度对待自己的工作，并且她已经决定在不借助家庭帮助的情况下，将这份工作发展为自己的一项事业。在最初的阶段，较少亲自体验劳动与工作的莱娜吃了许多苦头，调香的学习和实践均遭遇了一段时间的低谷。但出身大家的莱娜凭借长久养成的骄傲和自信，将本应沉浸于沮丧于沮丧中的情绪化为了自身前进的行动力，以惊人的毅力熬过了最艰难的时期。 
+	当莱娜用沾满泥土的双手，捧起由自己亲手栽培的花束时，她嗅到了一阵从未体验过的芳香。
+
+	第二資料 :
+	ラナは栄えた家庭で育ち、生計に困ることはない。そんな環境のおかげで彼女は自分の興味に没頭することができ、リスクを背負う必要もない。彼女は自然を愛し、植物や花の香り、太陽の光が好きだ。パフューマー（調香師）という職業を選んだのもこの愛情の表れだ。
+	パフューマー（調香師）としてのラナは、仕事に一途で努力家である。家の力を借りずに、この仕事を自分の事業に発展させようと決めた彼女だが、最初の段階で、労働と仕事の経験が少ないためにかなり苦労していた。調香の勉強も実践も不調な時期があったが、上級家庭で育ったプライドと自信をもって、失意な気持ちを前へ進むモチベーションに切り替え、驚異的な根性と意志力でこの困難な時期を乗り越えた。
+	そんなラナが泥まみれの手で、自ら育てた花束を持ち上げた瞬間、今まで体験したことのない香りがした。
+
+	Archive File 2 :
+	Lena was raised in a prosperous family without having to work for a living, allowing her to pursue her passions with little to no risk. She loved nature, plants, and especially the smell of flowers and sunshine. Choosing becoming a perfumer was her way of expressing that passion. 
+	Lena worked hard and dedicated herself to her perfumes, eventually deciding to develop her own business without help from her family. In the early stages, she struggled due to her inexperience. Nothing was going right. But with pride and confidence befitting the member of a prestigious clan, she turned setbacks into motivation and pushed past the lows. 
+	Whenever she lifted up one of her plants with mud-covered hands, she would feel invigorated by the scent of a brand new aroma.
+
+	파일 자료 2 :
+	    레나는 유복한 가정에서 자랐다. 유복한 가정환경은 그녀가 생계 걱정 없이 하고 싶은 일을 할 수 있게 해주면서 많은 위험을 감수할 필요가 없게 만들어줬다. 레나는 자연을 무척 사랑하고, 식물과 꽃향기와 햇살을 좋아했다. 그녀가 퍼퓨머의 길을 택한 것은 바로 이런 이유였다.
+	    퍼퓨머로서 레나는 자기 일에 집중하였다. 그녀는 가족의 도움 없이 이 일을 자기 나름대로의 사업으로 발전시키기로 결심했다. 초기에는 처음 직접 경험하는 노동과 업무들로 힘들어했고, 이 때문에 조향에 대한 공부와 실천은 한동안 제자리걸음이었다. 하지만 자신이 명문가 출신이라는 점은 그녀에게 긴 세월동안 자부심과 자신감을 길러주었고, 자신을 낙담시키는 감정을 전진을 위한 동력으로 승화시켜, 놀라운 끈기로 그 힘든 시기를 견뎌냈다.
+	    레나가 흙이 잔뜩 묻은 양손으로 자기가 직접 기른 꽃다발을 들어올렸을 때, 그녀는 이제껏 맡아보지 못했던 어떤 향기로운 꽃향기를 맡았다고 한다.
+
+———————————————————————————————
+
+	档案资料三 :
+	在进入罗德岛并任职于疗养庭园期间，莱娜经过凯尔希医生的许可，将罗德岛一处闲置空间改造为一间小型温室。莱娜将自己所培育的花种栽种在温室中，同时在花园内建立了调香工作室。 
+	经莱娜之手混合的不同植物原料制成的香料，拥有使人陷入丰富的情绪和想象的效果。她将这种技术用于辅助治疗，尤其对于部分受矿石病影响，进而诱发精神障碍的患者，这种疗法具备稳定精神波动的良好效果。
+
+	第三資料 :
+	ロドスに入り、療養庭園に勤めているラナは、ケルシー医師の許可を得て、とある使用されていないスペースを小型温室に改造した。彼女は自分で育てた花の種を温室に植え、そこで自分の調香工房を立ち上げた。
+	ラナの手により、異なる植物の原材料で調合された香りは、人に様々な感情や想像に浸させる効能がある。彼女はこの技術を治療のサポートに運用した。特に鉱石病の影響を受け、精神障害を誘発された一部の患者では、この療法は精神状態を安定させるに有効である。
+
+	Archive File 3 :
+	While working at the Convalescence Garden at Rhodes Island, she, with Dr. Kal'tsit's permission, converted an unused space into a little greenhouse. She moved her plants there and set up a perfume workshop. 
+	The aromatic blends she made with different plants could elicit intense feelings and even hallucinations. She used it as an auxiliary therapy that proved helpful to the mentally ill patients partially affected by Oripathy.
+
+	파일 자료 3 :
+	    로도스 아일랜드에 들어와 요양 정원에서 근무하는 동안, 레나는 닥터 켈시의 허가를 받아 로도스 안에 남아돌던 공간을 작은 온실로 개조하였다. 레나는 직접 키운 씨를 온실에 심고, 정원 안에 조향을 위한 작업실을 만들었다. 
+	    그녀의 손을 거쳐 완성된 여러 식물이 들어간 향료는 사용하는 사람으로 하여금 다양한 기분과 상상에 빠지게 하는 효과를 가지고 있다. 그녀는 이 기술을 치료를 보조하기 위해 사용하고 있으며, 이 방법은 특히 광석병으로 인해 정신장애를 겪고 있는 일부 환자들의 정신을 평온하게 하는데 효과가 있었다.
+
+———————————————————————————————
+
+	档案资料四 :
+	就职于疗养庭园期间，莱娜展现出的温柔，耐心和十足的修养，以及足以令人沉醉其中的调制香薰，使她在干员之间颇受欢迎。对此，莱娜也在积极地回应着大家对自己的喜爱。 
+	在医疗组的协助下，莱娜开始接收部分需要调养的患者。其中显著的案例来自于干员夜魔：这名因患有矿石病引发的双重人格障碍的柔弱菲林族人，在莱娜的悉心照料下，已经将其病症发作的周期控制在了较为稳定的状态下，两人也因此结下了友谊。 
+	在来来往往，光顾温室的人员中，博士的出现引起了莱娜的注意。照料这位对干员们来说举足轻重的人物，成了莱娜将要面对的崭新的使命。
+
+	第四資料 :
+	療養庭園に勤めているラナが見せた心優しさ、根性強さと教養の良さ、そして人を夢中させられるほどの特製の香りは、彼女を人気者にした。それに対し彼女も、皆の好意に積極的に応えている。
+	医療チームの協力を得て、ラナは療養が必要な患者を引き受け始めた。典型的な例はオペレーターのナイトメアだ。鉱石病により解離性同一性障害を誘発された気弱なフェリーン族少女が、ラナの細心な看護により、発病周期を安定した状態に抑えることができ、二人も友人関係を結んだ。
+	温室に行き来する人の中で、ドクターの存在がラナの目を引きつけた。このオペレーターたちにとっての重要人物の面倒を見ることが、彼女の新しい使命になっている。
+
+	Archive File 4 :
+	While running the Convalescence Garden, Lena's gentleness, patience and understanding, as well as the intoxicating aromas of her perfumes, made her a favorite among the operators. 
+	With assistance from the medical staff, Lena started accepting some patients needing therapy. The most notable case has been Operator Nightmare, a weak Feline suffering from a split personality caused by Oripathy. Under Lena's care, Nightmare's condition has come under control and the two are now great friends. 
+	Among the crowd frequenting the greenhouse, the Doctor caught Lena's notice. Lena has made it a personal mission to care for the Doctor.
+
+	파일 자료 4 :
+	    요양 정원에서 일하는 동안 레나는 온화함과 인내심은 물론, 그리고 이를 뛰어넘은 수양을 보여주었다. 게다가 그녀가 만든 향수는 황홀할 정도로 효과가 좋았기 때문에 많은 오퍼레이터들로 부터 사랑받게 되었는데, 레나 또한 이런 동료들의 사랑에 화답하고자 더욱 적극적으로 노력하고 있다.
+	    의료부의 협조 하에 레나는 몸조리가 필요한 환자들을 받기 시작했는데, 이 환자들의 치료 사례 중 눈에 띄는 부분은 나이트메어라는 오퍼레이터의 치료 사례다. 광석병으로 인해 이중인격장애를 앓고 있는 이 유약한 필라인 족 오퍼레이터는, 레나의 세심한 보살핌 아래 병으로 인한 발작 주기를 안정화 시킬 수 있었고, 이를 계기로 이 두 사람은 둘도 없는 친구 사이가 되었다. 
+	    온실을 오고가는 사람들 중 레나의 주의를 끌은 것은 박사의 출현이었다. 오퍼레이터들에게 있어 매우 중요한 이 인물을 돌보는 것은, 레나가 이뤄내야 할 새로운 사명이 되었다.

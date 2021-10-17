@@ -1,11 +1,17 @@
 ID:
 	char_174_slbell
 
-干员代号\Name:
+CV:
 	初雪
 	プラマニクス
 	Pramanix
 	프라마닉스
+
+干员代号\Name:
+	早见沙织
+	早見沙織
+	Saori Hayami
+	하야미 사오리
 
 招聘合同\Character Usage:
 	喀兰圣女初雪，愿意作为辅助干员，为你献上神圣的祝福。
@@ -43,177 +49,343 @@ ID:
 	자연의 위엄
 
 语音\Voices:
-	呣？想要祈祷吗？抱歉，暂时没空哦。
 	むぅ…？祈りを捧げたいのですか？申し訳ございません。あいにく、少し立て込んでおりまして。
 	Hm? You're here to pray? Sorry, I'm busy right now.
 	음…? 기도를 올리고 싶으신가요? 죄송합니다, 공교롭게도 잠깐 일이 몰려서요.
 
-	呣？我是现任圣女没错哦。但无论是谁——都有被繁重事务压得喘不过气，想要轻松一下的时候吧。
 	むぅ…？当代の巫女は身共でございます。ただ巫女の責は重く――時折、本当に時折、胸が詰まるほどの重責から、息を抜きたくなる時もございます。
 	Hm? Yes, I'm the current Karlan Saintess. But I can be swamped by work, too. Who doesn't deserve to relax from time to time, right?
 	음…? 당대의 성녀는 저입니다. 다만 성녀의 책임이 무겁다 보니… 가끔, 정말로 가끔은, 가슴을 먹먹할 정도로 무거운 이 책임으로부터 벗어나 숨을 돌리고 싶어질 때도 있지요.
 
-	在闲杂事务上浪费时间才叫懈怠，我只是......比较擅长寻找机会养精蓄锐而已。
 	どうでもよいことに時間を掛けることを怠惰といいます。合間合間で怠けているように見えるかもしれませんが、私はただ……タイミングを見計らって英気を養っているだけです。
 	Wasting time on trivial affairs is what I call slacking off. What I'm doing right now is not slacking off! It's called taking the opportunity to recharge.
 	어찌 되든 상관없는 것에 시간을 뺏기는 것을 나태라고 합니다. 이따금 게으름을 부리는 것처럼 보일지도 모르지만, 저는 단지… 타이밍을 가늠하여 기력을 비축하고 있을 뿐입니다.
 
-	出来玩耍就要尽兴，别把那些条条框框套在我身上呀。
 	せっかく遊ぶというのなら、それなりの矜持を持って、遊びであっても真剣に挑むべきですね。そんなときに、巫女としての定め事だのなんだの申されましても困ります。
 	Work hard, play hard, right? Don't force all those rigid rules on me.
 	모처럼 논다고 한다면 그 나름대로의 긍지를 갖고, 노는 것도 진지하게 임해야겠죠. 그럴 때 성녀의 규칙이네 뭐네 말씀하시면 곤란하답니다.
 
-	喀兰的神祇吗？因为圣女职务的关系，我和她关系不浅呢。
 	カランドの神、ですか？……巫女としての職務上、浅からぬ仲、とでも申し上げておきましょう。
 	The Karlan Goddess? We're pretty good friends since we have to meet up for work a lot.
 	카란의 신, 말씀이신가요? 성녀라는 직무상… 깊은 사이라고만 말씀드리죠.
 
-	我也很愿意帮助你，但圣女的工作实在是太繁忙了。这次就破例一回，可不要占用我太多时间哦。
 	手をお貸しして差し上げたいのですが、身共の職務は他の方には務まりません。とはいえ、今回だけは特別です。何卒、迅速に済ませていただきますようお願いいたします。
 	I'd be happy to help you, but the life of a Karlan Saintess is a busy one. Well, fine, I'll make an exception for you this once, but do remember that I don't have a lot of time to spare.
 	도움을 드리고 싶지만, 저의 직무는 다른 분들께서 감당하실 수 없는 일입니다. 하지만, 이번만큼은 특별히 도와드리지요. 아무쪼록, 빨리 끝내주실 수 있도록 부탁드립니다.
 
-	妹——恩希亚那孩子，罗德岛的各位也都挺喜欢她的，是吧？所以，并不是那个人特殊对待她。现在的话，我也算稍微明白了些。嗯，这样就好了，我只要像现在这样看着她就好了。
 	妹――エンシアのことですが、あの子はロドスの皆様に愛でていただけているということで、よろしいでしょうか？あの人にも、あの人なりの考えがあったのでしょう……今なら、なんとなくわかる気がします。ええ、これでいいのです。私はこのまま、あの子を見守っていくだけです。
 	Meh, that Ensia... you people at Rhodes Island are all pretty fond of her, right? So it's not like she received any special treatment. And now... well, I think I get it now. It's fine like this. I'll just keep watching over her. It's fine.
 	여동생인 엔시아 말입니다만, 그 아이는 로도스 아일랜드의 모든 분께 사랑받고 있다고 봐도 괜찮을지요? 그 사람도 나름대로의 생각이 있었겠죠… 이제는 왠지 알 것 같아요. 네, 이걸로 됐습니다. 전 이대로, 그 아이를 지켜보기만 할게요.
 
-	小时候，我在外玩耍扭伤了脚，是哥哥背了我一晚上才找到了住家。那时我想着，一定要成为哥哥那样的人。但是现在......呵，没什么。
 	幼子の頃、外で足を痛めてしまったことがございます。お兄様が私を背負い、一晩中歩き回って人家を探してくれました。あの時は、お兄様のような立派な人間になりたいと思ったものです……しかし今は……いえ、何でもございません。
 	I twisted my ankle once when I was a kid. My brother carried me on his back all night, going from house to house until someone agreed to take us in. I decided that very moment that I wanted to grow up to become someone like my brother! But now... heh, forget it.
 	어렸을 때, 밖에서 발을 다친 적이 있었습니다. 오라버니께선 저를 등에 업고, 밤새 돌아다니며 사람이 사는 집을 찾았었지요. 그땐, 오라버니 같은 훌륭한 사람이 되고 싶다고 했었습니다… 하지만 지금은… 아뇨, 아무것도 아니에요.
 
-	咦，你怎么找到我的？啧，我要把你的脚趾冻上......唔？咖啡？给我的？谢谢。博士要不要也在这偷会儿懒？这里的风景很好。把这里当作我们两个人的秘密吧。唔，好苦。
 	……っ！どうやってここに来たのですか！？くっ、あなたの脚、二度と使えぬよう凍らせて――むぅ？コーヒー……？私にですか……？ありがとうございます……ドクターも、ここで少しのんびりしませんか？ええ、サボりってやつですね。ここからの眺めは格別です……二人だけの、秘密ですよ？……むぅ……苦い。
 	Oh? How did you find me? I'll freeze your toes—huh? Coffee? For me? Thanks. Oh, right, Doctor, wanna hang out here with me for a while? The view is pretty nice. But let's keep it a secret, okay? A secret between just the two of us—aw, this coffee is so bitter!
 	…… 어! 여긴 어떻게 온 거죠?! 큭 당신의 발, 두 번 다시 쓰지 못하게 얼려… 음? 커피요…? 저한테 말씀이신가요…? 감사합니다… 박사님께서도 여기서 잠시 느긋하게 있다 가시겠어요? 네, 농땡이란 거죠. 여기서 보는 풍경은 정말 장관이랍니다… 이건 둘만의 비밀이에요? 윽, 쓰다… 
 
-	难得的小憩呢。
 	つかの間の休息ですね。
 	It's rare to get to rest like this.
 	잠깐의 휴식이로군요.
 
-	嘘，我是偷偷跑出来——啊，嗯，人事主管你也在啊，是的，我是来协助罗德岛的。喀兰圣女，初雪，向你献上至洁的祝福。
 	シッ、静かに。……内密に抜け出してき――ああ、あなたがロドスの……。カランドの巫女、プラマニクスと申します。ロドスに協力し、あなたに祝福を授けましょう。
 	Shh, I sneaked out—oh, um, hi, HR Director! I... I'm here to lend my powers to Rhodes Island. Pramanix, Karlan Saintess, at your service. Bless you, my friend.
 	쉿, 조용히… 몰래 빠져 나왔… 아아, 당신이 로도스 아일랜드의… 카란의 성녀, 프라마닉스라고 합니다. 로도스 아일랜드에 협력하여, 당신에게 축복을 내려 드리지요.
 
-	在脑海中......有什么声音......在回响着......
 	頭の中で……声が……聞こえます……。
 	I hear a voice... repeating something in my head...
 	머릿속에서… 목소리가… 들려와요… 
 
-	“汝等终将胜利”——此乃喀兰之允诺，亦是我所祈求。
 	「汝らに勝利あらん」――カランドの然諾であり、我が祈り。
 	'You shall emerge victorious one day.' This is the pledge of Karlan, and what I'm praying for as well.
 	그대들에게 승리가 있으리라… 이는 카란의 허락이자, 나의 기도이니.
 
-	什么时候你也需要祝福啦......能稍等一会吗，我准备一下。
 	あなたにまで祝福が必要だというのですか……ならば、しばしお待ちください。巫女である身共にも、支度というものが要るのです。
 	Since when did you need blessings too? Can you wait a bit? I'll get ready.
 	당신에게까지 축복이 필요하다는 건가요… 그럼, 잠시만 기다려주세요. 성녀인 저에게도, 준비라는 게 필요하답니다.
 
-	愿喀兰圣山与我们同在。
 	カランドは我らと共に。
 	May the Holy Mt. Karlan be with us.
 	카란이 우리와 함께 하리니.
 
-	循着铃音，你定能找到正确的方向。
 	鈴の音に従いなさい。さすれば道は開かれるでしょう。
 	Follow the jingling bells and you'll find the way.
 	종소리를 따르십시오. 그러면 길이 열릴 것입니다.
 
-	让我为你向群山献上祈祷吧。
 	山々へ捧げましょう。あなたのための祈りを。
 	Let me pray towards the mountains for you.
 	산들에게 바치겠습니다. 당신을 위한 기도를.
 
-	不洁之物理应被净化。
 	不浄は清めなければ。
 	Impurities must be purged.
 	부정한 것은 씻어내야겠죠.
 
-	小心一点。
 	気をつけなさい。
 	Be careful.
 	조심하세요.
 
-	整理好了。
 	整いました。
 	I am ready.
 	준비됐어요.
 
-	战斗吧。
 	始めましょう。
 	Let us begin.
 	시작하죠.
 
-	祝福你。
 	祝福を。
 	You have my blessings.
 	축복을.
 
-	神灵啊，愿您倾听我的声音。
 	我らが神よ、お聞きください。
 	O Spirits, hear my prayer.
 	우리의 신이시여, 들어주십시오.
 
-	铃声已至，风雪缠足。
 	鈴の音来たりて、風雪を纏う。
 	Here comes the bells, the cold wind swirling by my feet.
 	종소리가 다가와, 눈과 바람을 몰고 오리니.
 
-	这力量乃是圣山的馈赠。
 	この力こそ、聖なるカランドからの賜り物。
 	These powers are a gift from the Holy Mountain.
 	이 힘이야말로, 성스러운 카란이 내려준 선물.
 
-	圣铃既响，坚甲不再。
 	聖なる鈴の音に、その鎧は朽ち果てる。
 	As the bells ring, the impenetrable armor shall be no more.
 	성스러운 종소리에, 그 갑옷은 썩어버릴지어니.
 
-	如有神助，正是此般。
 	神の力があれば、容易いものです。
 	It was simple, thanks to the Spirits' power.
 	신의 힘이 있다면, 쉬운 일이지요.
 
-	喀兰的光芒照耀在我们身上。
 	カランドの光よ。我らに祝福を。
 	The light of Karlan was shining on us.
 	카란의 빛이여. 우리에게 축복을.
 
-	若是不流血就能取得胜利......不，忘了我说的吧。
 	血を伴わない勝利こそが……いえ、何でもありません。
 	If only we could have won without bloodshed—ah, forget it.
 	피를 흘리지 않는 승리야말로… 아뇨, 아무것도 아니에요.
 
-	回去吧......现在的局势对我方不利。
 	引き返しましょう……今の状況は危険です。
 	We must retreat! We are in danger!
 	물러나죠… 지금 상황은 위험해요.
 
-	是一个让人心情平静的地方呢。
 	心が穏やかになる場所ですね。
 	It's a really calming place.
 	마음이 편안해지는 장소네요.
 
-	呣？
 	むぅ…？
 	Hm?
 	음…?
 
-	闭上眼，让我带你去个新的地方......一定要闭眼哦。
 	目を閉じてください、ご案内したいところが……閉じてって言ったでしょう。
 	Close your eyes and I'll bring you somewhere new... hey, keep your eyes closed!
 	눈을 감아주세요. 안내해 드리고 싶은 곳이… 제가 눈 감으라고 했죠?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	祝福你，博士。
 	ドクターに、祝福を。
 	You have my blessings, Doctor.
 	박사님께, 축복을.
+
+干员档案\Background:
+	基础档案 :
+	【代号】初雪
+	【性别】女
+	【战斗经验】半年
+	【出身地】谢拉格
+	【生日】2月13日
+	【种族】菲林
+	【身高】161cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】プラマニクス
+	【性別】女
+	【戦闘経験】半年
+	【出身地】イェラグ
+	【誕生日】2月13日
+	【種族】フェリーン
+	【身長】161cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Pramanix
+	[Gender] Female
+	[Combat Experience] Half a year
+	[Place of Birth] Kjerag
+	[Date of Birth] February 13
+	[Race] Feline
+	[Height] 161cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 프라마닉스
+	[성별] 여
+	[전투 경험] 반년
+	[출신지] 쉐라그
+	[생일] 2월 13일
+	[종족] 필라인
+	[신장] 161cm 
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】普通 
+	【生理耐受】标准 
+	【战术规划】优良 
+	【战斗技巧】标准 
+	【源石技艺适应性】卓越
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】卓越
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Normal
+	[Physical Resilience] Standard
+	[Tactical Acumen] Excellent
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Outstanding
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 월등
+
+———————————————————————————————
+
+	客观履历 :
+	初雪，谢拉格出身，喀兰圣女，全谢拉格的宗教领袖。运用神赐的圣铃，呼唤风雪的力量。现通过保密途径来到罗德岛，具体担任事务与驻留时间不便公开。
+
+	個人履歴 :
+	プラマニクスはイェラグ出身で、カランドの巫女でありイェラグ全土の宗教的リーダーである。神授の聖鈴を使い、風雪の力を呼び起こす。現在は秘密のルートを通ってロドスに来ており、具体的な任務や駐留期間は公開されていない。
+
+	Profile :
+	Pramanix is a Karlan Saintess born in Kjerag, the leader of the entire religion of her homeland. She uses the holy bell given to her by the gods to summon the power of wind and snow. She came to Rhodes Island by secret means, and the post she holds as well as how long she's held it are both confidential.
+
+	프로필 :
+	    쉐라그 출신의 프라마닉스는 모든 쉐라그 인의 종교적 지도자인 카란의 성녀이다. 신이 내려준 성스러운 종으로 눈바람의 힘을 소환한다. 현재 비밀 루트를 통해 로도스 아일랜드에 도착했으며, 구체적 담당 업무와 체류 기간은 공개하기 어렵다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员初雪没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.11u/L
+	干员初雪很少在源石多生地带活动。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.11u/L
+	源石の多発地帯での活動は少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.11u/L
+	This Operator has not been active in zones with large concentrations of Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 프라마닉스로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L
+	오퍼레이터 프라마닉스는 오리지늄이 대량으로 발생하는 지역에서 거의 활동하지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	喀兰圣女、神启者、应被称颂者......这样那样的称号，都只属于初雪一人。作为整个谢拉格地方宗教至高无上的权首，她拥有着一系列特权，即使是她的哥哥，谢拉格名义上的最高长官银灰，在公开场合见到她时也必须合掌行礼。她是那样的尊贵，她是那样的完美，她是那样的神圣，整个谢拉格，皆因她的存在而荣耀。可是，她心中的苦痛，又有谁知道呢？
+
+	第一資料 :
+	カランドの巫女、神の啓示を受けし者、褒め称えられし者……様々な称号があるが、全てプラマニクスただひとりのことを指している。イェラグにおける宗教の最高権威者として、彼女には様々な特権があり、兄でありイェラグの表向きの最高権力者であるシルバーアッシュでさえ、公的な場で彼女に会う時には必ず合掌の礼をしなければならない。彼女の尊さ、完璧さ、神聖さ、彼女の存在がイェラグ全土の栄誉である。しかし、彼女の胸中の苦痛は、誰が理解してくれるのだろうか？
+
+	Archive File 1 :
+	The Karlan Saintess, the Enlightened One, and the Praised One...all of these titles belong to Pramanix and Pramanix alone. As the supreme leader of the entire religion of Kjerag, she has a series of special privileges. Even her older brother, nominally Kjerag's most senior official, SilverAsh, must bow to her in public. She is honored, perfect, and divine. She brings glory to Kjerag. Yet nobody knows that in her heart, she is suffering.
+
+	파일 자료 1 :
+	    카란의 성녀, 신의 계시를 받은 자, 칭송받는 자…… 이런 칭호들은 모두 프라마닉스를 일컫는 말이다. 전체 쉐라그 종교계의 지고지상한 지도자로서 그녀는 여러 특권을 가지고 있는데, 그녀의 오빠이자 쉐라그 최고 권력자인 실버애쉬라도 공개적인 장소에선 그녀를 만날 시 반드시 합장을 하며 인사를 해야 한다. 그녀는 이렇게 존귀하고, 완벽하며, 신성한 존재로, 모든 쉐라그 인이 그녀의 존재 자체를 영광스럽게 여긴다. 그러나, 이런 그녀 마음속에 존재하는 고통은 과연 누가 알아줄까?
+
+———————————————————————————————
+
+	档案资料二 :
+	选拔圣女的仪式，无疑是神圣而残酷的。当前代圣女驾崩后，当年适龄的少女将要全数进入选圣祠，只有被当日祠中第一滴融化的雪水击中，才有成为圣女的资格。在那之后，受选者要拿着试炼铃从选圣祠出发，沿着天路前往山上的神居，直到把试炼铃挂在铃架上才算结束，途中，一定要遵守三步一颔首五步一摇铃的准则，违者将失去成为圣女的资格，新的受选者则从第二日的融雪中产生。由于天路漫漫，整个选拔其实极为严苛，一些人直接放弃，另一些则倒在了天路两旁，只有体质优良，精力充沛，信仰虔诚且受到神灵眷顾的人，才有机会成为圣女。
+
+	第二資料 :
+	巫女を選出する儀式は、まごうことなき神聖で残酷なものだ。前代の巫女が逝去すると、その年の適齢の少女は全員選聖祠へと入れられ、その日の最初の雪解けの雫が当たった者だけが巫女になる資格を与えられる。その後、選ばれた者が試練の鈴を手に選聖祠を出発し、天道に沿って山の上の神殿に行き、試練の鈴を鈴架に掛けると儀式は終了となる。途中、必ず三歩毎に一度頷き、五歩毎に一度鈴を鳴らすという決まりがあり、これを破った者は失格とし、新たな候補者が翌日の雪解けの水で生まれる。遠く長い天道での選抜は極めて厳しいため、最初から諦める者や道の脇に倒れる者もいる。健康で気力に満ち、敬虔な信仰で神霊の加護を受ける者こそが、巫女となり得るのだ。
+
+	Archive File 2 :
+	The ceremony for canonizing a new saint is sacred, but brutal. After the current saint passes away, girls of the appropriate age all head to the shrine where a saint is chosen. Only the girl hit by the first drop of water from the thawing ice obtains the right to be the saint. Afterward, the chosen one takes the trial bell and sets out from the shrine. They follow Heaven's Road up the mountain to the Residence of the Gods. Once they hang the trial bell upon its hook there, the trial is over. En route, it is customary for the girl to nod her head every three steps and ring the bell every five. Those who break this custom lose their chance to become saints. The new saint is born from the thawing snow on the second day. Because Heaven's Road is long and winding, the trial is very severe. Some give up immediately. Others collapse on the side of the road. Only those who have a solid constitution, strength, piety, and the protection of the gods will have the chance to become the saint.
+
+	파일 자료 2 :
+	    성녀를 선발하는 의식은 두말할 것도 없이 신성하면서도 잔혹했다. 성녀가 서거를 하면, 그 해에 적령기에 이른 소녀들은 모두 신성한 사당, '성사'에 들어가야 하며, 오직 그날 성사에서 처음 녹은 눈의 물방울을 맞은 자만이 성녀가 될 수 있는 자격을 얻을 수 있다. 이후 이 자격을 얻은 자는 시련의 종을 들고 성사를 떠나, '하늘길'을 따라 산 위에 있는 신전으로 향해, 시련의 종을 종 거치대 위에 걸어야만 했다. 이 과정 중에는 세 걸음에 한 번씩 절을 하고, 다섯 걸음에 한 번씩 종을 울려야 한다는 규칙을 준수해야 하며, 이를 어길 시엔 성녀의 자격을 박탈당하게 된다. 다음 후보는 두 번째 날에 처음 녹은 눈의 물방울을 맞게 된 자로 선정한다. 하늘길은 그 끝을 알 수 없으며, 선발 과정이 너무나 가혹한 나머지 일부 후보는 곧바로 포기해버리고, 다른 일부는 하늘길에서 실신하는 일도 비일비재했다. 오직 건강하고, 원기가 왕성하며, 신앙이 독실하면서도 신의 보살핌을 받는 자만이 성녀가 될 수 있는 기회를 얻을 수 있었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	除了蔓珠院的长老团外，初雪还要应付教团的日常俗事，前来会面的政治人物，各式各样的会议祭典与无穷无尽的经文解读。太多太多的事务，压得她喘不过气来。也正因如此，她会想法设法放松自己，到那时，她会卸下身上的重担，显露出自己真正的本性。
+
+	第三資料 :
+	蔓珠院の長老団の他にも、プラマニクスは教団の雑務、面会に来る政治家の対応、様々な会議と祭典への出席、経文の解読など非常に多忙である。そのため多くの責任が積み重なり、息苦しくなっていた。そのため、彼女は様々な方法で自分をリラックスさせようとしている。リラックスしている時間は、本当の姿をさらけ出せる時だ。
+
+	Archive File 3 :
+	Aside from the elders of the Vine-Bear Court, Pramanix also has to deal with the everyday affairs of the clergy: visiting statesmen, conducting all manner of religious ceremonies, and deciphering countless scriptures. There are so many tasks that she is sometimes overwhelmed with pressure, to the point of being unable to breathe. Because of this, she has to come up with clever methods to relax. It is then that she unloads her burden and reveals her true nature.
+
+	파일 자료 3 :
+	    '만주원'의 장로단 외에도, 프라마닉스는 자신을 찾아오는 정치인의 면담은 물론, 각종 회의 제전과 끝이 없는 경문 해독, 그리고 교단의 일상 업무 또한 처리해야 했다. 성녀의 막중한 업무량은 그녀를 숨조차 쉴 수 없을 지경으로 만들었다. 이 때문에, 프라마닉스는 온갖 수단을 강구해서 쉴 수 있는 여유를 갖고자 했다. 그때가 오면, 그녀는 '성녀'로서의 책무를 내려놓고, 잠시 '프라마닉스'로 돌아갈 수 있을 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	如果没有成为圣女，她或许会留在希瓦艾什家的老宅中，摆弄自己喜爱的织物，抿一口香茶，然后看上一下午的书。但是，她的哥哥作出了那样的决定，她妥协了，两人也从此决裂了，即使是血亲，也无法弥补她对银灰的失望。从那以后，除了公众场合的问候外，两人再也没有一句交谈。
+
+	第四資料 :
+	もし巫女になっていなかったら、彼女はシルバーアッシュ家のお屋敷にとどまり、趣味の編み物をし、紅茶を飲み、夕日が落ちるまで読書にふけるだろう。しかし、兄の決断を彼女は理解することができず、二人の間には亀裂が生じた。肉親であろうと、彼女のシルバーアッシュへの失望は大きかったのだ。その時から公的な挨拶の場面以外では、二人は一言も言葉を交わさなくなった。
+
+	Archive File 4 :
+	If she hadn't become saint, Pramanix might still be at the old Silverash residence, fiddling with her favorite silks, drinking tea, or reading books into the afternoon. However, her brother made a difficult decision, and they reached a compromise. The two have since broken off contact with one another. Even their blood relation cannot make up for the disappointment Pramanix feels toward SilverAsh. Apart from polite greetings in public, the two haven't had a conversation since.
+
+	파일 자료 4 :
+	    만약 성녀가 되지 않았다면, 그녀는 아마 실버애쉬 가문의 저택에 머물면서 자기가 좋아하는 직물을 짜거나, 향긋한 차를 한 모금 마시며 오전 내내 책을 읽었을 것이다. 하지만 그녀의 오빠가 그러한 결정을 내렸고, 그녀는 이를 받아들였다. 그렇게, 두 사람의 사이는 이때부터 틀어지기 시작했다. 비록 친오빠이지만 그녀는 실버애쉬에 대한 실망을 감출 수 없었던 것이다. 이때부터, 공적인 자리에서의 형식적인 안부 인사를 제외하고, 두 사람은 서로 어떠한 대화도 나누지 않게 되었다.
+
+———————————————————————————————
+
+	晋升记录 :
+	初雪的铃，乃是神赐的圣铃，根据传说，铃音能够召唤冰雪熄灭火焰，冷却整个世界。现实中虽然没有这样夸张，但作为武器仍旧比普通法杖要强上不少。需要注意的是，摇动圣铃时必须配上相应的祷词，如果摇铃不发声，持铃人会被冻成冰块，若是乱念一气，法术就会实打实作用在持铃人自己身上，可以说，除了初雪，别人根本无法使用。
+
+	昇進記録 :
+	プラマニクスの持っている鈴は、神より賜りし聖なる鈴だ。伝説によると、鈴の音は氷雪を呼び起こし火炎を鎮め、世界を冷却する力があるという。現実では伝説ほど凄まじいではないが、武器としては通常のアーツユニットより格段に強い力を放つ。注意すべきなのは、鈴を鳴らすと同時にそれに合わせた祝詞を唱えることだ。もし無言で鈴を鳴らせば、鈴を持っている人はたちまち凍り付いてしまう。もし適当なことを唱えたら、アーツは鈴を持っている人の身に降りかかってしまう。つまり、プラマニクスの他にこの鈴を扱える者はいないと言えるのだ。
+
+	Promotion Record :
+	Pramanix's bell was given to her by the gods. According to legend, its sound can summon ice and snow strong enough to extinguish flames and wrap the world in cold. In reality, it does not live up to such exaggerated stories, but it is still a much stronger weapon than most ordinary staves. It should be noted that when ringing the bell, it must be accompanied by a prayer. If the bell does not sound, then its wielder will be encased in ice. If a mistake is made in the prayer, the Arts will be cast upon the bell-wielder herself. Essentially, no one but Pramanix is capable of using the bell.
+
+	승진 기록 :
+	    프라마닉스의 종은 신이 내린 종이다. 전설에 따르면, 이 종소리로 눈보라를 일으켜 타오르는 화염을 잠재울 수 있고, 온 세상을 얼려버릴 수도 있다고 한다. 물론 실제로 이런 엄청난 효과는 없으나, 무기로서 사용 시엔 확실히 일반적인 마법 지팡이보다 훨씬 강하다. 주의해야 할 점은, 종을 울릴 때 그에 맞는 기도문도 반드시 함께 읊어야 한다는 점이다. 만약 종을 흔들면서도 기도문을 읊지 않는다면, 종을 지닌 자는 얼음덩어리가 되어버리고 말 것이다. 또한 만약 이때 아무 말이나 하게 된다면, 마법은 정확히 종을 지닌 자에게 시전 된다고 한다. 즉, 이 종을 사용할 수 있는 사람은 프라마닉스 본인 밖에 없다는 말이다.

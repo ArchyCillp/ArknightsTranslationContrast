@@ -1,11 +1,17 @@
 ID:
 	char_122_beagle
 
-干员代号\Name:
+CV:
 	米格鲁
 	ビーグル
 	Beagle
 	비글
+
+干员代号\Name:
+	春村奈奈
+	春村奈々
+	Nana Harumura
+	하루무라 나나
 
 招聘合同\Character Usage:
 	罗德岛重装干员米格鲁，将为队友提供坚实的防御力量。
@@ -38,157 +44,315 @@ ID:
 	방어 강화α
 
 语音\Voices:
-	博士，今天我来担当您的护卫！放心，不会让可疑的人接近您的！
 	ドクター、今日はわたしが護衛を担当します！怪しいやつなんか、わたしが絶っ対に近寄らせませんから、安心してくださいね！
 	Doctor, I'm your guard for the day! Don't worry, I won't let any sketchy people get close to you! Just relax!
 	박사님, 오늘은 제가 호위를 담당할게요! 수상한 놈들이 절대 접근 못 하게 할 테니, 안심해 주세요!
 
-	我今天的训练成绩单......吗？呃，那个，您还是别看啦......
 	今日の訓練の成績表…ですか？えっと…その…み、見ないほうがいいかも…。
 	My training score for today...? Um, well, don't worry about it...
 	오늘 훈련 성적표요…? 저기, 그게… 아, 안 보시는 게 좋을 거 같은데… 
 
-	每次战斗前我总是紧张得不得了，害得芬队长也要为我捏一把汗......我该怎么办好呢？博士><！
 	戦いの前はいつも緊張しちゃうんです。そのせいでフェン隊長には、心配ばかりかけてしまって…わたし、どうしたらいいですか？ドクターァ…。
 	I can't shake the anxiety I have before battle, and that makes Captain Fang really nervous too... What should I do? Doctor!
 	전투에 나서기 전에는 항상 긴장하거든요. 그래서 팽 팀장님한텐 걱정만 끼쳐 드리고… 저, 대체 어떡하면 좋을까요? 박사님…… 
 
-	芙蓉和炎熔总是来找我抱怨对方，可她们都是我的好朋友，各自的说法也都很有道理......博士，我该怎么办才好啊......？
 	ハイビスちゃんもラヴァちゃんもお互いの愚痴を、わたしに言ってくるんです。でもふたりともわたしの親友ですし、どっちの言い分にも一理ありますし…ドクターァ、わたし、どうしたらいいですかぁ…？
 	Hibiscus and Lava always complain to me about each other, but both of them are my good friends, and neither of them are wrong... Doctor, what should I do...?
 	히비스랑 라바가 서로에 대한 푸념을 제게 늘어놓고 있어요. 하지만 둘 다 저와 친한 친구 사이고… 둘이 하는 말에도 모두 일리가 있거든요… 박사님~ 저, 어떡하면 좋을까요…?
 
-	杜宾老师总是教育我们——“就算新人期结束，实战中也要以保命为优先“——这样的话。呜~不甘心，什么时候才能变成她那样帅气又强大的人呢？
 	よくドーベルマン先生に「新米じゃなくても、戦闘中は自分の命を最優先にしなさい」って注意されます。うぅ、悔しいです…いつになったら、あんなかっこよくて強い人になれるんでしょうかぁ？
 	Instructor Dobermann always told us, 'Even when after you finish your training, your number one goal on the battlefield is to stay alive.' Urgh... How can I become as strong and awesome as she is?
 	자꾸 도베르만 선생님한테 "신입 티를 벗게 되더라도, 전투 중에는 자신의 목숨을 최우선으로 해야 한다"고 혼나요. 으으, 속상해요… 언제쯤 그렇게 멋지고 강한 사람이 될 수 있을까요?
 
-	作为干员我还是新人，不过我也正在努力不是吗？嘿嘿，如果您也觉得我有进步，希望您能多多夸奖我一下......
 	わたし、オペレーターとしてはまだまだ新米ですけど、頑張れてますよね？えへへ、もしそうだったら、もっと褒めてほしいです…。
 	I'm still a rookie Operator, but I'm working hard! Hehehe, if you agree, I'd really love a compliment or two...
 	저, 오퍼레이터로선 아직 새파란 신참이긴 해도 꽤 열심히 하고 있지 않나요? 에헤헤, 정말 그렇다면 좀 더 칭찬해 주셨으면 좋겠네요…… 
 
-	矿石病吗？已经不是很在意了，因为感觉和以前也没有多大的区别嘛~不过果然还是，希望和大家永远在一起，在病痊愈之前，一直在一起......呜......
 	鉱石病ですか？そこまで気にしてませんよ。昔からこんな感じですし。でもやっぱり…これからもみんなとずっと…病気が治るまでずっと一緒にいたいんです…うぅ…。
 	My Oripathy? It doesn't bother me all that much, I'm used to it. I just want to be with the people I care about until my disease has been cured... Ughh...
 	광석병이요? 그다지 신경 쓰이진 않아요. 옛날부터 이랬거든요. 그래도 역시… 앞으로도 동료들과 함께… 병이 나을 때까지 늘 함께 있고 싶어요…… 우우… 
 
-	其实来这里之前，我对自己是没什么自信的......但是现在我能做到保护博士和大家了，真的很高兴！能保护所有人是我的梦想！所以，我也希望，如果这样的日子能一直持续下去就好了。
 	ここに来るまでは、あんまり自分に自信がなかったんです…。でも今はドクターとみんなを守ることができて、とっても嬉しいんです！わたし、みんなを守るのが夢でした。だからこんな日々がずっと続いたらいいなぁ…って思ったりもします。
 	I didn't have much confidence before I came here, but I'm so glad now that I can protect you and everyone here! It's my dream to protect everyone! I really wish days like these could last forever.
 	여기 오기 전까진 저 스스로에게 별로 자신이 없었어요… 하지만 지금은 박사님과 여러분을 지킬 수 있게 돼서 정말 기뻐요! 전 다른 사람들을 지키는 게 꿈이었거든요. 그래서 이런 날들이 계속 이어지길 바라곤 해요.
 
-	......好想在睡着的博士脸上恶作剧啊。
 	…眠ってるドクターの顔を見てると…イタズラしたくなるかも…。
 	Maybe it's time to have a little fun and doodle on the Doctor's face...
 	……잠든 박사님의 얼굴을 보고 있으니, 왠지 장난치고 싶은데…… 
 
-	我是米格鲁！虽然，招募评定的成绩不太理想，但就算作为实习生我也会努力帮忙的！
 	ビーグルっていいます。まぁ、採用テストはギリギリでしたけど、見習いとして頑張ってお役に立ちたいと思います！
 	My codename is Beagle! I know I didn't do very well on my assessment, but I'll still do my best at my internship!
 	비글이라고 합니다. 사실, 채용 시험은 아슬아슬했는데요, 수습 오퍼레이터로서 제 몫을 다할 수 있도록 최선을 다하겠습니다!
 
-	做到了！我变得更强啦！
 	やりました！もっと強くなれましたよ！
 	I did it! I've become stronger!
 	해냈어요! 더 강해졌다고요!
 
-	这样、这样的话！就不会被人喊“宇宙级新人！”啦！
 	これで、これで！もう「宇宙最大級ド新人」なんて呼ばれなくなります！
 	Finally, FINALLY! Now nobody's going to call me 'the Rookiest Rookie in the Rookieverse' anymore!
 	드디어, 드디어! '우주 최강 풋내기' 꼬리표를 떼는 날이 왔어요!
 
-	我会加油的！
 	頑張ります！
 	I'll do all I can!
 	열심히 하겠습니다!
 
-	欸，我是队长？不是芬做队长真的好吗？
 	えっ、わたしが隊長をするんですか？フェン隊長じゃなくていいんですか？
 	Huh? I am the captain? I don't feel right about Fang not being the captain...
 	어, 제가 팀장이라고요? 팽 팀장님이 아니라요?
 
-	各位，出发了！
 	みんな、いきますよ！
 	Everyone, let's roll out!
 	여러분, 갑니다!
 
-	各位，敌人来了哟！
 	みんな、敵が来ますよ！
 	Everyone, enemies incoming!
 	여러분, 적이 와요!
 
-	请给我勇气！
 	勇気をください！
 	Give me strength!
 	제게 용기를 주세요!
 
-	要我上吗？
 	わたしが行くんですね？
 	Is it my turn?
 	제가 가는 거죠?
 
-	抵达目标地点了！
 	目標地点に到着しました！
 	Target location reached!
 	목표 지점에 도착했습니다!
 
-	就是这里！
 	ここです！
 	I'm here!
 	여기예요!
 
-	哈~！
 	はぁ～！
 	Haah!
 	하앗~!
 
-	看我~的！
 	そぉーれっ！
 	Watch this!
 	이야압~!
 
-	保护大家是我的使命！不管有什么困难，这个信念都不会动摇！
 	みんなを守るんです！それがわたしの使命です。どんなに苦しい戦いでも、この信念だけは貫きます！
 	It's my duty to protect everyone! My resolve will never falter, no matter the odds!
 	모두를 지킬 거예요! 그게 제 사명이니까요. 어떤 힘든 전투에서도, 이 신념만큼은 꼭 지키겠습니다!
 
-	敌人一个不漏的全都击溃了！罗德岛的各位是最棒的！
 	敵をひとり残らず倒すことができました。ロドスのみんなはやっぱり最高です！
 	All enemies have been defeated! Rhodes Island Operators, you are the best!
 	적을 한 명도 남김없이 쓰러뜨렸네요. 로도스 아일랜드 분들은 역시 최고예요!
 
-	赢了赢了！不过，还是稍稍放走了几个敌人，欸嘿嘿......
 	わーい！勝てましたよ！まぁ、少し敵を逃しちゃいましたけど…えへへ…。
 	Hooray, we won! Although a few enemies managed to get away... Ehehe...
 	와아! 이겼어요! 뭐, 적을 조금 놓치긴 했지만요… 에헤헤…… 
 
-	对不起......对不起......
 	ごめんなさい…ごめんなさい……。
 	I'm sorry... so sorry...
 	죄송해요… 죄송해요… 
 
-	我能帮你什么忙吗？
 	何かお手伝いしましょうか？
 	What can I do for you?
 	뭔가 도와드릴 일이 있을까요?
 
-	博士！很、很痒的！
 	ドクター！くっ、くすぐったいです！
 	Doctor! Th-that tickles!
 	박사님~! 가, 간지러워요!
 
-	博士，我可以每天都去您那里学习吗？
 	ドクター、毎日勉強しに行ってもいいですか？
 	Doctor, can I come to your place to study every day?
 	박사님, 저 매일 공부하러 가도 되죠?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好呀，博士。
 	こんにちは、ドクター！
 	Hi, Doctor!
 	안녕하세요, 박사님!
+
+干员档案\Background:
+	基础档案 :
+	【代号】米格鲁
+	【性别】女
+	【战斗经验】一年
+	【出身地】玻利瓦尔
+	【生日】3月2日
+	【种族】佩洛
+	【身高】154cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ビーグル
+	【性別】女性
+	【戦闘経験】一年
+	【出身地】ボリバル
+	【誕生日】3月2日
+	【種族】ペッロー
+	【身長】154cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Beagle
+	[Gender] Female
+	[Combat Experience] 1 year
+	[Place of Birth] Bolívar
+	[Date of Birth] March 2
+	[Race] Perro
+	[Height] 154cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 비글
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 볼리바르
+	[생일] 3월 2일
+	[종족] 페로
+	[신장] 154cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】普通 
+	【生理耐受】优良
+	【战术规划】普通 
+	【战斗技巧】标准 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Normal 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	行动预备组A1前卫队员。与芬以及克洛丝一起来到罗德岛。虽然有不成熟的一面，但也逐渐展现出了专业和不认输的一面以及极强的天赋，慢慢成为了被更多人认可的可靠干员。
+
+	個人履歴 :
+	行動予備隊A1の隊員。フェンとクルースと共にロドスへと加入した。まだまだ未熟な面があるものの、元々の負けず嫌いさと抜群の才能を生かし、周囲に認められるようなオペレーターへと成長してきた。
+
+	Profile :
+	A frontline Operator on Op Reserve Team A1. She originally came to Rhodes Island with Fang and Kroos. Though immature in some respects, she has gradually displayed professionalism, resilience, and extreme talent. As a result, she has earned the recognition of others as a reliable Operator.
+
+	프로필 :
+	    전방에서 활약하는 예비작전팀 A1 팀원. 팽과 크루스와 함께 로도스 아일랜드에 합류하였다. 성숙하지 못한 면이 있긴 하지만, 조금씩 프로페셔널한 면모와 지기 싫어하는 모습, 그리고 매우 강력한 재능을 보여주며 점차 많은 사람들이 인정하고 신뢰할 수 있는 오퍼레이터로 성장하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】8%
+	体表暂未出现明显的矿石病病征。
+	
+	【血液源石结晶密度】0.21 u/L
+	感染程度尚浅，暂时还没有带来明显身体影响。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】8%
+	体表に鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.21u/L
+	感染状況は浅く、現状明らかな身体への影響は見られない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 8%
+	She presents no obvious external symptoms of Oripathy.
+	
+	[Blood Crystal Density] 0.21u/L
+	Degree of infection is not yet severe and has not yet brought about a significant physical impact.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 모호하고, 비정상적인 음영이 발견됨, 순환 계통 내 오리지늄 입자 검사 이상, 광석병 감염 현상 존재, 현단계로선 광석병 감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 8%
+	체표면에는 현재로선 명확한 광석병 증상이 나타나지 않음.
+	
+	[혈중 오리지늄 결정 밀도] 0.21u/L
+	감염 정도 약함, 현재로선 신체에 명확한 영향을 끼치고 있지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	没有花哨的技巧和法术力，米格鲁会利用自己的耐力为身后队友树立起坚实的前卫防御。即使笨拙的自己，只要一直坚持这样的方向不停，就一定可以做得越来越好。事实证明，米格鲁的这个想法一点都没错。
+
+	第一資料 :
+	際立った技術やアーツを持っていないビーグルは、自分の耐久力を生かし後方の隊員達を守る。不器用な自分でもひたすら頑張り続ければ、きっといつかはうまくいくとビーグルは信じてきた。実際ビーグルのやり方は実を結んできており、それなりに成果を出している。
+
+	Archive File 1 :
+	Though she lacks flashy skills or the capacity for Arts, Beagle uses her endurance to establish a strong forward defense for her teammates. Though a bit clumsy, she believes that everything will work out as long as she continues to press forward tenaciously. So far, she has only been proven right in this regard.
+
+	파일 자료 1 :
+	    화려한 기술이나 아츠는 없지만, 비글은 자신의 내구력을 이용해 후방의 동료를 위해 견고한 전방 방어를 구축할 수 있다. 비록 아직 서투르지만 계속해서 이렇게 노력하면 분명 점차 나아질 수 있을 거라 믿는 그녀의 믿음은, 작전 경험이 쌓이면서 점차 현실이 되어가고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	在哥伦比亚外围警卫预备队的时光，既是米格鲁最辛苦的，也是最宝贵的回忆。为了弥补自身和其他正式成员的差距，芬和克洛丝陪着米格鲁从来没有松懈过。然而最后得知自己感染了矿石病的时候，米格鲁陷入了深深的自责。她觉得是自己拖累了芬和克洛丝，是自己害的大家都失去了机会，一切都是自己的错。
+
+	第二資料 :
+	クルビアの辺境警備隊に所属していた頃がビーグルにとっては一番過酷だったが、それは最も貴重な思い出となっている。自分と他の隊員の能力の差を埋めるため、フェンとクルースに付き合ってもらいながら、決して気を緩めることはなかった。しかし、彼女は自身が鉱石病に感染したことを知ってしまい、深い自責の念に駆られる。フェンとクルースを巻き込んでしまった、自分がみんなのチャンスを奪ってしまった、全て自分のせいだ、と思い悩んだのだ。
+
+	Archive File 2 :
+	Her time in a Columbian outskirts garrison was one of the most difficult periods of her life, but also among the most precious. Beagle, along with her close companions Fang and Kroos, worked tirelessly to close the gap between them and the official team members. However, Beagle fell into a deep bout of self-loathing after being infected with Oripathy. She felt that she had become a burden on Fang and Kroos, and that it was her fault they lost everything.
+
+	파일 자료 2 :
+	    컬럼비아 외곽 경비 예비부대에서의 근무는 비글에게 매우 힘든 시간이었으나, 동시에 가장 값진 기억이기도 하다. 자신들과 다른 정식 멤버 간의 차이를 좁히기 위해 팽과 크루스는 비글과 함께 언제나 최선을 다했지만, 마지막에 자신이 광석병에 감염된 사실을 알게 되었을 때 비글은 깊은 자책감에 빠졌다. 그녀는 자신이 팽과 크루스에게 큰 폐를 끼쳤다고 생각했고, 자신으로 인해 모두가 기회를 잃어버렸기에, 모든 게 자신의 잘못이라 여겼다.
+
+———————————————————————————————
+
+	档案资料三 :
+	沉沦之际，芬和克洛丝都站在了米格鲁面前，一起面对了警备队的驱逐和流放。在克洛丝的推荐下，三人第一次来到了罗德岛。从那一天起，米格鲁在心中决定，要用自己的一切回报一直陪伴着她的芬和克洛丝以及身边的关心她的所有人。
+
+	第三資料 :
+	しかし、フェンとクルースは自分を責めているビーグルに真正面から向き合い、警備隊から追放された結果を一緒に受け入れた。やがてはクルースの推薦で三人はロドスへと向かう事にし、これがロドスへ初めて来るきっかけとなった。その日よりビーグルは自分のすべてをフェンとクルース、そして今まで助けてもらった人たちのために費やすことを心の中に決意した。
+
+	Archive File 3 :
+	At their lowest point, Fang, Kroos, and Beagle faced expulsion and banishment from the garrison. On Kroos's recommendation, the three of them came to Rhodes Island together. On that day, Beagle resolved to repay the kindness of Fang, Kroos, and everyone who stood beside her.
+
+	파일 자료 3 :
+	    그때, 팽과 크루스는 비글의 편에 서주었고, 함께 경비 예비부대에서 추방되었다. 이후 크루스의 추천 하에, 세 사람은 로도스 아일랜드로 오게 되었다. 이날부터 비글은 자신의 모든 것을 걸고, 줄곧 자신과 함께 해준 팽과 크루스, 그리고 자신을 믿어준 주변 사람들에게 보답하기로 다짐하였다.
+
+———————————————————————————————
+
+	档案资料四 :
+	看着每天大家的拌嘴、打闹、欢乐，米格鲁发自内心地感到幸福和感激。每天米格鲁都要努力调和吵架的炎熔和芙蓉，陪芬寻找偷懒消失的克洛丝，还得在空余的时间内陪罗德岛的前辈去跑腿干体力活，但是她也都乐在其中。
+	【那个家伙就是完全不会拒绝人......】————克洛丝
+
+	第四資料 :
+	毎日賑やかにしているみんなを見ながら、ビーグルは心から幸せや喜びを感じていた。ビーグルの毎日といえば、ラヴァとハイビスカスの口喧嘩を頑張って仲裁したり、サボりで行方不明になったクルースをフェンと一緒に探したり、空いている時間にロドスの先輩からのお使いで肉体労働をさせられたりしているが、彼女にとって少しも苦ではない、むしろ楽しんでいる。
+	「ビーグルちゃんはなんでも引き受けちゃうんだ～。」————クルース
+
+	Archive File 4 :
+	After witnessing everyone bicker, play, and express joy day after day, Beagle began to feel grateful and happy. Beagle works hard every day to solve disputes that arise between Hibiscus and Lava. She helps Fang find Kroos whenever she is slacking off. She even helps the senior members of Rhodes Island by doing chores in her free time. Time and time through and through, she enjoys every moment of her hard work.
+
+	파일 자료 4 :
+	    매일 로도스 아일랜드의 모두가 시끌벅적하게 다투면서도 즐겁게 지내는 것을 보며 지내게 된 비글의 마음속엔 행복과 감격의 감정이 생겨났다. 비글은 매일 다투는 라바와 히비스커스를 화해시켰고, 팽과 함께 게으름을 피우느라 숨어버린 크루스를 찾으러 다녔다. 남은 시간에는 로도스 아일랜드의 선배들과 육체노동을 해야했지만, 그녀는 이조차 즐거워했다. 크루스는 이에 관해 "그 녀석은 거절할 줄을 모르는 사람"이라고 언급했었다.

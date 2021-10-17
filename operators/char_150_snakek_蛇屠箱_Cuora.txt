@@ -1,11 +1,17 @@
 ID:
 	char_150_snakek
 
-干员代号\Name:
+CV:
 	蛇屠箱
 	クオーラ
 	Cuora
 	쿠오라
+
+干员代号\Name:
+	诹访彩花
+	諏訪彩花
+	Ayaka Suwa
+	스와 아야카
 
 招聘合同\Character Usage:
 	罗德岛重装干员蛇屠箱，将为小队提供坚实可靠的防御。
@@ -43,177 +49,380 @@ ID:
 	쉘 디펜스
 
 语音\Voices:
-	我来啦！棒球和桌上游戏，挑一个来玩吧？诶？工作中？
 	わーい、来たよー！野球とこのボードゲーム、どっちで遊ぶ？……はれ？お仕事中？
 	Here I am! What should we play, baseball or boardgames? Oh, you're working?
 	와~ 나 왔어~! 야구랑 보드게임 중에 뭐 하고 놀까? …… 어? 일하는 중?
 
-	你问我，我是在哪儿出生的？唔，嗯......不太清楚。管它呢！
 	ボクの生まれたとこ？えーと、うーんと……よくわかんない。まぁいっか！
 	Where was I born, you ask? Hm, no idea. But it doesn't matter, right?
 	내가 태어난 곳? 에… 음…… 잘 모르겠네. 뭐 어때!
 
-	你好，罗德岛老师！嗯......好像你不是叫这个名字？
 	こんにちは、ロドス先生！はれ……こんな名前だっけ……。
 	Hello, Sir Rhodes Island! Oh, that's not your name?
 	안녕 로도스 선생님! 어라…… 이름 이게 맞나…… 
 
-	唔，我今天的工作是什么来着？是不是要抓一些细长的生物？
 	うーんと…。今日のお仕事なんだっけ？細長い生き物を捕まえることかな？
 	Hm, what's my assignment today? To capture some sleek, long animals?
 	음…… 오늘 업무 뭐였더라? 길쭉한 생물을 잡는 거였나?
 
-	不行！不要敲我的背包！啊，对不起，我不是冲你生气，不小心一点的话，手会受伤的。让我来给你演示一下！
 	ダメぇ！背中のリュックは叩かないで！あ、ごめんね。怒ったわけじゃなくて、気をつけないと、怪我しちゃうから。いま見せてあげるね！
 	Stop! Don't knock on my backpack! Oh, sorry, I'm not mad, I'm just worried. If you're not careful, you could hurt your hand! Here, let me show you how it's done.
 	안돼! 등에 멘 가방은 때리지 마! 아 미안, 화난 건 아니고, 조심하지 않으면 다치니까 그래. 지금 보여줄게!
 
-	以后谁要是敢欺负你，我就用球棍扁他们！呃，还、还真有？其实我对打架不太在行，嘿嘿......
 	ドクターをいじめる人がいたら、ボクがこのバットでボコってあげるよ！……は、はれ？本当にいたの？あ、あのボク、本当はケンカとかよくわからないんだ。えへへ……。
 	If anyone dares to hurt you, I'll smash them with a baseball bat. Oh, uh... so... there really were people who hurt you? Um... actually, I'm not that good at fighting, haha...
 	박사를 괴롭히는 사람이 있으면, 내가 이 배트로 때려눕혀 줄게! …… 어, 어라? 진짜 있었어? 이, 있잖아 나, 실은 싸움 같은 거 잘 몰라. 에헤헤…… 
 
-	我啊，喜欢花一天时间从街头走到街尾，一边晒太阳一边观察行人，然后......然后就迷路啦！
 	ボクね、一日かけて街をお散歩するのが好きなの。日向ぼっこして～、歩いてる人を見て～、そしたら……いつのまにか迷子になっちゃうんだ！
 	I love spending the whole day just walking down the street, people-watching and enjoying the sunshine... even though I always get lost that way!
 	난 하루 온종일 거리를 산책하는 걸 좋아해. 햇빛도 쐬고~ 걸어 다니는 사람 구경도 하고~ 그러다 보면…… 어느새 또 미아가 되어버리지만!
 
-	帮我看病，还给我住的地方，博士真是个好人......
 	ボクの病気を診てくれて、住むところもくれて、ドクターは本当に優しいね……。
 	You helped cure me, and gave me a place to live... you're really such a kind person...
 	내 병을 진찰해주고, 살 곳도 내어주고, 박사는 정말 상냥하네…… 
 
-	博士是我的哥哥？还是姐姐？没关系，哪种都行！......就算你赶我走，我也是不会离开的！反正我也走不了多远嘛。
 	ドクターはボクのお兄ちゃん？…それともお姉ちゃん？まぁどっちでもいいか！とにかくドクターはボクの一番大切な家族なの！ボク、決めたの。ドクターに出てけって言われても、ボクはここにいるんだ。どうせ遠くまで行きたくても行けないしね。
 	Are you my big brother? Or big sister? Ah, whichever you are, it's fine! I'm not leaving you even if you throw me out! It's not like I can walk far, right?
 	박사는 나보다 형이야? … 아니면 언니야? 뭐 어느 쪽이든 상관없어! 어쨌든 박사는 내 가장 소중한 가족이야! 나, 이미 결정했어, 박사가 나가라고 해도, 난 여기 있기로 말이야. 어차피 멀리 가고 싶어도 못 가는걸.
 
-	博士没时间理我，我一个人玩会儿吧......
 	ドクターがかまってくれないから、ひとりで遊んじゃおっと……。
 	Oh, Doctor is busy. I'll just play with myself then...
 	박사가 안 놀아주니까, 혼자서 놀아야겠다…… 
 
-	欸？这里是什么地方？我是谁？
 	はれれ？ここはどーこー？ボクはだーれー？？？
 	Hm? Where am I? Who am I?
 	어라라? 여긴 어~디? 나는 누~구???
 
-	变硬！除了变硬我什么都不会！
 	ガチガチに硬くなるよ！ボク、硬くなることしかできないの！
 	My skin can harden. It's my only special skill!
 	엄~청 딱딱해질 거야! 나, 딱딱해지는 거 밖에 못하니까!
 
-	晋升？我不懂啊......比起这个，再玩一会儿吧，我们两个一起！！
 	しょーしん？よくわからない。それより、もうちょっと一緒に遊ぼうよ！
 	Promotion? What's that? Let's just play! Come on, play with me!
 	승~진? 잘 모르겠다… 그러지 말고, 좀 더 같이 놀자!
 
-	博士博士，我不在乎什么新职位哦，我只要每天都有博士陪伴着我就好了，你能答应我吗？
 	ドクター、ドクター！ボクえらくなるのとか、別にどうでもいいよ。ドクターがずっと一緒にいてくれればそれでいい。いいよね？
 	New position or not, I don't really care. All I want is to be by your side every day. Can you grant me this tiny wish of mine?
 	박사, 박사~! 난 더 높은 자리로 올라가는 거 따윈 아무래도 상관없어. 박사가 늘 함께 있어주면 그걸로 족해. 같이 있어줄 거지?
 
-	有很多朋友在这里呢！
 	お友達がたくさん！
 	I've got lots of friends here!
 	친구가 잔뜩!
 
-	大家一起出发吧！
 	みんな、ボクと一緒にきて！
 	Let's go!
 	다들, 나랑 같이 가자!
 
-	大家一起的话，一定没问题的！
 	みんなが一緒なら、大丈夫だよ！
 	We'll be fine if we're all together!
 	모두와 함께라면, 괜찮아!
 
-	大家一起玩吧！
 	みんな、一緒に遊ぼう！
 	Let's play!
 	우리 다 같이 놀자!
 
-	是——
 	はーい。
 	Here!
 	네~
 
-	博士！
 	ドクター！
 	Doctor!
 	박사!
 
-	来吧来吧！
 	オラオラー！
 	Come on! Come on!
 	이야야압!
 
-	你们这些笨蛋！我才是你们的对手！
 	おバカさんたち！ボクが相手だよ！
 	Dummies, your real enemy is over here!
 	이 바보들아! 내가 상대해주마!
 
-	没用没用没用！
 	無駄無駄ー！
 	Useless! You're all useless!
 	소용없어~!
 
-	来陪我玩玩吧！
 	ボクと遊ぼう！
 	Come on, play with me!
 	나랑 놀자!
 
-	这是我的主场！
 	ここがボクのホームだよ！
 	This is my playground!
 	여기가 내 홈이야!
 
-	绝对不会后退的！
 	一歩も引かないよ！
 	I won't back down!
 	한 발자국도 물러서지 않겠어!
 
-	很难吗？感觉和平时的战斗也没什么区别啊？
 	難しかった？いつもと変わらないよ？
 	Was that tough? I don't feel like it's much different from any other battle.
 	어려웠어? 평소랑 똑같은데?
 
-	全垒打！！
 	ホーーームラーーーン！！
 	Homerun!
 	호~옴~러~언~!!
 
-	安打！
 	ヒットだよ！
 	Safe!
 	안타!
 
-	呜啊啊啊啊......出局了....
 	うわぁぁぁん……アウトぉ……うう……。
 	Aww... strike out!
 	으아아아아…… 아웃…… 으으…… 
 
-	别用火球打我哦？
 	火の玉を投げないでね？
 	Just don't throw fireballs at me!
 	파이어볼은 던지지 없기다?
 
-	哇，好玩！
 	わーい、面白～い！
 	Wow, fun!
 	와아~ 재밌어~!
 
-	博士，博士！再稍微玩一会儿吧？就一小会儿！
 	ドクター、ドクター、もう少しだけ遊ぼう？もう少しだけ！
 	Doctor! Doctor! Can we play a little bit longer? Just a little bit!
 	박사, 박사~ 좀만 더 놀면 안 돼? 좀만 더어!
 
-	明日方舟。
 	アークナイツ！
 	Arknights.
 	아크나이츠!
 
-	博士！你好！
 	ドクター！こんにちは！
 	Doctor! Heya!
 	박사! 안녕!
+
+干员档案\Background:
+	基础档案 :
+	【代号】蛇屠箱
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】未公开
+	【生日】未公开
+	【种族】匹特拉姆
+	【身高】148cm
+	【矿石病感染情况】
+	体表无源石结晶分布，体内有可见阴影，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】クオーラ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】非公開
+	【誕生日】非公開
+	【種族】ペートラム
+	【身長】148cm
+	【鉱石病感染状況】
+	体表に源石結晶は見られないが、体内に陰影あり。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Cuora 
+	[Gender] Female 
+	[Combat Experience] None 
+	[Place of Birth] Undisclosed 
+	[Date of Birth] Undisclosed 
+	[Race] Petram 
+	[Height] 148cm 
+	[Infection Status] 
+	Showed physical signs of Originium, visible internal blotches, infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 쿠오라
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 미공개
+	[생일] 미공개
+	[종족] 페트람
+	[신장] 148cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인 안됨, 단, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】普通 
+	【生理耐受】优良 
+	【战术规划】普通 
+	【战斗技巧】普通 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Normal 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	蛇屠箱，身份不明，履历缺失。在强对抗战斗中展现出了不凡的防守强度。 
+	现作为重装干员，为罗德岛的多项行动提供服务。
+
+	個人履歴 :
+	クオーラは身元不明、経歴欠損。強度の高い対抗戦において優秀な防御力を発揮する。
+	現在は重装オペレーターとして、ロドスの各種行動作戦に協力している。
+
+	Profile :
+	Cuora, real identity unknown, missing history. Demonstrated remarkable defensive ability in battle. 
+	Now undertaking many missions for Rhodes Island as a Defender Operator.
+
+	프로필 :
+	    신원 불명. 이력 정보 부족. 대항전 중 뛰어난 방어 능력을 보여주었다. 현재 디펜더 오퍼레이터로서 로도스 아일랜드의 다양한 작전에 참여하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】5%
+	患者目前病程控制稳定。
+	
+	【血液源石结晶密度】0.2u/L
+	患有轻度矿石病感染，目前无扩散倾向。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】5%
+	患者の病状経過のコントロールは安定している。
+	
+	【血液中源石密度】0.2u/L
+	軽度の鉱石病の感染あり、差し当たって拡散の傾向はない。
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 5% 
+	The patient's condition is still manageable. 
+	
+	[Blood Originium-Crystal Density] 0.2u/L 
+	Low level of Oripathy, currently not spreading.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 5%
+	환자의 병세 안정적으로 관리 중.
+	
+	[혈중 오리지늄 결정 밀도] 0.2u/L
+	가벼운 광석병 감염 증상을 보이고 있으나, 현재로서는 확산될 경향이 보이지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	当这位连自己究竟来自何方都忘记了的神秘少女正式成为罗德岛干员的时候，她学会的第一项技能就是正确写出自己的代号，并一笔一划，极为认真地在任职合同上签下自己的名字。 
+	干员蛇屠箱拥有天真烂漫的性格，即使成为矿石病患者也丝毫未能减损她的阳光。即使因为贪玩棒球而数次击碎了部分设施的玻璃，也无法令人去苛责她。 
+	通过观察可以发现，干员蛇屠箱对棒球拥有非同一般的热情与执着，这枚小小的圆球和黝黑的金属棍棒，似乎已经被她当成了最好的朋友。 
+	所以......究竟为什么是棒球呢？
+
+	第一資料 :
+	自分がいったいどこからやってきたのかすらも忘れてしまった不思議な少女。彼女がロドスの正規オペレーターになったとき、身につけた最初の能力は自分のコードネームを正確に書き記すことだった。そして一画一画、職務契約書へ慎重に署名した。
+	クオーラは天真爛漫な性格で、たとえ鉱石病患者になっても彼女の明るさが損なわれることは少しもない。野球に熱中し何度も施設のガラスを割ったとしても、彼女を責め立てられる人間はいない。
+	観察を通して発見したことは、クオーラは野球に対して並々ならぬ熱意と執着があり、ちっぽけなボールと黒い金属バットが彼女の最高の友達とでも言えるかのようだ。
+	ただ……いったいどうして野球なんだ？
+
+	Archive File 1 :
+	When this enigmatic girl who has forgotten where she came from first became an official Rhodes Island Operator, she had to be taught to write her codename correctly, deliberately and diligently signing it on the dotted line. 
+	Operator Cuora is so innocent and naive, not even Oripathy could dim her spirits. And no one has the heart to reprimand her when she breaks a window for the hundredth time playing baseball. 
+	Operator Cuora clearly has an unusual passion for baseball. Her small round ball and black bat are practically her best buddies. 
+	So, why baseball?
+
+	파일 자료 1 :
+	    자신이 대체 어디에서 왔는 지 조차 잊어버린 이 미스테리어스한 소녀가 정식으로 로도스 아일랜드에 입사할 때, 그녀가 학습한 첫 기술은 정확히 자신의 코드네임을 쓰는 법이었다. 그리고 한 자 한 자, 성심성의껏 근로계약서 상에 서명을 하였다.
+	    오퍼레이터 쿠오라는 천진난만한 성격의 소유자로서, 광석병 환자가 된 후에도 그녀의 밝은 성격은 변함이 없었다. 야구를 지나치게 좋아한 나머지 일부 시설의 유리를 여러 차례 깨먹었지만, 아무도 그녀를 책망하지는 않았다.
+	    관찰을 통하여 오퍼레이터 쿠오라는 야구에 대해 남다른 열정과 집착을 보이고 있다는 점을 확인할 수 있었으며, 작은 야구공과 배트는 그녀의 가장 친한 친구인 것으로 보인다.
+	    그런데…… 왜 하필 야구인 걸까?
+
+———————————————————————————————
+
+	档案资料二 :
+	棒球是一项发源于维多利亚王国，发展并壮大于哥伦比亚的一项体育运动。随着来自哥伦比亚的流行文化开始向周边地区辐射，这项适合平民——尤其是平民的孩子们，很快就成为了这项运动的忠实拥趸。 
+	根据干员蛇屠箱的说法，棒球无论在有效强化体质方面，还是培养团队精神方面，都能带来非常显著的效果。她极力推荐在罗德岛内也进行这项运动有关的普及和推广，并身体力行地进行了数项基础动作及常用战术的演练。可以看出，她的各种动作十分规范，战术讲解也给人相当职业的印象。通过这些观察可以发现，干员蛇屠箱虽然并不具备任何作战相关的经验，却能够较为顺利地领悟行动计划、目的，以及具体的战术布置，或许这得益于她在棒球场上经受的严格训练，与一丝不苟的职业精神。 
+	在蛇屠箱的演示取得干员们积极的回应后，她兴高采烈地从自己的背包中取出了一些棒球，开始塞给在场的每一位干员。 
+	等等......这样一个看似普通的背包，究竟为什么能被蛇屠箱用以进行各式各样的防御行为呢？
+
+	第二資料 :
+	野球はヴィクトリア王国が発祥の地で、クルビアのスポーツとして発展していった。クルビアの流行文化が周辺の地域に広がり始めると、野球が平民の、とりわけ子供達の間に普及し、たちまち大人気なスポーツ項目となった。
+	クオーラの話によると、野球は体力増強に効果があるだけではなく、連帯感や団結力を養うことにも非常に効果があるらしい。彼女はロドス内でのこのスポーツの普及と推進にかなり力を入れており、実践を踏まえながら基礎の動きと常用戦術の演習を進めた。
+	彼女の各種動作は模範的で、戦術解説もかなり専門的な印象を受ける。観察を通して確認できたことは、クオーラは作戦関連の経験を何一つ持ち合わせていないにもかかわらず、行動計画や目的、具体的な戦術配置に至るまでをスムーズに把握できるのだ。彼女が野球場で受けた厳しい訓練と、ひたむきなプロ精神によるものではないだろうか。
+	実演でオペレーター達から積極的な反応をもらうと、クオーラは大喜びで自分のバッグから野球のボールをいくつか取り出し、その場にいるオペレーター一人一人に渡し始めた。
+	待て……こんな一見普通のバッグ、いったい何故クオーラが使うと様々な防御行為に使えるんだ？
+
+	Archive File 2 :
+	Baseball is a sport that originated in Victoria, grew massively popular in Columbia and spread out from there. The ordinary folk, especially kids, became diehard fans of the sport very quickly. 
+	According to Cuora, playing baseball strengthens the body and builds teamwork. She fiercely advocated playing the sport at Rhodes Island, even going so far as to hold basic drills, lessons, and even seminars on gamesmanship. It is obvious that she is very proficient and highly experienced with the game of baseball. And yet, observation showed that Cuora possesses very little actual combat experience. With her familiarity with baseball, she has been able to grasp mission plans, objectives and strategies far easier than one would expect from an inexperienced Operator. 
+	After positive responses to Cuora's baseball presentations, she gleefully unpacked her bag and handed every Operator present a baseball. 
+	Hold on. How is it that Cuora uses that ordinary-looking backpack to in all those defensive maneuvers?
+
+	파일 자료 2 :
+	    야구는 빅토리아 왕국에서 시작되었으나, 컬럼비아로 건너와 지금의 모습으로 발전한 스포츠 종목이다. 그리고 이 문화가 주변 다른 지역으로 까지 전파되어 유행하게 되면서, 평민에게 적합한, 특히 평민의 아이들이 하기 적합한 야구는 빠른 속도로 이들이 가장 즐겨하는 스포츠 종목이 되었다.
+	    오퍼레이터 쿠오라의 말에 의하면, 야구는 체력 강화와 팀 단결력 방면에 매우 좋은 효과가 있다고 한다. 그녀는 로도스 아일랜드 내에서 이 스포츠와 관련된 보급 및 선전을 진행하길 강력히 추천하고 있으며, 여러 차례의 기초 동작 및 상용 전술 훈련을 몸소 선보이기도 하였다. 그녀의 시범을 통해 각종 동작이 매우 정확하고 표준적임을 알 수 있었으며, 전술 설명 역시 사람들에게 매우 전문적이란 인상을 주었다. 오퍼레이터 쿠오라는 비록 어떠한 작전 관련 경험도 없지만 비교적 순조롭게 작전 계획, 목적 및 구체적 전술 배치를 이해하는 것으로 관찰되었는데, 이는 아마도 그녀가 야구장에서 받았던 엄격한 훈련과 작은 것도 소홀히 하지 않는 직업 정신 덕분인 것으로 보인다.
+	    쿠오라의 야구 시범이 오퍼레이터들의 긍정적 반응을 끌자, 신이 난 그녀는 자신의 백팩에서 야구 배트들을 꺼내 현장에 있는 모든 오퍼레이터들에게 억지로 나눠주었다. 잠깐만…… 이렇게 평범해 보이는 백팩으로 쿠오라는 대체 어떻게 그런 방어 능력을 보여줄 수 있었단 말인가?
+
+———————————————————————————————
+
+	档案资料三 :
+	经过基础建设与武器整备部门相关人员的检测，蛇屠箱的背包被认为是一种良性防御武器，它所能提供的有效防御，并不逊色于罗德岛基础行动人员配发的制式盾牌。 
+	事实上，这枚背包的正面材质并非布料，而是具有相当硬度，却极为轻巧的金属板材。此外，它的缝合极为强韧，数次的锤击测试均未能破坏这枚背包的完整结构。 
+	对于背包的由来，干员蛇屠箱以一如既往的愉快态度表示自己没有相关记忆。在查询相关领域的资料均告失败后，对于该武器（物品？）的调查不得不暂时告于段落。 
+	此外，蛇屠箱的球棒被检测出拥有同样的金属成分，但相对背包的惊人设计，球棒显得较为朴实，没有任何独特之处，因此不再加以赘述。 
+	那么......毫无战斗背景，又持有这样奇妙工具的蛇屠箱，究竟为何会出现在罗德岛中的呢？
+
+	第三資料 :
+	インフラ及び武器整備部門関連の職員の計測によると、クオーラのバッグは一種の良性防御武器と見られる。防御性能が高く、ロドスの基礎行動人員に支給されている盾と比べても遜色しないという。
+	実際、このバッグの表地の材質は布ではなく、相当の硬度がありながら極めて軽い金属素材だ。また、縫い合わせも強靭で、数回行われたハンマーでの衝撃耐久テストでもバッグの構造が破壊されなかった。
+	バッグの由来について、クオーラはいつもと変わらない楽しそうな態度でこれに関する記憶がないと話している。関連資料への検索もことごとく失敗しており、該当武器（物品？）の調査も一時中止となった。
+	この他に、クオーラのバットからもバッグと同様の金属成分が検出されたが、バッグの驚異的な設計に対して、バットは比較的に簡素であり、どこにも独特なところはないため、これ以上述べることはない。
+	では……何の戦闘の匂いもないのに、このような不思議な道具を持っているクオーラは、いったいどうしてロドスに現れたのだろうか？
+
+	Archive File 3 :
+	After examination by engineering and armory personnel, Cuora's backpack was determined to be an excellent defensive weapon. The protection it provides is on par with the standard tower shield issued to Rhodes Island Operators. 
+	In fact, the front side of the backpack is not made from fabric, but an extremely lightweight metal alloy. In addition, the seams are sufficiently resilient that even sustained hammering cannot damage its integrity. 
+	As for where she got the backpack, Cuora cheerfully replies that she doesn't remember. The investigation was halted when no lead on the weapon/item's origin could be found. 
+	Further tests concluded that Cuora's baseball bat is made of the same alloy, despite being even more ordinary in appearance than the backpack. 
+	So, how did the inexperienced Cuora, with her marvelous items, show up at Rhodes Island?
+
+	파일 자료 3 :
+	    기초 시설 및 무기 정비 부문에서 검측한 결과, 쿠오라의 백팩은 일종의 양성 방어 무기이며, 이 장비의 방어 능력은 로도스 아일랜드에서 초급 오퍼레이터들에게 배급하는 제식 방패와 비교해도 전혀 손색이 없는 것으로 판단된다. 이 백팩의 정면부 재질은 천이 아니라, 매우 가벼운 금속재 패널을 사용하여 상당한 수준의 경도를 지닌 것으로 확인된다. 또한 접합부 역시 빈틈없게 마무리되어, 여러 차례 망치로 내려쳐도 이 백팩의 전반적 구조는 파괴되지 않았다.
+	    이 백팩의 유래에 대해, 오퍼레이터 쿠오라는 늘 싱글벙글한 표정으로 자신은 아무런 기억이 없다고 말한다. 관련 영역의 자료를 찾아보았지만 유의미한 자료는 찾지 못했으며, 이 무기(물품?)에 대한 조사는 이렇게 부득이하게 일단락되었다.
+	    그리고 쿠오라의 야구 배트에서도 동일한 금속 성분이 검측되었는데, 놀라운 백팩의 디자인에 비하면 야구 배트는 딱히 특이한 부분은 없기에 말을 줄이겠다.
+	    그렇다면…… 어떠한 전투와 관련된 배경도 없는데, 이런 기묘한 도구를 가진 쿠오라는 대체 무엇 때문에 로도스 아일랜드에 오게 된 걸까?
+
+———————————————————————————————
+
+	档案资料四 :
+	根据当事职员的回忆，他们发现躺在罗德岛舰桥甲板上，一边晒太阳一边睡午觉的蛇屠箱时，罗德岛刚刚于哥伦比亚某小城市进行补给，正处于驶离该地区的通航状态。在叫醒蛇屠箱并进行询问的过程中，蛇屠箱发现自己完全没有来到罗德岛的相关记忆。随后在罗德岛为蛇屠箱安排了一次免费的检查中发现，她是一名轻度感染者。 
+	基于现行的对感染者处理方针，蛇屠箱以普通感染者的身份被接纳进入罗德岛，而在此期间，她的奥妙之处才逐渐被人所察觉。 
+	无论如何，已作为正式干员的蛇屠箱已经成为罗德岛的一份子。关于她的信息仍有待发掘，这将是未来一项必要的工作。
+
+	第四資料 :
+	当時の職員の記憶によると、彼らがロドスの甲板の上で日向ぼっこをしながら昼寝をしているクオーラを見つけたとき、ロドスはちょうどクルビアの小さな町で補給をし、その地区を出て航行状態にあったところだった。
+	クオーラを起こし、質問をしていく中で、彼女がロドスに来た経緯の記憶を完全に失っていると発覚した。その後ロドスでクオーラに無料の検査を手配したところ、彼女が鉱石病の軽度感染者であることが判明した。
+	現行の対感染者処理方針に基づき、クオーラは一般感染者としてロドスに受け入れられ、この期間で、彼女の不思議なところがだんだんと判明していくことになる。
+	何はともあれ、正式オペレーターとなったクオーラは、既にロドスの一員だ。彼女の情報に関しては更なる新発見が待っており、これは将来必要な作業である。
+
+	Archive File 4 :
+	The personnel involved recalled that they found Cuora napping under the sun on the deck of Rhodes Island above the bridge. At the time, Rhodes Island had just finished a supply drop to a small Columbian town before sailing off. After waking up Cuora, interrogation revealed she had absolutely no idea how she got onboard. Later, a physical examination confirmed she had an early stage of Oripathy. 
+	Cuora was accepted into Rhodes Island as an Infected under existing protocols. Her strange talent was discovered at that time. 
+	Regardless, Operator Cuora is now an official part of Rhodes Island. As for unraveling her past, it's on the to-do list.
+
+	파일 자료 4 :
+	    당시 직원들의 기억에 의하면, 이들이 로도스 아일랜드 함교 갑판 위에 누워 햇살을 쬐면서 낮잠을 자고 있는 쿠오라를 발견하였을 때, 로도스 아일랜드는 막 컬럼비아의 어느 작은 도시에서 물자 보급을 진행한 후 막 해당 지역을 떠나기 위해 이동하던 참이었다고 한다. 쿠오라를 깨워서 심문을 할 당시, 쿠오라는 자신이 왜 로도스 아일랜드에 와있는지 전혀 기억하지 못하고 있었다. 이어서 진행된 무료 검진을 통해, 그녀가 이미 광석병의 경도 감염자라는 점을 확인할 수 있었다.
+	    감염자 처리에 관한 현행 방침에 근거하여, 쿠오라는 일반 감염자의 신분으로 로도스 아일랜드에 합류하였고, 이때부터 그녀의 오묘한 사실들도 점차 사람들에게 알려지게 되었다.
+	    어찌 되었든, 쿠오라는 이미 로도스 아일랜드의 구성원이 되었다. 그녀에 관한 정보는 여전히 조사가 필요하며, 향후 반드시 진행되어야 할 작업이다.

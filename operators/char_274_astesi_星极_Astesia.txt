@@ -1,11 +1,17 @@
 ID:
 	char_274_astesi
 
-干员代号\Name:
+CV:
 	星极
 	アステシア
 	Astesia
 	아스테시아
+
+干员代号\Name:
+	名塚佳织
+	名塚佳織
+	Kaori Nazuka
+	나즈카 카오리
 
 招聘合同\Character Usage:
 	罗德岛近卫干员星极，借着星辰的力量维持你的战线。
@@ -43,177 +49,447 @@ ID:
 	빛나는 별의 검
 
 语音\Voices:
-	工作流程已经制定完成了，要好好执行哦。
 	業務フローの作成ができたわ。この通りに進めてちょうだい。
 	The work schedule is out for you to follow.
 	워크플로우 작성이 끝났어. 이대로 진행해 줘.
 
-	天球仪的制造技术是个秘密，但就像您所知道的那样，世间万物都能用等价的东西来交换。所以，只要您的出价合适，我愿意将这秘密转让给你。
 	天球儀の製造技術は企業秘密よ。でもご存知の通り、この世の全てはそれ相応の対価を払うことで手に入れることができる。つまりドクターの提示する金額が妥当であれば、企業秘密であろうと教えてあげてもいいわ。
 	How to make an astrolabe is a secret, but as you said, anything can be had for a price. And you will know the secret if the price is right.
 	천구의 제조 기술은 기업 비밀이야. 하지만 알다시피 이 세상의 모든 것은 그에 상응하는 대가를 지불하면 손에 넣을 수 있어. 그러니까 박사가 제시하는 금액이 합당하면 기업 비밀이라 해도 가르쳐 줄 수 있어.
 
-	每天都要观测星体脖子好酸，不知道医疗部的同事有什么好办法......今天的当班医师是华法琳小姐？呃，还是过段时间再看吧。
 	毎日の天体観測で首のコリがひどくて……医療チームの皆さんに何か対処法がないか聞いてみようかしら……。え、今日の当番医はワルファリンさんですって？ええっと、また今度にしておくわ……。
 	Observing the stars everyday makes my neck sore. Wonder if the medics would have any suggestions for that... What, Warfarin is the physician on duty today? Uh, I'll check again another day.
 	매일 천체관측을 하느라 목이 너무 뻐근해…… 의료부 분들께 뭔가 대처법이 없는지 물어볼까…… 뭐? 오늘 담당의는 와파린 씨라고? 저기… 다음에 할게……
 
-	从星辰排列中获取现在与未来的消息，这就是占星，可能和占卜不太一样，但结果总是不变的。所以——您想试试看吗？免费的哦。
 	星の並びをもとに現在と未来を読み解く、それが星占いよ。ほかの占いとはちょっと違うけど、導き出される結果は同じよ。というわけで、ドクターも試してみる？今なら無料で占ってあげるわよ。
 	Astrology is divining the future from celestial alignments. It's not quite augury, but with same result. So, would you like to try? It's free.
 	별의 배열을 바탕으로 현재와 미래를 해독하는 것, 그게 점성술이야. 다른 점술과는 조금 다르지만, 도출되는 결과는 같아. 그래서 말인데, 박사도 한번 해볼래? 지금이라면 무료로 봐줄게.
 
-	“血亲间，趋同的基因，导致，呃，源石产生，共鸣性的，并发......”这才是真正的神秘学，完全理解不了......博士，能麻烦您帮我解读一下体检报告吗。
 	「血縁関係の収斂性を有する、DNAにより、うーん……源石が、共鳴性の併発を、もたらす……」神秘学とはまさにこのことね、全く理解できないわ……。ドクター、この健康診断の結果報告書を、少し解説してもらえるかしら？
-	'Convergent DNA among blood relatives… Hmm, resonance and concurrency within Originium formation…' Now this is some occult stuff. I can’t make heads or tails of it… Doctor, would you be able to take some time to explain this report to me?
+	'Convergent DNA among blood relatives... Hmm, resonance and concurrency within Originium formation...' Now this is some occult stuff. I can't make heads or tails of it... Doctor, would you be able to take some time to explain this report to me?
 	"혈연관계의 수렴성을 가지는 DNA로 인해, 으음…… 오리지늄이 공명성 병발을 일으킨다……" 신비학이라는 게 바로 이런 거구나. 전혀 이해를 못 하겠어…… 박사, 이 건강진단 결과 보고서를 조금 해석해 줄 수 있을까?
 
-	从受到矿石病感染开始，星辰对我的回应已经越来越微弱了。一定要在力量尽失前想到补救的办法，不然我......博士，您愿意帮助我吗？
 	鉱石病に感染してから、星が私の声に応えてくれなくなってきているわ……。この力を完全に失ってしまう前に、なんとかする方法を見つけないと……ドクター、力を貸してもらえないかしら？
 	Ever since my Oripathic infection, the stars have diminished their responses to me. I must find a way to reverse it before I lose all my power. Can you help me, Doctor?
 	광석병에 감염된 후로 별이 내 목소리에 점점 대답해주지 않고 있어…… 이 힘을 완전히 잃어버리기 전에 어떻게 할 방법을 찾아야 하는데…… 박사, 힘을 빌려줄 수 없을까?
 
-	您想要了解我加入的那个组织？抱歉......我什么都不能说。既是因为誓言所限，也和那些东西绝不能公开言说有关。如果您无论如何想要知道一些，那就......请把它想象成一个与世无争的茶会吧。
 	私が加入している組織のことを知りたい？ごめんなさい……それに関しては何も言えないわ。絶対に公にすべきものではないし、私自身が誓いに背かないためでもある。もしどうしても知りたいと言うのなら……浮世離れしたお茶会みたいなものと想像してくれればいいわ。
 	You want to know more about the organization I'm with? Sorry, I took an oath not to divulge anything, and it's not for public knowledge, anyway. If you're curious, just think of it as a completely neutral community.
 	내가 가입한 조직에 대해 알고 싶다고? 미안해…… 그것에 관해서는 아무것도 말할 수 없어. 반드시 공개해야 하는 그런 것도 아니고, 나 자신이 맹세를 어기지 않기 위해서이기도 해. 혹시 무슨 일이 있어도 알고 싶다면…… 속세를 떠난 차모임 같은 것이라고 상상하면 될 거야.
 
-	有时候，真的很羡慕星......不，现在该称呼她为埃琳娜了。我身上缺失的一切，似乎都在她身上。咦，是这样吗，博士？也是呢，因为相异，所以相依，这就是姐妹间的关系吧。
 	時々アス……いえ、今はエレナと呼ぶべきね。時々彼女のことを羨ましく思ってしまう自分がいるわ。私にないものを、全部あの子が持っている気がして……。まあでもドクターの言う通りかもね、お互いに足りない部分があって、助け合うのが姉妹ってものね。
 	Sometimes, I envy Sta... No, she's Astgenne now. She has everything I'm missing. That must be it, Doctor. We relied on each other because we complement each other, that's why we're sisters.
 	가끔 아스…… 아니, 지금은 엘레나라고 불러야 하지. 가끔 그 애가 부러울 때가 있어. 내게 없는 것을 전부 그 아이가 가지고 있는 것 같아서…… 뭐, 하지만 박사가 말한 대로일지도 몰라. 서로 부족한 부분이 있어서, 서로 돕는 것이 자매라는 거겠지.
 
-	夜晚总会结束，群星也终将落幕，如果这就是一切的尽头，那我该做些有意义的事情了。比如？唔......博士，您介意我每天清晨叫醒您吗？
 	夜はいつか明け、星も消えゆく。それが私の占い師としての役目が終わる合図なら、その後の私はもっと有意義なことをなさなければいけない。例えば？うーん……ドクター、毎日私が朝起こしに来るってのは嫌かしら？
 	The night is over and the stars are about to fade. If this is the end of everything, I should start doing something meaningful. Such as? Well, do you mind me waking you up every morning, Doctor?
 	밤은 언젠가 밝아지고, 별도 사라져. 그게 점술사로서의 내 역할이 끝나는 신호라면, 그 이후의 나는 더 의미 있는 일을 해야 해. 예를 들면? 음…… 박사, 매일 내가 아침에 깨우러 가는 건 싫어하려나?
 
-	茶已经备好了，放松一下吧。
 	お茶を淹れたわ。少しはリラックスしたら？
 	Tea is ready. Time to relax.
 	차 끓여왔어. 조금 쉬는 게 어때?
 
-	星象学者，星极，以近卫干员身份任职，今后就由您差遣了，博士。
 	アステシア、天文学者兼占い師よ。前衛オペレーターとしてお世話になるわ。よろしく、ドクター。
 	Astesia, astrologer, reporting for guard duty. I'm yours to command, Doctor.
 	아스테시아, 천문학자 겸 점술가야. 가드 오퍼레이터로서 신세 좀 질게. 잘 부탁해, 박사.
 
-	看完后不用写心得吗？
 	感想文は書かなくて良いかしら？
 	No report after viewing?
 	감상문은 안 써도 괜찮아?
 
-	晋升勋章？很精致的饰品，我会好好保管它的。
 	これがエリートメダル？なかなか綺麗ね、大切にするわ。
 	Promotion medal? It's exquisite, I shall keep it safe.
 	이게 정예 메달이야? 꽤 예쁘네, 소중히 간직할게.
 
-	群星闪耀，见证过往。
 	群星の煌めきが、過去の証人となる。
 	Stars are witnesses to the past.
 	수많은 별의 반짝임이 과거의 증인이 된다.
 
-	我在这里，博士。
 	任せて、ドクター。
 	I'm over here, Doctor.
 	맡겨줘, 박사.
 
-	让我成为众人的星光吧。
 	私が皆を導く星となる。
 	Let me be the guiding star for all.
 	내가 모두를 이끄는 별이 되겠어.
 
-	我明白，已经没有回旋的余地了。
 	もう引き返せないのね。わかってるわ。
 	I know there's no turning back.
 	이제 되돌아갈 수 없구나. 알고 있어.
 
-	群星为我们照亮前路。
 	星が私たちの進む道を照らしてくれるわ。
 	The stars will light our way.
 	별이 우리가 나아갈 길을 비춰줄 거야.
 
-	我准备好了。
 	準備はできているわ。
 	Ready to move.
 	준비는 되어 있어.
 
-	该我了吗，博士。
 	私の出番かしら。
 	Is it my turn, Doctor?
 	내가 나갈 차례야?
 
-	别慌，星极，像平常那样来就行。
 	アステシア、落ち着いて、いつも通りにやればいい。
 	Don't panic, Astesia. Do it like you usually do.
 	아스테시아, 침착하게 평소대로 하면 돼.
 
-	该证明自己了。
 	自分を証明してみせるわ。
 	Time to prove myself.
 	나를 증명해 보이겠어.
 
-	敦实的坚牛，同我一起守护。
 	フォルフェスト！私たちの盾となれ。
 	Defend with me, steadfast Taurus.
 	포르페스트! 우리의 방패가 되어라.
 
-	游禽翱翔星海，借您羽翼一用！
 	フレリーベ！翼を貸して！
 	Lend me your wings, birds among the stars!
 	프리리베! 날개를 빌려줘!
 
-	悍蛟已至，还想挣脱么。
 	アグリーヴル！逃さないわ。
 	It is futile for you to struggle.
 	아그리브르! 놓치지 않을 거야.
 
-	我之剑光，即为星光！
 	この剣の輝きは、星の煌めき！
 	The light of stars shall be my blade!
 	이 검의 반짝임은 별의 반짝임!
 
-	这就是，星辰都无法昭示的，“我们”的力量......
 	これが星にすら予測できない「私たち」の力よ……。
 	This is 'our' power, unreproducible even by the stars...
 	이게 별조차 예측할 수 없는 '우리'의 힘이야……
 
-	辛苦了博士，早早休息吧。
 	ドクター、お疲れ様。帰ってしっかり休みましょ。
 	Fantastic effort, Doctor. You should turn in early.
 	박사, 수고했어. 돌아가서 푹 쉬자.
 
-	如果我再加把劲，结果能变得更好吗？
 	もっと努力していれば、結果も変わっていたかしら……？
 	Will the result improve if I put in more effort?
 	더 노력했다면 결과도 달라졌을까……?
 
-	好累......但是，还不能倒下......
 	力が入らない……でも、まだ倒れるわけには……。
 	I'm very tired, but it's not time to quit yet...
 	힘이 안 들어가…… 하지만 아직 쓰러질 수는……
 
-	我看看，家具的摆放......嗯，没有问题，并不会招来奇怪的东西。
 	家具の向きは……大丈夫そうね。悪いものを引き寄せることはなさそうだわ。
 	Let me see... No, how the furniture are arranged won't attract any unwanted spirits.
 	가구의 방향은…… 괜찮은 것 같네. 나쁜 것을 끌어당기는 일은 없을 것 같아.
 
-	等，等等！
 	ちょ、ちょっと！
 	Wait, hold it!
 	자, 잠깐!
 
-	怎，怎么了，我脸上有什么吗？
 	な、なに？私の顔に何かついてるの？
 	Why, is there something on my face?
 	뭐, 뭐야? 내 얼굴에 뭐가 묻었어?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早安，博士。
 	おはよう、ドクター。
 	Good morning, Doctor.
 	안녕, 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】星极
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】7月10日
+	【种族】黎博利
+	【身高】165cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】アステシア
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】7月10日
+	【種族】リーベリ
+	【身長】165cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Astesia
+	[Gender] Female
+	[Combat Experience] No combat experience
+	[Place of Birth] Columbia
+	[Date of Birth] July 10
+	[Race] Liberi
+	[Height] 165cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 아스테시아
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 컬럼비아
+	[생일] 7월 10일
+	[종족] 리베리
+	[신장] 165cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skills] Standard
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	干员星极，哥伦比亚某神秘学组织的会员，经由合作协议被派驻至莱茵生命，职位为文献学顾问。由于共发性矿石病与妹妹一起来到罗德岛，在进行矿石病治疗期间通过测试成为干员 。可使用独特的剑技，对近战目标造成类似法术的攻击效果。
+
+	個人履歴 :
+	クルビアの某神秘学組織の会員。文献学顧問として、ライン生命と派遣契約を結んでいる。共発性鉱石病の治療のため妹を連れてロドスを訪れ、治療の傍ら加入テストに合格しオペレーターとなった。彼女の独特な剣技は、接近戦の相手にアーツ攻撃に似たようなダメージを与える。
+
+	Profile :
+	Astesia is a member of a Columbian occult organization, serving as a philology consultant for Rhine Lab as part of a cooperation agreement. After contracting Oripathy, she and her sister came to Rhodes Island for treatment, where she qualified to become an operator. She uses unique sword skills to execute close range Arts attacks.
+
+	프로필 :
+	    어느 신비학 조직의 회원인 오퍼레이터 아스테시아는 협력 계약을 통해 라인 생명연구소에 파견되었으며, 문헌학 고문을 맡고 있다. 공발성 광석병으로 인해 여동생과 함께 로도스 아일랜드에 오게 되었으며, 광석병 치료를 진행하는 도중 테스트를 거쳐 오퍼레이터가 되었다. 독특한 검술을 구사해 근접 목표에게 아츠와 유사한 공격을 시전할 수 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】4%
+	干员星极右小腿接近脚踝处有感染痕迹。
+	
+	【血液源石结晶密度】0.2u/L
+	仅有轻微感染，体表尚未生成源石。
+	
+	经调查，该干员的矿石病形成特殊，属于稀少案例，建议相关医疗干员定期对其进行诊疗。另，出于综合考量，严禁部分医师接触此干员档案或参加此干员诊疗。——凯尔希
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】4%
+	右下腿部外踝付近に感染の兆候あり。
+	
+	【血液中源石密度】0.2u/L
+	感染は軽微で、体表には源石が現れていない。
+	
+	調査の結果、当該オペレーターの鉱石病は特殊で稀少なケースであることが判明したため、関連する医療オペレーターは定期的に彼女の診療を実施すること。また、総合的な判断により、一部医療オペレーターによる個人記録の閲覧及び診療への参加を禁じる。――ケルシー
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct with abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Assimilation] 4%
+	Astesia's lower right ankle shows signs of infection.
+	
+	[Blood Originium-Crystal Density] 0.2u/L
+	Patient has an early stage infection at this point. Originium Crystals have not yet appeared on the surface of her body.
+	
+	Thorough investigation reveals that this operator's expression of Oripathy is special, with very few similar cases. It is recommended that qualified medics perform treatment on a regular basis. Additionally, considering the bigger picture, Warfarin is strictly forbidden from accessing this operator's file and from participating in this operator's treatment. --Kal'tsit
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로써는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 4%
+	오퍼레이터 아스테시아의 오른쪽 다리의 복사뼈 부근에 감염 흔적 있음
+	
+	[혈중 오리지늄 결정 밀도] 0.2u/L
+	아주 가벼운 감염 증상 확인, 체표면에 오리지늄 결정 없음.
+	
+	    조사 결과, 본 오퍼레이터의 광석병 증상은 매우 특이하여 희귀 케이스에 속하니, 담당 메딕 오퍼레이터의 정기적 진료를 권고함. 또한, 종합적 고려에 따라 일부 의사의 본 오퍼레이터 관련 파일 열람 또는 진료 참여를 엄격히 금함. ——켈시
+
+———————————————————————————————
+
+	档案资料一 :
+	星极的家族有着神秘学的传承，专精星象。因此星极许久以前就获得了某神秘学组织的会员身份，在该组织与莱茵生命的合作协议下，她被授予顾问职务，负责一些双方交流的事项与文献学相关的工作。当然了，在闲暇时刻，星极会用自己真正精通的知识开导一些对未来抱有疑惑的莱茵生命同事，久而久之，在一些人眼中，星极就成为专职提供占星与其他神秘学上建议的人士了。其实，很少有人知道，莱茵与组织间的合约本身就由星极一手促成，而影响她做出这一决定的最大因素，在于她入职莱茵生命的妹妹：埃琳娜。
+
+	第一資料 :
+	アステシアの一族は神秘学の名門で、星象を専門としている。そのため彼女は早い段階から某神秘学組織会員の資格を有しており、組織とライン生命の契約に基づき、双方の交流にともなう業務と文献学顧問の役割を任されている。空き時間に得意の占星術を活用しライン生命の同僚の相談に乗ることも多かったため、一部の者たちからは、占星術やそれ以外の神秘学を用いてアドバイスをすることが本職になっていると認識されている。知る者こそ少ないが、ライン生命と彼女の所属する組織の契約は、アステシア本人が推し進めたものであり、それに至った一番の要因は、ライン生命に入職した彼女の妹「エレナ」にあるという。
+
+	Archive File 1 :
+	Astesia's family has a long history of occult study, with particularly notable skill in astrology. So it's only natural she was invited to join an occult society long ago. That group entered into a cooperation agreement with Rhine Lab, who then took her on as a consultant responsible for facilitating communication and various philology-related projects. In her free time, Astesia uses her own talents and knowledge to enlighten those more skeptical Rhine Lab colleagues. Over time, Astesia has become something of a professional astrologer and master of other occult arts. One fact known only to a few: the agreement between Astesia's occult society and Rhine Lab was of her own making, and due to one very important thing: her younger sister Elena, who works for Rhine Lab.
+
+	파일 자료 1 :
+	    아스테시아의 가문은 신비학을 계승하여 점성술에 정통했다. 때문에 아스테시아는 일찍이 어느 신비학 조직의 회원 자격을 획득하였고, 해당 조직과 라인 생명연구소의 협의하에 고문 직위를 부여받아, 양측의 소통 사항과 문헌학 관련 업무를 처리하였다. 물론 아스테시아는 틈틈이 자신이 진정으로 정통한 지식을 활용하여, 미래에 대해 의문을 품고 있는 라인 생명연구소 동료들에게 가르침을 베풀기도 하였다. 어느 정도의 시간이 지난 후, 일부 사람들 사이에서는 아스테시아가 전문적으로 점성술 및 기타 신비학 관련 아이디어를 제공해주는 인물로 통하게 되었다.  사실 라인 생명연구소와 조직 간의 협약은 본래 아스테시아가 손을 써서 신속히 성사시킨 것으로, 그녀가 이런 결정을 내리는데 가장 큰 영향을 끼친 요소는 바로 라인 생명연구소에 입사한 여동생 엘레나다.
+
+———————————————————————————————
+
+	档案资料二 :
+	占星是最古老的占卜形式之一，和所有的占卜术一样，据说有可能知晓古今，甚至可以窥探未来。星极将自己的大部分时间都耗费在了这门技艺上，对其自然有着自己的认知与自负。然而，在面对矿石病时，她毕生的技巧似乎起不到任何作用——她没预见到自己的妹妹会在实验事故中感染，也没意料到自己会因为与双胞胎妹妹接触而染病。从那一刻起，她自认规划周全的未来，被命运砸得粉碎。在她眼中，自己的未来本该如正午阳光般耀眼，只是，当她再次窥探那份美好时，曾经的景象，早已变得模糊不堪。
+
+	第二資料 :
+	占星術は最も原始的な占いの手法の一つで、他の占いと同じように、過去を知り、未来までをも見通すことができるとされている。アステシアはほとんどの時間をその技術を磨く事に費やしており、自然と自身の見解や自負を身に着けたのだった。しかし、鉱石病相手には、彼女の技術は何の役にも立たなかった――双子の妹が実験の事故で感染することだけでなく、妹との接触により自分が感染することも予測できなかったのだ。その瞬間、彼女が周到に描いていた未来は、全て命運のいたずらによって打ち砕かれてしまった。彼女からすれば、自分の未来は真昼の太陽のように輝かしいものであったはずだが、その輝かしさを再び探り見たときには、過去の景色はすでにおぼろげになってしまっていた。
+
+	Archive File 2 :
+	Astrology is one of the oldest forms of divination. Like all divination arts, it gives insight into the present and can even provide a peek at the future. Astesia spent most of her time studying astrology, accepting its lessons and its burden of responsibility. So when she came face to face with Oripathy, she was frustrated to find this ancient art was of no use. She failed to divine that her own sister would contract the disease in an accident during an experiment, nor did she see that she herself would be infected during contact with that same twin sister. In that moment, all the plans she had laid for her future were smashed to pieces by the cruelty of fate. What she had seen as a shining future as bright as the midday sun was now too cloudy to accurately divine.
+
+	파일 자료 2 :
+	    점성술은 가장 오래된 점술 중의 하나로, 모든 점술과 마찬가지로 과거를 알아보거나, 심지어 미래까지도 볼 수 있다고 한다. 아스테시아는 대부분의 시간을 이 기예에 쏟아붓고 있어, 자연스레 이 분야에 대한 자신만의 인지와 자부심을 가지게 되었다. 그러나, 광석병 문제에 직면하였을 때 아스테시아의 이 특기는 거의 아무런 도움도 되지 못하였다. 아스테시아는 자신의 여동생이 실험 사고 때문에 감염될 것이란 사실, 그리고 여동생과 접촉함으로 인해 자신마저 감염될 것이란 사실도 전혀 예측하지 못한 것이다. 이때부터 아스테시아가 완벽히 계획하였던 미래는, 운명에 의해 산산조각이 났다. 그녀에게 있어서 자신의 미래는 본래 정오의 태양빛처럼 눈부신 것이었으나, 그녀가 다시 한번 그 아름다운 때를 엿보았을 때, 과거의 그 장면은 이미 매우 흐릿하게 변해버렸다.
+
+———————————————————————————————
+
+	档案资料三 :
+	星极与妹妹很快被送到了罗德岛进行治疗，根据诊断，矿石病已然成型，程度较轻，不会对人体造成太多伤害。但这件事对她精神上的创伤比想象中更为严重，而且对于星空的疑虑，似乎直接影响到了她引以为傲的力量。为了调养和治疗，星极接受了妹妹的建议，共同加入了罗德岛。
+	星极擅长用剑，事实上，星极的家族中有一套仪式性的用剑仪轨流传下来，一手持天球仪，一手执源石剑，进退之间，群星的幻象忽隐忽现。这套剑仪兼具剑术、星空学识和源石技艺三方面，只有将其融汇贯通的人才能使用。她之前从未踏上过战场，但凭借这份力量，她相信自己能够承担起作为一名近卫的职责。
+
+	第三資料 :
+	アステシアと妹は感染後間もなくロドスに送られ治療を受けた。診断によると、鉱石病はすでに形を成してはいるものの、比較的軽度ですぐに人体に大きな影響を及ぼすほどではなかったという。しかしそれによる心の傷は想像よりも大きく、星空に対する疑念の心は、彼女の能力にも影響を及ぼしたようであった。休養と治療のため、アステシアは妹のアドバイスに従い、共にロドスに加入する運びとなった。
+	アステシアは剣の扱いに秀でているが、それは彼女の一族に伝わる儀式用の剣技を、彼女もまた受け継いでいるからである。天球儀と源石剣を両手にそれぞれ掲げる独特な様式で、剣技を行使すると星の幻影が見え隠れするものである。この剣技は剣術の腕前だけではなく、星象学とアーツにも精通し、それらを合わせて行使できる者だけが扱えるという。彼女は戦場に立った経験はないが、この力があれば、自分も前衛オペレーターとしての職責を果たすことができると確信している。
+
+	Archive File 3 :
+	Astesia and her sister were quickly taken to Rhodes Island for treatment. Diagnosis showed that while Oripathy had indeed manifested, it was still in early stages, and had not yet caused much damage to their bodies. The psychological damage to Astesia, however, had been quite severe. She began to doubt the stars themselves, and no longer had faith in the abilities she was once so proud of. During the course of treatment, Astesia took her sister's advice to join Rhodes Island.
+	Astesia is quite skilled with a sword. Her family has passed down a form of ceremonial swordplay: a ritual in which one hand holds a celestial orb, while the other holds an originium sword. The dazzling process of advancing, retreating, parrying, and riposting with these items creates the illusion of a starry sky fading in and out of view. This unique style of swordplay combines fencing, astronomy, and originium Arts into a form usable only by those capable of mastering all three disciplines. She has never before set foot on the battlefield, but with her unique skillset, she is confident she can serve as an effective Guard.
+
+	파일 자료 3 :
+	    아스테시아와 여동생은 신속히 로도스 아일랜드로 이송되어 치료를 진행하였다. 진단에 의하면, 이미 광석병의 증상이 뚜렷하였으나 정도는 비교적 가벼워, 신체에 큰 손상을 주지는 않을 것으로 판단하였다. 다만, 이 사건은 아스테시아에게 생각보다 심각한 정신적인 상처를 주었고, 별에 대한 의구심이 그녀가 자랑스러워하는 힘에 직접적인 영향을 끼친 것으로 보인다. 몸조리와 치료를 위해 아스테시아는 여동생의 제안대로 그녀와 함께 로도스 아일랜드에 합류하였다.
+	    아스테시아는 검을 능숙하게 다룰 수 있었는데, 이는 아스테시아의 가문에 내려오는 의식의 영향 때문이었다. 한 손에는 천구를, 다른 한 손에는 오리지늄 검을 들고 치르는 이 의식은, 행해지는 도중 군성의 환영이 나타났다 사라졌다를 반복한다고 한다. 이 의식은 검술, 천문학적 지식과 오리지늄 아츠, 이 세 방면에 대한 능력을 겸비함은 물론, 이들을 완전히 이해하고 융합한 자만이 집행할 수 있는 것이다. 아스테시아는 비록 전장에 나선 경험은 없었으나, 이 능력의 힘을 빌려 자신이 가드로서의 역할을 충분히 해낼 수 있으리라 믿고 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	“我们对星极的力量进行了测试，结果显示，她的能力实质上还是一种源石技艺，能够被大多数仪器监测并辨识。只是其展现的方式，和大多数源石技艺不太一致。正如我们所知，星象学与源石技艺方面的联系并不紧密，但近代史上赫赫有名的星象学家，似乎都有着一定程度的源石技艺且表现形式与天体紧密相连。没有任何证据表明这些星象学家与天体有任何直接或间接的联系，据我们推测，出现这种与天体相关的源石表现手法，只是为了更好的令普通人信服、尊敬他们所致，一旦没有这些技巧辅助，大多数人都会转而相信科学解释而非基于星象学的推论。
+	回到星极的问题上，据她口述，她有明显地感到自己的力量正在消退，据我们观察后得出的结论，原因在于感染矿石病后，其原本拥有的源石技艺受到了影响。这种影响会持续很久，且最终结果尚无法定论，对星极本人而言是好是坏，还需要进一步的观察和研究才能得出结论，汇报完毕。”
+	
+	————医疗部某干员呈递凯尔希主医师的报告
+	
+	
+	“观星的理论意义是存在的，但这和现代科技并无关联。能看见星星的日子终归远去了，现在的星星就连闪烁都让人刺痛。”
+	
+	————似乎是属于凯尔希医生的笔迹
+
+	第四資料 :
+	「アステシアの能力に関するテストを行ったところ、彼女の能力は実質一種のアーツであると、多くの計測器が示していました。ただその展開する形が、一般的なアーツとは若干異なるところがあります。我々の知る限りでは、星象学とアーツの間に特に深いつながりはありませんが、近代史に名を残す星象学者は、皆ある程度のアーツを扱え、それらの展開する形には天体が深く関わっていたそうです。星象学者と天体の間に直接または間接的なつながりがあったという証拠はありませんが、天体に関係するアーツの形が取られたのは、一般人に彼らのことをより信じ込ませ、尊敬を得るためのものだったのではないかと推測されます。このような技巧がなければ、ほとんどの人は星象学に基づく推論ではなく、科学的根拠のある解釈に目を向けるでしょうから。
+	アステシア本人の話題に戻りましょう。彼女の口述によると、彼女自身も自分の力が弱まってきていると感じているそうです。我々が彼女を観察し、導き出した結論として、その原因は鉱石病によって天性のアーツ能力が影響を受けたためと考えられます。この影響は今後も長期間に渡り、最後にどうなるかも今のところは予測できません。それが本人にとって良いことか否かは、さらなる観察と研究を行わないことには結論は出せないでしょう。報告は以上になります。」
+	
+	――医療部某オペレーターがケルシー医師に提出した報告書より
+	
+	「星象学の理論に意義はある。しかしそれを現代の科学技術に関連付けることはできない。星を眺められる日々はもう遥か遠くのものだ。今の星を見ていると、その輝きにすら痛みを覚えるほどだ。」
+	
+	――ケルシー医師のものと思われる書き残し
+
+	Archive File 4 :
+	'Over the course of our tests of Astesia's powers, one thing has become clear: her abilities are indeed an expression of originium Arts, as is clear from the readings on most of our instruments. And yet this expression remains quite different from most originium Arts. As far as we know, the connection between astrology and originium Arts is very weak, despite most illustrious astrologers in recent years all agreeing with a level of certainty on a close link between the expression of originium Arts and the celestial bodies. At this point we still have no evidence to support a direct or indirect connection, but we speculate that the emergence of these originium Arts that appear to be linked to the celestial bodies will further convince the common people of these beliefs. Were it not for these techniques, most people would likely return to the scientific explanations for originium Arts, turning away from astrology.
+	Back to Astesia, she has reported that she feels her own abilities are weakening. Our observations show that contracting Oripathy has had an effect on the originium Arts she already possessed. These effects will persist for quite some time, but we cannot say what the outcome will be, and whether it will be good or bad for Astesia. We need more time for observation and research. End of report.'
+	
+	----A medic operator's report to Dr. Kal'tsit
+	
+	
+	'There is theoretical value in this stargazing idea, but it has no practical application in modern science. The days when we could see the stars are long gone, and every twinkle of starlight we do get is like a stab in the gut.'
+	
+	---Appears to be Dr. Kal'tsit's handwriting.
+
+	파일 자료 4 :
+	    "우리는 아스테시아의 힘에 대한 테스트를 진행하였고, 실질적으로 그녀의 능력이 대부분의 측정 도구에 의해 검측 및 식별 가능한 오리지늄 아츠의 일종임을 확인할 수 있었다. 다른 오리지늄 아츠와 이것의 차이점은 어느 정도 시전 방식에 차이가 있다는 것뿐이었다. 우리가 알고 있는 대로, 성상학과 오리지늄 아츠 방면 간의 관계가 그렇게 밀접하지는 않으나, 근대사에 명성을 떨친 성상학자들을 보면 모두 일정 수준의 오리지늄 아츠 능력과 구현 방식을 익혔으며, 이들과 천체 간에 밀접한 관련이 있는 것을 알 수 있다. 이 유명한 성상학자들이 천체와 어떤 직간접적 관계가 있는지를 표명할 수 있는 증거는 없으나, 우리의 추측에 의하면 이런 천체와 관련된 오리지늄 구현 방법이 나타난 것은, 단지 좀더 쉽게 일반인들로 하여금 자신들을 존경하고 믿도록하게 하기 위한 수단이었을 뿐이라 판단하고 있다. 이런 기교를 보여주지 않는다면, 대부분의 사람들은 성상학 보다는 과학에 기반한 추론을 더 신뢰할 것이기 때문이다.
+	    아스테시아 본인은 현재 자신의 힘이 쇠퇴하고 있다는 느낌을 받고 있다고 하는데, 우리는 관찰을 통해 그녀가 원래 지니고 있던 오리지늄 아츠가 광석병의 영향을 받고 있음을 확인하였다. 이런 영향은 오랜 시간 지속될 것이며, 아직은 마지막에 어떤 결과가 나타날지 확답을 내릴 수 없는 상태다. 아스테시아 본인에게 좋은 것인지 나쁜 것인지 결론을 내리기 위해서는 아직 좀 더 관찰과 연구가 필요하다. 보고 완료."
+	
+	————의료부의 한 오퍼레이터가 닥터 켈시에게 보고한 내용.
+	
+	
+	    "점성술은 이론적으로는 의미가 있으나, 이것과 현대 과학은 전혀 관련이 없다. 별을 볼 수 있는 날이 사라져가니, 현재의 별이 반짝이는 것 만으로 마음이 아파지는 것이다."
+	
+	————닥터 켈시의 필적으로 추정.
+
+———————————————————————————————
+
+	晋升记录 :
+	【匿名频道段落节选——星极篇】
+	“星极姐姐给人占卜的时候身边会出现很多星星，很好看，坐着看一天都不会腻。”
+	
+	“我之前有问过她为什么占卜这么灵验，她和我说，其实只是我运气好没有遇上她占错的时候，唔，所有占卜师都是像她这么会说话的吗？”
+	
+	“之前去练习室和星极练剑的时候以为她那一身全是累赘。我错了......她明显是练过的！”
+	
+	“她的源石表现手法，怎么说呢，能自然拉近和他人之间的距离，再加上那善于洞察别人的双眼......我这个人一向是不太相信占卜什么的。但她的确有那种，看透他人的魔力。”
+	
+	“听说华法琳因为抓不到星极已经有点气急败坏了，是不是真的啊，这也太神了。”
+	
+	“她的占星术和芬芳疗法很合得来喔，有空的话想请她多去疗养庭院坐坐。”
+	
+	“到底是怎么做到的啊，我也想让自己的源石技艺和她一样漂亮！”
+	
+	“姐姐就是个石头脑袋！”
+
+	昇進記録 :
+	【匿名チャンネルコメントまとめ――アステシア編】
+	
+	「アステシアお姉ちゃんが占う時は、周りにたくさん星が見えるんです。すごくきれいで、一日中見ていても飽きません。」
+	
+	「なんであんなに当たるか聞いてみたんだけど、俺の運がいいだけで、たまたま占い通りにいっただけだって言われたよ。うーん、占い師ってヤツはみんなあんなに話がうまいのか？」
+	
+	「前に訓練室でアステシアと剣の稽古をしに行った時、最初はあの格好は絶対邪魔になると思ったのに、全く違った……あれはどう見ても訓練を積んできた者の動きだ！」
+	
+	「彼女のアーツはなんというか、自然に相手との距離を近づけるというか、そしてあの観察眼……私は占いなんて信じたことはありませんが、彼女には確かに、相手を見通す力というものがあるように感じます。」
+	
+	「ワルファリンがアステシアになかなか会わせてもらえないからってついにキレたって。まじかよ、面白いことになってんな。」
+	
+	「彼女の占星術はアロマテラピーと相性がいいらしいわね。時間がある時には療養庭園に寄ってもらえたらいいな。」
+	
+	「一体どうやってやってるのかな。あたしのアーツもあんなふうに綺麗にできたらいいのに！」
+	
+	「お姉ちゃんの石頭！」
+
+	Promotion Record :
+	[Excerpts from an anonymous communication channel -- Regarding Astesia] 
+	'Getting a reading from Astesia is great. You're surrounded by all these pretty stars. I could sit there all day.'
+	
+	'I asked her once how her readings are always so accurate. She said she's just been lucky enough not to run into anyone she read wrong yet. Hm. Is that what all fortune tellers say?'
+	
+	'The first time I went to train with Astesia, I thought she was gonna float like a ton of bricks. Boy was I wrong... she's definitely trained before!'
+	
+	'Her fighting style, what can I even say about it, she closes the distance with you, then pierces you with those eyes that see straight into your soul... I'm not the kind of person who thinks much of fortune telling, but she definitely has something going on in there.'
+	
+	'I heard Warfarin's all in a huff since she can't get her hands on Astesia? Is that true? Wild.'
+	
+	'Her astrology reading pairs well with aromatherapy. I'd like to get her to spend some more time in the Convalescence Garden.'
+	
+	'How does she do it? How can I make my originium Arts look as pretty as hers?!'
+	
+	'My sister's dumb as a sack of hammers!'
+
+	승진 기록 :
+	    [익명 채널 단락 발췌——아스테시아 편]
+	    "아스테시아 씨가 점을 봐줄 때면 몸 주변에 수많은 별들이 나타나는데, 앉은 채로 하루종일 보아도 지겹지 않을 정도로 너무 아름다워."
+	
+	    "예전에 그녀에게 점이 어쩜 그렇게 신통하냐고 물어본 적이 있었는데, 사실 자신은 운이 좋아서 점성술이 틀린 경우를 아직 맞닥뜨리지 못했을 뿐이라고 하더군. 점술사들은 원래 이렇게 다 말을 잘하나?"
+	
+	    "과거 훈련실에서 아스테시아와 검술 훈련을 할 때, 난 그녀의 몸이 분명 굼뜰 거라 생각했어. 내가 틀렸지…… 분명히 훈련을 받은 검술 실력이었다고!"
+	
+	    "그녀의 오리지늄 아츠 구현 방식은, 어떻게 말해야 할까, 상대방과의 거리를 자연스럽게 좁히고, 다른 사람의 눈빛을 읽어내는데도 능한… 난 점술 같은 건 안 믿거든? 근데… 그녀는 확실히 다른 사람을 꿰뚫어보는 마력 같은 게 있어."
+	
+	    "듣자 하니 와파린이 아스테시아를 잡지 못해서 벌써부터 안절부절못하고 있다던데, 진짜인가? 참 신기하군."
+	
+	    "아스테시아 씨의 점성술과 아로마 테라피는 정말 잘 어울려요. 시간이 된다면 아스테시아 씨를 요양 정원으로 초대하고 싶네요."
+	
+	    "대체 어떻게 한 거야? 나도 내 아츠를 그 여자 것처럼 아름답게 만들고 싶다고!"
+	
+	    "언니는 정말 돌머리라니까!"

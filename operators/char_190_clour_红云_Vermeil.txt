@@ -1,11 +1,17 @@
 ID:
 	char_190_clour
 
-干员代号\Name:
+CV:
 	红云
 	ヴァーミル
 	Vermeil
 	버메일
+
+干员代号\Name:
+	斋藤彩夏
+	齋藤彩夏
+	Ayaka Saitō
+	사이토 아야카
 
 招聘合同\Character Usage:
 	叙拉古猎人红云，荒野昭示着猎物的方向。
@@ -43,177 +49,376 @@ ID:
 	더블 샷
 
 语音\Voices:
-	你叫我来，是有新的狩猎任务吗？哦，没有吗......
 	オレを呼んだってことは新しい任務だな？なんだよ、違うのか…。
 	Did you call me here for a new hunt? Oh, not quite...?
 	나를 불렀다는 건 새 임무가 있다는 거지? 뭐야, 아닌가……
 
-	这个爪形吊坠？是我的复仇的纪念品，那些伤害过我同伴的乌萨斯佣兵会把类似的东西当成狗牌，所以我才不会认错他们。
 	この爪形の首飾りか？これはオレの復讐の記念品だ。オレの仲間を奪ったウルサスの傭兵共がこれをドッグタグ代わりに身に着けていてな、奴らを絶対に見間違わないようにってオレも持ってんだ。
 	This claw pendant? It's a symbol of my vengeance. Those Ursus mercenaries who harmed my companions treat these things as dogtags, so there's no mistaking them.
 	이 발톱 모양 목걸이? 이건 내 복수의 기념품이야. 내 동료를 앗아간 우르수스 용병들이 이걸 군번줄 대신 몸에 달고 다니더군. 녀석들을 절대로 착각하지 않도록 나도 갖고 있는 거야.
 
-	我的左手是在一次狩猎中被野兽撕碎的，幸好一位机械师帮我制作了义肢，我才能重新拉动弓弦。
 	オレの左腕は狩りの最中に野獣に引きちぎられちまったんだ。だが、運がいいことにある機械師が義手を作ってくれてな。おかげで今もこうして弓を引けてるってわけさ。
 	I lost my left hand to a beast that I was hunting. Luckily, a mechanic helped make me a prosthetic limb so that I can draw my bowstring again.
 	내 왼팔은 사냥 도중에 야수한테 뜯겨버렸어. 하지만 운 좋게도 어떤 기계공이 의수를 만들어 줬거든. 덕분에 지금도 이렇게 활을 쏠 수 있는 거지.
 
-	若是以前，我绝对会把嘲讽我伤痕的家伙一箭一箭地射成筛子！不过现在......呵，为了那种人动手，真是一点都不值得。
 	昔はオレの傷跡をあざ笑う奴がいれば絶対針山にしてやってたが……今は、そんな奴には手を出す価値もないんだってわかったよ。
-	The old me would’ve turned anyone who dared to mock my scars into a pincushion, one arrow at a time! But now? Well, people like those aren’t worth the effort.
+	The old me would've turned anyone who dared to mock my scars into a pincushion, one arrow at a time! But now? Well, people like those aren't worth the effort.
 	옛날엔 내 흉터를 비웃는 녀석이 있으면 반드시 고슴도치로 만들어 줬는데…… 지금은 그런 녀석한테는 손을 쓸 가치도 없다는 걸 깨달았어.
 
-	若是有实在难以决断的事就凭直觉去选择，身体是不会骗人的，这可是资深猎手的经验。
 	決断が難しい時は直感で決めちまえばいい。自分の身体は嘘をつかねぇからな。ハンターの経験則ってやつだ。
 	If you're ever facing a difficult decision, let your instincts decide for you, and your body will not lie. This is the experience I've had as an expert hunter.
 	결단을 내리기 어려울 때는 직감으로 정해버리면 돼. 자기 몸은 거짓말을 안 하니까. 사냥꾼의 경험칙이라는 거지.
 
-	自从同伴们逝去之后，我一个人生活很久了，所以这种每天都要和人打交道的日子，我还不太适应......但既然你给了我充分的信任，任用我，那我一定得回报你。
 	同胞たちがみんな逝っちまって、一人きりで生活をするようになって長い。だから、今みたいに毎日誰かと接するのにはまだ慣れないんだ……でもあんたはオレのことを信頼してくれてるから、それには絶対応えてみせるぜ。
 	I've been living alone ever since my companions passed away, so I'm still getting used to being surrounded by people... But since you've given me your trust and depend on me, I swear I'll return the favor.
 	동포들이 모두 죽어버려서 혼자서 생활한 지 꽤 됐거든. 그래서 지금처럼 매일 누군가와 접하는 건 아직 익숙하지 않아…… 하지만 넌 나를 신뢰해 주니까, 거기엔 반드시 보답할게.
 
-	呃，义肢手指好像被小石子卡住了？讨厌，得去找机械师调整一下......不、不用你帮忙，我一个人也能行！
 	うっ、指の関節に小石が入り込んじまったみたい。ちっ、機械師に見てもらわないとな……だ、大丈夫だって、オレ一人でどうにかなる！
 	Ehh, it seems like a pebble got stuck in my prosthetic finger...? What a pain, looks like I'm going to have to find a mechanic to fix it up... N-no, I don't need your help, I can handle this by myself!
 	윽, 손가락 관절에 돌멩이가 들어갔나 봐. 쳇, 기계공한테 봐달라고 해야겠네…… 괘, 괜찮다니까, 나 혼자 해결할 수 있어!
 
-	你说，今后不会让我再失去同伴了？哼，是不是在说大话，我可是要亲眼见证的！
 	「もう同胞を失うことはない」って？ふん、でかい口を叩くのはいいが、この目で確かめるまで信じねぇから覚悟しとけよ！
 	You'll make sure I won't ever lose any more companions? Hmph. Big words, but let's see you back it up!
 	"이제 동포를 잃을 일은 없다"고? 흥, 큰소리치는 건 좋지만, 내 눈으로 직접 확인할 때까진 못 믿으니까 각오해 둬!
 
-	这里的医生说可以抹去我身上新添的伤疤，但我拒绝了。我要留着它们，因为这是为你战斗时留下的......你，能明白我的意思吗？
 	ここの医者にかかれば最近の傷跡ならキレイに取っちまえるらしいが、断っといた。あんたのために戦ってできた傷跡は残しておきたいんだ……オレの言ってる意味、わかるか？
 	The doctors here offered to get rid of my more recent scars, but I refused. I want to keep them, because they're a proof of my service here... You, you understand what I'm getting at?
 	여기 의사라면 요즘 생긴 흉터는 깨끗하게 없앨 수 있다던데, 거절했어. 널 위해 싸우다 생긴 흉터는 남겨두고 싶거든…… 내가 하는 말, 무슨 뜻인지 알겠어?
 
-	睡着了？这个人什么场合都睡得着吗？这种体质倒是挺像我们猎人的......
 	寝てんのか？……こいつはどんな状況でも寝れるんだな。ハンターにゃ向いてるかもな……。
 	You're asleep? Can you fall asleep just about anywhere? Well, that's a trait that many of us hunters share...
 	자는 거야? ……이 녀석은 어떤 상황에서도 잠이 드는구나. 사냥꾼이 체질일지도 모르겠는데…….
 
-	红云，猎人。给我工作吧，你不会失望的。
 	ヴァーミル、ハンターだ。オレに仕事をくれ、失望はさせねぇからさ。
 	Vermeil, hunter. You won't regret giving work to me.
 	버메일, 사냥꾼이야. 나에게 일을 줘. 실망은 시키지 않을 테니까.
 
-	还可以观看更多一些吗？
 	もっとたくさん見せてくれるか？
 	Can I take another look at that?
 	더 많이 보여주겠어?
 
-	谢谢你，可......让我这样的人晋升，真的没问题吗？
 	ありがてぇが……これでいいのか？オレみたいなのを昇進させて。
 	Thank you, but... are you sure you're fine with promoting someone like me?
 	고맙기는 한데…… 이래도 돼? 나 같은 걸 승진시켜도.
 
-	矿石病也好，剩下的生命也好，已经全都无所谓了。现在让我最快乐的事，不就是和你一起并肩作战吗？
 	鉱石病とか、残りの寿命とか、もうどうでもいいんだ。今のオレが一番楽しいと思えるのは、あんたと肩を並べて戦うことだからな。
 	I don't really care about stuff like Oripathy or 'the rest of my life.' Right now, what could make me happier than being able to fight by your side on the battlefield?
 	광석병이나 남은 수명 같은 건 이제 아무래도 상관없어. 지금의 나에게 가장 즐거운 건 너와 어깨를 나란히 하고 싸우는 거니까.
 
-	来了。
 	任せろ。
 	They are coming.
 	맡겨둬.
 
-	要我当队长？我......真的合适吗？
 	隊長をオレに任せるだと？オレに……できるか？
 	You want me to be the captain? Am I... really cut out for the job?
 	대장을 나한테 맡긴다고? 내가…… 할 수 있을까?
 
-	大捕猎，即将开幕！
 	ワイルドハントを始めようぜ！
 	The big game hunting is about to start!
 	와일드 헌트를 시작하자!
 
-	踏入陷阱的你们，还没明白自己的处境吗？
 	お前らはもう罠の中だ。まだ気付かねぇのか？
 	Those who have fallen in my trap, do you understand your current predicament?
 	너희는 이미 함정에 빠진 거야. 아직도 모르는 건가?
 
-	让我上。
 	オレにやらせろ。
 	Let me go forth.
 	내가 하게 해줘.
 
-	下令吧。
 	命令をくれ。
 	Give the order.
 	명령을 내려줘.
 
-	我闻到风中的猎物气味了。
 	風に獲物のにおいが混じってる。
 	I can smell the prey in the wind.
 	바람에 사냥감의 냄새가 섞여 있어.
 
-	我就在这等着。
 	オレはここで待ってる。
 	I will be waiting here.
 	나는 여기서 기다리겠다.
 
-	再不逃的话，你就只有一个下场了！
 	逃げねぇってんなら、お前らの結末は一つだ！
 	If you don't escape, you will only have one ending.
 	도망치지 않는다면 너희의 결말은 하나다!
 
-	别小看荒野的子民！
 	荒野育ちをなめんな！
 	Don't underestimate the people of the wilderness!
 	황야에서 자란 사람을 얕보지 마라!
 
-	再看这一箭！
 	この矢を見ろ！
 	Watch where this arrow goes!
 	이 화살을 봐라!
 
-	这一箭，绝对会射穿你的喉咙！
 	この一射でお前の喉を貫く！
 	This arrow will find your throat!
 	이 한발로 네 목을 꿰뚫어 버리겠어!
 
-	再强大的猎物，也只是猎物而已。
 	どんなに強い獲物だろうと、しょせん獲物だ。
 	A strong prey is still just prey.
 	사냥감이 아무리 강해봤자 결국은 사냥감이지.
 
-	真厉害。如果你生在叙拉古，一定会是位技艺超绝的猎人。
 	やるじゃねぇか。もしシラクーザに生まれてたら、あんたは間違いなく凄腕のハンターになってたぜ。
 	Impressive. If you were born in Siracusa, you would have definitely been an excellent hunter.
 	제법이잖아. 만약 시라쿠사에서 태어났다면 넌 틀림없이 굉장한 실력의 사냥꾼이 됐을 거야.
 
-	猎物逃走了，我去追。
 	獲物に逃げられたか。追ってくる。
 	The prey got away. I'll pursue it.
 	사냥감이 도망쳤나. 쫓아 가겠다.
 
-	不能就这样结束......
 	こんなんじゃ終われねぇ……。
 	We can't let things end like this...
 	이렇게는 못 끝내…….
 
-	有墙和天花板，已经是很棒的屋子了啊。
 	壁も天井もあるなんて、いい部屋じゃねぇか。
 	As long as there's four walls and a ceiling, it's more than enough for me.
 	벽에 천장도 있다니, 좋은 방이잖아.
 
-	呣......
 	えっ……
 	Oh...
 	앗……
 
-	......今天的安排吗？帮你做任务，对着敌人射箭，把箭射光；任务结束，吃饭睡觉。就这么简单。
 	……今日の予定？あんたにもらった任務に、敵めがけてありったけの矢をぶっ放す。それが終わったら、メシを食って寝る。それだけ。
-	…Today's plans? Helping out with missions, shooting arrows at enemies until I have no more arrows, then heading back to eat and sleep. Pretty simple.
+	...Today's plans? Helping out with missions, shooting arrows at enemies until I have no more arrows, then heading back to eat and sleep. Pretty simple.
 	……오늘 일정? 너한테 받은 임무에 따라 적을 향해 있는 대로 화살을 날릴 거야. 그게 끝나면 밥을 먹고 잔다. 그게 다야.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	哈，是你啊。
 	あぁ、あんたか。
 	Ah, it's you.
 	아, 너구나.
+
+干员档案\Background:
+	基础档案 :
+	【代号】红云
+	【性别】女
+	【战斗经验】两年
+	【出身地】不明
+	【生日】6月25日
+	【种族】沃尔珀
+	【身高】153cm
+	【矿石病感染情况】
+	体表有源石结晶分布，且参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ヴァーミル
+	【性別】女
+	【戦闘経験】二年
+	【出身地】不明
+	【誕生日】6月25日
+	【種族】ヴァルポ
+	【身長】153cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Codename] Vermeil
+	[Gender] Female
+	[Combat Experience] 2 years
+	[Place of Birth] Unknown
+	[Date of Birth] June 25
+	[Race] Vulpo
+	[Height] 153cm
+	[Infection Status] 
+	Originium crystals visible on skin, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 버메일
+	[성별] 여
+	[전투 경험] 2년
+	[출신지] 불명
+	[생일] 6월 25일
+	[종족] 불포
+	[신장] 153cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포 확인, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Normal
+	[Combat Skills] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	红云，出身地不明，入职前于叙拉古荒野地区进行活动，推测身份：猎人。在狩猎，狙击，散兵战术等单兵作战中展现出不凡身手。
+	现于罗德岛狙击小组任职，提供射击援护方面的保障。
+
+	個人履歴 :
+	出身地不明、ロドス加入以前はシラクーザの荒野地区で活動していたことから、推測される前職はハンター。狩り、狙撃、散兵戦など、単独での作戦で非凡な腕前を持つ。
+	現在はロドスの狙撃チームに所属し、援護射撃面を支えている。
+
+	Profile :
+	Vermeil's place of birth remains unknown. She was in the wilderness outside Siracusa prior to joining Rhodes Island. We speculate that she was a hunter. She demonstrates extraordinary skill in the fields of hunting, sniping, and guerrilla warfare. 
+	She currently serves Rhodes Island on a sniper team, providing force protection and sharpshooting assistance.
+
+	프로필 :
+	    출신지 불명. 입사 전에는 시라쿠사 황야 지역에서 활동했다. 신분은 사냥꾼으로 추측된다. 사냥, 저격, 산병 전술 등 단일 병사 작전에서 비범한 능력을 보인다. 현재 로도스 아일랜드 스나이퍼 팀에 근무하며 사격 지원과 경호를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】5%
+	干员红云体表有可见结晶分布。
+	
+	【血液源石结晶密度】0.3u/L
+	干员红云目前病情较为稳定。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】5%
+	体表に源石結晶の分布を確認。
+	
+	【血液中源石密度】0.3u/L
+	病状は安定している。
+
+	Clinical Analysis :
+	Imaging tests reveal blurry outlines of this operator's internal organs, clouded with abnormal dark spots. Her circulatory system shows an abnormally high rate of Originium particulate matter, with other signs of Oripathy infection, we can confirm that the operator is indeed Infected. 
+	
+	[Cell-Originium Assimilation] 5%
+	Operator Vermeil's skin has begun to crystallize.
+	
+	[Blood Originium-Crystal Density] 0.3u/L
+	Operator Vermeil's infection has been stabilized.
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로써는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 5%
+	오퍼레이터 버메일 체표면에 결정 분포가 확인됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.3u/L
+	오퍼레이터 버메일의 현재 병세는 비교적 안정적.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员红云具体出生地不详，仅知其长期于叙拉古控制范围内的少天灾地带活动。
+	荒野很难产生一个具备统一核心竞争力的实体，这里更多的是聚落，聚落之间保存松散的联盟关系，也常因各自利益而破裂，在此消彼长的状态下保持着近乎原始的生活步调。
+	红云主要从事猎人工作，她狩猎荒野中的动物，沿途还会收集仍有利用价值的废弃物和资源，并与荒野中的固定聚落进行交易。除此以外，只要出价合理且不触犯荒野聚落间的习俗和规则，任何有偿报酬她都愿意接下。在移动城市掀起开拓风潮前，地缘争夺和部族纠纷已在这片荒野中上演千年，各个民族迁入，更迭，融合，消失。
+	红云背上的披风是来自Vermeil聚落生产的手工制品，披风上纹有该聚落代表性图样的披风，用它遮挡风沙，防止日晒。这种披风以Vermeil本地种植的粗麻为原材料，以细密的编织手艺进行手工制作而成。这些披风是Vermeil聚落的对外贩售的特色商品之一，也常被用于赠与客人来表达友谊。
+
+	第一資料 :
+	ヴァーミルの具体的な出身地は不明であり、分かっていることは、シラクーザ統治下の天災が少ない地域で生活していたということだけである。
+	荒野では統率のとれた競争力を有する団体は生まれづらく、人の集団こそあれど、ほとんどが集落程度の規模で収まっている。集落間には連盟関係が散見されるが、それさえも集落ごとの利益のために唾棄されることが多く、栄える集落があればどこかで衰退する集落もあるといった状況下で、原始的な生活のリズムが保たれ続けている。
+	ヴァーミルは主にハンター業に従事しており、荒野の動物を狩るだけでなく、その道すがら利用価値のある廃棄物や資源を収集し、某集落と取引をしていた。それ以外にも、報酬が適正価格でかつ集落間の習俗や規則に抵触するものではなければ、彼女はどのような仕事でも引き受けたという。移動都市が一世を風靡し開拓の風潮が巻き起こるまで、この荒野では土地を巡る争いや、部族間の抗争が千年に渡り行われ、多くの民族が流入し、入れ替わり、融合し、消えていった。
+	彼女は名を「ヴァーミル」と名乗っているが、それは本来集落の名前であり、彼女が羽織っているマントもヴァーミル集落で作られたものである。マントには集落の象徴的な模様が施されており、風塵や日差しから身を守るには最適であろう。マントは当地産の麻を生地に、緻密な手織技術で作られたものであり、ヴァーミル集落の特産品として販売され、また客人への友好の証として贈り物に用いられることも多いという。
+
+	Archive File 1 :
+	Operator Vermeil's specific place of birth remains unknown. We know only that it is somewhere under the control of Siracusa and suffers rather few Catastrophes. 
+	It is difficult to produce a unified, competitive entity in the wilderness. These sorts of things tend to come out of settlements. Although settlements can see their loose alliances broken down by respective interests, they remain close to each other and keep a similar pace of life. 
+	Vermiel was for the most part a hunter. She hunted animals in the wilderness, collecting junk and other items along the way, to trade in settlements on the edge of the wilderness. She was willing to take all kinds of compensation, assuming the price was fair. Long before the nomadic cities kicked off the modern era, tribal disputes and resource competition spurred conflict in the wilderness for thousands of years, as different groups moved in, changed, merged, and disappeared. 
+	Vermeil's cloak was handmade, a special product of a settlement called Vermeil. The cloak bears the pattern insignia of the town. It helps block the sun and sand. Hand-crafted and finely woven with excellent craftsmanship from locally-grown materials, these cloaks are a local specialty often sold or given as gifts to guests of Vermeil.
+
+	파일 자료 1 :
+	    오퍼레이터 버메일의 출신지에 대해 확인된 구체적인 정보는, 시라쿠사 통제 구역 중 재앙 발생 확률이 적은 구역에서 장기간 활동했다는 것 뿐이다.
+	    핵심 경쟁력을 갖춘 사회적 조직이 탄생하기 힘든 황야에서는 사람들이 주로 부락을 지어 살고 있는데, 이들 부락 사이에는 느슨한 연맹 관계가 존재하지만, 종종 각자의 이익에 의해 깨지기도 하기에 거의 원시적인 생활 방식이 유지되고 있었다.
+	    버메일은 주로 사냥꾼 업무에 몸을 담고 있었다. 그녀는 황야의 동물을 사냥하며, 도중에 이용 가치가 있는 폐기물이나 자원을 수집해 황야의 고정적인 부락과 거래를 했다. 이외에도, 보수가 합리적이고 황야 부락 간의 풍습과 규칙에 위반만 되지 않는다면, 그녀는 어떠한 의뢰도 받아들였다. 이동 도시의 개척 붐이 일어나기 전까지, 황야에서는 토지 쟁탈과 부족 간의 분쟁이 천 년간 계속 이어지며, 각 민족의 이전, 교체, 융합, 소멸이 반복되었다.
+	    버메일이 두르고 있는 망토는, 버메일 부락에서 생산된 수공예품이다. 부락민들은 등 위에 해당 부락을 대표하는 도안이 새겨진 망토를 둘러 모래바람을 막고, 햇볕에 타는 걸 방지할 수 있었다. 이런 종류의 망토는 버메일 현지에서 심은 삼베를 원재료로 하며, 세밀한 편직 솜씨로 수작업해 제작된다. 이 망토들은 버메일 부락에서 외부로 판매하는 특산품 중 하나로, 종종 손님에게 선물해 우정을 표하는데 사용되기도 했다.
+
+———————————————————————————————
+
+	档案资料二 :
+	红云对自己失去所有同伴的前后并未避讳。根据她的自述，她归属的聚落曾与深入叙拉古荒野的某乌萨斯佣兵团发生纠纷，纠纷最终演变为武力报复。最终结果以乌萨斯人几乎消灭聚落的全部成员而告终。由于叙拉古政府缺乏对荒野地区的控制力（以及兴趣），这场血案无人提及，很快便遭人遗忘。
+	由于事发时红云尚年少，乌萨斯人饶恕了她，但红云并没有饶恕这些乌萨斯佣兵。
+	随后三年间，红云舍弃了自己的名字，在荒野中锻炼一切复仇所需的能力。但在一次与野兽战斗时，她重伤昏迷。所幸被路过的某位老猎人所救，为了保住她的性命，不得不放弃受伤过重的手臂。当红云醒来并认清情况后，她以惊人的速度恢复了身体机能，并克服痛苦，适应了义肢所带来的各种不便。
+	红云在之后不断狩猎着落单的目标，以继续她的复仇之旅。唯一的例外是在面对一位早已隐退，膝下子孙环绕的老佣兵时，对方以一只左臂和象征着佣兵荣誉的勋章作为交换，保全了性命。至此之后，红云便暂停了对乌萨斯人的报复。
+
+	第二資料 :
+	ヴァーミルは仲間全員を失った経緯について特に忌避しているわけではなさそうだ。彼女によると、帰属していた集落がシラクーザの荒野に踏み入ったウルサス傭兵団と紛争を起こし、最後には武力報復へと変化し、結果としてウルサス人の手によって集落は全滅したという。しかしシラクーザ政府はこの荒野に対する統治力（及び関心）が乏しく、この血に塗れた事件は表沙汰になることはなく、すぐに忘れ去られてしまったそうだ。
+	事件当時のヴァーミルはまだ幼かったため、ウルサスの傭兵たちも彼女のことを見逃した。しかしヴァーミルは彼らへの恨みを決して忘れることはなかった。
+	三年間、ヴァーミルはかつての名前を捨て、荒野の中で復讐に必要な力を磨いた。しかしある日、野獣との戦いで彼女は意識不明になるほどの重傷を負った。幸い通りがかった老ハンターに救出されたが、命を守るためには、重い傷を負った腕を諦めるしかなかった。目を覚まし状況を理解すると、彼女は驚くほどのスピードで身体機能を回復させた。そして苦しみを克服し、義肢の不便さにも慣れていった。
+	その後、ヴァーミルははぐれ者をターゲットにしながら、復讐の旅を続けた。相手に慈悲を与えるなど考えられなかった彼女であったが、唯一の例外は、既に引退し、膝元に子孫がじゃれついている老傭兵であった。相手は左腕と傭兵の名誉勲章を差し出し、自身と家族の命を乞ったという。ヴァーミルはそれ以降、ウルサス人に対する復讐をやめた。
+
+	Archive File 2 :
+	Vermeil does not shy away from the topic of losing her companions. According to her own account, the settlement she belonged to had a dispute with an Ursus mercenary group deep in the wilds of Siracusa. That dispute ultimately escalated to the use of force, resulting in the near extermination of the settlement. With the Siracusan government lacking control over (and interest in) the wilderness, the bloody affair was not recorded and soon forgotten. 
+	As Vermeil was still young at the time of the incident, the Ursus spared her, but she could not forgive the mercenaries. 
+	Over the next three years, Vermeil abandoned her name and began to prepare everything she would need to exact her revenge. But found herself seriously injured and knocked unconscious by a wild beast. Fortunately, she was rescued by an elderly hunter passing by. In order to save her life, she had no choice but to give up her wounded arm. When Vermeil awakened and realized the position she was in, she devoted herself to a quick recovery. She overcame her pain, and rapidly adapted to the use of her prosthetic. 
+	Vermeil continued to hunt her goal, down the path of revenge. The only one she spared was an elderly mercenary, long since retired, surrounded by children and grandchildren. She took only his left arm and a medal symbolizing his honor as a mercenary, sparing his life. At this point, Vermeil has suspended her retaliation against the Ursus.
+
+	파일 자료 2 :
+	    버메일은 자신이 동료를 모두 잃은 것에 관해 이야기하는 것을 피하지 않는다. 그녀가 스스로 한 말에 따르면, 한때 그녀가 속한 부락에서 시라쿠사 황야에 깊이 들어온 어느 우르수스 용병단과 분쟁이 일어났었는데, 분쟁은 결국 무력 보복으로 이어졌고, 결국엔 우르수스인이 부락의 거의 모든 구성원을 제거하는 것으로 끝이 났다. 시라쿠사 정부의 황야 지역에 대한 통제력(및 흥미)이 떨어져 있던 탓에 이 유혈 사건은 아무도 언급하지 않게 되었고, 빠르게 사람들로부터 잊혀갔다.
+	    사건 발생 당시의 버메일은 아직 어려 우르수스인은 그녀의 처벌을 면해줬지만, 버메일은 이 우르수스 용병들을 용서하지 못했다.
+	    그 후 3년간, 버메일은 자신의 이름을 버리고 황야에서 복수에 필요한 모든 능력을 단련했다. 그러던 중 한 야수와의 전투에서 그녀는 중상을 입고 쓰러졌지만, 다행히 지나가던 어느 늙은 사냥꾼에게 구조되었고, 그녀는 목숨을 지키기 위해 심하게 다친 팔을 포기할 수밖에 없었다. 이후 깨어난 버메일은 자신의 상황을 받아들였고, 놀라운 속도로 신체 기능을 회복하며 고통을 극복해 불편했을 의수에 점차 적응해 나아갔다.
+	    버메일은 그 후 끊임없이 홀로 있는 목표를 사냥하며, 복수의 여행을 계속했다. 복수에 단 한 번 예외가 있었는데, 그건 바로 일찍이 은퇴해 슬하의 자손들에게 둘러싸인 늙은 용병을 맞닥뜨렸을 때였다. 상대방은 왼팔 한쪽과 용병의 명예를 상징하는 훈장을 교환하는 것으로 목숨을 부지했다. 이때부터, 버메일은 우르수스인에 대한 보복을 잠시 멈췄다.
+
+———————————————————————————————
+
+	档案资料三 :
+	与许多感染矿石病的人一样，红云并不知道自己因何感染这种病症，对矿石病病症也毫无了解。最初，她仅能从少数几个与感染者有过接触的人口中得到一些真假难辨的信息，对这种疾病毫无对策的她选择了忍耐，就像她一如既往地忍耐手臂撕裂时的巨大痛楚一样。
+	时值矿石病病人数量与日俱增，“感染者”一词越来越多地被人们所提及，红云才发现患病的自己受到的注视开始变得不再一样。矿石病种种流言甚嚣尘上，人们对矿石病人的种种猜忌逐渐演变成驱逐甚至迫害，红云彻底失去了对局势的判断力，只有矿石病带来的痛楚是真实的。
+	但红云并未对自己身为矿石病人一事抱有特别的感情，她只是觉得这件事也仅仅是自己生命中无法抗拒的事情中的一件。即使成为了感染者，受到了歧视，她也没有因此憎恨任何人。如果遇到了憎恨自己的人，她也只是狠狠瞪回去。
+	如果能够找到治疗方法，就去接受治疗，如果无法治疗，就继续走下去，直到走不动的那天，就像坦然接受了失去手臂那时一样，红云也坦然地接受了自己成为感染者的事实。
+
+	第三資料 :
+	多くの鉱石病感染者と同じように、ヴァーミルは自身が鉱石病に感染した原因を全く把握しておらず、病気自体に関する知識も持ち合わせていなかった。当初はごく数人の感染者と関わったことのある者たちから、真偽の程も定かではない情報を伝え聞いたのみで、特に対策も思いつかなかった彼女は我慢することを選んだ。かつて片腕を引き裂かれた際の大きな痛みに耐えた時のように。
+	鉱石病患者が日に日に増えるに従い、「感染者」という言葉を多くの人々が口にするようになると、ヴァーミルは自分が受ける眼差しが違う種類のものに変化していることに気づいた。鉱石病に関する噂や議論は絶えず、人々の鉱石病患者に対する忌諱は追放や迫害へと変わっていった。ヴァーミルはそのような局面への判断力を失っていき、鉱石病がもたらす痛みだけは真実であった。
+	しかし彼女は自分が感染者であることに特別な思いを抱いておらず、それは人生の中で抗えない出来事のひとつだけだと考えた。感染者になり差別されても、彼女は誰も恨むことはなかった。もし自分を恨む人に出会っても、彼女はせいぜい睨み返す程度だろう。
+	もし治療法が見つかれば治療を受ける。治療できなくても、いつか歩けなくなる日が来るまで歩みを止めない。片腕を失ったことを平然と受け入れた時と同じように、自身が感染者になった事実も彼女は平然と受け入れたのだ。
+
+	Archive File 3 :
+	Like many who suffer from Oripathy, Vermeil has no knowledge of the disease or why she's afflicted with it. At first, her only knowledge of the disease came from certain individuals who had contact with the Infected, the veracity of their statements hard to determine. She decided to endure this intractable disease just as she endured the pain from losing her arm.
+	The number of people suffering from Oripathy increase by the day, and talk about the Infected spreads to more and more people as well. It was only from this that Vermeil realized, the Infected were no longer seen in the same light. All kinds of rumors about Oripathy were spread around. Suspicion festered into ostracizing or even persecution, but Vermeil lost the ability to make further judgments about the situation. All she knew was that her pain was real.
+	However, Vermeil does not bear any resentment towards her Oripathy - she merely sees it as an inevitable part of life. Even though she became Infected and was persecuted because of it, she did not come to hate anyone for it. If she met someone who did hate her, she would just stare back fiercely.
+	If there's a way to find a cure, then go to receive treatment. If not, then carry on until you can't move anymore. Just like when she accepted the loss of her arm, Vermeil also accepted her identity as an Infected.
+
+	파일 자료 3 :
+	    광석병에 감염된 다른 수많은 감염자들 처럼, 버메일은 자신이 어떤 이유로 이런 병에 걸린 지 몰랐으며, 광석병 증상에 대해서도 전혀 몰랐다. 처음에는 오직 감염자와 접촉해 본 적이 있는 소수의 사람으로부터 진위를 구별하기 힘든 정보만 얻을 수 있었다. 하지만 이 질병에 대해 아무런 대책이 없던 그녀는, 결국 참는 걸 선택했다. 예전에 팔이 뜯겼을 때의 엄청난 고통을 참아온 것처럼 말이다.
+	    때마침 광석병 환자의 수가 나날이 늘어나면서, '감염자'라는 단어를 점점 더 많은 사람이 언급함에 따라, 버메일은 그제야 병을 앓는 자신에 대한 시선이 달라지기 시작했다는 걸 알았다. 광석병에 대한 다양한 소문으로 세상이 떠들썩해지며, 광석병 환자에 대한 사람들의 다양한 의심이 점차 추방, 심지어는 박해로 변했다. 이러한 정세에 대한 판단력을 완전히 잃어버린 버메일에게, 진실은 오로지 광석병이 가져다주는 고통뿐이었다.
+	    하지만, 버메일은 자신이 광석병 환자라는 것에 대해 특별한 감정을 품지 않았다. 단지 이 일 또한 자신의 인생에서 저항할 수 없는 일이라고만 여겼다. 감염자가 되어 차별 대우를 받아도, 그녀는 이로 인해 누군가를 미워하지는 않았다. 자신을 증오하는 사람을 마주쳐도, 그녀는 그 사람을 사납게 노려보기만 했다.
+	    치료 방법을 찾아내면 가서 치료를 받고, 치료할 수 없다면 계속 걸어 나아갔다. 더 이상 걸을 수 없는 그날까지…… 팔을 잃었을 때 담담하게 그 사실을 받아들인 것처럼, 버메일은 자신이 감염자가 됐다는 사실을 담담하게 받아들였다.
+
+———————————————————————————————
+
+	档案资料四 :
+	关于干员红云的义肢，经过简单的修理检查后，发现其型号并不符合当地经销商的任何一款产品。与此相关的是，即使本人不愿意过多提及，但将红云引领至罗德岛的正是拉特兰中庭公证所的某位公民，而对方于某时间点与罗德岛签订协议后，也作为干员为罗德岛工作。
+	考虑到对红云义肢的维护所需要的信息，我们进行了反复询问。出乎意料的是，根据多方信息推测的结果，在叙拉古的山林之中救下红云的应当是一位拉特兰机械师。而这位机械师的名字又恰好出现在红云的医疗费用预付支票上。红云本人似乎对救命恩人的事情总是闭口不谈，但从她提及那段过去的态度来看，她的内心始终尊敬并感谢着那位拉特兰人。
+	既然干员本人不愿透露，那么就让这段故事深埋在红云的心中，也许是一个更好的选择。
+
+	第四資料 :
+	ヴァーミルの義肢について、簡単なメンテナンスを行ったところ、その型番は現地で販売されるどの製品にも該当しないことが判明した。それに関して本人は多くを語りたがらなかったが、彼女をロドスに連れてきたのがラテラーノ中庭公証人役場の某氏であり、その彼がロドスと協定を結び、彼女と同じくオペレーターとしてロドスで働くこととなった。
+	ヴァーミルの義肢のメンテナンスに必要な情報を集めるために、我々は繰り返し質問を行った。予想外だったのは、多くの情報から推測した結果、シラクーザの山林でヴァーミルを救出したのはとあるラテラーノ技師であった可能性が高いということだ。さらにその技師の名前は、ヴァーミルの医療費を前払いした小切手に記されているものと一致する。ヴァーミルは恩人に関する情報は口を閉ざし何も語らないが、当時の出来事を話す時の態度から見るに、心の中でそのラテラーノ人を尊敬し感謝し続けているようである。
+	本人が明らかにするつもりがない以上、この話はヴァーミルの心の中に深くしまわれることになるが、それは一つの良い選択なのかもしれない。
+
+	Archive File 4 :
+	Regarding Operator Vermeil's prosthetic limb, after a simple repair and inspection, it was found that the model did not match that of any known local dealer. Related to this, though I am not willing to delve too deeply on this subject matter, is the fact that she was brought to Rhodes Island by a member of the Laterano Notarial Hall who signed an agreement with Rhodes Island at a certain point in time and also served as an Operator.
+	We continued asking around to gather the information necessary to perform maintenance on Vermeil's prosthetic limb. Unexpectedly, according to several different sources, the prosthetic was the work of a Laterano mechanic who saved Vermeil in the mountains of Siracusa whose name appeared on a prepaid check covering Vermeil's medical expenses. Vermeil always seemed to have little to say about the benefactor who saved her life, but from her attitude towards her past, she appears to hold a deep respect for him. 
+	Since she does not seem to want to talk about these experiences, it may be better to let this story remain buried deep within her heart.
+
+	파일 자료 4 :
+	    오퍼레이터 버메일의 의수에 관해 간단한 수리 및 검사를 진행한 후, 이 모델이 현지 유통사의 그 어떤 제품과도 일치하지 않는다는 걸 알게 되었다. 이와 관련된 것은 본인이 더 이상 언급하기를 원치 않았지만, 버메일을 로도스 아일랜드로 이끈 자는 라테라노 공증소의 어느 공민이었고, 상대는 어느 시점에 로도스 아일랜드와 협의를 체결한 후, 오퍼레이터로서 로도스 아일랜드에서 일하게 되었다.
+	    버메일의 의수 점검에는 정보가 필요했기에, 우리는 의수에 대한 수소문을 멈추지 않았다. 뜻밖에도, 여러 방면의 정보를 추측한 결과, 시라쿠사의 숲에서 버메일을 구한 자는 현지 사냥꾼으로 위장한 라테라노의 기계공으로 판단되었다. 이 기계공의 이름은 마침 버메일의 의료 비용 지불 수표에 쓰여 있던 이름과 일치했다. 버메일 본인은 생명의 은인에 관한 일에는 항상 입을 닫고 침묵하지만, 그녀가 그 과거를 이야기할 때의 태도를 보면, 마음속으로는 그 라테라노인을 존경하고 감사하고 있는 것 같다.
+	    오퍼레이터 본인이 드러내기를 원치 않으니, 이 이야기는 버메일의 마음속에 묻어두는 것이 어쩌면 더 좋은 선택일지도 모른다.

@@ -1,11 +1,17 @@
 ID:
 	char_385_finlpp
 
-干员代号\Name:
+CV:
 	清流
 	セイリュウ
 	Purestream
 	퓨어스트림
+
+干员代号\Name:
+	三宅麻理恵
+	三宅麻理恵
+	Marie Miyake
+	미야케 마리에
 
 招聘合同\Character Usage:
 	水道治理人清流，吃苦耐劳，兢兢业业。
@@ -43,177 +49,469 @@ ID:
 	용솟는 샘물
 
 语音\Voices:
-	笑容能让人打起精神，试试看微笑吧，博士~
 	笑顔は人を元気にするんだよっ！ほら、笑ってみて、ドクター！
 	Smiling can help you feel revitalized. Why don't you try smiling, Doctor~
 	미소는 사람들에게 힘을 줘! 자, 웃어봐, 박사!
 
-	罗德岛应该不是那种黑心企业吧？龙门工业废料处理许可证、龙门城邦排污许可证......嗯，看起来证件是没有问题，而且也有好好在做排污处理，还挺正规的嘛！
 	まさかロドスは、悪徳企業じゃないよね？龍門産業廃棄物処分許可証に、龍門汚染物質排出許可証……うん、許可証は問題ないみたいだね。汚染物質の処分もちゃんとできてる！うんうん！やっぱり花丸満点だね！
 	Rhodes Island shouldn't be like those black-hearted corporations, right? Lungmen Industrial Waste Disposal License, Lungmen City Sewage Permit... Well, it seems like there are no problems with your certification, and the sewage treatment seems good enough... It's good that you're a law-abiding organization!
 	설마 로도스 아일랜드는 악덕 기업 아니지? 용문 산업 폐기물 처분 허가증에, 용문 오염 물질 배출 허가증…… 응, 허가증은 문제없는 것 같네. 오염 물질 처리도 제대로 하고 있어! 응, 응! 참 잘했어요~!
 
-	呜啊，这个水好好喝~甜甜的，凉凉的，有点像我家乡的山泉......水源在哪里？是怎么过滤的？设施用了什么器材？快告诉我嘛博士！
 	う～んあ！このお水、すごくおいしい！甘くて、冷たくて、故郷の山の湧き水みたい……水源はどこ？どうやって濾過したの？どんな器材を使ってるの？教えて教えて～！
 	Woah, this water tastes amazing~! It's cool and sweet, just like the springs back in my hometown... Where's the water source? How is it filtered? What are you using to filter it? Please tell me quickly, Doctor!
 	캬아~! 이 물, 진짜 맛있어! 달고 시원하고, 고향에 있는 산에서 나는 샘물 같아…… 수원지가 어디야? 어떻게 여과했어? 어떤 기재를 썼어? 알려줘 알려줘~!
 
-	这个月的废水排放量有超标的迹象诶，呃，是不是我泡澡泡太多了......要反省一下！
 	今月の廃水排出量が規定値をオーバーしそうになってる……はっ、まさかわたしがお風呂入りすぎたんじゃ……反省しなきゃ！
 	There are signs of excessive wastewater discharge this mon-- Huh? Did I take too many baths again? ...Oh no, I must reflect upon my behavior!
 	이번 달 폐수 배출량이 규정치를 넘을 것 같아…… 헉, 혹시 내가 목욕을 너무 많이 해서 그런 건…… 으윽…… 반성해야겠어!
 
-	我最喜欢家乡啦！乡下地方虽然比不上城里气派，生活也没那么方便，但是我们那儿的水清凉好味，空气也新鲜，嘿嘿，这些可都是城里少有的呢！
 	わたしは故郷がいっちばん好き！田舎って都会ほど立派じゃないし、生活もそんなに便利なわけじゃないけど、お水がとってもおいしいし、空気もすごーく澄んでるの！えへへ、都会にはめったにないでしょ！
 	I love my hometown! Although it's not as lively in the country as it is in the city, and daily life isn't as comfortable, the water there is cool and delicious, and the air is always fresh. Hehe, these are sometimes hard to come by in the city!
 	나는 고향이 제일 좋아! 시골은 도시만큼 대단하지도 않고, 생활도 그렇게 편리하진 않지만, 물이 굉장히 맛있고 공기도 엄~청 맑아! 헤헤헤, 도시에는 좀처럼 없잖아!
 
-	城邦附近的污染越来越严重了，之前家乡的水源也出了问题，花了我们很大力气才解决。天灾明目张胆地威胁着我们，污染却会不知不觉地缩小我们的生存空间！保护生活环境，也是很重要的！
 	町の近くは汚染がどんどん酷くなってきてるんだよ。前に故郷の水源にも問題が出ちゃって、解決するまでほんっとーに骨を折ったんだから……。天災が堂々とわたしたちを脅かしてるのと違って、汚染はこっそりと知らないうちにわたしたちの生活空間を削っていくから怖いの！環境を守ることだって、すごく重要なんだよ！
 	The pollution near the city is getting worse and worse. Earlier, we even had problems with the water supply in my hometown, and resolving that situation required a lot of effort. While Catastrophes pose a very clear threat to us, pollution will also erode away at our habitable spaces! Therefore, protecting our environment is also of great importance!
 	마을 근처는 오염이 점점 심해지고 있어. 전에 고향의 수원에도 문제가 생겨서 해결할 때까지 진~짜 고생했거든……. 재앙이 당당하게 우리를 위협하는 거랑은 다르게, 오염은 살그머니 모르는 새에 우리의 생활 공간을 깎아나가니까 무서워! 환경을 지키는 것도 엄청 중요하다구!
 
-	嘿咻，嘿咻，最后一只靴子......上来了！呼，这样一来这条水道就干净多啦，不枉我每天都来清理！谢谢你陪我一起，博士！
 	よいせっ、よいせっ、最後はあの浮かんだ靴を掬って……おーわった！ふぃー、これでこの水路もとーっても綺麗になったよ。わたしの毎日のお掃除は無駄じゃなかったね！付き合ってくれてありがと、ドクター！
 	Heave, ho! That should be the last shoe... Got it! Phew, now, this waterway will be much cleaner, and my daily efforts here won't go to waste! Thank you for accompanying me, Doctor!
 	영차, 영차…… 마지막은 저기 떠 있는 신발을 건져서…… 끝났다~! 후우~ 이걸로 이 수로도 엄~청 깨끗해졌네. 내가 매일 청소한 게 헛되지 않았어! 같이 해줘서 고마워, 박사!
 
-	我们的族裔里流传着一段传说，我们是从离这片大地很远的地方来的。族人越来越少的现在，从哪儿来到哪儿去，谁也说不清了......
 	わたしたちの一族で代々語り継がれてきた伝説なんだけど、なんでもわたしたちはこの大地のずーっと遠いところからやって来たんだって。今となっては一族の人もだんだん少なくなって、どこから来て、これからどこに向かうのか、誰にもわからなくなっちゃった……。
 	There is a legend among my people that we came from a place far, far away. Now that there are fewer and fewer of us, nobody seems to know where we came from, or where we are going...
 	우리 일족에 대대로 전해 내려오는 전설인데, 아무래도 우리는 이 대지에서 아~주 먼 곳에서 왔다나 봐. 이제는 일족 사람들도 점점 줄어서 어디에서 와서 앞으로 어디로 가는지 아무도 알 수 없게 되어 버렸어…….
 
-	在我的家乡，每个丰收的季节，每家每户都会做好多好多好吃的！红烧的啦，糖醋的啦，蒸的啦炸的啦炒的啦腌的啦，什么都有！博士和我一起回老家去玩吧？乡亲们都很热情好客的~
 	わたしの田舎ではね、収穫の季節になると、どの家もおいしいごちそうをいっっぱい作るんだー！煮物でしょ、蒸し物でしょ、揚げ物に炒め物お漬物、なーんでもあるよ！ドクターもわたしと一緒に遊びに行く？きっと地元のみんなも大歓迎だよ～！
 	Back in my hometown during harvest season, each family will make lots and lots of delicious food! Braised, sweet and sour, steamed, fried, marinated, anything you can imagine! Doctor, why don't we go visit together? The people there are very hospitable~
 	내 고향에서는 말이야, 수확의 계절이 되면 어느 집이든 맛있는 음식을 잔~뜩 만들어! 조림도 있고, 찜도 있고, 튀김에, 볶음에, 절임까지, 뭐~든지 있어! 박사도 나랑 같이 놀러 갈래? 분명 고향 사람들도 엄청 환영해 줄 거야~!
 
-	呜呜，好干燥......好想泡澡......
 	ううっ……乾燥がすごい……お風呂入りたい……
 	Ugh... So dry... I want to soak in a bath...
 	으으…… 너무 건조해…… 목욕하고 싶다……
 
-	您好！我是城邦水道清理人，代号清流！今后贵舰的用水卫生安全就请放心交给我~啊，这是我从老家带来的腌菜，大家都可以尝尝，保证好吃~
 	こんにちは！わたしは都市水道清掃員、コードネームはセイリュウ！今後貴艦の用水の衛生管理はわたしにお任せくださいー！あっ、これ田舎から持ってきたお漬物です！皆さんで食べてみてくださいね！おいしさはばっちり保証します！
 	Hello, I am the municipal waterway cleaner, codename Purestream! From now on, I will handle the water treatment and sanitation of this ship, so please rest assured! Oh, these are pickled vegetables from my hometown. Everyone is welcome to try some - I assure you, it's delicious!
 	안녕하세요! 저는 도시 수도청소원, 코드네임은 퓨어스트림! 앞으로 귀함의 용수 위생 관리는 저한테 맡겨주세요~! 아, 이건 고향에서 가져온 절임이에요! 다 같이 드셔 보세요! 맛은 확실히 보증해요!
 
-	要积攒经验的话，还是直接动手实践比较快吧？
 	経験を積むなら、実際にやってみるのが一番早いよね？
 	If the purpose is to gain experience, wouldn't it be faster to do it directly?
 	경험을 쌓는 거라면 실제로 해보는 게 제일 빠르지?
 
-	要涨工资了吗？现在升职加薪，接下来就是走上巅峰啦，嘿嘿，我要赶快写信告诉村里的大家这个好消息~
 	お給料が上がるの？昇進してお給料が上がったら、後はトップに登り詰めるだけだよね！？へへ、早くお手紙で村のみんなにこのビッグニュースを知らせなくっちゃ！
 	Am I getting a raise? With this promotion and salary increase, I'm well on my way to the top! Hehe, I'll have to tell everyone back home the good news~
 	월급이 오르는 거야? 승진해서 월급이 오르면, 남은 건 제일 위까지 올라가는 것뿐이지?! 헤헤, 빨리 편지로 고향 사람들한테 이 빅 뉴스를 알려야겠어!
 
-	能够看得见的威胁，和不易被察觉的威胁，紧急程度上也许有些先后之分，但这些对我们来说同样都很危险！感谢您的理解，博士。
 	目に見える脅威とパッと見じゃわからない脅威、緊急性のレベルは違うかもしれないけど、わたしたちにとってはどっちも同じように危険ってこと！ドクターの理解に感謝しなくちゃね。
 	While there is a difference in urgency between visible threats and less evident threats, they are both dangerous to us! I'm glad you understand, Doctor.
 	눈에 보이는 위협과 얼핏 봐서는 알 수 없는 위협. 긴급한 정도는 다를지 몰라도 우리에게는 어느 쪽도 똑같이 위험해! 이해해준 박사에게 감사해야겠지.
 
-	没问题，交给我吧！
 	問題なし！わたしに任せて！
 	No problem, just leave it to me!
 	문제없어! 나한테 맡겨!
 
-	责任重大呀......我会努力的！
 	責任重大だぁ……頑張ります！
 	Such an important task... I'll do my best!
 	책임이 막중하네…… 열심히 할게!
 
-	罗德岛治污小队，出发！
 	ロドス浄化小隊、しゅっぱーつ！
 	Rhodes Island Water Treatment Team, heading out!
 	로도스 아일랜드 정화 소대, 출발~!
 
-	突击检查！抓住那个往水槽里倒颜料的家伙！
 	抜き打ち検査だっ！今水道に絵の具を垂れ流した奴をひっとらえいっ！
 	Surprise inspection! Seize that scoundrel who just poured paint down the sink!
 	불시 검사다! 방금 수도에 물감 흘려보낸 녀석을 잡아!
 
-	撸袖子打架......呃，我这件衣服没有袖子。
 	喧嘩？よぉし、袖をまくって……あっ、袖がなかった。
 	Roll up my sleeves and fight? ...Um, my outfit doesn't have any sleeves though.
 	싸움? 좋아, 소매를 걷고…… 아, 소매 없었지 참.
 
-	呜哇，真的打起来了！
 	うわっ、本当にやってる！
 	Woah, they're really fighting!
 	우와, 진짜 싸운다!
 
-	清理工作我最擅长了！
 	水場の清掃なら得意だよ！
 	Cleaning work is my specialty!
 	물가 청소라면 특기야!
 
-	送水上门~
 	お水のお届けだよ～！
 	I bring the gift of water~
 	물 배달왔어~!
 
-	腾空翻转！
 	くるっと一回転！
 	Breach!
 	빙그르르 일회전!
 
-	你这是无证排污！
 	それ不法投棄だよ！
 	That's unauthorized discharge of sewage!
 	그거 불법투기야!
 
-	 水利万物。
 	万物を潤すのがお水だよ。
 	Water works to the benefit of all.
 	만물을 촉촉히 적시는 게 바로 물이야.
 
-	怎么样，被泼点凉水有没有让你清醒一点？
 	どう？冷たいお水を被って目が覚めた？
 	How's that? Feeling a bit more awake after being splashed with cold water?
 	어때? 차가운 물을 뒤집어쓰니까 정신이 좀 들어?
 
-	没有污染物残留！很好，本次任务完美成功~
 	残留汚染物質なし！よーし、今回の任務もパーフェクトだねっ！
 	No more contaminants! Very good, this mission was a great success~
 	잔류 오염 물질 없음! 좋~았어, 이번 임무도 완벽해!
 
-	战斗结束！战后的清理工作也不能松懈哦。
 	戦闘終了！戦場の後処理まで気を抜いちゃだめだよ。
 	Operation complete! I'll handle the post-battle clean-up.
 	전투 종료! 전장의 뒤처리까지 방심하면 안 돼.
 
-	哎，敌人跑哪儿去了？我，我看不到了！
 	えっ？敵はどこ行っちゃったの？み、見失ったぁ…！
 	Hey, where'd the enemy run off to? I-I can't find them!
 	어? 적이 어디로 갔지? 노, 놓쳤어…!
 
-	情况不妙呀，留得青山在不怕没柴烧！这次我们还是先撤退吧？
 	雲行きが怪しいな……命さえあれば何とかなるから、とりあえず今は撤退しよ？
 	The situation is looking bad, but we have nothing to fear as long as we stay strong! Let's fall back for now?
 	상황이 심상치 않은데…… 목숨만 있으면 어떻게든 되니까 일단 지금은 철수하자.
 
-	希望能有大大的浴池呀~
 	おっきいお風呂があったらいいな～。
 	I hope I can get a nice, big bathtub~
 	커다란 욕조가 있었으면 좋겠다~
 
-	嗯？
 	はい？
 	Hmm?
 	어?
 
-	偷偷告诉你，我会站着游泳哦~
 	ここだけの話、わたし、立ったままで泳げるんだよ～。
 	Let me tell you a secret - I can swim while standing up~
 	여기서만 하는 이야기인데, 나 말이야, 선 채로 헤엄칠 수 있어~
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早呀，博士！要不要来一杯清凉山泉水？
 	おはよっ、ドクター！涼しい山の天然水でも飲む？
 	Good morning, Doctor! Would you like a cup of cool, refreshing spring water?
 	안녕, 박사! 산에서 갖고 온 시원한 천연수라도 좀 마실래?
+
+干员档案\Background:
+	基础档案 :
+	【代号】清流
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】炎
+	【生日】10月24日
+	【种族】阿戈尔
+	【身高】155cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】セイリュウ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】炎国
+	【誕生日】10月24日
+	【種族】エーギル
+	【身長】155cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Purestream
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Yen
+	[Date of Birth] Oct 24
+	[Race] Ægir
+	[Height] 155cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 퓨어스트림
+	[성별] 여
+	[전투경험] 없음
+	[출신지] 염
+	[생일] 10월 24일
+	[종족] 에기르
+	[신장] 155cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】普通
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Normal
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	干员清流，一直从事河道清理相关工作，拥有极为丰富的净水经验。
+	经本人主动联络，现已通过评审，与罗德岛签订合约。
+
+	個人履歴 :
+	かねてより河道の清掃関連の業務に携わっており、水の浄化において極めて豊富な経験を持つ少女。
+	本人からの申し出があり、審査を通過した後、ロドスと契約を結んだ。
+
+	Profile :
+	Operator Purestream has always been involved in work related to water treatment, and has extensive experience in water purification.
+	After making contact with Rhodes Island, she passed the examination process and signed on as an Operator.
+
+	프로필 :
+	    오퍼레이터 퓨어스트림은 지금까지 수로 정리와 관련된 일을 해왔으며, 매우 풍부한 정수 경험을 갖고 있다. 본인 스스로 연락해 왔으며, 지금은 심사를 통과해 로도스 아일랜드와 계약을 체결한 상태다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员清流没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.15u/L
+	干员清流的工作性质，令其时常有机会接触矿石相关的污染物。目前尚无感染风险，但需加强防护措施，并定期接受检查。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.15u/L
+	業務性質上、源石関連の汚染物とよく接触する。現時点では感染リスクは低いが、防護措置を強め、定期検査を行う必要がある。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Purestream shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.15u/L
+	Due to the Operator's line of work in water purification, Purestream often comes in contact with Originium-related pollutants. There is no current risk of infection, but regular check-ups are required, and protective measures should be strengthened.
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로선 광석병 비감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 퓨어스트림에겐 광석병 감염 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.15u/L오퍼레이터 퓨어스트림의 작업 특성상, 오리지늄과 관련된 오염물과 접촉할 기회가 많았음. 지금은 감염 위험이 없으나 보호 조치를 강화하고 정기적인 검사를 받아야 함.
+
+———————————————————————————————
+
+	档案资料一 :
+	干员清流最初加入罗德岛时，许多人都不理解她所坚持的那些东西到底有什么样的意义。
+	这也是难免的，毕竟在许多个人经历丰富的干员看来，清流就是个有活力但天真的小姑娘，虽然会一点源石技艺，但却从没经历过会流血会丢命的那种残酷。这种开朗活泼的性格或许很容易讨人喜欢，不过，获得信任可远比讨人喜欢要难得多。
+	毕竟，这时候还没有多少人认识到清流总挂在嘴边的环境保护有多重要，天灾、矿石病、整合运动......有太多更加直接的危机无时无刻不在威胁这片大地。
+	
+	而当清流默不作声地清理了所停留区域周边的水道，顺便接手了罗德岛舰船排放污水的二次处理工作后，一些较为敏锐的干员开始察觉，这名年纪轻轻的水道清理人或许不那么擅长战斗，但她所做的工作，远比大家认为得要更加重要。
+
+	第一資料 :
+	セイリュウがロドスに入って間もない頃、多くの者は彼女が貫こうとするものの意味を理解できずにいた。
+	それもそのはず。経歴豊富なオペレーターたちから見れば、セイリュウはただの元気で無邪気な女の子であり、少しのアーツが使えても、血を流し、生死に関わるような戦場の残酷さを経験したことがないのだ。このような陽気な性格は人の好意を得られやすいかもしれないが、信頼を得ようとすれば好意を得るよりもはるかに困難となる。
+	当時、セイリュウが常に口にしている「環境保護」の重要さに気づく者は少なかったのだ。天災、鉱石病、レユニオン......より直接的に大地を脅かす危機が多すぎたためである。　
+	
+	だが、セイリュウが滞在地域周辺の水道を黙々と清掃し、ついでにロドスの廃水の二次処理を引き受けて以来、一部の洞察力の優れたオペレーターは気づき始めた——この若い水道清掃員は戦闘に向いていないかもしれないが、彼女のしていることは、皆の思うよりも遥かにに重要であるのだ。
+
+	Archive File 1 :
+	When Operator Purestream first joined Rhodes Island, many people did not understand the purpose of the things that she insisted upon.
+	Such an outcome was not unexpected. After all, Purestream came off as energetic but naive in the eyes of more experienced Operators. Even though she knew a little bit of Originium Arts, she has never experienced the cruelty of bloodshed or the sorrow of lost lives. This cheerful and lively personality may make her easy to get along with, but earning the trust of others is a much higher hurdle.
+	Back then, very few people understood the importance of the 'environmental conservation' that Purestream was always talking about. After all, between Catastrophes, Oripathy, and Reunion, there were too many threats that were considered more imminent.
+	
+	But after Purestream quietly cleaned the waterway around the area Rhodes Island was stationed as well as handling the after-treatment of Rhodes Island's sewage in the process, some sharper-eyed Operators began to understand - this youthful water treatment worker may not be so good at combat, but the work she does do is more important than anyone would expect.
+
+	파일 자료 1 :
+	    오퍼레이터 퓨어스트림이 로도스 아일랜드에 처음 왔을 당시, 많은 사람들은 그녀가 지속해온 일들이 대체 무슨 의미가 있는 것인지에 대한 의문을 가졌었다.
+	    그럴 수 밖에 없는 것이, 어느 정도 경험이 쌓인 오퍼레이터들에게 있어서, 퓨어스트림은 아츠를 조금 다룰 줄 알지만, 이 세계의 잔혹함을 경험해 보지 못한, 명랑하고 천진난만한 소녀일 뿐이었다. 어쩌면 그런 명랑하고 활발한 성격 덕분에 쉽게 사랑받을 수 있을지도 모르지만, 신뢰를 얻는 것은 사랑 받는 것보다 더 어려운 일이다.
+	    어쨌든 당시 많은 사람들은 그녀가 평소 말하고 다니던 환경 보호의 중요성을 알지 못했다. 재앙와 광석병, 그리고 리유니온까지… 때와 장소를 가리지 않고 보다 직접적으로 목숨을 위협하는 것들이 이 세상에는 너무 많았기 때문이다.
+	
+	    하지만 퓨어스트림이 묵묵히 체류 구역 주변의 수로를 청소하고 로도스 아일랜드의 배에서 배출하는 오수의 2차 처리 작업을 맡은 후부터, 몇몇 눈썰미 있는 오퍼레이터들은 이 젊은 수도 청소부가 비록 전투 방면으로는 뛰어나지 않을지도 모르지만, 그녀가 하는 일은 다른 사람들이 생각하는 것보다 훨씬 중요할 수도 있음을 알아차렸다.
+
+———————————————————————————————
+
+	档案资料二 :
+	关于干员清流的家乡，我们调查所得的资料并不多。
+	这不是说在调查上有多大的难度，而是经过判断，有必要留档记录的东西实在有限。那是一个非常单纯的小乡村，临近河流，以水质清澈闻名，种种风俗还保留着过去的自然纯朴，天灾很少光顾这片地区，人们对矿石病普遍没有太多概念，因为他们基本没见过真正的患者，那里的住民对外来的人也没什么戒心，调查人员问的那些事情，在他们看来都是小事，没什么不能说的。
+	经调查，干员清流曾与某位罗德岛干员一同，解决了一起当地河流上游恶性排放含矿石元素废水的污染事件，自此之后，她便在家乡小有名气，成为了街坊邻居口中的小红人。而也正是这次事件的发生，令她感到个人力量的不足之处，萌生了向外走的想法，并开始尝试与罗德岛进行接触。
+
+	第二資料 :
+	セイリュウの故郷について、我々の調査から得られた情報は少ない。
+	調査自体が困難というわけではなく、記録に値する情報がそれほどないと判断されただけである。あれは川の近くにある小さくて素朴な村だ。澄んだ水が有名で、様々な風習には古くからの純粋さと素朴さが残っており、天災の訪れもほぼない。本物の感染者を目にする機会はほとんどないため、村の住民は鉱石病についての認識は薄い。彼らは外来者への警戒心もそれほどなく、調査スタッフが尋ねたことに対しては何でも答えた。彼らにとって、それらは些細なことにすぎなかったのだ。
+	調査結果によると、セイリュウはかつて、ロドスのあるオペレーターと共に当地の川の上流で起きた、鉱石元素を含む廃水の無断排出による悪質な汚染事件を解決したことがある。それ以来、彼女は地元の有名人となり、近所の人気者とも言われた。同時に、事件をきっかけに彼女は自身の力不足に気づき、村の外に出るという考えが芽生え、ロドスとの接触を試み始めたのだった。
+
+	Archive File 2 :
+	We do not find a lot of information regarding Purestream's hometown.
+	This is not to say that we ran into many difficulties during our investigation, but after reviewing the material, there simply weren't many things worth keeping. Purestream's hometown is a small, simple village located close to a river. Famous for its pure, clear water, this village has retained many customs that reflect the simplicity of the past. Catastrophes rarely affect this area. Relatively isolated from the outside world, the people here have not had exposure to the Infected, have little conception of Oripathy, and are not wary of outsiders. When asked by our investigators about these subject matters, they were quite open with us, viewing these issues as no big deal.
+	We found that Operator Purestream worked with Rhodes Island personnel to resolve an issue involving an Originium discharge causing downstream pollution in this local river. After this incident, she became the talk of the town, with many seeing her as a bringer of good fortune. Apparently, she felt the limitations of her own abilities during this incident, and decided to contact Rhodes Island with hopes of expanding her horizons.
+
+	파일 자료 2 :
+	    오퍼레이터 퓨어스트림의 고향에 대해 조사를 하였으나 별다른 소득은 없었다.
+	    조사가 순조롭지 않았다기보다는, 기록으로 남길 만한 내용 자체가 별로 없었다. 퓨어스트림의 고향은 작은 시골 마을이지만 깨끗한 수질로 유명한 하천 근처에 있는 곳으로, 여러 관습들 덕분에 과거의 깨끗한 자연 환경을 보존하고 있었다. 이 지역은 재앙의 영향도 적게 받은 탓에, 사람들은 광석병에 대한 지식이 별로 없었는데, 다들 심각한 환자를 본 적이 없었기에 거주민들은 외부인에 대해 특별한 경계심을 갖지도 않았고, 조사원이 묻는 일들 역시 자신들의 입장에서는 사소한 일이라 흔쾌히 대답해주었다.
+	    조사 결과, 오퍼레이터 퓨어스트림은 로도스 아일랜드의 어느 오퍼레이터와 함께 강 상류에서 오리지늄 원소가 함유된 폐수가 방출된 사건을 해결한 후 고향 마을에서 유명해졌으며, 이웃 사람들의 인기를 얻게 되었다는 것을 알게 되었다. 그리고 그 일로 인해 자신의 힘이 부족함을 느낀 그녀는, 외부로 나가야겠다는 생각을 하며 로도스 아일랜드와 접촉하기 시작한 것이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	“节约用水，是该节约用水，可是，大浴场还是保留着吧？”
+	出于所属族群的特性影响，清流如若长时间处于干燥环境中，会感到皮肤不适，严重情况下，会出现过敏、皲裂等症状。因此，清流总会随身携带清水喷雾小瓶，时常可以看到她掏出小瓶，朝自己脸上身上喷水的情景，而罗德岛设施完备的大浴场，则成为了清流最为钟爱的场所。
+	一向在节约资源这一点上对自己要求严格的干员清流，只有在面对浴场问题时，会显得不那么有底气，并且摆出羞赧抱歉的模样来。
+	
+	在他人看来，这是没有办法的事情，是完全可以被理解的，但干员清流本人对自己的行为似乎抱有不小的负罪感，她为自己定下规则——每日最多泡澡三次。
+	因次数有限，所以每一次都要尽情享受，将自己完全沉入水中时，年轻的水道清理人总是快乐得忍不住想要唱起歌。
+	
+	【权限记录】
+	关于干员清流的族群，尽管时至今日，他们自身都已经难以说清自己从何而来，但通过对当地民谣的考察，我们或许可以尝试得出一定的推论。
+	她的故乡一定在非常、非常遥远，离大地很远的地方。
+
+	第三資料 :
+	「節水か……確かに節水は大事だけど、でも大浴場はまだ使ってもいいよね？」 
+	種族の特性上、セイリュウが長時間乾燥した環境にいると肌に不快感が生じ、重症の場合はアレルギーやヒビなどの症状が現れる。そのため、セイリュウは常日頃浄水の入ったスプレーボトルを肌身離さず携帯している。彼女がボトルを取り出し、顔や体に水を噴霧するのはよく見られる光景である。そんな彼女にとって、ロドスの設備万全の大浴場が一番お気に入りの場所と言えるだろう。
+	普段は資源の節約に関して自身にかなり厳しいセイリュウだが、浴場の話題になる時だけ、少し狼狽えたり、恥ずかしそうな顔を見せるのだ。
+	
+	傍から見れば、こればかりは仕方がないことであり、決して責められるようなことではないが、本人はかなりの罪悪感を抱いているようで、自身に制限をかけている——お風呂は最大一日三回だ。
+	入浴回数が限られているため、毎回のお風呂を最大限に楽しまないともったいない。体が水に完全に浸っている瞬間、若い水道清掃員はいつも歌を口ずさむほどに楽しそうだ。
+	
+	【権限記録】
+	セイリュウの個体群のルーツについて、彼ら自身ですらはっきり答えられないが、当地で伝わる民謡への考察からある程度の推測ができる。
+	彼女の最初の故郷はきっと、大地から遥か、遥か遠く離れた場所にあるに違いない。
+
+	Archive File 3 :
+	'Conserve water. Yes, it's good to conserve water, but we still get to keep the large bathtub, right?'
+	Due to the characteristics of her race, if Purestream is in a dry environment for extended periods of time, she may experience skin discomfort. In severe cases, allergic reactions, chafing, or other related symptoms may occur. Therefore, Purestream always carries a small spray bottle of purified water with her. She can often be seen taking out this bottle to spray water over her face. Rhodes Island's well-equipped bath facility has quickly become one of her favorite places.
+	Purestream holds herself to strict standards in the conservation of resources, her conviction only faltering when it comes to her bathing problem, for which she appears ashamed and apologetic about.
+	
+	For others, this is perfectly understandable, for nobody is perfect. Despite that, Purestream has expressed remorse for her actions and has even set up a rule that limits her to three baths a day.
+	Because of this restriction, she makes sure to thoroughly enjoy each session. When she completely submerges herself into the water, the young girl is so happy that she sometimes can't help but to sing.
+	
+	[Classified Records]
+	 Regarding Operator Purestream's race, it is difficult to find out where they originated from, but we may be able to glean some clues from some local folk songs.
+	Her true hometown must be very far, far away, in a distant land.
+
+	파일 자료 3 :
+	    "물을 아껴야 해. 그래도… 공중목욕탕은 남겨 놓을까?"
+	    종족 특성 때문에 퓨어스트림은 건조한 환경에 오랫동안 노출될 경우 피부가 자극을 받아 심한 경우 피부가 트거나 알레르기 증상이 생길 수도 있다. 그래서 퓨어스트림은 언제나 맑은 물을 담은 미스트를 소지하고 다니며, 다들 그녀가 미스트를 꺼내 자신의 얼굴을 향해 물을 뿌리는 모습을 자주 볼 수 있다. 로도스 아일랜드에 구비된 대형 공중목욕탕은, 그런 그녀가 가장 좋아하는 장소가 되었다.
+	    자원 절약 측면에서는 자신에게도 엄격한 잣대를 요구하는 오퍼레이터 퓨어스트림이지만, 목욕탕 문제에 직면했을 때는 그다지 자신있는 태도를 보이지 못했고, 부끄러워하며 미안해하는 듯한 모습을 보여주었다.
+	
+	    다른 사람들이 보기에도 이건 어쩔 수 없는 일이라 충분히 이해를 해주었지만, 오퍼레이터 퓨어스트림은 자신의 행위에 대해 적지 않은 죄책감을 갖고 있는 듯하다. 그리고 그녀는 자신을 위해 매일 목욕은 최대 3회라는 규칙을 정하게 되었다.
+	    횟수에 제한이 있기에 매번 목욕을 할 때마다 최선을 다해 목욕을 즐기려 하고 있으며, 물속에 자신을 완전히 담글 때면 이 젊은 수도 청소부는 언제나 즐거움을 참지 못하고 노래를 부르곤 한다.
+	
+	[제한된 기록]
+	    오퍼레이터 퓨어스트림의 종족에 관한 내용은, 지금에 이르러서는 그들 자신조차 자신들이 어디에서 왔는지 설명할 순 없게 되었지만, 현지 민요를 조사하여 어느 정도 추론을 해볼 수는 있을 것이다.
+	    그녀의 고향은 분명 멀고 먼, 이 땅에서 아득히 먼 곳에 있으리라.
+
+———————————————————————————————
+
+	档案资料四 :
+	“说实话，她背景和经历都单纯得像被她打理过的水流那样清，值得深挖的东西并不太多。”
+	“是这样吗。我看你这趟去了很久，还以为......等下，你手上拎的是什么？”
+	“这个？是那边当地的某种腌制兽肉。”
+	“......那你背上背着的呢。”
+	“哦！你闻到香味了吗，鼻子也太灵了吧！别告诉凯尔希医生，回头我可以分你一点，这是当地特产店买的冷冻菜，嘿嘿，幸好我冰冻的源石技艺还可以，要不然可带不回来。”
+	“............你嘴里在嚼的又是......”
+	“啊......这个其实我也说不准，摆摊的阿婆硬塞给我的，说是自家制，吃不出是什么，不过还蛮好吃，我这还剩一点，你也来一个试试？”
+	“......”
+	“怎么了？不合口味？怪了，我觉得挺香的啊......”
+	“......一半。”
+	“啊？什么？”
+	“想要不被凯尔希医生知道你出门一趟就全顾着吃，就把这些都分我一半。放心，我付钱。”
+	“啊？？！你也太狠了吧？！”
+	——被走廊监控所记录的两名调查员间对话
+	
+	如果她热情邀请你去她的家乡，别拒绝。别给自己后悔的机会。
+
+	第四資料 :
+	「正直、あの子の背景も経歴も浄化後の水みたいにキレイだし、深追いするほどのものはそんなにないと思うけどなぁ。」
+	「そうですか。あなたがずっと帰って来なかったので、てっきり......待って、その手に持ってるのは何ですか？」
+	「これ？これはあそこの住民の自家製漬け獣肉だ。」
+	「……じゃあ、後ろに背負っているのは？」
+	「おっ！匂いに気づいた？鼻が利くな！ケルシー先生には黙っといてくれ、後でちょっと分けてやるから。これはあそこの土産専門店で買った冷凍惣菜だ。へへ、持って帰れたのは俺の冷凍アーツのおかげだけどな！」
+	「…………それで、今口に入れたのは……」
+	「ああ、これは……よくわからんやつだ。屋台のおばさんに無理矢理押し付けられたんだ。自家製だってよ。食べてもなんなのかわからないけど、結構うまいから持ってきたんだ。あとちょっとしかないけど、食べる？」
+	「……」
+	「どうした？口に合わなかったか？おっかしいなぁ、俺はいけると思うけど……」
+	「……半分。」
+	「え？なんだって？」
+	「あなたが任務で食べてばっかりいたことをケルシー先生に知られたくなければ、半分分けてもらいます。勿論お金は払いますよ。」
+	「んああ！？そりゃやりすぎだろ！？」
+	——廊下の監視カメラによって記録された二人の調査員の会話より
+	
+	もし彼女から故郷への招待を提案されたら、どうか拒まないように。後悔したくなければ。
+
+	Archive File 4 :
+	'To be honest, her background and experience are as pure as the water she treats, and there are not many things worth delving into.'
+	'Is that so? Since you were gone for so long, I thought... Wait, what's that in your hand?'
+	'Hm? This? It's a local delicacy, some kind of pickled game.'
+	'...What about all that stuff in your backpack?'
+	'Oh? Your sense of smell is way too keen if you noticed that! If you promise not to tell Dr. Kal'tsit, I'll share some with you. These are some frozen specialty dishes that I got from a local store. Luckily, my ice-based Originium Arts came in handy, or I wouldn't have been able to bring these back.'
+	'...What are you chewing on this time...'
+	'Ah... I actually have no idea what this is. It's supposed to be some kind of home cooking, but I can't tell what it actually is... But, it's pretty good, and I have some more if you want to try?'
+	'...'
+	'What's the matter? Doesn't suit your taste? That's weird... I thought it was pretty pungent...'
+	'...Half.'
+	'Huh? What?'
+	'If you don't want Dr. Kal'tsit to find out that all you were doing on your trip was eating, give me half your haul. Don't worry, I'll pay.'
+	'Huh?! Isn't that a bit too cutthroat?!'
+	--A conversation between two investigators, as recorded by a hallway security camera
+	
+	If she cordially invites you to go visit her hometown, don't refuse the opportunity. Don't even give yourself the chance to regret it later.
+
+	파일 자료 4 :
+	    “솔직히 그 애, 배경이나 경력은 거의 자기가 처리한 물처럼 깨끗하더라. 파고들 만한 게  별로 없던걸."
+	    "그래? 네가 꽤 오랫동안 머무르길래 난 또… 잠깐, 손에 뭘 들고 있는 거야?"
+	    "이거? 거기서 만드는 무슨 고기 절인 거라던데."
+	    "…그러면 네 등에 짊어지고 있는 건?"
+	    "아! 이 냄새도 맡은 거야? 코가 굉장히 좋은데! 이따 돌아와서 좀 나눠줄 테니까, 켈시 선생님한텐 말하지 마. 거기 특산품 매장에서 팔던 냉동 요리야. 히히, 내가 얼음 오리지늄 아츠를 사용할 수 있어서 다행이지, 아니었으면 못 가져왔을걸?"
+	    "네가 씹고 있는 건 또 뭔데……"
+	    "아… 이건 나도 잘 모르겠어. 노점상 아주머니가 먹으라고 막 주시더라고. 자기 집에서 만들었다나. 먹을만해. 아니, 엄청 맛있어. 조금 남았는데 너도 먹을래?"
+	    "……"
+	    "왜? 입맛에 안 맞아? 이상하네, 난 맛있는데……"
+	    "……반 줘."
+	    "어? 뭐라고?"
+	    "먹을 거에나 정신 팔고 있었단 사실을 켈시 선생님한테 들키고 싶지 않으면, 나한테 반 달라고. 걱정 마, 돈은 줄 테니까."
+	    "뭐어??! 너무한 거 아냐?!"
+	——복도 감시 카메라를 통해 촬영된 두 조사원 간의 대화
+	
+	    만약 그녀가 자신의 고향으로 초대한다면 절대 거절하지 마라. 분명 후회할 테니 말이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	获得理解者，是比升职加薪还要更加令人开心的事。
+	不过加薪也是很重要的。要小心不谈薪水大谈理想的老板，千万小心。
+
+	昇進記録 :
+	理解者を得られるのは、昇進や昇給よりも喜ばしいことに違いない。
+	しかし、昇給も非常に重要である。理想ばかりを語り、給与について何も示さない雇用者には、くれぐれも注意を払うように。
+
+	Promotion Record :
+	Getting people to understand you is sometimes more valuable than a promotion and the salary that comes with it.
+	However, getting a salary increase is also important. Whatever you do, be very careful of touting lip service while ignoring the pay.
+
+	승진 기록 :
+	    이해해주는 사람을 얻는 건 승진해서 급여가 오르는 것보다 훨씬 기쁜 일이에요.
+	    하지만 급여 역시 무척 중요하죠. 급여 이야기는 하지 않고 이상에 관해서만 이야기하는 사장은 조심, 또 조심해야 해요.

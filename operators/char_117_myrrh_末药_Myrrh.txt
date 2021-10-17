@@ -1,11 +1,17 @@
 ID:
 	char_117_myrrh
 
-干员代号\Name:
+CV:
 	末药
 	ミルラ
 	Myrrh
 	미르
+
+干员代号\Name:
+	优木加奈
+	優木かな
+	Kana Yuuki
+	유우키 카나
 
 招聘合同\Character Usage:
 	罗德岛医疗干员末药，将用草药为小队提供医疗援助。
@@ -43,177 +49,357 @@ ID:
 	치료 역장
 
 语音\Voices:
-	那个，您提交给凯尔希医生的报告书，最后几处笔迹已经乱七八糟了......请别再熬夜了......
 	……あの、ケルシー先生に提出する報告書なんですけど、最後のほうが支離滅裂になってます……。夜更かし、やめてくださいね……。
 	Pardon, but that report you submitted to Dr. Kal'tsit... we could barely read the last few lines. Please don't submit sloppy reports done late at night...
 	저… 켈시 선생님께 제출할 보고서 말인데요, 마지막 부분이 엉망진창이더라고요…… 너무 밤새고 그러진 마셔요…… 
 
-	这里到处都是没见过的东西呢......！啊，东张西望好像不太好，对不起......
 	ここは見たことのない物ばかりです……あ、よそ見はよくないですね……。ごめんなさい……。
 	Wow, there are so many things in here I've never seen before... Oh, sorry, I shouldn't have looked around without your permission... sorry...
 	여긴 처음 보는 것들이 참 많네요…… 아, 곁눈질하는 건 안 좋죠…… 죄송해요…… 
 
-	虽然草药确实很苦，但还是希望大家更关注它的药效......
 	確かに薬草は苦いんですけど、みなさんには効き目のほうに注目してほしいです……。
 	I know my herbs are rather bitter, but I'd like to point out how effective they are...
 	확실히 약초는 쓰긴 하지만, 여러분께선 약효에 주목해주셨으면 해요…… 
 
-	那个，博士，哈默妮的病情，还没有好转吗......嗯，我知道了，我工作回来就去照顾她。
 	あの、ドクター……ハルモニーの具合、まだよくならないですか……？……わかりました。お仕事が終わったら見に行きます。
 	Um, Doctor... is Harmonia still not getting any better? ... I see... I'll pay her a visit as soon as I finish work.
 	저기, 박사님…… 하모니아의 병은 아직 차도가 없나요……? 알겠습니다, 일 마치면 보러 갈게요.
 
-	我的草药很苦，不受欢迎......呜呜......但我只会调配苦味的药......您说多听取下大家的意见比较好？我、我能行吗？我不太擅长说话......但我会努力试试的。
 	わたしの薬草は苦くて……人気ないんです……うう……。でもわたしには苦いお薬しか作れなくて……みなさんの意見、もっと取り入れたほうがいいですか……？わ、わたしが聞くんですか……？話すのはあんまり得意じゃなくて……頑張ってみますけど……。
 	I know my herbs aren't popular because they're bitter... but I don't know how to make them taste better... Oh, you mean I should ask around for tips? B-but... I'm not that good at small talk... I'll do my best, though!
 	제 약초들은 죄다 써서… 인기가 없더라고요…… 으으…… 근데 전 쓴 약 밖에 만들 줄 몰라서…… 다른 분들의 의견을 좀 더 들어보는 게 좋을까요……? 제, 제가 직접 물어보라고요…? 말하는 건 잘 못하는데…… 노력은 해보겠지만…… 
 
-	小时候，我和哈默妮常常跑去各种地方探险。嗯，是的，我们是在城区的废墟中长大的，那时候的我们，非常想看一看外面的世界......
 	小さい頃は、ハルモニーとよく色んなところを探検しました……。あ、はい、わたしたちは廃墟で一緒に育ったんです。あの頃はずっと、外の世界が見てみたいと思ってました……。
 	Harmonia and I would explore all sorts of places together when we were kids. Yeah, we grew up in the city ruins and were really curious about the world outside...
 	어릴 땐 하모니아랑 자주 이곳저곳을 탐험하곤 했어요…… 아, 네, 폐허에서 같이 자랐거든요. 그때는 줄곧 바깥세상을 보고 싶어 했었죠…… 
 
-	哈默妮是我的第一个，也是最好的朋友......可是，她也是因为我，变成了现在的样子......她因为矿石病而缩短的生命，我一定要为她夺回来。
 	ハルモニーはわたしの初めての友達で、一番の親友です……。なのに、わたしのせいであんなふうになってしまって……鉱石病で短くなってしまった命、わたしが必ず取り返します。
 	Harmonia is my oldest friend... and my best friend, too. It's my fault that she got sick in the first place. She may be bedridden now because of Oripathy... but I'll find a cure and bring her back to her old self one day, I promise!
 	하모니아는 제가 처음 사귄 친구예요. 제일 친한 친구이기도 하고요…… 그런데 저 때문에 그렇게 돼 버려서…… 광석병 때문에 짧아진 수명은, 제가 꼭 되돌려줄 거예요.
 
-	听了调香师小姐的建议，我在草药中混合了香料，果然赢得了大家的喜爱！拿出勇气来听取大家的意见，真是太好了......
 	パフューマーさんのアドバイスで、香りの良いハーブを混ぜてみたら、お薬、人気になったんです……！勇気を出してみなさんに意見を聞いてよかった……。
 	Ms. Perfumer suggested that I add some spices into my herbs and now they taste much better! I'm so glad I managed to summon the courage to ask her for advice...
 	퍼퓨머 씨가 조언해주신 대로 약에 향기 좋은 허브를 섞었더니…… 인기가 많아졌어요! 용기를 내서 다른 분들 의견을 듣길 잘했어요…… 
 
-	哈默妮说，最近的我，变得比以前更有精神了，您也这样觉得吗？一定是因为有博士及时指点我，如果没有您，我该怎么办呢......
 	ハルモニーに、わたしが前より元気になったと言われたんですけど、そう見えますか？きっとあの時ドクターからいただいたアドバイスのおかげです……。もしドクターがいなくなったら、わたしはどうしたらいいか……。
 	Harmonia says I'm in higher spirits these days. Do you think so too? It's all thanks to you and your timely advice. I wouldn't know what to do without you...
 	제가 예전보다 훨씬 활기차 보인다고 하모니아가 그러던데, 정말 그렇게 보이나요? 분명 그때 박사님께서 조언해 주신 덕분일 거예요…… 혹시라도 박사님께서 안 계시면 전 정말 어쩌면 좋을지…… 
 
-	博士......是不是睡着了？这下可以仔细观察博士的办公室了呢......
 	……ドクター、寝てるんですか？これでドクターのお部屋をじっくり観察できますね。
 	Doctor... oh, are you asleep? Yay! Now I can look around the office to my heart's content.
 	…박사님, 주무시나요? 이제 박사님 방을 천천히 관찰할 수 있겠네요.
 
-	那个，我是草药师末药.....这个代号是凯尔希医生为我指定的，据说，它指的是“生命的短暂”，医生说，她希望我要牢记这个寓意......
 	あの、薬草師のミルラといいます……。このコードネームはケルシー先生がくださったもので、「命の儚さ」という意味があるそうです。先生は、わたしにこの言葉をずっと覚えていてほしいと仰っていました……。
 	Uh, I'm Myrrh, a herbalist. Dr. Kal'tsit gave me this title... she said myrrh symbolizes the ephemerality of life and wanted me to keep this in mind.
 	약초사 미르라고 해요…… 이 코드네임은 켈시 선생님께서 지어 주신 건데요, '생명의 덧없음' 이라는 의미가 있다고 하네요. 선생님께선 이 말을 항상 마음에 새기고 있으라고 하셨어요…… 
 
-	非常感谢......！这样就能做出更好的药了......！
 	ありがとうございます……！これで、もっと良いお薬が作れますね……！
 	Thank you so much! This way I'll be able to concoct even better medicine.
 	감사합니다…! 이제 더 좋은 약을 만들 수 있겠어요…!
 
-	这就叫做......晋升？是这样的吗......？职位什么的，我还不是很懂......
 	これが……昇進？というんですか……？役職とか、よくわからなくて……。
 	This is called a... promotion? Is that it...? Um, I don't really know much about stuff like that...
 	이게 승진이라는 건가요…? 직무같은 건 잘 몰라서…… 
 
-	以前常常和哈默妮一起四处探索......这样的秘境和废墟。越是危险的地方，就越能收集罕见的药材。
 	昔はよくハルモニーと一緒に探索をしました……こういう秘境とか廃墟を。危険な場所ほど、珍しい薬草が採れるんです。
 	I used to explore secret places and abandoned buildings just like this with Harmonia. The more dangerous the place was, the rarer the ingredients we could find.
 	예전엔 자주 하모니아랑 같이 탐사를 다니곤 했어요…… 이런 숨겨진 장소나 폐허 같은 곳이요. 위험한 곳일수록 귀한 약초를 딸 수 있거든요.
 
-	那个，我尽量不拖大家的后腿......
 	あの、みなさんの足は引っ張らないようにします。
 	Uh... I'll try my best not to drag everyone down...
 	저… 여러분의 짐이 되지 않도록 열심히 할게요.
 
-	就从努力直视大家的眼睛开始......
 	まずはみなさんと目を合わせられるように、頑張ります……。
 	I'll start by doing my best to make eye contact...
 	우선은 여러분과 눈을 마주칠 수 있도록 노력할게요…… 
 
-	啊，博士，我要出发了。
 	はい……ドクター。出発します。
 	Ah, Doctor, I'm ready to go.
 	네…… 박사님, 출발하겠습니다.
 
-	各位，我不会让你们受伤的......！
 	わたしがいる限り、みなさんをひどい目には遭わせません……！
 	I'll do my best to make sure no one gets hurt...!
 	제가 있는 한, 여러분을 고생시키진 않을게요……!
 
-	我在。
 	はい。
 	I'm with you!
 	네.
 
-	来了。
 	行きます。
 	They are coming.
 	갑니다.
 
-	我要小心一点。
 	気をつけなきゃ……。
 	I need to be careful.
 	조심해야겠어요… 
 
-	有没有需要治疗的人呢？
 	治療が必要な人はいませんか？
 	Does anyone need healing?
 	치료가 필요한 분 계신가요?
 
-	要、要扔得准一点......
 	ち、ちゃんと狙って投げないと……。
 	Gotta aim more carefully...
 	자, 잘 조준해서 던져야지… 
 
-	药来了！
 	お薬です！
 	I've brought the medicine!
 	약이에요!
 
-	这是药，请收下！
 	お薬です、受け取ってください……！
 	Here's the medicine. Please, take it!
 	약이에요, 받으세요…!
 
-	没关系，可以治好的......！
 	大丈夫、治ります。
 	It's okay, it's curable!
 	괜찮아요, 나을 거예요.
 
-	赢了？真的吗？这么严酷的战斗都能......博士真的好厉害......！
 	勝った……？本当に……？こんなに厳しい戦いも……ドクターは本当にすごいです……。
 	We won? Really? Even against those really tough opponents? Wow... you're so cool, Doctor!
 	이겼다고요…? 정말로요…? 이렇게 격렬한 전투였는데도… 박사님은 정말 굉장하세요…… 
 
-	大家，这次的药效......算了，回去再问吧......
 	みなさん、今回のお薬の効き目はどうで……いえ、帰ってからまたお聞きします……。
 	So... was my medicine effective this time? ...Uh, forget it, I'll ask when we get back...
 	여러분, 이번 약의 효능은 어떠셨… 아니에요, 돌아가서 다시 여쭤볼게요…… 
 
-	唔唔，手忙脚乱的......没犯大错真是太好了......
 	ふぅ、慌ただしい戦いでした……。大きなミスがなくてよかったです……。
 	I had so much to do in so little time... what a relief I didn't mess up too badly...
 	후우, 참 어수선한 전투였어요…… 크게 실수한 게 없어서 다행이에요…… 
 
-	药瓶......药瓶全都碎掉了.....
 	薬のビンが……みんな割れちゃった……。
 	The bottles... the bottles are all shattered...
 	약병이…… 전부 깨져버렸어…… 
 
-	唔，我觉得衣服上还残留着草药的味道......
 	うう……まだ服に薬草の匂いが残ってる気がします……。
 	Uh... I can still smell herbs on my clothes...
 	으으…… 아직 옷에 밴 약초 냄새가 안 빠진 것 같아요…… 
 
-	唔哇！
 	んぅ……。
 	Wahh!
 	우읏…… 
 
-	博士，那个，最近我调制了安定情绪的汤药。对身体是有好处的，只是确实有点苦......
 	あの、ドクター、心を落ち着ける効果のあるお薬を作ってみました……。お体には良いと思うんですけど、やっぱりちょっと、苦い……です……。
 	Uh, Doctor... I made some herb soup good for soothing the body and calming the mind. It's just... a bit bitter...
 	저, 박사님. 진정 효과가 있는 약을 만들어 봤어요…… 몸에는 좋을 것 같은데, 역시 좀 쓰긴 해요…… 
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早、早上好，博士。
 	こ、こんにちは、ドクター……。
 	G-good morning, Doctor.
 	아, 안녕하세요. 박사님…… 
+
+干员档案\Background:
+	基础档案 :
+	【代号】末药
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】未公开
+	【生日】5月5日
+	【种族】沃尔珀
+	【身高】143cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ミルラ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】非公開
+	【誕生日】5月5日
+	【種族】ヴァルポ
+	【身長】143cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+	身体状況は良好で、十分健康と言える。
+
+	Basic Info :
+	[Code Name] Myrrh
+	[Gender] Female 
+	[Combat Experience] None 
+	[Place of Birth] Unknown 
+	[Date of Birth] May 5 
+	[Race] Vulpo 
+	[Height] 143cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 미르
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 미공개
+	[생일] 5월 5일
+	[종족] 불포
+	[신장] 143cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+	신체 상황 매우 양호, 대단히 건강함.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】普通 
+	【战斗技巧】普通 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Normal 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	末药，出身地未公开，药师。于药物研发方面展现出值得期待的天赋。
+	目前于罗德岛担任医疗小组干员，并提供药物制作等方面的服务。
+
+	個人履歴 :
+	出身地は非公開の薬草師。薬の研究の分野で発揮される天賦の才に期待される。
+	現在ロドスでは医療オペレーターとして薬の制作などを行っている。
+
+	Profile :
+	Myrrh, birthplace Unknown, apothecary. Showed great promise in the arts and science of medicine research. 
+	Currently a member of the Rhodes Island medical staff and provides pharmaceutical services.
+
+	프로필 :
+	    약사이며 출신지는 밝혀지지 않았다. 약물 개발면에서 기대할만한 재능을 보이고 있다. 지금은 로도스 아일랜드 의료부의 오퍼레이터로 활약하고 있으며, 약물 제작 등의 업무에 종사하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。 
+	
+	【体细胞与源石融合率】0% 
+	干员末药没有被源石感染的迹象。 
+	
+	【血液源石结晶密度】0.19u/L 
+	相比其他非感染者干员，干员末药的血液源石结晶密度检测表现出了相对较高的结果。建议增加对该名干员的日常检测程序。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.19u/L
+	ほかの非感染者のオペレーターに比べ、血液源石結晶密度が比較的高い。定期検査ルーチンの強化を推奨。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Myrrh showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.19u/L 
+	Compared to other non-infected Operators, Myrrh showed a higher concentration of crystal density in her blood. More intense daily test protocol recommended.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 미르로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.19u/L
+	다른 비감염자 오퍼레이터와 비교했을 때, 오퍼레이터 미르의 혈중 오리지늄 결정 밀도 검사 수치가 비교적 높은 것으로 나타남. 본 오퍼레이터에 대한 일상 검사 과정을 추가할 것을 건의함.
+
+———————————————————————————————
+
+	档案资料一 :
+	虽然只是医疗干员中普通的一员，但末药仍旧把这份职责看得十分重要，天天早出晚归，只为给其他干员提供品质优良的药丸。她对于制作药物有着自己独到的见解，也热衷于在大自然中寻找到药效更佳的原料，但在人际交往方面，她的表现就有些笨拙了，除了自己的知心好友，她似乎很难和大多数人维持稳固而持久的人际关系。
+
+	第一資料 :
+	医療オペレーターの中の一人という立場に甘んじず、他のオペレーターに良質な薬を提供するためだけに、朝から晩まで並外れた情熱を持って仕事に取り組んでいる。また、薬剤の制作に関しては独自の見解を持っており、大自然の中で更に効果のある原料を追い求め続けている。人間関係においては不器用なところもあり、何人かの気の知れた友人以外とは、あまり親密な関係を築けていないようだ。
+
+	Archive File 1 :
+	Although an ordinary medic, Operator Myrrh takes this responsibility very seriously. She goes work early and comes home late every day, giving her all to provide other Operators with quality medicine. Myrrh has unique insights into the pharmaceutical sciences, and is always keen to seek out new ingredients in nature. But she struggles with interpersonal communication. Terminally awkward with all but her closest friends, Myrrh demonstrates an inability to maintain strong and lasting relationships.
+
+	파일 자료 1 :
+	    비록 평범한 메딕 중 하나라곤 하나 미르는 이 직책을 매우 중요하게 생각하고 있기에, 다른 오퍼레이터들에게 우수한 품질의 약을 제공해주기 위해 매일 부지런히 일하고 있다. 그녀는 제약에 대해 자신만의 독창적인 견해를 갖고 있으며, 약효가 더 좋은 원료를 대자연에서 찾기 위해 늘 열성이지만, 자신의 절친을 제외한 타인과는 지속적인 인간 관계를 유지하는데 어려움을 겪고 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	在正式于罗德岛任职后，干员末药展现出了其较为宝贵的积极性。相对于其他资深干员，末药无论在工作流程的熟悉或战斗经验上都显得较为稚嫩。但她勤勉肯干，不怕麻烦的个性帮助她度过了最初，也是最艰难的适应期。尤其是让她牵肠挂肚的，好友哈默妮的康复状况，更是支撑着她无论如何也要在罗德岛立足的决心。
+	不过，相较于其他新进干员，末药在某些方面融入得相当之快：她几乎没有花费太多的力气便熟悉了罗德岛内复杂的建筑结构和通行方式，而且几乎未曾迷路过。在如何获取一些偏僻地区的独特资源的方法上，末药也提出过一些具有参考价值的提议。这使得末药很快取得了在罗德岛内的一席之地。
+
+	第二資料 :
+	ロドスに正式加入後、ミルラは珍しく積極的な姿勢を見せた。彼女は他の熟練のオペレーターと比べると、仕事の熟練度や戦闘経験は浅く苦労も絶えなかったが、その勤勉さと面倒を恐れない性格でなんとかそんな困難を乗り切った。現在彼女が最も気にかけている親友のハルモニーのリハビリ状況であるが、だからこそロドスで独り立ちしなければ、と彼女の支えになっているのもそのハルモニーなのである。
+	そんな彼女であるが、とある分野では他のオペレーターと比べても秀でた順応性を見せた。彼女はロドス内部の構造や歩き方を何の苦労もせずに覚えたばかりではなく、ほとんど迷子にならないのだ。どのようにして僻地特有の資源を手に入れるかといった議題においても、何度も価値のある提言をした実績がある。そのような活躍も有り、彼女がロドスで一定の評価を得るまでにはあまり時間がかからなかった。
+
+	Archive File 2 :
+	After officially becoming a member of Rhodes Island, Operator Myrrh exhibited her precious positivity. Compared to other Senior Operators, Myrrh was much less savvy when it came to familiarity with job protocols or combat. But she worked her way through that toughest time, especially with her friend Harmonia still recuperating, which only further steeled her resolve to make it on the island. 
+	Myrrh did integrate much faster than other new recruits in some areas. She grasped the island's complicated structural layout and access system without much effort, almost never getting lost. She also made valid suggestions for obtaining unique resources in certain remote regions. All that had the island quickly taking notice of her.
+
+	파일 자료 2 :
+	    정식으로 로도스 아일랜드에 입사한 후 오퍼레이터 미르는 다행히도 자신의 적극적인 면을 보여주었다. 다른 시니어 오퍼레이터에 비해, 미르는 업무 과정이나 전투 경험 방면에서 모두 비교적 미숙한 모습을 보였지만 그녀의 근면성실하고 귀찮은 일을 마다 않는 성격 덕에 가장 힘들었던 입사 초기를 잘 적응할 수 있었다. 특히 그녀는 친구인 하모니아의 재활 상황을 늘 염려하였는데, 이것이 그녀로 하여금 어떻게든 로도스 아일랜드에 발을 붙여야 겠다고 결심하게 만든 큰 이유였다.
+	    다른 신입 오퍼레이터에 비해 미르는 어떤 방면에서는 굉장히 적응이 빠른 편이었다. 그녀는 큰 어려움 없이 로도스 아일랜드 내의 복잡한 건물 구조와 통행 방식에 적응하였고, 거의 길을 잃은 적도 없었으며, 어떻게 외지의 독특한 자원을 획득할 수 있을지에 관한 방법론에 대해서도 참고할 만한 가치가 있는 제안을 제출하였다. 이런 능력 덕분에 미르는 로도스 아일랜드 내에서 빠르게 자리를 잡을 수 있었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	干员末药的草药被鉴定是一种良药，但具备所有非现代医学制药产品所拥有的一切缺点：原料需特定产地，制作工序复杂，且味道极苦，甚至其制药配方中还混杂有某种程度的民间巫术成分。在医药现代化的当下时代，可以认为这种制药方式即将被彻底淘汰。
+	在末药本人的强烈意愿下，凯尔希医生为其分配了专门的药理学深化课程以及现代制药方法培训。目前该特训已取得较为积极的成果。
+	经培训的后末药迅速掌握了流程简化的制药方法，并迅速应用于实战中。其制作的药物，除一定程度上仍保留其独特的苦味外，其药效和治疗效果已经收到了干员们的好评。
+	目前干员末药在疗养庭园工作人员的协助下，正在努力克服其药物的最后一个弱点。
+
+	第三資料 :
+	ミルラの薬草は効果のある良薬であると判定されているものの、原材料の産地は限られ、製薬過程は複雑、そしてどれも非常に苦く、民間療法レベルの成分までもが含まれているなど、非現代医学の全ての欠点を内包したものとなっている。医薬品の現代化が進んだ今では、ほとんど淘汰されてしまったものであると言っても過言ではない。
+	しかしミルラ本人の強い要望により、ケルシー医師が彼女に薬理学上級課程と現代製薬訓練を受けさせたことで、良い成果が上がっている。
+	訓練を受けた彼女は、すぐに簡略化された製薬方法を身に着け、さらにそれを実戦で活用した。彼女が作る薬は、ある程度独特の苦味を残しているものの、その治療効果はオペレーターたちが認める物となっている。
+	今彼女は療養庭園スタッフの協力を得て、薬の最後の欠点である苦味を解決しようと努力している。
+
+	Archive File 3 :
+	Operator Myrrh's herbal mix was deemed a great medicine, but it has all the drawbacks of a premodern pharmaceutical: Uniquely indigenous ingredients, complicated creation processes, extremely bitter taste, and even elements of witchcraft as part of the recipe. The modern medical community saw it as a relic doomed to obsolescence.
+	But at Myrrh's insistence, Dr. Kal'tsit developed a special training course with modern technology specifically for her. The training has produced positive results. 
+	Myrrh quickly mastered a simplified pharmaceutical process and applied it to her work. While the result remains bitter, the remedies she offered have garnered positive feedback for their effectiveness. 
+	With assistance from the convalescent home personnel, Operator Myrrh is now striving to overcome that final drawback of her medicine.
+
+	파일 자료 3 :
+	    오퍼레이터 미르의 약은 좋은 평가를 받고 있긴 하나, 그 약에는 비현대식 제약품이 가지는 모든 결점들이 존재하였다. 반드시 특정 생산지의 원료를 필요로 하고, 제작 공정은 복잡하며, 맛도 굉장히 썼다. 심지어 약 처방전 중에는 간혹 민간에서 행해지는 주술적인 요소도 포함되어 있었다. 현대화된 제약 방식이 주류인 현 시대에 이런 종류의 제약 방식은 완전히 도태되고 말 것이다.
+	    미르 본인의 강력한 의지로 인해, 닥터 켈시는 미르를 위해 전문적인 약리학 심화 과정 및 현대 제약 방법 교육을 배정해주으며, 현재 본 특훈을 통해 어느 정도 의미있는 성과를 거두었다. 미르는 빠르게 제약 과정을 간소화한 제약 방법을 터득하여 실전에서도 곧장 응용할 수 있었다. 미르가 제조한 약물은 여전히 어느 정도 그 특유의 쓴맛이 존재하지만, 그 약효만큼은 이미 오퍼레이터들로부터 좋은 평가를 받고 있다.
+	    현재 오퍼레이터 미르는 요양 정원 작업자의 협조 하에, 열심히 자신의 약물의 마지막 약점 한 가지를 보완하고자 노력 중이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	对于自己与朋友哈默妮的出身，末药并未给予正面回答，她对所谓的“废墟”与“秘境”的回答显得闪烁其词，或许有意避开回答，却也显示出对事实缺乏了解的状况。目前可知的是，两人均来自某缺乏国家控制力保障的地带，而该地带具有严格的守密原则，避免任何可能的情报泄露，导致该地区被外人发现。基于这种情况，对该份资料的调查目前处于搁置状态。 
+	目前根据干员末药的自述，其好友哈默妮的矿石病感染皆因两人在某次探险中，末药失误的行为所导致。但末药并未详细描述探险的详细过程以及哈默妮感染的原因。通过交谈可以发现，末药因创伤性记忆导致的缺失，是她无法完整复述该事件，以及无法理解的若干发现的关键。 
+	备注：针对哈默妮的病情与病症进程，目前因系统原因暂时无法调取。患者目前以普通感染者的身份接受罗德岛治疗，但谢绝接受咨询与调查。
+
+	第四資料 :
+	ミルラと親友であるハルモニーの出身について、彼女は一度もはっきりと答えたことはない。彼女は出身を「廃墟」や「秘境」といった言葉で濁したり、或いは意図的に回答を避けており、自らもあまりそれを理解していないといった様子も見せている。現在知ることのできる情報によると、如何なる国家権力も及ばず、かつ厳格に秘密が守られ外には一切情報が漏れないエリアで二人は生まれ育ったらしい。状況も考慮し、こちらの資料に対する調査は現状凍結状態となっている。
+	ミルラの話によると、親友のハルモニーの鉱石病は二人で探検していた際に患ったもので、その原因はミルラにあるという。しかしその探検の詳細やハルモニーが感染に至った具体的な原因は彼女の口からは語られなかった。さらに話を聞いてみると、彼女は外傷により当時の記憶を喪失しており、それこそが彼女が当時のことを語れない、そして理解できない原因であることがわかった。
+	注：ハルモニーの病状や進行度に関しては、システム上の原因でデータを取得できない。現状普通の感染者としてロドスで治療を受けているが、問い合わせや調査は受け付けないものとする。
+
+	Archive File 4 :
+	As for her own and her friend Harmonia's background, Myrrh has never given a straight answer. She spoke of 'ruins' and 'secret worlds,' perhaps to throw others off the trail, or it could be that she had no understanding of them at all. What is known is the pair came from a region lacking the protection of a sovereign state, relying on strict rules of secrecy to prevent its location or status from becoming known to outsiders. That has stifled investigation into the subject. 
+	According to Myrrh's own account, her friend Harmonia got Infected during an exploratory mission on which Myrrh made a mistake. But Myrrh has not provided any details about the adventure or the cause of Harmonia's infection. During interviews, it became clear that Myrrh has suffered memory loss due to trauma and is unable to reconstruct the event. 
+	Note: No information regarding Harmonia's symptoms and prognosis are available through the archive. The patient is currently undergoing treatment as an ordinary Infected, but has declined all consultations and inquiries.
+
+	파일 자료 4 :
+	    자신과 친구 하모니아의 출신에 대해 미르는 직접적인 대답을 회피하였다. 그녀는 '폐허'나 '비경'에 대해 대답할 때 횡설수설하기도 하였는데, 이는 대답을 회피하려는 의도가 있었던 것일 수도 있겠지만, 단순히 이해가 부족하여 그런 것 처럼도 보였다. 현재 알 수 있는 사실은, 두 사람이 어떤 국가의 통제력이 닿지 않는 지역에서 왔으며, 해당 지역이 외부 사람에게 발견되는 상황을 야기할 수 있는 모든 정보 누출을 막고자, 엄격한 비밀 유지 원칙을 고수하는 곳이란 점이다. 상황이 이렇기에, 현재 본 자료의 조사는 전부 보류된 상태이다.
+	    현재 오퍼레이터 미르의 진술에 의하면 그녀와 하모니아, 두 사람이 함께 어떤 탐험을 하던 도중 미르의 실수로 인해 하모니가 광석병에 감염되고 말았다고 한다. 하지만 미르는 그 탐험의 상세 과정과 하모니아가 감염된 원인에 대해서는 구체적인 답변을 하지 않았다. 대화를 통해 미르가 외상성 기억상실 장애를 겪고 있음을 발견할 수 있었기에, 해당 사건에 대한 온전한 설명을 듣거나, 떠올려 낸 기억의 조각들의 뜻을 제대로 이해하는 건 당분간 어려울 것으로 보인다.
+	    비고 : 하모니아의 병세와 병의 차도에 대해서는 현재 시스템상의 문제로 잠시 조회가 불가합니다. 환자는 현재 로도스 아일랜드에서 일반 감염자 신분으로 치료받고 있으나, 상담 및 조사는 사절하고 있습니다.

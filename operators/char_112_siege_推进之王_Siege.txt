@@ -1,11 +1,17 @@
 ID:
 	char_112_siege
 
-干员代号\Name:
+CV:
 	推进之王
 	シージ
 	Siege
 	시즈
+
+干员代号\Name:
+	川澄绫子
+	川澄綾子
+	Ayako Kawasumi
+	카와스미 아야코
 
 招聘合同\Character Usage:
 	格拉斯哥帮头领推进之王，将为你辟开前路。
@@ -48,177 +54,458 @@ ID:
 	스컬 크래시
 
 语音\Voices:
-	作战任务分配好了？没有的话，我可以再等等......
 	任務の配分はまだ済まないのか？もう少しだけ待ってやろう……。
 	You're still not done assigning tasks? I'll wait a bit longer then.
 	임무 배정은 아직도 끝나지 않았나? 조금만 더 기다려 주지… 
 
-	保持冷静，继续前行。
 	冷静に、前へ進め。
 	Keep calm and carry on.
 	침착하게, 앞으로 나아가라.
 
-	以前的伙食还挺不错的，但自从和因陀罗她们在一起之后......变得糟透了。
 	以前はもっと良い食事にありつけていたのだが、インドラたちと出会ってからは……ひどいものだ。
 	Our meals used to be pretty nice in the past... but the quality's gone downhill since we joined Indra's group.
 	예전엔 더 괜찮은 식사를 하곤 했었는데… 인드라 녀석들과 만나고부터는…… 이거 꼴이 말이 아니구먼.
 
-	我做了个梦......那是太阳升起的地方。视线无法触及之处，我的祖国就在那里......我或许，再也回不去了。
 	夢を見た……太陽が昇る夢を。そしてその地平線の彼方にある、私の故郷……もう二度と帰ることは叶わんかもしれん。
 	I had a dream... a dream where the sun rises, and in the distance beyond the horizon... there was my hometown. The place I'll probably never get to return to ever again.
 	꿈을 꿨다… 태양이 뜨는 꿈을… 그리고 그 지평선 너머에 있는 내 고향…… 이제 두 번 다시 돌아갈 수 없을지도 모르지.
 
-	回过神来，已经习惯了这种漂泊的生活，真奇妙啊——这是我从来没有想象过的事。
 	いつの間にか、根無し草の生活にも慣れてしまった。不思議なものだ——昔の私からすれば、考えられないな。
 	Before I knew it, I'd become accustomed to this nomadic life... It's really strange. My past self never imagined this is how I'd end up.
 	어느샌가, 정처 없이 떠도는 생활에도 익숙해져 버렸어. 신기한 일이지…… 옛날의 내겐 상상도 못 할 일이었는데 말이야.
 
-	你说高文他们？......与其说是我遇见他们，倒不如说是他们捡到了我。
 	ガウェインたちとは……出会ったというより、拾われたというべきか……。
 	Gawain and company? I wouldn't say they ran into me, it's more like they picked me up from the streets.
 	가웨인 녀석들과는…… 만났다기보단, 그들이 날 주웠다고 해야겠지…… 
 
-	和因陀罗他们在维多利亚的街头并肩作战——回想起来，我也慢慢变得珍惜起这段回忆了。
 	インドラたちとは、ヴィクトリアの街で肩を並べて戦ったものだ。――考えてみれば、これも私の大切な思い出のひとつかもしれんな。
 	I used to stand side by side with Indra and her team when we fought on the streets of Victoria... Looking back at it, I guess that's a rather fond memory to me.
 	인드라 녀석들이랑은 빅토리아의 거리에서 함께 싸운 적이 있었어. …… 생각해 보면, 이것도 소중한 추억 중 하나일지 모르지.
 
-	别放松警惕......！我知道你已经十分努力了，但仅凭我们现在的力量，总会发生力不能及的事情。
 	警戒を解くな……！十分に気をつけているのはわかっているが、我々数人の力だけではどうにもならんこともある。
 	Stay on your guard! I know you're already on high alert, but something outside our control could always happen when there's so few of us.
 	경계를 늦추지 마…! 충분히 주의하고 있는 건 알지만, 우리 몇 사람 힘으로는 어떻게 해 볼 수 없는 일도 있기 마련이니.
 
-	如果遭遇了无法逃避的难题......我也是会有些许私心的。到那时，博士，希望你也能成为我的......不，没什么。
 	逃げ場のない難題にぶつかったなら……私にも考えがある。その時はドクター、貴様も私の……いや、なんでもない。
 	If we're ever driven into a corner, then... I have a plan B ready. Should that happen, Doctor, you can be my... You know what, never mind.
 	도망칠 곳 없는 어려운 문제를 마주하게 된다면… 내게도 생각이 있지. 그때는 박사, 네 녀석도 내…… 아니, 아무것도 아니다.
 
-	......嗯？睡着了？不知你的梦中，是否也会有故乡的景色。
 	……おっと、寝たのか？ドクター……貴様も故郷の夢を見ることはあるのか。
 	Oh, you fell asleep... I wonder if you ever dream of your hometown, too.
 	……음? 자는 건가? 박사…… 네 녀석도 고향의 꿈을 꾸는 때가 있을까.
 
-	力量测试已经通过了吧。那么，请给我些任务，别让这把锤子太无聊。代号？大家都叫我“推进之王”，不是很好记，但我觉得还不错。
 	テストには合格したのだろう。ならば、任務を与えてくれ、このハンマーは休ませておくには惜しい得物だ。コードネーム？皆私のことはシージと呼ぶ。覚えにくいが、悪くないだろ。
 	I've passed the strength test, right? So assign me some missions to do—my hammer is getting bored! My codename? They call me the Siege. Curious name, but it's got a nice ring to it.
 	테스트엔 합격한 거겠지? 그럼 임무를 다오. 이 해머는 그냥 놀려두기엔 너무 아까운 물건이라 말이야. 코드네임? 다들 시즈라고 하더군. 기억하긴 어려워도 나쁘지 않은 이름이지.
 
-	感觉不赖。
 	いい感触だ。
 	Feels pretty good.
 	느낌 좋은데.
 
-	晋升？哦——？
 	昇進？ほう――？
 	A promotion? Interesting...
 	승진? 호오… 
 
-	又是晋升？嗯，谢咯。仔细想想还挺奇妙的......因为在过去，做这件事的人是我呢。
 	また昇進だと？そうか、感謝する。考えてみれば妙なものだ……昔は私も階級を与える側の人間だったのだからな。
 	Another promotion? All right, thanks... Life is strange like that, you know? Once upon a time, I was the one assigning new ranks to people.
 	또 승진이라고? 그런가, 고맙군. 생각해 보면 참 묘하단 말이지…… 예전엔 나도 계급을 내려주는 쪽의 인간이었으니 말이야.
 
-	这，是一场必要的战斗吗？
 	これは、やらねばならない戦いなのか？
 	Do we really HAVE to fight this battle?
 	이건, 꼭 해야하는 싸움인가?
 
-	可要好好熟悉我的作战风格。
 	この私の戦い方、よく覚えておけ。
 	You'd better get used to my combat style.
 	내 싸우는 법, 똑똑히 기억해 둬라.
 
-	丢了一个钉子......死了一个国王。
 	一本の釘の欠落が、一国の王を殺すこともある。
 	For want of a nail... the kingdom was lost.
 	빠져나간 못 하나가, 한 나라의 왕을 죽이는 경우도 있지.
 
-	逃吧，被当成懦夫总比没命强。
 	逃げるがいい。死ぬよりは、腰抜けと呼ばれるほうがまだマシだろうからな。
 	Run while you can. Better to be a coward with a pulse than a martyr with a grave.
 	도망치는 게 좋을 거다. 죽는 것보다는 겁쟁이라 불리는 편이 그나마 나을 테니까.
 
-	哦？
 	ほう？
 	Yeah?
 	호오?
 
-	准备好了吗？
 	準備はできたか？
 	Are you ready?
 	준비는 됐나?
 
-	麻烦。
 	面倒だな。
 	What a pain in my ass.
 	귀찮군.
 
-	一口气解决。
 	一気にカタを付ける。
 	We'll take them out all at once.
 	한 번에 끝내주지.
 
-	这把武器可非庸人能使。
 	私の武器は、誰にでも扱えるわけではない。
 	Not just anyone can wield my weapon.
 	내 무기는 아무나 다룰 수 있는 게 아니야.
 
-	闪开。
 	どけ。
 	Out of my way!
 	꺼져.
 
-	上了战场，就要有饮败的觉悟！
 	戦場に出たからには、死ぬ覚悟を決めろ！
 	A warrior must be ready to face death on the battlefield!
 	전장에 나선 이상, 죽을 각오는 해두라고!
 
-	你的生死由我裁定。
 	貴様の生死は私が決める。
 	Your lives are in my control.
 	네 녀석이 죽고 사는 건 내가 정한다.
 
-	装模作样，不堪一击。
 	はりぼての戦術では、私の一撃を受け止めることはできん。
 	Your false bravado will do nothing to stop my assault.
 	겉만 번지르르한 전술로는 내 일격을 견디지 못할 거다.
 
-	对拒绝投降者无需怜悯。
 	投降を拒むものには、容赦はできん。
 	Those who refuse to surrender don't deserve mercy.
 	투항하지 않는 놈들은 용서하지 않겠다.
 
-	结束了吧？
 	これで終わりか？
 	Are we done here?
 	이걸로 끝인가?
 
-	意外的......疲惫......十分抱歉。
 	思った以上に……疲労が溜まっていたようだ……すまない。
 	I'm... really tired... for some reason. Sorry...
 	생각보다…… 피로가 쌓여있었나 보군…… 미안하게 됐다.
 
-	能找个地方让我睡一觉吗？
 	少しこの部屋で寝てもいいか？
 	Mind if I catch some z's in here?
 	여기서 잠깐 자도 될까?
 
-	嘁——
 	チェッ――。
 	Tsk...
 	쳇.
 
-	外面太吵闹了......你的办公室就不一样，很安静，挺不错的，让我待一会吧。
 	外はうるさくてかなわん……。それに比べてドクターの執務室は静かでいいな、しばらく居させてくれ。
 	It's too noisy out there for my tastes... I like the silence of your office, though. Let me stay here for a bit, will you?
 	밖은 시끄러워 못 참겠어…… 그에 비해 박사의 집무실은 조용해서 좋군, 잠깐 있다 가게 해줘.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	噢！博士。
 	うむ、ドクターか。
 	Oh, it's you, Doctor.
 	음, 박사인가.
+
+干员档案\Background:
+	基础档案 :
+	【代号】推进之王
+	【性别】女
+	【战斗经验】五年
+	【出身地】维多利亚
+	【生日】7月10日 
+	【种族】阿斯兰
+	【身高】172cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】シージ
+	【性別】女
+	【戦闘経験】五年
+	【出身地】ヴィクトリア
+	【誕生日】7月10日 
+	【種族】アスラン
+	【身長】172cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Siege
+	[Gender] Female 
+	[Combat Experience] 5 years 
+	[Place of Birth] Victoria 
+	[Date of Birth] Jul. 10 
+	[Race] Aslan 
+	[Height] 172cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 시즈
+	[성별] 여
+	[전투 경험] 5년
+	[출신지] 빅토리아
+	[생일] 7월 10일
+	[종족] 아슬란
+	[신장] 172cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】优良 
+	【生理耐受】优良 
+	【战术规划】优良 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】優秀
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Excellent 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 우수
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	维娜，代号推进之王，维多利亚公民，大部分履历缺失。存在数项未被证实的指控记录。在歼灭战、攻坚战、对抗硬目标等任务中表现出色。于多个测试中皆获得优异成绩，遂获准加入罗德岛。现作为先锋人员，于罗德岛某作战小队担任队长。
+
+	個人履歴 :
+	名前はヴィーナ、コードネームはシージ。ヴィクトリア公民。ほとんどの履歴情報は欠落しており、立証されていない申し立ても数件存在している。殲滅戦や要点攻め、強敵との戦闘などの任務で活躍している。様々なテストで一貫して良い成績を収め、ロドスへ加入した。現在は先鋒オペレーターとして小隊の隊長を務めている。
+
+	Profile :
+	Verna, codenamed Siege, citizen of Victoria, most records unavailable except for several unproven charges. Outstanding performance in assault, siege, and hard target missions. Admitted to Rhodes Island after excellent scores in multiple tests. Currently a vanguard and the captain of a Rhodes Island squad.
+
+	프로필 :
+	    비나. 코드네임 시즈. 빅토리아 공민. 여러 테스트에서 우수한 성적을 거두어 순조롭게 로도스 아일랜드에 입사했으며, 현재는 뱅가드 오퍼레이터로서 로도스 아일랜드의 어느 작전 팀에서 팀장을 맡고 있다. 섬멸전, 공격 작전, 강력한 목표 대항 임무에서 뛰어난 능력을 자랑하지만, 이력 정보는 몇 가지 확인되지 않은 혐의 기록이 존재한다는 점 외에는 대부분 확인이 되지 않고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	体细胞与源石融合率：0%
+	推进之王小姐没有被源石感染的迹象。
+	
+	血液源石结晶密度：0.14u/L 
+	可能和推进之王小姐的经历有关，她被感染的威胁，与日俱增，医疗部门应该要采取一些措施才行......
+	
+	干员推进之王的身体状况，可以说，相当良好......拥有严格锻炼过的身躯和体格，她已经能承担罗德岛分配的大部分任务。同样，她有着十分勇猛，甚至有些不顾自身安全的作战风格，医疗干员们也为时常和感染者打交道的她......感到担心。很担心。
+	——医疗干员末药
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	シージさんに鉱石病の兆候は見られません。
+	
+	【血液中源石密度】0.14u/L
+	シージさんの経歴とも関係しますが、彼女の感染リスクは日々増えています。ですから、医療部はそれ相応の措置を取らないといけません……
+	
+	シージさんの身体状況は、非常に良好と言えます。ストイックに鍛え上げた身体と恵まれた体格で、ロドスの多くの任務をこなしてくれています。ですが、彼女の勇敢で自分の身の危険も顧みない戦い方と、感染者との接触の多さが心配です……はい、医療オペレーターみんなが心配しています。
+	——医療オペレーターミルラ
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	Cell-Originium Assimilation: 0% 
+	Siege shows no symptoms of Oripathy. 
+	
+	Blood Originium-Crystal Density: 0.14u/L 
+	Due to Siege's peculiar pattern of activity, her risk of infection rises daily. Preventative measures are advised. 
+	
+	Siege is currently in excellent physical condition. Her physique, by way of a rigorous training regimen, is more than suited to the needs of Rhodes Island. Her fierce and sometimes reckless close quarters combat style has the medical staff very concerned about her frequent contact with the Infected... Very concerned. 
+	—Medic Operator Myrrh
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.14u/L
+	아마도 시즈 씨의 경력과 관련된 요소 때문에, 감염 위험성이 날마다 증가하고 있다. 의료부는 적절한 조치를 취해야…… 
+	
+	    시즈 씨의 신체 상황은 매우 양호하다고 할 수 있다…… 엄격한 훈련을 거친 신체와 체격, 시즈 씨는 이미 로도스 아일랜드가 배정하는 대부분의 임무를 수행할 수 있다. 하지만 그녀는 용맹하다 못해 자신의 안전 조차 뒷전에 두는 작전 스타일을 고수한다. 그래서 다른 메딕 오퍼레이터들도 항상 감염자와 접촉하는 시즈 씨를 걱정하고 있다… 그것도 아주 많이.
+	——메딕 오퍼레이터 미르
+
+———————————————————————————————
+
+	档案资料一 :
+	推进之王领导着一支小队：格拉斯哥帮。
+	罗德岛的干员们推测，原本属于伦蒂尼姆街头帮派的她们，只是因为种种事端被迫加入罗德岛，因此，干员们对她们的实力并不抱很大期望。
+	但当推进之王与她的队员们参与体检测试时，干员们发现，她们并不像表面上那样是群街头打手。她们是相当专业的战士。
+	医疗干员们甚至怀疑起了格拉斯哥帮众人的真实身份，究竟是怎样困苦而又残酷的环境，才能培养出她们精湛的战斗技巧、丰富的作战经验和充沛的体能？
+	虽然推进之王明确地表示，过去的她们也只是正常地生活在伦蒂尼姆而已，诚实的语气令人无处生疑。
+	互相信任是建立友谊的第一步，在场的干员都选择相信推进之王的证言。信任是罗德岛得以成立的基础之一，毕竟，罗德岛也因此得到了数位优秀的干员。
+
+	第一資料 :
+	シージはグラスゴーと呼ばれるストリートギャングのトップである。
+	彼女がロドスに加わった直後は、ロンディニウムのストリートギャングという名ばかりが先行して、ロドスのオペレーターたちは、きっと何か事情があってロドスに加入しただけだろうとその実力には期待していなかった。
+	しかし彼女とその部下たちが体力テストに参加すると、彼女たちはただのストリートギャングなどではなく、正真正銘の戦士だということを知った。
+	その結果を見て、医療オペレーターたちは彼女たちの正体に疑念を抱いた。どれだけ苦しくて残酷な環境で生きれば、これだけ完璧な戦闘技術、豊富な戦闘経験、そして身体能力を身につけられるのだろう、と。
+	しかし彼女はきっぱりと、私たちはロンディニウムで普通に暮らしていただけだと明言した。あの誠実な表情を疑う余地はない。
+	信頼し合うことが友情を築く第一歩になると、その場にいた者たちはみな彼女の言葉を信じた。信頼、それはロドスをロドスたらしめているものであり、これまでも、そのおかげで数々の優秀なオペレーターを迎え入れてこられたのである。
+
+	Archive File 1 :
+	Siege leads a gang called Glasgow. 
+	The Operators at Rhodes Island figured these former Londinium street punks must have fled and were forced to come to the Island, so expectations were low. 
+	But when Siege and her gang underwent physical evaluation, the Operators discovered they weren't common thugs, but remarkably competent soldiers. 
+	The medical staff even expressed doubt about their alleged background, as their incredible fighting skills went far beyond what one would expect from the hardships of the street. 
+	However, Siege's assertion that they really did lead a rather normal life in Londinium rang sincere and true. 
+	Mutual trust is the first step in building a friendship, so the Operators chose to take Siege's word for it. Trust is the foundation upon which Rhodes Island was built, and how she gathered her crew of outstanding Operators.
+
+	파일 자료 1 :
+	    시즈가 이끌고 있는 팀, 글래스고. 로도스 아일랜드의 오퍼레이터들은, 런디니움 길거리 패거리 출신인 그녀들이 여러 사건사고로 인해 별 수 없이 오게 된 마지막 선택지가 로도스 아일랜드라고 생각하여, 그녀들의 실력에 대해 큰 기대를 하지 않았다. 하지만 시즈와 그녀의 팀원들이 신체 테스트에 참가했을 때, 오퍼레이터들은 그녀들이 단순한 길거리 싸움꾼이 아닌 잘 훈련된 전사라는 걸 알게 되었다. 메딕 오퍼레이터들은 심지어 그녀들의 진짜 신분에 대해서 의심하기도 했다. 대체 어떤 잔혹한 환경이길래, 뛰어난 전투 기술과 풍부한 작전 경험, 그리고 지치지 않는 체력을 가진 전사들을 양성해낼 수 있단 말인가? 시즈는 이에 대해 과거의 자신들은 런디니움에서 평범하게 살던 사람들이었다고 답했으며, 그녀의 진실된 어투 때문에 누구도 이 말을 의심할 수 없었다. 서로를 신뢰한다는 것은 우정을 다지기 위한 첫걸음이기에, 현장에 있던 오퍼레이터들은 모두 시즈의 말을 믿기로 했다. 신뢰는 로도스 아일랜드가 성립할 수 있었던 기반 중 하나이며, 로도스 아일랜드 또한 이덕분에 여러 우수한 오퍼레이터들을 영입할 수 있었기에.
+
+———————————————————————————————
+
+	档案资料二 :
+	推进之王与格拉斯哥帮的各位干员有着十分深厚的联系，这从她们日常生活的紧密联系与作战时的默契程度中可见一斑。 
+	推进之王并未止步于此。罗德岛交予她的任务，推进之王都会尽力完成，她在任务中展现出的果敢、勇猛，以及处理问题时的冷静、机敏，使得推进之王成为了最受罗德岛干员们欢迎的先锋干员之一。 
+	而推进之王在少数任务中展现出的指挥天赋与战术规划能力，更是在危险中数次拯救自己的队友，并使任务得以完美收场。 
+	因为推进之王在日常生活中表现得颇为彬彬有礼，这一举动使得推进之王并不像是普通的帮派成员；而这种态度，很遗憾，也使得许多干员没能与她培养深厚的友谊，但干员对她的尊敬有增无减。
+
+	第二資料 :
+	シージとグラスゴーのメンバーたちとの間には深い絆がある。それは日常生活での交流の様子や、戦闘中のチームワークからうかがい知ることが出来る。
+	如何なる任務においても全力を尽くす彼女は、勇猛果敢なだけではなく、冷静さと機敏さも同時に備えており、ロドスでも皆から一目を置かれる先鋒オペレーターの一人となった。
+	また、指揮や戦術立案の才能も備える彼女は、何度も窮地に陥った仲間を救い、任務を完璧に遂行した。
+	日常生活における彼女の素行はとても良く、間違ってもギャングの一員には見えない。そんな彼女はオペレーターたちから尊敬される一方で、なかなか深い友情は育めずにいるようである。
+
+	Archive File 2 :
+	Siege has a deep bond with every member of the Glasgow Gang, evident in their daily interactions and chemistry in battle. 
+	Siege never stops at 'good enough.' She does her best to complete every assignment Rhodes Island sends her way. Her assertiveness and courage on a mission, as well as composure and wits in solving problems, have made her one of the most favored Vanguards on staff. 
+	The natural command and strategic ability that Siege embodies have saved many teammates and missions. 
+	Siege is normally very polite, which belies the fact she was a gangster. This, however, also made many Operators keep their distance and slow to form a friendship, though they still hold her in high regard.
+
+	파일 자료 2 :
+	    시즈와 글래스고 오퍼레이터들 사이의 관계는 매우 두텁다. 이는 그들이 일상생활 중 긴밀히 연락하는 것과 작전 시 주고받는 싸인만 봐도 알 수 있다. 시즈는 로도스 아일랜드가 주는 임무를 항상 최선을 다해 완수하며, 작전 중 보여주는 결단력 있고 용맹한 모습, 그리고 문제 처리 시 보여주는 냉정함과 영리함 덕분에 로도스 아일랜드 오퍼레이터들에게 가장 환영받는 뱅가드 오퍼레이터 중 한 명이 되었다. 시즈는 몇몇 임무에서 자신의 지휘 능력과 전술 계획 능력을 보여주며 임무를 완벽히 마무리 함은 물론, 동료들을 수차례 위험으로부터 구해낸 적이 있다. 의외로 시즈는 일상생활 속에서 매우 예의 바르게 행동하는데, 이런 점들을 보면 시즈가 정말 길거리 패거리의 일원이 맞는지 되묻게 될 정도이다. 안타깝지만 이런 예의 바른 태도 때문에 많은 오퍼레이터들이 시즈와 깊은 관계를 맺지 못하고 있지만, 그녀에 대한 존경심 만큼은 변함이 없다.
+
+———————————————————————————————
+
+	档案资料三 :
+	当然，格拉斯哥帮的各位干员们对推进之王都有着不同的个人见解。但有一条是她们的共识：其实推进之王并不一定是刻意与其他干员保持距离，只是因为她对人际交往有些冷淡，甚至算是种懒惰，导致她并不太与别人交流。 
+	之后，格拉斯哥帮的干员们还向资料撰写员抖露了各种信息，包括推进之王其实不喜欢吃土豆，睡眠的时间比大多数人都长，总是随身携带酸味很浓的棒棒糖，等等。 
+	然而她们从来不会提及伦蒂尼姆的现状，即便是在闲聊过往生活时，她们也会巧妙地避开“现在的伦蒂尼姆”这一话题，同样，她们也很少讲述与推进之王相遇的过程。 
+	推进之王却表示，她对当年击败格拉斯哥帮干员因陀罗一事记忆犹新。而与每一个人的相遇，每一个动作每一句话，她也同样熟记在心，绝不忘记。 
+	因此，罗德岛的许多干员都认为，干员推进之王确实配得上“推进之王”这个颇具领袖风范的称号；如果想要真正理解这位干员，罗德岛还要花上许多功夫。
+
+	第三資料 :
+	グラスゴーのメンバーたちは、シージは故意に他のオペレーターと距離を置こうとしているわけではないと口を揃えた。彼女は人間関係にあまり興味がなく、少し面倒くさがりなところもあり、他人と積極的にコミュニケーションを取らないため自然とそうなっているらしい。
+	彼女たちはその後も饒舌にシージに関する情報を語った。実はポテトが嫌い、睡眠時間が他の者たちより長い、いつも酸っぱいロリポップを持ち歩いている……などだ。
+	しかし彼女たちは、たとえ過去の生活に関する雑談であっても「ロンディニウムの現状」に関する話題を巧妙に避けているようだった。シージとの出会いに関しても、同様にあまり語ろうとしなかった。
+	しかしシージはそれとは相反する様子で、当時インドラを敗った時のことも昨日のように思い出せるし、出会った人たちの話や仕草もはっきりと覚えており、絶対に忘れることはないと語った。
+	そんな彼女だからこそ、組織を統べるトップの座についているのだとロドスのオペレーターたちは考えている。彼女の事をもっと深く知るためには、まだまだ時間も手間も掛かりそうだ。
+
+	Archive File 3 :
+	Of course, everyone in the Glasgow Gang holds their own opinions about Siege, but they have one opinion in common: Siege is not deliberately keeping her distance from other Operators, it's just an aloof attitude she has when dealing with people, sometimes to the point of seeming too lazy to try. 
+	Then, when the Glasgow gangsters filled out their paperwork, they revealed more interesting tidbits about Siege, such as the fact that she doesn't like potatoes, sleeps longer than most people, and always carries pungently sour lollipops on her. 
+	But they never mentioned anything about Londinium. Even when the topic came up in casual conversation, they would deftly skip over it. In addition, they seldom talk about how they met Siege. 
+	Siege, however, said she clearly remembers defeating Indra from the gang. She makes a point to remember every meeting, every action, and every word of those she interacts with. 
+	Many Operators believe that she deserves to lead, and that Rhodes Island needs to make a more pointed effort to understand Siege.
+
+	파일 자료 3 :
+	    물론 글래스고의 오퍼레이터들은 시즈에 대해 각자 다른 견해를 가지고 있다. 하지만 한 가지 공통된 생각은 바로 시즈가 일부러 다른 오퍼레이터들과 거리를 두는 게 아니라 단지 그녀가 사교 방면에 큰 관심이 없을 뿐이며, 단순히 게을러서 사람을 잘 사귀지 않게 된다는 점이다. 그 후로도 글래스고의 오퍼레이터들은 시즈가 실은 감자를 싫어한다든지, 잠자는 시간이 남들보다 길다든지, 항상 진한 오렌지맛의 막대 사탕을 휴대하고 다닌다는 등… 자료 작성자에게 다양한 정보들을 털어놓았다.
+	    그러나 그녀들은 런디니움의 현상황에 대해선 이야기를 꺼낸 적이 없었다. 과거에 런디니움에 살았던 얘기조차 잘 하지 않았고, 그들은 항상 '현재의 런디니움'이라는 화제를 교묘히 피하곤 했으며, 시즈와 만나게 된 이야기 또한 잘 하지 않았다. 이에 비해, 시즈는 글래스고의 일원인 인드라를 무찔렀던 일을 생생히 기억한다고 했다. 그녀는 오퍼레이터들을 만났던 모든 순간들을 기억하고 있으며, 그들의 언행 하나하나를 모두 그녀의 마음 속에 담아 두고 영원히 잊지 않는다고 했다. 그렇기에 로도스 아일랜드의 많은 오퍼레이터들은 시즈가 확실히 '시즈'라는 리더 느낌이 나는 칭호를 사용할 자격이 있다고 생각했다. 이 오퍼레이터를 진정으로 이해하려면, 로도스 아일랜드는 아직 더 많은 노력을 쏟아야 할 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】 
+	她们找上了罗德岛。格拉斯哥帮，这几位来自伦蒂尼姆的访客。 
+	领头的叫维娜的孩子，太过年轻了。她还没有学会如何隐藏自己。她只是用街头市井中混杂跌滚的灰烟做了些掩护，而尘土向来无法遮盖人的举止。 
+	她没意识到我一眼就能认出她是“谁”，或者说，她是“什么”。 
+	对我来说如此，对其它精于筹谋的人亦然。她已经被盯上了。 
+	庞大的维多利亚正在开裂，各郡都对伦蒂尼姆上空的乌云袖手旁观。我甚至已经猜到现在的伦蒂尼姆是由谁掌控了。 
+	齿轮开始旋转。腐朽的大钟终会敲响。 
+	
+	阿米娅还没有准备好。 
+	
+	——凯尔希
+
+	第四資料 :
+	【権限記録】
+	彼女たちがロドスを尋ねてきた。グラスゴー……ロンディニウムからの来訪客だ。
+	ヴィーナと名乗ったリーダーはまだまだ若く、爪の隠し方も分かっていないようだ。路地に巻き上がる砂埃で煙に巻こうとしても、その本質までは覆い隠せていない。
+	私がひと目で彼女が「誰」か、あるいは「何」なのかを見抜いたことに、彼女自身も気づいてはいないだろう。
+	他の深謀遠慮に長けた者たちにも、彼女は間違いなく目をつけられているはずだ。
+	巨大なヴィクトリアが崩れ始めているにも関わらず、各都市はロンディニウムの上空に立ち込めた暗雲から目を背けているのが現状だ。とは言え、今のロンディニウムが誰の手中にあるか、大方予想はできているがな。
+	歯車は回り始めた。腐朽の大時計も間もなくその鐘を鳴らすことだろう。
+	
+	アーミヤはまだ、準備ができてない。
+	
+	——ケルシー
+
+	Archive File 4 :
+	[Classified Log] 
+	They've come to Rhodes Island, the Glasgow Gang, visitors from Londinium. 
+	The leader, the kid named Verna, is too young. She hasn't learned to conceal herself, just painting a cover story about getting mixed up with some street crowd, when her behavior clearly gave it away. 
+	She didn't realize I could tell 'who' she is just by looking, or rather, 'what' she is. 
+	And if I could, so could somebody else. She's running from something. 
+	The great Victoria is splintering. Every province is ignoring the dark cloud over Londinium. I think I can even guess who runs Londinium now. 
+	The gears have begun to turn. The decaying clock will finally strike twelve. 
+	
+	Amiya is not ready yet. 
+	
+	—Kal'tsit
+
+	파일 자료 4 :
+	[제한된 기록]
+	    로도스 아일랜드로 그들이 찾아 왔다. 글래스고… 이들은 런디니움에서 온 방문객들이다. 리더는 비나라고 불리는 아이인데, 너무 어려 보인다. 그녀는 자신을 숨기는 방법조차 배우질 못했다. 그녀는 그저 길거리의 흩날리는 회색 연기로 엄호하려 하는데, 흙먼지로 움직임을 숨길 순 없지. 그녀는 내가 한눈에 그녀가 '누구'인지, 혹은 '무엇'인지 알아볼 수 있다는 점을 의식하지 못하고 있었다. 아마 나처럼 계략에 능한 다른 사람들의 눈도 피할 수 없을 것이다. 그녀는 이미 타겟이 되었다. 거대한 빅토리아가 갈라지고, 각 도시는 모두 런디니움 상공에 떠있는 먹구름을 보고도 그저 방관만 하고 있는 상태다. 지금 런디니움이 누구의 손아귀에 있는지 잘 알 것 같다. 톱니바퀴는 돌아가기 시작했고, 썩어버린 큰 시계종은 결국엔 울리게 될 것이다. 
+	
+	    아미야는 아직 준비가 안 됐다. 
+	
+	——켈시
+
+———————————————————————————————
+
+	晋升记录 :
+	...... 
+	不必惊惶。 
+	我非怪物，也非幻象。 
+	我在你面前现身，只是因为有此必要。 
+	维娜必须成长，而你可以引导她。 
+	你不是她的封臣、并非她的导师、也没有与她为敌的理由。 
+	你应该意识到了，她和你之间的关系独一无二。 
+	我们可以继续等待，但维娜不能。 
+	指引她吧，维娜所信任的人。你是她的火种，也是她的发条。
+
+	昇進記録 :
+	……怖がらないで。
+	私は化け物でも、幻影でもない。
+	あなたの前に現れたのは、それが必要なことだったから。
+	ヴィーナは成長しないといけない。そんな彼女を導いていくのが、あなた。
+	あなたは彼女の部下でも先生でもなく、彼女と敵対する理由も持っていない。
+	もう分かっているはず、あなたと彼女の関係は唯一無二であることを。
+	私はまだ待つことができるけど、ヴィーナの方はそうも言っていられない。
+	彼女が信頼するお人。さあ、彼女の手を引いて。あなたは彼女の火種、彼女の動力源なのだから。
+
+	Promotion Record :
+	... 
+	Don't panic. 
+	I'm neither a monster nor hallucination. 
+	I show myself to you because it is necessary. 
+	Verna must mature, and you can guide her. 
+	You're not her vassal or her mentor, and have no reason to oppose her. 
+	You should have already sensed the bond between you two is unique. 
+	We can afford to wait, but Verna cannot. 
+	Guide her, as she trusts you. You are her spark and her impetus.
+
+	승진 기록 :
+	……
+	    당황할 필요 없다.
+	    난 괴물도, 환상도 아니다. 
+	    당신 앞에서 모습을 드러낸 건, 그럴만한 이유가 있기 때문이다. 
+	    비나는 반드시 성장해야 한다. 그런 그녀를 인도해줄 수 있겠는가.
+	    당신은 그녀의 부하도 선생도 아니며, 그녀를 적대시 할 이유도 없다. 
+	    이미 알고 있을 것이다. 그녀와 당신의 관계는 유일무이하다는 것을.
+	    우린 계속 기다릴 수 있지만, 비나는 그럴 수 없다.
+	    비나가 신뢰하는 자여, 그녀를 이끌어주어라. 당신은 그녀의 불씨이자, 그녀의 태엽 같은 존재이니.

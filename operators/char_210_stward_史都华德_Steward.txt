@@ -1,11 +1,17 @@
 ID:
 	char_210_stward
 
-干员代号\Name:
+CV:
 	史都华德
 	スチュワード
 	Steward
 	스튜어드
+
+干员代号\Name:
+	铃木千寻
+	鈴木千尋
+	Chihiro Suzuki
+	스즈키 치히로
 
 招聘合同\Character Usage:
 	罗德岛术师干员史都华德，使用源石技艺为小队开辟前路。
@@ -38,157 +44,327 @@ ID:
 	강타α
 
 语音\Voices:
-	欢迎回来，博士，史都华德为您效力。
 	おかえりなさい、ドクター。スチュワードがお力になります。
 	Welcome back, Doctor. Steward at your service.
 	어서오세요 박사님. 스튜어드가 도와드리겠습니다.
 
-	史都华德是我的姓氏，也是我作为干员的代号。如果是博士您的话，应该可以从这个姓氏中，解读出我的先祖所从事的职业。
 	スチュワードは僕の苗字であり、コードネームでもあるんだ。ドクターなら、この苗字から僕の先祖の家業もわかるかもね。
 	Steward is my last name, as well as my code name as an Operator. My surname shows what my ancestors did for a living.
 	스튜어드는 내 성씨이기도 하고, 코드네임이기도 해. 박사라면 이 성을 듣고 내 선조의 가업이 뭔지 알 수 있을지도 모르겠네.
 
-	没想到能在这里遇到我的同族。那个孩子是在寻找什么人吗？我能理解这种心情......啊，不，没什么。
 	まさかここに同族の仲間がいるとは……。あの子、人探しをしてるんだって？その気持ち、僕にもわかるよ……あ、いや、何でもない。
 	I didn't expect to meet someone from my race here. Is that kid looking for someone? I know how it feels... Oh, it's nothing.
 	설마 여기에 동족인 동료가 있을 줄은… 저 아이, 사람을 찾고 있다던데? 그 마음, 나도 잘 알지… 아, 아냐, 아무 것도.
 
-	人们常说我族的毛色是“雪的颜色”。博士，您，见过雪吗？
 	みんなよく僕たち一族の毛色を「雪の色」って言うけど……ドクターは雪を見たことある？
 	People often say our fur has the 'color of snow.' Doctor, have you ever seen snow?
 	다들 우리 일족의 털 색을 '눈의 색깔' 이라 하는데… 박사는 눈을 본 적 있어?
 
-	炎熔小姐的战斗方式有些与众不同。我曾以为，她使用手中的书本来释放法术，没想到，真正的施术工具却是她的那把匕首。这样的战斗风格，让我想起了那位曾经教过我法术的通灵师。
 	ラヴァさんは変わった戦い方をしているね。手に持ってる本を使ってアーツを出してるのかと思いきや、本当はナイフから出してるんだね。昔僕にアーツを教えてくれていた霊媒師のことを思い出したよ。
 	Ms. Lava has a very distinct fighting style. I thought she was going to cast with her book, but her real casting tool was a dagger. Her style reminds me of the psychic who taught me Arts.
 	라바 씨는 싸우는 방식이 특이하네. 손에 들고 있는 책을 써서 아츠를 쓰는 줄 알았더니, 실제로는 나이프에서 나오는 거였더라. 예전에 나한테 아츠를 알려줬던 영매사가 떠올랐어.
 
-	能为博士服务，我感到非常荣幸。若是可以的话，我希望您能更多关照玫兰莎小姐一些。她，总是一个人......
 	ドクターの力になれて、正直すごく嬉しいんだ。でも、もしよかったら、メランサのことも見てあげてほしいな。あの子はいつもひとりでいるから……。
 	It is my honor to work for you, Doctor. I do hope you can find it in yourself to treat Ms. Melantha better. She's alone all the time...
 	박사의 도움이 될 수 있어서 솔직히 말하면 굉장히 기뻐. 그렇지만 혹시 괜찮다면, 멜란사를 잘 봐줬으면 해. 그 아이는 늘 혼자 있으니까… 
 
-	安德切尔，真是让人捉摸不透......很难说清楚他平时到底在想些什么。
 	アドナキエルって本当に困ったやつだ……何を考えているのか、まったくわからないんだ。
 	Adnachiel is a mysterious one... No one can tell what he is thinking.
 	아드나키엘은 정말 골치 아픈 녀석이야… 무슨 생각을 하고 있는 건지 도무지 모르겠단 말이지.
 
-	安赛尔......请放心。事到如今，我早已不会在意自己感染者的身份了。不如说，我因此而获得了许多帮助。在它夺走我重要的东西之前，我会先利用它，为大家创造一个能安心生活的地方。
 	アンセルか……大丈夫だよ。感染なんて今さら気にすることじゃないよ。むしろいろいろ助けられてると思う。こいつが僕の大切なものを奪ってしまう前に、逆にこいつを利用してみんなの生きる場所を作ってみせるさ。
 	Ansel... Don't worry. I stopped caring about my identity as an Infected long ago. In fact, I received a lot of help because of it. Before the Infection takes away what's dear to me, I will use it to create a place where everyone can live in peace.
 	안셀이구나… 괜찮아. 감염 같은 건 이제 와서 신경 쓸 게 아니야. 오히려 여러모로 도움을 받고 있다고 생각해. 이 녀석이 나의 소중한 것을 앗아가기 전에, 역으로 이 녀석을 이용해서 모두가 살 수 있는 곳을 만들어 보이겠어.
 
-	累了吗？请多多休息吧，明天罗德岛也需要依靠博士您的力量。
 	疲れたでしょう？ゆっくり休んでくださいね。明日、またドクターの力が必要になるから。
 	Are you tired? Do take a good rest, Doctor. Rhodes Island will need your skills tomorrow.
 	피곤하지? 푹 쉬어둬. 내일, 또 박사의 도움이 필요할 테니까.
 
-	术师史都华德，从今天开始，还请您多多关照。
 	今日からお世話になります、術師のスチュワードです。ひとまず、よろしくお願いしますね。
 	Caster Steward reporting in. I'm glad to be working with you.
 	오늘부터 신세지게 되었습니다. 캐스터 스튜어드라고 합니다. 아무쪼록 잘 부탁드려요.
 
-	我学到了很多东西。谢谢您。
 	大変勉強になりました。ありがとうございます。
 	I have learned a lot. Thank you.
 	많이 공부가 되었습니다. 감사합니다.
 
-	我的工作成果能让您满意就足够了。杜宾老师也会很高兴吧。
 	自分の仕事ぶりを評価してもらえた、それで十分だよ。ドーベルマン先生も喜ぶだろうね。
 	I'm glad that you are satisfied with my work. Master Dobermann will be happy too.
 	내 업무를 높게 평가해줬다는 것, 그것만으로 충분해. 도베르만 선생님도 기뻐하시겠네.
 
-	各位，有何种需求？
 	みんな、何か要望は？
 	Hey everyone, what can I do for you?
 	다들, 뭔가 필요한 건?
 
-	卡缇，行动之前要多注意气氛。
 	カーディ、空気を読んだ行動を頼んだよ。
 	Cardigan, always read the situation before you take action.
 	카디건, 분위기에 맞는 행동을 해줘.
 
-	那么，请您恭候佳音。
 	では、勝利の知らせを待っててくださいね。
 	Well, I'll be sure to bring you some good news.
 	그럼, 승리의 소식을 기다려줘.
 
-	他们，也许再没有机会看到明天的太阳了。
 	あいつら、もう二度と明日の太陽を見る機会はないかもね。
 	They probably won't be able to survive the night.
 	저 녀석들, 이제 두 번 다시  내일의 태양을 볼 기회는 없겠네.
 
-	请下令。
 	ご命令を。
 	I await your order.
 	명령을.
 
-	为您效劳。
 	喜んで。
 	Gladly!
 	기꺼이.
 
-	我知道了。
 	わかった。
 	Got it.
 	알았어.
 
-	明白。
 	了解です。
 	Understood.
 	알겠습니다.
 
-	冻结吧！
 	凍りつけ！
 	Freeze!
 	얼어붙어라!
 
-	倒下吧。
 	倒れろ。
 	Down you go.
 	쓰러져라.
 
-	只要战术运用得当，我们能够打破任何艰难的局面。
 	まぁ、戦術の活かしどころさえおさえておけば、こういう厳しい局面も打破できるんだね。
 	With the right strategy, we'll make it through any tight spot.
 	뭐, 전술만 확실히 살리면, 이런 어려운 국면도 타개할 수 있는 거구나.
 
-	这是完美的胜利。大家辛苦了！
 	完璧な勝利だ。みんなお疲れ様！
 	A perfect victory. Good work, everyone!
 	완벽한 승리다. 모두 수고했어!
 
-	安赛尔，请确认伤者的情况，准备下一场战斗。
 	アンセル、負傷者の状況を確認して、次の作戦に備えるんだ。
 	Ansel, please see if anyone is hurt and prepare for our next battle.
 	안셀, 부상자의 상황을 확인해줘, 다음 작전에 대비하는 거야.
 
-	......哪里出了问题吗？
 	……どこかで何か間違えたのかな？
 	Did we make a mistake somewhere...?
 	……어디서 뭐가 잘못된 걸까?
 
-	卡缇，你在那里吗......？等一下，别碰器材！
 	そこにいるのは、カーディ？まっ待て……機材に触るな！
 	Is that you, Cardigan? Hey, don't touch the equipment!
 	거기 있는 거, 카디건이야? 자, 잠깐만… 기자재 만지지 마!
 
-	嗯？
 	ん？
 	Hmm?
 	응?
 
-	有什么我能为您效劳的吗，博士？
 	何か手伝うことないかい、ドクター？
 	Doctor, is there anything I can do for you?
 	뭐 도와줄 거 없어? 박사.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	请多关照，博士。
 	ドクター、ご指導よろしく。
 	Awaiting your instructions, Doctor.
 	박사, 잘 부탁해.
+
+干员档案\Background:
+	基础档案 :
+	【代号】史都华德
+	【性别】男
+	【战斗经验】半年
+	【出身地】谢拉格
+	【生日】12月24日
+	【种族】沃尔珀
+	【身高】172cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】スチュワード
+	【性別】男
+	【戦闘経験】半年
+	【出身地】イェラグ
+	【誕生日】12月24日
+	【種族】ヴァルポ
+	【身長】172cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Steward
+	[Gender] Male
+	[Combat Experience] Half a year
+	[Place of Birth] Kjerag
+	[Date of Birth] December 24
+	[Race] Vulpo
+	[Height] 172cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 스튜어드
+	[성별] 남
+	[전투 경험] 반년
+	[출신지] 쉐라그
+	[생일] 12월 24일
+	[종족] 불포
+	[신장] 172cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】普通 
+	【战斗技巧】标准 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	史都华德，行动预备组A4组员，谢拉格公民，正式任职前为自由职业者。于多项测试中获得优异成绩，遂获准加入罗德岛，现于罗德岛行动预备组A4小组任职。
+	在法术支援、确认路径、支援作战等项目中展现出值得期待的潜力。
+
+	個人履歴 :
+	スチュワードは、行動予備隊A4のメンバー。イェラグ公民で、着任前はフリーターをしていた。多数のテストで良い成績を取ったため、ロドスに加入した。現在はロドス行動予備隊A4に勤めている。
+	アーツ支援、ルート確認、支援作戦などで彼の能力が期待できる。
+
+	Profile :
+	Steward is a member of Op Reserve Team A4 and a citizen of Kjerag. Before he officially took the position, he worked as a freelancer. After an exceptional performance on his tests, he received permission to join Rhodes Island and now serves on the reserve team. 
+	He shows promise in the areas of Arts support, navigation, and combat support.
+
+	프로필 :
+	    쉐라그 공민. 정식 임직 전에는 프리랜서로 활동하였으며, 여러 항목의 테스트에서 우수한 성적을 획득, 순조롭게 로도스 아일랜드 합류 허가를 받았다. 현재 로도스 아일랜드 예비작전팀 A4에서 활약 중이며, 마법 지원, 경로 확인, 지원 작전 등 다양한 방면에서 기대할 만한 잠재력을 보이고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】9%
+	体表暂未出现明显的矿石病病征。
+	
+	【血液源石结晶密度】0.3u/L
+	感染步入中期，目前无扩散倾向。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】9%
+	体表に鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.3u/L
+	感染状況は中期にあるが、差し当たって拡散の傾向はない。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of his internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in his circulatory system, confirming him to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 9%
+	He presents no obvious external symptoms of Oripathy.
+	
+	[Blood Crystal Density] 0.3u/L
+	Infection has progressed to mid-stages. Currently there is no evidence of spreading.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 9%
+	체표면에는 현재로선 명확한 광석병 증상이 나타나지 않음.
+	
+	[혈중 오리지늄 결정 밀도] 0.3u/L
+	감염 초중기로 현재로서는 확산 추세가 나타나지 않음.
+
+———————————————————————————————
+
+	档案资料一 :
+	史都华德出生于谢拉格南部领地，在双亲的教育下度过了童年时代。他流露出与同龄玩伴截然不同的沉稳气质，并初步展现出对源石法术的一定天赋。但鉴于雪境的环境与研读源石法术所需的高昂费用，一度使史都华德任由自己的法术天赋掩埋在谢拉格无尽的风雪中。
+
+	第一資料 :
+	スチュワードはイェラグ南部に生まれ、少年期は両親の教育を受けて過ごした。彼は同世代の子供と全く違い、とてもおとなしく、アーツの才能もその時から示し始めていた。しかし雪境（ヒーラ）の過酷な環境とアーツの勉強にかかる費用のせいで、スチュワードは一度自分の才能をイェラグのやまない雪に埋もれさせることを余儀なくされた。
+
+	Archive File 1 :
+	Steward was born in the southern territory of Kjerag and spent his childhood being educated at home. He has a calm temperament that stands out amongst his peers and has a certain talent for Originium Arts. However, given the snowy environment and the high cost of studying Arts, this talent went uncultivated and was left buried in the heavy snow drifts of Kjerag.
+
+	파일 자료 1 :
+	    쉐라그 남부 영지에서 태어난 스튜어드는 부모님의 교육 아래 어린 시절을 보냈다. 그는 무의식중에 동년배 친구들과는 확연히 다른 침착한 기질과 오리지늄 아츠에 대한 초보적 재능을 보여왔다. 하지만 히라의 환경과 오리지늄 연구에 필요한 높은 경제적 부담으로 인해, 한때 스튜어드는 자신의 마법 재능을 쉐라그의 끝없는 눈보라 속에 묻어둬야 했다.
+
+———————————————————————————————
+
+	档案资料二 :
+	谢拉格南领地长期作为谢拉格地区的出口，在银灰家族颁布新经济政策刺激下，由哥伦比亚、莱塔尼亚、雷姆必拓的商人们启动了数次投资计划。在此期间，史都华德主动申请成为各国商人开展商业活动的向导与本地服务人员，并兼任商品展示模特等多种工作。来自哥伦比亚的崭新商品使史都华德感到印象深刻。而史都华德的优良服务亦使商人们为此交口称赞。
+
+	第二資料 :
+	イェラグ南部地域は、長い間イェラグの玄関口とされていた。シルバーアッシュ一族の新経済政策の影響で、クルビア、リターニア、レム・ビリトンの商人たちは数々の投資計画を起こした。その間、スチュワードは自らガイドになって、各国商人のビジネスをサポートし、商品のモデル活動等もしていた。クルビアの最先端商品を目にした彼は、新鮮な気持ちになると同時に深い感銘を受けた。そして彼の質の高いサービスに対し、商人たちも口をそろえてほめたたえた。
+
+	Archive File 2 :
+	The southern territory of Kjerag has long acted as the exit point for all of Kjerag. When the Silverash family declared a new economic policy, merchants from Columbia, Leithanien, and Rim Billiton launched several investment plans. During this period, Steward took the initiative to become a guide and local servicer for the business activities of merchants from all over the world. He also worked part-time as a model to help market goods. The brand new goods coming out of Columbia left a deep impression on Steward, and Steward's excellent service has garnered the praise of many merchants.
+
+	파일 자료 2 :
+	    쉐라그 남부 영지는 오랜 시간 동안 쉐라그의 출구 역할을 해왔는데, 실버애쉬 가문이 반포한 새 경제정책으로 인해 컬럼비아, 라이타니아, 림 빌리턴의 상인들이 수차례 투자 프로젝트를 진행했으며, 이 기간 중 스튜어드는 자발적으로 각 국 상인들의 비즈니스 활동을 돕는 가이드 및 현지 어텐던트는 물론, 상품 전시 모델 까지 다양한 직업에 지원하였다. 컬럼비아에서 온 참신한 상품은 스튜어드에게 깊은 인상을 남겼고, 스튜어드의 우수한 서비스에 상인들은 모두 칭찬을 아끼지 않았다.
+
+———————————————————————————————
+
+	档案资料三 :
+	雪蓝短法杖
+	品质认证：莱塔尼亚法术协会监制
+	生产商：鲁道夫兄弟短杖设计工作室
+	产品编号：ADD-143.
+	史都华德使用的雪蓝色法杖。
+	术师开始熟练掌握法术技巧的证明，把柄处篆刻有“Legendary future”字样。
+	使用它释放法术时，耳边仿佛能听到谢拉格风雪的呼啸。
+
+	第三資料 :
+	スノーブルー・ワンド
+	品質保証：リターニア王国アーツ協会監修
+	メーカー：ルドルフブラザーズワンドデザインスタジオ
+	製品コード：ADD-143.
+	スチュワードの雪藍色のワンド。
+	術師がアーツを使いこなせる証。柄のところに「Legendary future」の字が刻まれている。
+	このワンドを使ってアーツを放つと、耳元でイェラグの吹雪が渦巻く音が聞こえるようだ。
+
+	Archive File 3 :
+	Snow Blue Wand
+	Quality Guaranteed by: Director of the Leithanien Arts Society
+	
+	Manufacturer: Rudolf Bros. Wand Workshop
+	Product Number: ADD-143.
+	The Snow Blue wand used by Steward.
+	Proof of a Caster's mastery of Arts. Its handle has been engraved with the words 'Mythic Future.'
+	When you use it, you can hear the whistling of snow.
+
+	파일 자료 3 :
+	    스노우 블루 단지팡이
+	    품질 인증: 라이타니아 마법 학회 검수
+	    생산자: 루돌프 브라더스 단지팡이 설계소
+	    상품 일련번호: ADD-143. 
+	    스튜어드가 사용하는 스노우 블루 색상의 마법 지팡이.
+	    캐스터가 마법 스킬을 능숙히 사용하기 시작했다는 증명인, 'Legendary future'라는 문구가 손잡이 부분에 각인되어 있다. 
+	    스태프로 마법을 시전할 때마다 귓가에 쉐라그의 눈보라가 몰아치는 듯한 소리가 들린다.

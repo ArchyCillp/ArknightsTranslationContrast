@@ -1,11 +1,17 @@
 ID:
 	char_290_vigna
 
-干员代号\Name:
+CV:
 	红豆
 	ヴィグナ
 	Vigna
 	비그나
+
+干员代号\Name:
+	下田麻美
+	下田麻美
+	Asami Shimoda
+	시모다 아사미
 
 招聘合同\Character Usage:
 	罗德岛先锋干员红豆，握紧长枪，准备着进入战场。
@@ -16,7 +22,7 @@ ID:
 合同描述\Character Description:
 	她很清楚，在需要全身心投入这一点上，战争和摇滚别无二致。
 	戦いだろうとロックだろうと、全力でやらなきゃいけないと、彼女はよく知っている。
-	Playing rock ’n roll is a battlefield of its own. This is a fact that she knows well.
+	Playing rock 'n roll is a battlefield of its own. This is a fact that she knows well.
 	그녀도 잘 알고 있다. 전쟁이든 록 음악이든, 뭐든지 전력을 다해야 한다는 걸.
 
 信物\Potential Item:
@@ -40,180 +46,411 @@ ID:
 	槌音
 	ハンマリング・オン
 	Hammer-On
-	망치 소리
+	해머온
 
 语音\Voices:
-	喂，喂，博士！我还在看乐队演出呢，别挡着屏幕啊，刚刚可是最精彩的部分！
 	ち、ちょっと！ドクター！ライブを見てるんだからテレビの前に立たないで！いいところを見逃しちゃったじゃない！
 	Hey, Doctor! I'm watching a concert! You're blocking the TV! I missed the best part!
 	자, 잠깐! 박사! 라이브 보고 있으니까 텔레비전 앞에 서지 마! 좋은 장면 놓쳤잖아!
 
-	有些人常挂在嘴边的那些对抗不公啦，坚持自我什么的，对于我们萨卡兹人来说，根本就是生活的一部分！
 	いかにも特別なことみたいに、「不公平に立ち向かう」だとか「自分の意志を貫く」だとか言ってカッコつけるやつもいるけど、あたしたちサルカズからすれば、そんなの当たり前のことなんだから！
 	You get people who say things like 'fight the power' and 'be true to yourself.' But for us Sarkaz, that's just life.
 	어떻게든 특별한 것처럼, "불공평함에 맞서 싸운다" 던지 "자신의 의지를 관철한다" 같은 말로 폼 잡는 녀석들도 있지만, 우리 살카즈에게 그런 건 당연한 거야!
 
-	我很喜欢乐队。不，是非常非常喜欢！当然，作为吉他手，每一拍节奏每一个和弦，都很重要！只有孜孜不倦地练习，才能带给听众最震撼的独奏！
 	バンドは好き……いや、すごく好き！だからこそ、あたしはギタリストとして、メロディやコードひとつひとつを大切にしながら演奏したいの！みんなの心を震わせるような演奏をするために、もっともっと腕を磨かなきゃ！
 	I like bands... no, I LOVE bands! Of course, as a guitarist, I know every beat, every chord is important. But you gotta practice, practice practice. That's how you give the audience the ultimate face-melting solo!
 	밴드가 좋아… 아니, 엄청 좋아! 그러니까 난 기타리스트로서, 멜로디나 코드를 하나하나 소중히 하면서 연주하고 싶어! 모두의 마음을 울리는 연주를 하기 위해, 더더욱 실력을 갈고닦아야지!
 
-	你觉得我对大家都很礼貌，对你却很严厉？那当然，因为管理者只靠自律是不够的！我严格地要求自己，也会那样严格地要求博士你哦。
 	あたしのこと、みんなには礼儀正しいのにドクターにだけ厳しいとか思ってる？そんなの当たり前でしょ、ドクターは人の上に立つ人間だから、誰かが目を付けてないとだめなの。あたしが自分に厳しくするように、ドクターにだって厳しくさせてもらうわ。
 	So I'm nice to everyone, except I give you crap? Well, yeah. Doctor, you're in charge of so many people. You gotta be hard on yourself. Of course I'm gonna be hard on you too!
 	내가 다른 사람들한테는 예의 바르게 대하는데 박사한테만 까칠하다 생각하고 있어? 당연하잖아, 박사는 남들 위에 서는 사람이니까, 누군가가 늘 지켜봐 줘야 한다고. 내가 자신한테 엄격하게 대하는 것처럼, 박사에게도 엄격하게 대할 거야.
 
-	唔呃，这气味......难道是芙蓉送来的午餐便当？帮你吃这个？我拒绝！这、这怎么看都不算是工作内容之一吧？
 	うっ、この匂い……。もしかして、ハイビスが作った弁当？代わりに食べてですって？絶対嫌！こ、これはあたしの仕事じゃないよね？
 	Hmm, this smell... is this the lunchbox Hibiscus brought you? You want me to eat it for you? No way! This... this wasn't in my job description!
 	윽, 이 냄새… 혹시, 히비스가 만든 도시락이야? 대신 먹어달라니, 죽어도 싫어! 이, 이건 내 일이 아니잖아?
 
-	人生的目标，就应该靠自己的努力去达成吧。想要变强，我就会去锻炼......手中的武器不够锋利，我就亲手去改造它！不管别人怎么说，我都会坚持自己的想法，直到达到目标为止！
 	人生の目標は、自分の努力によって達成されるべきよね。強くなりたいならトレーニングをすればいいし、武器の切れ味が鈍ったら自分で磨けばいい。他人にどう言われようと、あたしは目標が果たされるまで自分の意志を曲げるつもりはないわ！
 	If there's something you want out of life, you gotta work hard for it. Like, I want to become stronger, so I train. I want to have a deadly sharp weapon, so I customize the one I got. People talk like they do, but I'll keep working as hard as I can to get what I want!
 	인생의 목표는, 자신의 노력으로 달성해야 하는 거잖아. 강해지고 싶으면 트레이닝을 하면 되고, 무기가 무뎌졌으면 자기가 갈면 되는 거라고. 남들이 뭐라 하든 난 목표를 이룰 때까지 내 의지를 굽히지 않을 거야!
 
-	欸？你说外面在下暴雨？不行，今天的露天音乐会绝不能取消......别拦着我，让我出门啦！区区一场暴风雨，怎么可能熄灭我对吉他的热情！
 	えっ！？土砂降りってホント？今日の野外ライブはどうしてもやりたいのに……いや、止めないで！このくらいの雨で、あたしのギターにかける情熱は消えないわ！
 	Wha?! It's pouring outside? But I can't cancel my concert just 'cause it's outside! You can't stop me, I'm going! It's just a little thunder, it can't kill the passion I have for music!
 	에?! 폭우가 온다니, 진짜? 오늘 야외 라이브는 어떻게 해서든 가고 싶었는데… 아냐, 날 막지 마! 이 정도 비로 내 기타에 대한 정열은 사라지지 않는다고!
 
-	鉴于我足够可靠，所以有重要的任务托付给我？嗯哼哼，就让我来看看！嗯......在罗德岛限时大促销里，抢购以下热门商品......呃，超、超难的？！
 	あたしが頼りになると踏んで重要な役目を任せたい？へへーん、何でも任せて！えーっと……ロドスで行われるタイムセールで以下の商品を購入せよ……？む、無理よこんなの！
 	You got an important mission you want me to handle? Hehee, you can count on me! Let's see here... 'You are to acquire the following products for Rhodes Island during a time-limited mega-sale...?' Th-that's impossible!
 	내가 믿음직스럽다고 생각해서 중요한 역할을 맡기겠다? 헤헤… 뭐든지 맡겨줘! 그럼… 로도스 아일랜드에서 실시하는 타임 세일에서 아래의 상품을 구입하시오……? 무, 무리야 이런 건!
 
-	不管舞台下的观众发出多少嘘声，乐队都得坚持到演出结束才行，被打击就中途退场是很不负责任的。萨卡兹人和感染者的处境也一样，现在逃走的话，就算是彻底认输了呀。
 	観客からブーイングされても、最後の一音まで演奏しきるのがプロのバンドってもんでしょ。途中でステージから下りるのは無責任ね。サルカズも感染者も同じ、今ここで逃げたら、負けを認めるようなものよ。
 	Even if the crowd starts booing, the show must go on. You can't quit in the middle of a performance just because you messed something up. It's just like Sarkaz and Infected. We can't give up now, we can't just let them win.
 	관객들이 야유를 보낸다 해도, 마지막 음 하나까지 연주하는 게 프로 밴드라는 거야. 중간에 스테이지에서 내려오는 건 무책임한 거지. 살카즈도 감염자도 똑같아, 지금 여기서 도망치면, 패배를 인정하는 거나 다름없어.
 
-	不要睡在这个地方啊！唔呃......可恶，搬不动这人......
 	ったく、こんなところで寝ないでよ！んん……重い……。
-	Hey, you can't sleep over here! Ugh… you're too heavy for me to carry…
+	Hey, you can't sleep over here! Ugh... you're too heavy for me to carry...
 	정말이지, 이런 곳에서 자지 말라고! 으윽… 무거워… 
 
-	请问，这里是Dr.{@nickname}的办公室吗，我找博士很久了，麻烦你......什么？你就是博士？哼哼，干员红豆来报到了！
 	すみません、ドクターの執務室はこちらでよろしかったでしょうか？ドクターはいらっしゃいま……え？あなたがドクター？ふーん、あたしはヴィグナ、よろしくね。
 	Excuse me, is this the office of Dr. {@nickname}? Could you please tell the Doctor that I'm looking for—what? YOU'RE the Doctor? All right, then. Operator Vigna, reporting in!
 	실례합니다. {@nickname} 박사의 집무실이 여기 맞나요? 박사는 여기 있나요… 에? 당신이 박사야? 흐음… 나는 비그나야, 잘 부탁해.
 
-	要跟得上不断变快的战斗节奏，就必须坚持挥洒汗水，没错吧！
 	刻一刻と変化する戦いのリズムについていくためにも、それ相応の努力をしないとね。そうでしょう！
 	You gotta be willing to sweat a lot to keep up with battle tempo, is that right?
 	시시각각 변화하는 싸움의 리듬에 따라가기 위해서라도, 그만큼의 노력을 해야지, 안 그래?
 
-	晋升徽章，我没戴歪吧？好，我马上去拍纪念照！
 	エリートメダル、ズレてないよね？よし、記念写真を撮ってくるね！
 	My new elite medal looks pretty boss, huh? Yeah, let's get a picture to celebrate.
 	정예 메달, 안 비뚤어졌지? 좋아, 기념사진 찍고 올게!
 
-	我虽然不擅长凭借力量取胜，但能用好这把长枪的人，也不会有多少！
 	力技で勝負するタイプじゃないけど、この槍を使いこなせる人はあたし以外にそうそういないわ！
 	I might not be that strong... but lemme show you what I can do with this spear!
 	힘으로 승부하는 타입은 아니지만, 이 창을 능숙히 쓸 수 있는 사람은 나 말곤 거의 없어!
 
-	我会努力学习大家的战斗技巧的。
 	皆さんの戦い方を、しっかり勉強させていただきます！
 	I hope to learn a lot from everyone.
 	여러분이 싸우는 법을 잘 보고 배우겠습니다!
 
-	虽然是队长，也请大家多多指出我不足的地方。
 	隊長はあたしですが、至らないところがあればいつでも指摘をお願いします。
 	I may be the team captain, but you can all let me know where and how I might improve.
 	팀장은 접니다만, 부족한 점이 있다면 언제든지 지적하여 주십시오.
 
-	各位，请做好出发准备，也请多多配合我！
 	皆さん、出発の準備をしてください。よろしくお願いします！
 	Everyone, prepare to deploy. Please.
 	여러분, 출발 준비를 해주세요. 잘 부탁드립니다!
 
-	好好看着吧，接下来可是我的表演时间！
 	見てなさい、ここからはあたしの時間よ！
 	Eyes on me—it's show time!
 	잘 봐둬, 이제부턴 내 시간이야!
 
-	哦！
 	おす！
 	Oh!
 	하!
 
-	嗯。
 	はい。
 	Mhmm.
 	네.
 
-	我来了！
 	行きます！
 	Here I go!
 	갑니다!
 
-	战斗姿态！
 	戦闘態勢に入ります！
 	Battle stance!
 	전투 태세에 들어갑니다!
 
-	多说无益！
 	問答無用！
 	Say no more!
 	문답무용!
 
-	我血液在沸腾！
 	血が滾る！
 	My blood is boiling!
 	피가 끓는다!
 
-	不会输给你的！
 	あんたなんかに負けない！
 	I won't lose to you!
 	너 따위에겐 지지 않아!
 
-	就是现在！搅碎敌人吧！
 	今よ！粉々になれ！
 	Now! Tear them to shreds!
 	지금이야! 산산조각나라!
 
-	不管敌人变得有多强大，都不能让我停止演奏！啊，不，是战斗！
 	敵がどれだけ強くなっても、あたしの演奏を止めることは……あ、いや、演奏じゃなくて戦闘だったわ！
 	No matter how tough the bad guys are, I won't stop thrashing. Not like, a music thing. It's a battle thing.
 	적이 얼마나 강하든지 간에, 내 연주를 멈출 수는… 아, 아니지, 연주가 아니라 전투 얘기였어!
 
-	大家都做的很好！不过博士，想听我表扬你，可要等到回去以后哦~
 	皆さん素晴らしい戦いぶりでした！……ドクターも褒めてほしい？まぁ、戻ってからにしてね。
 	Good job, everybody! Oh? Are you feeling left out, Doctor? You'll have to wait 'till we get back~
 	여러분 정말 훌륭한 전투였습니다! …박사도 칭찬해달라고? 뭐, 돌아가서 해줄게.
 
-	现在还不安全！请立刻巩固阵形！
 	まだ安全ではありません！陣形を固めてください！
 	We cannot relax yet! Hold formation!
 	아직 안전하진 않습니다! 진형을 견고히 해주세요!
 
-	唔呃......不行，还要更加地努力！
 	うう……まだよ、まだ努力が足りない！
 	Ugh... This can't be it. We have to fight harder!
 	으으… 아직이야, 아직 노력이 부족해!
 
-	请问有没有隔音室？我好想弹吉他啊！
 	防音室はある？ギターを弾きたいの！お願い！
 	Is there a soundproof practice room here? I got guitar practice!
 	방음실은 있어? 기타가 치고 싶어! 부탁할게!
 
-	干什么呀！不要碰我啦！
 	なによ！あたしに触らないでよ！
 	What are you doing? Stop touching me!
 	뭐하는 거야! 나 만지지 마!
 
-	别、别摸我的头！会长不高的！
 	ちょ、ちょっと、頭を撫でるのはやめて！背が伸びなくなったらどうしてくれるの！？
 	D-don't pat me on the head! It might make me shorter!
 	자, 잠깐, 머리 쓰다듬는 거 하지 마! 키 안 크면 어떡하려 그래?!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	有事吗？
 	なに？
 	How can I help?
 	뭐야?
+
+干员档案\Background:
+	基础档案 :
+	【代号】红豆
+	【性别】女
+	【战斗经验】一年
+	【出身地】卡兹戴尔
+	【生日】12月12日
+	【种族】萨卡兹
+	【身高】142cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ヴィグナ
+	【性別】女
+	【戦闘経験】一年
+	【出身地】カズデル
+	【誕生日】12月12日
+	【種族】サルカズ
+	【身長】142cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Vigna 
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Kazdel 
+	[Date of Birth] Dec. 12 
+	[Race] Sarkaz 
+	[Height] 142cm 
+	[Infection Status] 
+	Infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 비그나
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 카즈델
+	[생일] 12월 12일
+	[종족] 살카즈
+	[신장] 142cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】优良
+	【战术规划】普通
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】優秀
+	【戦術立案】普通
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 우수
+	[전술 계획력] 보통
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	红豆，萨卡兹人，经多项测试后许可加入罗德岛，在遭遇战、突击战、战术协同方面具有较高潜力。
+	现于罗德岛小队担任先锋人员，在战术突袭、开辟战场等方面取得突出表现。
+
+	個人履歴 :
+	ヴィグナはサルカズ族で、多くの試験に合格してロドスへの加入を認められた。遭遇戦、突撃戦、共闘戦術など多方面に高いポテンシャルを秘めている。
+	現在はロドスの小隊で先鋒オペレーターとして急襲や一番槍などで頭角を現している。
+
+	Profile :
+	Vigna is a Sarkaz that was admitted into Rhodes Island following a battery of screenings, showing good potential in skirmishes, raids, and coordinated combat. 
+	Currently a Vanguard with an advance squad at Rhodes Island, with outstanding performance in both tactical raids and frontline combat.
+
+	프로필 :
+	    살카즈 족인 비그나는 여러 테스트를 거쳐 로도스 아일랜드에 합류하게 되었으며, 돌발성 전투, 돌격전, 전술 협동 방면에서 뛰어난 실력을 보인다. 현재 로도스 아일랜드에서 뱅가드 오퍼레이터로 활약 중이며, 전술 돌격, 전장 장악 등 다양한 방면에서 특출한 능력을 보여주고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】5% 
+	以这个势头发展下去，感染将匀速蔓延扩散。需要保持定期观察与控制。
+	
+	【血液源石结晶密度】0.16u/L
+	鉴于萨卡兹人为矿石病易感人群，针对干员红豆理应需提供更多方面的检测，并及时查阅检测报告。
+	——赫默
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】5%
+	このまま病状が進行すれば、感染は一定速度で広がっていく見込み。病状のコントロールと定期的な検診を行う必要がある。
+	
+	【血液中源石密度】0.16u/L
+	サルカズは鉱石病に感染しやすい傾向にある点を鑑みて、オペレーターヴィグナには当然、より多種な検査の受診及び検査報告書の随時確認が必要である。
+	――サイレンス
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 5% 
+	Infection will spread if unchecked at current progression, regular checkups and control needed. 
+	
+	[Blood Originium-Crystal Density] 0.16u/L 
+	Since Sarkaz are susceptible to Oripathy, it is necessary for Operator Vigna to undergo regular tests and other assessments. 
+	—Silence
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨, 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음, 현단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 5%
+	이 상태라면 빠른 속도로 감염이 확산될 것으로 예상. 정기적인 관찰과 관리 필요.
+	
+	[혈중 오리지늄 결정 밀도] 0.16u/L
+	살카즈인들이 광석병에 쉽게 감염되는 것을 감안하여, 오퍼레이터 비그나는 더욱 면밀한 검사와 보고가 필요할 것으로 판단됨.
+	——사일런스
+
+———————————————————————————————
+
+	档案资料一 :
+	【履历1】
+	“我们萨卡兹人，绝对不会向困境低头的！妥协这样软弱的词语，在我们的字典里——哼，才不存在呢！”
+	——红豆
+	根据干员红豆的个人强烈意愿，在资料中为她加入上述话语。
+	干员红豆出生在卡兹戴尔，但当她记事的时候就已经随同父母在哥伦比亚的城市中生活了。频繁变动的住址，不安稳的童年，冲突频繁的哥伦比亚城市街头，催生了红豆性格中最为不羁那一部分。
+	作为一名萨卡兹，红豆曾亲眼见证流浪的同族受到本地人的歧视，并为了保护同族，不止一次的与他人产生冲突。当然，也并非没有对萨卡兹怀有善意的人，但面对既已形成的大环境，少数的友善显得既脆弱又无力。
+	红豆清楚地看到了人与人之间，因误解和不愿相互理解而产生的种种歧见，并一度为此感到沮丧。但为了父亲母亲，为了仍在支持她，诚恳对待她的人们，她没有一次低下过自己的小小的头颅。
+
+	第一資料 :
+	【履歴1】
+	「あたしたちサルカズ人は、どんな困難にも屈したりしないの！妥協だとかいう軟弱な言葉は、あたしたちの辞書には……フッ、存在しないわ！」
+	――ヴィグナ
+	オペレーターヴィグナの強い意志により、資料に彼女の発言を記録した。
+	オペレーターヴィグナはカズデルで生まれたが、彼女が物心ついた時には既に両親と共にクルビア市街で生活していた。引っ越しを繰り返し、不安定だった幼少期に頻繁にクルビアの街頭でいざこざを起こしたことで、ヴィグナの奔放な性格が形成された。
+	ひとりのサルカズとして、ヴィグナは流浪の同族が地元民に差別されているのを目の当たりにし、同族を守るために他人と衝突し続けたのだ。当然、サルカズに対して友好的な人がいないわけではなかったが、既に形成されている差別的な環境に向かい合えば、少数の好意が脆弱で無力なのは明らかだった。
+	ヴィグナは人間関係を観察し、誤解と相互理解のなさによって様々な偏見が生まれているとわかり、一度はがっかりした。しかし両親の為、そして彼女を支持し、彼女と真摯に向き合ってくれる人々の為に、下を向くことは無かった。
+
+	Archive File 1 :
+	[Log 1]
+	'We Sarkaz can bear any burden! Weak words like 'compromise' do not, I repeat, do not exist in our vocabulary!' 
+	—Vigna 
+	The quote above was added to her file at her insistence. 
+	Operator Vigna was born in Kazdel, though she had lived in Columbia with her parents ever since she could remember. The constant moving, uneasy childhood and rough streets of Columbia gave rise to Vigna's unruly side. 
+	As a Sarkaz, Vigna saw a lot of discrimination against people like her, and often got into scuffles standing up against it. Of course, there were Sarkaz sympathizers, but they were few and far between. 
+	Vigna saw clearly the prejudice rooted in misunderstanding and closed-mindedness. It depressed her. But for the sake of her parents and others who still support her, she has not once lowered her little head.
+
+	파일 자료 1 :
+	[이력1]
+	    "살카즈는 절대 곤경 앞에서 굴복하지 않는다! 우리 사전에 타협 같은 나약한 말은 없어!"
+	——비그나
+	    오퍼레이터 비그나의 강력한 의지에 따라, 모든 자료에 이 말을 추가했다.
+	    오퍼레이터 비그나는 카즈델에서 태어나, 기억이 나는 시점부터는 부모님을 따라 계속 컬럼비아에서 생활했다. 빈번한 이사, 불안정한 어린 시절, 조용한 날이 거의 없었던 컬럼비아의 거리, 이 모든 것들은 구속받기 싫어하는 그녀의 성격을 형성해주었다.
+	    비그나는 떠돌이 신세의 동족이 현지인에게 멸시받는 광경을 여러 차례 목격했고, 이를 보호하기 위해 현지인과 충돌하는 일도 잦았다. 물론 살카즈에게 적대적인 사람만 있었던 것은 아니지만, 이미 형성된 전반적 사회 분위기 속에서 소수의 선의는 그 영향력이 미미해 거의 없는 것과 마찬가지였다.
+	    비그나는 사람들 사이의 모순, 서로 이해하지 못해 발생되는 오해, 종족 간의 차별에 대해 많은 실망을 느꼈지만, 부모를 위해, 그리고 그녀를 친절하게 대해준 사람들과 응원해준 사람들을 위해 단 한 번도 고개를 숙이지 않았다.
+
+———————————————————————————————
+
+	档案资料二 :
+	“只要是生存着的人，就都会有想要发出呐喊的时候，对吧！那么这把电吉他，给你！让我们一起用它......呃......对！绽放！用它，来让我们的生命壮丽地绽放吧！”
+	——红豆
+	根据干员再次表达出的强烈意愿，在资料中为她完整地加入上述话语。
+	摇滚的诞生最初是被传统乐理学家归入噪音行列。但当一个足以名垂青史的哥伦比亚摇滚乐团，用嘶吼的嗓音向所有听众发出的呐喊时，这种即将重新定义音乐的演奏形式正式登上时代的舞台。
+	在摇滚的世界里不存在歧视，任何人都有权唱出自己心中的所思所想。
+	干员红豆用省吃俭用的资金购买了一张演唱会的门票。在电吉他的激昂着她的鼓膜的这个夜晚，她的双手始终是在颤抖着。
+
+	第二資料 :
+	「生きている人間であればみんな、叫びたいときだってある、そうでしょ！それならエレキギターよ、あげるわ！これを使って私たち一緒に……うーん……そう！咲くの！これを使って、私たちの命を華やかに咲かせるのよ！」
+	――ヴィグナ
+	オペレーターヴィグナの強い意志により、資料に彼女の発言を再度そのまま記録した。
+	ロックが誕生したとき、最初は伝統音楽理論学者から騒音だと位置づけられた。しかし、歴史に名を残すクルビアのあるロックバンドがそのかすれた声で聴衆に向けて叫んだ時、新しく定義された音楽の演奏スタイルが歴史の表舞台へと躍り出たのだ。
+	ロックの世界には差別は存在せず、どんな人も自分の想いを歌にして表現する権利がある。
+	ヴィグナは食費を切り詰めて貯めたお金でライブのチケットを買った。エレキギターの激昂が彼女の鼓膜を打ち続けた夜、彼女の両手は終始震えていた。
+
+	Archive File 2 :
+	'To be alive is to want your voice heard, right? Here, take this electric guitar, we'll use it to... uh, yeah, express ourselves! Use it to express how we feel!' 
+	—Vigna 
+	The quote above was, once again, added to the Operator's file at her insistence. 
+	Rock-and-roll was viewed as pure noise by traditional musicians at its inception. But then an iconic band from Columbia performed in loud, roaring concerts and officially ushered in the revolutionary new era of music. 
+	There is no bias in the world of rock, everyone has the right to express their thoughts and feeling in song. 
+	Operator Vigna saved up enough for a concert ticket. She was electrified all night by the wail of the guitars.
+
+	파일 자료 2 :
+	    살아있는 사람이라면 누구든 소리 지르고 싶을 때가 있을 거야. 그렇고말고! 그러니까 이 일렉트로닉 기타를 네게 줄게! 이걸로 우리 같이…그래! 피워 보는 거야! 이걸로 우리의 인생을 활짝 피워보자고!
+	——비그나
+	    이 부분 역시 비그나가 직접 자신의 자료에 넣어 달라고 강력하게 요청한 것이다.
+	    락은 원래 클래식 계열의 음악가들에게 소음이라 칭해지던 음악이다. 하지만 역사에 길이 남겨질 컬럼비아의 락밴드는 허스키한 보이스의 샤우팅으로 모든 청중의 마음을 사로잡았고, 그때부터 새로운 연출 방식의 일렉트릭 락 음악이 정식으로 세계의 무대에 오르게 되었다.
+	    락의 세계에 차별이란 존재하지 않으며, 누구라도 자신의 생각을 노래로 표현할 권리가 있다.
+	    오퍼레이터 비그나는 아껴둔 자금으로 콘서트 티켓을 구매했다. 고막을 뒤흔드는 격앙된 일렉 기타의 선율 속에서, 그녀의 두 손은 시종일관 떨리고 있었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	“我觉得，没有不能使用的武器！如果觉得难以使用，那也一定也是使用者的技艺还不够吧。不管怎么样，既然已经被制造出来了，可没有理由让它这样孤独！”
+	上述话语，是红豆选择这把长枪的基本理由。
+	红豆的长枪被制造出来之后，由于结构新颖维护复杂而且难以操作，导致它的销路始终不畅，最终成为了仓库积压产品。而实际上购买武器的时候，红豆准备的资金本能购入更好的武器，但她一眼就看中了仓库角落的这杆长枪。
+	操纵这杆长枪需要十足的力量和扎实的技巧，于是红豆便将日常的锻炼量增加到了两倍；为了进一步提升长枪的威力，红豆还联系了原制造厂定制了新的枪刃，并不断地钻研长枪各种可行的组装方案。
+	经红豆改装过的长枪，已经在她的手中成为了一把轻便、锐利、延展性强、而且威力十足的优质武器。而红豆为了更好的操作使用它，也努力锻炼出了更加强健的身体，战斗的技巧也在不断提升着。
+	红豆从未觉得自己有停下脚步的可能。每一次的训练，每一次的战斗，都让她觉得自己仍在变得更好，而自己的边界——还远远没有触及到。
+
+	第三資料 :
+	「あたし思うの。使えない武器なんてない！もし使いづらいと思ったら、それは絶対に使う人の技術が足りないからよ。どんなものであれ、既に作られたものをひとりぼっちにする理由はないわ！」
+	上述したものが、ヴィグナが長槍を選んだ理由だ。
+	彼女の長槍は元々、斬新な構造でメンテナンスに手間がかかり、そして操作しづらく、売れ行きも悪かったので、最終的には倉庫の肥やしになっていたものだった。実際に武器を買う時、彼女が用意した資金だともっと良い武器を買うことができたのだが、彼女は倉庫の隅に置かれていたこの長槍を見出した。
+	この長槍を使いこなすには十分なパワーとしっかりした技術が必要だ。そこでヴィグナは普段のトレーニングの量を二倍にした。さらに長槍の威力を高くするために、彼女は製造元に連絡を取り、新しい槍頭にカスタマイズすると、長槍の組み立て方を探究しつづけた。
+	ヴィグナに改造された長槍は、軽快て鋭利で丈夫で威力も十分な良質な武器として生まれ変わった。更に彼女はそれを使いこなすために、強健な体を目指して鍛錬に励み、戦闘の技術も向上し続けている。
+	ヴィグナは自分が足を止める可能性など考えていない。毎回の訓練、毎回の戦闘、全てが自分をより高めてくれるものだと思わせてくれる。自分の限界は……まだ遠い先にある。
+
+	Archive File 3 :
+	'I don't think there's ever an unusable weapon! People who say that just don't know the right way to use it. Anyway, since it's here, might as well use it!' 
+	The above quote explains why Vigna chose the lance as her weapon. 
+	This particular lance model never took off because of its unusual shape and esoteric features making it hard to master. Most of the lances were left to collect dust in the storehouse. Even though Vigna had enough cash for a better weapon, she saw the lance in the corner and right off the bat knew she had to have it. 
+	Wielding the lance requires great strength and skill, so Vigna doubled her daily training regimen. And to improve the power of the lance, she contacted the original manufacturer and custom-ordered a new model in pursuit of the perfect build. 
+	After her modifications, her lance is now a light, keen, durable, and powerful weapon. Vigna herself has also stepped up her own personal combat training in order to improve her mastery over the unique tool. 
+	Vigna has never felt she could or would ever quit. Every practice session, every battle all gave her an important sense of improvement, and she knew she wasn't even close to her limits.
+
+	파일 자료 3 :
+	    "내 생각엔 말이야, 사용할 수 없는 무기는 없다고 봐! 만약 그런게 있다면 그건 분명 사용자의 기술이 부족한 거겠지. 어쨌든 이미 만들어졌다면, 외롭게 혼자 둘 순 없잖아!"
+	    위의 이야기는 비그나가 이 창을 선택한 이유이다.
+	    비그나의 장창은 독특한 구조, 까다로운 관리, 그리고 힘든 조작법으로 인해 판매되지 못하고 줄곧 창고 구석에 쳐박혀 있었다. 이 창을 구매할 당시, 비그나의 수중에는 더욱 좋은 장비를 구매할 충분한 자금이 있었지만, 그녀는 창고 구석에 박혀있는 이 창에 한 눈에 반해버렸다.
+	    이 장창을 사용하기 위해선 많은 힘과 탄탄한 기본기가 필요했기 때문에, 비그나는 일상 훈련의 강도를 2배로 늘렸다. 또한 창의 위력을 향상시키기 위해 제작사에 직접 연락하여 새로운 날을 제작했고, 새로운 사용법도 끊임없이 연구하였다.
+	    이러한 과정을 통해 개조된 비그나의 장창은 가볍고, 날카로우며, 우수한 확장성과 위력을 겸비한 훌륭한 무기가 되었다. 그리고 비그나 역시 장창을 더욱 잘 다룰 수 있도록 매일 신체와 전투 기술을 단련하기 위해 노력했다.
+	    비그나는 한 번도 멈추지 않았다. 모든 훈련과 전투가 그녀를 더욱 강하게 만들었음에도, 그녀는 자신의 한계는 아직도 멀었다고 생각한다.
+
+———————————————————————————————
+
+	档案资料四 :
+	干员红豆加入罗德岛在流程上显得相当正式——简历投递、面试交流、测试检验，最终在她的各项指标均满足罗德岛的任职需求，并获得所有高层人员的许可后，红豆正式加入了罗德岛。
+	提及为何选择加入罗德岛时，红豆给出的答案非常简单：
+	“这里充满了精彩的生命，很多很多，我能感受得到哦。”
+
+	第四資料 :
+	オペレーターヴィグナは正式な選考プロセスでロドスに加入した。プロフィールを投函し、面接、試験と検査を受け、全ての項目でロドスが求める就業条件を満たしていたので、幹部の許可を得た後、ヴィグナは正式にロドスに加入した。
+	なぜロドスへの加入を選んだのかと言及したとき、彼女が出した答えは非常に簡単なものだった。
+	「ここは素晴らしい命に満ち溢れてる。たくさん、心の底から感じるのよ。」
+
+	Archive File 4 :
+	Operator Vigna followed every step of Rhodes Island's recruitment protocol, from the submission of her resume, through the in-person interview, evaluation exams, all the way up to ultimately meeting the requirements and winning the approval of the top executives. 
+	As for why she chose Rhodes Island, her answer was simple: 
+	'Life here will be exciting. Very, very exciting, I can feel it!'
+
+	파일 자료 4 :
+	    오퍼레이터 비그나는 로도스 아일랜드의 정식 입사 과정을 모두 거쳤다. 이력서 투고, 면접, 테스트 검사, 최종적으로 각 항목의 지표들이 로도스 아일랜드의 임직 기준에 부합하였으며, 모든 관리층 오퍼레이터들의 허가를 받아, 비그나는 로도스 아일랜드에 정식 입사하였다.
+	    왜 로도스 아일랜드를 선택했는지에 대한 비그나의 답변은 간결했다.
+	    "이곳엔 다채로운 생명들이 가득해. 엄청나게 가득하다고. 난 그걸 느낄 수 있어."

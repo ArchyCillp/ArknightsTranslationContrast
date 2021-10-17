@@ -1,11 +1,17 @@
 ID:
 	char_202_demkni
 
-干员代号\Name:
+CV:
 	塞雷娅
 	サリア
 	Saria
 	사리아
+
+干员代号\Name:
+	井口裕香
+	井口裕香
+	Yuka Iguchi
+	이구치 유카
 
 招聘合同\Character Usage:
 	前莱茵生命研究员塞雷娅，将是防御与治疗并重的战场核心。
@@ -48,177 +54,457 @@ ID:
 	칼슘화
 
 语音\Voices:
-	我看过你的排班日程，现在确实是休息时间吧？那么，多有打扰。
 	お前のスケジュールはチェックしてある。今は休憩時間だろ、邪魔したな。
 	I've checked your schedule... Isn't it time you took a break? Excuse me, then.
 	네 스케쥴은 이미 확인했다. 지금은 휴식시간이지? 방해했군.
 
-	万物的演化本就是不可动摇的自然法则。莱茵生命却妄图修改它，甚至想要支配它，多么愚蠢的图谋......
 	万物の進化は絶対の摂理。そうだというのにライン生命はそれを改変し、支配することまで目論んでいる。愚かな…。
 	All things are bound to evolution by the laws of nature. Yet Rhine Lab attempted to change it; take control of it, even. What a foolish plan...
 	만물의 진화는 절대적인 섭리다. 그런데도 라인 랩은 그걸 바꾸고, 지배하려고 까지 하고 있지. 어리석긴… 
 
-	作为研究者，你是否也参与过一些不应触碰的实验？没有的话，自然最好。
 	お前も研究者として、禁忌に触れる実験に手を出したことは……いや、していなければそれでいいんだ。
 	As a researcher, have you ever participated in some experiments you probably shouldn't have? No? That's good.
 	너도 연구자로서, 금기를 건드리는 실험에 손을 댄 적은… 아냐, 안 했다면 그걸로 됐다.
 
-	你不觉得罗德岛太喧闹了吗？工作中就该保持安静、专注。你该严格管束你的部下。
 	ロドスはいささか騒がしすぎると思わないか？仕事は静かに集中して行うべきだ。そして、お前は部下に甘すぎる。
 	Don't you think it's too noisy at Rhodes Island? A work environment must be quiet and focused. You should enforce discipline on your subordinates.
 	로도스 아일랜드는 조금 시끄럽다고 생각하지 않나? 일은 조용히 집중해서 해야 한다. 게다가 넌, 부하들한테 너무 물러.
 
-	我真正的能力，与急救这种行为并无关联。不过，为了配合你的战术指挥，我简单地调整了这个能力的使用方法。
 	私の能力は元は救急とは無関係だったが、お前の作戦に合わせて、少し力の使い方を調整した。
 	My true power has nothing to do with first aid. However, I have slightly adjusted the operation of this power to accommodate it to your command.
 	나의 능력은 원래 구급과는 관계없지만, 네 작전에 맞춰 능력의 운용 방법을 약간 조정했다.
 
-	你是不是以为，钙质化法术会让生物变得脆弱？错了，我可以将钙精炼成坚硬的珐琅质。就让敌人试试看吧，没人摧毁得了我的防壁。
 	カルシウム化のアーツは頼りないなんて思ってないか？最大まで精練しエナメル化した防壁は、誰も打ち破れないさ。
 	You think Calcification magic only makes organisms weaker? You're wrong. I can condense calcium into a tough enamel. Let the enemy try, no one can break my shield.
 	칼슘화 아츠는 믿을만하지 못하다고 생각하고 있지 않나? 최대한으로 제련하여 에나멜화한 방벽은, 그 누구도 뚫지 못하지.
 
-	你看到了我和赫默吵架？家常便饭而已......抱歉，给你和罗德岛带来了麻烦。
 	サイレンスと口論しているところを見た？ふん、いつものことだ……。いや、すまない。ロドスにもお前にも、迷惑をかけたな。
 	You've seen me fighting with Silence? Yes, we do that a lot... Sorry for causing you trouble, and Rhodes Island.
 	사일런스와 언성을 높이는 모습을 봤다고? 흥, 늘 있는 일이다… 아니, 미안하다. 로도스 아일랜드에게도 네게도, 폐를 끼쳤군.
 
-	请你帮我转告伊芙利特，“无论今后发生什么，我都会保护你”......见面？不，我还没准备好去见她。
 	イフリータに伝えてくれ……「これから何が起きようと、私が守る」と。……会いに？いや、まだ心の準備が……。
 	Please tell Ifrit on my behalf, 'No matter what happens, I will protect you'... Face her? No, I'm not ready for that.
 	이프리트에게 전해줘… "지금부터 무슨 일이 있어도 내가 지켜주겠다"고… 만나라고? 아냐, 그건 아직 마음의 준비가… 
 
-	即使身处绝境，也要将自己傲然挺立的身姿，永远地刻在重要的人眼中。这是我的底线，也是我生存的准则。你也会这样去做的，对吗？
 	いかなる窮地に立たされようと、大切な者には誇りある姿しか見せない。私はそう決めている。お前もそうだろう？
 	Even in the most desperate of situations, I shall stand fast and make an everlasting impression to the people I hold dear. Such is my bottom line and my motto in life. You will do the same, won't you?
 	어떤 궁지에 빠지든 간에, 소중한 사람에게는 긍지에 찬 모습만을 보여줘야 한다고, 난 그렇게 믿고 있다. 너도 그렇지?
 
-	如果没有其他任务需要处理，我就先一步返回自己的房间了。
 	……用がないなら、部屋に戻るぞ。
 	I'm going back to my room if you don't need me.
 	…… 용무가 없다면, 방으로 돌아가겠다.
 
-	塞雷娅，原莱茵生命研究所实验组成员。至于现在......为了让偏离传统的事物回归正途，我需要罗德岛的协助。
 	私はサリア、元ライン生命医科学研究所の実験チームメンバーだ。今は……摂理を踏み外したものを正すため、ロドスの協力が必要だ。
 	I am Saria, ex-member of the Rhine Lab Medical Research Institute Experiment Team. As for now... in order to lead those who have lost their way back onto the right path, I need Rhodes Island's assistance.
 	내 이름은 사리아, 전 라인 생명연구소의 실험 팀 멤버다. 지금은…… 섭리에서 어긋난 자들을 바로잡기 위해, 로도스 아일랜드의 협력이 필요하다.
 
-	你在干什么？
 	何をしているんだ？
 	What are you doing?
 	뭘 하고 있는 건가?
 
-	很好，如果想保持对下属的影响力，你必须时刻用自己的想法去推动他们。
 	いいか、部下への影響力を維持したいなら、お前の考えで彼らを動かし続けろ。
 	Listen, you must continue motivating your subordinates with your ideas if you hope to maintain influence over them.
 	잘 들어라, 부하에게의 영향력을 유지하고 싶다면, 너의 생각으로 그들을 계속 움직이게 해라.
 
-	晋升？我并不希望这是种特殊对待。只是，为了那个孩子，我确实需要你的协助，直到那些被扭曲过的法则，全都被修正为止......！
 	昇進？ひいきされるのは不本意だが、あの子のために、お前の協力が必要だ。全ての歪みを修正するために……！
 	Promotion? I don't want this to be some special treatment. However, for that girl's sake, I do need your help, until all those distorted rules are corrected...!
 	승진? 높은 평가를 받는 건 바라던 바가 아니지만, 그 아이를 위해서라도 네 협력이 꼭 필요하다. 뒤틀려버린 모든 것들을 바로잡기 위해서…!
 
-	对于你的指挥，我有权进行监督，并提出相应意见。
 	お前の采配に対しては、私にも意見する権利がある。
 	I am within my rights to have my own opinion on your command.
 	너의 지시에 대해서는, 나도 의견을 낼 권리가 있다.
 
-	把这次行动的简报，提交给我审核一下。
 	早速、作戦のブリーフィングに入ろう。
 	Let's have a briefing on the upcoming mission.
 	그럼 바로 작전 브리핑을 시작하지.
 
-	所有干员，必须严格遵守纪律。
 	全員、規律はしっかり守ってもらう。
 	All Operators must maintain strict discipline.
 	전원, 규율은 제대로 지키도록.
 
-	就是他们制造了灾难，点燃了战争之火吗？
 	奴らが災いを生み出し、戦争を引き起こした元凶なのか？
 	Are they the ones that created the disaster and kindled the fire of war?
 	저 녀석들이 재난을 낳고, 전쟁을 일으킨 원흉인가?
 
-	让我来。
 	私が行こう。
 	It's my turn.
 	내가 가지.
 
-	压制他们。
 	奴らを抑える。
 	Suppress them.
 	놈들을 제압하겠다.
 
-	前进。
 	前に進むぞ。
 	Forward.
 	앞으로 전진한다.
 
-	害虫。
 	……害虫が。
 	Vermin.
 	…… 해충이.
 
-	这种程度，又能阻止谁？
 	この程度で止まると思うな。
 	You're not strong enough to stop me.
 	이 정도로 멈출 거라 생각하지 마라.
 
-	很快就会结束。
 	すぐに終わる。
 	This will be over soon.
 	금방 끝난다.
 
-	凝固吧。
 	凝固しろ。
 	Solidify.
 	응고되어라.
 
-	不许放弃。
 	諦めるな。
 	Don't give up!
 	포기하지 마.
 
-	你的战术是现代的，构思却相当古老。你究竟是什么人？
 	お前の作戦、戦術は現代らしいものだが、根底にある思想は古くさいな。一体いつの時代の人間だ？
 	Your tactics appear modern, yet the ideas behind them are primitive at their roots. Just what era do you stem from?
 	너의 작전과 전술은 현대적이지만, 근본적인 사상은 낡아빠졌군. 대체 어느 시대 사람이냐?
 
-	一切必须回归既有的秩序，我不准许任何人违背法则。
 	全ては秩序に則るべきだ。摂理に反することなど、誰にも許されない。
 	All must return to the existing order. None shall disobey the rules.
 	모든 것은 질서에 따라야 한다. 섭리에 반하려 한다면, 누구라도 용서치 않겠다.
 
-	溃退的敌人也许正在呼叫援军，对残余敌人的搜索，不可怠慢。
 	離脱者が援軍を呼ぶ可能性がある。索敵を怠るな。
 	The routed enemies may be calling for reinforcements. We must hunt down every last one of them.
 	도망친 놈들이 원군을 부를 가능성이 있다. 색적을 게을리하지 마라.
 
-	究竟是哪里搞错了......？
 	どこで道を間違えた…？
 	Where did I go wrong...?
 	어디서 길을 잘못 든 거지…?
 
-	这个房间的布置很有意思，虽然，我个人更喜欢未来主义的设计。
 	この部屋、面白いデザインだな。個人的にはフューチャリズムを反映したデザインのほうが好みではあるが。
 	This room has interesting decor. I'd be more fond of a futuristic style, though.
 	이 방, 디자인이 재미있군. 개인적으로는 퓨처리즘을 반영한 디자인이 취향이긴 하지만.
 
-	嗯？什么？
 	ん？なんだ？
 	Hm? What?
 	응? 뭐지?
 
-	博士，有时间的话去补习一些过往的知识吧，你会在其中，发现许多有趣的事。
 	ドクター、時間があればの話だが、過去の知識を学んでみるのも面白いぞ。
 	Doctor, you might do a bit of research into the past in your free time. You will find it most interesting, I'm sure.
 	박사. 시간에 여유가 있으면, 과거의 지식을 배워보는 것도 좋을 거야.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，身体如何？
 	ドクター、元気か。
 	Doctor, are you well?
 	박사, 잘 있었나.
+
+干员档案\Background:
+	基础档案 :
+	【代号】塞雷娅 
+	【性别】女 
+	【战斗经验】五年 
+	【出身地】哥伦比亚 
+	【生日】4月23日 
+	【种族】瓦伊凡 
+	【身高】174cm 
+	【矿石病感染情况】 
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】サリア
+	【性別】女
+	【戦闘経験】五年
+	【出身地】クルビア
+	【誕生日】4月23日
+	【種族】ヴイーヴル
+	【身長】174cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Saria 
+	[Gender] Female 
+	[Combat Experience] 5 years 
+	[Place of Birth] Columbia 
+	[Date of Birth] April 23 
+	[Race] Vouivre 
+	[Height] 174cm 
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 사리아
+	[성별] 여
+	[전투 경험] 5년
+	[출신지] 컬럼비아
+	[생일] 4월 23일
+	[종족] 뷔브르
+	[신장] 174cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】普通 
+	【生理耐受】优良 
+	【战术规划】优良 
+	【战斗技巧】优良 
+	【源石技艺适应性】卓越
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】卓越
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Normal 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Outstanding
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 월등
+
+———————————————————————————————
+
+	客观履历 :
+	塞雷娅，前莱茵生命防卫科主任。于生命科学，微生物学，源石技艺等领域皆有建树，同时于歼灭战，要员保全，异常事态处理等任务中表现出强大实力。 
+	目前与罗德岛在科研等多个领域皆有合作，同时，正与罗德岛针对深入合作计划进行磋商。
+
+	個人履歴 :
+	ライン生命警備課の元主任。生命科学、微生物学、アーツの分野において多数の実績を残しており、殲滅戦や要人警護、そして緊急任務対応などで実力を発揮する。
+	現在ロドスとは科学研究など多くの分野で協力関係にあり、今後さらに深く提携を結ぶことも協議中。
+
+	Profile :
+	Saria was once the director of the Rhine Lab Defense Division. She has made contributions to the fields of life science, microbiology, and Originium Arts. At the same time, she has also proven herself formidable when it comes to demolition, protection, and anomaly containment missions.
+	Currently, she is working with Rhodes Island in various scientific fields and is negotiating a more in-depth cooperation plan with them.
+
+	프로필 :
+	    전 라인 생명연구소 방위부서 주임. 생명과학, 미생물학, 오리지늄 아츠 등 다양한 영역에서 그 공로를 인정받았으며, 이 밖에도 섬멸전과 요원의 안전 확보, 이상 사태 처리 등 다른 임무에서도 상당한 실력을 드러내고 있다. 현재는 과학연구 등 다양한 영역에서 로도스 아일랜드에 협력하는 한편, 로도스 아일랜드와의 협력 계획 관련 협의에도 지속적으로 힘쓰고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	体细胞与源石融合率：0%
+	塞雷娅，被源石感染迹象，无。
+	
+	血液源石结晶密度：0.11u/L 
+	塞雷娅，推测有特殊的保护自己的方法，尽管在工作中多次接触源石造物，塞雷娅的相关数值依然很低。
+	
+	塞雷娅是我在莱茵生命时的同事，在医疗领域很有权威性，但是她没有成为医疗干员，推测原因，她太硬了。
+	我在说笑话哦。
+	——医疗干员白面鸮
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.11u/L
+	彼女は仕事中頻繁に源石と接触するにも関わらず、関連項目の数値はどれも低く保たれていることから、恐らく特殊な方法で感染から身を守っていると推測される。
+	
+	サリアさんはライン生命の元同僚です。医療分野で権威のある方でしたが、医療オペレーターにならなかったのは、彼女があまりにも硬すぎるからだと推測されます。
+	冗談です。
+	——医療オペレーター　フィリオプシス
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0%
+	Operator shows no sign of infection.
+	
+	[Blood Crystal Density] 0.11u/L 
+	Operator suspects there is a way to protect oneself from infection. Though this Operator has frequently come into contact with Originium in the course of her work, her indicators remain very low. 
+	
+	Saria was my coworker at Rhine Lab. She is authoritative in the field of medical treatment, but did not become a Medic Operator. My guess is this is due to her lack of bedside manner.
+	Just kidding.
+	- Medic Operator Ptilopsis
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	사리아, 오리지늄 감염 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L
+	사리아, 자신을 보호하는 특수한 방법이 있는 것으로 추측됨, 업무 중 수차례 오리지늄 가공물과 접촉하였으나, 사리아의 관련 수치는 여전히 매우 낮다.
+	
+	    사리아는 제가 라인 생명연구소에 있을 때의 동료로, 의료 영역에도 일가견이 있었지만, 메딕 오퍼레이터가 되진 않았습니다. 추측건대, 그녀가 너무 강력해서이지 않을까요. 농담이랍니다.
+	——메딕 오퍼레이터, 프틸롭시스
+
+———————————————————————————————
+
+	档案资料一 :
+	【源石技艺评定】
+	塞雷娅女士向术师干员与医疗干员们详细解释了自己源石技艺的原理。具体牵涉的理论晦涩而艰深，简而言之，除了普通的源石技艺之外，塞雷娅女士能够自由操作自身为圆心、一定区域内的钙元素及其化合物。将自己渊博的医学知识与能力相融合后，无论是通过源石技艺阻挡、削弱敌人，还是将之用于武装自身、配合队友——类似的需求，塞雷娅女士都能轻易满足。
+	正如塞雷娅女士自己所说，源石技艺的强大不在于它的运作方式，而在于它所能达到的目的。
+
+	第一資料 :
+	【アーツ評定】
+	某日、サリアは術師と医療オペレーターたちに自身のアーツの原理について詳しく語った。具体的な理論はあまりにも専門的で難解なものであったが、簡単にまとめると、彼女は一般的なアーツ以外に、特別なアーツを使い一定距離内のカルシウム元素とその化合物を自由に操作することができるという。豊富な医学知識とそれらの能力を融合させることで、アーツで敵の進攻を妨害し戦力を削ぐ、自身を強化し前線で仲間と戦うなど、こちらの戦術的要求に応えることは彼女にとっては非常に容易い。
+	彼女が言うには、アーツはどう使うかではなく、何のために使うかがその強さを決定づけるのだという。
+
+	Archive File 1 :
+	[Originium Arts Assessment]
+	Lady Saria has explained in detail the theory behind her Originium Arts to Caster and Medic Operators. The specifics of the theory are cryptic and complicated, but in a nutshell, aside from normal Originium Arts, Lady Saria is also capable of freely manipulating the calcium and chemical compounds in a circular area around her. Combining her erudite medical knowledge and capabilities, she is quite able to meet what's required of her, whether it's using her Originium Arts to block and weaken the enemy, or using her weapon to protect her teammates.
+	As Lady Saria herself says, the strength of Originium Arts lies not in how you use them, but the purpose you use them for.
+
+	파일 자료 1 :
+	[오리지늄 아츠 평가]
+	    사리아는 캐스터 오퍼레이터와 메딕 오퍼레이터들에게 상세히 자신의 오리지늄 아츠의 원리에 대해 설명해주었다. 구체적인 내용은 너무 어렵고 심오하기에 간단히 말하자면, 일반적인 오리지늄 아츠 외에 사리아는 자신을 중심으로 일정 공간 내의 칼슘 원소와 그 화합물을 자유롭게 조종하였다. 자신의 해박한 의학 지식과 능력을 융합한 후, 적을 저지하고, 약화시키고, 자신과 동료의 무장으로 활용하는 오리지늄 아츠를 사리아는 매우 간단히 시전하였다.
+	    이날 사리아는 마지막으로, 오리지늄 아츠의 강대함은 운용 방식에 있는 것이 아니라, 이것을 통해 달성할 수 있는 목적에 달려있다고 거듭 강조하였다.
+
+———————————————————————————————
+
+	档案资料二 :
+	塞雷娅女士曾经是莱茵生命防卫科的主要领导人。
+	塞雷娅女士的盾牌同时也是她的法杖。虽然，大多数情况下，她面对的敌人，都不值得她动用源石技艺。
+	如同少数罗德岛干员所说，塞雷娅女士是罗德岛不可多得的战略性干员之一。
+	一方面，战场上，塞雷娅女士会运用自己的医学知识，使用随身的医疗器械医治自己的队员。
+	另一方面，凭借不凡的搏击技术，塞雷娅女士能用自己的盾牌轻易击碎敌人的身体结构，使他们丧失反抗能力，甚至直接破坏掉他们的装备。
+	更重要的是，塞雷娅女士在战地指挥上，同样颇有造诣。虽然塞雷娅女士在战斗中实行的小队方针偏向固守，但可以肯定的是，有塞雷娅女士参与的任务中，极少有干员伤亡的情况发生。
+	“当塞雷娅女士举起盾牌时，她不是在保护身后的干员，她是在保护整支小队。”
+	当然，许多干员都认为，如果塞雷娅女士肯放弃盾牌与注射器、使用双拳战斗的话，她应该会比现在更强大，至少在破坏力范畴。
+	你不会想看她训练小队成员时，究竟做出了怎样的擒拿示范的。
+
+	第二資料 :
+	サリアは元々ライン生命警備課のトップの一人だった。
+	彼女の盾はアーツロッドとしての運用も可能であるが、彼女が相手にする敵はほとんどがアーツを使うに値しない者たちであるという。
+	一部のオペレーターが語る通り、サリアはロドスでも稀に見るほど深く戦術を心得たオペレーターの一人である。
+	戦場での彼女は自分の医学知識を活かし、身につけている医療機器で仲間の治療を行う。
+	一方で格闘術にも長けており、自身の盾で敵を打ち伏せ、相手の身体を破壊し抵抗する力を奪ったり、ひいては直接相手の武器を破壊してしまうこともある。
+	それよりも注目すべき点は、彼女は指揮官としても造詣が深いところである。彼女の指揮方針は防御を主体としたもので多少保守的ではあるが、彼女が参加した任務における死傷者は極めて少ない。
+	「サリアが盾を掲げたとき、彼女が守るのは後ろのオペレーターではなく、後ろにいる全ての仲間なのだ」
+	もちろん、多くのオペレーターが考えるように、彼女が盾と注射器を放棄し、両拳を武器に戦えばその戦闘力はより高いものになるだろう。少なくとも破壊力においてはまず間違いない。
+	格闘術の訓練で見本を見せる彼女の姿は、思い出すだけで震えがくる。
+
+	Archive File 2 :
+	Lady Saria was once the leader of Rhine Lab's Defense Division.
+	Lady Saria's shield also functions as her staff. In most cases, she finds enemies not worth using Originium Arts on.
+	As a few Rhodes Island Operators have said, Lady Saria is one of our few strategic Operators.
+	On the one hand, she uses her medical knowledge and equipment to heal her teammates on the battlefield.
+	On the other hand, with her extraordinary fighting skills, Lady Saria can easily use her shield to break apart her enemies, causing them to lose their will to fight and even destroying their equipment.
+	More importantly, Lady Saria is equally accomplished when it comes to commanding the battlefield. Although the plans her team implements are heavily biased towards defense, one can be sure that when Lady Saria is involved, the team will suffer very few casualties.
+	'When Lady Saria raises her shield, she is not only protecting the Operators standing behind her, she is protecting the whole team.'
+	Of course, many Operators feel that if Lady Saria abandoned her shield and syringe and used both her fists to fight, she would be stronger than she is now, or at the very least more destructive.
+	You don't want to know what kinds of demonstrations she used to train the team.
+
+	파일 자료 2 :
+	    사리아는 과거 라인 생명연구소 방위부서의 주임이였다.
+	    사리아의 방패는 마법 지팡이기도 했다. 비록 대부분의 전투 상황에선 그녀가 오리지늄 아츠를 운용할 필요가 없지만 말이다.
+	    몇몇 로도스 아일랜드의 오퍼레이터들이 말한 것처럼, 사리아는 로도스 아일랜드에서 많지 않은 전략적 활용도가 높은 오퍼레이터 중 한 명이다. 전장에서 사리아는 자신의 의학 지식을 활용할 수 있어, 언제나 의료 기계를 휴대해 자신의 팀원들을 치료해줄 수 있고, 범상치 않은 격투 기술을 활용하여, 방패로 적의 장비나 신체 구조를 박살내 그들의 전의를 꺾어 버린다. 더욱 중요한 것은, 사리아는 전장 지휘 방면에도 조예가 깊다는 것이다. 비록 사리아가 전투 중 실행하는 팀 전략은 비교적 방어적이긴 하지만, 확실한 것은 사리아 씨가 참여한 임무 중 부상으로 사망하는 오퍼레이터가 거의 나오지 않는다는 점이다.
+	    "사리아가 방패를 들어 올릴 때는, 자신의 후방에 있는 오퍼레이터들만 보호하는 게 아니라 팀 전체를 보호해준다."
+	    물론 많은 오퍼레이터들은 만약 사리아가 방패와 주사기를 포기하고 양 주먹을 사용해 전투를 하게 된다면, 분명 지금보다 더 강력할 것이다. 적어도 파괴력만큼은 분명하다.
+	    그녀가 팀원들을 훈련시킬 때 대체 어떠한 시범을 보였는지는, 아마 보지 않는 편이 좋을 것이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	塞雷娅女士与莱茵生命之间的关系十分复杂。
+	虽然与罗德岛合作的莱茵生命干员，都在一定程度上对塞雷娅女士表现出相当的尊敬——隶属莱茵生命的医疗干员赫默，却对塞雷娅女士表现出了敌意。
+	同时，塞雷娅女士也并不对干员赫默的表现出的态度感到意外。
+	只是，每当塞雷娅女士尝试着与术师干员伊芙利特沟通，干员赫默都会出面阻止。
+	据资料显示，塞雷娅与赫默间的冲突源于莱茵生命的一项实验，而这项实验的主导人正是赫默。
+	实验可悲地失败了。塞雷娅女士独自行动，镇压了失去控制的实验品。同样，也因为此项实验的缘故，塞雷娅女士决定离开莱茵生命。
+	为何塞雷娅女士在离开莱茵生命后与罗德岛合作，其中缘由，我们尚不得而知。
+
+	第三資料 :
+	サリアとライン生命との関係はとても複雑だ。
+	ロドスと提携しているライン生命のオペレーターたちは、程度の差こそあれ皆彼女に対して敬意を表すが、サイレンスだけは彼女に敵意をあらわにする。
+	サリア自身もそれを意外であるとは感じていない様子だ。
+	また、サリアがイフリータと接触しようとすると、サイレンスは必ず止めに入る。
+	資料によると、ライン生命時代にサイレンスが実施したとある実験で二人は衝突したらしい。
+	実験は無念にも失敗し、サリアは制御不能に陥った実験品を独断で停止させたという。その実験が原因となり、彼女はライン生命を離れる決意をしたとされている。
+	ライン生命を離れたサリアが、なぜロドスに協力することを決めたのか。その理由を知るものはいない。
+
+	Archive File 3 :
+	The relationship between Lady Saria and Rhine Lab is very complicated.
+	Though all Rhine Lab Operators who work with Rhodes Island show some amount of respect for Lady Saria, Rhine Lab's Medic Operator, Silence, shows nothing but hatred for her.
+	At the same time, Lady Saria appears unsurprised by Silence's feelings toward her.
+	Whenever Lady Saria attempts to talk with Caster Operator Ifrit, Silence gets in the way.
+	According to available information, the animosity between Saria and Silence stems from an experiment at Rhine Lab led by Silence.
+	The experiment was an unfortunate failure. Lady Saria acted alone in suppressing the experimental materials that had gone out of control. Similarly, because of this experiment's mishaps, Lady Saria left Rhine Lab.
+	It is not known why she chose to cooperate with Rhodes Island after leaving Rhine Lab.
+
+	파일 자료 3 :
+	    사리아와 라인 생명연구소 사이의 관계는 꽤 복잡하다. 비록 로도스 아일랜드와 협업하고 있는 라인 생명연구소의 오퍼레이터들이 모두 사리아를 상당히 존경하고 있으나, 그중 메딕 오퍼레이터 사일런스는 반대로 사리아에게 적의를 보이고, 사리아 역시 이런 사일런스의 태도를 당연시 여긴다.
+	    사리아가 캐스터 오퍼레이터 이프리트와 이야기를 하려 할 때마다 사일런스가 나타나 저지하려고 하는데, 자료에 의하면 사리아와 사일런스의 충돌은 라인 생명연구소의 한 실험에서 부터 기인한 것이라고 하며, 이 실험의 책임자는 사일런스였다고 한다.
+	    실험은 안타깝게도 실패하였고, 사리아는 단독으로 통제가 불가능한 실험체를 진압하였다. 이 일을 계기로, 사리아는 라인 생명연구소를 떠나기로 결정하였다.
+	    어째서 사리아가 라인 생명연구소를 떠난 후 로도스 아일랜드에 협력하고 있는지, 그 원인은 아직 알 방법이 없다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	我已经向她了解了她寻求罗德岛合作的原因。她没有任何保留，直言不讳，如同进攻。
+	塞雷娅担忧伊芙利特的继续生长与破封。她坦言，如果不进行控制，接踵而至的灾难不仅会破坏罗德岛，更可能引发其它的危机。莱茵生命高层掩盖了真相，而赫默对这一切尚不知情。
+	我也向她表示，我们会继续观察伊芙利特的病况，并且欢迎塞雷娅加强与罗德岛之间的合作，前提是塞雷娅必须切断与其它政治实体间的所有联系。
+	罗德岛依然需要借助塞雷娅的力量来处理一些问题，其它隶属莱茵生命的干员身上的问题。以及，我们该做好面对幕后操作者的准备。塞雷娅与我的观点一致。
+	处理莱茵生命的问题时必须小心谨慎，阿米娅应该警惕某些干员牵扯到的政治力量。
+	
+	——凯尔希
+
+	第四資料 :
+	【権限記録】
+	彼女がロドスに協力することを希望した理由は、既に彼女から聞いている。彼女は包み隠さず、率直に語った。そう、まるでこちらを牽制するかのように。
+	サリアが心配しているのは、イフリータの成長と力の解放だそうだ。制御してやらなければ、災難が次々にロドスを襲うだけではなく、それ以上の危機を招く可能性も十分にある。そして何より、ライン生命の上層部が真相を隠していることを、サイレンスは知らないらしい。
+	我々はイフリータの容態には十分注意して観察を続けるし、サリアが我々ロドスとより深い協力関係を結ぶことを歓迎する。だが前提条件として、他の政治団体とのつながりを断ち切るように、と伝えておいた。
+	我々ロドスは依然としてサリアの力が必要だ。ライン生命のオペレーターたちが抱える問題の対処にも当たってもらいたい。そして、裏で糸を引いている人物に対して、それ相応の準備をしなければならない。その点では、サリアと私の見解は一致している。
+	ライン生命に関わる問題の対処を行う際は十分に注意し、アーミヤも一部オペレーターが関わる政治的な力には警戒しておくこと。
+	
+	——ケルシー
+
+	Archive File 4 :
+	[Classified Log]
+	I have already spoken with her about her reasons for working with Rhodes Island. She had no reservations about speaking bluntly, as if on the offensive.
+	Saria is worried about Ifrit's continued growth and development. She candidly said that if the situation is not properly controlled, the results will not only destroy Rhodes Island, but will also set off other catastrophes. She said that the upper echelon of Rhine Lab is covering up the truth and that Silence is completely in the dark about all this.
+	I expressed to her that we will continue monitoring Ifrit's infection and that we invite Saria to strengthen her cooperation with Rhodes Island on the condition that she sever all her political relationships.
+	Rhodes Island still needs to draw upon Saria's power to solve some problems, namely problems with some other Rhine Lab Operators. Also, we need to get ready to confront some Operators behind the scenes. Saria and I both agree on this.
+	We must be careful when dealing with the Rhine Lab issue. Amiya should be wary of some of the involved players' political inclinations.
+	
+	- Kal'tsit
+
+	파일 자료 4 :
+	[제한된 기록]
+	    난 이미 그녀가 로도스 아일랜드와 함께하는 이유를 알고 있었다. 그녀는 숨기는 것이 없는 날카로운 말투로, 이프리트가 계속해서 성장하고 발전하는 것에 대해 우려하고 있다고 말했다. 만약 지금 제어하지 않는다면, 그 다음에 올 재난은 로도스 아일랜드를 파괴하는 데 그치지 않고, 더 큰 위기를 불러올 것이라고 말이다. 라인 생명연구소의 간부들은 진상을 숨겼고, 사일런스는 이 모든 것에 대해 전혀 알지 못하고 있다고 하였다.
+	    나는 그녀에게 우리가 협심하여 이프리트의 병세를 지속적으로 관찰하자고 했고, 사리아 또한 로도스 아일랜드와의 협력 관계를 강화하는데 찬성했다. 하지만 나는 사리아가 반드시 기타 정치 세력과의 관계를 단절해야 한다는 것을 전제 조건으로 걸었다.
+	    로도스 아일랜드는 여전히 사리아의 힘을 빌려 여러 문제들과 다른 라인 생명연구소 소속 오퍼레이터들에 관한 문제를 처리해야 하지만, 동시에 라인 랩의 배후 세력에 맞설 준비를 해야한다.
+	    다행히도 사리아와 우리가 지향하는 바는 일치한다. 라인 생명연구소의 문제를 처리할 때는 반드시 신중해야 하고, 아미야는 반드시 일부 오퍼레이터들과 연관된 정치적 힘을 경계해야 할 것이다.
+	
+	——켈시
+
+———————————————————————————————
+
+	晋升记录 :
+	塞雷娅女士的个人实力已经被罗德岛承认，但她没有因拥有这种实力而盲目冒进。她尽职恪守，坚定地用盾与源石技艺保护着自己的队友。
+	只是，许多干员都思考过同一个问题：明明拥有如此可怖的力量，为什么塞雷娅女士会坚持使用盾与辅助类源石技艺维护队伍，而非直接解放自己的力量，向对手施以毁灭性的打击呢？
+	塞雷娅女士没有直接回答过，相反，她一直在用言行规训其它的干员，力量并非战斗的本质，实力并不意味着肆意妄为。
+	风暴中，唯保守者屹立不倒。
+
+	昇進記録 :
+	サリアはロドスでも認められるだけの実力を備えていながら、自身の力を見誤ることはない。戦場ではその役目を理解して立ち回り、盾とアーツで仲間を守り抜く。
+	恐ろしいほどの実力を備えているにも関わらず、力まかせに暴れるのではなく、あくまで盾とサポート型のアーツで仲間を守ることに尽力する様子を見て、どうしてそのような戦い方をするのかと疑問に思うオペレーターも多いようだ。
+	そんな疑問にサリアが直接答えることはないが、彼女はその言葉や行動で、力は戦闘の本質ではなく、好き放題暴れることが実力ではないということを他のオペレーターに示している。
+	嵐の中では、守りを固める者だけが最後まで立っていられるのだ。
+
+	Promotion Record :
+	Rhodes Island admits that Lady Saria is personally quite strong. However, she has not let this strength get the better of her. She is doing her duty and stalwartly defending her teammates with her shield and her Originium Arts.
+	However, many Operators have raised a question: if Lady Saria is so powerful, why does she insist on using her shield and auxiliary Originium Arts to assist the team rather than releasing her own power and launching devastating attacks on the enemy directly?
+	Lady Saria has not yet answered this question. On the contrary, she will chide and discipline other Operators. Strength is not the essence of combat. Strength should not be used hastily.
+	In the midst of the tempest, only those on guard stay standing.
+
+	승진 기록 :
+	    사리아의 개인 실력은 이미 로도스 아일랜드의 인정을 받았지만, 그녀는 이런 실력이 있다고 경거망동하지 않았다. 그녀는 충실히 규율을 준수하였고, 방패와 오리지늄 아츠를 사용해 자신의 팀원들을 견고히 보호하였다.
+	    많은 오퍼레이터들이 "이렇게 무시무시한 힘을 가지고 있는데도 왜 사리아는 방패와 서포트형 오리지늄 아츠 사용만을 고집해 팀을 운영하는 건가, 차라리 자신의 힘을 개방하여 상대를 괴멸시킬 만한 타격을 주는건 어떨까?" 하는 질문을 던졌지만, 사리아는 직접 대답하는 대신, 늘 말과 행동을 통해 "힘은 전투의 본질이 아니며, 실력이 있다고 해서 이것이 제 맘대로 행동할 수 있음을 의미하지는 않는다"는 것을 알려주었다.
+	    폭풍 속에선, 굳게 지키려고 하는 자만이 쓰러지지 않고 서 있을 수 있는 법이다.

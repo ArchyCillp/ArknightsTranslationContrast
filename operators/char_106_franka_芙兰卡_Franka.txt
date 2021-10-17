@@ -1,11 +1,17 @@
 ID:
 	char_106_franka
 
-干员代号\Name:
+CV:
 	芙兰卡
 	フランカ
 	Franka
 	프란카
+
+干员代号\Name:
+	加隈亚衣
+	加隈亜衣
+	Ai Kakuma
+	카쿠마 아이
 
 招聘合同\Character Usage:
 	黑钢防化小队近卫干员芙兰卡，正在等待你的部署。
@@ -43,177 +49,369 @@ ID:
 	예리함의 극치
 
 语音\Voices:
-	现在是换班时间，博士，不必在意我，请继续工作吧。
 	交代の時間だけど、そのまま仕事してて、ドクター。あたしのことは気にしなくていいから。
 	We're changing shifts right now, Doctor. Just ignore me and get on with your work.
 	교대 시간이긴 한데, 하던 일 계속해, 박사. 난 신경 쓰지 말고.
 
-	在BSW我被任命为生化防护响应专员——通称“BPRS”。是的，就是大家都熟悉的那种形象，穿着像桶一样的全套防化服......
 	BSWでは生体防護処置班員——通称「BPRS」というポジションを任されてたの。そう、みんなにもおなじみの、バケツみたいな防護服を着てね……。
 	Back in BSW, I was appointed as a BPRS... you know, Biochemical Protection Response Staff. You can probably imagine what it was like... bulky hazmat suit and all that...
 	블랙스틸에선 생화학방호대응 담당, 통칭 'BPRS'라는 포지션을 담당하고 있었어. 그래, 다들 잘 아는 양동이처럼 생긴 방호복을 입고서 말이야… 
 
-	什么？我有洁癖？呵呵，博士出乎意料地很敢说话呢，有胆量哦。
 	んー？あたしが潔癖症？ふふ、ドクターって意外と遠慮ない時あるよね、いい度胸してるわ。
 	Hmm? You think I'm a clean freak? Well, Doctor, I see you're unexpectedly direct! I admire your courage.
 	응? 내가 결벽증이 있다고? 후후, 박사는 의외로 직설적일 때가 있네. 좋은 배짱이야.
 
-	我认为部分干员的房间最好被净化下，比如那位高高在上的优等生小姐的，您觉得怎么样？
 	一部のメンバーの部屋は浄化処理したほうがいいと思うな。あのお高く止まった優等生サマの部屋とかさ、どう？
 	Some of the Operators' rooms are in dire need of cleaning. For example, the one belonging to that high-and-mighty teacher's pet. What do you think?
 	일부 멤버의 방은 정화 처리를 하는 게 좋을 것 같아. 예를 들면 그 거만한 우등생님의 방이라든가. 어때?
 
-	想欣赏下我这把剑的精致花纹吗？那么，请好好地拿着，绝对不要松手，接下来它会在三秒钟内加热到2500度......呵呵，开玩笑的啦。
 	この剣の文様、見てみたい？はい、しっかり持って、絶対に離しちゃダメだよ。この剣、三秒もあれば2500度の熱さに……ふふ、冗談冗談、そう怯えないで。
 	You want to see the intricate pattern on my sword up close? Sure, hold it tight, then. Don't let go—it'll heat up to 2,500 degrees Celcius in 3 seconds! Haha, just kidding! Don't be scared!
 	이 검의 문양을 보고 싶어? 자, 꽉 잡아. 절대 놓치면 안 돼. 이 검은 3초 만에 2,500도까지 달아오른다고… 후후, 농담이야. 그렇게 겁먹지 마.
 
-	请注意那些布满化学烟雾、有毒物质和有害辐射的房间......对，我确实在说凯尔希医生的实验室。
 	化学ガスとか有毒物質とか放射線とかばっかりの部屋には気をつけて……そう、ケルシー先生のラボとかね。
 	Stay clear of that room full of chemical haze, toxins and harmful radiation... that's right, I mean Dr. Kal'tsit's lab.
 	화학 가스나 유독 물질, 방사선이 가득한 방은 조심해… 그래, 켈시 선생님의 연구실 같은 곳 말이야.
 
-	生化防护的相关心得？这个嘛，比如说饭后一定要刷牙？
 	生体防護の心がけ？そうね……食後の歯磨きは欠かさないとか？
 	You're asking me for advice regarding the prevention of biochemical contamination? Well, for example... always brush your teeth after eating?
 	생화학 방호 업무의 마음가짐? 글쎄… "식후에는 반드시 양치질할 것" 같은 거?
 
-	雷蛇晋升后的姿态真是惹眼啊。「我这么好看！打这儿，打这儿！」，她一定是想这么说的吧？
 	リスカムの昇進後の姿はいいよねー。「ワタシを狙って」って言ってるようなもんでしょ？
 	Liskarm's been looking so flashy since she got her promotion. It's like she's saying 'Shoot me here!'
 	승진한 리스캄의 모습은 참 좋네~ "저를 노려 주세요"라고 말하는 것 같지 않아?
 
-	啊啊，如果罗德岛这么自由的话，干脆就从黑钢辞职好了~不过这样雷蛇会很伤心呢~
 	あーあ。ここがこんなに自由ならBSWを辞めてもいいかな～でもリスカムは悲しむよね～。
 	Good golly, if this is how free life is at Rhodes Island then I might just quit my job at BSW. Liskarm would be upset, though.
 	아~ 여기가 이렇게 자유롭다면 블랙스틸 관둬도 되겠는데~? 하지만 그러면 리스캄이 슬퍼하겠지~
 
-	你手腕上停了只蚊子，博士。
 	手首に蚊が止まってるよ、ドクター。
 	There's a mosquito on your arm, Doctor.
 	손목에 모기가 앉았어, 박사.
 
-	防化干员芙兰卡，为了最大限度抑制矿石带来的污染，就让我贡献一份力量吧。
 	生体防護オペレーターのフランカよ。源石汚染を最大限に抑えられるように、力を貸してあげるわね。
 	I'm chemical specialist operator, Franka, here to do my bit to help minimize the pollution wrought by Originium.
 	생화학 방호 오퍼레이터 프란카야. 오리지늄 오염을 가능한 한 억제할 수 있도록 힘을 빌려줄게.
 
-	这样的技巧，无论什么样的场合里我都能灵活运用哦。
 	こういうテクニックなら、いろんな場面で活かせると思うよ。
 	Techniques like these could be used in all kinds of situations!
 	이런 테크닉은 다양한 상황에서 활용할 수 있겠네.
 
-	哦，晋升？比起黑钢，这里要有趣多了。
 	へー、昇進させてくれるの？BSWにいた時より、ずっと面白いわね。
 	Wooow, you're giving me a promotion? I'm having a lot more fun here than at BSW.
 	오, 승진시켜 주는 거야? 블랙스틸에 있던 때보다 훨씬 재미있는걸.
 
-	哼哼，你想见识下这把剑最闪耀的样子吗？遗憾，现在的博士还没有那个资格。再努力点，也许那一天会到来的哦。
 	ふふ、この剣が最も輝いてる姿が見たい？残念だけど、ドクターにはまだその資格がないわね。もっと頑張ってくれれば、いつかその日が来るかもしれないけどね。
 	*Giggle*, you want to see my sword at its most glorious? Too bad, Doctor—you're not qualified yet! If you work at it, maybe one day you'll gain the privilege!
 	후후, 이 검이 가장 빛나는 모습을 보고 싶어? 아쉽지만 박사에겐 아직 그럴 자격이 없어. 좀 더 노력하면 언젠가 그날이 올지도 모르지만.
 
-	好，准备完毕。
 	よーし、準備できたわ。
 	All right, I'm ready.
 	좋아, 준비됐어.
 
-	培养优秀部下的好处，就是能把麻烦事统统推给他们。
 	いい部下を育てるメリットは、面倒事を押し付けられることなのよね。
 	The best thing about training capable subordinates is that I get to let them handle all the annoying stuff for me.
 	좋은 부하를 키워내는 메리트는, 귀찮은 일을 떠넘길 수 있다는 점이지.
 
-	那么，我们出发。
 	じゃあ、行きましょう。
 	Well, let's go, then.
 	자, 가자.
 
-	很遗憾，这些人已经被污染了，那样的话......
 	残念ながら、連中は汚染されてるみたいね。それなら……。
 	Too bad... these people have already been contaminated. In that case...
 	안타깝게도, 얘네들은 오염된 것 같네. 그러면…… 
 
-	时间有限。
 	時間がない。
 	We have to hurry!
 	시간이 없어.
 
-	没时间犹豫了。
 	迷ってる暇はないわ。
 	No time to hesitate.
 	망설일 틈은 없다고.
 
-	我对进攻不怎么在行~
 	攻撃は専門外なんだけどなー。
 	Offense isn't what I trained for, but hey...
 	공격은 내 전문 분야가 아닌데.
 
-	重装甲好可怕......骗你的~
 	重装甲とか超こわーい……なんてね。
 	Heavily armored enemies are SO scary...! Hah, just kidding!
 	중기갑이라니 너무 무섭다~ … 장난이야.
 
-	发现你的弱点了～
 	弱点、みーっけ。
 	Found your weak spot!
 	약점 발견~
 
-	烧起来吧。
 	燃えなさい。
 	Burn it up!
 	불타버려.
 
-	停止呼吸咯～
 	息の根を止める。
 	Hold your breath now!
 	숨통을 끊어 줄게.
 
-	骗~你的。
 	なーんてね～。
 	Juuuuust kidding!
 	그냥 해본 소리야~
 
-	沉溺于力量，是最愚蠢的。
 	力に溺れるなんて……愚かなやつらね。
 	Obsession with power is a fool's game.
 	힘에 취하다니… 어리석은 녀석들이네.
 
-	真是一次完美的行动，做的很好哦。
 	非の打ち所がない戦いだったわね。よくできました、っと。
 	That was perfect from start to finish. Well done.
 	흠잡을 데 없는 전투였어. 참 잘했어요~!
 
-	理所当然的结果。
 	当然の結果ね。
 	Just as expected.
 	당연한 결과지.
 
-	在这种地方沮丧又有什么用？立刻撤退。
 	こんなところで落ち込んでてもしょうがないでしょ？さっさと撤退するわよ。
 	What's the point of staying here and being all upset? Fall back now.
 	이런 데서 낙담해 봤자 무슨 소용이야? 빨리 퇴각하자고.
 
-	没有红茶吗？
 	ねえ、紅茶ない？
 	Say, do you have any tea?
 	저기, 홍차 없어?
 
-	有事？
 	何か用？
 	Is there something you need?
 	무슨 일이야?
 
-	我们在黑钢时的事，想了解了解吗？
 	BSWにいた時のこと、知りたい？
 	Want to hear about my time at BSW?
 	블랙스틸 시절 이야기를 듣고 싶어?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，早安。
 	ドクター、おはよう～。
 	Gooood morning, Doctor!
 	박사, 좋은 아침~
+
+干员档案\Background:
+	基础档案 :
+	【代号】芙兰卡
+	【性别】女
+	【战斗经验】三年
+	【出身地】哥伦比亚
+	【生日】10月30日
+	【种族】沃尔珀
+	【身高】163cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】フランカ
+	【性別】女
+	【戦闘経験】三年
+	【出身地】クルビア
+	【誕生日】10月30日
+	【種族】ヴァルポ
+	【身長】163cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Franka 
+	[Gender] Female 
+	[Combat Experience] 3 years 
+	[Place of Birth] Columbia 
+	[Date of Birth] Oct. 30 
+	[Race] Vulpo 
+	[Height] 163cm 
+	[Infection Status] 
+	Showed physical signs of Originium, infection confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 프란카
+	[성별] 여
+	[전투 경험] 3년
+	[출신지] 컬럼비아
+	[생일] 10월 30일
+	[종족] 불포
+	[신장] 163cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정이 분포되여 있으며 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】标准 
+	【生理耐受】标准 
+	【战术规划】优良 
+	【战斗技巧】优良 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	芙兰卡，黑钢国际生化防护相应人员安全保障专员，在行动护卫、战术突击、战术协同方面拥有丰富经验与强悍战力。 
+	现于罗德岛接受矿石病治疗，并作为黑钢行动干员为罗德岛提供专业安保服务。
+
+	個人履歴 :
+	フランカは、BSW生体防護処置班員兼安全保障員で、行動護衛、戦術突撃、戦術協力などの分野において豊富な経験と強い戦闘力を持っている。
+	現在ロドスで鉱石病の治療を受けているほか、BSWからの駐在オペレーターとしてロドスにセキュリティーサービスを提供している。
+
+	Profile :
+	Franka, biohazard protection and response specialist for Blacksteel Worldwide, is very experienced and proficient in VIP protection, raid, and combat support operations. 
+	She is currently undergoing treatment for Oripathy at Rhodes Island and providing professional security as a Blacksteel Operator.
+
+	프로필 :
+	    블랙스틸 생화학방호대응 담당 겸 안전보장 전문가. 호위 작전, 전술 돌격, 전술 협조 등 다방면으로 풍부한 경험과 막강한 실력을 자랑한다. 현재는 로도스 아일랜드에서 광석병 치료를 받으며, 로도스 아일랜드에 시큐리티 서비스를 제공하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】9% 
+	干员芙兰卡矿石病病灶位于体内。 
+	
+	【血液源石结晶密度】0.34u/L
+	感染步入中期，目前无扩散倾向，病症进程较为稳定。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】9%
+	体内に病巣有り。
+	
+	【血液中源石密度】0.34u/L
+	感染は中期にあるが、拡散傾向もなく病状は安定している。
+
+	Clinical Analysis :
+	Imaging test for this Operator showed blurry outline of internal organs with visible unusual dark spots. Unusually high concentration of Originium particles were present in her circulation, indicating signs of infection and confirming her as infected at this stage. 
+	
+	[Cell-Originium Assimilation] 9% 
+	Operator Franka showed conspicuous symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.34u/L 
+	Infection approaching mid-stage but currently not spreading, condition stable.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨. 
+	
+	[체세포와 오리지늄 융합률] 9%\오퍼레이터 프란카의 광석병 병소는 체내에 위치.
+	
+	[혈중 오리지늄 결정 밀도] 0.34u/L
+	감염 정도가 중기에 진입, 현재 확산되는 경향은 보이지 않음, 병세가 비교적 안정적.
+
+———————————————————————————————
+
+	档案资料一 :
+	黑钢全称“黑钢国际（Blacksteel Worldwide）”，核心业务为提供私人安全顾问与防务承包相关的服务。黑钢总部设立于哥伦比亚。随着哥伦比亚对外事务的影响力与日俱增，黑钢国际也迎来了业务发展的黄金期。 
+	为应对矿石病引发的感染者危机，黑钢国际特别设立了矿石病疫情处理专项工作人员——通称“生化防护相应人员（B.P.R.S）”。干员芙兰卡于该机构中担任行动干员，在生化部门行动时提供安全保障，防范意外。 
+	与大多数作风严谨甚至达到苛刻程度的黑钢国际专员不同，芙兰卡性格略显轻浮，作风较为激进，以戏耍他人为乐——无论面对的是敌人还是自己的同伴。 
+	无论面对何种情况，芙兰卡都能保持着不慌不忙的态度，并有意诱使他人相信自己精心设计好的语言。 
+	不过，作为专业行动干员的芙兰卡在提交个人资料与过往履历时，依然提供了较为可信的版本，并提供了正规的行动协助合同与自愿接受治疗的数项合约。基于这点判断，对干员芙兰卡可以给与相当的信任。 
+
+	第一資料 :
+	BSW、全称「ブラックスチール・ワールドワイド」。その主な業務内容は、個人にセキュリティーと軍需品に関するサービスを提供することである。クルビアに本社があるBSWは、クルビアの対外事業の発展に伴い、業務が非常に活発になっている。
+	鉱石病による感染者危機を防ぐため、BSWは鉱石病を対処する特別スタッフ、通称「生体防護処置班員（B.P.R.S）」を設置した。フランカはそこに勤めており、安全のため、班員たちの行動にセキュリティーサービスを提供している。
+	真面目で融通のきかないBSW職員たちに比べ、フランカはやや軽い性格。少々急進派的な考えの持ち主ではあるが、敵であろうと仲間であろうとよくイタズラをしかけたりしている。
+	どのような事態でも冷静沈着な彼女は、自分の言葉を他人に信じさせようとする。
+	しかし、オペレーターとして彼女が提出した個人プロフィールや履歴書やその他の行動協力契約、自らの意思で治療を受ける契約などの書類の信頼度は高く、それに基づき、フランカを信用していいという判断が下された。
+
+	Archive File 1 :
+	Blacksteel, aka. Blacksteel Worldwide, is a contractor whose core service is providing private security services. Headquartered in Columbia, Blacksteel is now riding a crest thanks to the growing business influence of Columbia. 
+	To combat the Originium infection crisis, Blacksteel set up a special unit known as the 'Biochemical Protection Response Staff' (BPRS). Operator Franka is a member of this unit tasked with guaranteeing the safety of all Bio Department operations. 
+	Unlike most Blacksteel specialists who are always serious to the point of being dour, Franka seems more light-hearted, progressive, and is even a bit of a prankster--her victims including both enemies and her own colleagues. 
+	No matter the situation she faces, Franka is able to keep calm and persuade others to trust in her calculated words. 
+	For a professional Operator, Franka submitted a relatively truthful personal profile and resume, as well as a standard cooperation agreement, voluntary treatment waiver, and other binding contracts. Based on that, Franka may be accorded the appropriate level of trust.
+
+	파일 자료 1 :
+	    블랙스틸의 풀네임은 '블랙스틸 월드와이드'로, 개인 보안 자문 및 경호와 관련된 서비스를 제공한다. 컬럼비아에 본사를 두고 있는 블랙스틸은 컬럼비아의 대외 영향력이 지속적으로 커짐에 따라, 블랙스틸 역시 비즈니스 확장의 황금기를 맞게 되었다.
+	    광석병이 일으킨 감염자 위기에 대응하기 위해 블랙스틸은 특별히 '생화학방호대응(BPRS)'라 불리는 광석병 전염 상황 파악을 전담하는 작업 인원을 배치하였는데, 오퍼레이터 프란카는 본 기구의 작전 오퍼레이터로서, 생화학 부서의 작전 시 안전 보장 및 예상치 못한 사고를 막아 주는 역할을 담당한다.
+	    작전 스타일이 매우 엄격하다 못해 가혹할 정도인 대다수의 블랙스틸 대원들에 비해 프란카의 성격은 비교적 부드러운 편이며, 적과 아군을 불문하고 사람 놀리는 걸 큰 낙으로 삼는 성격과는 달리 작전 스타일은 매우 저돌적인 편이다.
+	    프란카는 어떠한 상황에도 당황하지 않으며, 자신이 공을 들여 생각해낸 말을 남들이 믿게 하게끔 하려 한다. 그러나, 프로 오퍼레이터로서 프란카는 개인자료와 과거 이력을 제출할 때 비교적 믿을만한 자료들을 제출했고, 정식 작전 협력 계약서와 자발적 치료 접수 관련 협약서들도 함께 제출했다. 이런 점으로 미뤄보아, 오퍼레이터 프란카는 신뢰할 수 있을만한 인물임을 알 수 있다.
+
+———————————————————————————————
+
+	档案资料二 :
+	芙兰卡的战斗风格经常被认为是诡异且不可捉摸的，这与她的个人性格非常契合。比起怎样对敌人造成重创，她把重心更多地放在如何让自己看起来“无害”。 
+	芙兰卡的惯用武器是一柄迅捷剑以及一把短刺剑。以源石单晶打造的迅捷剑是芙兰卡最为常用的武器，配合芙兰卡自身的源石技艺，可在极短时间内产生剧烈放热效果（且剑身依旧保持固有形状），对抗装备金属装甲的目标往往可以起到奇效。敌人容易轻视她轻便的装备和纤细的武器，从而错判她的真实战斗力。
+	不过另一方面，芙兰卡惯常的贴身战斗亦会使自己身陷险境，虽然她的实力足以自己在陷入危机前结果敌人的性命。为了安全起见，B·P·R·S项目负责人依然安排干员雷蛇作为芙兰卡的搭档，性格稳妥而踏实的雷蛇与聪慧但激进的芙兰卡在战斗中确实可以形成良好的互补关系。
+
+	第二資料 :
+	フランカ自身の個性を生かした戦闘スタイルは、怪しくて掴み所がない。敵に大きなダメージを与えるより、いかに自分を無害に見せるかということに重点を置いている。
+	フランカの武器はレイピアと短剣。源石で作られたレイピアが最も使用している武器で、フランカ自身のアーツ能力と合わさり、剣の形を保ったまま短時間で激しい放熱効果を生み出し、金属装甲を装備する敵にも驚くほどのダメージを与える。敵は、彼女の軽装備と攻撃力がなさそうな武器という見た目で、戦闘力が無いのではと勘違いしてしまう。
+	しかし、フランカの実力ではピンチに陥る前に敵を倒せる余裕はあるが、接近戦は得意ではないので、念のため、B.P.R.Sの責任者はリスカムをフランカのパートナーとしてコンビを組ませた。真面目で堅実なリスカムと賢くて激進派のフランは戦闘中はお互いに補い合っている。
+
+	Archive File 2 :
+	Franka's combat style is often considered enigmatic and unpredictable, as befitting her peculiar personality. Rather than dealing the most damage, she focuses on making herself come off as 'harmless.' 
+	Franka's weapon of choice are a rapier and a dagger. She favors a rapier forged from Originium that, when combined with her own Originium Arts, absorbs a huge amount of heat (while still retaining its shape). It is especially effective against targets in heavy metal armor. It is very easy to overlook her light gear and weapons, leading to a gross underestimation of her combat prowess. 
+	On the other hand, the close-up melee style she prefers also can put her in peril. While she may be good enough to end the enemy before her life is threatened, to alleviate concerns, the head of the BPRS project teamed the smart but radical Franka with the level-headed Liskarm, making them a complementary duo in combat.
+
+	파일 자료 2 :
+	    프란카의 전투 스타일은 자주 사람들로 하여금 이상하고, 종잡을 수 없다고 생각하게 만드는데, 이는 그녀 본인의 성격과 관련이 있다. 어떻게 적에게 중상을 입힐 지 보다는, 어떻게 하면 자신이 '무해'한 사람으로 보일 수 있을지에 대해 더 고민한다.
+	    프란카의 주무기는 한 자루의 레이피어와 한 자루의 단검이다. 오리지늄 단결정으로 만들어진 레이피어는 프란카가 가장 자주 사용하는 무기며, 여기에 프란카 자신의 오리지늄 아츠를 결합해 매우 짧은 시간 내 강한 열 반응을 일으켜(검신은 원래의 모습을 유지), 금속 재질 아머를 장착한 상대를 매우 효과적으로 공격할 수 있다. 적은 그녀의 가벼운 무장 상태와 가느다란 무기를 보고 쉽게 그녀의 전투력을 낮게 평가해버리는 우를 범한다.
+	    이와는 반대로, 프란카가 자주 착용하는 몸에 붙는 전투복은 사실 자신을 위험하게 만들기도 한다. 물론 그녀의 실력이 자신이 위험에 처하기 전에 적을 처단할 수 있을 정도이긴 하지만, 안전을 위해 BPRS의 프로젝트 책임자는 오퍼레이터 리스캄을 프란카의 파트너로 파견하였다. 침착하고 신중한 성격의 리스캄, 총명하지만 충동적인 프란카, 이 둘은 서로의 부족한 점을 매워줄 수 있는 파트너가 될 것이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	通过黑钢提供的有限资料显示，干员芙兰卡于一次为B·P·R·S生化部门提供的护卫中感染矿石病（项目代号与行动过程均为保密资料）。黑钢通过其所掌握的情报联络到鲜为人知的罗德岛制药，安排芙兰卡进入罗德岛接受治疗。借此机会，黑钢国际亦达成了与罗德岛的数项合约。 
+	芙兰卡的到来填补了罗德岛在资深行动干员方面的一些空缺。而芙兰卡本人对罗德岛的崭新环境也颇为感兴趣。芙兰卡的专业素养使她以极快的速度融入了罗德岛，并成为作战行动中不可缺少的部分，而罗德岛的氛围也受到了芙兰卡风格的一定影响。 
+	仅举一例：在芙兰卡担任行动预备干员的剑术指导期间，她以极具哥伦比亚风格的“训练”方式，捉弄了每一位新进人员，但同时，芙兰卡亦将自己绝大部分的对于执行战术的理解与经验都慷慨地传授给了新进人员们。 
+	对于罗德岛的人们来说，芙兰卡留给他们的最大印象，除了她所展现的专业战术素养与独特的战斗风格外，与搭档干员雷蛇的日常冲突也为大家提供了许多茶余饭后的话题。
+
+	第三資料 :
+	BSWからの一部の資料によると、フランカはB.P.R.S生体部門へ護衛を担当していたときに鉱石病に感染（プロジェクトコードと具体的な経緯は機密）。BSWはその情報網でまだ世に知られていないロドスに連絡を取り、フランカをロドスに入らせて治療を受けることになった。同時に、BSWとロドスは何件か契約を結んだ。
+	フランカの着任によってロドスのベテランオペレーターの空きを埋めた。そして彼女自身も、ロドスの新しい環境に興味津々だったため、早くもロドスに溶け込み、作戦に欠かせない存在となった。ロドスの雰囲気も彼女の性格から影響を受けている。
+	例えば、フランカが行動予備オペレーターへの剣術指導を担当した際に、クルビア流の「訓練」方法で新人たちに刺激を与えた。また、自身の戦術への考えと経験も包み隠さず教えた。
+	ロドスの人たちが抱いたフランカの第一印象は、潜在的な高い戦術スキルと独特な戦闘スタイルを持っていることだ。また、相棒のリスカムとの日常のやり取りも、よくみんなの話題となっている。
+
+	Archive File 3 :
+	As shown in the limited files provided by Blacksteel, Operator Franka contracted Oripathy during an escort mission for the BPRS Department (project designation and actual operation are both classified). Blacksteel used newly acquired intel to contact the little-known Rhodes Island Pharmaceuticals and arranged on-site treatment for Franka, also seizing the opportunity to reach several agreements with the company.
+	Franka's arrival filled a gap in experienced Operators for Rhodes Island, and she shows great interest in her new surroundings in return. Her professionalism helped her integrate in no time, making her an essential part of combat missions. The mood on the island, in turn, has felt the impact of Franka's presence. 
+	For example, during her tenure as the swordfighting instructor for reserve Operators, she 'initiated' every newbie in 'Columbian style training', i.e., hazing. At the same time, she held almost nothing back in passing on her knowledge and experience to the rookies. 
+	To those on the island, their biggest impression of Franka, besides her professional combat instruction and unique combat style, is her regular clashing with her partner Liskarm.
+
+	파일 자료 3 :
+	    블랙스틸에서 제공한 일부 자료에는, 오퍼레이터 프란카가 이전에 BPRS 생화학 부서를 위해 호위 임무를 수행하던 중 광석병에 감염되었다고 나와있다. (프로젝트 코드 및 작전 과정은 기밀 자료) 블랙스틸은 자신들의 뛰어난 정보망을 활용해 사람들에게 거의 알려지지 않은 로도스 아일랜드 제약회사에 연락을 했고, 프란카가 로도스 아일랜드에서 치료를 받을 수 있도록 조치하였다. 그리고 이 기회를 빌어, 블랙스틸 월드와이드는 로도스 아일랜드와 다수의 협약을 체결하는데 성공하였다.
+	    프란카가 합류함으로써 로도스 아일랜드는 시니어 작전 오퍼레이터 부분의 부족함을 어느정도 해소할 수 있었으며, 프란카 본인도 로도스 아일랜드의 새로운 환경에 제법 관심을 보이고 있는 상황이다. 프란카의 전문 소양은 그녀가 매우 빠르게 로도스 아일랜드에 융화될 수 있도록 해주었고, 그녀를 작전 진행 중 꼭 필요한 존재로 만들어주었다.
+	    로도스 아일랜드 또한 프란카의 영향을 어느 정도 받게 되어 분위기가 변하게 되었는데, 한 가지만 예로 들자면, 프란카는 예비작전팀 오퍼레이터의 검술 지도를 담당하던 기간 중 '100% 컬럼비아식' 훈련 방식을 채용, 신입 오퍼레이터 한 명 한 명을 모두 놀려먹었지만, 자신의 전술 집행에 대한 이해와 경험 대부분을 아낌없이 신입 오퍼레이터들에게 전수해주었다.
+	    로도스 아일랜드 사람들에게는 그녀가 보여준 전문적 전술 소양과 독특한 전투 스타일도 깊은 인상을 남겼지만, 그녀의 파트너인 리스캄과의 일상적인 충돌 역시 많은 화제거리를 불러 일으켰다.
+
+———————————————————————————————
+
+	档案资料四 :
+	身为黑钢职员的芙兰卡与罗德岛所建立的关联，取决于黑钢国际与罗德岛之间合约的稳定性。虽然现在的芙兰卡看上去更像是一名罗德岛干员了，而且她本人也对此颇为享受。 
+	感染矿石病似乎并未影响芙兰卡本人的任何状态，她依旧保持着自己独有的步调，忙碌于繁忙的工作与作战，并不断在工作之间寻求着乐趣和刺激。
+
+	第四資料 :
+	BSWに所属するフランカとロドスの繋がりは、BSWとロドスの契約安定性に基づく。とはいえ、今のフランカはどちらかと言うとロドスのオペレーターのように見え、彼女自身もそれを楽しんでいる。
+	鉱石病に感染したことによる影響は特に受けていない様子で、彼女はいつものペースで仕事と作戦に取り組み、楽しさと刺激を追い求めている。
+
+	Archive File 4 :
+	The bond between Franka and Rhodes Island hinges solely on the agreements between Blacksteel and the company. She seems more and more like a Rhodes Island Operator each day now, though, and she is quite proud of that. 
+	Oripathy has not bothered Franka in any way so far. She still goes about life in her own unique way, busy with work and combat, while continuing to look for fun and excitement on the job.
+
+	파일 자료 4 :
+	    블랙스틸 소속 프란카가 로도스 아일랜드와 맺은 관계는, 블랙스틸과 로도스 아일랜드 간에 맺은 협약의 안정성을 좌우할 수 있다. 현재의 프란카는 마치 로도스 아일랜드 사람처럼 보이며, 그녀 역시 이 생활을 즐기고 있다. 광석병에 감염된 사실은 프란카 본인에게 어떠한 영향도 끼치지 않는 것 처럼 보인다. 그녀는 여전히 자신만의 스타일을 고수하고 있으며, 분주하게 업무 및 작전을 수행하고 있다. 또한 부단히 자신의 일 속에서 즐거움과 자극적인 요소를 찾고 있다.

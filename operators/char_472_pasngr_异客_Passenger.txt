@@ -1,0 +1,512 @@
+ID:
+	char_472_pasngr
+
+CV:
+	异客
+	パッセンジャー
+	Passenger
+	패신저
+
+干员代号\Name:
+	樱井孝宏
+	櫻井孝宏
+	Takahiro Sakurai
+	사쿠라이 타카히로
+
+招聘合同\Character Usage:
+	工程干员异客，将以雷霆手段惩罚敌手。
+	エンジニアオペレーター・パッセンジャー。雷霆の如く手腕で敵を罰する。
+	Engineering Operator Passenger, thunderous punisher of enemies.
+	엔지니어 오퍼레이터 패신저. 번개로 적을 징벌합니다.
+
+合同描述\Character Description:
+	他的各类自走兵器只有型号而没有名称，迭代的时候有点难分辨。
+	彼の各種自律兵器は全部モデル名だけで固有名称がなく、世代交代の際には見分けがつきにくい。
+	His various autonomous weapons bear only models with no names, and telling the difference when they're iterated is a little hard.
+	그가 보유 중인 자주식 무기는 모델 번호만 있고 이름은 없어, 뒤바뀌면 구분하기 어렵습니다.
+
+信物\Potential Item:
+	一枚古老的萨尔贡金币。经由漫长的命运之手反复摆弄，现在归你了。
+	一枚の古いサルゴン金貨。永らく運命の手に弄ばれてきた。今はあなたのものだ。
+	An ancient Sargon gold coin. Sent to and fro by the long hands of fate, it now belongs to you.
+	오래된 사르곤 금화. 오랫동안 운명의 손을 거쳐, 지금은 당신의 것이 되었다.
+
+天赋\Talents:
+	机理分析
+	メカニズムアナライズ
+	Mechanism Analysis
+	메커니즘 분석
+
+技能\Skills:
+	电能之触
+	エレキチェーン
+	Touch of Static
+	전기 에너지 접촉
+
+	聚焦指令
+	フォーカスオーダー
+	Focus Command
+	집중 명령
+
+	辉煌裂片
+	ルミナスフラグメンツ
+	Glorious Shards
+	찬란히 찢어진 조각
+
+语音\Voices:
+	あなた様のお役に立てるのは恐悦至極に存じます。
+	To be of assistance to you would be my great honor.
+	당신에게 도움이 되어 대단히 기쁘게 생각합니다.
+
+	私の額にある源石結晶ですが、よく装飾品だと誤解されるのですよ。おかげで感染者であることを誤魔化す手間が省けるのです。とはいえ、額が痛む時には自分の愚かさを骨身にしみて感じるのです。サルゴンを離れると言っても、私の道は一体どこにつながっているのでしょうね。
+	The Originium crystal on my forehead is oft regarded as an adornment. A very convenient mistake; it lets me save the effort of concealing my Infected status. That said, every time pain crosses my brow, I'm deeply struck by my own foolishness. To say I leave Sargon asks just where my path now leads.
+	제 이마에 있는 오리지늄 결정은 종종 장식품으로 오해를 받죠. 덕분에 감염자라는 걸 숨기는 수고를 던답니다. 하지만 이마가 아플 때는 제 어리석음을 뼈저리게 느끼죠. 사르곤을 떠난다고 해도 제 길은 도대체 어디로 이어져 있는 걸까요?
+
+	シェーシャくんはまだ年若いのですよ。ええ、私とて彼よりほんの少し年嵩であるだけです。それでも彼の我慢の仕方はいささか愚直にすぎますし、恨みの強さも足りない。もし彼が復讐心を燃やすために真実を知りたいというのなら、喜んで力になりましょう……ああ、ドクターがするなと仰るならば、決して出過ぎた真似は致しませんとも。
+	Sesa is still a young one. Yes, I am only a scant few years his senior. But his approach to patience is slightly ungainly, and his resentment not firm enough. If he wants for a drop of verity to set his passion for vengeance alight, I would be much willing to provide... Ah, should you forbid it, I would not act out of turn.
+	세사는 아직 어립니다. 네, 저도 그보다 나이가 조금 많을 뿐이죠. 그렇다 해도 그의 참는 방법은 다소 지나치게 우직하고, 원한의 강도도 부족합니다. 만약 그가 복수심을 불태우기 위해 진실을 알고 싶어 한다면, 기꺼이 힘이 되어 줄 겁니다. 아… 박사님께서 하지 말라 하신다면, 결코 지나친 행동은 하지 않겠습니다만.
+
+	私は闇市を恨んでいます。あそこにあるのは低劣でくだらない企みばかり。みな自分こそがもっとも練達なプレイヤーだと思い込んだまま悲惨な最期を迎えます。時には、少しばかり慎重に周到に行動するだけで、容易く人を死地に追い込むことができます――たとえパーディシャーが直々に任命した王族であろうとね。ふっ、ドクターはご興味がありますか？
+	I abhor the black market. Only lowly, vapid ruses circle it. People all believe themselves the most veteran players, yet all end dismally. At times, you need only think with some care, and you can send someone to their demise—even a padishah's very own appointed lord ameer. Hm, might you be curious?
+	저는 암시장을 원망하고 있습니다. 그곳에 있는 건 저열하고 형편없는 음모뿐이죠. 다들 자신이야말로 가장 능숙한 선수라고 착각한 채 비참한 최후를 맞이합니다. 가끔은 조금만 신중하고 면밀하게 행동하기만 해도 쉽게 남을 사지로 몰아넣을 수 있죠…… 설령 파디샤가 직접 임명한 왕족이라도 해도 말이죠. 훗, 박사님은 관심이 있으십니까?
+
+	あの火事のこと、ですか？私に落ち度があると仰るつもりでしょうか。ええ、反論は致しませんとも。けれど無辜の者は誰一人あの火事に巻き込まれていませんし、身に覚えがある者は誰一人生き残っていません。サルゴンの闇市で善人と呼ばれるのはたった一種類だけ。それは生き延びた者です。そして、私は生き延びたのですよ。
+	That great fire, then? Do you look to fault me? Quite, I would not challenge it. But not a single innocent came to suffer in that fire. Nor did a single perpetrator survive. In the black market of Sargon, the good have only ever come in one variety; they are the ones who live on. And I have lived on.
+	그 화재 말입니까? 제게 잘못이 있다고 말씀하고 싶으신 건가요? 네, 반론은 하지 않겠습니다. 하지만 무고한 자는 누구 하나 그 화재에 말려들지 않았고, 기억하는 자는 누구 하나 살아남지 않았습니다. 사르곤의 암시장에서 선한 자라고 불리는 것은 단 한 종류의 인간, 바로 살아남은 자죠. 그리고, 저는 살아남았습니다.
+
+	私とケルシー……医師は、確かに旧知の仲ですね。厳密に言えば、彼女は私の命の恩人でもあります。ですがご安心を、私はあなた様のものでございます。おや、それがお心がかりではなかったのですか？これはなんともまた不思議な。まさかあの「ケルシー」と共にいて、これほど無防備でいられるとは。
+	I and Kal'tsit... Dr. Kal'tsit, are indeed former acquaintances. To be precise, she was my rescuer and savior, but be at ease; I am yours now. Oh, was that not your concern? How remarkable, that as a coworker of our 'Kal'tsit,' you could yet be so unwary?
+	저와 켈시…… 의사는 분명 전부터 알고 지냈죠. 엄밀히 말하면 그녀는 제 생명의 은인이기도 합니다. 하지만 안심하시길, 저는 당신의 것입니다. 음? 그게 걱정되시는 게 아니었습니까? 그건 또 신기한 일이군요. 설마 그 '켈시'와 함께 있으면서도 이렇게나 무방비하실 줄이야.
+
+	「もしクルビアに戻ったら」、ここ数年そのような考えがなかったとは言いません。心の揺ればかりを誘う仮定でした。ドクター、どうか私が持てる限りを尽くせるようお取り計らいをお願い致します。あの穏やかな民間向け技術の数々が、もはや見知らぬもののように感じられるのならば、私はいっそ全てを捨てましょう。
+	'Were I to return to Columbia.' I cannot say I've never entertained the possibility in these years, but such supposition would only serve to shake me. Doctor, I hope you should use me to the utmost. If such mild civilian techniques have become a stranger to me, I would now much rather renounce them.
+	요 몇 년 동안 '만약 컬럼비아로 돌아간다면'과 같은 생각을 안 했다고는 말하지 않겠습니다. 마음의 동요만 불러일으키는 가정이었죠. 박사님, 부디 제가 가진 모든 힘을 쏟을 수 있도록 조처해 주시기 바랍니다. 그 온화한 여러 민간용 기술이 끝내 낯설게 느껴진다면, 저는 차라리 모든 것을 버리겠습니다.
+
+	エリオット？なぜその名を……ふっ、エリオット。両親を早くに亡くし、唯一に敬愛する恩師もサルゴンで失った人物です。信念をもって行っていた仕事すら、陰謀に使われる踏み台でしかなかった。彼は何もかも失い、今日に至る。エリオット・グラバーは、そんなただの滑稽な人生を示す名ですよ。
+	Elliot? How do you... Hm. Elliot. His parents gone before their time, his one beloved, esteemed teacher dead in Sargon, the work which bore his faith but a stepping stone in someone else's conspiracy. To this day, he is bereft of anything. Elliot Glover is merely a laughable life lived.
+	엘리엇? 그 이름을 왜…… 훗, 엘리엇. 부모님을 일찍 여의고 유일하게 경애하던 은사도 사르곤에서 잃은 인물입니다. 신념을 지니고 행했던 일조차 음모에 쓰일 발판에 불과했죠. 그는 모든 것을 잃고 오늘날에 이르렀습니다. 엘리엇 글로버는 그저 그런 우스운 인생을 지칭하는 이름이지요.
+
+	私の知る科学者で、生まれながらの指導者の器を持った方がいたのです。温厚で雅な性格で、頭脳もずば抜けていた。私は彼のことを兄のように慕っていました。けれど彼の末路は良いものではありませんでした。ええ、決して。ですのでドクター、どうか御身を大事になさってください。これでも私たちはそれなりに楽しい付き合いをしているのですから。
+	I know a scientist. Of a brightest star, an elegant gentleness, as if a born leader. I admire him, depend on him, regard him as my elder brother. But his end is not a good one, considerably not. So you must protect yourself well, Doctor. After all, we do get along quite pleasantly.
+	제가 아는 과학자 중에 지도자의 그릇을 타고난 분이 계셨습니다. 온후하고 우아한 성격에, 두뇌도 명석했죠. 저는 그를 형처럼 따랐습니다. 하지만 그의 말로는 좋지 않았죠. 네, 전혀요. 그러니 박사님, 부디 몸을 소중히 여겨주십시오. 이래 봬도 우리는 제법 즐겁게 지내고 있는 사이 아닙니까.
+
+	このように晴れやかな空を眺めるのはいつぶりでしょうか。
+	How long it has been—since such clear skies.
+	이렇게 맑은 하늘을 보는 게 얼마 만일까요?
+
+	あなた様のオペレーター、パッセンジャー。ドクター、あなた様と共に仕事ができる日を楽しみにしておりました。素敵な旅をしましょう。
+	Your Operator, Passenger. I have been looking forward to the day I work with you, Doctor; we will together enjoy this journey.
+	당신의 오퍼레이터, 패신저. 박사님, 당신과 함께 일하게 될 날을 기대하고 있었습니다. 멋진 여행을 즐기죠.
+
+	素晴らしい戦術です。あなた様の卓越した指揮あってのものでございますね。
+	Admirable tactics. I see great benefit is drawn from your command.
+	훌륭한 전술입니다. 당신의 탁월한 지휘 덕분이겠죠.
+
+	ロドスとあなた様のために、より完璧な仕事をお届けすることをお約束いたします。ご安心ください。沁礁闇市の「サンドソルジャー」はまだ他に切り札を隠しておりますので。
+	I shall, for you and Rhodes Island both, offer ever more perfected service. I invite you to trust me, that the Reefsteep Black Market's 'Sand Soldier' still hides further means.
+	로도스 아일랜드와 당신을 위해 더 완벽하게 일하겠다고 약속하겠습니다. 안심하세요. 리프스팁 암시장의 '샌드솔저'는 아직 비장의 패를 숨기고 있으니까요.
+
+	私のこの滑稽なコードネームから、あなた様が何か感じ取ってくだされば良いのですが――ドクター、他人を信じる必要はありません。あなた様はお一人で何もかもやり遂げられるはずですから。ほう、どうやら異なる見解をお持ちのようですね。ならば、全ては仰せのままに。
+	I truly hope that my amusing Operator codename may be able to remind you—Doctor, there is no need to trust others, and you are capable of doing everything yourself. Oh? It seems you have other views. I shall duly accede, then.
+	저의 이 우스꽝스러운 코드네임에서 당신이 뭔가를 느꼈으면 좋겠습니다만…… 박사님, 타인을 믿을 필요는 없습니다. 당신은 혼자 뭐든 해낼 수 있을 테니까요. 오호, 아무래도 다른 견해를 가지고 계신 모양이군요. 그렇다면 모두 분부대로 하겠습니다.
+
+	真に優れた戦争兵器がどのようなものなのか、私がご覧に入れましょう。
+	Allow me to show you how a true exceptional weapon of war may perform.
+	진정 뛰어난 전쟁 병기가 어떤 것인지 제가 보여 드리죠.
+
+	謀略も策も私の得意とするところですよ。無論、ご自分の考えがあるとすれば話は別ですが。
+	I am quite familiar with strategy and planning. Of course, it is contingent, should you have other notions of your own.
+	모략도 책략도 제 특기입니다. 물론 따로 생각이 있으시다면 이야기는 다르겠지만.
+
+	出ましょうか。
+	Let us depart.
+	가 볼까요?
+
+	さてさて、我々の布陣を完璧に致しましょう。
+	Now then, we have everything in place.
+	자, 우리의 포진을 완벽하게 만들도록 하죠.
+
+	なんなりとお申し付けを。
+	I heed your command.
+	뭐든 말씀하십시오.
+
+	仰せのままに。
+	As you wish.
+	분부대로.
+
+	お望みであれば。
+	Should this be your intent...
+	바라신다면.
+
+	準備はできております。
+	I am prepared.
+	준비는 끝났습니다.
+
+	行きなさい。
+	Now go.
+	가십시오.
+
+	罰を与えてやりなさい。
+	Now punish these people.
+	벌을 내리십시오.
+
+	あなた様のお望みのままに。
+	All as you desire.
+	당신이 원하시는 대로.
+
+	塵ひとつ残さず消えてしまいなさい。
+	Now begone with no trace.
+	먼지 하나 남기지 않고 사라지십시오.
+
+	お許しください。この低劣な兵器たちはどうやら辛うじて任務を処理しただけのようです。もしあなた様がさらに……極端な手段をとって良いと仰るのであれば、我々はもっと楽になれたのかもしれません。
+	You must pardon me; it seems my lowly weapons have barely served to accomplish this mission. Should you assent to my adopting more... extreme methods, we may thus have an easier time.
+	용서하십시오. 이 저열한 병기들은 아무래도 간신히 임무를 처리했을 뿐인 것 같습니다. 만약 당신께서 더… 극단적인 수단을 허락하셨다면, 우리는 더 편했을지도 모릅니다.
+
+	雷撃も罰の一種に過ぎません。彼らは自分の行いの代償を支払っているのですから、それで良かったと思いませんか？
+	Thunder and lightning are but a form of punishment, and they have paid the price for their ill deeds. How good it is, do you not think?
+	뇌격도 벌의 일종일 뿐입니다. 그들은 자신의 행동에 따른 대가를 치르고 있으니, 그걸로 됐다고 생각하지 않으십니까?
+
+	この視界から罪ある者が五体満足で逃れることなど許容できません。ドクター、どうか処理に向かうご許可を。
+	I cannot permit the punished to leave my sight in peace. Doctor, I plead you permit me to perform this aftercare.
+	이 시야에서 죄 있는 자들이 사지 멀쩡히 도망치는 것은 허용할 수 없습니다. 박사님, 부디 처리할 수 있도록 허가를……
+
+	甘美とは言えない失敗ですね。ですがドクター、ご安心ください。あなた様の手から勝利を掠め取っていった輩には、私が骨の髄まで後悔をすり込んで差し上げます。
+	It is not a sweet loss, Doctor, but have peace of mind. Those who have snatched away victory from your hands—will be privileged to enjoy suffering in full.
+	감미롭다고는 할 수 없는 실패군요. 하지만 박사님, 안심하십시오. 당신의 손에서 승리를 가로챈 자들에게는 제가 뼛속까지 후회를 새겨넣어 드리겠습니다.
+
+	なんと魅力的な艦船でしょうか。ドクター、サルゴンはついぞ私にこのような待遇を与えたことはありませんよ。
+	It is a captivating landship, Doctor. Sargon has never accorded me such treatment.
+	정말 매력적인 함선이로군요. 박사님, 사르곤은 여태까지, 제게 이런 대우를 해 준 적이 없었답니다.
+
+	おや、どうなされました？
+	Oh. Might something be the matter?
+	이런, 무슨 일이시죠?
+
+	ドクター、コーヒーを召し上がりませんか？私がこの手で植えた豆なのですよ。サルゴンでは唯一の気晴らしでしたのでね。
+	Doctor, are you soon to take coffee? These are my own hand-tended coffee beans—it was my singular recreation in Sargon.
+	박사님, 커피를 드시겠습니까? 제가 제 손으로 직접 심은 원두입니다. 사르곤에서는 유일한 기분 전환 거리였죠.
+
+	アークナイツ。
+	Arknights.
+	아크나이츠.
+
+	ごきげんよう、ドクター。
+	My greetings, Doctor.
+	안녕하십니까, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】异客
+	【性别】男
+	【战斗经验】十六年
+	【出身地】哥伦比亚
+	【生日】9月1日
+	【种族】黎博利
+	【身高】187cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】パッセンジャー
+	【性別】男
+	【戦闘経験】十六年
+	【出身地】クルビア
+	【誕生日】9月1日
+	【種族】リーベリ
+	【身長】187cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Passenger
+	[Gender] Male
+	[Combat Experience] 16 Years
+	[Place of Birth] Columbia
+	[Date of Birth] Sep 1
+	[Race] Liberi
+	[Height] 187cm
+	[Infection Status]
+	Originium crystals distributed across surface of body, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 패신저
+	[성별] 남
+	[전투 경험] 16년
+	[출신지] 컬럼비아
+	[생일] 9월 1일
+	[종족] 리베리
+	[신장] 187cm
+	[광석병 감염 상황]
+	 체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】标准
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Standard
+	[Physical Resilience] Standard
+	[Tactical Acumen] Excellent
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	哥伦比亚出身的干员异客，曾在十三岁时就以极其优异的成绩跳级毕业，随后被源石工程与应用学专家索恩教授相中提拔为研究助手，进入布莱恩创生科技的研究所学习。于近二十余年前随某项目深入萨尔贡，之后销声匿迹。之后以伊巴特地区黑市主要成员的身份与罗德岛接触，并在脱离黑市后，单纯以感染者身份来到罗德岛接受治疗，并以工程部干员的身份活跃在各项行动中。
+
+	個人履歴 :
+	クルビア出身のパッセンジャーは、幼い頃からすでに頭角を現しており、十三歳の頃に学校を極めて優秀な成績で飛び級して卒業すると、すぐに源石工学及び応用学の専門家であるソーン教授に見込まれ研究の助手に抜擢され、ブライアン創生科学研究所に入所して勉学に勤しんだ。二十数年前、彼はあるプロジェクトのためにサルゴンの奥地へと向かったが、それ以来消息を絶った。のちに、イバト地区の闇市の主な顔役の一人としてロドスに接触し、闇市から身を引いた後は一感染者として治療のためにロドスに訪れ、また現在はエンジニア部所属のオペレーターとして各任務で活躍している。
+
+	Profile :
+	Operator Passenger was born in Columbia. He graduated at age thirteen with exceptional marks, at which point he was recruited by Professor Thorne to work as a research assistant in his study of applied Originium engineering and began a course of study at the Blaine Formative Technologies Research Institute. A project took him to Sargon nearly twenty years ago, at which point he disappeared. Eventually, he came into contact with Rhodes Island, operating around the black market in the Ibut region. He arrived as an Infected seeking treatment, and has since been brought into active service as an operator for the Engineering Department.
+
+	프로필 :
+	    컬럼비아 출신의 오퍼레이터 패신저는 13살 무렵 매우 우수한 성적으로 학교를 월반 졸업 후, 오리지늄 엔지니어링 및 응용학 전문가인 쏜 교수의 연구 조수로 발탁되어 블레인 포머티브 과학기술연구소에 들어갔다. 그러나 20여 년 전 한 프로젝트를 따라 사르곤에 들어간 후 종적을 감추었다. 그 후 이버트 지역 암시장의 주요 멤버 신분으로 로도스 아일랜드와 접촉한 뒤 암시장과의 관계를 끊었고, 현재는 단순 감염자로서 로도스 아일랜드에서 치료를 받으며 엔지니어링부 오퍼레이터로 활약하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】7%
+	干员额头处有少量源石结晶分布，考虑到源石结晶出现的位置，实际感染情况可能比预想的更加严重。
+	
+	【血液源石结晶密度】0.29u/L
+	干员异客曾长期在恶劣环境下从事源石机械生产工作，并在疑似感染后丝毫没有采取必要的管理措施，其病症发展并不乐观。
+	
+	检查完啦，虽然至今尚未发现明显并发症反应，但绝不可以放松警惕。特别是源石结晶出现的额头位置，干员异客极有可能在某个时间点病情迅速恶化。为了预防可能出现的种种病症，希望他能积极配合治疗。——医疗干员
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果に異常があり、鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】7%
+	額に少量の源石結晶の分布が見られる。出現箇所から考えるに、実際の感染状況は予想より深刻であると考えられる。
+	
+	【血液中源石密度】0.29u/L
+	パッセンジャーは長期にわたって、過酷な環境下で源石機械の生産作業に従事していた。その上、感染が疑われた時期に必要とされる措置を一切行っていないため、病状の進行は楽観視できないものである。
+	
+	検査は終わったわ。現時点まだ明らかな合併症の症状は見られていないけど、絶対油断してはダメよ。特に額に源石結晶ができてしまったのだから、ある時を期に一気に病状が悪化してしまう可能性が高いの。発生する可能性がある様々な症状を防ぐためにも、ちゃんと治療に協力してもらいたいものね。――医療オペレーター
+
+	Clinical Analysis :
+	Imaging tests show the indistinct outlines of internal organs, obscured by abnormal shadows. Originium granules detected in the circulatory system. The subject is confirmed to be infected with Oripathy.
+	
+	[Cell-Originium Assimilation] 7%
+	The operator's forehead shows some crystal distribution. The actual infection may be more severe than expected due to the location of the Originium crystals.
+	
+	[Blood Originium-Crystal Density] 0.29u/L
+	Operator Passenger spent considerable time in a harsh environment working with Originium machinery without proper safety or infection response measures. The outlook of his disease is not optimistic.
+	
+	A thorough examination revealed no clear complications, but we're not out of the woods yet. That formation on the operator's forehead leaves me worried that Passenger's condition could suddenly and rapidly deteriorate at some point. I hope he'll actively cooperate with our course of treatment to prevent the worst from happening. —Medic Operator
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 7%
+	오퍼레이터 이마에 소량의 오리지늄 결정 분포, 오리지늄 결정이 나타난 위치를 고려해 볼 때 실질적인 감염 상황은 예상보다 심각할 수도 있음.
+	
+	[혈중 오리지늄 결정 밀도] 0.29u/L
+	오퍼레이터 패신저는 오랫동안 열악한 환경에서 오리지늄 기계 생산 업무에 종사했으며, 감염된 후에도 아무런 조치를 취하지 않은 것으로 보인다. 따라서 병세가 낙관적이지만은 않다.
+	
+	    검사는 끝났다. 지금은 비록 두드러지는 합병증이 보이지 않지만, 절대 방심해서는 안 된다. 특히 오리지늄 결정이 나타난 이마 부위가 문제인데, 언젠가 병세가 급속도로 악화될 가능성이 굉장히 높다. 그걸 방지하기 위해서라도 패신저가 치료에 적극 협조해주기를 바랄 뿐이다.——메딕 오퍼레이터
+
+———————————————————————————————
+
+	档案资料一 :
+	工程部对异客携带的各种自行机械进行了逆向工程，结果令人大开眼界。
+	出于各种客观因素，异客无法在萨尔贡获取到哥伦比亚实验室里提供的高新尖材料，采用的源石施术单元也极为原始。即使如此，异客依旧独立研发出了一套行之有效的机械结构，并依赖于其掌握的某项核心技术，成功实现了能量输出可观的多种自行兵器。
+	当问及其核心技术来源时，干员异客并没有避讳。其技术原型来自哥伦比亚的某个发掘实验，当地研究者认为这与萨卡兹古老的巫术有关，他们以一种罕见的法术形式为源石赋能，并在周遭发现了数枚残存的赋能源石结晶体。哥伦比亚相关研究所认为这将是一种全新能源的可能性，并对此展开研究。之后的事情，异客并没有过多透露。
+	不过值得额外留心的一点是，许多工程部干员都热衷于给自己的造物取名字，有的是倾注了个人情感，也有人是出于功能性考虑进行编号区分。但干员异客则对自己制造出的机械完全没有类似的想法——他使用那些机械的手段近乎浪费，仅一场模拟测试他就毫不犹豫地报废了数台自行机械。他就一点不感到心疼吗？
+
+	第一資料 :
+	エンジニア部はパッセンジャーが持ち込んだ各種の自律式機械に対し、リバースエンジニアリングを行った。その結果は目を見張るものだった。
+	種々の状況から、客観的にも容易に想像がつく通り、サルゴンでパッセンジャーがクルビアのラボに提供されるような最先端工学材料を入手することは不可能であった。したがって彼が用いるアーツユニットも非常に原始的なものである。それでも、パッセンジャーは有用な機械構造を独自開発し、彼が持つとある技術知識と合わせることによってかなりのエネルギー放出を可能とする自律式兵器の数々を生み出している。
+	核となるその技術の由来を尋ねられた際、パッセンジャーは特にはぐらかしたりはしなかった。当該技術の原型はクルビアの、ある発掘実験を源としており、現地の研究者はサルカズの古い巫術と関わりがあると見ている。彼らは風変わりなアーツ形式を用いて源石にエネルギーを注入するのだが、周囲でエネルギー注入済の源石結晶体をいくつか発見した。クルビアの関連研究所はそこに革新的なエネルギー源の可能性を見出し、研究を行っていた。その後の顛末に関して、パッセンジャーは多く語らなかった。
+	しかし注目すべきことがひとつある。多くのエンジニア部オペレーターは、自らが作り出した存在に名前を付けることに熱心である。個人的な感情を注いでいる者もいれば、機能性を考えて番号を振り当てる者もいる。しかし、パッセンジャーは自らが作り出した機械に対してそのような考えを全く抱くことがないようである――彼の機械の扱い方は浪費にも近い。たった一度の模擬テストにでさえ躊躇なく数台の自律式機械を使い潰した。勿体ないと感じることは欠片もないのだろうか？
+
+	Archive File 1 :
+	The Engineering Department reverse-engineered the various self-propelled machines Passenger brought with him, to eye-opening results. 
+	For several reasons, Passenger was unable to get the cutting-edge Columbian lab materials he needed in Sargon, so his Arts Unit is extremely primitive. Even so, he was still able to independently develop an effective mechanical device, realizing a variety of self-propelled weapons with impressive energy output.
+	When asked about his technology, Passenger does not shy away from the topic. It is a prototype from some experimental excavation in Columbia, which researchers believe has to do with ancient Sarkaz witchcraft. They appear to have used a rare form of Arts to enrich Originium, with several enriched crystals marking the perimeter. A Columbian institute involved in the project anticipated a breakthrough to a whole new energy source and went to work quickly. Passenger did not reveal what happened next. 
+	But it is worth noting that many engineering operators like to give names and other personifying features to their creations, while others distinguish them with numerical designations. But this operator does not so treat his machinery. His usage borders on the wasteful, scrapping them without hesitation after a single test. Does he have no heart?
+
+	파일 자료 1 :
+	    엔지니어링부가 패신저의 여러 자율 기계에 대해 진행한 리버스 엔지니어링은 결과적으로 그들의 견문을 크게 넓혀주었다.
+	    처한 상황 탓에 패신저는 컬럼비아 실험실에서 제공하는 첨단 재료를 사르곤에서는 구할 수 없었으며, 이 때문에 그가 사용한 오리지늄 아츠 유닛 또한 극히 원시적인 수준이었다. 그럼에도 불구하고 패신저는 독자적인 연구를 거듭해 보다 효과적인 기계 구조를 개발하였고, 그가 잘 알고 있는 핵심 기술을 사용해 뛰어난 에너지 출력을 보여주는 여러 자율 병기를 만드는 데 성공했다.
+	    그 핵심 기술의 출처에 대해 질문할 때에도 오퍼레이터 패신저는 대답을 꺼리지 않았다. 해당 기술의 원형은 컬럼비아의 발굴 실험에서 비롯된 것으로, 현지 연구자들은 그 기술이 살카즈의 오래된 주술과 관련이 있다고 믿었다. 살카즈인들은 희귀한 형식의 아츠를 이용하여 오리지늄에 엔리히를 진행했는데, 연구자들은 발굴지 주위에서 잔존한 엔리히 오리지늄 결정체 몇 개를 발견하기도 했다. 컬럼비아 연구소는 이 엔리히 오리지늄이 혁신적인 에너지원이 될 가능성이 있다 여기고 그것에 대해 연구하기 시작했으나, 패신저는 그 후의 일에 대해선 말해주지 않았다.
+	    많은 엔지니어링부의 오퍼레이터들은 자신이 만든 것에 개인적인 감정을 담아 이름을 붙이거나, 그 기능성을 고려해 번호를 매기기도 하는 반면, 오퍼레이터 패신저는 자신이 만든 기계에 대해 전혀 다른 가치관을 가지고 있다. 일개 시뮬레이션 테스트에서조차 주저 없이 여러 대의 자율 기계를 폐기 처분할 정도로, 낭비에 가깝게 자신의 기계를 소모한다는 점은 눈여겨 볼만한 부분이다. 그는 전혀 아깝지 않은 걸까?
+
+———————————————————————————————
+
+	档案资料二 :
+	干员异客在罗德岛的表现过于安分了。
+	当然，我没说这是不好的事情，这当然是好事！不如说有些干员反而太闹腾了！
+	但异客曾在萨尔贡被冠以“沙卒”之名，虽然明面上不过是一座小黑市的领头人——天知道萨尔贡有多少黑市——但他的手腕和财富确是实打实的，他能提供相当丰富稳定的供货渠道，能提供伊巴特地区几乎所有合法或不合法的雇佣兵、信使和商队的联络方式。
+	是啊，这当然是也是好事，但他差不多等于无偿提供给了罗德岛，无偿！你懂我意思吗？这也太令人不安了吧？
+	听工程部的干员说，他也不是什么狂热的机械爱好者，明明技术水准那么高......不仅如此，他对感染者这件事本身也不是很上心，好像也没有什么像样的兴趣。偶尔会把房间打理得一尘不染，整齐到让人怀疑他有洁癖，有时候又毫不顾忌地在房间里摆弄零件，弄得一地铁屑，让人完全摸不着头脑啊。
+	对了，他唯一起了名字的设备是那个载有特殊充能源石装置的无人机，名字叫“索恩”。
+	哦，说这么多，其实我就一个问题，可能有点失礼——
+	——他这个人还活着，到底还在乎什么？
+
+	第二資料 :
+	ロドスにいるパッセンジャーはあまりにもおとなしすぎる。
+	もちろん、それが悪いとは言わない。いいことに決まっている！むしろ一部のオペレーターが騒がしすぎるんだ！
+	しかし、パッセンジャーはかつてサルゴンで「サンドソルジャー」の名で呼ばれていた人物だ。言ってしまえばただの闇市の顔格に過ぎない――サルゴンの闇市は数え切れるようなものではない――が、彼の手腕も積み上げてきた財も実際にすごいものだ。豊富な物資を安定して供給するルートも、イバト地区の、合法非合法を問わないほぼ全ての傭兵、トランスポーターや商隊への連絡手段も提供できるような人物なのだ。
+	そう、もちろんこれもいいことだが、彼はそういったものをほとんど対価なしに、タダに近い状態でロドスに提供したのだ。タダ！この意味がわかるか？安心して受け入れられるわけないだろう？
+	エンジニア部のオペレーターによれば、彼は別にそこまで狂熱的な機械マニアというわけでもないらしい。あれほど腕がいいというのに……それだけではなく、自身が感染者であることにも頓着していないようだし、趣味もろくに持っていないそうだ。まれに潔癖症があるのかと言いたいくらい部屋を塵一つ残さず整理整頓することもあれば、そんなのどうでもいいと言わんばかりに部屋で部品を弄ってあちこち鉄くずを散らかすこともある。まったくもって意味がわからない。
+	そういえば、唯一彼が名前を付けたものがある――例の特殊なエネルギー充填源石装置を積んだドローン、「ソーン」という名前だそうだ。
+	ああ、これほどに多く語ってきたが、結局問いたいのは一つだけなんだ。失礼かもしれないが――
+	――彼には生きていくなかで、大切だと思うものがあるのだろうか？
+
+	Archive File 2 :
+	Operator Passenger's performance at Rhodes Island has been more than satisfactory. 
+	Naturally, this is a good thing! Some operators are known to make trouble!
+	But Passenger's history as the 'Sand Soldier' of Sargon, while seemingly only the leader of a little black market operation, of which there are many in Sargon, has proven quite valuable. He has the skills, as well as the wealth, and brought with him a stable source of supplies and mercenary, Messenger, and caravan contacts, legal and otherwise, in the Ibut region.
+	This too, is good. But he's provided this all essentially free of charge! Free! Do you know what that means? It's unsettling!
+	The engineering operators say he's nothing near a ferociously dedicated machinist, even with incredible technical skill... Not only that, but he has little interest in the plight of the Infected. His room is suspiciously immaculate, neat to the point that he may have some pathology. Likewise, he has a tendency to tinker with parts of the room, scattering metal shavings across the floor. Baffling. 
+	By the way, the only device he ever named was a special energy charging device he calls 'Thorne.' 
+	Oh, I'm babbling on again, forgive me for this potentially rude question... 
+	What is it this man cares for? What does he live for?
+
+	파일 자료 2 :
+	    오퍼레이터 패신저는 로도스 아일랜드에서 지나치게 조용히 지내고 있다.
+	    물론 이게 나쁘다는 말은 아니다. 아니, 오히려 좋은 일이다! 지나치게 시끄러운 몇몇 오퍼레이터들과 비교하면!
+	    하지만 패신저는 사르곤에서 '샌드솔저'라고 불리는 인물이었고, 비록 사르곤에 얼마나 많은 암시장이 있는지는 아무도 모르지만 적어도 표면적이나마 작은 암시장의 리더였던 그의 수완과 재산은 확실히 진짜다. 패신저는 풍부하고 안정적인 공급 루트와, 이버트 지역의 합법과 불법을 포함한 모든 용병, 정보 전달자, 상단의 연락 방식마저 제공할 수 있다.
+	    물론 이것 또한 좋은 일이다. 하지만 패신저는 이런 걸 거의 무상으로 로도스 아일랜드에 제공하고 있다, 공짜로! 무슨 말인지 이해되는가? 이거 너무 불안하지 않은가?
+	    엔지니어링부 오퍼레이터의 말에 의하면, 그렇게 대단한 기술을 갖고 있는데도 패신저는 열광적인 기계 애호가까진 아니다…… 그뿐만 아니라 본인이 감염자라는 사실에조차 별로 신경 쓰지 않는다. 아무래도 그것에 대해 이렇다 할 흥미가 없어서 그런 것 같다. 어느 때는 다른 사람으로 하여금 결벽증을 의심하게 할 만큼 먼지 한 톨 없이 방을 청소할 때도 있고, 어느 때는 전혀 개의치 않고 부품을 만지작거리며 온 방을 쇠부스러기 투성이로 만들기도 하는데 도저히 종잡을 수 없는 사람이다.
+	    패신저가 유일하게 이름을 붙인 기계가 있는데 바로 특수 에너지 충전 오리지늄을 탑재한 드론인 '쏜'이다.
+	    말은 참 많이 했는데 사실 궁금한 것은 이 하나뿐이다. 조금 실례일지도 모르지만……
+	    ……패신저는 분명 살아있는데, 대체 신경 쓰이는 게 있기는 한 걸까?
+
+———————————————————————————————
+
+	档案资料三 :
+	异客。
+	仿佛讽刺般给自己取下这个名字，但事实上，连他自己都搞不清楚自己的“家乡”在哪里。
+	其本人大方承认了数起发生在萨尔贡的惊世骇俗的谋杀案与其有所牵连，在萨尔贡卧薪尝胆二十余年，也只为了复仇这一个简单的目的。
+	诚然，复仇是很多人的原动机，这并不稀奇。但为了达成这一目的，出身哥伦比亚，仅仅是个年轻研究助手的艾利奥特花了整整二十年时间，让自己变成了一个萨尔贡人。他在伊巴特地区拥有相当的人脉，财富，权力。黑市的特殊性质使得许多本地贵族与境外商人都与他密切来往——而在达成复仇目的之后，这一切，他花了二十几年建立起的这一切，都被他简简单单地抛弃了。
+	一个在萨尔贡从学徒做起，隐忍无数，最后风生水起的黑市主人，轻描淡写地放弃了一切。他完全可以在复仇结束之后，在伊巴特享受着堪比王酋的生活。这令部分人事部干员十分担忧，担忧这样的艾利奥特改名换姓来到罗德岛，是否别有企图。
+	当我们试图试探这点时，艾利奥特，干员异客本人轻易点破了我们的疑虑，那时他正缓缓盯着手里的黑咖啡，沉默片刻后给出了答案。
+	“我痛恨萨尔贡的黄沙和那里的一切，一直都是。”
+
+	第三資料 :
+	パッセンジャー。
+	揶揄するにこの名を自身に宛てがった彼は、しかしその実自身の「故郷」が一体どこなのかさえ知らずにいる。
+	本人は、二十数年にわたるサルゴンでの蟄伏が、全ては復讐という単純な目的のためであったことも、サルゴンで発生し、世間を戦慄させた謀殺事件が自身と関係していることも潔く認めた。
+	確かに、復讐というものは多くの者にとって原動力になりうる。しかしそれを実現するために、クルビア出身の何の変哲もない若い研究助手だったエリオットは、二十年の時をかけてサルゴン人になりきった。イバト地区において、彼は相当の人脈、財産と権力を手にした。闇市という場の特殊性から、多くの地元の貴族と境外の商人が彼と密接な関係を保っていた――しかし復讐という目的を遂げた後、それら全てを、自身が二十数年をかけて築き上げたそれら全てを、彼はいとも簡単に捨て去ってしまったのである。
+	サルゴンで最下層の見習いから下積みをし、何もかもを耐え切ってようやく頂点へと至った闇市の主は、一切の執着を見せず何もかも放棄した。復讐を終えた彼はそのまま、イバトにおいて王族のような生活を享受することさえ可能だったというのに。そんなエリオットが名を変えてロドスに加入したことは、実は何か企みがあるのではないかと一部の人事部オペレーターから危惧されている。
+	それとなく真意を探ろうとした我々に対し、エリオット、つまりパッセンジャー本人は容易く我々の目論見を見破って、手にしたブラックコーヒーに視線を落とし、しばしの沈黙の後に答えた。
+	「……私はサルゴンが憎い。砂の一粒まで憎んでいるのです、ずっと。」
+
+	Archive File 3 :
+	Passenger.
+	It's almost a parody of a name one might give oneself. But the truth is it, he does not know where he is going, he is just along for the ride.
+	He has openly admitted his involvement in several horrific murders in Sargon, having spent twenty years there on a quest for revenge.
+	Granted, revenge is not a particularly rare motivation. But this Elliot, a young research assistant of Columbian origin, spent decades transforming himself into a man of Sargon. He has cultivated contacts, wealth, and power in the Ibut region. His unique black market brought local nobles and foreign businessmen alike into his orbit. And after getting his revenge, all that he built over twenty years, he simply discarded.
+	A black marketeer, starting as a lowly assistant, rose to prominence, and gave it all up in an instant. He could have lived like the Lord Ameer of Ibut after getting his revenge. This has some in HR worried about Elliot's intentions after changing his name and coming to Rhodes Island.
+	When pressed on this point, Elliot, Operator Passenger himself, shot a hole through our doubts. He stared at the black coffee in his hand for a moment before giving his answer: 
+	'I hate Sargon. I hate the sand. I hate everything about it. And I always have.'
+
+	파일 자료 3 :
+	    '패신저'.
+	    마치 비꼬는 것처럼 자신에게 '패신저'라는 코드네임을 붙인 그지만, 실제로는 패신저 자신도 자신의 '고향'이 어디에 있는지 정확히 모른다.
+	    단지 본인은 오직 복수라는 목표를 위해 사르곤에서 20여 년간 와신상담했으며, 사르곤에서 몇 차례 일어났던 세상을 놀라게 한 살인 사건과도 연관이 있다고 시원하게 시인했다.
+	    물론 복수는 많은 사람들이 살아가는 원동력이기도 하고 이는 그다지 드문 일이 아니다. 하지만 그 목표를 달성하기 위해, 컬럼비아 출신의 젊은 연구 조수에 불과한 엘리엇은 20년이라는 긴 시간을 고스란히 바쳐야 했으며, 자신을 사르곤인으로 변화시켰다. 암시장의 특수성은 수많은 현지 귀족과 타지 상인들로 하여금 패신저와 밀접한 관계를 갖게 만들었고, 이 덕분에 그는 이버트 지역에서 상당한 인맥과 재산, 권력을 가질 수 있었다. 그러나 복수를 마친 후에, 패신저는 자신이 20여 년간 쌓아올린 그 모든 것을 가볍게 포기해 버렸다.
+	    사르곤에서 견습생으로 시작해 수많은 인고 끝에 굴지의 암시장 주인이 되었음에도 그 모든 것을 쉽게 포기한 것이다. 패신저는 복수를 마친 후 이버트에서 아미르에 비견될만한 삶을 살 수도 있었다. 그런 엘리엇이 이름마저 바꾸고 로도스 아일랜드에 왔으니, 로도스 아일랜드의 일부 인사부 오퍼레이터들은 혹여나 거기에 다른 의도가 있는 게 아니냐는 심각한 걱정거리를 안게 되었다.
+	    우리가 그 점에 대해 떠보자, 들고 있던 블랙커피를 바라보며 잠시 침묵하던 엘리엇, 오퍼레이터 패신저는 곧 그에 대한 답을 내놓음으로써 간단히 우리의 의혹을 해소시켜 주었다.
+	    “저는 사르곤의 모래바람과 그곳에 있는 모든 것이 원망스럽습니다. 줄곧 그랬습니다.”
+
+———————————————————————————————
+
+	档案资料四 :
+	博士，凯尔希，慑砂。
+	似乎在干员异客抵达罗德岛之后，只有这三个人能提起他的兴趣。
+	诚然，他礼貌待人，工作一丝不苟。但在他完成那些工程部指标，或是经历了险恶的任务凯旋归来的时候，他的眼里都没有半点情绪波动。
+	他对自己的秘密毫不藏私，除了最关键的部分，任何人只要问起他，他就能像备好腹稿似的用简练的语句描述他的经历与当下的状况。并不是每个人都能以这种态度面对过去。在那场火灾杀死了他最后一个复仇对象之后，他解脱了，但他把人生中最黄金的岁月全部奉献给了他的复仇事业，等他从萨尔贡的黄沙中脱身之后，他还能做些什么？
+	异客曾说，凯尔希医生是他的救命恩人。在他说这话的时候，我可从没能从他那标志性的微笑里看出哪怕一丝一毫的感激。但他的确在某些层面十分信任凯尔希医生，关于二人如何在萨尔贡相遇，异客坚持，如果凯尔希不多谈一字，他也绝不会透露任何关于她本人的信息。
+	至于慑砂——异客对于慑砂的关注十分危险。只有包括博士在内的极少数人知道慑砂在调查哥伦比亚某个军工企业的事实。而不幸的是，慑砂“未能进行的复仇”十分契合异客投以关注的全部要素，他甚至热衷于帮助慑砂拼凑真相，并暗示其真相的种种可能。若非受到罗德岛干员身份的限制，我们无法想象，慑砂与异客是否真的有可能对那家军工企业实施实质性的报复。
+	而异客至今仍没有任何过激举措的重要原因则在于博士。无论异客对博士抱有怎样的感情，他仅对博士展露出了兴趣，也对博士参与的各项行动表露出了更高的积极性。也许，他出于某种角度把如今自己奇怪的生活状态与博士进行了重叠，又或者，他只是觉得有个人给自己发号施令，指引方向会是一件轻松些的事情。无论如何，我们都要更谨慎地观察他。
+	如他所说，他离开哥伦比亚，离开萨尔贡，如今身在罗德岛。于这片大地之上，他无论身在何处，皆是异乡异客——只是局外人罢了。
+
+	第四資料 :
+	ドクター。ケルシー。シェーシャ。
+	パッセンジャーがロドスについてからの動向を見ると、彼が興味を持つのはこの三人のみのようである。
+	彼は確かに礼儀正しく、仕事において妥協もしない。しかしエンジニア部の目標を達成した時も、危険な任務を遂行して凱旋した時も、その瞳には欠片も感情の揺れが見られない。
+	彼は自分のことをほとんど隠しない。一番に核心的な部分以外であれば、誰だろうと尋ねられれば事前に原稿を用意したかのように簡潔に自身の経歴と現状を述べる。誰も彼もが自らの過去に対してそのような態度で向き合えるわけではない。かの火災で最後の復讐相手を葬って以来、パッセンジャーは解放された。しかし、人生において一番輝いていたはずの歳月を、彼は全て復讐に捧げたのである。サルゴンの砂の海から抜け出した彼に残されたものはあるのだろうか？
+	パッセンジャーは、ケルシー先生は自身の命の恩人であると言っていた。その言葉を口にする時に、彼の象徴とも言えるその笑みからは、欠片も感激の意は見当たらなかった。しかし彼はある部分では確かにケルシー先生を信じている。二人がどういう形でサルゴンで出会ったのかに関しては、ケルシーが一文字も語らないというのなら、パッセンジャーもまたケルシー本人に対する情報を何一つ洩らさないというスタイルを貫いている。
+	一方、シェーシャに対しては――パッセンジャーのシェーシャへの関心は非常に危険なものである。シェーシャがクルビアのとある軍事工業企業について調べているということは、ドクターを含めて極わずかな者にしか知りえない情報である。不幸なことに、シェーシャの「未だ果たせぬ復讐」はパッセンジャーの関心を引く全ての要素を揃えてしまっている。彼はシェーシャが真相を解き明かすことができるように熱心に手伝っており、可能性のある様々な答えを示唆している。ロドスオペレーターという身分の制限がなければ、シェーシャとパッセンジャーはもしや本当に例の軍事工業企業に対して報復していたのではないかと、想像するだけでおぞましい。
+	パッセンジャーが今まで何一つ過激な手段に走らなかった重要な原因はドクターである。ドクターに対して抱いている感情がどのようなものであろうと、彼はドクターに対してだけ興味を顕にしており、ドクターが参加する各種任務に対してもより積極的に関わる意欲を見せている。彼の視点からは自身の今の奇怪な生活状態をドクターと重ねたのか、あるいは、単純に誰かが自分に命令を下し、方向を示してくれていることが心地よいと感じているのか。いずれにしても、より慎重に彼を観察しなければならない。
+	彼が言うように、クルビアを離れ、サルゴンを離れ、今ロドスに身を置く彼は、この大地のどこにいようとも、異郷の客――ただの通りすがりの部外者に過ぎないのである。
+
+	Archive File 4 :
+	Doctor, Kal'tsit, Sesa.
+	Since his arrival at Rhodes Island, only these three individuals seem to have caught his attention.
+	Admittedly, he is polite and meticulous in his work. But after meeting a target from the Engineering Department or returning victorious from a mission, there is no emotional change in his eyes at all.
+	He does not keep secrets, except for the most crucial ones. He describes his experiences and current situation clearly and concisely to anyone who asks, as if he has the speech memorized. Not everyone can face his past with such an attitude. After the fire that brought his revenge to completion, he felt relief, but what was to come next? Where does he go after leaving behind the golden sands of Sargon?
+	Passenger once described Dr. Kal'tsit as his savior. Though I never saw a hint of gratitude in his trademark smile as he said it. He clearly trusts Dr. Kal'tsit on some level, and if Kal'tsit never said another word about how they met in Sargon, he would never share anything personal about her.
+	As for Sesa, Passenger is dangerously concerned with Sesa. Only a very few people, including the Doctor, know that Sesa is investigating a certain Columbian military contractor. Unfortunately, Sesa's 'incomplete revenge' fits all the elements of Passenger's attention. He is even eager to help Sesa piece together the truth. If it were not for the limitations placed on Rhodes Island Operators, it is hard to imagine what Sesa and Passenger might be able to exact on that Columbian corporation.
+	The main reason why Passenger has not acted more rashly thus far is the Doctor. No matter what his feelings toward the Doctor may be, his primary interest seems to be in actions and accomplishments. He may feel some kinship with the Doctor over their unique life experiences, or he may find comfort in having a commander to give him orders and direction. Either way, we will watch this development carefully.
+	As he said, he left Columbia, he left Sargon, and now he is at Rhodes Island. Wherever he is in the world, he is but a passenger—an outsider, along for the ride.
+
+	파일 자료 4 :
+	    박사와 켈시, 그리고 세사.
+	    로도스 아일랜드에 도착한 패신저는 오직 이 세 사람에게만 흥미를 보였다.
+	    물론 패신저는 예의 바른 사람이고, 일을 처리하는 데에 있어서 조금의 빈틈도 없다. 하지만 엔지니어링부에서 하달한 목표를 달성하거나 위험한 임무를 마치고 돌아왔을 때조차 패신저의 눈에선 감정의 기복이 전혀 느껴지지 않았다.
+	    패신저는 가장 중요한 부분을 제외한 자신의 비밀을 전혀 감추지 않는다. 누구든 그에게 묻기만 한다면, 마치 미리 준비라도 한 것처럼 간결한 말투로 자신의 과거와 당시 상황에 대해 들려준다. 물론 모든 사람이 그런 태도로 자신의 과거를 마주할 수는 없는 노릇이다. 그 화재 현장에서 마지막 복수의 대상을 죽인 후에 패신저는 자신을 옥죄던 굴레에서 벗어났다. 하지만 복수를 위해 인생의 가장 빛나는 시절을 바쳐야 했던 그가 사르곤의 모래바람에서 빠져나온 후에 과연 무얼 할 수 있을 것인가?
+	    패신저는 켈시가 자신을 구해준 은인이라 말했다. 그런데 패신저가 그 말을 할 당시, 나는 패신저의 트레이드 마크와 같은 미소 속에서 일말의 감사도 찾을 수 없었다. 그럼에도 불구하고 패신저는 확실히 어떤 면에선 켈시를 매우 신뢰하고 있는데, 두 사람이 어떻게 사르곤에서 만나게 되었는지에 대해서 켈시가 밝히지 않는 한, 그 역시도 켈시에 대한 이야기를 누구에게도 발설하지 않겠다는 태도를 고집하고 있다.
+	    패신저가 세사에게 관심을 갖는 것은 매우 위험한 일이다. 세사가 컬럼비아의 어느 군수 기업을 조사하고 있다는 사실은 박사를 포함한 내부의 극소수 인원만이 알고 있는 사실이다. 그러나 세사에게 '마치지 못한 복수'가 있다는 사실은 패신저의 관심을 끌기에 충분했고, 심지어 그는 세사가 진상을 규합하는 것을 도와주고 진상의 여러 가능성을 암시하기도 했다. 만약 로도스 아일랜드의 오퍼레이터라는 신분적인 제약이 없었다면 세사와 패신저가 정말 그 군수 기업에 복수를 할 수도 있지 않을까 하는 생각이 든다.
+	    패신저가 지금까지 과격한 행동을 하지 않은 중요한 원인은 박사에게 있다. 패신저가 박사에게 어떤 감정을 품고 있는지와는 별개로, 그는 겉으로 박사에게 흥미만을 내비칠 뿐이며, 박사가 참여하는 여러 활동에 대해선 평소보다 적극적인 모습을 보여주고 있다. 어쩌면 패신저는 어떤 관점에서 자신의 이상한 생활 태도와 박사를 겹쳐 보는 걸지도 모른다. 혹은 그저 누군가 자신에게 명령을 하고 지시 내리는 것을 받아들이는 편이 마음 편하다고 생각하거나. 어쨌든 간에 우리는 패신저를 보다 주의 깊게 관찰해야 한다.
+	    패신저가 말한 것처럼, 그는 컬럼비아를 떠났고, 사르곤을 떠나 지금은 로도스 아일랜드에서 살고 있지만, 이 땅의 어느 곳에 있든 그는 이방인…… 나그네일 뿐이니까.
+
+———————————————————————————————
+
+	晋升资料 :
+	我本来离死亡只有咫尺之遥，凯尔希给了我这个机会，老伊辛赐予了我这个能力，我对那些试图掌握我命运的人释以报复，我成功了，我以耗费了无数光阴和前途，我以毁掉命运的方式夺回了它主导权。
+	现在，我该和过去做个了断，可我接下来要做什么？去哪里？
+	博士，我希望你能替凯尔希告诉我。我的生命是否在矿石病的作用下所剩无几？我该如何高效地利用这零星时间，去找到让我死得其所的办法？
+	毕竟现在你是我的指挥官。
+	我听您的。
+
+	昇進資料 :
+	死を目前にする状況だったというのに、ケルシーさんから機会を、イシンさんから力をいただき、私の運命を掌握しようとした者たちへ復讐を仕掛けました。そして、私は成功しました。計り知れない時間と有り得たかもしれない未来を費やして、運命を壊滅させるという手段でもって主導権を奪い返しました。
+	そして今、私は過去と決着をつけなければなりません。しかしこの先はどうすればいいのでしょうか？どこへ向かえばいいのでしょうか？
+	ドクター、ケルシーさんに代わって教えていただきたい。私の命はすでに鉱石病によって残りわずかになっていませんか？残されたこのわずかな時間を、どのようにすれば効率的に使い、死すべき場所を見つけられるのでしょうか？
+	あなた様こそが今の私の指揮官ですので。
+	あなた様の仰せに従います。
+
+	Promotion File :
+	I was only a stone's throw from death. Kal'tsit gave me this opportunity, Old Isin gave me this power. I had my revenge on those who tried to control my destiny. I won. I spent countless hours and exhausted countless prospects. I took back control by annihilating fate.
+	Now, it is time for me to make my break with the past. But what do I do next? Where do I go?
+	Doctor, I hope you can tell me, on Kal'tsit's behalf. How much time do I have left before Oripathy takes me? How can I use this time to make my death mean something?
+	You are my commander now.
+	I am at your disposal.
+
+	승진 자료 :
+	    저는 원래 죽음과 가까운 거리에 있었습니다. 켈시 선생님이 제게 기회를 주었고, 이신 영감님이 제게 능력을 주었죠. 저는 저의 운명을 지배하려는 자들에게 복수했습니다. 대신 저는 무수한 시간과 저의 미래로 그 대가를 치렀고, 운명을 부수는 방식으로 그 주도권을 되찾아왔습니다.
+	    이제 저는 과거와 결별해야겠습니다만, 앞으로는 어디로 가서 무얼 해야 할까요?
+	박사님, 켈시 선생님을 대신해 제게 말해주시길 바랍니다. 광석병에 걸린 지금, 제 생명은 앞으로 얼마나 남았습니까? 어떻게 해야 얼마 남지 않은 시간을 효율적으로 사용해 가치 있게 죽을 수 있는 방법을 찾을 수 있는 겁니까?
+	    지금은 박사님이 저의 지휘관입니다.
+	    박사님의 말을 따르겠습니다.

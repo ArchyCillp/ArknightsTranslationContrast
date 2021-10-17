@@ -1,11 +1,17 @@
 ID:
 	char_166_skfire
 
-干员代号\Name:
+CV:
 	天火
 	スカイフレア
 	Skyfire
 	스카이파이어
+
+干员代号\Name:
+	植田佳奈
+	植田佳奈
+	Kana Ueda
+	우에다 카나
 
 招聘合同\Character Usage:
 	“王者之杖”所属干员天火，很乐意烧尽一切拦路的恶人。
@@ -43,177 +49,436 @@ ID:
 	메테오 플레임
 
 语音\Voices:
-	火灾警报器在响？失礼了，只是因为我经过了你的办公室而已。我的体温可能又过高了。
 	火災報知器が鳴った？あら失礼、わたくしは執務室の前を通っただけですのよ。体温がまた上がり過ぎていたのかもしれませんわ。
-	The fire alarm's blaring? Sorry, must be because I was passing by your office. It… it causes my body to heat up, you know…
+	The fire alarm's blaring? Sorry, must be because I was passing by your office. It... it causes my body to heat up, you know...
 	화재경보기가 울렸다고요? 전 집무실 앞을 지나갔을 뿐입니다. 체온이 또 너무 올라가 있던 걸지도 모르겠군요.
 
-	没有无法学会的语言，没有无法理解的法术，这是理所应当的吧？......嗯？只有我是特别的？
 	会得できない言語や理解できないアーツなど、この世に存在しません、当然でしょう？……え？わたくしが特別なだけ……？
-	There's no language that's impossible to learn, no Arts that are impossible to understand. Isn't that the truth, plain and simple? …What? I'm the exception to the rule, you say?
+	There's no language that's impossible to learn, no Arts that are impossible to understand. Isn't that the truth, plain and simple? ...What? I'm the exception to the rule, you say?
 	배우지 못할 언어나 이해할 수 없는 아츠 같은 건 이 세상에 존재하지 않습니다, 당연하잖아요? ……네? 제가 특별할 뿐이라고요……?
 
-	人生？那种东西——哼，直到上次袭击为止都还算符合预期。但在整合运动谋害菲尔之后，“消灭他们”已经是我日程表里最优先的事项了。
 	人生？そのようなもの——フンッ、襲撃を受けたあの日までは、全て予定通りでしたのよ。しかし、フィルが謀殺されてからは、「あの忌々しい奴らを消し去る」ことが、最優先事項としてわたくしのスケジュールに組み込まれましたわ。
-	My life plans? …Tch, it was all going swimmingly until that dreadful attack. But after Reunion murdered Phil, their eradication moved up to the top of my to-do list.
+	My life plans? ...Tch, it was all going swimmingly until that dreadful attack. But after Reunion murdered Phil, their eradication moved up to the top of my to-do list.
 	인생? 그런 건…… 흥, 습격을 당했던 그날까진, 전부 예상대로였죠. 하지만 필이 살해당하고 나서 부터는, '그 증오스러운 녀석들을 없애버리는 게' 제 스케줄에 최우선 사항으로 들어가게 되었답니다.
 
-	就凭罗德岛现在的软弱手段，只会拖我们“王者之杖”的后腿。
 	今のロドスの軟弱なやり方では、我ら「王の杖」の足を引っ張るだけですわ。
 	Rhodes Island's methods aren't nearly tough enough. They'll only drag King's Wand down.
 	지금 로도스 아일랜드의 연약한 방법으로는, 저희 '왕의 지팡이'의 발목을 잡을 뿐입니다.
 
-	你能劝一劝阿米娅吗？她那样还挺可怜的。善良只会蒙蔽她，对我来说......适合恶徒的只有毁灭一种结局。
 	貴方、アーミヤには何も話していませんの？それではあまりにも気の毒ですわ。優しさなど、ただ一時的に現実を覆い隠しているだけ……。悪徒が迎える結末は、結局、破滅しかありませんわ。
 	Can you talk to Amiya for me? Poor girl, her kind heart clouds her judgment. As far as I'm concerned, total annihilation is the only fitting end for an undesirable.
 	당신, 아미야에게 아무 말도 안 하고 있나요? 그건 너무 가엾네요. 친절함 같은 건 단지 일시적으로 현실을 덮어버릴 뿐…… 악당들이 맞이할 결말은 결국, 파멸밖에 없어요.
 
-	你现在的实力，根本达不到我们【王者之杖】的平均水平。呵，没错，我是很强，而我们五人汇聚起的力量，更是连语言都没法衡量。
 	貴方、この程度ではまだまだ我ら「王の杖」の足下にも及びませんわ。ふふ……そう、わたくしは強い、というよりも、わたくしたち5人の強さは別格、ということを覚えておいてくださる？
-	Your current skills can't compare to even the average level of a King's Wand member such as myself. Ha, right, I'm powerful… and the power of all five of us put together… words can't begin to describe.
+	Your current skills can't compare to even the average level of a King's Wand member such as myself. Ha, right, I'm powerful... and the power of all five of us put together... words can't begin to describe.
 	당신, 이 정도론 아직 우리 '왕의 지팡이'의 발끝에도 못 미쳐요. 후후…… 그래요, 저는 강하죠, 하지만 그것보다 우리 다섯 명의 강함은 차원이 다르다는 걸 기억해둘 수 있을까요?
 
-	七曜的那把刀，是白送给她的，据说它的前任主人是一位能一刀斩下东国所有的樱花的剑豪。然而即使是这样的人，还是被白击败，输掉了这把刀哦。
 	ルミナリエスが持っている刀……あれはシロから譲り受けたものですのよ。シロの前の持ち主は、刀一振りで国中の桜を散らすと恐れられた剣豪だったそうですけれど、それでもシロに破れて、この刀を差し出したというお話ですわ……。
 	Shichiyou's blade was a gift from Shiro. Heard that the former owner before Shiro was a swordsmaster who could fell all the cherry blossoms of the Far East with a single swing. But even that legendary swordsmaster was no match for Shiro and had to surrender the blade.
 	루미나리에스가 갖고 있는 칼…… 그건 시로가 물려준 거랍니다. 시로의 그전 주인은 검을 한 번 휘두르는 것만으로 온 나라의 벚꽃이 흩날렸다 전해질 정도로 무서운 검호였다는 것 같지만, 그래도 시로에게 패해 이 검을 내어주게 되었다는 이야기지요…… 
 
-	你那件衣服是怎么回事？咦？是我烧破的？但......不可能啊，我对自己身体的控制是很完美的......大概吧？我......抱歉，我很抱歉。
 	まぁ何事ですか、その服のありさまは？……は？わたくしが燃やした？あり得ませんわ、わたくしの身体の制御は完璧で……間違いない？……それは……し、失礼いたしましたわ。
-	What happened to your shirt? What? I burned it? But… impossible… my self-control is impeccable, I think…? I… well, I'm sorry. Really sorry.
+	What happened to your shirt? What? I burned it? But... impossible... my self-control is impeccable, I think...? I... well, I'm sorry. Really sorry.
 	어머, 무슨 일이죠? 그 옷은 어쩌다 그렇게…? 네? 제가 태웠다고요? 그럴 리 없습니다, 제 몸은 완벽히 제어하고 있을 터… 틀림없다고요? ……그렇다면…… 시, 실례를 범했군요.
 
-	即便你我的想法截然不同，但罗德岛那拼命努力、不断奔驰的样子......很不错。对，我是在夸奖你们。这很美妙。
 	貴方とわたくしの考えは根本的に異なるもの……ですが、今のロドス全体が一丸となって、努力しながら前進する姿……悪くありませんわ。ええ、そうですわね、褒めていますのよ。
 	We might be on opposite ends of the spectrum when it comes to ideals, but I do enjoy watching the people of Rhodes Island sweating away with bright hopes for the future. Yep, that's a compliment. It's a heartwarming sight.
 	당신과 제 생각은 근본적으로 다르… 지만, 지금의 로도스 아일랜드 전체가 일심동체가 되어, 노력하며 전진하는 모습은… 나쁘지 않군요. 네, 그렇습니다. 칭찬하고 있는 거예요.
 
-	如此怠惰。你就打算这样偷懒贪睡，荒废时间吗？
 	……だらしのない姿ですわ。このまま惰眠を貪って、時間を無駄にするおつもりかしら？
 	How lazy. So you think it's fine to just sleep here and waste away the precious day?
 	……칠칠맞지 못한 모습이군요. 이대로 게을리 잠이나 자며 시간을 헛되게 쓰실 셈이신지?
 
-	“王者之杖”所属，天火。在达成目的之前，我会暂时在罗德岛停留。目的？当然是将整合运动焚烧殆尽。
 	「王の杖」所属、スカイフレアと申しますわ。わたくしが目的を果たすまで、このロドスに居させてもらいますわ。わたくしの目的ですか？それはもちろん、レユニオンを燃やし尽くすことですわよ。
 	I am Skyfire of King's Wand. I will remain at Rhodes Island until my objective is accomplished. What's my objective, you ask? To burn every last Reunion thug to ashes, of course.
 	 '왕의 지팡이'소속, 스카이파이어라고 합니다. 제가 목적을 이룰 때까지, 여기 로도스 아일랜드에 머물도록 하겠습니다. 제 목적 말인가요? 그건 물론, 리유니온을 남김없이 전부 태워버리는 거랍니다.
 
-	仅凭如此，可无法引出我真正的力量。
 	この程度では、まだまだわたくしの真の力を引き出したとは到底言えませんわ。
 	This is no way to force me to unleash my true power.
 	이 정도론, 아직 제 진정한 힘을 끌어냈다곤 말할 수 없지요.
 
-	理所应当。
 	当然の結果ですわね。
 	Naturally.
 	당연한 결과입니다.
 
-	哼，偶尔享受些符合身份的待遇，也算是种休息。
 	フン……たまには身分相応の待遇を受けるのも、心と身体に良いですわね。
 	Ha. Enjoying the privileges I deserve from time to time is a good way to relax.
 	흥…… 가끔은 신분에 맞는 대우를 받는 것도 몸과 마음에 좋지요.
 
-	战场的温度太低了。
 	戦場の温度、足りませんわね。
 	The battlefield needs some heating up.
 	전장의 온도가 너무 낮군요.
 
-	太阳的光辉，庇护着我。
 	日輪の輝きが、わたくしを護りますわ。
 	The rays of the sun are my shield.
 	태양의 빛이, 저를 지켜줍니다.
 
-	出击。
 	出撃いたしますわ。
 	Attack!
 	출격하겠어요.
 
-	在这天火的威光前拜伏吧。
 	わたくしの威光に、ひれ伏しなさい。
 	Kneel before the flame of the heavens.
 	제 위광 앞에 무릎 꿇으십시오.
 
-	来吧。
 	よろしくてよ。
 	Come on.
 	잘 부탁드리죠.
 
-	你打算怎么做？
 	どうするおつもり？
 	What are your plans?
 	어쩔 셈이죠?
 
-	噩运只等待弱者坠落。
 	弱者の先には、破滅が待つのみですわよ。
 	Bad luck is always lying in wait for the weak.
 	약자의 앞엔, 파멸이 기다리고 있을 뿐이랍니다.
 
-	智者先攻。
 	賢者は常に先んじるものですわ。
 	The wise always take the initiative.
 	현자는 늘 앞서 가는 법이죠.
 
-	去吧。
 	いきなさい。
 	Go.
 	가십시오.
 
-	火，炎，焱。
 	ファイア、ブレイズ、インフェルノ！
 	Fire! Flames! Inferno!
 	파이어, 블레이즈, 인페르노!
 
-	日炎将你焚尽！
 	日輪の炎に、灼かれなさい！
 	The flames of the sun shall devour you!
 	태양의 불꽃에 타버리십시오!
 
-	天空将你点燃！
 	空が貴方を、灼き尽くしますわ！
 	The rays of the skies will set you aflame!
 	하늘이 당신을 불살라버릴 것입니다!
 
-	没有日炎烧不尽的灵魂。
 	日輪に灼き尽くせない魂はありませんわ。
 	There is no soul that can survive the sunflame.
 	태양에 불타지 않는 영혼은 없답니다.
 
-	你们啊，都被烧干净了，难道还想留下些什么吗？
 	貴方方、焼け野原になってしまいましたが、何か残したかったのかしら？
 	Pathetic... you're nothing but ashes now. Not a trace left behind.
 	당신들, 전부 잿더미가 되어버렸는데… 뭔가 남기고 싶었던 건지?
 
-	就只有这种程度......吗。
 	この程度……ですわね。
 	Not very impressive, I see...
 	이 정도…… 로군요.
 
-	不可能......我这样的......怎么会......
 	ありえませんわ……このわたくしが……どうして……。
 	No way... impossible... how could I have...
 	말도 안 됩니다…… 내가…… 어째서…… 
 
-	就不能为我准备一间更凉快点的房间吗？
 	もう少し涼しいお部屋を、ご用意してくださらない？
 	Can't you prepare a room with a lower temperature for me?
 	좀 더 시원한 방을 준비해주지 않겠어요?
 
-	你的手想被烧焦吗？
 	貴方、その手を消し炭にされたいのかしら？
 	Are you trying to get your hand burnt?
 	당신, 그 손이 숯덩이가 되길 바라는 건가요?
 
-	博士，可以为我说明一下这种理论吗？只要占用你十二分钟就够了。
 	貴方、この理論について少し解説をいただけませんこと？12分もあれば十分ですわね。
 	Doctor, can you explain this theory to me? All I need is 12 minutes of your time.
 	당신, 이 이론에 대해 잠시 설명해줄 수 있을까요? 12분 정도면 충분하죠?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	心情如何？
 	あら、ご機嫌いかが？
 	How are you feeling?
 	어머, 안녕하신지요?
+
+干员档案\Background:
+	基础档案 :
+	【代号】天火
+	【性别】女
+	【战斗经验】一年
+	【出身地】维多利亚
+	【生日】6月1日
+	【种族】菲林
+	【身高】162cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】スカイフレア
+	【性別】女
+	【戦闘経験】一年
+	【出身地】ヴィクトリア
+	【誕生日】6月1日
+	【種族】フェリーン
+	【身長】162cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Skyfire
+	[Gender] Female 
+	[Combat Experience] 1 year 
+	[Place of Birth] Victoria 
+	[Date of Birth] Jun. 1 
+	[Race] Feline 
+	[Height] 162cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 스카이파이어
+	[성별] 여
+	[전투 경험] 1년
+	[출신지] 빅토리아
+	[생일] 6월 1일
+	[종족] 필라인
+	[신장] 162cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】普通
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】普通
+	【源石技艺适应性】卓越
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】普通
+	【アーツ適性】卓越
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Normal 
+	[Originium Arts Assimilation] Outstanding
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 월등
+
+———————————————————————————————
+
+	客观履历 :
+	天火，隶属民间源石技艺研究会“狐尾”的核心团体“王者之杖”。拥有地质学与源石地质学双学位，维多利亚高等职业术师，在源石技艺及理论研究方面皆有杰出造诣。
+	现任王者之杖驻罗德岛首席术师，与罗德岛签署合作协议，并为罗德岛的源石理论研究，歼灭战作战等多项任务提供协助。
+
+	個人履歴 :
+	スカイフレアは、民間のアーツ研究会「狐尾」の中心グループ「王の杖」に所属している。地質学と源石地質学の二つの学位を所持するヴィクトリア上級職業術師で、アーツ運用及び理論研究方面では特に造詣が深い。
+	現在王の杖のロドス駐在首席術師の任にあり、ロドスとの協力協議を結んでいる。またロドスの源石理論研究や殲滅作戦等多くの任務へ協力を提供している。
+
+	Profile :
+	Skyfire is affiliated with King's Wand, the central organ of Foxtail, an Originium power research institute. A tech specialist from Victoria, she holds degrees in geology and Originium geology, and is respected in fields of Originium study both practical and theoretical. 
+	Currently the Chief Caster stationed at Rhodes Island on loan from the King's Wand, Skyfire's mission is to jointly research Originium while providing combat mission assistance.
+
+	프로필 :
+	    민간 오리지늄 아츠 연구회 '여우 꼬리' 내 핵심 그룹 '왕의 지팡이'에 속해 있는 스카이파이어는 지질학과 오리지늄 지질학 학위를 모두 갖고 있는 빅토리아의 고급 프로 캐스터로서, 오리지늄 아츠 및 이론 연구 방면에 대단히 조예가 깊다. 현재는 '왕의 지팡이'와의 협력 계약에 따라 로도스 아일랜드에 수석 캐스터로 파견되었으며, 오리지늄 이론 연구와 섬멸전 참여 등, 다양한 방면에서 로도스 아일랜드에 협력을 아끼지 않고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员天火没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.11u/L .
+	干员天火很少在源石多生地带活动。
+	
+	要我说，根本就是个没见过多少世面的大小姐。让她吃点苦头才知道战场的艰苦以及感染者的不易，应该偷偷给她安排些复杂的差事，锉锉她的锐气。
+	——医疗干员嘉维尔
+	嘉维尔，提醒你一下，医疗部门的体检记录是公开的。
+	——凯尔希医生
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.11u/L
+	源石の多発地帯での活動することは少ない。
+	
+	言わせてもらうけど、まるっきり世間知らずのお嬢様だ。ちょっと苦労をしたほうが戦場の過酷さとか、感染者の大変さがわかるだろう。こっそり面倒事を押しつけて、アイツの鼻をへし折ってやるべきだな。
+	――医療オペレーターガヴィル
+	ちなみにガヴィル、医療部の健康診断記録は公開設定になっているぞ。
+	――ケルシー医師
+
+	Clinical Analysis :
+	Imaging test for this Operator showed clear outlines of internal organs without any unusual dark signs. No unusual traces of Originium particles present in her system, no signs of infection, confirming her as Non-infected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Skyfire showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.11u/L 
+	Operator Skyfire rarely operates in areas with a high Originium presence. 
+	
+	That's a sure sign of a diva who hasn't seen much of the real world, if you ask me. She needs a lesson in the grim reality of war and just how hard the Infected have it. Skyfire should be given more hands-on combat missions to knock some sense into her. 
+	—Medic Operator Gavial 
+	A reminder, Gavial, that all physical examinations are public record. 
+	— Dr. Kal'tsit
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 스카이파이어는 오리지늄에 감염된 흔적이 없음
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L .
+	스카이파이어는 오리지늄 다발성 지대에서 활동한 적이 거의 없음.
+	
+	    세상 물정 모르는 아가씨가 틀림없어. 고생 좀 해봐야 감염자와 전장이 그렇게 호락호락한게 아니라는 걸 깨닫겠지. 몰래 어려운 일들을 맡겨서 기를 좀 꺾어야겠어.
+	——메딕 오퍼레이터 가비알
+	
+	    가비알, 의료부의 기록은 공개 상태야. 알아 둬.
+	——켈시
+
+———————————————————————————————
+
+	档案资料一 :
+	干员天火对于源石技艺的掌控程度远超同龄术师。天火擅长将火焰凝汇成巨大的火体，再引导它坠向目标，将战场上的敌人尽数焚烧。
+	在这过程中，流窜的热量将灰化天火的服饰，就连她的发梢都会如同焰舌般翻飞腾舞，而这些都不能伤及天火分毫。
+	无论是极高的温度还是炽盛的光芒，天火所施用的源石技艺都犹如将太阳直接拉向大地一般，她的代号由此而来。
+	事实上，如此庞大的力量，天火作为一个涉世未深的术师，即使极富天赋，却还不能完全操控之。
+	请注意天火所在区域的火灾警报，切记切记。
+
+	第一資料 :
+	スカイフレアのアーツの運用レベルは同年代を遥かに超えている。彼女は火を操り巨大な炎にすることを得意とし、その炎の塊を目標に向かって落とせば、戦場の敵はことごとく燃え尽きる。
+	この過程で流れまわる熱がスカイフレアの服飾品を燃やすとともに、彼女の髪の毛先はひらりと舞い上がるが、炎は彼女を傷つけることはおろか触れることすらできない。
+	かなりの高温といい燃え盛る光といい、スカイフレアが駆使するアーツは太陽を直接大地にたたきつけるようなもので、彼女のコードネームの由来にもなっている。
+	実際、このような膨大なパワーは、まだ人生経験の浅い術師として、天賦の才に恵まれていても、彼女は未だ完全には操り切れていない。
+	くれぐれもスカイフレアがいるエリアの火災警報には注意を払うように。
+
+	Archive File 1 :
+	Operator Skyfire's Originium ability far exceeds that of peers of her age. She excels at pulling fire into a huge mass and incinerating clustered targets with it. 
+	In the process, the flame also disintegrates her outfit, even setting her hair ablaze, but never damages her. 
+	With intense heat a brilliant glow, her power manifests like the sun itself, hence her codename. 
+	With such immense power, the talented yet inexperienced Skyfire still cannot fully control it. 
+	Listen for the fire alarm anywhere Skyfire may be present.
+
+	파일 자료 1 :
+	    오퍼레이터 스카이파이어는 같은 나이대의 캐스터들에 비해 오리지늄 아츠 제어 능력이 월등히 뛰어나다. 스카이파이어는 불꽃을 거대한 화염 구체로 만들고, 이를 목표에게 날려 전장에 있는 적들을 모조리 태워버리는 데 능숙하다.
+	    이 과정에서 흐르는 열이 그녀의 옷자락이나 머리 끝부분을 태워버리기도 하지만, 이는 스카이파이어 자신에게는 전혀 피해가 가지 않는다.
+	    뜨거운 온도나 강렬한 빛, 어느 방면에서든 그녀가 사용하는 오리지늄 아츠는 마치 태양 자체를 땅으로 직접 끌어온 것처럼 느껴진다. 그녀의 코드네임이 스카이파이어인 것도 바로 여기에서 유래된 것이다.
+	    이렇듯 엄청난 힘을 가지고 있지만, 스카이파이어는 아직 경험이 부족하기 때문에 그 뛰어난 재능을 완전히 통제하지는 못한다.
+	    스카이파이어가 머무는 구역에서는 늘 화재 경보에 조심할 것. 반드시 기억하자.
+
+———————————————————————————————
+
+	档案资料二 :
+	“王者之杖”与罗德岛的合作的契机，仅仅是一件小事。
+	对于王者之杖的成员们来说，则是一件不可容忍的事情。
+	感染者激进整合运动，在某次暴乱中误杀了王者之杖眷养的宠物，“菲尔”。这引起了王者之杖诸位成员的愤怒，当地整合运动根本没能料到，王者之杖的各个成员在战斗领域都是近乎天才的存在，并且还抱着强烈的斗争心理与无处发泄的属于青少年的气力。
+	因为一只宠物，或者说一个家人，一位挚友的逝去，王者之杖展开了对整合运动的复仇，并对本地整合运动造成了沉重的打击。
+	当然，王者之杖毕竟只是个五人团体，她们决定找寻一家专门解决感染者问题的组织，和这个组织相互合作，完整地消灭整合运动，那些卑劣的仇敌们。
+	这就是王者之杖与罗德岛合作的原因，大概。
+
+	第二資料 :
+	「王の杖」とロドスの協力関係の契機となったのは、ほんの些細な出来事だったが、王の杖のメンバーにとっては、それはどうしても許せないことだった。
+	過激派感染者による組織、レユニオンは幾度かの暴動のなかで、王の杖で飼っていたペットの「フィル」を誤って殺してしまい、王の杖のメンバーたちは激怒した。現地のレユニオンメンバーが予想できなかったのは、王の杖のメンバーはみな戦闘においては天才的で、強い闘争心と行き場のない若さゆえの力を抱えているということだ。
+	この一匹のペット、あるいは家族、親友の逝去により、王の杖はレユニオンに対する報復を展開し、現地のレユニオンに深刻な打撃を与えた。
+	王の杖はたったの五人グループだが、彼女たちは感染者問題解決の専門組織を探し、その組織と協力し、卑劣な仇たるレユニオンを完全に撲滅しようと決めたのだ。
+	以上が王の杖がロドスと協力関係を結ぶに至ったあらましだろう。
+
+	Archive File 2 :
+	What motivated the partnership between King's Wand and Rhodes Island was rather insignificant. 
+	But to scholars of the Wand, it was practically intolerable. 
+	In a protest-turned-riot, the Infected accidentally killed 'Phil,'the King's Wand's pet. This enraged the Wand scholars. The demonstrators never could have anticipated the scholars would be as combat ready as they were, and brimming with youthful, rebellious rage. 
+	Just because of a pet-- a member of the family to the Wand, the scholars began a campaign of vengeance that devastated the protesters. 
+	The King's Wand at the time was a group of just five students. So they sought the assistance of an organization specialized in dealing with the Infected, with the intention of eradicating the Infected movement and its vile protestors. 
+	That's the reason King's Wand is working with Rhodes Island. More or less.
+
+	파일 자료 2 :
+	    '왕의 지팡이'는 사소한 계기로 로도스 아일랜드와 협력하게 되었지만, 이는 '왕의 지팡이' 구성원들에겐 용납할 수 없는 일이기도 했다. 급진적 감염자 단체인 리유니온이 한 폭동 중 실수로 '왕의 지팡이'의 애완동물인 '필'을 죽였는데, 이것이 '왕의 지팡이' 구성원들의 분노를 산 것이다. 당시 현지 리유니온 조직원들은 '왕의 지팡이' 구성원들이 모두 각자의 전투 분야에서 거의 천재급에 속한다는 사실을 전혀 알지 못했다. 게다가 강렬한 투쟁심과 젊은 에너지를 가지고 있어, 리유니온 조직원들이 감당하기에는 벅찬 수준이었다.
+	    한 마리의 애완동물, 또는 가족, 또는 친구의 죽음 때문에 '왕의 지팡이' 구성원들은 리유니온에 대한 복수를 시작하게 되었으며, 현지 리유니온 조직원들에게 실제로 큰 타격을 입혔다.
+	    그래서 '왕의 지팡이'의 다섯 구성원들은 전문적으로 감염자 문제를 처리하는 조직을 찾아, 그들과 협력하여 리유니온을 완벽하게 소멸시키고자 하였다. 이것이 '왕의 지팡이'가 로도스 아일랜드와 협력하게 된 대략적인 이유이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	施放源石技艺时，天火的随身衣物甚至会被她身体内不断窜出的热能焚毁。
+	这也造成了两个问题，一是天火的体温经常过高，虽然对天火并无大碍，但周遭的物品往往没有那么幸运。
+	另一方面是，寻常纤维同样不能隔离天火产生的热量。干员天火一直在寻找替代品衣物，或者是能够一劳永逸地解决这个问题的办法。
+	罗德岛曾尝试为她改造制服，然而所有努力基本都以失败告终。
+	这也可能是这位优等生天才唯二感到苦恼的事情。
+
+	第三資料 :
+	アーツを放つとき、スカイフレアが身に着けている衣服は彼女の体の中から絶えず吹き上がる熱によって燃えてしまう。
+	その結果、二つの問題が生じる。一つは、スカイフレアの体温が高温になりやすいことだ。本人には問題はないが、周囲の物には影響を与えてしまう。
+	もう一つの問題は、通常の繊維ではスカイフレアから発生する熱を遮断できないことだ。そのため彼女は、熱に強い衣服、もしくはこの問題を根本的に解決できる方法を探している。
+	ロドスは彼女の制服を改造しようと試みたが、全て失敗に終わった。
+	この天才の頭を悩ませるのは、世界でこのスカイフレアの二つの問題だけかもしれない。
+
+	Archive File 3 :
+	When Skyfire uses her Originium power, everything on her person is destroyed by the intense heat her body releases. 
+	That creates two problems. First, while the excessive heat is harmless to Skyfire, anything close by usually isn't so lucky. 
+	Second, there is no fabric that could survive her flames, meaning she's always looking for an alternative.
+	Rhodes Island has tried to make viable costumes for her, but all attempts have failed. 
+	These two problems are the only issues Skyfire has at the moment.
+
+	파일 자료 3 :
+	    오리지늄 아츠를 시전할 때, 스카이파이어의 소지품이나 옷은 종종 그녀의 몸에서 나오는 열에너지에 불타 없어지곤 한다. 이 때문에 두 가지 문제점이 생기는데, 첫 번째는 그녀의 체온이 극도로 높아진다 하더라도 그녀 자신에게는 큰 지장을 주진 않지만, 불행히도 그녀 주변의 물건들은 그렇지 않다는 것. 그리고 두 번째는, 일반 섬유로 만들어진 의류 역시 그녀의 열기를 감당하지는 못한다는 것이다.
+	    그래서 오퍼레이터 스카이파이어는 계속해서 의류의 대체품, 또는 이 문제를 영구적으로 해결할 수 있는 방법을 찾고 있다.
+	    로도스 아일랜드는 그녀를 위해 제복을 개조하려고 시도하였으나, 모든 노력이 거의 다 실패로 돌아갔다.
+	    이 천재 우등생을 고뇌하도록 만드는 일은, 아마 이게 유일할 것이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	其实干员天火并不是一个高傲且刻薄的人。只是对她来说，大多数人无法理解她高速运转的想法与富有远见的行动，进而在与她沟通时产生了障碍，而这才是让天火感到困扰的原因。
+	天火也许并非想要训斥或者诘难他人，她只是找不到究竟该如何表达自己膨大且只能在大部分时间保持冷静的心情罢了。
+	令人欣慰的是，她还有一群志同道合的朋友，罗德岛同样也有着多种多样的干员，这能够让她的不适与寂寞感稍微减少那么一丁点。
+	如果她真有的话。
+	而某些好事干员声称，她至少会为不小心烧掉博士的任务报告而红着脸道歉。
+
+	第四資料 :
+	スカイフレアは決して横暴で薄情な人間ではない。ただ多くの人間は彼女の速すぎる頭の回転と何手先も読んだ行動についてこれず、それゆえに彼女とコミュニケーションをとる際に行き違いが起こってしまうのだ。そしてこれこそが彼女を悩ませている。
+	おそらく、スカイフレアは他人を叱責したり非難したいと思っているわけではない。自分の考えを適切に伝えられないことがもどかしく、その結果、大半の時間を彼女自身を落ち着かせるために充てている以外に考えられない。
+	安心できるのは、彼女には志を同じくする友がおり、ロドスにも多種多様なオペレーターがいる点だ。もしスカイフレアが本当に寂しさを感じているのなら、彼女たちが不自由さや喪失感を少しでも和らげてくれるはずだ。
+	一部のオペレーターによれば、少なくとも自分の不注意でドクターの任務報告書を燃やしてしまった時、彼女は顔を赤くして謝るということだ。
+
+	Archive File 4 :
+	Skyfire actually is not arrogant or cynical. It's just that, to her, very few people can keep up with her leaps in logic and her visionary decisions. It's a failure in communication that is truly bothering her. 
+	Skyfire may not want to scold or criticize her peers, and her abrasiveness is perhaps an attempt to express her own greatness. 
+	Fortunately, Skyfire does have some like-minded friends, with such a diversity of Operators on the island. That offsets a bit of her discomfort and loneliness. 
+	Assuming she felt any. 
+	Some nosy Operators have claimed Skyfire apologized profusely to the Doctor for accidentally destroying mission debriefs.
+
+	파일 자료 4 :
+	    사실, 오퍼레이터 스카이파이어는 결코 도도하거나 까칠한 사람이 아니다. 그녀의 입장에서는, 단지 다른 사람들이 그녀의 빠른 머리 회전 속도와 선견지명을 따라올 수 없을 뿐이다. 이로 인해 그녀와 다른 사람들이 소통할 때 종종 문제가 생겼고, 이런 문제들은 스카이파이어를 곤혹스럽게 만들었다.
+	    아마도 스카이파이어는 남을 훈계하거나 비난하려는 의도는 아니었을지도 모르지만, 자신의 심정을 어떻게 표현해야 할지 몰라 대부분의 시간 동안 냉정함을 유지할 수밖에 없었다.
+	    다행히 그녀에게는 뜻을 같이하는 친구들이 있다는 것이다. 로도스 아일랜드에는 다양한 오퍼레이터들이 있으니, 그녀가 느끼는 불편함이나 외로움을 조금이나마 덜어줄 수 있을 것이다. 그녀가 정말로 그런 감정을 느끼고 있다면 말이다.
+	    몇몇 참견하기 좋아하는 오퍼레이터들의 말에 따르면, 그녀는 적어도 실수로 박사의 임무 보고서를 불태운 것에 대해서는 얼굴을 붉히며 사과 할 줄 안다고 한다.
+
+———————————————————————————————
+
+	晋升记录 :
+	想要运用好王者之杖的力量，应该先揣测一下自己的掌控力。
+	事实证明，散作一盘的宝石并没有汇聚成流的水滴坚韧，成熟合格的队伍远胜怪异天才的随意拼凑。
+	当然，如果作为一个战术指挥官可以合理运用，甚至发挥出这些干员的力量，她们将是任意战场上足以左右局势的存在。
+	就先从面前这位一不小心就点燃制服的干员天火开始吧。
+
+	昇進記録 :
+	王の杖の力を使いこなしたいなら、まずは自分の指揮力を知るべきだ。事実として水が集まり一つとなって大きな流れを生み出している川のように、チームがまとまっていなければ、個性派な天才の寄せ集め集団よりも熟練したチームの方が遥かに優れているということだ。
+	当然、もしも一人の指揮官として合理的に戦術を運用でき、個々のオペレーターの力を引き出してさえできれば、彼女らはどんな戦場でも戦局を左右する大きな存在になる。
+	まずはスカイフレアの能力を活かすことから始めよう。
+
+	Promotion Record :
+	To wield the power of the King's Wand, a scholar faces a test of her own mastery. 
+	A condensed drop of water is more resilient than a shattered gem, and a well-balanced team beats a haphazard squad of eccentric geniuses. 
+	Of course, given a commander with the talent to min/max their strengths and weaknesses, they can still rule the battlefield. 
+	And it should probably start with the Operator who burns off her uniform on a whim.
+
+	승진 기록 :
+	    왕의 지팡이의 힘을 제대로 활용하기 위해서는 먼저 자신의 지휘 능력을 가늠해보아야 한다. 흩어진 보석들은 모여진 물줄기보다 굳세지 않다는 말처럼, 팀워크가 뛰어난 팀은 단순히 함께있을 뿐인 천재 그룹을 압도할 수 있다. 물론, 전술 지휘관으로서 이들을 합리적으로 운용하고 각각의 역량까지 발휘시킬 수 있다면, 그들은 어떤 상황에서도 전세를 뒤바꿀 수 있는 존재가 될 것이다. 우선은 걸핏하면 제복을 태워버리는 오퍼레이터, 스카이파이어부터 시작하자.

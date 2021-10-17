@@ -1,11 +1,17 @@
 ID:
 	char_347_jaksel
 
-干员代号\Name:
+CV:
 	杰克
 	ジャッキー
 	Jackie
 	재키
+
+干员代号\Name:
+	铃代纱弓
+	鈴代紗弓
+	Sayumi Suzushiro
+	스즈시로 사유미
 
 招聘合同\Character Usage:
 	近卫干员杰克，总是充满活力。
@@ -43,177 +49,415 @@ ID:
 	정신 집중!
 
 语音\Voices:
-	博士，我来帮你的忙吧！
 	ドクター、手伝おっか！
 	Doctor, let me help!
 	박사, 도와줄까?
 
-	博士，你已经坐在那里工作很久了，这样对身体不好的，来跟我一起做一些伸展运动吧！活动一下身体，然后再补充一下能量，这样才能更好地工作哦。
 	ドクター、座り仕事が長すぎるよ。このままじゃ身体に良くないから、ぼくとストレッチをやろう！身体を動かして、エネルギーも補充した方が、仕事がはかどるんだよ。
 	Doctor, you've been sitting there for a while, that's really unhealthy. Come do some stretches with me! Exercise and recover your energy. That way, you'll be able to work better.
 	박사, 너무 오래 앉아서 일하고 있잖아. 이대로라면 몸에 안 좋으니까, 나랑 스트레칭하자! 몸을 움직여서 에너지를 보충하는 편이 일도 더 잘된다니까.
 
-	博士博士，那个人竟然在罗德岛上诶！啊，现在她的代号应该是坚雷了，反正她好厉害的！我以前只在征兵广告上见过她！而且她人超好的，给了我好多零食，诶嘿嘿。
 	ドクタードクター、まさかあの人がロドスにいるなんて思わなかった！あっ、今はコードネームで呼ぶから「ジュナー」だよね。とにかくすごい人なんだ！ここに来るまでは徴兵広告でしか見たことなかったの！それにすごく優しいんだよ、ぼくにおやつをいっぱいくれたんだ、えへへ。
 	Doctor, Doctor! She's here at Rhodes Island! Ah, her codename should be Dur-nar now. Anyway, she's really amazing! I've only ever seen her in recruitment ads before! She's also a really good person! She gave me so many snacks, ehehe.
 	박사, 박사! 설마 그 사람이 로도스 아일랜드에 있을 줄은 몰랐어! 아, 지금은 코드네임으로 부르니까 '듀나'지? 아무튼 대단한 사람이라고! 여기 오기 전에는 징병 광고에서밖에 본 적 없는걸! 게다가 엄청 상냥해, 나한테 간식도 잔뜩 줬어! 에헤헤~
 
-	博士，我的体能在同龄人里算是很好的哦，我来给你表演一个原地后空翻吧！看好了！
 	ドクター、ぼくは同年代の中でも身体能力が高い方なんだよ。バク転でも見せてあげようか！よく見ててね！
 	Doctor, I'm actually pretty lithe for my age, you know. Let me show you a standing backflip! Watch!
 	박사, 나는 또래 중에서도 신체 능력이 좋은 편이야. 백 덤블링이라도 보여줄까? 잘 봐봐~!
 
-	这把铳？啊，它是铳型施......施什么来着，啊，对了，施术单元！虽然来到这里后还是按照习惯申请了一把，不过比起用法术，我果然还是更加喜欢用拳头作战呢。
 	この銃のこと？あー、これは銃型のアーツ……アーツなんだっけ、あっ、わかった、アーツユニット！ロドスに来てからいつもの習わしで申請したものだけど、ぼくはアーツよりも素手で戦う方が好きなんだ。
 	This gun? Oh, it's a gun-type Arts... Arts something. Ah, right, Arts Unit! I applied for one out of habit when I came here, but I still prefer my fists over Arts.
 	이 총 말이야? 아~ 이건 총 모양 아츠…… 아츠 뭐였더라, 아! 알았다! 아츠 유닛이야! 로도스 아일랜드에 와서 늘 하던 대로 신청한 건데, 나는 아츠보다도 맨손으로 싸우는 편이 좋아.
 
-	虽然我也知道我很幸运，但来到罗德岛后我才知道其他的感染者原来过得这么不好......博士，我该怎么做才能帮到其他人呢？我想帮助他们！
 	ぼくも自分はラッキーな方だとは思ってたけど、ロドスに来て初めて、他の感染者がこんなひどい生活をしてたって知ったんだ……ドクター、どうすれば助けてあげられる？みんなを助けたいんだ！
 	Even though I know I'm very lucky, I only realized how badly other Infected are doing after coming to Rhodes Island... Doctor, what can I do to help? I really want to help them!
 	나도 내가 운이 좋은 편이라고 생각했지만, 로도스 아일랜드에 와서 처음으로 다른 감염자가 이렇게 힘든 생활을 하고 있었단 걸 알았어…… 박사, 어떻게 해야 도와줄 수 있을까? 모두를 도와주고 싶어!
 
-	......嗯？啊，博士，我正在给爸爸写信。诶，我没介绍过我爸爸吗？我爸爸是很厉害的警察哦，爸爸他可厉害啦！博士我来给你讲讲他的事迹吧！
 	……ん？あっ、ドクター。今ね、父さんに手紙を書いてるところだよ。あれ、ぼく、父さんのこと話してなかったっけ？父さんはね、警察官をしてるんだ、すごい人だよ！よし、父さんの武勇伝をドクターに聞かせてあげよう！
 	...Hm? Ah, Doctor! I'm writing a letter to my dad. Eh, I haven't introduced my dad to you yet? He's a really amazing policeman, you know! Let me tell you how great he is!
 	…응? 아~ 박사. 지금 나, 아빠한테 편지 쓰고 있었어. 어라? 내가 아빠 얘기, 해준 적 없었나? 아빠는 말이지, 경찰관을 하고 계셔. 대단한 사람이라고! 좋아, 아빠의 무용담을 박사한테 들려줘야지!
 
-	其实我来罗德岛是爸爸推荐的，他在知道罗德岛能够治疗矿石病后就一直让我努力申请能被派到这边来。虽然不是很想和爸爸分开，不过我也知道，我能健康生活才是最让他开心的吧。
 	実はぼくがロドスに来たのは父さんのアドバイスのおかげなんだ。ここで鉱石病の治療ができるって知ってから、ずっと派遣申請を出すように勧めてくれてたの。父さんと離れるのはちょっと嫌だったけど、ぼくが健康に暮らすのが父さんにとって一番嬉しいことだってわかってたから。
 	Actually, it was my dad who suggested Rhodes Island. After he found out you could treat Oripathy, he pushed really hard for me to be able to come here. I don't really want to be away from him, but I know that he'll be happiest if I live a healthy life.
 	사실, 내가 로도스 아일랜드에 온 건 아빠의 조언 덕분이야. 여기서 광석병 치료가 가능하다는 사실을 알고 나서, 계속 파견 신청을 넣도록 제안해 주셨거든. 아빠랑 떨어지는 건 조금 싫었지만, 내가 건강하게 지내는 게 아빠한텐 가장 기쁜 일이라는 걸 알고 있었으니까.
 
-	虽然还比不上爸爸，不过博士也很可靠呢，嗯，在我心里现在博士已经是排第二可靠的人了！嘻嘻，对了，博士，我在给爸爸的信里写过不少有关你的事哦，他也说很想见见你呢！
 	父さんにはまだ敵わないけど、ドクターもなかなか頼れると思うよ。うーん、ドクターはぼくの中じゃもう二番目に頼れる人になったかな！へへ。そうだドクター、父さんへの手紙によくドクターのことを書いてたから、父さんも会ってみたいって言ってたよ！
 	You're really reliable, although dad is still better. Yup, you're now the second most reliable person in my heart! Hehe. Ah, Doctor, I talked a lot about you in my letters to dad. He said he really wants to meet you!
 	아빠한텐 아직 못 미치지만, 박사도 꽤 믿음직스럽다고 생각해! 으음~ 박사는 나한텐 이제 두 번째로 기댈 수 있는 사람이 된 거려나? 헤헤~ 아, 맞다! 박사, 아빠한테 쓰는 편지에 박사에 대해 자주 썼었는데, 아빠도 만나보고 싶다고 그랬어!
 
-	博——！啊，博士睡着了，那我小声一点......
 	ドク……ター、寝ちゃったんだね。静かにしてあげなきゃ……。
 	Doc——! Ah, Doctor's asleep. I'll have to be quieter...
 	박…… 사……  잠들었구나. 조용히 해줘야겠다……
 
-	博士你好！我是新加入的干员，代号杰克！我过去在哥伦比亚担任辅警，让我们好好相处吧！
 	はじめまして、ドクター！新人オペレーターの「ジャッキー」だよ！前はクルビアで補助警察をやってたんだ。これから仲良くやろうね！
 	Nice to meet you, Doctor! I'm the new operator, codename Jackie! I used to be an auxiliary police officer in Columbia. Let's get along!
 	만나서 반가워, 박사! 신입 오퍼레이터 재키라고 해! 전에는 컬럼비아에서 보조 경찰을 했었어. 앞으로 사이좋게 지내자!
 
-	好厉害，感觉比爸爸都厉害......
 	すごい……父さんよりもすごそう……
 	Amazing... It feels even more amazing than dad...
 	굉장해…… 아빠보다도 굉장한 거 같아……
 
-	咦，我要升职了吗？哇，太棒了！
 	え、ぼくが昇進するの？うわー、やったー！
 	Eh, am I being promoted? Wow, that's great!
 	엇? 내가 승진하는 거야? 우와~ 앗싸~!
 
-	在罗德岛的生活让我学到了许多呢......说不定有一天我能追上爸爸也说不定呢！博士，我会继续加油的，也要麻烦你多指导我啦~
 	ロドスでの生活って色々勉強になるね……いつか父さんにだって追いつけるかもしれない！これからも頑張るから、色々教えてね、ドクター。
 	I've learnt a lot living at Rhodes Island... Maybe I can even catch up to dad one day! Doctor, I'll continue to work hard. Please guide me well~
 	로도스 아일랜드에서 생활하는 거, 여러모로 공부가 되는구나…… 언젠가 아빠를 따라잡을 수 있을지도 몰라! 앞으로도 열심히 할 테니까, 여러모로 알려줘, 박사!
 
-	我来啦！
 	来たよ！
 	I'm here!
 	왔어!
 
-	我会努力的！
 	頑張るね！
 	I'll work hard!
 	열심히 할게!
 
-	一起加油吧！
 	みんなで頑張ろう！
 	Let's do our best!
 	다 같이 힘내자!
 
-	作战开始！
 	作戦開始！
 	Mission start!
 	작전 개시!
 
-	博士，到我了吗？
 	ドクター、ぼくの番？
 	Doctor, is it my turn?
 	박사, 내 차례야?
 
-	热身完毕！
 	ウォーミングアップ完了！
 	Warming up complete!
 	워밍업 완료!
 
-	交给我吧！
 	ぼくに任せて！
 	Leave it to me!
 	나한테 맡겨!
 
-	到我发挥的时候啦！
 	ぼくの力の見せ所だね！
 	Time for me to show my power!
 	내 힘을 보여줄 때구나!
 
-	吃我一拳！
 	このパンチをくらえ！
 	Grit Those Teeth!
 	이 펀치를 받아라!
 
-	休想通过！
 	ここは通さない！
 	You shall not pass!
 	여기는 못 지나가!
 
-	可不要小看我啦！
 	ぼくをなめるなよ！
 	Don't look down on me!
 	날 얕보지 마!
 
-	一鼓作气！
 	一気に行くよ！
 	I'll do it in one go!
 	한 번에 간다!
 
-	我有几次都觉得要输了，最后居然赢了，博士好厉害啊！
 	何度も負けそうって思ったのに、まさか最後には勝てるなんて。ドクターってすごいよ！
 	I thought we were gonna lose a few time, but we actually won in the end. Doctor, you're amazing!
 	몇 번이고 질 거 같다 생각했는데, 설마 마지막에 이길 줄이야. 박사는 대단해!
 
-	博士博士，我有好好努力了吧！
 	ドクタードクター、ぼくの頑張りを見ててくれた？
 	Doctor, Doctor, I've worked hard!
 	박사~ 박사! 내가 열심히 하는 거 봤어?
 
-	博士，要我去追他们吗？
 	ドクター、ぼくが追ってこようか？
 	Doctor, want me to chase after them?
 	박사, 내가 쫓아갈까?
 
-	对不起，博士，要是我再努力一点就好了......
 	ごめんなさいドクター、ぼくがもっと頑張ってれば……
 	Sorry, Doctor. If only I'd put in more effort...
 	미안해 박사, 내가 더 열심히 했더라면……
 
-	舰内好大呀！
 	ロドスの艦内って広いね！
 	It's so big inside!
 	로도스 아일랜드의 함내는 넓구나!
 
-	哇啊啊！
 	うわあー！
 	Ahhhh!
 	우와~!
 
-	博士，你好呀~
 	ドクター、こんにちはー！
 	Hi, Doctor~
 	박사, 안녕~!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	啊，是博士！
 	あっ、ドクターだ！
 	Ah, it's Doctor!
 	앗, 박사다!
+
+干员档案\Background:
+	基础档案 :
+	【代号】杰克
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】哥伦比亚
+	【生日】9月15日
+	【种族】佩洛
+	【身高】157cm
+	【矿石病感染情况】
+	体表有源石结晶分布，参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ジャッキー
+	【性別】女
+	【戦闘経験】なし
+	【出身地】クルビア
+	【誕生日】9月15日
+	【種族】ペッロー
+	【身長】157cm
+	【鉱石病感染状況】
+	体表に源石結晶の分布を確認。メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Jackie
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Columbia
+	[Date of Birth] September 15
+	[Race] Perro
+	[Height] 157cm
+	[Infection Status]
+	Originium crystals are present on the body's surface, confirmed Infected by medical examination.
+
+	기본정보 :
+	[코드네임] 재키
+	[성별] 여
+	[전투 경험] 없음
+	[출신지] 컬럼비아
+	[생일] 9월 15일
+	[종족] 페로
+	[신장] 157cm
+	[광석병 감염 상황]
+	체표면에 오리지늄 결정 분포, 의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】普通
+	【战斗技巧】普通
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Standard
+	[Physical Resilience] Standard
+	[Tactical Acumen] Normal
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	前哥伦比亚辅警，因故感染矿石病后，来到罗德岛接受治疗。
+	经其父同意，加入罗德岛成为干员，在近身格斗方面展现出较强天赋，活跃于各类任务中。
+
+	個人履歴 :
+	クルビアの元補助警察。事情によって鉱石病に感染し、治療のためロドスを訪れる。
+	父親の同意のもと、ロドスにオペレーターとして加入。近接格闘技において高い才能を見せ、各種任務で活躍している。
+
+	Profile :
+	A former Columbian auxiliary police officer who came to Rhodes Island to receive treatment after contracting Oripathy. 
+	With her father's consent, she joined Rhodes Island as an operator, displaying above average talent in close combat and participating in various missions.
+
+	프로필 :
+	    전 컬럼비아 보조 경찰. 사고로 광석병에 감염되어 로도스 아일랜드에 와 치료를 받고 있다.
+	    아버지의 동의를 받아 로도스 아일랜드의 오퍼레이터가 되었으며, 근접 격투 방면에서 훌륭한 재능을 발휘, 현재 각종 임무에서 활약 중이다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】3%
+	由于感染病症时间较短，干员体表仅有少量源石结晶分布。
+	
+	【血液源石结晶密度】0.16u/L
+	由于及时接受治疗，且干员本身身体素质较佳，因此病情目前较为乐观，定期接受治疗的话，不会对身体造成很大负担。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果に異常があり、鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】3%
+	感染期間が短いため、体表に確認できる源石結晶の分布はごく僅かである。
+	
+	【血液中源石密度】0.16u/L
+	早い段階で治療を受け始め、本人の身体能力も優れているため、現段階では病状に悪化の見込みはない。定期的に治療を受ければ、身体にさほど負担がかかることもないだろう。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy. 
+	
+	[Cell-Originium Assimilation] 3%
+	Due to short infection duration, only small traces of infection are visible on the surface of the body. 
+	
+	[Blood Originium-Crystal Density] 0.16u/L
+	Thanks to timely treatment and physical fitness, the current prognosis is optimistic. With regular treatment, there will not be much burden on the body.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인. 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 3%
+	감염된지 얼마 되지 않아 오퍼레이터 체표면에는 소량의 오리지늄 결정만이 분포 되어있음
+	
+	[혈중 오리지늄 결정 밀도] 0.16u/L
+	제때 치료를 받은 데다 오퍼레이터의 신체 조건이 좋아, 현재는 비교적 낙관적인 상황이다. 정기적인 치료를 받는다면 당장은 몸에 큰 문제를 일으키진 않을 것이다.
+
+———————————————————————————————
+
+	档案资料一 :
+	精力旺盛的佩洛女孩。
+	无论何时都充满活力，仿佛没有什么能让她失落的事情一样，对人也十分友善，因此受到许多干员的喜爱，部分较为年长的干员更是将她当做妹妹甚至女儿一样宠爱。
+	最喜欢和人宣扬她父亲的光辉事迹。
+
+	第一資料 :
+	活力に満ちたペッローの女の子。
+	いつでも元気いっぱいで、何があっても彼女を落ち込ませることなど不可能だと思わせる。他人に友好的に接しているため、多くのオペレーターに好かれている。一部の年上のオペレーターは、彼女を妹や娘のように可愛がっている。
+	父親の輝かしい軌跡を自慢することが大好きである。
+
+	Archive File 1 :
+	An energetic Perro girl. 
+	She is always full of vigor and never remains down for long. As she acts friendly to everyone, she is well-liked by most operators and some older operators even treat her as a cherished sister or daughter. 
+	She enjoys regaling others with stories of her father's glorious deeds.
+
+	파일 자료 1 :
+	    기운 넘치는 페로 여자아이.
+	    언제나 활기차고, 그 어떤 일도 그녀를 낙담시킬 수는 없을 것 같은 모습을 보여주며 다른 사람에게도 매우 친절하다. 때문에 많은 오퍼레이터들의 사랑을 받고 있으며 비교적 연령대가 높은 일부 오퍼레이터들은 그녀를 여동생이나 심지어는 딸처럼 예뻐한다.
+	    사람들에게 아버지의 업적을 소개하는 것을 가장 좋아한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	众所周知，这片大地上的大部分感染者，能够不依靠施术单元就进行施法。
+	不过一方面，这相当于在运用自己体内的源石进行施法，很有可能会加速矿石病的恶化，另一方面，像杰克这样的轻度感染者，能够运用的源石能量其实是很少的。
+	因此，在条件允许的情况下，即使是感染者术师也会倾向于通过施术单元来施法。也因此，罗德岛会为每一位术师干员都发放施术单元。
+	——事实上工程部的工程师们对于研制各种奇形怪状的施术单元有着极大的热情，他们的日常乐趣之一就是造一些完全看不出来是施术单元的玩意，然后发现这玩意确实无法作为施术单元使用。
+	杰克腰间的就是工程部的得意之作，编号PT-29铳型施术单元。
+	不过很遗憾的是，杰克虽然申请了这样一个施术单元，但那只是辅警时期的习惯使然，她本人事实上对于法术课程毫无兴趣，成绩也十分糟糕。因此，时至今日，这个施术单元更多只是作为装饰使用。
+
+	第二資料 :
+	周知の通り、この大地の大多数の感染者は、アーツユニットを用いらずにアーツを駆使することができる。
+	だがそれはすなわち自分の体内にある源石を用いてアーツを駆使しているため、鉱石病の悪化を早める恐れがある。また、ジャッキーのような軽症者の場合、運用可能な源石のエネルギーは非常に限られている。
+	したがって、状況が許す限り、感染者の術師でもアーツユニットを用いる傾向にある。ロドスも同じ理由で術師一人ひとりにアーツユニットを配布している。
+	――実を言うと、エンジニア部のエンジニアたちは奇怪な形状のアーツユニット開発に大きな情熱を抱いている。彼らの日頃の楽しみの一つが、見た目から何一つアーツユニットらしさが見当たらない物体を作成することで、そして本当にアーツユニットとしての使い道がないことが実証されるまでがワンセットである。
+	ジャッキーの腰にかけられているものもまさにエンジニア部渾身の一作で、番号PT-29の銃型アーツユニットである。
+	だが残念なことに、ジャッキーがこのようなアーツユニットの受領を申請したのは、補助警察として働いていた頃の習慣からくるもので、本人はアーツ関連の授業に全く興味がなく、成績も悪いの一言に尽きる。そのため、件のアーツユニットは今日もただの装飾品として存在するだけである。
+
+	Archive File 2 :
+	As everyone knows, most Infected are able to cast Arts without the help of an Arts Unit. 
+	On one hand, this is equivalent to using the Originium within one's body for casting Arts, which is likely to exacerbate one's Oripathy. On the other hand, mildly infected individuals like Jackie aren't able to channel much energy for Arts. 
+	For this reason, even Infected Casters often prefer to cast Arts through an Arts Unit whenever possible. Similarly, Rhodes Island provides an Arts Unit to every Caster operator. 
+	——In fact, the Engineering Department is very passionate about designing Arts Units of all shapes and sizes. One of their favorite pastimes is developing 'Arts Units' that look nothing like conventional units— and often don't work at all. 
+	The Arts Unit that hangs at Jackie's waist, gun-type Arts Unit PT-29, is the pride of the Engineering Department. 
+	Regrettably, even though Jackie applied for such an Arts Unit, it is only due to a habit formed while serving as an auxiliary police officer. Jackie herself is incredibly uninterested in the subject of Arts and her scores are very disappointing. Because of this, this Arts Unit is mostly an accessory to this day.
+
+	파일 자료 2 :
+	    다들 알다시피, 이 세상의 감염자 대부분은 아츠 유닛에 의존하지 않고도 아츠를 시전할 수 있다.
+	    하지만 이는 자신 체내에 있는 오리지늄을 이용하는 방식으로, 광석병의 악화를 가속 시킬 가능성이 높은데다, 재키와 같은 가벼운 감염 증상을 보이는 감염자의 경우엔 운용할 수 있는 오리지늄 에너지 자체가 매우 적다.
+	    그렇기에 가능하다면 감염자 캐스터들도 아츠 유닛을 통해 아츠를 시전하는 방식을 선호하며, 로도스 아일랜드는 모든 캐스터 오퍼레이터에게 아츠 유닛을 보급하고 있다.
+	
+	        엔지니어링부의 엔지니어들은 온갖 특이한 아츠 유닛을 연구개발하는데 굉장한 열정을 보이고 있다. 이들의 평소 오락거리 중 하나는 바로 겉으로만 봐서는 전혀 티가 나지 않는 아츠 유닛을 만드는 것인데, 늘 만들고 난 후에야 해당 제품이 아츠 유닛으로써 제대로 사용될 수 없다는 사실을 알아채곤 한다.
+	    재키의 허리에 장착된 것이 바로 엔지니어링부의 역작, 모델 넘버 PT-29의 총기 형태 아츠 유닛이다.
+	    다만 매우 유감스러운 점은, 비록 재키가 이런 아츠 유닛을 신청하긴 했지만, 이는 그저 보조 경찰 시절의 습관이었을 뿐, 정작 그녀 본인은 아츠 수업에 아무런 흥미가 없는 데다 성적마저 엉망이라는 것이다. 이러한 이유로, 지금 이 아츠 유닛은 그저 액세서리로 사용될 때가 더 많은 상황이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	据杰克所说，她母亲在生她的时候难产而死，因此她是被父亲一手带大的。而且，她非常崇拜她的父亲。
+	她总是不厌其烦地向其他人讲述她的父亲作为警察多有么能干，帮助了多少人，获得了怎样的荣誉等等，以至于有些和她同队的干员甚至都要能全文背诵了。
+	虽然她的故事中多少有一些夸张成分，但至少，从亲自送成为感染者的女儿前来罗德岛，而且在舰内短暂居住的时间里也没有表现出对其他感染者的反感，甚至在部分了解罗德岛作为医药公司之外的一面后同意女儿加入罗德岛这些事情来看，他至少不是一个对感染者有巨大偏见的人，即使他只是懂得忍耐，这在非感染者中也已经是非常难得的事情。
+	而杰克日常生活中表现出的活泼以及良好教养，想来也是其父教育得当的结果。
+	这样看来，她的父亲确实是一位值得尊敬的好警察，同时也是一位好父亲。
+
+	第三資料 :
+	ジャッキーによると、母親は彼女を産む時に難産で亡くなったため、父親によって育てられたという。そして、彼女は父親を非常に崇拝している。
+	彼女は父親がいかに警察官として有能なのか、どれほどの人々を助けたのか、どのような表彰を受けたのかについて何度でも飽きることなく繰り返し話す。彼女と同じ隊にいるオペレーターは、もうほぼ暗唱できそうなほどである。
+	彼女の語りには多少の誇張はあるのだろうが、少なくとも、自ら感染者となった娘をロドスに送り届けたこと、艦内でしばらく滞在した際に他の感染者へ反感を示さなかったこと、更にはロドスの製薬会社としての一面以外の姿も垣間見た上で、なお娘のロドス加入に同意したことなどを見る限り、ジャッキーの父親は感染者に対して大きな偏見を抱いているわけではないことがわかる。たとえそれが単に我慢の結果だとしても、それができたこと自体、非感染者の中でもなかなか珍しいのだ。
+	また、ジャッキーの日常生活で見せる活発さや十分な教養も、父親の教育の賜物だろう。
+	これらを顧みれば、ジャッキーの父親は確かに尊敬に値する良い警察官であり、良い父親なのだろう。
+
+	Archive File 3 :
+	According to Jackie, her mother passed away from complications during her birth and she was single-handedly raised by her father. Jackie greatly reveres her father. 
+	She will happily describe in great detail how amazing of a policeman her father is, how many people he's helped and what accolades he's received. Some of her teammates can even recite her entire speech from beginning to end by heart now. 
+	Her story may be hyperbolic to some extent, but her father was still willing to bring his own infected daughter to Rhodes Island in person. Throughout his short stay in Rhodes Island, he never openly displayed any animosity towards the other Infected, and even remained agreeable to his daughter joining Rhodes Island after learning about some of Rhodes Island's more dubious activities. At the very least, he is not overly biased towards the Infected, even if he is just exercising self-restraint. That alone is already very rare amongst the non-Infected. 
+	Jackie's good manners and lively attitude in daily life is likely also a result of her father's teachings. 
+	From that perspective, her father is indeed a policeman worth respecting, and a good father.
+
+	파일 자료 3 :
+	    재키의 말에 따르면 그녀의 어머니는 그녀가 태어날 때 난산으로 사망했기에 쭉 홀아버지 밑에서 자랐다고 한다. 그래서인지 그녀는 아버지를 무척이나 존경하고 있다.
+	    재키는 늘 다른 사람들에게 자신의 아버지가 경찰로서 굉장히 유능하고, 얼마나 많은 사람들을 도왔으며, 어떤 명예를 얻었는지 등을 이야기하는 걸 즐기는데, 일부 같은 팀 오퍼레이터들은 이미 해당 내용을 통째로 외웠을 정도다.
+	    물론 그녀의 이야기에는 다소 과장된 부분이 있긴 하지만, 아버지가 직접 감염자가 된 딸을 로도스 아일랜드에 데려왔다는 점이나, 선내에 잠시 머무는 동안에도 다른 감염자에게 반감을 드러내지 않았다는 점, 심지어 로도스 아일랜드가 단순한 제약회사가 아니란 점을 알게 된 후에도 딸의 합류를 허락했다는 점으로 미루어 보아, 적어도 그녀의 아버지는 감염자에게 큰 편견이 없는 사람이라고 추측된다. 설령 그런 반감을 감추고 있었던 것이라 할지라도, 이는 비감염자 중에서도 매우 드문 경우에 속할 것이다.
+	    일상생활 속에서 재키가 보여주는 활발하고 교양 있는 모습은 아마도 그녀의 아버지가 가정교육을 훌륭히 시켜준 결과일 것이리라.
+	    그녀의 아버지는 확실히 존경할만한 훌륭한 경찰이자, 훌륭한 아버지다.
+
+———————————————————————————————
+
+	档案资料四 :
+	有的人即使成为了感染者，可能依然会痛恨感染者；而有的人即使没成为感染者，对感染者也没有那么大的敌意。
+	杰克就是这样的人。
+	或许是受到父亲的影响，杰克对感染者的看法从一开始就不像大部分人那样充满敌意。在克服了最初的恐惧后，她迅速接受了感染者这一身份。
+	而且，或许是从小就从家庭中汲取了足够爱情的原因，杰克拥有非常充沛的去爱他人的能力——这确实应当被称为一种能力，因为它是如此稀缺。而在来到罗德岛后，她的这种能力让她不仅和其他人成为了朋友，更让她找到了新的目标——帮助其他感染者。
+	不仅仅是治好自己的病，也要帮助其他病人，这对她来说似乎是理所当然的事。
+
+	第四資料 :
+	自らが感染者となっても彼らを憎む者がいれば、感染者にならずとも彼らに敵意を持たない者もいる。
+	ジャッキーは後者のタイプである。
+	父親の影響か、ジャッキーの感染者への態度は初めから他の大勢のように敵意に満ちたものではなかった。最初の恐怖を乗り越えれば、彼女はすぐに感染者という新たな身分を受け入れた。
+	さらに、幼い頃から十分な愛情を家庭で注がれたためか、ジャッキーは他人を愛する能力に長けている――それはあまりの希少さゆえに、確かに「能力」と呼ばれるべきステータスである。ロドスに入ってから、その能力ですぐに多くの友達を作れただけではなく、他の感染者を助けるという新しい目標を見つけることにも役立った。
+	自分の病気を治すだけでなく、他の患者も助ける。彼女にとっては至極当たり前のことのようだ。
+
+	Archive File 4 :
+	Some people hold on to their hatred of the Infected even when they've become Infected themselves. Contrarily, some never hold much enmity towards the Infected, even while they're still uninfected. 
+	Jackie is one of those people. 
+	Perhaps as a result of her father's teachings, Jackie has never treated the Infected with hostility, unlike most other people. After overcoming her initial horror, she was able to quickly come to terms with her new identity as an Infected. 
+	It is possible that since she was showered in love from a young age, Jackie has a great capacity for love towards others——This can be considered a legitimate ability, as rare as it is. After coming to Rhodes Island, not only did this ability allow her to befriend others easily, it also gave her a new goal——To help the other Infected. 
+	Besides curing her Oripathy, she also wants to lend a hand to the other Infected. To her, it is only natural to do so.
+
+	파일 자료 4 :
+	    누군가는 감염자가 되더라도 여전히 감염자를 미워하기도 한다. 그리고 누군가는 감염자가 아니더라도 감염자에게 큰 적의를 보이지 않는다. 재키가 바로 그런 사람이다.
+	    아버지의 영향인지는 모르겠으나, 감염자에 대한 재키의 시각은 처음부터 대부분의 사람들과 달리 적대적이지 않았다. 감염 직후 찾아오는 두려움을 극복한 후, 그녀는 감염자라는 자신의 신분을 빠르게 받아들였다.
+	    그리고 어릴 때부터 가정에서 충분한 사랑을 받은 탓인지, 재키는 타인을 사랑하는 능력이 굉장히 뛰어났다. 타인을 사랑하는 것 역시 아무나 할 수 있는 건 아니기에, 이것도 확실히 능력의 일종으로 보아야 할 것이다. 로도스 아일랜드에 도착한 후, 재키의 이런 능력은 친구를 사귀는 것에 그치지 않고, 그녀로 하여금 다른 감염자를 돕겠다는 새로운 목표를 찾게 해주었다.
+	    자신의 병을 고치는 것뿐만 아니라 다른 환자들도 도와줘야 한다는 것, 그녀에겐 이것이 무척이나 당연한 것처럼 여겨졌다.
+
+———————————————————————————————
+
+	晋升资料 :
+	我们遇到的事情，遇到的人，有的时候会让我对未来忧心忡忡，担心我们的努力不会让它变得更好。
+	但看到杰克这样的年轻人，看到她身上的纯粹，善良，朝气蓬勃，又让我坚定了最初的想法：我还有用，我要让这样的年轻人能够学到更多的知识，更好地认识这片大地，然后去让这片大地变得更好。
+	——格里克老师于杰克中等常识课毕业时评语
+
+	昇進資料 :
+	出会う事柄や人間は、時には我々に未来に対して不安を抱かせ、努力があっても少しも良くならないのではないかと心配させることがある。
+	だが、ジャッキーのような若者との出会い、彼女が持つ純粋さ、善良さ、そして活力に触れたことは、私にもう一度自分の初心を振り返らせた。そして改めて切に願うのだ。そう、私にはまだできることがある。このような若者により多くの知識を伝授し、よりこの大地のことを知り、それをより良いものにできるように導くことだ。
+	――ギャリック先生、ジャッキーの中等常識課程終了時の評価より
+
+	Promotion File :
+	The things we encounter and the people we meet often leave me with a sense of foreboding, afraid that our efforts towards a brighter future are all for naught. 
+	However, whenever I see a youngster like Jackie brimming with purity, kindness and vigor, I am reminded of my conviction: To guide these youngsters along the path of learning, so that they may gain more knowledge of the world, and help make it a better place. 
+	——Instructor Guericke's remarks towards Jackie in her Intermediate General Studies class
+
+	승진 자료 :
+	    우리는 때때로, 겪게 되는 사건이나 만나게 되는 사람들로 인해 미래에 대해 걱정하기도 하고, 밝은 미래를 만들고자 하는 우리의 노력이 헛되지 않을까 걱정하기도 합니다.
+	    하지만 재키 같은 젊은이의 몸에서 뿜어져 나오는 순수함과 선량함, 씩씩함을 보게 되면, 저는 지난날에 품었던 초심을 다시 떠올리게 됩니다. “저는 아직 쓸모 있고, 이런 젊은이들이 더 많은 지식을 쌓고, 이 세상을 보다 더 잘 이해할 수 있도록 도와, 궁극적으론 이들이 더 나은 세상을 만들 수 있게 할 것입니다.”
+	——재키가 중등 상식 과정을 졸업할 당시 괴리케 선생이 남긴 말

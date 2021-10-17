@@ -1,11 +1,17 @@
 ID:
 	char_199_yak
 
-干员代号\Name:
+CV:
 	角峰
 	マッターホルン
 	Matterhorn
 	마터호른
+
+干员代号\Name:
+	武内骏辅
+	武内駿輔
+	Shunsuke Takeuchi
+	타케우치 슌스케
 
 招聘合同\Character Usage:
 	喀兰贸易公司卫士角峰，将作为重装干员为您提供服务。
@@ -43,177 +49,329 @@ ID:
 	내한 체질
 
 语音\Voices:
-	您的货物我已经搬过去了。举手之劳，别客气。
 	お荷物でしたらそちらに運んでおきました。大したことではありませんので、お気になさらないでください。
 	I've moved your goods to where you need them. No worries, they weren't heavy.
 	짐이라면 그쪽으로 옮겨두었습니다. 별것 아니니 신경 쓰지 마십시오.
 
-	盾牌，就是守护。
 	この盾こそ、皆を守る砦なのです。
 	The shield is a symbol of a steadfast guardian.
 	이 방패야말로, 모두를 지키는 요새입니다.
 
-	我从银灰少爷......不，老爷。我从老爷少年时就开始负责保护他。
 	俺は若君……いえ、我が主を幼少の頃からずっとお守りして参りました。
 	I've been in charge of protecting Young Master SilverAsh... I mean, Master SilverAsh... ever since he was young.
 	저는 도련님을… 아니, 주인님을 어렸을 때부터 지켜왔습니다.
 
-	谈论这个是不礼貌的，但恩雅小姐的遭遇......确实令人感到忧伤。她理应有更好的生活。
 	ぶしつけな話ですが、エンヤ様の御身に起きたことは……実にお気の毒でした。あの方にはもっと明るい未来があったはずなのに。
 	It's not exactly polite to discuss this behind her back, but... Miss Anya... she really deserves a better life.
 	무례한 이야기입니다만, 엔야 님의 몸에 일어난 일은… 정말 안타까웠습니다. 그분께는 더 밝은 미래가 기다리고 있었을 텐데… 
 
-	万一，这面盾有什么损坏的话，就去找那位叫火神的工匠修理，没错吧？
 	万が一、この盾が壊れるようなことがあれば、その際は「ヴァルカン」という方に修理を頼めばいいと伺っております。間違いございませんか？
 	I have heard that, if my shield were to ever get damaged, I should take it to Vulcan for repairs. This is true, yes?
 	만에 하나, 이 방패가 부서지게 되는 일이 생긴다면, 그때는 '벌컨' 이라는 분께 수리를 맡기면 된다고 들었습니다. 맞습니까?
 
-	意外，真是意外。那位铁匠的手艺真的不错。我得好好谢谢她才行。
 	意外、実に意外でした。あの鍛冶屋の腕は本物です。きちんとお礼をしないといけませんね。
 	That was unexpected. The craftsmaster's truly a skilled one. I gotta thank her properly.
 	예상외로군요, 정말로 예상 밖입니다. 그 대장장이의 실력은 진짜였습니다. 제대로 보답을 해야겠군요.
 
-	罗德岛的生活十分有趣，相比之下，在雪境度过的日子都比较平淡。
 	ロドスでの生活は刺激に満ちていますね。それに比べると、雪境の生活はずいぶん穏やかなものでした。
 	Life at Rhodes Island is fun. The Snow Realm is rather bland in comparison.
 	로도스 아일랜드의 생활은 자극으로 넘치는군요. 여기에 비하면 히라에서의 생활은 무척 평온한 편이었습니다.
 
-	虽然老爷派我来保护二小姐，老实说，我不认为二小姐是会坐在那里乖乖等人来保护她的类型。
 	我が主からはエンシア様の警護を命じられていますが、正直、おとなしく守られるような方とは思えませんね。
 	Master did send me to protect Ensia... but I honestly don't think she's the type who would sit there and ask to be protected.
 	제 주인님께선 엔시아 님의 경호를 명령하셨습니다만, 솔직히 얌전히 경호를 받을 분이란 생각은 들지 않는군요.
 
-	银灰老爷对你如此器重的原因，我多少也有点明白了。以后请把我也当作你的盾。
 	我が主、シルバーアッシュ様があなたのことを評価している理由が、俺にも少し理解できたような気がします。
 	I am slowly starting to understand why Master SilverAsh holds you in such high regard.
 	제 주인님, 실버애쉬 님께서 당신을 높이 평가하고 있는 이유를, 저도 이해하게 된 것 같습니다.
 
-	有时候也会忽然想念起雪境的生活。
 	時々、雪境での生活が恋しくなりますね。
 	Sometimes, I start missing my life in the Snow Realm all of a sudden.
 	가끔은 히라에서의 생활이 그리워지네요.
 
-	同盟者，在此对您致以雪境之礼。我是银灰老爷此次派驻的护卫之一，代号为角峰。
 	我が主の盟友よ、あなたに雪境の祝福を。俺はシルバーアッシュ様をお守りする盾、マッターホルンと申します。
 	Ally, I salute you in true Snow Realm fashion. I am codename Matterhorn, one of the guards dispatched here by Master SilverAsh.
 	내 주인의 동맹이여, 당신에게 히라의 축복을. 저는 실버애쉬 님을 지키는 방패, 마터호른이라고 합니다.
 
-	感谢。
 	感謝します。
 	You have my gratitude.
 	감사합니다.
 
-	承蒙您的另眼相待，实在愧不敢当。
 	これほどのご期待を寄せていただけるとは、大変恐縮です。
 	Thanks for the approval. I truly do not deserve it.
 	이 정도로 많은 기대를 받을 수 있다니, 황송할 따름입니다.
 
-	即使这盾下一刻粉碎，我也绝不会退后半步。此举无关忠义，只是信念使然。
 	たとえこの盾が、今まさに砕け散ろうとしていても、俺は一歩たりとも退きません。忠誠心のためではなく、俺自身の信念を貫くために。
 	I will not step back, not even if this shield shatters the very next second. Not because of my loyalty, but because of my conviction.
 	설령 이 방패가 지금 당장 산산조각이 난다고 해도, 전 한 발자국도 물러서지 않겠습니다. 충성심 때문이 아니라, 제 스스로의 신념을 관철하기 위해… 
 
-	听从吩咐。
 	拝命します。
 	At your service.
 	분부 받들겠습니다.
 
-	不敢当。
 	恐れ入ります。
 	I am honored.
 	황송합니다.
 
-	各位，由我护卫。
 	全員、俺が守ってみせる。
 	I shall protect the team.
 	전원, 내가 지켜내겠다.
 
-	这是有准备的开始。
 	準備は整っています。
 	My preparations are complete.
 	준비는 다 해놨습니다.
 
-	我可以担当先锋。
 	俺が先駆けとなりましょう。
 	I shall be your vanguard.
 	제가 선봉에 서죠.
 
-	我的盾准备好了。
 	この盾、いつでもいけます。
 	My shield is ready.
 	이 방패, 언제든지 쓸 수 있습니다.
 
-	哼。
 	ふん。
 	Hah!
 	흠.
 
-	喝！
 	はーっ！
 	Hooaahh!
 	하앗!
 
-	自讨苦吃。
 	因果応報だ。
 	Retribution!
 	인과응보다.
 
-	这不止是力量而已。
 	力押しだけと思うな。
 	I'm not here just for show!
 	힘만으로 밀어붙인다고 생각하지 마라.
 
-	有此信念，便能化身鬼神！
 	信念を貫くためならば、鬼神にでもなってやる！
 	In order to remain loyal, I will become a demon if necessary!
 	신념을 관철하기 위해서라면, 귀신이라도 되어주마!
 
-	你的觉悟根本不够！
 	覚悟が足りん！
 	You lack discipline!
 	각오가 부족하다!
 
-	还没有发挥出百分之百的力量！
 	まだ全力ではありません。これからです！
 	I haven't even shown my true colors yet.
 	아직 전력을 다하진 않았습니다. 이제부터 입니다!
 
-	真是不痛不痒的进攻。
 	痛くも痒くもない攻撃でしたね。
 	Their attacks feel like scratches on the surface to me.
 	아프지도 간지럽지도 않은 공격이었군요.
 
-	下次一定会为您献上完美的胜利。
 	次こそ、完璧な勝利を捧げます。
 	I promise I'll pull off a perfect victory next time! For your sake!
 	다음에야말로, 완벽한 승리를 바치겠습니다.
 
-	不该如此轻视敌人的，这是代价。
 	油断の代償が、このざまか……。
 	So this is the price one pays for negligence...!
 	방심한 대가가, 이 꼴이란 말인가… 
 
-	真是不错的房间，装修讲究，气氛祥和。
 	良い部屋ですね。インテリアにこだわりを感じます。雰囲気も穏やかでとても居心地が良いです。
 	Very nice room, this one. Furnished tastefully and has a peaceful atmosphere.
 	좋은 방이군요. 인테리어에도 신경을 쓴 게 느껴집니다. 분위기도 차분해서 마음이 놓이는군요.
 
-	嗯。
 	はい。
 	Mhmm.
 	예.
 
-	这是我的拿手菜，味道怎么样。
 	俺の得意料理です。いかがでしょうか。
 	This is my signature dish. How do you like it?
 	제가 잘하는 요리입니다. 어떠십니까?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	您好，博士。
 	こんにちは、ドクター。
 	Good day, Doctor.
 	안녕하십니까, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】角峰
+	【性别】男
+	【战斗经验】六年
+	【出身地】谢拉格
+	【生日】5月19日
+	【种族】丰蹄
+	【身高】182cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】マッターホルン
+	【性別】男
+	【戦闘経験】六年
+	【出身地】イェラグ
+	【誕生日】5月19日
+	【種族】フォルテ
+	【身長】182cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Matterhorn
+	[Gender] Male
+	[Combat Experience] 6 years
+	[Place of Birth] Kjerag
+	[Date of Birth] May 19
+	[Race] Forte
+	[Height] 182cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 마터호른
+	[성별] 남
+	[전투 경험] 6년
+	[출신지] 쉐라그
+	[생일] 5월 19일
+	[종족] 포르테
+	[신장] 182cm 
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】普通 
+	【生理耐受】优良 
+	【战术规划】标准 
+	【战斗技巧】标准 
+	【源石技艺适应性】缺陷
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】優秀
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】欠落
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Normal 
+	[Physical Resilience] Excellent 
+	[Tactical Acumen] Standard 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Flawed
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 우수
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 부족
+
+———————————————————————————————
+
+	客观履历 :
+	谢拉格出身，喀兰贸易公司成员。作为喀兰贸易公司与罗德岛合作协定的一部分，以外派人员身份参与罗德岛任务。
+
+	個人履歴 :
+	イェラグ出身でカランド貿易会社の社員。カランド貿易会社とロドスの業務提携の一環として、派遣社員の仕事の他、ロドスの任務にも参加する。
+
+	Profile :
+	A member of the Karlan Trade Co. LTD born in Kjerag. He is part of the cooperation agreement between the Karlan Commercial Co. and Rhodes Island, but he also helps carry out missions for the latter as well.
+
+	프로필 :
+	    쉐라그 출신, 카란 무역회사의 일원이다. 카란 무역회사와 로도스 아일랜드 간의 협약에 따라, 현재 파견 인력으로서 로도스 아일랜드의 임무에 참여하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0% 
+	干员角峰没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L 
+	干员角峰甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.12u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected.
+	
+	[Cell-Originium Fusion Rate] 0% 
+	Operator shows no signs of infection at this time.
+	
+	[Blood Crystal Density] 0.12u/L 
+	This Operator has rarely come into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현 단계로선 광석병 비감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 마터호른으로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 마터호른은 오리지늄과의 접촉 횟수가 매우 적음.
+
+———————————————————————————————
+
+	档案资料一 :
+	角峰从小就是被当做银灰家侍卫来训练，他的父亲，祖父，都是银灰家荣耀的近卫，他自然也以此作为目标，不过，和他父亲那时候的全军事训练不同，他能有机会学习一些其他的东西，几乎是下意识的，他选择了厨艺。
+
+	第一資料 :
+	マッターホルンは幼い頃からシルバーアッシュ家の護衛としての訓練を受けており、彼の父や祖父も代々シルバーアッシュ家に護衛として仕えていた。彼も自然にそれを目標としていたが、彼の父の頃の、軍事訓練が全てだった時代とは違い、彼には他の事を学ぶ機会が与えられた。そして彼は、直感的に調理を学ぶことにした。
+
+	Archive File 1 :
+	Since he was young, Matterhorn was trained to be SilverAsh's bodyguard. His father and grandfather were honorable guards for SilverAsh's family. Naturally, this became his goal, as well. However, unlike military training during his father's time, he still had the opportunity to study other subjects. Almost subconsciously, he chose cooking.
+
+	파일 자료 1 :
+	    마터호른은 어릴 적부터 실버애쉬 가문의 호위로서 훈련을 받았다. 그의 아버지와 할아버지 모두 실버애쉬 가문의 영예로운 호위무사였기에, 그 또한 자연스레 이를 목표로 하게 되었다. 다만 군사 훈련에만 매진하는 자신의 아버지 때와는 달리 마터호른은 다른 방면의 지식도 배울 기회가 있었고, 그는 무의식적으로 요리를 택했다.
+
+———————————————————————————————
+
+	档案资料二 :
+	和物产丰富的外国相比，谢拉格的可食用动植物品种一双手就能数过来，即使是银灰这样富裕的家族，平常也只是粗茶淡饭。不过在角峰开始掌勺后，一切都变得不太一样了。他在厨艺上的造诣令人目瞪口呆，用着谢拉格的寥寥食材，却能做出本地人完全没有尝过的丰盛美食。难怪谢拉格的政客们从前去议事厅开会，现在却只想着往银灰家会客厅跑。美食的力量，还真是恐怖。
+
+	第二資料 :
+	物資が豊富にある外国に比べ、イェラグの食べられる動植物の種類は数えられる程しかない。富裕層のシルバーアッシュ家であっても、普段の食事は粗食であった。しかし、マッターホルンが調理を受け持つようになると、全てが一変した。彼の調理への造詣の深さは目を見張るものがあり、イェラグの質素な食材が、地元の人間でも食べたことが無いような豪華なごちそうへと生まれ変わった。イェラグの政治家達が以前は議事堂でパーティをしていたが、現在はシルバーアッシュ家の客間に行きたいと思うようになったのも頷ける。美食の力は恐ろしいものだ。
+
+	Archive File 2 :
+	Compared to foreign nations that are rich in resources, Kjerag has very few edible varieties of plants and animals. Even a wealthy family like SilverAsh's usually only eats plain meals. However, once Matterhorn became a cook, everything changed. His mastery of the art of cooking is awe-inspiring. With just a handful of Kjerag ingredients, he can craft culinary delicacies untasted by native Kjerags. It's no wonder that the politicians of Kjerag used to hold meetings at the government's reception hall, but now they only want to meet at SilverAsh's home. The power of food is truly something to behold.
+
+	파일 자료 2 :
+	    물적 자원이 풍부한 다른 나라와는 달리 쉐라그에선 식용 가능한 동식물 품종의 숫자가 열 손가락에 꼽을 수 있을 정도로 적었기에, 실버애쉬처럼 부유한 집안에서도 평상시에는 늘 소박한 음식들로 끼니를 때웠다. 하지만 마터호른이 주방을 담당하면서 부터 모든 것이 많이 달라졌다. 마터호른의 요리 솜씨는 보는 사람의 두 눈을 휘둥그레지게 만들 정도였는데, 그는 변변치 않은 쉐라그의 식재료들을 활용해 현지인들이 전혀 맛 보지 못했던 풍성한 만찬을 만들어냈다. 의사당에서 회의를 열었던 쉐라그의 정치인들이 실버애쉬 저택의 응접실에서 회의를 열고 싶어할 정도로 말이다. 미식의 힘이란 이렇게나 무서운 것이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	来到罗德岛后，角峰的战斗频率与强度都上升了不少，防具，特别是盾牌时常会需要修补，角峰懂得一些战时的简单修补方法，但彻底的维修，还是需要由专业匠人代劳。经人推荐，角峰找到了火神。惊异于对方的手艺，两人迅速达成了长期合作关系：一方维护装备，一方提供报酬，闲暇时交换菜谱，偶尔再来场对决一饱口福。所谓知音，便是如此吧。
+
+	第三資料 :
+	ロドスに来てから、マッターホルンの戦闘の頻度と強さはますます上がった。防具は、特に盾が常に修理を必要とするほどだ。マッターホルンは戦っている最中の簡単な補修方法は会得しているが、徹底した修理となると、専門の匠にやってもらう必要がある。人に勧められ、マッターホルンが探し出したのがヴァルカンだ。相手の技術に驚き、2人はすぐさま長期にわたる次のような協力関係を築いた。一方は装備をメンテナンスし、一方は報酬を提供する。暇な時にはレシピを交換し、たまに美食対決をしつつ、満足のいくまで美味しいものを食べる。知己とはこういう者をいうのだろう。
+
+	Archive File 3 :
+	After coming to Rhodes Island, Matterhorn's combat frequency and intensity have increased substantially. His equipment, especially his shield, are in constant need of repair. Matterhorn knows some ways to perform simple repairs in the heat of battle, but thorough maintenance requires the skills of an artisan. Upon being given a recommendation, Matterhorn met Vulcan. Surprised by each other's abilities, they quickly established a long-term relationship: Vulcan maintains Matterhorn's equipment while Matterhorn provides renumeration. When they have free time, they exchange culinary recipes and occasionally share meals together. They are a good example of what close friends should be.
+
+	파일 자료 3 :
+	    로도스 아일랜드에 온 뒤로 마터호른의 전투 빈도와 강도가 모두 적잖이 상승하다 보니, 방어구, 특히 방패는 자주 손을 봐야 했다. 간단한 수리법 정도는 마터호른도 알고 있었지만, 철저한 수리를 위해서는 역시 장인에게 맡겨야 했기에 마터호른은 벌컨을 소개받았다. 서로의 상대방의 솜씨를 경이롭게 여긴 둘은 알게 된지 얼마 되지 않아 장기적인 협력 관계를 맺을 수 있었다. 한 쪽은 장비를 수리하고, 한 쪽은 보수를 지급했으며, 시간적 여유가 있을 때면 요리 레시피를 교환하고, 가끔씩은 요리 대결을 펼쳐 서로 맛있는 음식을 배불리 먹을 수 있었다. 친구란 바로 이런게 아닐까.
+
+———————————————————————————————
+
+	档案资料四 :
+	角峰的祖上出身于谢拉格北部，那里环境恶劣，人们终日与自然抗争。为了让他人更好地生存，所有北谢拉格人一旦出战即视自己为死者。正是这份信念，将他们，还有像角峰这样的后代，塑造成了战场上最为勇猛的战士。
+
+	第四資料 :
+	マッターホルンの祖先はイェラグ北部の出身である。イェラグ北部は環境が過酷で、人々はいつも自然を相手に戦っていた。他の人がより良く生きていけるようにと、北イェラグの人々は皆、出撃する以上は自分を死んだものとみなしていた。この信念こそが彼らの本質であり、マッターホルンのような後の世代でも戦場で最も勇猛な戦士を作り上げている。
+
+	Archive File 4 :
+	Matterhorn's ancestors were born in the norther region of Kjerag where the environment is harsh and people fight against nature day after day. To ensure the survival of the others, when northern Kjerags go out to fight, they are considered dead. This conviction has resulted in future generations of brave warriors like Matterhorn.
+
+	파일 자료 4 :
+	    마터호른의 조상은 환경이 매우 열악한 쉐라그 북부 출신인데, 이곳 사람들은 온종일 생존을 위해 자연과 맞서야 했다. 다른 사람이 살아남을 수 있도록, 모든 쉐라그 북부인들은 매번 전장에 나갈 때 마다 자신은 이미 죽은 목숨이라 여기며 전투에 임했다. 이런 신념은 마터호른의 조상들과 그 후예들이 전장에서 용맹한 전사로 거듭날 수 있도록 만들었다.

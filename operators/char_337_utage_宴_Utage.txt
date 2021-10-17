@@ -1,11 +1,17 @@
 ID:
 	char_337_utage
 
-干员代号\Name:
+CV:
 	宴
 	ウタゲ
 	Utage
 	우타게
+
+干员代号\Name:
+	吉冈茉祐
+	吉岡茉祐
+	Mayu Yoshioka
+	요시오카 마유
 
 招聘合同\Character Usage:
 	近卫干员宴，懒懒散散站上了前线。
@@ -22,7 +28,7 @@ ID:
 信物\Potential Item:
 	一个漆黑的盒子。里面是漆黑的盒子，漆黑的盒子，以及......美甲套装？！
 	真っ黒なケース。中を開けてみても真っ黒なケース、その中を開けても開けても真っ黒なケースばかり……と思っていたらネイルケアセット！？
-	A black box. Inside it is another black box. Inside that is another black box. Inside that is… a manicure set?!
+	A black box. Inside it is another black box. Inside that is another black box. Inside that is... a manicure set?!
 	새까만 상자. 안에는 새까만 상자와, 새까만 상자와, 그리고…… 네일아트세트가?!
 
 天赋\Talents:
@@ -43,177 +49,406 @@ ID:
 	낙지참·파문
 
 语音\Voices:
-	博士，准备好工作了吗，不许说没好哦。来，3，2，1，开工！
 	ドクター、仕事の準備はいい？まだとは言わせないからね。よし、三、二、一、スタート！
 	Doctor, ready to get to work? I won't take no for an answer! C'mon! 3, 2, 1, start!
 	박사, 일 준비는 됐어? 아직이라고는 하지 마. 좋아, 3, 2, 1, 스타트!
 
-	指甲可是女孩子的魅力点之一，不好好保养怎么行。
 	ネイルは女の子のチャームポイントの一つなんだから、ちゃんとケアしないとね。
 	Nails are part of a girl's appeal. Gotta take care of them properly.
 	네일은 여자들의 매력 포인트 중 하나니까 제대로 관리해야 해.
 
-	为什么会叫宴？没什么复杂的原因，就想天天像开宴会一样开心。只要心情好了，什么都会好起来。
 	ん？どうして「ウタゲ」なのかって？別に難しい理由はないよ、毎日宴みたいに楽しく過ごせたらなーって。心が晴れやかなら、何事もぜーんぶうまくいくんだから。
 	Why do I call myself Utage? Well, it's not that complicated. I just want to be happy as if we were throwing a party every night. As long as I'm in a good mood, everything else is gonna be okay.
 	응? 왜 연회라는 뜻의 '우타게'냐고? 딱히 복잡한 이유는 없어. 매일 파티처럼 즐겁게 지냈으면 좋겠다 싶었거든. 마음이 맑으면 무슨 일이든 다~ 잘 풀리잖아.
 
-	你看到了啊，博士。那就没办法了——陪我一起去把这张双人优惠券用掉吧。
 	ドクターに見られちゃったかー。しょうがない、じゃあ――このペア優待券、使うから付き合って。
 	You already saw it, Doctor? Well, that's too bad... C'mon, let's use up this two-person discount coupon.
 	박사한테 들켰나~ 어쩔 수 없지. 자…… 이 커플 우대권, 쓸 테니까 같이 가자.
 
-	患上了矿石病被送到这里来，妈妈怕我受欺负才把家传的狮子王送给我防身。结果嘛，欺负我的人没砍到，坏人倒是割了一茬又一茬。博士你呀，还真是挺会使唤人的。
 	鉱石病に感染しちゃってここに送られてきた時、いじめられないか心配だって母さんがこの家宝の「シシオウ」をくれてさ。結局いじめっ子はいなかったけど、悪い奴はザクザクいったね。ドクターってさ、結構人使い荒いよね。
 	When I contracted Oripathy and was to be sent here, my mother was afraid I'd be bullied, and gave me the family heirloom, Shishiou, to defend myself with. Didn't find any bullies, but I did manage to cut some pretty nasty folks. Doctor, you really know how to appeal to people.
 	광석병에 감염되어 여기로 보내졌을 때, 괴롭힘당할까 봐 걱정이라면서 엄마가 이 가보 '시시오'를 줬어. 결국 괴롭히는 사람은 없었지만, 나쁜 녀석은 서걱서걱해버렸지. 박사는 말이야, 사람을 꽤 부려 먹는 거 같아.
 
-	无论是谁，认真做事的时候都会变得很可怕吧。我是六人份的可怕？呃，有这么吓人吗......
 	どんな人でも、本気出す時はわりと怖い雰囲気になるよね。え、あたしの怖さは一人前どころか六人前？そんなに？ウソでしょ……
 	Everyone here gets pretty scary when they get serious. I'm as scary as six people combined? Am I really that terrifying...?
 	어떤 사람이든 제대로 할 때는 의외로 무서운 분위기가 되잖아. 뭐? 내 무서움은 한 사람분이 아니라 여섯 명 분이라고? 그렇게나? 그럴 리가……
 
-	明天帮我买十盒限量饼干棒吧，钱从我工资里预支就好。啊？已经预支完了？那......总之，拜托你了，博士，你一定能想到办法的！
 	ねぇ、明日限定発売のスティッククッキーを10箱お願い。お金は給料から引いといてくれればいいから。えー？もう残高ゼロ？じゃさ……とにかくお願い！ドクターならなんとかできるでしょー！
 	Help me pick up ten boxes of limited-edition cookie sticks tomorrow? Just take the money out of my account. Huh? Preorders are already sold out? Then... c'mon, you've gotta think of a way, Doctor! Please!
 	있잖아, 내일 한정 발매하는 스틱 쿠키 좀 열 상자 부탁할게. 돈은 월급에서 까면 되니까… 뭐어~? 이미 잔고가 텅텅 비었다고? 그럼…… 어쨌든 부탁해! 박사라면 어떻게든 할 수 있잖아~!
 
-	博士有时候敏锐得要命，有时候又像块木头一样，到底是为什么呢？啊，我懂了，是那个吧，《闺蜜悄悄话指南》之类的，对吧？不愧是博士呢。
 	ドクターってば、鋭いのか鈍いのかよくわかんないよね。なんでだろ？あーわかった、あれでしょ、『ガールズトーク大全』とか読んでたんじゃない？さっすがドクター～。
 	Doctor, you're razor-sharp some of the time and dull as a piece of wood at others. I don't get why. Oh, I see, right out of 'Flirting Guidebook,' huh? I'd expect nothing less from you, Doctor.
 	박사는 말이야, 예민한 건지 둔한 건지 잘 모르겠어. 왜지? 아~ 알았다, 그거네, 《걸즈 토크 대전》 같은 거 읽지 않았어? 역시 박사라니까~
 
-	太过依赖一个人不是件好事呢，不过，如果是博士的话......啊博士！不没什么我只是在胡思乱想，您您您找我有什么事吗！
 	誰かに頼りすぎるのはダメなんだよね。でもドクターになら……うわっ、ドクターいたの！？い、いやなんでもないよ、適当に考えて適当につぶやいてみただけだって。そ、それであたしになんか用？
 	It's not good to rely too much on any single person, but I'll make an exception for... Eek, Doctor! Oh it's nothing, I was just rambling to myself! D-d-did you need anything from me?
 	누군가한테 너무 의지하는 건 안 되겠지. 하지만 박사한테 라면…… 으앗 박사, 있었어?! 아, 아니 아무것도 아니야, 적당히 생각하다가 적당히 중얼거려 본 것뿐이라니까. 그, 그런데 나한테 무슨 일이야?
 
-	累了就睡吧，别想太多。
 	疲れたら寝ればいいよ、深く考えちゃダメ。
 	If you're tired, just go to bed. Not that complicated.
 	피곤하면 자면 돼. 깊게 생각하면 안 돼.
 
-	你好呀博士，我是刚当上干员没多久的宴，兴趣是......嗯，不用那么详细吗？那，以后就请您多多关照了哦。
 	こんちはードクター、あたしはウタゲ、オペレーターにはまだ成り立てほやほやだけどね。趣味は……え、そこまで言わなくていい？そっか、じゃあ今日からよろしくねー。
 	Hey, Doctor. I'm the Operator who just joined recently, Utage. My interests are... Oh, I don't need to go into the details? In that case, I look forward to working with you.
 	안녕~ 박사, 난 우타게라고 해. 이제 막 오퍼레이터가 된 따끈따끈한 신입이지만. 취미는…… 어? 거기까진 말하지 않아도 된다고? 그렇구나, 그럼 오늘부터 잘 부탁해.
 
-	放完了？
 	もう再生終わったの？
 	Is it over?
 	벌써 끝이야?
 
-	升职了的话，能不能少干些活呀。唉，不行吗，好吧......
 	昇進できたんだし、仕事減らしてもいいかな？ダメ？そっか……
 	Do I get to do less work if I get promoted? No dice? Oh well...
 	승진도 했으니까 일을 줄여도 되겠지? 안된다고? 그렇구나……
 
-	该动真格的了。让我们把讨厌的家伙，全部碾碎~
 	そろそろ本気出しますかぁ。嫌な奴らぜ～んぶ、潰しに行こ～。
 	It's time to move out. Let's crush those nasty folks~
 	슬슬 실력 발휘를 해볼까. 짜증 나는 녀석들 전~부 뭉개버리러 가자~
 
-	好喔，指挥就拜托各位了。
 	よーし、指揮はみんなに任せたよー。
 	All right everyone, I'll be counting on your orders!
 	좋~았어, 지휘는 모두에게 맡길게.
 
-	是队长啊......嗯？我？队长？
 	隊長ね……え？あたしが？隊長なの？
 	I'm the team leader? ...Eh? Me? Team leader?
 	팀장 말이지…… 어? 내가? 팀장이야?
 
-	出发。
 	出発だよ！
 	Let's go.
 	출발이야!
 
-	来吧，来吧，我等不及了。
 	キタキター。もう待ちくたびれたよ。
 	C'mon, c'mon! I can't wait any longer.
 	왔다, 왔다. 벌써 기다리다 지쳤다고.
 
-	嗯。
 	おっす。
 	Mhmm.
 	알았어.
 
-	需要我了吗？
 	あたしが必要だね？
 	Need me?
 	내가 필요하구나?
 
-	我开动了~
 	いっただきまーす。
 	Moving out~
 	잘 먹겠습니다~
 
-	哼哼。
 	ふふん～。
 	Hehe.
 	흐응~
 
-	切哪儿比较好呢。
 	どこ切ればいいのかな。
 	Who should I cut?
 	어디를 베면 좋을까.
 
-	捅得准就不会痛了。
 	イイとこ突いてれば痛くないからねー。
 	It won't hurt if I don't miss.
 	잘 찌르면 아프지 않거든~
 
-	不要的零件，就送给我吧。
 	いらないパーツあったらちょーだい。
 	Just send me the leftover parts.
 	필요 없는 부품이 있으면 줘.
 
-	你流泪的样子，还挺可爱的。
 	その泣き顔、結構かわいいじゃない。
 	You look rather cute when you're crying.
 	그 우는 얼굴, 꽤 귀엽잖아.
 
-	啊，发泄完了，真开心。博士，我们去吃可丽饼吧。
 	あーすっきりした。楽しかったなぁ。ドクター、クレープ食べに行こ？
 	Ahh, I'm finally done blowing off steam, how exciting. Doctor, let's get some crepes.
 	아~ 개운하다. 재밌었어. 박사, 크레이프 먹으러 갈래?
 
-	很尽兴哦，多谢款待~
 	いっぱい楽しませてくれてサンキュー。ごちそうさま～。
 	How exciting. Thanks for all the support~
 	잔뜩 즐겁게 해줘서 땡큐. 잘 먹었습니다~
 
-	剩下的几个家伙是专门为我而留的吗。那，我就不客气了。
 	あたしのためにわざわざあいつら残しといてくれたのー？じゃあ遠慮なくいただくねー。
 	You're saving the stragglers for me? Well, I'll dig right in.
 	날 위해 일부러 그 녀석들을 남겨두고 간 거야? 그럼 사양 않고 받을게~
 
-	别发呆了博士，快跑起来。
 	もうドクター、ボーッとしてないで走るよ！
 	Doctor, stop spacing out and start running.
 	정말이지… 박사, 멍하니 있지 말고 뛰어!
 
-	只要能随时买到新的杂志，住所怎么样其实无所谓的啦。
 	雑誌の最新号をいつでも買えるなら、住むところなんてどうだっていいんだよ。
 	As long as I can buy the new magazines, it doesn't really matter where I'm staying.
 	잡지 최신호를 아무 때나 살 수 있다면, 사는 곳 따윈 아무래도 상관없어.
 
-	嗯？
 	んん？
 	Hmm?
 	으응?
 
-	一起去唱k吗。
 	ねぇ、カラオケ行く～？
 	Let's go sing karaoke?
 	저기, 노래방 갈래~?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士。
 	おはよー、ドクター。
 	Good morning to you, Doctor.
 	좋은 아침~ 박사.
+
+干员档案\Background:
+	基础档案 :
+	【代号】宴
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】东国
+	【生日】4月4日 
+	【种族】不明
+	【身高】161cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】ウタゲ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】極東
+	【誕生日】4月4日
+	【種族】不明
+	【身長】161cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Utage
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Higashi
+	[Date of Birth] April 4
+	[Race] Unknown
+	[Height] 161cm
+	[Infection Status] 
+	Confirmed infected by medical examination.
+
+	기본정보 :
+	[코드네임] 우타게
+	[성별] 여
+	[전투경험] 없음
+	[출신지] 극동
+	[생일] 4월 4일
+	[종족] 불명
+	[신장] 161cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】普通
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】优良
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Normal
+	[Physical Resilience] Normal
+	[Tactical Acumen] Normal
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	从东国前来龙门游学的普通学生，被卷入感染者事件后患上了矿石病，后听从医师的建议来到罗德岛，经过评审成为了干员。
+	对矿石病看得很开，仍旧如同患病前那样生活，但在执行任务的时候，会显现出一种令人畏惧的态度。
+
+	個人履歴 :
+	極東から龍門にやって来た留学生。感染者事件に巻き込まれ、鉱石病に感染した。医師の助言に従いロドスを訪ね、審査とテストを経てオペレーターとなった。
+	鉱石病に対しては達観しており、感染する前と変わらない生活をしている。だが任務に臨む際は、人を怯えさせるような態度を見せることがある。
+
+	Profile :
+	An ordinary student from Higashi who came to study in Lungmen, Utage contracted Oripathy after getting pulled into an incident with Infected persons. After coming to Rhodes Island per physician's advice, Utage passed the evaluation to become an Operator.
+	She is level-headed in her view of Oripathy, living life largely the same as before she became Infected. However, when she is working, she exhibits a terrifying demeanor.
+
+	프로필 :
+	    극동에서 용문으로 유학 온 평범한 학생으로, 감염자 사건에 휘말려 광석병에 감염되었다. 후에 의사의 제안에 따라, 로도스 아일랜드에서 심사를 거쳐 오퍼레이터가 되었다.
+	    광석병에 대해 별로 신경 쓰지 않고 있으며, 감염되기 전과 다름없는 생활을 하고 있지만, 임무를 수행할 때는 무서운 분위기를 풍기기도 한다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】2%
+	干员宴已被源石感染，体表无明显感染迹象。
+	
+	【血液源石结晶密度】0.18u/L
+	干员宴甚少接触源石，请继续保持。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】2%
+	源石による感染は認められているが、体表に明らかな痕跡は見られない。
+	
+	【血液中源石密度】0.18u/L
+	源石との接触は少ない。現状を維持すること。
+
+	Clinical Analysis :
+	Imaging tests reveal blurry outlines of this operator's internal organs, clouded with abnormal dark spots. Her circulatory system shows an abnormally high rate of Originium particulate matter, with other signs of Oripathy infection, we can confirm that the Operator is Infected. 
+	
+	[Cell-Originium Assimilation] 2%
+	Operator Utage is Infected, but has no external signs of infection.
+	
+	[Blood Originium-Crystal Density] 0.18u/L
+	Operator Utage rarely comes in contact with Originium. Please maintain that situation.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음. 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 2%
+	오퍼레이터 우타게는 이미 광석병에 감염됐으나, 체표면에 오리지늄의 흔적이 뚜렷하지 않다.
+	
+	[혈중 오리지늄 결정 밀도] 0.18u/L
+	오퍼레이터 우타게는 오리지늄 접촉이 매우 적으니 계속 유지하길 바람.
+
+———————————————————————————————
+
+	档案资料一 :
+	从东国来的留学生，爱吃，爱玩，喜欢追逐时尚。因为卷入事故而感染了矿石病，在医生的提议下辗转来到了罗德岛。起初准备为她安排了非战斗职位，但在测试中，看似对战斗一窍不通的她展现出了相当的天赋，测试干员经过讨论后，决定让她参加一部分的外勤任务。当然了，对她的主要安排还是会落在战斗以外的地方，例如人事或后勤部分，这些才是符合她年龄段的工作。
+
+	第一資料 :
+	食べること、遊ぶこと、そして流行を追いかけることが大好きな、極東からやってきた留学生。彼女は事故に巻き込まれ鉱石病に感染し、医師の助言でロドスにやって来た。当初は非戦闘の業務を任されたが、テストにおいて一見素人の彼女がかなりの戦闘力を見せたため、担当者たちによる議論の結果、一部の外勤任務に参加させることとなった。無論、あくまで業務のメインは、人事や後方支援など戦闘以外の仕事である。
+
+	Archive File 1 :
+	This exchange student from Higashi loves to eat, chases the latest fashion trends, and likes to have a good time. After contracting Oripathy after getting caught up in an incident, she came to Rhodes Island in accordance with her physician's advice. At first, a non-combat role was planned for her based upon her complete lack of combat experience, but during the evaluation, she demonstrated a considerable talent for fighting. After some discussion, the examiner decided to let her participate in some field missions. Of course, the bulk of her work will still be non-combat related, such as logistics or HR work more suitable for someone her age.
+
+	파일 자료 1 :
+	    극동에서 온 유학생. 먹는 것과 노는 것을 좋아하고, 그리고 유행을 좇는 것을 좋아한다. 사고에 휘말려 광석병에 감염되었으며, 의사의 제안에 따라 로도스 아일랜드에 오게 되었다. 처음에는 비전투 직군으로 배치하였으나, 전투에 대해 아무것도 모르는 줄 알았던 그녀가 테스트 도중 상당한 재능을 보여주었기에, 테스트를 담당한 오퍼레이터들은 상의 끝에 그녀를 외근 임무에 참가시키기로 결정했다. 물론, 기본적으로는 인사 업무나 보급 업무 등, 전투와 거리가 멀면서 그녀의 나이에 어울리는 업무에 주로 배치될 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	宴喜欢，也敢于尝试新鲜事物，时尚圈潮流不断，也与她喜好相合，宴自然会关注的多些。时间一长，就成为了这方面的小灵通，什么品牌要出新品，业内评价如何，她都能以最快速度获得资讯然后分享给周边感兴趣的干员。多亏了她，部分干员的品味获得了极大提升，只是，作为代价，钱包都瘪了。
+
+	第二資料 :
+	ウタゲは自ら好んで、そして積極的に新しいことへ挑戦する。ファッションのトレンドは変化しやすいが、彼女の興味はまさにそこにあり、自然と関心を寄せているようだ。次第に、彼女はファッションについての情報通となり、どのブランドが新製品を出すのか、業界でどのように評価されているのかといった情報をいち早く入手し、周りの興味を持つオペレーターたちに共有するようになった。おかげで一部のオペレーターのセンスは格段に良くなったが、代価として、財布が軽くなったのである。
+
+	Archive File 2 :
+	Utage revels in the challenge of new things. As fashion is constantly shifting and lines up with her interests, she naturally pays more attention to these things. Over time, she has become a bit of an authority. What company is gearing up to release a new product, and how does its prospects on the market look? She always has her finger on the pulse of new information, and is ready to share it with any nearby Operators who are interested. Thanks to her, the average fashionability of the Operators here has improved greatly, but their wallets have been proportionally flattened.
+
+	파일 자료 2 :
+	    우타게는 새로운 것에 도전하는 걸 좋아한다. 유행은 원래 돌고 도는 것이고, 유행을 좇는 건 그녀의 취향과도 부합하기에, 자연스럽게 그녀는 유행에 관심을 갖게 되었다. 시간이 흐르며 그녀는 어떤 브랜드가 신상품을 내놓으며, 업계 내의 평가가 어떤지, 누구보다 빠르게 정보를 얻은 후 이에 관심을 갖는 주변 오퍼레이터들에게 알려줄 수 있을 정도로 전문가가 되었다. 일부 오퍼레이터들은 이러한 그녀 덕분에 실제로 스타일이 굉장히 좋아졌다. 물론 그 대가로 지갑은 홀쭉해졌지만.
+
+———————————————————————————————
+
+	档案资料三 :
+	“不得不说，宴干员十分擅长伪装和控制自己的心理状态，常规的心理监测手段在她身上起不到半点用处。除了本人卓越的心理素质之外，我觉得，应该和她的种族有一定的关系。我们至今没有查到宴的对应种族，是的，所有东国干员都对宴的种族一无所知，除非她本人告知，不然我们要花费的精力可能会远超预计......等等，您是说，刀吗？嗯......从刀入手调查或许会是一个不错的角度，这条线追踪起来的确比其他方式有效不少。明白了，我这就和火神小姐取得联系，搜集到的信息会尽快录入资料库，然后呈交给您。”
+
+	第三資料 :
+	「ウタゲが自分の心理状態をカモフラージュし、制御するのが非常に得意だということを、我々は認めざるを得ません。従来のモニタリングの方法は彼女に通用しません。それは、本人の優れた心理的素質の他に、彼女の種族の特性に関連していると思われますが、彼女が具体的にどの種族に属するのかは未だに判明していません。はい、極東出身のオペレーターも全員、彼女の種族について何も知らないそうです。本人による説明がない限り、調査は予想以上に難航しそうです……え？彼女の刀、ですか？そうですね……確かに刀から調査するのは他の方法よりも効果的かもしれません。分かりました、すぐにヴァルカンさんに連絡します。こちらで集めた情報は一早くデータベースに入力した上で提示します。」
+
+	Archive File 3 :
+	I must note that Utage is very good at disguising and manipulating her mental state. As a result, conventional psychological monitoring methods are not reliable in her case. In addition to her strong psychological qualities, I also believe that her race has something to do with the phenomenon. The other Operators from Higashi have no insights as to her race, and unless she decides to disclose this information herself, we might have to commit a lot of effort into this question... Wait, you mean, her blade? Hmm.... perhaps there is a lot we can learn from her blade. This line of tracking may well be more successful than other alternatives. Understood, I'll get in touch with Vulcan. Once I have the information, I'll enter it into the database and make it available to you.
+
+	파일 자료 3 :
+	    오퍼레이터 우타게는 포커페이스와 마인드 컨트롤이 뛰어나다고밖에 할 수 없어요. 평범한 심리 테스트는 그녀에게 아무 쓸모가 없는걸요. 본인의 탁월한 심리적 소양 말고도, 제 생각에는 아마 그녀의 종족과도 어느 정도 연관이 있는 것 같아요. 지금까지 우린 우타게의 종족에 대해 알지 못했죠. 그래요, 극동 출신의 다른 오퍼레이터들도 우타게의 종족에 대해 잘 모르고요. 본인이 알려주지 않는다면, 예상을 훨씬 뛰어넘는 시간과 노력을… 잠깐만요, 칼이요? 음… 칼부터 조사해 보는 것도 어쩌면 괜찮은 방법이겠네요. 그 방법이 다른 방법보다 좋을 것 같아요. 알겠어요, 제가 벌컨 씨에게 연락할게요. 알아낸 정보는 즉시 자료 보관소에 기록해둔 후 당신께 전해드리죠.
+
+———————————————————————————————
+
+	档案资料四 :
+	“你回来啦，那件事搞定了？是嘛，最后还是没查到啊，嗯，也不意外......别，别捶我，我知道错了，快停手！”
+	“我清楚你也是一片好心，想让博士对每位干员知根知底。但，每个人都有自己的小秘密，对吧。举个例子，你绝对不想让所有人现在就知道自己柜子隔层里放着和女友求婚的戒指，是不是。唉，我怎么知道？这个嘛，啊，啊哈哈哈哈。”
+	“我们最重要的职责并非查清每个人的来龙去脉，而是确认一位干员是否值得信任，然后将其安排在合适的位置上，这样就足够了。干员宴值得博士，也值得我们信任，但她可能一辈子都不会让我们知道她的身世和秘密。至于博士那边，我想她会给出一个交代的——在某个合适的时间，合适的地点。”
+
+	第四資料 :
+	「戻ってきたのか。例の件は解決したか？そっか、結局何も掴めなかったのか。まあ予想はついてたけど……こらやめろ、叩くな！悪かったから、もうやめてくれ！ 」
+	「お前が親切心から調査したってのは分かってる。ドクターにオペレーターたちの全てを知ってもらいたい気持ちも分かる。でもな、誰にでも自分だけ秘密がある、そうだろ？お前だって、キャビネットの中に彼女へのプロポーズ用の指輪が入っているのを、いきなりみんなに知られるのは嫌だろ？ん？どうして俺がそれを知ってるって？そりゃまぁ、あはは……」
+	「俺たちの最も重要な責任は一人一人の全てを調べ尽くすことじゃない。オペレーターが信頼に足る者かを確認し、彼らを適切な位置に配置することができれば、それで十分さ。ウタゲはドクター、そして我々にとっても信頼できる奴であることに疑いようはないが、一生自分の生い立ちや秘密を明かすことはないだろう――まぁ、ドクターになら、いつか何かしら伝えられるかもしれないけどな。」
+
+	Archive File 4 :
+	'You're back? Did you get it done? I see. Still couldn't find anything, huh? Guess that's not unexpected... Hey, s-stop hitting me, it's my bad, so stop already!'
+	'I know you had good intentions and wanted the Doctor to get to know each Operator better. However, everyone has their own secrets, right? For example, you wouldn't want everyone to find out right now that you're planning to propose to your girlfriend and have an engagement ring in a compartment in your desk. Oh, how'd I find out? Well, uh, ahahaha.'
+	'What's important is not to air out every nitty gritty detail about an Operator's life, but rather to determine whether or not they are trustworthy, and assign them accordingly. That's already enough. Utage deserves the Doctor's trust, as well as ours, but she may never decide to trust us with her secrets. As for the Doctor, perhaps she will eventually open up, given the right time and place.
+
+	파일 자료 4 :
+	    "돌아왔구나, 그 일은 해결 됐어? 그래, 결국 못 알아냈구나. 아, 예상했던 대로야… 때, 때리지 마, 내가 잘못했어, 그만!"
+	    "나도 네가 좋은 뜻으로 모든 오퍼레이터들에 대한 내용을 박사에게 알려주려 한다는 거 잘 알아. 그래도 말야, 다들 자신만의 작은 비밀이 있는 법이잖아, 안 그래? 예를 들어, 네가 서랍 사이에 프로포즈 할 반지를 숨겨놓은 것처럼 말이야. 그렇지? 아, 어떻게 알았냐고? 그거야 뭐, 아하하하하."
+	    "우리에게 가장 중요한 임무는 모든 사람의 내력을 확실히 파악하는 게 아니야. 그 오퍼레이터가 믿을 만한 사람인지 알아보고, 그리고 그를 적절한 위치에 배치시키는 걸로 충분해. 오퍼레이터 우타게는 박사에게도, 그리고 우리에게도 믿을 만한 사람이야. 하지만 그녀는 평생 우리에게 자신의 신상과 비밀을 말해주지 않을 수도 있어. 그래도 박사에게는… 모르지. 언젠가 적절한 때와 장소가 주어진다면 말해 줄지도."
+
+———————————————————————————————
+
+	晋升记录 :
+	【匿名频道段落节选——宴篇】
+	“女孩子之间流行什么，问宴准没错。”
+	
+	“她很擅长营造轻松氛围呢。”
+	
+	“宴情报可灵通了，什么限量的东西一出来绝——对逃不过她的眼睛。哎呀，能和她合作真是太好了，赚了赚了。”
+	
+	“她刚刚是在，看，看着我吗，为什么我脊背凉凉的？”
+	
+	“我捉摸不透这个孩子到底在想什么。”
+	
+	“她挂上笑容的时候，那种气息，呵呵，有点意思。”
+	
+	“这只是装出来的哦~你想学吗，我可以教你。”
+
+	昇進記録 :
+	【匿名チャンネルチャットログ抜粋――ウタゲ編】
+	「女子の間で流行ってるものを知りたいなら、ウタゲに聞けば間違いないって。」
+	
+	「彼女は、雰囲気作りが得意ですね。」
+	
+	「ウタゲはマジ情強っす。限定品とか、絶っっっ対見逃さないから。いやー、彼女と一緒にやれてマジ儲け物っすわ。」
+	
+	「彼女はさっき、わ、私を見ていたんですか？何だか背筋がヒヤッとしますけど……」
+	
+	「あの子は一体何を考えているのか、私には理解できません。」
+	
+	「彼女が笑ってる時のあの雰囲気、ふふ、興味深いね。」
+	
+	「これはただのカモフラージュだよ～。やり方を知りたい？教えてあげてもいいよ。」
+
+	Promotion Record :
+	[Excerpts from an Encrypted Channel - Regarding Utage] 
+	'If you want to know what's 'in' with the chicks, then you've come to the right place.'
+	'She's really good at creating a laid-back atmosphere.'
+	
+	'She always has her finger on the pulse. Whenever something limited edition hits the market, she's on top of it right away. Being able to strike a business deal was super lucky.'
+	
+	'D-did she just give me an evil eye? I could feel shivers going down my spine...'
+	
+	'I can't figure out what that kid is thinking.'
+	
+	'When she smiles like that, yes, those vibes, now that's a bit interesting.'
+	
+	'That's just me faking it~ I don't mind teach you if you want to learn.'
+
+	승진 기록 :
+	[익명 채널 단락 발췌——우타게 편]
+	    "여자 아이들의 유행같은 건 우타게한테 물어보면 확실하지."
+	
+	"우타게? 분위기 메이커지."
+	
+	    "우타게는 정보가 굉장히 빨라, 한정 수량의 물건 같은 게 나와도 우타게의 눈을 피할 순 없지. 이야… 우타게랑 같이 일해서 정말 다행이야, 암암."
+	
+	    "방금 우타게가 나, 날 보고 있었나? 어째서 등골이 싸늘한 거지?"
+	
+	    "그 아이, 대체 무슨 생각을 하는지 영 알 수 없다니까."
+	
+	    "우타게가 웃고 있을 때 그 분위기, 후후… 나름 재밌지."
+	
+	    "이거 그냥 연기하는 거야~ 배우고 싶어? 가르쳐 줄 수도 있는데."

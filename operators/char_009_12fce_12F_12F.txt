@@ -1,11 +1,17 @@
 ID:
 	char_009_12fce
 
+CV:
+	12F
+	12F
+	12F
+	12F
+
 干员代号\Name:
-	12F
-	12F
-	12F
-	12F
+	佐藤拓也
+	佐藤拓也
+	Takuya Satō
+	사토 타쿠야
 
 招聘合同\Character Usage:
 	罗德岛术师干员12F，将用源石技艺为小队提供战术援助。
@@ -35,157 +41,323 @@ ID:
 	
 
 语音\Voices:
-	抱歉，我能做的事情很有限，也不太会说话，但作为助理感到很荣幸，如果我能帮到博士阁下那就太好了。
 	申し訳ありません、ドクター殿。私はこの通り力が弱いうえ、口が達者なわけでもありませんが、それでもアシスタントを務めさせていただける事は至上の喜びです。是非お手伝いさせてください。
 	Forgive me, Doctor... There are limits to what I can do, including in conversation... but I'm honored to be your assistant. I look forward to helping you with your work.
 	죄송합니다, 박사님. 저는 보시다시피 힘도 약하고 언변도 뛰어나지 않지만, 그럼에도 저를 어시스턴트로 삼아 주셔서 영광스럽기 그지없습니다. 기꺼이 도움을 드리겠습니다.
 
-	博士阁下，一切不愉快的事情都会过去，大家都是相信您的到来能让一切变得更好，才愿意追随您的，请相信自己。
 	ドクター殿。嫌なことはいずれ過ぎ去っていくものです。みなさんはドクター殿を信頼してついてきているのですから、もっと自信をお持ちください。
 	Doctor, time heals all wounds. Please have more confidence in yourself. Your Operators have chosen to follow you because we believe that you will bring positive change.
 	박사님, 괴로운 일도 언젠가는 끝나는 법입니다. 다들 박사님을 믿고 따르고 있으니 좀 더 자신감을 가져주십시오.
 
-	很多感染者来到罗德岛生活，并没有怀着多么远大的目标，他们更希望是成为这里的一份子。在这个不再接受他们的世界里活下去，这样下去可不行......
 	感染者が普通の生活を営むことを、この世界は許してくれません。夢や希望を忘れてしまった彼らは、ロドスの一員となって生きていくことを願うしかないのです。こんな世界、間違っています……。
 	Many Infected have relocated to Rhodes Island... not because they have any particular goals to achieve, but simply because they want a place to call home. The world outside no longer accepts them, after all...
 	감염자가 평범한 삶을 누리는 것을, 이 세상은 허락해주지 않습니다. 꿈도 희망도 잊어버린 그들은 로도스 아일랜드의 일원으로 살아가길 원할 수밖에 없지요. 이 세상은 뭔가 잘못되었습니다… 
 
-	巨枭她虽然对人不是很友好，不过她并没有什么恶意，希望您可以多多包涵。
 	アウルはあんな態度ですが、悪気はないはずです。大目に見てやっていただけませんか。
 	Owl may not seem very friendly, but she's got a good heart. Don't worry about her.
 	아울은 태도가 저렇기는 해도 나쁜 의도는 없을 겁니다. 아무쪼록 넓은 마음으로 봐주세요.
 
-	12F？那是我来到这个世界的日子。博士你就把这天当作是我的生日吧。
 	12Fという名前の由来ですか？それは、私がこの世界に来た日……。そうですね、私の誕生日ということにしましょう、ドクター殿。
 	12F? That was the day I came to this world. You could say it's my birthday.
 	제 이름이 12F인 이유가 궁금하십니까? 제가 이 세계에 온 날… 그렇죠, 그냥 제 생일에서 따온 것으로 하죠, 박사님.
 
-	我可能追随不了一个人一辈子，不过现在至少是这一辈子我追随一个人的开始。
 	誰かに一生ついていくことはかなわないかもしれません。ですが、少なくとも今は、その始まりの一日になると確信しています。
 	I might not be able to spend my entire life serving one person... but at least I can start working on it now.
 	평생 한 분만을 따른다는 건 불가능할지도 모릅니다. 하지만, 적어도 지금은 제가 끝까지 함께할 분과 보내는 첫날이 바로 오늘이라 확신합니다.
 
-	“她”终于找到你了，博士。这真是一次漫长的旅程。你对“她”,以及所有人来说有着非常重要的意义......
 	ようやく「彼女」は貴方を見つけられたようですね。この長い旅路の中で、貴方は彼女にとって…いいえ、すべての人にとって、特別な存在になるはずです……。
 	She has finally found you, Doctor. What a perilous journey it's been. You're very important to her, as well as to everyone else.
 	이제야 '그녀'가 당신을 찾아낸 것 같군요. 이 기나긴 여행길에서 당신은 그녀에게… 아니, 모든 사람에게 특별한 존재가 될 것입니다… 
 
-	即使是您合上眼的时候，我也会伴随在您的左右，保证您的安全，请安心休息吧。
 	ドクター殿がお休みの時でも、私がそばを離れずお守りしますので、どうか安心してお休みください。
 	I'll be by your side watching over you, Doctor, even in your sleep. So rest easy, you have nothing to fear.
 	박사님이 쉬고 계실 때에도 제가 항상 곁에서 지킬 테니, 안심하고 푹 쉬십시오.
 
-	感谢阁下让我加入这里，从今天开始，我将尽全力为您效劳——作为一名术师。一直以来我都没有名字，如果感觉不方便的话，今后请用12F称呼我。
 	ロドスへの加入を受け入れていただき、心より感謝いたします。これからは一人の術師として、ドクター殿のために全力を尽くします。名乗れるほどの名前は持ち合わせておりませんので、ご不便であれば、私のことを12Fとお呼びください。
 	You have my thanks for allowing me to join you. I will do my best to serve you, Doctor, from now on, with my alchemical skills. I have never had a name... but if you must call me something, you can refer to me as 12F.
 	로도스 아일랜드에 합류하는 걸 허락해 주셔서 진심으로 감사드립니다. 앞으로는 캐스터의 한 사람으로서 최선을 다해 박사님을 돕겠습니다. 이름을 댈 정도로 대단한 존재도 아니니, 정 불편하시면 그저 '12F'라 불러 주십시오.
 
-	原来是这样，我明白了。感谢您的指导。
 	なるほど、そういうことでしたか。ご指導、感謝いたします。
 	I see, I understand now. Thank you for your guidance.
 	과연, 그런 거였군요. 지도해 주셔서 감사합니다.
 
-	虽然我能力不出众，但是我会尽我所能去战斗的。
 	秀でた能力は持っておりませんが、全身全霊をかけて戦いに臨みます。
 	I may not possess outstanding skills, but I will do my best.
 	특출난 능력은 없습니다만, 이 한 몸 바쳐 전투에 임하겠습니다.
 
-	第一个选择我真的没关系吗？谢谢你博士。
 	隊長選出に際して真っ先に私を選ぶとは、本当によろしいのですか？感謝します、ドクター殿。
 	To make me Captain, to give me responsibility for this whole squad, is that really all right...? You have my thanks, Doctor.
 	다른 이들을 제치고 저를 팀장으로 임명하시다니, 정말 괜찮겠습니까? 감사합니다, 박사님.
 
-	放轻松，博士。我们一定完成这次行动。
 	安心してください。必ず無事に任務を終えてみせます。
 	Relax, Doctor. We will complete this operation in no time.
 	안심하십시오. 반드시 임무를 완수하겠습니다.
 
-	诸位，请做好作战准备。
 	各位、戦闘の準備をお願いします。
 	Get ready for battle, everyone.
 	여러분, 전투 준비를 부탁드립니다.
 
-	请指示。
 	ご指示をお待ちしております。
 	Your orders?
 	지시를 내려 주십시오.
 
-	我准备好了。
 	準備はできています。
 	Ready to move.
 	준비는 되어있습니다.
 
-	了解。
 	了解しました。
 	Got it.
 	알겠습니다.
 
-	收到。
 	承知しました。
 	Copy.
 	말씀에 따르겠습니다.
 
-	请让我看见前进的道路。
 	進むべき道を示しなさい！
 	Please show me the path.
 	우리가 나아갈 길을 보여주십시오!
 
-	燃烧吧。
 	燃え上がりなさい！
 	Burn.
 	불타올라 주십시오!
 
-	驱除前方的障碍。
 	立ちはだかるものはすべて排除いたしましょう。
 	Clear away all obstacles.
 	앞을 가로막는 자는 모두 제거하겠습니다.
 
-	巨枭，小心！
 	アウル、気をつけなさい！
 	Watch out, Owl!
 	아울, 조심하세요!
 
-	我早已习惯了失败，但只有经历无数失败之后的胜利，才无比难得。不是吗，博士？
 	失敗することに慣れてしまった私ですが、失敗を繰り返した先にある成功にこそ価値があると思うのです。ドクター殿もそうは思いませんか？
 	I'm already used to failure... but the losses truly make the victory sweeter. Don't they, Doctor?
 	전 이미 실패에 익숙한 몸입니다만, 거듭된 실패 끝에 거둔 성공이야말로 가치 있는 것이라는 걸 깨달았습니다. 박사님도 그렇게 생각하지 않으십니까?
 
-	这是属于您的胜利，我很荣幸能成为您的棋子。
 	この勝利をドクター殿に捧げます。ドクター殿の下で戦えて光栄でした。
 	This victory is all yours, Doctor. And I am honored to serve you, Doctor.
 	이 승리를 박사님께 바칩니다. 박사님 밑에서 싸울 수 있어 영광입니다.
 
-	有些危险，不过最后还是胜利了。巨枭你没事吧？
 	紙一重の戦いでしたが、勝利を収めることができて良かったです。アウル、無事でしたか？
 	That was a hard-fought, hard-won victory, but we did it. Are you all right, Owl?
 	아슬아슬한 싸움이었지만 승리해서 다행입니다. 아울, 다친 곳은 없나요?
 
-	败乃兵家常事，博士请不要气馁......我经历过许多战争，经验告诉我，属于您的胜利即将到来。
 	勝敗は兵家の常と言いますし、どうか気を落とさずに……。幾多の戦いの経験が私に教えてくれているのです、勝利はこの先で待っている、と。
 	Failure is only normal. Don't be discouraged. I've been in many wars, and my experience tells me that your victory will come soon.
 	승패는 병가지상사라고 하니, 너무 괘념치 마시길… 수많은 전장을 거치며 쌓아온 경험이 제게 알려주고 있습니다. 이 앞에 승리가 기다리고 있다고요.
 
-	没事，请让我来帮忙吧。
 	よろしければお手伝いしましょうか。遠慮はいりませんよ。
 	If you'd like, I can help. No trouble.
 	제가 도와드릴 일이 있을까요? 사양하지 않으셔도 됩니다.
 
-	啊，请小心。
 	あっ、お気をつけください。
 	Aah! Be careful.
 	앗, 조심하십시오.
 
-	博士，感谢你为我做了这么多，而我却没有什么可以报答你的，抱歉。
 	私のような者のためにここまでしていただいたのに、何のお返しもできず本当に情けない限りです。申し訳ございません、ドクター殿。
 	I am so thankful for all that you have done for me. I feel ashamed I have so little with which to repay your kindness. Forgive me, Doctor.
 	저 같은 자에게 이렇게까지 해 주셔서 어떻게 보답해야 할지 막막할 따름입니다. 늘 죄송한 마음입니다, 박사님.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早上好，博士。
 	おはようございます、ドクター殿。
 	Good morning to you, Doctor.
 	좋은 아침입니다, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】12F
+	【性别】男
+	【战斗经验】五年
+	【出身地】不明
+	【生日】3月3日
+	【种族】萨弗拉
+	【身高】181cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】12F
+	【性別】男
+	【戦闘経験】五年
+	【出身地】不明
+	【誕生日】3月3日
+	【種族】サヴラ
+	【身長】181cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] 12F
+	[Gender] Male 
+	[Combat Experience] 5 years 
+	[Place of Birth] Unknown 
+	[Date of Birth] Mar. 3 
+	[Race] Savra 
+	[Height] 181cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 12F
+	[성별] 남
+	[전투 경험] 5년
+	[출신지] 불명
+	[생일] 3월 3일
+	[종족] 사브라
+	[신장] 181cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】优良
+	【生理耐受】普通
+	【战术规划】普通
+	【战斗技巧】普通
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】普通
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Excellent 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Normal 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	12F，为该干员被雇佣时常使用的代号。根据自身汇报履历于多个势力之间游荡，并活跃在过去几年较为著名的几次势力冲突之中。
+	仅有的少量可查证的资料也确认12F曾在这部分作战中以基础的雇佣兵，或是本地设施保全人员的身份参与到行动中。
+	与巨枭一起加入罗德岛，因特殊的经历和战场经验被录用。现作为常规术士干员加入到罗德岛的常规任务中。
+
+	個人履歴 :
+	12Fとは、彼が雇用される際に常用しているコードネーム。自己報告の履歴によると、多くの勢力の間で行き来し、過去数年間に発生した数回の有名な武力衝突に参加していたという。
+	検索できるわずかな資料でも、12Fは基礎傭兵あるいは現地設備の安全保障員としてそれらの衝突に参加していたと確認できる。
+	アウルと共にロドスに加入し、特殊な経歴と戦闘経験によって採用された。現在は術師オペレーターとしてロドスの通常任務に参加している。
+
+	Profile :
+	12F was the alias commonly used by this Operator in his mercenary work. By his own account, he vacillated between different factions and was involved in several famous battles over the past few years. 
+	The few verifiable documents we have confirmed that 12F was indeed present for these conflicts, either as a regular mercenary or security for a local facility. 
+	He joined Rhodes Island with Owl, having been admitted for his unique combat experience as well as his experience in general. Now a standard Arts Operator assigned to normal duty.
+
+	프로필 :
+	    오퍼레이터로 고용되었을 당시 사용했던 코드네임이다. 보고서에 따르면 그는 여러 세력들을 떠돌아다녔으며, 지난 몇 년 동안은 다수의 비교적 유명한 세력 충돌전에서 활약했다고 한다. 확인 가능한 소량의 정보에 의하면, 12F는 과거 기초 용병 또는 시설 보안 요원으로서 작전에 참여했던 경험이 있으며, 아울과 함께 특별한 경력과 전장 경험을 인정받아 로도스 아일랜드에 채용되었다고 한다. 현재는 캐스터 오퍼레이터로서 로도스 아일랜드의 작전에 참여하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员12F没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.09u/L
+	干员12F甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.09u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging tests on this Operator show clear outlines of internal organs, with no abnormal dark spots or shadows. No unusual traces of Originium particles present in the circulatory system, no signs of infection, confirming this operator as uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator 12F showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.09u/L 
+	Operator 12F rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 12F는 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.09u/L
+	오퍼레이터 12F는 오리지늄과의 접촉 빈도가 매우 낮음.
+
+———————————————————————————————
+
+	档案资料一 :
+	源石技艺评定：
+	相比他经历过的战场数量而言，12F的源石技艺水平看上去并没有到能在这些事件中占据优势的程度，这与他提供的作战经历所吻合。不过他对于源石技艺的理解相比通常接触过的术士会更深刻一点，或许是这一点，让他能够活用目前水平的源石技艺提高他的生存几率。
+
+	第一資料 :
+	アーツ評価：
+	彼が踏んできた場数に比べると、12Fのアーツレベルは戦場で優勢をとれるほどの能力はなく、それは彼が提出した経歴とも一致する。しかし、普通の術師に比べ、彼はアーツへの理解が深い。この一点が、現在のレベルのアーツを最大限活用でき、彼の生存確率を上げているポイントなのかもしれない。
+
+	Archive File 1 :
+	Originium Power Assessment: 
+	Despite his extensive combat experience, 12F's Originium power was not decisive in any of his battles, as his own accounts confirm. But his grasp of Originium power is slightly better than your typical caster, and maybe factor into his continued survival.
+
+	파일 자료 1 :
+	오리지늄 아츠 평가:
+	    12F의 오리지늄 아츠 실력은 그가 전장에 참여했던 횟수에 비하면 크게 우수한 편은 아니지만, 그의 오리지늄 아츠에 대한 이해력은 다른 캐스터들보다 뛰어난 편이다. 그가 전장에서 높은 생존력을 보이는 것은, 아마도 이러한 이유 때문일 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	12F虽然看上去非常严肃，甚至让人觉得不好交流，不过实际在收集人员反馈的过程中，大多数与他合作过的干员，都对这名不起眼的术士表现出了肯定。这些反馈通常集中在，“没有拖后腿”、“帮助协调组内关系”、“在关键时刻提供必要的帮助”、“提供了意想不到的建议”。
+
+	第二資料 :
+	12Fは非常に真面目で取っ付きにくいように見えるが、情報収集員のフィードバックによると、彼と作戦を共にしたことがある大多数のオペレーターが、この目立たない術師に肯定的な評価を出している。フィードバックに特に多かったのが、「足を引っ張らない」「チーム内の協調を支えてくれる」「ここぞという時に必要なサポートをしてくれる」「思いもよらないようなアドバイスをしてくれる」という声だった。
+
+	Archive File 2 :
+	12F appears very stern and abrasive, but feedback from most Operators who have worked with this inconspicuous caster has been positive. The comments include 'Didn't hold up the squad,' 'helped smooth over internal conflicts,' 'provided timely assistance,' 'made unexpectedly good suggestions.'
+
+	파일 자료 2 :
+	    겉보기엔 엄숙한 성격으로 인해 사람들과 잘 어울리지 못할 것처럼 보이지만, 실제 피드백 수집 과정에서 12F와 작전 경험이 있는 오퍼레이터의 대부분은 "발목을 잡지 않음", "팀 내 관계 조율을 잘함", "중요한 순간에 도움을 줌", "의외의 아이디어를 제공함" 등과 같이 대부분 긍정적인 반응을 보였다.
+
+———————————————————————————————
+
+	档案资料三 :
+	12F与很多干员关系都非常好，相反与12F关系最紧密的关系人员——巨枭则在罗德岛几乎没有朋友。12F常会刻意前往巨枭常见的地方与她谈话。由于医疗中心对巨枭的心理状况长期处于不明朗状态，目前巨枭的心理状况已委托12F定期向医疗中心汇报。
+
+	第三資料 :
+	12Fは多くのオペレーターと良い関係を築いているが、そんな彼と最も関係が近い人物ーーアウルはロドスでは友人がほとんどいない。12Fはいつもアウルがよくいる場所に出向き、彼女と話をする。医療センターによると、アウルの心理状態について長期にわたって把握できずにいるため、現在のアウルの心理状態は定期的に医療センターへ報告するよう12Fに委託している。
+
+	Archive File 3 :
+	12F gets along with many Operators. In contrast, his closest friend, Operator Owl, has few other friends at Rhodes Island. 12F often makes concerted efforts to speak to Owl at places she frequents. Because the medical department is too busy to keep up on Owl's state of mind, F12 has been providing regular reports.
+
+	파일 자료 3 :
+	    12F가 많은 오퍼레이터와 돈독한 관계를 가진 것과 달리, 12F와 가장 친한 아울은 친구가 거의 없다. 때문에 12F는 언제나 아울이 있는 곳으로 찾아가 그녀와 대화를 나눈다. 의료 센터에선 현재 아울의 심리 상태를 장기간 확인하기 어려운 상태이므로, 12F가 직접 의료 센터에 보고를 하고 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	12F描述过很多他经历过的战场细节，不过他说他已经忘记了家乡和亲人的样子。而12F这个代号，则是他第一次加入到战场时被给予的编号。那次战斗中，他遇到了作为敌人的巨枭，而后他受到重伤，但侥幸活下来，并成为了战俘。
+
+	第四資料 :
+	12Fは今までに経験してきた戦場の些細なことも話してくれたが、故郷や肉親の姿は既に忘れてしまっているという。12Fというコードネームは、彼が最初に参戦した戦場で与えられた番号である。その戦闘で敵としてアウルに出会い重傷を受けたが、幸運にも生き延び、捕虜となった。
+
+	Archive File 4 :
+	12F has described many of his battles in detail, but reports that he's forgotten what his home and family looked like. '12F' was the designation he was given for his first mission. That was when he met Owl, who was on the opposing side. He was gravely wounded but lived long enough to become a prisoner of war.
+
+	파일 자료 4 :
+	    12F는 자신이 참여했던 전장의 세부사항들에 대해선 많은 설명을 해주었으나, 정작 본인의 고향과 가족에 대해서는 모두 잊어버렸다고 한다. 코드네임 12F는 그가 맨 처음 전장에 참여했을 당시 부여되었던 번호이며, 이 전투에서 적군으로서 처음 아울을 만났다고 한다. 그 전투에선 중상을 입었지만, 다행히 살아남아 포로가 되었다.

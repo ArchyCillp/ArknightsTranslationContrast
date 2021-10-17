@@ -1,11 +1,17 @@
 ID:
 	char_129_bluep
 
-干员代号\Name:
+CV:
 	蓝毒
 	アズリウス
 	Blue Poison
 	블루포이즌
+
+干员代号\Name:
+	种崎敦美
+	種﨑敦美
+	Atsumi Tanezaki
+	타네자키 아츠미
 
 招聘合同\Character Usage:
 	罗德岛狙击干员蓝毒，将运用自己的毒素对敌人进行攻击。
@@ -43,177 +49,375 @@ ID:
 	독액 살포
 
 语音\Voices:
-	哎呀，你好，博士。今天的您看起来也很健康，这比什么都好。
 	あら、ごきげんよう、ドクター。今日もお元気そうでなによりですわね。
 	Hey, Doctor. You're glowing today. To see you so well... that's all I could ever hope for.
 	어머. 안녕하신가요, 박사님. 오늘도 건강해 보이셔서 다행이네요.
 
-	我准备了解毒剂，它能使普通的毒物完全无效。希望您在每次作战前都服用一杯，可以吗？
 	解毒剤を調合しましたの、普通の毒ならまず解毒できますわ。作戦前には必ずお飲みになって。よろしいですわね？
 	I prepared an antidote that could nullify the effects of any common poison. I'd like you to take one dose before every battle. Is that okay with you?
 	해독제를 조합했답니다. 평범한 독이라면 대부분 해독할 수 있을 거예요. 작전 전에 꼭 마셔 두세요. 아시겠죠?
 
-	因为我身体中的毒素也是一种优质的药品原料，所以凯尔希医生经常把我叫去她的实验室......
 	毒の成分は薬の良い原料になるということで、ケルシー先生はいつも私を実験室に呼びつけますの……。
 	Actually, the toxin in my body is an ingredient for some high-quality medicine... that's why Dr. Kal'tsit needs me at her lab a lot.
 	독의 성분은 좋은 약의 원료가 된다고 해서, 켈시 선생님께선 늘 저를 실험실로 부르시곤 해요… 
 
-	哎呀，一直盯着我看，有什么事吗？......嗯？我的眼睛很罕见？博士，这是在称赞我吗？
 	あら、私のことをじっとお見つめになって、何かご用ですの？……はい？私の目が珍しい？……ドクター、それで褒めているおつもり？
 	Hm, why do you keep staring at me? Oh, because my eye color is so rare? Is that a compliment, Doctor?
 	어머, 절 지긋이 바라보고 계시다니, 무슨 일이라도 있으신지? … 네? 제 눈이 신기하다고요? 박사님, 설마 그걸 칭찬이라고 하시는 건 아니겠지요?
 
-	我是敌人最畏惧的存在。没办法啊，比起被“毒物”折磨而死，不如抢先杀死我，敌人们理所当然会这样选择吧......只是有时候，我的同伴也会思考同样的事，这让我有些不安。
 	私は敵から最も忌み嫌われる存在ですの。仕方ありませんわ、「毒物」などに苦しんで殺されるなら、真っ先にそれを消そうと考えるのは当然ですもの。……時々、味方も同じことを考えているのではないかと不安になります。
 	I'm the one the enemies fear the most. After all, anyone would much rather kill me before I could torture them to death with my poison, right? What really worries me is if my allies might think the same and consider killing me too...
 	저는 적이 가장 기피하고 꺼리는 존재랍니다. 어쩔 수 없겠지요. '독극물' 따위에 괴로워하다 죽기보단, 가장 먼저 없애고 싶어 하는 게 당연하니까요… 가끔, 아군도 같은 생각을 하는 게 아닐지 불안해 지곤 해요.
 
-	为什么我在盯着这块蛋糕发呆？其实蛋糕是我为大家烤的，只是谁都不肯吃......难道，博士想要尝尝看吗？
 	どうしてケーキを見てボーッとしているか、ですか？私が皆様に焼いたケーキなんですが、誰も食べてくださらないのです……もしかして、ドクターが食べてくださると？
 	Why am I staring at this cake, you ask? Actually... I baked it for everyone, but no one wanted it... Would you like to try it, Doctor?
 	왜 우두커니 케이크만 보고 있느냐고요? 제가 다른 분들을 위해 구운 케이크입니다만, 아무도 드시지를 않네요…… 설마, 박사님께서 드셔 주시려고요?
 
-	博士总是穿着相同的衣服呢，不如让我帮您挑选些新的吧？我觉得自己还挺有挑衣服的品味......哎，制服是不能随便更换的......这样吗？
 	ドクターはいつも同じ服を着てらっしゃるのね。なんなら新しい服を選んでさしあげましょうか？私、服のコーディネートには自信がありますのよ。……あら、制服は勝手に変えてはいけない……ですか？
 	Doctor, you're always wearing the same outfit. How about I choose some new clothes for you? I pride myself on having pretty good taste! Oh... it's a uniform? So you can't change it? Okay...
 	박사님께서는 항상 같은 옷을 입고 있으시네요. 괜찮으시면 제가 옷을 골라 드릴까요? 옷의 코디라면 자신이 있거든요… 어머, 유니폼을 마음대로 바꾸어선 안 된다…… 고요?
 
-	因为我是“毒物”，所以谁都不想接近我......但，这样的我的身边，现在总能有博士相伴。我很开心哟，真的。
 	私は「毒物」なので、誰も私に近づこうとしません……。でもドクターは、こんな私の側にいてくださる……嬉しいです……本当に……。
 	I'm 'toxic'... so people prefer to stay away from me. But now I have you, Doctor. I'm really happy! Really!
 	저는 '독극물'이라, 아무도 가까이 다가오려 하지 않는답니다… 하지만, 박사님께서는 이런 제 곁에 있어 주시네요… 기뻐요… 진심으로… 
 
-	实际上，我的身体和大家没什么不同，即使我是“毒物”，只是触碰的话并不会发生什么坏事。如果您能亲自证明这一点的话，也许大家就能相信......博士，可以在大家面前，触碰我的手吗？
 	本当のところ、私の身体は皆様と同じですの。私が「毒物」だからといって、触れると何か起きるなんてことはありませんのよ……。ドクターがそれを証明してくだされば、皆様も信じてくれるかもしれません……。ドクター、もしよろしければ、皆様の前で私の手に触れてくださるかしら？
 	I'm not really that different from everyone else. I may be 'toxic,' but nothing bad will happen if you touch me. If you could prove this to everyone by touching me yourself, then... maybe everyone will be nicer to me? Doctor, can you... touch my hand in front of everyone else?
 	사실 제 몸은 다른 분들과 똑같답니다. 제가 '독극물'이라고 해도 닿는 것만으로 큰일이 나는 건 아니지요… 박사님께서 그걸 증명해 주신다면, 다들 믿어주실지도 모르겠죠… 박사님, 실례가 되지 않는다면 사람들 앞에서 제 손을 잡아주지 않으시겠어요?
 
-	博士？哎呀，好像睡着了。有没有毯子能给博士盖一下呢。
 	ドクター？……あら、お休みになられたわね。何かお掛けするものはないのかしら……。
 	Doctor? Oh, are you sleeping? Gotta find a blanket, don't want Doctor to catch a cold...
 	박사님? …어머, 쉬고 계셨군요. 뭔가 덮어 드릴 물건이 없을지… 
 
-	初次见面，我是蓝毒，想必您已经听凯尔希医生提起过我，那么，该如何运用我这“毒物”的能力，就交由您来决定了。
 	はじめまして、アズリウスと申しますわ。ケルシー先生から伺ってらっしゃると思いますが、「毒物」と呼ばれるこの私の力、使い方はお任せいたしますわ。
 	Nice to meet you, I'm Blue Poison. I'm sure Dr. Kal'tsit must have told you about me. As for how you'd like to use my powers, it's up to you to decide.
 	처음 뵙겠습니다. 블루포이즌이라고 합니다. 켈시 선생님께 들으셨겠지만, '독극물'이라 불리는 저의 힘을 어떻게 사용하실지는 박사님께 맡기도록 하지요.
 
-	似乎听到了毒液沸腾的声音，真让人心情愉快啊。
 	毒が沸々と滾る音が聞こえるよう……いい気分ですわ。
 	I think I hear the sound of poisonous liquid boiling. How very exciting.
 	마치 독이 부글거리는 소리가 들리는 것 같은…… 좋은 기분이군요.
 
-	很感谢您。能在这么多的战斗中有所建树，我的愿望实现了呢。
 	幾多の戦いで功績を得られて、私も本望ですわ。ありがとうございます。
 	Thank you so much... I'm so glad that I get to contribute in all these battles. It's like a dream come true.
 	수많은 전투에서 공을 세울 수 있게 되어 저 또한 더할 나위 없이 만족스럽네요. 감사드립니다.
 
-	与其作为“毒物”浑浑噩噩地活下去，不如坦率接受这样的自己，努力去改变命运——能让我实现这小小梦想的人，正是博士您啊。所以，真的，真的非常感谢......
 	「毒物」として負い目を感じながら生きていくより、ありのままの自分を受け入れて、運命を変えられる努力をしよう――こんなささやかな夢を叶える機会を与えてくださったのはドクター、あなたですわ。本当に、感謝してもしきれませんわ……。
 	Instead of holding back, trying to hide my 'toxic' identity... it's much better to accept myself for what I am and try to change my fate myself. This may be just an insignificant thing... but you're the one who helped me understand that... so, thank you, thank you so much.
 	 '독극물'로서의 부담감을 안고 살기보다, 있는 그대로의 나 자신을 받아들이고 운명을 바꾸도록 노력하자… 이런 자그마한 꿈을 이룰 기회를 주신 건 바로 박사님, 당신이에요. 정말, 뭐라고 감사의 말씀을 드려야 할지…… 
 
-	这样很好，我很适合做辅助进攻的工作。
 	いいですわね。攻撃支援に長けた私に、ピッタリの仕事ですわ。
 	Great. I'm good at assisting in attacks.
 	좋아요. 공격 지원이 특기인 제게 딱 맞는 일이네요.
 
-	派我去援护其他人比较好哦？否则我的毒液，说不定会伤到博士......
 	やはり援護の任務がいいですわ。この毒液が、ドクターにも牙を剥くかもしれませんのよ。
 	I'd be much better off as support staff. Or else the poisonous liquid inside me might harm you, Doctor...
 	전 역시 엄호하는 임무가 좋아요. 이 독액은 박사님께 이빨을 드러낼지도 모르니까요.
 
-	各位，没必要离我那么远的......
 	あらあら、そんなに私を避けなくても大丈夫ですのよ……。
 	Everyone, there's no need to stand so far from me...
 	어머나, 그렇게 절 피하지 않으셔도 되는데…… 
 
-	我为你们准备了“礼物”。喜欢吗？
 	あなた方のためにプレゼントを用意しましたの。気に入っていただけるかしら？
 	I prepared a 'gift' for y'all. Like it?
 	여러분께 드릴 선물을 준비했어요. 마음에 드실지 모르겠군요.
 
-	恭候您的指令。
 	お待ちしておりましたわ。
 	Awaiting your orders.
 	기다리고 있었답니다.
 
-	请不要怕我。
 	私のことはお構いなく。
 	Please don't be scared of me.
 	저는 신경 쓰지 마셔요.
 
-	请安心，毒素是不会传染的。
 	ご安心くださいまし。この毒は移りませんから。
 	Don't worry, my poison is not contagious.
 	안심하세요. 이 독은 옮지 않으니까요.
 
-	毒剂准备好了哦。
 	毒薬の準備が整いましたわ。
 	My poison is ready.
 	독약 준비는 다 끝났습니다.
 
-	这种毒素，将会慢慢侵蚀你的生命......
 	この毒は、ゆっくりとあなた方の命を蝕みますのよ。
 	My toxins will gradually burn your veins away...
 	이 독은, 천천히 당신들의 목숨을 끊어줄 거예요.
 
-	是不是看到幻觉了呢？
 	幻覚が見えるかしら？
 	Did you see an illusion?
 	환각이 보이시나요?
 
-	我之蜜糖，汝之砒霜。
 	我が蜜液が、汝に死をもたらさん。
 	Honey to me, poison to you.
 	나의 꿀이 그대에게 죽음을 가져오리라.
 
-	毒吻。
 	ポイズン・キス。
 	Poison kiss.
 	포이즌 키스.
 
-	用“毒物”去战胜阴谋和罪恶。会不会让您觉得这是种讽刺呢？
 	「毒物」が陰謀と罪悪に勝るだなんて、どう、皮肉な話だと思いませんこと？
 	Wiping out conspiracies and evil guys with 'poison'... doesn't that seem ironic to you?
 	 '독극물'이 음모와 죄악을 이기다니, 어떠신가요? 참으로 얄궂은 얘기지 않나요? 
 
-	有种方法，能让这些残骸在一瞬间溶化掉......您想欣赏一下吗？
 	この死骸たち、一瞬で溶かしてしまうこともできますのよ……見てみたいかしら？
 	I've got a way to melt away all these remains in an instant. Want me to show you?
 	이 시체들, 단숨에 녹여버릴 수도 있답니다… 보고 싶으신가요?
 
-	还好，没弄脏衣服就结束了。
 	たいして服を汚さずに済みましたわ。
 	Good, finished before my clothes got dirty.
 	생각보다 옷을 더럽히지 않고 끝냈네요.
 
-	真是可笑的战斗，就像“毒物”被自己毒死一样......
 	この戦い……「毒物」が自分の毒で死ぬように滑稽ですわ……。
 	How laughable. Felt like I killed myself with my own poison...
 	이 전투… '독극물'이 자신의 독에 죽는 것처럼 우스꽝스럽네요…… 
 
-	适当的休息，也是为了工作更有状态哦。
 	良い仕事をするためには、適度な休憩が必要ですわ。
 	Resting when rest is due is helpful for focusing on your work.
 	일을 잘하려면 적당한 휴식이 필요하죠.
 
-	欸？
 	えっ……。
 	Huh?
 	엣…… 
 
-	您、碰到我了？再做、再做一次，能拜托您再做一次吗？
 	い、いま、私に触れてくださったのですか？……も、もう一度、もう一度、お願いできないかしら…？
 	D-did you just touch me? C-can you do that again? Please?
 	바, 방금 저를 만지셨나요? …… 하, 한 번만, 한 번만 더 해 주실 수 있나요…?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好，博士。
 	ごきげんよう、ドクター。
 	Hello, Doctor.
 	안녕하세요, 박사님.
+
+干员档案\Background:
+	基础档案 :
+	【代号】蓝毒
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】未公开
+	【生日】1月18日
+	【种族】安努拉
+	【身高】157cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】アズリウス
+	【性別】女
+	【戦闘経験】なし
+	【出身地】未公開
+	【誕生日】1月18日
+	【種族】アヌーラ
+	【身長】157cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+	身体状況は良好で、十分健康と言える。
+
+	Basic Info :
+	[Code Name] Blue Poison
+	[Gender] Female 
+	[Combat Experience] None 
+	[Place of Birth] Unknown 
+	[Date of Birth] Jan. 18 
+	[Race] Anura 
+	[Height] 157cm 
+	[Infection Status] 
+	Uninfected as confirmed by medical examination. 
+	Also in remarkable physical condition and health.
+
+	기본정보 :
+	[코드네임] 블루포이즌
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 미공개
+	[생일] 1월 18일
+	[종족] 아누라
+	[신장] 157cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+	신체 상황 매우 양호, 대단히 건강함.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通 
+	【战场机动】标准 
+	【生理耐受】普通 
+	【战术规划】普通 
+	【战斗技巧】优良 
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Normal 
+	[Mobility] Standard 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	蓝毒，身份不明，履历缺失。在以有毒制剂作为清除手段的特别行动中展现出过人威力。 
+	现作为狙击干员于罗德岛干员组任职，并定期为医疗组提供毒理学相关研究的协助。
+
+	個人履歴 :
+	アズリウスは経歴書が紛失したため、出身も不明である。毒性の薬剤で敵を一掃する特別行動において、優れた威力を見せた。
+	現在狙撃オペレーターとしてロドスに在職しており、定期的に医療チームへ毒理学に関する研究を協力している。
+
+	Profile :
+	Blue Poison's real identity remains unknown and her background a mystery. She is highly skilled at neutralizing targets using toxins. 
+	Now a sniper with Rhodes Island, she regularly contributes her expertise in toxicology research.
+
+	프로필 :
+	    신원 불명, 이력 정보 부족. 독약을 사용하여 적을 처치하는 특별 작전에서 뛰어난 능력을 보여준다. 현재는 로도스 아일랜드에서 스나이퍼 오퍼레이터로 근무하고 있으며, 정기적으로 의료부의 독물학 관련 연구에 협조하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。 
+	
+	【体细胞与源石融合率】0% 
+	干员蓝毒没有被源石感染的迹象。 
+	
+	【血液源石结晶密度】0.1u/L 
+	干员蓝毒甚少接触源石。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.1u/L
+	源石との接触は極めて少ない。
+
+	Clinical Analysis :
+	Imaging test for this operator showed clear outline of internal organs without unusual dark spots. No abnormal traces of Originium particles present in her system. No signs of infection, confirming her as uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Blue Poison shows no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.1u/L 
+	Operator Blue Poison rarely comes into contact with Originium.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 블루포이즌으로 부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.1u/L
+	오퍼레이터 블루포이즌은 오리지늄과의 접촉 횟수가 매우 적음
+
+———————————————————————————————
+
+	档案资料一 :
+	虽然和自身性格无关，但蓝毒所拥有的能力，的确就如传言中那样令人胆寒，这一点无疑成为了她与其他干员之间交流的阻力。只是，当她在前线完成自己的工作后，默默承担起中毒干员的医疗任务时，想必，大家都能够感受到她那奇异能力下，真挚而平和的心灵。
+	蓝毒所使用的小型手弩被证明是一种拥有极为优秀的射程且威力不俗的狙击武器，而她自行调配的含有毒制剂的弩箭更使她的每一次攻击都会具备致命的杀伤力。蓝毒从不会让敌人以凄惨的状态死去，因为这实在不怎么优雅。
+
+	第一資料 :
+	性格とは全く関係ないが、アズリウスの能力は確かに噂通り恐ろしく、そしてこの事実が彼女とほかのオペレーターとの距離を広げるものとなっている。ただ、前線での仕事を終え、何も言わずに負傷者の治療をする彼女を見れば、個性的な能力のかげに隠された、真摯で穏やかな心の持ち主であること分かるはずだ。
+	アズリウスが使用している小型クロスボウは、かなり優れた射程と威力を持つ狙撃武器だと証明された。さらに彼女が調合した毒薬を含んだ矢は、敵に致命的なダメージを与える。アズリウスは、「優雅ではないから」という理由で、敵に悲惨な死に方をさせない。
+
+	Archive File 1 :
+	Although her personality is quite lovely, Blue Poison's abilities are in fact as terrifying as the rumors say, which has undoubtedly become a hindrance for her when communicating with other operators. But when she finishes her combat work and quietly undertakes the medical task of curing poison, the sincere, peaceful girl behind her deadly abilities shows through. 
+	The small crossbow she uses has proven to be a powerful long-range weapon, and the tips coated with her toxic serum make a hit even more lethal. Still, Blue Poison never lets an enemy die in agony, deeming that far too cruel.
+
+	파일 자료 1 :
+	    그녀가 가진 능력은 확실히 본인이 말했던 것처럼 타인의 간담을 싸늘하게 만들 정도의 것이기에, 이점은 확실히 그녀의 성격과는 상관없이 다른 오퍼레이터들과 교류하는데 큰 걸림돌이 되었다. 하지만 그녀가 전선에서 자신의 업무를 마친 뒤 묵묵히 독에 중독된 오퍼레이터들의 의료 임무를 맡는 모습을 본다면, 다들 진심으로 평화를 사랑하는 그녀의 마음을 느낄 수 있을 것이다.
+	    블루포이즌이 사용하는 소형 크로스보우는 매우 우수한 사정 거리와 범상치 않은 위력을 가진 사격 무기임이 증명되었다. 게다가 그녀의 독약이 장착된 화살은 그녀의 공격을 더욱 치명적으로 만들었다. 블루포이즌은 늘 적이 비참한 상태로 죽도록 내버려두지 않았다. 왜냐하면 그건 전혀 우아하지 않기 때문이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	根据干员蓝毒的自述，年幼的她已经明白了自己身为“毒物”的事实。任何生命或非生命上都有弱点，利用某些毒物，将这个小小的弱点放大成为无法挽回的致命伤害，是蓝毒对自己毒物能力的理解。 
+	目前蓝毒的毒物生成能力由凯尔希医生亲自进行研究并进行日常采样工作。令蓝毒稍感轻松的是，罗德岛是一个人尽其才的组织，且不受强烈的道德观念所束缚，因而她的毒物能力可以在这里发挥出最大的用途。 
+	针对自己作为毒物的这一事实，蓝毒表现出较为抗拒的态度，但如果保证毒物能力能被其他干员所接受，并不再影响他人对蓝毒的态度的话，蓝毒是否能接受自己的毒物能力？对此，蓝毒并没有给出明确的回答，以惯常的礼貌而略显含糊的态度将话题轻轻带走。 
+	对于毒物的身份，干员蓝毒是否仍怀有厌恶的心情？亦或是她已经接受并逐渐认同了这种能力，但却在与他人交往的过程中不得不处于分裂的心态？这一切仍需博士通过自己与蓝毒的接触来做出判断。
+
+	第二資料 :
+	アズリウスによると、小さい頃から、自分自身が「毒物」だということを理解していた。命あるものもないもの、全てのものには弱点がある。その小さな弱点を特定の毒物を利用して、致命傷までに発展させることが、自身の「毒物」としての能力であると解釈している。
+	現段階のアズリウスの毒物生成能力に関して、ケルシー医師は自ら研究を行い、日常的にサンプリングを行っている。アズリウスが安心したのは、ロドスという組織は適才適所で仕事ができ、強い道徳観に縛られることはないため、毒物能力を最大限に活用できることだ。
+	アズリウスは自分が「毒物」である事実に、やや否定的な様子だ。「もしその能力がみんなに受け入れられ、自分が毒物であっても誰も態度も変わらなければ自分の能力を受け入れられるか」という質問に対して、アズリウスははっきりした答えを出さず、しかし礼儀正しくかつ曖昧な態度で誤魔化した。
+	アズリウスは自分が毒物であることにまだ嫌悪感を抱いているか、徐々に受け入れられるようにはなったが自分と接すると態度が変わる相手と対峙すると複雑な思いを抱えるのか、その答えはドクターが彼女に接してから明らかになるだろう。
+
+	Archive File 2 :
+	According to Blue Poison's personal account, she realized the truth behind 'poison' when she was little, i.e., any creature, living or not, has weaknesses that can be magnified and exploited to a fatal end. 
+	The toxin produced by her venomous abilities is monitored and sampled daily by Dr. Kal'tsit personally. Blue Poison feels better about Rhodes Island's diversity, and the group's open-mindedness to her abilities such that she can use them to her full potential. 
+	She is more defensive on the issue of describing herself as 'toxic.' The question was if would she accept her poisonous nature if the other operators accepted her and no longer kept their distance? Blue Poison didn't give a straight answer, politely deflecting the question as usual. 
+	Does she still hate her powers? Or has she accepted them while still feeling about her relationship with other people? It's something only the Doctor can figure out with Blue Poison.
+
+	파일 자료 2 :
+	    오퍼레이터 블루포이즌의 말에 따르면, 그녀는 어렸을 때부터 이미 자신의 몸이 ’독물‘이라는 사실을 알았다고 한다. 어떠한 생명체나 비생명체든 모두 저마다 약점을 가지고 있으며, 어떤 독물을 사용하여 이 작은 약점들을 극대화시켜 돌이킬 수 없는 치명적인 상처를 남길 수 있다는게 자신의 독물 능력에 대한 블루포이즌의 이해였다.
+	    현재 블루포이즌의 독물 생성 능력에 대해 닥터 켈시가 직접 매일 샘플을 채취하여 연구를 진행하고 있는데, 그나마 블루포이즌이 마음을 놓은 점은 로도스 아일랜드는 개개인의 재능을 충분히 발휘시킬 기회를 주는 곳이었으며, 또한 지나치게 엄격한 도덕 관념에 묶여 있지도 않은 조직이었다는 사실이다. 이 덕분에 블루포이즌의 독물 능력은 정말 유용하게 쓰이고 있다.
+	    자신이 독물이라는 사실을 블루포이즌은 꽤나 싫어하는 태도였다. 하지만 만약 이런 독물 능력이 다른 오퍼레이터의 인정을 받고, 또한 블루포이즌을 대하는 다른 오퍼레이터의 태도에 영향을 끼치지 않는다면, 그래도 블루포이즌은 자신의 독물 능력을 거부할까? 이 질문에 대해 블루포이즌은 확실한 대답을 내놓지 못했으며, 평소처럼 예의바르고 애매한 태도로 화제를 슬쩍 돌려버렸다.
+	    독물이라는 신분에 대해 블루포이즌은 혐오스러운 감정을 가지고 있을까? 아니면 그녀 자신은 이미 그 능력을 받아들였지만, 타인과 교제하는 과정에서 어쩔 수 없이 마음이 분열되었던 걸까? 이 모든 것은 박사가 블루포이즌과 접촉한 후 판단해야할 것들이다.
+
+———————————————————————————————
+
+	档案资料三 :
+	目前可以判明的是，干员蓝毒因其独特战斗方式，“毒物”的名声已不胫而走，并对其日常生活产生了一定的影响。 
+	针对干员蓝毒的所谓“毒物”能力，医疗组对此多次测试后的详细报告目前尚未公开。但可以确定的是，日常中与干员蓝毒的接触并不会受到其“毒物”能力的影响。事实上，干员蓝毒所谓的“毒物”能力，更多体现在她对含毒制剂熟练的制作手法，以及对毒理学的丰富知识这两点上。 
+	对于干员蓝毒来说，战斗之外的闲暇日常，她选择留在罗德岛中进行一些不费功夫的作业，例如烘焙糕点。据干员古米（目前乌萨斯学生古米被分配至后勤部厨房进行帮厨工作）介绍，蓝毒的甜点手艺“完全能让一个不吃甜食的人缴械投降！”的程度。根据若干未留姓名的试吃反馈，蓝毒的甜点手艺确实足够担当这样的名号，只是如果她能在成品配色的选择上不那么有个性就更好了。 
+	除甜品制作外，蓝毒的时尚嗅觉敏锐，对时下的流行服饰也非常感兴趣，并多次向罗德岛后勤部与贸易站等部门提出自己的服饰搭配建议。
+
+	第三資料 :
+	現在判明しているのは、アズリウスは独特な戦い方で「毒物」として名が知られ、日常生活にも影響が出ているとのこと。
+	医療チームによる彼女の「毒物」能力の詳細な測定結果はまだ公開されていないが、確定できるのは、日常生活の中で彼女と接しても、毒物能力による影響はないということ。そして彼女は、毒薬の配合方法や毒理学の知識が豊富という二点である。
+	アズリウスは戦闘以外の時間は基本的にロドスに留まり、デザート作りなどの手間のかからない作業をする。グム（ウルサスの学生、現在支援部食堂のバイトをしている）によると、アズリウスのデザートは「甘いものを普段食べない人でもつい食べたくなってしまう」ほど美味しいらしい。しかし、彩りは問題があるようで、数名の試食者によると、確かに味はそれほど言われる価値はあるが、完成品の配色をそこまで個性的にしなくてもよかったとのこと。
+	デザート作り以外にファッションセンスもよく、流行りのコーディネートに興味があり、ロドス支援部や貿易部にコーディネートアドバイスをしている。
+
+	Archive File 3 :
+	What is certain is that Blue Poison's toxic reputation has grown due to her unique combat techniques, which will no doubt impact her daily life. 
+	As for her so-called 'poison' power, the Medic Operators have never revealed any of their test results publicly. But it has been determined that normal physical contact with her will not contract the poison. In fact, her 'poison power' manifests mostly in her skill with and knowledge of poison. 
+	In her spare time, Blue Poison is interested in much more mundane variety things, such as baking. Operator Gummy, currently assigned to kitchen duty in Logistics, has claimed that Blue Poison's desserts are so good, they could 'convert someone who hates sweets!' Another unnamed Operator who has also tasted her treats echoed the sentiment that Blue Poison is proficient enough to start a bakery--if she made better choices in visual presentation. 
+	Aside from dessert making, Blue Poison has a keen sense of and passion for fashion, having already made several suggestions about her costume to Logistics and Trade.
+
+	파일 자료 3 :
+	    현재 한 가지 판명할 수 있는 점은, 블루포이즌의 독특한 전투 방식 때문에 '독물'의 명성은 이미 널리 퍼진 상태이며, 이것이 블루포이즌 자신의 일상생활에도 영향을 끼쳤다는 사실이다.
+	    오퍼레이터 블루포이즌의 '독물' 능력에 대해 의료부는 수차례 테스트를 진행했지만 구체적인 결과는 아직 공개하지 않았다. 하지만 확실한 건 일상 속에서 블루포이즌과 접촉한다해도 그녀의 '독물' 능력의 영향은 전혀 받지 않는다는 점이다. 사실 블루포이즌의 '독물' 능력은 해독제를 제조할때나 독물학에 대한 지식이 필요할 때 주로 쓰인다. 
+	    블루포이즌은 전투 이외의 쉬는 날에 로도스 아일랜드에 남아 케잌 만들기 같은 손쉬운 일을 한다. 오퍼레이터 굼(현재 우르수스 학생자치단 출신의 굼은 후방 지원부의 주방에 배치되어 주방일을 돕고 있다.)은 블루포이즌의 베이킹 실력을 "디저트를 싫어하는 사람조차 쓰러지게 만들 맛!"이라고 평가했다. 익명의 누군가는 직접 먹어본 결과, 블루포이즌의 솜씨는 확실히 그렇게 불릴만 했다며, 다만 그녀가 완성된 디저트에 너무 개성적인 색을 입히지만 않았으면 더 좋았을거라는 코멘트를 했다.
+	    디저트를 만드는 일 외에, 블루포이즌은 유행에도 민감하기 때문에 트렌디한 패션에도 굉장히 관심이 많다. 그녀는 로도스 아일랜드의 후방 지원부와 무역소 등 여러 관련 부서에 수차례 자신이 디자인한 패션 코디를 건의한 적도 있다.
+
+———————————————————————————————
+
+	档案资料四 :
+	尽管缺乏决定性的证据，但根据若干份秘密渠道获得的情报显示，一些对抗大型生物的战斗中曾有人指认过蓝毒的身影。这些情报大多未经证实，且没有图像资料作为参考。 
+	鉴于干员蓝毒从未显示出与该类型的作战有任何联系，亦从未提及过此类经历。 
+	【权限记录】 
+	根据某在场人员的回忆，在干员蓝毒初次见到干员幽灵鲨的时候，曾与后者打过一次招呼。但鉴于干员蓝毒对待任何干员均表现出十足礼貌，此类情报被认为不足以作为参考。为防止针对个体干员的对待偏差，今后应对此类情报加以谨慎审核。
+
+	第四資料 :
+	決定的な証拠はないが極秘ルートから得た情報によると、大型生物との戦闘に、アズリウスの姿が数回目撃されたことがあるらしい。しかしこれらの情報は証明されておらず、参考になる写真や映像などの資料も一切存在しない。
+	アズリウス本人は一度も当該作戦との関連性を示していない。また、そういった経歴も一切口にしていない。
+	【権限記録】
+	当時その場にいた人の証言によると、アズリウスがスペクターと初めて会った時、スペクターに一度挨拶をした。しかしアズリウスは誰に対しても礼儀正しく接するため、この情報は参考にならないと判断された。個人への対応の偏差を防ぐため、今後そういった情報にはもっと慎重に審査すべきである。
+
+	Archive File 4 :
+	According to a report leaked from certain secret sources, Blue Poison has been spotted in several battles against gigantic creatures. There are no images or any concrete evidence to corroborate these accounts, however. 
+	Blue Poison has indicated no signs of involvement in such battles, nor has she mentioned them. 
+	[CLASSIFIED] 
+	According to eyewitness accounts, Operator Blue Poison greeted Operator Specter by name when she saw her for the first time. But since Blue Poison is polite to every operator, it was dismissed as insignificant. All similar reports must be scrutinized to avoid unwanted speculations about specific operators.
+
+	파일 자료 4 :
+	    완전히 신뢰할 순 없는 정보이긴 하나, 한 오퍼레이터가 비밀 루트를 통해 얻은 정보에 따르면, 과거 일부 대형 생물과의 전투에서 어떤 이가 블루포이즌의 흔적을 발견했었다고 한다. 이 정보들은 검증을 거치지 않았으며, 참고할 만한 어떠한 사진 자료도 남아 있지 않다.
+	    오퍼레이터 블루포이즌은 이러한 종류의 작전과 아무런 관계가 없는 것으로 보이며, 또한 자신도 이것에 대해 언급한 적이 없다.
+	[제한된 기록]
+	    현장에 있었던 어떤 오퍼레이터의 기억에 따르면, 블루포이즌이 오퍼레이터 스펙터를 처음 봤을 때, 그녀와 인사를 한번 나눴다고 한다. 다만 항상 모든 오퍼레이터들에게 아주 예의 바르게 행동을 했던 블루포이즌이었기에, 이 정보는 참고할만한 자료는 아니다. 오퍼레이터 간의 편차를 없애기 위해, 이러한 자료들은 이후에도 더욱 신중하게 검토해야 할 것이다.

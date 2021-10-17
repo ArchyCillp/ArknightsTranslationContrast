@@ -1,11 +1,17 @@
 ID:
 	char_102_texas
 
-干员代号\Name:
+CV:
 	德克萨斯
 	テキサス
 	Texas
 	텍사스
+
+干员代号\Name:
+	田所梓
+	田所あずさ
+	Azusa Tadokoro
+	타도코로 아즈사
 
 招聘合同\Character Usage:
 	企鹅物流职员德克萨斯，将使用源石剑为小队取得开局的优势。
@@ -43,177 +49,380 @@ ID:
 	검의 비
 
 语音\Voices:
-	我接下来的任务是保护博士你的安全。
 	次の任務はドクターの身辺警護か。
 	My next mission is to protect you, Doctor.
 	다음 임무는 박사의 신변 경호인가.
 
-	我的话不多？实际上，我对大多数事情都没什么感想。
 	無口だと？それは私が大抵のことに感慨を抱かないからだ……。
 	I don't say much? That's because I'd rather avoid thinking about most things.
 	내가 과묵하다고? 그건 웬만한 일에는 아무 감흥이 없기 때문이지… 
 
-	我们的工作是搬运生命和死亡。
 	我々の仕事は、生と死を運ぶことだ。
 	Our job is to handle life and death.
 	우리 업무는 삶과 죽음을 나르는 것이다.
 
-	开车的时候我一般会听“空”她自己录的歌。
 	運転中は大抵、ソラが録った曲を聴いている。
 	I usually listen to Sora's songs when I'm driving.
 	운전 중에는 보통 소라가 부른 곡들을 듣고 있다.
 
-	这不是烟，是巧克力，定期摄入能量是必要的。所以......你要来点咖啡么？
 	タバコ？いや、これはチョコレートだ。エネルギーの定期摂取は必要だからな。そうだな……コーヒーでも飲むか？
 	Cigarette? Oh, no, this is chocolate. You've gotta replenish your energy regularly. Which reminds me... do you want some coffee?
 	담배냐고? 아니, 이건 초콜릿이다. 정기적인 열량 섭취는 필수적이니까. 어디 보자… 커피 한잔하겠나?
 
-	什么时候加入企鹅物流的？嗯......什么时候呢......
 	いつからペンギン急便で働いているか？……いつから……そんなこと、とうに忘れた。
 	How long have I worked for Penguin Logistics? When did I start... I've forgotten how long it's been...
 	언제부터 펭귄 로지스틱스에서 일했느냐고? 언제부터였을까… 그런 건 진작에 잊어버렸어.
 
-	红色的狼，务必要小心。她不坏，但.....她和我们不一样。
 	赤いオオカミには気をつけた方がいい。悪いやつではないが……私たちとは違う。
 	Be aware of the Red Wolf. She's not evil, but... she's not like us.
 	붉은 늑대는 조심하는 편이 좋아. 나쁜 녀석은 아니지만… 우리와는 다르다.
 
-	无论怎么逃，我的过去总有一天会追上我。
 	いくら逃げたところで、いつかは過去に追いつかれる。
 	No matter how hard I run, my past will catch me one day.
 	아무리 도망치려 해도, 언젠가는 과거에 따라잡히기 마련이지.
 
-	自由的生活，吵闹的伙伴，虽然总给我带来麻烦，不过......我现在觉得这样也不坏。
 	自由な生活、騒がしい仲間……いろいろ面倒だが……今はそれも悪くない気がする。
 	My independent lifestyle and rowdy friends have brought me a lot of trouble... but I kind of like it this way.
 	자유로운 삶, 시끌벅적한 동료들… 여러모로 귀찮지만… 지금은 그것도 나쁘지 않은 거 같아.
 
-	现在是休息时间吗？
 	今は休憩時間なのか？
 	Is it time for a break?
 	지금 휴식 시간인가?
 
-	代号德克萨斯，职能包括载具驾驶、货物搬运以及人员安全保障。关于任务的说明，请尽量简单些。
 	名前はテキサス。仕事は車両の運転と物資の輸送、そして要人の警護だ。任務に関する指示は、できるだけシンプルに頼む。
 	Code name Texas. My duties consist of vehicle driving, cargo transportation and personnel safety. Keep mission briefings as simple as possible, please.
 	텍사스라고 한다. 차량 운전과 물자 수송, 그리고 요인 경호를 맡고 있다. 임무에 관한 지시는 되도록 간결하게 부탁한다.
 
-	谢谢。
 	どうも。
 	Thanks.
 	고맙군.
 
-	报酬的话，这些足够了。
 	報酬なら、これで十分だ。
 	This will work as payment.
 	보수라면 이걸로 충분해.
 
-	感谢你的信任，博士。
 	ドクターの信頼に感謝を。
 	Thanks for trusting me, Doctor.
 	박사의 신뢰에 감사를 표하지.
 
-	需要我做什么？
 	何をすればいい？
 	What do you need?
 	뭘 하면 되나?
 
-	我不太擅长指挥别人。
 	誰かに指示を出すのは苦手だ。
 	I'm not good at ordering others.
 	다른 사람에게 지시를 내리는 건 잘 못하는데.
 
-	出发。
 	出発する。
 	Let's go.
 	출발한다.
 
-	能天使，掩护我。
 	エクシア、援護を。
 	Exusiai, cover me.
 	엑시아, 지원 바란다.
 
-	给我命令。
 	命令を。
 	Awaiting orders.
 	명령을 내려다오.
 
-	了解。
 	了解した。
 	Got it.
 	알겠다.
 
-	拔刀。
 	抜刀。
 	Draw your swords!
 	발도.
 
-	开始吧。
 	始めよう。
 	Let's begin.
 	시작하지.
 
-	哼。
 	ふん。
 	Hah!
 	흥.
 
-	没人能束缚我。
 	誰にも縛られるつもりはない。
 	No one can constrain me.
 	누구도 날 묶어두진 못해.
 
-	斩尽杀绝。
 	斬り尽くす。
 	Cut them to pieces!
 	철저하게 베어 주마.
 
-	闭嘴。
 	黙っていろ。
 	Shut up.
 	닥쳐라.
 
-	哼，没问题。
 	フッ…問題ない。
 	Whew... No problem.
 	훗… 이 정도는 문제없다.
 
-	不堪一击。
 	脆い。
 	Weaklings.
 	약하군.
 
-	溜走了几个。
 	若干名の侵入を許した。
 	A few of them passed through.
 	몇 명 침입을 허용했다.
 
-	我可能低估了这次行动的难度...
 	今回の任務を甘く見ていたようだ……。
 	I may have underestimated this operation's difficulty...
 	이번 임무를 너무 우습게 본 모양이군… 
 
-	这里需要补充物资吗？我可以帮忙。
 	必要な物資はあるか？助けになろう。
 	Do you have the materials I need? It'd save me a lot of trouble.
 	필요한 물자가 있나? 도와주도록 하지.
 
-	唔......！
 	ウッ……。
 	Um...!
 	윽… 
 
-	怎么了？博士。
 	どうした、ドクター？
 	What is it, Doctor?
 	무슨 일이지, 박사?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	早。
 	おはよ。
 	Morning.
 	안녕.
+
+干员档案\Background:
+	基础档案 :
+	【代号】德克萨斯
+	【性别】女
+	【战斗经验】三年
+	【出身地】哥伦比亚
+	【生日】6月1日
+	【种族】鲁珀
+	【身高】161cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】テキサス
+	【性別】女
+	【戦闘経験】三年
+	【出身地】クルビア
+	【誕生日】6月1日
+	【種族】ループス
+	【身長】161cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Texas
+	[Gender] Female 
+	[Combat Experience] 3 years 
+	[Place of Birth] Columbia 
+	[Date of Birth] Jun. 1 
+	[Race] Lupo 
+	[Height] 161cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 텍사스
+	[성별] 여
+	[전투 경험] 3년
+	[출신지] 컬럼비아
+	[생일] 6월 1일
+	[종족] 루포
+	[신장] 161cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】优良 
+	【生理耐受】标准 
+	【战术规划】优良 
+	【战斗技巧】优良 
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】優秀
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】優秀
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Excellent 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 우수
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	企鹅物流员工，单兵作战能力出类拔萃。 
+	于合约期内任企鹅物流驻罗德岛联络人员，同时为罗德岛的多项行动提供协助。
+
+	個人履歴 :
+	ペンギン急便のメンバー。個人戦において優れた能力を持つ。
+	契約期間中はペンギン急便からの駐在連絡員として、ロドスの行動を支援することとなる。
+
+	Profile :
+	Texas is a Penguin Logistics staff member who is extraordinarily skilled in single combat. She was sent to Rhodes Island as a liaison, where she assists with a variety of operations.
+
+	프로필 :
+	    특출난 각개 전투 능력을 갖고 있는 펭귄 로지스틱스의 직원. 계약 기간 중 펭귄 로지스틱스와의 연락망 유지를 위해 로도스 아일랜드에 상주하고 있으며, 동시에 로도스 아일랜드의 여러 작전에 협력하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员德克萨斯没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.12u/L
+	干员德克萨斯有时会递送含源石成分的包裹，但至今尚未因此致病。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	テキサスには鉱石病の兆候は確認されなかった。
+	
+	【血液中源石密度】0.12u/L
+	源石の成分を含んだ荷物を配達することもあるが、現状まだ感染していない。
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this Operator is believed to be non-infected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	Operator Texas showed no symptoms of Oripathy. 
+	
+	[Blood Originium-Crystal Density] 0.12u/L 
+	Operator Texas sometimes delivers packages with Originium content, but it has not caused infection to date.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적인 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 텍사스로부터 오리지늄에 감염된 현상 발견 안됨.
+	
+	[혈중 오리지늄 결정 밀도] 0.12u/L
+	오퍼레이터 텍사스는 때때로 오리지늄 성분이 함유된 물건을 배송하지만, 아직까진 감염을 일으킨 적은 없다.
+
+———————————————————————————————
+
+	档案资料一 :
+	沉默寡言的信使。 
+	按照本人的说法，并不是将想法藏在心中，而只是单纯的没有什么想法。 
+	虽然给人喜欢独处的感觉，不过事实上大多数时候还是和企鹅物流其他成员一起出现。
+
+	第一資料 :
+	無口なトランスポーター。
+	本人によると、隠そうとしているのではなく、単に何も考えていないだけらしい。
+	一人きりが好きというイメージはあるが、実際は他のペンギン急便のメンバーと一緒に行動することが多い。
+
+	Archive File 1 :
+	A taciturn messenger. 
+	According to her own account, she's not hiding anything, just has nothing to say. 
+	Though she gives off the impression being a loner, she is often seen with her fellow Penguin Logistics employees.
+
+	파일 자료 1 :
+	    과묵한 전달자. 본인의 말에 따르면 어떤 생각을 마음속에 숨겨두는 것이 아니라, 단순히 생각이 없는 것이라 한다. 혼자 있는 것을 좋아하는 것처럼 보이지만, 사실 대부분 펭귄 로지스틱스의 동료들과 함께 행동한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	德克萨斯小姐虽然平时沉默寡言，但她的战斗风格却意外地，可以用暴风骤雨来形容。 
+	虽然罗德岛中，没有接受过正统训练的干员反而占多数，但其中大部分在使用武器时，仍然会具有某种共通的章法，而德克萨斯小姐完全不具备这种章法。 
+	虽然她现在已经相当收敛，但从一些她自己都未必注意到的习惯中仍然可以发现，她所掌握的战斗方式是非常直白的，与任何武器无关的，一切只为消灭对方这个目的服务的，杀人术。
+
+	第二資料 :
+	テキサスは普段から無口であるが、その戦い方は意外にも嵐のように激しい。
+	ロドスでは、まともな訓練を受けたことがなかった人が多数だが、その中でも多くの人は武器を扱う際に共通する特徴がある。しかしテキサスにはそれが見られない。
+	彼女は現在は控えめだが、どんな武器であろうと関係なくただ相手を消すことだけを目的とした、ある意味まっすぐ戦い方が残っていることに自分では気づいていない。
+
+	Archive File 2 :
+	While Texas may be quiet, her fighting style is anything but. It's best described as tempestuous. 
+	At Rhodes Island, Operators without formal training are actually the majority, but when it comes to the use of weapons, most will follow established protocols. Texas, however, doesn't. 
+	While she is a bit more reserved now, one can still see vestiges of an idea that she herself might not be aware of - her belief that the singular purpose of all weaponry is to kill.
+
+	파일 자료 2 :
+	    텍사스는 평소 말이 별로 없고 조용하지만, 그녀의 전투 스타일은 의외로 거친 폭풍과도 같다. 로도스 아일랜드에는 정규 훈련을 받지 않은 오퍼레이터가 많이 있지만, 그래도 이중 대부분은 무기를 사용할 때 어느 정도 공통된 규칙같은 게 있는 반면, 텍사스에겐 이런 게 전혀 없다. 그녀는 티를 내지 않으려 하고 있지만, 스스로도 눈치채지 못한 습관을 통해 그녀의 모든 전투 기술은 매우 정직하고 노골적인, 어떠한 무기든 관계없이 오로지 상대를 소멸시키려는 목적을 달성하기 위한 살인술이란 걸 알 수 있다.
+
+———————————————————————————————
+
+	档案资料三 :
+	无论是鲁珀族的身份，还是显眼的毛色，以及战斗方式，当然，还有名字本身，都将德克萨斯小姐的身份指向已覆灭的德克萨斯家族。那个家族曾盛极一时，而如今，连名字都已被大多数人遗忘。 
+	若真是如此，那德克萨斯小姐的过去，或许比一般人所能想象的极限还要疯狂许多，德克萨斯家族这个名字本身，可以为此担保。 
+	不过，一方面，即使以罗德岛的情报网，对那个家族的情况也知之甚少，另一方面，德克萨斯小姐似乎也没有提及自己过去的意图，那么至少此时此刻，并没有去深挖的必要，毕竟，或许如她所说，总有一天，她的过去会追上她。
+
+	第三資料 :
+	ループス族で、目立つ毛色、そして戦い方とその名前自体も、全てが彼女と既に滅んだテキサス家とのつながりを示している。あの一族は一時期隆盛を極めたが、今は名前すらも忘れ去られている。
+	テキサスというコードネームがテキサス家を由来とするならば、判断できる限り、彼女の過去は我々の想像を遥かに超えるものだろう。
+	しかしその一方で、ロドスの情報網をもってしてもあの一族に関して分かっていることは少ない。テキサスも昔のことを話そうという気はない。今はそれを掘り下げる必要はない。彼女の言う通り、いくら逃げたところで、いつかは過去に追いつかれることになるかもしれない。
+
+	Archive File 3 :
+	Her Lupo origin, her conspicuous fur color, her notable combat style, and of course, her name, all point to her ties with the faded Texas family, a once-famous clan whose name is now forgotten to most. 
+	If that's the case, Texas's past is probably astonishing beyond imagination, as indicated by the Texas name itself. 
+	On the one hand, even with Rhodes Island's intel network, very little is known about the family's fate. On the other hand, Texas never felt the need to elaborate on her past, so there isn't a pressing need to delve into it. After all, her past may one day catch up to her, just as she predicts.
+
+	파일 자료 3 :
+	    루포 족이라는 신분, 눈에 띄는 털색, 전투 방식, 그리고 이름까지, 이 모든 것들은 텍사스가 이미 멸문한 텍사스 가문의 사람임을 가리킨다. 이 가문은 한때 매우 영향력 있는 가문이었으나, 현재는 대다수의 사람들이 그 이름조차 기억하지 못하는 상황이다.
+	    만약 이게 사실이라면, 텍사스의 과거는 어쩌면 보통 사람이 상상할 수 있는 극한의 상황보다 훨씬 더 심각했을 수도 있다. 로도스 아일랜드의 정보망에도 이 가문에 대한 정보는 매우 적으며, 텍사스 또한 자신의 과거사를 이야기하고 싶은 마음은 없어보이기에, 적어도 지금은 더 깊이 조사할 필요는 없어 보인다. 어쩌면 언젠가는 그녀의 말대로, 그녀의 과거가 그녀를 뒤따라 붙을지도 모른다.
+
+———————————————————————————————
+
+	档案资料四 :
+	唯一可以肯定的一点是，虽然德克萨斯小姐从不提及自己的过去，但与其说避而不谈，更倾向于无所谓。 
+	可以看得出她确实十分适应如今的生活，而不是想要在其中逃避什么，平淡的工作，吵闹的同伴，龙门，罗德岛，这就是现在的她的一切。 
+	或许可以这么断言： 
+	即使过去找上门来，德克萨斯小姐依然会从容以对，但若是她的过去扰乱了她的现在，那，或许我们能够见到，她真正愤怒的样子。
+
+	第四資料 :
+	唯一確かなのは、テキサスは自身の過去に触れはしないが、わざと避けているというよりは、どうでもいいという感じに近いということだ。
+	確かに、彼女はいつも通りの仕事、にぎやかな仲間、龍門、ロドスに囲まれた現在の生活に慣れており、何かから逃げようという気はなさそうに見える。
+	予想できることは、過去のことが浮かび上がったとしても、テキサスは平常通りに対応できるということだ。だが、もし過去が今の生活を邪魔することになったとしたら、彼女は本当の怒りを見せるかもしれない。
+
+	Archive File 4 :
+	Although Texas never discusses her past, that's not the same as actively avoiding the topic. It's more like apathy. 
+	From the way she has adapted to her current life, it's obvious she isn't running from anything. Routine work, bickering colleagues, Lungmen, and Rhodes Island are now everything to her. 
+	We could sum it up like this: 
+	When the past does catch up to her, she will face it with composure--unless it disrupts her present, then we'll witness the genuine rage inside her.
+
+	파일 자료 4 :
+	    한 가지 확실한 점은 텍사스가 비록 자신의 과거에 대해 언급한 적은 없지만, 이 주제에 대해 회피하려 한다기보다는 어찌 되든 상관없어한다는 것이다. 그녀는 지금의 생활에 매우 잘 적응한 것 처럼 보이며, 이중 무언가로부터 피하거나 하려 하지는 않는다. 평범한 업무, 시끌벅적한 동료, 용문, 로도스 아일랜드, 이게 현재 그녀의 전부이다.
+	    어쩌면 이렇게 단언할 수 있을지도 모르겠다. 설령 과거가 텍사스를 찾아오더라도 그녀는 여전히 침착하게 대응하겠지만, 텍사스의 '과거'가 그녀의 '현재'를 어지럽힌다면, 우린 아마 그녀가 진정으로 분노한 모습을 보게 될 거라고.
+
+———————————————————————————————
+
+	晋升记录 :
+	德克萨斯这家伙可麻烦了，就算是承认了一个人，也不会跟那个人多说几句，我当时都花了点时间才确定是不是算跟她搞好关系了。 
+	唉，谁要是要当她的朋友，我看可要遭罪喽~ 
+	——能天使
+
+	昇進記録 :
+	テキサス？めんどくさいよあの子！誰かを認めても、その人と沢山おしゃべりするわけじゃないし。あたしもほんとに仲良くなってるか確認するの結構時間かかったなー！
+	はぁ～あの子と友達になりたい人は大変だよ～！
+	——エクシア
+
+	Promotion Record :
+	Texas is a handful. Even when she lets you get close, she won't spare more than a few words. It took me a long time to figure out whether we were cool or not. 
+	Sigh. Anyone trying to be her friend is in for a reckoning. 
+	—Exusiai
+
+	승진 기록 :
+	    텍사스? 걔 엄청 귀찮아! 누군가를 인정해도 얘기를 거의 안 하거든. 나도 정말 친해졌나 확인하는 데 시간 엄청 걸렸다고~! 에휴, 걔랑 친구 먹고 싶은 사람은 나중에 고생깨나 할 거야~
+	——엑시아

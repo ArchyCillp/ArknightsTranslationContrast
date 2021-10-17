@@ -1,11 +1,17 @@
 ID:
 	char_411_tomimi
 
-干员代号\Name:
+CV:
 	特米米
 	トミミ
 	Tomimi
 	토미미
+
+干员代号\Name:
+	高桥美佳子
+	高橋美佳子
+	Mikako Takahashi
+	타카하시 미카코
 
 招聘合同\Character Usage:
 	术师干员特米米，正在罗德岛进行特训。
@@ -43,177 +49,618 @@ ID:
 	가비알 보호 방안
 
 语音\Voices:
-	这些工作嘉维尔是不会做的，部族里也没人想到要做，所以，我有空的时候会干一些。
 	こういう仕事はガヴィルさんはやりたがりませんし、部族の他の人はそんなことを考えもしないんです。ですので、時間がある時は私がやっていました。
-	Gavial doesn’t know how to do this kind of work, and nobody in the tribe thought to do this stuff either. So, that’s why I’ll do a little bit when I have the time.
+	Gavial doesn't know how to do this kind of work, and nobody in the tribe thought to do this stuff either. So, that's why I'll do a little bit when I have the time.
 	이런 업무, 가비알 씨는 하기 싫어하고… 다른 부족 사람들은 이런 걸 생각도 하지 않았어요. 그래서 시간이 있을 때는 제가 했었죠.
 
-	医疗部缺实习护士的话，我可以去试试看，基础护理知识，我还是多少懂一点的。
 	医療部の看護師実習生が足りないようなら、私がやってみましょうか。基礎看護の知識は、多少なりとも心得ていますから。
-	If there’s no trainee nurse at the Medical Department, I can give it a try. I have some basic nursing knowledge.
+	If there's no trainee nurse at the Medical Department, I can give it a try. I have some basic nursing knowledge.
 	의료부 간호사 실습생이 부족한 것 같으면 제가 해볼까요? 기초 간호 지식은 조금이지만 알고 있거든요.
 
-	博士，签字笔好像没墨了。啊，等下，请不要扔！如果您不介意的话，那个，能留给我吗？
 	ドクター、サインペンのインクがなくなっちゃったみたいです。あっ、待って、捨てないで！もしよければ、あの、私にいただけませんか？
-	Doctor, the pen seems to be out of ink. Ah, wait, please don’t throw that out! If it’s not too much to ask, um, could I hang onto that?
+	Doctor, the pen seems to be out of ink. Ah, wait, please don't throw that out! If it's not too much to ask, um, could I hang onto that?
 	박사님, 사인펜 잉크가 다 된 것 같아요. 앗, 잠깐, 버리지 마세요! 혹시 괜찮으면, 저… 제가 가져도 될까요?
 
-	罗德岛不能往下挖吗？地下没有宝物吗？珍贵的东西都锁在房间里？好可惜啊......
 	ロドスは床を掘ってはいけないんですか？地下に財宝は埋まってたりしないんでしょうか？貴重品は全て部屋の中で厳重に保管されている？残念です……
-	Rhodes Island can’t dig underground? Are there no treasures underground? All the precious things are locked inside the rooms? That’s too bad...
+	Rhodes Island can't dig underground? Are there no treasures underground? All the precious things are locked inside the rooms? That's too bad...
 	로도스 아일랜드는 바닥을 파면 안 되나요? 지하에 보물이 묻혀있거나 하지 않나요? 귀중품은 모두 방 안에 엄중하게 보관되고 있다고요? 아쉽네요…
 
-	尾巴，又长了啊，再这样长下去，真的会被人嫌弃的啊，呜呜......好烦恼。
 	しっぽが、また伸びちゃいました。このまま伸びていったら、本当に皆さんに嫌われちゃいそうです。うう……どうしよ……。
 	My tail got longer again. If it keeps getting longer like this, other people will really start to reject me. Ugh... so upsetting.
 	꼬리가 또 자랐어요. 이대로 계속 자라면 정말로 다들 싫어하실 것 같아요. 으으… 어떡하지…
 
-	尾巴大是天生的，强大又帅气是天生的，脑袋好也是天生的。既然没法选择出身，就怀抱着自己的独特生活下去吧。唔，当然博士您偶尔能帮帮我的话......是最好啦。
 	しっぽの大きさは生まれつき、強さもかっこよさも生まれつき、頭の良さも生まれつき。生まれを選べないなら、自分の個性と共に生きていくしかないでしょう。うーん、もちろんドクターがたまに手を貸してくれたら……一番ですが。
-	A big tail is something you’re born with. Being strong and cool are things you’re born with. Being smart is also something you’re born with. Since we can’t choose how we’re born, let’s just live life and embrace what makes us unique. Um, of course, if you can help me out every now and then, Doctor... that would be best.
+	A big tail is something you're born with. Being strong and cool are things you're born with. Being smart is also something you're born with. Since we can't choose how we're born, let's just live life and embrace what makes us unique. Um, of course, if you can help me out every now and then, Doctor... that would be best.
 	꼬리 크기도 타고나는 거고, 강하거나 멋진 것도 타고나는 거고, 좋은 머리도 타고나는 거죠… 타고나는 걸 선택할 수 없다면 자신의 개성과 함께 살아가는 수밖에 없잖아요. 으음… 물론 박사님이 가끔 도와주신다면… 제일 좋겠지만요.
 
-	嘉维尔会旷工我是可以理解的，但她怎么会旷餐呢？是有什么东西让她困惑，害得她不得不躲起来吗？别人好像都没发现，能救她的只有我了！啊博士您在啊，能帮我一个忙吗？
 	ガヴィルさんが仕事をサボるのは分かりますが、食事に来ないなんてありえません。何か困ったことになって、どこかに隠れているのでしょうか？他の人たちは気づいていないようなので、助けてあげられるのは私だけです！あ、ドクターもいらっしゃったんですね、手を貸していただけますか？
-	It’s understandable that Gavial would skip work, but why would she skip a meal? Is there something bothering her to the point that it’s sending her into hiding? No one seems to have noticed yet. I’m the only one who can save her! Ah, Doctor, there you are. Can you help me with something?
+	It's understandable that Gavial would skip work, but why would she skip a meal? Is there something bothering her to the point that it's sending her into hiding? No one seems to have noticed yet. I'm the only one who can save her! Ah, Doctor, there you are. Can you help me with something?
 	가비알 씨가 업무를 게을리하는 건 알지만, 식사하러 오지 않는 건 있을 수 없는 일이에요. 뭔가 곤란한 상황에 빠져서 어딘가에 숨어있는 걸까요? 다른 사람들은 눈치 못 챈 것 같으니까 도와줄 수 있는 건 저뿐이에요! 아, 박사님도 계셨네요. 도와주시겠어요?
 
-	您真的要看吗，背包里东西可能会有点多哦？好吧，我也好久没清点过了。唔，我们来看看：包裹着树叶的琥珀、一颗牙齿？一块带血黑结晶......一沓签名？！博士您不能再看了！到此为止！
 	本当に見たいんですか？カバンの中は物だらけですよ？分かりました、自分でもしばらく整理してませんし。じゃあ、見てみましょうか。葉っぱに包まれた琥珀と、歯？血のついた黒い結晶に……サインの束！？ドクター、もうこれ以上見ないでください！ここまで！
-	Are you sure you want to see? I have a whole lot of stuff in my backpack. All right, I also haven’t checked through everything in quite some time either. Um, let’s take a look: a piece of amber wrapped in a leaf, a loose fang? A black crystal with a speck of blood... and a stack of signatures?! Doctor, that’s as far as you can go! Stop right there!
+	Are you sure you want to see? I have a whole lot of stuff in my backpack. All right, I also haven't checked through everything in quite some time either. Um, let's take a look: a piece of amber wrapped in a leaf, a loose fang? A black crystal with a speck of blood... and a stack of signatures?! Doctor, that's as far as you can go! Stop right there!
 	정말로 보고 싶으세요? 가방 속은 물건이 잔뜩 들어있는데도요? 알겠습니다. 저도 한동안 정리하지 않았으니까요. 그럼, 한 번 볼까요? 잎사귀로 감싼 호박하고, 이빨? 피가 묻은 검은 결정에… 사인 묶음?! 박사님, 이제 이 이상은 보지 마세요! 여기까지예요!
 
-	能够引人直视，直到炽热的火焰烧干眼眶也不愿合上眼皮。嘉维尔她，大概就是这样闪耀的东西吧。哦对了，之前那段描述是我从书上看的，我觉得不错就背下来自己用了，还合适吧。
 	「それは人の目を引き、灼熱の炎で眼が干からびようとも、まぶたを閉じる気にはならないだろう。」ガヴィルさんは、きっとそんなふうに輝く人なんだと思います。あっ、今のは本で読んだ言葉です。いいなと思って覚えたんですが、ぴったりだと思いませんか？
 	Someone who steals your gaze, making you not want to close your eyelids until the flames have burned your eyes from their sockets. You know, Gavial is the kind of person who shines just like this. Oh, by the way, I read that previous description in a book and thought it sounded pretty neat, so I memorized it so I could use it myself.
 	"그것은 사람들의 시선을 끌어, 작렬하는 불꽃에 눈동자가 바싹 말라버려도 눈을 감을 생각은 들지 않을 것이다." 가비알 씨는 분명 그렇게 빛나는 사람일 거예요. 아! 방금 그건 책에서 본 표현이에요. 좋은 거 같아서 외웠는데, 딱 맞는 것 같지 않아요?
 
-	捕梦网，就放这里吧，希望您有个干净舒适的好梦。
 	ドリームキャッチャーはここにかけておきましょう。清らかで気持ちのいい夢が見られますように。
-	Here’s a dreamcatcher. I’ll leave it over here. I hope you’ll be able to have pure and peaceful dreams.
+	Here's a dreamcatcher. I'll leave it over here. I hope you'll be able to have pure and peaceful dreams.
 	드림캐쳐는 여기에 걸어놓을게요. 편안하고 기분 좋은 꿈을 꾸시기를.
 
-	您好，博士。呃我不是来捣乱的，我是，嗯，学习，对，来学习的。嘉维尔都过来了，我也不好一个人待在家乡，对吧。
 	こんにちは、ドクター。あっ、邪魔しに来たわけではありませんよ。私は、えっと、勉強に、はい、勉強に来ました。ガヴィルさんはもうこちらに来ていますから、私も一人で故郷に残るわけにはいかないでしょう。
-	Hello, Doctor. Um, I’m not here to make trouble. I’m, uh, yeah. Here to study. Right, study. Since Gavial is over here, it wouldn’t make sense for me to stay back home alone, right?
+	Hello, Doctor. Um, I'm not here to make trouble. I'm, uh, yeah. Here to study. Right, study. Since Gavial is over here, it wouldn't make sense for me to stay back home alone, right?
 	안녕하세요, 박사님. 앗, 방해하러 온 건 아니에요. 저는… 그러니까… 공부하러… 네, 공부하러 왔어요. 가비알 씨는 이미 이쪽에 와 있으니까 저도 혼자서 고향에 남아있을 수는 없잖아요.
 
-	还，还是上战场直接操练一下比较好，对吧。
 	や、やっぱり戦場で実践してみたほうがいいですよね。
-	I, I think it’d be better to directly practice on the battlefield, right?
+	I, I think it'd be better to directly practice on the battlefield, right?
 	여, 역시 전장에서 직접 해보는 편이 낫겠죠.
 
-	谢谢您送我这么好看的徽章，博士。嗯？唉，晋升奖章？啊，呃，呜呜......我，真的有资格拿吗？
 	こんなにキレイなバッジをくださってありがとうございます、ドクター。えっ？これ、昇進のメダル？あ、あの、うう……ほ、本当に私にこれを受け取る資格はあるんですか？
 	Thank you for giving me such a pretty badge, Doctor. Huh? Oh, a promotion badge? Ah, um, uhhh... Am I really qualified to have this?
 	이렇게 예쁜 배지를 주셔서 감사합니다, 박사님. 네? 이거, 승진 메달이에요? 저, 저기, 으으… 저, 정말로 제가 이걸 받을 자격이 있나요?
 
-	我总有一天会配得上这面旗的，总有一天。
 	いつかこの旗に恥じないようになってみせます、いつかきっと。
-	I’ll be worthy of this flag one day, I swear it.
+	I'll be worthy of this flag one day, I swear it.
 	언젠가는 이 깃발에 부끄럽지 않은 사람이 되겠습니다. 언젠가는, 반드시요.
 
-	让我学学看您的技巧，要是真能学会就好了。
 	ドクターの技を勉強させてください。本当に身につけばいいんですが。
-	Let me try learning some of your techniques. It’d be great if I could pick them up.
+	Let me try learning some of your techniques. It'd be great if I could pick them up.
 	박사님의 기술을 배우게 해주세요. 정말로 익혀낼 수 있다면 좋겠지만……
 
-	交给我吗，真的吗？
 	私に任せる？本気ですか？
-	You’re leaving it to me? Really?
+	You're leaving it to me? Really?
 	저한테 맡기신다고요? 진심이세요?
 
-	走了，打，嗯，打爆他们。
 	行くぞ、奴らをぶ、ブチのめすぞ。
-	Let’s go. Fight. Mm, we’re going to beat them up.
+	Let's go. Fight. Mm, we're going to beat them up.
 	가자, 녀석들을 해, 해치운다.
 
-	等一下，我还没准备好！
 	待ってください、まだ準備ができていません！
-	Wait, I’m not ready yet!
+	Wait, I'm not ready yet!
 	잠깐만요. 아직 준비가 안 됐어요!
 
-	您没看见我，没看见我......
 	ドクターは私に気づいていない、気づいていない……。
-	You didn’t see me, you didn’t see me...
+	You didn't see me, you didn't see me...
 	박사님은 날 못 봤다, 못 봤다……
 
-	试试看？
 	やってみますか？
 	Wanna try?
 	해볼까요?
 
-	上，上了！
 	い、行くぞ！
-	I, I’m going!
+	I, I'm going!
 	가, 가자!
 
-	需要挨打的家伙，都站出来！
 	殴られたい奴は、前に出ろ！
 	Anyone who needs a good beating, step forward!
 	맞고 싶은 녀석은, 앞으로 나와!
 
-	振作起来！
 	しっかりして！
 	Cheer up!
 	정신 차려요!
 
-	再撑一会，再撑一会！
 	もう少し、もう少し頑張ろう！
 	Hold on a bit longer, hold on a bit longer!
 	조금만 더, 조금만 더 힘내요!
 
-	哈！
 	はあっ！
 	Haah!
 	하앗!
 
-	还有谁！
 	あとはどいつだ！
-	Who’s next!
+	Who's next!
 	다음은 누구냐!
 
-	以前博士您就是这么暴打我的。
 	前にドクターはこうやって私を殴りつけたんですよ。
 	You used to smack me around like that before, Doctor.
 	전에 박사님께선 이렇게 저를 후려치셨다고요……
 
-	赢了呢。
 	勝ちましたね。
 	We won.
 	이겼네요.
 
-	唔，背好酸，休息一下。
 	ふぅ、背中が疲れました、休憩しましょう。
-	Ugh, my back’s sore. Need to take a break.
+	Ugh, my back's sore. Need to take a break.
 	후우, 등이 뻐근해요. 휴식하죠.
 
-	我......对不起......
 	私……ご、ごめんなさい……。
-	I... I’m sorry...
+	I... I'm sorry...
 	제가… 죄, 죄송해요…
 
-	啊啊，这个还不能丢，请给我吧，我自己来处理。
 	ああ、それはまだ捨てないで。私にください、片付けますから。
-	Ah, um, you can’t throw that away yet. Please give it to me, I’ll take care of it myself.
+	Ah, um, you can't throw that away yet. Please give it to me, I'll take care of it myself.
 	아아, 그건 아직 버리지 마세요. 저한테 주세요. 정리할 테니까.
 
-	尾，尾巴......
 	し、しっぽ……。
 	M-my tail...
 	꼬, 꼬리…
 
-	来尝尝萨尔贡土法烧烤好不好，我来烤，您吃就好。
 	サルゴン式のバーベキューを味わってみませんか。私が焼きますから、ドクターは食べるだけでいいですよ。
-	Want to try Sargon’s local barbecue? I’ll do all the barbecuing, so you can just enjoy the food.
+	Want to try Sargon's local barbecue? I'll do all the barbecuing, so you can just enjoy the food.
 	사르곤식 바비큐를 맛보지 않으실래요? 제가 구울 거니까 박사님은 드시기만 하면 돼요.
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	唔唔，博士。
 	うう、ドクター。
 	Ugh... Doctor...
 	우으으… 박사님…
+
+干员档案\Background:
+	基础档案 :
+	【代号】特米米
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】萨尔贡
+	【生日】2月2日
+	【种族】阿达克利斯
+	【身高】142cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】トミミ
+	【性別】女
+	【戦闘経験】なし
+	【出身地】サルゴン
+	【誕生日】2月2日
+	【種族】アダクリス
+	【身長】142cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Tomimi
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Sargon
+	[Date of Birth] Feb 2
+	[Race] Archosauria
+	[Height] 142cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 토미미
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 사르곤
+	[생일] 2월 2일
+	[종족] 아다크리스
+	[신장] 142cm
+	[광석병 감염 상황]
+	 의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良
+	【战场机动】普通
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent
+	[Mobility] Normal
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	特米米，萨尔贡阿卡胡拉地区的阿达克利斯人，嘉维尔的同伴与支持者，曾试图以激进手段阻止嘉维尔返回罗德岛，未果，随后便同其一起来到罗德岛。
+	承担术师干员职责，但经常会忘记，鉴于在战场上表现尚佳，暂不考虑改变她的干员定位。
+
+	個人履歴 :
+	サルゴンアカフラ地域出身のアダクリス人であり、ガヴィルの熱烈な支持者でもある。ガヴィルがロドスに帰還する時に、過激な方法で阻止しようとしたが失敗。結果、ガヴィルと共にロドスへやって来た。
+	自分が術師オペレーターだということを忘れがちだが、戦場での働きはそれなりに良いため、ポジション変更の予定はない。
+
+	Profile :
+	Tomimi, an Archosauria from the Acahualla region of Sargon, is a friend and supporter to Gavial. She tried all sorts of radical ways to prevent Gavial from returning to Rhodes Island, but upon her failure, instead accompanied Gavial back to Rhodes Island.  
+	She assumes the responsibilities of a Caster but often forgets that she is a Caster. Nevertheless, given her excellent performance on the battlefield, there are no plans to have her switch operator roles.
+
+	프로필 :
+	    토미미는 사르곤 아카후알라 지역의 아다크리스인으로, 가비알의 동료이자 후원자이다. 과거 가비알이 로도스 아일랜드로 귀환하는 것을 무력을 동원해 막으려 하였으나 실패하자 그녀를 뒤따라 로도스 아일랜드에 합류하였다.
+	 캐스터 오퍼레이터를 맡고 있지만, 종종 그 사실을 잊곤 한다. 전장에서 보이는 뛰어난 활약을 감안, 일단은 그녀의 포지션을 변경할 계획은 없다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	“这家伙还是像以前一样，白白嫩嫩的。”
+	
+	【血液源石结晶密度】0.14u/L
+	“还真有听我话锻炼身体啊？不错嘛。”
+	
+	“特米米我可是再熟悉不过了——虽然是第一次给她做身体检查。”——嘉维尔
+	“体检过程很顺利，就是心跳一直偏快，数据测不准。”——嘉维尔
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	「こいつ、昔から色白でぴちぴちなんだよな。」
+	
+	【血液中源石密度】0.14u/L
+	「ちゃんとアタシの話を聞いて鍛えてたんだ？えらいじゃねぇか。」
+	
+	「トミミならアタシがよく知ってるよ――身体検査をするのは初めてだがな。」
+	「検査過程は順調だったんだが、心拍数がずっと早いままでな。正しい数値を取るのに一苦労だったぞ。」――ガヴィル
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	'This one's the exact same as before, pure and unblemished.' 
+	
+	[Blood Originium-Crystal Density] 0.14u/L
+	'Is she actually listening to me when I say she needs to exercise? Not bad.' 
+	
+	'I pretty much already know everything about Tomimi—— Though this would be the first time I gave her a physical exam.' ——Gavial
+	'The physical exam went smoothly, but her heartbeat was abnormally fast and that confounded the data.' ——Gavial
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	"이 녀석은 여전하네, 뽀얗고 보들보들해."
+	
+	[혈중 오리지늄 결정 밀도] 0.14u/L
+	"정말 내 말 듣고 운동한거야? 대단한걸."
+	
+	"처음 토미미에게 해주는 신체검사긴 해도 그녀의 상태는 내가 잘 알지."——가비알
+	"신체 검사는 아주 순조로워, 심장 박동이 너무 빨라서 데이터가 정확하지 않지만.——가비알
+
+———————————————————————————————
+
+	档案资料一 :
+	在“诡计”被识破，被嘉维尔“惩罚”了一顿后，急中生智的特米米决定跟着嘉维尔来到罗德岛成为干员。对于部落外到底是个什么模样，特米米并不太清楚，她对外界的印象，完全依靠和依娜姆的交谈以及委托购入的书籍建构，初到罗德岛的她和另外两位干员一样，在测试和试用过程中出现了若干常识性错误，但她依靠自己的适应能力快速完成了蜕变，从萨尔贡边陲的小部落首领转变成了一位有着个人特色的术师干员。
+	在进行干员申请手续的时候，有一部分负责测试的干员起初是不认同让特米米成为术师干员的。在接受现代源石技艺理论教育的术师们看来，特米米对源石技艺的运用毫无章法且粗糙，而她的肉搏欲望也完全和对术师干员的需求背道而驰，以至于测试干员们汇总意见时发生了这样有趣的对话：
+	“她这和嘉维尔有什么区别啊！”
+	“嘉维尔不会真的抡人。”
+	“我觉得那只是因为她忙不过来。”
+	不过最终，他们还是决定让特米米成为一名术师干员，而且在特米米的培训方针上也没有要求她向现代术师靠拢，反而决定让她贯彻自己的战斗方式。因为通过观察，他们认为特米米的战斗方式并不是没有值得学习之处，将自己的法术“注入”法杖来使得法杖充满杀伤力，如果换一个角度来看的话，简直是一种绝妙的想法。术师干员们本身都是一些充满探索精神的人，在承认了特米米的战斗方式后，在一些术师干员之间就掀起了“术师也应当身体强壮”的健身思潮，他们甚至开始寄希望于通过特米米的成长来开创一种全新的源石技艺流派——当然，即使真的能够成功，这大概也会是以后的事了。
+
+	第一資料 :
+	ガヴィルに「悪だくみ」がバレ「お仕置き」されてすぐ、トミミはガヴィルと共にロドスに行き、オペレーターになると決めた。とはいえ彼女は部族外の世界について、あまりにも無知だった。彼女の知識は、イナムとの雑談と購入してもらった書籍によるものしかなかったからある。それゆえロドスでのテストおよび見習い期間中、彼女は他二名のオペレーター同様に、常識がわからず苦労した。しかし彼女は高い適応能力で瞬く間にロドスに順応し、サルゴン辺境の小さな部族を率いる首領から、個性的な術師オペレーターへと変わっていった。
+	トミミがオペレーターになるための手続きを行う際、テストを担当したオペレーターの一部は、彼女を術師として着任させることに反対していた。現代アーツ理論教育を受けた術師たちからすれば、トミミのアーツの使い方は、あまりにも非理論的で雑だったからである。さらに彼女の肉弾戦への意欲も、術師にあるべき姿ではなかった。以下、テスト担当オペレーターたちの会話である。
+	「あの子のやり方、あれじゃあガヴィルと変わらないじゃない！」
+	「ガヴィルは本当に人を殴ったりしなかったでしょ。」
+	「それは単純にそんな暇がなかっただけだと思うよ。」
+	だが彼らは最終的にトミミを術師オペレーターとして登用することに決めた。しかも訓練方針は、無理に現代術師に近づけず、トミミ自身の戦い方を貫くこと、である。彼らはトミミを観察しているうちに、彼女の戦い方にも学ぶべきところがあると気づいたのだ。確かに自分のアーツを杖に「注いで」殺傷力を持たせるのは、独創的で絶妙なアイディアである。その後、トミミの戦い方に共感した一部の術師オペレーターたちは「術師にも強靭な体が必要」と、フィットネスブームを巻き起こした。さらに彼らは、トミミが真新しいアーツ流派を作り出すことも期待し始めた――無論、これが果たされるのは、はるか未来の出来事になるだろうが。
+
+	Archive File 1 :
+	After Gavial saw through her 'trick' and 'punished' her, Tomimi decided to follow Gavial to Rhodes Island and become an operator. Tomimi has little knowledge of life outside her tribe. Her impressions of the outside world come entirely from her conversation with Inam and from the books that were commissioned. When she first came to Rhodes Island, she was the same as two other operators, making a variety of common sense blunders during her trial-and-error phase. However, she quickly completed her transition thanks to her adaptability, and transformed from the leader of a small tribe on the border of Sargon into a Caster Operator with a unique personal flair. 
+	When Tomimi first applied to become an operator, some of the other operators in charge of the testing process initially were opposed to letting her become a Caster. In the eyes of Casters who have been trained under the theoretical framework of modern Originium Arts, Tomimi's use of Originium Arts is brutish and backwards, particularly her preference towards melee combat which runs contrary to what is typically required of Casters. When the testers gathered around to discuss their opinions, one interesting question was front and foremost:
+	'What's the difference between her and Gavial?' 
+	'Gavial wouldn't actually force people.' 
+	'I think that's only because she's too busy.' 
+	'But ultimately, they decided to let Tomimi become a Caster, and in terms of her training policy, they did not ask her to conform to the standards of modern Casters and instead allowed her to implement her own fighting style. The reason is, after observing Tomimi's fighting style, they determined that there was some value in studying it. 'Injecting' your own Arts into a wand in order to fill it with lethal power is, from a certain perspective, an utterly fanciful notion. Casters themselves tend to be intellectually curious people as well. After acknowledging Tomimi's combat abilities, a small group of Casters adopted the belief that 'Casters ought to be physically strong.' They even began to hope that a new school of Originium Arts would form through Tomimi's growth— Of course, even if this was to succeed, that'll be some time in the future.
+
+	파일 자료 1 :
+	    '음모'가 들통나 가비알에게 '벌'을 받은 후, 황급히 계책을 생각해낸 토미미는 가비알과 함께 로도스 아일랜드로 와서 오퍼레이터가 되기로 결정했다. 하지만 토미미는 부족 밖 세상이 어떤 곳인지 잘 몰랐고, 바깥세상에 대한 지식은 전적으로 이남과의 대화나 부탁해서 구입한 책에 의존할 수밖에 없었다. 그래서인지 처음 로도스 아일랜드에 도착한 토미미는 다른 두 오퍼레이터와 마찬가지로 테스트 및 인턴 과정 중 다소 상식에 어긋나는 실수를 저질렀으나, 그녀 특유의 적응력을 발휘해 빠르게 사르곤 변경의 작은 부족장에서, 특색 있는 캐스터 오퍼레이터로 탈바꿈하는데 성공하였다.
+	 오퍼레이터 신청 수속을 밟고 있던 당시, 일부 테스트 책임자들은 처음에 토미미를 캐스터 오퍼레이터로 지정하는 것에 동의하지 않았다. 현대의 오리지늄 아츠 이론 교육을 받은 그들이 보기에, 토미미의 오리지늄 아츠 운용 방식은 뒤죽박죽에 거칠었으며, 육박전을 선호하는 그녀의 성향 또한 캐스터 오퍼레이터에게 요구되는 자질과는 상반되는 것이었기 때문이다. 심지어 테스트 오퍼레이터들이 의견을 모을 당시엔 이런 재미있는 대화가 오고 가기도 했다.
+	 "토미미가 가비알과 다른 점이 뭔데!"
+	 "가비알은 진짜로 사람을 던져버리진 않지."
+	 "내 생각엔 그건 그저 그럴 시간이 없어서일 뿐일걸."
+	 하지만 결국 그들은 토미미를 캐스터 오퍼레이터로 채용하는 것에 동의했다. 또한 그녀의 훈련 방침에 대해서도 현대적인 캐스터를 지향해야 한다고 요구하지 않고, 오히려 그녀가 자신만의 전투 방식을 관철할 수 있게 지켜보기로 결정하였다. 이는 관찰을 통해 토미미의 전투 방식에서도 배울 점이 없는 건 아니라고 판단했기 때문이다. 자신의 아츠를 아츠 스태프에 '주입'해서 살상력을 부여한다는 건, 어떻게 보면 정말 절묘한 전략이었다. 캐스터 오퍼레이터들은 본래 탐구 정신이 충만한 사람들이기에, 토미미의 전투 방식을 인정한 후, 일부 캐스터들 사이에는 "캐스터도 몸을 단련해야 한다"라며 헬스 바람이 불기도 했고, 심지어 토미미의 성장을 통해 완전히 새로운 오리지늄 아츠 유파를 만들겠다는 희망도 품기 시작했다. 물론 그게 정말 성공한다 하더라도 아마 먼 훗날의 일이 되겠지만.
+
+———————————————————————————————
+
+	档案资料二 :
+	与特米米交谈，总会有一个绕不开的话题：嘉维尔。一旦在她面前提到这个名字，原本话不多的特米米总会瞬间打开话匣子，无所不用其极地描述嘉维尔的好。其狂热程度，或许和堵在塞壬唱片总部大门口，只为见偶像一面的粉丝有得一拼。其实设身处地想一想，特米米会变成这样，或许是一件无法避免的事。 假设有位美少女，在外是个连大人都处理不了的孩子王，无数小朋友都想和她交朋友；但这样的她却会天天来你家吃饭找你玩，将自己的贴心与帅气悉数展现——这样的人，谁不会心动呢？！更何况，就是这样一位优秀的女孩，为了保护特米米，在矿洞里被源石刺伤，感染了矿石病。这样的桥段甚至连哥伦比亚的畅销书作家都不敢随便写，但事情就这样发生了，把特米米的心紧紧系在了嘉维尔的尾巴上。在那之后，特米米全心全意照顾嘉维尔，却被嘉维尔误以为是“排挤”。在祭典上暴揍了所有的挑战者后，嘉维尔扬长而去，而之后发生的事况，参阅嘉维尔从萨尔贡老家回来之后各相关人士的报告即可。根据报告内容总结，特米米之所以会想到用火箭炮把博士的飞行器给轰下来，也许只是因为很久没见的嘉维尔，仅此而已。在同嘉维尔一起来到罗德岛之后，特米米就完全没做过任何出格的事情了。
+	
+	“我说，真不用特米米的事迹出本书吗？电影也可以啊，绝对好卖。”
+	“你想被嘉维尔锤就直说。”
+	“没问题的啦，当事人都很迟钝的。”
+	“......”
+	“那，年会的演出剧本，拜托你了。”
+	“多改一点啊，被认出来大家都得挨打！”
+	“好叻，包在我身上。”
+
+	第二資料 :
+	トミミの前で「ガヴィル」の名を口にすると、本来口数が少ない彼女は一瞬で饒舌になり、あらゆる言葉を尽くしてガヴィルを褒め称える。その熱狂ぶりは、MSR社本社の入口でアイドルの出待ちするファンのようだ。だが彼女の立場になってみれば、ここまでガヴィルに夢中になるのも無理はないだろう。考えてみよう。目の前にいる美少女は、大人も手を焼く子供たちのリーダー格だ。当然多くの子供たちが彼女と友達になりたがっている。だがそんな彼女は毎日あなたの家にご飯を食べに来て、一緒に遊んでくれて、優しいところも格好良いところも全部見せてくれるのだ――それで心が奪われない者なんているだろうか？さらにそんな優秀な女の子が、あなたを守るために、坑道で源石に刺されて、鉱石病に感染してしまったとしたら――。このような話はクルビアのベストセラー作家でさえ、そう簡単に書くことはできないだろう。だがこれはトミミに実際に起こった出来事である。このおかげでトミミの心はガヴィルのしっぽにきつく結びついてしまった。以降、トミミは全身全霊を尽くしてガヴィルの世話を焼くようになったのだが、残念ながら、ガヴィルはそれを「よそ者扱い」と感じたようだ。結局、彼女は祭典で全ての挑戦者をボコボコにした後、集落を出て行ってしまった。その後起こったことについては、ガヴィルが故郷サルゴンから帰還した後の、関係者たちの報告書を読めばわかるだろう――トミミがロケットランチャーでドクターが乗った飛行ユニットを撃ち落とそうとしたのも、久しぶりにガヴィルに会いたかっただけだったのかもしれない。ちなみにガヴィルと共にロドスに来てから、トミミは度が過ぎたことを何一つしていない。
+	
+	「ねぇ、トミミの過去を本にしない？映画でもいいよ、絶対売れるって。」
+	「ガヴィルにぶん殴られたいのか。」
+	「大丈夫だって、当事者たちはみんな鈍い人だから。」
+	「……」
+	「じゃあ、忘年会の演目の脚本、頼んだよ。」
+	「脚色多めに頼むよ、もし気づかれたら私たち全員ぶっ飛ばされるから！」
+	「よし、任せて。」
+
+	Archive File 2 :
+	When talking to Tomimi, there is always one topic that cannot be avoided: Gavial. As soon as this name is mentioned, the normally taciturn Tomimi will instantly open her inner chatterbox, praising Gavial's goodness as if her life depended on her.  This degree of enthusiasm may be a match for that of the fans stuck outside the gates of Monster Siren Records HQ waiting for a chance to meet their idols. If you put yourself in her shoes though, Tomimi becoming like this may have been inevitable. Pretend that there's a beautiful young girl. Outside, she's the queen of the playground, and not even the adults can handle her. Everyone wants to be her friend, but she's always at your doorstep, sharing meals with you and asking you to play, showering you with her geniality and grace— What kind of person wouldn't be moved?! Furthermore, this wonderful young girl was stabbed by Originium in the mines in order to protect Tomimi, and ended up contracting Oripathy because of it. Even the bestselling authors of Columbia dare not write such heart-wrenching passages lightly, but this is not a work of fiction. It is Tomimi's truth, and that is why she is so devoted to Gavial. After that, Tomimi dedicated herself to attending Gavial, though the latter mistook this as 'exclusion.' After violently beating down all challengers at the Mahuizzotia, Gavial left the tribe. As for what happened afterwards, please refer to the reports from relevant individuals following Gavial's return from her hometown in Sargon. According to the report summary, the reason why Tomimi thought of using a rocket launcher to shoot down the Doctor's aircraft may simply have been because she hadn't seen Gavial in a long time, nothing more. Tomimi has not pulled any crazy stunts like this since coming to Rhodes Island with Gavial. 
+	
+	'My word, is there really no need to publish a book on Tomimi's antics? A movie would do fine too. They'd be smash hits for sure.' 
+	'Keep going on about that, if you want Gavial to smack you.' 
+	'Don't worry, the relevant parties are... a bit slow.' 
+	'......'
+	'Um, in that case, I'll be counting on you for the script for the annual festival.' 
+	'Change things up a little bit though. We'll get beaten up if they recognize themselves!' 
+	'You got it. Just leave it to me. '
+
+	파일 자료 2 :
+	    토미미와 대화를 한다면 언제나 피해 갈 수 없는 주제가 있다. 바로 가비알이다. 일단 토미미 앞에서 이 이름이 언급되면, 원래 말수가 없던 토미미는 갑자기 수다쟁이처럼 말이 많아지며, 전력으로 가비알의 장점을 말한다. 그 열정의 온도는 마치 아이돌을 보기 위해 사이렌 음반 본사 출입구를 막은 팬들의 그것과도 같았다. 사실 입장 바꿔 생각해본다면, 토미미가 이렇게 변한 것은 어쩌면 불가피한 일이었을지도 모른다. 예를 들어 한 미소녀가 있는데, 그녀는 어느 누구도 함부로 대할 수 없는 아이들의 왕이었고, 수없이 많은 아이들이 그녀와 친구가 되고 싶어한다고 치자. 그런데 이런 미소녀가 매일 당신 집에 와서 당신과 함께 밥을 먹고 같이 놀아주고, 자신의 센스와 매력을 아낌없이 뽐내준다면, 이런 사람을 누가 좋아하지 않을 수 있을까!? 게다가 이 다재다능한 미소녀는 오리지늄 광산에서 토미미를 보호하려다 오리지늄에 찔려 광석병에 감염되기까지 했다. 이런 스토리는 아마 컬럼비아의 베스트셀러 작가조차 쉽게 쓰지 못할 것일진대, 실제로 이런 일이 발생하자 토미미의 마음은 가비알의 꼬리에 꽁꽁 묶여버린 것이다. 그 후 토미미는 정성을 다해 가비알을 보살폈으나, 가비알은 이를 자신을 '배척'하는 행위로 오해하였고, 제전에서 모든 도전자들을 두들겨 팬 후 훌쩍 떠나버렸다. 이후의 상황을 알고 싶다면 가비알의 고향에 다녀온 관계자들이 작성한 보고를 참고하면 될 것이다. 보고의 결론만 말하자면, 토미미가 로켓포로 박사의 비행기를 격추시키려고 한 이유는 어쩌면 그저 오랫동안 가비알을 만나지 못해서일 뿐일 것이라고 한다. 가비알과 함께 로도스 아일랜드로 온 후, 토미미는 특별한 사건사고 없이 잘 지내고 있다.
+	
+	    "저기 말이야, 정말 토미미의 인생을 책으로 내지 않을 셈이야? 영화도 괜찮을 텐데, 분명 엄청나게 팔릴걸."
+	    "가비알한테 쥐어 터지고 싶으면 직접 말하든가."
+	    "문제없지, 당사자들 모두 신경도 안 쓰거든."
+	    "..."
+	    "그러면 송년회 연출 극본은 네게 맡길게."
+	    "최대한 뜯어고치도록 해, 당사자들이 눈치챈다면 다들 뚜드려 맞을 테니까!"
+	    "좋아, 내게 맡기라고."
+
+———————————————————————————————
+
+	档案资料三 :
+	在回到罗德岛后，博士曾询问过特米米到底是如何想出那一整套馊主意的，支吾了半天，特米米拿出了一些书，书堆上方几本书籍的名称是这样的：
+	《离自信只差一步》、《你一定能成功》、还有那本《100天教你如何学会企业管理》......
+	接着，她取出了一张书单，上面列满了经常会出现在书店畅销排行榜上的书籍名称，大多是涉及时尚、成功学还有管理学的，其中涵盖的一些内容无疑让特米米在认识外界的时候走错了方向。比如说......她曾经真的把企业管理的那一套用在了“嘉维尔意志”的部族成员身上，要求他们统一着装、喊口号、像个鲁珀一样拼搏（加入罗德岛前她并不太清楚鲁珀是什么）。虽然在特米米的实力面前，部族成员们并没有什么怨言，但听说特米米离开后，大家就恢复了往昔松散的部族生活了。这样一想，特米米给博士的那发火箭炮，估计也是受到了其中一本书里的案例影响吧。
+	万幸的是，特米米还是从中学到了一些实用的生活技巧。她已经熟习了在有限空间内收纳物品的能力，即使是负责宿管的干员也对她赞誉有佳，此外，她已能够熟练使用探险工具，在没有人帮助的情况下独自野外探险，再也不会犯误入矿洞后遇险这样的错误了。只是，罗德岛宿舍不同于阿卡胡拉部落老家，没有近乎无限的空间给特米米放藏品，在嘉维尔的劝说下，她开始筛选自己的宝藏，并把其中最最珍贵的东西放进背包贴身携带。
+	这样一看，与其说特米米不够聪明，不如说她其实是把精力用在了错误的地方。
+
+	第三資料 :
+	ロドスに戻ってから、ドクターがトミミにどうやってあんな悪だくみの数々を思いついたのかを尋ねたことがある。トミミはかなり躊躇った末に、参考にしたという本を持ってきた。タイトルを、本の山の一番上から読み上げてみよう：
+	『自信まであと一歩』『あなたは必ず成功する』、そして『100日で学ぶ企業管理』……
+	次に彼女は、書目リストを取り出した。そこに並んでいたのは、本屋のベストセラーランキングでよく見かけるようなタイトルである。多くはファッション、成功学や管理学に関するものだったが、中にはトミミが外の世界を理解する際に間違った方向へ導いたであろうものもあった。例えば、企業管理の本に書かれていた「秘訣」である。彼女はそれを「ガヴィルマインズ」部族のメンバーに、実践させてしまった。詳しく言うと、一同にお揃いの服を着て、大きな声でスローガンを復唱し、ループスのように奮闘するように強制したのである（ロドスに加わるまでループスとは何なのかも知らないままに）。トミミの実力を知る部族の者たちは文句を言わずに従ったが、彼女が部族を離れてからはこの日課を取りやめ、また以前ののんびりした生活に戻ったという。思えば、トミミがドクター目掛けてロケットランチャーを発射したのも、本に書かれた実例に影響された結果なのだろう。
+	しかし幸い、トミミはそれらの本の中から実用的な生活の技も学んでいた。例えば彼女は収納が上手く、宿舎管理を担当するオペレーターに褒められるほどだ。とはいえロドスの宿舎は彼女の実家とは違い、コレクション全てを保管できるほどの空間がない。ガヴィルの助言もありコレクションを選別した彼女は、今、一番大切なものはかばんに入れていつも身に着けている。また彼女は探検用道具の扱いも上手くなり、一人で野外探検を行っても、トラブルに巻き込まれることがなくなった。
+	これらのことから考えると、トミミの突拍子もない行動は、本人の知能が足りないのではなく、やる気を間違ったところへ向けてしまっているだけなのかもしれない。
+
+	Archive File 3 :
+	After returning to Rhodes Island, the Doctor asked Tomimi how she had come up with all those terrible ideas. After waffling around for quite some time, Tomimi brought out a number of books that had titles such as these:
+	'Only One Step Until The New You', 'You're a Winner', 'Learn Business Management in 100 Days'...
+	Then, she took out a list of books that often appeared on the bestseller lists of bookstores, mostly related to fashion, self-help, and management. Without a doubt, the contents of these books gave Tomimi some dubious directions when it came to her understanding of the real world. For example... she really tried to apply this corporate management system to the members of the 'Gavial's Will' tribe, demanding that everyone wear a uniform, shout slogans, and fight like a Lupo (note that she had no idea what a Lupo was prior to joining Rhodes Island). Though the tribe had no complaints due to Tomimi's abilities, after she left, everyone in the tribe quickly lapsed into their old, comfortable ways. With this in mind, the rocket launcher incident was probably inspired by one of these books. 
+	Fortunately, Tomimi was able to pick up a number of practical life skills. She is already familiar with storing items in a limited space, an ability that has earned her the praise of dorm staff. In addition, she is proficient in the use of expedition tools, able to explore the wilds without assistance. Nor will she ever again make the mistake of getting trapped in a mine by accident and putting herself in danger. However, Rhodes Island is different from the hometown of her Acahualla tribe. Gone is the near-infinite space she had back there to store her various collectibles. Under Gavial's persuasion, she has begun to screen her treasures, keeping only the most valuable things in a backpack that she carries on her person. 
+	All things considered, one cannot say that Tomimi is unintelligent, but rather, all her energy goes into the wrong areas.
+
+	파일 자료 3 :
+	    로도스 아일랜드에 돌아온 후, 박사는 토미미에게 대체 어떻게 그런 잔꾀를 생각해 낼 수 있는지 물었는데, 한참 동안을 얼버무리던 토미미는 다음과 같은 이름의 책을 필두로 한 무더기의 책을 꺼냈다.
+	 <자신감까지 단 한 걸음>, <당신은 반드시 성공할 수 있다>, 그리고 <100일만에 기업 관리 익히기> 등등......
+	 그리고 그녀는 한 장의 도서 목록을 꺼냈는데, 그 목록에는 서점 베스트셀러 목록에 자주 등장하는 책의 이름이 빼곡히 적혀 있었으며, 대부분은 패션과 성공학, 경영학에 대한 것들이었다. 이 중 일부 내용이 토미미가 외부 세계를 알아갈 당시 그녀의 외부 세계에 대한 인식을 왜곡 시켰으리란 점은 의심의 여지가 없을 것이다. 예를 들어, 그녀는 정말 경영학 이론을 '가비알의 의지' 부족원에 적용, 그들에게 복장을 통일시키고 구호를 외치며, 루포처럼 싸우기를 요구했다. (그녀는 로도스 아일랜드에 합류하기 전까지 루포가 뭔지도 정확히 알지 못했다). 부족 원들은 토미미의 앞에서 아무런 불만도 말할 수 없었으나, 토미미가 떠난 후에는 모두들 이전의 느슨한 분위기의 부족 생활로 돌아갔다고 한다. 이렇게 보니, 토미미가 박사에게 로켓포를 발사한 것도 그 책들 중 하나의 영향을 받은 게 아닐까 싶다.
+	 천만다행인 점은, 토미미가 실용적인 생활 기술을 몇 가지 배웠다는 것이다. 그녀는 한정된 공간에 물건을 수납하는 것에 익숙한데, 숙소를 관리하는 오퍼레이터가 그녀를 칭찬할 정도다. 또한 그녀는 탐험 도구 사용법을 숙달하여, 누군가의 도움 없이도 혼자 야외 탐험을 할 수 있을 뿐만 아니라, 이제 더는 광산에 잘못 들어가 위험에 빠지는 실수 따위도 범하지 않게 되었다. 다만 로도스 아일랜드의 숙소는 아카후알라 부족이 있던 고향과는 달리 토미미가 물품을 보관할 수 있는 무한에 가까운 공간이 없어서, 그녀는 가비알의 권유에 따라 자신의 보물 중 가장 소중한 것을 선별해 가방에 넣어 휴대하고 다니기 시작했다.
+	 이렇게 보면 토미미는 똑똑하지 않은 게 아니라, 잘못된 방향으로 자신의 노력을 쏟고 있었다고 해야 할 것 이다.
+
+———————————————————————————————
+
+	档案资料四 :
+	特米米的尾巴又长大了。
+	这本身并不是一件坏事，阿达克利斯人大多都以拥有一条巨大的尾巴为荣。
+	但特米米的尾巴不仅在横向延伸，还在往纵向空间延展。
+	关于尾巴到底该长成什么样，阿达克利斯人自己都没有定论，“粗尾派”和“细尾派”的纷争直到今天也没有一个结果。
+	特米米并不属于任何一派，尾巴怎么长都行，嘉维尔也不在乎。
+	但是尾巴有点重了，平常好像也有一丁点不方便，在医生的建议下，还是用上了阿达克利斯专用尾尾佳。
+	大家经常听到特米米这样抱怨：“明明小时候尾巴和嘉维尔差不多粗细，怎么长大就差那么多。”
+	到底是保持原样，还是咬咬牙把尾巴瘦下去，特米米自己都拿不定主意。
+	一方面粗尾巴很受欢迎，在战场上能发挥出意想不到的效果，嘉维尔也喜欢捏。
+	另一方面，粗尾巴有时候会对别人造成困扰，有些好看的衣服会因为尾巴尺寸问题买不到合适款。
+	所以在尾巴的问题上，特米米困扰了好久。
+	她需要一个人来帮她做决定，并且帮助她执行。
+	那个人会是谁呢？
+
+	第四資料 :
+	トミミのしっぽがまた大きくなった。
+	別に悪いことではない。アダクリス人にとって、大きなしっぽは自慢である。
+	だがトミミのしっぽは横だけではなく、縦にも膨らみ続けている。
+	しっぽの形についてはアダクリス人の間でも意見が割れていて、「太尾派」と「細尾派」の論争は結論が出ないまま、今なお続いている。
+	ちなみにトミミはどちらの派閥にも属していない。しっぽなんてどう生えてもいいと思っているし、ガヴィルも気にしていないからだ。
+	だがしっぽが重くなりすぎて、日常生活が不便になってきたため、トミミは医者のアドバイスに従って、アダクリス専用のしっぽ補助ベルトを着けることにした。
+	以来、ロドス艦内では「小さい頃のしっぽはガヴィルさんと同じくらいの太さだったのに、なんでこんなに違ってきてしまったのでしょうか」と不満をこぼすトミミの姿がよく見られている。
+	このままでいるべきか、歯を食いしばってでもしっぽのダイエットをするべきか、トミミ自身も決心がつかないのである。
+	太いしっぽは確かに人気で、戦場で意外な効果をもたらすこともあるし、ガヴィルも好んでぷにぷにしてくれる。
+	だが、太すぎるしっぽは他人に迷惑をかけることもある。そのうえ、きれいな服を着たくても、しっぽのせいでちょうどいいサイズが見つからなかったりするのだ。
+	どうするのが一番いいだろう？トミミはその答えを出すために、誰かに背中を押してもらいたい、できればしっぽのケアも手伝ってほしいと悩んでいる。
+	だがその「誰か」とは誰だろう？
+
+	Archive File 4 :
+	Tomimi's tail grew again. 
+	By itself, this is not a bad thing, as the Archosaurus people are proud of having large tails. 
+	But Tomimi's tail doesn't only grow longer, it also grows thicker. 
+	As for the proper ideal of what a tail should be like, the Archosaurs themselves have not reached a consensus. The dispute betwen 'thick tails' and 'fine tails' still continues to this day. 
+	Tomimi isn't invested in this issue and is perfectly fine with whatever size or length tail she may have, and Gavial is also in agreement. 
+	Nevertheless, her tail is a bit heavy, and sometimes causes inconveniences in day-to-day life. Upon the Doctor's recommendation, Tomimi finally decided to use a tail clamp made especially for Archosaurus use. 
+	People often hear Tomimi lamenting: 'When I was little, my tail was the same thickness as Gavial's. Why'd it end up growing so much more?' 
+	Tomimi couldn't decide whether to keep her tail as it is or to grit her teeth and trim down on it. 
+	On one hand, a thick tail is quite popular and can even bring some unexpected benefits on the battlefield. As a bonus, Gavial likes to squeeze it. 
+	On the other hand, this tail sometimes poses inconveniences to others, and it may be difficult to find good-looking outfits that can accommodate such a large tail. 
+	As a result, this question had been bothering Tomimi for a long time. 
+	She needed someone to help her make the decision and implement her choice. 
+	Who do you think that person was?
+
+	파일 자료 4 :
+	    토미미의 꼬리가 또 자라났다.
+	    이건 전혀 나쁜 일이 아니다. 대부분의 아다크리스인들은 거대한 꼬리를 자랑스러워하기 때문이다.
+	    하지만 토미미의 꼬리는 가로뿐만 아니라, 세로로도 자라나고 있었다.
+	    꼬리가 어떤 모습으로 자라날지에 대해서는 아다크리스인들 사이에도 정론이 없었는데, '굵은 꼬리파'와 '가는 꼬리파' 간의 분쟁은 오늘날까지도 끝나지 않고 있다.
+	    토미미는 어느 파에도 속해있지 않기에 꼬리가 어떻게 자라나든 신경 쓰지 않았고, 가비알 역시 신경 쓰지 않았다.
+	    다만 꼬리가 다소 무거워 평소에 조금 불편할 것 같았고, 의사의 건의에 따라 아다크리스 전용 꼬리 보조 장치를 사용하기 시작했다.
+	    토미미가 수시로 "분명 어릴 때까진 가비알의 꼬리와 굵기가 비슷했는데, 어째서 지금은 이렇게 큰 차이가 나버린 거지."라고 불평하는 것을 모두 들어본 적이 있을 것이다.
+	    그리고 끝까지 자연 그대로의 모양을 유지시켜야 할지, 아니면 죽기 살기로 꼬리 다이어트를 해야 할지 스스로도 결정을 못 내리고 있다.
+	    굵은 꼬리는 인기 있고, 전장에서 의외의 효과를 발휘할 수 있다는 점, 그리고 가비알이 좋아한다는 장점이 있다.
+	    다만 굵은 꼬리는 때때로 타인에게 불편함을 끼칠 수 있고, 꼬리 때문에 몇몇 예쁜 옷의 사이즈가 맞지 않아 살 수 없다는 단점이 있다.
+	    그래서 토미미는 꼬리 문제에 대해 오랫동안 고민해왔다.
+	    그녀에겐 그녀의 결정을 돕고, 실행하는 것을 도와줄 사람이 필요하다.
+	    그 사람은 누가 될 수 있을까?
+
+———————————————————————————————
+
+	晋升资料 :
+	特米米自己做的背包物品整理列表（部分）：
+	
+	包裹着树叶的琥珀
+	“第一次探险就找到的好东西，现在拿在手里还是觉得很开心。”
+	
+	烧制好的陶土丸子，有点变形。
+	“第一次和嘉维尔烧陶土，她太用力把丸子捏变形了。”
+	
+	长大时换下的尖牙
+	“妈妈说这颗是幸运牙，所以我一直放在包里。”
+	
+	小时候收集探险物品用的编织袋
+	“非常牢固，还能用很久！”
+	
+	从各种地方剪下的（涂改痕迹）嘉维尔签名
+	“......想要更多。”
+	
+	博士徽章
+	“博士亲手送的，带着就能变聪明。”
+	
+	一沓捕梦网
+	“碰到睡不好的人就送一个。”
+	
+	《太阳颂歌》
+	“很有意思的书，今天晚上也要再往后面看一点。。”
+	
+	探险套组
+	“里面有很多东西，外出探险的时候用得上。”
+	
+	野外医疗箱
+	“还在学习怎么用，学成就能随时帮嘉维尔忙了。”
+	
+	黑（涂改痕迹）石头（涂改痕迹）
+	（严重涂改痕迹）是嘉维尔
+	（大量涂改痕迹）
+	......
+	（以下略）
+
+	昇進資料 :
+	トミミが自分で作ったかばんの中身整理リスト（一部）：
+	
+	葉っぱに包まれた琥珀
+	「初めての探検で見つけた宝物です。これを見ると今でも楽しい気持ちがよみがえります。」
+	
+	焼いた粘土の団子、ややいびつな形をしている
+	「初めてガヴィルさんと一緒に作った工作です。ガヴィルさんが力を入れすぎて、団子が変な形になっちゃいました。」
+	
+	成長期に抜けた尖った乳歯
+	「これは幸運の歯だってママが言っていました。だからずっとかばんに入れているんです。」
+	
+	小さい頃、探検で集めたものを収納するために使っていた編み袋
+	「とっても頑丈なんです。まだまだ使えます！」
+	
+	いろんな所から切り抜いた（塗りつぶし跡）ガヴィルのサイン
+	「……もっと欲しいです。」
+	
+	ドクターのバッジ
+	「ドクター直々にくださったんです。つけていれば頭がよくなります。」
+	
+	複数のドリームキャッチャー
+	「夢見がよくない方に差し上げるようにしてます。」
+	
+	『太陽の讃美歌』
+	「面白い本です。今夜も少し読み進めるつもりです。」
+	
+	探検セット
+	「いろんなものがいっぱい入っていますから、探検に使えます。」
+	
+	野外医療箱
+	「まだ使い方を勉強しています。ちゃんと身につけば、いつでもガヴィルさんのお手伝いができるようになりますから。」
+	
+	黒（塗りつぶし跡）石（塗りつぶし跡）
+	（ひどく塗りつぶした跡）ガヴィル
+	（大量の塗りつぶし跡）
+	……
+	（以下略）
+
+	Promotion File :
+	A (partial) list of items in the backpack Tomimi made for herself:
+	
+	A piece of amber wrapped in leaves.
+	'A neat thing I found on my first expedition. Holding it right now makes me happy.' 
+	
+	A fired clay wad, slightly deformed 
+	'The first time Gavial and I tried to make pottery. She squeezed it a bit too hard and it got a bit deformed.' 
+	
+	A fang that fell out when I was growing
+	'Mama always said this was my lucky tooth, so I've always kept it in my bag.' 
+	
+	The woven bag I kept my collectibles in when I was younger
+	'It's really sturdy and can still last a really long time!' 
+	
+	Gavial's signature, cut out from various places (erasure marks visible)
+	'...I want more.' 
+	
+	Doctor's badge
+	'Doctor gave this to me. I can become smarter if I keep it with me.' 
+	
+	A stack of dreamcatchers
+	'To give to people who can't sleep well.' 
+	
+	'Praise the Sun'
+	'A really interesting book. I'll read a bit more tonight.' 
+	
+	Adventure package
+	'Has all sorts of neat stuff inside it, very useful for when adventuring.' 
+	
+	Field medic kit
+	'Still learning how to use it. After that, I'll be able to help Gavial whenever she needs it.' 
+	
+	A black (erasure marks) rock (erasure marks)
+	(Heavy erasure marks) Gavial's
+	(More erasure marks)
+	......
+	(The following is omitted)
+
+	승진 자료 :
+	    토미미가 직접 만든 가방 물품 정리 목록(일부) : 
+	
+	    나뭇잎을 싸고 있는 호박
+	    "첫 번째 탐험에서 찾은 좋은 아이템이에요, 지금도 들고 있으면 기분이 좋아져요."
+	
+	    잘 구워 만들어진 고령토 완자, 조금 변형됨.
+	    "가비알과 함께 구운 첫 고령토인데, 가비알이 너무 힘을 줘서 변형됐어요."
+	
+	    자라면서 갈아 치운 송곳니
+	    "엄마가 행운의 이라고 하셔셔 늘 가방에 넣어두고 있어요." 
+	
+	    어린 시절 탐험 물품을 수집하는데 쓰던 천 주머니
+	    "굉장히 튼튼해요, 아직 더 오래 쓸 수 있어요!"
+	
+	    곳곳으로 부터 오려낸(고친 흔적) 가비알의 싸인
+	    "......더 갖고 싶어요."
+	
+	    박사의 휘장
+	    "박사님이 직접 주신 거예요, 갖고 다니면 똑똑해질 수 있어요."
+	
+	    드림캐쳐 한 뭉치
+	    "잠을 제대로 못자는 사람을 만나면 하나 건네줘요."
+	
+	    <태양찬가>
+	    "엄청 재미있는 책이에요, 오늘 밤에도 계속 읽을 거예요."
+	
+	    탐험 세트
+	    "안에는 다양한 아이템이 있어요, 탐험을 나갈 때  쓴답니다."
+	
+	    야외용 의료 상자
+	    "아직 어떻게 쓰는지는 공부 중이지만, 사용법을 다 익히고 나면 언제라도 가비알을 도울 수 있어요."
+	
+	    검은(고친 흔적) 돌맹이 (고친 흔적)
+	    (심하게 고친 흔적) 가비알이다.
+	    (고친 흔적 다수)
+	    ......
+	    (이하 생략)

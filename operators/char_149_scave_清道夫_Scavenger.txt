@@ -1,11 +1,17 @@
 ID:
 	char_149_scave
 
-干员代号\Name:
+CV:
 	清道夫
 	スカベンジャー
 	Scavenger
 	스캐빈저
+
+干员代号\Name:
+	大地叶
+	大地葉
+	Yō Taichi
+	타이치 요우
 
 招聘合同\Character Usage:
 	S.W.E.E.P执行人清道夫，时刻准备部署。
@@ -43,177 +49,348 @@ ID:
 	돌격지령-공격
 
 语音\Voices:
-	与其花时间在这里唠唠叨叨，还不如赶紧把手上的工作做完。
 	ぐずぐず言う暇があるんなら、さっさと仕事を終わらせろ。
 	Better get your job done quicker than waste time on chitchat.
 	투덜거릴 시간에 일이나 얼른 끝내시지.
 
-	最好记住，适应不了恶劣环境的家伙，就只是单纯的累赘。
 	覚えておくといい。環境が過酷だろうがなんだろうが、それに適応できない奴は、単なる足手まといだ。
 	You'd better remember that failing to adapt makes you a useless burden.
 	기억해 두라고. 환경이 가혹하든 그렇지 않든, 거기 적응하지 못하는 녀석은 그저 걸리적거릴 뿐이야.
 
-	工作、糊口、逃亡，不断循环，没什么大不了的，这世道，大家不都一样吗？
 	働いて、食って、逃げる。その繰り返し。大したことじゃない。このご時世、みんな似たようなもんだろ？
 	Work, eat, run, repeat. Big fricking whoop. That's just how life is for most people these days.
 	일하고, 먹고, 도망치고, 그걸 반복하는 거야, 별거 없어. 요즘 같은 세상, 다 그러고 살잖아?
 
-	我的工作就是处理那些大人物的“麻烦事”，所以他们都叫我“清道夫”。
 	私はな、上の人間の【厄介事】を始末するのが仕事だった。それで【スカベンジャー】と呼ばれるようになった。
 	My job was to take care of 'inconveniences' for my employers. Somehow that turned into them calling me Scavenger.
 	난 말이야, 윗분들의 '성가신 일'을 처리하는 걸로 먹고살았거든. 그래서 '스캐빈저'라 불리는 거고.
 
-	就像硬币有正反面一样，表面再怎么光鲜的东西，背面一定是无比肮脏的。
 	コインに表と裏があるように、どんなに綺麗に見えても、裏に必ず汚い一面がある。
 	Just like the two sides of a coin, no matter how splendid the face is, the backside is always stained with dirt.
 	동전에도 앞면 뒷면이 있듯이, 아무리 아름다워 보여도 그 뒷면에는 반드시 더러운 일면이 있는 거야.
 
-	我看起来比刚来的时候适应多了？嘁，还有这回事！我只是渐渐习惯了在地面上工作而已。
 	来たばかりの頃よりずいぶん馴染んできただと？チッ、そんなわけあるか！……地上での仕事に慣れてきただけだ。
 	I've adapted to this place really well since I first joined? Pfft, are you joking? I've just gotten used to working on the surface.
 	막 왔을 때보다 훨씬 익숙해진 거 같다고? 쳇, 그럴 리 있겠냐! … 지상에서의 일에 익숙해졌을 뿐이야.
 
-	那家伙就是普罗旺斯吧......说是因为进入天灾区救人，结果被感染的倒霉家伙什么的......唔，尾巴居然变得那么大了吗......
 	プロヴァンスってあいつだろ…人助けとか言って、天災に突っ込んでいって、感染したやつ。尻尾があんなでかくなってな……。
 	That's Provence, isn't it... The girl who got Infected while helping people during a Catastrophe... Look at that massive tail she's got...
 	프로방스라는 게 저 녀석이지? 사람 구한다고 '재앙'에 뛰어들다 감염된 녀석. 꼬리는 또 저렇게 커져가지고는… 
 
-	知道吗，博士......我本来很讨厌所谓的合作关系，因为我觉得，我们一定不会喜欢彼此的做事方式。不过，不知道从什么时候开始，我发现，事情并非如此。
 	知ってるか、ドクター…。もともと私は誰かと協力して何かやろうってのが嫌いだった。互いのやり方が気にくわなくなる気がしてな……。でもいつからか、そうは思わなくなった。
 	You know, Doctor... I initially hated the idea of working with other people. I figured our methods would clash. But at some point, I came to realize that's not the case.
 	그거 알아 박사? 원래 난 누구랑 협력해서 뭘 하는 게 싫어했거든. 서로 하는 방식을 맘에 안 들어 할 것 같았거든… 그런데 언제부터인가, 그런 생각이 안 들더라.
 
-	如果她还活着的话......现在，我只能背负着她的愿望，独自活下去。
 	あの子がまだ生きていれば……。今はあの子の想いを背負って生きていくしかないんだ。
 	If only she were still alive... Now all I can do is live alone, carrying her dreams on my back.
 	그 녀석이 아직 살아있었다면…… 지금은 그 녀석의 바람을 대신 짊어지고 살아갈 수밖에 없어.
 
-	......为什么这家伙能在完全不设防的地方睡着？
 	……なんでこいつはこんな無防備なところで寝られるんだ？
 	How can you sleep so soundly when you're defenseless...
 	… 왜 이 녀석은 이렇게 무방비한 곳에서 잘 수 있는 거야?
 
-	我是清道夫，肮脏的工作我来做，你和那些家伙一样，只要付钱就行了。
 	スカベンジャーだ。汚い仕事は任せてくれ。あんたも連中と一緒だ。金さえ払ってくれればいい。
 	I'm Scavenger. Leave the dirty work to me. Just pay what I'm owed and we'll be good.
 	스캐빈저라고 한다. 더러운 일은 나한테 맡겨. 너도 다른 녀석들이랑 똑같아, 돈만 내주면 돼.
 
-	还没有，还不够......
 	まだだ、まだ足りない……。
 	No, it's not enough...
 	아직이야, 아직 부족해… 
 
-	还不够，我必须变得更强才行......
 	まだ足りない。私はもっと強くなるんだ……。
 	This still isn't enough. I need to become stronger...
 	아직 부족해. 난 더 강해질 거야… 
 
-	谢谢你，博士。战斗的理由，我现在似乎弄清楚了一些。
 	ありがとう、ドクター。私の戦う理由、わかったような気がする。
 	Thanks, Doctor. I feel like I have a reason to fight now.
 	고마워, 박사. 내가 싸우는 이유, 이제 좀 알 것 같아.
 
-	入队而已，必须要说点什么吗？
 	……たかが入隊で、何か言わなきゃダメなのか？
-	Do I need to quip just ‘cause I joined the team?
+	Do I need to quip just 'cause I joined the team?
 	… 고작 팀에 편성된 게 다인데, 말을 꼭 해야 하나?
 
-	你们，别拖我后腿。
 	お前ら、足引っ張るなよ……。
 	Don't you hold me back.
 	너희들, 괜히 걸리적거리지나 마… 
 
-	隐藏气息，别被敌人发现了！
 	バレないように、気配を殺して行け！
 	Conceal yourselves so the enemy won't find you.
 	들키지 않게 기척을 죽이고 움직여!
 
-	哼，垃圾扫除的时间到了。
 	フン、ゴミ掃除の時間だ。
 	Hmph, it's cleaning time.
 	흥, 쓰레기 치울 시간이다.
 
-	赶快。
 	早くしろ。
 	Hurry up.
 	빨리해라.
 
-	要动手？
 	やるのか？
 	Are we doing this?
 	할 건가?
 
-	嘁。
 	チッ。
 	Tch.
 	쳇.
 
-	我会做的。
 	やるぞ。
 	I know what to do.
 	한다.
 
-	垃圾。
 	クズが。
 	You hunks of trash.
 	쓰레기 같은 게.
 
-	在阴沟里挣扎吧！
 	ドブでもがいてろ！
 	Keep writhing in the gutter!
 	시궁창에서 발버둥쳐라!
 
-	你已经没法回头了！
 	お前はもう戻れないんだよ！
 	There is no turning back for you!
 	넌 이제 못 돌아간다고!
 
-	没人可怜你！
 	お前にかける情けはない！
 	No one cares!
 	너한테 베풀 정 따윈 없다!
 
-	真是一次意料之外的任务。
 	これはまた想定外の注文だったな。
 	What an unexpected task.
 	이건 또 생각도 못 한 주문이었네.
 
-	这样的结果，要怪就怪他们自己太过弱小。
 	フン、この結末は奴らの弱さが招いたものだ。
 	Hah. This is what their weakness gets them.
 	흥, 이 결말은 녀석들의 나약함이 불러온 결과다.
 
-	嘁，放走了好几个人。如果你的指挥只有这种程度，算我白期待了。
 	チッ、何人か逃したか……。はぁ、あんたの指揮の腕前がこの程度ってんなら、とんだ期待外れだな。
 	Tch, some of them got away. I'm disappointed if that's all you can do.
 	쳇, 몇 명 놓쳤나… 하아, 네 지휘 실력이 이 정도라면, 내 기대가 너무 지나쳤나 보군.
 
-	可恶！又搞砸了......
 	ちくしょっ！またやっちまった……。
 	Dammit! They got us good...
 	젠장! 또 망쳐버렸어… 
 
-	给我个阴暗的角落就行。
 	私は隅っこの暗いところでいい。
 	Just give me a dark corner.
 	난 구석지고 어두운 곳이면 돼.
 
-	唔呃！放开我！
 	んなぁあ！放せー！
 	Argh! Let go of me!
 	으아아아! 놔!
 
-	你也想被“清理”一下吗？
 	あんたも掃除されたいのか？
 	You want me to dispose of you too?
 	너도 '청소'당하고 싶은 건가?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	有任务？
 	任務か？
 	You got a job for me?
 	임무라도 있나?
+
+干员档案\Background:
+	基础档案 :
+	【代号】清道夫
+	【性别】女
+	【战斗经验】四年
+	【出身地】未公开
+	【生日】8月22日
+	【种族】札拉克
+	【身高】164cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为感染者。
+
+	基礎情報 :
+	【コードネーム】スカベンジャー
+	【性別】女
+	【戦闘経験】四年
+	【出身地】非公開
+	【誕生日】8月22日
+	【種族】ザラック
+	【身長】164cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、感染者に認定。
+
+	Basic Info :
+	[Code Name] Scavenger
+	[Gender] Female
+	[Combat Experience] 4 years
+	[Place of Birth] Unknown
+	[Date of Birth] August 22
+	[Race] Zalak
+	[Height] 164cm
+	[Infection Status] 
+	Infection confirmed by medical examination.
+
+	기본정보 :
+	[코드네임] 스캐빈저
+	[성별] 여
+	[전투 경험] 4년
+	[출신지] 미공개
+	[생일] 8월22일
+	[종족] 자라크
+	[신장] 164cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】优良 
+	【战场机动】普通 
+	【生理耐受】普通 
+	【战术规划】普通 
+	【战斗技巧】优良 
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】優秀
+	【戦場機動】普通
+	【生理的耐性】普通
+	【戦術立案】普通
+	【戦闘技術】優秀
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Excellent 
+	[Mobility] Normal 
+	[Physical Resilience] Normal 
+	[Tactical Acumen] Normal 
+	[Combat Skill] Excellent 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 우수
+	[전장 기동력] 보통
+	[생체 인내도] 보통
+	[전술 계획력] 보통
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	遭受感染而被群落驱逐，独自一人求生的地下佣兵。擅长处理各种见不得光的事物，因此被同行称作“清道夫”。后经中间人介绍，放弃不稳定的佣兵事业成为罗德岛的干员。
+
+	個人履歴 :
+	鉱石病に感染したことで群れから追い出され、一人で生きてきた裏社会の傭兵。光が当たらない物事の処理を得意としていることから、スカベンジャーと呼ばれる。その後、仲介人の紹介を経て、不安定な傭兵稼業を捨てロドスのオペレーターとなった。
+
+	Profile :
+	Banished from her community for being Infected, she has made a living as a mercenary in the criminal underworld. She is skilled in matters best left unsaid, and as a result of the base nature of the work has become known as 'Scavenger.' Since her introduction to Rhodes Island through an intermediary, she has given up her mercenary life to become an Operator.
+
+	프로필 :
+	    광석병에 감염되어 무리에서 추방당한 후 단독으로 지하세계 용병일을 하며 살아가고 있었다. 그녀는 공개되어선 안되는 은밀한 임무들을 주특기로 처리해왔고, 이에 같은 업계 사람들로 부터 '스캐빈저'라 불리게 되었다. 이후 브로커의 소개로 불안정한 용병일을 접고, 로도스 아일랜드의 오퍼레이터가 되었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。
+	
+	【体细胞与源石融合率】12% 
+	干员清道夫体表无明显源石结晶，但经检测后发现其体内已产生矿石病结晶多发现象，脑部边缘系统受其影响尤为严重，清道夫的性格变化疑似与此有关。
+	
+	【血液源石结晶密度】0.29u/L
+	因源石多于体内脏器位置生成，清道夫内循环系统中源石含量较高。
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は不明瞭で異常陰影も認められる。循環器系源石顆粒検査の結果においても、同じく鉱石病の兆候が認められる。以上の結果から、鉱石病感染者と判定。
+	
+	【源石融合率】12%
+	体表には明らかな鉱石病の病巣は無いが、検査の結果、体内で既に鉱石病による源石結晶の生成が始まっていることが確認された。大脳辺縁系が特に深刻な影響を受けており、彼女の性格の変化はおそらくこれが関係しているだろう。
+	
+	【血液中源石密度】0.29u/L
+	源石が多くの臓器で生成されていることから、スカベンジャーの循環器系の源石含有量は比較的多い。
+
+	Clinical Analysis :
+	Imaging tests have shown the outlines of her internal organs to be indistinct due to abnormal shadows. Originium granules have been detected in her circulatory system, confirming her to be infected with Oripathy.
+	
+	[Cell-Originium Fusion Rate] 12% 
+	Operator has no obvious Originium crystals externally, however, tests have revealed an abundance of crystals internally. The limbic system of the brain has been particularly affected, and the Operator's personality changes are suspected to be related to this.
+	
+	[Blood Crystal Density] 0.29u/L
+	Due to high presence of Originium within the internal organ's, the Operator's circulatory system has a high Originium content.
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 흐릿하며, 비정상적인 음영이 존재하는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 확인, 광석병 감염 증세 있음, 현 단계로서는 광석병 감염자로 판단됨.
+	
+	[체세포와 오리지늄 융합률] 12%
+	오퍼레이터 스캐빈저의 체표면에는 명확한 광석병 증상이 나타나지 않음. 단, 검사를 통해 체내에 다량의 광석병 결정 발견, 특히 대뇌변연계가 큰 영향을 받았는데, 스캐빈저의 성격 변화는 이와 관련된 것으로 의심됨.
+	
+	[혈중 오리지늄 결정 밀도]0.29u/L
+	많은 오리지늄이 장기 상에 생성되어, 스캐빈저의 내순환계통 중 오리지늄 함량이 비교적 높음.
+
+———————————————————————————————
+
+	档案资料一 :
+	被族人放逐，被委托人暗算，在经历了各种各样的事件后，她已经养成了独自行动和极端不信任他人的习惯了，加之被源石影响而改变的性格，想要和她好好沟通真的是一件很难的事情。或许，等她适应了罗德岛的生活之后，会变得能够交流一点吧。
+
+	第一資料 :
+	同族の者からは追いやられ、依頼主からは罠に陥れようと画策された。様々な事件を経験して、彼女は単独行動と極端に他人を信用しない習慣が身についてしまった。加えて源石の影響で性格が変わるため、彼女と意思疎通するのはかなり難しいことだ。彼女がロドスの生活に適応するのを待てば、少しは交流できるようになるかもしれない。
+
+	Archive File 1 :
+	Having been exiled by her tribe, betrayed by her client, and endured all manner of hardships, Scavenger prefers to act alone and is wary of others. Moreover, since her personality has been affected by Originium, she has become difficult to communicate with. Perhaps she'll open up a bit once she gets used to working at Rhodes Island.
+
+	파일 자료 1 :
+	    동족들로부터 추방당하고, 클라이언트에게 배신당하는 등의 다양한 사건을 경험한 후 그녀는 혼자서 행동하고, 타인을 극도로 의심하는 습관이 생겼다. 게다가 오리지늄에 의해 성격이 변하면서, 그녀와 소통하는 일은 매우 어려운 일이 되었다. 어쩌면, 그녀가 로도스 아일랜드 생활에 적응한 후에는 좀 더 원만하게 변할 수 있을 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	清道夫能够自由在恶劣环境中行动，对食物也几乎没有要求，只要不致死，所有环境都可以前去，所有食物都能入口。虽然她仍有食物的偏好，喜爱阴暗的角落，但很显然，她的适应力，要比大多数干员都强上不少。
+
+	第二資料 :
+	スカベンジャーは劣悪な環境の中を自由に行動でき、食料もほとんど要求しない。死なない限りはどんな環境でも前進し、どんなものでも口に入れる。そんな彼女にも食べ物の好みはあるし、隅の方の暗い場所を好む。とは言え、彼女の適応力は他の大多数のオペレーターに比べ遥かに勝っているだろう。
+
+	Archive File 2 :
+	Scavenger moves freely in harsh environments and will eat almost anything as long as it won't kill her. She is one of the most adaptable Operators, of truly unparalleled versatility. When given the chance, she enjoys resting in dark corners or eating a few specific foods.
+
+	파일 자료 2 :
+	    스캐빈저는 매우 열악한 환경에서도 자유롭게 작전 수행이 가능하다. 음식에 대해 특별한 요구사항이 없어, 죽지만 않는다면 어떤 환경이든 뛰어들어 상황에 맞게 무엇이든 섭취할 수 있다. 물론, 그렇다고 해서 스캐빈저가 특별히 좋아하는 음식이 없다는 얘기는 아니다. 그녀는 어둡고 그늘진 곳에 머물기를 좋아하지만, 그녀의 적응력은 분명 대다수의 오퍼레이터들 보다 뛰어나다.
+
+———————————————————————————————
+
+	档案资料三 :
+	清道夫不怎么会去特意搜集任务外对象的情报，但是普罗旺斯是个例外，虽然向清道夫询问缘由只会像平时一样和她被嘲讽，但确确实实，能够看到清道夫提及普罗旺斯时的情绪异常。普罗旺斯确实很吸引人，许多干员都想摸她那舒适的大尾巴，但清道夫所在意的，似乎是其他方面的东西......
+
+	第三資料 :
+	スカベンジャーは任務対象外の情報を気にして収集することはあまりないが、プロヴァンスに対しては例外のようだ。
+	スカベンジャーに理由を尋ねても、いつものように彼女に嘲笑されるだけだった。
+	ただ確実に、スカベンジャーがプロヴァンスに対して言及するときの様子は異常だ。
+	プロヴァンスは確かに魅力的で、多くのオペレーターが彼女のあの気持ちよさそうな尻尾を触ってみたいと思っているだろう。
+	だがスカベンジャーが気にしているのは、そういった方向ではないような気が……。
+
+	Archive File 3 :
+	Scavenger prefers to avoid other operators until it's not required for her work, with the exception of Provence. She tends to sneer at those who ask her about her interest in Provence, which is reflective of some sort of attraction. While Provence is considered generally attractive (many Operators particularly enjoy fluffing her tail), Scavenger seems to be interested in something else....
+
+	파일 자료 3 :
+	    스캐빈저는 임무와 관련된 것이 아니라면 특별히 어떤 대상에 대한 조사를 진행하는 경우가 드물지만, 프로방스만은 예외였다. 스캐빈저에게 그 이유를 물어보면 평소와 같은 비웃음만이 돌아올 뿐이지만, 스캐빈저가 프로방스에 대해 이야기할땐 그녀의 감정선이 동요하는 것을 분명히 감지할 수 있다. 프로방스는 실제로 매우 매력적이어서 많은 오퍼레이터들이 모두 그녀의 푹신하고 큰 꼬리를 만져보고 싶어하지만, 스캐빈저는 꼬리가 아닌 다른 무언가에 더 관심이 있는 듯하다……
+
+———————————————————————————————
+
+	档案资料四 :
+	清道夫曾经深爱着自己族群中的某位闺秀，对方也确实与她情投意合，但是因为各种原因，直到她被发现感染并放逐，双方都没能互表心意。下一次相见时，两人已是生离死别。这份不被世人认同的，禁断的情感，如今凝缩在了两人唯一的信物上，永久陪伴在清道夫身边。
+
+	第四資料 :
+	スカベンジャーはかつて同族のとあるお嬢様を深く愛しており、彼女もスカベンジャーと意気投合していた。しかし、様々な要因が重なったことで、スカベンジャーの鉱石病の感染が発覚し、部族から追放され、2人はお互いに本当の想いを打ち明けることが出来なかった。次に相まみえた時には、生死が2人を分けているだろう。世間に受け入れられないこの禁断の想いは、今は2人の唯一の証に詰まっており、永久にスカベンジャーの傍に寄り添っている。
+
+	Archive File 4 :
+	Scavenger once loved a young woman from her own tribe, who reciprocated her feelings. For whatever reason, they did not express their feelings to one another until Scavenger became Infected and was banished from her tribe. The next time Scavenger was able to meet the young lady, she had already passed away and with her the knowledge of their forbidden love. This memory is a keepsake that Scavenger will forever hold close to her heart.
+
+	파일 자료 4 :
+	    스캐빈저는 과거 동족 중의 한 규수를 매우 사랑했고, 상대 역시 분명 자신과 같은 마음을 갖고 있었다. 하지만 여러 가지 이유로 인해, 스캐빈저가 감염된 후 추방당할 때까지 그들은 서로 자신의 마음을 표현하지 못했다. 이후 그녀와 다시 만났을 때, 그녀는 이미 이 세상 사람이 아니었다. 이 세상으로부터 인정받지 못한 금단의 감정은, 이제 두 사람의 유일한 증표 안에 잠든채, 영원히 스캐빈저와 함께할 것이다.
+
+———————————————————————————————
+
+	晋升记录 :
+	没人知道为什么作为一个地下佣兵，清道夫为什么会选择明显不适合潜伏偷袭的重武器，但她总能把任务完成得很好，知道这一点就足够了。只是——每每看着她带着武器路过时，总觉得她并非一个暗杀者，而是“杀光所有人就是潜行”主义的战士。这样一想，心里的疑惑就解开了，至于真相？谁在乎呢。
+
+	昇進記録 :
+	どうして裏社会の傭兵としてのスカベンジャーが明らかに潜伏や奇襲には不向きな大型の武器を選んだのか、知っている人は誰もいない。ただ、彼女が任務を全て優秀にこなしていることさえ分かっていれば十分だろう。
+	だが、彼女が武器を身に着けて道を歩いている姿を見かけた瞬間に、心のモヤモヤがやっと晴れた。彼女は暗殺者ではなく「相手を皆殺しにして秘密裏に行動する」主義の戦士のようではないか。果たして真相は？いったい誰が気にするだろうか。
+
+	Promotion Record :
+	No one understands why a covert mercenary would use such a heavy weapon for sneak attacks, as it is clearly unsuitable. Despite this disadvantage, Scavenger still manages to operate effectively. When others see her pass by, they typically come under the impression that she is not an assassin so much as an individual who will stop at nothing to eliminate everything in her path. No one doubts her abilities, and as for the actual truth behind her choice of weaponry? Who cares.
+
+	승진 기록 :
+	    지하세계 용병인 스캐빈저가 어째서 잠복과 기습에 어울리지 않는 중형 무기를 사용하는지는 알 수 없지만, 그녀는 언제나 훌륭히 임무를 수행해 왔기에 더 이상의 의문을 제기할 필요는 없다. 단지…… 그녀가 무기를 휴대한 채로 지나갈 때면, '암살자' 라기 보단 '목격자를 전부 죽여버리면 그게 곧 잠행'이라는 생각을 가진 전사처럼 느껴진다. 이렇게 생각해보면 방금 얘기했던 의문도 해결된다. 진상이 뭐냐고? 그걸 누가 신경 쓰겠는가.

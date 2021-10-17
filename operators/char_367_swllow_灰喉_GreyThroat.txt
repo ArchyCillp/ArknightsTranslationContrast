@@ -1,11 +1,17 @@
 ID:
 	char_367_swllow
 
-干员代号\Name:
+CV:
 	灰喉
 	グレースロート
 	GreyThroat
 	그레이스롯
+
+干员代号\Name:
+	福圆美里
+	福圓美里
+	Misato Fukuen
+	후쿠엔 미사토
 
 招聘合同\Character Usage:
 	罗德岛狙击干员灰喉，每一次扎实的射击都将带来一份永远的宁静。
@@ -43,177 +49,420 @@ ID:
 	역류
 
 语音\Voices:
-	也好，和你待在一起的话，至少能从满是粉尘的空气中稍微喘口气。
 	まぁいい。あんたと一緒にいれば、少なくともホコリまみれの空気の中で一息つけるから。
 	That's fine. If I stick with you, I'll at least be able to escape that dusty cabin and catch some fresh air.
 	뭐, 좋아.  적어도 당신과 함께 있으면 먼지투성이의 공기 속에서 한숨 돌릴 수 있으니까.
 
-	我不避讳关于感染者的话题？没错，他们和你我不同，这显而易见，但他们也有赢得希望的权利，这点上我们又是一样的。所以我没必要太过照顾他们，这才是一视同仁，不是吗？
 	私が感染者の話題を避けたりしないって？ええ、彼らが私やあんたと違うってのは見れば分かるけど、彼らにだって希望を勝ち取る権利はある。その点では私たちと同じだからね。だから過剰に気を使う必要はないと思う。それこそが平等ってものでしょ、違う？
 	I don't shy away from sensitive topics regarding the Infected? That's correct, they're not like us, which should be obvious, but they're also like us in the sense that they have the right to seize hope. Therefore, there's no need for me to take extra care of them. That's equality, is it not?
 	내가 감염자에 대한 화제를 피하지 않는다고? 맞아, 그들이 나나 당신과 다르다는 건 보면 알지만, 그들에게도 희망을 쟁취할 권리는 있어. 그 점에서는 우리와 같으니까. 그러니까 지나치게 신경을 쓸 필요는 없어. 그게 바로 평등하다는 거잖아, 아니야?
 
-	煌有时候太莽撞了，我知道她很强，但是......什么？你能应付得来？啧，算了，回头向阿米娅好好请教一下，到底怎么对付那个家伙。
 	ブレイズは無鉄砲過ぎるところがある。もちろん彼女が強いのは知ってるけど、でも……え？あんたは平気？ハァ……もういい、あの人の手懐け方、後でアーミヤにちょっと聞いてみる。
-	Blaze is sometimes too reckless. I know she's strong, but… What? You know how to deal with her? Tch… Forget it, I'll ask Amiya how to handle her after we get back.
+	Blaze is sometimes too reckless. I know she's strong, but... What? You know how to deal with her? Tch... Forget it, I'll ask Amiya how to handle her after we get back.
 	블레이즈는 너무 무모한 면이 있어. 물론 그녀가 강하다는 건 알지만, 그래도…… 뭐? 당신은 괜찮다고? 하아…… 그만하자. 그 사람을 상대하는 법, 나중에 아미야한테 잠깐 물어볼게.
 
-	我只是客观的叙述意见而已，既然不愿意被他人歧视，就不要抱着自己需要被顾虑的心态......什么，回到宿舍大哭？虽然有点过意不去，这样的人真的适合成为干员吗？
 	客観的な意見を述べただけ。差別されたくないなら、逆に気を使ってもらいたいなんて考えは捨てて。……えっ、部屋に戻って大泣きしてた？ちょっとは悪いと思うけど、ああいう人にオペレーターなんて本当に務まるの？
-	I'm just speaking objectively here, but if you don't want to be discriminated against, then you also shouldn't expect preferential treatment from others… What, she went back to her room to cry? Look, I feel a little bad about it, but is someone like her really suited to be an Operator?
+	I'm just speaking objectively here, but if you don't want to be discriminated against, then you also shouldn't expect preferential treatment from others... What, she went back to her room to cry? Look, I feel a little bad about it, but is someone like her really suited to be an Operator?
 	객관적인 의견을 말한 것뿐이야. 차별받고 싶지 않으면서 반대로 신경 써 주길 바라는 생각은 버려…… 뭐? 방으로 돌아가서 엄청나게 울었다고? 조금은 미안하게 생각하지만, 그런 사람이 정말로 오퍼레이터 일을 잘 해낼 수 있겠어?
 
-	罗德岛在变化，也许{@nickname}没什么感觉，毕竟这些变化本就是因你而起，况且也不是所有人都像我一样招人讨厌。不过，我倒是挺喜欢罗德岛现在的方向。
 	ロドスは変わりつつある、あんたは気づいてないかもしれないけどね。変化のきっかけはあんたにあるし、周りの人も私みたいに嫌な奴ばかりじゃないから。まぁ、今のロドスの方向性、私は結構好きよ。
 	Rhodes Island is changing. Maybe you might not feel it, {@nickname}, since these changes are because of you, and not everyone is as disagreeable as I am. However, I do enjoy Rhodes Island's current direction.
 	당신은 눈치채지 못했을지도 모르지만, 로도스 아일랜드는 변하고 있어. 변화의 계기는 당신한테 있어, 주변에 나처럼 짜증 나는 녀석만 있는 건 아니니까. 뭐, 지금 로도스 아일랜드의 방향성, 난 꽤 좋다고 봐.
 
-	以前我喜欢选择一些路途遥远的任务，就像是要逃离罗德岛一样。明明罗德岛收养了我，这可真是忘恩负义。现在？呵呵，如果还有干员喜欢把血撒得到处都是，那我应该还是会申请去其他地区吧。
 	前までは、ここから遠く離れるような任務を受けていた。そう、まるでロドスから逃げるみたいにね。拾ってもらったのに、まさに恩知らずってことよ。最近は違う？フフ、そこら中に血を撒き散らすやつが参加してる任務なら、やっぱり他のエリアに行かせてもらうかもね。
 	I used to prefer choosing long-distance missions, as if trying to flee from Rhodes Island. Isn't that a bit ungrateful, considering Rhodes Island adopted me? As for right now? Haha, if there are still operators who like splattering blood everywhere, maybe I will apply to be sent somewhere else.
 	예전에는 여기서 멀리 떨어지는 임무를 받았어. 맞아, 마치 로도스 아일랜드에서 도망치듯 말이야. 날 주워줬는데 정말로 은혜도 몰랐지. 최근엔 다르다고? 후후, 여기저기 피를 흩뿌리는 녀석이 참가하는 임무라면 역시 다른 지역으로 보내달라고 할지도 몰라.
 
-	博士，你会害怕吗？天灾，源石，矿石病，还有感染者。嗯，我现在都在被噩梦侵扰。不过现在有阿米娅，还有煌那样的笨蛋，好像也没有一开始那么恐怖了。
 	天災、源石、鉱石病、そして感染者、ドクターは怖くない？ええ、私は相変わらず、悪夢にうなされる日々よ。でも今はアーミヤ、あと……あのバカ……ブレイズもいるし、最初の頃よりかは、怖くなくなったのかもね。
 	Doctor, are you afraid? Of Catastrophes, Originite, Oripathy, and the Infected? Mm, even now, I'm still plagued by nightmares. But now, I have Amiya, as well as idiots like that Blaze. It seems that I'm not as afraid as I used to be.
 	재앙, 오리지늄, 광석병, 그리고 감염자. 박사는 무섭지 않아? 맞아, 난 여전히 매일 악몽에 시달리는 날들을 보내고 있어. 하지만 지금은 아미야, 그리고 그 바보…… 블레이즈도 있고. 처음보다는 덜 무서워졌는지도 모르겠네.
 
-	你为什么被称为博士？不，我不是要你回忆什么，只是这个称呼让我很......怀念。看着那些感染者们围绕在你身边，稍微，有点回想起过去的事情。
 	あんたってどうしてドクターと呼ばれてるの？いや、何か思い出せって言ってるわけじゃない、ただ、その呼び方はとても……懐かしくて。あの感染者たちがあんたを囲んでるのを見て、少しだけ、昔の思い出が浮かんできちゃって。
-	Why are you called 'Doctor?' No, I'm not trying to get you to remember anything, it's just that title makes me very… wistful. Looking at all the Infected people around you makes me remember… just a little bit of the past.
+	Why are you called 'Doctor?' No, I'm not trying to get you to remember anything, it's just that title makes me very... wistful. Looking at all the Infected people around you makes me remember... just a little bit of the past.
 	당신은 왜 박사라고 불리는 거야? 아니, 뭔가를 생각해 내라는 게 아니라, 그냥 그 호칭이 무척…… 그리워서. 저 감염자들이 당신을 둘러싸고 있는 걸 보고 조금이지만 옛날 추억이 떠올랐거든.
 
-	其实我知道，母亲把我送来的时候就已经疯了。我无法对她混沌的痛苦感同身受，但我能理解，因为我也靠着那股执念走到了今天。只是，我找到了新的方向......我想找到她，我想拯救她。
 	本当は知ってた。母さんが私を連れてきたときには、あの人はもう狂ってしまっていた。あの狂気を孕んだ苦しみは私には知りえないけど、理解はできるよ。私もそんな執念に駆られて今日まで生きてきたから。でも、私は新しい生き方を見つけた……あの人を見つけて、助けてあげたいんだ。
 	I've known this entire time. When my mother brought me to Rhodes Island, she had already gone crazy. I could not feel the pain of her turmoil, but I can relate with it, because I relied on that obsession to get me to where I am today. Only now, I've found a new direction... I want to find her, and I want to save her.
 	사실은 알고 있었어. 엄마가 날 데리고 왔을 때, 그 사람은 이미 미쳐있었어. 그 광기를 품은 고통을 내가 알 길은 없지만, 이해는 할 수 있어. 나도 그런 집념에 사로잡혀 오늘까지 살아왔으니까. 하지만 난 새로운 삶의 방식을 찾았어…… 그 사람을 찾아서, 도와주고 싶어.
 
-	你肩负着罗德岛的将来，撑起桥梁的人可不能如此懈怠。
 	あんたはロドスの未来を背負ってる人よ。そんな支えになる人がこんなに弛んでてどうするの。
 	You shoulder the future of Rhodes Island, and those who hold up the bridge cannot be so lackadaisical.
 	당신은 로도스 아일랜드의 미래를 짊어진 사람이야. 그런 버팀목이 될 사람이 이렇게 풀어져 있으면 어떡해.
 
-	你就是{@nickname}？我听阿米娅提起过你，我就是灰喉，请不要让我失望。
 	あんたがドクター？あんたのことはアーミヤから聞いてる。私はグレースロート、がっかりさせないでね。
 	So you're {@nickname}? Amiya told me about you. I'm GreyThroat; please don't disappoint me.
 	당신이 박사? 당신에 대해선 아미야한테 들었어. 난 그레이스롯이야, 날 실망시키지 마.
 
-	为了效率，适当的加速播放吧，我看得清。
 	効率悪いから、適当に倍速再生をして。私は問題ないから。
 	For efficiency's sake, speed up the playback. I can still see it clearly.
 	비효율적이니까 대충 2배속으로 재생해. 난 문제 없으니까.
 
-	即使是现在，和我关系不好的干员依旧不在少数，让我获得晋升恐怕会引起非议的喔？
 	今でも私と仲の悪いオペレーターは結構いるよ。私を昇進させたら非難されるかもしれないけどいいの？
 	Even now, there are still a handful of Operators who I am on bad terms with. Hopefully my promotion will not be a cause of criticism?
 	지금도 나와 사이가 나쁜 오퍼레이터는 꽤 있어. 날 승진시키면 비난받을지도 모르는데, 괜찮겠어?
 
-	感染者也好，普通人也罢，既然我们以自己的意志踩在这片土地上，就必须要努力活着，对吧？
 	感染者も普通の人も、自分の意志でこの大地で立ってるからには、必死に生きていかなきゃいけない。そうでしょう？
 	Whether Infected or not, we all choose to step upon this land through our own free will, and so we must all work hard to survive, right?
 	감염자도 평범한 사람도, 자신의 의지로 이 대지에 선 이상 필사적으로 살아가지 않으면 안 돼. 그렇잖아?
 
-	我更喜欢独自行动。
 	単独行動のほうが好きなんだけど。
 	I prefer working alone.
 	단독행동 하는 쪽이 좋은데.
 
-	虽然他们会不会听我的命令，就是另一回事了。
 	彼らが私の命令に従うかは、また別の話ね。
 	Whether or not they'll listen to my orders is another matter.
 	그들이 내 명령에 따를지는 또 다른 이야기지.
 
-	战场的全貌，尽收眼底。
 	戦場を一望できるね。
 	A panoramic view of the battlefield.
 	전장을 한눈에 볼 수 있어.
 
-	击溃他们就行了吧？
 	壊滅させればいいんでしょ？
 	I just have to rout them, right?
 	궤멸시키면 되는 거지?
 
-	我在这里。
 	ここ。
 	I'm right here.
 	여기야.
 
-	太慢了。
 	遅い。
 	Too slow.
 	늦어.
 
-	那么，我去了。
 	じゃあ、行ってくる。
 	I'll get going then.
 	그럼 갔다 올게.
 
-	其他人跟得上吗？
 	他の人はついてこれる？
 	Can the others keep up?
 	다른 사람은 따라올 수 있는 거야?
 
-	动作也太慢了。
 	遅すぎる。
 	Your movements are too slow.
 	너무 느려.
 
-	我看得清他们，他们看不清我，可惜。
 	私からは敵が見えるけど、向こうからは……残念だったね。
 	I see them. But they don't see me. Too bad.
 	내 쪽에서는 적이 보이지만, 저쪽에서는…… 아쉽게 됐네.
 
-	靠技巧足以解决这些问题。
 	テクニックを使えば、これくらい楽勝でしょ。
 	The skills are enough to solve this situation.
 	테크닉을 쓰면 이 정도는 식은 죽 먹기야.
 
-	他们的视野里空无一物，无需担心。
 	敵の視界には何も映らない、心配無用よ。
 	Don't worry, there's nothing in their line of sight.
 	적의 시야에는 아무것도 비치지 않으니까 걱정할 필요 없어.
 
-	这样的胜利不会常见，我们的力量是有限的。
 	こんな勝利はいつでもできるわけじゃない。私たちの力にだって限りがあるから。
 	We won't see many victories like this, since our power is limited.
 	이런 승리는 언제나 가능한 게 아니야. 우리의 힘에도 한계가 있으니까.
 
-	我没有任何天赋可言，所以我作为弩手，绝不能允许敌人的尸首出现在三米之内。
 	私には誇れる才能なんて何もない。だから狙撃手として、敵は必ず半径三メートル圏外で仕留めるように気をつけてる。
 	I have no talent to speak of, so as a crossbowman, I cannot allow an enemy to get within three meters of me.
 	나에겐 자랑할만한 재능은 아무것도 없어. 그러니까 저격수로서 적은 반드시 반경 3미터 범위 밖에서 처리하도록 주의하고 있어.
 
-	伤员和医疗干员留下，我去追就好，反正以前我也经常独自行动。
 	怪我人と医療班は残って、私が追ってくる。どのみち単独行動には慣れてるから。
 	The medics should stay behind to tend the wounded. I will chase after them, considering I'm used to working alone anyway.
 	부상자와 의료부는 남아. 내가 쫓고 올게. 어쨌든 단독행동에는 익숙하니까.
 
-	注意周围，我去确保撤退路线的安全。
 	周囲を警戒しておいて。撤退ルートの安全確保は私に任せて。
 	Be aware of your surroundings; I'll ensure the safety of the retreat route.
 	주위를 경계해. 철수 경로의 안전 확보는 나한테 맡겨.
 
-	尽管在这里待了很多年，我却很少去其他地方......
 	ここで何年も過ごしてきたけど、基地以外の場所はほとんど行かないよね……。
-	Though I've been here for many years, I rarely go anywhere else…
+	Though I've been here for many years, I rarely go anywhere else...
 	여기서 몇 년이나 지냈지만, 기반시설 외의 장소는 거의 가지 않아……
 
-	唔啊！？
 	うわっ！？
 	Hyah?!
 	으앗?!
 
-	你总是和我待在一起，不会让那些感染者干员们不满吗？
 	あんた、いつも私と一緒にいて、感染者の人たちに文句言われない？
 	Aren't you afraid of upsetting the Operators who are Infected if you're always around me?
 	당신, 항상 나와 함께 있는데 감염자들이 불평하지 않아?
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	你好。
 	どうも。
 	Hello.
 	안녕.
+
+干员档案\Background:
+	基础档案 :
+	【代号】灰喉
+	【性别】女
+	【战斗经验】三年
+	【出身地】未公开
+	【生日】11月14日
+	【种族】黎博利
+	【身高】162cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者
+
+	基礎情報 :
+	【コードネーム】グレースロート
+	【性別】女
+	【戦闘経験】三年
+	【出身地】非公開
+	【誕生日】11月14日
+	【種族】リーベリ
+	【身長】162cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] GreyThroat
+	[Gender] Female
+	[Combat Experience] 3 years
+	[Place of Birth] Undisclosed
+	[Date of Birth] Nov 14
+	[Race] Liberi
+	[Height] 162cm
+	[Infection Status] 
+	Confirmed uninfected by medical examination.
+
+	기본정보 :
+	[코드네임] 그레이스롯
+	[성별] 여
+	[전투경험] 3년
+	[출신지] 미공개
+	[생일] 11월 14일
+	[종족] 리베리
+	[신장] 162cm
+	[광석병 감염 상황]
+	의학 테스트 보고 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】优良
+	【生理耐受】普通
+	【战术规划】标准
+	【战斗技巧】优良
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】優秀
+	【生理的耐性】普通
+	【戦術立案】標準
+	【戦闘技術】優秀
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Excellent
+	[Physical Resilience] Normal
+	[Tactical Acumen] Standard
+	[Combat Skill] Excellent
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 우수
+	[생체 인내도] 보통
+	[전술 계획력] 표준
+	[전투 기술력] 우수
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	干员灰喉，虽然取得这个代号时日尚短，但她加入罗德岛的时间远比她成为干员的时间要长得多。双亲曾是矿石病相关的研究者，游走各地，其母在失踪前将灰喉委托给了罗德岛。现通过考核后成为罗德岛行动队成员。
+
+	個人履歴 :
+	グレースロートというコードネームを取得してまだ日が浅いが、彼女がロドスに加入した時期はオペレーターになるより遥かに早い。両親は鉱石病の研究者で世界中を渡り歩っていたが、母が失踪する前に彼女をロドスに預けた。現在彼女はテストに合格しオペレーターとなっている。
+
+	Profile :
+	Operator GreyThroat, despite only receiving her codename recently, has actually been part of Rhodes Island for much longer than the time she's served as an Operator. Her parents were formerly Oripathy researchers who traveled around. Her mother entrusted GreyThroat to Rhodes Island before disappearing. Now, she has passed the Operator assessment and is a member of Rhodes Island's operation team.
+
+	프로필 :
+	    오퍼레이터 그레이스롯. 코드네임을 부여받은 지 얼마 되지 않았지만, 오퍼레이터가 되기 훨씬 전에 로도스 아일랜드에 합류했다. 그녀는 광석병 연구자였던 부모님을 따라 각지를 돌아다녔는데, 그레이스롯의 어머니는 자신이 실종되기 전에 그레이스롯을 로도스 아일랜드에 맡겼다. 후에 테스트를 거쳐, 그녀는 로도스 아일랜드의 오퍼레이터가 되었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员灰喉没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.11u/L
+	干员灰喉较少接触源石，或在工作中接触源石时采取了完备的保护措施。
+	
+	在收纳这份报告时发现该干员历来的体检报告都出现了异样的褶皱，据推测系干员本人取得体检报告后攥紧纸质报告所致，并无大碍。日后需留意该干员的心理健康状态。——医疗组备注
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.11u/L
+	源石との接触は少ない、あるいは接触時に万全な防護措置を取っている。
+	
+	本診断報告書が提出された際、過去に提出された同オペレーターの診断報告書と同じく異様なシワが見られた。これらのシワは本人が報告書を受け取った後に強く握り締めたことによるものだと推定される。異常事態というほどではないが、当オペレーターの心理状態に注意を払う必要がある。
+	――医療チームより
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there are no other signs of infection. At this time, this operator can be confirmed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator GreyThroat shows no signs of Oripathy infection.
+	
+	[Blood Originium-Crystal Density] 0.11u/L
+	Operator GreyThroat has limited exposure to Originium, and undertakes complete protective measures when potentially coming in contact with Originium in her line of work.
+	
+	When compiling this report, unusual folds were found on the Operator's previous medical examination report. Presumably, the Operator clenched the report upon receiving it, which in and of itself is not a big deal. In the future, however, you should pay attention to the mental health of the Operator. --Medical Group Remarks
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 검사 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 그레이스롯은 광석병 감염 증세가 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L
+	오퍼레이터 그레이스롯은 오리지늄을 자주 접하지 않으며, 업무 중 오리지늄을 접촉할 때는 보호 조치에 만반을 가한다..
+	
+	본 보고서를 수령할 당시 모든 보고서 상에 정체불명의 구김을 발견. 오퍼레이터 본인이 종이 재질의 신체검사 보고서를 꽉 쥐었기 때문으로 보이며, 큰 문제는 없음. 추후 해당 오퍼레이터의 심리 건강 상태에 유의해야 함. ——의료부의 코멘트
+
+———————————————————————————————
+
+	档案资料一 :
+	灰喉的双亲都是非常优秀的矿石病学者，曾与罗德岛的部分医疗干员有一些学术上的合作。但在某个时点后，她的父亲便彻底销声匿迹，再之后没多久，灰喉的母亲便带着年幼的她来到了罗德岛，然而其母却拒绝了罗德岛提出的邀请，留下女儿后便不知所踪。灰喉的母亲在离开罗德岛时的精神状态非常令人不安，即使后来派遣信使想要与她取得联系，也只是石沉大海。
+	刚来到罗德岛的灰喉有着一系列令人担忧的问题，其中最显著的问题是她极度反感源石与矿石病，并且毫不保留她对感染者的厌恶。起初，负责照料灰喉的干员并没有把少女的心思放在心上，毕竟当时灰喉年纪尚轻，也经历了许多事情。但不得不承认，灰喉日后的成长，以及她引起的许多矛盾，早就在这时埋下种子。
+	
+	（注：对原档案内所采用涉及歧视、憎恶的过激字眼进行了修改，仅博士可参阅此条）
+
+	第一資料 :
+	グレースロートの両親は優秀な鉱石病研究者であり、かつてはロドスの一部の医療オペレーターと共同研究をしたこともある。しかしある日突然、父は行方不明になった。しばらくして、母がまだ幼いグレースロートを連れてロドスに訪ねたが、加入の誘いを断り、娘だけ残して姿を消したのだった。ロドスを離れた際の彼女の精神状態は尋常ではなく、その後彼女と連絡を取るために遣わされたトランスポーターでも、収穫が一切なかった。
+	ロドスにやってきて間もない頃、グレースロートはいろんな意味でかなりの問題児であった。中でも最も懸念されるのは、彼女の源石と鉱石病への抵抗、そして感染者への露骨な嫌悪だった。当時、彼女の世話を担当するオペレーターはそういった心理状態を年齢に不相応な経歴による結果だと判断し、問題視しなかったのだが、今となって、後の彼女の成長とそれに伴った様々なトラブルに深く関連していると思われる。
+	
+	（追記：原文で見られた差別や憎悪を連想させる不適切な表現に対して修正を行った。本項はドクターのみ閲覧可能。）
+
+	Archive File 1 :
+	GreyThroat's parents were both excellent Oripathy researchers and had some academic cooperation with some of Rhodes Island's medic operators. However, after a certain point, her father disappeared completely, and not long afterwards, her mother brought the young GreyThroat to Rhodes Island. She too disappeared after leaving her daughter behind. Her mental condition seemed to be extremely distressed as she left Rhodes Island. Though a messenger was later sent to try to get in contact with her, our efforts were akin to chasing a ghost.
+	GreyThroat, at the time she first arrived at Rhodes Island, had a series of worrisome issues, most notably her resentment towards Originium and Oripathy. She didn't even try to hide her hate towards the Infected. At first, the Operator entrusted with taking care of her did not take her mental state to be a serious issue, given that she was still young and might be overwhelmed by her experiences. However, I must admit that the seeds of GreyThroat's subsequent problematic development, as well as the many conflicts she would later cause, were planted during this time long ago. 
+	
+	(Note: The radical words used in the original file involving discrimination and hate have been redacted, and the Doctor may only refer to this file.)
+
+	파일 자료 1 :
+	    그레이스롯의 부모님 두 분은 모두 매우 우수한 광석병 학자였으며, 로도스 아일랜드의 일부 메딕 오퍼레이터들과 학술적인 협업을 하기도 하였다. 하지만 어느 날, 그레이스롯의 아버지는 종적을 완전히 감추었고, 얼마 지나지 않아 그레이스롯의 어머니는 어린 그녀를 데리고 로도스 아일랜드에 왔다. 그러나 그레이스롯의 어머니는 로도스 아일랜드의 어떤 요청을 거절하였고, 어린 그녀를 남겨둔 채 종적을 감춰버렸다. 그레이스롯의 어머니가 로도스 아일랜드를 떠날 당시의 모습은 보는 이로 하여금 마음을 졸이게 만들었다. 이후 전달자를 보내 그녀와 연락을 취하려 했지만, 그녀는 감감무소식이었다. 
+	    로도스 아일랜드에 막 도착했을 당시 그레이스롯은 여러 문제들을 갖고 있었는데, 그중 가장 두드러진 문제는 그녀가 오리지늄과 광석병에 대해 극도의 반감을 갖고 있다는 점과, 감염자에 대한 혐오감을 여과 없이 드러낸다는 점이었다. 그러나 최초에 그레이스롯을 담당하였던 오퍼레이터는 이런 점을 전혀 개의치 않았다. 어쨌든 그레이스롯은 어린 소녀였고, 많은 우여곡절을 겪었기 때문이다. 단, 후에 그레이스롯의 성장과 그녀로 인해 발생한 각종 갈등이 이때부터 시작되었다는 점은 인정해야 한다.
+	
+	    (주: 프로필 원본에 있던 차별과 혐오 관련 과격한 표현을 수정함. 해당 표현은 박사만이 확인 가능.)
+
+———————————————————————————————
+
+	档案资料二 :
+	当罗德岛调查到灰喉父亲的死因时，已经过去了数月有余。在这期间，灰喉始终闭门不出，极力避免与罗德岛舰内人员接触。曾有人目睹灰喉用工业磨砂纸打磨自己的手臂，直到血肉模糊才被闻讯赶来的医疗干员制止。而起因只是因为灰喉误触了某些源石器械。
+	诚然，灰喉不会对感染者做出任何过激行为，但她的种种举动令许多年轻的感染者干员心怀不满。而因此被孤立的灰喉同样不以为意，不如说，她更乐意在罗德岛内保持相对自闭的生活状态。
+	唯一的例外，灰喉极少数愿意交流的对象，正是阿米娅。兴许是因为早早离开家庭，即使满心执念，强压着的不安也需要一个同龄人倾诉对象作为依托。但即便是与阿米娅共处一室的时候，灰喉也会刻意保持着距离，早期甚至会出现轻微的创伤后应激障碍。在阿米娅的建议下，也为了回报罗德岛的收养之恩，灰喉尝试着参加干员考核，开始学习弓弩等武器的使用。部分干员认为那只是灰喉试图离开罗德岛本舰、甚至是叛逃的借口，这种无凭无据的流言蜚语很快被阿米娅制止。
+
+	第二資料 :
+	グレースロートの父の死因をロドスが突き止めたのは、数ヶ月後のことだった。この間、彼女はずっと自分を部屋に閉じ込み、ロドスのメンバーと極力接触しないようにしていた。あるとき、医療オペレーターに制止されるまで、彼女が工業用研磨紙で自分の腕を血まみれになるほどこすっていたことがある。そして原因は誤って源石機械に触れた、ただそれだけだった。
+	当然彼女は感染者に過激な行為をしないが、その言動が一部の若い感染者オペレーターに不満を抱かせた。その結果孤立した彼女だが、特に意を介さず、むしろこのように自閉的な状態での生活に満足しているように見える。
+	例外として、彼女が心を許す極少ない相手の一人は、アーミヤだ。早くも家族を失くし、心の底にどんなに強い執念を抱いても、抑え込んでいた不安を吐露できる同年代の相手が必要だったかもしれない。それでも、アーミヤと同室する時、彼女は常に距離を取っている。最初の頃は、軽いPTSD症状すら見られた。アーミヤのアドバイスを受け、自分を受け入れ育てたロドスに報いるため、彼女はオペレーター審査試験に参加しようと、クロスボウなどの武器の使い方を学び始めた。一部のオペレーターは、これらの行動は彼女がロドスを離脱し、ひいては裏切るための手段だと考えていたが、このような根拠もない噂はすぐにアーミヤによって封じられた。
+
+	Archive File 2 :
+	When Rhodes Island discovered the cause of death of GreyThroat's father, several months had already passed. During this time, GreyThroat remained isolated, trying to avoid contact with the various personnel within Rhodes Island. Someone once witnessed GreyThroat scraping at her own arm with a piece of industrial sandpaper, and was not discovered by staff until her arm had been turned into a bloody mess. The reason was because GreyThroat accidentally touched some Originium-based devices.
+	While GreyThroat has not taken any radical behavior towards Infected persons, her actions have been a source of discontentment among many younger operators. The ostracized GreyThroat of course takes no issue with this fact, and continues to lead a relatively solitary life in Rhodes Island.
+	The only exception is Amiya, one of the few people she is willing to communicate with. Perhaps due to being separated from her family at a young age, her desire to speak with a peer for support sometimes even eclipses her prejudices. However, even when she is in the same room with Amiya, she carefully maintains her distance, exhibiting mild PTSD at the very beginning. At Amiya's suggestion, and in return for adoption into Rhodes Island, GreyThroat began training for the Operator assessment and learned to use bows and crossbows. Some were skeptical, claiming that it was just an excuse for GreyThroat to leave Rhodes Island, or even try to defect, but Amiya quickly put a halt to this, as well as other unfounded rumors.
+
+	파일 자료 2 :
+	    로도스 아일랜드가 그레이스롯의 아버지의 사인을 조사할 때는, 이미 수개월이 지난 뒤였다. 이 기간 중 그레이스롯은 줄곧 방안에만 머무르며, 로도스 아일랜드 선내 사람들과의 접촉을 극도로 꺼려하였다. 한 번은 누군가가 그레이스롯이 공업용 사포지로 자신의 팔뚝을 피투성이가 되도록 문지르는 걸 목격하였는데, 소식을 들은 메딕 오퍼레이터가 달려와 제지하기 전까지 멈추지 않았다. 이는 그레이스롯이 어떤 오리지늄 기구를 잘못 건드려서 생긴 사고였던 것으로 확인되었다.
+	    물론 그레이스롯이 실제로 감염자에 대해 과격한 행동을 한 적은 없었으나, 그녀의 행동거지는 젊은 감염자 오퍼레이터들로 하여금 불만을 품게 하기에 충분했다. 이로 인해 그레이스롯은 외톨이가 되었으나, 그녀는 전혀 개의치 않았다. 오히려 로도스 아일랜드에서 계속해서 폐쇄적인 생활을 해나갈 수 있기를 원했다. 
+	    그레이스롯이 예외적으로 대화하길 원하는 대상은 바로 아미야다. 이는 어쩌면 너무 일찍 가족과 헤어진 탓에 가슴속에 쌓인 집착과 짓눌려 있는 불안감을, 믿을 만한 또래에게 이것저것 모두 털어놓고 싶었던 이유이지 않을까. 하지만 아미야와 같은 방에서 생활할 때도 그레이스롯은 의도적으로 거리를 두었으며, 심지어 초기엔 가벼운 외상 후 스트레스 장애 증세가 나타나기도 했다. 그러다 아미야의 건의에 따라, 그리고 자신을 길러준 로도스 아일랜드에게 보답하기 위해, 그레이스롯은 석궁 등의 무기 사용법을 익히며 오퍼레이터 테스트에 응시하였다. 일부 오퍼레이터들은 그레이스롯이 로도스 아일랜드를 떠나기 위해서 그러는 것이라 생각하였고, 심지어 로도스 아일랜드를 배신하기 위한 준비를 하는 걸지도 모른다는 말도 있었으나, 이런 근거 없는 유언비어는 아미야에 의해 빠르게 정리되었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	正式通过干员考核后，灰喉取得了自己的代号。即使是那些对灰喉颇有微词的干员，也无法否认灰喉在作战中的表现。战场上的灰喉有着远超同期干员的灵敏程度，其动态视力之出色也让她能弥补自身射击经验的不足。
+	然而，一个如此反感甚至于敌视感染者的罗德岛干员，能否肩负起应尽的职责？为了打消大家的顾虑，阿米娅主动提出将灰喉纳入自己带领的行动小队，并圆满地执行了数次任务。
+	有些人的变化是潜移默化的，大部分人希望阿米娅能逐渐感化这位在罗德岛内略显尖锐的少女。可事实再一次出人意料，在某次漫长的、残酷的救援任务后，灰喉在一夜之间有了翻天覆地的变化。灰喉开始学会与感染者交谈，虽然依旧会毫不在意地触及某些感染者们避之如讳的话题，语气冷淡，甚至话里有刺，但这份诚心实意的坦然反而让部分人放下了内心的芥蒂。
+	极少有人知道那次任务的内幕，阿米娅与灰喉本人也极少提及，可以确定的是，现在灰喉的眼中不再被狭隘的仇恨蒙蔽。可她真的彻底放下心结了吗？没有那么简单，能轻易放下莫大仇恨的人，反而不值得信任。每一次任务归来后的体检，灰喉都会反复确认自己的血液源石结晶密度，伴随着窒息般的恐惧和安心感，也许还有随之而来的愧疚和悲哀。灰喉至今仍时常从噩梦中惊醒，无论是在任务途中还是在罗德岛的宿舍，她极少有安眠的机会。
+	灰喉依旧是她自己，与阿米娅，与任何人都截然不同。但她仍旧会和罗德岛一并战斗，时至今日，没有人再质疑这一点。
+
+	第三資料 :
+	テストに合格し正式にオペレーターになった後、彼女はグレースロートのコードネームを得た。彼女に不満があるオペレーターたちも、その作戦での実力を認めざるを得なかった。戦場での彼女の鋭敏さは、同期のオペレーターを遥かに凌駕し、その抜群の動体視力も射撃面の経験不足を十分に補った。
+	しかし、これほど感染者を敵視しているオペレーターが役目をちゃんと果たせるのか？そんな周りの疑問を解消するために、アーミヤは彼女を自分の率いる行動隊に加え、共に数多くの任務を完遂した。
+	人間とは無自覚に変化していくものだ。大半の人も、彼女の尖った性格がアーミヤに少しずつ感化されることを願っていた。しかしそれよりも早く、ある長くて残酷な救援任務がきっかけとなり、彼女は急激にその態度を変化させた。感染者と会話をしようとし始めた彼女は、遠慮なく地雷を踏んだり、態度が冷たかったり、言い方も棘があるように聞こえたりするものの、その誠実さと純粋さに好感を持ち始めた人が少なくなかった。
+	その任務の詳細を把握しているのは極一部の人間であり、アーミヤもグレースロート本人も滅多に言及しない。唯一明らかなのは、彼女はもう憎しみに囚われなくなっていることだ。それでも、彼女の心の闇を完全に追い払うのは簡単ではないだろう。憎しみを容易く手放す人は、逆に信頼できないのだ。任務帰りの身体検査の度、彼女は自分の血液中源石密度を何度も確認する。それに伴うのは息もできないほどの恐怖からの安心感、そして後ろめたさと哀しさ。彼女は今でもよく悪夢から目覚める。任務の途中でも、ロドスの宿舎にいる時でも、安らかに眠ることはほぼなかった。
+	彼女はやはり彼女であり、アーミヤや他の誰とも違う。しかし、彼女がロドスとともに戦っていくことを、もう誰も疑問に思わないだろう。
+
+	Archive File 3 :
+	After officially passing the Operator assessment exam, GreyThroat acquired her codename. Even those who are vocally opposed to her conduct cannot deny her combat performance. On the battlefield, GreyThroat is far keener than Operators who have served for a similar length of time, her excellent dynamic vision compensating for her lack of marksmanship experience.
+	However, can a Rhodes Island Operator shoulder her duties while being so hostile and disgusted towards the Infected? In order to address the concerns of others, Amiya personally took the initiative to put GreyThroat on her operation team, and successfully carried out several missions.
+	Some people may be hard to change, but many hoped that Amiya would be able to gradually influence this somewhat abrasive girl. But, reality would once again surprise everyone. After a long and harrowing rescue mission, GreyThroat changed dramatically overnight. She began to learn to talk to the Infected, though she still would often touch upon topics that are typically off-limits for the Infected. Her tone was cold, and sometimes even full of barbs, but her frankness began to soften the hearts of many.
+	Very few people know about what exactly transpired on that mission, with Amiya and GreyThroat both seldom mentioning it. What is certain, is that GreyThroat is no longer blinded by a myopic hatred. However, is her heart actually free from the shackles of hate? It is not that simple. People who seem to easily let go of a deep-rooted hatred are not trustworthy. After each physical examination following her return for a mission, GreyThroat repeatedly confirms her blood originium-crystal density, accompanied by a near-suffocating fear and subsequent relief, perhaps a reflection of the guilt and ensuing sorrow. GreyThroat still often wakes up with nightmares, and rarely has an opportunity to sleep, whether on a mission or in the Rhodes Island dormitories.
+	GreyThroat is still her old self, not like Amiya, not like anyone else. But she will still fight for Rhodes Island, and nobody doubts this anymore.
+
+	파일 자료 3 :
+	    오퍼레이터 테스트 정식 통과 후, 그레이스롯은 코드네임을 부여받았다. 그레이스롯에게 불만이 있는 사람들도 그녀가 작전 수행 중 보여준 활약을 부정하진 못했다. 그레이스롯은 전장에서 다른 동기 오퍼레이터들을 완벽히 압도하는 반응 속도와 동체 시력을 보여주었고, 이런 능력을 통해 부족한 사격 경험을 보완하였다.
+	    하지만 감염자에 대한 반감을 가진, 심지어 적대시하기까지 하는 자가 로도스 아일랜드에서 제 역할을 할 수 있을까? 다른 사람들의 이런 우려를 불식시키기 위해, 아미야가 앞장서서 그레이스롯을 자신의 팀으로 배속시켰고, 수차례의 임무를 원만하게 완수하였다.
+	    사람은 아무도 모르는 사이에 변하기도 한다. 대부분의 사람들은 아미야가 이 가시 돋친 소녀를 점차 감화시켜나갈 수 있길 기대하고 있다. 이후 뜻밖의 일이 발생하였는데, 장기간에 걸친 힘겨운 구출 작전을 수행한 후, 그레이스롯에게 하루아침에 큰 변화가 생긴 것이었다. 그녀는 감염자들과 교류하는 법을 배우기 시작하였으며, 비록 아직은 민감한 화제를 거리낌 없이 꺼내고, 냉담한 어조로 가시 돋친 말들을 뱉어내긴 하지만, 그래도 로도스 아일랜드에 녹아들기 위해 노력하는 그녀의 진솔한 모습이 일부 오퍼레이터들의 마음을 풀어주는 작용을 하였다.
+	    물론 해당 작전의 내막에 대한 이야기는 아미야와 그레이스롯도 거의 하지 않기에, 아는 사람은 극소수에 불과하다. 다만 확실한 사실은, 그녀의 마음을 지배하고 있었던 감염자에 대한 적개심이 이 작전을 통해 사라졌다는 점이다. 그런데 정말로 그녀의 마음속의 응어리가 완전히 풀어졌다고 할 수 있을까? 아마 그리 간단하지는 않을 것이다. 오히려 그렇게 쉽게 사라졌다고 하는 사람을 더욱 믿기 어려울 것이다. 매번 작전을 마치고 돌아온 후, 그레이스롯은 숨이 막힐 것 같은 공포감과 안도감, 어쩌면 죄책감과 슬픔까지도 함께 느끼면서 반복적으로 자신의 혈중 오리지늄 농도를 체크하고 있다. 그레이스롯은 아직도 늘 악몽을 꾸다가 잠에서 깨어나고 있어, 작전 수행을 하러 가는 길이든, 로도스 아일랜드의 숙소에 있든, 편안히 잠을 자는 날이 거의 없다.
+	    그녀는 여전히 그레이스롯이다. 아미야를 포함한 다른 사람과는 분명히 다르지만, 그녀는 변함없이 로도스 아일랜드와 함께 싸울 것이며, 이제 그 사실을 의심하는 사람은 없다.
+
+———————————————————————————————
+
+	档案资料四 :
+	“害怕？当然，我怎么可能不害怕。”
+	“当父亲松开我的手被人群淹没之后，我就再也没有见过他。那个时候我不敢直视母亲，只感觉她的手越来越冷，我并不明白发生了什么事，为什么我们救助的那些病人一夜之间就变成了暴徒。直到我看见我的朋友，我的感染者朋友，拿着一支满是油污的扳手，像疯子一样破坏着街道。直到今天，我偶尔还会想起她的表情，那代表什么呢？我不确定。”
+	“从那之后，我就无法心平气和地和感染者交谈。对博士你好像也不用避讳，讲明白点，最严重的时候我甚至会反感到想要呕吐。阿米娅算是个例外吧，我真的很感激她。啊，这话请不要当她的面说。”
+	“但我也看见过感染者们苟且在大地的各个角落。饥饿的妇人用鲜血滋润骨瘦如柴的孩子，被流放至贫瘠的焦土等死，或是被收容进名义上的诊所。没有任何治疗，甚至没有食物，他们啃食墙根的泥土，身旁是那些早已化作无机体的可笑的生命。一墙之隔外又是什么？是一座和平、繁华、温饱的移动城邦。”
+	“我也见过被驱逐的感染者救助旅人，还见过救助感染者的流浪医师被恐惧压垮。成为干员后，我也曾参与其中，帮助没有加入移动城邦的流浪者们躲避天灾。不幸成为感染者的村民们用肉身堵住了洪灾，仅仅片刻，却也为撤离工作争取了时间。而那些献出生命的感染者呢，就那么飘荡在水面上，无人问津。你知道村民是如何看待那些英雄的吗？他们厌恶。他们厌恶的是他们皮肤上的源石结晶，还是那些人，或是二者皆有，我分不清。”
+	“这又是为什么？阿米娅回答我，因为大家都是活生生的人。谁都有求生的权利，谁都在切切实实地渴望活下去。”
+	“你知道吗？说这些话的时候，阿米娅真的不像个孩子。但我和她并不一样，我和感染者终究是有区别的。我只是想在我的身边，在我心里，找到感染者和我们生而为人的某种平衡，仅此而已，博士。”
+	
+	——某次体检结束后，灰喉对博士的交谈记录，记录者认为本段对话有助于其他感染者干员对灰喉的理解，经由本人默许后加入个人档案。
+
+	第四資料 :
+	「怖いかって？当たり前でしょ、怖いに決まってるじゃない。」
+	「父さんが私の手を放して人波に飲み込まれてから、二度と会うことはなかった。あの時は母さんを直視もできず、冷えていく彼女の手の感触だけが伝わってきた。何が起こったのか、なぜ我々が助けてきた患者たちが突然暴徒に変貌したのか、あの時の私には全く理解できなかった。私の友人、感染者の友人が、薄汚れたレンチを持って、狂ったように街を破壊してる姿を見るまではね。今でも、あの表情を思い出す時がある。あれは何を意味するのか？分からない。」
+	「あれから、落ち着いて感染者と会話するのができなくなった。ドクターに遠慮することもないし、はっきり言うね。一番ひどい時は、反吐が出るほど嫌だった。アーミヤは例外だけど。彼女には本当に感謝してるから。あ、このことは彼女に言わないで。」
+	「でも、この大地のあちこちで足掻く感染者たちを見てきた。飢えた母が痩せこけた子供に自分の血を飲ませて、荒れ果てた土地に放り込まれて死ぬか、名ばかりの診療所に収容されるかの二択。治療もなく、食べ物もない。壁際の草と土を食べるしかなくて、周りに見えるのはとっくに死んでる哀れな命。その壁の向こうは何だと思う？平和で繁盛した、食べ物に困ることのない移動都市だ。」
+	「駆逐された感染者に助けられた旅人も、感染者を助けたのに恐怖に押しつぶされる流浪医者もこの目で見てきた。オペレーターになってから、私も、まだ移動都市に入っていない流民たちを天災から助ける任務に参加した。不幸にも感染者になった人たちは身を挺して洪水を塞ぎ、わずかでも撤収の時間を稼いた。なのに彼らの死体は水面に浮かんだまま、誰もそんなことを気にしなかった。あの英雄たちを人々がどう思ってるか分かる？気持ち悪いって。それが感染者たちの身体にある源石結晶か、それとも感染者自体か、あるいは両方なのか、私には分からない。」
+	「これもまたどうして？アーミヤはこう言った。みんな同じく生きている人間で、誰にだって生きる権利はあるし、生きたいと切に願ってるからって。」
+	「知ってる？こんなことを話す時のアーミヤって、全然子供らしくない。だけど私は彼女と違う。感染者とは違うんだ。自分の周りで、自分の心の中で、感染者と自分たちが生きていくための妥協点を探したい。ただそれだけよ、ドクター。」
+	
+	――ある日の健康診断の後、グレースロートとドクターの会話記録より。本会話は感染者オペレーターの彼女への理解を深めるに有用と判断し、記録者は本人の黙認を得た後、個人資料の一部とした。
+
+	Archive File 4 :
+	'Scared? Of course. How could I not be scared?'
+	'When my father let go of my hand and was swallowed up by the crowd, I never saw him again. At that time, I didn't dare look directly at my mother, and only felt the heat draining from her hand. I didn't understand what happened, why the patients we rescued turned into rioters overnight. Not until I saw my Infected friend, a greasy wrench in hand, vandalizing the street... like a lunatic. Even today, I sometimes still see her expression. What does that mean? I'm not sure.'
+	'From then on, I couldn't stay calm when talking to Infected people. Since I probably don't need to hide anything from you, Doctor, I'll be frank. In the worst cases, I felt like vomiting. Amiya is the exception though. I really appreciate her. Oh, but don't tell her I said that.'
+	'But, I've also seen the Infected across this world. The hungry woman using her own blood to nourish a ghastly, malnourished child, exiled to the scorched soil of the barrens, or admitted to some 'clinic' in name only to die. With no treatment and no food, they eat the soil at the base of the walls, surrounded by the inorganic, petrified bodies of those whose ridiculous lives have long expired. And what is on the other side of that wall? A peaceful, prosperous mobile city devoid of hunger.'
+	'I have seen the exiled Infected rescue travelers, and I have also witnessed traveling doctors who help these Infected crushed by terror. After becoming an Operator, I have also become involved, trying to help those who have not joined a mobile city-state avoid Catastrophes. One incident still is fresh on my mind. One time, in the face of a flood, Infected villagers held back the water with their own flesh, buying just enough time for the evacuation. And so those Infected gave their lives, their bodies now floating on top of the water, but nobody cares. Do you know how the villagers view these heroes? With disgust. Whether they hate these people or the Originium crystals on their skin, I cannot say.'
+	'And why is this happening? Amiya told me before, because everyone is a living person. Everyone wants to live, and has the right to survive.'
+	'Did you know? When Amiya said these words, she did not look like a young girl at all. But I am not the same as her, and there is inevitably a difference between the Infected and non-Infected. I just want to find the balance between the Infected and the people we were born to be, for those around me, for who I am inside. Nothing more, Doctor.'
+	
+	 --GreyThroat's conversation record with the Doctor after a certain medical examination. The recorder believes that this conversation will help the Infected understand GreyThroat, and with GreyThroat's tacit consent, this recording was added to her personal files.
+
+	파일 자료 4 :
+	    "무섭냐고? 당연하지, 왜 안 무섭겠어."
+	    "내 손을 놓은 아버지는 사람들 틈에 휩쓸려 사라지셨고, 다시는 만나지 못했어. 당시 나는 감히 어머니를 똑바로 쳐다보지도 못했고, 그저 어머니의 손이 점점 차가워지는 걸 느낄 수 있을 뿐이었지. 대체 무슨 일이 일어난 건지, 어째서 우리가 도와주던 환자들이 하루아침에 폭도로 변한 건지 전혀 알 수 없었어. 그리고 내 친구, 내 감염자 친구가 기름 범벅이 된 스패너를 들고 미친 듯이 거리를 부수는 걸 보았어. 아직도 가끔씩 그 친구의 표정이 떠오르곤 해, 대체 무슨 생각을 하고 있었던 걸까? 잘 모르겠어."
+	    "그 후로는, 마음 놓고 감염자와 이야기를 나눌 수 없게 되었어. 박사 당신에게 라면 솔직해져도 되겠지. 어느 정도냐면, 심각할 때는 구역질이 날 정도로 거부감이 들어. 하지만 아미야는 예외야, 아미야에겐 정말 고마워하고 있어. 아, 이 말은 비밀로 해줘."
+	    "나도 감염자들이 여기저기에서 힘들게 사는 모습을 본 적 있어. 굶주린 여인이 피투성이의 빼빼 마른 아이가 황무지에서 죽어가도록 내버려 두거나, 이름만 진료소인 곳에 아이를 방치하는 모습도 본 적이 있지. 아무런 치료도 받지 못하고, 심지어 먹을 것도 없던 탓에 담벼락 아래 진흙을 파먹더라고. 주변에는 진작에 생기를 잃어버린 것들로 가득했지. 그 담벼락 너머에는 뭐가 있었는 줄 알아? 평화롭고, 번화하고, 풍요로운 이동도시가 있었어."
+	    "쫓겨난 감염자가 여행자를 돕는 것도 봤고, 감염자를 도와주는 떠돌이 의사가 공포감에 짓눌려있는 것도 보았지. 오퍼레이터가 된 후, 이동도시에 들어가지 못한 방랑자들이 재앙을 피할 수 있게 도와주는 작전에 참가한 적이 있는데, 불행하게도 감염자가 된 마을 사람들은 온몸으로 홍수를 막았고, 덕분에 잠시 동안이나마 철수 작업을 위한 시간을 벌 수 있었어. 목숨을 바쳐 시간을 벌어준 그 감염자들이 수면 위에 둥둥 떠 있는데도, 아무도 관심을 갖지 않더라. 마을 사람들이 그 영웅들을 어떻게 생각하는 줄 알아? 혐오했었어. 혐오한 것이 그들의 피부 위에 있는 오리지늄 결정인지, 아니면 그 사람들 자체인지, 아니면 둘 다인지… 나는 잘 모르겠어."
+	    "대체 왜들 이러는 걸까? 모두가 살아있는 사람이기 때문이라고 아미야가 알려줬어. 누구든 살아갈 권리가 있고, 누구든 살아가길 절실히 원한다고."
+	    "그거 알아? 이 말을 해줄 때, 아미야는 전혀 아이 같지 않았어. 하지만 난 아미야와는 달라, 난 아무래도 감염자와는 차이가 있으니까. 내 삶 속에서, 감염자와 비감염자 사이 어딘가에 있는 균형점을 찾고 싶을 뿐이야, 박사."
+	
+	——신체검사 후, 그레이스롯과 박사의 대화 기록, 기록자는 본 대화 내용이 감염자 오퍼레이터가 그레이스롯을 이해하는 데 도움이 될 수 있으리라 판단, 당사자의 묵인하에 파일에 추가함
+
+———————————————————————————————
+
+	晋升记录 :
+	也许灰喉自己都没有意识到，其实最近这段时间大家对她的印象都颇有改观。虽然大部分时候她依旧会刻意避开与感染者干员的接触，不过某位感染者干员如是回忆到：他曾在任务中因为失误落入陷阱，身受重伤，不知在丛林何处掩护他们的灰喉小姐立刻出手相救。随后，这位速来最反感感染者的干员，强绷着脸色，手臂微颤地帮他完成了一系列应急处理，救了他的命。他永远忘不了灰喉在竭力克制自己情绪的同时又无法抑制住颤抖的表情。那时候，他并没有感觉到自己被歧视，他突然理解了灰喉。
+
+	昇進記録 :
+	グレースロート自身すらも気づいていないかもしれないが、ここ最近周りからの彼女に対する印象はかなり改善されている。多くの場合、彼女は相変わらず感染者との接触を避けているが、とある感染者オペレーターの回想によれば、任務中ミスを犯して罠に落ち、重傷を負った彼が、森のどこかで彼らを援護していた彼女に速やかに救出されたという。そして、これまで感染者に抵抗を見せ続けた彼女はこわばった顔で、震える手で応急処置を施し、彼の命を救った。自身の感情を必死に抑え、それでも震えが止まらなかった彼女の表情は一生に忘れられないと語る彼は、あの瞬間、自分は差別されていないことを悟り、彼女を理解したという。
+
+	Promotion Record :
+	Maybe GreyThroat hasn't realized it yet, but in fact, everyone's impression towards her has changed recently. Though she still tries to avoid contact with the Infected most of the time, one Infected operator recalled an episode in which he had fallen into a trap on a mission due to his own error and was serious injured only to be immediately rescued by GreyThroat, who had been covering them from the jungle. Afterwards, the operator who was most known for her disgust towards the Infected was administering emergency treatments for him, her face contorted and arms trembling as she saved his life. He will never forget GreyThroat's expression as she fought to contain her all-too-visible trembling. At that time, he did not feel discriminated against, and suddenly came to understand GreyThroat.
+
+	승진 기록 :
+	    그레이스롯은 최근 그녀에 대한 다른 사람들의 생각이 꽤나 달라졌음을 눈치채지 못하였을 수도 있다. 그녀가 여전히 일부러 감염자 오퍼레이터와의 접촉을 피한다고는 하지만, 어느 감염자 오퍼레이터는 일전에 그가 작전을 수행하던 도중 함정에 빠져 중상을 입었을 때, 숲 속 어딘가에서 자신들을 엄호하고 있던 그레이스롯이 자신을 구하러 나섰던 사건을 기억하고 있다. 감염자에 대해 큰 반감을 갖고 있었던 그녀는 굳은 얼굴을 한 채, 덜덜 떨리는 손으로 응급처치를 해 자신의 생명을 구해주었다. 그는 그레이스롯이 최선을 다해 자신의 본능적인 감정에 맞서면서 떨림을 주체하지 못하던 그 표정을 영원히 잊지 못할 것이다. 그때 그는 자신이 멸시받고 있다고 느끼기는커녕, 오히려 그레이스롯을 이해할 수 있게 되었다.

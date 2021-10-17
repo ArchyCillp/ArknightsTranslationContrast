@@ -1,6 +1,6 @@
 [Decision(options="原来是这样......",values="1")]
 [Decision(options="そんなことがあったのか……。",values="1")]
-[Decision(options="So that’s what happened…",values="1")]
+[Decision(options="So that's what happened...",values="1")]
 [Decision(options="그런 일이 있었다니……",values="1")]
 
 [name="普罗旺斯"]   就是如此，我们在火山脚下的森林里，碰到了锡兰小姐。
@@ -30,7 +30,7 @@
 
 [Decision(options="不管怎么说，大家平安无事就好。",values="1")]
 [Decision(options="何はともあれ、皆無事で良かった。",values="1")]
-[Decision(options="Regardless, what’s important is that everyone is safe.",values="1")]
+[Decision(options="Regardless, what's important is that everyone is safe.",values="1")]
 [Decision(options="어찌 됐든, 다들 무사해서 다행이다.",values="1")]
 
 [name="锡兰"]   嗯，那么，虽然比较晚了，请容我正式自我介绍一下。
@@ -40,12 +40,12 @@
 
 [name="锡兰"]   我的名字是锡兰·道尔科斯，维多利亚国立大学毕业，专攻方向是源石研究，也是这座城市市长的女儿。
 [name="セイロン"]   わたくしの名前はセイロン・ドルクスと申します。ヴィクトリア国立大学の出身で専攻は源石（オリジニウム）。そしてこの都市の市長の娘でもありますのよ。
-[name="Ceylon"]   My name is Ceylon Doykos, and I’m a graduate of Victoria National University as well an Originium researcher. I'm also the daughter of this city's mayor.
+[name="Ceylon"]   My name is Ceylon Doykos, and I'm a graduate of Victoria National University as well an Originium researcher. I'm also the daughter of this city's mayor.
 [name="실론"]   제 이름은 실론 도이코스, 빅토리아 국립 대학에서 오리지늄 연구를 전공했고, 이 도시 시장의 딸입니다.
 
 [Decision(options="市长的女儿？！",values="1")]
 [Decision(options="市長の娘！？",values="1")]
-[Decision(options="The mayor’s daughter?!",values="1")]
+[Decision(options="The mayor's daughter?!",values="1")]
 [Decision(options="시장의 딸?!",values="1")]
 
 [name="天火"]   谁会想到市长的女儿会独自去未开发的火山林地呢。
@@ -215,7 +215,7 @@
 
 [Decision(options="火山爆发？！;开玩笑吧？！",values="1;2")]
 [Decision(options="火山が噴火！？;冗談だろう！？",values="1;2")]
-[Decision(options="The volcano’s going to erupt?!;Are you kidding?!",values="1;2")]
+[Decision(options="The volcano's going to erupt?!;Are you kidding?!",values="1;2")]
 [Decision(options="화산 폭발?!;농담이지?!",values="1;2")]
 
 [name="普罗旺斯"]   特殊的刺激性气味，加上异常的气温、狂躁化的源石虫.....

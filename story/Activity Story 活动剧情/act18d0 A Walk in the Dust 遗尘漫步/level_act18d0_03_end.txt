@@ -1,422 +1,1055 @@
 [name="文森特伯爵"]  啊，凯尔希修士，您总算来了。呃，您这身打扮......
+[name="ヴィンセント伯爵"]  あっ、ケルシー修道士、ようやくいらっしゃいましたか。おや？　そのお召し物は……
+[name="Count Vincent"]  Ah, Cleric Kal'tsit, you're finally here. Er, your mode of dress...
+[name="빈센트 백작"]  아, 켈시 수도사님. 드디어 오셨군요. 엇, 이 차림은……
 
 [name="凯尔希"]  您的邀请令我深感荣幸，但事出突然，修道院没法为我准备一身合适的礼服。只从仓库里翻出了这样一身，希望您不要介意。
+[name="ケルシー"]  お招きいただき大変光栄です。しかし、突然のお招きでしたので、修道院にはふさわしいドレスがなく、倉庫にあったものを引っ張り出しましたが……このような格好でも構いませんでしょうか？
+[name="Kal'tsit"]  I was deeply honored by your invitation, but with sudden matters to attend to, the monastery could not prepare suitable evening attire for me. They found only this outfit buried in the storeroom. I hope you shan't mind.
+[name="켈시"]  초대해 주셔서 영광입니다. 수도원 창고에서 겨우 이런 옷밖에 못 찾았네요. 초대를 너무 갑작스럽게 받는 바람에, 적절한 예복을 찾지 못했습니다. 심려를 끼쳐드린 것 같아 대단히 송구합니다.
 
 [name="文森特伯爵"]  唔，我自然不会介意，不如说您的这身打扮十分的......十分的英姿飒爽。
+[name="ヴィンセント伯爵"]  そうでしたか、もちろん構いませんとも！　というよりむしろそのお姿は何というか……とても凛としていて、見惚れてしまいます。
+[name="Count Vincent"]  Oh, quite naturally, I shan't. I'd go so far as to say your attire is utterly... utterly, formidably gallant.
+[name="빈센트 백작"]  호오, 심려라뇨! 오히려 좋습니다. 지금 차림은…… 무척 카리스마 넘치는군요.
 
 [name="文森特伯爵"]  海蒂也别站着了，快，这位是凯尔希修士，打声招呼，然后快进屋吧。
+[name="ヴィンセント伯爵"]  ハイディ、こちらがケルシー修道士だ。ほら、ぼうっとしていないで早くご挨拶をして中へ入りなさい。
+[name="Count Vincent"]  Heidi, you don't just stand there. Here, this is Cleric Kal'tsit. Give her a greeting, and then hurry inside quickly.
+[name="빈센트 백작"]  하이디, 멍하니 서 있지 말고 이리 와보렴. 이분은 켈시 수도사님이란다. 인사드리고 어서 안으로 들어가거라.
 
 [name="海蒂"]  ————
+[name="ハイディ"]  ――――
+[name="Heidi"]  ————
+[name="하이디"]  ……
 
 [name="文森特伯爵"]  海蒂？
+[name="ヴィンセント伯爵"]  ハイディ？
+[name="Count Vincent"]  Heidi?
+[name="빈센트 백작"]  하이디?
 
 [name="凯尔希"]  海蒂小姐，幸会。
+[name="ケルシー"]  ハイディさん、お会いできて大変光栄に思います。
+[name="Kal'tsit"]  Miss Heidi, it's good to meet you.
+[name="켈시"]  하이디 씨, 만나서 반갑습니다.
 
 [name="海蒂"]  啊——欸——呃，那个，我叫海蒂——
+[name="ハイディ"]  あっ――えっ――あの、えっと……ハイディです――
+[name="Heidi"]  Ah—er—uh, th—um, I'm Heidi—
+[name="하이디"]  아…… 어…… 음, 그러니까…… 전 하이디라고 합니다……
 
 [name="凯尔希"]  我已经知道了，很可爱的名字。
+[name="ケルシー"]  はい、とても可愛らしいお名前ですね。
+[name="Kal'tsit"]  I know it already. An adorable name.
+[name="켈시"]  예, 너무 예쁜 이름이네요.
 
 [name="海蒂"]  ——您就是，凯尔希修士，是吗？我经常听叔叔说起您。
+[name="ハイディ"]  ――あなたが、ケルシー修道士、ですか？　おじさまからいろいろお話は伺っております。
+[name="Heidi"]  —So you're—Cleric Kal'tsit, is that right? I often hear my uncle mention you.
+[name="하이디"]  ……당신이 켈시 수도사님이신가요? 아저씨께 말씀 많이 들었습니다.
 
 [name="凯尔希"]  是我的荣幸。
+[name="ケルシー"]  それは光栄です。
+[name="Kal'tsit"]  The pleasure is mine.
+[name="켈시"]  영광이로군요.
 
 [name="海蒂"]  ——
+[name="ハイディ"]  ――――
+[name="Heidi"]  ——
+[name="하이디"]  ……
 
 [name="文森特伯爵"]  凯尔希修士，您也知道汤姆森先生吧，没错，这位海蒂·汤姆森正是那位古怪家伙的女儿。
+[name="ヴィンセント伯爵"]  ケルシー修道士、あなたもトムソン氏をご存じでしょう。こちらのハイディ・トムソンは、あの変わり者の娘です。
+[name="Count Vincent"]  Cleric Kal'tsit, I imagine you know of Mr. Thomson too? Quite, this is Heidi Thomson before you, that strange fellow's daughter.
+[name="빈센트 백작"]  켈시 수도사님, 톰슨 씨를 기억하시나요? 예, 이쪽의 하이디 톰슨이 바로 그 괴팍한 친구의 딸이랍니다.
 
 [name="凯尔希"]  是这样，您的父亲是个值得尊敬的人。
+[name="ケルシー"]  そうでしたか。あなたのお父上は大変尊敬に値するお方です。
+[name="Kal'tsit"]  I see. Your father is a person worthy of respect.
+[name="켈시"]  그렇군요, 아버님께서는 존경스러운 분이십니다.
 
 [name="海蒂"]
+[name="ハイディ"]
+[name="Heidi"]
+[name="하이디"]
 
 [name="文森特伯爵"]  好了，请进吧，修士。
+[name="ヴィンセント伯爵"]  では、どうぞお入りください、ケルシー修道士。
+[name="Count Vincent"]  Right, then, do come in, Cleric.
+[name="빈센트 백작"]  자! 안으로 드시죠, 수도사님.
 
 [name="凯尔希"]  再次感谢您的慷慨，文森特阁下。
+[name="ケルシー"]  お招きに改めて感謝いたします、ヴィンセント殿。
+[name="Kal'tsit"]  Thank you again for your generosity, Sir Vincent.
+[name="켈시"]  초대해주셔서 다시 한번 감사드립니다, 빈센트 님.
 
 [name="欢快的女贵族"]  哦，您知道伯爵大人去伦蒂尼姆的事情吗，您去过那座城市吗？
+[name="明るい女性貴族"]  そういえば先日、伯爵がロンディニウムに行かれたのはご存じ？　あなたもあの都市へ行ったことがおありになって？
+[name="Merry Noblewoman"]  Oh, did you know the Count went to Londinium? Have you ever been in that city before?
+[name="유쾌한 귀족 부인"]  참, 백작님께서 런디니움에 다녀오셨다는 이야기 들으셨나요? 혹시 그곳에 가보신 적 있나요?
 
 [name="微醺的商人"]  别提啦，我曾经大包小包收拾好了，结果天灾信使跑过来说：前面路封啦，都回家吧。
+[name="ほろ酔いな商人"]  情けない話だが、昔、色々用意して向かったのに、行く途中で天災トランスポーターに「道が塞がれてるから戻れ」と言われてね……
+[name="Tipsy Businessman"]  Don't remind me! I once had everything packed up ready, and then! A Catastrophe Messenger came trotting along to say: the road ahead's blocked, you all go back.
+[name="약간 취한 상인"]  말도 마십시오. 그곳에 가려고 짐을 잔뜩 싸뒀는데, 재앙정보전달자가 길이 폐쇄됐다며 돌아가라고 하더군요.
 
 [name="微醺的商人"]  我失魂落魄地回家之后，立刻就生了一场大病呢。
+[name="ほろ酔いな商人"]  落胆して家に帰って、その後すぐに大病を患ってしまったんだよ。
+[name="Tipsy Businessman"]  I was beside myself returning home. Immediately had a great bout of illness.
+[name="약간 취한 상인"]  그 이야기에 허겁지겁 돌아왔다가 크게 앓았지 뭡니까.
 
 [name="欢快的女贵族"]  哎呀，这可真惨。
+[name="明るい女性貴族"]  あら、それは災難でしたこと。
+[name="Merry Noblewoman"]  Oh, my, how dearly wretched.
+[name="유쾌한 귀족 부인"]  어머, 고생하셨겠네요.
 
 [name="附庸风雅的男人"]   那位大诗人今天来了吗？我私下做了几篇文章，还打算请他品鉴品鉴。
+[name="風流人ぶる男"]   ところで、あの大詩人は今日はいらっしゃってるかな？　個人的にいくつか書いてきた作品があるので、彼に見てもらいたくてね。
+[name="Pretentious Man"]   Is that auspicious poet coming today? I've a few works I wrote in private, and I'd hoped he could do the honor of appraising them.
+[name="고상한척하는 사내"]   오늘 대시인께서 오시려나? 개인적으로 몇 개 써온 작품이 있어서 감상을 부탁드리고 싶은데……
 
 [name="微醺的商人"]  算了吧，你忘了汤姆森当着伯爵的面，撕掉过多少个所谓“思想家”的手稿吗？
+[name="ほろ酔いな商人"]  やめておきなさい。トムソン氏が伯爵の前で、いわゆる「思想家」の原稿をどれだけ引き裂いてきたかお忘れですかな？
+[name="Tipsy Businessman"]  Perish the thought! Have you forgotten just how many manuscripts from 'thinkers' Thomson's torn up in front of the Count?
+[name="약간 취한 상인"]  안 그러는 게 좋을 겁니다. 톰슨 씨가 백작님 앞에서 소위 '사상가'들의 원고를 얼마나 찢으셨는지 잊으신 겁니까?
 
 [name="欢快的女贵族"]  哦，我记得。汤姆森可真是毫不留情。他还说过，“思想的碰擦就该是毫不留情的”。真是个可怕的人。
+[name="明るい女性貴族"]  わたくし覚えておりますわ。トムソンさんは本当に容赦ありませんものね。「思想の衝突に情けは無用」ともおっしゃってましたわ。激しいお方ですこと。
+[name="Merry Noblewoman"]  Oh, I remember. Thomson's ruthless. He even said himself, 'The clash of ideas ought to be a ruthless thing.' Truly frightening, he is.
+[name="유쾌한 귀족 부인"]  앗, 그런 일이 있었죠. 톰슨 씨는 정말 매정한 분이에요, “사상 충돌에 자비는 없다”라고 하셨잖아요.
 
 [name="微醺的商人"]  锋芒毕露，也不全是好事。
+[name="ほろ酔いな商人"]  才能をひけらかしてばかりいるのも考えものだな。
+[name="Tipsy Businessman"]  It's not a be-all nor end-all to show off.
+[name="약간 취한 상인"]  자아도취는 볼썽사나울 뿐이죠.
 
 [name="欢快的女贵族"]  哎呀，但那样的年轻男人才有魅力，不是吗？意气风发，风流倜傥。
+[name="明るい女性貴族"]  あら、そのような若い男性こそ魅力的じゃありませんこと？　意欲に満ちあふれて、格好が好いですわ。
+[name="Merry Noblewoman"]  My, my, but the charm's all in young men like that, isn't it? Mettle to test, romantic and free.
+[name="유쾌한 귀족 부인"]  어머, 그래도 그런 점이 또 매력적이지 않나요? 카리스마 넘치는 모습 하며……
 
 [name="附庸风雅的男人"]  我当然承认自己曾经很仰慕那样的汤姆森。不过在伯爵阁下面前，汤姆森还是甩不掉他那一身刻意而为的傲慢。
+[name="風流人ぶる男"]  もちろん、かつては私もトムソン氏を尊敬していたと認めるよ。しかし彼は、伯爵の前でもその傲慢さを隠そうとしない。
+[name="Pretentious Man"]  Of course I admit, I once admired Thomson for those qualities. But in front of the Count, Thomson still can't shake off his own deliberate arrogance.
+[name="고상한척하는 사내"]  한때 톰슨 씨의 그런 점을 동경했다는 건 인정합니다만, 백작님 앞에서 일부러 고개를 빳빳이 쳐드는 그 오만함은 좀……
 
 [name="微醺的商人"]  刻意而为？汤姆森吗？
+[name="ほろ酔いな商人"]  傲慢だと？　トムソン氏が？
+[name="Tipsy Businessman"]  Deliberate? Thomson?
+[name="약간 취한 상인"]  톰슨 씨가 일부러 그랬다는 겁니까?
 
 [name="附庸风雅的男人"]  那当然，那可是我们敬爱的伯爵。不光是爵位和身份，这些年来，伯爵把他的土地治理得井井有条，我们有目共睹。
+[name="風流人ぶる男"]  ええ。敬愛する伯爵の前では、我々は傲慢であってはならない。爵位や地位に関わらず……ここ数年、伯爵はこの土地をしっかりと治めてきた。これは誰の目にも明らかなことだ。
+[name="Pretentious Man"]  Isn't it obvious? He regards our esteemed Count, after all. Forget just nobility and status; in these last years, the Count's governed his land with perfect order. It's plain for all of us to see.
+[name="고상한척하는 사내"]  맞습니다. 저희가 존경해 마지않는 백작님 앞에서 말입니다. 작위나 신분을 떠나서, 백작님께서 그동안 영지를 얼마나 잘 다스려왔는지 모두 잘 알고 계시잖아요.
 
 [name="微醺的商人"]  哦，虽然多伦郡并非伯爵阁下的领土，其实大家是一起治理的呐，不过伯爵阁下这份领头人的名号，倒的确实至名归，我得敬他！
+[name="ほろ酔いな商人"]  ふむ、トロン郡は伯爵の領地ではなく、皆で共に治めてきた土地ではあるが……伯爵のリーダーとしての資質は確かに本物だ。私は彼を尊敬している！
+[name="Tipsy Businessman"]  Hoh! Toron's not his land in name, mind, it's for all of us to manage, but I'll admit the Count deserves his reputation for leading! I do have to respect the man!
+[name="약간 취한 상인"]  토룬은 백작님의 영지는 아니지만, 사실 모두 다 같이 다스리고는 있지만, 이 모든 게 다 백작님이 솔선수범하신 덕분이 아니겠습니까? 정말이지 존경스럽습니다!
 
 [name="附庸风雅的男人"]  不仅如此，伯爵还数次受邀前往伦蒂尼姆，参加那里的盛会。这难道不值得我们这样的小地方——容我承认我们的边境处境——感到自豪吗？
+[name="風流人ぶる男"]  それだけでなく、伯爵は何度もロンディニウムからお招きを受けている。我々のような小さな土地の者からすれば――おっと不躾な表現だがお許しを――これは誇らしいことではないか？
+[name="Pretentious Man"]  And lest we forget, he's had multiple invitations to the gatherings at Londinium. Don't you think our little place—allow me to admit our border situation—deserves some sense of pride?
+[name="고상한척하는 사내"]  그뿐만 아니라 백작님께선 런디니움 쪽으로부터 초대를 여러 번 받으셨답니다. 이런 말 하면 좀 그렇지만…… 변경에 있는 이런 촌 동네에 그런 일이 어디 흔하던가요?
 
 [name="微醺的商人"]  嗨，贵族。
+[name="ほろ酔いな商人"]  おっしゃる通り！
+[name="Tipsy Businessman"]  Hah, nobles.
+[name="약간 취한 상인"]  호오, 역시 귀족다운 발상이로군요.
 
 [name="欢快的女贵族"]  哎呀，别把话题变得这么刻板正经。我们都是维多利亚的子民，不是吗？
+[name="明るい女性貴族"]  あらいやですわ、そんなお堅い話はおよしになって。わたくしたちは皆、ヴィクトリアの民ですのよ、違いますこと？
+[name="Merry Noblewoman"]  My, let's not make the topic so stiff. We're all people of Victoria, aren't we?
+[name="유쾌한 귀족 부인"]  어머머, 이야기가 너무 진지해지는 거 아닌가 모르겠네요? 우리 모두 빅토리아의 자손들 아닌가요?
 
 [name="附庸风雅的男人"]  唉！子民！自从那场匪夷所思的绞刑之后，我们也不知道自己是谁的子民咯！
+[name="風流人ぶる男"]  あぁ！　民だなどと！　あの常軌を逸した絞首刑以来、我々は一体自分たちがどこの民なのかわからなくなってしまったというのに！
+[name="Pretentious Man"]  Ha! People! Ever since that outrageous hanging, we can barely claim to know whose people we are!
+[name="고상한척하는 사내"]  허, 자손이요? 말도 안 되는 교수형을 치른 뒤로는 우리가 누구의 자손인지 모르겠습니다!
 
 [name="微醺的商人"]  快别这么说。陛下的离去让所有人都感到遗憾，但你瞧，我们今天不还是能在这里举杯畅饮吗？
+[name="ほろ酔いな商人"]  まあそうおっしゃらず。陛下が去ったことは皆残念に思っている。だがご覧なさい、我々は今日もこうして心ゆくまで酒を飲めているではないか。
+[name="Tipsy Businessman"]  Simmer down. We all regret Our Majesty's departure, but we can still drink a few toasts here today, you see?
+[name="약간 취한 상인"]  그런 말씀 마십시오. 폐하께서 떠난 것은 우리 모두 안타깝게 여기고 있지만, 이제는 여기서 즐겁게 술잔을 기울이고 있지 않습니까?
 
 [name="欢快的女贵族"]  就是说，今天是个快乐的日子，别提这么可怕的事情啦——快看，伯爵来了。
+[name="明るい女性貴族"]  そうですわ、今日は楽しい日でしょう？　そんな恐ろしい話はなしにしませんこと？　――ほら、伯爵がいらっしゃいましたわ。
+[name="Merry Noblewoman"]  In other words, today's a happy day. Don't bring up anything so frightful—look, here comes the Count.
+[name="유쾌한 귀족 부인"]  제 말이요, 오늘처럼 즐거운 날에 그런 끔찍한 이야기는 그만 하세요. 어머, 백작님이 오셨네요.
 
 [name="文森特伯爵"]  我听见你们的话题了，很有趣，理查德，我很想拜见一番您的文章。
+[name="ヴィンセント伯爵"]  失礼。皆さんのお話を聴かせていただきました。非常に興味深く思います。リチャードさん、あなたの文章をぜひ拝見したいものですな。
+[name="Count Vincent"]  I overheard your conversation. Very intriguing, Richard. I'd much like to take a look at your writings.
+[name="빈센트 백작"]  여러분의 이야기를 들었습니다. 무척 흥미롭더군요. 리차드 씨의 작품을 감상할 기회가 있으면 좋겠군요.
 
 [name="附庸风雅的男人"]  哪里的话，伯爵阁下，我这点功夫和您比起来，那可是小巫见大巫啦。
+[name="風流人ぶる男"]  とんでもございません、伯爵、私ごときの文章などあなたのものに比べれば、はるかに見劣りするものでございます。
+[name="Pretentious Man"]  Oh, poppycock. Good Count, in comparison to you, my little effort pales like a man under a skyscraper.
+[name="고상한척하는 사내"]  가당치도 않습니다. 백작님의 실력에 비하면 애들 장난 수준이죠……
 
 [name="欢快的女贵族"]  对呀文森特，你快把你那趟伦蒂尼姆之行，说给各位听听呀。您见着了谁？是哪一位传说中的大公爵吗？
+[name="明るい女性貴族"]  そうですわ！　ヴィンセント様、ロンディニウムへ行かれたお話、早くお聴かせ願いたいですわ。どなたかにお会いになりました？　噂の大公爵とか？
+[name="Merry Noblewoman"]  That's right, Vincent, hurry and tell us of your trip to Londinium, let us all hear it. Who did you meet? Any Grand Dukes of living legend?
+[name="유쾌한 귀족 부인"]  맞다, 백작님, 런디니움에 다녀온 이야기를 들려주지 않으시겠어요? 어떤 분들을 만나셨나요? 전설의 대공작님도 뵈셨나요?
 
 [name="文森特伯爵"]  别着急，别着急各位，晚会才刚刚开始，别忘了，今天是庆祝节日的日子。
+[name="ヴィンセント伯爵"]  皆さん、そう慌てずに。パーティーはまだ始まったばかりですよ。今日は祭日を祝う日だということをお忘れなく。
+[name="Count Vincent"]  In due time, everyone, in due time. The night has just begun. Don't forget, today is a day of festival celebration.
+[name="빈센트 백작"]  자자, 모두 진정하세요. 파티는 이제 시작입니다. 잊지 않으셨죠? 오늘은 축배를 들어야 하는 날입니다.
 
 [name="文森特伯爵"]  容我向各位介绍，我们两位特别的小客人。
+[name="ヴィンセント伯爵"]  ところで、皆さんにご紹介したい二名の特別ゲストがいます。
+[name="Count Vincent"]  Allow me to introduce to you all two special guests of ours.
+[name="빈센트 백작"]  여러분께 소개해드리고 싶은 두 명의 특별 손님이 있습니다.
 
 [name="文森特伯爵"]  凯尔希修士，请。
+[name="ヴィンセント伯爵"]  ケルシー修道士、どうぞ。
+[name="Count Vincent"]  Cleric Kal'tsit, do come.
+[name="빈센트 백작"]  켈시 수도사님, 이쪽으로 오시죠.
 
 [name="凯尔希"]  晚上好，各位尊贵的客人，请允许我向各位报以最诚挚的问候。
+[name="ケルシー"]  ごきげんよう、皆様方。心よりごあいさつを申し上げます。
+[name="Kal'tsit"]  Good evening, honorable guests. Allow me to give my most sincere respects to you all.
+[name="켈시"]  안녕하세요, 여러분. 이렇게 뵙게 되어서 진심으로 반갑습니다.
 
 [name="欢快的女贵族"]  什么！您这副面容......居然是位淑女吗，真是太可惜了......
+[name="明るい女性貴族"]  まぁ！　なんて整ったお顔立ち……淑女でいらっしゃいますの？　非常に残念ですわ……
+[name="Merry Noblewoman"]  What, now! By your appearance... my, you're a lady? Oh, what a mighty shame...
+[name="유쾌한 귀족 부인"]  어머! 이렇게 멋진 분이…… 숙녀였나요? 호호, 아쉽네요……
 
 [name="微醺的商人"]  我看这没什么可惜的吧。凯尔希修士，晚上好。
+[name="ほろ酔いな商人"]  残念なことなどあるまい。ごきげんよう、ケルシー修道士。
+[name="Tipsy Businessman"]  I think it's not much of a shame at all. Cleric Kal'tsit, good evening.
+[name="약간 취한 상인"]  아쉬울 것 하나 없는데요? 반갑습니다, 켈시 수도사님.
 
 [name="附庸风雅的男人"]  哦，哦，凯尔希修士，我似乎听伯爵说起过您，听说您帮过伯爵夫人一把，因此受到了伯爵阁下的赏识？
+[name="風流人ぶる男"]  これはこれは、ケルシー修道士！　伯爵から懇意になさっているという噂はかねがね伺っております。なんでも、伯爵夫人の病を治して差し上げたとか。
+[name="Pretentious Man"]  Oh—oh—Cleric Kal'tsit, I believe I remember the Count speaking of you. I hear you treated his wife, and so garnered his good favor?
+[name="고상한척하는 사내"]  아, 켈시 수도사님! 백작님께서 이야기하시는 걸 들은 적 있는 것 같습니다. 백작 부인을 도와주신 일을 계기로, 백작님께서 아끼시는 분이라고 들었습니다만?
 
 [name="凯尔希"]  对于伯爵夫人而言，那可不是一件轻松的事情。
+[name="ケルシー"]  はい。伯爵夫人にとって、あれは大変な出来事だったでしょう。
+[name="Kal'tsit"]  With regards to the Count's wife, that was no light affair.
+[name="켈시"]  백작 부인께는 꽤 힘든 일이었죠.
 
 [name="欢快的女贵族"]  快和我们说说您来自何处吧，萨科塔以外的拉特兰修士可不常见，哎呀，何况您这么......有魅力。
+[name="明るい女性貴族"]  あなたはどちらのご出身？　サンクタではないラテラーノの修道士なんて珍しいですわ。それにしてもあなたのお姿……なんて魅力的なんでしょう。
+[name="Merry Noblewoman"]  Do tell us about where you're from. Laterano clerics who aren't Sankta are so rare. My, let alone ones so... charming as you.
+[name="유쾌한 귀족 부인"]  어디 출신이신가요? 산크타 이외의 라테라노 수도사는 좀처럼 보지 못했는데. 그건 그렇고…… 어쩜 이렇게 매력적이세요?
 
 [name="微醺的商人"]  美丽的小姐，您来自哪里？又要去何方？
+[name="ほろ酔いな商人"]  美しいレディ、どこからいらっしゃったのかな？　そしてどちらへ行かれるのかな？
+[name="Tipsy Businessman"]  Beautiful miss, where do you come from? And where will you go?
+[name="약간 취한 상인"]  아름다운 숙녀분, 어디서 오셨습니까? 어디로 가시려는 겁니까?
 
 [name="欢快的女贵族"]  我不是正在问嘛，你别插嘴。
+[name="明るい女性貴族"]  あら、わたくしが先に聞いていますのよ？　横から割り込まないでくださるかしら。
+[name="Merry Noblewoman"]  Aren't I the one asking? Don't you interrupt.
+[name="유쾌한 귀족 부인"]  어머, 제가 먼저 물었잖아요? 끼어들지 말아주시겠어요?
 
 [name="附庸风雅的男人"]  听伯爵说，您是一位栋梁之才，不知道您关于哲学或是艺术，是否有独到的见解？
+[name="風流人ぶる男"]  伯爵からあなたは素晴らしい才能の持ち主だと伺いました。ひょっとして哲学や芸術に関しても、独自の見解をお持ちでしょうか。
+[name="Pretentious Man"]  The Count gives word that you're a pillar of talent. Do you have any inclination for philosophy or the arts? Any unique insights, perhaps?
+[name="고상한척하는 사내"]  백작님 말씀으로는 뛰어난 인재라고 하던데, 철학이나 예술에 대해 어떤 견해를 갖고 계신지 궁금하군요.
 
 [name="凯尔希"]  不敢当，只是巧合下帮助了伯爵夫人，得到了伯爵阁下的赏识罢了。
+[name="ケルシー"]  滅相もありません。ただ偶然伯爵夫人をお助けすることができて、伯爵殿に気に入られたというだけです。
+[name="Kal'tsit"]  You flatter me. It was only chance I aided the Count's wife. I have the distinction of his recognition, that's all.
+[name="켈시"]  과찬이십니다, 우연히 백작 부인을 돕다가 백작님의 눈에 든 것뿐인걸요.
 
 [name="附庸风雅的男人"]  哦，如果您和伯爵熟络，想必您也认识汤姆森阁下吧？
+[name="風流人ぶる男"]  ほう、伯爵と懇意なのであれば、きっとトムソン殿のこともご存じでしょう？
+[name="Pretentious Man"]  Oh—if you're familiar with the Count, surely you know Sir Thomson too, then?
+[name="고상한척하는 사내"]  호오, 백작님과 잘 아는 사이라면 톰슨 씨도 잘 아시겠군요?
 
 [name="凯尔希"]  当然，汤姆森阁下是多伦郡难得的文人，我常听伯爵阁下谈起他。
+[name="ケルシー"]  もちろんですとも。トムソン殿は、トロン郡でも有数の文化人です。伯爵が彼の話をされているのをよく耳にします。
+[name="Kal'tsit"]  Of course. Sir Thomson is a rarity of a scholar in Toron. I often hear the Count talk of him.
+[name="켈시"]  그럼요, 톰슨 씨는 토룬에서도 유명한 문학가이시죠. 백작님을 통해 종종 이야기를 들은 적 있습니다.
 
 [name="附庸风雅的男人"]  那再好不过了。佣人！请把我带来的那瓶红酒拿来，我想和伯爵还有这位修士好好聊上一聊！
+[name="風流人ぶる男"]  それは素晴らしい。おい君！　私が持ってきた赤ワインを用意してくれ。伯爵とこちらの修道士に振舞って、共に語らいたい！
+[name="Pretentious Man"]  Then things couldn't align better. Servant! Please fetch the wine I brought. I wish to have a proper causerie with the Count and the Cleric!
+[name="고상한척하는 사내"]  그거 정말 기쁜 소식이네요. 이봐, 내가 가져온 와인을 내오거라. 백작님, 그리고 여기 계신 수도사님과 긴히 할 이야기가 있으니!
 
 [name="欢快的女贵族"]  你这自大狂可别想霸占我们的晚宴，我们就不能一起聊点有趣的事情吗？比如伦蒂尼姆的那场时装秀......
+[name="明るい女性貴族"]  ねぇ、わたくしたちのパーティーを独占しないでくださるかしら。それよりもっと楽しい話をしませんこと？　例えばロンディニウムで行われるファッションショーについてとか……
+[name="Merry Noblewoman"]  Don't you dominate our soirée, you egomaniac. Can't we all just chat about something fun? For example, that fashion walk at Londinium...
+[name="유쾌한 귀족 부인"]  파티를 독점하려는 건 아니겠죠? 그것보다 더 재미있는 얘기를 하지 않을래요? 이를테면 런디니움의 패션쇼 같은……
 
 [name="微醺的商人"]  我都可以，各位大人，只要让我在这歇会脚就好啦。就当让我长长见识。
+[name="ほろ酔いな商人"]  私は何でも構わんよ。ここで足を休められればね。ついでに見聞を広めさせてもらうとしよう。
+[name="Tipsy Businessman"]  Fine by me. Everyone, just let me rest my legs for a while here. I'll be soaking in the knowledge.
+[name="약간 취한 상인"]  저는 뭐든 좋습니다, 여러분. 여기서 쉬게만 해준다면야. 덤으로 견문도 넓힐 수 있고요.
 
 [name="欢快的女贵族"]  你呀，就是太懒了，不然你的产业肯定比现在翻上一番。
+[name="明るい女性貴族"]  まったく、怠け者にも程がありますわよ。真面目にやればあなたの事業はもっと成長するでしょうに。
+[name="Merry Noblewoman"]  Now, aren't you a lazy one. Your estate would be doubled by now if not for that!
+[name="유쾌한 귀족 부인"]  너무 게으르신 거 아닌가요? 그렇지 않았으면 사업 규모가 지금보다 2배는 더 커졌을 텐데요.
 
 [name="微醺的商人"]  三座酒庄，还不够大吗？
+[name="ほろ酔いな商人"]  やれやれ、三つのワイナリーだけでは、まだ不足だというのかね？
+[name="Tipsy Businessman"]  Three wineries still isn't enough?
+[name="약간 취한 상인"]  맙소사, 와이너리 세 채로는 부족하다는 건가요?
 
 [name="微醺的商人"]  哦，对了，您说过，还有一位客人，不知道是——
+[name="ほろ酔いな商人"]  おっと、そうだ！　たしか、もう一人ゲストがいるとおっしゃっていましたね――
+[name="Tipsy Businessman"]  Oh, right, you mentioned you had another guest. I don't know if—
+[name="약간 취한 상인"]  참, 손님이 두 분 계시다고 했는데, 여기 계신 분은……
 
 [name="海蒂"]  晚上好呀，各位叔叔阿姨。
+[name="ハイディ"]  ごきげんよう、おじさまおばさま方。
+[name="Heidi"]  Good evening, Misters and Misses.
+[name="하이디"]  안녕하세요! 모두 잘 지내셨나요?
 
 [name="微醺的商人"]  海蒂！你怎么来了！
+[name="ほろ酔いな商人"]  ハイディじゃないか！　どうしてここに？
+[name="Tipsy Businessman"]  Heidi! What are you doing here!
+[name="약간 취한 상인"]  하이디?! 네가 여긴 어쩐 일이니?
 
 [name="附庸风雅的男人"]  小海蒂，你今天穿得可漂亮......这个混账汤姆森呀，只有在孩子这方面，我怕是这辈子都比不上他咯。
+[name="風流人ぶる男"]  おお！　ハイディ、見違えたな……トムソンの奴め、子育てに関してだけは、一生彼には及ばないかもしれん。
+[name="Pretentious Man"]  Little Heidi, you're very prettily dressed today... that bastard Thomson. I fear for all my life, it's children alone where I'll never compare to him.
+[name="고상한척하는 사내"]  꼬맹이 하이디가 오늘 근사하게 차려입었군그래…… 다른 건 몰라도, 톰슨이 자식 하나는 잘 키웠구먼.
 
 [name="文森特伯爵"]  喂，海蒂可还没到喝酒的年龄，你们可别顺手就把酒杯给她了，佣人，为她倒一杯奶油苏打吧。
+[name="ヴィンセント伯爵"]  皆さん、ハイディはまだお酒を飲んでいい年齢ではないので、彼女にはお酒を渡さないようにお願いしますよ。誰か、クリームソーダを。
+[name="Count Vincent"]  Now, now. Heidi isn't even of drinking age. None of you hand her a wine glass. Servants, if you could pour her a cream soda.
+[name="빈센트 백작"]  하이디는 아직 미성년자니, 술잔은 멀리 치워주시죠. 이봐, 하이디에게 크림소다 한 잔 가져다주겠나.
 
 [name="海蒂"]  别老把我当小孩子，文森特叔叔。
+[name="ハイディ"]  もう、子供扱いはやめてよね、ヴィンセントおじさま。
+[name="Heidi"]  Don't always treat me like a child, Uncle Vincent.
+[name="하이디"]  어린애 취급하지 마, 빈센트 아저씨.
 
 [name="文森特伯爵"]  但你确实不能喝酒。你父亲还特地叮嘱过我，毕竟你正在这个年龄呢......
+[name="ヴィンセント伯爵"]  そういうわけには行かん。君のお父さんから釘を刺されてるんだ、まだ未成年なのだから……
+[name="Count Vincent"]  But drinking laws are drinking laws. Your father specifically warned me. After all, you're at that age...
+[name="빈센트 백작"]  하지만 넌 술을 마실 줄 모르지 않니? 네 아버지가 특별히 당부했단다. 네 나이에는 말이지……
 
 [name="海蒂"]  呜呶......
+[name="ハイディ"]  はあぁ……
+[name="Heidi"]  (Pout...)
+[name="하이디"]  하아아……
 
 [name="文森特伯爵"]  好吧，好吧，那劳烦把奶油苏打换成姜汁啤酒吧。
+[name="ヴィンセント伯爵"]  わかったわかった。ならクリームソーダじゃなくジンジャービールに交換してもらおう。
+[name="Count Vincent"]  Alright, alright. Strike the cream soda and replace it with ginger ale.
+[name="빈센트 백작"]  알았다, 알았어! 소다 대신 진저비어를 가져다주마.
 
 [name="海蒂"]  不需要这么照顾我啦！
+[name="ハイディ"]  そうやって気を遣われるのが嫌なの！
+[name="Heidi"]  I don't need you to coddle me like this!
+[name="하이디"]  그렇게까지 해줄 거 없거든!
 
 [name="微醺的商人"]  哈哈，小海蒂急着长大呢。
+[name="ほろ酔いな商人"]  ハハッ、ハイディは早く大人になりたいんだな。
+[name="Tipsy Businessman"]  Ha ha, little Heidi's eager to grow up.
+[name="약간 취한 상인"]  하하! 꼬마 하이디가 빨리 크고 싶구나.
 
 [name="欢快的女贵族"]  可没有父亲辈的想看着女儿这么快长大呀，我当年不也是吗，只是想买些珠宝，就被父亲大声训斥。
+[name="明るい女性貴族"]  けれども、娘にさっさと成長してほしいと思う父親はいませんわ。わたくしもこれくらいの歳に、ジュエリーを買いたいと言ったら、お父様に大声で叱られましたもの。
+[name="Merry Noblewoman"]  It's sad. No father wants to see his daughter grow up this quickly. I was like that at her age too. Only wanted to buy some jewelry, and my father gave me a tongue-lashing for it.
+[name="유쾌한 귀족 부인"]  딸이 빨리 어른이 되기를 바라는 아버지는 없을걸요. 나 때는 말이죠, 날마다 보석 살 생각만 하느라 아버지한테 혼나기만 했거든요.
 
 [name="海蒂"]  就算不让我喝酒，至少，让我参加宴会吧？我看......我就坐这儿吧！
+[name="ハイディ"]  お酒はダメでも、パーティーに参加するくらいはいいでしょ？　ええと……ケルシー修道士の隣に座っちゃお！
+[name="Heidi"]  Even if you won't let me drink, at least, can I join the dinner party? Let's see... I'll sit right here!
+[name="하이디"]  술은 못 마셔도, 파티에 참가하는 건 괜찮죠? 으음…… 저 여기 앉을래요!
 
 [name="凯尔希"]  这是我的荣幸，海蒂小姐，我帮您拿帽子。
+[name="ケルシー"]  それは大変光栄です。ハイディさん、帽子をお取りしましょう。
+[name="Kal'tsit"]  It would be my honor, Miss Heidi. Allow me to hold your hat for you.
+[name="켈시"]  영광입니다, 하이디 씨. 제가 모자를 들어드리죠.
 
 [name="海蒂"]  啊......不、不用，我戴着就好......
+[name="ハイディ"]  あっ……だ、大丈夫です。かぶったままで平気ですから……
+[name="Heidi"]  Ah... no—no need, I'll be fine with it on...
+[name="하이디"]  아…… 괘, 괜찮아요. 그냥 쓰고 있으면 돼요……
 
 [name="文森特伯爵"]  好了，海蒂，别忘了你今天本来就是偷偷溜过来的，一会你要老老实实上楼睡觉。
+[name="ヴィンセント伯爵"]  ハイディ、もともと今日はこっそり抜け出してきたのだから、あまりはしゃぎすぎてはだめだぞ。もう少ししたら、上に行って大人しく寝なさい。
+[name="Count Vincent"]  Good, then. Heidi, don't forget that you came here tonight in secret. In a while, you be good and sleep for the night upstairs.
+[name="빈센트 백작"]  하이디, 오늘 몰래 빠져나온 몸이란 걸 벌써 잊은 거니? 조금 있다가 그만 올라가서 자려무나.
 
 [name="海蒂"]  呜......
+[name="ハイディ"]  ううっ……
+[name="Heidi"]  Mnngh...
+[name="하이디"]  으윽……
 
 [name="附庸风雅的男人"]  您打扮得很像您的母亲，孩子。
+[name="風流人ぶる男"]  ハイディ、今日の格好はあなたのお母様にそっくりだね。
+[name="Pretentious Man"]  You dress very much like your mother, girl.
+[name="고상한척하는 사내"]  그렇게 입으니 네 어머니를 꼭 닮았구나, 얘야.
 
 [name="欢快的女贵族"]  但现在——
+[name="明るい女性貴族"]  そうね、彼女の子供の頃に――
+[name="Merry Noblewoman"]  But right now—
+[name="유쾌한 귀족 부인"]  하지만 지금은……
 
 [name="海蒂"]  呜......！！
+[name="ハイディ"]  もうっ……！！
+[name="Heidi"]  Mnnngh...!!
+[name="하이디"]  하아……!!
 
 [name="海蒂"]  ......凯尔希修士，您也觉得我还是个孩子吗？
+[name="ハイディ"]  ……ケルシー修道士、あなたも私がまだ子供だと思われますか？
+[name="Heidi"]  Cleric Kal'tsit, do you think I'm still a child too?
+[name="하이디"]  ……켈시 수도사님도 제가 어린애라고 생각하시나요?
 
 [name="凯尔希"]  对您而言，这又有什么关系呢。
+[name="ケルシー"]  それはあなたにとって、本当に重要なことですか？
+[name="Kal'tsit"]  To you, I see no reason why it should matter.
+[name="켈시"]  당신에겐 별로 상관없지 않나요?
 
 [name="凯尔希"]  我来为您倒酒吧，您的姜汁啤酒。
+[name="ケルシー"]  お注ぎしましょう、ジンジャービールです。
+[name="Kal'tsit"]  Let me pour your glass for you. Here's your ginger ale.
+[name="켈시"]  제가 한잔 따라드리죠, 진저비어로요.
 
 [name="海蒂"]  ————
+[name="ハイディ"]  ――――
+[name="Heidi"]  ————
+[name="하이디"]  ……
 
 [name="海蒂"]  谢、谢谢......
+[name="ハイディ"]  あ、ありがとうございます……
+[name="Heidi"]  Th... thank you...
+[name="하이디"]  고, 고마워요……
 
 [name="文森特伯爵"]  还满意吗？
+[name="ヴィンセント伯爵"]  気に入ってもらえたかな？
+[name="Count Vincent"]  Is it to your liking?
+[name="빈센트 백작"]  마음에 드니?
 
 [name="海蒂"]  ......其实也挺好喝的。
+[name="ハイディ"]  ……結構美味しいね。
+[name="Heidi"]  It's actually quite a nice drink.
+[name="하이디"]  ……꽤 맛있는데.
 
 [name="欢快的女贵族"]  哎呀，姜汁啤酒不是没有酒精的吗？怎么脸都红啦？
+[name="明るい女性貴族"]  あら、ジンジャービールはアルコールなんて入ってないわよね？　どうしてお顔が赤いのかしら？
+[name="Merry Noblewoman"]  Oh, my, there is no alcohol in ginger ale, is there? What's gotten your face red?
+[name="유쾌한 귀족 부인"]  어머? 진저비어면 알코올이 없을 텐데 왜 얼굴이 빨개진 거지?
 
 [name="文森特伯爵"]  这孩子怕生，也不是一天两天了。
+[name="ヴィンセント伯爵"]  この子は恥ずかしがり屋ですからね、いつものことですよ。
+[name="Count Vincent"]  The girl's wary of strangers. It's nothing new.
+[name="빈센트 백작"]  낯가림이 심한 게 어디 하루 이틀이던가요?
 
 [name="文森特伯爵"]  来吧，朋友们！既然人到齐了，就让我们正式开始吧！
+[name="ヴィンセント伯爵"]  さぁ！　それでは皆さんお揃いになりましたので、正式に始めるといたしましょう！
+[name="Count Vincent"]  Come, friends! Seeing as we're all present, let us officially begin!
+[name="빈센트 백작"]  자~ 모두들 오셨으니 파티를 정식으로 시작해 볼까요!
 
 [name="海蒂"]  ......
+[name="ハイディ"]  ……
+[name="Heidi"]  ......
+[name="하이디"]  ……
 
 [name="附庸风雅的男人"]  您说的太对了！莱塔尼亚的艺术造诣令人心向神往，但那些莱塔尼亚人太过恃才自傲，他们有什么瞧不起我们的资本！
+[name="風流人ぶる男"]  まったくその通り！　リターニアの芸術は大変素晴らしいですが、リターニア人はその才を鼻にかけています。彼らに私たちを見下す道理などありません！
+[name="Pretentious Man"]  You're most correct! The height of Leithania's arts capture all hearts alike, but those Leithaniens are far too pompous about themselves! What affords them to look down on us!
+[name="고상한척하는 사내"]  맞는 말씀입니다! 라이타니아의 예술이 뛰어나지만, 그것 하나 믿고 잘난 체하는 꼴이라니! 우리의 자본력에 비하면 아무것도 아니죠!
 
 [name="欢快的女贵族"]  莱塔尼亚，哦，莱塔尼亚的变故可太多啦......我从小听着巫王的故事长大，谁知道等我打算去那儿旅行，孪生女皇居然解决了那位巫王！
+[name="明るい女性貴族"]  リターニアは異変が多すぎますわ……わたくしは幼い頃から巫王の物語を聞いて育ちました。そしてリターニアへ旅行しようと思った矢先に、双子の女帝があの巫王を殺してしまったんですのよ！
+[name="Merry Noblewoman"]  Leithania, oh, Leithania. They've had too much misfortune... I haven't stopped hearing Witch King stories since I was a baby. Who knows if the Twin Empresses will have managed to sort out that king by the time I visit the place!
+[name="유쾌한 귀족 부인"]  라이타니아…… 거긴 사건 사고가 끊이질 않아요…… 전 위치킹에 관한 이야기를 들으면서 자랐어요. 그곳에 여행 갈 준비를 하려는데, 쌍둥이 여황제가 위치킹을 해치울 줄 누가 알았겠어요!
 
 [name="微醺的商人"]  哪有明知巫王恐怖还要去旅行的......
+[name="ほろ酔いな商人"]  巫王の恐ろしさを知りながら、旅行に行こうなどとは……
+[name="Tipsy Businessman"]  Who would visit knowing the terror of the Witch King...
+[name="약간 취한 상인"]  위치킹이 무서운 줄 알면서도 여행을 가다니……
 
 [name="凯尔希"]  与那些年少登基的帝王不同，巫王年近半百才成为皇帝，却持续对莱塔尼亚进行了漫长的统治。
+[name="ケルシー"]  若くして即位した君主たちと違い、巫王は齢五十近くになってからようやく皇帝となり、それでいてリターニアを長きにわたって統治しました。
+[name="Kal'tsit"]  Unlike the monarchs who ascended young, the Witch King became emperor at nearly fifty years of age, and then governed Leithania for many more.
+[name="켈시"]  어린 나이에 왕위에 오른 제왕과 달리, 위치킹은 50세 가까이 되어서야 황제가 되었고, 그럼에도 불구하고 오랫동안 라이타니아를 통치했습니다.
 
 [name="附庸风雅的男人"]  毫无疑问，巫王是这片大地上最强大的术师，他将自己变成了一个怪物！
+[name="風流人ぶる男"]  巫王がこの大地における最も強大な術師であったことは疑う余地がありません。彼は自らを怪物に変えてしまったんですよ！
+[name="Pretentious Man"]  Undoubtedly, the Witch King is the greatest Caster in all our lands. He turned himself into a freak of nature!
+[name="고상한척하는 사내"]  의심할 것도 없이 위치킹은 대륙에서 가장 강한 캐스터죠, 스스로 괴물이 된……
 
 [name="欢快的女贵族"]  就像那些可怕的故事里描写的一样，他的角都扭曲成诡异的形状，散发着奇异的能量......
+[name="明るい女性貴族"]  数々の恐ろしい物語に描かれていましたわ。彼の角は、不気味な形にねじ曲がり、奇妙なエネルギーを放っているんですってよ……
+[name="Merry Noblewoman"]  He's just like those horrible stories depicted him. His horns all bent into strange shapes, emitting this strange energy...
+[name="유쾌한 귀족 부인"]  그 끔찍한 이야기에 묘사된 것처럼, 뿔이 비틀려 있고, 기이한 힘을 내뿜고 있다더군요……
 
 [name="微醺的商人"]  喔，我可从没在报纸上见过巫王的模样，嗝，抱歉，这酒真不错。不过我倒是在报纸上见过孪生女皇的照片。一个金灿灿的，一个黑漆漆的。
+[name="ほろ酔いな商人"]  しかし写真ですら巫王の姿を見たことはないな。ゲフッ……失礼、いや、この酒は実に美味い――ああ、双子の女帝の写真なら新聞で見たぞ。一人は金ピカで、もう一人は黒ずくめだった。
+[name="Tipsy Businessman"]  Oh! I've never seen the Witch King shown in a newspaper before—*belch*—Sorry there, this wine's just too fine. But I have seen photos of the Twin Empresses, come to think of it. One gleaming gold, one dark as night.
+[name="약간 취한 상인"]  으음, 신문에서 위치킹의 모습을 한 번도 본 적이 없는 것 같은데…… 딸꾹, 미안합니다! 술맛이 참 좋네…… 대신 쌍둥이 여황의 사진은 본 적 있어요. 한 명은 금빛이 번쩍이고, 나머지 한 명은 시커멓더라고요.
 
 [name="海蒂"]  ............
+[name="ハイディ"]  ……
+[name="Heidi"]  ............
+[name="하이디"]  ……
 
 [name="凯尔希"]  莱塔尼亚风云变幻，想来巫王极少走下他的塔楼，他始终睥睨着莱塔尼亚，就连接见王臣，也不过是从塔顶投下的一道宏伟影子。
+[name="ケルシー"]  リターニアは情勢の変化が激しい国です。巫王が常に塔から国を俯瞰しており、そこから降りてくることはごく稀でした。王臣との接見ですら、塔の頂上から映された巨大な影で行いました。
+[name="Kal'tsit"]  Leithania is in flux. Presumably, the Witch King rarely leaves his tower. From start to finish, he's gazed dispassionately at Leithania, and even when he grants an audience, it's as he casts a grand shadow from atop his tower.
+[name="켈시"]  라이타니아는 한 치 앞도 예측할 수 없을 만큼 혼란한 곳이죠. 위치킹이 탑에서 내려오는 경우는 무척 드물어요. 언제나 라이타니아를 내려보죠. 왕이나 대신을 접견할 때도 탑 꼭대기에서 그림자만 슬쩍 비출 뿐이고요.
 
 [name="凯尔希"]  然而他生平最后一次接触地面，却是面目全非，被孪生女皇各自割去了双角的惨状，真是令人唏嘘。
+[name="ケルシー"]  しかし双子の女帝に角を折られ、最後に大地に降り立った時、彼の姿は惨めに変わり果て、見る影もない有り様でした。まったく嘆かわしいことです。
+[name="Kal'tsit"]  Yet the last time he touched the ground, he was morphed beyond recognition. His wretchedness, his two horns cut off by the Twin Empresses apiece, drew true sighs of lament.
+[name="켈시"]  그런 그가 생애 마지막으로 지면을 밟았을 때는 비참한 최후가 되었죠. 쌍둥이 여황에게 양 뿔을 잘린 모습은 탄식이 나올 만큼 참담했습니다.
 
 [name="附庸风雅的男人"]  我们尚不清楚那场政变的全部面貌，但据我所知，即使是让我们最引以为豪的游侠，也无法企及巫王实力。
+[name="風流人ぶる男"]  あのクーデターの全容はわかりませんが、私の知る限り、我が国の最も誇り高き英雄ですら、巫王の実力には及ばなかったはずです。
+[name="Pretentious Man"]  The full picture of that coup d'etat is still unclear to us, but to my knowledge, even our most heroically adored Wanderer would never match the Witch King's true strength.
+[name="고상한척하는 사내"]  어떤 일이 있었던 건지 다 알 순 없지만 제가 알기론, 저희가 자랑스럽게 생각하는 영웅께서도 위치킹의 실력에는 미치지 못했다 하더군요.
 
 [name="凯尔希"]  这也是为什么当女皇之声在骑士们的簇拥下抵达维多利亚时，吵作一团的各大公爵依旧愿意暂停争执，以礼相待的原因。
+[name="ケルシー"]  それこそが「女帝の声」が護衛の騎士を引き連れてヴィクトリアを訪れた際に、それまで騒いでいた公爵たちが言い争いを中断し、手厚くもてなした原因なのです。
+[name="Kal'tsit"]  This being why when the Empresses' Voice arrived at Victoria escorted by the knights, the Grand Dukes were all still willing to suspend their quarrels, and treat each other with respect.
+[name="켈시"]  '여황의 목소리'가 기사들의 호위 속에 빅토리아에 도착했을 때, 정신없이 싸우던 여러 공작들이 싸움을 잠시 멈춘 채 예우한 이유도 여기 있답니다.
 
 [name="附庸风雅的男人"]  什么？听上去，您还去过伦蒂尼姆？
+[name="風流人ぶる男"]  何ですと？　お聞きした限りではロンディニウムにも行かれたことがあるようですが？
+[name="Pretentious Man"]  Pardon? It sounds as though—you've been to Londinium before?
+[name="고상한척하는 사내"]  으음, 런디니움에도 가본 적 있으신가 봅니다?
 
 [name="凯尔希"]  我从那里而来，正是在当地一位萨科塔的开导下，我才成为了修士。
+[name="ケルシー"]  ええ。私はロンディニウムからやってきました。あの地のサンクタから教えを受け、修道士になったのです。
+[name="Kal'tsit"]  I arrived from there. It was a local Sankta's enlightening me that led me on this path.
+[name="켈시"]  저는 그곳에서 왔습니다. 그곳의 산크타로부터 가르침을 받아 수도사가 됐던 거죠.
 
 [name="文森特伯爵"]  哈哈，凯尔希，我就说过，我这都是一帮很好的朋友，您看，您多受欢迎。
+[name="ヴィンセント伯爵"]  ははっ、言ったでしょう、ケルシー修道士。ここにいる素晴らしい友人の皆さんは、あなたを気に入ったようですよ。
+[name="Count Vincent"]  Ha-ha, Kal'tsit, didn't I say? These are all wonderful friends of mine. See just how popular you are.
+[name="빈센트 백작"]  하하! 켈시 수도사님, 말씀드렸다시피 모두 제 소중한 친구들이랍니다. 모두 켈시 수도사님에게 관심이 많나 보군요.
 
 [name="微醺的商人"]  其实我有个年龄和您差不多的女儿，整天只知道挥霍我辛苦赚来的金币......要是能学学您多好哟。
+[name="ほろ酔いな商人"]  もちろん。実は私にはあなたと同じ年頃の娘がいるんでね。しかし私が苦労して稼いできた金貨を湯水のように使うことしか知らなくて……あなたの爪の垢を煎じて飲ませたいくらいだよ。
+[name="Tipsy Businessman"]  Truth is, I have a girl about the same age as you. She only knows how to splash my hard-earned money away all the damned day... How nice it'd be if she could learn from you.
+[name="약간 취한 상인"]  사실 저한테는 당신과 비슷한 또래의 딸이 있는데, 힘들게 번 돈을 쓸 궁리만 하는 통에…… 당신의 반만 닮아도 소원이 없겠군요.
 
 [name="欢快的女贵族"]  今晚能认识您，真让人开心，请问您还是单身吗，小凯尔希？
+[name="明るい女性貴族"]  今宵はあなたと知り合えて、とてもうれしかったですわ。あなたはまだ独り身でらっしゃいますこと、ケルシーさん？
+[name="Merry Noblewoman"]  Getting to know you tonight has been a truly wonderful time. Can I ask if you're still single, dear Kal'tsit?
+[name="유쾌한 귀족 부인"]  오늘 이렇게 알게 돼서 정말 반가워요. 그나저나 혹시, 아직 싱글이신가요?
 
 [name="海蒂"]  凯尔希修士！
+[name="ハイディ"]  ケルシー修道士！
+[name="Heidi"]  Cleric Kal'tsit!
+[name="하이디"]  수도사님!
 
 [name="文森特伯爵"]  唔，海蒂，不要随便插嘴，你该回楼上睡觉去了。
+[name="ヴィンセント伯爵"]  これ、ハイディ！　勝手に口を挟むんじゃない。そろそろ上へ行って寝る時間だぞ。
+[name="Count Vincent"]  Oh, Heidi, don't cut in so randomly. You should be heading upstairs to turn in about now.
+[name="빈센트 백작"]  크흠! 하이디, 네가 함부로 끼어들 자리가 아니다. 올라가서 그만 자도록 하렴.
 
 [name="凯尔希"]  让她说吧，伯爵阁下，在这个时代，孩子总比我们想象的成熟很多。
+[name="ケルシー"]  まぁまぁ伯爵。伺ってみませんか？　こんな時代です、子供は我々が想像しているよりもはるかに大人ですよ。
+[name="Kal'tsit"]  Allow her to speak, Count. In this day and age, children are always much more mature than we imagine.
+[name="켈시"]  무슨 이야기인지 들어볼까요, 백작님? 요새 아이들은 저희가 생각하는 것보다 훨씬 어른스럽답니다.
 
 [name="文森特伯爵"]  唔。
+[name="ヴィンセント伯爵"]  うーむ……そこまでおっしゃるなら仕方ありませんね。
+[name="Count Vincent"]  Hm.
+[name="빈센트 백작"]  흠.
 
 [name="海蒂"]  ......凯尔希修士......您、请问您去过乌萨斯吗？
+[name="ハイディ"]  あの……ケルシー修道士、ウルサスに行かれたことはありますか？
+[name="Heidi"]  Cleric Kal'tsit... have—can I ask if you've been to Ursus before?
+[name="하이디"]  ……켈시 수도사님…… 혹시, 우르수스에 가보신 적 있나요?
 
 [name="附庸风雅的男人"]  哦，那个满是叛乱与暴力的国度。
+[name="風流人ぶる男"]  ほう、あの反乱と暴力に満ちた国ですな。
+[name="Pretentious Man"]  Oh, that nation rife with rebellion and violence.
+[name="고상한척하는 사내"]  아, 역모와 폭력으로 점철된 땅 말이로군요.
 
 [name="凯尔希"]  我在游学期间，曾在圣骏堡待过一段时日，您对乌萨斯感到好奇吗？
+[name="ケルシー"]  遊学していた頃、サンクト・グリファーブルクでしばらく過ごした経験があります。ハイディさんはウルサスに興味がおありですか？
+[name="Kal'tsit"]  When I was studying abroad, I spent some time at Deity Grypherburg. Are you interested in Ursus?
+[name="켈시"]  유학 중에 디에티 그라이퍼부르크에서 잠시 있었죠. 우르수스에 관심이 있나요?
 
 [name="海蒂"]  是的！
+[name="ハイディ"]  はい、そうなんです！
+[name="Heidi"]  Yes!
+[name="하이디"]  네!
 
 [name="海蒂"]  爸爸曾经给我看过几本书，是一位乌萨斯作者写的......
+[name="ハイディ"]  パパが昔、読ませてくれた本がありまして、それがウルサスの作者によって書かれたものだったんです……
+[name="Heidi"]  Papa once gave me a few books to read, by an Ursus author...
+[name="하이디"]  아빠가 책을 몇 권 보여주셨는데, 우르수스의 작가가 쓴 책이 있었어요……
 
 [name="附庸风雅的男人"]  乌萨斯只有两种艺术，哗众取宠的玩闹，或是真正的永恒的伟大。
+[name="風流人ぶる男"]  ウルサスには芸術は二種類だけ存在します。単に話題集めのおふざけか、真に永遠なる偉大な作品のみ。
+[name="Pretentious Man"]  Ursus only ever produces two kinds of arts: raucous sensationalism, or true eternal greats.
+[name="고상한척하는 사내"]  우르수스의 예술에는 딱 두 종류가 있다고 할 수 있습니다. 대중의 환심을 사는 예술이거나, 영원하고 위대한, 진정한 의미의 예술.
 
 [name="欢快的女贵族"]  既然被汤姆森欣赏，那多半是后者吧？
+[name="明るい女性貴族"]  トムソンさんが娘に読ませるほど評価している作品ですもの、きっと後者ですわ。
+[name="Merry Noblewoman"]  If Thomson liked it, chances are it was the latter, wasn't it?
+[name="유쾌한 귀족 부인"]  톰슨 씨가 칭찬할 정도라면 아무래도 후자겠죠?
 
 [name="附庸风雅的男人"]  啧，你们可真信任他。
+[name="風流人ぶる男"]  おやおや、皆さんは本当に彼を信頼なさってるんですね。
+[name="Pretentious Man"]  Hmph. You lot really do trust him.
+[name="고상한척하는 사내"]  이런, 톰슨 씨를 맹신하는 것 같군요.
 
 [name="海蒂"]  爸爸对他十分推崇，甚至打算亲自去圣骏堡拜访他，但因为生意上的问题一直耽搁，今年又旧伤复发，没能去成。
+[name="ハイディ"]  パパは、その作者を非常に高く評価しているんですよ。サンクト・グリファーブルクまで彼を訪ねようとしていますが、ずっと仕事の都合で行けず、今年は古傷が痛んで結局行けていません。
+[name="Heidi"]  Papa really put him in high esteem. He even wanted to go to Deity Grypherburg himself to visit him, but business always meant he had to put it off, and this year with his old injuries flaring up again, he wasn't able to go.
+[name="하이디"]  아빠는 그분을 높게 평가했어요, 직접 뵙고 싶다며 디에티 그라이퍼부르크에 갈 계획까지 세웠죠. 하지만 사업 때문에 차일피일 미루기만 하다가, 올해는 또 지병이 도져서 뜻을 이루지 못했고요.
 
 [name="凯尔希"]  您的父亲受伤了？
+[name="ケルシー"]  お父上はお怪我をなさっているのですか？
+[name="Kal'tsit"]  Your father was injured?
+[name="켈시"]  아버님 건강이 안 좋으신 건가요?
 
 [name="海蒂"]  ......是的，他的膝盖碎了，却迟迟拖延着手术，落下了病根。
+[name="ハイディ"]  ……はい。膝を壊してしまい、手術を受けるのが遅れてしまって、後遺症が残ってるんです。
+[name="Heidi"]  That's right. He broke his knee, and then put off surgery for too long, so it's not fully treated.
+[name="하이디"]  ……네, 무릎을 다치셨는데 수술을 미루다가 병세가 더 악화되고 말았어요.
 
 [name="文森特伯爵"]  我提醒过他，唉，也不知道去年发生了什么。他一身是伤地跑回来，只说遭到劫匪，跌下了山崖，别的怎么都不肯多说。
+[name="ヴィンセント伯爵"]  昨年、負傷して帰ってきたのですが、強盗に遭って崖から落ちたと言うだけで、それ以外は何も教えようとしないんですよ。はぁ……一体何があったのやら。
+[name="Count Vincent"]  I warned him. Ah, no idea what happened last year. He came scrabbling back with wounds all over, and all he'd say was he ran into a robber and dropped off a cliff. Wasn't interested in saying much else.
+[name="빈센트 백작"]  하아, 제가 그렇게 이야기했는데…… 작년에는 무슨 일이 있었는지 만신창이로 돌아왔더군요. 그저 강도를 만나 절벽에서 뛰어내렸다면서…… 그 외엔 아무 말도 안 하지 뭡니까!
 
 [name="凯尔希"]  ......您想去乌萨斯吗？海蒂小姐？
+[name="ケルシー"]  ハイディさん……あなたはウルサスへ行きたいのですか？
+[name="Kal'tsit"]  Do you want to go to Ursus? Miss Heidi?
+[name="켈시"]  ……우르수스에 가고 싶나요, 하이디 씨?
 
 [name="文森特伯爵"]  这可不行！乌萨斯前任皇帝的死亡与叛乱对那个国家影响深远，就算你要去那儿学习，也得过几年再说！
+[name="ヴィンセント伯爵"]  それはダメだ！　あの国は今、前皇帝の死と反乱で、情勢が不安定になっている。あの地へ行って学ぶなら、数年様子を見てからにしなさい！
+[name="Count Vincent"]  Now that won't do! The death of the last Emperor and the rebellions had a profound effect on the country. Should you want to study there, you'd do well to wait a few years first.
+[name="빈센트 백작"]  하이디, 절대 안 돼! 우르수스 전임 황제의 사망과 역모로 지금 얼마나 혼란스러운데…… 설령 그곳으로 유학을 가고 싶다고 해도 그건 몇 년 후에나 가능할 거다!
 
 [name="海蒂"]  我只是提一提......您对那个国家是什么印象呢？
+[name="ハイディ"]  そういうのじゃないってば！　ちょっと訊いてみただけだもん……ケルシー修道士はあの国に対してどのような印象をお持ちですか？
+[name="Heidi"]  I'm just talking about it... What impression do you have of the country?
+[name="하이디"]  그냥 궁금한 것뿐이야! 켈시 수도사님은 우르수스에 대해 어떻게 생각하시는지……
 
 [name="凯尔希"]  ......讲个故事吧。
+[name="ケルシー"]  ……一つお話をしましょう。
+[name="Kal'tsit"]  I'll tell you a story.
+[name="켈시"]  ……이야기 하나 들려드릴까요?
 
 [name="凯尔希"]  传闻乌萨斯第六集团军，因为一瓶伏特加而灰飞烟灭。
+[name="ケルシー"]  噂によれば、ウルサス第六師兵団は一瓶のウォッカが原因で、跡形もなく消えたそうです。
+[name="Kal'tsit"]  It's the story of how Ursus's Sixth Army were annihilated, without a trace, by a bottle of vodka.
+[name="켈시"]  우르수스의 제6군단이, 한 병의 보드카 때문에 흔적도 없이 사라졌다는 이야기를 아십니까?
 
 [name="附庸风雅的男人"]  这传闻听起来可不太靠谱。
+[name="風流人ぶる男"]  なんとも胡散臭い噂ですな。
+[name="Pretentious Man"]  Well, this rumor doesn't sound plausible at all.
+[name="고상한척하는 사내"]  믿기지 않는 이야기로군요.
 
 [name="凯尔希"]  任何事物如果只保留其伊始，得出的结论往往都是出乎预料的。我们都习惯过程，不是吗？
+[name="ケルシー"]  いかなる物事も、始まりしか知らなければ、結論は往々にして想像を超えます。我々は過程をもって物事を説明することに慣れている……違いますか？
+[name="Kal'tsit"]  When any event is boiled down to its cause, its conclusion tends to sound unexpected. We're all used to the process, aren't we?
+[name="켈시"]  처음 시작과 달리 우리의 예상을 뒤엎는 결론은 자주 있으니까요. 우리 모두 과정에 익숙해 있지 않나요?
 
 [name="附庸风雅的男人"]  您说的有理。
+[name="風流人ぶる男"]  一理ありますな。
+[name="Pretentious Man"]  That does make sense.
+[name="고상한척하는 사내"]  일리 있는 지적입니다.
 
 [name="凯尔希"]  起因是始于某个军痞在军队的控制区内“收租”，却误打误撞威胁到了某位贵族。
+[name="ケルシー"]  事の発端は、とある愚かな軍人の「徴税」行為です。しかし結果、ある貴族を脅すことになってしまいました。そしてその件は、次第に大きな問題に発展したのです。
+[name="Kal'tsit"]  It began with a ruffian from the Army 'collecting rent' in one of their garrison regions, and without realizing, he menaced a noble.
+[name="켈시"]  사태의 발단은 군 통제 구역에서 '세금'을 거두던 병사가 실수로 귀족을 다치게 하면서 시작되었죠.
 
 [name="凯尔希"]  这件事一路发酵，当时的第六集团军常被认为腐朽不堪，旧贵族的势力根深蒂固，而第五集团军则无条件服从年轻的皇帝和全新的帝国议会。
+[name="ケルシー"]  当時の第六師兵団は、日頃より腐敗していると言われていました。そして第五師兵団はというと、未だ旧貴族の勢力が深く根付く中、若き皇帝と新たな帝国議会に無条件で服従したのです。
+[name="Kal'tsit"]  That act fermented the whole way through. The Sixth Army then were always considered utterly corrupt, the old nobles' power rooted too deep, while the Fifth Army were unconditionally obedient to the young Emperor and the brand new State Council.
+[name="켈시"]  사건은 점점 크게 번졌어요. 당시 제6군단은 옛 귀족들에게 뿌리 깊게 잠식된 부패한 조직이었고, 그에 반해 제5군단은 젊은 황제와 새로운 제국 의회에 무조건 복종하는 상태였죠.
 
 [name="凯尔希"]  我们没法弄清楚具体的发起人是谁，但从结果而言，最终第五集团军借机发难，在两座移动城市的路径中央，与第六集团军发生了正面交火。
+[name="ケルシー"]  具体的な発起人が誰かははっきりしませんが、最終的に第五師兵団は相手の隙に乗じて、二つの移動都市の経路中央で、第六師兵団と正面から交戦したのです。
+[name="Kal'tsit"]  We have no way to know for sure who fired the first shot, but as for the outcome, the Fifth Army ultimately seized the chance to revolt, and in between two cities' paths, started a direct firefight with the Sixth Army.
+[name="켈시"]  주도자가 누군지는 알 수 없지만, 결과적으로 제5군단이 이 사건을 이용해 제6군단을 비난했으며, 결국 두 이동도시의 중간 지점에서 두 군단이 교전을 벌였어요.
 
 [name="文森特伯爵"]  “大叛乱”的序幕有很多版本，对于第六集团军的种种事迹，我倒的确是有所耳闻。
+[name="ヴィンセント伯爵"]  「大反乱」の始まりには諸説ありますが、確かに第六師兵団の数々の蛮行については、私も聞いたことがあります。
+[name="Count Vincent"]  The prologue to 'The Great Rebellion' comes in many editions. I've definitely heard a few things of the Sixth Army's varied deeds.
+[name="빈센트 백작"]  소위 '대반란'이 일어나게 된 원인에 대한 여러 가지 추측이 존재하지만, 제6군단에 대한 이런저런 이야기는 저도 들은 적이 있습니다.
 
 [name="欢快的女贵族"]  他们就这么打起来了吗？
+[name="明るい女性貴族"]  彼らの争いは、そうやって始まったんですの？
+[name="Merry Noblewoman"]  They fought just like that?
+[name="유쾌한 귀족 부인"]  그렇게 싸움이 시작된 건가요?
 
 [name="凯尔希"]  ......如果这么简单，那就不会被称作大叛乱了。
+[name="ケルシー"]  ……もしこれほど単純であったなら、大反乱などと称されることはなかったでしょう。
+[name="Kal'tsit"]  If it were that simple, then it wouldn't have been dubbed 'The Great Rebellion.'
+[name="켈시"]  ……그렇게 간단했다면, 대반란이라고 부를 수 없겠죠.
 
 [name="凯尔希"]  始终驻守边疆，权力范围和影响力不在乌萨斯腹地的第四集团军突然倒戈向帝国议会，并主动撇清了与第六集团军“叛徒”们的关联。
+[name="ケルシー"]  長い間辺境に駐屯し、権力や影響力をウルサス内地に持たなかった第四師兵団――彼らが突然帝国議会に寝返り、「裏切り者」である第六師兵団との関係を断ち切ったのです。
+[name="Kal'tsit"]  Being a border guard outfit, the Fourth Army, with a domain of authority and influence decidedly not in the hinterlands, suddenly switched sides to support the State Council, and proactively declared no relationship to the 'traitors' in the Sixth Army.
+[name="켈시"]  우르수스 내륙까지 영향력을 끼치지 못한 채 변경만 지키던 제4군단이 갑자기 제국 의회에 충성을 표하면서, 제6군단이란 '반역자'들로부터 등을 돌린 거예요.
 
 [name="凯尔希"]  在处决掉几个准备好的替罪羊后，旧贵族的手上仅仅剩下第六集团军与第八集团军两张底牌。
+[name="ケルシー"]  旧貴族が数名のスケープゴートを処刑した後、彼らの手には第六と第八師兵団という二枚の切り札しか残っていませんでした。
+[name="Kal'tsit"]  After the execution of a few prepared scapegoats, the old nobility had only the Sixth and Eighth Armies left in hand.
+[name="켈시"]  미리 준비해 둔 몇몇 희생양을 처형하고 나니 옛 귀족들에게 남은 거라곤 제6군단과 제8군단이라는 카드가 전부였죠.
 
 [name="凯尔希"]  次年冬天，第四集团军及背后的贵族故技重施，同样向皇帝投诚。
+[name="ケルシー"]  しかし翌年の冬、第四師兵団とその背後の貴族は同じ手を使い、皇帝に降伏しました。
+[name="Kal'tsit"]  Come winter the following year, the nobility backing the Eighth Army pulled that same trick, capitulating alike to the Emperor.
+[name="켈시"]  그리고 이듬해 겨울, 제8군단과 배후의 귀족들도 황제에게 항복했어요.
 
 [name="凯尔希"]  那么，孤注一掷的第六集团军最后遭遇了什么，可想而知。
+[name="ケルシー"]  窮地に立たされた第六師兵団が最後にどうなったか、容易に想像できるでしょう。
+[name="Kal'tsit"]  And so, the bitter fate of the Sixth Army who had staked it all on one throw, we can well imagine.
+[name="켈시"]  그럼, 이제 고립된 제6군단만 남았는데, 어떤 결과를 맞이했는지는 다들 짐작이 가시겠죠.
 
 [name="凯尔希"]  而这一切的起因——很简单，我们都知道了。就只是一个军痞喝醉了酒，用手里的伏特加酒瓶伤害到了一位年轻的贵族。
+[name="ケルシー"]  そしてこれらすべての引き金とは――皆さんもうお分かりですね。一人の愚かな軍人が酒に酔い、持っていたウォッカの瓶で若い貴族に傷を負わせてしまったことです。
+[name="Kal'tsit"]  And the cause of all of this—very simple, one we all know. Simply a drunk ruffian, taking the vodka bottle he had in hand to attack a young noble.
+[name="켈시"]  아시다시피, 이 모든 사건의 원인은 단순해요. 만취한 병사가 보드카 술병으로 젊은 귀족을 다치게 한 게 전부죠.
 
 [name="文森特伯爵"]  ......精彩的故事，凯尔希修士，而我敢保证，这段故事与真相相去无几。
+[name="ヴィンセント伯爵"]  ……見事な解説です、ケルシー修道士。この物語は真相に近いはずでしょう。
+[name="Count Vincent"]  A marvelous story, Cleric Kal'tsit, and might I even confirm, this tale is little removed from the reality at all.
+[name="빈센트 백작"]  ……흥미로운 이야기이로군요, 켈시 수도사님. 이 이야기는 아마 진상과 크게 다르지 않겠죠.
 
 [name="凯尔希"]  海蒂，我不会告诉您“这就是乌萨斯”。大地上的任何文明，都值得您亲眼确认，它们该被欣赏，也必须被思考。
+[name="ケルシー"]  ハイディさん、私は「これがウルサスのすべてだ」とは言いません。この大地のいかなる文明も、あなた自身で確認、考察し、評価するべきなのです。
+[name="Kal'tsit"]  Heidi, I would not tell you that 'this is how Ursus is.' Every civilization in this world deserves you seeing it for yourself. They should be appreciated, and have to be reflected upon.
+[name="켈시"]  하이디 씨, “이것이 우르수스다”라고 말하진 않겠습니다. 대륙의 모든 문명은 자신이 직접 확인해야 하니까요. 높이 평가할 부분도, 그리고 반성해야 할 점도 있다고 생각합니다.
 
 [name="海蒂"]  ......
+[name="ハイディ"]  ……
+[name="Heidi"]  ......
+[name="하이디"]  ……
 
 [name="凯尔希"]  从您欣赏的那个乌萨斯里，您看到了什么？
+[name="ケルシー"]  あなたはウルサスの何を見て評価しましたか？
+[name="Kal'tsit"]  In that Ursus you admire, what have you seen?
+[name="켈시"]  하이디 씨는 동경하는 우르수스에서 무엇을 봤나요?
 
 [name="凯尔希"]  也许是农田瓦舍，也许是英雄豪杰，也许是圣骏堡歌剧院里的悲欢离合。但我看到的，是大叛乱的余波，是一个摇摇欲坠的时代。
+[name="ケルシー"]  美しい田園風景？　英雄譚？　サンクト・グリファーブルク歌劇場の悲喜劇でしょうか？　しかし私が見たのは大反乱の余波であり、社会が大きく揺れる時代です。
+[name="Kal'tsit"]  Perhaps the farms and public houses, perhaps the grand heroes, perhaps the highs and lows of life in Deity Grypherburg's opera house. But what I've seen is the Great Rebellion's aftermath, an age on the verge of collapse.
+[name="켈시"]  한가한 농장? 영웅호걸, 아니면 디에티 그라이퍼부르크 극장의 멋진 공연? 제가 봤던 건 대반란의 여파이자 멸망 직전의 시대였습니다.
 
 [name="海蒂"]  ......维多利亚也会有这样的时代吗？
+[name="ハイディ"]  ……ヴィクトリアにもそのような時代が訪れるのでしょうか？
+[name="Heidi"]  Might Victoria have such an age of its own someday?
+[name="하이디"]  ……빅토리아에도 그런 시대가 찾아올까요?
 
 [name="凯尔希"]  ......我不做保证，海蒂小姐。
+[name="ケルシー"]  ……訪れないとは保証できません、ハイディさん。
+[name="Kal'tsit"]  I will not guarantee it either way, Miss Heidi.
+[name="켈시"]  그건 장담할 수 없겠군요…… 하이디 씨.
 
 [name="文森特伯爵"]  怎么会呢！瞧你这孩子，凯尔希修士说了点乌萨斯的故事，你就害怕啦？
+[name="ヴィンセント伯爵"]  ありえない！　まったくこの子は……修道士のウルサスの話を聞いて怖くなったのかね？
+[name="Count Vincent"]  How could it! Here, you little child. Are you afraid now, because of Cleric Kal'tsit's smidgen story of Ursus?
+[name="빈센트 백작"]  켈시 수도사님께서 들려주신 우르수스 이야기에 겁이 난 거냐, 하이디?
 
 [name="文森特伯爵"]  我无意侮辱乌萨斯人，但乌萨斯帝国确实是一个蛮荒且无理的国度。
+[name="ヴィンセント伯爵"]  ウルサス人を侮辱するつもりはないが、かの帝国は確かに野蛮で、理不尽な国だ。
+[name="Count Vincent"]  I've no intent to insult the Ursus people, but the Empire of Ursus is unarguably a savage, unreasonable nation.
+[name="빈센트 백작"]  우르수스를 모욕하려는 건 아니지만, 우르수스 제국은 확실히 미개함과 무질서로 가득한 나라야.
 
 [name="海蒂"]  但现在伦蒂尼姆不也——
+[name="ハイディ"]  でも今のロンディニウムだって――
+[name="Heidi"]  But right now, isn't Londinium just as—
+[name="하이디"]  하지만 지금의 런디니움도……
 
 [name="文森特伯爵"]  ——别这么说，虽然那件事令人遗憾，但维多利亚可曾有一刻动摇？
+[name="ヴィンセント伯爵"]  ――同じではない。あの出来事は残念だが、それでヴィクトリアが一瞬でも揺れ動いたことがあったかね？
+[name="Count Vincent"]  —Don't even say it. Though it pains us all that it happened, did Victoria waver for even a moment?
+[name="빈센트 백작"]  꼭 그렇지는 않아! 그 사건이 안타깝기는 하지만 빅토리아가 한순간도 흔들린 적이 있었느냐?
 
 [name="微醺的商人"]  好啦好啦，伯爵阁下，话题都引到这儿了，你该说说，那趟伦蒂尼姆之行了吧？这可是咱们最好奇的啦。
+[name="ほろ酔いな商人"]  ほらほら、伯爵。ロンディニウムの話題になったことですし、例の旅について語るべきタイミングではありませんか？　我々はそれを心待ちにしていたんですよ。
+[name="Tipsy Businessman"]  Alright, alright, Count, seeing as the topic's come around, I think it's high time you told us about that trip to Londinium, yes? That's what we're most interested in.
+[name="약간 취한 상인"]  자자, 이야기는 이쯤 하시죠. 그나저나 런디니움 여행은 어땠습니까? 그 이야기가 가장 궁금하군요.
 
 [name="附庸风雅的男人"]  您见到哪位大贵族了吗？
+[name="風流人ぶる男"]  大貴族のどなたかにはお目にかかれましたかな？
+[name="Pretentious Man"]  What high nobility did you meet?
+[name="고상한척하는 사내"]  어떤 대귀족들을 만나셨나요?
 
 [name="文森特伯爵"]  说来荣幸，其实在路途中，诺曼底公爵曾亲自邀请我前往他的旗舰共赴晚宴......
+[name="ヴィンセント伯爵"]  ええ。実は旅の途中、光栄なことに、ノーマンディー公爵から彼の旗艦へとディナーに招待されたのですよ……
+[name="Count Vincent"]  I'd be honored to tell. Truth is, on the way, the Duke of Normandy personally invited me to a shindig, together at his flagship...
+[name="빈센트 백작"]  영광스럽게도 여정 중에 노르망디 공작께서 만찬을 함께 하고 싶다며 저를 기함으로 초대해주셨답니다……
 
 [name="附庸风雅的男人"]  什么！你竟然能忍到今天才告诉我们这件事......！
+[name="風流人ぶる男"]  何ですと！　そのようなことを今日まで黙っていたのですか……！
+[name="Pretentious Man"]  What! And you managed to keep from telling us all the way to today...!
+[name="고상한척하는 사내"]  예? 그 이야기를 왜 이제야 말해 주시는 겁니까!
 
 [name="欢快的女贵族"]  哎呀，那可是诺曼底公爵......他向来讨厌莱塔尼亚人，他和女皇之声的使节发生冲突了吗？
+[name="明るい女性貴族"]  まあ、ノーマンディー公爵ですって……？　あのお方はかねてからリターニア人を嫌ってらっしゃいますが、「女帝の声」の使節たちとはトラブルになりませんでしたの？
+[name="Merry Noblewoman"]  My, it was the Duke of Normandy himself... He always did detest Leithaniens. Did he and the envoys of the Empresses' Voice have a scuffle?
+[name="유쾌한 귀족 부인"]  하지만 노르망디 공작님은…… 줄곧 라이타니아를 증오하셨잖아요? '여황의 목소리'를 대표하는 사절과도 충돌이 있었다고 하던데……
 
 [name="文森特伯爵"]  没有，但据公爵阁下的仆人所说，那晚公爵从未正眼瞧过一次那些貌美优雅的使节。
+[name="ヴィンセント伯爵"]  何事もありませんでした。しかし公爵の使用人が言うには、あの晩公爵は美しく優雅な使節たちに一度も目を向けなかったそうです。
+[name="Count Vincent"]  No, but by his retainer's words, the good Duke never once made eye contact with those gorgeous envoys that evening.
+[name="빈센트 백작"]  아뇨, 공작님의 시종이 이야기해준 대로라면 그날 밤, 공작님께선 아름답고 우아한 사절들에게 단 한 번도 눈길을 주지 않았다고 하더군요.
 
 [name="附庸风雅的男人"]  啊哈，这才是“公爵”应有的风貌。
+[name="風流人ぶる男"]  ハハ、それでこそ「公爵」のあるべき姿ですな。
+[name="Pretentious Man"]  Ah-ha, now that's the proper manner of a 'Duke.'
+[name="고상한척하는 사내"]  호오, '공작님'다운 모습이로군요.
 
 [name="附庸风雅的男人"]  乌萨斯装模作样的大公没有几十也有几百——好吧，也许没那么多，但他们确实有些泛滥，容我直说，还有些无能。
+[name="風流人ぶる男"]  ウルサスには気取った公爵が数百……は言い過ぎですが、数十――そこまではいないかもしれませんが、でも確かに溢れてはいます。率直に言わせてもらえれば、無能な方も中にはいらっしゃる。
+[name="Pretentious Man"]  Ursus's theatrical Grand Dukes might number more in hundreds than tens—alright, maybe not that many, but they are quite unchecked, and if I might add, somewhat incompetent too.
+[name="고상한척하는 사내"]  우르수스에서 거드름을 피우는 대공이 수십, 수백…… 수백 명은 아니겠지만 그래도 그 수가 적진 않죠. 솔직히 말해서 능력도 없고 말입니다.
 
 [name="文森特伯爵"]  这是一种傲慢，但我得说，每一个见识过伦蒂尼姆风貌的人，都会这么说。
+[name="ヴィンセント伯爵"]  その発言は驕りにも思えますが、ロンディニウムの空気をまとった方は、皆そうおっしゃいますな。
+[name="Count Vincent"]  That's a form of arrogance, but I must say, everyone who's experienced the Londinium manner for themselves would echo the sentiment.
+[name="빈센트 백작"]  오만일지도 모르겠습니다만, 런디니움을 본 사람이라면 모두 그렇게 말할 겁니다.
 
 [name="文森特伯爵"]  我相信诺曼底公爵只靠一己之力，就能让莱塔尼亚那些利欲熏心的激进分子安分个几十年。更别提我们可不止一位大公爵......
+[name="ヴィンセント伯爵"]  ノーマンディー公爵ほどの方ならば、欲に目が眩んだリターニアの過激な者たちを、何十年でも大人しくさせられると信じています。ましてや彼のような大公爵は一人にとどまらず……
+[name="Count Vincent"]  I trust the Duke of Normandy need only rely on his own power to make those Leithanien greed-blinded extremists know their place for a few dozen years. Let alone the fact we've certainly more than a single Duke...
+[name="빈센트 백작"]  노르망디 공작님이라면 혼자서도 사리사욕에 눈이 먼 라이타니아의 급진 세력을 수십 년 동안 잠재울 수 있다고 믿습니다. 더구나 저희에겐 대공작님만 계시는 게 아니니……
 
 [name="海蒂"]  ......
+[name="ハイディ"]  ……
+[name="Heidi"]  ......
+[name="하이디"]  ……
 
 [name="文森特伯爵"]  海蒂，你累了吗？
+[name="ヴィンセント伯爵"]  ハイディ、疲れたのかい？
+[name="Count Vincent"]  Tuckered out, Heidi?
+[name="빈센트 백작"]  하이디, 피곤하니?
 
 [name="海蒂"]  嗯？没有......我还在想凯尔希修士说的话，我能和凯尔希修士单独聊聊吗？
+[name="ハイディ"]  え？　ううん……ケルシー修道士のお話についてまだ考えてたの。おじさま、修道士と二人だけでお話ししてもいいかな？
+[name="Heidi"]  Hm? No... I'm still thinking about what Cleric Kal'tsit said. Could I talk with her alone for a bit?
+[name="하이디"]  응? 아니…… 켈시 수도사님의 이야기를 듣고 생각하고 있었어. 켈시 수도사님과 둘만 이야기해도 될까?
 
 [name="附庸风雅的男人"]  哦，伦蒂尼姆的话题要是没了凯尔希，可就无趣许多了。
+[name="風流人ぶる男"]  ふむ、しかしロンディニウムの話題にケルシーさんがいなければ、退屈になってしまいますな。
+[name="Pretentious Man"]  Oh, if we're to talk Londinium without Kal'tsit, it would certainly be much duller.
+[name="고상한척하는 사내"]  흐음, 런디니움에 관한 이야기에 켈시 씨가 없으면 따분할 것 같은데.
 
 [name="凯尔希"]  不敢当。
+[name="ケルシー"]  恐縮でございます。
+[name="Kal'tsit"]  You flatter me.
+[name="켈시"]  과찬이십니다.
 
 [name="文森特伯爵"]  哦，先不急，我看到麦田男爵在向我打招呼，我得和他聊聊去。一会我肯定和你们好好说道。
+[name="ヴィンセント伯爵"]  おや、ちょっと失礼。麦畑男爵が私に手招きするのが見えました。彼と話してきます。皆さんとは、また後で話の続きをしましょう。
+[name="Count Vincent"]  Now, no rush. I see the Baron of Rye is calling at me, so I'll need to chit-chat with him now. I assure you, I'll be back shortly to tell the full tale.
+[name="빈센트 백작"]  아, 잠시만요. 바론 남작님이 절 찾으시는 것 같은데 잠시 실례하겠습니다. 이야기는 조금 이따 다시 나누시죠.
 
 [name="凯尔希"]  让您感到无趣了吗？海蒂小姐？
+[name="ケルシー"]  ハイディさんに、がっかりさせてしまいましたか？
+[name="Kal'tsit"]  Does this all bore you? Miss Heidi?
+[name="켈시"]  저 때문에 지루하셨나요, 하이디 씨?
 
 [name="海蒂"]  欸？啊......不，没有，还好吧。
+[name="ハイディ"]  え？　あっ……いえ、そんなことありません、大丈夫です。
+[name="Heidi"]  Huh? Ah... no, it doesn't, I'm alright.
+[name="하이디"]  에? 아…… 아뇨, 괜찮아요.
 
 [name="海蒂"]  ......
+[name="ハイディ"]  ……
+[name="Heidi"]  ......
+[name="하이디"]  ……
 
 [name="海蒂"]  好吧......呃，只是，我以为我们会聊更多的诗歌话题或者小麦的收成，而不是......
+[name="ハイディ"]  うーん、ええと……ただ、もっと詩歌や小麦の収穫なんかについてお話できると思っていたのですが、そうはならなくって……
+[name="Heidi"]  Fine... erm, it's just, I thought we'd talk more about poetry, or the wheat harvest, but it turns out not...
+[name="하이디"]  네…… 어, 그러니까 문학 작품이나 밀 수확에 대해 이야기할 거라고 생각했거든요……
 
 [name="凯尔希"]  无聊的别国政治？
+[name="ケルシー"]  退屈な他国の政治の話ばかりだったと？
+[name="Kal'tsit"]  Sick of foreign politics?
+[name="켈시"]  지루한 타국의 정치 말고 말이죠?
 
 [name="海蒂"]  呃，哈哈......
+[name="ハイディ"]  うっ、あはは……
+[name="Heidi"]  Um, ha ha...
+[name="하이디"]  핫! 하.하……
 
 [name="凯尔希"]  这也是这场宴会的意义。
+[name="ケルシー"]  そういう会話をすることも、このパーティーの意義の一つですよ。
+[name="Kal'tsit"]  It's what tonight's dinner party was meant for.
+[name="켈시"]  그것도 이번 파티를 연 의미라고 할 수 있죠.
 
 [name="海蒂"]  ......我看得出来，您也觉得有些无趣了，不是吗？
+[name="ハイディ"]  でも……私の勝手な推測ですが、あなたも少し退屈に感じたのではありませんか？
+[name="Heidi"]  I can see, you also consider it somewhat boring, don't you?
+[name="하이디"]  ……제가 보기엔 수도사님도 지루한 것 같은데, 아닌가요?
 
 [name="海蒂"]  其实您懂得更多，那些围着文森特叔叔唧唧喳喳的人，您其实是看不上的，对不对？
+[name="ハイディ"]  さっきのお話、あなたは本当はもっと深くまでご存知のはずです。おじさまを取り囲み騒いでいた人たちを、あなたは実は快く思っていなかったのでは？
+[name="Heidi"]  You understand more than anyone, and you can't stand all those people in a giggling gaggle around Uncle Vincent, correct?
+[name="하이디"]  수도사님은 더 많은 걸 알고 계시잖아요. 빈센트 아저씨 곁에서 이러쿵저러쿵 떠드는 사람들 모두 눈에 차지 않으시는 거 아니었나요?
 
 [name="凯尔希"]  您似乎对我有一些误解......
+[name="ケルシー"]  あなたは少し私を誤解しているようですね……
+[name="Kal'tsit"]  You seem to have some misunderstanding about me...
+[name="켈시"]  절 오해하시는 것 같군요……
 
 [name="海蒂"]  哈哈，我们今晚才认识嘛，您说得对，凯尔希修士。
+[name="ハイディ"]  あはは、それはおっしゃる通りかもしれません、ケルシー修道士。何せ私たちは、今夜知り合ったばかりなのですから。
+[name="Heidi"]  Ha ha, we only met tonight, didn't we? You're right, Cleric Kal'tsit.
+[name="하이디"]  후후, 켈시 수도사님의 말이 맞아요. 오늘 밤에야 처음 알게 됐는걸요.
 
 [name="凯尔希"]  您可以叫我凯尔希。
+[name="ケルシー"]  ケルシーと呼んでいただいて構いません。
+[name="Kal'tsit"]  You can call me just Kal'tsit.
+[name="켈시"]  편하게 켈시라고 불러주시죠.
 
 [name="海蒂"]  那，凯尔希......能陪我逛逛吗？
+[name="ハイディ"]  では、ケルシー……私と一緒に少し歩きませんか？
+[name="Heidi"]  Then, Kal'tsit... could you walk with me?
+[name="하이디"]  그, 그럼 서로 편하게 부르도록 할까요…… 켈시, 저랑 같이 좀 걸으실래요?
 
 [name="海蒂"]  再过一会，文森特叔叔就要把我撵到阁楼上啦。我可不想这么早就睡觉。
+[name="ハイディ"]  あと少ししたら、ヴィンセントおじさまに上に行ってベッドで寝るよう言われてしまいます。でも、こんなに早く寝たくありません。
+[name="Heidi"]  In a while longer, Uncle Vincent will have me sent off into the loft. I certainly don't want to go to bed this early.
+[name="하이디"]  조금 있다가 빈센트 아저씨가 절 다락방으로 쫓아낼 거예요. 하지만 일찍 자고 싶진 않네요.
 
 [name="海蒂"]  外面的雪似乎变大了，您介意吗......？
+[name="ハイディ"]  外の雪は強くなったみたいですが、嫌ですか……？
+[name="Heidi"]  The snow seems to have gotten heavier. Would you mind that...?
+[name="하이디"]  눈발이 점점 굵어지는 것 같은데, 괜찮으세요?
 
 [name="凯尔希"]  ——不会，让我陪您一道吧。
+[name="ケルシー"]  ――とんでもありません、お供させてください。
+[name="Kal'tsit"]  —I wouldn't. Allow me to accompany you.
+[name="켈시"]  ……괜찮아, 같이 한 바퀴 돌고 올까?
 
 [name="海蒂"]  好大的雪！
+[name="ハイディ"]  すごい雪ですね！
+[name="Heidi"]  What a snowstorm!
+[name="하이디"]  와아, 눈이 잔뜩 와요!
 
 [name="凯尔希"]  这几年都没有这么大的雪。
+[name="ケルシー"]  ここ数年で一番の大雪です。
+[name="Kal'tsit"]  The biggest one in recent years.
+[name="켈시"]  요 근래 이 정도 함박눈은 보지 못했는데……
 
 [name="海蒂"]  ......我喜欢雪，凯尔希，我也喜欢我的家乡。
+[name="ハイディ"]  ……私は雪が好きなんですよ。ケルシー、私はこの故郷が大好きなんです。
+[name="Heidi"]  I like the snow, Kal'tsit, and I like my home too.
+[name="하이디"]  ……저는 눈이 좋아요, 켈시. 내 고향도 좋고요.
 
 [name="凯尔希"]  ......我知道。
+[name="ケルシー"]  ……ええ、そのようですね。
+[name="Kal'tsit"]  I know.
+[name="켈시"]  ……알아요.
 
 [name="海蒂"]  呼......真冷。
+[name="ハイディ"]  ふぅ……寒いですね。
+[name="Heidi"]  Phew... how cold.
+[name="하이디"]  하아…… 춥네요.
 
 [name="海蒂"]  大家都躲在温暖的壁炉边呢。
+[name="ハイディ"]  皆さん暖かい暖炉を囲んでいますよね？
+[name="Heidi"]  Everyone's all huddling inside by the fireplace.
+[name="하이디"]  모두들 따뜻한 벽난로 곁에 모여있겠죠?
 
 [name="凯尔希"]  嗯。
+[name="ケルシー"]  はい。
+[name="Kal'tsit"]  Mm.
+[name="켈시"]  그렇겠지.
 
 [name="海蒂"]  ......
+[name="ハイディ"]  ……
+[name="Heidi"]  ......
+[name="하이디"]  ……
 
 [name="海蒂"]  现在只有我们两个人啦，凯尔希......嘿嘿，凯尔希。
+[name="ハイディ"]  今は私たち二人だけ、ケルシー……えへっ、ケルシー。
+[name="Heidi"]  It's just us two now, Kal'tsit... hee-hee, Kal'tsit.
+[name="하이디"]  지금 여기에는 우리 둘뿐이에요, 켈시…… 헤헤, 켈시.
 
 [name="海蒂"]  ——想和您独处真的很难欸。
+[name="ハイディ"]  ――あなたと二人だけになるのは本当に難しかったですよ。
+[name="Heidi"]  —It's so difficult to be alone with you.
+[name="하이디"]  켈시랑 단둘이 있기란 참 어렵네요.
 
 [name="凯尔希"]  你还年轻......海蒂。
+[name="ケルシー"]  ハイディ、君はまだ若い……
+[name="Kal'tsit"]  You're yet young... Heidi.
+[name="켈시"]  넌 아직 어려…… 하이디.
 
 [name="凯尔希"]  你的父亲不该这么简单把你卷进来。
+[name="ケルシー"]  君のお父上は、こんな簡単に君を巻き込むべきではない。
+[name="Kal'tsit"]  Your father shouldn't have let you get involved so easily.
+[name="켈시"]  너의 아버지가 너를 이렇게 쉽게 말려들게 하지 말았어야 했는데.
 
 [name="海蒂"]  但这是我的愿望，凯尔希。我希望能做点什么，而不是真的和个孩子一样，躲在温室里眺望窗外。
+[name="ハイディ"]  これは私が望んだことです、ケルシー。暖かい部屋から子供のように窓の外を眺めるのではなく、意義のあることがしたいんです……故郷のために。
+[name="Heidi"]  But that's what I wanted, Kal'tsit. I wished to do something or other, instead of hiding in the warm house, gazing out, just as a child would.
+[name="하이디"]  하지만 제가 그렇게 하고 싶어요, 켈시. 아이처럼 온실 속에 숨어서 구경만 하는 게 아니라 의미 있는 뭔가를 하고 싶어요.
 
 [name="海蒂"]  ......您说真当冬天来临的时候，维多利亚的哪一棵栎树能免于风雪？那既然如此，我们应该早作准备。
+[name="ハイディ"]  ……このヴィクトリアに、吹雪にさらされず冬を過ごせるオークの木があると思いますか？　私たちは、若いうちから準備をしておくべきなのです。
+[name="Heidi"]  When winter truly comes, would a single oak of Victoria's be spared from the blizzard? Then that being the case, we should prepare early.
+[name="하이디"]  ……겨울이 오면 눈보라를 피할 수 있는 빅토리아의 떡갈나무가 과연 있을까요? 기왕이면 미리 대비하는 편이 좋겠죠.
 
 [name="凯尔希"]  你和你的父亲很像。
+[name="ケルシー"]  君はお父上とよく似ている。
+[name="Kal'tsit"]  You resemble your father greatly.
+[name="켈시"]  아버지를 많이 닮았구나.
 
 [name="海蒂"]  ——您在夸我吗？
+[name="ハイディ"]  ――褒めてらっしゃるのですか？
+[name="Heidi"]  —Is that a compliment?
+[name="하이디"]  ……칭찬인 건가요?
 
 [name="凯尔希"]  就当是吧。
+[name="ケルシー"]  そう思ってくれて構わない。
+[name="Kal'tsit"]  Let's say it is.
+[name="켈시"]  물론이지.
 
 [name="海蒂"]  ......嘿嘿......啊，这附近不会有人过来，所以......
+[name="ハイディ"]  えへへ……あ、ここへは誰も来ませんので――
+[name="Heidi"]  Hee-hee... ah, nobody should find us here, so...
+[name="하이디"]  ……헤헤~ 앗, 이 근처에는 누구도 오지 않을 테니까……
 
 [name="海蒂"]  只有现在，我才能把这些信交给您。
+[name="ハイディ"]  これでようやく、手紙を渡せますね。
+[name="Heidi"]  Now I can hand these letters to you.
+[name="하이디"]  지금이라면 편지를 전해 드릴 수 있을 것 같네요.
 
 [name="凯尔希"]  ......
+[name="ケルシー"]  ……
+[name="Kal'tsit"]  ...
+[name="켈시"]  ……
 
 [name="凯尔希"]  你父亲挑选的情报人员从不迟到，他们是维多利亚最好的信使，工人和各界的有志之士——除了这一次。
+[name="ケルシー"]  君のお父上の諜報員は、これまで一度も遅れたことがなかった。彼らはこのヴィクトリアで最も優れたトランスポーターや労働者、各界の有志者であった――今回を除いてな。
+[name="Kal'tsit"]  Your father's intelligence operatives are never late. They're the best Messengers, workers, and aspirants in all of Victoria—except this time.
+[name="켈시"]  네 아버지께서 선발한 정보원은 언제나 정확했어. 빅토리아 최고의 전달자는 물론, 노동자와 각계의 뜻있는 분들이었지…… 이번에는 아니지만.
 
 [name="凯尔希"]  遇到什么麻烦了？
+[name="ケルシー"]  何かトラブルでもあったのか？
+[name="Kal'tsit"]  Has something happened?
+[name="켈시"]  무슨 일 있니?
 
 年轻的海蒂停下了她那天真的脚步。
+若いハイディは、そのあどけない足取りを止めた。
+The young Heidi makes not an innocent step more.
+아직 젊었던 하이디는, 그 천진난만한 발걸음을 멈추었다.
 
 她说得对，在动荡来临之前，年轻人总是要最先做好准备的。
+彼女は正しい。雲行きが怪しくなる前に、若者こそ真っ先に準備を整えなければならない。
+She is right. Before upheaval arrives, the young must always be the soonest to prepare.
+켈시의 말이 옳았다. 혼란이 닥쳐오기 전에, 젊은 세대야말로 가장 먼저 준비해야 한다.
 
 [name="海蒂"]  ——信有两封，凯尔希阁下。
+[name="ハイディ"]  ――手紙は二通あります、ケルシー殿。
+[name="Heidi"]  —There are two letters, Dame Kal'tsit.
+[name="하이디"]  ……편지는 모두 두 통이에요.
 
 [name="海蒂"]  一封来自整片维多利亚，另一封来自“卡兹戴尔”。
+[name="ハイディ"]  一つはヴィクトリアから、もう一つは「カズデル」からです。
+[name="Heidi"]  One from all of Victoria, and another from 'Kazdel.'
+[name="하이디"]  빅토리아로부터 한 통, 나머지 한 통은 '카즈델'로부터……
 

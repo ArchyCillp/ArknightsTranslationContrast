@@ -1,11 +1,17 @@
 ID:
 	char_344_beewax
 
-干员代号\Name:
+CV:
 	蜜蜡
 	ビーズワクス
 	Beeswax
 	비즈왁스
+
+干员代号\Name:
+	喜多村英梨
+	喜多村英梨
+	Eri Kitamura
+	키타무라 에리
 
 招聘合同\Character Usage:
 	萨尔贡沙漠上的部族司祭蜜蜡，金色沙原中寄寓她的祝福。
@@ -43,177 +49,440 @@ ID:
 	수호의 오벨리스크
 
 语音\Voices:
-	博士，今天要努力工作？嗯，好啊，我会陪博士一起。如果你偷懒的话，就用这根长杖，像这样，嘿，敲敲头。咚咚。
 	ドクター、今日は仕事頑張る、ですか？じゃあ私も一緒に。もしドクターがサボってたら、この杖で、こんなふうに、えいっ、頭を叩きますね。トントン。
-	Doctor, you’ll be working hard today? Then, I’ll stay with you. If you slack off, then I’ll use this stick... Like this... and give you a smack on the head. Bonk, bonk.
+	Doctor, you'll be working hard today? Then, I'll stay with you. If you slack off, then I'll use this stick... Like this... and give you a smack on the head. Bonk, bonk.
 	박사님, 오늘은 일 열심히 해야지, 하시는 건가요? 그럼 저도 같이, 혹시 박사님이 게으름을 피우면 이 지팡이로, 이렇게, 에잇! 머리를 때릴게요. 통통…
 
-	蜜蜡、蜜蜡、蜜蜡......嗯，好，再多念几遍应该就能习惯了。啊，博士，有什么事吗？我正在熟悉自己的代号，以免在别人喊我的时候反应不过来，会闹笑话的。
 	ビーズワクス、ビーズワクス、ビーズワクス……うん、よし、あと何回か声に出して読めば慣れるはず。あれ、ドクター、何か用です？私は今自分のコードネームを復唱して慣れてるところです。他の人に呼ばれた時に反応できないと笑われちゃいますから。
-	Beeswax, Beeswax, Beeswax... Mm, okay. I should get used to it after reading it a few more times. Oh, Doctor, do you need something? I’m just trying to get used to hearing my code name... so I don’t overreact and get made fun of when others call me.
+	Beeswax, Beeswax, Beeswax... Mm, okay. I should get used to it after reading it a few more times. Oh, Doctor, do you need something? I'm just trying to get used to hearing my code name... so I don't overreact and get made fun of when others call me.
 	비즈왁스, 비즈왁스, 비즈왁스… 응, 좋아. 앞으로 몇 번 소리 내서 읽으면 익숙해질 거야. 어라? 박사님, 무슨 일이세요? 저는 지금 제 코드네임을 복창해서 익숙해지려 하고 있었어요. 다른 사람이 불렀을 때 반응하지 못하면 비웃음을 사니까요.
 
-	这个虫子，因为月见夜先生好像很害怕，一见就原地弹跳起来，所以我就帮他捉起来了。但是，现在该往哪里丢呢......咦，博士，你为什么要向后退？
 	この虫、見かけると跳び上がるほどミッドナイトさんが怖がってたので、捕まえてきました。でも、どこに逃がそうかな……あれ、ドクター、どうして後ずさりするんですか？
 	This bug... Mister Midnight seemed very scared of it and jumped up into the air as soon as he saw it, so I helped him catch it. But, where should we put it now... Um, Doctor, why are you backing away?
 	이 벌레, 눈에 보이면 튀어 오를 만큼 미드나이트 씨가 무서워하길래 잡아 왔어요. 그런데 어디에 풀어주지… 어라, 박사님. 왜 뒷걸음질치고 계세요?
 
-	衣服的尺寸稍微大一点，这样披在身上会很安心，我很喜欢这种感觉。只是，偶尔，会不小心踩到——欸，啊，呜哇......！......呜呜，又摔倒了。好痛......
 	服のサイズは大きめのほうが、着た時に安心感があって私は好きなんです。ただ、ほんとたまにですけど、裾を踏んでしま――えっ、あっ、わぁっ……！……うう、また転んじゃった。痛い……
-	My clothes are a bit big, so I feel at ease when drape over my body. I like that sensation. But, sometimes, I’ll accidentally step on them— Uu, uwah, ahh...! ...Fweh, I tripped again... Ow...
+	My clothes are a bit big, so I feel at ease when drape over my body. I like that sensation. But, sometimes, I'll accidentally step on them— Uu, uwah, ahh...! ...Fweh, I tripped again... Ow...
 	옷 사이즈는 큰 편이 입었을 때 안심이 돼서 저는 좋아해요. 다만, 정말 가끔이지만 옷자락을 밟아서…… 엣, 앗, 으악…! 으으… 또 넘어졌어. 아파……
 
-	民谣协会本月的新作，是我很喜欢的旋律呢。欸，博士没听说过协会？全称是民谣与源石技艺研究协会......没听过？那电音技艺同盟呢？说唱与民谣联合展望会呢？都没听过？
 	民謡協会の今月の新作、私好みのメロディーだな。あれ、ドクターは協会を知らないんですか？正式名称は「民謡とアーツ研究協会」っていうんですが……聞いたことない？では電子音楽技術同盟は？ラップと民謡連合展望会は？どれも聞いたことないんですか？
-	The new piece the Folk Song Association put out this month is my new favorite song. Oh, you’ve never heard of them before, Doctor? The full name is the Folk Song and Originium Arts Research Association... Still haven’t heard about it? What about the Electronic Arts Alliance? How about the Rap and Folk Joint Vantage? Haven’t heard of any of them?
+	The new piece the Folk Song Association put out this month is my new favorite song. Oh, you've never heard of them before, Doctor? The full name is the Folk Song and Originium Arts Research Association... Still haven't heard about it? What about the Electronic Arts Alliance? How about the Rap and Folk Joint Vantage? Haven't heard of any of them?
 	민요 협회의 이번 달 신곡, 내 취향의 멜로디네. 어라, 박사님은 협회 모르세요? 정식 명칭은 '민요와 아츠 연구 협회'라고 하는데요… 들어본 적 없으시다고요? 그럼 전자음악 기술 동맹은요? 랩과 민요 연합 전망회는요? 하나도 들어본 적 없으세요?
 
-	头上的印记？啊......这个是，族中代代相传的祭祀之印，是我们信奉的金色的神灵对族人的祝福。无颜的神灵庇佑我们，不论我们走到哪里，不论我们是否记得......
 	おでこの印？あ……これは一族に代々伝わる祭祀の印で、私たちが崇める金色の神が一族に授けてくださった祝福なんです。顔のない神が私たちを見守っていてくださいます。私たちが何処へ行こうが、たとえそれを忘れてしまっても……
-	The mark on my head? Ah... this is a ceremonial seal passed down from generation to generation in my tribe, and it is a symbol of our Golden Gods’ blessings towards our tribe and our peoples. The faceless gods will protect us, no matter where we go, whether or not we remember them......
+	The mark on my head? Ah... this is a ceremonial seal passed down from generation to generation in my tribe, and it is a symbol of our Golden Gods' blessings towards our tribe and our peoples. The faceless gods will protect us, no matter where we go, whether or not we remember them......
 	이마의 증표요? 아… 이건 일족 대대로 전해지는 제사의 증표에요. 저희가 모시는 황금빛 신이 일족에게 내려주신 축복이죠. 얼굴 없는 신이 저희를 지켜봐 주세요. 저희가 어디로 가든, 설령 그것을 잊어버린다 해도…
 
-	离开部族，去别的城邦和国家游历，是我们的族人都必须经历的试炼，只有顺利通过，才能成为像姐姐那样可靠的成年人。嗯，博士也相信我一定没问题的，对吧？
 	部族を離れて、外の街や国を巡ることは、私たちの一族で必ず受けるべき試練です。うまく乗り越えたら、やっとお姉ちゃんのような頼れる大人になれるとされてます。うん、ドクターも私なら大丈夫だって信じてくれてる、そうですよね？
-	Leaving the tribe and traveling to other city-states and countries is a trial of passage that all the members of our tribe must go through. Only by successfully passing it can one become a full-fledged adult like my sister. Um, Doctor, you don’t think I’ll run into any problems, right?
+	Leaving the tribe and traveling to other city-states and countries is a trial of passage that all the members of our tribe must go through. Only by successfully passing it can one become a full-fledged adult like my sister. Um, Doctor, you don't think I'll run into any problems, right?
 	부족에서 벗어나 바깥 도시나 나라를 둘러보는 것은 저희 일족에서 반드시 받아야 하는 시련이에요. 제대로 극복해야만, 언니처럼 의지할 수 있는 어른이 될 수 있다고 하죠. 네, 박사님도 저라면 괜찮을 거라고 믿어… 주실 거죠?
 
-	嘿嘿，我的角，很大很漂亮吧，在族人中能比得上我的人也不多见呢！保养的秘诀是每天涂一遍香油，用刷子轻轻地刷——等等，博士，今天的护理还没有完成，就算是博士也不能随便乱碰！
 	えへへ、私の角、大きくて綺麗でしょう？一族の中でも私より立派な角を持つ人はあんまりいないんですよ！お手入れの秘訣は毎日オイルを塗って、ブラシで優しく擦る――待って、ドクター。今日のお手入れがまだですから、たとえドクターでも触っちゃダメです！
-	Hehe, my horns are big and pretty, right? There aren’t many people in the tribe whose horns can compare to mine! The secret to maintaining them is to apply essential oils once a day, gently massage them with a soft brush— W-wait, doctor, I haven’t finished today’s maintenance yet, you can’t just touch them like that!
+	Hehe, my horns are big and pretty, right? There aren't many people in the tribe whose horns can compare to mine! The secret to maintaining them is to apply essential oils once a day, gently massage them with a soft brush— W-wait, doctor, I haven't finished today's maintenance yet, you can't just touch them like that!
 	에헤헤… 제 뿔, 크고 예쁘죠? 일족 중에서도 저보다 훌륭한 뿔을 가진 사람은 별로 없어요! 관리 비결은 매일 오일을 바른 다음에 솔로 부드럽게 문지르는…… 잠깐만요, 박사님. 오늘은 아직 관리 전이니까 아무리 박사님이라 해도 만지면 안 돼요!
 
-	博士，请到这边来，嗯，嗯，闭上眼睛，让我碰碰你的额头。烈阳、风暴、还有泛起波浪的金色沙原，神灵寄宿在孕养我们的这片地上，给予族人们庇佑和祝福。现在，我将这份祝福也分给你，博士。
 	ドクター、こっちに来てください。うん、よし、目を閉じて、私におでこを触らせてください。烈日、嵐、そして波打つ金色の砂原、神が私たちを育んだこの地に宿り、一族に加護と祝福をもたらさんことを。この祝福を、ドクターにも分けてあげます。
 	Doctor, please come here. Mm, okay, close your eyes, and let me touch your forehead. The scorching sun, the raging storm, and waves of golden sand washing across the desert. The gods set foot upon the land where we were nurtured, and bestowed our tribe with their blessings. Now, I will share this blessing with you, Doctor.
 	박사님, 이쪽으로 와주세요. 응, 좋아. 눈을 감고, 제가 이마를 만지게 해주세요. 뜨거운 태양, 폭풍, 그리고 파도치는 황금빛 모래벌판… 신이 우리를 자라게 한 이 땅에 깃들어, 일족에게 가호와 축복을 내려주시길… 이 축복을, 박사님께도 나누어 드릴게요.
 
-	呼......呼......姐姐......大笨蛋......呼......嗯，嗯？啊，博士，我睡着了......？欸，梦话？我说了什么吗？
 	すぅ……すぅ……お姉ちゃんの……バカ……すぅ……ん、ん…？あれ、ドクター？私、寝てたの……？え、寝言？何か言いました？
 	Zz... zzz... Sister... you dummy... zzz... mm... H-huh, Doctor? I feel asleep...? Sleeptalking? Did I say something?
 	쿨… 쿨… 언니… 바보… 쿠울… 으, 응…? 어라, 박사님? 제가 잠들었었나요…? 네? 잠꼬대요? 뭔가 말했나요?
 
-	......。啊，抱歉，我走神了。你好，博士，我是，我的代号是，呃......对了，我想起来了，是蜜蜡。好听吗？这是最近我的家族的人给我取的！
 	……。あっ、すみません。ぼーっとしてました。はじめましてドクター、私は、私のコードネームは、えーっと……あ、思い出した。ビーズワクス、です。いい名前ですか？このコードネームは一族のみんなが付けてくれたんです。
-	Hmm... Wah, excuse me, I let my mind wander. Hello, Doctor, I am, my code name is... Umm... Ah, I remember! It’s Beeswax. Do you like it? My tribe helped decide it for me. 
+	Hmm... Wah, excuse me, I let my mind wander. Hello, Doctor, I am, my code name is... Umm... Ah, I remember! It's Beeswax. Do you like it? My tribe helped decide it for me. 
 	……앗, 죄송해요. 멍하게 있었네요. 처음 뵙겠습니다, 박사님. 저는, 제 코드네임은, 그러니까… 아, 생각났다. 비즈왁스, 입니다. 좋은 이름인가요? 이 코드네임은 일족 사람들 모두가 지어준 거예요.
 
-	嗯......？这些都要看吗？
 	んん……？これ、全部見るんですか？
 	Hm...? I have to watch all of this?
 	으응……? 이거, 전부 보는 건가요?
 
-	晋升？嗯......不是很明白。
 	昇進？えっと……よくわかりません。
-	Promotion? Mm... I don’t quite understand.
+	Promotion? Mm... I don't quite understand.
 	승진? 저기… 잘 모르겠어요.
 
-	博士，或许罗德岛的前路注定艰险而漫长，但是，请记住，神灵的裁决与我的祝福......不论何时，都与你同在。
 	ドクター、ロドスの前途は多難で長いものになるかもしませんが、でも、覚えててください。神の裁決と私の祝福は……いつだって、あなたと共にあることを。
-	Doctor, perhaps the path that lies ahead for Rhodes Island is destined to be long and difficult, but please remember, the gods’ decrees and my blessings... will always be with you.
+	Doctor, perhaps the path that lies ahead for Rhodes Island is destined to be long and difficult, but please remember, the gods' decrees and my blessings... will always be with you.
 	박사님, 로도스 아일랜드가 앞으로 나아갈 길은 길고 다난할지 모르지만, 그래도 기억해 주세요. 신의 결정과 저의 축복은… 언제나 당신과 함께한다는 것을.
 
-	这次要去哪里呢？
 	今度はどこに行くんですか？
 	Where are we going this time?
 	이번에는 어디로 가나요?
 
-	我当队长......？虽然不知道博士你的选择标准，不过，可以啊。
 	私が隊長……？ドクターの隊長の判断基準はよくわかりませんが、やりますよ。
-	I’m the leader...? Even though I’m not sure how you select your team leaders, I’ll try my best.
+	I'm the leader...? Even though I'm not sure how you select your team leaders, I'll try my best.
 	제가 대장이요…? 박사님의 대장 판단 기준은 잘 모르겠지만, 할게요.
 
-	那么，我们出发吧。
 	では、行きましょうか。
-	Well then, let’s go.
+	Well then, let's go.
 	그럼, 갈까요.
 
-	那边，有什么人在。请大家小心。
 	あっちに何かいます。みんな気をつけて。
-	Someone’s over there. Everyone, please be careful.
+	Someone's over there. Everyone, please be careful.
 	저쪽에 뭔가 있어요. 모두 조심하세요.
 
-	嗯，我在这里。
 	はい、ここにいます。
-	Yes, I’m here.
+	Yes, I'm here.
 	네, 여기 있습니다.
 
-	什么事。
 	なんでしょう。
 	How can I help?
 	무슨 일이시죠?
 
-	这里，就交给我。
 	ここですね。任せて。
 	Over here? Leave it to me.
 	여기네요. 맡겨주세요.
 
-	所站立之地，即为神灵眷土。
 	我が足元が、神に祝福されし大地なり。
 	The land beneath my feet is the domain of the gods.
 	나의 발밑이 신에게 축복받은 대지일지니.
 
-	吞没他们。
 	呑み込め。
 	Devour them.
 	삼켜라.
 
-	压碎他们。
 	押しつぶせ。
 	Crush them.
 	뭉개버려라.
 
-	在金色沙原中睡吧。
 	金色の砂原で眠りなさい。
 	Sleep beneath the golden sands.
 	황금빛 모래벌판에 잠드세요.
 
-	此即为神灵之祝福。
 	此れ乃ち神の祝福なり。
 	This is the blessing of the gods.
 	이것이 바로 신의 축복일지니.
 
-	希望他们，也能够得到祝福......
 	彼らにも、祝福がありますように……。
 	May they also receive the blessing of the gods......
 	그들에게도, 축복이 있기를……
 
-	结束了。呼，博士，我帮上忙了吗？
 	ふぅ、終わりました。ドクター、私は役に立ちましたか？
-	Phew... It’s over. Doctor, was I able to be of use?
+	Phew... It's over. Doctor, was I able to be of use?
 	후우, 끝났어요. 박사님, 제가 도움이 되었나요?
 
-	啊，他们跑掉了。嗯......这样也不坏。
 	あっ、逃げられちゃった。うん……それも悪くないか。
-	Ooh, they got away! Mm... but I guess that’s fine?
+	Ooh, they got away! Mm... but I guess that's fine?
 	앗, 놓쳤다. 응… 그것도 나쁘진 않나.
 
-	已经不行了，博士，我会拖住敌人，请快些离开。
 	もうダメです、ドクター。私が敵を引きつけますから、早く行ってください。
-	We can’t do this anymore, Doctor. I’ll hold the enemies back, so please escape!
+	We can't do this anymore, Doctor. I'll hold the enemies back, so please escape!
 	이제 틀렸어요, 박사님. 제가 적을 유인할 테니까 빨리 가세요.
 
-	好干净的房间，如果不小心把沙子撒上去，是不是不太好？
 	キレイな部屋。うっかり砂を撒き散らしてしまったら大変だよね？
-	What a beautiful room... It’d be troublesome if I accidentally spilled sand over it, right?
+	What a beautiful room... It'd be troublesome if I accidentally spilled sand over it, right?
 	깨끗한 방이네요. 실수로 모래를 뿌려버리면 큰일이겠죠?
 
-	呜啊......又踩到衣服了......
 	うわっ……また裾を踏んじゃった……。
 	W-woah... I stepped on my clothes again...
 	으아! 또 옷자락을 밟아 버렸어……
 
-	啊，博士你看！我又抓到了虫子......！
 	あっ、ドクター、見てください！また虫を捕まえたんですよ……！
 	Ah, Doctor, please look at this! I caught another bug~!
 	앗, 박사님. 보세요! 또 벌레를 잡았어요!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	博士，我在等你呢。
 	ドクター、待ってました。
-	Doctor, I’ve been waiting.
+	Doctor, I've been waiting.
 	박사님, 기다렸어요.
+
+干员档案\Background:
+	基础档案 :
+	【代号】蜜蜡
+	【性别】女
+	【战斗经验】没有战斗经验
+	【出身地】萨尔贡
+	【生日】9月15日
+	【种族】卡普里尼
+	【身高】157cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】ビーズワクス
+	【性別】女
+	【戦闘経験】なし
+	【出身地】サルゴン
+	【誕生日】9月15日
+	【種族】キャプリニー
+	【身長】157cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Beeswax
+	[Gender] Female
+	[Combat Experience] None
+	[Place of Birth] Sargon
+	[Date of Birth] Sept 15
+	[Race] Caprinae
+	[Height] 157cm
+	[Infection Status] 
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 비즈왁스
+	[성별] 여
+	[전투 경험] 전투 경험 없음
+	[출신지] 사르곤
+	[생일] 9월 15일
+	[종족] 카프리니
+	[신장] 157cm
+	[광석병 감염 상황] 의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】普通
+	【战场机动】普通
+	【生理耐受】标准
+	【战术规划】标准
+	【战斗技巧】普通
+	【源石技艺适应性】优良
+
+	能力測定 :
+	【物理強度】普通
+	【戦場機動】普通
+	【生理的耐性】標準
+	【戦術立案】標準
+	【戦闘技術】普通
+	【アーツ適性】優秀
+
+	Physical Exam :
+	[Physical Strength] Normal
+	[Mobility] Normal
+	[Physical Resilience] Standard
+	[Tactical Acumen] Standard
+	[Combat Skill] Normal
+	[Originium Arts Assimilation] Excellent
+
+	종합검진 :
+	[물리적 강도] 보통
+	[전장 기동력] 보통
+	[생체 인내도] 표준
+	[전술 계획력] 표준
+	[전투 기술력] 보통
+	[오리지늄 아츠 적응성] 우수
+
+———————————————————————————————
+
+	客观履历 :
+	干员蜜蜡，来自萨尔贡沙漠深处的古老部族，其本人主动与我们联络，要求登上舰船寻人。在得知所寻目标暂时不会归舰后，蜜蜡小姐申请加入并随行，等待与亲人重逢。
+	蜜蜡现已通过测试获得正式干员身份，作为术师干员为罗德岛提供服务。这里将是她漫长游学试炼中的第一站。
+
+	個人履歴 :
+	ビーズワクスは、サルゴン砂漠の奥地に住む歴史のある部族の出身である。人探しを理由に艦に乗りたいと、彼女のほうから申し出があった。その後探す家族がしばらく戻らないと知った彼女は、申請を出しロドスに加入。ここで再会を待っている。
+	ビーズワクスは既にテストをクリアした正式な術師オペレーターだ。これは彼女にとって、長きに渡る遊学試練の第一歩となるだろう。
+
+	Profile :
+	Operator Beeswax, a member of an ancient tribe from the depths of the deserts of Sargon, contacted us of her own initiative and asked to board the ship in order to locate someone. After learning that the person of interest will not be returning to the ship for the time being, Miss Beeswax has applied to join and travel with Rhodes Island, waiting for the time she can reunite with relative. 
+	Beeswax has passed the entrance examination and has been given the official Operator status, and now serves as a Caster for Rhodes Island. This will be the first stop in her lengthy journey of discovery.
+
+	프로필 :
+	    오퍼레이터 비즈왁스는 사르곤 사막 깊숙한 곳에 자리한 오래된 부족 출신으로, 누군가를 찾고자 직접 로도스 아일랜드에 찾아왔다. 찾고 있는 사람이 잠시 함선으로 복귀하지 않을 것이란 것을 알게 된 후 비즈왁스는 입사 신청 후 친지와의 재회를 기다렸다.
+	    비즈왁스는 현재 테스트를 거쳐 정식 오퍼레이터가 되었으며, 캐스터 오퍼레이터로서 로도스 아일랜드에서 근무 중이다. 이렇게 로도스 아일랜드는, 그녀가 걸어가야 할 긴 배움의 여정의 출발점이 되었다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员蜜蜡没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.11u/L
+	干员蜜蜡的生活环境中少见源石。
+	
+	虽然使用源石技艺难免要接触源石，但她不仅没因此得病，反而相当健康，比我们中的绝大多数人都健康得多。看到她的角了吗？那光泽那颜色，我看一眼就知道那小姑娘肯定什么毛病都没有！
+	——华法琳
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の症状は見られない。
+	
+	【血液中源石密度】0.11u/L
+	源石との接触は極めて少ない。
+	
+	アーツを使うには源石に接触するのは避けられないことだ。だがこの小娘は感染しなかったばかりか、至って健康だ。大半の者たちよりもな。あの角を見たか？あの色、あの艶……健康状態の良さが一目でわかるわ！
+	――ワルファリン
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected. 
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Beeswax has no signs of Originium infections. 
+	
+	[Blood Originium-Crystal Density] 0.11u/L
+	Operator Beeswax seldom comes in contact with Originium in her living environment.
+	
+	Although coming into contact with Originium is inevitable through the course of using Originium Arts, not only has she not fallen ill, but she even seems to be quite healthy - healthier than most of us, in fact. Have you seen the color and sheen of her horns? I could tell at a glance that little girl has nothing wrong with her!
+	—Warfarin
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현단계로서는 광석병 비감염자로 확정.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 비즈왁스에겐 광석병 감염 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.11u/L오퍼레이터 비즈왁스는 생활 환경 속에서 오리지늄과의 접촉이 거의 없음.
+	
+	오리지늄 아츠를 사용하게 되면 어쩔 수 없이 오리지늄과 접촉해야 해. 하지만 비즈왁스는 감염되지도 않았을 뿐만 아니라, 오히려 우리 대다수의 인원보다 더 건강하지. 그 여자의 뿔을 봤나? 그 광택과 색을 본 순간, 이 아가씨는 분명 아무 이상이 없을 거란 느낌이 바로 오더라고!
+	——와파린
+
+———————————————————————————————
+
+	档案资料一 :
+	蜜蜡小姐并没有对我们隐瞒她找上罗德岛的初衷。事实上，在整个见面过程中，她都表现得相当坦诚，这种不遮不掩的态度，也正同她自己描述的经历吻合。这是一个头次踏出家门进行游历，还没有学会掩饰，也丝毫不提防他人的年轻人。
+	据其本人所说，蜜蜡小姐联系罗德岛，是为了寻找先其一步离开部族，外出游历的血亲。而她所要寻找的这位血亲，经过查实，确实是现任的干员之一，隶属于我们之中的某个部门。不过，对方目前正处于秘密任务中，短期内无法回到本舰。
+	对于这样的结果，蜜蜡小姐不加掩饰地展现出了她的失落。来自黄沙中的年轻卡普里尼人平素表情不丰，但当她微微垂下肩膀，眼皮耷拉，那股失落情绪便自这些细微的神色变化中显露无疑。幸好，这种低落情绪没有持续多久，她很快便又重新振作起来。
+	在这时，蜜蜡小姐做出了离家踏上旅途之后，第一个重要决定。
+	她决定要加入罗德岛。
+
+	第一資料 :
+	ビーズワクスはロドスに来た目的を隠すことはなかった。面会の全過程において、彼女の言動は真摯そのものだった。誤魔化すことを知らず、他人への警戒心もない態度……例えるなら、初めて家を出て外の世界を知った若者そのもののまっすぐな言動は、彼女の経歴が正しいことを裏付けるだろう。
+	ビーズワクスの言葉によると、彼女がロドスに連絡したのは、一歩先に部族から旅立った家族を探すためだと言う。確認したところ、彼女が探している家族は確かに現役オペレーターで、ロドスのとある部門に属している。しかし相手は極秘任務に就いているため、短期間のうちに本艦に戻ることはない。
+	事実を知った時、ビーズワクスは失望を隠さなかった。この砂漠から来た若きキャプリニーは普段から表情が乏しい。しかしその微かに肩を落とし、瞼を伏せる姿は、落胆していると明らかに示していた。とはいえ彼女はすぐに立ち直ったのだが。
+	その後ビーズワクスは、故郷を旅立ってから初めての重大決断をした。
+	ロドスに加入したのである。
+
+	Archive File 1 :
+	Miss Beeswax made no attempts to hide her purpose for seeking out Rhodes Island. In fact, she was rather candid throughout the entire meeting, and this straightforward demeanor was consistent with the experiences she had described. In front of us was a young woman who had stepped away from home for the first time, without a deceptive bone in her body or a reason to be wary of others. 
+	According to her statement, Miss Beeswax contacted Rhodes Island in order to find a blood relative who had left the tribe first on a journey. After verification, we found that her relative indeed is an active operator, and belongs to one of our affiliated departments. However, that individual is currently on a secret mission and cannot return to the landship any time soon. 
+	Upon hearing this, Beeswax was visibly dejected. This young Caprinae from the golden sands does not usually display many expressions, but when her shoulders and eyelids droop, one can see subtle hints of the sense of loss she undoubtedly feels. Fortunately, these depressive bouts rarely last long, and she quickly regains her vitality. 
+	At this time, Miss Beeswax made the first important decision since leaving her home to embark on this journey. 
+	She decided to become a part of Rhodes Island.
+
+	파일 자료 1 :
+	    비즈왁스는 우리에게 로도스 아일랜드를 찾아온 목적을 숨기지 않았다. 면담 과정에서도 전반적으로 상당히 솔직한 모습을 보여주었는데, 이런 태도는 그녀가 설명한 스스로의 내력과 부합하는 점이었다. 처음 세상에 나와 아직 숨김이 익숙치 않고, 타인을 전혀 경계하지 않는 젊은이의 모습 말이다.
+	    본인의 진술에 따르면, 비즈왁스가 로도스 아일랜드에 연락을 한 이유는 먼저 부족을 벗어나, 바깥 세상으로의 여행을 떠난 혈족을 찾기 위해서라고 하였다. 그리고 조사 결과, 그녀가 찾는 혈족은 분명 현임 오퍼레이터 중 한 명이며, 로도스 아일랜드의 모 부서에 배치되어 있었다. 하지만 해당 인원은 현재 비밀 임무를 수행중이기에, 단기간 내에는 함선으로 돌아올 수 없는 상황이었다.
+	    이에 대해 비즈왁스는 실망감을 감추지 못했다. 사막에서 온 이 젊은 카프리니는 평소 표정 변화가 많진 않지만, 어깨를 다소 늘어뜨리고 눈꼬리가 내려가는 등의 미세한 변화를 통해 그 실망감을 드러내었다. 다행히 의기소침한 모습은 오래가지 않았고, 비즈왁스는 금새 기운을 차렸다.
+	    그리고 그때, 비즈왁스는 집을 떠나 여행을 나선 이후 첫 번째로 중요한 결정을 내렸다. 로도스 아일랜드에 입사하기로 결정한 것이다.
+
+———————————————————————————————
+
+	档案资料二 :
+	干员蜜蜡十分珍重爱护她的双角，几乎所有与她有过交流的干员都知道这件事。 
+	在卡普里尼、丰蹄，以及其他一些有角族裔的认知中，他们的角绝对是外形里非常重要的一部分，如同目前欣欣向荣、发展势头大好的美容行业一样，对于犄角的护理相关服务也应需求而生，并且广受好评。不过，目前看来我们的干员即便在意形象，大多也并不会特别强求，像是蜜蜡一样，对自己外形中的特定部分展现出强烈关注，甚至掌握诸多相关技巧的干员反而属于少数。 
+	每一天，蜜蜡都会预留出一段时间，用以养护她大而弯曲的犄角。养护的流程通常包括细布擦拭、涂抹精油、软刷护理、磨光等多项步骤，蜜蜡总是一丝不苟地完成所有项目，确保没有任何疏漏。在她一日不间断的努力之下，她的角在色泽、造型以及坚硬度等方面都达到了相当高的水准。
+	通过对其他卡普里尼干员的采访询问，我们可以确定，在卡普里尼人的审美中，干员蜜蜡的角超凡出尘，绝对是难得一见的精美好角。 
+	而当蜜蜡完成了自己每日的护理，闲暇时，她也会帮助其他有此方面需要的干员，这让她很快就在某个小圈子中大受欢迎。
+
+	第二資料 :
+	ビーズワクスは角を非常に大事にしている。これは彼女と交流があるオペレーターであれば誰もが知っている事実である。
+	巷では、近年栄えた美容業と同じように、角のケアを中心とするサービス業が生まれ、好評となっている。しかしキャプリニーやフォルテ、その他の角をもつ種族のオペレーターの多くは、自分の外見を気にしていても、角については手の込んだ手入れをしない。ビーズワクスのように、尋常ならぬこだわりを持ち、手入れのコツをも熟知しているオペレーターは稀なのである。
+	ビーズワクスは毎日、その巨大で曲がりくねった角を細布で拭き、オイルを塗り、ブラシをかけ、布巾で磨く。彼女の角が、色や形、硬さなど色々な面で高い水準を維持しているのは、一日も欠かさない周到なセルフケアのおかげなのである。
+	キャプリニーの目から見てもビーズワクスの角は、非凡な素晴らしさを持つものである――他のキャプリニーオペレーターへの聞き込み調査で、我々はそう確信した。
+	自分の角の手入れを終えた後に暇があれば、ビーズワクスは、同じ需要を持つ他のオペレーターに手を貸すこともある。そのため彼女は、その界隈でたちまち人気者となった。
+
+	Archive File 2 :
+	Operator Beeswax cherishes her two horns greatly, and almost all operators who've talked to her are aware of this. 
+	Among Caprinae, Forte, and other horned races, the horns are a very important part of one's appearance. Akin to the booming and developing beauty industry here, horn care services arose to meet the demand and are well-received. However, even among the operators who are more concerned about their image, very few will make a conscious effort to focus on their appearance. Operators, like Beeswax, who pay close attention their appearance to the point of mastering skills relevant to those interests are among the minority. 
+	Every day, Beeswax sets aside a bit of time to maintain her large, curved horns. This maintenance process usually involves multiple steps such as wiping them down with a fine cloth, applying essential oils, soft brush care, and polish. Beeswax always completes each step meticulously, ensuring that nothing is omitted. Through her persistent effort, her horns have achieved a remarkable state of lustre, shape, and hardness. 
+	Through our inquiries with other Caprinae operators, we have established that even by Caprinae standards, Beeswax's horns are magnificent, a rare and beautiful sight to behold. 
+	After finishing her daily care, Beeswax often provides help to operators who need it, making her very popular within certain small circles.
+
+	파일 자료 2 :
+	    오퍼레이터 비즈왁스는 그녀와 만났던 오퍼레이터라면 모두 알 정도로 자신의 두 뿔을 매우 소중히 여긴다.
+	    현재 나날이 발전해가는 미용 산업과 마찬가지로, 뿔을 관리하는 서비스 역시 니즈에 따라 생겨나 호평을 받고 있다. 이를 통해 알 수 있듯, 카프리니와 포르테, 그리고 기타 뿔이 달린 종족에게 있어 그들의 뿔은 외모에서 굉장히 중요한 부분을 차지한다. 하지만 현재 오퍼레이터들이 외모에 신경 쓰긴 하더라도 대다수는 남에게 이를 특별히 강요하진 않는다. 비즈왁스처럼 자신의 외모 중 특정 부위를 특별히 신경 쓰고, 나아가 이에 관련된 온갖 기술들을 익히는 오퍼레이터는 소수에 불과하다.
+	    비즈왁스는 매일 일정 시간 동안 그녀의 크고 휘어진 뿔을 관리한다. 그 과정은 천으로 닦고 오일을 발라 브러시로 다듬어 광을 내는 등 여러 단계를 거치며, 비즈왁스는 언제나 모든 항목을 하나도 빠뜨리지 않고 철저히 수행한다. 하루도 빠짐없이 공들여 관리한 결과, 그녀의 뿔은 그 색상과 광택, 모양 및 경도 등에서 매우 높은 수준에 이르렀다.
+	    다른 카프리니 오퍼레이터와의 인터뷰를 통해 우리는 카프리니인의 미적 기준에서 보았을 때도, 오퍼레이터 비즈왁스의 뿔이 보기 드물 정도로 굉장히 아름다운 뿔이라는 사실을 확인할 수 있었다.
+	    그리고 비즈왁스가 하루의 관리 과정을 모두 끝내고, 여유가 된다면 종종 이쪽 방면으로의 도움이 필요한 다른 오퍼레이터를 도와주곤 했는데, 그 덕분에 그녀는 일부 소그룹으로부터 성대한 환영을 받을 수 있었다.
+
+———————————————————————————————
+
+	档案资料三 :
+	萨尔贡沙漠深处往来不便，在最为封闭的地区，就连许多信使往往也难以涉足。但对于蜜蜡的部族来说，那些自外界游历归来的年轻部族成员总是会带回他们的所见所得，也因有这种游历的传统，这个黄沙深处的部族并不像其他一些古老部族那样，全盘排斥外来的新鲜事物。
+	除去本族的年轻人，每年还有一两位老练的信使，会在固定时间造访这里，为部族成员带来最新的讯息，以及最新的音乐杂志。
+	蜜蜡不是那种看起来就十分精明的人，相反，女孩的性格单纯，非常好懂。蜜蜡喜欢音乐，在离家时，她随身携带了不少音乐协会发行的杂志，这些杂志新刊在术师小组内大受欢迎，连带着蜜蜡本人也迅速被接纳，十分顺利地与其他干员构建起了良好关系。 
+	尽管女孩平常话不多，大多数时间都安安静静，偶尔还会突然走神，但这并不是说她不会思考。在选择加入罗德岛并成为正式干员这件事情上，蜜蜡并非一时脑热做出的决定，而是有她自己的考量。 
+	她选择留在这里，等待与亲人重逢虽然是最直接的原因，但这只是她的目的之一。在经过一段时间的考察之后，蜜蜡似乎认定，在罗德岛的生活有助于她通过部族的成年试炼——或者说，她认为与罗德岛共同行动，正是试炼中的一环。 
+	在综合考量之后，我们也认为没有理由拒绝一位颇有天赋及实力的术师的加入。一方面，蜜蜡的加入对于我们来说是有益的，另一方面，我们也认为，这对于蜜蜡本人也将会是有益的选择，罗德岛能够向其提供许多更进一步认识这片大地的机会。 
+	
+	顺带一提，在决定正式干员代号时，年轻的卡普里尼人足足拖延了数月，在写信向老家求助后，才最终定下了现在使用的代号。
+
+	第三資料 :
+	サルゴン砂漠の奥地は出入りが困難である。最も閉鎖的な地域は、トランスポーターですら簡単に入ることができない。これはそこに住む人々が限定的な人間関係の中で、古い習慣に固執していることを示している。しかしビーズワクスの部族は違う。若者を外界に送り出す慣習を持つ彼らは、旅立った若者から土産話を聞くことができる。おかげでこの砂漠の奥に住む部族は、他の古い部族のように、新しいものを拒もうとしなかったのである。
+	若い族人の他、ベテラントランスポーターのひとりふたりが、毎年同じ時期に訪れ、部族に最新の情報と音楽雑誌を届ける。
+	ビーズワクスは計算高いタイプではない。むしろその逆で、単純でわかりやすい女の子である。音楽を好む彼女は、家を出る時、音楽協会が発行した雑誌を何冊か荷物に入れていた。それらの雑誌は術師チームの中で大人気となり、雑誌を持ち込んだ彼女本人もすぐ受け入れられることとなった。こうして彼女は、他のオペレーターたちと良好な関係を築いたのである。
+	ビーズワクスは物静かで、たまにボーっとすることがあるが、何も考えていないわけではない。彼女がロドスでオペレーターになったことは一時の衝動ではなく、自身の考えによるものだ。
+	彼女は家族との再会を待つため、ここに留まっている。しかしそれはあくまでの目的の一つである。ビーズワクスはしばらく観察した後、ロドスでの生活は、部族の成人試練を乗り越える一助となると判断したようだ。あるいは、ロドスと共に行動することがまさに試練の一環であると考えているかもしれない。
+	我々は総合的に考察した結果、才能と実力を兼ね備えた術師の加入を拒む理由がないという結論に至った。ビーズワクスの加入は我々にとってはもちろん、彼女自身にとっても有益なことである。ロドスは彼女に、この大地を更に深く知る機会を与えるだろう。
+	
+	余談ではあるが、正式オペレーターになってコードネームを決める際、この若きキャプリニーは数ヶ月もかかったのだ。彼女は実家へ助けを求める手紙を送り、その返事を受けてようやく今のコードネームに決めたのだ。
+
+	Archive File 3 :
+	The heart of the Sargon desert is difficult to traverse, and even experienced Messengers find it difficult to reach the deepest portions. In Beeswax's tribe, it is not unusual for young members of the tribe to go on journeys to the outside world and bring back what they see. Because these journeys have become traditions in their own rights, this particular tribe is unlike many others in that it does not totally reject novel things from the outside. 
+	In addition to these journeys, one or two veteran Messengers may visit each year at certain times to bring the latest news to clan members, including the most recent music magazines. 
+	Beeswax does not appear to be someone who is incredibly shrewd; rather, she is straightforward and easy to understand. She loves music as well. When she left home, she brought with her a number of magazines issued by the Music Society, and these new publications became quite popular among the Caster teams. Even Beeswax herself quick integrated, smoothly establishing good relationships with the other operators. 
+	Though Beeswax doesn't talk much, is quiet most of the time, and tends to lose her train of thought, by no means is she simple-minded. In choosing to officially become an Operator of Rhodes Island, Beeswax did not rush to her decision, but had to weigh a variety of considerations. 
+	The fact that she chose to stay to wait for her relative, while certainly her primary reason, is only one of several considerations. After a bit of inquiry, we determined that Beeswax believes that her time at Rhodes Island will serve as valuable experience to help her pass her tribe's rites of passage to adulthood— or rather, she sees working with Rhodes Island as one rung of that trial. 
+	After comprehensive deliberation, we also saw no reason to deny the participation of a talented and powerful Caster. On one hand, the addition of Beeswax is beneficial to us. On the other hand, we believe that such an option will help Beeswax as well, and Rhodes Island will be able to provide her with many further opportunities to understand this land. 
+	
+	As an addendum, the young Caprinae waited for several months before picking out her official code name. After writing to her hometown for help, she finally decided on the name she now uses.
+
+	파일 자료 3 :
+	    사르곤 사막 깊숙한 곳은 왕래가 불편한 가장 폐쇄적인 지역으로, 많은 전달자들도 찾아가기 힘든 곳이다. 하지만 비즈왁스의 부족에게는 외부로 여행을 다녀온 젊은 부족원이 그들이 보고 느낀 것을 전달해 주는 전통이 있었고, 그 덕에 사막 깊은 곳에 자리 잡은 이 부족은 다른 오래된 부족과 달리 외부에서 들여온 새로운 사물을 전적으로 배척하지 않았다.
+	    부족의 젊은이 말고도 매년 한두 명의 노련한 전달자들이 정해진 시간에 이곳을 방문해 부족원들에게 최신 소식 및 음악 잡지 등을 전해주곤 하였다.
+	    비즈왁스는 겉보기에 그렇게 총명해 보이는 사람은 아니었다. 오히려 성격이 단순하고 이해하기 쉬운 사람에 가까웠다. 음악을 좋아하는 비즈왁스는 집을 떠날 때도 음악 협회가 발행한 잡지를 적지 아니 챙겨 나왔는데, 이 잡지의 신간이 캐스터 팀에서 큰 인기를 끈 덕분에, 이를 가져온 비즈왁스 본인까지도 함께 빠르게 녹아들어 다른 오퍼레이터들과 좋은 관계를 맺을 수 있었다.
+	    비즈왁스는 평상시 말수가 적고 대부분의 시간을 조용히 보내며, 때때로 갑자기 멍하니 있기도 하지만, 그렇다고 그녀가 아무 생각이 없는 건 아니다. 비즈왁스가 로도스 아일랜드에 합류하고 정식 오퍼레이터가 된 일은 한 순간의 충동적인 결정이 아니라, 그녀 나름대로 고심해서 내린 결정이었다.
+	    비즈왁스가 이곳에 남기로 선택한 가장 큰 이유는 자신의 혈족을 다시 만나는 것이었지만, 이는 그녀의 목적 중 하나였다. 심사숙고 끝에, 비즈왁스는 로도스 아일랜드에서의 생활이 부족의 성년식을 통과하는 데 도움을 줄 것이라 생각했다. 혹은 이들과 함께 하는 것이 성년식을 통과하기 위한 과정 중의 하나라고 여겼다.
+	    종합적으로 고려해 봤을 때, 우리는 재능과 실력을 겸비한 이 캐스터의 입사를 막을 이유가 없다고 생각했다. 또 다른 방면으론, 비즈왁스의 입사는 우리에게 있어 이득이기도 하지만, 이건 비즈왁스 본인에게도 있어서도 이득일 것이다. 로도스 아일랜드는 그녀의 세상에 대한 견문을 넓힐 수 있는 기회를 줄 수 있으니까 말이다.
+	
+	    덧붙이자면, 정식 오퍼레이터 코드네임을 정할 때 이 젊은 카프리니는 족히 수개월의 시간을 끌었는데, 그녀는 고향에 편지를 보내 조언을 구한 후에야 비로소 지금 사용하는 코드네임을 정할 수 있었다.
+
+———————————————————————————————
+
+	档案资料四 :
+	在版图广阔却气候较为严苛的萨尔贡深处，散落着数量众多的中小型部族。这其中，一些古老的传统聚落缺乏与外界沟通的渠道，在文化上往往还保留着他们独特的习俗，甚至是当地独特的信仰，干员蜜蜡所属的卡普里尼人部族虽然与外界保持着联络，但他们的习俗和信仰却未因此而丢失。
+	尽管在许多人看来，这些部族所谓的神灵信仰不过是一些粗陋、野蛮的原始遗留，但与此同时，也有个别专门的研究者正试图探明这种古老信仰真正的源流。
+	干员蜜蜡并不避讳向我们讲述她的信仰，从她的讲述中我们可以发觉，她更多使用抽象化的表达方式，试图描绘某种意象化的存在，而非有实际形象的崇拜对象。实际上，就连笃定自己的确获得了神灵祝福的蜜蜡本人，也坦然承认，自己从未真正直视神灵。
+
+	第四資料 :
+	広々とした土地を持ちながら天候に恵まれないサルゴン奥地では、中小の部族が数多く点在している。その中に一部、外界と交信する手段に乏しい古い集落が存在しており、独特な慣習や信仰を保持している。ビーズワクスが属するキャプリニーの部族は外界と交流を行っているが、古くからの慣習と信仰が失われているわけではない。
+	多くの人から見れば、これらの部族の神霊信仰は粗野で野蛮な原始時代の遺物に過ぎない。しかしその歴史ある信仰の真なる源流の究明を試みる専門家もいる。
+	ビーズワクスが私たちに自身の信仰について語った時、彼女は抽象的な表現方法を用いて、それはある種の形而上の存在であり、具体的な信仰対象がいるわけではないと伝えようとしているようだった。実際、自分が神霊の加護を得たと信じて疑わない彼女本人も、神をこの目で見たことはないと認めている。
+
+	Archive File 4 :
+	The heart of Sargon is a vast region with a harsh environment, home to a large number of small and medium-sized tribes. Among them, some ancient tribes lack means of communicating with the outside world, and often retain their unique customs and traditions. Although the Caprinae tribe to which Beeswax belongs does not fall under this category, it still retains its customs despite regular contact with the outside world. 
+	Though many view the so-called 'pagan' beliefs of these tribes as little more than barbaric vestiges of a primitive legacy, there are a few researchers who have been trying to ascertain the true source of these ancient beliefs. 
+	Operator Beeswax is not shy about sharing her beliefs. From her descriptions, she tends to use more abstract expressions, trying to depict a conceptual existence rather than a physical object of worship with an actual image. In fact, even though Beeswax claimed to have received the blessings of the gods, she admitted that she had frankly never directly seen these gods.
+
+	파일 자료 4 :
+	    광활한 대지와 냉혹한 기후를 가진 사르곤의 깊은 곳에는 많은 수의 중소 부족들이 분포해 있다. 그 중 몇몇 전통 부락들은 외부 세계와의 소통 채널이 부족하였고, 문화적으로는 그들만의 독특한 풍습과 심지어는 고유의 신앙까지도 유지하고 있었다. 오퍼레이터 비즈왁스가 속한 카프리니 부족의 경우, 비록 외부 세계와 소통을 하곤 있었지만, 그들의 풍습과 신앙까지 잃어버린 정도는 아니었다.
+	    비록 많은 사람들의 눈에는 이들 부족이 믿는 신령 신앙이 조잡하고 야만적인 원시생활이 남긴 잔재로 보일지 모르겠지만, 소수의 연구 전문가들은 이런 고대 신앙의 진정한 기원을 밝히기 위해 노력하고 있다.
+	    오퍼레이터 비즈왁스는 우리에게 거리낌 없이 그녀의 신앙을 설명해 줬고, 이를 통해 우리는 그녀가 보다 다양한 추상적인 표현 방식을 사용해 실질적인 형상이 아닌, 어떤 상상의 존재로서 숭배 대상을 설명하려 한다는 것을 알아차렸다. 비즈왁스 본인은 자신이 신령의 축복을 받았다고 확신하지만, 지금까지 자신이 실제로 신령을 목격한 적은 없다고 태연히 인정했다.
+
+———————————————————————————————
+
+	晋升记录 :
+	每一个干员都有自己的路要走，罗德岛将是蜜蜡旅途的第一步，这里远远还不是她的终点。
+	我们或许会因种种缘由而结伴同行，我们志同道合，携手并进，但所有人都将找到自己的方向，或迟或早，分别的那一天总会来临。
+	因为没有一条路会是和其他路完全重合的，即便有所交叠，也仅仅只是交叠而已。
+	
+	请记住，不论我们各自去往何方，她给出的那份祝福，都将随你一路前行。
+
+	昇進記録 :
+	オペレーターにはそれぞれ自分の道がある。ロドスはビーズワクスにとって初めの一歩であり、終点からはまだはるか遠い。
+	我々は様々な理由で同じ道をたどり、同士になって歩みを共にする。しかしいずれは各自の方向を見つけ、別々の道を進んでいく。
+	完全に重なる道は存在しない。道が重なることがあるとしても、それはあくまで一時のものに過ぎないのだ。
+	
+	だが覚えていてほしい。どこに向かおうと、彼女が与えた祝福は我々と共にあることを。
+
+	Promotion Record :
+	Every operator has their own journey, and in this case, Rhodes Island is just the first step of Beeswax's journey, not the end. 
+	We may be in each others' company for the time being, like-minded and hand-in-hand, but we will all find our own direction one day. There will come a day when we go our separate ways. 
+	No two roads completely overlap; while they may intersect at times, an intersection is just that. 
+	
+	But do remember that no matter where we go, her blessings will always follow us.
+
+	승진 기록 :
+	    각각의 오퍼레이터들에겐 모두 자신만의 길이 있고, 로도스 아일랜드는 비즈왁스의 긴 여정 중의 첫 출발점이지 절대 그 종점이 아니다.
+	    우리는 이런저런 이유로 손을 맞잡고 함께하고 있지만, 모두들 늦던 빠르던, 언젠간 자신의 길을 찾게 될 것이고, 헤어짐의 순간이 찾아올 것이다.
+	    다른 이의 길과 완전히 겹치는 길은 없으니, 비록 함께하는 구간이 있더라도 그곳은 그저 교차점일 뿐일 것이다.
+	
+	    하지만 기억해주길 바란다. 우리가 각자 어디로 향하든 간에, 비즈왁스가 전해준 축복은 당신과 앞으로도 함께할 것이라는 걸.

@@ -1,11 +1,17 @@
 ID:
 	char_308_swire
 
-干员代号\Name:
+CV:
 	诗怀雅
 	スワイヤー
 	Swire
 	스와이어
+
+干员代号\Name:
+	德井青空
+	徳井青空
+	Sora Tokui
+	토쿠이 소라
 
 招聘合同\Character Usage:
 	近卫干员诗怀雅，来自龙门，愿意为你提供专业的警力协助与额外训练课程。
@@ -43,177 +49,464 @@ ID:
 	협동 작전
 
 语音\Voices:
-	博士，我们的每一分钟，都很重要！一分钟，就有可能是数百万的亏损和额外的伤亡！欸，咖啡？请帮我加一包黄糖，多点奶沫，谢谢！
 	ドクター、アタシたちの時間は、たとえ1分間だけだろうと大切なの！この1分間を無駄にすれば、数百万の損失だけでなくそれ以外にも被害が出るかもしれないのよ！……えっ、コーヒー？スティックシュガー1本、ミルクは多めにしてちょうだいな。ありがとね！
 	Doctor, we can't waste even a single minute of our precious lives! I mean, a minute be the difference in losing millions of dollars, you know? Huh? Coffee? I'll take it with a packet of sugar and lots of milk foam. Thanks!
 	박사, 우리의 시간은 단 1분이라도 소중해! 이 1분을 낭비하면 수백만의 손실뿐만 아니라 다른 피해가 생길지도 모른다고! … 어? 커피? 스틱 설탕 한 봉지에 우유 많이. 고마워!
 
-	虽然有人和我说你们是个黑幕重重的公司，走道里有很多可怕的感染者四处游荡，但我觉得，根本就是夸大其词嘛。罗德岛的干员都在为了更好的生活而奋斗，这不是和龙门警员们一模一样嘛！
 	「ロドスなんてロクな会社じゃないんだ、恐ろしい感染者が至るところにうろついてるぞ」なんて文句を言われたこともあるけど、それって言い過ぎよね？ロドスのオペレーターはみな、より良い生活のために一生懸命頑張ってる。その姿勢に、龍門の警官たちとなんの違いがあるというのかしら！
 	They say Rhodes Island is a criminal organization, full of infected people dirtying up the hallways. But that couldn't be further from the truth. Rhodes Island's Operators are giving their lives to make everything better for everyone, just like the Lungmen police!
 	"로도스 아일랜드 따윈 제대로 된 회사가 아니야, 무서운 감염자들이 여기저기 돌아다니고 있다고" 라는 말을 들은 적도 있는데, 그런 말은 좀 너무하지 않아? 로도스 아일랜드의 오퍼레이터는 다들 더 나은 생활을 위해 목숨 걸고 열심인데… 그런 자세가 용문의 경관들이랑 무슨 차이가 있다는 거야!
 
-	我说，教官办公室的布局，可以调整一下吧？至少加一些装饰，像是手织地毯，或者原子主义画作什么的？现在的办公室也太朴素了，虽然杜宾说她无所谓，但我的工作热情可是会下降的......
 	あのね、教官室のレイアウト、もうちょっとどうにかならないの？せめて調度品を少し増やすだけでも……例えば手織りの絨毯とか、アトミズム派の絵画とかね？今の教官室は殺風景すぎるわ。ドーベルマンはどうでもいいって言ってるけど、アタシのやる気は下がるからね……。
 	Hey, do you think we could redesign the look of the instructor's office? We could at least add a bit of flavor to it like a handmade rug or some atomistic art. It's just so bland now. Dobermann says she doesn't care, but it's really killing my enthusiasm...
 	있잖아, 교관 사무실의 인테리어, 어떻게 좀 안 될까? 적어도 물건을 좀 더 놔두기만 해줘도… 예를 들면 직접 짠 카펫이나, 원자론 학파의 그림 작품 같은 거 말이야. 지금 교관 사무실은 너무 삭막하잖아. 도베르만은 아무래도 상관없다고 말하지만, 내 의욕이 떨어지니까 말이야… 
 
-	唉，那个讨厌的陈，在不在这里？在近卫局的时候，一旦在过道上碰见她，就会被她恶狠狠地盯着，弄得我也开始怀疑自己是不是做错什么了！我不就是......有点，想要接管近卫局而已嘛！
 	はぁ、あの忌々しいチェンは、ここにいないよね？近衛局にいる時は、通路で彼女と顔を合わせただけで憎らしげに睨まれるから、思わず自分がなにか悪いことしたと疑っちゃうわ！アタシはそんな……少ぉし、近衛局を自分のものにしようとしてるだけじゃない！
 	Ahhh, that awful Ch'en isn't here, is she? Back when we were in L.G.D. together, she gave me dirty looks every time we bumped into each other. It made me wonder if I'd really done something wrong! It made me think... maybe... I should take over the L.G.D. myself!
 	하아, 그 짜증 나는 첸 녀석은 여기 없지? 근위국에 있을 땐 복도에서 걔랑 마주치기만 해도 얄밉게 째려보니까, 괜히 나도 모르게 내가 뭐 잘못했나 싶더라니까! 나는 단지… 아주 살~짝, 근위국을 내 걸로 만들고자 할 뿐인데!
 
-	锻炼也是，学习也是，训练也是，研究竞争对手和市场变化也是......全都不能落下！
 	自主トレーニングも研修訓練も、競争相手と市場変化の調査も……全部手を抜けないわ！
 	Exercise, study, training, opposition research, and market forces... You need them all!
 	셀프 트레이닝도 연수 훈련도, 경쟁 상대와 시장 변화의 조사도… 전부 놓치지 않겠어!
 
-	虽然家族同意我暂时放下家族事业，但我很清楚，龙门想要发展，既要有治安和秩序的维护，也要有商业与金融的推动。无论是哪一个领域，只要龙门需要我，我就会投身其中！
 	しばらく一族の事業から身を引くことに家族は認めてくれたけど、アタシはちゃんとわかってるわ。龍門が発展していくためには、治安と秩序の維持だけでなく、商業と金融業の推進も必要だってね。どの分野であっても必要とされれば、アタシは喜んで龍門に身を捧げるつもりよ！
 	My family let me leave behind the family business for a while. But it's clear to me that the future of Lungmen needs both a stable public sector and security apparatus, as well as a healthy business and financial system. On either side, I'm ready to be of service to Lungmen!
 	한동안 일족의 가업에서 손을 떼는 걸 가족은 인정해줬지만, 난 잘 알고 있어. 용문이 발전해 나아가기 위해서는, 치안과 질서의 유지뿐만 아니라, 상업과 금융업의 발전도 필요하다는걸. 어떤 분야라도 날 필요로 해준다면 이 한 몸, 기꺼이 용문에 바칠 거야!
 
-	龙门各署的工作是很复杂的。维护治安，保护民众，疏导交通，贸易协管......唉，每天都忙到腰酸背痛。不过，只要我和部下们做的事对龙门有益我就，哈哈，心满意足！
 	龍門警察の仕事は色々あるのよ。治安の維持、民衆の保護、交通指導、貿易管理……。はあ、毎日忙しくて体中が痛くなるほどだわ。でも、部下たちと為したことが龍門のためになるなら、アタシはもう……ふふ、元気いっぱいよ！
 	The Lungmen bureaucracy is complicated. Keeping the peace, protecting the people, directing traffic, negotiating trade... Agh, it's absolutely backbreaking. But as long as what we do is good for Lungmen, I'll be, hehe, very pleased.
 	용문 경찰의 일에는 여러가지가 있지. 치안 유지, 민중 보호, 교통 지도, 무역 관리… 하아, 매일 바빠서 온몸이 다 쑤실 지경이야. 그래도 부하들과 하는 일이 용문을 위한 거라면, 난 그것만으로… 후후, 기운이 넘친다고!
 
-	博士，为什么罗德岛的训练课程这么短？......资金有限？这怎么行，我要申请调去商务部门！虽、虽然我不喜欢经商，但如果你需要的话，我做这个也......也可以！
 	ドクター、どうしてロドスの研修訓練がこんなに短いの？……予算の問題？なんてことなの。アタシ、商務部への異動を申請するわ！ビ、ビジネスは好きじゃないけど、ドクターが必要だっていうなら、アタシ……アタシ、やるわ！
 	Doctor, why is Rhodes Island's training course so short...? Insufficient capital? Unacceptable, I'm requesting an immediate transfer to the business office! It's-it's not that I like business, it's just that if you need me to do it, I'm... more than capable!
 	박사, 로도스 아일랜드의 연수 훈련은 왜 이렇게 짧은 거야? … 예산 문제? 무슨 말이야 그게? 나, 비즈니스 부서로 이동 신청할게! 비, 비즈니스는 좋아하지 않지만, 박사가 필요하다고 하면, 나… 나, 할게!
 
-	其实我们龙门很需要博士你这样的人才，所以，所以......唔，如果你不喜欢办案，银行业和管理业也可以哦！我，我能为你准备很多机会的！啊？即使在罗德岛也可以合作？......哎呀！！
 	実は、アタシたち龍門にはドクターのような人材が結構必要なの。だ、だから……。も、もし捜査が嫌だと言うなら、銀行や管理職だって、いくらでもチャンスを用意してあげられるから！え？ロドスにいても龍門とは協力できる？……もうっ！！
 	You know, Doctor, Lungmen could use someone as talented as you. So, well... If you're not enjoying this line of work, there's plenty of opportunities in the banking and management sectors! I-I can get you a job! Oh? You'd rather we work with Rhodes Island? ...Fine!
 	실은, 우리 용문엔 박사 같은 인재가 꽤 많이 필요하거든. 그, 그러니까… 호, 혹시 조사가 싫다면, 은행이나 관리직으로 언제든지 기회는 마련해줄 수 있으니까! 뭐? 로도스 아일랜드에 있어도 용문이랑은 협력할 수 있다고? …아 쫌!
 
-	唔咕咕......好，好累啊......果然连续值班......会......呼......呼......
 	うぐぐ……つ、疲れたわ……やっぱり連勤が続くと……すー……すー……。
 	Uughh... I'm exhausted... Two shifts in a row is just... Ung... zzz... zzz...
 	으윽… 피, 피곤해… 역시 연일 근무가 이어지면… 쿨… 쿠울… 
 
-	龙门高级警司诗怀雅，现在，作为训练顾问，受聘于罗德岛。Dr.{@nickname}，为了龙门的未来，我们两人可得好好相处！
 	龍門上級警視のスワイヤーよ。新人訓練の顧問としてロドスに着任したわ。ドクター、龍門の未来のためにも、アタシたち仲良くしましょ！
 	I am Senior Superintendent of the Lungmen Police Department, Swire. I'll be joining Rhodes Island as a training consultant. Dr. {@nickname}, I'm looking forward to working with you for the future of Lungmen!
 	용문 고위 총경, 스와이어야. 신입 훈련 고문으로 로도스에 착임했어. {@nickname} 박사, 용문의 미래를 위해서라도, 우리 친하게 지내자!
 
-	唔唔，这样运用战术理论的话，也行得通！
 	ふむふむ、戦術理論をこういう風に運用しても、うまくいくのね！
 	Hmm, so those tactics work pretty well like this huh!
 	흠흠, 전술 이론을 이런 식으로 운용해도 잘 통하는구나!
 
-	晋升？唔，我在龙门的地位也不会提高吧？但如果你喜欢的话，我、我......要我接受，也不是不行！
 	昇進？ふーん、別に龍門での地位が上がるわけでもないよね？でもアンタがどうしてもって言うなら、あ、アタシ……受けてあげないこともないわよ！
 	A promotion? But it doesn't do anything for me back in Lungmen, does it? Well, anyway, if you insist, I... I guess I have to accept!
 	승진? 흐~음, 딱히 용문에서의 입지가 올라가는 건 아니잖아? 그래도 네가 그렇게 원한다면, 나, 나는…… 못 받아줄 것도 없지!
 
-	也许，你想通过我和龙门缔结友好关系；或者，罗德岛需要我的能力；哪怕，你对我有其它需要......我没法全部保证。但，我会是你最忠诚的伙伴。
 	アタシを通じて龍門と友好関係を結ぶつもりなのか、本当にアタシの力を必要としているのか、それか他に何か目的があるのか……そんなことは知らないし、なんでも応えてあげられるとは限らない……けど、アタシはどこまでも、アンタについて行くわ。
 	Maybe it's that you want to use me to improve your relationship with Lungmen. Or it could be you just need my talents. I guess it could be something else you want... I don't know exactly what it is, and I can't promise I can give it. But I'll follow you to the end.
 	날 통해서 용문과 우호관계를 맺을 생각인지, 정말 내 힘을 필요로 하는 건지, 아니면 다른 목적이 있는 건지…… 그런 건 모르겠고, 뭐든지 다 응해줄 수 있을 거라곤 장담 못 하겠지만, 난 언제까지나 너를 따라갈게.
 
-	终于，需要我的智慧了吗！
 	ついにアタシの知恵が必要になったようね！
 	You finally need my wisdom, huh!
 	드디어 내 지혜가 필요해졌나 보네!
 
-	可要好好听从我的指挥！
 	アタシの指示をしっかり聞きなさい！
 	Follow my orders to the letter!
 	내 지시를 잘 따르도록!
 
-	一口气消灭他们，就能节省开销！
 	ヤツらを一気に制圧して、出費を抑えるわよ！
 	Wipe them out in one fell swoop! It's cheaper that way!
 	녀석들을 단숨에 제압해서 경비 사용을 줄이자!
 
-	快点解决吧，可别浪费我宝贵的时间啊！
 	さっさと終わらせましょ。アタシの貴重な時間を無駄にはさせないわ！
 	Let's finish this quickly. My time is far too precious!
 	빨리 끝내자고. 내 귀중한 시간을 낭비하게 두진 않겠어!
 
-	哈？
 	ええ？
 	Huh?
 	으응?
 
-	敌人的战术，我已经看得很清楚了！
 	敵の手の内は、もう見切ったわ！
 	I've seen through enemy's strategies!
 	적의 수는 이미 간파했어!
 
-	我的战场，可不只是这里！
 	アタシの戦場は、ここだけじゃないんだけどね！
 	This isn't my only battlefield!
 	내 전장은 여기만 있는 게 아닌데 말이야!
 
-	哪怕是竞争对手，也需要一点教育！
 	たとえライバルだとしても、再教育が必要ね！
 	You may be my rival, but you get a lesson too!
 	설령 라이벌이라고 해도, 재교육이 필요하겠어!
 
-	时间就是金钱！
 	時は金なりっ！
 	Time is money!
 	시간은 금이지!
 
-	快点快点，都动起来！
 	さぁさぁ、早くいくわよ！
 	C'mon, let's move!
 	자 자, 빨리 가자!
 
-	龙门有龙门的骄傲！
 	龍門には龍門の誇りがある！
 	Lungmen has its own pride!
 	용문에는 용문의 긍지가 있다!
 
-	该沽出了！
 	売り時と見たわ！
 	Time to sell!
 	매도할 타이밍이 보였어!
 
-	好呀，战斗和商业是一样的，风险与回报并存！
 	良いわね。戦闘と商売は同じ。ハイリスク・ハイリターンよ！
 	Fantastic! In battle as in business: high risk, high return!
 	괜찮네, 전투와 비즈니스는 같은 거지. 하이 리스크 하이 리턴이야!
 
-	资本，就该是兼并和收购！胜利，就该是侦破和搜捕！
 	資本は吸収合併と買い付け！勝利は捜査解決と追跡逮捕よ！
 	Capital is all mergers and acquisitions! Victory is all investigation and arrest!
 	자본은 흡수합병과 매입! 승리는 조사 해결과 추적 체포야!
 
-	不太好，不太好！你还可以做的更好吧？加油，我会和你一起努力的！
 	これではダメよ、ダメ！もっとちゃんと出来るでしょ？アタシも一緒に頑張るから、諦めないで！
 	That was terrible! Awful! You can do better, can't you? We'll do it together. Don't give up!
 	이걸로는 안 돼, 안 된다고! 더 잘할 수 있잖아? 나도 같이 힘낼 테니까, 포기하지 마!
 
-	太、太丢脸了！我居然......居然犯下这种失误！
 	なんて恥さらしを……！アタシが……このアタシがこんなミスをするなんて！
 	How could this have happened? How could I... How could I have screwed that up!
 	이 무슨 망신스러운…! 내가… 이 내가 이런 실수를 하다니!
 
-	还、还不赖......不，这房间还可以再装修下吧！
 	悪くないじゃない……いえ、この部屋、もっと改装したほうがいいわ！
 	Not bad... Wait, this room needs some renovation!
 	나쁘지 않네… 아니, 이 방, 더 개조하는 게 좋겠어!
 
-	大、大胆！
 	こ、この無礼者……！
 	H-how rude!
 	거, 겁도 없이…!
 
-	一......一起吃晚饭吧？我，我来买单好了！
 	いっ、一緒にディナーでもいかが？あ、アタシのおごりよ！
 	How... How about we have dinner together? M-my treat!
 	가, 같이 저녁 식사 어때? 내, 내가 살게!
 
-	明日方舟。
 	アークナイツ。
 	Arknights.
 	아크나이츠.
 
-	嗷呜，博士！
 	ドクター、がおー！なんちゃって。
 	Doctor, ROAR! Just kidding.
 	박사, 어흥~! 농담이야!
+
+干员档案\Background:
+	基础档案 :
+	【代号】诗怀雅
+	【性别】女
+	【战斗经验】三年
+	【出身地】龙门
+	【生日】7月1日
+	【种族】菲林
+	【身高】163cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】スワイヤー
+	【性別】女
+	【戦闘経験】三年
+	【出身地】龍門
+	【誕生日】7月1日
+	【種族】フェリーン
+	【身長】163cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Swire 
+	[Gender] Female 
+	[Combat Experience] 3 years 
+	[Place of Birth] Lungmen 
+	[Date of Birth] Jul. 1 
+	[Race] Feline 
+	[Height] 163cm 
+	[Infection Status] 
+	Non-infected as confirmed by medical report.
+
+	기본정보 :
+	[코드네임] 스와이어
+	[성별] 여
+	[전투 경험] 3년
+	[출신지] 용문
+	[생일] 7월 1일
+	[종족] 필라인
+	[신장] 163cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】标准
+	【战术规划】优良
+	【战斗技巧】标准
+	【源石技艺适应性】标准
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】標準
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】標準
+
+	Physical Exam :
+	[Physical Strength] Standard 
+	[Mobility] Standard 
+	[Physical Resilience] Standard 
+	[Tactical Acumen] Excellent 
+	[Combat Skill] Standard 
+	[Originium Arts Assimilation] Standard
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 표준
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 표준
+
+———————————————————————————————
+
+	客观履历 :
+	诗怀雅，龙门近卫局高级警司。
+	现作为特别合作人员协助罗德岛行动，并为现场提供战术指挥支援。
+
+	個人履歴 :
+	龍門近衛局の上級警司。
+	特別協力者としてロドスと行動を共にしており、現場では戦術指揮の支援も行う。
+
+	Profile :
+	Swire, Senior Superintendent of the Lungmen Guard Department.
+	Now a special attache at Rhodes Island, providing on-site tactical command.
+
+	프로필 :
+	    용문근위국의 고위 총경. 현재 특별 협력 인원 신분으로 로도스 아일랜드 작전에 협력 중이며, 현장에서 전술 지휘를 지원하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	体检对象没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.13u/L
+	体检对象的数值十分正常，可能很少接触源石制品。
+	
+	不用担心，诗怀雅小姐，罗德岛的体检费用很低，你只需要缴纳......
+	——医疗干员S.S.E
+	
+	任何借机讹诈访客的行为都将被严肃处理。
+	——凯尔希医生的批注
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.13u/L
+	
+	数値はいたって正常。源石との接触は極めて少ないと思われる。
+	
+	ご安心ください、スワイヤー様。ロドスのメディカルチェックは安価ですから。少しばかりお納めいただきはしますが……
+	——医療オペレーターS.S.E
+	
+	如何なる状況においても、それを利用して不当に客人から金品を騙し取る行為は厳しく処罰する。
+	——ケルシー医師による注釈
+
+	Clinical Analysis :
+	Imaging tests for this Operator showed clear outlines of internal organs without any unusual dark spots. No abnormal traces of Originium particles present in her system, no symptoms of Oripathy, confirming her as Uninfected. 
+	
+	[Cell-Originium Assimilation] 0% 
+	No signs of Oripathy present. 
+	
+	[Blood Originium-Crystal Density] 0.13u/L 
+	Subject's vital indicators are all normal, suggesting she is rarely exposed to Originium. 
+	
+	Don't worry, Ms. Swire, Rhodes Island's hospital fees are quite reasonable. You only have to pay... 
+	--S.S.E., Medic Operator 
+	
+	Any unfair charges to patients will have appropriate consequences. 
+	-- Dr. Kal'tsit
+
+	임상 진단 분석 :
+	    방사선 검사 결과, 해당 오퍼레이터의 내장 기관 윤곽이 뚜렷하며, 비정상적인 음영이 발견되지 않음. 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음. 현단계로선 광석병 비감염자로 확인할 수 있음.
+	
+	[체세포와 오리지늄 융합률] 0%
+	검사 대상은 오리지늄에 감염된 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.13u/L
+	검사 대상의 수치는 지극히 정상이며, 오리지늄과 접촉한 횟수가 극히 적은 것으로 보임.
+	
+	    걱정하지 마세요, 스와이어 씨. 로도스 아일랜드의 검사 비용은 매우 저렴합니다. 이 정도만 납부해주시면…… 
+	——메딕 오퍼레이터 S.S.E
+	
+	    손님을 대상으로 한 사기 행위는 모두 엄격히 처리할 예정이다.
+	——닥터 켈시의 코멘트
+
+———————————————————————————————
+
+	档案资料一 :
+	其实诗怀雅小姐并不太擅长源石技艺，最多也就是能远程操作一下源石无人机的程度，但她说这样已经够了。
+	确实，只要在无人机上面加一个扩音器，诗怀雅小姐的声音就能传到所有龙门警员的耳朵里。对于指挥人员来说，这真的很方便！
+	不过想一想，诗怀雅小姐的声音会在战场上四处回荡，也有些可怕......
+
+	第一資料 :
+	実のところ、スワイヤーはアーツがあまり得意ではなく、源石ドローンを遠隔操作するのが精一杯のようだ。本人はそれで十分だと言っているが。
+	確かに、ドローンに拡声器を取り付けさえすれば、スワイヤーの声は龍門警官全員の耳に届く。指揮を執るのにはかなり役に立ちそうだ。
+	しかし、よく考えてみれば、スワイヤーの声が戦場中に響くこと自体、少し怖いかもしれない……。
+
+	Archive File 1 :
+	Swire has no aptitude for manipulating Originium. The most she can do is remote-pilot an Originium drone, but this is adequate for her needs. 
+	Adding a loudspeaker to such a drone lets her beam her voice to every officer in the field, a technique she has used to great effect! 
+	But thinking about Swire's voice booming across a battlefield is rather intimidating...
+
+	파일 자료 1 :
+	    사실 스와이어는 오리지늄 아츠를 잘 다루지 못한다. 기껏해야 원거리에서 오리지늄 드론을 조종할 수 있는 수준이지만 그녀는 이 정도로도 충분하다고 한다. 확실히, 드론에 확성기 하나만 장착하면 스와이어의 목소리가 모든 용문 경찰들의 귀에 닿을 수 있으니, 지휘관에게는 매우 편리할 것이다! 하지만 가만히 생각해보면, 스와이어의 목소리가 온 전장에 울린다고 상상하니 조금 무섭기도 하다…… 
+
+———————————————————————————————
+
+	档案资料二 :
+	虽然各位警员从来不在诗怀雅小姐面前提起，但大家都对一个事实心知肚明。
+	——诗怀雅小姐，是超级有钱人吧！
+	她的家族企业，在龙门拥有好几块城区啊！而她家族在维多利亚的产业，比在龙门的还要大！
+	为什么诗怀雅小姐没有继承家业反而跑来指挥龙门警员，她究竟在想什么？
+	警员们常常会跟在诗怀雅小姐的身后，默默地想着这个问题，直到任务结束或者诗怀雅小姐把他们轰走，毕竟警员们还是很忌惮诗怀雅小姐手上那柄十分凶狠的链锤的。
+	而现在就连罗德岛的干员们，也开始了同样的行为。
+	“她还是有些小姐脾气的。而且她其实挺抠门的。”一位不愿透露姓名的龙门警员如此表示。
+
+	第二資料 :
+	警官たちはスワイヤーの前では絶対に口にしないが、あることが周知の事実になっている。
+	「スワイヤーさんは……スーパーセレブに違いない！」
+	「スワイヤーさんのご家族が経営している企業は、龍門の市街エリアをいくつも抱えてるんだ！しかもヴィクトリアでも事業を展開していて、規模は龍門のものより大きいとか！」
+	「なんでスワイヤーさんは家業を継がずに龍門警察の指揮官をやってるんだ？なにを考えてるんだろう？」
+	警官たちはスワイヤーの後ろで任務が終わるまで、あるいはスワイヤーの手にある凶悪な武器に追い払われるまで、そんな事をいつも考えている。
+	そして今となっては、ロドスのオペレーターたちも同じ事を考えている。
+	「あの人にはやっぱりお嬢様気質なところがある。しかも実は……どケチなんだ。」とある匿名希望の龍門警官はそう評した。
+
+	Archive File 2 :
+	Although her police officers would never say anything in front of Swire, they gossip extensively about her. 
+	'Swire must be super rich!' 
+	'Her family business owns some property in Lungmen! And they have even more in Victoria!' 
+	'Why did she choose to be a police officer instead of inheriting the family business? What was she thinking?' 
+	The officers would mutter amongst themselves behind Swire's back until they finished their mission or she lashed out at them. They were still fearful of Swire, as she always had her dreaded hammer in hand. 
+	Now the Rhodes Island Operators do more or less the same thing. 
+	'She sure is testy. And she's really mean.' -a Lungmen police officer who asked to not be named.
+
+	파일 자료 2 :
+	    경찰들이 스와이어 앞에서 직접적으로 얘기하지는 않지만, 모두들 한가지 매우 확실하게 알고 있는 사실이 있다. 그건 바로 스와이어 씨가 엄청난 부자라는 사실! 그녀의 가족 기업은 용문 도심 구역에 땅을 여러 군데 소유하고 있다는 것이다! 게다가 빅토리아에 있는 그녀의 가족 산업의 규모는 용문에 있는 것보다 더 크다!
+	    스와이어는 왜 가업을 잇지 않고 용문에 와서 경찰을 지휘하고 있는 걸까, 대체 무슨 생각이지? 경찰들은 자주 스와이어의 뒤에서 몰래 임무가 끝나거나 스와이어가 쫓아 낼 때까지 이 문제에 대해 수군거리곤 한다. 어쨌든 경찰들은 스와이어의 손에 들린 흉악하게 생긴 플레일을 매우 두려워하며, 현재는 로도스 아일랜드의 오퍼레이터들도 같은 행동을 하기 시작했다.
+	    "그녀는 부잣집 아가씨 특유의 성질머리가 있다. 게다가 사실 매우 인색하다."——실명 노출을 꺼려하는 익명의 용문 경관
+
+———————————————————————————————
+
+	档案资料三 :
+	在和诗怀雅小姐交流之后，大多数干员都看到了诗怀雅小姐除了严格之外还有热情的一面。
+	如果是必要的开销，诗怀雅小姐填写账单时绝对面不改色；一旦涉及到哪怕是稍微有些宽泛的款项，诗怀雅小姐就会疑心很重地抬起眉毛，一栏一栏地点查，用钢笔圈出她所有有疑问的开支。
+	当她生气时，也会爆发出和她维多利亚贵族形象完全不符的龙门市井气质，无论是哪句话都让人目瞪口呆。
+	即使这样，警员和干员们依然愿意和诗怀雅小姐共事。一方面，虽然诗怀雅小姐不如陈小姐那样雷厉风行，但她的专注可靠让她成为了一个不错的上司；另一方面，诗怀雅小姐很乐意分享她的好心情，辛苦工作后，诗怀雅小姐经常会自费犒劳所有人。
+	“她真的是在和你、和所有人一同努力。” 一位不愿透露姓名的龙门警员如此表示。
+
+	第三資料 :
+	スワイヤーと交流したほとんどのオペレーターが、厳しい一面以外に、情熱的な一面も見えたと語る。
+	もしもそれが必要な出費ならスワイヤーは顔色ひとつ変えず帳簿をつけるが、少しでも対象範囲外と思われる項目となれば疑いの目を向け、眉を吊り上げながらひとつひとつ精査し、怪しい項目には全てペンで丸くチェックを書き入れていくという。
+	彼女が怒る時も、ヴィクトリアの貴族を思わせる外見からは想像できないほどの龍門の下町気質が爆発するという。その状態の彼女から放たれる言葉を受けた者は、目を白黒させることしかできないだろう。
+	しかしそんな彼女でも、警官やオペレーターたちはスワイヤーと共に仕事をすることを厭わない。スワイヤーはチェンほど厳格かつ迅速に仕事を進めるわけではないが、ひたむきさと頼りになるところが彼女を良い上司に押し上げている。さらに、彼女は喜びを分かち合うことを良しとし、仕事を終えた後はいつも自腹で慰労会を開いている。
+	「スワイヤーさんは本当に、全ての人たちと一心同体になったつもりで努力されているんです。」とある匿名希望の龍門の警官はそう評した。
+
+	Archive File 3 :
+	After speaking with Swire, most people find her as passionate as she is strict. 
+	Swire is fine paying necessary expenses, but if she thinks a bill is too high, becomes intensely suspicious. She will double check her accounts and circle any seemingly dubious charges. 
+	When she is angry, she deviates from her noble Victorian image. She will charge across the Lungmen street markets and no one can stop her.v
+	Despite this, everyone is still willing to work with her. Swire is not as aggressive as Ch'en, but her focus makes her a good boss. In addition, she is very happy to share when she is in a good mood, and she will often pay everyone who's gone the extra mile out of her own pocket. 
+	'She really works hard with you. She works like that with everyone.' -a Lungmen police officer who asked to not be named
+
+	파일 자료 3 :
+	    스와이어와 함께 지내본 대다수의 오퍼레이터들은 스와이어에겐 엄격한 모습 말고 열정적인 면도 있다는 걸 알고 있다. 스와이어는 써야할 때는 확실히 쓰는 편이지만, 아주 조금이라도 허술하게 표기된 장부가 있다면, 스와이어는 의심 가득한 표정으로 눈썹을 치켜들고 한 항목 한 항목 검사하여, 모든 의심스런 지출을 펜으로 체크한다.
+	    그녀가 화를 낼땐 빅토리아 귀족이 아닌 용문 상인의 기질을 드러내는데, 한 마디 한 마디가 사람들의 눈을 휘둥그레하게 만든다.
+	    하지만 많은 경찰과 오퍼레이터는 여전히 스와이어와 함께 일하길 원한다. 비록 스와이어가 첸 처럼 빠르고 맹렬하진 않지만, 그녀의 열정적이고 믿음직스런 모습이 그녀로 하여금 괜찮은 상사로서 거듭날 수 있게 해주었다. 이외에도, 스와이어는 힘든 업무가 끝나면 늘 기꺼이 자비를 털어 열심히 일 한 사람들의 노고를 달래는 회식 자리를 마련한다.
+	"그녀는 당신을 포함하여, 모든 사람들과 함께 최선을 다하고자 노력하고 있다."
+	——실명을 밝히길 원치 않는 한 용문 경관
+
+———————————————————————————————
+
+	档案资料四 :
+	那次绑架案啊，我是还记得。
+	应该是近卫局还没成型的时候，魏长官已经决定要整治整座龙门城，绑架案算是个开端。
+	劫匪很厉害，反侦察能力相当惊人，火力也很猛。一旦处理失误，人质就会丧生，所有努力都会白费。
+	人质的祖父是个非常强硬的老人，似乎还是维多利亚的贵族。我认为绑匪是有意识地选择目标的，他们不是真的要赎金。通过各种渠道大肆宣传，绑匪想让整个城市看到撕票的过程，削弱魏长官的影响力和控制力。嗯，他们绝不是普通的职业绑匪，这事没那么简单。
+	营救是由魏长官和人质的祖父联手策划的，动用了还在经受秘密训练的某支队伍去做这件事。题外话，这支队伍算是近卫局特别督察组的雏形，街边小报天天都写，还有好几部小说呢。
+	结果还算令人满意。主犯被处决，从犯大多被当场击毙。
+	人质当时只是个小姑娘。哎，这几个老家伙是不是没想过这可能对人质造成多大的心理创伤啊。
+	辛亏她没看到。她看到的是龙门警员抱着她冲出战场，她看到的是圣诞节的大雪，她看到那座废弃大楼外的圣诞树和街灯。还挺好看的。
+	真希望龙门警员给她留下了些好印象。
+	我怎么知道的？老警员们和我说的啊。大家都对这件事非常自豪呢，哈哈。
+	哎，别问我了呀！你这种笃定我身上有什么秘密的口气是怎么回事啊！
+	
+	——龙门近卫局督察星熊的口述
+
+	第四資料 :
+	あの誘拐事件ですか……覚えております。
+	近衛局がまだ完全には発足していない頃の事件です。ウェイ長官が龍門全体の整理整頓を決め、それに端を発した誘拐事件であったとされています。
+	犯人は手慣れており、恐ろしいほどの偽装工作の腕前と、かなりの火力を持っていました。少しでもミスすれば、人質を失い全ての努力が水の泡になるような状況でした。
+	人質の祖父は非常に手厳しい老人で、ヴィクトリアの貴族でもあるようでした。小官の推測ですが、犯人は意図的にターゲットを選んでおり、真の目的は身代金ではなかったと思います。情報が広範囲に拡散されるのを待ち、その後龍門中に人質を殺める様子を流すことで、ウェイ長官の影響力と支配力を弱体化させようとしていたのではないかと。ええ、彼らは決して並の誘拐犯ではありません。そんな単純な事件ではないように思います。
+	救出作戦は、ウェイ長官と人質の祖父が共に考案した計画に沿って、極秘の訓練に参加中だった某部隊を動員して行われました。余談ですが、その部隊が近衛局特別督察隊の前身に当たります。当時は街の情報誌に大量に報じられましたし、事件を元にした小説も何冊も出版されていますよ。
+	ええ、作戦は満足のいく結果となりました。主犯は処刑され、多くの共犯者もその場で銃殺されました。
+	人質は、当時まだ幼い女の子でした。はあ、あの老人たちは人質にトラウマを植え付ける可能性があるとは考えなかったのでしょうか。
+	幸いにも彼女はその瞬間を目撃しなかったそうです。彼女が目にしたのは、自分を抱えて戦場を飛び出す龍門の警官、クリスマスに降りしきる雪、廃ビルの外に立つクリスマスツリーと街灯だったという。悪くない光景だったかもしれませんね。
+	彼女が少しでも龍門警察に良い印象をもっていてくれるといいんですが。
+	どうして小官が存じているか、ですか？古くからいる警官たちが話して聞かせるのですよ。皆この事件を解決したことが何よりの自慢らしいです、ふふ。
+	……ああ、これ以上は聞かないでください。小官がまだ何か秘密を隠しているような口ぶりはおやめください……。
+	
+	——龍門近衛局、ホシグマ督察による口述
+
+	Archive File 4 :
+	I still remember that one kidnapping case. 
+	It must've been before the Guard Department was founded, and Wei Yenwu had decided to clean up Lungmen. This kidnapping was the big thing in that campaign. 
+	The kidnappers were really something. They had serious firepower, enough to wipe out all our detectives. If we screwed up, they would've killed the hostage and all our effort would've been for nothing. 
+	The hostage's grandfather was a tough old man who seemed to be Victorian nobility. I think the kidnappers had some reason to go after this kid and it wasn't ransom. They wanted their story to be streamed to the public so Wei Yenwu would look weak. They weren't just ordinary kidnappers. It wasn't that simple. 
+	The rescue mission was planned by Wei Yenwu and this kid's grandfather. They used a secret special ops team. It's beside the point, but that team was the prototype for the Guard Department's Special Inspection Unit. There were a lot of tabloids and novels written about them. 
+	Anyway, they pulled it off. The ringleader was executed and most of his accomplices were killed on the spot. 
+	The hostage? She was just a little girl. The kidnappers clearly didn't think about how traumatic the experience would be for her. 
+	She didn't end up seeing anything gruesome. She saw a Lungmen police officer rushing out. She saw the heavy Christmas snowfall. She saw the street lamps and the Christmas tree outside the abandoned building. That's pretty good. 
+	I hope the officers left a good impression on her. 
+	How do I know all this? Some old police officers told me about it. Everyone's really proud of that mission! 
+	Hey, don't ask me! I got nothing to hide. 
+	--A Lungmen Guard Department supervisor
+
+	파일 자료 4 :
+	    그 납치 사건 말인가, 물론 기억하고 있지. 근위국이 아직 설립되지 않았을 무렵이었을 거야. 웨이 장관께선 이미 용문 시 전체를 정비하기로 결정하셨었고, 납치 사건은 그 시작이라 할 수 있었지.
+	    강도단은 대단했어. 정찰을 피하는 능력도 매우 놀라웠고, 화력도 엄청 강했어. 한 번의 실수 만으로도 인질이 생명을 잃고, 모든 노력이 물거품이 돼버릴 그런 상황이었지.
+	    인질의 할아버지는 엄청 강직한 노인이셨는데, 빅토리아의 귀족 같더라고. 난 납치범이 어떤 목적을 가지고 목표를 선정했다고 생각했는데, 걔네가 진짜로 원했던 것은 몸값이 아니라, 모든 채널을 통해 도시 전체가 인질이 살해되는 장면을 보여주어 웨이 장관님의 영향력과 관할권을 약화시키려 했던 거야. 맞아, 절대 평범한 납치범이 아니었지. 안 그러고서야 그렇게 간단히 추진할 수 있을리 없으니까.
+	    구출 작전은 웨이 장관님과 인질의 할아버님이 함께 계획을 짰는데, 당시 아직 비밀리에 훈련을 받고 있었던 한 팀을 동원해 이 사건을 처리하기로 했었어. 여담이지만, 이 팀이 바로 지금의 근위국 특별감찰팀의 전신이라고 할 수 있는데, 나중엔 노점에서 팔리는 신문에도 매일 기사가 실리고, 나중엔 소설로도 몇 편 나왔다더라고.
+	    결과는 매우 만족스러웠어. 주범을 포함해서, 같이 있던 대부분의 공범들이 현장에서 사살되었으니까. 인질은 당시 아주 어린 소녀였는데, 하아… 이 놈들은 인질한테 얼마나 심한 트라우마가 될지 생각 같은 걸 안 하고 사는지 원… 
+	    그 아이는 아무 것도 못 봤다니 천만다행이었지. 그 아이가 본 건 용문 경찰이 자기를 안은 채 현장을 뛰쳐나간 것, 크리스마스에 내리는 함박눈, 폐건물 밖에 있는 크리스마스 트리와 가로등이었어. 그것도 무척 아름다운… 
+	    용문 경찰이 그 아이한테 좋은 인상을 남겨줬으면 정말 좋겠는데 말이야. 내가 이런 걸 어떻게 아냐고? 그야… 연륜있는 경찰분들이 얘기해줘서 아는 거지. 이 사건을 다들 매우 자랑스러워하시더라고, 하하…
+	    하아, 캐묻지 좀 마! 대체 왜 내가 꼭 무슨 비밀을 알고 있을 거라 생각하는 건데!
+	——용문근위국 특별감찰팀 호시구마의 구술
+
+———————————————————————————————
+
+	晋升记录 :
+	什么时候她把她在挎包里塞一大堆东西的习惯改了，我就什么时候原谅她拿错我的包害我便衣的时候在公车上掏出两支口红和一瓶定妆液逮捕歹徒的事。
+	
+	——不愿透露姓名的陈姓警官
+
+	昇進記録 :
+	ヤツがバッグに物をパンパンに詰め込む習慣を改めたら、ヤツがバッグを間違えたせいで、私が私服のままバスの中で、口紅2本と化粧下地の瓶を持ちながら犯罪者を逮捕する羽目になった件を許そう。
+	
+	——匿名希望のチェン警官（仮名）
+
+	Promotion Record :
+	When did she break the habit of stuffing everything in her bag? And when should I forgive her for walking off with my bag, leaving me with nothing but a couple tubes of lipstick and a bottle of foundation to execute an arrest with? 
+	
+	--An officer who does not want to be named but is named 'Ch'en.'
+
+	승진 기록 :
+	    스와이어가 자기 가방에 물건을 잔뜩 쑤셔 넣는 습관을 고치기만 한다면, 난 그녀가 내 가방을 잘못 들고 가는 바람에 내가 사복 차림으로 버스에서 립스틱 두 개와 파운데이션을 꺼내 범인들을 체포한 사건을 용서해줄 수 있다.
+	
+	——실명을 밝히길 원치 않는 첸 모 경관
