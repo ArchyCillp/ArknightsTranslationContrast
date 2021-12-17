@@ -1,632 +1,1580 @@
 2:03 P.M. 天气/晴朗
+p.m. 2:03 天気/晴天
+2:03 P.M. \ Clear
+2:03 P.M. 날씨/맑음
 
 钢铁萝卜城城外矿区 26号矿井
+アイアンロボットシティ郊外採掘エリア 26号鉱坑
+Steel Robot City Exterior Mining Site, Mineshaft #26
+아이언 로봇 시티 외곽 광산지역 26호 갱도
 
 [name="雷姆必拓工人"]辛苦了，老约翰。下井结束了？
+[name="レム・ビリトン鉱員"]お疲れさま、ヨハンさん。採掘は終わったかい？
+[name="Rim Billiton Worker"]Tough shift, Johnny. Done down there?
+[name="림 빌리턴 인부"]수고했어, 요한. 채굴 작업은 끝난 거야?
 
 [name="老约翰"]呼。
+[name="ヨハン"]ああ。
+[name="Johnny"]Phew.
+[name="요한 영감"]후우……
 
 [name="老约翰"]累死了，拉我一把。
+[name="ヨハン"]ふぅ……ヘトヘトだ。引っ張り上げてくれよ。
+[name="Johnny"]I'm buggered. Pull me up.
+[name="요한 영감"]힘들어 죽겠네. 나 좀 끌어 올려 줘.
 
 [name="雷姆必拓工人"]呃，我这可是干净衣服......
+[name="レム・ビリトン鉱員"]へへ、あいにくこっちはまだ服が綺麗なもんで……
+[name="Rim Billiton Worker"]Er, I'm in all clean clothes...
+[name="림 빌리턴 인부"]엇, 이거 깨끗한 옷인데……
 
 [name="老约翰"]有什么好嫌弃的，你还不是，下一班就要到下面去了。
+[name="ヨハン"]何を嫌がってんだ。どうせ次の班でお前も下に降りるじゃねえか。
+[name="Johnny"]What's your problem, eh? You're going under next, aren'tcha?
+[name="요한 영감"]그게 뭐 어때서, 어차피 다음 타임엔 너도 내려가야 할 거잖아.
 
 [name="老约翰"]找我有什么事？
+[name="ヨハン"]で、何の用だ？
+[name="Johnny"]What did you need me for?
+[name="요한 영감"]무슨 일이야?
 
 [name="雷姆必拓工人"]安保人员到了，过来问问下面的情况。
+[name="レム・ビリトン鉱員"]安全保障員が到着してさ、それで下の状況はどうかって。
+[name="Rim Billiton Worker"]Security inspector's here. Come to ask the state of things down below.
+[name="림 빌리턴 인부"]보안요원이 왔어. 아래 상황을 물어보더라고.
 
 [name="老约翰"]能有什么情况，我带的班，这么多年出过什么岔子？
+[name="ヨハン"]どうもこうもあるか。俺の率いる班が、長年やってきて一度でもしくじったことがあるか？
+[name="Johnny"]What state of things? When's any shift I've led all these years had a slip-up?
+[name="요한 영감"]상황은 무슨…… 그동안 우리가 언제 사고 친 적 있었어?
 
 [name="老约翰"]让安检员直接去和下一班班长交接。
+[name="ヨハン"]あいつらにゃ直接次の班長と引き継ぎをさせとけ。
+[name="Johnny"]Send ol' Inspeccy to talk with the next shift leader.
+[name="요한 영감"]보안요원한테 직접 내려가서 다음 타임의 작업반장이랑 얘기하라고 해.
 
 [name="老约翰"]我要去痛快地洗个澡，他们安保部门的想等我就老实等着吧。
+[name="ヨハン"]俺は早いとこ、ひとっ風呂浴びてえんだ。もし俺に用があるってんなら、おとなしく待たせときゃいい――
+[name="Johnny"]I'm having myself a nice bath. If the Security cohort want to wait for me, they can wait patient.
+[name="요한 영감"]난 가서 씻어야겠으니까, 보안요원들이 날 기다리겠다면 잠자코 기다리라고 해.
 
 [name="老约翰"]......哟，意外。
+[name="ヨハン"]……おっと、こりゃあ意外な客だな。
+[name="Johnny"]...Oh, there's a surprise.
+[name="요한 영감"]……엇, 이게 누구야.
 
 [name="老约翰"]这不是小姑娘嘛。长途旅行回来啦？
+[name="ヨハン"]小娘じゃねえか。ようやく長旅から帰ってきたのか？
+[name="Johnny"]If it isn't our girl. Back from that long trip of yours?
+[name="요한 영감"]꼬마 아가씨로군. 긴 여행이 끝난 건가?
 
 [name="暴行"]好久不见，顽固老头儿。
+[name="サベージ"]久しぶりだね、頑固じいさん。
+[name="Savage"]Been an age, you boneheaded oldie.
+[name="새비지"]오랜만이야, 고집불통 영감님.
 
 [name="暴行"]什么叫长途旅行......我可是去正经工作的。
+[name="サベージ"]長旅って……れっきとした仕事だったんだからね。
+[name="Savage"]And what do you mean, long trip...? I'm doing proper work, you know.
+[name="새비지"]여행은 무슨…… 일하러 간 거였다고!
 
 [name="老约翰"]别那么严肃嘛。我知道，你是派驻到巴别塔那边交接，顺便跟着干大事了。
+[name="ヨハン"]わかってるって、細かいことは気にすんな。バベルに駐在して引き継ぎをやって、ついでにでっけぇ仕事をこなしたって聞いてるぞ。
+[name="Johnny"]Lighten up, now. I know, you're posted over at Babel, doing big things just all the livelong day.
+[name="요한 영감"]정색하긴…… 알아, 바벨에 파견 나가선 인수인계하러 간 김에 큰일을 했다지.
 
 [name="老约翰"]这两年，见了不少世面吧？
+[name="ヨハン"]この二年で、ずいぶん外で見聞を広めたんじゃないか？
+[name="Johnny"]Seen plenty of the world these two years, haven'tcha?
+[name="요한 영감"]그래서, 세상 구경 좀 했나?
 
 [name="暴行"]没什么大不了的......换个地方待着罢了。
+[name="サベージ"]そんな大したことじゃないよ……ちょっと別の場所で過ごしてたってだけじゃない。
+[name="Savage"]Nothing all that scary... tagging along around different places, that's all.
+[name="새비지"]별거 없던데? ……그냥 장소만 바뀐 것뿐이니까.
 
 [name="暴行"]而且，我的工作也涉及不到什么核心内容。
+[name="サベージ"]それに、わたしの仕事は別にそれほど重要な内容でもなかったし。
+[name="Savage"]And I mean, my work didn't even touch on any core details.
+[name="새비지"]게다가 그렇게 대단한 일을 한 것도 아니고.
 
 [name="老约翰"]哼，你也真是，现在知道回来了。
+[name="ヨハン"]フン、相変わらずだな、お前って奴は。
+[name="Johnny"]Hmph. Get a load of you. Finally knowing to come back.
+[name="요한 영감"]흥, 여전하구나. 이제야 네가 돌아온 것 같아.
 
 [name="老约翰"]不知道是上头还是巴别塔出了什么事，本来合作得好好的，突然就那样，说结束就结束了。
+[name="ヨハン"]それにしても、こっちの問題かバベルの問題かは知らねえが、元々うまくやってたのに、突然仕事が終わりになるなんてな。
+[name="Johnny"]Don't know if it was something upstairs or at Babel, but they were getting along just fine, and then suddenly, there they are, over 'cause they say it's over.
+[name="요한 영감"]윗선인지 바벨 쪽인지 어디서부터 문제 생겼는지 모르겠지만, 내내 협력 잘하다가 갑자기 그렇게 끝내버리니, 참.
 
 [name="暴行"]......老实说，我也毫无头绪。
+[name="サベージ"]……正直言って、わたしにもさっぱり分からないんだよ。
+[name="Savage"]Frankly, I haven't got the first clue either.
+[name="새비지"]……솔직히 말해서 뭐가 뭔지 모르겠어.
 
 [name="老约翰"]算了。回过家了没？
+[name="ヨハン"]まあいい。家には戻ったか？
+[name="Johnny"]Forget it. Been back home yet?
+[name="요한 영감"]됐다. 집에는 다녀온 거냐?
 
 [name="暴行"]已经报过平安了。
+[name="サベージ"]すでに無事は知らせたよ。
+[name="Savage"]Already told them I'm sound.
+[name="새비지"]인사드리고 왔지.
 
 [name="老约翰"]什么时候回来的？
+[name="ヨハン"]いつ帰ってきたんだ？
+[name="Johnny"]When'd you get back?
+[name="요한 영감"]언제 돌아온 거니?
 
 [name="暴行"]三天前......
+[name="サベージ"]三日前……
+[name="Savage"]Three days ago...
+[name="새비지"]사흘 전에……
 
 [name="老约翰"]哼，以前，你原先在保安部的同事们都升官了，现在你是被调回他们的手下了吧。
+[name="ヨハン"]ふん……昔、警備部でお前の同僚だった奴らはみんな出世したぞ。帰任したお前は、今やあいつらの部下ってわけだな。
+[name="Johnny"]Hmph. You know, all your pals in Sec from before got promoted, and here you are now dancing back under their fingers.
+[name="요한 영감"]흠, 네 예전 동료들은 전부 승진했던데, 이제는 소환 명령이나 받는 수하가 된 거냐?
 
 [name="老约翰"]怎么，这么着急就上岗，巴别塔那边的事情已经全都处理好了？
+[name="ヨハン"]しかしこんなに急いで出勤してどうしたんだ？　バベルの件は全部片付いたのか？
+[name="Johnny"]Why so eager for the job here? Everything with Babel all sorted, then?
+[name="요한 영감"]다들 뭐가 그리 급한 건지…… 바벨 쪽 일은 전부 처리했고?
 
 [name="暴行"]我......
+[name="サベージ"]それは……
+[name="Savage"]I...
+[name="새비지"]그게……
 
 [name="暴行"]......
+[name="サベージ"]……
+[name="Savage"]......
+[name="새비지"]……
 
 [name="老约翰"]怎么这副心事重重的样子。
+[name="ヨハン"]深刻そうな顔しやがって……何かあったのか？
+[name="Johnny"]I'd guess the world's on your shoulders, looking like that.
+[name="요한 영감"]왜 그렇게 표정이 심각해?
 
 [name="老约翰"]我也没想追着你问，想说什么就说好了。
+[name="ヨハン"]無理に訊く気はないが、言いたいことがあるなら言えばいい。
+[name="Johnny"]Not here to play 20 Questions on ya, just say what I wanted and be done.
+[name="요한 영감"]캐묻고 싶진 않지만, 하고 싶은 말 있으면 해봐.
 
 [name="老约翰"]还是说，明明好不容易回了老家，见到老同事们了，却不高兴？
+[name="ヨハン"]それとも、せっかく故郷へ帰ってきて、久々に昔の同僚たちと顔を合わせたってえのに、嬉しくねえのか？
+[name="Johnny"]But it's a hard thing to do, getting back home to see your old mates. Still not happy?
+[name="요한 영감"]모처럼 집에 돌아와서 옛 동료들을 만나는 게 안 기쁜 게냐?
 
 [name="暴行"]我也......不知道。
+[name="サベージ"]それは……どうかな。
+[name="Savage"]I don't... know, myself.
+[name="새비지"]나도 잘…… 모르겠어.
 
 [name="暴行"]我当然很想念你们，尤其是家乡的矿区对我来说这么熟悉。
+[name="サベージ"]もちろんみんなには会いたかったよ。特に故郷の採掘エリアは一番馴染み深いからね。
+[name="Savage"]Of course I missed you all, and I mean, I know my hometown mines like nothing else.
+[name="새비지"]당연히 만나고 싶긴 해. 특히 고향의 광산은 내게 그리운 곳이었으니까.
 
 [name="暴行"]但是......
+[name="サベージ"]だけど……
+[name="Savage"]But...
+[name="새비지"]하지만……
 
 [name="暴行"]......总觉得，结束得太快了。
+[name="サベージ"]……なんだか、あっという間だったなって。
+[name="Savage"]I just feel—things wrapped up too fast.
+[name="새비지"]……너무 빨리 끝나버린 것 같아.
 
 [name="老约翰"]（吹口哨）看你这样子，还说没拿到好差事呢。
+[name="ヨハン"]その様子じゃ、よっぽどいい仕事だったみたいだな。
+[name="Johnny"](Whistle) Look at you. Who says you didn't land a good assignment?
+[name="요한 영감"](휘파람을 불며) 아직 좋은 자리를 못 받았나 보군.
 
 [name="老约翰"]还是说，遇到了什么离不开的心上人？
+[name="ヨハン"]それとも、向こうで離れたくない奴でもできたのか？
+[name="Johnny"]Or was it some sweetheart you found that you just can't bear to leave?
+[name="요한 영감"]아니면 마음이 안 떠나는 누구라도 만나고 온 거냐?
 
 [name="暴行"]哪、哪有什么心上人——是朋友啦！
+[name="サベージ"]なっ！　そんなのいるわけないじゃん――ただの友だちだよ！
+[name="Savage"]Wh—What sweetheart—just a friend, okay!
+[name="새비지"]마, 마음은 무슨! 그냥 친구거든!
 
 [name="暴行"]呜......而且，我也没做什么值得称道的事。
+[name="サベージ"]そっ……それに、取り立てて言うほどの仕事だってやってないし。
+[name="Savage"]Ugh... besides, I didn't do anything praiseworthy either.
+[name="새비지"]윽…… 게다가 칭찬받을 만한 일을 한 것도 아닌데.
 
 [name="老约翰"]我可是听说你接的是个大活儿啊。陆陆续续挖出那些“货物”可花了咱们两年的时间。
+[name="ヨハン"]だがお前が引き受けた仕事は、相当でかかったらしいじゃねぇか。あの「ブツ」を掘り出すのに、二年間も費やしたんだからな。
+[name="Johnny"]No, I heard you picked up a big job. Digging those 'goods' out one after another's cost two years of our time.
+[name="요한 영감"]대단한 임무를 받았다고 들었다. 그 '물건'을 쉴 새 없이 캐느라 2년이라는 시간을 쏟아부어야 했으니.
 
 [name="老约翰"]工人们都觉得，肯定是外面发生了什么事。
+[name="ヨハン"]採掘工たちはみんな、絶対に外で何かあったと思ってるぜ。
+[name="Johnny"]All the workers reckon it has to be something happened outside.
+[name="요한 영감"]인부들도 밖에 무슨 일이 생긴 게 분명하다고 다들 수군거리더라.
 
 [name="暴行"]工程量的确不小。不过，我只负责很普通的环节。
+[name="サベージ"]工事量は確かに多かったよ。けど、わたしが担当してたのは普通の仕事だけ。
+[name="Savage"]Lots of engineering going on. But I'm only on the bog-standard stuff.
+[name="새비지"]작업량이 확실히 적진 않으니까. 하지만 난 평범한 업무를 담당했을 뿐인걸.
 
 [name="暴行"]这次合作里，为了确保从雷姆必拓送往巴别塔的“货物”运输安全与顺利交接，有必要派遣安保人员进行对接。
+[name="サベージ"]今回の契約では、レム・ビリトンからバベルへ送る「ブツ」の安全とスムーズな引き渡しを保証するために、あらかじめ警備員を派遣して対応する必要があった。
+[name="Savage"]Cooperation this time was to make sure the 'goods' going from Rim Billiton to Babel had a safe journey and made it without hassle. They needed a security crew to see it through.
+[name="새비지"]이번 협력 건은 림 빌리턴에서 바벨로 운송하려는 '물건'을 무사히 넘기기 위해 담당 보안요원이 필요했던 거였어.
 
 [name="暴行"]就这样，将由我们这儿的矿业公司开采到的舰体和核心，不断送往交付到巴别塔的手中。
+[name="サベージ"]わたしたちの会社が採掘した艦船とコアは、「バベル」の手に順当に引き渡されていった――
+[name="Savage"]And just like that, the hull and core our mining firm dug up gets sent straight to Babel.
+[name="새비지"]그래야 본사에서 채굴한 선체와 코어를 '바벨'쪽에 계속해서 건네줄 수 있을 테니까.
 
 [name="暴行"]然后，作为安保人员，我参与了一部分和巴别塔的合作工作，仅此而已。
+[name="サベージ"]その中で、わたしは警備員として、一部の業務を任されてた……ただそれだけだよ。
+[name="Savage"]I had some security work to do with them. That's it.
+[name="새비지"]난 그저 보안요원으로 선발돼서 바벨과의 합동 프로젝트 일부에 투입된 게 전부인걸.
 
 [name="老约翰"]所以说，你真的什么都不知道？
+[name="ヨハン"]つまり、お前は本当に何も知らねぇのか？
+[name="Johnny"]So you're saying you really don't know a damn thing?
+[name="요한 영감"]그러니까, 정말 아무것도 모른다 이거지?
 
 [name="暴行"]（苦笑）老头，你不是不知道，我这个人......
+[name="サベージ"]ハハッ。わたしがどういう人かなんてよーくわかってるでしょ。
+[name="Savage"](Bitter chuckle) John, you know me, don't you...
+[name="새비지"](쓴웃음을 지으며) 알잖아, 내가 어떤지……
 
 [name="老约翰"]你这姑娘......（叹气），还是一如既往，在关键的时候糊里糊涂的。
+[name="ヨハン"]この小娘ときたら……ハァ、相変わらず肝心なところは適当ときたもんだ。
+[name="Johnny"]Old girl... *sigh* Still same as ever, then, making a complete mess of it when the moment comes.
+[name="요한 영감"]넌…… 에휴…… 여전하구나, 중요한 순간에 어리버리한 건.
 
 [name="老约翰"]也好，萨卡兹的事情让他们自己去解决吧！关键时候糊涂了，或许也是好事。
+[name="ヨハン"]まぁいいさ。サルカズのことはサルカズで解決すりゃいいんだ！　大事な部分は曖昧にしておくのがいいのかもしれん。
+[name="Johnny"]Not complaining, though. Let the Sarkaz sort out their own biz! Maybe it's a good thing they muddled it up when it mattered.
+[name="요한 영감"]뭐, 괜찮아. 살카즈 일은 알아서 하겠지. 중요한 순간에 어리버리하게 구는 것도, 썩 나쁘진 않다고.
 
 [name="老约翰"]但如果不是巴别塔吸引你，还能有什么理由？
+[name="ヨハン"]しかし、もしお前がバベルに惹かれたんじゃないってんなら、他にどんな理由があるんだ？　お前のその憂鬱そうなツラにはよ。
+[name="Johnny"]But if Babel wasn't there to rope you in, would you have any other reason?
+[name="요한 영감"]바벨에서 널 끌어들인 게 아니라면 다른 이유는 없을 것 같은데.
 
 [name="暴行"]......以前，我十分确信，自己会在矿场中生活一辈子。
+[name="サベージ"]……昔は、採掘場で一生を終えるんだって強く信じてた。
+[name="Savage"]I used to be so sure, you know, I'd live my whole life in the mines.
+[name="새비지"]……예전엔 광산에서 평생 살게 될 거라고 생각했었는데.
 
 [name="暴行"]没有关注外界的必要，可以说对外界一无所知。
+[name="サベージ"]外のことは何も知らなかったし、関心を持つ必要もなかったから。
+[name="Savage"]Didn't need to mind what happens outside. Could say I knew nothing about it.
+[name="새비지"]바깥세상에 관심을 둘 필요가 없으니 바깥세상에 대해 몰라도 된다고.
 
 [name="老约翰"]不就是离开了次雷姆必拓，有了到外面去转转的机会嘛。
+[name="ヨハン"]今回レム・ビリトンを離れて、考えが変わったのか？
+[name="Johnny"]That was your chance to take a gander out there, wasn't it? When you left Rim Billiton.
+[name="요한 영감"]림 빌리턴을 떠나 바깥세상을 돌아볼 기회가 생긴 게 아니었나?
 
 [name="老约翰"]我还记得，刚离开的时候，你还嚷嚷着不想走呢。所以说，年轻人啊......
+[name="ヨハン"]そういや、お前ときたら出発するまで散々行きたくないってわめいてたな。まったく、これだから若いモンは……
+[name="Johnny"]I still remember, when you were just off, you were howling how you didn't wanna go. That's the thing, youngsters, y'know...
+[name="요한 영감"]처음엔 떠나기 싫다고 그렇게 투덜대더만…… 하여간 요즘 젊은것들은 그냥……
 
 [name="暴行"]哈，哈哈......
+[name="サベージ"]は、はは……
+[name="Savage"]Ha, haha...
+[name="새비지"]하, 하하……
 
 [name="暴行"]老头儿，我......认识了一个同族的孩子。
+[name="サベージ"]じい、わたしね……外で同族の子と知り合ったの。
+[name="Savage"]Johnny, I... got to know a kid like me.
+[name="새비지"]영감, 나…… 동족 친구를 알게 됐어.
 
 [name="暴行"]你知道，在周围都是萨卡兹的生活环境中，想要健康地成长是多么困难。
+[name="サベージ"]分かるでしょ？　周りがサルカズばかりの環境で、健康に成長していくことがどれだけ難しいか。
+[name="Savage"]You know how hard it is, with the Sarkaz life all around you, trying to grow up healthy.
+[name="새비지"]사방이 온통 살카즈에 둘러싸인 상황에서 바르게 자라는 게 얼마나 어려운지 잘 알잖아.
 
 [name="暴行"]但她选择了接受。她学会了忍耐、坚持，始终怀揣着希望。
+[name="サベージ"]だけど彼女は、そんな環境を受け入れてた。忍耐と諦めないことを学んで、常に胸に希望を抱いてたよ。
+[name="Savage"]But she chose to take it on. She learned to endure, to persevere, and kept hope in her heart all along.
+[name="새비지"]하지만 그 아이는 받아들이는 쪽을 선택했어. 희망을 버리지 않은 채 참고, 버티는 법을 배우더라고.
 
 [name="暴行"]她还有许多需要学习的知识，所以总是缠着我问各种各样的问题。
+[name="サベージ"]学びたいこともまだまだあったみたいで、いつもわたしにくっついては色々質問してきたっけ。
+[name="Savage"]So much more she still needs to know and learn. She was always wrapped around me, asking me all sorts of questions.
+[name="새비지"]배워야 할 지식이 산더미라서, 매번 나한테 이것저것 물어보곤 했어.
 
 [name="暴行"]她喜欢我做的料理，对雷姆必拓的寓言故事特别着迷。
+[name="サベージ"]わたしが作る料理や、わたしが話すレム・ビリトンの寓話や物語にも夢中になってたなぁ。
+[name="Savage"]She likes the food I make, and she's especially interested in Rim Billiton's fables.
+[name="새비지"]내가 만든 음식을 좋아하고, 림 빌리턴의 옛날 이야기를 유독 좋아했었지.
 
 [name="老约翰"]一只小兔子。她来自哪里？
+[name="ヨハン"]小ウサギか。どこの出身だ？
+[name="Johnny"]A little rabbit. Where'd she come from?
+[name="요한 영감"]토끼로구먼. 어디 출신이라더냐?
 
 [name="暴行"]......雷姆必拓。但是，她不会再回来了。所以......
+[name="サベージ"]レム・ビリトンだよ。だけど、きっと故郷にはもう二度と戻ってくることはない……
+[name="Savage"]Rim Billiton. But... she isn't gonna come back. So...
+[name="새비지"]……림 빌리턴. 하지만 다시는 돌아오지 않을 거야. 그래서……
 
 [name="暴行"]......其实，我也不知道，自己为什么会这么担忧。
+[name="サベージ"]……どうしてこんなに心配になるのか、自分でも分からないんだ。
+[name="Savage"]Honestly, I don't know either, why it is I'm worrying so much.
+[name="새비지"]사실 나도 잘 모르겠어. 왜 이렇게 걱정이 되는 건지……
 
 [name="老约翰"]哼，这还不简单——
+[name="ヨハン"]はっ、簡単なことだ――
+[name="Johnny"]Hmph, now isn't that easy—
+[name="요한 영감"]흥, 대충 보이는구먼……
 
 [name="老约翰"]你想保护她。
+[name="ヨハン"]その子を守りたいんだろ？
+[name="Johnny"]You want to protect her.
+[name="요한 영감"]왜냐면 넌 그 아이를 지켜주고 싶은 게로구나.
 
 [name="暴行"]......嗯。
+[name="サベージ"]……うん。
+[name="Savage"]Yes.
+[name="새비지"]……응.
 
 [name="暴行"]我想，保护她。
+[name="サベージ"]あの子を、守りたい。
+[name="Savage"]I do. I do wanna protect her.
+[name="새비지"]맞아, 지켜주고 싶어.
 
 [name="暴行"]但是现在不是时候。我没有理由再留在那，也没有带领她前进的本事。
+[name="サベージ"]だけど、今はその時じゃない。わたしには、あそこに留まる理由がないし、あの子を導くだけの実力もないからね。
+[name="Savage"]But now's not the time. I've got no reason to stay there, and none of the skill to guide her forward.
+[name="새비지"]하지만 지금은 때가 아니야. 거기에 더 머물 이유도, 그 아이를 이끌고 갈 힘도 나한텐 없으니까.
 
 [name="暴行"]我知道，现在我该做的，应该是回到雷姆必拓。
+[name="サベージ"]だから、今わたしがやるべきなのは、レム・ビリトンへ戻って力を付けることだと思ったの。
+[name="Savage"]I knew. I should come back to Rim Billiton, is what I should do.
+[name="새비지"]지금은 림 빌리턴으로 돌아와야 할 때라고 생각했어.
 
 [name="老约翰"]这么看来，你已经找到自己的使命了？
+[name="ヨハン"]つまり、お前は自分の使命を見つけたってわけだな。
+[name="Johnny"]Seems like you've already found your calling, then, haven'tcha?
+[name="요한 영감"]네 사명은 이미 찾은 것 같은데?
 
 [name="暴行"]倒也没有那么严肃。毕竟，要是我执意留在巴别塔，别人又不想雇我，我不就可怜地失业了嘛！哈哈......
+[name="サベージ"]そんな大げさなもんじゃないよ。どうせバベルに残ろうと思っても誰も雇ってくれないだろうし、さしずめ哀れな失業者って感じ！　あはは……
+[name="Savage"]It's not all that big a thing. After all, if I insisted on staying at Babel, other people wouldn't wanna hire me, and then I'd be out of a job, poor me! Haha...
+[name="새비지"]그렇게 거창한 게 아냐. 내가 바벨에 남겠다고 고집을 부렸다면, 사람들이 날 고용하지 않겠다고 했으면 백수가 됐을걸! 하하……
 
 [name="老约翰"]你真是......
+[name="ヨハン"]お前ってやつはまったく……
+[name="Johnny"]You utter case, you...
+[name="요한 영감"]정말이지 넌……
 
 [name="老约翰"]算了，现在就做自己该做的事！
+[name="ヨハン"]まあいい。とにかく、戻ってきたからには働いてもらうぞ！
+[name="Johnny"]Forget it, just do what you've gotta do now!
+[name="요한 영감"]됐다. 이젠 할 일을 해야지!
 
 [name="老约翰"]我们工人在矿场里的性命安全，都托付在你们安保人员身上了。
+[name="ヨハン"]この採掘場じゃ、俺たち鉱員の命はお前ら安全保障員にかかってるんだからな。
+[name="Johnny"]Keeping us safe in the mines is all up to you Security lot.
+[name="요한 영감"]광산에서 일하는 우리 인부들의 목숨은 모두 너희 보안요원에게 달려있지 않느냐.
 
 [name="老约翰"]尤其是你，伙计们看到你都会放心。
+[name="ヨハン"]特にお前が帰ってきたとなれば、仲間たちも安心するだろうぜ。
+[name="Johnny"]Especially you. Seeing you'll give your mates plenty peace of mind.
+[name="요한 영감"]특히 넌 사람들을 안심시켜 주곤 하지.
 
 [name="老约翰"]至少现在，我们需要你。
+[name="ヨハン"]少なくとも今、俺たちはお前を必要としてる。
+[name="Johnny"]At least for now, we need you.
+[name="요한 영감"]적어도 지금의 우리에겐 네가 필요해.
 
 [name="暴行"]......嗯。我知道了。
+[name="サベージ"]……うん。分かった。
+[name="Savage"]Right. I understand.
+[name="새비지"]……응, 알겠어.
 
 [name="暴行"]奇怪，老头儿，今天你的话很多啊？
+[name="サベージ"]変だよ、じい。今日は随分とおしゃべりじゃない？
+[name="Savage"]Odd of you, Johnny. Got a lot to say today, ain'tcha?
+[name="새비지"]이상하네…… 영감, 오늘따라 유독 말이 많네?
 
 [name="老约翰"]哼，对你不一样。你现在是见过世面的人，我可不敢随便再摆架子了。
+[name="ヨハン"]ふんっ！　お前は特別だ。今や外を見てきた人間だからな。俺も二度とお前に威張り散らしたりできなくなったな。
+[name="Johnny"]Hmph, you're a special case. You've seen the world out there, now. Can't go around putting on airs anymore.
+[name="요한 영감"]흥, 그럴 수밖에. 이제 막 세상을 돌아보고 온 네 앞에서 함부로 아는 체할 수는 없으니까.
 
 [name="暴行"]哈哈，别开这种玩笑嘛——
+[name="サベージ"]ははっ、冗談はやめてよ――
+[name="Savage"]Haha, don't joke like that—
+[name="새비지"]하하, 농담도 참……
 
 [name="老约翰"]所以？
+[name="ヨハン"]……それで？
+[name="Johnny"]So?
+[name="요한 영감"]그래서?
 
 [name="老约翰"]你从那么远的地方回来，该不会把卡特斯的传统美德都忘记了吧？
+[name="ヨハン"]あんなに遠いところまで行っておいて、コータスの伝統的な美徳を忘れてる訳じゃねぇよな？
+[name="Johnny"]Can't have forgotten our traditional Cautus virtues, coming all the way back from out yonder?
+[name="요한 영감"]먼 곳에서 돌아왔다고 해서 카우투스의 아름다운 전통을 잊어버린 건 아니겠지?
 
 [name="暴行"]哦？什么美德？
+[name="サベージ"]え？　美徳って？
+[name="Savage"]Huh? What virtues?
+[name="새비지"]으음? 아름다운 전통이라니?
 
 [name="老约翰"]你个小姑娘......礼物，当然是纪念礼物了！
+[name="ヨハン"]この小娘！　……土産だ、土産物に決まってるだろうが！
+[name="Johnny"]You little girlie... prezzies, of course it's prezzies, to mark the occasion!
+[name="요한 영감"]쯧쯧…… 선물 말이다. 기념 선물 챙겨왔겠지!
 
 [name="老约翰"]我没条件离开雷姆必拓，没办法出去见识见识。你们这些年轻人，有着这么好的机会，转眼便把我给忘了......
+[name="ヨハン"]レム・ビリトンを離れたことができねぇ俺にとって、唯一の楽しみが外からの土産だってのに、お前ら若いもんは外に出る機会に恵まれておきながら、俺への土産を忘れちまうなんて……
+[name="Johnny"]I've got no basis to leave Rim Billiton, no way to go out and see the sights. You youngsters, forgetting all about me the moment the chance for it lands in your lap...
+[name="요한 영감"]림 빌리턴을 떠나는 게 여의치 않았던 내겐 바깥세상을 돌아볼 기회 같은 건 없었지만, 너희 같은 젊은이들에게는 좋은 기회가 많지 않느냐. 그런데도 선물을 깜빡하다니……
 
 [name="暴行"]哈哈，骗你的，我怎么会忘记嘛。
+[name="サベージ"]はは、冗談だよ。忘れるわけないでしょ。
+[name="Savage"]Haha, I'm having you on. How could I forget?
+[name="새비지"]히히, 속았지? 설마 내가 잊었겠어.
 
 [name="暴行"]回来的时候，想着也不知道有没有下次出门的机会，我特地买了好几大箱货物亲自搬回来呢。
+[name="サベージ"]あれこれ何箱分も買い込んで、わざわざ自分で運んで帰って来たんだから。また外に出る機会があるかどうか分からないしね。
+[name="Savage"]I didn't know if I'd have another chance to leave after I came back, so I made sure to buy whole trunks of stuff, and brought it back myself.
+[name="새비지"]다음에 외출할 수 있는 기회가 없을 수도 있겠다 싶어서 닥치는 대로 사 왔지.
 
 [name="暴行"]给。这是维多利亚卖得最好的助听器，专门送给你的。
+[name="サベージ"]はい。じいにはこれ！　ヴィクトリアで一番売れてる補聴器だよ。
+[name="Savage"]Here. A top-of-the-line hearing aid I picked up in Victoria, just for you.
+[name="새비지"]자, 빅토리아에서 아주 핫하게 잘 팔린다는 보청기야. 특별히 준비한 거라고!
 
 [name="老约翰"]这就对了嘛，不枉我和你过去搭班那么久。
+[name="ヨハン"]わかってるじゃねぇか、そうこなくちゃな！　お前と長らくチームを組んできたのも無駄じゃなかったな。
+[name="Johnny"]Now that's more like it. All those shifts I had with you paid off.
+[name="요한 영감"]암, 이래야지. 우리가 얼마나 알고 지냈는데.
 
 [name="老约翰"]有了这个，听孩子们说话就更清楚了。唉，这麻烦的职业病。
+[name="ヨハン"]これがありゃ、孫たちの声もはっきり聴こえるぞ。はぁ、まったく難儀な職業病だ。
+[name="Johnny"]I'll be able to pick out what the kids are saying so much easier with this. Urgh, ruddy condition. Ruddy job.
+[name="요한 영감"]이게 있으면 애들이 하는 말도 더 잘 들리겠구먼. 하여간 이놈의 직업병……
 
 [name="暴行"]是，是。那我下去检查啦。
+[name="サベージ"]はいはい。じゃあわたしは検査に降りるね。
+[name="Savage"]Alright, alright. I'll head down to inspect, then.
+[name="새비지"]네에~ 네에~ 그럼 나, 내려가서 검사하고 올게.
 
 [name="暴行"]哈，这熟悉的感觉。
+[name="サベージ"]はぁ、懐かしい感覚だなぁ。
+[name="Savage"]Hah, there's a familiar feeling.
+[name="새비지"]후, 익숙한 느낌이네.
 
 [name="暴行"]闷热到窒息的防护服，又重又硬的工人帽，出了汗连擦一擦都做不到。
+[name="サベージ"]重くて硬いヘルメットと、汗が出ても拭うことすらできない蒸し暑い防護服。
+[name="Savage"]Protective clothing so stuffy you choke, stiff and heavy worker's cap, can't wipe off your sweat even if you wanted to.
+[name="새비지"]숨이 턱턱 막혀올 만큼 답답한 보호복, 무겁고 딱딱한 안전모, 계속 닦아도 소용이 없을 정도로 흐르는 땀……
 
 [name="暴行"]在这种艰难的环境里不断地开采，冒着生命危险和源石作伴。
+[name="サベージ"]こんな厳しい環境の中で、命の危険を冒してまで採掘し続け、源石と共に生きる……
+[name="Savage"]Mining away in tough conditions like these, risking your life with Originium for company.
+[name="새비지"]이렇게 고된 환경에서 생명의 위험을 무릅쓰고 계속 오리지늄을 캐야 하다니.
 
 [name="暴行"]族人的生命，全部都消耗在了这些越藏越深的矿井里。
+[name="サベージ"]仲間たちの生命はすべて、奥へ進めば進むほど深くなるこの鉱坑に消費されていった。
+[name="Savage"]My people's lives, all spent upon these mines going dirtier and deeper.
+[name="새비지"]동족들은 점점 깊어지는 갱도 안에서 하나둘씩 사라져 갔지.
 
 [name="暴行"]——过去，这就是我生活的全部。和族人们一样。
+[name="サベージ"]かつては、それがわたしの生活の全てだった。仲間のみんなと同じように。
+[name="Savage"]—This used to be my whole life, my everything. Just like the rest of us.
+[name="새비지"]과거에는, 이곳이 내 삶의 전부였는데, 다른 동족들처럼……
 
 [name="暴行"]过去的数年，未来的日子，我都会这么度过吗？
+[name="サベージ"]今までの日々も、そして未来も、わたしはこうして生きていくの？
+[name="Savage"]Is this how I'm gonna spend my future, same as the past?
+[name="새비지"]지나온 시간, 그리고 앞으로 다가올 시간을 모두 여기서 보내야 하는 걸까?
 
 [name="暴行"]不行不行，想这么多也没有意义。我得好好工作，至少......现在我肩负的，便是老约翰他们这样的工人的生命安全。
+[name="サベージ"]だめだめ。あれこれ考えたって意味ないや。しっかり働かなきゃ。少なくとも今は……ヨハンじいのような鉱員たちの命を背負ってるんだから。
+[name="Savage"]Stoppit, stoppit, there's no point thinking so hard. I have to work properly, at the least... The safety, the lives of workers like Johnny are on my back, now.
+[name="새비지"]아냐, 아냐! 생각이 많아져봤자 아무런 소용도 없어. 열심히 일해야 해, 적어도…… 요한 영감 같은 사람들의 목숨이 지금 내 손에 달려 있으니까.
 
 [name="暴行"]......
+[name="サベージ"]……
+[name="Savage"]......
+[name="새비지"]……
 
 [name="暴行"]可是......不免还是会想......
+[name="サベージ"]でも……どうしても頭に浮かんでくる……
+[name="Savage"]But... I just can't help wondering...
+[name="새비지"]하지만…… 자꾸 생각이 나는걸……
 
 [Subtitle(text="阿米娅，你过得还好吗。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="アーミヤちゃん、元気にしてる？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Amiya, are you doing alright?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="아미야, 잘 지내고 있어?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="没有同族人的陪伴，生活会习惯吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="同族がいない環境には、もう慣れた？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Will you get used to life without one of your kind by your side?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="동족이 없는 삶에 익숙해졌니?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="我......很担心你。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="わたし……君のことが心配なんだよ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="I'm... really worried about you.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="조금…… 걱정돼, 네가.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="没有人为你做美味的家乡料理，你能够好好地长大吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="美味しい故郷の料理を作ってくれる人がいなくなって、ちゃんとご飯は食べられてる？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Can you grow big without someone making you good food from home?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="널 위해 맛있는 요리를 해주는 사람이 없어도, 넌 잘 지낼 수 있을까?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="回到雷姆必拓以后，便没有机会再取得更多联系。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="レム・ビリトンに戻ってから、全然連絡できなくなっちゃった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Once I'm back in Rim Billiton, I'll have no chance to reach you anymore.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="림 빌리턴으로 돌아온 뒤로 연락할 기회가 좀처럼 없었네.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="阿米娅......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="アーミヤちゃん……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Amiya...", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="아미야……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="博士和凯尔希，他们会照顾好你的，对吗。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ドクターとケルシーが、良くしてくれてるよね？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The Doctor, Kal'tsit, they'll take good care of you, won't they?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="박사와 켈시…… 모두들 널 잘 보살펴 주고 있을 거야. 그렇지?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="在他们身边，你会变得坚强，拥有属于自己的使命。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="君は、あの人たちの側で強くなって、いつかはきっと自分の使命を持つ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="With them, you'll get stronger, have a mission you can call your own.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그 사람들 곁에서 넌 강해질 거야. 너만의 사명을 짊어진 채.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="我也......现在，还有需要由我承担的责任。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="わたしも……今は、わたしの負うべき責任がある。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="I... have responsibilities, right now, that still need me.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="내게도…… 책임져야 할 일이 남았어.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="但是，当你需要我的那天，我一定会来帮助你。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="だけど、君がわたしを必要とする時は、必ず助けに行くよ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="But when there's a day you need me too, I'll come to your aid, no doubt about it.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="하지만 네가 도움이 필요하면 언제든 도와줄게.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="如果我们真的在朝着同一个方向迈步，那么我们就一定还会重逢。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="もし、わたしたちが本当に同じ方向に進んでいるなら、きっとまた会える。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="If we really do face the same way in our steps, we'll meet again.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="같은 길을 향해 걷다 보면 분명 다시 만나게 될 거야.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="我相信一定会的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="そう信じてるよ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="I believe in that.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="분명 그럴 거라고 믿어.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 两年后
+二年後
+Two years later
+2년 후
 
 1:34  P.M. 天气/炎热
+p.m. 1:34 天気/猛暑
+1:34 P.M. \ Blistering heat
+1:34 P.M. 날씨/무더위
 
 钢铁萝卜城城外矿区 27、28、29号矿井
+アイアンロボットシティ郊外採掘エリア 27、28、29号鉱坑
+Steel Robot City Exterior Mining Site, Mineshafts #27, #28, #29
+아이언 로봇 시티 외곽 광산지역 27, 28, 29호 갱도
 
 [name="雷姆必拓工人"]快、快撤退！
+[name="レム・ビリトン鉱員"]は、早く撤退しろ！
+[name="Rim Billiton Worker"]Out—Get out!
+[name="림 빌리턴 인부"]모, 모두 물러나!
 
 [name="雷姆必拓工人"]粉尘快要爆炸——
+[name="レム・ビリトン鉱員"]粉塵爆発が起こるぞ――
+[name="Rim Billiton Worker"]The dust's about to explode—
+[name="림 빌리턴 인부"]곧 분진이 폭발할 거야……
 
 [name="雷姆必拓工人"]呃、呃啊——！
+[name="レム・ビリトン鉱員"]う、うわあぁぁ――！
+[name="Rim Billiton Worker"]Ugh—gaah—!
+[name="림 빌리턴 인부"]헉, 으윽!
 
 [name="雷姆必拓工人"]救命、咳、咳——
+[name="レム・ビリトン鉱員"]助けてくれぇ、ゴホッ、ゴホッ――
+[name="Rim Billiton Worker"]Save m—*cough*, *cough*—
+[name="림 빌리턴 인부"]사, 살려줘. 쿨럭, 쿨럭……
 
 [name="老约翰"]冷静下来，全部带上氧气瓶！
+[name="ヨハン"]落ち着け！　全員酸素ボンベを装着しろ！
+[name="Johnny"]Calm down! All of you, oxygen tanks on!
+[name="요한 영감"]진정해. 모두 산소통부터 착용해!
 
 [name="雷姆必拓工人"]救命、救命啊——
+[name="レム・ビリトン鉱員"]助けて、助けてくれぇ――！
+[name="Rim Billiton Worker"]Help—save me, for—
+[name="림 빌리턴 인부"]살려줘, 살려……
 
+......
+......
+......
 ......
 
 [name="雷姆必拓安保部长"]怎么回事，这个警报声。
+[name="レム・ビリトン警備部長"]この警報、一体何があったんだ？
+[name="Rim Billiton Security Chief"]What's the alarm sounding for?
+[name="림 빌리턴 보안부장"]경보음?! 무슨 일이지?
 
 [name="暴行"]是重大危险警报......矿井出事了！
+[name="サベージ"]警報レベルマックス――重大事故発生……鉱坑が危ない！
+[name="Savage"]It's a serious danger alert... something's happened in the mines!
+[name="새비지"]위험 경보…… 갱도에 사고가 난 게 분명해!
 
 [name="雷姆必拓安保部长"]报告！
+[name="レム・ビリトン警備部長"]報告しろ！
+[name="Rim Billiton Security Chief"]Report!
+[name="림 빌리턴 보안부장"]자세히 보고해!
 
 [name="雷姆必拓工人"]不、不好了，27、28、29号矿井发生活性源石粉尘爆炸！
+[name="レム・ビリトン鉱員"]た、大変です！　27、28、29号鉱坑で、活性源石の粉塵爆発が発生しました！
+[name="Rim Billiton Worker"]I-It's gone to hell, Mineshafts #27, #28, #29 have all had active Originium dust explosions!
+[name="림 빌리턴 인부"]크, 큰일 났습니다. 27, 28, 29호 갱도에서 활성 오리지늄 분진이 폭발했습니다!
 
 [name="暴行"]什么？
+[name="サベージ"]なっ――！
+[name="Savage"]What?
+[name="새비지"]뭐?!
 
 [name="雷姆必拓安保部长"]啧......！我就说，这该死的天气不能开工！
+[name="レム・ビリトン警備部長"]チッ……！　だから言ったんだ。こんなクソみたいな天気じゃ仕事なんてできないってな！
+[name="Rim Billiton Security Chief"]Tch...! I SAID we couldn't start work in this bloody weather!
+[name="림 빌리턴 보안부장"]에잇……! 그래서 이런 날씨에는 작업하면 안 된다고 했는데!
 
 [name="雷姆必拓安保部长"]就为了那点产量——
+[name="レム・ビリトン警備部長"]あれっぽっちの産出量のために――
+[name="Rim Billiton Security Chief"]Bloody anything for that bit of output—
+[name="림 빌리턴 보안부장"]망할 놈의 생산량 때문에……
 
 [name="暴行"]29号井......那不是......！
+[name="サベージ"]29号坑……じゃあまさか……！
+[name="Savage"]Shaft #29... that's...!
+[name="새비지"]29호 갱도…… 설마 아니겠지……!
 
 [name="暴行"]人员伤亡情况呢？现场是什么状况？
+[name="サベージ"]現場の状況は？　負傷者はいるの？
+[name="Savage"]Any casualties among personnel? What's the state of the site?
+[name="새비지"]인명 피해는? 현장은 어떻게 됐어?!
 
 [name="雷姆必拓安保部长"]有、有工人被埋在坍塌的矿井里！确认有伤员！
+[name="レム・ビリトン鉱員"]ほ、崩落した鉱坑内に閉じ込められている鉱員がいます！　負傷者も多数発生している模様！
+[name="Rim Billiton Security Chief"]There—There are workers buried in the collapse! Confirmed, there are wounded!
+[name="림 빌리턴 보안부장"]무, 무너진 갱도 안에 사람이 묻혔어. 부상자를 확인해야 해!
 
 [name="雷姆必拓安保部长"]*雷姆必拓俗语*，暴行！
+[name="レム・ビリトン警備部長"]*レム・ビリトンスラング*、サベージ！
+[name="Rim Billiton Security Chief"]Strewth! Savage!
+[name="림 빌리턴 보안부장"]*림 빌리턴 속어*! 새비지!
 
 [name="暴行"]我知道！
+[name="サベージ"]分かってる！
+[name="Savage"]Understood!
+[name="새비지"]알고 있어!
 
 [name="雷姆必拓安保部长"]嗯。
+[name="レム・ビリトン警備部長"]よし、任せた！
+[name="Rim Billiton Security Chief"]Right.
+[name="림 빌리턴 보안부장"]부탁한다.
 
 [name="雷姆必拓安保部长"]快去救援。我去控制现场。
+[name="レム・ビリトン警備部長"]急いで救援に向かえ！　私は現場を指揮する！
+[name="Rim Billiton Security Chief"]Get rescuing. I'll lock down the accident site.
+[name="림 빌리턴 보안부장"]내가 현장을 통제할 테니 넌 사람들을 구조해.
 
 [name="暴行"]——把防护服都穿上，和我出发！
+[name="サベージ"]――総員、防護服装着！　すぐに出発するよ！
+[name="Savage"]—Get your protective gear on, and follow me!
+[name="새비지"]……방호복 입어. 바로 출발한다!
 
 [name="暴行"]哈、哈......
+[name="サベージ"]ハァ、ハァ……
+[name="Savage"]Haah, haah...
+[name="새비지"]하아, 하아……
 
 [name="暴行"]挖......到了！
+[name="サベージ"]堀り……当てた！
+[name="Savage"]Dig, dig... gotcha!
+[name="새비지"]차, 찾았다……!
 
 [name="暴行"]老头子，还活着吗，老头子！
+[name="サベージ"]じい、生きてる？　じい！
+[name="Savage"]Are you still alive, oldie, are you still there?!
+[name="새비지"]영감, 괜찮은 거지? 영감!
 
 [name="暴行"]——老约翰！
+[name="サベージ"]――ヨハンじい！
+[name="Savage"]—Johnny!
+[name="새비지"]…… 요한 영감!
 
 [name="暴行"]坚持住！握住我的手！
+[name="サベージ"]しっかりして！　わたしの手を掴んで！
+[name="Savage"]Hold on! Grab my hand!
+[name="새비지"]조금만 버텨! 내 손 잡아!
 
 [name="老约翰"]咳......！
+[name="ヨハン"]ゴホッ……！
+[name="Johnny"]*cough*...!
+[name="요한 영감"]쿨럭……!
 
 [name="老约翰"]疼......好疼......
+[name="ヨハン"]うぐっ……痛え……
+[name="Johnny"]Hurts... like hell...
+[name="요한 영감"]윽…… 으윽……
 
 [name="暴行"]撑住，老头子，你还有救！
+[name="サベージ"]しっかり握って、じい、まだ助かるから！
+[name="Savage"]Hang in there, Johnny, we can get you!
+[name="새비지"]영감, 조금만 버텨…… 내가 구해줄게!
 
 [name="暴行"]把他拉出来，快！
+[name="サベージ"]彼を引っ張り出して、早く！
+[name="Savage"]Pull him out, quick!
+[name="새비지"]밖으로 끌어내, 어서!
 
 [name="暴行"]......醒醒，老约翰！你不能睡！
+[name="サベージ"]……起きて、ヨハンじい！　眠っちゃだめ！
+[name="Savage"]Stay with me, Johnny! No sleeping now!
+[name="새비지"]…… 요한 영감, 정신 차려! 자면 안 돼!
 
 [name="雷姆必拓工人"]暴行，离医疗帐篷还有三百米！
+[name="レム・ビリトン鉱員"]サベージ、救護テントまでは三百メートルだ！
+[name="Rim Billiton Worker"]Savage, we're 300m from the medic tent!
+[name="림 빌리턴 인부"]300미터 밖에 의료 막사가 있어요!
 
 [name="暴行"]冲刺过去！
+[name="サベージ"]一気に走るよ！
+[name="Savage"]Rush him!
+[name="새비지"]빨리 뛰어!
 
 [name="雷姆必拓工人"]是！
+[name="レム・ビリトン鉱員"]了解！
+[name="Rim Billiton Worker"]Got it!
+[name="림 빌리턴 인부"]네!
 
 [name="罗德岛医疗干员"]你好，我们是本次矿井事故的联合应急医疗小组。
+[name="ロドス医療オペレーター"]大丈夫ですか？　私たちは連合応急医療小隊です。こちらへ――
+[name="Rhodes Island Medic Operator"]Hello, we're the joint emergency medical group assigned to this mining incident.
+[name="로도스 아일랜드 메딕 오퍼레이터"]안녕하세요, 저희는 이번 광산 사고를 담당하게 된 합동 응급구조팀입니다.
 
 [name="暴行"]雷姆必拓矿业公司的安保小组，哈、哈......伤员......！
+[name="サベージ"]レム・ビリトン鉱業の警備小隊です。ハァッ、ハァッ……怪我人の救護を……！
+[name="Savage"]Rim Billiton PLC Security Group, haah, haah... wounded...!
+[name="새비지"]난 림 빌리턴 광업 회사의 보안 담당이고, 하아, 하아…… 부상자를……!
 
 [name="罗德岛医疗干员"]我明白了，立即安排安置伤员。
+[name="ロドス医療オペレーター"]わかりました、すぐに負傷者の収容場所を手配します。
+[name="Rhodes Island Medic Operator"]Understood. We'll find a bed for them immediately.
+[name="로도스 아일랜드 메딕 오퍼레이터"]네, 즉시 부상자를 확인하겠습니다.
 
 [name="罗德岛医疗干员"]能否先和我们登记信息，需要立即联系亲属......
+[name="ロドス医療オペレーター"]まずは情報の記入をお願いできますか？　それと急いでご家族への連絡を……
+[name="Rhodes Island Medic Operator"]Could you register some information with us for now? We need to contact next of kin immediately...
+[name="로도스 아일랜드 메딕 오퍼레이터"]먼저 정보를 등록해 주십시오. 즉시 연락할 수 있는 가족이나……
 
 [name="暴行"]公司这边会立刻安排，麻烦你们先治疗他！
+[name="サベージ"]会社がすぐに手配するから、先に治療をお願い！
+[name="Savage"]The company will sort that out straight away! Just start treating him first!
+[name="새비지"]그런 건 회사에서 처리할 테니까 치료부터 좀!
 
 [name="罗德岛医疗干员"]咦？
+[name="ロドス医療オペレーター"]えっ？
+[name="Rhodes Island Medic Operator"]Huh?
+[name="로도스 아일랜드 메딕 오퍼레이터"]으음?
 
 [name="暴行"]托马斯，你留下来负责登记和联络部门。
+[name="サベージ"]トーマス、ここに残って情報の記入と各部門への連絡を！
+[name="Savage"]Thomas, you stay behind to register and get set up with the branch.
+[name="새비지"]토마스, 남아서 접수랑 등록 좀 처리해 줘.
 
 [name="雷姆必拓工人"]是！
+[name="レム・ビリトン鉱員"]了解！
+[name="Rim Billiton Worker"]Got it!
+[name="림 빌리턴 인부"]네!
 
 [name="暴行"]剩下的人和我走，还有没被救出的伤员。
+[name="サベージ"]あとの皆はわたしについてきて。まだ救出を待ってる負傷者がいるから！
+[name="Savage"]Everyone else, with me! There's still wounded we haven't rescued.
+[name="새비지"]남은 사람은 날 따라와. 아직 안에 부상자가 남았어!
 
 [name="雷姆必拓工人"]是！
+[name="レム・ビリトン鉱員"]はいっ！
+[name="Rim Billiton Worker"]Got it!
+[name="림 빌리턴 인부"]네!
 
 [name="暴行"]对了，你是......
+[name="サベージ"]そうだ、あなたは……
+[name="Savage"]Right, you're...
+[name="새비지"]참, 당신은……
 
 [name="罗德岛医疗干员"]我和另外两名同事是这次登记的志愿应急救助小组，来自罗德岛制药公司。
+[name="ロドス医療オペレーター"]私を含む三名は、今回派遣されたボランティアの医療チームです。ロドス製薬から来ました。
+[name="Rhodes Island Medic Operator"]My coworkers and I form a volunteer emergency aid group for this incident. We're from Rhodes Island Pharmaceuticals Inc.
+[name="로도스 아일랜드 메딕 오퍼레이터"]저와 다른 두 동료는 이번에 나온 응급구조 자원봉사자예요. 로도스 아일랜드 제약회사 소속이죠.
 
 [name="暴行"]（罗德岛？没有听说过的公司......）
+[name="サベージ"]（ロドス？　聞いた事のない会社だけど……。）
+[name="Savage"](Rhodes Island? I haven't heard of that company...)
+[name="새비지"](로도스 아일랜드? 처음 들어본 이름인데……)
 
 [name="暴行"]好，罗德岛的。老头子就......交给你们了。
+[name="サベージ"]分かったわ、ロドスね。じいを……お願い。
+[name="Savage"]Alright, Rhodes Island. I'll... leave the oldie to you, then.
+[name="새비지"]그렇구나, 로도스 아일랜드. 영감을…… 부탁해.
 
 [name="暴行"]......请务必救下他。
+[name="サベージ"]……絶対に彼を救って。
+[name="Savage"]Please, you have to save him.
+[name="새비지"]……꼭 살려 줘.
 
 [name="罗德岛医疗干员"]我们会尽力而为。
+[name="ロドス医療オペレーター"]全力を尽くします。
+[name="Rhodes Island Medic Operator"]We'll do what we can.
+[name="로도스 아일랜드 메딕 오퍼레이터"]최선을 다하겠습니다.
 
 [name="暴行"]啧......走，我们去救下一个！
+[name="サベージ"]よし……行こう、他の負傷者を助け出さないと！
+[name="Savage"]Ngh... quick, let's get the next one out!
+[name="새비지"]……가자. 나머지 사람들도 구해야 해!
 
 [name="雷姆必拓安保部长"]辛苦了，暴行。
+[name="レム・ビリトン警備部長"]よくやった、サベージ。
+[name="Rim Billiton Security Chief"]Good work, Savage.
+[name="림 빌리턴 보안부장"]수고했다, 새비지.
 
 [name="暴行"]人数对上了吗？
+[name="サベージ"]人数は合ってる？
+[name="Savage"]All accounted for?
+[name="새비지"]인원수는 맞아?
 
 [name="雷姆必拓安保部长"]不敢置信，难得连尸体也找齐了。受伤12人，重伤3人，死亡......
+[name="レム・ビリトン警備部長"]ああ、行方不明者は出ていない。奇跡的に死体も全員見つかったからな。負傷者十二名、重傷者三名、死亡者――
+[name="Rim Billiton Security Chief"]Hardly believe it. We even found all the bodies. Twelve wounded, three critically, and the dead...
+[name="림 빌리턴 보안부장"]시신도 죄다 찾아냈더군. 부상자 12명, 중상자 3명, 사망……
 
 [name="暴行"]够了。
+[name="サベージ"]もういい。
+[name="Savage"]That's enough.
+[name="새비지"]그럼 됐어.
 
 [name="雷姆必拓安保部长"]就算我不说，也没人比你知道得更清楚。
+[name="レム・ビリトン警備部長"]まぁ、私が言わずとも、お前ほどはっきり分かってる人間はいないだろうからな……
+[name="Rim Billiton Security Chief"]Even if I didn't tell, nobody'd know it better than you.
+[name="림 빌리턴 보안부장"]내가 굳이 이야기하지 않아도 잘 알고 있겠지.
 
 [name="雷姆必拓安保部长"]......从现场的源石粉尘浓度看，受伤的人大概都会很危险......
+[name="レム・ビリトン警備部長"]現場の源石粉塵濃度から見て、恐らく負傷者全員が危険な状態だ。
+[name="Rim Billiton Security Chief"]Judging by the concentration of Originium dust at the scene, the injured are all in big trouble...
+[name="림 빌리턴 보안부장"]……현장의 오리지늄 분진 농도를 봤을 때, 부상자는 매우 위험한 상태일 거다……
 
 [name="暴行"]......
+[name="サベージ"]……
+[name="Savage"]......
+[name="새비지"]……
 
 [name="雷姆必拓安保部长"]你去哪？
+[name="レム・ビリトン警備部長"]どこへ行く？
+[name="Rim Billiton Security Chief"]Where are you going?
+[name="림 빌리턴 보안부장"]어디 가게?
 
 [name="暴行"]救助站。我要去看看老头。
+[name="サベージ"]救護ステーション。じいの様子を見てくるよ。
+[name="Savage"]Aid post. I'm going to see the old man.
+[name="새비지"]영감 보러 구조 본부 좀 다녀올게.
 
 [name="暴行"]对了。这次参与救助的志愿者中，有一些医疗人员来自“罗德岛”。部长你有听说过这个组织吗？
+[name="サベージ"]そうだ。今回救助に当たったボランティアの中に、「ロドス製薬」から来たっていう医療関係者がいたんだけど、部長はその組織名に聞き覚えはある？
+[name="Savage"]Right. There were a few medics out of the aid volunteers who came from 'Rhodes Island.' You heard of that organization before, chief?
+[name="새비지"]참, 이번 구조 활동에 참가한 자원봉사자 중에 '로도스 아일랜드' 소속이 있던데, 거긴 어디지? 들어본 적 있어?
 
 [name="雷姆必拓安保部长"]罗德岛？......没有听说过，大概是新成立的公司吧。
+[name="レム・ビリトン警備部長"]ロドス？　……聞いた事がないな。新しくできた会社じゃないか？
+[name="Rim Billiton Security Chief"]Rhodes Island...? Doesn't ring a bell. Bet it's a fresh new company.
+[name="림 빌리턴 보안부장"]로도스 아일랜드? ……처음 들어보는데. 신생 회사인가 보지.
 
 [name="雷姆必拓安保部长"]你去吧，正好也检查一下。顺便去看看那个罗德岛是什么来头。
+[name="レム・ビリトン警備部長"]行って状況を見て来るついでに、そのロドスとやらの来歴も調べてくれ。
+[name="Rim Billiton Security Chief"]Get going. Good chance to inspect while you're there. See what this Rhodes Island is here for.
+[name="림 빌리턴 보안부장"]가 봐. 간 김에 로도스 아일랜드에 대해 알아보는 것도 좋겠지.
 
 [name="罗德岛医疗干员"]您好，请问您是......
+[name="ロドス医療オペレーター"]お疲れ様です。確かあなたは――
+[name="Rhodes Island Medic Operator"]Hello, can I ask who you...
+[name="로도스 아일랜드 메딕 오퍼레이터"]안녕하세요, 혹시……
 
 [name="罗德岛医疗干员"]啊，是安保部门的人吧！之前运送第一批伤员的也是您。
+[name="ロドス医療オペレーター"]あ、警備部門の方ですね！　第一波の負傷者を運んでくださった。
+[name="Rhodes Island Medic Operator"]Ah, you're the one from the Security team! You carried the first of the wounded over, too.
+[name="로도스 아일랜드 메딕 오퍼레이터"]아, 보안부 소속이셨군요! 지난번 첫 부상자를 데려온 것도 그쪽이었죠?
 
 [name="暴行"]叫我暴行就好。我来看看伤员的情况。
+[name="サベージ"]サベージよ。負傷者の状況を見に来たの。
+[name="Savage"]Just call me Savage. I'm here to see how they're doing.
+[name="새비지"]새비지라고 불러. 환자를 만나러 왔는데.
 
 [name="暴行"]......刚才，有一位登记叫做约翰的伤员。
+[name="サベージ"]……さっき、ヨハンという名の負傷者を登録したと思うんだけど。
+[name="Savage"]One of the casualties just now... should be registered as 'John.'
+[name="새비지"]방금…… 요한이라는 환자가 들어왔을 거야.
 
 [name="罗德岛医疗干员"]是约翰先生吗？请您放心，医疗干员已经为约翰先生做过应急处理了。
+[name="ロドス医療オペレーター"]ヨハンさんですか？　ご安心ください、医療オペレーターがすでに応急処置を行いました。
+[name="Rhodes Island Medic Operator"]Mister John, is it? Please be assured, our Medic Operators have already administered emergency treatment to him.
+[name="로도스 아일랜드 메딕 오퍼레이터"]아, 요한 씨 말이군요? 걱정하지 마세요. 메딕 오퍼레이터가 이미 응급 처치했습니다.
 
 [name="暴行"]他......伤得如何？
+[name="サベージ"]彼の……状態は？
+[name="Savage"]Is... How are his injuries?
+[name="새비지"]……지금 상태는?
 
 [name="罗德岛医疗干员"]是，源石结晶刺入了他的手臂和侧腹，防护服因此被割破，随后吸收到的源石粉尘含量也......
+[name="ロドス医療オペレーター"]はい。源石の結晶が腕と脇腹に刺さったせいで、防護服が破断してしまいました。そこから侵入した源石粉塵の含有量も……
+[name="Rhodes Island Medic Operator"]Right. Originium crystals penetrated to his arm and the flank of his abdomen. This ruptured his protective gear, and the amount of Originium particulate he inhaled afterwards also...
+[name="로도스 아일랜드 메딕 오퍼레이터"]네, 오리지늄 결정이 팔뚝과 옆구리에 파고드는 바람에 방호복이 터지면서 분진을 흡수한 것 같아요. 흡수한 함량이 꽤……
 
 [name="暴行"]所以，他已经确定感染了，是吗。
+[name="サベージ"]つまり「感染確定」でしょ？
+[name="Savage"]So, he's already been infected for sure, hasn't he?
+[name="새비지"]그러니까, 이미 감염됐다는 거야?
 
 [name="罗德岛医疗干员"]是......是的。
+[name="ロドス医療オペレーター"]は……はい。
+[name="Rhodes Island Medic Operator"]Y... Yes.
+[name="로도스 아일랜드 메딕 오퍼레이터"]그…… 네, 맞아요.
 
 [name="暴行"]......可恶。还是没赶上。
+[name="サベージ"]くそっ！　……やっぱり間に合わなかったか。
+[name="Savage"]Damn it. Too slow.
+[name="새비지"]젠장…… 결국 못 막았나 보네.
 
 [name="罗德岛医疗干员"]但是，已经为约翰先生做过了应急处理，使用了罗德岛的注射药剂之后，已经避免了进一步感染扩散。
+[name="ロドス医療オペレーター"]ですが、すでにヨハンさんの応急処置は終わっています。ロドスの薬剤を注射し、他の部位への更なる感染拡大は免れました。
+[name="Rhodes Island Medic Operator"]However, we've made use of Rhodes Island injective medication in the treatment already given to Mister John, and that's prevented any further progression of infection.
+[name="로도스 아일랜드 메딕 오퍼레이터"]하지만 요한 씨는 응급 처치를 받으셨어요. 로도스 아일랜드의 약을 주사한 덕분에 감염이 확산되는 걸 피할 수 있었죠.
 
 [name="暴行"]什么？......可是，伤到这种程度，又是活性源石结晶直接刺入伤口......
+[name="サベージ"]えっ……？　あれほどの傷で、しかも活性源石の結晶が直接傷口に刺さったのに？
+[name="Savage"]What...? But, with injuries that bad, and wounds directly from active Originium crystals...
+[name="새비지"]응? 하지만 그 정도 상처를 입은 데다, 활성 오리지늄 결정이 상처에 직접 파고든 거라면……
 
 [name="罗德岛医疗干员"]我明白您的顾虑。
+[name="ロドス医療オペレーター"]あなたの心配は分かります。えっと――
+[name="Rhodes Island Medic Operator"]I do understand your concern, Miss.
+[name="로도스 아일랜드 메딕 오퍼레이터"]보호자분이 뭘 걱정하시는지는 압니다.
 
 [name="暴行"]叫我暴行就好。你刚才说，用了你们的注射药剂之后已经避免扩散了，这是真的吗？
+[name="サベージ"]サベージって呼んで。今さっき、あなたたちの薬剤を注射して感染拡大を免れたって言ったよね。それは本当？
+[name="Savage"]Just... call me Savage. You said your drug injection stopped the spread? Is that true?
+[name="새비지"]새비지라고 불러. 로도스 아일랜드의 약을 주사해서 감염이 확산되는 걸 막았다고 했는데 그게 사실이야?
 
 [name="罗德岛医疗干员"]是的，暴行小姐，目前运送到救助站的伤员，都已经根据受伤程度和感染程度使用了相应的应急药物。
+[name="ロドス医療オペレーター"]はい、サベージさん。この救護ステーションに運ばれてきた負傷者全員に、負傷レベルと感染レベルに応じた薬を投与しました。
+[name="Rhodes Island Medic Operator"]Yes, Miss Savage. All the personnel carried in so far have been administered emergency medication in accordance with their level of injury and severity of infection.
+[name="로도스 아일랜드 메딕 오퍼레이터"]네, 새비지 씨. 현재 구조 본부로 이송된 환자들에게 부상과 감염 상태에 따라 응급 약물을 사용하고 있어요.
 
 [name="罗德岛医疗干员"]失血过于严重的病人还未脱离危险，但是患者的源石感染症状已经基本抑制住了。
+[name="ロドス医療オペレーター"]出血多量の負傷者はまだ予断を許しませんが、患者の源石感染症状については、基本的にはすでに抑制されています。
+[name="Rhodes Island Medic Operator"]Some patients are not out of danger yet due to their overly severe blood loss, but their Originium infection symptoms have been fundamentally suppressed.
+[name="로도스 아일랜드 메딕 오퍼레이터"]환자가 과다 출혈이라서 아직 위험하긴 하지만, 기본적으로 환자의 오리지늄 감염 증상은 모두 억제했습니다.
 
 [name="暴行"]都抑制住了？
+[name="サベージ"]全員抑制されたの？
+[name="Savage"]All suppressed?
+[name="새비지"]전부…… 억제했다고?
 
 [name="罗德岛医疗干员"]是的，全部......有什么问题吗？
+[name="ロドス医療オペレーター"]はい、全て……何か問題でも？
+[name="Rhodes Island Medic Operator"]Yes, every one... Do you have any issues?
+[name="로도스 아일랜드 메딕 오퍼레이터"]네, 전부…… 무슨 문제라도 있나요?
 
 [name="暴行"]......不，只是，哪怕是效果好上一些的药剂，也不是能给工人们立即使用的。
+[name="サベージ"]……いいえ。ただ、そんなによく効く薬が、鉱員たちにおいそれと使用されることなんてないから。
+[name="Savage"]No. Thing is, even if the drug works some wonders, it's not something you can give to workers straight away.
+[name="새비지"]……아니. 아무리 효과 좋은 약이라도 당장 인부들에게 쓸 수는 없었을 텐데.
 
 [name="暴行"]在雷姆必拓现存的医疗组织中，所使用的廉价源石感染应急药物对已经感染的工人作用十分有限。
+[name="サベージ"]レム・ビリトンの医療部で使われている廉価品の応急薬だと、すでに感染した人に対する作用はかなり限られてるんだ。
+[name="Savage"]Rim Billiton's extant medical orgs all use cheap Originium infection meds, and they only do so little for workers who're already infected.
+[name="새비지"]림 빌리턴의 의료 기관에서 쓰는 저가 오리지늄 감염 치료제를 감염된 인부들에게 썼을 때는 별 효과가 없었는데……
 
 [name="暴行"]但是罗德岛却......
+[name="サベージ"]だけどロドスの薬は……
+[name="Savage"]But then Rhodes Island...
+[name="새비지"]로도스 아일랜드는 어떻게……
 
 [name="暴行"]你们是志愿援助小组没错吧？这些应急药剂不便宜，用量也很可观，你们......
+[name="サベージ"]あなたたちはボランティアなんだよね？　その応急薬も安くはないでしょう。使用した量もかなりのものだろうし……あなたたちって一体――
+[name="Savage"]You're a volunteer aid group, aren'tcha? These emergency meds aren't cheap, and the doses are pretty staggering. You all...
+[name="새비지"]자원봉사자 맞아? 이렇게 비싼 약을, 그것도 대량으로 제공하다니…… 대체 너희는……
 
 [name="罗德岛医疗干员"]呃，我，我并不负责这一部分......
+[name="ロドス医療オペレーター"]あの……わ、私はそのあたりのことは担当していませんので……
+[name="Rhodes Island Medic Operator"]Er, I—I'm not responsible for any of that at all...
+[name="로도스 아일랜드 메딕 오퍼레이터"]엇! 그, 그건 제 담당이 아니라서요……
 
 [name="罗德岛医疗干员"]不过，我向您保证，约翰先生已经脱离了生命危险，不久后就能接受探望了。
+[name="ロドス医療オペレーター"]ですが、ヨハンさんはすでに峠を越えましたので、もう少しすればお見舞いもできるようになりますよ。私が保証します。
+[name="Rhodes Island Medic Operator"]But, I can promise you, Mister John's already out of mortal danger. He'll be able to receive visitors before long.
+[name="로도스 아일랜드 메딕 오퍼레이터"]하지만 이건 약속드릴 수 있습니다. 생명의 위험에서 벗어난 요한 씨를 이제 곧 만나게 되실 거예요.
 
 [name="暴行"]不一样......一旦成为感染者，工人们的命运就已经被决定了。
+[name="サベージ"]でも……一旦感染者になってしまったなら、鉱員たちの運命はもう決まったようなものだよ。
+[name="Savage"]It's not the same... Once they're Infected, workers' fates are already sealed.
+[name="새비지"]아냐…… 감염자가 된 인부들의 운명은 이미 정해져 있어.
 
 [name="暴行"]被迫成为更加廉价的劳动力，去到已经枯竭的矿井做最辛苦和危险的尾料收集工作。
+[name="サベージ"]彼らは、更に安価な労働力になることを強いられる……すでに枯渇した鉱坑で、最も辛く危険な、尾鉱の収集作業にあたる。
+[name="Savage"]They're forced into even cheaper labor, sent to the exhausted mineshafts for all the most brutal, dangerous work, collecting remainders.
+[name="새비지"]더 싸구려 취급을 받으며 더 이상 캘 것도 없는 갱도에 박혀 가장 힘들고 위험한 일을 해야 하겠지.
 
 [name="罗德岛医疗干员"]......对不起，患者被送到的时候，大多已经......
+[name="ロドス医療オペレーター"]……すみません。患者さんが運ばれてきたときには、ほとんどの人はすでに……
+[name="Rhodes Island Medic Operator"]I'm sorry. When they arrived, most of the patients had already...
+[name="로도스 아일랜드 메딕 오퍼레이터"]……죄송해요. 환자가 이송됐을 때는 이미 대부분……
 
 [name="暴行"]该说对不起的是我。抱歉，明明你们已经做得足够多了......非常感谢。
+[name="サベージ"]謝るのはわたしの方だよ。ごめんなさい。あなたたちは十分やってくれたっていうのに……本当にありがとう。
+[name="Savage"]No, I should be the one apologizing here. I'm sorry, you've already done so much and then some... thank you, a million times.
+[name="새비지"]사과해야 할 건 나야. 미안, 최선을 다해 줬는데…… 정말 미안……
 
 [name="罗德岛医疗干员"]暴行小姐，我......我明白您的感受。
+[name="ロドス医療オペレーター"]お……お気持ちは分かります、サベージさん。
+[name="Rhodes Island Medic Operator"]Miss Savage, I... I understand your feelings.
+[name="로도스 아일랜드 메딕 오퍼레이터"]새비지 씨…… 어떤 기분인지 알아요.
 
 [name="罗德岛医疗干员"]凯尔希主任曾教导我们，哪怕伤口可以愈合、矿石病感染得以抑制......
+[name="ロドス医療オペレーター"]たとえ傷口がふさがり、鉱石病の感染拡大を抑制できても――
+[name="Rhodes Island Medic Operator"]Director Kal'tsit once instructed us that no matter how many wounds we heal, how much Oripathy we suppress...
+[name="로도스 아일랜드 메딕 오퍼레이터"]켈시 주임님께선 어떤 상처도 아물 수 있고, 광석병 감염도 막을 수 있다고 가르쳐 주셨지만……
 
 [name="罗德岛医疗干员"]一旦成为感染者，对于社会的大部分人来说，仇恨和偏见就已经不可理喻地形成了。
+[name="ロドス医療オペレーター"]一旦感染者になってしまうと、理屈では説得できないレベルにまで凝り固まった、社会の恨みと偏見に晒されるのだと、ケルシー主任から教わりました。
+[name="Rhodes Island Medic Operator"]Once you've become Infected, no matter how unreasonable it is, most of society has already turned against you.
+[name="로도스 아일랜드 메딕 오퍼레이터"]일단 감염자가 되면, 사람들은 무작정 증오심과 편견을 드러내죠.
 
 [name="暴行"]是啊。凯尔希的确是......
+[name="サベージ"]そうだね。たしかにケルシーなら……
+[name="Savage"]That's right. Kal'tsit told you some...
+[name="새비지"]맞아, 켈시는 분명……
 
 [name="暴行"]......
+[name="サベージ"]……
+[name="Savage"]......
+[name="새비지"]……
 
 [name="暴行"]......咦？
+[name="サベージ"]……え？
+[name="Savage"]Huh?
+[name="새비지"]……으응?
 
 [name="暴行"]你说，你们的主任是谁？
+[name="サベージ"]あの、あなたたちの上司って？
+[name="Savage"]Who did you—just say your director was?
+[name="새비지"]당신네 주임 이름이 뭐라고?
 
 [name="罗德岛医疗干员"]是凯尔希女士。她可是我们罗德岛所有医疗干员的榜样。
+[name="ロドス医療オペレーター"]ケルシー主任です。彼女は、私たちロドスの全医療オペレーターのお手本なんですよ。
+[name="Rhodes Island Medic Operator"]Kal'tsit. She's an example to all our Medic Operators at Rhodes Island.
+[name="로도스 아일랜드 메딕 오퍼레이터"]켈시요. 로도스 아일랜드 소속의 모든 메딕 오퍼레이터가 가장 존경하는 분이시죠.
 
 [name="暴行"]凯尔希......主任......
+[name="サベージ"]ケルシー……主任……
+[name="Savage"]Director... Kal'tsit...
+[name="새비지"]켈시…… 주임……
 
 [name="暴行"]难道说......！
+[name="サベージ"]まさか……！
+[name="Savage"]Don't tell me...!
+[name="새비지"]설마……!
 
 [name="暴行"]你、你们的领袖呢？罗德岛，你们罗德岛组织的领袖叫什么名字？
+[name="サベージ"]じゃ、じゃあリーダーは？　あなたたちの――ロドスのリーダーはなんて名前？
+[name="Savage"]Who—Who's your leader? At Rhodes Island—What's the name of your leader at this Rhodes Island place?
+[name="새비지"]지, 지휘관…… 로도스 아일랜드의 지휘관…… 이름을 알 수 있을까?
 
 [name="罗德岛医疗干员"]她，呃......
+[name="ロドス医療オペレーター"]それは、あの……
+[name="Rhodes Island Medic Operator"]She's, um...
+[name="로도스 아일랜드 메딕 오퍼레이터"]엇, 그게……
 
 [name="暴行"]告诉我，拜托你了。
+[name="サベージ"]教えて、お願い。
+[name="Savage"]Tell me. Please, I need to know.
+[name="새비지"]알려줘, 부탁해.
 
 [name="罗德岛医疗干员"]她叫......
+[name="ロドス医療オペレーター"]リーダーは――
+[name="Rhodes Island Medic Operator"]She's called...
+[name="로도스 아일랜드 메딕 오퍼레이터"]이름은……
 
 [name="罗德岛医疗干员"]我们的首领，罗德岛组织现任领袖，她的名字是——
+[name="ロドス医療オペレーター"]私たちのトップ、ロドスの現リーダーである彼女の名前は――
+[name="Rhodes Island Medic Operator"]Our leader's, Rhodes Island's current leader's name is—
+[name="로도스 아일랜드 메딕 오퍼레이터"]저희의 보스, 로도스 아일랜드의 현임 지휘관의 이름은……
 
 [name="罗德岛医疗干员"]“阿米娅”。
+[name="ロドス医療オペレーター"]「アーミヤ」さんです。
+[name="Rhodes Island Medic Operator"]'Amiya.'
+[name="로도스 아일랜드 메딕 오퍼레이터"]'아미야'라고 합니다.
 
 [name="暴行"]......阿......米娅......
+[name="サベージ"]……アー……ミヤ……
+[name="Savage"]...A... miya...
+[name="새비지"]……아…… 미야……
 
 [name="罗德岛医疗干员"]......请问，有什么问题吗？
+[name="ロドス医療オペレーター"]……すみません、それが何か？
+[name="Rhodes Island Medic Operator"]Excuse me, is there a problem?
+[name="로도스 아일랜드 메딕 오퍼레이터"]……무슨 문제라도 있는 건가요?
 
 [name="暴行"]怎么会是阿米娅......如果真的是她，现在她的年龄也不过——
+[name="サベージ"]どうしてアーミヤちゃんが……？　もし本当に彼女だったとして、歳だってまだ――
+[name="Savage"]How is it Amiya...? If it really is her, she shouldn't be much older right now than—
+[name="새비지"]아, 아미야라고……? 그게 사실이라면, 나이가 겨우……
 
 [name="罗德岛医疗干员"]嗯，是的，我们的领袖十分年轻。
+[name="ロドス医療オペレーター"]ご存知なんですか？　ええ、そうです。私たちのリーダーはとても若いんです。
+[name="Rhodes Island Medic Operator"]Mm-hm, yes, our leader is considerably young.
+[name="로도스 아일랜드 메딕 오퍼레이터"]네, 맞아요. 저희 지휘관은 무척 젊죠.
 
 [name="罗德岛医疗干员"]但是......只要和阿米娅进行过一次交流便会知道，她拥有超越年龄的智慧和坚强的意志，是一位真正优秀的领导者。
+[name="ロドス医療オペレーター"]ですが……一度アーミヤさんと話せば、彼女が年齢を超越した知恵と強い意志を併せ持っていることがすぐに分かります。彼女は本当に優秀なリーダーなんですよ。
+[name="Rhodes Island Medic Operator"]But... you'll know once you talk to her, even once. She has wisdom beyond her years and a strong will. She's a truly outstanding leader.
+[name="로도스 아일랜드 메딕 오퍼레이터"]하지만…… 같이 일해보면 나이를 초월하는 지혜와 힘, 의지를 지닌 뛰어난 지휘관이라는 걸 알게 되실 거예요.
 
 [name="罗德岛医疗干员"]暴行小姐您会知道这些......莫非，是阿米娅小姐的旧识？
+[name="ロドス医療オペレーター"]サベージさんがご存じだったなんて……もしかして、アーミヤさんの古いお知り合いですか？
+[name="Rhodes Island Medic Operator"]Miss Savage, might you know some... Are you an old acquaintance of Amiya's, possibly?
+[name="로도스 아일랜드 메딕 오퍼레이터"]그런데 그걸 어떻게 아시는 거죠? 새비지 씨…… 혹시 아미야 씨와 아는 사이인가요?
 
 [name="暴行"]啊......嗯，我们......从很久以前就是好友。
+[name="サベージ"]あ……うん。あの子は私の……昔の親友なんだ。
+[name="Savage"]Ah... um, we... were good friends since long ago.
+[name="새비지"]아…… 응, 우린…… 오래전부터 알고 지낸 친구야.
 
 [name="暴行"]你们......你们能联系到阿米娅吗？只要说出我的名字，她一定会明白的。
+[name="サベージ"]あ……あなたたちはアーミヤちゃんと連絡が取れるの？　わたしの名前を出せば、すぐに分かってくれると思うんだけど。
+[name="Savage"]Can you... Can you get in contact with Amiya? Just say my name, and she'll know.
+[name="새비지"]혹시…… 아미야와 연락이 될까? 내 이름을 들려주면 바로 알 텐데.
 
 [name="罗德岛医疗干员"]我明白了。阿米娅小姐的确说过，她有十分亲密的好友，现在或许就在雷姆必拓......
+[name="ロドス医療オペレーター"]そういえば確かにアーミヤさんは、とっても仲のいい友達が、今はレム・ビリトンにいるかもしれないっておっしゃっていました。
+[name="Rhodes Island Medic Operator"]I see. Amiya did mention she had a very close friend who might be here in Rim Billiton now...
+[name="로도스 아일랜드 메딕 오퍼레이터"]알았어요. 엄청 친한 친구가 있다고 말하신 적 있었죠, 지금은 림 빌리턴에 있는 것 같다며……
 
 [name="暴行"]真的，真的是阿米娅......我能去见她吗？应该怎么做？
+[name="サベージ"]本当に……本当にアーミヤちゃんなんだ……ねぇ、彼女に会うにはどうすればいいの？
+[name="Savage"]It... It really is Amiya... Can I go see her? How?
+[name="새비지"]저, 정말 아미야가 맞구나…… 지금 만날 수 있을까? 어떻게 하면 만날 수 있어?
 
 [name="罗德岛医疗干员"]我现在就去联系罗德岛的信使。还有，暴行小姐，如果您有什么话想要带给她......
+[name="ロドス医療オペレーター"]ロドスのトランスポーターと連絡を取ってみます。サベージさん、何か彼女に伝えたいことがあれば――
+[name="Rhodes Island Medic Operator"]I'll get in touch with Rhodes Island's Messengers now. Also, Miss Savage, if you have anything you'd like us to relay to her...
+[name="로도스 아일랜드 메딕 오퍼레이터"]지금 로도스 아일랜드의 전달자에게 연락해 볼게요. 그리고 새비지 씨, 전하고 싶은 말이 있으면……
 
 [Subtitle(text="声音逐渐淡去。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="サベージの耳に届く声が、次第に遠くなっていった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The voice gradually fades.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="소리는 점점 희미해졌다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="在两年的时光里，暴行孑然一身，驻守在雷姆必拓矿区不曾离开。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女は戸惑い、そして思いを巡らせている。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="In this two-year span of time, Savage has been completely on her own, not once departing her post at that Rim Billiton mine.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="2년이라는 시간 동안, 새비지는 혼자서 림 빌리턴의 광산 구역을 지켰다. 한순간도 떠나지 않은 채.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="她迷茫。她思索。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="この二年の間、サベージはレム・ビリトンの採掘エリアに駐屯し、片時も離れたことはなかった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="She's bewildered. She's lost in thought.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="새비지는 방황하며 깊게 고민했다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="她曾想，接下去的人生或许就该在雷姆必拓安然度过。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女は今後の人生を、このレム・ビリトンで心穏やかに過ごすべきなのではないかと考えていた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="She once thought, maybe, she should spend the rest of her life sound in Rim Billiton.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="남은 인생을 아마도 림 빌리턴에서 조용히 보내게 될 거라고 생각했었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="然而，唤醒暴行的斗志和决心是如此轻而易举。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="しかし今――自身がかつて共に過ごし、思いやってきた者の名が、他人の口から発せられたその瞬間。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="But rousing Savage's fighting spirit, her resolve, was as easy as this.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="하지만 그런 새비지의 투지와 결심을 흔든 건 생각처럼 어렵지 않았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="就在一瞬间——在听到自己曾朝夕相处、关爱的名字从他人口中念出的那一刻。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="サベージの闘志と決心は、いとも簡単に燃え上がった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="It took just an instant—the one instant she heard, from someone else's mouth, the name of who she'd once cared for, been with day and night.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="자신과 온종일 함께 지내던, 사랑스러운 이름이 입 밖으로 흘러나온 순간……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="暴行已经明白，她一定会做出什么样的决定。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="そしてサベージは直感した。自分がどのような決断を下すのか……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Savage already understands just what sort of decision she's going to make.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="새비지는 자신이 어떤 결정을 내릴지 이미 알고 있었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 十五日后
+十五日後
+Fifteen days later
+보름 뒤
 
 钢铁萝卜城郊区 救助站 感染者病房内
+アイアンロボットシティ郊外 ロドス医療救護所 感染者病室内
+Steel Robot City Outskirts, Aid Station, in the Infected Ward
+아이언 로봇 시티 외곽지역, 구조 본부, 감염자 병동 안
 
 [name="老约翰"]......知道自己成了感染者的一瞬间，我甚至在想，是不是死了之后获得的抚恤金能让家里人过得更好。
+[name="ヨハン"]自分が感染者になったと知った瞬間、「あれ？　もしかして死んだ後に貰える補償金がありゃ、家族にもっといい生活をさせられるんじゃねえか？」なんて考えちまったよ。
+[name="Johnny"]The moment I realized I was Infected, I even thought, maybe my family would've been much better off if I'd just carked it and they got the compensation money.
+[name="요한 영감"]감염자가 됐다는 걸 깨달은 순간…… 죽어서 받게 되는 위로금으로 가족들이 편안하게 살았으면 좋겠다는 생각이 들더구나.
 
 [name="暴行"]别这么说。
+[name="サベージ"]そんなこと言わないでよ。
+[name="Savage"]Don't say that.
+[name="새비지"]그런 말 하지마.
 
 [name="老约翰"]我只是想着......唉。
+[name="ヨハン"]なに、ただちょっと頭に浮かんだだけさ。ハァ……
+[name="Johnny"]Just a thought I had... *sigh*.
+[name="요한 영감"]그냥 그런 생각이 들었다는 게다…… 참……
 
 [name="老约翰"]你知道吗，我第一件想到的事情，是问自己，该用什么表情面对我的家人？
+[name="ヨハン"]分かるか？　俺がまず考えたのは、一体どんな顔して家族と会えばいいかってことだよ。
+[name="Johnny"]The very first thing that came to mind, d'ya know, was I asked myself, how the hell should I face my family now?
+[name="요한 영감"]처음 생각난 게 뭔지 아니? 어떤 표정으로 가족들을 만나야 하나 하는 거였단다.
 
 [name="老约翰"]老婆和孩子都不喜欢我生气的样子，更不可能喜欢我哭丧的脸。
+[name="ヨハン"]うちの嫁さんと子供は、俺が怒るのが嫌いなんだ。俺の嘆き悲しむ顔なんてもっと嫌いに決まってる。
+[name="Johnny"]My better half and the kids don't like it when I'm angry, and they hate it even more when they see me cry.
+[name="요한 영감"]마누라랑 아이들은 내가 화내는 걸 좋아하지 않지. 근데 울먹거리는 걸 더 싫어하거든.
 
 [name="老约翰"]可是，见到他们的时候，我真的笑得出来吗？
+[name="ヨハン"]だから悲しい顔は見せたくない。けどな……あいつらに会う時に、俺は本当に笑えるんだろうか？　ってな。
+[name="Johnny"]But when it's time to meet them, am I really gonna be able to smile?
+[name="요한 영감"]하지만 가족들을 만났을 때, 내가 과연 웃을 수 있을까?
 
 [name="暴行"]这可不像你，老头儿。
+[name="サベージ"]らしくないよ、じい。
+[name="Savage"]This is nothing like you, you oldie.
+[name="새비지"]영감답지 않게 왜 그래?
 
 [name="暴行"]谁不知道，你可是方圆十公里最乐观的人。
+[name="サベージ"]じいが、この辺りじゃ一番楽観的な人だってことは、誰もが知っていることだよ。
+[name="Savage"]Everyone knows you as the most hopeful guy for miles around.
+[name="새비지"]이 근방에서 영감보다 더 낙천적인 사람이 어디 있다고.
 
 [name="暴行"]连你都耷拉着耳朵去见家人，弟兄们又该怎么面对？
+[name="サベージ"]じいまでが耳を垂れて家族に会わなきゃならないっていうんなら、他の人たちはどうすればいいの？
+[name="Savage"]When even you're seeing family with your ears drooped down, how're the rest of your mates meant to meet anyone?
+[name="새비지"]영감마저 잔뜩 기죽은 모습으로 가족들을 만나러 가면, 다른 분들은 또 어떻겠어?
 
 [name="雷姆必拓工人"]就是，就是！
+[name="レム・ビリトン鉱員"]そうだ、その通りだ！
+[name="Rim Billiton Worker"]Yeah, you're right!
+[name="림 빌리턴 인부"]암, 그렇고 말고!
 
 [name="雷姆必拓工人"]老约翰这愁眉苦脸的样子，把大家心情都搞坏啦！
+[name="レム・ビリトン鉱員"]ヨハンさんが浮かない顔をしてたら、俺たちみんなの気持ちもダメになっちまうだろ！
+[name="Rim Billiton Worker"]You're gonna spoil all our moods like that acting miserable, Johnny!
+[name="림 빌리턴 인부"]얼굴을 구긴 요한 씨를 보면 다들 기분이 상할 거라고!
 
 [name="老约翰"]哼，那是你们没有一群孩子要养，不知道其中的苦难。生活可难着呢。
+[name="ヨハン"]ふんっ、お前らみてぇに養ってるガキがいねえ奴らには、この辛さは分かんねえだろ。生活していくのも大変なんだぞ。
+[name="Johnny"]Hmph. You don't have a bunch of tykes to feed. You don't know the pain of it. Life's a bastard one.
+[name="요한 영감"]흥, 먹여 살릴 애들이 없으니 그 고충을 알 리 없지. 사는 게 어디 그리 쉬운 줄 알어!
 
 [name="雷姆必拓工人"]我们以后的日子也难着呢——
+[name="レム・ビリトン鉱員"]俺たちの今後の暮らしだって大変さ――
+[name="Rim Billiton Worker"]We're all gonna have some bloody awful days too—
+[name="림 빌리턴 인부"]우리도 고생길이 훤하다고……
 
 [name="老约翰"]唉，暴行，你别再接他们的话了。
+[name="ヨハン"]はぁ……サベージ、こいつらの口を塞いどいてくれ。気が滅入る。
+[name="Johnny"]Hey, Savage. Don't listen to another word from them.
+[name="요한 영감"]쯧! 새비지, 녀석들 말 받아주지 마라.
 
 [name="老约翰"]我已经想好了，继续在雷姆必拓做工的待遇实在养不活家里。
+[name="ヨハン"]よし、俺は決めたぞ。このままレム・ビリトンで鉱員を続けても、今後の待遇じゃ家族を養えねぇ……
+[name="Johnny"]I've already decided. Pay'll be nowhere near enough to feed my family if I keep working at Rim Billiton.
+[name="요한 영감"]림 빌리턴에서 계속 일해봤자 가족들 먹여 살리기 어려울 게다.
 
 [name="老约翰"]等病好起来，我们干脆就去哥伦比亚，大家一起加入“大拓荒”。
+[name="ヨハン"]体が動くようになったら、俺たちは思い切ってクルビアへ行って、皆で「大開拓」に参加しよう。
+[name="Johnny"]Once the sickness lifts a little, we'll be off to Columbia, simple as that. All of us are heading to be part of the 'Great Expansion.'
+[name="요한 영감"]병이 낫는 대로, 컬럼비아로 가서 '대개척'에 참가할 거다.
 
 [name="暴行"]老头......你真的准备离开？
+[name="サベージ"]じい……ここを離れるつもり？
+[name="Savage"]John... you're really about to leave?
+[name="새비지"]영감…… 정말 떠날 거야?
 
 [name="老约翰"]当我是雷姆必拓矿业的矿工的时候，我就是最勤奋、最卖力的工人。
+[name="ヨハン"]かつての俺は、レム・ビリトン鉱業内で一番勤勉な、一番労働力になる鉱員だった。
+[name="Johnny"]When I was a miner for Rim Billiton, I was the most diligent, hardworking worker, bar none.
+[name="요한 영감"]림 빌리턴에서 광부로 일하는 동안 그 누구보다도 열심히 일했다.
 
 [name="老约翰"]现在，我是感染者了，不管还剩多少日子，我也要让家人一直过幸福稳定的生活。
+[name="ヨハン"]だが、今の俺は感染者だ。残った命がどれだけ持つか知らないが、最期まで、家族に幸せで安定した生活をさせてやる必要がある。
+[name="Johnny"]Now, I'm an Infected, and no matter how long I've still got left, I have to keep everyone at home living safely. Living happily.
+[name="요한 영감"]이젠 감염자가 됐으니 가족들과 행복하게 살고 싶구나, 얼마나 많은 시간이 주어질지는 모르겠지만.
 
 [name="暴行"]你有没有想过，只要雷姆必拓的矿一天不挖完，这样的往复的日子......
+[name="サベージ"]じい、考えたことはある？　レム・ビリトンに埋まっている鉱石がすべて掘り尽くされる日まで、この繰り返しの毎日は……
+[name="Savage"]Has it ever come to mind, so long as Rim Billiton's not done digging by the end of the day, this back-and-forth life's just gonna...
+[name="새비지"]림 빌리턴의 광산이 금방 바닥을 드러내지만 않는다면, 이렇게 똑같은 나날을 보내는 것도……
 
 [name="老约翰"]暴行。
+[name="ヨハン"]サベージ。
+[name="Johnny"]Savage.
+[name="요한 영감"]새비지.
 
 [name="老约翰"]每个人，每个时代，都有着不得不肩负的使命和责任。
+[name="ヨハン"]人や世代によって、皆それぞれに背負わざるを得ない使命や責任というモンがあるんだ。
+[name="Johnny"]Every person, every age, has callings and responsibilities to answer.
+[name="요한 영감"]누구나, 그리고 모든 시대는 짊어져야 하는 사명과 책임을 지니고 있단다.
 
 [name="老约翰"]我从来不为自己成为一个矿场工人羞愧。在雷姆必拓，没有人会这么想。
+[name="ヨハン"]俺は今まで、採掘場の鉱員である自分を恥じたことは一度もねぇ。レム・ビリトンにゃ、そんな風に思う奴はいねぇよ。
+[name="Johnny"]I've never once been ashamed of being a mineworker. Nobody in Rim Billiton'd ever think that.
+[name="요한 영감"]광부로 일하는 나를 부끄럽게 여긴 적은 없었단다. 림 빌리턴에서 그렇게 생각하는 사람은 단 한 명도 없지.
 
 [name="老约翰"]但是暴行，几年前你离开雷姆必拓，两年前又回来后，你的想法变了吧。
+[name="ヨハン"]だがサベージ……お前はここを離れて、二年前に戻って来てから、考えが変わったんだろう？
+[name="Johnny"]But, you see, Savage, you left Rim Billiton, been back two years, and your thinking changed.
+[name="요한 영감"]하지만 몇 년 전 림 빌리턴을 떠났다가 돌아온 넌 달라졌더구나.
 
 [name="暴行"]......是的。
+[name="サベージ"]……そうだね。
+[name="Savage"]Yeah...
+[name="새비지"]……응.
 
 [name="老约翰"]我知道，你从小就不是个普通兔子。每个人都有自己的使命和责任。
+[name="ヨハン"]お前は小さい頃から、普通のガキじゃあなかった。さっきも言った通り、人にはそれぞれ、自分の使命と責任がある。
+[name="Johnny"]I knew you'd be no ordinary rabbit, ever since you were a nipper. Every last person has their own calling, and their own responsibilities.
+[name="요한 영감"]어린 네가 평범한 토끼가 아니라는 건 진즉에 알고 있었단다. 모두들 저마다의 사명과 책임을 지고 있지.
 
 [name="老约翰"]你的锤子救了我们的命，接下来的日子，你也会拯救更多的人。
+[name="ヨハン"]お前のハンマーが俺たちの命を救ってきた。そしてこれからの日々でも、もっと大勢を救うつもりなんだろ。
+[name="Johnny"]Your hammer's saved our lives. In the days to come, you'll be saving countless more.
+[name="요한 영감"]네 해머가 우리를 구했다. 앞으로 넌 더 많은 사람을 구하게 될 게야.
 
 [name="老约翰"]如果有必须要保护的人，那就离开吧。我也一样。
+[name="ヨハン"]もしも守るべき奴がいるなら、ここを離れりゃいい。俺も同じだ。
+[name="Johnny"]If there's someone you need to protect, then leave, eh. It's the same for me.
+[name="요한 영감"]지켜줘야 할 사람이 있으면, 떠나려무나. 나처럼 말이야.
 
 [name="暴行"]......
+[name="サベージ"]……
+[name="Savage"]......
+[name="새비지"]……
 
 [name="老约翰"]......
+[name="ヨハン"]……
+[name="Johnny"]......
+[name="요한 영감"]……
 
 [name="老约翰"]嘿，看你那表情。其实你早就决定好了吧？
+[name="ヨハン"]へっ、その顔……本当はもうとっくに決めてたんだろ？
+[name="Johnny"]Heh, peek at the face you're making. Looks like you made your mind up long ago, didn'tcha?
+[name="요한 영감"]허허, 네 표정을 보니 이미 결심이 선 게로구나.
 
 [name="暴行"]别说得好像我是个无情的家伙嘛，老头儿。
+[name="サベージ"]そんな、わたしをレム・ビリトンへの情がない人みたいに言わないでよ、じい。
+[name="Savage"]Hey, I'm not some emotionless robot, you oldie.
+[name="새비지"]영감, 날 피도 눈물도 없는 사람 취급하진 말아줘.
 
 [name="暴行"]只是，这是我一定要去做的事情。
+[name="サベージ"]でも、これはわたしがやらなきゃいけないことなの。
+[name="Savage"]It's just, this is something I've gotta go do.
+[name="새비지"]다만, 내가 꼭 해야만 하는 일이 있을 뿐이야.
 
 [name="暴行"]我有必须保护的朋友。
+[name="サベージ"]必ず守らなきゃいけない友達がいるんだ。
+[name="Savage"]I have a friend I need to protect.
+[name="새비지"]친구를 지켜줘야 해.
 
 [name="暴行"]终于......我又找到她，能够见到她了。
+[name="サベージ"]やっと……彼女を見つけて、また会えることになったんだ。
+[name="Savage"]Finally... I've found her again. I can see her again.
+[name="새비지"]마침내…… 다시 찾았어. 친구를 만날 수 있게 됐어.
 
 [name="暴行"]哪怕是一份绵薄之力，为了她，我也会倾尽所有的力量。
+[name="サベージ"]たとえ微力だとしても、彼女のために、わたしのすべてを尽くす。
+[name="Savage"]Even if it's just the slightest thing, for her, I'll give every last bit of strength I have.
+[name="새비지"]미약하지만, 친구를 위해서 모든 걸 다 바치고 싶어.
 
 [name="老约翰"]哼，哪有什么值得“倾尽所有”的事情，都是你们年轻人太天真了。
+[name="ヨハン"]ふんっ。「すべてを尽くす」価値があるものなんてねぇよ。お前ら若いモンは純粋すぎるんだ。
+[name="Johnny"]Hmph. There's nothing out there worth giving 'every last bit.' That's just you youngsters being too naive.
+[name="요한 영감"]흥, 모든 걸 바친다고 할 만한 일 같은 게 어디 있다 그래? 그게 다 혈기라는 거다.
 
 [name="暴行"]哈哈......说得好像当初为了家人下井、现在要为了家人离开的人不是你。你不也是拼尽全力，倾尽所有？
+[name="サベージ"]あはは……じいだって一緒じゃない？　家族のために鉱山に入り、今度は家族のためにこの街を離れようとしているのは誰なの？
+[name="Savage"]Haha... I mean, going into the mines for your family, and coming back out now for them, you said that, didn'tcha? You're using all your strength, giving it all you have too, right?
+[name="새비지"]하하…… 가족을 위해 갱도에 들어가고, 이제는 가족을 위해 떠나겠다고 말한 게 어디의 누구시더라? 영감도 최선을 다하고, 모든 걸 바치려고 하는 거 아냐?
 
 [name="老约翰"]哪一样？我这是养家糊口......！
+[name="ヨハン"]どこが一緒だってんだ？　家族を養うってことはだな――
+[name="Johnny"]Who says I'm like you? I'm trying to feed a family here!
+[name="요한 영감"]어디가 같다는 거야? 나야 가족들 먹여 살리느라……!
 
 [name="暴行"]是是。
+[name="サベージ"]はいはい。
+[name="Savage"]Alright, alright.
+[name="새비지"]늬예~ 늬예~
 
 [name="老约翰"]哼......
+[name="ヨハン"]ふん……
+[name="Johnny"]Hmph...
+[name="요한 영감"]말하는 버릇하고는…… 쯧쯧쯧……
 
 [name="老约翰"]你准备什么时候出发？
+[name="ヨハン"]で、いつ出発するんだ？
+[name="Johnny"]When're you looking to head out?
+[name="요한 영감"]언제 떠날 생각이냐?
 
 [name="暴行"]今天。再最后来看一看你，然后就要启程了。
+[name="サベージ"]今日だよ。だから最後にじいに会いにきたんだ。このあとすぐに出発するつもり。
+[name="Savage"]Today. Came to see you for the last time, and then I'll be setting off.
+[name="새비지"]오늘. 마지막으로 영감한테 인사하고 출발할 생각이었어.
 
 [name="老约翰"]这两年里，有你的帮忙，我们才没出什么事故。
+[name="ヨハン"]この二年間、お前のおかげで、俺たちは事故を起こさずに済んだ。
+[name="Johnny"]It's been by your help we didn't have one accident these past two years.
+[name="요한 영감"]그동안 네 덕분에 무사할 수 있었다.
 
 [name="老约翰"]即便是这次，也是你救出了还活着的我们......感激不尽。
+[name="ヨハン"]そして今回、お前は死ぬところだった俺たちを助け出してくれた。心から感謝してる。
+[name="Johnny"]And this one, well, it was you again who pulled us out alive... can't thank you enough.
+[name="요한 영감"]이번에도 네 덕분에 목숨을 건지게 되어서…… 정말 고맙구나.
 
 [name="暴行"]说这些可就让我没法谦让了。
+[name="サベージ"]そんな事言われたら、名残惜しくなっちゃうよ……
+[name="Savage"]Well, you've got me put on a pedestal.
+[name="새비지"]그렇게까지 말하니 나도 더는 안 뺄게.
 
 [name="暴行"]老头，可要好好珍惜我救下的命，把接下来的日子过好哦？
+[name="サベージ"]じい、わたしが救った命を大切にしてよ。これからも元気でね。
+[name="Savage"]John, you need to cherish the life I saved, and make sure you live the coming days well, alright?
+[name="새비지"]영감, 내가 구해줬으니 꼭 행복하게 살아야 해.
 
 [name="老约翰"]臭丫头。
+[name="ヨハン"]小娘。
+[name="Johnny"]You rotten little girl.
+[name="요한 영감"]하여간 너란 아이는……
 
 [name="老约翰"]再见。
+[name="ヨハン"]またな。
+[name="Johnny"]See you.
+[name="요한 영감"]잘 가려무나.
 
 [name="暴行"]再见。老约翰。
+[name="サベージ"]またね、じい。
+[name="Savage"]See you too. Johnny.
+[name="새비지"]잘 있어, 영감.
 
 [name="暴行"]（......暂时要告别了，雷姆必拓。）
+[name="サベージ"]（……しばらくお別れだね、レム・ビリトン。）
+[name="Savage"](It'll be goodbye for now, Rim Billiton.)
+[name="새비지"](……잠시만 안녕, 림 빌리턴.)
 
 [name="暴行"]抱歉，久等了。
+[name="サベージ"]待たせてごめんなさい。
+[name="Savage"]Sorry, I've been keeping you.
+[name="새비지"]미안, 기다렸지.
 
 [name="罗德岛医疗干员"]暴行小姐，已经完成道别了吗？
+[name="ロドス医療オペレーター"]サベージさん、お別れの挨拶は済みましたか？
+[name="Rhodes Island Medic Operator"]Miss Savage, are you already done with all your goodbyes?
+[name="로도스 아일랜드 메딕 오퍼레이터"]새비지 씨, 작별 인사는 다 하신 건가요?
 
 [name="暴行"]老头也真是......到最后还提醒我，让我回家里再认真告别一次。
+[name="サベージ"]まったく……じいってば、最後の最後で、もう一度家に戻って真面目に別れを告げてこいだなんて……
+[name="Savage"]Seriously, John... told me right at the end, I should head back home again and give them a proper farewell.
+[name="새비지"]영감도 진짜…… 집에 가서 확실하게 인사드리라고 끝까지 잔소리하더라.
 
 [name="暴行"]昨天回家和父母道别的时候，母亲可还在念叨着“下次回来也该有对象了”呢。
+[name="サベージ"]昨日家で両親に挨拶したときに、母さんから「次に帰ってくるときにはきっと良い人が見つかってるわね」なんて茶化されたばっかりなんだよ！
+[name="Savage"]Yesterday when I said goodbye to my mum and dad, my mum was going on about 'next time you come back, you'll have a special someone.'
+[name="새비지"]어제 집에 가서 부모님께 인사드렸더니 엄마는 다음에 집에 올 땐 짝을 데려오라며 잔소리만 하고……
 
 [name="暴行"]......我这是为了事业！
+[name="サベージ"]……わたしはわたしの成すべきことのために行くっていうのに！
+[name="Savage"]This is for my career here!
+[name="새비지"]……일하러 가는 건데 말이야!
 
 [name="罗德岛医疗干员"]哈，哈哈。
+[name="ロドス医療オペレーター"]あは……あははは。
+[name="Rhodes Island Medic Operator"]Hah, haha.
+[name="로도스 아일랜드 메딕 오퍼레이터"]하, 하하.
 
 [name="罗德岛医疗干员"]真是其乐融融呢。
+[name="ロドス医療オペレーター"]とても……和やかな家庭ですね。
+[name="Rhodes Island Medic Operator"]All of you are such a happy group.
+[name="로도스 아일랜드 메딕 오퍼레이터"]유쾌한 분들이네요.
 
 [name="罗德岛医疗干员"]和本舰沟通后快速办理的入职申请已经通过了。这些是人事招聘合同。
+[name="ロドス医療オペレーター"]さて、ロドス本艦と連絡を取って急きょ提出した入職申請ですが、すでに通りました。こちらは招聘契約書です。
+[name="Rhodes Island Medic Operator"]I've linked up with the landship, and the expedited onboard application's all gone through. These papers are a recruitment contract from HR.
+[name="로도스 아일랜드 메딕 오퍼레이터"]본함에 연락해서 입사 신청서는 이미 통과시켜 놨어요. 이건 채용 계약서입니다.
 
 [name="罗德岛医疗干员"]详细的工作事务就在抵达本舰后交接吧，罗德岛十分欢迎暴行小姐您的到来。
+[name="ロドス医療オペレーター"]職務の詳細は登艦後に説明を受けてください。というわけで、ロドスはサベージさんを歓迎いたします。
+[name="Rhodes Island Medic Operator"]Detailed work matters should be handed over once we reach the landship, Miss Savage. Rhodes Island very much welcomes your arrival.
+[name="로도스 아일랜드 메딕 오퍼레이터"]업무에 관한 자세한 내용은 본함에 도착한 후 확인하시면 돼요. 로도스 아일랜드에 합류하신 걸 축하드려요, 새비지 씨.
 
 [name="罗德岛医疗干员"]那么......暴行小姐，一路顺风。
+[name="ロドス医療オペレーター"]それでは……サベージさん、お気を付けて。
+[name="Rhodes Island Medic Operator"]Well then... Miss Savage, have a good journey.
+[name="로도스 아일랜드 메딕 오퍼레이터"]그럼…… 새비지 씨, 행운을 빌어요.
 
 [name="暴行"]......终于，终于。
+[name="サベージ"]……いよいよ、ついに。
+[name="Savage"]Finally, finally.
+[name="새비지"]드디어…… 드디어.
 
 [name="暴行"]我找到了。
+[name="サベージ"]あなたに会える。
+[name="Savage"]I've found it.
+[name="새비지"]드디어 찾았어.
 
 [name="暴行"]阿米娅，你变成什么样了呢？
+[name="サベージ"]アーミヤちゃん、どんな風に成長したの？
+[name="Savage"]Amiya, what are you like now?
+[name="새비지"]아미야, 넌 어떻게 변했을까?
 
 [name="暴行"]已经成长为领袖了，真了不起。
+[name="サベージ"]もうリーダーにまでなっちゃったなんて。本当にすごいね。
+[name="Savage"]You've already grown into a leader. That's incredible.
+[name="새비지"]지휘관이 되다니, 정말 대단해.
 
 [name="暴行"]等着我吧，阿米娅。不论发生了什么，现在肩负着什么样的使命。
+[name="サベージ"]待っててね、アーミヤちゃん。今、そっちで何があったのか、どんな使命を背負っているかはわからないけど――
+[name="Savage"]Wait for me, Amiya. No matter what happens, no matter what calling you're shouldering.
+[name="새비지"]기다려 줘, 아미야. 무슨 일이 있어도, 어떤 사명도 다 짊어지겠어.
 
 [name="暴行"]我有好多想告诉你、想和你分享的故事。你会想听吗？
+[name="サベージ"]話したいことがたくさんあるんだ。聞いてくれるかな？
+[name="Savage"]I've got a lot I want to tell you, a lot of stories I want to share. Will you want to hear them?
+[name="새비지"]네게 들려주고 싶은 이야기가 잔뜩이야. 들어줄래?
 
 [name="暴行"]这两年里，你遇到的快乐的事情、难过的事情，我遇到的快乐的事情、难过的事情——
+[name="サベージ"]この二年間に、あなたとわたしがそれぞれに経験した、楽しかったこと、辛かったこと全部――
+[name="Savage"]All the good and the bad that you've been through, all the good and the bad I've been through, in all these two years—
+[name="새비지"]네가 겪은 즐거운 일도, 힘들었던 일도…… 내가 겪었던 즐거운 일도, 힘들었던 일도……
 
 [name="暴行"]在见面以后，来尽情诉说吧。
+[name="サベージ"]顔を合わせて、心ゆくまで話そうね。
+[name="Savage"]Once we meet, let's tell each other all we want.
+[name="새비지"]만나서 마음껏 이야기하자.
 

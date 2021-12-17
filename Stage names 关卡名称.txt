@@ -1519,6 +1519,111 @@ pro_d_2
 Assault
 맹공
 
+act13side_st01
+欣欣向荣
+
+act13side_tr01
+城市之光
+
+act13side_01
+金盏花
+
+act13side_02
+垂死的刺
+
+act13side_03
+筹备着
+
+act13side_04
+诗的容貌
+
+act13side_st02
+权与力
+
+act13side_tr02
+骑士流氓
+
+act13side_05
+人言可畏
+
+act13side_06
+被包围者
+
+act13side_st03
+酣眠的城市
+
+act13side_07
+梦的余韵
+
+act13side_08
+最后的怯薛
+
+act13side_09
+叹息
+
+act13side_10
+耀骑士
+
+act13side_st04
+未知与未来
+
+act13side_ex01
+都市怪谈
+
+act13side_ex02
+合理推测
+
+act13side_ex03
+素材复用
+
+act13side_ex04
+自由买卖
+
+act13side_ex05
+狂热粉丝
+
+act13side_ex06
+行为艺术
+
+act13side_ex07
+后援联谊会
+
+act13side_ex08
+独家专访
+
+act13side_s01
+联合会大楼暗道
+
+act13side_s02
+冠军街道
+
+act13side_s03
+散华驻地
+
+act13side_s04
+赤盏驻地
+
+act13side_s05
+无胄盟据点
+
+act9mini_01
+旁敲侧击
+
+act9mini_02
+风口浪尖
+
+act9mini_03
+磨刀
+
+act9mini_04
+自取灭亡
+
+act9mini_05
+竞赛
+
+act9mini_06
+双人赛
+
 act12side_st01
 不期而遇
 
@@ -1653,78 +1758,153 @@ act1lock_c-01
 
 act7mini_01
 深入敌阵
+敵陣深く
+Deep Into Enemy Lines
+적진 깊숙이
 
 act7mini_02
 混淆焦点
+虚実混交
+Focused Confusion
+엇갈린 초점
 
 act7mini_03
 据守
+防衛
+Bunker Down
+사수
 
 act7mini_04
 喋血
+血戦
+Sanguinary
+피투성이
 
 act7mini_05
 盟军
+盟友
+Allies
+동맹군
 
 act18d3_01
 闯入者
+侵入者
+Intruder
+침입자
 
 act18d3_tr01
 疼痛增幅
+痛みの増幅
+Intensified Pain
+악화된 통증
 
 act18d3_02
 歌手
+歌い手
+Singer
+가수
 
 act18d3_03
 外来者
+異邦人
+Outsider
+외부자
 
 act18d3_04
 海洋
+海洋
+Ocean
+바다
 
 act18d3_05
 遭弃者
+捨て去られし者
+Outcast
+버려진 사람
 
 act18d3_06
 厌食
+拒食
+Anorexia
+식욕 부진
 
 act18d3_07
 守护者
+守護者
+Protector
+수호자
 
 act18d3_st01
 唤醒噩梦
+呼び起こされし悪夢
+Waking Nightmare
+악몽에서 깨어나
 
 act18d3_08
 亲族
+血族
+Kin
+친족
 
 act18d3_09
 笃信者
+信仰者
+Believer
+광신도
 
 act18d3_st02
 侥幸离去
+出国の許し
+Lucky to Escape
+가까스로 탈출
 
 act18d3_ex01
 喷涌而出
+噴出
+Gushing Forth
+용솟음
 
 act18d3_ex02
 快速失败
+迅速な失敗
+Fail-Fast
+빠른 실패
 
 act18d3_ex03
 投怪忌器
+触らぬ魚に祟りなし
+Instrument of Castigation
+투서기기
 
 act18d3_ex04
 崩溃边缘
+崩壊寸前
+The Brink of Collapse
+붕괴의 경계선
 
 act18d3_ex05
 开枝散叶
+氾濫
+Genesis and Exodus
+끝없는 번성
 
 act18d3_ex06
 牙尖爪利
+鋭利なる肢体
+Sharp Claws and Fangs
+날카로운 발톱
 
 act18d3_ex07
 水火不容
+相容れぬ
+Fire and Water Unmixing
+불과 물
 
 act18d3_ex08
 自由意志
+自由意志
+Free Will
+자발적 의지
 
 act18d0_01
 赤角小镇之围
@@ -2579,7 +2759,7 @@ act11d0_03
 高塔烟火
 高塔の花火
 Burning Spire
-불타는 탑
+불타는 대의회탑
 
 act11d0_04
 复仇之魂
@@ -2597,7 +2777,7 @@ act11d0_06
 怒意漫延
 蔓延する怒り
 Fanning Flames
-퍼져가는 분노
+만연하는 분노
 
 act11d0_07
 群峦崩塌
@@ -2621,7 +2801,7 @@ act11d0_s01
 三座巨像
 三体の巨像
 The Three Colossi
-세 개의 거대 석상
+세 개의 거상
 
 act11d0_s02
 一束哀悼
@@ -3309,10 +3489,16 @@ Abandoned Mine
 
 camp_r_04
 潮没海滨
+フラッドビーチ
+Flooded Seashore
+파도치는 해변
 
 camp_r_05
 积水潮窟
 
 camp_r_06
 长泉镇郊野
+
+camp_r_07
+多索雷斯换水口
 

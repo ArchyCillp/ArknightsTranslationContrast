@@ -1,316 +1,790 @@
 [name="阿米娅"]呼，博士，看来刚好赶上了试吃时间呢，我们也加入吧。
+[name="アーミヤ"]ふぅ……ドクター、ちょうど試食の時間に間に合ったみたいです。私たちも仲間に入れてもらいましょう。
+[name="Amiya"]Phew. Doctor, it seems we've made it just in time for the tasting. Let's take part too.
+[name="아미야"]후우, 박사님. 시식할 시간이 된 것 같은데 우리도 합류할까요?
 
 [name="暴行"]欢迎！
+[name="サベージ"]食べて食べて！
+[name="Savage"]Be my guests!
+[name="새비지"]어서 와!
 
 [name="暴行"]味道怎么样？自从来到罗德岛，我还没有认真做过这道菜......
+[name="サベージ"]お味はどう？　ロドスに来てから、本格的にこれを作ったのは初めてだから……
+[name="Savage"]How's the flavor? I haven't made this properly since coming to Rhodes Island...
+[name="새비지"]맛이 어때? 로도스 아일랜드에 온 뒤로 제대로 만들어 본 적 없는 요리라서……
 
 [name="阿米娅"]嗯......嗯......呼呼呼......
+[name="アーミヤ"]はふっ……はふっ……ふー、ふー……
+[name="Amiya"]Nmh... mmh... fhh-fhah-hah...
+[name="아미야"]으음…… 으음…… 앗 뜨거……
 
 [name="暴行"]小心，阿米娅，吃得太快了会被烫着。
+[name="サベージ"]アーミヤちゃん、気を付けてね。急いで食べると火傷しちゃうよ。
+[name="Savage"]Careful, Amiya, you'll burn yourself if you eat too fast.
+[name="새비지"]천천히 먹어. 급하게 먹다가 혀 데일라.
 
 [name="阿米娅"]好......好吃，这有嚼劲的芝士、酥脆的外皮和又甜又脆的胡萝卜口感......和以前的味道一模一样。
+[name="アーミヤ"]お……おいしいです。もちもちした食感のチーズ、サクサクのパイ生地に甘くてシャキシャキのニンジン……昔食べたものと全く同じ味です！
+[name="Amiya"]It tastes... so good, with the chewy cheese, the crisp crust and the carrot both crunchy and sweet... it tastes exactly just like it used to.
+[name="아미야"]마…… 맛있어요! 쫄깃한 치즈랑 바삭거리는 식감, 달콤하면서도 아삭한 당근의 식감…… 예전 맛이랑 완전 똑같은걸요.
 
 [name="暴行"]（舒气）太好了。
+[name="サベージ"]ふぅ……よかった。
+[name="Savage"](Sigh of relief) I'm so glad to hear.
+[name="새비지"](한시름 놓으며) 다행이다.
 
 [name="阿米娅"]博士，你也快尝一块——
+[name="アーミヤ"]ドクター、早く食べてみてください――
+[name="Amiya"]Doctor, come on, you try some too—
+[name="아미야"]박사님, 박사님도 드셔보세요……
 
 [name="暴行"]啊，稍等，博士，这一份是给你的。
+[name="サベージ"]あ、待って。ドクターの分はこっちだよ。
+[name="Savage"]Ah, one moment, Doctor. This portion's for you.
+[name="새비지"]앗, 잠깐! 박사는 이거야.
 
 [Decision(options="嗯？", values="1")]
+[Decision(options="ん？　何か違うのか？", values="1")]
+[Decision(options="Hm?", values="1")]
+[Decision(options="으음?", values="1")]
 
 [name="暴行"]是我根据博士的口味专门制作的，在调味的时候稍有差别，我觉得会更适合博士你。
+[name="サベージ"]これはドクターの好みに合わせて味付けを少し変えてるんだ。こっちの方がドクターの口に合うと思うよ。
+[name="Savage"]Specialized according to your tastes, slightly differently seasoning to suit you even better, I think.
+[name="새비지"]박사의 입맛에 맞춰서 만들어 봤어. 양념을 다르게 써 봤는데 박사한테는 이게 더 입에 맞을 거야.
 
 [Decision(options="嗯......这种甜味的口感不错啊。;嗯......这种咸味的口感不错啊。;嗯......这种特辣的口感不错啊。", values="1;2;3")]
+[Decision(options="うん……この甘さがいいね。;うん……このしょっぱさがいいね。;うん……この激辛がたまらないね。", values="1;2;3")]
+[Decision(options="Mmm... this sweetness isn't bad.;Mmm... this saltiness isn't bad.;Mmm... this spiciness isn't bad.", values="1;2;3")]
+[Decision(options="음…… 이런 달달한 맛, 나쁘지 않은데.;음…… 이렇게 짭조름한 맛, 나쁘지 않은데.;음…… 이렇게 칼칼한 맛, 나쁘지 않은데.", values="1;2;3")]
 
 [name="暴行"]哼哼！博士果然喜欢这样的味道吧？我在传统做法上改良了一些，这样就能够符合博士的口味了。
+[name="サベージ"]ふふん！　やっぱり好きな味だったでしょ？　伝統的な作り方を少しアレンジすれば、ドクターの好みにだって合わせられるんだよ。
+[name="Savage"]Heheh! You like that kind of flavor, don't you? I tweaked the traditional methods a little, make your taste buds a happy camper.
+[name="새비지"]후훗, 박사는 역시 이런 맛을 좋아하는구나. 전통 조리법에 퓨전 스타일을 더한 게 박사의 입맛에는 더 맞을 거야.
 
 [Decision(options="暴行对我的口味很了解啊。", values="1")]
+[Decision(options="どうして好みが分かったんだ？", values="1")]
+[Decision(options="You've got an incredible idea of my palate.", values="1")]
+[Decision(options="내 입맛을 잘 알고 있네, 새비지.", values="1")]
 
 [name="暴行"]那是自然，我的记忆力可好了，以前的博士，最喜欢的派的口味就是......
+[name="サベージ"]わたし、記憶力はとってもいいんだ。昔のドクターが一番好きだったパイの味はこういう……
+[name="Savage"]Only natural I do, my memory's strong stuff. The old Doctor's most favorite pie was flavored just like...
+[name="새비지"]그야 당연하지, 기억력이 좋은 편이거든. 예전의 박사가 가장 좋아했던 게……
 
 [name="暴行"]......啊。
+[name="サベージ"]……あ。
+[name="Savage"]...Ah.
+[name="새비지"]……앗.
 
 [Decision(options="以前的我也喜欢这个口味？;......;看来品味一直不错。", values="1;2;3")]
+[Decision(options="昔もこのパイが好きだったのか？;……;昔から味の分かる奴だったんだな。", values="1;2;3")]
+[Decision(options="The old me liked this flavor too?;......;Seems like my taste's never slipped.", values="1;2;3")]
+[Decision(options="예전의 나도 이런 맛을 좋아했었나?;……;여전히 맛있는걸.", values="1;2;3")]
 
 [name="暴行"]抱、抱歉，博士你，不记得这件事了吧？
+[name="サベージ"]ご、ごめん。ドクターは覚えてないんだよね？
+[name="Savage"]S—Sorry. You don't remember it, do you, Doctor?
+[name="새비지"]미, 미안. 박사, 그 일 기억 못 하는 거지?
 
 [name="暴行"]对不起，是我不好，一不小心就这样说了......
+[name="サベージ"]ごめんなさい、つ、つい無神経なことを……
+[name="Savage"]I'm sorry, it's my fault. The moment I get careless I just start blurting out...
+[name="새비지"]미안해, 내 잘못이야. 실수로 그런 말을……
 
 [Decision(options="没关系，留有美好的回忆不是什么应该道歉的事。", values="1")]
+[Decision(options="思い出を大切にするのは、謝るようなことじゃない。", values="1")]
+[Decision(options="It's fine. There's nothing sorry about retaining nice memories.", values="1")]
+[Decision(options="괜찮아, 아름다운 기억이 남아있는 게 사과할 일은 아니니까.", values="1")]
 
 [name="暴行"]谢谢你，博士......
+[name="サベージ"]ありがとう、ドクター……
+[name="Savage"]Thank you, Doctor...
+[name="새비지"]고마워, 박사……
 
 [name="阿米娅"]博士也这么说了，没关系的，暴行姐姐。今天的派和记忆中的一样美味哦！而且，总觉得胡萝卜的口感更加香浓了。
+[name="アーミヤ"]ドクターもこう言ってますし、大丈夫ですよ。それより、今日のパイは昔食べたのと同じように美味しかったです！　しかも、ニンジンがなんだかより一層香り高くなったような気がします。
+[name="Amiya"]See, the Doctor says it's fine too, Savage. Today's pie tastes just like the one from memory! I feel like the carrot's even tastier, on top of that.
+[name="아미야"]박사님께서 괜찮다고 했잖아요, 언니. 오늘 먹은 파이는 기억 속 맛처럼 정말 끝내줬어요! 게다가 당근 향이 더 진해진 것 같아요.
 
 [name="暴行"]这几年我也一直在练习嘛。虽然这几年一直过着单身生活，哈，哈哈......
+[name="サベージ"]ここ数年ずっと練習してたからね。ずっと独り身だし、一人で黙々とね……あは、あはは……
+[name="Savage"]I've been practicing the whole time these last few years. Even though it was a completely solitary life, ha, haha...
+[name="새비지"]몇 년 동안 계속 연습했거든. 덕분에 줄곧 솔로로 지내야 했지만. 하.하.하……
 
 [name="暴行"]我会把派做好后，分给自己的家人、同事和街坊邻居们都尝尝。
+[name="サベージ"]試作したパイは、家族や同僚、ご近所さんたちに味見してもらってたんだよ。
+[name="Savage"]I'd share my pies out for my family, my coworkers and my neighbors to try when I made them.
+[name="새비지"]맛있는 파이를 만들어서 가족과 친구들, 이웃들에게 맛을 보여 주고 싶었어.
 
 [name="阿米娅"]暴行姐姐爱照顾人这一点一直没变呢。
+[name="アーミヤ"]サベージさんのお世話好きなところは、変わっていませんね。
+[name="Amiya"]The part of you that loves taking care of people hasn't changed a bit, Savage.
+[name="아미야"]주변 사람 챙기는 걸 좋아하는 건 여전하네요.
 
 [name="阿米娅"]嗯，这份甜味......
+[name="アーミヤ"]うーん、この甘み……
+[name="Amiya"]Mmm, so sweet...
+[name="아미야"]음, 이 단맛은……
 
 [name="阿米娅"]果然雷姆必拓特产的胡萝卜就是不一样啊，虽然花费了很大力气，果然还是买对了。
+[name="アーミヤ"]さすがレム・ビリトン産のニンジンは違いますね……仕入れるのは大変でしたが、買って大正解でした。
+[name="Amiya"]There really is something different about Rim Billiton's local specialty carrots. We might've spent a lot of energy getting them, but we didn't go wrong in the end.
+[name="아미야"]림 빌리턴의 특산물답게 당근 맛이 확실히 다르네요. 고생을 하긴 했지만 그래도 잘 산 것 같아요.
 
 [name="暴行"]可恶，想到这件事情我就生气。要不是那些讨厌的商人......
+[name="サベージ"]そうそう、大変だったよ……あー、思い出したらムカついてきた。あのいけ好かない商人ときたら……
+[name="Savage"]Strewth, it makes me angry just thinking about it. If it wasn't for those awful merchants...
+[name="새비지"]하지만 그 일만 생각하면 화가 나. 짜증 나는 상인들만 아니었어도……
 
 [name="阿米娅"]咦？另有隐情吗？
+[name="アーミヤ"]え？　何か問題があったんですか？
+[name="Amiya"]Huh? Did something unsavory happen?
+[name="아미야"]네? 무슨 일 있었나요?
 
 [name="暴行"]我一直很想为罗德岛的大家做胡萝卜派，结果那么久都买不到雷姆必拓的胡萝卜罐头......
+[name="サベージ"]うん。ロドスに来てから、みんなにキャロットパイを作ってあげようとずっと考えてたんだけど、まさかレム・ビリトンのニンジン缶が手に入らないとは思わなくって……
+[name="Savage"]I was dying to make carrot pie for all the Rhodes Islanders, and then we ended up trying for so long to buy any tinned Rim Billiton carrots...
+[name="새비지"]로도스 아일랜드의 모두를 위해 당근 파이를 만들고 싶었어. 하지만 아무리 찾아도 림 빌리턴의 당근 통조림을 구할 수 없었거든……
 
 [name="暴行"]明明来到罗德岛的一个月前我还为家人做了一顿丰盛的菜肴，到了罗德岛却听说买不到胡萝卜罐头，这也太奇怪了吧？
+[name="サベージ"]一ヶ月前、家族にニンジンフルコースを作ったばかりだってのに、ここに来たらニンジン一缶すら買えないなんて、おかしいでしょ？
+[name="Savage"]Obviously I made a ginormous platter for my family just a month before I came, and then suddenly there's no tinned carrots on sale once I'm here? That just doesn't add up, does it?
+[name="새비지"]로도스 아일랜드에 오기 한 달 전까지만 해도 가족들을 위해 푸짐한 한 상을 차렸는데, 로도스 아일랜드에 오고 난 뒤론 당근 통조림을 구할 수 없게 됐지 뭐야. 너무 이상하지 않아?
 
 [name="暴行"]所以呢，我就去请教了特别的“商业专家”......
+[name="サベージ"]だから、「商売の専門家」っていう人に聞きに行ったんだよ……
+[name="Savage"]So, I went and consulted a very particular 'business expert'...
+[name="새비지"]그래서 특별한 '비즈니스 전문가'에게 도움을 청했지.
 
 [Decision(options="（是可颂吧。）", values="1")]
+[Decision(options="（クロワッサンのことだろうな……）", values="1")]
+[Decision(options="(I bet it's Croissant.)", values="1")]
+[Decision(options="(크루아상이겠네.)", values="1")]
 
 [name="阿米娅"]（是可颂小姐吧......）
+[name="アーミヤ"]（クロワッサンさんのことだろうな……）
+[name="Amiya"](It's Croissant, isn't it...)
+[name="아미야"](크루아상 씨구나……)
 
 [name="暴行"]然后我才听说，是因为有维多利亚的商人炒作，说雷姆必拓的胡萝卜具有保持年轻、健康的特别功效，甚至对皮肤保养有奇效......
+[name="サベージ"]それで知ったんだけど、あるヴィクトリアの商人が値をつり上げてるらしいんだ。レム・ビリトンのニンジンには若さや健康を保つ特別な効果があって、美肌ケアにも効く「霊薬」だなんてうたって……
+[name="Savage"]Only then did I learn, it was because of some Victorian merchants hyping up how Rim Billiton's carrots preserve your youth, keep you especially healthy, and are even surprisingly good for your skin...
+[name="새비지"]알고 보니 빅토리아 상인들이 림 빌리턴의 당근이 노화 방지와 건강에 도움이 되는 건 물론, 피부케어에도 도움이 된다고 소문을 퍼뜨렸다더라고.
 
 [name="阿米娅"]咦？吃胡萝卜会保持健康明明是大家都知道的事情，但是，可以保养什么的......
+[name="アーミヤ"]ええっ？　ニンジンが身体にいいのは有名ですが、特別な効果や美肌ケアに効くなんて話は……
+[name="Amiya"]Huh? Sure, everyone knows carrots keep you healthy, but, um, what exactly do they preserve...
+[name="아미야"]으응? 당근을 먹으면 건강에 도움이 된다는 건 다들 잘 알고 있지만, 근데 피부케어 같은 건……
 
 [name="暴行"]我也觉得这种说法太荒唐了，但是“专家”告诉我，因为商人们的炒作，现在的顾客特别相信这一点。
+[name="サベージ"]さすがに誇張しすぎだよね。だけど、商人たちが取り上げたことで顧客はそれをすっかり信じてるって「専門家」が言ってたよ。
+[name="Savage"]I thought it was ridiculous as well, but the 'expert' told me all the customers believe it hook, line and sinker now, thanks to that merchant hype.
+[name="새비지"]나도 이상하다고 생각했는데 그 '전문가'가 그러더라고, 상인들이 퍼뜨린 소문을 손님들이 믿는다며.
 
 [name="暴行"]尤其商人们宣扬只有雷姆必拓的胡萝卜有最好的功效之后，罐头立马就进入了供不应求的状态，价格也一路攀升......
+[name="サベージ"]特にレム・ビリトンのニンジンだけが突出した効能を持ってるって商人たちが吹聴し始めてから、すぐに缶詰の需要が高まって、値段もつり上がっちゃったんだって……
+[name="Savage"]Especially once they declared Rim Billiton carrots more effective than all the rest. Tins instantly went faster than people could buy them, and prices just sailed up and up...
+[name="새비지"]특히 림 빌리턴의 당근이 가장 효과적이라는 소문이 도는 바람에, 통조림 수요가 폭증하면서 가격도 덩달아 뛰었대……
 
 [name="暴行"]这次好不容易送到的胡萝卜，还是我特地拜托认识的农户邻居自己制作成罐头邮寄给我的，都是他私人的存粮。
+[name="サベージ"]今回なんとか送ってもらったニンジンはね、ご近所さんだった農家の人が自家用に保存してたものを、特別に缶詰にして送ってもらったものなんだよ。
+[name="Savage"]These carrots were a nightmare to get. I had to ask a favor of a neighbor's farm, if they could tin some carrots themselves and send them by post. It's all their own personal stock.
+[name="새비지"]이번 요리에 쓴 당근 통조림은 평소 알고 지내던 농가에 특별히 부탁해서 만든 거야. 개인 식량인 셈이지.
 
 [name="暴行"]真是的，这种奇怪的炒作到底为什么会成功啊——
+[name="サベージ"]まったく……一体どうしてこういった怪しげな商売が成功しちゃうんだろうね――
+[name="Savage"]I mean, really. What does all this weird promotion hope to accomplish in the end, eh—
+[name="새비지"]정말이지, 어떻게 이런 괴상한 소문이 성공할 수 있었던 걸까?
 
 [name="阿米娅"]真是不可思议......但是，商人们利用消费者的心理又似乎，唔，合情合理。
+[name="アーミヤ"]本当に不思議です……でも、商人たちが消費者心理を利用するのは……何というか、理に適っているような気もします。
+[name="Amiya"]It truly is inscrutable... but merchants taking advantage of consumer mentality seems, um, like a reasonable occurrence.
+[name="아미야"]이해가 안 되네요…… 하지만 상인들이 소비자의 심리를 이용하는 건 으음…… 합리적인 거니까요.
 
 [name="暴行"]我第一次听到这个消息的时候可生气了！
+[name="サベージ"]最初にこの話を聞いたときはすごく腹が立ったよ！
+[name="Savage"]Well, I was absolutely pissed off when I first heard the news!
+[name="새비지"]그 소식을 처음 들었을 때는 진짜 화가 너무 나더라고!
 
 [name="暴行"]这些商人，利用谣言哄抬了雷姆必拓胡萝卜罐头的价格，把一整年份的产量都提前买光，连雷姆必拓本地人一时间都没有罐头可以吃......
+[name="サベージ"]商人たちは、まるまる一年分の生産量を事前に買い込んでから、デマでニンジン缶の価格をつり上げたもんだから、一時はレム・ビリトンに住む現地の人さえも缶詰が手に入らなくなったんだ……
+[name="Savage"]These merchants, using rumors to drive up the price of a tin of Rim Billiton carrots, selling out a whole year's crop in advance, leaving even Rim Billitonians with not a tin themselves to eat...
+[name="새비지"]그 사람들이 소문을 이용해 림 빌리턴의 당근 통조림 가격을 높이면서, 한 해 동안의 생산량을 몽땅 사재기해버리는 바람에, 림 빌리턴에선 지금 현지 주민들조차 당근 통조림을 못 구할 지경이라더라고.
 
 [name="暴行"]“专家”还说，如果因为价格太高，更多商人哄骗雷姆必拓的种植者们都把作物改成胡萝卜的话......
+[name="サベージ"]「専門家」はさらにこう言ってたよ。他の商人たちもそれを商機と見て、レム・ビリトンの農家に他の作物をニンジンに変えるよう言葉巧みに迫ったりなんてしたら……
+[name="Savage"]My 'expert' even mentioned how if the price flies too high, some more merchants'll crawl out and trick Rim Billiton's growers into switching all their crops to carrots...
+[name="새비지"]그 '전문가'가 그러는데, 가격이 많이 올라서 상인들이 림 빌리턴의 농가에 다른 작물 대신 당근을 심으라고 부추기라도 한다면……
 
 [name="暴行"]等到价格跌落下去，胡萝卜就会卖不出去。
+[name="サベージ"]需給バランスが崩れて価格は急落し、その頃にはブームも去って、ニンジンは売れなくなるだろうって。
+[name="Savage"]Once the prices fall back down, then the carrots'll be impossible to sell.
+[name="새비지"]나중에 가격이 폭락했을 때 당근을 내다 팔 수도 없을 거래.
 
 [name="暴行"]打乱了农户们原本自给自足的种植计划，要是未来造成了损失，农户们因为愤怒必须要对抗外面的商人......
+[name="サベージ"]元々、自給自足で成り立っていた農家の作付け計画をかき乱して、大損害を与えてしまったら、怒った農夫たちは余所者の商人と対立する……
+[name="Savage"]They've smashed up the farmers' own plans for growing self-sufficiently, and if they get hit by losses in future, they'll all be fuming with the merchants and they'll have to start resisting...
+[name="새비지"]자급자족하는 농민들의 농사 계획을 망쳐서 피해를 주면, 분노한 농민들이 외부의 상인들에게 맞설 게 분명하고……
 
 [name="暴行"]不就又会发生“围栏事件”那样的危机嘛！
+[name="サベージ"]そしたらまた「フェンス事件」みたいな危機が発生しちゃう可能性があるじゃない！
+[name="Savage"]And then we'll have another 'Cage Incident'-type mess!
+[name="새비지"]나중엔 '울타리 사건'같은 위기가 또 찾아올지도 모른대!
 
 [name="阿米娅"]放任这种谣言不管的话，的确会非常危险。
+[name="アーミヤ"]たしかに、このデマをそのままにしておくのはとても危険ですね。
+[name="Amiya"]If rumors like these are left unchecked, things might turn very dangerous indeed.
+[name="아미야"]근거 없는 소문을 내버려 두는 건 확실히 위험해요.
 
 [Decision(options="说起“围栏事件”......", values="1")]
+[Decision(options="「フェンス事件」といえば……", values="1")]
+[Decision(options="That 'Cage Incident'...", values="1")]
+[Decision(options="'울타리 사건'이라면……", values="1")]
 
 [name="阿米娅"]啊，博士有听别人提起过吗？
+[name="アーミヤ"]あ、ドクターも他の人から聞いたことがありますか？
+[name="Amiya"]Ah, have you heard someone else mention it before, Doctor?
+[name="아미야"]아! 다른 사람한테 들은 적이 있으신가요?
 
 [name="阿米娅"]那也是雷姆必拓的尤里卡自治州成立的契机呢，是过去发生在雷姆必拓三座城市之间的，对本地人来说十分重要的事件。
+[name="アーミヤ"]過去にレム・ビリトンの三都市間で発生した、現地の人々にとってはとても重要な事件です。あれはレム・ビリトンのエウレカ自治州が成立する契機にもなりました。
+[name="Amiya"]It's the point at which Rim Billiton's Autonomous County of Eureka established itself. The incident took place between three Rim Billiton cities, and the locals consider it a major event.
+[name="아미야"]림 빌리턴의 유레카 자치주가 성립된 계기이기도 해요. 예전에 림 빌리턴의 세 도시에서 일어난 사건인데, 현지 주민에게는 무척 중요한 사건이었죠.
 
 [name="暴行"]或许一顿饭的时间很难说明。
+[name="サベージ"]食事しながらじゃ、うまく説明できないかも……
+[name="Savage"]Might be a tough job to explain it in one dinnertime.
+[name="새비지"]식사 시간에 이야기하기엔 좀 긴 이야기긴 한데……
 
 [name="暴行"]简单来说，是维多利亚的商人们想要利用两个地区之间的小型移动城市打更多雷姆必拓的矿石料资源的主意。
+[name="サベージ"]かいつまんで言えば、ヴィクトリアの商人たちが、二つの地区間の小型移動都市を利用して、レム・ビリトンの鉱石資源を大量に採掘しようとしたんだ。
+[name="Savage"]To put it simply, it was a Victorian merchant lot who had an idea to make use of a small-scale nomadic city between two counties, so they could strike even more Rim Billiton ore.
+[name="새비지"]간단히 말하자면, 빅토리아의 상인들이 림 빌리턴의 광물 자원을 차지하기 위해 두 지역 사이에 있던 소형 이동도시를 이용해 일으킨 사건이야.
 
 [name="暴行"]他们控制城市中居民来夺取雷姆必拓地区的矿料，并拿到维多利亚去牟取利益......实在是可恶至极。
+[name="サベージ"]そいつらは街の住民を利用して、レム・ビリトン地区の鉱物資源を奪い取り、ヴィクトリアに持ち込んで荒稼ぎをした。
+[name="Savage"]They steered that city's people into seizing the local ore, and then snatched it to take it off to Victoria for their own gains... The peak of sickness, ugh.
+[name="새비지"]그놈들은 사람들을 통제하며 림 빌리턴 지역의 광물 자원을 빼앗고, 빅토리아로 가져가 이익을 취했지…… 정말 비열한 행동이었어.
 
 [name="暴行"]所以，那次事件便是由当地的民众带头，挣脱了维多利亚商人们建立起的“围栏”......
+[name="サベージ"]それに反発した現地の民衆が先頭に立って、ヴィクトリア商人たちが作り上げた「フェンス」から抜け出した……
+[name="Savage"]So, the Incident part comes because the people lead the way, shake free of this fence the Victorian merchants set up called the 'Cage'...
+[name="새비지"]그래서, 현지 주민들이 앞장서서 빅토리아 상인들이 세운 '울타리'를 걷어냈지……
 
 [name="暴行"]之后还联合成立了更为自主的尤里卡自治州，并将城市的控制权又交付给了雷姆必拓。是很了不起的行动呢！
+[name="サベージ"]その後、より自主路線なエウレカ自治州が成立して、街の統治権は再びレム・ビリトンに戻されたの。すごく立派な市民運動だよ！
+[name="Savage"]After that, they jointly establish an even more self-deciding Autonomous County of Eureka, and get control of the city back over to Rim Billiton. It was an amazing operation, if you ask me!
+[name="새비지"]그 다음엔, 보다 자주적인 유레카 자치주를 공동으로 세우곤, 도시의 통제권을 림 빌리턴에 넘겨줬어. 정말 멋지지 않아?
 
 [name="阿米娅"]在那时候，暴行姐姐为了帮助当地人争取权益做出了许多努力，在雷姆必拓可是小有名气呢。
+[name="アーミヤ"]その際、サベージさんは現地の方々が権利を取り戻すのを助けるために多くの努力をしたんです。だからレム・ビリトンではちょっとした有名人なんですよ。
+[name="Amiya"]During those times, Savage put in so much work to help the local people fight for their rights. She's a kind of minor celebrity in Rim Billiton.
+[name="아미야"]그때 새비지 언니가 현지 주민들을 열심히 도와줘서 림 빌리턴에선 제법 알아주는 편이었어요.
 
 [Decision(options="好厉害啊。;......;竟然还发生了这种事。", values="1;2;3")]
+[Decision(options="すごい。;……;まさかそんなことがあったとは。", values="1;2;3")]
+[Decision(options="That's incredible.;......;Didn't expect something like that to happen.", values="1;2;3")]
+[Decision(options="대단하네.;……;그런 일이 있었다니.", values="1;2;3")]
 
 [name="暴行"]咳、咳咳，没什么大不了的。以博士的智慧和能力，要解决这种程度的矛盾大概轻而易举......
+[name="サベージ"]コホン……大したことじゃないよ。ドクターくらいの知識と能力があれば、あの程度の問題を解決するのはきっと朝飯前だろうね。
+[name="Savage"]*cough*, *cough* *cough*. It wasn't that big a deal. I mean, with your wisdom and ability, Doctor, sorting out a dispute like that's probably a piece of cake...
+[name="새비지"]아니 뭐 그렇게 대단한 것도 아냐. 박사의 지능과 능력이라면 그 정도 문제를 해결하는 건 식은 죽 먹기일 거야……
 
 [Decision(options="......;（我有这么厉害嘛......）;嗯，放心交给我吧。", values="1;2;3")]
+[Decision(options="……;（それほどの知識や能力はあるだろうか……）;まあ、そうかもね。", values="1;2;3")]
+[Decision(options="......;(Am I that amazing...?);Yep, just leave it to me.", values="1;2;3")]
+[Decision(options="……;(내가 그렇게 대단한가……);응, 걱정 말고 맡겨줘.", values="1;2;3")]
 
 [name="阿米娅"]可是，明明“围栏事件”已经证明了雷姆必拓人自己能够守护让自己骄傲的土地，为什么......
+[name="アーミヤ"]ですが、「フェンス事件」でレム・ビリトンの人たちは誇れる故郷を自らの手で守れるということが証明されたのに、どうしてまたそんな……
+[name="Amiya"]Even so, the 'Cage Incident' clearly proves how the people of Rim Billiton are able to protect the land they're proud of, so why...
+[name="아미야"]하지만 '울타리 사건'을 통해서 림 빌리턴 사람들은 자신의 자랑스러운 땅을 스스로 지킬 수 있다는 걸 증명했는데 어째서……
 
 [name="暴行"]就是说啊！明明还没过几年和平的日子......可恶，我就知道，这些商人才不会真的按照贸易条例来正规行事。
+[name="サベージ"]そうなんだよ！　平和になってまだ何年も経ってないっていうのに……くそっ！　あいつら商人どもは貿易条例に基づいて正規に事を運ぶ気なんかないんだ。わたしは最初からわかってたよ。
+[name="Savage"]That's what I'm saying! We've only had a few short years of peace, too... bloody hell, I just knew those merchants'd never follow trade conduct or any kind of standard routine.
+[name="새비지"]맞아! 평화로운 시간은 그리 오래가지 못했어…… 상인들이 규정대로 올바르게 장사하지 않으리라는 걸 알았거든.
 
 [name="阿米娅"]不过......暴行姐姐，看你的反应，应该已经有什么想法了吧？
+[name="アーミヤ"]……サベージさんのその反応を見る限り、すでに何か考えが有るんですね？
+[name="Amiya"]But... Savage, your reaction says you have an idea of what to do already, don't you?
+[name="아미야"]하지만…… 새비지 언니의 반응을 보니까, 뭔가 다른 생각이 있었나 보네요?
 
 [name="暴行"]哼哼，不愧是阿米娅，真了解我。
+[name="サベージ"]ふふん……さすがはアーミヤちゃん、わたしのことをよく分かってるよね。
+[name="Savage"]Heheh, that's my Amiya. Got me pegged down to a T.
+[name="새비지"]후후~ 역시 아미야는 날 잘 알고 있다니깐.
 
 [name="暴行"]我已经让信使带信给老家的人，让他们绝不能大意。
+[name="サベージ"]トランスポーターにお願いして、故郷の人たちに手紙を送ってあるんだ。うっかり商人たちの誘いに乗らないようにって。
+[name="Savage"]I've already had the Messenger send a letter to my old home's people, let them know they can't be even a mite careless.
+[name="새비지"]전달자를 통해 고향 사람들에게 편지를 보냈어, 절대로 방심해선 안 된다고.
 
 [name="暴行"]大家都改种胡萝卜就进入商人们的圈套了，一定要和农业工会的人商量，那些人不会对这个事态坐视不理的。
+[name="サベージ"]みんなが一斉にニンジンを植え始めたら、商人の思うつぼだもん。絶対に農業組合と相談しなきゃダメだって。彼らはこの事態を傍観したりしないはずだよ。
+[name="Savage"]If they all change to carrot crops then they're bang in the merchants' trap. They've gotta talk it over with the farmers' union. Those lot aren't gonna just sit back and watch this situation unravel.
+[name="새비지"]모두가 다른 작물 대신 당근을 심으면 상인들의 속임수에 넘어가는 셈이니, 반드시 농업 조합과 상의하라고 알려줬지. 농업 조합이 이 사태를 좌시하진 않을 테니까.
 
 [name="暴行"]不能因为不合理的暴利就搅乱了原本的生活......总之，绝对不能再一次被商人操控了！
+[name="サベージ"]不当に暴利を貪ろうとする連中のせいで本来の生活がかき乱されるなんてことはあっちゃいけない……とにかく、もう二度と商人なんかに騙されないんだから！
+[name="Savage"]We can't let irrational profits booms flip the underlying people's lives upside down... long and short is, we can't ever be controlled by merchants again!
+[name="새비지"]불합리한 폭리 때문에 원래의 삶이 무너져서는 안 되잖아…… 어쨌든 더는 상인들의 수작에 휘둘리지 말라고 경고해 뒀어.
 
 [name="阿米娅"]呵呵，很有暴行姐姐的风格呢。
+[name="アーミヤ"]ふふっ、サベージさんらしいですね。
+[name="Amiya"]Hehe. This is just like you, Savage.
+[name="아미야"]와~ 역시 언니답네요.
 
 [name="阿米娅"]嗯......我是说，雷厉风行，和以前相比一点都没变！
+[name="アーミヤ"]素早く的確に対応する手腕は、昔とちっとも変わってません！
+[name="Amiya"]Um... I mean how you act as swift as the wind—that part of you hasn't changed one bit!
+[name="아미야"]으음…… 그러니까, 일 처리가 화끈한 게 여전하단 뜻이에요!
 
 [name="暴行"]那是当然啊！人哪有那么容易就变，你看，这次我不也是担心阿米娅你和博士，所以立刻放下工作跑到你们这边来了嘛。
+[name="サベージ"]もちろん！　人はそんなに簡単に変わらないからね。今回だって、あなたとドクターのことが心配だったから、約束通り仕事を置いてすぐにあなたたちのとこへ駆けつけたでしょ。
+[name="Savage"]Well, of course! Who changes that easily? Just look, I dropped all my work to come sprinting over this way because I had you and the Doctor on my mind, too.
+[name="새비지"]그거야 당연하지! 사람이란 게 어디 그렇게 쉽게 변하겠어? 이번에도 아미야와 박사가 걱정돼서 하던 일도 그만두고 바로 달려왔잖아.
 
 [name="阿米娅"]确实......！
+[name="アーミヤ"]はい……！
+[name="Amiya"]That's true...!
+[name="아미야"]확실히 그러네요……!
 
 [name="暴行"]总之呢，购买雷姆必拓的胡萝卜罐头的客人应当愉快地品尝我们引以为豪的美味。
+[name="サベージ"]とにかく……レム・ビリトンのニンジン缶を買ってくれるお客さんには、わたしたちの自慢の味を楽しく味わってもらいたいの。
+[name="Savage"]Essentially, customers buying Rim Billiton's tinned carrots should all be cheerily sampling the delicacies we're so proud of.
+[name="새비지"]어쨌든 림 빌리턴의 당근 통조림을 구입한 손님들이라면, 우리가 자랑스럽게 여기는 맛을 즐겁게 맛봤으면 해.
 
 [name="暴行"]美食是会让人感到快乐的东西，而不是什么冒牌的“良药”！
+[name="サベージ"]グルメは人に喜びを与えるものであって、捏造された「霊薬」なんかであるべきじゃないんだから！
+[name="Savage"]Fine food is a thing to make people feel happy, and not some kind of 'cure-all' sham!
+[name="새비지"]맛있는 음식은 가짜 '명약' 같은 게 아니라 즐거움을 선사하는 존재니까!
 
 [name="暴行"]绝对不能让其他地区的势力继续得寸进尺。上次是源石矿料，这次是胡萝卜......谁知道下次会是什么？
+[name="サベージ"]絶対に余所の勢力につけ込まれないようにしないと。前回は源石の鉱山資源、今回はニンジン……次は何なんだろうね？
+[name="Savage"]We can't keep letting other regions' powers keep taking inches while dreaming of miles. Last it was Originium ore, now it's carrots... who knows what the next time'll be?
+[name="새비지"]다른 지역의 세력들이 계속해서 혼란을 일으키지 못하게 경계해야 해. 지난번에는 오리지늄 광물, 이번에는 당근…… 다음에는 또 무슨 혼란을 일으킬지 누가 알겠어?
 
 [name="暴行"]他们想要我们的资源，还想让我们当地人为他们卖命，我......
+[name="サベージ"]しかもあいつらは資源を奪うだけじゃなくて、自分たちの利益のためなら、現地の人の命をなんとも思わない……わたしは――
+[name="Savage"]They want our resources, and they want our local people offering up their lives. I just...
+[name="새비지"]그놈들은 우리의 자원을 원해, 자신들을 위해 우리에게 목숨을 바치라고 하지. 하지만 난……
 
 [name="暴行"]即使是离开雷姆必拓的我，也绝不可能眼睁睁看着他们夺走雷姆必拓土地上任何不属于他们的东西。
+[name="サベージ"]たとえレム・ビリトンを離れても、あいつらがレム・ビリトンから大事なものを奪い去ろうとするのを黙って見てるわけにはいかないんだよ。
+[name="Savage"]Even though I've left Rim Billiton, I just can't stomach looking on while they snatch away everything that never belonged to them, right off Rim Billiton's own land.
+[name="새비지"]림 빌리턴을 떠났다고 해서, 림 빌리턴의 땅에서 놈들이 자신들의 것이 아닌 것을 약탈하는 걸 두고 볼 수는 없어.
 
 [name="阿米娅"]暴行姐姐......
+[name="アーミヤ"]サベージさん……
+[name="Amiya"]Savage...
+[name="아미야"]새비지 언니……
 
 [name="暴行"]哎呀，别摆出那副表情，不用担心我。
+[name="サベージ"]ああ、そんな顔しないの。大丈夫、心配しないでよ。
+[name="Savage"]Aww, don't look like that now. You don't need to worry about me.
+[name="새비지"]에이, 그런 표정 짓지 마. 걱정하지 않아도 되니까.
 
 [name="阿米娅"]才没有，我觉得，现在的暴行姐姐正闪闪发光呢。
+[name="アーミヤ"]いえ、今のサベージさんはキラキラ輝いてるなって思ったんです。
+[name="Amiya"]Of course I'm not! I just think, you really do shine so brightly now.
+[name="아미야"]그런 거 아니에요. 지금의 언니가 반짝반짝 빛나는 것 같아서요.
 
 [name="暴行"]......唔，虽然嘴上这么说，我真正能做的也很少啦......我、我不是能够将心中的理想说出来，让更多的人坚定自己的理念的人。
+[name="サベージ"]……偉そうに語っちゃったけど、実際わたしにできることは本当に少ないよ……わたしは自分の理想を言葉にして、多くの人の信念を強めるようなタイプじゃないし。
+[name="Savage"]Oh, even if I make a show of it, I can only actually do so little... I—I'm not the sort who can put my inside ideals into words, get other people standing firm in their own beliefs.
+[name="새비지"]으음…… 말은 그렇게 했지만 내가 할 수 있는 건 사실 그렇게 많지 않아. 나, 난…… 마음속 생각을 누군가에게 들려주며, 자신의 신념을 굳게 믿도록 이끌어줄 수 있는 사람이 아니니까.
 
 [name="暴行"]......但是呢，阿米娅，我也是经历过许多事情的大人了。
+[name="サベージ"]……だけどさ、アーミヤちゃん。わたしもたくさんの事を経験してきた大人だからわかるんだ。
+[name="Savage"]...But, y'know, Amiya, I'm a grown-up who's experienced a hell of a lot, too.
+[name="새비지"]하지만 아미야…… 나도 이런저런 일을 겪은 어른이잖아.
 
 [name="暴行"]我知道的是，有时候......大多时候，我们能做的事情可能很少。但去做点什么，总比就这么看着事情变坏要强。
+[name="サベージ"]わたしたちができることは小さなことばかりだけど、それでも行動を起こすことは、状況の悪化を傍観しているよりずっとマシだってね。
+[name="Savage"]What I know is, there's times... most times, when there's very little open for us to do. But doing something or other's always gonna beat the pants off just sitting here, watching things get worse.
+[name="새비지"]내가 아는 건 때로는…… 대부분의 경우 우리가 할 수 있는 일은 많지 않다는 거야. 하지만 상황이 나빠지는 걸 바라보고 있는 것보단 뭐라도 하는 게 나아.
 
 [name="暴行"]察觉到危机就该立即有所行动，否则在情况变糟糕后再极力补救，已经造成的损失就无从挽回了。
+[name="サベージ"]何か危機を察知したらすぐに行動しないといけないんだ。状況が悪くなってから全力で動いても、すでに発生しちゃった損失は挽回できないからね。
+[name="Savage"]When you detect a crisis, you should snap to do something, or else trying to remedy a blown situation after the fact, you'll have no way to make back what's already been lost.
+[name="새비지"]위기를 느끼면 바로 행동해야 해. 안 그러면 상황이 악화된 뒤에는 아무리 최선을 다해도 이미 일어난 실수를 만회할 수 없을 테니까.
 
 [name="暴行"]嗯，就这些。这只是我的一些亲身经历，做一些我能做到的事情，为此不断奔波也是值得的。
+[name="サベージ"]……とまあ、それだけ。これは、わたしが身をもって経験したことにすぎないけど、自分がやるべきことのために奔走し続けるのは、価値があることだと思う。
+[name="Savage"]Mm, that's all. It's just some personal experience of mine, doing some of what I can. It's worth bounding about all over the place.
+[name="새비지"]으음, 이건 내가 직접 깨달은 교훈이기도 해. 내가 할 수 있는 일을 하고, 그걸 위해 쉬지 않고 노력하는 것도 충분히 가치 있는 일이야.
 
 [name="阿米娅"]我能明白。
+[name="アーミヤ"]分かります。
+[name="Amiya"]I can understand.
+[name="아미야"]알 것 같아요.
 
 [name="暴行"]阿米娅......
+[name="サベージ"]アーミヤちゃん……
+[name="Savage"]Amiya...
+[name="새비지"]아미야……
 
 [name="阿米娅"]我能明白的，暴行姐姐。因为，罗德岛也是一样的。
+[name="アーミヤ"]分かります、サベージさん。ロドスも同じですから。
+[name="Amiya"]I can understand it. After all, Rhodes Island is just the same.
+[name="아미야"]알 것 같아요, 새비지 언니. 왜냐면 로도스 아일랜드도 그렇거든요.
 
 [name="暴行"]欸，罗德岛也？
+[name="サベージ"]え、ロドスも？
+[name="Savage"]Eh, Rhodes Island too?
+[name="새비지"]응? 로도스 아일랜드도?
 
 [name="阿米娅"]嗯。我......我们，一直以来的坚持，就是去做每一件力所能及的小事。
+[name="アーミヤ"]はい……ロドスが、これまでやってきたことも、自分たちの力の及ぶ範囲の小さなことばかりです。
+[name="Amiya"]Mmhm. I... we—have always persevered to do every little thing in our power.
+[name="아미야"]네. 제가…… 아니 우리가 지금껏 버틸 수 있었던 건, 언제나 우리가 할 수 있는 일에 최선을 다했기 때문이었죠.
 
 [name="阿米娅"]我相信，平息任何一个微小的争端，都是在朝我们最终的目标做努力。
+[name="アーミヤ"]私は、小さな争いを平定することも、すべては私たちの最終目標のための努力なんだと信じています。
+[name="Amiya"]It's my belief that settling any one minor conflict helps us work towards our ultimate objective.
+[name="아미야"]꾸준히 작은 문제를 해결하는 게 결국에는 우리의 최종 목표를 향해 최선을 다하는 일이라고 믿어요.
 
 [name="暴行"]没错！呜，哎，听你这么说，我好高兴......
+[name="サベージ"]その通り！　はぁ……ううっ、アーミヤちゃんの口からそんな言葉を聞けるなんて……
+[name="Savage"]Couldn't have put it better myself! *sniff*—ah, hearing you say that makes me really happy...
+[name="새비지"]맞아! 흑…… 네가 그렇게 이야기해 주니 정말 기뻐, 흐흑……
 
 [name="阿米娅"]欸？啊，我，我说错什么了吗？暴行姐姐，你别哭，你别哭呀！
+[name="アーミヤ"]えっ？　あの、わ、私何か変なこと言いましたか？　サベージさん泣かないで、泣かないでください！
+[name="Amiya"]Huh? Ah, did—did I say something wrong? Savage, don't cry, please don't cry!
+[name="아미야"]에에? 제가 말실수한 건가요? 새비지 언니, 왜 우는 거에요? 울지 마요!
 
 [name="暴行"]没有！没有，你说得很好，我只是，只是有点感动。
+[name="サベージ"]ううん、違うよ！　いい言葉だった！　ただ、良すぎてちょっと感動しちゃっただけ……
+[name="Savage"]You didn't! You didn't, you said it just right, I'm just—just a little moved.
+[name="새비지"]그런 게 아냐…… 네 말에 감동받아서 그냥……
 
 [name="暴行"]呜呜，我们之前分开的时候，你还那么小......现在却已经，已经变得这么出色了......
+[name="サベージ"]ううっ、前に別れたときは、あんなにちっちゃかったのに……今はもう、こんなに素晴らしい人に――
+[name="Savage"]*sniffle*—When we parted before, you were still so little... and now you've become so... so incredible, already...
+[name="새비지"]흐윽…… 전에 헤어질 때만 해도 꼬마였던 네가…… 이제는 이렇게 멋지게 자라다니……
 
 [name="阿米娅"]哇！冷静，暴行姐姐你冷静一点，别抱得这么紧......唔唔......
+[name="アーミヤ"]わっ！　落ち着いて、落ち着いてくださいサベージさん。そんなにきつく抱きしめないでください……ううっ……
+[name="Amiya"]Wah! Calm down, Savage, calm down a little, don't hug me so tight... ugghh...
+[name="아미야"]으아아! 진정해요, 새비지 언니! 윽, 너무 꽉 안지 말아 주세…… 으으……
 
 [name="阿米娅"]其实，一开始我很担心，和暴行姐姐分开了这么长的时间，暴行姐姐会怎么看待我的变化呢......
+[name="アーミヤ"]でも本当は、初めとっても心配だったんですよ。サベージさんとは長い間会ってなかったから、私の変化をどう思うのかなって……
+[name="Amiya"]Truthfully, I was worried at the start too. I'd been away from you for so long. How would you react to how I've changed...
+[name="아미야"]사실 언니랑 오랫동안 헤어져 있으면서 줄곧 걱정했었어요. 새비지 언니가 예전과는 달라진 날 어떻게 생각할까 하고……
 
 [name="暴行"]哼哼，这一点就完全放心吧，阿米娅。
+[name="サベージ"]ふふ、それについては心配いらないよ、アーミヤちゃん。
+[name="Savage"]Heheh, you can relax on that front, Amiya.
+[name="새비지"]그 점이라면 걱정할 것 없어, 아미야.
 
 [name="暴行"]在我看来，今天吃着雷姆必拓派的罗德岛领袖和过去在巴别塔上缠着我讲故事的你一样，是个善良的、可爱的、谦虚的、体贴他人的——
+[name="サベージ"]わたしからすれば、今レム・ビリトンのパイを美味しそうに食べてるロドスのリーダーは、昔バベルでわたしにまとわりついてた少女と変わらないよ。善良で、可愛くて、謙虚で、他人に優しくて――
+[name="Savage"]In my view, the leader of Rhodes Island eating Rim Billiton pie today's the same as you of the past, clinging to me all over Babel so I'd tell you stories. You're kind, adorable, modest, considerate of others—
+[name="새비지"]오늘 림 빌리턴의 당근 파이를 먹는 로도스 아일랜드의 지휘관은 그 옛날 바벨에서 이야기를 들려달라고 조르던 아이처럼 여전히 착하고 귀엽고, 또 겸손하고 다정해……
 
 [name="暴行"]让我愿意将自己的力量、时间分享给你的，被我所信任，也最信任我的朋友啊。
+[name="サベージ"]お互い一番信頼し合える……喜んで自分の力と時間を分け与えたくなるような友だちだよ。
+[name="Savage"]You're someone I'm willing to share my strength and time with. You're the one I trust in, and the friend who most trusts in me.
+[name="새비지"]내 힘과 시간을 널 위해 기꺼이 쓰고 싶다는 생각이 들 만큼 가장 믿음직스럽고, 날 가장 믿어주는 친구니까.
 
 [name="阿米娅"]暴行姐姐，我吃完了。
+[name="アーミヤ"]――サベージさん、ごちそうさまでした。
+[name="Amiya"]Savage, I've finished eating.
+[name="아미야"]언니, 다 먹었어요.
 
 [Decision(options="非常美味。", values="1")]
+[Decision(options="おいしかった。", values="1")]
+[Decision(options="Delicious beyond words.", values="1")]
+[Decision(options="정말 맛있었어.", values="1")]
 
 [name="暴行"]太好了。胡萝卜罐头的保质期很长，我会好好储存，等下一次有时间在派对上再为大家做一顿吧。
+[name="サベージ"]よかった。ニンジン缶の賞味期限は長いから、残りの缶は保管しておいて、また時間があるときにパーティーでみんなに振る舞うよ。
+[name="Savage"]Perfect. Tinned carrots have a best-by of forever, so I'll store them up properly, and next we have time for a party, I'll make you all another batch then.
+[name="새비지"]다행이다. 당근 통조림은 오랫동안 보관할 수 있으니까 잘 보관해 뒀다가 다음 파티에 또 모두에게 대접할게.
 
 [name="暴行"]一个月举办一次雷姆必拓特色菜肴品尝会如何？
+[name="サベージ"]一ヶ月に一回、レム・ビリトン料理の試食会をやるのはどうかな？
+[name="Savage"]How's a monthly Rim Billiton Specialty Dish-Tasting Do sound?
+[name="새비지"]매달 림 빌리턴 요리 시식회를 여는 건 어떨까?
 
 [name="阿米娅"]嘿嘿，已经开始期待了呢。
+[name="アーミヤ"]えへへ、もう待ちきれません。
+[name="Amiya"]Hehe, I'm already starting to look forward to it.
+[name="아미야"]헤헤, 벌써부터 기대되는데요.
 
 [name="暴行"]对了，博士，刚才的事情......
+[name="サベージ"]そうだ、ドクター。さっきのことだけど……
+[name="Savage"]That's right, Doctor, about just now...
+[name="새비지"]참! 박사, 방금 일은……
 
 [Decision(options="嗯？", values="1")]
+[Decision(options="ん？", values="1")]
+[Decision(options="Hm?", values="1")]
+[Decision(options="으음?", values="1")]
 
 [name="暴行"]嗯......就是，关于以前......
+[name="サベージ"]うん……つまり、過去のあなたについてなんだけど……
+[name="Savage"]Um... that is, about before...
+[name="새비지"]으음…… 그러니까, 예전에 관한……
 
 [name="阿米娅"]......啊，我先去收拾餐具了。
+[name="アーミヤ"]……あ、先に食器を片付けますね。
+[name="Amiya"]Ah, I'll go and clean up the table.
+[name="아미야"]……아, 먼저 가서 설거지하고 있을게요.
 
 [name="阿米娅"]之后还有比较着急的工作要忙，能拜托博士帮助暴行姐姐收拾一下剩余的材料吗？
+[name="アーミヤ"]私はちょっと少し急ぎの仕事があるので、ドクターはここに残ってサベージさんのお片付けを手伝ってもらえますか？
+[name="Amiya"]I have some quite pressing work after this, so could I count on you to help Savage put away the surplus ingredients, Doctor?
+[name="아미야"]급하게 할 일이 있는데 박사님께서 언니랑 남은 재료 정리 좀 도와주실래요?
 
 [Decision(options="交给我吧。;咦？离开得这么突然？", values="1;2")]
+[Decision(options="任せて。;え？　そんなに急いで？", values="1;2")]
+[Decision(options="Leave it to me.;Huh? Leaving so suddenly?", values="1;2")]
+[Decision(options="알았어.;어? 간다고? 갑자기?", values="1;2")]
 
 [name="阿米娅"]那么我就先走啦。博士，麻烦你了，顺便和暴行姐姐好好聊聊吧。
+[name="アーミヤ"]はい。じゃあお先に失礼します。ドクター、ついでにサベージさんとたくさんお話してくださいね。
+[name="Amiya"]I'll be off, then. Sorry to trouble you, Doctor. At least you can have a nice chat with Savage.
+[name="아미야"]그럼 먼저 갈게요. 박사님, 부탁드려요. 이왕 이렇게 된 거 언니랑 이야기 잘해보세요.
 
 [name="暴行"]啊，阿米娅，也不用特地这样——
+[name="サベージ"]あっ、アーミヤちゃん。わざわざそんな気を使わなくても――
+[name="Savage"]Ah, Amiya, you don't need to go out of your way to—
+[name="새비지"]앗! 아미야, 일부러 이럴 건 없……
 
 [name="暴行"]......走掉了。真是的，这孩子还是一如既往地老想着为别人考虑。
+[name="サベージ"]……行っちゃった。まったくあの子ったら、相変わらず他人のことばかり考えて。
+[name="Savage"]Off she runs. Honestly, the kid still keeps minding other people as much as ever.
+[name="새비지"]가버렸네…… 정말이지, 다른 사람 생각하는 건 여전하구나.
 
 [name="暴行"]抱歉，博士，可以占用您的一段时间吗？我还邀请了安赛尔和暗索进行试吃，不过他们会晚到一些，现在差不多该开始烤派了。
+[name="サベージ"]ごめんね、ドクター。少し時間をもらってもいい？　他にもアンセルとロープを試食に誘ったんだけど、少し遅くなるんだって。だから二人用に、そろそろパイを焼き始めようと思って。
+[name="Savage"]Sorry, Doctor, could I take up a bit of your time? I invited Ansel and Rope to come taste too, but they'll be a bit late. The pie should be going in the oven more or less now.
+[name="새비지"]미안, 박사. 시간을 내줄 수 있을까? 안셀과 로프에게 시식해 달라고 했는데, 둘 다 늦는 바람에 지금쯤 파이를 구워야 하거든.
 
 [Decision(options="让我来做帮手吧。", values="1")]
+[Decision(options="手伝うよ。", values="1")]
+[Decision(options="Let me be your helper, then.", values="1")]
+[Decision(options="내가 도와줄게.", values="1")]
 
 [name="暴行"]嗯，谢谢你，博士。
+[name="サベージ"]うん、ありがとう、ドクター。
+[name="Savage"]Mm-hm, thank you, Doctor.
+[name="새비지"]응. 고마워, 박사.
 
 [name="暴行"]......有些想对你说的话，也在烹饪过程中慢慢解释吧。
+[name="サベージ"]……あなたに話したいことも、料理をしながらゆっくり話すね。
+[name="Savage"]There's some things I want to talk to you about. We can go over it bit by bit while we're cooking.
+[name="새비지"]하고 싶은 말은…… 요리하면서 천천히 들려줄게.
 
 [Decision(options="暴行，你对我的过去了解多少？", values="1")]
+[Decision(options="昔の自分をどこまで知っているんだ？", values="1")]
+[Decision(options="Savage, how much do you understand of my past?", values="1")]
+[Decision(options="새비지, 내 과거에 대해 얼마나 알고 있지?", values="1")]
 
 [name="暴行"]......
+[name="サベージ"]……
+[name="Savage"]......
+[name="새비지"]……
 
 [name="暴行"]只是很少一部分。我眼中的博士......
+[name="サベージ"]ほんの少しだけだよ。わたしの目に映ってたドクターは……
+[name="Savage"]Just a very little scrap of it. The Doctor I saw...
+[name="새비지"]조금 밖에 몰라. 내 눈에 비친 박사는……
 
 [name="暴行"]啊，不行不行，我可是向凯尔希签订了保密协议的，我不能说！
+[name="サベージ"]あっ、ダメダメ！　ケルシーの機密保持契約にサインしたの、だから言えないよ！
+[name="Savage"]Ah, no, no, I signed a confidentiality agreement with Kal'tsit, I can't talk about it!
+[name="새비지"]앗, 아냐! 켈시랑 비밀 유지 계약을 맺어서 말하면 안 돼!
 
 [name="暴行"]......其实，我也不知道和博士可以说什么、不能说什么。
+[name="サベージ"]……でも実際ね、ドクターに何を言ってよくて、何を言っちゃダメなのかはよく分かってないんだ。
+[name="Savage"]Actually, I don't even know what I can talk to you about, and what I can't.
+[name="새비지"]……사실 박사에게 이야기해도 되고, 이야기하면 안 되는 게 뭔지는 나도 잘 몰라.
 
 [name="暴行"]详细的我也不明白，但因为事先和凯尔希小姐交流过，了解了博士的大致情况，所以我这段时间生怕自己说漏了嘴。
+[name="サベージ"]事前にケルシーと話して、ドクターのおおよその状況はわたしも理解してる。だから、余計なことを言っちゃったらどうしようって心配してたんだけど……
+[name="Savage"]I don't understand the details, but I more or less get your situation from the chat I had with Miss Kal'tsit in advance, so I've been panicking this entire time if I'd leak something by accident.
+[name="새비지"]자세한 건 나도 잘 모르지만, 켈시랑 이야기하면서 박사의 대략적인 상황을 알게 됐어. 그래서 그동안 말실수할까 봐 겁이 나기도 했지.
 
 [name="暴行"]但是看到阿米娅还是和过去一样，跟博士你一直在一起相处......我想，自己总会和博士聊到这些的嘛！
+[name="サベージ"]だけどアーミヤちゃんは昔みたいにドクターと仲良くしてたし……ドクターと話してたら、昔のことだって普通に話しちゃいそう。
+[name="Savage"]But seeing Amiya just like she used to be, still happily going around with you... I think, I'm gonna end up chatting about that stuff with you anyway!
+[name="새비지"]하지만 아미야가 예전처럼 늘 박사와 함께 있는 걸 보면서…… 나도 언젠가는 박사와 이 얘기를 할 거라 생각했어.
 
 [name="暴行"]实际上，我想我也并没有什么不能告诉你的秘密。
+[name="サベージ"]実際問題、ドクターに教えられない秘密なんて何もないと思うんだけどね。
+[name="Savage"]Fact is, thinking about it, I don't even have any secrets I can't tell you.
+[name="새비지"]사실 박사에게 말할 수 없는 비밀 같은 건 없다고 생각해.
 
 [name="暴行"]在我的记忆中......除了性格不太一样了以外，你和阿米娅的关系没变，我和阿米娅的关系没变，那么，我和博士便也还会是和从前一样。
+[name="サベージ"]ドクターは性格がちょっと変わったみたいだけど、ドクターとアーミヤちゃんの関係や、わたしとアーミヤちゃんの関係は変わってない。だから、わたしとドクターもやっぱり前の関係と一緒だよ。
+[name="Savage"]My memories... aside from personalities being a bit different, the way you and Amiya get along hasn't changed, and the way Amiya and me get along hasn't changed. So, should be the same as before for you and me too.
+[name="새비지"]내가 기억하는 바로는…… 성격이 조금 달라진 것 말고 박사와 아미야, 그리고 나와 아미야의 관계는 여전히 변함없어. 그러니까 나와 박사도 예전과 같은 거야.
 
 [Decision(options="从前的我到底是什么样的人？", values="1")]
+[Decision(options="前は一体どんな人物だったんだ？", values="1")]
+[Decision(options="Just what kind of person was I like before?", values="1")]
+[Decision(options="예전의 나는 대체 어떤 사람이었던 거지?", values="1")]
 
 [name="暴行"]那可是非常厉害的人！
+[name="サベージ"]とってもすごい人だよ！
+[name="Savage"]A very mighty one, I'll have you know!
+[name="새비지"]엄청 대단한 사람이었어!
 
 [name="暴行"]几乎没有不知道的事情，无论向博士询问什么都能获得答案。预料的事情最后都会实现，在指挥作战的时候就更加......
+[name="サベージ"]知らないことはほとんどなくて、何を質問しても答えてくれた。予想したことも最終的にすべてその通りになったし、作戦の指揮中はさらに……
+[name="Savage"]Practically nothing you didn't know; you'd dispense an answer no matter what I asked you. Anything you forecast would end up happening, and when it came to commanding combat, you were even more...
+[name="새비지"]모르는 게 거의 없었거든. 박사에게 물어보면 항상 대답을 들을 수 있었으니까. 예상했던 일이 결국 실현되기도 하고, 작전을 지휘할 때는 더……
 
 [name="暴行"]啊啊，停——我可不能说更多了。
+[name="サベージ"]ああ、ダメダメ――これ以上は言えない。
+[name="Savage"]Ah-ah, stop—no, can't say any more than that.
+[name="새비지"]앗, 그만해야겠다…… 더는 말하면 안 될 것 같아.
 
 [name="暴行"]咳咳，总之......博士，你给予了阿米娅，给予了我，还有许多曾经认识你的人们“知识”。
+[name="サベージ"]ゴホン！　とにかく……ドクターは、アーミヤちゃんやわたしに、それからたくさんの人たちに「知識」を与えてくれた。
+[name="Savage"]Ahem, basically... Doctor, you presented Amiya, me, and a whole lot of people who used to know you 'knowledge.'
+[name="새비지"]크흠, 어쨌든…… 박사는 아미야와 나, 그리고 널 알고 있었던 많은 사람에게 '지식'을 알려줬어.
 
 [name="暴行"]我不能教给阿米娅更多，只能在她幼小的时候陪在她身边一段时间。但是博士，你能够引导他人。
+[name="サベージ"]わたしはアーミヤちゃんに教えられることはあまりなかったから、幼い彼女のそばにいることしかできなかった……だけどドクター、あなたは他人を導ける人だったよ。
+[name="Savage"]There's a hell of a lot I couldn't teach Amiya. All I could do was be by her side for a while when she was young. But you, you were able to guide other people.
+[name="새비지"]아미야에게 난 더 많은 걸 알려줄 수 없어. 어릴 때 같이 놀아주는 게 전부였지. 하지만 박사라면 다른 사람을 이끌어 줄 수 있을 거야.
 
 [name="暴行"]对了！我不能聊和博士你有关的过去的事，不如说说我和你们分开以后发生的事情吧？
+[name="サベージ"]そうだ！　ドクターに関することはこれ以上話せないから、わたしがドクターたちと別れた後にどんなことがあったか話そうか？
+[name="Savage"]Oh, yeah! If I can't talk about the past when it has to do with you, I may as well mention what happened after you and I went our separate ways?
+[name="새비지"]앗! 박사의 과거에 대해 이야기하면 안 되는데, 차라리 우리가 헤어진 뒤에 있었던 일에 대해 이야기하는 건 어떨까?
 
 [Decision(options="嗯，我愿意听。", values="1")]
+[Decision(options="うん、聞こうか。", values="1")]
+[Decision(options="Yes, I'd be willing to hear.", values="1")]
+[Decision(options="그래, 들어볼까.", values="1")]
 
 [name="暴行"]太好了。谢谢你，博士。
+[name="サベージ"]よかった。ありがとう、ドクター。
+[name="Savage"]Brilliant. Thank you, Doctor.
+[name="새비지"]다행이다. 고마워, 박사.
 
 [name="暴行"]当年，回到雷姆必拓以后我便没有再收到过你和阿米娅的消息。但我相信，阿米娅一定也在努力地长大，博士你也会始终帮助她。
+[name="サベージ"]アーミヤちゃんやドクターと別れてから、わたしは一度レム・ビリトンに戻ったんだ。
+[name="Savage"]Once I was back in Rim Billiton back then, I heard nothing more about you or Amiya. But I trusted Amiya was doing her best to grow big, and you'd help her all along the way.
+[name="새비지"]그해 림 빌리턴으로 돌아간 뒤로, 박사와 아미야의 소식을 더는 들을 수 없었어. 하지만 아미야가 열심히 성장할 거라고, 박사도 아미야를 도와줄 거라고 믿었지.
 
 [name="暴行"]不过就算后来没有找到罗德岛、重新找到阿米娅和博士你，我大概也不会再在雷姆必拓矿业公司待很长时间了。
+[name="サベージ"]以前と同じく鉱員の安全を守るため、警備と救援の任務に就いて、ほとんどの時間を採掘場で過ごしてた。
+[name="Savage"]But even if I never found Rhodes Island, found Amiya and you again, I still wouldn't have stayed at Rim Billiton PLC much longer.
+[name="새비지"]나중에 로도스 아일랜드를 찾지 못하고, 아미야와 박사를 다시 찾을 수 없었다고 해도 림 빌리턴 광업 회사에 더는 머물지 않았을 거야.
 
 [name="暴行"]其实，在离开阿米娅和博士后，我回到了雷姆必拓。
+[name="サベージ"]レム・ビリトンに戻ってからは、バベルの消息について聞くことはなくなった。だけどアーミヤちゃんは、きっとドクターに助けられながら、すくすく成長しているはずだって信じてたよ。
+[name="Savage"]Truth is, after I left Amiya and you, I returned to Rim Billiton itself.
+[name="새비지"]사실 아미야와 박사 곁을 떠난 뒤에 난 림 빌리턴으로 돌아갔어.
 
 [name="暴行"]还是一如既往地在保护工人的安全，参与一些保障和救援任务，大多数时间都在矿场度过。
+[name="サベージ"]仮にロドスのことを知る機会がなくて、アーミヤちゃんとドクターに再会できなかったとしても、わたしはきっとレム・ビリトン鉱業に長く留まることはなかったと思うんだ。
+[name="Savage"]Still ensuring workers' safety like ever, taking part in protection and rescue assignments, spending most of the time in the mines.
+[name="새비지"]그리고 변함없이 인부들의 안전을 지키며, 구조 임무에 참여했지. 대부분의 시간을 광산에서 보냈다고나 할까?
 
 [name="暴行"]这几年，雷姆必拓也发生了不少事......和这次的胡萝卜罐头现象类似，在雷姆必拓发生的奇奇怪怪的事情是越来越多了。
+[name="サベージ"]この数年、レム・ビリトンではいろんな事が起こったよ……さっき話したニンジン缶の値段つり上げみたいな、おかしな事件はどんどん増えてる。
+[name="Savage"]Rim Billiton's had its own fair share of going-ons these few years... bizarre things taking place more and more often, like the tinned carrot phenomenon.
+[name="새비지"]최근 몇 년 동안 림 빌리턴에도 많은 변화가 있었어…… 이번 당근 통조림 현상도 림 빌리턴에 생긴 이상한 사건 중 하나고.
 
 [name="暴行"]不仅是其他地区对雷姆必拓的觊觎，即便是一直以来相对和平的大型城市里，也因为矿难频发，感染者数量的增长难以扼制......
+[name="サベージ"]他のエリアから目をつけられてるだけじゃなくて、今まで比較的穏健だった大型都市も、鉱山事故の頻発の影響で、感染者数の増加を抑制できなくなってきた……
+[name="Savage"]Not only are other regions grubbing after Rim Billiton, but even in big cities who've always been peaceful, constant mining accidents have made it difficult to keep Infected numbers under control...
+[name="새비지"]다른 지역에서 림 빌리턴을 호시탐탐 노리기 시작했어. 그뿐만 아니라 그동안 상대적으로 평화롭던 대형 도시에서도 광산 사고가 빈번히 일어나고, 감염자 수도 감당하지 어려울 만큼 폭증했지.
 
 [name="暴行"]而他们的待遇却无法得到保证。
+[name="サベージ"]しかもそんな感染者に与えられる待遇は、何の保証もないものだったの。
+[name="Savage"]And there's no way to ensure how they're treated.
+[name="새비지"]하지만 사람들의 처우는 누구도 보장할 수 없었어.
 
 [name="暴行"]我能明白，让我、让我的族人们生气的事情变得越来越多。如果我只是继续在矿业公司待下去，是不足以解决这些不合理的变化的。
+[name="サベージ"]本当は分かってた……わたしや仲間たちが怒りを覚える事件はどんどん増えてる。このまま採掘会社で働き続けても、この不合理な問題を解決することはできないって。
+[name="Savage"]I can understand that whatever's pissing me off, my people off, is getting more frequent by the day. If I kept on under the PLC forever, I wouldn't have the leeway to sort out any of these changes for the unfair.
+[name="새비지"]나와 동족들을 화나게 하는 일이 점점 늘어난다는 걸 알 수 있었어. 회사에만 계속 머문다면 불합리한 변화를 해결하지 못했을 거야.
 
 [name="暴行"]回到雷姆必拓以后，我更加明白，哪怕梦想在老家勤勤恳恳地过一辈子，这片大地也逐渐不容许这份安稳的延续了。
+[name="サベージ"]改めてレム・ビリトンに戻って、更にはっきりと理解した。たとえ故郷でささやかな一生を過ごすことを夢見たとしても、この大地がそれを許してはくれないって。
+[name="Savage"]After I returned to Rim Billiton, that was all the more clear to me. No matter if I dreamed of working away in my home all my life, this world of ours'd gradually come to forbid things go on so steady.
+[name="새비지"]림 빌리턴으로 돌아온 뒤에 더욱 확신할 수 있었어. 고향에서 평생 성실히 일하며 살고 싶다고 해도, 이 땅은 평화가 이어지는 걸 점점 허락하지 않을 거라고.
 
 [name="暴行"]所以，我下定决心要改变。
+[name="サベージ"]だから、変えるって決めたんだ。
+[name="Savage"]So, I decided once and for all to change.
+[name="새비지"]그래서 바꿔야겠다고 결심했지.
 
 [name="暴行"]只有先离开雷姆必拓，了解大地上的其他地方发生了什么，才会知道我们雷姆必拓人会有什么样的命运。以及......如何守护我们的和平。
+[name="サベージ"]それでまずは他の場所で起きていることを知らなきゃいけないって考えたんだ。そうじゃなきゃ、レム・ビリトンに待ち受けてる運命も、どうやって故郷の平和を守るかもわからないから。
+[name="Savage"]My only option was to leave Rim Billiton, and figure out what was happening elsewhere across the land, before I could learn what kind of fate us Rim Billitonians might have. As well as... how to protect our peace.
+[name="새비지"]림 빌리턴을 떠나 다른 지역에서 일어난 일들을 알게 되면, 림 빌리턴 사람들의 운명, 그리고…… 우리의 평화를 어떻게 지켜야 하는지 알 수 있을 지도 모른다고 생각했어.
 
 [name="暴行"]大概因为我的能力还不错吧？实际上，我也收到了许多别的公司的邀请。
+[name="サベージ"]ほんとはね、他の会社からの誘いもたくさんあったんだ。わたしがそこそこ有名人だったからかな？
+[name="Savage"]I suppose it was because my ability's pretty good? To tell the truth, I had a lot of other companies inviting me too.
+[name="새비지"]내가 워낙 출중한 탓인지는 모르겠는데, 사실 여러 회사로부터 스카우트 요청을 받았거든?
 
 [name="暴行"]但是......当我知道罗德岛的领袖是阿米娅的时候，就毫不犹豫地跳槽过来啦。
+[name="サベージ"]だけど……ロドスのリーダーがアーミヤちゃんだって知って、何の迷いもなくここへ来るって決めた。
+[name="Savage"]But... once I knew Rhodes Island's leader was Amiya, I came hopping over to this job without a second thought.
+[name="새비지"]그런데도…… 로도스 아일랜드의 지휘관이 아미야라는 걸 알고선 망설이지 않고 달려온 거야.
 
 [name="暴行"]来到罗德岛之后，我有了看到大地上更多发生着的变化的机会。
+[name="サベージ"]ロドスに来てからは、この大地で起こっている、さらに多くの変化を見る機会が得られた……
+[name="Savage"]Since coming to Rhodes Island, I've been able to see so much more of the changes happening across the world.
+[name="새비지"]로도스 아일랜드에 온 뒤로 이 땅에서 일어나는 많은 변화를 지켜볼 기회가 생겼어.
 
 [name="暴行"]不仅是雷姆必拓，这片大地的各处都需要改变。
+[name="サベージ"]レム・ビリトンだけじゃない。この大地中のあらゆる場所が変化を必要としてるってことを知ったんだ。
+[name="Savage"]It's not just Rim Billiton. Every part of this whole grand stretch of land is gearing to change.
+[name="새비지"]림 빌리턴뿐만 아니라 이 땅의 여러 곳에서 변화를 원해.
 
 [name="暴行"]或许其他地方也正有人在努力改变，但是现在，在我身边为此努力的......就是阿米娅和博士你了。
+[name="サベージ"]もしかしたら他の場所でも、誰かが何かを変えようと努力しているかもしれない。だけど今、わたしの側でそんな風に頑張ってるのは……アーミヤちゃんとドクターなんだよ。
+[name="Savage"]Maybe other places have their own people striving for change, but right now, the ones striving by my side for it... are Amiya, and you, Doctor.
+[name="새비지"]어쩌면 다른 지역에서 누군가 변화를 위해 노력하고 있을지도 몰라. 하지만 지금, 내 곁에서 노력하는 건…… 아미야와 박사 두 사람이야.
 
 [name="暴行"]这里有希望。所以，我会为你们尽自己的一份力。
+[name="サベージ"]ここには目に見える希望がある。だから、わたしはドクターたちのために自分の全力を尽くすつもりだよ。
+[name="Savage"]This place has hope. So, I'll do my part, for all of you.
+[name="새비지"]여기엔 희망이 있어. 그래서, 너희들을 위해 최선을 다할 거야.
 
 [name="暴行"]离开雷姆必拓可不是什么简单的决定。对我们土生土长的雷姆必拓人来说，离开需要开拓的勇气。
+[name="サベージ"]レム・ビリトンを去るのは、簡単な決断じゃなかったよ。あそこで生まれ育ったわたしたちにとって、故郷を離れるのは、開拓者になるのと同じくらいの勇気が必要なんだ。
+[name="Savage"]Deciding to leave Rim Billiton was miles from easy. For us born-and-bred Rim Billitonians, leaving needs some groundbreaking courage.
+[name="새비지"]림 빌리턴을 떠나는 건 그리 쉬운 결정은 아니었어. 림 빌리턴에서 나고 자란 우리로서는 고향을 떠난다는 건 새로운 땅을 개척해야 하는 용기를 필요로 하는 일이었으니까.
 
 [name="暴行"]支撑我走出安逸环境的，是我的决心，阿米娅的决心——
+[name="サベージ"]平穏な環境から飛び出すわたしを支えてくれたのは、自らの決心、そしてアーミヤちゃんの決心だった……
+[name="Savage"]What supported me in leaving somewhere safe and easy was my determination, Amiya's determination—
+[name="새비지"]안정된 환경에서 벗어나야겠다고 날 이끌어준 건 나의 결심, 아미야의 결심이야……
 
 [name="暴行"]接下来，就是你的决心，博士。
+[name="サベージ"]次は、あなたが決心する番だよ、ドクター。
+[name="Savage"]And now, your determination, Doctor.
+[name="새비지"]그리고 이제는 네가 결심할 때야, 박사.
 
 [Decision(options="......;我早就做好决定了。", values="1;2")]
+[Decision(options="……;とっくに心は決めているさ。", values="1;2")]
+[Decision(options="......;I've long since made my decision.", values="1;2")]
+[Decision(options="……;난 이미 결심했어.", values="1;2")]
 
 [name="暴行"]现在......不论你们曾经经历了什么，亦或是还要去面对什么。
+[name="サベージ"]今までドクターたちが何を経験してきて、これから何に立ち向かうとしても――
+[name="Savage"]Right now... no matter what you've all gone through, or what you'll have to confront.
+[name="새비지"]……너희들이 과거에 어떤 일을 겪었든지, 또 앞으로 어떤 일을 겪게 되든지……
 
 [name="暴行"]我会与你们同行。
+[name="サベージ"]わたしは、あなたたちと共に進むよ。
+[name="Savage"]I'll be going with you.
+[name="새비지"]이제부턴 내가 너희 곁에 있어 줄게.
 
