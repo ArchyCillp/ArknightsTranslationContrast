@@ -1,0 +1,10 @@
+当<@tu.kw>侵蚀</>累积到一定程度，装备会发生严重的故障，这种情况会造成大量的<@tu.kw>物理</>伤害，并且导致<@tu.imp>防御力永久降低</>。
+しかも、この<@tu.kw>侵蝕</>がある程度蓄積すると、装備が故障しちゃうから気を付けて。そうなれば、かなりの<@tu.kw>物理</>ダメージを受けることになるし、おまけに<@tu.imp>防御力が低下し続ける</>からね。
+When <@tu.kw>Corrosion</> accumulates to a certain extent, equipment will catastrophically malfunction. At that point, it'll cause massive <@tu.kw>Physical</> damage, as well as <@tu.imp>permanent DEF reduction</>.
+<@tu.kw>침식</> 피해가 어느 정도 누적되면 장비에 심각한 문제가 생길 거야. 그러면 대량의 <@tu.kw>물리</> 대미지가 발생하여 <@tu.imp>방어력이 영구적으로 하락</>하지.
+
+[PopupDialog(dialogHead="$avatar_takila")] 幸好，虽然并不绝对，但敌人控制潮汐的幅度往往无法没过高台。可以利用敌方术师的弱点，让擅长远程攻击的人在高处协助。
+[PopupDialog(dialogHead="$avatar_takila")] まあ、幸い……基本的には、術師たちの操る潮の高さが高台を越えることはないから、遠距離攻撃が得意な人員をそっちに配備すれば、高所から支援してもらうことができるよ。
+[PopupDialog(dialogHead="$avatar_takila")] Luckily, though it's not always surefire, enemy control of the tide usually can't take it to the high grounds. You can exploit this weakness of those enemy Casters, and have your ranged units assist from higher elevation.
+[PopupDialog(dialogHead="$avatar_takila")] 다행히도, 절대라고 할 순 없지만, 밀물이 고지대를 넘을 정도는 아니야. 그러니까 긴급한 상황에서는 원거리 공격에 능한 사람을 고지대에 배치하여 도와줄 수 있어.
+

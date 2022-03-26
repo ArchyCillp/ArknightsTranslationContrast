@@ -1,364 +1,910 @@
 12:10 P.M.  天气/晴
+p.m. 12:10 天気/晴天
+12:10 P.M. \ Clear
+12:10 P.M. 날씨/맑음
 
 罗德岛食堂
+ロドス食堂
+Rhodes Island Cafeteria
+로도스 아일랜드 식당
 
 [name="杜林"]大婶，请给我一份蘑菇套餐——
+[name="ドゥリン"]すみませ～ん、ランチメニューのキノコセット一つ――
+[name="Durin"]Auntie, I'd like a mushroom meal set—
+[name="두린"]이모, 여기 버섯 정식 하나~
 
 [name="杜林"]多加莓果酱和豆泥，谢谢。
+[name="ドゥリン"]いちごジャムとマッシュポテトは多めでお願いしまーす。うん、ありがとー。
+[name="Durin"]With extra berry jam and bean paste, thank you.
+[name="두린"]딸기잼이랑 매쉬드 포테이토는 3인분 같은 1인분으로~ 알지? 고마워~
 
 [name="杜林"]嘿咻。
+[name="ドゥリン"]……よいしょ。よーし、食べよー。
+[name="Durin"]Whew.
+[name="두린"]읏차.
 
 [name="杜林"]呼，呼......好烫。
+[name="ドゥリン"]ふー、ふー……あちちっ。
+[name="Durin"]Pff... Pff... That's hot...
+[name="두린"]후, 후…… 뜨거워.
 
 [name="罗德岛干员"]哦，这不是杜林嘛，介意拼个座吗？
+[name="ロドスオペレーター"]よっ、ドゥリン。隣いいか？
+[name="Rhodes Island Operator"]Oh, if it isn't Durin. Mind if I have a seat?
+[name="로도스 아일랜드 오퍼레이터"]오, 두린이잖아, 같이 앉아도 돼?
 
 [name="杜林"]没问题，你随意~
+[name="ドゥリン"]どうぞー、ご自由にー。
+[name="Durin"]Sure, no problemo~
+[name="두린"]그럼, 편한 대로~
 
 [name="罗德岛干员"]谢谢了，这个时间人还挺多，到处都坐满了。
+[name="ロドスオペレーター"]悪いな。この時間は混んでて、どこも満席でさ。
+[name="Rhodes Island Operator"]Appreciate it. It's pretty packed around this time, and just about everywhere is filled up.
+[name="로도스 아일랜드 오퍼레이터"]고마워, 지금 시간에는 사람이 많아서 어딜 가나 자리가 없더라고.
 
 [name="罗德岛干员"]你就一个人？怎么没和巡林者老爷子，还有夜刀他们一起？
+[name="ロドスオペレーター"]そんで、一人か？　レンジャーの爺さんや、ヤトウたちは？
+[name="Rhodes Island Operator"]You by yourself? Where's ol' Rangers, and Yato's crew?
+[name="로도스 아일랜드 오퍼레이터"]혼자야? 레인저 영감님이랑 야토 걔네는 어디 가고?
 
 [name="杜林"]我自己先过来的。
+[name="ドゥリン"]私だけ先に来たんだよねー。
+[name="Durin"]I came here first.
+[name="두린"]나 혼자 먼저 왔어.
 
 [name="杜林"]刚训练完，他们还在收拾，我们准备一会去吃烤肉。
+[name="ドゥリン"]さっき訓練が終わったばっかりだから、皆はまだ片付け中。で、それが終わったら、みんなで焼肉するんだー。
+[name="Durin"]Training just ended, so they're still cleaning up. We're about to go get some barbecue.
+[name="두린"]훈련이 막 끝나서 정리 중이야. 이따가 다 같이 고기 먹으러 가기로 했거든.
 
 [name="罗德岛干员"]啊？一会要烤肉，你还在这点蘑菇套餐？
+[name="ロドスオペレーター"]ん？　この後焼肉なのに、キノコセットなんか頼んだのか？
+[name="Rhodes Island Operator"]Huh? If you're going to have barbecue, why'd you order that mushroom combo?
+[name="로도스 아일랜드 오퍼레이터"]어? 이따가 고기 먹으러 가는데, 버섯 정식을 시킨 거야?
 
 [name="杜林"]没关系，就这么一点点，我很快就吃完了——
+[name="ドゥリン"]平気だよー。これくらい、すぐ食べ終わっちゃうから――
+[name="Durin"]It's fiiine. This tiny portion's basically just a quick little snack—
+[name="두린"]괜찮아, 조금인데 뭘. 금방 먹을 수 있어~
 
 [name="杜林"]啊——呜。
+[name="ドゥリン"]あー……むっ。
+[name="Durin"]Ahhh——mm.
+[name="두린"]하아~~~암
 
 [name="杜林"]（大口咀嚼）
+[name="ドゥリン"]もぐ、もぐ……
+[name="Durin"](Takes a huge bite and starts chewing)
+[name="두린"](한 입 크게 먹는다)
 
 [name="罗德岛干员"]......等下，是我眼花了？
+[name="ロドスオペレーター"]……ま、待った。……俺の目がおかしくなったのか……？
+[name="Rhodes Island Operator"]Wait... am I seeing things?
+[name="로도스 아일랜드 오퍼레이터"]……잠깐, 내가 뭐 잘못 본 거야?
 
 [name="罗德岛干员"]三句话前不是还有一整盘的吗，怎么这就只剩一半了？！你也太快了吧？
+[name="ロドスオペレーター"]その皿、今さっきまで一杯だったよな？　なのにもう半分なくなってるじゃないか！？　食べるの速すぎだろ……
+[name="Rhodes Island Operator"]There was a whole plate of food in front of you just three seconds ago, and now half of it's gone?! Shouldn't you slow down?
+[name="로도스 아일랜드 오퍼레이터"]방금 전까지 한 그릇 가득 있었는데 그새 절반밖에 안 남았다니? 너무 빠르잖아!
 
 [name="杜林"]哼哼，这算什么。
+[name="ドゥリン"]ふふん、言ったでしょー？　すぐ食べ終わっちゃうって。
+[name="Durin"]Heh heh, that's nothing.
+[name="두린"]후후, 이 정도로 뭘~
 
 [name="杜林"]地上的食物和我老家的还挺不一样的，我也有在放慢速度好好品尝啦。
+[name="ドゥリン"]地上の食べ物って、私の故郷の味とはかなり違ってるからさー。これでもゆっくり味わって食べてる方なんだよー。
+[name="Durin"]The food on the surface is really different from the stuff back home. I'm already going slow enough to taste it.
+[name="두린"]지상의 음식은 고향의 것과는 전혀 달라. 나름 천천히 음미 중인걸.
 
 [name="杜林"]啊，不过蘑菇不管怎么做都好吃。
+[name="ドゥリン"]まあ、キノコはどう料理してもおいしいけどねー。
+[name="Durin"]Ahh, but mushrooms are delicious no matter how you cook them.
+[name="두린"]으음, 물론 버섯은 어떻게 요리해도 맛있지만.
 
 [name="罗德岛干员"]行了，没人不知道你喜欢菌类了。
+[name="ロドスオペレーター"]ああ、お前がキノコ好きなのはみんな知ってるもんな。
+[name="Rhodes Island Operator"]Yeah, we all know how much you love fungus by now.
+[name="로도스 아일랜드 오퍼레이터"]하긴 네가 버섯 좋아하는 거 모르는 사람이 없지.
 
 [name="罗德岛干员"]说真的，你这样偏食，真的不会营养不良？
+[name="ロドスオペレーター"]けど真面目な話、そんなに偏食して栄養失調とかにならないのか？
+[name="Rhodes Island Operator"]Real talk though, aren't you worried about getting malnourished, always eating the same kind of food?
+[name="로도스 아일랜드 오퍼레이터"]그래도 이렇게 편식하면 영양 결핍이 생길 수 있다고.
 
 [name="杜林"]才——不会。
+[name="ドゥリン"]ならないよー。
+[name="Durin"]Nooope.
+[name="두린"]아~니~거~든~
 
 [name="杜林"]呼，味道不错，我吃完了。
+[name="ドゥリン"]……ふぅ、おいしかった。ごちそうさまー。
+[name="Durin"]Whew, that hit the spot. All finished here.
+[name="두린"]후, 맛있다. 다 먹었어.
 
 [name="罗德岛干员"]哈啊？？等等，什么时候吃完的......所以说你吃得真的太快了吧，没问题吗？
+[name="ロドスオペレーター"]は……はあ！？　待て待て、いつの間に食べ終わったんだお前……本当に大丈夫なのか？
+[name="Rhodes Island Operator"]Huuuh? Wait, when'd you finish eating... I told you, you eat way too fast. Are you sure you're alright?
+[name="로도스 아일랜드 오퍼레이터"]뭐야? 잠깐, 언제 다 먹은 거야…… 너 너무 빨리 먹는 것 같은데, 진짜 괜찮아?
 
 [name="杜林"]没问题没问题，别担心。
+[name="ドゥリン"]大丈夫、大丈夫。心配しないでー。
+[name="Durin"]Yes, I'm fine. Don't worry.
+[name="두린"]괜찮아, 괜찮아. 걱정하지 마.
 
 [name="杜林"]我还可以吃得更快......不过，上次和黑角比试速度才刚被医疗部抓到教训过，这两天还是收敛点咯。
+[name="ドゥリン"]本当はもっと速く食べられるくらいだし……でも、この間ノイルと早食い対決した時に、医療部に捕まってお説教されちゃってさー。だから、最近はちょっとおとなしくしてるんだよねー。
+[name="Durin"]I can eat even faster... But, Medical chewed me out when I had that speed-eating contest with Noir Corne, so I've been taking it easy the last couple days.
+[name="두린"]더 빨리 먹을 수도 있는걸…… 그런데 지난번에 느와르 코르네랑 누가 빨리 먹나 시합하다가 의료부에 걸려서 혼난 뒤로 나름 조심하는 중이야.
 
 [name="罗德岛干员"]......你们平时都这么娱乐？
+[name="ロドスオペレーター"]……お前ら、いつもそんなことばっかやってるのか？
+[name="Rhodes Island Operator"]What the heck do you guys do for fun?
+[name="로도스 아일랜드 오퍼레이터"]……너희 평소에도 그렇게 노는 거야?
 
 [name="杜林"]还好还好，一般啦。
+[name="ドゥリン"]まあ、大体ねー。
+[name="Durin"]You know, normal stuff. It's totally fine.
+[name="두린"]괜찮아, 괜찮아~ 늘 그런걸.
 
 [name="杜林"]哈啊，吃了点东西就开始犯困了，老爷子他们好慢啊......
+[name="ドゥリン"]ふわぁ～…食べたら眠くなっちゃった……爺たち、遅いなぁ……
+[name="Durin"]*Yawn*... Eating always makes me sleepy. The others sure are taking their sweet time...
+[name="두린"]하암, 먹으니까 졸리네. 영감님이랑 야토 얘네는 왜 이렇게 안 오는 거야……
 
 [name="杜林"]我去捞点饮料提提神——
+[name="ドゥリン"]何か飲んで眠気を覚まそーっと――
+[name="Durin"]I'll go grab a drink to perk myself up—
+[name="두린"]잠 좀 깨게 뭐 좀 마실까……
 
 [name="杜林"]（唔，我记得之前买的水果饮料还有剩。）
+[name="ドゥリン"]（うーん、確か前に買ったジュースがまだ残ってたような。）
+[name="Durin"](Hmm, I still have some leftover fruit drinks from last time.)
+[name="두린"](음, 전에 사둔 주스가 아직 있을 텐데.)
 
 [name="杜林"]（可是回去休息室太远了......呼......哈，有点困了......）
+[name="ドゥリン"]（でも休憩室に戻るには遠いなぁ……ふ……わあぁ、ほんとに眠い……）
+[name="Durin"](But it's too far to go back to the lounge... *Yawn*... and I'm getting a bit sleepy...)
+[name="두린"](하지만 휴게실까지 돌아가려면 너무 멀어…… 후…… 하암, 졸린데……)
 
 [name="杜林"]（对了，公共休息室这个时候应该会有咖啡吧？）
+[name="ドゥリン"]（そうだ、今の時間なら談話室にコーヒーがあるはずだよねー？）
+[name="Durin"](Oh, right, there should be some coffee in the common room now, right?)
+[name="두린"](맞다, 지금 시간이면 공용 휴게실에 커피가 있겠지?)
 
 [name="杜林"]呜哦？
+[name="ドゥリン"]……おー？
+[name="Durin"]Huh?
+[name="두린"]으응?
 
 [name="杜林"]什么动静，好吵。
+[name="ドゥリン"]何の騒ぎだろー？　うるさいなー。
+[name="Durin"]What's with the racket?
+[name="두린"]뭐야, 뭐가 이렇게 시끄러워?
 
 [name="杜林"]唔，那边的那个人是......
+[name="ドゥリン"]んー、あそこにいるのはー……
+[name="Durin"]Ugh, who's that over there...?
+[name="두린"]엇, 저기 저 사람은……
 
 [name="慑砂"]啧，如此美好的下午，偏偏有人不懂珍惜。
+[name="シェーシャ"]ったく、お前ときたら、この麗しい午後を慈しむことすらできねーらしいな。
+[name="Sesa"]Gah. Such a beautiful afternoon, but some people don't know to appreciate it.
+[name="세사"]쯧, 아름다운 오후의 소중함도 모르고……
 
 [name="慑砂"]我感到有邪恶的力量在骚动......喂，大家伙，控制你的力量，别——
+[name="シェーシャ"]感じるぜ。邪悪な力がざわめいてやがる……なあ、よく聞け、「鉄の巨人」よ。己の力を制御するんだ。決して――
+[name="Sesa"]I feel the convulsions of an evil power... Hey, big guy, control yourself, stop—
+[name="세사"]사악한 힘이 일렁이는 게 느껴져…… 이봐, 너! 흥분하지 말고 좀 참아. 아니……
 
 [name="慑砂"]别、哎、等下，兄弟别真动手啊！
+[name="シェーシャ"]って、おいやめろ、待てっての！　暴れんなって言ってるんだよ、ブラザー！
+[name="Sesa"]Wait, hey, stop it, bro, are you trying to hurt me?!
+[name="세사"]하, 하지…… 앗, 기다려! 마, 말로 하자고!
 
 [name="慑砂"]到底是谁啊！弄出这种大型机械还给它装了这么危险的重武器啊！
+[name="シェーシャ"]こいつは一体誰の仕業だ！？　大型マシンに危ねぇ重火器なんか装備させやがって！
+[name="Sesa"]Who the hell did this? Installing such a huge machine and mounting it with such dangerous heavy weaponry!
+[name="세사"]대체 누구야! 이렇게 커다란 고철 덩어리에 위험한 중화기를 장착한 게!
 
 [name="杜林"]喂喂。
+[name="ドゥリン"]もしもーし。
+[name="Durin"]'ello.
+[name="두린"]저기, 이봐.
 
 [name="慑砂"]可恶，怎么会变成这样！再这样下去，邪恶的迷雾将会就此蔓延！
+[name="シェーシャ"]くそっ、なんでこんなことに……！　このままいったら、邪悪なる霧が蔓延っちまうじゃねーか！
+[name="Sesa"]Dammit, how could this happen?! The mist of evil will spread if this is allowed to continue!
+[name="세사"]젠장, 왜 이렇게 된 거야? 이러다간 사악한 안개가 퍼지고 말 거야!
 
 [name="慑砂"]哈，事已至此，我也只好使出我被封印的手段......
+[name="シェーシャ"]くっ、こうなった以上、こっちも禁じられし手段を行使しなけりゃならねぇようだな……
+[name="Sesa"]Haah... Left with no other choice, I must resort to the techniques that I swore to seal away...
+[name="세사"]하, 이렇게 되면 나도 봉인을 푸는 수밖에……
 
 [name="杜林"]那个啊......
+[name="ドゥリン"]あのさー……
+[name="Durin"]Um...
+[name="두린"]저기……
 
 [name="慑砂"]哼，早该想到的，我手臂的颤抖就是这一刻的预兆。
+[name="シェーシャ"]ふっ……もっと早く気付くべきだったぜ。腕の震えは……この瞬間の前触れだった、ってことにな。
+[name="Sesa"]Hmph, I should've known. The trembling of my arm was an omen of this moment.
+[name="세사"]흥, 진작 알아챘어야 했는데. 내 팔의 떨림은 이 순간을 예감한 것이었어.
 
 [name="慑砂"]喂，大家伙，不要怨恨我，我将给予引导......
+[name="シェーシャ"]「鉄の巨人」よ、恨むんじゃねぇぞ。今からこの俺が、お前に引導を渡して――
+[name="Sesa"]Hey, big guy, don't hate me for this, but I will show you the path...
+[name="세사"]어이, 너무 원망하지 말라고. 내가 널……
 
 [name="杜林"]......
+[name="ドゥリン"]……
+[name="Durin"]......
+[name="두린"]……
 
 娇小的杜林族人无言地跳起，精准地一脚踹在红发瓦伊凡的小腿上。
+小さなドゥリン族の少女は無言で跳び上がると、赤い髪のヴイーヴルの脛に正確な蹴りを入れた。
+The pint-sized Durin jumps up wordlessly and delivers a precise kick to the calf of the red-haired Vouivre.
+자그마한 체구의 두린족이 말없이 뛰어오르더니 붉은 머리 와이번의 정강이를 정확하게 걷어찼다.
 
 [name="慑砂"]是谁暗算——呃，你是，A4行动组的......
+[name="シェーシャ"]ぐぉっ！？　だ、誰だ、不意打ちなんてしやがっ――って、あんたは……たしかA4の……
+[name="Sesa"]Whose dark mach— Gah, you, you're from A4...
+[name="세사"]윽, 감히 누가 날 때리…… 엇, 넌 A4 작전팀의……
 
 [name="杜林"]我说，从刚刚起就好——吵——啊——
+[name="ドゥリン"]もーう、さっきからー、うーーるーーさーーいーー。
+[name="Durin"]I said, you've been reaaaaally— freaking— loooooud—
+[name="두린"]진짜, 아까부터 너.무.시.끄.럽.다.고……
 
 [name="杜林"]这是在干什么，唔唔，红毛傻蜥蜴大战装甲人？
+[name="ドゥリン"]で、何してたのー？　んー、『おとぼけ赤トカゲVS装甲ロボ』の撮影とか？
+[name="Durin"]What are you doing here anyway, hmm? Reenacting Red Hair-zilla versus Giant Robot?
+[name="두린"]뭐 하는 거야? 으음, 빨강 머리 바보 도마뱀과 로봇의 혈투 뭐 그런 거야?
 
 [name="慑砂"]红毛......啥啊！？别取这种一听就缺乏格调必然是烂片的标题行不行！
+[name="シェーシャ"]お、おとぼけ赤トカゲ……だと！？　それ、タイトルの時点で駄作決定じゃねーか！　品もセンスもありゃしねぇぜ……
+[name="Sesa"]Red Hair... what?! Don't go ascribing me a title that reeks of a cheap, shitty flick!
+[name="세사"]빨강 머리…… 하아?! 그런 싸구려 영화 제목 같은 이름으로 부르지 마!
 
 [name="慑砂"]呃，不对，现在不是说这个的时候！快后退，站在我的背后，小心这股邪恶的能量——哎你别乱来！
+[name="シェーシャ"]いや、今はそんなこと言ってる場合じゃねぇ！　早く下がれ、俺の後ろに隠れるんだ。いいか、邪悪なるエネルギーに気をつけ――って、おいぃ！　勝手に動くな！
+[name="Sesa"]Ugh, no, now isn't the time for this! Get back, and stand behind me. Beware of the evil power emanating from— Hey, stop messing around!
+[name="세사"]어, 아니지…… 지금 이럴 때가 아니야! 얼른 내 뒤로 물러서. 사악한 힘을 조심…… 엇, 뭐 하는 거야!
 
 [name="杜林"]好啰嗦。
+[name="ドゥリン"]ちょっと黙っててー。
+[name="Durin"]What a pain.
+[name="두린"]거참 말 많네.
 
 [name="杜林"]这个时候就要这样......去吧！
+[name="ドゥリン"]こういう時は、これをこうして……いけー！
+[name="Durin"]Times like these call for...... Take this!
+[name="두린"]이럴 때는 그냥 이렇게…… 하는 거라고!
 
 [name="慑砂"]小心！随意刺激沉睡的猛兽会遭致灾难......等等，我说，别乱用源石技艺随意攻击，万一触发机械的反击机制会很危险——
+[name="シェーシャ"]注意しろ！　眠れる猛獣を無闇に刺激すれば、お前に災厄が降りかか……待て、聞けって！　闇雲にアーツで攻撃するなって言ってるんだよ！　万が一、そいつの迎撃システムが作動したら――
+[name="Sesa"]Hold on! Stimulating the sleeping beast invites only disaster... Wait, wait, I already said, don't just start throwing Arts at it! If you trigger the automatic counterattack mechanism, things might get incredibly dangerous—
+[name="세사"]조심해! 잠자는 맹수를 함부로 건드리면 죽을…… 이, 이봐! 기다려, 오리지늄 아츠로 공격하면 어떡해? 로봇의 반격 메커니즘을 건드리면 위험하다고……
 
 [name="慑砂"]......嗯？这个大块头的动作变缓了？
+[name="シェーシャ"]……ん？　「鉄の巨人」の動きが、鈍った……？
+[name="Sesa"]Huh...? The titan is slowing down?
+[name="세사"]……응? 녀석의 움직임이 느려졌잖아?
 
 [name="杜林"]哼哼，打中了。
+[name="ドゥリン"]ふふーん、当たりだねー。
+[name="Durin"]Heh heh, direct hit.
+[name="두린"]후후, 명중~
 
 [name="杜林"]呼......哈啊，好困......唔，小哥，接下来该你了。
+[name="ドゥリン"]ふ……わぁ。すっごい、眠くなっちゃった……じゃあ、お兄さん。後はよろしくー……
+[name="Durin"]Phew... *Yawn*... So sleepy. Welp, the rest is up to you.
+[name="두린"]후…… 하암, 졸려…… 음, 빨강 머리, 다음은 네 차례야.
 
 [name="杜林"]快，快把这个大家伙机械臂下面的盖子打开，主控制箱大概就在那里面。
+[name="ドゥリン"]ほら、急いでー。ロボットアームの下にカバーがあるから、それを開けて……メインのコントロールボックスは、多分その中だよー。
+[name="Durin"]Hurry, open up the cover under the big guy's robotic arm. The main control box is probably somewhere in there.
+[name="두린"]자, 빨리 로봇 어깨 아래 있는 뚜껑을 열어. 메인 컨트롤 박스가 아마 그 안에 있을 거야.
 
 [name="慑砂"]嘎，哦，哈？
+[name="シェーシャ"]はぁ……え、はあ？
+[name="Sesa"]Wha... Oh... Huh?
+[name="세사"]으음, 음…… 어?
 
 [name="杜林"]你会操作那个吗？要不然，嗯......我觉得直接轰掉那里也行。
+[name="ドゥリン"]操作できるー？　できなかったら、うーん……アームの下を直接、爆破しちゃってもいいと思うよー。
+[name="Durin"]Do you know how to work it? If not, hmm... maybe we can just blow it up.
+[name="두린"]그거 만질 줄 알아? 아니면…… 그냥 폭파해버리는 것도 괜찮을 것 같은데?
 
 [name="杜林"]快快。别发呆，就是我刚刚打中的那个位置~
+[name="ドゥリン"]さぁ、ぼーっとしてないでー、早く早くー。さっき私が撃ったところねー。
+[name="Durin"]Hurry, don't just stand there staring. That place I just hit~
+[name="두린"]빨리빨리, 멍하니 있지 말고. 방금 내가 명중시킨 위치 말이야~
 
 [name="杜林"]再愣着一会又要吃炮弹咯？
+[name="ドゥリン"]ぐずぐずしてたら、また砲弾が飛んでくるよー？
+[name="Durin"]If you keep gawking, you're gonna be eating shells real soon.
+[name="두린"]계속 그렇게 꾸물거리다간 또 폭탄 세례를 받게 된다?
 
 [name="慑砂"]你别推我......啧，知道了，我知道了！
+[name="シェーシャ"]ああ、分かったって！　ったく……そう急かすなよ。
+[name="Sesa"]Stop pushing me.. Tsk, fine, I got it!
+[name="세사"]밀지 마…… 쯧, 알겠어. 알겠다고!
 
 [name="慑砂"]哼，这份天赐的力量本不该在人前被展露，今天就破例让你见识一下！......处理那种带着机油味的东西可是我的专长，别小看我！
+[name="シェーシャ"]はぁ……この天より賜りし力は本来人目に晒すべきもんじゃねぇんだが、今回は特別に披露してやろう！　……機械油が匂うヤツの扱いは得意なんだ。甘く見るなよ！
+[name="Sesa"]Heh, this god-given power is not something that should be casually revealed, but today, I'll make an exception and allow you to bear witness! Don't underestimate me... dealing with machines that stink of oil is my specialty!
+[name="세사"]흥, 이런 건 아무한테나 보여주는 게 아닌데 오늘만 특별히 보여주지……! 기름 냄새나는 걸 처리하는 건 내 특기니까, 무시하지 말라고!
 
 [name="慑砂"]这个有点格调但还太粗糙了的大家伙！给我乖乖停下来吧！
+[name="シェーシャ"]さあ……少々荒削りな趣のある「鉄の巨人」よ！　大人しく止まりやがれ！
+[name="Sesa"]You might have a little bit of gumption, big guy, but you still lack refinement! Heed me and come to a halt!
+[name="세사"]거칠고 세련된 '철의 거인'이여! 얌전히 멈춰라!
 
 [name="杜林"]......呃，其实我刚刚就想问了。
+[name="ドゥリン"]……えっと、さっきから気になってたんだけどー……
+[name="Durin"]Uhh... I actually wanted to ask you something.
+[name="두린"]……어, 사실 아까부터 묻고 싶었는데.
 
 [name="杜林"]你说这种台词的时候啊，真的不会害羞吗？
+[name="ドゥリン"]そういうセリフ、言ってて恥ずかしくないのー？
+[name="Durin"]Don't you feel embarrassed at all saying stuff like that?
+[name="두린"]그런 대사 날리는 거 부끄럽지 않아?
 
 [name="慑砂"]啰嗦！！
+[name="シェーシャ"]うるせー！！
+[name="Sesa"]None of your business!!
+[name="세사"]시끄러워!!
 
 [name="慑砂"]呼......总算搞定了。
+[name="シェーシャ"]ふー……成し遂げたぜ、ようやくな。
+[name="Sesa"]Phew... At least that's taken care of.
+[name="세사"]후우…… 이제 됐군.
 
 [name="慑砂"]到底是哪里的狂妄之徒，造出这么个危险的机械装甲也就算了，还给它装备了武器，哈，幸好遇到的正好是我。
+[name="シェーシャ"]どんな身の程知らずが作ったのか知らねぇが、こんな危険な装甲マシンに武器まで装備させるとは……まあ、俺に遭遇したのが不幸中の幸いってとこか。
+[name="Sesa"]Now, who was the arrogant fool who put together such a dangerous piece of power armor and even equipped it with weapons? Hah, lucky I was here.
+[name="세사"]대체 어떤 정신 나간 놈이야? 위험한 기계를 만들고 무기까지 장착하다니? 하, 날 만난 걸 행운인 줄 알라고!
 
 [name="杜林"]（唔，我看看。）
+[name="ドゥリン"]（うーん、どれどれ……）
+[name="Durin"](Hmm, let me see...)
+[name="두린"](음, 어디 보자.)
 
 [name="杜林"]（哦......！这个拼装，果然和以前附近的小孩子们自己做着玩的很像......）
+[name="ドゥリン"]（あ……！　この構造、前に近所の子供たちが自力で組み上げてたオモチャにそっくり……）
+[name="Durin"](Oh...! This assembly looks really similar to what those neighbor kids used to put together for fun...)
+[name="두린"](오……! 이 구조, 역시 예전에 동네 애들이랑 같이 만들어 놀던 것과 비슷해……)
 
 [name="杜林"]（这样的话，只要把这个盖子打开，然后这样......）
+[name="ドゥリン"]（だったら、こっちのカバーを開けて、こうすれば……）
+[name="Durin"](So then all you have to do is flip the lid here and then...)
+[name="두린"](그렇다면 뚜껑을 연 뒤에……)
 
 [name="杜林"]嘿咻。
+[name="ドゥリン"]ふぅー。
+[name="Durin"]Phew.
+[name="두린"]읏차.
 
 [name="慑砂"]真是天真，武器可不是能这么简单拿出来显摆的东西，所谓格调......唔哦哦哦？！
+[name="シェーシャ"]大体、考えが幼稚すぎんだよ。武器ってのはこんな風に軽々しく見せびらかすべきじゃねーし、そもそも趣……って、うおおおっ！？
+[name="Sesa"]How naive. Weaponry is not something that anyone can simply fiddle with, it takes a certain refinement...... Whaaaat?!
+[name="세사"]정말이지 순진하군. 무기라는 건 아무렇게나 휘두르는 게 아니야. 소위 격이라는 건 말이지…… 으아아앗?!
 
 [name="慑砂"]慢着！！别随便乱动上面的线路，太危险了！
+[name="シェーシャ"]おいおいおい！　何やってんだ、危ねーだろ！！　無闇に配線をいじるんじゃねぇ！
+[name="Sesa"]Hold up! Don't cross the lines, it's too dangerous!
+[name="세사"]기다려! 함부로 위에 있는 회로 건드리지 마, 너무 위험하다고!
 
 [name="杜林"]没事，没事。
+[name="ドゥリン"]大丈夫、大丈夫ー。
+[name="Durin"]It's fine, it's fine.
+[name="두린"]괜찮아, 괜찮아.
 
 [name="杜林"]这个不拔掉，一会大家伙又得动起来了。
+[name="ドゥリン"]これを抜いておかないと、あとでまたこの大きいロボが勝手に動き出しちゃうからさー。
+[name="Durin"]If you don't unplug this, the big guy's gonna be up and running again.
+[name="두린"]이걸 뽑지 않으면 이 녀석 이따가 또 움직일 거야.
 
 [name="杜林"]嗯......这样绕一下，再把这个切掉......好，这样应该就没问题了。大概。
+[name="ドゥリン"]うーん……こうやって巻き付けてー、ここを切って……よーし。これでもう大丈夫……なはず。多分ねー。
+[name="Durin"]Mm... Wrap this around, and then cut here... Alright, that should do the job. Probably.
+[name="두린"]으음…… 이걸 이렇게 하고, 저걸 끊으면…… 됐다. 이젠 괜찮을 거야, 아마도.
 
 [name="慑砂"]实在太乱来了！
+[name="シェーシャ"]適当すぎるだろ！
+[name="Sesa"]You're just doing random crap in there!
+[name="세사"]완전 엉망이잖아!
 
 [name="慑砂"]别动，听好了，不想被电流贯穿灵魂的话，在我检查完之前就维持这个动作千万别动！
+[name="シェーシャ"]……よし、そこを動くな、そしてよく聞け。いいか、迸る電流に魂を貫かれたくなければ、俺のチェックが終わるまでその体勢を維持するんだ。もう一度言うぜ、絶対に動くなよ！
+[name="Sesa"]Stop, and listen well, if you don't want an electric shock that pierces your soul, stop what you're doing until I can finish the inspection!
+[name="세사"]움직이지 말고 잘 들어. 전류에 영혼까지 털리기 싫으면 내가 검사 끝내기 전까지 가만히 있어, 절대 움직이지 말고!
 
 [name="杜林"]哦......？
+[name="ドゥリン"]おー……？
+[name="Durin"]Eh...?
+[name="두린"]어……?
 
 [name="慑砂"]要是有泄漏就糟了，唔，这部分的损坏都是表层的，应该没问题。
+[name="シェーシャ"]漏電してたら最悪だからな。さて、この辺りは表面の損傷だけか……なら、恐らく問題ないだろう。
+[name="Sesa"]It's gonna be bad if this thing starts leaking. Well, the damage here is superficial, so it shouldn't be a problem.
+[name="세사"]누전된 거면 큰일인데…… 으음, 겉면에만 손상이 있으니 괜찮겠지.
 
 [name="慑砂"]这个痕迹，嗯，是刚才我的攻击造成的，没有影响主板块，风险并不大......
+[name="シェーシャ"]こっちの傷は……うん、さっき俺が攻撃した時についたもんだな。マザーボードへの影響はなし、リスクも高くない……
+[name="Sesa"]This scratch here, yeah, my last attack caused this. It didn't affect the motherboard, so the risk probably isn't too great...
+[name="세사"]이 흔적은…… 으음…… 방금 내 공격으로 생긴 건가? 메인보드에 영향은 주지 않으니 리스크는 크지 않을 거고……
 
 [name="慑砂"]嚯，这里的线路有点意思，还有这个能源装置的内置手法，虽然粗糙，但很有想法。
+[name="シェーシャ"]ほーう……この回路、なかなか面白いじゃねーか。エネルギー装置の組み込み方も荒削りだが……アイデアは悪くねぇ。
+[name="Sesa"]Ohh, the wiring here is certainly quite interesting. The internal design of the energy device here is rough, but well thought-out.
+[name="세사"]호오, 여기 회로는 흥미로운데. 이 에너지 장치의 설치 방법…… 거칠지만 제법 독특해.
 
 [name="慑砂"]嗯......嗯？行动模块有受到干扰的痕迹，是源石技艺造成的影响？还有这部分负责供能的接线也被截断了......
+[name="シェーシャ"]……ん？　この痕跡……アクションモジュールに干渉を受けたらしいな。アーツの影響か？　それに、こっちのエネルギー供給配線……切断されてるじゃねーか。
+[name="Sesa"]Huh... Hmm? The movement module seems to have traces of interference. Is this due to the influence of Originium Arts? Also, the part of the wiring responsible for the power supply has been cut...
+[name="세사"]음……음? 이 흔적…… 액션 모듈이 간섭을 받은 것 같네. 아츠의 영향인가? 이쪽의 에너지 공급 회로는……절단되어 있잖아.
 
 [name="杜林"]好——了没啊。我手都酸了。
+[name="ドゥリン"]ねーー、まーーだーーー？　もう手が疲れたよー。
+[name="Durin"]Are you doooone yet? My hand's getting sore.
+[name="두린"]으으…… 된 거야? 팔 저려 죽겠어.
 
 [name="杜林"]而且好......好困......
+[name="ドゥリン"]それにす……ごく、ねむーい……
+[name="Durin"]And... I'm falling asleep...
+[name="두린"]게다가…… 하암, 엄청 졸리다고.
 
 [name="慑砂"]......
+[name="シェーシャ"]……
+[name="Sesa"]......
+[name="세사"]……
 
 [name="慑砂"]虽然大家伙的行动被一时停止了，但最危险的几个点完全没有损坏......
+[name="シェーシャ"]「鉄の巨人」は一時的な行動停止状態になっちゃいるが、危険度の高い箇所にはまったく損傷がない……
+[name="Sesa"]Though I got the big guy to stop moving for now, the most dangerous parts are still untouched...
+[name="세사"]이 녀석 행동이 일시적으로 중단되긴 했지만 가장 위험한 요소는 전혀 파괴되지 않았어……
 
 [name="慑砂"]......你这家伙，刚刚的那些，难道......
+[name="シェーシャ"]ってことは……あんた、まさか……！
+[name="Sesa"]Darn you... don't tell me, all that stuff you were doing before...
+[name="세사"]……너, 이 녀석…… 방금 그건 설마……
 
 [name="慑砂"]难道这一切都在你的计算之中吗！
+[name="シェーシャ"]これ、全部狙ってやったってのか！？
+[name="Sesa"]It was all a part of your plan!
+[name="세사"]설마 이 모든 걸 계산한 거냐?
 
 [name="杜林"]嗯？什么，是说这个控制线吗？我不是都说了没问题嘛。
+[name="ドゥリン"]ん、なーにー？　この制御線がどうかしたの？　私、これでもう大丈夫って言ったはずだけどー。
+[name="Durin"]Hm? What, you mean this control cable here? Didn't I say everything was fine?
+[name="두린"]응? 뭐야, 이 제어선 말하는 거야? 내가 괜찮다고 했잖아.
 
 [name="杜林"]要多信任特地来帮忙的前辈一点啊，新人小哥。
+[name="ドゥリン"]わざわざ助けに来てあげたんだからー、先輩をもうちょっと信頼してほしいなー、新人さん。
+[name="Durin"]You should give a senior Rhodes Islander a little credit, newbie.
+[name="두린"]도와주려고 일부러 찾아온 선배를 좀 믿어주라고, 신입 씨.
 
 [name="杜林"]（哈欠）
+[name="ドゥリン"]ふわ～ぁ……
+[name="Durin"](Yawn)
+[name="두린"]하암~
 
 [name="杜林"]虽然我是不像很多族人那样那么擅长机械，也拿不动锤子，做不出这种铁皮大个子，但不会造不代表不会对付......这个还算简单啦。
+[name="ドゥリン"]私は他のドゥリン族の人たちほど機械に強くもないし、金槌も打てないし、こんなロボットも作れないけどー。でも別に対応ができないわけじゃないんだよ……これは簡単な方だしねー。
+[name="Durin"]Though I might not be as handy a mechanic as some of my clansmen, can't lift a hammer, and can't make a giant out of sheet metal, not being able to build stuff isn't the same as not being able to deal with 'em... And this thing's real simple.
+[name="두린"]난 다른 일족처럼 기계를 잘 다루지 못하고, 해머를 휘두를 힘도 없어 이렇게 커다란 기계를 만들지 못해…… 하지만 만들지 못한다고 해서 상대하지 못한다는 뜻은 아니잖아…… 이건 그나마 쉬운 편이야.
 
 [name="慑砂"]先不说你的族人是什么情况，这个在你看来......很简单？
+[name="シェーシャ"]そのドゥリン族のことは兎も角として、だ。あんたにはこれが……簡単な構造に見えるのか？
+[name="Sesa"]Leaving the question of your clansmen aside for now, you said this thing is... real simple?
+[name="세사"]네 일족이 어떤지는 모르겠지만 너한테는 이게…… 쉬워?
 
 [name="杜林"]欸——原理很简单啊。
+[name="ドゥリン"]まあ――原理は単純だもん。
+[name="Durin"]Yep. The principles are really simple.
+[name="두린"]에잇…… 원리는 단순하다니까.
 
 [name="杜林"]唔，红毛同学，一脸怀疑的表情。
+[name="ドゥリン"]うーん……赤毛くん、疑ってる顔だねー。
+[name="Durin"]Oi, my red-haired friend, why the skeptical look?
+[name="두린"]흐음, 빨강 머리 친구…… 얼굴에 의심이 가득하네.
 
 [name="慑砂"]是慑砂！不是红毛！至少记住别人的代号吧！
+[name="シェーシャ"]「赤毛くん」じゃねぇ、シェーシャだ！　人のコードネームぐらい覚えておけよ！
+[name="Sesa"]Enough with the red-haired thing! My name's Sesa! At least remember your fellow operators' codenames!
+[name="세사"]세사, 빨강 머리가 아니라 세사라고 불러! 적어도 다른 사람 코드네임 정도는 기억해 두라고!
 
 [name="杜林"]差不多啦——
+[name="ドゥリン"]どっちでもいいでしょー。
+[name="Durin"]Close enough—
+[name="두린"]그게 그거지……
 
 [name="杜林"]我想想啊，那......慑砂你有看过小桃的苹果吗？
+[name="ドゥリン"]そうだなー、じゃあ……シェーシャは、テンちゃんのリンゴを見たことある？
+[name="Durin"]Lemme think, well... Sesa, have you ever seen Myrtle's apple?
+[name="두린"]그러니까, 으음…… 세사? 머틀의 사과 본 적 있어?
 
 [name="慑砂"]你说的是工程部之前借来研究的那个魔导器？那可不是普通苹果......
+[name="シェーシャ"]前にエンジニア部が借りて研究してた魔導器のことか？　あれは単なる「リンゴ」なんかじゃねぇだろ……
+[name="Sesa"]Are you talking about the Arts device that the Engineering Department borrowed to study? That's no ordinary apple...
+[name="세사"]예전에 엔지니어링부에서 연구한다고 빌려온 마법 도구 말이야? 그건 평범한 사과가 아니라……
 
 [name="杜林"]嗯，在我们那里就很普通啊。店里就有卖。
+[name="ドゥリン"]でも、私たちにとっては一般的なものなんだよね。お店で売ってるやつなの、あれ。
+[name="Durin"]Yeah, stuff like that's perfectly ordinary to us. You could buy one off the shelf in a corner store.
+[name="두린"]응, 우리 고향에서는 평범해. 가게에서도 팔거든.
 
 [name="慑砂"]你老家到底是什么样的地方啊！？
+[name="シェーシャ"]なっ……一体どんなとこなんだよ、あんたの故郷は！？
+[name="Sesa"]What kind of place do you come from?!
+[name="세사"]거긴 대체 뭐하는 동네야?!
 
 [name="杜林"]哎——只是很普通的地下城啦——
+[name="ドゥリン"]ん～……ごく普通の地下都市だよー。
+[name="Durin"]Hey, it's a perfectly ordinary place—
+[name="두린"]으음…… 그냥 평범한 지하도시랄까?
 
 [name="慑砂"]地下的杜林一族......嘶，我似乎在哪里听人提起过......
+[name="シェーシャ"]地下に棲まうドゥリン族、か……けどそれ、どっかで聞いたことあるような……
+[name="Sesa"]The underground tribe of Durin... I'm sure I've heard someone mention them before...
+[name="세사"]지하에 사는 두린 일족…… 흐음…… 어디서 들어본 것 같은데……
 
 [name="杜林"]也不奇怪，来地上玩的族人好像还挺多的。
+[name="ドゥリン"]あってもおかしくないと思うよー。地上に遊びに来る同郷の人とか結構多いみたいだしー。
+[name="Durin"]That's not too surprising, plenty of us come up to the surface to have some fun.
+[name="두린"]들어봤어도 이상할 건 없지. 지상에 놀러 온 일족들도 많거든.
 
 [name="杜林"]要我说啊——地上虽然也很好，又亮堂又宽敞，不少东西都很有意思，但大部分机械都还是太粗糙了。
+[name="ドゥリン"]私からすると――地上もいいところだよー。広々してて明るいし、面白い物もたくさんあるしね。だけど機械に関しては、どれも作りが粗すぎると思うなー。
+[name="Durin"]If you ask me though—the surface is nice, bright and spacious enough, with lots of interesting things, but the machinery up here's way too primitive.
+[name="두린"]내가 보기엔 지상은 번쩍거리고 널찍하고, 재밌는 것도 많아서 정말 좋지만, 대부분의 기계는 여전히 수준 미달이야.
 
 [name="慑砂"]......不管怎么说，原来罗德岛竟有你这样明明掌握着力量，却甘于隐于人群之中的人物......哼，是我小看你了！
+[name="シェーシャ"]……何にせよ、だ。ロドスには、「能力」がありながら群衆に紛れることを良しとする、あんたみたいな奴もいるってことを「理解」した……ふっ、あんたを見くびってたぜ！
+[name="Sesa"]In any case... I never knew that Rhodes Island had someone like you around, formidable but willing to hide in the crowd... Hmph, I underestimated you!
+[name="세사"]……어쨌든 로도스 아일랜드에 너 같은 실력자가 사람들 사이에서 조용히 숨어 살다니…… 흥, 내가 널 얕봤군!
 
 [name="慑砂"]哈，不必多说，不必解释，我都懂。关于你的事情，我不会多追究。
+[name="シェーシャ"]あー皆まで言うな。俺は分かってるぜ……あんたの事情について、多くは追求しねーよ。
+[name="Sesa"]Hah, say no more. You don't need to explain a thing, I already understand. I won't press you for more details about yourself.
+[name="세사"]더 말할 것도, 해명할 것도 없어. 다 이해했으니까. 너에 관해선 더는 묻지 않을게.
 
 [name="慑砂"]像我们这样的人，终究要背负这种宿命......是这么说的来着吗？
+[name="シェーシャ"]「それが俺たちのような人間の――運命（さだめ）だからな」……みたいな感じでいいよな、多分？
+[name="Sesa"]For people like us, this is a fate we must bear... Is that how the saying goes?
+[name="세사"]우리 같은 사람들은 결국 이런 숙명을 짊어진…… 그걸 뭐라 하더라?
 
 [name="杜林"]？
+[name="ドゥリン"]？
+[name="Durin"]Huh?
+[name="두린"]?
 
 [name="杜林"]（这个红毛大个子，看起来不大聪明。）
+[name="ドゥリン"]（この赤毛の巨人くん、ちょっとばかなのかな。）
+[name="Durin"](This red-haired tall one isn't very bright.)
+[name="두린"](이 녀석, 좀 멍청해 보이는데……)
 
 [name="杜林"]（也无所谓啦......呼哈......好困......）
+[name="ドゥリン"]（まあ、どうでもいいや……ふあ……眠い……）
+[name="Durin"](Not that it matters though... *Yawn*... So sleepy...)
+[name="두린"](뭐, 상관없어…… 흐아암…… 졸려……)
 
 [name="杜林"]（差不多快要不行了，运动了一下，再不睡的话......明天可能会爬不起来......）
+[name="ドゥリン"]（眠すぎて、死にそう……運動したから……睡眠……取らないと……明日は、もう、起きられない……かも……）
+[name="Durin"](I'm about running on empty here too. After all that exercise, if I don't get some sleep... I might not be able to wake up tomorrow...)
+[name="두린"](더는 안 되겠어. 힘을 많이 써서 얼른 쉬지 않으면…… 내일 절대 못 일어날 거야.)
 
 [name="杜林"]我要是像你说的这么了不起，也不至于......呼啊......成天被我家人念叨了。
+[name="ドゥリン"]もし私がすごい人だったらー……ふわぁ……家族に一日中、くどくど言われることもなかったと思うけどねー。
+[name="Durin"]If I was really as amazing as you make me sound... *yawn*... My folks wouldn't have spent all that time nagging me.
+[name="두린"]네 말처럼 내가 그렇게 대단하다면…… 흐아암…… 온종일 가족들한테 잔소리 같은 걸 들을 리 없잖아.
 
 [name="杜林"]身体不好，总是在睡......哎呀，也不是我想这样的......
+[name="ドゥリン"]お前は身体が弱いし、いつも寝てばっかりだ、ってさ……もーう、私だって、好きでこうなったわけじゃないのに……
+[name="Durin"]But I'm frail, always sleepy... Sigh, it's not like I wanted to be like this...
+[name="두린"]몸도 허약하고, 잠만 잔다고 말이야…… 하아, 나도 이러고 싶어서 이러는 게 아닌데……
 
 [name="慑砂"]......看来你也有不为人知的过去。
+[name="シェーシャ"]……どうやら、あんたにも知られざる「過去」があるらしいな。
+[name="Sesa"]It seems that your past is also shrouded in mystery.
+[name="세사"]……너에게도 남모르는 과거가 있나 보군.
 
 [name="慑砂"]好吧，看在我们刚刚并肩激战的情分上，要让我听你倾诉也不是不可以......
+[name="シェーシャ"]いいだろう、肩を並べて戦ったよしみだ。あんたの「思い」に耳を傾けてやらなくもねぇ……
+[name="Sesa"]Tell you what, based on the fact that we just fought a heart-pounding battle together, I'm willing to listen to your troubles...
+[name="세사"]좋아, 함께 싸운 정도 있으니 네 하소연 정도는 들어줄 수 있……
 
 [name="慑砂"]喂，你别闭着眼睛走路，会摔倒的！
+[name="シェーシャ"]っておい、目を瞑ったまま歩くんじゃねぇ！　転んじまうぞ！
+[name="Sesa"]Hey, open your eyes when you walk, you'll trip!
+[name="세사"]이봐, 눈 감고 걷지 마. 넘어진다구!
 
 [name="杜林"]才不会摔倒，好困......哈啊......
+[name="ドゥリン"]だいじょーぶ……転ばないってー。……ふぁあ……ねむ……
+[name="Durin"]No way I will. So sleepy... *Yawn*...
+[name="두린"]안 넘어져, 졸려…… 흐암……
 
 [name="杜林"]没什么......好说的，就是在家里被念得太多，还是溜出来清净......
+[name="ドゥリン"]それとー、話すことなんて……大して、ないよー。家で、ぐちぐち言われ続けてさ、うんざりしたから逃げ出そうと思った、だけでー……
+[name="Durin"]This... is nothing... back home folks nagged so much that I slipped out and came here...
+[name="두린"]하소연…… 같은 건 없어. 집에 있으면 잔소리만 들으니까 지겨워서 나온 거야……
 
 [name="杜林"]可这是......呼啊......天生的，治不好我也没办法啦......
+[name="ドゥリン"]でもさ……ふあ……生まれつきだもん。治らないんだから、どうしようもない、わけ……
+[name="Durin"]But... *yawn*... I was born this way. Can't cure it even if you tried...
+[name="두린"]하지만 이건…… 흐아암…… 타고난 거라 나도 고칠 수 없……
 
 [name="杜林"]ZZZzzzzz
+[name="ドゥリン"]……すぅ……
+[name="Durin"]ZZZzzzzz
+[name="두린"]쿠울… 쿨…
 
 [name="慑砂"]喂，话说到一半别站着就睡着啊！！
+[name="シェーシャ"]ちょっ、まだ話は終わってねぇぞ！　立ったまま寝るなって！！
+[name="Sesa"]Hey, you're in the middle of a sentence, don't just fall asleep on your feet!
+[name="세사"]이봐, 말하다 말고 서서 자면 어떡해!!
 
 [name="杜林"]唔......嗯？
+[name="ドゥリン"]ん……あれ？
+[name="Durin"]Uhh.... Huh?
+[name="두린"]으음…… 으응?
 
 [name="杜林"]（伸懒腰）
+[name="ドゥリン"]うーー……ん。
+[name="Durin"](*Stretches*)
+[name="두린"]으차차차… (기지개를 켠다)
 
 [name="杜林"]（呼啊......我又睡着了？唔，哪来的毛毯，好暖和。）
+[name="ドゥリン"]（また……寝ちゃってた？　それにこの毛布……誰のだろ？　あったかい……）
+[name="Durin"](*Yawn*... Did I fall asleep again? Huh, where'd this blanket come from? It's real comfy.)
+[name="두린"](흐아암…… 또 잠든 거야? 어, 이 담요는 뭐지…… 따뜻해.)
 
 [name="杜林"]（那个红毛大个子......是叫什么砂来着......已经走了啊。）
+[name="ドゥリン"]（あの赤毛の巨人くん、いないなー……もう行っちゃったんだ。）
+[name="Durin"](That red-haired tall one... Sesa, I think is his name... He's already gone, huh.)
+[name="두린"](꺽다리 빨강 머리…… 이름이 무슨 사라고 했는데…… 가버렸네.)
 
 [name="杜林"]头有点痛，现在什么时候了......
+[name="ドゥリン"]うぅ……頭いたーい……今、何時なんだろー……
+[name="Durin"]My head hurts a little, what time is it...?
+[name="두린"]으윽, 머리야. 지금 몇 시지……
 
 [name="？？？"]时候可不早了，杜林啊，这次睡得有点久哦。
+[name="？？？"]もう随分遅い時間じゃぞ、ドゥリンよ。えらく寝ておったのう。
+[name="???"]It's getting late, Durin. You slept longer than usual this time.
+[name="???"]시간이 꽤 늦었네, 두린. 평소보다 더 오래 잔 것 같구먼.
 
 [name="杜林"]啊......巡林者老爷子，是你啊。
+[name="ドゥリン"]あ……レンジャー爺、いたんだ。
+[name="Durin"]Oh... Rangers, huh.
+[name="두린"]아…… 레인저 영감.
 
 [name="杜林"]花了点力气，忍不住就睡着了，我也没有办法。
+[name="ドゥリン"]今日はちょっと頑張ったから、すごーく眠くて、そのまま寝ちゃったんだ。他にどうしようもなくてさー。
+[name="Durin"]I exerted myself a little, so I ended up falling asleep. Couldn't help it.
+[name="두린"]힘을 썼더니 너무 졸려서 어쩔 수 없었어.
 
 [name="杜林"]老爷子，我身上的毯子是你给我披的吗？多谢——
+[name="ドゥリン"]そういえば、この毛布、爺が掛けてくれたの？　ありがとー。
+[name="Durin"]Pops, were you the one who put the blanket over me? Thanks—
+[name="두린"]이 담요, 영감이 덮어준 거야? 고마……
 
 [name="巡林者"]哦，这可不是老夫的功劳。
+[name="レンジャー"]いや、儂ではないぞ。
+[name="Rangers"]Oh, I can't take credit for that.
+[name="레인저"]아, 내가 아니라네.
 
 [name="巡林者"]老夫来找你的时候，你就已经在这里这么睡着了，啊呀，睡得可真香，让人看着都要一起犯困了。
+[name="レンジャー"]儂がおぬしを見つけた時には、既に掛けられておったわ。しかし、おぬし……それはもうぐっすりと寝ておったぞ。見ているこちらまで眠くなるほどにのう。
+[name="Rangers"]When this old man came to see you, you were already sound asleep. Aw, you looked so peaceful, I wanted to curl right up there with you.
+[name="레인저"]자네를 찾아왔을 땐 이미 여기서 자고 있더군. 어찌나 잘 자던지 보는 사람이 졸릴 지경이었어.
 
 [name="杜林"]呼——啊。我的睡眠质量老爷子羡慕不来的。
+[name="ドゥリン"]ふぁ～あ……私の睡眠の質は、羨ましがったところで手に入るようなものじゃないよー。
+[name="Durin"]*Yaaawn*. The quality of my sleep is nothing to envy, Pops.
+[name="두린"]후아암…… 내 수면의 질은 영감도 따라올 수 없다고.
 
 [name="巡林者"]哈哈，确实如此。
+[name="レンジャー"]はは、確かにのう。
+[name="Rangers"]Haha, that's true.
+[name="레인저"]하하, 확실히 그런 것 같군.
 
 [name="巡林者"]那个叫慑砂的小伙子一直就坐在这边上守着，说是欠你一个人情，嚯嚯，真是不错的年轻人。
+[name="レンジャー"]ところで、あのシェーシャという若人。ずっとここに座って、おぬしを見守っておったぞ。おぬしに借りがある、と言うてのう。ほっほ……誠に良い若者じゃな。
+[name="Rangers"]The young'un named Sesa had been sitting here looking after you, talking about how he owes you a favor. Ho ho, what a good kid.
+[name="레인저"]세사라는 청년이 옆을 계속 지키고 있었다네. 자네에게 신세를 졌다고 하더군. 허허허, 꽤 건실해 보이는 청년이었어.
 
 [name="杜林"]哇哦......他居然没直接走掉啊？舰船内部倒也不至于要这么紧张啦。
+[name="ドゥリン"]わーお……さっさと帰ったわけじゃなかったんだ？　艦内なら、そこまで警戒しなくてもいいのにー。
+[name="Durin"]Woah... He didn't just leave? I'm safe enough here on the ship.
+[name="두린"]와아…… 그냥 가 버린 게 아니라고? 함 내에선 그렇게 긴장하지 않아도 될 텐데.
 
 [name="杜林"]不过，嗯，罗德岛还是好心人多啊。
+[name="ドゥリン"]でも……うん。やっぱりロドスには、優しい人が多いねー。
+[name="Durin"]But, hmm. Rhodes Island sure has a lot of nice people.
+[name="두린"]하지만…… 으응, 역시나 로도스 아일랜드에는 좋은 사람이 많아.
 
 [name="巡林者"]哈哈，不错，不错。
+[name="レンジャー"]はは、そうじゃのう。よきかな、よきかな。
+[name="Rangers"]Haha, we sure do.
+[name="레인저"]허허. 그러게 말일세.
 
 [name="巡林者"]不过杜林，听到那个小伙子说你帮了他的忙，老夫还是挺吃惊的，怎么不喊其他人来处理？
+[name="レンジャー"]しかしドゥリンよ、おぬしがあの若人を助けたと聞いて、儂は驚いたぞ。他の人間に頼まず自ら手伝うとは……何か理由でもあったのか？
+[name="Rangers"]But, Durin, color this old man surprised to hear you went to help him. Why didn't you ask us to deal with it?
+[name="레인저"]그런데 두린, 자네가 세사라는 청년을 도와줬다고 해서 꽤 놀랐다네. 어째서 다른 사람에게 맡기지 않은 거지?
 
 [name="杜林"]小事情啦。顺手帮帮新人而已......
+[name="ドゥリン"]ううん、大した理由はないよー。成り行きで助けただけ。
+[name="Durin"]It was easy enough. Just felt like helping a newbie and all...
+[name="두린"]별거 아니잖아. 겸사겸사 신입을 도와준 것뿐이야……
 
 [name="巡林者"]老夫可不记得你有这么热心。
+[name="レンジャー"]ほう……そうも熱心なおぬしを、儂は見たことがないぞい。
+[name="Rangers"]I've never seen you so enthusiastic about helping.
+[name="레인저"]자네가 그렇게 마음 따뜻한 사람인 줄 몰랐군.
 
 [name="杜林"]那种机械我比较熟嘛。难得在地上看到这种大家伙......稍微有点怀念。
+[name="ドゥリン"]ああいう機械ならよく知ってるしねー。でも、地上であんな大型装甲を見るのは珍しいし……だから、ちょっとだけ懐かしくなったんだ。
+[name="Durin"]I'm familiar with that kind of machinery. You usually don't see stuff like it on the surface... Guess you could call it nostalgia.
+[name="두린"]그런 기계라면 익숙하니까, 지상에서 좀처럼 보기 어려운 건데 막상 보게 되니…… 조금 그립기도 하고.
 
 [name="巡林者"]那倒是，在这方面我们都比不过你。
+[name="レンジャー"]なるほど。機械に関しては、儂らではおぬしに敵わぬからのう。
+[name="Rangers"]Fair enough. You're better than us at that sort of thing anyway.
+[name="레인저"]그렇군, 그쪽 분야라면 우리보다 자네가 훨씬 잘 알고 있으니.
 
 [name="杜林"]不说这个了！唔，这条毯子......下次遇到那个红毛大个子，再还给他好了。
+[name="ドゥリン"]はい、この話はおしまーい。んー、この毛布は……今度赤毛の巨人くんに会った時にでも返せばいーよね。
+[name="Durin"]But enough about that! Um, this blanket here... The next time I see that red-haired tall one, I'll give this back to him.
+[name="두린"]그만, 그만! 앗, 이 담요…… 다음에 빨강 머리 만나면 돌려줘야겠다.
 
 [name="杜林"]啊，对了......老爷子，烤肉呢？你们该不会不等我就吃完了吧？
+[name="ドゥリン"]あ、そうだ……爺、焼肉は？　まさか私抜きで食べ終わっちゃったりしてないよねー？
+[name="Durin"]Oh, and... Pops, what about the barbecue? Don't tell me you guys went and finished everything without me.
+[name="두린"]참…… 영감, 고기는? 나만 빼고 다 먹은 거 아니지?
 
 [name="巡林者"]老夫可不会做这种招人嫌的事。
+[name="レンジャー"]ははっ、そのような意地の悪いことなどせんよ。
+[name="Rangers"]I'd never do something like that, and get on your bad side.
+[name="레인저"]내가 그런 치졸한 짓을 할 사람으로 보이나?
 
 [name="巡林者"]黑角正烤着呢，给你留了不少，你醒的正是时候。
+[name="レンジャー"]それにしてもおぬし、ちょうどいい時に目覚めたのう。今、ノイルが肉を焼いておるところじゃ。無論、おぬしの分もたっぷりとってあるぞ。
+[name="Rangers"]Noir Corne is still grilling and left plenty just for you. We were waiting for you to wake up.
+[name="레인저"]느와르 코르네가 고기를 굽고 있지. 자네 몫을 많이 남겨뒀다네. 자네가 시간 맞춰 일어났어.
 
 [name="杜林"]好——耶——！
+[name="ドゥリン"]いえーーい！
+[name="Durin"]Sounds— good—!
+[name="두린"]앗싸!!
 
 [name="巡林者"]哎，慢着点，小心摔了，难得看到杜林你跑这么快。
+[name="レンジャー"]これこれ、あまり急ぐでない。転ばぬようにな……それにしても、まさかこんなにも速く走るドゥリンが見られるとはのう。
+[name="Rangers"]Hey, slow down, be careful not to trip. I've never seen you run that fast.
+[name="레인저"]넘어지지 않게 조심하게. 자네가 그렇게 빨리 뛰는 걸 무척 오랜만에 보는 것 같군.
 
 [name="杜林"]因为睡得很暖和，我现在精神超级好的。
+[name="ドゥリン"]ポカポカな毛布で眠れたからねー。おかげで、すっごく元気になったよー。
+[name="Durin"]I slept so well, I'm full of energy.
+[name="두린"]따뜻하게 푹 자서 컨디션이 최고거든.
 
 [name="巡林者"]......
+[name="レンジャー"]……
+[name="Rangers"]......
+[name="레인저"]……
 
 [name="巡林者"]杜林啊。
+[name="レンジャー"]のう、ドゥリンよ。
+[name="Rangers"]Durin.
+[name="레인저"]두린.
 
 [name="巡林者"]老夫有的时候看你这么睡着，多少还是有点担心，老夫相信，其他人应该也一样。
+[name="レンジャー"]時折、眠るおぬしを見ているとな。少なからず心配になるんじゃ……きっと他の者らも同じ気持ちじゃろう。
+[name="Rangers"]When I watch you sleep, I can't help but get a bit worried. And I think... the others probably feel the same way.
+[name="레인저"]그렇게 자는 자네를 볼 때면 걱정스러운 기분이 들어. 아마 다른 사람도 같은 기분일 거라 생각하네만.
 
 [name="杜林"]嗯？
+[name="ドゥリン"]んー？
+[name="Durin"]Hmm?
+[name="두린"]으응?
 
 [name="巡林者"]你的身体......
+[name="レンジャー"]その……おぬしの身体は……
+[name="Rangers"]Your health...
+[name="레인저"]그러니까 몸 상태가……
 
 [name="杜林"]老——爷——子——
+[name="ドゥリン"]レーンージャーーじい～。
+[name="Durin"]Old— Man—
+[name="두린"]영.감.
 
 [name="杜林"]嘘。嘘。
+[name="ドゥリン"]しーっ。しー、だよ。
+[name="Durin"]*Breathes deeply*
+[name="두린"]쉿~
 
 [name="杜林"]我好着呢，只是睡得多了点......这有什么关系嘛。
+[name="ドゥリン"]私は大丈夫だよー。ただ、人より睡眠時間が多いだけだしー……
+[name="Durin"]I'm perfectly fine. Just happened to oversleep a little... What's wrong with that?
+[name="두린"]난 괜찮아, 그냥 잠이 많은 것뿐이야……
 
 [name="巡林者"]但......
+[name="レンジャー"]しかしのう……
+[name="Rangers"]But...
+[name="레인저"]하지만……
 
 [name="杜林"]放心——
+[name="ドゥリン"]安心してよー。
+[name="Durin"]Don't worry!
+[name="두린"]걱정하지 마~
 
 [name="杜林"]医疗部的检查我也定期会去，平时的任务我不也完全没问题嘛，我们杜林族人可没有那么脆弱哟——
+[name="ドゥリン"]医療部の検査には定期的に通ってるし、普段の任務でも全然問題ないでしょー？　私たちドゥリン族は、そんなに貧弱じゃないよー。
+[name="Durin"]I go to Medical for regular check-ups, and I have no trouble with my normal work. Us Durins are tough—
+[name="두린"]의료부에서 정기적으로 검사도 받고 있고, 평소 임무도 완전 문제없이 해내고 있잖아. 우리 두린 일족은 그렇게 약하지 않다고……
 
 [name="杜林"]而且啊，只要说是因为身体原因，就完全没人会怪我工作时间偷懒了，怎么想都是赚了耶。
+[name="ドゥリン"]それにさ、体質のせいでって言えばー、勤務中にだらけても誰も私を責めないし……どう考えてもお得でしょー？
+[name="Durin"]Besides, I can always just blame my condition, and nobody can get mad at me for slacking off during work hours. Isn't that great?
+[name="두린"]그리고 몸 상태 때문에 땡땡이친다고 혼내는 사람도 없고…… 아무리 생각해도 이득이지?
 
 [name="杜林"]唔，搞不好多吃点肉，我还能变得比现在更有力气呢。
+[name="ドゥリン"]うーん。けど、どうしても気になるって言うなら、お肉をたくさん食べさせてくれたら、もっと元気になれるかもねー。
+[name="Durin"]And now, if I can just eat a bunch of meat, maybe I'll grow even stronger.
+[name="두린"]으음, 고기를 많이 먹으면 지금보다 더 힘이 날 것 같아.
 
 [name="巡林者"]哈哈，这样啊......
+[name="レンジャー"]ははっ、そうか、そうか……
+[name="Rangers"]Haha, I suppose...
+[name="레인저"]하하, 그렇군……
 
 [name="巡林者"]那你今天可得多吃点，多养点力气。走吧，黑角他们还等着呢。
+[name="レンジャー"]ならば、今日はよく食べて、栄養をつけるんじゃぞ。さぁ行こう、ノイルと皆が待っておるでのう。
+[name="Rangers"]...that you'll have to eat plenty today. Let's go. Noir Corne and the others are waiting.
+[name="레인저"]오늘 많이 먹고 힘내게. 가지, 느와르 코르네랑 다른 사람들이 기다리고 있을 테니.
 
 [name="杜林"]哦——
+[name="ドゥリン"]おおー。
+[name="Durin"]Woohoo—
+[name="두린"]헤에……
 
 [name="杜林"]好耶，烤肉——我来了！
+[name="ドゥリン"]よぉ～し。焼肉ーー、待ってろよー！
+[name="Durin"]Hooray! Barbecue, here I come!
+[name="두린"]좋아. 고기야 내가 간다!
 
 缺乏精神，虚弱无力，容易生病，稍有消耗就必须通过睡眠补足——这样脆弱的身体，杜林早已习惯。
+集中力に欠け、非力で病弱。少しでも疲れてしまうと、眠って回復しなければならない――このひ弱な身体に、ドゥリンはとっくに慣れている。
+Lack of energy, fatigue and listlessness, illness-prone, and a need for sleep to recover from any amount of exertion — Durin has long gotten used to having such a delicate body.
+집중력 부족, 약한 체력, 병약한 체질, 조금만 피곤해져도 수면으로 회복해야 한다. 두린은 벌써 이 연약한 몸에 익숙해져 있다.
 
 天生的欠缺与疾病不同，无法使用药物简单地治愈。
+生まれつきの欠点というものは、病気と違って薬で簡単に治すことなどできない。
+Congenital deficiency is different from disease and cannot be cured with medicine.
+선천적으로 허약한 신체는 질병과는 달리, 약물로 간단히 치료할 수 없다.
 
 曾经也对此有所不满甚至愤懑，但来到地上，见了许多大地上的故事的杜林，已选择与自己体质上的虚弱和解。
+かつてはそれを不満に思い、怒りがこみ上げることすらあったが……地上に来て、この大地の上で起こる数多くの出来事を知ったドゥリンは、自身の虚弱体質と和解したのだ。
+She used to be disgruntled and even angry about it, but when she came to the surface and saw its many stories, Durin came to terms with her physical weakness.
+한때 원망하기도 하고, 화도 내보았지만 지상에 올라와, 이 대지 위에서 일어나는 수많은 이야기를 알게 된 뒤로, 두린은 자신의 허약한 체질을 받아들이는 쪽을 선택했다.
 
 哎呀。
+もうー。
+Like...
+뭐……
 
 身体虚弱一点，又有什么关系呢？
+ちょっと身体が弱いからって、それが何だっていうのー？
+What does it matter if my body's a bit weaker?
+몸이 좀 약한 게 어때서?
 
 能在不那么紧急的工作时间，不被打扰地在阳光下安静地睡一会，这可真是太舒服啦。
+勤務時間でも、急ぎの仕事さえなければ、誰にも邪魔されずに太陽の下で眠れる。それが本当に気持ちいいんだよねー。
+Nothing beats getting sleep free and quiet under the sun during those easy hours of the workday.
+적당히 긴장감이 도는 임무, 누구의 방해도 없이 햇살 아래 즐기는 낮잠…… 그거면 충분하지 않을까?
 

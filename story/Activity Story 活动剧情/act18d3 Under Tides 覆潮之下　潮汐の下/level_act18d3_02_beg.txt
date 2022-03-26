@@ -1,0 +1,455 @@
+3:23 P.M. 天气/阴
+p.m. 3:23 天気/曇天
+3:23 P.M. \ Overcast
+3:23 P.M. 날씨/흐림
+
+伊比利亚，盐风城
+イベリア サルヴィエント
+Iberia, Sal Viento
+이베리아, 살비엔토
+
+[Subtitle(text="一座早已失去生机的城市，半埋在海风味的尘土之下。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="とうの昔に息絶えた都市が、潮風香る塵の中埋もれている。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A city, life long lost, lies half-buried under dust and whiff of sea breeze.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="오래전에 생기를 잃은 도시가 바다 냄새가 나는 흙먼지 아래에 반쯤 묻혀 있다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="斯卡蒂"]地图上的地方，就是这里。
+[name="スカジ"]地図にある場所は……ここね。
+[name="Skadi"]This is the place on the map.
+[name="스카디"]지도상의 장소는, 여기가 맞는데.
+
+[name="斯卡蒂"]......空气中的味道，算不上好。
+[name="スカジ"]……嫌な臭い。それに、気持ちいいとは言えない空気だわ。
+[name="Skadi"]I can't say it smells any good.
+[name="스카디"]……공기의 냄새는, 좋은 편은 아니네.
+
+[name="斯卡蒂"]你好。
+[name="スカジ"]こんにちは。
+[name="Skadi"]Hello.
+[name="스카디"]안녕하세요.
+
+[name="男性居民"]......
+[name="男性住民"]……
+[name="Male Inhabitant"]......
+[name="남자 주민"]……
+
+[name="斯卡蒂"]请问——
+[name="スカジ"]すみません――
+[name="Skadi"]May I ask—
+[name="스카디"]저기……
+
+[name="另一个男性居民"]（垂头不语）
+[name="別の男性住民"]…………
+[name="Another Male Inhabitant"](He hangs his head low, and does not speak.)
+[name="또 다른 남자 주민"](고개 숙인 채 말이 없다)
+
+[Subtitle(text="没有人回应。甚至没有人转过头。他们睁着眼，可是他们一动不动。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="声に答える者はなく、振り返る者すらない。彼らは項垂れて、ひたすら黙りこくっている。そうして一様に目を開いたまま、微動だにしなかった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Nobody responds. Nobody so much as turns a head. Their eyes are open, yet all of them are motionless.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="대답하는 사람이 없었다. 심지어 뒤돌아보는 사람조차 없었다. 그들은 눈을 뜬 채로 꼼짝하지 않았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="与雕塑的唯一区别是，他们呼吸，缓慢地呼吸。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彫刻と見紛うばかりの光景だ。けれど、彼らは間違いなく息をしていた。ゆっくりと。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Their only trait unlike a statue is that they breathe. Long and slow, they breathe.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="조각상과의 유일한 차이점이라면, 그들은 숨을 쉬고 있다는 정도였다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[name="斯卡蒂"]......怪物？
+[name="スカジ"]……ここには怪物がいる、ですって？
+[name="Skadi"]Monsters?
+[name="스카디"]……괴물인가?
+
+[Subtitle(text="他们都有着人的形貌，除了过于瘦削，衣衫破旧，和这一路上遇见的伊比利亚人并无差别，与老何塞描述中的怪物相去甚远。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼らは皆、人にしか見えない姿をしていた。ひどく痩せこけ、ぼろを身に纏っていることを除けば、道中で出会ったイベリア人と何ら違いはない。彼らがホセの言う「怪物」だとは到底思えなかった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="They are all human in appearance. Aside from being far too slender, and clothed in near-rags, they are indistinguishable from the Iberians met along the way, a far cry from the monsters Old José described.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그들은 모두 사람의 모양을 하고 있었다. 지나치게 야위고 옷차림이 남루한 것을 빼면 오는 길에 만났던 이베리아인들과 다를 바 없었다. 호세가 말한 괴물과는 거리가 멀었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+[name="斯卡蒂"]都是人类。
+[name="スカジ"]人しかいないみたいだけど。
+[name="Skadi"]They're all humans.
+[name="스카디"]모두 인간이야.
+
+[name="斯卡蒂"]（伊比利亚语）
+[name="スカジ"]（イベリア語）
+[name="Skadi"](She utters Iberian.)
+[name="스카디"](이베리아어)
+
+[name="斯卡蒂"]现在不这么说了么？
+[name="スカジ"]今はこんな言い方しないのかしら？
+[name="Skadi"]Is this not how they speak anymore?
+[name="스카디"]이젠 이렇게 말하지 않나?
+
+[name="斯卡蒂"]（口音稍变的伊比利亚语）
+[name="スカジ"]（発音を少し変えたイベリア語）
+[name="Skadi"](Iberian again, the accent somewhat changed.)
+[name="스카디"](발음이 약간 변한 이베리아어)
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[Subtitle(text="依旧无人应答。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="答える者はいない。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Still no one replies.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="여전히 대답하는 사람이 없었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="斯卡蒂下意识握紧了箱子的把手。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="スカジは思わず、ケースの紐を強く握った。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Skadi subconsciously grips her case's handle.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="스카디는 엉겁결에 가방의 손잡이를 꽉 쥐었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="在外面，她有的是让不愿意开口的人开口的办法。可这样做的前提是，对面的人听懂她说的话。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="寡黙な人間をお喋りにさせる方法くらい、彼女はいくらでも持っている。しかし何をするにも、そもそも相手が彼女の言葉を理解していなければ意味がなかった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Outside, she has her ways of making those who will not talk, talk. But it requires that the target comprehend her speech.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="밖에서 스카디는 입을 열기 싫어하는 사람의 입을 얼마든지 열게 할 수 있다. 하지만 그러기 위해서는 우선 상대가 그녀의 말을 알아들을 수 있어야 한다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+[name="斯卡蒂"]......况且，我现在是歌手。
+[name="スカジ"]……それに、今の私は歌い手だもの。
+[name="Skadi"]Moreover, I'm a singer right now.
+[name="스카디"]……게다가, 난 지금 가수잖아.
+
+[name="斯卡蒂"]歌手不这样做事。何塞先生说的。
+[name="スカジ"]ホセさんが言ってたわ。歌い手はそんなことしないって。
+[name="Skadi"]A singer doesn't do that. Mister José said so.
+[name="스카디"]가수는 일 처리를 이렇게 하지 않아. 호세 씨가 말했어.
+
+[name="？？？"]九十九......
+[name="？？？"]九十九……
+[name="???"]Ninety-nine...
+[name="???"]구십구……
+
+[Subtitle(text="一个小小的影子跑过街道。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="小さな影が一つ、通りを走り抜けていった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A small shadow flits across the street.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="작은 그림자 하나가 거리를 가로질러 뛰어갔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="斯卡蒂"]有人在说话。
+[name="スカジ"]今、何か言ってたわね。
+[name="Skadi"]Someone's talking.
+[name="스카디"]누군가가 말하고 있어.
+
+[Subtitle(text="她快步追上去。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女は足を速め、人影を追う。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="With a fast step, she chases after.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그녀는 빠른 걸음으로 쫓아갔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="？？？"]九十九。
+[name="？？？"]九十九。
+[name="???"]Ninety-nine.
+[name="???"]구십구.
+
+[name="斯卡蒂"]一个......孩子？他在念一个数字。
+[name="スカジ"]子供……？
+[name="Skadi"]A... child? He's mumbling a number.
+[name="스카디"]어린…… 아이? 아이가 수를 세고 있어.
+
+[name="斯卡蒂"]我不会听错。
+[name="スカジ"]間違いない……数字を数えてるみたいね。
+[name="Skadi"]I can't have misheard.
+[name="스카디"]내가 잘못 들은 게 아니야.
+
+[name="斯卡蒂"]你——
+[name="スカジ"]あっ――
+[name="Skadi"]You—
+[name="스카디"]넌……
+
+[name="斯卡蒂"]我的项链被......
+[name="スカジ"]私からネックレスを盗っていくなんて……
+[name="Skadi"]My necklace just...
+[name="스카디"]내 목걸이가……
+
+[name="斯卡蒂"]你不能走！
+[name="スカジ"]待ちなさい！
+[name="Skadi"]You will not escape!
+[name="스카디"]거기 서!
+
+[Subtitle(text="孩子从她手里滑开了。他一扭头，往更深的巷子里跑去。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="子供は彼女の手をすり抜けると、くるりと向きを変え、路地の奥へと走り出した。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The child slips free of her grasp. With a flick of his head, he scampers down an even deeper alleyway.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="아이가 그녀의 손에서 미끄러져 나갔다. 아이는 고개를 한 번 돌리고는 골목 더 깊은 곳으로 뛰어갔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="幼年居民"]九十九，九十九......
+[name="幼い住民"]九十九、九十九……
+[name="Young Inhabitant"]Ninety-nine, ninety-nine...
+[name="어린이 주민"]구십구, 구십구……
+
+[name="斯卡蒂"]你跑不掉。
+[name="スカジ"]もう逃げられないわよ。
+[name="Skadi"]You can't run.
+[name="스카디"]넌 도망갈 수 없어.
+
+[name="幼年居民"]呜......呜呜......
+[name="幼い住民"]う……あぅ～……
+[name="Young Inhabitant"]*Whimper*...
+[name="어린이 주민"]흑…… 흐윽……
+
+[name="斯卡蒂"]为什么偷我东西？为了把我带到这里？
+[name="スカジ"]なぜ私の物を盗ったの？　ここへおびき寄せるためかしら？
+[name="Skadi"]Why take what's mine? Why bring me here?
+[name="스카디"]왜 내 물건을 훔친 거지? 날 여기로 데려오려고?
+
+[name="斯卡蒂"]嗯？
+[name="スカジ"]そう……
+[name="Skadi"]Hm?
+[name="스카디"]응?
+
+[Subtitle(text="斯卡蒂径直踩烂了地上的陷阱。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="目の前の子供を見咎めるスカジ。そして彼女は、地面に仕掛けられた罠を踏み潰した。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Skadi tramples directly onto a trap laid on the ground.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="스카디는 땅 위의 함정을 곧바로 밟아 부쉈다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="斯卡蒂"]一个坑，几条绳。外面那群泥点子的埋伏至少比这像样得多。
+[name="スカジ"]落とし穴に、縄まで仕掛けて……残念だけど見え見えよ。三流バウンティハンターの待ち伏せの方が、まだサマになってたわね。
+[name="Skadi"]A hole, a few ropes. The ambushes outside were at least much more adequate than this.
+[name="스카디"]구덩이 하나에 밧줄 몇 개. 바깥의 그 진흙 얼룩을 한 매복도 이것보단 그럴듯하겠네.
+
+[name="斯卡蒂"]你们，出来吧。
+[name="スカジ"]出てきなさい。
+[name="Skadi"]Come out, all of you.
+[name="스카디"]너희들, 나와.
+
+[name="斯卡蒂"]我本来也找你们有事。麻烦快点。
+[name="スカジ"]私もあなたたちに用事があるの。さっさとして。
+[name="Skadi"]I needed to find you, anyway. Quickly, if you don't mind.
+[name="스카디"]마침 너희에게 물어볼 게 있으니, 빨리 좀 나와.
+
+[Subtitle(text="阴影处，有几尊“雕像”活了过来，慢慢靠近斯卡蒂。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="物陰に潜む「彫刻」が、数体動き出した。彼らはゆっくりとスカジに歩み寄る。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="In the shadows, some few 'sculptures' come to life, slowly easing towards Skadi.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="어두운 곳에서, '조각상' 몇 개가 살아나더니 스카디에게 다가왔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="男性居民A"]她很古怪。
+[name="男性住民A"]妙な奴だ。
+[name="Male Inhabitant A"]She's very peculiar.
+[name="남자 주민 A"]저 여자 수상해.
+
+[name="男性居民B"]是的，铁皮，这样的人，我没见过。
+[name="男性住民B"]そうだな、トタン。こんな奴、見たことない。
+[name="Male Inhabitant B"]Quite, Sheetmetal. Such a person, I've never before seen.
+[name="남자 주민 B"]그러게, 철판, 이런 사람, 나도 처음 봐.
+
+[name="男性居民A"]我也没见过。
+[name="男性住民A"]俺も、見たことがない。
+[name="Male Inhabitant A"]Nor I.
+[name="남자 주민 A"]나도 본 적 없어.
+
+[name="斯卡蒂"]原来你们会说话。
+[name="スカジ"]あなたたち、言葉を話せたのね。
+[name="Skadi"]So you know how to speak after all.
+[name="스카디"]너희들, 말을 할 수 있었네.
+
+[name="男性居民A"]你是谁？
+[name="男性住民A"]お前は何者だ？
+[name="Male Inhabitant A"]Who are you?
+[name="남자 주민 A"]당신, 누구지?
+
+[name="斯卡蒂"]流浪歌手。
+[name="スカジ"]さすらいの歌い手よ。
+[name="Skadi"]A wandering singer.
+[name="스카디"]떠돌이 가수.
+
+[name="男性居民A"]流浪歌手，我不知道是什么。
+[name="男性住民A"]さすらいの歌い手？　それは何だ。
+[name="Male Inhabitant A"]I know not what a wandering singer is.
+[name="남자 주민 A"]떠돌이 가수, 뭔지 난 몰라.
+
+[name="男性居民B"]铁皮，不要跟她说话。
+[name="男性住民B"]トタン、こいつと話すな。
+[name="Male Inhabitant B"]Sheetmetal, do not speak to her.
+[name="남자 주민 B"]철판, 저 여자랑 얘기하지 마.
+
+[name="男性居民A"]你的脸，陌生。你的打扮，奇怪。你不是这里的人。你来做什么？
+[name="男性住民A"]知らない顔だ。妙な服を着ている。よそ者だな。何をしに来た？
+[name="Male Inhabitant A"]Your face, unfamiliar. Your attire, strange. You are not one from here. What is your business?
+[name="남자 주민 A"]얼굴, 낯설어. 차림새, 괴상해. 여기 사람이 아니야. 뭘 하러 온 거지?
+
+[name="斯卡蒂"]我想问一个问题。
+[name="スカジ"]聞きたいことがあるの。
+[name="Skadi"]I want to ask a question.
+[name="스카디"]뭐 하나 물어보려고.
+
+[name="男性居民A"]你的衣服，很新。
+[name="男性住民A"]お前……新品の服を着ているな。
+[name="Male Inhabitant A"]Your clothes, very new.
+[name="남자 주민 A"]너의 옷, 아주 새거네.
+
+[name="斯卡蒂"]你见过我的同伴吗？
+[name="スカジ"]私の仲間を見なかった？
+[name="Skadi"]Have you seen my fellow person?
+[name="스카디"]내 동료를 본 적 있어?
+
+[name="男性居民A"]你很强壮。你能吃饱饭。
+[name="男性住民A"]それに、強そうだ。腹いっぱい食えているんだろう。
+[name="Male Inhabitant A"]You have much strength. You are able to eat your fill.
+[name="남자 주민 A"]넌 아주 건장해. 넌 배불리 먹고 있네.
+
+[name="斯卡蒂"]她在我之前来的。
+[name="スカジ"]彼女は私より先にここへ来たはずなの。
+[name="Skadi"]She came here before I did.
+[name="스카디"]나보다 먼저 이곳에 왔어.
+
+[name="男性居民A"]你的箱子，很重。
+[name="男性住民A"]その箱も、重そうだ。
+[name="Male Inhabitant A"]Your case, very heavy.
+[name="남자 주민 A"]너의 가방, 아주 무거워 보여.
+
+[name="斯卡蒂"]乐器都不轻。
+[name="スカジ"]……楽器なんてどれも重たいものよ。
+[name="Skadi"]An instrument is not a light thing.
+[name="스카디"]악기는 가볍지 않아.
+
+[name="男性居民A"]你手里拿的，很怪。
+[name="男性住民A"]持っているものだって、おかしい。
+[name="Male Inhabitant A"]The thing in your grasp, very uncanny.
+[name="남자 주민 A"]손에 든 것, 아주 이상해.
+
+[name="斯卡蒂"]你们这里的琴，长得也差不多吧。
+[name="スカジ"]ここのハープも、これと似たようなものでしょ。
+[name="Skadi"]I assume your harps should come more or less the same.
+[name="스카디"]너희 악기도 비슷하게 생겼어.
+
+[name="斯卡蒂"]（拨琴）
+[name="スカジ"]ほら、ちょっと弾いてあげるわ……
+[name="Skadi"](Plucks strings)
+[name="스카디"](하프 줄을 튕긴다)
+
+[name="男性居民A"]耳朵，难受。是武器。
+[name="男性住民A"]……ッ！　耳がおかしくなりそうだ。武器に、違いない。
+[name="Male Inhabitant A"]Ears, pained. It is a weapon.
+[name="남자 주민 A"]귀가, 괴로워. 무기야.
+
+[name="斯卡蒂"]可以不是。
+[name="スカジ"]武器以外の使い方もあるわよ。
+[name="Skadi"]It is able to not be.
+[name="스카디"]아닐 수도 있지.
+
+[name="男性居民B"]铁皮，这人，怪。不要理她。说话，好累。
+[name="男性住民B"]トタン、こいつ、変だ。もう構うな。話すの、疲れた。
+[name="Male Inhabitant B"]Sheetmetal, this person, uncanny. Do not heed her. To speak, very tiring.
+[name="남자 주민 B"]철판, 이 사람, 괴상해. 신경 쓰지 마. 말하기, 너무 피곤해.
+
+[name="男性居民A"]长凳。你放开。
+[name="男性住民A"]おい。ベンチを放せ。
+[name="Male Inhabitant A"]Bench. Let go of him.
+[name="남자 주민 A"]벤치, 놔줘.
+
+[name="斯卡蒂"]长凳......你是说这孩子？
+[name="スカジ"]ベンチ……この子のことかしら？
+[name="Skadi"]Bench... Do you mean this child?
+[name="스카디"]벤치…… 이 아이를 말하는 거야?
+
+[name="斯卡蒂"]我没想对他做什么。他拿了我的一样东西。那样东西，很重要。
+[name="スカジ"]この子に危害を加えるつもりなんてないわ。ネックレスを持って行かれたから、追いかけたの。大事な物なのよ。
+[name="Skadi"]I didn't intend anything for him. He took something of mine. Things like that are significant.
+[name="스카디"]난 이 아일 어쩔 생각 없어. 이 아이가 내 물건을 가져갔어. 아주 중요한 물건이야.
+
+[name="男性居民A"]你是来抢东西的。
+[name="男性住民A"]お前は、何か奪いに来たのか。
+[name="Male Inhabitant A"]You came to rob something.
+[name="남자 주민 A"]물건을 빼앗으러 왔군.
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[name="斯卡蒂"]我只想拿回我的东西，并且找个能听懂我说话的人。
+[name="スカジ"]違うわ。私は自分の物を取り返して、それから話の通じる相手を見つけたいと思っただけよ。
+[name="Skadi"]I'm only taking back what's mine. And looking for someone who can understand me when I talk.
+[name="스카디"]난 단지 내 물건을 돌려받고, 내 말을 알아들을 수 있는 사람을 찾고 싶을 뿐이야.
+
+[name="幼年居民"]呜......呜呜......
+[name="幼い住民"]あぅ……う～……
+[name="Young Inhabitant"]*Whimper*...
+[name="어린이 주민"]흑…… 흐윽……
+
+[name="男性居民A"]我们的孩子，你不许碰。
+[name="男性住民A"]俺たちの子供に、触ることは許さない。
+[name="Male Inhabitant A"]Our child, you may not touch.
+[name="남자 주민 A"]우리 아이, 건드리지 마.
+
+[name="男性居民A"]我们的东西，你不许抢。
+[name="男性住民A"]俺たちの物を、奪うことも許さない。
+[name="Male Inhabitant A"]Our things, you may not rob.
+[name="남자 주민 A"]우리 물건, 빼앗지 마.
+
+[name="斯卡蒂"]嗯？
+[name="スカジ"]何を……
+[name="Skadi"]Hm?
+[name="스카디"]응?
+
+[name="男性居民A"]我们的规则，不许打破。
+[name="男性住民A"]俺たちのルールを、破ることも許さない。
+[name="Male Inhabitant A"]Our rules, may not be broken.
+[name="남자 주민 A"]우리 규칙, 깨뜨리지 마.
+
+[name="男性居民B"]铁皮，你越走越近了。你想做什么？
+[name="男性住民B"]トタン、あまり近付くな。どうするつもりだ。
+[name="Male Inhabitant B"]Sheetmetal, you have gotten nearer. What are you doing?
+[name="남자 주민 B"]철판, 점점 가까워지고 있어. 뭘 하려는 거야?
+
+[name="男性居民A"]她要伤害我们的孩子，抢我们的东西，破坏我们的规则。
+[name="男性住民A"]あいつは俺たちの子供を傷つけ、俺たちの物を奪い、俺たちのルールを破ろうとしている。
+[name="Male Inhabitant A"]She is going to harm our child, steal what is ours, break our rules.
+[name="남자 주민 A"]저 여자 우리 아이 해치고, 우리 물건 빼앗고, 우리 규칙 깨뜨리려고 해.
+
+[name="男性居民B"]她不是我们的姐妹吗？是的话，也有她的一份。
+[name="男性住民B"]あいつは、俺たちの姉妹ではないのか？　姉妹には、分け与えてやるべきだ。
+[name="Male Inhabitant B"]Is she not our sister? If she is, she too has a share.
+[name="남자 주민 B"]저 여자, 우리 자매인가? 그렇다면, 그녀도 몫이 있어.
+
+[name="男性居民A"]她一定不是。
+[name="男性住民A"]あいつは、違う。
+[name="Male Inhabitant A"]She is surely not.
+[name="남자 주민 A"]절대 아닐 거야.
+
+[name="斯卡蒂"]......你们听不懂我的话。
+[name="スカジ"]……話が通じる相手じゃなさそうね。
+[name="Skadi"]You don't understand me.
+[name="스카디"]……내 말을 못 알아듣는군.
+
+[name="斯卡蒂"]我去问别人。
+[name="スカジ"]なら、他をあたるわ。
+[name="Skadi"]I'll go and ask someone else.
+[name="스카디"]다른 사람에게 물어보겠어.
+
+[name="男性居民A"]不许走。
+[name="男性住民A"]駄目だ。行かせない。
+[name="Male Inhabitant A"]You may not leave.
+[name="남자 주민 A"]가지 마.
+
+[name="男性居民B"]等等，铁皮......
+[name="男性住民B"]待て、トタン……
+[name="Male Inhabitant B"]One moment, Sheetmetal...
+[name="남자 주민 B"]잠깐, 철판……
+
+[name="男性居民B"]哎呦！
+[name="男性住民B"]うわっ！
+[name="Male Inhabitant B"]Ouch!
+[name="남자 주민 B"]으악!
+
+[name="男性居民B"]这、这里有个坑。
+[name="男性住民B"]あ、穴が、ある……
+[name="Male Inhabitant B"]There—There is a hole here.
+[name="남자 주민 B"]여, 여기 구덩이가 있어.
+
+[name="男性居民A"]木框的坑。你忘掉了。
+[name="男性住民A"]木枠の穴だ。忘れたのか。
+[name="Male Inhabitant A"]Woodframe's hole. You forgot.
+[name="남자 주민 A"]나무틀의 구덩이. 까먹었어?
+
+[name="斯卡蒂"]哦，原来真的有用。
+[name="スカジ"]あら、それ本当に役に立つのね。
+[name="Skadi"]Oh, it comes in handy after all.
+[name="스카디"]어머, 쓸모가 있었네.
+
+[name="男性居民A"]外面来的人，我们的地方，你不应该来！
+[name="男性住民A"]よそ者、ここは俺たちの場所だ。お前が来ていい場所ではない！
+[name="Male Inhabitant A"]Those from outside, to our place, you should not have come!
+[name="남자 주민 A"]이방인, 우리 땅에, 들어오면 안 돼!
+

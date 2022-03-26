@@ -1,528 +1,1320 @@
 [name="医疗干员"]不行，前面这条路被堵死了！
+[name="医療オペレーター"]――マズい、この先の道……塞がれてます！
+[name="Medic Operator"]It's no use! The road is blocked up ahead!
+[name="메딕 오퍼레이터"]안 돼요. 앞길이…… 막혔어요!
 
 [name="近卫干员"]这个方向也有人追过来了，不行，走不通！
+[name="前衛オペレーター"]こっちも追っ手が来てる！　ダメだ……逃げ場がない！
+[name="Guard Operator"]They're coming from that direction as well. This isn't working. We aren't getting anywhere!
+[name="가드 오퍼레이터"]이쪽에도 추격자가 따라붙었어. 큰일이야, 도망갈 곳이 없어!
 
 [name="黑帮成员"]到此为止！
+[name="マフィア構成員"]ようやく追い詰めたぜ！
+[name="Gang Member"]That's as far as you go!
+[name="마피아"]드디어 잡았다!
 
 [name="黑帮成员"]你们逃不掉的，把人交出来！
+[name="マフィア構成員"]もう逃れられんぞ。奴らを出せ！
+[name="Gang Member"]Nowhere to run. Now hand them over!
+[name="마피아"]어딜 도망가려고? 놈들을 내놔!
 
 [name="狙击干员"]可恶......
+[name="狙撃オペレーター"]クソッ……
+[name="Sniper Operator"]Dammit...
+[name="스나이퍼 오퍼레이터"]제길……
 
 [name="狙击干员"]不能把这些感染者交给他们！等着，我去把堵在前面的人干掉，你们趁机突围！
+[name="狙撃オペレーター"]感染者たちを守るんだ！　待ってろ、俺が前の連中を何とかする――お前らは隙を見て突破しろ！
+[name="Sniper Operator"]We can't let them take the Infected! Hold on, I'll take out the hostiles blocking the way upfront. Use the opportunity to break through them!
+[name="스나이퍼 오퍼레이터"]감염자들을 지켜야 돼! 기다려, 전방의 놈들은 내가 처리할 테니까 너희들은 기회를 봐서 포위를 뚫고 나가!
 
 [name="近卫干员"]喂，别去，回来！
+[name="前衛オペレーター"]あっ、おい！　戻ってこい！
+[name="Guard Operator"]Hey, don't do it! Come back!
+[name="가드 오퍼레이터"]안 돼. 돌아와!
 
 [name="近卫干员"]你冷静点，现在不是逞英雄的时候！
+[name="前衛オペレーター"]冷静になれ！　今はヒーローなんて気取ってる場合じゃないだろ！
+[name="Guard Operator"]Calm down! This is no time to be a hero!
+[name="가드 오퍼레이터"]진정해, 지금은 영웅 놀이를 할 때가 아니라고!
 
 [name="医疗干员"]就是说啊，你都受伤了！
+[name="医療オペレーター"]そうですよ、そんなに傷だらけなのに！
+[name="Medic Operator"]That's right! You're injured!
+[name="메딕 오퍼레이터"]그러니까요, 안 그래도 지금 상처투성인데!
 
 [name="狙击干员"]可是——！
+[name="狙撃オペレーター"]でもっ――！
+[name="Sniper Operator"]But—!
+[name="스나이퍼 오퍼레이터"]하지만……!
 
 [name="近卫干员"]没有可是，Ace老大那边肯定会来支援的，我们不能慌！
+[name="前衛オペレーター"]でもじゃない！　慌てるな！　Aceさんは絶対、応援を送ってくれる！
+[name="Guard Operator"]No buts. Ace will come back us up for sure! Don't panic!
+[name="가드 오퍼레이터"]하지만이란 건 없어. 그리고 에이스 씨네 팀에서 분명 지원 올 테니까 당황해선 안 돼!
 
 [name="？？？"]——说得好！
+[name="？？？"]――彼の言う通りだよ！
+[name="???"]—You got that right!
+[name="???"]……맞는 말이야!
 
 [name="医疗干员"]这个声音是！
+[name="医療オペレーター"]この声は！
+[name="Medic Operator"]It's her!
+[name="메딕 오퍼레이터"]이 목소리는!
 
 [name="黑帮成员"]什么人？！
+[name="マフィア構成員"]誰だ！？
+[name="Gang Member"]Huh?!
+[name="마피아"]누구냐?!
 
 [name="黑帮成员"]头，小心！嘶，好热——
+[name="マフィア構成員"]親分、気をつけ――ぐぅっ！　あつッ！
+[name="Gang Member"]Watch out! Argh, it's damn hot—
+[name="마피아"]형님, 조심하세……! 윽, 뜨거워……
 
 [name="狙击干员"]突然变热了，怎么回事......等下，那边的墙壁连着堵塞物全都被......切开了？！
+[name="狙撃オペレーター"]なんだ？　急に暑くなってきたような……ま、待て、向こうを封鎖してた障壁が……全部切り裂かれてるぞ！？
+[name="Sniper Operator"]Suddenly it's getting hotter in here. What's going on...? Hold on, what happened to the wall over there and the barricade... They got sliced apart?!
+[name="스나이퍼 오퍼레이터"]갑자기 더워졌어, 어떻게 된 거지…… 잠깐, 저쪽 벽과 이어진 적재물까지…… 전부 갈라졌잖아?!
 
 [name="近卫干员"]......是我们的支援来了。
+[name="前衛オペレーター"]……助けが……助けが来たんだ。
+[name="Guard Operator"]That's our backup.
+[name="가드 오퍼레이터"]……지원군이 왔어.
 
 [name="煌"]很热？那真是不好意思，要切开这些东西太费劲了，有点用力过猛。
+[name="ブレイズ"]暑い？　ごめんごめん！　これを切り裂くのに手こずってさ……やりすぎちゃったかな。
+[name="Blaze"]Feeling toasty? Sorry about that. It took me some work to cut these things apart. I might've overdone it.
+[name="블레이즈"]많이 뜨거웠어? 진짜 미안. 이걸 가르느라 힘이 많이 들어갔나 봐.
 
 [name="煌"]精密操作时的温度调节我还在学，下次我再努力调整调整。
+[name="ブレイズ"]精密操作時の温度調整はまだ勉強中なんだ。次こそはいい具合に調整してみせるから。
+[name="Blaze"]I'm still learning to control the heat. I'll try harder next time.
+[name="블레이즈"]정밀 작업할 때 온도 조절하는 법을 아직 배우는 중이거든. 다음엔 좀 더 노력해 볼게.
 
 [name="狙击干员"]这个电锯......你就是Ace老大手下的那个——
+[name="狙撃オペレーター"]そのチェーンソー……あなたは、Aceさんのチームの――
+[name="Sniper Operator"]That chainsaw... You're with Ace—
+[name="스나이퍼 오퍼레이터"]그 전기톱…… 당신은 에이스 씨 팀의……
 
 [name="医疗干员"]太好了，是煌小姐！
+[name="医療オペレーター"]ブレイズさん！
+[name="Medic Operator"]Thank goodness, it's Blaze!
+[name="메딕 오퍼레이터"]앗, 블레이즈 씨다!
 
 [name="近卫干员"]哈，你总算来了。
+[name="前衛オペレーター"]はぁ、やっと来てくれたか。
+[name="Guard Operator"]Ha, fashionably late.
+[name="가드 오퍼레이터"]하아, 드디어 왔구나.
 
 [name="煌"]哦！我来了！
+[name="ブレイズ"]やっほー！　今そっちに行くからね！
+[name="Blaze"]Yeah, here I am!
+[name="블레이즈"]그래, 곧 그리로 갈게!
 
 [name="煌"]大家久等了，处理另一边的追兵多费了点时间，一会其他小队也会过来汇合。
+[name="ブレイズ"]お待たせ！　向こう側にいた追っ手を片付けるのに、ちょっと時間がかかっちゃってさ。もう暫くしたら、他の小隊も合流するから。
+[name="Blaze"]Sorry for keeping you all waiting. It took me a little longer than I expected to deal with the other bad guys. The teams will regroup here soon.
+[name="블레이즈"]오래 기다렸지? 다른 쪽의 추격자들을 처리하는 데 시간이 좀 걸렸어. 다른 팀들도 곧 합류할 거야.
 
 [name="近卫干员"]行，我们突围，就按原计划行动。
+[name="前衛オペレーター"]分かった。それなら俺たちは包囲網を突破し、当初の計画通り行動しよう。
+[name="Guard Operator"]Okay, let's charge through them. Stick to the plan.
+[name="가드 오퍼레이터"]그래. 이제 포위를 뚫고 원래 계획대로 움직이면 되겠네.
 
 [name="黑帮成员"]这家伙怎么做到的，居然切断了最新材料的封锁网？！
+[name="マフィア構成員"]おいおい……最新鋭の封鎖障壁だぞ！？　一体どうやって切断したんだ！？
+[name="Gang Member"]How is this even possible? Those barriers were made of some real special stuff! Did she seriously cut right through that?!
+[name="마피아"]최신 소재로 만든 봉쇄망을 대체 어떻게 잘라낸 거지?!
 
 [name="煌"]对不住啊，我也没想到会这么顺利，就那么从上往下一切——
+[name="ブレイズ"]いやぁ、ごめんね。私もあんなふうにスパッと真っ二つになるなんて思ってなかったからさ……
+[name="Blaze"]Sorry, buddy. Honestly, I didn't expect it to go that well myself. All I did was slicing from top to bottom—
+[name="블레이즈"]미안. 그냥 위에서 아래로 쭉 휘두른 것뿐인데 이렇게 쉽게 잘려 나갈 줄은 몰랐거든……
 
 [name="煌"]说真的，我们也没必要争个你死我活吧？别动我的同伴，让我们带着感染者同胞就这么走，你们也没什么损失，各退一步怎么样？
+[name="ブレイズ"]さて……真面目な話、命をかけてまで争う必要なんてないよね？　私たちが感染者を連れて行っても、君たちには何の損もないわけだし……だから、私の仲間に手を出すのはやめてくれないかな？
+[name="Blaze"]Seriously, we don't have to fight to the death here, right? How about this? You leave my friends alone and let us take the Infected, and you guys get to go unharmed.
+[name="블레이즈"]그래서 말인데, 우리 서로 죽기 살기로 싸울 필요 없잖아? 우리가 감염자를 데리고 간다고 해도 너희들이 손해 보는 것도 아니니 이만 우리를 보내주는 건 어때?
 
 [name="煌"]如果不是有必要，我也不想对你们动手。
+[name="ブレイズ"]ここはお互いに引き下がるってことで手を打たない？　私だって、君たちに手出しなんてしたくないしさ。
+[name="Blaze"]I don't want to hurt you if I don't have to.
+[name="블레이즈"]꼭 필요한 게 아니라면 나도 너희들한테 손대고 싶진 않으니까 말이야!
 
 [name="黑帮成员"]......
+[name="マフィア構成員"]……
+[name="Gang Member"]......
+[name="마피아"]……
 
 [name="煌"]唉，一句话不说就攻击也太过分了吧，好好沟通一下真有这么难？
+[name="ブレイズ"]ちょっと、ひどいじゃない！　それが君たちの返事？　まったく……話し合うのってそんなに難しいことかな？
+[name="Blaze"]What a meanie. Just lash out without saying a word? It's really not that hard to talk it out, is it?
+[name="블레이즈"]야, 말도 없이 공격하는 건 너무했잖아! 말로 푸는 게 그렇게 어려워?
 
 [name="近卫干员"]煌！别和他们多说了，准备突围！
+[name="前衛オペレーター"]ブレイズ！　無駄口叩いてないで準備しろ！　突破するぞ！
+[name="Guard Operator"]Blaze, there's no talking to these guys. Get ready to break through!
+[name="가드 오퍼레이터"]블레이즈! 놈들과 쓸데없는 말 하지 말고 준비해. 이대로 돌파한다!
 
 [name="煌"]明白！那就让温度再升高一点——
+[name="ブレイズ"]分かった！　じゃあ、もう少し温度を上げるからね――
+[name="Blaze"]Got it! Let me raise the temperature a bit more—
+[name="블레이즈"]오케이! 그럼 온도 좀 더 올려볼게……
 
 [name="煌"]最后说一句，变成这样我是真的感觉挺遗憾的，这不是假话。
+[name="ブレイズ"]最後にもう一つだけ。こうなっちゃうのは本当に残念だよ……これは本音だから。
+[name="Blaze"]One last thing. I'm really sorry this is how things turned out, and I mean this from the bottom of my heart.
+[name="블레이즈"]마지막으로 한마디만 하자면, 개인적으로 상황이 이렇게 되어버린 것은 진짜 유감이야. 이건 진심이라고.
 
 [name="煌"]疼疼疼......
+[name="ブレイズ"]いたたたた……
+[name="Blaze"]O-Owww...
+[name="블레이즈"]아야야야야……
 
 [name="煌"]呃，我的胳膊，哎呦。
+[name="ブレイズ"]う～っ……う、腕がぁ……
+[name="Blaze"]Ugh, my arm. Oww.
+[name="블레이즈"]아이고…… 내 팔!
 
 [name="煌"]前两天强行用还在完善的那招，看来还是太勉强了......疼死我了，差点以为胳膊要断了。
+[name="ブレイズ"]この前、未完成の技を無理矢理使っちゃったけど……やっぱり無理が過ぎたかな。腕が千切れるかと思ったし……いたたぁ……
+[name="Blaze"]I used that technique I've been working on. I guess I pushed myself a little too far... Hurts so much I thought I broke my arm.
+[name="블레이즈"]저번에 미완성 기술을 억지로 쓰면서 너무 무리했나…… 팔이 부러질 것 같네.
 
 [name="煌"]推进的速率好像还是不太对，是我算错了？可是......
+[name="ブレイズ"]推進速度が調整しきれてないみたいだけど……計算が間違ってるのかな？　だけど……
+[name="Blaze"]I guess the thrust's a little off? Did I miscalculate? But...
+[name="블레이즈"]추진 속도에 문제가 있는 것 같은데…… 계산이 틀린 걸까? 하지만……
 
 [name="煌"]唔......
+[name="ブレイズ"]うーん……
+[name="Blaze"]Hmm...
+[name="블레이즈"]으음……
 
 [name="温蒂"]你一个人在这里自言自语什么呢。
+[name="ウィーディ"]こんな所で独り言なんて……どうしたの？
+[name="Weedy"]What are you doing here talking to yourself?
+[name="위디"]혼자서 뭘 중얼거리고 있어?
 
 [name="煌"]呜哦！
+[name="ブレイズ"]うわっ！
+[name="Blaze"]Whoa!
+[name="블레이즈"]우우우오!
 
 [name="温蒂"]啊？！
+[name="ウィーディ"]えっ……！？
+[name="Weedy"]Huh?!
+[name="위디"]꺄악?!
 
 [name="煌"]啊......怎么是温蒂啊，吓了我一跳。
+[name="ブレイズ"]なんだ、ウィーディじゃない。びっくりしたぁ。
+[name="Blaze"]Oh... It's you, Weedy. You spooked me.
+[name="블레이즈"]앗, 위디였어? 깜짝 놀랐잖아.
 
 [name="温蒂"]我才是被你吓到。
+[name="ウィーディ"]びっくりしたのは私の方だよ。
+[name="Weedy"]Well, you spooked me.
+[name="위디"]놀란 건 나거든.
 
 [name="温蒂"]怎么，不可以是我吗？
+[name="ウィーディ"]あと……「なんだ」って何？　私じゃいけなかった？
+[name="Weedy"]What's the matter? Am I not supposed to be here?
+[name="위디"]왜, 난 여기 오면 안 되는 거야?
 
 [name="煌"]没，我没这个意思！就是这个时间在这里看到你，有点惊讶。
+[name="ブレイズ"]ちがっ、そういう意味じゃなくて！　ほら、この時間に君とここで会えるとは思わなくてさ！
+[name="Blaze"]N-No, that's not what I meant. It's just... I don't usually see you around this time.
+[name="블레이즈"]아니! 그런 뜻이 아니라 이 시간에 여기서 널 만났다는 게 의외라서 그래.
 
 [name="煌"]真难得，平常不到午餐晚餐之类的必要时候，你不是就只呆在你那工作室里吗？
+[name="ブレイズ"]珍しいね。普段は昼食とか夕食とか……必要な時以外は、ずっとラボに籠もってるじゃない？
+[name="Blaze"]It's not often you step outside that workshop of yours when it's not lunch or dinnertime.
+[name="블레이즈"]점심이나 저녁 식사처럼 필요한 경우가 아니라면 넌 언제나 작업실 안에만 틀어박혀 있는 거 아니었어?
 
 [name="煌"]有时候三餐你都能直接省了，我拉你都拉不出来耶！
+[name="ブレイズ"]たまに三食全部抜いちゃって、私がラボから引っ張り出そうとしても嫌がることがあるくらいだし。
+[name="Blaze"]Sometimes you don't even come out to eat, and I couldn't drag you out of there no matter how hard I try.
+[name="블레이즈"]어떨 땐 세끼 모두 거르기도 하고, 내가 너 끌고 나오려고 해도 안 나오잖아.
 
 [name="温蒂"]没有这么夸张，我也是会需要出来透透气的。
+[name="ウィーディ"]大げさすぎ。私だって息抜きくらいするよ。
+[name="Weedy"]Don't exaggerate. I come outside for fresh air sometimes.
+[name="위디"]호들갑 떨긴…… 나도 가끔 바람 쐬러 나오기도 해.
 
 [name="温蒂"]以及，如果下次你再穿着外出的鞋就随便进我的研究室，我就立刻取消你的进入权限。
+[name="ウィーディ"]……それと、もしまた勝手に土足で私のラボに入ったら、すぐにあなたの入室権限を取り消すからね。
+[name="Weedy"]Also, if I ever see you in my lab with your outside shoes, I'll snatch your entrance permission.
+[name="위디"]그리고, 만약 다음에 또 외출 신발을 신고 내 연구실에 들어오면, 그땐 즉시 출입 권한을 취소해 버릴 거야.
 
 [name="煌"]好，好，我一定记住！
+[name="ブレイズ"]わ、分かった。気をつけるよ！
+[name="Blaze"]R-Right, I'll keep that in mind!
+[name="블레이즈"]아, 알았어. 명심할게!
 
 [name="温蒂"]还有。
+[name="ウィーディ"]あとは……
+[name="Weedy"]Also.
+[name="위디"]하나 더.
 
 [name="煌"]还有？
+[name="ブレイズ"]まだあるの？
+[name="Blaze"]Also?
+[name="블레이즈"]또 있어?
 
 [name="温蒂"]还有......可以麻烦你把衣服穿好吗？这里，衣角这里都皱起来了。
+[name="ウィーディ"]……服はちゃんと着てくれない？　上着の裾、シワが寄ってるよ。
+[name="Weedy"]Could you at least... wear your clothes right? Look how messed up you got here.
+[name="위디"]그 옷…… 좀 똑바로 입으면 안 돼? 여기 봐봐. 옷자락에 주름 갔잖아.
 
 [name="煌"]嗯？衣服？哪里，这里？
+[name="ブレイズ"]えっ？　裾？　どこかな、この辺？
+[name="Blaze"]Huh? My clothes? Where? Here?
+[name="블레이즈"]으응? 옷자락? 어디, 여기?
 
 [name="温蒂"]......
+[name="ウィーディ"]……
+[name="Weedy"]......
+[name="위디"]……
 
 [name="温蒂"]你在扯哪里？等等，别这么用力扯，这不是更乱了吗！
+[name="ウィーディ"]そこじゃない……って、無理に引っ張らないで。もっとシワになってるよ！
+[name="Weedy"]What are you doing? Wait, stop pulling so hard. You're making it worse!
+[name="위디"]거기 말고…… 잠깐, 그렇게 억지로 당기니까 더 주름졌잖아!
 
 [name="温蒂"]受不了了......停手，我来！
+[name="ウィーディ"]はぁ……見てられない……手をどけて、私がやるから！
+[name="Weedy"]I can't take this... Stop! I'll fix it for you!
+[name="위디"]진짜 못 봐주겠다…… 손 치워, 내가 해줄게!
 
 [name="煌"]嘿嘿，谢谢啦。
+[name="ブレイズ"]へへっ、ありがと。
+[name="Blaze"]Hehe, thanks.
+[name="블레이즈"]헤헤, 고마워.
 
 [name="煌"]你还真是很在意这些欸，而且我听说，你居然能让可露希尔从车间回来后都自觉洗手，这真不简单......
+[name="ブレイズ"]ウィーディはそういうことに、すごく気を配ってるよね。君にかかれば、工場から帰ってきたクロージャが自主的に手を洗うっていうじゃない。それってすごいことだよ……
+[name="Blaze"]You're way too sensitive about this stuff, you know that? You even managed to get Closure to wash her hands after work. That's no easy feat...
+[name="블레이즈"]이런 거 못 견디는 건 여전하네. 게다가 클로저한테도 작업실에서 돌아오는 즉시 손부터 씻게 길들였다면서? 진짜 대단해……
 
 [name="煌"]啊，对了，正好，温蒂你很擅长念书对吧？
+[name="ブレイズ"]……あっ、そうだ。ウィーディ、君って勉強できるよね？
+[name="Blaze"]Oh, right, perfect timing. Weedy, you're good with the book studying stuff, right?
+[name="블레이즈"]앗, 마침 잘 됐다. 위디, 너 공부 쪽으로 꽤 소질이 있는 편이지?
 
 [name="温蒂"]研究......算是擅长读书吗？
+[name="ウィーディ"]研究……も、勉強に入るのかな？
+[name="Weedy"]I do research... Does that count as studying?
+[name="위디"]연구도…… 공부 쪽인 건가?
 
 [name="煌"]算！当然算，怎么不算了？
+[name="ブレイズ"]入る入る！　もちろん入るよ、当たり前でしょ？
+[name="Blaze"]Yes, of course! Why wouldn't it count?
+[name="블레이즈"]당연하지! 연구나 공부나 다 거기서 거기잖아!
 
 [name="煌"]那个，其实我有点小问题想请教......
+[name="ブレイズ"]あのさ、実はちょっと教えてほしいことがあって……
+[name="Blaze"]See, there's something I wanted to ask you about...
+[name="블레이즈"]그게 말이지, 사실 물어보고 싶은 게 있어……
 
 [name="温蒂"]真难得，你说？
+[name="ウィーディ"]珍しいね。どんなこと？
+[name="Weedy"]Now that doesn't happen every day. Go ahead.
+[name="위디"]별일이네, 뭐가 궁금한데?
 
 [name="煌"]呃，其实是动力加速度的问题，还有摩擦阻力和能量膨胀算式，这些你一定都懂吧？能不能教教我？
+[name="ブレイズ"]ええっと、動的加速度に関する問題で……摩擦抵抗とエネルギー膨張の公式も関係してるんだけどさ。君、その辺詳しいでしょ？　教えてくれない？
+[name="Blaze"]Uh, it's actually a question about gravitational acceleration. Also, I need a formula for figuring out parasitic drag and energy expansion. You have to know this stuff, right? Mind teaching me?
+[name="블레이즈"]그러니까, 동력 가속도나 마찰 저항력, 에너지 팽창 공식 같은 거 잘 알지? 좀 가르쳐 줄 수 있어?
 
 [name="煌"]嗯？怎么了，干嘛摸我额头......
+[name="ブレイズ"]……って、えっ？　何？　なんで私のおでこ触ってるの？
+[name="Blaze"]Huh? What's the matter? Why are you touching my forehead...?
+[name="블레이즈"]으응? 뭐야, 갑자기 이마는 왜 만지는 건데?
 
 [name="温蒂"]......唔，好像没发热啊。
+[name="ウィーディ"]……うーん、熱はないみたい。
+[name="Weedy"]Hm... Doesn't seem like you have a fever.
+[name="위디"]……으음, 열은 없는 것 같은데.
 
 [name="温蒂"]你居然会问这方面的问题？
+[name="ウィーディ"]……まさか、ブレイズの口からそんな質問が出てくるなんて……
+[name="Weedy"]I'm surprised to see you interested in this topic.
+[name="위디"]네가 그런 질문을 다 하다니?
 
 [name="温蒂"]真奇怪，外面现在真的是晴天吗？还是突然下雨了？
+[name="ウィーディ"]変なの。今って外は晴れてるのかな？　急に雨が降りだしたりしてない？
+[name="Weedy"]How strange. I thought it was sunny today? Did it start raining all of a sudden?
+[name="위디"]이상하네…… 설마 해가 서쪽에서 떴나?
 
 [name="煌"]别这么说嘛，虽然我确实完全不喜欢这个，但没办法，谁让这真的很有用呢！
+[name="ブレイズ"]そんなこと言わないでよ。確かに物理は全然好きじゃないけど……でも、仕方ないじゃん。役に立つんだから！
+[name="Blaze"]Don't be like that. It's not that I'm into it, but I don't really have a choice here. This is actually useful.
+[name="블레이즈"]그렇게 말하지 마. 나도 공부하는 게 진짜 싫거든. 그런데 어쩔 수 없잖아. 그런 지식들이 도움이 되는 걸 어떡해!
 
 [name="煌"]哎，别说这么多，你看看这个。
+[name="ブレイズ"]はぁ……とにかく、これを見てよ。
+[name="Blaze"]Whatever, just take a look at this.
+[name="블레이즈"]하아…… 어쨌든, 이것 좀 봐줘.
 
 [name="温蒂"]什么......这是，你在读的书？
+[name="ウィーディ"]えっ……？　これ全部、ブレイズが読んでるの？
+[name="Weedy"]What is it...? Have you been reading this?
+[name="위디"]이건…… 네가 공부하는 책인 거야?
 
 [name="温蒂"]都是高等教材，还有这上面标出来的问题......
+[name="ウィーディ"]どれも上級課程の教材じゃない……それに、ここにメモしてある疑問点って……
+[name="Weedy"]This is all advanced stuff, and the questions listed here...
+[name="위디"]모두 상급 과정 교재네. 게다가 여기에 메모해놓은 의문점들은……
 
 [name="温蒂"]......
+[name="ウィーディ"]……
+[name="Weedy"]......
+[name="위디"]……
 
 [name="温蒂"]抱歉，我收回之前说的话。
+[name="ウィーディ"]ごめん。さっき言ったこと、撤回するよ。
+[name="Weedy"]Sorry, I take that back.
+[name="위디"]미안, 방금 한 말 취소할게.
 
 [name="煌"]嗯？什么？
+[name="ブレイズ"]ん？　急にどうしたの？
+[name="Blaze"]Hm? Take what back?
+[name="블레이즈"]응? 뭘?
 
 [name="温蒂"]你确实有在努力。这些问题，不是随便看看就能提得出来的，我得向你道歉。
+[name="ウィーディ"]本当に努力してたんだね。こういう疑問は、なんとなく読んでるだけじゃ浮かんでこないもの。謝るよ。
+[name="Weedy"]You're actually studying hard. One cannot come up with these questions just by leafing through the book. I must apologize.
+[name="위디"]너 확실히 노력하고 있구나. 이 의문점들은 그냥 떠오를 수 있는 것들이 결코 아니야. 사과할게.
 
 [name="煌"]欸？不用，哈哈哈，不用这么正经啦，我没在意的。
+[name="ブレイズ"]ええっ？　やめてよ。別に私は気にしてないし……だから、そんなに畏まらないで。
+[name="Blaze"]Eh? Hahaha, no need. Why so serious? I don't mind at all.
+[name="블레이즈"]에엣? 됐어, 하하하. 뭘 또 그렇게 진지하고 그래. 별거 아니야.
 
 [name="煌"]也不是只有温蒂你这么说啦。
+[name="ブレイズ"]それに、ウィーディ以外からもよく言われるしね。
+[name="Blaze"]You're not the only one who says stuff like that.
+[name="블레이즈"]그리고 사실 너만 그런 얘기 했던 것도 아니야.
 
 [name="煌"]你看，我确实没那么聪明，这些东西学起来也很吃力，而且说到底搞这种学问和我完全不搭嘛！
+[name="ブレイズ"]ほら、私ってそんなに頭が良くないから、これを勉強するのもすごく大変だしさ。そもそも、こういう学問ってガラじゃないし。
+[name="Blaze"]I mean, I'm really not all that smart. It takes a lot of work to learn this stuff, and researching on stuff like that is just not my thing.
+[name="블레이즈"]너도 알다시피 난 확실히 머리가 좋은 편은 아니야. 그래서 이런 걸 공부하는 것 자체가 굉장히 힘들어. 그리고 학문 이런 건 나하고 전혀 어울리지도 않잖아!
 
 [name="温蒂"]但是你......
+[name="ウィーディ"]でも……
+[name="Weedy"]But you...
+[name="위디"]하지만……
 
 [name="煌"]没办法。我想做的事还有很多，想要做到那些，就必须要变得更强才行。所以，任何有帮助的办法我都会去试试。
+[name="ブレイズ"]仕方ないよ。私にはまだまだやりたいことが沢山あるけど、そのためには強くなるしかないわけだし。だから、役に立ちそうなことは何でも試してみなくちゃ。
+[name="Blaze"]I don't have a choice. There are lots of things I wanna do, so I gotta get stronger, and I'll try anything that could help me get there.
+[name="블레이즈"]어쩔 수 없잖아. 하고 싶은 게 잔뜩 있는데, 그걸 다 하려면 더 노력해야 한다고. 그래서 도움이 되는 방법이라면 뭐든지 해 볼 거야.
 
 [name="煌"]嘿嘿，读书而已，总比在训练场上被Ace像沙包一样打上天来得要轻松吧？
+[name="ブレイズ"]それにさ、頭を使うだけなら訓練場でAceにサンドバッグみたいに殴り飛ばされるより楽だと思わない？
+[name="Blaze"]Hehe, I mean, this is just studying. It's so much easier than being Ace's punching bag on the training grounds, right?
+[name="블레이즈"]헤헤, 그래 봤자 공부잖아? 훈련장에서 에이스한테 온종일 샌드백처럼 얻어터지는 것보다야 낫지 않겠어?
 
 [name="？？？"]好啊，原来你就是这么在背后说我坏话的？
+[name="？？？"]ほぅ、お前は普段そうやって俺の陰口を叩いてたんだな？
+[name="???"]Oh, so you talk about me behind my back like that?
+[name="???"]호오, 평소에 그런 식으로 내 험담을 했던 거구나?
 
 [name="煌"]呃！
+[name="ブレイズ"]げっ！
+[name="Blaze"]Agh!
+[name="블레이즈"]헙!
 
 [name="Ace"]看你这么有精神我就放心了，煌。但你可别乱说话，带坏温蒂。
+[name="Ace"]元気そうで何よりだ、ブレイズ。だが、でたらめを言うのもその辺りにしろよ。ウィーディに悪影響だ。
+[name="Ace"]Well, I'm glad to see you so full of ginger, Blaze, but enough screwing around. You're being a bad influence on Weedy.
+[name="에이스"]건강해 보여서 다행이다만, 허튼소리 작작 해. 위디한테 나쁜 물 들이지 말고.
 
 [name="煌"]Ace！
+[name="ブレイズ"]Ace！
+[name="Blaze"]Ace!
+[name="블레이즈"]에이스!
 
 [name="温蒂"]Ace先生。
+[name="ウィーディ"]Aceさん。
+[name="Weedy"]Hello, Ace.
+[name="위디"]에이스 씨!
 
 [name="煌"]我哪有带坏温蒂，这不是实话实说嘛。
+[name="ブレイズ"]何よ、悪影響って。私は本当のことを言ったまでだし。
+[name="Blaze"]I'm not being a bad influence on her. I'm just telling the truth!
+[name="블레이즈"]내가 언제 나쁜 물을 들였다는 거야? 난 그저 사실대로 말한 것뿐이라고.
 
 [name="煌"]上回Ace你和Mechanist给我特训，我差点被你们从肚脐这儿直接拆成两半！
+[name="ブレイズ"]この前AceとMechanistに特訓してもらった時なんて、おへそのあたりで真っ二つにされるかと思ったんだから！
+[name="Blaze"]When you and Mechanist took me out for special training last time, I almost got sliced into two, right through my belly button!
+[name="블레이즈"]저번에 에이스 너랑 메커니스트한테서 특훈 받을 때, 하마터면 배꼽을 기준으로 두 동강 날 뻔했단 말이야!
 
 [name="Ace"]那还不是为了帮你调试新武器。要达到你想要的那种破坏力哪有那么简单，Mechanist为了这个好几天没离开工作台。
+[name="Ace"]あれはお前の新しい武器の調整をするためだろ。お前の望む破壊力まで到達するのはそう簡単なことじゃないんだ。お陰でMechanistはもう何日も作業台に張り付いてるんだぞ。
+[name="Ace"]Well, we were tuning your new weapon for you. Making it as destructive as you wanted it to be wasn't an easy thing. Mechanist spent days at his workbench just to get it done.
+[name="에이스"]그거야 너의 새 무기를 테스트하느라 그런 거잖아. 네가 원하는 파괴력을 갖추는 게 그렇게 쉬운 일인 줄 알아? 그것 때문에 메커니스트는 며칠 내내 작업대에서 살다시피 일했다고.
 
 [name="Ace"]你该看看被他撕掉的那些草图，这段时间他用掉的白纸多得能让后勤部发怒。
+[name="Ace"]嘘だと思うなら、あいつが破いたラフの山でも拝んでこい。紙の使いすぎで後方支援部に怒られたと言ってたぞ。
+[name="Ace"]You should've seen the sketches he shredded. He used so much paper, Logistics gave him an earful.
+[name="에이스"]메커니스트가 찢어버린 초안들을 네가 봤어야 했어. 그동안 메커니스트가 찢어버린 용지가 어찌나 많은지 후방 지원부에서 화를 낼 정도였다니까.
 
 [name="煌"]那可不妙。
+[name="ブレイズ"]それは……マズいね。
+[name="Blaze"]That's not good.
+[name="블레이즈"]그건 좀…… 미안하게 됐네.
 
 [name="煌"]不过这次也真多亏了他给我这个大家伙，切起东西来特别顺手......嘿，要不是有这个，我那新招估计还用不出来。
+[name="ブレイズ"]けど今回も、Mechanistがくれたこのでっかいやつのお陰で何でも斬りたい放題だったよ！　へへ、これがなかったら、私の新しい技だってお披露目できなかっただろうね。
+[name="Blaze"]But I really gotta thank him for giving me this big guy. It feels so natural while I'm slicing things up... And if it wasn't for this, I guess I wouldn't have been able to use that new technique of mine.
+[name="블레이즈"]하지만 이번에도 메커니스트가 준 이 녀석 덕분에 쉽게 자를 수 있었어…… 이게 없었다면 아마 나의 새로운 기술은 선보이지도 못했을 거야.
 
 [name="煌"]看！我还带了叙拉古当地的奶酪回来当礼物，据说味道独特，一会我就送去给Mechanist也尝尝。
+[name="ブレイズ"]あっ、そうそう。これ見て！　今回はシラクーザのご当地チーズをお土産に買ってきたんだ。独特な味がするんだって。後でMechanistの所にも持っていって、食べさせてあげようっと。
+[name="Blaze"]Look! I brought some Siracusan cheese back as souvenir. It has some really unique flavor, supposedly. I'll take some to Mechanist later.
+[name="블레이즈"]참! 시라쿠사 현지에서 만든 치즈를 선물로 가져왔어. 특이한 맛이라고 하던데, 이따가 메커니스트한테도 나눠줘야겠다.
 
 [name="温蒂"]（嗅闻）
+[name="ウィーディ"]うわっ……
+[name="Weedy"](Sniffs)
+[name="위디"](킁킁)
 
 [name="温蒂"]恶。
+[name="ウィーディ"]ひどい臭いね。
+[name="Weedy"]Gross.
+[name="위디"]우웁.
 
 [name="Ace"]哈哈，我不确定他会不会喜欢这个味道......
+[name="Ace"]ははっ、あいつが気に入るかは知らんが……
+[name="Ace"]Haha, I can't say for sure he's going to like this...
+[name="에이스"]하하, 메커니스트가 좋아할진 모르겠군……
 
 [name="Ace"]啊，对了，温蒂。
+[name="Ace"]ああ、そうだ。ウィーディ。
+[name="Ace"]Oh, right, Weedy.
+[name="에이스"]참, 위디!
 
 [name="温蒂"]请说？
+[name="ウィーディ"]何？
+[name="Weedy"]Yes?
+[name="위디"]응?
 
 [name="Ace"]关于之前你向工程部提出的申请，可露希尔已经把材料转到了我们这边。
+[name="Ace"]前にお前がエンジニア部へ提出した申請だが……クロージャから書類を受け取った。
+[name="Ace"]It's the application you filed with Engineering the other day. We got the materials from Closure already.
+[name="에이스"]네가 전에 엔지니어링부에 제출했던 신청인데…… 클로저로부터 서류를 넘겨받았어.
 
 [name="温蒂"]——！
+[name="ウィーディ"]――！
+[name="Weedy"]—!
+[name="위디"]……!
 
 [name="温蒂"]我正准备去问她......
+[name="ウィーディ"]ちょうどその件について聞きに行こうと思ってたの。
+[name="Weedy"]I was just about to ask...
+[name="위디"]안 그래도 가서 물어보려던 참이었는데……
 
 [name="Ace"]说实话，我可完全没想过会收到这种申请。
+[name="Ace"]正直、こんな申請を受け取ることになろうとは思ってもみなかったが……
+[name="Ace"]To be honest, I would never have thought we'd get a request like that.
+[name="에이스"]솔직히 말해서 그런 신청을 받게 될 거라곤 꿈에도 생각해 본 적 없었다.
 
 [name="Ace"]但既然你本人有这个意向，可露希尔又替你的工程产品做担保，我们没有拒绝的理由。
+[name="Ace"]本人にその意志がある上に、クロージャもお前の製品について戦闘での機能面を保証すると言っていた。となれば、俺たちにこの申し出を拒否する理由はない。
+[name="Ace"]But if that's what you want, and Closure is willing to vouch for the things you make, who am I to say no?
+[name="에이스"]본인 의지가 그렇고 클로저도 너의 제품을 보증한다면, 우리는 딱히 거부할 이유가 없거든.
 
 [name="温蒂"]这也就是说，我......
+[name="ウィーディ"]ってことは……
+[name="Weedy"]So, does that mean... I...
+[name="위디"]그 말인 즉……
 
 [name="Ace"]欢迎你成为正式干员。
+[name="Ace"]正式なオペレーターとして歓迎しよう、ウィーディ。
+[name="Ace"]You're a regular operator now.
+[name="에이스"]정식 오퍼레이터가 된 걸 축하한다.
 
 [name="温蒂"]......谢谢。
+[name="ウィーディ"]……ありがとう、Aceさん。
+[name="Weedy"]Thank you...
+[name="위디"]……고마워.
 
 [name="煌"]耶？这是刮的什么风，温蒂你居然会想上战场？
+[name="ブレイズ"]えっ？　なになに、どういう風の吹き回し？　ウィーディ、君……戦場に出たかったの？
+[name="Blaze"]Eh? What's going on? You want to go out into the field, Weedy?
+[name="블레이즈"]엣? 대체 무슨 바람이 분 거야, 너 설마 전장에 나가고 싶었어?
 
 [name="温蒂"]你有什么意见？
+[name="ウィーディ"]そうだけど。何か問題でもある？
+[name="Weedy"]Do you have a problem with that?
+[name="위디"]무슨 문제라도 있어?
 
 [name="煌"]啊，不是，当然不是！我很期待能和你一起作战，绝对没有小瞧你的意思！
+[name="ブレイズ"]あ、違う違う、もちろん問題なんてないよ！　一緒に作戦に参加できるのは楽しみだし、君を見くびってるわけじゃ絶対ないからね！
+[name="Blaze"]Oh, no, of course not! I look forward to fighting with you. I'd never look down on you.
+[name="블레이즈"]그, 그런 건 아니지만! 오히려 너랑 같이 작전하는 게 기대돼. 널 무시하는 게 절대 아니야!
 
 [name="煌"]只是，哎，你的身体状况......真没问题？
+[name="ブレイズ"]ただ、えっと、身体のほうは……本当に大丈夫なの？
+[name="Blaze"]It's only that... well... Are you sure you can keep up?
+[name="블레이즈"]그냥, 네 몸 상태로…… 정말 괜찮겠어?
 
 [name="温蒂"]我也是会有想要改变一下的时候的。
+[name="ウィーディ"]私だって、何かを変えたいって思う時があるの。
+[name="Weedy"]I, too, want some change once in a while.
+[name="위디"]나도 달라지고 싶을 때가 있어.
 
 [name="温蒂"]虽然体弱，但我也有擅长的领域。我的体能或许比不过大家，但可不要小看我的这些蓄水炮，它们的推力可能比煌你还要强。
+[name="ウィーディ"]確かに私は体が弱いし、身体能力ではみんなに敵わないかもしれない……でも、得意なことはあるし、この蓄水砲だって伊達じゃないよ。この子たちの推力ならブレイズを越えてるかもしれないし。
+[name="Weedy"]I may be weak, but I have certain areas I excel at. Though I may trail everyone else when it comes to physical capabilities, don't underestimate what my water cannons can do. They might just have more thrust than you do, Blaze.
+[name="위디"]몸이 허약하지만 나도 잘하는 게 있어. 체력적으로 떨어질지 몰라도 내 물대포를 얕보면 곤란해. 위력은 블레이즈 너보다 더 강할지도 몰라.
 
 [name="煌"]那可真是太可靠了！要是我俩下回在同个小队里出任务，温蒂你可要多关照我呀！
+[name="ブレイズ"]すっごく頼もしいじゃない！　それじゃ、今度同じ小隊で出撃することになった時はよろしくね！
+[name="Blaze"]Sounds reliable enough to me! If we ever go out on a mission together, I'm counting on you to have my back!
+[name="블레이즈"]크으, 엄청 믿음직스럽잖아! 다음번에 함께 작전에 투입되면 잘 부탁할게, 위디!
 
 [name="温蒂"]......我考虑一下。
+[name="ウィーディ"]……考えとく。
+[name="Weedy"]I'll think about it...
+[name="위디"]……참고할게.
 
 [name="温蒂"]咳，你刚刚提的那些问题，还问不问？如果还要问，就晚上拿来让我看看。
+[name="ウィーディ"]こほん……さっきの質問だけど、まだ続ける？　もし、ちゃんと聞く気があるなら、また夜にでも見せに来て。
+[name="Weedy"]Ahem, so do you still need me to help you with those questions? If so, bring them over tonight, and I'll take a look.
+[name="위디"]크흠, 그리고 아까 했던 질문 말이야. 정말 물어볼 거면 저녁에 다시 날 찾아와.
 
 [name="温蒂"]就这样，我先走了。
+[name="ウィーディ"]……じゃあ、先に行くね。
+[name="Weedy"]I should get going now.
+[name="위디"]그럼 난 먼저 갈게.
 
 [name="煌"]唔，什么情况？她那样算是......害羞了？
+[name="ブレイズ"]あれっ、どうしたんだろ？　もしかして照れちゃった？
+[name="Blaze"]Hm? What? Is she... shy?
+[name="블레이즈"]음? 뭐지? 저 모습은 설마…… 쑥스러운 건가?
 
 [name="Ace"]这话我觉得你还是别当着她的面说比较好。
+[name="Ace"]それ、本人の前では言うなよ。
+[name="Ace"]You should try not to say that in front of her.
+[name="에이스"]그런 말은 본인 앞에서 하는 거 아니야.
 
 [name="煌"]才不会，我有分寸。
+[name="ブレイズ"]そのくらい分かってるってば。
+[name="Blaze"]Of course I won't. I've got manners.
+[name="블레이즈"]안 해, 나도 그 정도는 알아.
 
 [name="煌"]嗯......之前的任务记录还是得回去再整理一遍，虽然当时情急之下把新招给用出来了，但还是感觉差了点什么。
+[name="ブレイズ"]うーん……やっぱり、この前の任務記録を整理し直さなきゃいけないね。あの時は咄嗟に使うことになったとはいえ……やっぱり新しい技には何かが足りない気がするし。
+[name="Blaze"]Hm... I should go back to get my mission logs in order. I had to use my new technique when things got desperate, but it feels like something was still missing.
+[name="블레이즈"]으음…… 지난번 임무 기록, 아무래도 돌아가서 다시 정리해 봐야겠어. 당시에는 급박한 상황이라 순간적으로 사용하기는 했었는데, 아무래도 새로운 기술이라 뭔가 부족한 것 같아.
 
 [name="煌"]手感？不对，是更精密的计算问题......
+[name="ブレイズ"]手の感覚とか？　ううん、多分もっと細かい計算の問題で……
+[name="Blaze"]The feel? No, it's probably a numbers problem...
+[name="블레이즈"]손맛이랄까? 아니야, 좀 더 정밀하게 계산해봐야 할 문제인 것 같아……
 
 [name="Ace"]所以你是为了这个去借了高等课程的教材？我记得你很讨厌这些公式和数字计算吧？
+[name="Ace"]だから上級課程の教材なんぞ借りてきたのか？　お前、数式や計算が嫌いだったはずだろう？
+[name="Ace"]So that's why you checked out these advanced textbooks? I know you're not fond of formulas and numbers.
+[name="에이스"]그것 때문에 상급 과정의 교재를 빌린 건가? 이런 공식이나 숫자 계산을 무척 싫어했던 걸로 기억하는데?
 
 [name="煌"]当然讨厌，我最近头发都掉得比之前多一倍！
+[name="ブレイズ"]もちろん好きじゃないよ。お陰で最近抜け毛が二倍になっちゃったんだから！
+[name="Blaze"]Of course I don't like them, and I've been tearing my hair out over them!
+[name="블레이즈"]당연히 싫지. 덕분에 요새는 머리카락이 두 배로 빠지는 것 같아!
 
 [name="煌"]但没办法，谁叫我的源石技艺不是那种能什么都不想，直接一路碾过去的类型呢，要想干好现在的活儿，就只能再努力点。
+[name="ブレイズ"]でも仕方ないでしょ。私のアーツは何も考えずに相手を倒せるってタイプじゃないんだから。つまり良い仕事をしたいなら、努力するしかないってわけ。
+[name="Blaze"]But I don't have a choice! My Arts aren't the kind you can just throw all over the place without thinking. If I want to do my job well, I have to work harder.
+[name="블레이즈"]하지만 어쩔 수 없잖아. 내 오리지늄 아츠는 아무 생각 없이 사용해도 적을 쓰러뜨릴 수 있는 그런 타입이 아닌걸. 그러니 제대로 일을 하려면 더 노력하는 수밖에.
 
 [name="Ace"]哈哈，是吗，那真不错。你这样我也能放心不少。
+[name="Ace"]はは、そうか。そいつはいい心がけだ。
+[name="Ace"]Haha, oh yeah? That's great. A load off my shoulders.
+[name="에이스"]하핫, 그런가? 좋아. 네가 이러니 나도 한결 안심이 되네.
 
 [name="Ace"]对了，Mechanist那边也还在做改进，记得多找他沟通，让他再给你看看。
+[name="Ace"]なら、Mechanistも改良を続けているらしいし、一度見せてもらうといい。
+[name="Ace"]Right, Mechanist is working on improvements too. Be sure to talk to him. He'll take a look.
+[name="에이스"]참, 메커니스트도 개량 작업 진행 중이라던데, 자주 소통하면서 다시 봐달라고 하는 게 좋을 거야.
 
 [name="煌"]没问题，我回头就去找他！就算这次再被晾在门口敲几个小时的门，我也一定不抱怨。
+[name="ブレイズ"]もちろん、この後すぐに会いに行くよ！　また何時間もドアの前で待ちぼうけを食らって、ずーっとノックし続けることになっても、今回は絶対に文句なんて言わないんだから。
+[name="Blaze"]No problem. I'll go check on him right away! And even if he keeps me knocking on his door for hours again, I'm not going to complain.
+[name="블레이즈"]응, 돌아가는 대로 만나러 갈 거야! 이번에는 문 앞에서 몇 시간씩 대기하더라도 절대 불평하지 않을 거야.
 
 [name="Ace"]这倒也不至于，你们应该很快就能见面了。
+[name="Ace"]いや、そこまでせずともすぐに会えるさ。
+[name="Ace"]I doubt he'll put you through that. You'll get to see him pretty soon.
+[name="에이스"]그 정도는 아니야. 그렇게까지 안 해도 금방 만날 수 있을 거다.
 
 [name="煌"]嗯？
+[name="ブレイズ"]えっ？
+[name="Blaze"]Hm?
+[name="블레이즈"]으음?
 
 [name="Ace"]凯尔希医生已经和你说过那件事了吗？
+[name="Ace"]ケルシーから、例の件について聞いたか？
+[name="Ace"]Has Dr. Kal'tsit talked to you about that yet?
+[name="에이스"]켈시한테 얘기 못 들었나?
 
 [name="煌"]啊......那个啊。
+[name="ブレイズ"]ああ……あのことね。
+[name="Blaze"]Oh... That?
+[name="블레이즈"]아…… 그 얘기.
 
 [name="煌"]凯尔希医生，听说你找我。
+[name="ブレイズ"]ケルシー先生、私を捜してるって聞いたけど……
+[name="Blaze"]Dr. Kal'tsit, I heard you needed me.
+[name="블레이즈"]닥터 켈시, 날 찾았다며?
 
 [name="煌"]什么事？你看起来好严肃，是有什么很重要的事吗？
+[name="ブレイズ"]何かあったの？　真剣な顔だけど、もしかして大事なこと？
+[name="Blaze"]What's the matter? You seem pretty solemn. Is it something important?
+[name="블레이즈"]무슨 일이야? 심각해 보이는데 혹시 중요한 일이라도 있는 거야?
 
 [name="凯尔希"]是的，我认为这件事确实很重要。不管是对于你自身，还是对于罗德岛。
+[name="ケルシー"]ああ、確かに重要な話と言えるだろう。君自身にとっても……そしてロドスにとってもな。
+[name="Kal'tsit"]Yes, I think this is very important indeed, both for you and Rhodes Island.
+[name="켈시"]응, 아주 중요한 일이라고 생각해. 네 자신에게도, 그리고 로도스 아일랜드에도.
 
 [name="煌"]......
+[name="ブレイズ"]……
+[name="Blaze"]......
+[name="블레이즈"]……
 
 [name="煌"]完了，你这样说话，我开始有点紧张起来了。
+[name="ブレイズ"]ヤバい、そんな風に言われると緊張してきたよ。
+[name="Blaze"]Well, crap. You talking like that is making me a little nervous.
+[name="블레이즈"]망했다. 그 말을 들으니 조금 긴장되는데.
 
 [name="凯尔希"]煌，你加入多久了？
+[name="ケルシー"]ブレイズ。君はロドスに加入してどのくらい経つ？
+[name="Kal'tsit"]Blaze, how long has it been since you came on board?
+[name="켈시"]블레이즈 너, 로도스 아일랜드에 들어온 지 얼마나 됐지?
 
 [name="煌"]嗯......我算算，差不多也有一年了。
+[name="ブレイズ"]うん？　……えーと、大体一年くらいかな。
+[name="Blaze"]Hm... Let me see... Almost a year.
+[name="블레이즈"]으음, 뭐…… 대충 일 년 정도인가?
 
 [name="煌"]时间过得真快。
+[name="ブレイズ"]時間が経つのってあっという間だよね。
+[name="Blaze"]Time flies.
+[name="블레이즈"]시간 한번 빠르네.
 
 [name="凯尔希"]时间一直将我们所有人抛在身后。
+[name="ケルシー"]時間というのは、常に我々のすべてを置き去りにするものだ。
+[name="Kal'tsit"]Time leaves us all behind.
+[name="켈시"]시간은 언제나 우리를 앞서가지.
 
 [name="凯尔希"]这一年你的成长有目共睹，或许你没有要通过这样的行动证明什么的意图，但结果上，你的确向所有人证明了你自己。
+[name="ケルシー"]この一年、君の成長には目を見張るものがあった。行動によって何かを証明する意図はなかったかもしれないが……結果として君は、皆に自分自身を証明してみせた。
+[name="Kal'tsit"]Your growth in the past year has been apparent to all of us. Even if it wasn't your intention to prove anything with your actions, you have indeed shown us what you are capable of.
+[name="켈시"]지난 일 년 동안 넌 확실히 눈부시게 성장했어. 네가 행동으로 뭔가를 증명하려는 의도가 있었는지는 모르겠지만…… 결과적으론 모두에게 네 실력을 증명했지.
 
 [name="凯尔希"]Ace，还有其他干员，对你的评价都很高。
+[name="ケルシー"]Aceや他のオペレーターも、君のことは高く評価している。
+[name="Kal'tsit"]Ace and many other operators all think very highly of you.
+[name="켈시"]에이스를 비롯한 다른 오퍼레이터들도 모두 널 높게 평가하고 있다.
 
 [name="煌"]干嘛突然说这个，这么被人当面夸还有点害羞......
+[name="ブレイズ"]突然どうしたの？　面と向かって褒められたら照れるじゃん……
+[name="Blaze"]Why are we talking about this all of a sudden? I'm starting to blush...
+[name="블레이즈"]왜 갑자기 그런 이야기를…… 그렇게 대놓고 면전에서 칭찬하면 쑥스럽잖아.
 
 [name="凯尔希"]你的体温很正常。
+[name="ケルシー"]君の体温は正常値の範囲だが？
+[name="Kal'tsit"]Your body temperature is normal.
+[name="켈시"]체온은 정상인데?
 
 [name="煌"]我那是强行在忍着呢！
+[name="ブレイズ"]我慢してるの！
+[name="Blaze"]I'm doing what I can to hold it back here!
+[name="블레이즈"]억지로 참고 있는 거거든!
 
 [name="凯尔希"]......
+[name="ケルシー"]……
+[name="Kal'tsit"]......
+[name="켈시"]……
 
 [name="凯尔希"]我猜，你已经能预想到我是为什么找你了。
+[name="ケルシー"]私が君を捜していた理由だが……予想はついているのだろう。
+[name="Kal'tsit"]I suppose you already know what I summoned you for.
+[name="켈시"]내가 널 찾은 이유를…… 아마 예상했을 것 같은데?
 
 [name="煌"]大概......有那么点猜想。
+[name="ブレイズ"]まあ……いくつか心当たりはあるけどさ。
+[name="Blaze"]I have my guesses...
+[name="블레이즈"]대충은…… 몇 가지 짚이는 게 있어.
 
 [name="凯尔希"]好，那我就直说了。
+[name="ケルシー"]そうか。ならば、こう伝えるとしよう。
+[name="Kal'tsit"]Very well. I'll get to the point.
+[name="켈시"]좋아, 그럼 단도직입적으로 말하지.
 
 [name="凯尔希"]罗德岛建立以来，有许多人加入，也有人离开，我不会对此多说什么。
+[name="ケルシー"]ロドス設立以来、多くの者がロドスへ加入し、また幾人かはこの場所を去っていった。その事実について、多くを語るつもりはない。
+[name="Kal'tsit"]Ever since Rhodes Island was established, we've had many members come and go. I won't say much about that.
+[name="켈시"]로도스 아일랜드가 세워진 이래, 많은 사람들이 가입했고, 또 떠나기도 했어. 그 일에 대해서는 딱히 말하고 싶지 않아.
 
 [name="凯尔希"]我们一直欢迎与我们有共同想法的人，但任何一种思想都不该是强制的。
+[name="ケルシー"]我々は志を同じくする者を歓迎するが、その一方で、いかなる思想であろうと、それを強制されるべきではないと考えている。
+[name="Kal'tsit"]We welcome those who share our ideology, but, of course, ideologies are not to be imposed on anyone.
+[name="켈시"]우리는 뜻이 같은 자들을 언제나 환영하지만, 또 한편으로는 그 어떤 사상도 강요받아서는 안 된다고 생각해.
 
 [name="凯尔希"]但......罗德岛确实需要能和我们同行的人。
+[name="ケルシー"]しかし……ロドスが、我々と歩みを共にする者を必要としていることもまた、確かな事実だ。
+[name="Kal'tsit"]That said... We need members who can walk this journey with us.
+[name="켈시"]하지만…… 확실히 로도스 아일랜드에는 함께할 사람이 필요해.
 
 [name="凯尔希"]煌，如果你还没有做好准备，我认为那也很正常。没人会逼迫你做任何事。
+[name="ケルシー"]ブレイズ。まだ心の準備ができていないのなら、それもまた正常な反応だ。誰も、君に何かを強制することはないと伝えておこう。
+[name="Kal'tsit"]Blaze, it's natural if you aren't ready, and none of us will force you to do anything.
+[name="켈시"]블레이즈, 네가 아직 마음의 준비가 안 됐다고 해도 그 역시 지극히 정상이야. 누구도 네게 무언가를 강요하지 않을 거야.
 
 [name="凯尔希"]但如果你已经准备好了......
+[name="ケルシー"]だが、もし心の準備ができたのなら……
+[name="Kal'tsit"]But if you are ready...
+[name="켈시"]하지만 이미 마음의 준비가 되었다면……
 
 [name="凯尔希"]到舰桥下层来，打开楼梯左边的那扇门。我们会在那里等你。
+[name="ケルシー"]ブリッジの下の階へ行き、階段左側の扉を開くといい。我々は、そこで君を待っている。
+[name="Kal'tsit"]Come to the lower deck of the bridge and open the door to the left of the stairs. We will be waiting for you there.
+[name="켈시"]함교 아래층으로 가서, 계단 좌측에 있는 문을 열어. 거기서 기다리고 있을 테니까……
 
 [name="煌"]......她是这么说的。
+[name="ブレイズ"]……って言ってたんだよね。
+[name="Blaze"]That's what she said...
+[name="블레이즈"]……라고 하던데.
 
 [name="煌"]Ace，你知道凯尔希医生说的是什么事吗？
+[name="ブレイズ"]ねぇ、Ace。ケルシー先生が何のことを言ってたか……分かる？
+[name="Blaze"]Ace, do you know what Dr. Kal'tsit was talking about?
+[name="블레이즈"]에이스, 혹시 닥터 켈시가 무슨 이야기를 하려는 건지 알아?
 
 [name="Ace"]真的需要我直说？你不是说自己已经有猜测了？
+[name="Ace"]俺から言う必要なんてあるのか？　察しはついてるんだろ？
+[name="Ace"]You really need me to tell you? I thought you said you had your guesses?
+[name="에이스"]내가 얘기해야 하나? 짚이는 게 있다면서?
 
 [name="煌"]确实......是有啦。不过总还是有点没底。
+[name="ブレイズ"]まあ……そうだけどさ。でも、確信はないっていうか……
+[name="Blaze"]I do, but... I don't know for sure.
+[name="블레이즈"]그렇긴 한데…… 뭔가 조금 확신이 안 선다고나 할까.
 
 [name="煌"]能让那个凯尔希医生这么正式地找我通知的事，左右就那些。
+[name="ブレイズ"]あのケルシー先生が改まって私に通知してくることって考えたら、大体見当がつくよ。
+[name="Blaze"]There are only so many things that Dr. Kal'tsit would talk to me about, especially all formally like that.
+[name="블레이즈"]닥터 켈시가 공식적으로 통보할 정도의 일이라면 아마도 그게 아닐까 싶어.
 
 [name="煌"]......是不是我也有机会和Ace你做真正的同僚了？
+[name="ブレイズ"]……私にも、Aceと本当の同僚になるチャンスが回ってきたってことだよね？
+[name="Blaze"]So I guess maybe she's giving me a chance to do what you do?
+[name="블레이즈"]……에이스, 너와 진짜 동료가 될 기회가 내게 온 거지?
 
 [name="Ace"]差不多。看来你确实心里有数。
+[name="Ace"]まあ、そんなところだな。やっぱり分かってるじゃないか。
+[name="Ace"]More or less. Looks like you know the score.
+[name="에이스"]뭐 대충. 제대로 짚었네.
 
 [name="煌"]我又不傻。
+[name="ブレイズ"]私だってバカじゃないからね。
+[name="Blaze"]I'm not stupid.
+[name="블레이즈"]나 바보 아니라니까.
 
 [name="煌"]哎，但是怎么说呢，像做梦一样，挺不真实的。
+[name="ブレイズ"]はぁ……でも、なんだか現実味がなくてさ。夢みたいっていうか。
+[name="Blaze"]Well, how should I put this? It's like a dream. It doesn't feel real.
+[name="블레이즈"]하아, 그런데 뭐랄까, 뭔가 꿈같아서 실감이 나지 않아.
 
 [name="Ace"]嗯？
+[name="Ace"]何でだ？
+[name="Ace"]Hm?
+[name="에이스"]왜?
 
 [name="煌"]就是，其实我从来没觉得我有哪儿比其他人更强，比起你们，我差得远了。
+[name="ブレイズ"]だって……私は自分が他の人より強いと思ったことなんてないし、君たちと比べたらまだまだでしょ。
+[name="Blaze"]Like, I've never thought of myself as stronger than anyone else here. I still have a ways to go to match any of you.
+[name="블레이즈"]왜냐면…… 사실 난 다른 사람보다 강하다고 생각한 적이 단 한 번도 없어. 너희랑 비교해도 한참 멀었잖아.
 
 [name="Ace"]煌，你——
+[name="Ace"]お前なあ――
+[name="Ace"]Blaze, you—
+[name="에이스"]블레이즈, 너……
 
 [name="阿米娅"]啊，煌，你在这里！
+[name="アーミヤ"]あっ、ブレイズさん。ここにいたんですね！
+[name="Amiya"]Oh, Blaze, there you are!
+[name="아미야"]아! 블레이즈 씨, 여기 계셨군요!
 
 [name="阿米娅"]我找你好久了！
+[name="アーミヤ"]ずっと捜してたんですよ！
+[name="Amiya"]I've been looking for you!
+[name="아미야"]한참 찾았잖아요!
 
 [name="煌"]嗯？啊，是小兔子！
+[name="ブレイズ"]ん？　あら、ウサギちゃんじゃない！
+[name="Blaze"]Hm? Oh, it's the little rabbit!
+[name="블레이즈"]어머? 우리 토깽이 왔구나!
 
 [name="煌"]找我？哎，小心点，别摔了......这次怎么这么热情，我好高兴啊！
+[name="ブレイズ"]捜してたって、私を？　あっ、転ばないよう気をつけてね。もう、どうして今日はそんなに積極的なの？　嬉しいなー！
+[name="Blaze"]You're looking for me? Hey, careful. Don't trip... Look how bouncy you are! You're just a delight!
+[name="블레이즈"]날 찾고 있었어? 엇, 넘어지지 않게 조심해…… 오늘은 왜 이렇게 적극적이야, 나 너무 기분 좋은데?
 
 [name="阿米娅"]哎？哎，等咦下煌你憋捏窝的脸！
+[name="アーミヤ"]ひゃっ？　わ、やめへふらはい！　ふれいふはん、ん～っ！　……はあ、もう、ほっぺをつまむのはやめてください！
+[name="Amiya"]Eh? B-Blaze, stahp squishing mah face!
+[name="아미야"]엇? 어엇…… 흐즈므여, 브레으즈 씌. 제 을글에서 슨 떼세여!
 
 [name="煌"]别这么小气嘛！
+[name="ブレイズ"]ケチケチしないでよ、減るもんじゃないんだし！
+[name="Blaze"]Come on. What's the harm?
+[name="블레이즈"]째째하게 굴긴!
 
 [name="Ace"]（看来有些话不用我来说了......）
+[name="Ace"]（……俺が言うまでもないらしいな。）
+[name="Ace"](Looks like I needn't say anything then...)
+[name="에이스"](내가 굳이 안 나서도 되겠네……)
 
 [name="Ace"]（阿米娅，就交给你了。）
+[name="Ace"]（後は任せたぞ、アーミヤ。）
+[name="Ace"](Amiya, I'm leaving her to you.)
+[name="에이스"](아미야, 네게 맡기마. 잘해 봐.)
 
 [name="Ace"]加油吧。一会见。
+[name="Ace"]じゃあ、頑張れよ。また後でな。
+[name="Ace"]Well then, I'll see you later.
+[name="에이스"]그럼 이따 봐.
 
 [name="煌"]啊？等等，Ace......
+[name="ブレイズ"]え？　ちょっ！？　待ってよ、Ace……
+[name="Blaze"]Huh? Wait, Ace...
+[name="블레이즈"]엇? 잠깐만, 에이스……
 
 [name="煌"]走掉了。这家伙跑那么快干什么。
+[name="ブレイズ"]……行っちゃった。あいつ、あんなに急いでどこへ行くんだろ。
+[name="Blaze"]He's gone. Where's the fire?
+[name="블레이즈"]가버렸네. 뭐가 그렇게 급하다고.
 
 [name="阿米娅"]Ace先生应该是还有别的工作要做。
+[name="アーミヤ"]きっとAceさんは、まだお仕事が残ってるんですよ。
+[name="Amiya"]Ace probably still has work to finish.
+[name="아미야"]에이스 씨에게 다른 볼일이 있었나 봐요.
 
 [name="阿米娅"]对、对了，煌！你已经吃过东西了吗？今天食堂做了你喜欢的炒菜，要不要一起去？
+[name="アーミヤ"]え、えっとそれで、ブレイズさん！　もうご飯は食べました？　今日はブレイズさんの好きなあのメニューですよ。一緒に食堂へ行きませんか？
+[name="Amiya"]R-Right, Blaze! Have you eaten yet? The cafeteria made your favorite stir-fry today. Would you like to go together?
+[name="아미야"]아, 참, 블레이즈 씨! 식사는 하셨어요? 오늘 식당에 블레이즈 씨가 좋아하는 메뉴가 나왔던데, 같이 갈래요?
 
 [name="阿米娅"]还有上回你说喜欢的那张CD，我问干员极境借来了......要一起听吗？
+[name="アーミヤ"]そ、それから、前にブレイズさんが好きだと言っていたCDも！　エリジウムさんから借りてきたんです……い、一緒にどうですか？
+[name="Amiya"]Also, I borrowed the CD you said you liked from Operator Elysium... Want to listen to it together?
+[name="아미야"]그리고 지난번에 좋아한다고 했던 CD 있잖아요. 제가 엘리시움 씨한테서 빌려왔는데…… 같이 듣지 않을래요?
 
 [name="煌"]哇，欸，是那家伙特别宝贝的那张？要听，当然要听！
+[name="ブレイズ"]わあ、それってあいつが超大事にしてるやつだよね？　聴く聴く、もちろん聴くよ！
+[name="Blaze"]Whoa, you mean his favorite? Of course!
+[name="블레이즈"]와오, 녀석이 엄청 아끼는 그거? 당연히 들어야지!
 
 [name="煌"]不过......怎么了小兔子，你今天真的热情得有点反常哦？
+[name="ブレイズ"]でも……今日は一体どうしちゃったの？　ウサギちゃん。積極的を通り越して、ちょっと変だよ？
+[name="Blaze"]But... What's the matter, little rabbit? You seem way too enthusiastic today.
+[name="블레이즈"]그런데…… 토깽이 너, 오늘따라 유난히 열정적인데?
 
 [name="阿米娅"]唔，很明显吗......？
+[name="アーミヤ"]うっ……そ、そんなに分かりやすいですか……？
+[name="Amiya"]Hmm... Is it obvious?
+[name="아미야"]어머…… 티, 티 났어요?
 
 [name="煌"]超级明显！
+[name="ブレイズ"]うん、すーっごく分かりやすいかな！
+[name="Blaze"]Super obvious!
+[name="블레이즈"]엄청 티 나!
 
 [name="阿米娅"]那个，对不起，煌，我刚刚稍微听到了一点你和Ace先生的对话......
+[name="アーミヤ"]その……ごめんなさい、ブレイズさん。Aceさんとお話していたのが、少し聞こえてしまって……
+[name="Amiya"]Um, sorry, Blaze... I overheard your conversation with Ace...
+[name="아미야"]그게…… 죄송해요, 블레이즈 씨. 방금 에이스 씨와 말씀하시는 걸 조금 들었어요……
 
 [name="煌"]嗯？啊......
+[name="ブレイズ"]なーんだ、そういうことね。
+[name="Blaze"]Hm? Oh...
+[name="블레이즈"]응? 아……
 
 [name="煌"]别这样，别在意，来笑一笑，嗯，这样就对了。别垮着脸，没必要道歉啊，本来也就没什么要隐瞒的。
+[name="ブレイズ"]ほらほら、そんな顔しないの。気にしなくていいから……ね、笑ってみせて？　……うん、その顔が一番。そもそも、謝る必要なんてないから！　隠すことでもないんだからさ。
+[name="Blaze"]Don't worry so much about that. Smile. Yep, that's right. Turn the frown upside down. There's no need to apologize. I wasn't trying to hide anything anyway.
+[name="블레이즈"]괜찮아, 신경 쓸 것 없어. 자, 웃어봐. 그래, 그렇게. 얼굴 펴. 사과하지 않아도 돼. 어차피 숨길 일도 아니야.
 
 [name="煌"]你也听到了，就像我和Ace说的那样，凯尔希为什么找我，我大概能猜到一点。
+[name="ブレイズ"]聞こえてたと思うけど……ケルシー先生に呼ばれた理由、大体見当がついてるんだ。
+[name="Blaze"]Well, you heard it yourself. I have a good idea why Dr. Kal'tsit wants to see me.
+[name="블레이즈"]너도 들어서 알겠지만, 아까 에이스랑 이야기한 것처럼 켈시 선생님이 날 찾은 이유를 대충은 짐작하고 있어.
 
 [name="煌"]如果我想得没错，阿米娅你应该也是知情的吧？
+[name="ブレイズ"]アーミヤちゃんも知ってるんでしょ？
+[name="Blaze"]If my hunch is correct, you probably know what this is about, right, Amiya?
+[name="블레이즈"]아미야도 분명 알고 있겠지?
 
 [name="阿米娅"]嗯......
+[name="アーミヤ"]はい……
+[name="Amiya"]Yeah...
+[name="아미야"]네에……
 
 [name="煌"]果然。
+[name="ブレイズ"]やっぱりね。
+[name="Blaze"]I knew it.
+[name="블레이즈"]역시.
 
 [name="煌"]所以，你刚刚那是怕我有压力，想逗我开心？你可真可爱，阿米娅！
+[name="ブレイズ"]ってことは、私がプレッシャーを感じてないか心配して和ませに来てくれたのかな？　もう、君ったら本当に可愛いんだから！
+[name="Blaze"]Were you trying to cheer me up because you were worried it was giving me too much stress? You're so cute, Amiya!
+[name="블레이즈"]그러니까 내가 부담을 가질까 봐 날 즐겁게 해주려던 거였어? 하여간 아미야는 귀엽다니까!
 
 [name="阿米娅"]哎，你别总说这种话......
+[name="アーミヤ"]ああっ、またそういうことばっかり言って……
+[name="Amiya"]Please stop saying that...
+[name="아미야"]앗, 자꾸 놀리지 말아요……
 
 [name="煌"]好了，不逗你了，说正经的。
+[name="ブレイズ"]ごめんごめん、もうからかわないよ。ちゃんと話そう。
+[name="Blaze"]Okay, I'll knock it off. Let's get serious.
+[name="블레이즈"]알았어. 놀리지 않고 진지하게 말할게.
 
 [name="煌"]我啊，确实没那么有自信，总觉得自己还差得远呢。
+[name="ブレイズ"]私はね……正直そんなに自信もないし、自分の実力じゃ、まだみんなの背中に遠く及ばないような気がしてるんだ。
+[name="Blaze"]I'm really not that confident in myself, and I really think I have a ways to go, too.
+[name="블레이즈"]난 말이야…… 그렇게 자신도 없고, 아직도 많이 부족하다고 생각하거든.
 
 [name="煌"]实际上，你看，没有Mechanist设计的武器，之前的任务我想救援小队都很难。
+[name="ブレイズ"]だってさ、考えてもみてよ。Mechanistが設計した武器がなかったら、この間の任務で小隊を救うことすら出来なかったんだよ？
+[name="Blaze"]Look, the thing is... if I didn't have the weapon that Mechanist designed, I don't think I could've been any help to my team at all.
+[name="블레이즈"]솔직히 메커니스트가 설계한 무기가 없었다면, 저번에 팀을 구하는 것조차 무척 버거웠을 거야.
 
 [name="煌"]哈......
+[name="ブレイズ"]はぁ……
+[name="Blaze"]*Sigh*...
+[name="블레이즈"]하아……
 
 [name="煌"]说真的，阿米娅，我真的能行吗？
+[name="ブレイズ"]ねぇ、アーミヤちゃん。真面目な話……本当に、私なんかが務まるのかな？
+[name="Blaze"]I mean it, Amiya. Can I really do it?
+[name="블레이즈"]아미야, 솔직히 말해줘. 내가 정말 할 수 있을까?
 
 [name="阿米娅"]......刚刚我听到煌问Ace先生的问题，就觉得一定要把我的想法说出来才行。
+[name="アーミヤ"]……さっき、Aceさんと話している声が聞こえた時、絶対に私の考えを伝えなくちゃって思ったんです。
+[name="Amiya"]When I heard you ask Ace just now, I thought I had to tell you how I feel...
+[name="아미야"]……아까 에이스 씨랑 나누던 대화를 들으면서, 제 생각을 꼭 블레이즈 씨에게 전해야겠다고 생각했어요.
 
 [name="煌"]我听着呢。阿米娅，你的话我一向都有好好听着的。
+[name="ブレイズ"]そう……それじゃあ、聞かせて。アーミヤちゃんの話は、いつだってよく聞くようにしてるからね。
+[name="Blaze"]I'm listening, Amiya. I always listen to what you have to say.
+[name="블레이즈"]들려줘, 아미야. 난 네 말이라면 언제나 잘 듣는 편이었잖아.
 
 [name="阿米娅"]煌是为了获得某种头衔才努力的吗？
+[name="アーミヤ"]ブレイズさんは、肩書き欲しさに努力しているんですか？
+[name="Amiya"]Are you working hard because you're trying to earn some kind of title, Blaze?
+[name="아미야"]혹시 블레이즈 씨는 어떤 직함을 위해 노력하는 건가요?
 
 [name="煌"]当然不是。
+[name="ブレイズ"]もちろん、違うよ。
+[name="Blaze"]Of course not.
+[name="블레이즈"]그럴 리 없잖아.
 
 [name="阿米娅"]对吧！煌你不是为了成为什么而努力，实际上恰好相反，正因为煌你是这样的人，我们才会认为你适合某种位置......
+[name="アーミヤ"]そうですよね！　ブレイズさんは何かになるために努力しているわけではなくて、むしろその真逆の人だと思います。そんなあなただからこそ、この役目に相応しいと私たちは考えたんです。
+[name="Amiya"]Right? Blaze, you're putting in so much work not to become something. It's actually the opposite. It's because you are who you are that we think you are the right person for the job...
+[name="아미야"]그렇죠? 블레이즈 씨는 뭔가가 되기 위해 노력하는 게 아니라 되려 그 반대잖아요. 바로 그렇기 때문에 오히려 우리는 블레이즈 씨가 그 자리에 어울린다고 생각하는 거예요……
 
 [name="阿米娅"]事实上，大家已经都很信任你了，不是吗？
+[name="アーミヤ"]実際、誰もがブレイズさんを信頼しています。
+[name="Amiya"]And everyone trusts you already, don't they?
+[name="아미야"]사실 모두들 블레이즈를 무척 신뢰하고 있어요, 그렇죠?
 
 [name="阿米娅"]从叙拉古任务中回来的小队成员，都对我这样说——
+[name="アーミヤ"]シラクーザの任務から戻った隊員たちは、口を揃えてこう言っていました――
+[name="Amiya"]Everyone who came back from the mission in Siracusa told me this—
+[name="아미야"]시라쿠사 임무를 마치고 돌아온 팀원들 모두 이렇게 말했어요……
 
 [name="阿米娅"]“多亏了煌”。
+[name="アーミヤ"]「ブレイズのお陰だ。」
+[name="Amiya"]'It's all thanks to Blaze.'
+[name="아미야"]“블레이즈 덕분이야.”
 
 [name="阿米娅"]“如果没有最后切开墙体的大个子，任务不可能顺利完成”。
+[name="アーミヤ"]「封鎖障壁を切り開くことができなければ、そう簡単には任務を終えられなかった」って。
+[name="Amiya"]'If it wasn't for her cutting open that wall, we couldn't have finished the mission.'
+[name="아미야"]“마지막 순간에 벽을 잘라버린 키다리가 없었다면 임무를 순조롭게 마치진 못했을 거야”라고요.
 
 [name="煌"]也、也不是我厉害，是多亏了Mechanist给我的装备......
+[name="ブレイズ"]す、すごいのは私じゃないから。全部Mechanistがくれた装備のお陰で……
+[name="Blaze"]T-That doesn't say anything about me. It's all thanks to what Mechanist gave me...
+[name="블레이즈"]그, 그건 내가 강해서 그런 게 아니라 메커니스트한테서 얻은 장비 덕분에……
 
 [name="阿米娅"]但如果不是煌，这种特制的大型装备，其他人根本没有办法很好地使用。
+[name="アーミヤ"]ですが、ブレイズさん以外にこんな大型の特製装備を使いこなせる人はいません。
+[name="Amiya"]But no one else could've used such massive equipment as well as you did.
+[name="아미야"]하지만 블레이즈 씨만큼 특제 대형 장비를 다룰 수 있는 사람도 없는걸요.
 
 [name="煌"]呃。
+[name="ブレイズ"]っ……
+[name="Blaze"]Uhh...
+[name="블레이즈"]어……
 
 [name="阿米娅"]如果不是煌，Ace先生或许也会选择更稳妥的战术。
+[name="アーミヤ"]もしブレイズさんがいなかったら、Aceさんも速攻とは程遠い安全重視の戦術を選ばざるを得なかったかもしれません。
+[name="Amiya"]If it wasn't for you, Ace might've gone with a safer plan.
+[name="아미야"]만약 블레이즈 씨가 없었다면 에이스 씨도 더 안전한 전술을 선택할 수밖에 없었을 거예요.
 
 [name="阿米娅"]你看，煌已经是大家信赖的对象，是团队里不可缺少的一份子了。其实这才是最重要的。
+[name="アーミヤ"]ですから……ブレイズさんは既にみなさんからの信頼に足る人で、ロドスにとってなくてはならない存在なんです。実のところ、それこそが一番大事なことなんですよ。
+[name="Amiya"]See? Everyone trusts you, and you are an inseparable part of the team now. This is the most important thing.
+[name="아미야"]보세요, 블레이즈 씨는 이미 모두에게 믿음을 주는, 팀에 없어서는 안 될 존재라고요. 이것이야말로 가장 중요한 거라고요.
 
 [name="煌"]阿米娅......
+[name="ブレイズ"]アーミヤちゃん……
+[name="Blaze"]Amiya...
+[name="블레이즈"]아미야……
 
 [name="阿米娅"]我只是想说——不是我们给你头衔，让你承担一种身份。
+[name="アーミヤ"]私が言いたいのは――ブレイズさんにその役割を負わせるために肩書きを与えようとしているのではない、ということです。
+[name="Amiya"]I'm just trying to say—We aren't giving you the title so that you can take the job.
+[name="아미야"]제가 하고 싶은 말은요…… 블레이즈 씨에게 어떤 역할을 맡기기 위해 직함을 주는 게 아니라는 것이에요.
 
 [name="阿米娅"]而是煌你自己的行动决定了这一切。是你自己选择成为某种人，选择担起一种责任。
+[name="アーミヤ"]全て、ブレイズさんの行動が築き上げた結果なんです。あなたがどんな人でありたいかを考え、責任を負うことを選んできた結果なんですよ。
+[name="Amiya"]It's your own actions that decided all of this, Blaze. You chose to become a certain kind of person, and you have chosen to take on that responsibility.
+[name="아미야"]오히려 모든게 다 블레이즈 씨의 행동이 일궈낸 결과예요. 당신이 스스로 그런 사람이 되려 했고, 그에 맞는 책임을 짊어질 것을 선택한 거예요.
 
 [name="阿米娅"]如果我们想要的只是强大的战力，那换个其他人也可以。想要强大的怪物，这个人不是煌也一样可以。
+[name="アーミヤ"]もし、ロドスが必要としているのが単なる強さや戦力だけなら、他の人でも構いません。強大な怪物級の力が必要というだけなら、それはブレイズさんじゃなくてもいいんです。
+[name="Amiya"]If all we wanted was combat capability, we could've asked somebody else. If we wanted a big pile of muscle, we didn't have to ask you.
+[name="아미야"]저희가 원하는 게 단지 강한 전투력이었다면, 누구라도 상관없어요. 단지 막강한 괴물급 힘이 필요했더라면, 그게 블레이즈 씨가 아니어도 괜찮았을 거예요.
 
 [name="煌"]我不太喜欢怪物这个词。
+[name="ブレイズ"]怪物っていう言葉は……あんまり好きじゃないんだけど……
+[name="Blaze"]Does that mean what I think it means?
+[name="블레이즈"]괴물이라는 단어가 영 거슬리네.
 
 [name="阿米娅"]哎，我不是那个意思......
+[name="アーミヤ"]あっ、そういう意味ではなくて……
+[name="Amiya"]Uh, no, probably not...
+[name="아미야"]앗, 그런 뜻이 아니라……
 
 [name="阿米娅"]只是，我只是想说！罗德岛需要的不是只有实力的人！
+[name="アーミヤ"]つ、つまりですね、私が言いたいのは！　ロドスが必要としているのは、単に実力があるだけの人じゃないってことなんです！
+[name="Amiya"]I-I'm just trying to say that strength isn't the only thing Rhodes Island is looking for!
+[name="아미야"]제, 제 말은, 로도스 아일랜드가 필요한 건 단순 실력만 좋은 사람이 아니라는 거예요!
 
 [name="阿米娅"]煌要对自己更有信心一点。也要对我们更有信心一点！
+[name="アーミヤ"]ですからブレイズさん、もっと自分に自信を持ってください。もっと私たちを信じてください！
+[name="Amiya"]You should believe in yourself, Blaze, and believe in us!
+[name="아미야"]그러니까 블레이즈 씨, 자신감을 가지세요. 그리고 저희를 더 믿어주세요!
 
 [name="阿米娅"]如果你已经做好了决定，我会陪着你一起的。
+[name="アーミヤ"]もし気持ちが決まっているなら、私も一緒に行きますから。
+[name="Amiya"]If you've made your decision, I'm ready to go with you.
+[name="아미야"]이미 마음의 결정을 했다면 제가 함께 가드릴게요.
 
 [name="煌"]......
+[name="ブレイズ"]……
+[name="Blaze"]......
+[name="블레이즈"]……
 
 [name="煌"]好了，好了好了......哎，我都要脸红了。
+[name="ブレイズ"]はいはい……も～う、顔が熱くなっちゃうじゃない。
+[name="Blaze"]Okay, okay... Sheesh, my whole face is going red.
+[name="블레이즈"]네네…… 알겠습니다! 덕분에 얼굴이 막 달아오르잖아.
 
 [name="煌"]别说了小兔子。我明白你的意思了。
+[name="ブレイズ"]オッケー、ウサギちゃん。君の言いたいことはよーく分かったよ。
+[name="Blaze"]Enough, little rabbit. I know what you're trying to say.
+[name="블레이즈"]그만해도 돼, 토깽아. 네 뜻은 알았으니까.
 
 [name="煌"]你说的对。哎呀，你怎么这么会说话啊？
+[name="ブレイズ"]うん、確かに君の言う通りだ。ああもう、なんでそんなに話が上手なの？
+[name="Blaze"]You're right. Jeez, you really have a way with words.
+[name="블레이즈"]그래, 네 말이 맞아. 그리고, 와…… 넌 진짜 무슨 말을 그렇게 잘하니?
 
 [name="阿米娅"]欸嘿嘿......
+[name="アーミヤ"]えへへ……
+[name="Amiya"]Ehehe...
+[name="아미야"]에헤헤……
 
 [name="煌"]好啦，时间也差不多了，我该打起精神去赴约啦。
+[name="ブレイズ"]よーし、そろそろ時間だし、気合い入れて行ってくるよ。
+[name="Blaze"]Okay, it's almost time. I gotta pull it together and go to my meeting now.
+[name="블레이즈"]슬슬 시간이 된 것 같으니 정신 차리고 약속 장소로 가야겠어.
 
 [name="煌"]我可从来没考虑过临阵脱逃。
+[name="ブレイズ"]ま、最初から尻尾巻いて逃げ出すつもりなんてなかったけどね。
+[name="Blaze"]I've never once thought of running away, you know?
+[name="블레이즈"]뭐 애초에 꽁무니 뺄 생각은 없었지만.
 
 [name="阿米娅"]啊，我、我陪你一起过去！
+[name="アーミヤ"]あっ、わ、私もご一緒します！
+[name="Amiya"]Oh, I-I'll come with you!
+[name="아미야"]그, 그럼, 저도 함께 갈게요!
 
 [name="煌"]哦！那我们一起走一段，放轻松。你怎么看起来比我还紧张？
+[name="ブレイズ"]いいよー！　じゃあ途中まで一緒に行こうか、その方がリラックスできそうだし……って、どうして君の方が緊張してるの？
+[name="Blaze"]Great! Let's take a relaxing walk together. How come you look like you're more nervous than I am?
+[name="블레이즈"]그래! 함께 걸으면서 긴장 좀 풀어 볼까? 그런데 어째 네가 나보다 더 긴장한 것 같다?
 
 [name="阿米娅"]我......有吗？
+[name="アーミヤ"]そ……そう見えますか？
+[name="Amiya"]D-Do I...?
+[name="아미야"]그…… 그래 보여요?
 
 [name="煌"]有。笑一笑，板着脸就不可爱了哦？
+[name="ブレイズ"]そりゃもう、カチコチに見えるよ。ほら、笑って。せっかく可愛い顔なんだから！
+[name="Blaze"]Yep. Smile! That frown ruins your cute little face.
+[name="블레이즈"]응, 웃어. 잔뜩 찌푸린 얼굴은 귀엽지 않다고.
 
 [name="阿米娅"]唔。嘿嘿。
+[name="アーミヤ"]え、へへ……
+[name="Amiya"]Nn... hehe.
+[name="아미야"]아, 헤헤.
 
 [name="煌"]嗯，嗯，这样就对了......
+[name="ブレイズ"]うんうん。やっぱり笑顔が一番だよ。
+[name="Blaze"]There we go.
+[name="블레이즈"]그래, 그래. 바로 이거야……
 
 [name="煌"]相信我，不会让你失望的。
+[name="ブレイズ"]……大丈夫。絶対に君を失望させたりしないから。
+[name="Blaze"]Trust me. I won't disappoint you.
+[name="블레이즈"]날 믿어, 실망시키지 않을게.
 
 煌走过昏暗的长走廊。头顶的灯光随着舰船的行进缓缓摇动，在地上晃动出她的影子。
+ブレイズは長く薄暗い廊下を進む。船の航行に伴って頭上の灯りはゆらゆらと揺れ、その動きに合わせるかのように彼女の影もまたゆらめきながら床へと黒く落とされていた。
+Blaze walks down the long, dim hallway. The light above her head gently sways as the landship continues its march forward, causing her shadow on the ground to waver side to side as well.
+블레이즈는 길고 어두컴컴한 복도를 걸어갔다. 머리 위의 불빛은 이동 중인 함선을 따라 한들거렸고, 그 움직임에 맞추기라도 하듯 블레이즈의 그림자 또한 바닥에서 일렁이고 있었다.
 
 这一路上，阿米娅一直陪在她的身边。
+その傍にはアーミヤの影があり、二人は共に進んでいく。
+Amiya has accompanied her on the entire journey to this door.
+그 길을 가는 내내, 아미야는 줄곧 블레이즈와 함께였다.
 
 她推开那扇门。
+そしてブレイズが扉を開いた。
+Then she swings it open.
+블레이즈가 문을 밀어젖혔다.
 
 向下的楼梯昏暗幽长，仿若没有尽头。煌深吸一口气，她走下去，将阿米娅留在身后。
+下へと続く階段は、まるで終わりがないかのように長く、そして仄暗かった。ブレイズは深く息を吸い、アーミヤをそこに残して降りていく。
+The staircase leading down is long and dark, as though truly bottomless. Blaze takes a deep breath and begins her descent, leaving Amiya behind.
+아래로 이어지는 계단은 마치 끝이 없는 것처럼 길고 어두컴컴했다. 깊은숨을 들이마신 블레이즈는 등 뒤에 아미야를 남겨둔 채 계단을 따라 걷기 시작했다.
 
 这一段路，必须由她独自来走。
+ここから先は、彼女一人で進まなければならないのだ。
+She must walk the rest of the way by herself.
+이 길은 반드시 블레이즈 홀로 걸어야 한다.
 
 她看到楼梯露出尽头，她看到尽头处溢出微光，她看到构造冰冷的房间正中放着一张长桌，暖黄的灯光落在四周冰冷的钢筋铁骨上。
+階段の終わりが見え始めると、そこにはぼんやりとした光があるのが分かった。飾り気のない部屋の中央には長机が置かれ、四方を囲む冷たい鉄骨の上から、黄色く暖かな灯りが差している。
+At the bottom of the staircase, Blaze can make out a long table in a room that structurally seems cold as ice, with a warm, yellow light casting upon its steel beams.
+블레이즈는 계단의 끝을 보았다. 그리고 그곳 어딘가에서 새어 나오는 희미한 불빛도 보았다. 한 점 꾸밈이 없는 방 한가운데에는 긴 책상이 놓여 있었고, 사방을 둘러싼 차가운 철골 위로 노랗고 따뜻한 불빛이 내려앉았다.
 
 在灯光下，站着几个或熟悉或陌生的身影。
+そして灯りの下には、見知った人物や見知らぬ人物の姿があった。
+A few familiar figures, some less so, stand under the lamplight.
+불빛 아래, 익숙한 모습도, 낯선 모습도 보였다.
 
 从阴影中走出一个意料之中的熟悉的人。
+一通り周囲を見渡した時、暗闇から見慣れた顔が現れた。
+From the shadows, a person that Blaze is all too familiar with steps forward, just as she expected her to.
+어둠 속에서 예상치 못한 낯익은 얼굴이 나타났다.
 
 [name="凯尔希"]你来了。
+[name="ケルシー"]来たか。
+[name="Kal'tsit"]Here you are.
+[name="켈시"]왔구나.
 
 [name="煌"]虽然有猜到会挺正式的，但还是没想到会是这种阵仗......
+[name="ブレイズ"]堅苦しそうな場だとは思ってたけど、まさかここまで仰々しいなんてねぇ……
+[name="Blaze"]I expected this to be a formal event, but this is quite the party...
+[name="블레이즈"]공식적인 자리라고 예상했지만, 설마 이 정도로 거창할 줄이야……
 
 [name="煌"]Ace，还有Mechanist你们居然都在。呃，还有这位......Logos先生？
+[name="ブレイズ"]あっ、Ace！　それにMechanistもいるじゃない。って……そこにいるのは……Logosさん？
+[name="Blaze"]Both Ace and Mechanist. Uh... and this is... Logos?
+[name="블레이즈"]에이스에, 메커니스트도 있었네. 그리고 이분은…… 로고스 씨?
 
 [name="Logos"]不必行礼。
+[name="Logos"]敬礼はいらぬ。
+[name="Logos"]We're not exchanging cards...
+[name="로고스"]편하게 불러.
 
 [name="煌"]嗯，有你们在总觉得放松多了，刚进门的时候气氛真有点吓人。
+[name="ブレイズ"]よかった、君たちがいてくれてすごく落ち着いたよ。部屋に入る時なんか本当にびくびくしてたんだから。
+[name="Blaze"]Now I feel so much more relaxed with you guys here. I was pretty scared when I opened the door.
+[name="블레이즈"]이렇게 얼굴들을 보니 마음이 한결 편해지네. 아까 방에 들어섰을 때의 그 분위기는 솔직히 좀 소름이 끼쳤는데……
 
 [name="Ace"]毕竟我可是你的保荐人，这种时候不能不出现。
+[name="Ace"]お前を推薦したのは俺なんだぞ。立ち会わないわけにもいかんさ。
+[name="Ace"]I recommended you for the job, so of course I'm here.
+[name="에이스"]어쨌든 난 네 추천인이니 이런 상황에 빠질 수는 없지.
 
 [name="Mechanist"]嘿，原来你这么胆小？
+[name="Mechanist"]おや、君はそんなに小心者だったのか？
+[name="Mechanist"]Ha, I didn't know you were such a coward.
+[name="메커니스트"]후훗. 이제 보니 너 겁쟁이구나?
 
 [name="煌"]站着说话不腰疼！
+[name="ブレイズ"]もう、人の気も知らないで……あんまり面白がらないでよ！
+[name="Blaze"]Easy for you to say from that side of the table!
+[name="블레이즈"]너였으면 안 그랬을 것 같지?
 
 [name="Mechanist"]好了，别贫了，说正事吧。......哎，正好结束之后你和我去工坊，把你手里的家伙再调试一下。
+[name="Mechanist"]分かったから騒ぐなって。仕事の話をしよう……そうだ、いい機会だし、この後一緒に工房へ来てくれ。君が持ってるその武器を調整してやるよ。
+[name="Mechanist"]Okay, enough. Let's get down to business, and once this is done, come with me to the workshop. I want to tune that guy for you a little more.
+[name="메커니스트"]자자, 쓸데없는 잡담은 그만하고 이제 시작해야지…… 마침 끝나고 나랑 함께 공방에 가자. 이참에 너의 무기를 손봐줄게.
 
 [name="煌"]行，我还给你带了礼物呢。
+[name="ブレイズ"]いいよ。私も君に渡したいものがあったし。
+[name="Blaze"]Okay, I got a present for you, too.
+[name="블레이즈"]좋아. 나도 너에게 줄 선물이 있어.
 
 [name="Ace"]好了，别打岔了。
+[name="Ace"]ほら、その辺にしろ。本題に戻るぞ。
+[name="Ace"]Come on, stop interrupting.
+[name="에이스"]그쯤하고, 본론으로 들어가자고.
 
 [name="Logos"]......开始吧。
+[name="Logos"]……ああ、始めようか。
+[name="Logos"]Let's get started.
+[name="로고스"]……시작하지.
 
 [name="凯尔希"]那么我们长话短说。
+[name="ケルシー"]では、手短に進めるとしよう。
+[name="Kal'tsit"]To brass tacks, then.
+[name="켈시"]그럼, 간략하게 진행하기로 할게.
 
 [name="煌"]我听着。
+[name="ブレイズ"]オッケー。
+[name="Blaze"]I'm listening.
+[name="블레이즈"]듣고 있어.
 
 [name="凯尔希"]罗德岛前线作战小队，Ace分队所属，攻坚手煌。
+[name="ケルシー"]ロドス前線作戦小隊、Ace分隊所属、アタッカー・ブレイズ。
+[name="Kal'tsit"]Rhodes Island Frontline Combat Squad, Team Ace, Blaze.
+[name="켈시"]로도스 아일랜드 전선 작전팀, 에이스 분대 소속, 돌격병 블레이즈.
 
 [name="凯尔希"]在这个房间内所有人的见证下，我需要征询你的意见，询问你的选择。
+[name="ケルシー"]この部屋に在るすべての者を証人とし、君の意見と選択を問う。
+[name="Kal'tsit"]With everyone in this room as witnesses, I need to know how you feel, and what your decision is.
+[name="켈시"]이 방에 있는 모든 사람을 증인으로 삼아 너의 의견과 선택을 묻겠다.
 
 [name="凯尔希"]干员煌，你愿意成为罗德岛的精英干员吗？
+[name="ケルシー"]オペレーター・ブレイズ。ロドスのエリートオペレーターとなる意思はあるか？
+[name="Kal'tsit"]Operator Blaze, will you become one of Rhodes Island's elite operators?
+[name="켈시"]오퍼레이터 블레이즈, 로도스 아일랜드의 정예 오퍼레이터가 될 의향이 있는가?
 

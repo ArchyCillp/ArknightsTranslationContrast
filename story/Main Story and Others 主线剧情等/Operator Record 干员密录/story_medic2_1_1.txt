@@ -216,7 +216,7 @@ a.m. 05:30 天気/曇天
 [name="工程干员"]  我的水平肯定比老大差远了......
 [name="エンジニア"]  俺の腕じゃ、クロージャさんには全然及ばないが見るだけみてみるか……。
 [name="Engineering Operator"]  I'm nowhere near my boss's level, for sure...
-[name="엔지니어링 오퍼레이터"]  제 수준은 클로저 씨보다 훨씬 못할 텐데요…….
+[name="엔지니어링 오퍼레이터"]  제 수준은 클로저 씨보다 훨씬 못할 텐데요……
 
 [name="工程干员"]  不过这问题也太简单了吧？！只是一块临时消音组件而已。而且就这么草草地贴在背后，甚至角度都是歪着的。
 [name="エンジニア"]  ……ってこれ、めっちゃ単純じゃねぇか！　ミュートモジュールが背中に付けられてるだけだぞ？　それもこんなに雑に……角度もひん曲がってるし。
@@ -294,7 +294,7 @@ a.m. 05:30 天気/曇天
 [name="엔지니어링 오퍼레이터"]  음…… 누군가 뭔가를 하면 안 된다는 말을 새 음소거 대상으로 바꾼 것 같아. 박사님, 방금 설명한 상황과 일치하죠?
 
 [Decision(options="Lancet-2肯定是想对我说“不要喝咖啡”。", values="1")]
-[Decision(options="そうだな……Lancet-2はきっと「コーヒーを飲むのは控えてください」と言いたかったんだと思う。", values="1")]
+[Decision(options="ああ。さっきのは「コーヒーを飲むのは控えてください」だ。", values="1")]
 [Decision(options="Lancet-2 definitely wanted to tell me 'do not drink coffee.'", values="1")]
 [Decision(options="Lancet-2는 분명 나한테 “커피를 마시면 안 돼요.”라고 하고 싶었던 것 같아.", values="1")]
 

@@ -1,418 +1,1045 @@
 恐怖马丁酒吧
+バー 「テラーマーティン」
+Scary Martin Bar
+술집 '공포의 마틴'
 
 （叮铃）
+――ドアベルの音が店内に響く。
+(Jingle)
+(딸랑)
 
 [name="光头马丁"]  欢迎......
+[name="禿頭マーティン"]  いらっしゃい……
+[name="Bald Marcin"]  Welcome...
+[name="대머리 마틴"]  어서 오……
 
 [name="逃跑的女孩"]  救......救命！
+[name="逃げてきた少女"]  た……助けてください！
+[name="Runaway Girl"]  Help... help me!
+[name="도망치는 소녀"]  도, 도와주세요!
 
 [name="诡异的猎人"]  别跑！抓住她！
+[name="怪しいハンター"]  止まれ！　なあ、そいつを捕まえてくれ！
+[name="Strange Hunter"]  Get back here! Seize her!
+[name="수상한 헌터"]  거기 서! 저 계집애 잡아!
 
 [name="光头马丁"]  唉，我可怜的大门......前天可才刚修好。
+[name="禿頭マーティン"]  はぁ……災難続きだな、うちの扉は……一昨日直したばかりだというのに……
+[name="Bald Marcin"]  Oh, my poor door... only just fixed the day before.
+[name="대머리 마틴"]  하아, 아까운 내 문…… 그저께 막 고친 건데.
 
 [name="逃跑的女孩"]  骑士、骑士大人......救命......
+[name="逃げてきた少女"]  ああ、騎士様……どうか、お助けください……
+[name="Runaway Girl"]  A knight... any knight, please help me...
+[name="도망치는 소녀"]  기, 기사님…… 제발 도와주세요……
 
 [name="诡异的猎人"]  哼，你以为这儿有能救你的骑士？
+[name="怪しいハンター"]  はっ、お前を救う騎士様がこんなところにいるわけねえだろ！
+[name="Strange Hunter"]  Hmph, you think a knight's going to save you here?
+[name="수상한 헌터"]  흥, 이런 곳에 널 구해줄 기사님이 있을 것 같아?
 
 [name="诡异的猎人"]  看清楚了，只不过是家打着骑士幌子的破酒吧！
+[name="怪しいハンター"]  よーく見てみろよ。看板に騎士が描かれてるだけの、ボロっちい酒場じゃねえか。
+[name="Strange Hunter"]  Look around you! It's just a run-down bar pretending it's got anything to do with knights!
+[name="수상한 헌터"]  똑똑히 봐. 여긴 그냥 기사라는 간판 하나 달랑 내걸고 장사하는 낡은 술집일 뿐이야!
 
 [name="诡异的猎人"]  再说，骑士也压根不会理睬你。
+[name="怪しいハンター"]  それにな、騎士もお前みたいな奴に手を差し伸べるわけねえだろ。
+[name="Strange Hunter"]  And no knight would never pay you any attention, besides.
+[name="수상한 헌터"]  게다가 기사가 너 따위를 신경이나 쓸 것 같아?
 
 [name="逃跑的女孩"]  拜托谁救救我，我不想......我不想被卖掉......！
+[name="逃げてきた少女"]  だ、誰か……誰か助けてください！　私は……売られたくなんてありません……！
+[name="Runaway Girl"]  Someone, I'm begging you, help me, please... don't let him take me... don't let him sell me!
+[name="도망치는 소녀"]  부탁드려요, 누구든 제발…… 전 팔려 가고 싶지 않아요!
 
 [name="诡异的猎人"]  这可由不得你。客人们，你们听听，一个已经被明码标价的“商品”想要逃走，还想要寻求骑士的帮忙？
+[name="怪しいハンター"]  この……勝手なことをぬかすんじゃねえ！　なあ、聞いてくれよ、お客さん方。俺からしてみりゃ、値札のついた「商品」が逃げ出して、騎士に助けを求めようとしてるんだぜ？　笑っちまうよな。
+[name="Strange Hunter"]  That's not for you to say. Get an earful of this, bar-goers! 'Chattel' that's already been marked up wants to flee, and wants a knight's help on top of it?
+[name="수상한 헌터"]  그게 어디 네 마음대로 될 것 같아? 다들 들어 봐. 값이 매겨진 '상품'이 제멋대로 도망치고 있어. 게다가 기사에게 도움까지 청하고 있네?
 
 [name="诡异的猎人"]  你大可在这继续大叫，看看有谁会救你！跟我走！
+[name="怪しいハンター"]  ほら、叫びたいなら叫んでみろよ。誰がお前を救ってくれるか見てみようじゃねえか！　行くぞ！
+[name="Strange Hunter"]  Shout your lungs out for all I care, see who comes to save you! Get over here already!
+[name="수상한 헌터"]  어디 네 마음대로 소리 질러 봐. 어차피 널 도와줄 사람은 어디에도 없으니까! 잔말 말고 따라와!
 
 [name="逃跑的女孩"]  不，我......我是被骗的，我根本不是什么“商品”！我才不要来卡西米尔，我要回家......
+[name="逃げてきた少女"]  い、嫌！　わ……私は騙されただけなんです。「商品」なんかじゃありません！　うぅ……カジミエーシュに来るつもりなんてなかったのに……お家に帰りたい……
+[name="Runaway Girl"]  No, I... I was tricked, I'm not 'chattel' or anything! I didn't want to come to Kazimierz, I want to go home...
+[name="도망치는 소녀"]  시, 싫어요…… 전 속은 거예요. 전 '상품'이 아니란 말이에요! 카시미어에 올 생각 따윈 없었다고요. 집에 가고 싶어요……
 
 [name="诡异的猎人"]  哈哈，一个不知名村子里的傻姑娘。
+[name="怪しいハンター"]  ははっ！　ド田舎の人間ってのは何も知らねえんだな。まったくバカなお嬢ちゃんだぜ。
+[name="Strange Hunter"]  Ha-ha. Look at this dumb little girl from a village with no name.
+[name="수상한 헌터"]  하하, 어디 촌구석 출신의 바보 같은 계집애.
 
 [name="诡异的猎人"]  不过是被个故事骗了，说什么也想要到卡瓦莱利亚基当骑士，然后就跟傻瓜似的老实跟着来了......可笑！
+[name="怪しいハンター"]  大方、作り話に騙されて、カヴァレリエルキで騎士になるなんて大それた夢を見ちまった口だろ？　お笑いぐさだな！
+[name="Strange Hunter"]  A make-believe story tricked you, that's what. Wanting to go to Kawalerielki to be a knight? And you came right along like an idiot... that's just comedy!
+[name="수상한 헌터"]  꾸며낸 이야기에 속아 카봐렐리엘키에 가서 기사가 되겠다고 순순히 따라오다니…… 웃기는군!
 
 [name="诡异的猎人"]  正好，服务员，给我来杯酒，喝完我再把这小妞带回去，卖给骑士老爷当个家仆......
+[name="怪しいハンター"]  ちょうどいいや。おいマスター、酒をくれよ。一杯やってから、この小娘を騎士の旦那に売っ払うとしよう……奴隷としてな。
+[name="Strange Hunter"]  Might as well, while I'm here. Server, I'll have a glass for the road, then I'll take this girl with me, sell her to some old knight as a servant...
+[name="수상한 헌터"]  마침 잘 됐어. 이봐, 여기 한 잔 줘! 목 좀 축이고 어디 가서 저 계집애를 늙다리 기사에게 하인으로나 팔아버리게……
 
 [name="光头马丁"]  抱歉，客人。我们这儿不太欢迎做地下勾当的猎人。
+[name="禿頭マーティン"]  悪いね、お客さん。うちの店は悪徳ハンターお断りなんだ。地下で汚い商売をしてるような奴は特に、ね。
+[name="Bald Marcin"]  Sorry, friend. We don't take too kindly to hunters doing shady business 'round here.
+[name="대머리 마틴"]  미안하군, 손님. 우리 가게는 뒷구멍으로 더러운 짓거리나 하는 헌터 따윈 손님으로 받지 않아.
 
 [name="诡异的猎人"]  ......你说什么？
+[name="怪しいハンター"]  ……何だと？
+[name="Strange Hunter"]  ...Come again?
+[name="수상한 헌터"]  ……뭐?
 
 [name="光头马丁"]  你说没有骑士会光临，这句话也是小瞧了我们店。毕竟，这儿刚好可还坐着大名鼎鼎的“锈铜骑士”英格拉大人呢。
+[name="禿頭マーティン"]  それにあんた、ここに騎士がいるわけない、と言っていたが……うちを見くびりすぎじゃないか？　今ここに座ってるお客さんこそ、あの名声轟く「錆銅騎士」イングラさんなんだがね。
+[name="Bald Marcin"]  You were saying we don't get knights in here. Selling our little establishment here short, I think. After all, we've got the bigshot, Sir 'Brassrust Knight' Ingra, sitting right here.
+[name="대머리 마틴"]  게다가 이런 곳에 기사가 있을 리 없다고 했던 말도 우리 가게를 무시하는 말이야. 하물며 명성이 자자한 '녹슨 구리의 기사' 잉그라 님도 계시는 마당에 말이지.
 
 [name="诡异的猎人"]  锈、锈铜......你是说，那个锈铜骑士......！
+[name="怪しいハンター"]  なっ……！　錆銅って……「あの」錆銅騎士か……！？
+[name="Strange Hunter"]  B-Brassrust... you mean, THAT Brassrust Knight...!
+[name="수상한 헌터"]  노, 녹슨 구리…… 설마 그 녹슨 구리의 기사……!
 
 [name="锈铜骑士粉丝"]  （啊？等等，老板，我只是刚好来喝酒，这身装备只是周边......）
+[name="錆銅騎士のファン"]  （えっ？　ちょっ、なあ、マスター……！　俺は酒を飲みに来ただけだし、装備だってただのファングッズだぞ……！！）
+[name="Brassrust Knight Fan"]  (What? Hold on, boss, I only came here to drink. This equipment is just merch...)
+[name="녹슨 구리의 기사 팬"]  (으음? 잠깐만, 사장님. 난 그냥 술 마시러 온 거야. 게다가 이건 단지 굿즈일 뿐인……)
 
 [name="光头马丁"]  （瞪眼）
+[name="禿頭マーティン"]  （いいから、ちょっと協力してくれ。）
+[name="Bald Marcin"]  (Glare)
+[name="대머리 마틴"]  (눈짓한다)
 
 [name="锈铜骑士粉丝"]  （好，好吧......）
+[name="錆銅騎士のファン"]  （わ、分かったよ……）
+[name="Brassrust Knight Fan"]  (A—A'ight...)
+[name="녹슨 구리의 기사 팬"]  (아, 알았어……)
 
 [name="锈铜骑士粉丝"]  “嗝......咳，吵死了。区区一个肮脏的赏金猎人就来烦我？”
+[name="錆銅騎士のファン"]  ご……ほんっ。「さっきからうるせぇな。汚いバウンティハンターごときが、俺の手を煩わせようってのか？」
+[name="Brassrust Knight Fan"]  '*belch*... *hack*. Rowdy wretch. A piffling dirt-wallowing bounty hunter thinks to cross me?'
+[name="녹슨 구리의 기사 팬"]  “크, 크흠…… 시끄러워 죽겠군. 한낱 더러운 바운티 헌터 따위가 날 귀찮게 하는 건가?”
 
 [name="锈铜骑士粉丝"]  “滚出去。”
+[name="錆銅騎士のファン"]  「出て行け、今すぐにな。」
+[name="Brassrust Knight Fan"]  'Out of my sight.'
+[name="녹슨 구리의 기사 팬"]  “썩 꺼져라.”
 
 [name="诡异的猎人"]  呿......听到没，不要让骑士老爷扫兴，和我出去！
+[name="怪しいハンター"]  ちっ……おい、聞こえたな？　騎士の旦那を興ざめさせるんじゃねえよ。行くぞ！
+[name="Strange Hunter"]  Grr... hear that? Come with me, before you ruin a major Knight's day!
+[name="수상한 헌터"]  쳇…… 야, 들었냐? 기사님 쉬시는 데 방해하지 말고, 썩 따라 나와!
 
 [name="光头马丁"]  *卡西米尔粗口*，就没有哪位客人能帮忙把这不守规矩的家伙请出去吗？
+[name="禿頭マーティン"]  *カジミエーシュスラング*……この礼儀知らずを外に出したいんだが、誰か手伝ってくれる奴はいないか？
+[name="Bald Marcin"]  Psia mać, is there anyone here who can kindly show this villain to the door?
+[name="대머리 마틴"]  옘*카시미어 욕설*들을 하네 진짜, 이런 예의라곤 없는 녀석을 쫓아내줄 손님 어디 없나?
 
 [name="逃跑的女孩"]  不，不要......我不要跟你走......
+[name="逃げてきた少女"]  い、嫌……！　私、行きたくない……！
+[name="Runaway Girl"]  N-No... I don't want to go with...
+[name="도망치는 소녀"]  시, 싫어…… 가고 싶지 않아요……
 
 [name="逃跑的女孩"]  呜呜，我不想做别人的家仆，我只想回家......啊！
+[name="逃げてきた少女"]  奴隷になんてなりたくない、お家に帰りたいの……きゃっ！
+[name="Runaway Girl"]  No, no, I don't want to be someone's servant, I just want to go home... ah!
+[name="도망치는 소녀"]  흐흑…… 하녀 따윈 되고 싶지 않아요. 집에 가고 싶어요…… 악!
 
 [name="诡异的猎人"]  *卡西米尔粗口*怎么还不走，给我出去......！
+[name="怪しいハンター"]  おい、*カジミエーシュスラング*！　何してやがる、早く出ろっ……！
+[name="Strange Hunter"]  Do licha, what's the holdup? With me, now...!
+[name="수상한 헌터"]  이런 *카시미어 욕설*, 안 가면 어쩔 건데. 어서 따라나와……!
 
 [name="诡异的猎人"]  呃......啊......！
+[name="怪しいハンター"]  ぐっ……あ……！
+[name="Strange Hunter"]  Guh... agh...!
+[name="수상한 헌터"]  엇…… 크윽……!
 
 [name="诡异的猎人"]  谁......咳、咳啊！
+[name="怪しいハンター"]  だ……げほ、ごほっ、誰だ！
+[name="Strange Hunter"]  Who... *cough*, *hackpth*!
+[name="수상한 헌터"]  누, 누구…… 컥, 커허억!
 
 [name="砾"]  好吵啊~这里在做什么？
+[name="グラベル"]  やかましいわねぇ～。ここで何してるの？
+[name="Gravel"]  Noisy, noisy~. What's the order of the day in here?
+[name="그라벨"]  시끄러워라~ 여기서 뭐 하는 거야?
 
 [name="诡异的猎人"]  *卡西米尔粗口*，你这个偷袭的家伙......呃......！
+[name="怪しいハンター"]  *カジミエーシュスラング*、卑怯だぞ、急に襲ってきやがって……うっ……！
+[name="Strange Hunter"]  Skurwysyny, sneaky asshole... ggh...!
+[name="수상한 헌터"]  뭐야 *카시미어 욕설*, 비겁하게 기습을 하다니…… 커헉……!
 
 [name="砾"]  就这点身手，也敢在卡瓦莱利亚基嚣张吗？
+[name="グラベル"]  その程度の実力で威張り散らすつもりなの？　このカヴァレリエルキで？
+[name="Gravel"]  And who gave you a license to stomp around Kawalerielki like that?
+[name="그라벨"]  겨우 그따위 실력으로 카봐렐리엘키에서 잘난 척하는 거야?
 
 [name="光头马丁"]  呼......还好有人相救。要不然，自己动手可是难免会为了店里的东西手下留情。
+[name="禿頭マーティン"]  ふぅ……ありがとう、助かったよ。自分で手を下すことになれば、店の物を壊さないように手加減しないといけないからね。
+[name="Bald Marcin"]  Phew... good we had a helping hand. Would've had a hard time saving the merchandise on my own.
+[name="대머리 마틴"]  후우…… 도와줘서 고마워. 내가 직접 나섰다면 아마 가게 물건 때문에라도 봐줬을 거야……
 
 [name="锈铜骑士粉丝"]  已经......解决了？过，过了把骑士瘾还不错啊，哈哈......
+[name="錆銅騎士のファン"]  えっと……もう終わったのか？　はは……騎士気分を味わうのもなかなか悪くないな……
+[name="Brassrust Knight Fan"]  Is it... over now? B—Being a knight fan sure pays off sometimes, haha...
+[name="녹슨 구리의 기사 팬"]  벌써…… 끝난 건가? 기사 노릇 하는 기분도 제법 괜찮았는데 말이야, 하하……
 
 [name="光头马丁"]  你是......
+[name="禿頭マーティン"]  ……ん？　君は……
+[name="Bald Marcin"]  You're...
+[name="대머리 마틴"]  으음, 그쪽은……
 
 [name="砾"]  什么嘛，卡瓦莱利亚基这么快就把我忘记了吗？
+[name="グラベル"]  あら～、カヴァレリエルキはもう、あたしのことなんて忘れちゃったのかしら？
+[name="Gravel"]  What, has Kawalerielki been so quick to forget me?
+[name="그라벨"]  뭐야? 카봐렐리엘키가 벌써 날 잊어버린 거야?
 
 [name="砾"]  马丁，以前我可没少来过这儿吧。
+[name="グラベル"]  前はよくここに来てたじゃない？　マーティン。
+[name="Gravel"]  Marcin, I used to come here quiiiite often.
+[name="그라벨"]  예전엔 나도 여기 단골이었는데, 마틴.
 
 [name="光头马丁"]  这个身手......还有你的手臂上......是“条形码”？
+[name="禿頭マーティン"]  その剣さばき……そして、腕にある……「バーコード」……
+[name="Bald Marcin"]  Your technique... and then your arm here... a 'barcode', is it?
+[name="대머리 마틴"]  이 정도의 실력…… 그리고 팔뚝에 있는 건…… '바코드'?
 
 [name="光头马丁"]  ......我想起来了，是你啊，“砾”，你是五月树家族的骑士。
+[name="禿頭マーティン"]  ……ああ、思い出したよ。君だったのか、「グラベル」。マイバウム家の騎士よ。
+[name="Bald Marcin"]  I remember, now... It's you. 'Gravel'. You're a Maypole family Knight.
+[name="대머리 마틴"]  ……기억났어. 너였구나, '그라벨'. 메이폴 가문의 기사.
 
 [name="逃跑的女孩"]  砾......骑士？
+[name="逃げてきた少女"]  騎士……グラベル、様？
+[name="Runaway Girl"]  Gravel... Knight?
+[name="도망치는 소녀"]  그라벨…… 기사님?
 
 [name="砾"]  叫我砾就好。这是我的称呼，可不是什么死板的名号。
+[name="グラベル"]  グラベルって呼んでちょうだい。お堅い称号は抜きにして、ね。
+[name="Gravel"]  You can call me Gravel. It's what I go by, you know. Not any kind of stiffed-up title.
+[name="그라벨"]  그냥 그라벨이라고 불러. 딱딱한 칭호 같은 건 빼고 말이야.
 
 [name="锈铜骑士粉丝"]  骑士？哼，一个骑士竟然从背后偷袭对手，还用着暗杀者的小伎俩。
+[name="錆銅騎士のファン"]  騎士ぃ？　ふん、背後から相手を襲うなんて暗殺者みたいな真似……騎士がするわけないだろ。
+[name="Brassrust Knight Fan"]  Knight? *snort*, a Knight attacking her opponent from behind. Using cheap tricks for assassins, too.
+[name="녹슨 구리의 기사 팬"]  기사? 흥, 뒤에서 습격이나 하고 암살자들이 쓰는 꼼수나 부리는 게 무슨 기사라고?
 
 [name="锈铜骑士粉丝"]  真正的骑士就应该像英格拉大人一样，拥有强大的力量，无法被压制的暴力，只需听到名字便让人闻风丧胆！
+[name="錆銅騎士のファン"]  いいか、真の騎士ってのはイングラさんみたいに強大な力と圧倒的な武力を併せ持ち、名前を聞くだけで皆が震え上がるような存在のことを言うんだよ！
+[name="Brassrust Knight Fan"]  Real knights should be like Sir Ingra, with massive strength, unstoppable force, and a name with the power to drop your guts!
+[name="녹슨 구리의 기사 팬"]  진정한 기사란 잉그라 님처럼 막강한 힘과 압도적인 무력을 갖추고 있어, 이름만 들어도 모두가 벌벌 떠는 그런 존재여야 한다구!
 
 [name="砾"]  真是不好意思，客人，和竞技场里用金钱养出来的那些大明星不一样，我的手段，可都是正儿八经的生存之道。
+[name="グラベル"]  ごめんなさいねぇ、お客さん。競技のためにお金をかけて育てられた大スターと違って～、あたしの技はぜ～んぶ生き残るためのものなのよぉ。
+[name="Gravel"]  So awkward I have to tell you this, Marcin's customer, but unlike those big stars made of money in the arena, my techniques all come from honest-to-gosh survival.
+[name="그라벨"]  손님, 이런 말 하기 미안한데 경기장에서 돈으로 만들어 낸 대스타와는 달리 내 기술은 말 그대로 생존을 위한 것들뿐이라서 말이야.
 
 [name="锈铜骑士粉丝"]  你是看不起竞技骑士？哼，你们征战骑士只会用纳税人的钱......
+[name="錆銅騎士のファン"]  競技騎士を馬鹿にしてるのか？　ふんっ、お前ら征戦騎士なんて血税を食い潰すしか能がないくせに……
+[name="Brassrust Knight Fan"]  You hate the competition knights, is that it? *snort*, all you campaign knights do is drain taxpayer money...
+[name="녹슨 구리의 기사 팬"]  스포츠 기사를 무시하는 거냐? 흥, 너희 출정 기사들은 그저 납세자의 혈세만 탕진하는 주제에……
 
 [name="光头马丁"]  好了，好了。
+[name="禿頭マーティン"]  はいはい、二人ともその辺にしてくれよ。
+[name="Bald Marcin"]  Break it up, break it up.
+[name="대머리 마틴"]  자자, 그만들 해.
 
 [name="光头马丁"]  这老猎人一时半会儿醒不来了，小姑娘，你自己找机会逃出去吧。
+[name="禿頭マーティン"]  ふむ、この悪徳ハンターは当分目覚めそうにないな。お嬢ちゃん、君はこの隙に逃げなさい。
+[name="Bald Marcin"]  This hunter boy's not waking up for a while. Lass, you find yourself an escape.
+[name="대머리 마틴"]  헌터는 당분간 정신을 차리지 못할 테니 도망치려면 기회는 지금뿐이야, 꼬마 아가씨.
 
 [name="光头马丁"]  对了，刚才的见义勇为，还没向砾道谢呢。
+[name="禿頭マーティン"]  それと、そこの勇敢な行動をとってくれたグラベルにお礼を言うのを忘れずにね。
+[name="Bald Marcin"]  Right, and you haven't thanked Gravel for her bravery.
+[name="대머리 마틴"]  그러고 보니 꼬마 아가씨는 방금 도움을 받은 일에 대해 그라벨에게 감사의 인사도 안 했네.
 
 [name="逃跑的女孩"]  谢，谢谢您。
+[name="逃げてきた少女"]  あっ、ありがとうございました。
+[name="Runaway Girl"]  Th-Thank you so much.
+[name="도망치는 소녀"]  가, 감사합니다.
 
 [name="逃跑的女孩"]  原来，您就是砾小姐......
+[name="逃げてきた少女"]  えっと……あなたが、あのグラベルさんだったんですね……
+[name="Runaway Girl"]  You're that Gravel, then...
+[name="도망치는 소녀"]  그러니까, 당신이 그 그라벨 씨로군요……
 
 [name="砾"]  嗯？我可没有那么出名吧。
+[name="グラベル"]  あらぁ？　あたし、そんなに有名な騎士じゃないんだけど～？
+[name="Gravel"]  Hm? Don't tell me I'm famous.
+[name="그라벨"]  응? 나 그렇게 유명한 사람은 아닌데.
 
 [name="逃跑的女孩"]  我，我听说过您，您来过我们的村子！我们的村子附近有很多赏金猎人，而且太远了，很少会有骑士老爷来这儿帮我们赶走他们......
+[name="逃げてきた少女"]  その、昔村に来てくれたって聞きました！　私たちの村の近くには沢山のバウンティハンターがいるんですけど……辺鄙な所にあるので、騎士様が彼らを追い払ってくれることなんて滅多になくて……
+[name="Runaway Girl"]  I've-I've heard about how y-you came to our village once! A lot of bounty hunters operate close by, and it's so far from anywhere else, so the knights barely ever come to help drive them away...
+[name="도망치는 소녀"]  예전에 저희 마을에 와 주신 적이 있다고 들었어요! 마을 주변에 바운티 헌터가 잔뜩 있었는데, 저희 마을이 워낙 외진 곳에 있는지라 저희를 도와 바운티 헌터들을 쫓아내 주시는 기사님들이 거의 없었거든요.
 
 [name="砾"]  过去的事情吗......为了寻找线索，我去过不少地方。不过，这些都是好多年前的事情了。
+[name="グラベル"]  昔、ねぇ。確かに、「手がかり」を探して色んな場所に行ったけど……でも、それって随分前のことよぉ？
+[name="Gravel"]  Old stuff, then... I've been to plenty of places, looking for clues. That was all years ago, though.
+[name="그라벨"]  예전? 단서를 찾으려고 여기저기 다니긴 했는데…… 그래도 무척 오래전 일이야.
 
 [name="砾"]  以你看上去的年纪，根本不会在那时候遇到我......你，是谁？
+[name="グラベル"]  あなたの年齢からして、その頃にあたしと会ってるはずがないと思うんだけどぉ……あなた、だあれ？
+[name="Gravel"]  And you look pretty young. There's no way you could've met me back then... Who are you, hm?
+[name="그라벨"]  지금 네 나이라면 날 만났을 리는 없을 테고…… 너, 누구야?
 
 [name="逃跑的女孩"]  我、我......
+[name="逃げてきた少女"]  わ、私は……
+[name="Runaway Girl"]  I... I...
+[name="도망치는 소녀"]  저, 저는 그러니까……
 
 [name="光头马丁"]  她还在受惊吓的状态，别吓着人了。让她冷静一下吧。
+[name="禿頭マーティン"]  まだ混乱しているんだろう。あんまり怖がらせるものじゃないぞ。少しは落ち着かせてやらないと……
+[name="Bald Marcin"]  She's still in a state of shock. Don't you frighten her. Let her wind down some.
+[name="대머리 마틴"]  아직도 놀란 것 같은데 괜히 겁주지 마. 진정할 때까지 기다려 줘.
 
 [name="光头马丁"]  砾。好久不见。
+[name="禿頭マーティン"]  しかし……グラベル、久しぶりだな。
+[name="Bald Marcin"]  Gravel. Been a long time.
+[name="대머리 마틴"]  오랜만이네, 그라벨.
 
 [name="砾"]  好久不见，马丁。最近老爷子有经常来这吗？
+[name="グラベル"]  ええ、久しぶりね、マーティン。最近はどう？　大旦那様、ここにはよく来てるのかしら～？
+[name="Gravel"]  Long time and no see, Marcin. Is the master of the house still regular here these days?
+[name="그라벨"]  그러네, 마틴. 영감님은 요새도 여기에 자주 오셔?
 
 [name="光头马丁"]  哈哈，他本来就很少来这种人多的地方。从上次听说垂钓的时候掉进湖里摔着了腿以后，就很久没来店里点几份小菜尝尝了。
+[name="禿頭マーティン"]  はは、旦那は元々こんな騒がしい場所へは滅多に来ないよ。たまに来た時は新作のつまみをいくつか頼んでいくんだが……この前、釣りの最中湖に落ちて足を捻ったって聞いてからは暫く来てないね。
+[name="Bald Marcin"]  Hah hah, you know he's not crazy for places like this, full of people. Last I heard, he fell in the lake and broke a leg angling, and now it's been an age since he dropped by to try himself some snacks.
+[name="대머리 마틴"]  하하, 사람 많은 곳을 그리 좋아하지는 않는 분이니까. 지난번에 낚시하다가 호수에 빠져 다리를 다치셨다더니, 식사하러 가게에 들른 지도 한참 되셨어.
 
 [name="砾"]  正好，老爷子没吃的菜就让我来尝尝吧。
+[name="グラベル"]  そう……それなら、大旦那様がまだ食べてない料理でもお毒味しようかしら～。
+[name="Gravel"]  Perfect. I'll have a round of what he hasn't eaten.
+[name="그라벨"]  그렇다면, 영감님이 드시지 않은 걸로 부탁해.
 
 [name="光头马丁"]  你不请小姑娘吃一点？
+[name="禿頭マーティン"]  だったら、この子にも何か食べさせてやらないか？
+[name="Bald Marcin"]  You're not gonna treat the lass to something?
+[name="대머리 마틴"]  저 꼬마 아가씨도 뭐 좀 시켜주지 그래?
 
 [name="砾"]  我是她的救命恩人，怎么还要请人吃饭啊。
+[name="グラベル"]  え～。あたしはこの子の命の恩人なのにぃ、どうして食事まで奢ってあげなきゃいけないのよ～。
+[name="Gravel"]  I'm the girl who saved her life. Why am I paying for her meal on top of it?
+[name="그라벨"]  생명의 은인인 내가 밥까지 사줘야 해?
 
 [name="逃跑的女孩"]  砾，砾小姐，我......
+[name="逃げてきた少女"]  ぐ、グラベルさん、私……
+[name="Runaway Girl"]  G—Gravel, I...
+[name="도망치는 소녀"]  그, 그라벨 씨. 저, 저는……
 
 [name="砾"]  嗯......算了，你先坐到我这边。马丁，上两份菜吧。
+[name="グラベル"]  も～う……しょうがないわね～。ほら、隣に座って。マーティン、料理は二人分でお願い～。
+[name="Gravel"]  Mmn... fine, you just sit down next to me here. Marcin, I'll have two portions.
+[name="그라벨"]  음…… 어쩔 수 없지. 일단 이쪽에 앉아. 마틴, 2인분으로 부탁해.
 
 [name="逃跑的女孩"]  谢谢您，骑士大人......！
+[name="逃げてきた少女"]  あ、ありがとうございます、騎士様……！
+[name="Runaway Girl"]  Thank you, good Knight...!
+[name="도망치는 소녀"]  감사합니다, 기사님……!
 
 [name="光头马丁"]  所以说，你这次回来是为了什么？
+[name="禿頭マーティン"]  それで、今回はどうして戻ってきたんだ？
+[name="Bald Marcin"]  So, what've you come back for this time?
+[name="대머리 마틴"]  그래서 이번엔 왜 돌아온 거야?
 
 [name="砾"]  只是度假而已，来看看掉了水的老爷子身体如何，过两天就得回去了。
+[name="グラベル"]  ただの休暇よぉ。湖に落ちた大旦那様のお見舞いに来たの。何日かしたら帰るわ～。
+[name="Gravel"]  I'm just on vacation, seeing how the master of the house's holding up after his dive. Two days before I have to head back.
+[name="그라벨"]  그냥 휴가를 보내는 중이야. 물에 빠진 영감님이 어떤지도 좀 보고. 며칠 뒤에 다시 돌아가야 해.
 
 [name="光头马丁"]  回去？回哪里去？你就是卡西米尔的骑士，之后肯定是回自己家族长骑的住处啊。
+[name="禿頭マーティン"]  帰るって……どこにだ？　君はカジミエーシュの騎士なんだし、一族の首席騎士の住居に戻らなきゃいけないんじゃないのか？
+[name="Bald Marcin"]  Back? Back where? You're a Knight of Kazimierz. It's wherever your family's Knight Primus lives that you go on back to.
+[name="대머리 마틴"]  돌아간다고? 어디로? 카시미어의 기사이니 당연히 가문의 기사장이 있는 곳으로 돌아와야지.
 
 [name="砾"]  嗯？可是，我已经离开卡西米尔......
+[name="グラベル"]  ……ううん。あたしはもうカジミエーシュを離れたのよ……
+[name="Gravel"]  Hmm? But I've left Kazimierz at this point...
+[name="그라벨"]  으응? 하지만 난 이미 카시미어를 떠났는 걸……
 
 [name="盖克斯基"]  要去哪里，去做什么，想成为什么人是你的自由。
+[name="ガイスキー"]  どこへ行こうと、何をしようと、どんな人間になりたいと願おうと……すべてが、お前の自由だ。
+[name="Gekoski"]  Where you go, what you do, and who you want to become are all your freedom.
+[name="게코스키"]  어디로 가든, 뭘 하든, 어떤 사람이 되든 그건 네 자유다.
 
 [name="盖克斯基"]  只要你坚信，你的决定并不会让你过去的努力白费，也不会玷污了自己的名字。
+[name="ガイスキー"]  自分を信じ続けなさい。そうすれば、お前の決断が過去の努力を無駄にすることも、自らの名を汚すこともないだろう。
+[name="Gekoski"]  So long as you believe, your decisions will justify all that you've striven, and won't ever sully your name.
+[name="게코스키"]  네 결정이 네 지난 노력을 물거품으로 만들지 않을 거라고, 자신의 이름도 더럽히지 않을 거라고 확신한다면……
 
 [name="盖克斯基"]  那你就去吧，砾。
+[name="ガイスキー"]  さあ、行くんだ、グラベル。
+[name="Gekoski"]  So go, Gravel.
+[name="게코스키"]  떠나도 좋다, 그라벨.
 
 [name="砾"]  ......是啊，明明我已经告诉过老爷子自己的决定，还和马丁也道别过了。
+[name="グラベル"]  ……そうよ。あたしは確かに、大旦那様に自分の意思を伝えたし……マーティンにもお別れを言ったはずだけどぉ。
+[name="Gravel"]  No doubt about it... I already told him about my decision, and I even gave you a goodbye.
+[name="그라벨"]  ……그러니까. 난 분명 영감님에게 내 결정을 알렸었고, 마틴에게도 작별 인사를 건넸었는걸.
 
 [name="砾"]  你这忘事的老板，立马就把我的事情给忘记了吧？
+[name="グラベル"]  ほんと、物忘れの激しいマスターねぇ。あたしのことだって、どうせすぐに忘れちゃったんでしょう？
+[name="Gravel"]  You oldies and your forgetfulness. I bet I fell out of your heads straight away, didn't I?
+[name="그라벨"]  아무리 건망증이 심해도 그렇지, 벌써 나에 관한 일들을 잊어버린 거야?
 
 [name="光头马丁"]  哈哈，年纪大了，难免记不得那么多事情。
+[name="禿頭マーティン"]  はは、もう歳だからね。何もかも覚えてられるわけじゃないのさ。
+[name="Bald Marcin"]  Hah hah, I'm getting on in years for sure. Gets hard to remember so many things.
+[name="대머리 마틴"]  허허, 나이를 먹으니 기억력도 예전 같지 않거든.
 
 [name="砾"]  （......不对。马丁的反应......有些奇怪。）
+[name="グラベル"]  （……違う。マーティンの反応は……何か変だわ。）
+[name="Gravel"]  (...No. Marcin's reaction... something's odd about it.)
+[name="그라벨"]  (……뭐지, 이 반응은……? 이상한데……)
 
 [name="砾"]  （发生了那么重要的事情，他竟然会忘记了......？）
+[name="グラベル"]  （あんなに大きな出来事……忘れられる方が不思議だもの……）
+[name="Gravel"]  (Something so huge happened, and now he forgets it...?)
+[name="그라벨"]  (그렇게 중요한 일을 마틴이 잊어버렸다고?)
 
 [name="逃跑的女孩"]  砾小姐，你说的“老爷子”是......
+[name="逃げてきた少女"]  あの、グラベルさん。さっきから言ってる「大旦那様」って……
+[name="Runaway Girl"]  Gravel Knight, the 'master of the house' you mention is...
+[name="도망치는 소녀"]  그라벨 씨, 혹시 그 '영감님'이라는 분이……
 
 [name="光头马丁"]  那可是位大人物，五月树家族的长骑盖克斯基，是过去大名鼎鼎的征战骑士。
+[name="禿頭マーティン"]  マイバウム家の首席騎士、ガイスキー……界隈の大物さ。昔は名を馳せた征戦騎士だった。
+[name="Bald Marcin"]  A name to know for sure. The Maypole family's Knight Primus Gekoski. He used to be a lynchpin of a campaign knight.
+[name="대머리 마틴"]  메이폴 가문의 기사장 게코스키, 과거에 명성을 날렸던 출정 기사님이시다.
 
 [name="光头马丁"]  五月树家族当年的付出，可不是现在这些年轻骑士担得起的。
+[name="禿頭マーティン"]  当時のマイバウム家といったら、今の若い騎士たちとは比べものにならないほど戦場に貢献していたものさ。
+[name="Bald Marcin"]  The young Knights now'd have a shout in hell of investing what the Maypole family did, back in those days.
+[name="대머리 마틴"]  지난날의 메이폴 가문은 지금의 젊은 기사들과는 비교할 수조차 없을 만큼 전장에 공헌했었지.
 
 [name="锈铜骑士粉丝"]  哼，不过，已经是个老东西......
+[name="錆銅騎士のファン"]  ふん、それでも今じゃただの老いぼれだ……
+[name="Brassrust Knight Fan"]  *snort*. Don't forget, though, he's just old news now...
+[name="녹슨 구리의 기사 팬"]  흥, 그래 봤자 이젠 뒷방 늙은이일 뿐이잖아……
 
 [name="砾"]  ......
+[name="グラベル"]  ……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="锈铜骑士粉丝"]  ......我向被冒犯的您的家族和长骑道歉，骑士。
+[name="錆銅騎士のファン"]  ……わ、悪かった……騎士よ、あなたの一族と首席騎士への無礼をお詫びします……
+[name="Brassrust Knight Fan"]  For having offended your family and Knight Primus... I apologize, Knight.
+[name="녹슨 구리의 기사 팬"]  ……당신의 가문과 기사장에게 무례를 범한 점, 사과드립니다, 기사님.
 
 [name="砾"]  下一次，可没有道歉的机会了。
+[name="グラベル"]  次は、お詫びの機会なんてあげないわ。
+[name="Gravel"]  Next time, there won't be a time for sorries.
+[name="그라벨"]  다음엔, 사과할 기회조차 없을 거야.
 
 [name="锈铜骑士粉丝"]  呃......啧。老板，结账！
+[name="錆銅騎士のファン"]  うっ……くそっ。マスター、チェック！
+[name="Brassrust Knight Fan"]  Uh... dgh. Boss, bill!
+[name="녹슨 구리의 기사 팬"]  으윽…… 쳇, 여기 계산!
 
 [name="逃跑的女孩"]  砾小姐，那位五月树家族的骑士，是您......很尊敬的人吗？
+[name="逃げてきた少女"]  グラベルさんは、マイバウム家の騎士様を……その……尊敬しているんですね。
+[name="Runaway Girl"]  Gravel Knight, is that Maypole family Knight someone... you really respect?
+[name="도망치는 소녀"]  그라벨 씨, 혹시 메이폴 가문의 그 기사님은…… 당신이 존경하는 분이신가요?
 
 [name="砾"]  嗯，当然了。托老爷子的福，我没有像其它“商品”那样被限制做那些最底层的工作。
+[name="グラベル"]  当然よぉ。大旦那様のおかげで、あたしは他の「商品」みたいに底辺の仕事をさせられずに済んだんだもの。
+[name="Gravel"]  Mmhm, of course. It was with his blessing I didn't end up like the other 'chattel', stuck in the lowest of all work.
+[name="그라벨"]  응, 맞아. 영감님 덕분에 난 다른 '상품'들처럼 밑바닥 일을 하지 않을 수 있었거든.
 
 [name="砾"]  老爷子给了我去参加训练的机会，我才有了成为骑士的可能性。
+[name="グラベル"]  そう……大旦那様が訓練に参加する機会を与えて下さったから……あたしは騎士になるチャンスを得ることができたのよ。
+[name="Gravel"]  I could only become a Knight because of the training he gave me.
+[name="그라벨"]  또한 영감님이 훈련에 참가할 기회를 주신 덕분에 기사가 될 가능성을 얻게 된 거야.
 
 [name="逃跑的女孩"]  真好啊......能有成为骑士的机会。如果，我也能成为骑士的话，就能回去见到爸爸妈妈了吧......
+[name="逃げてきた少女"]  羨ましいです……騎士になるチャンスをもらえるなんて……もし私も騎士になれたなら、村に戻ってお父さんとお母さんに会うことができるでしょうか……？
+[name="Runaway Girl"]  How nice... having a chance to become a Knight. If... if I could be one too, then maybe I'd be able to return home and see my mom and dad again...
+[name="도망치는 소녀"]  정말 부러워요, 기사가 될 기회를 얻었다니…… 저도 기사가 될 수 있다면 돌아가서 부모님을 만날 수 있을 텐데……
 
 [name="砾"]  ......
+[name="グラベル"]  ……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="砾"]  你已经被刻上商品编号了吗？
+[name="グラベル"]  あなた、もう商品番号は刻まれちゃったの？
+[name="Gravel"]  Have you been marked with a chattel serial number yet?
+[name="그라벨"]  너 벌써 상품 번호가 찍힌 거야?
 
 [name="逃跑的女孩"]  我，我还没有......我是中途逃出来的。
+[name="逃げてきた少女"]  えっと……ま、まだです……途中で逃げてきたので……
+[name="Runaway Girl"]  I-I haven't... I got away midway through.
+[name="도망치는 소녀"]  아, 아직요…… 중간에 도망쳐 나왔어요.
 
 [name="砾"]  勇气可嘉。
+[name="グラベル"]  そう、勇敢ね。
+[name="Gravel"]  That was brave of you. Well done.
+[name="그라벨"]  용기가 가상한걸.
 
 [name="逃跑的女孩"]  砾骑士，您帮了我，会给您带来麻烦吗？我，我知道猎人们不好惹......
+[name="逃げてきた少女"]  でも……私、知ってるんです。ハンターは手に負えない人たちだってこと……だから、グラベルさんが私を助けてくれたことで迷惑を掛けてしまわないか……心配で……
+[name="Runaway Girl"]  Will it—make trouble for you helping me, Gravel Knight? I... I know hunters don't like being messed with...
+[name="도망치는 소녀"]  그라벨 씨, 혹 절 도와주시는 바람에 그라벨 씨가 곤란해지는 건 아닌가요? 저, 저도 알아요. 헌터들이 만만치 않은 상대라는 걸……
 
 [name="砾"]  没关系。这种肮脏的交易早该消失了。
+[name="グラベル"]  大丈夫よぉ。それにこんな汚い取引、消えて当然なんだから。
+[name="Gravel"]  Not to worry. Filthy business like this should've vanished long ago.
+[name="그라벨"]  괜찮아, 이런 더러운 거래는 원래 일찌감치 사라져야 하는 거야.
 
 [name="砾"]  （不，实际上，应该已经彻底消失了才对。）
+[name="グラベル"]  （違う――既に根絶やしにしたはずよ……）
+[name="Gravel"]  (No, more than that. In fact, it should've already completely vanished.)
+[name="그라벨"]  (아니, 사실은 이미 사라졌어야 하는 거지만……)
 
 [name="砾"]  （......先静观其变吧。）
+[name="グラベル"]  （……もう少し、様子を見てみましょう。）
+[name="Gravel"]  (Let's just see for now...)
+[name="그라벨"]  (……일단은 상황을 지켜보는 수밖에.)
 
 [name="砾"]  这个赏金猎人已经不敢再动你，你现在也不是“商品”，不会有人阻拦，赶快回家吧。
+[name="グラベル"]  さて、そこのバウンティハンターはあなたに手出しできないし……あなたはもう「商品」じゃない。だから、早くお家に帰りなさい。
+[name="Gravel"]  This bounty hunter won't dare try anything with you again, and you're not currently 'chattel.' No one will get in your way. Rush back home, hm?
+[name="그라벨"]  저 바운티 헌터는 이제 널 건드리지 못할 거야. 너도 더는 '상품'이 아니고, 누구도 널 막지 않을 거니까, 어서 집으로 돌아가.
 
 [name="逃跑的女孩"]  ......
+[name="逃げてきた少女"]  ……
+[name="Runaway Girl"]  ......
+[name="도망치는 소녀"]  ……
 
 [name="砾"]  怎么了？
+[name="グラベル"]  ん？　どうしたのぉ？
+[name="Gravel"]  What's wrong?
+[name="그라벨"]  왜 그래?
 
 [name="逃跑的女孩"]  我......可是我回不去了啊，砾小姐。
+[name="逃げてきた少女"]  あの……私……帰れないんです。
+[name="Runaway Girl"]  I... can't actually return, Miss Gravel.
+[name="도망치는 소녀"]  저는…… 돌아갈 수 없어요, 그라벨 씨.
 
 [name="逃跑的女孩"]  我没有钱，而且，我不知道自己的家在哪里......
+[name="逃げてきた少女"]  お金もありませんし……それどころか、自分の家がどこにあるかも……分からなくて……
+[name="Runaway Girl"]  I have no money, and besides, I don't know where my home even is...
+[name="도망치는 소녀"]  돈이…… 돈이 없어요. 게다가 집이 어딘지도 모르겠어요……
 
 [name="砾"]  你的家不就在卡西米尔吗？只要报上村子的名字......
+[name="グラベル"]  あなたのお家ってカジミエーシュ領内じゃないのぉ？　それなら、村の名前を言えば……
+[name="Gravel"]  Isn't it right in Kazimierz? Just mention the village name, and...
+[name="그라벨"]  집이 카시미어에 있는 거 아니었어? 마을 이름만 대면……
 
 [name="逃跑的女孩"]  我，我不是卡西米尔人......在很小的时候，我就已经被拐到卡西米尔的村庄来了。
+[name="逃げてきた少女"]  わ、私、カジミエーシュの出身じゃないんです……小さい頃に攫われて……それでカジミエーシュの村に……
+[name="Runaway Girl"]  I-I'm not from here... when I was tiny, I was kidnapped and brought to a Kazimierz village.
+[name="도망치는 소녀"]  저, 전 카시미어 사람이 아니에요…… 어렸을 때 카시미어의 마을로 유괴됐어요.
 
 [name="砾"]  ......
+[name="グラベル"]  ……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="盖克斯基"]  回家？好啊，你的家在哪里？是卡西米尔的哪个村庄？
+[name="ガイスキー"]  家に帰りたい？　いいだろう、家はどこにある？　カジミエーシュのどの村だ？
+[name="Gekoski"]  Go home? Alright, where do you call home? Of all of Kazimierz's villages, which is it?
+[name="게코스키"]  집으로 돌아가겠다고? 그래, 네 집이 어딘데? 카시미어의 어느 마을인 거니?
 
 [name="砾"]  不......不在......
+[name="グラベル"]  ち……違うの……
+[name="Gravel"]  It's... It's not...
+[name="그라벨"]  아…… 아니야……
 
 [name="盖克斯基"]  嗯？
+[name="ガイスキー"]  うん？
+[name="Gekoski"]  Hm?
+[name="게코스키"]  으음?
 
 [name="砾"]  ......我......不是卡西米尔人。
+[name="グラベル"]  ……あたし……カジミエーシュの人じゃないの。
+[name="Gravel"]  ...I'm... not from here.
+[name="그라벨"]  ……난…… 카시미어 사람이 아니야.
 
 [name="盖克斯基"]  那小姑娘，你到底来自哪里？
+[name="ガイスキー"]  それじゃあ、お嬢さんは一体どこから来たんだ？
+[name="Gekoski"]  Then tell, young lady. Just where is it you come from?
+[name="게코스키"]  꼬맹아, 넌 대체 어디서 온 거냐?
 
 [name="砾"]  ......我......不知道。
+[name="グラベル"]  ……わ……わかんない。
+[name="Gravel"]  ...I... don't know.
+[name="그라벨"]  ……난…… 잘 모르겠어.
 
 [name="砾"]  全部都忘记了。
+[name="グラベル"]  全部、忘れちゃった……
+[name="Gravel"]  I forgot everything.
+[name="그라벨"]  하나도 기억이 안 나.
 
 [name="逃跑的女孩"]  我，我想要逃跑，但是已经忘记自己来自哪里......
+[name="逃げてきた少女"]  わ、私、ずっと逃げたくて……でも、自分がどこから来たのか、忘れちゃって……
+[name="Runaway Girl"]  I—I wanted to escape, but I already forgot where I even came from...
+[name="도망치는 소녀"]  저, 전 도망치고 싶었어요. 하지만 어디에서 왔는지 잊어버려서……
 
 [name="逃跑的女孩"]  直到有猎人告诉我，他会带我去找骑士，骑士会带我回家，运气好的话我也会成为骑士。
+[name="逃げてきた少女"]  その……ハンターの人にこう言われたんです。「俺が騎士の元へ連れて行ってやる。そうすれば騎士がお前を家まで送り届けてくれるし、運が良ければお前も騎士になれるぞ」って。
+[name="Runaway Girl"]  And then one day, a hunter told me he could take me to find a Knight, and they'd bring me home, and if I was lucky I could become a Knight myself.
+[name="도망치는 소녀"]  그러다가 어떤 헌터가 저를 기사님에게 데려다주겠다고 했어요. 기사님이 저를 집으로 돌려보내 줄 거라면서…… 운이 좋으면 저도 기사가 될 수 있다고 했어요.
 
 [name="逃跑的女孩"]  我就......被带到了卡瓦莱利亚基。后来我才知道，他们想把我卖掉，让我去侍奉他人。
+[name="逃げてきた少女"]  それで……カヴァレリエルキまで連れてこられて……やっと気が付いたんです。この人たちは、私を奉公先に売り飛ばそうとしてるんだって……
+[name="Runaway Girl"]  So I was... taken to Kawalerielki. I only learned afterwards that they were planning to sell me, and make me serve someone else.
+[name="도망치는 소녀"]  그렇게 해서…… 카봐렐리엘키에 오게 된 거예요. 절 하녀로 팔아넘기려 했다는 건 나중에 알게 됐구요.
 
 [name="逃跑的女孩"]  但是我不想做这些！我想要回家，我是听说他可以带我寻找骑士，带我回家......
+[name="逃げてきた少女"]  でも、私は奉公なんてしたくありません！　お家に帰りたい……だから、あの人の言葉を信じたのに……
+[name="Runaway Girl"]  But that's not what I want to do! I want to go home! What I heard was he could take me to find a Knight, to take me home...
+[name="도망치는 소녀"]  하지만 전 하녀로 팔려가고 싶지 않아요! 집으로 돌아가고 싶어요. 집에 데려다줄 기사님을 찾아주겠다고 해서 전……
 
 [name="光头马丁"]  从这里自己离开卡西米尔，去找到自己的家乡见到父母，对一个年幼的孩子来说根本不可能发生。
+[name="禿頭マーティン"]  自力でカジミエーシュを離れて、自分の故郷を探して両親に会おうだなんて、こんな幼い子供には土台無理な話だ。
+[name="Bald Marcin"]  Leaving Kazimierz by herself, finding her hometown and her parents, that's just asking far too much of a young kid.
+[name="대머리 마틴"]  어린아이 혼자서 카시미어를 떠나 고향과 부모를 찾기란 하늘의 별 따기보다도 어려운 일이지.
 
 [name="砾"]  啧。我知道。
+[name="グラベル"]  はぁ……分かってるわよぉ、そんなことくらい。
+[name="Gravel"]  Grr. I know.
+[name="그라벨"]  쳇, 그건 나도 알아.
 
 [name="砾"]  （我当然知道。这件事......我再清楚不过了。）
+[name="グラベル"]  （嫌ってほどに、ね。）
+[name="Gravel"]  (Of course I know. I couldn't be any clearer about this.)
+[name="그라벨"]  (알고 있다고. 그 일이라면…… 나만큼 잘 아는 사람도 없으니까.)
 
 [name="逃跑的女孩"]  砾小姐，您的手臂上的......是“条形码”？
+[name="逃げてきた少女"]  あの、グラベルさん。その腕にあるのって……「バーコード」、ですか？
+[name="Runaway Girl"]  That thing on your arm... isn't it a 'barcode'?
+[name="도망치는 소녀"]  그라벨 씨, 팔뚝에 그건…… '바코드'인가요?
 
 [name="逃跑的女孩"]  难道说，您......
+[name="逃げてきた少女"]  それじゃあ、あなたは……もしかして……
+[name="Runaway Girl"]  Surely that doesn't mean, you...?
+[name="도망치는 소녀"]  설마, 그라벨 씨도……
 
 [name="砾"]  ......嗯，是啊。
+[name="グラベル"]  ……ええ、そうよ。
+[name="Gravel"]  Yes... it's true.
+[name="그라벨"]  ……응, 맞아.
 
 [name="砾"]  和你不同，我甚至没有从猎人手上逃走的机会，就这样被卖掉了。唯一幸运的是，买走我的老爷子是位大善人，毫无疑问。
+[name="グラベル"]  あなたと違って、ハンターの手から逃れるチャンスがなくてね。売られちゃったのよ～。売られた先の大旦那様が超のつく善人でラッキーだったわぁ。
+[name="Gravel"]  Unlike you, I never had even the chance to flee the hunters, and I got sold straight off. My one bit of luck is the old man who bought me was beyond charitable, without a doubt.
+[name="그라벨"]  하지만 너와 달리, 헌터의 손에서 도망칠 기회조차 없었던 난 상품으로 팔리고 말았어. 딱 하나 운이 좋았던 건, 날 산 영감님이 좋은 사람이었다는 거지, 의심할 바도 없이.
 
 [name="光头马丁"]  不过，能成为骑士完全是靠砾你自己的努力。从平民成为征战骑士，是不会有人不知道其中的艰难的。
+[name="禿頭マーティン"]  だが、騎士になることができたのは、グラベル自身の努力があったからこそだ。平民から征戦騎士になることの難しさは、誰もが知ってるからね。
+[name="Bald Marcin"]  Even so, becoming a Knight was all your own effort. From commoner to a campaign knight... anyone knows why that ain't an easy time.
+[name="대머리 마틴"]  하지만 기사가 될 수 있었던 건 순전히 그라벨 네 노력 덕분이었어. 평민 출신이 출정 기사가 된다는 게 얼마나 어려운 일인지는 모두가 잘 알고 있지.
 
 [name="逃跑的女孩"]  好厉害，竟然能够成为骑士......
+[name="逃げてきた少女"]  本当に、すごいです……！
+[name="Runaway Girl"]  That's amazing. So you really can become one...
+[name="도망치는 소녀"]  대단해요, 기사가 되다니……
 
 [name="逃跑的女孩"]  那么，在砾小姐您成为了骑士之后，有回到自己的家乡，见到自己的父母吗？
+[name="逃げてきた少女"]  それじゃあ騎士になった後は……故郷に戻って、ご両親を見つけることができたんですか？
+[name="Runaway Girl"]  After you became a Knight, did you ever return to your home to see your parents?
+[name="도망치는 소녀"]  그라벨 씨, 기사가 되고 나서 고향으로 돌아가 부모님을 만나셨나요?
 
 [name="逃跑的女孩"]  我好想他们，好想再见到一次爸爸妈妈......
+[name="逃げてきた少女"]  私、二人が恋しいんです……もう一度、お父さんとお母さんに会いたい……
+[name="Runaway Girl"]  I miss them so much. I want to see my mom and dad again...
+[name="도망치는 소녀"]  저는 부모님이 보고 싶어요. 두 분을 다시 만날 수 있으면 좋겠어요……
 
 [name="砾"]  ......
+[name="グラベル"]  ……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="砾"]  我没有找到。
+[name="グラベル"]  ……見つからなかったわ。
+[name="Gravel"]  I never found them.
+[name="그라벨"]  난 부모님을 찾지 못했어.
 
 [name="逃跑的女孩"]  咦？
+[name="逃げてきた少女"]  え……？
+[name="Runaway Girl"]  Huh?
+[name="도망치는 소녀"]  네?
 
 [name="砾"]  我去过你待过的村子，或许是因为我想寻找那些猎人的踪迹，想知道他们从哪里把我带走。
+[name="グラベル"]  あたしがあなたの村に行ったのは、きっとハンターの痕跡を辿ってのことだと思うの。あの人たちが、どこからあたしを攫ってきたのかを知ろうとして……
+[name="Gravel"]  I once went to a village, where you once happened to be. Maybe because I was searching for clues about those hunters, wanting to find out where they took me from.
+[name="그라벨"]  네가 머물렀던 마을에 갔던 건 아마도 헌터들의 흔적을 따라갔기 때문일 거야. 혹시 놈들이 날 어디에서 유괴한 건지 알 수 있을까 해서……
 
 [name="砾"]  但是......我没有找到。
+[name="グラベル"]  だけど……見つからなかったわ。
+[name="Gravel"]  But... I never found anything.
+[name="그라벨"]  하지만…… 난 찾지 못했어.
 
 [name="砾"]  不对，这些不是真的。
+[name="グラベル"]  ……いや、違うわね。
+[name="Gravel"]  No. None of this is real.
+[name="그라벨"]  아니, 모두 사실이 아냐.
 
 [name="逃跑的女孩"]  砾......骑士？
+[name="逃げてきた少女"]  グラベル……さん？
+[name="Runaway Girl"]  Gravel... Knight?
+[name="도망치는 소녀"]  그라벨…… 기사님?
 
 [name="砾"]  不要再把我拖进回忆的旋涡了。这些是......一直以来，我最害怕发生的事情。
+[name="グラベル"]  ……これ以上、あたしを記憶の渦に引きずり込むのはやめて。どれも……何より恐れていたことばかりだわ。
+[name="Gravel"]  Don't drag me into the whirlpool of memories again. All this is... it's what I always, always feared happening most.
+[name="그라벨"]  날 더는 기억의 소용돌이로 끌어들이지 말아 줘. 그 모든 것들은 내게…… 줄곧 두려운 일이었으니까.
 
 [name="砾"]  如果没有遇到老爷子，如果没有成为骑士，如果一直找不到家人......我会面临什么样的境地。
+[name="グラベル"]  もし、大旦那様に……優しい人に出会えなかったら。もし、騎士になれなかったら。もし、このままずっと家族が見つからなかったら……わたしは、一体どうなってたんだろう？　って。
+[name="Gravel"]  If I hadn't met the master of the house, if I hadn't become a Knight, if I'd never found my family... just what kind of state would I end up in?
+[name="그라벨"]  영감님을 만나지 못했다면, 기사가 되지 못했다면, 그리고 가족을 찾지 못한다면…… 나는 결국 어떻게 되었을까……
 
 [name="砾"]  但是，我早就知道，这些已经不再会是我的心魔了。
+[name="グラベル"]  でも、とっくに分かってるの。そういったものが、二度と私の心を蝕むことはないって……
+[name="Gravel"]  But I've known, since long ago, that none of it will ever trouble my heart again.
+[name="그라벨"]  하지만 난 진작에 알고 있었어. 나의 과거들이 더는 나의 마음을 좀 먹는 일이 될 수 없다는 것을.
 
 [name="光头马丁"]  砾，你在说什么？
+[name="禿頭マーティン"]  グラベル……何を言っているんだ？
+[name="Bald Marcin"]  Gravel, what are you talking about?
+[name="대머리 마틴"]  그라벨, 그게 무슨 말이야?
 
 [name="砾"]  还有马丁，你也是。你不会不知道我已经离开卡西米尔，加入了罗德岛......没错，我是从“罗德岛”回来的。
+[name="グラベル"]  ねえ、マーティン。あたしがカジミエーシュを離れてロドスに入ったことを、あなたが知らないはずないわよね……ええ、そうよ、あたしは「ロドス」から帰ってきたの。
+[name="Gravel"]  And you, Marcin, you too. It could never miss you that I'd left Kazimierz, joined Rhodes Island... That's right, I came back from 'Rhodes Island.'
+[name="그라벨"]  그리고 마틴…… 당신도 마찬가지야. 내가 카시미어를 떠나 로도스 아일랜드에 들어갔다는 걸 마틴 당신이 모를 리 없잖아…… 그래, 난 '로도스 아일랜드'에서 오는 길이야.
 
 [name="盖克斯基"]  ......我知道，看你的眼神就能明白。你是来向我道别的。
+[name="ガイスキー"]  ……ああ、分かっている。その目を見ればすぐに分かるさ。お前は私に別れを告げに来たのだろう。
+[name="Gekoski"]  I know... Can tell from a quick look in your eyes. You've come to say farewell to me.
+[name="게코스키"]  ……네 눈빛을 보니 알겠다. 너는 내게 작별 인사를 고하러 왔구나.
 
 [name="砾"]  我......要去罗德岛。跟随那个人。
+[name="グラベル"]  はい……あたしは……ロドスに行きます。あの人について行きたいんです。
+[name="Gravel"]  I'm... going to Rhodes Island. To follow them.
+[name="그라벨"]  전…… 그 사람을 따라 로도스 아일랜드로 갈 거예요.
 
 [name="盖克斯基"]  哼。你已经告诉他你的名字了？
+[name="ガイスキー"]  ふむ……それじゃあお前は、奴に本当の名を伝えたのか？
+[name="Gekoski"]  Hmph. Have you already told them your name?
+[name="게코스키"]  흠, 그 녀석에게 네 이름을 벌써 가르쳐 준 거냐?
 
 [name="砾"]  还没有。我需要亲眼再确认一次，那个人到底有没有欺骗我，想要利用我施行作恶的计划。
+[name="グラベル"]  いいえ。あの人に騙されてはいないか、あたしを利用して悪事を働くつもりはないかを、もう一度この目で確かめる必要がありますから。
+[name="Gravel"]  Not yet. I need to confirm for myself once more, whether or not they're deceiving me, whether they want to use me for evil.
+[name="그라벨"]  아직요. 우선 그 사람의 말이 사실인지, 절 이용해 나쁜 짓을 꾸미는 건 아닌지 제 두 눈으로 다시 한번 더 확인해야겠어요.
 
 [name="盖克斯基"]  那你就去吧。去那个罗德岛上看看，顺便继续去找到你的故乡。
+[name="ガイスキー"]  そうか。ならば、行くがいい。ロドスを見に行くのだ。そうして、お前の故郷も探し続けるといい。
+[name="Gekoski"]  Then go. To that Rhodes Island to see, and continue your hometown search as you do.
+[name="게코스키"]  그럼 가거라. 로도스 아일랜드라는 곳으로 가는 김에 네 고향을 계속 찾아보는 것도 좋겠지.
 
 [name="砾"]  ......
+[name="グラベル"]  ……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="盖克斯基"]  我知道，你没有放弃去找它。这是正确的事情，砾。
+[name="ガイスキー"]  分かっているさ。まだ諦めてはいないのだろう？　それは正しきことだ、グラベル。
+[name="Gekoski"]  I know... you haven't given up on finding it. It is the right thing to do, Gravel.
+[name="게코스키"]  네가 아직도 고향을 찾고 있다는 것을 알고 있다. 그건 당연한 거란다, 그라벨.
 
 [name="砾"]  老爷子，我......
+[name="グラベル"]  大旦那様、あたしは……
+[name="Gravel"]  Father, I...
+[name="그라벨"]  영감님, 전……
 
 [name="盖克斯基"]  停。
+[name="ガイスキー"]  よしなさい。
+[name="Gekoski"]  Stop.
+[name="게코스키"]  그만.
 
 [name="盖克斯基"]  就和当年所说的一样，砾。去吧，你迟早是要离开的。既然这一次下定决心，就没什么好眷恋的。
+[name="ガイスキー"]  前にも言ったはずだ、グラベル……行くんだ。遅かれ早かれ、お前はいずれ、ここを離れなければならない。決心がついたなら、お前を縛るものなど何もないのだから。
+[name="Gekoski"]  It is just as we said those years ago, Gravel. Go. You were to leave sooner or later. As you are decisive in this moment, so there is little to long for.
+[name="게코스키"]  전에도 말했었지, 그라벨. 가거라. 어차피 조만간 넌 여길 떠날 테지. 그러니 이번에 결심한 이상 더는 이곳에 미련 가질 것 없다.
 
 [name="盖克斯基"]  想回来看看的时候就回卡西米尔来，不想回来......就不要有负担，走！
+[name="ガイスキー"]  そして帰りたいと思った時は、カジミエーシュに帰ってきなさい。だがそう思わないのであれば……気にすることはない。……行け！
+[name="Gekoski"]  Come back to Kazimierz, should you want to come back. And should you not... then do not be burdened, and go!
+[name="게코스키"]  그리고 돌아오고 싶을 때는 카시미어로 돌아오너라. 설령 그러고 싶지 않다고 해도…… 부담 가질 것 없다. 그러니 가거라!
 
 [name="光头马丁"]  “罗德岛”？砾，你是五月树家族的家臣，是四阶骑士......
+[name="禿頭マーティン"]  「ロドス」……？　グラベル、君はマイバウム家の家臣で、第四階級の騎士だろう……
+[name="Bald Marcin"]  'Rhodes Island'? Gravel, you're a Maypole family vassal, a fourth-order knight...
+[name="대머리 마틴"]  '로도스 아일랜드'? 그라벨, 넌 메이폴 가문의 가신이야. 게다가 4등급 기사라고……
 
 [name="砾"]  这已经是......过去的事了，马丁。现在的我，属于罗德岛。
+[name="グラベル"]  それは……もう過去の話なのよ、マーティン。今のあたしは、ロドスの一員なの。
+[name="Gravel"]  All that is... the past now, Marcin. I belong to Rhodes Island now.
+[name="그라벨"]  이미…… 다 지나간 일이야, 마틴. 지금의 난 로도스 아일랜드 소속이니까.
 
 [name="光头马丁"]  你......
+[name="禿頭マーティン"]  君は……
+[name="Bald Marcin"]  You...
+[name="대머리 마틴"]  너……
 
 [name="砾"]  这个女孩刚才说的，这些都是“我”的故事。
+[name="グラベル"]  さっきこの子が話してたのは、全部「あたし」の過去よ。
+[name="Gravel"]  What this girl just told us, all of this is 'my' story.
+[name="그라벨"]  방금 이 아이가 말한 건 모두 '내' 이야기야.
 
 [name="砾"]  是我没有被骑士拯救，被拐到卡西米尔来，卖到了卡瓦莱利亚基......而我却连回家的路都不知道怎么走。
+[name="グラベル"]  あたしは騎士に救われることもなく……カジミエーシュに連れてこられて、カヴァレリエルキで売られた……故郷に戻る道すら知らなかった。
+[name="Gravel"]  I went unsaved by a Knight, was trafficked into Kazimierz, sold into Kawalerielki... and I didn't even know how to go about getting back home.
+[name="그라벨"]  나는 기사한테 구원받은 적이 없어. 그냥 카시미어로 유괴되어 카봐렐리엘키로 팔려갔고…… 집으로 돌아가는 길조차 알지 못했어.
 
 [name="逃跑的女孩"]  但是，砾小姐，您在卡西米尔也有了自己的家族呀。作为五月树家族的家臣，作为一名骑士，您一定非常幸福......
+[name="逃げてきた少女"]  でもグラベルさんは、カジミエーシュで新しい家族を得られたんですよね。それならマイバウム家の家臣として、一人の騎士として、あなたはとっても幸せだったはずでは……？
+[name="Runaway Girl"]  But you got your own family in Kazimierz too. As a Maypole vassal, as a Knight, you must be so happy...
+[name="도망치는 소녀"]  하지만 그라벨 씨…… 카시미어에도 그라벨 씨의 가족이 있지 않나요? 메이폴 가문의 가신이자, 기사로서 당신은 무척 행복하지 않았을까요……?
 
 [name="砾"]  ......
+[name="グラベル"]  ……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="砾"]  我是老爷子的家臣，对老爷子有永远的尊敬和感激。
+[name="グラベル"]  ええ、そうよ。あたしは大旦那様の家臣……だからこそ、大旦那様には永遠の敬意と、感謝の念を抱いているわ。
+[name="Gravel"]  I am a vassal to the master of the house. I'll forever revere him, be grateful for him.
+[name="그라벨"]  메이폴 가문의 가신으로서, 나는 영감님에게 영원한 존경과 감사의 마음을 품고 있어.
 
 [name="砾"]  但是，老爷子最终对我说......我不该永远眷恋这里。
+[name="グラベル"]  だけど、大旦那様は最後に……こう仰ったの。いつまでもこの場所を想い続けるべきじゃない、って……
+[name="Gravel"]  But, the last thing he said to me... is that I shouldn't forever long for this place.
+[name="그라벨"]  하지만 영감님의 마지막 말은…… 언제까지고 이곳에 미련을 가져서는 안 된다는 거였어.
 
 [name="砾"]  我要离开卡西米尔，是因为有了必须离开的理由，以及到了去寻找自己真正的家乡和父母的时候。
+[name="グラベル"]  あたしがカジミエーシュを離れたのは、去るべき理由があったから……そして、本当の両親と故郷を探す時が来たからなのよ。
+[name="Gravel"]  I left Kazimierz. Because I had a reason to. And it was time to find my own true home and parents.
+[name="그라벨"]  카시미어를 떠나려고 한 건, 떠나야 할 이유가 있었기 때문이었어. 그리고 나의 진짜 고향과 부모를 찾아야 할 때가 된 거기도 했고.
 
 [name="砾"]  是的......这一切不过是在梦里。
+[name="グラベル"]  そう……これはすべて、夢に過ぎないわ。
+[name="Gravel"]  Yes... this is all just a dream.
+[name="그라벨"]  그래…… 이 모든 건 그저 꿈에 불과해.
 
 [name="砾"]  要说为什么，因为现在已经不会再有被拐来卡瓦莱利亚基的小孩了。
+[name="グラベル"]  だって今はもう、誘拐されてカヴァレリエルキに来る子供なんていないもの。
+[name="Gravel"]  And I know this, because there wouldn't ever be another child kidnapped into Kawalerielki.
+[name="그라벨"]  왜냐면 말이지, 더는 카봐렐리엘키에 유괴되어 온 아이가 없기 때문이야.
 
 [name="砾"]  那些残忍的，包裹着“赏金猎人”的皮的恶人，做着贩卖勾当的最后的势力，早在当年我沿着每个村庄巡历并惩治猎人的时候，就已经被——
+[name="グラベル"]  あの「バウンティハンター」の皮を被った残酷な悪党は、人身売買ビジネス最後の勢力だったわ。だから、あたしが村々を巡ってあいつらを根絶やしにしてやったのよ――
+[name="Gravel"]  Those ruthless scum dressing up in the skins of 'bounty hunters' were the last force in the trafficking business. As far back as I'd followed every village patrol and punished every hunter, they were already—
+[name="그라벨"]  그 '바운티 헌터'라는 허울 좋은 가면을 쓴 잔인한 자들은 인신매매로 먹고사는 최후의 세력이었어. 예전에 내가 마을들을 돌아다니며 헌터들을 응징할 때 이미……
 
 [Decision(options="砾。", values="1")]
+[Decision(options="グラベル。", values="1")]
+[Decision(options="Gravel.", values="1")]
+[Decision(options="그라벨.", values="1")]
 
 [name="砾"]  ......呼......呃。
+[name="グラベル"]  ……うぅ……ん？
+[name="Gravel"]  ...Unf... ugh.
+[name="그라벨"]  ……후우…… 엇.
 
 [name="砾"]  （这里是......罗德岛？）
+[name="グラベル"]  （ここは……ロドス？）
+[name="Gravel"]  (This is... Rhodes Island?)
+[name="그라벨"]  (여긴…… 로도스 아일랜드?)
 
 [Decision(options="砾。", values="1")]
+[Decision(options="グラベル。", values="1")]
+[Decision(options="Gravel.", values="1")]
+[Decision(options="그라벨.", values="1")]
 
 [name="砾"]  是，博士。
+[name="グラベル"]  あらぁ、ドクター。
+[name="Gravel"]  Yes, Doctor.
+[name="그라벨"]  응, 박사.
 
 [name="砾"]  （果然，刚才的一切都是在梦里。）
+[name="グラベル"]  （やっぱり……今のは全部、夢だったのね。）
+[name="Gravel"]  (So that really was just a dream.)
+[name="그라벨"]  (역시, 방금 본 건 모두 꿈이었구나.)
 
 [name="砾"]  （一次又一次地做着相似的梦，只不过......）
+[name="グラベル"]  （同じような夢を、何度も何度も見てるけど……）
+[name="Gravel"]  (I've been having similar dreams, one after another, but...)
+[name="그라벨"]  (비슷한 꿈을 연달아 꾸고 있어, 하지만……)
 
 [name="砾"]  抱歉，我竟然......睡着了。
+[name="グラベル"]  ごめんなさい。あたしったら……寝ちゃってたみたいね。
+[name="Gravel"]  Sorry, it looks like I... fell asleep.
+[name="그라벨"]  미안. 나도 모르게…… 잠들었나 봐.
 
 [Decision(options="没事吧，你的表情不是非常安稳。", values="1")]
+[Decision(options="大丈夫か？　うなされているようだった。", values="1")]
+[Decision(options="It's alright. You seem a little shaken, anyhow.", values="1")]
+[Decision(options="괜찮은 거야? 표정이 안 좋던데……", values="1")]
 
 [name="砾"]  呼呼，您是在担心我吗？
+[name="グラベル"]  ふふっ、心配してくれてるの～？
+[name="Gravel"]  Hehe, are you worried about me?
+[name="그라벨"]  후후, 지금 나 걱정해 주는 거야?
 
 [name="砾"]  真是难得，平常都是我盯着您看，没想到也会有被注视的时候。
+[name="グラベル"]  それにしても……珍しいこともあるものねぇ。いつもはあたしがドクターを見つめてるのに、まさか見つめられる側になるなんて～。
+[name="Gravel"]  Funny. I'm usually the one watching you. I never imagined I'd be in another's gaze.
+[name="그라벨"]  이런 일이 다 있네. 평소엔 내가 쳐다보기에 바빴는데, 박사도 날 봐줄 때가 있다니.
 
 [Decision(options="......;只是关心一下。;不是那种意思，你别介意......", values="1;2;3")]
+[Decision(options="……;表情が気になったから。;変な意味はないんだ、気にしないでくれ……", values="1;2;3")]
+[Decision(options="......;Just checking in.;Don't get the wrong idea, it's not like I...", values="1;2;3")]
+[Decision(options="……;관심 한 번 가져본 것뿐이야.;별 뜻 없으니까, 신경 쓰지 마……", values="1;2;3")]
 
 [name="砾"]  我明白，博士工作的时候可不会分心。只是监督我这个护卫有没有好好工作，是吧？
+[name="グラベル"]  分かってるわ。ドクターはお仕事中に気を散らせたりなんてしないものねぇ。大方、あたしがちゃんと護衛の仕事をしているか見てたんでしょ～？
+[name="Gravel"]  I understand. I know you don't get distracted at work. You're just supervising me, making sure I'm doing my job properly, aren't you?
+[name="그라벨"]  알아, 박사는 일할 때 한눈팔지 않는다는 거. 박사는 그냥 내가 호위를 제대로 하고 있는지 확인한 거야, 그렇지?
 
 [name="砾"]  啊~总之，不用在意我，还请继续努力工作吧。
+[name="グラベル"]  まぁ～、あたしのことは気にしなくていいから、お仕事の続きをどうぞ～。
+[name="Gravel"]  Ah~. Anyway, don't let me weigh on you. Go on, continue with your work.
+[name="그라벨"]  아~ 어쨌든 나 신경 쓰지 말고 계속 열심히 일하라고.
 
 [Decision(options="其实砾......累了的话，睡一觉也没关系的。", values="1")]
+[Decision(options="グラベル。疲れているなら、少し寝ていても構わない。", values="1")]
+[Decision(options="Actually, Gravel... if you're tired, it's alright to nap.", values="1")]
+[Decision(options="그라벨…… 피곤하면 한숨 자도 괜찮아.", values="1")]
 
 [name="砾"]  嗯？这样不算我的失职吗，博士~
+[name="グラベル"]  え～？　それって職務怠慢にならないかしらぁ？　ドクタ～。
+[name="Gravel"]  Hm? That'd be dereliction of duty, wouldn't it, Doctor~
+[name="그라벨"]  으응? 그건 직무태만이잖아, 박사~
 
 [Decision(options="......;不算。;没什么大不了的。", values="1;2;3")]
+[Decision(options="……;ノーカウントだ。;大したことじゃない。", values="1;2;3")]
+[Decision(options="......;It wouldn't.;It's not that big a deal.", values="1;2;3")]
+[Decision(options="……;그렇지 않아.;별거 아니야.", values="1;2;3")]
 
 [name="砾"]  ......真狡猾啊，博士。
+[name="グラベル"]  ……本当に、ずるい人ね、ドクター。
+[name="Gravel"]  You really are cunning, Doctor.
+[name="그라벨"]  ……정말이지 교활하네, 박사는.
 
 [name="砾"]  在卡西米尔的时候，难得有睡着的时间，会经常做些梦......虽然不是什么好梦。
+[name="グラベル"]  実はね、カジミエーシュにいた頃はゆっくり寝る時間なんてなかったのよ～。その上、眠ったら眠ったでいつも嫌な夢ばかり見ちゃって……
+[name="Gravel"]  In Kazimierz, I'd hardly ever have the time to sleep. I'd dream so often... not that they were any good dreams.
+[name="그라벨"]  카시미어에 있을 때 모처럼 시간이 나서 잠을 자게 되면 난 언제나 꿈을 꾸곤 했어…… 좋은 꿈은 아니었지만.
 
 [name="砾"]  博士，您在失去记忆之后......会感到无措和惊慌吗？
+[name="グラベル"]  ……ねえ、ドクターは記憶を失った後……迷ったり、戸惑ったり……した？
+[name="Gravel"]  Doctor, after losing your memory... have you ever felt helpless, or alarmed, maybe?
+[name="그라벨"]  박사, 박사는 기억을 잃은 뒤에…… 당황스러웠던 적 있어?
 
 [Decision(options="......;嗯。", values="1;2")]
+[Decision(options="……;ああ。", values="1;2")]
+[Decision(options="......;Yes.", values="1;2")]
+[Decision(options="……;응.", values="1;2")]
 
 [name="砾"]  我时常做梦。梦到自己离开家乡，被带到了卡西米尔。我找各种各样的人寻求帮助，甚至找到梦中的“我”，希望他们能够帮助我回家。
+[name="グラベル"]  ……今も、よく夢を見るの。故郷を離れて、カジミエーシュに連れてこられる夢……そこで、助けて、お家に帰りたい、っていろんな人に懇願するのよ。……夢の中の「あたし」自身にさえ、ね。
+[name="Gravel"]  I do dream often. Of leaving my home, being brought to Kazimierz. I find all sorts of people to assist me, even my own dream 'me', hoping they can help me find my way home.
+[name="그라벨"]  난 종종 고향을 떠나 카시미어에 끌려간 꿈을 꿔. 그곳에서 나는 여러 사람에게 도움을 청하곤 해. 심지어 꿈속의 '나' 자신에게 마저도…… 날 집으로 돌려보내 주길 바라면서 말이야.
 
 [name="砾"]  可是，每次被人问到我的家乡在哪里，我却......
+[name="グラベル"]  それで、毎回その人たちに聞かれるの。故郷はどこなのかって……
+[name="Gravel"]  But the thing is, every time I'm asked where my hometown is, I just...
+[name="그라벨"]  하지만 내 고향이 어디냐고 사람들이 물을 때마다 난……
 
 [name="砾"]  时至今日，我还是无法想起自己到底来自哪里。只记得那是个和卡西米尔完全不一样的地方。
+[name="グラベル"]  ……あたしね、自分がどこから来たのか思い出せないの。覚えているのは、そこはカジミエーシュとは全然違うとこだったってことだけ。
+[name="Gravel"]  Even today, I still can't bring to mind where it is I came from. I only remember it was a place completely different from Kazimierz.
+[name="그라벨"]  난 아직도 내가 어디에서 왔는지 기억이 나질 않아. 기억나는 거라곤 단지 카시미어와는 전혀 다른 곳이었다는 것뿐이야.
 
 [name="砾"]  贫穷，闭塞......脆弱。做父母的连保护自己的孩子也做不到。
+[name="グラベル"]  貧しくて、閉塞的で……親が子供を守ることすら満足にできない、そんな場所……
+[name="Gravel"]  Poor, a backwater... fragile. The parents of mine who couldn't even protect their own child.
+[name="그라벨"]  가난, 폐쇄…… 무력함. 거기는 부모가 제 아이조차 지킬 수 없는 곳이었어.
 
 [name="砾"]  但不论如何，这么多年来，我始终想要找到我的家乡，回去见我的父母一面。不知道他们是否安好，还会不会记得我。
+[name="グラベル"]  だから……もう何年も両親に会いたいって思ってるのよ。二人が生きてるのか、あたしのことを覚えてるのか……それすらもわからないけど……
+[name="Gravel"]  But no matter what, all these years and years, I've wanted always to find my home, to return and see my parents. I don't know if they're well, or if they'd still remember me.
+[name="그라벨"]  하지만 아무리 많은 세월이 흘렀어도 난 여전히 고향을 찾아가 한 번만이라도 부모님을 만나보고 싶어. 건강히 잘 지내는지, 아직 날 기억은 하는지……
 
 [name="砾"]  我多么幸运啊，能够被老爷子捡到，能够有不同于其他“商品”的命运，得到了可以靠自己的努力拥有骑士身份的机会。
+[name="グラベル"]  ……でも、旦那様に拾われるなんて、あたしはラッキーだったわ。そのお陰で……他の「商品」たちと違って、自分の努力で騎士の身分を得られるチャンスをもらえたんだもの。
+[name="Gravel"]  How lucky of me, to be picked up by that old knight, to have a fate unlike the other 'chattel', to seize knighthood by my own efforts.
+[name="그라벨"]  난 정말 운이 좋았어. 영감님이 거둬주신 덕분에 나는 다른 '상품'들과는 달리 자신의 노력으로 기사가 될 기회까지 얻을 수 있었으니까.
 
 [name="砾"]  但是，我没有忘记，我成为骑士的理由是什么。
+[name="グラベル"]  そして……騎士になった目的も、忘れはしない。
+[name="Gravel"]  But, I've never forgotten... why it is I became a Knight.
+[name="그라벨"]  그렇다고 해도 난 내가 기사가 되려 했던 이유를 잊은 적 없어.
 
 [name="砾"]  为了有找寻自己的力量，为了有保护他人的能力。然后现在，我有了......保护您性命安全的使命。
+[name="グラベル"]  自分を探す力を得るため、誰かを守る力を得るため。ああ、それと今は……あなたの命と安全を守るっていう大事な使命もあるわね。
+[name="Gravel"]  The power to seek myself, the ability to protect others. And now, I have... protecting your life as my calling.
+[name="그라벨"]  내 스스로를 찾을 수 있는 힘과, 타인을 지켜줄 수 있는 능력을 얻기 위해. 그리고 이젠…… 박사의 생명과 안전을 지켜야 하는 사명이 생겼어.
 
 [Decision(options="......;咳咳。", values="1;2")]
+[Decision(options="……;ごほっ、ごほっ。", values="1;2")]
+[Decision(options="......;Ahem.", values="1;2")]
+[Decision(options="……;크, 크흠.", values="1;2")]
 
 [name="砾"]  啊~您这是害羞了吗？没事的，博士，我不会去猜测您的想法。我现在，只想用自己这双眼睛好好看着您的举动。
+[name="グラベル"]  あらぁ～、照れてるの～？　ふふっ、心配しなくていいわよ。心を読むなんて真似はしないからぁ。今はただ、この両目でドクターの全てを見ていたいだけよ～。
+[name="Gravel"]  Aw~, are you embarrassed? It's alright, Doctor, I won't guess at what you're thinking. Right now, watching your every movement is the only function of these two eyes.
+[name="그라벨"]  어라~ 지금 부끄러워하는 거야? 괜찮아, 박사. 박사의 마음까지는 들여다보지 않을 게. 지금의 나는 내 두 눈으로만 박사의 모든 걸 보고 싶으니까.
 
 [name="砾"]  只要您给我这个机会，能够让我时刻在您身边守卫着您，这样就好。
+[name="グラベル"]  だから、いつもあなたの傍にいて、あなたを守ってあげられたら……それで十分なの。
+[name="Gravel"]  Just give me this chance, let me stay by your side to defend you, and that'll be fine.
+[name="그라벨"]  박사가 나에게 언제나 박사의 곁에서 박사를 지킬 수 있는 기회를 준다면, 나는 그것만으로도 충분해.
 
 [name="砾"]  好了，快点回到工作中去吧，博士~还是说，您其实特别想知道我的事？
+[name="グラベル"]  ……さぁ、ドクタ～。早くお仕事に戻ってちょうだい。それとも、あたしのことをもっと知りたいって思ってくれてるのかしら～？
+[name="Gravel"]  Alright, you'd better head on back to work, Doctor~. Or perhaps, you wanted to learn about me, all especially?
+[name="그라벨"]  자, 이젠 빨리 돌아가서 일해, 박사~ 설마 나에 대해서 뭘 더 알고 싶은 건 아니지?
 
 [Decision(options="（点头）;（猛地摇头）;......", values="1;2;3")]
+[Decision(options="（頷く）;（首をぶんぶんと横に振る）;……", values="1;2;3")]
+[Decision(options="(Nod.);(Shake your head violently.);......", values="1;2;3")]
+[Decision(options="(고개를 끄덕인다);(고개를 힘껏 젓는다);……", values="1;2;3")]
 
 [name="砾"]  没关系，博士，我会陪伴您很长的时间。在您想知道的时候，我会把我的过去都告诉您。
+[name="グラベル"]  ふふっ、大丈夫よ。あたしはこれからもずーっと、あなたのそばにいるから。それにお望みなら、あたしの過去だって全て話してあげちゃうわ。
+[name="Gravel"]  It's alright, Doctor. I'll be keeping you company for a very long time. When the time comes and you want to know, I'll tell you all about my past.
+[name="그라벨"]  상관없어, 박사. 난 박사 곁에 엄청 오래 붙어있을 거거든. 그래서 언젠가 박사가 궁금해지면 그때 내 과거를 전부 들려줄게.
 
 [name="砾"]  离开卡西米尔，来到罗德岛，我便拥有了更加自由的身份，也能够继续追寻家乡的线索。
+[name="グラベル"]  ……あのね、ドクター。カジミエーシュからロドスに来て……あたしはもっと自由になれたのよ。故郷の手がかりを追い続けることもできちゃうしねぇ。
+[name="Gravel"]  I'm even freer than I was, leaving Kazimierz and coming to Rhodes Island, and it lets me keep searching for my home.
+[name="그라벨"]  카시미어를 떠나 로도스 아일랜드에 온 뒤로 나는 한결 자유롭게 지내게 됐어, 계속해서 고향에 관한 단서도 찾을 수 있고.
 
 [name="砾"]  现在......这样安静的相处，就是最能让我冷静的了。
+[name="グラベル"]  だから今は……こういう静かな付き合いが、一番落ち着くの。
+[name="Gravel"]  Right now... it's in quiet interactions, like these, where I can be most at peace.
+[name="그라벨"]  지금처럼…… 이렇게 평화롭게 지내는 것이 날 차분하게 하는 거야.
 
 [name="砾"]  不过嘛......
+[name="グラベル"]  でも……
+[name="Gravel"]  Although...
+[name="그라벨"]  하지만……
 
 [name="砾"]  （博士的办公室，竟然已经变成了能让我睡得着觉的房间吗......这算是一点小特权？）
+[name="グラベル"]  （ドクターのオフィスで眠れるようになっちゃうなんて……これもある種の特権かしら？）
+[name="Gravel"]  (We're at the point where I can sleep in the Doctor's office... I suppose that's a little privilege of mine?)
+[name="그라벨"]  (박사의 사무실이 언젠가부터 내가 잠도 잘 수 있는 공간이 되었다니…… 이것도 나름 특권인가?)
 
 [name="砾"]  （对了，下次邀请博士一起回卡西米尔看看吧。）
+[name="グラベル"]  （そうだわ。今度、ドクターも誘って……一緒に、カジミエーシュへ帰ってみようかしら。）
+[name="Gravel"]  (Oh, right, I should invite the Doctor to go back to Kazimierz with me sometime.)
+[name="그라벨"]  (참, 다음에 박사한테 같이 카시미어에 가자고 해야겠다.)
 
 [name="砾"]  （哼哼......一个人回到卡西米尔的梦，感觉孤零零的，多可怜啊。）
+[name="グラベル"]  （……一人でカジミエーシュに帰る夢は、なんだか寂しくて哀しいもの。）
+[name="Gravel"]  (Heh-heh... It always feels sooo lonely in my dreams, back in Kazimierz all by myself. Aww, poor me.)
+[name="그라벨"]  (으휴~ 혼자서 카시미어로 돌아가는 꿈이라니…… 너무 처량하잖아!)
 
 [name="砾"]  （哎呀，在工作的时候还有闲暇思考这些，真是......糟糕的我啊。）
+[name="グラベル"]  （って！　やだ、あたしったら。仕事中にこんなこと考えちゃうなんて……）
+[name="Gravel"]  (Uh-oh, and here I have the spare time to think about this at work. Really... what a mess I am.)
+[name="그라벨"]  (앗, 일하는 도중에 딴생각을 하다니…… 정말이지 난 엉망이라니까!)
 

@@ -265,7 +265,7 @@
 
 [name="阿米娅"]  凯尔希医生......
 [name="アーミヤ"]  ケルシー先生……。
-[name="Amiya"]  Dr Kal'tsit...
+[name="Amiya"]  Dr. Kal'tsit...
 [name="아미야"]  켈시 선생님……
 
 [name="阿米娅"]  魏先生，我希望将这一条也写入合约......
@@ -375,7 +375,7 @@
 
 [Decision(options="我认识你吗，凯尔希？;......你好，凯尔希医生。;初次见面，Dr.凯尔希", values="1;2;3")]
 [Decision(options="自分と面識があるのかケルシー？;……こんにちは、ケルシー先生。;はじめまして、Dr.ケルシー。", values="1;2;3")]
-[Decision(options="Do I know you, Kal'tsit?;...Hello, Dr Kal'tsit.;Please to meet you, Dr Kal'tsit.", values="1;2;3")]
+[Decision(options="Do I know you, Kal'tsit?;...Hello, Dr. Kal'tsit.;Please to meet you, Dr. Kal'tsit.", values="1;2;3")]
 [Decision(options="나와 아는 사이인가, 켈시?;…안녕하세요, 켈시 선생님.;처음 뵙겠습니다, 켈시 박사님.", values="1;2;3")]
 
 [name="凯尔希"]   ............
@@ -385,7 +385,7 @@
 
 [name="阿米娅"]   凯尔希医生，请别为难博士——
 [name="アーミヤ"]   ケルシー先生、ドクターを困らせないで――
-[name="Amiya"]   Dr Kal'tsit, please don't give Dr {@nickname} a hard time...
+[name="Amiya"]   Dr. Kal'tsit, please don't give Dr. {@nickname} a hard time...
 [name="아미야"]   켈시 선생님, 박사님을 너무 난처하게…
 
 [name="凯尔希"]   嘘——
@@ -410,7 +410,7 @@
 
 [name="凯尔希"]   你好，Dr.{@nickname}。
 [name="ケルシー"]   Dr.{@nickname}。
-[name="Kal'tsit"]   Hello, Dr {@nickname}.
+[name="Kal'tsit"]   Hello, Dr. {@nickname}.
 [name="켈시"]   {@nickname} 박사.
 
 [name="凯尔希"]   欢迎回来。

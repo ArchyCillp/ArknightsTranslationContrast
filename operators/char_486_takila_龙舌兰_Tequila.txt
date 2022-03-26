@@ -1,0 +1,365 @@
+ID:
+	char_486_takila
+
+CV:
+	龙舌兰
+	テキーラ
+	Tequila
+	테킬라
+
+干员代号\Name:
+	Unknown
+	島﨑信長
+	Nobunaga Shimazaki
+	시마자키 노부나가
+
+招聘合同\Character Usage:
+	近卫干员龙舌兰，在战场上也面带笑容。
+	前衛オペレーター・テキーラ。戦場でも笑顔を絶やさない。
+	Guard Operator Tequila, all smiles on the battlefield too.
+	가드 오퍼레이터 테킬라, 전장에서도 미소를 잃지 않는다.
+
+合同描述\Character Description:
+	别担心，他会把一切都安排妥帖。
+	彼が万事整えてくれる、心配しなくていい。
+	Don't worry, he'll set everything up just hunky-dory.
+	걱정하지 마. 그가 모든 걸 적절히 준비할 테니까.
+
+信物\Potential Item:
+	刻有姓名和日期的铭牌。从拿到它的那一天起，龙舌兰就一直随身携带。现在是时候该放下它了。
+	氏名と日時が刻まれたプレート。これを手にした日から、テキーラはずっと肌身離さず携帯していた。しかし、そろそろ置いてもいい頃合いだろう。
+	A nameplate with a full name and date inscribed. Ever since the day he obtained it, Tequila has always carried it on him. Now's the time for him to let it go.
+	이름과 날짜가 새겨있는 명패. 테킬라는 이걸 받은 그 날부터 줄곧 몸에 지니고 다녔다. 이제는 놓아줄 때가 왔다.
+
+天赋\Talents:
+	伺机而动
+	準備万全
+	Waiting Game
+	기회주의
+
+技能\Skills:
+	当机立断
+	即断即決
+	Decisive Action
+	즉시 결단
+
+	剑走偏锋
+	極刃奇襲
+	Esoteric Bladework
+	기상천외
+
+语音\Voices:
+	
+
+干员档案\Background:
+	基础档案 :
+	【代号】龙舌兰
+	【性别】男
+	【战斗经验】三年
+	【出身地】玻利瓦尔
+	【生日】5月15日
+	【种族】佩洛
+	【身高】182cm
+	【矿石病感染情况】
+	参照医学检测报告，确认为非感染者。
+
+	基礎情報 :
+	【コードネーム】テキーラ
+	【性別】男
+	【戦闘経験】三年
+	【出身地】ボリバル
+	【誕生日】5月15日
+	【種族】ペッロー
+	【身長】182cm
+	【鉱石病感染状況】
+	メディカルチェックの結果、非感染者に認定。
+
+	Basic Info :
+	[Code Name] Tequila
+	[Gender] Male
+	[Combat Experience] 3 Years
+	[Place of Birth] Bolívar
+	[Date of Birth] My 15
+	[Race] Perro
+	[Height] 182cm
+	[Infection Status]
+	Medical tests have confirmed that no infection is present.
+
+	기본정보 :
+	[코드네임] 테킬라
+	[성별] 남
+	[전투 경험] 3년
+	[출신지] 볼리바르
+	[생일] 5월 15일
+	[종족] 페로
+	[신장] 182cm
+	[광석병 감염 상황]
+	의학 테스트 보고서 참고 결과, 비감염자로 확인.
+
+———————————————————————————————
+
+	综合体检测试 :
+	【物理强度】标准
+	【战场机动】标准
+	【生理耐受】普通
+	【战术规划】优良
+	【战斗技巧】标准
+	【源石技艺适应性】普通
+
+	能力測定 :
+	【物理強度】標準
+	【戦場機動】標準
+	【生理的耐性】普通
+	【戦術立案】優秀
+	【戦闘技術】標準
+	【アーツ適性】普通
+
+	Physical Exam :
+	[Physical Strength] Standard
+	[Mobility] Standard
+	[Physical Resilience] Normal
+	[Tactical Acumen] Excellent
+	[Combat Skill] Standard
+	[Originium Arts Assimilation] Normal
+
+	종합검진 :
+	[물리적 강도] 표준
+	[전장 기동력] 표준
+	[생체 인내도] 보통
+	[전술 계획력] 우수
+	[전투 기술력] 표준
+	[오리지늄 아츠 적응성] 보통
+
+———————————————————————————————
+
+	客观履历 :
+	前多索雷斯国际贸易管理部副主任，本名埃内斯托·萨拉斯，于多索雷斯城内暴乱事件中被革职，后经由干员陈引荐，通过测试加入罗德岛。
+	被数日前刚与自己发生过冲突的对象带上罗德岛，在这样尴尬的情况之下依然表现得若无其事，并一路维持着友好爽朗的社交氛围，干员龙舌兰确实不愧为多索雷斯市长女士手下不可多得的外交人才。
+
+	個人履歴 :
+	元ドッソレス国際貿易管理部副主任、本名はエルネスト・サラス。ドッソレス市内暴動事件によって免職となり、のちにチェンの紹介により、テストを経てロドスに加入した。
+	数日前に自身と衝突したばかりの相手によりロドスに紹介された、という気まずい状況でも何事もないように振る舞い、爽やかで人当たりの良い印象を保っていた。さすがはドッソレス市長が誇った外交担当者、というべきだろう。
+
+	Profile :
+	The former deputy director of the International Trade Management Department of Dossoles, real name Ernesto Salas, was dismissed during the riots in Dossoles City. After that, he was recommended to Rhodes Island by Operator Ch'en, and joined after passing the test.
+	He was taken to Rhodes Island by a person who had clashed with him just a few days prior. Even in the face of such an embarrassing situation, he still behaved as if nothing had happened, maintaining a friendly and jovial social atmosphere along the way. Truly, Operator Tequila is a rare diplomatic talent fitting for one who serves the Mayor of Dossoles.
+
+	프로필 :
+	    본명은 에르네스토 살라스. 도솔레스 시장의 수하 중 흔치 않은 외교 인재로서, 과거 도솔레스 국제무역관리부 부주임으로 근무했다. 도솔레스의 폭동 사건으로 경질된 뒤, 오퍼레이터 첸의 추천을 받고 테스트를 거쳐 로도스 아일랜드에 합류하게 되었다.
+	    불과 며칠 전에 자신과 싸웠던 상대에게 끌려가 로도스 아일랜드로 오게 된 어색한 상황임에도 불구, 아무렇지 않은 듯 화기애애한 분위기를 유지하고 있다.
+
+———————————————————————————————
+
+	临床诊断分析 :
+	造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。
+	
+	【体细胞与源石融合率】0%
+	干员龙舌兰没有被源石感染的迹象。
+	
+	【血液源石结晶密度】0.15u/L
+	干员龙舌兰频繁接触源石......或者是源石相关产物，这或许和他过去的工作有关。有一定感染风险，需要注意后期观察。
+	
+	
+	“这个人试图用笑容来糊弄过关的态度让我觉得他并不是很安全。各种方面来说，都不是很安全。”
+	——苏苏洛
+
+	健康診断 :
+	造影検査の結果、臓器の輪郭は明瞭で異常陰影も認められない。循環器系源石顆粒検査においても、同じく鉱石病の兆候は認められない。以上の結果から、現時点では鉱石病未感染と判定。
+	
+	【源石融合率】0%
+	鉱石病の兆候は見られない。
+	
+	【血液中源石密度】0.15u/L
+	テキーラは源石……あるいは源石の派生物と接触することが多い。こうした挙動は、彼のかつての仕事と関係があるのかもしれないが、いずれにせよ感染の危険性があるため、注意して観察を続ける必要がある。
+	
+	
+	「彼の笑顔でごまかそうとする態度のせいで、どうしても彼を安全とは思えないんだ。あらゆる意味で、あまり安全とは言いない気がする。」
+	――ススーロ
+
+	Clinical Analysis :
+	Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.
+	
+	[Cell-Originium Assimilation] 0%
+	Operator Tequila shows no signs of Originium infection.
+	
+	[Blood Originium-Crystal Density] 0.15 u/L
+	Operator Tequila frequently comes in contact with Originium... or something related to Originium, and this may be related to his prior job. There is a certain risk of infection, and will require careful follow-up observations.
+	
+	
+	'The way this one tries to fool his way through everything with a smile makes me concerned for his safety. In every way a person can be, he is very unsafe.'
+	—Sussurro
+
+	임상 진단 분석 :
+	방사선 검사 결과, 본 오퍼레이터는 내장 기관의 윤곽이 선명하며, 비정상적인 음영이 존재하지 않는 것으로 확인됨. 순환 계통 내 오리지늄 입자 결과 이상 없음, 광석병 감염 증세 없음, 현 단계로서는 광석병 비감염자로 확인됨.
+	
+	[체세포와 오리지늄 융합률] 0%
+	오퍼레이터 테킬라에게는 오리지늄 감염 흔적이 없음.
+	
+	[혈중 오리지늄 결정 밀도] 0.15u/L
+	오퍼레이터 테킬라는 빈번하게 오리지늄…… 또는 오리지늄 관련 제품을 접촉했다. 이건 아마 과거 그의 직업과도 관련 있을 것이다. 일정한 감염 위험이 있으므로 향후 상황에 대해 유의하여 관찰해야 한다.
+	
+	
+	    “웃음으로 대충 넘어가려는 이 사람의 태도는 오히려 안전함이 떨어진다 느껴져요. 어떤 쪽으로 생각해도 안전하지가 않은 것 같네요.”
+	——수수로
+
+———————————————————————————————
+
+	档案资料一 :
+	在来到罗德岛后，干员龙舌兰看起来非常快速并轻松地适应了新的生活模式。
+	他发挥了他出色的交际能力，几乎能够毫无违和地介入任何对话，能够和所有人顺利友好的沟通交流。干员龙舌兰甚至参与了一些争端的调解，并且成果斐然，他总用不引起反感的态度，巧妙地能提出令所有人都能接受的解决方案。
+	这种出类拔萃的交际能力看上去像是与生俱来，不会给他带来任何负担。有一些干员将龙舌兰与其他擅长社交的干员放在一起比较，大家惊讶地发现，干员龙舌兰似乎永远笑容爽朗，姿态友善，似乎从没有人看到干员龙舌兰表现出任何负面情绪。
+	然而，完全没有负面情绪的人是不存在的，一些与他有所接触的干员始终对此抱有忧虑。
+
+	第一資料 :
+	ロドスにやってきてから、テキーラはかなり早く、そして容易く新しい生活スタイルに馴染んだようだ。
+	優れたコミュニケーション能力を発揮する彼は、どんな会話にも自然に参加し、誰とでも友好的に交流することができる。更には一部のいざこざの仲裁にも手を出し、かなりの成果を得ている。彼は皆が納得できる解決手段を、反感を起こさない態度で提示することに長けている。
+	このような突出したコミュニケーション能力は一見生来のもので、本人には何の負担もないように見えた。他のコミュニケーションに長けるオペレーターと彼を比較した者を驚かせたのは、彼がいつも爽やかな笑顔を浮かべて友好的な態度を取っており、誰も彼がネガティブな感情を表に出す姿を見ていないということだった。
+	しかし、ネガティブな感情を持たない人間など存在しない。彼と接したオペレーターの一部は、その点についてずっと憂慮しているようだ。
+
+	Archive File 1 :
+	After arriving at Rhodes Island, Operator Tequila seemed to adapt to his new lifestyle quickly and easily.
+	Leveraging his excellent interpersonal skills, he can insert himself into any conversation without breaking the flow, and is able to communicate smoothly and amicably with everyone. Operator Tequila even mediated in some disputes, to remarkable results. He always uses a disarming attitude, cleverly proposing solutions that are amenable to everyone.
+	His outstanding communication abilities seem innate and do not seem to burden him. Some operators compared Tequila to other operators who are good communicators and were surprised to find that Operator Tequila always seems to have a hearty smile and a friendly attitude. Nobody seems to have ever seen Operator Tequila display any negative emotions.
+	However, there is no such thing as a person who never experiences negative emotions, and some of the operators who've been in contact with him are persistently worried about this.
+
+	파일 자료 1 :
+	    로도스 아일랜드에 온 뒤로, 오퍼레이터 테킬라는 새로운 생활 방식에 아주 빠르고 쉽게 적응한 것처럼 보였다.
+	    그는 뛰어난 사교 능력을 발휘해 아무런 위화감 없이 어떤 대화에도 녹아들었고, 모두와 순조롭게 소통할 수 있었다. 심지어는 여러 분쟁을 중재하기도 했는데, 그마저도 아주 훌륭한 성과를 올렸다. 그는 언제나 반감을 일으키지 않는 태도로, 모두가 받아들일 수 있는 해결 방안을 교묘하게 제안한다.
+	    이런 뛰어난 사교 능력은 타고난 것처럼 보이며, 그에게 전혀 부담이 되지 않는 것 같다. 일부 오퍼레이터는 테킬라와 사교 능력이 좋은 다른 오퍼레이터를 비교하기도 했는데, 모두를 놀라게 한 점은 오퍼레이터 테킬라가 언제나 해맑게 웃으며, 다정한 태도를 보인다는 것이었다. 오퍼레이터 테킬라가 그 어떤 부정적인 감정을 드러내는 걸 본 사람은 아무도 없었다.
+	    하지만 부정적인 감정이 전혀 없는 사람은 없는 법이기에, 그와 접촉해 본 오퍼레이터들은 늘 그 점을 걱정한다.
+
+———————————————————————————————
+
+	档案资料二 :
+	名为埃内斯托·萨拉斯的佩洛年轻人出身玻利瓦尔的一个军人家庭，父亲潘乔·萨拉斯因其怀揣的爱国理念而加入本土反抗势力“真正玻利瓦尔人”，就此离开家庭，也离开了埃内斯托母子二人。
+	就在长年不归的父亲为玻利瓦尔的独立而斗争的期间，萨拉斯夫人罹患恶疾，缠绵病榻近一年后撒手人寰，留下年幼的埃内斯托独自一人。而一直到埃内斯托料理完母亲的后事，潘乔·萨拉斯才风尘仆仆地出现在家门口。
+	此后，埃内斯托被父亲带在身边离开家乡，跟随军队走过玻利瓦尔各地。他曾被送入真正玻利瓦尔人的预备队伍，与一群年纪相仿的少年人一同接受较为专业的军事化训练。八年前潘乔于战场上失利，在经历了三年漂泊生涯后，老军人带着埃内斯托与拉菲艾拉来到多索雷斯，暂时蛰伏于这座城市，以期东山再起。
+	相较于听从父亲的安排、心思更加单纯的干员羽毛笔，埃内斯托对于很多事情的看法都要更加深入且复杂。在多索雷斯居住的五年时间让这个年轻人完全融入了这座城市，这里放纵自由、享乐至上的种种理念都对其影响颇深。而在市长女士手下工作的经历，无疑也改变了他对许多事物的看法。
+
+	第二資料 :
+	エルネスト・サラスという名のペッローの若者はボリバルのとある軍人家族に生まれた。父パンチョ・サラスはその内に秘められた愛国心によって自国の反抗勢力「トゥルーボリバリアン」に参加し、家庭から、そしてエルネストとその母から離れていった。
+	長年戻らない父がボリバルの独立のために戦っている間、サラス夫人は病を患い、一年近くの闘病の末に亡くなってしまった。残されたのは幼いエルネストひとりきりで、その彼が母の亡き後の諸事務を処理し終えた頃にやっと、パンチョ・サラスが疲労困憊な姿で玄関に現れた。
+	その後、エルネストは父と共に故郷を離れ、軍についてボリバルの各地を渡った。トゥルーボリバリアンの予備隊に入れられ、歳が近い少年たちと共にわりと正規的な軍事訓練を受けた。今から八年前、パンチョは戦場で敗北を喫し、三年の流浪生活を経て、エルネストとラファエラを連れてドッソレスにやってきた。この都市に蟄居し、いずれ再起するために力を蓄えていた。
+	父の計画に従うだけの、単純なラ・プルマに比べて、エルネストは多くの物事に対してより深く、複雑な見解を持っていた。ドッソレスに住んだ五年という時間は、若い彼がこの都市に溶け込むのに十分だった。自由気ままで、享楽を至上とする様々な理念は、エルネストに深い影響を与えた。また、市長女史の元で働いた経験も、間違いなく彼の物事への見方を多く変えてきたのだろう。
+
+	Archive File 2 :
+	The young Perro named Ernesto Salas was born into a military family in Bolívar. His father, Pancho Salas, joined the 'True Bolívarians' local resistance force because of his patriotic ideals, leaving behind his wife and his son.
+	During the long years during which his father never came home, fighting for Bolívar's independence, Mrs. Salas suffered from a vicious illness that claimed her life after a prolonged struggle that almost lasted a year, leaving the young Ernesto alone. It was not until Ernesto had finished taking care of his mother's funeral that Pancho Salas suddenly appeared at his doorstep.
+	After that, his father took Ernesto away from his hometown and followed the army through Bolívar. He was sent to join a True Bolívarians prep team, receiving professional military training along with a group of similarly-aged youths. After suffering defeat on the battlefield eight years ago, the old soldier brought Ernesto and Rafaela to Dossoles after three years of drifting and laid dormant within the city, hoping to stage a comeback.
+	Compared to Operator La Pluma, who is more pure-hearted, Ernesto has a substantially deeper and more complex view on many things. His five years of living in Dossoles allowed the young man to fully integrate into the city, and the ideas of indulging in freedom and the supremacy of hedonism have had a profound influence upon him. His experiences working under the Mayor have undoubtedly changed his viewpoints regarding various matters.
+
+	파일 자료 2 :
+	    에르네스토 살라스라는 이름을 가진 페로 젊은이는 볼리바르의 한 군인 가정에서 태어났다. 아버지인 판초 살라스는 가슴 가득한 애국심으로 인해 본토 저항 세력인 '진정한 볼리바르인'에 합류하여 에르네스토 모자를 남겨둔 채 집을 나갔다.
+	    장기간 돌아오지 않는 아버지가 볼리바르의 독립을 위해 투쟁할 때, 살라스 부인은 고약한 병에 걸려버렸고, 거의 1년 동안 병을 앓다가 어린 에르네스토 홀로 남겨두고 세상을 떠났다. 판초 살라스는 에르네스토가 어머니의 장례를 끝낸 뒤에야 급하게 집으로 돌아왔다.
+	    그 후 에르네스토는 아버지와 함께 고향을 떠나, 군대를 따라 볼리바르 각지를 다녔고, 그러다 '진정한 볼리바르인' 예비 부대에 들어가 나이가 비슷한 소년들과 함께 전문적인 군사 훈련을 받았었다. 8년 전, 전장에서 패배한 판초는 3년간 정처 없이 떠돌다 에르네스토와 라파엘라를 데리고 도솔레스로 와 잠시 칩거하며 재기할 날을 기다렸다.
+	    아버지의 말을 잘 따르고, 생각이 단순한 오퍼레이터 라 플루마와는 달리, 에르네스토는 많은 일을 더 깊고 더 다양한 시선으로 봤다. 도솔레스에서 살았던 5년이라는 시간은 이 젊은이가 완전히 도시에 녹아들기에 충분했다. 이곳의 자유로움과 향락을 최고로 생각하는 다양한 이념은 그에게 꽤나 큰 영향을 주었다. 또한 시장 밑에서 일했던 경험도 많은 일을 대하는 그의 관점을 바꿔놨다.
+
+———————————————————————————————
+
+	档案资料三 :
+	干员龙舌兰很快就在罗德岛做成了这样两件事：
+	其一，他提高了不少干员对酒的品鉴能力。闲暇之余，他偶尔会出现在酒吧中，为其他干员介绍酒的品种，并为他们找到适合他们口味的酒，而当有调酒师，尤其是他的义妹，羽毛笔在时，对各种混合酒也相当了解的他也会对各种混合酒进行介绍，毕竟众所周知，羽毛笔虽然是个优秀的调酒师，但她很少主动说话。
+	其二，他在加入罗德岛后，发现罗德岛并不反对干员们在工作之余拥有自己的兴趣，于是打算在舰内继续经营他的武器店——与在多索雷斯时的情况相比较，罗德岛四处移动的特性令其能够更加便利地购入各地的优秀武器。而面对作为客人登门的干员们，龙舌兰则会认真地根据每一位客人的实际情况加以推荐。除此之外，干员龙舌兰看起来与罗德岛内优秀的工匠们都相谈甚欢，或许武器的定制与改装也即将被提上日程。
+	
+	从以上两方面来看，干员龙舌兰展露出了一种机巧玲珑的社交风格，并且不愧为前多索雷斯国际贸易管理部的副主任，商人气质在其身上也十分显著。
+	不过在罗德岛内，似乎也有对于他来说不那么容易相处的对象，同样来自玻利瓦尔的干员杜宾算是其中之一。龙舌兰与杜宾在初次照面时的气氛并不能算非常融洽，但是，对于将种种复杂思绪掩藏在笑容背后的龙舌兰，同一个国家出身，拥有更甚于他的复杂经历，对玻利瓦尔有更加深刻想法的杜宾或许反而是罗德岛上最能理解他的人。事实上，杜宾也轻易地看穿了他，并且，杜宾将他视作一个来自祖国的，值得培育的青年，对他相当关注，这让龙舌兰在面对杜宾时会罕见地表现出局促的一面。
+
+	第三資料 :
+	テキーラはロドスにおいて、短い期間で二つの事を成し遂げた。
+	一つ目は、多くの者の酒への造詣を深めたことである。彼は時々バーに現れ、他のオペレーターに様々なお酒を紹介し、彼らの好みに合うものをすすめた。バーテンダーがいる時、それも彼の義妹であるラ・プルマがいる時は、深い知識をもとにおすすめのカクテルを見繕ったりもした。周知の通り、ラ・プルマは優秀なバーメイドではあるが、自分から会話をしようとすることは滅多にないからだ。
+	二つ目は、ロドス艦内で武器店を経営することである。というのも、ロドスがオペレーターの仕事以外の趣味に干渉しないと気づいたためである。ドッソレスと違って、ロドスは大地を移動するので、各地の優れた武器の仕入れが便利になった。そして客として訪れたオペレーターたちに対して、テキーラはそれぞれのニーズに合わせて真面目に提案する。また、彼は艦内の優秀な職人たちとも話が合うようなので、武器の受注製作や改造も近いうちに店の提供サービスとして追加されるかもしれない。
+	
+	以上の二点から、テキーラは非常に臨機応変なコミュニケーションスタイルを有していることがわかる。加えて、さすがは元ドッソレス国際貿易管理部の副主任というべきか、商人の気質も顕著に見られる。
+	しかしそんな彼からしても、ロドスには多少付き合いにくい相手がいる。同じくボリバル出身のドーベルマンがまさにその一人で、二人の初対面は流石に和気あいあいとは言い難いものだった。しかし、様々な思いを笑顔の裏に隠すテキーラにとって、同郷であり、かつ彼以上に複雑な経歴を持ち、ボリバルについてもより深い考えを持つドーベルマンこそが、ロドスで最も彼を理解できる存在なのかもしれない。実際、ドーベルマンは簡単に彼の本心を見抜いていた。そしてテキーラを同じ祖国出身の、育てがいがある青年として扱っており、相当な注目を与えている。そういった事情もあり、テキーラはドーベルマンを相手する時は珍しくうろたえる一面を見せている。
+
+	Archive File 3 :
+	Operator Tequila quickly accomplished two things at Rhodes Island:
+	First, he improved the wine-tasting ability of many operators. In his spare time, he occasionally appears in the bar to introduce various wines to the other operators, finding something suiting their tastes. When a bartender is present, his sister La Pluma in particular, he demonstrates his knowledge of mixed drinks as well and introduces them to other patrons. After all, it is well known that though La Pluma is an excellent bartender, she seldom takes the initiative to talk.
+	Second, after joining Rhodes Island, he found that the company does not object to operators maintaining their own interests outside of work, and as such, he planned to continue operating his weapons shop on the ship — unlike the situation in Dossoles, the mobility of the Rhodes Island landship makes it easier to purchase high-quality equipment from various places. In front of the operators who come to his doorstep as customers, Tequila provides serious recommendations to each guest depending on their actual circumstances and needs. Furthermore, Tequila seems to have made significant inroads with the skilled craftspeople of Rhodes Island, and perhaps the modification and customization of weapons will soon be on the agenda.
+	
+	From the two things above, Operator Tequila clearly demonstrated an adept and ingenious ability to leverage his social skills, bringing his entrepreneurial temperament along with him, well-deserving of his former job as the deputy director of the Dossoles International Trade Management Department.
+	However, there are certain individuals in Rhodes Island who he struggles to get along with, and Dobermann, an operator from Bolívar, is one such individual. The atmosphere between Tequila and Dobermann was rather tense when they first met. However, Dobermann, who hailed from the same country as him, had more convoluted experiences there than he did, and had a more profound understanding of Bolívar, ironically may have understood Tequila, who hides all kinds of complex thoughts behind a smile, better than anyone else at Rhodes Island. In fact, Dobermann easily saw through his facade and came to regard him as a young man from the same motherland, worthy of nurturing, and keeps a close eye on him. This makes Dobermann one of the few people who can make Tequila visibly squirm.
+
+	파일 자료 3 :
+	    오퍼레이터 테킬라는 로도스 아일랜드에서 빠르게 두 가지 일을 해냈다.
+	    하나는 오퍼레이터들의 술 감정 능력을 키운 것이다. 그는 한가할 때면 종종 바에 나타나 다른 오퍼레이터에게 술의 종류를 소개하고, 입맛에 맞는 술을 찾아주기도 한다. 바텐더, 특히 그의 여동생인 라 플루마가 있을 땐 그가 알고 있는 다양한 칵테일을 소개하기도 하는데, 다들 알다시피 라 플루마가 훌륭한 바텐더이긴 해도 먼저 말을 거는 경우가 거의 없기 때문이다.
+	    두 번째는 로도스 아일랜드에 입사한 뒤, 오퍼레이터들이 업무 외 시간에 갖는 취미에 반대하지 않는다는 걸 알게 되자 선내에서 자신의 무기점을 계속 운영하기로 한 것이다. 도솔레스에 있을 때와 비교해 보면, 곳곳을 다니는 로도스 아일랜드의 특징상 각지의 훌륭한 무기를 더욱 편리하게 구매할 수 있다. 그리고 테킬라는 손님으로 찾아온 오퍼레이터들에게 진지하게 개인에게 맞는 무기를 추천해 주었다. 이 외에도, 오퍼레이터 테킬라가 로도스 아일랜드의 솜씨 좋은 장인들과 즐겁게 대화하는 것을 보니, 곧 무기 제작과 개조에 대한 계획도 세울 것 같다.
+	
+	    위의 두 방면에서 오퍼레이터 테킬라는 영리하고 능숙한 사교 스타일과 전 도솔레스 국제무역관리부의 부주임다운 상인 기질을 충분히 드러냈다.
+	    하지만 로도스 아일랜드에는 그런 그조차도 상대하기 쉽지 않은 상대가 있는데, 같은 볼리바르에서 온 오퍼레이터 도베르만이 그중 하나다. 테킬라와 도베르만의 첫 만남은 그다지 화기애애하지 않았다. 하지만 복잡한 감정을 웃음 뒤에 숨기는 테킬라에게 있어 같은 나라 출신에 그보다 더 복잡한 경력을 가지고, 볼리바르에 대해 더 잘 아는 도베르만은 어쩌면 로도스 아일랜드에서 그를 가장 잘 이해해 줄 수 있는 사람일지도 모른다. 도베르만은 쉽게 그를 간파했으며, 같은 나라 출신이자 키울만한 청년으로 여겨 무척 관심을 갖고 지켜보고 있다. 이것이 바로 테킬라가 도베르만의 앞에만 서면 어색해지는 이유다.
+
+———————————————————————————————
+
+	档案资料四 :
+	【权限记录】
+	关于在这一届多索雷斯大奖赛过程当中发生的事件，干员陈已经在报告中简要地向我们说明了其前因后果，其中特别提到了她为何会推荐龙舌兰与拉菲艾拉来到罗德岛。
+	潘乔·萨拉斯筹划已久的计划功亏一篑，他本人未来有很长一段时间将在监狱中度过，除此之外，市长坎黛拉·桑切斯以为大奖赛提供了绝佳额外节目为由，特赦了潘乔以外的参与计划的人员，只是对他们进行了革职以及驱逐出境处理，这不可谓是一种莫大的讽刺。
+	而面对对未来感到迷茫的龙舌兰以及羽毛笔义兄妹，干员陈思索再三，最终决定引荐两人来到罗德岛。干员陈认为自己尚且没有资格审判龙舌兰的所作所为，并且，她也感受到了龙舌兰对自身行为的挣扎，因此，她选择让埃内斯托可以试试通过在多索雷斯新建立的罗德岛办事处的申请加入罗德岛，而最终，龙舌兰与羽毛笔共同来到了罗德岛。
+	需要在这里特别补充说明的是，如果埃内斯托是为了达成目的，能够视平民的性命于无物的那一类人的话，罗德岛必然不会接纳他。
+	但是，我们能够依靠陈对事件的还原，从而了解到埃内斯托的一些想法。老潘乔的计划困难重重，为了使潘乔能够顺利在暗中联系上外部的可用势力，负责指挥行动的埃内斯托必须在行动中吸引市长及其他意外出现的人物的注意。他需要在多索雷斯城内煽动起一定程度的恐慌情绪，同时也需要对市长坎黛拉施加一定的心理压力。为此，在事件过程中，埃内斯托指挥其下属在居民区内安放了相当数量的炸药......针对这一行为，陈在报告中指出，当时的居民区正因大奖赛的举办而被临时征用，所有居民在赛前已经完成撤离，理论上来说，那里会是那一段时间内多索雷斯最空旷的区域。
+	当然，这并不是说埃内斯托身上理应背负的罪责能够因此而有任何轻减，也并非是在为其辩护。只是，在了解事情经过之后，我们至少可以确定一点：
+	埃内斯托·萨拉斯不想要一座可以移动的废墟。他也不想要遍地的尸体。
+	或许正因他少年时看过战争，知晓其残酷，所以才不希望自己也变得像那些自己记忆中的军队一样，将尸体和破坏视作炫耀的资本。
+
+	第四資料 :
+	【権限記録】
+	今回のドッソレス大会最中に起こった事件に関して、チェンは既に報告書で顛末を説明した。その中でなぜテキーラとラファエラをロドスへ推薦したかについても言及していた。
+	パンチョ・サラスが長く準備してきた計画は失敗に終わり、彼自身はこれから長い時間を刑務所で過ごすことになる。一方、市長のカンデラ・サンチェスは大会に絶好のサプライズイベントを提供したという理由で、パンチョ以外の計画参加者を特赦し、彼らに免職や都市からの追放といった処分だけ与えた。この決定は、パンチョらにとっては特大の皮肉にあたったであろう。
+	未来が見えずに戸惑うテキーラとラ・プルマの義兄妹二人を前に、チェンは熟慮の末、二人をロドスへ推薦することにした。彼女はテキーラの行いを断罪する権利が今の自分にはないと考え、今回の事件を遂行するにあたってのテキーラの迷いにも気づいていた。そのため、ドッソレスで新たに立ち上がったロドス事務所への加入申請を彼らに勧めた。結果として、テキーラとラ・プルマは共にロドスの一員となったのである。
+	特筆しなければならないのは、もしテキーラが自身の目的のために一般人の命など気にしないような人間であれば、ロドスが彼を受け入れたりは決してしなかったということだ。
+	しかし、チェンの事件報告から、我々は彼の考えを一部垣間見ることができた。パンチョの計画には様々な障碍があり、そんな彼が人知れずに外部の協力者と繋ぎをとるためには、行動指揮を担当するテキーラが市長や、計画以外で現れた人物の注意を引き付けなければいけなかった。そのために、彼はドッソレス市内である程度の恐怖と混乱を煽り、市長のカンデラに心理的プレッシャーを与える必要に迫られた。彼は部下に、住宅地内にかなりの数の爆弾を設置させたが……その行動に対して、チェンは報告書でこのように指摘した――「あの住宅地は既に大会のために臨時で占用されており、全住民は事前に退避していたため、理論上、あれは大会期間中ドッソレスにおいて最も無人に近いエリアと言える」と。
+	もちろん、だからといってテキーラが背負うべき罪が軽減するわけではなく、彼のために弁解しているわけでもない。ただ、事情を知れば、我々は少なくともひとつの結論にたどり着ける。
+	エルネスト・サラスはただ移動のできる廃都市を手に入れたいわけではなかったし、見渡す限り死体だらけの光景が見たいわけでもなかった、ということだ。
+	少年時代から戦争を目の当たりにして、その残酷さを知っているからこそ、自分も記憶の中の軍隊たちみたいに、死体や破壊を戦果にするようになりたくなかったのだろう。
+
+	Archive File 4 :
+	[Classified Log]
+	Regarding the events that occurred during the Dossoles championship, Operator Ch'en has already briefly explained the causes and consequences to us in a report, specifically mentioning why she would recommend Tequila and Rafaela to Rhodes Island.
+	Pancho Salas's long-planned plot fell short, and he will spend a long time in prison as a result. However, Mayor Candela Sanchez saw the championship as a great boon for viewership, and as a result, granted amnesty to all the people participating in the plot with the exception of Pancho, instead removing them from their posts and exiling them, an irony not lost upon us.
+	The siblings, Tequila and La Pluma, were faced with an uncertain future, and Operator Ch'en, after great deliberation, finally decided to recommend the two of them to Rhodes Island. Ch'en believed that she was in no position to pass judgment on Tequila's actions, and also recognized that Tequila was undergoing his own internal struggle. As such, she gave Ernesto the option of trying to apply to Rhodes Island through the newly-established regional branch in Dossoles. In the end, Tequila and La Pluma came to Rhodes Island together.
+	What must be noted is that if Ernest was the type of person who could disregard the lives of civilians in order to further his own ends, Rhodes Island absolutely would have turned him down.
+	However, we can rely on Ch'en's pieced-together account of the incident to understand some of Ernesto's thought process. Old Pancho's plan was very difficult to execute, and in order to enable him to smoothly coordinate with the available outside forces, Ernesto, who was in placed in charge of directing the operation, had to attract the attention of the Mayor as well as that of other unexpected players. He had to instigate a certain degree of panic within Dossoles, and also needed to apply sufficient psychological duress on Mayor Candela. To accomplish these ends, Ernesto commanded his subordinates to place a considerable amount of explosives in residential areas... Ch'en's views on these actions are as follows: At that time, the residential area had been temporarily expropriated due to the championship being held, and all residents had been evacuated before the games. In theory, that area would've been the least populated place in Dossoles during that time.
+	Of course, this is not to say that Ernesto's guilt should be lessened in any capacity, nor is this to defend him. However, after taking stock of the situation after the fact, we can at least make a definite conclusion:
+	Ernesto Salas was not interested in creating a moving heap of rubble. Nor did he want corpses strewn everywhere.
+	Perhaps as a result of the wars he had seen in his youth and his knowledge of their cruelty, Ernesto did not want to become like the armies in his memories, treating corpses and destruction as trophies to be shown off.
+
+	파일 자료 4 :
+	[권한 기록]
+	    오퍼레이터 첸은 보고서를 통해 이번 도솔레스 그랑프리 과정에서 발생한 사건의 원인과 결과를 자세하게 설명했으며, 테킬라와 라파엘라를 로도스 아일랜드에 추천하는 이유도 특별히 언급했다.
+	    판초 살라스는 오랫동안 준비한 계획이 실패하였고, 기나긴 시간을 감옥에서 보내야 한다. 이 밖에도, 칸델라 산체스 시장은 그랑프리에 훌륭한 추가 프로그램을 제공했다는 이유로 판초 외의 공범들을 특별 사면했지만, 동시에 그들은 파면되어 국경 밖으로 쫓겨났다. 이 얼마나 아이러니한 일인가?
+	    오퍼레이터 첸은 미래가 막막하게 느껴진 테킬라와 라 플루마 남매를 심사숙고 끝에 로도스 아일랜드에 추천하기로 했다. 오퍼레이터 첸은 자신이 아직 테킬라의 행실을 심판할 자격이 없다고 생각했고, 테킬라가 가진 스스로에 대한 고민을 느낀 첸은 에르네스토에게 도솔레스에 새로 세워진 로도스 아일랜드 사무소를 통한 로도스 아일랜드 입사 신청을 권유했다. 그리고 결국, 테킬라와 라 플루마는 함께 로도스 아일랜드로 왔다.
+	    특별히 한 마디 덧붙이자면, 에르네스토가 목적을 위해 평민들의 목숨을 하찮게 여기는 사람이었다면, 로도스 아일랜드는 그를 받아들이지 않을 것이다.
+	    하지만 우리는 첸에게 사건에 대해 듣고, 에르네스토의 생각을 조금은 이해할 수 있었다. 판초의 계획에는 어려움이 많았고, 판초가 몰래 외부에 있는 동원 가능한 세력에게 연락할 수 있도록, 지휘 작전을 담당하는 에르네스토는 반드시 시장과 나타날 수 있는 인물의 주의를 끌어야 했다. 그는 도솔레스 도시 내에서 어느 정도의 혼란을 야기하는 동시에 시장 칸델라에게도 일정 수준의 심리적 압박감을 줘야 했고, 에르네스토는 이를 위해 부하를 시켜 주민 구역 내에 꽤 많은 수의 폭탄을 설치했다…… 이 행동에 대해 첸의 보고서는 당시 주민 구역은 그랑프리 개최를 위해 임시로 징용되었고, 모든 주민은 그랑프리 전에 철거를 완료했다고 지적했다. 이론적으로 보면 그곳은 그 시간에 도솔레스에서 가장 사람이 없는 곳이었다.
+	    물론 그렇다고 해서 에르네스토가 마땅히 책임져야 할 죄의 무게가 가벼워지는 것은 아니며, 첸 역시 테킬라를 위해 변호한 것도 아니다. 다만 사건의 경위를 알고 난 뒤, 우리는 적어도 한 가지 사실을 확신할 수 있었다.
+	    그건 바로 에르네스토 살라스는 이동 가능한 폐허도, 곳곳에 깔린 시체도 원치 않았다는 것이다.
+	    어쩌면 어렸을 때부터 전쟁을 목격했고, 또 그 잔혹함을 알고 있었기에, 에르네스토는 시체와 파괴를 영광으로 여기는 기억 속 군인들처럼 살고 싶지 않았는지도 모른다.
+
+———————————————————————————————
+
+	晋升资料 :
+	我们看到的这个年轻人性格并不真的像他表现出的那样阳光爽朗，在他其实没有对我们过多遮掩的情况下，想要发现这一点并不是一件难事。
+	干员龙舌兰对自身的经历和周遭人的经历都有所思考，能够保持思考是一件非常难得的事。很明显，埃内斯托对老潘乔的某些想法并不赞同。尽管如此，在这次多索雷斯的事件中，他还是选择了帮助自己的父亲。
+	多索雷斯的动荡与最终老潘乔·萨拉斯的失败，对于埃内斯托·萨拉斯来说，是一个令他下定决心的重要事件。现在，年轻人已经确信自己甩脱了上一代的意志和掌控，决心要找到自己新的方向。
+	这个方向或许会与上一代的选择截然不同。埃内斯托始终承认，他属于玻利瓦尔，未来他还会再回到玻利瓦尔。如果有更多像他这样的年轻人，玻利瓦尔的局势或许也会产生新的变化。
+	这个年轻人始终在摸索属于自己的那条路。这令我们怀有期待。
+
+	昇進資料 :
+	我々の前にいるこの若者の性格は、彼が表向きに出している明るく爽やかな面だけで構成されているわけではない。彼もさほど強く隠そうとしていない状況において、それを察するのは難しいことではなかった。
+	テキーラは、自身が経験した出来事に関しても、周囲の人々が経験したことに対しても、きちんと考えている。考え続けることができるというのは、非常に得がたく尊ぶべき資質である。そして明らかに、彼はパンチョの持つ思想の一部に否定的だ。それでも、ドッソレスの今回の事件において、彼は父に手を貸すことを選んだ。
+	ドッソレスで起きた動乱とパンチョ・サラスの失敗は、エルネスト・サラスにとって決意をするきっかけとなる重要な出来事だった。この若者は、今や自身が前世代の意志と支配から脱したと確信し、新たな行き先を見つけようとしている。
+	その行き先は、前世代の選択とは全く異なるのかもしれない。テキーラは、自身がいつまで経ってもボリバルの人間だと認めており、未来もこの国に戻るつもりでいる。彼のような若者がさらに増えれば、ボリバルの状況に新たな変化が生じるかもしれない。
+	この若者は常に自らの道を模索している。その事実は、我々に彼への期待を抱かせるものだ。
+
+	Promotion File :
+	The personality that we observed in this young man is not quite as sunny and hearty as the side he displays. We were able to discover this without much difficulty when he didn't try to cover it up from us too much.
+	Operator Tequila thinks about both his own experiences and also the experiences of the people around him to a great extent, and to be able to maintain this is rare indeed. Obviously, Ernesto disagrees with some of Old Pancho's ideas, but nevertheless, chose to aid his father throughout the Dossoles incident.
+	As for Ernesto Salas, the turmoil of Dossoles and the failure of Pancho Salas was a turning point that helped him make up his mind. Now, the youth have convinced themselves that they've freed themselves from the will and control of the previous generation, and are determined to pave their own way.
+	This way may branch off in a completely different direction than the last generation, but Ernesto has always admitted that he belongs to Bolívar and will likely return there in the future. If there are more young people like him, the situation in Bolívar may experience new change as well.
+	This young man is trying to grasp his own destiny, and we are keenly interested in seeing where this leads him.
+
+	승진 자료 :
+	    우리가 본 이 젊은이의 성격은 그가 보여주는 것처럼 꼭 밝고 쾌활하지만은 않았다. 그가 우리에게 과도하게 숨기지 않는 상황에서 이 점을 발견하는 건 어려운 일이 아니었다.
+	    오퍼레이터 테킬라는 자신과 주위 사람이 겪은 일에 대해 늘 생각하고 있었다. 생각을 계속한다는 건 몹시 어려운 일이다. 에르네스토가 판초의 일부 의견에 동의하지 않는다는 건 분명하다. 그럼에도 그는 이번 도솔레스 사건에서 자신의 아버지를 돕기로 했다.
+	    도솔레스의 폭동과 결국 실패한 판초 살라스는 에르네스토 살라스의 결심을 굳힌 중요한 계기가 되었다. 젊은이는 이제서야 이전 세대의 의지와 통제에서 벗어났다는 것을 확신하며, 자신만의 새로운 방향을 찾기로 결심했다.
+	    어쩌면 이전 세대의 선택과 전혀 다른 방향이 될 수도 있다. 에르네스토는 자신이 볼리바르에 속하며, 훗날 그곳으로 돌아갈 거라고 인정하고 있다. 에르네스토와 같은 젊은이가 더 많아지면, 볼리바르의 상황에 새로운 변화가 생길지도 모른다.
+	    이 젊은이는 끊임없이 자신만의 길을 찾고 있다. 우리는 그 점이 기대된다.

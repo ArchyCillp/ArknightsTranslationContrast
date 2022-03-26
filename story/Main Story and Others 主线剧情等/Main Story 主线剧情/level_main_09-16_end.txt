@@ -1,408 +1,1020 @@
 [name="深池士兵"]有人说，你在附近看见一个头上长角的白发姑娘了？
+[name="ダブリン兵士"]お前、この辺りで角の生えた白い髪の娘を見たらしいな？
+[name="Dublinn Soldier"]I got a report that you spotted a white-haired girl with horns here?
+[name="더블린 병사"]네가 이 근처에서 머리에 뿔이 난 백발의 여인을 봤다며?
 
 [name="畏缩的青年"]长官，我也不知道我见到的是不是你们要找的人......
+[name="怯えきった青年"]じょ、上官方がお探しの人物かはわかりませんが……
+[name="Timid Youth"]I'm not sure it's the one you're looking for.
+[name="위축된 청년"]장관님, 제가 본 사람이 당신들이 찾는 사람이 맞는지 저도 모르겠어요……
 
 [name="深池士兵"]先说。
+[name="ダブリン兵士"]いいから言え。
+[name="Dublinn Soldier"]Speak.
+[name="더블린 병사"]일단 말해 봐.
 
 [name="畏缩的青年"]她是不是受了重伤？胸口和肚子这一片，开了个好大的口子——
+[name="怯えきった青年"]ひっ、はい！　ええと、胸とお腹に大きな傷がありまして、恐らく重傷だったのではないかと――
+[name="Timid Youth"]She's really hurt, right? As in, there's a huge hole through her chest and stomach—
+[name="위축된 청년"]아마 중상을 입었던 것 같아요. 가슴과 배 쪽에 커다란 구멍이 뚫려 있었어요……
 
 [name="深池士兵"]说下去。
+[name="ダブリン兵士"]続けろ。
+[name="Dublinn Soldier"]Go on.
+[name="더블린 병사"]계속해봐.
 
 [name="畏缩的青年"]她被一个灰头发的萨科塔抱着，血淌了一地，那叫一个惨！
+[name="怯えきった青年"]か、彼女は白髪のサンクタに抱えられていて……そこら中に、血がぼたぼたと……それはもう、ひどい光景で……！
+[name="Timid Youth"]A gray-haired Sankta came and carried her away. God, her blood spilled all over the place. It was horrifying!
+[name="위축된 청년"]회색 머리의 산크타에게 안겨 있었는데, 바닥이 흥건해질 정도로 피가 흘러 너무 끔찍했어요!
 
 [name="深池士兵"]萨科塔？你确定没看错？
+[name="ダブリン兵士"]サンクタ？　確かだろうな？
+[name="Dublinn Soldier"]A Sankta? Are you sure?
+[name="더블린 병사"]산크타라고? 제대로 본 것 맞아?
 
 [name="畏缩的青年"]长官，我保证没看错。在小丘郡，萨科塔可不算常见，要不是她头上那个圆圆的灯管亮得吓人，大晚上的我都注意不到呢。
+[name="怯えきった青年"]間違いありません！　ヒロック郡で、サンクタなんてあまり見かけませんし、もう日が落ちてますから、あの頭の上の輪っかが光ってなければ気付けませんでした。
+[name="Timid Youth"]I guarantee you I saw a Sankta. Not a whole lot of them here in County Hillock. If it weren't for the glowing halo on her head, I wouldn't have seen her in the dark.
+[name="위축된 청년"]장관님, 틀림없습니다. 힐록 카운티에서 산크타는 흔치 않아요. 한밤중이라 그 머리 위에 있는 둥근 형광등이 엄청나게 밝지 않았더라면, 눈치채지도 못했을 거예요.
 
 [name="深池士兵"]他们去了哪里？
+[name="ダブリン兵士"]で？　そいつらはどこへ行った？
+[name="Dublinn Soldier"]Where did they go?
+[name="더블린 병사"]녀석들이 어디로 갔지?
 
 [name="畏缩的青年"]就最后那屋子的楼上，破了窗的那间，刚刚那萨科塔跑得飞快，一下就蹿了进去。
+[name="怯えきった青年"]奥の方にある建物の、上の階……窓が割れているあの部屋です。そのサンクタ、とんでもなく素早くて、一瞬で飛び込んでいくのが見えました。
+[name="Timid Youth"]In that last house there, upstairs. The one with the broken window. She was running up a storm and jumped straight inside.
+[name="위축된 청년"]저기 마지막 집의 위층, 창문이 깨진 저 집이요. 그 산크타가 엄청난 속도로 순식간에 뛰어 올라갔어요.
 
 [name="深池士兵"]就那里？这么近？
+[name="ダブリン兵士"]あそこだな？　こんなに近くにいたのか。
+[name="Dublinn Soldier"]Over there? She's that close?
+[name="더블린 병사"]저기? 이렇게 가깝다고?
 
 [name="深池士兵"]P8，R3，这里是B9——你们搞什么呢？！目标就在这个区！
+[name="ダブリン兵士"]「P-8」！　「R-3」！　こちら「B-9」――お前ら、一体何をやってる！？　ターゲットはこのエリア内にいるはずだぞ！
+[name="Dublinn Soldier"]P8, R3, this is B9—What were you two doing?! The target's in this district!
+[name="더블린 병사"]P8, R3, 여기는 B9…… 너희 대체 뭐 하는 거야?! 목표가 이 구역에 있잖아!
 
 [name="深池士兵"]一小时前和半小时前，你们队就该搜过这条街上的每一间屋子了，为什么一直没汇报？！
+[name="ダブリン兵士"]お前らの隊は一時間前と三十分前で二回、この通りの全部屋を捜索したんだろう？　なぜこのことを報告しなかった！？
+[name="Dublinn Soldier"]Your team should have already searched every last house on this street an hour ago. How come I haven't heard from you?!
+[name="더블린 병사"]한 시간 전과 반 시간 전에 너희 팀이 이 거리의 모든 집을 수색했을 거잖아. 그런데 왜 여태 보고하는 사람이 없어?!
 
 [name="深池士兵"]......
+[name="ダブリン兵士"]……何だ？
+[name="Dublinn Soldier"]......
+[name="더블린 병사"]……
 
 [name="深池士兵"]什么玩意儿？一点声音都没有！P8，R3，立刻回复！
+[name="ダブリン兵士"]さっきから、何の音も……どうした「P-8」、「R-3」！　応答しろ！
+[name="Dublinn Soldier"]What's the funny idea? I'm not getting a peep from you! P8, R3, answer immediately!
+[name="더블린 병사"]뭐 하는 거야? 왜 아무 소리도 없어! P8, R3은 즉각 응답하라!
 
 [name="深池士兵"]*维多利亚粗口*！
+[name="ダブリン兵士"]チッ……*ヴィクトリアスラング*！
+[name="Dublinn Soldier"]Dia ár sábháil!
+[name="더블린 병사"]이런 *빅토리아 욕설*!
 
 [name="畏缩的青年"]长官，还有我什么事吗？没什么事的话我就走了，那个，还有您答应能给我的一点点绷带......
+[name="怯えきった青年"]あ、あの、上官、ほかに御用はお有りでしょうか？　ないようでしたら、俺はもう行こうかと……そ、それと、包帯をくださるって約束でしたけど……
+[name="Timid Youth"]Do you need me for anything else, sir? If not, I'll be on my way. And, um, I would appreciate those bandages you promised...
+[name="위축된 청년"]장관님, 또 다른 용무가 있습니까? 없다면 저는 이만 가볼게요. 그리고, 약속하셨던 붕대를……
 
 [name="深池士兵"]绷带？
+[name="ダブリン兵士"]包帯？　ああ……
+[name="Dublinn Soldier"]Bandages?
+[name="더블린 병사"]붕대?
 
 [name="深池士兵"]你怕是用不上了。
+[name="ダブリン兵士"]その必要はあるまい。
+[name="Dublinn Soldier"]You won't need them.
+[name="더블린 병사"]아마 필요 없을 거다.
 
 [name="畏缩的青年"]您......您这是要做什么？！
+[name="怯えきった青年"]えっ？　な……何をするおつもりですか！？
+[name="Timid Youth"]W—What are you doing?!
+[name="위축된 청년"]왜…… 왜 이러십니까?!
 
 [name="深池士兵"]这都是头领的命令。要怪，就怪你自己看到了不该看的东西——
+[name="ダブリン兵士"]悪いが、すべて幹部からの命令なんだ。恨むなら、見てはいけないものを見てしまった自分自身を恨むんだな――
+[name="Dublinn Soldier"]Orders from the heads. You've got no one to blame but yourself for seeing what you shouldn't have—
+[name="더블린 병사"]두목의 명령이다. 탓하려면 보지 말아야 할 걸 본 너 자신을 탓하거라……
 
 [name="畏缩的青年"]啊啊啊！
+[name="怯えきった青年"]う、うわあああ！
+[name="Timid Youth"]Aaarghhh!
+[name="위축된 청년"]아아악!
 
 [name="深池士兵"]什么人？
+[name="ダブリン兵士"]ッ……誰だ？
+[name="Dublinn Soldier"]Who are you?!
+[name="더블린 병사"]누구냐?
 
 [name="风笛"]现在流行打仗之前还要问名字的吗？
+[name="バグパイプ"]今は戦う前に名前聞くのが流行ってるの？
+[name="Bagpipe"]Is that what they do these days? Give names before you fight?
+[name="백파이프"]요즘은 싸우기 전에 이름을 묻는 게 유행이나?
 
 [name="畏缩的青年"]呜......哇......就差一点......我的脑袋就要掉了......
+[name="怯えきった青年"]ひっ……う、ぁ……！　お、俺、生きてる……っ？
+[name="Timid Youth"]*Whimpers*... Ugh... T-That almost blew my brains out...
+[name="위축된 청년"]흐흑…… 아…… 하마터면…… 머리가 떨어질 뻔했어……
 
 [name="风笛"]你快走吧，我会帮你把这些坏家伙打跑。
+[name="バグパイプ"]早く逃げて。この悪者たちはうちが引き受ける。
+[name="Bagpipe"]You'd better get goin'. I'll take care of this baddie for you.
+[name="백파이프"]니는 언릉 가 봐. 내가 이 녀석들을 대신 쫓아내 줄 거니.
 
 [name="畏缩的青年"]谢、谢谢......
+[name="怯えきった青年"]あ、ありがとう……！
+[name="Timid Youth"]Th... Thank you...
+[name="위축된 청년"]고, 고맙습니다……
 
 [name="风笛"]不用谢，这是我们应该做的。
+[name="バグパイプ"]うちらはこれがお仕事だから。お礼はいらないよ！
+[name="Bagpipe"]No need to thank me. All in a day's work.
+[name="백파이프"]고맙긴, 이건 우리가 응차 해야 할 일이야.
 
 [name="深池士兵"]破城矛......是维多利亚士兵！
+[name="ダブリン兵士"]その破城矛……ヴィクトリア兵か！
+[name="Dublinn Soldier"]Piledriver spear... A Victorian!
+[name="더블린 병사"]캐슬브레이커…… 빅토리아 병사인가!
 
 [name="深池士兵"]快，通知“强盗”长官，这里还有残余的维多利亚部队！
+[name="ダブリン兵士"]急げ！　ヴィクトリア部隊の残党がいると、至急「略奪者」様にお伝えしろ！
+[name="Dublinn Soldier"]Quick, tell 'The Bandit'! There are still Victorian remnants in the area!
+[name="더블린 병사"]어서, '약탈자' 장관님께 보고해. 여기에 빅토리아 군대 잔당이 있다고!
 
 [name="风笛"]“强盗”？你们鬼魂部队的人起名字品味都这么差的吗？
+[name="バグパイプ"]「略奪者」？　おめーさんたち、ネーミングセンスなさすぎだべ。
+[name="Bagpipe"]'The Bandit'? Do all of the spectre force have names that embarrassin'?
+[name="백파이프"]……'약탈자'? 너희 귀혼대는 이름 짓는 것도 뭐이 그래 촌스럽나?
 
 [name="风笛"]我刚才好像还打趴了几个嘴里喊着“囚犯”老大的......
+[name="バグパイプ"]さっきやっつけた人たちも、「囚人」様がどうとか言ってた気がするし……
+[name="Bagpipe"]I think I just beat up a few screamin' about some boss person called 'The Convict...'
+[name="백파이프"]내가 좀 전에 때래 잡은 몇 놈도 '죄수'님이라고 부르는 것 같던데……
 
 [name="深池士兵"]......是你干掉了P8整支小队？你......一个？
+[name="ダブリン兵士"]……「P-8」小隊全員をやったのか？　たったの、一人で……？
+[name="Dublinn Soldier"]You took down everyone at P8...? Just... you alone?
+[name="더블린 병사"]……네가 P8 소대 모두를 해치운 거야? 너…… 혼자서?
 
 [name="深池士兵"]可他们有三十个人！
+[name="ダブリン兵士"]あいつらは三十人もいたんだぞ！？
+[name="Dublinn Soldier"]There were thirty of them!
+[name="더블린 병사"]그들은 서른 명이었다고!
 
 [name="风笛"]他们的对手可是维多利亚部队——
+[name="バグパイプ"]自分たちが何と戦ってるのか、理解してないみたいだね。
+[name="Bagpipe"]Well, they were facin' the Victorian Army—
+[name="백파이프"]가들 상대는 빅토리아 군대야……
 
 [name="风笛"]就我一个也一样。
+[name="バグパイプ"]――うち一人だろうと、相手は「ヴィクトリア軍」なんだよ！
+[name="Bagpipe"]Ant it doesn't change a thing just 'cause I'm here alone.
+[name="백파이프"]그러니, 나 혼자라도 마찬가지 아니겠나?
 
 [name="深池士兵"]列队！列队！在这里围住她，她只有一个人！
+[name="ダブリン兵士"]くっ……隊列を整えろ！　奴を囲め、相手はたったの一人だ！
+[name="Dublinn Soldier"]Form up! Surround her! She's on her own!
+[name="더블린 병사"]대열을 갖춰! 녀석을 포위해라, 겨우 한 명이야!
 
 [name="风笛"]这么快就重新组织了阵型？还蛮职业的嘛！
+[name="バグパイプ"]こんなに早く陣形を整えるなんて……なかなかやるね！
+[name="Bagpipe"]Formation again? Well, you've got it together, don't you!
+[name="백파이프"]이러 빨리 진형을 가다듬는 걸 보니 니들도 제법이다야!
 
 [name="深池士兵"]保持阵线！压上去！注意互相支援！
+[name="ダブリン兵士"]戦線を維持し、取り押さえろ！　相互支援を忘れるな！
+[name="Dublinn Soldier"]Hold the line and press forward! Watch each other's backs!
+[name="더블린 병사"]진형을 유지하고! 압박해! 서로 지원하고!
 
 [name="深池士兵"]敌人冲锋能力很强，不要和她一对一！
+[name="ダブリン兵士"]敵の突撃能力は高い！　一対一でやり合うな！
+[name="Dublinn Soldier"]And watch that lance charge too! Don't take her on one-on-one!
+[name="더블린 병사"]적의 돌격 능력이 엄청나다. 일대일로 상대하지 마!
 
 [name="风笛"]哦？想以人数取胜？
+[name="バグパイプ"]おっ！　数で勝てると思ってるの？　じゃあ、言っとくけど……
+[name="Bagpipe"]Oh? Pilin' numbers up to take me down?
+[name="백파이프"]오호? 대가리 수로 이길라고 그리나?
 
 [name="风笛"]别太小看——我的矛！
+[name="バグパイプ"]この矛を――甘く見るなよ！
+[name="Bagpipe"]Don't you underestimate—my spear!
+[name="백파이프"]내 창을…… 얕보면 큰일 난다니!
 
-[name="深池士兵",block=false]咿啊啊啊！怎么会？！
+[name="深池士兵"]咿啊啊啊！怎么会？！
+[name="ダブリン兵士"]う、うわあああ！ そんなっ――！？
+[name="Dublinn Soldier"]Aaaaugh! What the-?!
+[name="더블린 병사"]으아아아악! 어떻게 이럴 수가?!
 
 [name="深池士兵"]这瓦伊凡太厉害了，一矛能穿俩！让重装防御兵上，其他人回防，赶紧去通知头领——
+[name="ダブリン兵士"]ひ、一突きで二人も……！　こ、このヴイーヴルはヤバすぎる！　重装兵、食い止めろ！　それ以外は退却だ！　急いで幹部に知らせなければ――
+[name="Dublinn Soldier"]This Vouivre's too strong! She can down two in one strike! Send the heavy defenders! Everyone else, fall back! Get word to the leaders—
+[name="더블린 병사"]이 와이번이 너무 강해. 한 번에 두 명을 꿰뚫다니! 중기갑병은 돌격하고, 나머지 인원은 방어해. 그리고 빨리 가서 두목에게 알려……
 
 [name="风笛"]别跑！
+[name="バグパイプ"]逃すか！
+[name="Bagpipe"]Oh, stick around!
+[name="백파이프"]도망가는 기나? 째째하게!
 
 [name="风笛"]最后一个！
+[name="バグパイプ"]――これで、あと一人っ！
+[name="Bagpipe"]Last one!
+[name="백파이프"]맨 꼭지바리다!
 
 [name="深池士兵"]啊啊啊——该死，怎么连重装护甲都顶不住？！
+[name="ダブリン兵士"]あああっ――クソッ！　なぜあの重装備で耐えられない！？
+[name="Dublinn Soldier"]Bloody hell, the armor's like paper to her!
+[name="더블린 병사"]아아아…… 제기랄, 왜 중기갑 갑옷조차 뚫리는 거지?!
 
 [name="深池士兵"]得撤，再不撤就来不及了！
+[name="ダブリン兵士"]撤退だ、今すぐ退け、間に合わなくなるぞ！
+[name="Dublinn Soldier"]Fall back! It's now or never!
+[name="더블린 병사"]철수해야 한다. 지금 철수하지 않으면 늦어!
 
 [name="风笛"]啊，怎么突然飞起来了？
+[name="バグパイプ"]うわわっ……！？　急に飛んで行っちゃった！？
+[name="Bagpipe"]Huh? Flyin' away on me?
+[name="백파이프"]어무야라! 갑자기 날아올랐잖나?
 
 [name="风笛"]偷了我们的蒸汽喷射装置？还是又一波来自其他国家的改装飞行装备？
+[name="バグパイプ"]うちらの蒸気式ジェットパックを盗んでたとか……？　それとも、別の国の飛行装置の改造品？
+[name="Bagpipe"]Did you steal our steam jetpacks? Or is it flyin' machines from off foreign?
+[name="백파이프"]우리 스팀 분사 장치를 쌔빈 건가? 아니문, 딴 나라 개조 비행 장비나?
 
 [name="风笛"]这些敌人的作战手法和最早出现的那批又不一样了。鬼魂部队到底是一支什么样的部队啊？
+[name="バグパイプ"]何にせよ、敵の戦い方が変わってきてる。亡霊部隊って、本当につかみ所がない相手だね。
+[name="Bagpipe"]This lot have a different combat style than the first ones we fought. There's no figurin' this spectre force, is there?
+[name="백파이프"]자들 전법은 처음하고는 마이 달라진 것 같아. 귀혼대는 대체 뭔 부대나야?
 
 [name="风笛"]要是三角铁能在这里就好了，我的矛很难打到这么高的位置哎——
+[name="バグパイプ"]こういう時トライアングルがいてくれたらなぁ。うちの矛じゃあの高さにはちょっと届かな――
+[name="Bagpipe"]I wish Triangle were here. My spear can't reach anywhere near that high—
+[name="백파이프"]지금 트라이앵글이 있었으면 고만일 텐데. 내 창으로는 저러 높은 곳까정 공격할 수 없는데……
 
 [name="风笛"]倒了！有弩手在？不，击倒敌人的不是弩弹，是......石头？
+[name="バグパイプ"]あっ、落ちた！　って、あれ？　まさか今、石ころで撃ち落とされたの……？
+[name="Bagpipe"]They're droppin'?! Is there a crossbowman around? No, those aren't bolts. Are those... stones?
+[name="백파이프"]자빠졌다! 석궁병이 있던 거나? 아니, 자들을 습격한 건 석궁이 아이야, 이건…… 돌멩이?
 
 [name="风笛"]呃，的确不是弩手——
+[name="バグパイプ"]うーん、ってことは、クロスボウ使いがやったわけじゃない――
+[name="Bagpipe"]Gosh, that's definitely no crossbow—
+[name="백파이프"]음, 확실히 석궁을 쏘는 뱅사가 아니라니……
 
 Outcast单手抱着昏迷不醒的病人，从街道旁边的空屋里走出来。
+通りの脇の空き家から、昏睡状態の怪我人を片手で抱えたOutcastが現れた。
+Carrying the unconscious patient with one arm, Outcast steps out of an empty house on the side of the street.
+아웃캐스트는 한 손으로 정신을 잃은 환자를 안고 거리 옆 빈집에서 걸어 나왔다.
 
 [name="风笛"]是你帮了我吗？谢谢！
+[name="バグパイプ"]あ！　もしかして、おめーさんが助けてくれたの？　ありがとう！
+[name="Bagpipe"]Was that you just now? Thanks for the help!
+[name="백파이프"]니가 나를 도와준 기나? 고맙게시리!
 
 [name="Outcast"]不客气，事实上，你也帮了我。
+[name="Outcast"]どういたしまして。実のところ、私も君に助けられたよ。
+[name="Outcast"]No need to thank me. You saved my ass too, after all.
+[name="아웃캐스트"]천만에. 실은, 너도 나를 도왔어.
 
 [name="风笛"]我听说萨科塔都很擅长用铳，没想到扔石头也能这么准！
+[name="バグパイプ"]サンクタはみんな一流の銃使いだって聞いてたけど、まさか石を投げさせても一流だなんて思わなかったよ！
+[name="Bagpipe"]I've always heard how good Sankta are with guns, but I never knew you could fling a rock so well!
+[name="백파이프"]산크타, 가는 총을 잘 쏜다고 들었는데, 돌멩이도 이러 잘 던질 줄은 몰랐다야!
 
 [name="Outcast"]啊哈，抱歉，我的枪火有些惹眼。
+[name="Outcast"]あっはは。いやなに、私の銃は使うと少々悪目立ちするものでね。
+[name="Outcast"]Aha, sorry, little lady, my gunplay tends to draw a crowd.
+[name="아웃캐스트"]아하, 미안. 내가 총을 쏘면 좀 눈에 띄는 편이라.
 
 [name="风笛"]也对，铳的声响太不寻常。
+[name="バグパイプ"]なるほど！　銃声だって馬鹿にならないしね。
+[name="Bagpipe"]Right. You don't hear gunfire every day around here.
+[name="백파이프"]하긴, 그게 뭐 보통 총소리나?
 
 [name="风笛"]你的朋友是受伤了吗？她看起来很不好。
+[name="バグパイプ"]ところで、おめーさんのお友達……怪我してるの？　だいぶ具合が悪そうだべ。
+[name="Bagpipe"]Is your mate hurt? She doesn't seem so good.
+[name="백파이프"]네 친구가 다친 거야? 상태가 아주 안 좋아 보이는데?
 
 [name="Outcast"]她在中午被脏弹击中了。
+[name="Outcast"]それが、昼間の汚染爆弾に降られてな。
+[name="Outcast"]She was hit during the shelling around noon.
+[name="아웃캐스트"]더티밤 포격을 맞았어.
 
 [name="风笛"]啊？！
+[name="バグパイプ"]えっ！？
+[name="Bagpipe"]Huh?!
+[name="백파이프"]어?!
 
 [name="风笛"]......对不起，差一点我们就能阻止这场袭击了。把无辜者牵连进去，真的是一个很大的错误。
+[name="バグパイプ"]……ごめんなさい。あと少しであの攻撃を止められたんだ。こんなふうに罪のない人を巻き込むなんて、やっぱりあんなの間違ってるよ。
+[name="Bagpipe"]Sorry about that... We almost could've stopped that assault. It was a huge mistake, especially with all this innocent folk dragged into the mess.
+[name="백파이프"]……미안. 우리가 죄꿈만 더 힘을 썼으면 이번 습격을 막을 수도 있었을 텐데. 죄 없는 사람들을 너무 마이 말려들게 했다니.
 
 [name="风笛"]唉，现在说这些也晚了，我只想能救几个人是几个。
+[name="バグパイプ"]はぁ、今更こんなこと言ったって何にもならないね。今から助けられるだけでも、助けなきゃ。
+[name="Bagpipe"]Ugh, no sense sayin' it now. I'm just tryin' to save as many as I can.
+[name="백파이프"]하아, 니도 참, 인제 와서 그런 말을 하면 뭔 소용이 있나? 나는 그저 한 맹이라도 더 구할 수 있기를 바랄 뿐이야.
 
 [name="风笛"]这些敌人是在找你们吗？
+[name="バグパイプ"]……ねえ、こいつらが探してたのっておめーさんたちなのかな？
+[name="Bagpipe"]Are these hostiles here for you?
+[name="백파이프"]이 적들은 너들을 찾고 있었던 거나?
 
 [name="Outcast"]我想是的。
+[name="Outcast"]ああ、だろうね。
+[name="Outcast"]I reckon so.
+[name="아웃캐스트"]그런 것 같아.
 
 [name="风笛"]我看到他们在一路追杀平民，虽然我急着赶路，但我还是没法放任不管。
+[name="バグパイプ"]さっき、こいつらが民間人を殺そうとするのを見かけたんだよ。うちも急いでるんだけど、どうしても放っておけなくて。
+[name="Bagpipe"]I saw them huntin' the locals. I'm in a hurry, but I just couldn't stand by and watch that happen.
+[name="백파이프"]오는 질 내내 저놈들이 평민들을 죽이는 걸 봤아. 나도 급히 질을 가야 하긴 했지만 어떠 그냥 보고 지나칠 수만 있겠나?
 
 [name="Outcast"]他们的恶行会得到清算。
+[name="Outcast"]――悪行を為せば、裁きが下るのは必然だ。
+[name="Outcast"]They'll pay.
+[name="아웃캐스트"]놈들의 악행은 언젠가 뿌리 뽑힐 거야.
 
 [name="风笛"]哇！刚才我听到敌人说，有两支小队失联，我只遇到了一支，另一支原来是你动的手？
+[name="バグパイプ"]わあっ、かっこいい！　さっきこいつらが小隊二つと連絡がつかないとか言ってたの聞いたけど、うちが倒したのは一つだけでさ。もしかして、もう片方をやっつけたのはおめーさん？
+[name="Bagpipe"]Whoa! I just heard 'em say they lost contact with two squads. I ran into one of them, but was the other one your handiwork?
+[name="백파이프"]와! 좀 전에 자들이 하는 말을 들었는데 두 개 소대와 연락이 끊겼대. 내가 그중 한 소대와 만났으니, 다른 한 소대는 니가 해치운 거구나, 맞제?
 
 [name="风笛"]好厉害！
+[name="バグパイプ"]すんごい強いんだね！
+[name="Bagpipe"]Fine job!
+[name="백파이프"]야~ 대단하다야!
 
 [name="Outcast"]你也很不错。
+[name="Outcast"]そう言う君も、やるじゃないか。
+[name="Outcast"]You're mighty fine yourself.
+[name="아웃캐스트"]너도 아주 대단해.
 
 [name="风笛"]不过，敌人并不只有几支小队。他们有一整支军队，而且从下午开始，越来越多敌人在涌进来。我们很难守住小丘郡了。
+[name="バグパイプ"]でも、相手はあれだけじゃないんだ。あいつらは軍隊を一つ持ってるし、午後からは増援がもっとたくさん押し寄せてきてるんだ。このままじゃ、ヒロック郡を守り切るのは難しいよ。
+[name="Bagpipe"]But the enemy's got more than just the few squads. They have an entire army, and there's more and more of 'em pourin' into the city since the afternoon. It's gonna be hard to hold County Hillock.
+[name="백파이프"]하지만, 자들은 몇 개 소대만 있는 게 아이야. 우리가 생각하는 것보다 훨씬 빡세다니, 완전히 군대라고. 거다 오후부터 더 많은 적들이 몰려오고 있다니. 아마 힐록 카운티를 지키기 어려울 것 같아니.
 
 [name="风笛"]你不是本地人的话，还是带着你的朋友先离开这座城市吧。
+[name="バグパイプ"]おめーさんも、地元の人じゃないなら、お友達を連れてこの街を離れた方がいいと思うよ。
+[name="Bagpipe"]If you aren't a local, you'd better take your pal and leave the city now.
+[name="백파이프"]니가 만약 이 도시 사람이 아니라면, 니 친구를 델고 여를 떠나는 게 좋겠아.
 
 [name="风笛"]眼下巷子外面全是敌人，你们只能从后面走——
+[name="バグパイプ"]今は路地を出たって敵だらけだし、裏から行くしかないけど――
+[name="Bagpipe"]We've got hostiles watchin' the alleyways. Looks like you'll have to leave the other way—
+[name="백파이프"]지금 골목 밖에는 온통 적들이니, 니들은 요 뒤로 빠져나가는 수밖에 없겠다야……
 
 [name="风笛"]呃，全堵上了？！
+[name="バグパイプ"]って、ありゃ！？　道が塞がれてる！？
+[name="Bagpipe"]Or they're all blocked?!
+[name="백파이프"]윽, 다 막했아?!
 
 [name="风笛"]城里的落石真是异常的多啊。
+[name="バグパイプ"]ほんと、街中瓦礫だらけだなあ……
+[name="Bagpipe"]How could there be so much debris in one city?!
+[name="백파이프"]도시 안에 떨어지는 돌맹이가 뭐이 이리 많나야.
 
 [name="风笛"]趁他们还没追来，我会先帮你们清理下挡住后面这条路的碎石——
+[name="バグパイプ"]こうなったら、追手が来る前に、道を塞いでる瓦礫を片付けちゃわないと――
+[name="Bagpipe"]Well, they aren't here yet. I'll help you take care of what's blockin' the passageway out back first—
+[name="백파이프"]자들이 아직 쫓아오지 않으니 내가 언릉 뒷질을 막고 있는 돌무데기부터 치워줄 거니……
 
 [name="Outcast"]你不撤退？
+[name="Outcast"]ときに、君自身は撤退しないのか？
+[name="Outcast"]You're not going to retreat?
+[name="아웃캐스트"]너는 철수 안 해?
 
 [name="风笛"]我不会撤退。
+[name="バグパイプ"]しないよ。
+[name="Bagpipe"]I'm not retreatin', no.
+[name="백파이프"]나는 절대 돌아가지 않을 기라고!
 
 [name="风笛"]我还要穿过城区，去和我的队友会合。
+[name="バグパイプ"]うちは市街地を抜けて、仲間と合流しないといけないから。
+[name="Bagpipe"]I'll make my way through the city and regroup with my teammates.
+[name="백파이프"]나는 시내를 통과해 동료들과 만내야 해.
 
 [name="Outcast"]你要穿过城区？当前满城都是你的敌人，大部分路也被残垣封住了。
+[name="Outcast"]市街地にはまだ、あの連中がうようよいるんだぞ。その上、今、君が言った通り、道はほとんど瓦礫で塞がれている。
+[name="Outcast"]Through the whole city? Crawling with enemies? With most roads cut off by debris?
+[name="아웃캐스트"]시내를 통과하겠다고? 지금 온 도시가 적들로 가득 차 있고, 거기다 대부분의 길도 잔해로 막혀 있어.
 
 [name="风笛"]还好，我已经走了一半啦。
+[name="バグパイプ"]大丈夫大丈夫。あと半分ってところまで来てるしね！
+[name="Bagpipe"]Good thing I'm already halfway through, eh?
+[name="백파이프"]괜찮아. 벌써 반이나 왔잖나.
 
 [name="Outcast"]你一个人，打他们这么多人，倒是一点都不害怕。
+[name="Outcast"]一人でこれだけ多くの敵を相手取ることに、恐れはないのかい。
+[name="Outcast"]You're all alone, taking them by yourself, and you ain't scared one bit.
+[name="아웃캐스트"]너 혼자서 저렇게 많은 사람을 상대하면서도, 전혀 무서워하지 않는구나.
 
 [name="风笛"]害怕吗？战场上，我还从没有怕过。
+[name="バグパイプ"]恐れ……？　戦場にいて、怖いと思ったことはないよ。
+[name="Bagpipe"]Scared? The battlefield's never scared me.
+[name="백파이프"]무섭나? 전장에서 나는 안즉까정 한 번도 무서워한 적이 없아.
 
 [name="风笛"]不过，我蛮担心的。
+[name="バグパイプ"]でも、今の状況は心配ではあるね。
+[name="Bagpipe"]I am pretty worried, though.
+[name="백파이프"]하지만, 마이 걱정스루와.
 
 [name="风笛"]我没见过......一座维多利亚的城市变成现在这样。
+[name="バグパイプ"]ヴィクトリアの都市がこんなふうになるところなんて……見たことなかったからさ。
+[name="Bagpipe"]I've never seen... a Victorian city in this kind of shape.
+[name="백파이프"]빅토리아 도시가…… 이 꼬라지가 된 건 처음 본다야.
 
 [name="Outcast"]当林贡斯被维多利亚和它的同盟一起彻底撕成碎片的时候，那座曾是世界之都的巨型城市彻底沦为炼狱，景象远比眼前惨上百倍。
+[name="Outcast"]その昔、ヴィクトリアとその同盟国によって、リンゴネスが徹底的に破壊し尽くされた時、かつて世界の首都だったあの巨大都市は煉獄となり果てた。当時の光景は、今の数百倍悲惨だったよ。
+[name="Outcast"]Lingones used to be a massive metropolis, many years ago. You could call it the capital of the world. But Victoria and its allies decided to burn it all down. One of man's greatest cities reduced to a raging inferno. It was a hundred times worse than this, believe you me.
+[name="아웃캐스트"]빅토리아와 그의 동맹들이 링고네스를 갈기갈기 찢었을 때, 세계의 수도였던 거대 도시가 지옥으로 전락한 모습은 눈앞의 이 광경보다 백 배는 더 끔찍했어.
 
 [name="风笛"]是啊，四皇会战的胜利在课本上有多辉煌，对高卢人来说就有多残忍。
+[name="バグパイプ"]……それもそうだね。教科書に載ってる四皇会戦の勝利はすごく輝かしいものだけど、ガリア人からすれば、本当に残酷な出来事でしかない。
+[name="Bagpipe"]Right. Our textbooks make us winnin' the Battle of the Four Emperors seem so glorious. The more glory they paint on, the crueler they are to the Gauls, even.
+[name="백파이프"]맞아. 교과서에 나온 사황 전쟁의 승리가 울매나 빛이 났나만 가울 사람들한테는 잔혹한 전쟁이었지 않았나.
 
 [name="风笛"]维多利亚过去的确做了很多过分的事......
+[name="バグパイプ"]ヴィクトリアがこれまでどんなに度を超した行いを重ねてきたのか……
+[name="Bagpipe"]Victoria's done a lot of terrible things in the past...
+[name="백파이프"]빅토리아가 옛날에는 확실히 도를 넘는 일을 많이 했아……
 
 [name="风笛"]当战火烧到自己家乡的时候，才能更真切地感觉到，原来这么疼啊。
+[name="バグパイプ"]自分の故郷まで戦火が燃え広がって初めて、それがこんなにつらいことだったんだって理解できたよ。
+[name="Bagpipe"]It's not until the flames of war are lickin' at your home that you really feel just how painful it is.
+[name="백파이프"]자신의 고향까정 전쟁의 불길이 옮겨붙었을 때야 사람들은, 전쟁이란 이러 아픈 거였구나, 마이 아픈 거였구나 하고 뼈저리게 느낄 수 있아.
 
 [name="风笛"]差不多了，就剩下这些横倒的石柱——
+[name="バグパイプ"]……よし、こんなもんだべ！　あとは倒れた石柱くらいだし――
+[name="Bagpipe"]We're almost done. Just these fallen columns left—
+[name="백파이프"]거즘 다 됐아, 이제 이 넘어진 돌지둥만 치우면 돼……
 
 [name="Outcast"]我来帮你。
+[name="Outcast"]私も手伝うよ。
+[name="Outcast"]I'll help you.
+[name="아웃캐스트"]내가 도와줄게.
 
 [name="风笛"]谢谢！能推到一边就行。
+[name="バグパイプ"]ありがとう！　それじゃ、向こう側に押してくれる？
+[name="Bagpipe"]Thanks! We just need to push it to the side.
+[name="백파이프"]고마워, 이쪽 한짝으로 밀어주기만 하면 돼.
 
 [name="风笛"]唉，一根柱子倒下了，很容易就会砸到另一根。
+[name="バグパイプ"]こうして……柱が一本倒れると、ほかの柱にぶつかって、それがどんどん連鎖して、かなりの瓦礫の山になっちゃうんだ。
+[name="Bagpipe"]Ugh. One column goes down, and it might just bring another with it.
+[name="백파이프"]하아, 한 지둥이 넘어지면 다른 한 지둥과 너무 쉽게 부딪힌다니.
 
 [name="风笛"]（小声嘀咕）也不知道未来会怎么样......
+[name="バグパイプ"]はぁ……この先、一体どうなっちゃうんだろう……
+[name="Bagpipe"](Quiet mutter) Who knows what the future holds...
+[name="백파이프"](작은 목소리로 중얼거린다) 앞으로는 뭐이 어떠 될지 모르겠다야……
 
 [name="Outcast"]不到最后一刻，没人知道维多利亚会走向何方。
+[name="Outcast"]終わりが来るその時まで、ヴィクトリアがどこへ向かうかなんて誰にも予測はできないものさ。
+[name="Outcast"]No one knows where Victoria might go until the moment it gets there.
+[name="아웃캐스트"]마지막 순간까지 빅토리아가 어떻게 될지는 아무도 몰라.
 
 [name="风笛"]抱歉，我满脑子都在想这些，害你抱着人还要帮我一起推柱子。
+[name="バグパイプ"]あっ、ごめんね。おめーさんは人を抱えてるのに気が回らなくて。
+[name="Bagpipe"]Sorry, I just can't stop thinkin' about all that. You shouldn't be helpin' move columns while you've got that lass on your back there.
+[name="백파이프"]미안해. 내 대가리 속에는 오부데이 이런 생각뿐이라. 니가 사람을 안고도 같이 지둥을 밀게 했네.
 
 [name="Outcast"]一起推总能更快些。
+[name="Outcast"]なあに。一緒に押した方が早いよ。
+[name="Outcast"]The job gets done faster when we work together.
+[name="아웃캐스트"]같이 하는 게 더 빨라.
 
 [name="风笛"]是哦，大家一起干的话，总还有机会，事情还是能往好的方向发展的吧？
+[name="バグパイプ"]それもそうだべ！　みんなで力を合わせたら、絶対チャンスが生まれるし、何でもいい方に進んでくものだよね！
+[name="Bagpipe"]Right, if we all work together, there's still a chance things could take a turn for the better, eh?
+[name="백파이프"]그래. 다 같이 하다 보무는 언젠가 기회가 올 거고 일이 잘될 수 있을 기야, 그치 않나?
 
 [name="风笛"]哈哈，老这么说真是奇奇怪怪的，说到底，没机会了又怎么样？事情一路变得越来越坏又怎么样？
+[name="バグパイプ"]っていうかそもそも、チャンスがないとか、全部が悪い方に進んでるとか、それがどうしたって話だよ。
+[name="Bagpipe"]Haha, look at me blatherin' on and on about this stuff. What's the difference, even, if we lose the chance? What's so bad about things gettin' worse?
+[name="백파이프"]하하, 자꾸 이런 말을 하니 정말 이상하다야. 솔직히 기회가 없으면 또 어떻나? 일이 계속 안 좋게 풀리면 또 어떻나고?
 
 [name="风笛"]故乡变坏了就不是故乡了吗？用自己的双手让土地重新变得肥沃，这不是每个生活在这里的人都该做的事吗？
+[name="バグパイプ"]悪い方に進んでたって、故郷は故郷なんだから。土地が荒れたら、自分の両手でまた豊かな土地を作ればいい。それが国民の義務ってやつだべ！
+[name="Bagpipe"]Even if your home's torn apart, does that mean it's not home anymore? You go enrich the soil again with your own hands. Isn't that what all the folk who live here should be doin'?
+[name="백파이프"]고향이 안 좋게 풀린다고 고향이 아닌 건 아니잖나? 자신의 두 손으로 이 땅을 다시 비옥하게 만들면 되는 기지. 이게 바로 이곳에 사는 모든 사람이 해야 할 일이 아니겠나?
 
 [name="风笛"]呼......最后一根！
+[name="バグパイプ"]ふぅ……最後の一本！
+[name="Bagpipe"]Phew... Last one!
+[name="백파이프"]후…… 마지막 지둥이다!
 
 [name="风笛"]路终于清好啦——
+[name="バグパイプ"]これで片付いたね！
+[name="Bagpipe"]And the road's clear—
+[name="백파이프"]야~ 이제 다 치웠다야……
 
 [name="深池士兵"]（快，B9刚才发的信标就在这巷子里！）
+[name="ダブリン兵士"]（小声）急げ！　「B-9」が送ってきたビーコンの座標はこの路地だ！
+[name="Dublinn Soldier"](Quick, the signal B9 sent's down this alleyway!)
+[name="더블린 병사"](서둘러, B9 소대가 사출한 비콘이 바로 이 골목에 있어!)
 
 [name="深池士兵"]（后面被落石挡住了，但保险起见，派一小队绕后！）
+[name="ダブリン兵士"]（小声）後ろは瓦礫で塞がれてるが……念のため、小隊を裏に配置しろ！
+[name="Dublinn Soldier"](There's debris blocking the way out the back, but send a team around just to be safe!)
+[name="더블린 병사"](뒤쪽은 낙석으로 막혔지만 만약을 대비해 한 소대는 뒤로 보내!)
 
 [name="深池士兵"]（其他人守在路口，别让人出来，长官们马上就到——）
+[name="ダブリン兵士"]（小声）ほかの人員は入口を固めろ。絶対に逃がすなよ、すぐに上官たちがいらっしゃるからな――
+[name="Dublinn Soldier"](The rest of you, stay and watch the entrance. Don't let anyone out. Our command will be here soon—)
+[name="더블린 병사"](다른 사람들은 놈들이 못 나오게 길목을 지키고 있어. 장관들이 곧 올 거야……)
 
 [name="风笛"]又有人来了！
+[name="バグパイプ"]あいつら、また……！
+[name="Bagpipe"]There's more of them!
+[name="백파이프"]또 누가 왔다!
 
 [name="风笛"]女士，我来挡着，你和你的朋友快走。
+[name="バグパイプ"]うちが足止めするから、おめーさんたちは早く行って！
+[name="Bagpipe"]I'll hold it here, Lass. Take your pal and get runnin'.
+[name="백파이프"]내가 막고 있을 거니. 니는 친구를 델고 어푼 가.
 
 [name="Outcast"]恐怕很难走了。
+[name="Outcast"]恐らく、それは難しいだろうな。
+[name="Outcast"]That's gonna be difficult, kiddo.
+[name="아웃캐스트"]가기 힘들 것 같아.
 
 [name="风笛"]欸？
+[name="バグパイプ"]えっ？
+[name="Bagpipe"]Huh?
+[name="백파이프"]뭐이?
 
 [name="Outcast"]他们说的，下面再来的应该就是敌人的首领，没普通士兵那么好对付。
+[name="Outcast"]奴らのやり取りを聞くに、もうじき敵方の幹部が現れると見ていいだろう。そうなれば、普通の兵士を相手にするのとは訳が違う。
+[name="Outcast"]You heard what they said, didn't you? Their leaders are coming, and I'm not expecting pushovers like we just fought.
+[name="아웃캐스트"]놈들이 말한 대로 이제 곧 적의 리더가 나타날 거야. 그러면, 일반 병사처럼 그렇게 상대하기 쉽지는 않지.
 
 [name="风笛"]那岂不是更应该快走？！
+[name="バグパイプ"]だったら尚更急ぐべきだべ！？
+[name="Bagpipe"]That's all the more reason you should go, isn't it?!
+[name="백파이프"]그러니 더 어푼 가야지?!
 
 [name="Outcast"]忘了说——
+[name="Outcast"]実は、伝え忘れていたんだが――
+[name="Outcast"]I guess I didn't say it yet—
+[name="아웃캐스트"]아, 깜빡한 게 있는데……
 
 [name="Outcast"]逃跑从来不是我的习惯。
+[name="Outcast"]私は敵に背を向けない主義でね。
+[name="Outcast"]I'm not one to run from a fight.
+[name="아웃캐스트"]도망가는 건 내 스타일이 아니야.
 
 [name="Outcast"]来，年轻的朋友，帮我个忙——
+[name="Outcast"]――さて、若者よ。少し頼まれてくれないか。
+[name="Outcast"]Come, my young friend, give me a hand—
+[name="아웃캐스트"]자, 젊은 친구, 내 부탁 하나 들어줘……
 
 Outcast把怀里的病人推到了风笛手上。
+そう言って、Outcastは抱えていた怪我人をバグパイプに預けた。
+Outcast transfers the patient in her embrace to Bagpipe.
+아웃캐스트는 품 안의 환자를 백파이프에게 넘겼다.
 
 [name="风笛"]欸欸，为什么这么重？她真的也是瓦伊凡吗？
+[name="バグパイプ"]んわわっ、すんごい重たい！　この子、本当にヴイーヴル……？
+[name="Bagpipe"]Whoa, that's heavy! Is she really a Vouivre?
+[name="백파이프"]어어? 뭐이 이래 무겁나? 이 여자도 정말 와이번인 거나?
 
 [name="Outcast"]哈，说一位女士重可不是好习惯。
+[name="Outcast"]ははっ。女性の体重に言及するのは野暮というものだぞ、君。
+[name="Outcast"]Hah, not very polite to call a girl heavy.
+[name="아웃캐스트"]하, 그런 말은 실례야.
 
 [name="风笛"]呼哈......呃......换作别人还真不一定抱得动。
+[name="バグパイプ"]ふぅ、はぁ……そうは言うけど、普通の人なら、持ち上げられるかどうかも怪しいくらいだべ！
+[name="Bagpipe"]Huff... Ugh... I doubt anyone else would be able to carry her.
+[name="백파이프"]휴…… 윽…… 딴 사람이었더라면 안아 들지도 못했을 기야.
 
 [name="Outcast"]幸好，我还认识一位朋友，她也是瓦伊凡，并且和你一样，是很年轻又很坚韧的战士。
+[name="Outcast"]大丈夫。幸い私には、もう一人ヴイーヴルの友人がいるんだ。彼女も君と同じように、若く強靭な戦士でね。
+[name="Outcast"]Good thing I have a Vouivre friend, then. She's about your age, and a fairly tough warrior, too.
+[name="아웃캐스트"]마침 내가 아는 한 친구도 와이번인데, 너처럼 아주 젊고 끈기 있는 전사야.
 
 [name="风笛"]你是想......
+[name="バグパイプ"]ってことは頼み事って……
+[name="Bagpipe"]You mean...
+[name="백파이프"]니 혹시……
 
 [name="Outcast"]请你把病人带到雕像东侧，交给我的朋友和同事。
+[name="Outcast"]そう。この怪我人を彫像の東側まで連れて行って、友人と同僚たちに預けてほしい。
+[name="Outcast"]I want you to take the patient to the east side of the statue and hand her over to my friends.
+[name="아웃캐스트"]이 환자를 조각상 동쪽에 있는 내 친구와 동료한테 데려다줘.
 
 [name="Outcast"]告诉他们，我很抱歉，有些事我没做到。他们知道下面该怎么做。
+[name="Outcast"]それと、悪いが、約束は果たせそうにないと伝えてくれ。これを聞けば、彼らなら次にすべきことをわかってくれるはずだ。
+[name="Outcast"]Tell them I'm sorry I can't keep my promise. They'll know what to do from there.
+[name="아웃캐스트"]그리고 전해줘. 미안하지만, 제대로 끝내지 못한 일이 있다고. 그러면 어떻게 해야 할지 알 거야.
 
 [name="风笛"]那你呢？
+[name="バグパイプ"]……おめーさんはどうするの？
+[name="Bagpipe"]What about you?
+[name="백파이프"]그러면 니는?
 
 [name="Outcast"]我再多留一会，等几个人。
+[name="Outcast"]もう少しここに留まるよ。まだもてなすべき客人がいるからね。
+[name="Outcast"]I'm gonna stay a little longer. Got somebody to wait up for.
+[name="아웃캐스트"]나는 좀 더 머물면서 사람을 기다려야지.
 
 [name="“雄辩家”"]就在这里？
+[name="「雄弁家」"]例の相手はここですか？
+[name="'The Elocutionist'"]Is she in here?
+[name="'달변가'"]여긴가요?
 
 [name="深池士兵"]是的，长官。呃，您和其他五位长官都来了吗？
+[name="ダブリン兵士"]そうです、上官。……あの、もしや六名お揃いで来てくださったのですか？
+[name="Dublinn Soldier"]Uh, yes, sir. Uh, the other officers are here, too?
+[name="더블린 병사"]네, 장관님. 앗, 다른 장관님 다섯 분도 모두 오셨군요?
 
 [name="“会计”"]情报里说，他们只有三个人......其中还有一位重伤昏迷着。
+[name="「会計官」"]情報によれば、向こうはたったの三人……それも一人は意識不明の重体だという話だったな。
+[name="'The Accountant'"]The intel says there are only three of them... and one of them is both heavily injured and unconscious.
+[name="'회계사'"]정보에 따르면, 상대는 겨우 세 명…… 그중 한 명은 중상을 입은 데다, 정신을 잃었다고 하던데.
 
 [name="深池士兵"]那，随便哪位长官出动都绰绰有余了吧？
+[name="ダブリン兵士"]ならば、どなたかお一人だけでも十分だったのでは？
+[name="Dublinn Soldier"]In the case, wouldn't just one of you be more than enough to deal with them?
+[name="더블린 병사"]그렇다면, 장관님 중 아무나 한 분 출동하셔도 충분하지 않을까요?
 
 [name="“会计”"]两个人，干掉了三支小队，并且毫发无伤。
+[name="「会計官」"]相手は二人で小隊三つを始末しているんだぞ。しかも、傷一つ負うことなく、な。
+[name="'The Accountant'"]Two of them took down three squads, and without so much as a scratch.
+[name="'회계사'"]그중 두 명은 소대 3개를 해치웠다. 그것도 상처 하나 없이.
 
 [name="“会计”"]你是想告诉我你们有多垃圾，还是眼前的任务不重要到禁得起再三失败？
+[name="「会計官」"]この状況で敵を侮るとは、よほど自分たちの無能さを証明したいらしいな。いや、あるいはこの任務が何度失敗しても問題ないほど些末な仕事だと認識しているのか？
+[name="'The Accountant'"]Are you telling me how worthless you all are, or does the mission matter so little that you don't mind messing up again and again?
+[name="'회계사'"]너희가 얼마나 쓸모없는지 우리에게 알려 주고 싶은 건가? 아니면 지금 이 임무가 몇 번이고 실패를 해도 될 만큼 중요하지 않다 생각하는 건가?
 
 [name="深池士兵"]不，我不敢......
+[name="ダブリン兵士"]い、いえ！　そんなことは……
+[name="Dublinn Soldier"]No... I wouldn't dare...
+[name="더블린 병사"]아뇨, 제가 어찌 감히……
 
 [name="“囚犯”"]呼......呼......对手真这么强？
+[name="「囚人」"]フーッ……フーッ……そいつら、本当に……強いんだろうな……？
+[name="'The Convict'"]Huff... Huff... Are they really that tough?
+[name="'죄수'"]후우…… 후우…… 상대가 진짜 그렇게 강하다고?
 
 [name="“雄辩家”"]至少强到你都愿意醒过来的地步。
+[name="「雄弁家」"]ええ。少なくとも、あなたが目を覚ましておくだけの価値はある相手ですよ。
+[name="'The Elocutionist'"]At the very least, they're formidable enough that you're up and awake.
+[name="'달변가'"]적어도 네가 스스로 깨어나고 싶을 정도는 되겠지.
 
 [name="“会计”"]谨慎一些总没坏处，别忘了，除了身份不明的萨科塔和维多利亚士兵，她也在。
+[name="「会計官」"]正体不明のサンクタとヴィクトリア軍人のほか、向こうにはあの女もいるんだ。用心を忘れるなよ。
+[name="'The Accountant'"]It doesn't hurt to be a little cautious. Don't forget, we have both the unidentified Sankta and Victorian soldier, and she's there with them, too.
+[name="'회계사'"]신중해서 나쁜 것 없어. 신원이 불분명한 산크타와 빅토리아 병사 외에 그 여자도 있다는 걸 잊지 마.
 
 [name="“会计”"]被逼到极限的话，她能做到什么程度，你们心里有底？
+[name="「会計官」"]限界まで追い詰められた時に見せる、奴の底知れない実力……お前たちもわかっているだろう？
+[name="'The Accountant'"]You know what she can do when she's pushed to the brink, don't you?
+[name="'회계사'"]궁지에 몰리면 그 여자가 어디까지 할 수 있을지 혹시 너희는 알아?
 
 [name="“囚犯”"]呼......我开始期待起来了。
+[name="「囚人」"]……フーッ……期待して、おこう。
+[name="'The Convict'"]Huff... I'm starting to look forward to this.
+[name="'죄수'"]후우…… 나는 기대가 되는걸.
 
 [name="风笛"]敌人数量......还在增加！
+[name="バグパイプ"]敵が……増え続けてる！
+[name="Bagpipe"]The enemy's... got reinforcements!
+[name="백파이프"]적의 수가…… 점점 더 늘어나고 있아!
 
 [name="风笛"]队长，呼叫队长——
+[name="バグパイプ"]とにかく、隊長に通信を――
+[name="Bagpipe"]Leader! This is Bagpipe, callin' Leader—!
+[name="백파이프"]대빵, 대빵에게 통신을……
 
 [name="风笛"]通讯器还是没信号......唉！我必须马上把这姑娘交出去......
+[name="バグパイプ"]だめだ、やっぱり通じない！　早くこの子を届けて、隊長のところに急がないと……
+[name="Bagpipe"]Still not gettin' a signal... Argh! I need to get this girl over there right now...
+[name="백파이프"]통신기에 안즉도 신호가 없아…… 하아! 이 여자를 어푼 자빠뜨래야 하는데……
 
 [name="重症感染者"]呃......
+[name="重傷感染者"]ぅ、うぁ……！
+[name="Severely Infected"]Ugh...
+[name="중증 감염자"]으윽……
 
 [name="风笛"]咦......你醒了？
+[name="バグパイプ"]ありゃ……？　目が覚めたの？
+[name="Bagpipe"]Huh... You're awake?
+[name="백파이프"]어…… 니 이제 일났나?
 
 [name="重症感染者"]不......不......
+[name="重傷感染者"]ぃや……いや、だ……
+[name="Severely Infected"]No. No...
+[name="중증 감염자"]안 돼……안 돼……
 
 [name="风笛"]没醒啊......但为什么突然挣扎了起来？是梦见什么可怕的事了吗？
+[name="バグパイプ"]んー、うなされてるだけみたい。でも、なんで急にジタバタし始めたんだろ？　怖い夢でも見てるのかな？
+[name="Bagpipe"]Still asleep... but why's she strugglin' all of a sudden? Is she having a bad dream?
+[name="백파이프"]깨도 깬 게 아이구나…… 근데 니 왜서 갑자기 발버둥 지랄을 친 거나? 꿈에 뭐이 무서운 거라도 나왔나?
 
 [Subtitle(text="风笛仿佛感觉到了什么，抬起头。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="その時、バグパイプはふと何かを感じ取り、顔を上げた。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Bagpipe looks up, as though she feels something.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="백파이프는 무언가 느낀 듯 고개를 들었다.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="几道模糊的人影站在不算太远的高楼上，正俯瞰着下方街道上的狼藉。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="少し先のビルの上に、混沌とした市街を見下ろす人影があった。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A few faint silhouettes look down at the commotion from atop a tall building nearby.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="희미한 몇 개의 그림자가 그리 멀지 않은 빌딩 위에서 난장판이 된 거리를 내려다보고 있었다.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="她并没有注意到，四周未熄的余火隐隐变了颜色。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="周囲で揺らめく残り火がかすかに色を変えたが、バグパイプがそれに気付くことはなかった。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Bagpipe hasn't yet realized that the flames around her, unextinguished still, are starting to change color.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그녀는 사방에 꺼지지 않은 잔불의 색이 희미하게 변하고 있다는 걸 알아채지 못했다.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="地上刚刚死去的年轻士兵的眼睛里，也有如出一辙的紫火蹿出。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="地に伏した死んで間もない若き兵士の目からは、その火と同じ紫に燃える炎が噴き出した。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A young soldier who had just passed lies on the ground. The purple flames in his lifeless eyes look as though they could surge out at any moment.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="땅 위의 방금 죽은 젊은 병사의 눈에서도 비슷한 보라색 불빛이 불타올랐다.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="她的视线落回街道上，看着更多敌人从远处涌来。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="バグパイプが視線を街へ戻すと――遠くから、さらに多くの敵兵が押し寄せてくるのが見えた。", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="She looks back down the street to see yet more hostiles approaching.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그녀가 시선을 다시 거리로 돌렸을 땐 더 많은 적들이 멀리서 몰려오는 게 보였다.", x=300, y=600, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="干员碎纸机"]......快到时间了。
+[name="シュレッダー"]……もうじき、約束の時間だ。
+[name="Operator Shredder"]It's almost time.
+[name="오퍼레이터 슈레더"]……시간이 거의 다 됐어!
 
 [name="干员碎纸机"]敌人正在往对面聚集，我们不宜久留。
+[name="シュレッダー"]向こう側に敵が集まってきている。長くは留まれないぞ。
+[name="Operator Shredder"]The enemy's gathering over there. We can't stay much longer.
+[name="오퍼레이터 슈레더"]적들이 맞은편으로 모여들고 있으니, 우리는 오래 머무를 수 없어.
 
 [name="简妮"]再等等吧，碎纸机大哥，Outcast绝对不是不守时的人。
+[name="ジェニー"]Outcastは絶対来るよ。だから、もう少しだけ待とう。
+[name="Janie"]Let's give her a bit more time, Shredder. You know Outcast's always punctual.
+[name="제니"]조금만 더 기다리자, 슈레더 오빠. 아웃캐스트 씨는 꼭 제시간에 올 거야.
 
 [name="干员碎纸机"]嗯。
+[name="シュレッダー"]……ああ。
+[name="Operator Shredder"]Right.
+[name="오퍼레이터 슈레더"]그래.
 
 [name="简妮"]你看，那个方向！是不是有两个人？
+[name="ジェニー"]見て、あっちの方！　誰か向かって来てるよね？
+[name="Janie"]Look! Over there! That's two individuals, incoming!
+[name="제니"]저기, 저쪽! 두 사람이 보이지 않아?
 
 [name="简妮"]Outcast，我们在这！
+[name="ジェニー"]Outcast！　こっちです！
+[name="Janie"]Outcast, we're over here!
+[name="제니"]아웃캐스트 씨, 우리 여기 있어요.
 
 [name="简妮"]Out——不，不是她，朝我们冲过来的人是......
+[name="ジェニー"]Outca――あ、あれ？　あの人は……
+[name="Janie"]Out—No, it's not her. Who's that running this way...?
+[name="제니"]아웃…… 아니, 오고 있는 사람이 아웃캐스트 씨가 아닌데……
 
 [name="简妮"]风笛？！
+[name="ジェニー"]バグパイプさん！？
+[name="Janie"]Bagpipe?!
+[name="제니"]백파이프 씨?!
 
 [name="风笛"]欸？原来那个很帅的萨科塔女士说的朋友是你？
+[name="バグパイプ"]あれ？　あのカッコいいサンクタさんが言ってた友達って、おめーさんのことだったんだ！
+[name="Bagpipe"]Huh? So you're the cool Sankta lass's friend?
+[name="백파이프"]어? 그 멋진 산크타 여자가 말한 친구가 니였나?
 
 [name="风笛"]那正好，来来来，这位受重伤的姑娘应该也是你们的朋友吧？萨科塔女士让我把她带给你们——
+[name="バグパイプ"]それなら、ちょうどよかった！　ほら、こっちの怪我した女の子もおめーさんたちの友達だよね？　預けといてくれってサンクタさんから頼まれて――
+[name="Bagpipe"]That's perfect, then. Come, this girl's your pal too, right? She's heavily injured. The Sankta lass told me to bring her to you—
+[name="백파이프"]마침 잘 됐다. 자, 자, 이 중상을 입은 아가시도 너희 친구 맞제? 그 산크타 여자가 나보고 이 아가시를 느들한테 데려다 주랬아……
 
 [name="简妮"]Outcast......
+[name="ジェニー"]じゃあ、Outcastは……
+[name="Janie"]Outcast...
+[name="제니"]아웃캐스트 씨는……
 
 [name="简妮"]她在哪里？！她是不是出了事？
+[name="ジェニー"]彼女はどこ！？　まさか何かあったんじゃ。
+[name="Janie"]Where is she?! Did something happen to her?
+[name="제니"]아웃캐스트 씨는 어디 있어?! 설마 사고 난 건 아니지?
 
 [name="风笛"]她和我分开的时候挺好的......
+[name="バグパイプ"]少なくとも、うちと別れるまではピンピンしてたけど……
+[name="Bagpipe"]She seemed like she was doin' alright when we parted ways...
+[name="백파이프"]나랑 헤질 때까정은 아주 멀쩡했아……
 
 [name="风笛"]不过她想跟你们道歉，说她有事答应了没做到，她还说你们“知道下面该怎么做”。
+[name="バグパイプ"]でも、おめーさんたちに伝えてって言われたんだ。「悪いが、約束は果たせそうにない」って。それから、「彼らなら次にすべきことをわかってくれるはずだ」とも言ってたよ。
+[name="Bagpipe"]Not sure why, but she told me to apologize to you for her. Said she can't keep her promise, and that you'd know what to do from here.
+[name="백파이프"]다만, 느들한테 사과했아. 안즉도 지키지 못한 약속이 있다고. 그리고 너희가 '이제 어어떠 해야 할지 알 거'라고 했아.
 
 [name="简妮"]——！
+[name="ジェニー"]――ッ！
+[name="Janie"]—!
+[name="제니"]……!
 
 [name="简妮"]她说这话的意思是......
+[name="ジェニー"]それって……！
+[name="Janie"]Then that must mean...
+[name="제니"]그 말은……
 
 [name="简妮"]明明她自己说的，救人之前，要先保全自己！
+[name="ジェニー"]他人を助ける前に、まずは自分の安全を確保しろって言ったのはOutcastなのに！
+[name="Janie"]She said it herself. We have to be sure we're safe before we help anyone else!
+[name="제니"]분명 아웃캐스트 씨는 사람을 구하기 전에 먼저 자신의 안전부터 확보하라고 했는데!
 
 [name="简妮"]因为只有这样，才能救更多人，更......多......
+[name="ジェニー"]より多くの人を救いたいのなら、って……そう言ってた、のに……
+[name="Janie"]Because that's how we save... even more...
+[name="제니"]그래야만 더 많은 사람을 구할 수 있다고. 더…… 많은……
 
 [name="简妮"]......
+[name="ジェニー"]………………
+[name="Janie"]......
+[name="제니"]……
 
 [name="简妮"]不——！
+[name="ジェニー"]そんなの、嫌――！
+[name="Janie"]No—!
+[name="제니"]안돼……!
 
 [name="干员碎纸机"]简！你不能去找她。
+[name="シュレッダー"]ジェーン！　ダメだ行くな！！
+[name="Operator Shredder"]Jane! Don't go after her!
+[name="오퍼레이터 슈레더"]제인! 가면 안 돼!
 
 [name="干员碎纸机"]女士说了，我们知道该怎么做。
+[name="シュレッダー"]Outcastさんは、私たちを信じてくれたんだぞ。
+[name="Operator Shredder"]The Lass said it. We know what to do from here.
+[name="오퍼레이터 슈레더"]우리가 어떻게 해야 할지 알 거라고 아웃캐스트 씨가 말했잖아.
 
 [name="简妮"]我......
+[name="ジェニー"]っ……でも、あたし……
+[name="Janie"]I...
+[name="제니"]난……
 
 [name="风笛"]我同意这位大哥说的。
+[name="バグパイプ"]……うちは、このおにーさんの言う通りだと思うよ。
+[name="Bagpipe"]Aye, I agree with him.
+[name="백파이프"]난도 이 형씨 말에 찬성한다니.
 
 [name="风笛"]你相信她吗？我只和她见了一面，但我信她。
+[name="バグパイプ"]おめーさんは、あの人のこと信じてないの？　たった一回会っただけだけど、うちは信じてるよ。
+[name="Bagpipe"]Do you trust her? I only met her the once, but I trust in her.
+[name="백파이프"]너, 그 여자를 믿제? 나는 한 번밖에 안 만났지만 그 여자를 믿아.
 
 [name="风笛"]我把这姑娘带出来的时候，一路上干倒了二十多个人，不好说有没有更多人在后头追着。
+[name="バグパイプ"]それで、聞いてほしいんだけど、この子をここへ連れてくる途中、二十人以上は敵を倒してきたんだ。もしかすると、追手はこれだけじゃ済まないかもしれない。
+[name="Bagpipe"]I reckon I knocked out some two dozen on my way here with this girl. Not sure if any of them are chasin' after us.
+[name="백파이프"]내가 이 아가시를 데려오면서 도중에 20여 명을 자빠뜨랬아. 움청 더 많은 사람이 내 뒤를 따라잡고 있을지도 모른다니.
 
 [name="风笛"]士兵们都没什么大不了的，可要是撞上了那个领头的术师......相信我，她的实力深不见底。
+[name="バグパイプ"]ただの兵士なら大した相手じゃないとは言え、向こうのリーダーに出くわしたらまずいことになる……あの術師は、相当の実力者に見えたから。
+[name="Bagpipe"]The soldiers themselves aren't much of an issue, but if we run into their Caster leader... There's no tellin' how powerful she actually is.
+[name="백파이프"]병사들은 별거 아이지만, 그 대빵인 캐스터를 만나면…… 내 말 믿아, 꼭 믿어야 돼. 그 여자 실력은 가늠이 안 된다니.
 
 [name="风笛"]所以，接好你们的朋友，然后赶紧走。
+[name="バグパイプ"]だから、この子を受け取ったら、すぐにここを離れて――
+[name="Bagpipe"]So, take your friend, and get out of here.
+[name="백파이프"]그러니, 느들 친구들 델고 어푼 떠나.
 
 [name="干员碎纸机"]......这光，怎么回事？！
+[name="シュレッダー"]……何だ、あの光は！？
+[name="Operator Shredder"]What's that flash?!
+[name="오퍼레이터 슈레더"]……이 빛은 뭐야?!
 
 [name="风笛"]是爆炸？
+[name="バグパイプ"]――爆弾？
+[name="Bagpipe"]An explosion?
+[name="백파이프"]폭발이나?
 
 [name="风笛"]不，不可能，没有任何一种炸弹能在瞬间爆发出这么强烈的光亮，同时还能让我们完好无损地站在这里正常呼吸！
+[name="バグパイプ"]ううん、そんなわけない。強烈な光が見えてるのに、うちらは無事だし、普通に息ができてる。あれは爆弾なんかじゃない。
+[name="Bagpipe"]No, can't be. There's not a bomb out there with a flash this bright. Leastwise, not one we'd live through!
+[name="백파이프"]아니, 아닐 기야. 뭔 폭탄이 순식간에 이러 센 빛을 뿜어내고, 아니 거다가 폭탄이면 우리가 이러 여 서서 멀쩡하게 숨을 쉴 수나 있나?
 
 [name="风笛"]这难道是源石技艺？！
+[name="バグパイプ"]じゃあ、まさか――アーツ！？
+[name="Bagpipe"]So it's Arts?!
+[name="백파이프"]그렇다면 이건 오리지늄 아츠?!
 
 [name="风笛"]可是，这样在短时间内迸发到极致的源石技艺，施术者也会......
+[name="バグパイプ"]だけど、アーツであんな爆発を起こしたら……きっと、本人だって……！
+[name="Bagpipe"]But usin' Arts to your extreme in such a short period of time, the Caster herself would...
+[name="백파이프"]하지만, 이러 짧은 시간에 이러 센 오리지늄 아츠를 쓴다면, 그 시전자도……
 
 [name="简妮"]......
+[name="ジェニー"]……！
+[name="Janie"]......
+[name="제니"]……
 
 [name="简妮"]火光......刺破了云层......
+[name="ジェニー"]光が……雲を、突き破って……
+[name="Janie"]The blaze... the light... it blew through the clouds...
+[name="제니"]불빛이…… 구름을 뚫었어……
 
 [name="简妮"]是不是......雨停了？
+[name="ジェニー"]……雨が……止んだ？
+[name="Janie"]Did... the rain stop?
+[name="제니"]비가…… 그쳤어?
 
 [name="风笛"]——
+[name="バグパイプ"]――！
+[name="Bagpipe"]—
+[name="백파이프"]……
 
 [name="风笛"]这火光来自西边......是刚刚那个巷子口？
+[name="バグパイプ"]あの光……さっきの路地がある場所からだ。
+[name="Bagpipe"]That fire's from the west... Is it the alley from just now?
+[name="백파이프"]이 빛은 서쪽에서 뿜어져 나왔아…… 그렇다면 혹시, 방금 그 골목에서?
 
 [name="风笛"]如果不是方向不对劲，我甚至以为天亮了......
+[name="バグパイプ"]あれが西じゃなくて東から見えてたら、夜が明けたのかと思うところだったよ……
+[name="Bagpipe"]If it wasn't for the direction, I would've thought it was bright out already...
+[name="백파이프"]그 방향이 아니었다믄, 날이 샛다고 생각할 뻔했다야……
 
 [name="简妮"]......是的......
+[name="ジェニー"]……ううん……きっと、そうなんだと思う……
+[name="Janie"]...Right...
+[name="제니"]……그러게……
 
 [name="简妮"]天......亮了。
+[name="ジェニー"]夜明けが……来たんだ。
+[name="Janie"]The sky's... all bright.
+[name="제니"]날이…… 밝았다.
 
 所有人都没有再开口。
+誰もが言葉を失っていた。
+None of them says another word.
+더 이상 입을 여는 사람은 없었다.
 
 那道灼穿了天幕的火仍在不屈地燃烧着——
+空を貫いたその光は、なおも揺るぎなく燃えていた――
+The flames, kindling the skies, are still burning bright—
+하늘을 뚫은 그 불길은 아직도 거침없이 불타오르고 있었다……
 
 仿佛在向头顶迟迟不退的黑暗宣泄着死的怒火，又仿佛在向地上相扶相依的人们诉说着生的绚烂。
+それは、頭上に垂れ込めた暗闇に、死せる者の怒りをぶつけているようにも見えれば、地上で支え合う人々に、生命の輝きの素晴らしさを説いてるようにも見えた。
+A raging fury that portends the impending end of the darkness above, or perhaps a shining beacon that impresses the brilliance of life on those aiding each other below.
+그것은 마치 머리 위에서 언제까지나 사라지지 않는 어둠을 향해 죽음의 분노를 쏟아내는 듯도 했고, 또한 땅 위에서 서로 의지하며 살아가는 사람들에게 삶의 찬란함을 이야기하는 듯도 했다.
 
 [name="风笛"]这真是我见过......最震撼的破晓。
+[name="バグパイプ"]……これまでの人生で一番、衝撃的な夜明けだ。
+[name="Bagpipe"]That's the most stunnin' daybreak I've seen...
+[name="백파이프"]지금까지 내가 본 것 중에…… 야~ 이러 충격적으로 동이 트는 거는 처음이야.
 
 [name="风笛"]难怪，她会说太惹眼。哈哈......
+[name="バグパイプ"]ああ……そっか。だから、あの人は私の銃は悪目立ちするって言ってたんだね。
+[name="Bagpipe"]No wonder she said it'd draw a crowd, haha...
+[name="백파이프"]이래 가지고 그 여자가 눈에 띌 거라고 했구나, 하하……
 
 [name="风笛"]唉......
+[name="バグパイプ"]……こんなことって……
+[name="Bagpipe"]*Sigh*...
+[name="백파이프"]하아……
 
 [name="简妮"]......
+[name="ジェニー"]……
+[name="Janie"]......
+[name="제니"]……
 
 [name="干员碎纸机"]简......
+[name="シュレッダー"]ジェーン……
+[name="Operator Shredder"]Jane...
+[name="오퍼레이터 슈레더"]제인……
 
 [name="简妮"]呼......哈，我没事。
+[name="ジェニー"]…………あたしなら、大丈夫だから。心配しないで。
+[name="Janie"]Huff... puff... I'm okay.
+[name="제니"]후…… 하, 별일 아니야.
 
 [name="简妮"]碎纸机大哥，时间到了吗？
+[name="ジェニー"]それより、シュレッダーさん……もう時間だよね？
+[name="Janie"]Shredder, is it time?
+[name="제니"]슈레더 오빠, 시간 다 됐지?
 
 [name="干员碎纸机"]......到了。
+[name="シュレッダー"]……ああ。
+[name="Operator Shredder"]It is...
+[name="오퍼레이터 슈레더"]……응, 됐어.
 
 [name="简妮"]跟奥利弗叔叔说，我们已经......接应到了人。
+[name="ジェニー"]オリバーおじさんに伝えて。……合流は完了した、って。
+[name="Janie"]Let Uncle Oliver know... we got her.
+[name="제니"]올리버 아저씨한테 전해. 지금 막…… 만났다고.
 
 [name="简妮"]——是一名重症感染者。
+[name="ジェニー"]到着したのは――重症感染者一名。
+[name="Janie"]—Someone seriously infected.
+[name="제니"]……중증 감염자 한 명을.
 

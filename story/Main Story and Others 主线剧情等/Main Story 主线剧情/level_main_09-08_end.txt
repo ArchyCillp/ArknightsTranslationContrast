@@ -1,266 +1,665 @@
 [name="号角"]既然来了，就都出来吧。
+[name="ホルン"]いるんでしょう。さっさと出てきなさい。
+[name="Horn"]Given I'm here, all of you can come out now.
+[name="혼"]왔으면 빨리 튀어와.
 
 [name="副官希尔"]中尉。
+[name="副官ヒル"]……中尉。
+[name="Adjutant Hill"]Lieutenant.
+[name="힐 부관"]중위님.
 
 [name="号角"]我的人怎么样了？
+[name="ホルン"]私の部下はどうなったの？
+[name="Horn"]How are my people?
+[name="혼"]내 사람들, 어떻게 되었어?
 
 [name="副官希尔"]您的属下在这里。放心，他们只是晕了过去。
+[name="副官ヒル"]ここにいますよ。ご安心ください、気を失っているだけですから。
+[name="Adjutant Hill"]Your subordinates are here. Rest assured, they're only unconscious.
+[name="힐 부관"]중위님의 부하는 여기에 있습니다. 걱정 마십시오. 이 사람들은 모두 기절했을 뿐입니다.
 
 [name="号角"]我说的不是大提琴他们。
+[name="ホルン"]私が言ったのは、チェロたちのことじゃないわ。
+[name="Horn"]I don't mean Cello's group.
+[name="혼"]나는 지금 첼로 녀석들을 말하는 게 아니다.
 
 [name="号角"]你知道我指的是谁。
+[name="ホルン"]……誰のことか、わかっているでしょう。
+[name="Horn"]You know who I mean.
+[name="혼"]내가 누구 얘기를 하는지 알 텐데.
 
 [name="副官希尔"]——
+[name="副官ヒル"]――！
+[name="Adjutant Hill"]—
+[name="힐 부관"]……
 
 [name="号角"]别逼我，否则的话，抵着你下巴的就不是我的盾了。
+[name="ホルン"]早く言いなさい。でないと、あなたの首に突きつける武器が盾より鋭いものになるわよ。
+[name="Horn"]Don't push me, or it won't be my shield against your chin.
+[name="혼"]말해라. 그렇지 않으면, 네 턱밑에 들이대는 것이 방패만이 아닐 수도 있다.
 
 [name="副官希尔"]咳、咳咳......要是您拔剑的话，您就是在袭击同僚......
+[name="副官ヒル"]うっ、ぐっ……もし、この場で剣を抜くおつもりなら、同僚への攻撃……謀反と見なされますが……
+[name="Adjutant Hill"]*Cough*, *cough* *cough*... If you're going to draw your sword, you'll be attacking a colleague...
+[name="힐 부관"]콜록콜록…… 중위님이 검을 뽑는다면 동료를 습격하는 셈이 될 겁니다……
 
 [name="号角"]呵，同僚？
+[name="ホルン"]ハッ……同僚ですって？
+[name="Horn"]Heh. Colleague?
+[name="혼"]하, 동료라 했나?
 
 [name="号角"]从我们进入小丘郡的那一刻起，你们何曾把我们当成同僚？！
+[name="ホルン"]私たちがヒロック郡に入った時から、あなたたちが一瞬でも、私たちを同僚と思っていたことなんてあるの！？
+[name="Horn"]At what point, since the moment we entered County Hillock, have you ever treated us as colleagues?!
+[name="혼"]우리가 힐록 카운티에 들어선 그 순간부터 너희가 우리를 동료로 생각한 적 있어?!
 
 [name="号角"]回答我！！！
+[name="ホルン"]答えなさい！！
+[name="Horn"]Answer me!!!
+[name="혼"]대답해!!!
 
 [name="副官希尔"]嘶——
+[name="副官ヒル"]ッ――
+[name="Adjutant Hill"]Hff—
+[name="힐 부관"]흡……
 
 [name="副官希尔"]就算......您......在这里切断我的喉管......您也不能改变......上校的决定......
+[name="副官ヒル"]たとえ……あなたが……ここで、私の喉を掻き切ろうとも……大佐の決定を、変えることは……できませんよ……
+[name="Adjutant Hill"]Even supposing... you... cut my throat here... you can't alter... the Colonel's decision...
+[name="힐 부관"]중위님이…… 여기서…… 제 숨통을 끊는다고 해도…… 대령님의 결정을 바꿀 수 없을 겁니다……
 
 [name="号角"]是吗？
+[name="ホルン"]あら、そうかしら？
+[name="Horn"]Is that so?
+[name="혼"]과연 그럴까?
 
 [name="号角"]你真的没有听说过风暴突击队的战士能做到什么程度，是不是？
+[name="ホルン"]あなたは、特攻隊の戦士たちがどれ程の実力者かなんて聞いたことがないみたいね。
+[name="Horn"]You've never heard the degree of what the Tempest Platoon's soldiers can do, have you?
+[name="혼"]너는 폭풍돌격대의 실력이 어느 정도인지 정말 들은 바가 없구나, 그렇지?
 
 [name="号角"]三角铁让你们损失了多少人？半支连队？
+[name="ホルン"]トライアングルが与えた損失は何人分だったのかしら？　中隊の半分くらい？
+[name="Horn"]How many did Triangle cost you? Half your own company?
+[name="혼"]트라이앵글이 너희 병력을 몇 명이나 잃게 했지? 중대의 절반 정도?
 
 [name="号角"]这里只有我一个。但是，我向你保证，你不会想知道我搞定你们需要花多少时间。
+[name="ホルン"]ここには私しかいないけれど、あなたたちを片付けるだけなら、大して時間はかからないわよ。
+[name="Horn"]It's just me alone here. But I guarantee you, you won't want to know how long it takes me to put you all to rights.
+[name="혼"]여긴 나 혼자밖에 없다. 하지만 내가 너희를 처리하는 데 시간이 얼마 걸릴지 알고 싶지는 않을 거야.
 
 [name="维多利亚士兵"]你、你放下武器！
+[name="ヴィクトリア兵"]ぶ、武器を下ろせ！
+[name="Victorian Soldier"]L—Lay down your weapons!
+[name="빅토리아 병사"]무, 무기를 내려놔!
 
 [name="维多利亚士兵"]不然的话，我......我们这就杀了她！
+[name="ヴィクトリア兵"]さもなくば、こ……こいつを殺すぞ！
+[name="Victorian Soldier"]Or else, w... we'll kill her on the spot!
+[name="빅토리아 병사"]내려놓지 않으면, 이…… 이 여자를 죽인다!
 
 [name="号角"]......大提琴。
+[name="ホルン"]――ッ！　チェロ……！
+[name="Horn"]...Cello.
+[name="혼"]……첼로.
 
 [name="号角"]......
+[name="ホルン"]……
+[name="Horn"]......
+[name="혼"]……
 
 [name="维多利亚士兵"]我说真的！你敢动一下，我的弩立刻射穿她的脖子！
+[name="ヴィクトリア兵"]本気だからな！　少しでも動いてみろ、クロスボウでこいつの首を射抜いてやる！
+[name="Victorian Soldier"]I mean it! Make one move, and my crossbow's shooting straight through her neck!
+[name="빅토리아 병사"]진심이다! 네가 움직이기만 하면 내 석궁이 즉시 이 여자의 목을 관통하게 될 것이다!
 
 [name="号角"]............
+[name="ホルン"]…………
+[name="Horn"]............
+[name="혼"]……
 
 [name="号角"]好。
+[name="ホルン"]いいでしょう。
+[name="Horn"]Alright.
+[name="혼"]알았어.
 
 [name="号角"]你们赢了。
+[name="ホルン"]あなたたちの勝ちよ。
+[name="Horn"]You win.
+[name="혼"]너희가 이겼다.
 
 [name="维多利亚士兵"]制服她！快上，一起上，不能让她再碰到盾和剑！
+[name="ヴィクトリア兵"]奴を取り押さえろ！　早く！　一斉にかかれ！　盾と剣に触れさせるな！
+[name="Victorian Soldier"]Subdue her! Quickly, together now, we can't let her touch her sword and shield again!
+[name="빅토리아 병사"]저 여자를 제압해! 다 같이! 검과 방패에 접근하지 못하게 해라!
 
 [name="号角"]希尔......你告诉汉密尔顿......
+[name="ホルン"]ヒル。ハミルトンに伝えなさい……
+[name="Horn"]Hill... you tell Hamilton...
+[name="혼"]힐 부관…… 해밀턴에게 전해라……
 
 [name="号角"]维多利亚以他为耻。
+[name="ホルン"]貴様はヴィクトリアの恥さらしだ、と。
+[name="Horn"]Victoria is ashamed of him.
+[name="혼"]빅토리아는 그를 수치스럽게 생각한다고.
 
 [name="副官希尔"]......上校并不需要维多利亚的感激。
+[name="副官ヒル"]フン……大佐には、ヴィクトリアが与える栄誉など必要ない。
+[name="Adjutant Hill"]The Colonel has no need whatsoever for Victoria's gratitude.
+[name="힐 부관"]……대령님은 빅토리아의 인정 따위를 필요로 하지 않습니다.
 
 [name="Outcast"]资料都整理好了吗？
+[name="Outcast"]資料の整理は終わったか？
+[name="Outcast"]Got the data all nice and pretty?
+[name="아웃캐스트"]자료는 다 정리했어?
 
 [name="干员弗雷德"]是的，女士，都在这里了。
+[name="フレッド"]ええ、すべてここにあります。
+[name="Operator Fred"]Yes, Lass, it's all in here.
+[name="오퍼레이터 프레드"]네, 다 여기 있어요.
 
 [name="Outcast"]很好。
+[name="Outcast"]よし、素晴らしい。
+[name="Outcast"]Wonderful.
+[name="아웃캐스트"]아주 좋아.
 
 [name="Outcast"]奥利弗，我注意到你也发完电讯了。
+[name="Outcast"]そちらも、メッセージを送り終えたようだね。
+[name="Outcast"]I see Oliver's all done with the comms too.
+[name="아웃캐스트"]올리버, 너도 전보를 다 보낸 것 같네.
 
 [name="干员奥利弗"]合作企业都收到了通知。根据协议条款，之后他们会去找附近其他城市的办事处，或者终止合同。
+[name="オリバー"]はい。パートナー企業宛ての通知は完了しました。彼らとの契約時の条件に基づいて、今後は近隣都市の事務所を訪ねてもらうか、契約を打ち切るか、ってことになります。
+[name="Operator Oliver"]Collaborating businesses have received notice. As per the agreement clauses, they can either seek an office in another city nearby, or terminate the contract.
+[name="오퍼레이터 올리버"]협력 업체에서 모두 통지를 받았어요. 협의 조항에 따르면 그들은 이후부터 근처 도시의 사무소를 방문하거나 계약을 종료할 거라고 합니다.
 
 [name="干员奥利弗"]唉，这么看，我们的损失还不小啊。
+[name="オリバー"]はぁ。しかし、こうしてみると、なかなかの損失ですね。
+[name="Operator Oliver"]*Sigh*. Looking at it, these aren't losses for us to sneeze at.
+[name="오퍼레이터 올리버"]하아, 그렇게 되면 우리의 손실이 적지 않을 것 같아요.
 
 [name="Outcast"]在战乱中蒙受损失的企业不止罗德岛。
+[name="Outcast"]戦争で損失を被る企業は、何もロドスばかりじゃないさ。
+[name="Outcast"]Rhodes Island isn't the only company taking a hit in the chaos of war.
+[name="아웃캐스트"]전란 속에서 로도스 아일랜드만 손실을 본 건 아니야.
 
 [name="干员奥利弗"]也是，没办法，就是我看着这些桌子椅子实在心里难受。当年我刚来小丘郡的时候，我们这间屋子还是空的。
+[name="オリバー"]そうですね……仕方ないとは思います。ただ、このテーブルや椅子を見てるとどうにも名残惜しくて……何せ俺がヒロック郡に来たばかりの頃は、この部屋には何もなかったんですよ。
+[name="Operator Oliver"]True, no way around that. I just look at the chairs and tables in here and there's a twinge in my heart. This place of ours was still empty, back when I first came to County Hillock.
+[name="오퍼레이터 올리버"]하긴 그렇네요. 어쩔 수 없죠, 뭐. 그냥 이 책상과 의자들을 보기만 해도 마음이 너무 아파요. 당시 제가 힐록 카운티에 막 도착했을 때만 해도 이 방은 비어 있었거든요.
 
 [name="Outcast"]奥利弗，陷在离别之愁里还为时过早，你又怎么知道我们不会马上回来呢？
+[name="Outcast"]オリバー。感傷的になるのは時期尚早だ。またすぐに戻ってこられるかもしれないだろう？
+[name="Outcast"]A little early for separation anxiety, Oliver. How do you know we won't be right back, huh?
+[name="아웃캐스트"]올리버, 이별의 슬픔에 잠겨 있기는 아직 일러. 어쩌면 금방 돌아올 수도 있잖아?
 
 [name="干员奥利弗"]您说的没错。唉，希望很快这座城市又能恢复往日的平静。
+[name="オリバー"]確かに、仰る通りですね。はぁ……早いところ、この都市が元通りの落ち着きを取り戻してくれるといいんですが。
+[name="Operator Oliver"]You're right. *Sigh*. I hope this city can return to the old peaceful everydays soon enough.
+[name="오퍼레이터 올리버"]맞는 말씀입니다. 하아, 이 도시가 빨리 예전의 평화를 되찾을 수 있기를 바랍니다.
 
 [name="干员碎纸机"]......仓库里的药，清点结束。
+[name="シュレッダー"]……倉庫内にあった、薬の点検が終わりました。
+[name="Operator Shredder"]Storehouse medications, inventory finished.
+[name="오퍼레이터 슈레더"]……창고 안의 약품은 집계가 끝났어요.
 
 [name="Outcast"]麻烦你们把这些药分一分，确保每个人都能带上足量的应急药品，直到大家顺利转移至最近的办事处。
+[name="Outcast"]ありがとう。では、この薬を皆で分配しようか。無事に一番近くの事務所まで移動を終えられるように、十分な数の応急薬を持っておいてくれ。
+[name="Outcast"]I need you to ration out these meds. Each one of you needs to bring enough emergency medication, make sure everyone makes it smoothly to the closest branch office.
+[name="아웃캐스트"]미안한데 너희들, 이 약품들을 배분해서 모든 사람들이 가장 가까운 사무소로 순조롭게 이동할 때까지 충분한 양의 응급약을 휴대할 수 있도록 해줘.
 
 [name="干员碎纸机"]这样分完，还剩下很多。
+[name="シュレッダー"]……こうして分け終えた後でも、まだ随分残っているな。
+[name="Operator Shredder"]There's still a lot left over, sharing like that.
+[name="오퍼레이터 슈레더"]이렇게 다 배분해도 아직 많이 남아요.
 
 [name="干员奥利弗"]全带走的话会有些压力，毕竟我们人没那么多。
+[name="オリバー"]俺たちは人数もそう多くないし、さすがに全部持って行くのは負担が大きいからな。
+[name="Operator Oliver"]There'll be some pressure if we take it all. We don't have that many hands, after all.
+[name="오퍼레이터 올리버"]모두 가져가는 건 힘들 것 같아요. 우리는 사람이 그리 많지 않으니깐요.
 
 [name="Outcast"]碎纸机，虽然你沉默依旧，但我看得出来，你有自己的想法。
+[name="Outcast"]シュレッダー。君は相変わらず寡黙だが、私にはちゃんと伝わっているよ。何か考えがあるんだろう？
+[name="Outcast"]Shredder's quiet as ever, but I can tell, you have your own ideas.
+[name="아웃캐스트"]슈레더, 그렇게 입 다물고 있지 말고, 하고 싶은 말이 있으면 해봐.
 
 [name="干员碎纸机"]......城里的人们，需要药品。
+[name="シュレッダー"]……街の人たちには、薬が必要だと思うんです。
+[name="Operator Shredder"]The people in the city... They need medicines.
+[name="오퍼레이터 슈레더"]……도시의 사람들은 약품이 필요해요.
 
 [name="Outcast"]刚好，我也这么认为。一旦战火蔓延开，各项基础补给都会告急，尤其是需要长期服用的矿石病镇痛和抑制药物。
+[name="Outcast"]気が合うな。私もそれを考えていたところさ。……一度戦火が広がると、生活必需品の補給は急を要することになる。特に、長期間の服用が必要となる、鉱石病の鎮痛薬や抑制薬などはな。
+[name="Outcast"]Turns out I think so too. If this war scales up, everything's gonna be in short supply, especially Oripathy painkillers and suppressants that need to be taken long-term.
+[name="아웃캐스트"]마침 나도 그 생각을 했어. 일단 전쟁이 번지기 시작하면 각종 기초 보급품에 비상이 걸릴 거야. 특히 장기간 복용해야 하는 광석병 진통제와 억제제들은 더 그럴 거야.
 
 [name="Outcast"]我想你应该有附近医院的名单吧？
+[name="Outcast"]――付近の病院リストはあるか？
+[name="Outcast"]You must have a list of hospitals in the area?
+[name="아웃캐스트"]네게 부근의 병원 명단 있지?
 
 [name="干员碎纸机"]......已经整理好了。
+[name="シュレッダー"]……はい。まとめてあります。
+[name="Operator Shredder"]Already sorted.
+[name="오퍼레이터 슈레더"]……네, 이미 다 정리해뒀어요.
 
 [name="Outcast"]想办法给他们送过去。无论这些机构为谁服务，都要尽量送到。
+[name="Outcast"]では、何とかして届けに行くとしよう。いいか、できる限り多くの医療機関に提供するんだ。それが誰のための病院であろうとも、関係はない。
+[name="Outcast"]Think of a way to get it to them. No matter who these organizations serve, get as much as you can to all of them.
+[name="아웃캐스트"]어떻게든 그 병원들에 가져다줘. 그 기관들이 누구를 위해 복무하든 최대한 다 갖다주도록 해.
 
 [name="Outcast"]对了，别忘记那些开在巷子里的小诊所，它们大多没有招牌，可我们相当多的当地朋友们全指望它们。
+[name="Outcast"]ああそうだ、路地でいくつか小さな診療所を見かけたが、ああいう場所も忘れないでくれ。ほとんどは看板すら出していないが、この辺りにはそうした診療所を頼りにしている人が大勢いるからね。
+[name="Outcast"]And don't forget the little alley clinics. Plenty of them out there without signs, but a lot of our friends around here rely on them.
+[name="아웃캐스트"]참, 골목 안에 있는 작은 진료소들도 잊지 말고 가져다줘. 그런 곳은 대부분 간판이 없어. 하지만, 대다수 현지인들이 그런 진료소를 이용하고 있거든.
 
 [name="干员奥利弗"]女士，这样真的妥当吗？我们一般并不直接越过当地药企，给医疗机构和个人提供药品。
+[name="オリバー"]ですが、Outcastさん。本当に、こんなことをしてもいいんでしょうか？　我々は普段、地元の製薬会社を通さずに、直接医療機関や個人へ医薬品を提供することはありませんし……
+[name="Operator Oliver"]Lass, is this really proper? We never bypass local healthcare, directly providing medical organizations and individuals with pharmaceuticals.
+[name="오퍼레이터 올리버"]진짜 그렇게 해도 괜찮을까요? 저희는 평소 현지 약품 회사를 통하지 않고 다른 의료 기관이나 개인에게 약품을 직접 공급하진 않잖아요?
 
 [name="Outcast"]非常时期，非常举措。更何况，不会有多少医院拒绝来自热心市民的“匿名捐赠”吧？
+[name="Outcast"]非常事態にはイレギュラーな対応がつきものだ。それに、親切な市民からの「匿名の寄付」を拒絶する病院なんてそうないだろう？
+[name="Outcast"]Desperate times call for desperate measures. And it's not like a hospital's gonna refuse an 'anonymous donation' from concerned citizens, right?
+[name="아웃캐스트"]비상시기에는 비상조치가 필요해. 더군다나, 열성 시민의 '익명 기부'를 거절하는 병원은 별로 없을걸?
 
 [name="干员奥利弗"]确实！原来您都想好了啊。可是我们谁负责去送呢？附近的人们都知道我们是罗德岛的人。
+[name="オリバー"]なるほど！　そこまでお考えの上だったんですね。それなら運搬係は誰にしますか？　近くの人たちには、俺たちがロドスの人間だって知られちゃってますけど……
+[name="Operator Oliver"]True! So you got it all figured out, eh. But then, who'll take charge of sending it? The people around all know we're Rhodes Islanders.
+[name="오퍼레이터 올리버"]그렇긴 하죠! 아웃캐스트 씨는 다 계획이 있었군요. 그런데 저희 중 누가 배송하러 가죠? 부근의 사람들은 우리가 로도스 아일랜드의 사람인지 모두 알고 있어요.
 
 [name="简妮"]......我去。我会帮助碎纸机大哥打包药品，然后我来送药。
+[name="ジェニー"]……あたしが行きます。シュレッダーさんが薬を詰めるのを手伝った後、そのまま届けに行きますよ。
+[name="Janie"]I will... I can help Shredder parcel the medicine, and then I'll deliver it.
+[name="제니"]……제가 갈게요. 슈레더 오빠를 도와 약품을 포장한 뒤, 배송할게요.
 
 [name="Outcast"]简，你好些了？
+[name="Outcast"]ジェーン、大丈夫なのかい？
+[name="Outcast"]Jane, you all better?
+[name="아웃캐스트"]제인, 너 괜찮아?
 
 [name="简妮"]伤口不再流血了。
+[name="ジェニー"]もう、血は止まりましたから。
+[name="Janie"]My wounds aren't bleeding anymore.
+[name="제니"]피는 이제 안 나요.
 
 [name="Outcast"]你知道我问的不是伤口。
+[name="Outcast"]傷の具合のことじゃない。
+[name="Outcast"]You know I'm not asking about the wounds.
+[name="아웃캐스트"]내가 상처 얘기하는 게 아니란 걸 알잖아.
 
 [name="简妮"]大家都在忙碌的时候，我不想一个人躲在一旁哭泣。
+[name="ジェニー"]みんなが頑張っている時に、あたしだけ隠れて泣いてるなんていやなんです。
+[name="Janie"]I didn't want to be tucked alone in a corner crying while you were all bustling about.
+[name="제니"]다들 바쁜 시기에 저 혼자 한쪽에 숨어서 울고 싶지 않아요.
 
 [name="Outcast"]有你帮忙当然是好事，不过，药可不少。
+[name="Outcast"]ふむ……手伝ってくれるのは有り難いんだが、決して少なくない量だぞ。
+[name="Outcast"]I'm glad you can help, but we've got a lot of meds here.
+[name="아웃캐스트"]네가 도와준다면 당연히 좋지. 하지만, 약품이 적지 않아.
 
 [name="简妮"]请相信瓦伊凡的体能。
+[name="ジェニー"]なんてことありません。ヴイーヴルの身体能力を信じてください。
+[name="Janie"]Please, trust a Vouivre's stamina.
+[name="제니"]와이번의 신체 능력을 믿어주세요.
 
 [name="Outcast"]我只是不希望罗德岛的任务耽误你自己的计划。
+[name="Outcast"]信じているさ。だが、君自身になにか計画があるなら、ロドスの任務がそれを妨げることになるのは望ましくないと思っているのさ。
+[name="Outcast"]I just don't want Rhodes Island work getting in the way of your own plans.
+[name="아웃캐스트"]나는 다만 로도스 아일랜드의 임무 때문에 네 계획에 영향이 없기를 바랄 뿐이야.
 
 [name="简妮"]没事的。从这里到交战区，刚好能路过好几家医院和诊所。
+[name="ジェニー"]大丈夫です。ここから交戦地帯へ向かえば、ちょうど病院や診療所の前をいくつか通っていくことになりますから。
+[name="Janie"]It's alright. From here to the zone of battle, there just so happens to be plenty of hospitals and clinics along the way.
+[name="제니"]괜찮아요. 여기서부터 교전 구역까지 가려면 마침 병원과 진료소 몇 곳을 지나야 해요.
 
 [name="简妮"]等送完药，我就会归队。
+[name="ジェニー"]薬を届け終わったら、そのまま部隊に戻るつもりです。
+[name="Janie"]Once I'm done delivering, I'll rejoin you.
+[name="제니"]약품 배송을 마친 뒤 바로 부대로 복귀할 거예요.
 
 [name="简妮"]还差一点，很快打包就能完成。
+[name="ジェニー"]あと少し……もうちょっとで詰め終わります。
+[name="Janie"]Just a little left. We'll be done with wrapping in no time.
+[name="제니"]이제 조금 남았어요. 금방 다 포장할 수 있을 것 같아요.
 
 [name="Outcast"]那大家也差不多该上路了。
+[name="Outcast"]では、全員そろそろ出発しようか。
+[name="Outcast"]Then it's about time we got on our way.
+[name="아웃캐스트"]그럼, 다들 이제 출발해야겠어.
 
 Outcast说着，从身侧的武器袋中拔出了一把左轮手铳。
+Outcastはそう言うと、腰のホルスターから、リボルバーを引き抜いた。
+As Outcast speaks, she draws a revolver from the holster at her side.
+말을 마친 아웃캐스트는 몸에 달린 무기 주머니에서 리볼버 한 자루를 뽑아 들었다.
 
 [name="干员奥利弗"]哇，这就是您的铳吗？
+[name="オリバー"]うわっ……それが、あなたの銃ですか？
+[name="Operator Oliver"]Whoa. That's your gun?
+[name="오퍼레이터 올리버"]우와, 이것이 바로 아웃캐스트 씨의 권총인가요?
 
 [name="Outcast"]没错。
+[name="Outcast"]ああ。
+[name="Outcast"]That it is.
+[name="아웃캐스트"]응.
 
 [name="Outcast"]对萨科塔来说，行动之前，总要填好子弹才算准备万全。
+[name="Outcast"]サンクタの身支度というのは、銃に弾丸を籠めることでようやく整うものだからね。
+[name="Outcast"]For a Sankta, pre-op prep's only complete once your gun's loaded.
+[name="아웃캐스트"]산크타들은 작전 개시 전에 반드시 탄약을 채워 넣어야만 만반의 준비를 마쳤다 할 수 있지.
 
 [name="干员奥利弗"]您的弹仓好像没满。
+[name="オリバー"]あれ？　弾倉全部に弾は入れないんですか？
+[name="Operator Oliver"]It doesn't look like your chamber's full.
+[name="오퍼레이터 올리버"]그런데 총알이 가득 채워지지 않은 것 같은데요.
 
 [name="Outcast"]通常情况下，同时射出五发子弹也够用了。
+[name="Outcast"]ああ。普通の状況であれば、一度に五発撃てたらそれで十分だ。
+[name="Outcast"]Under normal circumstances, five rounds is enough to do the trick.
+[name="아웃캐스트"]일반 상황에선 다섯 발만 있어도 충분하니까.
 
 [name="干员奥利弗"]我在回本舰和巴蒂他们吃饭的时候，听过很多您的外勤故事。
+[name="オリバー"]ははっ……以前、ロドス本艦に戻ってバティたちと飯を食った時、外勤時のあなたの話をたくさん聞かせてもらいましたよ。
+[name="Operator Oliver"]When I was back at the landship and ate with Barty's group, I heard a lot of stories from the field about you.
+[name="오퍼레이터 올리버"]본함에 있을 때 발티와 식사하면서 아웃캐스트 씨의 외근 이야기에 관해 많이 들었어요.
 
 [name="干员奥利弗"]您曾经用一发子弹干掉过三个哥伦比亚匪首，用三发子弹打散过一支雇佣兵队伍。
+[name="オリバー"]その昔、たった一発の弾丸でクルビアの盗賊たちの首領三人を仕留めたとか、はたまた、三発の弾丸で傭兵隊をまるまる一つ蹴散らしたとか……
+[name="Operator Oliver"]You once took down three Columbian bandits with a single bullet, and used three to scatter a whole mercenary team.
+[name="오퍼레이터 올리버"]한 발로 컬럼비아 도적 두목 세 명을 잡았고, 세 발로 용병 한 부대를 몰아낸 적도 있다면서요?
 
 [name="干员奥利弗"]要我说，没什么敌人值得您连开六枪吧？
+[name="オリバー"]そんなあなたが、六発も撃つに値する敵なんて、まずいないということですね？
+[name="Operator Oliver"]If I had to guess, there wouldn't be an enemy out there worth six straight shots?
+[name="오퍼레이터 올리버"]제 생각엔 아웃캐스트 씨가 여섯 발 쏠만한 정도의 적이 없는 것 같아요.
 
 [name="Outcast"]那可未必。毕竟，更大的挑战永远在前方。
+[name="Outcast"]いや、そうとも限らんよ。何しろ、より大きな難題というものは、いつも先々に控えているものだ。
+[name="Outcast"]Can't say for sure. After all, there's always a bigger beast.
+[name="아웃캐스트"]꼭 그런 것도 아니야. 더 큰 도전은 언제나 미래에 있으니까.
 
 [name="Outcast"]不过我答应过一个人，我不会轻易射出六发子弹——因为我们打了一个赌。
+[name="Outcast"]ただ、私にはある人物との約束があってね。そうそう六発目を撃つことはない――というのも、そういう賭けだからなんだが。
+[name="Outcast"]But I made a promise to someone that I'd never fire a sixth round lightly—because we made a bet.
+[name="아웃캐스트"]하지만 난, 어떤 사람과 약속한 적 있어. 섣불리 여섯 발을 쏘지 않겠다고…… 내기를 했거든.
 
 [name="简妮"]我忍不住好奇，什么样的赌约会让您这样的人改变行事方法？
+[name="ジェニー"]賭け……？　あなたにそこまでさせるなんて、一体何をどう賭けたらそうなるんですか？
+[name="Janie"]I can't help but be curious. What kind of bet would make someone like you change up how you work?
+[name="제니"]어떤 내기였길래, 당신 같은 사람의 행동 패턴마저 바꿀 정도죠?
 
 [name="Outcast"]解释起来会有那么一点复杂。
+[name="Outcast"]それが少々、説明するには難しい事情でね。
+[name="Outcast"]That's a long story.
+[name="아웃캐스트"]설명하자면 좀 복잡해.
 
 [name="Outcast"]总之，我的那位朋友想方设法地要让我舒舒服服地享受退休生活。
+[name="Outcast"]まあ、ようはその友人は、私が引退後の生活を悠々自適に楽しめるよう、色々と考えてくれてるのさ。
+[name="Outcast"]The short version is that friend of mine tried every way under the sun to show me an easy retirement.
+[name="아웃캐스트"]어쨌든, 그 친구는 내가 은퇴 후의 생활을 편하게 즐길 수 있도록 여러모로 신경 써 주고 있어.
 
 [name="Outcast"]而我总是有一种预感，像我这样的人，即便哪一天真的退休了，也没法过得太平静。
+[name="Outcast"]けれども私には、一つの予感があるんだ。私のような人間は、いつか本当に引退したとしても、穏やかに過ごすことなんてできないのだろうという予感がね。
+[name="Outcast"]And I always had a feeling that even if I retired for real, someone like me just couldn't live peaceful.
+[name="아웃캐스트"]그런데 나 같은 사람은 언젠가 진짜 은퇴한다 해도 그리 조용히 살 수는 없을 것 같다는 예감이 들어.
 
 [name="简妮"]就像现在这样吗？
+[name="ジェニー"]ちょうど今みたいに、ですか？
+[name="Janie"]Like right now?
+[name="제니"]지금처럼 말인가요?
 
 [name="简妮"]我也没想到小丘郡会变得这么不平静，明明几十个小时前，我们还聚在一起打牌喝茶......
+[name="ジェニー"]でもあたしも、まさかヒロック郡がこんなふうになるなんて思ってもみませんでした。二、三日前には、みんなでトランプをしたり、お茶を飲んだりしてたくらいなのに……
+[name="Janie"]I never imagined County Hillock could turn so restless. It was just a day or two ago, we were all huddled together playing cards and drinking tea...
+[name="제니"]저도 힐록 카운티에 이렇게 난리가 날 줄은 몰랐어요. 분명 몇십 시간 전까지만 해도 우리는 모여서 카드놀이를 하며 차를 마셨는데 말이죠……
 
 [name="Outcast"]许多时候，局势就如同天色，总是瞬息万变。
+[name="Outcast"]――情勢とは往々にして、空模様のように移ろいゆくものさ。
+[name="Outcast"]A lot of times, a situation's like the color of the sky, shifting on and on.
+[name="아웃캐스트"]대부분, 상황이란 마치 날씨처럼 순식간에 변하곤 하지.
 
 [name="Outcast"]能选择的话，我还是希望这次撤退行动能平静些，最好连一颗子弹都用不上。
+[name="Outcast"]無論、私に選択権があれば、今回の撤退がなるべく何事もなく終わることを選ぶがね。何しろ、弾を使わずに済むのなら、それに越したことはないのだから。
+[name="Outcast"]If it's up to me, I'd sure like this retreat operation to go nice and quiet-like. Best case scenario, I don't even need to fire one round.
+[name="아웃캐스트"]만약 선택할 수 있다면 이번 퇴각 작전은 좀 조용히 진행되었으면 좋겠어. 탄약을 한 발도 쏠 필요가 없게.
 
 [name="干员碎纸机"]......女士，都准备好了。
+[name="シュレッダー"]……Outcastさん。準備が整いました。
+[name="Operator Shredder"]...Lass, it's all ready.
+[name="오퍼레이터 슈레더"]……아웃캐스트 씨, 준비 다 됐습니다.
 
 [name="简妮"]朋友们，是时候说再见了。
+[name="ジェニー"]じゃあ……これでお別れだね、みんな。
+[name="Janie"]Friends, it's time to say goodbye.
+[name="제니"]여러분, 작별 인사를 해야 할 때가 되었네요.
 
 [name="干员奥利弗"]小简妮......
+[name="オリバー"]ジェニー……
+[name="Operator Oliver"]Janie...
+[name="오퍼레이터 올리버"]제니……
 
 [name="简妮"]不必这么难过，奥利弗叔叔，我相信Outcast的话——我们一定还能再见面的！
+[name="ジェニー"]そんなに悲しそうな顔しないでよ、オリバーおじさん。きっと大丈夫だから、また会えるよ――あたし、Outcastの言葉を信じてるから！
+[name="Janie"]You don't need to be so sad, Uncle Oliver. I trust in what Outcast says—we can surely see each other again!
+[name="제니"]올리버 아저씨, 그렇게 슬퍼할 필요 없어요. 저는 아웃캐스트 씨의 말을 믿어요…… 우린 꼭 다시 만날 거예요!
 
 [name="干员碎纸机"]简，小心。
+[name="シュレッダー"]気を付けてな、ジェーン。
+[name="Operator Shredder"]Jane, be careful.
+[name="오퍼레이터 슈레더"]제인, 조심하고.
 
 [name="简妮"]我会的，碎纸机大哥。你们也是，务必保全自己。
+[name="ジェニー"]ありがとう、シュレッダーさん。みんなも、気を付けてね。
+[name="Janie"]I will, Shredder. All of you too, be sure to take care of yourselves.
+[name="제니"]알았어요, 슈레더 오빠. 여러분도, 부디 몸조심하시길 바랍니다.
 
 [name="简妮"]唔......我是不是听见了雷声？
+[name="ジェニー"]えっ……今のって、雷？
+[name="Janie"]Oh... did I hear thunder?
+[name="제니"]어?…… 천둥소리가 나는 것 같은데?
 
 [name="干员碎纸机"]......马上就要下雨了。
+[name="シュレッダー"]……それなら、すぐに雨が降り出すはずだ。
+[name="Operator Shredder"]...It'll be raining soon enough.
+[name="오퍼레이터 슈레더"]……곧 비가 오려나 봐.
 
 [name="Outcast"]不，这个声音不大对劲。简，你先别出门！
+[name="Outcast"]――いや。この音は雷だとは思えない。ジェーン、外に出るな。ここにいるんだ！
+[name="Outcast"]No. Something's not right about that sound. Jane, stay inside for now!
+[name="아웃캐스트"]아니, 이 소리는 뭔가 이상해. 제인, 일단 나가지 마!
 
 [name="风笛"]厨子先生，厨子先生你在吗？！
+[name="バグパイプ"]コックさん！　コックさんはいる！？
+[name="Bagpipe"]Mr. Chef, Mr. Chef, are you here?!
+[name="백파이프"]셰프, 셰프 어데 있나?!
 
 [name="厨子麦克马丁"]哎哟，我在，我在的！别拍门啦，我们这办公室的门被油烟熏久了，可不经敲。
+[name="マクマーティン"]うわっと！　い、いますよ、いますから！　ドアを叩くのはやめてください、この事務所のドアは油と煙で脆くなってるんです。
+[name="Chef MacMartin"]Agh! Yes, I'm here, I'm here! Stop it with the banging! There's too much lampblack on our office door. Can't stand up to knocks.
+[name="셰프 맥마틴"]아이고, 네, 저 여기 있어요! 그만 좀 두드려요. 우리 사무실의 문은 기름이랑 연기에 오랫동안 그을려 있어서 세게 두드리면 고장 날 수도 있단 말이에요.
 
 [name="风笛"]您还在就好......是这样的，我要找信使，我们有重要的消息要传出城去！
+[name="バグパイプ"]いてくれてよかった……実はトランスポーターを探してるんだ。大事な情報を街の外に届けてもらわないといけなくて！
+[name="Bagpipe"]Okay, good, you're still here... here's the thing, I need a Messenger, we've got important information that needs sendin' out!
+[name="백파이프"]셰프, 다행히도 안직 있구나…… 난 전달자를 찾으러 왔아. 도시 밖으로 전해야 할 중요한 정보가 있어서 그래!
 
 [name="厨子麦克马丁"]好，我都明白。刚好，我也有东西要交给你。
+[name="マクマーティン"]な、なるほど。わかりました。……っと、そういえば、ちょうどあなたに渡したいものがあったんです。
+[name="Chef MacMartin"]Yeah, I understand. Fancy that, I've got something to give to you too.
+[name="셰프 맥마틴"]네, 저도 다 알고 있어요. 마침 저도 당신께 줄 게 있어요.
 
 [name="风笛"]欸？这是什么？一张......纸？
+[name="バグパイプ"]んえ？　これなんだろう？　……誰かのメモ？
+[name="Bagpipe"]Eh? What's this? A piece of... paper?
+[name="백파이프"]어? 이게 뭐야? 쪽지…… 아니나?
 
 [name="厨子麦克马丁"]是一名驻军军官——叫路易斯·凯利的那位，他刚刚交给我的。
+[name="マクマーティン"]ええ。駐屯軍の――ルイス・ケリーという人から、さっき渡されたばかりで。
+[name="Chef MacMartin"]It's a list of stationed officers—the one named Louis Kelly, he just handed it to me.
+[name="셰프 맥마틴"]주둔군 군관…… 루이스 켈리라는 분이 방금 제게 준 거예요.
 
 [name="风笛"]凯利上尉？他怎么会跟你联络？
+[name="バグパイプ"]ケリー大尉が？　どうしてコックさんを知ってるの？
+[name="Bagpipe"]Captain Kelly? How'd he get in touch with you?
+[name="백파이프"]켈리 대위? 어떠 당신한테 연결을 한 거나?
 
 [name="厨子麦克马丁"]放心，他压根不知道我是谁，只不过因为我是他最后撞见的人。
+[name="マクマーティン"]ああ、ご心配なく。あの人に俺の正体が知られてたってわけじゃないんです。ただ単に、彼と最後に会ったのが俺だったってだけで……
+[name="Chef MacMartin"]Relax, he's got no clue who I am. It was only 'cause I was the last person he ran into.
+[name="셰프 맥마틴"]걱정 마세요. 그분은 제가 누구인지 전혀 몰라요. 단지 저는 그분이 마지막으로 만난 사람일 뿐이에요.
 
 [name="厨子麦克马丁"]我本来是去周围打探消息，毕竟我记得自己的老本行是吧......没想到我竟然遇上了驻军在抓他！
+[name="マクマーティン"]元々、俺は俺で周囲に探りを入れてたんです。まだ自分の本業を忘れたわけじゃありませんし……にしても、駐屯軍が彼を逮捕するところに出くわすとは思ってませんでしたけどね。
+[name="Chef MacMartin"]I was going to go poking around for the latest. Still remember my actual job, after all... Didn't imagine I'd run into the troops arresting him!
+[name="셰프 맥마틴"]원래는 주변에 정보를 캐러 갔었어요. 제 본업을 잊지는 않았으니까요…… 그런데, 주둔군이 켈리 대위를 붙잡는 광경을 마주칠 줄은 몰랐죠!
 
 [name="风笛"]抓......他？你的意思是，凯利上尉被自己人抓了？！
+[name="バグパイプ"]逮捕、って……えっ？　ケリー大尉が、身内に捕まっちゃったってこと？
+[name="Bagpipe"]Arrestin'... him? You mean, Captain Kelly's been arrested by his own?!
+[name="백파이프"]켈리를…… 붙잡는다고? 당신 말은 켈리 대위가 자기편 사람한테 붙잡혔다는 거나?!
 
 [name="厨子麦克马丁"]他们说他窝藏矿石病人！可这不对啊，他儿子几个月前因为矿石病去世，城里的人都知道，他第一时间就上报了他儿子生病的消息！
+[name="マクマーティン"]はい……鉱石病患者を匿った罪、だそうです。でも、彼の息子さんは数ヶ月前、鉱石病で亡くなっていて……しかも、病気のことはすぐに報告してましたし、街の皆も周知の事実なんですよ！
+[name="Chef MacMartin"]They said he was harboring Oripathics! But that can't be right. His son passed from Oripathy a few months ago, the whole city knows that. The first thing he did was report the news his son'd gotten ill!
+[name="셰프 맥마틴"]주둔군은 켈리가 광석병 환자를 숨겼다고 했어요! 하지만, 그럴 리가 없습니다. 켈리 대위의 아들이 몇 개월 전에 광석병으로 죽었거든요. 본인이 제일 먼저 아들이 병에 걸렸다고 보고한 사실을 도시의 사람이라면 다 알아요.
 
 [name="风笛"]这群人......拿这么悲惨的疾病当借口？太无耻了吧！
+[name="バグパイプ"]あの人たち……そんな悲惨な目に遭った人を、傷口抉るような口実つけて逮捕したの！？　最低だよ！！
+[name="Bagpipe"]These people... usin' such a tragic illness as an excuse? That's beyond shameless!
+[name="백파이프"]이놈들이…… 이러 비참한 질병으로 구실을 만드는기나? 파렴치하기 그지없구만, 와~ 히딱하겠다야.
 
 [name="厨子麦克马丁"]也不是一次两次了，对想把各种歧视摆上台面的人来说，矿石病真是一个特别好用的幌子。
+[name="マクマーティン"]まったくです。ただ、こういうことはこれまで何度も起きているんですよ。色々な差別を正当化したい人からすれば、鉱石病は本当に都合のいい口実なんでしょうね。
+[name="Chef MacMartin"]Not just once or twice, either. For people wanting to use any form of discrimination as a front, it's true, Oripathy is an especially good pretense.
+[name="셰프 맥마틴"]이미 한두 번이 아니에요. 여러 가지 차별 대우를 까밝히려는 사람에게 있어서 광석병은 아주 좋은 핑곗거리가 될 수 있지요.
 
 [name="厨子麦克马丁"]就像这次，驻军是为了清理内部塔拉出身的人。
+[name="マクマーティン"]……今回、駐屯軍が軍内部のターラー人を粛清するためにそれを利用したようにね。
+[name="Chef MacMartin"]Just take this time. The troops are weeding out any inside people born Taran.
+[name="셰프 맥마틴"]이번이 바로 그런 경우에요. 주둔군은 내부에 타라 출신의 사람을 정리하려고 해요.
 
 [name="厨子麦克马丁"]无论是军官还是士兵，只要家里和塔拉人沾亲带故，都在一夜之间被剥夺了自由行动的权利。
+[name="マクマーティン"]今や、将校だろうが一兵士だろうが、ターラーの縁故者であれば皆……一夜にして自由を奪われてしまいました。
+[name="Chef MacMartin"]Officers or soldiers, so long as they were kindred with Tarans in some way, were stripped overnight of any right to act freely.
+[name="셰프 맥마틴"]장교든 병사든 가족 중 타라인과 조금이라도 연관이 있으면 하루아침에 자유를 박탈당하고 말지요.
 
 [name="风笛"]清理军队内部的塔拉人？在急需用人的战时？我有一些很不好的预感。
+[name="バグパイプ"]ターラー人を粛清？　人手が足りないはずの戦時中に？　なんだかすごく嫌な予感がする……
+[name="Bagpipe"]Clearin' out the barracks' Tarans? In wartime, pressed for people? I've got an awful feelin' about this already.
+[name="백파이프"]군대 내 타라인을 정리한다고? 인력이 시급한 이 전란 시기에? 왠지 예감이 좀 그렇다야.
 
 [name="厨子麦克马丁"]所以，凯利上尉拼命塞给我这张纸，想让我交给“最近一直在附近晃悠的不是驻军的士兵”——
+[name="マクマーティン"]だから、ケリー大尉は必死でこのメモを俺に託したんです。「最近この近くをうろついている、駐屯軍ではない兵士」に渡してくれ、と――
+[name="Chef MacMartin"]So, Captain Kelly slipped me this like his life depended on it, wanted me to give it to 'the soldier not from this barracks who's constantly been hanging around here as of late'—
+[name="셰프 맥마틴"]그래서, 켈리 대위님이 목숨 걸고 이 쪽지를 제게 건네줬나 봐요. 저를 통해 '최근 계속 부근에서 어슬렁거리던 주둔군이 아닌 병사'에게 전하고 싶었던 거죠……
 
 [name="风笛"]——！
+[name="バグパイプ"]――！？
+[name="Bagpipe"]—!
+[name="백파이프"]……!
 
 [name="风笛"]厨子先生，这是驻军在制造非法源石武器的证据！
+[name="バグパイプ"]コックさん、このメモは……駐屯軍が、違法な源石武器を製造してることの証拠だよ！
+[name="Bagpipe"]Mr. Chef, this is proof the barracks are makin' illegal Originium weapons!
+[name="백파이프"]셰프, 이건 주둔군이 불법 오리지늄 무기를 맹근다는 증거야!
 
 [name="厨子麦克马丁"]什么？！汉密尔顿是疯了吧！
+[name="マクマーティン"]なんですって！？　――ハミルトン、あのイカレ野郎が！
+[name="Chef MacMartin"]What?! Hamilton's lost his mind!
+[name="셰프 맥마틴"]뭐라고요?! 해밀턴이 미친 것 아닐까요?
 
 [name="风笛"]请你找到可信的信使，把这张纸和我们关于鬼魂部队的报告放在一起，作为重要情报，立刻带出小丘郡！
+[name="バグパイプ"]コックさん、今すぐ信頼できるトランスポーターを探して。このメモと、うちらの小隊からの亡霊部隊に関する報告を、早くヒロック郡から持ち出さないと。
+[name="Bagpipe"]I want you to find a trustworthy Messenger, give 'em this paper and our report about the spectre force both, to be treated as vital intelligence, and taken out of County Hillock straight away!
+[name="백파이프"]믿을 만한 전달자를 찾아, 이 쪽지를 귀혼대 관련 보고서하고 같이 힐록 카운티 밖으로 빼내도록 해. 증말 중요한 정보라니.
 
 [name="风笛"]这是上尉在最后关头的努力，我们一定不能白费！
+[name="バグパイプ"]大尉の最後の頑張りを、絶対無駄にはできない。
+[name="Bagpipe"]This is the Captain's endeavor in his final moment! We cannot waste it!
+[name="백파이프"]절대 대위의 마지막 노력이 헛되게 할 수 없아.
 
 [name="厨子麦克马丁"]不行，这些消息太重要了，民间信使并不牢靠。这样吧，女士，我自己跑这趟。
+[name="マクマーティン"]ですが……こんな重要情報、民間のトランスポーターに任せるわけにはいきません。――だから、こうしましょう。バグパイプさん、俺が行きます。
+[name="Chef MacMartin"]Can't do that. This information's too important, and we can't rely on a civilian Messenger. How about this instead, Miss—I'll make this trip myself.
+[name="셰프 맥마틴"]안 되겠어요. 이 정보들은 너무 중요한 거라, 민간 전달자에게 맡길 수 없습니다. 백파이프 씨, 제가 직접 다녀올게요.
 
 [name="风笛"]厨子先生，您也当过信使吗？
+[name="バグパイプ"]コックさん……おめーさん、トランスポーターだったの？
+[name="Bagpipe"]Mr. Chef, you were a Messenger too?
+[name="백파이프"]셰프도 전달자를 한 적이 있나?
 
 [name="信使麦克马丁"]别忘了，传递消息也是我们点灯人老本行的一部分。哎，我这总算能接点像样的任务了，我的手跟腿都在兴奋地发抖。
+[name="「ランプライター」"]お忘れになっちゃ困ります。情報伝達も俺たちランプライターの職務の一つなんですよ。……いやあ、しかしようやくまともな任務に関われるなんて、興奮で手足が震えてきましたよ！
+[name="Messenger MacMartin"]Don't forget, passing on information's part of us lamplighters' profession too. Ah, finally, I can take on a decent assignment at long last. Excitement's got my hands and legs shaking.
+[name="전달자 맥마틴"]정보를 전달하는 것도 램프라이터 본업의 일부라는 걸 잊지 마세요. 후우, 드디어 제대로 된 임무를 맡게 되니 흥분돼서 손발이 다 떨리네요.
 
 [name="风笛"]咦等下，外面有什么声音......
+[name="バグパイプ"]ま、待って！　外から変な音が……
+[name="Bagpipe"]Wait, hold on, there's some sound outside...
+[name="백파이프"]어, 잠깐만. 밖에 뭔 소리가 나는 것 같은데……
 
 [name="信使麦克马丁"]是在打雷吧？
+[name="「ランプライター」"]雷じゃないですか？
+[name="Messenger MacMartin"]It's lightning, isn't it?
+[name="전달자 맥마틴"]천둥소리 아닌가요?
 
 [name="风笛"]我觉得不太像。
+[name="バグパイプ"]あんまり雷っぽくないけど――
+[name="Bagpipe"]I'm feelin' doubtful about that.
+[name="백파이프"]아이 것 같아.
 
 [name="信使麦克马丁"]放心，我在小丘郡待了这么多年，这天气说变就变，我都习惯了。
+[name="「ランプライター」"]大丈夫ですって。ヒロック郡には長年住んでますから、気まぐれな天気にはもう慣れっこなんです。
+[name="Messenger MacMartin"]It's fine, I've been here in County Hillock how many years now. The weather changes when it wants to. Used to it at this point.
+[name="전달자 맥마틴"]걱정 마세요. 힐록 카운티에 몇 년 살면서, 변덕스러운 날씨 변화에 익숙해졌거든요.
 
 [name="信使麦克马丁"]这点雷雨还拦不住我，我走了！
+[name="「ランプライター」"]雷雨くらいじゃ、俺は止められませんよ。じゃあ、行ってきます！
+[name="Messenger MacMartin"]A little lightning and rain can't hold me back! I'm off!
+[name="전달자 맥마틴"]이 정도의 비바람은 저를 막을 수 없어요. 이만 가볼게요!
 
 [Subtitle(text="信使头也不回地冲向街道深处。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="トランスポーターは振り返りもせず、通りの奥へと走って行った。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The Messenger charges into the recess of the street with nary a look back.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="전달자는 고개도 돌리지 않은 채 거리 깊숙한 곳으로 달려갔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="在他头顶，大雨倾盆而下，雷声渐渐近了，越来越密集，越来越响——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼の頭にはバケツをひっくり返したような大雨が降り注いでいた。響き渡る雷鳴は徐々にその間隔が短くなり、大きくなり――", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="On his head, a hard rain is pouring down, and the thunder gradually nears, getting concentrated, louder—", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그의 머리 위로, 비가 억수같이 쏟아졌고 천둥소리도 점차 가까워지고 집중되었으며 점점 더 크게 들려왔다……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="风笛"]这......这不是打雷！
+[name="バグパイプ"]こ……この音、雷なんかじゃない！
+[name="Bagpipe"]This... this isn't lightning!
+[name="백파이프"]이…… 이건 천둥소리가 아이라니!
 
 [name="风笛"]不，厨子先生——
+[name="バグパイプ"]待って、コックさん――
+[name="Bagpipe"]No, Mr. Chef—
+[name="백파이프"]잠깐만, 셰프……
 
 [name="风笛"]——这是炮轰声！！！
+[name="バグパイプ"]――これは――砲声だよ！！
+[name="Bagpipe"]—This is bombardment!!!
+[name="백파이프"]……이건 포격음이라고!!!
 
 [Subtitle(text="信使没来得及听见她的话。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女の言葉は、トランスポーターには届かなかった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The Messenger isn't in time to hear her words.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="전달자는 백파이프가 부르는 소리를 들을 겨를이 없었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="无数炮弹乘着大雨降下，在接触到地面和墙体的一瞬炸裂开来。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="無数の砲弾が大雨と共に降り注ぎ――地面に、壁に、触れた瞬間炸裂する。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Countless shells come down with the rain, exploding the moment they contact the ground and walls.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="무수히 많은 포탄이 소나기와 함께 쏟아졌고, 지면과 벽에 닿는 순간 터졌다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="冲击波轻松撕开了凝胶材料，高温凶猛地熔化了金属结构，而更可怕的是趁机钻入城市肌骨之下的病原——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="衝撃波がその表面を容易に引き剥がし、凄まじい高熱が金属を溶かしていく。そして何より恐ろしいのは、都市の骨格へと潜り込んでくる病の種子――", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The blast waves tear effortlessly through the gel material, blisteringly and ferociously melting the metal makeup, but the more fearsome thing takes advantage of the illness that bores beneath the city's muscle and bone—", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="충격파는 접착제를 순식간에 찢어버렸고, 엄청난 고열이 금속을 녹여버렸다. 그런데 더 무서운 것은 그 틈을 타 도시 근간에 파고든 병원체였다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="不完全燃烧形成巨大的源石晶簇，密集地凝结在街道和建筑的伤口里，就如同一朵朵在泥雨中迅速盛开的纯黑花朵。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="不完全な燃焼反応が、巨大な源石クラスターを形成する。そしてそれは、街路や建築物の傷口に密集し、凝固していく――まるで、汚れた雨の中で咲き乱れる漆黒の花のように。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Incomplete combustion sees immense formations of Originium crystal, solidifying dense within the open wounds of streets and buildings, as if in the dirty rain, identically and rapidly, bloom pure black flowers.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="불완전 연소로 형성된 거대한 오리지늄 결정이 거리와 건물의 흠이 난 곳에 맺혀 마치 진흙비 속에서 순식간에 피어난 검은색 꽃 같았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 

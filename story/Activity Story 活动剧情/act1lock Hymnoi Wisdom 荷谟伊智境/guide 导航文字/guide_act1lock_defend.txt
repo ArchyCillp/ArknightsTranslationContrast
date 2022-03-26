@@ -1,18 +1,45 @@
 [PopupDialog(dialogHead="$avatar_doberm")] 恭喜，博士。我听特别甄选代表报告，你们已经完成了【最终试炼场所】的初次挑战。
+[PopupDialog(dialogHead="$avatar_doberm")] おめでとう、ドクター。特別推薦選手から報告を受けている。【最終試練場】をクリアしたそうだな。
+[PopupDialog(dialogHead="$avatar_doberm")] Congratulations, Doctor. I heard from the special deputy that you have completed the first challenge of the 'Final Proving Ground.'
+[PopupDialog(dialogHead="$avatar_doberm")] 축하한다, 박사. 특별 추천 대표로부터 【최종 시련 장소】의 첫 도전을 완료했다는 소식을 들었다.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 你应该还记得规则。想要进行更高效的作战，接下来将可以通过挑战新解锁的【据点】关卡并进行驻守，以此增加【最终试炼场所】中额外的【特殊假想敌】。
+[PopupDialog(dialogHead="$avatar_doberm")] ルールはまだ覚えているだろう？　より効率的な作戦遂行のためには、新たに解放された【拠点】ステージに挑戦し、そこを【防衛】する必要がある。そうすれば、【最終試練場】に【特殊仮想敵】が追加されるシステムだ。
+[PopupDialog(dialogHead="$avatar_doberm")] I am sure you still remember the rules. If you want your operations to proceed more efficiently, you may clear the newly unlocked 'Post' stages and garrison your units there. This will increase the number of 'Special OpFor Unit' that will appear in the 'Final Proving Ground.'
+[PopupDialog(dialogHead="$avatar_doberm")] 규칙은 잊지 않았겠지? 더 효율적인 작전을 원한다면 새로 개방된 【거점】을 클리어하고 오퍼레이터를 주둔시켜야 한다. 그러면 【최종 시련 장소】에 【가상의 적】이 출현할 것이다.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 击败这些敌人，将获得更多的收益。
+[PopupDialog(dialogHead="$avatar_doberm")] これらの敵を倒すことで、より多くの報酬を得ることができる。
+[PopupDialog(dialogHead="$avatar_doberm")] More rewards will be awarded for defeating these enemies.
+[PopupDialog(dialogHead="$avatar_doberm")] 가상의 적을 처치하면 수익도 더 많아져.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 当我们通关【据点】关卡后，将选择是否让通关的所有行动干员进行【驻守】。只有确认进行驻守，才会有相应的【特殊假想敌】出现在【最终试炼场所】关卡中。
+[PopupDialog(dialogHead="$avatar_doberm")] 【拠点】ステージでは、クリア後、ステージに参加した全オペレーターに拠点を【防衛】させるか否かを選択することになる。
+[PopupDialog(dialogHead="$avatar_doberm")] Once the 'Post' stage is cleared, you will need to decide whether to 'garrison' the deployed Operators there or not. The corresponding 'Special OpFor Units' will only appear in the 'Final Proving Ground' stage if you choose to garrison your Operators.
+[PopupDialog(dialogHead="$avatar_doberm")] 【거점】을 클리어한 후에 해당 오퍼레이터들의 【주둔】 여부를 선택할 수 있다. 이때 해당 거점을 클리어한 오퍼레이터를 주둔시켜야만 【최종 시련 장소】에 【가상의 적】이 출현한다.
 
 [PopupDialog(dialogHead="$avatar_npc012")] 杜宾教官，我想再确认一下，派去据点进行驻守的干员，不能再参与其它【据点】关卡和【最终试炼场所】关卡的作战了吗？
+[PopupDialog(dialogHead="$avatar_npc012")] ドーベルマン教官、確認したいんだが……【拠点】を【防衛】させているオペレーターは、ほかの拠点や【最終試練場】での作戦に参加することはできないのか？
+[PopupDialog(dialogHead="$avatar_npc012")] Instructor Dobermann, I want to make sure I am getting this right. The Operators who are garrisoned at the Posts will not be allowed to participate in the other 'Post' stages and the 'Final Proving Ground' stage, is that right?
+[PopupDialog(dialogHead="$avatar_npc012")] 도베르만 교관, 질문이 있다. 거점에 주둔시킨 오퍼레이터는 다른 【거점】과 【최종 시련 장소】의 작전에 참여할 수 없는 건가?
 
 [PopupDialog(dialogHead="$avatar_doberm")] 没错。任何干员的擅自离开都会为据点驻守造成不确定性。不过根据规则，占领据点并非强制要求。驻守中的干员随时可以撤离，为更加合理的行动人员调配做准备。
+[PopupDialog(dialogHead="$avatar_doberm")] その通りだ。勝手に持ち場を離れることは許されない。【拠点】に不確定要素をもたらすからな。だが、ルールによると、防衛地点からはいつでも撤退することができる。そうして、より合理的な人員配置を行うこともできるだろう。
+[PopupDialog(dialogHead="$avatar_doberm")] That's correct. Any Operator who leaves the Post also leaves its Post's defense in an uncertain state. That said, the rules don't require the Posts to be garrisoned. The garrisoned Operators may be recalled at any time if you want to deploy your Operators more effectively.
+[PopupDialog(dialogHead="$avatar_doberm")] 맞아. 무단으로 이탈하는 오퍼레이터가 발생하면 거점 수비에 불확실성을 초래하게 된다. 물론, 규칙적으로 강제성은 없기에 얼마든지 주둔 오퍼레이터를 철수하고 새로운 인원을 배치할 수 있어.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 我们的目的，仍将是保留最强大的实力在【最终试炼场所】关卡进行挑战。
+[PopupDialog(dialogHead="$avatar_doberm")] 我々の目的は、【最終試練場】での挑戦に備え、最高戦力を残しておくことだ。
+[PopupDialog(dialogHead="$avatar_doberm")] Our goal is still to reserve our strongest for the 'Final Proving Ground' stage.
+[PopupDialog(dialogHead="$avatar_doberm")] 우리의 목표는 최강의 실력을 남겨 【최종 시련 장소】에 전부 투입하는 것이다.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 占领越多的据点，意味着参赛小队已经准备好将花费更多的精力，在【最终试炼场所】中面临更危险的挑战。我们尚不知那些额外的敌人会有怎样的实力。
+[PopupDialog(dialogHead="$avatar_doberm")] より多くの拠点を占領することは、競技参加小隊が更なる心身の消耗に耐え、【最終試練場】でより危険な課題に立ち向かう準備ができている、という意味を持つ。追加される敵がどれほどの実力を秘めているかは、我々には未知数だ。
+[PopupDialog(dialogHead="$avatar_doberm")] The more Posts we garrison, the more it says our teams are ready to spend more of their energy to face the more perilous challenges in the 'Final Proving Ground', and that's even though we don't know how formidable these extra adversaries will be yet.
+[PopupDialog(dialogHead="$avatar_doberm")] 주둔한 거점이 많을수록 【최종 시련 장소】에서 더 강력한 위험에 도전할 수 있다는 것을 의미해. 우리는 아직 추가될 적들이 어떤 실력을 갖췄는지 알 수 없다.
 
 [PopupDialog(dialogHead="$avatar_npc012")] 多说无益。敌人到底有多少实力，交手后自然就知道了。
+[PopupDialog(dialogHead="$avatar_npc012")] 話していてもしょうがない。敵がどれほどの実力かは、やり合ってみれば分かることだからな。
+[PopupDialog(dialogHead="$avatar_npc012")] Enough talk. We'll know how difficult they will be to overcome once we take them on in battle.
+[PopupDialog(dialogHead="$avatar_npc012")] 적들의 실력이 어느 정도일지는 직접 맞붙어보면 알게 되겠지.
 

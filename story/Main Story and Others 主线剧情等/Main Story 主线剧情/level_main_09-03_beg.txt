@@ -1,258 +1,645 @@
 [Subtitle(text="“当风掀起金色的麦浪”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="風が金色の穂波揺らせば♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'As the wind combs through golden wheat,'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“바람에 금빛 보리 물결이 일 때면”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“野林和管道一齐叮叮当当地响”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="林とパイプはリンリン、ランランと鳴る♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'The forest wild wi' pipes of steel clank and beat,'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“숲과 파이프에서 일제히 딸랑딸랑 소리가 나네”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“我在地块边缘找到了我的挚爱，紧跟着从天而降的火光”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="土地の端っこに愛しい人がいて、空から炎の光が落ちた……♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'I found by the edge of a plate my dear love true, and following a firelight straight from the blue...'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“나는 이 땅의 가장자리에서 내 사랑을 만났고, 잇따라 하늘에선 불꽃이 떨어지네'”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="风笛"]原来这首歌的后半段是这样唱的......
+[name="バグパイプ"]この歌の後半って、こんな歌詞だったんだ……
+[name="Bagpipe"]So that's how the second half of the song goes...
+[name="백파이프"]음…… 이 노래 끄트머리는 이렇게 부르는 거였구나……
 
 [name="风笛"]......
+[name="バグパイプ"]……
+[name="Bagpipe"]......
+[name="백파이프"]……
 
 [name="风笛"]好悲伤。
+[name="バグパイプ"]すごく、もの悲しい感じがする。
+[name="Bagpipe"]How sad.
+[name="백파이프"]마이 슬파. 눈물이 날라 그래.
 
 [name="悲伤的女性"]达米安也走了，他甚至都没法得到一场像样的葬礼......
+[name="悲しげな女性"]ダミアンも逝ってしまうなんて……どうして、まともな葬儀すらさせてもらえないの……
+[name="Sorrowful Woman"]Now Damian's gone, and he won't even get a decent burial...
+[name="슬퍼하는 여자"]데미안도 가버렸어. 심지어 그 변변한 장례식조차 치러주지 않다니……
 
 [name="愤怒的男性"]他们不可能把他还给我们。他们只会把他烧成灰，随随便便地撒向城外，就像对待一捧毫无意义的泥土。
+[name="怒っている男性"]あの連中がダミアンを返すわけがないだろ。遺体を灰になるまで燃やしたら、その辺の土でも捨てるみたいに、都市の外へ適当に撒くに決まってる！
+[name="Embittered Man"]They'd never give him back to us. All they'd do is scorch him to ash, scatter him off the city, treat him like the dirt under anyone's foot.
+[name="분노하는 남자"]놈들이 데미안을 우리에게 돌려줄 리가 없지. 그저 데미안을 태워서 재로 만든 뒤, 흙을 버리듯 아무렇게나 교외에 뿌려버릴 거야.
 
 [name="悲伤的女性"]（低声啜泣）
+[name="悲しげな女性"]う、ううっ……そんな……
+[name="Sorrowful Woman"](Soft sobbing)
+[name="슬퍼하는 여자"](작은 소리로 흐느낀다)
 
 [name="愤怒的男性"]先是洛瑞，然后是克里斯，现在他们同样没放过达米安。格兰妮，肖恩被抓走的时候，他们都说他得了矿石病——
+[name="怒っている男性"]最初はラウリー、その次はクリス、今度はダミアンだ！　なあ、グルニエ。ショーンが連れて行かれた時、連中は彼を鉱石病の感染者だとか言ってたが――
+[name="Embittered Man"]First it was Lowry, then it was Chris, and now they've caught hold of Damian too. Grainne, when Sean got arrested, they all said he'd caught Oripathy—
+[name="분노하는 남자"]첨엔 라우리였고, 다음은 크리스였어. 이제는 데미안마저. 그레인, 숀이 잡혀갈 때 놈들은 모두 그가 광석병에 걸렸다고 했어……
 
 [name="悲伤的女性"]不，不要再说下去了，罗南。肖恩他......他就是不小心得了病。
+[name="悲しげな女性"]や、やめて。それ以上言わないで、ローナン。ショーンは……あの人は、偶然病気になってしまっただけなのよ。
+[name="Sorrowful Woman"]No, Ronan, don't go on. Sean... he just caught it being careless.
+[name="슬퍼하는 여자"]그만, 그만해. 더 이상 말하지 마, 로난. 숀은…… 그냥 부주의로 병에 걸린 거야.
 
 [name="悲伤的女性"]他是个勤劳、忠贞的可怜人，唯一的念想就是让我们母子过上好一点的日子......
+[name="悲しげな女性"]あの人は、貧しいのに勤勉で、真面目な人だった。私とあの子が少しでも良い生活を送れるようにと、いつもそればかり考えてくれていたわ。
+[name="Sorrowful Woman"]He was a hardworking, loyal man. A poor, poor man, and the only thing he ever wanted was just a better life for me and my son...
+[name="슬퍼하는 여자"]숀은 부지런하고 충실한 불쌍한 사람이었어. 그는 머릿속엔 온통 우리 모자가 좀 더 나은 삶을 살게 하려는 생각뿐이었어……
 
 [name="愤怒的男性"]格兰妮，你还没弄明白吗？
+[name="怒っている男性"]グルニエ、まだわからないのか？
+[name="Embittered Man"]Grainne, haven't you figured it out?
+[name="분노하는 남자"]그레인, 아직도 모르겠어?
 
 [name="愤怒的男性"]我们就是一颗颗铆钉。如果生锈了，他们当然会毫不在意地把我们丢弃。
+[name="怒っている男性"]あの連中からしてみれば、俺たちはネジみたいなもんだ。いくらでも替えがあって、錆びて使えなくなったら、迷わずゴミ箱に放り込むぐらいの価値しかない。
+[name="Embittered Man"]We're just a bunch of rivets to them. Of course they'll toss us away without a care when we rust.
+[name="분노하는 남자"]우리는 그냥 나사못 같은 존재야. 녹이 슬면 놈들은 아무런 망설임도 없이 우릴 버릴 거야.
 
 [name="愤怒的男性"]可即便没有生锈，只要对这座城市机器来说不那么合适了，我们唯一能等来的也是同样的命运。
+[name="怒っている男性"]たとえ錆び付いてなくたって、この都市に合うネジじゃなかったら……俺たちは同じ運命を辿ることになる。
+[name="Embittered Man"]And even if we haven't rusted, so long as we don't fit too well in the city's machines, we've got the same fate coming. Nothing changes.
+[name="분노하는 남자"]설령 녹이 슬지 않았어도 이 도시의 기계에 맞지 않으면, 우린 똑같은 운명을 맞이하는 수밖에 없어.
 
 [name="愤怒的男性"]他们从来不管我们是不是正在一批批地染上矿石病。
+[name="怒っている男性"]あの連中は、俺たちが鉱石病に感染するかどうかなんて気にしちゃいねぇ。知らん顔だ。
+[name="Embittered Man"]They never gave a shit we were catching Oripathy one by one.
+[name="분노하는 남자"]저것들은 우리가 무더기로 광석병에 걸리든 말든 상관하지 않아.
 
 [name="愤怒的男性"]厂里每个月发的药，别的工人能拿到全部，我们就往往只有一半，甚至三分之一。
+[name="怒っている男性"]その証拠に、工場で毎月配布される予防薬だって、ほかの労働者たちには規定量渡してるのに、俺たちにはいつもその半分しか配られてない。ひどい時なんて三分の一だ。
+[name="Embittered Man"]Every month they give out those drugs, the other workers get their whole lot, and we can only expect a half. Maybe even a third.
+[name="분노하는 남자"]공장에서 매일 배급하는 약품을 다른 노동자들은 전부 받지만, 우리는 언제나 절반, 심지어 3분의 1밖에 받지 못했어.
 
 [name="愤怒的男性"]还有防护服。肖恩的防护服穿了多久了？五年，还是七年？你在半夜偷偷替他补过多少回？
+[name="怒っている男性"]それに、防護服だって……なあ、ショーンの防護服は随分な使い古しだったよな。五年……いや、七年は使ってただろ。あんた、何度夜なべしてあの服をこっそり直してやったんだ？
+[name="Embittered Man"]And the protective suits. How long has Sean been wearing his for? Five years? Bloody hell, seven? How many times have you snuck out of bed at night just to patch it up?
+[name="분노하는 남자"]그리고 방호복도 그래. 숀의 그 방호복은 몇 년이나 입었지? 5년, 아니면 7년? 그것도 네가 한밤중에 몇 번이나 몰래 기워줬잖아.
 
 [name="愤怒的男性"]所有的法案，所有的标准，都只对他们有利。而我们呢？
+[name="怒っている男性"]法案にせよ規範にせよ、何もかも奴らだけが甘い汁を啜れるようにできてるんだよ。それに引き換え、俺たちの暮らしはどうだ？
+[name="Embittered Man"]All those laws, all those standards, just for their benefit. And us?
+[name="분노하는 남자"]모든 법안과 기준은 자신들에게만 유리해. 그런데 우리는?
 
 [name="愤怒的男性"]我们只配吃他们不想要的土豆和烂苹果，哪怕每一寸农用地块上都浸透了我们的汗水。
+[name="怒っている男性"]俺たちがありつけるのは、奴らが捨てたジャガイモと腐ったリンゴだけだ。農地の隅から隅まで、俺たちの汗水と苦労で出来てるってのにな！
+[name="Embittered Man"]We're only fit to eat the potatoes and the rotten apples they don't want. Means nothing that the ag plates of this city soak in our sweat.
+[name="분노하는 남자"]우린 저놈들이 싫어하는 감자나 썩은 사과나 먹어야 해. 여기 농지 구석구석에 우리의 땀이 안 배인 곳이 없는데도 말이야.
 
 [name="愤怒的男性"]我们只配在工厂里没日没夜地消耗性命，等干不动了就如他们所愿，一个个地全都染病！
+[name="怒っている男性"]俺たちは工場で昼も夜もなく働いて、ただ命をすり減らすしかないんだ。そして働けなくなった頃には、連中のお望み通り、皆すっかり感染者さ！
+[name="Embittered Man"]We're only fit to waste away our lives day and night in the factories, and once we can't work a day more, we fall ill one by one just like they wanted!
+[name="분노하는 남자"]우리는 공장에서 밤낮을 가리지 않고 목숨 바쳐 일해야 해. 그러다 일을 할 수 없을 때가 되면 쟤네 바람대로 모두 감염되어 버려.
 
 [name="愤怒的男性"]这样的话，他们就可以顺理成章地把我们这些塔拉人全部从自己的城市里丢出去——
+[name="怒っている男性"]そうなっちまえば、奴らが俺たちターラー人を全員都市から叩き出すにはいい口実になる――
+[name="Embittered Man"]The way this is going, it's like they're sitting there playing dominoes, wiping us Tarans off our own city—
+[name="분노하는 남자"]그럼 놈들은 당연하다는 듯이 우리 타라인 모두를 자기네 도시에서 내쫓아……
 
 [name="悲伤的女性"]......停下吧，求你。罗南，你的这些话并不能带来任何好结果。
+[name="悲しげな女性"]……ローナン。お願いだから、もうやめてちょうだい。そんなふうに言ったところで何にもならないわ。
+[name="Sorrowful Woman"]Stop it... I'm begging you. Ronan, nothing you're saying will lead to any good.
+[name="슬퍼하는 여자"]……그만 해, 제발, 로난, 그런 말을 해봤자 아무것도 나아질 게 없어.
 
 [name="悲伤的女性"]你看看站在那边的克莱娜她们。她们正在为自己的儿子和兄长哭泣。你还想让你们的愤怒给多少人带来失去挚爱的痛苦？
+[name="悲しげな女性"]向こうにいるクライナたちを見て。皆、息子や兄を想って泣いているのよ。あなたたちの怒りのせいで、愛する人を失う苦しみを、あとどれだけの人にもたらすつもりなの？
+[name="Sorrowful Woman"]Just look at Cliodhna and her kin stood over there. Crying over their own son, their own brother. How many more loves do you want lost, how many more hurting over what your anger did for them?
+[name="슬퍼하는 여자"]저쪽에 서 있는 클리오드나를 봐봐. 자기 아들과 형제자매들을 위해 울고 있어. 대체 너의 그 분노 때문에 얼마나 더 많은 사람들이 사랑하는 사람을 잃는 고통을 받게 하려는 거야?
 
 [name="愤怒的男性"]这痛苦是杀人犯带来的。他们在一个接一个地杀死我们，有时用疾病，有时用炮弹。格兰妮，你不要再欺骗自己。
+[name="怒っている男性"]いいや、違う。それはあの人殺しどもがもたらした苦しみだ。連中は時には病を、時には砲弾を用いて、俺たちの命を奪っていく。グルニエ、これ以上自分に嘘をつくのはやめろ。
+[name="Embittered Man"]It's the murderers that brought this hurt. They're killing us one after another. Times it's with sickness, times it's with mortar shells. Grainne, don't you deceive yourself any longer.
+[name="분노하는 남자"]이 고통은 살인범이 가져다 준 거야. 놈들은 우리를 한 명씩 죽이고 있어. 때론 질병으로, 때론 포탄으로. 그레인, 더 이상 자신을 기만하지 마.
 
 [name="愤怒的男性"]（压低声音）今天早上有好几个人来找我。奥布莱恩一家，还有康纳家的兄弟，他们都决定加入我们了。
+[name="怒っている男性"]（声を抑える）……今朝、オブライエン家とコナー家の兄弟たちが訪ねてきてくれてな。全員、俺たちに加わると決めたそうだ。
+[name="Embittered Man"](Low voice) This morning, a few came looking for me. The O'Briens, and Conor's brother. They've decided to join us.
+[name="분노하는 남자"](소리를 낮추며) 오늘 아침 몇몇 사람이 날 찾아왔었어. 오브라이언 가족, 그리고 코너네 형제도 모두 우리와 함께 하기로 했어.
 
 [name="愤怒的男性"]你和孩子过得不容易，我们都理解，在这个节骨眼上，我们更需要互相帮助......
+[name="怒っている男性"]あんたら親子が苦労してるのは皆よく知ってる。今こそ、互いに助け合うべきときじゃないか？
+[name="Embittered Man"]It's been hard getting by for you and your kid, we understand. This is a big moment, and we need to help each other now more than ever...
+[name="분노하는 남자"]그레인, 우린 네가 아이랑 살아가는 게 쉽지 않다는 걸 알아. 이런 중요한 시기에 우린 더욱더 서로 도와야 해……
 
 [name="悲伤的女性"]......离我和孩子远一些吧，罗南，看在过去肖恩待你们都还不错的份上。
+[name="悲しげな女性"]……うちの子にも、私にも、どうかもう近付かないでちょうだい。これまでショーンがあなたたちに良くしていたことに免じて……
+[name="Sorrowful Woman"]You'd better keep far from me and my child, Ronan... seeing as my Sean got on well enough with your lot.
+[name="슬퍼하는 여자"]……나랑 아이한테서 떨어져 줘. 로난, 전에 숀이 너희들에게 잘 대해준 걸 봐서라도.
 
 [name="愤怒的男性"]——！
+[name="怒っている男性"]――！
+[name="Embittered Man"]—!
+[name="분노하는 남자"]……!
 
 [name="愤怒的男性"]我必须走了，格兰妮。你看到那边的人了么？她穿着那身制服。
+[name="怒っている男性"]グルニエ、俺はもう行くよ。あそこにいる奴、見えるよな？　あの制服を着た女だ。
+[name="Embittered Man"]I have to go, Grainne. You see that one over there? She's wearing that uniform.
+[name="분노하는 남자"]난 이제 가봐야 해. 그레인, 저쪽에 있는 사람 봤어? 저 여자는 제복을 입고 있어.
 
 [name="愤怒的男性"]你知道我们的规矩。我相信你，也请你更信我一些。要是你考虑好了，你可以告诉西尔莎。
+[name="怒っている男性"]俺たちのルールは知ってるだろ？　俺はあんたを信じてる。だからあんたも、俺をもっと信じてくれ。もし、その気になったらシアーシャに伝えてくれればいいから。
+[name="Embittered Man"]You know our rules. I trust in you, and I'm asking you to trust me more. If you've made up your mind, you can tell Saoirse.
+[name="분노하는 남자"]너도 우리 규칙을 알잖아. 난 널 믿어. 너도 날 좀 더 믿었으면 좋겠어. 고민이 끝나면 시엘샤한테 얘기해도 돼.
 
 [name="风笛"]你好！
+[name="バグパイプ"]こんにちは！
+[name="Bagpipe"]Hello!
+[name="백파이프"]잘 지냈나!
 
 [name="风笛"]呃......你好。
+[name="バグパイプ"]あ、行っちゃった。……おねーさん、こんにちは。
+[name="Bagpipe"]Er... hello.
+[name="백파이프"]어…… 잘 지냈나.
 
 [name="悲伤的女性"]......
+[name="悲しげな女性"]……
+[name="Sorrowful Woman"]......
+[name="슬퍼하는 여자"]……
 
 [name="风笛"]请问你认识巴里，呃，达米安·巴里的家人吗？
+[name="バグパイプ"]バリーさん……えーっと、ダミアン・バリーさんの家族のこと、知りませんか？
+[name="Bagpipe"]Do you know Barry's, er, Damian Barry's family?
+[name="백파이프"]혹시 배리, 그니까 그 뭐이나, 데미안 배리의 가족을 니는 아나?
 
 [name="悲伤的女性"]（摇头）
+[name="悲しげな女性"]……いいえ。
+[name="Sorrowful Woman"](Shakes head)
+[name="슬퍼하는 여자"](고개를 젓는다)
 
 [name="风笛"]我刚才听到你们唱歌了，我没有找错地方啊。
+[name="バグパイプ"]あれ？　さっきおめーさんたちの歌が聞こえたから、場所は合ってると思ったんだけど……
+[name="Bagpipe"]I heard you singin' just now. I'm not in the wrong place.
+[name="백파이프"]좀 전에 느들이 불르는 노래를 들었잖나. 내가 잘못 온 게 아인 거 같은데.
 
 [name="悲伤的女性"]我......我不知道您想找什么，但是达米安的母亲和姐妹什么都不知道。
+[name="悲しげな女性"]わ……私は、あなたが何を探しているのかは存じませんけど……ダミアンのお母さんも妹も、何も知らないと思いますよ。
+[name="Sorrowful Woman"]I... I don't know what you're searching about for, but Damian's ma and sister know nothing.
+[name="슬퍼하는 여자"]저…… 저는 당신이 무얼 찾고 있는지는 잘 모르지만, 데미안의 어머니와 누이들은 아무것도 몰라요.
 
 [name="风笛"]那他有没有关系特别好的朋友，或者一起在仓库工作的人？
+[name="バグパイプ"]だったら、バリーさんと特に仲良しだった友達とか、倉庫で一緒に働いてた人とかはどうだべ？
+[name="Bagpipe"]Then did he have any especially good friends, or anyone who worked at the warehouse with him?
+[name="백파이프"]그럼, 데미안한텐 특별나게 친한 친구나, 창고에서 같이 일했던 동료 같은 건 없나?
 
 [name="悲伤的女性"]......我们什么都不知道......真的......
+[name="悲しげな女性"]……私たちは、何も知りません……本当に……
+[name="Sorrowful Woman"]We know nothing... That's the truth...
+[name="슬퍼하는 여자"]……우린 아무것도 몰라요…… 정말이에요……
 
 [name="悲伤的女性"]呜......求您！您别抓我......
+[name="悲しげな女性"]ううっ……ど、どうか！　どうか、私を捕まえないで……
+[name="Sorrowful Woman"]*Whimper*... I'm begging you! Please don't take me...
+[name="슬퍼하는 여자"]흑…… 제발요! 절 잡아가지 마세요……
 
 [name="风笛"]啊？抱歉......是我靠太近了吗？我没有伤害你们的打算。
+[name="バグパイプ"]おわ！？　ご、ごめん……近付きすぎちゃったかな？　傷つけるつもりはないから、安心して。
+[name="Bagpipe"]Huh? Sorry... did I get too close? I've got no intentions of hurtin' you.
+[name="백파이프"]응? 미안…… 내가 너무 가까이 갔나 보다야? 난 느들을 해칠 생각이 없아.
 
 [name="风笛"]你好像很怕我。我脸上有什么东西吗？
+[name="バグパイプ"]随分びくびくしてるけど、うちの顔、そんなに怖いかな？
+[name="Bagpipe"]You seem awful scared of me. Is somethin' on my face?
+[name="백파이프"]나를 뭐이 그래 무서워해. 혹시 내 얼굴에 뭐이 묻었나?
 
 [name="悲伤的女性"]什、什么都没有......
+[name="悲しげな女性"]い、いえ、何でもありませんから……
+[name="Sorrowful Woman"]N... Nothing at all...
+[name="슬퍼하는 여자"]아, 아무것도 안 묻었어요……
 
 [name="悲伤的女性"]如果您允许的话，我得回家了，今早的水果还剩下许多，放着不管的话，它们会很快腐烂......
+[name="悲しげな女性"]あの……もしお許しいただけるなら、もう家に帰りたいのですが……その、今朝の果物がまだたくさん残っていて、放っておくとすぐにダメになってしまいますから……
+[name="Sorrowful Woman"]If you'll allow me, I need to go home. I still have so much fruit from this morning, and it'll go rotten in no time, if I leave it alone...
+[name="슬퍼하는 여자"]허락하신다면 저 집에 가도 될까요? 오늘 아침에 남은 과일이 아직 많아서요. 그대로 두면 금방 썩어요……
 
 [name="风笛"]唉。
+[name="バグパイプ"]う、う～ん……
+[name="Bagpipe"]*Sigh*.
+[name="백파이프"]하아.
 
 [name="凯利上尉"]......
+[name="ケリー大尉"]……
+[name="Captain Kelly"]......
+[name="켈리 대위"]……
 
 [name="风笛"]咦？那是......凯利上尉？
+[name="バグパイプ"]……あれ？　あの人……ケリー大尉だよね？
+[name="Bagpipe"]Eh? Is that... Captain Kelly?
+[name="백파이프"]어? 저 사람은…… 켈리 대위인가?
 
 [name="凯利上尉"]克莱娜，我只想看你一眼，我想知道你和菲奥娜还好不好......
+[name="ケリー大尉"]……クライナ、私はただ一目君に会いたいと思っただけなんだ。君とフィオナが無事でいるかを、確かめたいと思って……
+[name="Captain Kelly"]Cliodhna, I just want to see you for one moment. I want to know if you and Fiona are still alright...
+[name="켈리 대위"]클리오드나, 그냥 너를 한번 보러 왔을 뿐이야. 너랑 피오나가 잘 지내고 있는지 궁금해서……
 
 [name="凯利上尉"]是的，是我的错，但——
+[name="ケリー大尉"]ああ、私のせいだ。けれど――
+[name="Captain Kelly"]Yes, it was my mistake, but—
+[name="켈리 대위"]그래, 내가 잘못했어. 하지만……
 
 [name="凯利上尉"]......我没有办法。
+[name="ケリー大尉"]……ほかに、どうしようもなかったんだ。
+[name="Captain Kelly"]My hands were tied...
+[name="켈리 대위"]……나도 별수가 없었어.
 
 [name="凯利上尉"]我当然记得，我记得全部。达米安他......他是我的外甥。
+[name="ケリー大尉"]……ッ、もちろん覚えている。何もかも覚えているとも。ダミアンは……あの子は、私の甥なのだから。
+[name="Captain Kelly"]Of course I remember, I remember it all. Damian... he was the boy of my sister.
+[name="켈리 대위"]물론 기억해. 전부 기억하고 있어. 데미안은…… 내 조카야.
 
 [name="凯利上尉"]我从小看着他长大。我从半岛郡调回小丘郡的那天，他亲手把酢浆草放在了我的帽子上。
+[name="ケリー大尉"]私もあの子の成長をこれまでずっと見てきたんだ。私がペニンシュラ郡からヒロック郡へと呼び戻された日なんて、あの子が……私の帽子に、シャムロックをつけてくれて……
+[name="Captain Kelly"]I watched him grow up his whole life. The day I was transferred back from Peninsula to Hillock, he set an edelweiss in my cap with his own two hands.
+[name="켈리 대위"]어릴 때부터 그가 자라는 것을 봐 왔어. 내가 페닌슐라 카운티에서 힐록 카운티로 돌아왔던 그날, 그 녀석이 괭이밥을 직접 내 모자에 얹어 주었지.
 
 [name="凯利上尉"]他那时候还那么小......我......
+[name="ケリー大尉"]その頃、ダミアンはまだ幼い子供で……私、私は……
+[name="Captain Kelly"]He was still so little then... I...
+[name="켈리 대위"]그땐 데미안이 아직 어렸는데…… 내가……
 
 [name="凯利上尉"]......对不起，我不该对着你们说这些。
+[name="ケリー大尉"]……すまない。こんなことを、君たちに話すべきじゃなかった。
+[name="Captain Kelly"]I'm sorry... I shouldn't be telling you all this.
+[name="켈리 대위"]……미안해, 너희들에게 이런 말을 하면 안 되는데.
 
 [name="凯利上尉"]你说的对......我什么都没做好，我没脸回到这里。
+[name="ケリー大尉"]君の言う通りだ。……私は何もできなかった。ここへ帰ってくる資格なんてない。
+[name="Captain Kelly"]You're right... I've been good for nothing. I haven't the face to return here.
+[name="켈리 대위"]네 말이 맞아…… 난 어느 한 가지 일도 제대로 한 게 없어. 난 이곳에 돌아올 면목이 없어.
 
 [name="凯利上尉"]达米安和那群人扯上关系，我没来得及劝阻他......上校的命令我也没法违抗。
+[name="ケリー大尉"]……ダミアンは、奴らと関わりを持ってしまった。けれど私には、あの子を思いとどまらせるだけの時間がなく……大佐の命令に逆らうことも、できなかった。
+[name="Captain Kelly"]I wasn't in time to stop him when he got involved with that group... and I couldn't disobey the Colonel's orders.
+[name="켈리 대위"]데미안이 녀석들과 엮였을 때 난 미처 말리지 못했어…… 그리고 대령의 명령을 감히 거역할 수도 없었어.
 
 [name="凯利上尉"]而且，我必须这么做。这都是为了小丘郡。
+[name="ケリー大尉"]それに私は、こうしなければならなかったんだ。すべてはヒロック郡のために。
+[name="Captain Kelly"]Not just that, I have to do this. This is all for County Hillock.
+[name="켈리 대위"]그리고, 난 그렇게 해야만 했어. 이 모두 힐록 카운티를 위한 것이니까.
 
 [name="凯利上尉"]我爱你们，我也爱这座城市......我不能眼睁睁看着那群人将我们的家扯得四分五裂。
+[name="ケリー大尉"]私は君たちを、そしてこの都市を愛している。……だから、奴らが私たちの家を破滅させていくのを、何もせずに見ていることなんてできない。
+[name="Captain Kelly"]I love you all, and I love this city... I can't just stand goggling while that bunch tear our home to pieces.
+[name="켈리 대위"]난 너희들을 사랑해. 난 이 도시도 사랑해…… 나는 그놈들이 우리 가족을 풍비박산 내는 꼴을 지켜보고만 있을 수는 없어.
 
 [name="凯利上尉"]我都明白，克莱娜，我的姐妹，我并不是在请求你的原谅。
+[name="ケリー大尉"]……わかっているさ。クライナ、我が妹よ……君の赦しが欲しいわけじゃないんだ。
+[name="Captain Kelly"]I understand, Cliodhna, my sister, and I'm not asking your forgiveness or anything.
+[name="켈리 대위"]나도 다 알아, 클리오드나, 내 자매여. 난 너의 용서를 구하려는 게 아니야.
 
 [name="凯利上尉"]......那我......我走了。你......你和菲奥娜一定要好好照顾自己。
+[name="ケリー大尉"]……じゃあ……私は、もう行くよ。君は……君とフィオナは、どうか達者で暮らしてくれ……
+[name="Captain Kelly"]I'll... be going, then. You... you and Fiona be sure to take care of yourselves.
+[name="켈리 대위"]……그럼 이만…… 가볼게. 너랑…… 피오나도 자신을 잘 돌보도록 해.
 
 [name="凯利上尉"]我明天再抽空来看你们......
+[name="ケリー大尉"]明日にでも、また時間を見つけて会いに来るから……
+[name="Captain Kelly"]If I can find the time tomorrow, I'll come see you again...
+[name="켈리 대위"]내일 시간이 나면 또 너희들을 보러 올게……
 
 [name="凯利上尉"]咳、咳咳......
+[name="ケリー大尉"]いッ……な、なんだ……？
+[name="Captain Kelly"]*Cough*, *cough* *cough*...
+[name="켈리 대위"]콜록콜록……
 
 [name="凯利上尉"]你是——
+[name="ケリー大尉"]お前、一体何の――
+[name="Captain Kelly"]What are you—
+[name="켈리 대위"]너는……
 
 [name="克雷格"]——
+[name="クレイグ"]――
+[name="Craig"]—
+[name="크레이그"]……
 
 [name="凯利上尉"]......一个孩子。
+[name="ケリー大尉"]……なんだ……子供か。
+[name="Captain Kelly"]Oh, just... just a boy.
+[name="켈리 대위"]……꼬마잖아.
 
 [name="凯利上尉"]你有没有......咳咳，有没有受伤？不要跑太快，几十年了，这里的路从来就没有平整过......
+[name="ケリー大尉"]やれやれ……ケガはしてないかい？　あんまり走り回るんじゃないぞ……この道は何十年も整備されてないんだから。
+[name="Captain Kelly"]Are you... *cough* *cough*—are you hurt? Don't run too fast now. It's been decades, and they've still never levelled the road here...
+[name="켈리 대위"]너 혹시…… 콜록, 다치지 않았어? 너무 빨리 뛰지 마. 몇십 년 동안 이 길은 한 번도 평평한 적이 없었어……
 
 [name="克雷格"]叛徒！
+[name="クレイグ"]うるさい、裏切り者！
+[name="Craig"]Traitor!
+[name="크레이그"]배신자!
 
 [name="凯利上尉"]你——你说什么？
+[name="ケリー大尉"]なっ――いきなり何を……
+[name="Captain Kelly"]Wh—What did you say?
+[name="켈리 대위"]뭐…… 뭐라고?
 
 [name="克雷格"]叛徒！！！
+[name="クレイグ"]あんたは裏切り者だっ！！
+[name="Craig"]Traitor!!!
+[name="크레이그"]배신자!!
 
 [name="凯利上尉"]我......
+[name="ケリー大尉"]……ッ、私は……
+[name="Captain Kelly"]I...
+[name="켈리 대위"]난……
 
 [name="悲伤的女性"]克雷格！你在做什么？！你快回来！
+[name="悲しげな女性"]クレイグ！　何してるの！？　早く戻ってきなさい！
+[name="Sorrowful Woman"]Craig! What are you doing?! Get back here now!
+[name="슬퍼하는 여자"]크레이그, 너 뭐 해?! 빨리 돌아와!
 
 [name="悲伤的女性"]你手里的球......算了，你总是到哪都死死攥着这个球。你又去找康纳家的兄弟了吗？你......罗南都对你说了什么？
+[name="悲しげな女性"]あなた、そのボール……はぁ。どこに行くにもちっとも手放さないんだから。それで、クレイグ。またコナーさんちの兄弟のところへ行ってたの？　きっと、ローナンから何か言われたのね？
+[name="Sorrowful Woman"]And what's that ball in your hands for... oh, forget it, you're always gripping that ball wherever you go. Were you off looking for Conor's brother again? Oh, you... Ronan's told you, hasn't he?
+[name="슬퍼하는 여자"]네 손에 그 공…… 그래, 넌 어딜 가든 꼭 그 공을 가지고 다니니까. 너…… 또 코너네 형제한테 갔었어? 너…… 혹시 로난이 네게 무슨 말이라도 했어?
 
 [name="悲伤的女性"]瞧你的双手，黑漆漆的，简直跟在矿堆里搅过似的。
+[name="悲しげな女性"]……やだ、手が真っ黒じゃない。採掘場の砂に手を突っ込んでたみたい。
+[name="Sorrowful Woman"]Look at your hands, all covered in black. It's like you were digging through a mine.
+[name="슬퍼하는 여자"]네 그 손, 새카만 것 좀 봐. 광산에서 뒹군 것 같잖아.
 
 [name="悲伤的女性"]以后你跟我一起去早市。这段时间你不能再去找他们了......我不能让你变得和他们一样......
+[name="悲しげな女性"]明日からは私と一緒に朝市に行きましょ。それと、しばらくはあの人たちに会っちゃダメよ。……あなたを、彼らみたいにはさせられないもの。
+[name="Sorrowful Woman"]You come with me to the morning market from now on. You can't go looking for them around this time anymore... I can't let you become like them...
+[name="슬퍼하는 여자"]이제부터 나랑 새벽 시장이나 나가자. 당분간은 걔들 만나러 가지 마…… 그 아이들처럼 변하면 안 돼……
 
 [name="凯利上尉"]叛徒？
+[name="ケリー大尉"]「裏切り者」、か……
+[name="Captain Kelly"]Traitor?
+[name="켈리 대위"]배신자?
 
 [name="凯利上尉"]......这孩子叫得一点没错。
+[name="ケリー大尉"]……あの子の言う通りだな。
+[name="Captain Kelly"]Boy... wasn't one bit wrong.
+[name="켈리 대위"]……그 아이 말이 결코 틀린 건 아니야.
 
 上尉站了一会，嘴里重复了两遍这个词语，终于转身离去。
+大尉は、暫くその場に立ち尽くし、同じ言葉を二度繰り返した。 そうして、ようやくきびすを返すと、去って行く。
+The Captain stands still for a moment, repeating the word, once, twice to himself, finally turning to leave.
+대위는 잠깐 멈춰 서서 배신자라는 단어를 두어 번 되뇐 뒤에야 발길을 돌려 떠나갔다.
 
 他的头垂得很低，没有再对上任何一个人的视线，包括匆匆走向他的年轻同僚。
+彼はひどく項垂れて、誰とも目を合わせようとはしなかった。 その様子を見て慌てて駆け寄ってきた年若い同僚すらも、例外にはならなかった。
+His head is hung low as could be, and he doesn't meet the gaze of a single person more, including those young colleagues of him that rush his way.
+그는 고개를 푹 떨구고는, 황급히 그에게로 다가가는 젊은 동료를 포함해서 누구와도 시선을 마주치지 않았다.
 
 [name="风笛"]等一下，上尉......
+[name="バグパイプ"]待って、大尉……
+[name="Bagpipe"]Hold on a moment, Captain...
+[name="백파이프"]잠깐만, 대위……
 
 [name="维多利亚士兵"]你们——都聚在这里干什么？还不赶紧滚回家去！
+[name="ヴィクトリア兵"]おい、お前たち――ここで何をしている？　さっさと家に帰れ！
+[name="Victorian Soldier"]You—What are you all doing here? Pack off home, if you know what's good for you!
+[name="빅토리아 병사"]너희들…… 여기 모여서 뭐 해? 빨리 집으로 돌아가지 못해?!
 
 [name="维多利亚士兵"]早说过了，这段时间不许在街道聚集！
+[name="ヴィクトリア兵"]言ったはずだろう！　当面の間、街頭での集会を禁ずる、と！
+[name="Victorian Soldier"]We've told you, you're not allowed to congregate on the streets at this time!
+[name="빅토리아 병사"]진즉에 말했지? 당분간은 거리에서 모이지 말라고!
 
 [name="愤怒的男性"]这是我们的家，该滚的不是我们！
+[name="怒っている男性"]ここは俺たちの家だぞ！？　お前の方こそさっさと帰れ！
+[name="Embittered Man"]This is our home! It's not us who should go packing!
+[name="분노하는 남자"]여긴 우리 집이야. 떠나야 할 사람은 우리가 아니라고!
 
 [name="维多利亚士兵"]——谁敢这么说话？
+[name="ヴィクトリア兵"]――貴様、誰に向かって物を言っている？
+[name="Victorian Soldier"]—Who had the lip to say that just now?
+[name="빅토리아 병사"]……감히 그딴 말을 한 게 누구야?
 
 [name="维多利亚士兵"]什么东西......烂菜叶？
+[name="ヴィクトリア兵"]なッ……！？　何だ、これは……腐った野菜……？
+[name="Victorian Soldier"]What are these... Wilted leaves?
+[name="빅토리아 병사"]이게 뭐야?…… 썩은 채소 잎?
 
 [name="维多利亚士兵"]给我出来！
+[name="ヴィクトリア兵"]ふざけるな、今すぐ出てこい！
+[name="Victorian Soldier"]Step forward right now!
+[name="빅토리아 병사"]나와라!
 
 [name="维多利亚士兵"]这群塔拉渣滓，看我不——
+[name="ヴィクトリア兵"]このターラーのクズどもが！　私の手で――
+[name="Victorian Soldier"]You Tara rabble, watch I don't—
+[name="빅토리아 병사"]이 타라의 쓰레기들, 내가 그저 확……
 
 [name="风笛"]在街道上举弩箭，真的很危险唉！
+[name="バグパイプ"]ちょっと！　道端でクロスボウなんて構えたら危ないでしょ！
+[name="Bagpipe"]Brandishin' a bolt on the street's far too dangerous!
+[name="백파이프"]거리에서 석궁을 들어 올리는 건 아니다야, 울매나 위험스럽다고!
 
 [name="维多利亚士兵"]......你是谁？
+[name="ヴィクトリア兵"]……誰だ、お前は。
+[name="Victorian Soldier"]Who're you?
+[name="빅토리아 병사"]……넌 누구야?
 
 [name="风笛"]啊，我有军令在身，来调查案件的。
+[name="バグパイプ"]あ、軍令を受けて、事件の調査に来た者だよ。
+[name="Bagpipe"]Ah, I'm here on orders. Come to investigate the case.
+[name="백파이프"]아, 난 맹령을 받고 사건을 캐러 왔아.
 
 [name="维多利亚士兵"]你是来查酒吧谋杀案的吗？
+[name="ヴィクトリア兵"]なるほど。バーで起きた殺人事件を調べに来たのか？
+[name="Victorian Soldier"]You're here for the murder at the bar?
+[name="빅토리아 병사"]넌 술집에서 일어난 살인 사건을 조사하러 온 거지?
 
 [name="风笛"]呃，什么谋杀？
+[name="バグパイプ"]えっ……殺人事件？
+[name="Bagpipe"]Er, what murder?
+[name="백파이프"]응? 살인 사건이라니?
 
 [name="维多利亚士兵"]就这群渣滓，杀了我们好几个人。
+[name="ヴィクトリア兵"]知らないのか？　我々の仲間たちが、そこのクズどもに何人も殺された事件だよ。
+[name="Victorian Soldier"]This rabble right here. They've killed plenty of ours.
+[name="빅토리아 병사"]이 쓰레기 같은 놈들이 우리 사람을 몇 명이나 죽였다고.
 
 [name="风笛"]......达米安·巴里？
+[name="バグパイプ"]……それって、ダミアン・バリーさんとも関係あるのかな？
+[name="Bagpipe"]...Damian Barry?
+[name="백파이프"]……혹시 데미안 배리 아이나?
 
 [name="维多利亚士兵"]对了，我听说他已经被处死了，这么说，这人是你们抓的？挺好，谢谢你了。
+[name="ヴィクトリア兵"]ああ……聞いた話じゃ、奴は処刑されたらしいな。もしかして、あんたたちが捕まえてくれたのか？　そりゃ有り難い、感謝するよ。
+[name="Victorian Soldier"]Right, I hear he's been put to death already. I suppose it was you lot who caught him? Nicely done, thank you.
+[name="빅토리아 병사"]맞아, 그는 이미 처형했다고 들었어. 그렇다면, 그 사람은 너희가 잡은 거야? 잘했어. 고마워.
 
 [name="风笛"]我们抓他的时候还不知道......难道他真的是鬼魂部队的人？呃......算了。
+[name="バグパイプ"]捕まえた時は、事件のことなんて知らなかったけど……それじゃあの人、本当に亡霊部隊の人だったのかな？　うーん……まあ、一旦置いとこ。
+[name="Bagpipe"]We didn't know yet when we caught him... was he really part of the spectre force? Er...
+[name="백파이프"]우리가 데미안을 붙잡았을 땐 진짜 몰랐다야…… 그럼 가가 진짜 귀혼대 소속이었나? 음…… 뭐 됐다 됐아.
 
 [name="维多利亚士兵"]管他什么来头，死了都是活该！
+[name="ヴィクトリア兵"]私は奴が何者かなんざ知ったこっちゃないが、死んで当然だってのは確かだろう！
+[name="Victorian Soldier"]Who gives a shake what he was? Serves him right he's dead!
+[name="빅토리아 병사"]어디 소속이든 죽어도 싸!
 
 [name="维多利亚士兵"]都听见没？不许——聚集！凡是暗地里搞什么集会的，全部按嫌犯处置！
+[name="ヴィクトリア兵"]――おい、貴様ら聞こえなかったのか？　私は「集まるな」と言ったんだ！　ひそかに集会を行った場合、全員容疑者として逮捕するからな！
+[name="Victorian Soldier"]Did you hear me? No—congregating! Each and all of you up to whatever secret business here, you'll all be treated as suspects!
+[name="빅토리아 병사"]다들 들었지? 모이는 건 금지다! 몰래 집회 같은 걸 하면 모두 용의자로 처벌한다!
 
 [name="维多利亚士兵"]你们*维多利亚粗口*——
+[name="ヴィクトリア兵"]だっ……！　この*ヴィクトリアスラング*――！
+[name="Victorian Soldier"]You bloody Tara arselickers—
+[name="빅토리아 병사"]이 *빅토리아 욕설*들아.
 
 [name="风笛"]别、别冲动啊！我看他们中的大部分都是普通市民，亲人死了，他们聚在一起悼念他，这是人之常情。
+[name="バグパイプ"]お、落ち着いて、おにーさん！　あの人たちのほとんどは、ごく普通の市民なんだよ？　身内を亡くしたんだから、集まってそれを悼むくらいは当然のことでしょ。
+[name="Bagpipe"]Don't! Don't get carried away! Look, most of 'em are just plain city folk, with a loved one dead, and they're here grievin' for him, like human nature would.
+[name="백파이프"]흐, 흥분하지 마! 내가 보기에 거즘 대부분이 일반 시민이고, 가족이 죽었으니 같이 모예서 추모하는 것도 인지상정이 아이나?
 
 [name="风笛"]呃——烂、烂土豆？
+[name="バグパイプ"]わっ！　なんか飛んでき――って、腐ったジャガイモでねえべか！
+[name="Bagpipe"]Uh—a—a rotten potato?
+[name="백파이프"]윽…… 써, 썩은 감재?
 
 [name="维多利亚士兵"]哈哈，瞧啊，你还替他们说话，也挨打了吧？
+[name="ヴィクトリア兵"]ハハッ、ほら見ろ。そうやって弁解してやったところで、この仕打ちだ。
+[name="Victorian Soldier"]Ha ha, see? You spoke for them, and you got battered, right?
+[name="빅토리아 병사"]하하, 그거 봐. 저놈들 편에 서서 말하더니, 결국 너도 얻어맞았지?
 
 [name="维多利亚士兵"]这地方你爱待就待，我只要确保这群渣滓老老实实不闹事就行，领到这巡逻任务也算我倒霉。
+[name="ヴィクトリア兵"]あんたは好きなだけここにいるといいさ。私はクズどもが大人しくしてればそれでいいからな。……はぁ。こんな巡回を任されるなんて、私もツイてない。
+[name="Victorian Soldier"]If you're so keen on staying here, stay. As long as I make sure this rabble behaves itself, I'm done. My rotten luck for getting this patrol duty.
+[name="빅토리아 병사"]이곳에 더 있고 싶으면 있어도 돼. 난 이 쓰레기들이 일을 저지르지 않고 얌전히 있기만 하면 되니까. 이런 순찰 임무를 받다니, 재수도 없지.
 
 [name="维多利亚士兵"]渣滓们，再说一遍，不许聚集！！
+[name="ヴィクトリア兵"]――おい、そこのゴミどもが！　もう一度言っておくぞ。集会は禁止だ！！
+[name="Victorian Soldier"]You riff-raff, I'll say it again, no congregating!!
+[name="빅토리아 병사"]쓰레기들아, 다시 한번 말한다. 모여있지 마!
 
 [name="风笛"]我......
+[name="バグパイプ"]……うちは……
+[name="Bagpipe"]I...
+[name="백파이프"]난……
 
 [name="风笛"]唉，烂菜叶子越来越多了......
+[name="バグパイプ"]あいたっ！　はぁ、ここにいたら腐った野菜が大集合してきちゃうべ……
+[name="Bagpipe"]Oh, it's just more and more rottin' leaves...
+[name="백파이프"]하아, 썩은 채소 잎사구가 점점 더 많아지네……
 
 [name="简妮"]这边走。
+[name="ジェニー"]――そこの人、こっちだよ！
+[name="Janie"]Come this way.
+[name="제니"]이쪽이야.
 
 [name="风笛"]欸欸？
+[name="バグパイプ"]んえ？　あっ、待って！
+[name="Bagpipe"]Eh, what?
+[name="백파이프"]뭐이?
 
 “报告，第九防卫队遇袭......”
+「報告！　第九防衛隊が襲撃されました――」
+'Reporting in, 9th Defence attacked...'
+“보고드립니다. 제9방위대가 습격을 당했습니다……”
 
 “报告，第十三防卫队正在交火......”
+「報告！　現在、第十三防衛隊が交戦中――」
+'Reporting in, 13th Defence currently in firefight...'
+“보고드립니다. 제13방위대가 교전을 벌이고 있습니다……”
 
 [name="号角"]麻烦再通报一次，我要见汉密尔顿上校。
+[name="ホルン"]ハミルトン大佐に会いたいの。もう一度取り次いでちょうだい。
+[name="Horn"]Send notice one more time, please. I want to see Colonel Hamilton.
+[name="혼"]다시 한번 말 좀 전해줘. 난 해밀턴 대령님을 만나야겠어.
 
 [name="维多利亚士兵"]上校在处理一些紧急事务。
+[name="ヴィクトリア兵"]できかねます。大佐は今、緊急対応に当たられていますので。
+[name="Victorian Soldier"]The Colonel's handling urgent affairs.
+[name="빅토리아 병사"]대령님은 지금 급한 용무를 처리하고 계십니다.
 
 [name="号角"]两个小时前你就是这么说的。
+[name="ホルン"]あなた、二時間前にも同じことを言ってたじゃない。
+[name="Horn"]You said that two hours ago.
+[name="혼"]너 두 시간 전에도 그렇게 말했잖아.
 
 [name="号角"]我们已经严格按照流程，在昨天刚进入小丘郡时就提交了任务说明。
+[name="ホルン"]そもそも、私たちは昨日ヒロック郡に入った時点で、規定通りに任務内容の説明を提出しているのよ。
+[name="Horn"]I've already abided by strict process. I submitted description of my duty yesterday when entering County Hillock.
+[name="혼"]우리는 철저히 절차를 밟았고, 어제 힐록 카운티에 들어서자마자 임무 설명서를 제출했어.
 
 [name="号角"]上校不让我们参与对嫌疑人的审讯，又将嫌疑人提前处决，眼下还拒绝我的会面请求——
+[name="ホルン"]それなのに、大佐は私たちを容疑者の取り調べに参加させず、あまつさえ容疑者を早々に処刑した。その上今は私との面会を拒絶しているとなると――
+[name="Horn"]If the Colonel won't let us take part in suspect interrogations, and goes to lengths to execute them beforehand, and presently refuses my request to meet him—
+[name="혼"]대령님은 우리를 용의자 취조에 참여하지 못하게 했고, 또 용의자를 미리 처형해버렸지. 지금은 면담 요청도 거절하고 있고……
 
 [name="号角"]换作旁人，恐怕会把这一系列行为视作有意阻挠我们执行军令吧？
+[name="ホルン"]一連の行動は、こちらの軍令の遂行に対する故意の妨害ともとれるけど？
+[name="Horn"]To anyone else, don't you think this conduct might be taken as a deliberate hindrance to our fulfillment of orders?
+[name="혼"]제삼자가 봤다면 아마 이런 일련의 행위는 우리가 군령을 집행하는 걸 의도적으로 방해한다고 생각하지 않을까?
 
 [name="维多利亚士兵"]我无权回答你的问题，中尉。
+[name="ヴィクトリア兵"]私にはお答えできない問題です、中尉。
+[name="Victorian Soldier"]I have no authority to answer your question, Lieutenant.
+[name="빅토리아 병사"]저는 당신의 질문에 대답할 권한이 없습니다, 중위님.
 
 [name="号角"]没关系，我说我的，有人听着就行。
+[name="ホルン"]別に構わないわよ。誰かが聞いてるならそれで十分。私は言いたいことを言ってるだけだから。
+[name="Horn"]That's fine. I'll say my part, and it's enough if someone listens.
+[name="혼"]괜찮아, 나 그냥 혼잣말하는 거니까 누군가 들어주기만 하면 돼.
 
 [name="号角"]我说过了，这批失窃的源石制品数目不小，足以武装一支能攻下一座小型城镇的军队，或者炸掉支撑一座中型移动城市的履带。
+[name="ホルン"]既に伝えた通りだけど、本件で盗難にあった源石製品の量は少なくないわ。これだけあれば小さな街を攻め落とすにも、中型移動都市を支えるキャタピラーを爆破するにも十分でしょうね。
+[name="Horn"]I've said before, the Originium products thieved are not small in number. It's sufficient arms to allow a detachment to attack a small town, or bomb a medium nomadic city's support tracks.
+[name="혼"]내가 말했었지? 우리가 도난당한 오리지늄 제품은 수량이 적지 않아. 작은 마을 하나를 공격할만한 군대를 무장시키기에 충분해. 혹은, 한 중형 이동도시를 지탱하는 캐터필러를 폭파할 수도 있지.
 
 [name="号角"]谁会想得到这批源石制品？
+[name="ホルン"]――でも、一体誰がそんな物を欲しがってるのかしら？
+[name="Horn"]Who'd want to obtain these products?
+[name="혼"]누가 이 오리지늄 제품을 갖고 싶어 하겠어?
 
 [name="号角"]普通的盗匪可不想要，偷渡成本太高。这么大批量的维多利亚军用品，就连受到哥伦比亚保护的最大的萨尔贡黑市都不敢提供交易渠道。
+[name="ホルン"]並の盗人ならリスクが高すぎる行為よ。大量のヴィクトリア軍需品なんて、クルビアの庇護下にあるサルゴン最大のブラックマーケットですら買い手がつかないかもしれないわ。
+[name="Horn"]Ordinary bandits wouldn't need them; it'd cost too much to smuggle them out. With Victorian military goods in this great a bulk, even a Sargon black market under Columbia's protection wouldn't dare provide a means for a deal.
+[name="혼"]일반 도적들은 원하지 않을 거야. 왜냐면 밀입국 비용이 엄청 높거든. 이렇게 많은 빅토리아 군용품이라면 컬럼비아의 보호를 받는 최대의 사르곤 암시장조차도 감히 거래처를 제공하지 못해.
 
 [name="号角"]剩下的还有谁？在本地赚取一些中间改造费用的私人武器商？他们没这个胃口，更没这个胆子。
+[name="ホルン"]だったら、犯人は誰なのかしら？　――改造費で小金を稼いでるような、現地の民間武器商人？　いいえ、彼らでは到底手に負えない代物だし、そもそも、そんな度胸があるわけないわ。
+[name="Horn"]Who else is left? A local private arms dealer, moneymaking off the costs of remodeling? They haven't got the appetite, let alone the guts.
+[name="혼"]그럼 남은 사람은 누가 있을까? 현지에서 약간의 중간 개조 비용을 벌어들이는 개인 무기 상인들? 그들은 이런 것에 흥미가 없을 뿐더러, 더욱이 그럴만한 배짱도 없어.
 
 [name="号角"]敢拿着这批东西，还能避开我们的眼线的，只有一支训练有素、深谙军方运作模式的部队。
+[name="ホルン"]こんな物を手に入れて、私たちの捜査網をすり抜けることができるのは……軍事作戦を熟知している、よく訓練された部隊くらいのもの。
+[name="Horn"]Only a well-trained unit, well-versed in military methods would dare take it, and could evade our spies on top.
+[name="혼"]감히 그 물건들을 가져가고 우리 시선도 피할 수 있다면, 이는 군대의 운용 방식을 잘 아는, 잘 훈련된 부대밖에 없어.
 
 [name="号角"]这支部队拿到了这么大量的源石制品，他们的目的是什么？
+[name="ホルン"]だとすれば……大量の源石製品を手に入れた目的は何？
+[name="Horn"]If this unit got hold of that large a quantity of Originium product, what would their goal be?
+[name="혼"]그 부대가 그렇게 많은 오리지늄 제품을 가져간 목적이 뭘까?
 
 [name="号角"]是阴谋颠覆，还是仗着远离伦蒂尼姆，想借机监守自盗、勾结外部势力，以细水长流的方式中饱私囊？
+[name="ホルン"]国家の転覆？　あるいは、ロンディニウムから距離があるのをいいことに、管理を一任された物品を横流しして、外部勢力と結託し、私腹を肥やしたいのかしら？
+[name="Horn"]Conspiracy to overthrow? Taking the chance to embezzle far removed from Londinium, colluding with outside powers to fill their pockets, slowly and steadily?
+[name="혼"]전복을 꾀하려는 걸까? 아니면 런디니움과 멀리 있는 기회를 틈타 횡령하거나, 외부 세력과 결탁하여 중간에서 긴 세월 동안 자기네 주머니를 채우려는 걸까?
 
 [name="维多利亚士兵"]中尉......
+[name="ヴィクトリア兵"]なッ、中尉……！？
+[name="Victorian Soldier"]Lieutenant...
+[name="빅토리아 병사"]중위님……
 
 [name="号角"]你不用这么慌，这只是毫无根据的推理，谁让我现在干等着，什么事都做不了。
+[name="ホルン"]あら、急に慌ててどうしたの？　こんなの、根拠もないただの推測でしょ。誰かさんに待たされてるお陰で、これくらいしかやることがないのよ。
+[name="Horn"]No need to panic, this is all just baseless reasoning, no thanks to whoever's keeping me waiting. I can't get anything done like this.
+[name="혼"]그렇게 당황해할 필요 없어, 이것은 근거 없는 추측일 뿐이니깐. 대체 누가 나를 마냥 기다리게만 하면서 아무 일도 못 하게 하는 걸까?
 
 [name="维多利亚士兵"]（低声通讯）
+[name="ヴィクトリア兵"]――ッ……（声を抑える）……すみません、ご報告が……
+[name="Victorian Soldier"](Subdued communications)
+[name="빅토리아 병사"](작은 소리로 통신한다)
 
 [name="维多利亚士兵"]中尉，上校说他马上就到。
+[name="ヴィクトリア兵"]中尉。間もなく、大佐が到着されるとのことです。
+[name="Victorian Soldier"]Lieutenant, the Colonel says he'll be here imminently.
+[name="빅토리아 병사"]중위님, 대령님이 곧 도착한다고 합니다.
 

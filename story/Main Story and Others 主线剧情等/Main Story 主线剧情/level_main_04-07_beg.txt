@@ -80,7 +80,7 @@
 
 [name="凯尔希"]   Dr.{@nickname}，你也明白吧？
 [name="ケルシー"]   Dr.{@nickname}、君もわかったか？
-[name="Kal'tsit"]   Dr {@nickname}, am I clear?
+[name="Kal'tsit"]   Dr. {@nickname}, am I clear?
 [name="켈시"]   {@nickname} 박사. 너도 잘 알았나?
 
 [Decision(options="明白", values="1")]
@@ -100,7 +100,7 @@
 
 [name="凯尔希"]   阿米娅，就算Dr.{@nickname}很有用，也别太过依靠一个人。
 [name="ケルシー"]   アーミヤ、Dr.{@nickname}が頼りになるとはいえ、過信はするなよ。
-[name="Kal'tsit"]   Amiya, even if Dr {@nickname} is very helpful, you can't rely too much on a single person.
+[name="Kal'tsit"]   Amiya, even if Dr. {@nickname} is very helpful, you can't rely too much on a single person.
 [name="켈시"]   아미야, {@nickname} 박사가 믿음직스럽더라도 너무 기대지는 마라.
 
 [name="阿米娅"]   ......
@@ -120,7 +120,7 @@
 
 [name="阿米娅"]   其实凯尔希医生也很担心你的。
 [name="アーミヤ"]   ケルシー先生もドクターのことを心配しているんですね。
-[name="Amiya"]   Dr Kal'tsit actually worries about you a lot.
+[name="Amiya"]   Dr. Kal'tsit actually worries about you a lot.
 [name="아미야"]   켈시 선생님도 박사님을 걱정하고 계신 것 같아요.
 
 [name="阿米娅"]   不知不觉中——

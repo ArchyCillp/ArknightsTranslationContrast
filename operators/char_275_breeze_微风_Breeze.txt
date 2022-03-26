@@ -8,7 +8,7 @@ CV:
 	브리즈
 
 干员代号\Name:
-	池泽春菜
+	Unknown
 	池澤春菜
 	Haruna Ikezawa
 	이케자와 하루나
@@ -49,141 +49,7 @@ CV:
 	확산식 치료
 
 语音\Voices:
-	わたくしに手伝ってほしい？構わないけど、後でしっかり見返りをいただくわよ。
-	If you need help, I will gladly help out. Just remember to return the favor some time.
-	내가 도와줬으면 좋겠어? 상관은 없지만, 나중에 제대로 받아낼 거야.
-
-	ヴィーナ……いえ、シージさんからはいつも言葉にできない不思議な印象を受けるわ。なぜかしら……。
-	Verna... Err, I mean, Miss Siege, always gives me a feeling that I can't describe. Why is that...?
-	비나…… 아니, 시즈 씨한테는 늘 말로 할 수 없는 신기한 인상을 받아. 왜일까……
-
-	お父様は元気かですって？ちょっと、普通家出中の人にわざわざそんなこと聞くかしら？もしかしてドクターさんって会話が苦手なの？
-	My dad? Oh my, you're asking me that even though you know I ran away from home? Doctor, are you perhaps socially awkward?
-	아버님은 잘 계시느냐고? 잠깐, 보통 가출 중인 사람한테 일부러 그런 걸 물어보나? 혹시 박사는 대화하는 게 서투른 거야?
-
-	ドクターさん、わたくしの手料理をどうぞ召し上がれ……薬草の味がする、ですって？い、いやね、ドクターさんを実験台になんかするわけないでしょう、おほほ……。
-	{@nickname}, be sure to try my dishes...did you taste the herbs? Oh my, why would I ever use the Doctor as my taste tester? Heehee...
-	박사, 내가 직접 만든 요리인데 먹어 봐…… 약초 맛이 난다고? 어, 어머~ 내가 박사를 실험 대상으로 삼을 리 없잖아, 오호호……
-
-	昔、お父様たちの考えは古臭くて役立たずだと思ったから家を出ることにしたの。故郷を離れて、新しい生活を求めて、たくさん歩いて、たくさん経験して、ふと気づくと、お父様たちの考えもわかるようになっていた。ふふ、おかしな話でしょう。
-	I used to think that my parents were numb and stuffy so I ran away from home to look for a new life. After going far and wide and experiencing a lot, I think I'm beginning to understand how they felt. Haha, what do you think you're doing~
-	예전에, 어른들의 사고방식은 고리타분하고 도움이 안 된다고 생각해서 집을 나왔어. 고향을 떠나 새로운 생활을 찾아 많이 걷고, 많이 경험하다 보니 문득 어른들의 사고방식도 이해가 되더라. 후후, 이상한 이야기지.
-
-	あの離れていく雲が見えるかしら？あの方向のずっと先に、わたくしの故郷があるのよ。
-	{@nickname}, do you see those scattered clouds over there? That's the direction of my hometown.
-	저기 멀어져 가는 구름이 보여? 저 방향 훨씬 너머에, 내 고향이 있어.
-
-	「信仰」についての話題には興味が尽きないわね。ラテラーノに行く機会はないけど、まさかロドスでラテラーノについてこんなにたくさん知れるなんて。それにしても、話をしてくれるあの女性……本当に元気な方ね。ラテラーノってああいう人たちが集まってる場所なのかしら？
-	'Faith' is an interesting topic. Although I didn't have the chance to go to Laterano, I didn't expect to hear all about Laterano's deeds on Rhodes Island. Always thought it was too... Hey, that energetic girl over there... was Laterano always such a lively place?
-	 '신앙'에 대한 화제에는 흥미가 끊이질 않아. 라테라노에 갈 기회는 없지만, 설마 로도스 아일랜드에서 라테라노에 대해 이렇게 많이 알게 될 줄이야. 그건 그렇고, 이야기를 해 주는 저 사람…… 정말 활기찬 분이네. 라테라노는 저런 사람들이 모여있는 곳일까?
-
-	ドルンの船は灯台の光がなければ帰港できないように、わたくしは最後の避難港にこのロドスを選んだというだけよ。つまりあなたは、おまけみたいなものね……ふふっ。まあせいぜい、わたくしにできないことを、しっかりやってちょうだい。
-	The boats in Toron need the lighthouse to make their way back to port, and Rhodes Island is the safe haven at the end of my last journey. So, {@nickname}, it's up to you... you have to be able to do what I can't.
-	토룬의 배는 등대의 빛이 없으면 귀항할 수 없는 것처럼, 나는 최후의 피난항으로 이 로도스 아일랜드를 선택한 것뿐이야. 다시 말해 당신은 덤 같은 거지… 후후. 그러니까… 최대한 내가 할 수 없는 일을 제대로 해줘.
-
-	グレース・アリゾナの信仰が、今ここに。ドクター様、あなたへの希望と信心は、永遠に潰えることはありません。
-	Right here, right now, is where Grace Arizona places her faith. Dr. {@nickname}, you hold my hopes in your hands, forever more.
-	그레이스 애리조나의 신앙이 지금 여기에. 박사님, 당신을 향한 희망과 믿음은 영원히 사그러들지 않을 것입니다.
-
-	……夢の中でさまよっているような寝顔ね。ドクターさん、不安を感じているのかしら？
-	...You made a strange expression in your dream. Are you feeling uneasy, Doctor?
-	……꿈속에서 헤매고 있는 것 같은 얼굴로 자네. 박사, 불안을 느끼고 있는 걸까?
-
-	ブリーズと申します。ドルンから遊学にやってきました。お会いできて光栄です、ドクター様。はぁ……堅苦しい礼儀作法なんて肩がこるし、もういいかしら？
-	Breeze, a traveling scholar from Toron County. It is a pleasure to meet you, Doctor. I've had enough of formal etiquette, so this will be the last of it.
-	브리즈라고 합니다. 토룬에서 유학 왔습니다. 만나 뵙게 되어 영광입니다, 박사님. 하아…… 이렇게 딱딱하게 예의 차리는 건 정말 피곤해, 이제 됐지?
-
-	……素晴らしいヒーリングアーツの運用ね。さすがロドスだわ。
-	...Stunning medical skills, thats Rhodes Island for you.
-	……엄청난 치유 아츠 운용이네. 역시 로도스 아일랜드야.
-
-	ドクター様、あなたの施しに心よりの祝福を。……あら？失礼な反応ね。手の甲への口づけは正式な儀式の一つじゃない、早くしなさい！
-	I shall bestow this blessing upon you for your gift, Doctor. Hmm? Your reaction was such a downer. This calls for a serious hand-kiss, you know. Hurry up and get to it!
-	박사님, 당신의 은혜에 진심으로 축복을. ……어머? 무례한 반응이네. 손등 키스는 정식적인 의식 중 하나잖아, 어서 하라고!
-
-	何よその顔、今回は別に儀式的なことはいいでしょう？それとも、もしかして期待してたのかしら？とにかく、わたくしの全てをロドスに捧げる覚悟よ。この覚悟は儀式なんかで表せるものじゃないんだから。
-	Well, this time won't be as formal as the last. Are you looking forward to it? I will dedicate everything to Rhodes Island, a pledge that transcends my consciousness.
-	뭐야, 그 얼굴은. 이번엔 딱히 의식적인 건 됐잖아? 아니면 혹시 기대한 거야? 어쨌든, 내 모든 것을 로도스 아일랜드에 바치기로 각오했어. 이 각오는 의식 같은 걸로 나타낼 수 있는 게 아니니까.
-
-	治療なら任せなさい。
-	Leave the medical work to me.
-	치료라면 맡겨줘.
-
-	ドクターさんの信頼に応えられるように、皆さんの安全確保を最優先に行動するわ。
-	Thank you for your trust. I will make sure to prioritize the safety of the Operators.
-	박사의 신뢰에 보답할 수 있도록, 모두의 안전 확보를 최우선으로 행동할게.
-
-	風が吹いてるわ……。
-	It's getting windy...
-	바람이 불고 있어……
-
-	他人を傷つける悪党に、許しを乞う権利なんてないわ。
-	Those who seek to inflict harm on others have no right to ask for forgiveness.
-	타인에게 상처를 주는 악당에게 용서를 구걸할 권리 따윈 없어.
-
-	はい。
-	Here.
-	응.
-
-	指示をちょうだい。
-	Your orders?
-	지시를 내려줘.
-
-	すぐに片付けるわよ。
-	Let's do this quickly.
-	바로 정리할게.
-
-	身の安全に気をつけて。
-	Make sure to look after yourself.
-	안전에 주의해.
-
-	ユーロジーよ、響け！
-	Eulogy echoes!
-	율로지여, 울려라!
-
-	風よ、かの者にエレジーを捧げなさい。
-	The wind sings an elegy...
-	바람이여, 저자에게 엘러지를 바쳐라.
-
-	ヴォリション！
-	Willpower!
-	볼리션!
-
-	皆さん、勝利はわたくしたちのものよ。
-	Everyone, victory is ours.
-	다들, 승리는 우리 거야.
-
-	勝利もいずれは新しい火種となる、生々流転の理ね。
-	Every victory creates a kindling that will flourish into an everlasting fire.
-	승리도 언젠간 새로운 불씨가 될 거야. 모든 것은 끊임없이 흘러가고 변하기 마련이니까.
-
-	油断したらダメ。不穏な風向きよ。
-	Keep your senses alert, for danger lurks ahead.
-	방심하면 안 돼. 심상치 않은 풍향이야.
-
-	どうしてそこまでして人を傷つけようとするの……。
-	Why are you always fixated on hurting others...
-	왜 그렇게까지 해서 남에게 상처를 주려는 거야……
-
-	とてもユニークな場所ね。
-	What a unique facility. 
-	굉장히 독특한 장소네.
-
-	ちょ、ちょっと待って！
-	Wait, wait! 
-	자, 잠깐만!
-
-	ごきげんよう、ドクターさん。わたくしの故郷のお話、聞きたいかしら？
-	Doctor, would you like to hear the story of my hometown?
-	안녕, 박사. 내 고향 이야기, 듣고 싶어?
-
-	アークナイツ。
-	Arknights.
-	아크나이츠.
-
-	ごきげんよう、ドクターさん。
-	Good day, Doctor.
-	안녕, 박사.
+	
 
 干员档案\Background:
 	基础档案 :
@@ -245,7 +111,7 @@ CV:
 	【戦場機動】標準
 	【生理的耐性】普通
 	【戦術立案】標準
-	【戦闘技術】不良
+	【戦闘技術】欠落
 	【アーツ適性】優秀
 
 	Physical Exam :

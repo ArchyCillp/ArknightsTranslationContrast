@@ -15,7 +15,7 @@
 
 [name="PRTS"]   Dr.{@nickname}, 早上好。您已经休息了99999999————
 [name="PRTS"]   Dr.{@nickname}、おはようございます。今回の休憩時間は99999999――――
-[name="PRTS"]   Good morning, Dr {@nickname}. You have currently been sleeping for 99999----
+[name="PRTS"]   Good morning, Dr. {@nickname}. You have currently been sleeping for 99999----
 [name="PRTS"]   {@nickname} 박사님, 좋은 아침입니다. 이번 휴식 시간은 99999999…
 
 [name="PRTS"]   ————个小时。
@@ -30,7 +30,7 @@
 
 [name="PRTS"]   另外来自凯尔希医生的医学建议，希望您多开窗保持通风，并且进入甲板晒太阳以平衡维生素D。
 [name="PRTS"]   ドクター・ケルシーより「窓を開けて空気を入れ替え、適度にデッキに出て太陽の光に当たってビタミンDを不足させないように」と医学的見地からのアドバイスが入っております。
-[name="PRTS"]   Furthermore, here is some medical advice from Dr Kal'tsit: Please keep the windows open to maintain a source of fresh air, and spend some time on the deck to maintain healthy levels of Vitamin D.
+[name="PRTS"]   Furthermore, here is some medical advice from Dr. Kal'tsit: Please keep the windows open to maintain a source of fresh air, and spend some time on the deck to maintain healthy levels of Vitamin D.
 [name="PRTS"]   또, 켈시 선생님께서 의학적 충고를 덧붙이셨습니다. 창문을 열어 환기를 충분히 하고, 갑판에 나가 충분히 햇볕을 쬐어 비타민 D 부족으로 고생하는 일이 없도록 하라고 말씀하셨습니다.
 
 [name="阿米娅"]   啊，是博士！早啊。
@@ -40,7 +40,7 @@
 
 [name="杜宾"]  {@nickname}博士，你来了。
 [name="ドーベルマン"]  Dr.{@nickname}、来たか。
-[name="Dobermann"]  So you made it, Dr {@nickname}.
+[name="Dobermann"]  So you made it, Dr. {@nickname}.
 [name="도베르만"]  {@nickname} 박사, 왔군.
 
 [name="阿米娅"]   博士身体好些了吗？
@@ -95,7 +95,7 @@
 
 [name="杜宾"]  关于其他的内容，还需经过尚在龙门城内的凯尔希医生同意后，才能定下来。
 [name="ドーベルマン"]  詳細な部分はケルシー医師が先行して龍門に入り、調整しているためその判断を待たないといけないが…。
-[name="Dobermann"]  We'll have to wait for Dr Kal'tsit's permission first before we can get the rest of the information. She's still stationed within Lungmen.
+[name="Dobermann"]  We'll have to wait for Dr. Kal'tsit's permission first before we can get the rest of the information. She's still stationed within Lungmen.
 [name="도베르만"]  다른 사항은 용문을 방문 중인 켈시의 동의 없이는 정할 수 없지만 말이다.
 
 [name="阿米娅"]   龙门暂时答应了我们停泊在城市附近的要求，然后他们愿意给予一部分我们在行动中损失的物资，以及消耗的补给。

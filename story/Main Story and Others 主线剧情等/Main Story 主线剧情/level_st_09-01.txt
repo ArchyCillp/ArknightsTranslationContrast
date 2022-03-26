@@ -1,260 +1,650 @@
 [Subtitle(text="“冬眠的山驮着高高的烟囱”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="冬ごもりの山が、のっぽの煙突背負って♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'The hibernating mountains carry smokestacks high,'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“겨울잠을 자고 있는 산은 높이 솟은 굴뚝을 짊어졌고”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“履带拉着我的家嘎吱嘎吱地跑”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="キャタピラーが我が家をがたごと引いていく♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'And the tracks run hauling my home with creak and cry,'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“캐터필러는 우리 집을 끌고 삐걱삐걱 달리고 있네”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="“我在排水沟里找到了一颗橡果，紧挨着一枚生锈的铆钉”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="錆び付いたネジの隣のドブに、どんぐり見つけ……♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="'I found an acorn rolling in the gutter all alone, and right by a rivet rusted all of its chrome...'", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“나는 배수구에서 도토리 한 알을 발견했고, 그 옆엔 녹슨 나사못 하나 있었네”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="号角"]我们已进入仓库。侦查组，报告情况。
+[name="ホルン"]――倉庫内に入った。偵察チーム、状況を報告して。
+[name="Horn"]We've entered the warehouse. Investigation team, report status.
+[name="혼"]창고에 들어왔다. 정찰팀, 상황 보고해.
 
 [name="三角铁"]队长，东南角有生命体征。距离你们七排货架，活动范围一米。
+[name="トライアングル"]南東にバイタルサインあり。隊長の位置から七列目の棚付近、活動範囲は1メートルです。
+[name="Triangle"]Leader. Vital signs to the southeast. Seven shelves away from you, moving within one meter.
+[name="트라이앵글"]남동쪽에서 생명체가 감지됐습니다. 대장님과 진열대 일곱 개 정도 떨어져 있습니다. 활동 범위는 1미터입니다.
 
 [name="号角"]人数？
+[name="ホルン"]数は？
+[name="Horn"]Number of heads?
+[name="혼"]몇 명이야?
 
 [name="三角铁"]一人。
+[name="トライアングル"]一つです。
+[name="Triangle"]One.
+[name="트라이앵글"]한 명입니다.
 
 [name="号角"]有没有源石反应？
+[name="ホルン"]源石反応はどう？
+[name="Horn"]Any Originium response?
+[name="혼"]오리지늄 반응은 있어?
 
 [name="三角铁"]暂时没发现。
+[name="トライアングル"]現状、ありません。
+[name="Triangle"]None for the time being.
+[name="트라이앵글"]아직 없습니다.
 
 [name="号角"]好，各自就位。
+[name="ホルン"]よし――各自、配置について。
+[name="Horn"]Good. Hold your positions.
+[name="혼"]알았다. 각자 위치로.
 
 [name="号角"]风笛？
+[name="ホルン"]ちょっと、バグパイプ？
+[name="Horn"]Bagpipe?
+[name="혼"]백파이프？
 
 [name="风笛"]收到！
+[name="バグパイプ"]はい、隊長！
+[name="Bagpipe"]Got it!
+[name="백파이프"]알았아!
 
 [name="号角"]你在找什么？
+[name="ホルン"]何か気になることでもあるの？
+[name="Horn"]What are you looking for?
+[name="혼"]뭘 찾고 있어?
 
 [name="风笛"]队长，是不是有人在唱歌？
+[name="バグパイプ"]えっと、誰かの歌が聞こえた気がして……
+[name="Bagpipe"]Doesn't it sound like someone's singin'?
+[name="백파이프"]대빵, 누가 노래를 하고 있는 것 같지 않나?
 
 [name="号角"]别分心。这说明目标不在警戒状态。
+[name="ホルン"]歌はターゲットが気を緩めている証拠よ。集中して。
+[name="Horn"]Don't get distracted. This means our target's guard is down.
+[name="혼"]한눈팔지 마. 그건 목표물이 경계를 늦추고 있다는 얘기야.
 
 [name="号角"]按照作战计划，等我信号，你来突入。现在，继续前进。
+[name="ホルン"]作戦通り、私の合図で突入してちょうだい――さあ、行くわよ。
+[name="Horn"]Keep to the plan. Wait for my signal, then you charge. For now, keep moving in.
+[name="혼"]작전계획대로 내가 신호를 주면 돌격해. 지금은, 계속 전진한다.
 
 [name="号角"]五、四、三......
+[name="ホルン"]5、4、3……
+[name="Horn"]Five, four, three...
+[name="혼"]오, 사, 삼……
 
 [name="号角"]准备——
+[name="ホルン"]用意――！
+[name="Horn"]Ready—
+[name="혼"]준비……
 
 [name="风笛"]掩体已破坏！
+[name="バグパイプ"]遮蔽物を破壊！　突入！
+[name="Bagpipe"]Bunker destroyed!
+[name="백파이프"]엄폐물이 파괴됐아!
 
 [name="慌张的青年"]啊——
+[name="慌てる青年"]わっ――！？
+[name="Panicked Youth"]Ack—
+[name="당황한 청년"]아……
 
 [name="慌张的青年"]咳咳咳......怎、怎么回事？突然好大的烟！
+[name="慌てる青年"]ごほ、げほごほっ……な、なんだ！？　急に煙が……！
+[name="Panicked Youth"]*cough* *cough* *hack*... Wh—what's going on? All this smoke out of nowhere!
+[name="당황한 청년"]콜록콜록…… 뭐, 뭐야? 갑자기 이 짙은 연기는!
 
 [name="号角"]不许动！待在原地，举起双手！
+[name="ホルン"]動くな！　その場で両手を挙げなさい！
+[name="Horn"]Don't move! Stay where you are, raise both your hands up!
+[name="혼"]꼼짝 마! 두 손 들어!
 
 [name="慌张的青年"]我、我......你们是......维多利亚士兵？
+[name="慌てる青年"]お、お前たち……ヴィクトリア……ヴィクトリアの兵士か？
+[name="Panicked Youth"]I—I... you're... Victorian soldiers?
+[name="당황한 청년"]나, 난…… 당신들은…… 빅토리아 병사?
 
 [name="风笛"]为什么你这样称呼我们？你不也是维多利亚人吗？
+[name="バグパイプ"]それはそうだけど、おめーさんもヴィクトリア人でしょう？
+[name="Bagpipe"]What do you mean by that? Aren't you Victorian too?
+[name="백파이프"]왜서 우리를 그렇게 부르나? 니도 빅토리아 사람 아이나?
 
 [name="慌张的青年"]呃......
+[name="慌てる青年"]う、ううっ……
+[name="Panicked Youth"]Er...
+[name="당황한 청년"]음……
 
 [name="号角"]他要逃跑。大提琴，注意拦截！
+[name="ホルン"]ターゲットは逃走する気よ！　チェロ、止めて！
+[name="Horn"]He's looking to run. Cello, watch to intercept!
+[name="혼"]저자가 도망치려고 한다. 첼로, 막아!
 
 [name="风笛"]队长，他没有往出口去，他折回来了——
+[name="バグパイプ"]待って隊長！　あの人、出口には向かってない――引き返してる！
+[name="Bagpipe"]Leader, he's not headin' for the exit, he's turned back—
+[name="백파이프"]대빵, 저 사람이 출구로 가지 않고 돌아왔아……
 
 [name="号角"]！！
+[name="ホルン"]！！
+[name="Horn"]!!
+[name="혼"]!!
 
 [name="号角"]三角铁！目标扑向了后排货架！只要监测到源石反应，立刻发射弩弹！
+[name="ホルン"]トライアングル！　ターゲットは後ろの棚へ向かってる！　源石反応を感知したら即、狙撃して！
+[name="Horn"]Triangle! Target heading for the back shelves! If you pick up any Originium response, open fire immediately!
+[name="혼"]트라이앵글! 목표물이 뒷줄 진열대로 도망갔다! 오리지늄 반응이 감지되는 즉시 사격해!
 
 [name="号角"]其他人，到我盾后集合！
+[name="ホルン"]ほかのメンバーは、この盾の後ろへ！
+[name="Horn"]Everyone else, form behind my shield!
+[name="혼"]그 외 사람은, 내 방패 뒤에 집합한다!
 
 [name="号角"]快！！！
+[name="ホルン"]早く！！
+[name="Horn"]Quick!!!
+[name="혼"]빨리!!
 
 [name="号角"]风笛，你在做什么？！
+[name="ホルン"]……ッ！？　バグパイプ、何を！？
+[name="Horn"]Bagpipe, what are you doing?!
+[name="혼"]백파이프, 뭐 하고 있어?
 
 [name="风笛"]——
+[name="バグパイプ"]――
+[name="Bagpipe"]—
+[name="백파이프"]……
 
 [name="风笛"]我捂住了！大家快跑！
+[name="バグパイプ"]目標物は押さえた！　総員退避して！
+[name="Bagpipe"]I'm coverin' it! Everyone, run!
+[name="백파이프"]내가 막았아! 니들은 어푼 토깨!
 
 [name="号角"]你——
+[name="ホルン"]あなたっ――
+[name="Horn"]You—
+[name="혼"]너……
 
 [name="风笛"]——！
+[name="バグパイプ"]――！
+[name="Bagpipe"]...!
+[name="백파이프"]……!
 
 [name="三角铁"]队长，没有源石反应，风笛身下不是炸弹。
+[name="トライアングル"]隊長、源石反応がありません。バグパイプが押さえている箱は爆弾ではないようです。
+[name="Triangle"]Leader, no Originium response. That's not a bomb under Bagpipe.
+[name="트라이앵글"]대장님, 오리지늄 반응이 없습니다. 백파이프 밑에 있는 건 폭탄이 아닙니다.
 
 [name="风笛"]啊！虚惊一场嘛。
+[name="バグパイプ"]ほんとに？　ふぅ～……なら、一安心だね。
+[name="Bagpipe"]Oh! False alarm.
+[name="백파이프"]앗! 괜히 놀랐잖아.
 
 [name="号角"]......目标呢？
+[name="ホルン"]……ターゲットの男性は？
+[name="Horn"]And the target...?
+[name="혼"]……목표물은?
 
 [name="风笛"]不好意思，撞得有点狠。他一时半会站不起来了。
+[name="バグパイプ"]それがその、ちょっぴり強めにぶつかったから、しばらく伸びてると思う。
+[name="Bagpipe"]Sorry, I knocked him a little hard. He won't be standin' for a while.
+[name="백파이프"]미안, 내가 좀 심하게 밀쳤어. 당분간 일어나긴 글렀어.
 
 [name="号角"]那这些箱子里......
+[name="ホルン"]じゃあ、この箱は……
+[name="Horn"]And what of the boxes?
+[name="혼"]그럼 이 상자들 안에는……
 
 [name="风笛"]我看看啊，全都是土豆和胡萝卜，还有花椰菜哎！被我压坏了。好可惜，看起来都挺好吃的。
+[name="バグパイプ"]うちが見てみるよ。どれどれ……ジャガイモと、ニンジン、それにカリフラワーだ！　はぁ、もったいないことしたなあ～。美味しそうな野菜がぺちゃんこだべ。
+[name="Bagpipe"]I'll take a peek. All potatoes and carrots, and cauliflowers too! I squashed 'em flat. Shame, they seemed just fine for eatin'.
+[name="백파이프"]어데 보자. 감재와 당근, 브로콜리뿐이구만! 내 몸에 깔래서 다 빠꿔졌네, 아까운기, 다 마수아 보이는데.
 
 [name="号角"]......
+[name="ホルン"]……
+[name="Horn"]......
+[name="혼"]……
 
 [name="号角"]不要放松警惕。
+[name="ホルン"]警戒を怠らずに、確認を続けて。
+[name="Horn"]Stay alert.
+[name="혼"]경계를 늦추지 마.
 
 [name="风笛"]这排，这排，还有这排......都一样。队长，这仓库里全是果蔬粮食啊。
+[name="バグパイプ"]これも、こっちも。この列も……みーんなおんなじだ！　隊長、この倉庫には野菜と果物しかないみたいだよ。
+[name="Bagpipe"]This one, this one, and this one... they're all the same. Leader, it's all produce and grains in here.
+[name="백파이프"]이 줄, 이 줄, 그리고 이 줄도…… 다 마찬가지야. 대빵, 이 고간에는 마카 야채와 식량뿐이라니.
 
 [name="号角"]三角铁，注意周围有没有其他人靠近。
+[name="ホルン"]トライアングル、周囲から接近してくる人物がいないか、目を配っておいて。
+[name="Horn"]Triangle, watch for anyone else nearing our perimeter.
+[name="혼"]트라이앵글, 주변에 다른 사람이 접근하고 있는지 유의해줘.
 
 [name="号角"]双簧管，你和风笛一起搜查仓库。有发现随时给信号。
+[name="ホルン"]オーボエ、あなたはバグパイプと一緒に倉庫を調べてちょうだい。何か見つけたら、すぐに合図するのよ。
+[name="Horn"]Oboe, you search the warehouse with Bagpipe. Signal on any discovery.
+[name="혼"]오보에, 넌 백파이프랑 같이 창고를 수색하도록 해. 뭔가 발견되면 즉시 신호를 보내고.
 
 [name="号角"]大提琴，把这位瘫倒在地的先生绑起来。
+[name="ホルン"]チェロは地面に倒れているターゲットを捕縛して。
+[name="Horn"]Cello, take this man stuck on the floor and tie him up.
+[name="혼"]첼로, 바닥에 쓰러져 있는 이 남자를 묶어줘.
 
 [name="慌张的青年"]唔呃......
+[name="慌てる青年"]う、ぐっ……
+[name="Panicked Youth"]Urgh...
+[name="당황한 청년"]으윽……
 
 [name="号角"]现在，先生，麻烦你回答几个问题。
+[name="ホルン"]さてと……それじゃ、質問に答えてもらいましょうか。
+[name="Horn"]Right now, sir, we're going to need you to answer a few questions.
+[name="혼"]내 질문에 대답하도록.
 
 [name="慌张的青年"]我、我什么都不知道，我每天都会在这里分拣土豆。
+[name="慌てる青年"]し、知らない！　何も知らないって……！　俺は、毎日ここでジャガイモの仕分けをしてるだけだし……
+[name="Panicked Youth"]I—I don't know anything. I'm here for sorting the potatoes.
+[name="당황한 청년"]나, 나는 아무것도 몰라. 나는 매일 여기서 감자를 고르고 있었을 뿐이야.
 
 [name="号角"]你是小丘郡的居民？
+[name="ホルン"]そう。あなた、ヒロック郡に住んでるの？
+[name="Horn"]Are you from County Hillock?
+[name="혼"]넌 힐록 카운티의 주민인가?
 
 [name="慌张的青年"]是......
+[name="慌てる青年"]あ、ああ……
+[name="Panicked Youth"]Yes...
+[name="당황한 청년"]그래……
 
 [name="号角"]你听说过鬼魂部队么？
+[name="ホルン"]なら、「亡霊部隊」について聞いたことはある？
+[name="Horn"]Have you heard of any spectre force?
+[name="혼"]그럼 귀혼대라고 들어본 적 있나?
 
 [name="慌张的青年"]鬼......什么？呵、呵呵......部队说的不就是你们这些当兵的吗？
+[name="慌てる青年"]ぼう……何だって？　……は、ははっ、し、知らないよ……でも、その部隊ってのは、あんたらみたいな兵士のことを言うんだろ？
+[name="Panicked Youth"]Spectre... what? *cough*, *cough* *cough*... Doesn't force mean people like you lot, all the soldiers?
+[name="당황한 청년"]귀……뭐라고? 하, 하하…… 부대라면 당신들 같은 군인 얘기 아닌가?
 
 [name="慌张的青年"]把洛瑞、朱利亚和克里斯他们抓走......现在是不是、是不是也轮到我了？
+[name="慌てる青年"]ラウリーもジュリアもクリスも皆、連れてかれちまった。まさか、今度は……今度は俺の番なのか？
+[name="Panicked Youth"]They took Lowry, Julia and Chris away... is it—is it my turn now?
+[name="당황한 청년"]라우리, 줄리아와 크리스를 잡아가더니 이번엔 내 차례인가?
 
 [name="号角"]请你冷静一些。
+[name="ホルン"]落ち着いて、話を聞いてちょうだい。
+[name="Horn"]I want you to calm down.
+[name="혼"]진정하고, 잘 들어.
 
 [name="号角"]听好。有人看到，昨天半夜有一批源石制品被送进了这个仓库。而如今它们不在这里。你需要对此作出解释。
+[name="ホルン"]いい？　昨日の夜遅く、源石製品がこの倉庫へと運び込まれるのを見た人がいるの。だけど今、ここに現物はないわよね。その理由を説明してもらえないかしら。
+[name="Horn"]Listen. We have people who saw a batch of Originium goods enter this warehouse late last night. And now, those goods aren't here. You need to give me an explanation.
+[name="혼"]어젯밤에 오리지늄 제품을 이 창고로 옮기는 걸 본 사람이 있어. 그런데, 지금 전부 사라졌어. 어떻게 된 건지 설명해봐.
 
 [name="慌张的青年"]解释？你们真想要这个，而不是直接吊死我？我、我......呸。
+[name="慌てる青年"]説明……？　本気でそんなもんがほしいって言ってんのか？　俺の首じゃなくて？　お、俺はな……俺は！――ペッ。
+[name="Panicked Youth"]Explanation? That's what you're looking for? You're not going to just hang me? I—I... *pteuch*.
+[name="당황한 청년"]설명? 당신들은 정말 그걸 원하는 건가? 나를 목매어 죽이려는 건 아니고? 나, 난…… 퉤.
 
 [name="风笛"]嘿！你怎么乱吐唾沫？也太不注意卫生了吧！
+[name="バグパイプ"]ちょっと！　つばなんて吐かないでよ。不衛生だべ！
+[name="Bagpipe"]Hey! What are you spittin' around for? You've gotta care about hygiene!
+[name="백파이프"]야! 왜 침을 뱉는 거야? 비위생적이잖아!
 
 [name="号角"]有线索吗？
+[name="ホルン"]はぁ……何か手がかりはあった？　バグパイプ。
+[name="Horn"]Any leads?
+[name="혼"]단서는 찾았어?
 
 [name="风笛"]没有，队长，到处都是土豆。如果消息没错的话，他们的动作有够快的。
+[name="バグパイプ"]全然だよ、隊長。見渡す限りジャガイモだらけ！　目撃情報が確かなら、向こうさんは相当動きが早いみたいだね。
+[name="Bagpipe"]None, it's potatoes everywhere. If our information wasn't wrong, then they must work a sight fast.
+[name="백파이프"]아니, 대빵, 여나 저나 마카 감재뿐이야. 정보가 틀림없다면 자들의 움직임도 음청 빠른 것 같아.
 
 [name="号角"]好。
+[name="ホルン"]そう、了解。
+[name="Horn"]Alright.
+[name="혼"]알았어.
 
 [name="号角"]带走他。他一定知道些什么，只是还不愿意开口。
+[name="ホルン"]彼を連れて行って。話すつもりがないだけで、きっと何かを知っているはずだから。
+[name="Horn"]Bring him. He definitely knows something, he's just not willing to open up.
+[name="혼"]데려가. 이자는 분명 뭔가 알고 있을 것 같은데 아직 입을 열려 하지 않아.
 
 [name="慌张的青年"]我就说......你们都一样！费尽心思地找我们的错处，折磨我们......你们这些维多利亚的吃人恶兽！
+[name="慌てる青年"]ッ……ちくしょうが！　やっぱりな。お前たちは、どいつもこいつも皆同じだ！　あの手この手でケチをつけて、俺たちを苦しめる機会を狙ってるんだ。このヴィクトリアのケダモノめ！
+[name="Panicked Youth"]There it is... you're all the same! Dying to find faults in all of us, torturing us... you Victorian oppressor beasts!
+[name="당황한 청년"]그럼 그렇지…… 너희들은 다 똑같아! 갖은 방법으로 꼬투리나 잡아 우릴 괴롭히려고…… 이 사람을 잡아먹는 빅토리아 악마들아!
 
 [name="风笛"]啊？又来？他觉得把一个维多利亚同胞叫作维多利亚人算是种辱骂吗？真是搞不明白。
+[name="バグパイプ"]ん？　だからおめーさんだってヴィクトリア人でしょ。そうやって呼んで侮辱になるとでも思ってるのかな？
+[name="Bagpipe"]Eh? Again? He thinks callin' another Victorian 'Victorian' counts as an insult? It's flyin' over my head.
+[name="백파이프"]응? 또 그린다. 빅토리아 동포를 빅토리아인이라 부르는 걸 모욕이라고 생각하는 거가? 증말 이해를 할 수가 없다니.
 
 [name="三角铁"]队长，有人来了。
+[name="トライアングル"]――隊長、誰か近付いてきます。
+[name="Triangle"]Leader, incoming.
+[name="트라이앵글"]대장님, 누가 오고 있어요.
 
 [name="号角"]几个？
+[name="ホルン"]――数は？
+[name="Horn"]How many?
+[name="혼"]몇 명이야?
 
 [name="号角"]（准备散开。）
+[name="ホルン"]（小声）……散開に備えて。
+[name="Horn"](Prepare to break up.)
+[name="혼"](모두 흩어져.)
 
 [name="风笛"]（是，队长。）
+[name="バグパイプ"]（小声）……はい、隊長。
+[name="Bagpipe"](Yes, Leader.)
+[name="백파이프"](응, 대빵.)
 
 [name="三角铁"]报告，队长，他们好像是自己人。
+[name="トライアングル"]報告。隊長、彼らは味方のようです。
+[name="Triangle"]Update, Leader, they seem to be our own.
+[name="트라이앵글"]대장님, 저들은 같은 편인 것 같습니다.
 
 [name="？？？"]人在这里。
+[name="？？？"]ここか。
+[name="???"]They're in here.
+[name="???"]여기 있군.
 
 [name="维多利亚士兵"]......
+[name="ヴィクトリア兵"]……
+[name="Victorian Soldier"]......
+[name="빅토리아 병사"]……
 
 [name="风笛"]（队长，我们被包围了。）
+[name="バグパイプ"]（小声）隊長、味方って言うけど、うちら包囲されてるよ。
+[name="Bagpipe"](Leader, we're surrounded.)
+[name="백파이프"](대빵, 우리 포위당했어.)
 
 [name="号角"]（从人数上来说，是。）
+[name="ホルン"]（小声）人数だけ見れば、そうなるわね。
+[name="Horn"](Going by the numbers, yes.)
+[name="혼"](머릿수로 보면, 맞아.)
 
 [name="风笛"]（听声音的话，留在外面的人好像不是很多。从我手边破墙的话，我们有机会哎！）
+[name="バグパイプ"]（小声）でも、聞こえてくる音からすると、外にはあんまり人を残してないみたい。うちの前の、この辺の壁を壊したら突破できるかも！
+[name="Bagpipe"](If you listen to the voices, there don't seem to be too many left outside. If I crack the wall by me, then we've got our chance!)
+[name="백파이프"](소리만 들어서는 밖에 남은 사람이 많지 않은 거 같아. 내 쪽에서 벽을 허물면 기회가 있을 기야!)
 
 [name="号角"]（稍安勿躁。）
+[name="ホルン"]（小声）ちょっと、落ち着きなさい。
+[name="Horn"](Don't get hasty.)
+[name="혼"](잠깐만.)
 
 [name="？？？"]看起来这里刚刚发生了一场激烈的战斗。
+[name="？？？"]……どうやら、激しい戦闘が行われたばかりのようだな。
+[name="???"]I see you've had a very fierce confrontation in here.
+[name="???"]여긴 방금 치열한 전투가 벌어졌던 것 같네.
 
 [name="号角"]丽塔·斯卡曼德罗斯，第七前线步兵营，第二风暴突击队队长。
+[name="ホルン"]――私はリタ・スカマンドロス。第七前線歩兵大隊、第二テンペスト特攻隊の隊長です。
+[name="Horn"]Rita Skamandros, 7th Frontline Infantry Battalion, 2nd Tempest Platoon Leader.
+[name="혼"]리타 스카만드로스, 제7전방보병부대 제2폭풍돌격대 대장입니다.
 
 [name="？？？"]你好，斯卡曼......斯卡曼德罗斯中尉。
+[name="？？？"]やあ、ご機嫌よう。スカマ……スカマンドロス中尉、だな。
+[name="???"]Nice to meet you, Lieutenant Skamm... Skamandros.
+[name="???"]아, 스카만…… 스카만드로스 중위.
 
 [name="号角"]我的名字不算好记。您可以叫我号角，上尉。
+[name="ホルン"]ええ。覚えやすくはありませんし、どうぞ「ホルン」と呼んでください、大尉。
+[name="Horn"]My name isn't too easy to remember. You can call me Horn, Captain.
+[name="혼"]대위님, 제 이름은 부르기 어려우니 혼이라고 부르시면 됩니다.
 
 [name="？？？"]好的，号角女士。我叫凯利，路易斯·凯利。抱歉，我们这里不流行代号。
+[name="？？？"]了解した。では、ミス・ホルン。私はケリー、ルイス・ケリーだ。本名で悪いが、ここではコードネームが流行らなくてね。
+[name="???"]Very well, Horn. I'm Kelly, Louis Kelly. I'm sorry, codenames aren't our style.
+[name="???"]그래, 혼. 나는 켈리, 루이스 켈리다. 미안하지만, 우리 여기서는 코드네임을 잘 쓰지 않아서.
 
 [name="号角"]凯利上尉，您和您的部下想必也是为了追查这个仓库而来。
+[name="ホルン"]お気になさらず。ケリー大尉、あなた方もこの倉庫の調査にいらしたんですよね。
+[name="Horn"]Captain Kelly, you and your troops are presumably also here to investigate this warehouse.
+[name="혼"]대위님과 부하들도 이 창고를 조사하기 위해 온 겁니까?
 
 [name="凯利上尉"]是的，我们也收到了情报。
+[name="ケリー大尉"]ああ。我々の方でも、情報を掴んでいたものでな。
+[name="Captain Kelly"]Correct, we've received the tip-off too.
+[name="켈리 대위"]응, 우리도 정보를 받았어.
 
 [name="号角"]那您应当能理解事件的严重性。一批数量不少的非法源石制品，两个月前就被人从军用运输路线上窃走，最后消失在这一带。
+[name="ホルン"]ならば、事の大きさはご理解いただけているでしょう。二ヶ月前、軍の輸送ルートから大量の源石製補給物資が盗まれ、この一帯で消息を絶ちました。
+[name="Horn"]Then you ought to understand how grave this situation is. A great deal of illicit Originium goods were stolen off a military transport a couple months ago, and ultimately came to vanish in this region.
+[name="혼"]그렇다면 대위님도 이번 사태의 심각성을 잘 아실 겁니다. 2개월 전, 적지 않은 물량의 불법 오리지늄 제품이 수송 도중에 도난당했고, 마지막으로 이 일대에서 사라졌습니다.
 
 [name="凯利上尉"]咳......
+[name="ケリー大尉"]……ああ、ええと……
+[name="Captain Kelly"]Ahem...
+[name="켈리 대위"]크흠……
 
 [name="号角"]不需要我来提醒您，上尉，这么多武器，加上周边各郡近期失窃的那些，如果全部落到不法分子的手里，受到威胁的可远不止小丘郡。
+[name="ホルン"]申し上げるまでもないと思いますが大尉、こうした兵器に加えて、周辺の各郡で盗難された物品までもが、違法組織の手に渡っていたとすれば、その脅威はヒロック郡を脅かすのみには留まりません。
+[name="Horn"]I need not remind you, Captain, with this much ordnance, coupled with recent thefts in surrounding counties—if fallen into felonious hands, the menace posed will reach far beyond County Hillock.
+[name="혼"]대위님, 제가 굳이 말하지 않아도 아시겠지만, 이 많은 양의 무기와 최근 주변 각 도시에서 도난당한 물건들이 모두 무법자들 손에 들어가게 된다면 위험에 빠질 곳은 힐록 카운티뿐만이 아닐 겁니다.
 
 [name="凯利上尉"]......好，谢谢你说这些。我明白。
+[name="ケリー大尉"]……ああ分かっている。説明に感謝する。
+[name="Captain Kelly"]Good, thank you for the run-down. I understand.
+[name="켈리 대위"]……좋아, 설명하느라 수고 많았다. 알았다.
 
 [name="号角"]我们也很感谢您的配合。
+[name="ホルン"]いえ。こちらからも、ご協力に感謝します。
+[name="Horn"]And we're very thankful for your cooperation.
+[name="혼"]저희도 대위님이 협조해주셔서 감사합니다.
 
 [name="凯利上尉"]希尔！
+[name="ケリー大尉"]――ヒル！
+[name="Captain Kelly"]Hill!
+[name="켈리 대위"]힐!
 
 [name="副官希尔"]长官。
+[name="副官ヒル"]はい、上官。
+[name="Adjutant Hill"]Sir.
+[name="힐 부관"]장관님.
 
 [name="凯利上尉"]把这个年轻人......这个可疑分子抓回军营。
+[name="ケリー大尉"]この若者……いや。この容疑者を、兵営に連行しろ。
+[name="Captain Kelly"]Take this young man... this suspect back to camp.
+[name="켈리 대위"]이 젊은이…… 이 용의자를 캠프로 끌고 가.
 
 [name="风笛"]啊？这人是我们好不容易找到的线索！
+[name="バグパイプ"]えぇっ、なんでよ！　うちらがやっと見つけた手がかりなのに！
+[name="Bagpipe"]What? It was mad for us gettin' this man as our lead!
+[name="백파이프"]어? 이 청년은 우리가 어렵게 찾아낸 단서잖나!
 
 [name="副官希尔"]长官，她的矛在妨碍我执行任务。
+[name="副官ヒル"]上官、彼女の矛が任務遂行を妨げているのですが。
+[name="Adjutant Hill"]Sir, her spear is obstructing fulfillment of my duty.
+[name="힐 부관"]장관님, 이자의 창이 저의 임무 수행을 방해하고 있습니다.
 
 [name="凯利上尉"]呃......
+[name="ケリー大尉"]うむ、あー……そうだな……
+[name="Captain Kelly"]Er...
+[name="켈리 대위"]음……
 
 [name="号角"]......
+[name="ホルン"]……
+[name="Horn"]......
+[name="혼"]……
 
 [name="号角"]风笛，松手。
+[name="ホルン"]バグパイプ、矛を下ろしなさい。
+[name="Horn"]Bagpipe, let it go.
+[name="혼"]백파이프, 그만해.
 
 [name="风笛"]可是我们的任务——
+[name="バグパイプ"]だけど、うちらの任務は――
+[name="Bagpipe"]But our mission—
+[name="백파이프"]하지만 우리 임무는……
 
 [name="号角"]——我们现在在小丘郡地界上。
+[name="ホルン"]――私たちは今、ヒロック郡の管轄地域にいるのよ。
+[name="Horn"]—We're on Hillock land right now.
+[name="혼"]……우리는 지금 힐록 카운티의 관할 지역에 있어.
 
 凯利上尉从口袋里掏出一块手帕，擦了擦额上的汗。
+ケリー大尉はポケットからハンカチを取り出し、額の汗を拭った。
+Captain Kelly pulls a handkerchief from his pocket, and wipes the sweat on his forehead.
+켈리 대위는 주머니에서 손수건 하나를 꺼내어 이마의 땀을 닦았다.
 
 [name="凯利上尉"]很高兴你想通了，中尉。你与这位年轻的瓦伊凡女士，还有其他诸位......
+[name="ケリー大尉"]わかってもらえて嬉しいよ、中尉。……君と、そちらの若いヴイーヴルの女性、それからほかの諸君も……
+[name="Captain Kelly"]Very glad we could persuade you, Lieutenant. You and this young Vouivre lady, and all others present...
+[name="켈리 대위"]그걸 알아줘서 다행이군. 너와, 이 젊은 와이번, 그리고 다른 사람들……
 
 [name="凯利上尉"]咳咳，你们一路从伦蒂尼姆赶过来，想必路途艰辛，累得不轻。
+[name="ケリー大尉"]ええと、とにかく皆、ロンディニウムから駆けつけてきたんだし、過酷な道のりで疲労も溜まっているんじゃないか？
+[name="Captain Kelly"]Ahem—you must be certainly worn out by your hard journey, dashing here from Londinium.
+[name="켈리 대위"]크흐흠, 런디니움에서부터 험난한 길을 단숨에 달려오느라 고생 많았다.
 
 [name="号角"]这是我们身为维多利亚军人的职责。
+[name="ホルン"]これはヴィクトリアの軍人として、我々が負うべき責務ですから。
+[name="Horn"]It's our duty as soldiers of Victoria.
+[name="혼"]이건 빅토리아 군인으로서 저희 책무입니다.
 
 [name="凯利上尉"]是啊，没错。接下来，如果你们还想在小丘郡活动的话......
+[name="ケリー大尉"]確かに、その通りだな。……それで、もしこの後も君たちがヒロック郡で活動したいと言うのなら――
+[name="Captain Kelly"]Yes, quite right. Now, if you still have intention to operate in County Hillock...
+[name="켈리 대위"]그래, 맞아. 너희들이 계속 힐록 카운티에 남아 조사하고 싶다면……
 
 [name="号角"]我们必须继续追查源石制品失窃案，这是来自伦蒂尼姆的命令。我想汉密尔顿上校也会理解。
+[name="ホルン"]――無論、我々には引き続き、源石製品窃盗事件を調査する義務があります。ロンディニウムからの命令に基づいた活動ですので、恐らくハミルトン大佐にもご理解いただけるかと。
+[name="Horn"]We're obliged to continue tracking the thieved Originium goods. This is an order from Londinium. I imagine Colonel Hamilton would see sense too.
+[name="혼"]저희는 계속 오리지늄 제품 도난 사건을 조사할 겁니다. 이건 런디니움에서 내린 명령입니다. 해밀턴 대령님도 이해해 줄 거라 믿습니다.
 
 [name="凯利上尉"]当然，当然。你们可以随我一块回军营。
+[name="ケリー大尉"]もちろん、もちろんだとも。我々と共に、兵営へ来てくれても構わない、という話だよ。
+[name="Captain Kelly"]Of course, of course. You may accompany me back to camp.
+[name="켈리 대위"]물론, 그렇고말고. 우리와 함께 캠프로 돌아가도 좋다.
 
 [name="风笛"]队长，我们真的要把人让给他们吗？他们绝对是故意的！从我们进入郊区地块开始，他们就跟了上来！
+[name="バグパイプ"]隊長、本当に引き渡していいの？　絶対、わざとこうなるように仕向けられてたよ！　きっとこの人たち、うちらが郊外に入った時から、ついてきてたんだよ！
+[name="Bagpipe"]Leader, do we really have to give him up to them? They have to be doin' this on purpose! Ever since we touched foot on the outskirt plate, they've been followin' right behind!
+[name="백파이프"]대빵, 증말로 이 사람을 넘길 거나? 자들은 분명 부러 그런 걸 거야! 우리가 교외 지역에 들어섰을 때부터 따라댕겼다고!
 
 [name="风笛"]直到现在我们抓到了人——
+[name="バグパイプ"]それで、うちらがこうして捕まえたからって――
+[name="Bagpipe"]Right until now, just as we caught him—
+[name="백파이프"]그리고 지금 우리가 사람을 잡자마자……
 
 [name="号角"]“帝国驻军有责任对驻地发生的危害公共安全的事件进行响应。”
+[name="ホルン"]――「帝国駐屯軍には、駐屯地の治安を脅かす事件に対処する責任がある」。
+[name="Horn"]'Stationed troops of the Empire have a responsibility to address any threat to public safety that arises within their station.'
+[name="혼"]“제국의 주둔군은 주둔지에서 발생하는 공공안전을 위협하는 사건에 대해 대응할 책임이 있다.”
 
 [name="号角"]他们没有违反规定。
+[name="ホルン"]彼らの行動は、規定に反するものじゃないわ。
+[name="Horn"]They haven't violated any code.
+[name="혼"]이들은 규정을 어기지 않았다.
 
 [name="风笛"]唉......好吧。
+[name="バグパイプ"]う～……わかった。
+[name="Bagpipe"]Ugh... alright.
+[name="백파이프"]하아…… 알았아.
 
 [name="号角"]上尉，人是你们的了。按照规定，我们也可以参与审讯——希望您还记得。
+[name="ホルン"]ケリー大尉。捕縛した人物は、そちらに引き渡します。ですが規定により、我々も取り調べには参加できますので――その点はどうかお忘れなく。
+[name="Horn"]Captain, he's yours. As per code, we may also take part in the interrogation—we hope you recall.
+[name="혼"]대위님, 사람은 넘겨드리는데, 규정상 저희도 심문에 참여할 수 있다는 걸…… 인지하고 계셨으면 합니다.
 
 [name="凯利上尉"]哈、哈哈......这确实符合规定。
+[name="ケリー大尉"]規定か……は、ははっ……確かに、君の言う通りだな。
+[name="Captain Kelly"]Ha, hahah... yes, quite in line with code.
+[name="켈리 대위"]하, 하하…… 확실히 규정에 맞지.
 
 [name="慌张的青年"]不、不要......放开我！不要抓我！
+[name="慌てる青年"]や、やめろ……放せ！　いやだ、行きたくない！
+[name="Panicked Youth"]N—No... let me go! Don't take me!
+[name="당황한 청년"]아니, 안돼…… 놔! 이거 놔!
 
 [name="副官希尔"]呵......
+[name="副官ヒル"]ふん……
+[name="Adjutant Hill"]Heh...
+[name="힐 부관"]흥……
 
 [name="慌张的青年"]救我......救救我！我什么都没干......我不知道......
+[name="慌てる青年"]助けて……なあ、助けてくれよ！　俺は何もやってない……何も知らないんだ……！
+[name="Panicked Youth"]Help me... save my soul! I haven't done anything... I don't know...
+[name="당황한 청년"]사…… 살려줘! 난 아무 짓도 안 했어…… 아무것도 모른다고……
 
 [name="慌张的青年"]啊啊啊！
+[name="慌てる青年"]う、ああああっ……！
+[name="Panicked Youth"]Aaarghhh!
+[name="당황한 청년"]으아아악!
 
 [name="凯利上尉"]希尔......
+[name="ケリー大尉"]おい、ヒル……
+[name="Captain Kelly"]Hill...
+[name="켈리 대위"]힐……
 
 [name="副官希尔"]这些塔拉渣滓总是这么聒噪。
+[name="副官ヒル"]ターラーのクズどもときたら、騒々しい奴ばかりだな。
+[name="Adjutant Hill"]Tara rabble like him always do make a scene like this.
+[name="힐 부관"]이 타라 쓰레기들은 늘 이렇게 시끄럽군.
 
 [name="凯利上尉"]......带走吧。
+[name="ケリー大尉"]……はぁ……連行しろ。
+[name="Captain Kelly"]Take him away.
+[name="켈리 대위"]……데려가.
 
 [name="风笛"]欸欸，这人怎么这样啊！
+[name="バグパイプ"]ちょっと！　どうしてそんなひどいことするの！？
+[name="Bagpipe"]Ugh, really! What gives them the right!
+[name="백파이프"]야, 대체 왜서 그러는 기나!
 
 [name="风笛"]（队长，我觉得......那个年轻菲林在向我们求救。他很害怕跟他们走。）
+[name="バグパイプ"]（小声）隊長、あのフェリーンのおにーさん……うちらに助けを求めてたんじゃないかな。きっと、あの人たちに連れてかれるのが怖いんだよ。
+[name="Bagpipe"](Leader, I think... that wee Feline wants us to help him. He's scared to death of goin' with them.)
+[name="백파이프"](대빵, 아무래도…… 저 젊은 필라인은 우리한테 도와달라는 것 같지 않나? 자들한테 끌려가는 걸 엄청 무서워하고 하고 있아.)
 
 [name="号角"]（......）
+[name="ホルン"]……
+[name="Horn"](......)
+[name="혼"](……)
 
 [name="号角"]（三角铁？）
+[name="ホルン"]（小声）……トライアングル？
+[name="Horn"](Triangle?)
+[name="혼"](트라이앵글?)
 
 [name="三角铁"]我在，队长。我还在外面树上老位置，他们没注意到我。
+[name="トライアングル"]はい、隊長。――倉庫外の樹上で引き続き待機中です。彼らには気付かれていません。
+[name="Triangle"]Here, Leader. Still in position, outside in the same tree. They haven't noticed me.
+[name="트라이앵글"]네, 대장님. 저는 아직도 바깥 나무 위에 있습니다. 저들은 저를 발견하지 못했습니다.
 
 [name="号角"]（那就好。你带着侦察小组，继续沿附近运输路线调查。有线索立刻汇报。）
+[name="ホルン"]（小声）助かるわ。じゃあ、あなたは偵察チームを率いて、付近の輸送ルート沿いに調査を続けて。手がかりが見つかったら、すぐに報告してちょうだい。
+[name="Horn"](Good. Take the reconnaissance group, and keep investigating along nearby transport routes. If you find any leads, immediately report back.)
+[name="혼"](다행이다. 정찰팀을 이끌고 수송노선을 따라 계속 조사해. 단서를 발견하면 바로 보고하고.)
 
 [name="三角铁"]好。队长，需要向驻军通报吗？
+[name="トライアングル"]了解。駐屯軍への報告は必要ですか？
+[name="Triangle"]Understood. Are we notifying their barracks?
+[name="트라이앵글"]네, 대장님, 주둔군 측에도 보고해야 합니까?
 
 [name="号角"]......
+[name="ホルン"]……
+[name="Horn"]......
+[name="혼"]……
 
 [name="号角"]不用。
+[name="ホルン"]いいえ。いらないわ。
+[name="Horn"]No need.
+[name="혼"]아니.
 
 [name="号角"]......注意保护自己。
+[name="ホルン"]ただ……自分の安全には気を配るようにね。
+[name="Horn"]Be sure to defend yourselves.
+[name="혼"]……몸조심해.
 

@@ -8,7 +8,7 @@ CV:
 	프틸롭시스
 
 干员代号\Name:
-	金元寿子
+	Unknown
 	金元寿子
 	Hisako Kanemoto
 	카네모토 히사코
@@ -17,7 +17,7 @@ CV:
 	莱茵生命数据维护员白面鸮启动完成，请输入命令行进行操作。
 	ライン生命のデータアナリスト、フィリオプシス起動完了。コマンドを入力し操作を行ってください。
 	Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to operate.
-	라인 생명연구소 데이터 애널리스트 프틸롭시스, 기동 완료. 명령을 입력하여 주십시오.
+	라인 랩 데이터 애널리스트 프틸롭시스, 기동 완료. 명령을 입력하여 주십시오.
 
 合同描述\Character Description:
 	101010111101000
@@ -49,145 +49,7 @@ CV:
 	엔도르핀
 
 语音\Voices:
-	こんにちは、ドクター。ご用件は何でしょう？
-	Greetings, Doctor. How may I assist you?
-	안녕하십니까, 박사님. 무슨 일이신가요?
-
-	……ディープスリープモード継続中……Zzzz……電源管理の設定を更新しています……Zzz……。
-	Deep Sleep Mode enabled... Zzzzz... Switching to Power Saving Mode... Zzzzz...
-	…숙면 모드 사용 중… 쿨쿨… 전원 관리 설정을 업데이트하고 있습니다… 쿨… 
-
-	種族の特性とウイルス感染の影響により、会話の途中で寝てしまうことがあります。どうかお気になさらないでください。
-	Due to my racial traits and the infection's effect on my body, I may fall asleep in the midst of a conversation. Please pay it no mind.
-	종족의 특성과 바이러스 감염의 영향에 따라 대화 도중 잠이 드는 경우가 있습니다. 부디 신경쓰지 말아 주시기 바랍니다.
-
-	サイレンスさんはライン生命にいた頃からの知り合いです。とあるプロジェクトで、彼女のためにビッグデータの分析とリスクアセスメントを行ってました。
-	I met Dr. Silence at Rhine Lab. I provided big data analysis and risk evaluation for her on a secret project.
-	사일런스 씨와는 라인 랩에 있을 때부터 알던 사입니다. 모 프로젝트에서 사일런스 씨를 위해 빅 데이터 분석과 위험 평가를 시행했었습니다.
-
-	警告、これより、ロドスのデータベースを初期化します。……冗談です、そんなに慌てないでください。
-	Warning! Reverting Rhodes Island database to initial state... Don't worry. It's just a joke. Please don't panic.
-	경고. 지금부터 로도스 아일랜드의 데이터베이스를 초기화합니다… 농담입니다. 그렇게 당황하지 말아 주십시오.
-
-	最適化でのパフォーマンス上昇が見込めない場合、リファクタリングをおすすめいたします。データ通信の効率が上昇し、フィリオプシスは……Zzz……。
-	I recommend you refactor my data if optimization fails to increase my performance. This will improve communication efficiency, and Ptilopsis will... Zzzz...
-	최적화를 통한 퍼포먼스 상승을 기대할 수 없는 경우, 리팩토링을 추천드립니다. 데이터 통신의 효율이 상승하여, 프틸롭시스는… 쿨… 
-
-	この喋り方ですか？これは源石の影響です。決して面白がっているということはございません。
-	My manner of speaking? It is caused by Originium poisoning. By no means do I enjoy articulating my thoughts in this way.
-	말투 말씀이신가요? 오리지늄의 영향으로 이렇게 되었습니다. 결코 재미로 이러는 것이 아닙니다.
-
-	警告、システムは重篤なエラーから回復しました。前回正常起動時の構成を適用中。どうかお気になさらず。
-	Warning, system has recovered from a fatal error. Reconfiguring to last normal system bootup point. Please pay it no mind.
-	경고, 시스템이 심각한 오류로부터 복구되었습니다. 마지막 정상 기동 시의 구성을 적용 중. 신경쓰지 마십시오.
-
-	実をいうと、この喋り方はかなり負担がかかります。ですが、システム中枢があの声に飲み込まれないようにするためのものなのです……。ドクター、フィリオプシスが暴走してしまっても、どうか正しい道に導いてくれることを、切に願います。
-	It is, in fact, quite burdensome to speak in this manner. But this is a necessary measure to prevent the system nexus from being devoured by that other voice. Doctor, if I become rampant, please guide me back onto the right path.
-	솔직히 말씀드리자면, 이 말투는 무척 부담이 됩니다. 하지만, 이는 시스템 중추가 그 목소리에 삼켜지지 않도록 하기 위한 것입니다…… 박사님, 프틸롭시스가 폭주해버려도, 부디 바른길로 인도해주시기를 간구드립니다.
-
-	……システム、スリープモードに入ります。
-	System... is now in Sleep Mode...
-	… 시스템을 슬립 모드로 전환합니다.
-
-	ライン生命医科学研究所の元データアナリスト、フィリオプシスです。ご迷惑でなければ、コマンドラインによる命令を希望します。
-	I am Ptilopsis, former data analyst of the Rhine Lab Medical Research Institute. Please submit your orders via the Command Line.
-	라인 생명연구소의 전 데이터 분석가였던 프틸롭시스입니다. 불편하지 않으시다면 커맨드 라인을 통해 명령하여 주시기 바랍니다.
-
-	パッケージを読み込み中……適用完了しました。
-	Reading package data... Resource expended.
-	패키지 로딩 중… 적용 완료되었습니다.
-
-	アップデータのインストール完了。フィリオプシスのシステム権限が更新されました。
-	Finished installing update. Ptilopsis' system permissions have been revised.
-	업데이트 설치 완료. 프틸롭시스의 시스템 권한이 갱신되었습니다.
-
-	警告、これよりロドスのデータベースを二年前のバックアップから復元します。……冗談です、ご安心ください。システムのアップデートが完了しました。
-	Warning. Reverting Rhodes Island database to two years ago... Relax. It's just joke. System update completed.
-	경고, 지금부터 로도스 아일랜드의 데이터베이스를 2년 전의 백업 지점으로 복원합니다… 농담입니다, 안심하십시오. 시스템 업데이트가 완료되었습니다.
-
-	新たなデータを、パッケージにビルドしました。
-	Successfully built package using new data.
-	새로운 데이터를 패키지에 빌드하였습니다.
-
-	部隊管理者のアクセス権限を入手しました。
-	Unit Administrator Access Token acquired.
-	부대 관리자의 접근 권한을 입수하였습니다.
-
-	マップと敵座標のDMA設定を適用しています。少々お待ちください。
-	Direct memory access to application map and enemy coordinates set. Please wait.
-	맵과 적 좌표의 DMA 설정을 적용하고 있습니다. 잠시 기다려주십시오.
-
-	戦術支援システム、オンライン。
-	Tactical support system online.
-	전술 지원 시스템, 온라인.
-
-	プログラム、起動します。
-	Program initiating.
-	프로그램을 기동합니다.
-
-	初期化、完了しました。
-	Initiation completed.
-	초기화를 완료했습니다.
-
-	アーツユニット、チャージ中。
-	Arts Unit is charging.
-	아츠 유닛, 충전 중.
-
-	ターゲット、ロックオン。
-	Locked on to target.
-	타깃, 록 온.
-
-	医療プロセス、開始します。
-	Initiating healing process.
-	의료 프로세스, 개시하겠습니다.
-
-	ロード、完了しました。
-	Loading completed.
-	로드를 완료하였습니다.
-
-	治療モード、適用します。
-	Healing Mode enabled.
-	치료 모드를 적용합니다.
-
-	アーツユニット、起動します。
-	Activating Arts Unit.
-	아츠 유닛을 기동합니다.
-
-	高難易度のマップも攻略できるドクターであれば、いつか非決定性多項式時間の問題も、解明できると予想されます。
-	Even such a difficult scenario couldn't stop you, Doctor. Perhaps one day you will find the solution for the non-deterministic polynomial time problem.
-	고난이도의 맵도 공략 가능한 박사님이시라면, 언젠가 비결정성다항식시간 문제도 해결하실 수 있으리라 예상됩니다.
-
-	予測通りの戦いでした。完璧です。
-	Your logical deduction was absolutely correct. What a perfect calculation.
-	예측대로의 싸움이었습니다, 완벽하군요.
-
-	若干のエラーを確認しました。ご注意ください。
-	A number of errors have been detected. Please confirm.
-	약간의 오류가 확인되었습니다. 주의하십시오.
-
-	作戦行動中に問題が発生しました。システムを再起動してください。
-	A fatal error has occured during the mission. Please reboot the system.
-	작전 행동 중 문제가 발생하였습니다. 시스템을 재시작해 주십시오.
-
-	この場所はディスクアレイのようなものですか？
-	Is this place like a disk array?
-	이 장소는 디스크 어레이 같은 곳입니까?
-
-	エラー発生。
-	Error.
-	에러 발생.
-
-	フィリオプシス、ドクターへの好感度の上昇を感知しました。次の選択肢までスキップしますか？
-	Detecting affection increase for the Doctor within Ptilopsis. Would you like to skip to the next dialogue option?
-	프틸롭시스, 박사님에 대한 호감도 상승을 감지했습니다. 다음 선택지까지 건너뛰시겠습니까?
-
-	アークナイツ。
-	Arknights.
-	아크나이츠.
-
-	新たな一日、ドクターがオンラインになりました。フィリオプシスの感情の高まりを検知。
-	It is a new day. The Doctor is now online. Detecting emotional surge within Ptilopsis.
-	새로운 하루의 시작, 박사님께서 온라인 상태가 되었습니다. 프틸롭시스의 감정이 들뜨는 것이 감지되었습니다.
+	
 
 干员档案\Background:
 	基础档案 :

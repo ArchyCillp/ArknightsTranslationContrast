@@ -1,0 +1,30 @@
+[PopupDialog(dialogHead="$avatar_doberm")] 今天我们要学习的是如何对应非常规伤害。
+[PopupDialog(dialogHead="$avatar_doberm")] 今日は通常とは異なるダメージへの対処法を学んでいく。
+[PopupDialog(dialogHead="$avatar_doberm")] Today, we will be learning how to respond to unconventional injuries.
+[PopupDialog(dialogHead="$avatar_doberm")] 오늘은 일반적이지 않은 대미지의 대처 방법을 배워보도록 하겠다.
+
+[PopupDialog(dialogHead="$avatar_doberm")] 我们邀请到了干员黑角来为我们演示模拟，有劳你，黑角。
+[PopupDialog(dialogHead="$avatar_doberm")] このシミュレーションは、ノイルホーンが担当する。頼んだぞ、ノイルホーン。
+[PopupDialog(dialogHead="$avatar_doberm")] We've invited Operator Noir Corne to demonstrate in the simulation for us. Much appreciated, Noir Corne.
+[PopupDialog(dialogHead="$avatar_doberm")] 오늘 시뮬레이션 시연은 오퍼레이터 '느와르 코르네'가 도와줄 예정이다. 수고가 많다. 느와르 코르네.
+
+[PopupDialog(dialogHead="$avatar_noirc")] 没事，教官。
+[PopupDialog(dialogHead="$avatar_noirc")] まかせな、教官。
+[PopupDialog(dialogHead="$avatar_noirc")] No problem, Instructor.
+[PopupDialog(dialogHead="$avatar_noirc")] 여어, 교관.
+
+[PopupDialog(dialogHead="$avatar_noirc")] 看，这些敌人看起来很弱，正常情况下，用我的防护挡住这些敌人可以说是轻而易举的。
+[PopupDialog(dialogHead="$avatar_noirc")] 見ろ、こいつらはぱっと見弱そうだろ。普通の状況だったら、俺の盾ならこいつらを防ぐくらいは朝飯前だ。
+[PopupDialog(dialogHead="$avatar_noirc")] Watch. These enemies might look real weak, and normally for my defenses, I'd say blocking them's a piece of cake.
+[PopupDialog(dialogHead="$avatar_noirc")] 봐, 여기 적들, 겉보기엔 약해 보이지? 일반적인 상황이라면 내 방어로 손쉽게 막을 수 있을 거야.
+
+但是，不能轻敌！这类......不知从哪找来的奇怪生物，会造成额外的特殊<@tu.kw>神经损伤</>！
+だが、決して敵を甘く見てはならない！　この……どこで見つけてきたのかわからない奇妙な生物は、特殊な<@tu.kw>神経ダメージ</>を与えてくる！
+But don't underestimate the enemy! These... weird monsters from I-don't-know-where can cause extra kinds of special <@tu.kw>nervous impairment</>!
+하지만 적을 얕봐서는 안 된다! 지금 보는 것 처럼…… 이런 출처 불명의 이상한 생물들은 특수한 <@tu.kw>신경 손상</>을 추가로 일으킬 수 있다!
+
+[PopupDialog(dialogHead="$avatar_noirc")] 没错，虽然<@tu.kw>神经损伤</>不会直接伤害到我，但是会无视装备的防护性能不断<@tu.kw>累积</>，当超过一定阈值时，就会造成严重的负面效果。
+[PopupDialog(dialogHead="$avatar_noirc")] そういうことだ。<@tu.kw>神経ダメージ</>は、すぐ俺の体力に影響を及ぼすわけじゃないが、装備の防御性能なんざ無視して<@tu.kw>蓄積</>され、一定量を超えるとかなりマズい影響を与えてくる。
+[PopupDialog(dialogHead="$avatar_noirc")] That's right. Although <@tu.kw>nervous impairment</> won't directly harm us, it can ignore equipment defense functions and keep <@tu.kw>accumulating</>, and once it passes a certain threshold, it'll bring about some serious negative effects.
+[PopupDialog(dialogHead="$avatar_noirc")] 그래. <@tu.kw>신경 손상</>은 직접적인 대미지를 입히진 않지만, 장비의 보호 성능을 무시하고 계속 <@tu.kw>누적</>되어, 일정한 임계치를 초과할 경우 심각한 디버프를 일으킬 수 있지.
+

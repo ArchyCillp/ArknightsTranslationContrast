@@ -1,260 +1,650 @@
 [name="风笛"]唉，挨了好几下砸，还是没能追上凯利上尉。
+[name="バグパイプ"]はぁ、あんまり色々投げつけられちゃったから、結局ケリー大尉には追いつけなかったな。
+[name="Bagpipe"]Ugh, took a peltin' and some. Missed Captain Kelly in the end.
+[name="백파이프"]하아, 맻 번이나 맞아가매 뒤따라갔는데도 켈리 대위를 따라잡지 못했아. 켈리 대위는 정말 쌕쌕이야.
 
 [name="简妮"]来，这块手帕给你，好好擦擦，不然这些烂叶子会留味道的。
+[name="ジェニー"]まあまあ、元気出して。ほら、ハンカチ貸してあげる！　ちゃんと拭いておかないと、腐った野菜の臭いが残っちゃうからね。
+[name="Janie"]Here, take this hankie, wipe yourself off, or else the smell of those rotten leaves'll stick to you.
+[name="제니"]여기, 손수건. 얼른 닦아, 아니면 썩은 채소 잎 냄새가 밸 수도 있어.
 
 [name="风笛"]谢谢！
+[name="バグパイプ"]わ、ありがとう！
+[name="Bagpipe"]Thank you!
+[name="백파이프"]고마워!
 
 [name="简妮"]没想到除了凯利上尉，还有我们的士兵会自愿到十七区来。
+[name="ジェニー"]それにしても、自分から十七地区に来る人が、ケリー大尉以外にうちの軍にいるなんてね。
+[name="Janie"]Didn't imagine any of our soldiers apart from Captain Kelly would visit District Seventeen on their own.
+[name="제니"]켈리 대위님 외에도 제17구역에 자진해서 오는 우리 병사가 있을 줄은 몰랐네.
 
 [name="风笛"]我们的士兵？这么说，你也是吗？
+[name="バグパイプ"]うちの軍って、おめーさんもヴィクトリア軍人なの？
+[name="Bagpipe"]Our soldiers? You mean like, you're one too?
+[name="백파이프"]우리 병사라 했나? 그렇다면, 니도 군인이나?
 
 [name="简妮"]嘘。
+[name="ジェニー"]しーっ！
+[name="Janie"]Shh.
+[name="제니"]쉿.
 
 [name="简妮"]咳咳，我是偷偷溜出来的。我不敢穿制服。
+[name="ジェニー"]えっと、あたしはこっそり抜け出してきてるから、制服を着てないんだけど、実はそうなの。
+[name="Janie"](Clears throat) I slipped out in secret. Can't do that in uniform.
+[name="제니"]크흠, 몰래 나온 거라 감히 제복을 못 입었어.
 
 [name="简妮"]要是穿了那身衣服，还想从这里抄近路回军营，会让附近的居民不高兴吧。
+[name="ジェニー"]そもそも、制服姿でここを歩いたりしたら、近くの住民の反感を買うしね。
+[name="Janie"]You're not gonna make anyone happy taking a shortcut to the barracks through here in that getup.
+[name="제니"]제복을 입고도 여기서 지름길로 캠프에 돌아간다면, 분명 근처의 주민들이 싫어할 거야.
 
 [name="风笛"]欸，是这样吗？
+[name="バグパイプ"]えっ、そうなの？
+[name="Bagpipe"]Eh, really?
+[name="백파이프"]어, 그럴 수도 있겠다야.
 
 [name="风笛"]难怪，我明明没说什么，也跟着挨了一通烂叶子烂水果轰炸。
+[name="バグパイプ"]道理で、何も言ってないうちにまで腐った野菜とか果物とかを投げてくるわけだべ。
+[name="Bagpipe"]No wonder. I barely said anythin' before it was a bombardment of all gone-off leaves and fruit.
+[name="백파이프"]그래서, 내가 분명 암 말 안 했는데도 썩은 채소 잎사구랑 썩은 과일의 폭격을 당한 거였군.
 
 [name="简妮"]你是新调来的吗？
+[name="ジェニー"]事情を知らないってことは、新しく派遣されてきた人？
+[name="Janie"]Are you a new transfer?
+[name="제니"]혹시 새로 전근 왔어?
 
 [name="风笛"]算是吧，我是从伦蒂尼姆来的。
+[name="バグパイプ"]うん、そんな感じ。うちはロンディニウムから来たんだ。
+[name="Bagpipe"]Kind of. I'm here from Londinium.
+[name="백파이프"]그렇다고 보문 되지. 난 런디니움에서 왔아.
 
 [name="简妮"]哇，伦蒂尼姆！我还没去过呢。那里一定比小丘郡大得多......
+[name="ジェニー"]ロンディニウム？　わあっ、いいなあ～！　あたし、まだ行ったことないんだよね。きっとヒロック郡よりずっとおっきい街なんだろうな……
+[name="Janie"]Well, Londinium! I've never been. Must be miles larger than County Hillock there...
+[name="제니"]와, 런디니움! 난 아직 가본 적이 없어. 거긴 아마 힐록 카운티보다 훨씬 더 크겠지……
 
 [name="简妮"]碎片大厦真的有三百多层吗？皇家科学院底下的山体里是不是真的埋着传送法阵，能通往奇迹空间，里面有初代德拉克王的宝藏？
+[name="ジェニー"]ねえ、ザ・シャードのビルって本当に三百階もあるの？　王立科学アカデミーのある山に瞬間移動のアーツが埋まってるって本当？　初代ドラコ王の秘宝が眠る奇跡の空間に繋がってるって話だけど。
+[name="Janie"]Does The Shard really go three hundred floors up? Is there really a teleportation circle buried in the mound under the Royal Victorian Academy of Science, leading to the miraculous space where the first Draco King's Jewels are kept?
+[name="제니"]더 샤드 빌딩이 정말 삼백 층이 넘는 거 맞아? 로열 사이언스 아카데미 아래의 산에는 정말로 워프 마법진이 숨겨져 있어 미라큘러스 스페이스로 이동할 수 있나? 그 안에는 초대 드라코 왕의 보물이 들어있고?
 
 [name="风笛"]啊......啊？宝藏？我都没听说过哎。
+[name="バグパイプ"]わわっ、えっと、瞬間移動？　秘宝？　うちはどれも知らないや。
+[name="Bagpipe"]Eh... eh? Jewels? Never even heard of them.
+[name="백파이프"]아…… 응? 보물이라 했나? 난 생전 들어본 적이 없는데.
 
 [name="风笛"]不过，我倒是知道高速陆地军舰出厂时候是什么样子，也见过水培植物车间......你要是想知道这方面的事情，我倒是可以告诉你哦。
+[name="バグパイプ"]でも、組み上げ終わった高速陸上軍艦が工場から出てくるところとか……水耕栽培の工場とかなら見たことあるから、そういうのでよければ教えてあげられるよ。
+[name="Bagpipe"]But I do know what the high-speed terrestrial warships look like when they leave the factory, and I've seen the hydroponics workshop... If you wanna know anythin' of that sort, I could definitely tell you.
+[name="백파이프"]하지만, 난 고속 육지 군함이 처음 맹글어질 때 어떤 모양이란 건 알고 있고, 수경작 식물의 작업장도 본 적이 있아…… 니가 이쪽 방면의 일을 궁금해한다면 알코 줄 수는 있아.
 
 [name="简妮"]军舰？水培车间......？这好像......和小说里的伦蒂尼姆不太一样......啊！抱歉！还是别让我打岔啦。
+[name="ジェニー"]軍艦？　に、水耕栽培……？　うーん……なんだか、小説の中のロンディニウムとはイメージが違うような――って、あっ！　ごめんね、すっかり話が逸れちゃった。
+[name="Janie"]Warships? Hydroponics workshop...? Doesn't sound... too much like Londinium is in novels... Oh! Sorry! Don't let me distract you.
+[name="제니"]군함? 수경작 작업장……? 그건…… 소설에 나오는 런디니움의 모습과 좀 다른 것 같네……! 앗! 말을 끊어서 미안.
 
 [name="简妮"]如果你想查案，就这么到这条街上来，可能很难问出结果。
+[name="ジェニー"]とにかく、事件の調査をしたいなら、その格好じゃ、この辺の通りでは何も聞き出せないと思うよ。
+[name="Janie"]If you want to investigate, it'll probably be hard to ask on any of these streets.
+[name="제니"]하지만 사건 조사를 하려면 그냥 이렇게 이 거리에 와서는 결과를 얻어내기 어려울 거야.
 
 [name="简妮"]说不定还会像这样......
+[name="ジェニー"]多分、さっきみたいな結果になるっていうか……
+[name="Janie"]Might end up like this again, with...
+[name="제니"]여차하면 또 이렇게 될 수도……
 
 [name="风笛"]像这样平白多了一身臭味？
+[name="バグパイプ"]こんなふうに身体中臭くなっちゃうよってこと？
+[name="Bagpipe"]With gettin' a stink all over me for no reason?
+[name="백파이프"]다시 또 이러 아무 이유도 없이 온 몸뚱아리에 썩은 내가 풍기는 꼴이 될 수도 있다는 기나?
 
 [name="简妮"]还好哈哈，也没那么臭啦。
+[name="ジェニー"]ふふっ、そんな感じ。でも、そこまで臭くないから安心して。
+[name="Janie"]Got off light, haha. You're not that stinky.
+[name="제니"]하하, 괜찮아. 냄새가 그렇게 심하진 않아.
 
 [name="风笛"]这些居民和我们士兵的冲突经常发生吗？
+[name="バグパイプ"]そう？　ここの人たちとうちらの仲間って、よく衝突してるの？
+[name="Bagpipe"]Do these residents often have clashes with us soldiers?
+[name="백파이프"]이곳 주민들과 우리 병사들 사이에 쌈이 자주 발생하나?
 
 [name="简妮"]以前都是小摩擦，最近变得紧张了起来。
+[name="ジェニー"]んー、前は単なる小競り合いだったんだけどね。最近はなんか緊迫してきちゃってるんだ。
+[name="Janie"]Used to just be minor friction, but it's been getting tenser lately.
+[name="제니"]전에는 모두 작은 마찰 정도였는데, 최근에는 좀 심해졌어.
 
 [name="简妮"]就像你听到的，连着出了好几起针对我们士兵的袭击案，大家的神经都很紧绷——
+[name="ジェニー"]あなたも聞いた通り、あたしたち兵士を狙った襲撃事件だって何度も起きてるし、みんなすっごくピリピリしてるんだよね。
+[name="Janie"]It's like you've been hearing. There's been several cases of our soldiers getting targeted in attacks, and it's stretching everyone's nerves close to the limit—
+[name="제니"]너도 들었다시피, 연이어 몇 차례나 우리 병사에 대한 습격 사건이 발생해 다들 매우 긴장하고 있다고……
 
 [name="风笛"]难道真是鬼魂部队......奇怪，他们以前不怎么针对普通士兵。
+[name="バグパイプ"]――まさか、本当に亡霊部隊が……？　でも、何かおかしいべ。前は普通の兵士をターゲットにすることなんて、ほとんどなかったはず。
+[name="Bagpipe"]Could it really be the spectre force... that's weird, they didn't really target ordinary soldiers before.
+[name="백파이프"]뭐이 증말로 귀혼대나……? 야~ 이상하다야, 예전 같으면 일반 병사들에게 총을 들이대지는 않았잖나.
 
 [name="简妮"]鬼魂......你在说什么呀？
+[name="ジェニー"]亡霊……？　って、何の話？
+[name="Janie"]Spectre... what are you going on about?
+[name="제니"]귀혼…… 뭐? 무슨 말이지?
 
 [name="风笛"]......没什么。
+[name="バグパイプ"]……ううん、何でもない。
+[name="Bagpipe"]...Nothin'.
+[name="백파이프"]……아이야, 아무것도 아이야.
 
 [name="风笛"]说起来，刚才那巡逻兵叫这里的居民“塔拉渣滓”——
+[name="バグパイプ"]そういえば、さっき巡回兵が、ここの人たちを「ターラーのクズ」とか呼んでたけど……
+[name="Bagpipe"]Speakin' of, that patrol just now callin' the people here 'Tara rabble'—
+[name="백파이프"]그러고 보이, 좀 전 순찰하는 뱅사들이 이곳 주민들을 '타라의 씨레기'라고 부르던데……
 
 [name="简妮"]等一下，别、别在这里真的叫出来啊！他们又在瞪我们了......还是说你想收到更多烂蔬菜礼包？
+[name="ジェニー"]ま、待って待って！　そんな言葉、ここで口に出しちゃダメ！　またあの人たちに睨まれてるよ……！　腐った野菜を投げられるなんて、もうたくさんでしょ？
+[name="Janie"]Hold on, don't—don't just say that out loud here! They'll be eyeing us again... What, are you hoping to take away even more rotten veg?
+[name="제니"]잠깐. 여, 여기서 그 말을 하면 안 돼! 주민들이 또 노려보잖아…… 또 채소 폭격을 받고 싶은 건 아니겠지?
 
 [name="风笛"]啊......好的。他们真的不是维多利亚人？
+[name="バグパイプ"]ありゃ……うん、わかった。それで、ここの人たちって、もしかしてヴィクトリア人じゃないの？
+[name="Bagpipe"]Ah... gotcha. Are they really not Victorians?
+[name="백파이프"]아…… 알았아. 저 사람들은 진짜로 빅토리아인이 아니나?
 
 [name="简妮"]他们当然是维多利亚人。
+[name="ジェニー"]もちろんヴィクトリア人だよ。
+[name="Janie"]Of course they're Victorians.
+[name="제니"]저 사람들은 빅토리아인이 맞아.
 
 [name="风笛"]我越来越糊涂了。
+[name="バグパイプ"]ええっ？　うち、こんがらがってきちゃった。どういうこと？
+[name="Bagpipe"]I'm gettin' more and more lost here.
+[name="백파이프"]점점 더 헷갈린다야.
 
 [name="简妮"]有些人会选择另一个词，是的，就是你听到的那个——塔拉人，来指代他们的身份。
+[name="ジェニー"]彼らもヴィクトリア人だけど、人によっては敢えて別の言葉で、ええと、あなたも聞いたように――ターラー人、と呼ぶ人たちもいるの。
+[name="Janie"]Some people would choose another word, yeah, the one you've been hearing—Tarans, that's their identity.
+[name="제니"]어떤 사람들은 다른 단어를 쓰기도 해. 그래, 바로 네가 들은 그…… 타라인이 바로 저 사람들의 신분을 가리키는 단어야.
 
 [name="简妮"]会这么叫的人里既有当地居民，也包括相当一部分士兵。
+[name="ジェニー"]地元の人たちと、兵士たちの大半は、そう呼んでるよ。
+[name="Janie"]You have both the locals themselves who would call them that, as well as a decent portion of the soldiers.
+[name="제니"]그렇게 부르는 사람들은 현지 주민들도 있고 상당수의 병사도 포함되어 있어.
 
 [name="风笛"]这么说的话，我也听过这个词。
+[name="バグパイプ"]へえ～。言われてみれば、その「ターラー」って単語には見覚えがあるべ。
+[name="Bagpipe"]Now that you put a fine point on it, I've heard the term before.
+[name="백파이프"]그러고 보니, 나도 그러 불르는 걸 들은 적 있는 것 같아야.
 
 [name="简妮"]在小说里？
+[name="ジェニー"]小説の中に出てきたとか？
+[name="Janie"]In novels?
+[name="제니"]어디, 소설에서?
 
 [name="风笛"]在历史课本里。
+[name="バグパイプ"]ううん、歴史の教科書だね。
+[name="Bagpipe"]In history textbooks.
+[name="백파이프"]아니, 역사 교과서서.
 
 [name="简妮"]是啊，他们一直在这里。
+[name="ジェニー"]なるほど。……あの人たちは、ずっとここで生きてきたからね。
+[name="Janie"]Right. They've always been here.
+[name="제니"]맞아. 저 사람들은 쭈~욱 여기서 살았어.
 
 [name="简妮"]早在好几百年前，小丘郡还不是小丘郡，我们的移动城市还没有建起来，放眼望去全是青草覆盖的山谷的时候，这地方就是他们的家。
+[name="ジェニー"]何百年も昔……あたしたちの移動都市はおろか、ヒロック郡という名前すらなく、青々とした草がどこまでも山あいを覆っていた頃。その時には既に、ここは彼らの家だったんだって。
+[name="Janie"]Over hundreds of years ago, when it wasn't County Hillock yet, and we still hadn't built our nomadic cities, back when it was grass all across the vales as far as the eye could see, this place was their home.
+[name="제니"]수백 년 전, 힐록 카운티가 힐록 카운티로 되기 전에, 우리의 이동도시가 아직 건설되지 않았을 때, 이곳이 온통 풀로 뒤덮인 산골짜기였을 때, 그때부터 이곳은 이미 저 사람들의 터전이었어.
 
 [name="风笛"]我还记得那位德拉克盖尔王的传说......发源地是不是就在这一带？
+[name="バグパイプ"]うちも覚えてるよ！　ドラコのゲル王の伝説……あれの発祥の地ってこの辺りだべ？
+[name="Bagpipe"]I still remember the legend of the Draco King, Gaeil... was he born right around here?
+[name="백파이프"]안즉도 그 드라코 게일 왕의 전설이 기억나는데…… 그 진원지가 이 일대 맞제?
 
 [name="风笛"]当时这个地区就被称作塔拉。
+[name="バグパイプ"]当時、ここら辺の土地はターラーって呼ばれてたんだよね。
+[name="Bagpipe"]Tara was the very name of this region back then.
+[name="백파이프"]그때 당시 사람들은 이 일대를 타라라고 불렀대.
 
 [name="简妮"]是呀，关于盖尔王的传奇小说，我还看过很多本呢。
+[name="ジェニー"]そうそう！　ふふっ、あたしも、ゲル王関係の伝奇小説はたくさん読んだなあ。
+[name="Janie"]Right. I've read heaps of novels all about the saga of King Gaeil.
+[name="제니"]맞아. 나도 개일 왕의 전기 소설을 여러 권 봤어.
 
 [name="风笛"]那位盖尔王，带着当时的塔拉人，和初代阿斯兰王之间有过一场战争，但几年之后，就也随着伦蒂尼姆的王一起签订了和平条约吧？
+[name="バグパイプ"]確か、ゲル王は当時のターラー人を率いて、初代アスラン王と戦争をしたけど、その数年後には、ロンディニウムの王様と平和条約を結んだって話じゃなかった？
+[name="Bagpipe"]King Gaeil led the Tarans in a conflict against the first Aslan King, but a few years later, he signed a peace treaty along with the ruler of Londinium, didn't he?
+[name="백파이프"]당시 게일 왕은 타라인을 델고 초대 아슬란 왕과 한바탕 전쟁을 벌였는데, 맻 년 후 런디니움의 왕하고 평화조약을 맺었제?
 
 [name="风笛"]我还以为，在那之后，塔拉这个词语就不怎么被提起了。
+[name="バグパイプ"]だからその後は、ターラー人って言葉はあんまり使われなくなったんだとばっかり思ってたよ。
+[name="Bagpipe"]And here I was thinkin', after that, the word Tara just sort of fell away.
+[name="백파이프"]나는 그후부터는 타라라는 말을 잘 안 쓰는 줄 알았다니.
 
 [name="简妮"]在来小丘郡以前，我也这么认为......
+[name="ジェニー"]ヒロック郡に来る前は、あたしもそう思ってたんだけど……
+[name="Janie"]Before I came to County Hillock, I thought the same...
+[name="제니"]나도 힐록 카운티에 오기 전까진 그렇게 생각했었어……
 
 [name="简妮"]不过，维多利亚一直在变化，不是吗？我们瓦伊凡也不是向来就生活在这里，但我们现在都是维多利亚的国民。
+[name="ジェニー"]まあでも、ヴィクトリアはずっと変化し続けてるでしょ？　あたしたちヴイーヴルだって、昔からここに住んでたわけじゃないけど、今ではみんなヴィクトリアの国民だし。
+[name="Janie"]But Victoria's always changing, isn't it? Us Vouivre didn't always live here, but we're all Victorian citizens now.
+[name="제니"]하지만, 빅토리아는 계속 변하고 있잖아. 우리 와이번도 계속 이곳에서 살아왔던 건 아니야. 그런데 우린 지금 모두 빅토리아 국민이 되었잖아.
 
 [name="风笛"]要是人人都这么想的话，很多冲突就不会发生了。
+[name="バグパイプ"]みんながみんなそう思ってたら、きっと衝突なんてほとんど起こらないんだろうね。
+[name="Bagpipe"]If everyone's minds went like that, we'd avoid plenty of conflict.
+[name="백파이프"]모두가 그러 생각한다면 서름 부닥치는 것도 마이 줄어들겠지 뭐.
 
 [name="简妮"]唉......
+[name="ジェニー"]……はぁ……
+[name="Janie"]*Sigh*...
+[name="제니"]하아……
 
 [name="风笛"]也用不着沮丧啦，我们之所以在这里，不就是为了揪出真正的敌人，阻止更大的冲突吗？
+[name="バグパイプ"]そんなに落ち込まなくてもいいのに。うちらがここにいるのは、本当の敵を見つけ出して、もーっと大きな衝突を防ぐためでしょ？
+[name="Bagpipe"]No need to let it get you down, though. The whole reason we're here is to uncover the real enemy, stop the clash gettin' any bigger, isn't it?
+[name="백파이프"]그러 실망할 게 뭐이 있나? 우리가 여 있는 것도 진짜 적을 찾아내 더 큰 충돌을 막을라고 하는 거잖나?
 
 [name="简妮"]所以你宁可顶着一头烂菜叶也不肯走？
+[name="ジェニー"]……だから、腐った野菜が飛んできても、帰ろうとしないの？
+[name="Janie"]So you'd rather not leave, even if it means a headful of rotten cabbage?
+[name="제니"]그래서 너는 썩은 채소 잎을 맞고도 이곳을 떠나지 않으려는 건가?
 
 [name="风笛"]哈哈，你是不是觉得我很傻？
+[name="バグパイプ"]あははっ。今、うちのことバカだな～って思った？
+[name="Bagpipe"]Haha, you think I'm bein' a right dunce, don't you?
+[name="백파이프"]하하, 니는 내가 미련 곰탱이처럼 보이제?
 
 [name="简妮"]不，完全没有。其实，我觉得你很厉害。
+[name="ジェニー"]ううん、そんなことない！　むしろすごいと思ってるよ。
+[name="Janie"]No, not at all. Actually, you're amazing to me.
+[name="제니"]아니, 전혀. 오히려 네가 더 대단하다고 생각해.
 
 [name="简妮"]与刚才那位巡逻兵类似的粗暴言行，我见过很多。我不是没想过阻止......可惜我只是一名仪仗兵。
+[name="ジェニー"]さっきの巡回兵みたいな乱暴な振る舞いは、これまでたくさん見てきたの。止めようとも思ったんだけど……あたしは、ただの儀仗兵だから。
+[name="Janie"]The patrol just now, I've seen masses of rough attitude like that. It's not like I've never wanted to stop it... but I'm a guard of honor, that's all I am.
+[name="제니"]방금 그 순찰병이 한 그런 거친 언행을 나도 많이 봐왔어. 말려보려고 한 적이 없는 건 아니지만…… 아쉽게도 난 일개 의장병일 뿐이니까.
 
 [name="风笛"]仪仗兵怎么了？你也是维多利亚军队的一员，你当然能够改变眼下这个你自己不喜欢的局面！
+[name="バグパイプ"]――儀仗兵だから、何だっていうの？　おめーさんもヴィクトリア軍の一員でしょ。だったら、階級がなんだって関係ないよ。嫌な状況を変えることくらい誰だってできるよ！
+[name="Bagpipe"]And what's so bad about that? You're a member of Victoria's army too. Course you've got the power to change the situation, if it doesn't sit right with you!
+[name="백파이프"]의장병이 뭐 어때서 그리나? 니도 빅토리아 군대의 한사람 아이나? 니는 지금 니 눈앞에 펼쳐진 이 떨떠름한 상황을 충분히 바꿀 수 있다니.
 
 [name="简妮"]......真、真的吗？
+[name="ジェニー"]……そ、そう……かな？
+[name="Janie"]Do... do I really?
+[name="제니"]……저, 정말?
 
 [name="简妮"]谢谢你......你是第一个这么对我说话的人。嗯，下次我会试试看......
+[name="ジェニー"]っ……ありがとう。そんなこと言ってくれたのは、あなたが初めてだよ。……うん。次こそは、やってみる！
+[name="Janie"]Oh, thank you... you're the first person who's ever told me that. Yeah, next time, I'll give it a go...
+[name="제니"]고마워요…… 너는 처음으로 내게 그렇게 말해 준 사람이야. 음, 다음엔 꼭 그렇게 해볼게……
 
 [name="简妮"]对了，我还能帮到你什么吗？除了摘掉这几片菜叶子......毕竟，我也不想看着冲突愈演愈烈。
+[name="ジェニー"]あっ、そうだ。何かほかに手伝えることはないかな？　野菜の葉っぱを取ってあげる以外で……あたしも、これ以上衝突が激しくなるのは見たくないから。
+[name="Janie"]Oh, yeah, is there anything else I can help you with? Apart from picking these leaves off you... after all, I don't want to see this conflict boil over either.
+[name="제니"]참, 혹시 내가 도와줄 일이 없을까? 이 채소 잎을 떼어 주는 것 말고…… 어쨌든 나도 충돌이 더 심해지는 건 원하지 않으니까.
 
 [name="风笛"]我想想......你有没有认识的当地朋友？我想问一下达米安·巴里平时经常会去什么地方。
+[name="バグパイプ"]んーっと、それなら……おめーさん、この辺に友達はいる？　ダミアン・バリーさんが普段どこに行ってたのかを知りたいんだ。
+[name="Bagpipe"]Let me think... d'you have any local friends you ken? I want to ask whereabouts Damian Barry usually went.
+[name="백파이프"]잠깐만…… 니 혹시 현지에 아는 친구 없나? 나 데미안 배리가 평소에 어떤 곳에 자주 가는지 물어보고 싶어서 그리잖나.
 
 [name="简妮"]认识的朋友......西尔莎或许知道些什么。
+[name="ジェニー"]友達……シアーシャなら何か知ってるかも。
+[name="Janie"]Friends I've got... Saoirse might know something.
+[name="제니"]아는 친구라…… 시엘샤라면 뭔가 알고 있을지도 몰라.
 
 [name="简妮"]给我个联络方式吧，我等一会去趟报社，我想今天士官长也不会介意我在不在......
+[name="ジェニー"]あなたへの連絡手段を教えといてくれる？　あたし、新聞社に行って彼女に会ってくるよ。多分今日なら、あたしがいてもいなくても曹長は気にしないだろうしね……
+[name="Janie"]Give me a way to keep in touch, and I'll visit the newspaper in a moment. Don't think the Sergeant Major would mind if I'm missing today...
+[name="제니"]연락처를 알려줘. 이따 신문사에 좀 다녀오려고. 아마 오늘은 사관장님이 내가 자리에 있든 말든 신경 쓰지 않을 것 같거든……
 
 [name="汉密尔顿上校"]斯卡曼德罗斯。
+[name="ハミルトン大佐"]――スカマンドロス。
+[name="Colonel Hamilton"]Skamandros.
+[name="해밀턴 대령"]스카만드로스.
 
 [name="号角"]上校。
+[name="ホルン"]はい、大佐。
+[name="Horn"]Colonel.
+[name="혼"]대령님.
 
 [name="汉密尔顿上校"]我见过你的父亲——二十多年前，在开斯特公爵举办的舞会上。当然，那时我还是个小小的卫兵，只远远看了一眼传说中的白狼伯爵。
+[name="ハミルトン大佐"]君の父上にはお会いしたことがある――もう二十年以上も前に、カスター公爵が開いた舞踏会でな。無論、当時の私はまだ一介の衛兵で、伝説の白狼伯爵を遠くから一目見たに過ぎないのだが。
+[name="Colonel Hamilton"]I once saw your father—over twenty years ago, at a ball the Duke of Caster was holding. Of course, I was still a bottom-rung guard then, so all I had was a glimpse from afar at the White Wolf Count of legend.
+[name="해밀턴 대령"]난 자네의 부친을 뵌 적이 있네…… 20여 년 전에, 프로스트 공작이 개최한 무도회장에서 봤었지. 물론, 그때 당시 난 일개 위병이라 먼발치에서 전설의 화이트 울프 백작님을 바라보기만 했었네.
 
 [name="汉密尔顿上校"]不久之后，我听说他在伦蒂尼姆的猛兽园里被一只畸形的带羽爬虫吓出了一场病，迅速离开了贵族社交圈。
+[name="ハミルトン大佐"]しかしその後、伯爵はロンディニウムの猛獣園で、奇形の羽トカゲに怯えて病を患らい、貴族のコミュニティーからも姿を消したと聞いている。
+[name="Colonel Hamilton"]Not long after, I heard a deformed feathered reptile struck illness into him at a Londinium beastlife garden, and he quickly took leave from the aristocratic circles.
+[name="해밀턴 대령"]그 후 얼마 뒤, 백작님은 런디니움의 맹수원에서 페더드 웜 때문에 놀라서 병이 난 뒤, 신속히 귀족 사교계를 떠났다고 들었네.
 
 [name="汉密尔顿上校"]从此再也没有离开过位于港口城的自家庄园一步。
+[name="ハミルトン大佐"]以降は、ハーバーシティの荘園から一歩も出ていないとか。
+[name="Colonel Hamilton"]Ever since, he hasn't taken a step beyond his manor at Portsmouth City.
+[name="해밀턴 대령"]그 이후부터 항구성에 있는 자신의 저택에서 한 발짝도 떠나지 않으셨다고 했었지.
 
 [name="汉密尔顿上校"]现下令尊还好么？
+[name="ハミルトン大佐"]お父上はご壮健かな？
+[name="Colonel Hamilton"]Is your father still in fine spirits?
+[name="해밀턴 대령"]그래, 부친께서는 안녕하신가?
 
 [name="号角"]感谢您的关心，希望怀念这些陈年旧事没有占用太多您宝贵的时间。毕竟，想见您一面可算不上容易。
+[name="ホルン"]お気遣いに感謝いたします。ですが、どうか昔話はまたの機会に。大佐の貴重なお時間を無駄にしたくありません、何しろ、こうしてお会いするのも一苦労でしたから。
+[name="Horn"]Thank you for your concern, and I hope reminiscing over these years-old affairs hasn't eaten up too much of your precious time. After all, meeting with you doesn't prove easy.
+[name="혼"]배려해 주셔서 감사합니다. 대령님의 귀중한 시간을 빼앗지 않도록 그런 옛날이야기는 삼가겠습니다. 대령님을 뵙는 것도 여간 고생이 아니니까요.
 
 [name="汉密尔顿上校"]你不像你的父亲。
+[name="ハミルトン大佐"]ほう。君はお父上には似ていないようだな。
+[name="Colonel Hamilton"]You don't resemble your father.
+[name="해밀턴 대령"]자네는 자네 부친과는 다르군.
 
 [name="号角"]显然，家父并没有机会如您和我一般为帝国军队效力。
+[name="ホルン"]ええ、父には、大佐や私のように帝国軍へ尽くす機会がございませんでしたから。
+[name="Horn"]As is clear, my father did not have the opportunity to serve for the Empire's Army like you or I do.
+[name="혼"]아버지께서는 대령님과 저처럼 제국을 위해 복무할 기회가 없었던 건 사실입니다.
 
 [name="号角"]考虑到此次军用源石制品失窃案不可能与他有关，我们或许可以不必继续探讨他的晚年生活了。
+[name="ホルン"]しかし、本件――軍用源石製品の窃盗事件が父とは無関係であることを考慮しますと、父の晩年についてこれ以上お話しする必要はないかと。
+[name="Horn"]Considering the theft of these military Originium goods couldn't possibly relate to him, maybe we don't have a need for probing further into his later life.
+[name="혼"]이번 군용 오리지늄 제품의 도난 사건은 아버지와 관련이 없기 때문에, 우리가 아버지의 노후 생활에 대해 계속 의논할 필요는 없을 것 같습니다.
 
 [name="汉密尔顿上校"]一个人的出身将决定他成为一个什么样的人。你同意这句话吗，斯卡曼德罗斯？
+[name="ハミルトン大佐"]――「人の行く末は出自で決まる」。スカマンドロス、君はこの言葉をどう思う？
+[name="Colonel Hamilton"]One's background decides what kind of person one becomes. Would you agree with that, Skamandros?
+[name="해밀턴 대령"]스카만드로스, 출신이 곧 사람의 미래를 결정한다. 자넨 이 말에 동의하나?
 
 [name="号角"]我认为人们有权利选择自己的未来。
+[name="ホルン"]人には、自分の未来を選択する権利があります。
+[name="Horn"]I believe one has the right to choose one's own future.
+[name="혼"]저는 사람들이 자신의 미래를 선택할 권리가 있다고 생각합니다.
 
 [name="汉密尔顿上校"]听听，多么符合你的身份的答案。
+[name="ハミルトン大佐"]ふむ。君の身の上を鑑みれば、そう答えるのも当然のことだ。
+[name="Colonel Hamilton"]Listen to that. How befitting an answer of your status.
+[name="해밀턴 대령"]흠, 자네 신분에 걸맞은 대답이야.
 
 [name="汉密尔顿上校"]阿斯兰的亲信要族之后，皇家近卫学校的优等生，伦蒂尼姆的军中新贵——你当然以为自己能改变任何事。
+[name="ハミルトン大佐"]アスランの側近として重んじられた一族の末裔。王立前衛学校の優等生。ロンディニウム軍期待のエース――君は当然、自分の手で変えられないものなどないと思っているのだろうな。
+[name="Colonel Hamilton"]The progeny of the Aslans' aide, first-class honors from the Royal Guard Academy, a Londinium army upstart—of course you believe you can change anything and everything.
+[name="해밀턴 대령"]아슬란의 측근이자 고귀한 일족의 후손, 로열 가드 스쿨의 우등생, 런디니움 군대의 새로운 관리…… 자넨 당연히 자네가 그 어떤 것이라도 바꿀 수 있다고 생각하겠지.
 
 [name="号角"]我并不想改变什么，上校。您不必担心我们小队的到来会影响您在小丘郡的指挥权......
+[name="ホルン"]私は何かを変えたいなどとは思っていません、大佐。どうかご心配なく。我々小隊の到着は、ヒロック郡における大佐の指揮権には一切影響しませんので……
+[name="Horn"]I have no intent to make any such changes, Colonel. You don't need to worry about our squad potentially impacting your command over County Hillock...
+[name="혼"]대령님, 저는 무언가를 바꾸고 싶지 않습니다. 그러니, 우리 소대가 왔다고 해서 대령님의 힐록 카운티에서의 지휘권에 영향을 줄 일은 없을 테니 염려하지 않으셔도 됩니다……
 
 [name="汉密尔顿上校"]这个笑话一点不好笑。你不会自大到以为我会把一个小小的中尉放在眼里吧？
+[name="ハミルトン大佐"]その冗談は笑えんな。まさか私が中尉なんぞに一目置いていると思うほど、傲慢なわけではないだろう？
+[name="Colonel Hamilton"]For a joke, I don't find that humorous at all. You can't be so arrogant as to think I'd occupy myself with a paltry little lieutenant?
+[name="해밀턴 대령"]이 농담은 전혀 웃기질 않는군. 자네가 아무리 잘난 척해도, 설마 내가 중위 하나를 안중에 둘 거라고 생각하진 않겠지?
 
 [name="汉密尔顿上校"]像你这样的人我见得多了。总是夸夸其谈，舍本逐末。我愿意见你，是想警告你——
+[name="ハミルトン大佐"]君のような奴はごまんと見てきた。大口ばかり叩いておいて、結局すべてを投げ出すのが常だ。……私が君に会ってやったのは、警告するためだ――
+[name="Colonel Hamilton"]I've met people like you plenty. Always all braggadocio, skin-deep, and superficial. I deigned to meet you because I wanted to tell you this—
+[name="해밀턴 대령"]자네 같은 사람은 많이 봐왔어. 늘 큰소리나 치고 본말전도하고는 하지. 내가 자넬 만나준 건 자네한테 경고하고 싶어서야……
 
 [name="汉密尔顿上校"]不懂的事情少插手。
+[name="ハミルトン大佐"]事情も知らずに手を出すな、とな。
+[name="Colonel Hamilton"]Don't interfere in things beyond your ken.
+[name="해밀턴 대령"]모르는 일에는 참견하지 말게!
 
 [name="号角"]抱歉，我不能同意。
+[name="ホルン"]申し訳ありませんが、同意いたしかねます。
+[name="Horn"]I'm sorry, I cannot agree to that.
+[name="혼"]죄송합니다. 그 말씀에는 동의할 수 없군요.
 
 [name="号角"]我们收到的命令就是要查清失窃源石制品的下落。
+[name="ホルン"]我々が受けた命令はあくまで、盗まれた源石製品の行方を明らかにすることですので。
+[name="Horn"]The orders we received were to ascertain the lost Originium products' whereabouts.
+[name="혼"]우리가 받은 명령은 도난당한 오리지늄 제품의 행방을 조사하는 겁니다.
 
 [name="汉密尔顿上校"]如果你好好地在该待的地方待着，过不了多久，你就能完成你的任务，风风光光地回到伦蒂尼姆。
+[name="ハミルトン大佐"]大人しく在るべき場所に留まるのなら、君はすぐにでもその任を終え……大手を振ってロンディニウムへと帰ることができるだろう。
+[name="Colonel Hamilton"]If you just stay still and wait where you ought to, then before long, you may accomplish your duty and return to Londinium with all the ostentation you'd like.
+[name="해밀턴 대령"]자네가 있어야 할 곳에 얌전히 잘 있으면, 얼마 지나지 않아 자네는 임무를 완수하고 폼 나게 런디니움으로 돌아갈 수 있을 걸세.
 
 [name="号角"]您说的风光，我不需要，维多利亚更不需要。
+[name="ホルン"]結構です。そのような形での帰還など、私自身にもヴィクトリアにも必要ありません。
+[name="Horn"]I don't need that ostentation of yours, and Victoria needs it even less.
+[name="혼"]대령님이 말한 그 폼, 전 필요 없습니다. 빅토리아는 더더욱 필요 없고요.
 
 [name="号角"]我不习惯用未经审判就匆匆砍下来的人头交差。
+[name="ホルン"]何しろ、裁判もせずにはねられた首のことをどう報告すべきなのか――私にはわかりかねますもので。
+[name="Horn"]I'm not in the routine of reporting back with a hurriedly lopped-off head, sans trial.
+[name="혼"]저는 심판을 거치지 않고 황급히 목을 베어버리고 임무 보고를 하는 것에 대해서는 익숙지 않습니다.
 
 [name="汉密尔顿上校"]哈哈！你在说我草菅人命——你以为那些人真是无辜的？多么可笑！
+[name="ハミルトン大佐"]ハハハッ！　君は私が平然と人を殺していると思っているのか？　――まさか、あの連中はまったくの無実だとでも？　笑わせてくれる！
+[name="Colonel Hamilton"]Hahah! You're telling me I've a disregard for human life—and you believe those people are truly innocent? How ridiculous!
+[name="해밀턴 대령"]하하! 자넨 지금 내가 사람을 함부로 죽였다고 말하고 있군…… 자네 생각에 그 사람들이 진짜 무고한 것 같은가? 참 웃기는군!
 
 [name="汉密尔顿上校"]就在十天前，我们有三名士兵被残忍地杀害。詹姆斯·科恩，罗伯特·鲍里斯，杰瑞米·布朗。
+[name="ハミルトン大佐"]ならば聞かせてやろう。十日前のことだ、うちの兵士が無残に殺害された。ジェームズ・コーエン、ロバート・ボリス、ジェレミー・ブラウンの三名だ。
+[name="Colonel Hamilton"]Just ten days ago, three of our soldiers were murdered in cold blood. James Cohen, Robert Boris, and Jeremy Brown.
+[name="해밀턴 대령"]열흘 전 제임스 코언, 로버트 보리스, 제러미 브라운, 이 세 명의 우리 병사가 잔인하게 살해당했네.
 
 [name="汉密尔顿上校"]科恩的妻子写信告诉他自己怀上第二个孩子的时候，她还不知道她丈夫的脑袋上已经多了一个血肉模糊的洞。
+[name="ハミルトン大佐"]コーエンの妻が、第二子を身ごもったと手紙に書いて寄越した時、まさか夫の頭に穴が空き、血が溢れ出していたことなど、彼女は知る由もなかっただろう。
+[name="Colonel Hamilton"]When Cohen's wife wrote to tell him she was with a second child, she had no idea that her husband had had a hole gruesomely blown in his head.
+[name="해밀턴 대령"]코언의 아내는 코언한테 둘째를 임신했다고 편지를 썼어. 그때만 해도 남편의 피투성이가 된 머리에 구멍이 났다는 걸 몰랐었지.
 
 [name="汉密尔顿上校"]鲍里斯下半年就能离开这个地方，他说退役之后要回去继承家里的布料生意。
+[name="ハミルトン大佐"]ボリスの方は、今年の下半期にはこの地を離れられるはずだった。退役後は家に戻って、織物業を継ぐと言っていたんだがな。
+[name="Colonel Hamilton"]Boris could've left this place once midsummer passed. He mentioned he'd go back to continue his family's clothiers after his retirement.
+[name="해밀턴 대령"]보리스는 하반기면 이곳을 떠날 수 있었네. 그는 전역 후에 가문의 옷감 장사를 물려받으러 가겠다고 했었지.
 
 [name="汉密尔顿上校"]还有布朗，他一年前还是个聪敏的学生，死的时候甚至不到二十！
+[name="ハミルトン大佐"]そして、ブラウン――ほんの一年前まで聡明な学生だった彼は、まだ二十歳にもなっていなかった！
+[name="Colonel Hamilton"]And Brown, he was a bright young student just a year ago, and not even twenty when he died!
+[name="해밀턴 대령"]그리고 브라운은 1년 전까지만 해도 총명한 학생이었는데, 스무 살도 안 되어 죽임을 당하고 말았네!
 
 [name="号角"]我对他们的牺牲深表惋惜。
+[name="ホルン"]……彼らの犠牲に、深い哀悼の意を表します。
+[name="Horn"]I give my profound regrets for their sacrifice.
+[name="혼"]그분들의 희생에 심심한 애도의 뜻을 표합니다.
 
 [name="汉密尔顿上校"]惋惜！哈，多么轻飘飘的辞令，就像从你嘴里说出来的每一句话。
+[name="ハミルトン大佐"]哀悼の意！　ハッ、随分と軽く言ってくれるな。どうやら、君の口からは薄っぺらい言葉しか出てこないらしい。
+[name="Colonel Hamilton"]Regrets! Hah, what weightless rhetoric, just like every word that wafts out of your mouth.
+[name="해밀턴 대령"]애도의 뜻이라고!? 하, 이 얼마나 경망스러운 말인가. 자네 입에서 나오는 한마디 한마디가 모두 다 그렇다네.
 
 [name="号角"]这就是为什么我们都想抓住凶手。上校，在这件事上，我们的立场始终一致。
+[name="ホルン"]……この事件の全貌を暴くという目的のもと、我々は常に立場を同じくしているのではないのですか？　大佐。
+[name="Horn"]This is exactly why all of us want to catch hold of the assassinators. Colonel, on this matter, we have held unanimous positions throughout.
+[name="혼"]이게 바로 우리 모두 범인을 잡으려는 이유입니다. 대령님, 이 사건에 대한 우리의 입장은 항상 일치합니다.
 
 [name="汉密尔顿上校"]杀害他们的人就是这群塔拉渣滓。我们已经揪出来了两个，但我知道背后还藏着更多个。
+[name="ハミルトン大佐"]フンッ……彼らを殺害したのは、あのターラーのクズどもで間違いない。そして、我々は既に二名を摘発したが、これまでの被害を鑑みれば、決してそれがすべてではないだろう。
+[name="Colonel Hamilton"]No one else but that Tara rabble killed them. We've uncovered two already, but I know there are still more tucked in the background.
+[name="해밀턴 대령"]그들을 살해한 자는 바로 타라의 쓰레기들이야. 우린 이미 두 사람을 잡아냈지. 하지만 배후에 더 많은 사람이 숨어 있다는 걸 알아.
 
 [name="汉密尔顿上校"]十五天前，我们的军营有三处同时遭到了爆炸物袭击，十五名士兵牺牲。炸开的洞和我们人的血到现在都还在原地。
+[name="ハミルトン大佐"]例えば十五日前――我々の兵営三箇所で、同時に爆発物による襲撃を受け、十五名の兵士が犠牲になった。爆発によって空いた穴と被害者たちの血痕は、今もなお残されたままだ。
+[name="Colonel Hamilton"]Fifteen days ago, our barracks suffered an explosive attack at three simultaneous places. An according fifteen soldiers lost their lives. The craters and the spilled blood of our own still lie where they were.
+[name="해밀턴 대령"]보름 전, 우리 캠프는 세 군데서 동시에 폭발물 습격을 받아 열다섯 명의 병사가 희생했네. 폭발로 난 구멍과 우리 사람들의 피가 지금도 그 자리에 그대로 있어.
 
 [name="汉密尔顿上校"]二十一天前，我们的补给运输队在北郊物流区外遇到埋伏，一整支队伍连同货物全部不翼而飞。你觉得他们还有活着的可能吗？
+[name="ハミルトン大佐"]そして、二十一日前には、我々の補給品輸送部隊が北部郊外の物流エリア外で待ち伏せに遭い、部隊全員が貨物ごと行方不明となる事件も起きた。彼らの生存に、希望が持てると思うか？
+[name="Colonel Hamilton"]Twenty-one days ago, our resupply transport group were ambushed outside the distribution sector in the outskirts north, and the whole detachment together with their goods disappeared without a trace. Do you feel there is any possibility they would still be alive?
+[name="해밀턴 대령"]21일 전 우리의 보급 수송대가 북쪽 교외의 물류 구역 밖에서 매복을 당했는데, 부대 전체가 화물과 함께 날아가 버렸어. 자네 생각에 그들이 아직 살아 있을 것 같은가?
 
 [name="汉密尔顿上校"]这还只是近一个月里发生的事，你对我们长久以来承受的损失一无所知。
+[name="ハミルトン大佐"]今話したものは、すべてここ一ヶ月の出来事に過ぎない。君は、これまで長きにわたって我々が受けてきた損失を、何一つ知りはしないのだ。
+[name="Colonel Hamilton"]This is only the last month's events, to boot. You know nothing at all of the losses we've long since endured.
+[name="해밀턴 대령"]이건 고작 한 달 안에 발생한 일들이야. 자넨 우리가 장기간 입은 손실에 대해 아무것도 몰라.
 
 [name="号角"]您说的这些事件，听起来都很像是鬼魂部队所为。
+[name="ホルン"]ですが――今大佐がお話しくださった事件は、すべて亡霊部隊の犯行であるように聞こえます。
+[name="Horn"]These incidents you mention all sound very in line with the spectre force's MO.
+[name="혼"]대령님이 말한 이 사건들은 귀혼대가 한 짓인 것 같습니다.
 
 [name="号角"]在过去半年内，伦蒂尼姆陆陆续续收到了来自十余个郡的报告，记录了多达上百起的谋杀、抢劫、破坏案件。
+[name="ホルン"]この半年間で、ロンディニウムは十以上の郡から報告を受け、数百にも上る殺人、強盗、損壊事件を記録してきました。
+[name="Horn"]In the past half a year, Londinium has continually received reports from more than ten different counties, logging up to hundreds of homicide, looting and property damage cases.
+[name="혼"]지난 반년 동안, 런디니움에서 열몇 개 도시로부터 잇따라 보고를 받았는데, 백 여건에 달하는 살해, 강도, 파괴 사건이 기록되어 있었습니다.
 
 [name="号角"]他们每次犯案之后都会很快隐匿行踪，所有见过他们的相关人员都会在与我们接触之前就遭到暗杀。
+[name="ホルン"]その犯人たちは、いずれの事件においても犯行後はすぐに行方をくらましており、また、彼らを目撃した関係者はすべて、我々が接触する前に殺害されています。
+[name="Horn"]After every offence, they swiftly conceal their tracks, and all connected personnel who've seen them are caught in assassinations before they can contact us.
+[name="혼"]그들은 매번 범행을 저지르고는 곧바로 자취를 감추었습니다. 그들을 만났던 모든 관계자는 우리와 접촉하기도 전에 암살당했ㄱㅎ요.
 
 [name="号角"]到目前为止我们能得到的情报还很少。
+[name="ホルン"]そのため、これまでに得られた情報はごくわずかなものです。
+[name="Horn"]We've been able to obtain exceedingly little information so far.
+[name="혼"]지금까지 우리가 입수한 정보는 극히 일부입니다.
 
 [name="号角"]这就是为何眼前的线索至关重要。
+[name="ホルン"]だからこそ、今目の前にある手がかりは極めて重要なのです。
+[name="Horn"]That is why the lead before us is so crucial.
+[name="혼"]그리고 이것이 바로 눈앞의 단서가 중요한 이유고요.
 
 [name="号角"]我们还不知道鬼魂部队在小丘郡出没的目的，但我相信他们是我们共同的敌人。
+[name="ホルン"]亡霊部隊がヒロック郡に出没した目的はわかっていませんが、奴らが私たちにとって共通の敵であることは確かでしょう。
+[name="Horn"]We still don't know the spectre force's goal in haunting County Hillock, but I believe that they are our mutual enemy.
+[name="혼"]우리는 아직 귀혼대가 힐록 카운티에 나타난 목적을 알지 못합니다. 하지만, 그들이 우리의 공공의 적이란 건 분명합니다.
 
 [name="号角"]上校，如果我们能和驻军合作，在这里揭开鬼魂部队的真面目，这对小丘郡和维多利亚来说都大有裨益。
+[name="ホルン"]我々が駐屯軍と連携し、亡霊部隊の正体を明らかにすることができれば――それは、ヒロック郡とヴィクトリアにとって大きな利益となるはずです。
+[name="Horn"]Colonel, if we and the barracks can cooperate, and uncover the spectre force here, it'll be of great benefit to County Hillock and Victoria as a whole.
+[name="혼"]대령님, 만약 우리가 주둔군과 협력하여 여기서 귀혼대의 진상을 까밝힐 수만 있다면, 힐록 카운티와 빅토리아 모두에 큰 도움이 될 겁니다.
 
 [name="汉密尔顿上校"]呵，你还是一点都不明白。你把眼前的惨剧当成一个能够为你赢来又一枚奖章的案件。
+[name="ハミルトン大佐"]フン。やはり何も理解していないようだな。目の前で起きるこの惨劇を、勲章稼ぎの一事件として捉えているのだろう。
+[name="Colonel Hamilton"]Hmph. You still understand nothing at all. You treat the atrocities before you as just another case to win you a medal.
+[name="해밀턴 대령"]허, 역시 자넨 아무것도 몰라. 자넨 눈앞에 벌어진 참극을 자네에게 또 하나의 훈장을 안겨줄 수 있는 사건으로만 여기고 있어.
 
 [name="汉密尔顿上校"]但你错了，士兵，这不是案件，也不存在什么真正的犯人。这是战争，是我们和他们之间，已经持续了几十年、甚至上百年的战争。
+[name="ハミルトン大佐"]だが、それは大きな間違いだ。――いいかね。これは「事件」ではなく、「戦争」だ。ゆえに本当の犯人など存在しない。我々と連中との間で、数十年、数百年と続いてきた戦争なのだよ。
+[name="Colonel Hamilton"]But you're wrong, soldier. This is not some case, and no such true culprit exists. This is a war, and it is between us and them, a war ongoing for decades, even for centuries.
+[name="해밀턴 대령"]하지만 자넨 틀렸어. 병사, 이건 사건이 아니야. 진범 같은 것도 존재하지 않아. 이건 전쟁이야, 우리와 그들 간에, 몇십 년, 심지어 백여 년간 지속해 온 전쟁이란 말일세.
 
 [name="汉密尔顿上校"]你叫他们鬼魂部队，可你知道这个名字意味着什么？
+[name="ハミルトン大佐"]君は連中を「亡霊部隊」などと呼んでいるようだが、その名の意味するところを理解しているのか？
+[name="Colonel Hamilton"]You call them a spectre force, but do you know what that name signifies?
+[name="해밀턴 대령"]자네가 말하는 그 귀혼대, 그런데 그 이름이 무엇을 뜻하는지는 알고 부르는 겐가?
 
 [name="汉密尔顿上校"]你当我们一直以来面对的敌人是谁？
+[name="ハミルトン大佐"]我々が向き合い続けてきた敵を、一体何だと思っている？
+[name="Colonel Hamilton"]Who is the enemy we've been confronting all this time? Well?
+[name="해밀턴 대령"]자넨 우리가 지금까지 마주한 적이 누구라고 생각하나?
 
 [name="汉密尔顿上校"]是鬼魂！是漂浮在这座城市上空、回荡在愚蠢的塔拉人脑袋里的，阴魂不散的幽灵！
+[name="ハミルトン大佐"]私に言わせれば――あれこそまさに「亡霊」だ！　この都市の上空を漂い、愚かなターラー人どもの頭の中で囁き続ける――消えない過去の亡霊！
+[name="Colonel Hamilton"]It's a ghost! It's a phantom drifting over this city, an apparition that echoes in the heads of Taran morons, it is a life-in-spirit ghost!
+[name="해밀턴 대령"]바로 귀혼이야! 이 도시의 상공에 떠 있는, 미련한 타라인의 머릿속을 맴도는, 사라지지 않는 유령이란 말일세!
 
 [name="汉密尔顿上校"]那个幽灵说着和我们不一样的语言，歪曲着我们的祖先用双手创造的历史，妄想着有一天借着我们城市的躯壳还魂！
+[name="ハミルトン大佐"]その亡霊は我々とは違う言語を話し、我々の祖先がその手で築き上げてきた歴史を歪めている……その上いつの日か、我々の都市を用いて蘇ろうと夢見ているというわけだ！
+[name="Colonel Hamilton"]And that spectre speaks a different language to us, willfully distorts the history molded by our ancestors' hands, has delusions that by the body of our city it will one day return to life!
+[name="해밀턴 대령"]그 유령들은 우리와 다른 언어를 사용하면서 우리의 선조가 두 손으로 일궈낸 역사를 왜곡시키고, 언젠가 우리 도시를 통해 부활을 꿈꾸고 있지!
 
 [name="号角"]......你是说当地居民里有大量鬼魂部队的支持者？
+[name="ホルン"]……つまり、地元住民の中には亡霊部隊の支持者が大量に存在する……と？
+[name="Horn"]Are you saying that a great amount of the local populace are supporters of the spectre force?
+[name="혼"]……현지 주민 중에 대량의 귀혼대 지지자가 있다는 말입니까?
 
 [name="汉密尔顿上校"]大量？支持者？不，你错了。他们是一个整体。
+[name="ハミルトン大佐"]「支持者」が「大量に」？　いいや、違うな。連中のすべてが、亡霊そのものなのだよ。
+[name="Colonel Hamilton"]Great amount? Supporters? No, you're mistaken. They are one single whole.
+[name="해밀턴 대령"]대량? 지지자? 아니, 그런 게 아닐세. 그들은 한통속이야.
 
 [name="汉密尔顿上校"]你看到这本诗集了吗？
+[name="ハミルトン大佐"]見たまえ。君はこの詩集を読んだことがあるか？
+[name="Colonel Hamilton"]Have you ever read this anthology of poetry?
+[name="해밀턴 대령"]자네, 이 시집을 읽어 본 적 있나?
 
 [name="号角"]西莫·威廉姆斯，他的诗在伦蒂尼姆也有些名气。
+[name="ホルン"]シェイマス・ウィリアムズですね。彼の詩は、ロンディニウムでもそれなりに知られていますよ。
+[name="Horn"]Seamus Williams. His poems have some fame in Londinium too.
+[name="혼"]셰이머스 윌리엄스, 이 사람이 쓴 시는 런디니움에서도 꽤 유명합니다.
 
 [name="汉密尔顿上校"]这就是他们编纂出来的关于维多利亚的谎话。在他们的描绘里，他们有着自己的语言，是这片土地天生的主人。
+[name="ハミルトン大佐"]だがこれは、ヴィクトリアに関する嘘ばかりをまとめ上げた本だ。ここには、奴らについてこう書かれている――「彼ら自身の言語を持った、この土地における生来の主人」。
+[name="Colonel Hamilton"]This is their very compilation of bare-faced lies about Victoria. In their depictions, they have their own language; they are this land's natural owners.
+[name="해밀턴 대령"]이게 바로 놈들이 지어낸 빅토리아에 대한 거짓말일세. 그들은 자신들만의 언어가 있고, 이 땅의 태생적인 주인인 것처럼 묘사해 놓았지.
 
 [name="号角"]维多利亚尚能包容来自不同文化背景的创作者的想法。
+[name="ホルン"]ヴィクトリアには、様々な文化的背景を持つ創作者の思想を許容する懐の深さがありますので。
+[name="Horn"]Still, Victoria can tolerate the mindsets of authors who come from differing cultural backgrounds.
+[name="혼"]빅토리아는 문화 배경이 다른 창작자의 생각을 수용할 수 있습니다.
 
 [name="汉密尔顿上校"]没人会把做梦的人说的梦话当真，除非他在梦中拿起了斧子，想要把我们的脑袋砍下来。
+[name="ハミルトン大佐"]確かに、夢想家が何を言ったところで、真剣に聞く者などいないだろう。だが、彼が白昼夢の中で斧を持ち、我々の頭を斬り落とそうとするのなら話は別だ。
+[name="Colonel Hamilton"]No one would assume a dreamer's fantasy as their truth. Not unless that dream mentioned taking up a hatchet. Not unless it was about wanting to cut our heads off.
+[name="해밀턴 대령"]꿈꾼 사람의 잠꼬대를 곧이곧대로 받아들이는 사람은 없어. 하지만 꿈에 누군가가 도끼를 들고 우리 머리를 자르려고 한다면 그땐 얘기가 달라지지.
 
 [name="汉密尔顿上校"]我留着这本痴人呓语，是为了让上面的血迹时刻提醒我自己——
+[name="ハミルトン大佐"]私がこんな馬鹿げた寝言の書かれた本を手元に残しているのは、その表紙に残された血痕によって、記憶すべき事実をいつ何時も忘れぬように己に言い聞かすためでしかない。
+[name="Colonel Hamilton"]I still keep this book of an idiot's sleeptalk so that the bloodstains upon it always remind me—
+[name="해밀턴 대령"]내가 이 엉터리 같은 책을 남겨둔 이유는, 이 위에 남겨진 핏자국을 보면서 항상 나 자신을 일깨워 주기 위해서네……
 
 [name="汉密尔顿上校"]如果一个人生在维多利亚的土地上，却不愿意用维多利亚语通报自己的名字，那他就不再是维多利亚人，而是威胁着帝国安危的敌人！
+[name="ハミルトン大佐"]ヴィクトリアの地に生まれておきながら、ヴィクトリア語で名乗ることを望まないなどと言うのなら――そいつはもはやヴィクトリア人ではなく、帝国を脅かす敵なのだ！
+[name="Colonel Hamilton"]If one lives on Victoria's land, yet refuses to give one's own name in Victorian, then one is no longer a Victorian, but an enemy and a menace to this country's safety!
+[name="해밀턴 대령"]빅토리아 땅에서 태어나, 빅토리아 언어로 자신의 이름을 알리려 하지 않는다면 그 사람은 더 이상 빅토리아 사람이 아니라, 제국의 안위를 위협하는 적일 뿐이네!
 
 [name="号角"]你......你处决了这本诗集的持有者？就因为他......
+[name="ホルン"]ま……まさかあなたは、その詩集の持ち主を処刑したのですか？　その人がただ……
+[name="Horn"]You... you executed the holder of this anthology? Simply because they...
+[name="혼"]대령님…… 혹시 이 시집을 보유하고 있는 자를 처형했습니까? 단지 그가……
 
 [name="维多利亚士兵"]报告！
+[name="ヴィクトリア兵"]ご報告します！
+[name="Victorian Soldier"]Reporting in!
+[name="빅토리아 병사"]보고드립니다!
 
 [name="汉密尔顿上校"]说。
+[name="ハミルトン大佐"]――何だ。
+[name="Colonel Hamilton"]Speak.
+[name="해밀턴 대령"]말해.
 
 [name="维多利亚士兵"]刚才受到袭击的第九防卫队和第十三防卫队和指挥中心彻底失联。
+[name="ヴィクトリア兵"]先ほど襲撃された第九防衛隊、及び第十三防衛隊ですが――司令部との連絡が完全に途絶しました。
+[name="Victorian Soldier"]Command has lost contact with 9th Defence and 13th Defence after they were attacked.
+[name="빅토리아 병사"]방금 습격을 당한 제9 방위대와 제13 방위대의 지휘 센터와 연락이 완전히 끊겼습니다.
 
 [name="维多利亚士兵"]第五、第七和第十防卫队各自派了先锋赶到现场，他们没有发现敌人的踪迹。
+[name="ヴィクトリア兵"]そのため、第五、第七、第十防衛隊から、それぞれ先鋒要員を現場に送りましたが、敵の痕跡は発見できませんでした。
+[name="Victorian Soldier"]5th, 7th and 10th Defence each sent vanguards ASAP to the scene, and did not find traces of the enemy.
+[name="빅토리아 병사"]제5, 제7, 제10 방위대에서 각각 현장에 선발대를 파견했는데, 적의 흔적을 발견하지 못했다고 합니다.
 
 [name="汉密尔顿上校"]我们的人呢？
+[name="ハミルトン大佐"]こちらの被害は？
+[name="Colonel Hamilton"]What of our own?
+[name="해밀턴 대령"]우리 쪽 사람들은?
 
 [name="维多利亚士兵"]......全部牺牲。
+[name="ヴィクトリア兵"]……全部隊員が、犠牲になったとのことです。
+[name="Victorian Soldier"]They... gave their lives.
+[name="빅토리아 병사"]……전원 전사했습니다.
 
 [name="汉密尔顿上校"]——
+[name="ハミルトン大佐"]――
+[name="Colonel Hamilton"]—
+[name="해밀턴 대령"]……
 
 [name="汉密尔顿上校"]你听到了吗，斯卡曼德罗斯？
+[name="ハミルトン大佐"]聞いたか？　スカマンドロス。
+[name="Colonel Hamilton"]Did you hear that, Skamandros?
+[name="해밀턴 대령"]들었나, 스카만드로스?
 
 [name="汉密尔顿上校"]就在你跟我说这些同情敌人的废话的同时，我们又有一批优秀的士兵死在了他们手上！
+[name="ハミルトン大佐"]君が敵などに同情し、くだらんお喋りをしていた間にも、我々はまた優秀な兵士を失ったのだ！　他ならぬ連中の手によってな！
+[name="Colonel Hamilton"]Right as you were seeing fit to tell me sympathetic rubbish to the enemy, we once again saw outstanding soldiers die at their hands!
+[name="해밀턴 대령"]자네가 내게 적들을 동정하는 쓸데없는 소리를 하는 동안, 우리의 훌륭한 병사들이 또 그들 손에 죽임을 당했네!
 
 [name="汉密尔顿上校"]听懂了就请滚出我的办公室，还有真正的工作等着我去做。
+[name="ハミルトン大佐"]わかったら、執務室から出て行ってくれ。本当にやるべき仕事が私を待っているのでね。
+[name="Colonel Hamilton"]If that's gotten through your head, then kindly eject yourself from my office. I still have genuine work awaiting me.
+[name="해밀턴 대령"]알아들었으면 이젠 내 사무실에서 나가 주게, 나는 이제 진짜로 업무를 봐야 하니깐.
 
 [name="号角"]......
+[name="ホルン"]……
+[name="Horn"]......
+[name="혼"]……
 
 [name="号角"]好，正好，我也有我的工作要做。
+[name="ホルン"]ええ、そうさせていただきます。私にも、やるべきことがありますので。
+[name="Horn"]Fine. Very fine. I have my own work to do too.
+[name="혼"]네, 마침 저도 해야 할 업무가 있거든요.
 

@@ -35,7 +35,7 @@
 
 [name="Ace"]   阿米娅，Dr.{@nickname}！快！
 [name="Ace"]   アーミヤ、Dr.{@nickname}！　急げ！
-[name="Ace"]   Amiya, Dr {@nickname}! Quick!
+[name="Ace"]   Amiya, Dr. {@nickname}! Quick!
 [name="에이스"]   아미야, {@nickname} 박사! 서둘러라!
 
 [name="杜宾"]  这里也不安全。
@@ -65,7 +65,7 @@
 
 [name="Ace"]  Dr.{@nickname}，请下命令吧。
 [name="Ace"]  Dr.{@nickname}、命令を。
-[name="Ace"]  Dr {@nickname}, please give us your orders.
+[name="Ace"]  Dr. {@nickname}, please give us your orders.
 [name="에이스"]  {@nickname} 박사, 명령을 내려줘.
 
 [name="Ace"]  就像以前那样。
@@ -150,7 +150,7 @@
 
 [name="Ace"]   Dr.{@nickname}，请下命令吧。
 [name="Ace"]   Dr.{@nickname}、さあ、命令を。
-[name="Ace"]   Dr {@nickname}, please give us your orders.
+[name="Ace"]   Dr. {@nickname}, please give us your orders.
 [name="에이스"]   그럼 {@nickname} 박사, 명령을 내려줘.
 
 [name="整合运动成员"]   放，把那些畜生放出来，让他们尝尝被撕咬的滋味！
@@ -245,6 +245,6 @@
 
 [name="Ace"]   Dr.{@nickname}，请你，指挥罗德岛。
 [name="Ace"]   Dr.{@nickname}、ロドスの指揮を頼む。
-[name="Ace"]   Dr {@nickname}, please command Rhodes Island.
+[name="Ace"]   Dr. {@nickname}, please command Rhodes Island.
 [name="에이스"]   {@nickname} 박사, 로도스 아일랜드의 지휘를 부탁한다.
 

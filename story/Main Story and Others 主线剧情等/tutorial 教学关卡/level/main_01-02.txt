@@ -10,7 +10,7 @@
 
 [name=""]   Dr.{@nickname}营救行动 第三阶段
 [name=""]   Dr.{@nickname}救出作戦 第三段階
-[name=""]   Dr {@nickname} Rescue Operation  Phase III
+[name=""]   Dr. {@nickname} Rescue Operation  Phase III
 [name=""]   {@nickname} 박사 구출작전 제3단계
 
 [PopupDialog(dialogHead="$avatar_fang")] 啧，前面又出现了一波敌人！但是阿米娅她们还没到，我们还是需要继续守住这个集合点。
@@ -25,7 +25,7 @@
 
 [PopupDialog(dialogHead="$avatar_beagle")] 没事的，杰西卡！他们一定能救出Dr.{@nickname}的。
 [PopupDialog(dialogHead="$avatar_beagle")] 大丈夫だよ、ジェシカちゃん！皆さんならきっと無事にDr.{@nickname}を助け出せるって。
-[PopupDialog(dialogHead="$avatar_beagle")] Don't worry, Jessica! I'm sure they can rescue Dr {@nickname}.
+[PopupDialog(dialogHead="$avatar_beagle")] Don't worry, Jessica! I'm sure they can rescue Dr. {@nickname}.
 [PopupDialog(dialogHead="$avatar_beagle")] 괜찮아 제시카! 분명 {@nickname} 박사님을 구해올 거야!
 
 [PopupDialog(dialogHead="$avatar_fang", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \

@@ -1,0 +1,15 @@
+[PopupDialog(dialogHead="$avatar_takila")] 在多索雷斯，可以通过改造装备或者添加配件来更好地在这里行动。
+[PopupDialog(dialogHead="$avatar_takila")] ドッソレスでは、装備を改造したり、パーツを追加したりして、カスタマイズすることでより有利に立ち回ることができるんだ。
+[PopupDialog(dialogHead="$avatar_takila")] In Dossoles, you can modify your equipment or add parts to better suit the operation.
+[PopupDialog(dialogHead="$avatar_takila")] 도솔레스에서는 장비를 개조하거나 부품을 장착하면 작전이 더 수월해져.
+
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 之所以做成<@tu.kw>标志物</>形式是为了方便辨识，一种标志对应一种装配，收集标志物可以进行对应的装配，是这两年才兴起的一种风潮。
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] ちなみに、<@tu.kw>ラベル</>の形にしてあるのは識別しやすくするためだよ。これはここ二年の流行でさ……ラベル一枚ごとにカスタマイズ一種類に対応してるから、ラベルを集めれば選択肢も増える、って仕組みなんだ。
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] It's been put into the <@tu.kw>Sticker</> form for easy recognition. One label matches up to one kind of component, so collect Stickers to work with their corresponding components. It's a fad that only took off in the last two years.
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 이런 부품을 <@tu.kw>스티커</> 형식으로 만든 이유는 쉽게 구분하기 위해서야. 스티커를 장착하면 특별한 <@tu.kw>효과</>를 얻을 수 있는데, 이게 요즘 트렌드라 그러더라고.
+
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 各种改装或者配件有什么具体功效可以询问我，也可以在手机上查询，有专门的网站收录这些。
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] そうそう、各種カスタマイズの具体的な効果が気になる時はいつでも俺に聞いて。それと、同じくらい詳しい専門サイトもあるから、携帯で調べることもできるよ。
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] You can ask me about specific effects the modifications and parts have, and you can also look them up on your phone—there's a website that records this stuff.
+[PopupDialog(dialogHead="$avatar_takila", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 스티커의 자세한 효과는 나한테 물어봐. 휴대폰 있지? 공식 홈페이지 가서 직접 검색해 봐도 되고.
+

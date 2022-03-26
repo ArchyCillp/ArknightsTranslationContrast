@@ -1,10 +1,25 @@
 [PopupDialog(dialogHead="$avatar_npc012")] 报告，我们已经在第一处【据点】驻守成功。根据观察，在驻守成功后，场地氛围发生了一定改变，之后也可以据此确认驻守是否成功。
+[PopupDialog(dialogHead="$avatar_npc012")] 報告。最初の【拠点】で【防衛】状態への移行に成功した。周囲を観察してみたが、成功後、会場の雰囲気が変化している。今後も、この変化に基づいて【防衛】状態の確認が取れそうだ。
+[PopupDialog(dialogHead="$avatar_npc012")] Report. We have successfully garrisoned at the first 'Post.' Our observation shows there has been a change in the atmosphere of the area. We can use this to confirm whether the garrison is successful or not.
+[PopupDialog(dialogHead="$avatar_npc012")] 보고한다. 첫 번째 【거점】 주둔에 성공했다. 우리가 관찰한 바에 따르면 주둔 후 현장 분위기가 좀 달라졌다. 이후부턴 현장 분위기에 따라 주둔 성공 여부를 확인하면 될 것 같다.
 
 [PopupDialog(dialogHead="$avatar_npc012")] 原来如此……已经确认【特殊假想敌】到达了【最终试炼场所】。这样，在关卡中应该就可以向敌人发起挑战了。
+[PopupDialog(dialogHead="$avatar_npc012")] なるほどな……【特殊仮想敵】の【最終試練場】への到着を確認。これで、このステージにいる敵に挑めるってわけだ。
+[PopupDialog(dialogHead="$avatar_npc012")] I see... We've confirmed that the 'Special OpFor Unit' has entered the 'Final Proving Ground.' Now we can challenge the enemy forces in the stage.
+[PopupDialog(dialogHead="$avatar_npc012")] 역시…… 【가상의 적】이 【최종 시련 장소】에 도착한 걸 확인했다. 그럼, 이제 스테이지에서 적에게 도전할 수 있겠군.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 嗯。要注意，击败【特殊假想敌】可以获取额外奖励。相应地，进入【最终试炼场所】时，理智的消耗也会提升。
+[PopupDialog(dialogHead="$avatar_doberm")] ああ。注意点として、【特殊仮想敵】を倒すことで追加の報酬を得られるシステムであることを忘れないように。また、敵の追加に応じて、【最終試練場】への入場時には理性の消費量も増加するので、そちらも留意しろ。
+[PopupDialog(dialogHead="$avatar_doberm")] Right. One thing I need to point out is that while defeating 'Special OpFor Units' will earn you extra rewards, the amount of Sanity depleted while entering the 'Final Proving Ground' will also go up.
+[PopupDialog(dialogHead="$avatar_doberm")] 맞아. 그리고, 주의할 점은 【가상의 적】을 처치하면 추가 보상을 받을 수 있어. 더불어, 【최종 시련 장소】의 이성도 추가로 소모된다.
 
 [PopupDialog(dialogHead="$avatar_npc012")] 了解。
+[PopupDialog(dialogHead="$avatar_npc012")] 了解。
+[PopupDialog(dialogHead="$avatar_npc012")] Understood.
+[PopupDialog(dialogHead="$avatar_npc012")] 알겠다.
 
 [PopupDialog(dialogHead="$avatar_doberm")] 我没有什么别的好提醒的了。博士，接下来不论是直接开始挑战，亦或是去更多据点进行驻守。联锁竞赛的中的作战指挥，便全权交给你了。
+[PopupDialog(dialogHead="$avatar_doberm")] 私から伝えるべきことは以上だ。ドクター、以降はすぐさま挑戦を開始するも、より多くの拠点を防衛させるも、そちらの判断に任せる。連鎖競技の作戦指揮は、その全権がドクターに委ねられているからな。
+[PopupDialog(dialogHead="$avatar_doberm")] I have no more advice for you. Doctor, whether you choose to begin the challenge right away or garrison at more Posts, I will leave our command during the Interlocking Competition to you.
+[PopupDialog(dialogHead="$avatar_doberm")] 내가 알려줄 수 있는 내용은 여기까지다. 박사, 바로 도전을 시작하든, 아니면 더 많은 거점에 주둔하든, 이제부터 인터락킹 컴페티션의 작전 지휘는 전적으로 너에게 맡긴다.
 

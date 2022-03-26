@@ -1,702 +1,1755 @@
 罗德岛本舰
+ロドス本艦
+Rhodes Island Landship
+로도스 아일랜드 본함
 
 宿舍区 嘉维尔的宿舍前
+宿舎エリア ガヴィルの宿舎前
+Dormitories, outside Gavial's room
+숙소 구역, 가비알의 숙소 앞
 
 [name="特米米"]早上好嘉维尔，该起床了。
+[name="トミミ"]ガヴィルさん、おはようございます。起きる時間ですよ。
+[name="Tomimi"]Good morning, Gavial, it's time to get up.
+[name="토미미"]좋은 아침이에요, 가비알 씨. 일어날 시간이에요.
 
+......
+......
+......
 ......
 
 [name="特米米"]（不在......）
+[name="トミミ"]（いない……）
+[name="Tomimi"](She's not here...)
+[name="토미미"](없네요……)
 
 [name="特米米"]（好奇怪啊，嘉维尔今天起那么早吗？）
+[name="トミミ"]（おかしいなぁ、ガヴィルさんは早起きしたのかな？）
+[name="Tomimi"](That's really weird. Did Gavial wake up early today?)
+[name="토미미"](이상하네요, 가비알 씨가 이렇게 일찍 일어났다고요?)
 
 [name="特米米"]（还是去食堂看看吧，说不定已经在吃早饭了呢。）
+[name="トミミ"]（もう朝ごはんを食べてるのかも。食堂へ行ってみよう。）
+[name="Tomimi"](Maybe she's eating breakfast already. I'll check the cafeteria.)
+[name="토미미"](그렇다면 벌써 아침 식사를 하고 있을지도 모르니깐, 식당에 가봐야겠어요.)
 
 [name="特米米"]（这里也没有嘉维尔......）
+[name="トミミ"]（ここにもいない……）
+[name="Tomimi"](Gavial's not here either...)
+[name="토미미"](여기도 가비알 씨가 없네……)
 
 [name="特米米"]（既不在睡觉，也不在食堂吃饭。）
+[name="トミミ"]（寝てもいないし、ご飯を食べてるわけでもない。）
+[name="Tomimi"](She's not sleeping, and she's not here eating.)
+[name="토미미"](숙소에도 없고 식당에도 없다면……)
 
 [name="特米米"]（可能今天有什么重要的事吧。）
+[name="トミミ"]（今日は何か大事なことでもあるのかも。）
+[name="Tomimi"](She probably had something important to do today.)
+[name="토미미"](오늘 무슨 중요한 일이라도 있는 걸까요?)
 
 [name="特米米"]（她最近应该没有外勤任务，那就只有在医疗部了。）
+[name="トミミ"]（直近で外勤任務はないはずだから、いるとしたら医療部かな。）
+[name="Tomimi"](I don't think she had any field missions coming up, so the only place she can be is Medical.)
+[name="토미미"](요즘 가비알 씨는 외근 임무도 없을 텐데, 그럼 아마 의료부에 있겠네요.)
 
 [name="特米米"]欸，欸？！
+[name="トミミ"]えっ？　どうして！？
+[name="Tomimi"]Whuh—huh?!
+[name="토미미"]네? 뭐라고요?!
 
 [name="特米米"]怎，怎么会这样？！
+[name="トミミ"]そ、そんな！？
+[name="Tomimi"]Wh—what's going on?!
+[name="토미미"]서, 설마요?!
 
 [name="医疗干员"]我也是听同事们聊起才知道的。
+[name="医療オペレーター"]私も同僚が話しているのを聞いて初めて知ったんです。
+[name="Medic Operator"]I only overheard it from my other colleagues.
+[name="메딕 오퍼레이터"]저도 동료들이 하는 얘길 듣고서야 알았어요.
 
 [name="医疗干员"]昨天晚上附近聚居点有份紧急委托，情况还很复杂。
+[name="医療オペレーター"]昨晩、付近の集落から緊急依頼を受けたらしいですが、どうも複雑な状況だったようです。
+[name="Medic Operator"]We had an emergency call last night from a nearby settlement. It's a complex situation.
+[name="메딕 오퍼레이터"]어젯밤, 근처의 마을에서 긴급 의뢰를 받은 것 같습니다만, 아무래도 복잡한 상황이었던 것 같아요.
 
 [name="医疗干员"]为了保证其他干员的安全，需要医疗部派遣一位作战经验和医疗经验同等丰富的干员随行。
+[name="医療オペレーター"]他のオペレーターの安全を確保するため、戦闘と医療の経験がどちらも豊富なオペレーターを派遣しなければいけませんでした。
+[name="Medic Operator"]We had to send out an accompanying Operator with both combat and medical experience to ensure the other operators' safety.
+[name="메딕 오퍼레이터"]다른 오퍼레이터들의 안전을 고려해 의료부에서는 작전 경험과 의료 경험을 모두 갖춘 오퍼레이터 한 명을 파견해야 했대요.
 
 [name="医疗干员"]这样的情况整个医疗部只有嘉维尔最合适了。
+[name="医療オペレーター"]となれば、医療部を見渡しても適任者はガヴィルさんしかいませんから。
+[name="Medic Operator"]And out of the whole department, Gavial's the best fit for times like these.
+[name="메딕 오퍼레이터"]그런 상황이라면, 의료부 전체를 둘러봐도 가비알 씨밖에 적임자가 없잖아요.
 
 [name="医疗干员"]任务真的很急，部署当晚全体承接委托的干员就离开罗德岛了。
+[name="医療オペレーター"]本当に急を要する任務でしたので、昨晩任務を受けたオペレーター全員が、すぐに出発したそうです。
+[name="Medic Operator"]The mission really was urgent. Every Operator who took up the call for deployment headed out right away.
+[name="메딕 오퍼레이터"]워낙 급한 임무라 의뢰받은 오퍼레이터 전원이 어젯밤에 로도스 아일랜드를 떠났어요.
 
 [name="特米米"]这个......怎么会......
+[name="トミミ"]そんな……どうして……
+[name="Tomimi"]Why... what's...
+[name="토미미"]설마……
 
 [name="医疗干员"]她应该给你留了讯息吧，留言、纸条之类的。
+[name="医療オペレーター"]書き置きやメッセージは残されていませんでしたか？
+[name="Medic Operator"]She probably left you something, right? A message, a slip of paper, the sort.
+[name="메딕 오퍼레이터"]혹시 가비알 씨가 남긴 말이 없나요? 메시지라든가, 쪽지라든가.
 
 [name="特米米"]我看看！
+[name="トミミ"]見てみます！
+[name="Tomimi"]Let me look!
+[name="토미미"]한 번 확인해볼게요!
 
 [name="特米米"]（打开通讯终端）
+[name="トミミ"]（通信端末を開く）
+[name="Tomimi"](Turns on comms terminal)
+[name="토미미"](통신 단말기를 켠다)
 
 [name="特米米"]没，没有！
+[name="トミミ"]あ、ありません！
+[name="Tomimi"]N—Nothing!
+[name="토미미"]아, 없어요!
 
 [name="特米米"]怎么会这样......
+[name="トミミ"]そんな……
+[name="Tomimi"]But why...
+[name="토미미"]어떻게 이럴 수가……
 
 [name="特米米"]（离开阿卡胡拉的时候，她，她就没来和我打招呼......）
+[name="トミミ"]（ガ、ガヴィルさんはアカフラを去る時も、挨拶に来てくれなかった……）
+[name="Tomimi"](Ever since we left Acahualla, she—she's never come to say hello...)
+[name="토미미"](아카후알라를 떠날 때도 가, 가비알 씨는 내게 말도 없이 가버리더니……)
 
 [name="特米米"]嘉维尔她不会......不会又要丢下我吧？！
+[name="トミミ"]ガヴィルさんまさか……まさかまた私を置いていったりしないですよね！？
+[name="Tomimi"]Gavial couldn't have... couldn't have abandoned me again, right?!
+[name="토미미"]가비알 씨 설마…… 설마 또 저를 두고 가는 건 아니겠죠?!
 
 [name="医疗干员"]呃，你想多了......
+[name="医療オペレーター"]えっ、考え過ぎですよ……
+[name="Medic Operator"]Er, you're overthinking it...
+[name="메딕 오퍼레이터"]에이, 그럴 리가요……
 
 [name="特米米"]我现在就去帮忙！
+[name="トミミ"]すぐに手伝いに行きます！
+[name="Tomimi"]I'll go help her right now!
+[name="토미미"]그럼 당장 도와주러 가겠어요!
 
 [name="医疗干员"]哎哎哎等等，你怎么去啊，走过去吗？
+[name="医療オペレーター"]えええ？　ちょっと、どうやって行くつもりです？　徒歩ですか？
+[name="Medic Operator"]Wait, wait, wait, hold on! How are you gonna get there? Walk?
+[name="메딕 오퍼레이터"]네? 잠깐, 어떻게 갈 건데요? 걸어서?
 
 [name="特米米"]我......我开车过去！
+[name="トミミ"]く……車で行きます！
+[name="Tomimi"]I... I'll drive over!
+[name="토미미"]차…… 차를 운전할 거예요!
 
 [name="医疗干员"]别这么倔啊，用车要申请的，再说了你都不知道目的地，又能开到哪里去呢？
+[name="医療オペレーター"]車の使用には申請が必要ですよ。それに目的地もわからないのに、どうやって向かうんですか？　無茶言わないでくださいよ。
+[name="Medic Operator"]Settle down. You need to get permission from the motor pool, not to mention you don't know where you're going.
+[name="메딕 오퍼레이터"]차량 사용은 신청이 필요한데요. 게다가 목적지도 모르는데 어딜 가려고요?
 
 [name="医疗干员"]最重要的是，你不会开车呀。
+[name="医療オペレーター"]そもそも、あなたは車の運転ができませんよね？
+[name="Medic Operator"]And that's before we get to the part where you don't know how to drive.
+[name="메딕 오퍼레이터"]가장 중요한 건, 토미미 씨는 운전할 줄 모르잖아요.
 
 [name="特米米"]我，我可以......
+[name="トミミ"]で、できます……
+[name="Tomimi"]I—I could...
+[name="토미미"]저, 저는 할 수 있어요……
 
 [name="特米米"]我......
+[name="トミミ"]私は……
+[name="Tomimi"]I...
+[name="토미미"]저는……
 
 [name="特米米"]唔，唔唔......
+[name="トミミ"]う、ううっ……
+[name="Tomimi"]Uwh—wuhh...
+[name="토미미"]흐으, 흐흑……
 
 [name="医疗干员"]哭，哭什么呀......
+[name="医療オペレーター"]ど、どうして泣くんですか……？
+[name="Medic Operator"]W-What are you crying for...?
+[name="메딕 오퍼레이터"]왜 울고 그러세요……
 
 [name="医疗干员"]唉快别哭了。
+[name="医療オペレーター"]もう、泣かないでくださいよ。
+[name="Medic Operator"]Oh, come on, quit it.
+[name="메딕 오퍼레이터"]그만 우세요……
 
 [name="特米米"]呜呜......
+[name="トミミ"]ううっ……
+[name="Tomimi"]*whimper*...
+[name="토미미"]흐아앙……
 
 [name="医疗干员"]我知道你担心嘉维尔。
+[name="医療オペレーター"]あなたの不安な気持ちはわかります。
+[name="Medic Operator"]I know you're worried for Gavial.
+[name="메딕 오퍼레이터"]가비알 씨를 걱정하는 건 알겠는데……
 
 [name="医疗干员"]但你也应该知道，嘉维尔有什么好担心的呀。
+[name="医療オペレーター"]でもガヴィルさんなら心配いらないこともわかってますよね？
+[name="Medic Operator"]But you oughta know. It's Gavial, what's to worry about?
+[name="메딕 오퍼레이터"]가비알 씨는 걱정 안 해도 된다는 걸 토미미 씨도 잘 알잖아요.
 
 [name="医疗干员"]别人伤不到她的。
+[name="医療オペレーター"]誰もガヴィルさんを傷つけられませんよ。
+[name="Medic Operator"]No one could ever lay a finger on her.
+[name="메딕 오퍼레이터"]아무도 가비알 씨를 해치지 못할 겁니다.
 
 [name="特米米"]我怕她......擦......擦破皮......
+[name="トミミ"]ガヴィルさんが……す……擦り傷を負うのだって心配です……
+[name="Tomimi"]I'm scared she'll... get... get a graze...
+[name="토미미"]가비알 씨가…… 찰…… 찰과상이라도 입는다면……
 
 [name="医疗干员"]......
+[name="医療オペレーター"]……
+[name="Medic Operator"]...
+[name="메딕 오퍼레이터"]……
 
 [name="医疗干员"]她是医疗干员，这种程度的伤自己能治好。
+[name="医療オペレーター"]彼女は医療オペレーターですよ、その程度の傷は自分で治せます。
+[name="Medic Operator"]She's a Medic Operator. She can cure wounds like that herself just fine.
+[name="메딕 오퍼레이터"]가비알 씨는 메딕 오퍼레이터예요. 그 정도 상처는 혼자서도 치료할 수 있다고요.
 
 [name="特米米"]可是，万一她——
+[name="トミミ"]でも、万が一──
+[name="Tomimi"]But, what if she—
+[name="토미미"]하지만, 혹시라도……
 
 [name="医疗干员"]好了好了，你在这里哭诉也不是个办法，对吧。
+[name="医療オペレーター"]はいはい、ここで泣きながら訴えても仕方ないでしょう。
+[name="Medic Operator"]Alright, alright, you weeping here isn't gonna solve anything, is it?
+[name="메딕 오퍼레이터"]자자, 여기서 울어 봤자 아무 소용 없어요.
 
 [name="医疗干员"]先回去休息一下，稳定自己的情绪，做些能让自己快乐的事，好不好？
+[name="医療オペレーター"]ひとまず休んで、落ち着いたら何か楽しいことでもしてみたらどうです？
+[name="Medic Operator"]Just go back and rest for a bit, settle your emotions, and do something to cheer yourself up, okay?
+[name="메딕 오퍼레이터"]일단 돌아가서 쉬고 진정되면 기분 전환 될 만한 일이라도 해보는 게 어때요?
 
 [name="医疗干员"]任务虽然急，但不是很困难的，说不定过个三四天嘉维尔就凯旋归来了呢？
+[name="医療オペレーター"]確かに急な任務ではありましたが、それほど困難なものでもありません。三、四日ほどで悠々と凱旋してくるかもしれませんよ？
+[name="Medic Operator"]It was an urgent mission, but it's nothing tough. Give her, maybe, three, four days to her triumphant return.
+[name="메딕 오퍼레이터"]급한 임무이긴 하지만 그렇게 어려운 것도 아닙니다. 사나흘 지나면 가비알 씨가 임무를 무사히 마치고 돌아올지도 몰라요.
 
 [name="医疗干员"]不要自己吓自己。
+[name="医療オペレーター"]何事も悪い方にばかり考えてはいけませんよ。
+[name="Medic Operator"]Don't scare yourself.
+[name="메딕 오퍼레이터"]그러니까 불안해하지 않아도 돼요.
 
 [name="特米米"]好，好的......
+[name="トミミ"]わ、わかりました……
+[name="Tomimi"]O—Okay...
+[name="토미미"]네……
 
 [name="特米米"]不好意思给你添麻烦了......
+[name="トミミ"]ご迷惑かけてごめんなさい……
+[name="Tomimi"]I'm sorry for being such a pain...
+[name="토미미"]폐를 끼쳐서 죄송합니다……
 
 [name="医疗干员"]没事的，哈哈，回去休息吧。
+[name="医療オペレーター"]ハハッ、大丈夫ですよ。さあ、戻って休んでください。
+[name="Medic Operator"]No harm done, ha ha. Go on, head back and relax.
+[name="메딕 오퍼레이터"]하핫, 괜찮아요. 얼른 들어가 쉬세요.
 
 [name="特米米"]好的......
+[name="トミミ"]はい……
+[name="Tomimi"]I will...
+[name="토미미"]네……
 
 [name="医疗干员"]没想到小迷妹没了嘉维尔反应那么大。
+[name="医療オペレーター"]まさかガヴィルさんがいなくなった途端、あんなに取り乱すとは。
+[name="Medic Operator"]I didn't think going Gavialless would hit her so hard.
+[name="메딕 오퍼레이터"]가비알 씨가 없을 뿐인데 저렇게 많이 당황할 줄이야.
 
 [name="医疗干员"]可能是当初一扭头就走给人心里留下阴影了吧。
+[name="医療オペレーター"]きっと、過去に何も言わずに去られてしまったことが、トラウマとして残ってるんだ。
+[name="Medic Operator"]Must've left a deep impression on her when Gavial up left home the first time.
+[name="메딕 오퍼레이터"]분명 과거에 아무 말도 하지 않고 떠나버린 게 트라우마로 남아서 그럴 거야.
 
 [name="医疗干员"]下次得提醒她，走之前要记得和亲友报个信。
+[name="医療オペレーター"]次からは出発前にちゃんとお友達に知らせておくようガヴィルさんに言わないと。
+[name="Medic Operator"]I've gotta remind Gavial, you tell your loved ones before you go.
+[name="메딕 오퍼레이터"]다음에 가비알 씨한테 말해줘야겠다. 출발 전에 친구에게 꼭 알려주라고.
 
 [name="医疗干员"]不然再发生一次，特米米怕不是要用泪水把医疗部给淹了。
+[name="医療オペレーター"]もし次にまた同じようなことが起きたら、トミミさんの涙で医療部が水浸しになっちゃう……
+[name="Medic Operator"]Or else we'll get a repeat of this. What if Tomimi cries the department six feet under water?
+[name="메딕 오퍼레이터"]또 그랬다간, 토미미 씨의 눈물로 의료부에 홍수가 나겠어.
 
 [name="？？？"]会发生这么悲伤的事吗？
+[name="？？？"]そんなに悲しいことですの？
+[name="???"]Something that sad could happen?
+[name="???"]그렇게 슬픈 일이에요?
 
 [name="医疗干员"]或许吧。
+[name="医療オペレーター"]かもしれませんね。
+[name="Medic Operator"]Who knows?
+[name="메딕 오퍼레이터"]아마도요.
 
 [name="医疗干员"]请坐，蓝毒小姐，身体有哪里不舒服吗？
+[name="医療オペレーター"]どうぞお座りください、アズリウスさん。どこか具合の悪いところはありますか？
+[name="Medic Operator"]Take a seat, Blue Poison. Are you feeling unwell anywhere?
+[name="메딕 오퍼레이터"]앉으세요. 블루포이즌 씨, 어디가 불편하신가요?
 
 [name="特米米"]嘉维尔......
+[name="トミミ"]ガヴィルさん……
+[name="Tomimi"]Gavial...
+[name="토미미"]가비알 씨……
 
 [name="特米米"]嘉维尔出任务了......
+[name="トミミ"]ガヴィルさんが任務に行っちゃった……
+[name="Tomimi"]Gavial's out on a mission...
+[name="토미미"]가비알 씨는 임무를 나갔어요……
 
 [name="特米米"]我也想和嘉维尔一起出任务。
+[name="トミミ"]私もガヴィルさんと一緒に任務に行きたいよ。
+[name="Tomimi"]I want to go on a mission with Gavial too.
+[name="토미미"]저도 가비알 씨랑 같이 임무 수행하러 가고 싶어요.
 
 [name="特米米"]做些让自己快乐的事啊......
+[name="トミミ"]「何か楽しいことでもしてみたら」かぁ……
+[name="Tomimi"]Do something to cheer myself up...
+[name="토미미"]기분이 좋아질 만한 일을 해야겠네요……
 
 [name="特米米"]我该做什么呢？我能做什么呢？
+[name="トミミ"]何をしたらいいんだろう？　何ができるんだろう？
+[name="Tomimi"]What should I do? Is there anything I can do?
+[name="토미미"]제가 뭘 해야 할까요? 제가 뭘 할 수 있을까요?
 
 [name="特米米"]唉......
+[name="トミミ"]はぁ……
+[name="Tomimi"]*Sigh*...
+[name="토미미"]하아……
 
 [name="特米米"]要是我也能变得强大起来就好了......
+[name="トミミ"]私も強くなれればいいのに……
+[name="Tomimi"]If only I could be as strong as her...
+[name="토미미"]나도 더 강해지면 좋을 텐데……
 
 [name="特米米"]嗯......
+[name="トミミ"]うーん……
+[name="Tomimi"]Um...
+[name="토미미"]으음……
 
 [name="特米米"]嗯？
+[name="トミミ"]あれ？
+[name="Tomimi"]Um?
+[name="토미미"]음?
 
 [name="特米米"]这里是，哪里？
+[name="トミミ"]ここは、どこ？
+[name="Tomimi"]Where—am I?
+[name="토미미"]여긴, 어디죠?
 
 [name="特米米"]又在罗德岛里迷路了，要是被嘉维尔知道会被敲脑袋的......
+[name="トミミ"]またロドスで迷子になっちゃった。ガヴィルさんに知られたら頭を叩かれちゃう……
+[name="Tomimi"]I'm lost in Rhodes Island again. If Gavial finds out, she'll bonk me...
+[name="토미미"]또 로도스 아일랜드에서 길을 잃었네요. 가비알 씨가 알면 꿀밤 때릴 게 뻔한데……
 
 [name="特米米"]（前面有人，问问她吧。）
+[name="トミミ"]（人がいる。聞いてみよう。）
+[name="Tomimi"](Someone's over there. Maybe I can ask her.)
+[name="토미미"](앞에 사람이 있네요. 한 번 물어봐야겠어요.)
 
 [name="特米米"]嗯，你好？
+[name="トミミ"]あの、こんにちは。
+[name="Tomimi"]Um. Hello?
+[name="토미미"]저기요. 안녕하세요.
 
 [name="路过的黎博利"]你好，阿达克利斯，有什么能帮到您的吗？
+[name="通りすがりのリーベリ"]こんにちは、アダクリスのお嬢さん。何かご用かしら？
+[name="Passerby Liberi"]Hello, Archosauria. Is there anything I can assist you with?
+[name="지나가던 리베리"]안녕하세요, 아다크리스 아가씨. 무엇을 도와드릴까요?
 
 [name="路过的黎博利"]（优雅的提裙礼）
+[name="通りすがりのリーベリ"]（スカートをつまんで優雅にお辞儀をする）
+[name="Passerby Liberi"](Graceful curtsy)
+[name="지나가던 리베리"](우아하게 치마 인사)
 
 [name="特米米"]唔，唔唔。
+[name="トミミ"]う、ううっ。
+[name="Tomimi"]Wuh, uwh-wah.
+[name="토미미"]아, 아, 어어……
 
 [name="特米米"]（模仿了一下提裙礼）
+[name="トミミ"]（真似をしてスカートをつまんでお辞儀をする）
+[name="Tomimi"](Imitates the curtsy)
+[name="토미미"](당황하며 치마 인사를 일단 따라 해 본다)
 
 [name="特米米"]你好，我想问一下这里是哪里。
+[name="トミミ"]すみません、ここがどこか教えてもらえますか？
+[name="Tomimi"]Hello, could I bother you to tell me where I am?
+[name="토미미"]실례지만, 여기가 어딘지 가르쳐 주실 수 있을까요?
 
 [name="路过的黎博利"]如果您是指具体位置的话，这里是前往罗德岛机库的通道。
+[name="通りすがりのリーベリ"]具体的な位置なら、ここは格納庫への通路よ。
+[name="Passerby Liberi"]If you mean your specific position, we're in a corridor to the Rhodes Island hangar.
+[name="지나가던 리베리"]정확한 위치를 알고 싶은 거라면 여긴 로도스 아일랜드의 격납고로 가는 통로입니다.
 
 [name="特米米"]谢谢你，黎博利姐姐！
+[name="トミミ"]ありがとうございます、リーベリのお姉さん！
+[name="Tomimi"]Thank you, Miss Liberi!
+[name="토미미"]감사합니다. 리베리 언니.
 
 [name="路过的黎博利"]不客气。
+[name="通りすがりのリーベリ"]どういたしまして。
+[name="Passerby Liberi"]Make no mention.
+[name="지나가던 리베리"]천만에요.
 
 [name="特米米"]......
+[name="トミミ"]……
+[name="Tomimi"]......
+[name="토미미"]……
 
 [name="路过的黎博利"]您好像，有些迷茫，需要我帮忙吗？
+[name="通りすがりのリーベリ"]困っているご様子だけど、お手伝いしましょうか？
+[name="Passerby Liberi"]You seem as though—you're a little bewildered. Do you need my help?
+[name="지나가던 리베리"]뭔가 좀 곤란해하는 것 같은데, 도움이 필요한가요?
 
 [name="特米米"]我迷路了......
+[name="トミミ"]えっと、迷子になってしまって……
+[name="Tomimi"]I'm lost...
+[name="토미미"]제가 길을 잃어서요……
 
 [name="路过的黎博利"]原来如此。
+[name="通りすがりのリーベリ"]そうだったの。
+[name="Passerby Liberi"]Ah, I see.
+[name="지나가던 리베리"]아, 그렇군요.
 
 [name="路过的黎博利"]您在哪条道路上迷失了方向？
+[name="通りすがりのリーベリ"]どこで道が分からなくなったの？
+[name="Passerby Liberi"]Where did you lose your way?
+[name="지나가던 리베리"]혹시 어디서 길을 잃으셨나요?
 
 [name="特米米"]？
+[name="トミミ"]え？
+[name="Tomimi"]?
+[name="토미미"]?
 
 [name="路过的黎博利"]抱歉，我好像问了个傻问题。
+[name="通りすがりのリーベリ"]ごめんなさい、バカな質問だったわね。
+[name="Passerby Liberi"]I'm sorry, I seem to have asked a silly question.
+[name="지나가던 리베리"]아, 죄송해요, 바보 같은 질문이었네요.
 
 [name="路过的黎博利"]咳嗯，那么，您现在想去哪里呢？
+[name="通りすがりのリーベリ"]コホンッ……じゃあ、目的地はどこかしら？
+[name="Passerby Liberi"]Ahem—in that case, where do you want to go?
+[name="지나가던 리베리"]크, 크흠…… 그러면, 지금 어디로 가고 싶은가요?
 
 [name="特米米"]我想......买最新的时尚杂志，离开阿卡胡拉以后很久没看了，心里有些痒痒。
+[name="トミミ"]えっと……最新のファッション雑誌が買いたいんです。アカフラを離れてからずっと読んでなかったのですが、なんだか急に読みたくなってしまって。
+[name="Tomimi"]I want... to buy a fashion magazine. I haven't read one in a long time, since leaving Acahualla. I'm feeling the itch.
+[name="토미미"]음…… 최신 패션 잡지를 사고 싶어요. 아카후알라를 떠난 뒤로 오랫동안 못 봐서 갑자기 읽고 싶어졌거든요.
 
 [name="路过的黎博利"]杂志，嗯，我明白了。
+[name="通りすがりのリーベリ"]雑誌ね？　ええ、わかったわ。
+[name="Passerby Liberi"]A magazine, hmm. I understand.
+[name="지나가던 리베리"]잡지요? 음, 알겠습니다.
 
 [name="路过的黎博利"]买杂志的话坐旁边的电梯上两层，出门右转笔直走，看到小喷泉以后左转，就能看到书摊了。
+[name="通りすがりのリーベリ"]雑誌を買うなら――そこのエレベーターで二フロア上がって、出たら右に曲がってまっすぐ進んで。それから小さな噴水が見えてきたら左に曲がるの。そしたら本屋が見つかるはずよ。
+[name="Passerby Liberi"]If you want to buy magazines, take the elevator there up two floors, then turn right when you come out and go straight; after you see the little fountain, turn left, and you'll find a bookstand.
+[name="지나가던 리베리"]잡지를 사려면 옆에 있는 그 엘리베이터를 타고 두 층 더 올라가고, 나가서 오른쪽으로 돌아 쭉 가세요. 가다가 작은 분수대가 보이면 거기서 왼쪽으로 돌아요. 그러면 서점이 보일 겁니다.
 
 [name="路过的黎博利"]价格可能比城市里的稍高些，但供货稳定，品种多样，还能预订想要的书刊。
+[name="通りすがりのリーベリ"]値段は都市で買うよりもいささか高いけれど、供給は安定しているから種類は豊富よ。取り寄せ注文もできるわ。
+[name="Passerby Liberi"]The prices might be a little higher than in the city, but they have stable suppliers, a varied selection, and you can order in any publications you'd like.
+[name="지나가던 리베리"]가격은 도시보다 다소 비싸지만, 공급이 안정적이고 종류가 다양한 데다 원하는 잡지를 주문할 수도 있어요.
 
 [name="特米米"]是这样啊，谢谢你，我现在就去看看。
+[name="トミミ"]そうですか、ありがとうございます。行ってみますね。
+[name="Tomimi"]Alright. Thank you, I'll go take a look right now.
+[name="토미미"]아, 그렇군요. 감사합니다. 지금 바로 가볼게요.
 
 [name="路过的黎博利"]请稍等。
+[name="通りすがりのリーベリ"]ちょっと待って。
+[name="Passerby Liberi"]Just wait one moment.
+[name="지나가던 리베리"]잠깐만요.
 
 [name="路过的黎博利"]在出发之前，能先烦请您解答一下我的小小疑惑吗？
+[name="通りすがりのリーベリ"]行く前に、私のささやかな疑問に答えてもらえるかしら？
+[name="Passerby Liberi"]Before you leave, could I hassle you to assuage a small doubt of mine?
+[name="지나가던 리베리"]가기 전에 제가 궁금한 게 있는데, 대답해주실 수 있을까요?
 
 [name="特米米"]嗯？嗯，直接问就行了，不用那么礼貌的。
+[name="トミミ"]え？　ええ、そんな畏まって確認されなくても大丈夫ですよ。
+[name="Tomimi"]Huh? Um, you can just ask, no need to be so polite.
+[name="토미미"]네? 네, 그냥 물어봐 주세요. 그렇게 예의를 갖추지 않으셔도 돼요.
 
 [name="路过的黎博利"]嗯，下次会注意的~
+[name="通りすがりのリーベリ"]そう、じゃあ次からはそうするわね。
+[name="Passerby Liberi"]Very good, I'll keep that in mind~
+[name="지나가던 리베리"]네, 다음부턴 주의할게요.
 
 [name="路过的黎博利"]阿达克利斯，肩上的担子，还沉吗？
+[name="通りすがりのリーベリ"]アダクリスのお嬢さん、その肩に担いだ荷物は重くないの？
+[name="Passerby Liberi"]Archosauria, does the burden on your shoulders weigh on you?
+[name="지나가던 리베리"]아다크리스 아가씨, 어깨에 멘 짐이 무겁지 않나요?
 
 [name="特米米"]担子？你是说背包吗？
+[name="トミミ"]荷物？　このリュックのことですか？
+[name="Tomimi"]Burden? You mean my backpack?
+[name="토미미"]짐? 혹시 이 배낭 말씀하는 건가요?
 
 [name="特米米"]（掂了下背包）
+[name="トミミ"]よいしょっと……うーん……
+[name="Tomimi"](Weighs backpack in hand)
+[name="토미미"](배낭을 손에 들어 무게를 가늠해본다)
 
 [name="特米米"]还好吧，没有那么重。
+[name="トミミ"]そうでもないです、そんなに重くありませんよ。
+[name="Tomimi"]It's alright, it's not that heavy.
+[name="토미미"]괜찮은데요. 별로 무겁지 않아요.
 
 [name="特米米"]里面都是精挑细选的宝贝，得贴身带着。
+[name="トミミ"]中身はすべて厳選した大切な宝物なので、常に身につけてないと不安なんです。
+[name="Tomimi"]It's all my specially selected treasures inside. I need to keep them close to me.
+[name="토미미"]이 안엔 모두 엄선한 보물들이 들어있어서 항상 몸에 지니고 있지 않으면 불안하거든요.
 
 [name="路过的黎博利"]放宿舍不好吗，那里是你在罗德岛的家园。
+[name="通りすがりのリーベリ"]宿舎に置いておくというのはダメかしら。宿舎はロドスでの家みたいなものでしょ？
+[name="Passerby Liberi"]Can't you put them in your dormitory? That's your little slice of home at Rhodes Island.
+[name="지나가던 리베리"]숙소에 두면 안 되나요? 거긴 로도스 아일랜드에서의 자기 집 같은 거잖아요.
 
 [name="特米米"]万一找不到了，我会难过的。
+[name="トミミ"]何かの拍子に失くしたりでもしたら、悲しいですから。
+[name="Tomimi"]But I'd be really sad if I ever lost it.
+[name="토미미"]혹시 잃어버리기라도 하면 속상할 것 같아서요.
 
 [name="特米米"]少任何一件都不行，还是带在身边比较合适。
+[name="トミミ"]一つだって失くしたくないんです。だから身につけておいた方がいいと思ってこうしてて……
+[name="Tomimi"]I can't let even one thing go missing. I'm better off keeping it with me.
+[name="토미미"]이 중에 하나도 잃어버리면 안 돼요. 그러니 몸에 지니고 다니는 게 좋아요.
 
 [name="路过的黎博利"]你的回忆，你的寄托，嗯......
+[name="通りすがりのリーベリ"]つまりそれがあなたの思い出、あなたの心の拠り所なのね、うーん……
+[name="Passerby Liberi"]Your recollections, your keepsakes, hmm...
+[name="지나가던 리베리"]당신의 추억, 당신의 보금자리, 음……
 
 [name="路过的黎博利"]有没有想过放在保险箱里？
+[name="通りすがりのリーベリ"]金庫に入れておくというのは？
+[name="Passerby Liberi"]Have you ever thought of putting them in a safe?
+[name="지나가던 리베리"]금고에 넣어두는 건 어때요?
 
 [name="特米米"]那可不行！
+[name="トミミ"]それはダメです！
+[name="Tomimi"]No, no way!
+[name="토미미"]그건 안 돼요!
 
 [name="特米米"]锁在箱子里的话，宝物们会生气的！
+[name="トミミ"]箱に入れて鍵をかけるなんて、宝物たちが怒ってしまいます！
+[name="Tomimi"]My treasures will be angry if I lock them in a box!
+[name="토미미"]금고에 넣어 두면 보물들이 화낼 거예요!
 
 [name="路过的黎博利"]那么，好好布置一下宿舍，把它变成仅属于你的展馆，会不会更好呢。
+[name="通りすがりのリーベリ"]なら、宿舎に飾って、あなただけの展示室にしたらいいんじゃないかしら。
+[name="Passerby Liberi"]Well, then, give your dormitory a proper furnishing, and turn it into your very own museum. Maybe that'd be nicer?
+[name="지나가던 리베리"]그럼, 숙소에 잘 진열해두고, 그곳을 당신만의 전시관이라 생각하면 더 좋지 않나요?
 
 [name="路过的黎博利"]懂得背负回忆是好事，但学会卸下负荷并装点它，或许会更有意义呢。
+[name="通りすがりのリーベリ"]思い出を背負うことは良いことだけど、肩から下ろして飾ってあげた方が、より多くの意味を持つかもしれないわ。
+[name="Passerby Liberi"]Knowing to bear your recollections is a good thing, but perhaps in learning to unload burdens and adorn them, there's more significance still.
+[name="지나가던 리베리"]추억을 짊어지는 것은 좋은 일이지만, 그걸 내려놓고 장식해 주는 게 더 의미가 있지 않을까요?
 
 [name="特米米"]唔，你说的，我不太懂。
+[name="トミミ"]うぅっ……あの、よくわかりません。
+[name="Tomimi"]Um, I don't really, get what you're saying.
+[name="토미미"]아으으…… 저기 무슨 말인지 잘 모르겠어요.
 
 [name="路过的黎博利"]没什么，只是一位黎博利毫无意义的自言自语罢了。
+[name="通りすがりのリーベリ"]気にしないで、単なるリーベリの無意味な独り言だもの。
+[name="Passerby Liberi"]It's nothing. Just a solitary Liberi's meaningless soliloquy.
+[name="지나가던 리베리"]아, 신경 쓰지 마요. 그냥 길 가던 리베리의 의미 없는 혼잣말이에요.
 
 [name="路过的黎博利"]我的疑问已经得到了答案，谢谢你。
+[name="通りすがりのリーベリ"]私の疑問は解消したわ、ありがとう。
+[name="Passerby Liberi"]My question has already found an answer. Thank you.
+[name="지나가던 리베리"]제 궁금증은 이미 풀렸어요. 고마워요.
 
 [name="路过的黎博利"]啊。
+[name="通りすがりのリーベリ"]あっ。
+[name="Passerby Liberi"]Ah.
+[name="지나가던 리베리"]아.
 
 [name="路过的黎博利"]需要我帮忙引路吗？
+[name="通りすがりのリーベリ"]私の案内が必要かしら？
+[name="Passerby Liberi"]Do you want me to guide you?
+[name="지나가던 리베리"]제가 길을 안내해 드릴까요?
 
 [name="特米米"]不用麻烦的，我想我能够认得路，谢谢你！
+[name="トミミ"]大丈夫だと思います。お気遣いありがとうございます！
+[name="Tomimi"]No, it's okay, I think I can find my way! Thank you!
+[name="토미미"]괜찮아요. 길은 제가 알 수 있어요. 고마워요!
 
 [name="路过的黎博利"]那我就先离开了，阿达克利斯。
+[name="通りすがりのリーベリ"]それじゃあお先に失礼するわね、アダクリスのお嬢さん。
+[name="Passerby Liberi"]Then I'll bid farewell, Archosauria.
+[name="지나가던 리베리"]그럼 저는 이만 가볼게요, 아다크리스 아가씨.
 
 [name="路过的黎博利"]或许我们很快就会再相见的。
+[name="通りすがりのリーベリ"]だけど私たち、またすぐに会えそうな予感がするわ。
+[name="Passerby Liberi"]Perhaps we'll meet again very soon.
+[name="지나가던 리베리"]곧 다시 만나게 될 거예요.
 
 [name="路过的黎博利"]（萨尔贡方言）愿你的远景如广林般浩瀚。
+[name="通りすがりのリーベリ"]（サルゴン方言）あなたの前途が広い森のように広大でありますように。
+[name="Passerby Liberi"](Sargonian dialect) May your outlook be as boundless as the great forest.
+[name="지나가던 리베리"](사르곤 방언) 당신의 앞길이 바다처럼 넓기를 바랄게요.
 
 [name="路过的黎博利"]（优雅的提裙礼）
+[name="通りすがりのリーベリ"]（スカートをつまんで優雅にお辞儀をして去る）
+[name="Passerby Liberi"](Graceful curtsy)
+[name="지나가던 리베리"](우아하게 치마 인사)
 
 [name="特米米"]（她好像走得很急。）
+[name="トミミ"]（なんだか急いでたみたい。）
+[name="Tomimi"](She looks like she's really in a hurry.)
+[name="토미미"](다급하게 가버렸네요.)
 
 [name="特米米"]（通道那一头的黎博利，是她的妹妹吗？）
+[name="トミミ"]（通路の向こうにいるリーベリは、あの人の妹かな？）
+[name="Tomimi"](Is that Liberi at the other end her sister?)
+[name="토미미"](통로 저편의 리베리는 그녀의 여동생일까요?)
 
 [name="特米米"]（她们好像很亲密的样子。）
+[name="トミミ"]（とても仲が良さそう。）
+[name="Tomimi"](They seem really close.)
+[name="토미미"](매우 사이가 좋아 보이네요.)
 
 [name="特米米"]（真好啊。）
+[name="トミミ"]（素敵だなぁ。）
+[name="Tomimi"](That's so nice.)
+[name="토미미"](부러워요.)
 
 [name="特米米"]（......）
+[name="トミミ"]（……）
+[name="Tomimi"](......)
+[name="토미미"](……)
 
 [name="特米米"]（小喷泉到了，左转......）
+[name="トミミ"]（小さな噴水に着いたら、左に曲がって……）
+[name="Tomimi"](I've reached the tiny fountain. Turn left...)
+[name="토미미"](작은 분수대가 보이네요. 그러면 왼쪽으로……)
 
 [name="特米米"]就是这里了吧。
+[name="トミミ"]ここだ。
+[name="Tomimi"]And this should be it.
+[name="토미미"]여기군요.
 
 [name="特米米"]呜啊，罗德岛上也会有这样的摊子吗？
+[name="トミミ"]うわぁ、ロドスにもこんなお店があったんだ。
+[name="Tomimi"]Waah, Rhodes Island has stalls like this too?
+[name="토미미"]우와~ 로도스 아일랜드에 이런 가게도 있었나요??
 
 [name="后勤干员"]您是第一次光临小店吧。
+[name="支援オペレーター"]いらっしゃいませ、初めてのご利用ですね？
+[name="Logistics Operator"]It's your first time shopping at ours, isn't it?
+[name="후방 지원 오퍼레이터"]어서 오세요, 저희 가게는 처음이시죠?
 
 [name="后勤干员"]店里空间不够大，有时候货太多放不下了就会在店外摆个小地摊，当然，这都是提前申请报备的，可不是什么违规操作哦。
+[name="支援オペレーター"]スペースが足りなくて、品数が多い時は外にも露店を出すんです。もちろん、すべて事前に申請をしてありますから、何の規則にも違反していませんよ。
+[name="Logistics Operator"]The store's too cramped, and sometimes when we can't fit all our stock, the stall comes out. Of course, it's all approved and filed on record in advance. There's no shady business here.
+[name="후방 지원 오퍼레이터"]가게 공간이 부족해서 물건이 많을 때는 가게 밖에도 노점을 차린답니다. 아, 물론 사전에 신청했기에 규칙 위반은 아니죠.
 
 [name="后勤干员"]您要买什么呢？
+[name="支援オペレーター"]何かお求めですか？
+[name="Logistics Operator"]What are you looking to buy?
+[name="후방 지원 오퍼레이터"]무엇이 필요하신가요?
 
 [name="特米米"]我想买最新的时尚杂志。
+[name="トミミ"]最新のファッション雑誌を買いたいんです。
+[name="Tomimi"]I wanna buy the latest fashion magazine.
+[name="토미미"]전 최신 패션 잡지를 사고 싶어요.
 
 [name="后勤干员"]时尚杂志有很多种，你看，有介绍挂坠首饰的，有发布名人新闻的，有主打潮流服装的，还有——
+[name="支援オペレーター"]ファッション雑誌でしたら、たくさん種類がありますよ。ほら、アクセサリーを紹介しているものから、流行の服装、芸能ニュース、それに──
+[name="Logistics Operator"]Fashion magazines come in many varieties. See, ones for getting into pendants and jewelry, ones putting out celebrity news, ones for announcing what's trendy in clothes, and—
+[name="후방 지원 오퍼레이터"]패션 잡지는 종류가 많아요. 자, 보세요. 펜던트 액세서리를 소개하는 것도 있고, 유명인사 기사가 게재된 것도 있고, 패션 트랜드를 소개한 것도 있고요. 그리고……
 
 [name="特米米"]请给我关于服装的，谢谢。
+[name="トミミ"]服装に関するものをください。
+[name="Tomimi"]Please give me the ones about clothes, thank you.
+[name="토미미"]패션 관련된 걸 주세요.
 
 [name="后勤干员"]这个......最新一期卖完了。
+[name="支援オペレーター"]えっと……すみません、そちらの最新号はもう売り切れてしまったんです。
+[name="Logistics Operator"]This one's... all sold out on the latest issue.
+[name="후방 지원 오퍼레이터"]아, 그건…… 최신호가 다 팔렸습니다.
 
 [name="特米米"]好吧......
+[name="トミミ"]そうですか……
+[name="Tomimi"]Okay...
+[name="토미미"]아, 네……
 
 [name="特米米"]（今天运气好像不太行的样子......）
+[name="トミミ"]（今日はなんだか運が悪いのかも……）
+[name="Tomimi"](I'm having the worst luck today...)
+[name="토미미"](오늘 운이 별로 안 좋은가 봐……)
 
 [name="后勤干员"]不过你运气不错，买掉最后一本的干员还在，如果你特别想看的话，可以问问她愿不愿意和你分享。
+[name="支援オペレーター"]でも運が良いですね。最後の一冊を購入した方がまだ店内にいますから、もしどうしても読みたければ、彼女に見せてもらえないか頼んでみてはどうですか？
+[name="Logistics Operator"]But you're in luck. The Operator who bought the last copy's still here. If you really want to read it, you could go ask her if she'd be willing to share with you.
+[name="후방 지원 오퍼레이터"]그래도 손님께선 운이 좋으시네요. 마지막 한 권을 산 오퍼레이터가 아직 가게에 계시니, 만약 꼭 보고 싶다면 그분께 빌려줄 수 있는지 부탁해보는 건 어떠세요?
 
 [name="特米米"]好的！
+[name="トミミ"]わかりました！
+[name="Tomimi"]Okay!
+[name="토미미"]알겠어요!
 
 [name="特米米"]是哪位呢？
+[name="トミミ"]どの人でしょうか？
+[name="Tomimi"]Which one is she?
+[name="토미미"]혹시 어느 분인가요?
 
 [name="后勤干员"]那里，粉色头发的就是。
+[name="支援オペレーター"]あそこです、ピンク色の髪をしたあの人。
+[name="Logistics Operator"]Over there, the one with pink hair.
+[name="후방 지원 오퍼레이터"]저쪽에, 핑크색 머리를 한 저분이요.
 
 [name="后勤干员"]她叫蓝毒，每次都是第一个来买杂志的，今天好像有些事，差点就没买到。
+[name="支援オペレーター"]彼女はアズリウスさん。いつも雑誌を発売日に買いに来るんです。でも今日は先に用事があったみたいで、危うく買いそびれるところだったそうです。
+[name="Logistics Operator"]She's called Blue Poison, and she's the first in to buy magazines every time. Seems she got held up today, and almost missed out.
+[name="후방 지원 오퍼레이터"]저분은 블루포이즌이라는 분이신데, 매번 가장 먼저 잡지를 사러 오시거든요. 오늘은 일이 있었는지 하마터면 못 살 뻔했지 뭐예요.
 
 [name="后勤干员"]你去和她搭个话吧，我想她会愿意借给你看的——
+[name="支援オペレーター"]話しかけてみてはどうですか？　彼女なら喜んで見せてくれるとは思いますが──
+[name="Logistics Operator"]Go give her a shout. She'll share with you, I think—
+[name="후방 지원 오퍼레이터"]가서 말 걸어보세요. 제 생각에 저분이라면 빌려주실……
 
 [name="特米米"]好的，谢谢你！
+[name="トミミ"]わかりました、ありがとうございます！
+[name="Tomimi"]Alright, thank you!
+[name="토미미"]알겠습니다, 감사합니다.
 
 [name="后勤干员"]唉，我还没说完呢，她——
+[name="支援オペレーター"]あ！　ちょっと、まだ話は終わってませんよ、彼女は──
+[name="Logistics Operator"]Wait, I'm not done, she—
+[name="후방 지원 오퍼레이터"]아! 아직 말이 끝나지도 않았는데, 저 손님은……
 
 [name="后勤干员"]......
+[name="支援オペレーター"]……
+[name="Logistics Operator"]......
+[name="후방 지원 오퍼레이터"]……
 
 [name="后勤干员"]算了，多一句不如少一句。
+[name="支援オペレーター"]まあいいか、言わない方がいいこともあるし。
+[name="Logistics Operator"]Whatever, sometimes less is more.
+[name="후방 지원 오퍼레이터"]뭐 됐다. 한마디라도 적게 하는 게 낫겠지.
 
 [name="后勤干员"]或许这样能让蓝毒多个朋友呢。
+[name="支援オペレーター"]これでアズリウスさんも友達が増えるかもしれないしね。
+[name="Logistics Operator"]Maybe Blue Poison'll make a new friend this way.
+[name="후방 지원 오퍼레이터"]이참에 블루포이즌 씨도 친구가 한 명 더 생길지도 모르겠네.
 
 [name="特米米"]您，您好......请问是蓝毒姐姐吗，我叫特米米。
+[name="トミミ"]あ、あの……アズリウスさんですか？　私はトミミといいます。
+[name="Tomimi"]H—Hello... would you happen to be Blue Poison? I'm Tomimi.
+[name="토미미"]아, 안녕하세요…… 혹시, 블루포이즌 언니 맞으세요? 전 토미미라고 합니다.
 
 [name="蓝毒"]（她就是特米米吗？真是巧合。）
+[name="アズリウス"]（トミミですって？　なんて偶然かしら。）
+[name="Blue Poison"](So this is Tomimi? What a fine coincidence.)
+[name="블루포이즌"](얘가 토미미야? 엄청난 우연이네.)
 
 [name="特米米"]（伸出手）
+[name="トミミ"]（手を差し出す）
+[name="Tomimi"](Holds out hand)
+[name="토미미"](손을 내민다)
 
 [name="蓝毒"]？！
+[name="アズリウス"]！？
+[name="Blue Poison"]?!
+[name="블루포이즌"]?!
 
 [name="蓝毒"]你是......要和我握手，吗？
+[name="アズリウス"]あなた……私と握手をするつもり──ですの？
+[name="Blue Poison"]You want... to shake hands with—me?
+[name="블루포이즌"]혹시 저랑…… 악수를, 하려는 건가요?
 
 [name="特米米"]唔，我只是想，嗯，出于礼貌......
+[name="トミミ"]あの、はい、それが礼儀かなと思って……
+[name="Tomimi"]Oh, I just thought, um, it's the polite thing to do and...
+[name="토미미"]으윽……네, 전 그저, 예의상……
 
 [name="特米米"]如果你讨厌的话——
+[name="トミミ"]もし嫌なのでしたら──
+[name="Tomimi"]If you don't want to, then—
+[name="토미미"]만약 싫으시다면……
 
 [name="蓝毒"]（握了握特米米的手）
+[name="アズリウス"]（トミミの手を握る）
+[name="Blue Poison"](Shakes Tomimi's hand)
+[name="블루포이즌"](토미미의 손을 잡는다)
 
 [name="蓝毒"]我是蓝毒，很高兴认识你。
+[name="アズリウス"]ええ、私はアズリウスよ。お会いできて光栄ですわ。
+[name="Blue Poison"]I'm Blue Poison. I'm very happy to meet you.
+[name="블루포이즌"]반가워요, 전 블루포이즌이라고 해요.
 
 [name="蓝毒"]因为一些原因，别人不太愿意和我，接触。
+[name="アズリウス"]ある理由で、他の人はあまり私に触れようとはしませんの。
+[name="Blue Poison"]Because of... reasons... most people aren't too happy to—make contact—with me.
+[name="블루포이즌"]이러저러한 이유로, 사람들은 저랑 접촉하기를 꺼려하죠.
 
 [name="蓝毒"]所以你伸手的时候我愣住了，抱歉。
+[name="アズリウス"]ですからあなたが手を差し出してくださった時、すこし驚いてしまいました。申し訳ございませんわ。
+[name="Blue Poison"]So I was surprised when you held out your hand. Sorry for that.
+[name="블루포이즌"]그래서 당신이 손을 내밀었을 때 멈칫했던 거예요, 미안해요.
 
 [name="蓝毒"]找我有什么事吗？
+[name="アズリウス"]それで何かご用ですの？
+[name="Blue Poison"]Did you need something from me?
+[name="블루포이즌"]그런데 무슨 일이세요?
 
 [name="特米米"]我想借杂志看一下，可以吗，马上就还给你。
+[name="トミミ"]その雑誌をお借りして読みたいのですが、よろしいですか？　すぐにお返ししますので。
+[name="Tomimi"]I want to borrow your magazine to read a little, is that okay? I'll give it right back.
+[name="토미미"]그 잡지를 빌려보고 싶은데 괜찮을까요? 금방 돌려 드릴게요.
 
 [name="蓝毒"]杂志？你是说这本《自我迷宫》？
+[name="アズリウス"]雑誌？　この『Me Maze』のことかしら？
+[name="Blue Poison"]Magazine? You mean this issue of Me Maze?
+[name="블루포이즌"]잡지요? 혹시 이 《미 메이즈》 말인가요?
 
 [name="特米米"]是的。
+[name="トミミ"]はい。
+[name="Tomimi"]Yes.
+[name="토미미"]네.
 
 [name="特米米"]不好意思，我维多利亚语不太好，不是很能理解上面的字。
+[name="トミミ"]すみません、実は私ヴィクトリア語が得意ではなくて、あまり読めないんです。
+[name="Tomimi"]I'm sorry, my Victorian isn't too good, so I can't read the words here so well.
+[name="토미미"]죄송합니다. 사실 저는 빅토리아어가 서툴러서, 그…… 글씨를 잘 모르겠어요.
 
 [name="蓝毒"]我也才刚买到，还没看呢。
+[name="アズリウス"]では一緒に読みませんこと？　私も買ったばかりで、まだ読んでおりませんし。
+[name="Blue Poison"]I only just picked it up, so I haven't read it yet.
+[name="블루포이즌"]그럼 같이 읽지 않을래요? 저도 방금 사서 아직 안 읽었거든요.
 
 [name="蓝毒"]这里人太多了，我们找个地方坐下来慢慢看吧。
+[name="アズリウス"]ここは人が多すぎますわ。どこか座れる場所を探してゆっくり読みましょう。
+[name="Blue Poison"]There's too many people around. Let's find somewhere to sit down and have a read at our own pace.
+[name="블루포이즌"]여긴 사람이 너무 많아요. 어디 앉을 자리를 찾아서 천천히 읽어요.
 
 [name="特米米"]好的，拜托你了。
+[name="トミミ"]はい、お願いします。
+[name="Tomimi"]Okay, I'll follow you.
+[name="토미미"]네, 부탁드릴게요.
 
 [name="蓝毒"]......
+[name="アズリウス"]……
+[name="Blue Poison"]......
+[name="블루포이즌"]……
 
 [name="特米米"]唔。
+[name="トミミ"]うーん。
+[name="Tomimi"]Um.
+[name="토미미"]으음.
 
 [name="特米米"]看完了。
+[name="トミミ"]読み終わりました。
+[name="Tomimi"]I'm done reading.
+[name="토미미"]다 봤어요.
 
 [name="特米米"]谢谢你，蓝毒姐姐。
+[name="トミミ"]ありがとうございます、アズリウスさん。
+[name="Tomimi"]Thank you, Blue Poison.
+[name="토미미"]감사합니다. 블루포이즌 언니.
 
 [name="蓝毒"]嗯？嗯，不客气。
+[name="アズリウス"]いえ、どういたしまして。
+[name="Blue Poison"]Hm? Oh, no problem.
+[name="블루포이즌"]응? 아, 아니에요.
 
 [name="蓝毒"]特米米小姐。
+[name="アズリウス"]トミミさん。
+[name="Blue Poison"]Miss Tomimi.
+[name="블루포이즌"]토미미 씨.
 
 [name="特米米"]叫我特米米就好，加上尊称的话总觉得好像有点奇怪......
+[name="トミミ"]トミミでいいですよ。さん付けだとなんだか変な感じがします……
+[name="Tomimi"]You can just call me Tomimi. Adding a title to a code name is a little weird...
+[name="토미미"]토미미라고 부르시면 돼요. 씨를 붙이면 왠지 이상한 느낌이 들어요……
 
 [name="蓝毒"]啊，好，特米米。
+[name="アズリウス"]ええ、わかりましたわ、トミミ。
+[name="Blue Poison"]Ah, alright, Tomimi.
+[name="블루포이즌"]그래요, 알았어요. 토미미.
 
 [name="蓝毒"]早上......是发生了什么吗？
+[name="アズリウス"]今朝は……何かあったのかしら？
+[name="Blue Poison"]This morning... what happened?
+[name="블루포이즌"]아침에…… 무슨 일이 발생했던 거야?
 
 [name="蓝毒"]医疗部那边的干员说你的泪水会把整个医疗部都淹了。
+[name="アズリウス"]医療部のオペレーターが、あなたの涙で医療部が水浸しになってしまうと言っていましたわ。
+[name="Blue Poison"]An operator at Medical said you could've cried the whole department six feet under water.
+[name="블루포이즌"]의료부 오퍼레이터가 당신의 눈물 때문에 의료부가 잠길 뻔했다던데?
 
 [name="特米米"]这个......讲出来还挺难为情的。
+[name="トミミ"]それは……話すとなると恥ずかしいんですが……
+[name="Tomimi"]It's... kind of embarrassing to say.
+[name="토미미"]그게…… 말하자면 왠지 부끄러운데……
 
 [name="蓝毒"]说出来心里会好受些，试试看。
+[name="アズリウス"]話せば気持ちが楽になりますわよ、言ってごらんなさい。
+[name="Blue Poison"]You'll feel better getting it out. Give it a try.
+[name="블루포이즌"]터놓고 말하면 속이 편해질 거예요. 한번 말해보세요.
 
 [name="特米米"]......
+[name="トミミ"]……
+[name="Tomimi"]......
+[name="토미미"]……
 
 [name="特米米"]其实，是这样的......
+[name="トミミ"]実は……
+[name="Tomimi"]Well, it's like this...
+[name="토미미"]그게, 사실은……
 
 [name="特米米"]大概就是这么回事......
+[name="トミミ"]大体こんな感じです……
+[name="Tomimi"]That's the whole story, more or less.
+[name="토미미"]대략, 그런 일이었어요……
 
 [name="特米米"]请不要笑话我......
+[name="トミミ"]笑わないでくださいね……
+[name="Tomimi"]Please don't laugh at me...
+[name="토미미"]절 놀리지 마세요……
 
 [name="蓝毒"]怎么会呢。
+[name="アズリウス"]笑いませんわ。
+[name="Blue Poison"]Of course I wouldn't.
+[name="블루포이즌"]그럴 리가요.
 
 [name="蓝毒"]我听说，阿达克利斯人从不会流泪。
+[name="アズリウス"]けれど、アダクリスは涙を流さないと聞いたことがありますわ。
+[name="Blue Poison"]You know, I've heard that Archosauria never shed tears.
+[name="블루포이즌"]아다크리스인은 절대 눈물을 흘리지 않는다고 들었거든요.
 
 [name="特米米"]流泪是示弱的表现，所以绝对不可以在别人面前哭的。
+[name="トミミ"]涙は弱さの象徴なので、絶対に人前で泣いてはいけないんです。
+[name="Tomimi"]Tears are a sign of weakness, so you can never, ever cry in front of anyone else.
+[name="토미미"]눈물은 나약함을 의미하기 때문에, 절대 남 앞에서 울면 안 돼요.
 
 [name="蓝毒"]即便如此，你也愿意为嘉维尔小姐哭泣。
+[name="アズリウス"]それでも、あなたはガヴィルさんのためなら泣けるのですね。
+[name="Blue Poison"]But even so, you'll still cry for Gavial.
+[name="블루포이즌"]그래도 당신은 가비알 씨를 위해서라면 울 수 있는 거잖아요.
 
 [name="蓝毒"]这并不是件难以启齿的事。
+[name="アズリウス"]それは決して恥ずかしいことではありませんわ。
+[name="Blue Poison"]And there's nothing embarrassing about it at all.
+[name="블루포이즌"]그건 절대로 부끄러운 일이 아니에요.
 
 [name="特米米"]唔，谢谢你。
+[name="トミミ"]うぅっ、ありがとうございます。
+[name="Tomimi"]Ohh, thank you.
+[name="토미미"]으윽, 감사합니다.
 
 [name="蓝毒"]你好像对服装类的杂志很感兴趣，你的家乡也有这样的刊物吗？
+[name="アズリウス"]あなたはファッション系の雑誌に興味があるようですわね。あなたの故郷にもこのような雑誌はおありですの？
+[name="Blue Poison"]I see you have an interest in clothing and fashion magazines. Does your homeland have such publications too?
+[name="블루포이즌"]토미미는 패션 잡지에 관심이 많은 것 같은데, 고향에도 이런 잡지가 있나요?
 
 [name="特米米"]没有，不过依娜姆偶尔会帮我从外面带过来一些。
+[name="トミミ"]ありません、でもたまにイナムが私のために外から持ってきてくれました。
+[name="Tomimi"]No, but sometimes Inam would bring some from the outside for me.
+[name="토미미"]없어요. 하지만 이남이 가끔 밖에서 사다 줬었어요.
 
 [name="特米米"]她是我们那边做生意的人，经常帮忙从外面带些有意思的东西回来，还教我语言。
+[name="トミミ"]イナムは私たちの故郷で商売をやっている人で、よく外から面白いものを持ってきてくれたんですよ。それに、私に外の言葉も教えてくれました。
+[name="Tomimi"]She's the one who does business in our place, so she always brings interesting stuff back. She taught me the outsiders' languages.
+[name="토미미"]이남은 우리 고향에서 장사하는 사람인데요, 종종 밖에서 재미있는 물건들을 사다 주곤 했어요. 그리고 제게 언어도 가르쳐줬고요.
 
 [name="特米米"]等学会语言以后，我就买她那里的书来看，有些书里的内容特别喜欢，就看得多了点。
+[name="トミミ"]言葉を学んでからは、イナムから本を買うようになって、何冊かお気に入りもできました。
+[name="Tomimi"]After I learned them, I bought books from her to read, and I really liked the stuff in some of them, so I kind of ended up reading more.
+[name="토미미"]언어를 배우고 나서 저는 그 사람에게 책을 사게 되었고, 내용이 특별히 마음에 드는 책들은 좀 더 많이 보곤 했었죠.
 
 [name="蓝毒"]比如说？
+[name="アズリウス"]例えば？
+[name="Blue Poison"]Such as?
+[name="블루포이즌"]예를 들면?
 
 [name="特米米"]《都市丽人》之类的。
+[name="トミミ"]『アーバンビューティー』とかです。
+[name="Tomimi"]City Beauty and other ones like that.
+[name="토미미"]《도시 미인》 이런 거요.
 
 [name="蓝毒"]嗯哼，那算是比较知名的时尚杂志了。
+[name="アズリウス"]あら、結構有名なファッション雑誌ですわね。
+[name="Blue Poison"]Mm-hm, that was a fairly notable fashion magazine for sure.
+[name="블루포이즌"]어머, 꽤 유명한 패션잡지인데.
 
 [name="蓝毒"]只是......东西做得太过流水和规范，反而失了打出名声时的灵气，唉......
+[name="アズリウス"]ただ……最近はいつも同じパターンで、あの雑誌が有名になった当初の新鮮さは失われてしまいましたわ。はぁ……
+[name="Blue Poison"]But... their works have been too streamlined, too cookie cutter. They've definitely lost a lot of their mystique... *sigh*...
+[name="블루포이즌"]다만…… 구성이 너무 일관적이고 규범화되다 보니, 지금은 오히려 한창 잘나갔을 때의 감을 잃게 되었죠. 하아……
 
 [name="蓝毒"]听说他们有几个编辑和摄影师想跳出来自立门户，也不知道能不能成。
+[name="アズリウス"]あの雑誌の編集者やカメラマンは、会社を辞めて独立しようとしているという噂ですの。成功するかはわかりませんけど。
+[name="Blue Poison"]I hear a few editors and photographers of theirs want to jump ship and set up their own shop. Who knows yet if that'll come to anything.
+[name="블루포이즌"]그 잡지 편집자랑 사진작가 몇 명이 회사를 그만두고 독립했다고 들었어요. 성공했는지는 모르겠지만.
 
 [name="特米米"]蓝毒姐姐，对时尚很了解的样子，好厉害......
+[name="トミミ"]アズリウスさんはファッションに詳しいんですね、すごいです……
+[name="Tomimi"]You really, really know a lot about fashion, Blue Poison. You're incredible...
+[name="토미미"]블루포이즌 언니는 패션에 대해 너무 잘 아시네요. 정말 대단해요……
 
 [name="蓝毒"]算不上呢，只是看得多，有一些自己的品味和坚持而已。
+[name="アズリウス"]そうでもありませんわ。ただ多くのものを目にして、自分のセンスとこだわりを持っているだけですわよ。
+[name="Blue Poison"]Not quite. I just read around, and have some of my own tastes and opinions, that's all.
+[name="블루포이즌"]그렇지도 않아요. 단지 많이 보다 보니 저만의 센스와 고집이 생겼을 뿐이에요.
 
 [name="蓝毒"]你呢，特米米，对你来说，时尚是什么呢？
+[name="アズリウス"]あなたはどうですの？　トミミ。あなたにとって、ファッションとは何ですの？
+[name="Blue Poison"]How about you, Tomimi? What is fashion to you?
+[name="블루포이즌"]토미미는 어때요? 당신에게 패션이란 무엇인가요?
 
 [name="特米米"]我不太清楚，我们那边的方言没有描述时尚的词汇。
+[name="トミミ"]よくわかりません……私たちの言葉にはファッションを表す単語がありませんから。
+[name="Tomimi"]I'm not too sure. My mother tongue doesn't have the vocabulary to talk fashion.
+[name="토미미"]저도 잘 모르겠어요. 우리 고향의 언어에는 패션을 나타내는 단어가 없으니까요.
 
 [name="特米米"]打人倒是有好几种。
+[name="トミミ"]人を殴ることを表す単語は、いくつも種類があるんですけどね。
+[name="Tomimi"]It has plenty for hitting people, though.
+[name="토미미"]사람을 때리는 것을 가리키는 단어는 여러 종류가 있긴 하지만……
 
 [name="蓝毒"]哈哈......
+[name="アズリウス"]ハハ……
+[name="Blue Poison"]Hahah...
+[name="블루포이즌"]아하핫……
 
 [name="特米米"]我觉得，时尚应该就是好看的衣服，简单又漂亮的首饰。
+[name="トミミ"]私が考える「良いファッション」は、見た目が綺麗な服に、シンプルで美しいアクセサリーを組み合わせたものです。
+[name="Tomimi"]I think, fashion is probably nice-looking clothes, and simple and pretty jewelry.
+[name="토미미"]제가 생각하는 패션은 보기 좋은 옷과 심플하지만 아름다운 액세서리에요.
 
 [name="特米米"]阿卡胡拉没有这样的东西。
+[name="トミミ"]アカフラにはそういったものはありませんから。
+[name="Tomimi"]Acahualla doesn't have anything like that.
+[name="토미미"]아카후알라엔 이런 물건이 없거든요.
 
 [name="特米米"]第一次翻开那本杂志的时候，我才知道，原来衣服也能是那种颜色，那样的造型。
+[name="トミミ"]あの雑誌を開いた時、服にもこんなに色があって、多種多様なデザインがあるんだということを初めて知りました。
+[name="Tomimi"]The first time I opened that magazine was the first time I learned clothes could come in colors like that, and designs like that.
+[name="토미미"]처음 그 잡지를 펼쳤을 때, 옷에도 이렇게 색이 많고, 다양한 디자인이 있다는 것을 알게 되었어요.
 
 [name="特米米"]有些衣服的样子，我可能永远都想象不到，但它会在某一天，出现在我从依娜姆那里买来的杂志上，而且我能很肯定地说——
+[name="トミミ"]イナムから買う雑誌には、私には想像すらつかないような服が突然現れます。そして確実に言えることは──
+[name="Tomimi"]Some clothes I probably couldn't ever imagine in my life, but someday or other, they'd appear in the magazines Inam was selling, and I could say for sure—
+[name="토미미"]어떤 옷은, 진짜 상상도 못할 스타일인데, 어느 날 갑자기 이남한테서 사 온 잡지에서 불쑥불쑥 나오더라고요. 그리고 한 가지 확실한 건……
 
 [name="特米米"]——我喜欢那件衣服。
+[name="トミミ"]──私はそういう服が好きなんです。
+[name="Tomimi"]—I really liked those clothes.
+[name="토미미"]……저는 그런 옷이 마음에 들어요.
 
 [name="蓝毒"]你不是很了解嘛。
+[name="アズリウス"]よく理解なさっているじゃありませんの。
+[name="Blue Poison"]There you go. I'd call you knowledgeable any day.
+[name="블루포이즌"]토미미도 잘 알고 있잖아요.
 
 [name="特米米"]其实我现在身上穿的这一套，也是从杂志上看到喜欢的衣服以后，想办法做了整套然后自己改良的。
+[name="トミミ"]実は私が今着ているこの服も、雑誌で見つけて気に入ったものを、自分でどうにか作り上げて、それからアレンジしたものなんです。
+[name="Tomimi"]Actually, the clothes I'm wearing right now are from when I saw some I really liked in a magazine, so I worked on making the whole outfit and adjusting it myself.
+[name="토미미"]사실 제가 지금 입고 있는 이 옷도, 잡지에서 마음 드는 옷을 보고 어떻게든 한 벌 만들어서 직접 리폼한 거예요.
 
 [name="特米米"]虽然有些破......
+[name="トミミ"]ちょっと雑な作りですけど……
+[name="Tomimi"]Although it's a little rough...
+[name="토미미"]좀 낡긴 했지만……
 
 [name="蓝毒"]啊，我好像有些印象......
+[name="アズリウス"]あら、なんだか見覚えがありますわね……
+[name="Blue Poison"]Ah, I think it's ringing a bell...
+[name="블루포이즌"]아, 왠지 본 적이 있는 거 같은데……
 
 [name="蓝毒"]嗯......
+[name="アズリウス"]えーと……
+[name="Blue Poison"]Hm...
+[name="블루포이즌"]어디 보자……
 
 [name="蓝毒"]（打开并翻阅自己的随身笔记）
+[name="アズリウス"]（ノートを取り出し、めくる）
+[name="Blue Poison"](Opens and flips through her own personal notepad)
+[name="블루포이즌"](노트를 훑어본다)
 
 [name="蓝毒"]玛尔特......狂野......怒嚎......泳装系列......珊瑚海岸......
+[name="アズリウス"]マルテ……ワイルド……ハウル……水着シリーズ……コーラルコースト……
+[name="Blue Poison"]MARTHE... Mad Wild... Fury's Call... Swimming Suit series... Coral Coast...
+[name="블루포이즌"]마르트…… 와일드…… 하울…… 수영복 시리즈…… 코랄코스트……
 
 [name="蓝毒"]找到了。
+[name="アズリウス"]ありましたわ。
+[name="Blue Poison"]Found it.
+[name="블루포이즌"]찾았다.
 
 [name="蓝毒"]来看看，当初是这套吗？
+[name="アズリウス"]ご覧になって、この服ではありませんこと？
+[name="Blue Poison"]Take a look. Was it this outfit?
+[name="블루포이즌"]봐요, 이 옷 아니에요?
 
 [name="特米米"]唔，是的！
+[name="トミミ"]あっ、そうです！
+[name="Tomimi"]Oh, it was!
+[name="토미미"]오, 맞아요!
 
 [name="特米米"]蓝毒姐姐是怎么知道的？！
+[name="トミミ"]どうしてわかったんですか！？
+[name="Tomimi"]How do you know it?!
+[name="토미미"]어떻게 알았어요!?
 
 [name="蓝毒"]积累而已，有时候遇见特别喜欢的设计会剪下来贴在这本笔记里，然后写些自己的心得。
+[name="アズリウス"]特に気に入ったデザインに出会った時は、切り取ってこのノートに貼りつけて、思ったことを書いておくようにしていますの。
+[name="Blue Poison"]It's in my collection. Sometimes, if I meet with a design I particularly like, I'll cut it out and stick it in this notepad, and then write my own gains from it.
+[name="블루포이즌"]저는 특별히 마음에 드는 디자인이 있으면 이렇게 오려내서 이 노트에 붙여 놓거든요. 그리고 리뷰도 적어놓아요.
 
 [name="特米米"]剪，剪下来？那样杂志不会坏掉吗？
+[name="トミミ"]き、切り取るんですか？　それだと雑誌がボロボロになってしまいませんか？
+[name="Tomimi"]Y—You cut them out? Won't that ruin the magazine?
+[name="토미미"]오, 오려내요? 그럼 잡지가 훼손되잖아요?
 
 [name="蓝毒"]这个，怎么说呢......算是我个人的习惯吧。
+[name="アズリウス"]ええ、これは何と申しますか……個人的な習慣ですわ。
+[name="Blue Poison"]It's—how do I put it... I suppose it's a personal habit of mine.
+[name="블루포이즌"]이게, 뭐랄까…… 으음, 개인적인 습관이라고 치죠.
 
 [name="蓝毒"]剪贴画报的确是破坏了书籍的整体性，但对我来说，它是一条捷径。
+[name="アズリウス"]切り貼りすることで確かに本の統一性は損なわれてしまいますわ。ですがこれは私にとって、ある種のショートカットですの。
+[name="Blue Poison"]Cutting and pasting magazine pictures does spoil the print's intactness, but to me, it's a shortcut.
+[name="블루포이즌"]화보 스크랩은 잡지의 온전성을 훼손하는 건은 맞지만, 저에겐 일종의 지름길 같은 거예요.
 
 [name="特米米"]捷径？
+[name="トミミ"]ショートカット？
+[name="Tomimi"]Shortcut?
+[name="토미미"]지름길이요?
 
 [name="蓝毒"]把一本杂志中你最想要获得的知识，放到一起。
+[name="アズリウス"]雑誌の中から自分が欲しい知識だけを、一つにまとめるのですわ。
+[name="Blue Poison"]Taking all the knowledge you want most from a magazine, and putting it in one place.
+[name="블루포이즌"]잡지에서 내가 원하는 지식만 한곳에 모으는 거죠.
 
 [name="蓝毒"]然后通过这条捷径，来到这里。
+[name="アズリウス"]そのショートカットによって、ここに残りますのよ。
+[name="Blue Poison"]And through that shortcut, it ends up in here.
+[name="블루포이즌"]그리고 그 지름길을 통해 여기에 넣는 거고요.
 
 [name="特米米"]到脑袋里？
+[name="トミミ"]頭の中？
+[name="Tomimi"]In your head?
+[name="토미미"]머리에요?
 
 [name="蓝毒"]嗯哼。
+[name="アズリウス"]ええ。
+[name="Blue Poison"]Mm-hm.
+[name="블루포이즌"]네.
 
 [name="蓝毒"]我手上的这本，已经是第六本笔记了。
+[name="アズリウス"]私の手にあるこのノートは、もう六冊目ですわ。
+[name="Blue Poison"]This notepad I'm holding is my sixth one already.
+[name="블루포이즌"]이 노트도 벌써 여섯 권째예요.
 
 [name="蓝毒"]最早的几本，只有在想怀旧的时候才会翻出来看几眼。
+[name="アズリウス"]古い数冊は、今となっては懐かしさを味わいたいと思った時にだけ取り出して、パラパラとめくるだけのものになっていますわ。
+[name="Blue Poison"]I only ever pull out the first few to flick through when I want to feel nostalgic.
+[name="블루포이즌"]처음 몇 권은 가끔 옛 추억이 그리울 때만 대충 훑어보는 식이죠.
 
 [name="蓝毒"]上面除了回忆以外，已经什么都不剩了。
+[name="アズリウス"]そこにはもう思い出以外には、何も残っていません。
+[name="Blue Poison"]Inside them, save for memories, there's nothing left at all.
+[name="블루포이즌"]거긴 이제 추억 말고는 아무것도 남지 않았으니까요.
 
 [name="蓝毒"]真正重要的，全在脑子里。
+[name="アズリウス"]本当に重要なことは、すべて私の中で……
+[name="Blue Poison"]The truly important things have all gone into my brain.
+[name="블루포이즌"]가장 중요한 것은 모두 이 머리속에서……
 
 [name="蓝毒"]成为了审美、品味、格调。
+[name="アズリウス"]それらが私の審美眼、センス、スタイルとなりましたわ。
+[name="Blue Poison"]They've become my aesthetics, tastes, styles.
+[name="블루포이즌"]뷰티, 센스, 그리고 스타일이 되었죠.
 
 [name="特米米"]脑袋真的能记住那么多吗？
+[name="トミミ"]本当に、そんなたくさん覚えられるんですか？
+[name="Tomimi"]Can brains really remember that much?
+[name="토미미"]진짜 그렇게 많이 외울 수 있어요?
 
 [name="蓝毒"]当然不会，它只留下你最不想忘记的部分。
+[name="アズリウス"]もちろん無理ですわ。残るのは自分が最も忘れたくない部分だけ。
+[name="Blue Poison"]Of course not. What's left behind is only the parts you least want to forget.
+[name="블루포이즌"]물론 무리죠. 남는 것은 자신이 가장 잊고 싶지 않은 부분이에요.
 
 [name="蓝毒"]比如，你对美的选择和追求。
+[name="アズリウス"]例えば、美に対する自身の選択と追求、といったものかしら。
+[name="Blue Poison"]Such as, your choices and aspirations for beauty.
+[name="블루포이즌"]예를 들면, 미에 대한 선택과 추구라든가.
 
 [name="蓝毒"]或者，对你来说的话，嗯——
+[name="アズリウス"]あなたの場合は、えーと──
+[name="Blue Poison"]Or maybe, in your case, um—
+[name="블루포이즌"]혹은, 토미미의 경우, 으음……
 
 [name="蓝毒"]嘉维尔？
+[name="アズリウス"]ガヴィルさん？
+[name="Blue Poison"]Gavial?
+[name="블루포이즌"]가비알 씨라던가?
 
 [name="特米米"]唔，你说得对，嘉维尔的确忘不了。
+[name="トミミ"]えっと、その通りです。確かにガヴィルさんを忘れることはできません。
+[name="Tomimi"]Oh, you're right. I definitely couldn't forget Gavial.
+[name="토미미"]네, 맞아요. 가비알 씨는 절대 잊을 수 없죠.
 
 [name="蓝毒"]最重要的回忆，总是在脑袋里的。
+[name="アズリウス"]一番大切な思い出は、いつも頭の中にあるものですわ。
+[name="Blue Poison"]The most important memories, they're always in your head.
+[name="블루포이즌"]가장 소중한 추억은 항상 머릿속에 있으니까요.
 
 [name="蓝毒"]物品有时只是开启它们的钥匙。
+[name="アズリウス"]物というのは、それらの扉を開く鍵にすぎないこともあるのです。
+[name="Blue Poison"]Sometimes, things are just keys for opening them up.
+[name="블루포이즌"]물건은 단지 그 추억을 열기 위한 열쇠일 뿐이죠.
 
 [name="蓝毒"]等到你把回忆巩固成自动门，就再也不需要钥匙了。
+[name="アズリウス"]その扉が自動ドアになるまで思い出を強固にすれば、鍵なんて必要なくなりますわ。
+[name="Blue Poison"]Once you consolidate the memories and they're like an automatic door, you'll never need the key again.
+[name="블루포이즌"]그 문이 자동문이 될 때까지 추억을 굳게 다지면, 나중에 열쇠도 필요 없게 된답니다.
 
 [name="特米米"]有，有道理。
+[name="トミミ"]た、確かに。
+[name="Tomimi"]That... that makes sense.
+[name="토미미"]이, 일리가 있네요.
 
 [name="特米米"]钥匙......宝物......
+[name="トミミ"]鍵……宝物……
+[name="Tomimi"]Keys... treasure...
+[name="토미미"]열쇠…… 보물……
 
 [name="特米米"]回忆......
+[name="トミミ"]思い出……
+[name="Tomimi"]Memories...
+[name="토미미"]추억……
 
 [name="特米米"]......
+[name="トミミ"]……
+[name="Tomimi"]......
+[name="토미미"]……
 
 [name="蓝毒"]特米米，你有试过穿搭吗？
+[name="アズリウス"]トミミ、コーディネートをしたことはあるかしら？
+[name="Blue Poison"]Tomimi, have you ever tried styling outfits before?
+[name="블루포이즌"]토미미, 혹시 스타일링 받아본 적 있어요?
 
 [name="特米米"]穿搭？没，还没有。
+[name="トミミ"]コーディネート？　あ、ありません。
+[name="Tomimi"]Styling? No, not yet.
+[name="토미미"]스타일링이요? 아, 아니요.
 
 [name="蓝毒"]那我们现在就去商店试衣，怎么样？
+[name="アズリウス"]では今からショップへ行って試着してみませんこと？
+[name="Blue Poison"]Then let's go to the shops and try on some clothes, what do you think?
+[name="블루포이즌"]그럼 우리 지금 가게에 가서 피팅 해보는 게 어때요?
 
 [name="特米米"]试衣？可，可以吗？！
+[name="トミミ"]試着？　い、いいんですか！？
+[name="Tomimi"]Try them? Can—can I?!
+[name="토미미"]피팅이요? 괘, 괜찮을까요?!
 
 [name="蓝毒"]嗯。
+[name="アズリウス"]ええ。
+[name="Blue Poison"]Sure.
+[name="블루포이즌"]그럼요.
 
 [name="蓝毒"]虽然种类没有移动城市里的商场那么齐全，但可以先带你体验一下。
+[name="アズリウス"]品数は移動都市のショッピングモールほど豊富ではありませんが、まずは体験してみるのが良いでしょう。
+[name="Blue Poison"]Though the selection's not as complete as stores in the big cities, I can take you to experience it at least.
+[name="블루포이즌"]물론 상품 종류는 이동도시의 쇼핑몰만큼 많지 않지만, 그래도 일단 체험해 보는 게 좋아요.
 
 [name="蓝毒"]如果你不介意的话，我可以找位裁缝一起去，帮你多提供点穿搭上的建议。
+[name="アズリウス"]嫌でなければ、仕立屋さんをお呼びして、コーディネートのアドバイスをしてもらうのもアリですわ。
+[name="Blue Poison"]If you don't mind, I can take us to visit a tailor, to get you even more style suggestions.
+[name="블루포이즌"]당신만 괜찮다면, 제가 재단사를 불러 코디에 대한 의견도 좀 줄 수 있어요.
 
 [name="特米米"]这，这个，真的可以办到吗？！
+[name="トミミ"]そ、そんなこと、本当にできるんですか！？
+[name="Tomimi"]I—is that—really something you can do?!
+[name="토미미"]그, 그게, 정말로 가능한가요?
 
 [name="蓝毒"]可以呢，如果你想的话，在罗德岛上都可以全身订制一整套衣服哦。
+[name="アズリウス"]ええ。もしお望みなら、ロドスで全身オーダーメイドだってできますわよ。
+[name="Blue Poison"]Of course. If you want, we can even have a whole outfit custom-made for you here at Rhodes Island.
+[name="블루포이즌"]가능하죠. 원한다면 로도스 아일랜드에서 옷 한 벌을 맞춤 제작할 수도 있어요.
 
 [name="蓝毒"]（小声嘀咕）只是价格不太亲民......
+[name="アズリウス"]（小声）ただし、お値段はそこまでお手頃ではありませんけど……
+[name="Blue Poison"](Small mutter) Although the prices aren't too customer-friendly...
+[name="블루포이즌"](작은 목소리로) 가격이 별로 착하진 않지만……
 
 [name="特米米"]好，好的，我，呃，我，我准备一下。
+[name="トミミ"]わ、わかりました。私……ううっ、わ、私準備してきます。
+[name="Tomimi"]O—Okay, I, uh, I, I'll get ready.
+[name="토미미"]아, 알겠습니다…… 으음, 저, 저 준비하고 올게요.
 
 [name="特米米"]一会要试衣服，对吧。
+[name="トミミ"]後で試着するんですよね。
+[name="Tomimi"]We're gonna try on clothes in a moment, right?
+[name="토미미"]이따가 피팅 하는 거 맞죠?
 
 [name="蓝毒"]嗯。
+[name="アズリウス"]ええ。
+[name="Blue Poison"]Mhm.
+[name="블루포이즌"]네.
 
 [name="特米米"]那我，我，我先回宿舍把背包放下，这样试衣服的时候可以轻松些。
+[name="トミミ"]じゃあ、わ、わ、私まずは宿舎に戻ってリュックを置いてきます。その方が試着しやすいですから。
+[name="Tomimi"]Then I—I, I need to put my backpack in my dorm first, and then it'll be less tricky when I'm trying them on.
+[name="토미미"]그럼, 저, 저, 저는 먼저 숙소에 돌아가 배낭을 두고 올게요. 그래야 피팅 할 때 편할 거 같아요.
 
 [name="路过的黎博利"]您能认识到这点，可是一件值得庆贺的事。
+[name="通りすがりのリーベリ"]そこに気付いたのは、とても喜ばしいことね。
+[name="Passerby Liberi"]The fact you've gained awareness of this is something worth celebrating, you know.
+[name="지나가던 리베리"]당신이 그걸 깨달은 건, 확실히 기쁜 일이로군요.
 
 [name="特米米"]啊，是刚才遇到的黎博利姐姐！
+[name="トミミ"]あっ、さっきのリーベリのお姉さん！
+[name="Tomimi"]Ah, it's Miss Liberi from just before!
+[name="토미미"]앗, 아까 그 리베리 언니!!
 
 [name="路过的黎博利"]之前忘做自我介绍了，请您原谅我的疏忽。
+[name="通りすがりのリーベリ"]さっきは自己紹介するのを忘れていたわ、許してもらえるかしら。
+[name="Passerby Liberi"]I forgot to introduce myself previously. Do forgive me for my negligence.
+[name="지나가던 리베리"]아까는 자기소개하는 걸 잊었네요. 미안해요, 이젠 저도 말을 편하게 할게요.
 
 [name="星极"]阿丝忒希娅·乌比卡，大家一般称呼我为星极。
+[name="アステシア"]アステシア・ウビカよ、アステシアでいいわ。
+[name="Astesia"]Astesia Urbica. Most usually call me just Astesia.
+[name="아스테시아"]나는 아스테시아 우르비카, 다들 아스테시아라 불러.
 
 [name="星极"]很高兴认识你。
+[name="アステシア"]あなたと知り合えて嬉しいわ。
+[name="Astesia"]Pleased to make your acquaintance.
+[name="아스테시아"]널 알게 돼서 정말 기뻐.
 
 [name="特米米"]你好，星极姐姐。
+[name="トミミ"]こちらこそ嬉しいです、アステシアさん。
+[name="Tomimi"]Hello, Miss Urbica.
+[name="토미미"]안녕하세요, 아스테시아 언니.
 
 [name="特米米"]（伸出手）
+[name="トミミ"]（手を差し出す）
+[name="Tomimi"](Holds out hand)
+[name="토미미"](손을 내민다)
 
 [name="星极"]（轻盈地握了下手）
+[name="アステシア"]（軽やかに握手をする）
+[name="Astesia"](Elegantly shakes hands)
+[name="아스테시아"](가볍게 악수한다)
 
 [name="蓝毒"]下午好，星极小姐。
+[name="アズリウス"]ごきげんよう、アステシアさん。
+[name="Blue Poison"]Good afternoon, Miss Urbica.
+[name="블루포이즌"]안녕하세요, 아스테시아 씨.
 
 [name="星极"]下午好，蓝毒小姐。
+[name="アステシア"]ごきげんよう、アズリウスさん。
+[name="Astesia"]Good afternoon, Blue Poison.
+[name="아스테시아"]안녕, 블루포이즌 씨.
 
 [name="蓝毒"]我想带特米米去试一下衣服，您要是方便的话——
+[name="アズリウス"]今からトミミを連れてお洋服の試着に行こうと思っておりますの。もしよろしければ──
+[name="Blue Poison"]I want to take Tomimi to try on some clothes. If you could—
+[name="블루포이즌"]토미미를 데리고 옷을 피팅 하려고요. 혹시 아스테시아 씨가 괜찮으시다면……
 
 [name="星极"]正巧我也想选几件新衣服，能和各位同行是我莫大的荣幸。
+[name="アステシア"]ちょうど私も新しい服を何着か選びたいと思っていたの。ご一緒できるならこの上ない喜びだわ。
+[name="Astesia"]As luck has it, I want to pick out some new clothes for myself too. It would be my greatest pleasure to go with you.
+[name="아스테시아"]마침 나도 새 옷 몇 벌을 고르고 싶었는데, 두 사람과 함께 갈 수 있다면 더할 나위 없는 기쁨이지.
 
 [name="星极"]柏喙小姐的话，应该还在书摊那里买刊物吧。
+[name="アステシア"]バイビークさんも、本屋さんで買い物をしている最中かしら？
+[name="Astesia"]As for Bibeak, I wager she's still at the bookstand, buying the print.
+[name="아스테시아"]바이비크 씨라면 아직 서점에서 책을 고르고 있을걸?
 
 [name="星极"]哎呀，看来我猜对了。
+[name="アステシア"]あら、予想通りね。
+[name="Astesia"]Oh, my. It seems I wagered correctly.
+[name="아스테시아"]어머, 역시 예상이 맞았구나.
 
 [name="蓝毒"]（真是什么事都瞒不过她......）
+[name="アズリウス"]（本当に彼女は何でもお見通しですわね……）
+[name="Blue Poison"](You really can't get anything past her...)
+[name="블루포이즌"](정말 아스테시아 씨는 못 속이겠구나.)
 
 [name="蓝毒"]我先去和柏喙打个招呼。
+[name="アズリウス"]私は先にバイビークさんにご挨拶してきますわ。
+[name="Blue Poison"]I'll go give Bibeak a heads-up.
+[name="블루포이즌"]저는 먼저 바이비크 씨랑 인사하고 올게요.
 
 [name="蓝毒"]一会见。
+[name="アズリウス"]また後ほど。
+[name="Blue Poison"]See you in a bit.
+[name="블루포이즌"]이따 봐요.
 
 [name="特米米"]（小声）星极，星极姐姐！
+[name="トミミ"]（小声）アステシアさん、アステシアさん！
+[name="Tomimi"](Hushed) Astesia, Miss Urbica!
+[name="토미미"](작은 목소리로) 아스테시아, 아스테시아 언니!
 
 [name="星极"]（小声）怎么啦。
+[name="アステシア"]（小声）どうしたの？
+[name="Astesia"](Hushed) What's the matter?
+[name="아스테시아"](작은 목소리로) 왜 그러니?
 
 [name="特米米"]（小声）你之前说的，布置成展馆，大概是怎么做啊。
+[name="トミミ"]（小声）アステシアさんが言っていた、宿舎を展示室にするって、どうやればいいんですか？
+[name="Tomimi"](Hushed) You said before, about furnishing into a museum. How do I really do that?
+[name="토미미"](작은 목소리로) 언니가 전에 말했던, 숙소를 전시관처럼 꾸민다는 게 혹시 어떻게 하는 거예요?
 
 [name="星极"]（小声）来，看到那边的小喷泉了吗？
+[name="アステシア"]（小声）ほら、あそこの小さな噴水が見えるかしら？
+[name="Astesia"](Hushed) Here. See that little water fountain?
+[name="아스테시아"](작은 목소리로) 저기 작은 분수대 보이지?
 
 [name="特米米"]（小声）嗯嗯。
+[name="トミミ"]（小声）はい。
+[name="Tomimi"](Hushed) Mmhm.
+[name="토미미"](작은 목소리로) 네, 보여요.
 
 [name="星极"]（小声）喷泉上有个浮雕，是不是很漂亮？
+[name="アステシア"]（小声）噴水に付いている彫刻は、美しいでしょう？
+[name="Astesia"](Hushed) There's a sculpted relief on top of it. Isn't it pretty?
+[name="아스테시아"](작은 목소리로) 분수대 위의 조각상이 예쁘지 않아?
 
 [name="特米米"]（小声）嗯嗯。
+[name="トミミ"]（小声）はい。
+[name="Tomimi"](Hushed) Mmhm.
+[name="토미미"](작은 목소리로) 네, 예뻐요.
 
 [name="星极"]（小声）如果那个浮雕是你精心保存的藏品，你会不会觉得，很开心？
+[name="アステシア"]（小声）もしあの彫刻があなたの大切にしているコレクションだとしたら、あなたは嬉しい？
+[name="Astesia"](Hushed) If that fountain was your own meticulously preserved piece, would that make you feel, well, delighted?
+[name="아스테시아"](작은 목소리로) 저 조각상이 너의 소중한 수집품이라면, 과연 너는 기뻐할까?
 
 [name="特米米"]（小声）嗯......嗯嗯！
+[name="トミミ"]（小声）は……はい、もちろんです！
+[name="Tomimi"](Hushed) Um... mmhm!
+[name="토미미"](작은 목소리로) 으음…… 네, 물론이죠!
 
 [name="星极"]（小声）就是这么回事。
+[name="アステシア"]（小声）そういうことよ。
+[name="Astesia"](Hushed) And that's the way it works.
+[name="아스테시아"](작은 목소리로) 바로 저런 거야.
 
 [name="星极"]（小声）把美好的回忆放在特别为其制作的台座上，总是一件能够让人欣喜的事。
+[name="アステシア"]（小声）美しい思い出を、わざわざその思い出のために作られた台に置くことで、人は嬉しくなるものよ。
+[name="Astesia"](Hushed) Placing beautiful memories on pedestals specially made for them—it always has the power to cheer oneself up.
+[name="아스테시아"](작은 목소리로) 아름다운 추억을 정성껏 만든 받침대에 올려놓아 수집하면 보는 것만으로도 기쁘거든.
 
 [name="星极"]（小声）如果有需要，还可以在台座上加装其他装置，可以防止外力破坏，也能把物品的寿命延长许多。
+[name="アステシア"]（小声）必要に応じて、その台にケースを取り付けたっていいわ。外からの力で壊れるのを防いだり、宝物の寿命を延ばすこともできるから。
+[name="Astesia"](Hushed) If you need it, you can install further equipment on the pedestals too. You can protect things from outside damage, and greatly extend their lifetimes.
+[name="아스테시아"](작은 목소리로) 필요하면 그 받침대에 케이스를 씌워서 외부 파손을 방지하면, 보물의 수명도 늘릴 수 있지.
 
 [name="特米米"]（小声）听起来挺不错的。
+[name="トミミ"]（小声）なんだかすごく素敵です。
+[name="Tomimi"](Hushed) That sounds pretty good.
+[name="토미미"](작은 목소리로) 뭔가 되게 괜찮은 것 같네요.
 
 [name="特米米"]（小声）那，有，有空的话，可不可以麻烦您，帮忙，嗯，规划？
+[name="トミミ"]（小声）あの……じ、時間がある時でいいので、その計画を立てるのを……ええと……て、手伝ってくれますか？
+[name="Tomimi"](Hushed) Then, if, if you have time, could I ask you to, help me, um, plan it out?
+[name="토미미"](작은 목소리로) 그럼 저…… 시, 시간이 있을 때라도 좋으니, 그 계획을 세우는 것을…… 저기, 도와주시겠어요?
 
 [name="星极"]（小声）没问题。
+[name="アステシア"]（小声）いいわよ。
+[name="Astesia"](Hushed) Of course.
+[name="아스테시아"](작은 목소리로) 응, 좋아.
 
 [name="星极"]（小声）装饰挑选有它的讲究，等你试完了衣裳，我们再慢慢研究。
+[name="アステシア"]（小声）お部屋の飾り付けは奥が深いの。お洋服の試着が終わったら一緒にゆっくり考えましょう。
+[name="Astesia"](Hushed) Choosing decor has its own particularities. When you're done trying on clothes, we can take our time with research.
+[name="아스테시아"](작은 목소리로) 장식품을 고르는 데도 신경 써야 할 게 많아. 이따가 피팅이 끝나면 우리 다시 천천히 생각해보자.
 
 [name="星极"]现在先去和蓝毒小姐她们会合吧，让她们久等可不好。
+[name="アステシア"]まずはアズリウスさんたちと合流しましょう。あまり待たせるのは良くないわ。
+[name="Astesia"]For now, we'll go meet up with Blue Poison and her friends. It would never do to keep them waiting.
+[name="아스테시아"]우선 블루포이즌 씨한테 가자. 너무 기다리게 하는 건 좋지 않으니까.
 
 [name="特米米"]好的！
+[name="トミミ"]はい！
+[name="Tomimi"]Okay!
+[name="토미미"]네!
 
 [name="星极"]特米米。
+[name="アステシア"]トミミ。
+[name="Astesia"]Tomimi.
+[name="아스테시아"]토미미.
 
 [name="特米米"]怎么了星极姐姐？
+[name="トミミ"]何ですか、アステシアさん？
+[name="Tomimi"]What is it, Miss Urbica?
+[name="토미미"]왜요? 아스테시아 언니?
 
 [name="星极"]现在心情好些了吗？
+[name="アステシア"]少しは気分が晴れたかしら？
+[name="Astesia"]Do you feel in a better mood now?
+[name="아스테시아"]지금은 기분이 괜찮아졌어?
 
 [name="特米米"]嗯！
+[name="トミミ"]はい！
+[name="Tomimi"]Yes!
+[name="토미미"]네!
 
 [name="特米米"]做自己喜欢的事，很开心的。
+[name="トミミ"]自分の好きなことをするのは、すっごく楽しいです。
+[name="Tomimi"]Doing what I like—makes me really happy.
+[name="토미미"]제가 좋아하는 일을 하니 즐거워요.
 
 [name="星极"]嗯，那就好。
+[name="アステシア"]うん、それならよかったわ。
+[name="Astesia"]Oh, that's wonderful.
+[name="아스테시아"]응, 그럼 됐어.
 
 [name="星极"]我们出发吧。
+[name="アステシア"]行きましょうか。
+[name="Astesia"]Let's go, then.
+[name="아스테시아"]가볼까?
 
 [name="特米米"]好的，星极姐姐！
+[name="トミミ"]はい、アステシアさん！
+[name="Tomimi"]Alright!
+[name="토미미"]네, 아스테시아 언니!
 
 [name="特米米"]罗德岛和阿卡胡拉的区别是有一点大。
+[name="トミミ"]ロドスとアカフラには、違いがたくさんある。
+[name="Tomimi"]The difference between Rhodes Island and Acahualla is kind of big.
+[name="토미미"]로도스 아일랜드는 아카후알라랑 많이 다른 것 같아요.
 
 [name="特米米"]这里有很多不能做的事，房间也比较小。
+[name="トミミ"]ここではできないことも多くて、部屋も小さいけど……
+[name="Tomimi"]There's a lot you can't do here, and the rooms are pretty small.
+[name="토미미"]여기서는 할 수 없는 일이 많고, 방도 좁은 편이에요.
 
 [name="特米米"]但我不是很在意。
+[name="トミミ"]でも私はあんまり気にしない。
+[name="Tomimi"]But I don't mind it that much.
+[name="토미미"]그렇지만, 전 상관없어요.
 
 [name="特米米"]我能在这里学到很多新知识，认识到新朋友。
+[name="トミミ"]ここではたくさんの新しい知識が学べるし、新しい友達とも知り合えるから。
+[name="Tomimi"]I can learn so many new things, and make new friends.
+[name="토미미"]전 이곳에서 새로운 지식을 많이 배웠고, 새로운 친구도 사귀었어요.
 
 [name="特米米"]没有比这更令人开心的事了。
+[name="トミミ"]こんな楽しいことはないよ。
+[name="Tomimi"]There's nothing that makes me happier.
+[name="토미미"]여기서 지내는 건 정말 즐거워요.
 
 [name="特米米"]或许我可以在这里成为一个时尚达人、探险家、术师。
+[name="トミミ"]もしかしたら、私はここでファッションリーダーや冒険家、術師になれるかもしれないし――
+[name="Tomimi"]Maybe I can become a fashion expert, or an explorer, or a Caster.
+[name="토미미"]어쩌면 저는 이곳에서 패션리더나 모험가, 캐스터가 될지도 몰라요.
 
 [name="特米米"]或者有探险精神的时尚术师？
+[name="トミミ"]全部まとめて、冒険心のあるファッショナブルな術師になれちゃうかも。
+[name="Tomimi"]Or maybe a fashionable Caster with an exploring spirit?
+[name="토미미"]아니면 모험적인 패셔너블한 캐스터가 될까요?
 
 [name="特米米"]未来又会发生什么有趣的事呢？
+[name="トミミ"]これから先、どんな面白いことが起こるのかな？
+[name="Tomimi"]And what fun stuff might happen in the future?
+[name="토미미"]앞으로 어떤 재미있는 일이 생길까요?
 
 [name="特米米"]我真的很期待。
+[name="トミミ"]すごく楽しみ。
+[name="Tomimi"]I'm really looking forward to it.
+[name="토미미"]정말 기대돼요.
 
 [name="特米米"]嘉维尔也是因为这些原因，才选择留在罗德岛，而不是待在阿卡胡拉吧。
+[name="トミミ"]ガヴィルさんもきっと同じような理由で、アカフラじゃなく、ロドスに留まる選択をしたんだ。
+[name="Tomimi"]I guess when Gavial chose to stay at Rhodes Island, and not in Acahualla, this was why.
+[name="토미미"]아마 가비알 씨도 이런 이유로, 아카후알라가 아닌 로도스 아일랜드에 남는 걸 선택한 거겠죠.
 
 [name="特米米"]......
+[name="トミミ"]……
+[name="Tomimi"]......
+[name="토미미"]……
 
 [name="特米米"]不知道嘉维尔现在又在做些什么呢？
+[name="トミミ"]ガヴィルさん、今頃何してるのかなぁ？
+[name="Tomimi"]I wonder what Gavial's up to now?
+[name="토미미"]가비알 씨는 지금쯤 뭘 하고 있을까요?
 
 [name="嘉维尔"]忍住啊，也就疼一下的事。
+[name="ガヴィル"]我慢しろ、痛ぇのは一瞬だから。
+[name="Gavial"]Hold still! It'll just hurt for ONE moment.
+[name="가비알"]참아, 아픈 건 순간뿐이야!
 
 [name="外勤干员"]疼死了你轻点！
+[name="外勤オペレーター"]クソ痛ぇな！　もっと優しくやれよ！
+[name="Field Operator"]Ow, gentle, you're killing me!
+[name="외근 오퍼레이터"]으아아악! 야, 살살해 쫌!
 
 [name="嘉维尔"]只是疼，死不了。
+[name="ガヴィル"]痛ぇだけだろ、死にゃしねぇよ。
+[name="Gavial"]I said it'd hurt, not kill you.
+[name="가비알"]아픈 거지, 죽지는 않아.
 
 [name="嘉维尔"]嗯？
+[name="ガヴィル"]あ？
+[name="Gavial"]Hm?
+[name="가비알"]어?
 
 [name="嘉维尔"]哼。
+[name="ガヴィル"]フンッ。
+[name="Gavial"]Hmph.
+[name="가비알"]흡.
 
 [name="嘉维尔"]包扎好了，你摁住伤口，我去和客人打个招呼。
+[name="ガヴィル"]手当は終わった。傷口を押さえとけ。アタシは客人に挨拶してくっからよ。
+[name="Gavial"]All bound up. You put some pressure on that wound, and I'll give our guests a warm welcome.
+[name="가비알"]잘 싸맸으니 상처를 꾹 누르고 있어. 나는 우리 게스트에게 인사나 하고 올게.
 
 [name="嘉维尔"]喝！
+[name="ガヴィル"]ハァッ！
+[name="Gavial"]Hah!
+[name="가비알"]흐아!
 
 [name="？？？"]唔呃......
+[name="？？？"]うぐっ……
+[name="???"]Urgh...
+[name="???"]으윽……
 
 [name="嘉维尔"]喂，怎么有人溜到我这里来了！
+[name="ガヴィル"]おい、どうしてアタシのとこまで敵が来てんだよ！
+[name="Gavial"]Hey! What's with these punks creeping up here?
+[name="가비알"]에이 진짜, 적이 왜 또 여기까지 오고 난린데!
 
 [name="外勤队长"]抱歉嘉维尔，就偷溜了那一个，其他人全搞定了！
+[name="外勤隊隊長"]すまんガヴィル、一人入られちまった。ほかのは全部片づけたぞ！
+[name="Field Captain"]Sorry, Gavial! We only let that one guy slip, the others are all done and dusted!
+[name="외근 대장"]미안, 가비알. 저거 딱 한 명이야. 다른 놈들은 다 해치웠고.
 
 [name="外勤队长"]所有人，原地休整，注意警戒！
+[name="外勤隊隊長"]全員、その場で休憩。警戒を怠るな！
+[name="Field Captain"]Everyone, rest up where you are, and stay vigilant!
+[name="외근 대장"]전원, 제자리에서 휴식한다. 경계 태세는 유지하고!
 
 [name="全体外勤干员"]是！
+[name="外勤隊全員"]はっ！
+[name="All Field Operators"]Understood!
+[name="전체 외근 오퍼레이터"]네, 알겠습니다!
 
 [name="外勤干员"]呼，终于结束了。
+[name="外勤オペレーター"]ふぅ、やっと終わったな。
+[name="Field Operator"]Phew. It's finally over.
+[name="외근 오퍼레이터"]휴, 드디어 끝났다.
 
 [name="嘉维尔"]嗯，你没事就好。
+[name="ガヴィル"]ああ、無事で何よりだ。
+[name="Gavial"]Yep. Long as you're all alright.
+[name="가비알"]응, 네가 무사해서 다행이다.
 
 [name="外勤干员"]嘉维尔。
+[name="外勤オペレーター"]ガヴィル。
+[name="Field Operator"]Gavial.
+[name="외근 오퍼레이터"]가비알.
 
 [name="嘉维尔"]嗯？
+[name="ガヴィル"]うん？
+[name="Gavial"]Hm?
+[name="가비알"]어?
 
 [name="外勤干员"]你这次出任务那么急，有和你家乡的朋友打过招呼吗？
+[name="外勤オペレーター"]今回の任務は急だったが、同郷の奴にはちゃんと連絡を入れてから来たのか？
+[name="Field Operator"]You had real short notice for this mission. Did you ever send your hometown friend any regards?
+[name="외근 오퍼레이터"]너 이번에 급히 임무 하러 나오면서, 그 고향 친구한테 간다고 얘기 하고 왔어?
 
 [name="嘉维尔"]这有什么好打招呼的，都是熟人。
+[name="ガヴィル"]いちいち連絡する必要なんてねぇだろ、見知った仲なのによ。
+[name="Gavial"]What regards am I gonna give? I know her.
+[name="가비알"]잘 아는 사이인데, 굳이 따로 말할 게 있나.
 
 [name="外勤干员"]别人我不太清楚，但那个经常来医疗部看你的同族，你总要和她说声吧。
+[name="外勤オペレーター"]ほかの奴らはどうか知らんが、よく医療部まで会いに来るあの同族の子くらいは、声かけといた方がよかったんじゃねぇのか？
+[name="Field Operator"]Not sure about anyone else, but the one who keeps coming to Medical, same race as you, right? You could at least give her a shout.
+[name="외근 오퍼레이터"]다른 사람은 몰라도, 자주 의료부에 널 보러 오는 그 동족 친구에겐 말했어야지.
 
 [name="外勤干员"]万一没找到你，她不哭到把罗德岛给淹了。
+[name="外勤オペレーター"]万が一お前が見つからないとなったら、ロドスが水浸しになるほど泣いちまうんじゃねぇか？
+[name="Field Operator"]What if she didn't find you, and cried Rhodes Island under water?
+[name="외근 오퍼레이터"]네가 안 보이면, 그 친구는 로도스 아일랜드가 잠길 때까지 울 수도 있다고.
 
 [name="嘉维尔"]我们阿卡胡拉出来的人都是一顶一的强者，特米米可没那么脆弱。
+[name="ガヴィル"]トミミはそんなに弱くねぇよ。アタシたちアカフラ出身の奴はどいつも強者だからな。
+[name="Gavial"]Us Acahualla expats are all strongest of the strong. Tomimi sure as hell isn't that weak.
+[name="가비알"]토미미는 그렇게 연약하지 않아. 우리 아카후알라 출신은 다 강하단 말이야.
 
 [name="嘉维尔"]再说了，之前帮星极做了些活，万一有事，她肯定会出手帮一把的。
+[name="ガヴィル"]それに、前にアステシアを手伝ってやったことがあるから、もし何かあれば、あいつがきっと助けてくれんだろ。
+[name="Gavial"]Besides, I ran some work with Astesia pretty recently. Anything happens, and she'll be there to help manage, guaranteed.
+[name="가비알"]더군다나, 전에 아스테시아를 도와준 적이 있으니, 혹시 무슨 일이 생기면 그 녀석이 틀림없이 나서서 도와줄 거야.
 
 [name="外勤干员"]行啊你早都算好了啊，当我没说。
+[name="外勤オペレーター"]そうか。とっくに対策は考えてあったんだな、今のは聞かなかったことにしてくれ。
+[name="Field Operator"]Fine, yeah, you got it all worked out already. Pretend I never asked.
+[name="외근 오퍼레이터"]이야…… 넌 다 생각이 있구나. 그럼 못 들은 걸로 해줘.
 
 [name="嘉维尔"]别唠叨了，赶紧帮我看看任务结束以后，我们在哪个位置和罗德岛本舰会合？
+[name="ガヴィル"]無駄口叩いてねぇで、任務が終わったらどこでロドス本艦と合流すればいいのか早く確認しろよ。
+[name="Gavial"]Less yapping, more helping me figure the post-mission out. Where are we linking up with the R.I. landship?
+[name="가비알"]쓸데없는 말 그만하고, 임무 끝나고 어디서 로도스 아일랜드 본함이랑 합류할지 확인해 봐.
 
 [name="外勤干员"]好，等一下。
+[name="外勤オペレーター"]ああ、ちょっと待ってくれ。
+[name="Field Operator"]Oh, yeah, one sec.
+[name="외근 오퍼레이터"]응, 잠깐만.
 
 [name="外勤干员"]嗯......这里。
+[name="外勤オペレーター"]うん……ここだ。
+[name="Field Operator"]Um... here.
+[name="외근 오퍼레이터"]으음…… 여기야.
 
 [name="外勤干员"]本舰会在这座城市停靠，进行休整和补给。
+[name="外勤オペレーター"]本艦は、調整と補給のためにこの都市に停泊するみたいだ。
+[name="Field Operator"]Landship'll be calling at this city for rest and resupply.
+[name="외근 오퍼레이터"]본함은 이 도시에 정박해서 휴식하고 보급할 거야.
 
 [name="外勤干员"]听说这还是座度假城市，城里有大片的滨水沙滩对游客开放。
+[name="外勤オペレーター"]ここはリゾート都市らしいな。街のウォーターフロントビーチは、観光客に開放されているぞ。
+[name="Field Operator"]Hear it's a holiday city too. Giant coastal beach in there, wide open to tourists.
+[name="외근 오퍼레이터"]여긴 휴양 도시라서 넓은 백사장이 관광객들에게 개방되어 있대.
 
 [name="外勤干员"]我们正好能放个假。
+[name="外勤オペレーター"]休暇をとるにゃいい機会だぜ。
+[name="Field Operator"]Thinking what I'm thinking? We can take a vacation.
+[name="외근 오퍼레이터"]우리도 마침 휴가를 낼 수 있잖아.
 
 [name="嘉维尔"]那不错嘛。
+[name="ガヴィル"]そりゃいいな。
+[name="Gavial"]Doesn't that work out.
+[name="가비알"]그거 괜찮은데.
 
 [name="嘉维尔"]（度假城市......滨水沙滩？）
+[name="ガヴィル"]（リゾート都市……ウォーターフロントビーチ？）
+[name="Gavial"](Holiday city... coastal beach?)
+[name="가비알"](휴양도시라…… 백사장?)
 
 [name="嘉维尔"]（要不，给她买套水边穿的衣服？她应该会喜欢的。）
+[name="ガヴィル"]（じゃあ、あいつへの土産に水辺用の服でも買っていってやるか。多分気に入るだろ。）
+[name="Gavial"](How about I buy her an outfit for the waterside? She oughta like that.)
+[name="가비알"](토미미한테 수영복이나 한 벌 사다 줄까? 아마 좋아하겠지?)
 
 [name="嘉维尔"]（就当是，道个歉吧。）
+[name="ガヴィル"]（詫びの印としてな。）
+[name="Gavial"](Yeah. Call it an apology.)
+[name="가비알"](사과하는 셈 치고 하나 사주지 뭐.)
 

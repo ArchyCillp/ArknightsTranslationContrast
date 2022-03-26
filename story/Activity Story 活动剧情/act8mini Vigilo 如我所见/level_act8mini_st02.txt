@@ -1,0 +1,1855 @@
+4:11 P.M. 天气/阴 能见度十公里
+p.m. 4:11 天気/曇天 視界：10km
+4:11 P.M. \ Overcast, Visibility: 10 km
+4:11 P.M. 날씨 / 흐림. 가시거리 10km
+
+罗德岛本舰，医疗舱
+ロドス本艦　医療室
+Rhodes Island Landship, Medical Cabin
+로도스 아일랜드 본함, 의료실
+
+[name="凯尔希"]可以把电极片取下来了。
+[name="ケルシー"]もう電極パッドを外しても構わない。
+[name="Kal'tsit"]Remove the electrodes.
+[name="켈시"]전극패드를 떼도 돼.
+
+[Decision(options="结果怎么样？;......;我的脑袋又热又胀，很不舒服。", values="1;2;3")]
+[Decision(options="所見はどうだ？;……;熱っぽいし……ぼーっとして気持ちが悪い。", values="1;2;3")]
+[Decision(options="What's the prognosis?;......;My head feels hot and distended. Not good.", values="1;2;3")]
+[Decision(options="결과는 어때?;……;머리가 뜨겁고 터질 것 같아. 너무 불편해.", values="1;2;3")]
+
+[name="凯尔希"]并没有什么新的进展。
+[name="ケルシー"]検査の結果に、新たな進展はなかった。
+[name="Kal'tsit"]No new developments.
+[name="켈시"]뭔가 새로운 진전은 없어.
+
+[name="凯尔希"]休息一会，这些症状会很快消失。
+[name="ケルシー"]少し休めば、いずれの症状も落ち着くことだろう。
+[name="Kal'tsit"]You'll feel better after a quick rest.
+[name="켈시"]조금 쉬면 그 증상은 금방 가라앉을 거다.
+
+[name="凯尔希"]Dr.{@nickname}，这一个多月里，我对你的大脑进行了七次扫描，每一次结果都大同小异。
+[name="ケルシー"]Dr.{@nickname}。この一か月余りで、君の脳を七回スキャンしたが……結果は毎回大差がない。
+[name="Kal'tsit"]Dr. {@nickname}, I've scanned your brain seven times over the past month or so, and the results are always the same.
+[name="켈시"]{@nickname} 박사, 지난 한 달여 동안, 네 뇌를 일곱 번 스캔했는데 매번 결과에 큰 차이는 없었다.
+
+[name="凯尔希"]你的内侧颞叶并没有问题，而你其他脑区的神经元也和大多数年轻人一样活跃。
+[name="ケルシー"]内側側頭葉には全く問題がなく、脳内の他の領域におけるニューロンも若者と比べても遜色ない状態……
+[name="Kal'tsit"]There's nothing wrong with your medial temporal lobe, and the neurons in other brain areas are as active as they are in most young people.
+[name="켈시"]너의 내측 측두엽엔 문제가 없고, 다른 뇌 부위에서의 뉴런도 다른 젊은이들만큼이나 활발해.
+
+[name="凯尔希"]所以，根据我的判断，接下来你不必频繁地前来医疗舱接受这些令你不适的检测了。
+[name="ケルシー"]つまり、私の判断によれば……君はもうこのように頻繁に医療室を訪れ、不快感を伴う検査を受ける必要はないということだ。
+[name="Kal'tsit"]Meaning you don't need to come to Medical for these unpleasant tests so often.
+[name="켈시"]즉, 이제 의료실에 불편한 검사를 받으러 그리 자주 오지 않아도 된다는 게, 내 소견이다.
+
+[Decision(options="那我的记忆是怎么回事？", values="1")]
+[Decision(options="それなら、なぜ自分の記憶は戻らないんだ？", values="1")]
+[Decision(options="Then, what's wrong with my memory?", values="1")]
+[Decision(options="그럼 내 기억은 어떻게 된 거야?", values="1")]
+
+[name="凯尔希"]毫无疑问，你失去了很多记忆——哪怕是你，也无法通过精心伪装来操控所有的检测结果。
+[name="ケルシー"]確かに、君が多くの記憶を失っているということは疑いようがない事実だ――いくら君でも、すべての検査結果を偽装することなど不可能だからな。
+[name="Kal'tsit"]There's no doubt that you've lost a lot of your memory. Even someone like you wouldn't be able to manipulate the results.
+[name="켈시"]네가 많은 기억을 잃어버렸다는 것은 의심할 여지가 없지…… 아무리 너라도 거짓으로 모든 검사 결과를 컨트롤 할 수는 없을 테니까.
+
+[name="凯尔希"]那些记忆是情节性的，关于你对自己身份的主观意识，更关于你在切尔诺伯格的石棺内沉睡之前的所有经历。
+[name="ケルシー"]君が失っているのは、いわゆるエピソード記憶と呼ばれるものだ。君自身の身元に関する主観的な認識、そして、チェルノボーグの石棺で眠りにつくより前に経験したすべてが欠落している。
+[name="Kal'tsit"]Those memories are episodic, chiefly concerning the subjective awareness of your identity, and even more so about all your experiences before you fell asleep in the Chernobog sarcophagus.
+[name="켈시"]그 기억은 에피소드 기억이다. 바로 너 자신에 대한 주관적인 인식이자, 네가 체르노보그 석관에서 잠들기 이전의 모든 경험이기도 해.
+
+[name="凯尔希"]与之相对，你的程序记忆恢复得极快。
+[name="ケルシー"]しかし、それとは対照的に……いわゆる手続き記憶の回復は極めて早い。
+[name="Kal'tsit"]In contrast, your procedural memory has recovered extremely quickly.
+[name="켈시"]그에 비해 너의 절차적 기억은 매우 빠르게 회복되고 있다.
+
+[name="凯尔希"]无论是依据阿米娅和杜宾的报告，还是我的观察，这个结论是明确的。
+[name="ケルシー"]アーミヤやドーベルマンの報告、そして私自身の目で見ても、その結果は明白だ。
+[name="Kal'tsit"]From my reports or Amiya's and Dobermann's observations, this conclusion is clear.
+[name="켈시"]아미야와 도베르만의 보고를 봐도, 내 관찰로도, 이 결론은 명확하다.
+
+[name="凯尔希"]你在切尔诺伯格事件中表现出来的战地指挥能力并不比以前逊色多少。
+[name="ケルシー"]君がチェルノボーグで見せた戦場における指揮能力は、以前と遜色ないものだった。
+[name="Kal'tsit"]Your ability to command, as exhibited during the Chernobog incident, is not significantly worse than before.
+[name="켈시"]체르노보그 사건에서 보여준 네 전장 지휘 능력은 이전에 비해 크게 손색이 없어.
+
+[Decision(options="为什么会这样？;......;这么说，我还有用？", values="1;2;3")]
+[Decision(options="どうしてこんなことに？;……;つまり、自分はまだ役に立てる……と？", values="1;2;3")]
+[Decision(options="Why would this happen?;......;In other words, I'm still useful?", values="1;2;3")]
+[Decision(options="왜 그런 거지?;……;그럼 아직 도움 된다는 건가?", values="1;2;3")]
+
+[name="凯尔希"]记忆损伤的原因有很多种，有些是不可抗力，有些却是主观的。
+[name="ケルシー"]記憶障害を引き起こす要因は多種多様だ。不可抗力といえるケースもあれば、主観的要因によるケースも存在する。
+[name="Kal'tsit"]There are many reasons for memory loss. Some are force majeure, others are subjective.
+[name="켈시"]기억장애의 원인은 다양하다. 불가항력에 의한 것이나 주관적인 것도 있다.
+
+[name="凯尔希"]医学检测手段只能排除器质性的病变。
+[name="ケルシー"]医学的検査手段を用いたところで、できることはせいぜい、原因の候補から器質的病変を除外するくらいのものだ。
+[name="Kal'tsit"]Medical testing can only rule out qualitative pathological changes.
+[name="켈시"]의학적인 검사 수단은 기질적인 병변을 배제하는 것밖에 못 해.
+
+[name="凯尔希"]当然，你远比过去沉默。
+[name="ケルシー"]君は、以前に比べ沈黙を選ぶことがはるかに多くなった。
+[name="Kal'tsit"]Of course, you don't make as much noise as you used to.
+[name="켈시"]물론, 너는 옛날에 비해 훨씬 말수가 적어졌다.
+
+[name="凯尔希"]考虑到你的语言中枢并未受损，我只能猜测，情节性记忆的缺失令你的性格发生了一些变化。
+[name="ケルシー"]君の言語中枢に損傷がないことを考慮すると、エピソード記憶の欠陥が君の性格に変化を引き起こしたと推測する他あるまい。
+[name="Kal'tsit"]Considering your language center has not been damaged, I can only guess that the deprivation of episodic memory has caused some changes in your personality.
+[name="켈시"]네 언어중추가 손상되지 않은 걸 보면, 에피소드 기억의 결여로 인해 성격에 변화가 생겼다고 예측할 뿐이다.
+
+[name="凯尔希"]你对罗德岛的意义远不止有用那么粗浅。
+[name="ケルシー"]ロドスにとって、君の存在意義は「役に立つ」などという小さなものには留まらない。
+[name="Kal'tsit"]To Rhodes Island, you are far more than just 'useful.'
+[name="켈시"]로도스 아일랜드에게 있어 너의 의미는 단순히 도움이 된다 만다 하는 정도가 아니야.
+
+[name="凯尔希"]即使你真的丧失了全部记忆，成为了一个懵懂的普通人，阿米娅也不会后悔救你，罗德岛上也永远有你的容身之所。
+[name="ケルシー"]仮に君が本当にすべての記憶を失い、無知な一般人になったとしても……アーミヤは君を救ったことを後悔しないだろうし、ロドスにはいつまでも君の居場所があるだろう。
+[name="Kal'tsit"]Even if you truly lost all your memories and become an ignorant bystander, Amiya would not have regretted saving you, and there will always be a place for you at Rhodes Island.
+[name="켈시"]설령 네가 정말 모든 기억을 잃고 아무것도 모르는 일반인이 됐다 해도, 아미야는 널 구한 것을 후회하지 않을 것이고, 로도스 아일랜드에도 여전히 네가 머물 곳이 있을 것이다.
+
+[name="凯尔希"]无论如何，我相信，你保有的技能将如过去那样发挥关键作用。
+[name="ケルシー"]いずれにせよ私は、過去そうであったように……君の持つ能力が重要な役割を果たすことを信じている。
+[name="Kal'tsit"]In any case, I believe that the skills you possess will play just as key a role as they did in the past.
+[name="켈시"]어쨌든 난 네가 가진 능력이 과거와 마찬가지로 중요한 역할을 하리라고 믿어.
+
+[Decision(options="我想帮到你。;我想帮到阿米娅。", values="1;2")]
+[Decision(options="ケルシーの力になりたい。;アーミヤの力になりたい。", values="1;2")]
+[Decision(options="I want to be able to help you.;I want to be able to help Amiya.", values="1;2")]
+[Decision(options="나는 켈시 너에게 도움이 되고 싶어.;나는 아미야에게 도움이 되고 싶어.", values="1;2")]
+
+[name="凯尔希"]我知道。
+[name="ケルシー"]……分かっているさ。
+[name="Kal'tsit"]I know.
+[name="켈시"]알고 있다.
+
+[name="凯尔希"]而且我也看到了你的努力。
+[name="ケルシー"]それに、私も君の努力は目にしている。
+[name="Kal'tsit"]And I've seen how hard you've been working.
+[name="켈시"]네가 노력하는 것도 다 보이고.
+
+[name="凯尔希"]离开龙门之后，我们这段时间都行驶在荒地上，干员们需要休整的机会，阿米娅也能适当休息。
+[name="ケルシー"]龍門を後にして以来、我々はここしばらく荒野を進み続けている。オペレーターたちには休養が必要だ。そうすれば、アーミヤも適度な休息を取ることができるだろうしな。
+[name="Kal'tsit"]After leaving Lungmen, we've been making our way through the wastelands for some time. The operators need an opportunity to rest, Amiya in particular.
+[name="켈시"]용문을 떠난 뒤 우리는 계속하여 황야에서 이동하고 있다. 오퍼레이터들은 정비할 시간이 필요하고, 아미야도 적당히 휴식할 수 있겠지.
+
+[name="凯尔希"]你同样需要喘口气，不是吗？
+[name="ケルシー"]そして君もまた、彼らと同様に一息つく必要がある。違うか？
+[name="Kal'tsit"]Likewise, you also need a chance to catch your breath, don't you?
+[name="켈시"]너도 마찬가지로 한숨 돌려야 하잖아. 안 그래?
+
+[Decision(options="我是想要一点时间来适应。;......;我还不想在这里止步。", values="1;2;3")]
+[Decision(options="少し、現状に慣れる時間がほしいんだ。;……;まだここで立ち止まりたくはない。", values="1;2;3")]
+[Decision(options="I just want some time to adjust.;......;I don't want to stop here.", values="1;2;3")]
+[Decision(options="적응할 시간이 필요해.;……;아직 여기서 멈추고 싶지 않아.", values="1;2;3")]
+
+[name="凯尔希"]有PRTS帮助你，想必你用不了多少时间就能适应罗德岛上的工作。
+[name="ケルシー"]PRTSが君の補助を行う。じきにロドスでの仕事にも慣れることだろう。
+[name="Kal'tsit"]With PRTS to help you, it won't take long for you to adapt to your work at Rhodes Island.
+[name="켈시"]PRTS가 너를 도와주고 있으니, 금방 로도스 아일랜드의 일에 적응할 수 있을 거다.
+
+[name="凯尔希"]然而我不希望你逼迫自己。
+[name="ケルシー"]だが、あまり無理はするなよ。
+[name="Kal'tsit"]However, I don't want you to push yourself.
+[name="켈시"]그렇지만 난 네가 무리하지 않았으면 좋겠어.
+
+[name="凯尔希"]从一场巨大的灾难中艰难归来的，不止罗德岛，还有你，Dr.{@nickname}。
+[name="ケルシー"]巨大な災難から辛うじて帰還したのは、ロドスだけではない。君もまたそうなのだ、Dr.{@nickname}。
+[name="Kal'tsit"]Rhodes Island is not the only thing that has just emerged from a terrible disaster. You have as well, Dr. {@nickname}.
+[name="켈시"]거대한 재난에서 가까스로 돌아온 건, 로도스 아일랜드뿐이 아니야. {@nickname} 박사, 너도 마찬가지다.
+
+[name="凯尔希"]你身体的指征基本恢复了正常，可你的记忆依旧受损，你的精神状态也称不上稳定。
+[name="ケルシー"]君の身体は概ね正常通りに回復しているが、その記憶はまだ損傷している状態だ。精神状態も、安定しているとは言い難い。
+[name="Kal'tsit"]Your physical indicators have more or less returned to normal, but your memory is still damaged, and your mental state is unstable.
+[name="켈시"]너의 몸은 기본적으론 정상으로 돌아왔지만, 기억 손상은 그대로고, 정신 상태도 안정적이라고 하기 어렵다.
+
+[name="凯尔希"]作为一名病人，操劳过度对你来说没好处。
+[name="ケルシー"]過労は君の健康を害するぞ。一人の患者として覚えておいてくれ。
+[name="Kal'tsit"]As a patient, overwork can only harm you.
+[name="켈시"]환자인 네게 과로는 득 될 것이 없어.
+
+[Decision(options="你也是病人。;阿米娅也是病人。", values="1;2")]
+[Decision(options="ケルシーも病人だろう。;アーミヤも病人だろう。", values="1;2")]
+[Decision(options="You're also a patient.;Amiya is also a patient.", values="1;2")]
+[Decision(options="켈시 너도 환자잖아.;아미야도 환자잖아.", values="1;2")]
+
+[name="凯尔希"]我？多谢关心。
+[name="ケルシー"]私か？　気遣いには感謝する。
+[name="Kal'tsit"]Me? I appreciate your concern.
+[name="켈시"]나? 신경 써줘서 고맙군.
+
+[name="凯尔希"]我不能说自己习惯了矿石病，但我向你保证，我一定是最后需要担心的那一个。
+[name="ケルシー"]鉱石病に慣れたとは到底言えないが……私の心配は一番最後で構わない、ということだけは保証しておこう。
+[name="Kal'tsit"]Though I can't say I'm used to Oripathy, I can assure you that I'm the last person you should worry about.
+[name="켈시"]비록 내가 광석병에 익숙해졌다고는 말할 수 없지만, 가장 마지막에 걱정해야 할 사람이 나라는 것만은 장담할 수 있지.
+
+[name="凯尔希"]阿米娅知道你担心她，她最近比以前更关注自己的身体了。
+[name="ケルシー"]君が彼女を心配していることくらい、彼女自身も知っているさ。最近のアーミヤは、以前より自分の身体に気を配るようになったからな。
+[name="Kal'tsit"]Amiya knows you're concerned about her, and she's been paying more attention to her health lately.
+[name="켈시"]아미야도 네가 걱정하는 걸 알고 있어. 그래서 전보다 자신의 몸에 더 신경 쓰고 있다.
+
+[name="凯尔希"]我不得不承认，有些话由你说出来，确实比我来说更有用。
+[name="ケルシー"]しかし、私から伝えるより君から言ってもらう方が、内容によっては効果的であることは認めざるを得ない。
+[name="Kal'tsit"]I have no choice but to admit, there are some areas in which your words hold more weight than mine.
+[name="켈시"]가끔은 네가 하는 말이 내가 하는 말보다 아미야에게 더 효과적이라는 걸 인정할 수밖에 없더군.
+
+[name="凯尔希"]Dr.{@nickname}，你在短短一个月内就接手了舰内各部门的人员调配工作。
+[name="ケルシー"]Dr.{@nickname}。君はたった一ヶ月の間に、艦内各部門の人員配置業務を引き継いだ。
+[name="Kal'tsit"]Dr. {@nickname}, in the span of one short month, you've taken over the staffing of several departments on this ship.
+[name="켈시"]{@nickname} 박사, 너는 겨우 한 달이라는 짧은 시간 동안 함 내 각 부서의 인원 배치 업무를 인계받았다.
+
+[name="凯尔希"]除此以外，我也经常看到你和作战干员一起回顾过去的战斗，并进一步探讨战术优化的可能性。
+[name="ケルシー"]それだけでなく、オペレーターと共に過去の戦闘を振り返り、更なる戦術最適化の可能性を探る君の姿も、しばしば目にしている。
+[name="Kal'tsit"]In addition, I've seen you reviewing past battles together with combat operators to further explore the possibilities of tactical optimization.
+[name="켈시"]그뿐만이 아니야, 네가 작전 오퍼레이터와 함께 과거 전투를 돌이켜보며, 전술의 최적화 가능성을 탐색하는 모습도 자주 눈에 보이더군.
+
+[name="凯尔希"]就算是在接受检查的刚才，你也不曾停下阅读。你看的是前几天刚报到的新干员提交的每日简报吧？
+[name="ケルシー"]ついさっき……検査を受けていた時でさえ、何かを読んでいたな。あれは数日前加入したばかりのオペレーターが書いた日報だろう？
+[name="Kal'tsit"]You've even been reading during this entire examination. Are you looking at the briefing submitted by the new operator who just reported in a few days ago?
+[name="켈시"]아까 검사를 받을 때도 열람을 멈추지 않던데. 그거, 며칠 전에 새로 가입한 오퍼레이터가 제출한 일간 보고서지?
+
+[name="凯尔希"]而且，我看过你的笔记。
+[name="ケルシー"]加えて、私は君のノートも確認した。
+[name="Kal'tsit"]Furthermore, I've seen your notes.
+[name="켈시"]그리고 네 노트도 봤다.
+
+[name="凯尔希"]那些关于干员们最琐碎的细节的记录，思考战术时偶然间的灵光一现......
+[name="ケルシー"]オペレーターたちに関する非常に詳細な記録、戦術考案中に偶然ひらめいたであろうアイデア……
+[name="Kal'tsit"]Those records about even the most trivial of the operators' details, those flashes of tactical inspiration...
+[name="켈시"]오퍼레이터들에 대한 가장 세세한 기록, 전술을 고민하다가 문득 떠오른 아이디어……
+
+[name="凯尔希"]以及罗德岛业务效率的计算公式，乃至我看不出意义的涂鸦，都是你投入工作的明证。
+[name="ケルシー"]そしてロドスの業務効率に関する計算式、更には私にすら理解不能の落書き。これらはすべて、君が仕事に打ち込んでいることを立証している。
+[name="Kal'tsit"]Those calculations for determining Rhodes Island's business efficiency, and even those scrawls that I can't make sense of. They are all evidence of your commitment to your duty.
+[name="켈시"]또 로도스 아일랜드의 업무 효율 계산식이나, 나로서는 의미를 알 수 없는 낙서까지, 모두 네가 일에 몰두했다는 증거들이지.
+
+[name="凯尔希"]虽然大部分任务都能依靠PRTS辅助完成，但我想这是你更喜欢的工作方式。
+[name="ケルシー"]そのほとんどがPRTS頼りでも終わらせられる仕事だが……これが君にとって好ましいやり方なのだろう。
+[name="Kal'tsit"]Although most of these tasks can be completed with the assistance of PRTS, I think this is your preferred method.
+[name="켈시"]대부분의 임무는 PRTS의 지원으로 완수할 수 있지만, 이게 네가 더 선호하는 작업 방식일 거라 생각한다.
+
+[Decision(options="只是理清思路的方式。;PRTS上的数据缺了点人情味。;你没看到我对你的抱怨吧？！", values="1;2;3")]
+[Decision(options="単なる思考整理にすぎない。;PRTSのデータでは少し人間味に欠ける。;君についての愚痴まで読んでないだろうな！？", values="1;2;3")]
+[Decision(options="It's just a way of organizing my thoughts.;PRTS's data lacks a bit of that human touch.;You didn't see me badmouthing you, did you?!", values="1;2;3")]
+[Decision(options="생각을 정리하는 방법일 뿐이야.;PRTS의 데이터는 인간미가 조금 부족해.;켈시, 설마 너에 대한 불평을 적은 부분도 본 건 아니겠지?!", values="1;2;3")]
+
+[name="凯尔希"]随着笔记厚度增加，你的思路的确有所进步。
+[name="ケルシー"]ノートの厚みが増すほどに君の思考も進歩する、というわけか。
+[name="Kal'tsit"]As the density of your notes increases, your cognition also improves.
+[name="켈시"]노트의 두께가 늘어남에 따라, 네 사고도 확실히 진보하고 있다는 걸 느꼈어.
+
+[name="凯尔希"]PRTS只是工具。不过度依赖工具，是工作的好习惯。
+[name="ケルシー"]PRTSはただのツールにすぎない。それに依存せず仕事を進めるのは、いい習慣と言えるだろう。
+[name="Kal'tsit"]PRTS is just a tool. Avoiding overreliance on tools is a good working habit.
+[name="켈시"]PRTS는 도구일 뿐, 도구에 지나치게 의존하지 않는 건 좋은 습관이다.
+
+[name="凯尔希"]原来那是抱怨？我更乐意把那些话当成你对我的夸奖。
+[name="ケルシー"]あれは愚痴だったのか？　まあ、「褒め言葉」として受け取るとしよう。
+[name="Kal'tsit"]So that was a complaint? I would rather take those words as a compliment.
+[name="켈시"]그게 불평이었나? 오히려 나에 대한 칭찬으로 받아들이고 싶은데.
+
+[name="凯尔希"]你的各方面能力都在迅速地恢复，这不止是你的技能记忆得到了保留的缘故，更是由于你非同一般的努力。
+[name="ケルシー"]とにかく、君の持つ能力はそれぞれが急速に回復しつつある。これは君の手続き記憶が残っているからだけではなく、君自身が並外れた努力をしているからこそだ。
+[name="Kal'tsit"]All of your abilities are recovering rapidly, not only due to the retention of your procedural memory, but also due to your extraordinary efforts.
+[name="켈시"]너의 각 방면의 능력들이 빠르게 회복되고 있다. 이건 절차적 기억이 남아있기 때문만이 아니라, 남다른 노력도 하고 있기 때문이지.
+
+[name="凯尔希"]有意识地锻炼将会帮助你的大脑迅速回到沉睡之前的状态，甚至有可能令你的记忆比我预期的更快恢复。
+[name="ケルシー"]意識的に鍛錬を行うことは、君の脳を石棺で眠りにつく以前の状態へといち早く回復させるための助けになるだろう。私の予想よりも早く回復する可能性も十分にある。
+[name="Kal'tsit"]Conscious exercise will help your brain return more quickly to your pre-comatose state, and may even bring back your memory faster than expected.
+[name="켈시"]의식적인 단련은 뇌를 잠들기 이전의 상태로 빠르게 되돌릴 수도 있는데, 내 예상보다 더 빨리 기억이 회복될지도.
+
+[Decision(options="你希望我尽快恢复吗？", values="1")]
+[Decision(options="ケルシーも、自分の回復を望んでくれているのか？", values="1")]
+[Decision(options="Do you want me to recover as quickly as possible?", values="1")]
+[Decision(options="켈시 넌 내가 빨리 회복되길 바라는 건가?", values="1")]
+
+[name="凯尔希"]我是你的医生，没有医生不希望病人早日康复。
+[name="ケルシー"]私は君の担当医だ。患者の早期回復を望まない医者などいないさ。
+[name="Kal'tsit"]I am your doctor. There's not a doctor out there who does not wish for the quick recovery of her patient.
+[name="켈시"]나는 너의 의사다. 환자의 조기 회복을 바라지 않는 의사는 없어.
+
+[name="凯尔希"]只是，如果你因为拼命工作而累倒了，阿米娅的状态也会受到影响。
+[name="ケルシー"]ただ、もし君が過労で倒れでもしたら、アーミヤの状態にも影響が及ぶことは留意しておくように。
+[name="Kal'tsit"]That said, if you end up collapsing due to overwork, you'll disrupt Amiya's condition as well.
+[name="켈시"]다만, 네가 너무 무리해서 쓰러지기라도 한다면, 아미야의 상태도 영향을 받을 거다.
+
+[Decision(options="你只关心阿米娅？;......;我知道了，你关心我。", values="1;2;3")]
+[Decision(options="結局、アーミヤを心配しているだけ、ということか？;……;分かってる。気にかけてくれてありがとう。", values="1;2;3")]
+[Decision(options="Are you only concerned about Amiya?;......;I see. You do care about me.", values="1;2;3")]
+[Decision(options="아미야만 걱정하는 거야?;……;알겠다, 날 걱정하고 있구나.", values="1;2;3")]
+
+[name="凯尔希"]偶尔流露的这种情绪使你与过去的你有很大不同，这一点很有趣，但如果你展现情绪的对象是我，那就没什么必要。
+[name="ケルシー"]時折見せるその感情表現は、過去の君とは随分異なっているな。非常に興味深いことではあるが、私に向ける必要はない。
+[name="Kal'tsit"]These sentiments of yours that occasionally leak through are quite unlike the past you. While this is rather intriguing, if I am the object of your feelings, let's just say we've no need of that.
+[name="켈시"]가끔 드러나는 그런 감정으로부터 지금의 너와 과거의 네가 다르게 느껴질 때가 있다. 그 점이 매우 흥미롭지만, 지금 표현한 그 감정의 대상이 나라면 그럴 필요는 없다.
+
+[name="凯尔希"]我对你说过很多次，确保你的身心健康始终是我的职责之一。
+[name="ケルシー"]何度も言ってきたように、君の心身の健康を確保することは私の職責の一つなのだ。
+[name="Kal'tsit"]I've told you many times over that ensuring your physical and mental well-being has always been one of my duties.
+[name="켈시"]누누이 말했지만, 너의 심신 건강을 유지하는 게 나의 책무 중 하나다.
+
+[name="凯尔希"]所以，是的，即便不是在战场上，而是在这里，我也关心着你。
+[name="ケルシー"]故に……そうだな。たとえ戦場ではなく、この場においても、私は君を気にかけていると覚えておいてくれ。
+[name="Kal'tsit"]So, yes, even here, I still care about you. Even without a battle.
+[name="켈시"]그러니까, 그래, 전쟁터가 아니라 여기에 있어도 나는 널 걱정하고 있다.
+
+[Decision(options="真稀奇，你会这么和我说话。;......;好。", values="1;2;3")]
+[Decision(options="珍しい。ケルシーがそんなことを言うとは。;……;分かった。", values="1;2;3")]
+[Decision(options="It's strange that you'd talk to me like this.;......;Alright.", values="1;2;3")]
+[Decision(options="신기하네, 켈시 네가 그런 말을 다 하다니.;……;알겠어.", values="1;2;3")]
+
+[name="凯尔希"]今天的检查已经结束。
+[name="ケルシー"]では、今日の検査はこれで終了だ。
+[name="Kal'tsit"]Today's exam is over.
+[name="켈시"]오늘 검사는 끝났다.
+
+[name="凯尔希"]正如我之前说的，下周同一时间，你不用再来这里报到。
+[name="ケルシー"]先ほども述べた通り、来週のこの時間は、ここに来る必要はない。
+[name="Kal'tsit"]As I said, you don't need to report back here at the same time next week.
+[name="켈시"]아까도 말했지만, 다음 주 이 시간부터는 여기에 오지 않아도 된다.
+
+[name="凯尔希"]每天上午和晚上的定时检查还要持续一段时间。Lancet-2会替我照看你。
+[name="ケルシー"]だが、毎日朝と夜に行っている定期検査はしばらく継続する。そしてこれからは、私ではなくLancet-2が検査担当となる。
+[name="Kal'tsit"]The regular morning and evening check-ups will continue for a while. Lancet-2 will look after you for me.
+[name="켈시"]하지만 매일 오전과 저녁 정기 검사는 그대로니, Lancet-2가 대신 돌봐줄 거다.
+
+[name="凯尔希"]一旦发现你的生理状态不支持你继续工作，你就必须立刻回到医疗舱。
+[name="ケルシー"]それと……もし現在の健康状態では職務続行が不可能と判断された時は、ただちに医療室に戻って来るように。
+[name="Kal'tsit"]If we ever find that your physical condition does not support your continued work, you must immediately return to Medical.
+[name="켈시"]일을 계속할 수 없는 상태가 조금이라도 보이면 곧장 의료실로 와야 할 거야.
+
+[name="凯尔希"]现在，你能回去工作了，博士。
+[name="ケルシー"]では、ドクター。仕事に戻って構わないぞ。
+[name="Kal'tsit"]As for now, you may return to your work, Doctor.
+[name="켈시"]그럼 이제 일하러 가도 돼, 박사.
+
+4:32 P.M. 天气/阴 能见度七公里
+p.m. 4:32 天気/曇天 視界：7km
+4:32 P.M. \ Overcast, Visibility: 7 km
+4:32 P.M. 날씨 / 흐림. 가시거리 7km
+
+罗德岛本舰，舰桥外走廊
+ロドス本艦 ブリッジ外廊下
+Rhodes Island Landship, Hallway outside the bridge
+로도스 아일랜드 본함, 함교 바깥 복도
+
+[name="领航员A"]地灵小姐，你怎么来了？
+[name="ナビゲーターA"]あれ、アーススピリットさん。どうしてこちらに？
+[name="Navigator A"]Earthspirit? What brings you here?
+[name="파일럿 A"]어스스피릿 씨, 여긴 어떻게?
+
+[name="地灵"]上午提交的地质监测报告，我更新了下。
+[name="アーススピリット"]午前中に提出した地質モニタリングレポートの更新をしにね。
+[name="Earthspirit"]I've updated the geological monitoring report I submitted this morning.
+[name="어스스피릿"]오전에 제출한 지질 관측 보고서, 갱신하러 왔어.
+
+[name="领航员A"]这么快就有更新？地灵小姐，这可不像你啊。
+[name="ナビゲーターA"]こんなに早くですか？　あなたらしくもないですね。
+[name="Navigator A"]You needed to make an adjustment so soon? That's unlike you.
+[name="파일럿 A"]벌써 갱신을요? 어스스피릿 씨답지 않으신데요.
+
+[name="地灵"]数据变化很快。否则的话，我也不至于错过午觉。
+[name="アーススピリット"]データというのは、移り変わりが激しいものなの。お陰で昼寝もできなかったくらいよ。
+[name="Earthspirit"]The numbers changed quickly. Made me miss my afternoon nap.
+[name="어스스피릿"]데이터 변화가 눈에 띄게 빨라. 그것만 아니었다면 나도 낮잠을 잤을 텐데.
+
+[name="地灵"]麻烦把报告交给你们组长。最下面有我的建议。
+[name="アーススピリット"]……っと、そうだ。このレポートを、あなたたちのリーダーに渡しておいてもらえるかしら。一番下に私の意見を書いておいたから。
+[name="Earthspirit"]Forward the report to your team leader. My recommendations are at the bottom.
+[name="어스스피릿"]그쪽 팀장한테 보고서 전해줘. 맨 밑에 내 의견도 적어 놨어.
+
+[name="领航员A"]好的。大风预警是吧？
+[name="ナビゲーターA"]分かりました。強風警報ですよね？
+[name="Navigator A"]Sure. Strong winds warning, is it?
+[name="파일럿 A"]알겠습니다. 강풍경보 맞죠?
+
+[name="领航员A"]没问题，工程部门提前两天加固了防风板，后勤人员也已经通知了各位干员远离甲板风险区。
+[name="ナビゲーターA"]そのくらいなら、問題ありませんよ。エンジニア部が数日前、防風板を強化してくれましたし……支援部もすでに、甲板の危険区域には近づかないよう各オペレーターへ通達してくれましたから。
+[name="Navigator A"]That's no problem. The Engineering Department strengthened the storm shutters two days in advance, and Logistics notified everyone to stay away from the at-risk deck areas.
+[name="파일럿 A"]문제없어요. 엔지니어링부에서 이틀 전에 방풍판을 보강했고, 후방 지원부도 각 오퍼레이터에게 갑판 위험 구역에 들어가지 않도록 공지했습니다.
+
+[name="地灵"]不止。你往下看。
+[name="アーススピリット"]それだけじゃないの。ほら、レポートの下の方を見て。
+[name="Earthspirit"]That's not all. Keep reading.
+[name="어스스피릿"]그뿐만이 아니야. 여길 봐봐.
+
+[name="领航员A"]呃......航线前方可能出现强风暴？建议降速行驶或者绕行？
+[name="ナビゲーターA"]どれどれ……「航路前方に嵐が出現する可能性あり」……「低速運行あるいは迂回を推奨する」？
+[name="Navigator A"]Huh... There might be a strong windstorm ahead of our route? Should we slow down or make a detour?
+[name="파일럿 A"]어…… 항로 전방에 폭풍 출현 가능성? 저속 항행이나 우회 권장?
+
+[name="领航员A"]地灵小姐，你说的这个风暴，灾害等级有多高？
+[name="ナビゲーターA"]アーススピリットさん、この嵐って……災害レベルはどのくらいですか？
+[name="Navigator A"]How dangerous is this windstorm you're talking about here?
+[name="파일럿 A"]어스스피릿 씨, 당신이 말하는 이 폭풍, 재해 등급은 어느 정도죠?
+
+[name="地灵"]......我不知道。
+[name="アーススピリット"]……分からないわ。
+[name="Earthspirit"]I don't know.
+[name="어스스피릿"]……몰라.
+
+[name="地灵"]我只是基于数据的异常提出了一个可能性。我观测到，前方不止一个气旋正在生成，而且增强速度超出预期。
+[name="アーススピリット"]前方に複数のサイクロンが発生し、予想を超える速度で勢力を増しているのを確認したの。私はただ、その異常なデータに基づいて可能性を提示しただけよ。
+[name="Earthspirit"]I looked at anomalies in the data and made my best call. All I know for sure is there's more than one cyclone forming ahead, and it's far more intense than anyone would expect.
+[name="어스스피릿"]난 단지 데이터 이상에 따라 하나의 가능성을 제시했을 뿐이야. 전방에 사이클론이 형성된 데다, 위력의 증가 속도가 예상을 벗어나고 있어.
+
+[name="领航员A"]这个结论会不会太模糊了一些。
+[name="ナビゲーターA"]そうなると……少し説得力に欠けますね。
+[name="Navigator A"]Sounds pretty vague.
+[name="파일럿 A"]그 결론은 너무 모호한 것 같은데요.
+
+[name="领航员A"]这条路线是在一个月前定下的，经过了各方的批准确认和推行，如果现在临时变动也会产生极大的影响。
+[name="ナビゲーターA"]このルートは一ヶ月前に策定されたものです。各方面の承認と確認を経て進行しているので、今から急遽変更となると影響範囲は大きくなります。
+[name="Navigator A"]We set our route a month ago, it's already been approved. We're looking at a big mess if we change it on the fly.
+[name="파일럿 A"]이 경로는 한 달 전에 확정된 것으로, 각 방면의 승인을 통해 추진되고 있으니, 지금 임시로 변경하면 막대한 영향을 끼칠 겁니다.
+
+[name="领航员A"]上次会议地灵小姐也参与了吧，我们选择的路线风险评估是极低危，过去十年间，从龙门到莱塔尼亚的官方商队都常从这里通行。
+[name="ナビゲーターA"]前回の会議には、あなたも参加してましたよね？　今回のルートはリスクが極めて低いですし、過去十年間、龍門からリターニアへ向かう公式のキャラバンも、いつもここを通っているんですよ。
+[name="Navigator A"]You were in that meeting, right? We chose the route for its super low risk profile. Over the last decade, caravans from Lungmen to Leithanien have been back and forth over this route dozens of times.
+[name="파일럿 A"]어스스피릿 씨도 지난번 회의에 참석하셨잖아요. 저희가 선택한 경로는 리스크가 극히 낮고, 지난 10년간 용문에서 라이타니엔으로 가는 공식 카라반도 이 경로를 이용하고 있습니다.
+
+[name="地灵"]是的。理论上，我们已经避开了天灾多发区，遇险概率很低。
+[name="アーススピリット"]そうね。天災多発エリアを避けているんだから、理論上は危険に遭遇する確率なんて極めて低いはず……
+[name="Earthspirit"]Yes. In theory, we've avoided the Catastrophe-prone areas, and the probability of encountering danger is low.
+[name="어스스피릿"]그래, 이론상 우리는 재앙 다발구역을 피하고 있으니, 리스크는 극히 낮아.
+
+[name="领航员A"]这么说来，你也没把握？
+[name="ナビゲーターA"]ということは……あなたも、そこまで自信がないということでしょうか？
+[name="Navigator A"]But you're also not sure?
+[name="파일럿 A"]그렇다는 건, 당신도 확신할 수는 없다는 거죠?
+
+[name="领航员A"]上头对我们的要求是尽快远离乌萨斯和龙门，要是临时决定绕路走，恐怕会耽搁时间。
+[name="ナビゲーターA"]上からのリクエストは、なるべく早くウルサス及び龍門から離れることなんです。もし緊急迂回することになれば、遅延に繋がってしまいます。
+[name="Navigator A"]The bosses want us as far away from Ursus and Lungmen as soon as possible.
+[name="파일럿 A"]상부의 요구는 우리가 가능한 한 빨리 우르수스와 용문을 떠나는 것인데, 임시로 우회하게 된다면, 시간 낭비가 될 수도 있습니다.
+
+[name="地灵"]......算了，我只需要确保你收到过我的预警。
+[name="アーススピリット"]……まあ、いいわ。私の警告をあなたが受け取ったことさえ確認できれば、お仕事完了なわけだし。
+[name="Earthspirit"]Whatever... I just needed to make sure you got my warning.
+[name="어스스피릿"]……됐어, 당신이 내 보고를 받은 건 확인됐으니까.
+
+[name="地灵"]至于你们怎么判断，这不在我的职责范围内，我无权干涉。
+[name="アーススピリット"]それに、これ以上は職責の範疇を超えてるしね。私にはあなたたちの判断にまで干渉する権利はないもの。
+[name="Earthspirit"]Deciding what to do with it is not in my job description. That's up to you.
+[name="어스스피릿"]당신들이 어떻게 판단하든, 내 업무 밖이라 개입할 권한도 없어.
+
+[name="领航员A"]地灵小姐，请别急着走，按照流程，我去通知组长，我们讨论一下......
+[name="ナビゲーターA"]では、少し待っていてください。手順に従いリーダーに報告を行います。それから話し合いましょう……
+[name="Navigator A"]Settle down, Earthspirit, we've got protocols. I'll notify the team leader, and we'll discuss...
+[name="파일럿 A"]어스스피릿 씨, 잠시만요. 절차에 따라 팀장에게 보고할 테니, 같이 상의라도……
+
+[Decision(options="来不及了。", values="1")]
+[Decision(options="いや、それでは間に合わない。", values="1")]
+[Decision(options="There's no time for that.", values="1")]
+[Decision(options="그럴 시간이 없어.", values="1")]
+
+[name="领航员A"]咦，博士？！您怎么会出现在这里？
+[name="ナビゲーターA"]えっ、ドクター！？　どうしてこちらに？
+[name="Navigator A"]Huh, Doctor?! Why are you here?
+[name="파일럿 A"]엇, 박사님?! 이곳엔 어쩐 일이십니까?
+
+[name="领航员A"]在正常航行的时候，您不是都在自己的办公室里吗？
+[name="ナビゲーターA"]いつもなら、通常運行時はご自分の執務室にいるじゃないですか。
+[name="Navigator A"]Shouldn't you be in your office?
+[name="파일럿 A"]정상 항행 시에는 항상 사무실에 계셨잖아요?
+
+[Decision(options="我正准备上舰桥。", values="1")]
+[Decision(options="ちょうどブリッジに上がろうと思っていたところだ。", values="1")]
+[Decision(options="I was going up onto the bridge.", values="1")]
+[Decision(options="마침 함교로 가는 길이었어.", values="1")]
+
+[name="领航员A"]那可真是太巧了......
+[name="ナビゲーターA"]それは……なんというか、偶然ですね。
+[name="Navigator A"]Now that's some coincidence...
+[name="파일럿 A"]우연이네요……
+
+[name="领航员A"]您拿走了这份报告，是想亲自去和我们组长说明情况吗？
+[name="ナビゲーターA"]レポートはすでに受け取っていますが、リーダーに直接状況説明をなさいますか？
+[name="Navigator A"]If you're taking the report, are you going to explain the situation to our team leader in person?
+[name="파일럿 A"]그 보고서를 가지고 가서 직접 저희 팀장에게 상황을 설명하시려는 건가요?
+
+[Decision(options="风暴就在眼前，他很快就会察觉。;情况紧急，我直接和阿米娅说。", values="1;2")]
+[Decision(options="嵐は目の前だ。彼もすぐに気が付くだろう。;緊急事態だ。アーミヤに直接話そう。", values="1;2")]
+[Decision(options="The windstorm is right in front of us. He'll notice soon enough.;The situation is urgent, I'll let Amiya know.", values="1;2")]
+[Decision(options="폭풍이 눈앞에 있어. 그도 곧 알아차릴 거야.;긴급상황이야. 직접 아미야에게 말해야겠어.", values="1;2")]
+
+[name="领航员A"]什么，这么严重吗？那可糟了......
+[name="ナビゲーターA"]えっ、そこまで深刻なんですか？　嫌な予感がしてきたな……
+[name="Navigator A"]What? It's that serious? Well that's not good...
+[name="파일럿 A"]엇, 그렇게 심각한가요? 큰일이네요……
+
+[name="地灵"]博士，你相信我？
+[name="アーススピリット"]ドクター、私を信じてくれるの？
+[name="Earthspirit"]Doctor, you believe me?
+[name="어스스피릿"]박사, 날 믿어주는 건가?
+
+[Decision(options="我相信事实。;我相信我的干员。", values="1;2")]
+[Decision(options="自分が信じるのは、目の前の事実だ。;自分のオペレーターを信じるのは、当然のことだ。", values="1;2")]
+[Decision(options="I believe in reality.;I believe my operators.", values="1;2")]
+[Decision(options="난 사실만을 믿을 뿐이야.;난 내 오퍼레이터를 믿어.", values="1;2")]
+
+[name="地灵"]那我和你一起去舰桥，我会继续观测气旋的实时情况，随时向你和阿米娅小姐报告。
+[name="アーススピリット"]それなら、一緒にブリッジに行くわ。サイクロンの状況を引き続き観測して、あなたとアーミヤにリアルタイムで伝えるべきだもの。
+[name="Earthspirit"]Then I'll go to the bridge with you. I'll continue to observe the situation in real time and report to you and Amiya.
+[name="어스스피릿"]그럼 나도 함께 함교에 간다. 사이클론의 실시간 상황을 계속 관측하며 수시로 당신과 아미야에게 보고할게.
+
+[Decision(options="辛苦了，这样最好。;不用加班费？", values="1;2")]
+[Decision(options="それが最善策だな。;残業代はいらないのか？", values="1;2")]
+[Decision(options="Good. That's the best option.;Not going to ask for overtime?", values="1;2")]
+[Decision(options="수고해줘. 그게 최선일 것 같아.;잔업 수당은 필요 없고?", values="1;2")]
+
+[name="地灵"]这在我的职责范围内。
+[name="アーススピリット"]ええ。これも、私の職責の内よ。
+[name="Earthspirit"]This is within the scope of my duties.
+[name="어스스피릿"]이건 내 업무니까.
+
+4:39 P.M. 天气/阴 能见度四公里
+p.m. 4:39 天気/曇天 視界：4km
+4:39 P.M. \ Overcast, Visibility: 4 km
+4:39 P.M. 날씨 / 흐림. 가시거리 4km
+
+罗德岛本舰，舰桥
+ロドス本艦 ブリッジ
+Rhodes Island Landship, Bridge
+로도스 아일랜드 본함, 함교
+
+[name="中控人员"]报告，前方风速正在迅速增强！
+[name="航行制御員"]報告！　航路前方の風速が、急速に上昇しています！
+[name="Central Control Staff"]Warning, the wind speed is increasing rapidly!
+[name="중앙통제실 스태프"]보고, 전방 풍속이 빠르게 상승하고 있습니다!
+
+[name="中控人员"]能见度持续下降中，按照这个起风的速度，过不了几分钟就会跌破一公里！
+[name="航行制御員"]視界不良、可視範囲が狭まっています！　この風速では、あと数分で範囲1kmを下回ります！
+[name="Central Control Staff"]At these numbers, our visibility's going to fall under one kilometer within a few minutes!
+[name="중앙통제실 스태프"]가시거리 지속 감소 중, 이 정도 풍속이라면 몇 분 뒤에 1km 이하로 떨어질 겁니다!
+
+[name="阿米娅"]有没有启动沙暴模式的辅助驾驶功能？
+[name="アーミヤ"]対砂嵐用の補助運転機能は起動しましたか？
+[name="Amiya"]Did you turn on the assisted driving function for sandstorm mode?
+[name="아미야"]모래 폭풍 모드의 보조 운전 기능은 작동하였습니까?
+
+[name="中控人员"]已经按您的安排提前启动了。
+[name="航行制御員"]手筈通り、事前に起動させています。
+[name="Central Control Staff"]We've had it on for a while, it was part of the itinerary.
+[name="중앙통제실 스태프"]지시에 따라 이미 작동하였습니다.
+
+[name="中控人员"]但是，阿米娅小姐，我担心这不是普通沙暴......
+[name="航行制御員"]でも、アーミヤさん、これって普通の砂嵐じゃないんじゃ……
+[name="Central Control Staff"]But Amiya, this might not be an ordinary sandstorm...
+[name="중앙통제실 스태프"]하지만, 아미야 씨, 이건 일반적인 모래 폭풍이 아닙니다……
+
+[name="领航员B"]天呐！
+[name="ナビゲーターB"]なんてこった！
+[name="Navigator B"]My god!
+[name="파일럿 B"]맙소사!
+
+[name="阿米娅"]帕维尔，你看到了什么？
+[name="アーミヤ"]パービルさん、何が見えたんですか？
+[name="Amiya"]What is it, Pavel?
+[name="아미야"]파벨 씨, 뭘 보셨죠?
+
+[name="领航员B"]传感器侦测到前方雷暴云团！
+[name="ナビゲーターB"]センサーが、航路前方に雷を伴う積乱雲群を探知しました！
+[name="Navigator B"]Sensors detecting thunderstorm clouds ahead!
+[name="파일럿 B"]센서에 전방의 뇌운 덩어리가 감지되었습니다!
+
+[name="阿米娅"]——
+[name="アーミヤ"]――！
+[name="Amiya"]......
+[name="아미야"]……!
+
+[name="阿米娅"]打开广播，通知全舰，罗德岛马上将会经过雷暴区域，警戒等级提高一级！
+[name="アーミヤ"]放送をオンにしてください！　……全艦に告ぎます！　ロドスはまもなく雷雨の中へ突入します――警戒レベルを一つ、上げてください！
+[name="Amiya"]Open the PA, tell the whole ship that Rhodes Island will pass through a thunderstorm shortly, and raise the alert level by one!
+[name="아미야"]방송으로 함 내 모두에게 알리세요. 로도스 아일랜드는 곧 천둥 구역에 진입합니다. 경계 등급을 한 단계 격상합니다!
+
+[name="阿米娅"]中控人员，立刻降速！
+[name="アーミヤ"]航行制御員さん、すぐに減速を！
+[name="Amiya"]Central command personnel, slow us down right now!
+[name="아미야"]중앙통제실, 즉시 운행 속도를 줄여주세요!
+
+[name="阿米娅"]唔......晃得好厉害......
+[name="アーミヤ"]うっ……すごい揺れですね……
+[name="Amiya"]Ugh... we're rocking a lot...
+[name="아미야"]윽…… 굉장한 흔들림이네요……
+
+[name="阿米娅"]情况怎么样？
+[name="アーミヤ"]状況はどうですか？
+[name="Amiya"]What's the situation?
+[name="아미야"]상황이 어떤가요?
+
+[name="中控人员"]舷侧板压强正在迅速飙升！
+[name="航行制御員"]側面外板の圧力が急速に上昇しています！
+[name="Central Control Staff"]The pressure on the hull side panels is skyrocketing!
+[name="중앙통제실 스태프"]현 쪽 외벽의 압력이 엄청난 속도로 상승하고 있습니다!
+
+[name="中控人员"]最外侧防风板损伤百分之七十，基本失效！
+[name="航行制御員"]最外部の防風板、損傷率70%！　基本機能、喪失状態です！
+[name="Central Control Staff"]70% of the outermost storm shutters have been damaged and are basically failing!
+[name="중앙통제실 스태프"]가장 바깥쪽 방풍판 손상률 70%, 거의 기능을 상실했습니다!
+
+[name="中控人员"]还有......船体附近检测到多处异常热源，能量幅度逼近警戒阈值！
+[name="航行制御員"]加えて……船体近くに異常熱源を多数感知しました！　エネルギー強度、警戒限界値に迫っています！
+[name="Central Control Staff"]Also... multiple abnormal heat sources detected near the hull, energy amplitude approaching critical threshold!
+[name="중앙통제실 스태프"]그리고…… 선체 부근에서 이상 열원 다수 감지, 그 수치가 경고 수준입니다!
+
+[name="阿米娅"]这个意思难道是......
+[name="アーミヤ"]これは、まさか……
+[name="Amiya"]Does this mean...
+[name="아미야"]그렇다면 설마……
+
+[Decision(options="你想的没错，是天灾。", values="1")]
+[Decision(options="ああ――天災だ。", values="1")]
+[Decision(options="Yes. It's a Catastrophe.", values="1")]
+[Decision(options="네 생각이 맞아. 재앙이야.", values="1")]
+
+[name="阿米娅"]啊，Dr.{@nickname}！
+[name="アーミヤ"]あっ、Dr.{@nickname}！
+[name="Amiya"]Ah, Dr. {@nickname}!
+[name="아미야"]앗, {@nickname} 박사님!
+
+[name="阿米娅"]怎么......回事？
+[name="アーミヤ"]一体、何が……？
+[name="Amiya"]How... can this be?
+[name="아미야"]여기는…… 어떻게?
+
+[Decision(options="没有时间解释了。;是超级单体雷暴。", values="1;2")]
+[Decision(options="説明している時間はない。;この雷雨は、スーパーセルによるものだ。", values="1;2")]
+[Decision(options="No time to explain.;It's a supercell.", values="1;2")]
+[Decision(options="설명할 시간이 없어.;슈퍼셀 폭풍이야.", values="1;2")]
+
+[name="阿米娅"]好......我知道了。
+[name="アーミヤ"]――分かりました。
+[name="Amiya"]Alright... I got it.
+[name="아미야"]그렇군요…… 알겠습니다.
+
+[name="阿米娅"]全舰启动红色天灾警戒！
+[name="アーミヤ"]全艦に、天災非常警戒宣言を発令します！
+[name="Amiya"]All hands, activate code red Catastrophe alert!
+[name="아미야"]전 함선에 재앙 비상경계를 발령합니다!
+
+[name="阿米娅"]一层甲板除舰桥成员外全部撤离，二至六层非工程人员集中到中央区避险！
+[name="アーミヤ"]甲板の一層にいる人員は、ブリッジのメンバーを除いて退避！　二層から六層については、エンジニア以外の人員全員で中央エリアに避難してください！
+[name="Amiya"]Evacuate all personnel on the first deck, bridge excluded. Gather all non-engineering personnel from the second to sixth levels in the central area for safety!
+[name="아미야"]함교를 제외한 제1층 갑판 인력 전원 대피, 2~6층 비엔지니어 인력은 중앙 구역으로 대피하십시오!
+
+[name="阿米娅"]中控人员，暂时保持最低速度航行......
+[name="アーミヤ"]航行制御員さんは、ひとまず最低速度を保って航行を……
+[name="Amiya"]Central control, maintain minimum speed cruising...
+[name="아미야"]중앙통제실, 잠시 최저 항행속도를 유지해주세요……
+
+[name="阿米娅"]领航员，这场雷沙暴会持续多久？
+[name="アーミヤ"]ナビゲーターさん、この嵐はいつまで続きますか？
+[name="Amiya"]Navigator, how long will this desert thunderstorm last?
+[name="아미야"]파일럿님, 이번 폭풍이 얼마나 지속될 것 같나요?
+
+[name="领航员B"]这种突发风暴，大概一两个小时就能过去......
+[name="ナビゲーターB"]この手の突発的な嵐であれば、恐らく一、二時間で通過できるかと……
+[name="Navigator B"]These sudden-onset storms usually pass within an hour or two...
+[name="파일럿 B"]이런 돌발성 폭풍이라면, 아마 한두 시간이면 사라질……
+
+[name="领航员A"]组长，这不好说，还是听听博士和地灵小姐的建议吧。
+[name="ナビゲーターA"]リーダー、そうとも言い切れません。ここは一度、ドクターとアーススピリットさんの意見をお聞きしましょう。
+[name="Navigator A"]It's hard to say for sure. Doctor? Earthspirit?
+[name="파일럿 A"]팀장님, 그렇게 장담할 수 없습니다. 그보다 박사님과 어스스피릿 씨의 의견을 들어 보시지요.
+
+[Decision(options="地灵，把你测算的结果告诉大家。", values="1")]
+[Decision(options="アーススピリット、皆に観測結果を伝えてくれ。", values="1")]
+[Decision(options="Earthspirit, your analysis.", values="1")]
+[Decision(options="어스스피릿, 네 관측 결과를 모두에게 알려줘.", values="1")]
+
+[name="地灵"]好的，博士。
+[name="アーススピリット"]分かったわ、ドクター。
+[name="Earthspirit"]Yes, Doctor.
+[name="어스스피릿"]알겠어, 박사.
+
+[name="地灵"]帕维尔先生，博士给你的是我在一个小时前完成的报告。
+[name="アーススピリット"]パービル、ドクターがあなたに渡したそれは、一時間前に私が作成したレポートよ。
+[name="Earthspirit"]Mr. Pavel, the Doctor gave you the report I completed an hour ago.
+[name="어스스피릿"]파벨, 박사가 준 건 내가 한 시간 전에 완성한 보고서야.
+
+[name="领航员B"]......两公里内有多个小型气旋？这可不是什么好兆头！
+[name="ナビゲーターB"]……「二キロ圏内に複数の小型サイクロン」……！？　いい兆しとは思えませんね……
+[name="Navigator B"]Multiple small cyclones within two kilometers...? This doesn't bode well!
+[name="파일럿 B"]……2킬로 범위 내 복수의 소형 사이클론이라고? 좋은 징조라 볼 순 없겠는데!
+
+[name="领航员B"]这天灾不是一般的雷沙暴......恐怕会演变成烈度最高的风灾！
+[name="ナビゲーターB"]どうやら、この天災は普通の嵐とは違うらしい……最高危険度の風災にすら発展するかもしれないってことか。
+[name="Navigator B"]This Catastrophe is no ordinary desert thunderstorm... we could be looking at a maximum strength windstorm!
+[name="파일럿 B"]이 폭풍은 일반적인 재앙이 아니야…… 최고 위험도의 풍재가 될지도 몰라!
+
+[name="地灵"]能不能借用一下舰桥上的传感器？
+[name="アーススピリット"]ブリッジのセンサーを借りてもいいかしら？
+[name="Earthspirit"]Can I borrow one of the sensors on the bridge?
+[name="어스스피릿"]함교 센서를 빌려도 될까?
+
+[name="领航员B"]当然，地灵小姐，我本来也该看出来的......
+[name="ナビゲーターB"]もちろんです、アーススピリットさん。俺も気付くべきでした……
+[name="Navigator B"]Of course. I should've seen it myself...
+[name="파일럿 B"]물론이죠, 어스스피릿 씨. 저도 예측했어야 했는데……
+
+[name="地灵"]不必愧疚，帕维尔先生，这次现象极端异常，不在常规天灾预测范畴内，就连最老道的天灾信使也很难及时看出端倪。
+[name="アーススピリット"]負い目を感じる必要はないわ、パービル。今回の現象は極めて異常だもの。これは天災予測の常識を超えている……ベテランの天災トランスポーターでも、兆候を事前に見抜くことは難しいでしょう。
+[name="Earthspirit"]It's alright, Mr. Pavel. This is an extremely abnormal phenomenon and well beyond the scope of normal Catastrophe prediction. An experienced Catastrophe Messenger would have some trouble spotting all the signs in time.
+[name="어스스피릿"]침울할 필요 없어, 파벨. 이번 현상은 지극히 비정상적이고, 일반 재앙 범주 외의 것이라, 베테랑 재앙정보전달자라도 알아차리기 어려웠을 거야.
+
+[name="地灵"]要不是博士支持，我也险些把上述异常值当作误差略过去。
+[name="アーススピリット"]ドクターの後押しがなければ、私だってこの異常をエラーとして見落とすところだったわ。
+[name="Earthspirit"]If not for the Doctor's assistance, I would've treated the outliers as errors and glossed over them.
+[name="어스스피릿"]박사의 도움이 없었다면, 나도 거기 적힌 이상 수치를 오차로 여길 뻔했으니까.
+
+[Decision(options="事情还来得及往好的方向发展。;......;我有一种很不好的预感。", values="1;2;3")]
+[Decision(options="まだ、事態を好転させるだけの時間はある。;……;なんだか、とても嫌な予感がする。", values="1;2;3")]
+[Decision(options="We still have time to move things in the right direction.;......;I'm getting a real bad feeling about this.", values="1;2;3")]
+[Decision(options="아직 상황을 되돌리기엔 늦지 않았어.;……;느낌이 썩 좋지 않아.", values="1;2;3")]
+
+[name="地灵"]博士，阿米娅小姐，前方那几个小型气旋正在增强辐合。
+[name="アーススピリット"]ドクター、アーミヤ。前方のサイクロン群が収束しつつあるわ。
+[name="Earthspirit"]Doctor, Amiya, the small cyclones ahead are converging and intensifying.
+[name="어스스피릿"]박사, 아미야, 전방에 소형 사이클론 몇 개가 한 곳에 모이면서 더욱 강해지고 있어.
+
+[name="地灵"]也就是说，多漩涡气旋的核心即将生成。
+[name="アーススピリット"]つまり……収束したサイクロン群によって、多重渦サイクロン・コアが形成されようとしている、ということよ。
+[name="Earthspirit"]In other words, the core of the multi-cyclone vortex is about to generate.
+[name="어스스피릿"]그러니까, 소용돌이가 여러 개인 사이클론의 코어가 곧 형성될 거야.
+
+[name="地灵"]一旦核心生成，预估气旋直径将达两公里，持续时间至少七至八小时。
+[name="アーススピリット"]一度コアが形成されたら、サイクロンの直径は二キロにまで達し……少なくとも七、八時間は勢力を維持することが予測されるわ。
+[name="Earthspirit"]Once the core forms, I estimate the cyclone will reach two kilometers in diameter and last at least seven to eight hours.
+[name="어스스피릿"]코어가 형성되면 사이클론의 지름은 약 2킬로에 이르게 되고, 지속시간도 최소 7~8시간이 될 거야.
+
+[name="阿米娅"]如果罗德岛保持速度接近风暴核心，会怎么样？
+[name="アーミヤ"]もし、ロドスが速度を維持したままコアに接近した場合は……どうなりますか？
+[name="Amiya"]What happens if Rhodes Island maintains its speed as it approaches the core?
+[name="아미야"]로도스 아일랜드가 현재 이동 속도를 유지하며 사이클론의 중심에 접근하면 어떻게 되죠?
+
+[name="中控人员"]万一撞上气旋，罗德岛的舰体可能和被卷起的活性源石粉尘发生高速碰撞，等效于上百个最高当量源石炸弹在舷墙上同时引爆。
+[name="航行制御員"]万が一サイクロンと接触しようものなら、ロドスの船体は巻き上げられた活性源石の粉塵と高速で衝突するでしょう。源石爆弾――それも最大規模のものが数百、船体で同時に起爆するのと同じです。
+[name="Central Control Staff"]If we come into contact with the vortex, the ship's hull may collide with high-speed active Originium dust, roughly equivalent to the simultaneous detonation of hundreds of maximum-payload Originium bombs across the bulwark.
+[name="중앙통제실 스태프"]사이클론에 충돌하면 로도스 아일랜드의 선체는 활성 오리지늄 분진과 고속으로 충돌하는데, 이는 수백 개의 원석 폭탄이 동시에 폭발하는 것과 같습니다.
+
+[name="中控人员"]至于后果，阿米娅小姐，我申请不去想象。
+[name="航行制御員"]それでどうなるかは……想像したくありません。
+[name="Central Control Staff"]I'm sure you can guess how that might go for us.
+[name="중앙통제실 스태프"]그 후의 일에 대해서는 아미야 씨, 저는 상상조차 하고 싶지 않네요.
+
+[name="阿米娅"]还来得及调转方向吗？
+[name="アーミヤ"]方向転換は、まだ間に合いますか？
+[name="Amiya"]Do we have enough time to change course?
+[name="아미야"]아직 방향을 바꿀 시간이 있나요?
+
+[name="中控人员"]我尽量试试......
+[name="航行制御員"]やれるだけやってみますが……
+[name="Central Control Staff"]I can try...
+[name="중앙통제실 스태프"]최대한 시도해보겠습니다……
+
+[name="领航员B"]风暴核心变向很快，最大速度能达到近千公里每小时。
+[name="ナビゲーターB"]サイクロン・コアは急速に方向転換するんです。最高速度は時速千キロ近くに達しますし……
+[name="Navigator B"]The core of the windstorm changes directions very quickly, and can reach a maximum speed of nearly 1,000 kilometers per hour.
+[name="파일럿 B"]폭풍 코어의 방향 전환 속도가 엄청 빨라요. 최대 풍속도 시간당 천 킬로에 육박합니다.
+
+[name="中控人员"]那我不用试了。
+[name="航行制御員"]……それじゃ、やったところで意味はなさそうですね。
+[name="Central Control Staff"]Then there's no point in us trying.
+[name="중앙통제실 스태프"]그럼 시도해봤자 소용없겠네요.
+
+[name="中控人员"]阿米娅小姐，就算全速撤离，没选对方向的话，罗德岛也跑不过这风暴。
+[name="航行制御員"]アーミヤさん、たとえ全速で撤退したとしても……誤った方向を選べば、ロドスがこの暴風から逃れることはできません。
+[name="Central Control Staff"]Amiya, even if we try a full speed retreat, if we get unlucky with the direction, Rhodes Island won't escape the storm.
+[name="중앙통제실 스태프"]아미야 씨, 전속력으로 후퇴해도 방향을 잘못 잡으면, 로도스 아일랜드는 이 폭풍을 피할 수 없습니다.
+
+[name="阿米娅"]看来我们只能停在原地。
+[name="アーミヤ"]となると……この場に留まるしかなさそうですね……
+[name="Amiya"]Then it seems like the only thing we can do is stay put.
+[name="아미야"]그럼 이 자리에 머무를 수밖에 없겠네요.
+
+[name="阿米娅"]帕维尔先生，我需要舰体损伤评估。
+[name="アーミヤ"]パービルさん、船体損傷率の予測をお願いします。
+[name="Amiya"]Mr. Pavel, give me a potential damage assessment.
+[name="아미야"]파벨 씨, 선체의 예상 손상도에 대한 평가가 필요합니다.
+
+[name="领航员B"]根据过往经验，假如我们在类似规模的雷沙暴里待满七个小时，一至六层甲板平均会有百分之十五左右的损伤......
+[name="ナビゲーターB"]過去の経験に基づいて……同規模の嵐の中で七時間過ごすと仮定すると、一層から六層の甲板は平均15%程度損傷しますね……
+[name="Navigator B"]If we spend seven hours in a thunderstorm of a similar scale, the first to sixth decks will be damaged maybe 15%...
+[name="파일럿 B"]지금까지의 경험으로는, 저희가 유사 규모의 폭풍우 속에서 7시간을 보낸다면, 1~6층 갑판은 약 15%의 손상을 입습니다……
+
+[name="领航员B"]其中一层甲板受损将最严重，而且不排除会出现人员伤亡。
+[name="ナビゲーターB"]中でも一層の甲板の被害が最も深刻になります。死傷者が出る可能性も捨てきれません。
+[name="Navigator B"]Of those, the first deck will take the hardest hits, and casualties are likely.
+[name="파일럿 B"]그중에서 1층 갑판의 손상이 가장 심하며, 사상자도 발생할 수 있습니다.
+
+[name="阿米娅"]......这将是罗德岛本舰近一年来遭受的最大损失。
+[name="アーミヤ"]……ロドス本艦がここ一年で受けた中でも、最大規模の被害になりそうですね。
+[name="Amiya"]It'll be the biggest loss the ship takes in a year.
+[name="아미야"]……최근 1년 동안 로도스 아일랜드 본함에 생겼던 것 중 최대 규모의 피해가 되겠군요.
+
+[name="阿米娅"]但似乎没有其他办法了......
+[name="アーミヤ"]ですが、他に方法はないようです……
+[name="Amiya"]But, I don't see any options...
+[name="아미야"]다른 방도는 없을 것 같네요……
+
+[Decision(options="还有办法。", values="1")]
+[Decision(options="方法ならある。", values="1")]
+[Decision(options="There is a way.", values="1")]
+[Decision(options="방도라면 있어.", values="1")]
+
+[name="阿米娅"]博士？
+[name="アーミヤ"]ドクター？
+[name="Amiya"]Doctor?
+[name="아미야"]박사님?
+
+[Decision(options="我们没必要承受这损失。;你也不希望停下修一个月的船吧？", values="1;2")]
+[Decision(options="そこまでの被害を受ける必要はない。;修理で一ヶ月も立ち往生したくないだろう？", values="1;2")]
+[Decision(options="We won't have to take damage.;You don't want to have to dock for a month of repairs, right?", values="1;2")]
+[Decision(options="그런 피해는 보지 않아도 돼.;너도 함선을 멈추고 한 달 내내 수리만 하고 싶진 않잖아?", values="1;2")]
+
+[name="阿米娅"]是的，要是在荒地里停下，罗德岛或许还会遭遇其他风险。
+[name="アーミヤ"]はい。荒野での停泊を余儀なくされたら、別のリスクに遭遇する可能性もありますから……
+[name="Amiya"]Yes, if we have to stop in the wastelands, we could face other threats.
+[name="아미야"]네, 황무지에 멈추게 되면 로도스 아일랜드는 다른 여러 위험에 노출되어 버릴 테니까요.
+
+[Decision(options="我们还有一个选择。;既然没法撤退也不想停下，我们还能做什么呢？", values="1;2")]
+[Decision(options="だからこそ、もう一つ選択肢がある。;撤退と停止以外に――もう一つだけ。", values="1;2")]
+[Decision(options="We have another choice.;Since we can't retreat and don't want to stop, what else can we do?", values="1;2")]
+[Decision(options="선택지라면 아직 하나가 남았어.;후퇴도 정지도 할 수 없다면, 달리 무엇을 할 수 있을까?", values="1;2")]
+
+[name="阿米娅"]博士，你是想说，我们继续前进？
+[name="アーミヤ"]ドクター、もしかして……前進するつもりですか？
+[name="Amiya"]Doctor, are you suggesting that we continue straight ahead?
+[name="아미야"]박사님, 그러니까, 계속 나아가라는 건가요?
+
+[name="中控人员"]不行，能见度太低了！
+[name="航行制御員"]む、無理です！　視界が悪すぎます！
+[name="Central Control Staff"]That's out of the question, visibility is too low!
+[name="중앙통제실 스태프"]말도 안 돼요. 가시도가 너무 낮습니다!
+
+[name="中控人员"]就算有辅助驾驶，我也找不到路，我们萨尔贡人都知道，像这样一头扎进沙暴就是找死！
+[name="航行制御員"]仮に補助運転を使ったとしても、これじゃどう進めばいいかなんて分かりません。こんな砂嵐に頭から突っ込んでも死ぬだけだって、俺たちサルゴン人なら誰でも知ってますよ！
+[name="Central Control Staff"]Even with assisted driving, I can't navigate. I'm from Sargon, plunging headfirst into a sandstorm like this is suicide!
+[name="중앙통제실 스태프"]보조 운전 기능이 있지만, 저도 경로는 찾을 수 없어요. 우리 사르곤인은 다 압니다. 이대로 폭풍우에 돌진하는 건 자살이나 마찬가지라는 걸요!
+
+[name="阿米娅"]卡玛尔先生，你的顾虑我能理解。
+[name="アーミヤ"]カマルさん、あなたの懸念は理解できます。
+[name="Amiya"]I understand your concerns, Mr. Kamal.
+[name="아미야"]카말 씨, 당신의 불안은 이해합니다.
+
+[name="阿米娅"]但是，我相信博士。
+[name="アーミヤ"]ですが……私は、ドクターを信じます。
+[name="Amiya"]But, I trust the Doctor.
+[name="아미야"]하지만, 저는 박사님을 믿어요.
+
+[name="阿米娅"]Dr.{@nickname}，你有把握带领罗德岛驶过天灾区吗？
+[name="アーミヤ"]Dr.{@nickname}、ロドスを率いて天災エリアを突破する自信はありますか？
+[name="Amiya"]Dr. {@nickname}, are you sure about leading Rhodes Island through the Catastrophe zone?
+[name="아미야"]{@nickname} 박사님, 로도스 아일랜드를 재앙 구역에서 벗어나게 할 자신은 있으시죠?
+
+[Decision(options="我需要地灵继续测算气旋实时坐标。;有。;我需要PRTS帮我计算地表源石能量波形。", values="1;2;3")]
+[Decision(options="アーススピリットの座標計測さえあれば。;自信ならある。;PRTSの補助が必要にはなるが。", values="1;2;3")]
+[Decision(options="I need Earthspirit to keep calculating the real-time coordinates of the vortex.;Yes.;I need PRTS to help me calculate the energy amplitude of the Originium on the surface.", values="1;2;3")]
+[Decision(options="어스스피릿이 계속해서 사이클론의 실시간 좌표를 측량해 주었으면 한다.;있어.;PRTS가 지표면 오리지늄 에너지 파형을 계산해 주었으면 한다.", values="1;2;3")]
+
+[name="阿米娅"]好，请大家一起配合博士。
+[name="アーミヤ"]分かりました。みなさん、ドクターに協力してください。
+[name="Amiya"]Good, please cooperate with the Doctor.
+[name="아미야"]알겠습니다. 여러분 모두 박사님에게 협조해 주셨으면 합니다.
+
+[name="中控人员"]用这么短的时间算出一条安全的路线，这听起来有点像开玩笑。
+[name="航行制御員"]こんな短時間で安全なルートを算出するなんて……冗談みたいに聞こえますけど……
+[name="Central Control Staff"]Calculating a safe route in such a short time sounds like a bad joke.
+[name="중앙통제실 스태프"]그 짧은 시간에 안전 경로를 산출하다니, 뭔가 농담 같이 들리기도 하네요.
+
+[name="阿米娅"]博士的话，一定可以。
+[name="アーミヤ"]でも、ドクターならきっとできます。
+[name="Amiya"]If anyone can do it, it's our Doctor.
+[name="아미야"]박사님이라면, 분명 할 수 있을 거예요.
+
+[name="中控人员"]我倒是听说过博士的厉害......可是开船不同于战地指挥啊！
+[name="航行制御員"]ドクターがすごい腕前だってのは聞いてますが……それでも、船の運行は戦場の指揮とは訳が違うんですよ。
+[name="Central Control Staff"]I've heard stories of the battles and all... but operating the landship is nothing like field command!
+[name="중앙통제실 스태프"]박사님이 대단하다는 말은 많이 들었지만…… 함선 운전과 전쟁 지휘는 다릅니다!
+
+[name="领航员B"]我也没什么把握......当然，我并不怀疑博士的能力，只是这种实时计算的方法，我闻所未闻......
+[name="ナビゲーターB"]俺も……ちょっと不安です。もちろん、ドクターの能力は疑ってませんが、こんなリアルタイムで計算するなんて、聞いたことありませんよ……
+[name="Navigator B"]I don't know about this... Of course, I don't doubt the Doctor's abilities, but I've never heard of this real-time calculation method...
+[name="파일럿 B"]저도 승산이 없단 생각입니다…… 물론 박사님의 실력을 의심하는 건 아니지만, 실시간 계산법이라니, 전대미문입니다……
+
+[name="地灵"]......说不定真能行得通。
+[name="アーススピリット"]……いいえ、もしかしたら……本当に可能なのかも。
+[name="Earthspirit"]It just might work...
+[name="어스스피릿"]……어쩌면 진짜 갈 수 있을지도.
+
+[name="领航员B"]地灵小姐，你能看懂博士飞快写出来的这些公式？
+[name="ナビゲーターB"]アーススピリットさん、ドクターがものすごい速さで書き出したこの公式……何だか分かるんですか？
+[name="Navigator B"]Earthspirit, can you make sense of the Doctor's formulas?
+[name="파일럿 B"]어스스피릿 씨, 박사님이 순식간에 써낸 저 공식이 이해된다고요?
+
+[name="地灵"]看不懂。
+[name="アーススピリット"]読み取れはしないけれど……
+[name="Earthspirit"]No.
+[name="어스스피릿"]모르겠어.
+
+[name="地灵"]不过我觉得有些熟悉。
+[name="アーススピリット"]でも、見覚えがあるの。
+[name="Earthspirit"]But they feel a bit familiar.
+[name="어스스피릿"]하지만 어딘가 낯익어.
+
+[name="地灵"]对了......类似的公式，我前两天听一位新来的天才后辈提起过，只是博士写的要复杂且富有变化得多。
+[name="アーススピリット"]そうだわ……似たような公式について、数日前、新入りの天才が言及していたのよ。ドクターが書いているものは、それより複雑で変化に富んだものだけれど……
+[name="Earthspirit"]Right... I heard about a similar formula from some whiz kid a couple days ago, but the Doctor's version is more complicated and varied.
+[name="어스스피릿"]맞아…… 비슷한 공식을 이틀 전, 새로 들어온 천재 후배가 언급했었는데, 박사가 쓴 게 훨씬 복잡하고 변화무쌍해.
+
+[Decision(options="路线给领航员了。;需要即时变向的话还请中控人员配合。;阿米娅，准备好了。", values="1;2;3")]
+[Decision(options="算出したルートは、ナビゲーターに渡した。;急な方向転換の際は、航行制御員に協力を頼もう。;アーミヤ、準備は整った。", values="1;2;3")]
+[Decision(options="I've given the route to the navigator.;Work with the central control staff if you need to change course rapidly.;Amiya, we're ready.", values="1;2;3")]
+[Decision(options="경로는 파일럿에게 넘겼어.;즉각 대응하려면 중앙통제실의 협조가 필요해.;아미야, 준비됐어.", values="1;2;3")]
+
+[name="阿米娅"]那我们就要前进了！
+[name="アーミヤ"]では、前進しましょう！
+[name="Amiya"]Let's head forward then!
+[name="아미야"]그럼, 전진하겠습니다!
+
+[Decision(options="我辅助你进行指挥。;交给我吧。", values="1;2")]
+[Decision(options="アーミヤは指揮を頼む。自分がサポートする。;指揮は任せてくれ。", values="1;2")]
+[Decision(options="I'll help you issue instructions.;Leave it to me.", values="1;2")]
+[Decision(options="내가 아미야의 지휘를 서포트 할게.;나한테 맡겨.", values="1;2")]
+
+[name="阿米娅"]不，博士，这样效率太低了。
+[name="アーミヤ"]いいえ、ドクター。それでは非効率的すぎます。
+[name="Amiya"]No, Doctor, that would be too inefficient.
+[name="아미야"]아뇨, 박사님, 그건 효율적이지 않아요.
+
+[name="阿米娅"]罗德岛眼下的情况只需要一名指挥官。
+[name="アーミヤ"]今のロドスに必要なのは、ただ一人の指揮官だけですから。
+[name="Amiya"]Rhodes Island only needs one commander right now.
+[name="아미야"]지금과 같은 상황에서 로도스 아일랜드의 지휘관은 한 사람이어야만 해요.
+
+[name="阿米娅"]好的，博士，请再往前走一些，到我的位置上来。
+[name="アーミヤ"]分かりました、ドクター。
+[name="Amiya"]Okay, Doctor, go forward until you're at my position.
+[name="아미야"]네, 박사님. 그럼 좀 더 앞으로, 제가 있는 곳까지 와주세요.
+
+[name="阿米娅"]Dr.{@nickname}，从看到你出现在舰桥上的那一刻起，我就相信情况一定会有转机。
+[name="アーミヤ"]……Dr.{@nickname}。あなたがブリッジに現れた瞬間から……間違いなく、事態は好転すると信じていました。
+[name="Amiya"]From the moment I saw you appear on the bridge, I trusted that the situation would definitely turn around.
+[name="아미야"]{@nickname} 박사님, 박사님께서 함교에 나타난 순간, 상황이 바뀔 거라고 저는 확신이 들었어요.
+
+[name="阿米娅"]舰桥上的各位请注意——
+[name="アーミヤ"]ブリッジのみなさん、聞いてください――
+[name="Amiya"]Attention, everyone on the bridge–
+[name="아미야"]함교에 있는 모두에게 전합니다.
+
+[name="阿米娅"]从现在开始，罗德岛本舰的指挥权将完全移交给Dr.{@nickname}！
+[name="アーミヤ"]現時点を以て、ロドス本艦の全指揮権をDr.{@nickname}に移行します！
+[name="Amiya"]From now on, I am transferring command of the Rhodes Island landship to Dr. {@nickname}!
+[name="아미야"]이제부터 로도스 아일랜드 본함의 모든 지휘권을 {@nickname} 박사님에게 넘기도록 하겠습니다!
+
+[Decision(options="通知可露希尔，各舱室进入节能模式！;集中供能给引擎！", values="1;2")]
+[Decision(options="クロージャに通信を！　各船室、省エネモードに移行！;エネルギー供給はエンジンに集中させてくれ！", values="1;2")]
+[Decision(options="Notify Closure and have her put all cabins into energy-saving mode!;All power to the engines!", values="1;2")]
+[Decision(options="클로저에 전달해. 각 선실을 에너지 절약 모드로 전환한다!;에너지를 엔진에 집중 공급하도록!", values="1;2")]
+
+[name="领航员B"]是，博士！
+[name="ナビゲーターB"]はい、ドクター！
+[name="Navigator B"]Got it, Doctor!
+[name="파일럿 B"]네, 박사님!
+
+[name="阿米娅"]可露希尔传来通讯，引擎准备好了，她还想祝这个“发疯一样”的奇思妙想能成功......
+[name="アーミヤ"]クロージャさんから通信がありました。エンジンの準備ができたそうです。それと、もう一つ。この「クレイジーな奇策」が成功するよう祈っている、と……
+[name="Amiya"]Message from Closure: The engine is ready, and she wishes us 'good luck'...
+[name="아미야"]클로저 씨의 통신입니다. 엔진 준비 완료되었다고 합니다. 추가로 이 '크레이지'하고 기발한 발상이 성공하기를 빈다고……
+
+[name="地灵"]偶尔疯狂一下，感觉还不错。
+[name="アーススピリット"]そう。まあ、たまにはクレイジーな奇策を楽しむのもいいんじゃないかしら。
+[name="Earthspirit"]There's nothing wrong with going a little crazy every now and then.
+[name="어스스피릿"]가끔은 크레이지 한 것도 나쁘지 않지.
+
+[name="中控人员"]早知道要像这样开船，我甚至想来一点酒精。
+[name="航行制御員"]しかし、こんな風に船をカッ飛ばすことになると知ってたら、いくらか酒でも入れたかったんですがね。
+[name="Central Control Staff"]If I knew I'd be sailing like this, I would've brought some booze.
+[name="중앙통제실 스태프"]이렇게 운전할 줄 알았으면 술이라도 한잔할걸.
+
+[Decision(options="罗德岛，全速前进！", values="1")]
+[Decision(options="ロドス、全速前進！", values="1")]
+[Decision(options="Rhodes Island, all ahead full!", values="1")]
+[Decision(options="로도스 아일랜드, 전속력으로 전진!", values="1")]
+
+[name="中控人员"]这速度简直要让我流鼻血！
+[name="航行制御員"]ぐっ……速度のせいか、鼻血が出そうだ！
+[name="Central Control Staff"]I'm getting a nosebleed from this speed!
+[name="중앙통제실 스태프"]코피가 쏟아질 정도의 속도다!
+
+[name="领航员B"]那是因为我的手肘撞到你鼻子上了......抱歉，晃成这样，我实在控制不住我的四肢。
+[name="ナビゲーターB"]悪い、多分俺のひじが当たったからじゃねぇかな……こんだけ揺れてちゃ、手足をコントロールできなくてさ。
+[name="Navigator B"]That's because I elbowed your nose... Sorry, but the whole place is shaking so much I can't control my limbs.
+[name="파일럿 B"]그건 내 팔꿈치가 네 코에 부딪혀서…… 미안, 너무 흔들려서 몸을 제대로 가눌 수가 없어.
+
+[name="中控人员"]抗震阻尼器失灵了？
+[name="航行制御員"]この振動は……制震ダンパーがダメになったのか？
+[name="Central Control Staff"]Is the seismic damper malfunctioning?
+[name="중앙통제실 스태프"]제진기는 작동이 안 되나?
+
+[name="领航员B"]看来不光是我，整艘船都在散架。
+[name="ナビゲーターB"]揺れでバラバラになりそうなのは俺だけじゃなく船全体ってことらしいな……
+[name="Navigator B"]Looks like it's not just my imagination - the whole ship's falling apart.
+[name="파일럿 B"]나뿐만 아니라 함선 전체가 해체되는 것 같아.
+
+[name="领航员B"]地灵小姐，你的眼睛竟然还没离开过屏幕......
+[name="ナビゲーターB"]ってか、アーススピリットさん、すごいですね……この状況でもモニターから視線を外してないなんて……
+[name="Navigator B"]Earthspirit, you haven't taken your eyes off the screen at all...
+[name="파일럿 B"]어스스피릿 씨, 이런 상황에도 모니터에서 눈 한번 떼지 않다니……
+
+[name="地灵"]二号气旋持续往东南三十度移动，三号气旋......四号气旋......
+[name="アーススピリット"]サイクロン二号、南東三十度に向けて移動中。サイクロン三号は……ここね。四号は……
+[name="Earthspirit"]Cyclone number two is continuing to move thirty degrees southeast, cyclone number three... cyclone number four...
+[name="어스스피릿"]2호 사이클론이 동남쪽 30도를 향해 이동, 3호 사이클론…… 4호 사이클론은……
+
+[name="阿米娅"]博士，抓住我的手！
+[name="アーミヤ"]ドクター、私の手に掴まってください！
+[name="Amiya"]Doctor, hold my hand!
+[name="아미야"]박사님, 제 손을 잡아요!
+
+[Decision(options="阿米娅，我抓住你了。", values="1")]
+[Decision(options="ああ、掴んだ。", values="1")]
+[Decision(options="I've got you, Amiya.", values="1")]
+[Decision(options="아미야, 잡았다.", values="1")]
+
+[name="阿米娅"]博士，我是不是踩到了你的脚背......
+[name="アーミヤ"]あっ、すみません……今、ドクターの足を踏んでしまったような……
+[name="Amiya"]Doctor, did I step on your foot...?
+[name="아미야"]박사님, 혹시 제가 박사님 발을 밟았나요……
+
+[Decision(options="没关系，还能抓更紧一些。;......;你的耳朵扎得我脸好痒。", values="1;2;3")]
+[Decision(options="大丈夫。しっかり掴まってるし、転ばないさ。;……;アーミヤの耳、顔に当たってくすぐったいな。", values="1;2;3")]
+[Decision(options="Don't worry about it. You can hold on even tighter.;......;Your ears are making my face itchy.", values="1;2;3")]
+[Decision(options="괜찮아, 더 꽉 잡아.;……;네 귀 때문에 간지러워.", values="1;2;3")]
+
+[name="阿米娅"]现在是不是晃得没那么厉害了？
+[name="アーミヤ"]船体の揺れ、少しは収まったでしょうか？
+[name="Amiya"]Are we shaking less?
+[name="아미야"]흔들림이 아까보단 가라앉은 것 같죠?
+
+[Decision(options="向右转向！！！", values="1")]
+[Decision(options="右へ方向転換だ！！", values="1")]
+[Decision(options="Hard right, now!!", values="1")]
+[Decision(options="우현으로 틀어!!!", values="1")]
+
+[name="中控人员"]哈......刚才那一下，我压根没注意到有这么强的风过来，要是被卷进去，这个速度能不能稳住舰身都是个问题！
+[name="航行制御員"]まさか……こんな強い風が来るなんて！　もし巻き込まれてたら、船が保ったか怪しいな……！
+[name="Central Control Staff"]Haah... I didn't even notice that strong wind just now. If it caught us, there's no telling if we would've been able to stabilize the hull at this speed!
+[name="중앙통제실 스태프"]하아…… 방금 그거, 나는 저런 강풍을 전혀 눈치채지 못했어. 말려들었다면 이 속도로 선체를 유지할 수 없었을지도 몰라.
+
+[name="领航员B"]......是下击暴流触地了？
+[name="ナビゲーターB"]……今の風、ダウンバーストか？
+[name="Navigator B"]Did the downburst make contact with the ground?
+[name="파일럿 B"]……다운버스트인가?
+
+[name="地灵"]距离风暴核心的形成只剩两分钟。
+[name="アーススピリット"]サイクロン・コア形成まで、残り二分よ。
+[name="Earthspirit"]Only two minutes until the core of the storm forms.
+[name="어스스피릿"]사이클론 코어 형성까지 2분 남았어.
+
+[Decision(options="保持当前朝向前进！", values="1")]
+[Decision(options="現在の方向を維持して、前進！", values="1")]
+[Decision(options="Maintain current trajectory and keep moving forward!", values="1")]
+[Decision(options="현재 방향을 유지하고 그대로 전진!", values="1")]
+
+[name="中控人员"]等一下，我看到气旋了！
+[name="航行制御員"]待ってください――サイクロンが見えます！
+[name="Central Control Staff"]Wait, I see the cyclone!
+[name="중앙통제실 스태프"]잠깐만요, 사이클론이 보여요!
+
+[name="中控人员"]左边有一个，右边也有一个！
+[name="航行制御員"]左に一つ、右にもう一つ！
+[name="Central Control Staff"]There's one on the left and another on the right!
+[name="중앙통제실 스태프"]왼쪽에 하나, 오른쪽에도 하나 있어요!
+
+[name="中控人员"]我们正在被包夹，再来个两三分钟，罗德岛就会撞上去！
+[name="航行制御員"]これは……挟まれてます！　あと二、三分で激突しますよ！
+[name="Central Control Staff"]We're surrounded. Rhodes Island is going to collide in just two or three more minutes!
+[name="중앙통제실 스태프"]중간에 끼였어요. 2, 3분만 있으면 로도스 아일랜드와 충돌합니다!
+
+[Decision(options="前进。", values="1")]
+[Decision(options="いや、前進だ。他に道はない。", values="1")]
+[Decision(options="Keep going.", values="1")]
+[Decision(options="전진.", values="1")]
+
+[name="中控人员"]不可能躲得开，留给我们的空间太小了！
+[name="航行制御員"]あんな狭いとこ通れませんって！
+[name="Central Control Staff"]It's impossible to avoid them! We don't have enough space to maneuver!
+[name="중앙통제실 스태프"]회피도 불가능해요. 남겨진 공간이 너무 좁아요!
+
+[Decision(options="相信我。", values="1")]
+[Decision(options="――信じてくれ。", values="1")]
+[Decision(options="Trust me.", values="1")]
+[Decision(options="날 믿어줘.", values="1")]
+
+[name="中控人员"]博士，我是想要信你！！！
+[name="航行制御員"]ドクター、俺もあなたを信じたいとは思ってますよ！！！
+[name="Central Control Staff"]I'm trying real hard, Doctor!
+[name="중앙통제실 스태프"]박사님, 저도 당신을 믿고 싶긴 한데!!
+
+[name="中控人员"]但我没那么相信我自己！
+[name="航行制御員"]でも俺は……俺自身をそこまで信じられない……！
+[name="Central Control Staff"]But I don't trust myself so much!
+[name="중앙통제실 스태프"]근데 저는 저 자신을 별로 못 믿겠다고요!
+
+[name="中控人员"]算了，阿米娅小姐都听你的，我当然也听你，我就算绑也要把我这只手绑在操作杆上一推到底！
+[name="航行制御員"]……でも……四の五の言ってられませんよね。アーミヤさんもあなたの指示に従ってるんだし、それなら俺だって当然従います。操縦桿に手を縛り付けてでも目いっぱい押し続けてやりますよ！
+[name="Central Control Staff"]Forget it, if Amiya's with you, I'm on board too. Even if I have to tie my hand to the steering handle, I'll keep pushing it forward until the very end!
+[name="중앙통제실 스태프"]그렇지만, 아미야 씨가 당신을 따르니, 저도 따를 겁니다. 이 손을 레버에 묶어서라도 레버를 끝까지 밀게요!
+
+[name="中控人员"]就是我好后悔答应乔治那臭小子跟他换班啊......
+[name="航行制御員"]あーあ、ジョージの野郎と勤務交代なんてするんじゃなかった……今さらですけど、めちゃくちゃ後悔してます……
+[name="Central Control Staff"]I just regret agreeing to swap shifts with that stinky lad, George...
+[name="중앙통제실 스태프"]빌어먹을 조지 녀석과 교대한 나 자신이 밉다……
+
+[name="地灵"]七十五米，五十米，三十米......
+[name="アーススピリット"]距離七十五メートル、五十メートル、三十メートル……
+[name="Earthspirit"]Seventy-five meters. Fifty meters. Thirty meters...
+[name="어스스피릿"]75미터, 50미터, 30미터……
+
+[name="领航员B"]（紧张吞咽）我从来没在这么近的地方观察过天灾气旋......
+[name="ナビゲーターB"]う、わあ……天災級サイクロンをこんなに近くで観察するなんて、初めてだ……
+[name="Navigator B"](Gulps nervously) I've never seen a Catastrophe-cyclone up close before...
+[name="파일럿 B"](꿀꺽) 이런 근거리에서 재앙 사이클론을 관찰한 적은 생전 처음이야……
+
+[name="阿米娅"]博士......
+[name="アーミヤ"]ドクター……
+[name="Amiya"]Doctor...
+[name="아미야"]박사님……
+
+[Decision(options="阿米娅，你害怕了？;......;我的手被抓得好痛。", values="1;2;3")]
+[Decision(options="怖いのか？　アーミヤ。;……;……アーミヤ、手を強く握りすぎだ。", values="1;2;3")]
+[Decision(options="Amiya, are you afraid?;......;You're hurting my hand.", values="1;2;3")]
+[Decision(options="아미야, 무섭니?;……;네가 손을 너무 꽉 잡아서 아파.", values="1;2;3")]
+
+[name="阿米娅"]我是有些紧张，但我不害怕。
+[name="アーミヤ"]少し緊張していますが、怖くはありません。
+[name="Amiya"]I'm a bit nervous, but I'm not afraid.
+[name="아미야"]긴장은 되지만, 무섭진 않아요.
+
+[name="阿米娅"]我有些紧张。不过博士放心，我不害怕。
+[name="アーミヤ"]私、少し緊張しちゃってるみたいです。でも、安心してください。怖くはありませんよ。
+[name="Amiya"]I am a little nervous. But rest assured, Doctor, I'm not afraid.
+[name="아미야"]긴장되긴 하지만 걱정하지 마세요, 박사님. 무섭진 않아요.
+
+[name="阿米娅"]抱歉，博士，我有些紧张。但我不害怕。
+[name="アーミヤ"]あっ、ごめんなさい、ドクター。少し緊張してしまって……でも、怖くはありませんので。
+[name="Amiya"]Sorry, Doctor, I'm a bit nervous. But I'm not afraid.
+[name="아미야"]미안해요, 박사님. 좀 긴장했나 봐요. 그런데 무섭진 않아요.
+
+[name="阿米娅"]过去，和博士一起，我见证了许多类似的时刻。
+[name="アーミヤ"]これまでにも、ドクターと一緒に……似たような状況を、何度も目にしてきましたから。
+[name="Amiya"]We've been through times like this together before.
+[name="아미야"]그동안 저는 박사님과 함께, 비슷한 순간을 여러 번 봐왔었잖아요.
+
+[name="阿米娅"]越是逼近绝望，大家怀着希望见到的景象就越壮丽。
+[name="アーミヤ"]絶望へと近づくほどに、希望を抱いて臨む光景は、より美しく雄大になる。
+[name="Amiya"]The closer we might be to despair, the bigger everyone's hopes are, the more incredible the outcome will be.
+[name="아미야"]절망에 가까워질수록 희망을 품고 바라보는 풍경은 더욱 웅장하고 아름답다.
+
+[name="阿米娅"]博士，这是你教会我的。
+[name="アーミヤ"]ドクター、これはあなたが教えてくれたことですよ。
+[name="Amiya"]Doctor, this is what you taught me.
+[name="아미야"]이건 박사님이 제게 가르쳐준 거예요.
+
+[Decision(options="希望来自于直到最后一刻都不放弃的努力。", values="1")]
+[Decision(options="最後まで諦めずに努力することで希望は訪れる。", values="1")]
+[Decision(options="Hope comes from the commitment to never give in, even at the bitter end.", values="1")]
+[Decision(options="희망이란 끝까지 포기하지 않는 노력에서 온다.", values="1")]
+
+[name="阿米娅"]是的，博士，你曾经说过一模一样的话。
+[name="アーミヤ"]……前にも、同じ言葉をかけてくれましたね。
+[name="Amiya"]Yes, Doctor, you once said the exact same words.
+[name="아미야"]맞아요, 박사님. 옛날에도 똑같은 말을 해주셨어요.
+
+“红色警报，红色警报......”
+「緊急警報、緊急警報……」
+'Red alert, red alert...'
+“코드 레드, 코드 레드……”
+
+“全员注意，撞击准备！”
+「全乗員、衝突に備えてください！」
+'Attention everyone, prepare for impact!'
+“전원 충격 대비!”
+
+[name="阿米娅"]这一次危机，我们还是会一起挺过去的！
+[name="アーミヤ"]大丈夫。この危機だって、一緒なら乗り越えられます！
+[name="Amiya"]Just like before, we'll get through this crisis together.
+[name="아미야"]이번 위기도 모두 함께 헤쳐나가자고요!
+
+[Decision(options="是的，我们挺过去了。;看。;我算得分毫不差。", values="1;2;3")]
+[Decision(options="ああ。我々は無事……乗り越えた。;見てくれ。;自分の計算に狂いはなかったようだ。", values="1;2;3")]
+[Decision(options="Yes, we survived back then.;Look.;I think my record's looking pretty good.", values="1;2;3")]
+[Decision(options="그래, 헤쳐 나왔네.;봐.;오차 없는 계산이었어.", values="1;2;3")]
+
+[name="阿米娅"]风小了......天空的颜色也变了。
+[name="アーミヤ"]風が収まってきました……空の色も変わりつつあります。
+[name="Amiya"]The wind is subsiding... and the color of the sky is changing too.
+[name="아미야"]바람이 잦아들었어요…… 하늘 색깔도 달라졌다구요.
+
+[name="领航员B"]报告，罗德岛已经离开天灾区域！！
+[name="ナビゲーターB"]報告！　本艦は天災エリアを突破しました！！
+[name="Navigator B"]Report, Rhodes Island has left the Catastrophe zone!!
+[name="파일럿 B"]보고합니다. 로도스 아일랜드가 재앙 구역을 벗어났습니다!
+
+[name="领航员B"]所有甲板损伤程度低于百分之五，而且也没人受伤！
+[name="ナビゲーターB"]全甲板、損傷率は5%未満に留まっています。その上、ケガ人はいません！
+[name="Navigator B"]The damage to all deck levels is less than 5%, and nobody was injured!
+[name="파일럿 B"]전체 갑판의 손상률 5% 미만, 게다가 부상자도 없습니다!
+
+[name="阿米娅"]太好了......
+[name="アーミヤ"]ふぅ……本当に、よかった……
+[name="Amiya"]Thank goodness...
+[name="아미야"]정말 다행이에요……
+
+[name="中控人员"]我的鼻子疼疼疼......帕维尔，你知不知道你又撞到我鼻子了？
+[name="航行制御員"]いてて、鼻が……おいパービル、お前また俺の鼻にひじでもぶつけたな？
+[name="Central Control Staff"]My nose hurtsssss... Pavel, do you know you hit my nose again?
+[name="중앙통제실 스태프"]아야야…… 파벨, 또 내 코랑 부딪힌 거 알아 몰라?!
+
+[name="领航员B"]撞了又怎么样？我们活过来了啊！
+[name="ナビゲーターB"]ぶつけたくらいでなんだってんだ！　俺たち、生きてるんだぞ！
+[name="Navigator B"]So what if I did? We're alive, I say! Alive!
+[name="파일럿 B"]그게 뭐 어때서? 우리가 살았다고!
+
+[name="中控人员"]行吧，你欠我一顿酒。
+[name="航行制御員"]やれやれ。一つ貸しだからな？　後で一杯奢れよ。
+[name="Central Control Staff"]Fine, but you owe me a drink.
+[name="중앙통제실 스태프"]됐다. 술이나 한잔 사.
+
+[name="领航员B"]要喝什么随便说，我都差点犯大错误了。
+[name="ナビゲーターB"]おうとも、一杯と言わず何杯でも奢ってやるさ！　俺は危うく、大きな間違いを犯すところだったんだからな。
+[name="Navigator B"]Whatever you want, it's on my tab. I almost made a big mistake.
+[name="파일럿 B"]마시고 싶은 거 다 말해. 나도 하마터면 엄청난 실수를 할 뻔했거든.
+
+[name="领航员B"]博士，多亏你来了！
+[name="ナビゲーターB"]これもすべて、ドクターが来てくれたおかげですよ！
+[name="Navigator B"]Doctor, it's all thanks to you!
+[name="파일럿 B"]전부 박사님이 와주신 덕분이에요!
+
+[name="地灵"]博士，精彩绝伦的演算。
+[name="アーススピリット"]ええ、本当に見事な計算だったわ、ドクター。
+[name="Earthspirit"]Absolutely brilliant calculations, Doctor.
+[name="어스스피릿"]박사, 훌륭한 연산이었어.
+
+[name="中控人员"]博士，你的指挥风格一直这么惊险刺激的吗？哈哈，以后记得多带我体验体验！
+[name="航行制御員"]ドクター……あなたの指揮って、いつもこんなにスリリングなんですか？　だったら悪くありませんね。今度からは俺も連れて行ってくださいよ！
+[name="Central Control Staff"]Doctor, is your command always so thrilling? Haha, I'd like to get another taste of that sometime!
+[name="중앙통제실 스태프"]박사님, 당신의 지휘는 항상 이렇게 스릴 있나요? 하하, 그럼 앞으로도 부탁합니다!
+
+[name="领航员A"]博士，你究竟怎么做到的？你就像会什么预言法术一样，突然就赶在我们撞上天灾之前那一刻来了舰桥！
+[name="ナビゲーターA"]ドクター、一体どうやったんですか？　まるで未来が見えてるみたいでしたよ。天災との衝突前に、突然ブリッジへ現れるなんて！
+[name="Navigator A"]Doctor, how in the world did you pull that off? It's like you've got prophetic Arts or something, suddenly showing up on the bridge right before we get hit by a Catastrophe!
+[name="파일럿 A"]박사님, 어떻게 한 겁니까? 마치 예언 아츠라도 쓴 것처럼, 재앙와 맞닥뜨리기 직전에 갑자기 함교에 왔잖아요!
+
+[Decision(options="其实我也很紧张。;......;我们是不是该庆祝一下？", values="1;2;3")]
+[Decision(options="実は、自分もとても緊張していた。;……;皆でお祝いでもしようか。", values="1;2;3")]
+[Decision(options="To be fair, I was pretty anxious through that whole thing.;......;Shouldn't we celebrate?", values="1;2;3")]
+[Decision(options="사실 나도 꽤 긴장했어.;……;우리, 축하 파티라도 해야 하지 않나?", values="1;2;3")]
+
+[name="阿米娅"]博士......
+[name="アーミヤ"]ドクター……
+[name="Amiya"]Doctor...
+[name="아미야"]박사님……
+
+[Subtitle(text="阿米娅突然抱住了你，你意识到，放在你腰间的双手比刚才驶向风暴的时候还要用力。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="急に、アーミヤがあなたへ抱きついた。腰の辺りを抱きしめる両腕には、嵐に突っ込んだ瞬間よりも強い力が込められていた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Amiya hugs you suddenly, and you realize that the hands on your waist are squeezing you tighter than they were at any point during the storm.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="아미야가 갑자기 당신을 껴안았다. 당신의 허리에 올라간 두 손에는 조금 전 폭풍을 향해 달릴 때보다 더 힘이 실렸다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="阿米娅"]谢谢......谢谢你能够站在我身边。
+[name="アーミヤ"]ありがとうございます……私のそばにいてくれて。
+[name="Amiya"]Thank you... Thank you standing by my side.
+[name="아미야"]고마워요…… 제 옆에 계셔주셔서.
+
+[name="凯尔希"]不错的表现。
+[name="ケルシー"]よくやった、ドクター。
+[name="Kal'tsit"]Not half bad.
+[name="켈시"]수고했어.
+
+[Decision(options="只是我应该做的。;......;多谢表扬。", values="1;2;3")]
+[Decision(options="当然のことをしたまでだ。;……;お褒めにあずかり光栄だ。", values="1;2;3")]
+[Decision(options="I did what I had to do.;......;Thanks.", values="1;2;3")]
+[Decision(options="당연한 일을 했을 뿐.;……;칭찬해줘서 고맙군.", values="1;2;3")]
+
+[name="凯尔希"]源石自我复制速度和能量增幅的关系——你把这部分知识应用到了风灾轨迹测算中。
+[name="ケルシー"]源石の自己複製速度とエネルギー増加の関係――この知識を応用し……風災の軌道を計算する。
+[name="Kal'tsit"]The relationship between the self-replication speed of Originium and the increase in energy— you applied this knowledge to the calculation of wind-Catastrophe trajectories.
+[name="켈시"]오리지늄의 자가회복 속도와 에너지 증폭의 관계…… 너는 그 부분의 지식을 풍재 궤도의 연산에 적용했더군.
+
+[name="凯尔希"]过去你也展现过类似的能力，帮助当时的同伴降低了灾害损失。因此，有人会把你叫做天灾专家。
+[name="ケルシー"]君は過去にも今回と似た能力を披露したことがある。それにより、災害が当時の同僚にもたらす損害を低下させたのだ。以来、一部の者は君を天災専門家と呼ぶようになった。
+[name="Kal'tsit"]You demonstrated similar abilities in the past, helping your colleagues at the time mitigate losses from Catastrophes. Some called you a Catastrophe expert.
+[name="켈시"]예전에도 넌 비슷한 능력으로, 동료를 도와 손해를 줄여 주었지. 그래서 일부는 너를 재앙 전문가라고 불렀어.
+
+[name="凯尔希"]但这里只有你和我，我们都知道你真正专精的是什么。
+[name="ケルシー"]だが今ここにいるのは、君と私の二人だけだ。我々は、君の専門分野が本来何であるかを知っている。
+[name="Kal'tsit"]But we both know what you really specialize in.
+[name="켈시"]하지만 여기에는 너와 나뿐이고, 네 진짜 전문 분야가 뭔지는 우리 둘 다 잘 알잖아.
+
+[Decision(options="我专精什么？;......;又来，我不知道。", values="1;2;3")]
+[Decision(options="自分の専門は何なんだ？;……;またか。自分には分からないんだが。", values="1;2;3")]
+[Decision(options="What do I specialize in?;......;Look, I really don't know.", values="1;2;3")]
+[Decision(options="내 전문 분야가 뭔데?;……;또야? 난 모른다니까.", values="1;2;3")]
+
+[name="凯尔希"]那个公式......你还记得它。
+[name="ケルシー"]あの公式を……君はまだ覚えていた。
+[name="Kal'tsit"]That formula... You still remember it.
+[name="켈시"]그 공식…… 아직 기억하고 있잖아.
+
+[Decision(options="我之前并不记得。;它自己从我脑子里跳了出来。", values="1;2")]
+[Decision(options="覚えていたわけじゃない。記憶にはなかった。;あれは頭の中から勝手に飛び出してきたんだ。", values="1;2")]
+[Decision(options="I didn't remember it before.;It jumped right into my head.", values="1;2")]
+[Decision(options="기억에 없던 거야.;그건 제멋대로 내 머릿속에서 튀어나온 거야.", values="1;2")]
+
+[name="凯尔希"]那是曾经的你亲手创造的公式。
+[name="ケルシー"]あれはかつて……君が自ら作り上げた公式だ。
+[name="Kal'tsit"]You created that formula yourself.
+[name="켈시"]그건 과거의 네가 직접 만들어 낸 공식이다.
+
+[name="凯尔希"]你在过去一个月内调取了大量关于源石和天灾的资料，你的笔记上也留下了大量演算过程。
+[name="ケルシー"]君はこの一ヶ月で源石と天災に関する多くの資料を収集していた。また君のノートには大量の計算式も残されている。
+[name="Kal'tsit"]You've recovered a lot of information about Originium and Catastrophes over the past month, and you left a lot of calculations in your notes.
+[name="켈시"]너는 한 달간 오리지늄과 재앙에 관한 수많은 자료를 샅샅이 뒤졌고, 너의 노트에는 대량의 연산 과정이 남아있었다.
+
+[name="凯尔希"]或许是危机使你的大脑提取了深层回忆，又或许是你在自己留下的知识里再度发现了它。
+[name="ケルシー"]これは推測だが……危機が訪れたことにより、君の脳が深層にある記憶を引き出したのかもしれない。あるいは、君が自分で書き残した知識の中に、再びそれを見出したのかもしれないが……
+[name="Kal'tsit"]Perhaps the sudden crisis dredged up the latent memories from deep inside your consciousness, or perhaps you reinvented it using the knowledge you left behind.
+[name="켈시"]어쩌면 위기 상황에 너의 뇌가 심층 기억을 끌어냈을 수도 있고, 또 어쩌면 자신이 남긴 지식 속에서 그걸 다시 깨달은 걸지도 모르지.
+
+[name="凯尔希"]你能想起这公式，证明你确实还保留着关于源石本质的基础认识。
+[name="ケルシー"]この公式を思い出すことができた以上、君にはまだ源石の本質に関する基本的な認識が確かに残っているのだろう。
+[name="Kal'tsit"]The fact that you could recall this formula proves that you still retain a basic understanding of the nature of Originium.
+[name="켈시"]그 공식을 떠올렸다는 건, 네게 오리지늄의 본질에 관한 기본 인식이 아직 남아 있다는 증거다.
+
+[name="凯尔希"]也就是说，你从未忘记过你身为源石研究者的身份。
+[name="ケルシー"]言い換えれば――君は決して、源石研究者たる自分自身まで忘れてはいないということだ。
+[name="Kal'tsit"]In other words, you've never forgotten your identity as a researcher of Originium.
+[name="켈시"]즉, 넌 단 한 순간도 자신이 오리지늄 연구자임을 잊지 않았다는 거야.
+
+[Decision(options="我想继续研究它。;这就像是我的使命。", values="1;2")]
+[Decision(options="この研究を続けたいと思っている。;これは自分の使命のようなものだ。", values="1;2")]
+[Decision(options="I want to continue this line of research.;This seems to be my duty.", values="1;2")]
+[Decision(options="난 연구를 계속하고 싶어.;그게 바로 내 사명일 지도.", values="1;2")]
+
+[name="凯尔希"]你把研究源石看作自己的使命，然而，我们的行动从来不该只被使命束缚。
+[name="ケルシー"]君は源石研究を己が使命と見なしているようだが、我々の行動は使命のみによって束縛されるべきではない。
+[name="Kal'tsit"]You may see the study of Originium as your duty, but know that our actions should never be restricted by duty alone.
+[name="켈시"]오리지늄 연구를 네 사명으로 보는 것 같은데, 우리 행동은 사명에만 얽매여선 안 돼.
+
+[name="凯尔希"]Dr.{@nickname}，是什么使你研究源石的意愿如此强烈？
+[name="ケルシー"]Dr.{@nickname}。君をそれほどまでの強い意志で突き動かすものは……源石研究へと打ち込ませるものは一体何だ？
+[name="Kal'tsit"]Dr. {@nickname}, what drives you to pursue the study of Originium so fervently?
+[name="켈시"]{@nickname} 박사, 대체 무엇이 오리지늄 연구에 대한 너의 의욕을 이처럼 강하게 만들었을까?
+
+[Decision(options="你和阿米娅都得了矿石病。;这片大地上充满了因源石而起的苦难。;我想结束这场灾难。", values="1;2;3")]
+[Decision(options="ケルシーやアーミヤも、鉱石病を患っている。;大地は、源石に起因する苦しみで満ちている。;この災いを終わらせたい。", values="1;2;3")]
+[Decision(options="Both you and Amiya have Oripathy.;The suffering caused by Originium scars our world.;I want to bring an end to this calamity.", values="1;2;3")]
+[Decision(options="너와 아미야 모두 광석병에 걸렸으니까.;이 대지는 오리지늄으로 인한 고통으로 가득 찼으니까.;이 재앙을 끝내고 싶으니까.", values="1;2;3")]
+
+[name="凯尔希"]曾经我也听过一个回答。
+[name="ケルシー"]過去にも一度、同じ問いを投げかけたことがある。
+[name="Kal'tsit"]I once heard an answer to this question.
+[name="켈시"]전에도 한 번, 너의 대답을 들은 적이 있었지.
+
+[name="凯尔希"]那个回答，和你今天说的这句话，很相似，但又完全不同。
+[name="ケルシー"]しかし、その時の答えは、今日君が口にした言葉とは似て非なるものだった。
+[name="Kal'tsit"]It was very similar to what you said today, but also completely different.
+[name="켈시"]그때의 대답은 지금의 네 대답과 매우 흡사하지만, 또 전혀 달랐다.
+
+[name="凯尔希"]说出这句话的人，对未知的真理有着本能的渴求，也会为了拯救生命而奋不顾身。
+[name="ケルシー"]……そしてその答えを口にした者は、未知の真理に対する本能的な渇望を持っており、一方で命を救うためなら危険を顧みない一面もあった。
+[name="Kal'tsit"]The person who uttered those words had an instinctive desire to unravel truths unknown, and also worked hard to save lives.
+[name="켈시"]그 대답을 했던 사람은 미지의 진리에 대해 본능적 갈망을 품고 있었고, 또한 생명을 구하기 위해서라면 자신의 안전마저 도외시했었다.
+
+[name="凯尔希"]然而有时候，拯救也意味着摧毁——这是同一个人告诉我的。
+[name="ケルシー"]救いは時に破壊をも意味する――これは、その人物が私に告げた言葉だ。
+[name="Kal'tsit"]But sometimes, salvation also meant destruction— that is what the same person told me.
+[name="켈시"]“그러나 때때로 구원은 파괴를 뜻하기도 한다”…… 같은 사람이 내게 일러준 말이다.
+
+[name="凯尔希"]所以，那个回答至今是不是仍在你的大脑深处？
+[name="ケルシー"]……ドクター。その答えは、今も君の頭の奥深くに残っているのだろうか？
+[name="Kal'tsit"]Do you still harbor that same answer deep within your brain?
+[name="켈시"]그래서, 그 대답은 아직도 너의 머릿속 깊은 곳에 남아 있는 걸까?
+
+[Decision(options="我不记得也算在吗？;......;你说是就是。", values="1;2;3")]
+[Decision(options="記憶になくとも残っていると言えるのか？;……;君がそう思うなら、そうかもな。", values="1;2;3")]
+[Decision(options="Does it still count as being there even if I don't remember it?;......;Whatever makes you happy.", values="1;2;3")]
+[Decision(options="기억이 안 나도 남아있다고 볼 수 있는 거야?;……;켈시 네가 그렇다면 그런 거겠지.", values="1;2;3")]
+
+[name="凯尔希"]阿米娅说，你今天在舰桥上的表现，就像个真正的“预言家”。
+[name="ケルシー"]アーミヤが言うには、今日君がブリッジで見せた活躍は、まるで本当の「予言者」のようだったそうだな。
+[name="Kal'tsit"]Amiya said your performance on the bridge today was much like that of an actual 'prophet.'
+[name="켈시"]아미야가 그러더군, 오늘 함교에서 너는 진짜 '예언자' 같았다고.
+
+[Decision(options="我只是功课做得好。;......;你在盯着我看什么？", values="1;2;3")]
+[Decision(options="予習が功を奏しただけだ。;……;どうしてそう見つめてくるんだ？", values="1;2;3")]
+[Decision(options="I did my homework.;......;Why are you staring at me like that?", values="1;2;3")]
+[Decision(options="그저 예습을 열심히 했을 뿐이야.;……;왜 그렇게 뚫어져라 쳐다봐?", values="1;2;3")]
+
+[name="凯尔希"]Dr.{@nickname}，我理应相信科学。
+[name="ケルシー"]Dr.{@nickname}。私はな、科学は信じるべきものだと考えている。
+[name="Kal'tsit"]The rational part of me wants to believe in science.
+[name="켈시"]{@nickname} 박사, 나는 과학을 믿어야 한다.
+
+[name="凯尔希"]当第一次针对你大脑的检查结果出来的时候，我担心过程是否会有误差，因此有了第二次，第三次......乃至第七次。
+[name="ケルシー"]初めて君の脳検査の結果が出た時、私はまず、検査過程でのエラーを疑った。だから二回、三回……さらには七回の検査を行うに至ったのだ。
+[name="Kal'tsit"]When the results of your first brain examination came back, I thought I saw some errors in the process, and so there was a second time, a third time... and even a seventh time.
+[name="켈시"]처음 너의 뇌 검사 결과가 나왔을 때, 검사 과정에 오차가 있을까 걱정이 되어 두 번, 세 번…… 일곱 번이나 재검사했지.
+
+[name="凯尔希"]我的理智告诉我，三次重复结果就足以证明，你并没有撒谎。
+[name="ケルシー"]しかし途中で、理性がこう訴えてきたんだ……三度同じ結果が出た以上、その正確性は十分に証明されている。君は嘘などついていない、とな。
+[name="Kal'tsit"]The rational part of me told me that repeating the same results three times was enough to prove that you weren't lying.
+[name="켈시"]내 이성이 내게 말했다. 세 번이나 같은 결과가 나왔다면 그건 이미 증명된 것이나 다름없다고. 넌 결코 거짓말을 하는 것이 아니라고.
+
+[name="凯尔希"]你确确实实丧失了相当多的记忆，你不记得你对特蕾西娅做了什么，也忘记了自己为什么会站在这里。
+[name="ケルシー"]君は実に多くの記憶を失った。君がテレジアに何をしたのか、君自身がなぜここに立っているのかを忘れてしまった。
+[name="Kal'tsit"]Without a shadow of a doubt, you really did lose a lot of your memories. You don't remember what you did to Theresa, and you forgot why you were standing here in the first place.
+[name="켈시"]너는 분명 많은 기억을 잃었다. 네가 테레시아에게 무슨 짓을 했는지, 왜 여기 있는지도 말이다.
+
+[name="凯尔希"]这一切，都让你和过去我熟悉的那个人出现了很大的......偏差。
+[name="ケルシー"]このすべてが、君と、過去私がよく知っていたあの人物との間に……大きな差異を生んだのだ。
+[name="Kal'tsit"]All of this has caused a significant... dichotomy between you and the person I once knew.
+[name="켈시"]그 모든 것이, 내가 잘 알던 과거의 그 사람과 너 사이에…… 큰 차이를 낳았다.
+
+[name="凯尔希"]可就像我让你做了第七次测试一样，此时此刻，我再一次产生了怀疑，站在我面前的究竟是谁？
+[name="ケルシー"]君に七回の検査を行った時のように、今この瞬間、私は再び疑問を抱いている。私の目の前に立っているのは一体誰なのか、と。
+[name="Kal'tsit"]But just like I allowed you to do the seventh test, in this moment, I once again find myself doubting... Who exactly is standing in front of me?
+[name="켈시"]그러나 내가 널 일곱 번이나 검사했듯이…… 지금 또다시 의심이 들기 시작한다. 내 눈앞에 서 있는 건 대체 누구일까?
+
+[name="凯尔希"]有多少过去留了下来，又有多少崭新的正在萌生？
+[name="ケルシー"]今の君にはどれだけの過去が残っている？　そして、どれだけの新たなものが芽生えている？
+[name="Kal'tsit"]How much of the past remains, and how much of you blooms anew?
+[name="켈시"]얼마큼의 과거가 남아 있고, 또 얼마큼의 새로운 것이 싹트려고 하는 걸까?
+
+[Decision(options="你又感情用事了。;做七次检查真的很难受！", values="1;2")]
+[Decision(options="また感情的になっているようだが。;七回の検査は本当につらかったよ。", values="1;2")]
+[Decision(options="You're being sentimental again.;It felt terrible having to sit through seven exams.", values="1;2")]
+[Decision(options="켈시 너, 또 감정적으로 되어가고 있어.;일곱 번의 검사는 정말 힘들었다고!", values="1;2")]
+
+[name="凯尔希"]或许，我不否认。你的事总能很轻易地挑动我的情绪。
+[name="ケルシー"]否定はしない。君のこととなると、私は容易に感情を煽られてしまうからな。
+[name="Kal'tsit"]Perhaps, I won't deny it. Dealing with you always has a tendency to sway my emotions.
+[name="켈시"]그럴지도, 부정하진 않아. 넌 매번 내 감정을 쉽게 동요시키니까.
+
+[name="凯尔希"]但这也是出于极致的理性。
+[name="ケルシー"]しかし、一方でこれは……極めて理性的な理解に基づいてのことでもある。
+[name="Kal'tsit"]But this is also born of extreme rationality.
+[name="켈시"]하지만 이 역시 지극히 이성적이기 때문이다.
+
+[name="凯尔希"]我希望你理解，检测可以有误差，而在你的事情上，我不能再承受误差。
+[name="ケルシー"]君にも理解しておいてもらいたいのだが……検査にはエラーがあっても構わない。だが、君自身のことについては、一つのエラーも受け入れることはできないのだ。
+[name="Kal'tsit"]I hope you understand, there can be errors in our measurements. And in your case, I can no longer tolerate any errors.
+[name="켈시"]이해하길 바라. 검사에 오차가 있을 수는 있어. 하지만 너에 대한 일만큼은 오차를 용납할 수 없다.
+
+[name="凯尔希"]关于这一点，我向你道歉。
+[name="ケルシー"]それについては、申し訳ないと思っている。
+[name="Kal'tsit"]I would like to apologize to you regarding this matter.
+[name="켈시"]그 일에 대해서는 사과하지.
+
+[name="凯尔希"]不过更好地掌握你的记忆恢复情况，对你的身体也有切实的好处。
+[name="ケルシー"]だが、君の記憶の回復状況を把握しておくことは、君の身体にとっても有用なことだ。
+[name="Kal'tsit"]But taking a better grasp of your memory recuperation will also have real benefits for your body.
+[name="켈시"]하지만 네 기억의 회복 상황을 잘 파악해 두면, 네 몸에도 확실히 도움이 될 거야.
+
+[Decision(options="有个问题，我想问很久了。", values="1")]
+[Decision(options="ずっと聞きたかったんだが。担当医としてではなく――", values="1")]
+[Decision(options="There's something I've wanted to ask for a long time.", values="1")]
+[Decision(options="계속 물어보고 싶었던 게 있어.", values="1")]
+
+[Decision(options="撇去医生的立场，你希望我恢复记忆吗？", values="1")]
+[Decision(options="個人としての君は、記憶の回復を望んでくれるのか？", values="1")]
+[Decision(options="Setting aside your role as a doctor, do you want me to regain my memories?", values="1")]
+[Decision(options="의사가 아니었어도, 켈시 너는 내 기억이 회복되길 바랐을까?", values="1")]
+
+[name="凯尔希"]......事物常有两面性，人的情感也一样。
+[name="ケルシー"]……物事にはしばしば、二つの側面が存在している。人の感情もまた然りだ。
+[name="Kal'tsit"]Situations are rarely black and white... and the same is true of human emotions.
+[name="켈시"]……모든 사물은 양면성을 가지고 있어. 그건 사람의 감정도 마찬가지지.
+
+[name="凯尔希"]我并未掩饰自己对过去的你的恨意，但是......无论我有多么不想承认，恨并不是全部。
+[name="ケルシー"]私は、過去の君に対する憎しみを隠しはしない。だが……どれだけ認めたくはなくとも、憎しみだけがすべてではないのだ。
+[name="Kal'tsit"]I've not concealed my hatred for you in the past, but... no matter how much I hate to admit it, there's something else there too.
+[name="켈시"]나는 과거의 너에 대한 원한을 숨길 생각이 없어…… 하지만 내가 아무리 인정하기 싫어도, 원한이 전부는 아니야.
+
+[Decision(options="你想要过去那个人的全部能力。;你在怀念那个你仇恨的人？;你想知道过去的真相。", values="1;2;3")]
+[Decision(options="過去の自分の能力、そのすべてが必要なのか。;憎い相手でも、懐かしく思うものか？;過去の出来事……真実を知りたいから、か。", values="1;2;3")]
+[Decision(options="You want me doing everything I could before.;Do you miss the person you hate?;You're searching for the truth of the past.", values="1;2;3")]
+[Decision(options="켈시, 넌 과거 그 사람의 모든 능력을 원하는구나.;켈시, 넌 과거에 원망하던 사람이 그리운 건가?;켈시, 넌 과거의 진실을 알고 싶은 거구나.", values="1;2;3")]
+
+[name="凯尔希"]如果我只是需要力量，我相信现在的你同样能做到，甚至......你能做得更好。
+[name="ケルシー"]欲するものが単に能力だけならば、今の君は既にそれを持ち合わせている。いや、それどころか……今の君こそ、より望ましい成果を上げることができるだろう。
+[name="Kal'tsit"]If it's only strength I needed, I believe that you are good enough as you are... Perhaps, you can do even better.
+[name="켈시"]능력만을 원한다면, 지금의 너도 가지고 있을 거다. 아니…… 네가 더 나을 거다.
+
+[name="凯尔希"]......怀念？
+[name="ケルシー"]……「懐かしく思う」？
+[name="Kal'tsit"]Do I... 'miss'...?
+[name="켈시"]……그리워한다고?
+
+[name="凯尔希"]这个词还是太简单了。这片大地上的语言发展了数千年，我仍然未能挑出一个最合适的词语，来概括我在想及你的许多时刻的思绪。
+[name="ケルシー"]その言葉では、あまりにも単純すぎる。この大地において言語は数千年もの間、開拓され続けているが……私は未だに、君をどう思うかを表現するのに適切な言葉を選ぶことができない。
+[name="Kal'tsit"]That word is far too simple. The languages of this world have developed over thousands of years, and yet I am still unable to choose the most suitable word to order my thoughts during the many moments I think about you.
+[name="켈시"]그 단어는 너무 단순하다. 이 대지의 언어가 발전한 지 수천 년, 그런데도 나는 아직도 너를 생각할 때의 그 감정을 표현할 마땅한 단어를 찾아내지 못하고 있지.
+
+[name="凯尔希"]我无疑想得到这个答案。
+[name="ケルシー"]ああ。無論、私はその真相を欲している。
+[name="Kal'tsit"]Without a doubt, I seek that answer.
+[name="켈시"]나는 분명 그 대답을 원하고 있다.
+
+[name="凯尔希"]从你嘴里说出来是最好的，但我不会放弃从其他途径寻找真相。
+[name="ケルシー"]君の口から聞くことが最善と言える手段だが……他の方法で真相を追うことも諦めてはいない。
+[name="Kal'tsit"]Ideally, I want to hear the truth from your mouth. But I will not give up looking for that truth in other ways.
+[name="켈시"]물론 네가 말해준다면 가장 좋겠지만, 난 다른 방법을 통해 진실을 찾는 것 역시 포기하지 않을 거다.
+
+[name="凯尔希"]现在，轮到我提问了。
+[name="ケルシー"]さて、今度は私が質問する番だ。
+[name="Kal'tsit"]Now, it's my turn to ask you.
+[name="켈시"]자, 이제 내가 질문할 차례다.
+
+[name="凯尔希"]Dr.{@nickname}，你想恢复记忆吗？
+[name="ケルシー"]Dr.{@nickname}。記憶を取り戻したいと思うか？
+[name="Kal'tsit"]Dr. {@nickname}, do you want your memories back?
+[name="켈시"]{@nickname} 박사, 너는 기억을 되찾고 싶나?
+
+[Decision(options="我想。;我不想。", values="1;2")]
+[Decision(options="取り戻したい。;取り戻したくない。", values="1;2")]
+[Decision(options="I do.;I don't.", values="1;2")]
+[Decision(options="찾고 싶어.;찾고 싶지 않아.", values="1;2")]
+
+[name="凯尔希"]无论你回答的是想还是不想，我都看到了你的犹豫。
+[name="ケルシー"]どう答えようとも、君に躊躇いの色が見えたのは明らかだ。
+[name="Kal'tsit"]Your answer doesn't matter. I see your hesitation.
+[name="켈시"]네 대답이 뭐였든, 주저하는 게 내겐 보였어.
+
+[name="凯尔希"]一旦恢复记忆，你的很多疑问都会得到解答，但不是每一个答案都会令你满意。
+[name="ケルシー"]記憶を取り戻せば、君の持つ多くの疑問は解消されることだろう。だが、すべての答えが君を満足させるとは限らない。
+[name="Kal'tsit"]Once your memories come back, many of your questions will be answered. However, not every answer will satisfy you.
+[name="켈시"]기억을 되찾으면 수많은 의문에 대한 답을 얻겠지만, 모든 답이 만족스럽지는 않겠지.
+
+[name="凯尔希"]你会知道所有倾泻向现在的你的情感源自何处，无论是我和W的恨，阿米娅的无条件信任，还是......更久远的那些。
+[name="ケルシー"]今の君に向けられているあらゆる感情の出所は何なのか。私とWが持つ憎しみにせよ、アーミヤの全幅の信頼にせよ、あるいは……より昔のものであるにせよ、君はすべてを知ることになる。
+[name="Kal'tsit"]You will know where all the emotions pouring into you come from, whether it is the hatred from me and W, the unconditional trust from Amiya, or... even further back.
+[name="켈시"]너는 지금 자신을 향하는 모든 감정이 어디서 오는지 알게 될 거다. 나와 W의 원망이든, 아미야의 무조건적인 신뢰든…… 더 오래된 그런 것들이든.
+
+[name="凯尔希"]过量的记忆，过于强烈的情绪，会瞬间撑满你的整个大脑——
+[name="ケルシー"]大量の記憶、強烈な感情が、瞬時に君の脳全体を埋め尽くすことだろう――
+[name="Kal'tsit"]Excess memories, intense emotions, will instantly flood your entire brain—
+[name="켈시"]엄청난 양의 기억과 강렬한 감정들이 순식간에 너의 머릿속을 가득 채우겠지……
+
+[name="凯尔希"]相信我，这种时候的感受不止有疲惫。
+[name="ケルシー"]そして、恐らくその時に感じるのは疲労だけではあるまい……
+[name="Kal'tsit"]Trust me, what you will feel at that time will be far greater than exhaustion.
+[name="켈시"]그때 받는 느낌은 피로에만 그치지 않을 거다.
+
+[name="凯尔希"]而更令你恐惧的是，在过去当真找上你的时候，你需要做出选择。
+[name="ケルシー"]君をより恐怖へと陥れるであろうものは、一つの事実だ。過去が君を訪ねてきた時――君は、選択しなければならない。
+[name="Kal'tsit"]What you should fear even more is, when the past finally catches up to you, you must decide.
+[name="켈시"]더 무서운 건, 과거가 정말로 너를 찾아왔을 때, 너는 선택을 강요당하게 될 거란 거다.
+
+[name="凯尔希"]万一回忆太强烈，轻而易举地覆盖了你现在的种种努力，将你彻底拉回那个爬了无数年都未曾爬出来的深渊呢？
+[name="ケルシー"]もし蘇った記憶があまりにも強烈で、現在の君の努力すべてをいともたやすく覆し――どれほどの年月をかけても、決して抜け出せなかったあの深淵に再び引きずり戻されたとしたら？
+[name="Kal'tsit"]What if those memories are too strong and engulf all the hard work you've put in recently, and pull you back into the abyss that you failed to crawl out of over countless years?
+[name="켈시"]만일 기억이 너무 강렬해서 네가 지금까지 했던 수많은 노력을 손쉽게 뒤덮어버리고, 널 영원히 기어오를 수 없는 심연 속으로 끌어들이면, 그땐 어떻게 할 거지?
+
+[name="凯尔希"]现在的你一旦被打败，你辛苦建立起的一切都将会崩塌，你可能再也无法属于你自己。
+[name="ケルシー"]今の君が一度でも打ち負かされたなら、君が懸命に築き上げたすべてが崩れ去り……恐らく今の君ではない君へと成り果てるだろう。
+[name="Kal'tsit"]Once the current you is defeated, everything you've worked so hard to build will collapse, and your will may no longer be your own.
+[name="켈시"]지금의 네가 패배해 버리면 힘들게 쌓아 올린 모든 것이 무너지고, 너는 더 이상 네가 아니게 될지도 모른다.
+
+[name="凯尔希"]所以，我再问你一次——
+[name="ケルシー"]故に、私はもう一度問う――
+[name="Kal'tsit"]So, let me ask you once more—
+[name="켈시"]그러니, 다시 한번 묻지……
+
+[name="凯尔希"]Dr.{@nickname}，你准备好了吗？
+[name="ケルシー"]Dr.{@nickname}。思い出す準備はできているか？
+[name="Kal'tsit"]Dr. {@nickname}, are you ready?
+[name="켈시"]{@nickname} 박사, 각오는 되었나?
+
+[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
+[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
+
+[name="凯尔希"]如果我们的运气足够好的话，你不用在短时间内回答这个问题。
+[name="ケルシー"]もし我々が十分な幸運に恵まれていれば、この問いに短期間で答えを出す必要はない。
+[name="Kal'tsit"]If luck is on our side, you won't need to answer this question any time soon.
+[name="켈시"]우리가 운이 좋다면, 단기간에 이 질문에 대한 답을 내놓지 않아도 된다.
+
+[name="凯尔希"]Dr.{@nickname}，我要谢谢你，这一个多月来，你让我看到了一些新的可能性。
+[name="ケルシー"]感謝する、Dr.{@nickname}。この一か月余りで、君は私に新たな可能性を見出させてくれた。
+[name="Kal'tsit"]I want to thank you. Over the past month or so, you've shown me some new possibilities.
+[name="켈시"]{@nickname} 박사, 우선은 고맙다는 말을 전하고 싶군. 지난 한 달 넌 내게 새로운 가능성을 보여주었다.
+
+[name="凯尔希"]尤其是今天，我得知了你还记得那个公式。
+[name="ケルシー"]特に今日、君がまだあの公式を覚えていると知ったことは大きい。
+[name="Kal'tsit"]Especially today. I learned that you still remember the formula.
+[name="켈시"]특히 오늘, 나는 네가 아직도 그 공식을 기억하고 있다는 걸 알았다.
+
+[name="凯尔希"]原来，在为那一天做着准备的人，不止有你我。
+[name="ケルシー"]どうやら来たるその日のために準備をしていたのは、君と私だけではないようだな。
+[name="Kal'tsit"]It turns out, you and I are not the only ones preparing for that day.
+[name="켈시"]그날을 위해 준비를 하고 있던 건 너와 나뿐만이 아니었구나.
+
+[name="凯尔希"]我早就怀疑过，家用生理修复仪不会出现删除记忆的故障——
+[name="ケルシー"]私は早くから疑っていた。家庭用生理機能修復マシンが、使用者の記憶を消すなどというエラーを起こすことはないだろう、とな――
+[name="Kal'tsit"]I suspected this long ago, that home-use life functions restoration device was not supposed to have the defect of deleting one's memory—
+[name="켈시"]진작부터 의심했지만, 가정용 생체 회복기가 기억을 삭제하는 고장을 일으킬 리 없지……
+
+[name="凯尔希"]尤其是，它不可能有选择地删除最可能影响到你如何选择的那部分，却保留了对你来说更有意义的这部分。
+[name="ケルシー"]特に、君の選択に最も影響を与えるであろう部分だけを選択的に削除し、君にとってより意味のある部分を残しておくような挙動はあり得ない、と考えている。
+[name="Kal'tsit"]In particular, it's impossible to selectively delete the part of the brain most likely involved in decision-making, but still retaining the parts most meaningful to you.
+[name="켈시"]특히 네가 어떤 선택을 할지에 대해 가장 영향을 주는 부분만을 선택적으로 삭제할 리도 없고, 네게 더 유의미한 부분만을 선택적으로 남기는 일 또한 있을 수 없다.
+
+[name="凯尔希"]Dr.{@nickname}......
+[name="ケルシー"]Dr.{@nickname}……
+[name="Kal'tsit"]Dr. {@nickname}......
+[name="켈시"]{@nickname} 박사……
+
+[name="凯尔希"]我想，她甚至比我过去理解的还要更信任你一些。
+[name="ケルシー"]思うに、彼女は……私が過去把握していた以上に、君を信頼していたのだろうな。
+[name="Kal'tsit"]What I think is, she trusted you even more than I could fathom in the past.
+[name="켈시"]그녀는 내가 과거에 알고 있었던 것보다 더 너를 신뢰하고 있는 것 같다.
+
+[name="凯尔希"]既然如此，我们也该继续努力。
+[name="ケルシー"]であれば我々も、懸命に努力し続けるべきだ。
+[name="Kal'tsit"]That being the case, we should continue to work hard.
+[name="켈시"]그렇다면, 우리도 계속 노력해야겠지.
+
+[name="凯尔希"]就像我无数次说过的那样，我会帮助你，只要我们还站在一起。
+[name="ケルシー"]幾度となく口にしてきた通りだが――我々が共に立ち続ける限り、私は君の助けになろう。
+[name="Kal'tsit"]Just as I've said countless times already, I will help you, as long as we continue to stand together.
+[name="켈시"]누누이 말했듯이 나는 너를 도울 거다. 우리가 함께 하는 한.
+
+7:43 P.M. 天气/阴
+p.m. 7:43 天気/曇天
+7:43 P.M. \ Overcast
+7:43 P.M. 날씨/흐림
+
+罗德岛本舰，指挥室
+ロドス本艦　司令室
+Rhodes Island Landship, Command Center
+로도스 아일랜드 본함, 지휘실
+
+[name="？？？"]前辈，您在吗？
+[name="？？？"]先輩、いますか？　お邪魔してもいいですか？
+[name="???"]Professor, are you here?
+[name="???"]선배, 계신가요?
+
+[Decision(options="艾雅法拉？请进。", values="1")]
+[Decision(options="エイヤフィヤトラ？　構わないぞ。", values="1")]
+[Decision(options="Eyjafjalla? Come in.", values="1")]
+[Decision(options="에이야퍄들라? 들어와.", values="1")]
+
+[name="艾雅法拉"]前辈，他们说您想见我......
+[name="エイヤフィヤトラ"]失礼します。あの、私に用事があるって聞いたんですが……
+[name="Eyjafjalla"]Professor, they said you wanted to see me...
+[name="에이야퍄들라"]선배가 절 만나고 싶어 한다고 들어서……
+
+[Decision(options="这个给你。", values="1")]
+[Decision(options="ああ、これを。", values="1")]
+[Decision(options="This is for you.", values="1")]
+[Decision(options="이거 받아.", values="1")]
+
+[name="艾雅法拉"]是我加入行动部门的申请书......咦，批准了？
+[name="エイヤフィヤトラ"]これって……私の行動部門加入申請書……？　えっ、承認されたんですか？
+[name="Eyjafjalla"]Is it about my application to become an operator...? Oh, it's been approved?
+[name="에이야퍄들라"]제 작전 부문 가입 신청서…… 앗, 승인이 된 건가요?
+
+[name="艾雅法拉"]太好了，大家都说因为我的病情，您和阿米娅小姐一定不会同意的。
+[name="エイヤフィヤトラ"]よかったぁ。私の病状を考えたら、先輩とアーミヤさんはきっと同意しないだろうってみんな言ってたので……てっきりダメかと……
+[name="Eyjafjalla"]That's great news. Everyone said you and Miss Amiya would turn me down because of my condition.
+[name="에이야퍄들라"]다행이다. 다들 제 병세 때문에 선배와 아미야 씨가 절대 동의하지 않을 거라고 했거든요.
+
+[Decision(options="我说服了阿米娅。", values="1")]
+[Decision(options="アーミヤは説得しておいた。", values="1")]
+[Decision(options="I convinced her.", values="1")]
+[Decision(options="내가 아미야를 설득했어.", values="1")]
+
+[name="艾雅法拉"]竟然是您特别批准的？谢谢......
+[name="エイヤフィヤトラ"]先輩が承認を進めてくれたんですか？　ありがとうございます……
+[name="Eyjafjalla"]I see, you even went out of your way to get it approved? Thank you...
+[name="에이야퍄들라"]선배가 특별히 승인해 주신 건가요? 감사합니다……
+
+[Decision(options="你今天早上提交的简报帮助罗德岛度过了一次危机。", values="1")]
+[Decision(options="今朝くれたレポートが、ロドスの危機を救ったんだ。", values="1")]
+[Decision(options="The briefing you submitted this morning helped Rhodes Island through a crisis.", values="1")]
+[Decision(options="네가 오늘 아침에 제출해준 보고서 덕분에 로도스 아일랜드가 위기를 넘길 수 있었어.", values="1")]
+
+[name="艾雅法拉"]您说的危机是......下午那场天灾吗？
+[name="エイヤフィヤトラ"]それって……午後に遭遇した、あの天災のことでしょうか？
+[name="Eyjafjalla"]You mean... the Catastrophe this afternoon?
+[name="에이야퍄들라"]위기라면…… 오후에 있었던 재앙 말인가요?
+
+[name="艾雅法拉"]前辈，您看了我的分析？
+[name="エイヤフィヤトラ"]先輩、私の分析レポートを読んでくれたんですか？
+[name="Eyjafjalla"]Professor, did you read my analysis?
+[name="에이야퍄들라"]선배, 제 분석 결과 보셨던 거예요?
+
+[Decision(options="你对源石矿脉扩张迹象的观测很准确。;你通过地表源石活性增强现象预测了天灾。", values="1;2")]
+[Decision(options="源石鉱脈拡大の兆候に対する観測はとても正確だった。;地表の源石活発化現象を通して天災を予測するとはな。", values="1;2")]
+[Decision(options="Your Originium vein expansion observations were incredibly accurate.;You were able to predict a Catastrophe through an increase in Originium activation on the surface.", values="1;2")]
+[Decision(options="너의 오리지늄 광맥 확장 흔적 관측은 아주 정확했어.;지표면 오리지늄 활성 증강 현상을 통해 재앙을 예측했더군.", values="1;2")]
+
+[name="艾雅法拉"]我只是提出了一个猜想。
+[name="エイヤフィヤトラ"]そんな……私はただ、一つの推測を行っただけですよ。
+[name="Eyjafjalla"]It was just a hunch.
+[name="에이야퍄들라"]전 그냥 제 짐작을 말씀드렸을 뿐이었어요.
+
+[name="艾雅法拉"]他们都说这一带地表附近的源石矿密度很低，可相同的情况我在莱塔尼亚南部的火山附近遇上过......
+[name="エイヤフィヤトラ"]みんなは、この一帯の地表付近では、源石鉱の密度は低いと言ってましたけど……実はリターニア南部の火山周辺で、同じような状況に遭遇したことがありまして……
+[name="Eyjafjalla"]They said the density of Originium near the surface around here would be very low, but I saw the same situation in a volcano in southern Leithanien...
+[name="에이야퍄들라"]다들 이 일대는 오리지늄 광석 밀도가 아주 낮다고 했지만, 똑같은 상황을 라이타니엔 남부 화산 근처에서 본 적이 있어요……
+
+[name="艾雅法拉"]即使是少量源石，在条件恰当的时候也会在短时间内迅速增殖。
+[name="エイヤフィヤトラ"]条件さえ整っていれば、たとえ少量の源石であっても、短時間で急速に増殖することもあるんです。
+[name="Eyjafjalla"]Even a small amount of Originium proliferates rapidly over a brief period when the conditions are right.
+[name="에이야퍄들라"]소량의 오리지늄이라도 조건이 맞으면 단시간에도 급속히 증식하게 되죠.
+
+[name="艾雅法拉"]前两天，完成了日常治疗之后，我按照惯例在宿舍附近散步，在舷窗上沾到的沙尘样本上观察到了接近的现象。
+[name="エイヤフィヤトラ"]えっと……数日前のことなんですが、日課の治療を終えた後に、いつも通り宿舎の近くをお散歩していて……ふと船窓に付着した砂ぼこりを観察してみたら、似たような現象が起きていたんです。
+[name="Eyjafjalla"]Two days ago, after finishing my daily treatment, I was walking around the dorms as usual when I saw the approaching phenomenon from the dust samples on the porthole.
+[name="에이야퍄들라"]며칠 전, 일상 치료를 마치고 습관적으로 숙소 근처를 산책하다가, 선체 창문에 묻어있던 모래 먼지 샘플에서 비슷한 현상을 발견할 수 있었어요.
+
+[name="艾雅法拉"]在沙地里，源石能量爆发会导致地面温度迅速升高，从而导致大型风灾的可能性大幅上升......
+[name="エイヤフィヤトラ"]砂地では、源石エネルギーの爆発が地面の温度を急激に上昇させ、大型の風災に発展する可能性が大幅に高まりますから……
+[name="Eyjafjalla"]In sandy terrain, a sudden burst in Originium energy will cause the ground temperature to rise rapidly, leading to a significant increase in the possibility of large-scale wind-Catastrophes.
+[name="에이야퍄들라"]사막의 경우, 오리지늄 에너지 폭발에 의해 지면 온도가 급격히 상승하면, 대형 풍재의 가능성도 덩달아 대폭 상승하거든요……
+
+[name="艾雅法拉"]欸......不好意思，前辈，我一说起这些就停不下来......
+[name="エイヤフィヤトラ"]あっ……すみません。この手の話になると、止められなくて……
+[name="Eyjafjalla"]Um... I'm so sorry... I can go on and on about this stuff...
+[name="에이야퍄들라"]아…… 미안해요, 선배. 이런 얘기를 하게 되면 멈출 수가 없어서……
+
+[Decision(options="请继续。", values="1")]
+[Decision(options="続けて。", values="1")]
+[Decision(options="Please continue.", values="1")]
+[Decision(options="계속해.", values="1")]
+
+[name="艾雅法拉"]剩下的您都在简报里看过了吧？
+[name="エイヤフィヤトラ"]でも、残りはもうレポートで見てますよね？
+[name="Eyjafjalla"]You've already seen the report, right?
+[name="에이야퍄들라"]나머지는 보고서에서 이미 읽으셨죠?
+
+[name="艾雅法拉"]前辈，真的没想到，您明明这么忙，还会看我们随手写的报告。
+[name="エイヤフィヤトラ"]正直……思ってもみませんでした。先輩はこんなに忙しいのに、私たちのレポートまで見てくれてるなんて……
+[name="Eyjafjalla"]Busy as you are, I never expected you'd read our random notes.
+[name="에이야퍄들라"]선배, 이렇게 바쁜데도, 우리가 끼적인 보고서까지 훑어보신다니, 생각지도 못했어요.
+
+[Decision(options="我还读了下你的论文。;你的研究很有趣。;我说过我很努力，可还是有很多人以为我会法术。", values="1;2;3")]
+[Decision(options="君の論文も読んだ。;君の研究は、とても興味深いな。;努力の結果だが、それをアーツの一種と言う人もいる。", values="1;2;3")]
+[Decision(options="I also read your thesis.;Your research is very interesting.;I've said before, I'm a hard worker, but some folks are thinking I can use Arts.", values="1;2;3")]
+[Decision(options="네 논문도 잘 읽었어.;연구가 흥미롭던데.;난 분명 엄청 노력했는데, 다들 내가 아츠를 다루는 줄 알더라.", values="1;2;3")]
+
+[name="艾雅法拉"]前辈，您对我的研究感兴趣？
+[name="エイヤフィヤトラ"]先輩、私の研究に興味を持ってくれてるんですか？
+[name="Eyjafjalla"]Professor, are you interested in my research?
+[name="에이야퍄들라"]선배, 제 연구가 흥미롭다고요?
+
+[name="艾雅法拉"]真的有这么神奇的源石技艺吗？
+[name="エイヤフィヤトラ"]えっ！　そんな不思議なアーツ、本当にあるんですか？
+[name="Eyjafjalla"]Do mystical Originium Arts like that exist?
+[name="에이야퍄들라"]정말 그런 신기한 오리지늄 아츠가 있나요?
+
+[name="艾雅法拉"]......
+[name="エイヤフィヤトラ"]……
+[name="Eyjafjalla"]......
+[name="에이야퍄들라"]……
+
+[name="艾雅法拉"]............
+[name="エイヤフィヤトラ"]…………
+[name="Eyjafjalla"]............
+[name="에이야퍄들라"]……
+
+[name="艾雅法拉"]啊......我明白了，前辈，您是在开玩笑。
+[name="エイヤフィヤトラ"]あっ！　ふふ……そういうことですか。今のは冗談ですね？
+[name="Eyjafjalla"]Ah... I understand, you were making a joke.
+[name="에이야퍄들라"]아…… 알았다. 선배, 방금 농담하신 거죠?
+
+[name="艾雅法拉"]要是您没这么忙，我真希望能留下来，再和您好好聊一聊。
+[name="エイヤフィヤトラ"]そうだ！　もしお忙しくなければ、もう少しお話ししていきたいんですけど……いいですか？
+[name="Eyjafjalla"]If you're not too busy, I'd love to stay over and have a nice chat with you again.
+[name="에이야퍄들라"]선배가 여유가 좀 있으면, 여기에 남아 선배와 차분히 이야기를 나누고 싶네요.
+
+[Decision(options="等我完成这些工作。;你先随便看看。", values="1;2")]
+[Decision(options="この仕事が終わるまで待ってくれ。;じゃあ、手が空くまでは楽にしていてくれ。", values="1;2")]
+[Decision(options="After I get some work done.;You're welcome to look around.", values="1;2")]
+[Decision(options="이 일만 마무리하고 얘기하도록 하자.;우선 구경이나 하고 있어.", values="1;2")]
+
+[name="艾雅法拉"]前辈，您桌上的书可真多......
+[name="エイヤフィヤトラ"]はい。それにしても先輩の机、たくさんの本が置いてありますね……
+[name="Eyjafjalla"]There are so many books on your desk...
+[name="에이야퍄들라"]선배, 책상에 책이 진짜 많이 쌓여있네요……
+
+[name="艾雅法拉"]《大炎风情志》《不含传说的高塔》《哥伦比亚司法观察笔记》《征服与同化》......前辈，这些都是您平时读的书吗？
+[name="エイヤフィヤトラ"]『大炎風情志』『伝説なき塔』『クルビア司法観察ノート』『征服と同化』……先輩、これ全部、普段から読んでる本なんですか？
+[name="Eyjafjalla"]Annals of the Great Yan Classics,' 'A Tower Without a Legend,' 'Columbia Judicial Observation Notes,' 'Conquest and Assimilation' ...Professor, are these the books you normally read?
+[name="에이야퍄들라"]《염국정취지》, 《전설이 없는 탑》, 《컬럼비아 사법관찰노트》, 《정복과 동화》…… 선배, 이게 다 선배가 평소에 읽으시는 책이에요?
+
+[name="艾雅法拉"]种类真广，一点都不像我认识的教授们的书柜。
+[name="エイヤフィヤトラ"]その、バラエティに富んでいるというか……私の知ってる教授さんたちの本棚とは、全然違いますね。
+[name="Eyjafjalla"]Your interests are so diverse. It's nothing like the bookcases of the other professors I know.
+[name="에이야퍄들라"]장르가 엄청 다양해서 제가 아는 교수님들의 책장과는 너무 다르네요.
+
+[Decision(options="我想你最感兴趣的是这本。", values="1")]
+[Decision(options="君が興味を持ちそうなのはこれだろうな。", values="1")]
+[Decision(options="I think this one will interest you the most.", values="1")]
+[Decision(options="네가 가장 관심 있는 건 이 책일 것 같네.", values="1")]
+
+[name="艾雅法拉"]这是您的......天灾研究笔记？
+[name="エイヤフィヤトラ"]これは……先輩の天災研究ノート？
+[name="Eyjafjalla"]These are your... Catastrophe research notes?
+[name="에이야퍄들라"]이건 선배의…… 재앙 연구 노트?
+
+[Decision(options="只是一些阅读笔记。;我简单写了一些猜想。;算是一份草稿。", values="1;2;3")]
+[Decision(options="読書の途中でメモを取っただけのものだが。;単なる推測をいくつか並べただけだ。;まだ草稿段階だけど。", values="1;2;3")]
+[Decision(options="Just something to read over.;Just some thoughts I jotted down.;Just a rough draft.", values="1;2;3")]
+[Decision(options="독서 할 때 끼적인 메모일 뿐이야.;짐작한 것들을 간단하게 적은 거야.;초고 같은 거야.", values="1;2;3")]
+
+[name="艾雅法拉"]谢谢......太谢谢了。前辈，我一定会好好研究的！
+[name="エイヤフィヤトラ"]わあっ……ありがとうございます、先輩！　しっかり勉強させてもらいますね！
+[name="Eyjafjalla"]Thank you... Thank you so much! I'll study these thoroughly!
+[name="에이야퍄들라"]감사합니다…… 정말 감사합니다, 선배. 열심히 연구해볼게요!
+
+[name="艾雅法拉"]我有问题的话，还可以来找您交流吗？
+[name="エイヤフィヤトラ"]あの、疑問点があった時は、また先輩の所に来てもいいですか？
+[name="Eyjafjalla"]If I have any questions, may I come to talk to you?
+[name="에이야퍄들라"]궁금한 것이 생기면 다시 찾아봬도 될까요?
+
+[Decision(options="随时可以。;欢迎。;只要我能快点完成其他工作。", values="1;2;3")]
+[Decision(options="いつでも来るといい。;喜んで。;他の仕事が早く片付いたらな。", values="1;2;3")]
+[Decision(options="Any time.;You're always welcome.;As long as I can finish my other work.", values="1;2;3")]
+[Decision(options="언제든 와.;기꺼이.;내가 다른 일들을 빨리 처리할 수 있다면.", values="1;2;3")]
+
+[Subtitle(text="年轻的学者紧紧抱着你给她的笔记，抬起头，坚定地望向你。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="若き学者はあなたから手渡されたノートを大事そうに抱え、そして顔を上げると、まっすぐにあなたを見つめた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The young scholar clutches the notes you handed her tightly, lifts her head, and looks at you with conviction-filled eyes.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="젊은 학자는 당신이 준 노트를 꼭 끌어안고, 고개를 들어 물끄러미 당신을 바라보았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="艾雅法拉"]前辈......对我来说，来到罗德岛之后有许多惊喜。
+[name="エイヤフィヤトラ"]先輩……私にとって、ロドスに来てからの毎日は、驚きでいっぱいです。
+[name="Eyjafjalla"]Professor... my life has been a series of wonderful surprises since coming to Rhodes Island.
+[name="에이야퍄들라"]선배…… 로도스 아일랜드에 온 후로, 놀라운 일들을 많이 보게 되었어요.
+
+[name="艾雅法拉"]矿石病的稳定让我对自己的未来多了很多信心，而像您一样的人更是让我看到了自己继续走下去的希望。
+[name="エイヤフィヤトラ"]鉱石病が安定化したことで、自分の未来を心から信じられるようになりました。先輩のような人たちが、私に……まだ歩き続けるための希望を与えてくれたんです。
+[name="Eyjafjalla"]The stability of my Oripathy has given me a lot more confidence about my future, and people like you have given me the hope to keep moving forward.
+[name="에이야퍄들라"]광석병의 안정은 제 미래에 엄청난 자신감을 가져다주었고, 선배 같은 사람들은 제게 계속 나아갈 희망을 보여 주었죠.
+
+[name="艾雅法拉"]如果您都这么努力，我们又有什么理由放弃？
+[name="エイヤフィヤトラ"]それに……先輩がこんなに努力してくれているんですから。私たちが諦める理由なんて一つもありません。
+[name="Eyjafjalla"]If you're working so hard, then what reason do any of us have to give up?
+[name="에이야퍄들라"]선배도 이렇게 노력하는데, 우리가 포기할 이유가 없잖아요?
+
+[name="艾雅法拉"]——前辈。
+[name="エイヤフィヤトラ"]あの――先輩。
+[name="Eyjafjalla"]—Professor.
+[name="에이야퍄들라"]……선배.
+
+[name="艾雅法拉"]以后的日子里，也请您指引着罗德岛前行。
+[name="エイヤフィヤトラ"]どうかこれからも、ロドスを導いてくださいね。
+[name="Eyjafjalla"]Thank you so much for leading Rhodes Island forward, and on into the future.
+[name="에이야퍄들라"]앞으로도 부디 로도스 아일랜드를 이끌어주세요.
+

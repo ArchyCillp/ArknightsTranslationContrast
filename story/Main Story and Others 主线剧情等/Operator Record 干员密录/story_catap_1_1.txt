@@ -1,478 +1,1195 @@
 [name="镇民"]别动，快躲起来，他们来了。
+[name="住民"]早く隠れて、もう動くなよ。あいつらが来たぞ。
+[name="Townsfolk"]Don't move. Hide fast. They're here.
+[name="주민"]빨리 숨어, 움직이지 말고. 녀석들이 왔어.
 
 [name="镇民"]到里面去，里面。对，你别出声！
+[name="住民"]奥へ入れ、もっと奥だ。そうだ、声を出すなよ！
+[name="Townsfolk"]Head inside. In. Right, don't make a peep!
+[name="주민"]안으로 들어가, 안으로. 그렇지, 소리내지 마!
 
 [name="镇民"]这位老爷，这位老爷，别把手敲坏了。
+[name="住民"]これはこれは、旦那様。そんなに強く叩いたら、手を痛めてしまいますよ。
+[name="Townsfolk"]Alright, alright, sir, don't break your bones knocking.
+[name="주민"]아이고 어르신, 그렇게 두드리다 손 다치겠어요.
 
 [name="镇民"]您巡逻辛苦了，是有什么事儿啊？
+[name="住民"]パトロールご苦労様です。何か御用でも？
+[name="Townsfolk"]Thanks for keeping us safe. Is everything okay?
+[name="주민"]순찰하느라 고생 많으십니다. 무슨 문제라도 있으신지요?
 
 [name="巡逻骑士"]奉巴特老爷之命，搜查嫌犯！
+[name="巡回騎士"]バットの旦那様のご命令で、容疑者を捜索している！
+[name="Patrolling Knight"]Orders from Lord Barth! Searching for a suspect!
+[name="순찰 기사"]바스 님의 명을 받아 용의자를 수색하러 왔다!
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="巡逻骑士"]（菲隆哥，你搞这套干什么？怎么还叫老爷......）
+[name="巡回騎士"]（フェロンさん、何のためにこんな芝居を？　それに旦那様って……）
+[name="Patrolling Knight"](Bro, Filon, what's the deal? What's the 'sir' for...)
+[name="순찰 기사"](필론 형, 뭐 하는 짓이야? 왜 아직도 어르신이라고 불러……)
 
 [name="镇民"]（这不是得在其他人面前做做样子嘛，拉兹老爷。）
+[name="住民"]（人前ではそれらしく振る舞わないとだろ？　ラズ様。）
+[name="Townsfolk"](Gotta put up the act in front of other people, right, Sir Raz?)
+[name="주민"](다른 사람들 앞에선 시늉이라도 해야 하잖아, 라즈 어르신.)
 
 [name="镇民"]搜查嫌犯？！那可不得了，可得要好好找找！
+[name="住民"]容疑者の捜索ですと！？　それは大変だ。徹底的に探さねばなりませんね！
+[name="Townsfolk"]Searching for a suspect?! Absolutely, search by all means!
+[name="주민"]용의자를 수색하신다고요?! 그것참 큰일이군요. 당연히 철저히 찾으셔야죠!
 
 [name="镇民"]不过，我这儿可没有什么嫌犯啊老爷！我们这可都是好人，您一定要明察啊！
+[name="住民"]ですが、ここにはそのような者はおりません！　あなたもご承知の通り、いるのは善良な者だけですからね！
+[name="Townsfolk"]But I can tell you there's no suspects in here, sir! We're all good people, I want you to see that!
+[name="주민"]하지만 여기엔 용의자가 없습니다, 어르신! 아시다시피 여기엔 착한 사람들밖에 없거든요!
 
 [name="？？？"]（噗嗤。）
+[name="？？？"]（ププッ。）
+[name="???"](Pffheehee.)
+[name="???"](풉)
 
 [name="？？？"]（橱柜晃动的声音）
+[name="？？？"]（しまった！　戸棚が軋んで……）
+[name="???"](The cupboard makes a rocking sound.)
+[name="???"](캐비넷이 흔들리는 소리)
 
 [name="搜查队成员"]......什么声音？
+[name="調査隊隊員"]……何の音だ？
+[name="Search Team Member"]What was that noise?
+[name="수색대 대원"]……무슨 소리지?
 
 [name="搜查队成员"]你屋里还有其他人在？
+[name="調査隊隊員"]お前の他に誰かいるのか？
+[name="Search Team Member"]Is there anyone else in your house?
+[name="수색대 대원"]방 안에 다른 사람이 더 있나?
 
 [name="镇民"]怎、怎么会，我这哪还有什么其他人......
+[name="住民"]そ、そんな、私は一人で住んでいるんですから……
+[name="Townsfolk"]N—No. Do you see anyone else? I don't...
+[name="주민"]그, 그럴 리가요. 여기 다른 사람이 어디에 있습니까……
 
 [name="镇民"]可能是老爷们听错了？
+[name="住民"]空耳ではありませんか？
+[name="Townsfolk"]Maybe you heard wrong, sir?
+[name="주민"]잘못 들으신 거겠죠?
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="搜查队成员"]听错了？可是......
+[name="調査隊隊員"]空耳？　いやでも――
+[name="Search Team Member"]Did I? But...
+[name="수색대 대원"]잘못 들었다고? 하지만……
 
 [name="巡逻骑士"]好了。这么小的房子，有没有人一眼就能看得出来。
+[name="巡回騎士"]もういいだろう。こんな小さい家だ、他に人がいるかどうかなど一目で分かる。
+[name="Patrolling Knight"]Fine. Look at the size of this place. We'd know if someone was here.
+[name="순찰 기사"]됐어. 방도 작은 데 있는지 없는지 한눈에 알 수 있잖아.
 
 [name="巡逻骑士"]而且我也没听到什么声音，不要太敏感了。
+[name="巡回騎士"]それに俺には何も聞こえなかったぞ。あまり神経質になるな。
+[name="Patrolling Knight"]And I didn't hear anything. You're on edge.
+[name="순찰 기사"]그리고 나도 아무것도 듣지 못했으니 너무 예민하게 굴지 말도록.
 
 [name="搜查队成员"]好吧......那听你的。
+[name="調査隊隊員"]ああ……分かったよ。
+[name="Search Team Member"]Alright... if you say so.
+[name="수색대 대원"]알겠어…… 네 말대로 할게.
 
 [name="镇民"]各位老爷，您看这......
+[name="住民"]皆様方、あの――
+[name="Townsfolk"]Sirs, are you here for...
+[name="주민"]어르신들, 저기……
 
 [name="巡逻骑士"]既然这事与你无关，那就这样吧。
+[name="巡回騎士"]お前が本件に無関係ということであれば、捜索はここまでだ。
+[name="Patrolling Knight"]This has nothing to do with you. We're done here.
+[name="순찰 기사"]알았어, 자네와는 무관하니 여기까지 하지.
 
 [name="巡逻骑士"]之后如果有什么线索，记得立刻汇报给搜查队！
+[name="巡回騎士"]もし何か手がかりを見つけたら、すぐ捜索隊に報告するように！
+[name="Patrolling Knight"]Remember to immediately report any tips to the search team!
+[name="순찰 기사"]나중에 단서라도 발견하면 즉시 순찰대에 보고해.
 
 [name="镇民"]哎，一定，一定。
+[name="住民"]ええ、はい、必ず。
+[name="Townsfolk"]Yeah, I will, I will.
+[name="주민"]예예, 여부가 있겠습니까.
 
 [name="镇民"]......
+[name="住民"]……
+[name="Townsfolk"]......
+[name="주민"]……
 
 [name="？？？"]哎呀，他们终于走了？
+[name="？？？"]ふう。やーっと行ったみたいだね。
+[name="???"]Yeesh, are they finally gone?
+[name="???"]아이고, 드디어 간 거야?
 
 [name="镇民"]哎你怎么这就出来了！
+[name="住民"]おい、すぐに出てくるな！
+[name="Townsfolk"]Hey, stay in there!
+[name="주민"]야, 왜 벌써 나왔어!
 
 [name="镇民"]小声点，人还没走远呢......
+[name="住民"]声を落とせ。あいつら、まだ近くにいるんだから……
+[name="Townsfolk"]Keep it down, they're still close...
+[name="주민"]아직 멀리 안 갔으니까 목소리 좀 낮춰……
 
 [name="？？？"]行了行了，菲隆哥，别这么紧张。
+[name="？？？"]へーきへーき。フェロン兄、そんなビビんないでよ。
+[name="???"]It's cool, it's cool, Filon, bro. C'mon, unclench those cheeks.
+[name="???"]괜찮아, 괜찮아. 필론 형, 그렇게 긴장하지 마.
 
 [name="？？？"]其实拉兹他刚刚应该都已经发现我了吧？刚才他能瞒着不说，现在也不可能回头再来戳穿我啦。
+[name="？？？"]ラズはさっき、あたしに気付いてたんでしょ？　それでも黙っててくれたんだから、今さら捕まえに戻ってきたりしないって。
+[name="???"]Raz must've heard me a moment ago, didn't he? I mean, he held it in, and he's not gonna turn back to bust me now.
+[name="???"]솔직히 라즈도 방금 나를 알아챘을 걸? 모르는 척해준 걸 보면 다시 돌아와서 나를 적발하진 않을 거야.
 
 [name="？？？"]放心，放心。
+[name="？？？"]リラックス、リラックス～。
+[name="???"]Relax, relax.
+[name="???"]그러니 안심해.
 
 [name="镇民"]那小子可能是想放你走，但他身后那些人可不一定。
+[name="住民"]あいつは見逃すつもりだろうが、後ろの奴も同じとは限らないぜ。
+[name="Townsfolk"]I mean, he probably wants to let you go, but the guys behind him might be a different story.
+[name="주민"]라즈는 너를 보내주고 싶어 할 지도 모르지만 라즈의 뒤에 서 있던 녀석들은 아닐지도 몰라.
 
 [name="镇民"]敢直接炸贵族老爷私库的人这么多年我就见过你一个，更别说你还开着车把老头子的金银珠宝满地乱撒......
+[name="住民"]にしても、真正面からお貴族様の金庫を爆破するやつなんて、俺ぁお前以外に見たことねぇよ。しかも、車飛ばしながら、奪った金銀財宝をばらまくなんつーマネまで……怖いもんなしかよ。
+[name="Townsfolk"]You're the only woman I've ever met who'd straight-up bomb some old noble's vault, not to mention the part where you drove out throwing the guy's treasure all over the place...
+[name="주민"]지금까지 살아오면서 귀족의 개인 금고를 폭발시킨 사람은 네가 처음이야. 차를 타고 금은보화를 땅에 흩뿌리고 다닌 건 말할 것도 없고……
 
 [name="镇民"]我说空爆啊，你猜猜你现在值多少赏金？
+[name="住民"]あのよカタパルト。今、お前にどれだけの懸賞金が掛かっていると思う？
+[name="Townsfolk"]Seriously, Catapult, can you guess how much you're worth right now?
+[name="주민"]캐터펄트, 지금 네 목에 걸린 현상금이 얼마인지 한 번 맞춰 볼래?
 
 [name="空爆"]哈哈，肯定没我给你留的那些宝贝值的多~
+[name="カタパルト"]あははっ、どれだけ高くなってても、あんたに渡したモノほどじゃないでしょ～。
+[name="Catapult"]Haha, I bet it can't be as much as all that treasure I left you~
+[name="캐터펄트"]하하, 분명 내가 형한테 남겨준 것보단 적겠지~
 
 [name="镇民"]嘿，这倒没错。
+[name="住民"]へっ、まあその通りだが。
+[name="Townsfolk"]Heh, you got me there.
+[name="주민"]허, 그건 그렇지.
 
 [name="镇民"]说真的，你怎么有胆子干这种事？
+[name="住民"]なぁ、何でこんな大胆なことをしでかしたんだ？　お前、わざわざあの老ぼれのプライベート金庫の方を爆破したろ。
+[name="Townsfolk"]Honestly, though, where do you get the guts to do this stuff?
+[name="주민"]정말이지, 대체 배짱이 얼마나 크길래 그런 일까지 벌인 거야?
 
 [name="镇民"]你炸的可是老头子最宝贝的私人金库！嚯，老头子都气疯了，真要被抓到，你皮都得给扒咯！
+[name="住民"]自分の命みたいに大事にしてたもんだから、ジジイ怒り狂ってやがるぞ。もし捕まったら、マジで皮まで剥ぎとられかねないんだからな！
+[name="Townsfolk"]That was all his best stuff in that safe, y'know! Hah, he's lost his mind. If he catches you for real, he'll be mad enough to peel you like a yucca!
+[name="주민"]네가 폭발시킨 건 영감님이 가장 소중히 여기던 개인 금고야! 후, 지금 화가 머리 꼭대기까지 나 있으니 잡힌다면 진짜 가죽을 벗길지도 몰라!
 
 [name="空爆"]我总得做点什么，才对得起大家给我取的这外号是不？
+[name="カタパルト"]でもさ、何かやんなきゃ、みんながつけてくれたこの名前が泣くってもんでしょ？
+[name="Catapult"]Fly in, go boom, fly out. I've gotta do this nickname you all give me a little justice, right?
+[name="캐터펄트"]뭐라도 해야지. 그래야 다들 내게 붙여준 별명에 미안하지 않잖아?
 
 [name="空爆"]我忍死老头也忍够久了，现在我忍不了了......这哪是怎么有胆子的问题，这不是被逼急了嘛。
+[name="カタパルト"]今までずーっとさ、もうじゅーぶんすぎるくらいガマンしたんだってば！　いい加減限界ってわけよ……これはね、大胆とかじゃないの。必要に迫られた結果なんだよ。
+[name="Catapult"]You can only take so much before your back breaks, you know? I'm at my limit with that old-ass... It's not about guts. I was practically forced to do that.
+[name="캐터펄트"]참을 만큼 참았지만 더이상은 참을 수가 없었어…… 이건 배짱 문제가 아니라 내몰려서 한 일이었다고.
 
 [name="空爆"]现在好了，我爽快了，大家也能捞点好处，不是皆大欢喜？
+[name="カタパルト"]やっとスッキリしたし、みんなもそれなりに潤ったろうし、これぞ全員ハッピーの大団円じゃないかい？
+[name="Catapult"]I'm good now, see. I'm refreshed, and everyone gets a little something nice out of it. Peace and love for all, right?
+[name="캐터펄트"]이젠 괜찮아졌어. 속이 시원한데다 모두 다 이득을 얻기도 했으니 다들 기뻐하지 않겠어?
 
 [name="镇民"]别说被逼急了，有的人就算被逼死了也不敢动手啊。
+[name="住民"]必要に迫られたなんて言うな。そうなったって手を出せないやつもいるんだぞ。
+[name="Townsfolk"]Forced, my ass. Some people wouldn't hit back if their lives depended on it.
+[name="주민"]내몰려서 한 일이라고 하지 마. 죽음으로 내몰려도 손 쓸 엄두도 못 내는 사람들도 있어.
 
 [name="镇民"]......
+[name="住民"]……
+[name="Townsfolk"]......
+[name="주민"]……
 
 [name="镇民"]哎，说真的，阿莱塔。
+[name="住民"]なぁ……正直さ、アリータ。
+[name="Townsfolk"]*sigh*. I'm gonna be honest, Arleta.
+[name="주민"]에휴, 솔직히 알레타……
 
 [name="空爆"]哇，干嘛这么正式，突然喊我本名。
+[name="カタパルト"]わっ、なんで急に本名なんか呼んだりするのさ？
+[name="Catapult"]Whoa, why so formal? Just gonna wave my real name like that, huh.
+[name="캐터펄트"]왜, 왜 갑자기 그렇게 딱딱하게 본명으로 부르는 거야?
 
 [name="镇民"]和你说正经的。我还是觉得......这么做对你压根没好处啊。
+[name="住民"]真面目な話をしてんだよ。お前はそう言うけどさ、俺は……やっぱりお前には何のメリットもないと思うんだ。
+[name="Townsfolk"]I'm being real with you. I still think... there's nothing in this for you.
+[name="주민"]진지하게 말할게. 난 역시…… 이런 일을 해봤자 너에게는 전혀 도움이 되지 않는다고 생각해.
 
 [name="镇民"]你能捞着点什么？你那些金子，那些首饰，现钞......你什么都没留，全给就这么撒在我们这群人家门口。
+[name="住民"]自分に何も残しちゃいないだろ？　金塊、ジュエリー、札束……全部俺たちにばらまいたじゃないか。
+[name="Townsfolk"]Like, what does it get you? 'cause your gold, jewelry, bills... you haven't held onto a single thing, you threw it all over town.
+[name="주민"]네가 얻은 건 뭐지? 금, 장신구, 현찰…… 그 모든 걸 넌 하나도 남기지 않고 전부 우리들 집 앞에 뿌렸잖아.
 
 [name="镇民"]你图什么啊？
+[name="住民"]本当は何が目的なんだ？
+[name="Townsfolk"]What's your plan?
+[name="주민"]대체 뭘 위해 그러는 거야?
 
 [name="空爆"]好处。嘿，好处......这年头是不是干什么都非得要有点好处？
+[name="カタパルト"]メリットねぇ……このご時世、何をやるにもメリットがなきゃだめなのかね。
+[name="Catapult"]What's in for me? Heh, c'mon... does everything I do need some kinda paycheck?
+[name="캐터펄트"]당연히 이득을 위해서지, 헤헷. 요즘 세상에 이득이 없는 일을 누가 해?
 
 [name="镇民"]......哎，我也不是这个意思。
+[name="住民"]……はぁ。そういう意味じゃねぇよ。……あの老いぼれ、子飼いへの待遇は悪くなかったろ。
+[name="Townsfolk"]...*sigh*. That's not what I mean.
+[name="주민"]……하아, 그런 말이 아니잖아.
 
 [name="镇民"]只是你看，你是老头子养的私兵，他不缺给你们的那份钱，征税也收不到你们头上，你要是想，还能自己私下再从税金里扣点。
+[name="住民"]お前はあいつの私兵で、いい給料を貰ってたし、税だって免除されてたはずだ。それに、やろうと思えば、回収した税金をちょろまかすことだってできたろ？
+[name="Townsfolk"]I just—look. You're the old geezer's private army, and he has your share of the pot to give. The tax levy doesn't even come round to you, and if you wanted, you could top up by skimming off all the dues.
+[name="주민"]너는 영감님이 키우는 사병이잖아. 영감님이 너희들에게 충분한 돈도 주고 세금도 걷지 않아. 거기다 너만 원한다면 걷은 세금에서 따로 조금 챙길 수도 있어.
 
 [name="空爆"]我啥时候还扣过你们的钱了？
+[name="カタパルト"]あたしがいつ、あんたたちのお金をピンハネしたよ？
+[name="Catapult"]When have I ever pocketed your money?
+[name="캐터펄트"]내가 언제 형네들 돈을 빼돌렸다고 그래?
 
 [name="镇民"]你是没有！你要是也那么干，刚刚我就把你推出去了。
+[name="住民"]してないのは分かってるさ！　もしやってたら、俺はさっきお前を突き出してたよ。俺が言いたいのはな……
+[name="Townsfolk"]You haven't! If you did, you wouldn't be the first, and I would've shoved you out there.
+[name="주민"]넌 그런 적 없지! 네가 그랬다면 방금 너를 수색대에 넘겼을 거야.
 
 [name="镇民"]反正就是这么个意思。你日子过得不差，又不像我们这群人似的，交完税有时候连饭都吃不上......
+[name="住民"]……お前の暮らしは悪くはなかったってことだ。俺たち一般市民みたいに、税金を絞り出したら、食うことさえままならないわけじゃない……
+[name="Townsfolk"]That's what I'm getting at, at any rate. You live an alright life. You're a far cry from all of us, when we've got days we pay the tax and can't eat afterwards...
+[name="주민"]아무튼 그렇다는 말이야. 너는 우리처럼 세금 내는 것마저 걱정할 정도로 먹고살기 힘들진 않잖아……
 
 [name="镇民"]阿莱塔，你到底是怎么想的？
+[name="住民"]金庫の中身が目的ってわけでもなく、それどころか何不自由ない自分の生活をフイにしてまで……アリータ、お前は一体どうしてこんなことを？
+[name="Townsfolk"]What are you actually thinking, Arleta?
+[name="주민"]그런데 알레타, 넌 도대체 무슨 생각을 하는 거야?
 
 [name="空爆"]......
+[name="カタパルト"]……
+[name="Catapult"]......
+[name="캐터펄트"]……
 
 [name="空爆"]我要是说我就是看死老头不爽，其他的什么都没想，你信不信？
+[name="カタパルト"]ただあのクソじじいが気に食わなくて、ムカついたってだけで、他のことはなーんにも考えてなかったって言ったら……信じる？
+[name="Catapult"]If I just said I was done with that old fart, no other ideas going on, would you believe me?
+[name="캐터펄트"]단지 그 영감탱이를 보면 짜증이 날 뿐 딱히 다른 이유는 없다고 하면 믿어줄 거야?
 
 [name="镇民"]不信。
+[name="住民"]信じない。
+[name="Townsfolk"]No.
+[name="주민"]안 믿어.
 
 [name="空爆"]我想也是。
+[name="カタパルト"]だよねぇ。
+[name="Catapult"]Didn't think so.
+[name="캐터펄트"]그렇겠지?
 
 [name="空爆"]那让我想想，该给你编个什么理由哈。
+[name="カタパルト"]じゃあ少し考えさせてよ。納得できる理由を作ったげるから。
+[name="Catapult"]Okay then, I need a minute. Lemme come up with some reason for you, ha.
+[name="캐터펄트"]그럼 내가 이유를 만들어 낼 시간이나 좀 줘봐.
 
 [name="镇民"]......喂，难得我都这么正经了，你这家伙就不能稍微严肃点？
+[name="住民"]……おい。この俺が珍しく真剣に話してるって言ったろ。お前もふざけないでちゃんとしてくれよ。
+[name="Townsfolk"]Hey... I'm trying to be as straight as possible here. I don't know, can't you be a little serious?
+[name="주민"]……야, 기껏 진지하게 얘기하는데 너도 좀 진지해질 수는 없는 거냐?
 
 [name="空爆"]欸——菲隆哥你又不是不知道，我就是这个性格嘛。
+[name="カタパルト"]はぁー……フェロン兄は知ってるでしょ。あたしってこういう性格なんだからね。
+[name="Catapult"]Bleeugh—you know me, Filon. It's the way I am.
+[name="캐터펄트"]아, 진짜…… 형도 내 성격 잘 알잖아.
 
 [name="空爆"]行了，不开玩笑了。
+[name="カタパルト"]いーよ、わかった。ふざけるのはやめる。
+[name="Catapult"]Fine. No more jokes.
+[name="캐터펄트"]알았어. 농담은 그만할게.
 
 [name="空爆"]我也差不多该走了，不好在你这里多呆，免得节外生枝，给菲隆哥你也惹上麻烦。
+[name="カタパルト"]そろそろ行かなきゃだしね。ここに長居でもして、フェロン兄に迷惑が掛かっちゃマズいもん。
+[name="Catapult"]I should be outta here soon, anyway. No good sticking around yours forever. Can't let this spiral out, or they'll make hell for you too.
+[name="캐터펄트"]나도 이제 슬슬 여기를 떠나야겠어. 더 있다가 엉뚱한 일이라도 터지면 필론 형만 번거로워질 테니까.
 
 [name="空爆"]趁现在走，搞不好还能混进要出镇子的行商队伍里。
+[name="カタパルト"]今のうちに町を出るよ。上手くいけば、外に行く商隊に混ざることもできるだろうから。
+[name="Catapult"]If I jump now, maybe I can rustle my way into a merchant caravan heading out of town.
+[name="캐터펄트"]지금 떠나면 이 마을을 나가는 상단에 낄 수도 있을 거야.
 
 [name="镇民"]这是你提前计划好的？
+[name="住民"]前から計画してたのか？
+[name="Townsfolk"]Did you plan this out beforehand?
+[name="주민"]미리 계획해 둔 거야?
 
 [name="空爆"]我也不想真的被暴怒的死老头抓到扒皮嘛。
+[name="カタパルト"]あたしだって怒り狂ったクソじじいに捕まって、皮を剥ぎ取られるのはごめんなんだよね～。
+[name="Catapult"]Yeah, I don't actually wanna get flayed by the old guy either.
+[name="캐터펄트"]나도 머리 꼭대기까지 화난 영감탱이한테 잡혀 진짜로 가죽이 벗겨지고 싶지는 않거든.
 
 [name="空爆"]那就再见了......
+[name="カタパルト"]それじゃあね！
+[name="Catapult"]See you later, then...
+[name="캐터펄트"]그럼 안녕……
 
 [name="空爆"]替我转告大家伙儿，要是再有人逼得大伙活不下去，不一定还会有金库这么巧地炸开花。
+[name="カタパルト"]みんなに伝えといてよ。もしまた誰かが、あんたたちを搾取して駄獣みたいに扱うことがあったとして、次も運よくそいつの金庫がきれーに爆ぜるとは限らないって。だから――
+[name="Catapult"]Pass it on to all the people, if anyone else decides to squeeze their lives out, another explosion as coincidental as that vault might just be on the table.
+[name="캐터펄트"]모두에게 전해줘, 또 누가 못 살 게 굴면 금고가 또 폭발할지도 모른다고.
 
 [name="空爆"]千万别再这么老实地等死了。
+[name="カタパルト"]――バカ正直に黙って死を待つようなことは、二度としちゃだめ。
+[name="Catapult"]Never, ever, ever sit there and wait for death like that again.
+[name="캐터펄트"]절대로 그렇게 얌전히 죽기만을 기다리지는 마.
 
 [name="空爆"]......
+[name="カタパルト"]……
+[name="Catapult"]......
+[name="캐터펄트"]……
 
 [name="空爆"]（这货车好窄......腿伸不直啊。）
+[name="カタパルト"]（この荷台狭いなぁ……脚が伸ばせないや。）
+[name="Catapult"](This van's a cramped fit... I can't stretch my legs straight.)
+[name="캐터펄트"](이 화물 트럭은 엄청 좁네…… 다리도 다 안 뻗어져.)
 
 [name="空爆"]（这到底是运了什么，味儿还不小......幸好我不晕车。）
+[name="カタパルト"]（それにすっごい変なにおい……車酔いしにくい方でよかった。一体何を運んでるんだろ？）
+[name="Catapult"](What's this thing even carrying? It's got a smell, alright... good thing I don't get carsick.)
+[name="캐터펄트"](냄새가 엄청 나는데 도대체 뭘 운송하는 거야…… 내가 차멀미를 안 해서 다행이지.)
 
 [name="空爆"]（......不过运气还不错，前面两个关口都很顺利。）
+[name="カタパルト"]（……だけどここに潜り込めたおかげで、二つの検問を楽に抜けられたのはツイてたな～。）
+[name="Catapult"](Ups to my luck, though. Two checkpoints down easy.)
+[name="캐터펄트"](……그래도 운은 좋네. 앞의 두 개 검문은 무사히 통과할 수 있었어.)
 
 [name="空爆"]（幸好提前留意了商队的动向，正好能搭个顺风车。）
+[name="カタパルト"]（うん、やっぱり、前もって商隊の動きをチェックしといたのは大正解だったね。）
+[name="Catapult"](Good thing I already scoped how the caravan likes to go. It's the perfect ride to hitch.)
+[name="캐터펄트"](상단의 동향을 미리 살피기 잘했다. 덕분에 히치하이킹도 할 수 있었고.)
 
 [name="空爆"]（这样下去，只要能过了前面的那座桥，应该就能离开这破地方了。）
+[name="カタパルト"]（あとは、この先にある橋を渡れば、このクソみたいな場所から出られる。）
+[name="Catapult"](As long as this holds, we just need to cross that bridge, and I should be on my way outta this dump.)
+[name="캐터펄트"](이대로 앞에 있는 저 다리까지 건널 수만 있다면 이 형편없는 곳에서 벗어날 수 있을 거야.)
 
 [name="空爆"]（等离开了这里，下一步，就先去......去......）
+[name="カタパルト"]（ここを出たら、まず最初の目的地は……）
+[name="Catapult"](Once I'm clear, then next, I'll head to... to...)
+[name="캐터펄트"](여기만 떠나면, 다음 목적지는 일단…… 일단……)
 
 [name="空爆"]（......）
+[name="カタパルト"]（……）
+[name="Catapult"](......)
+[name="캐터펄트"](……)
 
 [name="空爆"]（去哪来着，糟糕，想不出来啊。）
+[name="カタパルト"]（あれぇ、どこへ行くんだっけか？　あちゃーどうしよ、思い出せない。んー？）
+[name="Catapult"](Where? Shoot, I have no idea.)
+[name="캐터펄트"](이런, 어디로 갈지 생각이 안 나네.)
 
 [name="空爆"]（呼啊，有点困了......）
+[name="カタパルト"]（なんだっけぇ……ふあぁ、眠くなってきちゃった……）
+[name="Catapult"](*yawn* I'm a little sleepy...)
+[name="캐터펄트"](흐아암, 좀 졸린데……)
 
 [name="搜查队成员"]......那边............没有......
+[name="調査隊隊員"]……こっちは……いないな……
+[name="Search Team Member"]...over there... ...nothing...
+[name="수색대 대원"]……저쪽엔…… 없어……
 
 [name="搜查队成员"]......还没有找到吗？
+[name="調査隊隊員"]……まだ見つからないのか？
+[name="Search Team Member"]...still haven't found them?
+[name="수색대 대원"]……아직도 못 찾았나?
 
 [name="空爆"]！
+[name="カタパルト"]！
+[name="Catapult"]!
+[name="캐터펄트"]!
 
 [name="空爆"]（欸？怎么都到这里了还能碰上搜查队的人？！）
+[name="カタパルト"]（うわっ！　えっ、こんなところまで捜査隊が来てるの！？）
+[name="Catapult"](Huh? Why is the search team out here?!)
+[name="캐터펄트"](어라? 왜 여기까지 왔는데도 수색대가 있는 거지?!)
 
 [name="空爆"]（这么紧追不舍，死老头未免也太执着了吧！）
+[name="カタパルト"]（ここまで追ってくるなんてしつこすぎでしょ、あのクソじじい！）
+[name="Catapult"](He really doesn't wanna give up the chase, huh? C'mon, guy, you're being way too clingy!)
+[name="캐터펄트"](이렇게 바짝 추격해오다니, 그 영감탱이 너무 집착이 심하잖아!)
 
 [name="空爆"]（让我看看......）
+[name="カタパルト"]（どれ、そぉ～っと様子を……）
+[name="Catapult"](Let's take a look...)
+[name="캐터펄트"](어디 보자……)
 
 [name="赶路的工人"]老爷们，这、这是在找什么啊？
+[name="道を急ぐ労働者"]旦那様方、そ、その、これは何をお探しで？
+[name="Hurrying Worker"]Sirs, what—what are you looking for?
+[name="길 가던 인부"]저기, 뭘 찾고 계신지요?
 
 [name="巡逻骑士"]搜查嫌犯，麻烦配合一下。
+[name="巡回騎士"]ある事件の容疑者を捜している。悪いが協力してくれ。
+[name="Patrolling Knight"]We're searching for a suspect. Cooperate with us, please.
+[name="순찰 기사"]용의자를 수색하는 중이다. 미안하지만 협조 좀 해 줘.
 
 [name="搜查队成员"]拉兹，那边都查过了，没发现什么可疑的！
+[name="調査隊隊員"]ラズ、こっちは全て調べた。怪しい奴はいなかったぞ。
+[name="Search Team Member"]Raz, we've checked over there! We found nothing suspicious!
+[name="수색대 대원"]라즈, 그쪽은 이미 확인했어! 의심스러운 사람은 없더라고!
 
 [name="巡逻骑士"]好，你们可以过去了。
+[name="巡回騎士"]よし、行っていいぞ。
+[name="Patrolling Knight"]Alright, you can pass now.
+[name="순찰 기사"]알겠다. 너희들은 지나가도 좋아.
 
 [name="赶路的工人"]可算是能走了。
+[name="道を急ぐ労働者"]よかった、無事に帰れそうじゃ……
+[name="Hurrying Worker"]Ugh, finally, on our way.
+[name="길 가던 인부"]드디어 지나갈 수 있게 됐구나.
 
 [name="搜查队成员"]唉，累死了，咱们真就要这么一个一个地查下去？
+[name="調査隊隊員"]はぁ、もうヘトヘトだ。本当にこんな風に一人一人調べないとダメなのか？
+[name="Search Team Member"]Phew, I'm wiped. Do we have to keep on searching each one like this?
+[name="수색대 대원"]에휴, 힘들어 죽겠네. 정말 이렇게 한 명 한 명 확인해야 해?
 
 [name="巡逻骑士"]这也是老爷的命令。
+[name="巡回騎士"]それが旦那様の命令だ。
+[name="Patrolling Knight"]That's the old man's orders.
+[name="순찰 기사"]이것도 어르신의 명령이니까.
 
 [name="搜查队成员"]但这得查到什么时候才算个完啊？从早上开始，咱们就没停下过，挨家挨户地找，现在还得跑到这么老远的地方守着......
+[name="調査隊隊員"]だけどいつになったら終わるんだよ？　町じゅうの家をしらみ潰しに尋ね回ったあげく、今度はこんな離れたところまで来て検問かよ……朝から休みなしだぞ？
+[name="Search Team Member"]But how much longer do we have to search? We've been going door to door without a break since morning, and now we have to head out all this way.
+[name="수색대 대원"]하지만 언제 끝나는 건데? 우리 지금 아침부터 쉬지도 못하고 집집마다 이 잡듯 뒤지고 다녔잖아. 그런데 지금은 또 이렇게 먼 곳까지 와서 지키고 있어야 한다니……
 
 [name="搜查队成员"]要不是想着抓到人能有赏金，我可干不下去。
+[name="調査隊隊員"]捕まえたら賞金がもらえるって自分に言い聞かせなきゃ、やってらんねぇよ。
+[name="Search Team Member"]If it wasn't for the bounty, I would've given up a while ago.
+[name="수색대 대원"]범인을 잡으면 상금을 준다는 말만 없었으면 절대로 계속하지 못했을 거야.
 
 [name="巡逻骑士"]......我记得早上听说有人把老爷的金库炸了的时候，你还拍手叫好了？
+[name="巡回騎士"]……今朝、何者かが旦那様の金庫を爆破した時、お前は手を叩いて褒め称えていた気がするんだが？
+[name="Patrolling Knight"]Weren't you clapping and cheering when you heard someone blew the man's vault out?
+[name="순찰 기사"]……아침에 누군가 어르신의 금고를 폭파시켰다는 얘기를 들었을 때 너 박수까지 치면서 좋아했었잖아?
 
 [name="搜查队成员"]那当然啊！
+[name="調査隊隊員"]そりゃ当然だろ！　こんな痛快な話、手の一つくらい叩かなきゃ失礼だ。
+[name="Search Team Member"]Of course I was!
+[name="수색대 대원"]그거야 당연한 거지!
 
 [name="搜查队成员"]那位炸的可是老爷的私库，还把里面的宝贝都拖出去撒给穷鬼们，啧啧，这剧情，谁看了不说一声好？哥伦比亚的电影都不敢这么拍！
+[name="調査隊隊員"]爆破されたのは、じじいが悪どいことして私財を貯め込んでた金庫なんだぞ。それで、ぶんどった財宝は全て貧乏人にばら撒いたときた。へへっ、クルビアの映画だってこうはいかないぜ。
+[name="Search Team Member"]It was his private hoard, and now it's in the hands of all the poor common folk! I mean, mwah, who wouldn't give a story like that a thumbs up? Too perfect even for a Columbian movie!
+[name="수색대 대원"]어르신의 개인 금고를 폭파시켜서 보물을 가난한 사람들에게 뿌리기까지 했잖아. 이런 스토리를 싫어할 사람이 어디 있겠어? 컬럼비아의 영화도 이렇게는 못 찍을 거야!
 
 [name="巡逻骑士"]那你......
+[name="巡回騎士"]それならどうして……
+[name="Patrolling Knight"]So you...
+[name="순찰 기사"]그럼 어째서……
 
 [name="搜查队成员"]一码归一码，那些钱又没撒到我手上。
+[name="調査隊隊員"]それはそれ、これはこれだ。あの金が俺の頭上にばら撒かれたわけでもないしな。
+[name="Search Team Member"]That's that, this is this. None of the money made it into my hands.
+[name="수색대 대원"]그건 그거고 이건 이거니까. 그 돈을 나한테 뿌린 것도 아니잖아.
 
 [name="搜查队成员"]况且谁会和赏金过不去？老爷这可是难得大方一回！
+[name="調査隊隊員"]あんなに賞金が出るっていうなら誰だって捕まえるよな？　じじいが珍しく大盤振る舞いしてるんだぞ！
+[name="Search Team Member"]Besides, who'd be on hard times with that reward? The miser's being generous for once!
+[name="수색대 대원"]게다가 상금을 싫어할 사람이 어디 있겠어? 오랜만에 어르신이 후한 인심을 쓰셨는데!
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="空爆"]（哈哈，看来我确实还挺值钱的。）
+[name="カタパルト"]（あっはは、フェロン兄の言ってた通り、あたしにはすっごい値札がついてるみたいだね。）
+[name="Catapult"](Haha! Looks like I really do have a good price tag.)
+[name="캐터펄트"](하하, 보아하니 확실히 나한테 현상금이 꽤 걸렸나 보네.)
 
 [name="空爆"]（这里没法过了，看这架势，就算躲在货箱里迟早也会被查出来......）
+[name="カタパルト"]（ここは通れそうにないなぁ。この様子じゃ、隠れていても遅かれ早かれ見つかっちゃうだろうし……）
+[name="Catapult"](No chance of getting over now, seeing how this all panned out. Even if I hide in a box, they could find me sooner or later...)
+[name="캐터펄트"](아무래도 여긴 못 지나가겠어. 상황을 보니 화물 상자에 숨어도 조만간 들킬 것 같고……)
 
 [name="空爆"]（没办法，这种时候只能——）
+[name="カタパルト"]（しかたない。こんな時にはっと――）
+[name="Catapult"](Gotta do it. Times like these, your only choice is—)
+[name="캐터펄트"](어쩔 수 없지. 이럴 때는……)
 
 [name="空爆"]（嘿！）
+[name="カタパルト"]（えいっ！）
+[name="Catapult"](Hup!)
+[name="캐터펄트"](에잇!)
 
 [name="赶路的工人"]呃！我的屁股！
+[name="道を急ぐ労働者"]痛っ、し、尻が！　なんじゃ！？
+[name="Hurrying Worker"]Ergh! My ass!
+[name="길 가던 인부"]윽! 내 엉덩이!
 
 [name="赶路的工人"]咦，没受伤......不对，等等，我的钱袋呢？是谁偷了我的钱袋？！
+[name="道を急ぐ労働者"]ふぅ、ケガはしとらんようじゃな……待て、わしの財布は？　ない……盗ったのは誰じゃ！
+[name="Hurrying Worker"]Oof, I'm not hurt... no, wait, where's my wallet? Did someone just steal my wallet?!
+[name="길 가던 인부"]어, 다치진 않았네…… 아니, 잠깐만. 내 지갑이 어디 갔지? 누가 훔쳐 간 거야?!
 
 [name="赶路的工人"]小偷......有小偷！抓小偷啊！
+[name="道を急ぐ労働者"]泥棒……泥棒じゃ！　誰か捕まえてくれ！
+[name="Hurrying Worker"]Thief... there's a thief! Catch the thief!
+[name="길 가던 인부"]도둑…… 도둑이야! 도둑 잡아라!
 
 [name="巡逻骑士"]不要喧哗！发生了什么事？
+[name="巡回騎士"]騒ぐな！　何があった？
+[name="Patrolling Knight"]Quit the racket! What happened?
+[name="순찰 기사"]소란 피우지 마! 무슨 일이지?
 
 [name="赶路的工人"]骑士老爷......！有、有、有小偷！
+[name="道を急ぐ労働者"]旦那様……！　ど、ど、泥棒です！
+[name="Hurrying Worker"]Knight, sir...! Th—Th—There's a thief!
+[name="길 가던 인부"]기사님……! 도, 도, 도둑이 있습니다!
 
 [name="空爆"]（再来一次......！）
+[name="カタパルト"]（もういっちょ……！）
+[name="Catapult"](And one more for the road...!)
+[name="캐터펄트"](한 번 더……!)
 
 [name="空爆"]（看我的！）
+[name="カタパルト"]（いっくぞぉ！）
+[name="Catapult"](Check me out!)
+[name="캐터펄트"](하앗!)
 
 [name="路过的商人"]哇啊！什、什么东西？
+[name="通りすがりの商人"]きゃぁ！　な、何？　痴漢？
+[name="Passing Merchant"]Waagh! Wh—What the hell?
+[name="지나가던 상인"]으앗! 뭐, 뭐였지?
 
 [name="路过的旅人"]呀！骑士先生，有流氓摸我......说，刚刚你站在我旁边，是不是你干的？！
+[name="通りすがりの旅人"]痴漢です、捕まえてください！　……ねぇあなた、さっき私の近くに立ってたでしょう、あなたがやったの！？
+[name="Passing Traveler"]Yeek! Sir Knight, some bastard just felt me... Hey, you were right there! Was it you?!
+[name="지나가던 여행자"]앗! 기사님, 어떤 치한이 저를 만졌어요…… 잠깐, 방금 당신이 내 옆에 있었잖아. 당신이 만진 거 아냐?!
 
 [name="无辜的路人"]啊？我没有......哎你怎么直接动手，真不是我！
+[name="無実の通行人"]え？　違うよ……おい叩くなって、本当に俺じゃないんだ！
+[name="Innocent Passerby"]Eh? I didn't do it... hey, what are you hitting me for?! Seriously, it wasn't me!
+[name="무고한 행인"]뭐? 난 아니야…… 아악, 왜 다짜고짜 때리는 거야! 진짜 나 아니라고!
 
 [name="巡逻骑士"]安静，请安静！
+[name="巡回騎士"]静かに、静かに！
+[name="Patrolling Knight"]Settle down, please, settle down!
+[name="순찰 기사"]조용! 조용!
 
 [name="巡逻骑士"]各位请冷静下来......不要慌乱！
+[name="巡回騎士"]皆さん落ち着いて……慌てないでください！
+[name="Patrolling Knight"]All of you, calm down... don't get hysterical!
+[name="순찰 기사"]여러분 진정하시고…… 당황하지 마세요!
 
 [name="赶路的工人"]我的钱袋呢！！
+[name="道を急ぐ労働者"]わしの財布はどこだ！！
+[name="Hurrying Worker"]Where's my wallet?!
+[name="길 가던 인부"]내 지갑!!
 
 [name="搜查队成员"]都退回去！这里的检查还没结束......呃！
+[name="調査隊隊員"]下がれ！　まだ検査は終わってな……うっ！
+[name="Search Team Member"]Back up, everyone! Our search here isn't over yet... ugh!
+[name="수색대 대원"]모두 물러나도록! 아직 수색이 끝나지 않았…… 윽!
 
 [name="搜查队成员"]是谁扔的石头？！
+[name="調査隊隊員"]誰だ石を投げたのは！？
+[name="Search Team Member"]Who threw that stone?!
+[name="수색대 대원"]누구야, 돌을 던진 게?!
 
 [name="路过的旅人"]我受不了了！到底还要挤在这里多久？
+[name="通りすがりの旅人"]もう我慢できない！　いったいいつまで待たせるつもり？
+[name="Passing Traveler"]I can't take it anymore! Tell me, how much longer am I going to be stuck here?
+[name="지나가던 여행자"]더는 못 참아! 대체 언제까지 기다려야 하는 거야?
 
 [name="路过的旅人"]我有正式的通行手续，我要求立刻通过这里！
+[name="通りすがりの旅人"]私はもともと正式に通行許可が下りているのよ。すぐに通してちょうだい！
+[name="Passing Traveler"]I've gotten official passage! I request to be let through here immediately!
+[name="지나가던 여행자"]나에겐 정식 통행증이 있어! 당장 통과시켜 줘!
 
 [name="搜查队成员"]等等，这是巴特老爷的吩咐——
+[name="調査隊隊員"]待て、これはバット様の命令で――
+[name="Search Team Member"]Hold on, this is by Lord Barth's command—
+[name="수색대 대원"]기다려라. 이건 바스 님의 분부……
 
 [name="无辜的路人"]不过是个有块小属地的破落骑士贵族，充什么威风？
+[name="無実の通行人"]駄獣の蹄くらいの小せぇ領地しか持ってない落ちぶれた騎士貴族ごときが、何を威張り散らしてるんだ？
+[name="Innocent Passerby"]He's just a cruddy knight noble with a hunk of land. Who does he think he is?
+[name="무고한 행인"]손바닥만 한 땅을 가진 몰락한 기사 귀족 주제에 무슨 위세를 부리는 거야?
 
 [name="空爆"]（哈哈哈！）
+[name="カタパルト"]（あはは！　うまくいったや。）
+[name="Catapult"](Hahaha!)
+[name="캐터펄트"](하하하!)
 
 [name="空爆"]（嗯嗯，时机差不多了。）
+[name="カタパルト"]（うん、いい頃合いだね。）
+[name="Catapult"](Mm-hm, and there's my moment.)
+[name="캐터펄트"](음, 곧 기회가 오겠군.)
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="空爆"]呼......
+[name="カタパルト"]ふぅー……
+[name="Catapult"]Phew...
+[name="캐터펄트"]후……
 
 [name="空爆"]总算是出来了。
+[name="カタパルト"]なんとか切り抜けた～。
+[name="Catapult"]Finally, out of there.
+[name="캐터펄트"]간신히 빠져나왔네.
 
 [name="空爆"]抱歉啊刚刚的大叔，你的钱袋我会扔在你车上的。还有那位小姐，真的很对不起，下次找机会一定让你揍我一拳......
+[name="カタパルト"]おじさん、ごめんねー。財布は車の中に投げ入れてあるから。それからお姉さんも、ホント悪いことしちゃったよね。次に会ったら、きっと一発殴らせてあげるからさ――
+[name="Catapult"]Apologies, Mister, I'll toss your wallet in your van. And you over there, Miss, truly very sorry, I'll let you sock me sometime...
+[name="캐터펄트"]미안해 아저씨, 지갑은 차 안에 뒀어. 그리고 아가씨, 정말 미안해. 기회가 닿는다면 꼭 한 대 맞아줄게……
 
 [name="空爆"]但现在只能先对不起了！
+[name="カタパルト"]とりあえず今は勘弁してちょうだい！
+[name="Catapult"]But sorry's all I can give right now!
+[name="캐터펄트"]하지만 지금은 일단 사과만 할게!
 
 [name="空爆"]再会了，各位~
+[name="カタパルト"]またね、みんな～。
+[name="Catapult"]See ya, everybody~
+[name="캐터펄트"]다들, 안녕~
 
 [name="？？？"]与其在这里道歉，不如现在就直接去和当事人说。
+[name="？？？"]こんなところで謝るくらいだったら、いま本人たちに謝りに行けばいいだろう。
+[name="???"]You're better off apologizing to their faces than doing it out here to the trees.
+[name="???"]여기서 이러지 말고 차라리 지금 당장 당사자에게 사과하도록 해.
 
 [name="巡逻骑士"]制造混乱，躲在人群里趁乱逃走，差点就被你骗过去了。
+[name="巡回騎士"]混乱を引き起こし、人混みに紛れて逃げようという作戦か……危うく騙されるところだった。
+[name="Patrolling Knight"]Stir chaos, hide in the crowd and slip out of the mess. You almost fooled me.
+[name="순찰 기사"]혼란을 일으키고, 그 틈에 사람들 속에 숨어서 도망가다니. 하마터면 속아 넘어갈 뻔했군.
 
 [name="空爆"]——！
+[name="カタパルト"]――！
+[name="Catapult"]—!
+[name="캐터펄트"]……!
 
 [name="空爆"]......啊呀，是你啊。
+[name="カタパルト"]……ありゃま、あんたか。
+[name="Catapult"]Oh, hey, it's you.
+[name="캐터펄트"]……아, 너였구나.
 
 [name="空爆"]不妙，还是被抓到了。
+[name="カタパルト"]あーりゃりゃ、結局捕まっちゃったかぁ。
+[name="Catapult"]Still got caught, huh? That's not good.
+[name="캐터펄트"]결국 잡히다니, 큰일이네.
 
 [name="空爆"]我还以为能蒙混过关呢，拉兹你的眼睛还是那么尖。
+[name="カタパルト"]うまくすり抜けられると思ったんだけど、ラズの眼って相変わらず鋭いなぁ。
+[name="Catapult"]I would've gotten away with it too, if it weren't for your sharp eyes, Raz.
+[name="캐터펄트"]속이고 빠져나갈 수 있을 거라 생각했는데, 라즈의 눈은 역시 예리하구나.
 
+[name="巡逻骑士"]
+[name="巡逻骑士"]
+[name="巡逻骑士"]
 [name="巡逻骑士"]
 
 [name="空爆"]
+[name="空爆"]
+[name="空爆"]
+[name="空爆"]
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="空爆"]说来，你什么时候换了这么一身装备？挺帅的哦，看起来真的像是个骑士了，什么时候干脆去注册个骑士资格吧？
+[name="カタパルト"]そういえばあんた、いつこんな格好に変えたの？　まぁまぁイケてるじゃん、ホントの騎士みたいだよ。いっそ騎士の資格でも取ったら？
+[name="Catapult"]Speaking of, when'd you put all this gear on? You look pretty slick, really like a capital-K Knight. May as well enroll for knighthood sometime, right?
+[name="캐터펄트"]그런데 장비는 언제 다 바꾼 거야? 멋진데, 진짜 기사처럼 보여. 나중에 아예 기사로 등록하는 건 어때?
 
 [name="空爆"]死老头不是还一直想着要养一支骑士团嘛。
+[name="カタパルト"]クソじじいも騎士団を持ちたいって、ずっと前から言ってたしさ。
+[name="Catapult"]The old fart's always been wanting to raise up a Knightclub.
+[name="캐터펄트"]영감탱이가 오래전부터 기사단을 키우고 싶어 했잖아.
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="？？？"]目的地......应该是走这条路没错。
+[name="？？？"]目的地へは……この道で間違いなさそうね。
+[name="???"]This road... should take me to my destination, if I'm not mistaken.
+[name="???"]목적지까지는…… 이 길이 맞는 것 같아.
 
 [name="？？？"]嗯？
+[name="？？？"]あら？
+[name="???"]Hm?
+[name="???"]응?
 
 [name="？？？"]哎呀，前面那是......
+[name="？？？"]あそこにいるのは……
+[name="???"]Oh? What's that up there...?
+[name="???"]아, 앞에 저건……
 
 [name="空爆"]怎么不说话？
+[name="カタパルト"]なんで何も言わないの？
+[name="Catapult"]Nothing else to say?
+[name="캐터펄트"]왜 아무 말도 안 해?
 
 [name="空爆"]这就有点不厚道了吧，只有我在说会显得我很啰嗦欸~
+[name="カタパルト"]ちょーっと感じ悪くない？　あたしにばっか話させて、まるであたしがペラペラ喋るうるさい奴みたいじゃんか～。
+[name="Catapult"]Have a care, huh? I'm gonna look real long-winded if it's just me talking, y'know~
+[name="캐터펄트"]좀 너무하네. 계속 나 혼자만 말하니까 나만 수다쟁이처럼 보이잖아~
 
 [name="空爆"]怎么，你不是来抓我回去的吗？再不动手我可就真要溜了哦？
+[name="カタパルト"]なにさ、あたしを捕まえに来たんじゃないの？　さっさとしないとホントに逃げちゃうよ？
+[name="Catapult"]What, you're not here to cuff me and take me back? If you don't do anything, I'm gonna get away, alright? I'm warning you.
+[name="캐터펄트"]뭐야, 날 잡아서 돌아가려던 거 아니었어? 계속 그렇게 아무것도 안 하면 나 진짜 도망가 버린다?
 
 [name="巡逻骑士"]......要是准备抓你，之前就该把你从菲隆那揪出来。
+[name="巡回騎士"]……お前を捕まえるつもりなら、フェロンさんの家でしょっぴいてたよ。
+[name="Patrolling Knight"]If I was going to bring you in, I would've busted you back at Filon's.
+[name="순찰 기사"]……너를 잡을 생각이었다면 네가 필론의 집에 있었을 때 붙잡았겠지.
 
 [name="巡逻骑士"]要是真的这么做了......巴特老爷这次是真的可能会当众吊死你的。
+[name="巡回騎士"]そうしたら……バットの旦那は本当にお前をみんなの前で吊るし首にするかもな。
+[name="Patrolling Knight"]If I actually did that... chances are Lord Barth would give you a public hanging for real.
+[name="순찰 기사"]정말 그렇게 했다면…… 바스 님이 사람들이 보는 앞에서 네 목을 매달았을 거다.
 
 [name="空爆"]也是，哈哈哈。老头子肯定气炸了！
+[name="カタパルト"]そうだね、へへ。じじい怒りすぎて顔が真っ赤になってるのが目に浮かぶよ～。
+[name="Catapult"]True that, hahaha. Old guy's gotta be blowing his top!
+[name="캐터펄트"]그랬겠지. 하하하. 영감은 분명히 화가 머리 꼭대기까지 났을 테니까!
 
 [name="空爆"]那你还特地追出来干什么？难不成是想送我一程？
+[name="カタパルト"]捕まえる気がないならさ、どうしてわざわざ追って来たのよ。もしかしてお見送り？
+[name="Catapult"]So why'd you chase me out here anyway? Did you wanna give me a ride?
+[name="캐터펄트"]그런데 왜 일부러 쫓아온 거야? 설마 배웅이라도 해주려는 거야?
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="巡逻骑士"]是......
+[name="巡回騎士"]そうだ……
+[name="Patrolling Knight"]Yes...
+[name="순찰 기사"]그래……
 
 [name="空爆"]......啊？
+[name="カタパルト"]……えっ？
+[name="Catapult"]...Whuh?
+[name="캐터펄트"]……뭐?
 
 [name="空爆"]拉兹，拉兹老弟。
+[name="カタパルト"]待って待ってラズ――ラズ君よ。
+[name="Catapult"]Raz. Raz, bro.
+[name="캐터펄트"]라즈, 라즈야.
 
 [name="空爆"]不管怎么说，我现在也是老头子点名要抓的通缉犯......你这是玩忽职守啊！
+[name="カタパルト"]あのさ、あたしはクソじじいに名指しで追われている――つまりは指名手配犯なわけよ。なのに君……これって職務怠慢じゃないの？
+[name="Catapult"]Any way you slice it, the old guy's got all hands out for me. I'm wanted by name... You're deserting, here!
+[name="캐터펄트"]어찌 됐든 간에 지금의 나는 영감이 잡고 싶어 하는 지명 수배자야…… 너 이거 직무유기라고!
 
 [name="巡逻骑士"]这话能由你来说？
+[name="巡回騎士"]お前が言うな！
+[name="Patrolling Knight"]And you get to talk?
+[name="순찰 기사"]그게 네가 할 소리야?
 
 [name="巡逻骑士"]当年一起巡逻的时候，是谁直接溜号上街去喝酒——
+[name="巡回騎士"]前一緒にパトロールをしてた時、勝手に持ち場を離れて、街で飲みに行ったのは誰だ？
+[name="Patrolling Knight"]Who slinked off to hit up the streets and go drinking, back when we were on patrol together—
+[name="순찰 기사"]그해에 같이 순찰을 돌 때 거리로 빠져나가 술을 마셨던 게 누구더라……
 
 [name="空爆"]打住打住，不许翻旧账啊。
+[name="カタパルト"]ちょっとちょっと！　昔のことをほじくり返すのはナシでしょ！
+[name="Catapult"]Stoppit, stoppit, let's not reopen old wounds. Bad.
+[name="캐터펄트"]그만, 그만. 옛날 일 들추기 없기.
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="巡逻骑士"]我来是想问你，为什么——
+[name="巡回騎士"]お前に訊きたいことがあって来たんだ。どうして――
+[name="Patrolling Knight"]I came to ask you, why—
+[name="순찰 기사"]사실 물어볼 게 있어서 온 거야. 왜……
 
 [name="空爆"]为什么要放着好日子不过，冒险干这一票？
+[name="カタパルト"]いい暮らしを捨てて、こんな無謀な真似をするのかって？
+[name="Catapult"]Why let go of the good days, and risk it all on this?
+[name="캐터펄트"]왜 좋은 삶을 내다 버리고 모험을 했냐는 거지?
 
 [name="巡逻骑士"]......是。
+[name="巡回騎士"]……そうだ。
+[name="Patrolling Knight"]...Yeah.
+[name="순찰 기사"]……그래.
 
 [name="空爆"]这么没新意可不行~怎么每个人都要问这个问题？
+[name="カタパルト"]まーたそれ。もうちょっと新しい質問ちょうだいよ～。何でみんな同じことばっか訊くかなぁ？
+[name="Catapult"]Man, it's not healthy to be stale like this~ Why's everyone ask this one question?
+[name="캐터펄트"]너무 식상해~ 왜 다들 그걸 궁금해하는 거지?
 
 [name="空爆"]可我实话实说就是因为看老头子不爽，你们又不信！
+[name="カタパルト"]そのくせ、あたしが正直に、「クソじじいにムカついただけだ」って言ってもあんたたちは信じないし！
+[name="Catapult"]And if I confess it was just 'cause I was sick of the old guy, you don't even believe me!
+[name="캐터펄트"]그 영감을 보면 짜증이 나기 때문이라고 사실대로 말해도 안 믿으면서!
 
 [name="巡逻骑士"]我信。
+[name="巡回騎士"]信じるよ。
+[name="Patrolling Knight"]I believe you.
+[name="순찰 기사"]난 믿어.
 
 [name="空爆"]嘎？
+[name="カタパルト"]へっ？
+[name="Catapult"]Guh?
+[name="캐터펄트"]엥?
 
 [name="巡逻骑士"]按你的性格，这个理由很有说服力。
+[name="巡回騎士"]お前の性格なら、その理由は十分に説得力がある。
+[name="Patrolling Knight"]It's a majorly convincing reason, knowing you.
+[name="순찰 기사"]네 성격상 충분히 설득력이 있는 이유야.
 
 [name="空爆"]你这是夸我还是骂我......菲隆哥可一点没信。
+[name="カタパルト"]それって褒めてんの、けなしてるの……？　フェロン兄は全く信じてくれなかったけど。
+[name="Catapult"]Are you commending me, or dunking on me... Filon sure didn't believe me one bit.
+[name="캐터펄트"]칭찬하는 건지 욕하는 건지…… 아무튼 필론 형은 아예 안 믿더라고.
 
 [name="空爆"]算了。都到这时候了，那我就和你说实话。
+[name="カタパルト"]まぁいいや。じゃあもう、そのまんま話すよ？
+[name="Catapult"]Whatever. We're way past that, now. Let me be real with you.
+[name="캐터펄트"]됐다. 이쯤 됐으니까 사실대로 말해줄게.
 
 [name="空爆"]在死老头手下，只要听话我们就吃穿不愁，有点小钱，也许不少人觉得这就是好日子了。
+[name="カタパルト"]そりゃクソじじいの子分をやってたら、いい子さえしてれば、衣食住に困らないし、お小遣いだって貰えるから、人によっちゃあ悪くない暮らしだって思うだろうけどさぁ。
+[name="Catapult"]Under the geezer, as long as we do what we're told, we get everything taken care of, and we get a little allowance. And sure, maybe a whole lot consider those fine days to live.
+[name="캐터펄트"]영감탱이 아래서 얌전히 지내면 먹고살 걱정은 안 해도 되니 꽤 괜찮다고 생각하는 사람들도 많을 거야.
 
 [name="空爆"]但我实在是忍不了了。到处都是让人生气的事儿，我觉得这生活烂透了。
+[name="カタパルト"]だけどあたしは、そんなの腐りきってる生活だって思ってた。見るものやること、ぜーんぶイラつくことばっかで、マジで耐えられなかったんだよね。
+[name="Catapult"]But I just couldn't stand it anymore. Everything that happens everywhere pisses you off. That life grosses me out, down to the core.
+[name="캐터펄트"]하지만 난 참을 수가 없었어. 화나는 일이 곳곳에서 일어나니, 너무 형편없는 삶이라는 생각이 들었거든.
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="空爆"]只是这话，在镇上那些人的面前我说不出口。
+[name="カタパルト"]でも、こんな話は町の人たちの前じゃ口に出せなかったんだよね。
+[name="Catapult"]But I can't say that in front of the people in that town. I can't drop those words.
+[name="캐터펄트"]다만 이런 말은 주민들 앞에서는 할 수가 없었어.
 
 [name="空爆"]没饿过肚子，我哪有资格对着吃不上饭的人嫌弃自己过得不好？
+[name="カタパルト"]飢えた経験もないあたしが、ロクにご飯も食べられない人の前で、自分の生活に文句を言うなんてお笑いでしょ。
+[name="Catapult"]I've never gone hungry. How do I have the right to tell people without a meal to eat that I think my life sucks?
+[name="캐터펄트"]굶어본 적조차 없는 내게 밥도 못 먹는 사람들 앞에서 자신의 삶에 대해 불평할 자격이나 있었겠어?
 
 [name="巡逻骑士"]所以你还是因为那些交不上税的平民......
+[name="巡回騎士"]ということはやはり、重税に苦しむ民衆のために――
+[name="Patrolling Knight"]So you did it for all the civvies who couldn't pay taxes...
+[name="순찰 기사"]그래서 세금을 못 내는 평민들을 위해……
 
 [name="空爆"]哎，别说得我好像什么正义使者一样。我没那么滥好心。
+[name="カタパルト"]あーあ、やっぱそうなる～。まるで正義の味方みたいに言わないでよね。そんな殊勝なもんじゃないんだから。
+[name="Catapult"]Yeuch, don't make me out like some kind of beacon of righteousness. I'm not THAT good-hearted.
+[name="캐터펄트"]에이, 내가 무슨 정의의 사자인 것처럼 얘기하지 마. 나 그렇게 좋은 사람은 아니야.
 
 [name="空爆"]我没指望自己能替其他人做点什么。炸那个死老头的金库也好，把里头的东西全撒了也好，全都只是替我自己出口气。
+[name="カタパルト"]誰かのために何かしてあげたいなんて思ったわけじゃないんだよ。クソじじいの金庫を爆破したのも、その中身をばら撒いたのも……全部ただの憂さ晴らしだよ。
+[name="Catapult"]I wasn't counting on doing something for anyone else's sakes. Blowing that geezer's vault open, dumping everything in there everywhere, that was all just me channeling my revenge.
+[name="캐터펄트"]난 다른 사람을 위해 뭔가 하려던 게 아니야. 영감의 금고를 폭파한 것도, 안에 있던 물건을 전부 주민들한테 뿌렸던 것도, 모두 그저 화풀이일 뿐이었어.
 
 [name="空爆"]就这么简单~
+[name="カタパルト"]それだけの話～。
+[name="Catapult"]Simple as that~
+[name="캐터펄트"]이렇게 간단한 이유였다고~
 
 [name="？？？"]......
+[name="？？？"]……
+[name="???"].......
+[name="???"]……
 
 [name="？？？"]啊呀......
+[name="？？？"]あら……
+[name="???"]Oh, my...
+[name="???"]어머……
 
 [name="？？？"]意外地是个想得很清楚的小孩哦。
+[name="？？？"]意外と考えのはっきりした子じゃない。
+[name="???"]She's a surprisingly clear-minded girl.
+[name="???"]의외로 생각이 명확하구나.
 
 [name="？？？"]不过，还是有一些不太谨慎......
+[name="？？？"]だけど、やっぱり慎重さには少し欠けるわね……
+[name="???"]But still, not quite that cautious...
+[name="???"]하지만 역시 신중함이 조금 부족해……
 
 [name="搜查队成员"]拉兹——！
+[name="調査隊隊員"]ラズ――！
+[name="Search Team Member"]Raz—!
+[name="수색대 대원"]라즈……!
 
 [name="搜查队成员"]你在这干什么呢？
+[name="調査隊隊員"]ここで何してるんだ？
+[name="Search Team Member"]What are you doing here?
+[name="수색대 대원"]여기서 뭐 하는 거야?
 
 [name="空爆&巡逻骑士"]！
+[name="カタパルト＆巡回騎士"]！
+[name="Catapult & Patrolling Knight"]!
+[name="캐터펄트&순찰 기사"]!
 
 [name="巡逻骑士"]不好，他们往这边过来了，你快躲起来！
+[name="巡回騎士"]まずい、あいつらがやって来た、早く隠れろ！
+[name="Patrolling Knight"]Oh, crap, they're coming this way! Hide somewhere, quick!
+[name="순찰 기사"]큰일이네, 수색대가 이쪽으로 오고 있어. 빨리 숨어!
 
 [name="空爆"]你说得容易......这里没地方能躲啊？！
+[name="カタパルト"]って簡単に言ってくれるけどさぁ……ここには隠れる場所なんてないんだけどっ！？
+[name="Catapult"]Easy for you to say... there's nowhere to hide here, is there?!
+[name="캐터펄트"]말이 쉽지…… 여기 숨을 곳이 대체 어디 있다고?!
 
 [name="搜查队成员"]拉兹？你在干什么......你是在和什么人说话？
+[name="調査隊隊員"]ラズ、何してる……？　誰と話してるんだ？
+[name="Search Team Member"]Raz? What are you doing... are you talking to somebody?
+[name="수색대 대원"]라즈? 여기서 뭐 하는 거야……누구랑 얘기하고 있는 거야?
 
 [name="巡逻骑士"]我——
+[name="巡回騎士"]俺は――
+[name="Patrolling Knight"]I—
+[name="순찰 기사"]난……
 
 [name="空爆"]（糟了，来不及了！）
+[name="カタパルト"]（ヤバイヤバイ、間に合わない！）
+[name="Catapult"](Crap, I can't make it!)
+[name="캐터펄트"](이런, 늦었다!)
 
 [name="？？？"]不好意思，是我稍微占用了这位先生一点时间。
+[name="？？？"]すみません、少々彼に時間を取らせてしまいました。
+[name="???"]Excuse me, sorry for that. I was occupying this kind gentleman's time.
+[name="???"]죄송합니다. 제가 이분 시간을 좀 뺏었네요.
 
 [name="空爆"]（——谁？）
+[name="カタパルト"]（――誰？）
+[name="Catapult"](—Who?)
+[name="캐터펄트"](……누구지?)
 
 [name="空爆"]（从背后走出来的......这个女人难道刚刚一直就在我身后？！）
+[name="カタパルト"]（背後から出てきたよね、この女の人……まさかさっきからずっと私の後ろにいたの？）
+[name="Catapult"](She walked out from behind... was she seriously behind me the whole time?!)
+[name="캐터펄트"](등 뒤에서 걸어 나왔어…… 설마 지금까지 계속 내 뒤에 있었나?!)
 
 [name="搜查队成员"]嗯？什么人？
+[name="調査隊隊員"]ん？　誰だ？
+[name="Search Team Member"]Hm? Who is it?
+[name="수색대 대원"]응? 누구지?
 
 [name="搜查队成员"]你是......等等，不，您、您是？！
+[name="調査隊隊員"]待てよ……あんた――いや、あ、あなたは！？
+[name="Search Team Member"]You're... wait, it can't be, i—it's you?!
+[name="수색대 대원"]넌…… 잠깐, 아니, 다, 당신은?!
 
 [name="？？？"]打扰各位了。请不要这样紧张，我只是路过这里的旅人。
+[name="？？？"]私はただの通りすがりの旅人です。お邪魔して申し訳ありません。そう緊張なさらず。
+[name="???"]Pardon me. Please, don't be so nervous. I'm just a traveler passing through.
+[name="???"]실례했네요. 너무 긴장하지 마세요. 저는 그저 지나가는 여행자일 뿐인걸요.
 
 [name="？？？"]刚刚是我在向这位先生问路。
+[name="？？？"]さっきは、私がこの方に道を尋ねていたんです。
+[name="???"]I was asking this gentleman the way just now.
+[name="???"]방금 제가 이분에게 길을 물어봤었어요.
 
 [name="搜查队成员"]是......这样吗？
+[name="調査隊隊員"]そ……そうなのか？
+[name="Search Team Member"]Huh... is that right?
+[name="수색대 대원"]그런…… 거야?
 
 [name="巡逻骑士"]啊......啊，没错。
+[name="巡回騎士"]あ……そ、その通りだ。
+[name="Patrolling Knight"]Uh... yeah, that's right.
+[name="순찰 기사"]아…… 응, 맞아.
 
 [name="巡逻骑士"]......
+[name="巡回騎士"]……
+[name="Patrolling Knight"]......
+[name="순찰 기사"]……
 
 [name="巡逻骑士"]......请问，您是......难道您是那位烛骑士？
+[name="巡回騎士"]……失礼ですが、あなたは……もしかしてあの燭騎士では？
+[name="Patrolling Knight"]Um, forgive me, but are you... by any chance, the Candle Knight?
+[name="순찰 기사"]……저기, 당신은…… 설마 양초의 기사십니까?
 
 [name="？？？"]啊，那确实是我的封号。
+[name="？？？"]ええ、確かにそれは私の称号です。
+[name="???"]Ah. That is indeed my title.
+[name="???"]아, 그게 저의 칭호이긴 합니다.
 
 [name="搜查队成员"]烛骑士？！就是那个有名的莱塔尼亚人骑士......我还看过好几场比赛呢！
+[name="調査隊隊員"]燭騎士！？　あの有名なリターニアの騎士ですか？　何度か試合を見たことがありますよ！
+[name="Search Team Member"]The Candle Knight?! THE renowned Knight from Leithanien... I've seen a whole bunch of your matches!
+[name="수색대 대원"]양초의 기사?! 그 유명한 라이타니엔 기사인가…… 경기도 몇 번 봤었는데!
 
 [name="搜查队成员"]居然能在这里见到您这样的名人！这......这，骑士小姐，能、能请您给我签个名吗？
+[name="調査隊隊員"]こんな所であなたのような有名人に出会えるとは！　あ……あの、騎士様、よろしければ、サ、サインを頂けませんか？
+[name="Search Team Member"]I never expected to meet someone as famous as you here! C... Could you, um, sign—sign this for me, Miss Knight?
+[name="수색대 대원"]당신 같은 유명인을 이런 곳에서 만나다니! 저…… 저기, 기사님 사, 사인해 주실 수 있으신가요?
 
 [name="？？？"]谢谢您的夸赞。如果我的签名就可以的话，非常乐意。
+[name="？？？"]お褒めに与かり光栄です。私のサインで良ければ喜んで。
+[name="???"]I appreciate your praise. If just my signature suffices, I would be delighted.
+[name="???"]칭찬해주셔서 감사드려요. 제 사인이라도 괜찮다면 기꺼이 해드릴게요.
 
 [name="空爆"]（这女人完全把其他人的注意都引走了！）
+[name="カタパルト"]（うぉう、あの人完全に場の中心になってる。）
+[name="Catapult"](This lady's totally distracting everyone!)
+[name="캐터펄트"](저 여자가 다른 사람들의 주의를 완전히 끌어 버렸어!)
 
 [name="空爆"]（到底......）
+[name="カタパルト"]（でもどうして急に……）
+[name="Catapult"](Just who...)
+[name="캐터펄트"](도대체가……)
 
 [name="？？？"]......
+[name="？？？"]……
+[name="???"].......
+[name="???"]……
 
 [name="？？？"]（嘘。）
+[name="？？？"]（しーっ。）
+[name="???"](Shh.)
+[name="???"](쉿)
 
 [name="空爆"]（她这是在朝我眨眼......？！）
+[name="カタパルト"]（えっ、今、あたしに目くばせした……！？）
+[name="Catapult"](Is she winking at me...?!)
+[name="캐터펄트"](이 여자, 지금 나한테 윙크한 건가……?!)
 
 [name="？？？"]这里似乎不是交谈的好地方，不介意的话，我们边走边说吧？
+[name="？？？"]立ち話もなんですから、良ければ歩きながらお話ししませんか？
+[name="???"]This doesn't seem too well a place for conversation. If you don't mind, shall we talk as we go?
+[name="???"]여기는 이야기를 나누기에 좋은 장소는 아닌 것 같네요. 괜찮다면 걸으면서 얘기할까요?
 
 [name="？？？"]正好我想要拜访这里的领主阁下......可以劳烦诸位带路吗？
+[name="？？？"]ちょうどここの領主様を訪ねようと思っていたんです……皆さんに道案内をお願いしてもいいかしら？
+[name="???"]I've been wanting to pay a visit to the good Lord of this place, as it turns out... so could I trouble you all to show me the way?
+[name="???"]마침 이곳의 영주님께 인사도 드리고 싶었는데…… 안내 좀 부탁드려도 될까요?
 
 [name="搜查队成员"]当然......当然！
+[name="調査隊隊員"]も、もちろんです！
+[name="Search Team Member"]Of course... of course!
+[name="수색대 대원"]무…… 물론이죠!
 
 [name="空爆"]（真的把人都引走了......我这是，被救了？）
+[name="カタパルト"]（ホントにみんなを引き連れて行っちゃった……あたし、あの人に助けられたの？）
+[name="Catapult"](She led them off for real... Did she—save me?)
+[name="캐터펄트"](정말 사람들을 다 데리고 갔네…… 이거, 도움받은 건가?)
 
 [name="巡逻骑士"]（空爆。）
+[name="巡回騎士"]（カタパルト。）
+[name="Patrolling Knight"](Catapult.)
+[name="순찰 기사"](캐터펄트.)
 
 [name="空爆"]（什么？）
+[name="カタパルト"]（何？）
+[name="Catapult"](What?)
+[name="캐터펄트"](왜?)
 
 [name="巡逻骑士"]（其实我过来找你，不是为了什么别的。）
+[name="巡回騎士"]（お前に会いに来たのは、特別な理由があるわけじゃないんだ。）
+[name="Patrolling Knight"](To be honest, I didn't have any other real reason to come find you.)
+[name="순찰 기사"](사실 너를 찾아온 별다른 이유는 없어.)
 
 [name="巡逻骑士"]（我只是想亲口对你说一句......我没有像你这样的勇气，但我佩服你。）
+[name="巡回騎士"]（ただ自分の口から伝えたかったんだ……俺にはお前のような勇気はない。だからお前のことを尊敬している。）
+[name="Patrolling Knight"](I just wanted to tell you this, personally... I don't have your courage, but I admire you.)
+[name="순찰 기사"](난 그저 직접 너에게…… 너처럼 용기는 없지만, 항상 너를 존경한다고 말하고 싶었어.)
 
 [name="巡逻骑士"]（这个小镇太小了，这里对你来说或许是种拘束。）
+[name="巡回騎士"]（この町は小さすぎて、お前にとっては息苦しかったのかもしれないな。）
+[name="Patrolling Knight"](This little town's too little. Maybe this whole place confines you, in a way.)
+[name="순찰 기사"](이 마을은 너무나도 작아. 이곳은 너에게 있어 족쇄였을지도 몰라.)
 
 [name="巡逻骑士"]（趁现在，你快走吧。）
+[name="巡回騎士"]（早く行け、今のうちに。）
+[name="Patrolling Knight"](Seize the moment. Go on.)
+[name="순찰 기사"](지금이야, 어서 가.)
 
 [name="空爆"]......
+[name="カタパルト"]……
+[name="Catapult"]......
+[name="캐터펄트"]……
 
 [name="空爆"]哎......
+[name="カタパルト"]はぁ……
+[name="Catapult"]Ahh...
+[name="캐터펄트"]에휴……
 
 [name="空爆"]麻烦了。本来还想着把该算的账都算清了，能潇潇洒洒地开始新生活的。
+[name="カタパルト"]めんどくさいことになっちゃったい。全部精算して、すっきりした気持ちで新生活を始めようと思ってたのになぁ。
+[name="Catapult"]What a nightmare. Here I was banking on having all my bills settled, and I could start my new life free as the wind.
+[name="캐터펄트"]귀찮게 됐네. 원래는 갚아야 할 걸 다 갚고 자유롭게 새로운 삶을 시작할 수 있을 줄 알았는데.
 
 [name="空爆"]仔细想想，这一路不是又欠了新的人情嘛。
+[name="カタパルト"]結局さ～、すっきりさっぱりおさらばするどころかよ、あちこちに山ほど新しい借りを作っちゃったじゃんか。
+[name="Catapult"]If I think about it, I've racked up new favors along the way now.
+[name="캐터펄트"]곰곰이 생각해보니까 길을 가는 동안 또 새로운 빚을 져버렸잖아.
 
 [name="空爆"]唔......
+[name="カタパルト"]うーん……
+[name="Catapult"]Nyeaah...
+[name="캐터펄트"]음……
 
 [name="空爆"]算啦~在老家留几个回想起来还不错的兄弟，这种感觉也不差~
+[name="カタパルト"]まぁいっか～。これっきりにするんじゃなくて、故郷にいい奴らって思える仲間どもを残したまんまでいるのも、悪くないよね。
+[name="Catapult"]Oh, well~ I've got a few decent bros in my old haunt I can think back on, and that's not a bad feeling~
+[name="캐터펄트"]뭐~ 고향에 기억에 남을 훌륭한 동료들을 몇 명 남겨두는 것도 나쁘진 않을 것 같네~
 
 [name="空爆"]还有那位烛骑士小姐，真是个怪人......不过确实帮了大忙，下次再有比赛，就押你全胜当作报答好了！
+[name="カタパルト"]あの燭騎士ってお姉さん、どーも変な人だったなぁ～……でも、おかげでめっちゃ助かったのは確かだよね。今度試合があったら、恩返しとしてあんたの全勝に賭けるから！
+[name="Catapult"]And that Candle Knight lady. What a serious weirdo... but she helped me out big time, so consider my 100% fan loyalty as my payment!
+[name="캐터펄트"]그리고 양초의 기사라는 아가씨는 정말 이상한 사람이었어…… 하지만 큰 도움을 줬으니까 다음에 또 경기가 있다면 전승에 베팅하는 것으로 보답해야겠어!
 
 [name="空爆"]......这回可真的是再会了，各位。
+[name="カタパルト"]さぁーて……これでホントにさよならだね、みんな。
+[name="Catapult"]I guess this really is goodbye... everyone.
+[name="캐터펄트"]……다들, 이젠 정말 안녕이야.
 
 [name="空爆"]再会了......
+[name="カタパルト"]またね……
+[name="Catapult"]See you again...
+[name="캐터펄트"]안녕……
 
 [name="空爆"]呼......
+[name="カタパルト"]ふ～……
+[name="Catapult"]Phew...
+[name="캐터펄트"]후……
 
 [name="空爆"]好了，现在该好好想想，接下来该去哪才好呢~
+[name="カタパルト"]さぁて、これからどこへ行くかはよーく考えないとね……
+[name="Catapult"]Alright, time to really think about it now. Where should I be off to next, I wonder~
+[name="캐터펄트"]그럼, 이제 어디로 갈지 생각해볼까~
 
 [name="空爆"]嗯......
+[name="カタパルト"]うーん……よし！
+[name="Catapult"]Hm...
+[name="캐터펄트"]음……
 
 [name="空爆"]总之先离开卡西米尔，到外面看看吧！
+[name="カタパルト"]まずはカジミエーシュを離れて、外の世界をのぞいてみよっと！
+[name="Catapult"]Well, let's leave Kazimierz for starters, and go see what the world beyond is like!
+[name="캐터펄트"]일단 카시미어를 떠나 바깥세상부터 좀 봐야겠다!
 

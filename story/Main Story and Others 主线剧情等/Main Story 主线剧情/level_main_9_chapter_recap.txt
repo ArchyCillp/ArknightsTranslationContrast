@@ -1,270 +1,675 @@
 [Subtitle(text="从切尔诺伯格醒来，已经过去了多久了？", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="チェルノボーグで目覚めてから、どれだけ時間が経ったのだろう？", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="How long has it been, already, since you awoke in Chernobog?", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="체르노보그에서 깨어난 지 얼마나 지났을까?", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="转眼之间，恍如隔世。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="瞬きの間に、何もかもが一変してしまったように感じる。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The span of a blink. Like a lifetime ago.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="모든 게 순식간에 바뀌어 버린 것 같다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="还记得，那个时候睁眼看到的光，和听到的呼唤声。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="まぶたを開けた時に見た光を、聞こえた呼び声を、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember, when you opened your eyes, the light you saw, and the voice you heard calling.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="눈을 떴을 때 보이는 빛, 그리고 들렸던 부름 소리가 아직도 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="模糊的声音"]   ......抱歉......
+[name="謎の声"]   ……ごめんなさい……
+[name="Distant Voice"]   ...Sorry...
+[name="정체불명의 목소리"]   ……미안해요……
 
 [name="模糊的声音"]   又让你受苦了。
+[name="謎の声"]   また苦しめることになってしまって。
+[name="Distant Voice"]   For making you suffer again...
+[name="정체불명의 목소리"]   또 아프게 해드렸네요.
 
 [Subtitle(text="还记得少女的手的温度。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="少女の手のぬくもりを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember the warmth of the girl's hand.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="소녀의 손에 있던 온기가 아직도 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="？？？"]   ......
+[name="？？？"]   ……
+[name="???"]   ......
+[name="???"]   ……
 
 [name="？？？"]   博士......
+[name="？？？"]   ドクター……
+[name="???"]   Doctor...
+[name="???"]   박사님……
 
 [name="？？？"]   ......手！
+[name="？？？"]   ……手を……
+[name="???"]   ...hand!
+[name="???"]   ……손을……
 
 [name="？？？"]   抓紧我的手！！
+[name="？？？"]   私の手を握って！！
+[name="???"]   Take my hand!!
+[name="???"]   제 손을 잡으세요!!
 
 [Subtitle(text="还记得，离开沉睡之处，见到的残破不堪的世界。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="眠りに就いていた場所を出て目にした、荒れ果てた世界を、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember, where you left your slumber, the unbearably broken world that greeted you.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="잠들었던 곳에서 나왔을 때 봤던, 처참히 파괴된 이 세상이 아직도 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="还记得，无数敌人藏匿其中，虎视眈眈。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="無数の敵が身を潜め、虎視眈々と目を光らせていたことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember, hiding among the countless enemies, an unerring gaze.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="무수히 많은 적이 숨어 호시탐탐 노렸던 게 아직도 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="？？？"]  哼，逃跑......
+[name="？？？"]  フンッ、逃げるか……
+[name="???"]  Hmph. Trying to run...?
+[name="???"]  흠, 도망쳤나……
 
 [name="？？？"]  又能逃到哪里？
+[name="？？？"]  だが、どこに逃げるつもりだ？
+[name="???"]  Where do you think you're going?
+[name="???"]  하지만 이제 도망칠 곳이 있을까?
 
 [name="？？？"]  去，撕碎他们。
+[name="？？？"]  行け、奴らを八つ裂きにしろ。
+[name="???"]  Go. Tear them apart.
+[name="???"]  가라, 놈들을 찢어버려.
 
 [Subtitle(text="依然记得，在与敌人的一波波战斗中，天灾就这样爆发了。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="戦いの中、唐突に訪れて、爆発的な猛威を振るった天災を……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember as before, battling with wave after wave of hostiles, the Catastrophe taking its callous hold.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="적과의 싸움 속에서, 재앙이 그렇게 들이닥친 것도 여전히 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="以及比天灾更可怕的敌人。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="――そして、その天災よりも恐ろしい敵のことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="And the enemy more fearsome than the Catastrophe still.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고, 재앙보다 더 끔찍한 적들.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="塔露拉"]   我将赐予你们一个我十分喜爱的结局。
+[name="タルラ"]   私が好む結末を贈ってやろう。
+[name="Talulah"]   I shall grant you an ending that I am quite fond of.
+[name="탈룰라"]   너희에게 마지막을 선사하도록 하지, 내가 좋아하는 방법으로.
 
 [name="塔露拉"]   ——毁灭。
+[name="タルラ"]   ――滅せよ。
+[name="Talulah"]   ...Disappear.
+[name="탈룰라"]   ……파멸하라.
 
 [Subtitle(text="大家付出了大量的牺牲，付出了沉重的代价。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……皆が大きな代償を、多くの犠牲を、支払った。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Those around you made great sacrifices. Paid the ultimate price.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="모두가 많은 희생을 치렀고 혹독한 대가를 치렀다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="每个人的名字，每个人的样貌，你都牢牢记得。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="一人一人の名前も、姿も――あなたは、はっきりと覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Each name, each likeness, you firmly remember.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="모든 이의 이름, 모든 이의 얼굴, 당신은 또렷이 기억하고 있다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="即使如此，也没有多少时间留给你去熟悉罗德岛的一切。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="それでも、ロドスのすべてを知りうる時間は、あなたに与えられていなかった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Even so, you weren't spared much time to familiarize yourself with all that Rhodes Island is, and was.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그렇다고 해도, 로도스 아일랜드의 모든 것을 익힐 시간이 많이 남아 있진 않다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="切尔诺伯格的暴动只是个开始，罗德岛不得不马上前往龙门。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="チェルノボーグの暴動発生から間を置くことなく、ロドスは龍門へ急行したからだ。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The insurrection in Chernobog was only a beginning. Rhodes Island was pressed to swiftly proceed to Lungmen.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="체르노보그 폭동은 단지 시작일 뿐, 로도스 아일랜드는 곧바로 용문으로 떠나야 했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="因为龙门很有可能会成为整合运动无差别攻击的下一个目标。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="それは、龍門がレユニオンによる無差別攻撃の次なる対象である可能性が高いと判断されたためだった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Because it was more than likely that Lungmen would become the next target of Reunion's indiscriminate attacks.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="용문은 리유니온의 다음 무차별 공격 대상이 될 가능성이 컸기 때문이다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="为了取得龙门总督魏彦吾的信任，罗德岛来到贫民区进行调查。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="龍門総督ウェイ・イェンウの信頼を得るべく、ロドスはスラムでの調査を行った。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="To earn the trust of Lungmen Chief Executive Wei Yenwu, Rhodes Island carried out an investigation in the slums.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="용문의 총독인 웨이 옌우의 믿음을 얻기 위해 로도스 아일랜드는 슬럼가에서 조사를 감행했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="记得在这里，到处都能看到感染者的疾苦。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="スラムの至るところで、感染者の苦難を目に映したことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember here, you saw the plight of the Infected wherever you looked.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="거기서 고통에 허덕이는 감염자들을 곳곳에서 볼 수 있었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="以及在疾苦之下，已经渗透进入的，誓要反抗的整合运动。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="そして、苦しみの中で抵抗を誓い、人々の間へ溶け込んで、彼らを取り込みつつあったレユニオン・ムーブメントの……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="And in that plight, the infiltration of Reunion, determined to resist.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고 그 고통 속에 스며들어 반항을 다짐한 리유니온도.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="还记得，那个仅仅是被卷入其中的少女，她却是整合运动真正的目标。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……真の目的は、一人の少女にあったことを、覚えている。 彼女はただ巻き込まれただけだった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember, a little girl who had been drawn into all this, she was Reunion's true target.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그저 휘말렸을 뿐인 그 소녀가 리유니온의 진짜 목적이었던 게 아직도 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="那个本来生性善良的她，最终选择了拿起武器拯救自己的同胞。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="純粋で優しかった彼女が最終的に選んだのは、自らの同胞を救うべく武器を手に取る道だった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Once kindhearted by nature, she ultimately chose to take up arms to save her own people.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="순수하고 상냥했던 소녀는 결국 무기를 들고 동포를 구하는 길을 선택했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="还记得，她自己却并没有得到拯救。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="けれど、彼女自身には救いなど訪れなかったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember. How she, herself, never was saved.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그러나, 정작 그녀는 구원받지 못했던 그 일을…… 아직도 기억하고 있다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="陈"]   人总是会超出预期。
+[name="チェン"]   本質的に、人の行動というものは予測しようがない。
+[name="Ch'en"]   People always have a way of surpassing your expectations.
+[name="첸"]   사람이 하는 일은 종종 예측을 뛰어넘곤 하지.
 
 [name="陈"]   感染者更会如此。
+[name="チェン"]   それが感染者であれば、なおのことだ。
+[name="Ch'en"]   Even moreso when it comes to the Infected.
+[name="첸"]   그런데 감염자는 그 이상이다.
 
 [name="陈"]   力量使人疯狂，欲望使人堕落。
+[name="チェン"]   力は人を狂わせ、欲望は人を堕落させる。
+[name="Ch'en"]   Power begets madness, and desire begets depravity.
+[name="첸"]   힘은 사람을 미치게 하고, 욕망은 사람을 타락하게 해.
 
 [name="陈"]   像癌症一样，一点点侵蚀着所有美好的事物。
+[name="チェン"]   まるで癌と同じ様に、少しずつ全ての美しい物事を侵食していく。
+[name="Ch'en"]   They are cancers, eroding away at all that is good in the world.
+[name="첸"]   마치 암세포처럼, 모든 아름다운 것들을 조금씩 갉아 먹는다.
 
 [name="阿米娅"]   ......
+[name="アーミヤ"]   ……
+[name="Amiya"]   ......
+[name="아미야"]   ……
 
 [name="陈"]   如果你想留着，就留着吧。
+[name="チェン"]   形見として持ち帰りたいなら、それでもいい。
+[name="Ch'en"]   If you want to keep it, I won't stop you.
+[name="첸"]   만약 가지고 가고 싶다면, 그렇게 해라.
 
 [name="陈"]   总有一天，这种面具会堆满你的房间。
+[name="チェン"]   いつの日か、そんなマスクが君の部屋を埋め尽くすだろう……
+[name="Ch'en"]   Just know that one day, your room will be filled with masks like this.
+[name="첸"]   언젠가 그런 가면이 네 방을 가득 채우겠지.
 
 [name="陈"]   所有人都要为他们的选择承担后果。感染者与否，都没有区别。
+[name="チェン"]   全ての人々が、自身の選択とその結果に責任を持つべきだ。それには感染者か否かは関係ない。
+[name="Ch'en"]   All people must bear the consequences for the choices they make... Infected, or otherwise.
+[name="첸"]   모든 사람은 자신의 선택이 가져온 결과에 책임을 져야 해. 그건 감염자든 비감염자든 모두 마찬가지다.
 
 [Subtitle(text="记得与此同时，侦察小队在切尔诺伯格分区中，也发现了聚集的整合运动。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="それと時を同じくして、チェルノボーグのとある区画で、ロドスの偵察小隊がレユニオンの集団を発見していたことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember how, at the same time, within the districts of Chernobog, the recon team found Reunion assembled.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고, 정찰팀이 체르노보그에 모여있는 리유니온을 발견했던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="梅菲斯特"]   他们逃了。
+[name="メフィスト"]   仲間を見捨て脇目も振らず逃げ出した。
+[name="Mephisto"]   They ran away.
+[name="메피스토"]   전부 도망쳐 버렸지.
 
 [name="梅菲斯特"]   他们反应很快。在我们动手之前，就逃了。
+[name="メフィスト"]   何かに勘付いたのか、僕たちが手を出す前に逃げ出したんだ。
+[name="Mephisto"]   They had pretty quick reactions. Ran away before we had a chance to take action.
+[name="메피스토"]   뭔가 눈치를 챘는지, 우리가 손을 쓰기 전에 도망쳐 버렸더라고.
 
 [name="梅菲斯特"]   解开了地区锁，开足了马力，动用一切移动手段——
+[name="メフィスト"]   移動都市群の連結を解き放ち、全速力で、可能な限りの手段を使って――
+[name="Mephisto"]   Disconnected themselves, and took off as quickly as they could––
+[name="메피스토"]   도시의 연결을 해제하고 전속력으로…… 쓸 수 있는 모든 이동 수단을 모두 동원해서 말이야……
 
 [name="梅菲斯特"]   但他们又能逃到哪里去呢？
+[name="メフィスト"]   逃げられる場所なんてないのにね。
+[name="Mephisto"]   But where did they hope to escape to?
+[name="메피스토"]   그런데 그렇게 도망쳐봤자 어디로 갔겠어?
 
 [Subtitle(text="记得在营救陷入危机的小队的过程中，第一次见到了如冰霜般的少女。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="危機に瀕した小隊を救出する過程で、氷そのもののような少女と初めて出会ったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember, as you rescued the imperiled team, the first time you saw the girl who was as frost.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="위기에 빠진 소대를 구출하는 과정에서 얼음 같은 소녀를 처음 만났던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="还记得，这也是整合运动的陷阱。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="しかしそれもまた、レユニオンの罠だったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember. This, too, was Reunion's trap.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그것 또한 리유니온의 함정이었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="记得，在近卫局兵力都追击外沿的整合运动残兵之时。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="龍門外縁部にいたレユニオンの残兵を、近衛局の兵力が追撃していた時のことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember. The L.G.D. forces pursuing the Reunion remnants to the outer edge.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고 근위국 병력이 외곽에 남은 리유니온 잔병들을 추격했던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="敌人从内部发起进攻，以近卫局为中心，袭击了龙门。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="敵は近衛局を中心に、都市内部から攻撃を仕掛け、龍門を襲撃したのだ。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The enemy launched their offensive from inside, with the L.G.D. at the center, and assailed Lungmen.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="하지만 적은 내부로부터 공격을 시작해, 근위국을 중심으로 용문을 습격했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="陈"]   ——我已经安全了。
+[name="チェン"]   ――私は無事だ。
+[name="Ch'en"]   ...I'm safe now.
+[name="첸"]   ……나는 무사하다.
 
 [name="陈"]   但......
+[name="チェン"]   だが……
+[name="Ch'en"]   But...
+[name="첸"]   하지만……
 
 [name="陈"]   ......
+[name="チェン"]   ……
+[name="Ch'en"]   ......
+[name="첸"]   ……
 
 [name="陈"]   ......整合运动已经攻占了近卫局的一处重要设施，正在强行打开贫民区与外城的通路。
+[name="チェン"]   ……レユニオンが近衛局の中枢施設を占拠し、スラム街から龍門外環に通じる道をこじ開けようとしている。
+[name="Ch'en"]   ...Reunion took over one of our important facilities and is now forcefully opening a passage between the slums and the outer city.
+[name="첸"]   ……리유니온이 근위국의 주요 거점을 점거하고, 슬럼가에서 용문 외곽으로 통하는 길을 억지로 열려 하고 있다.
 
 [Subtitle(text="记得，年轻的督察誓要靠自己的力量夺回近卫局，击溃在龙门暴动的敌人。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="若き警官が、自らの手で近衛局を取り戻し、龍門で暴動を起こす敵を殲滅すると誓ったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember. The young Inspector swearing to retake the L.G.D. by her own strength, and defeat the insurrectionist foe within Lungmen.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="특별감찰팀의 젊은 팀장이 자신의 힘으로 근위국을 되찾아, 용문에서 폭동을 일으킨 적을 궤멸시키겠다고 맹세했던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="记得，她也经历了挫折，但是依然不屈不挠。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="挫折を味わった彼女がそれでも屈しなかったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember. She, too, went through setbacks, but remained unyielding.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그녀는 좌절을 겪었지만, 여전히 굴복하지 않았다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="陈"]  也许我确实变了。时间久了，我对龙门的不满越来越少，相信我的人也越来越多。
+[name="チェン"]  もしかすると本当に私は変わったのかもな。だから龍門への不満が減り、私のことを信頼してくれる者たちが増えたのかも知れない。
+[name="Ch'en"]  Maybe I have changed. As time passed, I've had fewer grievances about Lungmen, and I've been able to place my trust in more people.
+[name="첸"]  어쩌면 난, 정말 변했을지도 몰라. 시간이 지나면서 용문에 대한 불만은 점점 적어졌고, 나를 믿는 사람도 점점 많아졌지.
 
 [name="陈"]  你也不再仅仅是星熊督察了，你是我的朋友，我的搭档，星熊。
+[name="チェン"]  お前ももうただのホシグマ督察官などではない。お前は私の友人であり、パートナーのホシグマだ。
+[name="Ch'en"]  You are no longer just Inspector Hoshiguma. You are my friend, and my partner.
+[name="첸"]  내게 있어 넌 더 이상 그냥 호시구마 경감이 아니다. 넌 내 친구이자, 나의 파트너인…… 호시구마야.
 
 [name="陈"]  你的盾，你替我撑了这么久；偶尔也要允许我做一回你的盾牌，星熊。
+[name="チェン"]  お前の盾がいつも私を守ってくれた。たまには私にもお前の盾をやらせてくれ、ホシグマ。
+[name="Ch'en"]  Your shield has protected me all this time; so once in a while, you should let me be your shield..
+[name="첸"]  네 방패는 지금까지 늘 날 받쳐줬잖아. 가끔은 내가 네 방패가 될 수 있게 해줘, 호시구마.
 
 [name="星熊"]  哗。你说这话脸都不红一下的吗？
+[name="ホシグマ"]  ……まったく…そんな恥ずかしい台詞をよく真顔で言えますね。
+[name="Hoshiguma"]  Whew. You're not even going to blush after saying all that?
+[name="호시구마"]  와…… 그런 대사를 어떻게 얼굴 한 번 안 붉히고 할 수 있지?
 
 [name="陈"]  但无论如何，我们都是近卫局，我们不是暴徒，不是罪犯。
+[name="チェン"]  しかしいずれにしろ、我々こそが近衛局だ。我々は暴徒でも、犯罪者でもない。
+[name="Ch'en"]  No matter how you feel, we are the L.G.D. We aren't rioters, nor are we criminals.
+[name="첸"]  하지만 어찌 되었든, 우리는 모두 근위국이다. 우리는 폭도도, 범죄자도 아니다.
 
 [name="陈"]  我们要夺回近卫局，未必是出于尊严或者正义。
+[name="チェン"]  近衛局を取り戻すことに、諸君は必ずしも尊厳や正義を掲げる必要はない。
+[name="Ch'en"]  We will take back our headquarters, not necessarily for the sake of pride or justice.
+[name="첸"]  우리가 근위국을 되찾는 것은 존엄이나 정의 때문일 필요는 없다.
 
 [name="陈"]  我们是龙门近卫局，我们拿回属于我们自己的东西，这已经足够了。
+[name="チェン"]  我々は龍門近衛局だ、奪われたものを取り戻す、ただそれだけだ。
+[name="Ch'en"]  We will do it because we are the L.G.D., and we will take back what belongs to us. That's the only reason we need.
+[name="첸"]  용문 근위국으로서, 우리의 것을 되찾자. 그것만으로 충분하다.
 
 [name="陈"]  不要让龙门为我们担忧。记住了吗！服从，尽职，坚定！
+[name="チェン"]  揺るぎない信念に従い、職務を全うせよ！　総員戦闘準備！
+[name="Ch'en"]  Do not make Lungmen worry about us. Do I make myself clear?! Obedience, diligence, and perseverance!
+[name="첸"]  용문이 더 이상 우리 때문에 걱정하는 일은 없어야 한다. 다들 기억하고 있나! 복종, 직책, 결의!
 
 [name="陈"]  是时候了，就让我们去摧毁近卫局里的所有整合运动！
+[name="チェン"]  時は来た。ビル内のレユニオンを一掃する。
+[name="Ch'en"]  It's time. Let us rid the L.G.D. Headquarters of every last Reunion member!
+[name="첸"]  이제 때가 되었다. 근위국에 있는 리유니온을 모조리 쓸어버려라!
 
 [Subtitle(text="记得她充满了勇气，勇闯敌阵。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女が果敢に敵陣へと乗り込んでいったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember her brimming with courage, bravely charging the enemy ranks.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그녀가 호기롭게, 그리고 용감하게 적진에 뛰어들었던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="梅菲斯特"]  长官，我知道你是什么。我的源石技艺只对感染者有效果。
+[name="メフィスト"]  隊長さん、僕は君が一体何者なのか知ってるよ。僕のアーツは感染者にしか効果がないからね。
+[name="Mephisto"]  Officer, I know what you are. My Originium Arts only work on the Infected.
+[name="메피스토"]  팀장 씨, 나는 네가 뭔지 알아. 내 오리지늄 아츠는 오직 감염자한테만 효과가 있다고.
 
 [name="陈"]  我不在乎。
+[name="チェン"]  だから何だ。
+[name="Ch'en"]  I don't care.
+[name="첸"]  그래서 어쩌란 거냐.
 
 [name="梅菲斯特"]  你知道你只会成为他们的棋子，然后被他们随手丢弃吗？
+[name="メフィスト"]  君は奴らのコマとして動いても、使い捨てにされるって分かってるのかい？
+[name="Mephisto"]  Don't you know that you're only going to become his pawn, to be discarded when you've served your purpose?
+[name="메피스토"]  너도 결국엔 그 사람들한테 체스판 위의 말처럼 쓰이다가 버려질 거란 건 알고 있어?
 
 [name="陈"]  这句话，我原封不动地还给你。
+[name="チェン"]  その言葉、そっくりそのままお前に返してやる。
+[name="Ch'en"]  You can have those words back.
+[name="첸"]  그 말, 너에게 그대로 돌려주지.
 
 [Subtitle(text="记得罗德岛赶到的时候，正是战况决定之时。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="ロドスが到着したその時が、まさにこの戦いの行く末を決定づける瞬間だったということを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember Rhodes Island making haste, arriving just at the battle's decisive moment.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="로도스 아일랜드가 도착했을 때, 마침 전황이 절정에 치달았던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="浮士德"]  ——！
+[name="ファウスト"]  ――！
+[name="Faust"]  ...!
+[name="파우스트"]  ……!
 
 [name="浮士德"]  你泼洒自己的血，用血来点火？
+[name="ファウスト"]  振りまいた血が燃えた？　術師にしては珍しいアーツ……
+[name="Faust"]  You're using your own blood as an incendiary?
+[name="파우스트"]  자신의 피를 뿌려 불을 붙였다고?!
 
 [name="煌"]  哈，我难道看起来像个术师吗？那种四处纵火的家伙，最多只是些自我意识过剩的门外汉。
+[name="ブレイズ"]  私のなりが術師に見える？　あなたたちの言う術師って、そこら中に放火して回る自意識過剰のチンピラたちでしょ。
+[name="Blaze"]  Hah, do I look like some sort of caster to you? Only some egotistical newbie would go around committing arson like that.
+[name="블레이즈"]  하, 설마 내가 캐스터 같아 보여? 그렇게 사방에 불이나 지르고 다니는 녀석은 자의식 과잉인 문외한밖에 없을걸!
 
 [name="煌"]  抱歉，这是战斗技巧。现身吧射手们，你们无处可藏了！
+[name="ブレイズ"]  残念だけど、これは私の戦闘技術の一つってだけ。さあ狙撃兵さんたち、もう隠れられないよ！
+[name="Blaze"]  Sorry, but this is just one of my fighting techniques. Show yourselves – you have nowhere to hide!
+[name="블레이즈"]  미안하지만 이건 전투의 기술 중 하나야. 어이 석궁병들, 이제 모습을 드러내시지! 이제 숨을 곳은 없다고!
 
 [Subtitle(text="记得夺回近卫局，吹响了全面反击的号角。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="近衛局を奪還し、反撃に打って出た時のことを覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember the L.G.D. taken back, and the horn blown to signal a counterattack on all fronts.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="근위국을 되찾고 전면적인 반격에 나섰던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="记得罗德岛和近卫局分头作战，整合运动节节败退。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="ロドスと近衛局、それぞれの奮戦により、レユニオンは少しずつ後退していった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember Rhodes Island and the L.G.D. fighting apart, Reunion suffering defeat after defeat.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="로도스 아일랜드와 근위국이 작전을 펼치자 리유니온은 줄줄이 패퇴했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="灰喉"]  ......只有你一个？
+[name="グレースロート"]  ……一人だけ？
+[name="GreyThroat"]  Just you...?
+[name="그레이스롯"]  ……너 혼자인가?
 
 [name="浮士德"]  ......
+[name="ファウスト"]  ……
+[name="Faust"]  ......
+[name="파우스트"]  ……
 
 [name="灰喉"]  别回头。再动一下，我就射击！
+[name="グレースロート"]  振り向かないで。動けば撃つ！
+[name="GreyThroat"]  Move and I shoot!
+[name="그레이스롯"]  고개 돌리지 마. 움직이면 쏜다!
 
 [Subtitle(text="还记得，在龙门战斗的最后，罗德岛必须要再次面对那个不想面对的敌人。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="龍門における戦いの最後に、対峙などしたくなかった敵と、再び向き合わねばならなかったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember, at the end of the fight in Lungmen, how Rhodes Island had to once again face an enemy she didn't want to fight.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="용문 전투의 마지막, 만나고 싶지 않은 적을 로도스 아일랜드가 다시 마주해야 했던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="霜星"]  是的。你们现在......要与我战斗。
+[name="フロストノヴァ"]  そうだ。今ここで……私と決着をつけよ。
+[name="FrostNova"]  Yes. You will now... fight me.
+[name="프로스트노바"]  그래. 이제 너희는…… 나와 싸워야 한다.
 
 [name="霜星"]  你死我活。
+[name="フロストノヴァ"]  最後の戦いだ。
+[name="FrostNova"]  Only one of us leaves.
+[name="프로스트노바"]  끝을 보는 거다.
 
 [name="霜星"]  如果你们战胜我，有人能够侥幸活着——
+[name="フロストノヴァ"]  もしお前たちが私を破り、生き残ることができるならば――
+[name="FrostNova"]  If you can defeat me, it means some will be able to survive——
+[name="프로스트노바"]  만약 너희가 날 이긴다면, 그리고 내가 운 좋게 살아남는다면……
 
 [Subtitle(text="深深记得，正是因为我们都清楚，我们都怀抱着相同的理想。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="よく、覚えている。互いに同じ理想を抱いていることを、はっきり理解していたのだ。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember it vividly. It was precisely because we both knew... we both cherished the same ideal.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="같은 이상을 갖고 있음을 우린 누구보다 잘 알고 있다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="所以此刻，谁都不能后退半步。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="だからこそ、どちらも退けはしなかった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="And because we did, neither of us could back down.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그래서 그때 어느 쪽도 물러설 수 없었다는 것도 잘 알고 있다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="霜星"]  我愿意加入罗德岛，依你们的想法，去对抗感染者共同的敌人。
+[name="フロストノヴァ"]  私はロドスの一員となり、お前たちの信条と共に感染者の敵と戦うだろう。
+[name="FrostNova"]  I am willing to join Rhodes Island. I am willing to fight together with you against the enemies of the Infected, your way.
+[name="프로스트노바"]  나는 로도스 아일랜드에 들어가, 너희의 신조에 따라 감염자의 적과 싸울 것이다.
 
 [name="霜星"]  这是我必须承担的责任。
+[name="フロストノヴァ"]  これは私が負うべき責任だ。
+[name="FrostNova"]  This is my burden to bear.
+[name="프로스트노바"]  이건 나의 약속이다.
 
 [Subtitle(text="在战斗结束的那一刻，她已然是罗德岛的一员。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="戦いの決着がついたその時――彼女は、既にロドスの一員となっていた。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="She was, at the instant the battle concluded, a part of Rhodes Island.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="전투가 끝나는 마지막 순간까지도 그녀는 로도스 아일랜드의 일원이었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="可是，整合运动在龙门的溃败仅仅只是塔露拉的第一步棋。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="しかし龍門におけるレユニオンの敗北は、タルラが打った最初の一手に過ぎなかった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="And yet, Reunion's crushing defeat in Lungmen was no more than Talulah moving her first piece.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그러나 용문에서 리유니온이 패배한 것은, 단지 탈룰라의 첫 수단에 불과했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="切城核心城利用了野外的风沙遮蔽，逼近了龙门。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="その影で、チェルノボーグの中枢区画が砂嵐に紛れ、龍門へと迫っていたのだ。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Exploiting the cover of a sandstorm, the Chernobog core city approached Lungmen.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="체르노보그 코어는 황야의 모래바람에 숨어 용문까지 접근했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="记得，利用移动城市直接进攻，这才是塔露拉真正的目的。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="タルラの真の目的は、移動都市を利用した龍門への直接攻撃だったということを、あなたは覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You remember. A direct attack using a city as a weapon. That was Talulah's true maneuver.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="이동도시를 이용한 직접적인 공격이야말로 탈룰라의 진정한 목적이었던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="此刻，下定决心的陈，选择独自离开。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="この時、チェンは心を決めた。一人で龍門を離れることを選んだ。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="In this moment, the firm and resolute Ch'en chose to leave, alone.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그때, 결심을 굳힌 첸은 홀로 떠나기를 선택했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="罗德岛也选择放弃与近卫局的合作行动，挺身而出。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="一方でロドスもまた、近衛局との協定を破棄し、この事態に立ち向かうことを選択した。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Rhodes Island, too, chose to abandon coordinated action with the L.G.D., and go unto the fray.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="근위국과의 공조를 포기하고 과감히 맞서기를 선택한 로도스 아일랜드는……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="登陆袭来的切尔诺伯格核心城，停止整合运动的进攻。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="襲い来るチェルノボーグ中枢区画へと上陸し、レユニオンの進攻を止めることにしたのだ。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="To make landfall and attack the Chernobog core city, and halt Reunion's offensive.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="용문으로 돌진해 오는 체르노보그의 이동도시 코어에 진입하여, 리유니온의 진격을 막아 냈다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="凯尔希"]  各载具驾驶员，保持匀速！依照图示，利用沙尘的掩蔽接近核心城至可使用登城工具的距离！立刻行动！
+[name="ケルシー"]  各ドライバー、等速を維持。図面の通り、登攀ツールが使用可能な距離まで中枢区画下層部に接近する。では状況開始！
+[name="Kal'tsit"]  Drivers, maintain a steady speed! Check your maps. Use the sandstorm to cover your approach to the core city until you're in range to deploy boarding gear! Engage!
+[name="켈시"]  각 차량 운전자는 속도를 일정히 유지하도록! 모래 먼지의 엄폐를 이용하여 등성 도구를 사용할 수 있는 거리까지 코어로 접근한다! 행동 개시!
 
 [Subtitle(text="还记得我们回到了守军重重的的核心城，见到了故人。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="厳重に守られた中枢区画に戻ってきた時、かつての友と出会ったことを、覚えている。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You still remember how we returned to the core city, defended by guards every step of the way, and met an old friend.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="코어로 돌아와 겹겹이 지키고 있는 수비군을 맞섰던 게 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="？？？"]  ......
+[name="？？？"]  ……
+[name="???"]  ......
+[name="???"]  ……
 
 [name="罗德岛近卫干员？"]  许久不见，阿米娅，凯尔希医生。
+[name="ロドス前衛オペレーター？"]  お久しぶりです、アーミヤさん、ケルシー先生。
+[name="Rhodes Island Guard?"]  It's been a while, Amiya, Dr. Kal'tsit.
+[name="로도스 아일랜드 가드 오퍼레이터?"]  오랜만입니다, 아미야 씨, 켈시 선생님.
 
 [Subtitle(text="耗尽全力。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="死力を尽くし――", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Exhausted our strength.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="전력을 다했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="迷迭香"] 啊......啊......！
+[name="ロスモンティス"] あ……ああぁ……！
+[name="Rosmontis"] Ah... ahhh!
+[name="로즈몬티스"] 아…… 아아……!
 
 [Subtitle(text="排除了难关。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="困難を乗り越えて。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Put an end to the quandary.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="난관을 극복했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 它想要向前挪行，脆弱的双翼却支不起它自己的身体。
+「それ」は前へ向かって体を引きずるが、脆い翼では膨れ上がった重い体を支えられない。
+It tries to walk forward, but its fragile wings are unable to support its own body.
+'그것'은 앞으로 몸을 끌었지만, 여린 날개로 부풀어 오른 무거운 몸을 지탱하기 역부족이었다.
 
 声音从它的喉咙里流泻出来，像是呜咽，汇成恐怖的河。
+「それ」の喉から、むせび泣くような声が、恐怖の川のように流れ出す。
+There are sounds trickling out of its throat, like a river of terror formed of whimpers.
+'그것'의 목구멍에서 흐느끼는 듯한 목소리가 공포의 강물처럼 흘러나왔다.
 
 [name="凯尔希"]  非自然的生物，大多出自美学。
+[name="ケルシー"]  自然ではない生物は、大抵歪んだ美学から生まれる。
+[name="Kal'tsit"]  Creatures of artificial nature can usually be traced back to aesthetics.
+[name="켈시"]  자연에서 생겨난 게 아닌 생물들은 대체로 아름다운 모습을 하고 있지.
 
 [name="凯尔希"]  但是，别被外表欺骗，无论它有多美，它都是周遭这一切惨状的元凶。
+[name="ケルシー"]  だが、その外見に惑わされてはならない。どれほど美しかろうと、周りの惨状を生み出している元凶であることには変わりない――
+[name="Kal'tsit"]  Yet don't be fooled by its appearance. No matter how beautiful it may seem, you are looking at the culprit behind the surrounding devastation.
+[name="켈시"]  그래도 겉모습에 속으면 안 돼. 아무리 아름다워도 이 일대에서 참상을 일으킨 주범이니까.
 
 [name="凯尔希"]  ......
+[name="ケルシー"]  ……
+[name="Kal'tsit"]  ......
+[name="켈시"]  ……
 
 [name="凯尔希"]  它在唱歌。
+[name="ケルシー"]  歌っているのか。
+[name="Kal'tsit"]  It's singing.
+[name="켈시"]  저 녀석이 노래를 부르고 있어.
 
 [Subtitle(text="战胜了强敌。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="――強敵に打ち勝った。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Prevailed over a mighty enemy.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="강적을 이겼다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 温迪戈的动作，戛然而止。
+最後のウェンディゴは、錆びた重い鉄扉が閉まるような音と共に、緩やかに動きを停めた。
+The Wendigo freezes in place.
+마지막 웬디고는 홀연히 움직임을 멈췄다.
 
 似乎有什么从他头盔中悄然滴落。
+兜の隙間から、何かが一雫、ぽたりと滴り落ちたように見えた。
+Something appears to be dripping sorrowfully from his helmet.
+그리고 투구 사이로 뭔가 한 방울씩 뚝뚝 떨어지는 게 보였다.
 
+......
+......
+......
 ......
 
 一分钟过去了。
+一分が経った。
+A minute passes.
+1분이 지났다.
 
 在这漫长的一分钟里，除了移动城市的隆隆声外，你什么也听不见。
+この永遠にも思える一分間、移動都市の動力機関が立てる、轟々という音以外は、何も聞こえなかった。
+During this eternity of a minute, there are no other sounds except for the low rumbling of the moving city.
+시간이 멈춘 것처럼 길었던 이 1분 동안, 이동도시의 요란한 엔진 소리 외에는 아무것도 들리지 않았다.
 
 [Subtitle(text="每个人不得不面对自己的内心。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="誰しも、己の心と向き合わねばならない。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Everyone there was forced to confront their own hearts.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="사람들은 모두 자신의 마음과 마주했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="他们可能跨过了疑惑，不再迷茫。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女たちは、生まれ出でる疑心を強い意志で抑え、迷いを断ち切ったのだろう。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="They may have overcome their doubts, no longer at a loss.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="이들은 의혹을 뛰어넘어, 더 이상의 망설임은 없는 것 같았다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 陈逃避过许多次了。
+チェンは何度も逃げたことがある。
+Ch'en has tried to run far away many times.
+첸은 몇 번이고 도망친 적이 있다.
 
 但她没有一直逃下去。
+しかし逃げ続けはしなかった。
+But she stopped herself.
+하지만 그녀는 계속 도망치지는 않았다.
 
 [Subtitle(text="他们可能放纵仇恨生长，毫不动摇。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="憎悪が膨らみ続けたところで、それで心が揺れることはなかったのだろう。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="They may have indulged their hatred, fixed and unwavering.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그들은 커져가는 원한을 그대로 내버려 뒀지만, 조금도 흔들리지 않았다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="站在中心的几名少女，注定要在高塔之巅决出最后的胜负。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="一連の嵐の中心である少女たちは、高塔の頂で相まみえ、互いの運命を決する定めだった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The women standing at the core were bound to decide the final battle at the summit of the tower.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="중심에 선 몇몇 소녀들은 탑 꼭대기에서 마지막 승부를 내야 할 운명에 처했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="龙门的攻防战，至此画下句点。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="こうして、龍門攻防戦には終止符が打たれた。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The battle of Lungmen drew here to an end.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="용문 공방전은 이렇게 마침표를 찍었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="仿佛根本没有胜利者，也没有失败者。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="そこには勝者も敗者もなく……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="It was as if there were fundamentally no winners, and no losers.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="승자도, 패자도 없었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="只有各自了却了心愿的人，各自奔向不同的地方。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="宿願を果たした者たちが、それぞれに別の場所を目指し、去って行くばかりだった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Only each individual settling their aspirations, each headed somewhere different.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그저 소원을 이룬 자만이 제각기 다른 곳을 향해 달려갔을 뿐이다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [name="阿米娅"]  博士......
+[name="アーミヤ"]  ドクター……
+[name="Amiya"]  Doctor...
+[name="아미야"]  박사님……
 
 [name="阿米娅"]  不想说话吗？
+[name="アーミヤ"]  今はお話をする気分ではありませんか？
+[name="Amiya"]  You don't want to talk?
+[name="아미야"]  말씀하실 기분이 아니신가요?
 
 [name="阿米娅"]  ......我明白的。在这些时间里发生太多事了。
+[name="アーミヤ"]  ……わかります。今日までにあまりにも多くのことが起こりましたから。
+[name="Amiya"]  I get it. So much has happened.
+[name="아미야"]  ……이해해요. 최근엔 정말 너무 많은 일이 일어났죠.
 
 [name="阿米娅"]  但是，有博士在这里，我很......我很开心。
+[name="アーミヤ"]  でも、ドクターがここにいてくれて、私は……私は嬉しいです。
+[name="Amiya"]  But, with you by my side, I feel... I feel happy.
+[name="아미야"]  하지만 박사님께서 여기 계셔서…… 전 정말 기뻐요.
 
 [name="阿米娅"]  有些事情我们一个人是做不到的。
+[name="アーミヤ"]  一人では、成し得ないこともたくさんあります。
+[name="Amiya"]  There are some things we can't do by ourselves.
+[name="아미야"]  어떤 일들은 우리 혼자 해낼 수 없죠.
 
 [name="阿米娅"]  罗德岛......无论前方是什么样的阴霾等着我们，罗德岛也会继续前行。
+[name="アーミヤ"]  ……行く先にどれほどの暗雲が立ち込めていようと、ロドスは進み続けます。
+[name="Amiya"]  Rhodes Island... we always press forward, no matter what the dark clouds bring.
+[name="아미야"]  로도스 아일랜드는…… 앞에 그 어떤 가시밭길이 있다고 해도 계속 나아갈 거예요.
 
 [name="阿米娅"]  并且，无论这片大地上还有多少冰冷的故事......
+[name="アーミヤ"]  それに、この大地にどれだけ残酷な物語があるとしても――
+[name="Amiya"]  And no matter how many terrible stories unfold across the world...
+[name="아미야"]  그리고 이 세상에 따뜻하지 않은 이야기가 아무리 많다 해도……
 
 [name="阿米娅"]  ......我也相信博士的心是温暖的。
+[name="アーミヤ"]  ――ドクターの心は温もりにあふれていると信じています。
+[name="Amiya"]  I'll always believe in the warmth in your heart.
+[name="아미야"]  저는…… 박사님의 마음은 따뜻할 거라 믿어요.
 
 [name="阿米娅"]  欢迎回家，博士。
+[name="アーミヤ"]  おかえりなさい、ドクター。
+[name="Amiya"]  Welcome home, Doctor.
+[name="아미야"]  어서 오세요, 박사님.
 
 [Subtitle(text="对抗整合运动的每一场战斗你都能回想起来。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="あなたは、レユニオン・ムーブメントとの戦いをどれも鮮明に思い出せる。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Every battle in the standoff against Reunion, you can recall.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="리유니온과 치렀던 하나하나의 전투가 모두 기억난다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="但是你还是没办法回想起最应该回想起的事情。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="けれど、あなたが本当に思い出すべきことは、記憶の奥底に眠ったままだ。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="But you still cannot find any recollection of the things that should most come back to you.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그러나, 가장 떠올려야 할 일은 정작 기억나지 않는다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="那些过去的事情，那些罗德岛的事情。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="過去のこと、ロドスのこと。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The things of the past. The things of Rhodes Island.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="과거에 있었던 일, 로도스 아일랜드와 함께 했던 일.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="那些你真正能做的事情。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="あなたが本当に成し得ること。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The things you can truly do.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고 당신이 진정으로 할 수 있는 일.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="你知道，未来，还有更多的路要走。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="――あなたは知っている。この先、歩むべき道のりは長く続いているということを。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="You know, come the future, that there will be more journeys still to take.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="알고 있다. 앞으로 더 많은 길을 나아가야 한다는 것을.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="而，这仅仅只是个开始。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……そして、これがほんの始まりに過ぎないのだということを。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="And that this... is no more than a beginning.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고, 이건 단지 시작에 불과하다는 것을.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 

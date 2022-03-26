@@ -260,7 +260,7 @@ The city is slowly recovering.
 
 [name="金警官"]  你会说炎国官话或者龙门方言吗？
 [name="ジン警官"]  炎国の公用語か龍門の方言は話せますか？
-[name="Officer Kam"]  Do you speak Yen or Lungmenese?
+[name="Officer Kam"]  Do you speak Yan or Lungmenese?
 [name="캄 경관"]  염국 공용어나 용문 사투리를 할 줄 아나?
 
 [name="伊桑"]  会，学过一些。
@@ -859,7 +859,7 @@ The city is slowly recovering.
 [name="케빈"]  이건 뭐지?
 
 [name="伊桑"]  矿石病抑制药，这个是说明，按照上面写的服用。
-[name="イーサン"]  鉱石病の抑制剤だ。これが説明書だから、書いてある通りに飲めばいいんだ。
+[name="イーサン"]  鉱石病の抑制剤だ。これが説明書だから、書いてある通りに飲めばいいからよ。
 [name="Ethan"]  It's Oripathy medicine. Here's the instructions. Follow them.
 [name="에단"]  광석병 억제제, 위에 적힌 대로 먹으면 될 거야.
 
@@ -954,7 +954,7 @@ Kevin puts on a tattered Industrial Arts casting glove and takes out a few bottl
 [name="케빈"]  꽤 오랫동안 눈의 악마 소대원들이랑 함께 행동했지.
 
 [name="凯文"]  这是他们教我的，我没什么源石技艺的天赋，最多只能冻几瓶汽水。
-[name="ケヴィン"]  これは彼らが教えてくれた。俺にはアーツの才能がなくてな……せいぜいサイダーを冷やすのがようやくだ。
+[name="ケヴィン"]  これは彼らが教えてくれた。俺にはアーツの才能がなくてな……せいぜいサイダーを冷やすのがやっとだ。
 [name="Kevin"]  They're the ones who taught me this. I don't have much talent for Arts. All I can do is chill a few bottles of soda.
 [name="케빈"]  이것도 그 사람들한테 배운 거야. 오리지늄 아츠를 다루는 재능 같은 건 없어서 음료수를 얼리는 게 고작이지만.
 
@@ -989,7 +989,7 @@ Kevin puts on a tattered Industrial Arts casting glove and takes out a few bottl
 [name="에단"]  ……
 
 [name="凯文"]  我活着，只是因为我运气好。
-[name="ケヴィン"]  俺が生きてるのは、ただ運が良かったからだけだ。
+[name="ケヴィン"]  俺が生きてるのは、ただ運が良かったってだけだ。
 [name="Kevin"]  I'm alive only because I got lucky.
 [name="케빈"]  내가 살아있는 건, 순전히 운이 좋아서였어.
 
@@ -1009,7 +1009,7 @@ Kevin puts on a tattered Industrial Arts casting glove and takes out a few bottl
 [name="케빈"]  가장 우스운 게 뭔지 알아? 나를 구한 게 용문 슬럼가의 부랑자였다는 거야. 쓰레기를 뒤지다가 날 찾아낸 덕분에 살 수 있었지.
 
 [name="路过的女孩"]  阿海哥！给我一瓶汽水！
-[name="通りすがりの女の子"]  カイのお兄さん！　サイダー一本ちょうだい！
+[name="通りすがりの女の子"]  ハイのお兄さん！　サイダー一本ちょうだい！
 [name="Passerby Girl"]  Ah Hoi! A soda, please!
 [name="지나가던 소녀"]  아호이 오빠, 음료수 한 병 주세요!
 
@@ -1139,7 +1139,7 @@ Kevin turns around yet again and takes out a few more bottles of soda.
 [name="에단"]  신경 쓰지 마.
 
 [name="伊桑"]  这些不是市售药，你自己吃就行，不要让别人知道。
-[name="イーサン"]  市販の薬じゃねぇんだ。あんたが自分だけ飲めばいい、他の誰にも知られるなよ？
+[name="イーサン"]  市販の薬じゃねぇんだ。あんた一人で飲めばそれでいい、他の誰にも知られるなよ？
 [name="Ethan"]  They don't actually sell them out on the market. Just take them yourself, and don't let anybody know.
 [name="에단"]  시중에서 파는 게 아니니까, 다른 사람 몰래 너만 먹어.
 
@@ -1274,7 +1274,7 @@ As time goes on, these traces will become a part of Lungmen, as a part of its lo
 시간이 흘러 그 흔적 역시 용문의 일부가 될 것이다. 좀 더 아득한 역사처럼.
 
 在破损的街道上，人们在努力地活着。
-損壊したこの街で、人々は懸命に生きている。
+破壊を経たこの街で、人々は懸命に生きている。
 On its war-torn streets, the citizens of Lungmen keep toiling away, living one day to the next.
 파괴된 길가에서, 사람들은 살아가기 위해 발버둥 친다.
 
@@ -1399,7 +1399,7 @@ On its war-torn streets, the citizens of Lungmen keep toiling away, living one d
 [name="에단"]  ……고마워, 오니 누님.
 
 [name="星熊"]  还有啊，不要那么叫我，你又没和我一起混过。
-[name="ホシグマ"]  それと、その呼び方はやめてください。あなたとつるんだ覚えはありませんから。
+[name="ホシグマ"]  もうひとつ、その呼び方はやめてください。あなたとつるんだ覚えはありませんから。
 [name="Hoshiguma"]  Oh, and stop calling me that. It's not like we ever rubbed elbows or something.
 [name="호시구마"]  아니 근데 왜 날 그렇게 부르는 거야? 나랑 그렇게 친한 사이도 아니잖아?
 

@@ -1,376 +1,940 @@
 11:00 P.M.  天气/暴雨
+p.m. 11:00 天気/豪雨
+11:00 P.M. \ Heavy Rain
+11:00 P.M. 날씨/폭우
 
 流星的宿舍
+メテオの宿舎
+Meteor's Dorm Room
+메테오의 숙소
 
 [name="流星"]  雨怎么下得这么大，好冷，把供暖打开吧。
+[name="メテオ"]  すごい雨ね、寒いわ。暖房をつけましょう。
+[name="Meteor"]  Why is it raining so heavily? I'm freezing. Guess I'll turn on the heater.
+[name="메테오"]  비가 많이 오네, 너무 추워. 난방을 틀어야겠다.
 
 [name="流星"]  嗯......是怎么调温来着？是这样吗？这个圆形的东西，往这边扭......
+[name="メテオ"]  ええと……どうやって温度を調節するんだったかしら？　こう？　この丸いつまみを、こっちにひねって……
+[name="Meteor"]  Hm... How do I adjust the temperature? Do I turn this little round thing... but which way...?
+[name="메테오"]  으음…… 온도를 어떻게 조절하더라? 이거였나? 이 동그란 걸…… 이쪽으로 돌리면……
 
 [name="流星"]  应该可以了吧？唉，这种电子设备真的玩不转啊，要是能有个壁炉该多好。
+[name="メテオ"]  これでいいはずよね？　はぁ。電子機器って本当にさっぱりよ。暖炉があったら、どんなにいいか。
+[name="Meteor"]  Maybe this will do it? Eh, I really can't wrap my head around these gadgets. I wish we had a fireplace.
+[name="메테오"]  됐나? 하아, 전자 기기는 도저히 익숙해지지 않네. 벽난로가 있으면 좋았을 텐데.
 
 [name="流星"]  呼，都这个点了......也不知道米纳她什么时候能下班。医疗干员还真是辛苦，明明一个宿舍，却一整天都见不到几面。
+[name="メテオ"]  ふう、もうこんな時間……ミーナはいつ終業になるのかしら。医療オペレーターは本当に大変ね。同じ宿舎なのに、全然顔を合わせないんだもの。
+[name="Meteor"]  Phew, look at the time. I wonder when Mina gets off work. The Medic operators really have it hard. We're roommates, but we almost never see each other.
+[name="메테오"]  엇, 벌써 시간이…… 미나는 언제 퇴근하려나? 메딕 오퍼레이터들은 참 힘들겠어, 숙소를 같이 쓰면서도 온종일 얼굴 몇 번 못 보고.
 
 [name="医疗干员"]  流星，是我啦，这么晚了还给你来电话，不好意思啊。
+[name="ミーナ"]  メテオ、私だよ。こんなに遅く電話をしてごめん。
+[name="Medic Operator"]  Meteor, it's me. Sorry to call this late.
+[name="메딕 오퍼레이터"]  메테오, 나야. 늦은 시간에 전화해서 미안해.
 
 [name="流星"]  米纳，你不是在加班吗？怎么，是忘带东西了吗？
+[name="メテオ"]  ミーナ、残業中なんでしょう？　どうしたの、忘れ物？
+[name="Meteor"]  Mina? I thought you were working overtime? What's the matter? Did you forget something?
+[name="메테오"]  미나, 야근 아니었어? 뭐야, 뭘 두고 간 거야?
 
 [name="医疗干员"]  不是我，是吉安娜，她一直哭着要找你，谁都哄不好。
+[name="ミーナ"]  私じゃなくて、ジェンナなの。あなたに会いたいってずっと泣いていて、誰もなだめられないのよ。
+[name="Medic Operator"]  It's Gianna. She's crying her eyes out, and asking for you. None of us can calm her down.
+[name="메딕 오퍼레이터"]  내가 아니라 지아나. 계속 울면서 너만 찾아, 아무리 달래도 울음을 그치지 않아서……
 
 [name="流星"]  吉安娜！她怎么了？不舒服吗？你等我一下，我换件衣服就去医疗部。
+[name="メテオ"]  ジェンナ！　何があったの？　気分が悪いの？　待ってて、着替えたらすぐに医療部へ行くわ。
+[name="Meteor"]  Gianna?! What's the matter? Is she alright? Hang on. I'll get changed and come to Medical right away!
+[name="메테오"]  지아나? 무슨 일인데? 어디 아픈 거야? 잠깐만 기다려, 옷만 갈아입고 바로 의료부에 갈게.
 
 [name="医疗干员"]  不是的不是的，流星，是雷声吓到她了。哎呀，你先别着急，我带着她过去找你吧？
+[name="ミーナ"]  違うのよ、メテオ。彼女、雷に驚いちゃったの。まぁ落ち着いて。この子をそっちへ連れて行ってもいい？
+[name="Medic Operator"]  No, no, you got it wrong, Meteor! She's scared of thunder! Oh, slow down. I'll take her there, okay?
+[name="메딕 오퍼레이터"]  그런게 아니라, 그냥 천둥소리에 놀란 것 같아. 내가 데리고 갈 테니까 넌 일단 진정해.
 
 [name="流星"]  那......也好，米纳，我先和吉安娜说几句。
+[name="メテオ"]  そう……いいわ。先に少しジェンナと話してもいいかしら？
+[name="Meteor"]  O-Okay, Mina. Let me talk to her first.
+[name="메테오"]  아…… 알겠어. 지아나랑 먼저 이야기 좀 해도 될까?
 
 [name="医疗干员"]  没问题。吉安娜，是流星姐姐要和你说话呢，来听哦。
+[name="ミーナ"]  分かったわ。さあジェンナ、メテオお姉さんがお話がしたいって。おいで。
+[name="Medic Operator"]  No problem. Gianna? Meteor wants to talk to you. Here you go.
+[name="메딕 오퍼레이터"]  그래. 지아나, 메테오 언니가 너랑 통화하고 싶대. 이리 와봐.
 
 [name="吉安娜"]  流星姐姐，我害怕，呜呜呜，你在哪里啊？
+[name="ジェンナ"]  メテオお姉ちゃん、怖いよぉ、ううう。どこにいるの？
+[name="Gianna"]  Meteor, I'm scared! *Sobs*, where are you?
+[name="지아나"]  메테오 언니, 나 무서워…… 흐흑…… 언니 어디야?
 
 [name="流星"]  吉安娜，别害怕，姐姐在等你，还给你煮最爱喝的雪米奶哦。
+[name="メテオ"]  ジェンナ、怖がらなくて大丈夫よ。お姉ちゃん、あなたの大好きなスノウィライスミルクを作って待ってるからね。
+[name="Meteor"]  Gianna, don't worry. I'll wait for you here. I'll make you some of that snowy rice milk you like.
+[name="메테오"]  괜찮아, 지아나. 언니는 지아나가 제일 좋아하는 스노위라이스 밀크를 끓여놓고 기다리고 있을게.
 
 [name="医疗干员"]  乖，吉安娜，不哭了，我们现在去找流星姐姐。
+[name="ミーナ"]  よしよし、ジェンナ、泣かないの。今からメテオお姉さんのところへ行こうね。
+[name="Medic Operator"]  There, there, Gianna. Don't cry. We'll go to Meteor's right now.
+[name="메딕 오퍼레이터"]  자, 착하지~ 울지 마, 지아나. 지금 메테오 언니 찾으러 가자.
 
 [name="吉安娜"]  呜呜呜......米纳姐姐，我，我坚强......我不哭了。
+[name="ジェンナ"]  ううう……ミーナお姉ちゃん、あ、あたし頑張るよ……もう泣かないよ。
+[name="Gianna"]  *Whimpers*... I-I'll be strong, Mina... I'll stop crying.
+[name="지아나"]  흐흑…… 미나 언니, 나…… 나 무섭지 않아…… 울지 않을 거야.
 
 [name="医疗干员"]  没事了，我们一会儿就能到了。
+[name="ミーナ"]  大丈夫よ。すぐに着くからね。
+[name="Medic Operator"]  It's okay. We'll be there soon.
+[name="메딕 오퍼레이터"]  그래 그래, 우린 금방 도착할 거야.
 
 [name="流星"]  米纳，天气这么凉，你有记得给她多披件衣裳吗？
+[name="メテオ"]  ミーナ、今日は寒いから、ジェンナに厚着させてあげてね？
+[name="Meteor"]  Mina, it's very cold over here. Did you give her a few more layers of clothes?
+[name="메테오"]  미나, 날도 추운데 옷 든든히 입혀주는 것 잊지 않았지?
 
 [name="医疗干员"]  当然啦，医疗部可是有宝宝特供花毛衣呢，既保暖且舒适。
+[name="ミーナ"]  もちろん。医療部には子供用の特製セーターがあるのよ。暖かい上に着心地もいいんだから。
+[name="Medic Operator"]  Of course. Medical has sweaters just for children. It'll keep her warm and comfy.
+[name="메딕 오퍼레이터"]  당연하지, 의료부에는 따뜻한 어린이용 꽃무늬 스웨터가 언제나 비치되어 있거든.
 
 [name="流星"]  还有袜子什么的都要穿好啊。
+[name="メテオ"]  靴下なんかも、しっかりね。
+[name="Meteor"]  Make sure she's wearing socks and everything.
+[name="메테오"]  양말 같은 것도 꼭 챙겨.
 
 [name="医疗干员"]  一定一定，那个，流星，我要抱孩子了，就先挂了，一会儿见。
+[name="ミーナ"]  うんうん。じゃあメテオ、私はあの子を抱いて行くから、切るね。また後で。
+[name="Medic Operator"]  Of course, of course. Okay, Meteor, I need to carry Gianna, so I'm gonna hang up now. I'll see you in a moment.
+[name="메딕 오퍼레이터"]  네네. 저기 메테오, 나 쟤를 챙겨야 하니까 먼저 끊을게. 이따 봐.
 
 [name="流星"]  好的，等你们，拜拜。
+[name="メテオ"]  ええ、待ってるわ。また。
+[name="Meteor"]  Okay, I'll wait for you here. See you.
+[name="메테오"]  응, 기다리고 있을게. 조심히 와.
 
 [name="流星"]  怎么哭得这么伤心，真是让人放心不下啊，这小丫头。
+[name="メテオ"]  あんなにひどく泣いて、本当に心配ね、あの子。
+[name="Meteor"]  How am I supposed to stop worrying when all she ever does is cry?
+[name="메테오"]  지아나는 왜 저리도 서럽게 우는 거람, 속상하게……
 
 [name="流星"]  再把供暖加热些吧，可不能让孩子着凉。
+[name="メテオ"]  暖房を少し強くしましょう。子供に風邪は引かせられないわ。
+[name="Meteor"]  I guess I'll turn up the heat. We need to keep her warm.
+[name="메테오"]  애가 춥지 않게 온도를 더 올려야겠어.
 
 一个月前
+一ヶ月前
+A month ago
+한 달 전
 
 医疗部
+医療部
+Medical Department
+의료부
 
 [name="医疗干员"]  流星，麻烦你这段时间暂时帮我照顾下这女孩了，拜托！
+[name="ミーナ"]  メテオ、申し訳ないんだけど、しばらくの間、この子の面倒を見てくれないかな？　お願い！
+[name="Medic Operator"]  Meteor, could you please take care of this girl for the time being? Please!
+[name="메딕 오퍼레이터"]  메테오, 당분간 이 아이를 돌봐줄 수 있을까? 부탁해!
 
 [name="医疗干员"]  这孩子是我们在废墟里发现的，她的家人用身体挡住了掉下的天花板，才救下她的性命。现在......唉，就只剩她一个人了。
+[name="ミーナ"]  この子はガレキの中で見つけたの。落ちてくる天井を家族がこの子の代わりに受け止めて、どうにか彼女を守ったみたいでね……生き残ったのはこの子一人だけ、可哀想に。
+[name="Medic Operator"]  We found her in the ruins. Her family died shielding her when the ceiling fell, and now... Well... she's the only one left.
+[name="메딕 오퍼레이터"]  폐허에서 발견한 아이인데, 천장이 무너질 때 부모가 아이를 품에 감싼 덕분에 목숨을 건질 수 있었어. 이제는…… 혼자 남았지만……
 
 [name="流星"]  唉，这当然没问题。只是......为什么找我帮忙，医疗部有很多更专业的看护员啊。
+[name="メテオ"]  ああ、なんてこと。もちろんいいわよ。ただ……どうして私に？　医療部には看護の専門家がたくさんいるでしょう。
+[name="Meteor"]  Well, I definitely don't mind doing that. It's just... why are you coming to me for this? Aren't there professionals in Medical who are better at babysitting?
+[name="메테오"]  아이고, 불쌍해라. 나는 상관없긴 한데…… 왜 굳이 나한테? 의료부에 간호 전문가들이 많잖아.
 
 [name="医疗干员"]  其实，医疗部最近一直是超负荷工作的状态，讲起来很惭愧，人手实在是不够了，所以只好麻烦你了。
+[name="ミーナ"]  実は最近、医療部は仕事が多すぎてね、恥ずかしい話だけど、全然人手が足りないの。それで同室のあなたに頼むしかなくて。
+[name="Medic Operator"]  Medical has actually been pretty overworked lately. I'm ashamed to say this, but we don't have enough manpower, so you're the only one I can turn to.
+[name="메딕 오퍼레이터"]  사실 요즘 의료부는 일이 너무 많아. 말하기 창피하지만, 인력이 부족해서 네게 부탁할 수밖에 없었어.
 
 [name="医疗干员"]  啊，对了，让我找找。
+[name="ミーナ"]  ああ、そうだ。ちょっと待ってて。
+[name="Medic Operator"]  Oh, right, one second.
+[name="메딕 오퍼레이터"]  아, 맞다. 잠깐만……
 
 [name="流星"]  ......这是......
+[name="メテオ"]  ……これは？
+[name="Meteor"]  What's this...?
+[name="메테오"]  이건……
 
 [name="医疗干员"]  是这孩子的病情诊断书，医疗部的心理医师建议最好有个人能够经常陪伴她，但我却不能时时刻刻在她的身边，唉。
+[name="ミーナ"]  この子の診断書よ。医療部の心理科の医師によると、できれば誰かがずっと付き添ってあげるのがいいみたい。だけど私はずっと側にはいられなくて。
+[name="Medic Operator"]  This is her evaluation. The psychologists at Medical are recommending that we have someone stay with her at all times, but I don't have the time myself. *Sigh*.
+[name="메딕 오퍼레이터"]  아이의 진단서야. 심리학과 의사는 아이와 자주 함께 있어주는 게 좋다고 했는데, 나는 항상 곁에 붙어있을 수 있는 상황이 아니라서……
 
 [name="流星"]  是这样吗。你平时忙碌的时候，就让我来陪陪她吧，正好最近也没有什么工作。
+[name="メテオ"]  そうだったのね。じゃああなたが忙しい時は私が彼女に付き添ってあげるわ。ちょうどこのところ、これといって仕事がないことだしね。
+[name="Meteor"]  Oh, really? Alright, I'll stay with her when you're busy. Thankfully, I don't really have much going on lately.
+[name="메테오"]  그래? 그럼 네가 바쁠 때 내가 돌봐줄게. 마침 요새 한가한 편이거든.
 
 [name="医疗干员"]  拜托你了，流星，她年纪那么小，一时或许还很难面对失去亲人的痛苦......多了你的陪伴，相信她能更快走出来。
+[name="ミーナ"]  助かるわ。あの子はまだ幼いし、家族を失った苦痛に当分向き合えないかもしれない……だけどあなたが側にいてくれたら、きっと立ち直るのも早くなるはず。
+[name="Medic Operator"]  Thanks, Meteor. She's still a kid. It's not easy for someone her age to accept her family's gone... I'm sure she'll get back on her feet quickly with you by her side.
+[name="메딕 오퍼레이터"]  고마워, 메테오. 가족을 잃은 아픔을 받아들이기엔 아이가 너무 어려…… 네가 돌봐주면 금세 회복될 거야.
 
 [name="流星"]  你是在夸我么，嗯，谢谢你了。不过话说回来，那女孩现在在哪里？可以见见吗？
+[name="メテオ"]  おだててるの？　ふふ、お礼を言っておくわね。それはそうと、その子は今どこにいるの？　会いに行けるかしら？
+[name="Meteor"]  Is that a compliment? Well, thanks. So where is this girl? Can I meet her?
+[name="메테오"]  나 칭찬해 주는 거야? 어쨌든 고마워. 그나저나 아이는 지금 어디 있어? 볼 수 있을까?
 
 [name="医疗干员"]  当然可以，你跟我来，她就在这边的病房。
+[name="ミーナ"]  もちろんよ。ついてきて、こっちの病室にいるから。
+[name="Medic Operator"]  Of course. Come with me. She's in the ward over here.
+[name="메딕 오퍼레이터"]  물론. 나 따라와, 이쪽 병실에 있어.
 
 [name="流星"]  就是她吗？
+[name="メテオ"]  この子が？
+[name="Meteor"]  This is the girl?
+[name="메테오"]  저 아이야?
 
 [name="医疗干员"]  嗯嗯。
+[name="ミーナ"]  そう。
+[name="Medic Operator"]  Yep.
+[name="메딕 오퍼레이터"]  응응.
 
 [name="医疗干员"]  吉安娜，有没有乖乖吃药？今天有人来看你哦。
+[name="ミーナ"]  ジェンナ、いい子で薬が飲めたかな？　今日はあなたにお客さんが来てるよ。
+[name="Medic Operator"]  Hey, Gianna? Have you been a good girl and taken your medicine? I brought a new friend with me today.
+[name="메딕 오퍼레이터"]  지아나, 약 잘 먹었어? 오늘은 누가 널 만나러 왔어.
 
 [name="小女孩"]  我今天有很乖的，米纳姐姐......你身后的那个人是......
+[name="女の子"]  うん、いい子にしてたよ、ミーナお姉ちゃん……後ろの人は……
+[name="Little Girl"]  I've been a good girl today, Mina... Who is that behind you...?
+[name="소녀"]  응, 나 오늘 말 잘 들었어. 미나 언니…… 뒤에 있는 사람은……
 
 [name="小女孩"]  大姐姐，你是......？
+[name="女の子"]  お姉ちゃん、だあれ……？
+[name="Little Girl"]  Who are you, lady?
+[name="소녀"]  언니는, 누구야……?
 
 [name="医疗干员"]  吉安娜，这是流星姐姐，之后她会同我一起来照顾你。你不要害怕，这个姐姐又耐心又温柔，你会喜欢的。
+[name="ミーナ"]  ジェンナ、この人はメテオお姉さん。今日から私と一緒にあなたのお世話をしてくれるの。心配しないで、このお姉さんは優しくて面倒見がいいから、きっとジェンナも大好きになるよ。
+[name="Medic Operator"]  Gianna, this is Meteor. She'll be helping me take care of you from here on out. You don't need to be scared. She's patient and kind. You'll like her.
+[name="메딕 오퍼레이터"]  지아나, 이 언니는 메테오야. 앞으로 나랑 같이 널 돌봐줄 거야. 두려워하지 마. 이 언니는 인내심도 많고, 다정해서 네가 무척 좋아하게 될 거야.
 
 [name="小女孩"]  米纳姐姐，呜，我......没事的，我也知道米纳姐姐你很忙的，我会很乖，你放心。
+[name="女の子"]  ミーナお姉ちゃん、うぅ、あたし……大丈夫だよ。ミーナお姉ちゃんは忙しいってわかってるから、いい子にするよ、安心して。
+[name="Little Girl"]  Mina... *Sobs*... I... I'll be okay. I know you're busy. I'll be a good girl. You don't have to worry.
+[name="소녀"]  미나 언니, 흐흑…… 나, 난 괜찮아. 언니가 바쁜 거 알아, 착하게 있을 테니까 걱정하지 마.
 
 [name="医疗干员"]  唉，吉安娜，你真是懂事得让人心疼。
+[name="ミーナ"]  ああ、ジェンナ。その聞き分けの良さ、かえって切なくなるわ。
+[name="Medic Operator"]  *Sigh*, Gianna, you're such a sensible girl, it really tugs at my heartstrings.
+[name="메딕 오퍼레이터"]  하하…… 우리 지아나 이젠 철까지 들었네. 그런데 언니는 왜 그게 가슴 아프지.
 
 [name="医疗干员"]  流星，我手头还有急事，先走了，这地方留给你们了。一会儿忙完就回来找你们。
+[name="ミーナ"]  メテオ、私は急ぎの仕事があるから、先に行くね。あなたたちはここにいて。終わったらすぐ戻ってくるから。
+[name="Medic Operator"]  Meteor, I still have other things to take care of, so I'm going. I'll leave her to you; I'll be back as soon as I'm done.
+[name="메딕 오퍼레이터"]  메테오, 급한 일이 있어서 먼저 가볼게. 일 끝나고 바로 돌아올 테니, 여기 같이 있으면 돼.
 
 [name="流星"]  回见了，米纳。
+[name="メテオ"]  わかったわ。また後でね、ミーナ。
+[name="Meteor"]  See you later, Mina.
+[name="메테오"]  응, 이따 봐.
 
 [name="小女孩"]  姐姐......你、你好，我叫吉安娜，我六岁了！
+[name="女の子"]  お姉ちゃん……こっ、こんにちは。あたしジェンナ、六歳なの！
+[name="Little Girl"]  Um, Miss... N-Nice to meet you. My name is Gianna, and I'm six!
+[name="소녀"]  언니…… 아, 안녕. 난 지아나라고 해, 여섯 살이야!
 
 [name="流星"]  呃，小姑娘，我......
+[name="メテオ"]  えっと、お嬢ちゃん、私は……
+[name="Meteor"]  Uh, little girl, I...
+[name="메테오"]  엇, 꼬마야. 그러니까 나는……
 
 [name="小女孩"]  我、我在这里有好好吃药，也没有挑食，还、还学会了折玫瑰花。你喜欢玫瑰花吗？都......都送给你。
+[name="女の子"]  あ、あたしは、お薬をしっかり飲んでるし、ごはんもちゃんと食べてる。そ、それから、紙のバラも折れるようになったの。お姉ちゃんはバラは好き？　ぜ、全部あげるよ！
+[name="Little Girl"]  I... I've been taking my medicine, and I'm not picky about food. I-I even learned how to fold roses. Do you like roses? I... I'll give you all of them.
+[name="소녀"]  나, 난 약도 잘 먹고 편식도 안 해. 그, 그리고 장미꽃 접기도 배웠어. 언니는 장미꽃 좋아해? 다, 다 언니한테 줄게!
 
 [name="流星"]  呼——嗯咳，吉安娜对吗？你好，我是流星，不过你叫我流星姐姐也是可以的。
+[name="メテオ"]  ふう――コホン。ジェンナね？　こんにちは。私はメテオよ。メテオお姉ちゃんって呼んでくれていいわ。
+[name="Meteor"]  Phew—Ahem, Gianna, is it? Hello, I'm Meteor. You don't have to call me 'Miss' or anything; just Meteor will do.
+[name="메테오"]  쓰읍…… 크흠, 지아나 맞지? 반가워, 난 메테오라고 해. 메테오 언니라고 불러도 괜찮아.
 
 [name="小女孩"]  ......
+[name="女の子"]  ……
+[name="Little Girl"]  ......
+[name="소녀"]  ……
 
 [name="小女孩"]  ......流星姐姐？
+[name="女の子"]  ……メテオお姉ちゃん？
+[name="Little Girl"]  Meteor...?
+[name="소녀"]  ……메테오 언니?
 
 [name="小女孩"]  其实我知道......你常来找米纳姐姐......我见过你，你说话的语气很温柔......我......
+[name="女の子"]  実は知ってるの……お姉ちゃん、よくミーナお姉ちゃんに会いに来てたでしょ……だから見たことあったんだ。お姉ちゃんの話し方は優しくて……それで……
+[name="Little Girl"]  I know that... you come looking for Mina a lot... I've seen you before. You talk so gentle... I...
+[name="소녀"]  사실 나 알아…… 미나 언니 찾으러 자주 왔잖아…… 언니를 본 적 있어. 말투가 다정해서…… 나……
 
 [name="流星"]  如果你不介意，就把我当作你的姐姐吧，我一直很想有个妹妹呢。
+[name="メテオ"]  あなたさえよければ、私を本当のお姉ちゃんだと思ってくれてもいいわ。私もずっと妹がほしかったの。
+[name="Meteor"]  If you want to, you can think of me as a big sister. I've always wanted a little sister.
+[name="메테오"]  괜찮다면 날 언니라고 생각해도 돼. 나도 여동생을 갖고 싶었거든.
 
 [name="小女孩"]  我......真的可以吗？
+[name="女の子"]  ほっ……ほんとにいいの？
+[name="Little Girl"]  I... May I really?
+[name="소녀"]  저, 정말 그래도 돼?
 
 [name="流星"]  当然可以了。
+[name="メテオ"]  もちろんよ。
+[name="Meteor"]  Of course.
+[name="메테오"]  되고말고.
 
 [name="小女孩"]  呜呜......
+[name="女の子"]  ううっ……
+[name="Little Girl"]  *Whimpers*...
+[name="소녀"]  흐흑……
 
 [name="小女孩"]  流星姐姐，我......呜呜......
+[name="女の子"]  メテオお姉ちゃん、あたし……うう……
+[name="Little Girl"]  Meteor, I... *Sobs*...
+[name="소녀"]  메테오 언니, 난…… 으아앙……
 
 [name="流星"]  怎么了？没事的，什么都可以和姐姐说的。
+[name="メテオ"]  どうしたの？　大丈夫よ、何でもお姉ちゃんに話してちょうだい。
+[name="Meteor"]  What's the matter? It's okay. Tell your big sister everything.
+[name="메테오"]  왜 그래? 괜찮아, 뭐든지 이 언니한테 다 말해봐.
 
 [name="小女孩"]  我的小娃娃，我、我找不到了。
+[name="女の子"]  あたしのお人形が、なっ、無くなっちゃったの。
+[name="Little Girl"]  I-I can't find my doll!
+[name="소녀"]  인형…… 내 인형을 못 찾겠어.
 
 [name="流星"]  这样啊，你有告诉米纳吗？她有没有帮你找一找。
+[name="メテオ"]  そうだったの。ミーナお姉さんは知ってるのかしら？　一緒に探してくれた？
+[name="Meteor"]  Ah, I see. Have you talked to Mina about it? Did she help you look?
+[name="메테오"]  그렇구나. 미나한테 이야기해봤어? 언니가 안 찾아준 거야?
 
 [name="小女孩"]  米纳姐姐好忙的，我不可以......不可以麻烦她的。
+[name="女の子"]  ミーナお姉ちゃんはすごく忙しいから、あたし……邪魔しちゃいけないと思って……
+[name="Little Girl"]  She's very busy... I can't... can't bother her.
+[name="소녀"]  미나 언니가 바빠서…… 귀찮게 굴면 안 되니까……
 
 [name="流星"]  没关系的，或者姐姐去别的地方再找找。
+[name="メテオ"]  大丈夫よ。そうね、お姉ちゃんが他の場所を探してきてあげるわ。
+[name="Meteor"]  That's okay. How about I go look for it, then?
+[name="메테오"]  괜찮아, 아니면 언니가 다른 곳에서 찾아볼게.
 
 [name="小女孩"]  我不想找了，不找了，姐姐你别走，求你......求你，别留我一个人。
+[name="女の子"]  ううん、もういいの。探さなくていいから、だからお姉ちゃん行かないで、おねがい……おねがい、一人にしないで。
+[name="Little Girl"]  I don't want to look for it anymore. Don't. Don't go, Meteor. Please... Please don't leave me alone.
+[name="소녀"]  괘, 괜찮아. 안 찾을래. 그러니까 가지 마, 언니…… 제발…… 제발 나 혼자 두지 마.
 
 [name="流星"]  我不走，别害怕。那姐姐带你去再买一个。
+[name="メテオ"]  分かったわ、心配しないで。それじゃあ一緒に新しいお人形を買いに行きましょうか。
+[name="Meteor"]  I won't go anywhere. It's okay. How about I buy you a new one, then?
+[name="메테오"]  알았어, 무서워하지 마. 언니랑 같이 새것 사러 갈까?
 
 [name="小女孩"]  呜......我不要新娃娃，我只想姐姐，姐......姐你陪陪我，我不想一个人。
+[name="女の子"]  うぅ……新しいお人形もいらない。お姉ちゃんがいてくれればいいから……一緒にいてほしいの、一人はいやだよぉ。
+[name="Little Girl"]  *Sobs*... I don't want a new doll! I just want a big sister... S-Stay here with me, Meteor. I don't want to be alone.
+[name="소녀"]  흑흑…… 새것은 필요 없어, 언니만 있으면 돼. 언니…… 나랑 같이 있어 줘, 혼자는 싫어.
 
 [name="流星"]  别担心，我不走，我陪着你。
+[name="メテオ"]  大丈夫だよ。私はどこにも行かないわ、あなたの側にいるから。
+[name="Meteor"]  Don't worry. I'm not going anywhere. I'm here.
+[name="메테오"]  걱정하지 마. 어디 안 가고 네 곁에 있을게.
 
 [name="小女孩"]  呜呜呜哇啊———
+[name="女の子"]  うぅぅわぁん―――
+[name="Little Girl"]  *Sobs*—
+[name="소녀"]  흐어어엉……
 
 [name="流星"]  我在，我在 ，姐姐在，没关系，你再也不用害怕了。
+[name="メテオ"]  よしよし、お姉ちゃんはここにいるわ。大丈夫、もう怖がらなくていいわよ。
+[name="Meteor"]  I'm here. I'm here. Don't worry. You don't need to be scared anymore.
+[name="메테오"]  그래, 그래. 언니가 함께 있어 줄 테니 이젠 무서워하지 마.
 
 [name="流星"] 吉安娜怎么光着脚丫！米纳你怎么不给她穿双袜子？
+[name="メテオ"] ちょっとジェンナ、どうして裸足なの！　ミーナ、この子に靴下をはかせてあげなかったの？
+[name="Meteor"] How come Gianna isn't even wearing socks? Mina, why is she completely barefoot?!
+[name="메테오"] 지아나는 왜 맨발이야! 미나야, 얘 양말 안 신겨줬어?
 
 [name="医疗干员"]  不怪我啊呜呜，她听说要来找你，才套上毛衣就飞快蹿出门了，我根本逮不住哇。
+[name="ミーナ"]  そうじゃないのよ。この子ったら、あなたに会えるって聞いて、上着を着ただけで飛び出しちゃって、捕まえられなかったの。
+[name="Medic Operator"]  It's not my fault! She said she wanted to come look for you, and she ran out the door after she put on a sweater! I couldn't catch her!
+[name="메딕 오퍼레이터"]  그게 아니야! 널 만나러 간다는 소리에 스웨터만 후다닥 입고 문밖으로 뛰쳐나갔지 뭐야. 잡을 수도 없었다고.
 
 [name="吉安娜"]  呜呜呜，流星姐姐我害怕，它吼的声音太大了，我不敢一个人睡。
+[name="ジェンナ"]  うううーっ、メテオお姉ちゃん、怖いよぉ。雷の音がすごくて、一人じゃ寝られないよぉ。
+[name="Gianna"]  *Whimpers*, Meteor, I'm scared! That boom is too loud! I'm too scared to sleep!
+[name="지아나"]  흐어엉…… 메테오 언니, 나 무서워. 소리가 너무 커서 혼자 못 자겠어.
 
 [name="流星"]  是打雷声吗？真是个坏蛋，我们明天去找博士批评它。
+[name="メテオ"]  雷の音？　本当に悪い雷ね。明日ドクターのところに行ってこらしめてもらいましょう。
+[name="Meteor"]  You mean the thunder? Bad, bad thunder. We'll go to the Doctor tomorrow and file a complaint.
+[name="메테오"]  천둥소리를 말하는 거야? 정말 나쁜 녀석이지. 우리 내일 박사한테 가서 천둥을 혼내주자.
 
 [name="吉安娜"]  嗯嗯，呜呜呜......
+[name="ジェンナ"]  うん、ううう……
+[name="Gianna"]  Okay, *sobs*...
+[name="지아나"]  으응, 흐으윽……
 
 [name="流星"]  你们快进来。
+[name="メテオ"]  さぁ、早く入って。
+[name="Meteor"]  Okay now, you two come inside.
+[name="메테오"]  빨리 들어와.
 
 [name="医疗干员"]  我就不进去了。这是她的牙刷，喝完奶记得督促她刷牙，还有她的小毛巾、袜子、手套布偶和羽毛卡子。
+[name="ミーナ"]  いや、私はもう行くよ。ジェンナの歯ブラシはこれね。ミルクを飲んだら忘れずに歯を磨かせて。それからタオルと、靴下、手袋に、お人形、あと羽の髪留めよ。
+[name="Medic Operator"]  I'll pass. Here's her toothbrush. Make sure she brushes her teeth after she's done with her milk, and here's her towel, her socks, her hand puppet, and her feather hairpin.
+[name="메딕 오퍼레이터"]  난 됐어. 여기 칫솔, 우유 다 마시면 꼭 이를 닦으라고 해. 그리고 여기 수건이랑 양말, 장갑 인형이랑 깃털 머리끈이야.
 
 [name="流星"]  知道了。你啊，真是老妈子。
+[name="メテオ"]  分かったわ。あなたってば、本当にお母さんみたいね。
+[name="Meteor"]  Okay, I got it. Look at you. You're like her mom.
+[name="메테오"]  알겠어. 그런데 너 하는 짓이 꼭 엄마 같아.
 
 [name="医疗干员"]  欸？你一说好像真的是哦。呼，好吧，“老妈子”我还有工作要做，吉安娜你在这里不可以调皮哦。
+[name="ミーナ"]  えっ？　そう言われれば、そうかもね。ふふ、じゃあ「お母さん」はまだ仕事があるから、ジェンナはここでいい子にしてるのよ。
+[name="Medic Operator"]  Eh? Now that you mention it, I guess I'm kinda like one. Hm, okay. Gianna? Mommy still has work to do. Be a good girl here, okay?
+[name="메딕 오퍼레이터"]  엣? 그렇게 말하니까 꼭 진짜 같잖아. 뭐, 좋아. '엄마'는 일을 해야 하니까 지아나는 얌전히 있어요.
 
 [name="流星"]  来吧，吉安娜，和米纳姐姐说再见。
+[name="メテオ"]  おいで、ジェンナ。ミーナお姉さんにバイバイして。
+[name="Meteor"]  Come, Gianna, say bye bye to Mina.
+[name="메테오"]  자, 지아나. 미나 언니한테 인사해야지.
 
 [name="吉安娜"]  呜呜呜......米拉姐姐再见。
+[name="ジェンナ"]  ううう……またね、ミーラお姉ちゃん。
+[name="Gianna"]  *Sobs*... Bye, Mila.
+[name="지아나"]  흐으윽…… 미라 언니, 안녕.
 
 [name="医疗干员"]  是米纳不是米拉啊，吉安娜！算了，得赶紧回去了，晚安啦，流星。
+[name="ミーナ"]  ミーラじゃなくてミーナよ、ジェンナ！　まぁいいわ。そろそろ戻らなきゃ。おやすみなさい、メテオ。
+[name="Medic Operator"]  It's Mina, not Mila! Oh, well. I gotta go back. Good night, Meteor.
+[name="메딕 오퍼레이터"]  미라가 아니라 미나! 뭐 됐어, 빨리 돌아가야 해. 잘 자, 메테오.
 
 [name="流星"]  晚安，明天见。
+[name="メテオ"]  おやすみ、また明日。
+[name="Meteor"]  Good night. I'll see you tomorrow.
+[name="메테오"]  안녕, 내일 봐.
 
 [name="吉安娜"]  呜呜呜，明......明天见。
+[name="ジェンナ"]  うううっ、まっ……また明日。
+[name="Gianna"]  *Whimpers*, s-see you tomorrow.
+[name="지아나"]  흐흑…… 내, 내일 봐.
 
 [name="流星"]  吉安娜，不要把鼻涕蹭在我的睡衣上哦。
+[name="メテオ"]  ジェンナ、私のパジャマに鼻水をつけないでね。
+[name="Meteor"]  Gianna, you're covered in snot. Don't get my pajamas all dirty, okay?
+[name="메테오"]  지아나, 내 잠옷 자락에 콧물 비비지 마.
 
 [name="吉安娜"]  才不会......呲溜。
+[name="ジェンナ"]  そんなことしないもん……スビッ。
+[name="Gianna"]  I won't... *Sniffs*.
+[name="지아나"]  안 그랬…… 쓰흡.
 
 [name="流星"]  你知道吗？我可以帮你拿纸的。
+[name="メテオ"]  すすって我慢しないの。お姉ちゃんはティッシュくらいちゃんと用意してあげられるわよ？
+[name="Meteor"]  You know, I can get you some tissues.
+[name="메테오"]  거봐, 휴지 가져다줄까?
 
 [name="吉安娜"]  啊，流星姐，又要掉下来了！！
+[name="ジェンナ"]  うっ、メテオお姉ちゃんっ、また落ちちゃう！！
+[name="Gianna"]  Oh, Meteor, it's coming out again!!
+[name="지아나"]  앗, 메테오 언니…… 또 흘러내려!!
 
 [name="流星"]  啊啊纸呢？在哪里！在这里！给你，快擦擦！
+[name="メテオ"]  ああっ！　ティッシュはどこ？　あった！　はい、早く拭いて！
+[name="Meteor"]  Ahh! Where are the tissues? Right here! Here you go, wipe yourself clean!
+[name="메테오"]  아악, 안 돼! 휴지는 어디 있더라? 여기 있네! 자, 빨리 닦아!
 
 [name="流星"]  好了。快钻进被窝里去，把脚丫也塞进去。
+[name="メテオ"]  よし。早くお布団に入って、足もちゃんと入れてね。
+[name="Meteor"]  Okay now let's tuck you into bed. Be sure to get your feet in too.
+[name="메테오"]  됐다. 얼른 이불에 들어가, 발도 집어넣고.
 
 [name="吉安娜"]  流星姐姐的被子好暖和，还有玫瑰花的味道。
+[name="ジェンナ"]  メテオお姉ちゃんのお布団、あったかいね。それに、バラの香りがする。
+[name="Gianna"]  Your blanket is so warm, Meteor, and it smells like roses.
+[name="지아나"]  언니네 이불은 엄청 따뜻해, 장미꽃 향기도 나.
 
 [name="流星"]  噗嗤，傻丫头。
+[name="メテオ"]  ぷっ、この子ったら。
+[name="Meteor"]  *Chuckles*, don't be silly.
+[name="메테오"]  푸흡, 바보.
 
 [name="吉安娜"]  流星姐姐也过来。
+[name="ジェンナ"]  メテオお姉ちゃんも早く来て。
+[name="Gianna"]  Come here, Meteor.
+[name="지아나"]  메테오 언니도 누워.
 
 [name="流星"]  要我抱抱吗？
+[name="メテオ"]  抱っこ？
+[name="Meteor"]  You want a hug?
+[name="메테오"]  안아줄까?
 
 [name="吉安娜"]  嗯。
+[name="ジェンナ"]  うん。
+[name="Gianna"]  Yup!
+[name="지아나"]  응.
 
 [name="流星"]  要听故事吗？
+[name="メテオ"]  何かお話する？
+[name="Meteor"]  You want me to tell you a story too?
+[name="메테오"]  이야기 들을래?
 
 [name="吉安娜"]  嗯。
+[name="ジェンナ"]  うん。
+[name="Gianna"]  Yup!
+[name="지아나"]  응, 좋아.
 
 [name="流星"]  听完后要乖乖睡觉，不再害怕打雷吗？
+[name="メテオ"]  お話を聞き終わったら、いい子で寝るのよ。もう雷は怖くない？
+[name="Meteor"]  Be sure to go to bed after the story, okay? You won't be scared of the thunder anymore, right?
+[name="메테오"]  다 듣고 나면 얌전히 자는 거야. 천둥 치는 거 이제 안 무서워?
 
 [name="吉安娜"]  嗯......
+[name="ジェンナ"]  うん……
+[name="Gianna"]  Yeah...
+[name="지아나"]  응……
 
 [name="吉安娜"]  ......流星姐姐，其实我，我是因为那天，那天也像今天这样，爸爸，妈妈和姐姐都越来越冷，我、我才害怕。
+[name="ジェンナ"]  ……メテオお姉ちゃん、実はね、あっ、あの日……あの日も今日みたいな天気だったの。お父さん、お母さんやお姉ちゃんはどんどん冷たくなって、だっ、だから怖いの。
+[name="Gianna"]  Meteor... Actually, I'm scared because... the same thing happened that day too. Daddy, Mommy, and my big sister all got colder and colder... That's why I'm scared.
+[name="지아나"]  ……메테오 언니, 사실 그날…… 그날도 오늘 같은 날씨였어. 엄마, 아빠랑 언니 모두가 점점 차가워졌어. 그, 그래서 너무 무서워서……
 
 [name="流星"]  ......原来吉安娜是因为那些过去的事情才害怕打雷的吗？
+[name="メテオ"]  ……それを思い出すから、雷を怖がっていたのね？
+[name="Meteor"]  I see... You're scared of the thunder because of what happened...?
+[name="메테오"]  ……지아나는 그날 있었던 일 때문에 천둥을 무서워하게 된 거야?
 
 [name="吉安娜"]  呜，我还是做不到像流星姐姐那样坚强。
+[name="ジェンナ"]  う、やっぱりあたし、メテオお姉ちゃんみたいに強くなれないよ。
+[name="Gianna"]  *Sobs*... I wanna be as strong as you, but I'm not...
+[name="지아나"]  흐흑…… 역시 난 언니처럼 강해질 수 없나 봐.
 
 [name="流星"]  可没关系的，姐姐也有因为过去的事情而害怕的时候啊，吉安娜。
+[name="メテオ"]  強さは関係ないわ。お姉ちゃんも昔を思い出して怖くなるときがあるのよ、ジェンナ。
+[name="Meteor"]  It's okay. I get scared because of things that happened in the past too, Gianna.
+[name="메테오"]  괜찮아, 지아나. 언니도 지난 일 때문에 무서워할 때가 있었거든.
 
 [name="吉安娜"]  真的吗？可是流星姐姐无论什么时候看起来都很勇敢，这要怎么做到啊？
+[name="ジェンナ"]  ほんとに？　でもメテオお姉ちゃんはいつでもとっても勇敢だよ。どうしたらそうなれるの？
+[name="Gianna"]  Really? But you always look like you're not scared of anything. How do you do that?
+[name="지아나"]  정말? 하지만 메테오 언니는 언제나 용감해 보여. 어떻게 하면 그렇게 될 수 있어?
 
 [name="流星"]  首先呢，姐姐会把那些事情想象成一个可怕的怪物，再把自己当成一个勇敢的小猎手。
+[name="メテオ"]  まずはね、お姉ちゃんは過去の記憶を怖いモンスターだと思うの。それから、自分は勇敢な狩人だって想像するの。
+[name="Meteor"]  Well, first I think of the things that I'm scared of as big, scary monsters. Then I imagine myself a brave hunter.
+[name="메테오"]  일단 그 일을 무서운 괴물이라고 생각해. 그러고 나서 자신을 용감한 사냥꾼이라고 상상하는 거야.
 
 [name="吉安娜"]  再然后呢，你会怎么做，流星姐姐？
+[name="ジェンナ"]  それからは？　どうするの？
+[name="Gianna"]  What do you do after that?
+[name="지아나"]  그 담에는? 어떻게 한 거야, 언니?
 
 [name="流星"]  这个啊，就值得我们好好讲一个故事了。
+[name="メテオ"]  それには、まずはあるお話から始めないといけないわね。
+[name="Meteor"]  Well, this is where I tell you a little story.
+[name="메테오"]  그건 말이지, 천천히 이야기로 들려줄게.
 
 [name="吉安娜"]  故事？什么样的？
+[name="ジェンナ"]  お話？　どんな？
+[name="Gianna"]  A story? What kind?
+[name="지아나"]  이야기? 어떤 이야기?
 
 [name="流星"]  很久很久以前，在遥远的卡西米尔，在广袤的森林中，在厚厚的落叶堆里。
+[name="メテオ"]  昔々、遙か遠いカジミエーシュの広大な森の中に、大きな落ち葉の山がありました。その中には……
+[name="Meteor"]  Once upon a time, in a big forest in faraway Kazimierz, there was a thick pile of leaves on the ground.
+[name="메테오"]  아주아주 오래전, 머나먼 카시미어의 넓은 숲속에 커다란 낙엽 더미가 있었답니다. 그 안에……
 
 [name="吉安娜"]  有什么？
+[name="ジェンナ"]  何があるの？
+[name="Gianna"]  Was there something in the pile?
+[name="지아나"]  뭐가 있어?
 
 [name="流星"]  有一位小猎手在瑟瑟发抖......
+[name="メテオ"]  一人の小さな狩人が、ブルブルと震えていました……
+[name="Meteor"]  A little hunter, shivering...
+[name="메테오"]  부들부들 떨고 있는 꼬마 사냥꾼이 있었어요……
 
 [name="吉安娜"]  就像我一样，我正在流星姐姐的被子里发抖。
+[name="ジェンナ"]  あたしみたいだね。あたしも今メテオお姉ちゃんの布団の中で震えてるよ。
+[name="Gianna"]  Just like me? I'm shaking in your bed.
+[name="지아나"]  나랑 같네. 나도 이불 속에서 떨고 있어.
 
 [name="流星"]  你在发抖？唔，确实，你的脚丫还是很凉。
+[name="メテオ"]  震えているの？　あら、そうね。足が冷たいわ。
+[name="Meteor"]  You're shaking? Hm, you're right. Your feet are so cold.
+[name="메테오"]  그래? 음, 확실히 발은 아직도 차갑네.
 
 [name="流星"]  再靠过来些，让我抱着你。
+[name="メテオ"]  もう少しこっちへ来て、抱っこしてあげる。
+[name="Meteor"]  Come closer. I'll hold you.
+[name="메테오"]  좀 더 가까이 와, 더 꽉 안아줄게.
 
 [name="流星"]  还冷吗？
+[name="メテオ"]  まだ寒い？
+[name="Meteor"]  Is it still cold?
+[name="메테오"]  아직도 추워?
 
 [name="吉安娜"]  不冷了。
+[name="ジェンナ"]  寒くないよ。
+[name="Gianna"]  Nope.
+[name="지아나"]  이젠 안 추워.
 
 [name="流星"]  那我继续了哦。
+[name="メテオ"]  じゃあ続けるわね。
+[name="Meteor"]  Let's keep going, then.
+[name="메테오"]  그럼 계속해 볼까?
 
 [name="流星"]  我们可怜的小猎手离开了家，孤零零地迷失在山林中。寒冷的北风灌进她薄薄的衣衫，冰冷的雨水打湿她细软的发丝。
+[name="メテオ"]  可哀想な小さい狩人は一人、家を離れて、山の中でさまよっていました。冷たい北風が薄い上着に吹き込んで、氷水のような雨が彼女の柔らかい髪を濡らしました。
+[name="Meteor"]  Our poor little hunter had left home, and she was lost in the forest, all alone. The chilly wind was seeping through her thin clothes, and her hair was completely drenched by the cold rain.
+[name="메테오"]  우리 불쌍한 꼬마 사냥꾼은 길을 잃어 홀로 산속을 헤매고 있었어요. 사나운 북풍은 꼬마 사냥꾼의 얇은 옷깃을 파고들었고, 차가운 빗방울은 부드러운 머릿결을 적셨어요.
 
 [name="流星"]  远处天空中响起隆隆的雷声，正同她那饥饿的肚皮一起痛苦地嚎叫。
+[name="メテオ"]  遠くの空で雷の音が響いています。それは飢えで背中とくっつきそうなお腹と一緒に、ゴロゴロと苦しみの音を立てます。
+[name="Meteor"]  The sounds of the thunder in the skies high up above were just as loud as the howls of her hungry tummy.
+[name="메테오"]  저 멀리 하늘에서 우르릉 쾅쾅하는 천둥소리가 들렸어요. 마치 꼬마 사냥꾼의 굶주린 배가 울부짖는 고통의 꼬르륵 소리처럼.
 
 [name="吉安娜"]  好可怕。
+[name="ジェンナ"]  怖いよぉ。
+[name="Gianna"]  That sounds so scary.
+[name="지아나"]  무서워……
 
 [name="流星"]  不，更可怕的是，一只野兽，狡猾且庞大，它正循着丝丝微弱的气味寻找小猎手的踪迹。
+[name="メテオ"]  いいえ。更に怖いのは、一匹の獣です。ずる賢くて巨大な獣が、微かな気配をたどって、小さな狩人の後を追っていました。
+[name="Meteor"]  No, what's even scarier is that there was a huge, crafty wild beast following the hunter's weak scent, tracking her down.
+[name="메테오"]  아니죠. 더 무서운 건 교활하고 커다란 짐승이 희미한 냄새를 따라 꼬마 사냥꾼의 흔적을 쫓고 있었다는 거예요.
 
 [name="流星"]  它把鼻子拱进湿漉漉的泥土，蹭过粗糙的树皮。草丛、沼泽、溪畔，每一寸地方它都不会放过。
+[name="メテオ"]  獣は鼻を湿った泥に突っ込んで、ざらざらした木の皮にこすりつけます。草むら、沼、小川の畔、どんなところも見逃しません。
+[name="Meteor"]  It buried its nose in the wet mud and rubbed itself against the coarse tree barks. The bushes, the swamps, the streams. It wasn't going to leave any corner untouched.
+[name="메테오"]  짐승은 젖은 진흙 속에 코를 박은 채, 거친 나무껍질을 스치며 지나갔답니다. 수풀, 늪, 개울가, 어떤 곳도 놓치고 싶지 않았죠.
 
 [name="流星"]  终于在一棵枯树下，它嗅到了......它找到了......一只小脚丫——！
+[name="メテオ"]  そしてある枯れ木の下で、獣はついに嗅ぎつけます……見つけたのです……一本の小さな足を――！
+[name="Meteor"]  Finally, under a dead tree, it finally found it... It found... a foot—!
+[name="메테오"]  그리고 어느 고목 아래에서 기어이 냄새를 맡은 짐승은…… 마침내 발견했답니다! 작은 발…… 하나를!!
 
 [name="吉安娜"]  哇！流星姐姐坏蛋，放开我的脚！
+[name="ジェンナ"]  うわぁ！　メテオお姉ちゃんの意地悪、足を放してぇ！
+[name="Gianna"]  Ahh! Meteor, you meanie! Let go of my leg!
+[name="지아나"]  꺄악! 언니, 나 놀랬잖아! 내 발 놔줘!
 
 [name="流星"]  嗯，摸起来你的脚丫已经不冷了。
+[name="メテオ"]  うん、だいぶ温まったわね。
+[name="Meteor"]  Yep, looks like your feet aren't so cold anymore.
+[name="메테오"]  헤헷, 이제 발이 따뜻해진 것 같네.
 
 [name="吉安娜"]  哼，我要把它们放在你的肚皮上。
+[name="ジェンナ"]  もうっ、お姉ちゃんのお腹にのっけてやるー。
+[name="Gianna"]  Hmph, I'm putting my feet on your tummy.
+[name="지아나"]  흥, 언니 배 위에 발 올려놓을 거야.
 
 [name="流星"]  好啊。嗯，不过我们讲到哪里了？
+[name="メテオ"]  いいわよ。えっと、どこまで話したんだっけ。
+[name="Meteor"]  Sure thing. Hm, where were we again?
+[name="메테오"]  그래. 앗, 그런데 우리 어디까지 이야기했더라?
 
 [name="吉安娜"]  野兽发现她了，它就要抓住她了。
+[name="ジェンナ"]  獣が狩人を見つけて、狩人が捕まっちゃいそうになったの。
+[name="Gianna"]  The beast found her, and it was going to catch her.
+[name="지아나"]  짐승이 사냥꾼을 발견하고 발을 막 잡으려고 한데까지.
 
 [name="流星"]  啊，对，躲在落叶堆中的小猎手害怕地抱着头，她已经听到了野兽浑浊的鼻息和它踱步时爪子带起泥汤点的声音。
+[name="メテオ"]  ああ、そうね。落ち葉の中に隠れていた小さな狩人は、怖くて頭を抱えました。はっきりとした獣の荒い鼻息と、歩くたびに爪が泥をはね上げる音が聞こえます。
+[name="Meteor"]  Oh, right. The little hunter was so scared that she was hiding in a pile of leaves. She could already hear the beast's breath and the sounds of its hooves trudging through the mud.
+[name="메테오"]  아, 맞아. 낙엽 더미 속에 숨어있던 꼬마 사냥꾼은 겁에 질린 채 머리를 움켜쥐었어요. 짐승의 거친 숨소리와 발을 내디딜 때마다 흙탕물이 튀는 소리가 똑똑히 들렸어요.
 
 [name="流星"]  嘶呼——嘶呼——
+[name="メテオ"]  スフ――ッ、スフ――ッ
+[name="Meteor"]  Huff—Huff—
+[name="메테오"]  크응…… 크응……
 
 [name="吉安娜"]  啪嗒——啪嗒——
+[name="ジェンナ"]  ポタッ――ポタッ――
+[name="Gianna"]  *Thump*—
+[name="지아나"]  철퍽…… 철퍽……
 
 [name="流星"]  小猎手不敢呼吸，眼泪大颗大颗地掉出来。
+[name="メテオ"]  小さな狩人は怖くて息もできません。大きな涙の粒がこぼれ落ちました。
+[name="Meteor"]  The little hunter was too scared to even breathe. Tears dripped down her face one after another.
+[name="메테오"]  꼬마 사냥꾼은 무서워서 숨도 쉬지 못했어요. 눈에서는 커다란 눈물방울만 뚝뚝 떨어졌어요.
 
 [name="流星"]  多少个昼夜这头野兽对小猎手穷追不舍，虽然她数次侥幸与危险擦肩而过，但今天，但此刻，我们可怜的小姑娘，她已经走上了绝路。
+[name="メテオ"]  獣が小さな狩人を追って何日経ったことでしょう。今までは何とか危険を逃れてきました。しかし今日、この時ばかりは、可哀想な少女にもう逃げ場はありませんでした。
+[name="Meteor"]  The beast had been hunting the hunter day after day, night after night. She managed to get away so many times, but our poor little hunter wasn't going to get away this time.
+[name="메테오"]  짐승은 꼬마 사냥꾼을 며칠이나 쫓아다녔어요. 지금까지 어떻게든 위험을 모면해 왔지만, 오늘만큼은 이 불쌍한 소녀에게 더 이상 도망갈 곳이 없었어요.
 
 [name="吉安娜"]  不可以放弃，小猎手！
+[name="ジェンナ"]  あきらめちゃだめだよ、狩人さん！
+[name="Gianna"]  Don't give up, hunter!
+[name="지아나"]  포기하면 안 돼, 꼬마 사냥꾼!
 
 [name="流星"]  没错，当然不行！在野兽探出利爪的那一刻，小猎手强迫自己冷静下来，她问自己：我真的步入绝境了吗？
+[name="メテオ"]  その通り、絶対に折れちゃだめよ！　獣が鋭い爪を出した、その瞬間のことです。小さな狩人は何とか心を落ち着かせ、自分に問いかけました。本当に打つ手はないの？
+[name="Meteor"]  Right, she can't give up! As soon as the beast bore its fangs, the hunter forced herself to calm down and asked, 'Do I really have my back to the wall?'
+[name="메테오"]  맞아요, 포기하면 안 되죠! 짐승이 날카로운 발톱을 드러낸 순간, 꼬마 사냥꾼은 놀란 가슴을 간신히 진정시키곤, 여기서 끝이냐고 자신에게 되물었어요.
 
 [name="流星"]  她沉住气，摸出筒里最后一支箭。从落叶间的缝隙中，她第一次勇敢直面了这只可怕的野兽。
+[name="メテオ"]  彼女は落ち着いて、矢筒の中から最後の矢を取り出しました。そして落ち葉の隙間から、勇気を振り絞り、はじめて恐ろしい獣を見つめました。
+[name="Meteor"]  She held her breath and took out the very last arrow in her quiver. She finally found the courage to take on the beast, looking straight at it through the gaps in the pile of leaves.
+[name="메테오"]  꼬마 사냥꾼은 침착하게 화살통에서 마지막 화살을 꺼냈어요. 그리곤 낙엽 사이로 용기를 내어 처음으로 그 짐승을 마주했어요.
 
 [name="吉安娜"]  她不害怕了吗？为什么？
+[name="ジェンナ"]  怖くなくなったの？　どうして？
+[name="Gianna"]  Why wasn't she scared anymore?
+[name="지아나"]  꼬마 사냥꾼은 이제 안 무서운 거야? 왜?
 
 [name="流星"]  她想起了爷爷唱给她的歌。
+[name="メテオ"]  おじいさんの歌を思い出したの。
+[name="Meteor"]  She remembered a song that her grandpa used to sing for her.
+[name="메테오"]  꼬마 사냥꾼은 할아버지가 불러주던 노래가 떠올랐답니다.
 
 [name="吉安娜"]  是什么样的歌，流星姐姐也唱给我听吧。
+[name="ジェンナ"]  どんな歌なの？　歌って歌って。
+[name="Gianna"]  What kind of a song is that? Can you sing it for me, Meteor?
+[name="지아나"]  어떤 노래? 언니가 불러 줘.
 
 [name="流星"]  当小猎手还是小小猎手的时候，爷爷会抱她在怀里唱：“♪乖乖小姑娘，柔柔明月光，郁郁深林中，野兽身后追♪。“
+[name="メテオ"]  小さな狩人が、まだ小さな小さな狩人だったとき、おじいさんが彼女を抱いて歌っていたの。「♪お利口さんのお嬢ちゃん、ほんわり明るい月の下、わさわさ茂った森の中、獣が後から追ってくる♪」
+[name="Meteor"]  When the little hunter was still a tiny little baby hunter, her grandpa always sang this while he held her: '♪My baby girl, should you find yourself chased through the woods by a beast most vile, under the calm, gentle moon in the sky♪'
+[name="메테오"]  꼬마 사냥꾼이 아기였을 때 할아버지가 품에 안고 이런 노래를 불러줬대요. “♪귀여운 우리 아가, 부드러운 달빛 아래, 어둑한 숲속에서, 짐승에게 쫓긴다네♪”
 
 [name="流星"]  “♪千万莫忘记，大步向前奔，若是无前路，勇敢转过头，举起小木弓，搭上小木箭♪。”
+[name="メテオ"]  「♪忘れちゃいけない、大きく前へ歩むこと。行く道なかったら、勇気を出して振り向いて。小さな弓構えて、小さな矢をつがえよう♪」
+[name="Meteor"]  '♪Never forget, walk forth in big strides. If there is no way to go, turn around not with fright. With your bow and arrow you must fight, and the beast you must smite♪'
+[name="메테오"]  “♪앞으로 달려가다, 막다른 길에 들어서면, 용감히 뒤로 돌아, 활을 들어, 화살을 얹고, 활시위를 당기거라♪”
 
 [name="流星"]  在那一刻，月光为她指出方向，大地扶着她的肩头。小猎手松开弓弦，呼啸着的北风把这支木箭直直送入了野兽的胸口，就这样它倒下了。
+[name="メテオ"]  その瞬間、月の光が彼女に方向を指し示し、大地が彼女の肩を支えました。小さな狩人が引き絞った弦を放すと、強い北風が木の矢を獣の胸めがけて送り届け、ついに獣は倒れたのです。
+[name="Meteor"]  At that moment, the moonlight lit the way, and the earth helped her lift her shoulders. The little hunter released her bowstring, and the roaring breeze sent her arrow straight into the beast's chest, felling it.
+[name="메테오"]  그 찰나, 달빛이 방향을 가리켰고, 대지가 어깨를 받쳐줬어요. 꼬마 사냥꾼이 활시위에서 손을 떼자, 화살은 휘몰아치는 북풍과 함께 짐승의 가슴에 정통으로 꽂혔고, 짐승은 결국 쓰러졌답니다.
 
 [name="吉安娜"]  流星姐姐！那头野兽就这样死去了吗？
+[name="ジェンナ"]  メテオお姉ちゃん！　その獣は死んだの？
+[name="Gianna"]  Meteor, did the beast die?
+[name="지아나"]  메테오 언니! 그럼 짐승은 그렇게 죽게 된 거야?
 
 [name="流星"]  是的，凭着决心与勇敢，小猎手在最后的关头战胜了这只给她带来恐惧的野兽，而流星姐姐我，也是这样打败了那些让自己害怕的过去。
+[name="メテオ"]  そうよ。決心と勇気によって、小さな狩人は最後の最後に、恐怖をもたらす獣に勝ったの。そしてメテオお姉ちゃんもね、そんなふうに恐ろしい過去を打ち負かしたのよ。
+[name="Meteor"]  Yes, it did. With that tiny bit of determination and courage, the little hunter defeated the frightening beast in the most decisive moment. And me, that's also how I overcame my past, the past that I used to be scared of.
+[name="메테오"]  맞아, 굳은 결심과 용기로 꼬마 사냥꾼은 마지막 순간에 자신에게 두려움을 안겨준 짐승을 쓰러뜨렸어. 나도 그렇게 자신을 두렵게 했던 과거를 물리칠 수 있었고.
 
 [name="流星"]  只要我们的小吉安娜能鼓起勇气面对，在任何绝境中都可——
+[name="メテオ"]  だからジェンナも、勇気を奮い立たせて向き合えば、どんなに窮地に立たされても絶対に――
+[name="Meteor"]  And as long as you can muster up the courage, Gianna, you can overcome anything that—
+[name="메테오"]  그러니까 우리 지아나도 용기를 내서 두려움을 마주하면, 아무리 절망에 처해도……
 
 [name="吉安娜"]  可是流星姐姐，我，我不想打败我的过去啊！当我害怕的时候，不仅仅是糟糕的事情，还有那些和大家的快乐回忆，它们会一起出现的。
+[name="ジェンナ"]  でもメテオお姉ちゃん、あ、あたしは、自分の過去なんか倒したくないよ！　だって、怖いときはね、嫌なことだけじゃなくて、みんなとの楽しい思い出も、一緒に出てくるんだよ。
+[name="Gianna"]  But, Meteor, I-I don't want to defeat my past! When I'm scared, it's not just the bad things that I remember. I remember all the happy memories I had with everyone too!
+[name="지아나"]  하지만 메테오 언니…… 난, 내 과거를 쓰러뜨리고 싶지 않아! 무서울 땐 나쁜 일도 생각나지만 즐거웠던 기억도 함께 떠오르거든.
 
 [name="流星"]  可是，可是想到这些让吉安娜难受了不是吗？
+[name="メテオ"]  でも、それを思い出すとジェンナは辛いんでしょう？
+[name="Meteor"]  Doesn't thinking about them make your heart ache, though?
+[name="메테오"]  그래도 그런 일이 떠오르면 지아나는 괴롭지 않아?
 
 [name="吉安娜"]  嗯，是很难受的，还会掉眼泪，但是胸口烫烫的，很温暖。之前没有流星姐姐的时候，都是那些回忆陪我的。
+[name="ジェンナ"]  うん、とっても辛くて、涙が出ちゃうの。でも胸が熱くなって、すごく暖かい気持ちになるんだ。メテオお姉ちゃんと出会う前は、その思い出たちがずっとあたしの側にいてくれたんだよ。
+[name="Gianna"]  Yup... it does, and it makes me cry, but it warms up my heart too. When I didn't have you, it was the memories that helped me through everything.
+[name="지아나"]  응, 괴로워. 그리고 눈물도 나. 그런데 가슴도 함께 따뜻해져. 메테오 언니가 없었을 때 그런 추억들이 내 곁에 있어 줬어.
 
 [name="流星"]  嗯呃......是、是这样吗？看来......看来你的小野兽并不是想吃掉你呢，哈哈。
+[name="メテオ"]  ええと……そ、そうなの？　あなたの獣さんは、あなたを食べようとはしてないみたいね、はは。
+[name="Meteor"]  Hmm... really? Looks like... Looks like your little beast doesn't actually want to eat you. Haha.
+[name="메테오"]  아아…… 그, 그런 거야? 네 짐승은 널 잡아먹을 생각이 없나 보다. 하.하.
 
 [name="吉安娜"]  我觉得流星姐姐故事里的野兽也不想啊呜吃掉小猎手呀。
+[name="ジェンナ"]  メテオお姉ちゃんのお話の中の獣も、小さな狩人を食べようとはしてなかったんじゃないかなぁ。
+[name="Gianna"]  I don't think the beast in your story wanted to eat the hunter either.
+[name="지아나"]  언니가 들려준 이야기 속의 짐승도 꼬마 사냥꾼을 잡아먹을 생각이 없었을 거야.
 
 [name="流星"]  这，你怎么能知道野兽不想吃掉小猎手呢？
+[name="メテオ"]  あら、どうしてわかるの？
+[name="Meteor"]  Hm? What makes you think that?
+[name="메테오"]  그, 그걸 어떻게 알아?
 
 [name="吉安娜"]  那小猎手又怎么知道野兽想吃掉她呢？她从来没有问过野兽。她一直因为害怕而逃跑，都没有回头问问它。
+[name="ジェンナ"]  じゃあ小さな狩人こそ、どうして獣が食べようとしてるって知ってたの？　獣に聞いてないでしょ。彼女は怖がって逃げてばかりで、振り返って聞いてないよ。
+[name="Gianna"]  How does the hunter know the beast wants to eat her? She didn't ask the beast, and she's only ever run away. She never tried to talk to the beast.
+[name="지아나"]  그럼 짐승이 자신을 잡아먹으려는 걸 꼬마 사냥꾼은 어떻게 알아? 무서워서 도망치기만 했지, 한 번도 돌아서서 물어보진 않았잖아.
 
 [name="流星"]  你看，野兽一直穷凶极恶地追着小猎手，除了吃掉她，它好像也不会有别的目的了，不是吗？
+[name="メテオ"]  でも、獣はずっと猛烈に小さな狩人を追っていたのよ。彼女を食べる以外に目的があるとは思えないわよね？
+[name="Meteor"]  Well, the beast has been chasing the hunter. What else could it be after, if not eating her?
+[name="메테오"]  하지만 짐승은 꼬마 사냥꾼을 계속 쫓고 있었는걸. 잡아먹는 것 말고는 다른 목적이 있었을까?
 
 [name="吉安娜"]  不是的，流星姐姐，你讲了小猎手害怕、寒冷、肚子饿，可你从来没说她因为野兽的追赶受伤了啊？
+[name="ジェンナ"]  違うよ、メテオお姉ちゃん。お姉ちゃんは、小さな狩人は怖くて、寒くて、お腹が減ってるって言ってたけど、獣に追われて怪我をしたとは一度も言わなかったよ？
+[name="Gianna"]  No, Meteor. You said the hunter was scared, cold, and hungry. You never said she was hurt because the beast chased her.
+[name="지아나"]  아니야, 메테오 언니는 꼬마 사냥꾼이 무섭고 춥고 배고프다고 했지, 짐승에게 쫓겨서 다쳤다고는 안 했잖아.
 
 [name="吉安娜"]  或许它就是觉得这段路不好走，这个孤独的女孩需要一位同伴。
+[name="ジェンナ"]  もしかしたら獣は、この道は歩きにくいから、独りぼっちの女の子には一緒に歩いてくれる仲間が必要だ、って思ったのかもしれないよ。
+[name="Gianna"]  Maybe it thinks the lonely girl needs a friend to help her out of that place.
+[name="지아나"]  어쩌면 짐승은 길이 험해서 외로운 꼬마 사냥꾼에게 친구가 필요하다고 생각했을지도 몰라.
 
 [name="吉安娜"]  所以，不要杀掉它，拜托了，流星姐姐，不要。
+[name="ジェンナ"]  だから獣を殺さないで、お願い。メテオお姉ちゃん、殺さないで。
+[name="Gianna"]  Please, Meteor. Please don't kill it.
+[name="지아나"]  그러니까 짐승을 죽이지 마. 부탁이야, 언니.
 
 [name="流星"]  ......
+[name="メテオ"]  ……
+[name="Meteor"]  ......
+[name="메테오"]  ……
 
 [name="吉安娜"]  流星姐姐，你、你怎么不说话了？
+[name="ジェンナ"]  メテオお姉ちゃん、どっ、どうして黙っちゃったの？
+[name="Gianna"]  Meteor? W-What's the matter? Why are you so quiet?
+[name="지아나"]  메테오 언니…… 왜 아무 말도 안 해?
 
 [name="吉安娜"]  是吉安娜说错了吗？
+[name="ジェンナ"]  あたし、悪いことを言っちゃった？
+[name="Gianna"]  Did I say something wrong?
+[name="지아나"]  지아나가 말을 잘못한 거야?
 
 [name="流星"]  不是的，是我想到了一些过去的事情。
+[name="メテオ"]  いいえ。少し昔の出来事を思い出したの。
+[name="Meteor"]  No, you reminded me of something, in the past.
+[name="메테오"]  아니, 옛날 일이 생각나서……
 
 [name="吉安娜"]  是那些会让人胸口烫烫的回忆吗？
+[name="ジェンナ"]  胸が熱くなるような思い出？
+[name="Gianna"]  Is it a memory that makes your chest burn?
+[name="지아나"]  가슴을 따뜻하게 해주는 추억이야?
 
 [name="流星"]  啊，是呀，以前总觉得这些回忆想想就难过，所以总是竭力遏制它们出现在脑袋里。
+[name="メテオ"]  ええ、そうよ。以前は思い出すとなんだか辛くなったから、なるべく頭に浮かび上がってこないように抑えていたの。
+[name="Meteor"]  Yep, it always makes me feel down in the dumps whenever I think about it. That's why I try my best to keep myself from remembering it.
+[name="메테오"]  맞아. 예전에는 생각하면 왠지 괴로워져서 가급적 떠오르지 않도록 억누르곤 했지.
 
 [name="吉安娜"]  不可以这样的，流星姐姐。
+[name="ジェンナ"]  そんなことしちゃだめだよ、メテオお姉ちゃん。
+[name="Gianna"]  You can't do that, Meteor.
+[name="지아나"]  그렇게 하면 안 돼, 메테오 언니.
 
 [name="流星"]  是啊，你是对的，小猎手错了，我也错了，我怎么能将它杀死呢？我怎么能将它们封存呢？
+[name="メテオ"]  そう、あなたの言う通りね。小さな狩人は間違ってた。私も間違っていたわ。どうして殺そうとしたのかしら？　どうして記憶を閉じ込めていたのかしら？　……いつだって、いたのに。
+[name="Meteor"]  Yeah, you're right. The hunter was wrong, and I was too. I shouldn't have killed it, and I shouldn't have sealed the memory away.
+[name="메테오"]  그래, 네 말이 맞아. 꼬마 사냥꾼도 틀렸고, 나도 틀렸어. 왜 짐승을 죽이려고 했을까, 또 왜 그걸 봉인하려 했을까?
 
 [name="流星"]  离家后无数个漫漫长夜，那些荒漠与丛林。痛苦、快乐、悲伤、无聊，我经历过的每一刻都有它在，它从来不想杀死我。
+[name="メテオ"]  家を離れてからの、数え切れないほど長い夜たち。かつての荒野と密林。苦しい時、楽しい時、悲しい時、退屈な時、私のここまでの道にはいつだって、アレがいた。一度も私を殺そうとはしなかった。
+[name="Meteor"]  All those nights I spent in the wastes, away from my family. The pain, the joy, the sorrow, and the boredom... It was there every moment, and it wasn't there to kill me.
+[name="메테오"]  집을 떠난 후 보냈던 수없는 밤, 황야든 숲이든, 고통과 즐거움, 슬픔과 외로움…… 돌이켜보니 내가 보냈던 모든 순간에 녀석도 함께했어. 그리고 처음부터 나를 죽일 생각은 없었던 것 같아.
 
 [name="吉安娜"]  （流星姐姐说的，有点懂了，但又感觉没懂。）
+[name="ジェンナ"]  （今のメテオお姉ちゃんの話、少しだけ分かるような、でも分からないような。）
+[name="Gianna"]  (I kind of know what Meteor's saying... but also kind of don't.)
+[name="지아나"]  (언니의 말은 알 것 같지만, 모르겠어……)
 
 [name="流星"]  （深呼吸）
+[name="メテオ"]  （深呼吸）
+[name="Meteor"]  (Deep breath)
+[name="메테오"]  (쓰읍…… 하아……)
 
 [name="流星"]  吉安娜，我......我想到了一个新的结局，要听吗?
+[name="メテオ"]  ジェンナ。私……新しい結末を思いついたわ。聞きたい？
+[name="Meteor"]  Gianna, I... I just came up with a new ending. Wanna hear it?
+[name="메테오"]  지아나, 나…… 새로운 결말이 떠올랐는데, 들어볼래?
 
 [name="吉安娜"]  要的！
+[name="ジェンナ"]  聞きたい！
+[name="Gianna"]  Yes!
+[name="지아나"]  응!
 
 [name="流星"]  那就躺好，钻进被子里去。
+[name="メテオ"]  じゃあもう一度寝て。しっかりお布団に入るのよ。
+[name="Meteor"]  Okay, then. Lie down and get in bed.
+[name="메테오"]  그럼 이제 누워서 이불 속에 푹 파묻히는 거야.
 
 [name="吉安娜"]  我躺好了，眼睛也闭上了，姐姐快讲。
+[name="ジェンナ"]  寝たよ。目も閉じたから、早く話して、お姉ちゃん。
+[name="Gianna"]  I lied down! My eyes are shut, too! Tell me the story!
+[name="지아나"]  누웠어, 눈도 감았어. 언니, 얼른 이야기해 줘.
 
 [name="流星"]  最后的最后，我们的小猎手拔出了她的匕首，但利刃并没有朝野兽的心脏挥下。
+[name="メテオ"]  最後の最後、小さな狩人は短剣を抜きました。しかし、鋭い刃は獣の心臓に向かって振り下ろされませんでした。
+[name="Meteor"]  At the very end, the little hunter took her dagger out, but she didn't use it to stab the beast's heart.
+[name="메테오"]  마지막의 마지막…… 우리의 꼬마 사냥꾼은 비수를 뽑아 들었지만, 그 날카로운 칼날은 짐승의 심장을 향하지 않았어요.
 
 [name="流星"]  小猎手只是割下了自己的衣摆，细心地为野兽包扎起伤口。
+[name="メテオ"]  なんと小さな狩人は、自分の服を切って、優しく獣の傷口に巻いたのです。
+[name="Meteor"]  Instead, she cut off a piece of her clothes and bandaged the beast's wound.
+[name="메테오"]  대신 자신의 옷자락을 베어서 짐승의 상처에 조심스레 감아줬답니다.
 
 [name="流星"]  摸了摸野兽毛茸茸的大脑袋，然后她问：“你还能站起来吗，大家伙？”
+[name="メテオ"]  獣のふさふさの頭を撫でながら、聞きました。「まだ立てる？　大きな君？」
+[name="Meteor"]  She petted the beast's fluffy head and then asked, 'Can you move, buddy?'
+[name="메테오"]  그리곤 짐승의 부스스한 머리를 쓰다듬으며 “일어설 수 있겠어, 친구야?”라고 물어봤어요.
 
 [name="流星"]  野兽沉默了好一会儿，缓缓立起了身。
+[name="メテオ"]  獣は少しの間黙っていましたが、ゆっくりと立ち上がりました。
+[name="Meteor"]  The beast pondered a little in silence and then stood up.
+[name="메테오"]  짐승은 잠시 침묵하더니 천천히 몸을 일으켰어요.
 
 [name="流星"]  小猎手又问：“我将有一段未知的冒险，正需要一个伙伴，你想来吗？”
+[name="メテオ"]  小さな狩人はまた聞きました。「私、これから未知の冒険に出かけるの。だから仲間がほしいと思ってたんだ。君も一緒に来る？」
+[name="Meteor"]  Then, she asked the beast, 'I'm going on an adventure. I don't know what lies ahead, but I know I'll need a buddy. Do you want to come?'
+[name="메테오"]  그러자 꼬마 사냥꾼이 또 물었어요. “미지의 모험을 떠날 건데 동료가 필요해. 같이 갈래?”
 
 [name="流星"]  这一次野兽没有沉默，从它的喉咙里滚出了一声愉快的嘶鸣，那条鞭子一样有力的尾巴同时也摆动起来。
+[name="メテオ"]  今度は獣は黙っていませんでした。獣の喉から、楽しそうな叫び声がほとばしり、鞭のように力強い尾がゆらゆらと揺れ始めました。
+[name="Meteor"]  The beast didn't stay quiet this time. It neighed happily, and it started to sway its tail from side to side, like a whip.
+[name="메테오"]  이번엔 침묵을 깨고 기분 좋은 듯 그르렁거리더니, 이내 채찍처럼 꼬리를 힘차게 흔들었어요.
 
 [name="流星"]  这个家伙跑得很快，骑在它高高的脊背上小猎手甚至可以抓住旋卷而来的风。
+[name="メテオ"]  獣は走るのがとっても速くて、その高い高い背中に跨がると、小さな狩人は風に乗ることさえできるのです。
+[name="Meteor"]  It ran really fast, and when she rode on its back, it was just like the hunter could grasp the wind.
+[name="메테오"]  녀석의 달리기는 너무 빨라서, 등에 올라탄 꼬마 사냥꾼은 마치 바람을 탄 기분이 들었어요.
 
 [name="流星"]  从此以后小猎手再也不孤单了，他们一起朝有太阳的方向奔去。
+[name="メテオ"]  もうこの先、小さな狩人は独りぼっちじゃありません。二人は一緒に太陽へ向かって駆けていきました。
+[name="Meteor"]  She wasn't lonely any more. Together, they ran off toward the sunlight.
+[name="메테오"]  이제 꼬마 사냥꾼은 더는 외롭지 않았어요. 그렇게 둘은 태양을 향해 달려갔답니다.
 
 [name="吉安娜"]  呼——哈啊——流星姐......姐，困了。
+[name="ジェンナ"]  ふ――ふわぁ――メテオお姉ちゃん……あたし眠くなっちゃった。
+[name="Gianna"]  Zzz—Meteor... I'm tired.
+[name="지아나"]  하아암…… 메테오 언니…… 졸려.
 
 [name="吉安娜"]  呼——呼——
+[name="ジェンナ"]  スゥ――スゥ――
+[name="Gianna"]  Zzzz—
+[name="지아나"]  새근…… 새근……
 
 [name="流星"]  睡着了吗？
+[name="メテオ"]  寝たの？
+[name="Meteor"]  Are you asleep?
+[name="메테오"]  자는 거야?
 
 [name="吉安娜"]  呼——呼......
+[name="ジェンナ"]  スゥ――スゥ……
+[name="Gianna"]  Zzzzz...
+[name="지아나"]  새근…… 새근……
 
 [name="流星"]  米纳这个傻瓜。
+[name="メテオ"]  ミーナってバカね。
+[name="Meteor"]  Mina's such a dummy.
+[name="메테오"]  미나는 바보였어……
 
 [name="流星"]  她还以为你不够坚强，其实吉安娜你早就知道怎么面对那些事了，对不对？
+[name="メテオ"]  ミーナはあなたが強くないって思ってたみたいだけど、ジェンナ、あなたはとっくに過去との向き合い方を知っていたのね？
+[name="Meteor"]  She thinks you aren't strong enough, but you figured out how to confront those things a long time ago.
+[name="메테오"]  미나는 네가 강하지 않다고 생각했는데, 지아나 너는 과거를 대처하는 법을 이미 알고 있었던 거야. 안 그래?
 
 [name="流星"]  （亲吻）不过谢谢你，吉安娜。
+[name="メテオ"]  （キス）でも、ありがとう、ジェンナ。
+[name="Meteor"]  (Kisses) But thanks, Gianna.
+[name="메테오"]  (볼 뽀뽀) 고마워, 지아나.
 
 [name="流星"]  谢谢......
+[name="メテオ"]  ありがとう……
+[name="Meteor"]  Thanks...
+[name="메테오"]  고마워……
 

@@ -20,7 +20,7 @@
 
 [name="杜宾"]  ......做的不错，Dr.{@nickname}。
 [name="ドーベルマン"]  悪くない戦果だ、Dr.{@nickname}。
-[name="Dobermann"]  ...Well done, Dr {@nickname}.
+[name="Dobermann"]  ...Well done, Dr. {@nickname}.
 [name="도베르만"]  …나쁘지 않은 결과야, {@nickname} 박사.
 
 [name="杜宾"]  是该客观评价你的能力了。
@@ -100,7 +100,7 @@
 
 [name="阿米娅"]   Dr.{@nickname}......
 [name="アーミヤ"]   Dr.{@nickname}……。
-[name="Amiya"]   Dr {@nickname}...
+[name="Amiya"]   Dr. {@nickname}...
 [name="아미야"]   {@nickname} 박사님…
 
 [name="阿米娅"]   类似的问题，你以前也问过呢。
@@ -185,7 +185,7 @@
 
 [name="杜宾"]  ......与之相反，有了Dr.{@nickname}你，罗德岛的处境，也许能有所改善。
 [name="ドーベルマン"]  こう言うのなんだが……それとは逆にロドスがDr.{@nickname}を奪還したことで、感染者たちに希望をもたらすことができるかも知れない。
-[name="Dobermann"]  ...In contrast, with you here, Dr {@nickname}, perhaps Rhodes Island's situation will improve.
+[name="Dobermann"]  ...In contrast, with you here, Dr. {@nickname}, perhaps Rhodes Island's situation will improve.
 [name="도베르만"]  …그와는 반대로, 이런 표현이 적절한지는 모르겠다만… 로도스 아일랜드에는 {@nickname} 박사가 돌아왔으니 오히려 우위를 점한 걸지도 모르겠군.
 
 [Decision(options="......这和我也有关系？;......;那我还挺重要的。", values="1;2;3")]
@@ -320,7 +320,7 @@
 
 [name="杜宾"]  Dr.{@nickname}，这可能也会是你职责的一部分。
 [name="ドーベルマン"]  Dr.{@nickname}、これはお前自身が、自らのなすべき事として自覚することになるだろう。
-[name="Dobermann"]  Dr {@nickname}, perhaps this will be your calling as well.
+[name="Dobermann"]  Dr. {@nickname}, perhaps this will be your calling as well.
 [name="도베르만"]  {@nickname} 박사, 이런 일들을 네가 해야 할 수도 있다는 이야기다.
 
 [name="杜宾"]  ......至少，这是我粗浅的请求。

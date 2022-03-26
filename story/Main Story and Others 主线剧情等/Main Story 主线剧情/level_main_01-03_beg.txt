@@ -10,7 +10,7 @@
 
 [name=""]   Dr.{@nickname}营救行动 第三阶段
 [name=""]   Dr.{@nickname}救出作戦 第三段階
-[name=""]   Dr {@nickname} Rescue Operation, Phase 3
+[name=""]   Dr. {@nickname} Rescue Operation, Phase 3
 [name=""]   {@nickname} 박사 구출 작전 제3단계
 
 [name="杜宾"]  还剩不到一个小时，没时间从其他区域绕行了......
@@ -50,7 +50,7 @@
 
 [name="杜宾"]  Dr.{@nickname}，你的想法呢？
 [name="ドーベルマン"]  Dr.{@nickname}、考えを聞かせてくれ？
-[name="Dobermann"]  Dr {@nickname}, what's your assessment?
+[name="Dobermann"]  Dr. {@nickname}, what's your assessment?
 [name="도베르만"]  {@nickname} 박사, 어떤 판단을 내리겠나?
 
 [Decision(options="正面碾压过去就好！;......大概，他们也没法阻拦......;敌人想组织反击也需要时间。", values="1;2;3")]
@@ -125,7 +125,7 @@
 
 [name="杜宾"]  我可以把这看作是Dr.{@nickname}的命令吗，阿米娅？
 [name="ドーベルマン"]  これをDr.{@nickname}の命令を実行する手段として行動してもいいか？アーミヤ？
-[name="Dobermann"]  I take it that these are Dr {@nickname}'s orders, Amiya?
+[name="Dobermann"]  I take it that these are Dr. {@nickname}'s orders, Amiya?
 [name="도베르만"]  이 작전을 {@nickname} 박사의 명령이라 생각해도 되겠나, 아미야?
 
 [name="阿米娅"]  局势很明了了。我相信博士的选择......
@@ -140,7 +140,7 @@
 
 [name="杜宾"]   我很看好Dr.{@nickname}，但阿米娅......
 [name="ドーベルマン"]   Dr.{@nickname}は、確かによくやっているが、アーミヤ……。
-[name="Dobermann"]   I do think highly of Dr {@nickname}, Amiya...
+[name="Dobermann"]   I do think highly of Dr. {@nickname}, Amiya...
 [name="도베르만"]   {@nickname} 박사는 잘하고 있다. 하지만 아미야…
 
 [name="杜宾"]   不要放松警惕。你当然可以借助博士的智慧，但不可以完全依赖他。

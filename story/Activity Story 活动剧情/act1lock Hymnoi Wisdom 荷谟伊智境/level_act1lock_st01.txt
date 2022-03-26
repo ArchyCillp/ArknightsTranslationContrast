@@ -1,106 +1,265 @@
 [name="凯尔希"]  请进。
+[name="ケルシー"]  入ってくれ。
+[name="Kal'tsit"]  Come in.
+[name="켈시"]  들어와.
 
 [name="帕拉斯"]  啊，凯尔希女士。博士，您也在。
+[name="パラス"]  あっ、ケルシーさん。それと、ドクターもいらしたのですね。
+[name="Pallas"]  Oh, Dame Kal'tsit. You're here too, Doctor.
+[name="팔라스"]  아, 켈시 선생님, 박사님도 계셨네요?
 
 [name="帕拉斯"]  我们曾在廊上打过几次招呼，那时候您和我还并未足够熟悉。既然我被传唤而来，想必“盛会的邀约”已经传达到您的耳中了。
+[name="パラス"]  以前何度か廊下でご挨拶させていただきましたが、こうして関わるのは初めてですね。私が呼ばれた以上、あなたも恐らく「盛大なる催しへの招待」についてお聞きになったことと思います。
+[name="Pallas"]  We said hello to each other several times in the hallway, though we didn't know each other well yet at the time. Since I have been summoned here, I suppose news of our invitation to the celebration has made it to your ears.
+[name="팔라스"]  전에 복도에서 몇 번 인사를 나눈 적이 있습니다만, 그땐 서로 잘 아는 사이는 아니었죠? 제가 불려 온 걸 보면 그 '축제의 초대장'이 박사님께도 전해졌나 보네요.
 
 [Decision(options="“盛会的邀约”......？",values="1")]
+[Decision(options="「盛大なる催しへの招待」……？",values="1")]
+[Decision(options="'Invitation to the celebration...?'",values="1")]
+[Decision(options="'축제의 초대장'……?",values="1")]
 
 [name="凯尔希"]  本次联锁安保竞赛，是首次在米诺斯举办的安保竞赛。
+[name="ケルシー"]  今回の連鎖安全保障競技は、ミノスにおける初開催となるからな。
+[name="Kal'tsit"]  This Interlocking Security Competition is the first one to be held in Minos.
+[name="켈시"]  이번에 치러지는 인터락킹 컴페티션은, 미노스에선 처음 개최되는 거야.
 
 [name="凯尔希"]  实际上，这次邀请罗德岛参赛，与赛事委员会和米诺斯方面负责人接洽的种种行动，都是由祭司帕拉斯对接完成的。
+[name="ケルシー"]  実際、今回ロドスを招待し大会委員会やミノス側の責任者との折衝を担当してくれたのは、すべてこのパラス祭司だ。
+[name="Kal'tsit"]  Actually, it was Priestess Pallas who helped with the invitation and liaised with the competition committee and the Minos officials.
+[name="켈시"]  사실 이번에 로도스 아일랜드가 경기 참가 요청을 받은 것과 조직 위원회 및 미노스 측의 책임자들과 교섭을 할 수 있었던 건, 모두 팔라스 제사장 덕분이지.
 
 [name="帕拉斯"]  能够接纳我进行隐蔽的治疗，罗德岛已经给予了我诸多恩惠。
+[name="パラス"]  私を受け入れ、秘密裏に治療してくださったロドスには大きな恩義を感じております。
+[name="Pallas"]  Rhodes Island has embraced me with open arms and given me treatment. It has already bestowed on me far too many acts of kindness.
+[name="팔라스"]  제가 비밀리에 치료를 받을 수 있게, 로도스 아일랜드에서는 저에게 많은 은혜를 베풀어주셨죠.
 
 [name="帕拉斯"]  参与不同的盛典、享受节日盛典的喜庆、进行武力的比拼是每一位勇士发自心底的期盼，也是对荣耀的渴望。
+[name="パラス"]  それに、様々な祭典に参加し、祭日の喜びを享受して、力比べを行うこと……これはすべての勇者が心の底から望むことであり、栄誉への渇望の表れでもありますから。
+[name="Pallas"]  To participate in the different ceremonies, to enjoy the festivities, and to compete against one another with their raw might. All of this is the joy that all warriors strive for. They are the manifestation of their thirst for glory.
+[name="팔라스"]  다양한 축제에 참여해 명절 축제의 즐거운 분위기를 만끽하고 힘을 겨루는 것은 모든 용사의 가장 큰 바람이자, 명예에 대한 갈망이 아니겠습니까.
 
 [name="帕拉斯"]  对于赐予我恩惠的朋友，我自然热情于将同样令人心情愉快的、互有益处的盛会的情报传递给他们。
+[name="パラス"]  大恩ある友人たちのため、双方にとって有益かつ愉快な催しについてお伝えするのは当然のことですよ。
+[name="Pallas"]  I have been blessed with such generosity by my friends here. Naturally, I will return the favor by sharing news of a celebration equally excitable and beneficial.
+[name="팔라스"]  제게 은혜를 베풀어준 친구라면, 당연히 이 즐겁고 유익한 축제의 정보를 알려드려야죠.
 
 [name="凯尔希"]  情况就是这样，Dr.{@nickname}。详细的事情会由本次竞赛活动特别甄选代表——帕拉斯，和你慢慢详说。我还有别的事情要处理。
+[name="ケルシー"]  聞いての通りだ、Dr.{@nickname}。ことの仔細は、今回の特別推薦選手であるパラスから存分に聞くといい。私にはまだ他に対処すべきことがあるのでな。
+[name="Kal'tsit"]  That's the size of it, Dr. {@nickname}. I will leave it to our special deputy for this competition, Pallas, to explain to you the details. I have more important things to attend to.
+[name="켈시"]  뭐, 이번 일은 이렇게 된 거다. {@nickname} 박사. 자세한 건 이번 경기의 특별 추천 대표인 팔라스가 자세히 설명해줄 거야. 나는 다른 업무 때문에 이만.
 
 [name="帕拉斯"]  也祝您有心情愉快的一天，凯尔希女士。
+[name="パラス"]  はい。それでは良き一日をお過ごしください、ケルシーさん。
+[name="Pallas"]  I wish you a pleasant day too, Dame Kal'tsit.
+[name="팔라스"]  켈시 선생님도 즐거운 하루 보내시기 바랍니다.
 
 [name="帕拉斯"]  ......
+[name="パラス"]  ……
+[name="Pallas"]  ......
+[name="팔라스"]  ……
 
 [Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
+[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 
 [name="帕拉斯"]  哎......不论多少次，和凯尔希女士交谈还是颇感压力。
+[name="パラス"]  はぁ……ケルシーさんとは何度もお話ししているのですが、未だに緊張してしまいます。
+[name="Pallas"]  Eh... I've talked to Dame Kal'tsit many a time, but the pressure never ceases to wear me out.
+[name="팔라스"]  하아…… 몇 번이건 켈시 선생님과의 대화는 여전히 꽤나 부담스럽군요.
 
 [name="帕拉斯"]  但愿博士的性格要更加主动一些，交流起来能够更加融洽。
+[name="パラス"]  ドクターがより活発で、打ち解け合ってお話しできる方であるよう願うばかりですよ。
+[name="Pallas"]  I only hope that you are a more proactive and approachable person than her.
+[name="팔라스"]  저희의 소통이 보다 원활해질 수 있도록, 박사님은 조금 더 적극적이셨으면 좋겠습니다.
 
 [name="帕拉斯"]  就让我们愉快地赴往盛典，完成一次惊艳的亮相，让众人领受来自罗德岛的优越素质与能力吧！来，博士，现在就......
+[name="パラス"]  祭典への愉快な道程を往き、目覚ましき雄姿を披露して、ロドスの卓越した資質と能力の発露をことごとくすべての人に享受させて差し上げましょう！　それではドクター、これより……
+[name="Pallas"]  Let us take to the festivities and amaze the world with Rhodes Island's excellent talents and prowess! Come, Doctor, let us now...
+[name="팔라스"]  자, 즐거운 마음으로 축제에 참여해 멋진 모습으로 로도스 아일랜드의 뛰어난 재능과 능력을 모두에게 증명해 보이죠! 그럼, 박사님, 지금 바로……
 
 [name="铸铁"]  哈、哈......在此以前，还请你......站住！
+[name="シデロカ"]  ハァ、ハァ……そ、その前に、ちょっと……待ってください！
+[name="Sideroca"]  *Pant*... Before that... Stop... right there!
+[name="시데로카"]  하아, 하아…… 그 전에, 잠깐…… 거기 서십시오!
 
 [name="帕拉斯"]  嗯？
+[name="パラス"]  おや？
+[name="Pallas"]  Hmm?
+[name="팔라스"]  음?
 
 [name="帕拉斯"]  啊，来自科林尼亚的战士。你又在我的身前显现了。
+[name="パラス"]  ああ、コリニアの戦士よ。再び私の前に姿を現してくださるとは。
+[name="Pallas"]  Ah, the warrior from Corinia. You come before me yet again.
+[name="팔라스"]  아, 코리니아에서 온 전사님, 당신이 또 제 앞에 나타났군요.
 
 [name="帕拉斯"]  自我们离开舰桥前往办公室的途中失去联络后，我还几番寻找过你，为何刚才要离我而去呢？
+[name="パラス"]  ブリッジを離れ、オフィスに向かう途中で連絡が途絶えてから何度も捜したのですよ。先ほどはどうして、私の元を去って行ってしまわれたのですか？
+[name="Pallas"]  I have looked for you several times ever since we left contact with each other when we left the bridge for this office. Why did you leave me?
+[name="팔라스"]  우린 함교에서 사무실로 복귀하던 도중에 연락이 끊겼죠? 당신을 한참이나 찾았는데, 아까는 왜 저를 떠나가셨나요?
 
 [name="铸铁"]  不要在博士面前搬弄是非。是你自己一边走路一边到处瞧，自说自话地找人闲聊了一阵子，然后突然就从舰桥上消失了。
+[name="シデロカ"]  ドクターの前で誤解を招くようなことを言わないでください。勝手に歩き回っていたのはあなたじゃないですか。誰かと話していたかと思えば、突然ブリッジからいなくなって……
+[name="Sideroca"]  Stop stretching the truth when the Doctor's here! You were looking everywhere the whole time you were walking, trying to make small talk, and then you even disappeared from the bridge while I wasn't paying attention.
+[name="시데로카"]  박사님 앞에서 거짓말하지 마십쇼. 당신이 걸으면서 사방을 두리번거리더니, 혼잣말로 누군가랑 한참 얘기하다가 갑자기 함교에서 사라졌잖아요?
 
 [name="帕拉斯"]  自然，不应放弃每一次与勇士相逢的机会！
+[name="パラス"]  無論、いかなる時も勇者と巡り会う機会を逃すわけには参りませんので！
+[name="Pallas"]  Of course. We mustn't miss any opportunity to meet another warrior.
+[name="팔라스"]  그거야 당연히 모든 용사님과 만나는 기회를 놓치지 않기 위해서였죠.
 
 [name="帕拉斯"]  人生本就是匆匆行进，如若能用言语和他人心灵相通，哪怕只言片语所产生的联系，也比错过后的伤感要美好。
+[name="パラス"]  人生は慌ただしき行進の連続。言葉によって他人と心通わすことができるのならば、それが僅かな言葉による繋がりであれ、その機を逃した悲しみよりはいいものです。
+[name="Pallas"]  Humans are always going on with our lives at a breakneck pace. If language could help us connect with one another's souls, then even if the connection we make is brief and momentary, I find it much better than to regret not taking the initiative to form the relationships we could have had.
+[name="팔라스"]  세월은 정처 없이 흐르고 언어로 다른 사람과 마음이 통할 수 있다면, 단 한 마디라도 더 교감하는 게 그 기회를 놓쳐 속상해하는 것보다 낫지 않겠습니까?
 
 [Decision(options="（帕拉斯在说什么？）;你们好像说的不是一回事。;......",values="1;2;3")]
+[Decision(options="（パラスは何を言っているんだ？）;二人はまるで別のことを話しているみたいに聞こえてくる。;……",values="1;2;3")]
+[Decision(options="(What is Pallas even saying?);I don't think you two are quite on the same page.;......",values="1;2;3")]
+[Decision(options="(뭔 소리 하는 거야 팔라스는?);서로 다른 얘기하고 있는 거 같은데?;……",values="1;2;3")]
 
 [name="铸铁"]  ......总之，虽然你不知道弯弯绕绕去了哪里，既然已经找到了博士，接下来就请好好完成自己的任务。
+[name="シデロカ"]  ……とにかく、あなたがどこへ行っていたかは知りませんが……ドクターを見つけた以上は、自分の任務をしっかりと遂行してください。
+[name="Sideroca"]  Anyway... I have no idea what kind of scenic route you took, but since you've found the Doctor, please finish your mission.
+[name="시데로카"]  ……여하튼, 당신이 빙빙 돌아서 어딜 갔었는지는 모르겠지만, 박사님을 만났으니 이제 당신이 맡은 임무나 잘 완수하세요.
 
 [name="铸铁"]  咳，要做的事情，第一，和博士详细说明本次联锁竞赛的主题——“荷谟伊智境”的有关情报。
+[name="シデロカ"]  こほん。まず、第一にやるべきことは、今回の連鎖競技のテーマについて――つまり、「ヒュムノイの叡智」に関する情報をドクターに詳しく説明することです。
+[name="Sideroca"]  Ahem, the things you gotta do. First, you need to explain to the Doctor all the relevant information about the main theme of this Interlocking Competition, 'Hymnoi Wisdom.'
+[name="시데로카"]  크흠, 당신이 해야 할 일은, 첫째, 박사님께 이번 인터락킹 컴페티션의 주제인 '힘노이의 지혜'에 관련해 자세하게 설명하는 것.
 
 [name="铸铁"]  第二，提出建议参赛的人选并查询近期是否有训练和参赛的时间......
+[name="シデロカ"]  そして第二に、大会参加者の人選を提案し、トレーニング及び大会参加を行うだけの時間があるかどうかを確認しなければ……
+[name="Sideroca"]  Secondly, turn in a list of recommended personnel for the competition and to look up whether they will have the time to train and participate in the competition...
+[name="시데로카"]  둘째, 경기에 참여할 인원을 뽑고, 가까운 시일 내에 훈련 및 경기에 출전할 시간이 있는지 확인할 것……
 
 [name="帕拉斯"]  可怜的，实力单薄的祭司帕拉斯啊。从前的你被教条式的生活所禁锢，终日于神庙中循规蹈矩。现如今，命运将再次使你过上这般日子吗？
+[name="パラス"]  哀れでか弱き祭司パラスよ。以前のあなたは教条に縛られた生活に囚われ、一日中神殿の規範に従って行動していました。運命は今再び、あなたにあれとよく似た日々を送らせようとしています……
+[name="Pallas"]  My poor, powerless Priestess Pallas. Before, you were shackled by a life of formalities, destined to ever follow the rules as you spend your days away at the temple. Is fate so cruel that you must live your life this way once more?
+[name="팔라스"]  약하고 가엾은 제사장 팔라스여, 전에도 기계적인 생활에 얽매여 종일 신전에 틀어박혀 규율을 지키면서 살았는데, 지금 그 운명이 내게 다시 찾아왔단 말입니까?
 
 [name="帕拉斯"]  不，勇敢的帕拉斯。抗拒，要勇于对抗那些最枯燥的条理！
+[name="パラス"]  このまま従うつもりですか？　……いいえ、それはなりません。勇敢なるパラスよ……抗いなさい。勇気を持って、つまらぬ条理に抗うのです！
+[name="Pallas"]  No, my brave Pallas. Resist! You must be fearless and defy those most tedious rules!
+[name="팔라스"]  아니, 용감한 팔라스여. 거역하세요. 그런 무미건조한 체계엔 용감하게 맞서야 합니다.
 
 [name="铸铁"]  祭司......大人，正事要紧，还请你说些能够让博士和我能听懂的话。
+[name="シデロカ"]  祭司……さん、何よりもまずは目の前の仕事をこなすことです。それと、お話はドクターと私が理解できる言葉でお願いします。
+[name="Sideroca"]  Priestess Pallas... This is serious. Please try to say something that makes sense to the Doctor and me.
+[name="시데로카"]  저기…… 팔라스 제사장, 중요한 일이니, 박사님과 제가 알아들을 수 있게 말해주면 안 될까요?
 
 [name="帕拉斯"]  呜......既然如此，我也只能忍受这般不甘的生活。
+[name="パラス"]  うう……そう仰るのであれば、この不本意な生活を耐え忍ぶしかないようですね。
+[name="Pallas"]  *Sobs*... In that case, I must bear with this life, no matter how unwilling I am.
+[name="팔라스"]  흑흑…… 그렇다면 내키진 않지만, 저도 이런 생활을 받아들일 수밖에 없습니다.
 
 [name="帕拉斯"]  博士，如若对这次竞赛的事宜还有疑惑，还请将疑问悉数告知于我。言语将化作灵羽兽传到您的耳边，使您的智慧不被蒙蔽。
+[name="パラス"]  ドクター、この度の競技について疑問点がありましたら、何でも私にお聞きください。あなたの智慧が欺かれぬよう、言葉は霊羽獣へと変じ、あなたの耳へと届けられることでしょう。
+[name="Pallas"]  Doctor, if you have any questions about this competition, please ask away without reserve. My words will turn into fowlbeasts of the soul and reach your ears so that your wisdom will be shrouded no more.
+[name="팔라스"]  박사님, 혹시 이번 경기에 대해 의문이 있다면 부디 제게 말씀해주세요. 저의 언어가 파울비스트 오브 소울로 변해 박사님의 귓전에 전해져, 박사님의 지혜가 기만당하지 않도록 할 것입니다.
 
 [Decision(options="还是告诉我联锁竞赛的事情吧。;谢谢。",values="1;2")]
+[Decision(options="では、連鎖競技について教えてほしい。;ありがとう。",values="1;2")]
+[Decision(options="Maybe tell me more about the Interlocking Competition.;Thanks.",values="1;2")]
+[Decision(options="아 제발 경기에 대한 정보나 알려줘.;고마워.",values="1;2")]
 
 [name="帕拉斯"]  嗯，从哪里说起好呢......本次联锁安保竞赛举办地设于米诺斯荷谟伊地区。
+[name="パラス"]  ええ。さて、どこからお話ししましょうか……では、この度の連鎖安全保障競技はミノスのヒュムノイ地区での開催となる、というお話から参りましょう。
+[name="Pallas"]  Yes. Where should we start...? This Interlocking Security Competition takes place in Minos's Hymnoi region.
+[name="팔라스"]  음, 어디서부터 설명해야 할지…… 이번 인터락킹 컴페티션은 미노스의 힘노이 지역에서 개최합니다.
 
 [name="帕拉斯"]  毕竟，联锁竞赛的概念起源于米诺斯，这次借着重新修建荷谟伊军事训练基地的机会，非常顺利地准备好了举办竞赛的所有条件。
+[name="パラス"]  連鎖競技の開催理念はミノスにその起源があり、今回はヒュムノイの軍事訓練基地を再建する機会があったことも伴って、競技開催のためのあらゆる条件が非常にスムーズに整いました。
+[name="Pallas"]  After all, the concept of the Interlocking Competitions originated in Minos. Since the military training bases in Hymnoi have just received new renovations and refurbishments, the region fulfilled all the requirements to host the competition.
+[name="팔라스"]  인터락킹 컴페티션의 개념은 원래 미노스에서 기원했으니까요. 마침, 이번에 힘노이 지역의 군사 훈련 기지가 재건되면서 경기를 개최할 수 있는 모든 조건도 아주 순조롭게 갖춰졌습니다.
 
 [name="帕拉斯"]  既有丰厚的奖金和物资，还能在参与过程中提升实力，最重要的是......
+[name="パラス"]  手厚い賞金や物資だけでなく、競技への参加によって実力を向上させることもできます。そして何より……
+[name="Pallas"]  Not only does the competition have a generous prize pool, we can also boost our power. Most importantly...
+[name="팔라스"]  푸짐한 상금과 물자는 물론, 경기를 통해 실력도 향상할 수 있을 뿐만 아니라, 더 중요한 건……
 
 [name="帕拉斯"]  这是仅限于商业组织之间的竞赛，不会被别有用心的官方组织忌惮。
+[name="パラス"]  これは営利団体間でのみ行われる競技ですので、よからぬ思惑を持つ公的機関に遠慮する必要もありません。
+[name="Pallas"]  This competition is limited to private, commercial organizations only, so we needn't worry about the governmental organizations interfering.
+[name="팔라스"]  이 경기는 민간 조직 간의 경쟁에 한정되어, 달리 속셈을 품은 공식 조직의 방해를 받지 않아도 된다는 것입니다.
 
 [Decision(options="......真的吗？",values="1")]
+[Decision(options="……本当か？",values="1")]
+[Decision(options="Really?",values="1")]
+[Decision(options="……정말이야?",values="1")]
 
 [name="帕拉斯"]  放心吧，智慧且谨慎的博士啊。阴谋无法在米诺斯的大地上生存，那是一片被英雄祝福的土地。
+[name="パラス"]  彼の地は英雄に祝福されし土地。ミノスの大地で陰謀が息づくことなどありません。ですからどうかご安心ください、聡明にして慎重なるドクターよ。
+[name="Pallas"]  Relax, my wise and cautious Doctor. You will never find any conspiracies in the land of Minos. Those lands are blessed only by noble heroes.
+[name="팔라스"]  걱정 마세요, 슬기롭고 신중한 용사여. 미노스는 영웅의 축복을 받은 땅이기에, 절대 음모가 존재하지 않을 겁니다.
 
 [name="帕拉斯"]  只要您前去拜访，便能体会到米诺斯人对竞技精神的推崇，而非那些残忍的利益之争。
+[name="パラス"]  一度訪れていただけば、利益目当ての残忍な争いなどではなく、競技精神を尊重するミノス人の在り方を感じ取ることができるでしょう。
+[name="Pallas"]  Once you pay it a visit, you will experience how the people of Minos hold such competitive spirit in high regard, as opposed to the cruel wars of profit fought elsewhere.
+[name="팔라스"]  그곳에 직접 가보시면 잔인한 이익 다툼이 없는, 순수한 경기 정신에 대한 미노스인들의 추앙심을 느낄 수 있을 겁니다.
 
 [name="帕拉斯"]  对正在重回强大的米诺斯而言，再没有比让这份精神在大地上传播、使在动乱中的平和更加稳固更重要的事情了。
+[name="パラス"]  力を取り戻しつつあるミノスにとって、この精神を大地に広め、動乱のさなかにある平和をより強固にすることほど、重要なことはありません。
+[name="Pallas"]  With Minos returning to its greatest, there is no greatest spirit that for us to spread across the leads, no peace to further stabilize amidst such turmoil.
+[name="팔라스"]  다시 강대해져 가는 미노스에겐, 이런 정신이 대지에 전파되어 동란 속에서 평화를 견고하게 하는 것보다 더 중요한 일은 없거든요.
 
 [name="铸铁"]  除了......科林尼亚。
+[name="シデロカ"]  ただしこれは、コリニアを除いて……のことですが。
+[name="Sideroca"]  All... except Corinia.
+[name="시데로카"]  코리니아는 아니지만…… 말이죠.
 
 [name="帕拉斯"]  当然，总会有向商贸繁盛妥协的人在。
+[name="パラス"]  もちろん、商業的繁栄を選び取り、妥協する人々もまた、存在することでしょう。
+[name="Pallas"]  Of course, there are those who make compromises for commercial trade.
+[name="팔라스"]  물론, 번성해가는 상업과 무역에 타협하는 사람은 있기 마련입니다.
 
 [name="帕拉斯"]  不过，已经毅然离开科林尼亚的战士啊，你所怀有的赤子之心，现在不是已然在罗德岛上更好地展现了吗？
+[name="パラス"]  ですが……毅然としてコリニアを去った戦士よ。あなたが大切にしてきた純真な精神は、今ではもう十分このロドスで発揮されているのではありませんか？
+[name="Pallas"]  That being said, warrior from Corinia. Haven't you already put your innocent heart to good use here in Rhodes Island?
+[name="팔라스"]  하지만, 결연히 코리니아를 떠난 전사여, 당신의 순결한 마음은 지금 이미 로도스 아일랜드에서 충분히 보여주지 않았나요?
 
 [name="铸铁"]  ......嗯。
+[name="シデロカ"]  ……そうですね。
+[name="Sideroca"]  Yeah.
+[name="시데로카"]  ……그렇네요.
 
 [name="帕拉斯"]  事不宜迟。行动起来吧，博士，我们还有许多事务要准备。
+[name="パラス"]  では、難しい話はこの辺りにして……早速行動に移りましょうか、ドクター。我々にはまだ準備すべきことが山のように残っているのですから。
+[name="Pallas"]  Let us waste no more time, Doctor. We have much to prepare.
+[name="팔라스"]  이제 슬슬 출발하시죠, 박사님. 저희는 아직 준비해야 할 일이 많습니다.
 
 [name="帕拉斯"]  不论是人员和战术的安排和准备，亦或是装备的维护与配备，都是在出发前必须确定的。
+[name="パラス"]  人員確認や戦術策定、装備のメンテナンスに配備、すべてを出発前にこなさなくてはなりません。
+[name="Pallas"]  Whether it is the planning and preparations of our personnel and our tactics or the maintenance and allocations of our equipment, they must all be completed before we leave.
+[name="팔라스"]  인원 배치든, 전술 준비든, 아니면 장비 점검이든, 모두 출발 전에 끝내야 하니까요.
 
 [Decision(options="帕拉斯，你觉得罗德岛有多大的胜算？",values="1")]
+[Decision(options="パラス、ロドスの勝算はどの程度だと思う？",values="1")]
+[Decision(options="Pallas, how good do you think the odds are for Rhodes Island?",values="1")]
+[Decision(options="네가 보기엔 우리의 승산이 얼마나 되나?",values="1")]
 
 [name="帕拉斯"]  无需担忧，博士。
+[name="パラス"]  憂慮なさる必要はありません、ドクター。
+[name="Pallas"]  You needn't worry, Doctor.
+[name="팔라스"]  박사님, 걱정 안 하셔도 됩니다.
 
 [name="帕拉斯"]  站在你身前的，是祭司帕拉斯。受到英雄的指引，我来到罗德岛，代表罗德岛参赛——
+[name="パラス"]  あなたの前に立つ者こそ、祭司パラス。英雄の導きを受け、競技参加を代表するべくロドスへと来たる者――
+[name="Pallas"]  The Priestess Pallas stands before you. I came here to Rhodes Island because of the guidance of heroes, and I am representing Rhodes Island in this competition—
+[name="팔라스"]  박사님 앞엔 영웅의 인도를 받아 로도스 아일랜드에 온, 로도스 아일랜드를 대표하여 경기에 참여하는 제사장 팔라스가 있으니깐요.
 
 [name="帕拉斯"]  我知晓罗德岛的实力。我们，罗德岛的勇士们，将会前去取得我们想要的一切。
+[name="パラス"]  私はロドスの実力を知っています。我々ロドスの勇者たちは、己の欲する一切を手に入れるべく往くのです。
+[name="Pallas"]  I understand Rhodes Island's strength. We, the warriors of Rhodes Island, will obtain all that we desire.
+[name="팔라스"]  저는 로도스 아일랜드의 실력을 잘 알고 있습니다. 우린, 로도스 아일랜드 용사들은, 원하는 모든 것을 이뤄낼 것입니다.
 
 [name="帕拉斯"]  胜算......博士，那些虚无缥缈的数字和统计毫无意义。
+[name="パラス"]  「勝算」……そのような曖昧にして虚無に等しき数字や統計は全くの無意味ですよ、ドクター。
+[name="Pallas"]  Odds... Doctor, those numbers and statistics are illusory and meaningless.
+[name="팔라스"]  승산…… 같은 허무맹랑한 숫자나 통계 따위는 아무런 의미가 없습니다.
 
 [name="帕拉斯"]  若说胜算，为取得胜利，那么最为关键的秘宝，便将是我们本身。
+[name="パラス"]  それでも敢えて「勝算」を語るとするならば……勝利を掴むため、最も重要となる要素は、他でもない我々自身といえるでしょう。
+[name="Pallas"]  After all, we determine the odds. We are the key to our success and victory.
+[name="팔라스"]  굳이 승산을 말하자면, 승리를 얻기 위해 가장 중요한 것은 바로 우리 자신이라는 것입니다.
 

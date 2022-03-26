@@ -1,0 +1,855 @@
+[Subtitle(text="女孩听话地闭上眼，松开手。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="少女は言われた通りに目を閉じ、手を離した。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The girl closes her eyes and lets go as she is told.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="소녀는 스카디의 말대로 눈을 감고 손을 놓았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="缠着她小腿的力道很快消失了。她听到很多细小的物件落水的声响。在触到海面之前，她被一股力道拽了起来，然后落到了地面上。", x=300, y=370, alignment="left", size=24, delay=0.04, width=720)]
+[Subtitle(text="同時に足へと纏わり付いていた力が、ふっと消えた。たくさんの小さな何かが水へと落ちていく音がする。そして海面に触れる瞬間、強い力が少女を陸へと引き戻し、引き上げた。", x=300, y=370, alignment="left", size=24, delay=0.04, width=720)]
+[Subtitle(text="The force gripping onto her leg quickly disappears. She can hear all sorts of tiny trinkets splashing into the water. Just before she herself touches the surface of the sea, a force pulls her upward and sends her back to dry land again.", x=300, y=370, alignment="left", size=24, delay=0.04, width=720)]
+[Subtitle(text="그러자 그녀의 다리를 휘감았던 힘이 금세 사라졌다. 소녀의 귀에 작은 물건들이 물속으로 떨어지는 소리가 들려왔다. 그리고 해면에 닿는 순간, 그녀는 강력한 힘에 끌려 땅으로 떨어졌다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=720)]
+
+[Subtitle(text="——脸先着地。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="――ただし、着地は顔からだったが……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="—She lands face first.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……얼굴이 먼저 땅에 닿았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="安妮塔"]咳咳咳......
+[name="アニタ"]きゃっ！　いたたた……
+[name="Anita"]*cough* *cough* *cough*.
+[name="아니타"]콜록콜록……
+
+[name="斯卡蒂"]......对象是人的话，力道和角度很难控制。
+[name="スカジ"]……人相手だと、力と角度のコントロールが難しいのよね。
+[name="Skadi"]It's not easy to control the strength and angle while I'm dealing with a person.
+[name="스카디"]……대상이 사람이면 힘과 각도를 제어하기 어려워.
+
+[name="安妮塔"]没、没事......
+[name="アニタ"]だ、大丈夫、大したことないですから……
+[name="Anita"]I-It's okay. I'm fine.
+[name="아니타"]괘, 괜찮아요……
+
+[name="斯卡蒂"]（嗅了嗅自己）
+[name="スカジ"]あいつら、何を嗅ぎつけて来たのかしら。私から、血の匂いは……しないみたいだし。
+[name="Skadi"](Smells herself)
+[name="스카디"](자신의 냄새를 맡는다)
+
+[name="斯卡蒂"]是不流血了啊。
+[name="スカジ"]傷口からも……もう血は出てないのに。
+[name="Skadi"]My bleeding's stopped.
+[name="스카디"]피도 멈췄는데.
+
+[name="斯卡蒂"]它们为什么还这么兴奋？这里的恐鱼本来就这么多吗？
+[name="スカジ"]それに、どうしてまだ興奮してるの？　この辺りの恐魚はこんなにも数が多いものなの？
+[name="Skadi"]Why are they still so excited? Have there always been so many Sea Terrors here?
+[name="스카디"]저것들은 왜 저렇게 흥분한 거지? 이곳에 시테러가 원래 이렇게 많았나?
+
+[name="安妮塔"]是昨天那种怪物吗？
+[name="アニタ"]昨日の怪物たちのことですか？
+[name="Anita"]Are these the same monsters from last night?
+[name="아니타"]어제 그 괴물인가요?
+
+[name="斯卡蒂"]差不多。
+[name="スカジ"]まあ、そうね。
+[name="Skadi"]More or less.
+[name="스카디"]비슷해.
+
+[name="安妮塔"]我以前没见过哩。
+[name="アニタ"]あれは今まで、一度も見たことなかったものなのれす。
+[name="Anita"]I've never seen them before.
+[name="아니타"]지금까지 본 적이 없는 것들이네요.
+
+[name="斯卡蒂"]这几天你们不要到这里来了。快回去。
+[name="スカジ"]そう。それなら、数日はここには来ないことね。早く帰りなさい。
+[name="Skadi"]You should stay away from this place for a couple of days. Now go back.
+[name="스카디"]며칠 동안은 이곳에 오지 마. 빨리 돌아가.
+
+[name="安妮塔"]歌手。
+[name="アニタ"]歌い手さん。
+[name="Anita"]Singer.
+[name="아니타"]가수님.
+
+[name="斯卡蒂"]......不要拽我的裙子。你不是那么小的小孩子了。
+[name="スカジ"]……スカートを引っ張らないで。そこまで子供じゃないでしょ。
+[name="Skadi"]Stop tugging my skirt... You aren't a child.
+[name="스카디"]……내 치마 좀 잡아당기지 마. 넌 그 정도로 어린아이도 아니잖아.
+
+[name="安妮塔"]我是想说......我想好我要什么了。我想听你唱歌。
+[name="アニタ"]えっと……私、何が欲しいか決まったんです。あなたの歌を聞かせてください。
+[name="Anita"]I just want to say... I think I know what it is that I want now. I want to hear you sing.
+[name="아니타"]전…… 제가 원하는 게 무엇인지 생각해 봤어요. 전 당신의 노래를 듣고 싶어요.
+
+[name="斯卡蒂"]哦......
+[name="スカジ"]……私の歌を？
+[name="Skadi"]Oh...
+[name="스카디"]흠……
+
+[name="安妮塔"]因为......我不知道什么是歌。我听到你在梦里哼了。但我听不懂。
+[name="アニタ"]だって……私は歌を知りませんから。あなたが夢の中で口ずさんでたのは聞きましたけど……でも、うまく聞き取れなかったので。
+[name="Anita"]And that's because... I don't know what songs are like. I heard you humming in your sleep, but I didn't understand it.
+[name="아니타"]왜냐하면…… 전 노래가 무엇인지 모르거든요. 당신이 꿈속에서 흥얼거리는 걸 들었어요. 그런데 전 알아들을 수 없었어요.
+
+[name="斯卡蒂"]好。
+[name="スカジ"]わかったわ。
+[name="Skadi"]Alright.
+[name="스카디"]좋아.
+
+[name="安妮塔"]歌手，你答应了？这是不是就是约定？
+[name="アニタ"]今、「わかった」って言いました？　これが「約束する」ってことですか？
+[name="Anita"]Singer, will you do it? Is this what it means to make a promise?
+[name="아니타"]가수님, 대답하신 거예요? 그럼 약속한 거죠?
+
+[name="斯卡蒂"]算是吧。
+[name="スカジ"]そうなるわね。
+[name="Skadi"]More or less.
+[name="스카디"]그렇다고 쳐.
+
+[name="斯卡蒂"]（皱眉）
+[name="スカジ"]……はぁ……
+[name="Skadi"](Frowns)
+[name="스카디"](미간을 찌푸린다)
+
+[name="斯卡蒂"]我的琴。
+[name="スカジ"]……私のハープ。
+[name="Skadi"]My harp.
+[name="스카디"]내 하프가.
+
+[name="安妮塔"]咦？是啊，歌手，你的琴去哪里了？
+[name="アニタ"]え？　あれ？　そういえばそうですね。歌い手さんのハープ、どこに行っちゃったんですか？
+[name="Anita"]Huh? Oh yeah, singer, where did your harp go?
+[name="아니타"]어? 맞다. 가수님, 하프는 어딨어요?
+
+[name="斯卡蒂"]......我回去找。
+[name="スカジ"]……探しに戻るわ。
+[name="Skadi"]I'll go look for it...
+[name="스카디"]……돌아가서 찾아야겠어.
+
+[name="安妮塔"]好，我帮你一起找。
+[name="アニタ"]わかりました、じゃあ私も一緒に探しますね。
+[name="Anita"]Okay. I'll help.
+[name="아니타"]네, 제가 같이 찾아 드릴게요.
+
+[name="安妮塔"]这是不是说，你愿意跟我一起回去啦？太、太好了！
+[name="アニタ"]あっ、これって……もしかして、私と一緒に戻ってくれるってことですか？　や、やったあ！
+[name="Anita"]So does this mean you'll come back with me? G-Great!
+[name="아니타"]그건, 저와 함께 돌아가고 싶단 것 맞죠? 야, 얏호!
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[name="斯卡蒂"]真的......值得这么高兴？
+[name="スカジ"]そこまで……喜ぶことかしら？
+[name="Skadi"]Is this something to be so happy about?
+[name="스카디"]그렇게…… 기쁜 일인가?
+
+[name="男性居民B"]......
+[name="男性住民B"]……
+[name="Male Inhabitant B"]......
+[name="남자 주민 B"]……
+
+[name="安妮塔"]嗨，墙灰，早上好呀！
+[name="アニタ"]ハーイ、ほこり！　おはよう！
+[name="Anita"]Hey, Drywall, good morning!
+[name="아니타"]안녕, 벽먼지, 좋은 아침!
+
+[name="男性居民B"]铁皮......
+[name="男性住民B"]トタン……
+[name="Male Inhabitant B"]Sheetmetal...
+[name="남자 주민 B"]철판……
+
+[name="安妮塔"]对啊，铁皮去哪里了？你们之前一直形影不离啊。
+[name="アニタ"]あれ、言われてみれば……トタンったらどこへ行っちゃったの？　あなたたちいつも一緒なのに。
+[name="Anita"]Oh yeah, where did Sheetmetal go? You never go anywhere without each other.
+[name="아니타"]맞다, 철판은 어디 갔어? 너희들 전엔 계속 붙어 다녔잖아.
+
+[name="男性居民B"]铁皮。
+[name="男性住民B"]トタン。
+[name="Male Inhabitant B"]Sheetmetal.
+[name="남자 주민 B"]철판.
+
+[name="安妮塔"]你盯着的方向......是海......吗？
+[name="アニタ"]あなたが見てる方向って……海……？
+[name="Anita"]Are you looking out... to the sea?
+[name="아니타"]네가 보고 있는 방향은…… 바다…… 야?
+
+[name="安妮塔"]难道说，昨天抽到红色贝壳的人，是铁皮？
+[name="アニタ"]まさか、昨日赤い貝殻を引いたのって、トタンなの？
+[name="Anita"]Does this mean... It was Sheetmetal who got the red seashell last night?
+[name="아니타"]설마 어제 빨간색 조개껍데기를 뽑은 게, 철판이었어?
+
+[name="安妮塔"]唉......
+[name="アニタ"]はぁ……
+[name="Anita"]*Sigh*...
+[name="아니타"]하아……
+
+[name="男性居民B"]木框，我的病好像更严重了。
+[name="男性住民B"]木枠、俺の病気、ひどくなったみたいだ。
+[name="Male Inhabitant B"]Woodframe, my condition got worse.
+[name="남자 주민 B"]나무틀, 내 병이 더 심해진 것 같아.
+
+[name="男性居民B"]我的胸口很涨，像是要爆开一样。
+[name="男性住民B"]俺の胸、はちきれそうだ。まるで、爆発するみたいだ。
+[name="Male Inhabitant B"]My chest is bloating like it's about to blow.
+[name="남자 주민 B"]나, 가슴이 많이 부풀어 올랐어. 터질 것 같아.
+
+[name="男性居民B"]我连东西都不想吃。你不要和我说话了。
+[name="男性住民B"]何も、食べたくない。放って、おいてくれ。
+[name="Male Inhabitant B"]I don't even want to eat. Leave me alone.
+[name="남자 주민 B"]난 음식도 먹고 싶지가 않아. 그러니 나한테 말 걸지 마.
+
+[name="安妮塔"]......唉。
+[name="アニタ"]……はぁ。
+[name="Anita"]*Sigh*...
+[name="아니타"]……하아.
+
+[name="安妮塔"]歌手，欢迎再次来到我们家！
+[name="アニタ"]歌い手さん、私たちの家へようこそ！　また来てくれて、とっても嬉しいです。
+[name="Anita"]Singer, welcome to our home sweet home again!
+[name="아니타"]가수님, 어서오세요! 저희 집에!
+
+[name="老年居民"]呃......啊......
+[name="年老いた住民"]ううっ……あぁ……
+[name="Old Inhabitant"]Ugh... agh...
+[name="노인 주민"]흐윽…… 하아……
+
+[name="斯卡蒂"]你奶奶......
+[name="スカジ"]ねえ、あなたのおばあさん……
+[name="Skadi"]Your grandmother...
+[name="스카디"]네 할머니는……
+
+[name="安妮塔"]佩特拉奶奶还在休息呢。昨天我们一起回到这里，她就一直躺着。
+[name="アニタ"]ペトラおばあさんはまだお休みしてるんです。昨日一緒に帰ってきてから、ずっと目を覚まさなくて。
+[name="Anita"]Grandma Petra is still sleeping. She's been lying down ever since we got back last night.
+[name="아니타"]페트라 할머니께선 아직 주무시고 계셔요. 어제 함께 이곳에 돌아와서부터 줄곧 주무시고 계세요.
+
+[name="安妮塔"]我想，她也消耗了很大体力，肯定很累了。我没想到她会冲出来，对审判官那样说话。她变得和平时都不一样。
+[name="アニタ"]きっと、おばあさんもたくさん体力を使って、疲れちゃったんだと思います。まさかおばあさんが出てきて、審問官にあんなこと言うなんて……普段の様子とは全然違いましたよ。
+[name="Anita"]She's probably tired, getting so worked up like that. I didn't expect her to run out and talk to the Inquisitor like that. She was different.
+[name="아니타"]할머니께서도 체력을 많이 소모하셨으니, 분명 많이 피곤하셨을 거예요. 전 할머니께서 갑자기 나오셔서 재판관님께 그렇게 말씀하실 줄은 몰랐어요. 평소와 너무 다른 모습이었어요.
+
+[name="斯卡蒂"]你说的对。她很......厉害。她打退了审判官。
+[name="スカジ"]……ええ。彼女は……すごい人だわ。審問官を追い払ったのは彼女だもの。
+[name="Skadi"]You're right. That was very amazing. She fought off the Inquisitor.
+[name="스카디"]네 말이 맞아. 할머닌…… 정말 대단해. 할머닌 재판관을 물리쳤어.
+
+[name="老年居民"]呵......哈......
+[name="年老いた住民"]ふぅ……はぁ……
+[name="Old Inhabitant"]Hmn... ha...
+[name="노인 주민"]아…… 하아……
+
+[name="安妮塔"]打退了......审判官？！歌手，你这么说，要是让审判官听见，她一定又要生气了。
+[name="アニタ"]審問官を……追い払った！？　歌い手さん、そんなこと言って……もし審問官に聞かれたら、きっとまた怒っちゃいますよ。
+[name="Anita"]She fought off.. the Inquisitor?! Singer, if the Inquisitor catches you saying that, she'll be really mad.
+[name="아니타"]재판관을…… 물리치셨다고요?! 가수님이 그렇게 말씀하시는 걸 재판관님이 들었다간 또 화를 내실 거예요.
+
+[name="斯卡蒂"]随便她。
+[name="スカジ"]好きにさせたらいいわ。
+[name="Skadi"]I don't care if she does.
+[name="스카디"]마음대로 하라지.
+
+[name="斯卡蒂"]要是她想再动手......
+[name="スカジ"]それで、また彼女が手を出してくるのなら……その時は……
+[name="Skadi"]But if she wants another go...
+[name="스카디"]만약 그 여자가 다시 싸우려고 한다면……
+
+[name="安妮塔"]她不会再来找你麻烦了吧？
+[name="アニタ"]審問官はもう、あなたにはちょっかい出さないと思いますよ？
+[name="Anita"]She won't come to you looking for trouble again, right?
+[name="아니타"]재판관이 다시 찾아와 가수님을 귀찮게 하진 않겠죠?
+
+[name="斯卡蒂"]......找谁的麻烦都一样。
+[name="スカジ"]……誰へのちょっかいだろうと同じことよ。
+[name="Skadi"]It doesn't matter to me whose trouble she's looking for.
+[name="스카디"]……누굴 귀찮게 굴든 마찬가지야.
+
+[name="斯卡蒂"]（摸箱子）
+[name="スカジ"]……
+[name="Skadi"](Strokes case)
+[name="스카디"](가방을 만지작거린다)
+
+[name="安妮塔"]对了，我们出去找琴吧！
+[name="アニタ"]……あっ、そうだ！　そろそろハープを探しに行きませんか？
+[name="Anita"]Oh, yeah, why don't we go look for your harp?
+[name="아니타"]참, 우리 하프 찾으러 가요!
+
+[name="斯卡蒂"]等一下。
+[name="スカジ"]待って。
+[name="Skadi"]Hold on.
+[name="스카디"]잠깐.
+
+[name="安妮塔"]哎？
+[name="アニタ"]はい？
+[name="Anita"]Eh?
+[name="아니타"]네?
+
+[name="斯卡蒂"]你头上。
+[name="スカジ"]頭の上。
+[name="Skadi"]You got stuff on your head.
+[name="스카디"]네 머리에.
+
+[name="安妮塔"]哇！好多绿色的黏黏的东西......这、这是什么东西呀？
+[name="アニタ"]わっ！　緑のねばねばがたくさん……な、何でしょうこれ？
+[name="Anita"]Whoa! All this green, slimy stuff... W-What is this?
+[name="아니타"]으악! 초록색 끈적끈적한 것들이 엄청 많은데…… 이게 뭐죠?
+
+[name="斯卡蒂"]是海藻。
+[name="スカジ"]海藻でしょ。
+[name="Skadi"]That's seaweed.
+[name="스카디"]해초야.
+
+[name="安妮塔"]是刚才摔跤时候蹭到的吗？
+[name="アニタ"]さっきくっついたんでしょうか？
+[name="Anita"]Did it get on my head when I tripped?
+[name="아니타"]방금 넘어졌을 때 붙은 걸까요?
+
+[name="斯卡蒂"]大概。
+[name="スカジ"]多分ね。
+[name="Skadi"]Probably.
+[name="스카디"]그런 것 같아.
+
+[name="安妮塔"]这些......有用吗？看起来和海草长得差不多。能不能等风吹干了拿来铺床？佩特拉奶奶腰不舒服，正好用得上。
+[name="アニタ"]これ、何かに使えますかね？　見た目は、海で採れる他の草にも似てますし……乾燥させたら、ベッドに敷けるかな？　ペトラおばあさんは腰が悪いので……ちょうどいいかもしれません。
+[name="Anita"]Is this stuff... useful in any way? Looks kinda like seagrass. Can I use it as bedding once it's dried? Grandma Petra's back is hurting her, so this will come in handy.
+[name="아니타"]이것들은…… 쓸모가 있나요? 해조류랑 비슷하게 생겼네요. 바람에 말리면 침대에 깔 수 있을까요? 허리가 불편하신 페트라 할머니께 딱일 것 같아요.
+
+[name="斯卡蒂"]......给我。
+[name="スカジ"]……貸して。
+[name="Skadi"]Give it to me.
+[name="스카디"]……줘봐.
+
+[name="斯卡蒂"]你用贝壳将这些海藻磨碎。不要洗掉这些粘液。
+[name="スカジ"]貝殻を使って、この海藻をすり潰すの。この粘液は、洗い流しちゃダメよ。
+[name="Skadi"]Take some seashells and use them to grind up these seaweeds. Don't wash off the slime.
+[name="스카디"]조개껍데기로 이 해초를 갈아. 점액을 씻어내지는 말고.
+
+[name="斯卡蒂"]加上一点海水，记得没过海藻。装进这个小罐子里，封好口。放半年。
+[name="スカジ"]すり潰したら、海水を加えて。全部ひたひたに浸かるようにね。そうしたら、この小瓶に入れて、蓋をする。あとは半年放っておけばいいわ。
+[name="Skadi"]Add enough seawater to completely cover the seaweeds. Put it all in a jar and seal it up, then wait half a year.
+[name="스카디"]단지에 해초를 넣고, 전부 잠길 만큼 바닷물을 부어. 그리고 잘 봉인해서 반년 동안 두는 거야.
+
+[name="斯卡蒂"]等罐子里的液体的绿色淡了，说明发酵好了，就可以喝啦。
+[name="スカジ"]瓶の中の液体は、初めは緑色だけど……色が薄くなってきたら、発酵したってことよ。そうなれば完成。飲めるようになるわ。
+[name="Skadi"]You can drink it once the liquid's greenish color has faded. That's when it's fermented.
+[name="스카디"]단지 속의 녹색이 옅어지면 발효가 다 됐단 뜻이니까, 그때 마시면 돼.
+
+[name="安妮塔"]......歌手。
+[name="アニタ"]う、歌い手さん……
+[name="Anita"]Singer...?
+[name="아니타"]……가수님.
+
+[name="斯卡蒂"]怎么了？是不是没听明白？
+[name="スカジ"]どうしたの？　わからないところでもあった？
+[name="Skadi"]What's wrong? Is there something you didn't understand?
+[name="스카디"]왜? 못 알아들었어?
+
+[name="安妮塔"]你......你好像从来没一口气对我说过这么多话！
+[name="アニタ"]初めて……初めて、私にたくさん話をしてくれましたね！
+[name="Anita"]No... I just don't think you've ever talked to me this much in one go.
+[name="아니타"]지…… 지금까지 제게 단숨에 이렇게 많은 말을 했던 적은 없었던 것 같아요!
+
+[name="斯卡蒂"]嗯。
+[name="スカジ"]……そうね。
+[name="Skadi"]Yeah.
+[name="스카디"]응.
+
+[name="斯卡蒂"]贝壳也不用扔，洗净晒干，当喝酒的容器用。
+[name="スカジ"]ああ、それと貝殻も捨てないで。洗って乾かせば、海藻で作ったお酒の器に使えるでしょ。
+[name="Skadi"]Don't throw away your seashells either. Wash them and lay them out to dry. You can use them to drink alcohol and such.
+[name="스카디"]조개껍데기도 버리지 말고 깨끗이 씻어 말려서, 술 마시는 용기로 쓰면 돼.
+
+[name="安妮塔"]酒？那是什么东西？
+[name="アニタ"]おさけ……って、何ですか？
+[name="Anita"]Alcohol? What's that?
+[name="아니타"]술이요? 그게 뭐죠?
+
+[name="斯卡蒂"]那里写着。这里原先是所酒吧。
+[name="スカジ"]そこに書いてある文字が「酒」よ。ここは元々酒場だったんでしょうね。
+[name="Skadi"]It's written right there. This place used to be a bar, a place for alcohol.
+[name="스카디"]저기에 적혀 있어. 이곳은 원래 술집이었어.
+
+[name="安妮塔"]原来这个字是酒的意思！
+[name="アニタ"]この字……「さけ」って意味だったんですね！
+[name="Anita"]So this word means alcohol!
+[name="아니타"]이 글자는 술이란 뜻이었군요!
+
+[name="斯卡蒂"]他们说喝酒能带来快乐，忘记烦恼。
+[name="スカジ"]お酒を飲めば幸せになれるし、悩み事も忘れられる……って、知人たちがよく口にしていたわ。
+[name="Skadi"]Alcohol can supposedly bring happiness and help us forget all our worries.
+[name="스카디"]사람들은 술을 마시면 기분이 좋아지고, 고민을 잊을 수 있다고 말했어.
+
+[name="安妮塔"]真的吗？
+[name="アニタ"]それって本当なんですか？
+[name="Anita"]Does it work?
+[name="아니타"]정말이에요?
+
+[name="斯卡蒂"]......没用。
+[name="スカジ"]……いいえ。
+[name="Skadi"]Not at all...
+[name="스카디"]……사실 다 소용없어.
+
+[name="斯卡蒂"]不过，味道还不错。
+[name="スカジ"]でも、味は悪くないわ。
+[name="Skadi"]It does taste pretty good, though.
+[name="스카디"]하지만 맛은 나쁘지 않아.
+
+[name="安妮塔"]你以前经常喝这个吗？在你的家乡......阿戈尔？
+[name="アニタ"]あなたの故郷では……エーギルでは、よくそれを飲んだりしてたんですか？
+[name="Anita"]Did you drink this stuff often back home...? Back in Ægir?
+[name="아니타"]가수님은 이전에 이걸 자주 마셨나요? 당신의 고향…… 에기르에서요?
+
+[name="斯卡蒂"]不大一样。
+[name="スカジ"]まるっきり同じものを、ってわけじゃないけどね。
+[name="Skadi"]Not exactly.
+[name="스카디"]좀 달라.
+
+[name="斯卡蒂"]......有时候会一起喝类似的，在跳舞之前。
+[name="スカジ"]……けど、似たようなものなら、時々一緒に飲むこともあったわ。踊りの前とかにね。
+[name="Skadi"]I would drink something similar before dances.
+[name="스카디"]……가끔 비슷한 걸 마시기도 해, 춤추기 전에.
+
+[name="安妮塔"]你们那时候一定很快乐。噢，我明白啦！不是酒能带来快乐，是快乐的时候，我们喝酒。
+[name="アニタ"]きっとすごく楽しいでしょうね……あっ！　わかった気がします。それってお酒で幸せになるんじゃなくて、幸せな時にお酒を飲むんですよ。
+[name="Anita"]It must have been very fun. Oh, I get it now! Alcohol doesn't bring happiness, but we drink alcohol when we're happy!
+[name="아니타"]그땐 엄청 즐거웠겠어요. 아, 알겠어요! 술이 즐거움을 줄 수 있는 게 아니라, 즐거울 때 우리는 술을 마시는 거네요.
+
+[name="安妮塔"]生活在外面的人，呃，是不是都会喝酒？大家是不是都很快乐？
+[name="アニタ"]あれ？　でも、外で生活してる人たちは皆お酒を飲むんですか？　もしそうなら皆幸せなんでしょうか？
+[name="Anita"]Does everyone outside, uh, drink alcohol? Is everyone out there always so happy?
+[name="아니타"]바깥에 사는 사람들은, 모두 술을 마실 줄 아나요? 모두들 즐거운가요?
+
+[name="斯卡蒂"]未必。
+[name="スカジ"]そうとも限らないわ。
+[name="Skadi"]Not necessarily.
+[name="스카디"]꼭 그렇진 않아.
+
+[name="安妮塔"]我懂了。那他们一定没有我现在这么快乐。歌手，谢谢你教我做这个酒。我真想马上就和你一起喝。
+[name="アニタ"]そうなんですか。それならきっと、今の私の方が幸せですね。私に酒の作り方を教えてくれてありがとうございます、歌い手さん。早くあなたと一緒に飲みたいです！
+[name="Anita"]I get it. They definitely aren't as happy as I am now. Singer, thanks for teaching me how to make alcohol. I really wanna drink it with you right now.
+[name="아니타"]알겠어요. 그럼 그들은 분명 저만큼 즐겁지 않을 거예요. 가수님, 술 만드는 법을 알려주셔서 고마워요. 전 지금 당장 당신과 함께 마시고 싶어요.
+
+[name="斯卡蒂"]你的手势错了。
+[name="スカジ"]……あなたのやり方、ちょっと違うわ。
+[name="Skadi"]Your hand movement is wrong.
+[name="스카디"]그렇게 하는 게 아니야.
+
+[name="斯卡蒂"]这么碾的话，很难碾碎。你可以换个角度，用最尖的部分对准海藻的纹理。
+[name="スカジ"]そんなふうにすると、潰しにくいでしょ。角度を変えるの。貝殻の一番とがった場所で、海藻の筋を狙うのよ。
+[name="Skadi"]If you grind it like that, it's not going to grind up very well. Try a different angle. Use the sharpest point and follow the seaweed's pattern.
+[name="스카디"]이렇게 빻으면 잘게 다지기 어려워. 각도를 바꿔 가장 뾰족한 부분을 해초의 결에 맞춰.
+
+[name="斯卡蒂"]掌握韵律，调整呼吸......令你的手，你的身体，与触到你肌肤的海风融为一体。
+[name="スカジ"]リズムを掴んで、呼吸を整えて……あなたの手、あなたの身体を、肌に触れる海風と一つに溶け合わせるの。
+[name="Skadi"]Control your rhythm and your breathing... Make your hand and your whole body one with the sea breeze that's brushing against your skin.
+[name="스카디"]리듬에 따라 호흡을 가다듬어 봐…… 네 손, 네 몸을, 네 피부에 닿는 바닷바람과 하나가 되게 해봐.
+
+[name="斯卡蒂"]像这样——一击，即碎。
+[name="スカジ"]こうして――こう。一発で潰して。
+[name="Skadi"]Like that—One stroke, and it's shredded.
+[name="스카디"]이렇게 해야…… 한 번에 다질 수 있어.
+
+[name="男性居民B"]......
+[name="男性住民B"]……
+[name="Male Inhabitant B"]......
+[name="남자 주민 B"]……
+
+[name="斯卡蒂"]你盯着我，是还想动手吗？只有你一个人的话，结束得很快。
+[name="スカジ"]何見てるの。まさか、またちょっかい出してくるつもり？　まぁ、あなた一人なら、昨日より早く片付きそうだけど。
+[name="Skadi"]You are staring at me. Do you still want another go? Now that there's only one of you, it'll be over very quickly.
+[name="스카디"]날 그렇게 뚫어지게 쳐다보는 건, 날 치겠다는 거야? 너 하나쯤은 금방 끝낼 수 있어.
+
+[name="男性居民B"]不......没有。
+[name="男性住民B"]いいや……違う。
+[name="Male Inhabitant B"]No... I don't think I will.
+[name="남자 주민 B"]아…… 아니야.
+
+[name="男性居民B"]这个，还给你。
+[name="男性住民B"]これ、やる。
+[name="Male Inhabitant B"]This is yours.
+[name="남자 주민 B"]이거, 돌려줄게.
+
+[name="斯卡蒂"]嗯？
+[name="スカジ"]うん……？
+[name="Skadi"]Hmm?
+[name="스카디"]이건?
+
+[name="斯卡蒂"]这是我的琴。
+[name="スカジ"]私の……ハープ？
+[name="Skadi"]This is my harp.
+[name="스카디"]내 하프잖아.
+
+[name="男性居民B"]是铁皮捡到的。
+[name="男性住民B"]トタンが、拾った。
+[name="Male Inhabitant B"]Sheetmetal found it.
+[name="남자 주민 B"]철판이 주운 거야.
+
+[name="男性居民B"]他昨天夜里看到你把这东西掉在了外面。
+[name="男性住民B"]昨日の夜……お前が、落とした。それ、あいつが、見つけた。
+[name="Male Inhabitant B"]He saw you drop it outside last night.
+[name="남자 주민 B"]어젯밤에 네가 이 물건을 밖에 떨어뜨리는 걸 보았대.
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[name="安妮塔"]哎呀，太好了！歌手，我们不用去找琴了！
+[name="アニタ"]わあ、よかったですね！　これで探しに行かずに済みましたよ、歌い手さん！
+[name="Anita"]Oh, that's great! Singer, now we don't need to go look for your harp!
+[name="아니타"]와, 정말 다행이에요! 가수님, 우리 하프 찾으러 가지 않아도 되겠어요!
+
+[name="男性居民B"]铁皮他，他把这东西偷偷拿回了我们住的房子，让我......让我把它给你。
+[name="男性住民B"]トタンは、これを……こっそり、家に持ち帰った。そして、俺に……これを、お前に渡せと、言った。
+[name="Male Inhabitant B"]He brought it back to our house... and... and he told me to give it to you.
+[name="남자 주민 B"]철판이, 이걸 몰래 우리가 사는 집으로 가져와서는 당신에게…… 돌려주라고 했어.
+
+[name="男性居民B"]说完这个他就走了......
+[name="男性住民B"]そのあと、トタン。行ってしまった……
+[name="Male Inhabitant B"]That's all he said before he left...
+[name="남자 주민 B"]그렇게만 말하고는 가버렸어……
+
+[name="斯卡蒂"]谢谢。
+[name="スカジ"]そう……ありがとう。
+[name="Skadi"]Thanks.
+[name="스카디"]고마워.
+
+[name="男性居民B"]啊？啊......
+[name="男性住民B"]あ、あぁ……
+[name="Male Inhabitant B"]Huh? Oh...
+[name="남자 주민 B"]어? 어……
+
+[name="斯卡蒂"]（拨琴）
+[name="スカジ"]少し、聞かせてあげる。
+[name="Skadi"](Plucks strings)
+[name="스카디"](하프 줄을 튕긴다)
+
+[name="安妮塔"]这个调子......咦，是你晚上睡着时候哼着的。
+[name="アニタ"]あっ、その音……寝ているあなたが口ずさんでいた歌ですね。
+[name="Anita"]Huh...? This melody... You were humming it while you were asleep last night.
+[name="아니타"]이 선율은…… 어, 가수님이 밤에 잠들었을 때 흥얼거린 거예요.
+
+[name="斯卡蒂"]它经常在我脑子里。
+[name="スカジ"]私の頭の中でよく流れる歌なの。
+[name="Skadi"]It's always in my head.
+[name="스카디"]이게 자주 내 머릿속에 떠올라.
+
+[name="安妮塔"]这是你和你的同伴，你们以前会唱的歌吗？
+[name="アニタ"]これって、歌い手さんや仲間の人たちが、前に歌ってた歌ですか？
+[name="Anita"]Is this a song that you and your partner used to sing?
+[name="아니타"]이건 당신과 당신의 동료가, 이전부터 알던 노래인가요?
+
+[name="斯卡蒂"]在家的时候，这样的歌还有很多。我们用歌声......对彼此说话。
+[name="スカジ"]そうね……私に家があった頃、こんな歌がたくさんあったわ。私たちは歌を通じて……話をするの。
+[name="Skadi"]We have a lot of songs like this back home. We sing... as a way to talk to each other.
+[name="스카디"]고향에 있을 때 이런 노래를 많이 들었어. 우린 노랫소리로…… 서로 대화했으니까.
+
+[name="斯卡蒂"]离开以后，其他歌声都消失了。我一个人，只剩下这个。
+[name="スカジ"]けど、家を離れたあと、他の歌声はすべて消えていった。私は一人になって……残ったのはこれだけ。
+[name="Skadi"]When I left, the singing was gone too. I'm all by myself, and this song is all that I have left.
+[name="스카디"]그곳을 떠난 뒤로는 다른 노랫소리는 다 사라졌어. 나 외에, 남은 건 이것뿐이야.
+
+[name="安妮塔"]难怪，这首歌听起来很让人难过。
+[name="アニタ"]だからこの歌は、どこか悲しい感じなんですね。
+[name="Anita"]No wonder this song sounds so sad.
+[name="아니타"]어쩐지, 이 노래가 슬프게 들려요.
+
+[name="斯卡蒂"]（拨琴）
+[name="スカジ"]……
+[name="Skadi"](Plucks strings)
+[name="스카디"](하프 줄을 튕긴다)
+
+[name="安妮塔"]歌手，我们的约定！你拿回了琴，是不是可以为我们唱歌了？
+[name="アニタ"]歌い手さん、約束でしたよね！　ハープが返ってきたんですから、私たちに歌を歌ってくれませんか？
+[name="Anita"]Singer, remember our promise?! You got your harp back. Does that mean you can sing for us now?
+[name="아니타"]가수님, 우리 약속이요! 하프를 되찾았으니, 우리한테 노랠 불러줄 수 있죠?
+
+[name="安妮塔"]我们可都等着哩，是吧，佩特拉奶奶？
+[name="アニタ"]みんな待ってるのれす！　ね、ペトラおばあさん？
+[name="Anita"]We're all waiting. Right, Grandma Petra?
+[name="아니타"]우리 모두 기다리고 있어요. 그렇죠, 페트라 할머니?
+
+[name="老年居民"]唔......呃啊......
+[name="年老いた住民"]ううっ……ああ……
+[name="Old Inhabitant"]Mmn... Uhh...
+[name="노인 주민"]오…… 으응……
+
+[name="安妮塔"]奶奶今天说不出话了。不然她一定也想跟着唱哩。
+[name="アニタ"]おばあさん、今日は話せませんけど……でも、きっとおばあさんも一緒に歌いたかったに違いないのれす。
+[name="Anita"]Grandma probably can't talk today. She would sing along with you if she could.
+[name="아니타"]할머니는 오늘 말을 못 하세요. 그렇지 않았다면 할머니도 틀림없이 따라 부르고 싶어 했을 거예요.
+
+[name="老年居民"]啊......啊......
+[name="年老いた住民"]あ……あぁ……
+[name="Old Inhabitant"]Ah... Ahhh...
+[name="노인 주민"]아…… 아……
+
+[name="安妮塔"]歌手，佩特拉奶奶想听呢。
+[name="アニタ"]歌い手さん、ペトラおばあさんも聞きたいって言ってますよ。
+[name="Anita"]Singer, Grandma wants to hear your song.
+[name="아니타"]가수님, 페트라 할머니가 듣고 싶어 하세요.
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[name="斯卡蒂"]好。
+[name="スカジ"]わかったわ。
+[name="Skadi"]Alright.
+[name="스카디"]좋아.
+
+[Subtitle(text="红裙的流浪歌手坐在人群中间。她闭上了眼睛，手指抚上琴弦。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="赤いドレスの歌い手が、人々の中心へと座る。そして目を閉じ、指でハープの弦をなでた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Clad in her red dress, the wandering singer sits in the middle of the group. She closes her eyes as her fingers stroke the strings of her harp.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="빨간 드레스의 떠돌이 가수는 사람들 사이에 앉았다. 그녀는 눈을 감은 채 손가락으로 하프 줄을 쓰다듬었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="琴声和歌声一起自她身上涌出来，弥漫在这间残破的酒吧里，旋转，伸展，就像它们本来就该在这里一样。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="ハープの音と歌声が彼女の体から湧き出でて、ぼろぼろの酒場に満ちていく。回り廻り、のびのびと広がるその音は、もとよりここにあるべきものが戻ってきたかのようだった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The notes and the lyrics flow out from her naturally as she plunks away at her harp strings, permeating every corner of the rundown bar. The melody twists and expands in the air as though this is where it belongs.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="하프 소리와 노랫소리가 그의 몸에서 터져 나와 이 황폐해진 술집을 가득 채웠고, 마치 원래 있어야 할 곳인 양 그곳에서 맴돌며 울려 퍼졌다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+一个猎人他走上海岸♪
+狩人が一人、陸へと上がる……♪
+A hunter is walking on seacoast way♪
+헌터 한 명이 해변을 걷고 있네♪
+
+他的家乡在后，他的路在身前♪
+彼は故郷を背にして遠く、行くべき道は前にのみ……♪
+With homeland left a mile behind, his path lies ahead♪
+고향은 뒤에 있고, 길은 앞에 있네♪
+
+父母与儿女都与他失散♪
+父母と娘とはとうに逸れて……♪
+From his forebears and children, he was torn♪
+부모와 자녀 모두 그와 헤어지고♪
+
+他的恋人已经葬身大海♪
+恋人は既に海へ葬られた……♪
+Into the seas his lover was swept away, floating in the deep, dead♪
+연인마저 바다에 묻혔다네♪
+
+[name="歌蕾蒂娅"]......
+[name="グレイディーア"]……
+[name="Gladiia"]......
+[name="글래디아"]……
+
+[name="主教"]你的表情有一丝变化。你是否感受到了什么？
+[name="司教"]おや、少し表情が変わりましたね。何か感じ取りましたか？
+[name="Bishop"]I noticed a change in your expression. Did you feel something, perhaps?
+[name="주교"]표정이 좀 바뀌셨군요. 뭔가 느낀 건가요?
+
+[name="歌蕾蒂娅"]没什么。
+[name="グレイディーア"]……いえ、何でもありませんわ。
+[name="Gladiia"]Nothing.
+[name="글래디아"]아무것도 아니에요.
+
+[name="主教"]并不意外，你的神经依旧迟钝。看看你面前的这些水。水位的起伏，波纹的频率，光泽的跃动。这些都是讯息。
+[name="司教"]まあ、あなたの神経は未だ鈍いままですからね。目の前の水をご覧なさい。水位の昇降、波紋が生まれる頻度、乱反射する光の躍動。これらすべてが海からのメッセージなのです。
+[name="Bishop"]Not a surprise. Your reflexes are still rather slow. Look at the water before you. The fluctuation of the level, the frequency of the waves, and the movement of its luster. All of these are information.
+[name="주교"]전혀 이상하지 않습니다. 당신의 신경은 여전히 둔한 상태니까요. 눈앞의 물을 보십시오. 수위의 변화, 물결의 빈도, 빛의 역동, 이 모든 것이 메시지입니다.
+
+[name="主教"]快要涨潮了。我们该上去。
+[name="司教"]もうすぐ、潮が満ちる時です。私たちも上がるべきでしょう。
+[name="Bishop"]It'll be high tide soon. We should go.
+[name="주교"]곧 만조입니다. 저희도 올라가야 할 때이고요.
+
+一个猎人他走上海岸♪
+狩人が一人、陸へと上がる……♪
+A hunter is walking on seacoast way♪
+헌터 한 명이 해변을 걷고 있네♪
+
+他的家乡在后，徒余哀叹♪
+彼は故郷を背にして遠く、その手に残るは哀嘆のみ……♪
+With homeland left a mile behind, they must lament and pray♪
+고향은 뒤에 있고, 탄식만 남았네♪
+
+他的路没有尽头♪
+彼の道は果てなく限りなく……♪
+There is no end to his path♪
+그의 길은 끝이 보이지 않네♪
+
+他的路浓雾弥漫♪
+彼の道は霧が垂れ込める……♪
+The road ahead is shrouded in gray♪
+그의 길은 안개가 자욱하네♪
+
+[name="审判官"]她在唱歌。
+[name="審問官"]彼女が歌っている……
+[name="Inquisitor"]She's singing.
+[name="재판관"]노래를 하고 있네.
+
+[name="审判官"]她竟然，在这个破房子里，在这些人面前唱歌。
+[name="審問官"]この荒れ果てた家で、人々の前で歌っている。
+[name="Inquisitor"]How could she sing in front of these people in this rundown house?
+[name="재판관"]설마 이 황폐해진 술집에서, 그것도 사람들 앞에서 노래를 하다니.
+
+[name="审判官"]这些人......他们也竟然在听。
+[name="審問官"]そして人々も……彼らも歌を聞いている。
+[name="Inquisitor"]And... they are listening to her.
+[name="재판관"]사람들은…… 그걸 또 듣고 있고.
+
+[name="审判官"]低着头的人依然低着头。不会说话的人依然冻着舌头。歌声明明没法进到他们僵硬的躯壳里。可他们的眼睛......
+[name="審問官"]だけど、俯く人は俯いたままだし、話せない人は舌も動かないまま……そんな彼らの固まった肉体に歌声は入っていけない。でも、彼らの目は……
+[name="Inquisitor"]The ones who hang their heads are still looking straight at the floor. The ones who don't speak are still silent as ever. Her singing has no way to reach their cold, hard husks, but their eyes...
+[name="재판관"]고개 숙인 사람은 여전히 고개를 숙이고 있고, 말할 줄 모르는 사람은 여전히 혀가 굳어 있어. 노랫소리는 분명 저들의 경직된 몸속에 스며들 수 없을 텐데, 저들의 눈빛은……
+
+[name="审判官"]他们，听懂了吗？
+[name="審問官"]まさか……彼らは、この歌を理解しているの？
+[name="Inquisitor"]Do they understand it somehow?
+[name="재판관"]과연, 저들이 알아들었을까?
+
+[Subtitle(text="一个猎人他走上海岸♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="狩人が一人、陸へと上がる……♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A hunter is walking on seacoast way♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="헌터 한 명이 해변을 걷고 있네♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="歌手停下了拨琴的手指，琴声和歌声并没有立刻消失。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="歌い手はハープを爪弾くその手を止めたが、ハープと歌声が織りなす残響は、すぐに消えはしなかった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The singer stops her fingers, but the harmony formed by her harp and voice together does not simply disappear because of that.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="가수는 하프 줄을 튕기던 손가락을 멈췄지만, 하프와 노랫소리는 금방 사라지지 않았다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="它们依然存在于流浪者身上，在厚厚的尘土间钻出一道缝。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="それは未だ、さすらい人の中に在り……やがて変化を生む。人々の心へ分厚く積もったほこりの間にひびが入った。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="It yet remains with the wanderer herself, creating an open seam in the thick dust.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="소리는 여전히 떠돌이의 몸에 남아, 두꺼운 먼지를 뚫고 틈새를 만들었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="一些枝芽挤了进去，另一些本来就在的淌了出来。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼らが心の奥底に押し込めていた、本来そこにあるべき芽がひびを押し分けて顔を出す。それと同時に、心の中にあった他のものもまた、ぽたぽたと流れ出していた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A few sprouts land in that crevice just as others begin to sprout from it.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="새싹이 그 틈새로 들어갔고, 원래 있었던 싹들이 돋아났다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[name="居民"]......
+[name="住民"]……
+[name="Inhabitant"]......
+[name="주민"]……
+
+[name="安妮塔"]佩特拉奶奶？
+[name="アニタ"]ペトラおばあさん？
+[name="Anita"]Grandma Petra?
+[name="아니타"]페트라 할머니?
+
+[name="斯卡蒂"]她怎么了？
+[name="スカジ"]おばあさんが、どうかしたの？
+[name="Skadi"]What's wrong?
+[name="스카디"]무슨 일이야?
+
+[name="安妮塔"]她......睡着了。
+[name="アニタ"]おばあさん……寝ちゃったみたいです。
+[name="Anita"]She... fell asleep.
+[name="아니타"]할머니께서…… 잠드셨어요.
+
+[name="安妮塔"]我很少见她睡得这么安稳。以前她一闭眼就会大叫，在空气里乱抓。
+[name="アニタ"]こんなに穏やかに眠っているのは、珍しいです。いつもは目を閉じたかと思えば急に叫んで、じたばたしてましたから。
+[name="Anita"]She never sleeps so peacefully. Most of the time, she starts screaming the moment she closes her eyes, grasping at nothing.
+[name="아니타"]할머니께서 이렇게 평온하게 주무시는 건 거의 본 적이 없어요. 예전에 할머닌 눈만 감았다 하면 크게 소리를 지르며 허공에 대고 헛발질을 하셨는데……
+
+[name="安妮塔"]我还以为听见你唱歌，她会想要跳舞。她总是嚷嚷着想跳舞哩。
+[name="アニタ"]私……てっきり、あなたの歌を聞いたら、おばあさんは踊り出したくなるんだと思ってました。おばあさんったら、いっつも踊りたい踊りたいって言ってるのれすから。
+[name="Anita"]I thought she'd want to dance when she heard you sing. I mean, she's always chirping about how she wants to dance.
+[name="아니타"]전 가수님이 부르는 노래를 듣고 할머니께서 춤추고 싶어 할 줄 알았어요. 할머니는 항상 춤추고 싶다고 하셨으니깐요.
+
+[name="男性居民B"]......
+[name="男性住民B"]……
+[name="Male Inhabitant B"]......
+[name="남자 주민 B"]……
+
+[name="安妮塔"]墙灰？
+[name="アニタ"]ほこり……？
+[name="Anita"]Drywall?
+[name="아니타"]벽먼지?
+
+[name="男性居民B"]我要死了。我的眼睛......进了海水。好咸，一点都不好喝。
+[name="男性住民B"]死にそうだ。目に……海水、入った。それに、塩からい。少しも、おいしくない。
+[name="Male Inhabitant B"]I'm going to die. There's seawater in my eyes... It's salty. Not tasty at all.
+[name="남자 주민 B"]나 죽을 것 같아. 내 눈에…… 바닷물이 들어갔어. 너무 짜. 하나도 안 맛있어.
+
+[name="安妮塔"]哇，你这是......你是不是哭了？
+[name="アニタ"]わっ、あなた……泣いてるの？
+[name="Anita"]Whoa... Are you... crying?
+[name="아니타"]와, 너 지금…… 너 운 거야?
+
+[name="男性居民B"]哭？什么是哭？
+[name="男性住民B"]ないてる？　ないてるって、何だ？
+[name="Male Inhabitant B"]Crying? What is that?
+[name="남자 주민 B"]울어? 우는 게 뭔데?
+
+[name="斯卡蒂"]......是从你身体深处流淌出来的情绪。
+[name="スカジ"]……身体の奥底から流れ出てくる感情が、そうさせるのよ。
+[name="Skadi"]It's a kind of emotion that flows out from the deepest depths of your body...
+[name="스카디"]……네 몸 깊은 곳에서 흘러나오는 감정이야.
+
+[name="男性居民B"]这样......吗？我还是不大明白。
+[name="男性住民B"]そう……なのか？　俺には、やっぱり、よくわからない。
+[name="Male Inhabitant B"]It is...? I don't think I understand.
+[name="남자 주민 B"]그…… 래? 난 아직 잘 모르겠어.
+
+[name="安妮塔"]歌手，我喜欢你的歌。你不爱说话，可是你的歌里有许多话。
+[name="アニタ"]……歌い手さん、あなたの歌、私はとっても好きです。あなたはあんまりお喋りじゃないですけど……でも、あなたの歌には言葉がたくさん詰まってるんですね。
+[name="Anita"]Singer, I like your songs. You don't like to talk, but you have so much to tell when you are singing.
+[name="아니타"]가수님, 전 가수님 노래가 좋아요. 가수님은 말수가 적지만, 당신의 노래에는 많은 말이 담겨 있어요.
+
+[name="安妮塔"]你愿意再唱一遍吗？我想听你说更多。
+[name="アニタ"]あの、もう一回歌ってくれませんか？　もっと聞きたいです。
+[name="Anita"]Could you sing it again? I want to hear you talk about lots more.
+[name="아니타"]다시 한번 불러주실래요? 전 당신의 이야기를 더 많이 듣고 싶어요.
+
+[name="斯卡蒂"]......
+[name="スカジ"]……
+[name="Skadi"]......
+[name="스카디"]……
+
+[name="斯卡蒂"]（拨琴）
+[name="スカジ"]もう一度だけよ。
+[name="Skadi"](Plucks strings)
+[name="스카디"](하프 줄을 튕긴다)
+
+[Subtitle(text="海风缠住歌手的手指，又攀上鼻尖。味道，发生了改变。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="その時、海風が歌い手の指に纏わり付き、鼻先まで立ち上った。匂いが、変化する。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The sea breeze envelops the singer's fingers and wafts into her nostrils. The smell here has changed.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="바닷바람이 가수의 손가락을 휘감더니 코끝으로 기어올랐다. 냄새가 변했다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="涨潮了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="潮が満ちたのだ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="It's now high tide.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="밀물이 몰려왔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="男性居民C"]吃的......
+[name="男性住民C"]食いもん……
+[name="Male Inhabitant C"]Food...
+[name="남자 주민 C"]먹을 것……
+
+[name="男性居民D"]有吃的到了......
+[name="男性住民D"]食いもんが来た……
+[name="Male Inhabitant D"]We'll have food again...
+[name="남자 주민 D"]먹을 것이 도착했어……
+
+[name="男性居民C"]去海滩上。
+[name="男性住民C"]海岸、行く。
+[name="Male Inhabitant C"]To the beach.
+[name="남자 주민 C"]해변으로 가자.
+
+[name="男性居民D"]教士！
+[name="男性住民D"]宣教師！
+[name="Male Inhabitant D"]Priest!
+[name="남자 주민 D"]선교사님!
+
+[Subtitle(text="人们纷纷涌出屋子。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="人々は次々と家を出て行く。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The masses rush outside.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="사람들이 줄줄이 집 밖으로 몰려나왔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="琴声和歌声消失了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ハープの音と歌声が消えた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The melody of her song has stopped.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="하프와 노랫소리는 사라졌다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+

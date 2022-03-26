@@ -1,6 +1,6 @@
 [name="？？？"]  诶，好久不见啊，亲爱的Dr.{@nickname}。收到我发给你的信了吗？
 [name="？？？"]  おっと、久しぶりだね。親愛なるDr.{@nickname}……あたしからのメッセージは受け取ってくれた？
-[name="???"]  Oh, long time no see, Dr {@nickname}. Did you get my letter?
+[name="???"]  Oh, long time no see, Dr. {@nickname}. Did you get my letter?
 [name="???"]  하이~ 오랜만이네. 우리 친애하는 {@nickname} 박사~ 내가 보낸 메시지는 받았어?
 
 [Decision(options="没有收到;收到了", values="1;2")]
@@ -55,7 +55,7 @@
 
 [PopupDialog(dialogHead="$avatar_closure")] 只要Dr.{@nickname}一声令下，采购部就会立刻将货物送至到您的房间门口。
 [PopupDialog(dialogHead="$avatar_closure")] Dr.{@nickname}のお買い上げとなれば、購買部はすぐにでも商品を部屋までお届けに上がるからねっ！
-[PopupDialog(dialogHead="$avatar_closure")] If you see something that you like, Dr {@nickname}, just say the word and it will be delivered to your door.
+[PopupDialog(dialogHead="$avatar_closure")] If you see something that you like, Dr. {@nickname}, just say the word and it will be delivered to your door.
 [PopupDialog(dialogHead="$avatar_closure")] {@nickname} 박사가 살 생각만 있으면, 우리 구매부에서 금방 방으로 상품을 배달해 줄게.
 
 [PopupDialog(dialogHead="$avatar_closure")] 这些东西有些是需要预算经费的，不过更多的是能用一些资源免费兑换的......
@@ -65,12 +65,12 @@
 
 [PopupDialog(dialogHead="$avatar_closure")] 不过无论如何，这里的物品质量都有十足的保证，Dr.{@nickname}可以放心挑选哦！
 [PopupDialog(dialogHead="$avatar_closure")] まあ何はともあれ、ここにある商品の品質はあたしが保証するよ！ドクターは安心して買っていってくれていいからね！
-[PopupDialog(dialogHead="$avatar_closure")] However, you can shop assured that everything here is guaranteed to be of the highest quality. Take a look, Dr {@nickname}!
+[PopupDialog(dialogHead="$avatar_closure")] However, you can shop assured that everything here is guaranteed to be of the highest quality. Take a look, Dr. {@nickname}!
 [PopupDialog(dialogHead="$avatar_closure")] 그러니까 결론은 말이지. 여기 있는 상품들의 품질은 내가 보장할게! 박사는 편하게 사 주기만 하면 돼~
 
 [PopupDialog(dialogHead="$avatar_closure")] 在凭证商店，Dr.{@nickname}可以用作战中获得的各种凭证。
 [PopupDialog(dialogHead="$avatar_closure")] 資格交換所では、Dr.{@nickname}が作戦で獲得した各種資格証が使えるよ。
-[PopupDialog(dialogHead="$avatar_closure")] Dr {@nickname}, here you can use the Certificates earned from battles.
+[PopupDialog(dialogHead="$avatar_closure")] Dr. {@nickname}, here you can use the Certificates earned from battles.
 [PopupDialog(dialogHead="$avatar_closure")] 여기서는 작전 중에 획득한 각종 증명서를 사용할 수 있어.
 
 [PopupDialog(dialogHead="$avatar_closure")] 而凭证可以用来兑换物资。
@@ -79,9 +79,9 @@
 [PopupDialog(dialogHead="$avatar_closure")] 그리고 자격증을 다양한 물건들과 교환할 수도 있지.
 
 [PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>采购凭证</>是从资源收集-粉碎防御作战任务中得到的奖励。
-[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>購買資格証</>は、「物資調達」の「防御突破」作戦で獲得できるものだよ。
+[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>購買資格証</>は、「資源収集」の「防御突破」作戦で獲得できるものだよ。
 [PopupDialog(dialogHead="$avatar_closure")] The <@tu.kw>Purchase Certificate</> is something you can earn from Supplies-Tough Siege.
-[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>구매증명서</>는 물자 비축 작전 중 방어 분쇄 임무에서 얻을 수 있어.
+[PopupDialog(dialogHead="$avatar_closure")] <@tu.kw>구매증명서</>는 '물자 비축 - 방어 분쇄' 작전에서 획득할 수 있는 보상입니다.
 
 [PopupDialog(dialogHead="$avatar_closure")] 随着Dr.{@nickname}参与的行动越来越多，<@tu.kw>采购凭证</>数量也会越来越多。
 [PopupDialog(dialogHead="$avatar_closure")] Dr.{@nickname}が作戦に参加すればするほど、<@tu.kw>購買資格証</>もどんどん手に入るよ！

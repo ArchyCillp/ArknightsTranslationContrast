@@ -1,0 +1,390 @@
+[name="闪击"]已净空！
+[name="Blitz"]クリア！
+[name="Blitz"]Clear!
+[name="Blitz"]클리어!
+
+[name="灰烬"]好的，警戒交给你了！
+[name="Ash"]よし、警戒は任せた！
+[name="Ash"]Okay, you're on guard duty!
+[name="Ash"]좋아, 사주 경계 유지!
+
+[name="灰烬"]亚历山大，看看躺在地上的雇佣兵还有没有人活着！
+[name="Ash"]アレクサンドル、倒れてる傭兵の中に、まだ生きてる人が紛れていないか確認して！
+[name="Ash"]Alexsandr, see if any of the mercs on the ground are alive!
+[name="Ash"]알렉산드르, 아직 살아있는 용병이 있는지 확인하고!
+
+[name="战车"]马上就办。
+[name="Tachanka"]了解、
+[name="Tachanka"]On it.
+[name="Tachanka"]알았다.
+
+[name="灰烬"]蒂娜，把绷带拿来。我们清点人数，给伤员包扎一下。
+[name="Ash"]ティナ、包帯を用意して。人数の確認後、負傷者の手当てをする。
+[name="Ash"]Tina, get your bandages. Take a headcount and patch up the wounded.
+[name="Ash"]티나, 붕대 가져와. 인원 파악하고 부상자들 수습해.
+
+[name="霜华"]好！
+[name="Frost"]わかった！
+[name="Frost"]Roger!
+[name="Frost"]라져!
+
+[name="战车"]别装死！！
+[name="Tachanka"]死んだふりをするな！！
+[name="Tachanka"]No playing dead!!
+[name="Tachanka"]죽은 척하지 마라!
+
+[name="雇佣兵"]等等，把......把铳口移开！我什么都说！
+[name="傭兵"]ま、待て！　じゅ……銃口をどけてくれ！　何でも話す！
+[name="Mercenary"]Wait, please... lower your gun! I'll tell you anything!
+[name="용병"]잠깐, 제발…… 그 총 내려줘! 다 말할게! 말할 테니까!
+
+[name="战车"]库兹，把他绑起来。
+[name="Tachanka"]ケッツ、そいつを縛り上げておけ。
+[name="Tachanka"]Kötz, tie him up.
+[name="Tachanka"]쾨츠, 놈을 묶어.
+
+[name="闪击"]好的。
+[name="Blitz"]わかった。
+[name="Blitz"]Sure.
+[name="Blitz"]알았어.
+
+[name="灰烬"]医生呢？米亚罗医生！
+[name="Ash"]先生は？　ミアロ先生！
+[name="Ash"]Where's the doctor? Dr. Miarow!
+[name="Ash"]미아로우는? 미아로우!
+
+[name="黑"]在这里！
+[name="シュヴァルツ"]こちらです！
+[name="Schwarz"]Over here!
+[name="슈바르츠"]이쪽입니다!
+
+[name="米亚罗"]......咳......
+[name="ミアロ"]……ゴホッ……
+[name="Miarow"]...*cough*...
+[name="미아로우"]……콜록……
+
+[Subtitle(text="感染者少年躺在地上，随着他的每一次咳嗽，鲜血都顺着他浑身的大量伤口渗出。他全身裸露在外的皮肤都覆满了细密的源石结晶，这是近距离面对源石爆炸的直接结果。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="感染者の少年が地面に横たわり、咳をするたびに全身の傷口から血がにじみ出る。むき出しになった彼の肌は、細かな源石結晶でびっしりと覆われていた。至近距離で源石爆発を受けた結果だった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="The Infected boy lays on the ground, blood oozing out of his many wounds with each cough. His exposed skin is covered with fine Originium crystals, a direct result of facing down the Originium explosion at such close range.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="엉망이 된 몸으로 땅에 누워있는 감염된 소년의 몸 주변에는 조각난 오리지늄 결정이 흩뿌려져 있었고, 소년이 고통스럽게 발작하듯 기침을 뱉을 때마다 온몸에 난 상처에서 피가 솟구쳤다. 오리지늄의 폭발을 가까운 거리에서 정면으로 맞은 탓에, 드러난 피부에는 성한 곳이 하나도 없었다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="没有强烈的冲击波，没有击垮身体的暴风。但源石的诅咒从这次刺激中变得更为强烈，已经渗透了他的年轻身体。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="強烈な衝撃波や体を吹き飛ばすほどの爆風を受けたわけではない。しかし源石の呪いは、アーツを使用した報いなのか、さらに強まり彼の若い体を蝕んでいた。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="No shockwaves, no intense gust of crushing wind. But the Originium curse has grown stronger from the stimulation, and penetrated deeper into his body.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="발파 충격도, 후폭풍도 없었지만, 오리지늄의 저주가 그 폭발로 인해 증폭되어, 소년의 몸 전체에 더욱 깊게 스며들고 말았다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+[name="灰烬"]蒂娜！绷带！快！
+[name="Ash"]ティナ！　包帯を！　早く！
+[name="Ash"]Tina! Bandages! Hurry!
+[name="Ash"]티나! 붕대 가져와! 빨리!
+
+[name="战车"]保持清醒！小伙子，不要闭上眼睛！
+[name="Tachanka"]起きろ！　先生！　目を閉じるなよ！
+[name="Tachanka"]Stay with me! Don't close your eyes, boy!
+[name="Tachanka"]정신 차려! 눈 떠 미아로우!
+
+[name="灰烬"]为什么......发生什么事了？
+[name="Ash"]どうして……何が起こったの？
+[name="Ash"]Why... what happened?
+[name="Ash"]대체…… 어떻게 된 거야?
+
+[name="雷蛇"]强行使用源石技艺......源石感染扩散了......
+[name="リスカム"]無理にアーツを使って……源石の感染が広がったんです……
+[name="Liskarm"]When you push yourself to use Originium Arts... it worsens your Originium infection...
+[name="리스캄"]오리지늄 아츠를 무리해서 사용하면…… 오리지늄 감염병이 더욱 심해져……
+
+[name="灰烬"]罗德岛没有办法吗？你们不是最擅长这个吗？
+[name="Ash"]ロドスで治療はできないの？　あんたたちの本業でしょ？
+[name="Ash"]Rhodes Island doesn't have a countermeasure? Isn't this what you people do?
+[name="Ash"]로도스 아일랜드가 가진 대처법 같은 건 없어? 너희들이 하는 일이 그거잖아!
+
+[name="雷蛇"]失血、灼伤、矿石病剧烈发作，就算是在罗德岛本舰......
+[name="リスカム"]失血、重篤な熱傷、鉱石病の激しい発作……たとえロドス本艦にいたとしても、これは……
+[name="Liskarm"]Between the blood loss, burns, and acute Oripathy symptoms, even if we were back on the landship...
+[name="리스캄"]이 정도 출혈량에 화상, 여기에 급성 광석병 증세까지 보이면 설령 여기가 로도스 아일랜드 본함이었다 해도……
+
+[name="米亚罗"]......咳......
+[name="ミアロ"]……ゴホッ……
+[name="Miarow"]...*cough*...
+[name="미아로우"]……콜록……
+
+[name="战车"]撑住，小伙子。
+[name="Tachanka"]持ちこたえろ、先生。
+[name="Tachanka"]I said stay with me, kid.
+[name="Tachanka"]아직이야. 정신 차려.
+
+[name="米亚罗"]......
+[name="ミアロ"]……
+[name="Miarow"]......
+[name="미아로우"]……
+
+[name="战车"]......坚持住，你不是还想远游他乡吗？想想你梦中的哥伦比亚。
+[name="Tachanka"]……遠い異国へ旅したいんじゃなかったのか？　夢にまで見たクルビアを想像するんだ。
+[name="Tachanka"]...You can do this. Remember how you wanted to travel the world? Picture that Columbia you were dreaming about.
+[name="Tachanka"]……할 수 있어. 세계를 여행하고 싶어 했잖아. 네가 꿈에 그리던 컬럼비아를 떠올려 봐.
+
+[name="战车"]......坚持住！
+[name="Tachanka"]……持ちこたえろ！
+[name="Tachanka"]...Stay with me!
+[name="Tachanka"]……포기하지 마!
+
+[name="米亚罗"]咳咳......咳......
+[name="ミアロ"]ゴホッゴホッ……ゴホッ……
+[name="Miarow"]*cough* *cough*...
+[name="미아로우"]콜록콜록…… 콜록……
+
+[name="米亚罗"]......咳......
+[name="ミアロ"]……ゴホッ……
+[name="Miarow"]...*cough*...
+[name="미아로우"]……콜록……
+
+[name="战车"]......
+[name="Tachanka"]……
+[name="Tachanka"]......
+[name="Tachanka"]……
+
+[name="灰烬"]......医生......
+[name="Ash"]先生……
+[name="Ash"]...Doctor...
+[name="Ash"]……미아로우……
+
+[name="霜华"]......他走了。
+[name="Frost"]……彼はもう……
+[name="Frost"]...He's gone.
+[name="Frost"]……죽었어.
+
+[name="黑"]......抱歉，我没能......
+[name="シュヴァルツ"]申し訳ありません、私が……
+[name="Schwarz"]...I'm sorry. I couldn't...
+[name="슈바르츠"]……죄송합니다. 전……
+
+[name="灰烬"]不......不是你的错。
+[name="Ash"]違う……あんたのせいじゃない。
+[name="Ash"]No... it's not your fault.
+[name="Ash"]아니…… 당신 잘못이 아니야.
+
+[name="战车"]......
+[name="Tachanka"]……
+[name="Tachanka"]......
+[name="Tachanka"]……
+
+[name="雇佣兵"]......不......这和我没关系，我不是负责的！
+[name="傭兵"]……違う……俺とは関係ない！　俺じゃない！
+[name="Mercenary"]...No... I had nothing to do with that. It wasn't me!
+[name="용병"]……아, 아니야…… 난 아무것도 몰라. 내가 한 게 아니라고!
+
+[name="战车"]*俄语粗口*，今天你别想活着出去。
+[name="Tachanka"]*ロシア語スラング*、ぶっ殺す。
+[name="Tachanka"](Russian profanity), I'm going to twist your *profanity* head off.
+[name="Tachanka"]빌어먹을 자식, 그 같잖은 머리통을 뜯어내 주마.
+
+[name="雇佣兵"]......我只是......别......
+[name="傭兵"]……俺はただ……やめろ！
+[name="Mercenary"]I just...don't...
+[name="용병"]……난 그저…… 제발……
+
+[name="战车"]你完了，*俄语粗口*，你死定了。
+[name="Tachanka"]終わりだ！　*ロシア語スラング*、死ね。
+[name="Tachanka"]You're done for, (Russian profanity). You're toasted.
+[name="Tachanka"]넌 뒈졌다 이 *러시아어 욕설*야. 곱게는 못 죽을 거다.
+
+[name="雇佣兵"]别！别打我！不是我干的！别！
+[name="傭兵"]やめろ！　やめてくれ！　俺じゃない！！　やめろ！
+[name="Mercenary"]No! Don't hurt me! It wasn't me! No!
+[name="용병"]아니야! 제발! 믿어줘! 내가 안 그랬어! 아니라고!
+
+[name="闪击"]亚历山大！别这样！冷静点！
+[name="Blitz"]アレクサンドル！　やめろ！　冷静になれ！
+[name="Blitz"]Alexsandr! Stop! Calm down!
+[name="Blitz"]알렉산드르! 그만! 진정해!
+
+[name="雷蛇"]那个卫兵队长去哪儿了？就那位领主之女？
+[name="リスカム"]あの衛兵隊長はどこへ行ったんですか？
+[name="Liskarm"]Where did that guard captain go? The Lord's daughter?
+[name="리스캄"]위병대장은 어디 갔지? 그 아미르의 딸 말이야.
+
+[name="黑"]她追着逃走的人跑出去了，巡林者跟着她一起过去了，别担心。
+[name="シュヴァルツ"]逃げた相手を追いかけて行きました。レンジャーさんも同行しています。ご安心を。
+[name="Schwarz"]She chased someone trying to get away. Rangers went with her, don't worry.
+[name="슈바르츠"]도망치는 자들을 뒤쫓아갔습니다. 레인저도 함께 갔으니 걱정하지 않아도 될 겁니다.
+
+[name="雷蛇"]等等......医生身上的结晶......在发光？
+[name="リスカム"]あれは……！　先生の体の結晶が……光ってる？
+[name="Liskarm"]Wait... the crystals on the doctor's skin... are glowing?
+[name="리스캄"]잠깐…… 미아로우 피부에 있는 결정이…… 빛나고 있어!
+
+[name="芙兰卡"]这？！
+[name="フランカ"]嘘でしょ！？
+[name="Franka"]Huh?!
+[name="프란카"]뭐?!
+
+[name="芙兰卡"]这么快？为什么？
+[name="フランカ"]こんなに早く？　どうして！？
+[name="Franka"]So soon? How?
+[name="프란카"]이렇게 빨리? 어떻게?!
+
+[name="黑"]！！
+[name="シュヴァルツ"]！！
+[name="Schwarz"]! !
+[name="슈바르츠"]!!
+
+[name="雷蛇"]别管这个了！找个房间！
+[name="リスカム"]皆さん、手分けして密閉できる部屋を探してください！
+[name="Liskarm"]We've got bigger problems! Find an empty room here!
+[name="리스캄"]큰일 났군! 당장 적당한 방을 찾아!
+
+[name="灰烬"]你们要做什么？
+[name="Ash"]何をする気？
+[name="Ash"]What are you doing?
+[name="Ash"]뭐 하는 거야?
+
+[name="芙兰卡"]来不及解释了！动作快！
+[name="フランカ"]説明は後！　急いで！
+[name="Franka"]No time to explain! Move!
+[name="프란카"]설명할 시간 없어! 어서 움직여!
+
+[name="雷蛇"]找布料来！窗帘、床单，什么都可以！
+[name="リスカム"]布を持ってきてください！　カーテンとかシーツとか……大きな布なら何でも構いません！
+[name="Liskarm"]We need cloth! Curtains, bedspreads, anything!
+[name="리스캄"]천이 있어야 해…… 천! 커튼, 침대보, 아무거나!
+
+[name="黑"]把医生抬到那边的小屋子里！快！
+[name="シュヴァルツ"]先生をあちらの小部屋に！　早く！
+[name="Schwarz"]Get the doctor into that little house! Hurry!
+[name="슈바르츠"]의사를 저기 있는 작은 방으로 옮기십시오! 어서!
+
+[name="战车"]发生什么事了？
+[name="Tachanka"]何が起きたんだ？
+[name="Tachanka"]What's happening?
+[name="Tachanka"]뭐가 어떻게 되는 거지?
+
+[name="灰烬"]医生怎么了？为什么......
+[name="Ash"]先生がどうしたの？　どうして……
+[name="Ash"]What's wrong with the doctor? Why...?
+[name="Ash"]미아로우가 왜? 무슨……?
+
+[name="雷蛇"]科，科恩小姐，请您冷静一下，芙兰卡已经在处理医生的——
+[name="リスカム"]コ、コーエンさん、ひとまず落ち着いてください。今、フランカが処理を――
+[name="Liskarm"]M-Miss Cohen, please calm down. Franka's dealing with the doctor's—
+[name="리스캄"]코, 코언…… 제발 진정해. 프란카가 의사 선생을 처리할……
+
+[name="灰烬"]处理？
+[name="Ash"]処理？
+[name="Ash"]Dealing?
+[name="Ash"]처리라니?
+
+[name="灰烬"]处理什么？
+[name="Ash"]何を処理してるの？
+[name="Ash"]Dealing with what?
+[name="Ash"]뭘 처리하는데?
+
+[name="雷蛇"]你们没有见过吗？我可能要之后再来解释——
+[name="リスカム"]見たことないんですか？　ですが説明は後です、今は――
+[name="Liskarm"]You've never seen it before? I'll explain it to you later—
+[name="리스캄"]본 적 없어? 설명은 나중에 할게!
+
+[name="芙兰卡"]堵住门窗！不要留出缝隙！
+[name="フランカ"]扉も窓も閉めて！　隙間も全部塞いで！
+[name="Franka"]Cover the doors and all the windows! No cracks!
+[name="프란카"]창문 닫아! 틈은 모조리 막고!
+
+[name="黑"]烟囱！把烟囱也堵住！还有通风口！
+[name="シュヴァルツ"]煙突！　煙突も塞いでください！　通気口もです！
+[name="Schwarz"]The chimney! Block it! And the vents!
+[name="슈바르츠"]굴뚝! 굴뚝도 막아야 합니다! 환기구도!
+
+[name="战车"]......
+[name="Tachanka"]……
+[name="Tachanka"]......
+[name="Tachanka"]……
+
+[name="灰烬"]这是......这是在做什么？
+[name="Ash"]これは……これは何事なの？
+[name="Ash"]What... are they doing?
+[name="Ash"]다들…… 대체 뭘 하는 거야?
+
+[name="闪击"]不清楚？医生的尸体......出什么问题了？
+[name="Blitz"]わからない。先生の遺体に……何か問題でもあるのか？
+[name="Blitz"]I'm not sure? What's wrong with... the doctor's corpse?
+[name="Blitz"]모르겠어. 미아로우의 시체가…… 뭐 잘못됐나?
+
+[name="战车"]别去看。
+[name="Tachanka"]行くな。
+[name="Tachanka"]Don't look.
+[name="Tachanka"]보지 마라.
+
+[name="灰烬"]为什么？
+[name="Ash"]どうして？
+[name="Ash"]Why?
+[name="Ash"]뭐?
+
+[name="战车"]别去看......
+[name="Tachanka"]行くな……
+[name="Tachanka"]Don't look...
+[name="Tachanka"]보지 마……
+
+[name="黑"]上面堵死了！
+[name="シュヴァルツ"]上は全て塞ぎました！
+[name="Schwarz"]We're good here!
+[name="슈바르츠"]됐습니다!
+
+[name="芙兰卡"]门窗堵死了！没问题。
+[name="フランカ"]扉も窓も塞いだわ！　よし……
+[name="Franka"]Doors and windows good! Ready.
+[name="프란카"]문과 창문도 다 막았어!
+
+[name="灰烬"]等等，屋子里亮起来了？窗户在发光？
+[name="Ash"]待って！　部屋の中が光った？　扉や窓が光ってる？
+[name="Ash"]Hey, is that room lighting up? The window's glowing?
+[name="Ash"]뭐야, 방에 불이라도 들어온 거야? 왜 창문이 빛나지?
+
+[name="雷蛇"]科恩小姐！别靠近！
+[name="リスカム"]コーエンさん！　近付かないでください！
+[name="Liskarm"]Miss Cohen! Get back!
+[name="리스캄"]코언! 가까이 오지 마!
+
+[name="雷蛇"]别看......
+[name="リスカム"]見ないであげてください……
+[name="Liskarm"]Don't watch...
+[name="리스캄"]그리고 보지 마……
+
+[name="灰烬"]到底发生什么事了？
+[name="Ash"]一体、何が起きてるの？
+[name="Ash"]What on earth is going on?
+[name="Ash"]대체 무슨 일이 일어나는 거야?
+
+[name="灰烬"]医生他......
+[name="Ash"]先生は……
+[name="Ash"]The doctor...
+[name="Ash"]미아로우……
+
+[name="灰烬"]......
+[name="Ash"]……
+[name="Ash"]......
+[name="Ash"]……
+
+[name="灰烬"]......
+[name="Ash"]……
+[name="Ash"]......
+[name="Ash"]……
+
+[name="灰烬"]啊......
+[name="Ash"]あっ……
+[name="Ash"]Oh...
+[name="Ash"]어……?
+
+[Subtitle(text="在黑暗的屋内，闪光的粉尘从逝者身上的伤口中崩裂而出，在狭小空间里弥散开来，随后光芒刺破了黑暗。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="暗い部屋の中、死者の傷口からきらめく粉塵が噴き出し、狭い空間に飛散していく。それに続いて光が暗闇を突き破った。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="In the dark of the house, glittering dust crumbles from the departed's wounds and spreads throughout the enclosed space. Before long, rays of light pierce the darkness.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="숨을 거둔 이의 상처에서 반짝이는 먼지가 흘러나와, 밀폐된 방 안의 어둠만큼이나 고요한 공기 속으로 번지듯 사그라졌다. 그리고 이내, 눈 부신 빛이 터져 나오며 방 안의 어둠을 한 조각도 남기지 않고 모조리 찢어발겨 버렸다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="迷幻、灿烂、色彩斑斓。在光芒中，源石粉尘先是在空中悬停，随后又慢慢沉降。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="幻想的な輝きが作り出す鮮やかな光景。光の中、源石の粉塵はまず空中に漂い、その後ゆっくりと落ちていく。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="Brilliant, dazzling, prismatic light. Originium dust floats in the air among the lights, then slowly settles.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="그 모습은 장엄하다 표현할 정도로, 너무나도 찬란했다. 오리지늄 먼지가 형형색색의 빛 속을 떠다니다 가라앉자, 모든 것이 끝을 고했다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="一位感染者回归了生养他的大地。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一人の感染者が、生まれ育った大地に還っていった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="An Infected returns to the earth that birthed him.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그렇게 한 감염자가 대지로, 자신이 태어난 곳으로 돌아갔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+

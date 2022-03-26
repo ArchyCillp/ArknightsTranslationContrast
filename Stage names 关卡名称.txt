@@ -1236,90 +1236,177 @@ Operation Erebus-4
 
 st_09-01
 风暴突击
+暗雲の中へ
+Storm Assault
+폭풍의 돌격
 
 main_09-01
 鬼魂危机
+亡霊事変
+The Ghost Crisis
+귀혼대의 위협
 
 main_09-02
 牌局
+ティータイム
+A Game of Cards
+오락
 
 main_09-03
 暗火四起
+一触即発
+Low Fires All About
+사방에서 일어난 불길
 
 main_09-04
 临界值
+臨界点
+Critical Value
+임계치
 
 main_09-05
 深池
+「深水区域」
+Dublinn
+더블린
 
 tr_19
 废墟行动
+廃墟戦闘訓練
+Ruins Operation
+폐허 작전
 
 main_09-06
 捉迷藏
+かくれんぼ
+Hide-and-Seek
+숨바꼭질
 
 st_09-02
 灰烬中的诗
+灰燼に散る詩
+Verse in the Ashes
+잿더미 속의 시
 
 main_09-07
 无辜者
+罪無き者
+The Innocent
+무고한 자
 
 main_09-08
 雷声轰鸣
+轟く雷鳴
+Thunder's Rumble
+천둥의 울림
 
 main_09-09
 拉锯
+拮抗状態
+Tug-o'-War
+장기전
 
 main_09-10
 鬼影如潮
+押し寄せる影
+Apparitional Waves
+다가오는 그림자
 
 main_09-11
 战地救援
+戦場救護
+Battlefield Rescue
+전장에서의 구조
 
 main_09-12
 风中旗帜
+旗は風に揺れて
+Banner in the Wind
+휘날리는 깃발
 
 main_09-13
 大地滚烫
+滾る大地
+Scalding Earth
+뜨겁게 달은 대지
 
 main_09-14
 突围
+包囲網突破
+Breakout
+포위 돌파
 
 main_09-15
 维多利亚士兵
+ヴィクトリアの兵士
+Victorian Soldier
+빅토리아 병사
 
 main_09-16
 “破晓”
+「夜明け」
+'Daybreak'
+'동틀 무렵'
 
 main_09-17
 长夜枪火
+長き夜を照らす戦火
+Gunfire in the Night
+긴 밤의 전투
 
 st_09-03
 临近的暴风
+目前の大嵐
+The Approaching Storm
+다가오는 폭풍
 
 st_09-04
 重燃
+再燃
+Relit
+다시 붙은 불꽃
 
 sub_09-1-1
 废墟坚守
+廃墟防戦
+Holding Ruins
+폐허에서의 사수
 
 hard_09-01
 暴风行动-1
+暴風作戦-1
+Operation Anemoi-1
+폭풍 작전-1
 
 hard_09-02
 暴风行动-2
+暴風作戦-2
+Operation Anemoi-2
+폭풍 작전-2
 
 hard_09-03
 暴风行动-3
+暴風作戦-3
+Operation Anemoi-3
+폭풍 작전-3
 
 hard_09-04
 急雨行动-1
+雷雨作戦-1
+Operation Hyades-1
+소나기 작전-1
 
 hard_09-05
 急雨行动-2
+雷雨作戦-2
+Operation Hyades-2
+소나기 작전-2
 
 hard_09-06
 急雨行动-3
+雷雨作戦-3
+Operation Hyades-3
+소나기 작전-3
 
 wk_melee_1
 私人家具押运
@@ -1519,6 +1606,219 @@ pro_d_2
 Assault
 맹공
 
+act16side_st01
+风云际会
+
+act16side_01
+灯下黑
+
+act16side_02
+散步时光
+
+act16side_03
+混血儿
+
+act16side_tr01
+甜品时间
+
+act16side_04
+安魂教堂
+
+act16side_05
+葬礼
+
+act16side_06
+安魂曲
+
+act16side_07
+光与影
+
+act16side_08
+影与灰
+
+act16side_st02
+鸢尾花
+
+act16side_ex01
+巧克力曲奇
+
+act16side_ex02
+限量蒙布朗
+
+act16side_ex03
+香草圣代
+
+act16side_ex04
+焦糖布丁
+
+act16side_ex05
+年轮卷
+
+act16side_ex06
+奶油冰淇淋
+
+act16side_ex07
+苹果派
+
+act16side_ex08
+千层蛋糕
+
+act10mini_01
+废旧通道
+
+act10mini_02
+秘密仓库
+
+act10mini_03
+沸腾俱乐部
+
+act10mini_04
+流寇帮
+
+act10mini_05
+排骨汤巷
+
+act10mini_06
+贝西林商会
+
+act10mini_07
+巴塔耶夫酒厂
+
+act10mini_08
+塔西会
+
+act10mini_09
+白房子酒吧
+
+act10mini_10
+半价古董店
+
+act15side_st01
+客将至
+
+act15side_01
+化物
+
+act15side_02
+无寻处
+
+act15side_03
+光与影
+
+act15side_04
+秉烛
+
+act15side_st02
+万物有灵
+
+act15side_05
+货与人
+
+act15side_06
+传说
+
+act15side_07
+乱局
+
+act15side_08
+执念
+
+act15side_09
+岁相
+
+act15side_st03
+再弈
+
+act15side_ex01
+入蜀
+
+act15side_ex02
+蜀道难
+
+act15side_ex03
+老店
+
+act15side_ex04
+茶棚
+
+act15side_ex05
+梁府
+
+act15side_ex06
+边塞
+
+act15side_ex07
+寻日峰
+
+act15side_ex08
+忘水坪
+
+act14side_tr01
+小心地滑
+
+act14side_01
+不欢而聚
+
+act14side_st01
+入乡随俗
+
+act14side_02
+息事宁人
+
+act14side_03
+人心难测
+
+act14side_st02
+山雪欲来
+
+act14side_04
+立雪求道
+
+act14side_tr02
+用冰之道
+
+act14side_05
+猎场
+
+act14side_st03
+一着不慎
+
+act14side_06
+歧路
+
+act14side_07
+破冰
+
+act14side_08
+将军
+
+act14side_st04
+封盘
+
+act14side_ex01
+孤兵
+
+act14side_ex02
+过度扩张
+
+act14side_ex03
+吃过路兵
+
+act14side_ex04
+叠兵
+
+act14side_ex05
+闪将
+
+act14side_ex06
+落后兵
+
+act14side_ex07
+闷杀
+
+act14side_ex08
+后翼弃兵
+
 act13side_st01
 欣欣向荣
 
@@ -1626,135 +1926,267 @@ act9mini_06
 
 act12side_st01
 不期而遇
+思わぬ遭遇
+A Chance Encounter
+우연한 만남
 
 act12side_tr01
 初来乍到
+初めましてドッソレス
+Just Arrived
+도솔레스 입성
 
 act12side_01
 意外入选
+思いがけぬ参戦
+Accidental Participation
+뜻밖의 입선
 
 act12side_02
 首轮竞赛
+第一ラウンド
+First Round
+제1라운드
 
 act12side_03
 拔铳相助
+銃を手に
+Timely Assistance
+불의를 향해 뽑은 총
 
 act12side_st02
 中场休息
+インターバル
+Intermission
+브레이크 타임
 
 act12side_04
 铁人三项
+トライアスロン
+Triathlon
+철인 삼종
 
 act12side_05
 曲径求胜
+急がば回れ
+Winding Path to Victory
+고난 속 역전
 
 act12side_tr02
 插翅难飞
+寸歩難行
+No Escape
+독 안에 든 쥐
 
 act12side_06
 紧追猛赶
+後発先至
+Hot Pursuit
+맹렬한 추격
 
 act12side_st03
 请君入瓮
+墓穴を掘る
+Turnabout is Fair Play
+자승자박
 
 act12side_07
 沙滩阻击
+ビーチでの攻防
+Beach Blockade
+해변의 저지
 
 act12side_08
 抢滩登陆
+ゴールを目指せ
+Beach Landing
+상륙 작전
 
 act12side_09
 鼠胆龙威
+龍威鼠心
+Mouse's Courage, Dragon's Might
+용쟁쥐투
 
 act12side_st04
 海浪照常拍岸
+変わらぬ双日
+The Usual Lapping Waves
+여전한 파도
 
 act12side_ex01
 8号商业街
+8号商店街
+8th Commercial Street
+8번 번화가
 
 act12side_ex02
 阳光沙滩
+サンシャインビーチ
+Sun-bathed Beach
+눈부신 해변
 
 act12side_ex03
 捉迷藏
+かくれんぼ
+Hide and Seek
+숨바꼭질
 
 act12side_ex04
 入海口
+境界の防衛線
+Estuary
+하구
 
 act12side_ex05
 海滨瞭望点
+海辺の展望台
+Seaside Vantage Point
+해변 전망대
 
 act12side_ex06
 沙滩聚会
+ビーチパーティ
+Beach Gathering
+해변 파티
 
 act12side_ex07
 造浪池
+ウェーブプール
+Wave Pool
+인공 파도
 
 act12side_ex08
 欲擒故纵
+欲擒姑縦
+False Sense of Security
+밀고 당기기
 
 act12side_s01
 鬼使神差
+すれ違い
+Curious Coincidences
+귀신이 곡할 노릇
 
 act12side_s02
 龙争鼠斗
+龍争鼠闘
+Battle of the Dragon and Mouse
+용쥐상박
 
 act12side_s03
 故友重逢
+旧友との再会
+Reunion of Old Friends
+옛 친구 재회
 
 act12side_s04
 最终调查
+最終捜査
+Final Investigation
+마지막 조사
 
 act12side_mo01
 多索雷斯北郊
+ドッソレス北郊外
+Dossoles Northern Suburbs
+도솔레스 북부 교외
 
 act8mini_01
 侧面作战
+援護作戦
+Flanking Maneuver
+측면 작전
 
 act8mini_02
 从天而降
+天より降る
+From the Skies
+공수 작전
 
 act8mini_03
 亲子聚会
+親子の集い
+The Meeting of Kin
+친자 모임
 
 act8mini_04
 整装列队
+整列
+Geared and Ordered
+대열 정돈
 
 act8mini_05
 倒带
+巻き戻し
+Rewind
+되감기
 
 act8mini_06
 昨日
+昨日
+Yesterday
+하루 전날
 
 act8mini_07
 分解和弦
+アルペジオ
+Dissonant Chord
+아르페잔도
 
 act1lock_a-01
 拂晓之处-认识
+黎明の域-認識
+Daybreak Point - Awareness
+새벽의 땅 - 인식
 
 act1lock_a-02
 拂晓之处-理想
+黎明の域-理想
+Daybreak Point - Ideal
+새벽의 땅 - 이상
 
 act1lock_a-03
 拂晓之处-感官
+黎明の域-感官
+Daybreak Point - Sense
+새벽의 땅 - 느낌
 
 act1lock_a-04
 拂晓之处-物性
+黎明の域-本質
+Daybreak Point - Attribute
+새벽의 땅 - 속성
 
 act1lock_b-01
 白昼之地-处世
+白昼の地-処世
+Daytime Ground - Conduct
+백주의 땅 - 처세
 
 act1lock_b-02
 白昼之地-幻象
+白昼の地-幻像
+Daytime Ground - Illusion
+백주의 땅 - 환상
 
 act1lock_b-03
 白昼之地-沉思
+白昼の地-深慮
+Daytime Ground - Meditation
+백주의 땅 - 생각
 
 act1lock_b-04
 白昼之地-坚守
+白昼の地-堅守
+Daytime Ground - Perseverance
+백주의 땅 - 고수
 
 act1lock_c-01
 黄昏秘境
+黄昏の秘境
+Twilight Frontier
+황혼의 비경
 
 act7mini_01
 深入敌阵
@@ -2609,7 +3041,7 @@ act12d0_01
 高空坠物
 墜落
 Falling Objects
-고공낙하
+낙하물
 
 act12d0_02
 粗细有别
@@ -2740,7 +3172,7 @@ Under the Old Oak
 act11d0_01
 缄默不言
 黙して語らず
-Vow of Silence
+Silence Maintained
 함구불언
 
 act11d0_02
@@ -2758,7 +3190,7 @@ Contested Devices
 act11d0_03
 高塔烟火
 高塔の花火
-Burning Spire
+Smoldering Spire
 불타는 대의회탑
 
 act11d0_04
@@ -3172,7 +3604,7 @@ Gang Fight Tactics
 act5d0_ex02
 南辕北辙
 南轅北轍
-Misdirection
+Unintended Consequences
 우왕좌왕
 
 act5d0_ex03
@@ -3495,10 +3927,22 @@ Flooded Seashore
 
 camp_r_05
 积水潮窟
+水没潮窟
+Watery Tidehollow
+물이 고인 동굴
 
 camp_r_06
 长泉镇郊野
+ロングスプリング郊外
+Long Spring Wastes
+롱스프링 황무지
 
 camp_r_07
 多索雷斯换水口
+
+camp_r_08
+南方监狱
+
+camp_r_09
+小丘郡郊野
 

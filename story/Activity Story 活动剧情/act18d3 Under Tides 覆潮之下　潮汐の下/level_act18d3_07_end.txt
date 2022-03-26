@@ -1,0 +1,460 @@
+[name="安妮塔"]今天拿的够多了吧？除了我、佩特拉奶奶、长凳的份......
+[name="アニタ"]今日はいっぱい拾えたんじゃない？　私とペトラおばあさんの分、それからベンチの分に……
+[name="Anita"]That should take care of it, I think? We should have enough for me, Grandma, and Bench...
+[name="아니타"]오늘은 충분히 챙겼겠지? 나, 페트라 할머니, 벤치 몫 말고도……
+
+[name="安妮塔"]唔，还有歌手，歌手还会回来的吧？也不能让她饿肚子。
+[name="アニタ"]うん、歌い手さんの分も。歌い手さん、きっと帰ってくるよね？　お腹すかせて帰ってきたら、可哀想だもん。
+[name="Anita"]Oh, and the singer too. She will come back, right? We can't let her go hungry.
+[name="아니타"]음, 가수님도 있어. 가수님은 돌아오실까? 가수님도 배고프게 할 순 없지.
+
+[name="安妮塔"]剩下的......还有多。可以存盒子里。
+[name="アニタ"]残りは……まだ、こんなにいっぱい！　箱に入れておこうっと。
+[name="Anita"]We still have... some. We can put the rest in the box.
+[name="아니타"]남은 게…… 이렇게 많네. 이건 상자에 보관해야겠어.
+
+[name="安妮塔"]呃，壁炉叔，你想要吗？那、那我还是先给你。
+[name="アニタ"]えっ、暖炉おじさんも欲しいの？　んー、それじゃ先に、おじさんにあげるね。
+[name="Anita"]Uh, Uncle Fireplace, you wanted some? O-Okay, I can give you some first.
+[name="아니타"]어, 벽난로 아저씨도 필요하세요? 그럼, 제가 먼저 드릴게요.
+
+[name="安妮塔"]哇哇，你胳膊上缠着的这些好像是海藻哎！给我吧，我要试试做歌手教我的......呃，海藻酒！
+[name="アニタ"]わあっ、おじさんの腕に絡まってるのって海藻でしょ！　それ、私にちょうだい！　歌い手さんから教わった……えっと、お酒！　海藻のお酒を作ってみたいの。
+[name="Anita"]Whoa, I think that's seaweed on your arm! Let me have it! I'll make the... uh... seaweed alcohol that the singer taught me to make!
+[name="아니타"]우와, 아저씨 팔에 감긴 거 해초 같은데요! 제게 주세요. 가수님이 가르쳐 주신…… 해초주를 만들어봐야겠어요!
+
+[name="安妮塔"]咦，长凳呢？一晃眼又跑哪里去了？
+[name="アニタ"]……あれ、ベンチは？　またどこかに行っちゃった？
+[name="Anita"]Huh? Where did Bench go? I only took my eyes off for a moment.
+[name="아니타"]어, 벤치는? 눈 깜짝할 사이에 또 어디 갔지?
+
+[name="幼年居民"]咿呀......啊......
+[name="幼い住民"]あぅ……あぅ～……
+[name="Young Inhabitant"](Makes children noises)
+[name="어린이 주민"]이야…… 아……
+
+[Subtitle(text="一道红色的身影出现在他跟前。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="幼い子どもの目の前に、赤い人影が現れる。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A red-clad figure appears before him.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="붉은빛을 띤 형체 하나가 그의 앞에 나타났다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="幼年居民"]啊......歌......啊啊......
+[name="幼い住民"]うぁ……うた……あぅ～？
+[name="Young Inhabitant"]Ah... Songs... Ahhh...
+[name="어린이 주민"]아…… 노래…… 아아……
+
+[name="斯卡蒂"]......别抓。
+[name="スカジ"]……そうやって掴んじゃダメよ。
+[name="Skadi"]Stop grabbing...
+[name="스카디"]……잡지 마.
+
+[name="斯卡蒂"]这个给你。
+[name="スカジ"]これ、あげるわ。
+[name="Skadi"]This is yours.
+[name="스카디"]자, 이거.
+
+[name="幼年居民"]呜哇......
+[name="幼い住民"]んわぅ……
+[name="Young Inhabitant"]Whaa...
+[name="어린이 주민"]으아……
+
+[name="斯卡蒂"]......别啃。不能吃。
+[name="スカジ"]……かじるのもダメ。それは食べ物じゃないのよ。
+[name="Skadi"]Stop chewing it... It's not something you can eat.
+[name="스카디"]……깨물지 마. 먹으면 안 돼.
+
+[name="幼年居民"]木框，木框......
+[name="幼い住民"]きわく、きわく……
+[name="Young Inhabitant"]Woodframe... Woodframe...
+[name="어린이 주민"]나무틀, 나무틀……
+
+[name="斯卡蒂"]......别叫她。
+[name="スカジ"]……彼女を呼ぶのはやめて。
+[name="Skadi"]Don't call her...
+[name="스카디"]……부르지 마.
+
+[name="斯卡蒂"]嗯，你帮我把琴带给她。
+[name="スカジ"]私の代わりにハープを持っていって。彼女に渡してほしいの。
+[name="Skadi"]Yeah, give her my harp, will you?
+[name="스카디"]그래, 나 대신 이 하프를 전해줘.
+
+[name="斯卡蒂"]告诉她......不，你没法告诉她。
+[name="スカジ"]彼女に伝えて……ううん、あなたじゃ伝えられないわね。
+[name="Skadi"]Tell her... No, I guess you can't talk.
+[name="스카디"]아니타에게 전해…… 아니다, 넌 말을 못 하지.
+
+[name="斯卡蒂"]这还不是再见。
+[name="スカジ"]それに……これはまだ、お別れじゃない。
+[name="Skadi"]This isn't a goodbye.
+[name="스카디"]아직 헤어지는 게 아니야.
+
+[name="斯卡蒂"]我去问问题。然后，我会自己说。
+[name="スカジ"]聞きたいことがあるから行くの。戻ってきたら、自分で言うわ。
+[name="Skadi"]I'll go ask a question. Then, I'll tell her myself.
+[name="스카디"]뭘 물어보러 갈 거야. 그리고 내가 직접 전할게.
+
+[Subtitle(text="斯卡蒂的目光投向高处的教堂。她清楚剩下的路该怎么走。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="スカジは視線を高所の教会へと向けた。残りの道をどう歩けばいいのか、彼女ははっきりと理解していた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Skadi looks at the chapel overlooking the town. She knows how to get to her destination.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="스카디의 시선은 높은 곳에 있는 교회를 향했다. 그녀는 남은 길을 어떻게 걸어야 할지 잘 알고 있었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="审判官艾丽妮"]长官，我们现在就要在山体上安置爆破物吗？
+[name="審問官アイリーニ"]上官、我々は今から山に爆薬を設置しに行く、ということでよろしいですか？
+[name="Inquisitor Irene"]High Inquisitor, are we planting explosives at the hill right now?
+[name="재판관 아이린"]장관님, 지금 당장 산 위에 폭발물을 설치할까요?
+
+[name="大审判官"]是。
+[name="大審問官"]ああ。
+[name="High Inquisitor"]That is correct.
+[name="대재판관"]그래.
+
+[name="审判官艾丽妮"]另一方面，我看见一个人进了教堂。
+[name="審問官アイリーニ"]……先ほど向こうで、何者が教会に入っていくのを見ました。
+[name="Inquisitor Irene"]On another note, I saw someone entering the chapel.
+[name="재판관 아이린"]그건 그렇고, 한 사람이 교회에 들어가는 것을 보았습니다.
+
+[name="审判官艾丽妮"]她看起来和我们之前遇见过的那个外来人......很像。
+[name="審問官アイリーニ"]この都市で出会ったあのよそ者に……よく似ていましたが……
+[name="Inquisitor Irene"]She looks very much like that... outsider we met before.
+[name="재판관 아이린"]우리가 전에 만났던 그 이방인과…… 아주 닮아 보입니다.
+
+[name="大审判官"]......
+[name="大審問官"]……
+[name="High Inquisitor"]......
+[name="대재판관"]……
+
+[name="审判官艾丽妮"]那，长官，她到底是什么人？
+[name="審問官アイリーニ"]あの……上官、彼女は一体何者なのでしょう？
+[name="Inquisitor Irene"]So, High Inquisitor, who is she?
+[name="재판관 아이린"]장관님, 그 여자는 대체 누군가요?
+
+[name="大审判官"]阿戈尔人。
+[name="大審問官"]エーギルだ。
+[name="High Inquisitor"]An Ægir.
+[name="대재판관"]에기르야.
+
+[name="审判官艾丽妮"]我听说了，她和恐鱼战斗了。
+[name="審問官アイリーニ"]彼女は恐魚と戦っていました。
+[name="Inquisitor Irene"]I heard she fought the Sea Terrors.
+[name="재판관 아이린"]그녀가 시테러와 싸웠다고 들었습니다.
+
+[name="审判官艾丽妮"]......除了我们之外，竟然还有人知道这些怪物，专门和这些怪物战斗......
+[name="審問官アイリーニ"]……私たちの他に、あの怪物を知っていて、あれとの戦いを専門とする人がいたなんて……
+[name="Inquisitor Irene"]I'm surprised there are others who not only know about these monsters... but specialize in fighting them as well...
+[name="재판관 아이린"]……우리 말고도, 그 괴물들을 잘 알고, 전문적으로 싸우는 사람이 있었다니……
+
+[name="审判官艾丽妮"]如果我们炸毁教堂......她会受到波及吗？
+[name="審問官アイリーニ"]もし教会を爆破すれば……彼女も巻き込まれてしまうのでは？
+[name="Inquisitor Irene"]If we blow up the chapel... Will she be affected?
+[name="재판관 아이린"]우리가 교회를 폭파하면…… 그 여자에게도 영향이 미칠까요?
+
+[name="大审判官"]不解决首恶，将这里毁灭也无用。
+[name="大審問官"]元凶を解決することなく、この場所を破壊したところで無意味だ。だが、あの場所が奴らの温床となる以上、選択肢などない。
+[name="High Inquisitor"]If we don't strike the evil at its root, even destroying this place won't accomplish anything.
+[name="대재판관"]원흉을 해결하지 않으면 이곳을 파괴해도 소용없다.
+
+[name="审判官艾丽妮"]这样吗？所以还是得知道，是谁在这里引起了异象......长官也不能确定吗？
+[name="審問官アイリーニ"]そう……でしょうか？　ならば我々は、ここに異常をもたらした元凶を知る必要があると思うのですが……上官にも、確証がお有りでないのですか？
+[name="Inquisitor Irene"]Is that so? So we still have to find out who caused this phenomenon... And you don't know who it is yourself, High Inquisitor?
+[name="재판관 아이린"]그런가요? 그러니까 누가 이런 이상한 현상을 일으킨 건지 알아야겠네요…… 장관님도 확신하실 수 없는 겁니까?
+
+[name="大审判官"]你不可问你任务之外的事。
+[name="大審問官"]自分の任務以外のことは尋ねるな。
+[name="High Inquisitor"]You may not ask anything that has nothing to do with the mission.
+[name="대재판관"]넌 네 임무 이외의 일을 물어선 안 된다.
+
+[name="审判官艾丽妮"]......明白了。
+[name="審問官アイリーニ"]……わかりました。
+[name="Inquisitor Irene"]Understood...
+[name="재판관 아이린"]……알겠습니다.
+
+[name="审判官艾丽妮"]另外，虽然我知道长官你不在意，但我还是想说说......这个区块的承重结构，承受不住我们设计的爆炸的威力。
+[name="審問官アイリーニ"]それと、上官はお気になさらないと思いますが、それでも言わせてください……この都市の耐久構造では、爆発の威力に耐えることはできません。
+[name="Inquisitor Irene"]Also, while I'm aware you don't mind, I have to say this nonetheless... The load-bearing structure of this block probably won't withstand the intensity of the explosion.
+[name="재판관 아이린"]그리고, 장관님은 신경 쓰지 않으시겠지만, 그래도 말해야겠습니다…… 이 섹터의 하중 구조는 폭발의 위력을 견딜 수 없습니다.
+
+[name="审判官艾丽妮"]南半侧的城市随时都可能塌陷，这里的居民却还不知道这个消息。
+[name="審問官アイリーニ"]街の南半分は崩壊する危険性がありますが、ここの住民はそれを知らないのです。
+[name="Inquisitor Irene"]The southern half of the city may crumble any moment, and the inhabitants here still don't know anything about this.
+[name="재판관 아이린"]도시의 남반부가 언제든 무너져 내릴 수도 있는데, 정작 주민들은 아직 이 소식을 모르고 있습니다.
+
+[name="大审判官"]继续说。
+[name="大審問官"]続けろ。
+[name="High Inquisitor"]Proceed.
+[name="대재판관"]계속 말해 봐.
+
+[name="审判官艾丽妮"]呃......
+[name="審問官アイリーニ"]わ、私は……
+[name="Inquisitor Irene"]Uh...
+[name="재판관 아이린"]그러니까……
+
+[name="审判官艾丽妮"]......
+[name="審問官アイリーニ"]……
+[name="Inquisitor Irene"]......
+[name="재판관 아이린"]……
+
+[name="审判官艾丽妮"]我想去疏散他们。
+[name="審問官アイリーニ"]私は、彼らを避難させたいと思っています。
+[name="Inquisitor Irene"]I want to evacuate the inhabitants.
+[name="재판관 아이린"]저는 그들을 대피시키고 싶습니다.
+
+[name="审判官艾丽妮"]哪怕他们在长官你看来是古怪的，有问题的......
+[name="審問官アイリーニ"]たとえ、上官にとっての彼らが、奇妙で、問題があり……
+[name="Inquisitor Irene"]I mean, to you, they may seem peculiar and problematic...
+[name="재판관 아이린"]장관님이 보시기에, 설령 그들이 괴이하고 문제가 있더라도……
+
+[name="审判官艾丽妮"]......应该被净化的。
+[name="審問官アイリーニ"]……浄化されるべき存在だったとしても。
+[name="Inquisitor Irene"]...and also things that need to be cleansed.
+[name="재판관 아이린"]……정화되어야 한다 해도 말이죠.
+
+[name="大审判官"]判官！
+[name="大審問官"]審問官！
+[name="High Inquisitor"]Inquisitor!
+[name="대재판관"]재판관!
+
+[name="审判官艾丽妮"]呃......！
+[name="審問官アイリーニ"]ひっ……！
+[name="Inquisitor Irene"]Uhh...!
+[name="재판관 아이린"]윽……!
+
+[name="大审判官"]说出你的职责！
+[name="大審問官"]お前の職責は何か、言ってみろ！
+[name="High Inquisitor"]Tell me! What is your responsibility?!
+[name="대재판관"]네 직책을 말해봐라!
+
+[name="审判官艾丽妮"]是！
+[name="審問官アイリーニ"]はい！
+[name="Inquisitor Irene"]Yes!
+[name="재판관 아이린"]네!
+
+[name="审判官艾丽妮"]“我是为了伊比利亚的存续，为了同伊比利亚的敌人而战，为了守卫伊比利亚的洁净与德行，提起了剑与灯！”
+[name="審問官アイリーニ"]「イベリアの国家存続のため、イベリアの敵と戦うため、イベリアの潔白と美徳を守るため、私は剣と灯りを高く掲げる！」
+[name="Inquisitor Irene"]'For Iberia's prosperity, for Iberia's defense, and for Iberia's orderliness and integrity, I shall raise my sword and my light!'
+[name="재판관 아이린"]“이베리아의 존속을 위해, 이베리아의 적과 싸우기 위해, 이베리아의 순결과 덕행을 지키기 위해 검과 등불을 든다!”
+
+[name="大审判官"]那么你必须对他们做出判决！
+[name="大審問官"]ならばお前は、彼らに判決を下さねばならない！
+[name="High Inquisitor"]In that case, you must lay down your judgment for these men!
+[name="대재판관"]그렇다면 넌 반드시 저들에게 판결을 내려야 한다!
+
+[name="审判官艾丽妮"]判决？判处他们......死刑吗？
+[name="審問官アイリーニ"]判決？　彼らに……死刑を言い渡すのですか？
+[name="Inquisitor Irene"]You want me to... lay down judgment? To sentence them to death?
+[name="재판관 아이린"]판결? 저들에게 …… 사형을 선고하라는 겁니까?
+
+[name="审判官艾丽妮"]长官，你上一次听到过去的歌声，是什么时候？那些唱片，都已经坏了吧？你的机器也落灰很久了吧？
+[name="審問官アイリーニ"]上官、昔あった歌を、最後に聞いたのはいつですか？　あのレコードはすべて壊れていますよね？　あなたの機械も、長い間ほこりを被っていますよね？
+[name="Inquisitor Irene"]High Inquisitor, when was the last time you listened to a song? Your records have all gone bad, haven't they? Your player has been gathering dust for a long time too.
+[name="재판관 아이린"]장관님, 그 노래를 마지막으로 들으신 게 언제죠? 레코드판이 다 망가졌죠? 기계에도 먼지가 쌓인 지 오래됐죠?
+
+[name="审判官艾丽妮"]我听见那首歌。我听见了这个阿戈尔人给他们唱的歌。
+[name="審問官アイリーニ"]私はあの歌を聞きました。あのエーギルが、彼らのために歌うのを聞いたのです。
+[name="Inquisitor Irene"]I heard that song. I heard the song the Ægir was singing for these people.
+[name="재판관 아이린"]전 그 노래를 들었습니다. 그 에기르가 저들에게 불러 준 노래를요.
+
+[name="审判官艾丽妮"]那样的歌，是伊比利亚原本该有的歌。
+[name="審問官アイリーニ"]あのような歌こそ、本来イベリアにあるべきものだと……私は思います。
+[name="Inquisitor Irene"]That's the kind of song that Iberia should have had.
+[name="재판관 아이린"]그 노래는 원래 이베리아에 있어야 할 노래입니다.
+
+[name="审判官艾丽妮"]在杀死他们以前，我想知道真相。就像长官你想揪出幕后主使者。
+[name="審問官アイリーニ"]だからこそ、彼らを殺す前に真実を知りたいのです。上官が黒幕を見つけ出したいとお思いになるのと同じように。
+[name="Inquisitor Irene"]Before we kill them, I want to know the truth. Just like you were trying to find who is behind this.
+[name="재판관 아이린"]저들을 죽이기 전에 저는 진실을 알고 싶습니다. 장관님께서 흑막을 잡아내고 싶은 것처럼요.
+
+[name="审判官艾丽妮"]也许他们还是会变异，到那时候，我一定会亲手净化他们，但现在我想让他们先去避难。
+[name="審問官アイリーニ"]確かに彼らはまだ変異する可能性を秘めていますが……その時は、必ず私の手で彼らを浄化してみせます。ですが今は……今は、彼らを避難させてやりたいんです。
+[name="Inquisitor Irene"]Perhaps they will still mutate, but when that time comes, I will cleanse them myself, but I would like to evacuate them right now.
+[name="재판관 아이린"]저들도 변이할 수 있겠죠. 그땐 반드시 제 손으로 정화하겠습니다. 하지만 지금은 먼저 피난시키고 싶습니다.
+
+[name="审判官艾丽妮"]长官，如果你同意，我立刻就会去进行疏散！
+[name="審問官アイリーニ"]上官、もしご許可をいただけるのなら、私は今すぐ彼らの避難誘導に向かいます！
+[name="Inquisitor Irene"]High Inquisitor, if I have your permission, I will evacuate everyone right away!
+[name="재판관 아이린"]장관님, 동의해 주시면 제가 즉시 대피시키겠습니다!
+
+[name="大审判官"]这就是你的判决？
+[name="大審問官"]それがお前の判決か？
+[name="High Inquisitor"]Is that your decision?
+[name="대재판관"]그게 너의 판결인가?
+
+[name="审判官艾丽妮"]长官，我不知道！
+[name="審問官アイリーニ"]わかりません、上官！
+[name="Inquisitor Irene"]I don't know!
+[name="재판관 아이린"]솔직히, 잘 모르겠습니다!
+
+[name="大审判官"]艾丽妮，你不止在对面前的人下判决。你也在对其他人下判决！
+[name="大審問官"]アイリーニ、お前の判決は、目の前の人々だけに下されるものではない。それは同時に、他の人々への判決にもなりうるのだ！
+[name="High Inquisitor"]Irene, you are not just laying down decisions for those you see in front of you. Your decisions affect much more!
+[name="대재판관"]아이린, 넌 눈앞의 사람에게만 판결을 내리는 것이 아니다. 너는 지금 다른 사람에게도 판결을 내리고 있다!
+
+[name="大审判官"]你判决怪物生，就是判决人民死！
+[name="大審問官"]お前が怪物に生の判決を下せば、人々には死の判決が下されることになる！
+[name="High Inquisitor"]By sentencing the monsters to live, you also sentence the citizens to die!
+[name="대재판관"]괴물을 살리겠단 판결은, 곧 사람을 죽이겠다는 판결이다!
+
+[name="审判官艾丽妮"]我明白！这样的判决，我已经下过许多次！
+[name="審問官アイリーニ"]承知しております！　そうした判決を、私はこれまで何度も下してきました！
+[name="Inquisitor Irene"]I understand! I've already made decisions like this one countless of times!
+[name="재판관 아이린"]알고 있습니다! 이런 판결은 이전에도 여러 번 내렸던 적이 있습니다!
+
+[name="大审判官"]你的判决，既可能阻绝灾难，也可能带来噩兆！你可能救一人而杀百人，也可能杀百人而救一人！
+[name="大審問官"]お前の判決は、災いを阻止するものかもしれない。しかし同時に凶兆をもたらす可能性もあると忘れるな！　一人を救うため百人を殺すことも、一人を殺して百人を救うこともありうるのだ！
+[name="High Inquisitor"]Your judgment can mitigate disasters or portend ill omens! You may kill hundreds merely to save one!
+[name="대재판관"]네 판결은 재난을 막을 수도 있겠지만, 되려 재난을 불러올 수도 있다! 한 명을 구하느라 백 명을 죽일 수도 있고, 백 명을 죽여서 한 명을 구할 수도 있다!
+
+[name="审判官艾丽妮"]......我明白，长官！
+[name="審問官アイリーニ"]……承知しております、上官！
+[name="Inquisitor Irene"]I understand that, Sir!
+[name="재판관 아이린"]……알고 있습니다, 장관님!
+
+[name="审判官艾丽妮"]这里面的利害关系，道德和经文的冲突......我都明白！
+[name="審問官アイリーニ"]判決がもたらすであろう利害も、道徳と経典の間にある矛盾も……私はすべてわかっています！
+[name="Inquisitor Irene"]What's at stake behind this deal, the clashes between morals and scriptures... I understand it all!
+[name="재판관 아이린"]그 속의 이해관계, 도덕과 경전의 모순…… 전부 알고 있습니다!
+
+[name="大审判官"]我问你这个了吗？
+[name="大審問官"]私は、お前にそんなことを尋ねたか？
+[name="High Inquisitor"]That isn't what I'm asking you.
+[name="대재판관"]내가 그런 것을 물었었나?
+
+[name="审判官艾丽妮"]......
+[name="審問官アイリーニ"]……
+[name="Inquisitor Irene"]......
+[name="재판관 아이린"]……
+
+[name="大审判官"]我问你的是，艾丽妮，这种责任是你能承担得了的吗？
+[name="大審問官"]お前に訊いていることは一つだ……アイリーニ、お前はこの責任を背負うことができるのか？
+[name="High Inquisitor"]What I'm asking you, Irene, is if you can truly bear this responsibility.
+[name="대재판관"]내가 네게 묻고 싶은 건, 아이린, 네가 이런 책임을 짊어질 수 있냐는 것이다.
+
+[name="大审判官"]如果你会带来痛苦，你就必须也遭受痛苦，而且要比你施加给别人的那些罪恶加起来还要多。
+[name="大審問官"]お前が苦しみをもたらすならば、お前もまた苦しみを受けなければならない。お前が下した罪悪の判決よりも、多くの苦しみをだ。
+[name="High Inquisitor"]If you bring them great pain, then you too must bear this pain as well, and it will be far graver than the sins you inflict on others combined.
+[name="대재판관"]네가 고통을 가져온다면, 너도 반드시 그 고통을 짊어져야 한다. 그것도 네가 다른 사람에게 가한 죄보다 더 많이 말이다.
+
+[name="大审判官"]你有这种胆识吗？你的信仰会在你遭受内心折磨时动摇吗？如果你失败了，你造成了恶果，你会因此一蹶不振吗？
+[name="大審問官"]お前にその度胸があるのか？　精神的な苦痛を受けた時、お前の信仰は揺らぎはしないか？　もし、失敗して悪い結果をもたらしたとしても、もう一度立ち上がることができるのか？
+[name="High Inquisitor"]Do you have the courage? Will your beliefs remain steadfast when your heart is tormented? If you fail, are you certain you can stay unflinching when you witness the outcome of your decision?
+[name="대재판관"]네게 그럴 배짱이 있느냐? 네 믿음이 내적인 괴로움을 겪을 때마다 동요할 것이냐? 만약 네가 실패하여 나쁜 결과를 초래한다면, 넌 그대로 주저앉아버릴 것이냐?
+
+[name="审判官艾丽妮"]......我能承担。我不会动摇。
+[name="審問官アイリーニ"]……私は……私は揺らぎません。私には、背負う覚悟があります。
+[name="Inquisitor Irene"]I can take it... and I won't waver.
+[name="재판관 아이린"]……전 감당할 수 있습니다. 전 동요하지 않을 겁니다.
+
+[name="审判官艾丽妮"]在我加入审判庭的时候，我就已经这么做了。我能。如果我做错了，那么就让我遭受责罚。我必须做。
+[name="審問官アイリーニ"]裁判所の一員となった時、既に覚悟をしていました。私には、できます。もし間違いを犯すことがあれば、処罰を受けましょう。私にはその義務があるのですから。
+[name="Inquisitor Irene"]That's what I've been doing all along ever since I joined the Inquisition. I can do it. If what I do proves to be wrong, then let me receive the proper punishment. This is something I must do.
+[name="재판관 아이린"]저는 재판소에 들어올 때부터 이미 그렇게 해왔습니다. 전 할 수 있습니다. 제가 틀렸다면 처벌을 받겠습니다. 저는 그래야만 합니다.
+
+[name="审判官艾丽妮"]长官！我——
+[name="審問官アイリーニ"]上官！　私は――
+[name="Inquisitor Irene"]High Inquisitor! I—
+[name="재판관 아이린"]장관님! 전……
+
+[name="大审判官"]可以了。
+[name="大審問官"]もう十分だ。
+[name="High Inquisitor"]Very well.
+[name="대재판관"]됐다.
+
+[name="审判官艾丽妮"]唔......
+[name="審問官アイリーニ"]で、ですが……
+[name="Inquisitor Irene"]Hm...?
+[name="재판관 아이린"]하아……
+
+[name="大审判官"]可以了。现在去履行你的职责，判官。
+[name="大審問官"]十分だと言ったはずだ。お前の職責を果たせ、アイリーニ。
+[name="High Inquisitor"]This will do. Do your duty, Inquisitor.
+[name="대재판관"]지금 바로 네 직무를 이행해도 좋다, 재판관.
+
+[name="审判官艾丽妮"]——是，长官！我立刻就去疏散当地居民！
+[name="審問官アイリーニ"]――はい、上官！　直ちに地域住民の避難誘導へ向かいます！
+[name="Inquisitor Irene"]—Yes, High Inquisitor! I will evacuate the local inhabitants right away!
+[name="재판관 아이린"]……네, 장관님! 당장 현지 주민들을 대피시키겠습니다!
+
+[name="审判官艾丽妮"]还有，长官......经匣里剩下的爆破物应该够炸毁整座盐风城。
+[name="審問官アイリーニ"]それから、上官……残りの爆薬は、サルヴィエント全体を爆破するのに十分な量ですよね。
+[name="Inquisitor Irene"]Also... The explosives left in the cabinet should be enough to level the whole of Sal Viento.
+[name="재판관 아이린"]그리고 장관님…… 상자에 남은 폭발물로 살비엔토 전체를 폭파할 수 있을 것 같습니다.
+
+[name="大审判官"]是的。
+[name="大審問官"]ああ。
+[name="High Inquisitor"]That's right.
+[name="대재판관"]그래.
+
+[name="审判官艾丽妮"]所以......
+[name="審問官アイリーニ"]つまり……
+[name="Inquisitor Irene"]So...
+[name="재판관 아이린"]그래서……
+
+[name="大审判官"]如有必要，你的判决将被我废除。
+[name="大審問官"]その必要が生じた場合、お前の判決は私が取り消す。
+[name="High Inquisitor"]If it comes to it, I will override your judgment.
+[name="대재판관"]필요하다면, 너의 판결은 내가 취소하겠다.
+
+[name="审判官艾丽妮"]......是。
+[name="審問官アイリーニ"]……はい。
+[name="Inquisitor Irene"]Right...
+[name="재판관 아이린"]……네.
+
+[name="审判官艾丽妮"]那我去了，老师。
+[name="審問官アイリーニ"]では、行って参ります、上官。
+[name="Inquisitor Irene"]I'll get going now.
+[name="재판관 아이린"]그럼 가보겠습니다, 스승님.
+
+[Subtitle(text="艾丽妮风一般地跑开了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="アイリーニは風のように走り去っていった。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Irene dashes off like the wind.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="아이린은 바람처럼 달려갔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="大审判官矗立原地，如同海边的礁石。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="大審問官の姿が、海辺の岩礁の如くそこに佇む。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The High Inquisitor stands tall, unmoving, just like the reefs next to the sea.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="대재판관은 마치 바닷가의 암초처럼 제자리에 우뚝 서 있었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="当判官心有疑问，他们才有机会追索答案。只是对于面前这个还没经历过多少丑恶与幻觉的年轻女孩来说，这一切都太早了。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="疑うことを知った時、審問官は初めて、その答えを探求する機会に恵まれる。しかし、醜い悪意や幻惑をほとんど経験してこなかったうら若き少女には、すべてが未だ時期尚早だった。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="It is only when the Inquisitors have doubts in their hearts that they have the chance to seek out the answer. However, for a young woman who has experienced little of the world's ugly side or its mirages...", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="재판관이 의문을 품어야 만 답을 구할 기회가 주어진다. 다만 아직 추악함과 환상을 경험해본 적 없는 어린 여자에게 이 모든 것은 아직 너무 일렀다.", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="她还要受锤打，还要淬炼。她得失败过，崩溃过。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼女は現実に打ちのめされ、その中で鍛えられる必要がある。失敗と挫折を経験しなければならないのだ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="She needs to be hammered and tempered. She needs to fail, to crumble.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그녀는 아직 더 단련되어야 한다. 그녀는 실패하고, 무너져봐야 한다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="她要受苦，她要放弃她不切实际的愿景，才会坚韧不拔。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="苦しみを知り、現実離れした理想を捨て去ってこそ、彼女は忍耐を学ぶことができるのだから――", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="She must first suffer. She must first abandon her unrealistic aspirations before she can truly be indomitable.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="고통을 받고 현실과 동떨어진 이상을 버려야, 비로소 굳건해질 수 있다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[Subtitle(text="等等。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……待て。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Wait.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="잠깐.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+
+[name="大审判官"]谁？
+[name="大審問官"]誰だ？
+[name="High Inquisitor"]Who is it?
+[name="대재판관"]누구냐?
+
+[name="？？？"]您好，大审判官阁下。
+[name="？？？"]ごきげんよう、大審問官殿。
+[name="???"]Hello, High Inquisitor.
+[name="???"]안녕하십니까, 대재판관님.
+
+[name="主教"]啊，看看是谁来了。
+[name="司教"]おや、誰かと思えば。
+[name="Bishop"]Oh, look who's here?
+[name="주교"]오, 이게 누구십니까.
+
+[name="主教"]欢迎你，吟游歌手。
+[name="司教"]ようこそ、吟遊の歌い手よ。
+[name="Bishop"]Welcome, wandering singer.
+[name="주교"]어서 오세요, 떠돌이 가수님.
+

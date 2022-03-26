@@ -135,7 +135,7 @@
 
 [name="陨星"]   万一和整合运动有关的话，就将必要信息通知凯尔希医生并撤退。
 [name="メテオリーテ"]   あと、万が一レユニオンを発見したら、ケルシー先生に報告して即座に撤退よ。交戦は避けるということを忘れないで。
-[name="Meteorite"]   In the event that Reunion is involved in this, we'll retreat immediately and report back to Dr Kal'tsit.
+[name="Meteorite"]   In the event that Reunion is involved in this, we'll retreat immediately and report back to Dr. Kal'tsit.
 [name="메테오라이트"]   그리고 만에 하나라도 리유니온과 관련된 뭔가를 찾아내면, 바로 켈시 선생님께 연락 드리고 퇴각해야 한다는 것도 잊지 말고.
 
 [name="杰西卡"]   嗯，嗯。
@@ -175,7 +175,7 @@
 
 [name="德克萨斯"]   来得刚好，Dr.{@nickname}。
 [name="テキサス"]   いいところに来た、Dr.{@nickname}。
-[name="Texas"]   Good timing, Dr {@nickname}.
+[name="Texas"]   Good timing, Dr. {@nickname}.
 [name="텍사스"]   마침 잘 왔어, {@nickname} 박사.
 
 [name="能天使"]   我们这边的活儿也干的差不多了，得暂时离开一段时间~
@@ -295,7 +295,7 @@
 
 [name="芙兰卡"]   阿米娅，{@nickname}博士。
 [name="フランカ"]   アーミヤ、Dr.{@nickname}。
-[name="Franka"]   Amiya, Dr {@nickname}.
+[name="Franka"]   Amiya, Dr. {@nickname}.
 [name="프란카"]   아미야, {@nickname} 박사.
 
 [Decision(options="——？;......", values="1;2")]

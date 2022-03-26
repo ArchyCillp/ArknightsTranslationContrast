@@ -1,124 +1,310 @@
 [name="？？？"]  ......这样的提案......是出于对我们的信任，亦或是另有所图？
+[name="？？？"]  ……この提案は……我々への信用からくるものだろうか。それとも他に意図があってのことなのだろうか？
+[name="???"]  This proposal... I can't figure out whether this is meant to be trust... or something more sinister.
+[name="???"]  …… 이 제안은…… 우리를 믿어서입니까, 아니면 다른 의도가 있는 겁니까?
 
 [name="？？？"]  ......我不能够确定，但是，这无疑是一次......机会。
+[name="？？？"]  それを確かめる方法はありませんが……でも、これがチャンスであることは疑いようのない事実だと思います。
+[name="???"]  I can't say for sure, but this is undoubtedly... an opportunity.
+[name="???"]  …… 정확히는 알 수 없지만, 분명한 건, 이건…… 기회라는 거야.
 
 [name="？？？"]  ......那么，就确定这次由“这个人”来......
+[name="？？？"]  ……では、今回は「この人物」に頼むとしよう……
+[name="???"]  In that case, we'll have this person lead the charge this time...
+[name="???"]  ……그렇다면, 이번은 확실히 '이 사람'이……
 
 [Decision(options="（谁的声音？）",values="1")]
+[Decision(options="（話しているのは誰だ？）",values="1")]
+[Decision(options="(Whose voice is that?)",values="1")]
+[Decision(options="(누구 목소리지?)",values="1")]
 
 [name="阿米娅"]  啊，博士，你来了。
+[name="アーミヤ"]  あっ、ドクター、来てくださったんですね。
+[name="Amiya"]  Ah, Doctor, there you are.
+[name="아미야"]  앗, 박사님, 오셨어요?
 
 [name="杜宾"]  博士。
+[name="ドーベルマン"]  ドクター。
+[name="Dobermann"]  Doctor.
+[name="도베르만"]  박사.
 
 [name="凯尔希"]  来得正好，Dr.{@nickname}。
+[name="ケルシー"]  いいところに来たな、Dr.{@nickname}。
+[name="Kal'tsit"]  Just the person we're looking for. Dr. {@nickname}.
+[name="켈시"]  {@nickname} 박사, 딱 시간 맞춰서 왔네?
 
 [Decision(options="我迟到了？",values="1")]
+[Decision(options="遅刻だったか？",values="1")]
+[Decision(options="Am I late?",values="1")]
+[Decision(options="내가 늦었나?",values="1")]
 
 [name="凯尔希"]  看来你对自己的散漫多少有些自知之明。
+[name="ケルシー"]  どうやら君も、己のルーズさを多少は自覚しているらしい。
+[name="Kal'tsit"]  At least you're aware of how lax of a person you are.
+[name="켈시"]  본인의 산만한 태도에 대해 어느 정도 주제 파악은 하나 보지?
 
 [Decision(options="......;明明是你没有通知我有事要商量......",values="1;2")]
+[Decision(options="……;話し合いがあるとは聞かされていないが……",values="1;2")]
+[Decision(options="......;You are the one who didn't tell me we had something to discuss.",values="1;2")]
+[Decision(options="……;상의할 게 있다고 알리지도 않았으면서……",values="1;2")]
 
 [name="阿米娅"]  放心吧，博士，今天十分准时。
+[name="アーミヤ"]  安心してください、ドクター。今日は時間通りですから。
+[name="Amiya"]  Don't worry, Doctor. You're on time today.
+[name="아미야"]  걱정 마세요, 박사님, 오늘은 제시간에 잘 오셨어요.
 
 [name="阿米娅"]  实际上，我和凯尔希、杜宾教官正在商量的是有关“联锁竞赛”的事情。
+[name="アーミヤ"]  実は今、ケルシー先生やドーベルマン教官と一緒に「連鎖競技」について話し合っていたんです。
+[name="Amiya"]  Dr. Kal'tsit, Instructor Dobermann, and I are actually talking about the 'Interlocking Competition.'
+[name="아미야"]  사실, 전 지금 막 켈시 선생님이랑, 도베르만 교관님이랑 함께 '인터락킹 컴페티션'에 대해 의논하고 있었어요.
 
 [Decision(options="联锁......竞赛？",values="1")]
+[Decision(options="連鎖……競技？",values="1")]
+[Decision(options="Interlocking... Competition?",values="1")]
+[Decision(options="인터락킹…… 컴페티션?",values="1")]
 
 [name="杜宾"]  没错，更详细地说，是“联锁安保竞赛”。
+[name="ドーベルマン"]  ああ。より正確な名称は、「連鎖安全保障競技」だ。
+[name="Dobermann"]  That's right. More accurately, that's the 'Interlocking Security Competition.'
+[name="도베르만"]  맞아. 더 정확히 말하자면 '인터락킹 시큐리티 컴페티션'이지.
 
 [name="杜宾"]  它起源于古时米诺斯。热爱举办各类竞赛进行活动的米诺斯人，为各城邦之间进行和谐的安保演练、切磋而创办了官方安保竞赛。
+[name="ドーベルマン"]  この催しは古代ミノスを起源としている。様々な競技やイベントを愛するミノス人が、各都市間での調和のとれた安全保障演習及び、切磋琢磨する交流を目的に公式的な安全保障競技を作ったのだ。
+[name="Dobermann"]  The competition originated in ancient Minos. The people of Minos love their competitions and events, and this is what they came up with for the cities to conduct security drills together while learning from one another.
+[name="도베르만"]  옛 미노스로부터 기원된 이 경기는, 다양한 경기 대회를 즐기는 미노스인들이 도시 간의 화합과 보안 훈련 및 대결을 위해 공식적으로 보안 경기를 개최하게 된 것이다.
 
 [name="杜宾"]  放在现代来说，更加类似于“军事演练”。不过，现在的联锁竞赛已经没有官方成分了。
+[name="ドーベルマン"]  現代的な言い方をすれば「軍事演習」によく似ている。だが、今の連鎖競技には、すでに公式的な要素はない。
+[name="Dobermann"]  In modern times, the competition is more like a 'military exercise,' though there is nothing official about the Interlocking Competitions anymore.
+[name="도베르만"]  지금으로 말하면 일종의 '군사 훈련' 같은 거다. 하지만 지금의 인터락킹 컴페티션은 공식적인 느낌이 사라진 지 오래야.
 
 [name="杜宾"]  自从重新举办以后，它已经成为了非官方组织的商业竞赛。
+[name="ドーベルマン"]  競技の再編以来、それは非公式組織による商業的な催しと化したのでな。
+[name="Dobermann"]  Ever since they restarted the competition, it has become a commercial contest run by unofficial organizations.
+[name="도베르만"]  경기가 재개되면서부터 비공식적인 상업 대회로 변했거든.
 
 [name="杜宾"]  参与竞赛的商业安保组织成立了联合赛事委员会，负责与各地区官方组织接洽，以保证联锁安保竞赛能够在各地区定期举办。
+[name="ドーベルマン"]  競技参加組織である警備会社が、大会連合委員会を設立したのだ。委員会は様々な地域の公的機関と交渉し、その各地で連鎖安全保障競技を定期的に開催できるように動いている。
+[name="Dobermann"]  To ensure the Interlocking Security Competition will be held regularly in different regions and to liaison with the territories' officials, a committee was formed by the private security companies that participate in the competition.
+[name="도베르만"]  경기에 참여하는 여러 민간 보안업체들이 조직 위원회를 설립하고, 각 지역의 공식 조직 단체와 협의를 통해 이 경기가 지역별로 정기적으로 개최되도록 하고 있어.
 
 [name="阿米娅"]  大概是因为合作组织的推荐，这一次，罗德岛也收到了参加联锁竞赛的邀请。
+[name="アーミヤ"]  今回は、協力組織の推薦があってロドスも連鎖競技に招待されたんです。
+[name="Amiya"]  And Rhodes Island got an invitation to the next Interlocking Competition. Perhaps one of our collaborators recommended us.
+[name="아미야"]  이번에 우리가 초대받은 건 아마도 협력 조직의 추천이 있었기 때문일 거예요.
 
 [Decision(options="那就参加吧！;参加竞赛......会有什么好处吗？",values="1;2")]
+[Decision(options="それなら、参加しよう！;競技への参加に何かメリットはあるのか？",values="1;2")]
+[Decision(options="Let's do it!;What do we get out of the competition?",values="1;2")]
+[Decision(options="그럼 참가해야지!;참가하면…… 무슨 이득이 있나?",values="1;2")]
 
 [name="阿米娅"]  嗯。至关重要的一点是，赛事方提供的奖金和物资十分丰厚！
+[name="アーミヤ"]  はい。重要なものとして、主催者側が提供する賞金と物資が非常に豊富である、という点が挙げられるかと！
+[name="Amiya"]  The most crucial thing is that the organizers are giving out lots of wonderful prizes and resources!
+[name="아미야"]  음, 가장 중요한 건 주최 측에서 주는 상금과 물자가 아주 푸짐하거든요!
 
 [name="阿米娅"]  对罗德岛来说，这也是最重要的一点。
+[name="アーミヤ"]  ロドスにとっては、これが最も重要なメリットですね。
+[name="Amiya"]  To Rhodes Island, that's also the most important part.
+[name="아미야"]  로도스 아일랜드엔 이게 가장 중요해요.
 
 [name="杜宾"]  另外，官方地区和组织认为举办竞赛能够提升当地影响力，以及为当地创造更多的合作机会和商业往来，所以十分乐意提供最先进、完备的训练设施和比赛场所。
+[name="ドーベルマン"]  一方で各地域や公的組織からすれば、競技開催は現地での影響力を高め、更なる協力関係やビジネスを創出する機会となる。そのため彼らは最先端のトレーニング施設や競技場を喜んで提供するのだ。
+[name="Dobermann"]  Aside from that, the organizing territory and committee think that the competitions can improve the sway that the region has and create opportunities for collaborations and business, so they're always willing to provide the most advanced and complete training facilities and competition venues.
+[name="도베르만"]  또한, 주최 측과 조직 위원회는 경기를 통해 현지의 영향력을 높이는 것은 물론, 더 많은 협력과 상업 기회를 만들 수 있을 것이다. 그래서 최첨단 훈련 시설과 경기장도 아낌없이 제공하는 거겠지.
 
 [name="杜宾"]  联锁竞赛的比赛机制，将要求参赛队伍有分散小队或合击作战的意识，为获得更高的积分和排名需要在战术上进行细致的规划。
+[name="ドーベルマン"]  連鎖競技の大会システムにおいて、参加チームには小隊の分散や共同作戦などへの意識を持つことが要求される。より高い点数と順位を獲得するには、綿密な戦術が必要になるということだ。
+[name="Dobermann"]  The way that the Interlocking Competition works requires each participating team to know how to both divide its squads and mount concerted assaults properly. If we want a better score and place higher in the rankings, we need to have our tactics and battle plan thought out down to the last detail.
+[name="도베르만"]  경기의 운영 시스템상 분산 작전이나 협동 작전 의식이 무조건 필요하며, 더 높은 점수와 순위를 따내기 위해서는 전술적으로도 세밀한 계획이 필요하다.
 
 [name="杜宾"]  为了进一步增强罗德岛的干员们的整体实力，参与竞赛的确是不可多得的训练机会。
+[name="ドーベルマン"]  ロドスのオペレーターたちを全体的に強化するためにも、競技参加はまたとない機会となる。
+[name="Dobermann"]  If we want to work on our operators' strength as a team, then this competition is an opportunity we cannot afford to miss.
+[name="도베르만"]  로도스 아일랜드 오퍼레이터의 전반적인 실력을 업그레이드하는 차원에서, 이번 경기는 아주 좋은 기회가 될 거야.
 
 [Decision(options="那一定要参与啊。",values="1")]
+[Decision(options="そういう話なら、ぜひ参加しなくては。",values="1")]
+[Decision(options="Well, we can't miss out on the fun, then.",values="1")]
+[Decision(options="그렇다면, 당연히 참가해야지.",values="1")]
 
 [name="阿米娅"]  哼哼，凯尔希，你看，我就说博士一定会答应的。
+[name="アーミヤ"]  ふふっ。ケルシー先生、聞きましたか？　私が言った通り、やっぱりドクターは賛成してくださいました。
+[name="Amiya"]  Hehe, see, Dr. Kal'tsit? I knew the Doctor would say yes.
+[name="아미야"]  헤헷, 거봐요 켈시 선생님, 박사님이 무조건 동의하실 거라고 제가 말했죠?
 
 [name="凯尔希"]  好啊，Dr.{@nickname}，这可是你自己揽下的活计，可不能后悔。
+[name="ケルシー"]  いいだろう、Dr.{@nickname}。だが忘れるな……これは君が自分から受けた仕事だ。後悔するなよ。
+[name="Kal'tsit"]  Very well, Dr. {@nickname}, but before you come crying to me, know that you are the one who got yourself into this mess.
+[name="켈시"]  좋아, {@nickname} 박사. 이번 일은 네가 자초한 것이니 절대 후회하면 안 돼.
 
 [Decision(options="嗯？;......",values="1;2")]
+[Decision(options="どういうことだ？;……",values="1;2")]
+[Decision(options="Huh?;......",values="1;2")]
+[Decision(options="응?;……",values="1;2")]
 
 [name="阿米娅"]  实际上，博士，联锁竞赛想要取得好的名次和更多报酬，一名强大的指挥官是必不可少的。
+[name="アーミヤ"]  ドクター、実は……連鎖競技で好成績を収め、多くの報酬を得るためには強力な指揮官が不可欠なんです。
+[name="Amiya"]  Actually, Doctor, if we want to place higher in the rankings and get better rewards, we need a highly competent commander.
+[name="아미야"]  실은 박사님, 인터락킹 컴페티션에서 더 좋은 순위와 보상을 얻으려면 강력한 지휘관은 필수에요.
 
 [name="阿米娅"]  想要参加竞赛，就必须要由博士您来牵头。
+[name="アーミヤ"]  ですから、競技に参加するのであれば、ドクターに指揮を執っていただくことになります。
+[name="Amiya"]  If we are to join the competition, then you need to lead the charge.
+[name="아미야"]  그래서 경기에 참여하려면 반드시 박사님이 진두지휘를 해주셔야 하죠.
 
 [Decision(options="由我来指挥？;......",values="1;2")]
+[Decision(options="自分が、試合で指揮をするのか？;……",values="1;2")]
+[Decision(options="You're making me the commander?;......",values="1;2")]
+[Decision(options="내가 지휘를?;……",values="1;2")]
 
 [name="杜宾"]  是的，博士，在联锁竞赛的比赛过程中，您的指挥和判断是不可缺少的环节。
+[name="ドーベルマン"]  そうだ。ドクターの指揮と判断は、連鎖競技の試合において必要不可欠なものとなる。
+[name="Dobermann"]  That's right, Doctor. Your command and judgment are essential to our participation in the Interlocking Competition.
+[name="도베르만"]  맞아. 박사, 경기 중엔 너의 판단력과 지휘가 반드시 필요하다.
 
 [Decision(options="好吧，又增加工作量了......;我需要注意些什么？",values="1;2")]
+[Decision(options="また一つ、新しい仕事が増えたわけだ……;競技について、注意点はあるか？",values="1;2")]
+[Decision(options="Alright, guess that's more work on my plate...;Anything I need to look out for?",values="1;2")]
+[Decision(options="알았어, 업무량이 또 늘겠는데……;내가 주의해야 할 점이 있을까?",values="1;2")]
 
 [name="杜宾"]  在联锁安保竞赛中，我们将面对“假想敌”队伍，从假想敌的手中获取赛事奖章和物资。
+[name="ドーベルマン"]  連鎖安全保障競技においては、「仮想敵」の部隊に立ち向かうこととなる。その仮想敵から競技メダルと物資を手に入れるんだ。
+[name="Dobermann"]  During the Interlocking Security Competition, we will be facing several OpFor squads from whom we'll be taking competition medals and resources.
+[name="도베르만"]  경기에서 우리는 '가상의 적'을 만나게 될 것이고, 그들을 처치해 컴페티션 훈장과 물자를 확보해야 해.
 
 [name="杜宾"]  想要更高效地在限定时间中获得更多奖章，换取更多的物资和奖金的话，将需要配置不同的小队去往不同的“据点”进行驻守。
+[name="ドーベルマン"]  そして限られた時間の中で、より効率的に多くのメダルを獲得し物資や賞金に交換するためには、別の小隊をそれぞれの「拠点」に駐屯させ、防衛させる必要がある。
+[name="Dobermann"]  If you want to obtain even more medals within the time limit to exchange for resources and prizes, you'll need to station squads to garrison different Posts.
+[name="도베르만"]  제한된 시간 안에 최대한 많은 훈장을 획득하여 더 많은 물자와 상금을 교환하려면, 여러 팀을 나누어 각 '거점'에 파견 및 주둔시켜야 한다.
 
 [name="杜宾"]  只有经赛事裁判确认驻守成功，才会在最终的挑战中增加更强大的假想敌，击败这些特殊的假想敌将获得更多的赛事奖章。
+[name="ドーベルマン"]  大会審判が拠点防衛を確認した場合のみ、「最終試練」の際、より強力な仮想敵が追加されるというシステムだ。この特殊な仮想敵を倒すことで、更に多くの競技メダルを獲得することができる。
+[name="Dobermann"]  If the judges determine that you have successfully garrisoned the Posts, you will then get to face even stronger foes in the final challenge. Defeating these enemies will earn you even more medals.
+[name="도베르만"]  경기 심판의 주둔 성공 판정을 받아야만 최후의 도전에서 더 강한 가상의 적을 만날 수 있어. 그리고 그들을 처치하면 자연스레 더 많은 컴페티션 훈장을 받게 되지.
 
 [name="杜宾"]  不过，对付更加强大的假想敌会耗费博士您更多的精力，如果感到力不从心，可以选择更加稳妥的方式获得奖章。
+[name="ドーベルマン"]  だが、強力な仮想敵に立ち向かう際には、ドクター自身も心身共に消耗が増大することだろう。まだ実力が伴わないと感じた場合は、より堅実な方法でメダルを獲得しても構わない。
+[name="Dobermann"]  However, facing these stronger OpFor units will drain even more of your Sanity. If you don't think you can manage, you can also go for your medals via easier means.
+[name="도베르만"]  물론, 강력한 적을 상대하면 박사도 더 많이 신경 써야 하겠지만, 좀 무리가 있다 싶으면 안정적인 방식을 선택하는 것도 나쁘지 않아.
 
 [name="杜宾"]  具体情况，就需要博士您在现场明智的判断了。
+[name="ドーベルマン"]  つまりドクターは、状況に合わせて臨機応変に判断を下す必要があるということだ。
+[name="Dobermann"]  You'll have to figure out the specifics during the real thing.
+[name="도베르만"]  박사가 현장 상황에 따라 현명한 판단을 할 것이라 믿는다.
 
 [name="阿米娅"]  不能专注进行指挥导致失误反倒得不偿失。不过，我相信博士一定能布置最合适的战术！
+[name="アーミヤ"]  しっかりと指揮に集中しなければ、少しのミスが損失に繋がってしまいます。ですが私は、ドクターならきっと最適な戦術で導いてくれると信じてますから！
+[name="Amiya"]  Be sure not to get so focused on your command that you end up making irrecoverable mistakes, though I know you'll come up with the best tactics for the situation, Doctor!
+[name="아미야"]  집중하여 지휘하지 않으면 오히려 득보다 실이 많을 수 있지만, 저는 박사님이 가장 합리한 전술을 배치할 거라고 믿어요.
 
 [Decision(options="我会努力的。",values="1")]
+[Decision(options="努力するよ。",values="1")]
+[Decision(options="I'll do my best.",values="1")]
+[Decision(options="열심히 해볼게.",values="1")]
 
 [name="杜宾"]  除此以外，为了配合联锁竞赛的主题和可能出现的假想敌的状况，罗德岛每次将派遣特别甄选代表，陪伴博士您一同前往参赛。
+[name="ドーベルマン"]  それから……連鎖競技のテーマと、出現が予測される仮想敵に合わせて、ロドスは毎回特別推薦選手を派遣し、ドクターに同行させる予定だ。
+[name="Dobermann"]  Aside from that, to make sure we can adjust to each Interlocking Competition's theme and the OpFor adversaries that may appear, we will be sending a special deputy to accompany you.
+[name="도베르만"]  이 밖에도, 경기 주제와 가상의 적의 불확실한 상황을 대비해, 로도스 아일랜드는 특별 추천 대표를 파견해 박사와 함께 경기에 참여할 거다.
 
 [name="阿米娅"]  请放心，博士，特别甄选代表是我、凯尔希和杜宾教官一起考核并选任的干员，一定会在作战中拥有大展身手的机会！
+[name="アーミヤ"]  心配ありませんよ、ドクター。特別推薦選手の方は、私とケルシー先生、それにドーベルマン教官の三人で審査して選抜したオペレーターなんです。作戦中は、きっと存分に力を発揮してくれますよ！
+[name="Amiya"]  Don't worry, Doctor! Dr. Kal'tsit, Instructor Dobermann, and I tested and selected this deputy ourselves. I guarantee you they will really distinguish themselves on the battlefield.
+[name="아미야"]  염려 마세요, 박사님. 특별 추천 대표는 저랑 켈시 선생님, 도베르만 교관님이 함께 심사를 거쳐 선임한 오퍼레이터이니, 작전에서 반드시 큰 도움이 될 거예요!
 
 [Decision(options="你们不一起去吗？",values="1")]
+[Decision(options="三人は、一緒に来ないのか？",values="1")]
+[Decision(options="You won't be coming?",values="1")]
+[Decision(options="너희는 같이 안 가?",values="1")]
 
 [name="阿米娅"]  ......
+[name="アーミヤ"]  ……
+[name="Amiya"]  ......
+[name="아미야"]  ……
 
 [name="凯尔希"]  ......
+[name="ケルシー"]  ……
+[name="Kal'tsit"]  ......
+[name="켈시"]  ……
 
 [name="杜宾"]  ......
+[name="ドーベルマン"]  ……
+[name="Dobermann"]  ......
+[name="도베르만"]  ……
 
 [name="凯尔希"]  这种事不要来麻烦我。
+[name="ケルシー"]  この程度のことで、私を煩わせないでくれ。
+[name="Kal'tsit"]  Leave me out of your problems.
+[name="켈시"]  ……이런 일로 날 귀찮게 하지 말아줬으면 좋겠군.
 
 [name="阿米娅"]  实、实际上，我还有好多工作没来得及做完......
+[name="アーミヤ"]  じ、実は、終わってない仕事がたくさん残ってまして……
+[name="Amiya"]  A-Actually, I still have a lot of work left to do...
+[name="아미야"]  사, 사실 저는 업무가 많이 밀려서……
 
 [name="杜宾"]  训练干员是我的任务，但我不能永远盯着他们。干员们如何和指挥互相配合，在作战中怎样才能大显身手，这些是你应当考虑的，博士。
+[name="ドーベルマン"]  オペレーターの訓練は私の仕事だが、いつまでも彼らを見てやれるわけでもない。彼らがどのようにして指揮に従い、戦闘において力を発揮するかを考えるのはドクターの仕事だ。
+[name="Dobermann"]  It's my mission to train our operators, but I can't keep my eye on them forever. Doctor, it is up to you to command our operators and make sure they work with each other to bring out their best.
+[name="도베르만"]  오퍼레이터를 훈련하는 게 내 업무긴 하지만, 그렇다고 계속 따라다닐 수는 없다. 그들을 어떻게 지휘하고 호흡을 맞추게 할지, 어떻게 하면 작전에서 더 좋은 실력을 발휘하게 할지는 박사가 고민할 일이지. 본인이 선택한 인터락킹 컴페티션이다, 악으로 깡으로 버텨라.
 
 [Decision(options="......好吧。;怎么有种把麻烦事丢给我来做的感觉。",values="1;2")]
+[Decision(options="……仕方ない。;面倒事を押しつけられてる気もするが……",values="1;2")]
+[Decision(options="Alright then...;Feels like y'all are giving me any work that sounds like a pain in the neck.",values="1;2")]
+[Decision(options="그, 그래……;뭐지, 뭔가 성가신 일을 떠맡은 이 기분은.",values="1;2")]
 
 [name="阿米娅"]  参加联锁竞赛需要储备多支小队的战力，博士，不如趁现在好好想想该如何指挥干员们的行动，制定一份完备的参赛成员名单......
+[name="アーミヤ"]  連鎖競技に参加するには、複数小隊の戦力確保が必要になります。ドクター、今のうちにオペレーターへの指示や用いる作戦を検討して参加メンバーリストを作成するのはどうでしょう……
+[name="Amiya"]  If we are participating, we'll need to have several squads ready to join the fray. Doctor, perhaps you should take the time now to think about how you will command the operators and put together a roster of those who will be competing...
+[name="아미야"]  박사님, 인터락킹 컴페티션에 참가하시려면 여러 팀의 전력을 비축해야 하거든요. 지금이라도 오퍼레이터들의 작전을 어떻게 지휘할 것인지 고민해보시고, 완벽한 참가자 명단을 미리 준비하시는 게 좋을 것 같아요……
 
 [name="阿米娅"]  啊，来得正好！
+[name="アーミヤ"]  あっ、ちょうどいいところに！
+[name="Amiya"]  Oh, perfect timing!
+[name="아미야"]  앗, 때마침! 왔네요!
 
 [name="阿米娅"]  博士，本次特别甄选代表已经到了。
+[name="アーミヤ"]  ドクター、今回の特別推薦選手が到着しました。
+[name="Amiya"]  Doctor, here's the deputy we designated for this contest.
+[name="아미야"]  박사님, 이번 특별 추천 대표가 도착했어요.
 
 [Decision(options="这也太快了吧！;你们是不是早就商量好了？;......",values="1;2;3")]
+[Decision(options="いくらなんでも早すぎないか！;とっくに話はまとまっていたということか？;……",values="1;2;3")]
+[Decision(options="Already?!;Y'all had all this planned, didn't you?;......",values="1;2;3")]
+[Decision(options="에이, 말도 안돼. 뭐가 이렇게 빨리 와?!;너희들, 이거 다 짜둔 거지?!;……",values="1;2;3")]
 
 [name="阿米娅"]  嘿嘿，接下来，就麻烦您和特别甄选代表一起商量一下竞赛相关事宜吧。
+[name="アーミヤ"]  えへへ……では、あとのことはぜひ、特別推薦の方と話し合ってくださいね。
+[name="Amiya"]  Hehe, now why don't you two talk about the contest?
+[name="아미야"]  헤헷~ 경기에 관해선, 박사님께서 특별 추천 대표랑 함께 의논해보세요.
 
 [name="凯尔希"]  Dr.{@nickname}，记住。
+[name="ケルシー"]  Dr.{@nickname}、覚えておけ。
+[name="Kal'tsit"]  Dr. {@nickname}, remember.
+[name="켈시"]  {@nickname} 박사, 명심해.
 
 [Decision(options="记......记住什么？;好。;......",values="1;2;3")]
+[Decision(options="な……何をだ？;ああ。;……",values="1;2;3")]
+[Decision(options="R-Remember what...?;Okay.;......",values="1;2;3")]
+[Decision(options="됐어, 명심하긴 뭘 명심해……;알았어, 하면 되잖아.;……",values="1;2;3")]
 
 [name="凯尔希"]  既然参加了竞赛，就要做到最好。
+[name="ケルシー"]  競技に参加するからには、自らのベストを尽くせ。
+[name="Kal'tsit"]  If you're joining the competition, you must do your very best.
+[name="켈시"]  기왕 이렇게 참가하기로 한 거, 최선을 다해라.
 
 [name="凯尔希"]  每一任主办方的承办竞赛的需求各不相同，假想敌们的行动方式也千差万别。
+[name="ケルシー"]  主催者ごとに競技に求めるものはそれぞれ異なり、仮想敵の行動も千差万別だ。
+[name="Kal'tsit"]  Each organizing committee will put on a competition with different requirements, and the OpFor adversaries you will be facing will act in entirely different ways.
+[name="켈시"]  주최 측마다 경기에 대한 요구사항이 다르고, 가상의 적들 또한 패턴이 천차만별이거든.
 
 [name="凯尔希"]  找出他们的弱点。看清他们的目的。不要掉入他们的诡计。
+[name="ケルシー"]  敵の弱点を見つけ出せ。術中にはまることなく、目的を見抜け。
+[name="Kal'tsit"]  Find their weaknesses. Ascertain their objectives. Do not fall into the traps.
+[name="켈시"]  그들의 약점과 목적을 잘 간파하여, 계략에 빠지지 않도록 해.
 
 [name="凯尔希"]  ——然后，取胜。
+[name="ケルシー"]  ――そして、勝利を掴み取るんだ。
+[name="Kal'tsit"]  —Then, victory will be within your reach.
+[name="켈시"]  너무 그러지 마라…… 이기면 되잖아.
 
