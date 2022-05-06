@@ -1,8 +1,20 @@
 [PopupDialog(dialogHead="$avatar_nearl")] 战斗制造的响声太大，另一边也有敌人出现了。
+[PopupDialog(dialogHead="$avatar_nearl")] 騒ぎを聞きつけて、向こうからも敵が現れたようだな。
+[PopupDialog(dialogHead="$avatar_nearl")] The fighting is getting attention, and enemies have appeared on the other side.
+[PopupDialog(dialogHead="$avatar_nearl")] 전투 소리가 너무 커서 다른 쪽에도 적군이 나타났다.
 
 [PopupDialog(dialogHead="$avatar_beagle")] 可是，我们看不到那边呀，怎么办......
+[PopupDialog(dialogHead="$avatar_beagle")] ですが、向こう側は見えませんよ。一体どうすれば……
+[PopupDialog(dialogHead="$avatar_beagle")] But we can't see what's going on over there. What do we do...?
+[PopupDialog(dialogHead="$avatar_beagle")] 하지만, 우리는 그쪽을 볼 수 없는데요. 어떡하죠……
 
 [PopupDialog(dialogHead="$avatar_nearl")] 我的源石技艺应该能帮上忙。
+[PopupDialog(dialogHead="$avatar_nearl")] こんな時は、私のアーツが役に立つはずだ。
+[PopupDialog(dialogHead="$avatar_nearl")] My Arts should help.
+[PopupDialog(dialogHead="$avatar_nearl")] 내 오리지늄 아츠가 도움이 될 거야.
 
 [PopupDialog(dialogHead="$avatar_nearl")] 这是使用源石技艺凝结的<@tu.kw>骑士之徽</>，可以提供微弱的光芒，使地块获得<@tu.kw>视野</>。
+[PopupDialog(dialogHead="$avatar_nearl")] これはアーツを凝縮させて作った<@tu.kw>騎士の紋章</>だ。微弱な光を放ち、<@tu.kw>視野</>を確保することができる。
+[PopupDialog(dialogHead="$avatar_nearl")] This is a <@tu.kw>Knight Crest</> condensed from Originium Arts. It can be used to cast a faint aura of light, allowing you to gain <@tu.kw>visibility</> over the terrain.
+[PopupDialog(dialogHead="$avatar_nearl")] 이건 오리지늄 아츠를 응축시킨 <@tu.kw>기사 훈장</>인데, 미약하게라도 빛을 제공하여 <@tu.kw>시야</>를 확보할 수 있다.
 

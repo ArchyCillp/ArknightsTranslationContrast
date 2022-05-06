@@ -1240,11 +1240,17 @@ st_09-01
 Storm Assault
 폭풍의 돌격
 
+easy_09-01
+鬼魂危机
+
 main_09-01
 鬼魂危机
 亡霊事変
 The Ghost Crisis
 귀혼대의 위협
+
+easy_09-02
+牌局
 
 main_09-02
 牌局
@@ -1252,11 +1258,17 @@ main_09-02
 A Game of Cards
 오락
 
+easy_09-03
+暗火四起
+
 main_09-03
 暗火四起
 一触即発
 Low Fires All About
 사방에서 일어난 불길
+
+easy_09-04
+临界值
 
 main_09-04
 临界值
@@ -1264,9 +1276,12 @@ main_09-04
 Critical Value
 임계치
 
+easy_09-05
+深池
+
 main_09-05
 深池
-「深水区域」
+ダブリン
 Dublinn
 더블린
 
@@ -1275,6 +1290,9 @@ tr_19
 廃墟戦闘訓練
 Ruins Operation
 폐허 작전
+
+easy_09-06
+捉迷藏
 
 main_09-06
 捉迷藏
@@ -1288,11 +1306,17 @@ st_09-02
 Verse in the Ashes
 잿더미 속의 시
 
+easy_09-07
+无辜者
+
 main_09-07
 无辜者
 罪無き者
 The Innocent
 무고한 자
+
+easy_09-08
+雷声轰鸣
 
 main_09-08
 雷声轰鸣
@@ -1300,11 +1324,17 @@ main_09-08
 Thunder's Rumble
 천둥의 울림
 
+easy_09-09
+拉锯
+
 main_09-09
 拉锯
 拮抗状態
 Tug-o'-War
 장기전
+
+easy_09-10
+鬼影如潮
 
 main_09-10
 鬼影如潮
@@ -1312,11 +1342,17 @@ main_09-10
 Apparitional Waves
 다가오는 그림자
 
+easy_09-11
+战地救援
+
 main_09-11
 战地救援
 戦場救護
 Battlefield Rescue
 전장에서의 구조
+
+easy_09-12
+风中旗帜
 
 main_09-12
 风中旗帜
@@ -1324,11 +1360,17 @@ main_09-12
 Banner in the Wind
 휘날리는 깃발
 
+easy_09-13
+大地滚烫
+
 main_09-13
 大地滚烫
 滾る大地
 Scalding Earth
 뜨겁게 달은 대지
+
+easy_09-14
+突围
 
 main_09-14
 突围
@@ -1336,17 +1378,26 @@ main_09-14
 Breakout
 포위 돌파
 
+easy_09-15
+维多利亚士兵
+
 main_09-15
 维多利亚士兵
 ヴィクトリアの兵士
 Victorian Soldier
 빅토리아 병사
 
+easy_09-16
+“破晓”
+
 main_09-16
 “破晓”
 「夜明け」
 'Daybreak'
 '동틀 무렵'
+
+easy_09-17
+长夜枪火
 
 main_09-17
 长夜枪火
@@ -1365,6 +1416,159 @@ st_09-04
 再燃
 Relit
 다시 붙은 불꽃
+
+st_10-01
+被追逐者
+
+easy_10-01
+抢夺目标
+
+main_10-01
+抢夺目标
+
+tough_10-01
+抢夺目标
+
+easy_10-02
+低下头
+
+main_10-02
+低下头
+
+tough_10-02
+低下头
+
+tr_20
+城墙之下
+
+easy_10-03
+鸣铳示警
+
+main_10-03
+鸣铳示警
+
+tough_10-03
+鸣铳示警
+
+easy_10-04
+城市的呼吸
+
+main_10-04
+城市的呼吸
+
+tough_10-04
+城市的呼吸
+
+easy_10-05
+虽非同族
+
+main_10-05
+虽非同族
+
+tough_10-05
+虽非同族
+
+easy_10-06
+痛觉相连
+
+main_10-06
+痛觉相连
+
+tough_10-06
+痛觉相连
+
+easy_10-07
+无暇哀悼
+
+main_10-07
+无暇哀悼
+
+tough_10-07
+无暇哀悼
+
+easy_10-08
+他乡故知
+
+main_10-08
+他乡故知
+
+tough_10-08
+他乡故知
+
+easy_10-09
+旧日之影
+
+main_10-09
+旧日之影
+
+tough_10-09
+旧日之影
+
+easy_10-10
+千疮百孔
+
+main_10-10
+千疮百孔
+
+tough_10-10
+千疮百孔
+
+easy_10-11
+仇怨的尽头
+
+main_10-11
+仇怨的尽头
+
+tough_10-11
+仇怨的尽头
+
+st_10-02
+交叉路口
+
+easy_10-12
+瞄准
+
+main_10-12
+瞄准
+
+tough_10-12
+瞄准
+
+easy_10-13
+逃离炮火
+
+main_10-13
+逃离炮火
+
+tough_10-13
+逃离炮火
+
+easy_10-14
+血刃高悬
+
+main_10-14
+血刃高悬
+
+tough_10-14
+血刃高悬
+
+easy_10-15
+坚城高墙
+
+main_10-15
+坚城高墙
+
+tough_10-15
+坚城高墙
+
+st_10-03
+理想的倒影
+
+st_10-04
+远方星火
+
+easy_sub_09-1-1
+废墟坚守
 
 sub_09-1-1
 废墟坚守
@@ -1408,6 +1612,15 @@ hard_09-06
 Operation Hyades-3
 소나기 작전-3
 
+hard_10-01
+日晕行动-1
+
+hard_10-02
+日晕行动-2
+
+hard_10-03
+日晕行动-3
+
 wk_melee_1
 私人家具押运
 個人家具護送
@@ -1437,6 +1650,9 @@ wk_melee_5
 機密情報護送
 Classified Information Escort
 기밀정보 호송
+
+wk_melee_6
+实验原件押运
 
 wk_armor_1
 废墟清剿
@@ -1497,6 +1713,9 @@ wk_kc_5
 殲滅戦演習
 Annihilation Drill
 섬멸전 연습
+
+wk_kc_6
+运动战演习
 
 wk_toxic_1
 源石开采保全
@@ -1605,6 +1824,63 @@ pro_d_2
 猛攻
 Assault
 맹공
+
+act17side_01
+中心广场
+
+act17side_02
+广场南路
+
+act17side_tr01
+惩戒军前线基地
+
+act17side_03
+安静的步道
+
+act17side_04
+灯塔入口
+
+act17side_05
+灯塔控制室
+
+act17side_06
+中央通道
+
+act17side_07
+黄金回廊
+
+act17side_08
+观测所
+
+act17side_09
+信号灯组
+
+act17side_10
+礼仪广场
+
+act17side_ex01
+初登陆
+
+act17side_ex02
+荒野旅途
+
+act17side_ex03
+代理人
+
+act17side_ex04
+堂皇宫殿
+
+act17side_ex05
+愚人之船
+
+act17side_ex06
+远望灯塔
+
+act17side_ex07
+伏波巨港
+
+act17side_ex08
+静谧断章
 
 act16side_st01
 风云际会
@@ -1821,81 +2097,159 @@ act14side_ex08
 
 act13side_st01
 欣欣向荣
+生成発展
+Flourishing
+번창
 
 act13side_tr01
 城市之光
+都市の光
+City Lights
+도시의 빛
 
 act13side_01
 金盏花
+カレンデュラ
+Marigold
+금잔화
 
 act13side_02
 垂死的刺
+瀕死な棘
+Last-Ditch Thrust
+죽어가는 가시
 
 act13side_03
 筹备着
+それぞれの準備
+Preparing
+준비 중
 
 act13side_04
 诗的容貌
+詩の容貌
+A Poem's Looks
+시의 모습
 
 act13side_st02
 权与力
+権と力
+Right and Might
+권력과 힘
 
 act13side_tr02
 骑士流氓
+ならず者
+Rogue Knights
+기사 건달
 
 act13side_05
 人言可畏
+世論の裏側
+Gossip Kills
+여론의 무서움
 
 act13side_06
 被包围者
+包囲された者
+The Surrounded
+포위된 자
 
 act13side_st03
 酣眠的城市
+眠れる都市
+City Fast Asleep
+단잠에 든 도시
 
 act13side_07
 梦的余韵
+夢の余韻
+Afterdream
+꿈의 여운
 
 act13side_08
 最后的怯薛
+最後のケシク
+The Last Kheshig
+최후의 케식
 
 act13side_09
 叹息
+溜息
+A Sigh
+탄식
 
 act13side_10
 耀骑士
+耀騎士
+The Radiant Knight
+빛의 기사
 
 act13side_st04
 未知与未来
+未知と未来
+Uncharted and Hereafter
+미지와 미래
 
 act13side_ex01
 都市怪谈
+都市怪談
+Urban Legends
+도시 괴담
 
 act13side_ex02
 合理推测
+合理的推測
+Fair Conjecture
+합리적 추측
 
 act13side_ex03
 素材复用
+有効活用
+Reusing Material
+재활용
 
 act13side_ex04
 自由买卖
+商売自由
+Free Market
+자유 거래
 
 act13side_ex05
 狂热粉丝
+熱狂的ファン
+Fanatic Fans
+열성 팬
 
 act13side_ex06
 行为艺术
+パフォーマンスアート
+Performance Art
+행위예술
 
 act13side_ex07
 后援联谊会
+後援交歓会
+Backup Club
+후원 친목회
 
 act13side_ex08
 独家专访
+独占インタビュー
+Exclusive Interview
+단독 인터뷰
 
 act13side_s01
 联合会大楼暗道
+連合会の隠し通路
+Secret Passage
+연합회 비밀 통로
 
 act13side_s02
 冠军街道
+チャンピオンズロード
+Victory Boulevard
+챔피언 거리
 
 act13side_s03
 散华驻地
@@ -1908,21 +2262,39 @@ act13side_s05
 
 act9mini_01
 旁敲侧击
+横やり
+Circular Attack
+변죽을 울리다
 
 act9mini_02
 风口浪尖
+最前線
+Cusp of the Storm
+모진 비바람
 
 act9mini_03
 磨刀
+剣を研ぐ
+Sharpen Your Blade
+칼을 갈다
 
 act9mini_04
 自取灭亡
+自滅
+Self-destruction
+자멸
 
 act9mini_05
 竞赛
+競走
+Competition
+경쟁
 
 act9mini_06
 双人赛
+タッグマッチ
+Doubles Match
+복식경기
 
 act12side_st01
 不期而遇
@@ -2453,6 +2825,9 @@ As the Empire's Shadow
 제국의 그림자처럼
 
 act17d7_01
+Extraordinary rap battle!
+Extraordinary rap battle!
+Extraordinary rap battle!
 Extraordinary rap battle!
 
 act17d0_st01
@@ -3939,10 +4314,16 @@ Long Spring Wastes
 
 camp_r_07
 多索雷斯换水口
+ドッソレス換水口
+Dossoles Water Gate
+도솔레스 환수구
 
 camp_r_08
 南方监狱
 
 camp_r_09
 小丘郡郊野
+
+camp_r_10
+黑夜锦标秀
 

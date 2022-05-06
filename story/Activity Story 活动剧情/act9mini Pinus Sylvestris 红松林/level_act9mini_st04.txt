@@ -1,464 +1,1160 @@
 [Subtitle(text="查丝汀娜，你又爬到草垛上去了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ユスティナ、また干し草の上にいたのね。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Climbing the haystack again, Justyna?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="저스티나, 또 짚더미 위에 기어 올라갔구나.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="你总往那边看，又是在看大骑士领吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="いつもあっちを向いてるよね、大騎士領を見てるの？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="You're looking that way again? At the Grand Knight Territory?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="늘 저쪽을 보던데, 또 그랜드 나이트 영지를 보고 있는 거야?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="我知道，我当然知道大骑士领，那是很厉害的骑士老爷们会一起参加比赛的地方，对吧？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="知ってるよ。大騎士領のことは知ってるって。あそこはすごい騎士たちの参加する大会が開かれる場所、でしょ？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="I know the Grand Knight Territory. That's where the powerful knight lords compete against each other, right?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="알지, 물론 그랜드 나이트 영지는 알고 있지. 그 대단하신 기사 나리들이 경기하는 곳, 맞지?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="你都说过多少回了，我当然早就记住了！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ユスティナが何回も言うから、いつの間にか覚えちゃったよ！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="You never stop talking about it, of course I know!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="네가 하도 그 얘길 해서, 벌써 외워버렸거든!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="哎，查丝汀娜，你真的要上那儿去吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ねぇ、ユスティナ……本当にあそこに行くの？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Hey, Justyna, you're really planning to go there?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="하아, 저스티나, 정말로 저기 가고 싶은 거야?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="我知道你不干农活的时候都在练习。嗯，村子里没人不知道你一直想当骑士，你能打跑来闹事的强盗，那些坏家伙都不是你的对手。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="あなたが騎士になりたがってるのは、村のみんな知ってるよ。 畑仕事の合間に訓練を続けてるし、強盗だって追い払えちゃう。 あんな小悪党相手じゃ、もうあなたは満足できないよね。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="I know you've been practicing whenever you don't have farm work. Everybody in the village knows you want to be a knight. You can fight off the bandits who come looking for trouble, they're no match for you.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="네가 농사일을 하지 않을 때 연습하는 거 알아. 네가 기사가 되고 싶은 것도 사람들이 다 알고. 너는 강도도 쫓아낼 수 있고, 걔네들은 네 상대가 되지도 않지. 다 알아.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="但是查丝汀娜，大骑士领有多远啊......你去了，还会回来吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="でもユスティナ、大騎士領はとても遠いよ？ もし行っちゃったらあなたは二度と帰ってこないんじゃ――", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="But the Grand Knight Territory is pretty far... If you go, will you ever come back?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="하지만 저스티나, 그랜드 나이트 영지는 너무 멀어…… 가면, 다시 돌아는 올 거야?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="你会回来？真的？当上骑士就回来？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="えっ、ホントに？　騎士になったら帰ってきてくれるの？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="You will? Really? After you become a knight?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="돌아온다고? 정말? 기사가 되면?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="......那就这么说定了。我们都等着你荣归故里，到时我们就到处去宣传，这里可是骑士查丝汀娜的故乡！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……約束だよ。あなたが立派になって帰ってくるのを待ってるね。そうなったらあちこちに宣伝して回るよ、ここは騎士ユスティナの故郷だって！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="It's a promise then. We'll wait for you to come home, showered in glory, and then we'll spread the word that our town is the home of the Justyna, the knight!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……그럼 약속하는 거다. 네가 금의환향하길 기다릴게. 그때가 되면 이곳이 기사 저스티나의 고향이라고 다 알릴 거야!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="无胄盟杀手"]  没有脚印，没有人通过的痕迹......
+[name="無冑盟の刺客"]  足跡がない……ここを通った痕跡はありません。
+[name="Armorless Union Assassin"]  No footprints, no tracks at all...
+[name="아머레스 유니온 킬러"]  발자국이 없습니다. 누가 지나간 흔적은 없습니다……
 
 [name="无胄盟杀手"]  他们没有从这方向走。
+[name="無冑盟の刺客"]  奴らが逃げた方角はこちらではないみたいですね。
+[name="Armorless Union Assassin"]  They didn't go this way.
+[name="아머레스 유니온 킬러"]  이쪽으로 가진 않았습니다.
 
 [name="无胄盟领队"]  医院的小队弄丢了目标，这些人想逃脱必然要经过这周边。
+[name="無冑盟チームリーダー"]  ターゲットを見失ったのは、病院担当のチームだ。あそこから逃げるなら、必ずこの辺りを通るはず。
+[name="Armorless Union Captain"]  The hospital team lost the target, they're bound to pass through here if they're trying to escape.
+[name="아머레스 유니온 리더"]  병원 팀이 목표를 놓쳤어. 놈들이 도망친다면 분명 이 주변을 지나갈 거야.
 
 [name="无胄盟领队"]  保持警惕，随时汇报情况。
+[name="無冑盟チームリーダー"]  警戒を怠るな、逐一状況を報告せよ。
+[name="Armorless Union Captain"]  Stay alert. I want regular reports.
+[name="아머레스 유니온 리더"]  계속 경계하고, 수시로 상황을 보고해.
 
 [name="无胄盟杀手"]  明白。
+[name="無冑盟の刺客"]  了解。
+[name="Armorless Union Assassin"]  Roger.
+[name="아머레스 유니온 킬러"]  네.
 
 [name="无胄盟杀手"]  ......
+[name="無冑盟の刺客"]  ……
+[name="Armorless Union Assassin"]  ......
+[name="아머레스 유니온 킬러"]  ……
 
 [name="无胄盟杀手"]  嗯？
+[name="無冑盟の刺客"]  ん？
+[name="Armorless Union Assassin"]  Hm?
+[name="아머레스 유니온 킬러"]  응?
 
 [name="无胄盟杀手"]  呃、 啊......
+[name="無冑盟の刺客"]  うぐっ！？　あぁ……
+[name="Armorless Union Assassin"]  Guh... agh...
+[name="아머레스 유니온 킬러"]  으윽……
 
 [name="？？？"]  ......
+[name="？？？"]  ……
+[name="???"]  ......
+[name="???"]  ……
 
 [name="查丝汀娜"]  ......走。
+[name="ユスティナ"]  ……行こう。
+[name="Justyna"]  Go.
+[name="저스티나"]  ……가자.
 
 [name="查丝汀娜"]  他们很快就会发现这里的异常，趁现在，快跟我走。
+[name="ユスティナ"]  奴らはここの異常にすぐ気付く。時間がない、私についてきて。
+[name="Justyna"]  They're going to know something's wrong. Come with me while there's still time.
+[name="저스티나"]  곧 들킬 거야. 이 틈을 타서 같이 가자.
 
 [name="塑料骑士"]  还轮不到你来指挥我，感染者。
+[name="合成樹脂騎士"]  お前に指図されるいわれはないぞ、感染者。
+[name="Plastic Knight"]  I don't take orders from Infected.
+[name="플라스틱의 기사"]  너한테 지시를 받을 정도는 아니다, 감염자.
 
 [name="塑料骑士"]  能从那个距离如此轻松地解决掉这群下贱的东西，我是得承认你有些实力。
+[name="合成樹脂騎士"]  このクズどもを、あの距離から簡単に片づけられるお前の実力は、ある程度認めざるを得ない。
+[name="Plastic Knight"]  Though I admit you have some skill, able to handle those lowlifes from that distance.
+[name="플라스틱의 기사"]  이렇게 먼 거리에서도 저 미천한 놈들을 간단히 해치우다니, 실력은 인정하지.
 
 [name="塑料骑士"]  但是别搞错了，这不代表我就要听从你的安排。
+[name="合成樹脂騎士"]  だが勘違いするなよ。だからと言って俺がお前の指示に従うということではない。
+[name="Plastic Knight"]  But don't think that means I'm here to listen to you.
+[name="플라스틱의 기사"]  하지만 착각하지 마, 그게 네 지시를 따른다는 건 아니니까.
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="查丝汀娜"]  这一带，都被无胄盟的人包围，你一个人很难逃出去。
+[name="ユスティナ"]  すでにこの一帯は、無冑盟に囲まれている。君一人で逃げ切るのは難しいよ。
+[name="Justyna"]  The Armorless have this whole place surrounded. You're not getting out of here alone.
+[name="저스티나"]  이 일대는 모두 아머레스 유니온에게 포위됐어. 너 혼자 도망치긴 어려워.
 
 [name="查丝汀娜"]  他们会一直追着你。
+[name="ユスティナ"]  奴らは君をずっと追い続ける。
+[name="Justyna"]  They're not going to give up the chase.
+[name="저스티나"]  놈들은 너를 계속 쫓고 있다고.
 
 [name="塑料骑士"]  那又如何？
+[name="合成樹脂騎士"]  だから何だ？
+[name="Plastic Knight"]  So what?
+[name="플라스틱의 기사"]  그래서?
 
 [name="塑料骑士"]  我会叫他们为自己的愚蠢后悔。
+[name="合成樹脂騎士"]  ……連中に自らの愚かさを思い知らせてやる。
+[name="Plastic Knight"]  I'll make them pay for it.
+[name="플라스틱의 기사"]  내가 놈들의 어리석음을 후회하게 해주지.
 
 [name="查丝汀娜"]  ......很难。
+[name="ユスティナ"]  ……無理じゃないかな。
+[name="Justyna"]  That's not going to be easy.
+[name="저스티나"]  ……힘들걸?
 
 [name="查丝汀娜"]  你的伤还没好，现在想要躲过他们的耳目会很难。
+[name="ユスティナ"]  君の傷はまだ塞がっていない。その体で奴らの監視の目から逃れるのは不可能だよ。
+[name="Justyna"]  Your wounds haven't healed, how can you hide from them like this?
+[name="저스티나"]  넌 아직 상처도 다 낫지 않았잖아. 지금 상태로 놈들의 감시망을 벗어나기도 어려울 거야.
 
 [name="塑料骑士"]  哼......该死的无胄盟。
+[name="合成樹脂騎士"]  フンッ……忌々しい無冑盟め。
+[name="Plastic Knight"]  Ugh... damned Armorless.
+[name="플라스틱의 기사"]  흥…… 빌어먹을 아머레스 유니온.
 
 [name="塑料骑士"]  我答应和你们合作，但是记住，这只是因为我们有同一个对手。我要让那些下贱的凶手为他们的行为付出代价！
+[name="合成樹脂騎士"]  いいか、お前たちに協力するとは言ったが、それは俺たちに共通の敵がいるからだということを忘れるな。俺はあの下劣な人殺しどもに、愚行の代償を払わせてやりたいだけだ！
+[name="Plastic Knight"]  I'll go along with you for now, but only because we share a common enemy. I'll make those murderers pay for what they did!
+[name="플라스틱의 기사"]  너희들과 협력한다고 했지만, 그건 단지 우리에게 공통의 적이 있기 때문이란 걸 잊지 마라. 내가 저 미천한 살인자들이 반드시 자기 행동에 대가를 치르게 할 테다.
 
 [name="查丝汀娜"]  这些之后再谈，我们现在还没完全脱困。
+[name="ユスティナ"]  その話は後で。今はまだ完全に窮地から脱したわけじゃない。
+[name="Justyna"]  We'll talk about that later, we're still in danger here.
+[name="저스티나"]  그런 건 나중에 얘기하자. 아직 위험에서 벗어나지 못했어.
 
 [name="塑料骑士"]  我不觉得我和你们还有什么更多好谈的。
+[name="合成樹脂騎士"]  これ以上、お前たちと話し合うことなどない。
+[name="Plastic Knight"]  Don't think I have anything else to say to you later.
+[name="플라스틱의 기사"]  너희들과 더 이상 얘기할 게 없을 것 같은데?
 
 [name="塑料骑士"]  小姑娘，感谢那个提出荒唐要求的冠军吧，若非如此，你不会有穿上这身甲胄在这里和我说话的一天。
+[name="合成樹脂騎士"]  小娘、あのバカげた要求を提示したチャンピオンに感謝しろ。あれがなければ、お前は今ここでその鎧を着て俺と話などしていない。
+[name="Plastic Knight"]  Listen girly, you've got a certain champion to thank for the fact that you're standing here, speaking to me in that armor.
+[name="플라스틱의 기사"]  그 터무니없는 요구를 한 챔피언에게 감사하도록 해라, 계집. 그가 아니었다면 넌 갑옷을 입고 여기서 나랑 대화할 날이 오지도 않았을 거다.
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="查丝汀娜"]  你说的对。
+[name="ユスティナ"]  君の言う通りだよ。
+[name="Justyna"]  You're not wrong.
+[name="저스티나"]  네 말이 맞아.
 
 [name="查丝汀娜"]  我曾经，非常感谢血骑士。
+[name="ユスティナ"]  私はかつて、血騎士に心から感謝していた。
+[name="Justyna"]  There was a time when I had bottomless gratitude for the Blood Knight.
+[name="저스티나"]  나는 예전부터 피의 기사에게 아주 감사했지.
 
 [name="塑料骑士"]  嗯？
+[name="合成樹脂騎士"]  ん？
+[name="Plastic Knight"]  Hm?
+[name="플라스틱의 기사"]  응?
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="塑料骑士"]  怎么，这就说不出话来了？
+[name="合成樹脂騎士"]  どうした、話は終わりか？
+[name="Plastic Knight"]  Why so quiet?
+[name="플라스틱의 기사"]  뭐냐, 얘기는 그게 끝인가?
 
 [name="查丝汀娜"]  ......比赛。
+[name="ユスティナ"]  ……あの試合。
+[name="Justyna"]  Competition.
+[name="저스티나"]  ……경기.
 
 [name="查丝汀娜"]  我看过你和玛莉娅·临光的对决——“塑料”瑟奇亚克。
+[name="ユスティナ"]  君とマリア・ニアールの試合を見たよ――“プラスティック”シェブチック。
+[name="Justyna"]  I watched you go up against Maria Nearl—'Plastic' Szewczyk.
+[name="저스티나"]  너와 마리아 니어의 대결을 본 적이 있어…… '플라스틱의 기사' 셰브치크.
 
 [name="查丝汀娜"]  我不喜欢你。
+[name="ユスティナ"]  私は君が嫌い。
+[name="Justyna"]  I don't like you.
+[name="저스티나"]  사실 난 네가 싫어.
 
 [name="查丝汀娜"]  你在赛场上，比现在要稍微不那么讨厌一点。
+[name="ユスティナ"]  でも競技場での君は、今よりも少しだけマシだった。
+[name="Justyna"]  You're slightly less obnoxious out on the field.
+[name="저스티나"]  그나마 아레나에 있는 네가 지금보다 나아.
 
 [name="塑料骑士"]  你的心情无关紧要，但注意你的态度。既然是这样，你就不该将我从医院带出来。
+[name="合成樹脂騎士"]  お前の感情なんぞどうだっていいが、言葉には気を付けるんだな。そもそも、なぜお前は嫌いな俺を病院から連れ出したんだ？
+[name="Plastic Knight"]  Your feelings don't matter, but watch the attitude. You should never have taken me out of the hospital.
+[name="플라스틱의 기사"]  네 기분이야 내가 알 바는 아니다만, 그 태도는 주의하도록. 정말 그런 거라면 너는 굳이 날 병원에서 빼내지 말았어야지.
 
 [name="查丝汀娜"]  索娜觉得有必要这么做。况且——
+[name="ユスティナ"]  ……それが必要なことだとソーナが言ったから。それに――
+[name="Justyna"]  It was Sona's idea. And anyway—
+[name="저스티나"]  소나는 그럴 필요가 있다고 생각했거든. 게다가……
 
 [name="塑料骑士"]  况且什么。索娜，这就是你们头领的名字？哼，听起来又是个小姑娘......
+[name="合成樹脂騎士"]  それになんだ。ソーナというのが、お前たちのリーダーの名か？　フンッ、そいつも同じく小娘のようだな。
+[name="Plastic Knight"]  And anyway nothing. Sona is your leader's name? Hmph, sounds like another little girl.
+[name="플라스틱의 기사"]  게다가 뭐. 소나가 너희 두목인가? 흥, 이름을 들으니 또 계집애 같군……
 
 [name="查丝汀娜"]  ......索娜是伙伴。
+[name="ユスティナ"]  ……ソーナは仲間だよ。
+[name="Justyna"]  She's a friend.
+[name="저스티나"]  ……소나는 내 동료야.
 
 [name="查丝汀娜"]  我们现在回据点，索娜和其他伙伴都在等我们。
+[name="ユスティナ"]  今から拠点に戻る。ソーナとほかの仲間が私たちを待ってる。
+[name="Justyna"]  I'll take you back to the base. Sona and my other friends are all waiting for us.
+[name="저스티나"]  지금 바로 아지트로 돌아간다. 소나랑 다른 동료들이 기다리고 있어.
 
 [name="塑料骑士"]  ......别因为我暂时同意联手，就把我和你们混为一谈，感染者骑士。
+[name="合成樹脂騎士"]  ……俺をお前たちと一緒にするな、感染者騎士。手を組むことに同意はしたが、それは一時的なものにすぎない。
+[name="Plastic Knight"]  Make no mistake, I may have agreed to work with you for now, but I'm not part of your group, infected knight.
+[name="플라스틱의 기사"]  ……내가 잠시 손을 잡는 것에 동의했다고, 너희와 똑같이 취급하지 마라, 감염자 기사.
 
 [name="查丝汀娜"]  不......我不会弄混，你和我们都不同。
+[name="ユスティナ"]  いや……そんなつもりは毛頭ない。君と私たちは違う。
+[name="Justyna"]  No, I'm very clear, you're not at all like us.
+[name="저스티나"]  아니…… 그럴 일은 없어. 너는 확실히 우리와 다르니까.
 
 [name="查丝汀娜"]  但是，“塑料”瑟奇亚克，你自己应该也清楚，你没办法独自对抗无胄盟。
+[name="ユスティナ"]  だけど、“プラスチック”シェブチック、君も自分でわかってるはずだよね。一人では無冑盟に立ち向かうすべなどないって。
+[name="Justyna"]  But, 'Plastic' Szewczyk, you must know, you have no hope of resisting the Armorless Union alone.
+[name="저스티나"]  하지만 '플라스틱의 기사' 셰브치크, 너 혼자 아머레스 유니온을 상대할 방법이 없다는 건 너도 잘 알잖아.
 
 [name="塑料骑士"]  ......
+[name="合成樹脂騎士"]  ……
+[name="Plastic Knight"]  ......
+[name="플라스틱의 기사"]  ……
 
 [name="塑料骑士"]  呵......没错，你说得不错。
+[name="合成樹脂騎士"]  フッ……そうだな、お前の言う通りだ。
+[name="Plastic Knight"]  Heh... Sure, you're right about that.
+[name="플라스틱의 기사"]  하…… 그렇지. 네 말이 맞아.
 
 [name="塑料骑士"]  真是可笑，现在的这个卡西米尔，就连感染者都能被称作骑士，无胄盟一群在阴沟中作祟的小人竟也能满地横行。
+[name="合成樹脂騎士"]  ……今のカジミエーシュは、どうかしている。感染者が騎士になれたり、無冑盟のような日陰者までもが堂々とのさばっている。
+[name="Plastic Knight"]  It's funny, Kazimierz as it is today. An Infected can be a knight, and a gang of thugs like the Armorless can roam about freely.
+[name="플라스틱의 기사"]  가소롭기 그지없군. 지금의 카시미어는 감염자들도 기사 행세를 하게 됐고, 아머레스 유니온 같은 어둠에 숨어서 해코지하는 놈들조차 도처에 설치고 다니니까.
 
 [name="塑料骑士"]  可笑......
+[name="合成樹脂騎士"]  まったく悪い冗談だ……
+[name="Plastic Knight"]  Funny...
+[name="플라스틱의 기사"]  참으로 가소로워……
 
 [name="查丝汀娜"]  ......先和其他人汇合吧。
+[name="ユスティナ"]  ……まずはほかの仲間と合流しよう。
+[name="Justyna"]  Let's meet up with the others first.
+[name="저스티나"]  ……일단 다른 사람과 합류한다.
 
 [name="查丝汀娜"]  势单力薄，我们什么都做不成。
+[name="ユスティナ"]  多勢に無勢では何もできない。
+[name="Justyna"]  We won't get anything done by ourselves.
+[name="저스티나"]  우리만으로는 아무것도 해낼 수 없어.
 
 十天前
+十日前
+Ten days earlier...
+10일 전
 
 [name="查丝汀娜"]  你们不是平民，你们到底是什么人？！
+[name="ユスティナ"]  君たちは民間人じゃないよね、一体何者！？
+[name="Justyna"]  Just who the hell are you people?!
+[name="저스티나"]  너희는 주민이 아니잖아. 도대체 뭐 하는 놈들이야?!
 
 [name="查丝汀娜"]  没完没了......
+[name="ユスティナ"]  次から次へと……
+[name="Justyna"]  There's no end to them...
+[name="저스티나"]  끝이 없네……
 
 [name="奇怪的路人？"]  ......
+[name="怪しい通行人？"]  ……
+[name="A Strange Passerby"]  ......
+[name="이상한 행인?"]  ……
 
 [name="查丝汀娜"]  混在人群里是想要偷袭吗？！
+[name="ユスティナ"]  人混みに紛れて襲うつもり！？
+[name="Justyna"]  Hiding in the crowd, are you?!
+[name="저스티나"]  인파에 숨어 습격하려는 거였냐?!
 
 [name="查丝汀娜"]  别太小看我——
+[name="ユスティナ"]  あまり舐めないでよ――
+[name="Justyna"]  Don't think I won't—
+[name="저스티나"]  날 얕보지 마……
 
 [name="？？？"]  等等！先别动手！
+[name="？？？"]  待って！　まだ手を出さないで！
+[name="???"]  Wait! Don't do it!
+[name="???"]  기다려! 잠깐 멈춰봐!
 
 [name="？？？"]  ......啊呀，我是不是来得晚了一点，怎么已经变成大混战了。
+[name="？？？"]  ……あちゃー、来るのがちょっと遅かったかな。まさかこんな大乱闘になっちゃってるなんて。
+[name="???"]  Ah... looks like I'm a little late? How did this turn into such a warzone?
+[name="???"]  ……어머나, 내가 늦게 왔나? 벌써 난투전이 되었네.
 
 [name="？？？"]  不好办了，这下可不好办了。
+[name="？？？"]  まったくだ。困ったことになったな。
+[name="???"]  Not good. Not good at all.
+[name="???"]  어떡하지? 이러면 곤란한데.
 
 [name="？？？"]  别磨蹭了，事已至此，只能先把人带走。
+[name="？？？"]  ぐずぐずしてる暇はない。こうなった以上、連れて行くべきだ。
+[name="???"]  Anyway, let's pick up the pace. Start evacuating people first.
+[name="???"]  뭘 꾸물거려. 이렇게 된 이상 데려가는 수밖에 없잖아.
 
 [name="？？？"]  也只能这样了。
+[name="？？？"]  ええ、そうするしかなさそうね。
+[name="???"]  That's all we can do.
+[name="???"]  뭐, 그럴 수밖에 없지.
 
 [name="查丝汀娜"]  你们是......
+[name="ユスティナ"]  君たちは……
+[name="Justyna"]  It's you...
+[name="저스티나"]  너희는……
 
 [name="焰尾骑士"]  下午好，“远牙”骑士，我还没恭喜你成功拿到骑士封号呢，这可是大好事呀。
+[name="焔尾騎士"]  こんにちは、遠牙騎士。称号を獲得したお祝いがまだだったわね。おめでとう、とても喜ばしいわ。
+[name="Flametail Knight"]  Hey there, 'Fartooth' Knight, I still haven't had a chance to congratulate you on your title. Nice job there.
+[name="불꽃 꼬리의 기사"]  안녕, '송곳니'의 기사. 아직 기사의 칭호를 받은 걸 축하해 주지도 못했네. 이거 경사인데 말이야.
 
 [name="焰尾骑士"]  我看到关于你的报道了，人气高涨，是不是？
+[name="焔尾騎士"]  あなたのニュース見たわよ。人気急上昇じゃない？
+[name="Flametail Knight"]  I saw a piece on you. Popularity's through the roof, huh?
+[name="불꽃 꼬리의 기사"]  너에 관한 보도를 봤어. 인기가 대단하더라?
 
 [name="灰毫骑士"]  宣布要建立独立骑士团，争议连连，人气高涨？哼，结果就是惹来这群蝇虫。
+[name="灰毫騎士"]  人気急上昇？　独立騎士団の設立を宣言し、物議を醸したのが？　フンッ、要らない連中を引き寄せただけじゃないか。
+[name="Ashlock Knight"]  Announcing a new knightclub, getting real controversial, pushing that popularity up, hm? Hmph, looks like you've kicked a hornet's nest to me.
+[name="회색 붓꼬리의 기사"]  프리랜서 기사단 설립 선언, 끊임없는 논쟁으로 인기몰이? 흥, 결과적으론 파리떼만 불러들였잖아.
 
 [name="奇怪的路人？"]  感染者骑士......
+[name="怪しい通行人？"]  感染者騎士……
+[name="A Strange Passerby"]  Infected knights...
+[name="이상한 행인?"]  감염자 기사……
 
 [name="灰毫骑士"]  少啰嗦。
+[name="灰毫騎士"]  黙れ。
+[name="Ashlock Knight"]  That's enough of that.
+[name="회색 붓꼬리의 기사"]  닥쳐.
 
 [name="奇怪的路人？"]  呃......
+[name="怪しい通行人？"]  ひっ……
+[name="A Strange Passerby"]  Ugh...
+[name="이상한 행인?"]  윽……
 
 [name="焰尾骑士"]  行吧，反正打都打了，已经被他们抓到把柄了，唉。
+[name="焔尾騎士"]  やめなさいって！　はぁ……まぁいいわ、どうせ手を出しちゃったんだし、もう追っ手も掛かってるはずだから、今さら一緒よね。
+[name="Flametail Knight"]  Alright, anyway, the fight's fought, what's done is done. *Sigh*.
+[name="불꽃 꼬리의 기사"]  됐어, 어차피 손을 댔으니 이제 약점도 잡혔잖아. 하아……
 
 [name="查丝汀娜"]  焰尾，还有灰毫......你们为什么会出现在这里。
+[name="ユスティナ"]  焔尾、それと灰毫……君たちがなぜここに？
+[name="Justyna"]  Flametail, and Ashlock... What are you doing here?
+[name="저스티나"]  불꽃 꼬리, 그리고 회색 붓꼬리…… 너희가 여기서 왜 나와!
 
 [name="查丝汀娜"]  ......你们知道这群人的来历？
+[name="ユスティナ"]  ……こいつらが何者か知ってるの？
+[name="Justyna"]  Do you know who these people are?
+[name="저스티나"]  ……이놈들이 누군지 알고 있는 거야?
 
 [name="焰尾骑士"]  一清二楚。不过这里不适合站着聊天......这些家伙想把事情闹大，一会儿肯定就有报社的人要来了，这对你没好处。
+[name="焔尾騎士"]  はっきりくっきりね。でもここで立ち話してる場合じゃないわ。こいつら騒ぎを大きくしたいから、すぐにマスコミがやってくるわ。そうなったらあなたにとってはデメリットしかない。
+[name="Flametail Knight"]  Like the back of my hand. But this isn't a good place for a chat... these guys are looking to make a scene, and the media will be here before long. That wouldn't end well for you.
+[name="불꽃 꼬리의 기사"]  잘 알고말고. 음, 여기서 계속 얘기하기는 좀 그런데…… 녀석들은 일을 더 크게 벌이고 싶어 하니 금방이라도 언론사들이 찾아올 거야. 그럼 너한테 좋을 게 없거든.
 
 [name="焰尾骑士"]  况且，你应该是受伤了吧？
+[name="焔尾騎士"]  それに、あなたケガしてるでしょ？
+[name="Flametail Knight"]  And anyway, you're probably hurt, right?
+[name="불꽃 꼬리의 기사"]  게다가, 너 다쳤지?
 
 [name="焰尾骑士"]  如果信得过我们，就先跟我们一起走，之后我们慢慢说明情况，怎么样？
+[name="焔尾騎士"]  あたしたちを信用してちょうだい。ついてきてくれれば、ゆっくり説明してあげるわ、どう？
+[name="Flametail Knight"]  Just come with us, all nice and quiet-like, and we'll explain nice and slow what's going on. What do you say?
+[name="불꽃 꼬리의 기사"]  우리를 믿는다면 함께 가자. 그러고 나서 차근차근 설명해 줄게, 어때?
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="灰毫骑士"]  索娜，这套话你说出来像是在诱拐别人。
+[name="灰毫騎士"]  ソーナ、その言い方は何だか誘拐しようとしているみたいだぞ。
+[name="Ashlock Knight"]  Do you have to say it like you're kidnapping her?
+[name="회색 붓꼬리의 기사"]  소나, 그 말투는 유괴하려는 것처럼 들리는데.
 
 [name="焰尾骑士"]  欸？有吗？
+[name="焔尾騎士"]  えっ？　そんなことないよ？
+[name="Flametail Knight"]  Huh? Did I?
+[name="불꽃 꼬리의 기사"]  엥? 그래?
 
 [name="灰毫骑士"]  有。
+[name="灰毫騎士"]  ある。
+[name="Ashlock Knight"]  A little.
+[name="회색 붓꼬리의 기사"]  응.
 
 [name="查丝汀娜"]  ......我相信。
+[name="ユスティナ"]  ……信じるよ。
+[name="Justyna"]  I'll go. I trust you.
+[name="저스티나"]  ……믿는다.
 
 [name="焰尾骑士"]  嗯？你说什么？
+[name="焔尾騎士"]  え？　今なんて？
+[name="Flametail Knight"]  Sorry, what?
+[name="불꽃 꼬리의 기사"]  응? 뭐라고?
 
 [name="查丝汀娜"]  你们要去哪，带我一起去吧。我信你们。
+[name="ユスティナ"]  信じるから、一緒に連れて行って。
+[name="Justyna"]  Just take me along, wherever you're going. I trust you.
+[name="저스티나"]  날 어디든지 데리고 가줘. 너희를 믿으니까.
 
 [name="查丝汀娜"]  你们和我......
+[name="ユスティナ"]  君たちと私は――
+[name="Justyna"]  I feel like...
+[name="저스티나"]  너희랑 나는……
 
 [name="查丝汀娜"]  我们都是一样的。我信你们。
+[name="ユスティナ"]  私たちは同じだ。だから君たちを信じる。
+[name="Justyna"]  We're the same. I can trust you.
+[name="저스티나"]  우리는 같잖아. 그러니까 너희를 믿어.
 
 [name="查丝汀娜"]  这里是......
+[name="ユスティナ"]  ここは……
+[name="Justyna"]  Where are we...?
+[name="저스티나"]  여기는……
 
 [name="焰尾骑士"]  哦！你出来得好快，伤口已经处理好了？
+[name="焔尾騎士"]  あら！　早かったわね、ケガの手当はもう済んだの？
+[name="Flametail Knight"]  Oh! That was fast. Your wounds all better?
+[name="불꽃 꼬리의 기사"]  어머! 빨리 나왔구나. 상처 치료는 다 된 거야?
 
 [name="查丝汀娜"]  嗯。
+[name="ユスティナ"]  うん。
+[name="Justyna"]  Yes.
+[name="저스티나"]  응.
 
 [name="查丝汀娜"]  这里的这些人，他们都是感染者？
+[name="ユスティナ"]  ここにいる人たちは、みんな感染者なの？
+[name="Justyna"]  Are all these people here Infected?
+[name="저스티나"]  여기 있는 사람들은 모두 감염자야?
 
 [name="焰尾骑士"]  没错哦。住在这的大家都是感染者，大部分都是因为各种事故不走运地染病，丢了工作丢了家，无处可去的人。
+[name="焔尾騎士"]  うん。ここに住んでる人はみんなそうよ。ほとんどが不運な事故で感染して、仕事も家も失って行き場がない人たち。
+[name="Flametail Knight"]  Sure are. Everyone who lives here is. Most got unlucky, got sick in an accident or something, lost their jobs and homes, ended up with nowhere to go.
+[name="불꽃 꼬리의 기사"]  맞아, 여기 사는 사람들은 다 감염자야. 대부분은 여러 가지 사고로 감염되어, 일자리도 잃고 갈 곳도 없는 사람들이야.
 
 [name="焰尾骑士"]  虽然这里吃住都还简陋了点啦......但有总比没有好，是吧？
+[name="焔尾騎士"]  ここには粗末な寝床と食べ物しかないけど……何もないよりはマシでしょ？
+[name="Flametail Knight"]  Granted, the room and board here is a little rough, but... it's better than nothing, right?
+[name="불꽃 꼬리의 기사"]  형편이 좀 그렇긴 하지만…… 없는 것보다는 낫잖아?
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="灰毫骑士"]  索娜，艾沃娜那边出了点问题，我先过去看看。
+[name="灰毫騎士"]  ソーナ、イヴォナの方で問題が発生した。様子を見てくる。
+[name="Ashlock Knight"]  Sona, Iwona's in trouble, I'll go see what I can do.
+[name="회색 붓꼬리의 기사"]  소나, 이보나 쪽에 문제가 생겼어. 먼저 좀 가볼게.
 
 [name="灰毫骑士"]  无胄盟应该还会有所行动，最近我会让其他人也都小心点。
+[name="灰毫騎士"]  無冑盟はまだ行動を起こすはずだ。ほかの奴にも警戒させないと。
+[name="Ashlock Knight"]  The Armorless Union is probably still active. I'll tell the others to be careful too.
+[name="회색 붓꼬리의 기사"]  아머레스 유니온은 분명히 다시 움직일 거야. 요즘 다른 사람들에게도 주의를 주고 있어.
 
 [name="焰尾骑士"]  我清楚。放心，有我看着呢。
+[name="焔尾騎士"]  わかってるわ。安心して、あたしが見てるから。
+[name="Flametail Knight"]  Alright. Don't worry, I'm on it.
+[name="불꽃 꼬리의 기사"]  알아. 안심해, 내가 있으니까.
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="灰毫骑士"]  ......
+[name="灰毫騎士"]  ……
+[name="Ashlock Knight"]  ......
+[name="회색 붓꼬리의 기사"]  ……
 
 [name="灰毫骑士"]  ......嗯。交给你了。
+[name="灰毫騎士"]  ……ああ。任せた。
+[name="Ashlock Knight"]  Right. You've got it.
+[name="회색 붓꼬리의 기사"]  ……그래, 맡긴다.
 
 [name="查丝汀娜"]  ......她......
+[name="ユスティナ"]  ……彼女は……
+[name="Justyna"]  She...
+[name="저스티나"]  ……쟤는……
 
 [name="焰尾骑士"]  嗯？啊，你说小灰啊，她是个不错的家伙，就是说话有的时候太一板一眼了。
+[name="焔尾騎士"]  ん？　あぁ、カイちゃんのこと？　彼女はとってもいい子よ。時々融通が利かないこともあるけどね。
+[name="Flametail Knight"]  Hm? Oh, you mean Ashley? She's a good girl. The way she talks is just a little too straight up sometimes.
+[name="불꽃 꼬리의 기사"]  응? 아, 회색 붓꼬리? 가끔은 좀 딱딱하게 하긴 하지만 좋은 녀석이야.
 
 [name="查丝汀娜"]  从见面到现在，她没有和我说过话。
+[name="ユスティナ"]  君たちと会ってから、彼女は一度も私に話しかけたことがない。
+[name="Justyna"]  She hasn't said a word to me since we first met.
+[name="저스티나"]  만난 때부터 지금까지, 나한텐 말을 건 적이 없어.
 
 [name="焰尾骑士"]  啊哈哈......可能是小灰她有点认生。
+[name="焔尾騎士"]  アハハ……多分、人見知りしてるんじゃないかな。
+[name="Flametail Knight"]  Ahaha! Ashley's a little shy with strangers too.
+[name="불꽃 꼬리의 기사"]  아하하…… 쟤는 낯을 좀 가리거든.
 
 [name="焰尾骑士"]  ......
+[name="焔尾騎士"]  ……
+[name="Flametail Knight"]  ......
+[name="불꽃 꼬리의 기사"]  ……
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="焰尾骑士"]  （叹气）哎，好吧......
+[name="焔尾騎士"]  （ため息）わかった、話すよ――
+[name="Flametail Knight"]  *Sigh*. Well, alright...
+[name="불꽃 꼬리의 기사"]  (하아) 그래, 뭐……
 
 [name="焰尾骑士"]  其实是小灰她总觉得你和我们不太一样，可能和我们不会是一路的啦。
+[name="焔尾騎士"]  カイちゃんはあなたのことを、あたしたちとは違うと思ってるの。目指してるものが違うだろうって。
+[name="Flametail Knight"]  Ashley just thinks you're too different from us, like you've walked a different path.
+[name="불꽃 꼬리의 기사"]  실은 그레이너티는 네가 우리랑 다르다고 생각해. 우리랑 같은 길이 아닐 거라고.
 
 [name="焰尾骑士"]  你看，你可是这次特锦赛的明星选手，刚拿到了骑士封号，炙手可热！
+[name="焔尾騎士"]  ほら、あなたは今回のメジャーの大注目選手だし、騎士称号も獲得したばっかり。まさにノリにノってるでしょ？
+[name="Flametail Knight"]  I mean, you're a star of the Major, with a shiny new knight title, so hot right now!
+[name="불꽃 꼬리의 기사"]  너는 이번 토너먼트의 스타 선수인데다 얼마 전에 기사 칭호를 받았을 정도로 핫하잖아!
 
 [name="焰尾骑士"]  不管怎么看都前途一片大好嘛！
+[name="焔尾騎士"]  どう見たって明るい未来が約束されてるもの！
+[name="Flametail Knight"]  No matter which way you look at it, you've got a bright future!
+[name="불꽃 꼬리의 기사"]  아무리 봐도 미래가 창창하단 말이지!
 
 [name="查丝汀娜"]  ......没有。
+[name="ユスティナ"]  ……そんなことはないよ。
+[name="Justyna"]  No... I don't.
+[name="저스티나"]  ……그렇지도 않아.
 
 [name="查丝汀娜"]  感染者......感染者骑士，不会有什么大好前途。
+[name="ユスティナ"]  感染者には……感染者騎士には、明るい未来なんてない。
+[name="Justyna"]  An Infected... an Infected knight... has no future.
+[name="저스티나"]  감염자…… 감염자 기사에겐 미래란 없어.
 
 [name="焰尾骑士"]  这可不像是刚赢了比赛的人说出来的话。
+[name="焔尾騎士"]  あら、試合に勝ったばかりの人が言うセリフだとは思えないわね。
+[name="Flametail Knight"]  That doesn't sound like something a big competition winner would say.
+[name="불꽃 꼬리의 기사"]  방금 경기에서 이긴 사람이 할 말은 아닌 것 같네.
 
 [name="查丝汀娜"]  我本来以为既然还有机会能够成为骑士，就还有希望。如果能赢比赛，或许......
+[name="ユスティナ"]  初めは騎士になりさえすれば、まだ希望はあると思ってた。試合に勝てば、もしかしたら……
+[name="Justyna"]  I used to think that as long as I could be a knight, there was still hope. If I could win in the arena, maybe...
+[name="저스티나"]  처음엔 기사가 될 기회가 있으니 희망도 있다고 생각했어. 경기에서 이길 수 있다면 어쩌면……
 
 [name="焰尾骑士"]  或许还能赢得尊敬，真的被看作是个骑士，赢回过去的生活？
+[name="焔尾騎士"]  もしかしたら尊敬が得られて、本当に騎士として認められ、元の生活を取り戻せるって？
+[name="Flametail Knight"]  Maybe you could even earn some respect, be seen as a true knight, and win back the life you used to have?
+[name="불꽃 꼬리의 기사"]  어쩌면 존경을 받고, 진짜 기사 취급받으면서 과거처럼 살 수 있다고?
 
 [name="查丝汀娜"]  ......我这么想过。
+[name="ユスティナ"]  ……そう思ってた。
+[name="Justyna"]  Yes... That's what I thought.
+[name="저스티나"]  ……그래, 그렇게 생각했어.
 
 [name="查丝汀娜"]  但是，这是不可能的。感染者骑士依然是感染者，没什么不同。
+[name="ユスティナ"]  でも、それは不可能なんだ。感染者騎士は結局、騎士よりも先に感染者だった。世間の見る目は何一つ変わらない。
+[name="Justyna"]  But that's not how it works. An Infected knight is still Infected. And that's all that matters.
+[name="저스티나"]  하지만 그건 불가능해. 감염자 기사는 여전히 감염자야. 아무런 차이가 없어.
 
 [name="焰尾骑士"]  ......嗯。我就是这么和小灰说的。
+[name="焔尾騎士"]  ……そうね。あたしもカイちゃんに同じことを言ったわ。
+[name="Flametail Knight"]  Yeah. That's pretty much what I've said to Ashley.
+[name="불꽃 꼬리의 기사"]  ……맞아. 나도 회색이한테 그렇게 말했어.
 
 [name="焰尾骑士"]  况且——就算是骑士又怎么样呢？看看混在人群里袭击你的那些人，他们可不管你是感染者骑士，还是贵族骑士。
+[name="焔尾騎士"]  それに――同じ騎士として扱われたとして、今の騎士ってどうなのかしら。人混みに紛れて襲ってきた連中を見たでしょ？　奴らは感染者騎士だろうと貴族騎士だろうとお構いなしよ。
+[name="Flametail Knight"]  And besides, so what if you're a knight? Just look what happened to you back there in that crowd. Those folks who jumped you didn't care if you're Infected or noble or whatever.
+[name="불꽃 꼬리의 기사"]  게다가…… 기사가 되면 뭐? 그 인파 속에 숨어 너를 습격하던 놈들을 봐. 그것들은 네가 감염자 기사든 귀족 기사든 상관 안 하잖아.
 
 [name="查丝汀娜"]  那些人，就是你说的无胄盟？
+[name="ユスティナ"]  あいつらって、無冑盟？
+[name="Justyna"]  You were saying they're with the Armorless Union?
+[name="저스티나"]  그 녀석들이 네가 말한 아머레스 유니온이야?
 
 [name="查丝汀娜"]  骑士杀手......令人讨厌的名字。
+[name="ユスティナ"]  騎士殺し……嫌な名前だよね。
+[name="Justyna"]  Knight-Assassins... the words feel gross in my mouth.
+[name="저스티나"]  기사 킬러라…… 듣기 거북한 이름이네.
 
 [name="焰尾骑士"]  没错，就是他们。
+[name="焔尾騎士"]  そ。無冑盟よ。
+[name="Flametail Knight"]  Yeah, that's them.
+[name="불꽃 꼬리의 기사"]  맞아, 바로 그들.
 
 [name="焰尾骑士"]  为商业联合会卖命，暗地里解决掉那些不听话的骑士......他们自称是对付骑士的专家，对此还颇感自豪呢。
+[name="焔尾騎士"]  商業連合会に魂を売って、刃向かう騎士たちを陰で始末する……対騎士のスペシャリストを自称して、それを誇りに感じているのよ。
+[name="Flametail Knight"]  They sell themselves to the General Chamber of Commerce, bumping off knights who don't play ball... They call themselves experts in handling knights, and wear that with pride.
+[name="불꽃 꼬리의 기사"]  상업연합회를 위해 일하면서 말을 안 듣는 기사들을 뒤에서 처리하거든…… 스스로 기사 처리 전문가라며 꽤 자랑스럽게 생각하는 것 같더라.
 
 [name="焰尾骑士"]  也是，在观众们的欢呼和打赏面前，就算是正经骑士，又留着多少尊严？更何况是我们。
+[name="焔尾騎士"]  観客の歓声や投げ銭の前で、今の「真っ当な騎士」にどれほどの尊厳が残ってるかしら？　ましてやあたしたち感染者騎士なんて……
+[name="Flametail Knight"]  And add on the rewards, in cheers and treasure, that the audience heaps upon the knights, proper or not, how much dignity is left in the title? That's before you even talk about us.
+[name="불꽃 꼬리의 기사"]  하긴, 아무리 정직한 기사라도 관중들의 환호와 후원금 앞에선 존엄이 얼마나 남아있겠어? 우리야 더 말할 것도 없고.
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="查丝汀娜"]  这次袭击我，也是商业联合会的指示？
+[name="ユスティナ"]  今回、私を襲ったのも、商業連合会の指示なの？
+[name="Justyna"]  So me getting attacked this time, that was the K.G.C.C.'s orders?
+[name="저스티나"]  이번에 나를 습격한 것도 상업연합회가 명령한 걸까?
 
 [name="焰尾骑士"]  应该是了。你的表现太耀眼，又不肯加入找上门来的那些骑士团，还说出那种宣言......这些人迟早会找上门来的。
+[name="焔尾騎士"]  おそらくね。あなたは目立ち過ぎてるし、勧誘してきた騎士団に入る素振りもないでしょ。その上、あんな宣言までやらかしちゃって……ああいった奴らは遅かれ早かれやってきたでしょうね。
+[name="Flametail Knight"]  Probably. You've got the spotlight on you, and you're turning down all the knightclub invitations, and talking like you do out there... sooner or later, you get a knock like that at your door.
+[name="불꽃 꼬리의 기사"]  그럴걸. 네가 너무 튀는 것도 있겠지만, 기사단의 가입 권유도 거절하고, 거기다 그런 선언까지 했으니…… 걔네들에겐 눈엣가시나 다름없어.
 
 [name="焰尾骑士"]  你既然不肯变成他们的摇钱树，那就只好让你“不名誉”地退场，免得妨碍商机了。
+[name="焔尾騎士"]  連中は、あなたを金づるにできないなら、ビジネスの邪魔にならないよう、「不名誉」な退場をさせるつもりなのよ。
+[name="Flametail Knight"]  And if you won't be their goldmine, then they find you a 'dishonorable' exit, so you won't get in the way of their business.
+[name="불꽃 꼬리의 기사"]  네가 그들의 돈줄이 될 생각이 없다면, 너를 '불명예' 퇴장시키는 수밖에 없겠지.
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="焰尾骑士"]  如何，因为这种原因被袭击，是不是觉得很荒唐？
+[name="焔尾騎士"]  どう？　こんな理由で襲われるなんて、バカげてると思わない？
+[name="Flametail Knight"]  So you know, not that crazy you'd get attacked.
+[name="불꽃 꼬리의 기사"]  어때? 이런 이유로 습격을 당하다니, 너무 황당하지 않아?
 
 [name="查丝汀娜"]  ......两个三周。
+[name="ユスティナ"]  ……三週間を、二回経験した。
+[name="Justyna"]  Two three-week periods.
+[name="저스티나"]  ……두 번의 3주.
 
 [name="焰尾骑士"]  啊？
+[name="焔尾騎士"]  え？
+[name="Flametail Knight"]  Huh?
+[name="불꽃 꼬리의 기사"]  어?
 
 [name="查丝汀娜"]  在来大骑士领的路上，我不小心感染。
+[name="ユスティナ"]  大騎士領へと来る途中で、私は感染してしまった。
+[name="Justyna"]  On my way to the Grand Knight Territory, I got infected.
+[name="저스티나"]  난 그랜드 나이트 영지로 오는 길에 의도치 않게 감염됐어.
 
 [name="查丝汀娜"]  因为是感染者，所以被拒绝注册成为骑士，又因为没有旅店可以住，而在边缘地块徘徊了三周。
+[name="ユスティナ"]  感染者だという理由で騎士競技の登録を拒否され、泊まれるホテルもなかったから、この周辺を三週間さまよった。
+[name="Justyna"]  And since I was Infected, they wouldn't let me register as a knight. So I wandered around for three weeks with nowhere to stay.
+[name="저스티나"]  감염자라는 이유로 기사 등록을 거부당했고, 머물 수 있는 호텔도 없어서 주변 지역을 3주간 떠돌아다녔어.
 
 [name="焰尾骑士"]  嗯......
+[name="焔尾騎士"]  そう……
+[name="Flametail Knight"]  Hmm...
+[name="불꽃 꼬리의 기사"]  그랬구나……
 
 [name="查丝汀娜"]  第三周的时候，血骑士赢了那一届的特锦赛。
+[name="ユスティナ"]  三週間目、そのシーズンのメジャーで血騎士が優勝を果たした。
+[name="Justyna"]  It was during the third week that the Blood Knight won the Major.
+[name="저스티나"]  3주째가 됐을 때, 피의 기사가 토너먼트에서 우승했어.
 
 [name="查丝汀娜"]  又过了三周，面向感染者的骑士注册窗口正式建立并且对外开放了。
+[name="ユスティナ"]  それから三週間後、感染者騎士向けの登録窓口が設立され、正式に開放された。
+[name="Justyna"]  Then, three weeks later, they opened the registration window for Infected knights.
+[name="저스티나"]  그리고 다시 3주가 지나자 감염자를 위한 기사 등록 창구가 정식으로 개방됐더라.
 
 [name="查丝汀娜"]  那个时候，我身上已经不剩下什么钱，所以我去了黑市的擂台，才终于凑够了注册需要的手续费。
+[name="ユスティナ"]  でもその時、私はほとんどお金を持っていなかった。だから闇市の試合に出て、どうにか登録に必要な手数料を稼いだ。
+[name="Justyna"]  I didn't have any money left on me, so I went to the black market ring, working up enough money to pay the registration fees.
+[name="저스티나"]  그땐 남은 돈이 얼마 없었어. 그래서 암시장의 불법 경기를 뛰었고 겨우 등록금을 모았거든.
 
 [name="焰尾骑士"]  那还真是......不容易。
+[name="焔尾騎士"]  それはとても……大変だったでしょうね。
+[name="Flametail Knight"]  That... couldn't have been easy.
+[name="불꽃 꼬리의 기사"]  많이…… 고생했겠네.
 
 [name="查丝汀娜"]  感染者骑士的地下竞技场，和黑市也差不多。
+[name="ユスティナ"]  感染者騎士の地下競技場は、そういうモグリで行われてる違法試合と大差ない。
+[name="Justyna"]  Underground knight sports for infected knights is pretty much the same as the black market.
+[name="저스티나"]  감염자 기사의 지하 경기장도 암시장이랑 거의 다를 게 없어.
 
 [name="查丝汀娜"]  从地下竞技场到特锦赛，我见过太多荒唐的事，已经不会因此而吃惊。
+[name="ユスティナ"]  地下競技場からメジャーまで、私は不条理な場面をたくさん目にしてきた。だから今更こんなことで驚きはしない。
+[name="Justyna"]  From the underground competitions to the Major, I've seen too many ridiculous things to be surprised anymore.
+[name="저스티나"]  지하 경기장부터 토너먼트까지, 별 황당한 일을 하도 많이 봐서 그런 거에 별로 놀라지도 않아.
 
 [name="焰尾骑士"]  哈哈，你说得没错......地下竞技场里比无胄盟还离谱的事情可太多了。
+[name="焔尾騎士"]  アハハッ、そうね……たしかに地下競技場には無冑盟よりデタラメなことがいっぱいだもの。
+[name="Flametail Knight"]  Haha! Fair enough. There's definitely stuff going on in the underground fights that tops whatever the Armorless Union can come up with.
+[name="불꽃 꼬리의 기사"]  하하, 맞아…… 지하 경기장에는 아머레스 유니온보다 더 한심한 일이 쌔고 쌨지.
 
 [name="焰尾骑士"]  就是因为大家或多或少都经历过这些，所以现在我们才会像这样聚集在这里。
+[name="焔尾騎士"]  多かれ少なかれ、そういう経験をしてきたからこそ、あたしたちは今こうやってここに集まってる。
+[name="Flametail Knight"]  We've all been through stuff like that, more or less, and that's how we end up here.
+[name="불꽃 꼬리의 기사"]  다들 많든 적든 그런 걸 경험해 왔기에, 우리가 지금 이곳에 이렇게 모여 있는 건지도 몰라.
 
 [name="查丝汀娜"]  ......这里还有很多普通感染者。
+[name="ユスティナ"]  ……それにここには、普通の感染者も大勢いる。
+[name="Justyna"]  There sure are a lot of Infected here.
+[name="저스티나"]  ……여긴 일반 감염자도 많네.
 
 [name="焰尾骑士"]  嗯......该怎么说呢，骑士竞赛还是能赚到不少的，至少足够买下这些无处可去的人。
+[name="焔尾騎士"]  うーん……どう言えばいいかしら。やっぱり、騎士競技はそれなりに稼げるのよね。少なくともこうした行き場のない人を引き取るには充分よ。
+[name="Flametail Knight"]  Right... how can I put it? You can make a lot in the knight competitions, at least enough to buy a place for these people who have nowhere else to go.
+[name="불꽃 꼬리의 기사"]  음…… 뭐랄까, 그래도 기사 스포츠는 적지 않은 돈을 벌 수 있어. 그 돈으로 이런 갈 곳 없는 사람들 사기엔 충분하지.
 
 [name="焰尾骑士"]  这么一来，这些钱也还算有点价值，是吧？
+[name="焔尾騎士"]  だったら、こういうお金にも少しは価値があると思わない？
+[name="Flametail Knight"]  So that means the money's still worth something, right?
+[name="불꽃 꼬리의 기사"]  그러고 보니, 이런 돈도 조금은 가치가 있네, 안 그래?
 
 [name="查丝汀娜"]  ......嗯。
+[name="ユスティナ"]  ……うん。
+[name="Justyna"]  Right.
+[name="저스티나"]  ……응.
 
 [name="焰尾骑士"]  嘿嘿，真好。
+[name="焔尾騎士"]  えへへっ、よかった。
+[name="Flametail Knight"]  Heh. Nice.
+[name="불꽃 꼬리의 기사"]  헤헷, 잘됐다.
 
 [name="查丝汀娜"]  ？
+[name="ユスティナ"]  なに？
+[name="Justyna"]  ?
+[name="저스티나"]  뭐가?
 
 [name="焰尾骑士"]  你的性格比我们之前想的要好相处不少......最开始和你搭上话的时候，还真以为你人很冷酷呢。
+[name="焔尾騎士"]  あなた、思ってたよりもだいぶ付き合いやすい性格だわ……最初の印象だと、すごく冷たい人かと思ったもの。
+[name="Flametail Knight"]  You're easier to get along with than we might've thought. When I first bumped into you, I was worried you were all icy cold.
+[name="불꽃 꼬리의 기사"]  네 성격 말이야. 우리가 생각했던 것보다 훨씬 편해서…… 처음에 너랑 얘기했을 땐 네가 굉장히 차가운 사람인 줄 알았어.
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="焰尾骑士"]  咦，怎么又不说话了？
+[name="焔尾騎士"]  あれ、どうしてまた黙っちゃうの？
+[name="Flametail Knight"]  Oh? You got all quiet?
+[name="불꽃 꼬리의 기사"]  어, 왜 또 말이 없어진 거야?
 
 [name="查丝汀娜"]  ......不知道。
+[name="ユスティナ"]  ……わからない。
+[name="Justyna"]  I don't know...
+[name="저스티나"]  ……모르겠다.
 
 [name="查丝汀娜"]  这种时候应该说什么，我不知道......
+[name="ユスティナ"]  こういう時にどう言えばいいのか、わからないんだ……
+[name="Justyna"]  I just... I just don't know... I guess I don't know what to say at times like this.
+[name="저스티나"]  이럴 때 무슨 말을 해야 하는지 모르겠어……
 
 [name="焰尾骑士"]  呃。
+[name="焔尾騎士"]  なるほどねぇ。
+[name="Flametail Knight"]  Ugh.
+[name="불꽃 꼬리의 기사"]  흠……
 
 [name="焰尾骑士"]  好吧......至少我现在明白了，你和小灰都挺认生的。
+[name="焔尾騎士"]  大丈夫よ……あなたもカイちゃんと同じく人見知りだってのはよくわかったから。
+[name="Flametail Knight"]  Alright... I think I get it now. You and Ashley are both shy with strangers.
+[name="불꽃 꼬리의 기사"]  이제야 알겠네…… 너랑 회색이랑 낯을 많이 가리는구나.
 
 [name="焰尾骑士"]  还有你这个先说半截的说话习惯，我也差不多习惯了。嗯，除了偶尔有点难理解以外，也没什么不好的。
+[name="焔尾騎士"]  それとそのしゃべり方――先に結論を少しだけ話すって癖にも慣れてきたわ。たまにちょっとわかりにくい時もあるけど、大した問題じゃないわ。
+[name="Flametail Knight"]  And this habit of yours where you say half a thing up front, I think I'm getting used to it. Not that there's anything wrong with it, it's just tricky to follow sometimes.
+[name="불꽃 꼬리의 기사"]  그리고 말을 절반만 하는 그 습관도…… 점점 익숙해져. 음, 간혹 이해하기 힘든 것 말고는 아무 문제도 없어.
 
 [name="查丝汀娜"]  ......不管怎么说，谢谢你们这次帮我。
+[name="ユスティナ"]  ……とにかく、今回は助けてくれてありがとう。
+[name="Justyna"]  Either way, thanks for helping me.
+[name="저스티나"]  ……어쨌든, 이번에 도와준 거 고마워.
 
 [name="焰尾骑士"]  哪里哪里，不用这么客气。
+[name="焔尾騎士"]  どういたしまして。あんまり気にしないで。
+[name="Flametail Knight"]  Ah, it was nothing. Don't sweat it.
+[name="불꽃 꼬리의 기사"]  천만에, 별거 아니니까 괜찮아.
 
 [name="焰尾骑士"]  对了，接下来你准备去哪？要是立刻复出，很可能再次被那些人盯上哦？
+[name="焔尾騎士"]  そうだ、これからどこへ行くつもり？　すぐに戻ったりしたらまたあいつらに狙われるわよ？
+[name="Flametail Knight"]  So anyway, where are you gonna go? If you pop right back out, they're gonna go after you again.
+[name="불꽃 꼬리의 기사"]  맞다. 이제 어떻게 할 거야? 지금 바로 복귀한다면 분명 걔네들에게 또 찍힐걸?
 
 [name="焰尾骑士"]  没准很快今天的事件就要上报了，猜猜看，他们会把新闻写成什么样？
+[name="焔尾騎士"]  今日の事件はすぐニュースになるわよ。ねね、なんて報道されると思う？
+[name="Flametail Knight"]  That scuffle back there is gonna get reported soon. What do you think we'll see on the news?
+[name="불꽃 꼬리의 기사"]  당장이라도 오늘 사건이 기사화될지 모르겠네. 뭐라고 쓸 것 같아?
 
 [name="查丝汀娜"]  ......我不知道。随他们吧。
+[name="ユスティナ"]  ……知らない。好きにさせればいいよ。
+[name="Justyna"]  No idea. Whatever they want.
+[name="저스티나"]  ……모르겠어. 마음대로 하라지.
 
 [name="查丝汀娜"]  我......不知道该去哪。我早就没地方可去了。
+[name="ユスティナ"]  私は……どこへ行くべきなのかわからない。行ける場所はとっくになくなってしまった。
+[name="Justyna"]  Honestly... I don't know where I'd go. I haven't had anywhere to go for a long time.
+[name="저스티나"]  난…… 어디로 가야 할지 몰라. 갈 곳이 없어진 지 오래거든.
 
 [name="焰尾骑士"]  嗯......
+[name="焔尾騎士"]  うーん……
+[name="Flametail Knight"]  Hmm...
+[name="불꽃 꼬리의 기사"]  그랬구나……
 
 [name="焰尾骑士"]  这么说，或许有点挟恩图报的嫌疑......不过这可不是一时心血来潮，我发誓我早就想这么做了！
+[name="焔尾騎士"]  こう言うと何だか、ちょっと恩着せがましくてイヤなんだけど……でもこれは思いつきじゃなくて、ずっと前から考えてたことなの！
+[name="Flametail Knight"]  Well, you may think I'm just throwing it out there to hold it over you, but this is an honest offer, out of the kindness of my heart.
+[name="불꽃 꼬리의 기사"]  이렇게 말하면 왠지 생색내는 것 같지만…… 이거 절대로 지금 생각해낸 게 아니야. 맹세코 나 전부터 이렇게 하고 싶었어!
 
 [name="焰尾骑士"]  我和小灰，还有艾沃娜，你也见过的，就是那个嗓门很大的家伙。
+[name="焔尾騎士"]  あたしとカイちゃん、それにイヴォナ――あなたも会ったことがあるでしょ？　あの声のでっかい子よ。
+[name="Flametail Knight"]  There's me, and Ashley, and Iwona, you've seen her, with the big loud mouth?
+[name="불꽃 꼬리의 기사"]  나랑 그레이너티, 그리고 이보나, 너도 알 거야. 그 목청이 되게 큰 녀석.
 
 [name="查丝汀娜"]  ......嗯，我记得她。
+[name="ユスティナ"]  ……うん、覚えてる。
+[name="Justyna"]  Yes, I know her.
+[name="저스티나"]  ……응, 기억나.
 
 [name="焰尾骑士"]  其实......关于你之前对外宣布的要建独立骑士团这事儿，我们也有相同的想法。
+[name="焔尾騎士"]  実は……あなたが前に宣言した独立騎士団の設立についてだけど、あたしたちも同じこと考えてたのよ。
+[name="Flametail Knight"]  The truth is... we had the same idea as you, in your little statement about setting up an independent knightclub.
+[name="불꽃 꼬리의 기사"]  네가 프리랜서 기사단을 설립하고 싶다고 선언했잖아…… 실은 우리도 같은 생각을 했어.
 
 [name="焰尾骑士"]  名字是我起的，我们叫它红松，红松骑士团，我们自己的骑士团。
+[name="焔尾騎士"]  レッドパイン騎士団。名前はあたしが考えたの、あたしたちの騎士団よ。
+[name="Flametail Knight"]  I came up with the name already. Pinus Sylvestris. The Pinus Sylvestris Knightclub, a club of our very own.
+[name="불꽃 꼬리의 기사"]  이름은 내가 지었어. 피누스 실베스트리스 기사단이라고. 우리 기사단이야.
 
 [name="查丝汀娜"]  ——！
+[name="ユスティナ"]  ――！
+[name="Justyna"]  —!
+[name="저스티나"]  ……!
 
 [name="焰尾骑士"]  如果没有其他地方可以去的话，查丝汀娜，要不要考虑一下，加入我们，和我们一起走？
+[name="焔尾騎士"]  ユスティナ、もしどこにも行くあてがないのなら、あたしたちと一緒に来ない？　レッドパイン騎士団に。
+[name="Flametail Knight"]  And since you've got nowhere to go, Justyna, wouldn't you consider maybe joining us?
+[name="불꽃 꼬리의 기사"]  저스티나, 갈 곳이 없다면 기사단에 들어와서 우리와 함께 하는 건 어때?
 
 [name="查丝汀娜"]  这是在......邀请我？
+[name="ユスティナ"]  私を……誘ってるの？
+[name="Justyna"]  You're... inviting me?
+[name="저스티나"]  날…… 초청하는 거야?
 
 [name="查丝汀娜"]  ......确定吗？
+[name="ユスティナ"]  ……ホントに？
+[name="Justyna"]  Are you sure?
+[name="저스티나"]  ……진심이야?
 
 [name="焰尾骑士"]  唔，难道我说得还不够直接？
+[name="焔尾騎士"]  えっと、そう聞こえなかった？
+[name="Flametail Knight"]  Sure as sure can be. Can I spell it out any clearer for you?
+[name="불꽃 꼬리의 기사"]  왜, 그렇게 들리지 않았어?
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="查丝汀娜"]  红松骑士团......
+[name="ユスティナ"]  レッドパイン……騎士団。
+[name="Justyna"]  Pinus Sylvestris Knightclub...
+[name="저스티나"]  피누스 실베스트리스 기사단……
 
 [name="查丝汀娜"]  好。我加入你们。
+[name="ユスティナ"]  わかった。私も君たちに加わるよ。
+[name="Justyna"]  Alright. I'm in.
+[name="저스티나"]  좋아. 들어갈게.
 
 [name="查丝汀娜"]  ——我们......一起。
+[name="ユスティナ"]  ――君たちと……一緒に。
+[name="Justyna"]  —Us... together.
+[name="저스티나"]  우리…… 함께.
 
 [Subtitle(text="查丝汀娜，你就要出发了吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ユスティナ、もう出発するの？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Justyna, are you going now?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="저스티나, 출발하는 거야?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="再吹一次你的口笛吧，吹什么都行，你吹的大家都爱听。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="もう一回草笛を吹いてよ、何でもいいから。みんなあなたの草笛が好きなんだよ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Play your flute again, won't you? Whatever you want. Everyone loves hearing you play.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="뭐든 좋으니까 다시 한번 풀피리 불어줘. 다들 네가 부는 풀피리를 좋아하거든.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="真好听。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="きれいな音色。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Beautiful.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="너무 듣기 좋아.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="今后很难再听到你吹的旋律了，大伙一定都会很想念你。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="これからはあなたの草笛が聴けなくなるのね。みんなきっとあなたが恋しくなるわ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="We won't get to hear that again for a long time. Everyone's gonna miss you.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="앞으로는 네 부는 풀피리를 들을 수도 없겠구나. 다들 그리워할 거야.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="你一个人走得那么远，怎么能让人不担心呢？你明明那么怕寂寞，却又总不好意思说，只会默不作声地坐在大家旁边。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="心配に決まってるでしょ？　あなたが一人であんな遠くへ行くんだもの。寂しがり屋なくせに口下手で、いつも黙ってみんなのそばに座ってるだけのあなたが、よ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Aren't you worried about going so far all alone? We know you get lonely, you're just too shy to admit it. Always sitting quietly off to the side.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="너 혼자 그렇게 멀리 가는데 어떻게 걱정 안 하겠어? 너는 외로움도 많이 타고, 말주변도 없어서 언제나 조용히 사람들 곁에 앉아있기만 하잖아.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="你说，风会把你的声音带回来吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ねぇ、風はあなたの音を運んでくれるかな？　聞こえたらいいな。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="You think the wind might carry your voice back home?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="바람이 네 목소리를 전해줄 거라고?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="你会成为骑士的。我们都相信你一定能成为很了不起的骑士，就像、就像你喜欢的那个耀骑士一样。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="あなたはきっと騎士になるわ。立派な騎士になれるって、みんな信じてる。あなたが好きな、あの耀騎士のように。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="You're going to be a knight. We all believe you're going to be an amazing one, like that Radiant Knight you're so fond of.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="너라면 꼭 기사가 될 거야. 네가 대단한 기사가 될 거라고 다들 믿어. 마치, 네가 그토록 좋아하는 빛의 기사처럼 말이야.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="祝你好运，查丝汀娜。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="幸運を祈っているわ、ユスティナ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Good luck, Justyna.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="저스티나, 행운을 빌게.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="记得常回来看看我们。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="たまには顔を見せに帰ってきてね。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Don't be a stranger now.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="가끔은 우리 보러 돌아와.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="查丝汀娜"]  到这里应该就没问题了，前面会有人接应，我们安全了。
+[name="ユスティナ"]  ここまで来れば大丈夫。この先に迎えがいる、もう安全だよ。
+[name="Justyna"]  Now that we're here, we're safe. Someone will meet us out front.
+[name="저스티나"]  여기까지 왔으니 괜찮을 거야. 앞에 마중 나올 사람이 있어서 이제 안전해.
 
 [name="查丝汀娜"]  你的伤还好吗。
+[name="ユスティナ"]  傷の具合はどう？
+[name="Justyna"]  How are your wounds?
+[name="저스티나"]  상처는 괜찮아?
 
 [name="塑料骑士"]  没什么问题，这点小伤不值一提。倒是你们感染者骑士，你们的据点居然在城市内部，而不是边缘或是村庄？
+[name="合成樹脂騎士"]  問題ない、かすり傷にすぎん。だが、まさかお前たち感染者騎士の拠点が、都市の外縁や近村ではなく、都市内部にあるとはな。
+[name="Plastic Knight"]  Fine. Just a scratch, barely worth mentioning. But you Infected knights, you base yourselves here in the city? Not out in a village somewhere?
+[name="플라스틱의 기사"]  문제없다. 작은 상처뿐이야. 그런데 설마 감염자 기사들의 아지트가 변두리나 촌구석도 아닌, 도시 안에 있었다니?
 
 [name="塑料骑士"]  没人会容许感染者生活在这座城市里——你们耍了什么花招？
+[name="合成樹脂騎士"]  感染者が街の中で暮らすことを許す奴はいるはずがない――いったいどんな手を使ったんだ？
+[name="Plastic Knight"]  No one would allow the Infected to live within the city limits. Just what are you up to?
+[name="플라스틱의 기사"]  감염자가 이 도시 안에서 살도록 허락할 사람이 없을 텐데…… 너희들 무슨 수작을 부린 거지?
 
 [name="查丝汀娜"]  没有花招。
+[name="ユスティナ"]  別に何も。
+[name="Justyna"]  Nothing.
+[name="저스티나"]  수작 같은 건 없어.
 
 [name="查丝汀娜"]  只要有钱，没有那么难。
+[name="ユスティナ"]  お金さえあれば、難しいことじゃない。
+[name="Justyna"]  When you've got money, you can do anything.
+[name="저스티나"]  돈만 있다면 어려운 일도 아니니까.
 
 [name="塑料骑士"]  哈，钱......说的不错，只要有钱，在这个地方什么都不难办到。
+[name="合成樹脂騎士"]  ハッ、金……その通りだ。金さえあれば、この都市でできないことはないか。
+[name="Plastic Knight"]  Hah... money. True enough. So long as you have money, you can do anything here.
+[name="플라스틱의 기사"]  훗, 돈이라…… 맞는 말이다. 돈만 있으면 어려울 게 없지.
 
 [name="塑料骑士"]  但凡走露风声，你们就全都会因为违法而被捕。
+[name="合成樹脂騎士"]  だが、誰かが情報を漏らせば、お前たちは法律違反で捕まるぞ。
+[name="Plastic Knight"]  But if word gets out, you'll be arrested.
+[name="플라스틱의 기사"]  하지만 정보가 새기라도 한다면, 너희는 모두 법 위반으로 잡힐걸.
 
 [name="查丝汀娜"]  在有人说出什么不该说的之前，我的箭会解决他。
+[name="ユスティナ"]  その誰かが口を滑らせる前に、私の矢がそいつを片づける。
+[name="Justyna"]  Anyone eager to open their mouth gets a word with my arrows first.
+[name="저스티나"]  누가 해서는 안 될 말을 하기 전에, 내 화살이 먼저 그 녀석 입을 막을 거야.
 
 [name="查丝汀娜"]  我不允许任何人危害到红松骑士团。
+[name="ユスティナ"]  誰にもレッドパイン騎士団に手は出させない。
+[name="Justyna"]  I won't allow anyone to harm the Pinus Sylvestris Knightclub.
+[name="저스티나"]  누구도 피누스 실베스트리스 기사단을 해치게 두지 않아.
 
 [name="塑料骑士"]  那就快替我指路吧，只要想到那些无胄盟的渣滓还在外逍遥，我就一刻也无法忍受。既然决定要和商业联合会作对，就动作越快越好。
+[name="合成樹脂騎士"]  ならば早く段取りを決めよう。今もあの無冑盟のクズどもが好き勝手していると思うと、一刻たりとも我慢ならん。商業連合会に弓を引くと決めたからには、行動はできるだけ早い方がいい。
+[name="Plastic Knight"]  Then lead the way. I can't stand the thought of the Armorless Union scum on the loose out there. I'm working against the General Chamber of Commerce now, so I need to move fast.
+[name="플라스틱의 기사"]  그렇다면 어서 길이나 안내해. 아머레스 유니온 쓰레기들이 멋대로 군다는 걸 생각만 해도 도저히 참을 수가 없다. 상업연합회와 맞서기로 한 이상 빨리 움직이는 게 좋아.
 
 [name="塑料骑士"]  让我去见见你们那个能让有你这样实力的感染者骑士违背自身意愿，将我带出医院的感染者骑士领袖。
+[name="合成樹脂騎士"]  さっさとそのリーダーに会わせろ。お前みたいに実力のある奴が、自らの意志に背いてまで命令に従う、感染者騎士のリーダーにな。
+[name="Plastic Knight"]  Show me to your Infected knight leader, who forced one of your strength to drag me out of the hospital against your will.
+[name="플라스틱의 기사"]  너 같이 실력 있는 감염자 기사가 자신의 의지를 꺾어가면서, 나를 병원에서 데려오게 한 너희 감염자 기사의 두목을 만나게 해줘.
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="查丝汀娜"]  ......不算违背。
+[name="ユスティナ"]  ……背いてはいない。
+[name="Justyna"]  Not against my will.
+[name="저스티나"]  ……딱히 꺾은 건 아닌데.
 
 [name="塑料骑士"]  ——什么？
+[name="合成樹脂騎士"]  ――なに？
+[name="Plastic Knight"]  What?
+[name="플라스틱의 기사"]  ……뭐?
 
 [name="查丝汀娜"]  救出塑料骑士这个任务，不是索娜要求，是我自己主动要去的。这并不违背我的个人意愿。
+[name="ユスティナ"]  合成樹脂騎士の救出という任務は、ソーナの命令なんかじゃない。私が自分から志願したもので、私個人の意志に背いてなんかない。
+[name="Justyna"]  It wasn't Sona who sent me to rescue you. It was my own choice. Not at all against my will.
+[name="저스티나"]  플라스틱의 기사를 구출하는 임무는 소나가 시킨 게 아니라, 나 스스로 한 거야. 그러니까 내 개인적인 의지를 꺾은 게 아니라고.
 
 [name="塑料骑士"]  ......怎么回事，我以为我们双方都不对彼此有任何好感。
+[name="合成樹脂騎士"]  ……どういうことだ？　俺たちは互いに相容れない者同士と思っていたが。
+[name="Plastic Knight"]  But how? I understand we have a mutual distaste for one another.
+[name="플라스틱의 기사"]  ……뭐야? 우린 서로 호감이 없다고 생각했는데.
 
 [name="塑料骑士"]  还是说，你要告诉我这是一种顾全大局？
+[name="合成樹脂騎士"]  それとも、お前が志願したのは騎士団の利益を尊重してのことか？
+[name="Plastic Knight"]  Or is this some kind of big picture play?
+[name="플라스틱의 기사"]  아니면, 네가 대의를 위해서 한 일이라고 할 건가?
 
 [name="查丝汀娜"]  不。
+[name="ユスティナ"]  違う。
+[name="Justyna"]  No.
+[name="저스티나"]  아니.
 
 [name="查丝汀娜"]  只是......你有家人。
+[name="ユスティナ"]  ただ……君には家族がいる。
+[name="Justyna"]  It's just... you have a family.
+[name="저스티나"]  그냥…… 너한텐 가족이 있잖아.
 
 [name="塑料骑士"]  什么意思......难道说？！
+[name="合成樹脂騎士"]  どういう意味だ……まさか！？
+[name="Plastic Knight"]  What are you talking about?!
+[name="플라스틱의 기사"]  무슨 뜻…… 설마?!
 
 [name="塑料骑士"]  这群蝼蚁，他们竟敢对那孩子动手？！
+[name="合成樹脂騎士"]  あの虫けらども、子供にまで手を出す気か！？
+[name="Plastic Knight"]  Those insects! They dare move against my boy?!
+[name="플라스틱의 기사"]  그 버러지들이, 감히 아이에게 손을 댄 거냐?!
 
 [name="查丝汀娜"]  不用担心，索娜让人一直盯着。无胄盟的杀手已经撤退了，他们没有对你的儿子怎么样。
+[name="ユスティナ"]  心配はいらないよ。ソーナが護衛をつけてるから。無冑盟の殺し屋はすでに撤退してる。奴らは君の息子に何もしていない。
+[name="Justyna"]  Don't worry, Sona has eyes on him. The Armorless backed off. They didn't touch your son.
+[name="저스티나"]  걱정 마, 소나가 사람을 보내서 지키고 있으니까. 아머레스 유니온 킬러들도 이미 물러갔대. 네 아들에게 아무 짓도 못 했어.
 
 [name="塑料骑士"]  ......
+[name="合成樹脂騎士"]  ……
+[name="Plastic Knight"]  ......
+[name="플라스틱의 기사"]  ……
 
 [name="塑料骑士"]  我会为此道谢。
+[name="合成樹脂騎士"]  その件については感謝しよう。
+[name="Plastic Knight"]  Then I must offer my thanks.
+[name="플라스틱의 기사"]  감사를 표하도록 하지.
 
 [name="查丝汀娜"]  对索娜说吧。全都是她在安排。
+[name="ユスティナ"]  お礼はソーナに言って。全部彼女が段取りしたことだから。
+[name="Justyna"]  You owe them to Sona. It was all her idea.
+[name="저스티나"]  모두 소나의 계획이었으니까 소나에게 말해.
 
 [name="查丝汀娜"]  至于我，我不希望看到你出事和我是否欣赏你个人无关。
+[name="ユスティナ"]  私が君のことを認めているかどうかと、君に不幸が起きてほしいかどうかは、別の話だよ。
+[name="Justyna"]  As for me, my personal feelings towards you have nothing to do with whether or not I'll let you get hurt.
+[name="저스티나"]  네가 무슨 일이 있는 걸 원치 않는 것과, 너라는 사람을 인정하지 않는 건 다른 얘기야.
 
 [name="查丝汀娜"]  我只是，看到你的儿子......
+[name="ユスティナ"]  ただ、君の息子を見て……
+[name="Justyna"]  I just... your son...
+[name="저스티나"]  나는 단지, 네 아들을 봤으니까……
 
 [name="查丝汀娜"]  如果没有你，那个男孩就无家可归了。
+[name="ユスティナ"]  君がいないと、あの子には帰る家がなくなるって思った。
+[name="Justyna"]  Without you, he'd have nowhere to go.
+[name="저스티나"]  네가 없으면 걔는 돌아갈 집이 없어지잖아.
 
 [name="查丝汀娜"]  骑士查丝汀娜有家乡，有期盼她的亲人，朋友。
+[name="ユスティナ"]  騎士ユスティナには故郷があり、そこには今も彼女の帰還に期待を寄せる家族や友人がいる。
+[name="Justyna"]  Justyna the Knight has a home, with family and friends waiting for her.
+[name="저스티나"]  기사 저스티나에겐 고향이 있어. 기다리고 있는 가족도, 친구도 있고.
 
 [name="查丝汀娜"]  但这不属于感染者查丝汀娜。
+[name="ユスティナ"]  でもそれは――感染者ユスティナにはない。
+[name="Justyna"]  But Justyna the Infected doesn't.
+[name="저스티나"]  하지만 감염자 저스티나에겐 그런 게 없어.
 
 [name="查丝汀娜"]  ......感染者无处可去。
+[name="ユスティナ"]  ……感染者には行き場などない。
+[name="Justyna"]  An Infected has nowhere to go.
+[name="저스티나"]  ……감염자에게는 갈 곳이 없으니까.
 
 [name="查丝汀娜"]  不，不仅是感染者，在这里，很多人都没有归处。
+[name="ユスティナ"]  いいえ、感染者に限らず、ここでは多くの人に帰る場所がない。
+[name="Justyna"]  No, it's not just the Infected. Here, in this place, there are a lot more people with nowhere to go.
+[name="저스티나"]  아니, 감염자뿐만이 아니라, 이곳에는 돌아갈 곳이 없는 사람들이 아주 많지.
 
 [name="查丝汀娜"]  我已经回不去了。
+[name="ユスティナ"]  私も、もう帰れない。
+[name="Justyna"]  It's too late for me. I can't go back.
+[name="저스티나"]  난 이제 돌아갈 수 없어.
 
 [name="查丝汀娜"]  如果风真的能把我的声音带回去......
+[name="ユスティナ"]  もし風が本当に私の音を運んでくれるのなら……
+[name="Justyna"]  If the wind really can carry my voice home...
+[name="저스티나"]  만약 바람이 정말 내 목소리를 전해준다면……
 
 [name="查丝汀娜"]  ......
+[name="ユスティナ"]  ……
+[name="Justyna"]  ......
+[name="저스티나"]  ……
 
 [name="查丝汀娜"]  那就请闭口不言，除了口笛的旋律，什么也别说。
+[name="ユスティナ"]  口を閉ざし、草笛の旋律以外は、何も伝えないで。
+[name="Justyna"]  Then I'll have to ask it not to. Don't carry anything but the sound of my flute.
+[name="저스티나"]  난 입을 다물고 싶어. 풀피리의 선율 말고는 아무 소리도 내지 않을 거야.
 
 [name="查丝汀娜"]  让查丝汀娜仍然是个简单的，平凡的......做着骑士美梦的女孩吧。
+[name="ユスティナ"]  ユスティナを、みんなの記憶の中の、単純で平凡な……騎士を夢見る女の子のままでいさせて。
+[name="Justyna"]  Let Justyna stay a simple, ordinary girl... dreaming of knighthood.
+[name="저스티나"]  저스티나를 여전히 순수하고 평범한…… 그저 기사를 꿈꾸는 소녀로 남겨두고 싶으니까.
 

@@ -1,4 +1,10 @@
 [PopupDialog(dialogHead="$avatar_nearl")] 等双眼适应了黑暗，干员所获得的<@tu.kw>视野</>范围会扩大。
+[PopupDialog(dialogHead="$avatar_nearl")] 暗闇に目が慣れてくれば、その<@tu.kw>視野</>の範囲はさらに広がっていくんだ。
+[PopupDialog(dialogHead="$avatar_nearl")] After getting accustomed to the darkness, the Operator's field of <@tu.kw>visibility</> will increase.
+[PopupDialog(dialogHead="$avatar_nearl")] 눈이 어둠에 적응되면 오퍼레이터가 확보하는 <@tu.kw>시야</>의 범위도 확대되고.
 
 [PopupDialog(dialogHead="$avatar_beagle")] 看到它们了，交给我吧！
+[PopupDialog(dialogHead="$avatar_beagle")] 敵が見えました！　わたしに任せてください！
+[PopupDialog(dialogHead="$avatar_beagle")] I see them now! Let me handle this!
+[PopupDialog(dialogHead="$avatar_beagle")] 적이 보입니다, 제게 맡겨주세요!
 

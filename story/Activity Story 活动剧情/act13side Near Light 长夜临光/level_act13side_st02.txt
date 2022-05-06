@@ -1,468 +1,1170 @@
 [name="砾"]......博士？
+[name="グラベル"]……ドクター？
+[name="Gravel"]Doctor?
+[name="그라벨"]……박사?
 
 [name="砾"]您从餐厅回来之后，就一直紧锁着眉头哦？
+[name="グラベル"]ねえ、ドクター？　レストランから戻ってきてから、ず～っと眉間にしわが寄ってるわよ？
+[name="Gravel"]You know, you've been frowning ever since you came back from the restaurant.
+[name="그라벨"]레스토랑에서 돌아오고 나서 계속 미간을 찌푸리는데?
 
 [name="砾"]如果感到疲惫的话，我可以——
+[name="グラベル"]もしかして、疲れちゃったの？　それなら、あたしが――
+[name="Gravel"]If you're feeling worn out, then I'd be more than glad to––
+[name="그라벨"]만약 피곤하다면 내가……
 
 [Decision(options="你怎么看待今天这场晚宴？;你觉得，马克维茨是个怎样的人？", values="1;2")]
+[Decision(options="今日の夕食会、君から見てどうだった？;君の目に、マルキェヴィッチはどう映っている？", values="1;2")]
+[Decision(options="What'd you think of the meal?;What do you think of Malkiewicz?", values="1;2")]
+[Decision(options="오늘 만찬을 어떻게 생각해?;말키위츠는 어떤 사람인 것 같아?", values="1;2")]
 
 [name="砾"]很得体，博士。看来您已经习惯这类交际了？
+[name="グラベル"]特に問題なかったわよ。ドクターってば、あの手の交流には慣れているみたいね？
+[name="Gravel"]It went well. You're getting pretty slick around these kinds of events, aren't you?
+[name="그라벨"]아주 적절했어, 박사. 이런 교류에 익숙해졌나 봐?
 
 [name="砾"]看得出，虽然常务董事没有亲自露面，但那些企业高管都对您青睐有加......
+[name="グラベル"]常務取締役は顔を出さなかったけど、あの場にいた企業幹部たちはみんな、あなたをお気に召したみたいよ。
+[name="Gravel"]I can tell. Even though the directors didn't show up in person, those corporate execs are all fond of you...
+[name="그라벨"]상무이사가 직접 나오지는 않았지만, 기업 고위직들이 박사한테 더 호의적인 게 보였어……
 
 [name="砾"]......如我之前对您说的，因为耀骑士的事件，有一位发言人引咎辞职。
+[name="グラベル"]……これは前にも話したことだけど、耀騎士の事件の時、その責任を負って、ある代弁者が辞任したの。
+[name="Gravel"]I said it already, but a certain spokesman took the fall and resigned over the Radiant Knight incident.
+[name="그라벨"]……전에 말했다시피 빛의 기사 사건으로 한 대변인이 책임지고 사퇴했어.
 
 [name="砾"]马克维茨是临时顶上这个位置的，在此之前，他只是一个默默无闻的小角色......
+[name="グラベル"]そこで、代わりにそのポジションへ臨時で就くことになったのが、マルキェヴィッチよ。それまでは全く無名の誰とも分からない人物だった。
+[name="Gravel"]Malkiewicz was given that position in turn, but before that, he was a complete nobody, a minor player at best.
+[name="그라벨"]말키위츠는 임시로 그 자리를 맡은 사람이야. 그전까지는 별로 알려지지 않은 인물이었거든……
 
 [name="砾"]虽然他的身上还保留有一些未经洗礼的人情味......不过在现在这个环境，能持续多久可说不太好。
+[name="グラベル"]そのせいか、洗礼を受けてない人間味みたいなものがまだ残ってるようだけど……今の環境にいたら、どれだけ持つかわからないわ。
+[name="Gravel"]Though he still has a bit of that unvarnished human touch... I don't think it'll last very long in the environment he's in.
+[name="그라벨"]속세의 세례를 받지 않아 인간미가 아직 남아있긴 하지만…… 이런 환경에서 그런 모습이 얼마나 갈지는 모르지.
 
 [Decision(options="你认为罗德岛的计划，有可行性吗？", values="1")]
+[Decision(options="ロドスの計画は、実行できると思うか？", values="1")]
+[Decision(options="Do you think Rhodes Island's plan is feasible?", values="1")]
+[Decision(options="로도스 아일랜드의 계획은 실행 가능성이 있을까?", values="1")]
 
 [name="砾"]......
+[name="グラベル"]……
+[name="Gravel"]......
+[name="그라벨"]……
 
 [name="砾"]先不提这个......您真的信任我吗？
+[name="グラベル"]答える前に聞いておきたいんだけど……あたしのこと、本当に信用してくれてる？
+[name="Gravel"]Let's set that aside for now... So, do you really trust me?
+[name="그라벨"]그 얘긴 나중에 하고…… 정말로 날 믿긴 하는 거야?
 
 [name="砾"]联合会的渗透并非某种组织形式上的渗透......在金钱和确实发生改变的社会面前，即使联合会什么也不做，骑士也会倒向资本。
+[name="グラベル"]――連合会は、組織的な干渉によって人々を掌握しているわけじゃないのよ。彼らが何もしなくても、お金と、変化する社会を前にすれば騎士は資本に傾いていく。だから連合会は手強いの。
+[name="Gravel"]The infiltration of the General Chamber isn't some kind of conspiracy. In the face of money and a changing society, even if the K.G.C.C. did nothing, the knights would still fall to capital.
+[name="그라벨"]연합회의 침투는 어떤 조직적인 방식이 아니야…… 돈과 확실하게 발전하는 사회 앞에서 연합회가 아무것도 하지 않아도, 기사는 자연스럽게 자본 쪽으로 기울걸.
 
 [name="砾"]监正会对罗德岛礼遇的原因几乎和耀骑士密不可分。即使如此，您这样缜密的人......如果不小心对待监正会，是会吃亏的。
+[name="グラベル"]監査会がロドスを手厚くもてなすのは、耀騎士の存在があるからこそよ。そうであっても、あなたのような周到な人は、より注意深く監査会に対応しないと、痛い目見るわよ。
+[name="Gravel"]The courtesy that the Adeptus Sprawiedliwi has extended to Rhodes Island is almost certainly linked to the Radiant Knight. That being the case, should a person as particular as you... inadvertently fail to return that courtesy, you'll be the one to suffer.
+[name="그라벨"]감정회가 로도스 아일랜드를 대우하는 이유도 다 빛의 기사 때문이야. 그렇다고 해도 박사처럼 치밀한 사람이…… 감정회를 잘못 상대했다가는 손해 볼 수도 있어.
 
 [Decision(options="感谢你的提醒。;这我当然知道。", values="1;2")]
+[Decision(options="忠告に感謝するよ。;もちろん、わかっているさ。", values="1;2")]
+[Decision(options="Thanks for the warning.;That much I already know.", values="1;2")]
+[Decision(options="충고 고마워.;그건 당연히 알고 있어.", values="1;2")]
 
 [Decision(options="那么，能告诉我你的意见吗？;所以你的意见是？", values="1;2")]
+[Decision(options="では次に、君の考えを聞かせてもらえるかな？;それで、君の意見は？", values="1;2")]
+[Decision(options="So, what are you thinking?;What should I do then?", values="1;2")]
+[Decision(options="그럼, 네 의견을 들려줄래?;그래서 네 의견은?", values="1;2")]
 
 [name="发言人马克维茨"]......锈铜骑士......又，复赛了？
+[name="代弁者マルキェヴィッチ"]……錆銅騎士が……復帰、したのですか？
+[name="Spokesman Malkiewicz"]Brassrust Knight... is going to fight again?
+[name="대변인 말키위츠"]……녹슨 구리의 기사가…… 또, 다시 복귀했나요?
 
 [name="企业员工"]是的......毕竟骑士协会根据录像和其他骑士的证词，向国民院证明那位感染者不过是自己过度施法导致的疾病恶化。
+[name="企業職員"]はい……騎士協会は映像やほかの騎士たちの証言に基づいて、あの件は「感染者自身が過度なアーツ使用によって病状悪化を招いた結果」だと国民議会に証明したようです。
+[name="A Corporate Employee"]Yes... Based on video evidence and the testimonies from other knights, the Knights Association proved to the National Council that what happened to that Infected was an exacerbation of his disease due to excessive casting.
+[name="기업 직원"]네…… 기사 협회에서 영상이나 다른 기사의 증언을 토대로, 그 감염자 기사가 스스로 과도하게 아츠를 시전해 병이 악화한 거라고 국민원에 증명했으니까요.
 
 [name="企业员工"]死因也是“矿石病”，锈铜骑士并没有直接责任，所以......
+[name="企業職員"]死因も「鉱石病」であるため、錆銅騎士に直接の責任はない、とのことで……
+[name="A Corporate Employee"]Because the cause of death was 'Oripathy,' Brassrust Knight was not directly responsible, so...
+[name="기업 직원"]그리고, 사인도 '광석병'이라서 녹슨 구리의 기사는 직접적인 책임이 없다고 하니……
 
 [name="发言人马克维茨"]......就算这是真的......那难道我们就该......
+[name="代弁者マルキェヴィッチ"]……っ、だとしても……私たちは……
+[name="Spokesman Malkiewicz"]Even if that was the case... then we should at least...
+[name="대변인 말키위츠"]……정말 그렇다고 해도…… 우리가……
 
 [name="发言人马克维茨"]你先出去吧。
+[name="代弁者マルキェヴィッチ"]……すみません。先に出ていてもらえますか。
+[name="Spokesman Malkiewicz"]Leave me.
+[name="대변인 말키위츠"]먼저 나가계세요.
 
 [name="企业员工"]好的。
+[name="企業職員"]かしこまりました。
+[name="A Corporate Employee"]Very well.
+[name="기업 직원"]알겠습니다.
 
 [name="发言人马克维茨"]......
+[name="代弁者マルキェヴィッチ"]……
+[name="Spokesman Malkiewicz"]......
+[name="대변인 말키위츠"]……
 
 [name="感染者骑士"]......
+[name="感染者騎士"]……
+[name="An Infected Knight"]......
+[name="감염자 기사"]……
 
 [name="发言人马克维茨"]......拨通国民院副审官的......私人电话。
+[name="代弁者マルキェヴィッチ"]……国民議会副審官の……プライベート回線に繋いでくれ。
+[name="Spokesman Malkiewicz"]Put me through to the associate justice of the National Council... on a private line.
+[name="대변인 말키위츠"]……국민원 부심사관한테 연락해줘…… 개인 전화야.
 
 [Subtitle(text="电话忙音响了两声。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="通話中を示すビープ音が二度鳴り響く。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The busy tone rings out twice from the phone.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="통화 연결음이 두 번 울렸다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="马克维茨突然回想起了自己童年的时候，父亲的书房桌上，摆着一台黄铜色的电话。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="この時、マルキェヴィッチはふと思い出した。少年時代、父の書斎の机に黄銅色の電話が置かれていたことを――", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Malkiewicz suddenly flashes back to his childhood, to the copper-colored telephone that sat on the desk in his father's study.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="말키위츠는 문득 어렸을 때 아버지 서재 책상 위에 있던 황동색 전화기가 떠올랐다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="电话那头的声音"]......发言人阁下，您想出结果了？
+[name="電話の声"]……お待たせしました、代弁者様。お電話いただけたということは……先日の件、結論が出たのですね？
+[name="A Voice from the Phone"]Spokesman, have you come up with a solution?
+[name="수화기 너머 목소리"]……대변인님, 결론을 내리셨나요?
 
 [name="发言人马克维茨"]只要恰尔内先生不再掌握证据，就可以了，对吧？
+[name="代弁者マルキェヴィッチ"]……要するに、チャルニー様が二度と証拠を握るような事態が起きないようにすればいいのでしょう？
+[name="Spokesman Malkiewicz"]As long as Mr. Czarny no longer has the evidence, it's fine, right?
+[name="대변인 말키위츠"]차르니 씨가 다시는 증거를 잡지 못하도록 하면 된다, 이거죠?
 
 [name="电话那头的声音"]当然......可是我得提醒您，如果事后暴露了，你我都难辞其咎。
+[name="電話の声"]仰る通りです。……ただ、一点ご留意いただきたいのですが――このことが明るみに出てしまえば、責任の矛先はあなたと私に向けられます。
+[name="A Voice from the Phone"]Of course... But as a friendly reminder, if this goes public late, we will both end up taking the blame.
+[name="수화기 너머 목소리"]그렇죠…… 하지만 이걸 아셔야 합니다. 나중에 일이 드러나면 당신이나 나나 책임을 피할 수 없을 겁니다.
 
 [name="电话那头的声音"]所以，杀死他，是最安全的。
+[name="電話の声"]ですから、彼を殺すことこそが最も安全な手段なのですよ。
+[name="A Voice from the Phone"]Therefore, the safest option... is to get rid of him.
+[name="수화기 너머 목소리"]그러므로, 그를 죽이는 게…… 가장 안전하죠.
 
 [name="发言人马克维茨"]我向您保证。
+[name="代弁者マルキェヴィッチ"]――保証、いたします。
+[name="Spokesman Malkiewicz"]You have my assurances.
+[name="대변인 말키위츠"]약속드리죠.
 
 [name="发言人马克维茨"]保证我确实......可以堵住恰尔内先生的嘴。
+[name="代弁者マルキェヴィッチ"]確実に……チャルニー様の口封じをすると、お約束します。
+[name="Spokesman Malkiewicz"]My assurances... that I can keep Mr. Czarny muzzled.
+[name="대변인 말키위츠"]확실하게…… 차르니 씨가 입을 다물도록 약속하죠.
 
 [name="发言人马克维茨"]具体手段，您就不要过问了。
+[name="代弁者マルキェヴィッチ"]ですが、その具体的な手段については口出しをしないでいただけますか。
+[name="Spokesman Malkiewicz"]There's no need to concern yourself with my methods.
+[name="대변인 말키위츠"]대신, 구체적인 수단은 캐묻지 말아주세요.
 
 [name="电话那头的声音"]好吧......如果您能拿出诚意的话。
+[name="電話の声"]いいでしょう……誠意さえ示していただけるのなら、ね。
+[name="A Voice from the Phone"]Very well then... As long as you can demonstrate your sincerity.
+[name="수화기 너머 목소리"]알겠습니다…… 당신의 성의를 보여주신다면.
 
 [name="电话那头的声音"]明天我就会着手重审奥尔默·英格拉的案件，在七天之内，只要您能给我一个足够有诚意的答案......
+[name="電話の声"]では明日、オルマー・イングラの再審に着手します。七日以内に、あなたから十分誠意あるご回答をいただけましたら……
+[name="A Voice from the Phone"]Tomorrow, I will begin the retrial of Olmer Ingra's case. If you can do that within seven days...
+[name="수화기 너머 목소리"]내일 바로 올머 잉그라의 재심에 착수하겠습니다. 7일 이내에, 당신으로부터 충분히 성의 있는 답변을 받을 수 있다면……
 
 [name="电话那头的声音"]奥尔默·英格拉就会从此消失在骑士竞技之中。
+[name="電話の声"]オルマー・イングラは騎士競技から姿を消すことになるでしょう。
+[name="A Voice from the Phone"]Olmer Ingra will thence disappear from the Major.
+[name="수화기 너머 목소리"]올머 잉그라는 이제 기사 스포츠에서 사라질 겁니다.
 
 [name="发言人马克维茨"]......诚意。
+[name="代弁者マルキェヴィッチ"]……誠意。
+[name="Spokesman Malkiewicz"]...I will.
+[name="대변인 말키위츠"]성의…… 말입니까.
 
 [name="电话那头的声音"]是的。至少，您得向我证明恰尔内先生“确实永远不会背叛”。
+[name="電話の声"]ええ。あなたには、チャルニー様が確実に、二度と裏切らないということを証明していただかなければなりません。
+[name="A Voice from the Phone"]Right. At the very least, you must prove to me that Mr. Czarny truly 'would never betray us.'
+[name="수화기 너머 목소리"]네. 적어도 차르니 씨가 '영원히 배신하지 않는다'는 것을 증명해야 합니다.
 
 [Subtitle(text="马克维茨记得，记得那台黄铜色的电话。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="マルキェヴィッチは、あの黄銅色の電話を思い出した。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Malkiewicz remembers. He remembers that bronze-colored telephone.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="말키위츠는 그 황동색 전화기를 기억하고 있다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="那时的电话还没有如今普及，电缆绕过了酒吧、旅社与轰鸣的工地。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="当時はまだ今ほど電話が普及していなかった。通信用のケーブルはホテルやバー、轟音が響く工事現場を巻きつくように張り巡らされていた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Telephones were not as popular back then, and cables still coursed above bars, hostels, and roaring construction sites.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그때는 지금처럼 전화기가 보급되지 않아, 케이블이 술집, 여행사와 시끄러운 공사현장 주변에 깔려 있었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="铃声响起后，悲欢喜怒也会悄然降临。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="呼び鈴が鳴るたび、喜びと悲しみが静かに訪れる。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="When it rang, it would bring joys and sorrows alike.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="벨 소리가 울릴 때마다 온갖 희로애락이 조용히 찾아왔다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="这就是卡西米尔的生活......现代生活。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="あの状態が、これがカジミエーシュの現代の一般的な生活なのだ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="That was life in Kazimierz... Life in modernity.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="이게 바로 카시미어의 생활이다…… 현대의 생활.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="发言人马克维茨"]......我想您应该明白一件事情......
+[name="代弁者マルキェヴィッチ"]……一つ、ご理解いただかねばならないようですね。
+[name="Spokesman Malkiewicz"]There's one thing I hope you understand...
+[name="대변인 말키위츠"]……하지만 이건 꼭 알려드리고 싶네요……
 
 [name="发言人马克维茨"]您是在挑衅一位发言人。
+[name="代弁者マルキェヴィッチ"]あなたの発言は、一人の代弁者への挑発にあたります。
+[name="Spokesman Malkiewicz"]You're provoking a spokesman.
+[name="대변인 말키위츠"]당신은 지금 대변인을 도발하고 있습니다.
 
 [name="电话那头的声音"]......
+[name="電話の声"]……
+[name="A Voice from the Phone"]......
+[name="수화기 너머 목소리"]……
 
 [name="发言人马克维茨"]您和我心里都明白，我只是临危受命，我在董事会里并没有靠山。
+[name="代弁者マルキェヴィッチ"]確かに、私は急な命令でこの立場にいる人間ですし、理事会に後ろ盾となる人がいるわけでもありません。
+[name="Spokesman Malkiewicz"]You know as well as I do that I'm only a stand-in. I enjoy no support among the Board of Directors.
+[name="대변인 말키위츠"]당신도 알다시피 저는 갑자기 명령을 받아 지금 이 자리에 있고, 이사회에도 의지할 백이 없습니다.
 
 [name="发言人马克维茨"]但这不代表，我会任您宰割。
+[name="代弁者マルキェヴィッチ"]しかしそれは、あなたが私を軽んじてもいい理由にはなり得ないのです。
+[name="Spokesman Malkiewicz"]But that does not mean that I will abide your butchery.
+[name="대변인 말키위츠"]그렇다고 당신 멋대로 저를 휘두를 수 있다는 말은 아닙니다.
 
 [name="发言人马克维茨"]无胄盟的指挥权......曾在恰尔内先生手里。那么现在......
+[name="代弁者マルキェヴィッチ"]無冑盟の指揮権は、チャルニー様の手に委ねられていましたよね。となれば、今は……
+[name="Spokesman Malkiewicz"]The power to command the Armorless Union... was once in the hands of Mr. Czarny. And now...
+[name="대변인 말키위츠"]아머레스 유니온의 지휘권은…… 전에 차르니 씨에게 있었던 걸로 알고 있습니다. 그렇다면 지금은……
 
 [name="电话那头的声音"]......
+[name="電話の声"]……！
+[name="A Voice from the Phone"]......
+[name="수화기 너머 목소리"]……
 
 [name="电话那头的声音"]......请您不要误会，我并不是在挑战您的权力。
+[name="電話の声"]どうか誤解なさらないでください。あなたの権力に対して、楯突こうという意図など……滅相もないことです。
+[name="A Voice from the Phone"]Please don't mistake my intentions. I'm not trying to challenge your authority.
+[name="수화기 너머 목소리"]……아아, 오해하지 마십시오. 저는 당신의 권력에 도전하는 게 아닙니다.
 
 [Subtitle(text="权力。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="権力。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Authority.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="권력.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="电话那头的声音"]我只是提醒您，确保我们日后的合作顺畅。
+[name="電話の声"]単に、今後の円滑な協力関係のために、と考えてお伝えしただけのことでした。
+[name="A Voice from the Phone"]I'm simply reminding you.. to make sure our future cooperation goes smoothly.
+[name="수화기 너머 목소리"]저는 단지 우리의 향후 협력이 원활하게 이루어지길 바라는 마음에서 말씀드렸을 뿐입니다.
 
 [name="电话那头的声音"]既然您这么说了，那么我也不好咄咄相逼。这确实不太礼貌。
+[name="電話の声"]ですからそこまで仰るのなら、これ以上強く申し上げる気はありません。そのようなことをすれば、失礼に当たりますし……
+[name="A Voice from the Phone"]After all you've said, it wouldn't behoove me to run amok. That would be too discourteous after all.
+[name="수화기 너머 목소리"]그렇게까지 말씀하신다면 저도 강하게 밀어붙일 생각은 없습니다. 너무 실례가 되니까요.
 
 [name="电话那头的声音"]只要您做担保就行。奥尔默·英格拉说到底只是一个腐朽贵族，他不值得我们伤了感情，您说是吧？
+[name="電話の声"]あなたが保証してくださるなら、それだけで結構です。オルマー・イングラのような腐敗した貴族のために、我々が仲たがいする必要はない、そうですよね？
+[name="A Voice from the Phone"]All I need is your assurance. Olmer Ingra is just another corrupt noble, and it hardly makes sense for someone like that to get in the way of our relationship, yes?
+[name="수화기 너머 목소리"]아무튼, 당신이 보증만 해주시면 됩니다. 솔직히 올머 잉그라는 부패한 귀족이죠. 그 사람 때문에 우리 사이가 틀어질 필요는 없지 않습니까?
 
 [name="发言人马克维茨"]......没错。
+[name="代弁者マルキェヴィッチ"]……ええ、そうですね。
+[name="Spokesman Malkiewicz"]Indeed.
+[name="대변인 말키위츠"]……그렇죠.
 
 [name="发言人马克维茨"]那么，我们似乎没什么好聊的了。
+[name="代弁者マルキェヴィッチ"]さて、それでは――これ以上お話しすることもないようですし、私はこれで。
+[name="Spokesman Malkiewicz"]Then, there's nothing more for us to talk about.
+[name="대변인 말키위츠"]그럼, 이제 더 할 얘기가 없겠군요.
 
 [name="电话那头的声音"]——！马克维茨先生，请等——
+[name="電話の声"]――！　マルキェヴィッチ様、お待ちくださ――
+[name="A Voice from the Phone"]Wait! Hold on, Mr. Malkiewicz, please––
+[name="수화기 너머 목소리"]……! 말키위츠 선생님, 잠시……
 
 [name="发言人马克维茨"]......
+[name="代弁者マルキェヴィッチ"]……
+[name="Spokesman Malkiewicz"]......
+[name="대변인 말키위츠"]……
 
 [name="发言人马克维茨"]............
+[name="代弁者マルキェヴィッチ"]…………
+[name="Spokesman Malkiewicz"]............
+[name="대변인 말키위츠"]……
 
 [name="发言人麦基"]......你笑了。
+[name="代弁者マッキー"]……笑っているのかい。
+[name="Spokesman McKee"]You smiled.
+[name="대변인 맥키"]……웃고 있네.
 
 [name="发言人马克维茨"]......！麦基先生，您什么时候......
+[name="代弁者マルキェヴィッチ"]……！　マッキー様、いつの間にここへ……
+[name="Spokesman Malkiewicz"]Woah! Mr. McKee, when did you...
+[name="대변인 말키위츠"]……! 맥키 선생님, 언제부터……
 
 [name="发言人麦基"]我从没见过你露出那样的笑容，马克维茨兄。
+[name="代弁者マッキー"]――そんなふうに笑う君は初めて見たよ、マルキェヴィッチ君。
+[name="Spokesman McKee"]I've never seen you smile like that before, my man.
+[name="대변인 맥키"]그런 미소는 처음 봐, 말키위츠.
 
 [name="发言人马克维茨"]您有什么事？
+[name="代弁者マルキェヴィッチ"]ご用があって、いらしたのですよね？
+[name="Spokesman Malkiewicz"]Did you need something?
+[name="대변인 말키위츠"]무슨 일이시죠?
 
 [name="发言人麦基"]当然，无胄盟的命令已经正式下达，你我还是和这件事有一些关系的。不过......
+[name="代弁者マッキー"]ああ、もちろん。無冑盟内の命令は、正式に下されたよ。しかし君も私もまだこの件の関係者だとはいえ……
+[name="Spokesman McKee"]Naturally, the Armorless Union has already received their orders, and we still have a role to play in these matters. However...
+[name="대변인 맥키"]아무렴, 아머레스 유니온의 명령이 정식으로 하달되었으니 이 일은 우리랑 어느 정도 관련이 있긴 하지. 하지만……
 
 [name="发言人麦基"]......算了，没什么。继续工作吧。
+[name="代弁者マッキー"]……いや、何でもない。仕事に戻ってくれ。
+[name="Spokesman McKee"]Actually, never mind. Carry on with your work.
+[name="대변인 맥키"]……됐어, 아니다. 일이나 계속해.
 
 [name="发言人马克维茨"]......好，麦基先生。
+[name="代弁者マルキェヴィッチ"]……わかりました、マッキー様。
+[name="Spokesman Malkiewicz"]Alright, Mr. McKee.
+[name="대변인 말키위츠"]……네, 맥키 선생님.
 
 [name="发言人麦基"]......
+[name="代弁者マッキー"]……
+[name="Spokesman McKee"]......
+[name="대변인 맥키"]……
 
 [name="发言人麦基"]权力永远令人甘之如饴，是吧，马克维茨。
+[name="代弁者マッキー"]マルキェヴィッチ君。権力というのは、どこまでも甘く、舌に心地いいものだな。
+[name="Spokesman McKee"]Authority is the sweetest taste. Wouldn't you agree, Mr. Malkiewicz?
+[name="대변인 맥키"]권력이란 언제나 달콤하지. 안 그래, 말키위츠?
 
 [name="罗伊"]......晚上的街道还真是适合散步。
+[name="ロイ"]……夜の街ってのは、散歩にはもってこいだな。
+[name="Roy"]Nothing beats strolling through these streets in the evening.
+[name="로이"]……밤거리는 산책하기 딱 좋다니까.
 
 [name="罗伊"]如果不用工作的话。
+[name="ロイ"]ま、仕事さえなければの話だが。
+[name="Roy"]As long as there's no work to be done, that is.
+[name="로이"]일만 아니라면 말이지.
 
 [name="无胄盟成员"]报告，莫妮克阁下已经带队到达指定地点。
+[name="無冑盟構成員"]ご報告します。モニーク様が、指定の位置へ隊を率いて到着されました。
+[name="An Armorless Union Member"]Reporting. Monique has led her team to the designated location.
+[name="아머레스 유니온 멤버"]보고합니다, 모니크 님께서 소대를 이끌고 이미 지정된 위치에 도착하셨습니다.
 
 [name="无胄盟成员"]本次行动目标已经明确，现在藏身于这块地区的感染者，约莫在百人左右。
+[name="無冑盟構成員"]斥候が本作戦のターゲットを確認いたしました。対象となる感染者たちは現在この地区に潜伏中。約百人前後いるようです。
+[name="An Armorless Union Member"]The target of this operation has been confirmed, and there are now about a hundred Infected hidden throughout the area.
+[name="아머레스 유니온 멤버"]이번 작전의 목표는 명확합니다. 현재 이 구역에 숨어 있는 감염자는 약 백 명입니다.
 
 [name="罗伊"]啊，能杀就杀吧，上头说了，按数量算钱。
+[name="ロイ"]了解、殺れるだけ殺っといてくれ。上が数に応じて金払うって言ってるからさ。
+[name="Roy"]Ah. Score whatever kills you can. As I said before, the pay is determined by headcount.
+[name="로이"]하아, 죽일 수 있으면 다 죽여. 위에서도 머릿수에 따라 돈 준다고 했으니.
 
 [name="罗伊"]老规矩，不许对自己人动手。
+[name="ロイ"]ああ、いつも通り身内には手ぇ出すんじゃねーぞ。
+[name="Roy"]Same old rules apply, no friendly fire.
+[name="로이"]늘 하던 대로, 자기편은 건드리지 말고.
 
 [name="无胄盟成员"]是。
+[name="無冑盟構成員"]わかりました。
+[name="An Armorless Union Member"]Yessir.
+[name="아머레스 유니온 멤버"]네.
 
 [name="感染者骑士A"]喂、喂！我听说有人看见无胄盟了！
+[name="感染者騎士A"]なあ、おい！　無冑盟を見た奴がいるってよ！
+[name="An Infected Knight A"]Hey, hey! We've got Armorless!
+[name="감염자 기사 A"]야! 아머레스 유니온을 본 사람이 있대!
 
 [name="感染者骑士B"]什、什么......不会吧，这里可是卡瓦莱利亚基的中心！他们敢大开杀戒吗！？
+[name="感染者騎士B"]う、嘘だろ……！？　ここはカヴァレリエルキのど真ん中だぞ！　こんな場所で大っぴらに殺しをやろうってのか！？
+[name="An Infected Knight B"]Wh-What? You're kidding, right? This is the middle of Kawalerielki! They wouldn't dare start a bloodbath?!
+[name="감염자 기사 B"]뭐, 뭐야…… 말도 안 돼, 여긴 카봐렐리엘키의 중심이야! 여기서 대놓고 살인한다고!?
 
 [name="查丝汀娜"]......太少了。
+[name="ユスティナ"]……少なすぎる。
+[name="Justyna"]Not enough.
+[name="저스티나"]……너무 적어.
 
 [name="瑟奇亚克"]什么，野鬃不是如你们所愿吸引了无胄盟的注意吗？
+[name="シェブチック"]お前たちの目論見通り、野鬃が無冑盟の注意を引いているからではないのか？
+[name="Szewczyk"]What? Wasn't Wild Mane supposed to distract the Armorless like you wanted?
+[name="셰브치크"]뭐지? 거친 갈기가 너희 바람대로 아머레스 유니온의 주의를 끌지 않았냐?
 
 [name="查丝汀娜"]但是，数量太少了。
+[name="ユスティナ"]それにしても、数が少なすぎるよ。
+[name="Justyna"]But, it's not enough.
+[name="저스티나"]그런데 수가 너무 적어.
 
 [name="查丝汀娜"]是我们看漏了吗......
+[name="ユスティナ"]もしかして、見落とした……？
+[name="Justyna"]Did we overlook something...?
+[name="저스티나"]우리가 놓친 게 있나……
 
 [name="瑟奇亚克"]......
+[name="シェブチック"]……
+[name="Szewczyk"]......
+[name="셰브치크"]……
 
 [name="瑟奇亚克"]做好最坏的准备，远牙。
+[name="シェブチック"]――最悪の事態に備えておけ、遠牙。
+[name="Szewczyk"]Prepare for the worst, Fartooth.
+[name="셰브치크"]최악의 상황에 대비해, 송곳니.
 
 [name="瑟奇亚克"]不要低估无胄盟。
+[name="シェブチック"]無冑盟は侮れん相手だからな。
+[name="Szewczyk"]Don't underestimate the Armorless.
+[name="셰브치크"]아머레스 유니온을 얕보면 안 돼.
 
 [name="感染者骑士A"]快，快走！
+[name="感染者騎士A"]急げ、早く逃げろ！
+[name="An Infected Knight A"]Run, run now!
+[name="감염자 기사 A"]빨, 빨리 도망가!
 
 [name="感染者骑士B"]冷静点，你看到了什么？
+[name="感染者騎士B"]落ち着け、何を見たってんだ？
+[name="An Infected Knight B"]Calm down. What did you see?
+[name="감염자 기사 B"]진정해, 대체 뭘 봤다는 거야?
 
 [name="感染者骑士A"]青、青、青色的长弓......
+[name="感染者騎士A"]あ、あお、青い弓だよ……っ！
+[name="An Infected Knight A"]B-B-Blue... A blue bow.
+[name="감염자 기사 A"]파, 파, 파란색 활이다……
 
 [name="感染者骑士A"]啊、啊！？开他娘什么玩笑！？
+[name="感染者騎士A"]うわっ、マジかよ！？　嘘だろ！？
+[name="An Infected Knight A"]Huh?! You're kidding!
+[name="감염자 기사 A"]어, 어엉!? 그게 말이 돼!?
 
 [name="感染者骑士A"]快，快告诉其他人，分头跑，躲回垃圾场里都没事！
+[name="感染者騎士A"]は、早くほかの連中にも伝えるんだ！　散らばって逃げるか、ゴミ捨て場にでも隠れろ、って！
+[name="An Infected Knight A"]H-Hurry, tell the others, spread out and run! Hide in the garbage dumps if you have to!
+[name="감염자 기사 A"]얼, 얼른 다른 사람한테도 알려, 흩어져서 움직이라고. 쓰레기장에라도 숨어. 그나마 괜찮을 거야!
 
 [name="感染者骑士A"]让那些普通感染者不要反抗，千万不要反抗——
+[name="感染者騎士A"]それから、普通の感染者たちには抵抗もさせちゃダメだ！　絶対に刃向かうなって言っておかないと――
+[name="An Infected Knight A"]Tell the Infected civilans to not resist. They can't resist, no matter what––
+[name="감염자 기사 A"]일반 감염자는 반항하지 말라고 해. 절대 반항하면 안 돼……
 
 [name="感染者骑士B"]现、现、现在谁能联系到红松骑士团......快......
+[name="感染者騎士B"]だだ、誰か、今すぐレッドパイン騎士団に連絡できる奴はいないか……！？　早くこのことを……！
+[name="An Infected Knight B"]N-Now, if there's anyone who can contact Pinus Sylvestris... Please hurry...
+[name="감염자 기사 B"]지, 지, 지금 피누스 실베스트리스 기사단에 연락되는 사람 있을까…… 빨리……
 
 [name="罗伊"]......哼哼哼......哼哼......
+[name="ロイ"]……フンフフ～ン……♪
+[name="Roy"]Haha... Ahahaha...
+[name="로이"]……흥흥…… 흥흥흥……
 
 [name="无胄盟成员"]报告，发现三名感染者。
+[name="無冑盟構成員"]ご報告します。感染者三名を発見しました。
+[name="An Armorless Union Member"]Reporting. We found three Infected.
+[name="아머레스 유니온 멤버"]보고합니다, 감염자 세 명을 발견했습니다.
 
 [name="罗伊"]哼哼哼......哼哼......
+[name="ロイ"]フンフフン……♪　フフ～ン……♪
+[name="Roy"]Hahaha... Haha...
+[name="로이"]흐으응…… 흥흥……
 
 [name="罗伊"]对了，我有提过董事会的报价吗？
+[name="ロイ"]あ。そういや、理事会が提示してきた報酬のこと、伝えたっけ？
+[name="Roy"]Right, did I tell you about the offer I got from the Board of Directors?
+[name="로이"]참, 이사회가 제시한 가격을 내가 알려 줬던가?
 
 [name="罗伊"]一个非法感染者三百枚金币，感染者骑士翻倍。
+[name="ロイ"]お上が仰るには、不法居留感染者一人につき金貨三百枚。それが感染者騎士なら、倍出すってよ。
+[name="Roy"]300 gold for an illegal Infected. Twice that for an Infected knight.
+[name="로이"]불법 감염자 한 명당 300 금화, 감염자 기사는 그 2배다.
 
 [name="无胄盟成员"]别跑！
+[name="無冑盟構成員"]待て！
+[name="An Armorless Union Member"]Stop right there!
+[name="아머레스 유니온 멤버"]어딜 도망가!
 
 [name="感染者骑士"]......该死！被发现了！
+[name="感染者騎士"]……クソッ！　見つかった！
+[name="An Infected Knight"]Dammit! They found me!
+[name="감염자 기사"]……젠장! 들켰다!
 
 [name="罗伊"]......一个感染者值一张特锦赛门票。一个感染者骑士值半辆好车。
+[name="ロイ"]……感染者一人で、メジャーのチケット一枚分。感染者騎士一人で高級車の半分くらいの額になるわけか。
+[name="Roy"]Each Infected is worth a ticket to the Major. An Infected knight is worth half a good car.
+[name="로이"]……감염자 한 명이면 토너먼트 티켓 한 장이고, 감염자 기사 한 명이면 자동찻값의 반은 되지.
 
 [name="罗伊"]那么。
+[name="ロイ"]だったら……
+[name="Roy"]So.
+[name="로이"]그렇다면.
 
 [name="罗伊"]一个报价单之外的特殊人物，我们该怎么处理呢。
+[name="ロイ"]固定の値札がついてない特別な相手には、どう対処したもんかな。
+[name="Roy"]How should we deal with a special individual who isn't in that price schedule?
+[name="로이"]그 외의 특수한 인물은 어떻게 처리할까?
 
 [name="无胄盟成员"]呃？
+[name="無冑盟構成員"]えっ……？
+[name="An Armorless Union Member"]Huh?
+[name="아머레스 유니온 멤버"]네?
 
 [name="罗伊"]你们接受了几种手势暗语的训练？
+[name="ロイ"]なあ、お前らってハンドサインは何種類教わってる？
+[name="Roy"]How many forms of code signing have you been trained in?
+[name="로이"]너희들 수신호 훈련 몇 가지나 받았어?
 
 [name="无胄盟成员"]啊，我记得好像是三套暗语......
+[name="無冑盟構成員"]ええと……三種類ほど、ですかね……
+[name="An Armorless Union Member"]Um, I think I remember how to use three.
+[name="아머레스 유니온 멤버"]어, 아마 세 종류 배웠었나……
 
 [name="罗伊"]嗯，算了，都忘了吧，如果你们看见我......嗯......打响指的动作。
+[name="ロイ"]ふーん、わかった。そんならそいつは一旦忘れてくれ。もし俺が……そーだなあ……指を鳴らしたら、にしておくか。
+[name="Roy"]Hmm... Forget it. No need for any of that. If you see me... Mmm... Yes, snap my fingers.
+[name="로이"]음, 뭐 됐다. 다 잊어버려. 내가…… 음…… 손가락을 튕긴다.
 
 [name="罗伊"]看见我打响指的话，就立刻行动，别犹豫。
+[name="ロイ"]いいか？　俺が指を鳴らしたら即行動しろ。絶対に迷うな。
+[name="Roy"]If you see me snap my fingers, act immediately. No hesitation.
+[name="로이"]내가 손가락을 튕기면 즉시 움직여. 망설이지 말고.
 
 [name="无胄盟成员"]是。
+[name="無冑盟構成員"]了解しました。
+[name="An Armorless Union Member"]Yessir.
+[name="아머레스 유니온 멤버"]네.
 
 [name="罗伊"]好啦，我上去打声招呼。
+[name="ロイ"]よーしよし。そいじゃ、俺は軽～く挨拶でもしてくるぜ。
+[name="Roy"]Alright. I'll head up to say hello.
+[name="로이"]좋아. 그럼 난 인사나 하고 올까.
 
 [Subtitle(text="青金罗伊向前走去，路灯几番闪烁。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="「ラズライト」ロイが歩みを進めると、街灯が幾度か明滅する。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Lazurite Roy walks forward, and the street lights flicker several times.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="라주라이트 로이가 앞을 향해 걸어가자 가로등이 깜빡였다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="青砖一路延伸，街道上空无一人。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="延々と続くレンガの道には、まるで人の気配がない。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The blue-brick road stretches forward, not a single person on the street.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="푸른 바닥 타일은 앞으로 쭉 뻗어졌고, 거리에는 아무도 없었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="冷清的街边有一张路边椅。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ひっそりとした通りの脇に、ベンチが一つ置かれている。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="There is a bench on the side of the desolate road.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="스산한 거리 옆에 있는 한 벤치.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="椅子上又坐着一个冷清的人。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="そして、そこには――孤独な男が腰掛けていた。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="And upon the bench sits a desolate person.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그리고 그 벤치에 앉아있는 쓸쓸해 보이는 자.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="罗伊"]晚上好，一个美好的夜晚，对吧？
+[name="ロイ"]よ〜お兄さん。いい夜だな！　あんたもそう思うだろ？
+[name="Roy"]Good evening. And a wonderful one at that, yes?
+[name="로이"]안녕, 아름다운 밤이네. 그렇지?
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="罗伊"]打扰您看报了吗？今天的晚报可全是耀骑士的新闻。
+[name="ロイ"]おっと、新聞読むのに夢中だったか？　邪魔して悪かったな。今日の夕刊は耀騎士のニュースで持ちきりだもんなあ。
+[name="Roy"]Did you happen to see the news? Tonight, it's nothing but the Radiant Knight.
+[name="로이"]혹시 신문 읽는 거 방해했나? 오늘 저녁 신문에는 빛의 기사 소식밖에 없던데.
 
 [name="罗伊"]这附近一个人都没有，真冷清，听说这里最近可不太平......
+[name="ロイ"]しっかし、この辺は人っ子一人見当たらねーのな。まったく寒々しい眺めだ。聞いた話じゃ、最近はどうも物騒だっていうし。
+[name="Roy"]This place sure is empty. Haven't seen anyone else around. I hear it hasn't been too peaceful around these parts either.
+[name="로이"]근처엔 아무도 없고 정말 썰렁하네. 요즘 이곳이 안전하지 않다고 들었는데……
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="罗伊"]咳。
+[name="ロイ"]あ～……こほん。
+[name="Roy"]Ahem.
+[name="로이"]크흠.
 
 [name="罗伊"]您一个人在这里做什么?
+[name="ロイ"]ところであんた、一人寂しくこんな所で何やってんだ？
+[name="Roy"]What are you doing here all by yourself?
+[name="로이"]혼자 여기서 뭐 해?
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="罗伊"]......
+[name="ロイ"]……
+[name="Roy"]......
+[name="로이"]……
 
 [name="玛恩纳"]罗伊......我刚结束工作，只是在这里小憩片刻。
+[name="ムリナール"]ロイか。……先ほど仕事を終えたばかりでな。少し休憩していただけだ。
+[name="Młynar"]Roy... I just finished work. Just resting here for a spell.
+[name="무에나"]로이…… 난 일을 마치고 여기서 잠깐 쉬는 것뿐이야.
 
 [name="罗伊"]哎呀，原来您才下班啊，这个时间？您还怪辛苦的。
+[name="ロイ"]うっわあ～……今帰り？　こんな時間に？　遅くまでご苦労なこったな。
+[name="Roy"]My, did you only get off work just now, this late? What a workaholic.
+[name="로이"]아이고, 이제 퇴근하셨어? 이 시간에? 참 고생도 많네.
 
 [name="罗伊"]不过......您在这里有什么工作？
+[name="ロイ"]けどさあ……ここで何の仕事してたっての？
+[name="Roy"]But... What kind of work would you be doing around here?
+[name="로이"]그런데…… 여긴 무슨 일로 오셨대?
 
 [name="罗伊"]这附近应该只有感染者、非法移民和黑市贩子才对吧。
+[name="ロイ"]この辺にいる連中なんて、感染者か不法移民か……あとはせいぜい闇市の商人くらいだろ。
+[name="Roy"]The only folks around these parts are the Infected, illegal immigrants, and black market traffickers, right?
+[name="로이"]이 근처에는 감염자나 불법 이민자, 그리고 암시장 상인밖에 없는데.
 
 [name="玛恩纳"]只是在等人。
+[name="ムリナール"]私がここにいるのは、待ち合わせのためでしかない。
+[name="Młynar"]Just waiting for someone.
+[name="무에나"]사람을 기다리고 있어.
 
 [name="玛恩纳"]怎么，你连我等的是谁都要问吗？
+[name="ムリナール"]なんだ、その相手まで聞いてくるつもりか？
+[name="Młynar"]What, are you even going to ask who I'm waiting for?
+[name="무에나"]뭐야, 누굴 기다리는지까지 물어보게?
 
 [name="罗伊"]不，不，不，怎么会呢。
+[name="ロイ"]いやいや、そんなつもりない、ない！
+[name="Roy"]No, no, no, why would I?
+[name="로이"]아니, 아니. 설마, 그럴 리가.
 
 [name="罗伊"]等人......嗯，等人。难道是在等一位美丽的女性吗？哈哈，开个玩笑......
+[name="ロイ"]にしても、待ち合わせ……か。なるほどねえ。相手は美人の姉ちゃんとかか？　なーんつって。ハハッ、冗談よ。
+[name="Roy"]Waiting for someone, huh? Let me guess... you had a date with a beautiful lady? Haha, just kidding...
+[name="로이"]사람을 기다린다라…… 으음, 누굴까. 혹시 아름다운 여자분? 하하하, 농담이야……
 
 [name="罗伊"]但我们是有公务在身的。
+[name="ロイ"]……けどさ、実は俺たち公務があるんだ。
+[name="Roy"]But, we both have business here.
+[name="로이"]그런데 우리는 공무가 있어서 말이지.
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="罗伊"]得麻烦您和您的朋友，回避一下。
+[name="ロイ"]あんたとそのお友達には、ちょっとここを退いてもらえないかな～と思ってるんだけど、そこんとこどう？
+[name="Roy"]I'm afraid I have to ask you and your friend to step aside.
+[name="로이"]친구분이랑 같이 좀 피해주셔야겠는데.
 
 [name="玛恩纳"]......你办你的事，我办我的事。
+[name="ムリナール"]……仕事があるのなら好きにしろ。だが、私には私の用がある。
+[name="Młynar"]You mind your business, I mind my business.
+[name="무에나"]……넌 네 할 일 하고, 난 내 할 일 하면 돼.
 
 [name="罗伊"]你明白自己在说什么吧，玛恩纳。
+[name="ロイ"]ふぅん。わかって言ってんだろうな、ムリナール。
+[name="Roy"]Do you have any idea what you're saying, Młynar?
+[name="로이"]지금 무슨 말을 하는 건지 알잖아, 무에나.
 
 [name="玛恩纳"]难道我刚才是在用高卢语说话吗。
+[name="ムリナール"]同じことを二度言わせるな。それとも私の言葉がガリア語にでも聞こえたのか？
+[name="Młynar"]Was I speaking Gaulish?
+[name="무에나"]설마 아까 내가 가울어로 얘기했나?
 
 [name="罗伊"]......别这么说话嘛，您在这里，我手下那些人可会因为紧张而失误的。
+[name="ロイ"]……そういうわけじゃねーけどさ～。あんたがいると、俺の部下たちが緊張でミスっちゃうかもしんねーし、な？　頼むよ。
+[name="Roy"]Oh, come on. If you're here, my underlings might slip up because they're so nervous.
+[name="로이"]……뭐 또 그렇게 말해. 당신이 여기 있으면 내 부하들이 긴장해서 실수할까 봐 그러지.
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="罗伊"]唉。
+[name="ロイ"]はぁ～……
+[name="Roy"]Sigh...
+[name="로이"]하아.
 
 [name="罗伊"]......玛恩纳，你知道......如果现在我要杀你......得费多少功夫吗？
+[name="ロイ"]……今あんたを殺ろうとすりゃあ、どんだけ手を焼かされるかは……ご本人様ならよ～く知ってんだろ？
+[name="Roy"]Oh, Młynar, did you know... if I wanted to kill you right now... how little effort it'd take?
+[name="로이"]……무에나, 그거 알아? 내가 지금 당신을 죽이려면…… 얼마나 많은 시간을 들여야 할까?
 
 罗伊缓缓抬起了手。
+ロイがゆっくりと手を上げる。
+Roy slowly lifts his hand.
+로이는 천천히 손을 들었다.
 
 暗处，无胄盟的刺客已经蓄势待发。
+暗がりの中で無冑盟の刺客たちは既に準備を整えていた。
+In the dark, the Armorless Union assassins wait, poised to strike.
+어둠 속에는 준비를 마친 아머레스 유니온 자객들이 대기하고 있었다.
 
 也许只是错觉罢，这些深藏不露的隐秘大师，总感觉自己被一览无余。
+だがこの時、闇に溶け込んだ隠密のプロたちは、奇妙な感覚を覚えていた。『誰かに、見られている』あるいは錯覚に過ぎないかもしれないが、その場にいた全員がみな一様に錯覚に陥っていた。
+Though perhaps nothing than a faulty premonition, the masters of hiding in the shadows always feel most prone to being seen.
+기분 탓일 수도 있겠지만, 어둠 속에 숨어 있는 이 은폐의 마스터들은 왠지 자신들의 위치가 이미 들통난 것 같았다.
 
 玛恩纳·临光。
+目の前にいるのはムリナール・ニアールだ。
+Młynar Nearl.
+무에나 니어.
 
 他们开始祈祷，祈祷罗伊不要发出任何的信号——
+彼らは祈り始める。ロイが合図を出しませんように、と――
+They begin to pray, praying that Roy would not give any signals––
+그들은 기도하기 시작했다. 로이가 어떤 신호도 보내지 않기를……
 
 [name="罗伊"]——！
+[name="ロイ"]――！
+[name="Roy"]—!
+[name="로이"]……!
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 白角持剑的萨卡兹。
+そこへ、剣を携えた白い角のサルカズが現れた。
+A white-horned Sarkaz with a sword.
+검을 든 흰 뿔의 살카즈.
 
 [name="罗伊"]......
+[name="ロイ"]……
+[name="Roy"]......
+[name="로이"]……
 
 [name="罗伊"]............哈。
+[name="ロイ"]…………ハハッ……
+[name="Roy"]*Sigh*...
+[name="로이"]…………하.
 
 [name="罗伊"]还真是一位......美丽的女性呢。
+[name="ロイ"]あれは冗談だってのに……マジで美人の姉ちゃんじゃねーか。
+[name="Roy"]It really was... a beautiful lady, eh.
+[name="로이"]정말로…… 아름다운 아가씨였네.
 
 [name="闪灵"]我来晚了吗？
+[name="シャイニング"]もしや、遅刻しましたか？
+[name="Shining"]Am I late?
+[name="샤이닝"]제가 늦었나요?
 
 [name="玛恩纳"]不。
+[name="ムリナール"]いいや。
+[name="Młynar"]No.
+[name="무에나"]아니.
 
 [name="罗伊"]......
+[name="ロイ"]……
+[name="Roy"]......
+[name="로이"]……
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="闪灵"]......
+[name="シャイニング"]……
+[name="Shining"]......
+[name="샤이닝"]……
 
 [name="罗伊"]......
+[name="ロイ"]……
+[name="Roy"]......
+[name="로이"]……
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="闪灵"]......
+[name="シャイニング"]……
+[name="Shining"]......
+[name="샤이닝"]……
 
 [name="罗伊"]......
+[name="ロイ"]…………
+[name="Roy"]......
+[name="로이"]……
 
 [name="玛恩纳"]......看我做什么？
+[name="ムリナール"]……なぜこちらを見ている？
+[name="Młynar"]What are you looking at me for?
+[name="무에나"]……왜 날 쳐다봐?
 
 [name="玛恩纳"]你该去工作了，罗伊。
+[name="ムリナール"]仕事があるんだろう、ロイ。
+[name="Młynar"]Do your job, Roy.
+[name="무에나"]이제 일하러 가야지, 로이.
 
 [name="闪灵"]......
+[name="シャイニング"]……
+[name="Shining"]......
+[name="샤이닝"]……
 
 [name="罗伊"].........嗯......
+[name="ロイ"]…………あー、そうだなあ……
+[name="Roy"]Hm.
+[name="로이"]……으음……
 
 罗伊的视线与萨卡兹相交片刻。
+ロイの視線が、サルカズのそれと一瞬交差した。
+Roy's eyes meet with those of the Sarkaz for a moment.
+순간 로이와 살카즈의 시선이 마주쳤다.
 
 他在思考一件事情。
+彼は考える。
+There is only one thing on his mind.
+그는 한 가지 일을 생각하고 있었다.
 
 一会儿该怎么开溜，才不至于太过丢脸。
+なるべく恥をさらさずに、この場から逃げる方法を。
+How to strike up a conversation later, without embarrassing himself too much.
+이후 어떻게 도망가야 덜 창피할까.
 
 [name="罗伊"]哈哈，刚才我突然改变了想法。你看，好像后半夜要下雨，我可没带伞。
+[name="ロイ"]あー、そういや深夜に雨が降るらしいが傘を忘れてきちまったぜ。ハハ、ハハハハ……
+[name="Roy"]Haha, I suddenly had a change of heart. Turns out it'll rain later tonight, and I happened to forget my umbrella.
+[name="로이"]하하, 갑자기 생각이 바뀌었어. 저기, 곧 비가 올 것 같은데 나 우산을 안 가져왔거든.
 
 [name="罗伊"]不过......
+[name="ロイ"]……で。
+[name="Roy"]But...
+[name="로이"]그런데……
 
 [name="罗伊"]临光家族试图袒护感染者，我可以这么认为吗？
+[name="ロイ"]ニアール家は、感染者を庇護しようとしていると受け取っていいんだな？
+[name="Roy"]Should I take this as evidence that the Nearl family intends to shelter the Infected?
+[name="로이"]니어 가문이 감염자를 감싸려고 한다, 이렇게 이해해도 될까?
 
 [name="玛恩纳"]请便。
+[name="ムリナール"]勝手にしろ。
+[name="Młynar"]Take it however you'd like.
+[name="무에나"]마음대로.
 
 [name="闪灵"]......您......
+[name="シャイニング"]……あの……
+[name="Shining"]...You...
+[name="샤이닝"]……당신……
 
 [name="玛恩纳"]玛嘉烈又获胜了。
+[name="ムリナール"]また、マーガレットが勝利した。
+[name="Młynar"]Margaret won again.
+[name="무에나"]마가렛이 또 이겼네.
 
 [name="玛恩纳"]你应该阻止她。
+[name="ムリナール"]お前は彼女を止めるべきだろう。
+[name="Młynar"]You ought to stop her.
+[name="무에나"]네가 막았어야지.
 
 [name="闪灵"]......很抱歉。
+[name="シャイニング"]……申し訳ありません。
+[name="Shining"]Forgive me.
+[name="샤이닝"]……죄송합니다.
 
 [name="闪灵"]如果这是她想要做的，那么我会支持她......我会成为她的支柱。
+[name="シャイニング"]ですが、これがマーガレットさんの望みなら、私は彼女をお支えします……
+[name="Shining"]But if that is what she wills, then I will support her... I will be her pillar.
+[name="샤이닝"]하지만 마가렛 씨가 원하는 거라면 전 응원할 겁니다…… 마가렛 씨의 버팀목이 되어줄 거예요.
 
 [name="玛恩纳"]......你？一个萨卡兹......
+[name="ムリナール"]……お前のような一介のサルカズが？
+[name="Młynar"]You? You're a Sarkaz...
+[name="무에나"]……네가? 살카즈가?
 
 [name="玛恩纳"]......
+[name="ムリナール"]……
+[name="Młynar"]......
+[name="무에나"]……
 
 [name="玛恩纳"]感染者的事情，我就当已经通知过罗德岛了。
+[name="ムリナール"]感染者の件は、お前に伝達した以上、ロドスに知らせたも同然と捉えておく。
+[name="Młynar"]As for the Infected situation, I'll assume you already contacted Rhodes Island.
+[name="무에나"]감염자 일은 로도스 아일랜드에 이미 알린 것으로 해 둔다.
 
 [name="闪灵"]感谢您出手相助......无胄盟，是个强敌。
+[name="シャイニング"]はい。ご協力に感謝します……無冑盟は、強敵ですので。
+[name="Shining"]Your assistance is appreciated... The Armorless Union is a powerful enemy.
+[name="샤이닝"]도와주셔서 감사드립니다…… 아머레스 유니온은 강적이에요.
 
 [name="闪灵"]如果他执意要杀死躲藏在这附近的所有感染者，我想我们没有办法阻止。
+[name="シャイニング"]彼がこの付近の感染者たちを全員殺すつもりであれば、我々にそれを阻止するすべなどありませんでした。
+[name="Shining"]If he insisted on slaughtering every Infected hiding in this area, I fear we would be powerless to stop him.
+[name="샤이닝"]근처에 숨은 모든 감염자를 죽이겠다고 작정했다면, 아마 우리로서는 막을 방법이 없었을 겁니다.
 
 [name="玛恩纳"]......我只是坐在这罢了。
+[name="ムリナール"]……私は何もしていない。
+[name="Młynar"]I just wanted to sit here.
+[name="무에나"]……난 그냥 여기 앉아있는 거야.
 
 [name="玛恩纳"]仅此而已。
+[name="ムリナール"]ただ、ここに座っていただけだ。
+[name="Młynar"]Nothing more.
+[name="무에나"]그게 다야.
 
 [name="闪灵"]......如果您想知道玛嘉烈这几年所遭遇的，我愿意把我知道的都告诉您。
+[name="シャイニング"]都市を追われてからのこの数年、マーガレットさんに起こったことを知りたいと望まれるなら、私の知る限りのことをお伝えしますが……いかがでしょうか。
+[name="Shining"]If you want to know what Margaret has been through the last few years, I'm willing to tell you what I know.
+[name="샤이닝"]……그동안 마가렛 씨가 겪은 일이 궁금하시다면 제가 아는 걸 다 말씀드릴게요.
 
 [name="闪灵"]当然，如果您愿意亲口问她的话......
+[name="シャイニング"]無論、本人に直接尋ねたいということであれば……
+[name="Shining"]Of course, if you'd prefer to ask her yourself...
+[name="샤이닝"]물론 마가렛 씨한테 직접 듣고 싶으시다면……
 
 [name="玛恩纳"]......我不关心。
+[name="ムリナール"]……いや、結構。
+[name="Młynar"]...I don't care.
+[name="무에나"]……관심 없어.
 
 [name="玛恩纳"]看到她的眼神，我就已经明白了。
+[name="ムリナール"]マーガレットの目を見た時に理解している。
+[name="Młynar"]I already understand, just from the look in her eyes.
+[name="무에나"]눈빛을 보고 이제 이해했거든.
 
 [name="玛恩纳"]她的父亲母亲，甚至是过去的我，谁都拥抱过那样流光溢彩的时代。
+[name="ムリナール"]あれの両親も、そして過去にはこの私も、今のマーガレットのような輝かしい時代を過ごしたことがある。
+[name="Młynar"]Her mother and father, and even me in the past, all embraced that era of resplendence and glory.
+[name="무에나"]마가렛의 아버지와 어머니도 그렇고, 심지어 과거의 나조차도 모두 그런 빛나는 시대를 품은 적이 있었으니까.
 
 [name="闪灵"]......您......确实是她真正的家人。
+[name="シャイニング"]……あなたは……彼女の本当の家族なのですね。
+[name="Shining"]You... are her true family.
+[name="샤이닝"]……당신은…… 확실히 마가렛 씨의 진정한 가족이시군요.
 
 [name="玛恩纳"]......你已经知道了该知道的，这之后，我不会再干预半分。
+[name="ムリナール"]……お前が知るべきことを知った今、私はこれ以上介入しない。
+[name="Młynar"]You already know everything you need to know. From now on, I won't be lifting even a finger.
+[name="무에나"]……너는 알아야 할 걸 이미 알았어. 앞으로 난 일절 관여하지 않는다.
 
 [name="玛恩纳"]你可以告诉玛嘉烈，告诉那个......“罗德岛”。告诉他们，大骑士领光鲜的外表下，腐烂到了什么地步。
+[name="ムリナール"]マーガレットに……ロドスに教えてやるがいい。華やかに見える大騎士領の内情が、どれほど腐りきっているのかをな。
+[name="Młynar"]You can tell Margaret, and that... 'Rhodes Island.' Tell them beneath the glory-gilded exterior of the Grand Knight Territory... the extent of the rot on the inside.
+[name="무에나"]마가렛에게, 그리고…… 그 '로도스 아일랜드'에게도 알려줘. 겉보기에 아름다운 그랜드 나이트 영지가 어디까지 썩어들어갔는지 말이야.
 
 [name="玛恩纳"]但更切实际的建议是，早日离开大骑士领，离开卡西米尔。
+[name="ムリナール"]まあ、より現実的なアドバイスをするのなら、一日も早く大騎士領を――カジミエーシュを去ることだ。
+[name="Młynar"]But a more practical suggestion I have is to leave the Grand Knight Territory as soon as possible. Leave Kazimierz.
+[name="무에나"]하지만 더 현실적인 조언을 하자면, 하루라도 빨리 이 그랜드 나이트 영지, 이 카시미어를 떠나는 것이다.
 
 [name="玛恩纳"]尽力逃离这个时代吧，这才是每个人为数不多的正确选择。
+[name="ムリナール"]この時代から全力で脱しろ。それだけが、万人にとって正しい選択なのだから。
+[name="Młynar"]Try your best to leave this entire era behind. That's probably one of the few right choices anyone can make.
+[name="무에나"]이 시대에서 온 힘을 다해 도망쳐. 그것이야말로 모든 사람에게 몇 안 되는 올바른 선택이니까.
 
 [name="闪灵"]......真是个复杂的人。
+[name="シャイニング"]……本当に複雑な方ですね。
+[name="Shining"]What a complicated person you are.
+[name="샤이닝"]……정말 복잡한 분이시네요.
 
 [name="闪灵"]......
+[name="シャイニング"]……
+[name="Shining"]......
+[name="샤이닝"]……
 
 [name="感染者骑士"]你......别过来！
+[name="感染者騎士"]く……来るな！
+[name="An Infected Knight"]You... stay away from me!
+[name="감염자 기사"]너…… 다가오지 마!
 
 [name="感染者骑士"]该死的，你是无胄盟吗？你——
+[name="感染者騎士"]クソが……！　貴様、無冑盟か？　どういうつもりで――
+[name="An Infected Knight"]Damnit, are you with the Armorless? You––
+[name="감염자 기사"]젠장, 아머레스 유니온이지? 너……
 
 [name="感染者骑士"]不、不对，你是萨卡兹！？你是谁？
+[name="感染者騎士"]なっ、待て、サルカズだと！？　あんた一体何者だ！？
+[name="An Infected Knight"]No, you're not... You're... a Sarkaz?! Who are you?
+[name="감염자 기사"]아, 아니야, 넌 살카즈잖아!? 대체 누구지?
 
 [name="闪灵"]我没有敌意，无胄盟已经离开了这里。
+[name="シャイニング"]こちらに敵意はありません。無冑盟は既に、ここを去りました。
+[name="Shining"]I come in peace. The Armorless Union has already left.
+[name="샤이닝"]제게는 적의가 없습니다. 그리고 아머레스 유니온은 이미 떠났어요.
 
 [name="感染者骑士"]你、你在说什么......
+[name="感染者騎士"]ほ、本当かよ……？
+[name="An Infected Knight"]Wh-What are you talking about...?
+[name="감염자 기사"]무, 무슨 소리야……
 
 [name="感染者难民"]......刚才，刚才这个萨卡兹拦在了那些无胄盟面前......
+[name="感染者難民"]……こ、この人……さっきあの無冑盟たちの前に立ちはだかってたサルカズか……
+[name="An Infected Refugee"]Just now, just now, that Sarkaz blocked the Armorless...
+[name="감염자 난민"]……방금, 방금 이 살카즈가 아머레스 유니온을 막았어……
 
 [name="感染者难民"]你是什么人？你怎么敢和无胄盟作对......？
+[name="感染者難民"]あんた、誰なんだ？　なんでわざわざ無冑盟に立ち向かったりなんて……
+[name="An Infected Refugee"]Just who are you? How do you have the guts to stand against them?
+[name="감염자 난민"]너, 뭐야? 어떻게 아머레스 유니온에 맞설 수 있지……?
 
 [name="闪灵"]......我是感染者医师。
+[name="シャイニング"]……私は医者です。普段は、感染者の診療を行っています。
+[name="Shining"]I'm a physician for the Infected.
+[name="샤이닝"]……저는 감염자 의사입니다.
 
 [name="感染者骑士"]一个萨卡兹，自称感染者医师？这......
+[name="感染者騎士"]サルカズが感染者を診る、だと？　そんなばかな話が……
+[name="An Infected Knight"]A Sarkaz... who claims to treat the Infected? What...
+[name="감염자 기사"]살카즈가 감염자 의사라고? 이게……
 
 [name="感染者难民"]......这也太假了......我反而觉得她没有在骗我......
+[name="感染者難民"]……現実味がなさすぎて、おとぎ話にすら思えてくるな。
+[name="An Infected Refugee"]It's so crazy I can almost believe it.
+[name="감염자 난민"]……말도 안 돼…… 너무 말이 안 돼서 거짓말 같지도 않네……
 
 [name="感染者骑士"]好吧......那你打算做什么？
+[name="感染者騎士"]確かにな……わかった。それで、何しにきたんだ？
+[name="An Infected Knight"]Fine then... So what do you want?
+[name="감염자 기사"]좋다…… 그럼 원하는 게 뭐야?
 
 [name="闪灵"]卡西米尔有提供感染者医疗的手段......既然如此，为什么你们还会躲藏在这里？在这座城市的夹缝中......
+[name="シャイニング"]伺いたいことがあります。カジミエーシュには、感染者への医療提供制度がありますよね。それなのに、あなたたちが、こうした都市の隙間に隠れているのはなぜですか……？
+[name="Shining"]Kazimierz has the means to provide medical treatment to the Infected... That being the case, why do you still hide here, within the cracks of the city?
+[name="샤이닝"]카시미어는 감염자에게 의료 서비스를 제공하는 걸로 알고 있는데…… 왜 당신들은 여기 숨어 있나요? 이 도시의 틈새에서……
 
 [name="感染者骑士"]......你不是卡西米尔人？
+[name="感染者騎士"]……あんた、カジミエーシュ人じゃないのか？
+[name="An Infected Knight"]You're not from Kazimierz?
+[name="감염자 기사"]……너 카시미어 사람이 아니지?
 
 [name="感染者骑士"]不，说不定大部分卡西米尔人都不知道......慢着，你说你是感染者医师......
+[name="感染者騎士"]いや、カジミエーシュ人でも知ってる奴の方が少ないか……ん？　待てよ、感染者を診る医者だとか言ってたよな……
+[name="An Infected Knight"]No, this is something that even most people from Kazimierz wouldn't know... Wait, you said you're a physician for the Infected?
+[name="감염자 기사"]아니, 아마 카시미어 대부분 사람이 모를 수도 있어…… 잠깐, 네가 감염자 의사라고?
 
 [name="感染者骑士"]你、你是零号地块的......！？
+[name="感染者騎士"]ま、まさか零号地の……！？
+[name="An Infected Knight"]You... You're from Area 0?!
+[name="감염자 기사"]너, 너 설마 섹터 제로에서 왔나……!?
 
 [name="闪灵"]我来自一家医疗企业，你们说的零号地块......是指感染者收容地区吗？
+[name="シャイニング"]私はとある製薬会社から来たのですが、あなたの言う「零号地」とは感染者収容地区のことでしょうか？
+[name="Shining"]I'm from a pharmaceutical company. This Area 0 that you mentioned... is that the place that shelters the Infected?
+[name="샤이닝"]저는 어떤 의료 기업에서 왔습니다. 당신들이 말하는 섹터 제로는…… 그 감염자 수용 지역인가요?
 
 [name="闪灵"]监正会出资建立了检查并治疗感染者骑士的收容治疗中心......
+[name="シャイニング"]あの場所には、監査会の出資で、感染者騎士の検査と治療を行う収容治療センターが建てられていますが……
+[name="Shining"]The Adeptus Sprawiedliwi Kazimierz has funded the establishment of a clinic hub specifically for the examination and treatment of Infected knights...
+[name="샤이닝"]감정회가 감염자 기사를 검사하고 치료하는 수용 치료 센터를 설립했습니다……
 
 闪灵没有急着继续说下去。
+シャイニングは話を急がず、言葉を止める。
+Shining is in no hurry to finish her sentence.
+샤이닝은 급하게 말을 이어가지 않았다.
 
 她从面前的感染者眼里看到了疑惑、对自己的不信任、恐惧，以及丝毫的期许。
+彼女は目の前の感染者たちの目に、疑惑、彼女への不信感、恐れ、そして僅かな期待が宿っているのを見た。
+In the eyes of the Infected in front of her, she sees doubt, mistrust towards her, fear, and the slightest glimmer of hope.
+그녀는 눈앞에 있는 감염자의 눈에서 의심과 자신에 대한 불신, 공포 그리고 일말의 기대를 보았다.
 
 [name="感染者骑士"]......你真的......不是卡西米尔人，也对，他们是很讨厌萨卡兹的，呃，抱歉，但事实如此。
+[name="感染者騎士"]……あんた、本当にカジミエーシュ人じゃないんだな……まあそれもそうか、連中はサルカズを嫌ってるし……って！　悪い、こんな言い方をして……ただ、これは本当の話で……
+[name="An Infected Knight"]You really aren't from Kazimierz... But that makes sense, they also hate the Sarkaz here. Ugh, sorry, but that's just how things are.
+[name="감염자 기사"]……너 정말…… 카시미어 사람이 아니네. 하긴, 걔네들이 살카즈를 좋아할 리 없지. 저기, 미안하지만 이게 현실이야.
 
 [name="感染者骑士"]......你在那里治疗过感染者吗？
+[name="感染者騎士"]……とにかく、だ。あんた、あの場所で感染者を治療してたのか？
+[name="An Infected Knight"]Do you treat the Infected over there?
+[name="감염자 기사"]……거기서 감염자를 치료해 봤나?
 
 [name="闪灵"]是的。
+[name="シャイニング"]ええ。
+[name="Shining"]Yes.
+[name="샤이닝"]네.
 
 [name="感染者骑士"]你难道不感到奇怪吗......
+[name="感染者騎士"]だったら、何かおかしいとは思わなかったか……？
+[name="An Infected Knight"]Don't you think it's strange?
+[name="감염자 기사"]뭔가 이상하다고 생각되지 않아?
 
 [name="感染者骑士"]那么大一个移动平台，几乎成了感染者骑士的牢笼......你知道吧，感染者骑士在那里接受检查、治疗，同时也在那里“生活”。
+[name="感染者騎士"]あのでっかい移動式プラットフォームは、感染者騎士の檻みたいなもんだ……知っての通り、感染者騎士はあそこで検査と治療を受けて、あの場所で「生活」することになる。
+[name="An Infected Knight"]Such a big mobile platform has practically become a cage for the Infected knights. Did you know the Infected knights are examined and treated there, but they also 'live' there?
+[name="감염자 기사"]그렇게 큰 이동 플랫폼이 감염자 기사의 감옥이나 다름없어…… 알잖아, 감염자 기사는 그곳에서 검사와 치료를 받으며 '생활'하고 있어.
 
 [name="感染者骑士"]如果那种状态能被称为“生活”的话。
+[name="感染者騎士"]ま、あれを生活と呼べるならの話だが。
+[name="An Infected Knight"]As if existing like that can be called 'living' at all.
+[name="감염자 기사"]그런 상태를 '생활'이라고 할 수 있다면 말이지.
 
 [name="闪灵"]......
+[name="シャイニング"]……
+[name="Shining"]......
+[name="샤이닝"]……
 
 [name="感染者骑士"]好，看来你们这些外来者连这件事都不清楚。
+[name="感染者騎士"]なるほど。あんたらよその人間は、こんなことすらはっきり知らないらしいな。
+[name="An Infected Knight"]Alright, it seems you outsiders don't even know this much.
+[name="감염자 기사"]뭐 됐다. 아무래도 너희 외지인들은 확실히 모르는 것 같네.
 
 [name="闪灵"]但如果把所有的感染者都集中在那里生活......
+[name="シャイニング"]……ですが、感染者全員をあの場所で生活させるとなると……
+[name="Shining"]But if all the Infected were to live there...
+[name="샤이닝"]하지만 모든 감염자를 그곳에서 생활하게 하면……
 
 [name="感染者骑士"]地方不够，对吧？
+[name="感染者騎士"]スペースが足りない、って思うんだろ？
+[name="An Infected Knight"]Then there's not enough space, right?
+[name="감염자 기사"]공간이 부족해, 그렇지?
 
 [name="感染者骑士"]还能赚钱的感染者，会重新走上赛场，或是继续进行一些......劳务工作，什么样的都有。
+[name="感染者騎士"]だが、そうはならないのさ。……例えば、まだ金を稼げる感染者なら……治療を終えたら再度競技場に足を踏み入れるか、あるいは……肉体労働をすることになるだろう。
+[name="An Infected Knight"]Those Infected who can still make money will step back into the arena, or carry on... finding whatever odd jobs they can.
+[name="감염자 기사"]그나마 돈을 벌 수 있는 감염자는 다시 경기에 출전하거나…… 막노동이라도 해. 어떤 막노동이든 다 있으니까.
 
 [name="感染者骑士"]还有些当不上骑士的，会像奴隶一样被派去做一些黑工......矿工，搬运工，而且都是危险的环境。
+[name="感染者騎士"]でもって騎士になれなかった連中は、奴隷同然の違法労働送りになるが……これが採掘業や運搬業ばかりで、その上どれもこれも危険な環境ときてる。
+[name="An Infected Knight"]For those who can't become knights, they'll be sent to off to do some iffy work... Mining, transporting, all in dangerous environments.
+[name="감염자 기사"]그리고 기사가 되지 못한 놈들은 노예처럼 불법 노동자로 보내져…… 광부나 운반공처럼. 게다가 다 위험한 일이지.
 
 [name="感染者骑士"]而如果受了伤，连这些基本的工作都做不了......
+[name="感染者騎士"]さらにケガでもした日には、そんな仕事すらできなくなって……
+[name="An Infected Knight"]And if you get hurt, and you can't even do that kind of manual labor...
+[name="감염자 기사"]만약 다치기라도 했다면 이러한 기본적인 일도 할 수 없어……
 
 [name="感染者骑士"]......你猜猜看，外乡人，你猜猜看那些感染者都从零号地块去哪儿了？
+[name="感染者騎士"]……よそ者のあんたでも、ここまで言えばわかるだろ？　そうなっちまった感染者たちが、零号地からどこへ行ったのか……
+[name="An Infected Knight"]Take a guess, outsider. Where do you think those Infected from Area 0 end up?
+[name="감염자 기사"]……그렇다면 맞혀 봐, 외지인. 그런 감염자들이 섹터 제로에서 어디로 갔을까?
 
 [name="闪灵"]......！
+[name="シャイニング"]……！
+[name="Shining"]......!
+[name="샤이닝"]……!
 
 [name="感染者骑士"]你们以为那里是医院，骑士们觉得那里是一座监狱。但我告诉你，都不是。
+[name="感染者騎士"]……あんたらはあの場所を病院だと思ってるし、騎士たちはあれを監獄と捉えてるようだが……俺に言わせりゃ、両方ハズレだ。
+[name="An Infected Knight"]You may think it's a hospital, and the knights may think it's a prison. But let me tell you, it is neither.
+[name="감염자 기사"]너네는 그곳이 병원이 줄 알고, 기사들은 감옥인 줄 알고 있겠지. 하지만 다 틀렸어.
 
 [name="感染者骑士"]感染者被送去那里，洗干净尊严，剥下价值，最后送上砧板，任人宰割。
+[name="感染者騎士"]あそこに送られた感染者は、尊厳を洗い落とされ、価値を剥ぎ取られて、まな板の上でなされるがまま最期を迎えることになる。
+[name="An Infected Knight"]The Infected are shipped there, washed of their dignity, stripped of their basic worth, and finally sent to the cutting boards to be culled.
+[name="감염자 기사"]그곳에 보내진 감염자는 존엄이 깨끗이 씻겨지고, 가치마저 빼앗겨 결국엔 도마 위에 올라 난도질당하게 돼.
 
 [name="感染者骑士"]那是一座漂亮的屠宰场，萨卡兹。
+[name="感染者騎士"]あの場所は見た目だけが綺麗な「屠畜場」なんだよ。
+[name="An Infected Knight"]What you're looking at, Sarkaz, is a glorified slaughterhouse.
+[name="감염자 기사"]거긴 아름다운 도살장이라고, 살카즈.
 

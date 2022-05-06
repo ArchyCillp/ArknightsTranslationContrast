@@ -1,610 +1,1525 @@
 [name="砾"]  ......好消息，博士。
+[name="グラベル"]  ……ドクター、グッドニュースよ～。
+[name="Gravel"]  Good news, Doctor.
+[name="그라벨"]  ……좋은 소식이야, 박사.
 
 [name="砾"]  监正会同意罗德岛各位的外出申请了，“让重要的合作伙伴游览城市也是必要的”。
+[name="グラベル"]  監査会が、ロドス全員の外出申請を認めたの。「重要なパートナー企業に都市を見物してもらうのも必要なことだから」ですって。
+[name="Gravel"]  The Adeptus Sprawiedliwi has approved Rhodes Island's applications. 'It's necessary for our valued partners to visit the city.'
+[name="그라벨"]  감정회가 “중요한 파트너에게 관광시키는 것도 필요하다”면서, 로도스 아일랜드의 외출 신청에 동의했어.
 
 [name="砾"]  本来，如果没有这一系列事件发生的话，您可以在大骑士领更自由一些的。
+[name="グラベル"]  ……本来なら、一連の事件さえなければ、あなたはもっと自由に行動できてたはずだったものね～。
+[name="Gravel"]  If none of these things happened in the first place, you would've been able to enjoy the Grand Knight Territory more freely.
+[name="그라벨"]  애초에 이 일련의 사건이 없었더라면, 박사는 그랜드 나이트 영지에서 좀 더 자유로웠을 텐데.
 
 [name="阿米娅"]  博士？您找我们吗？
+[name="アーミヤ"]  ドクター？　私たちに御用ですか？
+[name="Amiya"]  Doctor, were you looking for me?
+[name="아미야"]  박사님? 저희를 찾으셨나요?
 
 [name="芙蓉"]  啊！骑士姐姐！正好我还有剩下的健康餐，你打包带回家吗？
+[name="ハイビスカス"]  あっ、騎士さん！　ちょうどよかった！　まだ健康食が余ってるんですが、よければ持って帰りませんか？
+[name="Hibiscus"]  Oh, Gravel! I still have some healthy food leftovers. Want to take them with you?
+[name="히비스커스"]  앗! 기사 언니! 마침 제게 남은 건강식이 있거든요. 가져갈래요?
 
 [name="砾"]  ......
+[name="グラベル"]  う、う～ん……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="夜莺"]  ......您好，砾小姐，博士。
+[name="ナイチンゲール"]  ……グラベルさん、ドクター、ご機嫌よう。
+[name="Nightingale"]  Good day, Gravel, Doctor.
+[name="나이팅게일"]  ……안녕하세요. 그라벨 씨, 박사님.
 
 [Decision(options="难得有机会去卡西米尔的其他地方参观。;想不想出去逛逛？;休——假——时——间——", values="1;2;3")]
+[Decision(options="カジミエーシュを見学するチャンスが来たぞ。;散歩に行ってみないか？;皆聞いてくれ、待ちに待った休みだ～！", values="1;2;3")]
+[Decision(options="We rarely get a chance to visit the other parts of Kazimierz.;Want to take a look around?;It's–– vacation–– time––!", values="1;2;3")]
+[Decision(options="카시미어의 다른 곳을 둘러볼 기회가 생겼다.;외출하고 싶지 않아?;휴…… 일…… 이…… 다……", values="1;2;3")]
 
 [name="大嘴莫布"]  激烈的战斗！让人不敢相信自己的眼睛！
+[name="ビッグマウスモーブ"]  ――激戦！　ここに我が目を疑う光景が繰り広げられております！
+[name="Greatmouth Mob"]  Wh-What a battle! I can hardly believe my eyes!
+[name="빅마우스 모브"]  치열한 싸움입니다! 도저히 제 눈을 믿을 수가 없습니다!
 
 [name="大嘴莫布"]  不对！应该说，一位名不见经传的梦魇！首次闯入特锦赛，竟然就能与冠军分庭抗礼！
+[name="ビッグマウスモーブ"]  それもそのはず――存在自体を疑われていたあのナイツモラが！　初のメジャー進出にして、チャンピオンと対等に渡り合っているのですから！
+[name="Greatmouth Mob"]  Actually, I should be talking our unknown Nightzmora! Can you believe this is his first Major appearance, and he's holding his own against a champion?!
+[name="빅마우스 모브"]  아니죠! 존재조차 의심받았던 나이츠모라가! 처음으로 토너먼트에 진출해 챔피언과 대등하게 싸우고 있습니다!
 
 [name="大嘴莫布"]  鲜红的铠甲在赛场上碰撞，让今夜的月光也黯然失色！
+[name="ビッグマウスモーブ"]  今宵、二人の鮮やかな紅の鎧が、競技場で大激突を繰り返し――この目を奪う熱闘の前には、月明かりすらも霞んで見えます！
+[name="Greatmouth Mob"]  The clash of blood-red armor on the field tonight will eclipse the moon!
+[name="빅마우스 모브"]  시뻘건 갑옷이 경기장에서 부딪쳐, 오늘 밤의 달빛마저 무색하게 만들고 있습니다!
 
 [name="大嘴莫布"]  不用说，我想观众也感受到了，拓拉！“草原之恐”逐魇骑士！他那疯狂的意志令人为之着迷沉醉！
+[name="ビッグマウスモーブ"]  それにしても――「草原の恐怖」、追魔騎士トゥーラ！　観客の皆様も、その狂気が放つ魅力を肌で感じていることでしょう！　耀騎士との対戦後、彼の人気は留まるところを知りません！
+[name="Greatmouth Mob"]  The audience is definitely feeling it too! Tola, 'Scourge of the Prairie,' Nightmare Knight! His crazed determination is addictive and intoxicating!
+[name="빅마우스 모브"]  더 말하지 않아도, 여러분도 느꼈을 겁니다. 톨라! '초원의 공포', 악몽의 기사! 그의 광적인 의지가 사람들을 빠져들게 합니다!
 
 [name="大嘴莫布"]  经历了与耀骑士的那场决斗之后，人气居高不下的逐魇骑士！究竟能不能为他成为大骑士的故事中，再添一笔！？
+[name="ビッグマウスモーブ"]  追魔が往く大騎士への道――その物語に、ここで新たな一ページが加えられることとなるのでしょうか！？
+[name="Greatmouth Mob"]  Nightmare Knight's been surging in the polls since his duel with the Radiant Knight! Will he add another page to this story?! A rise to grand knighthood?!
+[name="빅마우스 모브"]  빛의 기사와 대결 후 한창 인기몰이 중인 악몽의 기사! 과연 대기사가 되는 스토리에 에피소드 하나 더 보탤 수 있을까요!?
 
 [name="大嘴莫布"]  顺带一提，古代人娱乐公司正在举行“骑士封号有奖竞猜”！凡是能猜中骑士封号的观众，都能获得精美礼品一份！
+[name="ビッグマウスモーブ"]  ちなみに、エンシェント・エンターテインメントカンパニーでは、現在彼の「新騎士称号予想企画」を行っております！　見事的中させた方全員に素敵な景品をプレゼント！　奮ってご応募ください！
+[name="Greatmouth Mob"]  By the way, Ancients Entertainment is holding a 'Knightly Title Trivia Game!' Guess the knightly titles and win fabulous prizes!
+[name="빅마우스 모브"]  참고로, 에인션츠 엔터테인먼트의 '기사 칭호 예측' 이벤트가 진행 중입니다! 기사의 칭호를 맞힌 사람은 멋진 선물 하나를 받을 수 있습니다!
 
 [name="血骑士"]  你的气势哪里去了？梦魇？
+[name="血騎士"]  ナイツモラよ、あの勢いはどこへ行った？
+[name="The Blood Knight"]  Where'd your bravado go, Nightzmora?
+[name="피의 기사"]  그 기세는 어디 갔나? 나이츠모라?
 
 [name="逐魇骑士"]  ......唔。
+[name="追魔騎士"]  ……っ……
+[name="Nightmare Knight"]  Ngh...
+[name="악몽의 기사"]  ……크윽.
 
 [name="逐魇骑士"]  米诺斯人......在我的同胞鞭笞往日的时代，你们的英雄已经沦为了诗人口中的典故......
+[name="追魔騎士"]  ミノス人め……我が同胞が古き者を蹂躙するあの時代では、既に貴様らの英雄は詩人が歌う故事に成り下がっていたというのに……
+[name="Nightmare Knight"]  Minoan, in the times when my ancestors flayed the land, your heroes had all become naught but words on the lips of poets.
+[name="악몽의 기사"]  미노스인…… 나의 동포가 매질하던 옛 시절에 너희 영웅은 이미 시인의 입에나 오르는 고전으로 전락했다……
 
 [name="血骑士"]  废话啰嗦。
+[name="血騎士"]  くだらん無駄口を利くものだ。
+[name="The Blood Knight"]  You waste your breath.
+[name="피의 기사"]  헛소리.
 
 [name="血骑士"]  那你的可汗如今在哪儿？你那些引以为豪的同胞活在大地何处？
+[name="血騎士"]  ならば問うが――貴様のハガンは、この現代のどこにいる？　貴様が誇る同胞たちは、この大地のどこで暮らしていると言うんだ？
+[name="The Blood Knight"]  Where's your Khagan now? What happened to those proud kinsmen of yours?
+[name="피의 기사"]  그럼 너의 카간은 지금 어디에 있나? 네가 자랑스럽게 여기는 동포들은 지금 이 땅의 어디에서 살고 있나?
 
 [name="逐魇骑士"]  ......
+[name="追魔騎士"]  ……
+[name="Nightmare Knight"]  ......
+[name="악몽의 기사"]  ……
 
 [name="血骑士"]  一个活在过去的梦魇，一个可怜人罢了。
+[name="血騎士"]  過去に生き続けるナイツモラ――貴様も、哀れな男だな。
+[name="The Blood Knight"]  One who lives in a bygone nightmare is a pitiful man indeed.
+[name="피의 기사"]  과거에 빠져 사는 나이츠모라, 불쌍한 인간이로구나.
 
 [name="逐魇骑士"]  ......米诺斯人，感染者，你为什么而战？
+[name="追魔騎士"]  ……ミノスより来たりし感染者よ。貴様は何のために戦っている？
+[name="Nightmare Knight"]  Minoan, Infected. What are you fighting for?
+[name="악몽의 기사"]  ……미노스인, 감염자, 너는 무엇을 위해 싸우는가?
 
 [name="血骑士"]  生存。
+[name="血騎士"]  生きるためだ。
+[name="The Blood Knight"]  Survival.
+[name="피의 기사"]  생존.
 
 [name="血骑士"]  他们把我奉为感染者的英雄......把我当做历史的标杆，但我的初衷，仅仅是活着。
+[name="血騎士"]  彼らは俺を感染者の英雄と崇め、歴史に名を残す手本としているが……元を辿れば、俺はただ生きるために戦っているにすぎない。
+[name="The Blood Knight"]  They made me the hero of the Infected... They enshrined me in the annals of history. But I just wanted to survive.
+[name="피의 기사"]  사람들은 나를 감염자의 영웅으로 섬기고…… 나를 역사의 본보기로 삼는다. 하지만, 난 그저 살기 위해 싸우는 것뿐이다.
 
 [name="逐魇骑士"]  ......感染者的英雄？
+[name="追魔騎士"]  ……「感染者の英雄」？
+[name="Nightmare Knight"]  The hero of the Infected?
+[name="악몽의 기사"]  ……감염자의 영웅?
 
 [name="逐魇骑士"]  原来如此......你也在为你的同胞而战吗？
+[name="追魔騎士"]  なるほど……では、貴様の戦いも同胞のためにあるのか？
+[name="Nightmare Knight"]  I see... Do you not also fight for your people?
+[name="악몽의 기사"]  그랬군…… 너도 너의 동포를 위해 싸우는 건가?
 
 [name="血骑士"]  同胞......？不，我们并无血缘，也没有相同的故乡，我们只是不幸患上了同一种疾病而已。
+[name="血騎士"]  同胞……というのは違うだろうな。何しろ、俺たちに血の繋がりはなく、故郷を同じくするわけでもない。単に、不運にも同じ病にかかっただけの間柄だ。
+[name="The Blood Knight"]  My people...? No. We don't share the same bloodline, nor were we born in the same place. We are just unfortunate enough to suffer the same disease.
+[name="피의 기사"]  동포……? 아니, 우리는 핏줄도 다르고 고향도 다르다. 우리는 그저 불행히도 같은 병에 걸렸을 뿐.
 
 [name="血骑士"]  他们的遭遇令我感到悲悯，所以我去拯救他们，为所有人寻觅出路。
+[name="血騎士"]  けれども、彼らの境遇には同情している。ゆえに俺は彼らを救い、すべての人々のため、活路を探しているんだ。
+[name="The Blood Knight"]  I pitied their plight, so I went to deliver them, to find a way out for them.
+[name="피의 기사"]  그들의 처지에 연민을 느껴, 그들을 구하고 모든 사람에게 새로운 길을 찾아주고 싶었다.
 
 [name="逐魇骑士"]  不是同胞......你却还要，拯救他们。
+[name="追魔騎士"]  同胞とは呼ばず……なれど貴様はそやつらを救う、か。
+[name="Nightmare Knight"]  You say they're not your people... But you still want to save them...
+[name="악몽의 기사"]  동포도 아닌데…… 그들을, 구하려 하다니.
 
 [name="逐魇骑士"]  ......可笑。
+[name="追魔騎士"]  ……笑わせてくれる。
+[name="Nightmare Knight"]  Laughable.
+[name="악몽의 기사"]  ……가소롭군.
 
 [name="逐魇骑士"]  你的确强大......但是，卡西米尔的草原难道已经被感染者和异国人瓜分了吗？
+[name="追魔騎士"]  貴様は確かに強大だ。……されど結局、カジミエーシュの草原を治めしは感染者にもあらねば、異邦人にもあらず。
+[name="Nightmare Knight"]  You are mighty, without a doubt. But, have the prairies of Kazimierz been carved up by the Infected and foreigners?
+[name="악몽의 기사"]  너는 확실히 강하다…… 그런데, 카시미어의 초원은 이미 감염자와 이방인들에게 분할되어버렸나?
 
 [name="逐魇骑士"]  卡西米尔人，库兰塔，他们在哪儿！？
+[name="追魔騎士"]  カジミエーシュ人はどこにいる！？　我らは、彼奴らの――あのクランタどもの手のひらの上、見世物とされるばかりなのだ！
+[name="Nightmare Knight"]  The Kazimierzians, the Kuranta... Where are they?!
+[name="악몽의 기사"]  카시미어인, 쿠란타, 그들은 어디에 있나!?
 
 [name="逐魇骑士"]  难道我千里迢迢来到骑士之国，是为了和感染者、米诺斯人和自己的同族决斗的吗！？
+[name="追魔騎士"]  私が千里を越え、騎士の国へとやってきたのは、我が理想のためではなく、感染者やミノス人、ともすれば自らの同胞との争いを彼奴らに披露せんがためだとでも云うのか！？
+[name="Nightmare Knight"]  Did I cross thousands of miles to the country of knights, only to fight against the Infected, Minoans, and my own kinsmen?!
+[name="악몽의 기사"]  내가 먼 길을 마다치 않고 기사의 나라에 온 게, 단지 감염자와 미노스인, 그리고 나의 동족과 싸우기 위해서란 말인가!?
 
 [name="逐魇骑士"]  ——奇耻大辱！
+[name="追魔騎士"]  ――何たる恥辱！
+[name="Nightmare Knight"]  ––A sick joke!
+[name="악몽의 기사"]  ……크나큰 치욕이군!
 
 [name="芙蓉"]  哇哇哇......这、这里就是卡西米尔的商业中心吗？
+[name="ハイビスカス"]  うわわ～っ。こ、ここが大騎士領の中心商業区画なんですよね？
+[name="Hibiscus"]  Woaaaahh... S-So, this is Kazimierz's commercial hub?
+[name="히비스커스"]  우와아…… 여, 여기가 카시미어의 중심가인가요?
 
 [name="砾"]  严格来说，这里只是大骑士领大小数百个商业中心中的一个。
+[name="グラベル"]  厳密に言うと、大騎士領には「中心商業区画」って呼べるような街がいくつもあるから。そのうちの一つ、って感じだけど。
+[name="Gravel"]  Strictly speaking, this is just one of hundreds of commercial centers across the Grand Knight Territory.
+[name="그라벨"]  정확히는 여긴 그랜드 나이트 영지의 수백 개 되는 중심가 중의 하나일 뿐이야.
 
 [name="砾"]  因为距离比较近，所以我推荐来这里罢了。
+[name="グラベル"]  ここを勧めたのは、単純に距離が近いからだしね～。
+[name="Gravel"]  I recommended this particular one because it's close.
+[name="그라벨"]  그나마 가까우니까 여기로 오자고 추천했어.
 
 [name="芙蓉"]  但是垃圾食品是不是太多了！我一眼看过去，视野里就有三家爆米花店、两家披萨店和四家汉堡店哦！
+[name="ハイビスカス"]  それにしてもこの街、ジャンクフードだらけじゃありませんか！　こうしてぱっと見ただけでも、ポップコーン屋さんが三つ、ピザ屋さんが二つ、ハンバーガー屋さんなんて四つもありますよ！
+[name="Hibiscus"]  But there's way too much junk food everywhere! Just one look around and I count three popcorn stands, two pizzerias, and four burger shops!
+[name="히비스커스"]  그런데, 정크푸드가 너무 많은 게 아니에요?! 언뜻 봐도, 팝콘 가게 세 개, 피자 가게 세 개, 햄버거 가게 네 개나 눈에 들어오네요!
 
 [name="芙蓉"]  这是不行的！
+[name="ハイビスカス"]  まったくもっていただけませんね！
+[name="Hibiscus"]  This is unacceptable!
+[name="히비스커스"]  이러면 안 돼요!
 
 [name="阿米娅"]  啊哈哈......因为这附近有一座骑士竞技场吗？
+[name="アーミヤ"]  あはは……もしかしてそれも、騎士競技場が近くにあるからでしょうか？
+[name="Amiya"]  Haha... Is this because there's a competition venue nearby?
+[name="아미야"]  아하하…… 근처에 기사 경기장이 있어서 그런가요?
 
 [name="砾"]  当然。竞技场算是每一个商业圈的核心。
+[name="グラベル"]  ええ、そうよ～。競技場は、商業エリアすべての中心地とも呼べる場所だから～……
+[name="Gravel"]  Of course. The arena lies at the heart of every center of commerce.
+[name="그라벨"]  당연하지, 경기장은 각 중심가의 핵심이니까.
 
 [name="砾"]  围绕着骑士们的厮杀拓展商业，就是这么一回事。
+[name="グラベル"]  言ってしまえば、争う騎士たちを中心にして、商業が発展してるってことなのよね～。
+[name="Gravel"]  All businesses revolve around the knights' glorious blood sport. It's the way things are done here.
+[name="그라벨"]  기사들의 대결을 둘러싸고 상업을 확장한다, 뭐 그런 거지.
 
 [name="夜莺"]  ......！
+[name="ナイチンゲール"]  あっ……！
+[name="Nightingale"]  ......!
+[name="나이팅게일"]  ……!
 
 [name="夜莺"]  ......这是......临光的玩偶？
+[name="ナイチンゲール"]  ……これは……ニアールさんの人形、でしょうか？
+[name="Nightingale"]  Is this... a Nearl doll?
+[name="나이팅게일"]  ……이 인형은…… 니어 씨 아닌가요?
 
 [name="芙蓉"]  啊！好可爱！
+[name="ハイビスカス"]  わぁ～！　本当だ、可愛いですね！
+[name="Hibiscus"]  Aww! It's so cute!
+[name="히비스커스"]  와! 너무 귀여워요!
 
 [name="阿米娅"]  ......等等，这家店，难道全是......
+[name="アーミヤ"]  ……あれっ……？　まさかこのお店のグッズって、全部……
+[name="Amiya"]  Wait a minute, this shop... Is it all dedicated to...
+[name="아미야"]  ……잠깐, 이 가게, 설마……
 
 [name="店主"]  哟，几位客人，是耀骑士的粉丝？
+[name="店主"]  よう、いらっしゃい。お客さんたち、耀騎士のファンかい？
+[name="A Shopkeeper"]  Yo! Are you folks fans of the Radiant Knight too?
+[name="가게 주인"]  어서와. 너희들, 혹시 빛의 기사 팬이야?
 
 [name="店主"]  那你可来对地方啦，这里是耀骑士周边专卖！黏土小人、毛绒玩偶、临光家族徽章应有尽有！
+[name="店主"]  だったら、ここに来たのは大正解だな。うちは耀騎士グッズの専門店なんだ！　フィギュアにぬいぐるみ、ニアール家の紋章バッジまで何でも揃ってるぜ！
+[name="A Shopkeeper"]  Then, you've come to the right place! This is a specialty store for everything Radiant Knight! Clay figurines, plush dolls, Nearl family crests – you name it, we've got it!
+[name="가게 주인"]  그렇다면 제대로 왔어. 우리 가게는 빛의 기사 굿즈만 취급하거든! 피규어에, 인형에, 니어 가문 엠블럼까지 없는 게 없어!
 
 [name="店主"]  顺便一提，如果耀骑士能打败风骑士再度进入决赛，供货商还考虑制作精炼源石雕刻纪念品！现在可以先付定金哦？
+[name="店主"]  ちなみに、耀騎士が風騎士を下して、無事決勝に進んだら……うちの仕入先が、記念品を作ってくれるかもしんねえんだ！　しかも精錬源石彫刻でな！　どうだい、前金払って予約してみねえか？
+[name="A Shopkeeper"]  By the way, if the Radiant Knight manages to defeat the Wind Knight and advance to the finals, our supplier is considering making exclusive commemorative medals from refined Originium! Want to put in a pre-order?
+[name="가게 주인"]  참고로, 만약 빛의 기사가 바람의 기사를 꺾고 다시 한번 결승에 진출한다면, 거래처에서 오리지늄을 정제하여 조각상 기념품도 만들 계획이야! 지금 선금을 내고 예약해도 돼!
 
 [name="店主"]  反正耀骑士一定会赢嘛！哈哈哈！
+[name="店主"]  どうせ勝つのは耀騎士だしな！　ハッハッハ！
+[name="A Shopkeeper"]  I mean, the Radiant Knight's pretty much sure to win! Hahaha!
+[name="가게 주인"]  어차피, 빛의 기사가 무조건 이길 테니까! 하하하!
 
 [Decision(options="(替夜莺买一个玩偶。);(询问定金是多少。);(反问对方耀骑士用过的盾牌能不能当做镇店之宝。)", values="1;2;3")]
+[Decision(options="（ナイチンゲールにぬいぐるみを買ってあげる）;その前金というのは、いくらなんだ？;耀騎士が使った盾なら、ここの家宝になり得るだろうか？", values="1;2;3")]
+[Decision(options="(Buy the doll for Nightingale.);(Ask how much the pre-order is.);(Rhetorically ask if the store would consider a shield used by the Radiant Knight its greatest treasure.)", values="1;2;3")]
+[Decision(options="(나이팅게일에게 인형을 사준다.);(선금이 얼마인지 묻는다.);(가게의 보물로 빛의 기사의 방패를 살 건지 묻는다.)", values="1;2;3")]
 
 [name="店主"]  谢谢惠顾！
+[name="店主"]  まいどあり！
+[name="A Shopkeeper"]  Thanks for your patronage!
+[name="가게 주인"]  고마워!
 
 [name="店主"]  是——啊，您是用外币结算的吗？龙门币？那您可能还得先去一趟银行。
+[name="店主"]  そうだな、ざっと――って、お客さん、もしかして外貨で払うつもりかい？　……なに、龍門幣？　だったら、銀行に行って追加で下ろしてこなきゃなんねえかもな。
+[name="A Shopkeeper"]  Oh, uh... You only have foreign money? Lungmen Dollars? Err, you'll have to go to the bank first.
+[name="가게 주인"]  어디…… 보자, 외화로 계산할 건가? 용문폐로? 그럼 은행부터 다녀와야겠는데.
 
 [name="店主"]  我帮你换算一下，大概一百三十万龙门币左右吧？
+[name="店主"]  俺の計算じゃ、龍門幣なら130万ってとこなんだが……持ち合わせで足りそうか？
+[name="A Shopkeeper"]  Let me do the conversion for you real quick... That should be about 1.3 million LMD?
+[name="가게 주인"]  계산해보니, 대략 130만 용문폐네?
 
 [name="店主"]  盾牌？耀骑士什么时候用过盾牌？
+[name="店主"]  盾ぇ～？　そんなもん、いつ使ってたってんだい？
+[name="A Shopkeeper"]  A shield? Since when did the Radiant Knight use a shield?
+[name="가게 주인"]  방패? 빛의 기사가 언제 방패를 썼지?
 
 [name="店主"]  不过，我们这里有战锤、双刃剑和最新的剑枪模型。您要不看看？
+[name="店主"]  それよかほら、うちにはハンマーに剣、それから今使ってるソードスピアの模型まであるんだぜ。ちょっと見てかねえか？
+[name="A Shopkeeper"]  But we have warhammers, double-bladed swords, and even the latest model of swordspears. Want to take a look?
+[name="가게 주인"]  그것 보다, 우리 가게에 워해머, 듀얼블레이드, 최신 모델의 소드스피어가 있는데, 한번 볼래?
 
 [name="大嘴莫布"]  难舍难分！逐魇骑士的一击凌厉攻击再度被血骑士挡下，而冠军就像是切开豆腐般，将人工地形夷为平地！
+[name="ビッグマウスモーブ"]  決着の兆しは見えず、両者一歩も譲らぬ戦いが続いております！　追魔騎士の凄まじい攻撃はまたも血騎士に防がれ！　そのチャンピオンは、ケーキを切るかの如く軽々と人工地形を破壊しています！
+[name="Greatmouth Mob"]  It's hard to tell what's going on! Nightmare Knight's ferocious attack was again repelled by the Blood Knight, and the former champion is slicing through the artificial turf as if it was tofu!
+[name="빅마우스 모브"]  좀처럼 승부가 나지 않는군요! 악몽의 기사의 세찬 공격을 피의 기사가 또 한 번 막았습니다. 그리고 챔피언은 두부 자르듯이 지형을 평지로 만들어버렸네요.
 
 [name="大嘴莫布"]  时间已经过去了十分钟！风暴般的交锋仍在继续！究竟是谁，会在这仿佛永不停歇的攻击中展露疲态！？
+[name="ビッグマウスモーブ"]  さあ、既に試合時間が10分経過しました！　嵐のような戦いはいまだ終結せず！　永遠にすら思われるこの攻防！　先に疲労を見せ始めるのは果たしてどちらなのか！！
+[name="Greatmouth Mob"]  It's already been ten minutes, but the tempestuous exchange of blows continues! Who will be the first to show signs of fatigue in this seemingly endless battle?
+[name="빅마우스 모브"]  벌서 10분이 지났습니다! 하지만 폭풍 같은 교전이 계속되고 있습니다! 영원히 끝날 것 같지 않은 이 대결에서, 먼저 피곤한 기색을 드러낼 선수는 과연 누구일까요!?
 
 [name="大嘴莫布"]  ——说话间！冠军再次使用了法术！躲过了对手的一记扫击！
+[name="ビッグマウスモーブ"]  ――と、言っている間にも！　血騎士が再びアーツを操り、追魔の薙ぎ払いを回避する～～ッ！
+[name="Greatmouth Mob"]  ––As I speak, the champion is readying his Arts again! He evades a sweeping strike from his opponent!
+[name="빅마우스 모브"]  ……말씀드리는 순간! 챔피언이 또다시 아츠를 사용해! 상대의 휩쓸기 공격을 피했습니다!
 
 [name="大嘴莫布"]  难道双方还在小心翼翼地试探对方吗！？冠军与梦魇，至今还没人主动施放自己的源石技艺——
+[name="ビッグマウスモーブ"]  しかし、どちらの選手も今に至るまで、積極的にアーツで仕掛ける様子は見られないようですが――まさか、双方互いに未だ探り合いの段階なのでしょうか！？
+[name="Greatmouth Mob"]  After all that, are the two sides only feeling each other out?! Neither the champion nor the Nightzmora seems to want to take the initiative and cast the first Arts––
+[name="빅마우스 모브"]  설마 두 사람이 아직도 탐색전을 하고 있는 걸까요!? 챔피언과 나이츠모라, 나이츠모라와 챔피언, 지금까지 아무도 능동적으로 아츠를 시전하지 않고 있습니다……
 
 [name="逐魇骑士"]  ......米诺斯人，你受过怎样的训练？
+[name="追魔騎士"]  ……貴様、いかような訓練を受けてきた？
+[name="Nightmare Knight"]  Minoan, how did you learn to fight like this?
+[name="악몽의 기사"]  ……미노스인, 너는 어떤 훈련을 받았었나?
 
 [name="血骑士"]  很遗憾，在成为骑士之前，我并没有经历过像样的战斗训练。
+[name="血騎士"]  残念ながら、騎士になる前の俺は、真っ当な戦闘訓練を受けたことなどなかった。
+[name="The Blood Knight"]  Unfortunately, I had very little combat training before becoming a knight.
+[name="피의 기사"]  유감스럽지만, 기사가 되기 전, 나는 제대로 된 전투 훈련을 받은 적이 없다.
 
 [name="血骑士"]  成为骑士之后，也只是边打边学。
+[name="血騎士"]  とは言え、騎士になったあとも、戦いの中で学びを得てきただけだがな。
+[name="The Blood Knight"]  It was only after that I learned as I fought.
+[name="피의 기사"]  기사가 된 이후에도 싸우면서 배웠을 뿐.
 
 [name="逐魇骑士"]  ......天生的战士。
+[name="追魔騎士"]  ……天性の戦士、というわけか。
+[name="Nightmare Knight"]  ...A born warrior.
+[name="악몽의 기사"]  ……타고난 전사였군.
 
 [name="血骑士"]  年轻人。
+[name="血騎士"]  ――若者よ。
+[name="The Blood Knight"]  Young man.
+[name="피의 기사"]  젊은이.
 
 [name="血骑士"]  我不是你的导师，但是，如果你渴望一个对手，我可以教你一件事情。
+[name="血騎士"]  俺は貴様の師ではない。だが、貴様が対戦相手を渇望しているというのなら、一つ教えておこう。
+[name="The Blood Knight"]  I am not your mentor. But, if it is an opponent you seek, there is one thing I can teach you.
+[name="피의 기사"]  나는 네 스승이 아니다. 하지만, 네가 상대를 원한다면 네게 한 가지 알려 주지.
 
 [name="血骑士"]  虚张声势的恐惧，对任何一个努力活在当下的人来说，都毫无意义。
+[name="血騎士"]  はったりの恐怖を振りかざしたところで、今を懸命に生きようとする者には何の意味もなさんぞ。
+[name="The Blood Knight"]  The fear you seek to instill through bluffing means nothing to someone who lives only in the present.
+[name="피의 기사"]  허세뿐인 공포는 죽을힘을 다해 살아가려고 애쓰는 그 누구에게도 무의미하다.
 
 血骑士后退了半步。
+血騎士は半歩、その場から引いた。
+The Blood Knight takes a half-step back.
+피의 기사가 뒤로 반걸음 물러섰다.
 
 鲜血渗出他的铠甲，在空中凝聚成流。
+すると、その鎧から鮮血が滲み出て、空中に集い流れを成す。
+Fresh blood oozes from his armor, condensing into a stream around him.
+선혈이 갑옷에서 배어 나와 공중에서 모여 흘렀다.
 
 红光包裹在他的武器上，就像审判的利刃。
+そうして――裁きの刃の如く、紅い光が武器を包んだ。
+A crimson light wraps around his weapon, forging it into a lethal edge of judgment.
+붉은빛이 심판의 칼날처럼 무기를 감쌌다.
 
 [name="血骑士"]  回答我，梦魇，在你梦里的历史中，在那上千年前至今的历史之中——
+[name="血騎士"]  答えろ、ナイツモラ。貴様の夢見た歴史――その数千年前から現在に至るまでの軌跡の中で――
+[name="The Blood Knight"]  Answer me, Nightzmora. In the history you dreamt, in the thousands of years between then and now––
+[name="피의 기사"]  말해 봐라, 나이츠모라. 네 꿈의 역사 속에, 그 수천 년 전부터 지금까지 이어진 역사 속에……
 
 [name="血骑士"]  可曾有感染者的丁点生机？
+[name="血騎士"]  感染者に、生きる望みが存在した試しなどあるのか？
+[name="The Blood Knight"]  Were the Infected ever given a new lease on life?
+[name="피의 기사"]  감염자는 일말의 생존 기회라도 있었는가?
 
 [name="逐魇骑士"]  ......你......
+[name="追魔騎士"]  ……貴、様……
+[name="Nightmare Knight"]  Why you...
+[name="악몽의 기사"]  ……너……
 
 [name="血骑士"]  别感到怯懦，梦魇！自称怯薛的梦魇！
+[name="血騎士"]  怯むな！　ケシクを名乗る悪夢よ！
+[name="The Blood Knight"]  You call yourself a Kheshig? Then don't back down now, Nightzmora!
+[name="피의 기사"]  겁내지 마, 나이츠모라! 케식이라 자칭하는 나이츠모라여!
 
 [name="血骑士"]  你的可汗在哪！让他上前来！
+[name="血騎士"]  貴様のハガンは何処だ！　居るというなら、ここへ喚ぶがいい！
+[name="The Blood Knight"]  Where is your Khagan now? Bring him to me!
+[name="피의 기사"]  너의 카간은 어디에 있나! 앞으로 나오라고 해!
 
 [name="耀骑士"]  你的可汗在哪里？
+[name="マーガレット"]  あなたのハガンはどこにいる？
+[name="The Radiant Knight"]  Where is your Khagan?
+[name="빛의 기사"]  너의 카간은 어디에 있어?
 
 [name="老骑士"]  你的可汗在哪里？
+[name="老騎士フォー"]  お主のハガンはどこにおる？
+[name="Old Knight"]  Where is your Khagan?
+[name="나이 든 기사"]  너의 카간은 어디에 있지?
 
 可汗的历史已经过去上千年了。
+ハガンの時代は、もう何千年も前のもの。
+Thousands of years have passed since the Khagan stepped into history.
+카간의 역사는 이미 수천 년이 지났다.
 
 你只能在历史书上找到他，孩子。
+だから、今ではもう彼は歴史の中の存在でしかないのよ、坊や。
+You'll only find him in history books, boy.
+역사책에서나 그를 찾을 수 있을 거다.
 
 怯薛？那些人是可汗的侍从，他们是这片大地上最勇武的战士。
+「ケシク」？　それは、ハガンの従者たちのことね。彼らは、この大地で一番勇ましい戦士だったと言われているわ。
+Kheshigs? They were the Khagan's attendants, the greatest warriors known to this world.
+케식? 그들은 카간의 시종이다. 그들은 이 땅에서 가장 용감한 전사다.
 
 可汗征服过很多地方，但是，也干过许多伤害他人的事情。
+……確かに、ハガンはたくさんの土地を征服したけれど……それと同時に、たくさんの人を傷つけてきたの。
+The Khagan conquered many places, but in doing so, did a lot of things that hurt people.
+카간은 많은 곳을 정복했다. 하지만, 사람을 해치는 일도 많이 했다.
 
 散播恐惧是梦魇的天性，征服欲几乎是可汗的食粮。
+恐怖を振り撒くことは、ナイツモラの生まれ持った性質であり、ハガンにとっても征服欲とは、食欲のように満たさなければならないものだからよ。
+It is in the nature of the Nightzmora to spread fear, and the desire to conquer was practically sustenance for the Khagan.
+두려움을 퍼뜨리는 건 나이츠모라의 천성이고, 정복의 욕망은 카간의 식량이다.
 
 但是呢，拓拉。
+――でもね、トゥーラ。
+But, Tola.
+하지만, 톨라.
 
 你生在这片大地之上，你会找到你自己的——
+この大地に生まれたのだから、あなたは、あなた自身の道を見つけることになるでしょう――
+You were born into this world, and you will surely find your own––
+너는 이 땅에서 태어났으니, 너 자신을 찾을 수 있을 거야……
 
 [name="逐魇骑士"]  ......父亲，劲敌，导师，理想。
+[name="追魔騎士"]  ……父。強敵。……師と、理想。
+[name="Nightmare Knight"]  ...Father, rival, master, ideals.
+[name="악몽의 기사"]  ……아버지, 강적, 스승, 그리고 이상.
 
 [name="逐魇骑士"]  我竟然......试图在这座城市寻找这些？
+[name="追魔騎士"]  私は……こともあろうに、この都市でそれを見いださんとしていたのか……？
+[name="Nightmare Knight"]  Was I actually... looking for these things in this city?
+[name="악몽의 기사"]  내가…… 이 도시에서 이런 걸 찾으려고 했나?
 
 [name="逐魇骑士"]  不！梦该醒了。
+[name="追魔騎士"]  否！　夢より出でて、目覚めるべきだ。
+[name="Nightmare Knight"]  No! It is time to wake up from my dream.
+[name="악몽의 기사"]  아니! 꿈에서 깨야 할 때다.
 
 [name="逐魇骑士"]  这只是留念，我为自己画下的天途的道路，早有注定。
+[name="追魔騎士"]  これは遠き思い出にすぎず、己が為描いた天路は――我が道は、とうに定められしもの故に。
+[name="Nightmare Knight"]  This will just be a lingering memory. The path I drew for my Khaganquest was set in stone a long time ago.
+[name="악몽의 기사"]  이건 단지 추억일 뿐, 나 자신을 위한 천도의 길은 이미 정해졌다.
 
 [Subtitle(text="年轻的猎人踏上天途♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="若き狩人、天路を往かん……♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The young hunter sets out on his Khaganquest ♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="젊은 사냥꾼이 천도의 길에 오르네♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="从梦里出发，去往黄金的彼岸♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="夢より出でて、黄金の彼岸へ……♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="From dreams he goes, towards the shores of gold ♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="꿈에서 출발해 금빛의 이상향으로 향하네♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="梦魇。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="――悪夢が。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Nightzmora.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="나이츠모라.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="一匹梦魇伫立在赛场上。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一匹の悪夢馬が、競技場に佇んでいる。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="A Nightzmora stands in the arena.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="나이츠모라 한 마리가 경기장에 서 있다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="四肢放松，破绽百出，头盔下的视线不知扫视着何处。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="その四肢はだらりと力が抜け、隙だらけで、かぶとの下の視線などはどこを見ているかもわからない。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="His limbs are at ease. His flaws are exposed. He knows not where to cast his gaze from beneath that helmet.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="사지는 축 늘어져 온갖 빈틈을 보였고, 투구 아래의 시선은 어디를 보고 있는지 알 수 없었다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="他哼着一首古老的歌谣。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="彼が、古の歌を口ずさむ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="He hums an ancient ballad.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그는 옛 노랫자락을 흥얼거렸다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="直到黑夜将他的视野涂抹♪直到骨塔矗立在心头♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="闇夜が視界を黒く染めるまで……♪　骨の塔が心にそびえるまで……♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Until the black night paints over his vision ♪ Until a tower of bone stands erect in his heart ♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="어둔운 밤이 눈을 가릴 때까지♪ 뼈의 탑이 마음속에 솟아오를 때까지♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="直到毒参扼住朦胧的故土♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="毒草がおぼろな故郷を締め上げるまで……♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Until hemlock chokes his hazy home ♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="맹독이 어렴풋한 고향을 침식할 때까지♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="血骑士"]  ......
+[name="血騎士"]  ……
+[name="The Blood Knight"]  ......
+[name="피의 기사"]  ……
 
 [name="逐魇骑士"]  ......
+[name="追魔騎士"]  ……
+[name="Nightmare Knight"]  ......
+[name="악몽의 기사"]  ……
 
 [name="血骑士"]  祷告结束了？
+[name="血騎士"]  祈りは終わったか？
+[name="The Blood Knight"]  Done saying your prayers?
+[name="피의 기사"]  기도는 끝났나?
 
 [name="逐魇骑士"]  我的家人都死了。我的同族都迷失了。
+[name="追魔騎士"]  ……私の家族は皆死んだ。我が同族は、皆消え失せた。
+[name="Nightmare Knight"]  My family is dead. My people are lost.
+[name="악몽의 기사"]  내 가족은 모두 죽었고, 내 동족은 모두 사라졌다.
 
 [name="逐魇骑士"]  ——可汗就在我的刀尖之上。
+[name="追魔騎士"]  ――ハガンは我が切先に宿る。
+[name="Nightmare Knight"]  ––The Khagan is wherever the tip of my blade points.
+[name="악몽의 기사"]  ……하지만, 카간은 내 칼끝에 있다.
 
 [name="逐魇骑士"]  我——
+[name="追魔騎士"]  我こそは――
+[name="Nightmare Knight"]  I—
+[name="악몽의 기사"]  나……
 
 [name="逐魇骑士"]  ——就是我自己的可汗！
+[name="追魔騎士"]  ――己が戴くハガンなり！
+[name="Nightmare Knight"]  ––am my own Khagan!
+[name="악몽의 기사"]  ……나 자신이 바로 카간이다!
 
 [name="逐魇骑士"]  来！
+[name="追魔騎士"]  来いッ！！
+[name="Nightmare Knight"]  Come!
+[name="악몽의 기사"]  와라!
 
 [name="莫妮克"]  ......天气，晴。无风日，适合射箭的日子。
+[name="モニーク"]  ……天気、晴れ。射るには適した、風のない日。
+[name="Monique"]  Clear weather. No wind. A fine day for shooting.
+[name="모니크"]  ……날씨, 맑음. 바람 없는 날, 활쏘기 딱 좋은 날.
 
 [name="莫妮克"]  目标，罗德岛领袖两人，种族不明的头罩人，还有一个卡特斯。
+[name="モニーク"]  ターゲットはロドスのリーダー二名。種族不明のフルフェイス、それとコータス。
+[name="Monique"]  Targets: the two leaders of Rhodes Island - one hooded person of unknown race, and one Cautus.
+[name="모니크"]  목표, 로도스 아일랜드의 두 리더. 종족 불명의 후드를 뒤집어쓴 자, 그리고 카우투스.
 
 [name="莫妮克"]  心情......很糟糕。因为每一次都有人妨碍工作。
+[name="モニーク"]  気分は……最悪。仕事のたびに邪魔が入るから。
+[name="Monique"]  Mood... Very bad. Because every time I try to do my work, someone gets in my way.
+[name="모니크"]  기분은…… 별로다. 매번 일을 방해하는 녀석이 나타나니까.
 
 [name="闪灵"]  ......
+[name="シャイニング"]  ……
+[name="Shining"]  ......
+[name="샤이닝"]  ……
 
 [name="莫妮克"]  ......补充，心情非常糟糕。
+[name="モニーク"]  ……追記、気分はやっぱり「超最悪」で。
+[name="Monique"]  Addendum. Extremely bad mood.
+[name="모니크"]  ……정정, 기분이 최악이다.
 
 [name="闪灵"]  你有写日记的习惯吗？
+[name="シャイニング"]  おや、日記をつける習慣がおありなのですか？
+[name="Shining"]  Do you have a habit of keeping a diary?
+[name="샤이닝"]  당신은 일기를 쓰는 습관이 있나 봐요?
 
 [name="莫妮克"]  谁会故意留下这些东西，送给监正会帮忙定罪吗？
+[name="モニーク"]  は？　そんなもん残すわけないでしょ。有罪認定用の物証作っとくバカがどこにいんの？
+[name="Monique"]  Who would deliberately write these things down? Might as well send it to the Adeptus Sprawiedliwi Kazimierz and ask for a speedier sentence.
+[name="모니크"]  누가 일부러 이런 걸 남겨? 감정회에 꼬투리라도 잡히라고?
 
 [name="闪灵"]  那看来，你是个会把个人情绪带入工作的人。
+[name="シャイニング"]  ならば、あなたは仕事に私情を持ち込む方なのですね。
+[name="Shining"]  By the looks of things, you're the type of person who brings her baggage with her to work.
+[name="샤이닝"]  그렇다면, 당신은 업무에 개인적인 감정을 드러내는 사람인 것 같습니다.
 
 [name="莫妮克"]  ......赦罪师，耀骑士，还有那个给人感觉很古怪的卡特斯。
+[name="モニーク"]  聴罪師に耀騎士、それとあの妙な感じのするコータス……
+[name="Monique"]  Confessarius, the Radiant Knight, and that Cautus who gives off strange vibes.
+[name="모니크"]  ……고해신부, 빛의 기사, 그리고 그 이상한 카우투스까지.
 
 [name="莫妮克"]  罗德岛到底是什么？
+[name="モニーク"]  あんたたちを抱えるロドスって、一体何なの？
+[name="Monique"]  What the hell is Rhodes Island supposed to be anyway?
+[name="모니크"]  로도스 아일랜드는 대체 뭐야?
 
 [name="闪灵"]  之前一直没有机会问问你们......你们......
+[name="シャイニング"]  ……ああ、そういえば、お聞きしそびれていたのですが……
+[name="Shining"]  I never had a chance to ask you before, but... You people...
+[name="샤이닝"]  전에는 줄곧 물어볼 기회가 없었는데요…… 당신들은……
 
 [name="闪灵"]  从哪里听到“赦罪师”这个名字的？
+[name="シャイニング"]  あなた方は、どこで「聴罪師」の名を耳にしたのですか？
+[name="Shining"]  Where did you hear the name 'Confessarius'?
+[name="샤이닝"]  이 '고해신부'라는 이름을 어디서 들었나요?
 
 莫妮克不是没有见过面前的萨卡兹出手。
+モニークは、目の前にいるサルカズが狙撃へ対処する瞬間を、既に目にしている。
+Monique has seen the skills of the Sarkaz before her.
+눈앞의 이 살카즈가 손을 쓰는 걸 모니크는 못 본 게 아니다.
 
 出色的剑术，夹杂着一些无法理解的源石技艺，也许是巫术，和耀骑士一起挡住了玄铁一箭。
+彼女はその卓越した剣技に、理解不能なアーツか巫術の類いを織り交ぜて、耀騎士と共にクロガネの一矢を防いだのだ。
+Excellent swordsmanship. Complex, seemingly incomprehensible Originium Arts - perhaps witchcraft. Along with the Radiant Knight, she was able to block a Darksteel arrow.
+뛰어난 검술에 알 수 없는 오리지늄 아츠, 어쩌면 주술일지도 모르는 걸 섞어 사용하는데, 빛의 기사와 함께 다크아이언의 화살을 막은 적이 있었다.
 
 她心底里其实想过，也许那时候的“出手阻拦”还不是这个萨卡兹的全部面貌。
+モニークは内心、あの時「矢を防いだ」動きだけを見て、このサルカズの実力すべてを知ったとは言えないだろうと考えていた。
+She had a suspicion at the time, that perhaps... 'blocking arrows' was not the full extent of the Sarkaz's abilities.
+실은 모니크도 그때 화살을 막은 게 어쩌면 이 살카즈의 전부가 아닐 수도 있다고 생각했다.
 
 但是现在，她确信了一件事。
+しかし今、彼女はある一つの確信を得るに至った。
+But now, she is convinced of one thing.
+적어도, 그녀는 한 가지 사실은 확신했다.
 
 [name="莫妮克"]  ......我没可能告诉你的。
+[name="モニーク"]  ……生憎、それを教えてあげるほど親切じゃないのよ、私。
+[name="Monique"]  ...I can't tell you that.
+[name="모니크"]  ……알려줄 수 없어.
 
 [name="闪灵"]  我也没有心慈手软到，目睹一个杀手对博士和阿米娅张弓搭箭，还能放她走的。
+[name="シャイニング"]  それは残念です。とは言えこちらも、ドクターとアーミヤさんに狙いを定める殺し屋を見逃すほどのお人よしではありませんからね。
+[name="Shining"]  I'm also not so kind-hearted that I can just watch an assassin take aim at the Doctor and Amiya, and then let her walk free.
+[name="샤이닝"]  저도 킬러가 박사님과 아미야 씨한테 활을 겨누는 걸 보고만 있을 정도로 너그럽진 않습니다.
 
 [name="闪灵"]  加上，之前的招呼，我们似乎没有还礼，有失礼仪。
+[name="シャイニング"]  以前頂いた「挨拶」に返礼せねばと思っていたところですし。
+[name="Shining"]  Besides, the last time we met, we didn't get a chance to introduce ourselves properly. A bit rude on both our parts.
+[name="샤이닝"]  게다가, 저번의 인사에 답례를 하지 않으면 실례일 테니까요.
 
 [name="莫妮克"]  ......辉光......？
+[name="モニーク"]  ……何、その光……
+[name="Monique"]  An aura...?
+[name="모니크"]  ……빛……？
 
 [name="莫妮克"]  耀骑士的同伴，都喜欢这么闪亮亮的吗？我都审美疲劳了。
+[name="モニーク"]  耀騎士のお仲間って、そうやってキラキラするのが好きな連中しかいないわけ？　こっちはいい加減、目が疲れるんだけど。
+[name="Monique"]  Why are all of the Radiant Knight's buddies so shiny and sparkly? I'm getting tired of that aesthetic.
+[name="모니크"]  빛의 기사 동료는 모두 이렇게 번쩍이는 걸 좋아하나 봐? 이젠 보기만 해도 지겨워.
 
 [name="莫妮克"]  （很温和......甚至感觉不到攻击性......萨卡兹的巫术？）
+[name="モニーク"]  （それにしても、この光……穏やかすぎる。攻撃性の欠片も感じないし……これもサルカズの巫術なの？）
+[name="Monique"]  (It's a comforting glow... Almost no hints of aggression... Is this Sarkaz witchcraft?)
+[name="모니크"]  (따뜻하네…… 심지어, 살기조차 느껴지지 않아…… 살카즈의 주술인가?)
 
 [name="莫妮克"]  （不......）
+[name="モニーク"]  （……っていうか……）
+[name="Monique"]  (No...)
+[name="모니크"]  (……아니야)
 
 [name="莫妮克"]  （她的神色......她对自己的剑感到悲哀吗？）
+[name="モニーク"]  （あの表情……自分の剣に、悲しみを覚えてる……？）
+[name="Monique"]  (Her expression... Does she lament drawing her sword?)
+[name="모니크"]  (저 여자의 표정은…… 자신의 검에 대해 슬픔을 느끼는 건가?)
 
 [name="闪灵"]  ......
+[name="シャイニング"]  ……
+[name="Shining"]  ......
+[name="샤이닝"]  ……
 
 [name="莫妮克"]  ......不回话吗。
+[name="モニーク"]  ……答えてはくれないみたいね。
+[name="Monique"]  Not in the mood to chat?
+[name="모니크"]  ……대답은 하지 않으려나 보네.
 
 [name="莫妮克"]  好吧，让我来试试，你究竟有几斤几两。
+[name="モニーク"]  いいわ。それなら、あんたの実力を試させてもらいましょうか。
+[name="Monique"]  Very well then. Let's find out just what you're worth.
+[name="모니크"]  뭐, 좋아. 그렇다면 네가 어느 정도인지 확인해볼까?
 
 [name="大嘴莫布"]  ——发、发生了什么？
+[name="ビッグマウスモーブ"]  ――い、一体何が起こったのでしょうか！？
+[name="Greatmouth Mob"]  Wh-What just happened...?
+[name="빅마우스 모브"]  ……이, 이게 무슨 일입니까?
 
 [name="大嘴莫布"]  是我眼花了吗？赛场上突然弥漫起了黑雾——这并不罕见，但是，黑雾里出现的，是什么——？
+[name="ビッグマウスモーブ"]  もしや私の目の錯覚……！？　突如として会場を黒い霧が覆ったように思います。――それ自体は珍しいことでもありませんが……黒い霧の中に現れたのは――
+[name="Greatmouth Mob"]  Are my eyes playing tricks on me? A black mist is rising from the arena – While that isn't too unusual, do you see something rising from the mist?
+[name="빅마우스 모브"]  제 눈이 침침해져서일까요? 경기장이 갑자기 시커먼 안개로 뒤덮였습니다…… 그렇게 드문 일은 아닙니다만, 검은 안개 속에서 나타난 건, 저게 뭐죠……?
 
 [name="大嘴莫布"]  那是——旗、旗帜吗？不，那是军队！？
+[name="ビッグマウスモーブ"]  もしや……旗、でしょうか？　――いや違う、あれは……軍隊！？
+[name="Greatmouth Mob"]  Is that... a banner? Wait, that's... an entire army?!
+[name="빅마우스 모브"]  저건……기, 깃발인가요? 아뇨, 저건 군대인데요!?
 
 [name="耀骑士"]  ......
+[name="マーガレット"]  ……
+[name="The Radiant Knight"]  ......
+[name="빛의 기사"]  ……
 
 [name="耀骑士"]  这就是......你的执念吗？
+[name="マーガレット"]  これが……あなたの執念の表れなのか？
+[name="The Radiant Knight"]  Is that... the product of your obsession?
+[name="빛의 기사"]  이게…… 너의 집념인가?
 
 [name="逐魇骑士"]  ——
+[name="追魔騎士"]  ――
+[name="Nightmare Knight"]  —
+[name="악몽의 기사"]  ……
 
 [name="血骑士"]  ......可惜。
+[name="血騎士"]  ……実に残念だ。
+[name="The Blood Knight"]  A shame...
+[name="피의 기사"]  ……유감이군.
 
 [name="血骑士"]  那些在观众席上远观的骑士们，是体会不到我现在的感觉的吧。
+[name="血騎士"]  何せ、観客席は遠すぎる。あの場から見ている騎士たちには、俺が今ここで味わっている感覚などはわかるまい。
+[name="The Blood Knight"]  A shame that those knights watching from the stands cannot fathom how I how I feel right now.
+[name="피의 기사"]  저 멀리 관중석에서 구경하고 있는 기사들은 지금 내 기분을 모를 거다.
 
 [name="血骑士"]  长旗飘扬，号角声响，一支军队......一个民族，一段历史。
+[name="血騎士"]  はためく長旗、鳴り響く角笛、一つの軍隊……それを織りなす一つの民族、一つの歴史。
+[name="The Blood Knight"]  The flag flutters, the horn sounds, an army marches... An entire people, an entire history.
+[name="피의 기사"]  펄럭이는 깃발, 울리는 뿔피리, 한 무리의 군대…… 하나의 민족, 하나의 역사.
 
 [name="血骑士"]  可是——
+[name="血騎士"]  だが――
+[name="The Blood Knight"]  But––
+[name="피의 기사"]  그런데……
 
 [name="血骑士"]  ——这就是你放弃当下，像个疯子一样寻死的理由吗？
+[name="血騎士"]  ――貴様が今を捨て、狂ったように死を求めるのは、これが理由だとでも言いたいのか？
+[name="The Blood Knight"]  ––is this the reason you've given up the present, to seek out death like a madman?
+[name="피의 기사"]  ……이게 바로 네가 현재를 포기하고, 미친 듯이 죽음을 찾는 이유인가?
 
 [name="逐魇骑士"]  ——呵！
+[name="追魔騎士"]  ――はぁッ！
+[name="Nightmare Knight"]  ––Hraaaagh!
+[name="악몽의 기사"]  ……헉!
 
 [name="大嘴莫布"]  梦魇骑士发动了袭击！但、但是黑雾笼罩着赛场，我们看不清究竟发生了什么！？
+[name="ビッグマウスモーブ"]  悪夢が攻撃を仕掛けましたっ！　し、しかし、この霧では……何が起きているのやら、こちらも把握しかねる事態となっております！
+[name="Greatmouth Mob"]  The Nightzmora knight launched an attack! B-But with the thick black mist enveloping the arena, I can't see what's going on!
+[name="빅마우스 모브"]  악몽의 기사가 공격했습니다! 하, 하지만 검은 안개가 경기장을 뒤덮고 있어 무슨 일이 벌어졌는지 전혀 알 수 없네요!?
 
 [name="大嘴莫布"]  是不是有什么在黑雾里前进！？难道逐魇骑士真正的法术，是召唤自己的先祖吗！？
+[name="ビッグマウスモーブ"]  何かが……黒い霧の中を前進しているようです！　まさか追魔の真のアーツは、自らの先祖を召喚する能力なのでしょうか！？
+[name="Greatmouth Mob"]  Is that something charging forward inside the mist?! Is this Nightmare Knight's true Arts? The ability to summon his ancestors?!
+[name="빅마우스 모브"]  무언가 검은 안개 속에서 앞으로 나아가고 있는 게 맞죠!? 혹시 악몽의 기사가 쓰는 진짜 아츠가 자신의 선조를 소환하는 능력일까요!?
 
 [name="血骑士"]  可笑。
+[name="血騎士"]  笑止。
+[name="The Blood Knight"]  Ridiculous.
+[name="피의 기사"]  가소롭군.
 
 [name="血骑士"]  你只是缺乏直面命运的勇气罢了。
+[name="血騎士"]  貴様は単に――運命に立ち向かう勇気を欠いているにすぎんのだ。
+[name="The Blood Knight"]  You lack the courage to face your fate.
+[name="피의 기사"]  너는 그저 운명에 마주할 용기가 없는 거다.
 
 血骑士挥舞巨斧，他知道，他并非真的面对一支古老的怯薛军队。
+血騎士が、その巨大な斧を振り上げる。彼は、自らの対峙するものが本物の古きケシク軍ではないことを理解していた。
+The Blood Knight brings down his axe. He knows he is not facing an ancient Kheshig army.
+피의 기사가 거대한 도끼를 휘둘렀다. 그는 알고 있다. 자신이 상대하는 게 옛 케식의 군대가 아니라는 걸 알고 있다.
 
 一个想要自我毁灭的年轻人。
+彼が今、向き合っているのは――滅びの道を選ぼうとする、一人の若者だ。
+A young man who seeks his own annihilation.
+자멸하려는 젊은이.
 
 一个试图召回前世的年轻人。
+過ぎ去った時代を喚び戻さんとする、一人の若者にすぎないのだ。
+A young man who tries to bring back a bygone era.
+지난 시절을 되돌리려는 젊은이.
 
 漆黑的雾气淹没了血骑士如血的铠甲。
+漆黒の霧が、その名の如く紅い血騎士の鎧を覆った。
+The jet-black mist drowns the sanguine armor of the Blood Knight.
+칠흑 같은 안개가 피의 기사의 선홍빛 갑옷을 뒤덮었다.
 
 震动，疼痛，都让人明白，这些召唤物并非虚体或幻觉。
+まずは痛み、そして衝撃が襲い来る。喚び出された者たちが、決して虚像や幻覚ではないことが実感となって押し寄せる。
+From the impact, from the pain, it is clear that the summoned entities are not illusions or holograms.
+진동과 통증은 이 소환물들이 결코 허상이나 환각이 아니란 걸 알게 했다.
 
 血骑士仍旧伫立不动，他在等待，在等待梦魇本人的袭击。
+それでも、血騎士は不動のまま立ち続け、ナイツモラ本人が向かってくるのを待っていた。
+The Blood Knight continues to stand motionless. He is waiting. Waiting for the moment when the real Nightzmora will strike.
+그래도 피의 기사는 여전히 꿋꿋한 자세로 기다리고 있었다. 그는 나이츠모라 본인의 공격을 기다리고 있었다.
 
 [name="逐魇骑士"]  （古老的语言）倒下吧，英雄！
+[name="追魔騎士"]  （古代語）倒れろ、英雄よ！
+[name="Nightmare Knight"]  (Ancient language) Sleep now, hero!
+[name="악몽의 기사"]  (고대 언어) 쓰러져라, 영웅이여!
 
 血骑士闷哼一声。
+血騎士の唸る声が零れる。
+The Blood Knight lets out a grunt.
+피의 기사가 신음 소리를 냈다.
 
 即使是卡西米尔最顶级的铠甲，也在顷刻间发出哀嚎。
+カジミエーシュ最高級のその鎧さえ、たちまち悲鳴を上げていた。
+Even Kazimierz's strongest armor wails in this moment.
+카시미어의 최상급 갑옷조차도, 이 순간만큼은 울부짖고 있었다.
 
 刀刃劈开了铠甲，强壮如血骑士也险些单膝跪地。
+悪夢の刃は鎧を裂き――その一撃には、血騎士の強靭な肉体を以てしても、危うく片膝を突きかけるほどだった。
+Blade cleaves through armor, and even the sturdy Blood Knight is almost forced to take a knee.
+칼날이 갑옷을 찢어 피의 기사처럼 강인한 육체조차 하마터면 한쪽 무릎을 꿇을 뻔했다.
 
 [name="血骑士"]  ......
+[name="血騎士"]  ……
+[name="The Blood Knight"]  ......
+[name="피의 기사"]  ……
 
 [name="逐魇骑士"]  ——！伤口不够深，唔！
+[name="追魔騎士"]  ――！　くっ、深手には至らぬか……！
+[name="Nightmare Knight"]  Damn... Only a flesh wound?
+[name="악몽의 기사"]  ……! 상처가 깊지 않은가, 크윽!
 
 [name="血骑士"]  你，伤了我。
+[name="血騎士"]  貴様は、俺を傷つけるに至った。
+[name="The Blood Knight"]  You were able to cut me.
+[name="피의 기사"]  넌, 나를 상처 입혔다.
 
 [name="血骑士"]  但我的血，也抚上了你的武器。
+[name="血騎士"]  ――しかし、それは同時に「俺の血がその武器に触れた」ことを意味する。
+[name="The Blood Knight"]  But my blood is now on your weapon.
+[name="피의 기사"]  하지만, 내 피도 너의 무기에 묻었다.
 
 [name="逐魇骑士"]  （陷阱——！？）
+[name="追魔騎士"]  （――謀られた――ッ！？）
+[name="Nightmare Knight"]  (A trap––?!)
+[name="악몽의 기사"]  (함정……!?)
 
 [name="血骑士"]  不必羞耻，缺乏实战经验本来就是你的弱点。
+[name="血騎士"]  恥じることはない。実戦経験の乏しさは元から貴様の弱点だ。
+[name="The Blood Knight"]  Don't feel bad. Your lack of combat experience has always been your weakness.
+[name="피의 기사"]  부끄러울 게 없다. 실전 경험이 부족한 게 네 약점이니까.
 
 [name="血骑士"]  你离所谓的“怯薛”，似乎还差得很远。
+[name="血騎士"]  貴様はあの「ケシク」には未だほど遠いと見える。
+[name="The Blood Knight"]  You are still a far cry from the so-called 'Kheshig.'
+[name="피의 기사"]  너는 '케식'이라 하기엔 아직 멀었다.
 
 [name="莫妮克"]  ......你和耀骑士挡下玄铁一箭的画面，确实让人印象深刻，哪怕是银枪的天马也不可能轻易挡下玄铁的惩罚。
+[name="モニーク"]  ……あんたと耀騎士がクロガネの矢を防いだあの瞬間は、私の目にも焼き付いてるわ。たとえ銀槍のペガサスでも、クロガネの懲罰を防ぐなんてこと、そう簡単にはできないもの。
+[name="Monique"]  The sight of you and the Radiant Knight blocking Darksteel's arrow made a deep impression. Even a Silverlance Pegasus would have trouble withstanding Darksteel's punishment.
+[name="모니크"]  ……네가 빛의 기사와 함께 다크아이언의 화살을 막은 장면은 아주 인상적이었어. 실버랜스 페가수스조차도 다크아이언의 징벌을 쉽게 막을 수 없거든.
 
 [name="莫妮克"]  情报人员和我说，你们和耀骑士自称“使徒”，是一个治疗感染者的组织。
+[name="モニーク"]  諜報員が言うには、あんたらと耀騎士は「使徒」とかいう感染者治療組織を名乗ってるらしいけど……
+[name="Monique"]  My sources tell me you and the Radiant Knight call yourselves the 'Followers,' an organization that treats the Infected.
+[name="모니크"]  정보원에게 들었는데, 너와 빛의 기사가 '사도'라는 감염자 치료 조직을 자칭하고 다닌다면서?
 
 [name="莫妮克"]  “医师”，呵，看来，我该把这个情报人员丢进钳兽笼。
+[name="モニーク"]  あんたが「医者」ですって？　はぁ～あ、どこがよ。あの諜報員、鉗獣の檻にでもぶち込んでやろうかしら。
+[name="Monique"]  A 'physician,' huh? Looks like I need to toss that informant of mine into the gloompincer cage.
+[name="모니크"]  결국…… '의사'란 말인가. 하아, 아무래도 그 정보원을 글룸핀서 우리에 처넣어야 할 것 같네.
 
 [name="闪灵"]  ......很遗憾，我并不喜欢战斗。
+[name="シャイニング"]  ……私としては、争いは好きではないのですが。
+[name="Shining"]  Unfortunately, I'm not fond of fighting.
+[name="샤이닝"]  ……유감입니다만, 저는 전투를 별로 좋아하지 않습니다.
 
 [name="莫妮克"]  ......是吗。
+[name="モニーク"]  ……へえ、そう。
+[name="Monique"]  Is that so?
+[name="모니크"]  ……그렇군.
 
 [name="莫妮克"]  我以前是个维多利亚的军人。
+[name="モニーク"]  それなら、少しお喋りしましょうか。……私、前はヴィクトリアの軍人だったの。
+[name="Monique"]  I used to be in the Victorian army.
+[name="모니크"]  난 전에 빅토리아 군인이었어.
 
 [name="莫妮克"]  因为没有贵族身份，当不上军官，最后在联合军演上被商业联合会挖来了。
+[name="モニーク"]  貴族の出じゃないせいで将校になれなくてさ。で、合同軍事演習の時に商業連合会に引き抜かれたってわけ。
+[name="Monique"]  Because I was just a commoner without noble blood, I couldn't become an officer. The K.G.C.C. ended up poaching me during a joint military exercise.
+[name="모니크"]  귀족이 아니어서 장교를 달지 못했지만. 그러다가 결국 합동 군사훈련에서 상업연합회에 의해 스카우트됐지.
 
 [name="莫妮克"]  大概那会儿，我的上司们还在窃喜少了一个刺头吧。
+[name="モニーク"]  きっとあの時、私の上司たちは、厄介払いができてさぞ喜んでたことでしょうね。
+[name="Monique"]  At that time, my old bosses were still rejoicing over one fewer thorn in their sides.
+[name="모니크"]  분명 그때, 내 상사들이 눈엣가시 한 놈이 없어졌다고 몰래 기뻐했을걸.
 
 [name="闪灵"]  ......
+[name="シャイニング"]  ……
+[name="Shining"]  ......
+[name="샤이닝"]  ……
 
 [name="莫妮克"]  所以，我对自己的射术还是很自信的。
+[name="モニーク"]  ま、そういう経歴だから、私は自分の弓術に自信があるの。
+[name="Monique"]  So, I'm quite confident in my aim.
+[name="모니크"]  그래서 나는 궁술에 아주 자신이 있지.
 
 [name="莫妮克"]  这个距离，正面接下我三箭，我就放弃对罗德岛的计划，怎么样？
+[name="モニーク"]  それで、一つ提案なんだけど――私の矢を三本、この距離で真正面から受けきれたら、ロドスにはもう手を出さずにいてあげる……どう？
+[name="Monique"]  From this distance, take three of my arrows head on, and I'll drop my plans for Rhodes Island. Deal?
+[name="모니크"]  만약 이 거리에서, 내가 쏜 화살 세 발을 정면으로 받아낸다면, 로도스 아일랜드는 포기할게. 어때?
 
 [name="闪灵"]  我如何相信你？
+[name="シャイニング"]  その言葉が、信じるに値する根拠は？
+[name="Shining"]  Why should I trust you?
+[name="샤이닝"]  어떻게 당신의 그 말을 믿죠?
 
 [name="莫妮克"]  ......信不信由你，无胄盟有无数种办法对付罗德岛。
+[name="モニーク"]  ……信じるも信じないも、あんた次第よ。そもそも、ロドスを処理する方法くらい、無冑盟にはいくらでもあるわけだしね。
+[name="Monique"]  Whether or not you do is up to you. The Armorless Union has no shortage of ways to deal with Rhodes Island.
+[name="모니크"]  ……믿든 말든. 아무튼, 아머레스 유니온이 로도스 아일랜드를 상대할 방법은 수없이 많으니까.
 
 [name="莫妮克"]  比如在他们现在毫无戒心拿在手上的玩偶，涂抹上一些有挥发性的药物......
+[name="モニーク"]  たとえば、あいつらが今何の警戒もせず持っているぬいぐるみに、揮発性の薬を塗るだとか……
+[name="Monique"]  For example, we could've applied some volatile chemicals to those dolls that they're clutching so unsuspectingly right now...
+[name="모니크"]  이를테면, 아무 경계심 없이 손에 든 인형에 휘발성 맹독이 발려 있다던가……
 
 [name="闪灵"]  ......
+[name="シャイニング"]  ……
+[name="Shining"]  ......
+[name="샤이닝"]  ……
 
 [name="莫妮克"]  别拿这种眼神看我，安排这种事并不困难。
+[name="モニーク"]  そんな目で見ないでくれる？　この程度の仕込みなら造作もないって話をしただけよ。
+[name="Monique"]  Don't give me that look. Anyone could arrange something like that.
+[name="모니크"]  그런 눈빛으로 쳐다보지 마, 그 정도는 일도 아니야.
 
 [name="闪灵"]  三箭。
+[name="シャイニング"]  ――三本、と仰いましたね。
+[name="Shining"]  Three shots.
+[name="샤이닝"]  세 발이죠?
 
 [name="莫妮克"]  ......三箭。
+[name="モニーク"]  ……ええ、三本よ。
+[name="Monique"]  Three shots.
+[name="모니크"]  ……그래, 세 발.
 
 [name="莫妮克"]  呼......
+[name="モニーク"]  ……ふぅ……
+[name="Monique"]  (Exhales) ...
+[name="모니크"]  후우……
 
 [name="莫妮克"]  第一箭。
+[name="モニーク"]  じゃあ、一本目。
+[name="Monique"]  Number one.
+[name="모니크"]  첫 번째다.
 
 莫妮克张弓搭箭，维多利亚最标准的姿势。
+モニークは、ヴィクトリアで最も標準的な姿勢を取って、弓を引き絞る。
+Monique draws her bowstring. A picture-perfect Victorian form.
+모니크는 빅토리아의 가장 표준적인 자세로 활시위를 당기고 화살을 얹었다.
 
 那些在军队里的日子，年轻的莫妮克即是如此百步穿杨，深得赏识。
+軍人時代、百発百中を誇った彼女は、その腕を非常に高く評価されていた。
+Back in her military days, the young Monique could pierce a willow branch at a hundred paces. She was famous for it.
+군에 있을 때 백발백중이었던 모니크는 그 솜씨에 높은 평가를 받았었다.
 
 [name="莫妮克"]  ......！
+[name="モニーク"]  ……！
+[name="Monique"]  ......!
+[name="모니크"]  ……!
 
 [name="闪灵"]  这一箭，太浅。
+[name="シャイニング"]  ……浅すぎますね。
+[name="Shining"]  Didn't draw enough for that one.
+[name="샤이닝"]  이건, 힘이 너무 약하군요.
 
 眼前的萨卡兹甚至没有拔剑。
+サルカズは、剣を抜きさえしなかった。
+The Sarkaz before her didn't even draw her sword.
+그러나 눈앞의 살카즈는 심지어 검을 뽑지도 않았다.
 
 出乎预料的结果使莫妮克顿时感到胸中一阵闷热，不甘涌上心头。
+思わぬ結果に、モニークの胸は締め付けられ、悔しさが込み上げてくる。
+The unexpected result sends a stifling heat through Monique's chest, the unwanted sensation rushes toward her heart.
+예상 밖의 결과에 모니크는 문득 가슴이 갑갑해지더니, 이내 분통이 터지고 말았다.
 
 [name="莫妮克"]  ......第二箭。
+[name="モニーク"]  ……二本目。
+[name="Monique"]  Number two.
+[name="모니크"]  ……두 번째다.
 
 再一次拉弓。
+再度、弓を引く。
+She draws her bow taut a second time.
+그리고는 다시 활시위를 당겼다.
 
 曾在某个雨夜，莫妮克袭击了一位一阶征战骑士。
+彼女は以前――ある雨の夜に、一人の第一階級征戦騎士を襲撃したことがある。
+On a rainy night, Monique once attacked a first-order campaign knight.
+어느 비오는 밤, 모니크는 1등급 출정 기사를 습격한 적이 있었다.
 
 对方不是什么名声大噪的英雄，却也是个实打实的乌卡战争老兵。
+その騎士は名のある英雄でこそなかったが、カウ戦争を戦い抜いた真のベテランだった。
+The opponent was not some famous hero, but a true veteran of the Ursus-Kazimierz War.
+상대는 명성이 높은 영웅은 아니었지만, 우카전쟁을 겪었던 베테랑이었다.
 
 灵敏的反应令他察觉到了暗箭，双方扭打起来，跌落山崖。
+ゆえに、彼は闇の中から放たれた矢にも鋭く反応した。そして、そのまま揉み合いとなり、双方共に崖から落ちた。
+His quick reflexes spared him the arrow from the darkness, and the two ended up locked in combat until they plunged off a cliff.
+민첩한 반응으로 그는 날아온 화살을 피했고, 둘은 몸싸움을 벌이다 낭떠러지로 떨어졌다.
 
 早春的卡西米尔树林，春寒料峭，一场密林中的追逐战，持续了七天七夜。
+カジミエーシュの早春の森は肌寒く、鬱蒼とした森の中での追撃戦は七日七晩続いた。
+The forests of Kazimierz were cold and steep in the early spring, and the chase through the dense woods lasted seven days and nights.
+이른 봄의 카시미어 숲은 꽃샘추위로 쌀쌀했고, 정글에서의 추격전은 7박 7일 동안 지속되었다.
 
 在四肢的疼痛和耳旁的嗡鸣声几乎到达极限的时刻，她张弓搭箭，结果了正在水源旁饮水的目标。
+耳鳴りと体中を蝕む痛みとが限界に達しようというその瞬間、彼女は弓を引き絞り、水辺で喉を潤すターゲットをようやく仕留めたのだ。
+At the moment when the pain in her limbs and the ringing in her ears were almost intolerable, she drew her bowstring back and nocked her arrow once more, finding her target as he stopped for water.
+온몸의 통증과 이명 때문에 거의 한계에 이르렀을 때, 그녀는 활시위를 당기고 화살을 얹었다. 결국 모니크는 물가에서 물을 마시고 있던 목표를 잡았다.
 
 [name="闪灵"]  ......姿势变了，眼神也变了。
+[name="シャイニング"]  ……姿勢が変わり、目つきも変わった……
+[name="Shining"]  Her stance changed, as has the look in her eyes.
+[name="샤이닝"]  ……자세가 바뀌었네요. 눈빛도 변했고요.
 
 [name="闪灵"]  你就像一个伺机待发的猎人。
+[name="シャイニング"]  さながら、好機をうかがう狩人のようですね。
+[name="Shining"]  Like a hunter, waiting for an opening.
+[name="샤이닝"]  꼭 기회를 엿보는 사냥꾼 같아요.
 
 [name="莫妮克"]  ——！
+[name="モニーク"]  ――！
+[name="Monique"]  —!
+[name="모니크"]  ……!
 
 被弹开的箭矢在半空中折成两节。
+矢が弾かれ、空中で真っ二つに折れる。
+The arrow split in two in midair.
+튕겨 나간 화살은 허공에서 두 동강이 났다.
 
 一节插在地上，一节没入草坪，惊起几只闲聊的羽兽。
+片方は地面に突き刺さり、もう片方は茂みに飛び、隠れてお喋りしていた羽獣たちを驚かせた。
+One segment embedded itself into the ground. The other disappeared into a grassy clearing, where it startled a few chattering fowlbeasts.
+한 토막은 땅에 꽂혔고, 다른 한 토막은 잔디밭에 떨어져 수다를 떨고 있던 파울 비스트들을 놀라게 했다.
 
 [name="闪灵"]  但我并不想成为猎物。
+[name="シャイニング"]  けれども、私は獲物になるつもりなどありません。
+[name="Shining"]  But I have no intention of becoming your prey.
+[name="샤이닝"]  하지만, 저는 사냥감이 될 생각은 없습니다.
 
 [name="莫妮克"]  ......赦罪师都是你这样的剑客？
+[name="モニーク"]  ……聴罪師って、全員あんたと同じレベルの剣士なの？
+[name="Monique"]  Are all Confessarii all as skilled with the sword as you?
+[name="모니크"]  ……고해신부는 모두 너 같은 검객이야?
 
 [name="莫妮克"]  或者该问，罗德岛像你这样的人有很多吗？
+[name="モニーク"]  それとも、ロドスにはあんたみたいな奴がうじゃうじゃいるのかって聞いたほうがいいかしら？
+[name="Monique"]  Or rather, are there a lot of other people at Rhodes Island like you?
+[name="모니크"]  아니면, 로도스 아일랜드에 너 같은 사람이 많은지 물어봐야 하나?
 
 [name="闪灵"]  ......
+[name="シャイニング"]  ……
+[name="Shining"]  ......
+[name="샤이닝"]  ……
 
 [name="莫妮克"]  （......罗德岛的风险评估是不是要重做一下......）
+[name="モニーク"]  （……こうなると、ロドスへのリスク評価を見直しておくべきだと思うけど……）
+[name="Monique"]  (Should we redo Rhodes Island's risk assessment?)
+[name="모니크"]  (……로도스 아일랜드의 평가를 재검토해야 할 것 같은데……)
 
 [name="莫妮克"]  ......实话说吧，解决罗德岛是董事会的任务。
+[name="モニーク"]  そうそう。実は、ロドスを始末しろっていうのは理事会からの命令なのよね。
+[name="Monique"]  To be honest, getting rid of Rhodes Island should be the responsibility of the Board.
+[name="모니크"]  ……사실 로도스 아일랜드를 처리하는 건 이사회 쪽의 임무야.
 
 [name="莫妮克"]  但很快，我就不再听命行动了。
+[name="モニーク"]  だけど私、もうすぐ命令を聞くのは止めにする予定なの。
+[name="Monique"]  But soon enough, I won't be acting on their orders.
+[name="모니크"]  하지만, 나는 곧 명령에 따르지 않아도 돼.
 
 [name="闪灵"]  ......
+[name="シャイニング"]  ……
+[name="Shining"]  ......
+[name="샤이닝"]  ……
 
 [name="莫妮克"]  不信？
+[name="モニーク"]  どう？　これも信じられない？
+[name="Monique"]  You don't believe me?
+[name="모니크"]  믿기지 않아?
 
 [name="闪灵"]  不......实际上，我并不感到意外。
+[name="シャイニング"]  いいえ……むしろ、そう意外でもありません。
+[name="Shining"]  No... Actually, that doesn't come as a surprise.
+[name="샤이닝"]  아뇨…… 사실, 전혀 놀랍지 않습니다.
 
 [name="闪灵"]  我们的领导人，已经预见到了这一可能性。
+[name="シャイニング"]  我々のリーダーが、その可能性を予見していましたから。
+[name="Shining"]  Our leader has also foreseen this possibility.
+[name="샤이닝"]  저희 리더가 이미 그 가능성을 예측했으니까요.
 
 [name="闪灵"]  所以你想说什么？你想说这场决斗，是建立在你的自尊心上？
+[name="シャイニング"]  それで、あなたは何を仰りたいのですか？　この戦いは、あなたのエゴのためのものだ、とでも？
+[name="Shining"]  So what's the point of you saying this? That this duel is solely a matter of your pride?
+[name="샤이닝"]  그래서, 당신은 무슨 말을 하고 싶은데요? 자존심 때문에 이 결투를 하고 싶다는 겁니까?
 
 [name="莫妮克"]  我想说......你该试着使出全力，萨卡兹。
+[name="モニーク"]  私はね……全力を出せって言いたいのよ、サルカズ。
+[name="Monique"]  The point is... You should give this everything you've got, Sarkaz.
+[name="모니크"]  네가…… 전력을 다해야 한다고 말하고 싶었어, 살카즈.
 
 [name="莫妮克"]  最后一箭。
+[name="モニーク"]  さあ――これが、最後の一本。
+[name="Monique"]  Last one.
+[name="모니크"]  마지막 한 발이다.
 
 [name="逐魇骑士"]  ......呃！
+[name="追魔騎士"]  ……ぐっ！
+[name="Nightmare Knight"]  ...Nngh!
+[name="악몽의 기사"]  ……으윽!
 
 [name="血骑士"]  结束了。
+[name="血騎士"]  これで終わりだ。
+[name="The Blood Knight"]  It's over.
+[name="피의 기사"]  여기까지다.
 
 [name="大嘴莫布"]  绝地反击！势大力沉的一击，将萦绕赛场的黑雾彻底打散！
+[name="ビッグマウスモーブ"]  窮地からの見事な反撃ーッ！　血騎士の強烈な一撃が、会場を覆う黒い霧を完全に消し去りました！
+[name="Greatmouth Mob"]  A stunning reversal! In a single heavy blow, the Blood Knight has dissipated the heavy mist lingering in the arena!
+[name="빅마우스 모브"]  극적인 반격입니다! 세차고 묵직한 일격으로 경기장을 감돌고 있던 검은 안개를 깔끔하게 걷어냈습니다!
 
 [name="大嘴莫布"]  如同浪涛般的声势，将逐魇骑士制造的幻觉在顷刻间摧毁！
+[name="ビッグマウスモーブ"]  怒濤の気迫で、追魔騎士の生みだした幻覚を瞬時に粉砕！
+[name="Greatmouth Mob"]  His momentum sweeps right through Nightmare Knight's illusions!
+[name="빅마우스 모브"]  거대한 파도 같은 기세로, 악몽의 기사가 만들어낸 환각을 순식간에 타파했습니다!
 
 [name="大嘴莫布"]  失策啊梦魇！棋差一着！面对掌握鲜血法术的血骑士，轻敌近身正是他最惨痛的失误！！
+[name="ビッグマウスモーブ"]  これは追魔騎士の失策か！　鮮血のアーツを操る血騎士を相手に、無闇に近付いたことはまさに痛恨のミスだった～～ッ！！
+[name="Greatmouth Mob"]  Too bad for you, Nightzmora! You made one miscalculation! In the face of the Blood Knight and his mastery of Blood Arts, you underestimated his skills in a melee!
+[name="빅마우스 모브"]  나이츠모라의 미스였습니다! 딱 한 수 부족했습니다! 피의 아츠를 사용하는 피의 기사를 얕잡아 봤던 것이 가장 가슴 아픈 실수였습니다!!
 
 [name="玛嘉烈"]  ......那会是幻觉吗？那几乎就是......一场战争。
+[name="マーガレット"]  ……今のは、幻覚か……？　まるで、一幕の戦争のような……
+[name="Margaret"]  Was that really an illusion? It seemed like... an entire war.
+[name="마가렛"]  ……저게 환각이라고? 거의…… 전쟁 같았는데.
 
 [name="逐魇骑士"]  ......嘎啊......啊啊，啊啊......
+[name="追魔騎士"]  ……が……はッ……あ、あぁ……
+[name="Nightmare Knight"]  Graaaah.... Ahhhhh! Arrrrrrghh!!
+[name="악몽의 기사"]  ……크아아……아아, 아아아……
 
 [name="大嘴莫布"]  什么！？如此近距离的冲击，逐魇骑士竟然还站在赛场上！？
+[name="ビッグマウスモーブ"]  なっ、なんということでしょう！　この状況で、追魔騎士はまだ競技場に立っています！
+[name="Greatmouth Mob"]  What?! Even after taking that tremendous blow at point-blank range, Nightmare Knight is still standing?!
+[name="빅마우스 모브"]  어떻게 된 거죠!? 이렇게 가까운 거리의 충격을 이겨내고, 악몽의 기사가 아직 경기장에 서 있을 수 있다니요!?
 
 [name="大嘴莫布"]  不可思议！难道他还有反击的——
+[name="ビッグマウスモーブ"]  信じられません！　まさか、反撃するつもりなのか――
+[name="Greatmouth Mob"]  Unbelievable! Could he be mustering a counterattack–?
+[name="빅마우스 모브"]  정말 믿기지 않습니다! 혹시 그에게 아직 반격의……
 
 [name="血骑士"]  ——我是血骑士，向裁判团申请沟通。
+[name="血騎士"]  ――血騎士の名において、審判団への意見を申し出る。
+[name="The Blood Knight"]  ––As the Blood Knight, I would like to put in a request to speak with the judges.
+[name="피의 기사"]  ……나는 피의 기사다. 심판단에 전하고 싶은 말이 있다.
 
 [name="血骑士"]  ......是的，他已经昏过去了，再慢会有生命危险，宣布结果吧。
+[name="血騎士"]  ……そう。彼は既に、意識を失っている。これ以上判断が遅れれば命に関わるだろう。結果を言い渡してくれ。
+[name="The Blood Knight"]  Yes, he has lost his senses. Should we continue this, his life will be in danger. Let's call this match.
+[name="피의 기사"]  ……그렇다, 악몽의 기사는 이미 기절했다. 더 이상 지체하면 생명이 위험할 수 있으니, 결과를 발표해.
 
 [name="大嘴莫布"]  ——裁判团作出了判决！毫无疑问，卡西米尔特别锦标赛首位进军决赛的骑士已经诞生！
+[name="ビッグマウスモーブ"]  ――審判団の結論が出ました！　カジミエーシュメジャー決勝進出最初の騎士が誕生します！
+[name="Greatmouth Mob"]  ––The judges have reached a verdict! Without a doubt, the first knight to advance to the finals of the Major has been decided!
+[name="빅마우스 모브"]  ……심판단이 결정을 내렸습니다! 의심의 여지가 없이, 카시미어 특별 토너먼트의 첫 결승 진출자가 탄생했습니다!
 
 [name="大嘴莫布"]  梦魇与冠军的决斗！恐惧与恐惧的较量！已经得出了结果——！
+[name="ビッグマウスモーブ"]  悪夢と王者の決闘！　恐怖と恐怖の腕比べ！　その勝敗はここに決しました――！
+[name="Greatmouth Mob"]  The clash between the Nightzmora and the champion has ended! A battle between fear and terror incarnate! I have the results right here––!!
+[name="빅마우스 모브"]  나이츠모라와 챔피언의 결투! 공포와 공포의 충돌! 결과는 이미 나왔습니다……!
 
 [name="大嘴莫布"]  请允许我荣幸地宣布，获胜者是——
+[name="ビッグマウスモーブ"]  それでは、宣言いたします。勝者は――
+[name="Greatmouth Mob"]  It is my great honor to announce the winner of tonight's round––
+[name="빅마우스 모브"]  이 결과를 발표할 수 있어 매우 영광입니다. 우승자는 바로……
 
 在莫布宣布获胜者的姓名之前，赛场的角落，那扎眼的隔栏之后。
+モーブがその名を呼ぼうとした時――会場の隅にある、よく目立つ仕切りの向こう側で。
+Before Mob can finish announcing the winner's name, from behind a conspicuous barrier in the corner of the arena....
+모브가 우승자의 이름을 발표하기 전, 경기장의 구석, 눈에 띄는 칸막이 뒤.
 
 有一位感染者骑士率先站了起来。
+一人の感染者騎士が、最初に立ち上がった。
+A certain Infected knight stands up.
+한 감염자 기사가 먼저 일어섰다.
 
 [name="感染者骑士A"]  血骑士！
+[name="感染者騎士A"]  血騎士！
+[name="An Infected Knight A"]  The Blood Knight!
+[name="감염자 기사 A"]  피의 기사!
 
 [name="感染者骑士B"]  血骑士！血骑士！血骑士！
+[name="感染者騎士B"]  血騎士！　血騎士！　血騎士！
+[name="An Infected Knight B"]  The Blood Knight! The Blood Knight! The Blood Knight!
+[name="감염자 기사 B"]  피의 기사! 피의 기사! 피의 기사!
 
 [name="玛嘉烈"]  都是......感染者？
+[name="マーガレット"]  これは……皆、感染者か？
+[name="Margaret"]  They're all... Infected?
+[name="마가렛"]  죄다…… 감염자?
 
 [name="感染者骑士"]  血骑士赢了！血骑士万岁！
+[name="感染者騎士"]  血騎士が勝ったぞ！　血騎士万歳！
+[name="An Infected Knight"]  The Blood Knight has won! Long live the Blood Knight!
+[name="감염자 기사"]  피의 기사가 이겼다! 피의 기사 만세!
 
 [name="观赛的感染者"]  血骑士！血骑士！
+[name="観戦する感染者"]  血騎士！　血騎士！
+[name="A Spectating Infected"]  The Blood Knight! The Blood Knight!
+[name="경기를 관람하던 감염자"]  피의 기사! 피의 기사!
 
 [name="观赛的感染者"]  血骑士！血骑士！
+[name="観戦する感染者"]  血騎士！　血騎士！
+[name="A Spectating Infected"]  The Blood Knight! The Blood Knight!
+[name="경기를 관람하던 감염자"]  피의 기사! 피의 기사!
 
 [Subtitle(text="血骑士！血骑士！血骑士！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="血騎士！　血騎士！　血騎士！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The Blood Knight! The Blood Knight! The Blood Knight!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="피의 기사! 피의 기사! 피의 기사!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="血骑士！血骑士！血骑士！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="血騎士！　血騎士！　血騎士！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="The Blood Knight! The Blood Knight! The Blood Knight!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="피의 기사! 피의 기사! 피의 기사!", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="血骑士"]  ......
+[name="血騎士"]  ……
+[name="The Blood Knight"]  ......
+[name="피의 기사"]  ……
 
 血骑士！血骑士！血骑士！
+血騎士！　血騎士！　血騎士！
+The Blood Knight! The Blood Knight! The Blood Knight!
+피의 기사! 피의 기사! 피의 기사!
 
 血骑士！血骑士！血骑士！
+血騎士！　血騎士！　血騎士！
+The Blood Knight! The Blood Knight! The Blood Knight!
+피의 기사! 피의 기사! 피의 기사!
 
 血骑士缓缓举起了手，向观众示意。
+血騎士はゆっくりと手を挙げると、観客の声援に応えた。
+The Blood Knight slowly lifts his hand and gestures to the audience.
+피의 기사가 천천히 손을 들어 관중에게 화답했다.
 
 随后他回过头，看着仍旧没有倒下的梦魇。
+そしてそこで振り返り、いまだ倒れずに立ち続ける悪夢を見やる。
+He then turns his head to look at the Nightzmora who has still not fallen.
+그리고는 고개를 돌려, 여전히 쓰러지지 않은 나이츠모라를 바라보았다.
 
 视线上抬，在梦魇的背后，极远方的观众席上，有着另一位骑士与血骑士视线相交。
+彼が視線を上げると――悪夢の後ろ、遠い観客席にいた、とある騎士と目が合った。
+As the Blood Knight lifts his eyes above the Nightzmora, his gaze meets that of another knight in the distance.
+시선을 위로 하자, 나이츠모라의 뒤쪽, 아주 먼 곳의 관중석에 있는 다른 한 기사와 눈이 마주쳤다.
 
 [name="耀骑士"]  ......
+[name="マーガレット"]  ……
+[name="The Radiant Knight"]  ......
+[name="빛의 기사"]  ……
 
 [name="血骑士"]  ......
+[name="血騎士"]  ……
+[name="The Blood Knight"]  ......
+[name="피의 기사"]  ……
 
 血骑士！血骑士！血骑士！
+血騎士！　血騎士！　血騎士！
+The Blood Knight! The Blood Knight! The Blood Knight!
+피의 기사! 피의 기사! 피의 기사!
 
 [name="大嘴莫布"]  呃......
+[name="ビッグマウスモーブ"]  ええっと……
+[name="Greatmouth Mob"]  Umm...
+[name="빅마우스 모브"]  네……
 
 [name="大嘴莫布"]  （职业素养告诉我，在观众呐喊的时候我不该用麦克风插嘴，但是，好像大都是感染者......没问题吗？）
+[name="ビッグマウスモーブ"]  （私のプロ意識が囁いている……！　観客の上げる歓声を邪魔するべきじゃない、って。……だけど、これはほとんど感染者だ……このままにして大丈夫なのか？）
+[name="Greatmouth Mob"]  (The professional thing would be to not interrupt the audience when they're in an uproar, but most of them seem like they're Infected... so maybe it's fine?)
+[name="빅마우스 모브"]  (나의 프로 의식은 관중들이 외치고 있을 때 마이크로 방해하지 말라고 알려주는데, 대부분이 감염자들이잖아…… 문제없으려나?)
 
 [name="电视里的声音"]  血骑士！血骑士！血骑士！
+[name="テレビの音声"]  血騎士！　血騎士！　血騎士！
+[name="A Voice on the Television"]  The Blood Knight! The Blood Knight! The Blood Knight!
+[name="TV 소리"]  피의 기사! 피의 기사! 피의 기사!
 
 [name="烛骑士"]  ......这就是卡西米尔感染者的英雄，玛嘉烈。
+[name="燭騎士"]  ……マーガレットさん。これが、カジミエーシュの感染者たちの英雄なのです。
+[name="The Candle Knight"]  This is the hero of Kazimierz's Infected, Margaret.
+[name="양초의 기사"]  ……이분이 바로 카시미어 감염자의 영웅입니다, 마가렛 씨.
 
 [name="烛骑士"]  你打算，怎么对付那个与你重叠的形象？
+[name="燭騎士"]  あなたは、自らと重なるイメージを持つ相手に、どう対処なさるおつもりでしょうか？
+[name="The Candle Knight"]  You strive to fulfill a similar role. How will you deal with this overlap?
+[name="양초의 기사"]  당신과 겹치는 저 상대를 어떻게 대응할 생각인가요?
 
 [name="电视里的声音"]  血骑士！血骑士！血骑士！
+[name="テレビの音声"]  血騎士！　血騎士！　血騎士！
+[name="A Voice on the Television"]  The Blood Knight! The Blood Knight! The Blood Knight!
+[name="TV 소리"]  피의 기사! 피의 기사! 피의 기사!
 
 [name="伊奥莱塔·罗素"]  这就是感染者......狄开俄波利斯。
+[name="ラッセル"]  これこそが、感染者騎士……ディカイオポリス。
+[name="Ioleta Russell"]  This is the Infected... Dikaiopolis.
+[name="이올레타 로시"]  이게 바로 감염자…… 디카이오폴리스.
 
 [name="电视里的声音"]  血骑士！血骑士！血骑士！
+[name="テレビの音声"]  血騎士！　血騎士！　血騎士！
+[name="A Voice on the Television"]  The Blood Knight! The Blood Knight! The Blood Knight!
+[name="TV 소리"]  피의 기사! 피의 기사! 피의 기사!
 
 [name="发言人马克维茨"]  ......英雄，血骑士。真是夸张的号召力。
+[name="代弁者マルキェヴィッチ"]  ……英雄、血騎士……本当に、凄まじい影響力ですね。
+[name="Spokesman Malkiewicz"]  So that's the hero, the Blood Knight. So much fanfare for that name.
+[name="대변인 말키위츠"]  ……영웅, 피의 기사, 정말 대단한 영향력이군요.
 
 [name="发言人马克维茨"]  耀骑士虽然是一个抗争的典范，但说到底，真正为感染者谋取了生存空间的，是血骑士狄开俄波利斯。
+[name="代弁者マルキェヴィッチ"]  耀騎士は抵抗の手本にこそなりましたが……結局のところ、感染者に生きるすべを与えたのは、血騎士ディカイオポリスです。
+[name="Spokesman Malkiewicz"]  Though the Radiant Knight is a paragon of defiance, the one who truly managed to carve out a space for the Infected... is the Blood Knight, Dikaiopolis.
+[name="대변인 말키위츠"]  빛의 기사가 항쟁의 모범이긴 하지만, 결국 감염자를 위해 살아갈 공간을 마련해 준 것은 피의 기사 디카이오폴리스입니다.
 
 [name="发言人马克维茨"]  ......但是，他向我们俯首称臣已经很久了。
+[name="代弁者マルキェヴィッチ"]  とは言え、彼は我々に服従してから随分と経っています。
+[name="Spokesman Malkiewicz"]  But... it has been a long time since he bowed his head to us.
+[name="대변인 말키위츠"]  ……그러나, 이미 우리에게 고개를 숙인 지 오래되었지요.
 
 [name="发言人麦基"]  ......我以一介媒体从业者的身份，对你的提案深感佩服，马克维茨先生。
+[name="代弁者マッキー"]  ……メディアに従事してきた身としても、君の提案にはまったく感服するよ、マルキェヴィッチ君。
+[name="Spokesman McKee"]  In my capacity as a media man, I deeply appreciate your proposal, Mr. Malkiewicz.
+[name="대변인 맥키"]  ……언론에 종사해 온 사람으로서 너의 제안에 진심으로 탄복했어, 말키위츠.
 
 [name="发言人麦基"]  但你也知道，这些......舆论只是一层软保险。想确保事情万无一失，我们得准备一些硬性措施。
+[name="代弁者マッキー"]  だが君も知っての通り……世論は、保険としては当てにできないものだ。万全を期すためには、強硬措置も用意しなければならない。
+[name="Spokesman McKee"]  But as you know, this... public opinion, is just a thin layer of assurance. To make sure things go smoothly, we'll have to prepare to play hardball.
+[name="대변인 맥키"]  하지만, 너도 알고 있겠지…… 여론은 믿을 수 없는 보험이야. 일을 빈틈없이 처리하려면, 우리는 좀 더 강경한 조치를 준비해야 해.
 
 [name="发言人马克维茨"]  当然。
+[name="代弁者マルキェヴィッチ"]  ええ、もちろんそのつもりです。
+[name="Spokesman Malkiewicz"]  Of course.
+[name="대변인 말키위츠"]  물론이죠.
 
 [name="发言人马克维茨"]  我只是不希望所有人都......无路可退罢了。
+[name="代弁者マルキェヴィッチ"]  私はただ……みなに逃げる場を残したいだけなのです
+[name="Spokesman Malkiewicz"]  I just don't want everyone to end up... with no way back.
+[name="대변인 말키위츠"]  저는 단지 모든 사람에게…… 물러설 길이 있길 바라는 것뿐입니다.
 
 [name="兴奋的观众"]  血骑士！血骑士赢了！！
+[name="興奮する観客"]  血騎士が、血騎士が勝ったわ！
+[name="An Enthusiastic Spectator"]  The Blood Knight! The Blood Knight won!
+[name="흥분한 관중"]  피의 기사! 피의 기사가 이겼다!
 
 [name="兴奋的观众"]  啊哈哈，我就知道血骑士是不可战胜的！血骑士是不可战胜的！
+[name="興奮する観客"]  ふふふっ、血騎士はやっぱり無敵なのね！
+[name="An Enthusiastic Spectator"]  Ahaha! I knew the Blood Knight was invincible! Nobody can take him down!
+[name="흥분한 관중"]  아하하, 역시 피의 기사는 무적이야! 피의 기사 필승!
 
 [name="兴奋的观众"]  唔哦，怎么了？
+[name="興奮する観客"]  ――きゃっ、なに？
+[name="An Enthusiastic Spectator"]  Oh, what's going on over there?
+[name="흥분한 관중"]  으엇, 뭐야?
 
 [name="兴奋的观众"]  那边的屋顶......升起太阳了吗？
+[name="興奮する観客"]  向こうの屋根……太陽でも昇ってるの……？
+[name="An Enthusiastic Spectator"]  The roof over there... is it sunrise?
+[name="흥분한 관중"]  저쪽 지붕 위에…… 태양이 떴나?
 
 [name="莫妮克"]  ——
+[name="モニーク"]  ――ッ！
+[name="Monique"]  —
+[name="모니크"]  ……
 
 [name="莫妮克"]  你——
+[name="モニーク"]  あんた――
+[name="Monique"]  You—
+[name="모니크"]  너……
 
 萨卡兹就像是忌讳自己的法术被看见一般，默默垂下了眼睑。
+アーツを見られることを忌み嫌っているかのように、サルカズは黙して目を閉じていた。
+The Sarkaz slowly closes her eyes, as if refusing to view her Arts.
+살카즈는 자신의 아츠가 보이는 게 꺼려지기라도 하는듯, 조용히 눈을 감았다.
 
 短暂的光辉，如落日，依旧萦绕在萨卡兹的剑尖。
+彼女の剣先はいまだ、夕日の如く短命なその輝きを纏っている。
+A brief brilliance lingers on the tip of her sword, like the setting sun.
+잠깐의 빛이었지만, 마치 석양처럼 아직도 살카즈의 검 끝을 감돌고 있었다.
 
 像是想起了什么似的，萨卡兹立刻改变了持剑的姿势——将其抱入怀中。
+ふと、何か思い出したかの如く、彼女は剣を振るう姿勢を変え、それをさやに収めて胸に抱いた。
+As if she suddenly remembered something, the Sarkaz quickly changes her pose, bringing the sword into her embrace.
+그리곤 무언가 생각이 난 듯, 살카즈는 자세를 바꾸어…… 검을 품에 꼭 껴안았다.
 
 就好像那把剑不该出鞘。
+己の剣はさやから出るべきではない、とでも言うように。
+As if this sword never should be unsheathed.
+마치 그 검이 검집을 벗어나면 안 되는 것처럼.
 
 [name="莫妮克"]  ......
+[name="モニーク"]  ……
+[name="Monique"]  ......
+[name="모니크"]  ……
 
 [name="莫妮克"]  ......刚才......你是怎么......
+[name="モニーク"]  ……今の……一体、どうやって……
+[name="Monique"]  What... did you do just now...
+[name="모니크"]  ……방금……너……
 
 [name="莫妮克"]  是萨卡兹的巫术吗？不，但是方才我分明感到了......
+[name="モニーク"]  サルカズの巫術？　いいえ、違う。……だけど、はっきり感じたわ……
+[name="Monique"]  Was that Sarkaz witchcraft? No, what I felt just now was...
+[name="모니크"]  살카즈의 주술인가? 아니, 방금 나는 분명 느꼈다……
 
 生命的呼吸？不。灵魂的力量？不。
+生命の息吹？　違う。――魂の力？　それも違う。
+The breath of life? No. A soul's lifeforce? No.
+생명의 숨결? 아니. 영혼의 힘? 아니다.
 
 某种更本质的，只在梦境与醉酒后的幻觉中能碰触到的无形幻象。
+何かもっと本質的な、夢や酒に酔って落ちる幻覚の中でしか触れられない、形なき幻影のようなもの……
+It was more like a formless illusion, something that could only be touched while in a trance or a drunken stupor.
+뭔가 좀 더 본질적인, 오직 꿈속이나 숙취 후의 환각 속에서만 접할 수 있는 무형의 환상이다.
 
 但毫无疑问，这个萨卡兹方才......在挥舞晨昏。
+けれど、それが何であろうと、このサルカズは確かに、夜と昼の境界線を振りかざしたのだ。
+But there is no doubt that just now, the Sarkaz... was wielding the twilight.
+하지만, 분명한 건 방금 이 살카즈가…… 낮과 밤을 갈랐다.
 
 [name="莫妮克"]  ......
+[name="モニーク"]  ……
+[name="Monique"]  ......
+[name="모니크"]  ……
 
 [name="莫妮克"]  ......嘁。
+[name="モニーク"]  ……チッ。
+[name="Monique"]  Grr...
+[name="모니크"]  ……쳇.
 
 [name="莫妮克"]  刚才那一剑......你这家伙......
+[name="モニーク"]  本当なら、その一振りで……
+[name="Monique"]  That technique... You...
+[name="모니크"]  방금 그건…… 너 이 녀석……
 
 [name="莫妮克"]  你本可以杀了我！
+[name="モニーク"]  私を殺せたはずでしょう！
+[name="Monique"]  You could've killed me!
+[name="모니크"]  너는 나를 죽일 수 있었어!
 
 [name="闪灵"]  只是接下你三箭而已，无胄盟。
+[name="シャイニング"]  これはあなたの矢を三本受けるだけ、というお話でしたので。
+[name="Shining"]  I was just taking your three shots, Armorless.
+[name="샤이닝"]  당신의 화살 세 발을 받아냈을 뿐입니다, 아머레스 유니온.
 
 [name="闪灵"]  当然，如果你食言的话，我会的。
+[name="シャイニング"]  無論、約束を違えるようならば、そうすることも厭いませんが。
+[name="Shining"]  Of course, if you go back on your word, I will.
+[name="샤이닝"]  물론, 당신이 약속을 어긴다면 그렇게 할 겁니다.
 
 [name="莫妮克"]  你——
+[name="モニーク"]  あんたね――
+[name="Monique"]  You—
+[name="모니크"]  너……
 
 被抓住的感觉。
+その時、捕らえられたかのような感覚が、モニークを襲った。
+The feeling of being caught.
+붙잡힌 느낌이다.
 
 不能随意后退，会被追上......被什么追上？这个萨卡兹？还是她的剑？
+自分の意志で退くことすらできそうにない。間違いなく、追いつかれるだろうと感じる……だが、それは一体何にだろうか？　このサルカズに？　それとも、彼女の剣に？
+She can't run. She would be chased down... But by what? By that Sarkaz? Or her sword?
+함부로 도망칠 수 없다. 분명 쫓아올 것 같다…… 뭐가? 이 살카즈? 아니면, 그녀의 검?
 
 还是她所抓住的......生命的本质？
+あるいは、彼女が握っている……生命の本質に？
+Or by the thing she controls... the essence of life?
+아니면, 그녀가 쥐고 있는…… 생명의 본질?
 
 [name="莫妮克"]  ......
+[name="モニーク"]  ……
+[name="Monique"]  ......
+[name="모니크"]  ……
 
 [name="闪灵"]  ......还要继续吗？
+[name="シャイニング"]  ……さて、続けますか？
+[name="Shining"]  Do you want to continue?
+[name="샤이닝"]  ……계속할 건가요?
 
 [name="莫妮克"]  ......不。
+[name="モニーク"]  ……いいえ。
+[name="Monique"]  No.
+[name="모니크"]  ……아니.
 
 [name="莫妮克"]  工作，也是要讲究契约精神的。
+[name="モニーク"]  契約一つ守れないようじゃ、良い仕事なんてできないもの。
+[name="Monique"]  Even on the job, we still fulfill our obligations.
+[name="모니크"]  일할 때 약속은 지켜야 하니까.
 
 [name="莫妮克"]  收队，停止对罗德岛一行人的跟踪。
+[name="モニーク"]  ――撤退よ。ロドスへの追跡を中止して。
+[name="Monique"]  Pull out. Stop tailing Rhodes Island.
+[name="모니크"]  철수야, 로도스 아일랜드 일행에 대한 추적을 멈춰.
 
 [name="闪灵"]  谢谢。
+[name="シャイニング"]  ありがとうございます。
+[name="Shining"]  Thank you.
+[name="샤이닝"]  감사합니다.
 
 [name="莫妮克"]  ......问你一个无关紧要的问题。
+[name="モニーク"]  ……関係ない質問、してもいいかしら。
+[name="Monique"]  I have one more, kind of trivial question for you.
+[name="모니크"]  딱히 상관없는 질문이지만……
 
 [name="闪灵"]  出于对你信守承诺的尊重，我会考虑回答你。
+[name="シャイニング"]  約束を守る姿勢に敬意を表して、できる範囲でお答えしましょう。
+[name="Shining"]  I'll consider it, out of respect for you keeping your word.
+[name="샤이닝"]  약속을 지켜준 것에 대한 존경의 의미로, 가능한 한 대답해 드리겠습니다.
 
 [name="莫妮克"]  对你们萨卡兹而言，削去双角有什么......含义吗？
+[name="モニーク"]  あんたたちサルカズにとって、二つの角を削ることには……どういう意味があるの？
+[name="Monique"]  For you Sarkaz, is there some kind of significance... to cutting off your horns?
+[name="모니크"]  너희 살카즈에게 양 뿔을 깎아낸다는 건…… 어떤 의미야?
 
 [name="闪灵"]  ......因人而异。也许有些人认为，萨卡兹的身份本身就是诅咒，也许会通过这种方式隐藏身份。
+[name="シャイニング"]  ……人によって、意味は異なります。サルカズであること自体が呪いに等しいと考え、そうした方法で出自を隠す人もいるでしょう。
+[name="Shining"]  It differs from person to person. Some may see their Sarkaz heritage as a curse, and may do that as a way of trying to hide their identity.
+[name="샤이닝"]  ……사람마다 다르죠. 살카즈 신분 자체가 저주라고 생각하는 사람도 있습니다. 아마 그런 방식으로 신분을 숨길 수도 있겠죠.
 
 [name="闪灵"]  或者，是某些巫术的媒介，某种法术的依托。
+[name="シャイニング"]  他方で、何かしらの巫術の媒介や、アーツの拠り所としている場合もあるかと思います。
+[name="Shining"]  It might also be a way to channel a certain form of withcraft, to a facilitate a certain Arts.
+[name="샤이닝"]  혹은, 어떤 주술의 매개체나 어떤 아츠의 근본일지도 모릅니다.
 
 [name="闪灵"]  又或者......是某些异类部族的传统。可能性有很多，但绝无定论。
+[name="シャイニング"]  さらには……何処かの異民族の伝統ということもあるでしょう。可能性は多岐にわたりますので、これと定めることはできません。
+[name="Shining"]  Or perhaps... it might even be a tradition of some unconventional tribes. The possibilities are many, and there's no way to say for sure.
+[name="샤이닝"]  또 어쩌면…… 어떤 이단 부족의 전통일지도 모릅니다. 가능성이 다양하니 정설은 없습니다.
 
 [name="莫妮克"]  ......
+[name="モニーク"]  ……
+[name="Monique"]  ......
+[name="모니크"]  ……
 
 [name="闪灵"]  怎么了吗？
+[name="シャイニング"]  どうされたのですか？
+[name="Shining"]  Why do you ask?
+[name="샤이닝"]  왜 그러세요?
 
 [name="莫妮克"]  ......不，没什么。
+[name="モニーク"]  ……何でもないわ。
+[name="Monique"]  ...No, no reason.
+[name="모니크"]  ……아니, 아무것도 아니야.
 

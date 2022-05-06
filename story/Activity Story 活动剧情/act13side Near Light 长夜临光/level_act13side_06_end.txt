@@ -1,384 +1,960 @@
 [Subtitle(text="四周变暗了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="そこら中が真っ暗だ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Everything has descended into darkness.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="주위가 어두워졌다.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="格蕾纳蒂成功了吗？索娜是不是已经成功潜入了？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="グレイナティがやってくれたのか？　だったらソーナの潜入は、上手くいったのか……？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Did Greynuty succeed? Did Sona make it inside?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="그레이너티는 성공했나? 소나는 무사히 잠입했을까?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="成功之后，我们，就能顺利生活在卡西米尔了吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="この作戦が成功したら、あたしたちは本当に――カジミエーシュで何不自由なく暮らしていけるようになるのか？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="When all is said and done, will we really be able to live in peace here in Kazimierz?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="성공한 후, 과연 우리가, 이 카시미어에서 아무 일 없이 살아갈 수 있을까?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="杰米"]  别骗自己。
+[name="ジェイミー"]  そうやって自分を騙すのはやめろ。
+[name="Jamie"]  Don't kid yourself.
+[name="제이미"]  너 자신을 속이지 마.
 
 [name="艾沃娜"]  ......！
+[name="イヴォナ"]  ……！
+[name="Iwona"]  ......!
+[name="이보나"]  ……!
 
 [name="杰米"]  想想我们的遭遇。
+[name="ジェイミー"]  我々の境遇を考えてもみるんだ。
+[name="Jamie"]  Think of what we had to go through.
+[name="제이미"]  우리의 처지를 생각해봐.
 
 [name="杰米"]  在地下竞技场和野兽厮杀，和同伴厮杀，每一场比赛留下的都是实打实的伤痛。
+[name="ジェイミー"]  地下競技場で野獣と、そして仲間とだって殺し合った。試合を終えるたび残るのは苦痛だけだった。
+[name="Jamie"]  We had to fight wild beasts in the underground arenas, sometimes even our fellow men. We still carry the pain and scars that will never go away.
+[name="제이미"]  지하 경기장에서 맹수와 동료들을 죽이고, 경기가 끝나면 남는 건 뼈아픈 상처뿐이야.
 
 [name="杰米"]  主办方要看到更多的鲜血和刺激，假赛，场外的阴谋诡计。
+[name="ジェイミー"]  なのに主催者のやつらは、更なる血と刺激を求め、八百長や場外でのはかりごとを楽しんでいる……
+[name="Jamie"]  The bosses wanted more blood and excitement, they wanted us to throw matches, and do their shady bidding outside the arena. We had no choice but to do what they wanted.
+[name="제이미"]  주최 측이 원하는 건 더 많은 피와 자극, 승부조작, 경기장 밖의 권모술수다.
 
 [name="杰米"]  这一切都是因为什么？
+[name="ジェイミー"]  このすべての元凶は、なんだと思う？
+[name="Jamie"]  What do you think all that was for?
+[name="제이미"]  이게 다 무엇 때문이겠어?
 
 [name="杰米"]  再看看那些卡瓦莱利亚基之外的地方吧，感染者有何处可去？
+[name="ジェイミー"]  ……もう一度、カヴァレリエルキの外へ目を向けてみろ。この大地の上で、感染者はどこへ向かえばいい？
+[name="Jamie"]  Look at all those places outside Kawalerielki. Where do you think the Infected can go?
+[name="제이미"]  그리고, 카봐렐리엘키 밖을 봐봐. 과연 감염자는 어디로 갈 수 있을까?
 
 [name="艾沃娜"]  ......何处可去。
+[name="イヴォナ"]  ……どこへ、って……
+[name="Iwona"]  Where we can go...?
+[name="이보나"]  ……어디로 갈 수 있을까.
 
 [name="杰米"]  我们身患矿石病，绝症，我们迟早会死，我们的死还会给周围带来灾难。
+[name="ジェイミー"]  我々は鉱石病を、いずれ死をもたらす不治の病を患ったんだ。……あまつさえ、感染者となった私たちの死は、周りに災いを振りまいてしまう……
+[name="Jamie"]  We have Oripathy, an incurable disease. We will die sooner or later, and when we do, we'll lay waste to whatever unfortunate patch of ground we collapse onto.
+[name="제이미"]  우리는 광석병, 불치병을 앓고 있어 머지않아 죽게 될 거야. 게다가, 우리의 죽음은 주변에 재난까지 초래한다.
 
 [name="杰米"]  我们是不祥的，是不可控的，是被排斥的异类。
+[name="ジェイミー"]  もはや私たちは不吉で、制御不能の、排斥を受ける異種なんだよ。
+[name="Jamie"]  We are ominous, we are uncontrollable, and we are different. We are here to be despised.
+[name="제이미"]  우리는 불길하고, 통제 불가능하고, 배척받는 이종이야.
 
 [name="杰米"]  监正会真的会允许感染者建立正规骑士团吗？
+[name="ジェイミー"]  だというのに、監査会が本当に、感染者による正規の騎士団設立なんて許すだろうか？
+[name="Jamie"]  Do you think the Adeptus Sprawiedliwi will really allow the Infected to start a proper knightclub?
+[name="제이미"]  감정회는 정말로 감염자가 정식 기사단을 설립하는 걸 허락할 것 같아?
 
 [name="杰米"]  卡西米尔......不，这片大地真的还有感染者存续的空间吗？
+[name="ジェイミー"]  それに、カジミエーシュには、いや、この大地には……本当に感染者が生き延びられる余地なんてあるんだろうか？
+[name="Jamie"]  Is there really room for the Infected to live in Kazimierz... no... anywhere in this world?
+[name="제이미"]  카시미어…… 아니, 이 땅에 과연 감염자가 살아남을 여지가 있을까?
 
 [name="杰米"]  就算有......
+[name="ジェイミー"]  仮にあったとしても……
+[name="Jamie"]  And even if there were...
+[name="제이미"]  가령 있다고 해도……
 
 [name="杰米"]  ......又与你何干呢？
+[name="ジェイミー"]  ……それが、あなた自身に何の関係があるというんだ？
+[name="Jamie"]  ...what does that have to do with you?
+[name="제이미"]  ……너랑 또 무슨 상관인데?
 
 [name="无胄盟成员A"]  这家伙，已经一动不动了啊......死了吗？
+[name="無冑盟構成員A"]  こいつ、ピクリとも動かなくなったな……死んだのか？
+[name="An Armorless Union Member A"]  She's not moving... Is she dead?
+[name="아머레스 유니온 멤버 A"]  이 녀석, 이제 움직이지 않아…… 죽은 걸까?
 
 [name="无胄盟成员B"]  但愿吧，我是真的不想和感染者厮杀，要是我也被感染了怎么办......
+[name="無冑盟構成員B"]  だといいがな。はぁ感染者と殺し合うなんて勘弁してほしいよ。俺たちまで感染したらどうしてくれるんだか。
+[name="An Armorless Union Member B"]  I sure hope so. I don't really want to fight the Infected. I mean, what if we catch it?
+[name="아머레스 유니온 멤버 B"]  그랬으면 좋겠어. 감염자와 싸우는 건 사양이라고. 감염이라도 되면 어쩌라는 거야……
 
 [name="无胄盟成员B"]  你去确认一下吧，如果真的死了，就让善后小组来处理。
+[name="無冑盟構成員B"]  なあ、マジで息がないのか確かめてみてくれよ。で、死んでたら処理チームに対応させようぜ。
+[name="An Armorless Union Member B"]  Go take a closer look. If she's dead, we'll need the damage control team up here.
+[name="아머레스 유니온 멤버 B"]  네가 가서 확인해봐. 만약 진짜로 죽었으면 처리팀을 파견하고.
 
 [name="艾沃娜"]  ......咳。
+[name="イヴォナ"]  ……ごほっ……
+[name="Iwona"]  *cough*...
+[name="이보나"]  ………콜록.
 
 [name="艾沃娜"]  说谁，死了呢？
+[name="イヴォナ"]  誰が……死んだって……？
+[name="Iwona"]  Who... are you calling dead?
+[name="이보나"]  누가, 죽었다는 거야?
 
 [name="艾沃娜"]  ......来啊！
+[name="イヴォナ"]  ……来い、よ……！
+[name="Iwona"]  C'mon!
+[name="이보나"]  ……와라!
 
 [name="艾沃娜"]  该死的......无胄盟！我要......打败你们所有人！
+[name="イヴォナ"]  っ……無、冑盟の……クズども、っ……！　お前ら、全員……ぶっ倒して、やる……っ！
+[name="Iwona"]  You dirty... Armorless! I'll... take all of you down!
+[name="이보나"]  빌어먹을…… 아머레스 유니온! 내가…… 너희를 싹 다 쓰러뜨린다!
 
 [name="艾沃娜"]  残害......感染者的......凶手！
+[name="イヴォナ"]  感、染者を……傷つけ、る……人殺し、が……ッ！
+[name="Iwona"]  You murderers... You all have Infected blood on your hands!
+[name="이보나"]  감염자의…… 목숨을 빼앗은…… 살인자들아!
 
 [name="无胄盟成员A"]  ......她还有力气动？
+[name="無冑盟構成員A"]  ……まだ動けんのかよ……
+[name="An Armorless Union Member A"]  She still has the strength to move...?
+[name="아머레스 유니온 멤버 A"]  ……아직도 움직일 힘이 있다고?
 
 [name="无胄盟成员A"]  浑身是血，站都站不稳，何必勉强呢。
+[name="無冑盟構成員A"]  血だらけでフラフラしてるってのに、どうしてそこまで……
+[name="An Armorless Union Member A"]  She's bloody all over. She can barely even stand. Just give up already.
+[name="아머레스 유니온 멤버 A"]  온몸이 피투성인 데다 똑바로 서지도 못하면서, 왜 저렇게 애쓰는 거지?
 
 [name="艾沃娜"]  来......来！
+[name="イヴォナ"]  来い……っつってん、だろっ……！
+[name="Iwona"]  Come on... Come at me!
+[name="이보나"]  와라…… 덤비라고!
 
 [name="艾沃娜"]  谁也别......想走......咳！
+[name="イヴォナ"]  誰、一人……逃がさ、ねぇぞ……！　……ッごほ、っ……！
+[name="Iwona"]  None of you... are getting away... *cough*!
+[name="이보나"]  아무도…… 놓치지 않아…… 쿨럭!
 
 [name="无胄盟成员B"]  ......也算挺有骨气的，给她个痛快吧。
+[name="無冑盟構成員B"]  ……なかなか根性のある奴だ。苦しませるのもなんだし、楽にさせてやるとしよう。
+[name="An Armorless Union Member B"]  She's got backbone, I'll give her that. Let's show her some mercy. Finish her off.
+[name="아머레스 유니온 멤버 B"]  ……나름대로 근성이 있는 녀석이네. 이만 편하게 해주지.
 
 [name="无胄盟成员B"]  反正再这样下去，过个几分钟她就要失血而死了，啧啧，莫妮克的手法还真娴熟。
+[name="無冑盟構成員B"]  どの道これだけ血が出てりゃ、ほっといたってあと数分の命だろうしな。……まったく、モニークの腕は大したもんだよ。
+[name="An Armorless Union Member B"]  I mean, she's going to bleed out in a few minutes. Man, Monique really knows what she's doing with those techniques.
+[name="아머레스 유니온 멤버 B"]  어차피 이대로 몇 분만 더 있으면 과다 출혈로 죽는다. 쯧쯧, 모니크의 수법이 정말 능숙하긴 해.
 
 [Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="如果，我更强的话，更快的话......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="あたしがもっと強ければ……もっと、速ければ……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="If... If I were stronger... and faster...", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="내가 만약 더 강했더라면, 더 빨랐더라면……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="是不是可以......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="もし、そうだったなら……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Maybe I could've...", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="어쩌면……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="逃离这个时代？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="この時代から、逃げ出すこともできたのか？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="...escaped these unfortunate times.", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="이 시대에서 도망칠 수 있지 않았을까?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="逃？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="逃げ出す……？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Escape?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="도망갈까?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="不！我在想什么？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="違うだろ。あたしは何を考えてんだ。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="No! What am I thinking?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="아니! 무슨 생각을 하고 있지?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="快动起来......该死......为什么视野在模糊......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="動け……動くんだよ、イヴォナ……！　クソッ……なんで、視界がぼやけるんだ……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Move... Dammit... Why is my vision so blurry...?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="빨리 움직여…… 젠장…… 왜 시야가 흐려지지……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [Subtitle(text="睁眼啊......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="目を……開けねぇと……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Open your eyes...", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="눈을 뜨라고……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 
 [name="无胄盟成员"]  放心吧，你很快就会解脱——
+[name="無冑盟構成員"]  安心しろ、すぐに痛みから解放され――
+[name="An Armorless Union Member"]  It's okay. It'll all be over soon—
+[name="아머레스 유니온 멤버"]  안심해, 곧 해방될 거야.
 
 无胄盟的动作突然停了下来。
+突然、無冑盟が動きを止めた。
+All of a sudden, the Armorless stop what they are doing.
+아머레스 유니온의 동작이 갑자기 멈췄다.
 
 脚步声。
+足音が聞こえる。
+(Footsteps).
+발걸음 소리.
 
 厚重的脚步声，不同于这些杀手的轻巧，仿佛背负着千斤重石的脚步声。
+殺し屋たちの軽やかなそれとは違う、何かとてつもなく重いものを背負っているかのような、重々しい足音が。
+The footsteps are heavy, not like the light footsteps of these murderers, like whomever is making them is carrying a boulder that weighs a thousand pounds.
+무거운 발걸음 소리. 킬러들의 날렵함과는 달리, 마치 엄청나게 무거운 것을 짊어진 듯한 묵직한 발소리가 들린다.
 
 [name="无胄盟成员"]  （模糊的对话）
+[name="無冑盟構成員"]  ……！　……
+[name="An Armorless Union Member"]  (Muffled conversation)
+[name="아머레스 유니온 멤버"]  (희미한 대화 소리)
 
 [name="艾沃娜"]  （他们......在说什么......）
+[name="イヴォナ"]  （よく……聞こえねえ……何、話してんだ……？）
+[name="Iwona"]  (What are they... talking about...?)
+[name="이보나"]  (이 녀석들…… 뭐라 하는 거야……)
 
 [name="无胄盟成员"]  （模糊的对话）
+[name="無冑盟構成員"]  …………。……！
+[name="An Armorless Union Member"]  (Muffled conversation)
+[name="아머레스 유니온 멤버"]  (희미한 대화 소리)
 
 [name="艾沃娜"]  （......？他们为什么......）
+[name="イヴォナ"]  （……？　こいつら、どうして……）
+[name="Iwona"]  (...? Why are they...?)
+[name="이보나"]  (이 녀석들…… 왜……)
 
 [name="艾沃娜"]  不......别走......站......住！我还......
+[name="イヴォナ"]  待、て……と……まれ……！　あたし、は……まだ……
+[name="Iwona"]  No... Don't go... Stay right... where you are! I can still...
+[name="이보나"]  안 돼…… 가지 마…… 거기…… 서! 내가 아직……
 
 [name="？？？"]  ......已经够了，骑士。
+[name="？？？"]  ……騎士よ、もう十分だ。
+[name="???"]  Let it go, knight.
+[name="???"]  ……이젠 충분해, 기사.
 
 [name="？？？"]  你做得很好。
+[name="？？？"]  よくぞこれまで戦い抜いた。
+[name="???"]  You've done very well.
+[name="???"]  아주 잘했어.
 
 [name="游客A"]  怎么了？怎么突然一片漆黑！？
+[name="観光客A"]  あれ……？　なんで急に真っ暗になっちゃったの！？
+[name="A Tourist A"]  What's going on? Why is it dark all of a sudden?!
+[name="관광객 A"]  뭐야? 왜 갑자기 캄캄해졌지!?
 
 [name="游客B"]  发生什么了？
+[name="観光客B"]  な、何が起きたんだ……？
+[name="A Tourist B"]  What's going on?
+[name="관광객 B"]  무슨 일이야?
 
 [name="大嘴莫布"]  哈！？怎么街道上全都没电了！？天呐，这要赔多少钱？？
+[name="ビッグマウスモーブ"]  はあ……！？　街中が、停電してる……！？　なんてこった、こんなの補償にいくらかかると思ってんだ！？
+[name="Greatmouth Mob"]  Huh?! Is the power out all over town?! Jesus, how much money are we going to owe for this?!
+[name="빅마우스 모브"]  어!? 어째서 거리의 불이 다 꺼진 거지!? 맙소사, 이러면 돈을 얼마나 배상해야 되나??
 
 [name="大嘴莫布"]  喂，那边的骑士，来帮忙疏散观众啊！
+[name="ビッグマウスモーブ"]  と、とにかく……あの、ちょっと、そこの騎士！　観客の避難誘導を手伝ってください！
+[name="Greatmouth Mob"]  Hey, you, the knight over there. Come help evacuate the audience!
+[name="빅마우스 모브"]  저기, 그쪽에 있는 기사님, 관객들 대피를 좀 도와주세요!
 
 [name="索娜"]  嘿咻。
+[name="ソーナ"]  よいしょ、っと……
+[name="Sona"]  Phew.
+[name="소나"]  읏차.
 
 [name="索娜"]  ......唔啊，外面真的一片漆黑呢......
+[name="ソーナ"]  ……わあ、外は一面真っ暗ね……
+[name="Sona"]  Whoa... It's pitch black outside...
+[name="소나"]  ……우와, 밖은 정말 새카맣네……
 
 [name="索娜"]  格蕾纳蒂他们做得也太绝了吧。
+[name="ソーナ"]  カイちゃんたち、完璧な仕事ぶりじゃない。
+[name="Sona"]  Are you sure you guys aren't overdoing it, Greynuty?
+[name="소나"]  그레이너티가 너무 완벽하게 해냈잖아.
 
 [name="索娜"]  不过......
+[name="ソーナ"]  だけど……
+[name="Sona"]  Still...
+[name="소나"]  하지만……
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="索娜"]  ......联合会大楼有独立的电源......啧，时间不多了。
+[name="ソーナ"]  ……連合会ビルには独立電源があるし……時間がないのは確かね。
+[name="Sona"]  The K.G.C.C.'s building has its own power source... Grr... We're almost out of time.
+[name="소나"]  ……연합회 건물은 전원이 따로 있네…… 쳇, 시간이 별로 없어.
 
 [name="索娜"]  唔！有人来了！
+[name="ソーナ"]  っ！　誰か来た……！
+[name="Sona"]  Huh? Someone's here!
+[name="소나"]  어! 누가 온다!
 
 [name="企业员工A"]  刚才为什么断电了？
+[name="企業職員A"]  どうして停電しちゃったんでしょう……？
+[name="A Corporate Employee A"]  Why did the power go out?
+[name="기업 직원 A"]  어째서 정전이 일어난 거죠?
 
 [name="企业员工B"]  看外面！整座城市都——
+[name="企業職員B"]  そ、外を見ろ！　都市全体が暗くなってるぞ……！
+[name="A Corporate Employee B"]  Look outside! The whole city's—
+[name="기업 직원 B"]  밖을 봐! 도시 전체가……
 
 [name="企业员工A"]  难、难道又是动力炉出了问题......？大隔断？大隔断重演了吗？
+[name="企業職員A"]  ま……まさか、また動力炉に問題が……？　と、ということは大分断……？　また、大分断が起きたんでしょうか……！？
+[name="A Corporate Employee A"]  I-Is there a problem with the power plant again? Is this another Great Separation?!
+[name="기업 직원 A"]  서, 설마 또 동력로에 문제가? 그렇다면 대격리? 대격리가 또다시 일어나는 게 아닐까요?
 
 [name="发言人马克维茨"]  别慌。
+[name="代弁者マルキェヴィッチ"]  慌てる必要はありません。
+[name="Spokesman Malkiewicz"]  Calm down.
+[name="대변인 말키위츠"]  당황할 필요 없습니다.
 
 [name="企业员工A"]  啊，马克维茨先生......
+[name="企業職員A"]  あっ、マルキェヴィッチ様……！
+[name="A Corporate Employee A"]  Oh, Mr. Malkiewicz...
+[name="기업 직원 A"]  앗, 말키위츠 선생님……
 
 [name="发言人马克维茨"]  ......万幸的是，今天正好是发言人会议。几位董事此刻也都在联合会大楼内，安然无恙。
+[name="代弁者マルキェヴィッチ"]  ……幸い、今日は代弁者会議の日でしたので。取締役数名も今は連合会ビル内にいますし、全員無事を確認しています。
+[name="Spokesman Malkiewicz"]  Fortunately, the spokesmen's meeting is today. The directors are all inside the Chamber building right now, safe and sound.
+[name="대변인 말키위츠"]  ……다행히도 오늘은 마침 대변인 회의가 있는 날입니다. 이사들 몇 명도 지금 모두 연합회 건물 안에 있어 무사합니다.
 
 [name="发言人麦基"]  没错。听从安排，疏导群众，立刻联系监正会代表，首要任务是确保治安不会出问题。
+[name="代弁者マッキー"]  彼の言う通り、落ち着いて動こう。指示に従い、民衆を導くんだ。それから、すぐに監査会の代表へ連絡を。最も重要なのは、治安関係の問題を生じさせないことだからね。
+[name="Spokesman McKee"]  That's right. Follow instructions and help evacuate the crowds. Contact the Adeptus leadership. Our first and foremost priority is to make sure there isn't a lapse in public order.
+[name="대변인 맥키"]  맞아. 지시에 따라 사람들을 대피시키고 즉시 감정회 대표에게 연락해. 가장 중요한 임무는 치안에 문제가 발생하지 않는 거야.
 
 [name="发言人麦基"]  ......各个城区应该有自己的备用电源，让各区负责人妥善处理。
+[name="代弁者マッキー"]  ……それぞれの区画には、独自の予備電源があるはずだ。各エリアの責任者たちに、適切に対処させるように。
+[name="Spokesman McKee"]  Each district should have its own backup power source. Have the officers-in-charge make the necessary arrangements.
+[name="대변인 맥키"]  ……구역별로 예비용 전원이 있을 거다. 각 구역 책임자들한테 잘 처리하라고 전해.
 
 [name="企业员工"]  是！
+[name="企業職員"]  はい！
+[name="A Corporate Employee"]  Yes, sir!
+[name="기업 직원"]  알겠습니다!
 
 [name="索娜"]  ......董事会议......
+[name="ソーナ"]  ……取締役の出る会議。
+[name="Sona"]  The Board of Directors meeting...
+[name="소나"]  ……이사 회의라……
 
 [name="索娜"]  不，当务之急是要找到机房的入口——
+[name="ソーナ"]  じゃなかった、違う違う。まずは、コンピュータールームの入り口を見つけないと――
+[name="Sona"]  No, my priority right now is to find the machine room—
+[name="소나"]  아니지, 컴퓨터실 입구를 찾는 게 급선무야……
 
 [name="企业员工"]  青金阁下！
+[name="企業職員"]  ラズライト様！
+[name="A Corporate Employee"]  Lazurite, sir!
+[name="기업 직원"]  라주라이트 님!
 
 [name="索娜"]  ——
+[name="ソーナ"]  ――！
+[name="Sona"]  —
+[name="소나"]  ……
 
 [name="罗伊"]  ......事情闹得真大条啊。
+[name="ロイ"]  ……よう。随分大ごとになっちまったなあ。
+[name="Roy"]  Well, things have gotten way out of hand...
+[name="로이"]  ……일을 정말 크게 벌이네.
 
 [name="罗伊"]  所以我早说了嘛，对待感染者就应该当机立断一些，不要给他们机会。
+[name="ロイ"]  しっかし……とっくに言っといたはずだろ？　感染者への対応は、連中にチャンスを与えないようにちゃっちゃと済ませるべきだってよ。
+[name="Roy"]  That's why I said we had to be more decisive with the Infected. We can't give them an opening.
+[name="로이"]  그래서 내가 진즉에 말했잖아. 감염자 처리는 빨리 결단을 내려야 한다고. 기회를 주지 말았어야 해.
 
 [name="罗伊"]  幸好今天董事们把我叫来了，不然各位老板出了什么岔子可怎么办？
+[name="ロイ"]  ラッキーなことに、今日は取締役たちが俺を呼び出してたからまだいいけどさあ……上司に何か起きてたら、どうするつもりだったんだ？
+[name="Roy"]  Lucky the directors summoned me here today. Who knows what could've happened to our bosses?
+[name="로이"]  그나마 오늘 이사들이 나를 불러내서 다행이야. 만약 그 높으신 분들이 사고라도 났으면 어떡할 뻔했어?
 
 [name="发言人麦基"]  ......事后会对这些事件进行复盘。
+[name="代弁者マッキー"]  ……この件についての反省は、のちほど行わせてもらうよ。
+[name="Spokesman McKee"]  We'll review this series of events later.
+[name="대변인 맥키"]  ……나중에 이 일에 대해 반성이 필요하겠어.
 
 [name="罗伊"]  没问题，但是现在无胄盟的大部分兵力......以及莫妮克都被派去围剿感染者了，现在赶回来恐怕要点时间......
+[name="ロイ"]  オッケー。そうなると今の問題は……モニークも含めた無冑盟の大部分が、み～んな感染者の包囲掃討に向かってるってことだな。今すぐ呼び戻しても時間がかかるしよ……
+[name="Roy"]  No problem, but most of the Armorless Union... and Monique are rounding the Infected up and snuffing them out right now. It might take them some time to get back...
+[name="로이"]  그래. 하지만 지금 아머레스 유니온의 대부분 병력과…… 모니크가 모두 감염자를 토벌하러 파견 나갔거든. 지금 돌아온다고 해도 시간이 좀 걸려……
 
 [name="索娜"]  ......！？
+[name="ソーナ"]  ……っ！？
+[name="Sona"]  ......?!
+[name="소나"]  ……!?
 
 [name="发言人麦基"]  ......明白了。那么在这期间，就麻烦你放下原本的任务，保证董事们的安全。
+[name="代弁者マッキー"]  ……わかった。ではその間、君には取締役たちの安全確保を行ってもらうとしよう。本来の任務は、一度後回しにしてくれ。
+[name="Spokesman McKee"]  Very well... For the time being, please put your original mission on hold and ensure the directors' safety.
+[name="대변인 맥키"]  ……알았어. 그렇다면 그동안 자네는 지금 임무를 내려놓고 이사들의 안전을 확보하도록 해.
 
 [name="罗伊"]  好，但我想......总不能有人真的对董事会出手吧？
+[name="ロイ"]  リョーカイ。つっても……理事会に手を出せる奴なんていないだろうけどな。
+[name="Roy"]  Okay, though I... no one would dare go after the Board, right?
+[name="로이"]  오케이. 그런데…… 정말로 이사회에 손댈 사람은 없겠지?
 
 [name="索娜"]  ......围剿......
+[name="ソーナ"]  ……包囲、掃討……
+[name="Sona"]  Snuffing them out...?
+[name="소나"]  ……토벌이라……
 
 [name="索娜"]  不......他们不会有事的......我......
+[name="ソーナ"]  ううん……みんななら、大丈夫だから。……あたしは……
+[name="Sona"]  No... They'll be okay... I...
+[name="소나"]  아니…… 괜찮을 거야…… 나는……
 
 [name="索娜"]  必须赶快。
+[name="ソーナ"]  とにかく、急がなくちゃ。
+[name="Sona"]  I gotta hurry.
+[name="소나"]  서둘러야 해.
 
 [name="查丝汀娜"]  ......千万不要有事，艾沃娜。
+[name="ユスティナ"]  ……イヴォナ……一体どこにいるの？
+[name="Justyna"]  Please... Please be okay, Iwona.
+[name="저스티나"]  ……꼭 무사해야 된다, 이보나.
 
 [name="查丝汀娜"]  你在哪里？
+[name="ユスティナ"]  どうか無事でいて……！
+[name="Justyna"]  Where are you?
+[name="저스티나"]  너, 어딨어?
 
 [name="瑟奇亚克"]  远牙！
+[name="シェブチック"]  遠牙！
+[name="Szewczyk"]  Fartooth!
+[name="셰브치크"]  파투스!
 
 [name="查丝汀娜"]  ......塑料骑士？
+[name="ユスティナ"]  ……シェブチック？
+[name="Justyna"]  Plastic...?
+[name="저스티나"]  ……플라스틱의 기사?
 
 [name="查丝汀娜"]  你看见其他人了吗，他们摧毁了我们的通讯——
+[name="ユスティナ"]  ほかの人は見かけた？　実は、私たちの通信が切断されて――
+[name="Justyna"]  Have you seen the others? They took out our comms—
+[name="저스티나"]  다른 사람 봤어? 놈들이 우리 통신을 차단했어……
 
 [name="瑟奇亚克"]  没那么简单，这里可是城市中心，能切断我们的通讯，说明从一开始我们的通讯频段就被截获了。
+[name="シェブチック"]  事はそう単純じゃない。……ここは都市の中心部だ。俺たちの通信を狙って切断できるということは、初めからその周波数を特定し、傍受していたということになる。
+[name="Szewczyk"]  It's not that simple. We're in the middle of the city. If they managed to cut off our comms, that means our channels were intercepted right from the start.
+[name="셰브치크"]  그렇게 간단한 문제는 아니다. 여기는 도심이라, 우리 통신을 차단했다는 건 처음부터 우리 주파수를 확보했다는 의미지.
 
 [name="瑟奇亚克"]  电力瘫痪也不是灰毫骑士做的，她还没来得及突击，动力炉就先一步遭到了袭击，现在，她已经赶去接应焰尾了。
+[name="シェブチック"]  電力系統を麻痺させたのも、灰毫騎士ではない。その突撃を待たずして動力炉が襲撃されたんだ。……彼女のほうは今、急いで焔尾の元へ向かっている。
+[name="Szewczyk"]  It wasn't Ashlock who took out the power either. The power plant went down before she could start her ambush. She's probably heading to where Flametail is right now.
+[name="셰브치크"]  전력 차단도 회색 붓꼬리가 한 게 아니야. 공격하기도 전에 동력로는 이미 습격을 당했다. 지금 그레이너티는 급급히 불꽃 꼬리를 만나러 갔고.
 
 [name="查丝汀娜"]  ......什么？
+[name="ユスティナ"]  ……どういうこと？
+[name="Justyna"]  What...?
+[name="저스티나"]  ……뭐?
 
 [name="瑟奇亚克"]  无胄盟......一直在打着什么算盘，而且一直在嫁祸给感染者——
+[name="シェブチック"]  仕組まれていた、ということだ。無冑盟は初めから、何かを企んでいた……奴らは感染者にその罪を被せる機会を狙っていたんだ――
+[name="Szewczyk"]  The Armorless... They've been planning something, and they're passing the buck to the Infected—
+[name="셰브치크"]  아머레스 유니온이…… 줄곧 무언가 꾸미고 있었다. 그리고 계속 감염자에게 뒤집어씌웠지……
 
 [name="瑟奇亚克"]  快找到其他人，我们的处境很危险！
+[name="シェブチック"]  俺たちは窮地に立たされている。一刻も早く、ほかの連中を見つけなければ！
+[name="Szewczyk"]  Find the others! We're in real hot water right now!
+[name="셰브치크"]  서둘러 나머지 사람들을 찾아. 우리 상황이 매우 위험해!
 
 [name="查丝汀娜"]  艾沃娜！
+[name="ユスティナ"]  っ、イヴォナ！
+[name="Justyna"]  Iwona!
+[name="저스티나"]  이보나!
 
 高傲的感染者骑士倒在血泊之中。
+誇り高き感染者騎士が、血だまりの中に倒れ込んでいる。
+Justyna finds the prideful Infected knight collapsed in a pool of blood.
+고고한 감염자 기사가 피바다에 쓰러져 있다.
 
 鲜血染红了她的铠甲。
+その鎧を赤く染めるのもまた、鮮血だ。
+Her armor is stained a gory red.
+선혈이 그녀의 갑옷을 물들이고 있었다.
 
 [name="查丝汀娜"]  艾沃娜！醒醒！
+[name="ユスティナ"]  イヴォナ！　目を開けて！
+[name="Justyna"]  Iwona! Wake up!
+[name="저스티나"]  이보나! 정신 차려봐!
 
 [name="查丝汀娜"]  ——
+[name="ユスティナ"]  ――！
+[name="Justyna"]  —
+[name="저스티나"]  ……
 
 [name="查丝汀娜"]  还、还有呼吸......
+[name="ユスティナ"]  ま、まだ息がある……！
+[name="Justyna"]  S-She's still breathing...
+[name="저스티나"]  아, 아직 숨이 있어……
 
 [name="瑟奇亚克"]  ......
+[name="シェブチック"]  ……
+[name="Szewczyk"]  ......
+[name="셰브치크"]  ……
 
 [name="查丝汀娜"]  瑟奇亚克，来搭把手——
+[name="ユスティナ"]  シェブチック、手を貸して――
+[name="Justyna"]  Szewczyk, give me a hand—
+[name="저스티나"]  셰브치크, 와서 좀 도와줘……
 
 [name="瑟奇亚克"]  ......慢着，这附近......有别的人来过？
+[name="シェブチック"]  ……待て。……この辺り……ほかに、誰か来ていたように見える。
+[name="Szewczyk"]  Hold on... Has someone else... been here?
+[name="셰브치크"]  ……잠깐, 이 근처에…… 누가 왔었나?
 
 [name="瑟奇亚克"]  无胄盟可没有使用战斧的刺客......就算有，这个痕迹......
+[name="シェブチック"]  無冑盟に斧の使い手などいないはず……仮にいたとしても、この痕跡は妙だ……
+[name="Szewczyk"]  The Armorless assassins don't use axes... And even if they had an axeman, these marks...
+[name="셰브치크"]  아머레스 유니온에 도끼를 쓰는 놈은 없을 텐데…… 설령 있다고 해도, 이 흔적은……
 
 [name="瑟奇亚克"]  墙面......在渗血？
+[name="シェブチック"]  壁から……血が、染み出している……？
+[name="Szewczyk"]  The wall... is oozing blood?
+[name="셰브치크"]  벽에서…… 피가?
 
 [name="瑟奇亚克"]  是他......？
+[name="シェブチック"]  ……！　まさか、奴なのか……？
+[name="Szewczyk"]  It's him...?
+[name="셰브치크"]  그 녀석인가……?
 
 [name="索娜"]  ......下载完成。
+[name="ソーナ"]  ……ダウンロード完了、っと。
+[name="Sona"]  Download complete.
+[name="소나"]  ……다운로드 완료.
 
 [name="索娜"]  这就是......零号地块的计划书......还有无胄盟的内部资料。
+[name="ソーナ"]  これが、零号地の計画書と、無冑盟の内部資料ね。
+[name="Sona"]  So this is the plan for Area 0... and some sensitive information on the Armorless.
+[name="소나"]  이게…… 섹터 제로의 계획서…… 그리고 아머레스 유니온의 내부 자료네.
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="索娜"]  ......这么简单就得手，还真是让人不适应。
+[name="ソーナ"]  ……こんなに上手くいっちゃうのも、なんだか変な感じだけど……
+[name="Sona"]  It feels weird being able to get my hands on this stuff so easily...
+[name="소나"]  ……이렇게 순조롭다니, 왠지 이상한 느낌이 드는데.
 
 [name="索娜"]  先从这个鬼地方爬出去——啊，我的尾巴——
+[name="ソーナ"]  まあいいわ。こんな場所、とっとと抜け出して――あっ、尻尾が――
+[name="Sona"]  Now let me get out of this stinking place—Argh, my tail—
+[name="소나"]  일단 여기서 나가자…… 으악, 내 꼬리……
 
 [name="企业员工"]  别愣着！快去联系国民院的人！
+[name="企業職員"]  何をぼんやりしてるんですか！　早く国民議会に連絡を！
+[name="A Corporate Employee"]  What are you standing there for?! Hurry up and contact the National Council!
+[name="기업 직원"]  멍하니 있지 말고! 얼른 국민원에 연락하세요!
 
 [name="企业员工"]  还有你，你们部门不是应该负责炎刃竞技场的疏散吗？动起来啊！
+[name="企業職員"]  それからそこのあなた！　そちらの部署はファイヤブレード競技場の避難担当ですよね？　急いで任務に当たってください！
+[name="A Corporate Employee"]  And you! Isn't your department supposed to help evacuate the Fireblade Arena? Get moving!
+[name="기업 직원"]  그리고 당신, 당신네 부서는 파이어블레이드 아레나의 대피를 담당하는 게 아니었나요? 빨리 움직이세요!
 
 [name="卡西米尔骑士"]  我们来接发言人小姐，她还在二楼吗？
+[name="カジミエーシュ騎士"]  失礼、我々は代弁者を迎えに来た者なのですが……彼女は、まだ二階でしょうか？
+[name="A Kazimierz Knight"]  We'll escort the spokeslady. Is she on the second floor?
+[name="카시미어 기사"]  우리는 대변인을 데리러 왔습니다. 아직 2층에 있나요?
 
 [name="索娜"]  （一片混乱......正好。）
+[name="ソーナ"]  （混乱状態って感じね……よし。）
+[name="Sona"]  (Things are a mess here... Perfect.)
+[name="소나"]  (혼란스럽네…… 마침 잘 됐다.)
 
 [name="索娜"]  （但愿能顺利离开......）
+[name="ソーナ"]  （このまま、何事もなく帰れるといいんだけど……）
+[name="Sona"]  (I just hope I can get away without much trouble.)
+[name="소나"]  (무사히 빠져나갈 수 있었으면 좋겠네……)
 
 [name="罗伊"]  ......不会吧。
+[name="ロイ"]  ……お～いマジかよ……
+[name="Roy"]  No way...
+[name="로이"]  ……설마?
 
 [name="索娜"]  （！）
+[name="ソーナ"]  （――！）
+[name="Sona"]  (!)
+[name="소나"]  (!)
 
 [name="罗伊"]  真有人敢趁乱混进联合会大楼吗？
+[name="ロイ"]  混乱に乗じて連合会ビルに紛れ込もう～なんて考える奴が本当にいるとはなあ。
+[name="Roy"]  Did someone seriously sneak into the K.G.C.C. building during the chaos?
+[name="로이"]  정말로 혼란을 틈타서 연합회 건물에 잠입하려는 녀석이 있을까?
 
 [name="索娜"]  （被发现了——！？）
+[name="ソーナ"]  （気付かれた――！？）
+[name="Sona"]  (Did he see me—?!)
+[name="소나"]  (발각됐나……!?)
 
 [name="索娜"]  呜啊......！
+[name="ソーナ"]  って、わわっ！？
+[name="Sona"]  Graah...!
+[name="소나"]  으아아악……!
 
 [name="索娜"]  痛痛痛......这里是哪里......刚才原来靠在门边吗，我都没注意......
+[name="ソーナ"]  いったたた……ここ、どこ？　あたしったら、いつの間にドアへ寄りかかってたのかしら……
+[name="Sona"]  Owww... Where am I... Was I leaning on the door? I didn't even notice...
+[name="소나"]  아파파파…… 여긴 어디지? 문에 기대고 있었던 건가, 전혀 모르고 있었네……
 
 [name="索娜"]  好黑啊，呃，会议室吗......
+[name="ソーナ"]  暗いわね……うーん、もしかして会議室とか……？
+[name="Sona"]  It's dark. Uh, is this a meeting room...?
+[name="소나"]  너무 어두워. 으, 여긴 회의실인가……
 
 [name="索娜"]  得找到出去的路——
+[name="ソーナ"]  とりあえず、出口を探さないと――
+[name="Sona"]  I gotta find a way out—
+[name="소나"]  출구를 찾아야 되는데……
 
 索娜一直觉得自己在努力抗争着什么。
+――この瞬間まで、ソーナは、自分が常に自らの意志で戦いを選んできたとばかり思っていた。
+Sona has always felt as though she is fighting against something.
+소나는 계속 자신이 무언가와 필사적으로 싸워 왔다고 생각했다.
 
 对抗无胄盟，对抗商业联合会，对抗关于感染者的一切不公，对抗命运。
+無冑盟と戦い、商業連合会と戦い、感染者に関わるすべての不公平と戦い……運命と戦う。
+Against the Armorless Union, against the General Chamber of Commerce, against all the injustices the Infected face, and against even fate.
+아머레스 유니온, 상업연합회, 감염자에 대한 모든 불공평, 그리고 자신의 운명.
 
 她其实从未怀疑过自己行为的必要性。
+そうして抗い続けてきた彼女は、それが必要なことだと信じて疑わなかった。
+She has never actually doubted whether her actions are necessary.
+그녀는 자기 행동의 필요성을 단 한 번이라도 의심해본 적이 없다.
 
 只是在这个瞬间，有一股从头到脚的寒意，令她一时有些动摇。
+だがこの時、頭から爪先までをぞくりと走った悪寒は、彼女を動揺させるに足るものだった。
+But, right this moment, she feels a chill reaching from her head all the way to her feet, causing her to waver a little.
+하지만 지금, 이 순간, 머리부터 발끝까지 느껴지는 으스스한 기운에 그녀는 잠시 흔들렸다.
 
 这确实是她第一次动摇。
+ソーナは初めて知覚した。
+Indeed, this is the first time she has ever wavered.
+이번은 확실히 그녀가 처음으로 흔들리는 거였다.
 
 就像盛夏时节看见一座如山的冰雕。
+自分は、得体の知れない大きな存在によって、踊らされているにすぎないのかもしれないということに。
+It's as though she's just seen a tremendous ice sculpture in the middle of summer.
+마치 한여름에 집채만 한 얼음 조각상을 보는 듯했다.
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 铃声在响。
+電話が鳴っている。
+A call is coming in.
+벨 소리가 울렸다.
 
 回荡在空无一人的室内。
+彼女のほか、誰もいない室内にベルの音が響き渡る。
+The ringing echoes throughout the empty room.
+텅 빈 방 안에 울려 퍼졌다.
 
 [name="索娜"]  ......喂？
+[name="ソーナ"]  ……もしもし？
+[name="Sona"]  Hello?
+[name="소나"]  ……여보세요?
 
 [name="电话那头的声音"]  ......焰尾骑士，索娜。
+[name="電話の声"]  ……焔尾騎士、ソーナ。
+[name="A Voice from the Phone"]  Flametail Knight... Sona.
+[name="수화기 너머 목소리"]  ……불꽃 꼬리의 기사, 소나.
 
 [name="电话那头的声音"]  辛苦你做了这一切。
+[name="電話の声"]  ここまでよくやり遂げてくれた。
+[name="A Voice from the Phone"]  I appreciate your efforts. Excellent work.
+[name="수화기 너머 목소리"]  그동안 수고 많았어.
 
 [name="索娜"]  ......欸......
+[name="ソーナ"]  え……？
+[name="Sona"]  Huh...?
+[name="소나"]  ……엥?
 
 [name="电话那头的声音"]  你现在，有两个选择。
+[name="電話の声"]  君には、二つの選択肢がある。
+[name="A Voice from the Phone"]  Right now, you have two options.
+[name="수화기 너머 목소리"]  지금 너에게는 두 가지 선택이 있다.
 
 [name="电话那头的声音"]  此时，“青金”罗伊就在你所处的会议室门外。
+[name="電話の声"]  一つは――簡単な取引だ。今、「ラズライト」のロイがその会議室の扉の向こうにいるんだが……
+[name="A Voice from the Phone"]  'Lazurite' Roy is standing outside the conference room you are in, as we speak.
+[name="수화기 너머 목소리"]  지금, '라주라이트' 로이가 네가 있는 그 회의실 문밖에 있어.
 
 [name="电话那头的声音"]  交易很简单。你手里有两份信息存储设备。
+[name="電話の声"]  君の手にある二つのデータチップのうち、無冑盟のほうを彼に差し出せ。
+[name="A Voice from the Phone"]  This is going to be a very simple transaction. You are holding two storage devices.
+[name="수화기 너머 목소리"]  거래는 아주 간단해. 네 손에는 정보 저장 장치가 두 개 있지.
 
 [name="电话那头的声音"]  交出无胄盟的那份，零号地块的情报你可以带走。
+[name="電話の声"]  零号地の情報は持ち帰って構わない。
+[name="A Voice from the Phone"]  Hand over the one on the Armorless Union. You may keep the information on Area 0.
+[name="수화기 너머 목소리"]  아머레스 유니온 정보는 우리에게 넘기고, 섹터 제로 정보는 가져가도 좋아.
 
 [name="电话那头的声音"]  这足够你们在监正会那里，换取合法生活的权利。
+[name="電話の声"]  それさえあれば、監査会との取引で合法的な生存権と交換するには十分だろう。
+[name="A Voice from the Phone"]  That will be more than enough for you to bargain the right to a legitimate life from the Adeptus Sprawiedliwi.
+[name="수화기 너머 목소리"]  그 정도면 너희들이 감정회랑 합법적으로 살아가는 권리와 맞바꾸기에 충분할 거야.
 
 [name="电话那头的声音"]  我觉得你别无选择。
+[name="電話の声"]  採る必要のない選択肢の提示は省いてもいいかな。
+[name="A Voice from the Phone"]  The way I see it, you have no other choice.
+[name="수화기 너머 목소리"]  너에겐 선택의 여지가 없다고 생각하지만.
 
 [name="电话那头的声音"]  一切尽在把握，焰尾骑士。我无意针对感染者，更无意针对你。
+[name="電話の声"]  すべてはこちらの手のひらの上だ、焔尾騎士。感染者を排除する気はないし、君個人と対立する気はもっとないがね。
+[name="A Voice from the Phone"]  Get a grasp of the situation, Flametail Knight. I have nothing against the Infected, much less you.
+[name="수화기 너머 목소리"]  모든 건 통제하에 있어, 불꽃 꼬리의 기사. 나는 감염자를 표적으로 삼을 생각도, 너를 표적으로 삼을 생각도 없어.
 
 [name="电话那头的声音"]  骑士也好，商人也好，感染者也好，都目光狭隘。
+[name="電話の声"]  私に言わせれば、騎士にしろ、商人にしろ、感染者にしろ、皆視野が狭すぎる。
+[name="A Voice from the Phone"]  Be it knights, merchants, or Infected, they are all narrow-minded.
+[name="수화기 너머 목소리"]  기사든, 상인이든, 감염자든, 모두 시야가 좁아.
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="电话那头的声音"]  别与社会为敌，感染者。
+[name="電話の声"]  ともあれ、社会を敵に回すのはやめたまえ。
+[name="A Voice from the Phone"]  Don't make an enemy of society, Infected.
+[name="수화기 너머 목소리"]  사회를 적으로 돌리지 마, 감염자.
 
 [name="电话那头的声音"]  服务器已经被我们摧毁，你手里的芯片即是最后的副本。
+[name="電話の声"]  あのサーバーは我々が既に破壊した。君の持つチップこそが、最後のコピーなんだ。
+[name="A Voice from the Phone"]  The server has already been destroyed. The chip in your hand is the very last copy.
+[name="수화기 너머 목소리"]  서버는 이미 우리가 파괴해버렸어. 네 손에 있는 칩이 마지막 복사본이야.
 
 [name="电话那头的声音"]  做出选择。
+[name="電話の声"]  さあ、決断を。
+[name="A Voice from the Phone"]  The choice is yours.
+[name="수화기 너머 목소리"]  선택해.
 
 [name="索娜"]  ............
+[name="ソーナ"]  …………
+[name="Sona"]  ............
+[name="소나"]  ……
 
 [name="电话那头的声音"]  或者，你此刻正打算砸掉这台电话。
+[name="電話の声"]  今すぐ電話を壊してしまおうとでも考えているか？
+[name="A Voice from the Phone"]  Perhaps you are thinking of smashing this telephone right now.
+[name="수화기 너머 목소리"]  혹은, 지금 이 전화기를 부숴버릴 생각을 하고 있는지 모르겠네.
 
 [name="电话那头的声音"]  那就这么做吧，如果你觉得，这就是你反抗命运的答案的话——
+[name="電話の声"]  であれば、好きにするといい。それが、運命に抗うために出した答えだと思うのなら――
+[name="A Voice from the Phone"]  Then do it... if you believe that's the answer to your revolt against fate—
+[name="수화기 너머 목소리"]  그렇다면, 그렇게 해. 그게 네가 운명에 맞서는 답이라고 생각한다면……
 
 [name="索娜"]  ......哇，他是不是猜到了？真厉害哎。
+[name="ソーナ"]  ……わお、まさかお見通しだったの？　すごい人ね。
+[name="Sona"]  Whoa... He figured it out, huh? That's something.
+[name="소나"]  ……우와, 어떻게 알았지? 대단하네.
 
 [name="索娜"]  那么，现在，青金就在门外，我该怎么办呢......
+[name="ソーナ"]  さてと。ラズライトが扉の外にいるわけだし、どうしようかしら……
+[name="Sona"]  So, the Lazurite is right outside the door now. What do I do...?
+[name="소나"]  으음, 라주라이트가 문밖에 있다는데, 어떻게 할까……
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="索娜"]  ......这里是几楼来着？
+[name="ソーナ"]  ……そういえば、ここって何階だっけ？
+[name="Sona"]  Which floor is this again...?
+[name="소나"]  ……여기가 몇 층이었더라?
 
 [name="索娜"]  这——是不是——有点高！？
+[name="ソーナ"]  わわっ！？　――嘘、やだ――ちょ、ちょっと高すぎない――！？
+[name="Sona"]  This... This is way too high, isn't it—?!
+[name="소나"]  이건…… 좀…… 높지 않나!?
 
 [name="格蕾纳蒂"]  索娜！
+[name="グレイナティ"]  ッ！？　ソーナ！！
+[name="Greynuty"]  Sona!
+[name="그레이너티"]  소나!
 
 [name="索娜"]  小灰！接住我！
+[name="ソーナ"]  カイちゃん！　お願い、受け止めてっ！
+[name="Sona"]  Ashley, catch me!
+[name="소나"]  회색이! 날 받아줘!
 
 [name="格蕾纳蒂"]  ——你又在做什么？那么高——哇——！
+[name="グレイナティ"]  ――お前、またなんて無茶な真似を！　――どうしてそんな高さから――って、うわっ――！
+[name="Greynuty"]  —What are you up to this time? Why are you up ther—Whoa—!
+[name="그레이너티"]  ……너 뭐 하는 거야? 왜 그렇게 높은 데서…… 우와……!
 
 [name="索娜"]  疼疼疼......还好用法术缓冲了一下......
+[name="ソーナ"]  あいたたた……アーツを使っといてよかった。お陰で衝撃を抑えられたし……
+[name="Sona"]  Owww... Good thing I used Arts to soften the impact...
+[name="소나"]  아파파파…… 그나마 아츠로 완충해서 다행이야……
 
 [name="格蕾纳蒂"]  ......
+[name="グレイナティ"]  …………
+[name="Greynuty"]  ......
+[name="그레이너티"]  ……
 
 [name="索娜"]  干、干嘛这么看着我？好啦，我以后不乱来了......放开我的尾巴好吗......
+[name="ソーナ"]  そ、そんな目で見ないでよ！　わかった、わかりました、二度とこんな無茶しないから！　尻尾を離してってば……ねえ。
+[name="Sona"]  Wh-Why are you looking at me like that? Alright, no more wild moves... Now let go of my tail, will you?
+[name="소나"]  왜, 왜 그렇게 쳐다봐? 알았어, 앞으로는 함부로 하지 않을게…… 내 꼬리 좀 놓아주면 안 될까……
 
 [name="格蕾纳蒂"]  ......不，只是......你没事，太好了。
+[name="グレイナティ"]  ……責めてるわけじゃない。……ただ、お前が無事で本当によかったと思って。
+[name="Greynuty"]  I'm glad... you're okay.
+[name="그레이너티"]  ……아니, 난 그저…… 네가 무사해서 다행이야!
 
 [name="格蕾纳蒂"]  我们还没来得及突袭动力炉，就被人捷足先登了，有人在利用我们。
+[name="グレイナティ"]  実は、動力炉を襲撃する前……何者かに先を越されてな。私たちは利用されていると気付いたんだ。
+[name="Greynuty"]  Somebody took out the power plant before we could get to it. Whoever they are, they're using us.
+[name="그레이너티"]  우리가 동력로를 습격하기도 전에 누군가 한발 앞섰어. 우리를 이용한 것 같아.
 
 [name="索娜"]  ......没关系，至少我们要的东西拿到了。
+[name="ソーナ"]  ……だとしても、大丈夫よ。欲しかったものは手に入れたしね。
+[name="Sona"]  No matter... We have what we need.
+[name="소나"]  ……괜찮아, 적어도 우리가 원하는 물건을 가졌으니까.
 
 [name="索娜"]  看！
+[name="ソーナ"]  ほら、見て！
+[name="Sona"]  Ta-dah!
+[name="소나"]  짜잔!
 
 [name="格蕾纳蒂"]  这就是......这一个小小的数据芯片......就能决定我们的去向？
+[name="グレイナティ"]  ……こんな小さなデータチップで……本当に、私たちの未来を切り開くことができるんだろうか？
+[name="Greynuty"]  This...? A small little chip like this... can change our fates?
+[name="그레이너티"]  이게…… 이렇게 작은 칩이…… 우리의 운명을 결정할 수 있다고?
 
 [name="索娜"]  现在只能祈祷它能了。
+[name="ソーナ"]  ……今はそう祈るしかないわ。
+[name="Sona"]  We'll just have to hope it can.
+[name="소나"]  그렇게 되길 기도하는 수밖에 없지 뭐.
 
 [name="罗伊"]  ......唔啊，这得有十几米吧？
+[name="ロイ"]  ……う～わ、これ10メートル以上はあったよなあ？
+[name="Roy"]  Whew... That's gotta be at least a dozen meter jump.
+[name="로이"]  ……우와, 이거 십여 미터는 되겠는데?
 
 [name="罗伊"]  还挺活蹦乱跳的啊，感染者，没吃够苦头吗？
+[name="ロイ"]  そのくせピンピンしてやがるし。やれやれ。もっと痛い目に遭いたいのか？　感染者さんよ。
+[name="Roy"]  And look at you, still so full of pep, Infected. Haven't had enough yet?
+[name="로이"]  아직 팔딱팔딱 뛰고 있는 걸 보니, 감염자, 쓴맛을 덜 봤나 봐?
 
 [name="格蕾纳蒂"]  ......！你那装扮......
+[name="グレイナティ"]  ……！　その出で立ち、お前は……
+[name="Greynuty"]  Hey! That getup...
+[name="그레이너티"]  ……! 그 복장은……
 
 [name="罗伊"]  你认得我？
+[name="ロイ"]  おおっと、俺を知ってるっての？
+[name="Roy"]  You know me?
+[name="로이"]  나를 알아?
 
 [name="索娜"]  无胄盟的高层对于普通骑士而言一直是个谜......但是。
+[name="ソーナ"]  ……普通の騎士からすれば、無冑盟の幹部なんて、謎の代名詞みたいなものだけど、あなたは違う。
+[name="Sona"]  The Armorless Union keeps its top levels secret from regular old knights... But...
+[name="소나"]  아머레스 유니온 간부는 일반 기사들에게 수수께끼긴 하지…… 그렇지만.
 
 [name="索娜"]  “青金”罗伊，这十多年来唯一一个没有更替过的青金杀手，你出现的传言逸闻多了，那大家就都认识你啦。
+[name="ソーナ"]  この十数年、唯一そのランクに在り続ける「ラズライト」ロイ。あなたの噂や逸話は山ほどあるし、誰だって知ってるわ。
+[name="Sona"]  'Lazurite' Roy. You're the only Lazurite assassin who hasn't been replaced in the past dozen-or-so years. There are all kinds of rumors centered around you. Of course we know you.
+[name="소나"]  '라주라이트' 로이, 최근 십여 년 동안 유일하게 바뀐 적 없는 라주라이트 킬러잖아. 네가 나타났다는 소문이 무성했으니, 당연히 다들 너를 알아보겠지.
 
 [name="罗伊"]  真的？哈哈，出名是很高兴啦，不过作为一个杀手太有名气，也不是好事，毕竟无胄盟和骑士不一样，名气可不能变现。
+[name="ロイ"]  へえ、マジで？　ハハッ、名が売れてんのは嬉しいが、殺し屋のお仕事的にはいいことじゃあねーんだよなあ。無冑盟は騎士様と違って、人気で稼げる商売じゃねえしよ。
+[name="Roy"]  Really? Haha, glad to know I'm famous. It's not necessarily a good thing for an assassin to be famous, though. I mean, the Armorless Union's not like you knights. We can't cash in on our fame.
+[name="로이"]  정말? 하하, 유명하다니 기분이 좋긴 하지만, 킬러로서 너무 유명해도 마냥 좋은 일은 아니잖아. 아머레스 유니온은 기사와 다르니까. 유명하다고 돈이 되는 것도 아니고.
 
 [name="罗伊"]  交出芯片，活着离开。还是我杀了你们之后，再拿走芯片？
+[name="ロイ"]  さーて、それじゃ――二つに一つだ。チップを渡して、生きて帰るか……ここで死んで、チップを取られるか。
+[name="Roy"]  So, either you hand me the chip and walk out alive, or I kill you and take the chip myself.
+[name="로이"]  칩을 주고 살아서 돌아갈래, 아니면 너희들을 죽이고 내가 칩을 가져갈까?
 
 [name="罗伊"]  我个人是不太喜欢没钱的厮杀就是了。
+[name="ロイ"]  俺個人としては、金にならねえ殺しは好きじゃねーんだけどさ。
+[name="Roy"]  Personally, I'm not very fond of fighting to the death, especially when there's no money in it.
+[name="로이"]  개인적으로 돈이 안 되는 살인은 그다지 좋아하지 않거든.
 
 [name="格蕾纳蒂"]  ......索娜，你还好吗？
+[name="グレイナティ"]  ……ソーナ、いけるか？
+[name="Greynuty"]  Sona... are you okay?
+[name="그레이너티"]  ……소나, 너 괜찮아?
 
 [name="索娜"]  嘿咻，没事，但这可是一场苦战。
+[name="ソーナ"]  ええ、大丈夫よ。でも……厳しい戦いになりそうね。
+[name="Sona"]  Phew, I'm fine. This is gonna be a tough fight, though.
+[name="소나"]  읏차, 괜찮아. 뭐, 힘든 싸움이 되겠지만.
 
 [name="格蕾纳蒂"]  活下来就行。
+[name="グレイナティ"]  生き残れさえすればいい。
+[name="Greynuty"]  We just need to stay alive.
+[name="그레이너티"]  살아남으면 그만이야.
 
 [name="索娜"]  嘿，我们有多久没有真正并肩作战了？和钳兽战斗的时候？
+[name="ソーナ"]  ふふっ。肩を並べて戦うなんて、いつぶりかしら？　鉗獣と戦ったあの時以来？
+[name="Sona"]  Heh, how long has it been since the last time we fought side by side for real? Since our fight against the gloompincer?
+[name="소나"]  헤헷, 우리가 어깨를 나란히 하고 싸운 게 얼마 만이지? 글룸핀서랑 싸울 때였나?
 
 [name="罗伊"]  ......再怎么讲，也别把我和钳兽相提并论啊。
+[name="ロイ"]  おいおーい、こんなイケメンを鉗獣なんかと一緒にするのはさすがにないだろ。
+[name="Roy"]  Come on, give me more credit than that. I think I can at least put up a better fight than a gloompincer.
+[name="로이"]  ……아무리 그래도, 나를 글룸핀서랑 비교하지 말란 말이야.
 
 [name="光头马丁"]  还好准备了备用灯......没想到真会有派上用场的一天。
+[name="禿頭マーティン"]  まさか、予備のライトが役に立つ日が来るなんて……備えあれば憂いなしというやつだね。
+[name="Bald Marcin"]  Good thing I have these emergency lights. I never thought they'd actually come in handy.
+[name="대머리 마틴"]  예비 전등을 준비하길 잘했어…… 정말로 써먹을 날이 올 줄은 몰랐는데.
 
 [name="老骑士"]  怎么了？又来一次大隔断不成？
+[name="老騎士"]  しかし、何が起きとるんじゃろうな。また大分断でも起きたのか？
+[name="Old Knight"]  What's going on? Another Great Separation?
+[name="나이 든 기사"]  뭐야? 또 대격리 사태가 일어나는 거야?
 
 [name="老工匠"]  外面真的都停电了！喂，开什么玩笑，这可是特锦赛期间！
+[name="老職人"]  おい、外はマジで停電してるみたいだぜ！　何の冗談だってんだよなあ、今はメジャーの期間中だってのに！
+[name="Old Craftsman"]  The power's really out for the whole town! What kind of sick joke is this? How could this happen while the Major's on?
+[name="나이 든 장인"]  밖은 정말로 다 정전됐네! 야, 이게 말이 돼? 지금 토너먼트 기간이라고!
 
 [name="光头马丁"]  电力很快就会恢复的......但是，究竟是谁，能让这座不夜城失去光辉......
+[name="禿頭マーティン"]  電力自体はすぐに復旧するだろうが……この眠らない街から光を奪うなんてこと、誰がしでかしたのやら……
+[name="Bald Marcin"]  The power will be back soon... but... just who managed plunge a city that never sleeps into darkness?
+[name="대머리 마틴"]  전력은 바로 복구될 거야…… 하지만, 이 잠들지 않는 도시의 빛을 빼앗을 수 있다니, 도대체 누가……
 
 [name="玛恩纳"]  ......
+[name="ムリナール"]  ……
+[name="Młynar"]  ......
+[name="무에나"]  ……
 
 [name="玛恩纳"]  ......荒唐。真是荒唐。
+[name="ムリナール"]  ……馬鹿馬鹿しい。まったくもって、馬鹿げた話だ。
+[name="Młynar"]  Ridiculous... Just ridiculous.
+[name="무에나"]  ……어처구니가 없군. 정말 어처구니 없어.
 

@@ -79,12 +79,12 @@
 [name="케오베"]  웅~
 
 [name="嘉维尔"]  对了，Lancet-2，你应该会修这个飞行器吧？
-[name="ガヴィル"]  そうだ。Lancet-2、この飛行装置の直し方はわかるよな？
+[name="ガヴィル"]  そうだ。Lancet-2、この飛行ユニットの直し方はわかるよな？
 [name="Gavial"]  Say, Lancet-2, you can fix this aircraft, right?
 [name="가비알"]  참, Lancet-2, 너 이 비행체 수리할 줄 알지?
 
 [name="Lancet-2"]  是的，在出发前，可露希尔为我录入了大量飞行器相关的知识。
-[name="Lancet-2"]  はい。出発する前にクロージャお姉様が、飛行装置の知識を大量にインプットしてくださいましたので。
+[name="Lancet-2"]  はい。出発する前にクロージャお姉様が、飛行ユニットの知識を大量にインプットしてくださいましたので。
 [name="Lancet-2"]  Yes! Closure input lots of aircraft knowledge into me before we left.
 [name="Lancet-2"]  네, 출발하기 전에 클로저 님께서 저에게 대량의 비행체 관련 지식을 전송해 주셨어요.
 
@@ -129,7 +129,7 @@
 [name="가비알"]  뭐? 엔진?
 
 [name="Lancet-2"]  是的，在他们发现我之前，我在舱内看到他们首先找到了飞行器的引擎并直接把它拆了下来并带走了。
-[name="Lancet-2"]  はい、彼らは私を見つける前に、飛行装置からエンジンを外し、どこかへ運んで行ってしまったんです。
+[name="Lancet-2"]  はい、彼らは私を見つける前に、飛行ユニットからエンジンを外し、どこかへ運んで行ってしまったんです。
 [name="Lancet-2"]  Correct. Before they noticed me, I sighted them from the deck. They found the aircraft's engine, pulled it out, and carried it away with them.
 [name="Lancet-2"]  네. 저보다 먼저 비행체의 엔진을 발견하곤, 바로 뜯어서 가져가는 걸 보았습니다.
 
@@ -229,7 +229,7 @@ A short while back
 [name="가비알"]  박사도 그동안 열심히 일해왔잖아. 데려가서 좀 쉬게 해주려고.
 
 [name="凯尔希"]  那么飞行器使用申请书又是怎么回事，煌？
-[name="ケルシー"]  では、飛行装置の使用申請についてはどう説明する？　ブレイズ。
+[name="ケルシー"]  では、飛行ユニットの使用申請についてはどう説明する？　ブレイズ。
 [name="Kal'tsit"]  And what was the purpose of this aircraft requisition form, Blaze?
 [name="켈시"]  그럼 비행체 사용 신청서는 또 뭐지, 블레이즈?
 
@@ -239,7 +239,7 @@ A short while back
 [name="블레이즈"]  가비알의 고향이 사르곤에 있는 무인구역이라서. 걸어서 가면 너무 멀잖아!
 
 [name="凯尔希"]  所以冒着被萨尔贡官方发现的风险，你们想要用近地飞行器代步。
-[name="ケルシー"]  だからと言って、サルゴン政府に見つかるリスクを背負ってまで、飛行装置を使うつもりか？
+[name="ケルシー"]  だからと言って、サルゴン政府に見つかるリスクを背負ってまで、飛行ユニットを使うつもりか？
 [name="Kal'tsit"]  So instead of walking, you want to use a low-altitude aircraft and risk detection by the Sargon authorities.
 [name="켈시"]  그래서 사르곤 정부에 발각될 위험을 무릅쓰고서라도 저공비행체를 타겠다는 거군.
 
@@ -319,7 +319,7 @@ A short while back
 [name="켈시"]  거긴 어쨌거나 사르곤의 땅이다. 사르곤에는 로도스 아일랜드가 세운 사무소도 별로 없으니까, 자신에게든, 로도스 아일랜드에게든, 불필요한 문제는 일으키지 말도록.
 
 [name="凯尔希"]  以及，近地飞行器即使在罗德岛也是非常珍贵的交通工具。萨尔贡境内环境恶劣，希望你能完好无损地把它带回来，Dr.{@nickname}。
-[name="ケルシー"]  それと、飛行装置はロドスとっても貴重な乗り物だ。サルゴンの環境は劣悪だが、傷一つ付けずに持ち帰ってほしい、Dr.{@nickname}。
+[name="ケルシー"]  それと、飛行ユニットはロドスとっても貴重な乗り物だ。サルゴンの環境は劣悪だが、傷一つ付けずに持ち帰ってほしい、Dr.{@nickname}。
 [name="Kal'tsit"]  Further, Rhodes Island's low-altitude aircraft are tremendously important to us, and Sargon is a rough environment. I trust you to bring the vehicle back safe and sound, Dr. {@nickname}.
 [name="켈시"]  그리고… 저공비행체는 로도스 아일랜드에서도 엄청 소중한 교통수단이야. 사르곤 지역은 환경이 척박하니까 반드시 주의해서, 손상 없이 복귀해라 {@nickname} 박사.
 
@@ -369,7 +369,7 @@ A short while back
 [name="케오베"]  가비알, 나 배고파!
 
 [name="嘉维尔"]  飞行器上的食物储备应该没有出问题吧?
-[name="ガヴィル"]  飛行装置に積んでた食糧は大丈夫だったか？
+[name="ガヴィル"]  飛行ユニットに積んでた食糧は大丈夫だったか？
 [name="Gavial"]  All our food reserves should be fine, right?
 [name="가비알"]  비행체에 실린 비축 식량은 문제없겠지?
 
@@ -559,12 +559,12 @@ A short while back
 [name="토미미"]  말도 안 돼!
 
 [name="嘉维尔"]  比起这个，特米米，我们飞行器在坠毁后引擎被抢了，是祖玛玛的人，她现在也有手下了？
-[name="ガヴィル"]  それよりトミミ、墜落した飛行装置のエンジンがズゥママの子分に奪われたみたいなんだが……あいつは今、手下を持つほど偉くなったのか？
+[name="ガヴィル"]  それよりトミミ、墜落した飛行ユニットのエンジンがズゥママの子分に奪われたみたいなんだが……あいつは今、手下を持つほど偉くなったのか？
 [name="Gavial"]  I've got bigger problems, Tomimi. Zumama's people stole our aircraft engine after the crash. She's got minions now?
 [name="가비알"]  그것보다 토미미, 우리 비행체가 추락한 후 엔진을 도둑맞았어. 주마마 쪽 애들인 거 같은데, 이젠 주마마도 부하들을 거느리고 다니는 거야?
 
 [name="特米米"]  飞行器引擎是什么呀，和那些发动机什么的一样吗？等下......欸？祖玛玛？
-[name="トミミ"]  飛行装置のえんじん……？　発動機とかと同じようなものですか？　それより……えーっと、ズゥママ？
+[name="トミミ"]  飛行ユニットのえんじん……？　発動機とかと同じようなものですか？　それより……えーっと、ズゥママ？
 [name="Tomimi"]  What's an aircraft engine? Is it like one of those motory things? Wait, um... huh? Zumama?
 [name="토미미"]  비행체 엔진이 뭐죠? 모터 같은 거예요? 잠깐만요…… 엥? 주마마?
 
@@ -639,7 +639,7 @@ A short while back
 [name="Lancet-2"]  마음의 준비는 되어있지만, 늘 이런 반응이라니 살짝 마음이 아프네요, 전 사람이 아니긴 하지만……
 
 [name="嘉维尔"]  现在飞行器不会爆炸了吧？
-[name="ガヴィル"]  あの飛行装置だけど、もう爆発する危険はないってことでいいんだよな？
+[name="ガヴィル"]  あの飛行ユニットだけど、もう爆発する危険はないってことでいいんだよな？
 [name="Gavial"]  Aircraft won't explode now, right?
 [name="가비알"]  이제 비행체가 폭발할 일은 없겠지?
 
@@ -694,7 +694,7 @@ A short while back
 [name="가비알"]  커헉…… 콜록 콜록…… 어…… 그, 그래…… 그럼, 신세 좀 질게.
 
 [name="特米米"]  小的们，听到了吗？
-[name="トミミ"]  野郎ども、聞こえたか？　飛行装置を運べ……運んでください。
+[name="トミミ"]  野郎ども、聞こえたか？　飛行ユニットを運べ……運んでください。
 [name="Tomimi"]  Did everyone get that?
 [name="토미미"]  아그들아, 방금 하신 말 다 알아들었지?
 
@@ -704,7 +704,7 @@ A short while back
 [name="아다크리스"]  우!
 
 [name="Lancet-2"]  啊，这样的话，我和迪伦先生一起跟着飞行器好了。
-[name="Lancet-2"]  あ、それでしたら、私はディランさんと一緒に飛行装置についていきます。
+[name="Lancet-2"]  あ、それでしたら、私はディランさんと一緒に飛行ユニットについていきます。
 [name="Lancet-2"]  Ah, in that case, I think Mr. Dylan and I will stay with the aircraft.
 [name="Lancet-2"]  아, 그렇다면 저는 딜런 씨와 함께 비행체를 따라 움직이겠습니다.
 
@@ -714,7 +714,7 @@ A short while back
 [name="Lancet-2"]  박사님 일행은 사람들이 북적이는 곳으로 가시려는 것 같은데, 제가 동행하면 꽤 불편할 것 같아서요.
 
 [name="Lancet-2"]  而且飞行器也需要有人维护。
-[name="Lancet-2"]  飛行装置にはメンテナンスができる人が付き添っていた方がいいと思いますし。
+[name="Lancet-2"]  飛行ユニットにはメンテナンスができる人が付き添っていた方がいいと思いますし。
 [name="Lancet-2"]  And the aircraft does need guarding.
 [name="Lancet-2"]  게다가 비행체를 관리해 줄 사람도 필요하고요.
 
@@ -809,7 +809,7 @@ A short while back
 [name="Lancet-2"]  그리고 한 가지 더 말씀드리자면, 주변 기온이 꽤 높습니다. 이런 환경에서는 일교차가 크니 보급품을 충분히 챙겨주시기 바랍니다.
 
 [name="嘉维尔"]  哦，没错，博士，还有特米米，你们去飞行器里多拿点补给。
-[name="ガヴィル"]  おっとそうだったな。ドクター、トミミ、飛行装置から諸々の物資を取ってきてくれ。
+[name="ガヴィル"]  おっとそうだったな。ドクター、トミミ、飛行ユニットから諸々の物資を取ってきてくれ。
 [name="Gavial"]  Oh, nice catch. Doctor, Tomimi, you two make sure you grab what you need from the aircraft.
 [name="가비알"]  응, 맞아. 박사, 그리고 토미미, 둘은 비행체에서 보급품 좀 더 챙겨와 줘.
 

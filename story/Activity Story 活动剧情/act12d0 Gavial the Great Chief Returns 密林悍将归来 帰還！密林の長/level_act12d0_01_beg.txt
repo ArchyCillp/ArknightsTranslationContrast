@@ -329,7 +329,7 @@ Fret not, however, for such chances remain plentiful. Now, let us open our eyes.
 [name="가비알"]  아무튼, 박사. 내가 상황을 간단히 설명할게.
 
 [name="嘉维尔"]  总而言之，我们坠机了。
-[name="ガヴィル"]  ざっくり言うと、飛行装置が墜落したんだ。
+[name="ガヴィル"]  ざっくり言うと、飛行ユニットが墜落したんだ。
 [name="Gavial"]  Short version is: we crashed.
 [name="가비알"]  한마디로 말하자면, 우린 추락했어.
 
@@ -394,7 +394,7 @@ Fret not, however, for such chances remain plentiful. Now, let us open our eyes.
 [name="가비알"]  아, 맞다. Lancet-2가 아직 비행체에 남아있을 거야.
 
 [Decision(options="飞行器呢？", values="1")]
-[Decision(options="それで、飛行装置はどこに？", values="1")]
+[Decision(options="それで、飛行ユニットはどこに？", values="1")]
 [Decision(options="Where's the aircraft?", values="1")]
 [Decision(options="비행체는?", values="1")]
 
@@ -414,7 +414,7 @@ Fret not, however, for such chances remain plentiful. Now, let us open our eyes.
 [name="가비알"]  그래.
 
 [name="嘉维尔"]  你看，那就是我们的飞行器。
-[name="ガヴィル"]  あった、アタシらの飛行装置だ。
+[name="ガヴィル"]  あった、アタシらの飛行ユニットだ。
 [name="Gavial"]  See? The aircraft's right there.
 [name="가비알"]  저기 있네, 저게 바로 우리 비행체야.
 
@@ -429,7 +429,7 @@ Fret not, however, for such chances remain plentiful. Now, let us open our eyes.
 [name="가비알"]  그래도 고칠 순 있을 거 같네.
 
 [name="刻俄柏"]  博士，嘉维尔，飞行器那边有人！
-[name="ケオベ"]  ドクター、ガヴィル、飛行装置のところに誰かいるよ！
+[name="ケオベ"]  ドクター、ガヴィル、飛行ユニットのところに誰かいるよ！
 [name="Ceobe"]  Doctor, Gavial, there's people with the aircraft!
 [name="케오베"]  박사, 가비알! 비행체 쪽에 사람이 있어!
 

@@ -1,4 +1,10 @@
 [PopupDialog(dialogHead="$avatar_nearl")] 如果没有<@tu.kw>视野</>，干员是无法被部署的。
+[PopupDialog(dialogHead="$avatar_nearl")] <@tu.kw>視野</>が確保されていない状態では、オペレーターの配置もできない。
+[PopupDialog(dialogHead="$avatar_nearl")] Operators cannot be deployed on areas with no <@tu.kw>visibility</>.
+[PopupDialog(dialogHead="$avatar_nearl")] <@tu.kw>시야</>를 확보하지 못하면 오퍼레이터를 배치할 수 없다.
 
 幸好<@tu.kw>城市霓虹</>可以提供一定范围的<@tu.kw>视野</>，干员可以部署在<@tu.kw>城市霓虹</>周围。
+だが、幸い<@tu.kw>ネオン</>の光が一定範囲の<@tu.kw>視野</>を確保してくれる。<@tu.kw>ネオン</>の周囲ならば、オペレーターを配置することができるんだ。
+Fortunately, <@tu.kw>City Neon</> provides a certain range of <@tu.kw>visibility</>, and you can deploy your Operators in the vicinity of <@tu.kw>City Neon</>.
+다행히, <@tu.kw>네온사인</>으로 일정 범위의 <@tu.kw>시야</>를 제공할 수 있다. 오퍼레이터를 <@tu.kw>네온사인</> 주변에 배치하면 될 거야.
 

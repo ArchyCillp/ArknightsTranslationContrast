@@ -1,4 +1,10 @@
 protectTime=0.5, dialogHead="$avatar_nearl", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 把<@tu.kw>骑士之徽</>布置在任意位置，就可以在那一格部署干员了。
+<@tu.kw>騎士の紋章</>を任意の位置に配置すると、その位置にオペレーターを配置することが可能となる。
+Deploy the <@tu.kw>Knight Crest</> on any tile, and you will be able to deploy Operators on that tile.
+<@tu.kw>기사 훈장</>을 배치하면 해당 칸에 오퍼레이터를 배치할 수 있어.
 
 [PopupDialog(dialogHead="$avatar_nearl")] <@tu.kw>骑士之徽</>可以持续很长时间，即使干员撤离，光芒也不会退散。
+[PopupDialog(dialogHead="$avatar_nearl")] <@tu.kw>騎士の紋章</>は持続時間が長く、オペレーターを撤退させても、この光は消えない。上手く使ってくれ。
+[PopupDialog(dialogHead="$avatar_nearl")] The <@tu.kw>Knight Crest</> lasts for a long time. Even if the Operator on it retreats, its aura will still persist.
+[PopupDialog(dialogHead="$avatar_nearl")] 또한, <@tu.kw>기사 훈장</>은 오랫동안 지속할 수 있으며, 오퍼레이터를 철수해도 빛은 사라지지 않는다.
 

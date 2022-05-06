@@ -1,4 +1,10 @@
 protectTime=0.5, dialogHead="$avatar_nearl", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] 消耗费用启动<@tu.kw>城市霓虹</>后，它就可以永久性提供更大范围的<@tu.kw>视野</>。
+コストを消費して<@tu.kw>都市のネオン</>を起動すると、より広い範囲の<@tu.kw>視野</>を永続的に確保できる。
+After spending DP to activate <@tu.kw>City Neon</>, it will continuously provide <@tu.kw>visibility</> to surrounding tiles.
+코스트를 소모해 <@tu.kw>네온사인</>을 가동하면 더 큰 범위의 <@tu.kw>시야</>를 영구적으로 확보할 수 있다.
 
 [PopupDialog(dialogHead="$avatar_melan")] 这一侧就交给我们来防守吧！
+[PopupDialog(dialogHead="$avatar_melan")] こちら側の防衛は、私たちに任せてください！
+[PopupDialog(dialogHead="$avatar_melan")] We'll hold down this side!
+[PopupDialog(dialogHead="$avatar_melan")] 이쪽은 저희가 맡을게요!
 

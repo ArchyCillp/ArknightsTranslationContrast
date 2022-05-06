@@ -1,6 +1,15 @@
 [PopupDialog(dialogHead="$avatar_kroos")] 天好黑啊，看不太清楚呢。
+[PopupDialog(dialogHead="$avatar_kroos")] 暗いなぁ～。これじゃよく見えないよぉ～。
+[PopupDialog(dialogHead="$avatar_kroos")] It's way too dark, and I can't see clearly.
+[PopupDialog(dialogHead="$avatar_kroos")] 너무 어두워~ 아무것도 안 보여~
 
 这些钳兽藏在黑夜里，在没有<@tu.kw>视野</>的地块上都会获得<@tu.kw>隐匿</>效果。
+鉗獣たちは闇夜に紛れて行動する。ゆえに<@tu.kw>視野</>を確保できていない場所では<@tu.kw>ステルス</>状態になるんだ。
+Those gloompincers are lurking in the darkness. They will gain <@tu.kw>invisibility</> in areas where you have no <@tu.kw>visibility</>.
+글룸핀서들은 어둠 속에 숨어 있어 <@tu.kw>시야</>가 확보되지 않은 지역에서 <@tu.kw>은신</> 효과를 받는다.
 
 [PopupDialog(dialogHead="$avatar_kroos")] 看不清也没法射击呢，等到获得那个地块的<@tu.kw>视野</>以后再说吧。
+[PopupDialog(dialogHead="$avatar_kroos")] 見えなきゃ上手く撃てないんだけどぉ……まずは、あの場所の<@tu.kw>視野</>を確保しないとダメかなぁ～。
+[PopupDialog(dialogHead="$avatar_kroos")] We won't be able to shoot them anyway if we can't see them, so let's wait until we have <@tu.kw>visibility</> over that area.
+[PopupDialog(dialogHead="$avatar_kroos")] 안 보이면 사격할 수 없다구~ 우선, 저 구역의 <@tu.kw>시야</>부터 확보해야겠네~
 

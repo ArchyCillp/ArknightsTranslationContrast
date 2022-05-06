@@ -1,694 +1,1735 @@
 确认卡瓦莱利亚基陷入紧急情况。
+カヴァレリエルキが緊急事態に陥ったことを確認した。
+Kawalerielki has entered a state of emergency, confirmed.
+카봐렐리엘키의 긴급사태 확인.
 
 确认讯号代码正确。确认部队识别码正确。
+信号コード及び部隊識別番号、共に相違なし。
+Correct signal code, confirmed. Correct squad identification code, confirmed.
+신호 코드 확인. 부대의 식별 코드 확인.
 
 全队听令。
+全隊に告ぐ。
+Heed my orders.
+전원!
 
 撤下伪装，进城。
+――偽装を解き、街へ入れ。
+Remove your disguises, and enter the city.
+위장을 해제하고 도시에 진입한다.
 
 [name="砾"]  ......距离电力完全恢复，还需要一点时间。
+[name="グラベル"]  ……電力が完全に復旧するまでには、もうしばらくかかりそうね。
+[name="Gravel"]  It'll still be some time until the power is completely restored.
+[name="그라벨"]  ……전력이 완전히 복구되기까지 시간이 좀 더 걸릴 거야.
 
 [name="砾"]  罗德岛的各位已经在指引下回到了房间休息，如果二位想要确认的话......
+[name="グラベル"]  そういえば、ロドスのみんなは部屋で休んでもらってるけど、二人が確認しておきたいようだったら……
+[name="Gravel"]  The Rhodes Islanders have returned to their rooms, as advised. If you two would like to review...
+[name="그라벨"]  로도스 아일랜드 사람들은 안내에 따라 이미 방으로 돌아가 쉬고 있어. 두 사람이 확인하고 싶다면……
 
 [name="阿米娅"]  ......博士，我想去看看各位。
+[name="アーミヤ"]  ……ドクター。私、みなさんの様子を見てきます。
+[name="Amiya"]  Doctor, I want to go see them.
+[name="아미야"]  ……박사님, 제가 한번 가볼게요.
 
 [name="阿米娅"]  事发突然，也许会有一些干员弄不清状况，这些天对感染者的抗议，也让干员们积攒了不少压力。
+[name="アーミヤ"]  突然こんな事態になって、状況を把握できていないオペレーターもいるかと思いますし……このところ、感染者への抗議行動も起きていた分、きっとかなりストレスが溜まっているでしょうから。
+[name="Amiya"]  Everything happened so quickly, I'm sure there are many operators who still don't quite understand the situation. With all the anti-Infected protests going on, there's been a lot of pressure on everyone.
+[name="아미야"]  갑작스러운 사태라 오퍼레이터 중에 상황을 파악하지 못한 분도 있을 거예요. 그동안 감염자에 대한 시위 때문에 오퍼레이터들도 스트레스가 많이 쌓여 있을 것도 같고요.
 
 [Decision(options="那就有劳阿米娅了。;......;真的不需要我帮忙吗？",values="1;2;3")]
+[Decision(options="わかった。アーミヤに任せるよ。;……;手伝わなくても大丈夫か？",values="1;2;3")]
+[Decision(options="I'll be counting on you again then, Amiya.;......;Are you sure you don't need my help?",values="1;2;3")]
+[Decision(options="그럼 아미야가 수고해줘.;……;정말 도와줄 필요 없나?",values="1;2;3")]
 
 [name="阿米娅"]  啊，没关系的，博士。
+[name="アーミヤ"]  はい。……あっ、私は大丈夫ですから、心配しないでくださいね。
+[name="Amiya"]  Oh, it's fine, Doctor.
+[name="아미야"]  아, 괜찮아요, 박사님.
 
 [name="阿米娅"]  这些天一直是博士在应付各种商业洽谈和社交活动，其实我还挺过意不去的。
+[name="アーミヤ"]  むしろこの数日、ドクターに商談や交流会を任せきりにしてしまっているのを申し訳なく思っていたところですよ。
+[name="Amiya"]  I know how busy you've been with business negotiations and social events recently. To be honest, I feel bad about it.
+[name="아미야"]  박사님도 요새 계속 비즈니스 교섭이나 사교 활동에 출석하셨잖아요. 실은 저도 죄송하게 생각하고 있었어요.
 
 [name="阿米娅"]  趁着这个机会，赶紧休息一下吧。
+[name="アーミヤ"]  ドクターは、この機会に休んでおいてください。
+[name="Amiya"]  You should get some rest while you still can.
+[name="아미야"]  이번 기회에 좀 쉬세요.
 
 [name="阿米娅"]  ......啊哈哈，博士已经很累了吧。
+[name="アーミヤ"]  ……あはは、ドクターもお疲れになっていますよね。
+[name="Amiya"]  Ahaha, you must already be worn out, Doctor.
+[name="아미야"]  ……아하하, 박사님도 많이 피곤하시죠?
 
 [name="阿米娅"]  毕竟从昨天开始就一直在应付那些企业家，嗓子都哑了吧？
+[name="アーミヤ"]  昨日からずっと各企業への対応に追われていたわけですし、もう声が枯れてしまっているのでは？
+[name="Amiya"]  After all, you've been dealing with those businesspeople nonstop since yesterday. Of course you'd lose your voice, right?
+[name="아미야"]  어제부터 계속 기업가들을 상대하느라 목도 쉬셨지 않나요?
 
 [name="阿米娅"]  没关系，有芙蓉小姐在，应该不会出什么差错。
+[name="アーミヤ"]  はい、大丈夫です。ハイビスカスさんもいるので、問題ないかと。
+[name="Amiya"]  But it's okay, with Hibiscus here, I'm sure we won't have any trouble.
+[name="아미야"]  괜찮아요, 히비스커스 씨가 있으니 별일 없을 거예요.
 
 [name="阿米娅"]  我也只是去确认一下各位的情况，很快就会回来的。
+[name="アーミヤ"]  私もみなさんの状況を確認したら、すぐに戻ってきますので。
+[name="Amiya"]  I just want to go around and see how everyone's doing. I'll be right back.
+[name="아미야"]  상황만 확인하고 금방 돌아올게요.
 
 [name="砾"]  请阿米娅小姐放心吧，您不在的时间里，我会照顾好博士的。
+[name="グラベル"]  ふふっ……安心して？　あなたがいない間はぁ、あたしがちゃ～んとドクターのお世話をするから～。
+[name="Gravel"]  There's no need to worry, Amiya. I'll take real good care of the Doctor while you're gone.
+[name="그라벨"]  아미야, 걱정하지 마. 네가 없는 동안 박사는 내가 잘 돌봐줄게.
 
 [name="阿米娅"]  啊......嗯。
+[name="アーミヤ"]  あっ……は、はい。
+[name="Amiya"]  Oh... Okay.
+[name="아미야"]  아…… 네.
 
 [name="阿米娅"]  那么我先下去啦。
+[name="アーミヤ"]  では、行ってきますね。
+[name="Amiya"]  See you later then.
+[name="아미야"]  그럼 전 가볼게요.
 
 [name="砾"]  ......{@nickname}博士。
+[name="グラベル"]  ……ねえ、Dr.{@nickname}。
+[name="Gravel"]  ...{@nickname}Doctor.
+[name="그라벨"]  ……{@nickname} 박사.
 
 [name="砾"]  最近商业联合会有一些动向，恐怕会对罗德岛不利。
+[name="グラベル"]  最近、商業連合会に動きがあったの。ロドスへ悪影響を及ぼすかもしれない動きがね。
+[name="Gravel"]  There've been some developments in the General Chamber of Commerce that may be disadvantageous to Rhodes Island.
+[name="그라벨"]  요즘 상업연합회의 움직임이 심상치 않던데, 아무래도 로도스 아일랜드에 안 좋은 영향이 미칠 것 같아.
 
 [name="砾"]  加上现在的停电事件，恐怕下一步会是更加明目张胆的阴谋。
+[name="グラベル"]  今起きている停電のことも考えると、次はもっと大胆な陰謀が動き出すはずよ。
+[name="Gravel"]  Coupled with the ongoing power outage, I'm afraid that what happens next will be nothing less than an open conspiracy.
+[name="그라벨"]  게다가 이런 정전사태까지 발생한 걸 보면, 다음은 아마 더 노골적으로 나설 거야.
 
 [name="砾"]  最近......请千万不要离开我的视线。当然，您要是自愿留在我的身边，那是再好不过。
+[name="グラベル"]  しばらくの間は……絶対に、あたしの目の届くところにいてね。もちろん、あなたがず～っとあたしから離れずにいてくれるなら、それが一番なんだけど～。
+[name="Gravel"]  For the time being... do not leave my side, whatever you do. Of course, it'd be even better if you decided to stay with me of your own accord.
+[name="그라벨"]  당분간은…… 절대 내 시야에서 벗어나지 마. 물론 알아서 내 곁에 머문다면 가장 좋긴 하지만.
 
 [Decision(options="想出去逛逛吗？",values="1")]
+[Decision(options="……グラベル。散歩に出かけたくはないか？",values="1")]
+[Decision(options="Want to take a look around?",values="1")]
+[Decision(options="나가서 산책이라도 할까?",values="1")]
 
 [name="砾"]  ......嘻嘻，您突然这么解风情，倒是让我有些吃惊。
+[name="グラベル"]  ……ふふふっ。どうしたの～？　あなたが急に気遣ってくれるなんて……ちょっとびっくりしちゃったわ。
+[name="Gravel"]  Heehee, I didn't expect you to be so forward. Caught me off guard.
+[name="그라벨"]  ……헤헷, 갑자기 분위기 잡으니까 좀 놀랍네.
 
 [name="砾"]  怎么了？难道发生了什么好事吗？
+[name="グラベル"]  何か良いことでもあったのかしら～？
+[name="Gravel"]  Did something good happen?
+[name="그라벨"]  왜? 좋은 일이라도 생겼어?
 
 [Decision(options="砾小姐，您是怎么看待商业联合会的？",values="1")]
+[Decision(options="そうだな……君は商業連合会をどう思う？",values="1")]
+[Decision(options="Miss Gravel, what do you think of the K.G.C.C.?",values="1")]
+[Decision(options="그라벨은 상업연합회를 어떻게 생각하지?",values="1")]
 
 [name="砾"]  ......您不是问过类似的问题了吗？怎么，是想多听一听我的声音吗？可以哦。
+[name="グラベル"]  ……前にも、似たような質問をされたわよね？　もしかして、あたしの声をもっと聞きたいの～？　お望みなら、もちろん答えてあげるけど。
+[name="Gravel"]  Didn't you ask me something like this before? Or, do you just love the sound of my voice that much?
+[name="그라벨"]  ……전에도 비슷한 질문을 했었잖아? 내 의견을 더 듣고 싶은 건가? 좋아.
 
 [name="砾"]  他们是卡西米尔的蛀虫。
+[name="グラベル"]  ――あいつらは、カジミエーシュにおける害虫よ。
+[name="Gravel"]  They're parasites on Kazimierz.
+[name="그라벨"]  상업연합회는 카시미어의 좀벌레야.
 
 [name="砾"]  商人们联合起来，腐蚀骑士和城市，最终达成他们自己的目的。
+[name="グラベル"]  連合のもとに一団となった商人たちが、騎士と都市とを蝕んで、自らの目的を達成するための組織だもの。
+[name="Gravel"]  The business class bands together, corrupting the knights and the city, just to chase their ambitions.
+[name="그라벨"]  상인들이 연합하여 기사와 도시를 부패시키고 결국은 자신들의 목적을 달성하지.
 
 [Decision(options="不。",values="1")]
+[Decision(options="なるほど。しかし、それはどうかな。",values="1")]
+[Decision(options="No.",values="1")]
+[Decision(options="아니.",values="1")]
 
 [Decision(options="商业联合会，如其名，只是“联合”罢了。",values="1")]
+[Decision(options="騎士たちとの対立構造が彼らを一団に見せているが……",values="1")]
+[Decision(options="The General Chamber of Commerce, as its name implies, is just a 'general' assemblage.",values="1")]
+[Decision(options="그 이름처럼 그저 '연합'일 뿐이야.",values="1")]
 
 [Decision(options="利益是连系他们的纽带，他们当然可被分割。",values="1")]
+[Decision(options="実際、彼らの「連合」は利益という絆で成り立つものだ。",values="1")]
+[Decision(options="There is little that binds them beyond common interest, and they can be divided.",values="1")]
+[Decision(options="이익으로 묶인 관계니까, 당연히 갈라질 수도 있지.",values="1")]
 
 [Decision(options="不过是与骑士们的对抗，让他们看起来，像一个整体。",values="1")]
+[Decision(options="となれば、当然それを切り離すこともできる。",values="1")]
+[Decision(options="It feels like they're acting as a unit because they're fighting against the knights.",values="1")]
+[Decision(options="기사들과의 갈등 때문에 하나로 뭉친 것처럼 보일 뿐이야.",values="1")]
 
 [name="砾"]  ......
+[name="グラベル"]  ……
+[name="Gravel"]  ......
+[name="그라벨"]  ……
 
 [name="砾"]  ......您做了什么？
+[name="グラベル"]  ……あなた、一体何をしたの？
+[name="Gravel"]  What did you do?
+[name="그라벨"]  ……뭘 한 거야, 박사?
 
 [Decision(options="商业联合会的常务董事大致有四类人。",values="1")]
+[Decision(options="……連合会の常務取締役は四種類の人間に大別される。",values="1")]
+[Decision(options="There are roughly four types of executive directors in the K.G.C.C.",values="1")]
+[Decision(options="상업연합회의 상무이사는 대략 네 가지 유형이야.",values="1")]
 
 [name="砾"]  嘻......愿闻其详。
+[name="グラベル"]  ふふっ……その「四種類」って？
+[name="Gravel"]  Heh... Care to tell me more?
+[name="그라벨"]  후훗…… 자세히 듣고 싶은데.
 
 [Decision(options="急于推进时代，取缔骑士阶层的激进分子。",values="1")]
+[Decision(options="急進的な姿勢で、騎士階級を廃止しようとする過激分子。",values="1")]
+[Decision(options="One is committed, so radical as to eliminate the knight class.",values="1")]
+[Decision(options="시대의 발전을 서두르고 기사 계급을 대체하려는 과격주의자.",values="1")]
 
 [Decision(options="守旧却扎实，一步一脚印的稳健派。",values="1")]
+[Decision(options="保守的で堅実、一歩ずつ事を運ぼうとする穏健派。",values="1")]
+[Decision(options="One is old-fashioned, a rock-solid faction that moves forward step by step.",values="1")]
+[Decision(options="보수적이지만 착실하게 나아가는 온건주의자.",values="1")]
 
 [Decision(options="没有任何立场，只要有利益就趋之若鹜的逐利者。",values="1")]
+[Decision(options="そのどちらでもなく、利益だけを追求している者もある。",values="1")]
+[Decision(options="Another has no principles, just a group of opportunists flocking to potential profit.",values="1")]
+[Decision(options="어느 입장도 아니고 이익만 추구하는 기회주의자.",values="1")]
 
 [name="砾"]  ......最后一种呢？
+[name="グラベル"]  ……それで、最後の一つは？
+[name="Gravel"]  And the last one?
+[name="그라벨"]  ……마지막은?
 
 [Decision(options="对于如今的罗德岛而言，还为时尚早。",values="1")]
+[Decision(options="今のロドスが接触するには、時期尚早の手合いだ。",values="1")]
+[Decision(options="The type that Rhodes Island is not ready to contact yet.",values="1")]
+[Decision(options="지금의 로도스 아일랜드에는 시기상조야.",values="1")]
 
 [Decision(options="贸然接触，反而危险。",values="1")]
+[Decision(options="無闇に関われば危険な相手だよ。",values="1")]
+[Decision(options="Rushing to contact them will only hurt us.",values="1")]
+[Decision(options="무턱대고 접촉했다가는 도리어 위험해져.",values="1")]
 
 [name="砾"]  ......您的意思是，联合会内部有分歧？而您......已经抓住了那些分歧？
+[name="グラベル"]  つまり、連合会内部にも、意見の食い違いがあって……あなたはその違いを既に捉えている、ってことかしら～？
+[name="Gravel"]  So what you're saying is there are cracks in the K.G.C.C.? And you... have already taken stock of them?
+[name="그라벨"]  ……그 말은 연합회 내부에도 갈등이 있다는 건가? 그리고…… 박사는 그 갈등을 이미 캐치했고?
 
 [Decision(options="很难说是分歧。;他们根本就不可能存在“团结”。;皆为利来，皆为利往。",values="1;2;3")]
+[Decision(options="食い違い、というのは不正確な表現だ。;彼らには元々、団結など存在しない。;皆、利益のため集っているにすぎないからな。",values="1;2;3")]
+[Decision(options="I wouldn't call it 'cracks.';More like it was never possible for them to 'unite' in the first place.;Live for the sake of profit, die for the sake of profit.",values="1;2;3")]
+[Decision(options="갈등까지는 아니고.;그들에게 '단결'이란 존재할 수 없으니까.;전부 이익만 추구할 뿐이지.",values="1;2;3")]
 
 [name="砾"]  ......但您不过初来乍到，只是通过发言人的渠道，结识了一部分常务董事......
+[name="グラベル"]  ……でも、どうしてそう言い切れるの？　あなたはここへ来たばかりだし、代弁者のツテで常務取締役の一部と会っただけなんでしょう？
+[name="Gravel"]  But this is only your first time here, and you were only able to get to know a portion of the executives through your ties with a spokesman.
+[name="그라벨"]  ……박사는 여기 처음 왔고 대변인을 통해 일부 상무이사를 만났을 뿐이잖아……
 
 [name="砾"]  您怎么敢如此断言？一旦您选错了信任对象，其后果绝非监正会可以承担......
+[name="グラベル"]  あなたが信用する相手を間違えてしまったら、監査会はその結果までは面倒を見てくれないわよ？
+[name="Gravel"]  How can you be so sure of yourself? The moment you place your trust in the wrong person, the Adeptus Sprawiedliwi will no longer bear the consequences.
+[name="그라벨"]  어떻게 확신해? 박사가 믿을 상대를 잘못 고르기라도 했다간 그 결과는 감정회가 절대 감당할 수 있는 정도가 아니야……
 
 [Decision(options="罗德岛从未考虑过依赖他人牺牲来达成自己的目的。;您总不能认为，我是真的毫无牺牲觉悟去参加那些宴会的吧？",values="1;2")]
+[Decision(options="ロドスが目標達成のために他者の犠牲を頼ることはない。;何の覚悟もなく、あの宴会に参加したわけではない。",values="1;2")]
+[Decision(options="Rhodes Island has never relied on the sacrifices of others to advance its goals.;As if I'd approach those banquets if I wasn't ready to sacrifice something.",values="1;2")]
+[Decision(options="로도스 아일랜드는 목적을 위해 타인을 희생한 적이 없어.;내가 희생할 각오도 없이 연회에 참가했다고 생각하는 건 아니지?",values="1;2")]
 
 [name="砾"]  ......不。
+[name="グラベル"]  ……そうね。
+[name="Gravel"]  No.
+[name="그라벨"]  ……그럼.
 
 [name="砾"]  您当然不。
+[name="グラベル"]  あなたは、そういう人よね。
+[name="Gravel"]  Of course not.
+[name="그라벨"]  당연히 아니지.
 
 [name="罗伊"]  你们还有时间可以浪费吗？
+[name="ロイ"]  お前らよ～、こんなことしてる暇本当にあんのか？
+[name="Roy"]  Do you still have time to waste?
+[name="로이"]  아직 여유 부릴 시간이 있는 거야, 너희들 ?
 
 [name="罗伊"]  关于感染者的通缉令已经发出，等到大隔断的影响过去，你们无路可逃。
+[name="ロイ"]  感染者への指名手配通知はとっくに出てるんだぜ。大分断の影響が落ち着いちまったら、逃げ場なんてなくなるぞ。
+[name="Roy"]  About the bounty placed on the Infected, once the interference from the Great Separation has passed, you'll have no escape route.
+[name="로이"]  감염자 수배령은 이미 내려졌어. 대격리의 여파가 지나가면 너희는 이제 도망도 못 쳐.
 
 [name="罗伊"]  啊，顺便一提，之所以叫“大隔断”，是因为在失去核心电力后各地块会出现短暂的漂移现象......
+[name="ロイ"]  あー、そうそう。ついでに教えておくと「大分断」ってのは「要の電力を失ったあと、各区画の接続部分にズレが生じること」を示す言葉でな？　つまり、何が言いたいかっつーと……
+[name="Roy"]  Ah, by the way, the reason it's called the 'Great Separation' is because after power from the core is lost, each plate will experience a short period of drift.
+[name="로이"]  아, 참고로 '대격리'라고 부르는 이유는 핵심 전력을 잃으면 일시적으로 각 섹터가 떠돌게 되는 현상이 일어나기 때문이지……
 
 [name="罗伊"]  现在，联合会周遭的地块连接都中断了，你们逃不出去。
+[name="ロイ"]  今、この周辺の区画は軒並み接続が切れちまってるし、まずここから逃げ出すこと自体できねーぞってことさ。
+[name="Roy"]  Right now, the connections to the plates around the K.G.C.C. have broken off, and you won't be able to escape.
+[name="로이"]  즉 연합회 주변 섹터들의 연결이 끊겨서, 너희는 도망갈 수 없다는 말이야.
 
 [name="格蕾纳蒂"]  ......呃......该死......
+[name="グレイナティ"]  ……っ……クソッ……！
+[name="Greynuty"]  Ugh... Goddammit...
+[name="그레이너티"]  젠장……
 
 [name="索娜"]  ......好像不是可以正面打赢的对手啊。
+[name="ソーナ"]  ……かといって、正面からやり合って勝てる相手じゃないのよね。
+[name="Sona"]  This doesn't seem like an enemy we can take head-on.
+[name="소나"]  ……정면 대결로 이길 수 있는 상대는 아닌 것 같아.
 
 [name="罗伊"]  感谢你总算理解了你早该理解的事情。那我再问一遍，要不要把东西交给我？那我可以放走你们。
+[name="ロイ"]  や～っと理解してくれたんだな？　ありがとさん。そんじゃ、もう一度聞かせてもらおう。――チップを渡してくれねえか？　そうすりゃお前らのことは見逃してやるぜ。
+[name="Roy"]  I'm glad you finally understand what you should've always understood. So let me ask again, will you hand me the goods? I wouldn't mind letting you go.
+[name="로이"]  진작에 이해했어야 할 것을 이제야 이해해 줘서 고마워. 그럼 다시 한번 묻든다. 나한테 물건 넘길래? 그러면 이번은 봐줄게.
 
 [name="索娜"]  嘿，无胄盟什么时候这么好心了？
+[name="ソーナ"]  へ～え？　無冑盟っていつからそんなに親切になったの？
+[name="Sona"]  Heh, when is the Armorless Union a charity?
+[name="소나"]  풉, 아머레스 유니온이 언제부터 그렇게 친절해진 거야?
 
 [name="罗伊"]  ......心情问题吧，终于从漫长的......斗争里看到了曙光。
+[name="ロイ"]  ……気分の問題だよ。長いこと戦い続けてきて……ようやく、光が見えたんだ。
+[name="Roy"]  I guess it was a matter of mindset. After a long, long struggle... I finally saw the light.
+[name="로이"]  ……기분에 따라 다르지. 드디어 길고 길었던…… 투쟁에서 빛을 봤으니까.
 
 [name="罗伊"]  从玻利瓦尔的废墟，到卡西米尔的平原，最后来到这里。
+[name="ロイ"]  ……ボリバルの廃墟から、カジミエーシュの平原に流れて、最後にここまで辿り着いた。
+[name="Roy"]  From the ruins of Bolívar, to the prairies of Kazimierz, and finally here.
+[name="로이"]  볼리바르의 폐허에서 카시미어의 평원, 그리고 결국 여기까지.
 
 [name="罗伊"]  没有正常人会觉得杀人是一件快乐的事情，只有那些养尊处优的蠢货喜欢观赏他人流血。
+[name="ロイ"]  そもそも、まともな神経してりゃあ、殺人を楽しんだりなんてしないもんだ。他人の血を見て喜ぶのは、贅沢育ちのバカ野郎だけさ。
+[name="Roy"]  No normal person finds joy in the slaughter of others. Only idiotic pampered princelings derive any pleasure from seeing people bleed.
+[name="로이"]  정상인이라면 살인이 즐겁다고 생각하진 않잖아. 부유한 환경에서 자란 머저리들만이 피 흘리는 걸 감상하기 좋아하지.
 
 [name="罗伊"]  现在，你能拯救我，感染者，我也可以帮你摧毁无胄盟。
+[name="ロイ"]  ま、そういうわけだから……俺を助けると思って、そいつを渡してくれよ。そしたら、巡り巡って最終的には無冑盟自体も解散まで追い込めるんだし、悪い話じゃねえだろ？
+[name="Roy"]  Now, you can save me, Infected, and I can help you dismantle the Armorless Union.
+[name="로이"]  이제 너는 나를 도와줄 수 있어, 감염자. 나도 너를 위해 아머레스 유니온을 괴멸할 수 있고.
 
 [name="索娜"]  ......抱歉，就算你说的是真的，我也不打算把这东西交给你。
+[name="ソーナ"]  ……ごめんなさい。あなたの言葉が本当だとしても、これを渡すつもりはないわ。
+[name="Sona"]  Sorry, but even if that's true, I'm not about to give you this.
+[name="소나"]  ……미안하지만 네 말이 진짜라고 해도 물건을 넘길 생각은 없어.
 
 [name="罗伊"]  为什么？
+[name="ロイ"]  ええ？　そりゃまたどうして。
+[name="Roy"]  Why not?
+[name="로이"]  왜?
 
 [name="索娜"]  我们已经厌倦了受他人操纵的日子了，无胄盟。
+[name="ソーナ"]  あたしたちは――他人の操り人形なんてもううんざりなのよ、無冑盟さん。
+[name="Sona"]  We're sick and tired of being manipulated.
+[name="소나"]  남에게 지배당하는 건 이제 지겨우니까, 아머레스 유니온.
 
 [name="索娜"]  小灰！
+[name="ソーナ"]  ――カイちゃん、お願い！
+[name="Sona"]  Ashley!
+[name="소나"]  회색이!
 
 [name="格蕾纳蒂"]  明白，看这一炮如何！？
+[name="グレイナティ"]  よし！　一発お見舞いしてやる！
+[name="Greynuty"]  Got it! Have a taste of this!
+[name="그레이너티"]  알았어. 자, 이건 어때!?
 
 [name="罗伊"]  ——唔。
+[name="ロイ"]  ――そう来たか。
+[name="Roy"]  Urgh...
+[name="로이"]  ……으음?
 
 [name="罗伊"]  咳咳......咳咳......搞什么。
+[name="ロイ"]  ごほっ……ごほ……やりやがったな～？
+[name="Roy"]  *cough*, *cough* *cough*... What's the meaning of this...?
+[name="로이"]  콜록콜록…… 콜록…… 뭐야?
 
 [name="索娜"]  跑，小灰！
+[name="ソーナ"]  今のうちよ、行きましょ！
+[name="Sona"]  Ashley, run!
+[name="소나"]  얼른 튀어, 회색이!
 
 [name="格蕾纳蒂"]  我知道！
+[name="グレイナティ"]  ああ！
+[name="Greynuty"]  I know!
+[name="그레이너티"]  가자!
 
 [name="罗伊"]  ......在这座城市的构造区乱跑，小心失足跌进引擎里，变成肉末啊。
+[name="ロイ"]  ……お前らよ、そんなに走り回っちゃ危ねえぞ？　ここはインフラエリアだぜ。足踏み外してエンジンにでも落ちたら、バラバラにされちまうってのに。
+[name="Roy"]  Running into the substructure? One wrong step, and you'll be mincemeat in the engine.
+[name="로이"]  ……도시의 인프라 구역에서 멋대로 뛰어다니다가 발을 헛디디기라도 하면 엔진에 빠져 가루가 된다고.
 
 [name="罗伊"]  你可跑不了——
+[name="ロイ"]  ま、逃がしゃしねえけど――
+[name="Roy"]  There's nowhere for you to run––
+[name="로이"]  도망칠 순 없을 거야……
 
 [name="罗伊"]  ——唔。
+[name="ロイ"]  ――うおっ、と？
+[name="Roy"]  Hngh.
+[name="로이"]  ……음.
 
 [name="索娜"]  ......！？
+[name="ソーナ"]  ……！？
+[name="Sona"]  ......?!
+[name="소나"]  ……!?
 
 [name="索娜"]  小灰！小心！
+[name="ソーナ"]  カイちゃん！　危ない！
+[name="Sona"]  Ashley! Watch out!
+[name="소나"]  회색이! 위험해!
 
 [name="格蕾纳蒂"]  ——
+[name="グレイナティ"]  ――！
+[name="Greynuty"]  —
+[name="그레이너티"]  ……
 
 青色的箭矢贯穿了焰尾骑士的盔甲。
+青い矢が、焔尾騎士の鎧へと突き刺さる。
+A cyan arrow pierces Flametail Knight's armor.
+푸른 화살이 불꽃 꼬리의 기사를 관통했다.
 
 索娜试图格挡，但是巨大的冲击力依然让她娇小的身躯失去控制。
+ソーナは持ちこたえようとしたが、衝撃の大きさに小さな体が耐えきれず、彼女はバランスを崩した。
+Sona tries to block it, but the massive force of the impact sends her petite body flying.
+소나는 막으려 했으나, 그 커다란 충격으로 그녀의 왜소한 체구는 통제력을 잃었다.
 
 她在半空中挣扎，飞向城区地块之间的间隙。
+そのまま、空中で手を伸ばし、足掻きながらも、区画の狭間へと――落ちていく。
+Struggling in midair, she is launched into the gap between the city's plates.
+그녀는 허공에서 허우적거리며 섹터의 틈 사이로 떨어져 갔다.
 
 [name="格蕾纳蒂"]  索娜——！
+[name="グレイナティ"]  ソーナ――！
+[name="Greynuty"]  Sona––!!
+[name="그레이너티"]  소나……!
 
 [name="罗伊"]  （......歪了点，刚才突然眼前黑了一下......）
+[name="ロイ"]  （……狙いがずれた……今、一瞬目の前が暗くなったよな……？）
+[name="Roy"]  (Off the mark. Something blurred my vision for a second there...)
+[name="로이"]  (……좀 빗나갔네. 아까 일시적으로 눈앞이 캄캄해졌는데……)
 
 [name="罗伊"]  （疲劳产生的错觉吗......？不，确实是被干扰了......）
+[name="ロイ"]  （疲れのあまり目眩でも起こしたか？　――いや。間違いなく、邪魔が入ったんだろう……）
+[name="Roy"]  (An illusion caused by my fatigue...? No, something got in my way after all.)
+[name="로이"]  (피곤해서 착각했나……? 아니야, 확실히 뭔가 방해했어……)
 
 [name="格蕾纳蒂"]  ——罗伊——！
+[name="グレイナティ"]  ――ロイ、貴様ッ――！
+[name="Greynuty"]  Roy–––!!
+[name="그레이너티"]  ……로이……!
 
 [name="罗伊"]  ......！
+[name="ロイ"]  ……！
+[name="Roy"]  ......!
+[name="로이"]  ……!
 
 [name="罗伊"]  失去理智了吗。
+[name="ロイ"]  あら、理性が飛んじまったらしいな。
+[name="Roy"]  You've lost your mind.
+[name="로이"]  이성을 잃었나 보네.
 
 [name="罗伊"]  啧啧啧，这么近的距离开火，你是打算同归于尽了吗？
+[name="ロイ"]  おいおい、こんな至近距離でぶっ放してきやがって……共倒れでもするつもりか？
+[name="Roy"]  Tisk tisk, firing from such close range. Are you trying to get us both killed?
+[name="로이"]  쯧쯧쯧, 이렇게 가까운 거리에서, 설마 같이 죽으려고?
 
 [name="格蕾纳蒂"]  你......你竟然......对索娜......！
+[name="グレイナティ"]  お前……ッ、よくもソーナを……！
+[name="Greynuty"]  You... How dare you... do that to Sona!
+[name="그레이너티"]  너…… 너 감히…… 소나한테……!
 
 [name="罗伊"]  ......确实有些不小心。
+[name="ロイ"]  ……確かに、ちょっと不注意だったかもな。
+[name="Roy"]  I'll admit, it was careless of me.
+[name="로이"]  ……확실히 내가 좀 부주의하긴 했어.
 
 [name="罗伊"]  还没确认那枚芯片是不是真的被销毁了，这很危险，我可不敢担这个责任。
+[name="ロイ"]  何せ、あのチップがマジで壊れたかどうかは確認できなかったわけだし。いや～これでチップが無事だったら、終わるのが目に見えてる。
+[name="Roy"]  I haven't had a chance to check if the chip is still intact. That's bad news, I wouldn't want that responsibility sitting on my shoulders.
+[name="로이"]  칩이 파괴되었는지 확인도 안 하고. 이러면 안 돼. 난 책임지고 싶지 않다고.
 
 [name="格蕾纳蒂"]  少废话！
+[name="グレイナティ"]  黙れッ！
+[name="Greynuty"]  Shut up, bastard!
+[name="그레이너티"]  닥쳐!
 
 [name="罗伊"]  （该怎么办，赶紧杀掉灰毫，想办法下去确认一下尸体吗？）
+[name="ロイ"]  （さて、どうすっかな。さっさと灰毫を片付けて、何とか下へ降りて焔尾の死体を確認してみるとか？）
+[name="Roy"]  (What to do, what to do. Hurry and kill Ashlock, and look for a way to go check the corpse?)
+[name="로이"]  (어떡하지? 얼른 회색 붓꼬리를 죽이고 시체를 확인할까?)
 
 [name="罗伊"]  （不，这也太危险了，而且电力就快要恢复了，我可不想被夹在铁板中间啊。）
+[name="ロイ"]  （……ないな。電力だって復旧しかけてるし、危険すぎる。鉄板でサンドイッチになるなんて俺は御免だぜ。）
+[name="Roy"]  (No, this is far too dangerous. The power is about to come back on, and I wouldn't want to be caught between those plates.)
+[name="로이"]  (안돼, 그건 너무 위험해. 게다가 곧 전력이 복구될 거야. 난 철판 사이에 끼이는 건 싫어.)
 
 [name="格蕾纳蒂"]  我要你血债血偿——！！
+[name="グレイナティ"]  その血を以て償うがいい――ッ！！
+[name="Greynuty"]  I'll have you pay in blood––!!
+[name="그레이너티"]  네놈의 피로 속죄해라……!!
 
 [name="罗伊"]  直来直往，失去理智之后你的动作还真是好看穿啊——
+[name="ロイ"]  ハハッ、ま～たまっすぐ突撃か？　カッとなってから、随分動きが単調じゃねーか。そんなんじゃ、全部お見通しだっての――
+[name="Roy"]  So straightforward, so predictable. You've been all too easy to read since you lost your ability to think––
+[name="로이"]  단순한 움직임이군. 이성을 잃으니까 간파하기 더 쉬워졌네……
 
 [name="格蕾纳蒂"]  ——是吗？
+[name="グレイナティ"]  ――果たしてそうか？
+[name="Greynuty"]  Oh really?
+[name="그레이너티"]  ……그래?
 
 [name="罗伊"]  ！？
+[name="ロイ"]  ッ！？
+[name="Roy"]  ?!
+[name="로이"]  !?
 
 [name="罗伊"]  唔，竟然是我大意了吗？
+[name="ロイ"]  っだあ、今のはちょっと予想外だったな……
+[name="Roy"]  Hrmph. Was I the careless one?
+[name="로이"]  이런, 내가 방심했나?
 
 [name="罗伊"]  ......跑了？
+[name="ロイ"]  ……あいつ、逃げたのか……？
+[name="Roy"]  She's gone?
+[name="로이"]  ……도망쳤나?
 
 [name="罗伊"]  这么说，那股怒火是装出来的......？
+[name="ロイ"]  ってことは、あのキレっぷりも……まさか、演技……？
+[name="Roy"]  Was she only pretending to be enraged...?
+[name="로이"]  그렇다면, 그 분노가 거짓이었다고……?
 
 ......为了感染者而成为骑士。
+……感染者のために、騎士になることを。
+Become a knight for the Infected.
+……감염자를 위해 기사가 되었다.
 
 为了感染者而奋战至死。
+感染者のために、死ぬまで戦うということを。
+Fight to the bitter end for the Infected.
+감염자를 위해 싸우다 죽었다.
 
 我很荣幸。
+あたしは、心底誇りに思っている。
+That is my honor.
+이건 내 영광이다.
 
 很荣幸......死于一场荣耀的事业。
+だから、誉れ高き大義のために死ぬのなら……それは、あたしには名誉なこと。
+There is no greater honor... than to die for a glorious cause.
+명예로운 일을 위해…… 죽는 건 영광이다.
 
 [name="索娜"]  ......虽然很想大义凛然地这么说，但是......这是什么情况？
+[name="ソーナ"]  ……なーんて、カッコよく言えたらよかったんだけど……これってどういう状況なの？
+[name="Sona"]  I would've liked to go out in a blaze of glory, but... what's going on now?
+[name="소나"]  ……이런 멋있는 말을 하고 싶지만…… 지금 이게 무슨 상황이지?
 
 [name="烛骑士"]  罗伊还在这附近，他一定会发现我的法术，我们不能久留。
+[name="燭騎士"]  まずは必要なことからお伝えしましょう。――ロイは、まだこの近くにいます。彼はきっと私のアーツに気付くでしょうから、あまり長居はできません。
+[name="The Candle Knight"]  Roy is still around here somewhere. He'll discover my Arts sooner or later, so we mustn't tarry here.
+[name="양초의 기사"]  로이는 아직 근처에 있습니다. 분명 제 아츠를 알아챌 테니, 여기 오래 있을 순 없어요.
 
 [name="烛骑士"]  通知你的同伴，让她逃走吧，如有必要，我会在暗中帮助她。
+[name="燭騎士"]  お仲間に、早く逃げるようにとお伝えください。必要であれば、私が陰からお助けいたします。
+[name="The Candle Knight"]  Contact your companion and have her escape. I'll do what I can for her.
+[name="양초의 기사"]  동료한테 도망치라고 전해주세요. 필요하다면 제가 뒤에서 도와줄게요.
 
 [name="索娜"]  ......喂，小灰，我没事。
+[name="ソーナ"]  了解。――聞こえる？　カイちゃん、あたしは無事よ。
+[name="Sona"]  Hey, Ashley, I'm fine.
+[name="소나"]  ……야, 회색이, 난 무사해.
 
 [name="索娜"]  别让他察觉到，找机会逃走，我趁着帮你挡箭的时候把芯片扔进你兜里了，确认一下。
+[name="ソーナ"]  向こうには悟られないように、隙を見て上手く逃げてちょうだい。ああ、それからさっき庇った時に、チップをあなたのポケットへ入れておいたから、あとで確認してね。
+[name="Sona"]  Don't let him know, and look for a chance to escape. I slipped the chip into your pocket when I blocked that arrow for you. Go ahead and double-check.
+[name="소나"]  그놈이 눈치채지 못하게 도망쳐. 내가 아까 화살을 막으면서 칩을 네 주머니에 넣었으니까 확인해 보고.
 
 [name="索娜"]  不用回复，我们回头见。
+[name="ソーナ"]  返事はしなくていいから、またあとで会いましょ！
+[name="Sona"]  No need to reply. See you on the way back.
+[name="소나"]  대답은 하지 마. 나중에 보자.
 
 [name="索娜"]  ......你接住的我？怎么做到的？
+[name="ソーナ"]  ……それで、あなたがあたしを受け止めてくれたのよね？　一体どうやったの？
+[name="Sona"]  You broke my fall? But how?
+[name="소나"]  ……당신이 날 받아줬나요? 어떻게?
 
 [name="烛骑士"]  法术的应用方法多种多样，经过刻苦学习的莱塔尼亚人，无论其原本法术是什么性质，几乎都能使用基础的法术形式。
+[name="燭騎士"]  アーツは、多種多様な応用が利きますので……懸命に学び、研鑽を積んだリターニア人であれば、生来のアーツの性質を問わず、基礎的なアーツは大抵扱えるものなのです。
+[name="The Candle Knight"]  Arts can be applied in many different ways. After extensive studying, almost all Leithanians are able to use basic Arts, regardless of the nature of these Arts.
+[name="양초의 기사"]  아츠의 응용 방법은 다양합니다. 열심히 공부한 라이타니엔인이라면 아츠의 기본 성질이 무엇이든 간에 기초적인 아츠를 거의 다 사용할 수 있을 거예요.
 
 [name="索娜"]  ......你是，烛骑士，对吧？
+[name="ソーナ"]  そう。……ねえ、あなた、燭騎士よね？
+[name="Sona"]  You're the Candle Knight, right?
+[name="소나"]  ……당신은 양초의 기사네요, 맞죠?
 
 [name="索娜"]  你这样的大骑士，为什么要救我......救一个感染者？
+[name="ソーナ"]  あなたみたいな大騎士が、どうしてあたしを助けてくれたの？　あたしは……感染者なのに。
+[name="Sona"]  Why would a great knight like you... save an Infected like me?
+[name="소나"]  당신 같은 대기사가 왜 나를…… 감염자를 돕는 거죠?
 
 [name="烛骑士"]  有个人想要见你。
+[name="燭騎士"]  あなたに会いたがっている方がいらっしゃるものですから。
+[name="The Candle Knight"]  There's someone who wants to see you.
+[name="양초의 기사"]  당신을 만나고 싶어 하는 사람이 있어요.
 
 [name="索娜"]  谁？
+[name="ソーナ"]  会いたがってる人……？　それって？
+[name="Sona"]  Who?
+[name="소나"]  누구죠?
 
 [name="烛骑士"]  还不能说。
+[name="燭騎士"]  生憎ですが、まだお伝えできません。
+[name="The Candle Knight"]  I can't tell you yet.
+[name="양초의 기사"]  아직은 말할 수 없어요.
 
 [name="索娜"]  啊......你也知道我们正在做什么事，瘫痪城市，袭击联合会......我可没有时间郊游喔？
+[name="ソーナ"]  えーっと……あたしたちが何をしてたかは知ってるのよね？　都市全体を麻痺させて、連合会を襲撃してきたところだから……あんまり悠長にお散歩なんてできないんだけど。
+[name="Sona"]  Oh... You should already know that we're pretty busy right now, paralyzing the city, attacking the K.G.C.C... I don't have time for a picnic, you know?
+[name="소나"]  저기…… 우리가 무슨 일을 하는지 당신도 알고 있겠죠? 도시를 마비시키고 연합회를 습격했는데…… 저는 여유 부릴 시간이 없는데요?
 
 [name="烛骑士"]  ......你不信任我，也情有可原。
+[name="燭騎士"]  ……信用していただけないのも、仕方のないことだとは思います。
+[name="The Candle Knight"]  It's understandable that you would distrust me.
+[name="양초의 기사"]  ……저를 못 믿는 것도 당연합니다.
 
 [name="索娜"]  不，我相信你。
+[name="ソーナ"]  違う違う、信用はしてるわよ。
+[name="Sona"]  No, I believe you.
+[name="소나"]  아니, 저는 당신을 믿어요.
 
 [name="索娜"]  只要看有些人一眼，你就能从她的眼里读出他们的想法。
+[name="ソーナ"]  人の考えてることなんて、目を見ればわかるものだから。
+[name="Sona"]  You can tell what someone's thinking, just gotta look into their eyes.
+[name="소나"]  어떤 사람은 눈만 봐도 생각을 읽을 수 있으니까요.
 
 [name="索娜"]  当然，这招可不是百分之百准确的，但是现在情况紧急，对吧。
+[name="ソーナ"]  もちろん、あたしのこれが100パーセント正確だとは言い切れないけど、今は緊急事態だし、ね？
+[name="Sona"]  Of course, this trick doesn't work a hundred percent of the time, but this is desperate times, right?
+[name="소나"]  물론, 백 퍼센트 정확한 건 아니지만, 지금은 긴급사태니까. 그렇죠?
 
 [name="企业员工"]  唉，怎么遇上这种事，路也不通，车也打不到，今晚又回不了家了吗......
+[name="企業職員"]  はぁ……どうしてこんな目に遭ってるんだか。道は塞がってるし、タクシーも捕まらないし、これじゃ今夜も帰れそうにないや……
+[name="A Corporate Employee"]  Ugh... What the hell is going on? The roads are blocked, and I can't get a taxi. Do I not get to go home tonight either?
+[name="기업 직원"]  하아, 어쩌다 이렇게 됐지? 길도 막히고 택시도 안 오고. 오늘도 집에 못 가는 건가……
 
 [name="企业员工"]  该死的组长，说什么报表昨天就该做完......一天能做完个鬼......
+[name="企業職員"]  あのクソリーダーめ。な～にが「昨日のうちに報告書を完成させられないとは何事だ」だよ……頭おかしいのか？　あんなん終わるわけないだろ……
+[name="A Corporate Employee"]  What an idiot... 'finish in one day' my ass... That report should've been done yesterday...
+[name="기업 직원"]  팀장 그 빌어먹을 놈만 아니었으면…… 무슨 보고서를 어제 다 끝냈어야 한다는 거야…… 하루 안에 끝내는 게 말이 되냐……
 
 [name="企业员工"]  唔啊啊啊，怎、怎么了！？？
+[name="企業職員"]  う、うわあああっ！？　ななな、なんだ！？　何が――
+[name="A Corporate Employee"]  Wh—What... what's happening?!
+[name="기업 직원"]  으아아앗, 뭐, 뭐야!??
 
 [name="莫妮克"]  让开，否则我就连你一起射穿。
+[name="モニーク"]  邪魔。退かないと、あんたも一緒に射抜くわよ。
+[name="Monique"]  Out of my way, or I'm shooting through all of you.
+[name="모니크"]  비켜, 아니면 너도 같이 쏴버린다.
 
 [name="企业员工"]  咿————别、别，我这就让——
+[name="企業職員"]  ひっ――！　や、やめてください、すぐに退きますから――
+[name="A Corporate Employee"]  Eep! P-P-Please don't, I'm moving––
+[name="기업 직원"]  으앗…… 아, 안 돼요. 바로 비킬게요……
 
 [name="托兰"]  别乱动，小哥，你也不想脑袋搬家吧？
+[name="トーランド"]  おーっと、動くなよ兄ちゃん。お前さんも、大事な頭とお別れしたかないだろう？
+[name="Toland"]  Stop moving around, lad. You wouldn't want that noggin of yours finding a new home, eh?
+[name="톨런드"]  함부로 움직이지 마, 형씨. 너도 머리 날아가는 건 싫지?
 
 [name="企业员工"]  但、但是她让我动——
+[name="企業職員"]  で、でも、彼女が退けって――
+[name="A Corporate Employee"]  B-But she told me to move––
+[name="기업 직원"]  하, 하지만 저 여자가……
 
 [name="托兰"]  一个张口闭口就要杀你的人，你会相信吗？
+[name="トーランド"]  ほう？　口を開けば殺すとか言う奴を信じるのかい？
+[name="Toland"]  Would you really trust someone who'd take your head off on a whim?
+[name="톨런드"]  말끝마다 죽인다 어쩐다 하는 사람을 믿어?
 
 [name="企业员工"]  我——我——
+[name="企業職員"]  えっ――
+[name="A Corporate Employee"]  I... I...
+[name="기업 직원"]  저…… 저는……
 
 [name="莫妮克"]  托兰，躲在普通人身后，是不是有点太难看了？
+[name="モニーク"]  トーランド。一般人の後ろに隠れるなんて、みっともないと思わないの？
+[name="Monique"]  Toland, have you no shame hiding behind a civilian?
+[name="모니크"]  톨런드, 일반인 뒤에 숨은 건 너무 비겁하지 않나?
 
 [name="企业员工"]  啊啊啊——
+[name="企業職員"]  ひぃいっ――！
+[name="A Corporate Employee"]  Aaaaagh—!
+[name="기업 직원"]  으아앗……
 
 [name="托兰"]  也有点道理，我数到三？
+[name="トーランド"]  なるほど、一理ある。そんじゃあ、今から三つ数えようか。
+[name="Toland"]  Good point. I'll count to three?
+[name="톨런드"]  일리가 있네. 그럼 셋 셀까?
 
 [name="企业员工"]  求、求求你们了，别管我，别管我！
+[name="企業職員"]  お、おおお願いしますっ、放して……見逃してください……！
+[name="A Corporate Employee"]  P-P-P-please, I'm begging you, l-leave me alone!
+[name="기업 직원"]  저저저저, 저기, 제발 부, 부탁이니 절 놔주세요!
 
 [name="托兰"]  一。
+[name="トーランド"]  一。
+[name="Toland"]  One.
+[name="톨런드"]  하나.
 
 [name="企业员工"]  咿呀——
+[name="企業職員"]  い、いやだっ――
+[name="A Corporate Employee"]  Nooooooo––!!
+[name="기업 직원"]  히익……
 
 [name="托兰"]  二。
+[name="トーランド"]  二。
+[name="Toland"]  Two.
+[name="톨런드"]  둘.
 
 [name="莫妮克"]  ......
+[name="モニーク"]  ……
+[name="Monique"]  ......
+[name="모니크"]  ……
 
 [name="托兰"]  三！
+[name="トーランド"]  三っ！
+[name="Toland"]  Three!
+[name="톨런드"]  셋!
 
 [name="企业员工"]  两个疯子，两个疯子——
+[name="企業職員"]  あああ、あいつら、二人とも完全にイカレてやがるっ――！
+[name="A Corporate Employee"]  They're both insane! They're both insane––!
+[name="기업 직원"]  미쳤어, 미쳤어……
 
 [name="企业员工"]  这条路通向哪儿——等等，那里是——
+[name="企業職員"]  っていうか、これってどこに繋がる道なんだ！？　――待てよ、あれは――
+[name="A Corporate Employee"]  Where does this road lead–– Wait, over there, that's––
+[name="기업 직원"]  이 길은 어디로 이어지는 거지? 잠깐, 저긴……
 
 [name="企业员工"]  骑士先生！骑士老爷！
+[name="企業職員"]  あのっ、そちらの騎士さん……いや、騎士様！
+[name="A Corporate Employee"]  Mr. Knight! Mr. Knight!
+[name="기업 직원"]  기사님! 기사님!
 
 [name="企业员工"]  我是玫瑰报业的员工，您帮帮我，您知道我们吗？我会向编辑部推荐您的，那边有两个不法之徒——
+[name="企業職員"]  突然すみません！　私、ローズ新聞の者なのですが……助けてくれませんか！？　あっ、我々のことはご存じですかね？　や、とにかく編集部にあなたを推薦しておくので、向こうの犯罪者二人を――
+[name="A Corporate Employee"]  I'm an employee of the Rose Paper Union! Please help me! You know who I am, right? I'll recommend you to the editorial department! There are two criminals over––
+[name="기업 직원"]  전 로즈 미디어의 직원입니다. 저 좀 도와주세요. 저희를 아시죠? 제가 편집부에 기사님을 추천할게요. 저쪽에 무법자 두 명이 있어요……
 
 [name="逐魇骑士"]  ......
+[name="追魔騎士"]  ……
+[name="Nightmare Knight"]  ......
+[name="악몽의 기사"]  ……
 
 [name="企业员工"]  ——咿——
+[name="企業職員"]  ――ひ、ひぃっ――！
+[name="A Corporate Employee"]  Eek...!
+[name="기업 직원"]  ……히익……
 
 [name="逐魇骑士"]  ......
+[name="追魔騎士"]  ……
+[name="Nightmare Knight"]  ......
+[name="악몽의 기사"]  ……
 
 [name="托兰"]  ......你的箭是用不完的吗？
+[name="トーランド"]  ――おいおいおい、遠慮なく撃ちやがって。どんだけ矢を持ってんだよ。
+[name="Toland"]  Do you ever run out of arrows?
+[name="톨런드"]  ……화살이 끝없이 나오네?
 
 [name="莫妮克"]  啧，我还是第一次好几分钟没能追上猎物......了不起，托兰·卡什。
+[name="モニーク"]  チッ……何分も獲物に追いつけないままだなんて、初めてだわ……やるじゃないの、トーランド・キャッシュ。
+[name="Monique"]  Grrr... This is the first time my prey's eluded me for several minutes... Not half bad, Toland Cash.
+[name="모니크"]  쳇, 몇 분 동안이나 쫓아가지 못한 사냥감은 당신이 처음이야…… 대단한데, 톨런드 캐시.
 
 [name="莫妮克"]  你的目的就是拖住我吗？
+[name="モニーク"]  あんた、何が目的なの？　私の邪魔でもしたいわけ？
+[name="Monique"]  Is it your goal to stall me here?
+[name="모니크"]  나를 방해하는 게 당신의 목적인가?
 
 [name="托兰"]  呵呵......你呢，你的目的是陪我玩吗？
+[name="トーランド"]  はっはは……そう言うお前の目的は、俺と遊ぶことだったりすんのかい？
+[name="Toland"]  Haha... What about you? Are you here to play with me?
+[name="톨런드"]  후훗…… 그럼 너는? 너의 목적은 나랑 노는 거냐?
 
 [name="莫妮克"]  不，你的人头值很多钱，任何时候，我们都需要钱。
+[name="モニーク"]  は？　さっき自分で言ってたでしょ。あんたの首には手間掛けるだけの価値があるの。私たちにはいつだってお金が必要だしね。
+[name="Monique"]  No, there's a handsome bounty on your head, and we're always in need of money.
+[name="모니크"]  아니, 당신 모가지가 값이 많이 나가니까. 우린 언제나 돈이 필요하거든.
 
 [name="托兰"]  哦？你家里有病重的弟弟吗？还是有需要赡养的老父亲？
+[name="トーランド"]  ほ～う？　家に病気の弟でもいんのか？　あー、それか年食った父親を養ってるとか？
+[name="Toland"]  Oh? Do you have a sickly little brother back home? Or maybe an elderly father who needs your support?
+[name="톨런드"]  그래? 집에 아픈 동생이라도 있나? 아니면 늙은 아버지라도 부양하는 거야?
 
 [name="莫妮克"]  ......这份工作能为我带来你无法想象的财富，赏金猎人。
+[name="モニーク"]  ……この仕事は、あんたには想像もつかないような富をもたらしてくれるのよ、バウンティハンターさん。
+[name="Monique"]  This job brings more wealth than you can imagine, bounty hunter.
+[name="모니크"]  ……이 일은 당신이 상상도 못 할 부를 가져다줘, 바운티 헌터.
 
 [name="莫妮克"]  我们比你们，比骑士，比任何一个卡西米尔人都更懂得这个社会的运作规则。
+[name="モニーク"]  それに、私たちは――あんたらより、そして騎士たちより、さらに言えばどんなカジミエーシュ人よりも、この社会のルールってものをよく知ってるの。
+[name="Monique"]  We know the rules of this society better than you, better than any of the knights.
+[name="모니크"]  우리는 말이야, 당신이나 기사, 그 어떤 카시미어 사람보다 이 사회가 돌아가는 규칙을 더 잘 알고 있어.
 
 [name="莫妮克"]  我们只是选了一条捷径，等今晚的猎杀结束之后，我们将迎来新的开始。
+[name="モニーク"]  だから、近道を選ぶことにしたわけ。今夜の狩りが終われば、私たちは新たな一歩を踏み出すことができる。
+[name="Monique"]  We simply chose to take a little detour, and after tonight's hunt, we'll usher in a new beginning.
+[name="모니크"]  우린 단지 지름길을 선택했을 뿐이야. 오늘 밤 사냥이 끝나면 새로운 시작을 맞이한다.
 
 [name="莫妮克"]  不过现在，好像又有一个蠢货想要搅局。
+[name="モニーク"]  それなのに、もう一人、状況を引っかき回しにきたバカがいるみたいね。
+[name="Monique"]  But right now, it seems there's another idiot hellbent on messing things up.
+[name="모니크"]  그런데 또 방해하려는 바보 같은 녀석이 온 것 같네.
 
 [name="托兰"]  ......
+[name="トーランド"]  ……
+[name="Toland"]  ......
+[name="톨런드"]  ……
 
 [name="逐魇骑士"]  ......在这座，死气沉沉的城市里......还能见到这样的夜空。
+[name="追魔騎士"]  ……この陰鬱なる都市においても……未だ、斯様な夜空を目にすることが適うとは。
+[name="Nightmare Knight"]  To think you could still see such a splend'rous night sky in this death-choked city.
+[name="악몽의 기사"]  ……이, 침울한 도시에서…… 이런 밤하늘을 볼 수 있다니.
 
 [name="逐魇骑士"]  这才是我所熟悉的夜晚，让这人造的孽物搁浅于此......放空这座城市的血，做得好，不知名的反抗者！
+[name="追魔騎士"]  これぞ、私の知る夜だ。人が造り出したこの業深き鉄の巨体を座礁させ……都市の血を抜き、枯れさせるとは。よくぞ為した、名も知らぬ反逆者よ！
+[name="Nightmare Knight"]  This is the kind of night I've always known. Let this manmade malediction be left behind... and shed every last drop of this city's blood! Bravo, ye faceless rebels!
+[name="악몽의 기사"]  이것이야말로 내게 익숙한 밤이다. 인위적인 죄악을 여기에 좌초시켜…… 도시의 피를 비웠다. 잘했어, 이름 모를 반항자!
 
 [name="托兰"]  ......真是一位奇怪的骑士，私斗可不挣钱啊。
+[name="トーランド"]  ……こいつは随分変わった騎士が来たもんだ。なあお前さん、私闘なんて金になんねぇぜ？
+[name="Toland"]  What a strange knight. The private duels must not be paying well.
+[name="톨런드"]  ……정말 이상한 기사군. 사적인 싸움은 돈벌이가 안 돼.
 
 [name="莫妮克"]  啧，闹剧。
+[name="モニーク"]  まったく、とんだ茶番ね。
+[name="Monique"]  Clown.
+[name="모니크"]  쳇, 웃기고 있네.
 
 [name="玛嘉烈"]  大家都没事吧！
+[name="マーガレット"]  皆、無事か！
+[name="Margaret"]  Is everyone okay?
+[name="마가렛"]  다들 무사하구나!
 
 [name="玛莉娅"]  姐姐！我刚把备用电池找出来......唔......这盏灯就不开了吧？感觉撑不了多久......
+[name="マリア"]  あっ、お姉ちゃん！　実は、ちょうど予備のバッテリーを見つけたところで……ん～ライトはもういいかな。あんまり持たなそうだし……
+[name="Maria"]  Margaret, I just found the spare battery... Alright, see, now the light's on, yeah? Doesn't feel like it'll last long though.
+[name="마리아"]  언니! 방금 예비용 배터리를 찾았어…… 음…… 이 등은 켜지 말까? 오래 못 버틸 것 같아……
 
 [name="佐菲娅"]  ......看来大家都没事。老弗和科瓦尔去外面查看情况了，一会回来。
+[name="ゾフィア"]  ……全員大丈夫そうよ。フォーとコーヴァルは外の状況を見に行ってるけど、すぐに戻ってくるわ。
+[name="Zofia"]  Looks like everyone's okay. V and Kowal went to check on the situation. They'll be back later.
+[name="조피아"]  ……모두 무사한 것 같네. 포와 코발은 밖에 상황을 살펴보러 나갔어. 금방 돌아올 거야.
 
 [name="佐菲娅"]  玛恩纳呢？
+[name="ゾフィア"]  ムリナールのほうはどう？
+[name="Zofia"]  Where's Młynar?
+[name="조피아"]  무에나는?
 
 [name="玛莉娅"]  叔叔待在家里，说是难得可以从工作中解脱出来，想一个人待一会......
+[name="マリア"]  叔父さんだったら、家にいるよ。久しぶりに仕事から解放されたことだし、しばらくは一人でいたいって……
+[name="Maria"]  He stayed home. Said it would be difficult to get away from work, and wanted some time alone.
+[name="마리아"]  삼촌은 집에 있어. 모처럼 일에서 벗어났으니 혼자 있고 싶다면서……
 
 [name="玛莉娅"]  闪灵姐姐和夜莺姐姐呢？
+[name="マリア"]  そういえば、シャイニングさんとナイチンゲールさんは？
+[name="Maria"]  What about Shining and Nightingale?
+[name="마리아"]  샤이닝 씨와 나이팅게일 씨는?
 
 [name="玛嘉烈"]  她们担心博士被无胄盟盯上，已经赶回感染者收容中心了。
+[name="マーガレット"]  二人は、ドクターが無冑盟の標的になるのではないかと心配していてな。感染者収容センターに戻っていった。
+[name="Margaret"]  They were worried that the Armorless Union might have their sights on the Doctor, and rushed back to the Infected shelter.
+[name="마가렛"]  아머레스 유니온이 박사를 노릴까 봐 걱정된다면서 감염자 수용 센터로 돌아갔어.
 
 [name="玛莉娅"]  ......
+[name="マリア"]  ……
+[name="Maria"]  ......
+[name="마리아"]  ……
 
 [name="玛嘉烈"]  没事的，她们都是很可靠的人。
+[name="マーガレット"]  大丈夫、彼女たちは本当に信頼の置ける人たちだ。
+[name="Margaret"]  Don't worry. They're both very dependable.
+[name="마가렛"]  괜찮아, 믿을만한 사람들이니까.
 
 [name="玛莉娅"]  不......只是......我好像还是不知道姐姐的任何事情......
+[name="マリア"]  あっ、ううん。そうじゃなくて……私、まだお姉ちゃんのことを何も知らないのかも、って思っただけ……
+[name="Maria"]  No, it's just that... I still don't know anything about the things going on around you.
+[name="마리아"]  그게 아니라…… 난…… 아직 언니에 대해 아무것도 모르는 것 같아……
 
 [name="玛嘉烈"]  抱歉，是我坚持不让你们有任何接触的......我不能把博士他们卷入我自己的事情中来。
+[name="マーガレット"]  ……すまない。私が、彼らをお前たちから遠ざけてしまっているからな……だが、私個人のことにドクターや皆を巻き込むわけにはいかないんだ。
+[name="Margaret"]  Sorry, but I deliberately kept you out of the loop. I can't afford to get Doctor and the others tangled up with my personal affairs.
+[name="마가렛"]  미안, 내가 너희들을 만나지 못하게 막았어…… 박사 일행을 내 사적인 일에 끌어들일 수 없으니까.
 
 [name="玛嘉烈"]  但也许迟早有一天，你们会相逢、相识。也许有一天，玛莉娅，你会登上那艘船。
+[name="マーガレット"]  だが、いずれ彼らと出会い、互いを知ることになる日がくるかもしれない。マリア、お前にもいつかあの船に乗る日がくるかもしれない。
+[name="Margaret"]  But maybe one day, you'll get to know each other. Maybe one day, Maria, you'll also find yourself aboard that ship.
+[name="마가렛"]  하지만 언젠가 너희는 만나게 되고 서로를 알게 될 거다. 언젠가 마리아도 그 함선에 오를지도 몰라.
 
 [name="玛嘉烈"]  理想者的光辉终究会指引所有人，即使他们的前路各不相同，信念迥异，也没有什么能动摇他们心中的意志。
+[name="マーガレット"]  ――理想を抱く者の輝きはあらゆる人を導くものだ。そして、その信念や進むべき道がそれぞれ異なっていたとしても、彼らの意志を揺るがすものなど何一つありはしない。
+[name="Margaret"]  Their dazzling idealism will eventually guide everyone forward. Even if they hold vastly different beliefs and walk different paths, nothing can shake the conviction in their hearts.
+[name="마가렛"]  이상주의자의 빛은 결국 모두를 이끌게 된다. 설령 서로 앞길이 다르고 신념이 다를지라도, 그 마음속 의지를 흔들 수 있는 건 아무것도 없어.
 
 [name="玛莉娅"]  ......就像......
+[name="マリア"]  ……まるで……
+[name="Maria"]  That reminds me of...
+[name="마리아"]  ……마치……
 
 [name="玛嘉烈"]  就像骑士小说里的骑士那样。
+[name="マーガレット"]  そう。まるで、騎士小説で描かれる騎士のようにな。
+[name="Margaret"]  The knights from the stories.
+[name="마가렛"]  마치 기사 소설에 나오는 기사처럼.
 
 [name="老骑士"]  我回来了！
+[name="老騎士"]  今戻ったぞ！
+[name="Old Knight"]  I'm back!
+[name="나이 든 기사"]  나 왔어!
 
 [name="老工匠"]  真的一片漆黑啊......隔壁卖手电筒的今天都要断货了吧......
+[name="老職人"]  マジでそこら中が真っ暗だったぜ……隣の店で売ってた懐中電灯、今頃在庫切れになってんだろなあ……
+[name="Old Craftsman"]  It's pitch black... The flashlight merchant next door should've restocked by now, right?
+[name="나이 든 장인"]  정말 칠흑같이 어둡네…… 옆에서 파는 손전등도 오늘은 재고가 다 떨어졌겠지……
 
 [name="光头马丁"]  玛嘉烈，你来了。
+[name="禿頭マーティン"]  マーガレット。来ていたのか。
+[name="Bald Marcin"]  Oh, it's Margaret.
+[name="대머리 마틴"]  마가렛, 왔구나.
 
 [name="老骑士"]  现在外面是一团乱啦，我看，我们就老老实实呆在这里，等着电力恢复如何？
+[name="老騎士"]  しかし、外は今混乱しておるしのう……しばしここで、電力の回復を待つことにしてはどうじゃ？
+[name="Old Knight"]  It's an absolute mess outside right now. I say we behave ourselves, stay indoors, and wait for the power to come back.
+[name="나이 든 기사"]  밖은 아주 난장판이야. 우린 전력이 복구될 때까지 얌전히 여기 있는 게 어때?
 
 [name="老工匠"]  就干等着？本来今天是不是也有比赛来着？
+[name="老職人"]  ん？　待てよ、そういや、本当は今日も試合があったはずだよな？
+[name="Old Craftsman"]  Just sit here doing nothing? Wasn't there supposed to be a match today?
+[name="나이 든 장인"]  그냥 기다리자고? 원래 오늘도 경기가 있지 않았나?
 
 [name="玛嘉烈"]  本来是决出第一个八强骑士的日子。
+[name="マーガレット"]  ああ。本来なら今日は、八強の一人目が決まる日だった。
+[name="Margaret"]  It was supposed to be the day the eight strongest knights were decided.
+[name="마가렛"]  원래는 첫 번째 8강 기사가 정해지는 날이지.
 
 [name="佐菲娅"]  ......你有关注血骑士的动向吗？
+[name="ゾフィア"]  ……もしかして、血騎士の動きを追ってたの？
+[name="Zofia"]  Have you seen the latest news of the Blood Knight?
+[name="조피아"]  ……피의 기사의 움직임에 주목한 거야?
 
 [name="玛嘉烈"]  了解过一些......他是这赛季从选拔阶段到特锦赛的无败王者......不仅如此......
+[name="マーガレット"]  少しだけな。……彼は今シーズン、予選からメジャーまで無敗の王者であり、そしてそれ以上に……
+[name="Margaret"]  More or less... He's the undefeated king this season, from the qualifiers to the Major... But beyond that...
+[name="마가렛"]  약간은 알고 있지…… 이번 시즌, 예선부터 토너먼트까지 전승의 강자…… 그뿐만 아니라……
 
 [name="玛嘉烈"]  他还是感染者的英雄。
+[name="マーガレット"]  感染者の英雄でもあるのだから。
+[name="Margaret"]  He's also the hero of the Infected.
+[name="마가렛"]  감염자의 영웅이기도 하지.
 
 [name="索娜"]  ......我们要去哪儿？不是我抱怨，我真的没有太多时间......
+[name="ソーナ"]  ……これってどこへ向かってるの？　文句を言ってるわけじゃないんだけど、あたし本当に時間がなくって……
+[name="Sona"]  Where are we going? I'm not complaining, but I really don't exactly have a lot of free time on my hands.
+[name="소나"]  ……어디로 가는 거죠? 불평하는 게 아니라, 정말로 시간이 없다고요……
 
 [name="烛骑士"]  就是这。
+[name="燭騎士"]  到着しました。こちらです。
+[name="The Candle Knight"]  We're here.
+[name="양초의 기사"]  다 왔어요.
 
 [name="索娜"]  ......冠军墙展厅？
+[name="ソーナ"]  ……チャンピオンウォールの、展示ホール……？
+[name="Sona"]  ...the Wall of Champions exhibit hall?
+[name="소나"]  ……챔피언스 월의 전시장?
 
 [name="烛骑士"]  这是一次秘密的会面，还请您不要声张。
+[name="燭騎士"]  これは秘密の面会ですので、どうかお静かに。
+[name="The Candle Knight"]  This is a secret meeting, so try to keep your voice down.
+[name="양초의 기사"]  이건 비밀스러운 만남이니까 절대 소문내지 말아 주세요.
 
 [name="索娜"]  是哪个骑士要见我吗？
+[name="ソーナ"]  あたしに会いたがってる人って、どこかの騎士なのかしら？
+[name="Sona"]  So which knight wanted to meet me?
+[name="소나"]  저를 만나려는 기사라도 있는 건가요?
 
 [name="烛骑士"]  骑士吗......说的没错，确实是一位可敬的骑士。
+[name="燭騎士"]  騎士、ですか……ええ。確かに、あの方は尊敬すべき騎士です。
+[name="The Candle Knight"]  Knight...? Well, you're not technically wrong. She was indeed a respectable knight.
+[name="양초의 기사"]  기사라…… 맞아요. 확실히 존경스러운 기사죠.
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="烛骑士"]  呵呵，别紧张......是位年纪有些大的女士。
+[name="燭騎士"]  ふふっ。そう緊張なさらず。……少し年配の、女性の方ですよ。
+[name="The Candle Knight"]  Haha, but don't be nervous... She's just a regular old lady now.
+[name="양초의 기사"]  후훗, 긴장하지 말아요…… 나이가 좀 있으신 여사님이니까.
 
 [name="烛骑士"]  你先进去吧。
+[name="燭騎士"]  さあ、どうぞお入りください。
+[name="The Candle Knight"]  Head on in.
+[name="양초의 기사"]  먼저 들어가세요.
 
 [name="索娜"]  ......你不进来？
+[name="ソーナ"]  ……あなたは入らないの？
+[name="Sona"]  You're not coming?
+[name="소나"]  ……당신은 안 들어가요?
 
 [name="烛骑士"]  她可能是卡西米尔为数不多的几位，让我有些害怕的人呢。
+[name="燭騎士"]  あの方は、カジミエーシュでも数少ない、私が少々恐れを抱く方々の一人なのですよ。
+[name="The Candle Knight"]  Let's just say... she's one of the few people in Kazimierz who scares me even a bit.
+[name="양초의 기사"]  그분은 카시미어에서 제가 두려워하는 몇 안 되는 사람이거든요.
 
 [name="索娜"]  哇哦......手握烛剑的烛骑士也会有害怕的人？那我真的没问题吗？
+[name="ソーナ"]  わ～お……まさか燭剣を手にした燭騎士にも、怖い人なんているものなのね。あたし、そんな人の前に出て本当に大丈夫なのかしら？
+[name="Sona"]  Wow... Even the Candle Knight, bearer of the Candle Sword, is afraid of someone? What chance do I have then?
+[name="소나"]  와아…… 천하의 양초의 기사도 두려워하는 사람이 있나요? 저 정말 괜찮을까요?
 
 [name="烛骑士"]  ......可能不太一样吧。
+[name="燭騎士"]  ……ええ。私とは、状況が違いますしね。
+[name="The Candle Knight"]  It probably won't be the same for you.
+[name="양초의 기사"]  ……뭐랄까, 그분은 상황이 좀 달라요.
 
 [name="烛骑士"]  毕竟名义上，她算我的半个养母。
+[name="燭騎士"]  何しろあの方は名義上、私の養母のようなものですので。
+[name="The Candle Knight"]  After all, she counts as my half adoptive mother, at least in name.
+[name="양초의 기사"]  명목상 반쯤은 제 양어머니나 다름없으니까요.
 
 [name="索娜"]  （和联合会一样的紧急电源......没有被大隔断的断电影响吗......）
+[name="ソーナ"]  （連合会と同じ、緊急用の予備電源を使っているのね……大分断での停電の影響は、あまり受けてないみたい……）
+[name="Sona"]  (It's the same emergency power supply as the K.G.C.C... Was this place not affected by the outage either?)
+[name="소나"]  (연합회랑 같은 긴급 전원…… 대격리의 영향을 전혀 안 받은 건가……)
 
 [name="索娜"]  （骑士和......联合会......）
+[name="ソーナ"]  （騎士と……連合会、か……）
+[name="Sona"]  (Both the knights... and the General Chamber...)
+[name="소나"]  (기사와…… 연합회라……)
 
 [name="索娜"]  （......还在这片黑夜里闪着光。）
+[name="ソーナ"]  （……この暗い夜の中でも、変わらず輝いているのね。）
+[name="Sona"]  (...are still shining through the darkness.)
+[name="소나"]  (…… 어두운 밤인데도 빛나고 있네.)
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 灯光扑闪。
+明かりがちらついた。
+The lights flicker.
+반짝이는 등불에……
 
 打断了索娜的思绪。
+闇の中の光が、ソーナの思考を遮る。
+And so does Sona's train of thought.
+소나는 생각이 멈췄다.
 
 骑士和资本一并避开了这浓稠的夜色。
+――騎士と資本は、どちらもこの深い夜の色を避けた。
+The knights, and the money, were able to avoid the deep night.
+기사와 자본은 모두 이 짙은 밤을 잘 피했다.
 
 谁会在今夜溺亡？
+ならば――今宵、夜の深さに溺れ死ぬのは誰なのだろうか？
+Who drowns in the darkness?
+이 짙은 밤에 빠져 죽게 될 사람은 과연 누구일까?
 
 [name="年长的骑士"]  ......焰尾骑士，索娜。
+[name="ラッセル"]  ……焔尾騎士、ソーナ。
+[name="An Aged Knight"]  Flametail Knight... Sona.
+[name="연로한 기사"]  ……불꽃 꼬리의 기사, 소나.
 
 [name="年长的骑士"]  快过来些，让我好好看看你。
+[name="ラッセル"]  こちらへ来て、あなたの顔をよく見せてちょうだい。
+[name="An Aged Knight"]  Come here and let me have a closer look at you.
+[name="연로한 기사"]  빨리 와 보거라, 얼굴을 제대로 보여다오.
 
 [name="索娜"]  ——！
+[name="ソーナ"]  ――！
+[name="Sona"]  —!
+[name="소나"]  ……!
 
 [name="索娜"]  您、您是......！！
+[name="ソーナ"]  あ、あなたは……！！
+[name="Sona"]  You! You're...!
+[name="소나"]  다, 당신은……!!
 
 [name="年长的骑士"]  哎。我今天不是以公务之身来见你的。
+[name="ラッセル"]  あら、そんなに固くならないで？　今日は公務で会いに来たわけではないのよ。
+[name="An Aged Knight"]  Now, now. I didn't come here today to talk business.
+[name="연로한 기사"]  오늘 난 공식적인 신분으로 널 만나러 온 게 아니야.
 
 [name="年长的骑士"]  我听说了......感染者骑士和监正会的一些骑士，做了笔交易。
+[name="ラッセル"]  ……感染者騎士と監査会の一部の騎士との間で、取引をしたと聞いているわ。
+[name="An Aged Knight"]  I heard... the Infected knights made some kind of deal with the knights of the Adeptus Sprawiedliwi.
+[name="연로한 기사"]  듣기로는…… 감염자 기사가 감정회의 일부 기사와 거래했다던데.
 
 [name="年长的骑士"]  是骑士协会和监正会议员，德米安。
+[name="ラッセル"]  ソーナ、相手はデミアンでしょう？　騎士協会の一員であり、監査会のメンバーの。
+[name="An Aged Knight"]  Between the Knights Association and Demian, a member of the Adeptus.
+[name="연로한 기사"]  기사 협회와 감정회 의원 데미안이지.
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="年长的骑士"]  感染者为了能在大骑士领活下去，答应在他的配合下，进行了本次行动。
+[name="ラッセル"]  感染者は、大騎士領で生きていくために、彼の協力のもと今回の計画を実行することに同意したのでしょう。
+[name="An Aged Knight"]  In order for the Infected to survive in the Grand Knight Territory, they agreed to participate in this operation with his cooperation.
+[name="연로한 기사"]  감염자는 그랜드 나이트 영지에서 살아남기 위해 그의 협조 아래 이번 작전을 진행하는 데 동의했고.
 
 [name="年长的骑士"]  四城大隔断......监正会默许了这件事再次发生。
+[name="ラッセル"]  監査会は……四都大分断が再び起こることを黙認した。
+[name="An Aged Knight"]  The Great Kawalerielki Separation... the Adeptus gave in, letting it happen once more.
+[name="연로한 기사"]  카봐렐리엘키 대격리가…… 다시 일어나는 걸 감정회가 묵인했다는 건가.
 
 [name="年长的骑士"]  看看这面墙......这些骑士，他们本该成为真正的英雄，而不是以这种姿态，被人关注。
+[name="ラッセル"]  ……ソーナ。この壁に掛けられた、騎士の姿をご覧なさい。彼らは本来、真の英雄となるべき存在であって、このような在り方で人々の注目を集めるべきではないと、私は思っているの。
+[name="An Aged Knight"]  Look at this wall... These knights were supposed to become real heroes. Not... this, symbols for spectators to gawk at.
+[name="연로한 기사"]  이 벽을 봐라…… 이 기사들은 원래 진정한 영웅이 돼야 했었다. 이런 모습으로 사람의 주목을 받는 게 아니라.
 
 [name="年长的骑士"]  唉，你不感到......悲哀吗？
+[name="ラッセル"]  あなたも、悲しいとは思わない？
+[name="An Aged Knight"]  Does this sight not fill you with great sorrow?
+[name="연로한 기사"]  하아, 너는 이게…… 슬프지 않은 거냐?
 
 [name="索娜"]  ......悲哀，女士。
+[name="ソーナ"]  ……悲しいです。
+[name="Sona"]  It certainly does, ma'am.
+[name="소나"]  ……슬프죠.
 
 [name="索娜"]  但我为感染者们至今仍不能受到公正的待遇而悲哀，为那些沉溺在享乐与欲望之中的人们而悲哀。
+[name="ソーナ"]  あたしは、感染者が今も公平な扱いを受けられないという事実や、享楽と欲望にふける人々に悲しみを感じます。
+[name="Sona"]  But I feel more sorrow for... the Infected who still need equal treatment, and for those totally lost to entertainment and materialism.
+[name="소나"]  하지만 지금까지도 공평한 대우를 받지 못하는 감염자들이 슬프게 느껴지고, 향락과 욕망에 빠져 사는 사람들이 슬프게 느껴지고……
 
 [name="索娜"]  为每一个......努力活着，却举步维艰的卡西米尔人......而悲哀。
+[name="ソーナ"]  そして……もがき苦しみながらも必死で生きようとしている、すべてのカジミエーシュ人の境遇にも……悲しみを覚えます。
+[name="Sona"]  I cry... for each and every person struggling to make it to the next sunrise here in Kazimierz.
+[name="소나"]  열심히 살지만…… 앞으로 나아갈 수 없는 카시미어의 모든 사람들이…… 슬프게 느껴져요.
 
 [name="年长的骑士"]  ......真是漂亮的就职演说，小松鼠。
+[name="ラッセル"]  ……素敵な演説だわ、子リスちゃん。
+[name="An Aged Knight"]  Truly a spectacular inaugural speech, young squirrel.
+[name="연로한 기사"]  ……훌륭한 취임 연설이다.
 
 [name="索娜"]  监正会能让我们过普通的生活吗？
+[name="ソーナ"]  監査会はあたしたちに普通の生活を送らせてくれるんでしょうか？
+[name="Sona"]  Can the Adeptus Sprawiedliwi really give us a normal life?
+[name="소나"]  그런데 감정회는 우리가 평범하게 살아가게 해줄까요?
 
 [name="年长的骑士"]  手续、公文、国民院认可的法律文件。当然，监正会都会为你办妥。这是老德米安答应你的。
+[name="ラッセル"]  そうね……手続きの類いや、公文書の準備、国民議会での法的文書の承認まで、監査会はもちろん手配をしてあげるわ。デミアンが約束した通りにね。
+[name="An Aged Knight"]  Paperwork, procedures, any documentation the National Council needs. Of course, the Adeptus will handle it all for you. That is what Demian promised you.
+[name="연로한 기사"]  절차, 공문, 국민원이 인정한 법률 문서. 물론, 감정회가 잘 처리해줄 거야. 데미안이 약속한 거니까.
 
 [name="年长的骑士"]  可你身上的源石结晶呢？
+[name="ラッセル"]  けれど、あなたの体にある源石結晶までは、どうにもしてあげられないでしょう。
+[name="An Aged Knight"]  But what about the Originium crystals on your body?
+[name="연로한 기사"]  그런데 네 몸에 난 오리지늄 결정은?
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="年长的骑士"]  我欣赏你们，红松骑士团，但是你们必须克服的，是一些更模糊的问题。
+[name="ラッセル"]  レッドパイン騎士団。私は、あなたたちを評価しているわ。だけれどね、あなたたちが克服しなければならないものは、より曖昧な問題なのよ。
+[name="An Aged Knight"]  I admire Pinus Sylvestris, but the problems you must overcome... are not so well-defined.
+[name="연로한 기사"]  난 너희들이 훌륭하다고 생각해, 피누스 실베스트리스 기사단. 하지만 너희가 극복해야 하는 건 보다 더 모호한 문제야.
 
 [name="年长的骑士"]  之后，德米安会和你们对接的。就相信他吧，虽然办法笨了点，但他有的是想法。
+[name="ラッセル"]  今後のことは、デミアンが対応してくれるわ。少し浅はかなところがあるけれど、彼を信じてちょうだい。デミアンには、考えがあるの。
+[name="An Aged Knight"]  In time, Demian will reach out to you. He may not be the sharpest tool in the shed, but trust him. He has his ways.
+[name="연로한 기사"]  앞으로 데미안이 너희를 상대할 거다. 그를 믿어도 좋아. 방법이 좀 어리석긴 하지만, 그에게도 나름대로 생각이 있으니까.
 
 [name="索娜"]  ......好。
+[name="ソーナ"]  ……わかりました。
+[name="Sona"]  Alright.
+[name="소나"]  ……알겠습니다.
 
 [name="年长的骑士"]  ......好了，我的骑士团也快到了，赶紧去找你的同伴们会合吧。
+[name="ラッセル"]  ……さてと。私の騎士団もじきに到着する頃だから、あなたは自分の仲間たちと合流してあげなさい。
+[name="An Aged Knight"]  Good. My knightclub will be here shortly, so hurry and find your companions.
+[name="연로한 기사"]  ……자, 내 기사단도 곧 도착하니까 어서 네 동료들과 합류해라.
 
 [name="年长的骑士"]  还有，告诉薇薇安娜一声，让她偶尔有空也来陪我吃顿饭吧。
+[name="ラッセル"]  それから、ヴィヴィアナに伝えておいてもらえるかしら。時間があるときで良いから、たまには食事に付き合ってちょうだい、とね。
+[name="An Aged Knight"]  Also, tell Viviana to come and have a meal with me when she's not busy.
+[name="연로한 기사"]  그리고 비비아나에게 전해줘. 시간 날 때 가끔은 식사라도 같이하자고.
 
 [name="索娜"]  ......
+[name="ソーナ"]  ……
+[name="Sona"]  ......
+[name="소나"]  ……
 
 [name="索娜"]  ............骑士意味着什么，女士？
+[name="ソーナ"]  …………マダム。――騎士とは、なんなのでしょうか？
+[name="Sona"]  .........Ma'am, what does it mean to be a knight?
+[name="소나"]  ……기사란 무엇을 의미할까요?
 
 [name="年长的骑士"]  每个人都有不一样的答案，孩子。
+[name="ラッセル"]  その問いには、一人一人が違う答えを持つものよ。
+[name="An Aged Knight"]  The answer to the question is different for everyone, child.
+[name="연로한 기사"]  사람마다 답이 다르겠지.
 
 [name="年长的骑士"]  你不会想听到我的答案的，我们这些老家伙呀，走过太多的路啦。
+[name="ラッセル"]  あなたには、私の答えなんて必要ないでしょう。我々のような老人は皆、もう長すぎる道のりを、歩いちゃったのよ。
+[name="An Aged Knight"]  You wouldn't be interested in mine anyway. Us old folks, we've seen too much.
+[name="연로한 기사"]  내 답은 듣고 싶지는 않을 거다. 우리 같은 늙다리들은 너무나 많은 길을 걸어왔으니까.
 
 [name="年长的骑士"]  走吧，小松鼠，走吧。
+[name="ラッセル"]  さあ、お行きなさい。
+[name="An Aged Knight"]  Go, little squirrel, go.
+[name="연로한 기사"]  얼른 가봐.
 
 [name="年长的骑士"]  去看看卡西米尔的朝阳，是不是还那样炽热。
+[name="ラッセル"]  あなたのその目で――カジミエーシュに昇る朝日が、未だ燃え上がるほどに熱いものかを確かめるのよ。
+[name="An Aged Knight"]  See if the sunrise in Kazimierz still blazes ever-bright.
+[name="연로한 기사"]  가서 카시미어의 아침 햇살이 여전히 뜨거운지 봐 보거라.
 
 [name="罗伊"]  ......追丢了啊。
+[name="ロイ"]  ……あ～あ、見失っちまったよ。
+[name="Roy"]  ...I lost her.
+[name="로이"]  ……놓쳤네.
 
 [name="罗伊"]  之后再发布围剿任务比较有效率吗......
+[name="ロイ"]  こうなると、あとでもう一度包囲討伐の指示を出したほうが効率的かもしんねーなあ……
+[name="Roy"]  Would it be more efficient to post a surround and suppress mission later?
+[name="로이"]  나중에 다시 토벌 임무를 내리는 게 좀 더 효율적이려나……
 
 [name="罗伊"]  是我，怎么了吗？
+[name="ロイ"]  ――俺だ。どうかしたのか？
+[name="Roy"]  I'm here. What's the matter?
+[name="로이"]  나야, 무슨 일이야?
 
 [name="罗伊"]  ......什......多少？
+[name="ロイ"]  ……なっ……それで、数は？
+[name="Roy"]  What...? How many?
+[name="로이"]  ……뭐…… 얼마나 있다고?
 
 [name="逐魇骑士"]  ......卓越的剑术。
+[name="追魔騎士"]  ……優れた剣技を見せるものだ。
+[name="Nightmare Knight"]  Exceptional swordsmanship.
+[name="악몽의 기사"]  ……검술이 뛰어나군.
 
 [name="托兰"]  唉，我可不想继续陪你浪费时间啊，骑士老兄。
+[name="トーランド"]  やれやれ。これ以上、お前さんに構ってる暇はないんだがな、騎士の兄ちゃんよ。
+[name="Toland"]  Ahh, I'd prefer not to waste any more time here with you, old friend.
+[name="톨런드"]  하아, 당신이랑 시간 낭비하고 싶지 않은데, 기사 형씨.
 
 [name="莫妮克"]  ......这个疯子......
+[name="モニーク"]  ……ほんとにイカレた奴ね……
+[name="Monique"]  Goddamned maniac...
+[name="모니크"]  ……미친놈이네……
 
 [name="莫妮克"]  杀了托兰之后，就立刻撤退好了。
+[name="モニーク"]  トーランドを仕留めたら、すぐに撤退するとしましょう。
+[name="Monique"]  I'd best get out of here after I kill Toland.
+[name="모니크"]  톨런드를 죽이고 바로 철수해야겠다.
 
 [name="莫妮克"]  ......我在陪“公会领袖”和梦魇捉迷藏，有什么事一会再说。
+[name="モニーク"]  ……何？　今「ギルドリーダー」とナイツモラの二人とかくれんぼしてるんだけど。用があるならあとにして。
+[name="Monique"]  I'm in a game of hide-and-seek with the 'Guildmaster' and a Nightzmora. Not the best time to chat.
+[name="모니크"]  ……지금 '길드 마스터'와 나이츠모라랑 숨바꼭질하는 중이니까, 이따 다시 얘기해.
 
 [name="莫妮克"]  ......
+[name="モニーク"]  ……！
+[name="Monique"]  ......
+[name="모니크"]  ……
 
 [name="莫妮克"]  不......我立刻就去。
+[name="モニーク"]  そういうことなら……すぐに向かうわ。
+[name="Monique"]  No... I'll head there now.
+[name="모니크"]  아니…… 지금 당장 갈게.
 
 [name="莫妮克"]  游戏到此为止了，托兰。
+[name="モニーク"]  ――今日のゲームはここでお終い。タイムアップよ、トーランド。
+[name="Monique"]  Let's wrap up our little game, Toland.
+[name="모니크"]  게임은 여기까지 하지, 톨런드.
 
 [name="托兰"]  你要逃走？
+[name="トーランド"]  おっと、逃げるのか？
+[name="Toland"]  You're running?
+[name="톨런드"]  오, 도망가는 거야?
 
 [name="莫妮克"]  不。
+[name="モニーク"]  そんなわけないでしょ。
+[name="Monique"]  No.
+[name="모니크"]  아니.
 
 [name="莫妮克"]  还有你也是，梦魇。
+[name="モニーク"]  それからナイツモラ、あんたとの遊びもここまでだから。
+[name="Monique"]  Same goes for you, Nightzmora.
+[name="모니크"]  그리고 나이츠모라, 당신.
 
 [name="托兰"]  ——！你是梦魇！？
+[name="トーランド"]  ――！　お前さん、ナイツモラなのか！？
+[name="Toland"]  What? You're a Nightzmora?!
+[name="톨런드"]  ……! 나이츠모라였어!?
 
 [name="逐魇骑士"]  ......
+[name="追魔騎士"]  ……
+[name="Nightmare Knight"]  ......
+[name="악몽의 기사"]  ……
 
 [name="莫妮克"]  暂时停手吧。
+[name="モニーク"]  いいわね？　勝負はひとまずお預けよ。
+[name="Monique"]  Let's call it here for now.
+[name="모니크"]  일단 여기까지 하지.
 
 [name="莫妮克"]  你是......来卡瓦莱利亚基寻找同胞和试炼的，对吧？
+[name="モニーク"]  っていうかあんた、そもそも……同胞と試練を探すために、カヴァレリエルキへ来たはずでしょ？
+[name="Monique"]  You came to Kawalerielki to find your people and a good fight, right?
+[name="모니크"]  당신은…… 카봐렐리엘키에 동포와 시련을 찾으러 온 게 아니었어?
 
 [name="逐魇骑士"]  别把荣耀的传统说得如此轻浮，卡西米尔人，你没有这个资格。
+[name="追魔騎士"]  栄誉ある伝統を軽視した物言いは止めよ、カジミエーシュ人。貴様にそのような資格はない。
+[name="Nightmare Knight"]  Don't speak so lightly of our tradition of glory, Kazimierzian. You don't have that right.
+[name="악몽의 기사"]  명예로운 전통을 가볍게 얘기하지 말라, 카시미어인. 네게 그럴 자격 따윈 없다.
 
 [name="莫妮克"]  不，只是好心提醒你一句，梦魇。
+[name="モニーク"]  そういうのじゃなくて、あんたに忠告してあげてるだけよ。
+[name="Monique"]  No, I'm just offering you a warning, Nightzmora, out of the kindness of my heart.
+[name="모니크"]  아니, 네가 해야 할 일을 상기시켜 준것 뿐이야, 나이츠모라.
 
 [name="莫妮克"]  别在我们这里白费力气。
+[name="モニーク"]  無駄なことに労力を費やすのはやめなさい、ってね。
+[name="Monique"]  Don't waste your energy on us.
+[name="모니크"]  여기서 괜히 쓸데없는 짓 하지 말라고.
 
 [name="托兰"]  这倒是句公道话。
+[name="トーランド"]  こいつは真っ当なご指摘だな。
+[name="Toland"]  I can agree with that.
+[name="톨런드"]  음, 맞는 말이긴 하지.
 
 [name="逐魇骑士"]  ......无凭无据......
+[name="追魔騎士"]  ……くだらぬことを……
+[name="Nightmare Knight"]  Boastful nonsense.
+[name="악몽의 기사"]  ……아무런 근거도 없이……
 
 [name="莫妮克"]  ......哼，后会无期，蠢货。
+[name="モニーク"]  ……フン。二度と会わずに済むことを祈っておくわ、おバカさん。
+[name="Monique"]  Hmph. See you never, dumbass.
+[name="모니크"]  ……흥, 다시 만날 일은 없을 거다, 이 바보야.
 
 [name="企业员工"]  交通还没恢复吗？我听说有些地方已经通电了啊......
+[name="企業職員"]  交通機関はまだ復旧しないのか？　場所によっては、とっくに電気が通ってるって聞いてるが……
+[name="A Corporate Employee"]  Is the traffic still stuck? I heard the power's already come back in some places.
+[name="기업 직원"]  교통 회복은 아직인가? 어떤 지역은 전기가 들어왔다던데……
 
 [name="卡西米尔骑士"]  这么大的损失，难道骑士协会不应该赔偿我们吗！
+[name="カジミエーシュ騎士"]  ここまで大きな損失が出た以上、騎士協会は俺たちに補償するのが道理ってもんだろう！
+[name="A Kazimierz Knight"]  Shouldn't the Knights Association compensate us for our terrible losses?!
+[name="카시미어 기사"]  손해가 막심한데 기사 협회에서 배상해 줘야 하는 게 아니야?
 
 [name="游客"]  说得没错！政府应该补偿旅游津贴！
+[name="観光客"]  そーだそーだ！　政府からも、旅行への手当を出してもらわないとなあ！
+[name="A Tourist"]  Yeah! The government should pay us back our travel expenses!
+[name="관광객"]  맞아! 정부에서 여행 수당이라도 보상해야 한다!
 
 [name="企业员工"]  唉......冰箱里的鲜肉没问题吧......
+[name="企業職員"]  はぁ……冷蔵庫に入れた肉、傷んでないといいけど……
+[name="A Corporate Employee"]  Ugh... I hope the meat in the fridge didn't go bad.
+[name="기업 직원"]  하아…… 냉장고에 둔 고기는 괜찮을까……
 
 [name="莫妮克"]  ......确定了吗？
+[name="モニーク"]  ……で、本当なの？
+[name="Monique"]  Are you sure?
+[name="모니크"]  ……정말이야?
 
 [name="罗伊"]  唉。
+[name="ロイ"]  そりゃあな。まったく困ったもんだよ。
+[name="Roy"]  Sigh...
+[name="로이"]  하아.
 
 [name="罗伊"]  你知道吗，他们中的任何一个人，我们都可以独自解决。
+[name="ロイ"]  ――あいつらの内の誰だって、相手が一人だったら俺たちなら単騎で片付けられるだろうが……
+[name="Roy"]  You know, we can take out any single one of their people, alone.
+[name="로이"]  그거 알아? 한 명이라면 우리는 혼자서도 상대할 수 있어.
 
 [name="罗伊"]  但两个人，就需要我们联手。
+[name="ロイ"]  二人となると、こっちも協力しなきゃならん。
+[name="Roy"]  Two of them, we'll need to bring help.
+[name="로이"]  하지만 두 명이라면 우리도 손을 잡아야 해.
 
 [name="罗伊"]  三个人，将是一场空前绝后的苦战。
+[name="ロイ"]  三人出てこられちまったら、これまでにないほど厳しい戦いになるだろうな。
+[name="Roy"]  Three of them, and it's going to be one hell of a rough battle.
+[name="로이"]  세 명이라면 전무후무한 힘든 싸움을 겪는 거고.
 
 [name="罗伊"]  如果是三个及以上......那可以视作一支战术小队了，无胄盟承担不起这个损失。
+[name="ロイ"]  ついでに、三人超えた辺りから……相手は一つの作戦部隊も同然になる。あれを相手するとなると、無冑盟は許容できないレベルの打撃を喰らうことになるだろう。
+[name="Roy"]  If there's three or more of them... that could take a full tactical squad, and the Armorless Union can't afford those losses.
+[name="로이"]  네 명부터는…… 거의 뭐 작전팀이나 다름없지. 아머레스 유니온은 그런 손실을 감당할 수 없어.
 
 [name="罗伊"]  要是超过双手之数，把无胄盟全体成员叫上，怕是都不够他们杀的。
+[name="ロイ"]  そんで、連中が両手指の数を超えてくるようだったら、無冑盟の全員を呼び出したとしても、狩られるだけの烏合の衆だ。
+[name="Roy"]  If there's more of them than you can count on your fingers, calling in the entire Armorless Union might not even be enough to put them down.
+[name="로이"]  만약 두 손으로 셀 수 있는 수를 넘긴다면, 아머레스 유니온을 모두 불러와도 죽이기에 부족할 거야.
 
 [name="莫妮克"]  这我知道，我还是见过他们的，不劳你好心提醒了。
+[name="モニーク"]  そのくらい知ってるわよ。私も、見たことはあるもの。あんたに説明してもらうまでもないわ。
+[name="Monique"]  I know, I've seen them before. Your concern is better placed elsewhere.
+[name="모니크"]  나도 알아, 만나봐서. 친절하게 일일이 가르쳐주지 않아도 돼.
 
 [name="莫妮克"]  岗哨看到多少人？
+[name="モニーク"]  それで、見張りは何人見たって？
+[name="Monique"]  So, how many did the scouts see?
+[name="모니크"]  그래서, 몇 명이 왔다는 거야?
 
 [name="罗伊"]  四十来个。
+[name="ロイ"]  四十そこらだとよ。
+[name="Roy"]  Roughly forty.
+[name="로이"]  40명 정도.
 
 [name="莫妮克"]  太糟糕了......在这个节骨眼？
+[name="モニーク"]  ふざけた数ね……この肝心な時に。
+[name="Monique"]  Well shit... Right at this juncture?
+[name="모니크"]  최악이네…… 이렇게 중요한 시점에?
 
 [name="罗伊"]  ......是啊。已经通知董事会了。
+[name="ロイ"]  ……本当にな。……ああ、理事会には知らせてあるぜ。
+[name="Roy"]  Yes. I've already notified the Board of Directors.
+[name="로이"]  ……내 말이. 어쨌든 이사회에는 알렸어.
 
 [name="罗伊"]  他们是想攻陷四城联合吗？
+[name="ロイ"]  にしても、あの連中、四都連合を占領しにでもきたのかねえ。
+[name="Roy"]  Do they intend to capture the Kawalerielki Alliance?
+[name="로이"]  설마 카봐렐리엘키를 함락시킬 작정인가?
 
 [name="发言人麦基"]  ......这不可能！
+[name="代弁者マッキー"]  ……そんな馬鹿な！
+[name="Spokesman McKee"]  Impossible!
+[name="대변인 맥키"]  ……말도 안 돼!
 
 [name="发言人麦基"]  不，这不可能......军事顾问呢！监视征战骑士的人呢！？
+[name="代弁者マッキー"]  あり得ないことだ、そのはずだろう……軍事顧問は！？　征戦騎士の監視担当はどうしたんだ！？
+[name="Spokesman McKee"]  No, this can't be! Where are the military consultants? Where are the people monitoring the knights?!
+[name="대변인 맥키"]  가, 가당키나 하냐고…… 군사 고문은! 출정 기사를 감시하는 사람은!?
 
 [name="发言人麦基"]  之前监正会调动的那批征战骑士，上一次汇报的时候他们在哪里？
+[name="代弁者マッキー"]  ……以前監査会が動員していたあの征戦騎士たち……奴らは、前回の報告の時点でどこにいた？
+[name="Spokesman McKee"]  Those campaign knights dispatched by the Adeptus Sprawiedliwi... Where were they in the last report?
+[name="대변인 맥키"]  전에 감정회가 움직였던 그 출정 기사들, 지난 보고 때 그 기사들이 어디 있었지?
 
 [name="发言人麦基"]  ......五百七十三公里。
+[name="代弁者マッキー"]  ……573キロ先、だと……？
+[name="Spokesman McKee"]  Five hundred and seventy-three kilometers.
+[name="대변인 맥키"]  ……573km.
 
 [name="发言人麦基"]  常规征战骑士小队的行军速度不可能来得及......太快了，这太快了......
+[name="代弁者マッキー"]  普通の征戦騎士小隊の行軍速度では動員は不可能だ。……これは、あまりにも早すぎる……
+[name="Spokesman McKee"]  There's no way a normal squad of campaign knights would be able to march that fast... It's impossible...
+[name="대변인 맥키"]  일반적인 출정 기사 소대의 행군 속도로는 안 돼…… 빨라도 너무 빠르다고……
 
 [name="发言人麦基"]  难道监正会背着联合会，调动了另一支？不对，这不可能......
+[name="代弁者マッキー"]  まさか監査会は連合会に隠れて、部隊をもう一つ動かしていたのか……？　いや、それこそあり得ないだろう……
+[name="Spokesman McKee"]  Did the Adeptus mobilize another branch behind the General Chamber's back? No, that can't be...
+[name="대변인 맥키"]  설마 감정회가 연합회 몰래 또 다른 부대를 움직였다는 건가? 아니지, 그건 더 말이 안 되잖아……
 
 [name="发言人麦基"]  ......慢着。
+[name="代弁者マッキー"]  ……待てよ。
+[name="Spokesman McKee"]  Wait.
+[name="대변인 맥키"]  ……잠깐.
 
 [name="发言人麦基"]  ......银枪皮加索斯的急行军......最快的一次记录是多少......？
+[name="代弁者マッキー"]  ……シルバーランスが急行軍した際の……最速記録であれば、あるいは……？
+[name="Spokesman McKee"]  The Silverlance fast-response squad... What's their fastest record?
+[name="대변인 맥키"]  ……실버랜스 페가수스의 급행군…… 가장 빠른 기록은 얼마였지?
 
 [name="发言人麦基"]  可......他们......伪装了自己的军队识别码......？甚至，伪装了自己的甲胄和长枪？
+[name="代弁者マッキー"]  だが、奴らであるはずが……そうか、部隊識別番号や信号コードを偽装して……？　だとしたら、鎧や長槍すらも偽装していたということか？
+[name="Spokesman McKee"]  Could they have disguised their military identification code? And even their armor and lances?
+[name="대변인 맥키"]  놈들이…… 설마…… 부대 식별 코드를 위장한 건가? 갑옷과 창마저 위장했다고?
 
 [name="卡西米尔骑士"]  嗯？是不是亮一些了？
+[name="カジミエーシュ騎士"]  ん……？　なんか、明るくなったような……
+[name="A Kazimierz Knight"]  Hm? It's a little brighter now, isn't it?
+[name="카시미어 기사"]  뭐지? 갑자기 밝아진 것 같은데?
 
 [name="企业员工"]  看那边！路那头的光芒！那边一定是恢复电力了！
+[name="企業職員"]  見ろ、あっちだ！　道の向こうに光が見える！　きっと電気が復旧したんだ！
+[name="A Corporate Employee"]  Look over there! That little halo of light on the other side of the road! The power must've come back over there!
+[name="기업 직원"]  저길 봐! 저쪽에서 빛이 나는데! 저긴 분명 전력이 복구됐어!
 
 [name="游客"]  但是......灯还是灭的......
+[name="観光客"]  でも、それにしちゃあ……照明は消えたままだし……
+[name="A Tourist"]  But... the lights still won't turn on...
+[name="관광객"]  하지만…… 조명은 아직 꺼져 있는데……
 
 [name="游客"]  那更像是......月光......？
+[name="観光客"]  これは、電気っつーか……月の光、みたいじゃないか……？
+[name="A Tourist"]  That looks a lot more like... moonlight?
+[name="관광객"]  전기 보다는, 뭐랄까…… 달빛 같은데……?
 
 月光。
+――月光。
+Moonlight.
+달빛.
 
 通电玻璃管的兴盛让现代人逐渐遗忘了月光原本的模样。
+電灯の普及によって、現代人は月光がどんなものか少しずつ忘れかけていた。
+The prosperity afforded by the advent of the energized glass tubes gradually led to modern man forgetting the appearance of the primordial moonlight.
+형광등의 보급은 현대인들에게 달빛의 원래 모습을 점차 잊게 했다.
 
 这座片刻黑暗的城市——
+しかし、このとき真実、原始の夜闇に包まれていた都市は――
+This city, engulfed in a brief moment of darkness––
+잠시 어두웠던 도시에……
 
 ——已经被银光照亮。
+――気が付けば、銀の光に照らされていた。
+––is illuminated by a silver glow.
+……은빛이 밝게 비추었다.
 
 [name="围观的路人"]  .....................那、那也是骑士？
+[name="周りの通行人"]  ……………………あ、あれって……騎士、なのか？
+[name="An Onlooker"]  Are..... are those knights over there?
+[name="구경하는 행인"]  ……………………저, 저것도 기사야?
 
 [name="卡西米尔骑士"]  征、征战骑士！？在这里！？
+[name="カジミエーシュ騎士"]  せ、征戦騎士……！？　どうしてここに！？
+[name="A Kazimierz Knight"]  Th-The campaign knights?! Here?!
+[name="카시미어 기사"]  추, 출정 기사!? 여기에!?
 
 骑士穿过人群。
+騎士が群衆の間を往く。
+The knights pass through the crowd.
+기사들은 인파를 지나갔다.
 
 穿过这座被誉为骑士之城的城市。
+騎士の街と謳われる、この都市を往く。
+Through the city known as the City of Knights.
+그들은 기사의 도시라고 불리는 이 도시를 지나가고 있다.
 
 城市不承认这群骑士。
+都市は、この騎士たちを認めていない。
+Through the city that does not recognize them.
+도시는 이 기사들을 인정하지 않는다.
 
 正如骑士也不承认这座城。
+騎士が、この都市を認めないのと同じように。
+Through the city that they do not recognize.
+기사들이 이 도시를 인정하지 않는 것처럼.
 
 他们从遥远的边境要塞而来。
+彼らは――はるか遠くの国境にある、要塞からやってきたのだ。
+They came from a faraway fortress close to the border.
+그들은 먼 변경 요새에서 왔다.
 
 他们的身上沾染着清晰可闻的泥土气息。
+その身体は、はっきりと土の香りに染まっていた。
+Their bodies are stained with the clear and tangible scent of the soil.
+그들의 몸에서 확실히 진흙 냄새가 풍긴다.
 
 夹杂着血肉，白骨，埋葬在战场上的无数英豪。
+そこには――その土には、血肉や骨、そして戦場に埋葬された無数の英傑たちが混じっているのであろう。
+A scent mixed with flesh, blood, bones, and the lives of countless heroes buried on battlefields past.
+그리고 혈육, 뼈, 전장에 묻힌 무수한 영걸들도 섞여 있다.
 
 [name="罗伊"]  ......通知无胄盟全体成员，不管手头有什么活儿，全部停下。
+[name="ロイ"]  ……無冑盟構成員、全員に通知しろ。手元の仕事がなんだろうと一旦ストップだ、ってな。
+[name="Roy"]  Inform all members of the Armorless Union to stop whatever they're doing this instant, no matter what it is.
+[name="로이"]  ……아머레스 유니온 모두에게 전해. 무슨 일을 하고 있던 당장 멈추라고.
 
 [name="罗伊"]  不想惹麻烦就什么都别做，绝对别轻举妄动。
+[name="ロイ"]  トラブルを起こしたくなけりゃ、絶対バカな真似すんじゃねーぞ。
+[name="Roy"]  Do not make any moves unless you want trouble. Do not act rashly.
+[name="로이"]  죽고 싶지 않으면 아무것도 하지 말라고, 절대 경거망동하지 말라고.
 
 [name="莫妮克"]  唔。
+[name="モニーク"]  ……！
+[name="Monique"]  Hmm.
+[name="모니크"]  음.
 
 [name="罗伊"]  莫妮克？
+[name="ロイ"]  モニーク、どうした？
+[name="Roy"]  Monique?
+[name="로이"]  왜 그래?
 
 [name="莫妮克"]  那边......那个人......
+[name="モニーク"]  あそこにいるのって……
+[name="Monique"]  That one... over there...
+[name="모니크"]  저기…… 저 녀석……
 
 [name="玛恩纳"]  ......
+[name="ムリナール"]  ……
+[name="Młynar"]  ......
+[name="무에나"]  ……
 
 [name="托兰"]  ......怀念吗？
+[name="トーランド"]  ……どうだ、懐かしくねえかい？
+[name="Toland"]  Nostalgic?
+[name="톨런드"]  ……그리운가?
 
 [name="玛恩纳"]  不。
+[name="ムリナール"]  いいや。
+[name="Młynar"]  No.
+[name="무에나"]  아니.
 
 [name="托兰"]  ......我倒是很怀念。
+[name="トーランド"]  ……そうか？　俺は懐かしいけどな。
+[name="Toland"]  ...I certainly am.
+[name="톨런드"]  ……나는 몹시 그립던데.
 
 [name="托兰"]  怀念那个......还误以为这片大地没那么糟糕的时候，那本来是个意气风发的时代。
+[name="トーランド"]  この大地はそこまで悪かねえ場所だって勘違いしてた、気力旺盛なあの頃がさ。
+[name="Toland"]  I miss... that time when I stupidly thought this place wasn't so bad. Those were good times. Exciting times.
+[name="톨런드"]  이 땅이…… 그렇게까지 최악은 아니라고 오해했던 때가, 위풍당당하던 시대가 그립네.
 
 [name="玛恩纳"]  ......
+[name="ムリナール"]  ……
+[name="Młynar"]  ......
+[name="무에나"]  ……
 
 [name="托兰"]  如果你真的没有任何想法，你是不会出现在这里的，对吧？
+[name="トーランド"]  なあ。本当に何も考えてねえのなら、お前はそもそも、ここに来やしなかったはずだろう？
+[name="Toland"]  If you had really given up, then you wouldn't still be here, would you?
+[name="톨런드"]  정말 아무런 생각이 없다면 당신은 여기 나타나지 않았을 거야, 안 그래?
 
 [name="托兰"]  玛恩纳，看看四周吧，这座城市睡着了，谁也未曾想过。
+[name="トーランド"]  見ろよ、ムリナール。この街は眠ってる。こんなことは誰も考えもしなかった。
+[name="Toland"]  Młynar, take a good look all around you. The city sleeps, and nobody has ever even woken up.
+[name="톨런드"]  무에나, 주위를 둘러봐봐. 이 도시가 잠들 거라 누가 상상이나 했겠어.
 
 [name="托兰"]  可你呢？
+[name="トーランド"]  だがここにいる以上、お前には何か考えがあるんだろう？
+[name="Toland"]  But what about you?
+[name="톨런드"]  그런데 당신은?
 
 [name="企业员工"]  报告！已经修复了一部分通讯线路——！
+[name="企業職員"]  ご報告します！　通信回線が一部復旧しました！
+[name="A Corporate Employee"]  Reporting! A portion of the communications lines are back––!
+[name="기업 직원"]  보고합니다! 일부 통신 회로가 복구되었습니다……!
 
 [name="发言人麦基"]  ——接通国民院副审官。
+[name="代弁者マッキー"]  ――国民議会の副審官に繋いでくれ。
+[name="Spokesman McKee"]  ––Connect me to the associate justice of the National Council.
+[name="대변인 맥키"]  ……당장 국민원 부심사관에게 연결해 줘.
 
 [name="企业员工"]  是。
+[name="企業職員"]  わかりました。
+[name="A Corporate Employee"]  Yessir.
+[name="기업 직원"]  네.
 
 [name="发言人麦基"]  ......副审官阁下？
+[name="代弁者マッキー"]  ……もしもし。副審官様ですか？
+[name="Spokesman McKee"]  Your honor?
+[name="대변인 맥키"]  ……부심사관님이십니까?
 
 [name="发言人麦基"]  你知道我要说什么，这批征战骑士未经许可进入大骑士领，已经触犯了第二法案的——
+[name="代弁者マッキー"]  お伝えしたいことは、既におわかりかと思いますが……征戦騎士たちが許可なく大騎士領に入ってきた件、あれは第二法に抵触する行いです――
+[name="Spokesman McKee"]  You already know what I'm about to say. This band of campaign knights trespassed into the Grand Knight Territory without authorization, violating the Second Act––
+[name="대변인 맥키"]  제가 무슨 말을 하려는지 아시죠? 출정 기사들이 허가 없이 그랜드 나이트 영지에 들어왔습니다. 제2법안을 위반한 거라고요……
 
 [name="电话那头的声音"]  前国民院副审官杜克，涉嫌受贿、参与非法贸易、谋杀和渎职等多项罪名，已被依法拘留。
+[name="電話の声"]  ――国民議会前副審官のデューク氏は、収賄、違法取引への関与、殺人及び汚職等、多数の容疑をかけられており、法に則って既に拘留されています。
+[name="A Voice from the Phone"]  Former Associate Justice Duke of the National Council, has been detained on suspicion of bribery, smuggling, murder, and dereliction of duty.
+[name="수화기 너머 목소리"]  전 국민원 부심사관 듀크 씨는 뇌물 수수, 불법 거래, 살인 및 직무 유기 등 죄명으로 구속되었습니다.
 
 [name="发言人麦基"]  ......
+[name="代弁者マッキー"]  ……！
+[name="Spokesman McKee"]  ......
+[name="대변인 맥키"]  ……
 
 [name="电话那头的声音"]  冷静选择你说的每一句话，发言人阁下。
+[name="電話の声"]  一つ一つの言葉を冷静にお選びください、代弁者様。
+[name="A Voice from the Phone"]  I would advise you to choose your words calmly and carefully, Spokesman.
+[name="수화기 너머 목소리"]  한마디 한마디를 신중하게 말해야 합니다, 대변인님.
 
 [name="电话那头的声音"]  大骑士领因大断电处于紧急状态，监正会有权在城市处于紧急状态时派军入驻。
+[name="電話の声"]  大騎士領は大規模停電による緊急事態にあり、監査会はこうした非常時において、都市に軍を派遣する権限を持っています。
+[name="A Voice from the Phone"]  The Grand Knight Territory is in a state of emergency due to a blackout, and the Adeptus Sprawiedliwi has the authority to send troops into the city during a state of emergency.
+[name="수화기 너머 목소리"]  그랜드 나이트 영지는 대규모 정전으로 긴급 사태에 처해 있으며, 감정회는 비상시에 군을 파견할 권한을 갖고 있습니다.
 
 [name="电话那头的声音"]  还有什么疑问吗？
+[name="電話の声"]  本件について、何かご質問はございますか？
+[name="A Voice from the Phone"]  Do you have any further questions?
+[name="수화기 너머 목소리"]  질문이 더 있습니까?
 
 [name="发言人麦基"]  ......没有。打扰了，先生。
+[name="代弁者マッキー"]  ……ございません。失礼いたしました。
+[name="Spokesman McKee"]  None. I apologize for the intrusion, sir.
+[name="대변인 맥키"]  ……아니요. 실례했습니다.
 
 [name="发言人马克维茨"]  ......麦基先生。
+[name="代弁者マルキェヴィッチ"]  ……マッキー様。
+[name="Spokesman Malkiewicz"]  Mr. McKee.
+[name="대변인 말키위츠"]  ……맥키 선생님.
 
 [name="发言人麦基"]  ......嗯。
+[name="代弁者マッキー"]  ……ああ。
+[name="Spokesman McKee"]  Yes?
+[name="대변인 맥키"]  ……응.
 
 [name="发言人马克维茨"]  通讯基本恢复了，麦基先生。
+[name="代弁者マルキェヴィッチ"]  通信はほとんど回復しましたよ。
+[name="Spokesman Malkiewicz"]  Communications are more or less restored, Mr. McKee.
+[name="대변인 말키위츠"]  통신이 거의 다 복구됐네요.
 
 [name="发言人马克维茨"]  看看他们忙碌的样子......你觉得电话是什么？
+[name="代弁者マルキェヴィッチ"]  見てください、彼らの忙しそうな様子を。あなたは、電話というのは何だとお思いになりますか？
+[name="Spokesman Malkiewicz"]  Look how busy they are over there... What do you think a phone is?
+[name="대변인 말키위츠"]  저 바삐 움직이는 사람들을 보세요…… 선생님은 전화가 뭐라고 생각하십니까?
 
 [name="发言人麦基"]  ......？当然是通讯工具......
+[name="代弁者マッキー"]  ……？　当然、通信機器だと思っているが……
+[name="Spokesman McKee"]  Huh? Obviously a communication tool...
+[name="대변인 맥키"]  ……? 당연히 통신 수단이 아닌가……
 
 [name="发言人马克维茨"]  不。电话是现代社会的纺锤与犁，是编织这个现代社会的渠道。
+[name="代弁者マルキェヴィッチ"]  私の考えでは、電話は現代社会を紡いだ錘であり、それを耕す鋤であり、この社会を作り上げるに用いた水路です。
+[name="Spokesman Malkiewicz"]  No. The phone is the spindle and plough of modern society, the pathway that weaves the fabric of life as we currently know it.
+[name="대변인 말키위츠"]  아닙니다. 전화는 현대 사회의 방직이자 쟁기이며, 이 사회를 이룩하는 통로죠.
 
 [name="发言人马克维茨"]  是伟大的象征，麦基先生。
+[name="代弁者マルキェヴィッチ"]  つまり偉大さの象徴なのです、マッキー様。
+[name="Spokesman Malkiewicz"]  It is a symbol of greatness, Mr. McKee.
+[name="대변인 말키위츠"]  위대한 상징이란 말입니다, 맥키 선생님.
 
 [name="发言人麦基"]  ......
+[name="代弁者マッキー"]  ……
+[name="Spokesman McKee"]  ......
+[name="대변인 맥키"]  ……
 
 麦基一言未发。
+マッキーは何も言わなかった。
+McKee's words fail him.
+맥키는 아무 말도 하지 않았다.
 
 他只是突然从马克维茨身上感到了一种气势。
+彼はふと、マルキェヴィッチからあるものを感じ取っていた。
+Suddenly, he senses an aura of sorts from Malkiewicz.
+그는 갑자기 말키위츠에게서 어떠한 기세를 느꼈다.
 
 这个数月前创业失败，一事无成，唯唯诺诺的人身上，有一种近乎天然的气势。
+つい数ヶ月ほど前事業に失敗し、何かを成し遂げることもなく、ただ唯々諾々と周りに従っていたこの人物には、ある種の気配があった。
+Over the last few months, a business venture failed spectacularly, amounting to nothing. Those who have been whipped almost naturally give off a certain kind of aura.
+몇 달 전만 해도 창업에 실패하고 고분고분 말을 듣던 사람에게서 아무것도 물들지 않은 자연 그대로의 기세가 느껴졌다.
 
 他曾在不少人身上看到过这种气势。
+マッキーは、これまでに多くの人からこれと同じものを感じ取ったことがある。
+He has seen this kind of aura in many people before.
+전에도 그는 여러 사람에게서 이런 기세를 느낀 적이 있다.
 
 他们大都在变迁与博弈中血肉模糊，至于活下来的那些——
+しかし、彼らのほとんどは、変化と賭けの連続の中でいつの間にか倒れた。そして、ごく少数の生き残った者たちはみな――
+Most of them were chewed up and mangled by the changing times or by the competition. As for the few who survived––
+하지만, 그들은 대부분 변화와 선택 속에서 피범벅이 되었고, 살아남은 사람들도……
 
 ——几乎都成为了某种形态的一部分。
+――このカジミエーシュの社会に取り込まれて、時代を動かす器官となった。
+––nearly all of them turned out the same.
+……대부분 어떤 형태의 한 부분이 되고 말았다.
 
